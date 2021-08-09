@@ -315,7 +315,7 @@ App Manager
 * [Neko](https://github.com/CarlosEsco/Neko) 
 * [Meow](https://github.com/neverfelly/Meow) 
 * [TheComicsLibrary](https://github.com/FabioPezzini/TheComicsLibrary ) - *Comic &amp; Manga Library* 
-* [Shosetsu](https://github.com/ShosetsuOrg/android-app) - *Light Novels / [Dev Builds](https://github.com/shosetsuorg/shosetsu-preview) / [Discord](https://discord.gg/ttSX7gB)* 
+* [Shosetsu](https://shosetsu.app/) - *Light Novels / [GitHub](https://github.com/ShosetsuOrg/android-app) / [Dev Builds](https://github.com/shosetsuorg/shosetsu-preview) / [Discord](https://discord.gg/ttSX7gB)* 
 
 ***
 
