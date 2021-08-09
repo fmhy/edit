@@ -1,2 +1,2 @@
 # FMHYedit
-Make changes to the FMHY Wiki
+Make pull requests / changes to the FMHY Wiki 
