@@ -105,7 +105,6 @@
 * [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - *Integrate Services with Discord*
 * [Discord.py Docs](https://discordpy.readthedocs.io/en/latest/) - *Discord.py API Docs*
 * [Balena](https://www.balena.io/) - *Build / Manage  IoT Groups*
-* [BugBounty](http://bugbountytips.me/) - *Bug Tips Search Engine*
 * [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) - *Bug Bounty Resources*
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - *CTF Resources*
 * [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) - *API index* 
@@ -157,7 +156,6 @@
 * [ipinfo.io](https://ipinfo.io/) - *IP Data API*
 * [Certbot](https://certbot.eff.org/) - *Enable HTTPS Automatically*
 * [MachineID](http://www.ionworx.com/machineid.html) - *Hardware Identifier*
-* [ACRCloud](https://acrcloud.com/) - *Automatic Content Recognition*
 * [TrackMyBacklink](https://trackmybacklink.com/) - *Backlink Tracker*
 * [Wappalyzer](https://www.wappalyzer.com/) - *Identify Technologies on Websites* 
 * [Bubble](https://bubble.io/) - *Create Web Apps* 
@@ -263,7 +261,7 @@
 * [git:logs](https://www.gitlogs.com/) - *Trending GitHub Repos* 
 * [Active Github Forks](https://techgaun.github.io/active-forks/) - *List of active github forks*
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) - *View a Repositories Forks* 
-* [grep.app](https://grep.app/) or [GitSearch](https://gitsearch.io/) - *Git Repository Search*
+* [grep.app](https://grep.app/ - *Git Repository Search*
 * [Git Extensions ](https://gitextensions.github.io/) - *Git Repository Manager*
 * [GitZip](https://gitzip.org/) - *Download GitHub Repository Sub-Folders / Files* 
 * [useful-forks](https://useful-forks.github.io/) - *GitHub Fork Search* 
@@ -322,7 +320,7 @@
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - *Creative Coding Resource Index* 
 * [Algorithm Visualizer](https://algorithm-visualizer.org/) - *Visualize Code Algorithms* 
 * [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Brackets](http://brackets.io/), [Notepad2](https://www.flos-freeware.ch/notepad2.html) or [Light Table](http://lighttable.com/) - *Code Editor* 
-* Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Android](https://github.com/shiftrot/droidvim), [2](https://f-droid.org/packages/com.droidvim) / [Config](https://github.com/ChristianChiarulli/LunarVim)
+* Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Config](https://github.com/ChristianChiarulli/LunarVim)
 * [Vim Plug](https://github.com/junegunn/vim-plug), [Vim Pathogen](https://github.com/tpope/vim-pathogen), [Vundle](https://github.com/VundleVim/Vundle.vim ), [Shougo](https://github.com/Shougo/dein.vim) - *Vim Plugin Managers*
 * [VimAwesome](https://vimawesome.com/) - *Vim Plugin Search*
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - *Vim Code-completion engine*
