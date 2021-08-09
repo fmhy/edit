@@ -255,7 +255,7 @@
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - *Git Learning Game*
 * [Refined GitHub](https://github.com/sindresorhus/refined-github) - *Simplifies GitHub Interface & Adds Features* 
 * [github1s](https://github1s.com/) - *GitHub Code Viewer / GUI: do `gitk` in repo folder* 
-* [git](https://git-scm.com/) - *Version Control System *
+* [git](https://git-scm.com/) - *Version Control System*
 * /r/coolgithubprojects - *Cool Projects on Github* 
 * /r/coolgitlabprojects - *Cool Projects on Gitlab*
 * [git:logs](https://www.gitlogs.com/) - *Trending GitHub Repos* 
