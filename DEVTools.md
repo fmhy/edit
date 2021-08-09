@@ -240,8 +240,7 @@
 * [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/) or [SimpleCSS](https://simplecss.org/) - *CSS Framework*
 * [TailBlocks](https://tailblocks.cc/) - *Ready-to-use Tailwind CSS Blocks*
 * [MarkdownGuide](https://www.markdownguide.org/) - *Guide for Markdown (.md)* 
-* [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/) or [Mark Text](https://github.com/marktext/marktext) - *Markdown Editor* 
-* [HedgeDoc](https://hedgedoc.envs.net/) - *Markdown Editor / Collaboration*
+* [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/) or [Mark Text](https://github.com/marktext/marktext) - *Markdown Editor* 
 * [Markdown Editor for Firefox](https://addons.mozilla.org/en-US/firefox/addon/markdown-editor-premium/) - *Markdown Editor Extension* 
 * [Markdown To HTML](https://markdowntohtml.com/) - *Markdown to HTML Converter*
 * [Obsidian](https://obsidian.md/) - *Markdown File Organizer*  
