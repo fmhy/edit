@@ -288,6 +288,7 @@
 * [AnimeVibe](https://animevibe.tv/) - *Sub* 
 * [DivineAnime](https://www.divineanime.ru/) - *Sub / Dub* 
 * [Animeow.me](https://animeow.me/) - *Sub / Dub* 
+* [Anime OWL](https://animeowl.net/home/) - *Sub / Dub*
 * [KimAnime](https://kimanime.ru/) - *Sub / Dub* 
 * [Anime1](http://www.anime1.com/) - *Sub* 
 * [NetAnime](https://netanime.tv/) - *Sub / Dub* 
