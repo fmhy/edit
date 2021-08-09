@@ -17,7 +17,7 @@
 
 ***
 
-## ▷ Adblocking Extensions
+## ▷ Adblocking Extension
 
 * **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** / [Extra](https://github.com/gorhill/uBO-Extra), [AdNauseam](https://adnauseam.io/) or [TBlock](https://tblock.codeberg.page/) - *Adblockers*
 * **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** - *Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Duplicate Check](https://abpvn.com/ruleChecker/redundantRuleChecker.html)* 
