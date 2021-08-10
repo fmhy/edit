@@ -35,6 +35,7 @@
 
 # ► Download Sites
 
+* **WARNING** - We do *not* recommend downloading software or games from these. Use trusted sites like FitGirl or FileCR instead. 
 * **[DownloadHa](https://www.downloadha.com)** - *Video / Software / Games / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * **[SoftArchive](https://sanet.st)** or [Sanet.lc](https://sanet.lc/) - *Video / Audio / Games / Software / Android / Books / Comics / Newspapers / Magazines*
 * **[DirtyWarez](https://forum.dirtywarez.com/)** - *Forum / Video / Audio / Games / Software / Books / Comics* 
