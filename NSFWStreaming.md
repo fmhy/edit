@@ -141,6 +141,7 @@
 * [RaidForums NSFW](https://raidforums.com/Forum-Not-Safe-For-Work)
 * [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46) 
 * [sakuracircle](https://sakuracircle.com/) 
+* [MyReadingManga](https://myreadingmanga.info/)
 * [Wholesome Hentai](https://wholesomelist.com/)
 * [Anime-Sharing Hentai](http://www.anime-sharing.com/forum/hentai-ovas-36/)
 * [Porndude Hentai](https://theporndude.com/hentai-porn-sites)
