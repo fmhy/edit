@@ -1112,6 +1112,7 @@ General Reading Sites*
 * [TweetDeck](https://tweetdeck.twitter.com/) - *Twitter Dashboard*
 * [BackTweets](http://backtweets.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - *Search Twitter* 
 * [Twishort](https://twishort.com/) - *Make Longer Tweets*
+* [Tweetgen](https://www.tweetgen.com/) - *Create Fake Tweets*
 * [Thread Reader App](https://threadreaderapp.com/) - *Unroll Twitter threads / Search* 
 * [Treeverse](https://treeverse.app/) - *Twitter Conversation Visualizer* 
 * [Trends Map](https://www.trendsmap.com/), [Twitter Trends](https://twitter-trends.vercel.app/) or [MentionMap](https://mentionmapp.com/) - *Trending Twitter Hashtags / Topics*
@@ -1124,7 +1125,7 @@ General Reading Sites*
 * [Klear](https://klear.com/free-tools/find-twitter-influencers) - *Find Influencers* 
 * [Twiangulate](http://twiangulate.com/search/) - *Compare Twitter User Followers* 
 * [FollowerWonk](https://followerwonk.com/) - *Find, Analyze & Optimize Followers* 
-* [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [thisvid2 Web Edition](https://projectlounge.pw/thisvid2), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - *Download Twitter Videos* 
+* [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - *Download Twitter Videos* 
 * [accountanalysis](https://accountanalysis.app/), [SocialBearing](https://socialbearing.com/) or [Foller](https://foller.me/) - *Analyze Twitter Accounts* 
 * [TweeterID](https://tweeterid.com/) - *Twitter User ID & Username Converter* 
 * [Spoonbill](https://spoonbill.io/) - *Track Profile Changes of People you Follow* 
@@ -1188,7 +1189,6 @@ General Reading Sites*
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - *Preinstallation Environment* 
 * [CD Key Reader](http://www.cathonian.com/software/cd-keyreader/) - *Find Key used to Install Windows*
 * [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) or [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - *Extended Windows 7 Updates* 
-* [loliOS](https://github.com/apsun/loliOS) - *Lightweight Operating System / [For Educational Purposes](https://i.imgur.com/Y8Rc8q5.png)*
 * [SmartWindows](https://smartwindows.app/) - *Create / Restore Windows Profiles* 
 * [VirtualBox](https://www.virtualbox.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - *Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)*
 * [Windows Sandbox](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview) - *Sandbox Environment*
