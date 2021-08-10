@@ -196,7 +196,7 @@
 * [Pinry](https://docs.getpinry.com/ ) - *Image Tiling Board*
 * [darktable](https://www.darktable.org/) - *Virtual Lighttable & Darkroom*
 * [GradientArt](https://gra.dient.art/) - *Gradient Editor*
-* [Krita](https://krita.org/en/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/) or [MediBang](https://medibangpaint.com/en/) - *Painting*
+* [Krita](https://krita.org/en/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [JS Kid Pix](https://kidpix.app/) or [MediBang](https://medibangpaint.com/en/) - *Painting*
 * [Pixel Painter](https://jenniferdewalt.com/pixel_painter.html) - *Paint with Pixels*
 * [AutoDraw](https://www.autodraw.com/) - *Machine Learning Drawing Tool* 
 * [Rough.js](https://roughjs.com/) - *Create Graphics that look Hand-Drawn*
