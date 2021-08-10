@@ -49,6 +49,7 @@
 * [Adhole](https://adhole.org/) 
 * [Quad9](https://quad9.net/) 
 * [Rethink](https://rethinkdns.com/)
+* [YogaDNS](https://yogadns.com/)
 * [DNSCrypt](https://www.dnscrypt.org) - *[Manager](https://simplednscrypt.org/)*
 * [AlternateDNS](https://alternate-dns.com/index.php)
 * [Stubby](https://github.com/getdnsapi/stubby)
