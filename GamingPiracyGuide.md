@@ -89,7 +89,6 @@
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "games" or "roms"*
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)**
 * **[DODI](http://dodi-repacks.site/)** - *[Discord](https://discord.gg/uE273qJ)*
-* **[R.G. Mechanics Games](https://s1.rg-mechanics.org/)** - *Trusted mirror of RG's repacks*
 * **[ElAmigos Games](https://elamigos.site/)**, [2](https://www.elamigos-games.com/) 
 * **[Black Box Repack](http://www.blackboxrepack.com/)**
 * **[Xatab Repack](https://b.otxataba.net/), [2](https://x5.xatab-repack.com/)**
@@ -103,7 +102,6 @@
 * [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win/)
-* [AllTorrents](https://alltorrents.co/) - *They rec utorrent, but we'd avoid using it*
 * [Ali213](https://ali213.net/) - *May Require VPN / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 
 ***
@@ -190,7 +188,7 @@
 
 * **[No-Intro](https://archive.org/details/no-intro_romsets)**, [2](https://archive.org/details/No-Intro-Collection_2016-01-03_Fixed), [3](https://archive.org/details/No-Intro-Collection_2016-09-06) - *Roms*
 * **[AlvRo](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml)**, [2](https://pastebin.com/79q1mdZm) - *Roms*
-* **[RomCenter](https://r-roms.github.io/)**, [2](https://ybin.me/p/bfc90baa4dd321a4#VO7PWg3gmBRui2NifgKrp0XFN3GOUmpkWesSsH02bDk=). [3](https://rentry.co/24ufx) - *Roms*
+* **[RomCenter](https://r-roms.github.io/)**, [2](https://rentry.co/24ufx) - *Roms*
 * [TheRomDepot](https://theromdepot.com/) - *Roms*
 * [@Storage_Manager](https://archive.org/details/@storage_manager) - *Roms / Zip* 
 * [FinalBurn Neo](https://archive.org/details/2020_01_06_fbn) - *Roms / Zip* 
@@ -390,7 +388,8 @@
 * [Classic Minecraft](https://classic.minecraft.net/) - *Play Classic Minecraft* 
 * [Marble Blast Gold Web](https://marbleblast.vani.ga/) - *Marble Blast Gold in Browser*
 * [Flavour Machine](https://flavourmachine.com/) - *Twists to well known games*
-* [Kittens Game](https://bloodrizer.ru/games/kittens/) - *Make your own kitten civilization*
+* [ The Thorp of Woodstock](https://cheerfulghost.github.io/civ-clicker/index.html) - *Build a Civilization*
+* [Kittens Game](https://bloodrizer.ru/games/kittens/) - *Build a Kitten Civilization*
 * [Badger Kingdom](http://www.badgerkingdom.pantomimepony.co.uk/) - *Manage a group of badgers, help them survive*  
 * [FSHistory](https://s-macke.github.io/FSHistory/) - *Play Classic Flight Simulator* 
 * [Magnetic Scripts](https://msmemorial.if-legends.org/msa2/msa2.html) - *Magnetic Scrolls* 
