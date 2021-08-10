@@ -514,6 +514,7 @@ iOS
 * [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669), [surespot](https://www.surespot.me/), [Status](https://status.im/), [Session](https://getsession.org/), [Confide](https://apps.apple.com/ca/app/confide-secret-messenger/id779883419) or [chatsecure](https://chatsecure.org/) - *Encrypted Messaging* 
 * [Wickr](https://apps.apple.com/us/app/wickr-pro/id1200926568), [Jami](https://jami.net/), [MySudo](https://mysudo.com/) or [Element](https://apps.apple.com/app/vector/id1083446067) - *Encrypted Messaging / Video Calls*
 * [Bluer](https://apps.apple.com/us/app/bluer-for-facebook-messenger/id1490523710) - *Privacy-Based Facebook Client*
+* [ProtonMail](https://apps.apple.com/us/app/protonmail-encrypted-email/id979659905) - *Encrypted Emailing Service*
 
 ***
 
@@ -562,6 +563,7 @@ iOS
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
 * [Rhino](https://lemamichael.github.io/WhatIsRhino/) - *Tweaked Instagram Client*
 * [GGMorse](https://github.com/ggerganov/ggmorse) - *Morse Code Decoding App*
+* [PictureThis](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129) - *Plant Identifier*
 * [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id375589283) - *Delivery Tracker*
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - *Connect Mac Keyboard to Mobile Devices*
 * [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - *Control Android TV Box with iPhone*
@@ -584,6 +586,7 @@ iOS
 * [Tutubox](https://tutubox.io/) - *Tweaked Apps Store* 
 * [iPAGarage](https://drive.google.com/drive/mobile/folders/1SxmAaB_dIswVsrKqtxOhymati-HaLYTT?usp=sharing) - *Community Based Tweaked/Hacked iOS App Library / [Twitter](https://twitter.com/ipagarage/)*
 * [Cydia](https://cydia.saurik.com/) - *App Store*
+* [BuildStore](https://builds.io/) - *App Store*
 * [AltStore](https://altstore.io/) - *App Store / [Repo View](https://altsource.by.lao.sb/browse/) / [AltDaeomon](https://repo.dynastic.co/package/altdaemon)*
 * [ioshaven](https://ioshaven.com/apps) - *App Store* 
 * [Signulous](https://www.signulous.com/) - *App Store / Sideloading*
@@ -615,6 +618,7 @@ iOS
 * [Audiomack](https://apps.apple.com/ca/app/audiomack-download-new-music/id921765888) - *Streaming* 
 * [VOX](https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494) - *Streaming*
 * [Quorus](https://quorus.net/) - *Collaborative Playlists* 
+* [Qello](https://apps.apple.com/us/app/qello-concerts-live-music/id491069819) - *Concerts & Live Music Streaming*
 * [‎TuneStalgia](https://apps.apple.com/us/app/tunestalgia/id1561719773) - *Music Nostalgia App*
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *Download / FLAC / MP3*
 * [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - *Spotify Release Tracker / Metrics* 
@@ -697,4 +701,5 @@ iOS
 * [Manga Bird](https://apps.apple.com/us/app/manga-bird-best-manga-reader/id834760417)
 * [MangaZone](https://apps.apple.com/app/id1181309509)
 * [ZETSU](https://testflight.apple.com/join/emEhlNGn)
-* [Paperback](https://paperback.moe/) - *[Discord](https://discord.gg/Ny83JV3) / [App Store](https://apps.apple.com/app/paperback-manga-reader/id1519509781)*
+* [Paperback](https://paperback.moe/) - *[Discord](https://discord.gg/Ny83JV3)*
+* [Manga Max](https://apps.apple.com/us/app/apple-store/id1558957618)
