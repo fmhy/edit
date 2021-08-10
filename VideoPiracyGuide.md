@@ -351,8 +351,6 @@
 * **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - *NBA / NFL*
 * **[Jackal](https://jackal.surge.sh/)** - *TV / Sports*
 * [SportsBay](https://sportsbay.org/live-streams) - *Sports* 
-* [Icelz](https://icelz.newsrade.com/) - *The Olympics*
-* [7Plus](https://7plus.com.au/) - *The Olympics / Australian VPN Required*
 * [123TV](http://123tv.live/) - *TV / Sports*
 * [streamlive](https://www.streamlive.to/) - *TV / Sports*
 * [ChannelSurf](https://channelsurf.tv/) - *TV / Sports*
