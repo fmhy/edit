@@ -566,6 +566,7 @@
 * [RGB](https://www.rrrgggbbb.com/) - *RRRGGGBBB* 
 * [DogeWeather](http://dogeweather.com/) - *Weather with Doge* 
 * [Chris Shier](https://www.csh.bz/) - *Canvas Animations / GIFs* 
+* [thisvid2 Web Edition](https://projectlounge.pw/thisvid2) - *(Funny) Twitter Video Downloader*
 * [StaggeringBeauty](http://www.staggeringbeauty.com/) - *Wiggle a Worm, Have a Seizure* 
 * [Keep calm and poke me.](https://calm.ovh/) - *Poke & Pull* 
 * [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en) - *Lead a Blob Opera*
