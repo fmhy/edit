@@ -64,6 +64,7 @@
 * https://presearch.org/ + [GitHub](https://github.com/presearchofficial)
 * https://search.aol.com/
 * https://www.bing.com/
+* https://www.entireweb.com/
 * https://all-io.net/
 * https://www.alltheinternet.com/
 * https://www.etools.ch/

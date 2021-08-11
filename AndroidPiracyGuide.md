@@ -463,6 +463,7 @@ RSS Player*
 * [IPSW](https://ipsw.me/) - *Provides Jailbreak firmware*
 * [Julioverne](https://julio.hackyouriphone.org/) - *Jailbreaking Tools* 
 * [Odyssey](https://theodyssey.dev/) - *13.0-13.5 Semi-tethered Jailbreak* 
+* [Chimera](https://chimera.coolstar.org/) - *12 — 12.5.3 Jailbreak*
 * [unc0ver](https://github.com/pwn20wndstuff/Undecimus) - *11.0-13.5 Semi-tethered Jailbreak* 
 * [Meridian](https://meridian.sparkes.zone/) - *10.0-10.3.3 Jailbreak* 
 * [Unc0ver](https://unc0ver.dev/) - *11.0-14.3 Jailbreak*
