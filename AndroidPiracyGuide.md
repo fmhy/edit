@@ -438,7 +438,6 @@ RSS Player*
 
 ## ▷ Android Live TV 
 
-* [ThopTV](https://thoptvofficial.buzz/)
 * [AOS TV](https://aostv.app/)
 * [OLATV](https://forum.mobilism.org/search.php?keywords=ola+tv&amp;sr=topics&amp;sf=titleonly)
 * [Live NetTV](https://www.livenettv.bz/)
