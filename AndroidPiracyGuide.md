@@ -508,6 +508,7 @@ iOS
 # ► iOS Privacy
 
 * [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [Authenticator](https://mattrubin.me/authenticator), [Obsidian](https://obsidianapp.io/) or [Tofu](https://www.tofuauth.com/) - *Two-factor authentication*  
+* [Secret Photo Album ++](https://apps.apple.com/us/app/secret-photo-album/id1459036428) - *Hide Private Content with a pin*
 * [Onion Browser](https://onionbrowser.com/) - *Onion Browser for iOS* 
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - *Privacy Based Browser* 
 * [Anti-Social](https://apps.apple.com/us/app/faceblock-block-facebook/id1516200820) - *Block social media trackers / iOS* 
