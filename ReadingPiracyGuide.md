@@ -625,7 +625,7 @@
 * [Aleph](https://github.com/alephdata/aleph ) - *Document Index Tool*
 * [Dataset Search](https://datasetsearch.research.google.com/) - *Dataset Search Google* 
 * [PDF / Doc Search Engine](https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0) 
-* [DocDownloader](https://docdownloader.com/) or [ScribdDown](https://scribddown.com/) - *[Scribd](https://www.scribd.com/) Document Downloader* 
+* [DocDownloader](https://docdownloader.com/), [guIHelp](https://discord.gg/rgF9jY8CpH) or [ScribdDown](https://scribddown.com/) - *[Scribd](https://www.scribd.com/) Document Downloader* 
 * [ZealDocs](https://zealdocs.org/) - *Documentation Reader*
 * [GROBID](https://github.com/kermitt2/grobid) - *Extract / Organize Scientific Document Info*
 
