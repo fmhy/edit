@@ -113,7 +113,7 @@
 
 #### Android Audio Players
 
-[VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer), [BlackHole](https://github.com/Sangwan5688/BlackHole), [RAAG](https://github.com/raag-music/raag/), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Pulse Music](https://f-droid.org/en/packages/com.hardcodecoder.pulsemusic/), [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet&hl=en_US&gl=US)
+[VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer), [BlackHole](https://github.com/Sangwan5688/BlackHole), [RAAG](https://github.com/raag-music/raag/), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Pulse Music](https://f-droid.org/en/packages/com.hardcodecoder.pulsemusic/), [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet&hl=en_US&gl=US), [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
 
 ***
 
@@ -137,7 +137,7 @@
 
 #### Audio Editors 
 
-**[Audacity](https://github.com/cookiengineer/audacity)**, [2](https://archive.org/details/audacity-2.4.2), [3](https://www.audacityteam.org/), [4](https://github.com/temporary-audacity/audacity), [5](https://github.com/tenacityteam/tenacity) / [DarkAudacity](http://www.darkaudacity.com/), [MusE](https://muse-sequencer.github.io/), [Lexis Audio Editor](https://www.lexisaudioeditor.com/), [mp3DirectCut](https://mpesch3.de/), [Ardour](https://ardour.org/), [LMMS](https://lmms.io/), [AudioMass](https://audiomass.co/), [FamiStudio](https://famistudio.org/), [ocenaudio](https://www.ocenaudio.com/en/startpage), [mp3mymp3](https://mp3mymp3.digitalliquid.com/), [Wavosaur](https://www.wavosaur.com/), [Sneedcity](https://github.com/Sneeds-Feed-and-Seed/sneedacity), [Radium](https://users.notam02.no/~kjetism/radium/), [AudioDope](http://www.audiodope.org/index.htm), [Qtractor](https://qtractor.org/) (Linux)
+**[Audacity](https://github.com/cookiengineer/audacity)**, [2](https://archive.org/details/audacity-2.4.2), [3](https://www.audacityteam.org/), [4](https://github.com/temporary-audacity/audacity), [5](https://github.com/tenacityteam/tenacity) / [DarkAudacity](http://www.darkaudacity.com/), [MusE](https://muse-sequencer.github.io/), [Lexis Audio Editor](https://www.lexisaudioeditor.com/), [mp3DirectCut](https://mpesch3.de/), [Ardour](https://ardour.org/), [LMMS](https://lmms.io/), [AudioMass](https://audiomass.co/), [FamiStudio](https://famistudio.org/), [ocenaudio](https://www.ocenaudio.com/en/startpage), [mp3mymp3](https://mp3mymp3.digitalliquid.com/), [Wavosaur](https://www.wavosaur.com/), [Sneedcity](https://github.com/Sneeds-Feed-and-Seed/sneedacity), [Radium](https://users.notam02.no/~kjetism/radium/), [AudioDope](http://www.audiodope.org/index.htm), [FL Studio](https://www.image-line.com/fl-studio-download/), [Qtractor](https://qtractor.org/) (Linux)
 
 ***
 
@@ -1833,7 +1833,7 @@ Good for finding classic, obscure & short films.
 * [ggOS](https://discord.gg/A5BHSQV) - *Custom Windows 10 20H2 ISO*
 * [XOS](https://discord.gg/Zs4bpVjJyp) - *Custom Windows 10 1803 ISO*
 * [Ameliorated](https://ameliorated.info/) - *Windows 10 ISO Aimed Towards No Telemetry Windows 10*
-* [Windows 10 LSTC](https://mega.nz/folder/ChNTDaiL#nNqH2PTfIzTLAEs8nc-U0w) - *Bloat / Telemetry Free Windows 10 / r/Windows10LTSC*
+* [Windows 10 LTSC](https://drive.google.com/file/d/1Tg7ovGu8lZlV_2PEQN6hQ3s5U8rckHmc/view?usp=sharing),  [2](https://mega.nz/folder/ChNTDaiL#nNqH2PTfIzTLAEs8nc-U0w) - *Bloat / Telemetry Free Windows 10 / r/Windows10LTSC*
 * [Windows 10 Performance Edition](https://mega.nz/file/4JkCwYJB#ghB08_PppoMdl3t2F-9-hzNtBDgrw8gwM6MsUx1koZ0), [2](https://1fichier.com/?cxqd57d6vfpot5x6v9ft) - *No Cortana, Onedrive, Telemetry, Spying ect. / [Updates & Install Guide](https://weboas.is/forum/index.php?topic=2068.0)*
 * [OldSchoolOS](https://www.oldschoolos.com/), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - *Oldschool ISO's*
 
