@@ -72,6 +72,7 @@
 * [Catch the Man-in-the-Middle](https://play.google.com/store/apps/details?id=me.brax.certchecker) - *Check if HTTPS Traffic is being Monitored* 
 * [Gadget Bridge](https://gadgetbridge.org/) - *Connect to Smartwatches without Vendor Apps / Accounts*
 * [Scrambled Exif](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif) - *Remove Image Metadata*
+* [firefox}
 
 ***
 
