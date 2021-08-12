@@ -580,6 +580,7 @@
 * [Windy](https://www.windy.com/) - *Wind Map* 
 * [Air Now](https://gispub.epa.gov/airnow/) - *Air Quality Map*
 * [River Runner](https://river-runner.samlearner.com/) - *River Map*
+* [Earth](https://earth.nullschool.net/) - *Global map of Wind, Weather, Ocean and Pollution conditions*
 * [Wikimapia](http://wikimapia.org/) - *Online Editable Map*
 * [MapChart](https://mapchart.net/) - *Create Custom Maps* 
 * [City Roads](https://anvaka.github.io/city-roads/) - *Draw City Roads*
