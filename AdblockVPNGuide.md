@@ -422,6 +422,7 @@
 * [TurboVPN](https://turbovpn.com/) - *Free VPN*
 * [Free VPN Online](http://freevpnonline.com/) - *Free VPN*
 * [TouchVPN](https://touchvpn.net/) - *Free VPN*
+* [Calyx VPN](https://calyx.net/) - *Free VPN*
 * [Sentinel](https://sentinel.co/) - *Free VPN / /r/SENT / [Guide](https://youtu.be/Iaa7Jwd5sy8)* 
 * [FreePN](https://www.freepn.org/) - *Free Open Source P2P VPN* 
 * [TunnelBear](https://www.tunnelbear.com/) - *Free VPN / 500mb only*
