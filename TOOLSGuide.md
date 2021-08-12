@@ -406,6 +406,7 @@
 * [ShareAE](https://www.shareae.com/), [FreeAE](https://freedownloadae.com/), [HunterAE](https://hunterae.com/), [AERiver](https://aeriver.com/) or [DownAE](https://downae.com/) - *After Effects Templates*
 * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5) 
 * [zeroTube](http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb) - *Decentralized video platform on ZeroNet using WebTorrent + [GitHub](https://github.com/rllola/zeroTube/)*
+* [MotionMonkey](https://omega.gg/MotionMonkey/) - *Stream Online Videos in Player*
 * [StreamLink](https://streamlink.github.io/) - *Extract Videos from Sites to Players* 
 * [Ant Movie](https://www.antp.be/software/moviecatalog) - *Desktop video media catalog*
 * [polsy.org.uk](http://polsy.org.uk/) - *Alt Players for Video Sites*  
@@ -444,13 +445,16 @@
 * [Online Mic Test](https://onlinemictest.com/) - *Mic Test* 
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) - *Measure Surrounding Sound Level*
 * [Audio-Router](https://github.com/audiorouterdev/audio-router) - *Route Audio from Programs to Devices*
-* [AAFDCHDriverMod](https://github.com/AlanFinotty/AAFDCHDriverMod) or [Ultimate Realtek HD Audio Driver Mod](https://1drv.ms/f/s!AkGtxiGigudSzVLpSjYdvkAqrejL) - *Audio Driver Mods*
+* [AAFDCHDriverMod](https://github.com/AlanFinotty/AAFDCHDriverMod) or [Ultimate Realtek HD Audio Driver Mod](https://1drv.ms/f/s!AkGtxiGigudSzVLpSjYdvkAqrejL) - *Realtek Audio Driver*
+* [ASIO4ALL](https://www.asio4all.org/) - *ASIO Audio Driver*
 * [Equalizer APO](https://sourceforge.net/projects/equalizerapo/files/1.2/) - *Audio Equalizer*
 * [HeSuVi](https://sourceforge.net/projects/hesuvi/) - *Headphone Surround Virtualizations*
 * [REAL](https://github.com/miniant-git/REAL) - *Reduce Win 10 Audio Latency*
 * [VCV Rack](https://vcvrack.com/) - *Eurorack Simulator*
+* [Cable](https://vb-audio.com/Cable/) - *Virtual Audio Cable*
 * [Midomi](https://www.midomi.com/), [Shazam](https://www.shazam.com/), [SoundHound](https://www.soundhound.com/soundhound), [AcrCloud](https://www.acrcloud.com/identify-songs-music-recognition-online/), [Music ID Android](https://play.google.com/store/apps/details?id=com.gravitymobile.recognize&hl=en), [Music ID iOS](https://apps.apple.com/app/musicid/id358838909?ign-mpt=uo%3D8), /r/NameThatSong, [Dejavu](https://github.com/worldveil/dejavu) (python) or [Audd](https://audd.io/) (api) - *Song Identification Tools* 
-* [Soundboard](https://sourceforge.net/projects/expsoundboard/) - *Soundboard EXP*
+* [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/) - *Soundboard Program*
+* [MyInstants](https://www.myinstants.com/index/us/) - *Online Soundboard*
 * [Monash IO](https://monash.io/) or [AudioRelay](https://audiorelay.net/) - *Stream PC Audio to Phone* 
 * [Tune My Music](https://www.tunemymusic.com/) - *Transfer Your Music Library between Music Services*
 * [iPod.js](https://tannerv.com/ipod/) - *iPod Themed Web Music Player*
@@ -507,7 +511,9 @@
 * [Audiogrep](http://antiboredom.github.io/audiogrep/) - *Transcribe & Search for Phrases in Audio / [GitHub](https://github.com/antiboredom/audiogrep)*
 * [Splitter](https://www.splitter.ai/) or [melody ml](https://melody.ml/) - *Separate voice from instrumentals*
 * [VocalRemover](http://vocalremover.org/) / [GUI](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [AIVocalRemover](https://aivocalremover.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb) or [Remove Vocals](https://www.remove-vocals.com/) - *Remove / Isolate Vocal Tracks*
-* [Acapella-Extractor](https://www.acapella-extractor.com/) - *Remove Background Tracks*
+* [Acapella-Extractor](https://www.acapella-extractor.com/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - *Remove Background Tracks from Songs*
+* [VoiceFX](https://blog.xaymar.com/projects/voicefx/) - *Remove Background Noise from Voice Recordings*
+* [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - *Voice Audio Mixer*
 * [Voice Changer](https://voicechanger.io/) - *Online Voice Changer*
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) - *Clone Human Voices*
 * [Sound Branch](https://soundbran.ch/) - *Create / Share / Podcasts / Voice Messages* 
@@ -530,6 +536,7 @@
 * [mathewvp](http://midi.mathewvp.com/) - *Edit / Create / Polyphonic ringtones* 
 * [librosa](https://librosa.org/) - *Audio Analysis / Information Retrieval / [Github](https://github.com/librosa/librosa)*
 * [Auphonic](https://auphonic.com/) or [Levelator](http://www.conversationsnetwork.org/levelator) - *Audio Leveler*
+* [LightHost](https://github.com/rolandoislas/LightHost) - *VST / AU Host*
 * [OPUS](https://opus-codec.org/) - *Audio Codec / [Bitrate Optimization](https://github.com/master-of-zen/BOPUS)* 
 * [Ecasound](http://nosignal.fi/ecasound/) - *Multitrack Audio-Processor / Linux*
 
@@ -656,6 +663,7 @@
 * [Slapdash](https://slapdash.com/) - *Connect Cloud Apps* 
 * [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - *Communication Software Index*
 * [Hack.chat](https://hack.chat/) - *Minimal, Account Free Chat* 
+* [Cirlos](https://www.cirlos.net/) - *Customizable Chat App*
 * [KiwiIRC](https://kiwiirc.com/) - *WebIRC Client*
 * [AdiIRC](https://adiirc.com/) - *IRC Client*
 * [Cinny](https://cinny.in/) - *Matrix Client*
@@ -1172,11 +1180,11 @@ General Reading Sites*
 
 # ► System Tools
 
-* **[Windows Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/pirate-windows)**, [2](https://rentry.co/windows_for_retards), [3](https://rentry.co/fwt)
+* **[Windows Piracy Guide](https://rentry.co/fwt)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/pirate-windows), [3](https://rentry.co/windows_for_retards)
 * **[Windows ISO's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - *Download Windows*
 * **[Windows 10 Activation Guide](https://rentry.co/ActivateWin10)**, [2](https://redd.it/er3fon), [3](https://msguides.com/), [4](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation) - *Active Win 10 / [Discord](https://discord.gg/nWWfBMtBSk)*
 * **[Windows Activation Scripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation_scripts)** - *Windows / Office Activation*
-* [Windows Optimization Guide](https://youtu.be/pJTCwSX9Ym8) - *Friendly Windows Thread* 
+* **[Optimize-Guide](https://rentry.co/mdl-optimize-guide)** - *Optimize Windows / [Video](https://youtu.be/pJTCwSX9Ym8)* 
 * [Windows 10 Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)
 * [Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png), [2](https://i.imgur.com/A36Yd7F.png)
 * [PowerToys](https://github.com/microsoft/PowerToys) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
@@ -1220,6 +1228,7 @@ General Reading Sites*
 * [phwmon](https://gitlab.com/o9000/phwmon) - *System Tray Hardware Monitor*
 * [QDirStat](https://github.com/shundhammer/qdirstat) - *Directory Statistics*
 * [GenSMBIOS ](https://github.com/corpnewt/GenSMBIOS) - *SMBIOS Generator*
+* [x64dbg](https://github.com/x64dbg/x64dbg) - *Windows Debugging Tool*
 * [WhatPulse](https://whatpulse.org/) - *Mouse / Keyboard Usage Analyzer*
 * [BleachBit](https://www.bleachbit.org/) - *Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect.*  
 * [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - *Startup Program Monitor*
@@ -1274,6 +1283,7 @@ General Reading Sites*
 * [JumpShare](https://jumpshare.com/) - *File, Screenshot & Video Sharing*
 * [here.fm](https://here.fm/ ) - *Screen Sharing Tool*
 * [Parsec](https://parsec.app/), [RustDesk](https://rustdesk.com/), [RemoteDesktop](https://remotedesktop.google.com/), [AnyDesk](https://anydesk.com/en), [TeamViewer](https://www.teamviewer.com/en-us/) or [NoMachine](https://www.nomachine.com/) - *Remote Desktop Clients*
+* [TigerVNC](https://tigervnc.org/) - *VNC Client*
 * [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - *Free Ubuntu VNC*
 * [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - *Free Google RDP*
 * [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) - *Free Google Colab VPS on 25GB RAM*
@@ -1522,6 +1532,7 @@ General Reading Sites*
 * [Alfred](https://www.alfredapp.com/) - *Keystroke Launcher* 
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - *Volume Mixer / Auto-Pause*
 * [MacLaunch](http://github.com/hazcod/maclaunch) - *Manage macOS Startup Items*
+* [pongoOS](https://github.com/checkra1n/pongoOS) - *Mac Pre-Boot Executor*
 * [Homebrew](https://brew.sh/) - *Package Manager*
 * [Sosumi](https://github.com/popey/sosumi-snap.git) - *Download & Install macOS in a VM* 
 * [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
@@ -1580,6 +1591,7 @@ General Reading Sites*
 * [TerrColab](https://github.com/AndreVuillemot160/TerrColab) - *Host Collab based Terraria Server / [.ipynb](https://colab.research.google.com/github/AndreVuillemot160/TerrColab/blob/main/TerrColab.ipynb)*
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) - *Game Optimization Guides*
 * [Low Specs Experience](https://ragnotechpowered.com/) - *Game Optimization Program* 
+* [Magpie](https://github.com/Blinue/Magpie) - *Enable AMD FSR on Any Game / [Tutorial](https://youtu.be/gac7llDa18k)*
 * [protondb](https://www.protondb.com/) or [Lutris](https://lutris.net/) - *Play Windows games on Linux*
 * [Moonlight Stream ](https://moonlight-stream.org/) or [Rainway](https://rainway.com/gaming) - *PC Remote Play Client / [GitHub](https://github.com/moonlight-stream)*
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - *PS4 / PS5 Remote Play Client* 
