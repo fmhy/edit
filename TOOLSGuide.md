@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/tTE4qbn.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/RIFEqcS.png)** - *For mobile users*
 
 ***
 *** 
@@ -378,12 +378,7 @@
 * [GifW00t](https://github.com/yaronn/GifW00t) - *Javascript Web Recorder*
 * [veadotube](https://olmewe.itch.io/veadotube-mini) - *Virtual Avatar Software*
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - *Create TV Channels using Plex Library*
-* [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-dl](https://github.com/ihabunek/twitch-dl) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  *Download Twitch Videos* 
-* [Twitch Lite](https://thavixt.github.io/twitch-lite/) - *Lightweight Twitch Webplayer*
-* [Multi](https://multi.raredrop.co/) - *Watch Multiple Twitch Streams* 
-* [TwitchTheater](https://twitchtheater.tv/) - *Watch Multiple Twitch / YouTube Videos*
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) - *Streaming Tools Index*
-* [Livestream Panels](https://livestreampanels.com/) - *Custom Twitch Stream Panels*
 * [Zoom Escaper](https://zoomescaper.com/ ) - *Self-Sabotage Video Calls to Escape Meetings*
 * [Avidemux](http://fixounet.free.fr/avidemux/) - *Cut / Filter / Encode* 
 * [Clideo](https://clideo.com/), [Kapwing](https://www.kapwing.com/), [Biteable](https://biteable.com/), [Mastershot](https://mastershot.app/) or [KeepVid](https://keepvid.com/) - *Online Video Editor* 
@@ -691,13 +686,6 @@
 * [Gmail Dot Trick Generator](https://thebot.net/api/gmail/) - *Generate Unlimited Gmail Accounts via the Dot Trick*
 * [YakYak](https://github.com/yakyak/yakyak) - *Google Hangouts Desktop Client* 
 * [Caprine](https://sindresorhus.com/caprine/) - *Facebook Messenger Desktop App / [GitHub](https://github.com/sindresorhus/caprine)* 
-* [PogU.live](https://pogu.live/) - *Watch Twitch Sub-Only Videos*
-* [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - *Twitch Browser for Streamlink* 
-* [Twitchls](https://twitchls.com/) - *HTL5 Twitch Stream Player* 
-* [StreamSniper](https://www.streamsniper.tv/) - *HTML5 Twitch / YouTube Stream Player* 
-* [Twitch-Desktop](https://github.com/twitch-desktop/twitch-desktop) - *Twitch Desktop Client* 
-* [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - *GNU / Linux Twitch Desktop Client* 
-* [Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - *Download Twitch Chat Messages* 
 * [ZeroNet](https://zeronet.io/) - *Uncensorable sites + [/r/Zeronet](https://www.reddit.com/r/zeronet/)*
 * [Hamachi](https://vpn.net/) - *VPN / LAN Emulator*
 * [itty.bitty](https://itty.bitty.site/) - *Host Small HTML Sites / Apps* 
@@ -1084,7 +1072,8 @@ General Reading Sites*
 * [Blocked](https://watannetwork.com/tools/blocked/) or [YouTube Region Checker](http://polsy.org.uk/stuff/ytrestrict.cgi) - *Youtube Region Restrictions Check*
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - *Shows YouTube File Sizes* 
 * [h264ify](https://github.com/erkserkserks/h264ify) - *Use H.264 on YouTube* 
-* [StreamSniper](https://www.streamsniper.tv/) - *HTML5 Twitch / YouTube Stream Player* 
+* [Ultrawidify](https://github.com/tamius-han/ultrawidify) - *Fix YouTube Aspect Ratio*
+* [StreamSniper](https://www.streamsniper.tv/) - *HTML5 YouTube Stream Player* 
 * [YouTube Unlimited](https://gitlab.com/Shub_/youtube-unlimited) or [YoutubeNonStop](https://github.com/lawfx/YoutubeNonStop) - *Removes the YouTube: "Video Paused, Continue Watching?"* 
 * [Video Resumer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_resumer) - *Automatically resumes YouTube videos from where you played them last*
 * [ProgressBar Preserver](https://greasyfork.org/scripts/394512) - *Always Visible Progress Bar YouTube*
@@ -1100,6 +1089,26 @@ General Reading Sites*
 * [Youtube DataViewer](https://citizenevidence.amnestyusa.org/) or [YouTube-MA](https://github.com/CorentinB/YouTube-MA) - *YouTube Video Data Viewer* 
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YouTube Screenshot](https://www.youtubescreenshot.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - *Grab YouTube Thumbnails* 
 * [YouTube-Grab](https://github.com/ArchiveTeam/youtube-grab) - *YouTube Video Metadata Grabber*
+
+***
+
+## ▷ Twitch Tools
+
+* [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) - *Streaming Tools Index*
+* [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-dl](https://github.com/ihabunek/twitch-dl) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  *Download Twitch Videos* 
+* [Twitch Lite](https://thavixt.github.io/twitch-lite/) - *Lightweight Twitch Webplayer*
+* [Multi](https://multi.raredrop.co/) - *Watch Multiple Twitch Streams* 
+* [TwitchTheater](https://twitchtheater.tv/) - *Watch Multiple Twitch Videos*
+* [Livestream Panels](https://livestreampanels.com/) - *Custom Twitch Stream Panels*
+* [Ultrawidify](https://github.com/tamius-han/ultrawidify) - *Fix Twitch Aspect Ratio*
+* [StreamSniper](https://www.streamsniper.tv/) - *HTML5 Twitch Stream Player* 
+* [PogU.live](https://pogu.live/) - *Watch Twitch Sub-Only Videos*
+* [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - *Twitch Browser for Streamlink* 
+* [Twitchls](https://twitchls.com/) - *HTL5 Twitch Stream Player* 
+* [StreamSniper](https://www.streamsniper.tv/) - *HTML5 Twitch / YouTube Stream Player* 
+* [Twitch-Desktop](https://github.com/twitch-desktop/twitch-desktop) - *Twitch Desktop Client* 
+* [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - *GNU / Linux Twitch Desktop Client* 
+* [Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - *Download Twitch Chat Messages* 
 
 ***
 
