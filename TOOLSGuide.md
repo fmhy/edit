@@ -580,6 +580,7 @@
 * [Windy](https://www.windy.com/) - *Wind Map* 
 * [Air Now](https://gispub.epa.gov/airnow/) - *Air Quality Map*
 * [River Runner](https://river-runner.samlearner.com/) - *River Map*
+* [Earth](https://earth.nullschool.net/) - *Global map of Wind, Weather, Ocean and Pollution conditions*
 * [Wikimapia](http://wikimapia.org/) - *Online Editable Map*
 * [MapChart](https://mapchart.net/) - *Create Custom Maps* 
 * [City Roads](https://anvaka.github.io/city-roads/) - *Draw City Roads*
@@ -1581,6 +1582,7 @@ General Reading Sites*
 * [Lowkey](https://lowkey.gg/) - *Record / Screenshot Gameplay* 
 * [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
 * [Project Era](https://erafn.glitch.me/#downloads) - *Play Old Fortnite Seasons*
+* [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm) or BTRoblox [Chrome](https://chrome.google.com/webstore/detail/btroblox-making-roblox-be/hbkpclpemjeibhioopcebchdmohaieln)/[Firefox](https://addons.mozilla.org/en-US/firefox/addon/btroblox/) or [RoPro](https://ropro.io/) - *Add features and enhance Roblox website*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
 * [tModLoader](https://www.tmodloader.net/) - *Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)*
 * [TEdit](http://binaryconstruct.com/games/tedit) - *View / Edit Terraria Maps*
@@ -1671,6 +1673,7 @@ General Reading Sites*
 * [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) or [SteamFinder](https://steamidfinder.com/) - *Steam ID Lookup* 
 * [AugmentedSteam](https://augmentedsteam.com/) - *Steam Web Enhancement Extension* 
 * [Steam Database](https://steamdb.info/extension/) - *Adds Steam Database Link to Steam Community & Store* 
+* [Steam Web Filter Bypasser](https://chrome.google.com/webstore/detail/steam-web-filter-bypasser/gohcmgakipmdlpacegcgolafdhdlgifl) - *Bypass "You are leaving Steam" page* 
 * [Steam Account Manager](https://www.unknowncheats.me/forum/pc-software/117141-steam-account-manager.html) - *Steam Account Switcher / Manager*
 
 ***
