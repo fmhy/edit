@@ -11,6 +11,8 @@
 
 # ► Arabic 
 
+* [Wudooh](https://wudooh.app/) - *Make Arabic Text Clearer*
+
 ## ▷ Downloading 
 
 * [akwam](https://old.akwam.co/) - *Video / Audio / Software* 
@@ -585,6 +587,7 @@
 
 # ► Persian 
 
+* [Wudooh](https://wudooh.app/) - *Make Persian Text Clearer*
 * [Awesome AI channels](https://github.com/AminTaheri23/Awesome-AI-telegram-gp-and-channel) - *Persian Telegram Bot Index* 
 * [iranzirnevis](https://iranzirnevis.com/) - *Subtitles* 
 * [Free VPN Telegram Channels](https://bin.disroot.org/?85b66e37980b245e#DRbHouuNMfXGRdqPs68y6nGLULhHdvdXzuPdDmBxsyi2) - *Free VPN / Telegram*
@@ -744,6 +747,7 @@
 ## ▷ Streaming
 
 * [Mr. Piracy](https://mrpiracy.site/) - *Movies / TV / Anime* 
+* [TheFilmes](https://thefilmes.tv/) - *Movies / TV / Anime*
 * [GoFilmes](https://gofilmes.me/hd/) - *Movies / TV* 
 * [AnimeFire](https://animefire.net/) - *Anime* 
 * [AnimeVision](https://animesvision.biz/) - *Anime* 
