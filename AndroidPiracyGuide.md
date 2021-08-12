@@ -556,6 +556,7 @@ iOS
 * [Beam](https://apps.apple.com/nl/app/beam-for-reddit/id937987469), [Resurfer](https://apps.apple.com/us/app/resurfer/id1489340046), [Orion](https://apps.apple.com/us/app/orion-for-reddit/id1536533779), [Narwhal](https://apps.apple.com/us/app/narwhal-for-reddit/id845422455), [Reno](https://apps.apple.com/us/app/reno-for-reddit/id1489831590#?platform=iphone) or [BaconReader](http://baconreader.com/) - *Reddit Client*
 * [Remmel](https://apps.apple.com/us/app/remmel-for-lemmy/id1547988171) - *Lemmy Client*
 * [Nicegram](https://nicegram.app/) - *Telegram Client*
+* [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - *XMPP Client*
 * [Watusi](https://watusi.fouadraheb.com/) - *Modded WhatsApp*
 * [Whatspad++](https://iosninja.io/ipa-library/download-whatspad-ipa-ios) - *iPad WhatsApp*
 * [iCloud Bypass](https://frpfile.com/one-click-bypass-icloud/) - *Bypass iCloud One Click*
