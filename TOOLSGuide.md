@@ -1671,6 +1671,7 @@ General Reading Sites*
 * [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) or [SteamFinder](https://steamidfinder.com/) - *Steam ID Lookup* 
 * [AugmentedSteam](https://augmentedsteam.com/) - *Steam Web Enhancement Extension* 
 * [Steam Database](https://steamdb.info/extension/) - *Adds Steam Database Link to Steam Community & Store* 
+* [Steam Web Filter Bypasser](https://chrome.google.com/webstore/detail/steam-web-filter-bypasser/gohcmgakipmdlpacegcgolafdhdlgifl) - *Bypass "You are leaving Steam" page* 
 * [Steam Account Manager](https://www.unknowncheats.me/forum/pc-software/117141-steam-account-manager.html) - *Steam Account Switcher / Manager*
 
 ***
