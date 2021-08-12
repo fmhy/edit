@@ -1105,15 +1105,13 @@ General Reading Sites*
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) - *Streaming Tools Index*
 * [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-dl](https://github.com/ihabunek/twitch-dl) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  *Download Twitch Videos* 
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - *Lightweight Twitch Webplayer*
-* [Multi](https://multi.raredrop.co/) - *Watch Multiple Twitch Streams* 
-* [TwitchTheater](https://twitchtheater.tv/) - *Watch Multiple Twitch Videos*
+* [Multi](https://multi.raredrop.co/) or [TwitchTheater](https://twitchtheater.tv/) - *Watch Multiple Twitch Streams* 
 * [Livestream Panels](https://livestreampanels.com/) - *Custom Twitch Stream Panels*
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - *Fix Twitch Aspect Ratio*
 * [StreamSniper](https://www.streamsniper.tv/) - *HTML5 Twitch Stream Player* 
 * [PogU.live](https://pogu.live/) - *Watch Twitch Sub-Only Videos*
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - *Twitch Browser for Streamlink* 
-* [Twitchls](https://twitchls.com/) - *HTL5 Twitch Stream Player* 
-* [StreamSniper](https://www.streamsniper.tv/) - *HTML5 Twitch / YouTube Stream Player* 
+* [Twitchls](https://twitchls.com/) or [StreamSniper](https://www.streamsniper.tv/) - *HTL5 Twitch Stream Player* 
 * [Twitch-Desktop](https://github.com/twitch-desktop/twitch-desktop) - *Twitch Desktop Client* 
 * [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - *GNU / Linux Twitch Desktop Client* 
 * [Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - *Download Twitch Chat Messages* 
