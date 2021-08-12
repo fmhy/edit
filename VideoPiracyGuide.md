@@ -723,7 +723,8 @@
 * [DateNightMovies](https://datenightmovies.com/) - *Get Recommendations Based on 2 Movies* 
 * [imdb-compare-shows](https://daumann.github.io/imdb-compare-shows/) or [Series Rating Chart](https://www.neetcoder.com/app/) - *Compare TV Shows by Ratings*
 * [MRQE](https://www.mrqe.com/) - *Movie Review Search Engine*
-* [TV Chart](https://tvchart.benmiz.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - *TV Show Episode Ratings Graph*
+* [RatingsGraph](https://www.ratingraph.com/) - *Movie / TV Ratings Graphs*
+* [TV Chart](https://tvchart.benmiz.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - *TV Episode Rating Graphs*
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Greatest 100 Lists*
 * [ReelScary](http://www.reelscary.com/) - *Movies Rated by Scariness* 
 * [Based on the Book](https://www.mymcpl.org/books-movies-music/read/based-on-the-book) - *List of Movies Based on Books*
