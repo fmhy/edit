@@ -214,7 +214,7 @@
 * **[LocalCDN](https://www.localcdn.org/)**, [WhatCampaign](https://addons.mozilla.org/en-US/firefox/addon/whatcampaign/) or [TrackMeNot](http://trackmenot.io/) - *Tracking Protection*
 * [File Guard](https://mybrowseraddon.com/file-encryptor.html) - *File Encryption / Decryption*
 * [Trace](https://absolutedouble.co.uk/trace/) - *Privacy Toolkit* 
-* [Site Bleacher](https://github.com/wooque/site-bleacher) - *Auto remove cookies, local storages, IndexedDBs, service workers, cache storages, filesystems & webSQLs*
+* [Site Bleacher](https://github.com/wooque/site-bleacher) - *Auto Remove Cookies, Local Storages, ect.*
 * [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - *Redirects Twitter, YouTube, Instagram & Google Maps to alt interfaces*
 * [Invidition](https://codeberg.org/Booteille/Invidition) - *Redirect YouTube / Twitter requests to their alt interfaces*
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - *Redirects all YouTube links to Invidous* 
@@ -246,7 +246,7 @@
 * [Private Bookmarks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password-protected_bookmarks) - *Password Protected Bookmarks*
 * [Permission Inspector](https://github.com/tsl143/addonManager) - *Extension Permissions Inspector* 
 * [History-AutoDelete](https://github.com/History-AutoDelete/History-AutoDelete) - *Browser History Manager* 
-* [eCleaner](https://add0n.com/ecleaner.html) - *Quickly Clear Browser Data*
+* [eCleaner](https://add0n.com/ecleaner.html) or [History & Cache Cleaner ](https://chrome.google.com/webstore/detail/history-cache-cleaner/oiecpgbfcchalgdchgoplichofjadhmk/related?hl=en) - *History & Cache Cleaner*
 * [Nuke-Reddit-History](https://github.com/sr33/ares) - *Reddit Auto Post Delete*
 * [AudioContext Fingerprint Test](https://audiofingerprint.openwpm.com/) - *AudioContext / Canvas API Fingerprinting Test*
 * [AudioContext Fingerprint Defender](https://mybrowseraddon.com/audiocontext-defender.html) - *Stop AudioContext fingerprinting* 
