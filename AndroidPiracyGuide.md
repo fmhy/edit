@@ -459,6 +459,7 @@ RSS Player*
 * /r/jailbreak - *Jailbreaking Subreddit*
 * /r/sideloaded - *Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)*
 * [Jailbreak 13.5 Tweak Compatibility List](https://docs.google.com/spreadsheets/d/1cHL_bIcmON2L5euBM8NDk0SZ8w-VUE6oY3USbVqaLnA/edit?usp=sharing) - *Find out what tweaks are compatible with the 13.5* 
+* [XsF1re](https://github.com/XsF1re/XFJailbreakDetection) - *Bypass Jailbreak Detection*
 * [checkra1n](https://checkra.in/) - *Jailbreaking 5s - X*
 * [IPSW](https://ipsw.me/) - *Provides Jailbreak firmware*
 * [Julioverne](https://julio.hackyouriphone.org/) - *Jailbreaking Tools* 
@@ -509,9 +510,9 @@ iOS
 # ► iOS Privacy
 
 * [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [Authenticator](https://mattrubin.me/authenticator), [Obsidian](https://obsidianapp.io/) or [Tofu](https://www.tofuauth.com/) - *Two-factor authentication*  
-* [Secret Photo Album ++](https://apps.apple.com/us/app/secret-photo-album/id1459036428) - *Hide Private Content with a pin*
+* [SecretPhotoAlbum++](https://apps.apple.com/us/app/secret-photo-album/id1459036428) - *Hide Photos Behind a Pin*
 * [Onion Browser](https://onionbrowser.com/) - *Onion Browser for iOS* 
-* [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - *Privacy Based Browser* 
+* [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - *Privacy Based Browser* 
 * [Anti-Social](https://apps.apple.com/us/app/faceblock-block-facebook/id1516200820) - *Block social media trackers / iOS* 
 * [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669), [surespot](https://www.surespot.me/), [Status](https://status.im/), [Session](https://getsession.org/), [Confide](https://apps.apple.com/ca/app/confide-secret-messenger/id779883419) or [chatsecure](https://chatsecure.org/) - *Encrypted Messaging* 
 * [Wickr](https://apps.apple.com/us/app/wickr-pro/id1200926568), [Jami](https://jami.net/), [MySudo](https://mysudo.com/) or [Element](https://apps.apple.com/app/vector/id1083446067) - *Encrypted Messaging / Video Calls*
@@ -523,13 +524,14 @@ iOS
 # ► iOS Tools
 
 * [Waltr](https://softorino.com/waltr/) - *Convert Files to iOS Formats*
-* [iOS eBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) - *eBook / Audiobook readers* 
+* [iOS eBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) - *eBook / Audiobook Readers* 
 * [iEmulators](https://iemulators.com/) - *Emulator Apps*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
-* [Drafts](https://getdrafts.com/) - *Note Taking App*
+* [Drafts](https://getdrafts.com/) or [Bear](https://apps.apple.com/us/app/bear/id1016366447) - *Note Taking App*
 * [CocaoTop](https://github.com/D0m0/CocoaTop) - *iOS Process Viewer*
 * [Fantastical](https://apps.apple.com/app/fantastical-2-for-iphone/id718043190?ls=1) - *Calendar & Tasks App*
 * [3uTools](http://www.3u.com/) - *iOS Manager for Windows*
+* [NoMoreSmallApps](https://www.sparkdev.me/package/com.spark.nomoresmallapps) - *Force App Full Screen / [Discord](https://discord.com/invite/tvvJfbD)*
 * [InsightBrowser](https://insightbrowser.com/) - *Browser*
 * [UTM](https://getutm.app/) - *Virtual Machines* 
 * [iSkin](https://iskin.tooliphone.net/) or [SnowBoard](https://repo.dynastic.co/package/snowboard) - *iOS Themes* 
@@ -555,6 +557,8 @@ iOS
 * [Remmel](https://apps.apple.com/us/app/remmel-for-lemmy/id1547988171) - *Lemmy Client*
 * [Nicegram](https://nicegram.app/) - *Telegram Client*
 * [Watusi](https://watusi.fouadraheb.com/) - *Modded WhatsApp*
+* [Whatspad++](https://iosninja.io/ipa-library/download-whatspad-ipa-ios) - *iPad WhatsApp*
+* [iCloud Bypass](https://frpfile.com/one-click-bypass-icloud/) - *Bypass iCloud One Click*
 * [GoodLinks](https://goodlinks.app/) - *Save Links*
 * [Flarify](http://www.flairify.com/) - *Touchscreen Typing Practice* 
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - *Scan & Digitize Documents*
