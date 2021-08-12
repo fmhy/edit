@@ -162,6 +162,7 @@
 * [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - *Switch and Override User Agent Header on Firefox Easily*
 * [SoundFixer](https://github.com/myfreeweb/soundfixer) - *Fixes Sites that are too Quiet*
 * [Mute Sites By Default](https://addons.mozilla.org/en-US/firefox/addon/mute-sites-by-default/) - *Mute All Sites by Default* 
+* [Read Aloud](https://readaloud.app/) - *Text to Speech*
 * [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/) - *RSS Feed Reader*
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - *Restores Firefox RSS Features*
 * [Rooster Todo Manager](https://addons.mozilla.org/en-US/firefox/addon/rooster-todos/) - *To-Do Manager* 
@@ -571,7 +572,7 @@
 * [Keep calm and poke me.](https://calm.ovh/) - *Poke & Pull* 
 * [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en) - *Lead a Blob Opera*
 * [Pixels Fighting](http://pixelsfighting.com/) - *Watch A Pixel Battle* 
-* [Generative Engine](https://experiments.runwayml.com/generative_engine/) - *Text to Image generator* 
+* [Generative Engine](https://experiments.runwayml.com/generative_engine/) - *Text to Image Generator* 
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - *Create Room / Lo-Fi Player*
 * [Michaelbach](https://michaelbach.de/ot/) - *Optical Illusions* 
 * [nobody.live](https://nobody.live/) - *Zero Viewer Twitch Stream Roulette* 
