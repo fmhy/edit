@@ -905,6 +905,7 @@
 * [Filibusta](https://flibusta.site/) - *Books*
 * [coollib](https://coollib.xyz/) - *Books* 
 * [rulit](https://www.rulit.me/) - *Books* 
+* [ibookscafe](https://bookscafe.net/) - *Books / NSFW*
 * [sblib](http://sblib3fk2gryb46d.onion/) - *Books / .onion* 
 * [KinoMuzic](https://kinomuzic.ucoz.ru/) - *Books / Soundtracks*
 * [MirKnig.sur ](http://mirknig.su/) - *Books / Fiction / Nonfiction* 
