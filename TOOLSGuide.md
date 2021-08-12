@@ -1672,7 +1672,7 @@ General Reading Sites*
 ## ▷ Minecraft Tools
 
 * [Awesome Minecraft](https://github.com/bs-community/awesome-minecraft) - *Minecraft Resource Index*  
-* [OptiFine](https://optifine.net/), [Sodium](https://modrinth.com/mod/sodium), [Phosphor](https://modrinth.com/mod/phosphor), [Indium](https://github.com/comp500/Indium/), [Hydrogen](https://modrinth.com/mod/hydrogen) or [Lithium](https://modrinth.com/mod/lithium) - *Minecraft Optimization Mod / Fabric Required for some* 
+* [OptiFine](https://optifine.net/), [Sodium](https://modrinth.com/mod/sodium) / [Extra](https://modrinth.com/mod/sodium-extra), [Phosphor](https://modrinth.com/mod/phosphor), [Indium](https://github.com/comp500/Indium/), [Hydrogen](https://modrinth.com/mod/hydrogen) or [Lithium](https://modrinth.com/mod/lithium) - *Minecraft Optimization Mod / Fabric Required for some* 
 * [LambdAurora](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754) - *Minecraft OptiFine Alternatives for Fabric*
 * [Aristois](https://aristois.net/) - *Minecraft Utility Mod*
 * [Meteor Client](https://meteorclient.com/) - *Minecraft Fabric Utility Mod*
