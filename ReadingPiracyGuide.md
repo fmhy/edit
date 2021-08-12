@@ -28,6 +28,7 @@
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks) 
 * [Golden Audiobooks](https://goldenaudiobooks.com/)
 * [LoudLit](http://loudlit.org/) 
+* [celz](https://celz.ru/)
 * [Librivox](https://librivox.org/)  
 * [AudioBB](https://audiobb.com/)
 * [xAudiobooks](https://audiobooks.cloud/)
@@ -97,6 +98,8 @@
 * [Global Grey](https://www.globalgreyebooks.com/index.html) - *Books* 
 * [Bookyards](https://www.bookyards.com/en/welcome) - *Books* 
 * [DigiLibraries](https://digilibraries.com/) - *Books* 
+* [ibookscafe](https://bookscafe.net/) - *Books / NSFW*
+* [celz](https://celz.ru/) - *Books*
 * [FullBooks](http://www.fullbooks.com/) - *Books* 
 * [eBook4Expert](https://ebook4expert.net/) - *Books* 
 * [Chest of Books](https://chestofbooks.com/) - *Books*
