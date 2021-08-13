@@ -380,10 +380,10 @@ App Manager
 
 * **[Stremio](https://www.stremio.com/)** - *Torrent Streaming / [Addons](https://redd.it/ahd6gk) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * **[CloudStream2](https://github.com/LagradOst/CloudStream-2)** - *Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM)*
-* **[Movies4Discord TV](https://movies4discord.xyz/download)** - *TV*
 * **[CucoTV](https://cucotv.github.io/)** - *Movies / TV* 
 * **[CinemaHD](https://cinemaapk.com/)** - *Movies / TV / Anime / Chromecast*
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - *Ad Free YouTube on Android*
+* **[Movies4Discord TV](https://movies4discord.xyz/download)** - *Movies / TV / Android TV App*
 * [Cunrchyroll Mod](https://forum.mobilism.org/search.php?keywords=crunchyroll&amp;sr=topics&amp;sf=titleonly) or [Kamyroll](https://github.com/hyugogirubato/Kamyroll) - *Anime / Premium Crunchyroll*
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
 * [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - *Movies / TV / Anime* 
