@@ -365,7 +365,7 @@
 
 **SkyNet**
 
-[Skynet](https://www.siacdn.com/), [2](https://skydrain.net/), [3](https://skynet.luxor.tech/), [4](https://skynet.tutemwesi.com/), [5](https://vault.lightspeedhosting.com/), [6](https://siasky.net/)
+[Skynet](https://skydrain.net/), [2](https://skynet.luxor.tech/), [3](https://skynet.tutemwesi.com/), [4](https://vault.lightspeedhosting.com/), [5](https://siasky.net/)
 
 *** 
 
