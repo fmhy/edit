@@ -42,6 +42,7 @@
 * [FlixHub](https://flixhub.net/) - *Movies*
 * [TheMovieBay](https://vww.themoviebay.net/) - *Movies / TV / Videyo*
 * [TheWebFlicks](https://thewebflicks.com/) - *Movies / Streamtape* 
+* [BitCinema](https://bitcines.com/) - *Movies / TV / Anime*
 * [FZMovies](https://fzmovies.net/) - *Movies / [How to Use](https://imgur.com/a/EtLokxO)* 
 * [MoviesForFree](https://movieforfree.co/) - *Movies / TV*
 * [1movies](https://ww2.1movies.is/), [CouchTuner](https://ww1.couchtuner.space/) or [New-Primewire](https://ww1.new-primewire.com/) - *Movies / TV / Anime*
@@ -589,6 +590,7 @@
 * [Anime Time Drive](https://atdrive.animetimeserver.workers.dev/0:/) - *Drive* 
 * [FFA DDL BATCH](https://ffa.shiraha.workers.dev/) - *Drive* 
 * [nibl](https://nibl.co.uk/) - *Anime Downloads / XDCC*
+* [Golumpa](https://xdcc.golumpa.moe/) - *Anime / IRC Links*
 * [Anime Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anime_download_apps) - *Anime Downloading Tools*
 * [manyame](https://github.com/asakura42/manyame/) - *IRC Anime Download Script* 
 * [Anime DL](https://archive.org/details/animedl4.0_202004) - *Stream & Download Anime in VLC*
