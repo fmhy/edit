@@ -244,6 +244,7 @@
 * [PapyStreaming](https://wwv.papystreaming.is/) - *Movies* 
 * [VFStream](https://stream-vf.club/) - *Movies / TV*
 * [WiFlix](https://wiflix.cc/) - *Movies / TV / Anime* 
+* [IPTV Streaming](http://iptv-streaming.tk/) - *Live IPTV*
 * [dtvd](https://dtvd.net/) or [liveschauen](https://liveschauen.com/) - *Live TV* 
 
 ## ▷ Reading
