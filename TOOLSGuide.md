@@ -1029,7 +1029,7 @@ General Reading Sites*
 * [Discord InfluxDB exporter](https://github.com/terorie/discord-influx) - *Export Discord Metrics to InfluxDB*
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - *Datamining Discord changes from the JS files*
 * [Discord Previews](https://discord.gg/QMw7gQGMHj) - *New Discord Builds / Changes*
-* [Discord.sale](http://web.archive.org/web/*/https://discord.sale/) - *Discord Client Build Info*
+* [Discord.sale](https://discord.sale/) - *Discord Client Build Info*
 * [discasset](https://github.com/Commandtechno/discasset), [2](https://gitlab.com/derpystuff/discasset) - *Discord Asset Grabber*
 * [Hypesquad](https://cdn.discordapp.com/attachments/668986791797325824/844589771653382194/unknown.png) - *Get a Discord Profile Badge*
 * [Imagine](https://imagine.vanished.rocks/) - *Imagine Discord Branding Image Creator*
