@@ -359,7 +359,7 @@
 * [Techno360](https://www.techno360.in/category/free-stuff/) - *Software*
 * [Malwaretips Giveaways](https://malwaretips.com/forums/giveaways-promotions-and-contests.75/) - *Software*
 * [Net-Load](https://net-load.com/) - *Software*
-* [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), /r/FreeGamesOnSteam or [SteamDB](https://steamdb.info/upcoming/free/)  - *Steam Games* 
+* [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - *Steam Games* 
 * [Games Free Today](https://gamesfree.today/) - *Games*
 * [FreeGames.codes](https://freegames.codes/) - *Games / [Android](http://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes)*
 * [IsThereAnyDeal](https://isthereanydeal.com/#/filter:&price/0/0) - *Games* 

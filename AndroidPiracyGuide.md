@@ -273,7 +273,7 @@ App Manager
 * [Pro App Share](https://t.me/proappshare) - *Modded / Telegram*   
 * [Software_Android_Apps_Games](https://t.me/Software_Android_Apps_Games) - *Modded / Telegram*   
 * [Aero Apps](https://t.me/aerolla) - *Modded Social Media Apps*
-* [FossDroid](https://fossdroid.com/) - *Open source apps / /r/fossdroid*
+* [FossDroid](https://fossdroid.com/) - *Open source apps / [/r/fossdroid](https://reddit.com/r/fossdroid)*
 * [Moderse ](https://t.me/Moderse) - *Android Apk Telegram Channel by well know modder- Stabiron*
 * [APK Downloader ](https://apk.support/apk-downloader) - *Download Google Play apks*
 * [evozi](https://apps.evozi.com/apk-downloader) - *Download Google Play apks*

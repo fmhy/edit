@@ -339,7 +339,7 @@
 * [/r/MMAFights](https://www.reddit.com/r/mmafights/) - *Videos / MMA*
 * [MMACore](https://www.mma-core.com/videos/home) - *Videos / MMA*
 * [AllTheBestFights](https://www.allthebestfights.com/) - *Videos / MMA / Boxing / K1*
-* [Racing HD](http://www.racinghd.net/) or /r/MotorsportsReplays - *Racing Replays* 
+* [Racing HD](http://www.racinghd.net/) or [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - *Racing Replays* 
 * [F1 Full Races](https://f1fullraces.com/) - *F1 Replays* 
 * [Sport Video](https://www.sport-video.org.ua/) - *Sports Replays / Torrents* 
 
@@ -737,7 +737,7 @@
 * [BingeClock](https://www.bingeclock.com/) - *TV Show Length Calculator* 
 * [MyDramaList](https://mydramalist.com/) - *Asian Drama Tracker* 
 * [MythBank](https://mythbank.com/) - *Media Timelimes / Watch Orders* 
-* [watch_order](https://www.reddit.com/r/anime/wiki/watch_order) - *Anime Watch Orders /r/anime*
+* [watch_order](https://www.reddit.com/r/anime/wiki/watch_order) - *Anime Watch Orders [/r/anime](https://reddit.com/r/anime)*
 * [Anime Notifier](https://notify.moe/) - *Anime List, Tracker, Database & Notifier* 
 * [Tiaga](https://github.com/erengy/taiga) - *Anime Tracking Program* 
 * [arm-server](https://github.com/BeeeQueue/arm-server) - *Map Anime ID's between AniList, AniDB, MAL & Kitsu* 
@@ -855,7 +855,7 @@
 * **[Video Quality & Types of Releases](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)** - *Video Quality / Release Type Guide / [Image Guide](https://i.imgur.com/kEOrKJT.png)*
 * **[Movie/TV Show Tier List](https://docs.google.com/spreadsheets/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/)**, [2](https://github.com/Cloudbox/Community/wiki/Quality-Release-Groups) - *Movie / TV Release Group Index*
 * **[/r/animepiracy Wiki](https://wiki.piracy.moe/)** - *Anime Piracy Guides / Tutorials*
-* **[WhereYouWatch,](https://whereyouwatch.com/latest-reports/)** [Squawkr](https://www.squawkr.io/), [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates) or /r/movieleaks - *Check if a Movie has Leaked*
+* **[WhereYouWatch,](https://whereyouwatch.com/latest-reports/)** [Squawkr](https://www.squawkr.io/), [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates) or [/r/movieleaks](https://reddit.com/r/movieleaks) - *Check if a Movie has Leaked*
 * [Streaming Site Ranking](https://dirtywarez.org/cat/streaming) - *Alexa Rankings*
 * [RunPee](https://runpee.com/) - *Best times to break during movies*
 * [Media Poster / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Covers for Movies, TV ect.* 

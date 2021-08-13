@@ -151,7 +151,7 @@
 * [7Torrent](https://www.7torrents.cc/) - *Search aggregator*
 * [concen](https://www.concen.org/torrents) - *Search aggregator*
 * [BTSearch](https://www.btsearch.ml/) - *Multi site search* 
-* [Solid Torrents](https://solidtorrents.net/) - *Multi site search / /r/SolidTorrents*
+* [Solid Torrents](https://solidtorrents.net/) - *Multi site search / [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)*
 * [TorrentSeeker](https://torrentseeker.com) - *Multi site search*
 * [Torrentzeta](https://www.torrentzeta.com/) - *Multi site search*
 * [Toorgle](http://www.toorgle.com/) - *Multi site search* 
@@ -207,7 +207,7 @@
 
 * **[Tracker Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tracker_lists)** - *Updated lists of BitTorrent trackers* 
 * **[T2M](https://nutbread.github.io/t2m/)** or [Torrent Kitty](https://www.torrentkitty.tv/) - *Torrent To Magnet Link Conversion*
-* **[Auto Torrent Tools List](https://redd.it/hbwnb2)**, [FlexGet](https://flexget.com/) or /r/softwarr - *Autodownload tools*
+* **[Auto Torrent Tools List](https://redd.it/hbwnb2)**, [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - *Autodownload tools*
 * [Requestrr](https://github.com/darkalfx/requestrr) - *Chatbot for Torrent Autodownload Apps*
 * [PreDB](https://predb.ovh/), [srrDB](https://www.srrdb.com/) or [pre.c-burns](http://pre.c-burns.co.uk/pre.php) - *Scene Release Tracker*
 * [WarezBot](https://github.com/enzobes/WarezBot) - *Discord Scene Release Tracker*
