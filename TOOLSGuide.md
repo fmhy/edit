@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/RIFEqcS.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/54Gc2Nz.png)** - *For mobile users*
 
 ***
 *** 
@@ -20,6 +20,7 @@
 * [downloader](https://downloader.la/) - *Tools / Downloaders*
 * [Generative Tools](https://docs.google.com/document/d/1N57oAF7j9SuHcy5zg2VZWhttLwR_uEldeMr-VKzlVIQ/) - *Generative Tool Index*
 * [Barcode Reader](https://online-barcode-reader.inliteresearch.com/) - *Online Barcode Reader*
+* [Internet Live Stats ](https://www.internetlivestats.com/) - *Live Internet Statistics*
 * [Worldometer](https://www.worldometers.info/) - *World Data / Statistics*
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - *World Birth / Death Rates Visualization*
 * [Our World in Data](http://ourworldindata.org/) - *World Problem Databse*
@@ -578,7 +579,7 @@
 * [Maps We Love](https://www.esri.com/en-us/maps-we-love/gallery), [CoolMaps](https://coolmaps.esri.com/#0) or /r/MapPorn - *Multiple Maps* 
 * [DarkSky](https://maps.darksky.net/) - *Weather Maps*
 * [Windy](https://www.windy.com/) - *Wind Map* 
-* [Air Now](https://gispub.epa.gov/airnow/) - *Air Quality Map*
+* [Air Now](https://gispub.epa.gov/airnow/) or [Breezometer](https://www.breezometer.com/air-quality-map/) - *Air Quality Map*
 * [River Runner](https://river-runner.samlearner.com/) - *River Map*
 * [Earth](https://earth.nullschool.net/) - *Global map of Wind, Weather, Ocean and Pollution conditions*
 * [Wikimapia](http://wikimapia.org/) - *Online Editable Map*
@@ -647,6 +648,7 @@
 * [lew.la](https://lew.la/) - *Reddit video DL, YT to MP3 & More Tools* 
 * [SocialBlade](https://socialblade.com/) - *Social Media Statistics*
 * [4stats](https://4stats.io/) - *4chan Board & Thread Stats*
+* [Emotes Everywhere](https://kellphy.com/projects/kee.html) - *Emote Manager*
 * [Emojipedia](https://emojipedia.org/) - *Emoji Index*
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - *Party Parrot Emojis*
 * [you-get](https://github.com/soimort/you-get) - *Download Media Contents from Webpages* 
@@ -1018,6 +1020,7 @@ General Reading Sites*
 * [LottieResizer](https://lottieresizer.tech/) - *Lottie Resizer*
 * [Discord Branding](https://discord.com/branding) - *Discord Branding Information Page / [Archive](https://web.archive.org/web/20210513004910/https://discord.com/branding)*
 * [Discord-Linux](https://discord.gg/discord-linux) - *Discord Linux Chat*
+* [Discover](https://github.com/trigg/Discover) - *Discord Linux Overlay*
 * [Discord-Api](https://discord.gg/discord-api) - *Discord API Chat*
 * [Displace](https://discord.gg/displace) or [OwnersHub](https://ownershub.xyz/) - *Discord Community Management Chat*
 * [Discord Moderator Academy](https://discord.com/moderation) - *Discord Moderator Guide / [Exam](https://discord.com/moderation/exam)*
@@ -1303,15 +1306,6 @@ General Reading Sites*
 * [sven dpi](https://www.sven.de/dpi/) - *DPI Calculator* 
 * [JScreenFix](https://www.jscreenfix.com/) - *Repair Stuck Pixels* 
 * [NVDA](https://www.nvaccess.org/download/) - *Screen Reader / [Github](https://github.com/nvaccess/nvda)* 
-* [copy.sh](https://copy.sh/v86/), [OnWorks](https://www.onworks.net/), [simone.computer](https://simone.computer/#/webdesktops) or [Virtual Desktop](http://www.virtualdesktop.org/) - *Multiple OS Emulators*
-* [Win95](https://win95.ajf.me/) - *Windows 95 Browser Emulator* 
-* [Windows93](http://www.windows93.net/) - *Windows 93 Browser Emulator / Games*
-* [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - *Run Classic Games / Apps In Browser* 
-* [Windows 1.01](https://classicreload.com/Windows-1-01.html) - *Windows 1.01 Browser Emulator* 
-* [RebornXP](https://rebornxp.js.org/) - *Windows XP Browser Emulator*
-* [SilveOS](https://www.silveos.com/) - *Browser Operating System Emulator*
-* [PCE.js](https://jamesfriend.com.au/pce-js/ibmpc-games/) - *PCDOS 5 Emulator* 
-* [Quantum Playground](http://www.quantumplayground.net/) - *Quantum Computer Simulator*
 * [CrossOver](https://www.codeweavers.com/crossover) - *Run Windows Programs on Mac / Linux / Infinite Free Trials*
 * [Hosts File Editor](https://hostsfileeditor.com/) - *Windows Hosts File Editor*
 * [StreamPi](https://stream-pi.com/) - *ElGato Streamdeck Alternative*
@@ -1543,6 +1537,24 @@ General Reading Sites*
 ***
 
 ## ▷ [iOS Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_tools)
+
+
+***
+
+## ▷ OS Emulators
+
+* [copy.sh](https://copy.sh/v86/), [OnWorks](https://www.onworks.net/), [simone.computer](https://simone.computer/#/webdesktops) or [Virtual Desktop](http://www.virtualdesktop.org/) - *Multiple OS Emulators*
+* [WinXP.now](https://winxp.now.sh/) - *Windows XP Browser Emulator*
+* [EmuOS](https://emupedia.org/beta/emuos/), [2](https://emupedia.net/beta/emuos/), [3](https://emuos.net/beta/emuos/), [4](https://emuos.org/beta/emuos/) - *Windows 95, 98 & ME Emulator*
+* [98.js](https://98.js.org/), [Rahul](https://rahul.io/) or [Packard Belle](https://packard-belle.netlify.com/) - *Windows 98 Emulator*
+* [Win95](https://win95.ajf.me/) - *Windows 95 Browser Emulator* 
+* [Windows93](http://www.windows93.net/) - *Windows 93 Browser Emulator / Games*
+* [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - *Run Classic Games / Apps In Browser* 
+* [Windows 1.01](https://classicreload.com/Windows-1-01.html) - *Windows 1.01 Browser Emulator* 
+* [RebornXP](https://rebornxp.js.org/) - *Windows XP Browser Emulator*
+* [SilveOS](https://www.silveos.com/), [AaronOS](https://aaronos.dev/), [Whimsy](https://whimsy.space/), [OS.JS](https://www.os-js.org/), [X-WebDesktop](https://oxoyo.co/X-WebDesktop-Vue/) or [jQuery Desktop](https://desktop.sonspring.com/) - *OS Browser Emulator*
+* [PCE.js](https://jamesfriend.com.au/pce-js/ibmpc-games/) - *PCDOS 5 Emulator* 
+* [Quantum Playground](http://www.quantumplayground.net/) - *Quantum Computer Simulator*
 
 ***
 
