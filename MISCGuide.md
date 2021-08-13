@@ -317,7 +317,7 @@
 # ► Piracy Discussion
 
 * **[OneHack](https://onehack.us/)**
-* [Biohazard](https://discord.gg/eyedBqG9w3) - *Guides / Courses / Extensions / Chat*
+* **[Biohazard](https://discord.gg/biohazard-official)** - *Guides / Courses / Extensions / Chat*
 * [/m/piracy](https://www.reddit.com/user/nbatman/m/piracy/), [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) - *Piracy Multireddit*
 * /r/piracy - *[Backup](https://github.com/nid666/PiracyArchive)*
 * /r/piratedgames - *[Discord](https://discord.gg/Da2akf2)*
