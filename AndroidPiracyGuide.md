@@ -158,7 +158,7 @@
 * [LineageOS](https://www.lineageos.org/) or [Replicant](https://www.replicant.us/) - *Android OS*
 * [FAST](https://play.google.com/store/apps/details?id=com.netflix.Speedtest), [Meteor](https://play.google.com/store/apps/details?id=meteor.test.and.grade.internet.connection.speed) or [FCC Speed Test](https://play.google.com/store/apps/details?id=com.samknows.fcc&hl=en_US&gl=US) - *Internet Speed Test*
 * [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - *Use Google Cam Without Google Play* 
-* [RClone](https://github.com/x0b/rcx) - *Multi-Site Cloud Storage File Manage*
+* [RClone](https://github.com/x0b/rcx) - *Multi-Site Cloud Storage File Manager*
 * [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard) - *Transfer Files between Devices*
 * [Omega Launcher](https://github.com/otakuhqz/omega), [Unlauncher](https://github.com/jkuester/unlauncher) or [Ratio](https://blloc.com/) - *App Launcher* 
 * [App Manager](https://muntashirakon.github.io/AppManager/), [2](https://github.com/MuntashirAkon/AppManager) - *Manage Apps*
@@ -464,18 +464,21 @@ RSS Player*
 * [IPSW](https://ipsw.me/) - *Provides Jailbreak firmware*
 * [Julioverne](https://julio.hackyouriphone.org/) - *Jailbreaking Tools* 
 * [Odyssey](https://theodyssey.dev/) - *13.0-13.5 Semi-tethered Jailbreak* 
-* [Chimera](https://chimera.coolstar.org/) - *12 — 12.5.3 Jailbreak*
-* [unc0ver](https://github.com/pwn20wndstuff/Undecimus) - *11.0-13.5 Semi-tethered Jailbreak* 
+* [Chimera](https://chimera.coolstar.org/) - *12-12.5.3 Jailbreak*
+* [Unc0ver](https://unc0ver.dev/) - *11.0-14.3 Jailbreak / [Dark Mode](https://dark.diatr.us) / [GitHub](https://github.com/pwn20wndstuff/Undecimus)*
+* [LiberiOS](https://github.com/LiberiOS/LiberiOS) - *11.0-11.1.2 Jailbreak*
 * [Meridian](https://meridian.sparkes.zone/) - *10.0-10.3.3 Jailbreak* 
-* [Unc0ver](https://unc0ver.dev/) - *11.0-14.3 Jailbreak*
+* [doubleH3lix](https://github.com/tihmstar/doubleH3lix) - *10.x 64bit Jailbreak*
 * [checkn1x](https://github.com/asineth0/checkn1x) - *Jailbreaking Tool*
 * [Fugu](https://github.com/LinusHenze/Fugu) - *Jailbreaking Tool*
 * [ipwndfu](https://github.com/axi0mX/ipwndfu) - *Jailbreaking Tool*
+* [rootlessJB](https://github.com/jakeajames/rootlessJB) - *Rootless iOS 12 Jailbreak*
+* [Totally Not Spyware](https://totally-not.spyware.lol/) - *Safari Jailbreaking Tool*
 * [odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - *Checkra1n / Odysseyra1n Installation Distro*
 * [ReProvision](https://github.com/Matchstic/ReProvision) - *On-device signing utility*
 * [HackYouriPhone Repo](https://repo.hackyouriphone.org/) - *Jailbreak / Tweaks* 
-* [isecureos ](https://isecureos.idevicecentral.com/repo/) - *Jailbreak Antivirus Tweak*
-iOS 
+* [isecureos](https://isecureos.idevicecentral.com/repo/) - *Jailbreak Antivirus Tweak*
+* [libhooker-configurator](https://github.com/coolstar/libhooker-configurator) - *LibHooker CS 13.0+ Jailbreak Config*
 * [EtasonATV](https://etasonatv.tihmstar.net/) - *Apple TV Jailbreaking*
 * [SHSH Host](https://shsh.host/) - *Save SHSH blobs to upgrade/downgrade iOS versions* 
 
@@ -518,12 +521,14 @@ iOS
 * [Wickr](https://apps.apple.com/us/app/wickr-pro/id1200926568), [Jami](https://jami.net/), [MySudo](https://mysudo.com/) or [Element](https://apps.apple.com/app/vector/id1083446067) - *Encrypted Messaging / Video Calls*
 * [Bluer](https://apps.apple.com/us/app/bluer-for-facebook-messenger/id1490523710) - *Privacy-Based Facebook Client*
 * [ProtonMail](https://apps.apple.com/us/app/protonmail-encrypted-email/id979659905) - *Encrypted Emailing Service*
+* [Ariane 4](https://oppen.digital/software/ariane4/) / [2](https://codeberg.org/oppenlab/Ariane) - *Gemini Protocol Browser*
 
 ***
 
 # ► iOS Tools
 
 * [Waltr](https://softorino.com/waltr/) - *Convert Files to iOS Formats*
+* [Filza](http://cydia.saurik.com/package/com.tigisoftware.filza/) - *File Manager*
 * [iOS eBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) - *eBook / Audiobook Readers* 
 * [iEmulators](https://iemulators.com/) - *Emulator Apps*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
@@ -593,7 +598,7 @@ iOS
 * [AppValley](https://www.appvalley.vip/) - *Tweaked App Store*
 * [Tutubox](https://tutubox.io/) - *Tweaked Apps Store* 
 * [iPAGarage](https://drive.google.com/drive/mobile/folders/1SxmAaB_dIswVsrKqtxOhymati-HaLYTT?usp=sharing) - *Community Based Tweaked/Hacked iOS App Library / [Twitter](https://twitter.com/ipagarage/)*
-* [Cydia](https://cydia.saurik.com/) - *App Store*
+* [Cydia](https://cydia.saurik.com/) - *App Store / [Free Paid Apps](https://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown)*
 * [BuildStore](https://builds.io/) - *App Store*
 * [AltStore](https://altstore.io/) - *App Store / [Repo View](https://altsource.by.lao.sb/browse/) / [AltDaeomon](https://repo.dynastic.co/package/altdaemon)*
 * [ioshaven](https://ioshaven.com/apps) - *App Store* 
@@ -608,7 +613,7 @@ iOS
 * [tweakboxapp](https://next.tweakboxapp.com/) or [tweakboxapp (sideloaded)](https://sideload.tweakboxapp.com/) - *App Tweaks*
 * [iPASpot](https://ipaspot.app/) - *Hacked / Tweaked iOS Apps* 
 * [iPABox](https://apps.ipabox.store/ipalibrary/index.html) - *Hacked / Tweaked iOS Apps* 
-* [LocalAPStore](https://repo.hackyouriphone.org/localiapstore) - *In-App Purchase Mods*
+* [LocalAPStore](https://repo.hackyouriphone.org/localiapstore) or [My iAP Cracker](https://repo.hackyouriphone.org/myiapcracker) - *In-App Purchase Mods*
 * [iosninja](https://iosninja.io/ipa-library) - *App Sideload Files*
 * [TestFlight](https://testflight.apple.com/) - *Test Beta Apps / [Links](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/)*
 
@@ -622,6 +627,7 @@ iOS
 * [SCloudlife](https://repo.hackyouriphone.org/scloudlife) or [Soundcloud](https://apps.apple.com/us/app/soundcloud/id336353151) - *Streaming*
 * [Musi](https://apps.apple.com/us/app/musi-simple-music-streaming/id591560124) - *Streaming* 
 * [eSound](https://apps.apple.com/ca/app/esound-music-player-app-mp3/id1224933860) - *Streaming* 
+* [Pandolife](https://repo.hackyouriphone.org/pandolife) - *Streaming / Modded Pandora*
 * [Tubizu](https://apps.apple.com/ca/app/tubizu-music-player-streamer/id1426207462) - *Stream / Download* 
 * [Audiomack](https://apps.apple.com/ca/app/audiomack-download-new-music/id921765888) - *Streaming* 
 * [VOX](https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494) - *Streaming*
@@ -649,6 +655,7 @@ iOS
 
 ## ▷ iOS Relaxation
 
+* **[Calm](https://repo.danielpitra.cz/depiction.php?id=com.strejda603.calmpremium)** (Premium) - *Relaxation, Sleep & Meditation*
 * [Rainy Mood](https://apps.apple.com/us/app/rainy-mood/id566752651) - *Rain Sounds*
 * [Raining.fm](https://apps.apple.com/ua/app/rainingfm/id648243241) - *Ambient Rain Sounds / Relaxation* 
 * [Noizio](https://apps.apple.com/us/app/noizio-focus-relax-sleep/id960716999) - *Nature Sounds / Relaxation* 
