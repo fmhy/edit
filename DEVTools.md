@@ -169,6 +169,7 @@
 * [Sight](https://github.com/tsenart/sight) - *Syntax Highlighter for Chrome* 
 * [Website Grader](https://website.grader.com/) - *Website Grading Tool*
 * [ngrok](https://ngrok.com/) - *Introspectable Tunnels to Localhost Tools*
+* [gpldl](https://gpldl.com/), [freegetdownloader](https://www.freegetdownloader.com/) or [babiato](https://babiato.co/) - *Wordpress Themes*
 
 ***
 
@@ -188,6 +189,7 @@
 
 * [XDA](https://forum.xda-developers.com/) - *App Development Forum*
 * [Docker](https://www.docker.com/) - *Build, Manage & Run Apps in Containers / [Images](https://linuxserver.io/)*
+* [Plank](https://launchpad.net/plank) - *Simple Dock / [GitHub](https://github.com/ricotz/plank)*
 * [Portainer](https://portainer.io/) - *Build / Manage Docker Containers / [Templates](https://github.com/SelfhostedPro/selfhosted_templates) / [GitHub](https://github.com/portainer/portainer)*
 * [MDB GO](https://mdbgo.com/) - *Free App Hosting*
 * [Kodular](https://www.kodular.io/) or [Android Studio](https://developer.android.com/studio/index.html) - *Android App Creator*
@@ -195,6 +197,7 @@
 * [Debugtron](https://www.electronjs.org/apps/debugtron) - *Electron App Debugger*
 * [MobileApp-Pentest-Cheatsheet](https://github.com/fuzz-security/MobileApp-Pentest-Cheatsheet) - *Mobile App Penetration Test Index*
 * [PM2](https://pm2.keymetrics.io/) - *Process Manager*
+* [React95](https://react95.io/) - *Windows 95 React Components*
 
 ***
 
