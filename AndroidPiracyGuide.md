@@ -273,7 +273,7 @@ App Manager
 * [Pro App Share](https://t.me/proappshare) - *Modded / Telegram*   
 * [Software_Android_Apps_Games](https://t.me/Software_Android_Apps_Games) - *Modded / Telegram*   
 * [Aero Apps](https://t.me/aerolla) - *Modded Social Media Apps*
-* [FossDroid](https://fossdroid.com/) - *Open source apps / /r/fossdroid*
+* [FossDroid](https://fossdroid.com/) - *Open source apps / [/r/fossdroid](https://reddit.com/r/fossdroid)*
 * [Moderse ](https://t.me/Moderse) - *Android Apk Telegram Channel by well know modder- Stabiron*
 * [APK Downloader ](https://apk.support/apk-downloader) - *Download Google Play apks*
 * [evozi](https://apps.evozi.com/apk-downloader) - *Download Google Play apks*
@@ -456,8 +456,8 @@ RSS Player*
 * [iOS Guide](https://ios.cfw.guide/) - *Modding / Jailbreaking Guide*
 * [Sideloading Beginners Guide](https://redd.it/orqzau) - *iOS Sideloading Guide*
 * [Can I Jailbreak](https://iosninja.io/jailbreak-wizard-can-i-jailbreak) - *Check if your Phone can be Jailbroken* 
-* /r/jailbreak - *Jailbreaking Subreddit*
-* /r/sideloaded - *Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)*
+* [/r/jailbreak](https://reddit.com/r/jailbreak) - *Jailbreaking Subreddit*
+* [/r/sideloaded](https://reddit.com/r/sideloaded) - *Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)*
 * [Jailbreak 13.5 Tweak Compatibility List](https://docs.google.com/spreadsheets/d/1cHL_bIcmON2L5euBM8NDk0SZ8w-VUE6oY3USbVqaLnA/edit?usp=sharing) - *Find out what tweaks are compatible with the 13.5* 
 * [XsF1re](https://github.com/XsF1re/XFJailbreakDetection) - *Bypass Jailbreak Detection*
 * [checkra1n](https://checkra.in/) - *Jailbreaking 5s - X*

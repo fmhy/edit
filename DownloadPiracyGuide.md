@@ -333,8 +333,8 @@
 * [althub](https://althub.co.za) - *Unlimited free trials*
 * [nZEDb](https://github.com/nZEDb/nZEDb) - *Self-Hosted*
 * [Spotweb](https://github.com/spotweb/spotweb) - *Spotnet Client*
-* /r/usenet 
-* /r/UsenetInvites 
+* [/r/usenet](https://reddit.com/r/usenet) 
+* [/r/UsenetInvites](https://reddit.com/r/UsenetInvites) 
 
 ## ▷ Providers
 

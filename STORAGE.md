@@ -622,7 +622,7 @@
 
 #### Live Webcams
 
-[EarthCam](https://www.earthcam.com/), [Explore](https://explore.org/), [Opentopia](http://www.opentopia.com/), [The Webcam Network](https://www.the-webcam-network.com/), [Insecam](https://www.insecam.org/), [OpenStreetCam](https://openstreetcam.org/map), [IP-24](https://ip-24.net/list.php), [WebcamGalore](https://www.webcamgalore.com/), [WebcamTaxi](https://www.webcamtaxi.com/en/), [WorldCams](https://worldcams.tv/), [WorldCam](https://worldcam.eu/), [BalticLiveCam](https://balticlivecam.com/), [SkylineWebcams](https://www.skylinewebcams.com/en.html), [CamStreaner](https://camstreamer.com/live), /r/controllablewebcams / [Discord](https://discord.gg/wdjtevG), [CamVista](https://www.camvista.com/), [Fisgonia](http://www.fisgonia.com/), [PicTimo](https://www.pictimo.com/), [WXYZWebcams](http://wxyzwebcams.com/) [snoweye](https://www.snoweye.com/), [ip-24](https://ip-24.net/webcams.php), [camscape](https://www.camscape.com/), [whatsupcams](https://www.whatsupcams.com/), [worldcam](https://www.worldcam.pl/), [gobefore](https://gobefore.me/), [webcamhopper](https://www.webcamhopper.com/), [explore.org](https://explore.org/livecams), [Windy Webcams](https://www.windy.com/-Webcams/webcams), [Insecam](http://www.insecam.org/en/), [Airport Webcams](https://airportwebcams.net/) (Airports), [Africam](https://www.africam.com/wildlife/live-african-wildlife-safari-streams) (Wildlife), [TFLJamCams](https://www.tfljamcams.net/) (London Traffic), [Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams) (Animals), [Curlie Webcam Animals](https://curlie.org/en/Computers/Internet/On_the_Web/Webcams/Animals) (Animals), [San Diego Zoo](https://zoo.sandiegozoo.org/live-cams), (Animals), [Zoo.org](https://www.zoo.org/webcams) (Animals), [AnimalsLife](https://animalslife.net/) (Kittens) 
+[EarthCam](https://www.earthcam.com/), [Explore](https://explore.org/), [Opentopia](http://www.opentopia.com/), [The Webcam Network](https://www.the-webcam-network.com/), [Insecam](https://www.insecam.org/), [OpenStreetCam](https://openstreetcam.org/map), [IP-24](https://ip-24.net/list.php), [WebcamGalore](https://www.webcamgalore.com/), [WebcamTaxi](https://www.webcamtaxi.com/en/), [WorldCams](https://worldcams.tv/), [WorldCam](https://worldcam.eu/), [BalticLiveCam](https://balticlivecam.com/), [SkylineWebcams](https://www.skylinewebcams.com/en.html), [CamStreaner](https://camstreamer.com/live), [/r/controllablewebcams](https://reddit.com/r/controllablewebcams) / [Discord](https://discord.gg/wdjtevG), [CamVista](https://www.camvista.com/), [Fisgonia](http://www.fisgonia.com/), [PicTimo](https://www.pictimo.com/), [WXYZWebcams](http://wxyzwebcams.com/) [snoweye](https://www.snoweye.com/), [ip-24](https://ip-24.net/webcams.php), [camscape](https://www.camscape.com/), [whatsupcams](https://www.whatsupcams.com/), [worldcam](https://www.worldcam.pl/), [gobefore](https://gobefore.me/), [webcamhopper](https://www.webcamhopper.com/), [explore.org](https://explore.org/livecams), [Windy Webcams](https://www.windy.com/-Webcams/webcams), [Insecam](http://www.insecam.org/en/), [Airport Webcams](https://airportwebcams.net/) (Airports), [Africam](https://www.africam.com/wildlife/live-african-wildlife-safari-streams) (Wildlife), [TFLJamCams](https://www.tfljamcams.net/) (London Traffic), [Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams) (Animals), [Curlie Webcam Animals](https://curlie.org/en/Computers/Internet/On_the_Web/Webcams/Animals) (Animals), [San Diego Zoo](https://zoo.sandiegozoo.org/live-cams), (Animals), [Zoo.org](https://www.zoo.org/webcams) (Animals), [AnimalsLife](https://animalslife.net/) (Kittens) 
 
 ***
 
@@ -711,7 +711,7 @@ Add the following commands to a search to manually scrape each site.
 **Kodi**
 
 * [Kodi](https://kodi.tv/) - *Media Server / Streaming App*
-* Kodi Addons - /r/Addons4Kodi, [Addon Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) /  [2](https://kodiapps.com/addons-chart)
+* Kodi Addons - [/r/Addons4Kodi](https://reddit.com/r/Addons4Kodi), [Addon Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) /  [2](https://kodiapps.com/addons-chart)
 * [MMA](https://www.bestkoditips.com/best-kodi-addons-to-watch-ufc-online/) - *MMA App*
 * [KDrama](https://aznhusband.github.io/) or [cywteow](https://cywteow.github.io/) - *KDrama Apps*
 * Kodi Tools - [IPTV](https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client) / [Media Tracker](https://simkl.com/) / [Media Manager](https://github.com/komet/mediaelch) / [Plex](https://github.com/plexinc/plex-for-kodi)
@@ -1159,7 +1159,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Reddit Alternatives
 
-**[Reddit Alt Index](https://redd.it/km9468)**, **[Raddle](https://raddle.me/)**, **[Saidit](https://saidit.net/)**, [ruqqus](https://ruqqus.com), [Lemmy](https://lemmy.ml/), /r/RedditAlternatives, [notabug](https://notabug.io/), [postmill](https://postmill.xyz/), [Comet](https://cometx.io/), [Sqwok](https://sqwok.im/), [Ramble](https://ramble.pw/) (Privacy Focused), [Gurlic](https://gurlic.com/)
+**[Reddit Alt Index](https://redd.it/km9468)**, **[Raddle](https://raddle.me/)**, **[Saidit](https://saidit.net/)**, [ruqqus](https://ruqqus.com), [Lemmy](https://lemmy.ml/), [/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives), [notabug](https://notabug.io/), [postmill](https://postmill.xyz/), [Comet](https://cometx.io/), [Sqwok](https://sqwok.im/), [Ramble](https://ramble.pw/) (Privacy Focused), [Gurlic](https://gurlic.com/)
 
 ***
 
@@ -1243,7 +1243,7 @@ Add the following commands to a search to manually scrape each site.
 #### Sheet Music Sites
 
 * [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) 
-* /r/sheetmusic
+* [/r/sheetmusic](https://reddit.com/r/sheetmusic)
 * [8notes](https://www.8notes.com/)
 * [imslp](https://imslp.org/wiki/Main_Page)
 * [mutopiaproject](https://www.mutopiaproject.org/)

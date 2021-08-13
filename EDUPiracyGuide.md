@@ -60,7 +60,7 @@
 * [Learn Computer Science in 1k Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/) - *Computer Science Courses*
 * [UdemyFreeCourses](https://udemyfreecourses.org/) - *Udemy Courses*
 * [TutsNode](https://tutsnode.net/) - *Udemy Courses*
-* /r/udemyfreebies - *Udemy Courses*
+* [/r/udemyfreebies](https://reddit.com/r/udemyfreebies) - *Udemy Courses*
 * [Discounted-Udemy-Course-Enroller](https://github.com/techtanic/Discounted-Udemy-Course-Enroller) - *Automatically Enroll in Udemy Courses*
 * [Nocourses](https://nocourses.com/) - *Udemy Coupons / Courses* 
 * [Online Courses Tracker](https://comidoc.net/) - *Udemy Coupons / Courses*
@@ -83,7 +83,7 @@
 * [ThoughtMaybe](https://thoughtmaybe.com/) 
 * [Folkstreams](https://www.folkstreams.net/) 
 * [Films For Action](https://www.filmsforaction.org/) 
-* /r/Documentaries 
+* [/r/Documentaries](https://reddit.com/r/Documentaries) 
 
 ***
 
@@ -270,7 +270,7 @@
 
 # ► Space
 
-* /r/Space - *Space Subreddit*
+* [/r/Space](https://reddit.com/r/Space) - *Space Subreddit*
 * [Space Dashboard](https://spacedashboard.com/) - *Space Live Stream Dashboard* 
 * [ISS Sim](https://iss-sim.spacex.com/) - *ISS Docking Simulator* 
 * [Interactive Apollo Missions](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - *Apollo in Real Time* 
@@ -372,7 +372,7 @@
 * [Learn Anything](https://learn-anything.xyz/) - *Interactive Learning Map* 
 * [NoExcuseList](http://noexcuselist.com/) - *Free Learning Sites* 
 * [Explorabl.es](https://explorabl.es/) or [MinuteLabs](https://minutelabs.io/) - *Interactive Learning / Lessons* 
-* /r/educationalgifs  - *Learn With GIFs* 
+* [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - *Learn With GIFs* 
 * [KausalFlow](https://tools.kausalflow.com/) - *Academic Research Tools* 
 * [Zotero](https://www.zotero.org/) - *Research Organization Tool* 
 * [Plagiarism Checker](https://www.grammarly.com/plagiarism-checker), [PaperRater](https://www.paperrater.com/), [PlagiarismDetector](http://www.plagiarismdetector.net/), [CopyScape](https://www.copyscape.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*

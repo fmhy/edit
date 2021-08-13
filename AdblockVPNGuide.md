@@ -197,7 +197,7 @@
 * [V2Ray](https://v2ray.com/en/) - *Build your own Privacy Network / [GUI](https://qv2ray.net/), [v2rayN](https://github.com/2dust/v2rayN)* 
 * [Scout](https://www.scout.tel/phone-number-lookup) - *Phone Number Lookup / Safety Check* 
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - *Get Telephone Carrier Data* 
-* /r/privacy - *Privacy Discussion* 
+* [/r/privacy](https://reddit.com/r/privacy) - *Privacy Discussion* 
 * [Privacy.com](https://privacy.com/) - *Make Secure Payments / US only* 
 * [OTPClient](https://github.com/paolostivanin/OTPClient) - *One-Time Password Client* 
 * [ctfs](https://github.com/ctfs/) - *Information Security Competition Writeups*
@@ -380,7 +380,7 @@
 * [Have I Been Sold?](https://haveibeensold.app/) - *Check if your email has been sold to third parties*
 * [Anon Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_send_anonymous_emails) - *Send Anonymous Emails*
 * [Scaremail](https://github.com/bengrosser/scaremail) - *Disrupt NSA Email Surveillance / [Account Gen](https://bengrosser.com/projects/scaremail/scaremail-generator/)*
-* /r/emailprivacy  - *Discussion of Email Privacy / Security / Anonymity* 
+* [/r/emailprivacy](https://reddit.com/r/emailprivacy)  - *Discussion of Email Privacy / Security / Anonymity* 
 * [Block Sender](https://blocksender.io/) - *Block Unwanted Emails* 
 * [E4ward](http://e4ward.com/) - *Spam Email Filter* 
 * [EmailRep](http://emailrep.io/) - *Email Reputation Check*
@@ -423,7 +423,7 @@
 * [Free VPN Online](http://freevpnonline.com/) - *Free VPN*
 * [TouchVPN](https://touchvpn.net/) - *Free VPN*
 * [Calyx VPN](https://calyx.net/) - *Free VPN*
-* [Sentinel](https://sentinel.co/) - *Free VPN / /r/SENT / [Guide](https://youtu.be/Iaa7Jwd5sy8)* 
+* [Sentinel](https://sentinel.co/) - *Free VPN / [/r/SENT](https://reddit.com/r/SENT) / [Guide](https://youtu.be/Iaa7Jwd5sy8)* 
 * [FreePN](https://www.freepn.org/) - *Free Open Source P2P VPN* 
 * [TunnelBear](https://www.tunnelbear.com/) - *Free VPN / 500mb only*
 * [FREEVPN.gg](https://freevpn.gg/) - *Free VPN List*
@@ -438,7 +438,7 @@
 * [Self-hosted VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/selfhost-vpn) - *Self-hosted VPN guide by /u/Kaxry*
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - *Arch Linux base with Deluge, Privoxy & OpenVPN*
 * [Killswitch](https://github.com/nologs-vpn/killswitch) - *Custom VPN Killswitch*
-* /r/VPN - *VPN Help and Discussion* 
+* [/r/VPN](https://reddit.com/r/VPN) - *VPN Help and Discussion* 
 
 ***
 
