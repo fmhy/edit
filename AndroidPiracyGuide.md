@@ -456,8 +456,8 @@ RSS Player*
 * [iOS Guide](https://ios.cfw.guide/) - *Modding / Jailbreaking Guide*
 * [Sideloading Beginners Guide](https://redd.it/orqzau) - *iOS Sideloading Guide*
 * [Can I Jailbreak](https://iosninja.io/jailbreak-wizard-can-i-jailbreak) - *Check if your Phone can be Jailbroken* 
-* /r/jailbreak - *Jailbreaking Subreddit*
-* /r/sideloaded - *Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)*
+* [/r/jailbreak](https://reddit.com/r/jailbreak) - *Jailbreaking Subreddit*
+* [/r/sideloaded](https://reddit.com/r/sideloaded) - *Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)*
 * [Jailbreak 13.5 Tweak Compatibility List](https://docs.google.com/spreadsheets/d/1cHL_bIcmON2L5euBM8NDk0SZ8w-VUE6oY3USbVqaLnA/edit?usp=sharing) - *Find out what tweaks are compatible with the 13.5* 
 * [XsF1re](https://github.com/XsF1re/XFJailbreakDetection) - *Bypass Jailbreak Detection*
 * [checkra1n](https://checkra.in/) - *Jailbreaking 5s - X*

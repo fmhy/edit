@@ -188,8 +188,8 @@
 # ► Tracker Invites
 
 * **[Private Trackers Guide](https://wiki.installgentoo.com/wiki/Private_trackers)** 
-* /r/OpenSignups 
-* /r/Invites 
+* [/r/OpenSignups](https://reddit.com/r/OpenSignups)
+* [/r/Invites](https://reddit.com/r/Invites)
 * [MyAnonaMouse](https://www.myanonamouse.net/) - *Open Applications*
 * [CinemaZ](https://cinemaz.to/auth/register) - *Movies / TV / Open Registrations*
 * [AvistaZ](https://avistaz.to/auth/register) - *Asian Movies / TV / Open Registrations*
@@ -221,5 +221,5 @@
 * [Torrent Editor](http://torrenteditor.com/) or [Torrent Parts](https://torrent.parts/) - *Edit Torrents Files*
 * [bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor) - *Add or Remove Trackers from Torrent Files*
 * [mktorrent](https://github.com/Rudde/mktorrent) - *Command Line to Create BitTorrent Metainfo Files* 
-* /r/torrents - *Torrenting discussion sub*
+* [/r/torrents](https://reddit.com/r/torrents) - *Torrenting discussion sub*
 * r/VPNTorrents - *For Discussion of Torrenting over VPNs*

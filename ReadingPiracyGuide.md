@@ -35,7 +35,7 @@
 * [AppAudiobooks](https://appaudiobooks.com/)
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - *Poetry*
 * [Audiobooks Unleashed](https://audiobooksunleashed.com/) - *Audiobook codes*
-* /r/audiobooksonyoutube
+* [/r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
 * [Telegram Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audiobook_downloads) - *Telegram audiobook download channels*
 * [Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) - *Plex Audiobook Metadata Scraper* 
 * [OverDrive](https://github.com/chbrown/overdrive) - *OverDrive Audiobook Download Script*
@@ -149,12 +149,12 @@
 * [The Imperial Library of Trantor](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/) - *Tor Required / [Unofficial Mirror](https://trantor.is/)*
 * [Libby](https://www.overdrive.com/apps/libby/) - *Borrow Digital Library Books / Mobile*
 * [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
-* /r/opendirectories
-* /r/EBook_Resources/
-* /r/FreeEBOOKS
-* /r/Freenookbooks/
-* /r/bookdownloads/
-* /r/KindleFreebies/
+* [/r/opendirectories](https://reddit.com/r/opendirectories)
+* [/r/EBook_Resources](https://reddit.com/r/EBook_Resources/)
+* [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)
+* [/r/Freenookbooks](https://reddit.com/r/Freenookbooks/)
+* [/r/bookdownloads](https://reddit.com/r/bookdownloads/)
+* [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
 
 ***
 
@@ -277,11 +277,11 @@
 * [auto-soylent](https://github.com/nick/auto-soylent) - *Automatic Soylent recipe generator* 
 * [recipesseo](https://www.recipesseo.com/ingredients) - *Common Ingredients in Recipes Analyzer* 
 * [/m/food](https://www.reddit.com/user/Siryonkee/m/food/) - *Food Multireddit*
-* /r/Cooking - *Cooking Discussion / Tips*
-* /r/GifRecipes - *Recipes in GIF Format*
-* /r/recipes - *Share recipes*
-* /r/AskCulinary - *Get Cooking Advice* 
-* /r/IndianFood - *Indian Food Recipes / Tips*
+* [/r/Cooking](https://reddit.com/r/Cooking) - *Cooking Discussion / Tips*
+* [/r/GifRecipes](https://reddit.com/r/GifRecipes) - *Recipes in GIF Format*
+* [/r/recipes](https://reddit.com/r/recipes) - *Share recipes*
+* [/r/AskCulinary](https://reddit.com/r/AskCulinary) - *Get Cooking Advice* 
+* [/r/IndianFood](https://reddit.com/r/IndianFood) - *Indian Food Recipes / Tips*
 * [EatThisMuch](https://www.eatthismuch.com/) - *Diet App / Tool* 
 * [Still Tasty](https://www.stilltasty.com/) or [EatByDate](http://www.eatbydate.com/) - *Shelf Life Guides* 
 * [Baking Calculators](https://bakingcalculators.com/) - *Measurement System Conversion Calculators*
@@ -494,15 +494,15 @@
 * [Information Is Beautiful](https://informationisbeautiful.net/) - *Data / Information / Infographics / Visualizations* 
 * [Open Educational Resources](https://cdn-infographic.pressidium.com/wp-content/uploads/How-to-Search-for-Open-Educational-Resources-Infographic.jpg) - *How to search for Open Educational Resources*
 * [Critical Thinking](https://mega.nz/folder/ZMlxhYLA#sG-opuADdkNiu9-IdeJO4Q) - *Books / Guides / Pictures* 
-* /r/textbook_piracy 
-* /r/textbookrequest 
-* /r/textbookfinder 
-* /r/eebooks/
-* /r/csbooks 
-* /r/econbooks 
-* /r/mathbooks 
-* /r/Scholar 
-* /r/coolguides/, [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) 
+* [/r/textbook_piracy](https://reddit.com/r/textbook_piracy)
+* [/r/textbookrequest](https://reddit.com/r/textbookrequest)
+* [/r/textbookfinder](https://reddit.com/r/textbookfinder)
+* [/r/eebooks](https://reddit.com/r/eebooks/)
+* [/r/csbooks](https://reddit.com/r/csbooks)
+* [/r/econbooks](https://reddit.com/r/econbooks)
+* [/r/mathbooks](https://reddit.com/r/mathbooks)
+* [/r/Scholar](https://reddit.com/r/Scholar)
+* [/r/coolguides](https://reddit.com/r/coolguides/), [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) 
 
 ***
 
@@ -822,7 +822,7 @@
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
 * [MangaEditor](https://moeka.me/mangaEditor/) - *Online Manga Editor*
 * [Anity](https://redd.it/g372gu), [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en) or [Scanlate](https://scanlate.io/) - *Manga Translator*
-* /r/MangaPiracy - *Manga Piracy Subreddit / [Discord](https://discord.gg/pu66ZcNTrT)*
+* [/r/MangaPiracy](https://reddit.com/r/MangaPiracy) - *Manga Piracy Subreddit / [Discord](https://discord.gg/pu66ZcNTrT)*
 * [Tenma](https://github.com/Tenma-Server/Tenma) or [Komga](https://komga.org/) - *Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)*
 
 ***
@@ -955,7 +955,7 @@
 * **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)** - *Books / Audiobooks* 
 * **[Mobilism](https://forum.mobilism.org/viewforum.php?f=20)** - *Books / Audiobooks / android*
 * **irc.irchighway.net/ebooks** - *eBook IRC / [Request Guide](https://i.imgur.com/GvyDh0B.png)*
-* /r/audiobookrequest - *Audiobook request Sub*
+* [/r/audiobookrequest](https://reddit.com/r/audiobookrequest) - *Audiobook request Sub*
 * [Books.cat](https://books.cat/) - *Book requesting forum*
 * [libgen](https://forum.mhut.org/viewtopic.php?f=17&t=6399) - *Books / [Request Form](https://libgen.life/bookreq/)*
 * [EBooksCart](https://ebookscart.com/request-books/) - *Books*
@@ -969,9 +969,9 @@
 * [VK eBook Sharing Group](https://vk.com/club162811046) - *Books* 
 * [FreeNovelsGroup](https://t.me/FreeNovelsGroup) - *Books / Telegram* 
 * [VCE PDF Megathread](https://redd.it/dxvao6) - *Educational Books*
-* /r/textbook_piracy
-* /r/textbookrequest
-* /r/Scholar 
+* [/r/textbook_piracy](https://reddit.com/r/textbook_piracy)
+* [/r/textbookrequest](https://reddit.com/r/textbookrequest)
+* [/r/Scholar](https://reddit.com/r/Scholar)
 
 ***
 

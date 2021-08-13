@@ -259,8 +259,8 @@
 * [Refined GitHub](https://github.com/sindresorhus/refined-github) - *Simplifies GitHub Interface & Adds Features* 
 * [github1s](https://github1s.com/) - *GitHub Code Viewer / GUI: do `gitk` in repo folder* 
 * [git](https://git-scm.com/) - *Version Control System*
-* /r/coolgithubprojects - *Cool Projects on Github* 
-* /r/coolgitlabprojects - *Cool Projects on Gitlab*
+* [/r/coolgithubprojects](https://reddit.com/r/coolgithubprojects) - *Cool Projects on Github* 
+* [/r/coolgitlabprojects](https://reddit.com/r/coolgitlabprojects) - *Cool Projects on Gitlab*
 * [git:logs](https://www.gitlogs.com/) - *Trending GitHub Repos* 
 * [Active Github Forks](https://techgaun.github.io/active-forks/) - *List of active github forks*
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) - *View a Repositories Forks* 

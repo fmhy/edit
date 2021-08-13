@@ -78,7 +78,7 @@
 * [London 2038](https://london2038.com/) - *London 2038 Multiplayer Revival Project*
 * [Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25BA_free_stuff) 
 * [Vapor Store](https://github.com/SushyDev/vapor-store) - *Pirated Game Store / [Discord](https://discord.gg/Y4ECqXN) / Works w/ [steamunlocked](https://steamunlocked.net/all-games/)*
-* /r/RepackWorld - *Repack Subreddit*
+* [/r/RepackWorld](https://reddit.com/r/RepackWorld) - *Repack Subreddit*
 
 ***
 
@@ -177,7 +177,7 @@
 * [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - *Add More Roms to NES/SNES Classic Mini*
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - *.XBE to ISO File Converter*
 * [Homebrew Gang](https://thehbg.shop/main.html) - *Switch Homebrew Community*
-* /r/ps3homebrew - *PS3 Homebrew Subreddit*
+* [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - *PS3 Homebrew Subreddit*
 * [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) - *Yuzu Emulator Setup Guide*
 * [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - *PSCX Development Emulator*
 * [RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list) - *Emulator Tool Index*
@@ -310,7 +310,7 @@
 
 * **[Free Rice](https://freerice.com/)** - *Play a game while earning rice for the World Food Programme, turn off adblocker*
 * **[DelugeRPG](https://www.delugerpg.com/)** - *Pokemon RPG Simulation*
-* /r/WebGames
+* [/r/WebGames](https://reddit.com/r/WebGames)
 * [Newgrounds](https://www.newgrounds.com/games)
 * [Armor Games](https://armorgames.com/)
 * [Kongregate](https://www.kongregate.com/)

@@ -152,7 +152,7 @@
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - *Domain Word Search* 
 * [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/) - *Custom Firefox Theme Creation*
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - *Firefox Themes List*
-* /r/FirefoxCSS - *Firefox CSS Guides* 
+* [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - *Firefox CSS Guides* 
 * [Dark Background for Firefox New Tabs](https://fedidat.com/640-dark-newtab-firefox/)
 * [Colors and Fonts Extractor](https://addons.mozilla.org/en-US/firefox/addon/colors-and-fonts-extractor/) - *Extract Colors & Fonts from Websites* 
 * [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - *Force Enable Right Click*
@@ -242,7 +242,7 @@
 * [Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - *Find Software / App Alternatives* 
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - *Open Source Software Indexes*
 * [Awesome Clones](https://github.com/Envoy-VC/awesome-clones) - *Open Source Clones of Popular Sites*
-* /r/InternetIsBeautiful - *Helpful / Fun Sites Subreddit / [Randomizer](https://therandombutton.com/)*
+* [/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful) - *Helpful / Fun Sites Subreddit / [Randomizer](https://therandombutton.com/)*
 * [/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index) - */r/Piracy Index*
 * [/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread) - *Software Piracy Megathread*
 * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy) - *Piracy Index*
@@ -290,8 +290,8 @@
 * [NetSplit](https://netsplit.de/) - *IRC Channel Index*
 * [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) - *API index* 
 * [Cyberlife](https://cyberpunk-life.neocities.org/) - *Cyberpunk-Related Content / Sites Index* 
-* /r/coolgithubprojects - *Cool Projects on Github* 
-* /r/coolgitlabprojects - *Cool Projects on Gitlab*
+* [/r/coolgithubprojects](https://reddit.com/r/coolgithubprojects) - *Cool Projects on Github* 
+* [/r/coolgitlabprojects](https://reddit.com/r/coolgitlabprojects) - *Cool Projects on Gitlab*
 * [git:logs](https://www.gitlogs.com/) - *Trending GitHub Repos* 
 * [grep.app](https://grep.app/) or [GitSearch](https://gitsearch.io/) - *Git Repository Search*
 * [Active Github Forks](https://techgaun.github.io/active-forks/) - *List of Active GitHub Forks*
@@ -319,13 +319,13 @@
 * **[OneHack](https://onehack.us/)**
 * **[Biohazard](https://discord.gg/biohazard-official)** - *Guides / Courses / Extensions / Chat*
 * [/m/piracy](https://www.reddit.com/user/nbatman/m/piracy/), [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) - *Piracy Multireddit*
-* /r/piracy - *[Backup](https://github.com/nid666/PiracyArchive)*
-* /r/piratedgames - *[Discord](https://discord.gg/Da2akf2)*
-* /r/SoftwarePirates - *Software Piracy Discussion*
-* /r/DataHoarder - *[Telegram](https://t.me/r_DataHoarder)*
-* /r/trackers 
-* /r/usenet 
-* /r/CrackSupport - *Piracy / Gaming / Cracking Discussion / [Discord](https://discord.gg/eTsaTNpsxj) / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch)*
+* [/r/piracy](https://reddit.com/r/piracy) - *[Backup](https://github.com/nid666/PiracyArchive)*
+* [/r/piratedgames](https://reddit.com/r/piratedgames) - *[Discord](https://discord.gg/Da2akf2)*
+* [/r/SoftwarePirates](https://reddit.com/r/SoftwarePirates) - *Software Piracy Discussion*
+* [/r/DataHoarder](https://reddit.com/r/DataHoarder) - *[Telegram](https://t.me/r_DataHoarder)*
+* [/r/trackers](https://reddit.com/r/trackers) 
+* [/r/usenet](https://reddit.com/r/usenet) 
+* [/r/CrackSupport](https://reddit.com/r/CrackSupport) - *Piracy / Gaming / Cracking Discussion / [Discord](https://discord.gg/eTsaTNpsxj) / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch)*
 * [PGames](https://discord.gg/dZWwhUy) - *Piracy / Gaming / Discord*
 * [CS.RIN.RU](https://cs.rin.ru/forum)
 * [Ru.Board](http://forum.ru-board.com/)
@@ -367,7 +367,7 @@
 * [ClaimFreeGames](https://claimfreegames.com/) - *Games* 
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - *Games*
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - *Auto-Claim Free Epic Games*
-* /r/googleplaydeals - *Paid apps* 
+* [/r/googleplaydeals](https://reddit.com/r/googleplaydeals) - *Paid apps* 
 * [Android App Sales](https://t.me/androidappsales) - *Paid apps / Telegram* 
 * [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - *Paid apps*
 * [AppsFree](https://play.google.com/store/apps/details?id=com.appsfree.android) - *Paid apps*
@@ -378,16 +378,16 @@
 * [FreeCycle](https://www.freecycle.org/) - *People giving away free stuff*
 * [Dolly Parton’s Imagination Library](https://imaginationlibrary.com/) - *Book Gifting Program (For Children)*
 * [FreeSteamOffers_Bot](https://t.me/FreeSteamOffers_Bot/) - *Telegram*
-* /r/eFreebies 
-* /r/FreeGameFindings 
-* /r/udemyfreebies 
-* /r/FREECoursesEveryday 
-* /r/FreeEBOOKS  
-* /r/FreeMusicFindings 
-* /r/Freenookbooks/
-* /r/bookdownloads/
-* /r/KindleFreebies/
-* /r/Freegamestuff
+* [/r/eFreebies](https://reddit.com/r/eFreebies) 
+* [/r/FreeGameFindings](https://reddit.com/r/FreeGameFindings) 
+* [/r/udemyfreebies](https://reddit.com/r/udemyfreebies) 
+* [/r/FREECoursesEveryday](https://reddit.com/r/FREECoursesEveryday) 
+* [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)  
+* [/r/FreeMusicFindings](https://reddit.com/r/FreeMusicFindings) 
+* [/r/Freenookbooks](https://reddit.com/r/Freenookbooks/)
+* [/r/bookdownloads](https://reddit.com/r/bookdownloads/)
+* [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
+* [/r/Freegamestuff](https://reddit.com/r/Freegamestuff)
 
 ***
 

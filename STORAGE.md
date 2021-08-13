@@ -1240,7 +1240,7 @@ Add the following commands to a search to manually scrape each site.
 #### Sheet Music Sites
 
 * [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) 
-* /r/sheetmusic
+* [/r/sheetmusic](https://reddit.com/r/sheetmusic)
 * [8notes](https://www.8notes.com/)
 * [imslp](https://imslp.org/wiki/Main_Page)
 * [mutopiaproject](https://www.mutopiaproject.org/)
