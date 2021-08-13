@@ -11,3 +11,4 @@ Approved changes will be applied on reddit, discord and all backup wiki's.
 ## Join us
  ## [discord](https://discord.gg/vgnaeka)
  ## [reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki)
+## Backups 
