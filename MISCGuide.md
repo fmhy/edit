@@ -186,6 +186,7 @@
 * [CRX Viewer](https://github.com/Rob--W/crxviewer) or - *View Extension Source Code* 
 * [Dark Mode](https://chrome.google.com/webstore/detail/dark-mode/declgfomkjdohhjbcfemjklfebflhefl) - *Dark Mode*
 * [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - *Picture-in-Picture Mode*
+* [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) - *Increase Browser Volume*
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - *Download Multiple Links at Once* 
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
@@ -317,7 +318,7 @@
 # ► Piracy Discussion
 
 * **[OneHack](https://onehack.us/)**
-* **[Biohazard](https://discord.gg/biohazard-official)** - *Guides / Courses / Extensions / Chat*
+* **[Biohazard](https://discord.gg/MnZrNxmsJy)** - *Guides / Courses / Extensions / Chat*
 * [/m/piracy](https://www.reddit.com/user/nbatman/m/piracy/), [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) - *Piracy Multireddit*
 * [/r/piracy](https://reddit.com/r/piracy) - *[Backup](https://github.com/nid666/PiracyArchive)*
 * [/r/piratedgames](https://reddit.com/r/piratedgames) - *[Discord](https://discord.gg/Da2akf2)*
@@ -401,7 +402,7 @@
 * [r.sine.com](https://r.sine.com/index), [Funnyjunk](https://funnyjunk.com//) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Memes & GIFs / Some NSFW*
 * [Neal.fun](https://neal.fun/) or [JenniferDewalt](https://jenniferdewalt.com/) - *Sites / Games*
 * [Just For Fun](https://justforfun.io/) or [Andrew Marsh](http://andrewmarsh.com/software) - *Coding Project Showcase* 
-* [Trippy shit Mega List](https://triptoysfor.me/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave), [BoredHumans](http://boredhumans.com/), [puissant](https://sandwichpuissant.net/) or [Mr.doob](https://mrdoob.com/) - *Toys & Experiments* 
+* [Trippy shit Mega List](https://triptoysfor.me/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave), [BoredHumans](http://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](http://www.thisismywebsitenow.com/) or [Mr.doob](https://mrdoob.com/) - *Toys & Experiments* 
 * [Bimble Space](https://in.bimble.space/toys) - *Multiple Toys / Art Tools* 
 * [Kamogo](https://www.kamogo.com/faq/) - *Useless Web Apps*
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - *Turn Screen into Strobe / Mood Light*
