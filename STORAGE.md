@@ -113,7 +113,7 @@
 
 #### Android Audio Players
 
-[VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer), [BlackHole](https://github.com/Sangwan5688/BlackHole), [RAAG](https://github.com/raag-music/raag/), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Pulse Music](https://f-droid.org/en/packages/com.hardcodecoder.pulsemusic/), [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet&hl=en_US&gl=US), [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
+[VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer), [BlackHole](https://github.com/Sangwan5688/BlackHole), [RAAG](https://github.com/raag-music/raag/), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Pulse Music](https://f-droid.org/en/packages/com.hardcodecoder.pulsemusic/), [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet&hl=en_US&gl=US), [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer), [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/)
 
 ***
 
@@ -458,6 +458,8 @@
 * https://www1.attacker.tv/
 * https://quitt.net/
 * https://www1.seeingblind.net/
+* https://fmovie.ws/
+* http://bemovies.cc/
 * https://www6.123moviesgo.tv/
 * https://moviecracker.net/
 * https://www1.ummagurau.com/
@@ -736,7 +738,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Multireddits 
 
-[Explore All Multireddits](https://www.reddit.com/r/multihub/top/?sort=top&t=all), [Piracy](https://www.reddit.com/user/nbatman/m/piracy/) / [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) / [3](https://www.reddit.com/user/nanomuto/m/piracyhub/), [Random](https://www.reddit.com/user/nbatman/m/random/), [Weird YouTube](https://www.reddit.com/user/jarod47/m/wierdpartofyoutube/), [Streaming](https://www.reddit.com/user/nbatman/m/streaming/) / [2](https://www.reddit.com/user/asmailes/m/fullmoviesandtv/), [Cord Free TV](https://www.reddit.com/user/efidol/m/cordfreetv/), [News](https://www.reddit.com/user/nbatman/m/news/), [Left](https://www.reddit.com/user/nbatman/m/left/), [Conspiracy](https://www.reddit.com/user/nbatman/m/conspiracy/), [Aliens](https://www.reddit.com/user/nbatman/m/aliens/), [Paranormal](https://www.reddit.com/user/nbatman/m/paranormal/), [Metaphysics](https://www.reddit.com/user/nbatman/m/metaphysics/), [Countries](https://www.reddit.com/user/sneaky5erpent/m/countries/) / [2](https://www.reddit.com/user/sneaky5erpent/m/countries2/), [International AskARedditor](https://www.reddit.com/user/sneaky5erpent/m/ask_people_nationality/)
+[Explore All Multireddits](https://www.reddit.com/r/multihub/top/?sort=top&t=all), [Piracy](https://www.reddit.com/user/nbatman/m/piracy/) / [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) / [3](https://www.reddit.com/user/nanomuto/m/piracyhub/), [Random](https://www.reddit.com/user/nbatman/m/random/), [Weird YouTube](https://www.reddit.com/user/jarod47/m/wierdpartofyoutube/), [Streaming](https://www.reddit.com/user/nbatman/m/streaming/) / [2](https://www.reddit.com/user/asmailes/m/fullmoviesandtv/), [Cord Free TV](https://www.reddit.com/user/efidol/m/cordfreetv/), [News](https://www.reddit.com/user/nbatman/m/news/), [Tech](https://old.reddit.com/user/goretsky/m/win_itpro/), [Left](https://www.reddit.com/user/nbatman/m/left/), [Conspiracy](https://www.reddit.com/user/nbatman/m/conspiracy/), [Aliens](https://www.reddit.com/user/nbatman/m/aliens/), [Paranormal](https://www.reddit.com/user/nbatman/m/paranormal/), [Metaphysics](https://www.reddit.com/user/nbatman/m/metaphysics/), [Countries](https://www.reddit.com/user/sneaky5erpent/m/countries/) / [2](https://www.reddit.com/user/sneaky5erpent/m/countries2/), [International AskARedditor](https://www.reddit.com/user/sneaky5erpent/m/ask_people_nationality/)
 
 ***
 
@@ -799,6 +801,7 @@ Add the following commands to a search to manually scrape each site.
 * https://a1_sc.a1od.workers.dev/
 * https://azzzzzz.lx.workers.dev/
 * https://od.kbbldh.workers.dev/
+* http://onedrive.gdrive.vip/
 * http://free.stulive.com/
 * https://a1.lx.workers.dev/
 * https://a1p.zha.bi/#intro
@@ -1114,7 +1117,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Android**
 
-[Mull](https://divestos.org/fdroid/official?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467), [DuckDuckGo Privacy Browser](https://duckduckgo.com/app), [BiscuitBrowser](https://github.com/CookieJarApps/BiscuitBrowser), [SmartCookieWeb](https://smartcookieweb.com/), [2](https://github.com/CookieJarApps/SmartCookieWeb-preview) / [YTDL](https://github.com/CookieJarApps/VideoDL), [Privacy Browser](https://f-droid.org/en/packages/com.stoutner.privacybrowser.standard/)
+[Mull](https://f-droid.org/packages/us.spotco.fennec_dos/), [DuckDuckGo Privacy Browser](https://duckduckgo.com/app), [BiscuitBrowser](https://github.com/CookieJarApps/BiscuitBrowser), [SmartCookieWeb](https://smartcookieweb.com/), [2](https://github.com/CookieJarApps/SmartCookieWeb-preview) / [YTDL](https://github.com/CookieJarApps/VideoDL), [Privacy Browser](https://f-droid.org/en/packages/com.stoutner.privacybrowser.standard/)
 
 ***
 
