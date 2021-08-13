@@ -477,6 +477,7 @@
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - *Electronics Schematics & Simulations*
 * [159.69.3.96](http://159.69.3.96/ebooks/) - *IT Books*
 * [Cyber Security & IT](https://mega.nz/folder/9kxTnLCI#BThv3CtkC27JqcJ4ZWD_cA) - *Cyber Security / IT Books & Courses*
+* [biorxiv](https://www.biorxiv.org/) - *Biology Preprints*
 * [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - *Philosophy* 
 * [APAOnline](https://www.apaonline.org/) - *Philosophy* 
 * [Philosophy Drive](https://mega.nz/folder/MQBRHBJA#L_on3h-XUrtbc719UaMygw) - *Philosophy* 
@@ -486,6 +487,7 @@
 * [PickPDF](https://pickpdfs.com/) - *Medical* 
 * [MedicalStudyZone](https://medicalstudyzone.com/) - *Medical* 
 * [Medical_Book_Bot](https://t.me/Medical_Book_Bot) - *Medical / Telegram*
+* [medrxiv](https://www.medrxiv.org/) - *Medicine Preprints*
 * [Lee B. Drive](https://drive.google.com/drive/u/0/mobile/folders/183tf8PmQbwgVC7HrxOZ5WQPulVd-Uomi) - *Books / Black History / Educational*
 * [Butterick’s Practical Typography](https://practicaltypography.com/) - *Typography Guide Book*
 * [Cheatography](https://cheatography.com/) - *Educational Cheat Sheets* 
