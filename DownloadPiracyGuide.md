@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/wCmGQoJ.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/3bP8X6d.png)** - *For mobile users*
 
 ***
 ***
@@ -223,13 +223,10 @@
 * [IcecreamApps](https://icecreamapps.com/) - *Software* 
 * [Nirsoft](https://www.nirsoft.net/) - *Windows Software* 
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software Index* 
-* [Awesome Linux](https://github.com/inputsh/awesome-linux), [2](https://luong-komorebi.github.io/Awesome-Linux-Software/) - *Linux Software Index*
-* [ArchLinux](https://wiki.archlinux.org/title/List_of_applications) - *Linux Software Index*
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software*  
 * [RaymondFreeSoftware](https://t.me/raymondfreesoftware) - *telegram*
 * [Suckless](https://suckless.org/) - *Simple Software Archive* 
 * [MSDN](https://the-eye.eu/public/MSDN/) - *Microsoft Developer Network Software* 
-* [WSL-Programs](https://github.com/ethanhs/WSL-Programs) - *Windows Subsystem for Linux Programs*
 * [Giveaway Radar](https://giveawayradar.weebly.com/) - *Software Giveaways*
 * [Tick Coupon](https://giveaway.tickcoupon.com/windows-giveaway/) - *Software Giveaways*
 * [Techno360](https://www.techno360.in/category/free-stuff/) - *Software Giveaways*
@@ -238,6 +235,16 @@
 * [VETUSWARE](https://vetusware.com/) - *Abandonware / Operating Systems / Games*
 * [The Vintage Software Collection](https://archive.org/details/vintagesoftware) - *Vintage Software*
 * [Portapps](https://portapps.io/), [FC Portables](https://www.fcportables.com/), [Portable Freeware](https://www.portablefreeware.com/), [TheHouseOfPortable](https://thehouseofportable.com/), [freeportablesoftwares](https://sites.google.com/site/freeportablesoftwares/) or [PortableApps](https://portableapps.com/) - *Portable Apps for USB / SD / External Storage*
+
+***
+
+## ▷ Linux Software
+
+* [Awesome Linux](https://github.com/inputsh/awesome-linux), [2](https://luong-komorebi.github.io/Awesome-Linux-Software/) 
+* [ArchLinux](https://wiki.archlinux.org/title/List_of_applications)
+* [App Outlet](https://app-outlet.github.io/)
+* [SnapCraft](https://snapcraft.io/store) 
+* [WSL-Programs](https://github.com/ethanhs/WSL-Programs) - *Windows Subsystem for Linux Programs*
 * [KDE's Applications](https://apps.kde.org/education) - *Linux Apps* 
 
 ***
@@ -250,7 +257,7 @@
 * [MacBed](https://www.macbed.com/) 
 * [AppDB](https://appdb.to/) 
 * [NXMac](https://nxmac.com/) 
-* [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) - *Index* 
+* [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
 
 ***
 
