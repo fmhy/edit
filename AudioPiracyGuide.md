@@ -54,7 +54,7 @@
 * [Khinsider](https://downloads.khinsider.com/), [Cirrus Retro](https://cirrusretro.com/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
 * [Themes.moe](https://themes.moe/) - *Anime Themes*
 * [Musicmap](https://musicmap.info/) - *Genealogy / History of Music Genres* 
-* [Random Song](https://randomsong.net/) - *Random Song Generator*
+* [Random Song](https://randomsong.net/) or [ListenToThis](https://listentothis.nanoshinono.me/) - *Random Songs*
 * [The Nostalgia Machine](http://thenostalgiamachine.com/) or [bops.fm](https://bops.fm/) - *Random Songs by Year* 
 * [Drive & Listen](https://driveandlisten.herokuapp.com/) - *Listen to Music and Drive in Multiple Cities* 
 * [Map of Metal](http://mapofmetal.com/) - *Interactive Map of Metal History* 
