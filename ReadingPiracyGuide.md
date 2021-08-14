@@ -25,6 +25,7 @@
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - *Listen Online*
 * [Audiobook Slab](https://audiobookslab.com/) - *Listen Online*
 * [AudioBook Reviews](https://audiobookreviews.com/) 
+* [xAudiobooks](https://xaudiobooks.com/)
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks) 
 * [Golden Audiobooks](https://goldenaudiobooks.com/)
 * [LoudLit](http://loudlit.org/) 
@@ -623,6 +624,7 @@
 * [NSA Archive](https://nsarchive.gwu.edu/) - *Reports*
 * [NAP](https://www.nap.edu/) - *Reports*
 * [WikiLeaks](https://search.wikileaks.org/) - *WikiLeaks Search* 
+* [CensorBib](https://censorbib.nymity.ch/) - *Internet Censorship Research Papers*
 * [NASA NTRS](https://ntrs.nasa.gov/search.jsp) - *NASA Documents*
 * [Ariadne](http://ariadne2.isti.cnr.it/) - *Archaeological Datasets* 
 * [Aesthetics Archive](https://contempaesthetics.org/) - *Aesthetics Articles / Notes Contemporary*
@@ -730,7 +732,7 @@
 * [RichieRichcomicsfanclub](https://richierichcomicsfanclub.wordpress.com/) - *Richie Rich Comics* 
 * [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - *Tor required* 
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) or [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md) - *Comic Downloading App*
-* [Cover](http://www.frenchfrysoftware.com/cover/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - *Reader / Manager*
+* [LeagueOfComicGeeks](https://leagueofcomicgeeks.com/), [Cover](http://www.frenchfrysoftware.com/cover/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - *Reader / Manager*
 * [MComix](https://sourceforge.net/p/mcomix/wiki/Home/) - *Reader*
 * [gazee](https://hub.docker.com/r/linuxserver/gazee/) or [Komikku](https://gitlab.com/valos/Komikku) - *Reader / Manager  / Linux*
 * [Tachiyomi](https://tachiyomi.org/), [TheComicsLibrary](https://github.com/FabioPezzini/TheComicsLibrary) or [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - *Manager / Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / Android* 
