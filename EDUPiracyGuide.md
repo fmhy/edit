@@ -341,6 +341,7 @@
 * [PolyGlot](http://polyglots.free.fr/) - *Linguistic Teaching Software*
 * [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - *Language Identification Test*
 * [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap)- *Listen to Accents*
+* [LexCity](http://lexicity.com/) - *Ancient Language Learning Tools & Resources*
 
 ***
 
