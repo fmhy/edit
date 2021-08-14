@@ -348,7 +348,6 @@
 * **[Search Engine Party](https://searchengine.party/)** - *Privacy Search Engine Comparisons*
 * **[DuckDuckGo](https://duckduckgo.com/)** - *[Shortcuts](https://duckduckgo.com/bang)*
 * [searx](https://asciimoo.github.io/searx/) - *[Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_searx_instances) / [Desktop](https://notabug.org/CYBERDEViL/searx-qt)*
-* [StartPage](https://www.startpage.com/)
 * [Qwant](https://www.qwant.com/)
 * [Swisscows](https://swisscows.com/)
 * [Metager](https://metager.org/)
@@ -437,7 +436,7 @@
 * [Amnezia](https://github.com/amnezia-vpn/desktop-client/) - *Self-hosted VPN*
 * [Self-hosted VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/selfhost-vpn) - *Self-hosted VPN guide by /u/Kaxry*
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - *Arch Linux base with Deluge, Privoxy & OpenVPN*
-* [Killswitch](https://github.com/nologs-vpn/killswitch) - *Custom VPN Killswitch*
+* [Killswitch](https://github.com/nologs-vpn/killswitch) or [KillSwitch](https://github.com/nerfirelia123/KillSwitch) - *Custom VPN Killswitch*
 * [/r/VPN](https://reddit.com/r/VPN) - *VPN Help and Discussion* 
 
 ***
