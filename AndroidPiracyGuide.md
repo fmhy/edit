@@ -11,6 +11,7 @@
 
 # ► Android Adblocking
 
+* **[APK Adblocking Guide](https://redd.it/oyfmr1)**
 * **[Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)**, [AeroInsta](https://aeroinsta.com/), [NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid) or [WebApps](https://github.com/tobykurien/WebApps/) - *App Containers* 
 * **[Bromite](https://www.bromite.org/)** - *Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite)*
 * **[AdGuard Premium](https://forum.mobilism.org/search.php?keywords=adguard+&sr=topics&sf=titleonly)** - *Adblocking App*
@@ -24,7 +25,8 @@
 * [MobileAdsBlock](https://gitlab.com/Shub_/mobile-ads-block/-/raw/master/list) - *Ad / Tracker filter* 
 * [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - *Block Spam Calls*
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - *Opt Out of Telemarketing Calls* 
-* [Slide](https://github.com/ccrama/Slide), [2](https://f-droid.org/en/packages/me.ccrama.redditslide/) or [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - *Ad Free Reddit Client* 
+* [Slide](https://github.com/ccrama/Slide), [2](https://f-droid.org/en/packages/me.ccrama.redditslide/) or [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - *Ad Free Reddit Client*
+* [TwitchMod](https://t.me/pubTw ) - *Ad Free Twitch App*
 
 ***
 
@@ -33,6 +35,7 @@
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Browsers with a focus on Privacy* 
 * [Guardian Project](https://guardianproject.info/) / [2](https://guardianproject.info/fdroid/repo), [Divestos Apps](https://divestos.org/index.php?page=recommended_apps), [CookieJarApps](https://cookiejarapps.com/) or [InviZible](https://github.com/Gedsh/InviZible) - *Privacy Based Apps / Tools* 
 * [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [Aegis](https://getaegis.app/) or [andOTP](https://github.com/andOTP/andOTP) - *Two-factor authentication* 
+* [Divestos](https://divestos.org/) - *Privacy Based OS*
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - *App Isolation* 
 * [UntrackMe](https://fedilab.app/wiki/untrackme/) - *Frontend Redirect / Link Unshorten / URL Cleanup*
 * [Stealth](https://gitlab.com/cosmosapps/stealth) - *Privacy-Based Reddit Frontend*
@@ -54,7 +57,7 @@
 * [GrapheneOS](https://grapheneos.org/) - *Privacy and security focused mobile OS*
 * [Intra](https://play.google.com/store/apps/details?id=app.intra&amp;hl=en_US) - *System Wide DoH for Android*
 * [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - *Incognito Keyboard*
-* [Adgaurd VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html) or [Hotspot Shield++](https://repo.hackyouriphone.org/hotspotshieldpp) - *VPN*
+* [ExpressVPN](https://forum.mobilism.org/search.php?keywords=Express+VPN&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) (Premium), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html) or [Hotspot Shield++](https://repo.hackyouriphone.org/hotspotshieldpp) - *VPN*
 * [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) - *Proxy*
 * [Sagernet](https://sagernet.org/) - *Proxy Tools*
 * [Privacy Indicator](https://f-droid.org/packages/com.nitish.privacyindicator/), [2](https://play.google.com/store/apps/details?id=com.nitish.privacyindicator) or [Access Dots](https://play.google.com/store/apps/details?id=you.in.spark.access.dots) - *Camera / Mic Access Indicator* 
@@ -140,6 +143,7 @@
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
 * [Google Lens](https://lens.google/) - *Multiple Camera Tools*
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) - *Google Camera Ports / [Telegram](https://t.me/googlecameraport)*
+* [LosesslessJpgCrop](https://github.com/k3b/LosslessJpgCrop) - *Lossless Image Cropper*
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - *Telegram Client*
 * [Uploadgram](https://github.com/Pato05/uploadgram-app) - *Telegram File Upload*
 * [FluffyChat](https://fluffychat.im/en/) - *Matrix Client*
@@ -152,7 +156,7 @@
 * [TrebleShot](https://trebleshot.monora.org/) - *Network File Sharing App*
 * [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) - *Send Files to Android TV*
 * [Apps2Fire](https://play.google.com/store/apps/details?id=mobi.koni.appstofiretv) - *Upload Apps to FireTV*
-* [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://forum.mobilism.org/search.php?keywords=solid+explorer&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [MaterialFiles](https://github.com/zhanghai/MaterialFiles) or [IrkFM](https://github.com/lfuelling/lrkFM) - *File Manager*
+* [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://forum.mobilism.org/search.php?keywords=solid+explorer&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) or [IrkFM](https://github.com/lfuelling/lrkFM) - *File Manager*
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - *Download / Torrent Manager* 
 * [Vysor](https://www.vysor.io/) or [scrcpy](https://github.com/Genymobile/scrcpy) - *Control Android via Desktop*
 * [LineageOS](https://www.lineageos.org/) or [Replicant](https://www.replicant.us/) - *Android OS*
@@ -306,7 +310,7 @@ App Manager
 
 # ► Android Manga
 
-* **[Tachiyomi](https://tachiyomi.org/)** + *[Github Releases](https://github.com/tachiyomiorg/tachiyomi) / [Forks](https://tachiyomi.org/forks/#forks)*
+* **[Tachiyomi](https://tachiyomi.org/)** - *[Github Releases](https://github.com/tachiyomiorg/tachiyomi) / [Forks](https://tachiyomi.org/forks/#forks) / [Discord](https://discord.com/invite/tachiyomi)*
 * [MangaZone](http://mangazoneapp.com/) 
 * [MangaDLR](https://bitbucket.org/cylonu87/mangadlr/downloads/) 
 * [MangaMew](https://app.mangamew.com/)
@@ -323,7 +327,7 @@ App Manager
 
 * **[Spotify APK (Modded)](https://forum.mobilism.org/search.php?terms=all&amp;author=&amp;sc=1&amp;sf=titleonly&amp;sr=topics&amp;sk=t&amp;sd=d&amp;st=0&amp;ch=300&amp;t=0&amp;submit=Search&amp;keywords=Spotify)** - *Streaming / [Version Manager](https://github.com/xManager-v2/xManager-Spotify) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://f-droid.org/packages/com.rohit2810.spotit/)*
 * **[AIDS](https://forum.mobilism.org/viewtopic.php?f=1332&amp;t=3897714)** - *Download / MP3  / FLAC* 
-* [YouTube Music Vanced](https://vancedapp.com/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [Ylight Music](https://apt.izzysoft.de/fdroid/repo/com.ylightmusic.app/) or [YMusic](https://ymusic.io/) - *YouTube Music Player*
+* [YouTube Music Vanced](https://vancedapp.com/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [Ylight Music](https://apt.izzysoft.de/fdroid/repo/com.ylightmusic.app/), [HoloPlay](https://holoplay.io/) or [YMusic](https://ymusic.io/) - *YouTube Music Player*
 * [Freezer](https://freezer.life/) - *Stream / Download / [Discord](https://discord.com/invite/qwJpa3r4dQ) / [Telegram](https://t.me/joinchat/Se4zLEBvjS1NCiY9)* 
 * [Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players) - *Music Players / Libraries*
 * [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - *Subsonic Client*
@@ -427,6 +431,7 @@ RSS Player*
 * [AnimeDLR](https://cyberneticlifeform.wixsite.com/cylonu87/animedlr) - *[Discord](https://discord.com/invite/wKxRqKc)*
 * [AnimeUltima](https://www1.animeultima.to/app) - *[Discord](https://discord.gg/Am89tCjYkY)*
 * [aniryu](https://anime.pokurt.me/)
+* [AnimeZone](https://www.test.animezone.info/)
 * [ZAnime](https://github.com/linkkader/zanime)
 * [AnimeBoya](https://github.com/Tu2l/AnimeBoya)
 * [Aniyomi](https://github.com/jmir1/aniyomi)
