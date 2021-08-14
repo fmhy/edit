@@ -81,6 +81,7 @@
 * **[List.community](https://list.community/)** - *Programming / Development GitHub Lists* 
 * [free-for.dev](https://free-for.dev/) - *Developer Tools*
 * [WebdevHome](https://webdevhome.github.io/), [Free Dev stuff](https://freestuff.dev/) or [Tiny Tools](https://tinytools.directory/) - *Programming / Developer Tools*
+* [ReverseEagle](https://forge.tedomum.net/groups/ReverseEagle/-/archived), [2](https://web.archive.org/web/20210116205638/https://developers.reverseeagle.org/) - *Privacy Focused Developer Software*
 * [Student Developer Pack](https://education.github.com/pack) - *Free Developer Tools for Students* 
 * [Libera Chat](https://libera.chat/) - *IRC Network for Project Collaboration*
 * [CodeProject](https://www.codeproject.com/) - *Developer Forum / Q&A / Articles* 
@@ -362,6 +363,7 @@
 ## ▷ Cloud IDEs / Collab
 
 * **[goormIDE](https://ide.goorm.io/)**, [Codeanywhere](https://codeanywhere.com/), [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [Anyfiddle](https://www.anyfiddle.com/) or [Glitch](https://glitch.com/) - *Cloud IDE / [Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) / [Themes](https://oslo-vsc.netlify.app/)* 
+* [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - *Cloud Platform Index*
 * [CodeSandbox](https://codesandbox.io/), [VSCodium](https://vscodium.com/), [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VS Code* 
 * [Open VSX Registry](https://open-vsx.org/) - *VS Code Editor Extensions*
 * [Openshift](https://che.openshift.io/) - *Cloud IDE / Eclipse Che* 
