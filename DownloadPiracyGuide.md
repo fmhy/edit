@@ -258,6 +258,7 @@
 * [AppDB](https://appdb.to/) 
 * [NXMac](https://nxmac.com/) 
 * [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
+* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 
 ***
 
