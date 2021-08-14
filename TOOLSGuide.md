@@ -835,13 +835,13 @@ General Reading Sites*
 * [gg.gg](http://gg.gg/) - `gg.gg/oggp7`
 * [Teknik](https://shorten.teknik.io/) - `tknk.io/GH5X` 
 * [bitly](https://bitly.com/) - `bit.ly/3cmqPIu` / *[Reveal URL](https://i.imgur.com/4LvGFXe.png)*
-* [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
 * [TinyUrl](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / *[Reveal URL](https://i.imgur.com/DklVFU7.png)*
 * [bit.do](https://bit.do/) - `bit.do/fNj7S`
 * [Tiny.cc](https://tiny.cc/) - `tiny.cc/akl1mz`
 * [Shrunken](https://www.shrunken.com/) - `shrunken.com/a72de`
 * [shrtcode](https://app.shrtco.de/) - `shrtco.de/lsoWP`
 * [Rebrandly](https://www.rebrandly.com/) - `rb.gy/4m25hq` / [Extension](https://mybrowseraddon.com/g-url-shortener.html)
+* [Kutt](https://kutt.it/) - `kutt.it/sQnBLz` (Account Required) 
 * [Anonymiz](https://anonymiz.com/shorten-url) - *Anonymous URLs* - `anonymiz.com/vwiq`
 * [Anon.to](https://anon.to/) - *Anonymous URLs* - `anon.to/7SWqpG`
 * [Thinfi](https://thinfi.com/) - *Password protect a short URL* - `thinfi.com/q8aw`
