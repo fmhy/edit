@@ -259,7 +259,7 @@
 * [because.moe](https://because.moe/) - *Legal Anime Sites Search* 
 * [Aniwoofy](https://aniwoofy.ml/) - *Sub / Dub / [Discord](https://discord.gg/7FbaqBWKzb)* 
 * [Simplyaweeb](https://simplyaweeb.com/) - *Sub / Dub / [Discord](https://discord.gg/4uGvPUV)* 
-* [DubbedAnime](https://www.dubbedanime.vip/) - *Sub / Dub / [Discord](https://discord.gg/8FyN3w5)*
+* [DubbedAnime](https://ww5.dubbedanime.net/) - *Sub / Dub / [Discord](https://discord.gg/8FyN3w5)*
 * [KissAnime.ac](https://kissanime.nz/) - *Sub / Dub / Not Original KissAnime*
 * [AnimeBam](https://www.animebam.se/) - *Sub / Dub*
 * [KickAssAnime](https://www2.kickassanime.rs/) - *Sub / Dub*
@@ -800,7 +800,7 @@
 # ► Subtitles
 
 * **[Open Subtitles](https://www.opensubtitles.com/)** - *Subtitles* 
-* **[Subtitle Edit](https://www.nikse.dk/SubtitleEdit/Online)**, [DST](https://www.syedgakbar.com/projects/dst) or [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - *Subtitle Editor*
+* **[Subtitle Edit](https://www.nikse.dk/SubtitleEdit/Online)**, [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://github.com/Aegisub/Aegisub) or [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - *Subtitle Editor*
 * **[External Subtitles Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_external_subs_player)** - *Player Subs Externally* 
 * [elSubtitle](http://www.elsubtitle.com/) - *Subtitles & Tools* 
 * [Subtitle Cat](https://www.subtitlecat.com/) - *Subtitles* 
@@ -825,6 +825,7 @@
 * [amara](https://amara.org/en/) - *Add Subs to Youtube Videos*
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - *YouTube Live Stream Translator* 
 * [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - *Styled YouTube Subtitles*
+* [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - *Add Subtitles to Twitch Stream*
 * [Bazarr](https://www.bazarr.media/) - *Auto-Download Subtitles* 
 * [Subliminal](https://github.com/Diaoul/subliminal), [SubtitleBOX](https://github.com/sameera-madushan/SubtitleBOX) or [Subtitle-Downloader](https://github.com/manojmj92/subtitle-downloader) - *Python Download Script* 
 * [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - *Plex Subtitles* 
