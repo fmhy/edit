@@ -192,6 +192,7 @@
 * [Frinkiac](https://frinkiac.com/) - *Simpsons Meme Maker*
 * [Morbotron](https://morbotron.com/) - *Futurama Meme Maker*
 * [FontIcon](https://gauger.io/fonticon/)[PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [IconsFlow](https://iconsflow.com/) or [Favic-o-Matic](https://favicomatic.com/) - *Icon / PFP Makers* 
+* [pfps.gg](https://pfps.gg/) - *Profile Picture Index*
 * [IrfanView](https://www.irfanview.com/), [XnView](https://www.xnview.com/en/), [nomacs](https://nomacs.org/), [ImageGlass](https://imageglass.org/) or [PicView](https://github.com/Ruben2776/PicView) - *Image Viewer* 
 * [Piwigo](https://piwigo.org/) - *Photo Manager / Viewer*
 * [Pinry](https://docs.getpinry.com/ ) - *Image Tiling Board*
@@ -375,6 +376,7 @@
 * [ConvertVideoTGBot](https://t.me/ConvertVideoTGBot), [FileConvertRobot](https://t.me/FileConvertRobot) or [File2videoconvbot](https://t.me/File2videoconvbot) - *File to Video Telegram Bots* 
 * [OBS](https://obsproject.com/) - *Video Recording / Live Streaming* 
 * [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - *Turn Screencasts into GIFs*
+* [Nimbus Capture](https://nimbusweb.me/screenshot.php) - *Screenshot / Video Capture Tool*
 * [Stream Recorder](https://www.hlsloader.com/) - *Streaming Video Recorder* 
 * [GifW00t](https://github.com/yaronn/GifW00t) - *Javascript Web Recorder*
 * [veadotube](https://olmewe.itch.io/veadotube-mini) - *Virtual Avatar Software*
@@ -1023,6 +1025,7 @@ General Reading Sites*
 * [Discover](https://github.com/trigg/Discover) - *Discord Linux Overlay*
 * [Discord-Api](https://discord.gg/discord-api) - *Discord API Chat*
 * [Displace](https://discord.gg/displace) or [OwnersHub](https://ownershub.xyz/) - *Discord Community Management Chat*
+* [Discordia-Development Wiki](https://github.com/Discordia-Development/wiki) - *Discord Moderation Wiki*
 * [Discord Moderator Academy](https://discord.com/moderation) - *Discord Moderator Guide / [Exam](https://discord.com/moderation/exam)*
 * [SnowStamp](https://pixelatomy.com/snow-stamp/) - *Convert Discord Snowflakes to Timestamps*
 * [ddpe](https://ddpe.androz2091.fr/) - *Discord Data Package Explorer / [GitHub](https://github.com/Androz2091/discord-data-package-explorer)*
@@ -1036,7 +1039,7 @@ General Reading Sites*
 * [Discord Games](https://discord-games.cf/) - *Discord Rickrolling*
 * [DiscordExtras](https://github.com/NotZoeyDev/DiscordExtras) - *Patch iOS Discord Client*
 * [Figma](https://www.figma.com/community/file/992144378612759941/Discord-Resources) - *Discord Resources / [Desktop](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)*
-* [Guilded](https://www.guilded.gg/) - *Discord Alternative / [Client Mod](https://github.com/ReGuilded/ReGuilded/)*
+*  [Revolt](https://revolt.chat/) or [Guilded](https://www.guilded.gg/) - *Discord Alternative / [Client Mod](https://github.com/ReGuilded/ReGuilded/)*
 
 ***
 
@@ -1118,6 +1121,7 @@ General Reading Sites*
 * [Twitch-Desktop](https://github.com/twitch-desktop/twitch-desktop) - *Twitch Desktop Client* 
 * [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - *GNU / Linux Twitch Desktop Client* 
 * [Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - *Download Twitch Chat Messages* 
+* [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - *Add Subtitles to Twitch Stream*
 
 ***
 
@@ -1246,6 +1250,7 @@ General Reading Sites*
 * [WindowsManager](https://www.eusing.com/WindowManager/WindowManager.htm) or [Compiz Fusion](http://www.compiz-fusion.org/) - *Improved Windows Manager*
 * [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - *Add Everything Support to Taskbar* 
 * [Hyper](https://github.com/nodgear/Hyperbar) or [Awesome](https://github.com/nodgear/Awesome) - *Taskbar Replacement*
+* [CircleDock](http://circledock.wikidot.com/) - *Circular Dock*
 * [Clover](http://en.ejie.me/) or [QTTabBar](http://qttabbar.wikidot.com/) - *Windows Explorer Tabs*
 * [Total Commander](https://www.ghisler.com/) - *Improved File Manager*
 * [WinFile](https://github.com/microsoft/winfile) - *Original Windows File Manager* 
@@ -1470,7 +1475,7 @@ General Reading Sites*
 * [WeCompress](https://www.wecompress.com/) - *Online File Compressor* 
 * [czkawka](https://github.com/qarmin/czkawka) - *Remove Unnecessary Files* 
 * [DBAN](https://dban.org/) or [KillDisk](http://killdisk.com/killdisk-home.htm) - *Data Removal Tool* 
-* [File Hunter](https://lockhunter.com/) - *File Unlocker*
+* [File Hunter](https://lockhunter.com/) or [FileExile](https://sourceforge.net/projects/filexile/) - *File Unlocker / Deleter*
 * [rm_empty_subdir](https://gist.github.com/simon987/f5c2cd7602898615ac9bc8c762d9fe1d) - *Remove Empty Sub Directories*
 * [WinMerge](https://winmerge.org/) - *Compare / Merge Files & Folders* 
 * [Windows compact](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/compact) - *Displays or alters the compression of files or directories on NTFS partitions + [GUI 1](https://github.com/ImminentFate/CompactGUI) or [GUI 2](https://github.com/Freaky/Compactor)*
@@ -1606,6 +1611,7 @@ General Reading Sites*
 * [protondb](https://www.protondb.com/) or [Lutris](https://lutris.net/) - *Play Windows games on Linux*
 * [Moonlight Stream ](https://moonlight-stream.org/) or [Rainway](https://rainway.com/gaming) - *PC Remote Play Client / [GitHub](https://github.com/moonlight-stream)*
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - *PS4 / PS5 Remote Play Client* 
+* [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - *PS4 Exploit Hosting PS4*
 * [Tinfoil](https://tinfoil.io/) - *Switch Title Manager / File Browser* 
 * [emuiibo](https://github.com/XorTroll/emuiibo) - *Amiibo Emulator*
 * [All Amiibo Bin Files](https://redd.it/mlvfak) - *Amiibo Bin Files*
@@ -1710,7 +1716,7 @@ General Reading Sites*
 * [Aristois](https://aristois.net/) - *Minecraft Utility Mod*
 * [Meteor Client](https://meteorclient.com/) - *Minecraft Fabric Utility Mod*
 * [Caffeine](https://github.com/CaffeineMC) - *Minecraft Performance Mods*
-* [MineColab](https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb) / [GitHub](https://github.com/thecoder-001/MineColab), [Minehut](https://www.minehut.com/), [ScalaCube](https://scalacube.com/) or [Aternos](https://aternos.org/) - *Make Free Minecraft Servers*
+* [MineColab](https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb) / [GitHub](https://github.com/thecoder-001/MineColab), [Minehut](https://www.minehut.com/), [ScalaCube](https://scalacube.com/), [FreeMC.Host](https://freemc.host/) or [Aternos](https://aternos.org/) - *Host Free Minecraft Servers*
 * [GeyserMC](https://geysermc.org/) - *Join Minecraft Java Servers with Bedrock Client / [Consoles](https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles)* 
 * [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization:zap:.283181/) - *Paper / Spigot Server Optimization Guide / Use Paper*
 * [mcsrvstat](https://mcsrvstat.us/) - *Server Status Updates*
