@@ -49,7 +49,8 @@
 * [Grammarly](https://www.grammarly.com/) - *Grammar Checker / [Free Premium](https://redd.it/kfncju)*
 * [Mouse Gestures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mouse_gestures) - *Control Browser via Gestures*
 * [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/), [2](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - *Merges a Sites "Next" Pages*
-* [Video Downloader](https://provd.net/), [DownThemAll](https://www.downthemall.org/) or [Download Helper](http://www.downloadhelper.net/) - *Download Manager*
+* [DownThemAll](https://www.downthemall.org/), [Provd](https://provd.net/) or [Download Helper](http://www.downloadhelper.net/) - *Download Manager*
+* [Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - *Video Download Managers*
 * [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - *Play Videos in Theater Mode*
 * [Screen Recorder](https://mybrowseraddon.com/screen-recorder.html) - *Screen Recorder*
 * [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Audio Recorder*
@@ -117,6 +118,7 @@
 * [Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search) - *Reverse Image Search Extensions / Sites*
 * [NooBox](https://ainoob.com/en/project/noobox) - *Reverse Image Search, Extract Images, Screenshot & Search* 
 * [GoFullPage](https://gofullpage.com/) - *Full Page Screenshots*
+* [Nimbus Capture](https://nimbusweb.me/screenshot.php) - *Screenshot / Video Capture*
 * [Booru Slideshow](https://github.com/Chirmaya/BooruSlideshow) - *Make Slideshows Easier to Navigate*
 * [Textmarker](https://github.com/ufb/Textmarker) - *Text Highlighter* 
 * [Bulk URL Opener](https://bulkurlopener.com/) - *Open Multiple URL's in One Click* 
@@ -246,7 +248,7 @@
 * [/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful) - *Helpful / Fun Sites Subreddit / [Randomizer](https://therandombutton.com/)*
 * [/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index) - */r/Piracy Index*
 * [/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread) - *Software Piracy Megathread*
-* [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy) - *Piracy Index*
+* [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr) - *Piracy Index*
 * [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - *Piracy Index*
 * [Similar Sites](https://www.similarsites.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
 * [DirtyWarez](https://dirtywarez.org/) - *Ranks Sites*
@@ -270,6 +272,7 @@
 * [Mostly Free](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - *Site / Tool Index*
 * [iBiblio](https://www.ibiblio.org/) - *Site / Tool Index* 
 * [Acme](http://www.acme.com/) - *Site / Tool Index* 
+* [num's link list](https://web.archive.org/web/20210102182957/https://soda.privatevoid.net/num/lists/web/) - *Site Index*
 * [NYPL Best of the Web](https://www.nypl.org/collections/nypl-recommendations/best-of-web) - *Site Index*
 * [Free Dev stuff](https://freestuff.dev/) - *List of free tools, stuff, & services for developers*
 * [Simple Tools](https://simpletools.info/doku.php) - *Simple Programs Index* 
@@ -278,7 +281,7 @@
 * [Index Mania](https://indexmania.org/) - *Link Search Index*
 * [Wikimedia](https://www.wikimedia.org/) - *All Wikimedia Sources*  
 * [Clone Wars](https://gourav.io/clone-wars) - *Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars)* 
-* [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/) or [Electron](https://www.electronjs.org/apps) - *Web App Index*
+* [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) or [Electron](https://www.electronjs.org/apps) - *Web App Index*
 * [CloudTrip](http://cloudtrip.com/) - *Cloud App Index*
 * [State of the DApps](https://www.stateofthedapps.com/) - *Blockchain App Index* 
 * [List of Lists](https://l-lists.com/en/) - *List Index*
@@ -299,7 +302,7 @@
 * [PiracyBank](https://piracybank.org/websites) - *List of sites tagged for copyright, mostly dead* 
 * [Movim](https://movim.eu/) - *Decentralized Social Network* 
 * [Fediverse](https://fediverse.party/) - *Federated Social Networks*
-* [ImageBoards](https://imageboards.net/) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - *Image-Board Index*
+* [ImageBoards](https://imageboards.net/), [Chan List](https://archive.is/Npzwl) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - *Imageboard Index*
 * [imageboards.json](https://gitgud.io/iblist/imageboards.json) or [textboards.json](https://gitgud.io/iblist/textboards.json) - *Image / Textboard .json*
 * [DeepAI](https://deepai.org/) - *AI Tools Index* 
 * [RunawayML ](https://runwayml.com/) - *AI Tools Index* 
@@ -327,12 +330,12 @@
 * [/r/trackers](https://reddit.com/r/trackers) 
 * [/r/usenet](https://reddit.com/r/usenet) 
 * [/r/CrackSupport](https://reddit.com/r/CrackSupport) - *Piracy / Gaming / Cracking Discussion / [Discord](https://discord.gg/eTsaTNpsxj) / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch)*
+* [Weboas.is Forum](https://weboas.is/forum/)
 * [PGames](https://discord.gg/dZWwhUy) - *Piracy / Gaming / Discord*
 * [CS.RIN.RU](https://cs.rin.ru/forum)
 * [Ru.Board](http://forum.ru-board.com/)
 * [Piracy Forum](https://pirates-forum.org/) 
 * [Babiato](https://babiato.co/) 
-* [Weboas.is Forum](https://weboas.is/forum/) - *[Chat](https://webchat.is/)*
 * [FileSharingTalk](https://filesharingtalk.com/forum.php)
 * [GDrive Guides](https://t.me/gdriveguides) - *GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)*
 * [Fileforums](https://fileforums.com/) - *Gaming / Emulator / Data Compression Discussion*
@@ -349,6 +352,7 @@
 * [WJunction](https://www.wjunction.com/) - *Pirate webhost / provider discussion* 
 * [VR Pirates](https://discord.gg/D9rs7TM) - *VR Piracy Discussion* 
 * [VRChat Modding Group](https://discord.gg/rCqKSvR) - *VR Modding Discussion* 
+* [Linux x Technology](https://linuxdiscord.com/) - *Linux Discussion*
 * [More Piracy Subs](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits)
 
 ***
@@ -398,7 +402,7 @@
 * **[Live Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)** - *Watch Live Webcams*
 * **[FMHY Curated Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - *Multireddits curated by FMHY memebers*
 * [StumblingOn](https://stumblingon.com/), [Stumbled](https://stumbled.cc/), [BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/), [JumpStick](https://jumpstick.app/), [OpenBulkURL](https://openbulkurl.com/random/) or [random](https://random.new/) - *Takes you to a Random Site*
-* [NeverThink](https://neverthink.tv/) - *Watch Random Memes / Videos* 
+* [NeverThink](https://neverthink.tv/) or [KongouCheats](https://kongoucheats.com/) - *Watch Random Memes / Videos* 
 * [r.sine.com](https://r.sine.com/index), [Funnyjunk](https://funnyjunk.com//) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Memes & GIFs / Some NSFW*
 * [Neal.fun](https://neal.fun/) or [JenniferDewalt](https://jenniferdewalt.com/) - *Sites / Games*
 * [Just For Fun](https://justforfun.io/) or [Andrew Marsh](http://andrewmarsh.com/software) - *Coding Project Showcase* 
@@ -630,6 +634,7 @@
 * [Nested](http://orteil.dashnet.org/nested) - *Explore the Universe in a File System* 
 * [Pornolize](https://pornolize.com/) - *Make Inappropriate Versions of Webpages* 
 * [Checkboxes](http://www.jezzamon.com/checkboxes/index.html) - *Check Boxes* 
+* The Nut Button - [Android](https://play.google.com/store/apps/details?id=com.james.nut) / [iOS](https://apps.apple.com/gb/app/the-official-nut-button-meme/id1462124556) - *You press the Button, it says Nut*
 * [Make-A-Wish Foundation](https://discord.gg/pZZ3STQZ9Y) - *100% Real Make-A-Wish*
 * [Is It A Cat?](https://isitacat.com/) - *Cat Image Detector* 
 * [The.Matrix-ASCII](http://takeovertheworld.org/matrix/) - *The Matrix Encoded in Text*
@@ -637,12 +642,12 @@
 * [Hobune](https://hobune.stream/) - *Deleted YouTube Video Archive*
 * [Vintage Ad Browser](http://www.vintageadbrowser.com/) - *100,000+ Vintage Advertisements* 
 * [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - *Japanese Commercial Archive*
-* [isitnight](https://www.isitnight.com/) - *Determine if it is night* 
-* [Watching Grass Grow](https://www.watching-grass-grow.com/) - *Watch grass grow.*
 * [info.cern](http://info.cern.ch/) - *First Website on the Internet* 
 * [Worlds Highest Website](https://worlds-highest-website.com/) - *The Worlds Longest Website*
 * [IdiotProofWebsite](http://idiotproofwebsite.com/)
 * [MotherFuckingWebsite](http://motherfuckingwebsite.com/), [BetterMotherFuckingWebsite](http://bettermotherfuckingwebsite.com/), [EvenBetterMotherFuckingWebsite](https://evenbettermotherfucking.website/) or [TheBestMotherFuckingWebsite](https://thebestmotherfuckingwebsite.co/)
+* [isitnight](https://www.isitnight.com/) - *Determine if it is night* 
+* [Watching Grass Grow](https://www.watching-grass-grow.com/) - *Watch Grass Grow.*
 * [aaaaaa.....](http://aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/) - *Make URL's longer... ?*
 
 ***
