@@ -1279,6 +1279,7 @@ Add the following commands to a search to manually scrape each site.
 * https://123hulu.com/
 * http://gomovies123.watch/
 * https://putlocker.vc
+* https://123enjoy.net/
 * https://www2.putlockers.gs/
 * https://www1.putlockers.sh/
 * https://www1.moviesin.co/
