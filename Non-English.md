@@ -752,7 +752,6 @@
 * [GoFilmes](https://gofilmes.me/hd/) - *Movies / TV* 
 * [AnimeFire](https://animefire.net/) - *Anime* 
 * [AnimeVision](https://animesvision.biz/) - *Anime* 
-* [AniPT](https://anipt.net/) - *Anime / Cartoons* 
 
 ## ▷ Reading
 
