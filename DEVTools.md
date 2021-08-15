@@ -103,12 +103,13 @@
 * [DBeaver](https://dbeaver.io/) - *Universal Database Tool*
 * [DoIt](https://github.com/dolthub/dolt) - *SQL Database* 
 * [Deps.dev](https://deps.dev/) - *Open-Source Package Search*
-* [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - *Integrate Services with Discord*
-* [Discord.py Docs](https://discordpy.readthedocs.io/en/latest/) - *Discord.py API Docs*
 * [Balena](https://www.balena.io/) - *Build / Manage  IoT Groups*
 * [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) - *Bug Bounty Resources*
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - *CTF Resources*
 * [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) - *API index* 
+* [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - *Integrate Services with Discord*
+* [Discord.py Docs](https://discordpy.readthedocs.io/en/latest/) - *Discord.py API Docs*
+* [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - *Discord Code Blocks*
 
 ***
 
@@ -163,6 +164,7 @@
 * [PWABuilder](https://www.pwabuilder.com/) - *Turn Site into Progressive Web App*
 * [LightHouse](https://github.com/GoogleChrome/lighthouse) - *Web App Performance Test*
 * [Form To Chatbot](http://formtochatbot.com/) - *Convert Google Form to Chatbot*
+* [Termible](https://termible.io/) - *Docker Powered Site Terminals*
 * [Stackbit](https://www.stackbit.com/) - *JamStack Tools* 
 * [the New Dynamic](https://www.tnd.dev/) - *JamStack Directory*
 * [Redux DevTools](http://extension.remotedev.io/) - *Add Redux Debugging to Browser*
