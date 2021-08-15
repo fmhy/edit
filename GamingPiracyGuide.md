@@ -389,7 +389,6 @@
 * [Marble Blast Gold Web](https://marbleblast.vani.ga/) - *Marble Blast Gold in Browser*
 * [Flavour Machine](https://flavourmachine.com/) - *Twists to well known games*
 * [ The Thorp of Woodstock](https://cheerfulghost.github.io/civ-clicker/index.html) - *Build a Civilization*
-* [Kittens Game](https://bloodrizer.ru/games/kittens/) - *Build a Kitten Civilization*
 * [Badger Kingdom](http://www.badgerkingdom.pantomimepony.co.uk/) - *Manage a group of badgers, help them survive*  
 * [FSHistory](https://s-macke.github.io/FSHistory/) - *Play Classic Flight Simulator* 
 * [Magnetic Scripts](https://msmemorial.if-legends.org/msa2/msa2.html) - *Magnetic Scrolls* 
