@@ -372,7 +372,7 @@
 * [How to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/), [3](https://www.removeddit.com/r/Piracy/comments/ou31y8/how_to_rip_from_amazon_other_streaming_services/), [4](https://0bin.net/paste/cYxSEPRq#w7i1vJSMVKTRKgGmdURaXdvNpimP2p9IxgF38I75NUQ)
 * [How to Rip Videos from Disney+](https://redd.it/ncyxzx), [2](https://web.archive.org/web/20210516014412/https://old.reddit.com/r/Piracy/comments/ncyxzx/tutorial_how_to_rip_moviesshows_from_disney_plus/) 
 * [PlayPhrase](https://playphrase.me/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/) - *Clip Quote Search Engine*
-* [FFmpeg](https://ffmpeg.org/) - *Record, convert and stream audio & video / [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom)*
+* [FFmpeg](https://ffmpeg.org/) - *Record, convert and stream audio & video / [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d)*
 * [ConvertVideoTGBot](https://t.me/ConvertVideoTGBot), [FileConvertRobot](https://t.me/FileConvertRobot) or [File2videoconvbot](https://t.me/File2videoconvbot) - *File to Video Telegram Bots* 
 * [OBS](https://obsproject.com/) - *Video Recording / Live Streaming* 
 * [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - *Turn Screencasts into GIFs*
