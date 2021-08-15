@@ -413,7 +413,8 @@
 * [Impossible Rush](http://tanksw.com/impossible-rush/) - *Reflex Testing Game*
 * [Incremental Games Plaza](https://plaza.dsolver.ca/) or [Almost Idle](http://almostidle.com/) - *Incremental Games Index*
 * [Idlescape](https://idlescape.com/game) - *Idle MMORPG*
-* [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](http://orteil.dashnet.org/experiments/cookie/), [The Monolith](http://monolith.greenpixel.ca/), [WarClicks](https://warclicks.com/), [Merry Clickmas](http://www.digitalchestnut.com/merryclickmas/) - *Incremental Clicker*   
+* [ProgressQuest](http://progressquest.com/) - *Idle RPG*
+* [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](http://orteil.dashnet.org/experiments/cookie/), [The Monolith](http://monolith.greenpixel.ca/), [KittensGame](https://kittensgame.com/web/), [WarClicks](https://warclicks.com/), [BitBurner](https://danielyxie.github.io/bitburner/) or [Merry Clickmas](http://www.digitalchestnut.com/merryclickmas/) - *Incremental Clicker*   
 * Cookie Clicker Tools - [Multiple Tools](https://github.com/CookieMonsterTeam/CookieMonster) / [Calculator](https://coderpatsy.bitbucket.io/cookies/cookies.html) / [Mod](https://redd.it/7ogf45)
 * [MousePoint](https://creativetechguy.com/mousepoint) - *Mouse Pointing Game*
 * [Piccolo](https://piccolo.click/web/) - *Othello AI* 
