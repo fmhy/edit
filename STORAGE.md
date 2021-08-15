@@ -339,13 +339,25 @@
 
 #### File Conversion Tools
 
-**[CloudConvert](https://cloudconvert.com/)**, [File Converter](https://file-converter.org/), [Bear File Converter](https://www.ofoct.com/), [FreeConvert](https://www.freeconvert.com/), [Online Convert](https://www.online-convert.com/), [Convertio](https://convertio.co/), [Zamzar](https://www.zamzar.com/), [Online Converter](https://www.onlineconverter.com/), [Format Factory](http://www.pcfreetime.com/formatfactory/index.php?language=en), [File-Coversion](https://www.files-conversion.com/), [PPT Online]https://www.aspose.app/)
+**[CloudConvert](https://cloudconvert.com/)**, [File Converter](https://file-converter.org/), [Bear File Converter](https://www.ofoct.com/), [FreeConvert](https://www.freeconvert.com/), [Online Convert](https://www.online-convert.com/), [Convertio](https://convertio.co/), [Zamzar](https://www.zamzar.com/), [Online Converter](https://www.onlineconverter.com/), [Format Factory](http://www.pcfreetime.com/formatfactory/index.php?language=en), [File-Coversion](https://www.files-conversion.com/), [PPT Online](https://www.aspose.app/)
 
 ***
 
 #### File Download Managers
 
-**[JDownloader](https://jdownloader.org/jdownloader2)** / [Dark Theme](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/), [IDM](https://filecr.com/?s=Internet+Download+Manager+%28IDM%29) / [IDMHelper](https://github.com/unamer/IDMHelper) / [Trial Reset](https://github.com/J2TEAM/idm-trial-reset), [XDM](https://github.com/subhra74/xdm), [2](https://subhra74.github.io/xdm/), [pyLoad](https://pyload.net/), [wfdownloader](https://www.wfdownloader.xyz/), [Mipony](https://www.mipony.net/), [massivedl](https://github.com/dimkouv/massivedl), [Free Download Manager](https://www.freedownloadmanager.org/) / [2](https://sourceforge.net/projects/freedownload/), [uGet](https://ugetdm.com/) / [Extension](https://github.com/ugetdm/uget-integrator), [Persepolis](https://persepolisdm.github.io/), [DownZemAll](https://setvisible.github.io/DownZemAll/), [Motrix](https://www.motrix.app/) / [Extension](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix), [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913?mt=12) (Mac)
+* **[JDownloader](https://jdownloader.org/jdownloader2)** / [Dark Theme](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/)
+* [Motrix](https://www.motrix.app/) / [Extension](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix)
+* [IDM](https://filecr.com/?s=Internet+Download+Manager+%28IDM%29) / [IDMHelper](https://github.com/unamer/IDMHelper) / [Trial Reset](https://github.com/J2TEAM/idm-trial-reset)
+* [XDM](https://github.com/subhra74/xdm), [2](https://subhra74.github.io/xdm/)
+* [pyLoad](https://pyload.net/)
+* [wfdownloader](https://www.wfdownloader.xyz/)
+* [Mipony](https://www.mipony.net/)
+* [massivedl](https://github.com/dimkouv/massivedl)
+* [Free Download Manager](https://www.freedownloadmanager.org/), [2](https://sourceforge.net/projects/freedownload/)
+* [uGet](https://ugetdm.com/) / [Extension](https://github.com/ugetdm/uget-integrator)
+* [Persepolis](https://persepolisdm.github.io/)
+* [DownZemAll](https://setvisible.github.io/DownZemAll/)
+* [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913?mt=12) (Mac)
 
 ***
 
