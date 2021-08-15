@@ -104,6 +104,7 @@
 * [XDA](https://forum.xda-developers.com/) - *Android Discussion Forum*
 * [Will My Phone Work?](https://willmyphonework.net/) - *Phone Carrier Support Index* 
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - *Cell Carrier FCC Spectrum Map*
+* [4G LTE Coverage](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b) - *4G LTE Coverage Map*
 * [Kimovil](https://www.kimovil.com/en/) - *Compare Phones & Prices* 
 * [DXOMARK](https://www.dxomark.com/) - *Smartphone Quality Testing*
 * [eBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) - *eBook / Audiobook Readers* 
