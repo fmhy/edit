@@ -692,10 +692,10 @@ RSS Player*
 ## ▷ iOS Anime 
 
 * [Anime Taiyaki](https://github.com/Michael24884/TaiYaKiAnime/releases) - *[Discord](https://discord.com/invite/8fzmNSB)*
-* [KATSU](https://apps.apple.com/us/app/katsu-by-orion/id1503693664) + [Discord](https://discord.gg/gjcy6MQ)
-* [NineAnimator](https://nineanimator.marcuszhou.com/) + *[Discord](https://discord.gg/dzTVzeW)*
+* [KATSU](https://apps.apple.com/us/app/katsu-by-orion/id1503693664) - [Discord](https://discord.gg/gjcy6MQ)
+* [NineAnimator](https://nineanimator.marcuszhou.com/) - *[Discord](https://discord.gg/dzTVzeW)*
 * [AnimeHub](https://apps.apple.com/ca/app/animehub-an-anime-fan-haven/id882620151)
-* [TaiYaKiAnime](https://github.com/Michael24884/TaiYaKiAnime) + *[Discord](https://discord.com/invite/8fzmNSB)*
+* [TaiYaKiAnime](https://github.com/Michael24884/TaiYaKiAnime) - *[Discord](https://discord.com/invite/8fzmNSB)*
 
 ***
 
