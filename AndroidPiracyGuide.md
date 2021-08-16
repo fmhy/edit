@@ -97,7 +97,7 @@
 
 # ► Android Tools
 
-* **[Aliucord](https://github.com/Aliucord/Aliucord)**, [CutTheCord](https://gitdab.com/distok/cutthecord) or [Treecord](https://github.com/Treecord/Treecord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client* 
+* **[Aliucord](https://github.com/Aliucord/Aliucord)**, [Treecord](https://github.com/Treecord/Treecord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client* 
 * **[android-security-awesome](https://github.com/ashishb/android-security-awesome)** - *Android security resources* 
 * **[Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers) - *Multi-Platform Web Browsers*
 * [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi](https://kiwibrowser.com/), [Lynket](https://github.com/arunkumar9t2/lynket-browser) or [Lightning](https://github.com/anthonycr/Lightning-Browser) - *Android only Browsers* 
@@ -279,7 +279,7 @@ App Manager
 * [Software_Android_Apps_Games](https://t.me/Software_Android_Apps_Games) - *Modded / Telegram*   
 * [Aero Apps](https://t.me/aerolla) - *Modded Social Media Apps*
 * [FossDroid](https://fossdroid.com/) - *Open source apps / [/r/fossdroid](https://reddit.com/r/fossdroid)*
-* [Moderse ](https://t.me/Moderse) - *Android Apk Telegram Channel by well know modder- Stabiron*
+* [Moderse ](https://t.me/Moderse) - *Android Apk Telegram Channel by well known modder - Stabiron*
 * [APK Downloader ](https://apk.support/apk-downloader) - *Download Google Play apks*
 * [evozi](https://apps.evozi.com/apk-downloader) - *Download Google Play apks*
 * [Raccoon](https://raccoon.onyxbits.de/) - *Private APK Downloader*
