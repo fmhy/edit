@@ -1015,7 +1015,7 @@ General Reading Sites*
 * [Disgradient](https://disgradient.vanished.rocks/) - *Gradients for Discord Folders, Roles ect.*
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - *Adds Custom CSS Support* 
 * [Discord Status](https://discordstatus.com/) - *Check Discord Status* 
-* [Status](https://discord.gg/Nnttd7EZV4) - *Discord Announcement Channel Collection*
+* [Status](https://discord.gg/Nnttd7EZV4) - *Followable Site Status Channels*
 * [Guild Counter](https://rauf.wtf/guildcount) - *Check how many servers you're in*
 * [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - *Preview Role Colors Role*
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - *Encode videos to <8MB*
