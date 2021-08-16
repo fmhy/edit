@@ -241,6 +241,7 @@
 * [CanonOutsideOfAuto](http://www.canonoutsideofauto.ca/play/) - *Interactive Exposure Test* 
 * [PaintingLight](https://lllyasviel.github.io/PaintingLight/) - *Digital Lighting Effect Generator*
 * [Petalica Paint](https://petalica-paint.pixiv.dev/index_en.html), [Algorithmia](https://demos.algorithmia.com/colorize-photos) or [Colorizer](https://deepai.org/machine-learning-model/colorizer) - *Image Colorization* 
+* [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - *Anime Image Colorization*
 * [GPEN-Colab](https://github.com/bycloudai/GPEN-colab) - *Face Restoration / Colorization Tool*
 * [Color-Dragon](https://www.color-dragon.tk/) - *Add more Color to Images*
 * [PFP.LGBT](https://pfp.lgbt/) - *LGBTQ+fy Images*
@@ -588,6 +589,7 @@
 * [MapChart](https://mapchart.net/) - *Create Custom Maps* 
 * [City Roads](https://anvaka.github.io/city-roads/) - *Draw City Roads*
 * [Mobac](https://mobac.sourceforge.io/) - *Mobile Atlas Creator*
+* [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - *Globe of Ancient Earth*
 * [American Panorama](https://dsl.richmond.edu/panorama/) - *Interactive US Historical Maps*
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
 * [Gas Price Map](https://www.gasbuddy.com/gaspricemap) - *US Gas Price Map*
