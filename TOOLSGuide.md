@@ -239,7 +239,6 @@
 * [distort-grid](https://github.com/snorpey/distort-grid) - *Grid Based Image Distortion*
 * [RIOT](https://riot-optimizer.com/) or [ImageOptim (Mac)](https://imageoptim.com/mac) - *Image Optimization Tool*
 * [CanonOutsideOfAuto](http://www.canonoutsideofauto.ca/play/) - *Interactive Exposure Test* 
-* [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - *AI Anime/Sketch/Manga Coloriser*
 * [PaintingLight](https://lllyasviel.github.io/PaintingLight/) - *Digital Lighting Effect Generator*
 * [Petalica Paint](https://petalica-paint.pixiv.dev/index_en.html), [Algorithmia](https://demos.algorithmia.com/colorize-photos) or [Colorizer](https://deepai.org/machine-learning-model/colorizer) - *Image Colorization* 
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - *Anime Image Colorization*
@@ -608,7 +607,6 @@
 * [FlightRadar24](https://www.flightradar24.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](http://radarbox24.com/) or [FlightAware](http://flightaware.com/) - *Live Flight Tracker* 
 * [MarineTraffic](https://www.marinetraffic.com/) or [VesselFinder](http://vesselfinder.com/) - *Live Ship Tracker* 
 * [Mapfrappe](http://mapfrappe.com/?show=46142) - *Compare True Sizes on Land Masses*
-* [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - *Globe of Ancient Earth*
 * [scale-a-tron](https://stamen.github.io/scale-a-tron/) - *Compare the Size of any Land*
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/), [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) or [AsteroidCollision](https://asteroidcollision.herokuapp.com/) - *Interactive damage effect maps*
 * [convert_lat_long](https://andrew.hedges.name/experiments/convert_lat_long/) - *Convert Latitude/Longitude to Decimal* 
