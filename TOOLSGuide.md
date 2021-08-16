@@ -941,7 +941,7 @@ General Reading Sites*
 * **WARNING** - Misuse of Chat Archivers, Deleters, Mods & 3rd Party Clients is against Discords TOS, so use them at your own risk. 
 * [Disboard](https://disboard.org/), [DiscordServers](https://discordservers.com/), [Discord Street](https://discord.st/), [discordlist.io](https://discordlist.io/), [DiscordServers.me](https://discordservers.me/) or [Discord Me](https://discord.me/) - *Discover Discord Servers / Bots* 
 * [DiscordTools](https://discordtools.io/) - *Discord Tools*
-* [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - *Use Discord Emoji's without Nitro* 
+* [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) or  [Freemoji](https://raw.githubusercontent.com/QbDesu/BetterDiscordAddons/potato/Plugins/Freemoji/Freemoji.plugin.js) - *Use Discord Emoji's without Nitro* 
 * [Slackmoji](https://github.com/seanprashad/slackmoji) or [emoji.gg](https://emoji.gg/) - *Discord Emojis*
 * [Ping and Salar's](https://discord.gg/RuFvp72qY4) - *Free Global Discord Emoji Server List / [Instructions](https://discord.com/channels/290572012437372931/444165499035713537/845971730690473994)*
 * [Emote Manager](https://github.com/EmoteBot/EmoteManager) - *Custom Discord Emote Manager* 
@@ -1505,6 +1505,7 @@ General Reading Sites*
 ## ▷ Linux Tools
 
 * **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)** or **[Friendly GNU](https://fglt.nl/guides/picking-a-distro.html)** - *Linux OS Index / Guides*
+* [Linux Piracy](https://rentry.co/LinuxPiracy) - *Linux Piracy Guide*
 * [Distrochooser](http://distrochooser.de/?l=2) - *Linux OS Chooser*
 * [LinuxTracker](https://linuxtracker.org/) - *Linux OS Torrents*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old Linux OS Archive*
