@@ -239,6 +239,7 @@
 * [distort-grid](https://github.com/snorpey/distort-grid) - *Grid Based Image Distortion*
 * [RIOT](https://riot-optimizer.com/) or [ImageOptim (Mac)](https://imageoptim.com/mac) - *Image Optimization Tool*
 * [CanonOutsideOfAuto](http://www.canonoutsideofauto.ca/play/) - *Interactive Exposure Test* 
+* [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - *AI Anime/Sketch/Manga Coloriser*
 * [PaintingLight](https://lllyasviel.github.io/PaintingLight/) - *Digital Lighting Effect Generator*
 * [Petalica Paint](https://petalica-paint.pixiv.dev/index_en.html), [Algorithmia](https://demos.algorithmia.com/colorize-photos) or [Colorizer](https://deepai.org/machine-learning-model/colorizer) - *Image Colorization* 
 * [GPEN-Colab](https://github.com/bycloudai/GPEN-colab) - *Face Restoration / Colorization Tool*
