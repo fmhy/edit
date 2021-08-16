@@ -1,14 +1,14 @@
 # FMHYedit
 
-Make pull requests / changes to the [FMHY Wiki](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index). 
+Make changes to the [FMHY Wiki](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index). 
 
 ## Contributing
 
-[How to make a pull request](https://rentry.co/FMHYedit)
+[How to Make a Pull Request](https://rentry.co/FMHYedit)
 
-Approved changes will be applied on reddit, discord and all backup wiki's. 
+Approved changes will be applied on Reddit, Discord and all backup wiki's. 
 
 ## Also Check Out
- ## [Discord](https://discord.gg/vgnaeka)
- ## [Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki)
+## [Discord](https://discord.gg/vgnaeka)
+## [Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki)
 ## [Backups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups)
