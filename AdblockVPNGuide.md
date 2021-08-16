@@ -371,7 +371,7 @@
 * **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - *Create Temporary Email Addresses*
 * **[Have I been Pwned?](https://haveibeenpwned.com/)** or [GhostProject](https://ghostproject.fr/) - *Monitor Email Breaches*
 * [EmailPrivacyTester](https://www.emailprivacytester.com/) - *Email Privacy Tests* 
-* [Forward Email](https://forwardemail.net/), [SimpleLogin](https://simplelogin.io/), [Firefox Relay](https://relay.firefox.com/), [spamgourmet](https://www.spamgourmet.com/index.pl), [Ptorx](https://ptorx.com/), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Jetable](https://www.jetable.org/en/index), [Mailsac](https://mailsac.com/) or [AnonAddy](https://anonaddy.com/) - *Email Forwarding*   
+* [Forward Email](https://forwardemail.net/), [SimpleLogin](https://simplelogin.io/), [Firefox Relay](https://relay.firefox.com/), [spamgourmet](https://www.spamgourmet.com/index.pl), [Ptorx](https://ptorx.com/), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Jetable](https://www.jetable.org/en/index), [Mailsac](https://mailsac.com/), [mailnesia](http://mailnesia.com/) or [AnonAddy](https://anonaddy.com/) - *Email Forwarding*   
 * [FakemailBot](https://t.me/FakemailBot), [DropmailBot](https://t.me/DropmailBot) or [ccgen_robot](https://t.me/ccgen_robot) - *Email Forwarding Telegram Bots*
 * [Check-Mail](https://check-mail.org/free-email-validation-api/) or [Validator](https://www.validator.pizza/) - *Check if a email is valid* 
 * [Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_email_services)
