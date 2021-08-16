@@ -1383,10 +1383,13 @@ General Reading Sites*
 ## ▷ File Tools
 
 * **[File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - *Tool to Share / Sync Files*
-* **[File Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_download_managers)** - *Programs to help manage downloads*
+* **[File Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_download_managers)** - *Programs to Help Manage Downloads*
+* **[Multi-Site Cloud Storage Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_cloud_storage_managers)** - *Manage Cloud Files on Multiple Sites*
 * **[File Conversion Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_conversion_tools)** - *Tools to convert files*
 * **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** - *Google Drive Tools Colab / [GitHub](https://github.com/biplobsd/OneClickRun) / [Features](https://i.imgur.com/hEHM7Vy.png)*
+* **[Mega-to-Google-Drive](https://github.com/cheems/Mega-to-Google-Drive)** - *Transfer Files from Mega to GDrive*
 * **[OpenWith](https://www.openwith.org/)** or [File.org](https://file.org/) - *Programs to Open any File Extension* 
+* **[Cyberduck](https://cyberduck.io/)** - *Libre Server / Cloud Storage Browser*
 * **[TeamDrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_generators)** - *Create google teamdrives*
 * **[Onedrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_onedrive_generators)** - *Generate Microsoft 1tb Onedrives / Free Office 365* 
 * **[UDS](https://github.com/stewartmcgown/uds)** - *Unlimited Google Drive storage*
@@ -1420,7 +1423,6 @@ General Reading Sites*
 * [Keep Mega Alive](https://github.com/3ncod3/keep-mega-alive) - *Mega Account Auto-Login*
 * [Unlimited Mega Storage](https://redd.it/ffrkf3) - *Unimited Mega Storage Guide*
 * [MegaBox](https://github.com/ALIILAPRO/megabox) - *Get Direct Links from Mega* 
-* [Mega-to-Google-Drive](https://github.com/cheems/Mega-to-Google-Drive) - *Transfer Files from Mega to GDrive*
 * [GDrive Guides](https://t.me/gdriveguides) - *GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)*
 * [Torrent2Drive](https://t.me/torrent_2_drive), [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - *DDL to GDrive Tool*
 * [GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) - *GoIndex to GDrive Downloader*
@@ -1447,11 +1449,9 @@ General Reading Sites*
 * [IPFS](https://ipfs.io/) - *P2P Hypermedia Protocol / [Extension](https://github.com/ipfs-shipyard/ipfs-companion)* 
 * [Awesome-IPFS](https://github.com/ipfs/awesome-ipfs) - *IPFS Resource Index* 
 * [Dreamcrafter](https://www.dreamcrafter.dev/) - *File Manager*
-* [RClone](https://rclone.org/), [2](https://github.com/rclone/rclone), [Rethink Files](https://rethink.software/), [RaiDrive](https://www.raidrive.com/), [Air Explorer](https://airexplorer.net/en/), [MultiCloud](https://www.multcloud.com/) or [gclone](https://github.com/donwa/gclone) - *Multi-Site Cloud Storage File Manager / [Guide](https://telegra.ph/Gclone-Guide-for-Windows-07-20) / [Telegram](https://github.com/wrenfairbank/telegram_gcloner) / [Heroku](https://github.com/The-Antrax/heroku-buildpack-rclone-mod)* 
 * [AutoRclone](https://drive.google.com/file/d/11yrXPUfWEP6bAeIw0fibjr-JxeWa-1Da/) / [GitHub](https://github.com/xyou365/AutoRclone) - *Create Google Service Accounts for RClone*
 * [rclone-colab](https://github.com/Pavithran-R/rclone-colab) - *Run Rclone in Colab*
 * [EasyClone](https://github.com/xd003/easyclone) - *Improved RClone Operations Script*
-* [Cyberduck](https://cyberduck.io/) - *Libre Server / Cloud Storage Browser*
 * [myDrive](https://mydrive-storage.com/) - *Open-Source Cloud File Storage*
 * [FolderClone](http://www.folderclone.com/) - *Clone / Backup Folders*
 * [Borg](https://www.borgbackup.org/) - *Deduplicating File Archiver / Backup* 
