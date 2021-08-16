@@ -318,13 +318,11 @@
 * [Kenorb's New Age library](https://www.dropbox.com/sh/2x5qfpd4csenuws/AABxbTrOvXVRcwsW0z9t6AFJa) - *Esoterica / Mythology / Gnosticism* 
 * [Esoterica](https://mega.nz/#F!hQVFBDbT!f3gOa3LUAHJXJJbFZfDytg) - *Esoterica / Philosophy / Gnosticism* 
 * [Logoi Library](http://logoilibrary.com/) - *Gnosticism / Hermeticism* 
-* [Occult Megadrive](https://mega.nz/#F!pOZCyaxK!qRLNFL_GzdXz6Dhz22bLMg) - *Occult*
 * [766 occult books](http://www.mediafire.com/file/abggpzcdxv09w80/books.zip) - *Occult* 
 * [Messy occult library](https://mega.nz/#F!BNljAKhB!eY3NfH3DZtthocohW8Lwwg) - *Occult / Esoterica / Gnosticism* 
 * [LeftHandPath](https://mega.nz/#F!E4cSzYBZ!SPeQA0WuSMVh_oQtpYnN5w) - *Luciferianism* 
 * [mr.taco9's library](https://drive.google.com/drive/folders/0B7TpGr9NCseXVWRQbFlpT28zQzg) - *Occult / Luciferianism* 
 * [Esoteric Archive](http://esotericarchives.com/) - *Esoterica*
-* [Hoiya's Personal Library](https://mega.nz/#F!JjIiRTJL!hbd-8RGobfu8xNzB-7-TkQ) - *Occult / Gnosticism / Esoterica* 
 * [Masonic Library](https://masonicshop.com/masonic-library/) - *Esoterica / Freemasonry*
 * [Golden Dawn](https://golden-dawn.com/nl/library.aspx) - *Alchemy / Esoterica*
 * [Darkbooks](https://darkbooks.org/collection/top250.html) - *Occult*
