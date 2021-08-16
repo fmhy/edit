@@ -68,6 +68,7 @@
 * [Udemy Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons) - *Udemy Coupon Sites*
 * [UdemyEnrollEverywhere](https://github.com/keethesh/UdemyEnrollEverywhere) - *Auto-Grab Udemy Coupons*
 * [GUdemyBot](https://t.me/GUdemyBot) - *Udemy Coupon Bot* 
+* [CourseVania](https://t.me/joinchat/AAAAAEGltVf2DWWdtm_-cQ) - *Udemy Coupons / Telegram*
 
 ***
 
