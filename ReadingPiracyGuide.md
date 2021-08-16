@@ -887,7 +887,6 @@
 * **[PDFMagazines](https://pdfmagazines.club/)**
 * **[DownMagaz](https://downmagaz.com/)**
 * **[MagazineLib](https://magazinelib.com/)**
-* **[Newspapers Magazines](https://t.me/newspapersmagaziness)** - *Telegram* 
 * [ENMagazine](https://t.me/enmagazine) - *Telegram*
 * [Magazines4U](https://t.me/Magazines4U) - *Telegram* 
 * [newspaper_archive](https://t.me/newspaper_archive) - *Telegram*
