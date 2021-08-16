@@ -212,9 +212,9 @@
 
 ## ▷ Downloading
 
+* **[Lamule](https://lamule.eu/)** - *Warez / List*
 * [NextWarez](http://nextwarez.com/) - *Warez Lists*  
 * [mega-p2p](https://www.mega-p2p.net/) - *Warez Lists*  
-* [Lamule](https://lamule.eu/) - *Warez / List*
 * [WawaCity](https://www.wawacity.video/), [2](https://www.wawacity.vip/) - *Video / Audio / Books / Magazines / Software / Android / Use AdBlocker*
 * [Tirexo](https://www.tirexo.com/), [2](https://www2.tirexo.lol/) - *Video / Audio / Books / Roms / Software / Android*
 * [Free-Telecharger](https://ww2.free-telecharger.org/) - *Movies / TV*  
@@ -266,9 +266,9 @@
 
 # ► German
 
-* [Awesome German Piracy](https://github.com/SeppPenner/awesome-german-piracy) - *German / Piracy Site Index*
+* **[Tarnkappe](https://forum.tarnkappe.info/)** - *Piracy Discussion + [Telegram](https://t.me/Tarnkappe_info)*
+* **[Awesome German Piracy](https://github.com/SeppPenner/awesome-german-piracy)** - *German / Piracy Site Index*
 * [RR.Topliste](https://toplist.raidrush.ws/) - *Piracy Site List* 
-* [Tarnkappe](https://forum.tarnkappe.info/) - *Piracy Discussion + [Telegram](https://t.me/Tarnkappe_info)*
 * [xrel](https://www.xrel.to/) - *Scene Release & P2P Tracker* 
 
 ## ▷ Downloading 
@@ -776,7 +776,7 @@
 
 # ► Russian
 
-* [РосКомСвобода](https://t.me/roskomsvoboda_discuss) - *Piracy Discussion Telegram*
+* **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** - *Piracy Discussion Telegram*
 * [DXP](https://dxp.ru/) - *Torrent / Subtitles*
 * [TLauncher Legacy](https://tlaun.ch/) - *Minecraft Client / Cracked Minecraft*
 * [netwhood](https://netwhood.online/) - *Communication Network*
@@ -812,10 +812,10 @@
 
 ## ▷ Torrenting
 
+* **[RuTracker](http://rutracker.org)** - *Video / Audio / Games / Software / Android / Comics / Magazines + [Onion](http://rutrackerripnext.onion/)*
 * [UpTracker](https://www.uptracker.ru/) - *Torrent Tracker Index*
 * [krasfs](https://krasfs.ru/) - *Torrent Search* 
 * [torrent.by](http://torrent.by/) - *Torrent Search* 
-* [RuTracker](http://rutracker.org) - *Video / Audio / Games / Software / Android / Comics / Magazines + [Onion](http://rutrackerripnext.onion/)*
 * [rutracker.ru](http://rutracker.ru/) - *Video / Audio / Games / Books / Software / Android / NSFW* 
 * [rutor](http://rutor.info/) - *Video / Audio / Games / Software / Books / Roms / Magazines*
 * [NNTT](http://www.nntt.org/) - *Video / Audio / Software / Games / Books / Magazines / Android* 
@@ -895,10 +895,11 @@
 
 ## ▷ Reading
 
+* **[CyberLeninka](https://cyberleninka.ru/)** - *Articles / Educational / Scientific / Legal*  
+* **[Lib.ru](http://lib.ru/)** - *Books*
+* **[Flibusta](https://flibusta.is/)** - *Books + [Onion](http://flibustahezeous3.onion/) / Requires account*
 * [VK Book DL Pages](https://redd.it/kne0ba) 
 * [LoveRead.ec](http://loveread.ec/) - *Books / NSFW*
-* [Lib.ru](http://lib.ru/) - *Books*
-* [Flibusta](https://flibusta.is/) - *Books + [Onion](http://flibustahezeous3.onion/) / Requires account*
 * [Twirpx](https://www.twirpx.com/) - *Book / Educational* 
 * [kodges](https://www.kodges.ru/) - *Books* 
 * [royallib](https://royallib.com/) - *Books*  
@@ -916,7 +917,6 @@
 * [militera](http://militera.org/) - *Military History* 
 * [Arzamas](https://arzamas.academy/) - *Cultural History*
 * [Playing Soviet](https://commons.princeton.edu/soviet/) - *Children's Books*
-* [CyberLeninka](https://cyberleninka.ru/) - *Articles / Educational / Scientific / Legal*  
 * [Baza Knig](https://baza-knig.ru/), [Аудиокниги Клуб](https://akniga.org/), [A-Book](https://a-book.info/), [Bibl](https://m.bibl.us/), [Knizhkin](https://knizhkin.net/), [Aknigi Online](https://aknigionline.ru/), [A Book Club](http://abook-club.ru/), [Bibl.us](https://bibl.us/) - *Audiobooks*
 
 ***
