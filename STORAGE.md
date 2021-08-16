@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/QosSHJF.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/q9zmICP.png)** - *For mobile users*
 
 ***
 ***
@@ -754,6 +754,17 @@ Add the following commands to a search to manually scrape each site.
 #### Multireddits 
 
 [Explore All Multireddits](https://www.reddit.com/r/multihub/top/?sort=top&t=all), [Piracy](https://www.reddit.com/user/nbatman/m/piracy/) / [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) / [3](https://www.reddit.com/user/nanomuto/m/piracyhub/), [Random](https://www.reddit.com/user/nbatman/m/random/), [Weird YouTube](https://www.reddit.com/user/jarod47/m/wierdpartofyoutube/), [Streaming](https://www.reddit.com/user/nbatman/m/streaming/) / [2](https://www.reddit.com/user/asmailes/m/fullmoviesandtv/), [Cord Free TV](https://www.reddit.com/user/efidol/m/cordfreetv/), [News](https://www.reddit.com/user/nbatman/m/news/), [Tech](https://old.reddit.com/user/goretsky/m/win_itpro/), [Left](https://www.reddit.com/user/nbatman/m/left/), [Conspiracy](https://www.reddit.com/user/nbatman/m/conspiracy/), [Aliens](https://www.reddit.com/user/nbatman/m/aliens/), [Paranormal](https://www.reddit.com/user/nbatman/m/paranormal/), [Metaphysics](https://www.reddit.com/user/nbatman/m/metaphysics/), [Countries](https://www.reddit.com/user/sneaky5erpent/m/countries/) / [2](https://www.reddit.com/user/sneaky5erpent/m/countries2/), [International AskARedditor](https://www.reddit.com/user/sneaky5erpent/m/ask_people_nationality/)
+
+***
+
+#### Multi Site Cloud Storage Managers
+
+* **[Air Explorer](https://airexplorer.net/en/)**
+* **[RaiDrive](https://www.raidrive.com/)**
+* **[RClone](https://rclone.org/)**, [2](https://github.com/rclone/rclone) / [Heroku](https://github.com/The-Antrax/heroku-buildpack-rclone-mod)
+* **[gclone](https://github.com/donwa/gclone)** / [Guide](https://telegra.ph/Gclone-Guide-for-Windows-07-20) / [Telegram](https://github.com/wrenfairbank/telegram_gcloner)
+* [Rethink Files](https://rethink.software/)
+* [MultiCloud](https://www.multcloud.com/)
 
 ***
 
