@@ -12,6 +12,9 @@
 # ► Download Directories
 
 * **WARNING** - Some Open Directories grab IP  addresses, so it's highly recommended to use a VPN or Tor when accessing them.
+
+***
+
 * **[The MegaDrive](https://discord.gg/h2P5zsNMxZ)** - *Discord Drive Sharing Community* 
 * **[Open Directories / Teamdrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrives_.2F_open_directories), [2](https://www.google.com/search?q=site:reddit.com/r/opendirectories+odshot+after:2018), [3](https://opndir.com/), [4](https://redd.it/lvdwlm), [5](https://github.com/strawhat-pirates/notes/blob/master/opendirectories.txt), [6](https://bin.disroot.org/?3082f04205be7af6#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34)**
 * **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
@@ -36,6 +39,9 @@
 # ► Download Sites
 
 * **WARNING** - We do *not* recommend downloading software or games from these. Use trusted sites like FitGirl or FileCR instead. 
+
+***
+
 * **[DownloadHa](https://www.downloadha.com)** - *Video / Software / Games / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * **[SoftArchive](https://sanet.st)** or [Sanet.lc](https://sanet.lc/) - *Video / Audio / Games / Software / Android / Books / Comics / Newspapers / Magazines*
 * **[DirtyWarez](https://forum.dirtywarez.com/)** - *Forum / Video / Audio / Games / Software / Books / Comics* 
@@ -183,8 +189,9 @@
 * [VectorItalia](https://www.vectoritalia.com/)
 * [MySoftwareFree](https://mysoftwarefree.com/)
 * [Mutaz.net](https://www.mutaz.net/) - *PC / Mac / Android*
-* [AIOsetup](https://t.me/aiosetup) - *Software / Telegram* 
-* [raymondfreesoftware](https://sites.google.com/site/raymondfreesoftware/) *Software / [Telegram](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g)* 
+* [AIOsetup](https://t.me/aiosetup) - *Telegram* 
+* [Libreware](https://t.me/Libreware) - *Telegram* 
+* [raymondfreesoftware](https://sites.google.com/site/raymondfreesoftware/) - *[Telegram](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g)* 
 * [ALTERNATIVES](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md) - *Lightweight Software Index*
 * [Rarewares](https://www.rarewares.org/) - *Rare Software*
 * [RADIXX11](https://radixx11rce2.blogspot.com/), [Izofile](https://izofile.com/), [Soft2Ev](https://www.soft2ev.com/), [CrackedFine](https://crackedfine.com/), [Keygen Fortress](https://t.me/keygen_fortress), [SmartSerials](https://smartserials.com/), [SerialReactor](https://serialreactor.com/) or [Serials](https://www.serials.ws/) - *Software Keys / Patches*
