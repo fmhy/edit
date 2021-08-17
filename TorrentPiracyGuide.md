@@ -73,6 +73,9 @@
 # ► Torrent Sites
 
 * **WARNING** - We do *not* recommend downloading software or games from these. Use trusted sites like FitGirl or FileCR instead. 
+
+***
+
 * **[1337](https://1337x.to/)** - *Video / Audio / Games / Software / NSFW* 
 * **1337x Tools** - [Mirrors](https://1337x.to/about) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot)
 * **[RarBG](https://rarbg.to)** - *Video / Audio / Games / Software / NSFW* 
