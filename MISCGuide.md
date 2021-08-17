@@ -421,6 +421,7 @@
 * [LooksLikeYouNeedIceland](https://lookslikeyouneediceland.com/) or [JUST SCREAM!](https://justscream.baby/) - *Scream Into the Universe* 
 * [VentScape](https://www.ventscape.life/) - *Speak into a Void* 
 * [The Nicest Place](https://thenicestplace.net/) - *Internet Hugs*
+* [Dazzle](https://workingbuild.herokuapp.com/) - *Virtual Chat, Video & Drawing World*
 * [Aggie.io](https://aggie.io/) or [malmal](https://malmal.io/) - *Draw with Friends or Strangers* 
 * [Monsterland](https://www.monsterland.net/) - *Collabortive Monster Drawing* 
 * [Awesome Lego](https://github.com/ad-si/awesome-lego) - *Lego Resource Index* 
