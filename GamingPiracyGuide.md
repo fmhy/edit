@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/oYYQHzH.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/E1l9aS2.png)** - *For mobile users*
 
 ***
 ***
@@ -188,7 +188,7 @@
 
 * **[No-Intro](https://archive.org/details/no-intro_romsets)**, [2](https://archive.org/details/No-Intro-Collection_2016-01-03_Fixed), [3](https://archive.org/details/No-Intro-Collection_2016-09-06) - *Roms*
 * **[AlvRo](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml)**, [2](https://pastebin.com/79q1mdZm) - *Roms*
-* **[RomCenter](https://r-roms.github.io/)**, [2](https://rentry.co/24ufx) - *Roms*
+* **[RomCenter](https://r-roms.github.io/)**, [2](https://rentry.co/24ufx), [3](https://pastelink.net/26nlj) - *Roms*
 * [TheRomDepot](https://theromdepot.com/) - *Roms*
 * [@Storage_Manager](https://archive.org/details/@storage_manager) - *Roms / Zip* 
 * [FinalBurn Neo](https://archive.org/details/2020_01_06_fbn) - *Roms / Zip* 
@@ -214,7 +214,7 @@
 * [NXBrew](https://nxbrew.com/), [nsw2u](https://nsw2u.xyz/), [Switchrls](https://switchrls.co/), [Switch Archive](https://docs.google.com/spreadsheets/d/1lRMTxSAJiASOdT1ZlCyYrUnXkVt58jg46Y-2w3RrMtA/edit) - *Roms / Nintendo Switch*
 * [GameCube Collection](https://archive.org/details/gamecubenaiso), [2](https://archive.org/details/RedumpNintendoGameCubeAmerica), [3](https://archive.org/details/RedumpNintendoGameCubeAmericaPart2), [4](https://archive.org/details/RedumpNintendoGameCubeAmericaPart3), [5](https://archive.org/details/RedumpNintendoGameCube2018Aug25AmericaGamesReUpload) - *Roms / GameCube*
 * [MarioCube](https://mariocube.com/) - *Roms / Gamecube / Wii* 
-* [GameBoy Collection](https://archive.org/details/Cyles_Gameboy_roms), [2](https://drive.google.com/drive/folders/1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf), [3](https://drive.google.com/drive/folders/1VxjINYMDvvUSRKA_k2aJqq6JzmRQCI1s), [Unreleased](https://ufile.io/70vmpyng) - *Roms / GameBoy*
+* [GameBoy Collection](https://archive.org/details/Cyles_Gameboy_roms), [2](https://drive.google.com/drive/folders/1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf), [3](https://drive.google.com/drive/folders/1VxjINYMDvvUSRKA_k2aJqq6JzmRQCI1s), [4](http://merwanachibet.net/gameboy-roms.html), [Unreleased](https://ufile.io/70vmpyng) - *Roms / GameBoy*
 * [DS Collection](https://archive.org/details/noIntroNintendoDsDecrypted2019Jun30), [2](https://mega.nz/folder/33AhDa4T#awOqr7lhZYFgjXoMMu6_8w) - *Roms / DS*
 * [DSi Collection](https://archive.org/details/No-Intro_Nintendo_DSi_2018-06-30) - *Roms / DSi* + [DSi DLC](https://archive.org/details/NintendoDSiDLC2019)
 * [Cia 3DS](https://www.cia-3ds.com/), [2](https://drive.google.com/drive/u/0/folders/1a1U18ImPv-VunSHanHBDTLht6kVf5AP6), [3](https://archive.org/download/3DSCIA_testitem1), [4](https://drive.google.com/drive/folders/1R5c6-nY5mMns8G1u2tcbYumfTCGXDQ5w), [5](https://drive.google.com/drive/folders/1a9BYbFlhQ96zaKtuL99m8N_r4qv8L_FK), [6](https://drive.google.com/drive/folders/1vDIlIfJL1I8Nzv616YBIX-QXmudoxKxM?usp=sharing) - *Roms / 3DS*
@@ -237,6 +237,7 @@
 * **[retrogames.cc](https://www.retrogames.cc/)** - *Browser Emulator / [Download Guide](https://i.imgur.com/jSAsSb6.png)*
 * [MISC Windows](https://drive.google.com/drive/folders/15A3j8X0IDxNyJC7tPjJ0gvKIPKPaKylO) - *Windows 98 / XP Games*
 * [ClassicReload](https://classicreload.com/) - *Browser Emulator*
+* [Retro Games Bot](https://retrogamesbot.com/) - *Browser Emulator*
 * [Free80sArcade](http://www.free80sarcade.com/) - *Browser Emulator*
 * [Retro Uprising](http://www.retrouprising.com/) - *Browser Emulator*
 * [Play Classic Games](https://playclassic.games/) - *Browser Emulator*
@@ -379,7 +380,6 @@
 * [Raptjs](http://www.raptjs.com/) - *Puzzle Platformer*
 * [Synesthesia in Space](http://synesthesiagame.com/) - *Puzzle Platformer*
 * [Tales of Dorime](https://dorime.udany.net/) - *2D Platformer*
-* [FactoryIdle](http://factoryidle.com/) - *Factory Sim*
 * [3rd World Farmer](https://3rdworldfarmer.org/) - *Farm Sim*
 * [Orbity](https://orbity.io/game.php) - *Space Ship Launching Game* 
 * [Clicking Bad](http://clickingbad.nullism.com/) - *Clicker Game / Become Walter White* 
@@ -410,11 +410,6 @@
 * [Doodle Cricket](https://doodlecricket.github.io/index.html#/) - *Play Cricket as a Cricket* 
 * [Doodle Champion Island Games!](https://www.google.com/) - *Olympics JRPG Game*
 * [Impossible Rush](http://tanksw.com/impossible-rush/) - *Reflex Testing Game*
-* [Incremental Games Plaza](https://plaza.dsolver.ca/) or [Almost Idle](http://almostidle.com/) - *Incremental Games Index*
-* [Idlescape](https://idlescape.com/game) - *Idle MMORPG*
-* [ProgressQuest](http://progressquest.com/) - *Idle RPG*
-* [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](http://orteil.dashnet.org/experiments/cookie/), [The Monolith](http://monolith.greenpixel.ca/), [KittensGame](https://kittensgame.com/web/), [WarClicks](https://warclicks.com/), [BitBurner](https://danielyxie.github.io/bitburner/) or [Merry Clickmas](http://www.digitalchestnut.com/merryclickmas/) - *Incremental Clicker*   
-* Cookie Clicker Tools - [Multiple Tools](https://github.com/CookieMonsterTeam/CookieMonster) / [Calculator](https://coderpatsy.bitbucket.io/cookies/cookies.html) / [Mod](https://redd.it/7ogf45)
 * [MousePoint](https://creativetechguy.com/mousepoint) - *Mouse Pointing Game*
 * [Piccolo](https://piccolo.click/web/) - *Othello AI* 
 * [FindTwin](https://github.com/klimaleksus/FindTwin) - *Find the Twins* 
@@ -518,6 +513,27 @@
 * [babble.xyz](https://babbl.xyz/) - *Infinite Scrabble*
 * [WordHub](https://wordhub.com/) - *Scrambled Word Game*
 * [eWordChallenge](https://www.ewordchallenge.net/) - *Multiplayer Boggle*
+
+***
+
+## ▷ Incremental / Idle
+
+* [Incremental Games Plaza](https://plaza.dsolver.ca/) or [Almost Idle](http://almostidle.com/) - *Incremental Games Index*
+* [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](http://orteil.dashnet.org/experiments/cookie/) - *Incremental Cookie Game*
+* Cookie Clicker Tools - [Multiple Tools](https://github.com/CookieMonsterTeam/CookieMonster) / [Calculator](https://coderpatsy.bitbucket.io/cookies/cookies.html) / [Mod](https://redd.it/7ogf45)
+* [The Monolith](http://monolith.greenpixel.ca/) - *Incremental RPG*
+* [BitBurner](https://danielyxie.github.io/bitburner/) - *Incremental RPG*
+* [KittensGame](https://kittensgame.com/web/) - *Incremental Kitten Maker*
+* [WarClicks](https://warclicks.com/) - *Incremental War Game*
+* [The First Alkahistorian](https://nagshell.github.io/elemental-inception-incremental/) - *Incremental Elemental Game*
+* [Merry Clickmas](http://www.digitalchestnut.com/merryclickmas/) - *Incremental Present Maker*
+* [FactoryIdle](http://factoryidle.com/) - *Factory Idle Sim*
+* [Idlescape](https://idlescape.com/game) - *Idle MMORPG*
+* [ProgressQuest](http://progressquest.com/) - *Idle RPG*
+* [Anti Matter Dimesions](https://ivark.github.io/) - *Anti Matter Idle Game*
+* [Theory of Magic](https://mathiashjelm.gitlab.io/arcanum/) - *Magic Idle Game*
+* [Succubox](http://www.glaielgames.com/succubox/) - *Loot Box Idle Game*
+* [Swarm Simulator](https://www.swarmsim.com/) - *Idle Bug Swarm Game*
 
 ***
 
