@@ -126,16 +126,17 @@
 * [I or l?](https://iorl.info/) - *Is it an uppercase "i", or is it a lowercase "L"?*
 * [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/) or [Cool Symbol](https://coolsymbol.com/) - *Copy & Paste Unicode Symbols*
 * [Donger List](http://dongerlist.com/) - *600+ Unicode Emoticons* 
-* [Honk.moe](https://honk.moe/tools.html) - *Text Generators*
 * [randSeq](http://www.dave-reed.com/Nifty/randSeq.html) - *Random Letter Sequence Generator*
 * [The Ransomizer](http://www.ransomizer.com/) - *Ransom Note Generator / Message Encryption*
 * [InfoEncrypt](https://www.infoencrypt.com/) - *Encrypt / Decrypt Text* 
 * [quipqiup](https://www.quipqiup.com/) - *Cryptogram Solver* 
 * [xeuledoc](https://github.com/Malfrats/xeuledoc) - *Fetch Information about Public Google Documents*
 * [Useless-Translator](https://vcjhwebdev.github.io/useless-translator/) - *Morse Code / Binary Translator* 
-* [Transformer](https://transformer.huggingface.co/) or [Talk to Transformer](https://app.inferkit.com/demo) - *Text Autocomplete AI* 
-* [StoryAI](https://storyai.botsociety.io/) - *Story Writing A.I.*
+* [Transformer](https://transformer.huggingface.co/) or [Talk to Transformer](https://app.inferkit.com/demo) - *Text Autocomplete* 
+* [EleutherAI](https://6b.eleuther.ai/) - *Text / Story Autocomplete*
+* [StoryAI](https://storyai.botsociety.io/) - *Story Autocomplete*
 * [Lorem Ipsum Generator](https://apps.maximelafarie.com/lig/) - *Generate Placeholder Text*
+* [Honk.moe](https://honk.moe/tools.html) - *Shitposting Text Generators*
 * [Textanim](https://textanim.com/) - *Animated Text Generator* 
 * [TextGiraffe](http://www.textgiraffe.com/) - *Text / Logo Generator* 
 * [Polona Typo](http://typo.polona.pl/en/) - *Create Text out of Book, Poster & Map Letters* 
@@ -510,7 +511,7 @@
 * [Flacon](https://flacon.github.io/) - *Audio Track Splitter* 
 * [ZzFXM](https://keithclark.github.io/ZzFXM/) - *JavaScript Music Renderer* 
 * [YADG](https://yadg.cc/) - *Scrape / Render Music via Templates / [API](https://yadg.cc/api/)*
-* [Flow](https://lx.sg/flow), [Balabolka](http://balabolka.site/bportable.htm) / [2](http://www.cross-plus-a.com/bportable.htm), [15.ai](https://15.ai/), [From Text to Speech](http://www.fromtexttospeech.com/), [Text To Speech](https://texttospeech.ca/), [ttsMP3](https://ttsmp3.com/), [Vo.codes](https://vo.codes/), [readloud](https://readloud.net/) or [NaturalReaders](https://www.naturalreaders.com/online/) - *Text to Speech* 
+* [Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_to_speech) - *Text to Speech Sites / Apps*
 * [Clash](https://clash.me/) - *Text to Speech using Sampled Media* 
 * [Audiogrep](http://antiboredom.github.io/audiogrep/) - *Transcribe & Search for Phrases in Audio / [GitHub](https://github.com/antiboredom/audiogrep)*
 * [Splitter](https://www.splitter.ai/) or [melody ml](https://melody.ml/) - *Separate voice from instrumentals*
@@ -670,6 +671,7 @@
 * [Rambox](https://rambox.pro/) / [GitHub](https://github.com/ramboxapp/download/releases), [Ferdi](https://getferdi.com/), [Pidgin](https://www.pidgin.im/), [Hamsket](https://github.com/TheGoddessInari/hamsket), [matterbride](https://github.com/42wim/matterbridge) or [Franz](https://meetfranz.com/) - *Combine Web Apps / Chats*
 * [Slapdash](https://slapdash.com/) - *Connect Cloud Apps* 
 * [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - *Communication Software Index*
+* [Twist](https://twist.com/) - *Collaboration Chat Manager*
 * [Hack.chat](https://hack.chat/) - *Minimal, Account Free Chat* 
 * [Cirlos](https://www.cirlos.net/) - *Customizable Chat App*
 * [KiwiIRC](https://kiwiirc.com/) - *WebIRC Client*
@@ -941,20 +943,14 @@ General Reading Sites*
 ## ▷ Discord Tools
 
 * **WARNING** - Misuse of Chat Archivers, Deleters, Mods & 3rd Party Clients is against Discords TOS, so use them at your own risk. 
-* [Disboard](https://disboard.org/), [DiscordServers](https://discordservers.com/), [Discord Street](https://discord.st/), [discordlist.io](https://discordlist.io/), [DiscordServers.me](https://discordservers.me/) or [Discord Me](https://discord.me/) - *Discover Discord Servers / Bots* 
-* [DiscordTools](https://discordtools.io/) - *Discord Tools*
-* [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) or  [Freemoji](https://raw.githubusercontent.com/QbDesu/BetterDiscordAddons/potato/Plugins/Freemoji/Freemoji.plugin.js) - *Use Discord Emoji's without Nitro* 
-* [Slackmoji](https://github.com/seanprashad/slackmoji) or [emoji.gg](https://emoji.gg/) - *Discord Emojis*
-* [Ping and Salar's](https://discord.gg/RuFvp72qY4) - *Free Global Discord Emoji Server List / [Instructions](https://discord.com/channels/290572012437372931/444165499035713537/845971730690473994)*
-* [Emote Manager](https://github.com/EmoteBot/EmoteManager) - *Custom Discord Emote Manager* 
-* [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - *Discord Emoji Downloader*
-* [Snowsgiving Icons & Emotes](https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - *Snowsgiving Event Icons & Emotes*
-* [Distok](http://distok.top/stickers/) - *Discord Stickers as GIFs* 
-* [Discord Sticker Viewer](https://sticker-view.vercel.app/) - *View / Search Discord Stickers*
-* [Pfps.gg](https://pfps.gg/) - *Free Custom Banners*
-* [Better Discord](http://betterdiscord.app/) - *Modifiable Discord Client / [Plugins](https://rauenzi.github.io/BetterDiscordAddons/), [2](https://mwittrien.github.io/) / [Addons](https://github.com/QbDesu/BetterDiscordAddons) / [Themes](https://www.limeshark.dev/editor), [2](https://gibbu.me/editor) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd), [2](https://discord.gg/sbA3xCJ) / [Animated PFP](https://discord.gg/xzwKqwvQcP)*
-* [Ripcord](https://cancel.fm/ripcord/) - *Lighweight Discord & Slack Client / [Themes](https://web.archive.org/web/20210116022920/https://tmad40.blue/ripcord_color_schemes.html) / [Binary Patcher](https://github.com/geniiii/patcher) / [Better Notifications](https://github.com/efskap/discord-notify)*
-* [Powercord](https://powercord.dev/) - *Anti-Telemetry Discord Addon / [CSS](https://discord.gg/QfGXuvy6Qn) / [Plugins](https://github.com/topics/powercord-plugin) / [Embed Generator](https://github.com/TheShadowGamer/safe-embed-generator), [2](https://github.com/ThykeAdams/-PowerCord-Embedify) / [Theme Converter](https://cr3atable.github.io/Powerconvert) / [Premid](https://github.com/MulverineX/premid-powercord) / [Dark Theme](https://github.com/zespire/dark-theme) / [Pronouns](https://github.com/cyyynthia/pronoundb-powercord)*
+
+***
+
+* **[Aliucord](https://github.com/Aliucord/Aliucord)** or [Treecord](https://github.com/Treecord/Treecord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client* 
+* [BetterDiscord](http://betterdiscord.app/) - *Modifiable Discord Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)*
+* [Ripcord](https://cancel.fm/ripcord/) - *Lighweight Discord & Slack Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ripcord_tools)* 
+* [Powercord](https://powercord.dev/) - *Anti-Telemetry Discord / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_powercord_tools)* 
+* [Dark-Discord](https://github.com/snappercord/Dark-Discord) - *Dark Theme for BetterDiscord & Powercord* 
 * [Powerconvert](https://convert.creatable.cafe/) - *Convert BetterDiscord themes to Powercord*
 * [bdCompat](https://github.com/Juby210/bdCompat) - *Use BD Plugins in Powercord*
 * [Revert Rebrand](https://betterdiscord.app/theme/Revert%20Rebrand) - *Revert Discord’s Rebrand on BetterDiscord / Powercord / [GitHub](https://github.com/Goose-Nest/GT-RevertRebrand)*
@@ -966,14 +962,22 @@ General Reading Sites*
 * [Quarrel](https://github.com/UWPCommunity/Quarrel) - *Universal Windows Platform Discord Client*
 * [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) or [WebCord](https://github.com/SpacingBat3/WebCord) - *Discord Web Client / [Discord](https://discord.gg/Vm4CwZx)*
 * [Discord CLI](https://github.com/fourjr/discord-cli), [Gord](https://github.com/yellowsink/gord), [Discord Terminal](https://github.com/atlx/discord-term) or [crcophony](https://github.com/freyamade/crcophony) - *Discord Terminal Client*
-* [Aliucord](https://github.com/Aliucord/Aliucord), [CutTheCord](https://gitdab.com/distok/cutthecord) or [Treecord](https://github.com/Treecord/Treecord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client* 
 * [weechat-discord](https://github.com/terminal-discord/weechat-discord) - *WeeChat Discord Plugin*
 * [litecord](https://gitlab.com/litecord/litecord) - *Reimplementation of Discord's Backend / [Clients](https://gitlab.com/litecord/litecord/-/blob/master/docs/clients.md)*
 * [Discord-Sandbox](https://github.com/khlam/discord-sandboxed) - *Sandbox Discord Client*
 * [crocodile](https://github.com/tbodt/crocodile) - *Discord Client for TempleOS*
+* [Disboard](https://disboard.org/), [DiscordServers](https://discordservers.com/), [Discord Street](https://discord.st/), [discordlist.io](https://discordlist.io/), [DiscordServers.me](https://discordservers.me/) or [Discord Me](https://discord.me/) - *Discover Discord Servers / Bots* 
+* [DiscordTools](https://discordtools.io/) - *Discord Tools*
+* [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - *Use Discord Emoji's without Nitro* 
+* [Slackmoji](https://github.com/seanprashad/slackmoji) or [emoji.gg](https://emoji.gg/) - *Discord Emojis*
+* [Ping and Salar's](https://discord.gg/RuFvp72qY4) - *Free Global Discord Emoji Server List / [Instructions](https://discord.com/channels/290572012437372931/444165499035713537/845971730690473994)*
+* [Emote Manager](https://github.com/EmoteBot/EmoteManager) - *Custom Discord Emote Manager* 
+* [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - *Discord Emoji Downloader*
+* [Snowsgiving Icons & Emotes](https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - *Snowsgiving Event Icons & Emotes*
+* [Distok](http://distok.top/stickers/) - *Discord Stickers as GIFs* 
+* [Discord Sticker Viewer](https://sticker-view.vercel.app/) - *View / Search Discord Stickers*
+* [Pfps.gg](https://pfps.gg/) - *Free Custom Banners*
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - *Discord Message Encryption*
-* [Gibbu](https://gibbu.me/editor), [CodeDotSpectra](https://theme.codedotspectra.me/) or [0x71](https://0x71.cc/bd/theme/) - *BetterDiscord Theme Generators*
-* [Dark-Discord](https://github.com/snappercord/Dark-Discord) - *Dark Theme for BetterDiscord & Powercord* 
 * [DiscordFS](https://github.com/dhrumilp15/discordfs) - *Discord File Search*
 * [DeepL](https://github.com/aisuzuki/dd-bot) - *Discord Chat Auto Translator*
 * [TwitFix](https://fxtwitter.com/) - *Fix Discord Twitter Embeds*
@@ -1334,6 +1338,7 @@ General Reading Sites*
 * [eDEX-UI](https://github.com/GitSquared/edex-ui) - *Sci-Fi Terminal Emulator / System Monitor*
 * [cmder](https://cmder.net/) - *Portable Console Emulator for Windows* 
 * [PowerShell](https://github.com/powershell/powershell) - *PC / Mac / Linux PowerShell*
+* [SystemNightware](https://github.com/GossiTheDog/SystemNightmare) - *Instant System Command Prompt*
 * [Starship](https://starship.rs/) - *Cross-Shell Prompt*
 * [GNU Parallelel](https://www.gnu.org/software/parallel/) - *Execute Commands / Scripts in Parallel using Multiple Computers* 
 * [Slides](http://maaslalani.com/slides/) - *Terminal Presentation Tool / [GitHub](https://github.com/maaslalani/slides)*
@@ -1430,6 +1435,7 @@ General Reading Sites*
 * [GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) - *GoIndex to GDrive Downloader*
 * [gd-utils](https://github.com/roshanconnor123/gd-utils) or [Bypass-GDrive](https://yuudrive.me/tools/bypass-gdrive) - *Google Drive Limit Bypass* 
 * [G-Index](https://github.com/LeeluPradhan/G-Index), [goindex](https://github.com/alx-xlx/goindex), [GDI](https://github.com/anymeofu/GDI) or [gdrive-index](https://github.com/alx-xlx/gdrive-index) - *Google Drive Index*
+* [Google Drive Bot](https://t.me/Gdriveit_bot) - *Google Drive Client in Telegram*
 * [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - *Host Direct Links on GDrive* 
 * [gdrive-copy](https://github.com/ericyd/gdrive-copy), [googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader), [TgFolderClone](https://github.com/Loli-Killer/TgFolderClone), [Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot) or [GDrive-Clone](https://github.com/alx-xlx/gdrive-clone) / [Bot](https://github.com/MsGsuite/CloneBot) - *Copy Google Drive*
 * [gd-efc](https://anadius.github.io/gd-efc/) - *Copy Encrypted Google Drive* 
@@ -1501,6 +1507,7 @@ General Reading Sites*
 * [HxD](https://mh-nexus.de/en/hxd/) - *Hex / Disk Editor*
 * [webhex.net](https://en.webhex.net/) - *Online Hex Viewer*
 * [HexEd.it](https://hexed.it/) - *Online Hex Editor*
+* [infekt](https://infekt.ws/) - *NFO File Viewer*
 
 ***
 
@@ -1608,6 +1615,7 @@ General Reading Sites*
 * [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
 * [Project Era](https://erafn.glitch.me/#downloads) - *Play Old Fortnite Seasons*
 * [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040) or [RoPro](https://ropro.io/) - *Enhance Roblox Website*
+* [RobloxThemes](https://github.com/christiankek/RobloxThemes) - *Themes for Roblox*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
 * [tModLoader](https://www.tmodloader.net/) - *Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)*
 * [TEdit](http://binaryconstruct.com/games/tedit) - *View / Edit Terraria Maps*
