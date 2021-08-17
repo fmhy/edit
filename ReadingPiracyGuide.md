@@ -123,6 +123,7 @@
 * [JustFreeBooks](https://www.justfreebooks.info/) - *Books* 
 * [eBook Junkie](https://www.ebookjunkie.com/) - *Books*  
 * [Sharing eBook](https://www.sharingebook.com/) - *Books* 
+* [FeedBooks](http://m.feedbooks.com/publicdomain) - *Books*
 * [eBook Lobby](http://www.ebooklobby.com/) - *Books*  
 * [1Lib](https://1lib.limited/) - *Books*
 * [IKindle](https://ikindlebooks.com/) - *Books*
@@ -344,7 +345,9 @@
 * [HolyBooks](https://holybooks.com/) - *Religious Texts* 
 * [The Dead Sea Scrolls](https://www.deadseascrolls.org.il/) - *Dead Sea Scrolls Archive*
 * [DigiVatLib](https://digi.vatlib.it/) - *Digital Vatican Library*
-* [BibleGateway](https://www.biblegateway.com/) or [eSword (app)](https://e-sword.net/) - *Christian Bible*
+* [BibleGateway](https://www.biblegateway.com/) - *Christian Bible*
+* [eSword](https://e-sword.net/) - *Christian Bible Desktop App*
+* [Bible](https://apps.apple.com/us/app/bible/id282935706) - *Christian Bible / iOS*
 * [Free Online Novels](https://www.free-online-novels.com/) - *Catholicism*
 * [Classics Ethereal Library](https://www.ccel.org/) - *Christian*
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - *Enoch Translation*
@@ -431,6 +434,7 @@
 * [PupilGarage](http://www.pupilgarage.com/)
 * [Libribook](https://libribook.com/) 
 * [Educational Archive](http://s2.bitdownload.ir/)
+* [Penn Libraries](http://digital.library.upenn.edu/) + *[Index](http://digital.library.upenn.edu/books/)*
 * [s2.bitdl.ir](http://s2.bitdl.ir/Ebook/)
 * [114.116.28.83](http://114.116.28.83/)
 * [Heaven](https://drive.google.com/drive/folders/1hxe7Des-ooQpamAtjyR7CX-k_hyqlQ7Q)
@@ -599,7 +603,8 @@
 * [Data Catalog](https://datacatalog.worldbank.org/) - *Datasets* 
 * [mdpi](https://www.mdpi.com/) - *Articles* 
 * [DOAJ](https://www.doaj.org/) - *Journals / Articles*
-* [CyberLeninka](https://cyberleninka.org/) - *Articles / Scientific / Legal* 
+* [CyberLeninka](https://cyberleninka.org/) - *Articles / Scientific / Legal Documents*
+* [Docracy](https://www.docracy.com/ ) - *Legal Documents*
 * [Legal Core](https://core.ac.uk/) - *Papers / Academic*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - *Medical Journals*
 * [SSRN](https://www.ssrn.com/) - *Early Stage Research Papers* 
@@ -942,6 +947,7 @@
 * **[GoodReads](https://www.goodreads.com/)** - *Books / Comics / Manga*
 * **[TasteDive](https://tastedive.com/)** - *Recommendations* 
 * **[MyAnimeList](https://myanimelist.net/)** - *Manga*
+* [Litsy](https://www.litsy.com/) - *Book Recommendation / Photo Sharing Community*
 * [What Should I Read Next?](https://www.whatshouldireadnext.com/), [RecommendMeABook](https://recommendmeabook.com/) or [WhichBook](https://www.whichbook.net/) - *Book Recommendations*
 * [Anime-Planet](https://anime-planet.com/) - *Manga* 
 * [All Anime](https://allanime.site/) - *Manga*
