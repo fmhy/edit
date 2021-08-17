@@ -378,10 +378,13 @@
 * [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - *Learn With GIFs* 
 * [KausalFlow](https://tools.kausalflow.com/) - *Academic Research Tools* 
 * [Zotero](https://www.zotero.org/) - *Research Organization Tool* 
+* [BookStack](https://www.bookstackapp.com/) - *Self-Hosted Information Manager*
+* [Deepnote](https://deepnote.com/) - *Data Science Notebook*
 * [Plagiarism Checker](https://www.grammarly.com/plagiarism-checker), [PaperRater](https://www.paperrater.com/), [PlagiarismDetector](http://www.plagiarismdetector.net/), [CopyScape](https://www.copyscape.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
 * [cb2bib](https://www.molspaces.com/cb2bib/) - *Reference Extractor / Manager*
 * [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - *Grade School Educational Tools*
 * [Stublio](https://stublio.com/) - *Keep Track of what you're Studying* 
+* [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - *Educational Communication / iOS*
 * [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - *UPSC Telegram Channels* 
 * [AuthorStream](http://www.authorstream.com/) or [Slideshare](https://www.slideshare.net/) - *Watch / Share Slideshows & Presentations* 
 * [Periodic Stats](https://periodicstats.com/), [The Periodic Table Of Elements](https://periodictableofchemicalelements.com/) or [Ptable](https://ptable.com/) - *Interactive Periodic Table* 
