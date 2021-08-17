@@ -65,6 +65,7 @@
 * [Nocourses](https://nocourses.com/) - *Udemy Coupons / Courses* 
 * [Online Courses Tracker](https://comidoc.net/) - *Udemy Coupons / Courses*
 * [SmartyBro](https://smartybro.com/) - *Udemy Coupons / Courses* 
+* [CourseVania](https://t.me/joinchat/AAAAAEGltVf2DWWdtm_-cQ) - *Udemy Coupons / Telegram*
 * [Udemy Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons) - *Udemy Coupon Sites*
 * [UdemyEnrollEverywhere](https://github.com/keethesh/UdemyEnrollEverywhere) - *Auto-Grab Udemy Coupons*
 * [GUdemyBot](https://t.me/GUdemyBot) - *Udemy Coupon Bot* 
@@ -134,6 +135,7 @@
 * [Udemycourses](https://udemycourses.me/) - *Udemy Courses* 
 * [FreeCourseUdemy](https://freecourseudemy.com/) - *Udemy Courses*  
 * [FtuUdemy]( https://www.ftuudemy.com/) - *Udemy Courses* 
+*
 * [CourseForFree](https://courseforfree.com/) - *Udemy Courses*  
 * [Pirate Warez](https://piratewarez.com/) - *Udemy Courses* 
 * [Download Online Tutorials Free](https://download.howtofree.org/) - *Udemy Courses* 
