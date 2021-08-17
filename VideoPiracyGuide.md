@@ -137,6 +137,7 @@
 * [GustaTV](https://www2.gustatv.to/) - *Movies / TV Anime*
 * [Pubfilms](https://old.pubfilms.club/) - *Movies / TV* 
 * [CimaClub](https://www.cimaclub.cc/category/%D8%A3%D9%81%D9%84%D8%A7%D9%85-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86) - *Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
+* [Shahed4u](https://shahed4u.onl:2053/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a-1/) - *Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [GoMoviesFree](https://www13.gomoviesfree.page/) - *Movies / TV / Anime*
 * [Put-Locker](https://ww1.put-locker.com/) or [123moviesc](https://www.123moviesc.co/) - *Movies / TV / Anime* 
 * [Cinehub](https://cinehub.wtf/) - *Movies / TV / [Discord](https://discord.com/invite/ZqHsfSEkBE)* 
