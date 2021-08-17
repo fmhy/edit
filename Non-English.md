@@ -900,8 +900,10 @@
 * **[Flibusta](https://flibusta.is/)** - *Books + [Onion](http://flibustahezeous3.onion/) / Requires account*
 * [VK Book DL Pages](https://redd.it/kne0ba) 
 * [LoveRead.ec](http://loveread.ec/) - *Books / NSFW*
-* [Twirpx](https://www.twirpx.com/) - *Book / Educational* 
+* [Twirpx](https://www.twirpx.com/) - *Books / Educational* 
+* [studmed](https://www.studmed.ru/) - *Books / Educational*
 * [kodges](https://www.kodges.ru/) - *Books* 
+* [rusneb](https://rusneb.ru/) - *Books*
 * [royallib](https://royallib.com/) - *Books*  
 * [Filibusta](https://flibusta.site/) - *Books*
 * [coollib](https://coollib.xyz/) - *Books* 
