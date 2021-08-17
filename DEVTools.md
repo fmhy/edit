@@ -60,6 +60,7 @@
 * [Stack Exchange](https://stackexchange.com/) - *Programming Q&A*
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - *Programming Language Rundowns* 
 * [Typing.io](https://typing.io/) - *Typing Practice for Programmers* 
+* [ReGeX](https://github.com/phikal/ReGeX) - *ReGeX Learning Game / Android*
 * [Karel The Robot](https://github.com/fredoverflow/karel) - *Basic Programming Teaching Environment*
 * [Katacoda](https://www.katacoda.com/) - *Software Engineer Tutorials* 
 * [Interview University](https://github.com/jwasham/coding-interview-university) - *Software Engineer Study Guide Coding*
@@ -127,6 +128,7 @@
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist*
 * [Flounder](https://flounder.online/) - *Gemini Website Builder / [GitHub](https://github.com/alexwennerberg/flounder)* 
 * [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - *Webpage Editor* 
+* [Plunker](https://plnkr.co/) - *Prototype / Test Websites Ideas*
 * [Temper](https://temper.one/) - *Simple HTML Site Creator*
 * [Straw.Page](https://straw.page/) - *Simple Site Creator*
 * [LocalXpose](https://localxpose.io/) - *Reverse Proxy*
@@ -199,6 +201,7 @@
 * [GoNative](https://gonative.io/) - *Convert Websites to Mobile Apps*
 * [Debugtron](https://www.electronjs.org/apps/debugtron) - *Electron App Debugger*
 * [MobileApp-Pentest-Cheatsheet](https://github.com/fuzz-security/MobileApp-Pentest-Cheatsheet) - *Mobile App Penetration Test Index*
+* [Uiautomator2](https://github.com/openatx/uiautomator2) - *Automated App Testing*
 * [PM2](https://pm2.keymetrics.io/) - *Process Manager*
 * [React95](https://react95.io/) - *Windows 95 React Components*
 
@@ -276,8 +279,9 @@
 * [Nightly.link](https://nightly.link/) - *GitHub Sharable Nightly Links*
 * [Sourcegraph](https://about.sourcegraph.com/) - *GitHub Repository Sourcegraph Editor* 
 * [CodeWyng](https://codewyng.io/) - *Browse GitHub like an IDE* 
-* [PR Monitor](https://github.com/fwouts/prmonitor) - *GitHub Pull Request Notifier*  
-* [Whats New GitHub](https://github.com/flawyte/whats-new-github) - *GitHub Repository Change Feed* 
+* [PR Monitor](https://github.com/fwouts/prmonitor) - *Pull Request Notifier*  
+* [Gidget](https://github.com/GDGVIT/gidget) - *Pull Request Notifier / Android*
+* [Whats New GitHub](https://github.com/flawyte/whats-new-github) - *Repository Change Feed* 
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - *Dynamically Generated GitHub Readme Stats* 
 * [Shields.io](https://shields.io/) - *Metadata badges for Github Readmes*
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - *Enable Snake Game on GitHub ReadMe*
@@ -368,6 +372,7 @@
 * [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - *Cloud Platform Index*
 * [CodeSandbox](https://codesandbox.io/), [VSCodium](https://vscodium.com/), [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VS Code* 
 * [Open VSX Registry](https://open-vsx.org/) - *VS Code Editor Extensions*
+* [VSCodeThemes](https://vscodethemes.com/) - *VS Code Themes*
 * [Openshift](https://che.openshift.io/) - *Cloud IDE / Eclipse Che* 
 * [replit](https://replit.com/) - *Browser Based IDE*
 * [JDFiddle](https://jsfiddle.net/ ), [W3Schools](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python), [CollabEdit](http://collabedit.com/), [Portacode](https://portacode.com/), [IDE One](https://www.ideone.com/), [SoloLearn](https://www.sololearn.com/) / [Playground](https://code.sololearn.com/), [JSFiddle](https://jsfiddle.net/) or [PlayCode](https://playcode.io/) - *Online Code Editor* 
