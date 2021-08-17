@@ -154,6 +154,7 @@
 * [0123MoviesHub ](https://0123movieshub.to/) - *Movies / TV / Anime*
 * [123MoviesGo](https://www.123moviesgo.li/) - *Movies / TV*
 * [123MovieWeb](https://123moviesweb.net/) - *Movies*
+* [Sflix](https://sflix.to/) - *Movies / TV*
 
 ***
 
