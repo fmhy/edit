@@ -393,7 +393,7 @@
 * [Get Unstuck](https://socratic.org/) - *Homework Answers / Help* 
 * [Oak National Academy](https://teachers.thenational.academy/) - *Lessons / Quizzes*
 * [Quizlet](https://quizlet.com/) - *Quizzes / Study Material*
-* [guIHelp](https://discord.gg/rgF9jY8CpH) - *Bartleby, Quizlet & Scribd Bot*
+* [guIHelp](https://discord.gg/rgF9jY8CpH) - *Bartleby, Quizlet, Coursehero & Scribd Bot*
 * [Wikiversity](https://www.wikiversity.org/) - *Learning Resources, Guides, Quizzes, Tools & More*
 * [TurtleDiary](https://www.turtlediary.com/) - *Quizzes / Lessons / Games*
 * [SoftSchools](https://www.softschools.com/) - *Worksheets / Games / Quizzes*
