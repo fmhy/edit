@@ -553,6 +553,7 @@ RSS Player*
 * [DownTube](https://github.com/MrAdamBoyd/DownTube) or [YouDown](https://apps.apple.com/sa/app/youdown/id1487658334) - *YouTube Downloader* 
 * [Noctis12](https://repo.packix.com/package/com.laughingquoll.noctis12/) - *iOS 12 Dark Mode*
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books*
+* [GlobeConvert](https://apps.apple.com/us/app/globeconvert-currency-units/id334851202) - *Currency / Unit Converter*
 * [Katarogu](https://apoorvaaditya.github.io/katarogu/) or [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - *MyAnimeList App*
 * [Otraku](https://github.com/lotusgate/otraku) - *AniList App*
 * [Grffe](https://apps.apple.com/ca/app/grffe-wallpapers/id1521368829) - *Static and Live Backgrounds* 
@@ -620,6 +621,7 @@ RSS Player*
 * [iPASpot](https://ipaspot.app/) - *Hacked / Tweaked iOS Apps* 
 * [iPABox](https://apps.ipabox.store/ipalibrary/index.html) - *Hacked / Tweaked iOS Apps* 
 * [LocalAPStore](https://repo.hackyouriphone.org/localiapstore) or [My iAP Cracker](https://repo.hackyouriphone.org/myiapcracker) - *In-App Purchase Mods*
+* [AppSync Unified](https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified) - *IPA Installation Tweak*
 * [iosninja](https://iosninja.io/ipa-library) - *App Sideload Files*
 * [TestFlight](https://testflight.apple.com/) - *Test Beta Apps / [Links](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/)*
 
