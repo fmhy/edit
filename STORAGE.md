@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/q9zmICP.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/484WL0a.png)** - *For mobile users*
 
 ***
 ***
@@ -52,6 +52,7 @@
 * https://www.oscobo.com/
 * https://www.search.com/
 * https://www.metacrawler.com/
+* https://www.entireweb.com/
 * https://www.chatnoir.eu/
 * https://search.carrot2.org/#/web
 * http://www.surfcanyon.com/
@@ -191,6 +192,12 @@
 #### Base64 Decode Extensions
 
 [Chrome](https://chrome.google.com/webstore/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/), [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
+
+***
+
+#### BetterDiscord Tools
+
+[Plugins](https://rauenzi.github.io/BetterDiscordAddons/), [2](https://mwittrien.github.io/) / [Addons](https://github.com/QbDesu/BetterDiscordAddons) / [Themes](https://www.limeshark.dev/editor), [2](https://gibbu.me/editor), [3](https://theme.codedotspectra.me/), [4](https://0x71.cc/bd/theme/) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd), [2](https://discord.gg/sbA3xCJ) / [Animated PFP](https://discord.gg/xzwKqwvQcP) / [Toggle Game Activity](https://github.com/BD-MemorySeal/DevilBro-Alternatives/tree/distribution) / [Emojis](https://raw.githubusercontent.com/QbDesu/BetterDiscordAddons/potato/Plugins/Freemoji/Freemoji.plugin.js)
 
 ***
 
@@ -1129,6 +1136,12 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
+#### Powercord Tools
+
+[CSS](https://discord.gg/QfGXuvy6Qn) / [Plugins](https://github.com/topics/powercord-plugin) / [Embed Generator](https://github.com/TheShadowGamer/safe-embed-generator), [2](https://github.com/ThykeAdams/-PowerCord-Embedify) / [Theme Converter](https://cr3atable.github.io/Powerconvert) / [Premid](https://github.com/MulverineX/premid-powercord) / [Dark Theme](https://github.com/zespire/dark-theme) / [Pronouns](https://github.com/cyyynthia/pronoundb-powercord)
+
+***
+
 #### Proxy Lists
 
 **[PROXY List](https://github.com/TheSpeedX/PROXY-List)**, [Free-Proxy-List](https://free-proxy-list.net/), [Proxy-Daily](https://proxy-daily.com/), [Cool-Proxy](https://www.cool-proxy.net/), [free-proxies](https://scrapingant.com/free-proxies/)
@@ -1216,6 +1229,12 @@ Add the following commands to a search to manually scrape each site.
 #### Reverse Image Search
 
 **[Search by Image](https://github.com/dessant/search-by-image)**, [TinEye](https://tineye.com/) / [Extension](https://tineye.com/extensions), [Duplichecker](https://www.duplichecker.com/reverse-image-search.php), [Image Raider](https://infringement.report/api/raider-reverse-image-search/), [ascii2d](https://ascii2d.net/), [iqdb](http://iqdb.org/), [Reverse Image Analyser](https://www.osintcombine.com/reverse-image-analyzer), [same.energy](https://same.energy/), [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/)
+
+***
+
+#### Ripcord Tools
+
+[Themes](https://web.archive.org/web/20210116022920/https://tmad40.blue/ripcord_color_schemes.html) / [Binary Patcher](https://github.com/geniiii/patcher) / [Better Notifications](https://github.com/efskap/discord-notify)
 
 ***
 
@@ -1354,6 +1373,12 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
+#### Soundcloud Downloaders
+
+[SoundCloud Downloader](https://github.com/NotTobi/soundcloud-dl), [Klickaud](https://www.klickaud.co/), [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837-local-soundcloud-downloader), [SoundCloud-Playlist-Sync](https://github.com/erwinkramer/SoundCloud-Playlist-Sync), [Soundcloud-Downloader](https://github.com/Kawaizombi/kawai-scripts/tree/master/projects/soundcloud-downloader), [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/)
+
+***
+
 #### Spanish Anime Telegram
 
 [Animes480pFinalizados](https://t.me/Animes480pFinalizados), [Anime480p_Emision](https://t.me/Anime480p_Emision), [AndrossElLegado](https://t.me/AndrossElLegado), [noticiasmanganime](https://t.me/noticiasmanganime/), [animes_kawais](https://t.me/animes_kawais), [SimplementeAnime](https://t.me/SimplementeAnime), [animesfinalizadoLSHD](https://t.me/animesfinalizadoLSHD), [AnimeDark17](https://t.me/AnimeDark17)
@@ -1363,6 +1388,12 @@ Add the following commands to a search to manually scrape each site.
 #### Sports Streaming Subs
 
 [/r/MLBStreams](https://www.reddit.com/r/MLBStreams/), [/r/ncaaBBallStreams/](https://www.reddit.com/r/ncaaBBallStreams/), [/r/WWEstreams/](https://www.reddit.com/r/WWEstreams/), [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/)
+
+***
+
+#### Spotify Tools
+
+[Block Ads](https://github.com/mrpond/BlockTheSpot), [2](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/), [3](https://github.com/Lyut/SpotiHook2) / [Lyrics](https://versefy.app/) / [Spicetify](https://github.com/khanhas/spicetify-cli), [2](https://github.com/khanhas/Spicetify) / [Spicetify Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Dedup](https://spotify-dedup.com/) / [Hotkeys](https://github.com/aleab/toastify) / [Colorize](https://colorify.live/) / [Backup](http://www.spotmybackup.com/) / [Library Size](https://opslagify.deruever.nl/) / [Listening Stats](https://www.statsforspotify.com/) / [Plex Player](https://github.com/fuzeman/Spotify2.bundle) / [Disable Updates](https://www.filedropper.com/spotifydisableautoupdateswithrevert ) / [Ad Host Files](https://gist.github.com/teomaragakis/cb187d880c9a3ca2c8a2), [2](https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57)
 
 ***
 
@@ -1674,7 +1705,22 @@ Add the following commands to a search to manually scrape each site.
 
 #### Text Adventures
 
-[iFiction](https://www.ifiction.org/) (Index), [Pac-Txt](http://www.pactxt.com/), [AI Dungeon](https://play.aidungeon.io/main/landing), [A Dark Room](http://adarkroom.doublespeakgames.com/), [Addventure](http://addventure.com/addventure/), [The Never Ending Quest](https://www.sir-toby.com/extend-a-story/story-1/code/read.php), [The Text Adventure](https://kevan.org/wikitext/), [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/) 
+[iFiction](https://www.ifiction.org/) (Index), [Pac-Txt](http://www.pactxt.com/), [AI Dungeon](https://play.aidungeon.io/main/landing), [A Dark Room](http://adarkroom.doublespeakgames.com/), [Addventure](http://addventure.com/addventure/), [The Never Ending Quest](https://www.sir-toby.com/extend-a-story/story-1/code/read.php), [The Text Adventure](https://kevan.org/wikitext/), [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Crank](https://faedine.com/games/crank/b39/) 
+
+***
+
+#### Text to Speech
+
+* [Flow](https://lx.sg/flow)
+* [Balabolka](http://balabolka.site/bportable.htm) / [2](http://www.cross-plus-a.com/bportable.htm)
+* [15.ai](https://15.ai/)
+* [From Text to Speech](http://www.fromtexttospeech.com/) 
+* [Text To Speech](https://texttospeech.ca/)
+* [ttsMP3](https://ttsmp3.com/)
+* [Vo.codes](https://vo.codes/)
+* [Uberduck](https://uberduck.ai/) / [Discord](https://discord.gg/ATYWnMu)
+* [readloud](https://readloud.net/)
+* [NaturalReaders](https://www.naturalreaders.com/online/)
 
 ***
 
