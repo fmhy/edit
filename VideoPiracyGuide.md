@@ -491,7 +491,6 @@
 * [SomosMovies](https://somosmovies.com/) - *Movies* 
 * [SeriesVault](https://seriesvault.win/) - *TV / Anime* 
 * [o2tvseries](https://o2tvseries.com/) - *TV*  
-* [FlixSeries](https://flixseries.club/) - *TV* 
 * [MiCineHD](https://www.micinehd.com/) - *Movies / TV* 
 * [MoviesVerse](https://moviesverse.net/) - *Movies / TV*
 * [TVindexer](https://tvindexer.com/) - *Movies / TV / Anime*
