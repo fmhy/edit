@@ -649,6 +649,7 @@
 * [manned.org](https://manned.org/) - *Index of operating system manuals*
 * [JDMFSM](http://jdmfsm.info/Auto/), [CarPDFManual](https://www.carpdfmanual.com/renault/) or [ProCarManuals](https://procarmanuals.com/) - *Auto Repair Manuals* 
 * [Ownersman.com](https://ownersman.com/) - *Car Owner Manuals* 
+* [Kevincfi](https://www.kevincfi.com/files) - *Aeronautics Manuals*
 * [Floss Manuals](https://www.flossmanuals.net/) - *Software Manuals* 
 * [replacementdocs](http://www.replacementdocs.com/) - *Game Manuals* 
 * [Retrevo](http://www.retrevo.com/) - *Product Manuals* 
