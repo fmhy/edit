@@ -108,6 +108,7 @@
 * [Flac123](https://www.flac123.com/) - *Music* 
 * [J-pop Music Download](https://jpop.xyz/) - *Music / FLAC / MP3* 
 * [tlanyan](https://tlanyan.me/) - *Linux / Software*  
+* [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - *Courses / [icourse163](https://www.icourse163.org/)*
 
 ## ▷ Torrenting
 
@@ -130,11 +131,12 @@
 * [ifsp](https://www.ifsp.tv/) - *Movies / TV / Anime* 
 * [tangrenjie](https://www.tangrenjie.tv/) - *Movies / TV / Anime* 
 * [v.qq](https://v.qq.com/) - *Movies / TV / Anime*
+* [MoMoVOD](https://momovod.tv/) - *Movies / TV / Anime*
 * [uvod.tv](https://www.uvod.tv/) - *Movies / TV / Anime*
 * [IcDrama](http://icdrama.video/) - *Movies / TV*
 * [Meiju](https://www.meiju11.com/) or [iMeiju](https://www.imeiju.net/) - *Movies / TV*
 * [Nunu Cinema](https://www.nunuyy.com/) - *Movies / TV*
-* [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - *Courses / [icourse163](https://www.icourse163.org/)*
+* [qiqi8 ](http://qiqi8.net/) - *Anime*
 * [music.163](https://music.163.com/) - *Music*
 * [jsososo](http://y.jsososo.com/), [2](http://music.jsososo.com/) - *Music* 
 
