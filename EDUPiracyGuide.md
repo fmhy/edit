@@ -308,7 +308,7 @@
 * **[Awesome-Lang](https://github.com/oyd11/awesome-lang)** - *Language Learning Resource Index* 
 * **[Languages and Linguistics](https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w)** - *Language Learning Books*
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - *Multi Language Dictionary Index*
-* [WordReference](https://www.wordreference.com/) or [Reverso](https://reverso.net/) - *Translation Dictionary* 
+* [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - *Translation Dictionary* 
 * [Memrise](https://www.memrise.com/), [Busuu](https://www.busuu.com/en/) or [Duolingo](https://www.duolingo.com/) - *Language Learning Lessons* 
 * [Yojik](https://fsi-languages.yojik.eu/index.html) or [ESOL](https://www.esolcourses.com/) - *Language Learning Courses*
 * [Language Transfer](https://www.languagetransfer.org/) - *Language Learning Courses / Audio*
