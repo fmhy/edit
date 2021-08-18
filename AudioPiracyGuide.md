@@ -47,7 +47,6 @@
 * [datpiff](https://www.datpiff.com/) - *Mixtapes*
 * [pumpyouup](http://www.pumpyouup.com/) - *Indie Dubstep*
 * [musopen](https://musopen.org/music/) - *Classical*
-* [jamendo](https://www.jamendo.com/) - *Independent*
 * [Bandcamp](https://bandcamp.com/tag/free-music?tab=all_releases) - *Free Bandcamp Music* 
 * [GetFVid](https://www.getfvid.com/) - *Facebook Video / Audio Downloader* 
 * [AudionautiX](https://audionautix.com/) - *Mood based streaming*
