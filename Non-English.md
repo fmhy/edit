@@ -96,6 +96,7 @@
 * [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - *Chinese Site / Tool Index*
 * [zimuku](http://zimuku.org/) - *Subtitles*
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
+* [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io) - *Bypass Chinese Firewall*  
 
 ## ▷ Downloading
 
