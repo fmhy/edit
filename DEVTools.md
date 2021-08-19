@@ -124,7 +124,7 @@
 * [Alexa Site Info](https://www.alexa.com/siteinfo) - *Site Traffic Stats / Analysis*
 * [Resolve.rs Tools](https://resolve.rs/tools.html) - *Site Domain / IP Tools*
 * [Namechk](https://namechk.com/), [Username Checker](https://checkuser.org/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Check Username / Domain Availability*
-* [Pyfunceble](https://pyfunceble.github.io/#/) or [Domainr](https://domainr.com/) - *Check IP / Domain Availability* 
+* [Pyfunceble](https://pyfunceble.github.io/#/), [Whois.com](https://www.whois.com/) or [Domainr](https://domainr.com/) - *Check IP / Domain Availability* 
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist*
 * [Flounder](https://flounder.online/) - *Gemini Website Builder / [GitHub](https://github.com/alexwennerberg/flounder)* 
 * [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - *Webpage Editor* 
