@@ -684,6 +684,7 @@ RSS Player*
 * [Movie Finder](https://apps.apple.com/de/app/movie-finder-movie-by-image/id1560301878) - *Movies / TV*
 * [Finnci](https://apps.apple.com/us/app/finnci/id1576317327) - *Movies*
 * [Airy TV](https://airy.tv/) - *Legal / Live TV*  
+* [STBEmu](https://apps.apple.com/app/stbemutv/id1567306197) - *Emulate a STB and watch IPTV*
 * [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - *Chinese Drama*
 * [RSS Player](https://apps.apple.com/us/app/rss-video-player/id885311320) - *KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)*
 * [Wako-TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - *Movies / TV / Anime / Real Debrid required*
