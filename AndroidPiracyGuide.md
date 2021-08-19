@@ -26,7 +26,7 @@
 * [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - *Block Spam Calls*
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - *Opt Out of Telemarketing Calls* 
 * [Slide](https://github.com/ccrama/Slide), [2](https://f-droid.org/en/packages/me.ccrama.redditslide/) or [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - *Ad Free Reddit Client*
-* [TwitchMod](https://t.me/pubTw ) - *Ad Free Twitch App*
+* [TwitchMod](https://t.me/pubTw), [Twire](https://f-droid.org/packages/com.perflyst.twire/) or [multiChat](https://play.google.com/store/apps/details?id=org.mchatty) - *Ad Free Twitch App*
 
 ***
 
@@ -408,6 +408,7 @@ App Manager
 * [Tuner Radio](https://www.downloader.world/) - *Movies / TV*
 * [Rokkr](http://www.rokkr.net/ ) - *Movies / TV / 
 Add "huhu.to", "bs.to" or "oha.to"* 
+* [STBEmu](https://docs.stbemu.com/download/) - *Emulate a STB and Watch IPTV*
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - *YTS Torrents* 
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - *Chinese Drama* 
 * [Drama Cool](https://play.google.com/store/apps/details?id=com.dramaline) - *Asian Drama*
@@ -415,7 +416,6 @@ Add "huhu.to", "bs.to" or "oha.to"*
 * [RSS Player](https://play.google.com/store/apps/details?id=pis.android.rss.rssplayer&amp;hl=en_US) - *KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)
 RSS Player*
 * [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [YetAnotherVideoPlayer](https://github.com/shadow578/YetAnotherVideoPlayer) or [MX Player](https://forum.mobilism.org/search.php?keywords=Mx+player&amp;terms=all&amp;author=Balatan&amp;sc=1&amp;sf=titleonly&amp;sr=topics&amp;sk=t&amp;sd=d&amp;st=0&amp;ch=300&amp;t=0&amp;submit=Search) - *Video Player*
-* [Twire](https://f-droid.org/packages/com.perflyst.twire/) or [multiChat](https://play.google.com/store/apps/details?id=org.mchatty) - *Ad Free Twitch* 
 * [Android TV Mod](https://t.me/androidtvmod) - *Android TV / Fire TV / Fire Stick / Mods / Telegram*  
 * [Great Courses Plus Premium](https://onehack.us/t/get-the-great-courses-plus-premium-android/92613) - *Courses*
 * [Showly 2.0](https://github.com/michaldrabik/showly-2.0) or [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide/) - *Movie / TV Tracker* 
