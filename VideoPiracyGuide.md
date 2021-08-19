@@ -381,6 +381,7 @@
 * [cytube](https://cytu.be/) - *TV / Chat*
 * [6stream](http://6stream.xyz/) - *Sports*
 * [Your Sports Stream](http://yoursports.stream/) - *Sports*
+* [Icelz](https://icelz.newsrade.com/) - *Sports*
 * [livetv](http://livetv.sx) - *Sports*
 * [bilaSport](http://bilasport.net/) - *Sports*
 * [NBAFullMatch](https://nbafullmatch.com/) - *Sports*
@@ -392,7 +393,6 @@
 * [TheHomeSports](https://thehomesport.com/) - *Sports* 
 * [Live-Sport](https://live-sport.online/) - *Sports* 
 * [CricHD](https://fc2.crichd.com/new-home7) - *Sports* 
-* [MyP2Px](http://myp2px.eu/) - *Sports*
 * [LiveOnScore](http://liveonscore.tv/) - *Sports* 
 * [Sports24](https://sports24.stream/) - *Sports*
 * [Black Tie Sports](https://blacktiesports.net/) - *Sports* 
