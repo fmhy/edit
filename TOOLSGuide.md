@@ -308,7 +308,7 @@
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - *Scan & Digitize Documents / iOS*
 * [Color Schemes / Palettes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes/) - *Color Scheme / Palette Tools*
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - *Image Color Scatter Plot* 
-* [Remove.bg](https://www.remove.bg/), [Rembg](https://github.com/danielgatis/rembg) or [Background Burner](https://burner.bonanza.com/) - *Remove background from a image / [Gimp Plugin](https://github.com/manu12121999/RemoveBG-GIMP) unlimited accounts w/ [Temp Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)*
+* [Remove.bg](https://www.remove.bg/), [Rembg](https://github.com/danielgatis/rembg), [Removal.ai](https://removal.ai/upload/) or [Background Burner](https://burner.bonanza.com/) - *Remove background from a image / [Gimp Plugin](https://github.com/manu12121999/RemoveBG-GIMP) unlimited accounts w/ [Temp Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)*
 * [behind!](https://github.com/kubuzetto/behind) - *View Background Images*   
 * [Google Photos Plus](https://github.com/anamritraj/google-photos-plus) - *Download photos from Google Photos in better quality*
 * [google-images-download](https://github.com/hardikvasa/google-images-download) - *Download Images from Google Images* 
@@ -1513,7 +1513,7 @@ General Reading Sites*
 
 ## ▷ Linux Tools
 
-* **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)** or **[Friendly GNU](https://fglt.nl/guides/picking-a-distro.html)** - *Linux OS Index / Guides*
+* **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)**, **[Friendly GNU](https://fglt.nl/guides/picking-a-distro.html)** or [ComputerFreely](https://computefreely.org/) - *Linux OS Index / Guides*
 * [Linux Piracy](https://rentry.co/LinuxPiracy) - *Linux Piracy Guide*
 * [Distrochooser](http://distrochooser.de/?l=2) - *Linux OS Chooser*
 * [LinuxTracker](https://linuxtracker.org/) - *Linux OS Torrents*
