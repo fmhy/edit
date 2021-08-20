@@ -72,7 +72,7 @@
 
 # ► Torrent Sites
 
-* **WARNING** - We do *not* recommend downloading software or games from these. Use trusted sites like FitGirl or FileCR instead. 
+* **WARNING** - It's best to avoid sites that allow any users to upload when getting both software and games.  
 
 ***
 
