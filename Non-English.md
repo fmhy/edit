@@ -793,7 +793,7 @@
 * [cwer](http://cwer.ru/) - *Video / Audio / Software / Games / Android*  
 * [rsload](https://rsload.net/) - *Software / Android / Games*
 * [2BakSa](http://2baksa.ws/) - *Video / Audio / Games / Software / Books* 
-* [kinogo](https://kinogo.la/) - *Movies / TV / Anime*
+* [Kinogo](https://kinogo.la/) - *Movies / TV / Anime / [Telegram](https://t.me/kinogoby)*
 * [allmults](https://allmults.org/) - *Movies*  
 * [COMSS.CLUB](https://www.comss.ru/) - *Software / Android*
 * [DIAKOV](https://diakov.net/) - *Software* 
@@ -874,7 +874,7 @@
 
 * [rezka](https://rezka.ag/) - *Movies / TV / Anime*
 * [baskino](http://baskino.me/) - *Movies*
-* [kinogo](https://kinogo.la/) - *Movies / TV / Anime*
+* [Kinogo](https://kinogo.la/) - *Movies / TV / Anime / [Telegram](https://t.me/kinogoby)*
 * [Kinotochka](https://kinotochka.co/) - *Movies / TV / Anime*
 * [filmix](https://filmix.co/) - *Movies*
 * [kinokong](https://kinokong.org/) - *Movies / TV* 
