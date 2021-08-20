@@ -355,6 +355,7 @@
 * [Mojeek](https://www.mojeek.com/)
 * [SKYN3T](https://skyn3t.in/)
 * [Privado](https://www.privado.com/) 
+* [Brave Search](https://search.brave.com/)
 * [peekier](https://peekier.com/)
 * [Yippy](https://yippy.com/)
 * [WhaleSlide](https://whaleslide.com/)
