@@ -289,6 +289,7 @@
 * [SSL Labs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html) - *SSL/TLS Browser Capabilities Test*
 * [IP / DNS Leak Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_dns_leak_tests) - *Test for IP & DNS Leaks*
 * [DNSCookie](http://dnscookie.com/) - *Identify Related Network Flows*
+* [Phish.Report](https://phish.report/) - *Report Phishing Sites*
 * [How-To Turn off IPv6](https://www.itechguides.com/disable-ipv6-windows-10/) - *Prevent IP Leaks*
 * [IPv6 Leak Test](https://ip6.nl/), [Test-IPv6](https://test-ipv6.com/) or [IPv6 Test](https://ipv6-test.com/) - *IPv6 Leak Test*
 * [Voidsec](https://ip.voidsec.com/) or [WebRTC Leak Test](https://www.expressvpn.com/webrtc-leak-test) - *WebRTC Leak Test*
@@ -298,7 +299,6 @@
 * [Pi.Alert](https://github.com/pucherot/Pi.Alert) - *Network Monitor*
 * [Google Takeout](https://takeout.google.com/) - *Google Data Request*
 * [de-google](https://www.reddit.com/r/privacy/wiki/de-google), [De-google-ify](https://degooglisons-internet.org/en/), [degoogle](https://degoogle.jmoore.dev/) or [No More Google](https://nomoregoogle.com/) - *Google App Alternatives*
-* [Crx4Chrome](https://www.crx4chrome.com/) - *Alt Google App Store*
 * [no-google](https://github.com/nickspaargaren/no-google) - *Block All Google Services* 
 * [Nixory](http://nixory.sourceforge.net/) - *Antispyware Browser Tool* 
 * [Dark Launch Referer Test](https://www.darklaunch.com/tools/test-referer) - *Check Link Referrer*
