@@ -135,11 +135,11 @@
 * [Udemycourses](https://udemycourses.me/) - *Udemy Courses* 
 * [FreeCourseUdemy](https://freecourseudemy.com/) - *Udemy Courses*  
 * [FtuUdemy]( https://www.ftuudemy.com/) - *Udemy Courses* 
-*
 * [CourseForFree](https://courseforfree.com/) - *Udemy Courses*  
 * [Pirate Warez](https://piratewarez.com/) - *Udemy Courses* 
 * [Download Online Tutorials Free](https://download.howtofree.org/) - *Udemy Courses* 
 * [Udemy Free Course](https://t.me/udemy_free_cource) - *Udemy Courses* 
+* [Web Dev Courses](https://drive.google.com/drive/folders/17nOoned_J-RzAlCXaHEcEvdQC3LDOCC0) - *Web Development Courses*
 * [6.04 TB Paid [C]ourses](https://mega.nz/folder/vRhSiagQ#H_G_aUZNrbLE5fPtTjPoeQ/folder/TAhQRSqK) - *Marketing Courses / Drive*
 * [hackingworld.best 1.3TB](https://mega.nz/folder/eeIzlAjL#zGa0iHkQJu0JmP4BayAJ3A) - *Marketing Courses* 
 * [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
@@ -307,6 +307,7 @@
 
 * **[Awesome-Lang](https://github.com/oyd11/awesome-lang)** - *Language Learning Resource Index* 
 * **[Languages and Linguistics](https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w)** - *Language Learning Books*
+* [The Language Exchange Network](https://discord.gg/jxcVmHJ) - *Language Learning Network*
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - *Multi Language Dictionary Index*
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - *Translation Dictionary* 
 * [Memrise](https://www.memrise.com/), [Busuu](https://www.busuu.com/en/) or [Duolingo](https://www.duolingo.com/) - *Language Learning Lessons* 
@@ -322,6 +323,7 @@
 * [Lang-8](https://lang-8.com/) - *Learn Languages with help from Native Speakers* 
 * [Readlang](https://readlang.com/) - *Learn a Language While Web Browsing* 
 * [Polyglot](https://polyglotclub.com/) - *Offline Language Exchange* 
+* [South Asian Languages](https://discord.gg/TrdqTDdMba) - *South Asian Language Learning*
 * [StudySpanish](https://studyspanish.com/) - *Spanish Learning Tutorials*
 * [AnimeLon](https://animelon.com/) - *Streaming / Anime / Learn Japanese*
 * [Marshall's Site](https://marshallyin.com/) or [Tofugu](https://www.tofugu.com/) - *Learn Japanese* 
@@ -370,6 +372,7 @@
 * **[Awesome Research](https://github.com/emptymalei/awesome-research)** - *Research Tools Index* 
 * **[PhET](https://phet.colorado.edu/)** - *STEM / Interactive*
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Infinite trial by clearing cookies & making new account*
+* **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - *Grammar Checking Tools*
 * **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
 * [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - *Touch Typing Tutorial*
 * [Learn Anything](https://learn-anything.xyz/) - *Interactive Learning Map* 
@@ -399,6 +402,8 @@
 * [SoftSchools](https://www.softschools.com/) - *Worksheets / Games / Quizzes*
 * [FactMonster](https://www.factmonster.com/) - *Exercises/ Flashcards*
 * [BrainPOP Jr.](https://jr.brainpop.com/) - *Quizzes / Animations*
+* [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - *5-Minute Audio Lessons / iOS*
+* [Lucid](https://apps.apple.com/us/app/lucid-learn-visually/id1482780647) - *Visual Learning Guides / iOS*
 * [The SAT: Practice Test 3](https://collegereadiness.collegeboard.org/pdf/sat-practice-test-3.pdf) - *SAT Practice Test*
 * [CrackAP](https://www.crackap.com/) - *Practice AP Exams*
 * [/r/ApStudents Resources](https://drive.google.com/open?id=1mPT8O9Nou4udtUQOl0W8dk5JgeRNZHSI) - *Former AP Exams*
@@ -455,7 +460,6 @@
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/) - *Learn about Logical Fallacies* 
 * [YourBiasIs](https://yourbias.is/) - *Learn about Biases* 
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - *Learn to Tie Knots* 
-* [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
 * [Pol Art Folder](https://mega.nz/folder/rVcExIbB#VN9alzay0OrctggvEn1DUg) - *Historic European Art & Paintings*
 * [vads](https://vads.ac.uk/digital/) - *Digital Art Collection*
 * [RandomInternetMuseum](https://www.randominternetmuseum.com/) - *Random Art Gallery*
