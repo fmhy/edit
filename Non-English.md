@@ -118,6 +118,7 @@
 * [Share.dmhy](http://share.dmhy.org/) - *Anime / Manga / Games / Music* 
 * [dytt8](https://dytt8.net/), [dy2018](https://dy2018.com/), [ygdy8](https://ygdy8.com/index.html) or [dydytt](https://www.dydytt.net) - *Movies / TV / Anime*
 * [piaohua](https://www.piaohua.com/) - *Movies / TV / Anime*
+* [高清电台](https://gaoqing.fm/) - *Movies / TV / Anime / Use VPN or Google Translate to Access*
 * [RARBT](http://www.rarbt.cc/) - *Movies* 
 * [ACG.rip](https://acg.rip/) - *Anime / Music* 
 * [Snow-Raws](https://snow-raws.com/) - *Anime / [Official Tracker](https://www.skyey2.com/)*
