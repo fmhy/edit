@@ -67,8 +67,10 @@
 * [Hacksplaining](https://www.hacksplaining.com/) - *Developer Security Lessons*
 * [Publish Something Online](https://publishsomething.online/) - *Site Development Guides*
 * [LandChad](https://landchad.net/) - *Site Development Guide*
+* [Web Dev Courses](https://drive.google.com/drive/folders/17nOoned_J-RzAlCXaHEcEvdQC3LDOCC0) - *Web Development Courses*
 * [WeCreators](https://www.wecreators.co/creators-tools) - *Site Development / Influencer Courses*
 * [How-to Host Questionable Websites](https://weboas.is/media/host.png) - *Guide / [PDF](https://weboas.is/media/host.pdf)*
+* [Learn Git Branching](https://learngitbranching.js.org/) - *Interactive Git Branching Guide*
 * [Learn SQL](https://sqlbolt.com/) - *SQL Lessons*
 * [LearnCSSGrid](http://learncssgrid.com/) - *CSS Grid Guide*
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
@@ -145,6 +147,7 @@
 * [WebDesigner](https://webdesigner.withgoogle.com/) or [Animate.css](https://animate.style/) - *Create Interactive Motion Graphics*
 * [MapBox](https://www.mapbox.com/) - *Live Maps, Location Search & More*
 * [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)- *Penetration Testing Resources*
+* [OpenBullet](https://github.com/openbullet/openbullet) - *Webtesting Suite*
 * [CanIUse?](https://caniuse.com/) - *Browser Support Tables*
 * [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - *Archive, Scrape & Crawl Sites* 
 * [Clone Zone](http://clonezone.link/) - *Tweak / Clone Webpages* 
@@ -187,6 +190,7 @@
 * [Radare](https://rada.re/r/) or [Cutter](https://github.com/rizinorg/cutter) - *Reverse Engineering Framework* 
 * [Read the Docs](https://readthedocs.org/) - *Make Documentation for your Software*
 * [Inno Setup](https://jrsoftware.org/isinfo.php) - *Windows Program Installer*
+* [Flatpak](https://flatpak.org/) - *Create & Distribute Linux Applications*
 
 ***
 
@@ -359,6 +363,7 @@
 * [py-modindex](https://docs.python.org/3/py-modindex.html) - *Python Modules List / Tutorials*
 * [JSONView](https://jsonview.com/) - *JSON Viewer* 
 * [JSON Formatter](https://jsonformatter.curiousconcept.com/) or [json-formatter](https://github.com/callumlocke/json-formatter) - *JSON Formatter* 
+* [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) - *JSON Viewer & Editor*
 * [glogg](https://glogg.bonnefon.org/) - *Log File Explorer*
 * [Carbon](https://carbon.now.sh/) - *Source Code Screenshots*
 * [Code::Stats](https://codestats.net/) - *Programmer Stat Tracking*
@@ -369,17 +374,19 @@
 ## ▷ Cloud IDEs / Collab
 
 * **[goormIDE](https://ide.goorm.io/)**, [Codeanywhere](https://codeanywhere.com/), [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [Anyfiddle](https://www.anyfiddle.com/) or [Glitch](https://glitch.com/) - *Cloud IDE / [Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) / [Themes](https://oslo-vsc.netlify.app/)* 
+* [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - *Text / Code Collaboration Tools*
+* [Jetbrains Ultimate IDEs](https://rentry.org/52oyb) - *Jetbrains Ultimate IDEs Trial Reset Guide*
 * [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - *Cloud Platform Index*
 * [CodeSandbox](https://codesandbox.io/), [VSCodium](https://vscodium.com/), [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VS Code* 
 * [Open VSX Registry](https://open-vsx.org/) - *VS Code Editor Extensions*
 * [VSCodeThemes](https://vscodethemes.com/) - *VS Code Themes*
 * [Openshift](https://che.openshift.io/) - *Cloud IDE / Eclipse Che* 
 * [replit](https://replit.com/) - *Browser Based IDE*
+* [KDevelop](https://www.kdevelop.org/) - *Cross Platform IDE*
 * [JDFiddle](https://jsfiddle.net/ ), [W3Schools](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python), [CollabEdit](http://collabedit.com/), [Portacode](https://portacode.com/), [IDE One](https://www.ideone.com/), [SoloLearn](https://www.sololearn.com/) / [Playground](https://code.sololearn.com/), [JSFiddle](https://jsfiddle.net/) or [PlayCode](https://playcode.io/) - *Online Code Editor* 
 * [glot.io](https://glot.io/) - *Pastebin with Runnable Snippets, API & Compiler* 
 * [Mystb.in](https://mystb.in/) - *Code Pastebin*
 * [myCompiler](https://www.mycompiler.io/), [IDE One](https://www.ideone.com/) or [Wandbox](https://wandbox.org/) - *Online Compiler* 
-* [Google Colaboratory](https://colab.research.google.com/), [Mattermost](https://mattermost.com/), [HackMD](https://hackmd.io/), [CryptPad](https://cryptpad.fr/) or [Socket](https://socket.io/) - *Text / Code Collaboration / [Python Online](https://onehack.us/t/awazing-colab-notebook-all-in-one/76652)*
 * [Notebooks.azure](https://notebooks.azure.com/) - *Access Jupyter notebooks* 
 * [CoCalc](https://cocalc.com/) - *Virtual online workspace*
 * [CodePen](https://codepen.io/) - *Code Sandbox* 
