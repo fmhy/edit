@@ -11,7 +11,7 @@
 
 # ► Download Directories
 
-* **WARNING** - Some Open Directories grab IP  addresses, so it's highly recommended to use a VPN or Tor when accessing them.
+* **WARNING** - Some Open Directories grab IP's, so it's recommended to use a VPN or Tor when accessing them.
 
 ***
 
@@ -38,7 +38,7 @@
 
 # ► Download Sites
 
-* **WARNING** - We do *not* recommend downloading software or games from these. Use trusted sites like FitGirl or FileCR instead. 
+* **WARNING** - It's best to avoid sites that allow any users to upload when getting both software and games.  
 
 ***
 
@@ -194,6 +194,7 @@
 * [raymondfreesoftware](https://sites.google.com/site/raymondfreesoftware/) - *[Telegram](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g)* 
 * [ALTERNATIVES](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md) - *Lightweight Software Index*
 * [Rarewares](https://www.rarewares.org/) - *Rare Software*
+* [winget.run](https://winget.run/) - *Winget Packages*
 * [RADIXX11](https://radixx11rce2.blogspot.com/), [Izofile](https://izofile.com/), [Soft2Ev](https://www.soft2ev.com/), [CrackedFine](https://crackedfine.com/), [Keygen Fortress](https://t.me/keygen_fortress), [SmartSerials](https://smartserials.com/), [SerialReactor](https://serialreactor.com/) or [Serials](https://www.serials.ws/) - *Software Keys / Patches*
 * [Software Heritage](https://www.softwareheritage.org/) - *Software Source Code Archive* 
 * [balenaHub](https://hub.balena.io/) - *Raspberry Pi Software* 
