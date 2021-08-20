@@ -492,6 +492,7 @@
 * [medrxiv](https://www.medrxiv.org/) - *Medicine Preprints*
 * [Lee B. Drive](https://drive.google.com/drive/u/0/mobile/folders/183tf8PmQbwgVC7HrxOZ5WQPulVd-Uomi) - *Books / Black History / Educational*
 * [Butterick’s Practical Typography](https://practicaltypography.com/) - *Typography Guide Book*
+* [Alt Law Forum](https://altlawforum.org/) - *Alternative Law Forum*
 * [Cheatography](https://cheatography.com/) - *Educational Cheat Sheets* 
 * [Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/) - *Online Learning Collections* 
 * [masterWiki](https://masterwiki.how/) - *MasterClass Classes Republished as wikiHow Articles* 
