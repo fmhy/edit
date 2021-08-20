@@ -713,5 +713,7 @@
 * [openScale](https://f-droid.org/packages/com.health.openscale/) - *Weight & Body Metrics Tracker*
 * [Simple Science Fitness](https://ss.fitness/calculators) - *Fitness Calculators* 
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - *BMR / TDEE Calculator*
+* [My Pacer](https://www.mypacer.com/) - *Fitness App / Pedometer*
+* [MyFitnessPal](https://www.myfitnesspal.com/) - *Fitness / Health App*
 * [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
 * [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - *Zombie Running Adventure Game*
