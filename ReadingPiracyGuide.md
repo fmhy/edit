@@ -376,7 +376,6 @@
 * [Doyleand](https://doyleandmacdonald.com/lit.htm) - *Fantasy*
 * [PublicBookShelf](http://www.publicbookshelf.com/) - *Romance*
 * [The Eldritch Dark](http://www.eldritchdark.com/) - *Clark Ashton Smith*
-* [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) - *Fitness / Nutrition* 
 * [Marxists Internet Archive](https://www.marxists.org/) - *Socialism / Communism*
 * [libcom](https://libcom.org/library) - *Libertarian Communism* 
 * [The Anarchist Library](http://theanarchistlibrary.org/special/index) - *Anarchism*
@@ -939,6 +938,7 @@
 * [NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - *NY Times Top Story App*
 * [Europeana Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers) - *European Historical Newspapers*
 * [abc-dl](https://github.com/king-millez/abc-dl) - *Australian Broadcasting Corporation News Archive*
+* [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - *News Site Indexes* 
 * [Newspaper Map](https://newspapermap.com/) - *Find / Translate Worldwide Newspapers*
 
 ***
