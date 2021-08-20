@@ -1058,6 +1058,8 @@
 
 # ► Turkish
 
+* [TurkceAltyazi](https://turkcealtyazi.org/index.php) - *Turkish Subtitles*
+
 ## ▷ Downloading
 
 * [Mayonez](http://www.mayonez.net/) - *Video / Books / Magazines / Games / Android / GFX Software*
