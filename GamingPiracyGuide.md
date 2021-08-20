@@ -72,6 +72,7 @@
 * [The KDE Games Center](https://games.kde.org/) - *Linux Games*
 * [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - *Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Link Scrape](https://github.com/reggiiie/link-scrape) - *Linux Game Search Script*
+* [linux-repack-installer](https://github.com/reggiiie/linux-repack-installer) - *Linux Game Installer*
 * [CsWaRzOnE](https://www.cswarzone.com/) - *Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)*
 * [Minetest](https://www.minetest.net/) - *F2P Minecraft Alternative* 
 * [Unciv](https://github.com/yairm210/Unciv) - *Civ V Remake*
@@ -202,7 +203,7 @@
 * [PS1 Collection](https://archive.org/details/redumpSonyPlaystationAmericaGames02October2017), [2](https://archive.org/details/@john_mr_smith?sort=titleSorter) - *Roms / PS1*
 * [PS2 Collection](https://archive.org/details/RedumpSonyPS2NTSCU), [2](https://archive.org/details/RedumpSonyPS2NTSCUPart2), [3](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01), [4](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part2), [5](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part3), [6](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part4) - *Roms / PS2*
 * [ps2pressprotos](https://archive.org/details/ps2pressprotos) - *PS2 Press Discs & Prototypes*
-* [PS4 bitdl.ir](http://s21.bitdl.ir/), [2](http://s22.bitdl.ir/), [3](http://s23.bitdl.ir/), [4](http://s24.bitdl.ir/), [5](http://s25.bitdl.ir/), [6](http://s26.bitdl.ir/)
+* [PS4 bitdl.ir](http://s21.bitdl.ir/), [2](http://s22.bitdl.ir/), [3](http://s23.bitdl.ir/), [4](http://s24.bitdl.ir/), [5](http://s25.bitdl.ir/), [6](http://s26.bitdl.ir/) - *Roms / PS4*
 * [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) - *Roms / PS4*
 * [PS4.td](https://ps4.td-index.workers.dev/0:/) - *Roms / PS4* 
 * [NoPayStation](https://nopaystation.com/) or [PSNDL](https://psndl.net/) - *Roms / Sony Consoles*
@@ -217,7 +218,7 @@
 * [GameBoy Collection](https://archive.org/details/Cyles_Gameboy_roms), [2](https://drive.google.com/drive/folders/1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf), [3](https://drive.google.com/drive/folders/1VxjINYMDvvUSRKA_k2aJqq6JzmRQCI1s), [4](http://merwanachibet.net/gameboy-roms.html), [Unreleased](https://ufile.io/70vmpyng) - *Roms / GameBoy*
 * [DS Collection](https://archive.org/details/noIntroNintendoDsDecrypted2019Jun30), [2](https://mega.nz/folder/33AhDa4T#awOqr7lhZYFgjXoMMu6_8w) - *Roms / DS*
 * [DSi Collection](https://archive.org/details/No-Intro_Nintendo_DSi_2018-06-30) - *Roms / DSi* + [DSi DLC](https://archive.org/details/NintendoDSiDLC2019)
-* [Cia 3DS](https://www.cia-3ds.com/), [2](https://drive.google.com/drive/u/0/folders/1a1U18ImPv-VunSHanHBDTLht6kVf5AP6), [3](https://archive.org/download/3DSCIA_testitem1), [4](https://drive.google.com/drive/folders/1R5c6-nY5mMns8G1u2tcbYumfTCGXDQ5w), [5](https://drive.google.com/drive/folders/1a9BYbFlhQ96zaKtuL99m8N_r4qv8L_FK), [6](https://drive.google.com/drive/folders/1vDIlIfJL1I8Nzv616YBIX-QXmudoxKxM?usp=sharing) - *Roms / 3DS*
+* [Cia 3DS](https://www.cia-3ds.com/), [2](https://drive.google.com/drive/u/0/folders/1a1U18ImPv-VunSHanHBDTLht6kVf5AP6), [3](https://archive.org/download/3DSCIA_testitem1), [4](https://drive.google.com/drive/folders/1R5c6-nY5mMns8G1u2tcbYumfTCGXDQ5w), [5](https://drive.google.com/drive/folders/1a9BYbFlhQ96zaKtuL99m8N_r4qv8L_FK), [6](https://drive.google.com/drive/folders/1vDIlIfJL1I8Nzv616YBIX-QXmudoxKxM?usp=sharing), [7](https://hshop.erista.me/) - *Roms / 3DS*
 * [SNES Collection](https://archive.org/details/CylesSNESRomPack) - *Roms / SNES*
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - *NES, SNES & Playstation Mods*
 * [Dreamcast Collection](https://archive.org/details/almstcmpltdrmcst) - *Roms / Dreamcast*
@@ -267,6 +268,7 @@
 * [OpenRA](https://openra.net/) - *Command & Conquer Recreation* 
 * [Classic Warcraft 3 Installers](https://www.removeddit.com/r/Piracy/comments/ewdlnd/for_anyone_looking_for_the_actual_classic/) 
 * [NolfRevival](http://nolfrevival.tk/) - *NOLF, NOLF 2 & Contract Jack*
+* [JustEmuTarkov](https://justemutarkov.eu/) - *Escape from Tarkov Emulator*
 * [DFWorkshop](https://www.dfworkshop.net/) - *Daggerfall Unity Engine Port*
 * [OpenMW](https://openmw.org/en/) - *Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/openmw-tes3mp/) / [Android](https://github.com/xyzz/openmw-android)*
 * [NR2003](https://wildkustomcars.weebly.com/) - *Modded Nascar 2003*
@@ -489,6 +491,7 @@
 * [Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards) - *Card Games Index*
 * [WorldOfCardGames](https://worldofcardgames.com/) or [World of Solitaire](https://worldofsolitaire.com/) - *Card Games*
 * [Mah-Jongg](https://www.mah-jongg.ch/) - *Mahjongg Solitaire Games*
+* [Poker Now](https://www.pokernow.club/) - *Multiplayer Poker*
 * [247 Free Poker](https://www.247freepoker.com/) - *Simple Poker Online* 
 * [KDice](http://www.kdice.com/) - *Multiplayer Dice War*
 * [Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee) - *Yahtzee Sites Collection*
@@ -554,8 +557,7 @@
 
 ## ▷ Flash Games
 
-* [How to Download and Play Flash Games](https://i.imgur.com/T6huIGF.png), [2](https://www.wikihow.com/Download-a-Flash-Game)
-* To Play old Shockwave Games Install [Adobe Shockwave](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html) & [K-Meleon Browser](http://kmeleonbrowser.org/)
+* [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - *Tools / Apps to Run Flash Programs*
 * [Rek's Flash Game Collection](https://drive.google.com/drive/folders/1p_kDd9uJz72S3m9o7ka136fxCWPEBKEG?usp=sharing) - *Archive* 
 * [Software Library: Flash](https://archive.org/details/softwarelibrary_flash) - *Archive* 
 * [BlueMaxima](http://bluemaxima.org/flashpoint/) - *Archive / [Discord](https://discord.gg/Z4gGtJvvn8)* 
@@ -564,6 +566,7 @@
 * [Flash by Night](http://flashbynight.com/) - *Browser Games*
 * [The Flash Emulation Repair Shop](https://archive.org/details/flash_repair_shop) - *Flash Games Under Repair*
 * [Arcade Prehacks](http://www.arcadeprehacks.com/) or [SamsHackedGames](https://www.samshackedgames.com/) - *Hacked Flash Games* 
+* To Play Shockwave Games Install [Adobe Shockwave](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html) & [K-Meleon Browser](http://kmeleonbrowser.org/)
 
 ***
 
