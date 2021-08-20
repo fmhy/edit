@@ -716,5 +716,6 @@
 * [My Pacer](https://www.mypacer.com/) - *Fitness App / Pedometer*
 * [MyFitnessPal](https://www.myfitnesspal.com/) - *Fitness / Health App*
 * [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
+* [MapMyWalk](https://www.mapmywalk.com/) - *Map / Track Walks*
 * [Charity Miles](https://charitymiles.org/) - *Donate to Charity While Running / Biking*
 * [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - *Zombie Running Adventure Game*
