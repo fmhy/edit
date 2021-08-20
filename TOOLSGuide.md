@@ -1697,6 +1697,7 @@ General Reading Sites*
 * [injectSMAA](http://mrhaandi.blogspot.com/p/injectsmaa.html) - *SMAA Injection Tool*
 * [OpenVR FSR](https://github.com/fholger/openvr_fsr) - *Steam VR FidelityFX Super Resolution Mod*
 * [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - *GTA5 FidelityFX Super Resolution Mod*
+* [Essential Menu](https://github.com/anonik9900/Essential-Menu) - *GTA5 Mod Menu*
 * [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - *Unlock Genshin Impact FPS Cap*
 * [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - *Unlock Roblox FPS Cap*
 * [Rekt](http://getrektby.us/) - *Black Ops 1 Mod Project / [Discord](https://discord.com/invite/HqjQFCp)*
