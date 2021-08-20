@@ -48,6 +48,7 @@
 * [pumpyouup](http://www.pumpyouup.com/) - *Indie Dubstep*
 * [musopen](https://musopen.org/music/) - *Classical*
 * [Bandcamp](https://bandcamp.com/tag/free-music?tab=all_releases) - *Free Bandcamp Music* 
+* [Audius](https://audius.co/) - *User Made Music Platform*
 * [GetFVid](https://www.getfvid.com/) - *Facebook Video / Audio Downloader* 
 * [AudionautiX](https://audionautix.com/) - *Mood based streaming*
 * [Khinsider](https://downloads.khinsider.com/), [Cirrus Retro](https://cirrusretro.com/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
@@ -323,6 +324,7 @@
 * [Spotalike](https://spotalike.com/) - *Spotify Playlist Generator*
 * [Forgotify](https://forgotify.com/) - *Spotify songs with 0 plays*  
 * [Obscurify](https://obscurifymusic.com/) - *Compare Music Taste to Others* 
+* [Chosic](https://www.chosic.com/) - *Song Discovery Tools*
 * [Music-Map](https://www.music-map.com/), [Musicroamer](https://www.musicroamer.com/) or [AkinBeats](http://akinbeat.com/) - *Similar Artist Discovery* 
 * [BoilTheFrog](http://boilthefrog.playlistmachinery.com/) - *Create Playlists From 2 Artists* 
 * [UnknownMusicBot](https://t.me/UnknownMusicBot) - *Play a random rare song from YouTube* 
