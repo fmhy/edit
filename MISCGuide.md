@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/5PHwGm1.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/ME8VBHu.png)** - *For mobile users*
 
 ***
 *** 
@@ -301,6 +301,7 @@
 * [git:logs](https://www.gitlogs.com/) - *Trending GitHub Repos* 
 * [grep.app](https://grep.app/) or [GitSearch](https://gitsearch.io/) - *Git Repository Search*
 * [Active Github Forks](https://techgaun.github.io/active-forks/) - *List of Active GitHub Forks*
+* [sourcehut](https://sr.ht/) - *Public Project Index*
 * [PiracyBank](https://piracybank.org/websites) - *List of sites tagged for copyright, mostly dead* 
 * [Movim](https://movim.eu/) - *Decentralized Social Network* 
 * [Fediverse](https://fediverse.party/) - *Federated Social Networks*
@@ -309,6 +310,7 @@
 * [DeepAI](https://deepai.org/) - *AI Tools Index* 
 * [RunawayML ](https://runwayml.com/) - *AI Tools Index* 
 * [Awesome ACG](https://github.com/soruly/awesome-acg) - *Anime Tool Index* 
+* [Tsuk1ko](https://github.com/Tsuk1ko) - *Anime Tool Repositories*
 * [Anilinks](https://anilinks.neocities.org/) - *Anime Related Site Index* 
 * [10kb Club](https://10kbclub.com/), [250kb Club](https://250kb.club/), [512kb Club](https://512kb.club/), [1MB Club](https://1mb.club/) - *Websites that don't exceed a certain size*
 * [The NoJS Club](https://nojs.club/) - *Websites that don't use JavaScript* 
@@ -323,7 +325,7 @@
 # ► Piracy Discussion
 
 * **[OneHack](https://onehack.us/)**
-* **[Biohazard](https://discord.gg/MnZrNxmsJy)** - *Guides / Courses / Extensions / Chat*
+* **[Biohazard](https://discord.gg/biohazard-official)** - *Guides / Courses / Extensions / Chat*
 * [/m/piracy](https://www.reddit.com/user/nbatman/m/piracy/), [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) - *Piracy Multireddit*
 * [/r/piracy](https://reddit.com/r/piracy) - *[Backup](https://github.com/nid666/PiracyArchive)*
 * [/r/piratedgames](https://reddit.com/r/piratedgames) - *[Discord](https://discord.gg/Da2akf2)*
@@ -573,6 +575,7 @@
 * [User Inyerface](https://userinyerface.com/) - *The most annoying website*
 * [Storylocks](https://www.storylocks.com/) - *Write Stories with different authors/friends*
 * [LongestPoemInTheWorld](http://www.longestpoemintheworld.com/) - *Matches Tweets to form Rhymes*
+* [InspiroBot](https://inspirobot.me/) - *Inspirational Quote Generator*
 * [RGB](https://www.rrrgggbbb.com/) - *RRRGGGBBB* 
 * [DogeWeather](http://dogeweather.com/) - *Weather with Doge* 
 * [Chris Shier](https://www.csh.bz/) - *Canvas Animations / GIFs* 
@@ -693,3 +696,22 @@
 * [Calligraphr](https://www.calligraphr.com/en/) - *Create Your Own Fonts* 
 * [FontBase](https://fontba.se/) - *Font Manager* 
 * [Zalgo](http://eeemo.net/) or [lingojam](https://lingojam.com/WeirdTextGenerator) - *Weird Font style generators*
+
+***
+
+# ►  Health
+
+* [Awesome Health](https://github.com/lalaithan/awesome-health) - *Health Resources Index*
+* [NutritionFacts.org](https://nutritionfacts.org/) - *Video Library for Latest Health-based Research*
+* [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - *Havard University Health Website*
+* [tellspecopedia](http://www.tellspecopedia.com/) - *List of Food Ingredients & effects on Body*
+* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - *Child Nutrition / Cooking Course* 
+* [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) - *Fitness / Nutrition Info* 
+* [fastnfitness](https://github.com/brodeurlv/fastnfitness) - *Track Your Exercise Progress*
+* [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) - *Exercise & Activity Tracker*
+* [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - *Daily Diet Recommendations / Android*
+* [openScale](https://f-droid.org/packages/com.health.openscale/) - *Weight & Body Metrics Tracker*
+* [Simple Science Fitness](https://ss.fitness/calculators) - *Fitness Calculators* 
+* [SailRabbit](https://www.sailrabbit.com/bmr/) - *BMR / TDEE Calculator*
+* [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
+* [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - *Zombie Running Adventure Game*
