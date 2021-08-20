@@ -179,7 +179,6 @@ App Manager
 * [aiTTS](https://www.milmike.com/aitts-google-wavenet-voices-for-android-tts) - *Text to Speech* 
 * [Microsoft Edge Read Aloud](https://redd.it/l1fdh9) - *How to use Microsoft Read Aloud TTS on Android* 
 * [Koler](https://github.com/Chooloo/koler) - *Dialer App* 
-* [K-9 Mail](https://k9mail.app/) - *Email Client* 
 * [BlitzMail](https://github.com/grote/BlitzMail) - *One Click Email App*
 * [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957) - *Disposable Email Client*
 * [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - *Multi-Calculator App*
