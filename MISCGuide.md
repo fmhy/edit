@@ -709,6 +709,7 @@
 * [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) - *Fitness / Nutrition Info* 
 * [fastnfitness](https://github.com/brodeurlv/fastnfitness) - *Track Your Exercise Progress*
 * [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) - *Exercise & Activity Tracker*
+* [Cronometer](https://cronometer.com/) - *Track Nutrition & Calories*
 * [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - *Daily Diet Recommendations / Android*
 * [openScale](https://f-droid.org/packages/com.health.openscale/) - *Weight & Body Metrics Tracker*
 * [Simple Science Fitness](https://ss.fitness/calculators) - *Fitness Calculators* 
@@ -716,6 +717,7 @@
 * [My Pacer](https://www.mypacer.com/) - *Fitness App / Pedometer*
 * [MyFitnessPal](https://www.myfitnesspal.com/) - *Fitness / Health App*
 * [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
+* [Fitocracy](https://www.fitocracy.com/) - *Create Workout Plans*
 * [MapMyWalk](https://www.mapmywalk.com/) - *Map / Track Walks*
 * [Charity Miles](https://charitymiles.org/) - *Donate to Charity While Running / Biking*
 * [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - *Zombie Running Adventure Game*
