@@ -210,7 +210,7 @@
 ## ▷ Cooking Sites
 
 * [Copy Me That](https://www.copymethat.com/) or [Spoonacular](https://spoonacular.com/food-api) - *Recipe Manager*
-* [Just the Recipe](https://www.justtherecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - *Copy Ingredients & Directions from Recipe Pages* 
+* [Just the Recipe](https://www.justtherecipe.com/), [PlainOldRecipe](https://www.plainoldrecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - *Extract Ingredients & Directions from Recipe Pages* 
 * [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - *Food Product Ingredient Scanner*
 * [cookEbooks](http://cookebooks.info/) - *Cookbooks*
 * [The-Eye Food](https://the-eye.eu/public/Books/Food/) - *Cookbooks* 
@@ -376,9 +376,10 @@
 * [Doyleand](https://doyleandmacdonald.com/lit.htm) - *Fantasy*
 * [PublicBookShelf](http://www.publicbookshelf.com/) - *Romance*
 * [The Eldritch Dark](http://www.eldritchdark.com/) - *Clark Ashton Smith*
-* [Marxists Internet Archive](https://www.marxists.org/) - *Socialism / Communism*
-* [libcom](https://libcom.org/library) - *Libertarian Communism* 
 * [The Anarchist Library](http://theanarchistlibrary.org/special/index) - *Anarchism*
+* [Marxists Internet Archive](https://www.marxists.org/) - *Socialism / Communism*
+* [Liberation School](https://liberationschool.org/) - *Communism*
+* [libcom](https://libcom.org/library) - *Libertarian Communism* 
 * [Library of Liberty](https://oll.libertyfund.org/) - *Liberty / Free Market*
 * [Legal Mises Institute](https://mises.org/) - *Books / Audio books / Libertarianism* 
 * [Survivor Library](http://www.survivorlibrary.com/), [Free Survival eBooks](https://www.defiel.com/free-survival-ebooks/), [GoodDebate](https://gooddebate.org/sin/mirror/library/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - *Survival*
@@ -1017,6 +1018,7 @@
 * [PDF Viewer](https://f-droid.org/packages/com.gsnathan.pdfviewer) - *PDF Reader / Android*
 * [PdfPreviewbot](https://t.me/PdfPreviewbot) - *Telegram PDF Reader*
 * [Readera](https://play.google.com/store/apps/details?id=org.readera) - *Manager / Reader / Android*
+* [Libera](http://librera.mobi/) - *Manager / Reader / Android*
 * [Foliate](https://johnfactotum.github.io/foliate/) - *Manager / Reader / Linux*
 * [WinDjView](https://windjview.sourceforge.io/) - *DjVu Reader / PC*
 * [DjVuLibr](http://djvu.sourceforge.net/) - *DjVu Reader / PC*
