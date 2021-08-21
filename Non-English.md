@@ -116,6 +116,7 @@
 * [Csze BT](https://bt.orzx.im/) - *Video / Audio / Software / Games / Books* 
 * [acgnx](https://www.acgnx.se/) - *Video / Audio / Software / Books / NSFW* 
 * [Share.dmhy](http://share.dmhy.org/) - *Anime / Manga / Games / Music* 
+* [XiaZai001](https://www.xiazai001.com/) - *Video / Audio / Software*
 * [dytt8](https://dytt8.net/), [dy2018](https://dy2018.com/), [ygdy8](https://ygdy8.com/index.html) or [dydytt](https://www.dydytt.net) - *Movies / TV / Anime*
 * [piaohua](https://www.piaohua.com/) - *Movies / TV / Anime*
 * [高清电台](https://gaoqing.fm/) - *Movies / TV / Anime / Use VPN or Google Translate to Access*
@@ -132,13 +133,15 @@
 * [PangzITV](https://pangzitv.com/) - *Movies / TV / Anime* 
 * [ifsp](https://www.ifsp.tv/) - *Movies / TV / Anime* 
 * [tangrenjie](https://www.tangrenjie.tv/) - *Movies / TV / Anime* 
+* [75yu](https://www.75yu.com/) - *Movies / TV / Anime*
 * [v.qq](https://v.qq.com/) - *Movies / TV / Anime*
 * [MoMoVOD](https://momovod.tv/) - *Movies / TV / Anime*
 * [uvod.tv](https://www.uvod.tv/) - *Movies / TV / Anime*
 * [IcDrama](http://icdrama.video/) - *Movies / TV*
 * [Meiju](https://www.meiju11.com/) or [iMeiju](https://www.imeiju.net/) - *Movies / TV*
 * [Nunu Cinema](https://www.nunuyy.com/) - *Movies / TV*
-* [qiqi8 ](http://qiqi8.net/) - *Anime*
+* [qiqi8](http://qiqi8.net/) - *Anime*
+* [AGE動漫](https://agefans.tw/) - *Anime*
 * [music.163](https://music.163.com/) - *Music*
 * [jsososo](http://y.jsososo.com/), [2](http://music.jsososo.com/) - *Music* 
 
