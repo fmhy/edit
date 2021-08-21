@@ -152,7 +152,9 @@
 * [Uploadgram](https://github.com/Pato05/uploadgram-app) - *Telegram File Upload*
 * [FluffyChat](https://fluffychat.im/en/) - *Matrix Client*
 * [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Husky](https://git.mentality.rip/FWGS/Husky) or [Tusky](https://tusky.app/) - *Mastodon Client* 
+* [Blabber.im](https://f-droid.org/packages/de.pixart.messenger) - *XMPP / Jabber Messenger*
 * [OpenInWA](https://github.com/SubhamTyagi/openinwa) - *Number Free WhatsApp Chat*
+* [Watomatic](https://f-droid.org/packages/com.parishod.watomatic) - *WhatsApp & FB Messenger Auto Reply*
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - *Booru Client / [Telegram](https://t.me/Flexbooru/161)*
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - *Article / Link Viewer*
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - *Easily Open Links in Text via Share Function*
@@ -419,7 +421,8 @@ Add "huhu.to", "bs.to" or "oha.to"*
 * [RSS Player](https://play.google.com/store/apps/details?id=pis.android.rss.rssplayer&amp;hl=en_US) - *KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)
 RSS Player*
 * [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [YetAnotherVideoPlayer](https://github.com/shadow578/YetAnotherVideoPlayer) or [MX Player](https://forum.mobilism.org/search.php?keywords=Mx+player&amp;terms=all&amp;author=Balatan&amp;sc=1&amp;sf=titleonly&amp;sr=topics&amp;sk=t&amp;sd=d&amp;st=0&amp;ch=300&amp;t=0&amp;submit=Search) - *Video Player*
-* [Android TV Mod](https://t.me/androidtvmod) - *Android TV / Fire TV / Fire Stick / Mods / Telegram*  
+* [Android TV Mod](https://t.me/androidtvmod) - *Android TV / Fire TV / Fire Stick / Mods / Telegram*
+* [Android TV IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) - *IPTV Players for Android TV's*
 * [Great Courses Plus Premium](https://onehack.us/t/get-the-great-courses-plus-premium-android/92613) - *Courses*
 * [Showly 2.0](https://github.com/michaldrabik/showly-2.0) or [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide/) - *Movie / TV Tracker* 
 
@@ -549,12 +552,15 @@ RSS Player*
 * [3uTools](http://www.3u.com/) - *iOS Manager for Windows*
 * [NoMoreSmallApps](https://www.sparkdev.me/package/com.spark.nomoresmallapps) - *Force App Full Screen / [Discord](https://discord.com/invite/tvvJfbD)*
 * [InsightBrowser](https://insightbrowser.com/) - *Browser*
+* [Edit Webpage](https://shareshortcuts.com/shortcuts/842-edit-webpage.html) - *Safari Inspect Element*
+* [Safari Snippets](https://apps.apple.com/us/app/safari-snippets/id1126048257) - *Insert Code into Safari*
 * [UTM](https://getutm.app/) - *Virtual Machines* 
 * [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) - *Automation Script Tool*
 * [iSkin](https://iskin.tooliphone.net/) or [SnowBoard](https://repo.dynastic.co/package/snowboard) - *iOS Themes* 
 * [moloko](https://apps.apple.com/us/app/moloko-themes-icons/id1534741213) - *iOS Themes & Icons* 
 * [Themify](https://apps.apple.com/us/app/themify-icon-themes-widgets/id1534126062) - *Icon Themes & Widgets*
 * [iCustom](https://icustom.tooliphone.net/) - *Make Custom Icons Without Shortcuts* 
+* [ShortcutsGallery](https://shortcutsgallery.com/) - *Siri Shortcuts*
 * [Color Widgets](https://apps.apple.com/us/app/color-widgets/id1531594277), [WidgetSmith](https://apps.apple.com/us/app/widgetsmith/id1523682319) or [widgetopia](https://apps.apple.com/us/app/widgetopia-widgets-weather/id1536432615) - *iOS Widgets*
 * [DownTube](https://github.com/MrAdamBoyd/DownTube) or [YouDown](https://apps.apple.com/sa/app/youdown/id1487658334) - *YouTube Downloader* 
 * [Noctis12](https://repo.packix.com/package/com.laughingquoll.noctis12/) - *iOS 12 Dark Mode*
