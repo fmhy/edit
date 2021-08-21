@@ -23,8 +23,8 @@
 * [Internet Live Stats ](https://www.internetlivestats.com/) - *Live Internet Statistics*
 * [Worldometer](https://www.worldometers.info/) - *World Data / Statistics*
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - *World Birth / Death Rates Visualization*
-* [Our World in Data](http://ourworldindata.org/) - *World Problem Databse*
-* [Gun Violence Archive](https://www.gunviolencearchive.org/) - *Gun Violence Information Databse*
+* [Our World in Data](http://ourworldindata.org/) - *World Problem Database*
+* [Gun Violence Archive](https://www.gunviolencearchive.org/) - *Gun Violence Information Database*
 * [Diffen](https://www.diffen.com/) or [Versus](https://versus.com/) - *Compare Anything* 
 * [The Measure Of Things](https://www.bluebulbprojects.com/measureofthings/default.php) - *Comparative / Relative Quantity Measurements* 
 * [CompareSizes](https://comparesizes.com/) - *Size Comparison Tool* 
@@ -51,7 +51,7 @@
 * [Diff Checker](https://www.diffchecker.com/) - *Check for differences in Text, Images, PDFs or Files*
 * [IRuler](https://iruler.net/) - *Turn your device into a Ruler*  
 * [BeMyEyes](https://www.bemyeyes.com/) - *Visually Assist Blind / Low Vision People* 
-* [Awesome Forensics](https://github.com/cugu/awesome-forensics) or [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools) - *Digital forensics Tools*  
+* [Awesome Forensics](https://github.com/cugu/awesome-forensics) or [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools) - *Digital Forensics Tools*  
 * [Chaotic Shiny](http://chaoticshiny.com/) - *Fantasy Writing Generator* 
 * [GitKraken Timeline](https://timelines.gitkraken.com/), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - *Timeline Creation Tool*
 * [PackageTrack](https://packagetrack.com/) - *Track Multiple Shipping Services*
@@ -71,6 +71,7 @@
 * [7 Cups](https://www.7cups.com/) - *Free Care & Therapy*
 * [Helpmap](https://helpmap.io/) - *Nonprofit Donation Map* 
 * [findhelp.org](https://www.findhelp.org/) - *Find Assistive Programs*
+* [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - *Online Appraisals*
 * [TuboTax Sucks Ass](http://turbotaxsucksass.net/) - *File Taxes for Free*
 
 ***
@@ -101,7 +102,6 @@
 * [Count Duplicates](https://www.somacon.com/p568.php) or [MyNikko](http://www.mynikko.com/tools/tool_duplicateremover.html)- *Count / Remove Duplicates in a List*
 * [Count Wordsworth](http://countwordsworth.com/) - *Count Words in a List* 
 * [PDF Text Extraction](https://r3mlab.github.io/python/osint/2018/08/09/PDF-text-extraction.html) - *Extract Text from PDF Files* 
-* [Firepad](https://firepad.io/) or [Etherpad](https://etherpad.org/) - *Online Text Collaboration*
 * [calendso](https://calendso.com/) or [Tweek](https://tweek.so/) - *Calendar / Scheduling Tool / [GitHub](https://github.com/calendso/calendso)*
 * [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB), [GoogleKeepClone](https://github.com/anselm94/googlekeepclone) or [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) / [Github](https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App* 
 * [Glory Todo Desktop](https://github.com/yessGlory17/glory_todo_desktop) or [OpenToDoList](https://gitlab.com/rpdev/opentodolist) - *To-Do App* 
@@ -111,7 +111,8 @@
 * [OfficeRTool](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/) - *Office 2016 Activation Tool* 
 * [OfficeDocs](https://www.offidocs.com/) - *Runs Desktop / Mobile Apps Online*
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - *Text / Code Collaboration Tools*
-* [Ethercalc](https://ethercalc.snopyta.org/), [Baserow](https://gitlab.com/bramw/baserow), [Framacalc](https://accueil.framacalc.org/en/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - *Online Collaborative Spreadsheet*
+* [Ethercalc](https://ethercalc.snopyta.org/), [Baserow](https://gitlab.com/bramw/baserow), [Framacalc](https://accueil.framacalc.org/en/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - *Collaborative Spreadsheet*
+* [Miro](https://miro.com/) - *Collaborative Whiteboard*
 * [Watson](https://speech-to-text-demo.ng.bluemix.net/) - *Speech to Text*
 * [Cryptii](https://cryptii.com/) - *Modular Conversion, Encoding & Encryption*
 * [dCode](https://www.dcode.fr/en) - *Message Decoders*
@@ -384,7 +385,7 @@
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) - *Streaming Tools Index*
 * [Zoom Escaper](https://zoomescaper.com/ ) - *Self-Sabotage Video Calls to Escape Meetings*
 * [Avidemux](http://fixounet.free.fr/avidemux/) - *Cut / Filter / Encode* 
-* [Clideo](https://clideo.com/), [Kapwing](https://www.kapwing.com/), [Biteable](https://biteable.com/), [Mastershot](https://mastershot.app/) or [KeepVid](https://keepvid.com/) - *Online Video Editor* 
+* [Clideo](https://clideo.com/), [Kapwing](https://www.kapwing.com/), [Biteable](https://biteable.com/), [Mastershot](https://mastershot.app/), [Panzoid](https://panzoid.com/) or [KeepVid](https://keepvid.com/) - *Online Video Editor* 
 * [MoviePy](https://zulko.github.io/moviepy/) - *Python Video Editor*
 * [vidcutter](https://github.com/ozmartian/vidcutter) - *Cut Videos* 
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts* 
@@ -606,6 +607,7 @@
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - *Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)*
 * [FlightRadar24](https://www.flightradar24.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](http://radarbox24.com/) or [FlightAware](http://flightaware.com/) - *Live Flight Tracker* 
 * [MarineTraffic](https://www.marinetraffic.com/) or [VesselFinder](http://vesselfinder.com/) - *Live Ship Tracker* 
+* [Cost of Living](https://www.numbeo.com/cost-of-living/) - *Cost of Living Map*
 * [Mapfrappe](http://mapfrappe.com/?show=46142) - *Compare True Sizes on Land Masses*
 * [scale-a-tron](https://stamen.github.io/scale-a-tron/) - *Compare the Size of any Land*
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/), [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) or [AsteroidCollision](https://asteroidcollision.herokuapp.com/) - *Interactive damage effect maps*
@@ -901,7 +903,7 @@ General Reading Sites*
 * [KarmaDecay](http://karmadecay.com/) - *Reddit Reverse Image Search* 
 * [Reddit Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_alternatives) - *Alternative Reddit Style Sites*
 * [lurrker](https://lurrker.com/), [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/), [kddit](https://kddit.kalli.st/), [Nuxtit](https://nuxtit.netlify.com/) or [js4.red](https://js4.red/) - *Alt Browsers / Web Clients*
-* [xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/) or [teddit](https://teddit.net/), [2](https://codeberg.org/teddit/teddit) - *Reddit Frontends*
+* [xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/), [Saturnus](https://saturnusapp.com/) or [teddit](https://teddit.net/), [2](https://codeberg.org/teddit/teddit) - *Reddit Frontends*
 * [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) - *Reddit Dekstop Client / Mac*
 * [Reddit-Search](https://camas.github.io/reddit-search/), [Reveddit](https://www.reveddit.com/), [politicbot](http://politicbot.github.io/) or [Removeddit](https://www.removeddit.com/about/) - *View Deleted Reddit Posts*
 * [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - *View Deleted Reddit Comments* 
@@ -992,10 +994,12 @@ General Reading Sites*
 * [Titan Embeds](https://titanembeds.com/) - *Create Discord Chat Embeds*
 * [Divider Generator](https://jsfiddle.net/Davri/wf49xnob/159/) - *Create Discord Role Dividers Discord Role*
 * [MonitoRSS](https://monitorss.xyz/) - *RSS Discord Bot*
+* [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - *Discord Keyboard Lighting Notifications*
 * [Permissions Calculator](https://discordapi.com/permissions.html) - *Generate Discord OAuth Invites*
 * [CustomRP](https://www.customrp.xyz/), [EasyRP](https://github.com/Pizzabelly/EasyRP), [RPCEngine](https://github.com/qoobes/rpcengine), [eidolonrp CodeFactor](https://github.com/kairusds/eidolonrp), [DiscordRPCMaker](https://drpcm.t1c.dev/) or [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC) - *Custom Rich Discord Presence*
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - *Discord Rich Presence Manager*
 * [PlayStationDiscord](https://tustin.dev/PlayStationDiscord/) - *PlayStation Discord Rich Presence*
+* [Adobe Discord RPC](https://github.com/lolitee/adobe-discord-rpc) - *Adobe Rich Presence*
 * [iTunes-Discord-RP](https://github.com/kkevinm/iTunes-Discord-RP) - *iTunes Rich Presence* 
 * [Foo_Discord_Rich](https://github.com/TheQwertiest/foo_discord_rich) - *FooBar2000 Rich Presence*
 * [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) - *MPV Rich Presence* 
@@ -1382,7 +1386,7 @@ General Reading Sites*
 * [msstyleEditor](https://github.com/nptr/msstyleEditor) - *Windows Visual Style Editor*
 * [DynaWin](https://github.com/Apollo199999999/DynaWin) - *Dynamic Desktop Themes*
 * [SecuredUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - *Ux Theme Patcher*
-* [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) - *System Lighting Control*
+* [OpenRGB](https://openrgb.org/) - *System Lighting Control / [GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)*
 * [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - *Audio Visualizer / FX Engine for Keyboards, Mice & Accessories*
 * [MechaKeys](https://mechakeys.robolab.io/) - *Keyboard Soundpacks*
 * [Accent Applicator](https://github.com/mcdenis/AccentApplicator) - *Applies Win 10 Accent Color to OS*
