@@ -205,6 +205,7 @@
 * [Email Tracker](https://snov.io/email-tracker) - *Gmail Engagement Tracker*
 * [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - *View Extension Source Code* 
 * [Current Moon Phase](https://chrome.google.com/webstore/detail/current-moon-phase/ippnbhhbamibfpljlfmgogaondodicgi) - *Current Moon Phases*
+* [OnelineProton](https://github.com/lr-tech/OnelineProton/) - *Proton Theme for Firefox*
 
 ## ▷ Safari
 
@@ -673,6 +674,7 @@
 * [Font Squirrel](https://www.fontsquirrel.com/)
 * [Free Fonts Family](https://freefontsfamily.com/)
 * [1001 Free Fonts ](https://www.1001freefonts.com/)
+* [Graphic Design Masterlist](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk) 
 * [Velvetyne](https://velvetyne.fr/)
 * [Font Library](https://fontlibrary.org/) 
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/)
@@ -717,6 +719,8 @@
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - *BMR / TDEE Calculator*
 * [My Pacer](https://www.mypacer.com/) - *Fitness App / Pedometer*
 * [MyFitnessPal](https://www.myfitnesspal.com/) - *Fitness / Health App*
+* [Awesome Nutrition Calculator](https://github.com/RolandKawka/awesome-nutrition-calculator) - *Nutrition Calculator*
+* [wger](https://wger.de/) - *Self-Hosted Workout, Nutrition & Weight App / [GitHub](https://github.com/wger-project/wger)*
 * [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
 * [Fitocracy](https://www.fitocracy.com/) - *Create Workout Plans*
 * [MapMyWalk](https://www.mapmywalk.com/) - *Map / Track Walks*
