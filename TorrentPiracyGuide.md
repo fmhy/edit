@@ -225,4 +225,4 @@
 * [bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor) - *Add or Remove Trackers from Torrent Files*
 * [mktorrent](https://github.com/Rudde/mktorrent) - *Command Line to Create BitTorrent Metainfo Files* 
 * [/r/torrents](https://reddit.com/r/torrents) - *Torrenting discussion sub*
-* r/VPNTorrents - *For Discussion of Torrenting over VPNs*
+* [r/VPNTorrents](https://reddit.com/r/vpntorrents) - *For Discussion of Torrenting over VPNs*
