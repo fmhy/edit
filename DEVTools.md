@@ -113,6 +113,8 @@
 * [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - *Integrate Services with Discord*
 * [Discord.py Docs](https://discordpy.readthedocs.io/en/latest/) - *Discord.py API Docs*
 * [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - *Discord Code Blocks*
+* [Hacking Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_hacking_tests_.2F_games) - *Hacking Tests & Games*
+* [XunLei](https://www.xunlei.com/) - *Shared Computing / Blockchain*
 
 ***
 
@@ -126,7 +128,7 @@
 * [Alexa Site Info](https://www.alexa.com/siteinfo) - *Site Traffic Stats / Analysis*
 * [Resolve.rs Tools](https://resolve.rs/tools.html) - *Site Domain / IP Tools*
 * [Namechk](https://namechk.com/), [Username Checker](https://checkuser.org/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Check Username / Domain Availability*
-* [Pyfunceble](https://pyfunceble.github.io/#/), [Whois.com](https://www.whois.com/) or [Domainr](https://domainr.com/) - *Check IP / Domain Availability* 
+* [Pyfunceble](https://pyfunceble.github.io/#/), [Whois.com](https://www.whois.com/), [DomComp](https://www.domcomp.com/) or [Domainr](https://domainr.com/) - *Check IP / Domain Availability* 
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist*
 * [Flounder](https://flounder.online/) - *Gemini Website Builder / [GitHub](https://github.com/alexwennerberg/flounder)* 
 * [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - *Webpage Editor* 
