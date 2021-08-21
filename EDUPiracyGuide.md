@@ -110,6 +110,7 @@
 * [DLECourse](https://dlecourse.com/) - *Courses* 
 * [FreeCourseDL](https://freecoursedl.com/) - *Courses* 
 * [Dl Course](https://dlcourse.org/) - *Courses*
+* [torrenttempdrive](https://torrenttempdrive.hashhackers.com/1:/) - *Courses*
 * [TeleFlix](https://resources.ttucloud.tech/0:/) - *Courses / user: blank pw: @ttu001*
 * [FreeStudyWeb](https://freestudyweb.com/) - *Courses* 
 * [CryptoTips](https://www.cryptotips.us/) - *Courses* 
@@ -351,6 +352,7 @@
 
 # ► Music Learning
 
+* [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
 * [OpenSong](http://www.opensong.org/) - *Track Lyrics, Chords, Sheets & more*
 * [LilyPond](http://lilypond.org/) - *Music Engraving Program*
 * [Learning Music](https://learningmusic.ableton.com/)
@@ -447,6 +449,7 @@
 * [Alien](https://alien-project.org/) - *Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)*
 * [OneZoom](http://www.onezoom.org/) - *Tree of Life Explorer* 
 * [Wikispecies](https://species.wikimedia.org/) or [The Catalogue of Life](https://www.catalogueoflife.org/) - *Species Directory* 
+* [Lost and Found Nature](https://www.lostandfoundnature.com/) - *Re-Discovered Animals & Plants*
 * [Ocearch](https://www.ocearch.org/?list) - *Track Marine Life*
 * [The Deep Sea](https://neal.fun/deep-sea/) - *Interactive Deep Sea Life Guide* 
 * [Life Under the Ice](https://lifeundertheice.org/) - *View Antarctic Microbes*
