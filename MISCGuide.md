@@ -435,7 +435,7 @@
 * [Brickit](https://brickit.app/) - *Scan Lego Collection for Build Ideas*
 * [Building Instructions](https://www.lego.com/en-us/service/buildinginstructions) - *Download Lego Instructions*
 * [Outside Simulator](https://outsidesimulator.com/) - *Simulate Being Outside* 
-* [Travel Remotely](https://travel-remotely.netlify.app/) - *Traveling Simulator* 
+* [Travel Remotely](https://travel-remotely.netlify.app/) or [Virtual Vacations]https://virtualvacation.us/videarth.html) - *Traveling Simulator* 
 * [stringers.live](https://stringers.live/) - *Live Stringer (freelance journalist) Streams*
 * [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - *Open Random Windows*
 * [Just Type Stuff ](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - *Type Things into Existence*
@@ -478,6 +478,7 @@
 * [cachemonet](http://cachemonet.com/) - *Randomly Generated GIFs/ Backgrounds* 
 * [Wonder of Wonder Art](https://aidn.jp/wowa/) - *Create a Dancing Character* 
 * [CAT BOUNCE!](https://cat-bounce.com/) - *Bounce Cats*
+* [Tamajoji](https://flixflox.itch.io/tamajoji) - *Browser Tamagotchi*
 * [Gifypet](https://gifypet.neocities.org/) - *Create Your Own Cute Pet* 
 * [20Q](http://www.20q.net/) or [Akinator](https://en.akinator.com/) - *20 Questions*
 * [70's TV Simulator](https://www.my70stv.com/), [80's](https://www.my80stv.com/), [90's](https://www.my90stv.com/) or [00's TV Simulator](https://www.my00stv.com/)
@@ -593,6 +594,7 @@
 * [nobody.live](https://nobody.live/) - *Zero Viewer Twitch Stream Roulette* 
 * [Pogged](https://pogged.tv/) - *Twitch Highlights Stream*
 * [Urlebird](https://urlebird.com/) - *3rd Party TikTok with better UI*
+* [AfterTheTone](https://afterthetone.com/) - *Random Answering Machine Messages*
 * [Gravity Points](https://codepen.io/akm2/full/rHIsa) or [Gravity](http://justfound.co/gravity/) - *Play with gravity* 
 * [bongo.cat](https://bongo.cat/) - *Become Bongo Cat* 
 * [Plink](http://dinahmoelabs.com/plink/) - *Multiplayer Music Maker*
@@ -609,7 +611,7 @@
 * [Got Rhythm?](https://www.concerthotels.com/got-rhythm) - *Rhythm / Tempo Test* 
 * [Fake Music Generator](https://www.fakemusicgenerator.com/) - *Computer Generated Music*
 * [MagicKeyboard](http://magickeyboard.io/) - *Try "feross", "hexbin", "rain", or "semi"* 
-* [Bouncing DVD Logo](https://www.bouncingdvdlogo.com/) - *DVD Logo* 
+* [Bouncing DVD Logo](https://www.bouncingdvdlogo.com/) or [DVD Source](https://dvd.source321.com/) - *DVD Logo Screen* 
 * [Star Wars Intro Creator](https://starwarsintrocreator.kassellabs.io/) - *Create Star Wars intros* 
 * [Waifu Labs](https://waifulabs.com/) - *Meet your Waifu* 
 * [Pink Trombone](https://dood.al/pinktrombone/) - *Human Pitch Generator*
@@ -653,6 +655,7 @@
 * [Nestflix](https://nestflix.fun/) - *Fictional Media in Media Database*
 * [Vintage Ad Browser](http://www.vintageadbrowser.com/) - *100,000+ Vintage Advertisements* 
 * [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - *Japanese Commercial Archive*
+* [UFO Discovery](https://app.polymersearch.com/polymerexamples/UFO_Sightings) - *UFO Sightings Tracker*
 * [info.cern](http://info.cern.ch/) - *First Website on the Internet* 
 * [Worlds Highest Website](https://worlds-highest-website.com/) - *The Worlds Longest Website*
 * [IdiotProofWebsite](http://idiotproofwebsite.com/)
@@ -666,7 +669,7 @@
 # ►  Font Sites
 
 * **[How to Download Fonts](https://redd.it/8tqfg6)**
-* [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [DiscordFonts](https://lingojam.com/DiscordFonts), [TextFancy](https://textfancy.com/) or [fSymbols](https://fsymbols.com/generators/) - *Font Generator*
+* [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [Font Generator](https://www.toulr.com/other-tools/font-generator), [DiscordFonts](https://lingojam.com/DiscordFonts), [TextFancy](https://textfancy.com/) or [fSymbols](https://fsymbols.com/generators/) - *Font Generator*
 * [2000+ Fonts](https://drive.google.com/drive/folders/1aJVKslK0v_kKxvEd5KV3KSCfY0epXNz0) - *Fonts / Drive*
 * [2300+ Fonts Pack](https://drive.google.com/file/d/1Y4yRd5KugATG5XfcjkuUgN9BU4wJJMVj/view) - *Fonts / Drive*
 * [DaFont](https://www.dafont.com/)
