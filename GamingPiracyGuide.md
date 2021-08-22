@@ -524,6 +524,7 @@
 * [Menneske](https://www.menneske.no/eng/) - *Number Puzzles* 
 * [babble.xyz](https://babbl.xyz/) - *Infinite Scrabble*
 * [WordHub](https://wordhub.com/) - *Scrambled Word Game*
+* [Divergent Association Task](https://www.datcreativity.com/task) - *Unrelated Word Game*
 * [eWordChallenge](https://www.ewordchallenge.net/) - *Multiplayer Boggle*
 
 ***
