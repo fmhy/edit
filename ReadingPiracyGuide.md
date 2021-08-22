@@ -351,6 +351,7 @@
 * [Free Online Novels](https://www.free-online-novels.com/) - *Catholicism*
 * [Classics Ethereal Library](https://www.ccel.org/) - *Christian*
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - *Enoch Translation*
+* [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) - *Quran Translation*
 * [English Torah](http://englishtorah.com/) - *Torah Translation*
 * [Halakhah](https://www.halakhah.com/) - *Talmud Translation*
 * [Targum](http://targum.info/targumic-texts/) - *Targum Translation*
@@ -382,6 +383,7 @@
 * [libcom](https://libcom.org/library) - *Libertarian Communism* 
 * [Library of Liberty](https://oll.libertyfund.org/) - *Liberty / Free Market*
 * [Legal Mises Institute](https://mises.org/) - *Books / Audio books / Libertarianism* 
+* [do_k_ument](https://mega.nz/folder/QEV0jKYZ#-BVVScey6draL30yB_KowA) - *Survival, Forging, Smithing, Weapons Training, Field Manuals*
 * [Survivor Library](http://www.survivorlibrary.com/), [Free Survival eBooks](https://www.defiel.com/free-survival-ebooks/), [GoodDebate](https://gooddebate.org/sin/mirror/library/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - *Survival*
 * [NATSIG Resources](https://mega.nz/#F!ZuZmiBqZ!XhyEetUaj6an8ntb-U1AZw) - *Survival / Bushcraft / Welding / Blacksmithing / German Books / Mythology / Drive* 
 * [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) - *Self Help / Telegram*
