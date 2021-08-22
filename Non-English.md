@@ -94,7 +94,7 @@
 # ► Chinese 
 
 * [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - *Chinese Site / Tool Index*
-* [zimuku](http://zimuku.org/) - *Subtitles*
+* [zimuku](http://zimuku.org/) or [SubHD](https://subhd.tv/) - *Subtitles*
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io) - *Bypass Chinese Firewall*  
 
@@ -104,6 +104,7 @@
 * [3dmgame](https://www.3dmgame.com/) - *Games / Geolocked / Baidu Required* 
 * [BD2020](https://www.bd2020.com/) - *Movies*
 * [52hdking](http://www.52hdking.com/) - *TV*  
+* [Zimuxia](https://www.zimuxia.cn/) - *TV*
 * [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - *Courses / [icourse163](https://www.icourse163.org/)*
 * [91Flac](https://www.91flac.com/) - *Music* 
 * [Flac123](https://www.flac123.com/) - *Music* 
@@ -118,9 +119,12 @@
 * [Share.dmhy](http://share.dmhy.org/) - *Anime / Manga / Games / Music* 
 * [XiaZai001](https://www.xiazai001.com/) - *Video / Audio / Software*
 * [dytt8](https://dytt8.net/), [dy2018](https://dy2018.com/), [ygdy8](https://ygdy8.com/index.html) or [dydytt](https://www.dydytt.net) - *Movies / TV / Anime*
+* [88btbtt](https://www.88btbtt.com/) - *Movies / TV / Anime*
 * [piaohua](https://www.piaohua.com/) - *Movies / TV / Anime*
 * [高清电台](https://gaoqing.fm/) - *Movies / TV / Anime / Use VPN or Google Translate to Access*
 * [RARBT](http://www.rarbt.cc/) - *Movies* 
+* [Dy2018](https://www.dy2018.com/) - *Movies*
+* [Zimuxia](https://www.zimuxia.cn/) - *TV*
 * [ACG.rip](https://acg.rip/) - *Anime / Music* 
 * [Snow-Raws](https://snow-raws.com/) - *Anime / [Official Tracker](https://www.skyey2.com/)*
 * [Ali213](https://ali213.net/) - *Games*
