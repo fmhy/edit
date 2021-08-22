@@ -15,6 +15,7 @@
 * **[MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb)** - *Multi-Tool Google Colab*
 * [ShellBot](https://github.com/MannyHackers/ShellBot) - *Multi-Tool Telegram Bot*
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - *Open Source Tools* 
+* [Dashboard](https://zzanehip.github.io/Dashboard/) - *Mac Dashboard Widget WebUI*
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - *AI Experiments / Tools* 
 * [Yandex Disk](https://disk.yandex.com/) - *Cloud Storage / File Sharing / Office Tools* 
 * [downloader](https://downloader.la/) - *Tools / Downloaders*
@@ -129,6 +130,7 @@
 * [quipqiup](https://www.quipqiup.com/) - *Cryptogram Solver* 
 * [xeuledoc](https://github.com/Malfrats/xeuledoc) - *Fetch Information about Public Google Documents*
 * [Useless-Translator](https://vcjhwebdev.github.io/useless-translator/) - *Morse Code / Binary Translator* 
+* [Infinite Story](https://infinite-story.com/) or [WriteAlong](https://www.writealong.io/) - *Collaborative Story Writing*
 * [Transformer](https://transformer.huggingface.co/) or [Talk to Transformer](https://app.inferkit.com/demo) - *Text Autocomplete* 
 * [EleutherAI](https://6b.eleuther.ai/) - *Text / Story Autocomplete*
 * [StoryAI](https://storyai.botsociety.io/) - *Story Autocomplete*
@@ -186,6 +188,7 @@
 * [Among-Us-Dumpy-Gif-Maker](https://dumpy.t1c.dev/) - *Make Dumpy Among us GIFS / [GitHub](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)*
 * [DrMemes](https://www.drmemes.com/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - *Meme Maker* 
 * [MemeAtlas](https://www.memeatlas.com/) - *Meme Database* 
+* [Memegine](https://memegine.com/) - *Meme Search Engine*
 * [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh) - *Meme Templates*
 * [Frinkiac](https://frinkiac.com/) - *Simpsons Meme Maker*
 * [Morbotron](https://morbotron.com/) - *Futurama Meme Maker*
@@ -492,7 +495,7 @@
 * [RaveDJ](https://rave.dj/) - *Easily Mix Songs Together* 
 * [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - *Create Songs with Code* 
 * [Blokdust](https://blokdust.com/) - *Make Songs With Blocks* 
-* [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/) - *Song Maker*
+* [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/) or [Strofe](https://www.strofe.com/) - *Simple Song Creator*
 * [WebSynths](http://www.websynths.com/) - *Browser-Based Instruments* 
 * [Sampulator](http://sampulator.com/) - *Create Music with Your Keyboard* 
 * [JummBox](https://jummbus.bitbucket.io/) - *Create Chiptune Melodies* 
@@ -586,6 +589,7 @@
 * [Flickr Map](https://www.flickr.com/map/) - *Flickr Map*
 * [U Meet Me Here!](https://www.umeetmehere.com/) - *Find Closest Point Between Two Locations*
 * [Maps We Love](https://www.esri.com/en-us/maps-we-love/gallery), [CoolMaps](https://coolmaps.esri.com/#0) or [/r/MapPorn](https://reddit.com/r/MapPorn) - *Multiple Maps* 
+* [Human Terrain](https://pudding.cool/2018/10/city_3d/) - *Human Population Map*
 * [DarkSky](https://maps.darksky.net/) - *Weather Maps*
 * [Windy](https://www.windy.com/) - *Wind Map* 
 * [Air Now](https://gispub.epa.gov/airnow/) or [Breezometer](https://www.breezometer.com/air-quality-map/) - *Air Quality Map*
@@ -893,6 +897,7 @@ General Reading Sites*
 * [pyfuzz](https://github.com/AyoobAli/pyfuzz) - *URL Fuzzing Tool* 
 * [Backlink Tool](https://backlinktool.io/) - *URL Indexer* 
 * [Blocked](https://www.blocked.org.uk/) - *UK ISP Site Blocking Test* 
+* [a tree of inaction](https://treeofinaction.com/) - *Linktr.ee Aggregator Duplicate Check*
 
 ***
 
@@ -1608,6 +1613,7 @@ General Reading Sites*
 * [WinXP.now](https://winxp.now.sh/) - *Windows XP Browser Emulator*
 * [EmuOS](https://emupedia.org/beta/emuos/), [2](https://emupedia.net/beta/emuos/), [3](https://emuos.net/beta/emuos/), [4](https://emuos.org/beta/emuos/) - *Windows 95, 98 & ME Emulator*
 * [98.js](https://98.js.org/), [Rahul](https://rahul.io/) or [Packard Belle](https://packard-belle.netlify.com/) - *Windows 98 Emulator*
+* [Windows96.net](https://windows96.net/) - *Windows 96 Browser Emulator*
 * [Win95](https://win95.ajf.me/) - *Windows 95 Browser Emulator* 
 * [Windows93](http://www.windows93.net/) - *Windows 93 Browser Emulator / Games*
 * [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - *Run Classic Games / Apps In Browser* 
@@ -1642,13 +1648,14 @@ General Reading Sites*
 * [bspview](https://devanbuggay.com/bspview/) - *Explore Quake/GoldSrc maps in your browser / [Github](https://github.com/sbuggay/bspview)* 
 * [NES Maps](https://www.nesmaps.com/) - *NES Game Maps* 
 * [SNES Maps](https://www.snesmaps.com/) - *SNES Game Maps*
+* [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - *Breath of The Wild Map*
 * [Open Game Art](https://opengameart.org/) - *Game Assets / Images* 
 * [Random Dice](http://www.dicesimulator.com/) - *Dice Simulator*
 * [Roll20](https://roll20.net/), [Rolisteam](https://rolisteam.org/) or [Astral](https://www.astraltabletop.com/) - *Tabletop RPG Streaming*
 * [FrontierNav](https://frontiernav.net/) - *JRPG Databases & Interative Maps*
-* [Ethereal Games](https://wiki.etherealgames.com/) - *JRPG Wiki*
-* [Dungeon Map Doodler](https://dungeonmapdoodler.com/) or [donjon](http://donjon.bin.sh/) - *Draw and Build Dungeons* 
 * [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/), [HexHTML](https://hextml.playest.net/), [Nat Geo Map Maker](https://mapmaker.nationalgeographic.org/) or [MapTool](https://www.rptools.net/?page=maptool) - *Map Making Tools* 
+* [Dungeon Map Doodler](https://dungeonmapdoodler.com/) or [donjon](http://donjon.bin.sh/) - *Draw and Build Dungeons* 
+* [Ethereal Games](https://wiki.etherealgames.com/) - *JRPG Wiki*
 * [Adventurer's Codex](https://adventurerscodex.com) -  *Online D&D 5e Campaign Manager / System*
 * [DS4Windows](http://ds4windows.com/) or [InputMapper](https://inputmapper.com/) - *DS4 Tool* 
 * [ViGEmBus](https://github.com/ViGEm/ViGEmBus) - *DS4 / 360 Controller Emulator*
