@@ -375,6 +375,7 @@
 * [FreeGames.codes](https://freegames.codes/) - *Games / [Android](http://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes)*
 * [IsThereAnyDeal](https://isthereanydeal.com/#/filter:&price/0/0) - *Games* 
 * [IndieGala](https://freebies.indiegala.com/) - *Games*
+* [/r/ClaimFreeGames/](https://www.reddit.com/r/ClaimFreeGames/) - *Games*
 * [ClaimFreeGames](https://claimfreegames.com/) - *Games* 
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - *Games*
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - *Auto-Claim Free Epic Games*
@@ -648,6 +649,7 @@
 * [The.Matrix-ASCII](http://takeovertheworld.org/matrix/) - *The Matrix Encoded in Text*
 * [sCandyBars](https://scandybars.com/) - *Candy Bar Photo Blog*
 * [Hobune](https://hobune.stream/) - *Deleted YouTube Video Archive*
+* [ASCIIMATION](http://www.asciimation.co.nz/) - *Star Wars ASCII Animation*
 * [Nestflix](https://nestflix.fun/) - *Fictional Media in Media Database*
 * [Vintage Ad Browser](http://www.vintageadbrowser.com/) - *100,000+ Vintage Advertisements* 
 * [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - *Japanese Commercial Archive*
@@ -672,6 +674,8 @@
 * [FontSpace](https://www.fontspace.com/)
 * [Google Fonts](https://fonts.google.com/)
 * [Dafont Free](https://www.dafontfree.net/) 
+* [Windows Fonts](https://wfonts.com/)
+* [FONToMASS](https://m.vk.com/topic-178186634_39300099?offset=0)
 * [Font Squirrel](https://www.fontsquirrel.com/)
 * [Free Fonts Family](https://freefontsfamily.com/)
 * [1001 Free Fonts ](https://www.1001freefonts.com/)
@@ -708,22 +712,27 @@
 * [Awesome Health](https://github.com/lalaithan/awesome-health) - *Health Resources Index*
 * [NutritionFacts.org](https://nutritionfacts.org/) - *Video Library for Latest Health-based Research*
 * [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - *Havard University Health Website*
+* [MyPlate](https://www.myplate.gov/) - *Food Pyramid*
 * [tellspecopedia](http://www.tellspecopedia.com/) - *List of Food Ingredients & effects on Body*
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - *Child Nutrition / Cooking Course* 
 * [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) - *Fitness / Nutrition Info* 
 * [fastnfitness](https://github.com/brodeurlv/fastnfitness) - *Track Your Exercise Progress*
 * [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) - *Exercise & Activity Tracker*
+* [ExRx.net](https://exrx.net/) - *Exercise Resources*
 * [Cronometer](https://cronometer.com/) - *Track Nutrition & Calories*
 * [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - *Daily Diet Recommendations / Android*
+* [Examine.com](https://examine.com/) - *Supplement & Nutrition Analysis*
 * [openScale](https://f-droid.org/packages/com.health.openscale/) - *Weight & Body Metrics Tracker*
 * [Simple Science Fitness](https://ss.fitness/calculators) - *Fitness Calculators* 
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - *BMR / TDEE Calculator*
+* [/r/BodywightFitness](https://www.reddit.com/r/BodyweightFitness) - *Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)*
 * [My Pacer](https://www.mypacer.com/) - *Fitness App / Pedometer*
 * [MyFitnessPal](https://www.myfitnesspal.com/) - *Fitness / Health App*
 * [Awesome Nutrition Calculator](https://github.com/RolandKawka/awesome-nutrition-calculator) - *Nutrition Calculator*
 * [wger](https://wger.de/) - *Self-Hosted Workout, Nutrition & Weight App / [GitHub](https://github.com/wger-project/wger)*
 * [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
 * [Fitocracy](https://www.fitocracy.com/) - *Create Workout Plans*
+* [DAREBEE](https://darebee.com/) - *Fitness Plans / Workouts*
 * [MapMyWalk](https://www.mapmywalk.com/) - *Map / Track Walks*
 * [Charity Miles](https://charitymiles.org/) - *Donate to Charity While Running / Biking*
 * [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - *Zombie Running Adventure Game*
