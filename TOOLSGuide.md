@@ -38,6 +38,7 @@
 * [Meeter](https://trymeeter.com/) - *Video Meeting Manager / Mac*
 * [Onym](https://guide.onym.co/) - *Tools / Resources for Naming Things*
 * [WorldTaxiMeter](https://www.worldtaximeter.com/) - *Taxi Fare Calculator*
+* [GasPrices](https://gasprices.aaa.com/) - *Gas Price Calculator*
 * [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - *Bedtime Calculator* 
 * [eXHALeR](https://www.xhalr.com/) - *Yoga / Meditation Breathing Tool* 
 * [ActivityWatch](https://activitywatch.net/) - *Automatically Track Device Activity / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)* 
@@ -268,7 +269,7 @@
 * [Worldvectorlogo](https://worldvectorlogo.com/) - *Brand Logos*
 * [Bendodson](https://bendodson.com/projects/itunes-artwork-finder/), [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) - *Find multimedia artwork*
 * [Kemono](https://kemono.party/) - *Patreon Content / Some NSFW*
-* [Pixiv](https://www.pixiv.net/en/) - *User Made Image Host / [Downloader](https://github.com/nonPointer/PixivDownloader)*
+* [Pixiv](https://www.pixiv.net/en/) - *User Made Image Host / [Downloader](https://github.com/nonPointer/PixivDownloader), [2](https://chrome.google.com/webstore/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnj?hl=en)*
 * [FanArt](https://fanart.tv/) - *Fan Made Posters / Logos* 
 * [CGPersia](https://cgpersia.com/), [Clara](https://clara.io/library), [Sketchfab](https://sketchfab.com/), [GrabCad](https://grabcad.com/) or [Free3D](https://free3d.com/) - *3D Models*
 * [Thingiverse](https://www.thingiverse.com/), [Yeggi](https://www.yeggi.com/) or [YouImagine](https://www.youmagine.com/) - *3D Printer Models* 
@@ -277,7 +278,7 @@
 * [CC0 Textures](https://cc0textures.com/) - *Textures for 3D Models* 
 * [Generated Photos](https://generated.photos/) - *AI Generated Model Photos*
 * [Blender](https://www.blender.org/) - *Open Source 3D Modeler / 2D Animation / Video Editor*
-* [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [Vectary](https://www.vectary.com/) or [Art of Illusion](http://aoi.sourceforge.net/) - *3D Modeling / Art Design Tool*
+* [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [PovRay](http://www.povray.org/), [Vectary](https://www.vectary.com/) or [Art of Illusion](http://aoi.sourceforge.net/) - *3D Modeling / Art Design Tool*
 * [MakeHuman](http://www.makehumancommunity.org/) - *3D Humanoid Modeler*
 * [FaceMaker](http://facemaker.uvrg.org/) - *Face / Avatar Generator* 
 * [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - *AI Art Generation Guide*
@@ -425,6 +426,7 @@
 * [SimSwap](https://github.com/neuralchen/SimSwap) - *Video Face Swap Tool*
 * [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - *Deepfake Video Creator*
 * [4K Media](https://4kmedia.org/) - *Free 4K Video Demos*
+* [L3-WEB-DL-Script](https://github.com/parnexcodes/widevine-L3-WEB-DL-Script) - *Widevine L3 DL Script*
 
 ***
 
@@ -443,13 +445,13 @@
 * **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - *Audio Visualization Resource Index* 
 * **[Determine Audio File Quality](https://redd.it/3l0yxp)**, [Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](http://spek.cc/) or [Spectro](http://spectro.enpts.com/) - *Determine Quality of Audio Files*
 * **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)** - *Audio compression examples*
-* [OpenAudio](https://github.com/webprofusion/OpenAudio) or [PLUGINS4FREE](https://plugins4free.com/) - *Audio Plugins & Apps* 
+* [OpenAudio](https://github.com/webprofusion/OpenAudio), [/r/CrackedPlugins2](https://www.reddit.com/r/CrackedPlugins2/), [/u/BitterApple69 Plugins](https://drive.google.com/drive/folders/1vgBCLfSFnHmBzUFPzog0wVdziAEAdi0p) or [PLUGINS4FREE](https://plugins4free.com/) - *Audio Plugins & Apps* 
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - *Learn How to Play Music*
 * [Jukebox](https://jukebox.today/) or [jqbx](http://jqbx.fm/) - *Music Sync / Listening Parties*
 * [Versefy](https://versefy.app/) - *Lyrics Finder for Spotify, Tidal & VLC*
 * [Whyp](https://whyp.it/) - *Audio File Host*
 * [Audiocheck](https://www.audiocheck.net/) - *Audio Tests* 
-* [Online Mic Test](https://onlinemictest.com/) - *Mic Test* 
+* [Online Mic Test](https://onlinemictest.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - *Mic Test* 
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) - *Measure Surrounding Sound Level*
 * [Audio-Router](https://github.com/audiorouterdev/audio-router) - *Route Audio from Programs to Devices*
 * [AAFDCHDriverMod](https://github.com/AlanFinotty/AAFDCHDriverMod) or [Ultimate Realtek HD Audio Driver Mod](https://1drv.ms/f/s!AkGtxiGigudSzVLpSjYdvkAqrejL) - *Realtek Audio Driver*
@@ -462,6 +464,7 @@
 * [Midomi](https://www.midomi.com/), [Shazam](https://www.shazam.com/), [SoundHound](https://www.soundhound.com/soundhound), [AcrCloud](https://www.acrcloud.com/identify-songs-music-recognition-online/), [Music ID Android](https://play.google.com/store/apps/details?id=com.gravitymobile.recognize&hl=en), [Music ID iOS](https://apps.apple.com/app/musicid/id358838909?ign-mpt=uo%3D8), [/r/NameThatSong](https://reddit.com/r/NameThatSong), [Dejavu](https://github.com/worldveil/dejavu) (python) or [Audd](https://audd.io/) (api) - *Song Identification Tools* 
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/) - *Soundboard Program*
 * [MyInstants](https://www.myinstants.com/index/us/) - *Online Soundboard*
+* [Soundpad](https://www.leppsoft.com/soundpad/) - *Voicechat Soundboard*
 * [Monash IO](https://monash.io/) or [AudioRelay](https://audiorelay.net/) - *Stream PC Audio to Phone* 
 * [Tune My Music](https://www.tunemymusic.com/) - *Transfer Your Music Library between Music Services*
 * [iPod.js](https://tannerv.com/ipod/) - *iPod Themed Web Music Player*
@@ -503,7 +506,7 @@
 * [Theremin](https://femurdesign.com/theremin/) - *Online Synth / Theremin* 
 * [Web Synth V2](http://aikelab.net/websynthv2/) or [TANGUY](http://tanguysynth.com/) - *Online Synthesizer*
 * [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - *Pop Song Sample Mixer*
-* [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Voca.ro](https://voca.ro/) or [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Online Audio Recorder*  
+* [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/) or [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Online Audio Recorder*  
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts* 
 * [lalal.ai](https://www.lalal.ai/) - *Split Vocal and Instrumental Tracks from music* 
 * [Get Song BPM](https://getsongbpm.com/) - *Song Tempo Database*
@@ -688,7 +691,7 @@
 * [Jam](https://jam.systems/), [GROK](https://grokat.com/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
 * [IMumble](https://www.imumble.nl/) - *Voice Chat Server*
 * [Speak After Click](https://speakafter.click/) - *Click to Speak Voice Chat* 
-* [Branch](http://branch.gg/) - *Virtual World Voice Chat*
+* [Branch](http://branch.gg/) or [Gather](https://gather.town/) - *Virtual World Voice Chat*
 * [FireStorm Viewer](https://www.firestormviewer.org/) - *Virtual World Viewer*
 * [Telegram Email](https://t.me/etlgr_bot) - *Send / Receive Emails via Telegram* 
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://www.nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - *Scheduled Email Sending & Reminders* 
@@ -831,6 +834,7 @@ General Reading Sites*
 * [Whoogle](https://benbusby.com/projects/whoogle-search/) - *Self-Hosted Search Engine*
 * [grep.app](https://grep.app/) - *Git Repo Search*
 * [useful-forks](https://useful-forks.github.io/) - *GitHub Fork Search* 
+* [MyCroftProject](https://mycroftproject.com/) - *Search Engine Plugins*
 
 ***
 
@@ -1187,6 +1191,7 @@ General Reading Sites*
 * [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) or [Invidition](https://codeberg.org/Booteille/Invidition) - *Redirects Twitter to alt interface*
 * [Yotter](https://yotter.kavin.rocks/) - *Twitter Frontend* 
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) or [Forget](https://forget.codl.fr/) - *Twitter Auto Post Delete*
+* [MegaBlock](https://megablock.xyz/) - *Easily Block Twitter Users & Tweets*
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - *Delete Twitter Likes / Favorites* 
 * [Unfavinator](http://unfavinator.com/) - *Delete Twitter Favorites*
 * [TweetDelete](https://tweetdelete.net/) or [TweetEraser](https://www.tweeteraser.com/) - *Delete Twitter Posts in Bulk* 
@@ -1203,6 +1208,7 @@ General Reading Sites*
 * [RandomTweet](https://randomtweet.com/) - *Get a Random Tweet from any User*
 * [EmojiTracker](http://emojitracker.com/) - *Real-Time Twitter Emoji Use* 
 * [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) - *Remove All Twitter Metrics*
+* [Cheap Bots, Done Quick](https://cheapbotsdonequick.com/) - *Create Twitter Bots*
 
 ***
 
@@ -1582,7 +1588,7 @@ General Reading Sites*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old MacOS ISOs*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
 * [NHCalc](https://github.com/KhaosT/nhcalc) - *Compute Image NeuralHash*
-* [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - *Convert NeuralHash for CSAM Detection to ONNX*
+* [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - *Convert NeuralHash for CSAM Detection to ONNX / [Collision Finder](https://github.com/anishathalye/neural-hash-collider)*
 
 ***
 
@@ -1619,6 +1625,7 @@ General Reading Sites*
 * **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)** - *Game Requirements Test* 
 * [/r/CrackWatch](https://reddit.com/r/CrackWatch), [SteamCrackStatus](https://steamcrackedgames.com/) / [Discord](https://discord.com/invite/hrCtqcyHKw) / [/r/SteamCrackedGames](https://reddit.com/r/SteamCrackedGames) or [CrackSnoop](https://github.com/CrackSnoop/cracksnoop) - *Scene Release Trackers / [Discord](https://discord.gg/d9StxkknwX)*
 * [Before I Play](http://www.beforeiplay.com/) - *Tips for any Game* 
+* [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - *Rainmeter Game Launcher*
 * [Fraps](https://fraps.com/), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - *FPS Benchmarking Utility*
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner) - *Graphics Card Overclocking Utility / FPS Benchmarking*
 * [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - *Game Fixes and Patches*
