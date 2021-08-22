@@ -23,6 +23,7 @@
 * [Deezer](https://www.deezer.com/) - *Streaming*
 * [MusicBucket](https://musicbucket.net/) - *Track / Share Music / Telegram* 
 * [Spot](https://github.com/xou816/spot) - *Spotify Desktop Client for Gnome* 
+* [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - *Unlock Unavailable Netease Music*
 
 ***
 
@@ -242,6 +243,7 @@
 * [DiscogC](https://www.discogc.com/) - *FLAC*
 * [ubdn](http://ubdn.me/) - *MP3 / FLAC* 
 * [IntMusic](https://intmusic.net/) - *MP3 / FLAC*  
+* [Mp3Flac](https://mp3flac.site/) - *MP3 / FLAC*
 * [Gangster](https://gangster.su/) - *MP3 / FLAC*  
 * [Core Radio](https://coreradio.ru/) - *MP3 / FLAC* 
 * [AlterPortal](https://alterportal.net/) - *MP3 / FLAC*
