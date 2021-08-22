@@ -46,24 +46,29 @@
 * [NetU Search](https://netu.tv/view_page.php?pid=4) - *Click [blue box](https://i.imgur.com/c19hKLw.png)*
 * [Boob Critic](http://www.boobcritic.com/) - *Rate Boobies*
 * [GalleryCherry](https://github.com/RobbWatershed/GalleryCherry) - *Gallery Archiving Android App*
+* [fap.bar](https://fap.bar/) - *Endless NSFW Subreddit Videos*
 * [JavHDPorn](https://www2.javhdporn.net/) - *Japanese Porn*
+* [141Jav](https://www.141ppv.com/) - *Japanese Porn*
+* [JavEnglish](http://javenglish.cc/) - *Japanese Porn*
 * [CamVault](https://camvault.xyz/) - *DL Chaturbate, MyFreeCams & CAM4 Recordings*
 * [Recordbate](https://recordbate.com/) - *Chaturbate Recordings*
 * [PornDude OnlyFans](https://theporndude.com/snapchat-nudes-sites) - *OnlyFans / Patreon*
-* [400 GB @OnlyfanDrive](https://mega.nz/folder/opICgJAY#ulwaZ34Jupcnjh96jD7f0Q/) - *OnlyFans*
 * [LeakMeUp](https://leakemup.com/forums/) - *OnlyFans / Patreon*
 * [Thots.tv](https://thots.tv/) - *Onlyfans / Patreon*
 * [kemono.party](https://kemono.party/) - *OnlyFans / Patreon / [Attachments](https://kemono.party/attachments/)*
 * [OnlyNudes](https://onlynudes.net/) - *OnlyFans*
-* [FYPTT](https://fyptt.to/) - *TikTok Porn*
+* [FYPTT](https://fyptt.to/) - *TikTok*
+* [Leaque](https://leaque.net/) - *TikTok*
 * [Booba.tv](https://booba.tv/) - *Twitch Streamers*
+* [Plexstorm](https://www.plexstorm.com/) - *Adult Game Streaming*
 
 ***
 
 ## Download 
 
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "nsfw"
-* [House of Mega](https://houseofmega.com/) 
+* [1TB [P]RON](https://mega.nz/folder/jGJTWShL#bYF2lqReJjlFblroOgGNTw/folder/WC41Gaqb) - *Porn Drive*
+* [400 GB @OnlyfanDrive](https://mega.nz/folder/opICgJAY#ulwaZ34Jupcnjh96jD7f0Q/) - *OnlyFans*
 * [Porn GDrives](https://redd.it/l3ugp6/), [2](https://photos.app.goo.gl/VtK9Aj3Vnbr2Pohc8), [3](https://photos.app.goo.gl/v7PdoDowqDhRRpa47), [4](https://photos.app.goo.gl/M8xBKo6CPtHRCUcC8), [5](https://drive.google.com/drive/folders/1cOAi2Ne4rldowhR5xEMI4Fc0mI-GA8iI?usp=sharing)
 * [PornFactors](http://pornfactors.com/) 
 * [RaidForums NSFW](https://raidforums.com/Forum-Not-Safe-For-Work)
@@ -72,6 +77,7 @@
 * [Uploadgig](https://ugmovies.org/porn-movies/) 
 * [PornFile](https://pornfile.cz/) 
 * [0xxx](https://0xxx.ws/) 
+* [House of Mega](https://houseofmega.com/) 
 * [Kimochi](https://kimochi.tv/) 
 * [SweetPorn](https://sweetporn.org/) 
 * [xxxFile.org](https://xxxfile.org/) 
@@ -87,6 +93,7 @@
 * [PornLeech](http://pornleech.io/)
 * [Sexy-Pics](https://www.sexy-pics.us/)
 * [relizer](http://relizer.net/) 
+* [色花堂-98堂](https://www.sehuatang.net/)
 * [JavBus](https://www.javbus.com/en) - *Japanese*
 * [141Jav](https://www.141jav.com/) - *Japanese*
 * [Cheggit](http://www.cheggit.me/register.php), [BitSexy](https://bitsexy.org/signup.php) or [HappyFappy](https://www.happyfappy.org/users/register) - *Private Trackers / Open-Signups*
@@ -137,18 +144,22 @@
 * [Hentai Manga Sites](https://theporndude.com/hentai-manga-sites) - *Hentai Manga Site List*
 * [Nyaa Sukebei](https://sukebei.nyaa.si/) 
 * [Haho](https://haho.moe/)
+* [HentaiStream](https://hentaistream.moe/) 
 * [HentaiDude](https://hentaidude.com/)
 * [RaidForums NSFW](https://raidforums.com/Forum-Not-Safe-For-Work)
 * [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46) 
 * [sakuracircle](https://sakuracircle.com/) 
 * [MyReadingManga](https://myreadingmanga.info/)
+* [Ryuugames](https://ryuugames.com/) 
+* [NewToki69](https://newtoki96.com/)
 * [Wholesome Hentai](https://wholesomelist.com/)
+* [ToonKor](https://tkor.dog/) - *[Twitter](https://twitter.com/tkor_info)*
 * [Anime-Sharing Hentai](http://www.anime-sharing.com/forum/hentai-ovas-36/)
 * [Porndude Hentai](https://theporndude.com/hentai-porn-sites)
 * [NClientV2](https://github.com/Dar9586/NClientV2) - *NHentai Android Client*
 * [TachiyomiSY](https://tachiyomi.org/forks/TachiyomiSY/) - *Hentai Android Client*
 * [Hentoid](https://github.com/avluis/Hentoid) or [Hendroid](https://www.f-droid.org/en/packages/org.nonononoki.hendroid/) - *Hentai Archiving Android App*
-
+* [nhentai](https://github.com/RicterZ/nhentai) - *Downloader for nhentai*
 
 ***
 
@@ -161,6 +172,7 @@
 * [Otomi Games](https://otomi-games.com/)
 * [Puppet Nightmares](https://www.puppetnightmares.com/) 
 * [The Asenheim Project](https://www.asenheim.org/)
+* [LewdList](http://web.archive.org/web/20190515205509/https://www.lewdlist.com/) - *Game Index*
 * [Lewdzone](https://lewdzone.com/) - *Games / Animations*
 
 ***
@@ -178,7 +190,7 @@
 * [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) - *Pornhub Downloader*
 * [/cumg/](https://rentry.co/coom) - *Hentai Tools*
 * [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) or [Panda Chaika](https://panda.chaika.moe/) - *Hentai Downloader*
-* [nhentai](https://github.com/RicterZ/nhentai) - *Downloader for nhentai*
+* [Powrcord Sauce](https://github.com/SammCheese/powercord-sauce) - *Powercord Sauce Plugin*
 * [DreamTime](https://dreamtime.tech/) - *Create Fake Nudes from Photos & Videos*
 * [asciiplayer](https://gist.github.com/girst/5834f8e8ba92b42c2c61) - *PornHub ASCII Player*
 * [Awesome-Buttplug](https://github.com/buttplugio/awesome-buttplug) - *Buttplug Project Index*
@@ -186,3 +198,4 @@
 * [minegasm](https://minegasm.therainbowville.com/) - *Connect Minecraft to Sex Toys*
 * [MoanMyIP](https://www.moanmyip.com/) - *Sexy Girls Moaning Your IP*
 * [electric.smut](https://nsfwai.com/) - *NSFW Image Generator*
+* [Brainbuddy](https://www.brainbuddyapp.com/) - *Porn Blocker / Android / iOS*
