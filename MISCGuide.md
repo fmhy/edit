@@ -320,6 +320,7 @@
 * [endoflife.date](https://endoflife.date/) - *Tools & Technologies' End of life Index*
 * [KilledByGoogle](https://killedbygoogle.com/) - *Dead Google Project Index*
 * [KilledByMicrosoft](https://killedbymicrosoft.info/) - *Dead Microsoft Project Index*
+* [Awesome Tech for Good](https://github.com/TechforgoodCAST/awesome-techforgood) - *Social Impact Tech Index*
 
 ***
 
