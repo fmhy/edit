@@ -300,7 +300,7 @@
 ## ▷ Religion / Esoterica
 
 * **[Sacred Text Archive](https://www.sacred-texts.com/index.htm)** - *Religion / Mythology / Folklore / Esoterica*
-* **[ARCHIVES](https://discord.com/invite/FqFp8Q4)** - *Occult / Witchcraft / Religion*
+* **[ARCHIVES](https://discord.gg/occult)** - *Occult / Witchcraft / Religion*
 * **[WiLd's Occult Ebook Sources](https://justpaste.it/WiLdOccultEbooks)** - *Occult / Esoterica*
 * [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2) - *Occult*
 * [GodChecker](https://www.godchecker.com/) - *Learn about Gods from different Religions*
