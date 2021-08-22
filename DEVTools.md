@@ -20,6 +20,7 @@
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - *Python Guide*
 * [CodingBat](https://codingbat.com/) - *Python / Java Practice*
 * [Python4Everyone](https://py4e.com/) - *Python Lessons*
+* [Real Python](https://realpython.com/) - *Python Tutorials*
 * [Tea Press](https://greenteapress.com/wp) - *Free Python Learning Books Green*
 * [Roadmap](https://roadmap.sh/) - *Developer Roadmaps / Guides* 
 * [Aquent Gymnasium](https://thegymnasium.com/) - *Courses* 
@@ -278,7 +279,7 @@
 * [Active Github Forks](https://techgaun.github.io/active-forks/) - *List of active github forks*
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) - *View a Repositories Forks* 
 * [grep.app](https://grep.app/) - *Git Repository Search*
-* [Git Extensions ](https://gitextensions.github.io/) - *Git Repository Manager*
+* [Git Extensions ](https://gitextensions.github.io/) - *Git Repository Manager*https://muxiv.net/
 * [GitZip](https://gitzip.org/) - *Download GitHub Repository Sub-Folders / Files* 
 * [useful-forks](https://useful-forks.github.io/) - *GitHub Fork Search* 
 * [OctoLinker](https://octolinker.now.sh/) - *Make GitHub Code References Clickable* 
@@ -293,7 +294,7 @@
 * [Shields.io](https://shields.io/) - *Metadata badges for Github Readmes*
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - *Enable Snake Game on GitHub ReadMe*
 * [Discord MD Badge](https://github.com/montylion/discord-md-badge) - *Add Discord Badge to GitHub*
-* [GitNFT](https://gitnft.quine.sh/) - *Create Git NFTs*
+* [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub), [diohub](https://github.com/NamanShergill/diohub) or [OctoDroid](https://github.com/slapperwan/gh4a) - *Android GitHub Client*
 
 ***
 
