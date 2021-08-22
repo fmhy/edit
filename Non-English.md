@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/XbOdxIj.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/CfSuZ01.png)** - *For mobile users*
 
 ***
 ***
@@ -95,6 +95,7 @@
 
 * [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - *Chinese Site / Tool Index*
 * [zimuku](http://zimuku.org/) or [SubHD](https://subhd.tv/) - *Subtitles*
+* [Dianying](https://dianying.fm/) - *Hash Search*
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io) - *Bypass Chinese Firewall*  
 
@@ -105,9 +106,12 @@
 * [BD2020](https://www.bd2020.com/) - *Movies*
 * [52hdking](http://www.52hdking.com/) - *TV*  
 * [Zimuxia](https://www.zimuxia.cn/) - *TV*
+* [shinybbs](https://sub.shinybbs.vip/) - *TV* 
 * [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - *Courses / [icourse163](https://www.icourse163.org/)*
 * [91Flac](https://www.91flac.com/) - *Music* 
+* [Hifini](https://www.hifini.com/) - *Music *
 * [Flac123](https://www.flac123.com/) - *Music* 
+* [wsyymfxz](http://www.wsyymfxz.com/) - *Music* 
 * [J-pop Music Download](https://jpop.xyz/) - *Music / FLAC / MP3* 
 * [tlanyan](https://tlanyan.me/) - *Linux / Software*  
 * [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - *Courses / [icourse163](https://www.icourse163.org/)*
@@ -120,11 +124,15 @@
 * [XiaZai001](https://www.xiazai001.com/) - *Video / Audio / Software*
 * [dytt8](https://dytt8.net/), [dy2018](https://dy2018.com/), [ygdy8](https://ygdy8.com/index.html) or [dydytt](https://www.dydytt.net) - *Movies / TV / Anime*
 * [88btbtt](https://www.88btbtt.com/) - *Movies / TV / Anime*
+* [ygdy8](https://www.ygdy8.net/) - *Movies / TV / Anime* 
 * [piaohua](https://www.piaohua.com/) - *Movies / TV / Anime*
+* [Dytt8](https://dytt8.net/) - *Movies / TV / Anime*
 * [高清电台](https://gaoqing.fm/) - *Movies / TV / Anime / Use VPN or Google Translate to Access*
 * [RARBT](http://www.rarbt.cc/) - *Movies* 
+* [dygang](https://www.dygang.cc/) - *Movies*
 * [Dy2018](https://www.dy2018.com/) - *Movies*
 * [Zimuxia](https://www.zimuxia.cn/) - *TV*
+* [shinybbs](https://sub.shinybbs.vip/) - *TV* 
 * [ACG.rip](https://acg.rip/) - *Anime / Music* 
 * [Snow-Raws](https://snow-raws.com/) - *Anime / [Official Tracker](https://www.skyey2.com/)*
 * [Ali213](https://ali213.net/) - *Games*
@@ -141,12 +149,19 @@
 * [v.qq](https://v.qq.com/) - *Movies / TV / Anime*
 * [MoMoVOD](https://momovod.tv/) - *Movies / TV / Anime*
 * [uvod.tv](https://www.uvod.tv/) - *Movies / TV / Anime*
+* [2Tucc](http://www.2tu.cc/) - *Movies / TV / Anime*
 * [IcDrama](http://icdrama.video/) - *Movies / TV*
+* [cmdy365](https://www.cmdy365.cc/) - *Movies / TV / Anime*
 * [Meiju](https://www.meiju11.com/) or [iMeiju](https://www.imeiju.net/) - *Movies / TV*
 * [Nunu Cinema](https://www.nunuyy.com/) - *Movies / TV*
+* [Fun.tv](http://www.fun.tv/) - *Movies / TV*
+* [PPTV](https://www.pptv.com/) - *TV*
 * [qiqi8](http://qiqi8.net/) - *Anime*
 * [AGE動漫](https://agefans.tw/) - *Anime*
 * [music.163](https://music.163.com/) - *Music*
+* [MuXiv](https://muxiv.net/) - *Music*
+* [Guqiankun](http://www.guqiankun.com/tools/music/) - *Music*
+* [Hifini](https://www.hifini.com/) - *Music *
 * [jsososo](http://y.jsososo.com/), [2](http://music.jsososo.com/) - *Music* 
 
 ## ▷ Reading 
@@ -503,8 +518,10 @@
 
 * [Akiba-Online](https://www.akiba-online.com/) - *Video / Audio / Games / Comics / NSFW*
 * [Asia Media Blog](https://asiamediablog.com/) - *Video / Audio / Software / Games / Magazines*
+* [Japan Media Blog](https://jpmdblog.com/) - *Video / Audio / Software / Games / [Telegram](https://t.me/japanmusicfree)*
 * [JPFILES](https://jpfiles.eu/) - *Video / Audio / Books / NSFW*
 * [jpddl](https://jpddl.com/) - *Manga / Anime / Music / Drama*  
+* [JPLearner](http://www.jplearner.to/) - *Video / Manga / Magazines*
 * [剧集](https://drive.google.com/drive/folders/1OuJJg_zr4pG3EW2SYFyV4CaBxlyypZAQ) - *Anime / Drive* 
 * [AnimeTime](https://www.animetime.pw/) - *Anime* 
 * [arearaw](http://arearaw.com/) - *Anime / Use Tor* 
@@ -512,6 +529,7 @@
 * [Sukidesuost](https://sukidesuost.info/) - *Music / MP3 / FLAC*
 * [Hikarinoakariost](https://hikarinoakari.com/) - *Music / MP3*
 * [jpop80ss](https://jpop80ss2.blogspot.com/)- *Music / MP3*
+* [JPopSingles](https://www.jpopsingles.eu/) - *Music / MP3 / FLAC*
 * [9tensu](http://www.9tensu.com/) - *Music / MP3*
 * [DoujinStyle.com](https://doujinstyle.com/) - *Music / MP3* 
 * [Music Fusion World](https://fusion-world-30.blogspot.com/) - *Music / MP3*
@@ -568,10 +586,22 @@
 * [Torrentrank](https://torrentrank.net/) - *Warez list* 
 * [bobaelink](https://www.bobaelink.net/) - *Warez list* 
 * [JPFILES](https://jpfiles.eu/) - *Video / Audio / Books / NSFW*
+* [PDPop](https://www.pdpop.com/) - *Video / Games / Books / NSFW* 
+* [WeDisk](https://www.wedisk.co.kr/) - *Movies / TV* 
+* [CinEast](https://cineaste.co.kr/) - *Movies* 
 * [Jpapas](https://jpapas.tistory.com/) - *Modded APKs* 
-* [J-pop Music Download](https://jpop.xyz/) - *Music / FLAC / MP3* 
-* [k2nblog](https://k2nblog.com/) or [HulkPop](http://hulkpop.top/)  - *Blog / KPop / MP3*
-* [ilKPOP](https://ilkpop.com/) - *KPop / MP3*
+* [J-pop Music Download](https://jpop.xyz/) - *Music* 
+* [4Sashi](https://4sashi.com/) - *Music*
+* [KPopExplorer](https://kpopexplorer.net/) - *Music*
+* [k2nblog](https://k2nblog.com/) or [HulkPop](http://hulkpop.top/)  - *Music*
+* [ilKPOP](https://ilkpop.com/) - *Music*
+* [KPopSea](https://kpopsea.com/) - *Soundtracks*
+* [VTH88](http://vth88.blogspot.com/) - *Music Videos*
+* [Devil Joo](https://devil-joo.blogspot.com/) - *Music Videos*
+
+## ▷ Torrenting
+
+* [TorrentHaja](https://torrenthaja.com/) - *Video / Audio / Games / Software / Books*
 
 ## ▷ Streaming
 
@@ -1114,6 +1144,7 @@
 ## ▷ Reading
 
 * [ShareScript](https://sharescript.net/) - *Script / Code Index*
+* [Trang chủ](https://ln.hako.re/) - *Light Novels*
 
 ***
 
