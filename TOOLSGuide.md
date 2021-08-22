@@ -62,7 +62,6 @@
 * [My Car Makes Noise](http://mycarmakesnoise.com/) - *Diagnose Car Problems via Sounds* 
 * [Safe Substance](https://safesubstance.com/) - *Drug Combination Info / Harm Reduction* 
 * [Stolen Camera Finder](https://www.stolencamerafinder.com/) - *Find Stolen Cameras* 
-* [Thingiverse](https://www.thingiverse.com/) - *3D Printer Files* 
 * [Sweet Home 3D](http://www.sweethome3d.com/) - *Interior Design App*
 * [SlidesGo](https://slidesgo.com/) or [ThePOPP](https://thepopp.com/) - *Google Slides / Powerpoint Templates* 
 * [QR Tiger](https://www.qrcode-tiger.com/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - *QR Code Generator* 
@@ -271,7 +270,10 @@
 * [Kemono](https://kemono.party/) - *Patreon Content / Some NSFW*
 * [Pixiv](https://www.pixiv.net/en/) - *User Made Image Host / [Downloader](https://github.com/nonPointer/PixivDownloader)*
 * [FanArt](https://fanart.tv/) - *Fan Made Posters / Logos* 
-* [CGPersia](https://cgpersia.com/), [Clara](https://clara.io/library), [Sketchfab](https://sketchfab.com/) or [Free3D](https://free3d.com/) - *3D Models*
+* [CGPersia](https://cgpersia.com/), [Clara](https://clara.io/library), [Sketchfab](https://sketchfab.com/), [GrabCad](https://grabcad.com/) or [Free3D](https://free3d.com/) - *3D Models*
+* [Thingiverse](https://www.thingiverse.com/), [Yeggi](https://www.yeggi.com/) or [YouImagine](https://www.youmagine.com/) - *3D Printer Models* 
+* [MyMiniFactory](https://www.myminifactory.com/) - *Mini 3D Printer Models*
+* [DEFCAD](https://defcad.com/) - *3D Gun Models*
 * [CC0 Textures](https://cc0textures.com/) - *Textures for 3D Models* 
 * [Generated Photos](https://generated.photos/) - *AI Generated Model Photos*
 * [Blender](https://www.blender.org/) - *Open Source 3D Modeler / 2D Animation / Video Editor*
@@ -375,7 +377,7 @@
 * [PlayPhrase](https://playphrase.me/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/) - *Clip Quote Search Engine*
 * [FFmpeg](https://ffmpeg.org/) - *Record, convert and stream audio & video / [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d)*
 * [ConvertVideoTGBot](https://t.me/ConvertVideoTGBot), [FileConvertRobot](https://t.me/FileConvertRobot) or [File2videoconvbot](https://t.me/File2videoconvbot) - *File to Video Telegram Bots* 
-* [OBS](https://obsproject.com/) - *Video Recording / Live Streaming* 
+* [OBS](https://obsproject.com/) - *Video Recording / Live Streaming / [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/)* 
 * [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - *Turn Screencasts into GIFs*
 * [Nimbus Capture](https://nimbusweb.me/screenshot.php) - *Screenshot / Video Capture Tool*
 * [Stream Recorder](https://www.hlsloader.com/) - *Streaming Video Recorder* 
@@ -1573,11 +1575,14 @@ General Reading Sites*
 * [MacLaunch](http://github.com/hazcod/maclaunch) - *Manage Startup Items*
 * [pongoOS](https://github.com/checkra1n/pongoOS) - *Mac Pre-Boot Executor*
 * [Homebrew](https://brew.sh/) - *Package Manager*
+* [Unlocker](https://github.com/paolo-projects/unlocker) - *VMware Unlocker*
 * [Sosumi](https://github.com/popey/sosumi-snap.git) - *Download & Install macOS in a VM* 
 * [USBMap](https://github.com/corpnewt/USBMap) - *Map MacOS USB Ports*
 * [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old MacOS ISOs*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
+* [NHCalc](https://github.com/KhaosT/nhcalc) - *Compute Image NeuralHash*
+* [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - *Convert NeuralHash for CSAM Detection to ONNX*
 
 ***
 
@@ -1592,6 +1597,7 @@ General Reading Sites*
 
 ## ▷ OS Emulators
 
+* [BlueEdge](https://win11.blueedge.me/) - *Windows 11 Browser Emulator*
 * [copy.sh](https://copy.sh/v86/), [OnWorks](https://www.onworks.net/), [simone.computer](https://simone.computer/#/webdesktops) or [Virtual Desktop](http://www.virtualdesktop.org/) - *Multiple OS Emulators*
 * [WinXP.now](https://winxp.now.sh/) - *Windows XP Browser Emulator*
 * [EmuOS](https://emupedia.org/beta/emuos/), [2](https://emupedia.net/beta/emuos/), [3](https://emuos.net/beta/emuos/), [4](https://emuos.org/beta/emuos/) - *Windows 95, 98 & ME Emulator*
