@@ -820,7 +820,7 @@ Add the following commands to a search to manually scrape each site.
 
 [PineTools](https://pinetools.com/), [123Apps](https://123apps.com/), [iTools](http://itools.com/), [Framasoft](https://framasoft.org/), [Browserling Tools](https://www.browserling.com/tools/)
 [Dan's Tools](https://www.danstools.com/), [WebBrowserTools](https://webbrowsertools.com/) 
-[CyberChef](https://gchq.github.io/CyberChef/), [ManyTools](https://manytools.org/), [Comment Picker](https://commentpicker.com/other-tools.php), [OSINT Combine](https://www.osintcombine.com/tools), [MxToolbox](https://mxtoolbox.com/NetworkTools.aspx), [Sumo](https://sumo.app/), [Melobytes](https://melobytes.com/en), [PatorJK](https://www.patorjk.com/), [SmallSEOTools](https://smallseotools.com/) 
+[CyberChef](https://gchq.github.io/CyberChef/), [ManyTools](https://manytools.org/), [Comment Picker](https://commentpicker.com/other-tools.php), [OSINT Combine](https://www.osintcombine.com/tools), [MxToolbox](https://mxtoolbox.com/NetworkTools.aspx), [Sumo](https://sumo.app/), [Melobytes](https://melobytes.com/en), [PatorJK](https://www.patorjk.com/), [SmallSEOTools](https://smallseotools.com/), [UnitPedia](https://unitpedia.com/) 
 
 ***
 
