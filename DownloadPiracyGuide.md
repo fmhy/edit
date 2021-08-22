@@ -267,6 +267,7 @@
 * [MacBed](https://www.macbed.com/) 
 * [AppDB](https://appdb.to/) 
 * [NXMac](https://nxmac.com/) 
+* [HaxMac](https://haxmac.cc/) 
 * [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 
