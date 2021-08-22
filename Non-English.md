@@ -1167,6 +1167,7 @@
 * [Zoro.to](https://zoro.to/) - *Multiple Language Subtitles / Anime*
 * [Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_asian_drama_sites)
 * [Einthusan](https://einthusan.tv/intro/) - *South Asian Films Archive*
+* [BalkanDownload](https://balkandownload.org/) - *Croatian / Download / Video / Audio / Software / Games / Books / Comics*
 * [wlext](https://wlext.is/) - *Turkish / Filipino / Thai / Streaming / Movies*
 * [KlikFilm](https://klikfilm.org/) - *Serbian / Streaming / Movies / TV*
 * [GeezLibrary](https://t.me/GeezLibrary) - *Amharic / Books*
