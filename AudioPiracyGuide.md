@@ -323,7 +323,7 @@
 * [RateYourMusic](https://rateyourmusic.com/), [Discogs](https://www.discogs.com/) or [Musicbranz](https://musicbrainz.org/) - *Album & Song Ratings / Reviews*
 * [45Cat](http://www.45cat.com/) - *Vinyl Ratings / Reviews*
 * [World Spotify](https://www.worldspotify.com/) - *Daily Most Streamed Tracks by Country* 
-* [Spotalike](https://spotalike.com/) - *Spotify Playlist Generator*
+* [Spotalike](https://spotalike.com/) or [RadioNewify](https://radionewify.com/) - *Spotify Playlist Generator*
 * [Forgotify](https://forgotify.com/) - *Spotify songs with 0 plays*  
 * [Obscurify](https://obscurifymusic.com/) - *Compare Music Taste to Others* 
 * [Chosic](https://www.chosic.com/) - *Song Discovery Tools*
