@@ -146,6 +146,7 @@
 * [Anime-Sharing Hentai](http://www.anime-sharing.com/forum/hentai-ovas-36/)
 * [Porndude Hentai](https://theporndude.com/hentai-porn-sites)
 * [NClientV2](https://github.com/Dar9586/NClientV2) - *NHentai Android Client*
+* [TachiyomiSY](https://tachiyomi.org/forks/TachiyomiSY/) - *Hentai Android Client*
 * [Hentoid](https://github.com/avluis/Hentoid) or [Hendroid](https://www.f-droid.org/en/packages/org.nonononoki.hendroid/) - *Hentai Archiving Android App*
 
 
