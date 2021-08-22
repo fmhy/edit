@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/E1l9aS2.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/k53tKBJ.png)** - *For mobile users*
 
 ***
 ***
@@ -119,17 +119,6 @@
 * [Emulator Netplay Tools](http://emulation.gametechwiki.com/index.php/Netplay) - *Multiplayer Emulation*
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - *Roms / [Discord](https://discord.gg/rH9wRpu2vh)* 
 * [PlayStationDiscord-Games](https://github.com/Tustin/PlayStationDiscord-Games) - *PS4 Remote Play* 
-* [retrogames.cc](https://www.retrogames.cc/) - *Browser Emulator / [Download Guide](https://i.imgur.com/jSAsSb6.png)*
-* [Emulator.Games](https://emulator.games/) - *Browser Emulator / Roms*
-* [GamulatoR](https://www.gamulator.com/roms) - *Browser Emulator / Roms*
-* [Play Emulator](https://www.playemulator.com/) - *Browser Emulator* 
-* [Aurora](https://skitty.xyz/aurora/) - *Browser Emulator* 
-* [Emulator.online](http://emulator.online/) - *Browser Emulator* 
-* [Emulator Games Online](https://emulatorgames.online/) - *Browser Emulator* 
-* [Emulator Online](https://emulatoronline.com/) - *Browser Emulator*
-* [PS1FUN](http://www.ps1fun.com/) - *PS1 Browser Emulator* 
-* [LYR9C](https://lyr9c.weebly.com/gba-games.html) - *GBA Browser Emulator* 
-* [LetsPlayGB](https://www.letsplaygb.com/) - *Game Boy Browser Emulator*
 * [PlanetEmu](http://www.planetemu.net/) - *Emulators*
 * [RoyalRoms](https://www.royalroms.com/) - *Emulators / Roms* 
 * [EmuCR](https://www.emucr.com/) - *Emulators*
@@ -187,6 +176,33 @@
 
 ***
 
+## ▷ Browser Emulators
+
+* **[My Abandonware](https://www.myabandonware.com/)**
+* **[RetroGames](https://www.retrogames.cz/)**
+* **[Console Living Room](https://archive.org/details/consolelivingroom)** 
+* **[retrogames.cc](https://www.retrogames.cc/)** - *[Download Guide](https://i.imgur.com/jSAsSb6.png)*
+* [ClassicReload](https://classicreload.com/) 
+* [Retro Games Bot](https://retrogamesbot.com/)
+* [Free80sArcade](http://www.free80sarcade.com/)
+* [Retro Uprising](http://www.retrouprising.com/) 
+* [Play Classic Games](https://playclassic.games/) 
+* [Emulator.Games](https://emulator.games/) 
+* [GamulatoR](https://www.gamulator.com/roms)
+* [Play Emulator](https://www.playemulator.com/) 
+* [Aurora](https://skitty.xyz/aurora/) 
+* [Emulator.online](http://emulator.online/) 
+* [Emulator Games Online](https://emulatorgames.online/) 
+* [OldGameShef](https://oldgameshelf.com/)
+* [Emulator Online](https://emulatoronline.com/)
+* [MyEmulator](https://myemulator.online/) 
+* [PS1FUN](http://www.ps1fun.com/) - *PS1 Browser Emulator* 
+* [LYR9C](https://lyr9c.weebly.com/gba-games.html) - *GBA Browser Emulator* 
+* [LetsPlayGB](https://www.letsplaygb.com/) - *Game Boy Browser Emulator*
+* [OpenBOR](https://github.com/DCurrent/openbor) or [Mugen](https://web.archive.org/web/20150209191723/http://www.elecbyte.com/mugen) - *2D Fighting Game Emulator*
+
+***
+
 ## ▷ Rom Archives
 
 * **[No-Intro](https://archive.org/details/no-intro_romsets)**, [2](https://archive.org/details/No-Intro-Collection_2016-01-03_Fixed), [3](https://archive.org/details/No-Intro-Collection_2016-09-06) - *Roms*
@@ -234,24 +250,15 @@
 
 ## ▷ Arcade / Retro
 
-* **[My Abandonware](https://www.myabandonware.com/)** - *Browser Emulator / Downloads*
-* **[RetroGames](https://www.retrogames.cz/)** - *Browser Emulator*
-* **[Console Living Room](https://archive.org/details/consolelivingroom)** - *Browser Emulator* 
-* **[retrogames.cc](https://www.retrogames.cc/)** - *Browser Emulator / [Download Guide](https://i.imgur.com/jSAsSb6.png)*
+* **[My Abandonware](https://www.myabandonware.com/)** - *Roms*
 * [MISC Windows](https://drive.google.com/drive/folders/15A3j8X0IDxNyJC7tPjJ0gvKIPKPaKylO) - *Windows 98 / XP Games*
-* [ClassicReload](https://classicreload.com/) - *Browser Emulator*
-* [Retro Games Bot](https://retrogamesbot.com/) - *Browser Emulator*
-* [Free80sArcade](http://www.free80sarcade.com/) - *Browser Emulator*
-* [Retro Uprising](http://www.retrouprising.com/) - *Browser Emulator*
-* [Play Classic Games](https://playclassic.games/) - *Browser Emulator*
-* [Old Games Download](https://oldgamesdownload.com/) - *Roms*
 * [Classic Game Roms](https://sites.google.com/site/classicgameroms/) - *Roms*
 * [GamesNostalgia](https://gamesnostalgia.com/) - *Roms / Amiga*
 * [Old-Games.com](https://www.old-games.com/) - *Roms / PC / Amiga*
 * [AtariMania](http://www.atarimania.com/index.html) - *Browser Emulator / Emulators / Roms / Atari Consoles*
 * [MagiPack](https://www.magipack.games/) - *Retro Games* 
+* [Old Games Download](https://oldgamesdownload.com/) - *Retro Games*
 * [RetroSpec](http://retrospec.sgn.net/) - *Retro Games*
-* [OpenBOR](https://github.com/DCurrent/openbor) or [Mugen](https://web.archive.org/web/20150209191723/http://www.elecbyte.com/mugen) - *2D Fighting Game Emulator*
 * [Japanese PC Compendium](http://japanesepccompendium.blogspot.com/) - *Retro Japanese PC Games*
 * [TOSEC](https://archive.org/details/TOSEC_V2017-04-23), [2](https://archive.org/details/tosec) - *The Old School Emulation Center*
 * [NEC & Turbografx Collection](https://archive.org/details/NEC_PC_Engine_CD-ROM2_System_and_TurboGrafx-CD_2016_Reference_Set_Redump_Validated_ROMs) - *Roms / Nec / Turbo*
