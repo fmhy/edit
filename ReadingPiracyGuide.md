@@ -378,6 +378,7 @@
 * [PublicBookShelf](http://www.publicbookshelf.com/) - *Romance*
 * [The Eldritch Dark](http://www.eldritchdark.com/) - *Clark Ashton Smith*
 * [The Anarchist Library](http://theanarchistlibrary.org/special/index) - *Anarchism*
+* [Archive.Leftove.rs](https://archive.leftove.rs/) - *Protest Documents*
 * [Marxists Internet Archive](https://www.marxists.org/) - *Socialism / Communism*
 * [Liberation School](https://liberationschool.org/) - *Communism*
 * [libcom](https://libcom.org/library) - *Libertarian Communism* 
@@ -595,18 +596,19 @@
 * [Scinapse](https://scinapse.io/) - *Academic Paper Search* 
 * [Semantic Scholar](https://www.semanticscholar.org/) - *Scientific Paper Search* 
 * [Connected Papers](https://www.connectedpapers.com/) - *Find Connected Academic Papers* 
-* [FreeFullPDF](https://freefullpdf.com/) - *Articles / Scientific*
-* [KUNDOC](https://coek.info/) - *Articles / Scientific*
-* [Springer](https://link.springer.com/) - *Articles / Scientific*
-* [Science.gov](https://www.science.gov/) - *Articles / Documents / Scientific* 
-* [DOKU.PUB](https://doku.pub/) - *Articles / Scientific*
+* [FreeFullPDF](https://freefullpdf.com/) - *Science / Articles*
+* [KUNDOC](https://coek.info/) - *Science / Articles*
+* [Springer](https://link.springer.com/) - *Science / Articles*
+* [Science.gov](https://www.science.gov/) - *Science / Articles / Documents* 
+* [Liebertpub](https://liebertpub.com/) - *Science / Journals / Papers / Books*
+* [DOKU.PUB](https://doku.pub/) - *Science / Articles*
 * [Crossref](https://search.crossref.org/) - *Articles / Documents / Datasets* 
 * [Dataone](https://www.dataone.org/) - *Datasets* 
 * [Kaggle](https://www.kaggle.com/datasets) - *Datasets*
 * [Data Catalog](https://datacatalog.worldbank.org/) - *Datasets* 
 * [mdpi](https://www.mdpi.com/) - *Articles* 
 * [DOAJ](https://www.doaj.org/) - *Journals / Articles*
-* [CyberLeninka](https://cyberleninka.org/) - *Articles / Scientific / Legal Documents*
+* [CyberLeninka](https://cyberleninka.org/) - *Science / Articles / Legal Documents*
 * [Docracy](https://www.docracy.com/ ) - *Legal Documents*
 * [Legal Core](https://core.ac.uk/) - *Papers / Academic*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - *Medical Journals*
@@ -789,6 +791,7 @@
 * [MangaInn](https://mangainn.net/) 
 * [Manganato](https://manganato.com/)
 * [EvilFlowers](http://reader.evilflowers.com/)
+* [247Manga](https://247manga.com/) 
 * [DeathTollScans](https://www.deathtollscans.net/)
 * [Manga Rock](https://mangarock.to/)
 * [MotoKare](https://motokare.xyz/reader/)
@@ -798,7 +801,9 @@
 * [MangaJar](https://mangajar.com/)
 * [ReadManhua](https://readmanhua.net/)
 * [NineManga](http://www.ninemanga.com)
+* [BliBiliComics](https://www.bilibilicomics.com/)
 * [MyReadingManga](https://myreadingmanga.info/)
+* [MangaGo](https://www.mangago.me/)
 * [MangaWWW](http://mangawww.club/)
 * [MangaPlus](https://mangaplus.shueisha.co.jp/updates)
 * [MangaKomi](https://mangakomi.com/)
@@ -984,6 +989,7 @@
 * [/r/textbook_piracy](https://reddit.com/r/textbook_piracy)
 * [/r/textbookrequest](https://reddit.com/r/textbookrequest)
 * [/r/Scholar](https://reddit.com/r/Scholar)
+* [Papers.Xtreme](https://papers.xtremepape.rs/) - *Test Revision Notes & Answers*
 
 ***
 
@@ -1026,6 +1032,7 @@
 * [DjVuLibr](http://djvu.sourceforge.net/) - *DjVu Reader / PC*
 * [AnyfFip](https://anyflip.com/) - *Interactive Flipbook Reader* 
 * [All My Books](https://www.bolidesoft.com/allmybooks.html) - *Book Catalog* 
+* [Open Media Library](https://openmedialibrary.com/) - *Online Book Manager*
 * [Raven Reader](https://ravenreader.app/) - *Article Reader / Manager* 
 * [Cubari](https://cubari.moe/) - *Image Proxy / Reader*
 * [fViewer](https://www.fviewer.com/), [Reader View](https://add0n.com/chrome-reader-view.html), [EpubPress](https://epub.press/), [Reader View](https://mybrowseraddon.com/reader-view.html, [ePubReader](https://www.epubread.com/en/), [Mercury](https://mercury.postlight.com/), [ReadWok](https://readwok.com/) or [2read](https://2read.net/) - *Online Reader*
