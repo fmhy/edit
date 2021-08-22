@@ -269,7 +269,7 @@
 * [Genoanime](https://genoanime.com/) - *Sub / Dub* 
 * [Just Dubs](http://justdubs.org/) - *Dub*
 * [Fastanime](https://fastani.net/) - *Sub* 
-* [Gogo-Stream](https://gogo-stream.com/), [2](https://www3.animeseries.io/), [3](https://gogoanime.sh/), [4](https://gogoanime.vc/), [5](https://vidstreaming.io/) - *Sub / Dub*
+* [Gogo-Stream](https://streamani.net/), [2](https://www3.animeseries.io/), [3](https://gogoanime.sh/), [4](https://gogoanime.vc/), [5](https://animekeyo.com/) - *Sub / Dub*
 * [Dubbed Anime](https://ww5.dubbedanime.net/) - *Sub / Dub*
 * [AnimeShow](https://www1.animeshow.tv/) - *Sub*
 * [AnimeRush](https://www.animerush.tv/) - *Sub / Dub*
@@ -400,6 +400,7 @@
 * [MamaHD](https://mamahd.best/) - *Sports*
 * [DaddyLive](https://daddylive.co/) - *Sports*
 * [Volokit](http://www.volokit.com/schedule/) - *Sports* 
+* [StrikeOut](https://www.strikeout.nu/) - *Sports*
 * [BestSolaris](http://bestsolaris.com/) - *Sports*
 * [DudeStream](http://dudestream.com/) - *Sports*
 * [SummerLivestream](http://summerlivestream.com/) - *Sports*
