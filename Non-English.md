@@ -899,6 +899,8 @@
 * [Tancpol](https://tancpol.net/) - *Music*
 * [MDCORE](https://vk.com/mdcore) - *Metal Music*
 * [HDVideoBox](https://getvideocatalog.li/) - *Movies / TV / Anime / Android / [Mobilism](https://forum.mobilism.me/viewtopic.php?f=429&t=4190691&hilit=HD+Videobox)*
+* [OpenEDU](https://openedu.ru/) - *Courses*
+* [Teach.in](https://teach-in.ru/) - *Lectures*
 
 ## ▷ Reading
 
