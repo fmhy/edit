@@ -690,6 +690,11 @@
 * [Lost Type Co-op](http://losttype.com/)
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) 
 * [Fonts Brick](https://brick.im/fonts/) 
+* [d_fonts](https://t.me/d_fonts) 
+* [FreeFontss](https://t.me/freefontss) 
+* [BestFonts](https://bestfonts.pro/) 
+* [FontShop](https://github.com/dvingerh/fontshop-dl) 
+* [2.2k Fonts](https://drive.google.com/drive/folders/1aJVKslK0v_kKxvEd5KV3KSCfY0epXNz0?usp=sharing) - *[Zip File](Zip File: https://drive.google.com/file/d/1x7oh79m1ooj9BnPxEnxEgZY39RVcXple/view?usp=sharing)*
 * [Get Font](https://getfont.herokuapp.com/) - *Find Font in Github* 
 * [Cava's Pixel Resources ](https://caveras.net/) - *Pixel Fonts* 
 * [Scanlation School Drive](https://drive.google.com/drive/folders/1hPV4o8fmxY2Ab9tXi84l0vVOUQEgFIbU) - *Comic Fonts*
