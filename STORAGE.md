@@ -1470,6 +1470,8 @@ Add the following commands to a search to manually scrape each site.
 * Note - You can stream videos from these. 
 * **https://vipercloud.ga/**
 * **https://mslist.ml/0:/** - *Select Drive from menu, use telegram for searches*
+* [/r/opendirectories](https://www.reddit.com/r/opendirectories/) - *Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / /u/ODScanner*
+* [Open Directories](https://docs.google.com/document/d/1xyyplaw8uyHyaq79YEqtBT85vIqWu0wq7RYFEqbQybc/) - *Open Directory Index*
 * [CloudBhadoo](https://index.hashhackers.com/) / [2](https://search.hashhackers.com/)
 * [Google Piracy Groups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_piracy_discussion_groups) - *Use these to join TeamDrives* 
 * [Google TeamDrive's](https://onehack.us/t/tds-with-tbs-of-movies-web-series-courses-games-etc/77628) - *Video / Games / Courses / Teamdrive Index*
