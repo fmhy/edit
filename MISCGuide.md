@@ -676,6 +676,7 @@
 * [graphicex](https://graphicex.com/font/)
 * [FontSpace](https://www.fontspace.com/)
 * [Google Fonts](https://fonts.google.com/)
+* [Font Store](https://t.me/fontsstore)
 * [Dafont Free](https://www.dafontfree.net/) 
 * [Windows Fonts](https://wfonts.com/)
 * [FONToMASS](https://m.vk.com/topic-178186634_39300099?offset=0)
