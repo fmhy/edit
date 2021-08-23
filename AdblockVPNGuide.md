@@ -211,7 +211,7 @@
 ## ▷ Privacy Extensions
 
 * **[ClearURLs](https://github.com/ClearURLs/Addon/releases)** / [2](https://gitlab.com/KevinRoebert/ClearUrls), [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - *Removes tracking elements from URLs*
-* **[LocalCDN](https://www.localcdn.org/)**, [WhatCampaign](https://addons.mozilla.org/en-US/firefox/addon/whatcampaign/) or [TrackMeNot](http://trackmenot.io/) - *Tracking Protection*
+* **[LocalCDN](https://www.localcdn.org/)**, [WhatCampaign](https://addons.mozilla.org/en-US/firefox/addon/whatcampaign/), [OptMeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) or [TrackMeNot](http://trackmenot.io/) - *Tracking Protection*
 * [File Guard](https://mybrowseraddon.com/file-encryptor.html) - *File Encryption / Decryption*
 * [Trace](https://absolutedouble.co.uk/trace/) - *Privacy Toolkit* 
 * [Site Bleacher](https://github.com/wooque/site-bleacher) - *Auto Remove Cookies, Local Storages, ect.*
