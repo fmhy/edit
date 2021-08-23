@@ -192,6 +192,8 @@
 # ► Tracker Invites
 
 * **[Private Trackers Guide](https://wiki.installgentoo.com/wiki/Private_trackers)** 
+* [Private Tracker Flowchart](https://weboas.is/media/tracker_flow_chart.png)
+* [TrackerStatus](https://trackerstatus.info/) - *Tracker Status Updates*
 * [/r/OpenSignups](https://reddit.com/r/OpenSignups)
 * [/r/Invites](https://reddit.com/r/Invites)
 * [MyAnonaMouse](https://www.myanonamouse.net/) - *Open Applications*
