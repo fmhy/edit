@@ -115,6 +115,7 @@
 * [FreeStudyWeb](https://freestudyweb.com/) - *Courses* 
 * [CryptoTips](https://www.cryptotips.us/) - *Courses* 
 * [5G GYAN](https://www.5ggyan.com/) - *Courses* 
+* [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - *Courses*
 * [Open-Video](https://open-video.org/) - *Courses / Documentaries*
 * [FreeCourseLechz](https://t.me/joinchat/AAAAAEeZL9jF22ZREqka2g) - *Courses / Telegram* 
 * [CourseInDrive](https://t.me/CourseInDrive) - *Courses / Telegram* 
