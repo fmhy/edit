@@ -616,6 +616,7 @@
 * **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/) or [Watcher](https://nosmokingbandit.github.io/) - *Autodownload Torrents*
 * [Flixerr](https://github.com/carlelieser/Flixerr) - *Movies / TV / r/Flixerr_Official / [Discord](https://discord.gg/KrEYTJb)*
 * [WatchIt](http://watchitapp.site/) - *Movies / TV / Anime / [GitHub](https://github.com/ZorrillosDev/watchit-desktop)*
+* [Powder](https://powder.media/) - *Torrent Streaming App*
 * [Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) - *Stream Torrents via Clients*
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - *Stream Torrents in Browser*
 * [Radarr](https://radarr.video/) - *Movie Torrent Autodownload / [GitHub](https://github.com/Radarr/Radarr)*
