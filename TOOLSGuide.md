@@ -1326,7 +1326,7 @@ General Reading Sites*
 * [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - *Control Multiple PC's via One Mouse / Keyboard*
 * [JumpShare](https://jumpshare.com/) - *File, Screenshot & Video Sharing*
 * [here.fm](https://here.fm/ ) - *Screen Sharing Tool*
-* [Parsec](https://parsec.app/), [RustDesk](https://rustdesk.com/), [RemoteDesktop](https://remotedesktop.google.com/), [AnyDesk](https://anydesk.com/en), [TeamViewer](https://www.teamviewer.com/en-us/) or [NoMachine](https://www.nomachine.com/) - *Remote Desktop Clients*
+* [Remote Desktop Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remote_desktop_clients) - *Control Desktop Remotely*
 * [TigerVNC](https://tigervnc.org/) - *VNC Client*
 * [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - *Free Ubuntu VNC*
 * [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - *Free Google RDP*
