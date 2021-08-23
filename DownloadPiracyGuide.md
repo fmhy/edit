@@ -25,7 +25,6 @@
 * [dedigger](https://www.dedigger.com/) - *GDrive File Search* 
 * [MegaDownload](http://megadownload.net/) - *Search Mega* 
 * [Megasearch](http://megasearch.co/) - *Search Mega / Use Adblocker* 
-* [/r/opendirectories](https://www.reddit.com/r/opendirectories/) - *Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / /u/ODScanner*
 * [Create Open Directory Search Engine](https://redd.it/d3w2fu)
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) or [AutoIndex](http://autoindex.sourceforge.net/) - *Open Directory Indexer* 
 * [Directory Lister](https://directorylister.com/) - *Open Directory Explorer*
