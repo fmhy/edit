@@ -371,6 +371,7 @@ App Manager
 * [DI.FM](https://play.google.com/store/apps/details?id=com.audioaddict.di) - *Electronic Radio*
 * [LISTEN.moe](https://play.google.com/store/apps/details?id=me.echeung.moemoekyun) - *K-Pop Radio* 
 * [AntennaPod](https://antennapod.org/) / [2](https://f-droid.org/en/packages/de.danoeh.antennapod/), [Tsacdop](https://f-droid.org/en/packages/com.stonegate.tsacdop/) or [AudioAnchor](https://f-droid.org/en/packages/com.prangesoftwaresolutions.audioanchor/) - *Podcast Player* 
+* [URL-Radio](https://github.com/jamal2362/URL-Radio) - *URL Radio App*
 
 ***
 
@@ -424,6 +425,8 @@ RSS Player*
 * [Android TV IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) - *IPTV Players for Android TV's*
 * [Great Courses Plus Premium](https://onehack.us/t/get-the-great-courses-plus-premium-android/92613) - *Courses*
 * [Showly 2.0](https://github.com/michaldrabik/showly-2.0) or [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide/) - *Movie / TV Tracker* 
+* [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) or [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - *Bilibili Client*
+* [NicoTap](https://play.google.com/store/apps/details?id=com.yurafuca.nicotap) - *Nico Nico Client*
 
 ***
 
@@ -534,7 +537,7 @@ RSS Player*
 * [Wickr](https://apps.apple.com/us/app/wickr-pro/id1200926568), [Jami](https://jami.net/), [MySudo](https://mysudo.com/) or [Element](https://apps.apple.com/app/vector/id1083446067) - *Encrypted Messaging / Video Calls*
 * [Bluer](https://apps.apple.com/us/app/bluer-for-facebook-messenger/id1490523710) - *Privacy-Based Facebook Client*
 * [ProtonMail](https://apps.apple.com/us/app/protonmail-encrypted-email/id979659905) - *Encrypted Emailing Service*
-* [Ariane 4](https://oppen.digital/software/ariane4/) / [2](https://codeberg.org/oppenlab/Ariane) - *Gemini Protocol Browser*
+* [Ariane 4](https://oppen.digital/software/ariane4/) / [2](https://codeberg.org/oppenlab/Ariane) - *Gemini Browser*
 
 ***
 
