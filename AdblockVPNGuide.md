@@ -398,7 +398,7 @@
 
 # ► VPN
 
-* **[VPN Comparison Guide](https://www.safetydetectives.com/best-vpns/#comparison)**, [2](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml) - *Ranks VPNs Based on Privacy Polices & More*
+* **[VPN Comparison Guide](https://www.safetydetectives.com/best-vpns/#comparison)**, [2](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml), [3](https://www.vpntierlist.com/) - *Ranks VPNs Based on Privacy Polices & More*
 * **[Mullvad](https://mullvad.net/)** - *[Pricing](https://i.imgur.com/LfjZ9G3.png) / [More Info](https://i.imgur.com/SNkzNV7.png) / [NetNS](https://github.com/chutz/mullvad-netns)*
 * **[Proton](https://protonvpn.com)** - *[Pricing](https://i.imgur.com/hkhZGg1.png) / [More Info](https://i.imgur.com/RZqOXKH.png) - Note that you can't torrent with the free version*
 * **[Windscribe](https://windscribe.com)** - *[Pricing](https://i.imgur.com/D7015rq.png) / [More Info](https://i.imgur.com/qmdyfp6.png) / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites) / free version available / [Chrome](https://chrome.google.com/webstore/detail/windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/windscribe/)*
@@ -416,6 +416,13 @@
 * [Tailscale](https://tailscale.com/) - *[Pricing](https://i.imgur.com/6lMwcSQ.png)*
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - *VPN Extension / 3GB Free / [Pricing](https://i.imgur.com/ZdDexDa.png)* 
 * [Mozilla FPN](https://fpn.firefox.com/) - *VPN Extension / [Pricing](https://i.imgur.com/wW5rVO2.png) / Mullvad Servers*
+* [AirVPN](https://airvpn.org/) - *VPN w/ Port Forwarding *
+* []() - **
+
+
+VPN Reviews VPN Tier List
+
+
 * [WireHole](https://github.com/IAmStoxe/wirehole) - *Wireguard VPN w/ Adblocking Capabilities* 
 * [Syntropy](https://www.syntropystack.com/vpn) or [Outline](https://getoutline.org/) - *Self-Hosted VPN*
 * [WebOasis WireGuard](https://weboas.is/forum/index.php?topic=2657.0) - *Free VPN Config*
