@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/CfSuZ01.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/gmYnVMT.png)** - *For mobile users*
 
 ***
 ***
@@ -539,6 +539,10 @@
 * [Music Fusion World](https://fusion-world-30.blogspot.com/) - *Music / MP3*
 * [J-pop Music Download](https://jpop.xyz/) - *Music / MP3 / FLAC* 
 * [フリーソフトウェアの倉庫](http://nekomimi.la.coocan.jp/freesoft/index.htm) - *Software*
+
+## ▷ Torrenting
+
+* [Beatrice](https://beatrice-raws.org/) - *Anime*
 
 ## ▷ Streaming
 
