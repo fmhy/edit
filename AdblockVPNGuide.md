@@ -25,7 +25,7 @@
 * **[SponsorBlock](https://sponsor.ajay.app/)** - *Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)*
 * **[uMatrix](https://github.com/gorhill/uMatrix#umatrix)**, [NoScript](https://noscript.net/) or [ScriptSafe](https://www.andryou.com/scriptsafe) - *Blocks Malicious Scripts*
 * **[Popup Blocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - *Blocks Malicious Popups & Tabs*
-* **[Universal Bypass](https://universal-bypass.org/)** or [AdsBypasser](https://adsbypasser.github.io/) - *Skips Link Shorteners*
+* **[Universal Bypass](https://universal-bypass.org/)**, [DL Site Scrubber](https://github.com/PrimePlaya24/dl-site-scrubber) or [AdsBypasser](https://adsbypasser.github.io/) - *Skips Link Shorteners & Countdowns*
 * [Skip Redirect](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect) - *Bypass Redirects*
 * [OpenVideo](https://openvideofs.github.io) - *Plays videos from streaming sites in a ad free player*
 * [Fakespot](https://www.fakespot.com/) - *Identifies Fake Reviews & Counterfeits*
@@ -412,17 +412,11 @@
 * [PureVPN](https://www.purevpn.com/) - *[Pricing](https://i.imgur.com/1G3BE3H.png) / [More Info](https://i.imgur.com/9h5QksV.png)*
 * [Trust.Zone](https://trust.zone/) - *[Pricing](https://i.imgur.com/PsRa8GD.png) / [More Info](https://i.imgur.com/zryWzqX.png)*
 * [blackVPN](https://www.blackvpn.com/) - *[Pricing](https://i.imgur.com/uqMeG0b.png) / [More Info](https://i.imgur.com/5U3qjoF.png)*
+* [AirVPN](https://airvpn.org/) - *[Pricing](https://i.imgur.com/TMU1Qtt.png) / [More Info](https://i.imgur.com/nM6wDgz.png)*
 * [VPNSecure](https://www.vpnsecure.me/) - *[Pricing](https://i.imgur.com/BnuqpBS.png) / [More Info](https://i.imgur.com/sJffRnZ.png)*
 * [Tailscale](https://tailscale.com/) - *[Pricing](https://i.imgur.com/6lMwcSQ.png)*
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - *VPN Extension / 3GB Free / [Pricing](https://i.imgur.com/ZdDexDa.png)* 
 * [Mozilla FPN](https://fpn.firefox.com/) - *VPN Extension / [Pricing](https://i.imgur.com/wW5rVO2.png) / Mullvad Servers*
-* [AirVPN](https://airvpn.org/) - *VPN w/ Port Forwarding *
-* []() - **
-
-
-VPN Reviews VPN Tier List
-
-
 * [WireHole](https://github.com/IAmStoxe/wirehole) - *Wireguard VPN w/ Adblocking Capabilities* 
 * [Syntropy](https://www.syntropystack.com/vpn) or [Outline](https://getoutline.org/) - *Self-Hosted VPN*
 * [WebOasis WireGuard](https://weboas.is/forum/index.php?topic=2657.0) - *Free VPN Config*
