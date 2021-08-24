@@ -674,7 +674,6 @@
 * [Anirena](https://www.anirena.com/) - *Sub / Dub*
 * [ShanaProject](https://www.shanaproject.com/) - *Sub*
 * [Hakata Ramen](https://discord.gg/4teAREmqdQ) - *Sub*
-* [Beatrice](https://beatrice-raws.org/)
 * [Nyaa.net](https://nyaa.net/)  
 * [SSAnime](https://ssanime.ga/) - *Sub*
 * [DameDesuYo](https://damedesuyo.com/) - *Sub* 
