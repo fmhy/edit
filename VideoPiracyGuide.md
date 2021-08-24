@@ -591,7 +591,6 @@
 * [DameDesuYo](https://damedesuyo.com/) - *Sub*
 * [Chiby](http://www.animechiby.com/) - *Sub*
 * [anime7.download](http://anime7.download/) - *Sub*
-* [Anime Raws Masterlist](https://sites.google.com/view/animerawsmasterlist/home)
 * [CopyCat Encodes](https://mega.nz/#folder/jpMFlQLB#QZ0W2OIyko-n2BTouWjHOQ) - *Sub / Drive* 
 * [Anime Time Drive](https://atdrive.animetimeserver.workers.dev/0:/) - *Sub / Dub / Drive* 
 * [FFA DDL BATCH](https://ffa.shiraha.workers.dev/) - *Drive* 
