@@ -574,7 +574,7 @@
 * [TheHylia](https://anime.thehylia.com/) - *Sub*
 * [Animk](https://animk.info/) - *Sub / Dub*
 * [AnimeOut](https://www.animeout.xyz/) - *Sub*
-* [Anime2Enjoy](https://www.anime2enjoy.com/) - * Sub / [Discord](https://discord.gg/PxSmumS)* 
+* [Anime2Enjoy](https://www.anime2enjoy.com/) - *Sub / [Discord](https://discord.gg/PxSmumS)* 
 * [Animekayo](https://animekayo.com/) - *Sub / Dub*
 * [Soulreaperzone](https://www.soulreaperzone.com/) - *Sub / Dub*
 * [AniDL](https://anidl.org/) - *Sub / Dub*
