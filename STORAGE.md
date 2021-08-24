@@ -735,7 +735,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Media Servers
 
-* **[Plex](https://www.plex.tv/)** + */r/plexshares / [Linux](https://knapsu.eu/plex/) / [Setup Guide](https://redd.it/ma1hlm), [2](https://hoarding.me/) / [Linux](https://github.com/binhex/arch-plexpass)*
+* **[Plex](https://www.plex.tv/)** + */r/plexshares / [Linux](https://knapsu.eu/plex/) / [Setup Guide](https://redd.it/ma1hlm), [2](https://hoarding.me/) / [Plex Pass](https://github.com/binhex/arch-plexpass)*
 * [Emby](https://emby.media/) + */r/EmbyShares*
 * [Jellyfin](https://jellyfin.org/) + */r/JellyfinShares / [Anime Plugin](https://github.com/jellyfin-archive/jellyfin-plugin-anime) / [Desktop Client](https://github.com/jellyfin/jellyfin-media-player) / [Playlist Export](https://github.com/pyluyten/jellyfin_playlist_exporter) / [Customization Guide](https://youtu.be/F85qMyBeiDI)* 
 * [Universal Media Server](https://www.universalmediaserver.com/)
