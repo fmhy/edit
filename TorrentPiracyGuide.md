@@ -77,11 +77,12 @@
 
 ***
 
-* **[1337](https://1337x.to/)** - *Video / Audio / Games / Software / NSFW* 
+* **[1337x](https://1337x.to/)** - *Video / Audio / Games / Software / NSFW* 
 * **1337x Tools** - [Mirrors](https://1337x.to/about) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot)
 * **[RarBG](https://rarbg.to)** - *Video / Audio / Games / Software / NSFW* 
 * **RarBG Tools** - [Python Interface](https://github.com/verybada/rarbgapi) / [Advanced Filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) / [Add Links](https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links)
-* **[RuTracker](http://rutracker.org)** - *Video / Audio / Games / Software / Android / Comics / Magazines / [Onion](http://rutrackerripnext.onion/) / [Telegram Bot](https://t.me/ru_tracker_bot) / [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/)*
+* **[RuTracker](http://rutracker.org)** - *Video / Audio / Games / Software / Android / Comics / Magazines*
+*  **RuTracker Tools** - [Telegram Bot](https://t.me/ru_tracker_bot) / [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Onion](http://rutrackerripnext.onion/)
 * [TorrentGalaxy](https://torrentgalaxy.to/) - *Video / Audio / Games / Software / NSFW / [Mirrors](https://proxygalaxy.pw/), [2](https://torrentgalaxy.org/)*
 * [Demonoid](https://www.demonoid.is/) - *Video / Audio / Software / Games / Books / Comics*
 * [Pirateiro](http://pirateiro.com) - *Video / Audio / Games / Roms / Software / Android / Books / Comics / NSFW*
