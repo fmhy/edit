@@ -565,38 +565,38 @@
 
 * **[/r/AnimePiracy Index](https://piracy.moe/)** - *Curated List of Anime Sites / [Discord](https://discord.gg/piracy)*
 * **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
-* **[AnimeKaizoku](https://animekaizoku.com/)**
-* **[hi10anime](https://hi10anime.com/)**
+* **[AnimeKaizoku](https://animekaizoku.com/)** - *Sub / Dub*
+* **[hi10anime](https://hi10anime.com/)** - *Sub*
 * **[AnimeBatchDDL](https://animebatchddl.wordpress.com/)** - *[Discord](https://discord.gg/XRzMEMhEmu) / [Drive](https://animebatchddl.code-geass.workers.dev/0:/), [2](https://animebatchddl.lelouch-vi-britannia.workers.dev/0:/), [3](https://animebatchddl.seisei-ruten.workers.dev/0:/), [4](https://animebatchddl.lelouch-lamperouge.workers.dev/0:/)*
 * **[Judas Discord](https://discord.gg/vbJ7RTn)** - *Sub / Dub / [OneDrive](https://reskk-my.sharepoint.com/personal/frankcastle_f_odpan_cn/_layouts/15/onedrive.aspx) / [GDrive](https://drive.google.com/drive/folders/19URIgzsbkOfNCXG13Wklmoq3KugKzk9j) / [TeamDrive](https://groups.google.com/d/forum/judasddl)* 
 * **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)** - *Telegram Anime Download Channels* 
-* [Anime-Sharing](http://www.anime-sharing.com/forum/) - *Anime / Manga Download Forum*
-* [TheHylia](https://anime.thehylia.com/)
-* [Animk](https://animk.info/)
-* [AnimeOut](https://www.animeout.xyz/)
-* [Anime2Enjoy](https://www.anime2enjoy.com/) - *[Discord](https://discord.gg/PxSmumS)* 
-* [Animekayo](https://animekayo.com/)
-* [Soulreaperzone](https://www.soulreaperzone.com/)
-* [AniDL](https://anidl.org/)
-* [AnimeLand](https://www.animeland.us/) 
-* [AnimeSub](https://animesub.in/) 
-* [DarkLegends](https://darklegends60mb.org/)
-* [SSAnime](https://ssanime.ga/)
-* [Kayoanime](https://kayoanime.com/) - *[Telegram](https://t.me/Kayoanime)*
+* [Anime-Sharing](http://www.anime-sharing.com/forum/) - *Sub / Dub / Anime / Manga Download Forum*
+* [TheHylia](https://anime.thehylia.com/) - *Sub*
+* [Animk](https://animk.info/) - *Sub / Dub*
+* [AnimeOut](https://www.animeout.xyz/) - *Sub*
+* [Anime2Enjoy](https://www.anime2enjoy.com/) - *Sub / [Discord](https://discord.gg/PxSmumS)* 
+* [Animekayo](https://animekayo.com/) - *Sub / Dub*
+* [Soulreaperzone](https://www.soulreaperzone.com/) - *Sub / Dub*
+* [AniDL](https://anidl.org/) - *Sub / Dub*
+* [AnimeLand](https://www.animeland.us/) - *Dub*
+* [AnimeSub](https://animesub.in/) - *Sub / Dub*
+* [DarkLegends](https://darklegends60mb.org/) - *Sub*
+* [SSAnime](https://ssanime.ga/) - *Sub*
+* [Kayoanime](https://kayoanime.com/) - *Sub / Dub / [Telegram](https://t.me/Kayoanime)*
 * [Mix Bag of Anime](https://redd.it/nsa8yg) - *Drives*
-* [Anime Collection (3Tb)](https://drive.google.com/drive/folders/1nQ73oKeE5b50lzyDeszmdLv6rjYFolk5?usp=sharing) - *Drive*
-* [Erai-Raws](https://www.erai-raws.info/) - *[Discord](https://discord.gg/2PfWaar)*
-* [Anime Devil](https://animedevil.com/) - *[Telegram](https://groups.google.com/g/animedevil)*
-* [NoobSubs](https://noobsubs.com/) - *[Drive](https://noobftp1.noobsubs.com/)*
-* [DameDesuYo](https://damedesuyo.com/) 
-* [Chiby](http://www.animechiby.com/)
-* [anime7.download](http://anime7.download/)
+* [Anime Collection (3Tb)](https://drive.google.com/drive/folders/1nQ73oKeE5b50lzyDeszmdLv6rjYFolk5?usp=sharing) - *Sub / Dub / Drive*
+* [Erai-Raws](https://www.erai-raws.info/) - *Sub / [Discord](https://discord.gg/2PfWaar)*
+* [Anime Devil](https://animedevil.com/) - *Sub / Dub / [Telegram](https://groups.google.com/g/animedevil)*
+* [NoobSubs](https://noobsubs.com/) - *Sub / Dub / [Drive](https://noobftp1.noobsubs.com/)*
+* [DameDesuYo](https://damedesuyo.com/) - *Sub*
+* [Chiby](http://www.animechiby.com/) - *Sub*
+* [anime7.download](http://anime7.download/) - *Sub*
 * [Anime Raws Masterlist](https://sites.google.com/view/animerawsmasterlist/home)
-* [CopyCat Encodes](https://mega.nz/#folder/jpMFlQLB#QZ0W2OIyko-n2BTouWjHOQ) - *Drive* 
-* [Anime Time Drive](https://atdrive.animetimeserver.workers.dev/0:/) - *Drive* 
+* [CopyCat Encodes](https://mega.nz/#folder/jpMFlQLB#QZ0W2OIyko-n2BTouWjHOQ) - *Sub / Drive* 
+* [Anime Time Drive](https://atdrive.animetimeserver.workers.dev/0:/) - *Sub / Dub / Drive* 
 * [FFA DDL BATCH](https://ffa.shiraha.workers.dev/) - *Drive* 
-* [nibl](https://nibl.co.uk/) - *Anime Downloads / XDCC*
-* [Golumpa](https://xdcc.golumpa.moe/) - *Anime / IRC Links*
+* [nibl](https://nibl.co.uk/) - *Sub / Dub / Anime Downloads / XDCC*
+* [Golumpa](https://xdcc.golumpa.moe/) - *Dub /Anime / IRC Links*
 * [Anime Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anime_download_apps) - *Anime Downloading Tools*
 * [manyame](https://github.com/asakura42/manyame/) - *IRC Anime Download Script* 
 * [Anime DL](https://archive.org/details/animedl4.0_202004) - *Stream & Download Anime in VLC*
