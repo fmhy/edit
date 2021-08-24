@@ -382,6 +382,9 @@
 * [FFmpeg](https://ffmpeg.org/) - *Record, convert and stream audio & video / [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d)*
 * [ConvertVideoTGBot](https://t.me/ConvertVideoTGBot), [FileConvertRobot](https://t.me/FileConvertRobot) or [File2videoconvbot](https://t.me/File2videoconvbot) - *File to Video Telegram Bots* 
 * [OBS](https://obsproject.com/) - *Video Recording / Live Streaming / [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/)* 
+* [LiveRecord](https://github.com/lovezzzxxx/liverecord) - *Automatic Stream Recorder*
+* [LiveMonitor](https://github.com/lovezzzxxx/livemonitor) - *Live Stream Detection*
+* [real-url](https://github.com/wbt5/real-url) - *Copy Live Stream URLs*
 * [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - *Turn Screencasts into GIFs*
 * [Nimbus Capture](https://nimbusweb.me/screenshot.php) - *Screenshot / Video Capture Tool*
 * [Stream Recorder](https://www.hlsloader.com/) - *Streaming Video Recorder* 
@@ -415,10 +418,11 @@
 * [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - *Steam Movie-Making Tool*
 * [ShareAE](https://www.shareae.com/), [FreeAE](https://freedownloadae.com/), [HunterAE](https://hunterae.com/), [AERiver](https://aeriver.com/) or [DownAE](https://downae.com/) - *After Effects Templates*
 * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5) 
-* [zeroTube](http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb) - *Decentralized video platform on ZeroNet using WebTorrent + [GitHub](https://github.com/rllola/zeroTube/)*
+* [zeroTube](http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb) - *Decentralized Video Platform on ZeroNet using WebTorrent + [GitHub](https://github.com/rllola/zeroTube/)*
+* [HoraHora](https://github.com/horahoradev/horahora) - *Self-Hosted Video Host*
 * [MotionMonkey](https://omega.gg/MotionMonkey/) - *Stream Online Videos in Player*
 * [StreamLink](https://streamlink.github.io/) - *Extract Videos from Sites to Players* 
-* [Ant Movie](https://www.antp.be/software/moviecatalog) - *Desktop video media catalog*
+* [Hohoema](https://github.com/tor4kichi/Hohoema) - *Nico Nico Video Player*
 * [polsy.org.uk](http://polsy.org.uk/) - *Alt Players for Video Sites*  
 * [Mixkit](https://mixkit.co/), [Coverr](http://coverr.co/) or [Mazwai](https://mazwai.com/) - *Stock Videos / Templates* 
 * [Anime4K](https://github.com/bloc97/Anime4K) - *Anime Video Upscaler* 
@@ -773,12 +777,14 @@
 * [Netbox](https://netbox.global/) - *Blockchain Backed Browser*
 * [Luakit](https://luakit.github.io/) - *Lightweight Linux Browser* 
 * [woob](https://woob.tech/) - *Use Sites Without a Browser*
+* [Lagrange](https://github.com/skyjake/lagrange)  - *Gemini Browser
 * [StockBrowser](https://stackbrowser.com/) - *Multi Web App Browser*
 * [n.eko](https://n.eko.moe/) - *Self-Hosted Virtual Browser*
 * [EdgeDeflector](https://github.com/da2x/EdgeDeflector) - *Force Open Default Browser*
 * [Browserling](https://www.browserling.com/) - *Cross-browser testing*
 * [xBrowserSync](https://github.com/xbrowsersync/app) - *Sync Browser Data Browsers / Devices*
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - *User Agent Archive* 
+* [danmaku2ass ](https://github.com/m13253/danmaku2ass) - *Convert Niconico/AcFun/Bilibili Comments to ASS*
 
 ***
 
@@ -891,6 +897,7 @@ General Reading Sites*
 * [W.A.R. Links Checker Premium](http://usa.x10host.com/mybb/showthread.php?tid=88) - *Checks If File Links are Alive or Not*
 * [SafeLinking](https://safelinking.net/), [UpToLink](https://uptolink1.com/), [BrBushare](https://brbushare.xyz/) or [ShortLinkto](https://shortlinkto.top/) - *Link Protectors* 
 * [WhoIsRequest](https://whoisrequest.com/) or [Securrity Whoiz](http://www.securrity.ru/whoiz.html) - *Domain Information Lookup* 
+* [Hosting Check](https://hostingchecker.com/) - *Site Host Checker*
 * [CarbonDates](http://carbondate.cs.odu.edu/) - *Check Site Creation Date* 
 * [URL2IMGBot](https://t.me/URL2IMGBot) - *Takes a screenshot for any URL / Telegram* 
 * [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) or [SubdomainFinder](https://subdomainfinder.c99.nl/) - *Find Hidden Subdomains* 
@@ -1415,6 +1422,7 @@ General Reading Sites*
 * [terminal.sexy](https://terminal.sexy/) - *Terminal Color Schemes*
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - *Pokemon Terminal Themes*
 * [Windows Media Player Skins](https://web.archive.org/web/20100827223732/http://windows.microsoft.com/en-US/windows/downloads/windows-media-player/skins?T1=all)
+* [Hide File Explorer Dark Mode White Line](https://i.imgur.com/ZZsvyyM.png)
 
 ***
 
@@ -1524,6 +1532,7 @@ General Reading Sites*
 * [File Hunter](https://lockhunter.com/) or [FileExile](https://sourceforge.net/projects/filexile/) - *File Unlocker / Deleter*
 * [rm_empty_subdir](https://gist.github.com/simon987/f5c2cd7602898615ac9bc8c762d9fe1d) - *Remove Empty Sub Directories*
 * [WinMerge](https://winmerge.org/) - *Compare / Merge Files & Folders* 
+* [FilesMerge](https://www.filesmerge.com/) - *Online File Merger*
 * [Windows compact](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/compact) - *Displays or alters the compression of files or directories on NTFS partitions + [GUI 1](https://github.com/ImminentFate/CompactGUI) or [GUI 2](https://github.com/Freaky/Compactor)*
 * [Snap2HTML](https://rlvision.com/snap2html/about.php) - *Take HTML Snapshots of Folder / File Structures*
 * [Corrupt My File](http://www.corruptmyfile.com/) - *Intentionally Corrupt your Files*
