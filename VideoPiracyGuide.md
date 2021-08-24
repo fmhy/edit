@@ -663,26 +663,26 @@
 
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - *Get a VPN before torrenting*
 * **[Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)**
-* **[Nyaa](https://nyaa.si/)**, [2](http://nyaa.iss.one/), [3](http://meowinjapanese.cf/) 
+* **[Nyaa](https://nyaa.si/)**, [2](http://nyaa.iss.one/), [3](http://meowinjapanese.cf/) - *Sub / Dub*
 * **Nyaa Tools** - [TUI Client](https://github.com/irevenko/koneko) / [CLI Client](https://github.com/natanbc/nyaasi) / [Telegram Bot](https://github.com/ejnshtein/nyaasi-bot) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy)
-* **[Anidex](https://anidex.info/)**
-* **[Hi10Anime](https://hi10anime.com/)**
-* **[SubsPlease](https://subsplease.org/)**
+* **[Anidex](https://anidex.info/)** - *Sub / Dub*
+* **[Hi10Anime](https://hi10anime.com/)** - *Sub*
+* **[SubsPlease](https://subsplease.org/)** - *Sub*
 * [KawAnime](https://github.com/Kylart/KawAnime) - *Anime Streaming App / [Discord](https://discord.com/invite/sdArN2Z)* 
-* [TokyoTosho](https://www.tokyotosho.info/)
-* [AnimeTosho](https://animetosho.org/)
-* [Anirena](https://www.anirena.com/)
-* [ShanaProject](https://www.shanaproject.com/)
-* [Hakata Ramen](https://discord.gg/4teAREmqdQ)
+* [TokyoTosho](https://www.tokyotosho.info/) - *Sub*
+* [AnimeTosho](https://animetosho.org/) - *Sub / Dub*
+* [Anirena](https://www.anirena.com/) - *Sub / Dub*
+* [ShanaProject](https://www.shanaproject.com/) - *Sub*
+* [Hakata Ramen](https://discord.gg/4teAREmqdQ) - *Sub*
 * [Beatrice](https://beatrice-raws.org/)
 * [Nyaa.net](https://nyaa.net/)  
-* [SSAnime](https://ssanime.ga/)
-* [DameDesuYo](https://damedesuyo.com/) 
-* [GoodJobMedia](https://www.goodjobmedia.com/) 
-* [Chihiro](https://chihiro-subs.com/)
-* [Some-Stuffs](http://some-stuffs.com/) - *[Discord](https://discord.gg/wYgXer2)*
-* [Erai-Raws](https://www.erai-raws.info/) - *[Discord](https://discord.gg/2PfWaar)*
-* [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - *[ZeroNet Required](https://zeronet.io/)*
+* [SSAnime](https://ssanime.ga/) - *Sub*
+* [DameDesuYo](https://damedesuyo.com/) - *Sub* 
+* [GoodJobMedia](https://www.goodjobmedia.com/) - *Sub*
+* [Chihiro](https://chihiro-subs.com/) - *Sub*
+* [Some-Stuffs](http://some-stuffs.com/) - *Sub / [Discord](https://discord.gg/wYgXer2)*
+* [Erai-Raws](https://www.erai-raws.info/) - *Sub / [Discord](https://discord.gg/2PfWaar)*
+* [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - *Sub / [ZeroNet Required](https://zeronet.io/)*
 * [nyaamal](https://github.com/laxyapahuja/nyaamal) - *Add torrents DL's to MAL / Anilist*
 * [Aniloader](https://github.com/Xanahol/Aniloader) - *Anime Torrent Autodownloader*
 * [DMHY](https://github.com/yaqinking/DMHY) - *Anime Torrent Autodownloader / OS X* 
