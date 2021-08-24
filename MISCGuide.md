@@ -175,6 +175,7 @@
 * [Zoom Redirector](https://addons.mozilla.org/en-US/firefox/addon/zoom-redirector/) - *Redirect Zoom Links to Web Client* 
 * [Plasma Integration](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/) - *Control Browser via Plasma* 
 * [Session Sync](https://addons.mozilla.org/en-US/firefox/addon/session-sync/) - *Session Manager* 
+* [OnelineProton](https://github.com/lr-tech/OnelineProton/) - *Proton Theme for Firefox*
 
 ## ▷ Chrome
 
@@ -204,8 +205,9 @@
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej) - *Discover Similar Webpages* 
 * [Email Tracker](https://snov.io/email-tracker) - *Gmail Engagement Tracker*
 * [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - *View Extension Source Code* 
+* [NicoNico SPEENYA](https://github.com/chimerast/niconico-speenya) - *Presentation Style Comments*
 * [Current Moon Phase](https://chrome.google.com/webstore/detail/current-moon-phase/ippnbhhbamibfpljlfmgogaondodicgi) - *Current Moon Phases*
-* [OnelineProton](https://github.com/lr-tech/OnelineProton/) - *Proton Theme for Firefox*
+* [Nicosapo](https://github.com/yurafuca/nicosapo) - *Add Features to Nico Nico*
 
 ## ▷ Safari
 
@@ -694,6 +696,7 @@
 * [FreeFontss](https://t.me/freefontss) 
 * [BestFonts](https://bestfonts.pro/) 
 * [FontShop](https://github.com/dvingerh/fontshop-dl) 
+* [10k Font Collection](https://drive.google.com/file/d/1YJiuTFPXGyz7WLw_lq08EXgdibZJu7E8/view)
 * [2.2k Fonts](https://drive.google.com/drive/folders/1aJVKslK0v_kKxvEd5KV3KSCfY0epXNz0?usp=sharing) - *[Zip File](Zip File: https://drive.google.com/file/d/1x7oh79m1ooj9BnPxEnxEgZY39RVcXple/view?usp=sharing)*
 * [Get Font](https://getfont.herokuapp.com/) - *Find Font in Github* 
 * [Cava's Pixel Resources ](https://caveras.net/) - *Pixel Fonts* 
