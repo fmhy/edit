@@ -204,6 +204,7 @@
 * [Children's Library](http://en.childrenslibrary.org/)
 * [MagicKeys](http://www.magickeys.com/books/) 
 * [byGosh](https://bygosh.com) 
+* [Baldwin Library](https://ufdc.ufl.edu/juv) - *Historical Children’s Literature*
 
 ***
 
@@ -359,6 +360,7 @@
 * [BuddhaNet](http://www.buddhanet.net/) - *Buddhism*
 * [Sankaracharya](http://www.sankaracharya.org/index.php) - *Hinduism*
 * [Vedanta Shastras](https://www.shastras.com/) - *Hinduism*
+* [Jainism Library of Jain Literature](http://www.atmadharma.com/index.html) - *Sacred Texts / Religion / Multi Language*
 * [Vedabase](https://vedabase.io/en/) - *Bhaktivedanta Swami / Books / Transcripts / Letters* 
 
 ***
