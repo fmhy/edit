@@ -189,6 +189,7 @@
 * [Sleazy Fork](https://sleazyfork.org/) - *Adult User Scripts*
 * [Pornhub Download Script](https://redd.it/ks5sba)
 * [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) - *Pornhub Downloader*
+* [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - *FC2 Image Scraper*
 * [/cumg/](https://rentry.co/coom) - *Hentai Tools*
 * [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) or [Panda Chaika](https://panda.chaika.moe/) - *Hentai Downloader*
 * [Powrcord Sauce](https://github.com/SammCheese/powercord-sauce) - *Powercord Sauce Plugin*
