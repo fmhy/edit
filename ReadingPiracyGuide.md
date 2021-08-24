@@ -40,7 +40,7 @@
 * [Telegram Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audiobook_downloads) - *Telegram audiobook download channels*
 * [Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) - *Plex Audiobook Metadata Scraper* 
 * [OverDrive](https://github.com/chbrown/overdrive) - *OverDrive Audiobook Download Script*
-* [Voice](https://f-droid.org/en/packages/de.ph1b.audiobook/), [Simple Audiobook Player](https://play.google.com/store/apps/details?id=mdmt.sabp.free) or [AudioAnchor](https://f-droid.org/en/packages/com.prangesoftwaresolutions.audioanchor/) - *Android Audiobook Player* 
+* [Voice](https://f-droid.org/en/packages/de.ph1b.audiobook/), [Simple Audiobook Player](https://play.google.com/store/apps/details?id=mdmt.sabp.free), [Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) or [AudioAnchor](https://f-droid.org/en/packages/com.prangesoftwaresolutions.audioanchor/) - *Android Audiobook Player* 
 
 *** 
 
@@ -310,6 +310,7 @@
 * [Abundant Hope](https://krishnamurti.abundanthope.org/) - *Sacred Texts / Religion / Christianity / Buddhism / Alchemy / Hinduism / Islam / Theosophy / Judaism / Taoism*
 * [Hermetics](http://www.hermetics.org/library.html) - *Ancient Texts / Mythology / Occult*
 * [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - *Religion / Esoterica / Occult*
+* [Summa Theologiae](http://summa-theologiae.org/) - *Religion / Sacred Doctrine / Christianity*
 * [Esoteric Library](https://mega.nz/#F!jN8GTSaJ!xN6x5Pv9dhqT6yLhO6r2Ow) - *Esoterica / Occult* 
 * [Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm) - *Mythology / Conspiracy / Esoterica*
 * [Magic / Esoteric Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks) - *Magic / Esoterica*
@@ -748,7 +749,7 @@
 * [Tachiyomi](https://tachiyomi.org/), [TheComicsLibrary](https://github.com/FabioPezzini/TheComicsLibrary) or [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - *Manager / Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / Android* 
 * [MediaBoxHD](https://mediaboxhd.net/comic) - *Manager / Reader / Android / iOS*
 * [ComicFlow](https://github.com/swisspol/ComicFlow) - *Manager / Reader / iOS*
-* [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
+* [CrossFace](https://crossface.cf/manga-reader/) or [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Browser Comic Reader*
 * [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - *Online Reader*
 * [Tenma](https://github.com/Tenma-Server/Tenma) or [Komga](https://komga.org/) - *Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)*
 * [Webtoons Downloader](http://www.mediafire.com/file/7243pcp72ttzisk/Webtoons_Downloader_by_RieqyNS13.zip/file) - *Webtoons Downloader*
@@ -833,6 +834,7 @@
 * [WebToons](https://www.webtoons.com/en/) - *Manga Webtoons*  
 * [AllMangasReader](http://allmangasreader.com/), [OpenComic](https://github.com/ollm/OpenComic) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - *Manager / Reader*
 * [Tachiyomi](https://tachiyomi.org/) - *Manga / Comic Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / [Desktop](https://github.com/Suwayomi) / [Web Client](https://github.com/TachiWeb) / Android* 
+* [CrossFace](https://crossface.cf/manga-reader/) - *Browser Comic / Manga Reader*
 * [Komikku](https://gitlab.com/valos/Komikku) - *Reader / Manager / Linux*
 * [manga-py](https://github.com/manga-py/manga-py) - *Python Line Manga Downloader* 
 * [MangaUpdates](https://www.mangaupdates.com/) - *Manga Release Updates*  
@@ -878,6 +880,7 @@
 * [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)  
 * [VolareNovels](https://www.volarenovels.com/) 
 * [Free Light Novel](https://www.freelightnovel.com/)
+* [WoopRead](https://woopread.com/)
 * [Void Translations](https://voidtranslations.wordpress.com/) 
 * [Just Light Novels](https://justlightnovels.com/)
 * [RnDNovels ](https://www.rndnovels.com/) 
