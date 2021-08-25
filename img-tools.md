@@ -53,6 +53,7 @@
 * [Simple Image Resizer](http://www.simpleimageresizer.com/) - *Resize Images*
 * [Resize App Icon](https://resizeappicon.com/) - *Resize Square Images* 
 * [SSizes](https://ssizes.com/) - *Resize Images for Different Sites*
+* [RIOT](https://riot-optimizer.com/) or [ImageOptim (Mac)](https://imageoptim.com/mac) - *Image Optimization Tool*
 * [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - *Scale Pixel Art w/o Quality Loss*
 * [CompressOrDie](https://compress-or-die.com/), [Caesium](https://saerasoft.com/caesium/) or [Batch Compress](https://batchcompress.com/en) - *Image Compressor* 
 * [TinyPNG](https://tinypng.com/) or [PNGQuant](https://pngquant.org/) - *PNG Compressor* 
@@ -62,7 +63,6 @@
 
 ## ▷ Restoration
 
-* [RIOT](https://riot-optimizer.com/) or [ImageOptim (Mac)](https://imageoptim.com/mac) - *Image Optimization Tool*
 * [Petalica Paint](https://petalica-paint.pixiv.dev/index_en.html), [Algorithmia](https://demos.algorithmia.com/colorize-photos) or [Colorizer](https://deepai.org/machine-learning-model/colorizer) - *Image Colorization* 
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - *Anime Image Colorization*
 * [GPEN-Colab](https://github.com/bycloudai/GPEN-colab) - *Face Restoration / Colorization Tool*
