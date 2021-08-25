@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/Ekov9rw.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/SCfLvSN.png)** - *For mobile users*
 
 ***
 *** 
@@ -356,74 +356,11 @@
 
 ***
 
-## ▷ News Tools
-
-* **[News Feed Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_news_feed_aggregators)** - *Multiple News Site Feeds*
-* **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - *News Multireddit*
-* [RavenReader](https://ravenreader.app/) - *News Article Manager*
-* [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - *News Site Indexes* 
-* [Google Alerts](https://www.google.com/alerts) - *News Alerts by Topics*
-* [PublicAlerts](https://google.org/publicalerts) - *Important News / Disaster Alerts*
-* [GHacks](https://www.ghacks.net/) or [Slashdot](https://slashdot.org/) - *Tech News*
-* [Interactive News Map](https://usa.liveuamap.com/) - *Geolocated News Alerts / Headlines U.S* 
-* [Forekast](https://forekast.com/) - *Worldwide Event Calendar* 
-* [Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspaper_sites) - *Read & Download Newspapers*
-* [RSOE](http://hisz.rsoe.hu/) - *Emergency and Disaster Map* 
-* [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - *Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)*
-* [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - *Earthquake Activity Map*
-* [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - *Volcano Activity Map*
+## ▷ [Educational Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_educational_tools)
 
 ***
 
-## ▷ Map Tools
-
-* **[DuckDuckGo](https://duckduckgo.com/?q=maps&ia=web&iaxm=maps)**, [Yandex](https://yandex.com/maps/), [Google](https://www.google.com/maps/), [Bing](https://www.bing.com/maps), [Wego.Here](https://wego.here.com/), [Terrafly](http://www.terrafly.com/) or [OrganicMaps](https://organicmaps.app/) - *Maps, Satellite & Street Views* 
-* **[OpenStreetMap](https://www.openstreetmap.org/)** - *Street Map* 
-* [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - *Earth Viewer*
-* [MapChannels](https://www.mapchannels.com/) - *Mapping / Navigation Tools* 
-* [OldMapsOnline](https://www.oldmapsonline.org/) - *Historical Maps Tool* 
-* [Map Crunch](https://www.mapcrunch.com/) or [RandomStreetView](https://randomstreetview.com/) - *Random Street View*
-* [KartaView](https://kartaview.org/landing) or [Mapillary](https://www.mapillary.com/) - *Street View Map* 
-* [Loc Maps](https://www.loc.gov/collections/general-maps/) - *Historical Maps*
-* [1940's.nyc](https://1940s.nyc/) - *Explore 1940's New York* 
-* [Snap Map](https://map.snapchat.com/) - *Snap Chat Map*
-* [Flickr Map](https://www.flickr.com/map/) - *Flickr Map*
-* [U Meet Me Here!](https://www.umeetmehere.com/) - *Find Closest Point Between Two Locations*
-* [Maps We Love](https://www.esri.com/en-us/maps-we-love/gallery), [CoolMaps](https://coolmaps.esri.com/#0) or [/r/MapPorn](https://reddit.com/r/MapPorn) - *Multiple Maps* 
-* [Human Terrain](https://pudding.cool/2018/10/city_3d/) - *Human Population Map*
-* [DarkSky](https://maps.darksky.net/) - *Weather Maps*
-* [Windy](https://www.windy.com/) - *Wind Map* 
-* [Air Now](https://gispub.epa.gov/airnow/) or [Breezometer](https://www.breezometer.com/air-quality-map/) - *Air Quality Map*
-* [River Runner](https://river-runner.samlearner.com/) - *River Map*
-* [Earth](https://earth.nullschool.net/) - *Global map of Wind, Weather, Ocean and Pollution conditions*
-* [Wikimapia](http://wikimapia.org/) - *Online Editable Map*
-* [MapChart](https://mapchart.net/) - *Create Custom Maps* 
-* [City Roads](https://anvaka.github.io/city-roads/) - *Draw City Roads*
-* [Mobac](https://mobac.sourceforge.io/) - *Mobile Atlas Creator*
-* [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - *Globe of Ancient Earth*
-* [American Panorama](https://dsl.richmond.edu/panorama/) - *Interactive US Historical Maps*
-* [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
-* [Gas Price Map](https://www.gasbuddy.com/gaspricemap) - *US Gas Price Map*
-* [CellMapper](https://www.cellmapper.net/) - *Cell Tower Map*
-* [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - *Cell Carrier FCC Spectrum Map*
-* [4G LTE Coverage](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b) - *4G LTE Coverage Map*
-* [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - *Web Service Coverage Map*
-* [Broadband Map](https://broadbandmap.fcc.gov/) - *Fixed Broadband Deployment Map*
-* [PowerOutage](https://poweroutage.us/) - *Power Outage Map*
-* [City Generator](https://probabletrain.itch.io/city-generator) - *City Map Generator* 
-* [RSOE](http://hisz.rsoe.hu/) - *Emergency and Disaster Map* 
-* [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - *Volcano Activity Map*
-* [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - *Earthquake Activity Map*
-* [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - *Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)*
-* [FlightRadar24](https://www.flightradar24.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](http://radarbox24.com/) or [FlightAware](http://flightaware.com/) - *Live Flight Tracker* 
-* [MarineTraffic](https://www.marinetraffic.com/) or [VesselFinder](http://vesselfinder.com/) - *Live Ship Tracker* 
-* [Cost of Living](https://www.numbeo.com/cost-of-living/) - *Cost of Living Map*
-* [Mapfrappe](http://mapfrappe.com/?show=46142) - *Compare True Sizes on Land Masses*
-* [scale-a-tron](https://stamen.github.io/scale-a-tron/) - *Compare the Size of any Land*
-* [NUKEMAP](https://nuclearsecrecy.com/nukemap/), [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) or [AsteroidCollision](https://asteroidcollision.herokuapp.com/) - *Interactive damage effect maps*
-* [convert_lat_long](https://andrew.hedges.name/experiments/convert_lat_long/) - *Convert Latitude/Longitude to Decimal* 
-* [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - *Dialect Map*
-* [Helpmap](https://helpmap.io/) - *Nonprofit Donation Map* 
+## ▷ [Developer Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools)
 
 *** 
 
@@ -1605,11 +1542,3 @@ General Reading Sites*
 * [Classic Minecraft](https://classic.minecraft.net/) - *Play Classic Minecraft* 
 * [Minetest](https://www.minetest.net/) - *F2P Minecraft Alternative* 
 * [Baritone](https://github.com/cabaletta/baritone) - *Minecraft Pathfinding System*
-
-***
-
-# ► [Developer Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools)
-
-***
-
-# ► [Educational Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_educational_tools)
