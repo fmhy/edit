@@ -408,7 +408,7 @@
 #### FMovies Clones
 
 * [FlixHQ](https://flixhq.net/)
-* [FBox](https://www1.fbox.to/)
+* [FBox](https://www1.fbox.to/), [2](https://www3.fbox.to/)
 * [HuruWatch](https://hurawatch.com/), [2](https://hurawatch.ru/)
 * [Movies7](https://movies7.to/)
 * [Flixtor](https://flixtor.one/)
