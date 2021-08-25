@@ -248,9 +248,8 @@
 
 ## ▷ Screenshot Tools
 
-* [Screenshot Tutorial](https://www.take-a-screenshot.org/) - *Multi Platform Screenshot Guides* 
-* [ShareX](https://getsharex.com/) / [Linux](https://github.com/Francesco149/sharenix)
-* ShareX Tools - [SXIE Archive](https://mega.nz/folder/1goUgJBZ#XaqM3dm5nY40luhtoxyzWg) / [Free Host](https://sxcu.net/) / [Android Upload](https://github.com/tsudoko/xshare)
+* **[ShareX](https://getsharex.com/)** / [Linux](https://github.com/Francesco149/sharenix)
+* **ShareX Tools** - [SXIE Archive](https://mega.nz/folder/1goUgJBZ#XaqM3dm5nY40luhtoxyzWg) / [Free Host](https://sxcu.net/) / [Android Upload](https://github.com/tsudoko/xshare)
 * [Flameshot](https://flameshot.org/)
 * Flameshot Tools - [GitHub](https://github.com/flameshot-org/flameshot) / [Imgur Upload](https://slproweb.com/products/Win32OpenSSL.html)
 * [Greenshot](https://getgreenshot.org/)
@@ -261,6 +260,7 @@
 * [MagicCap](https://magiccap.me/) - *Mac / Linux*
 * [Screenshot Guru](https://screenshot.guru/) - *Online Site Screenshots* 
 * [puush](https://puush.me/) - *Easily Share Screenshots*
+* [Screenshot Tutorial](https://www.take-a-screenshot.org/) - *Multi Platform Screenshot Guides* 
 
 ***
 
