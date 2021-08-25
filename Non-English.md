@@ -218,6 +218,7 @@
 
 * [Pinoy Movies Hub](https://pinoymovieshub.de/), [2](https://pinoymovieshub.su/) - *Stream / Movies*
 * [PinoyMovies](https://pinoymovies.ch/), [2](https://pinoymovies.es/) - *Stream / Movies* 
+* [Pinoymoviepedia](https://pinoymoviepedia.ru/) - *Movies*
 
 ***
 
@@ -1131,8 +1132,10 @@
 
 * [eskikitaplarim](https://www.eskikitaplarim.com/) - *Books / Comics / Magazines*
 * [Kuflu](https://www.kuflu.com/forums/e-kitap.58/) - *Books / Magazines*
+* [Hattusa](https://hattusa.live/) - *Books*
 * [cizgidiyari](http://www.cizgidiyari.com/forum/) - *Comics*
-* [turkcecizgiroman](https://turkcecizgiroman.blogspot.com/) 
+* [turkcecizgiroman](https://turkcecizgiroman.blogspot.com/) - *Comics*
+* [Manga-TR](https://manga-tr.com/) - *Manga*
 
 ***
 
