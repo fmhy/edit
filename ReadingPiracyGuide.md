@@ -273,6 +273,7 @@
 * [The Bread Code Manifesto](https://github.com/hendricius/the-bread-code) - *Bread Baking Recipes* 
 * [Pizza Dough](https://github.com/hendricius/pizza-dough) - *Pizza Dough Recipes* 
 * [Mozzarella](https://github.com/hendricius/mozzarella) - *Mozzarella Recipes* 
+* [Mac Cookie Recipe Easter Egg](https://i.imgur.com/Jc0WoCg.png) - *Cookie Recipe / [How-to](https://pastebin.com/N8AyVfEf)*
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - *Historical Recipes Site Index*
 * [Chef2Chef](https://www.chef2chef.net/) - *Cooking Lessons* 
 * [TheCulinaryCook](https://theculinarycook.com/) - *Cooking Lessons* 
