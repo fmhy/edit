@@ -4,236 +4,10 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/ME8VBHu.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/K3OyucB.png)** - *For mobile users*
 
 ***
 *** 
-
-# ► Extensions 
-
-## ▷ Multi Browser
-
-* **[Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_adblocking_extensions) / [Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_extensions) Extensions**
-* **[add0n](https://add0n.com/) or [MyBrowserAddon](https://mybrowseraddon.com/)** - *Open-Source Extension Index*
-* **[Buster](https://github.com/dessant/buster)** or **[AntCpt](https://antcpt.com/)** - *Auto Captcha Solver*
-* **[Privacy Pass](https://privacypass.github.io/)** - *Skip Captchas* 
-* **[Dark Reader](https://darkreader.org/)**, [Into The Black Hole](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_into_the_black_hole), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html), or [222](https://github.com/x08d/222) - *Dark Mode* 
-* [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [VimC](https://github.com/1995eaton/chromium-vim), [Web Search Navigator](https://github.com/infokiller/web-search-navigator) or [Vimium C](https://github.com/gdh1995/vimium-c) - *Keyboard Shortcuts* 
-* [Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/) or [Link Clump](https://github.com/benblack86/linkclump) - *Select & Open Multiple Links at Once* 
-* [Glitter Drag](https://github.com/harytfw/glitterdrag) - *Adds Actions on Dragging* 
-* [ScrollAnywhere](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scroll_anywhere) - *Improves Scrolling Functionality*
-* [Scroll to Top](https://mybrowseraddon.com/scroll-to-top.html) - *Scroll to Top Button on all Sites*
-* [Customizable New Tab Page](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page) - *Customize New Tab Page*
-* [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - *Quickly Switch between Current & Recently Closed Tabs* 
-* [Always Right](https://github.com/autonome/Always-Right/) - *Always Open New Tabs to the Right* 
-* [Saka](https://saka.io/) - *Tab, History & Bookmark Search* 
-* [MyMark](https://www.mymark.me/) - *Bookmark Manager* 
-* [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - *Sort Bookmarks by Multiple Criteria* 
-* [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - *Search Bookmarks* 
-* [definer](https://lumetrium.com/definer/) or [phlinx](https://phlinx.com/) - *Highlight Search & Definitions*
-* [WebMemex](https://blog.webmemex.org/) - *Organize & Store Webpages* 
-* [Bandwidth Hero](https://bandwidth-hero.com/) - *Reduce Browsing Data Usage*
-* [Save-Data: On](https://www.daniel.priv.no/web-extensions/save-data.html) - *Auto-Enable Data Savings Mode*
-* [Auto Tab Discard](https://add0n.com/tab-discard.html), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs), [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) or [The Great Suspender](https://github.com/aciidic/thegreatsuspender-notrack) - *Discard Inactive Tabs to Reduce Memory / CPU Usage*
-* [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - *Temporarily Snooze Tabs* 
-* [OneTab](https://www.one-tab.com/), [Better OneTab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg) or [TabMerger](https://lbragile.github.io/TabMerger-Extension/) - *Merge & Organize Tabs* 
-* [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn) or [Tabli](https://www.gettabli.com/) - *Tab Manager* 
-* [Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups) or [Acid Tabs](https://github.com/jdhayford/acid-tabs-extension) - *Group Tabs* 
-* [Tab for a Cause](https://tab.gladly.io/) - *New Tabs = Charity Donation*
-* [Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button) - *Quickly Close All Tabs*
-* [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/) or [ImTranslator](https://imtranslator.net/) - *Translator* 
-* [Dictionaries](https://github.com/pnlpal/dictionaries) - *Popup Dictionary* 
-* [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - *Magnify Webpages*
-* [Zoom WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_zoom_we) or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - *Improves Zoom Functionality*
-* [Print Edit WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_print_edit_we) - *Edit Pages to Make them Printable* 
-* [Grammarly](https://www.grammarly.com/) - *Grammar Checker / [Free Premium](https://redd.it/kfncju)*
-* [Mouse Gestures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mouse_gestures) - *Control Browser via Gestures*
-* [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/), [2](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - *Merges a Sites "Next" Pages*
-* [DownThemAll](https://www.downthemall.org/), [Provd](https://provd.net/) or [Download Helper](http://www.downloadhelper.net/) - *Download Manager*
-* [Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - *Video Download Managers*
-* [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - *Play Videos in Theater Mode*
-* [Screen Recorder](https://mybrowseraddon.com/screen-recorder.html) - *Screen Recorder*
-* [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Audio Recorder*
-* [Mute Tab](https://mybrowseraddon.com/mute-tab.html) - *Easily Mute All Tabs*
-* [Form History Control](https://stephanmahieu.github.io/fhc-home/) or [Simple Form Fill](https://github.com/sblask/webextension-simple-form-fill) - *Formfiller Manager* 
-* [History Master](https://github.com/jiacai2050/history-master) - *Vizualize & Sync Browser History* 
-* [xBrowserSync](https://www.xbrowsersync.org/) - *Browser Syncing* 
-* [Midnight Lizard](https://midnight-lizard.org/), [Stylus](https://add0n.com/stylus.html), [Stylish](https://userstyles.org/) / [2](https://uso.kkx.one/) or [UserStyles](https://userstyles.world/) - *Custom Website Color Schemes*  
-* [Night Mode](https://mybrowseraddon.com/night-mode.html) - *Adapts Display Color to Time of Day*
-* [Screen Color Temperature](https://mybrowseraddon.com/screen-color-temperature.html) - *Adjust Screen Color Temperature*
-* [Font Changer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_webfont_changer) - *WebFont Changer* 
-* [ColorFish](https://ui.vision/colorfish) or [ColorPick](https://vidsbee.com/ColorPick/) - *Color Picker* 
-* [Context Search](https://github.com/odebroqueville/contextSearch), [2](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - *Search Selected Text / Multi Site Search*
-* [Clippings](https://aecreations.sourceforge.io/clippings/index.php) - *Save Frequently-Entered Text for Pasting*
-* [Auto Text Expander](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_auto_text_expander) - *Create Shortcuts to Expand & Replace Text as you Type* 
-* [DontFuckWithPaste](https://github.com/jswanner/DontFuckWithPaste) - *Prevents the Blocking of Pasting into Input Fields*
-* [Absolute Enable Right Click](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_absolute_enable_right_click) - *Force Enable Right Click*
-* [Copycat](https://github.com/BlackGlory/Copycat) - *Copy Content in Multiple Formats & Markdowns* 
-* [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - *Copy Text as Markdown* 
-* [Copy Selected Links](https://gitlab.com/Marnes/copy-selected-links) - *Copy Links from Selected Text* 
-* [CopyFish](https://ocr.space/copyfish) or [Image Reader](https://mybrowseraddon.com/image-reader.html) - *Grab Text from Images* 
-* [Text to Image](https://mybrowseraddon.com/text-to-image.html) - *Format & Save Text as a Image*
-* [Text Link](https://piro.sakura.ne.jp/xul/textlink/index.html.en) - *Make Non-Hyperlinked URL's Clickable* 
-* [Link Alert](https://www.cwesson.net/projects/LinkAlert/) - *Link Type Indicator* 
-* [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) - *Remove All Cookies* 
-* [Cookie Manager](https://github.com/laktak/vanilla-chrome), [Cookie Quick Manager](https://github.com/ysard/cookie-quick-manager), [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - *Cookie Manager* 
-* [Feedbro](https://nodetics.com/feedbro/), [Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS) or [Fraidycat](https://fraidyc.at/) - *RSS Feed Reader*
-* [Reader View](https://add0n.com/chrome-reader-view.html), [EpubPress](https://epub.press/), [Reader View](https://mybrowseraddon.com/reader-view.html) or [2read](https://2read.net/) - *Open Pages in Reader View*
-* [Google Unblocked](https://github.com/Ibit-to/google-unlocked) - *Uncensored Google Search*
-* [Google search link fix](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_search_link_fix) - *Prevent Search Pages from Modifying Result Links* 
-* [Restore Classic Google Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_restore_classic_google_icons)
-* [Link Gopher](https://sites.google.com/site/linkgopher/) or [CopyLinks++](https://github.com/MichelePezza/CopyLinksplusplus) - *Extract Links from Webpages* 
-* [Linkpack](https://www.linkpack.io/) - *Save Links to Dropbox*
-* [Survol](https://survol.me/) - *Preview Links* 
-* [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - *Page Change Detection / Notification* 
-* [SuperStop](https://github.com/gavinsharp/SuperStop/) - *Stop Active Animations, Videos, JS, WebSocket & XHR*
-* [Nuke Anything](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nuke_anything) - *Block/Hide Anything on a Page*  
-* [NSFW-Filter](https://github.com/nsfw-filter/nsfw-filter) - *Block NSFW Images*
-* [Block Image Video](https://mybrowseraddon.com/block-image-video.html) - *Block All Images & Videos*
-* [Offline Mode](https://mybrowseraddon.com/offline-mode.html) - *Disconnect Browser from the Internet*
-* [Forest](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_forest) - *Site Blocker / Productivity Booster*
-* [Wayback Machine](https://github.com/internetarchive/wayback-machine-webextension), [Web Archives](https://github.com/dessant/web-archives) or [Archiveror](https://github.com/rahiel/archiveror) - *View Archived / Cached Webpages*
-* [WaybackEverywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox) - *Auto Load Archived Versions of Dead Pages*
-* [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - *Alt Twitch Player* 
-* [Wikiwand](https://www.wikiwand.com/) - *Wikipedia web / Mobile Reader* 
-* [Sticky Notes](https://blog.kumabook.tokyo/stickynotes/index.html) - *Browser Sticky Notes* 
-* [Draw on Page](https://mybrowseraddon.com/draw-on-page.html) - *Draw on Webpages*
-* [Page Edit](https://mybrowseraddon.com/page-edit.html) - *Turn Webpages into Editable Documents*
-* [Save Page WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_save_page_we), [SingleFile](https://github.com/gildas-lormeau/SingleFile) or [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - *Save Webpages as HTML* 
-* [Listly](https://www.listly.io/) - *Webpage to Spreadsheet Converter*
-* [Download all Images](https://add0n.com/save-images.html) - *Download Images From a Page*
-* [Favicon Detector](https://github.com/BlackGlory/favicon-detector) - *Detect Website Favicons*
-* [behind!](https://github.com/kubuzetto/behind) - *View Background Images*  
-* [UI.Vision RPA](https://ui.vision/) - *Workflow Automation*  
-* [AugmentedSteam](https://augmentedsteam.com/) - *Steam Enhancement suite* 
-* [Steam Database](https://steamdb.info/extension/) - *Adds Steam Database Link to Steam Community & Store* 
-* [Gmail Labels as Tabs](https://tuladhar.github.io/gmail-labels-as-tabs/) - *Organize Labels as Gmail Tabs* 
-* [Native HLS](https://github.com/Palethorn/native-adaptive-streaming/) - *Allows HLS & MPEG-Dash native playback* 
-* [The Stream Detector](https://github.com/rowrawer/stream-detector/) - *Detects Playlists & Subtitles used by HLS/DASH/HDS/MSS Streams* 
-* [Happydia](https://github.com/Ademking/happydia) - *Clean Sad / Annoying Media from Social Sites* 
-* [Session Alive](https://github.com/arunelias/session-alive/) - *Keep Website Sessions Alive* 
-* [Caffeine](https://add0n.com/caffeine.html) - *Prevent OS From Sleeping* 
-* [Broken Link Checker](https://add0n.com/broken-link-checker.html) - *Checks Page for Broken Links* 
-* [ViewImage](https://github.com/bijij/ViewImage) or [Make GIS Great Again](https://github.com/devunt/make-gis-great-again) - *Adds Back "View Image" Button to Google Image Search* 
-* [Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search) - *Reverse Image Search Extensions / Sites*
-* [NooBox](https://ainoob.com/en/project/noobox) - *Reverse Image Search, Extract Images, Screenshot & Search* 
-* [GoFullPage](https://gofullpage.com/) - *Full Page Screenshots*
-* [Nimbus Capture](https://nimbusweb.me/screenshot.php) - *Screenshot / Video Capture*
-* [Booru Slideshow](https://github.com/Chirmaya/BooruSlideshow) - *Make Slideshows Easier to Navigate*
-* [Textmarker](https://github.com/ufb/Textmarker) - *Text Highlighter* 
-* [Bulk URL Opener](https://bulkurlopener.com/) - *Open Multiple URL's in One Click* 
-* [Forecastfox](http://www.s3blog.org/forecastfox.html) - *Weather Addon* 
-* [Timer](https://eccorem.com/apps/timer.html) - *Timer, Alarm & Stopwatch* 
-* [XKit](https://github.com/new-xkit/XKit) - *Make Tumblr More Usable*
-* [Breeze Duo for KDE Plasma](https://github.com/vfrico/firefox-breeze-duo) - *Breeze Theme for better KDE Integration* 
-* [WhatRuns](https://www.whatruns.com/) - *Discover what makes a site run* 
-* [Tab Session Manager](https://tab-session-manager.sienori.com/) or [Session Buddy](https://sessionbuddy.com/) - *Session Manager* 
-* [Peek](https://github.com/corbindavenport/peek) - *Shows Images & Videos Behind Links & Thumbnails* 
-* [Not For You](https://bengrosser.com/projects/not-for-you/) - *Confuse Tik-Toks Recommendation Algorithm*
-* [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) - *Hide All Facebook Metrics*
-* [OctoShop](https://www.instok.org/octoshop) - *In-Stock Alerts*
-
-## ▷ Firefox
-
-* [Firefox Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)
-* [FirefoxPWA](https://addons.mozilla.org/en-US/firefox/addon/firefoxpwa/) - *Progressive Web Apps for Firefox / [GitHub](https://github.com/filips123/FirefoxPWA)*
-* [Firemin](https://www.rizonesoft.com/downloads/firemin/) - *Prevent Firefox Memory Leaks* 
-* [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) - *Firefox Hidden Settings*
-* [keyconfig](https://addons.palemoon.org/addon/keyconfig/) - *Firefox Key Binds* 
-* [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - *Multiple Link Related Actions* 
-* [FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/) - *Multiple Tab Related Actions*
-* [Firefox Download Managers](https://addons.mozilla.org/en-US/firefox/search/?category=download-management&recommended=true&sort=recommended%2Cusers&type=extension) - *Download Managers for Firefox*
-* [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - *Download Manager*
-* [ShadowFox](https://overdodactyl.github.io/ShadowFox/) - *Dark Mode*
-* [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - *Pick Site that Opens in New Tabs* 
-* [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/) or [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - *Bookmark Manager* 
-* [Keep or Delete Bookmarks](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) - *Keep Bookmark Folder Clean* 
-* [SaveForReadLater](https://addons.mozilla.org/en-US/firefox/addon/saveforreadlater/) - *Save Pages to Read Later* 
-* [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - *Multi Tab Word Search Search* 
-* [PopUp Encyclopedia](https://addons.mozilla.org/en-US/firefox/addon/popup-encyclopedia/) - *Popup Encyclopedia & Dictionary* 
-* [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - *Domain Word Search* 
-* [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/) - *Custom Firefox Theme Creation*
-* [FirefoxCSS Store](https://firefoxcss-store.github.io/) - *Firefox Themes List*
-* [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - *Firefox CSS Guides* 
-* [Dark Background for Firefox New Tabs](https://fedidat.com/640-dark-newtab-firefox/)
-* [Colors and Fonts Extractor](https://addons.mozilla.org/en-US/firefox/addon/colors-and-fonts-extractor/) - *Extract Colors & Fonts from Websites* 
-* [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - *Force Enable Right Click*
-* [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) - *Make Non-Hyperlinked URL's Clickable* 
-* [Profile Switcher](https://addons.mozilla.org/en-US/firefox/addon/profile-switcher/) - *Profile Manager* 
-* [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) - *Separate Cookies by Profile* 
-* [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - *Switch and Override User Agent Header on Firefox Easily*
-* [SoundFixer](https://github.com/myfreeweb/soundfixer) - *Fixes Sites that are too Quiet*
-* [Mute Sites By Default](https://addons.mozilla.org/en-US/firefox/addon/mute-sites-by-default/) - *Mute All Sites by Default* 
-* [Read Aloud](https://readaloud.app/) - *Text to Speech*
-* [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/) - *RSS Feed Reader*
-* [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - *Restores Firefox RSS Features*
-* [Rooster Todo Manager](https://addons.mozilla.org/en-US/firefox/addon/rooster-todos/) - *To-Do Manager* 
-* [Morning Coffee Quantum](https://addons.mozilla.org/en-US/firefox/addon/morning-coffee-quantum/) - *Open Custom Website Lists* 
-* [Resurrect Pages](https://addons.mozilla.org/nl/firefox/addon/resurrect-pages/) - *View Archived / Cached Webpages*
-* [Firefox Voice](https://commonvoice.mozilla.org/en) - *Use Firefox with your Voice* 
-* [Canvas](https://addons.mozilla.org/en-US/firefox/addon/canvas-google-images/) - *View & Edit Google Images* 
-* [Zoom Redirector](https://addons.mozilla.org/en-US/firefox/addon/zoom-redirector/) - *Redirect Zoom Links to Web Client* 
-* [Plasma Integration](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/) - *Control Browser via Plasma* 
-* [Session Sync](https://addons.mozilla.org/en-US/firefox/addon/session-sync/) - *Session Manager* 
-* [OnelineProton](https://github.com/lr-tech/OnelineProton/) - *Proton Theme for Firefox*
-
-## ▷ Chrome
-
-* [Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=en)
-* [Crx4Chrome](https://www.crx4chrome.com/) - *Alt Google App Store*
-* [chrome-extensions](https://github.com/learn-anything/chrome-extensions) - *List of Chrome Extensions* 
-* [NooBoss](https://ainoob.com/en/project/nooboss) - *Chrome Extension Manager / Extra Features*
-* [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - *Add Extensions to Ungoogled Chromium* 
-* [Chrome Extension Downloader](https://chrome-extension-downloader.com/) - *Chrome Extension Download Tool*
-* [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - *Quickly Enable / Disable Chrome Extensions*
-* [CRXExtractor](https://crxextractor.com/) - *Get .CRX Chrome Extension Files* 
-* [CRX Viewer](https://github.com/Rob--W/crxviewer) or - *View Extension Source Code* 
-* [Dark Mode](https://chrome.google.com/webstore/detail/dark-mode/declgfomkjdohhjbcfemjklfebflhefl) - *Dark Mode*
-* [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - *Picture-in-Picture Mode*
-* [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) - *Increase Browser Volume*
-* [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - *Download Multiple Links at Once* 
-* [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
-* [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
-* [Beanote](https://chrome.google.com/webstore/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) - *Web Page Note Taking*
-* [Dualless](https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd) - *Split Browser Window* 
-* [chromewm](https://gitlab.com/EduCampi/chromewm) - *Tile Windows / Emulate Workspaces*
-* [Go Back in Time](https://chrome.google.com/webstore/detail/go-back-in-time/hgdahcpipmgehmaaankiglanlgljlakj) - *View Archived / Cached Webpages*
-* [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en) - *Image / Video Album Downloader / [Script](https://openuserjs.org/scripts/indream/DownAlbum)* 
-* [Social Tools](https://chrome.google.com/webstore/detail/facebook-block-read-recei/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) - *Block "Sending" & "Seen" Facebook Chat Indicators* 
-* [Mate Translate](https://gikken.co/mate-translate/chrome/) - *Translator*
-* [Spoiled](https://lucasrowe.github.io/spoiled/) - *Customizable Phrase / Spoiler Blocker*
-* [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej) - *Discover Similar Webpages* 
-* [Email Tracker](https://snov.io/email-tracker) - *Gmail Engagement Tracker*
-* [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - *View Extension Source Code* 
-* [NicoNico SPEENYA](https://github.com/chimerast/niconico-speenya) - *Presentation Style Comments*
-* [Current Moon Phase](https://chrome.google.com/webstore/detail/current-moon-phase/ippnbhhbamibfpljlfmgogaondodicgi) - *Current Moon Phases*
-* [Nicosapo](https://github.com/yurafuca/nicosapo) - *Add Features to Nico Nico*
-
-## ▷ Safari
-
-* [Safari Extensions](https://apps.apple.com/us/story/id1377753262) - *Safari Extensions*
-* [NightLight](https://apps.apple.com/us/app/nightlight-for-safari/id1429386865?mt=12), [Night Eye](https://apps.apple.com/us/app/night-eye-for-safari/id1450504903?mt=12) or [Dark Mode](https://apps.apple.com/us/app/dark-mode-for-safari/id1397180934?mt=12) - *Dark Mode*
-* [Tab Space](https://apps.apple.com/us/app/tab-space/id1473726602?mt=12) - *Tab / Bookmark Manager*
-* [Keyword Search](https://apps.apple.com/us/app/keyword-search/id1558453954?mt=12) - *Keyword Search Bar*
-
-## ▷ Userscripts
-
-* **[Userscript Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_userscript_managers)**
-* **[Greasy Fork](https://greasyfork.org/en)**, [Userscripts](https://userscripts-mirror.org/) or [OpenUserJS](https://openuserjs.org/) - *Install Userscripts / [Change Theme](https://greasyfork.org/en/scripts/4336) / [Remove Crap](https://greasyfork.org/en/scripts/12179-greasyfork-bull-filter)*
-* [Userscript.zone](https://www.userscript.zone/) - *Userscript Search* 
-* [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - *Google Search Endless Scrolling* 
-* [darkmode.js](https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c) - *Dark Mode Script*
-* [Remove Web Limits](https://greasyfork.org/en/scripts/28497-remove-web-limits-modified), [2](https://greasyfork.org/en/scripts/386908-remove-web-limits-re-modified) - *Force Enable Right Click*
-* [anti-anti-copy](https://greasyfork.org/en/scripts/7197) - *Copy text from any site*
-* [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - *Select Text Inside Links* 
-* [Always Remember Me](https://openuserjs.org/scripts/Patabugen/Always_Remember_Me) - *Always tick "Remember Me"* 
-* [altsearch links](https://greasyfork.org/en/scripts/13542-altsearch-links) - *Adds search on other sites for google, bing, and yahoo*
-* [Twitch Screen Comment Scroller](https://greasyfork.org/en/scripts/376225-twitch-screen-comment-scroller) - *Auto Scroll Twitch Comments*
-* [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) - *Adds various features to Imageboards* 
-* [Google Hit Hider](https://openuserjs.org/scripts/jscher2000/Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites)) - *Block Sites from Search Results* 
-* [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - *Shows Images & Videos Behind Links & Thumbnails* 
-
-***
 
 # ► Indexes
 
@@ -668,7 +442,110 @@
 
 ***
 
-# ►  Font Sites
+# ► News
+
+* **[News Feed Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_news_feed_aggregators)** - *Multiple News Site Feeds*
+* **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - *News Multireddit*
+* [RavenReader](https://ravenreader.app/) - *News Article Manager*
+* [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - *News Site Indexes* 
+* [Google Alerts](https://www.google.com/alerts) - *News Alerts by Topics*
+* [PublicAlerts](https://google.org/publicalerts) - *Important News / Disaster Alerts*
+* [GHacks](https://www.ghacks.net/) or [Slashdot](https://slashdot.org/) - *Tech News*
+* [Interactive News Map](https://usa.liveuamap.com/) - *Geolocated News Alerts / Headlines U.S* 
+* [Forekast](https://forekast.com/) - *Worldwide Event Calendar* 
+* [Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspaper_sites) - *Read & Download Newspapers*
+* [RSOE](http://hisz.rsoe.hu/) - *Emergency and Disaster Map* 
+* [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - *Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)*
+* [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - *Earthquake Activity Map*
+* [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - *Volcano Activity Map*
+
+***
+
+# ►  Health
+
+* [Awesome Health](https://github.com/lalaithan/awesome-health) - *Health Resources Index*
+* [NutritionFacts.org](https://nutritionfacts.org/) - *Video Library for Latest Health-based Research*
+* [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - *Havard University Health Website*
+* [MyPlate](https://www.myplate.gov/) - *Food Pyramid*
+* [tellspecopedia](http://www.tellspecopedia.com/) - *List of Food Ingredients & effects on Body*
+* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - *Child Nutrition / Cooking Course* 
+* [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) - *Fitness / Nutrition Info* 
+* [fastnfitness](https://github.com/brodeurlv/fastnfitness) - *Track Your Exercise Progress*
+* [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) - *Exercise & Activity Tracker*
+* [ExRx.net](https://exrx.net/) - *Exercise Resources*
+* [Cronometer](https://cronometer.com/) - *Track Nutrition & Calories*
+* [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - *Daily Diet Recommendations / Android*
+* [Examine.com](https://examine.com/) - *Supplement & Nutrition Analysis*
+* [openScale](https://f-droid.org/packages/com.health.openscale/) - *Weight & Body Metrics Tracker*
+* [Simple Science Fitness](https://ss.fitness/calculators) - *Fitness Calculators* 
+* [SailRabbit](https://www.sailrabbit.com/bmr/) - *BMR / TDEE Calculator*
+* [/r/BodywightFitness](https://www.reddit.com/r/BodyweightFitness) - *Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)*
+* [My Pacer](https://www.mypacer.com/) - *Fitness App / Pedometer*
+* [MyFitnessPal](https://www.myfitnesspal.com/) - *Fitness / Health App*
+* [Awesome Nutrition Calculator](https://github.com/RolandKawka/awesome-nutrition-calculator) - *Nutrition Calculator*
+* [wger](https://wger.de/) - *Self-Hosted Workout, Nutrition & Weight App / [GitHub](https://github.com/wger-project/wger)*
+* [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
+* [Fitocracy](https://www.fitocracy.com/) - *Create Workout Plans*
+* [DAREBEE](https://darebee.com/) - *Fitness Plans / Workouts*
+* [MapMyWalk](https://www.mapmywalk.com/) - *Map / Track Walks*
+* [Charity Miles](https://charitymiles.org/) - *Donate to Charity While Running / Biking*
+* [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - *Zombie Running Adventure Game*
+
+***
+
+# ► Maps
+
+* **[DuckDuckGo](https://duckduckgo.com/?q=maps&ia=web&iaxm=maps)**, [Yandex](https://yandex.com/maps/), [Google](https://www.google.com/maps/), [Bing](https://www.bing.com/maps), [Wego.Here](https://wego.here.com/), [Terrafly](http://www.terrafly.com/) or [OrganicMaps](https://organicmaps.app/) - *Maps, Satellite & Street Views* 
+* **[OpenStreetMap](https://www.openstreetmap.org/)** - *Street Map* 
+* [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - *Earth Viewer*
+* [MapChannels](https://www.mapchannels.com/) - *Mapping / Navigation Tools* 
+* [OldMapsOnline](https://www.oldmapsonline.org/) - *Historical Maps Tool* 
+* [Map Crunch](https://www.mapcrunch.com/) or [RandomStreetView](https://randomstreetview.com/) - *Random Street View*
+* [KartaView](https://kartaview.org/landing) or [Mapillary](https://www.mapillary.com/) - *Street View Map* 
+* [Loc Maps](https://www.loc.gov/collections/general-maps/) - *Historical Maps*
+* [1940's.nyc](https://1940s.nyc/) - *Explore 1940's New York* 
+* [Snap Map](https://map.snapchat.com/) - *Snap Chat Map*
+* [Flickr Map](https://www.flickr.com/map/) - *Flickr Map*
+* [U Meet Me Here!](https://www.umeetmehere.com/) - *Find Closest Point Between Two Locations*
+* [Maps We Love](https://www.esri.com/en-us/maps-we-love/gallery), [CoolMaps](https://coolmaps.esri.com/#0) or [/r/MapPorn](https://reddit.com/r/MapPorn) - *Multiple Maps* 
+* [Human Terrain](https://pudding.cool/2018/10/city_3d/) - *Human Population Map*
+* [DarkSky](https://maps.darksky.net/) - *Weather Maps*
+* [Windy](https://www.windy.com/) - *Wind Map* 
+* [Air Now](https://gispub.epa.gov/airnow/) or [Breezometer](https://www.breezometer.com/air-quality-map/) - *Air Quality Map*
+* [River Runner](https://river-runner.samlearner.com/) - *River Map*
+* [Earth](https://earth.nullschool.net/) - *Global map of Wind, Weather, Ocean and Pollution conditions*
+* [Wikimapia](http://wikimapia.org/) - *Online Editable Map*
+* [MapChart](https://mapchart.net/) - *Create Custom Maps* 
+* [City Roads](https://anvaka.github.io/city-roads/) - *Draw City Roads*
+* [Mobac](https://mobac.sourceforge.io/) - *Mobile Atlas Creator*
+* [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - *Globe of Ancient Earth*
+* [American Panorama](https://dsl.richmond.edu/panorama/) - *Interactive US Historical Maps*
+* [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
+* [Gas Price Map](https://www.gasbuddy.com/gaspricemap) - *US Gas Price Map*
+* [CellMapper](https://www.cellmapper.net/) - *Cell Tower Map*
+* [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - *Cell Carrier FCC Spectrum Map*
+* [4G LTE Coverage](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b) - *4G LTE Coverage Map*
+* [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - *Web Service Coverage Map*
+* [Broadband Map](https://broadbandmap.fcc.gov/) - *Fixed Broadband Deployment Map*
+* [PowerOutage](https://poweroutage.us/) - *Power Outage Map*
+* [City Generator](https://probabletrain.itch.io/city-generator) - *City Map Generator* 
+* [RSOE](http://hisz.rsoe.hu/) - *Emergency and Disaster Map* 
+* [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - *Volcano Activity Map*
+* [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - *Earthquake Activity Map*
+* [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - *Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)*
+* [FlightRadar24](https://www.flightradar24.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](http://radarbox24.com/) or [FlightAware](http://flightaware.com/) - *Live Flight Tracker* 
+* [MarineTraffic](https://www.marinetraffic.com/) or [VesselFinder](http://vesselfinder.com/) - *Live Ship Tracker* 
+* [Cost of Living](https://www.numbeo.com/cost-of-living/) - *Cost of Living Map*
+* [Mapfrappe](http://mapfrappe.com/?show=46142) - *Compare True Sizes on Land Masses*
+* [scale-a-tron](https://stamen.github.io/scale-a-tron/) - *Compare the Size of any Land*
+* [NUKEMAP](https://nuclearsecrecy.com/nukemap/), [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) or [AsteroidCollision](https://asteroidcollision.herokuapp.com/) - *Interactive damage effect maps*
+* [convert_lat_long](https://andrew.hedges.name/experiments/convert_lat_long/) - *Convert Latitude/Longitude to Decimal* 
+* [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - *Dialect Map*
+* [Helpmap](https://helpmap.io/) - *Nonprofit Donation Map* 
+
+***
+
+# ►  Fonts
 
 * **[How to Download Fonts](https://redd.it/8tqfg6)**
 * [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [Font Generator](https://www.toulr.com/other-tools/font-generator), [DiscordFonts](https://lingojam.com/DiscordFonts), [TextFancy](https://textfancy.com/) or [fSymbols](https://fsymbols.com/generators/) - *Font Generator*
@@ -723,32 +600,226 @@
 
 ***
 
-# ►  Health
+# ► Extensions 
 
-* [Awesome Health](https://github.com/lalaithan/awesome-health) - *Health Resources Index*
-* [NutritionFacts.org](https://nutritionfacts.org/) - *Video Library for Latest Health-based Research*
-* [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - *Havard University Health Website*
-* [MyPlate](https://www.myplate.gov/) - *Food Pyramid*
-* [tellspecopedia](http://www.tellspecopedia.com/) - *List of Food Ingredients & effects on Body*
-* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - *Child Nutrition / Cooking Course* 
-* [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) - *Fitness / Nutrition Info* 
-* [fastnfitness](https://github.com/brodeurlv/fastnfitness) - *Track Your Exercise Progress*
-* [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) - *Exercise & Activity Tracker*
-* [ExRx.net](https://exrx.net/) - *Exercise Resources*
-* [Cronometer](https://cronometer.com/) - *Track Nutrition & Calories*
-* [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - *Daily Diet Recommendations / Android*
-* [Examine.com](https://examine.com/) - *Supplement & Nutrition Analysis*
-* [openScale](https://f-droid.org/packages/com.health.openscale/) - *Weight & Body Metrics Tracker*
-* [Simple Science Fitness](https://ss.fitness/calculators) - *Fitness Calculators* 
-* [SailRabbit](https://www.sailrabbit.com/bmr/) - *BMR / TDEE Calculator*
-* [/r/BodywightFitness](https://www.reddit.com/r/BodyweightFitness) - *Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)*
-* [My Pacer](https://www.mypacer.com/) - *Fitness App / Pedometer*
-* [MyFitnessPal](https://www.myfitnesspal.com/) - *Fitness / Health App*
-* [Awesome Nutrition Calculator](https://github.com/RolandKawka/awesome-nutrition-calculator) - *Nutrition Calculator*
-* [wger](https://wger.de/) - *Self-Hosted Workout, Nutrition & Weight App / [GitHub](https://github.com/wger-project/wger)*
-* [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
-* [Fitocracy](https://www.fitocracy.com/) - *Create Workout Plans*
-* [DAREBEE](https://darebee.com/) - *Fitness Plans / Workouts*
-* [MapMyWalk](https://www.mapmywalk.com/) - *Map / Track Walks*
-* [Charity Miles](https://charitymiles.org/) - *Donate to Charity While Running / Biking*
-* [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - *Zombie Running Adventure Game*
+## ▷ Multi Browser
+
+* **[Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_adblocking_extensions) / [Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_extensions) Extensions**
+* **[add0n](https://add0n.com/) or [MyBrowserAddon](https://mybrowseraddon.com/)** - *Open-Source Extension Index*
+* **[Buster](https://github.com/dessant/buster)** or **[AntCpt](https://antcpt.com/)** - *Auto Captcha Solver*
+* **[Privacy Pass](https://privacypass.github.io/)** - *Skip Captchas* 
+* **[Dark Reader](https://darkreader.org/)**, [Into The Black Hole](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_into_the_black_hole), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html), or [222](https://github.com/x08d/222) - *Dark Mode* 
+* [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [VimC](https://github.com/1995eaton/chromium-vim), [Web Search Navigator](https://github.com/infokiller/web-search-navigator) or [Vimium C](https://github.com/gdh1995/vimium-c) - *Keyboard Shortcuts* 
+* [Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/) or [Link Clump](https://github.com/benblack86/linkclump) - *Select & Open Multiple Links at Once* 
+* [Glitter Drag](https://github.com/harytfw/glitterdrag) - *Adds Actions on Dragging* 
+* [ScrollAnywhere](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scroll_anywhere) - *Improves Scrolling Functionality*
+* [Scroll to Top](https://mybrowseraddon.com/scroll-to-top.html) - *Scroll to Top Button on all Sites*
+* [Customizable New Tab Page](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page) - *Customize New Tab Page*
+* [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - *Quickly Switch between Current & Recently Closed Tabs* 
+* [Always Right](https://github.com/autonome/Always-Right/) - *Always Open New Tabs to the Right* 
+* [Saka](https://saka.io/) - *Tab, History & Bookmark Search* 
+* [MyMark](https://www.mymark.me/) - *Bookmark Manager* 
+* [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - *Sort Bookmarks by Multiple Criteria* 
+* [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - *Search Bookmarks* 
+* [definer](https://lumetrium.com/definer/) or [phlinx](https://phlinx.com/) - *Highlight Search & Definitions*
+* [WebMemex](https://blog.webmemex.org/) - *Organize & Store Webpages* 
+* [Bandwidth Hero](https://bandwidth-hero.com/) - *Reduce Browsing Data Usage*
+* [Save-Data: On](https://www.daniel.priv.no/web-extensions/save-data.html) - *Auto-Enable Data Savings Mode*
+* [Auto Tab Discard](https://add0n.com/tab-discard.html), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs), [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) or [The Great Suspender](https://github.com/aciidic/thegreatsuspender-notrack) - *Discard Inactive Tabs to Reduce Memory / CPU Usage*
+* [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - *Temporarily Snooze Tabs* 
+* [OneTab](https://www.one-tab.com/), [Better OneTab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg) or [TabMerger](https://lbragile.github.io/TabMerger-Extension/) - *Merge & Organize Tabs* 
+* [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn) or [Tabli](https://www.gettabli.com/) - *Tab Manager* 
+* [Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups) or [Acid Tabs](https://github.com/jdhayford/acid-tabs-extension) - *Group Tabs* 
+* [Tab for a Cause](https://tab.gladly.io/) - *New Tabs = Charity Donation*
+* [Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button) - *Quickly Close All Tabs*
+* [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/) or [ImTranslator](https://imtranslator.net/) - *Translator* 
+* [Dictionaries](https://github.com/pnlpal/dictionaries) - *Popup Dictionary* 
+* [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - *Magnify Webpages*
+* [Zoom WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_zoom_we) or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - *Improves Zoom Functionality*
+* [Print Edit WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_print_edit_we) - *Edit Pages to Make them Printable* 
+* [Grammarly](https://www.grammarly.com/) - *Grammar Checker / [Free Premium](https://redd.it/kfncju)*
+* [Mouse Gestures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mouse_gestures) - *Control Browser via Gestures*
+* [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/), [2](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - *Merges a Sites "Next" Pages*
+* [DownThemAll](https://www.downthemall.org/), [Provd](https://provd.net/) or [Download Helper](http://www.downloadhelper.net/) - *Download Manager*
+* [Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - *Video Download Managers*
+* [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - *Play Videos in Theater Mode*
+* [Screen Recorder](https://mybrowseraddon.com/screen-recorder.html) - *Screen Recorder*
+* [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Audio Recorder*
+* [Mute Tab](https://mybrowseraddon.com/mute-tab.html) - *Easily Mute All Tabs*
+* [Form History Control](https://stephanmahieu.github.io/fhc-home/) or [Simple Form Fill](https://github.com/sblask/webextension-simple-form-fill) - *Formfiller Manager* 
+* [History Master](https://github.com/jiacai2050/history-master) - *Vizualize & Sync Browser History* 
+* [xBrowserSync](https://www.xbrowsersync.org/) - *Browser Syncing* 
+* [Midnight Lizard](https://midnight-lizard.org/), [Stylus](https://add0n.com/stylus.html), [Stylish](https://userstyles.org/) / [2](https://uso.kkx.one/) or [UserStyles](https://userstyles.world/) - *Custom Website Color Schemes*  
+* [Night Mode](https://mybrowseraddon.com/night-mode.html) - *Adapts Display Color to Time of Day*
+* [Screen Color Temperature](https://mybrowseraddon.com/screen-color-temperature.html) - *Adjust Screen Color Temperature*
+* [Font Changer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_webfont_changer) - *WebFont Changer* 
+* [ColorFish](https://ui.vision/colorfish) or [ColorPick](https://vidsbee.com/ColorPick/) - *Color Picker* 
+* [Context Search](https://github.com/odebroqueville/contextSearch), [2](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - *Search Selected Text / Multi Site Search*
+* [Clippings](https://aecreations.sourceforge.io/clippings/index.php) - *Save Frequently-Entered Text for Pasting*
+* [Auto Text Expander](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_auto_text_expander) - *Create Shortcuts to Expand & Replace Text as you Type* 
+* [DontFuckWithPaste](https://github.com/jswanner/DontFuckWithPaste) - *Prevents the Blocking of Pasting into Input Fields*
+* [Absolute Enable Right Click](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_absolute_enable_right_click) - *Force Enable Right Click*
+* [Copycat](https://github.com/BlackGlory/Copycat) - *Copy Content in Multiple Formats & Markdowns* 
+* [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - *Copy Text as Markdown* 
+* [Copy Selected Links](https://gitlab.com/Marnes/copy-selected-links) - *Copy Links from Selected Text* 
+* [CopyFish](https://ocr.space/copyfish) or [Image Reader](https://mybrowseraddon.com/image-reader.html) - *Grab Text from Images* 
+* [Text to Image](https://mybrowseraddon.com/text-to-image.html) - *Format & Save Text as a Image*
+* [Text Link](https://piro.sakura.ne.jp/xul/textlink/index.html.en) - *Make Non-Hyperlinked URL's Clickable* 
+* [Link Alert](https://www.cwesson.net/projects/LinkAlert/) - *Link Type Indicator* 
+* [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) - *Remove All Cookies* 
+* [Cookie Manager](https://github.com/laktak/vanilla-chrome), [Cookie Quick Manager](https://github.com/ysard/cookie-quick-manager), [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - *Cookie Manager* 
+* [Feedbro](https://nodetics.com/feedbro/), [Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS) or [Fraidycat](https://fraidyc.at/) - *RSS Feed Reader*
+* [Reader View](https://add0n.com/chrome-reader-view.html), [EpubPress](https://epub.press/), [Reader View](https://mybrowseraddon.com/reader-view.html) or [2read](https://2read.net/) - *Open Pages in Reader View*
+* [Google Unblocked](https://github.com/Ibit-to/google-unlocked) - *Uncensored Google Search*
+* [Google search link fix](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_search_link_fix) - *Prevent Search Pages from Modifying Result Links* 
+* [Restore Classic Google Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_restore_classic_google_icons)
+* [Link Gopher](https://sites.google.com/site/linkgopher/) or [CopyLinks++](https://github.com/MichelePezza/CopyLinksplusplus) - *Extract Links from Webpages* 
+* [Linkpack](https://www.linkpack.io/) - *Save Links to Dropbox*
+* [Survol](https://survol.me/) - *Preview Links* 
+* [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - *Page Change Detection / Notification* 
+* [SuperStop](https://github.com/gavinsharp/SuperStop/) - *Stop Active Animations, Videos, JS, WebSocket & XHR*
+* [Nuke Anything](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nuke_anything) - *Block/Hide Anything on a Page*  
+* [NSFW-Filter](https://github.com/nsfw-filter/nsfw-filter) - *Block NSFW Images*
+* [Block Image Video](https://mybrowseraddon.com/block-image-video.html) - *Block All Images & Videos*
+* [Offline Mode](https://mybrowseraddon.com/offline-mode.html) - *Disconnect Browser from the Internet*
+* [Forest](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_forest) - *Site Blocker / Productivity Booster*
+* [Wayback Machine](https://github.com/internetarchive/wayback-machine-webextension), [Web Archives](https://github.com/dessant/web-archives) or [Archiveror](https://github.com/rahiel/archiveror) - *View Archived / Cached Webpages*
+* [WaybackEverywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox) - *Auto Load Archived Versions of Dead Pages*
+* [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - *Alt Twitch Player* 
+* [Wikiwand](https://www.wikiwand.com/) - *Wikipedia web / Mobile Reader* 
+* [Sticky Notes](https://blog.kumabook.tokyo/stickynotes/index.html) - *Browser Sticky Notes* 
+* [Draw on Page](https://mybrowseraddon.com/draw-on-page.html) - *Draw on Webpages*
+* [Page Edit](https://mybrowseraddon.com/page-edit.html) - *Turn Webpages into Editable Documents*
+* [Save Page WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_save_page_we), [SingleFile](https://github.com/gildas-lormeau/SingleFile) or [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - *Save Webpages as HTML* 
+* [Listly](https://www.listly.io/) - *Webpage to Spreadsheet Converter*
+* [Download all Images](https://add0n.com/save-images.html) - *Download Images From a Page*
+* [Favicon Detector](https://github.com/BlackGlory/favicon-detector) - *Detect Website Favicons*
+* [behind!](https://github.com/kubuzetto/behind) - *View Background Images*  
+* [UI.Vision RPA](https://ui.vision/) - *Workflow Automation*  
+* [AugmentedSteam](https://augmentedsteam.com/) - *Steam Enhancement suite* 
+* [Steam Database](https://steamdb.info/extension/) - *Adds Steam Database Link to Steam Community & Store* 
+* [Gmail Labels as Tabs](https://tuladhar.github.io/gmail-labels-as-tabs/) - *Organize Labels as Gmail Tabs* 
+* [Native HLS](https://github.com/Palethorn/native-adaptive-streaming/) - *Allows HLS & MPEG-Dash native playback* 
+* [The Stream Detector](https://github.com/rowrawer/stream-detector/) - *Detects Playlists & Subtitles used by HLS/DASH/HDS/MSS Streams* 
+* [Happydia](https://github.com/Ademking/happydia) - *Clean Sad / Annoying Media from Social Sites* 
+* [Session Alive](https://github.com/arunelias/session-alive/) - *Keep Website Sessions Alive* 
+* [Caffeine](https://add0n.com/caffeine.html) - *Prevent OS From Sleeping* 
+* [Broken Link Checker](https://add0n.com/broken-link-checker.html) - *Checks Page for Broken Links* 
+* [ViewImage](https://github.com/bijij/ViewImage) or [Make GIS Great Again](https://github.com/devunt/make-gis-great-again) - *Adds Back "View Image" Button to Google Image Search* 
+* [Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search) - *Reverse Image Search Extensions / Sites*
+* [NooBox](https://ainoob.com/en/project/noobox) - *Reverse Image Search, Extract Images, Screenshot & Search* 
+* [GoFullPage](https://gofullpage.com/) - *Full Page Screenshots*
+* [Nimbus Capture](https://nimbusweb.me/screenshot.php) - *Screenshot / Video Capture*
+* [Booru Slideshow](https://github.com/Chirmaya/BooruSlideshow) - *Make Slideshows Easier to Navigate*
+* [Textmarker](https://github.com/ufb/Textmarker) - *Text Highlighter* 
+* [Bulk URL Opener](https://bulkurlopener.com/) - *Open Multiple URL's in One Click* 
+* [Forecastfox](http://www.s3blog.org/forecastfox.html) - *Weather Addon* 
+* [Timer](https://eccorem.com/apps/timer.html) - *Timer, Alarm & Stopwatch* 
+* [XKit](https://github.com/new-xkit/XKit) - *Make Tumblr More Usable*
+* [Breeze Duo for KDE Plasma](https://github.com/vfrico/firefox-breeze-duo) - *Breeze Theme for better KDE Integration* 
+* [WhatRuns](https://www.whatruns.com/) - *Discover what makes a site run* 
+* [Tab Session Manager](https://tab-session-manager.sienori.com/) or [Session Buddy](https://sessionbuddy.com/) - *Session Manager* 
+* [Peek](https://github.com/corbindavenport/peek) - *Shows Images & Videos Behind Links & Thumbnails* 
+* [Not For You](https://bengrosser.com/projects/not-for-you/) - *Confuse Tik-Toks Recommendation Algorithm*
+* [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) - *Hide All Facebook Metrics*
+* [OctoShop](https://www.instok.org/octoshop) - *In-Stock Alerts*
+
+## ▷ Firefox
+
+* [Firefox Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)
+* [FirefoxPWA](https://addons.mozilla.org/en-US/firefox/addon/firefoxpwa/) - *Progressive Web Apps for Firefox / [GitHub](https://github.com/filips123/FirefoxPWA)*
+* [Firemin](https://www.rizonesoft.com/downloads/firemin/) - *Prevent Firefox Memory Leaks* 
+* [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) - *Firefox Hidden Settings*
+* [keyconfig](https://addons.palemoon.org/addon/keyconfig/) - *Firefox Key Binds* 
+* [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - *Multiple Link Related Actions* 
+* [FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/) - *Multiple Tab Related Actions*
+* [Firefox Download Managers](https://addons.mozilla.org/en-US/firefox/search/?category=download-management&recommended=true&sort=recommended%2Cusers&type=extension) - *Download Managers for Firefox*
+* [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - *Download Manager*
+* [ShadowFox](https://overdodactyl.github.io/ShadowFox/) - *Dark Mode*
+* [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - *Pick Site that Opens in New Tabs* 
+* [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/) or [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - *Bookmark Manager* 
+* [Keep or Delete Bookmarks](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) - *Keep Bookmark Folder Clean* 
+* [SaveForReadLater](https://addons.mozilla.org/en-US/firefox/addon/saveforreadlater/) - *Save Pages to Read Later* 
+* [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - *Multi Tab Word Search Search* 
+* [PopUp Encyclopedia](https://addons.mozilla.org/en-US/firefox/addon/popup-encyclopedia/) - *Popup Encyclopedia & Dictionary* 
+* [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - *Domain Word Search* 
+* [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/) - *Custom Firefox Theme Creation*
+* [FirefoxCSS Store](https://firefoxcss-store.github.io/) - *Firefox Themes List*
+* [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - *Firefox CSS Guides* 
+* [Dark Background for Firefox New Tabs](https://fedidat.com/640-dark-newtab-firefox/)
+* [Colors and Fonts Extractor](https://addons.mozilla.org/en-US/firefox/addon/colors-and-fonts-extractor/) - *Extract Colors & Fonts from Websites* 
+* [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - *Force Enable Right Click*
+* [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) - *Make Non-Hyperlinked URL's Clickable* 
+* [Profile Switcher](https://addons.mozilla.org/en-US/firefox/addon/profile-switcher/) - *Profile Manager* 
+* [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) - *Separate Cookies by Profile* 
+* [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - *Switch and Override User Agent Header on Firefox Easily*
+* [SoundFixer](https://github.com/myfreeweb/soundfixer) - *Fixes Sites that are too Quiet*
+* [Mute Sites By Default](https://addons.mozilla.org/en-US/firefox/addon/mute-sites-by-default/) - *Mute All Sites by Default* 
+* [Read Aloud](https://readaloud.app/) - *Text to Speech*
+* [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/) - *RSS Feed Reader*
+* [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - *Restores Firefox RSS Features*
+* [Rooster Todo Manager](https://addons.mozilla.org/en-US/firefox/addon/rooster-todos/) - *To-Do Manager* 
+* [Morning Coffee Quantum](https://addons.mozilla.org/en-US/firefox/addon/morning-coffee-quantum/) - *Open Custom Website Lists* 
+* [Resurrect Pages](https://addons.mozilla.org/nl/firefox/addon/resurrect-pages/) - *View Archived / Cached Webpages*
+* [Firefox Voice](https://commonvoice.mozilla.org/en) - *Use Firefox with your Voice* 
+* [Canvas](https://addons.mozilla.org/en-US/firefox/addon/canvas-google-images/) - *View & Edit Google Images* 
+* [Zoom Redirector](https://addons.mozilla.org/en-US/firefox/addon/zoom-redirector/) - *Redirect Zoom Links to Web Client* 
+* [Plasma Integration](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/) - *Control Browser via Plasma* 
+* [Session Sync](https://addons.mozilla.org/en-US/firefox/addon/session-sync/) - *Session Manager* 
+* [OnelineProton](https://github.com/lr-tech/OnelineProton/) - *Proton Theme for Firefox*
+
+## ▷ Chrome
+
+* [Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=en)
+* [Crx4Chrome](https://www.crx4chrome.com/) - *Alt Google App Store*
+* [chrome-extensions](https://github.com/learn-anything/chrome-extensions) - *List of Chrome Extensions* 
+* [NooBoss](https://ainoob.com/en/project/nooboss) - *Chrome Extension Manager / Extra Features*
+* [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - *Add Extensions to Ungoogled Chromium* 
+* [Chrome Extension Downloader](https://chrome-extension-downloader.com/) - *Chrome Extension Download Tool*
+* [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - *Quickly Enable / Disable Chrome Extensions*
+* [CRXExtractor](https://crxextractor.com/) - *Get .CRX Chrome Extension Files* 
+* [CRX Viewer](https://github.com/Rob--W/crxviewer) or - *View Extension Source Code* 
+* [Dark Mode](https://chrome.google.com/webstore/detail/dark-mode/declgfomkjdohhjbcfemjklfebflhefl) - *Dark Mode*
+* [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - *Picture-in-Picture Mode*
+* [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) - *Increase Browser Volume*
+* [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - *Download Multiple Links at Once* 
+* [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
+* [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
+* [Beanote](https://chrome.google.com/webstore/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) - *Web Page Note Taking*
+* [Dualless](https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd) - *Split Browser Window* 
+* [chromewm](https://gitlab.com/EduCampi/chromewm) - *Tile Windows / Emulate Workspaces*
+* [Go Back in Time](https://chrome.google.com/webstore/detail/go-back-in-time/hgdahcpipmgehmaaankiglanlgljlakj) - *View Archived / Cached Webpages*
+* [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en) - *Image / Video Album Downloader / [Script](https://openuserjs.org/scripts/indream/DownAlbum)* 
+* [Social Tools](https://chrome.google.com/webstore/detail/facebook-block-read-recei/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) - *Block "Sending" & "Seen" Facebook Chat Indicators* 
+* [Mate Translate](https://gikken.co/mate-translate/chrome/) - *Translator*
+* [Spoiled](https://lucasrowe.github.io/spoiled/) - *Customizable Phrase / Spoiler Blocker*
+* [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej) - *Discover Similar Webpages* 
+* [Email Tracker](https://snov.io/email-tracker) - *Gmail Engagement Tracker*
+* [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - *View Extension Source Code* 
+* [NicoNico SPEENYA](https://github.com/chimerast/niconico-speenya) - *Presentation Style Comments*
+* [Current Moon Phase](https://chrome.google.com/webstore/detail/current-moon-phase/ippnbhhbamibfpljlfmgogaondodicgi) - *Current Moon Phases*
+* [Nicosapo](https://github.com/yurafuca/nicosapo) - *Add Features to Nico Nico*
+
+## ▷ Safari
+
+* [Safari Extensions](https://apps.apple.com/us/story/id1377753262) - *Safari Extensions*
+* [NightLight](https://apps.apple.com/us/app/nightlight-for-safari/id1429386865?mt=12), [Night Eye](https://apps.apple.com/us/app/night-eye-for-safari/id1450504903?mt=12) or [Dark Mode](https://apps.apple.com/us/app/dark-mode-for-safari/id1397180934?mt=12) - *Dark Mode*
+* [Tab Space](https://apps.apple.com/us/app/tab-space/id1473726602?mt=12) - *Tab / Bookmark Manager*
+* [Keyword Search](https://apps.apple.com/us/app/keyword-search/id1558453954?mt=12) - *Keyword Search Bar*
+
+## ▷ Userscripts
+
+* **[Userscript Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_userscript_managers)**
+* **[Greasy Fork](https://greasyfork.org/en)**, [Userscripts](https://userscripts-mirror.org/) or [OpenUserJS](https://openuserjs.org/) - *Install Userscripts / [Change Theme](https://greasyfork.org/en/scripts/4336) / [Remove Crap](https://greasyfork.org/en/scripts/12179-greasyfork-bull-filter)*
+* [Userscript.zone](https://www.userscript.zone/) - *Userscript Search* 
+* [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - *Google Search Endless Scrolling* 
+* [darkmode.js](https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c) - *Dark Mode Script*
+* [Remove Web Limits](https://greasyfork.org/en/scripts/28497-remove-web-limits-modified), [2](https://greasyfork.org/en/scripts/386908-remove-web-limits-re-modified) - *Force Enable Right Click*
+* [anti-anti-copy](https://greasyfork.org/en/scripts/7197) - *Copy text from any site*
+* [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - *Select Text Inside Links* 
+* [Always Remember Me](https://openuserjs.org/scripts/Patabugen/Always_Remember_Me) - *Always tick "Remember Me"* 
+* [altsearch links](https://greasyfork.org/en/scripts/13542-altsearch-links) - *Adds search on other sites for google, bing, and yahoo*
+* [Twitch Screen Comment Scroller](https://greasyfork.org/en/scripts/376225-twitch-screen-comment-scroller) - *Auto Scroll Twitch Comments*
+* [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) - *Adds various features to Imageboards* 
+* [Google Hit Hider](https://openuserjs.org/scripts/jscher2000/Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites)) - *Block Sites from Search Results* 
+* [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - *Shows Images & Videos Behind Links & Thumbnails* 
