@@ -672,8 +672,6 @@
 
 * **[How to Download Fonts](https://redd.it/8tqfg6)**
 * [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [Font Generator](https://www.toulr.com/other-tools/font-generator), [DiscordFonts](https://lingojam.com/DiscordFonts), [TextFancy](https://textfancy.com/) or [fSymbols](https://fsymbols.com/generators/) - *Font Generator*
-* [2000+ Fonts](https://drive.google.com/drive/folders/1aJVKslK0v_kKxvEd5KV3KSCfY0epXNz0) - *Fonts / Drive*
-* [2300+ Fonts Pack](https://drive.google.com/file/d/1Y4yRd5KugATG5XfcjkuUgN9BU4wJJMVj/view) - *Fonts / Drive*
 * [DaFont](https://www.dafont.com/)
 * [graphicex](https://graphicex.com/font/)
 * [FontSpace](https://www.fontspace.com/)
@@ -684,7 +682,6 @@
 * [FONToMASS](https://m.vk.com/topic-178186634_39300099?offset=0)
 * [Font Squirrel](https://www.fontsquirrel.com/)
 * [Free Fonts Family](https://freefontsfamily.com/)
-* [1001 Free Fonts ](https://www.1001freefonts.com/)
 * [Graphic Design Masterlist](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk) 
 * [Velvetyne](https://velvetyne.fr/)
 * [Font Library](https://fontlibrary.org/) 
@@ -696,8 +693,15 @@
 * [FreeFontss](https://t.me/freefontss) 
 * [BestFonts](https://bestfonts.pro/) 
 * [FontShop](https://github.com/dvingerh/fontshop-dl) 
+* [13000 Fonts](https://drive.google.com/file/d/0B7ONEAEXwPaqc2g4UEdzbmZETG8/edit?resourcekey=0-Yk36oMN7u93Pst1xn5_z8A) 
 * [10k Font Collection](https://drive.google.com/file/d/1YJiuTFPXGyz7WLw_lq08EXgdibZJu7E8/view)
+* [10000+ Fonts Collection ](https://drive.google.com/drive/u/0/mobile/folders/17HgeWGONAjR0U9knsv3qDS3734zOZr9z)
+* [2300+ Fonts Pack](https://drive.google.com/file/d/1Y4yRd5KugATG5XfcjkuUgN9BU4wJJMVj/view)
 * [2.2k Fonts](https://drive.google.com/drive/folders/1aJVKslK0v_kKxvEd5KV3KSCfY0epXNz0?usp=sharing) - *[Zip File](Zip File: https://drive.google.com/file/d/1x7oh79m1ooj9BnPxEnxEgZY39RVcXple/view?usp=sharing)*
+* [2000+ Fonts](https://drive.google.com/drive/folders/1aJVKslK0v_kKxvEd5KV3KSCfY0epXNz0) 
+* [1001 Free Fonts ](https://www.1001freefonts.com/)
+* [700-free-ttf-fonts-pack](https://drive.google.com/file/d/0B7IoVaGUMDVseFpvQ3NKTlNydmc/view?resourcekey=0-7iCgiOnXxBtilY0tJ2Nikg)
+* [250_Professional_Fonts_Bundle](https://drive.google.com/file/d/1-aGiDPsve_uOd8XgC3iMaTFrxxc1sgp2/view)
 * [Get Font](https://getfont.herokuapp.com/) - *Find Font in Github* 
 * [Cava's Pixel Resources ](https://caveras.net/) - *Pixel Fonts* 
 * [Scanlation School Drive](https://drive.google.com/drive/folders/1hPV4o8fmxY2Ab9tXi84l0vVOUQEgFIbU) - *Comic Fonts*
