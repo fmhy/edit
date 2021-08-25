@@ -867,6 +867,7 @@ General Reading Sites*
 * [bitly](https://bitly.com/) - `bit.ly/3cmqPIu` / *[Reveal URL](https://i.imgur.com/4LvGFXe.png)*
 * [TinyUrl](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / *[Reveal URL](https://i.imgur.com/DklVFU7.png)*
 * [bit.do](https://bit.do/) - `bit.do/fNj7S`
+* [id](https://home.s.id/) - `s.id/EQBsg`
 * [Tiny.cc](https://tiny.cc/) - `tiny.cc/akl1mz`
 * [Shrunken](https://www.shrunken.com/) - `shrunken.com/a72de`
 * [shrtcode](https://app.shrtco.de/) - `shrtco.de/lsoWP`
