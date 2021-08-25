@@ -343,7 +343,7 @@ App Manager
 * [Fildo](https://fildo.net/android/en/) - *Streaming*
 * [BlackPlayer](https://rexdl.com/android/blackplayer-ex-apk.html/) - *Streaming*
 * [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - *Streaming*
-* [Rezonance](https://github.com/rezonance-india/engine-api) - *Streaming*
+* [Rezonance](https://www.rezonanceindia.tech/) - *Streaming / [GitHub](https://github.com/rezonance-india)*
 * [Otter](https://github.com/apognu/otter) - *Share & Listen to Music*
 * [Quorus](https://quorus.net/) - *Collaborative Playlists* 
 * [SplitCloud](http://www.splitcloud-app.com/) - *Audio Splitter*
