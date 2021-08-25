@@ -248,8 +248,17 @@
 
 ## ▷ Screenshot Tools
 
-* [How to take a Screenshot](https://www.take-a-screenshot.org/) - *Multi Platform Screenshot Guides* 
-* [Screenshot Applications](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screenshot_tools) - *Screenshot Applications*
+* [Screenshot Tutorial](https://www.take-a-screenshot.org/) - *Multi Platform Screenshot Guides* 
+* [ShareX](https://getsharex.com/) / [Linux](https://github.com/Francesco149/sharenix)
+* ShareX Tools - [SXIE Archive](https://mega.nz/folder/1goUgJBZ#XaqM3dm5nY40luhtoxyzWg) / [Free Host](https://sxcu.net/) / [Android Upload](https://github.com/tsudoko/xshare)
+* [Flameshot](https://flameshot.org/)
+* Flameshot Tools - [GitHub](https://github.com/flameshot-org/flameshot) / [Imgur Upload](https://slproweb.com/products/Win32OpenSSL.html)
+* [Greenshot](https://getgreenshot.org/)
+* [Gyazo](https://gyazo.com/)
+* [KSnip](https://github.com/ksnip/ksnip)
+* [LightShot](https://app.prntscr.com/en/index.html)
+* [Nimbus Capture](https://nimbusweb.me/screenshot.php) 
+* [MagicCap](https://magiccap.me/) - *Mac / Linux*
 * [Screenshot Guru](https://screenshot.guru/) - *Online Site Screenshots* 
 * [puush](https://puush.me/) - *Easily Share Screenshots*
 
