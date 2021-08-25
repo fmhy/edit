@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/Pbnyzgo.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/h7MrolV.png)** - *For mobile users*
 
 ***
 ***
@@ -1288,19 +1288,6 @@ Add the following commands to a search to manually scrape each site.
 ####  Screen Recorders
 
 **[OBS](https://obsproject.com/)**, [Bandicam](https://filecr.com/?s=bandicam), [FFmpeg](https://ffmpeg.org/), [Nchsoftware](https://www.nchsoftware.com/capture/), [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php), [Screenpresso](https://www.screenpresso.com/), [LiteCam](https://www.litecam.net/en/), [SRERecorder](https://srecorder.com/), [CamStudio](https://camstudio.org/), [EZVid](https://www.ezvid.com/), [Captura](https://mathewsachin.github.io/Captura/), [ScreenRecorder.2.0](https://github.com/Samuel-dot-cloud/ScreenRecorder.2.0), [Kap](https://getkap.co/), [Screen Recorder](https://mybrowseraddon.com/screen-recorder.html) (addon)
-
-***
-
-#### Screenshot Tools
-
-* [ShareX](https://getsharex.com/) / [Linux](https://github.com/Francesco149/sharenix) / [SXIE Archive](https://mega.nz/folder/1goUgJBZ#XaqM3dm5nY40luhtoxyzWg) / [Free Host](https://sxcu.net/) / [Android Upload](https://github.com/tsudoko/xshare)
-* [Flameshot](https://flameshot.org/) / [GitHub](https://github.com/flameshot-org/flameshot) / [Imgur Upload](https://slproweb.com/products/Win32OpenSSL.html)
-* [Greenshot](https://getgreenshot.org/)
-* [Gyazo](https://gyazo.com/)
-* [KSnip](https://github.com/ksnip/ksnip)
-* [LightShot](https://app.prntscr.com/en/index.html)
-* [Nimbus Capture](https://nimbusweb.me/screenshot.php) 
-* [MagicCap](https://magiccap.me/) - *Mac / Linux*
 
 ***
 
