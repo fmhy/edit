@@ -343,6 +343,7 @@ App Manager
 * [Fildo](https://fildo.net/android/en/) - *Streaming*
 * [BlackPlayer](https://rexdl.com/android/blackplayer-ex-apk.html/) - *Streaming*
 * [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - *Streaming*
+* [Rezonance](https://github.com/rezonance-india/engine-api) - *Streaming*
 * [Otter](https://github.com/apognu/otter) - *Share & Listen to Music*
 * [Quorus](https://quorus.net/) - *Collaborative Playlists* 
 * [SplitCloud](http://www.splitcloud-app.com/) - *Audio Splitter*
@@ -589,7 +590,7 @@ RSS Player*
 * [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - *XMPP Client*
 * [Watusi](https://watusi.fouadraheb.com/) - *Modded WhatsApp*
 * [Whatspad++](https://iosninja.io/ipa-library/download-whatspad-ipa-ios) - *iPad WhatsApp*
-* [iCloud Bypass](https://frpfile.com/one-click-bypass-icloud/) - *Bypass iCloud One Click*
+* [1 Click iCloud Bypass](https://frpfile.com/one-click-bypass-icloud/) or [iCloudBypass](https://appletech752.com/icloudbypass.html) - *Bypass iCloud*
 * [GoodLinks](https://goodlinks.app/) - *Save Links*
 * [Flarify](http://www.flairify.com/) - *Touchscreen Typing Practice* 
 * [VoxRec](https://apps.apple.com/us/app/voxrec-voice-to-text-dictation/id1366603987) - *Voice to Text*
@@ -722,6 +723,7 @@ RSS Player*
 * [NineAnimator](https://nineanimator.marcuszhou.com/) - *[Discord](https://discord.gg/dzTVzeW)*
 * [AnimeHub](https://apps.apple.com/ca/app/animehub-an-anime-fan-haven/id882620151)
 * [TaiYaKiAnime](https://github.com/Michael24884/TaiYaKiAnime) - *[Discord](https://discord.com/invite/8fzmNSB)*
+* [Tweaked Crunchyroll ++](http://www.iosemulatorspot.com/tweaked-crunchyroll/) - *Tweaked Crunchyroll*
 
 ***
 
