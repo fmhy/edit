@@ -1245,7 +1245,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Remote Desktop Clients
 
-[Parsec](https://parsec.app/), [RustDesk](https://rustdesk.com/), [RemoteDesktop](https://remotedesktop.google.com/), [AnyDesk](https://anydesk.com/en), [TeamViewer](https://www.teamviewer.com/en-us/), [NoMachine](https://www.nomachine.com/) 
+[Parsec](https://parsec.app/), [RustDesk](https://rustdesk.com/), [RemoteDesktop](https://remotedesktop.google.com/), [AnyDesk](https://anydesk.com/en), [TeamViewer](https://www.teamviewer.com/en-us/), [NoMachine](https://www.nomachine.com/), [Remmina](https://remmina.org/), [UltraViewer](https://ultraviewer.net/), [SplashTop](https://www.splashtop.com/personal), [MSP360](https://www.msp360.com/remote-desktop/), [Ammyy](https://www.ammyy.com/en/), [Apache Guacamole](https://guacamole.apache.org/), [FreeRDP](https://www.freerdp.com/), [SimpleHelp](https://simple-help.com/), [Chrome Remote Desktop](https://remotedesktop.google.com/), [Myrtille](https://cedrozor.github.io/myrtille/), [Aspia](https://aspia.org/doku.php), [TightVNC](https://www.tightvnc.com/)
 
 ***
 
