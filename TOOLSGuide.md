@@ -1012,6 +1012,7 @@ General Reading Sites*
 * [Titan Embeds](https://titanembeds.com/) - *Create Discord Chat Embeds*
 * [Divider Generator](https://jsfiddle.net/Davri/wf49xnob/159/) - *Create Discord Role Dividers Discord Role*
 * [MonitoRSS](https://monitorss.xyz/) - *RSS Discord Bot*
+* [Discord Music Bot](https://github.com/SudhanPlayz/Discord-MusicBot), [2](https://github.com/Androz2091/discord-music-bot), [3](https://github.com/ZerioDev/Music-bot) - *Self-Hosted Music Bots*
 * [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - *Discord Keyboard Lighting Notifications*
 * [Permissions Calculator](https://discordapi.com/permissions.html) - *Generate Discord OAuth Invites*
 * [CustomRP](https://www.customrp.xyz/), [EasyRP](https://github.com/Pizzabelly/EasyRP), [RPCEngine](https://github.com/qoobes/rpcengine), [eidolonrp CodeFactor](https://github.com/kairusds/eidolonrp), [DiscordRPCMaker](https://drpcm.t1c.dev/) or [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC) - *Custom Rich Discord Presence*
@@ -1249,6 +1250,7 @@ General Reading Sites*
 * [Rufus](https://rufus.ie/), [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) or [WoeUSB](https://github.com/WoeUSB/WoeUSB) - *Create Bootable USB Drives*  
 * [Easy2Boot](https://www.easy2boot.com/) - *Boot Directly from ISO's* 
 * [balenaEtcher](https://balena.io/etcher) - *Flash OS Image SD / USB*
+* [InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB) - *Install Windows without USB*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - *Preinstallation Environment* 
 * [CD Key Reader](http://www.cathonian.com/software/cd-keyreader/) - *Find Key used to Install Windows*
@@ -1295,7 +1297,7 @@ General Reading Sites*
 * [Hyper](https://github.com/nodgear/Hyperbar) or [Awesome](https://github.com/nodgear/Awesome) - *Taskbar Replacement*
 * [CircleDock](http://circledock.wikidot.com/) - *Circular Dock*
 * [Clover](http://en.ejie.me/) or [QTTabBar](http://qttabbar.wikidot.com/) - *Windows Explorer Tabs*
-* [Total Commander](https://www.ghisler.com/) or [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - *Improved File Manager / Explorer*
+* [Total Commander](https://www.ghisler.com/), [Everything](https://voidtools.com/) or [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - *Improved File Manager / Explorer*
 * [WinFile](https://github.com/microsoft/winfile) - *Original Windows File Manager* 
 * [Multi Commander](http://multicommander.com/) - *Multi-Tabbed File Manager*
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - *Quickly Change Power Schemes*
