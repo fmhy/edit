@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/2oJHF9Z.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/XX2JzTW.png)** - *For mobile users*
 
 ***
 *** 
@@ -231,6 +231,20 @@
 
 ***
 
+## ▷  Hosting / Viewing 
+
+* **[Image Hosting / Processing Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosting_.2F_processing)** - *Host / Process Images*
+* **[Instagram Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_instagram_tools)**
+* [IrfanView](https://www.irfanview.com/), [XnView](https://www.xnview.com/en/), [nomacs](https://nomacs.org/), [ImageGlass](https://imageglass.org/), [Win 7 Photos](https://mega.nz/file/94AwRBiZ#ySswvrH88PlmNrLcbmrIZROWVcmLum-N0tAZS31l72U) or [PicView](https://github.com/Ruben2776/PicView) - *Image Viewer* 
+* [Piwigo](https://piwigo.org/) - *Photo Manager / Viewer*
+* [Pinry](https://docs.getpinry.com/ ) - *Image Tiling Board*
+* [Lychee](https://lycheeorg.github.io/) - *Self-Hosted Image Host* 
+* [Pixiv](https://www.pixiv.net/en/) - *User Made Image Host / [Downloader](https://github.com/nonPointer/PixivDownloader), [2](https://chrome.google.com/webstore/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnj?hl=en)*
+* [Pixelfed](https://pixelfed.org/) - *Open Source Instagram Alternative*
+* [Librephotos](https://github.com/LibrePhotos/librephotos), [Photoprism](https://github.com/photoprism/photoprism), [Photoview](https://github.com/photoview/photoview) or [Ownphotos](https://github.com/hooram/ownphotos/) - *Self-Hosted Google Photo Manager* 
+
+***
+
 ## ▷ Screenshot Tools
 
 * [How to take a Screenshot](https://www.take-a-screenshot.org/) - *Multi Platform Screenshot Guides* 
@@ -250,20 +264,6 @@
 * [Vectorizer](https://www.vectorizer.io/) - *Convert Images to Vector Art* 
 * [text2img](https://master.ayra.ch/text2img/) - *Convert Text to Image*
 * [Selfie2Anime](https://selfie2anime.com/), [Animate-Me](https://github.com/Aneureka/animate-me) - *Convert Selfies to Anime* 
-
-***
-
-## ▷  Hosting / Viewing 
-
-* **[Image Hosting / Processing Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosting_.2F_processing)** - *Host / Process Images*
-* **[Instagram Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_instagram_tools)**
-* [IrfanView](https://www.irfanview.com/), [XnView](https://www.xnview.com/en/), [nomacs](https://nomacs.org/), [ImageGlass](https://imageglass.org/), [Win 7 Photos](https://mega.nz/file/94AwRBiZ#ySswvrH88PlmNrLcbmrIZROWVcmLum-N0tAZS31l72U) or [PicView](https://github.com/Ruben2776/PicView) - *Image Viewer* 
-* [Piwigo](https://piwigo.org/) - *Photo Manager / Viewer*
-* [Pinry](https://docs.getpinry.com/ ) - *Image Tiling Board*
-* [Lychee](https://lycheeorg.github.io/) - *Self-Hosted Image Host* 
-* [Pixiv](https://www.pixiv.net/en/) - *User Made Image Host / [Downloader](https://github.com/nonPointer/PixivDownloader), [2](https://chrome.google.com/webstore/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnj?hl=en)*
-* [Pixelfed](https://pixelfed.org/) - *Open Source Instagram Alternative*
-* [Librephotos](https://github.com/LibrePhotos/librephotos), [Photoprism](https://github.com/photoprism/photoprism), [Photoview](https://github.com/photoview/photoview) or [Ownphotos](https://github.com/hooram/ownphotos/) - *Self-Hosted Google Photo Manager* 
 
 ***
 
