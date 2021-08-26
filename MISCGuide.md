@@ -26,7 +26,7 @@
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - *Open Source Software Indexes*
 * [Awesome Clones](https://github.com/Envoy-VC/awesome-clones) - *Open Source Clones of Popular Sites*
 * [/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful) - *Helpful / Fun Sites Subreddit / [Randomizer](https://therandombutton.com/)*
-* [Esoterica Avenue's Site List](https://rentry.org/EsotericaSiteList) - *[Esoterica Avenue's](https://discord.gg/enMG8bXUbn) Software & Games Megathread, Inspired by multiple megathreads* 
+* [Esoterica Avenue's Site List](https://rentry.org/EsotericaSiteList) - *Software & Games Megathread / [Discord](https://discord.gg/enMG8bXUbn)* 
 * [/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index) - */r/Piracy Index*
 * [/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread) - *Software Piracy Megathread*
 * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr) - *Piracy Index*
