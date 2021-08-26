@@ -145,7 +145,7 @@
 * [SlimTwitter](https://f-droid.org/en/packages/it.rignanese.leo.slimtwitter/) - *Twitter Webwrapper*
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
 * [Google Lens](https://lens.google/) - *Multiple Camera Tools*
-* [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) - *Google Camera Ports / [Telegram](https://t.me/googlecameraport)*
+* [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) or [Camator](https://gcamator.com/) - *Google Cam Downloads / [Telegram](https://t.me/googlecameraport)*
 * [LosesslessJpgCrop](https://github.com/k3b/LosslessJpgCrop) - *Lossless Image Cropper*
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - *Telegram Client*
 * [Uploadgram](https://github.com/Pato05/uploadgram-app) - *Telegram File Upload*
@@ -176,7 +176,7 @@ App Manager
 * [Eruda](https://pastebin.com/7qSZXjDS) - *Console for mobile browsers / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [Github](https://github.com/liriliri/eruda)* 
 * [Termux](https://termux.com/) - *Terminal Emulator / Linux Environment* 
 * [Shelter](https://github.com/PeterCxy/Shelter) - *App Sandbox*
-* [Clima](https://f-droid.org/en/packages/co.prestosole.clima/) or [GeometricWeather](https://github.com/geometric-weather-foss/GeometricWeather) - *Weather App* 
+* [Clima](https://f-droid.org/en/packages/co.prestosole.clima/), [The Fucking Weather](https://alcohollick.com/the-fucking-weather) or [GeometricWeather](https://github.com/geometric-weather-foss/GeometricWeather) - *Weather App* 
 * [aiTTS](https://www.milmike.com/aitts-google-wavenet-voices-for-android-tts) - *Text to Speech* 
 * [Microsoft Edge Read Aloud](https://redd.it/l1fdh9) - *How to use Microsoft Read Aloud TTS on Android* 
 * [Koler](https://github.com/Chooloo/koler) - *Dialer App* 
@@ -550,12 +550,12 @@ RSS Player*
 * [iEmulators](https://iemulators.com/) - *Emulator Apps*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
 * [Drafts](https://getdrafts.com/) or [Bear](https://apps.apple.com/us/app/bear/id1016366447) - *Note Taking App*
+* [The Fucking Weather](https://alcohollick.com/the-fucking-weather) - *Weather App*
 * [CocaoTop](https://github.com/D0m0/CocoaTop) - *iOS Process Viewer*
 * [Fantastical](https://apps.apple.com/app/fantastical-2-for-iphone/id718043190?ls=1) - *Calendar & Tasks App*
 * [3uTools](http://www.3u.com/) - *iOS Manager for Windows*
 * [NoMoreSmallApps](https://www.sparkdev.me/package/com.spark.nomoresmallapps) - *Force App Full Screen / [Discord](https://discord.com/invite/tvvJfbD)*
 * [InsightBrowser](https://insightbrowser.com/) - *Browser*
-* [Edit Webpage](https://shareshortcuts.com/shortcuts/842-edit-webpage.html) - *Safari Inspect Element*
 * [Safari Snippets](https://apps.apple.com/us/app/safari-snippets/id1126048257) - *Insert Code into Safari*
 * [UTM](https://getutm.app/) - *Virtual Machines* 
 * [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) - *Automation Script Tool*
