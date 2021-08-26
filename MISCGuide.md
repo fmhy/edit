@@ -104,7 +104,6 @@
 
 # ► Piracy Discussion
 
-* **[Esoterica Avenue](https://discord.gg/enMG8bXUbn)** - *A discord community with powerful guides, a nice and helpful chat & guides requests.*
 * **[OneHack](https://onehack.us/)**
 * **[Biohazard](https://discord.gg/biohazard-official)** - *Guides / Courses / Extensions / Chat*
 * [/m/piracy](https://www.reddit.com/user/nbatman/m/piracy/), [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) - *Piracy Multireddit*
@@ -116,6 +115,7 @@
 * [/r/usenet](https://reddit.com/r/usenet) 
 * [/r/CrackSupport](https://reddit.com/r/CrackSupport) - *Piracy / Gaming / Cracking Discussion / [Discord](https://discord.gg/eTsaTNpsxj) / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch)*
 * [Weboas.is Forum](https://weboas.is/forum/)
+* [Esoterica Avenue](https://discord.gg/enMG8bXUbn) - *A discord community with powerful guides, a nice and helpful chat & guides requests.*
 * [PGames](https://discord.gg/dZWwhUy) - *Piracy / Gaming / Discord*
 * [CS.RIN.RU](https://cs.rin.ru/forum)
 * [Ru.Board](http://forum.ru-board.com/)
