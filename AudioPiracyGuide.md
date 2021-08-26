@@ -29,7 +29,8 @@
 
 ## ▷ Streaming Sites
 
-* **[Spotify](https://open.spotify.com/)** - *Browser Music / [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae)/ [Mute Ads](https://github.com/guihkx/spotishush) / [Listen Together](http://jqbx.fm/)*
+* **[Spotify](https://open.spotify.com/)** or [Spotify One](https://spotfy.one/)  - *Browser Music*
+* **Spotify Tools** - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Listen Together](http://jqbx.fm/)
 * **[YouTube Music](https://music.youtube.com/)** - *Browser Music*
 * **[Reddit Music Player](https://reddit.musicplayer.io/)** - *Subreddit Music Player*
 * **[SoundCloud](https://soundcloud.com/)** - *User made songs*
