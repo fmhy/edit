@@ -32,7 +32,7 @@
 * [KaOsKrew](https://www.kaoskrew.org/)
 * [Crohasit](https://crohasit.net/)
 * [Rekulous Repacks](https://discord.gg/zSXWwzav7R)
-* [Le Fishe Repacks](https://lefishe.rf.gd/) - *[Discord](https://discord.gg/W3MfGDXhAS)*
+* [Le Fishe Repacks](https://discord.gg/W3MfGDXhAS)
 * [ElAmigos](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
 * [Black Box Repack](http://www.blackboxrepack.com/) 
 * [GLoad](https://gload.to/)
