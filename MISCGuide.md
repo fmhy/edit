@@ -475,6 +475,7 @@
 * [ExRx.net](https://exrx.net/) - *Exercise Resources*
 * [Cronometer](https://cronometer.com/) - *Track Nutrition & Calories*
 * [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - *Daily Diet Recommendations / Android*
+* [EatThisMuch](https://www.eatthismuch.com/), [FitMenCook](https://fitmencook.com/) or [MealPrePro](https://mealpreppro.com/) - *Diet Tool / iOS / Android* 
 * [Examine.com](https://examine.com/) - *Supplement & Nutrition Analysis*
 * [openScale](https://f-droid.org/packages/com.health.openscale/) - *Weight & Body Metrics Tracker*
 * [Simple Science Fitness](https://ss.fitness/calculators) - *Fitness Calculators* 
@@ -485,6 +486,7 @@
 * [Awesome Nutrition Calculator](https://github.com/RolandKawka/awesome-nutrition-calculator) - *Nutrition Calculator*
 * [wger](https://wger.de/) - *Self-Hosted Workout, Nutrition & Weight App / [GitHub](https://github.com/wger-project/wger)*
 * [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
+* [SPSS Tutorials ](https://www.spss-tutorials.com/) - *SPSS Practice & Examples*
 * [Fitocracy](https://www.fitocracy.com/) - *Create Workout Plans*
 * [DAREBEE](https://darebee.com/) - *Fitness Plans / Workouts*
 * [MapMyWalk](https://www.mapmywalk.com/) - *Map / Track Walks*
@@ -822,4 +824,4 @@
 * [Twitch Screen Comment Scroller](https://greasyfork.org/en/scripts/376225-twitch-screen-comment-scroller) - *Auto Scroll Twitch Comments*
 * [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) - *Adds various features to Imageboards* 
 * [Google Hit Hider](https://openuserjs.org/scripts/jscher2000/Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites)) - *Block Sites from Search Results* 
-* [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - *Shows Images & Videos Behind Links & Thumbnails* 
+* [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - *Shows Images & Videos Behind Links & Thumbnails*
