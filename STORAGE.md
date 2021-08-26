@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/h7MrolV.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/uqt9vWa.png)** - *For mobile users*
 
 ***
 ***
@@ -615,16 +615,6 @@
 #### Jigsaw Puzzles
 
 [jigidi](https://www.jigidi.com/), [jigsawonline](https://jigsawonline.net/), [jigsawplanet](https://www.jigsawplanet.com/), [puzzlefactory](https://puzzlefactory.pl/en), [epuzzle](https://www.epuzzle.info/en), [dkmgames](https://dkmgames.com/Jigsaw/), [jigzone](http://www.jigzone.com/), [jigcardgallery](http://www.jigcardgallery.com/), [justjigsawpuzzles](https://justjigsawpuzzles.com/)
-
-***
-
-#### Killmyself Clones
-
-* https://arconaitv.xyz/
-* https://brickstreams.xyz/
-* https://scrubtv.cloud/
-* https://scrubtv.me/
-* https://netflix.bond/
 
 ***
 
