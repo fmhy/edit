@@ -17,7 +17,7 @@
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)**
 * **[Masquerade Repacks](https://masquerade.site/)** - *[Discord](https://discord.gg/HP5sQ6c)*
 * **[SteamUnlocked](https://steamunlocked.net/)** - *Use Adblocker / [Release Tracker](https://github.com/N-O-E-D/Steamunlocked)*
-* **[Steam Underground](https://cs.rin.ru/)** - *[Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod)*
+* **[Steam Underground](https://cs.rin.ru/)** - *[Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Status](https://csrinstaff.writeas.com/)*
 * **[CrackHub](https://crackhub.site/)** - *[Discord](https://discord.gg/T669D6weqt)*
 * **[GamesDrive](https://gamesdrive.net/)** - *[Discord](https://discord.gg/PKFAnduGtA)*
 * **[DODI](http://dodi-repacks.site/)** - *[Discord](https://discord.gg/uE273qJ)*
