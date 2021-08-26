@@ -637,7 +637,8 @@ RSS Player*
 * [ReJail Repo](https://rejail.ru/) - *App / Tweak Repository* 
 * [iOSGods](https://iosgods.com/) - *App Tweaks / Hacks / Mods*
 * [ignition](https://ignition.fun/) - *App Tweaks*
-* [EonHub](https://app.eonhubapp.com/) - *Hacked apps / Tweaks* 
+* [iPA Host](https://github.com/ipahost) - *App Tweaks / Social Media’s*
+* [EonHub](https://app.eonhubapp.com/) - *Hacked Apps / Tweaks* 
 * [Scarlet](https://usescarlet.com/) - *Hacked apps / Tweaks / [Anti Revoke](https://apps.apple.com/us/app/nullified/id1554556228)*
 * [tweakboxapp](https://next.tweakboxapp.com/) or [tweakboxapp (sideloaded)](https://sideload.tweakboxapp.com/) - *App Tweaks*
 * [iPASpot](https://ipaspot.app/) - *Hacked / Tweaked iOS Apps* 
