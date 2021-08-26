@@ -47,7 +47,7 @@
 ## ▷ Resize / Compress
 
 * [ESRGAN Models](https://icedrive.net/1/43GNBihZyi) or [Upscale Model Database](https://upscale.wiki/wiki/Model_Database) - *Multiple Image Upscalers*
-* [Waifu2x](https://github.com/nagadomi/waifu2x), [Bigjpg](https://bigjpg.com/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [ImageUpscaler](https://imageupscaler.com/) or [CupScale](https://github.com/n00mkrad/cupscale) - *Image Upscaler*
+* [Waifu2x](https://github.com/nagadomi/waifu2x), [GigaPixel](https://filecr.com/?s=Topaz+Gigapixel), [Bigjpg](https://bigjpg.com/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [ImageUpscaler](https://imageupscaler.com/) or [CupScale](https://github.com/n00mkrad/cupscale) - *Image Upscaler*
 * Waifu2x Tools - [Guide](https://i.imgur.com/55s8sU5.png) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/tanakamura/waifu2x-converter-cpp), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/), [5](https://waifu2x.me/), [6](http://waifu2x.udp.jp/)
 * [Croppola](https://croppola.com/) or [Avatar Cropper](https://avatarcropper.com/) - *Cropping Tool* 
 * [Simple Image Resizer](http://www.simpleimageresizer.com/) - *Resize Images*
@@ -106,13 +106,13 @@
 ## ▷  GIF Makers 
 
 * **[Awesome GIF](https://github.com/davisonio/awesome-gif)** - *GIF Resource Index*
+* **[Giphy](https://giphy.com/)**, [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/) or [Animated Images](https://www.animatedimages.org/) - *Find & Download GIFs* 
 * [EZGif](https://ezgif.com/), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Gif Maker](https://gifmaker.me/) - *GIF Creator / Editor*
 * [gifify](https://github.com/vvo/gifify) or [Video-to-GIF](https://hnet.com/video-to-gif/) - *Video to GIF Converter*
 * [GifRun](https://gifrun.com/) - *Make GIFs From Online Videos*
 * [ScreenToGif](https://www.screentogif.com/) - *GIF Recording Software* 
 * [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - *Turn Screencasts into GIFs*
 * [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - *Turn YouTube Videos into GIFs* 
-* [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [Gifs paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/) or [Animated Images](https://www.animatedimages.org/) - *Download GIFs* 
 * [petpet](https://benisland.neocities.org/petpet/) - *Headpatting GIF Maker*
 * [GifPrint](http://gifprint.com/) - *Turn GIFs Into Flipbooks* 
 * [FlagWaver](https://krikienoid.github.io/flagwaver/) - *Create Moving Flag GIFs*
@@ -123,7 +123,7 @@
 
 ## ▷  Meme Makers
 
-* [DrMemes](https://www.drmemes.com/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - *Meme Maker* 
+* [Meme Generator](https://imgflip.com/memegenerator), [DrMemes](https://www.drmemes.com/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - *Meme Maker* 
 * [MemeAtlas](https://www.memeatlas.com/) - *Meme Database* 
 * [Memegine](https://memegine.com/) - *Meme Search Engine*
 * [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh) - *Meme Templates*
@@ -188,7 +188,7 @@
 * [gallery-dl](https://github.com/mikf/gallery-dl) - *Image / Gallery Downloader*
 * [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - *Imageboard Downloader* 
 * [Flicker-Download](https://github.com/beaufour/flickr-download) - *Flickr Scraper* 
-* [iPack Builder](https://www.deviantart.com/mr-blade/art/iPack-Builder-v2-2-Tool-for-icon-customization-473088895) - *Create Icon Pack Installers*
+* [iPack Builder](https://www.deviantart.com/mr-blade/art/iPack-Builder-v2-2-Tool-for-icon-customization-473088895), [2](https://mrbladedesigns.com/ipack-builder/) - *Create Icon Pack Installers*
 
 ***
 
