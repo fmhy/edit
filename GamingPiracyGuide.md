@@ -282,6 +282,8 @@
 * [OpenMW](https://openmw.org/en/) - *Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/openmw-tes3mp/) / [Android](https://github.com/xyzz/openmw-android)*
 * [NR2003](https://wildkustomcars.weebly.com/) - *Modded Nascar 2003*
 * [Lain Game](https://laingame.net/) - *Lain Game Browser Emulator*
+* [WannabeThesis](https://lerppu.net/wannabethesis/) - *Retro Game Ports*
+* [NBlood](https://github.com/nukeykt/NBlood) - *Reverse-Engineered Ports of Build Games*
 * [Classic DOOM](http://classicdoom.com/) - *Classic Doom Downloads* 
 * [DoomWorld](https://www.doomworld.com/) - *Doom Downloads / Wads / Mods / Editing* 
 * [Doom_wads](https://github.com/Akbar30Bill/DOOM_wads) or [Doom Wad Station](http://www.doomwadstation.net/) - *Doom Wads* 
