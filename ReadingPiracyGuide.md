@@ -157,6 +157,7 @@
 * [/r/Freenookbooks](https://reddit.com/r/Freenookbooks/)
 * [/r/bookdownloads](https://reddit.com/r/bookdownloads/)
 * [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
+* [Brunken](https://github.com/talhabw/bunken) - *Add Download Links to Goodreads*
 
 ***
 
@@ -286,7 +287,7 @@
 * [/r/recipes](https://reddit.com/r/recipes) - *Share recipes*
 * [/r/AskCulinary](https://reddit.com/r/AskCulinary) - *Get Cooking Advice* 
 * [/r/IndianFood](https://reddit.com/r/IndianFood) - *Indian Food Recipes / Tips*
-* [EatThisMuch](https://www.eatthismuch.com/) - *Diet App / Tool* 
+* [Mealime](https://www.mealime.com/) - *Meal Planning App*
 * [Still Tasty](https://www.stilltasty.com/) or [EatByDate](http://www.eatbydate.com/) - *Shelf Life Guides* 
 * [Baking Calculators](https://bakingcalculators.com/) - *Measurement System Conversion Calculators*
 * [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - *SF Food Truck App* 
