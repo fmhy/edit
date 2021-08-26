@@ -120,7 +120,7 @@
 
 #### Android TV IPTV Players
 
-[TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv), [PerfectPlayer](https://play.google.com/store/apps/details?id=com.niklabs.pp), [implayer](https://implayer.tv/), [iptvsmarters](https://www.iptvsmarters.com/)
+[TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv), [PerfectPlayer](https://play.google.com/store/apps/details?id=com.niklabs.pp), [implayer](https://implayer.tv/), [iptvsmarters](https://www.iptvsmarters.com/), [ottnavigator](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator)
 
 ***
 
