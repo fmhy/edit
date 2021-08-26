@@ -235,7 +235,6 @@
 * [KissTVShow](https://kisstvshow.to/) - *Asian TV Shows / Subtitles*   
 * [turkish123](https://turkish123.com/) - *Turkish TV Shows / Subtitles* 
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - *Bay Area TV Archive*  
-* [killmyself.xyz](https://killmyself.xyz/) - *Episode Streams / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_killmyself_clones)*
 
 ***
 
