@@ -160,6 +160,7 @@
 * [RandomAPI](https://randomapi.com/) - *Generate Fake Data for Populating Mockups* 
 * [Booster](https://booster.js.org/) - *Website Performance / Speed Optimizer* 
 * [Bypass Cloudflare](https://github.com/jychp/cloudflare-bypass) - *Bypass Coudflare Bot Protection*
+* [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - *Check Sites for Cloudflare*
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) - *Self-Hosted, Privacy Respecting CAPTCHAs*
 * [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - *Email Verification Service*
 * [IP Intelligence](http://getipintel.com/) - *Proxy / VPN / Bad IP Detection*
