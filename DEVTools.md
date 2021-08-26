@@ -347,6 +347,8 @@
 * [VimAwesome](https://vimawesome.com/) - *Vim Plugin Search*
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - *Vim Code-completion engine*
 * [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - *Visual Studio Code Extensions* 
+* [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - *Visual Studio Code Python Language Extension*
+* [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) - *Visual Studio Code Performant Language Extension*
 * [Mega Linter](https://github.com/nvuillam/mega-linter) - *Code Analyzer* 
 * [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) - *Machine Learning Art Resource Index* 
 * [Sourcegraph](https://sourcegraph.com/) - *Universal Code Search*
