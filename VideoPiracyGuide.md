@@ -564,7 +564,7 @@
 * **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
 * **[AnimeKaizoku](https://animekaizoku.com/)** - *Sub / Dub*
 * **[hi10anime](https://hi10anime.com/)** - *Sub*
-* **[AnimeBatchDDL](https://animebatchddl.wordpress.com/)** - *[Discord](https://discord.gg/XRzMEMhEmu) / [Drive](https://animebatchddl.emiya.workers.dev/0:/)*
+* **[AnimeBatchDDL](https://animebatchddl.wordpress.com/)** - *Sub / Dub / [Discord](https://discord.gg/XRzMEMhEmu) / [Drive](https://animebatchddl.emiya.workers.dev/0:/)*
 * **[Judas Discord](https://discord.gg/vbJ7RTn)** - *Sub / Dub / [OneDrive](https://reskk-my.sharepoint.com/personal/frankcastle_f_odpan_cn/_layouts/15/onedrive.aspx) / [GDrive](https://drive.google.com/drive/folders/19URIgzsbkOfNCXG13Wklmoq3KugKzk9j) / [TeamDrive](https://groups.google.com/d/forum/judasddl)* 
 * **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)** - *Telegram Anime Download Channels* 
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - *Sub / Dub / Anime / Manga Download Forum*
@@ -774,7 +774,7 @@
 * [UniqueStream](https://uniquestream.vip/requests/) - *Movies / TV / Anime*
 * [9Anime](https://9anime.to/) - *Anime / Click Request*
 * [SSAnime](https://ssanime.ga/request) - *Anime* 
-* [AnimeBatchDDL](https://animebatchddl.wordpress.com/) - *[Discord](https://discord.gg/XRzMEMhEmu)*
+* [AnimeBatchDDL](https://animebatchddl.wordpress.com/) - *Anime / [Discord](https://discord.gg/XRzMEMhEmu)*
 * [GustaTV](https://www2.gustatv.to/requests/) - *Movies / TV* 
 * [TheWebFlix](https://docs.google.com/forms/d/e/1FAIpQLSe1-DTmK9yuAtmO6_pLMO4fR5UF2aWf0QbMME41blXfFWSQBA/viewform) - *Movies / TV* 
 * [anime-sharing](http://www.anime-sharing.com/forum/anime-requests-19/) - *Anime*
@@ -859,7 +859,7 @@
 * **[/r/animepiracy Wiki](https://wiki.piracy.moe/)** - *Anime Piracy Guides / Tutorials*
 * **[WhereYouWatch,](https://whereyouwatch.com/latest-reports/)** [Squawkr](https://www.squawkr.io/), [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates) or [/r/movieleaks](https://reddit.com/r/movieleaks) - *Check if a Movie has Leaked*
 * [Ant Movie](https://www.antp.be/software/moviecatalog) - *Desktop Video Media Catalog*
-* [RunPee](https://runpee.com/) - *Best times to break during movies*
+* [RunPee](https://runpee.com/) - *Best Movie Break Times*
 * [Media Poster / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Covers for Movies, TV ect.* 
 * [IsThisDubbed?](https://isthisdubbed.com/) - *Check if an Anime is Dubbed*
 * [AnimeFillerList](https://www.animefillerlist.com/) - *Anime Filler Guide*
