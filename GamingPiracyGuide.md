@@ -325,7 +325,7 @@
 * **[AirConsole](https://www.airconsole.com/)** - *Play Games on TV with your Phone as a Controller* 
 * **[DelugeRPG](https://www.delugerpg.com/)** - *Pokemon RPG Simulation*
 * **[Line Rider](https://www.linerider.com/)** - *Draw Sled Tracks*
-* **[Free Rice](https://freerice.com/)** - *Play a game while earning rice for the World Food Programme, turn off adblocker*
+* **[Free Rice](https://freerice.com/)** - *Earn Rice for the World Food Programme, turn off adblocker*
 * **[Cookie Consent Speed.Run](https://cookieconsentspeed.run/)** - *Cookie Disabling Game*
 * [/r/WebGames](https://reddit.com/r/WebGames)
 * [Newgrounds](https://www.newgrounds.com/games)
