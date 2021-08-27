@@ -48,6 +48,7 @@
 * [SunCalc](https://www.suncalc.org/) - *Sun Position / Phase Calculator* 
 * [MoonCalc](https://www.mooncalc.org/) - *Moon Position / Phase Calculator* 
 * [DoINeedAJacket](https://doineedajacket.com/weather/) or [wttr](https://wttr.in/) - *Simple Weather Reports*
+* [RTL-SDR](https://gist.github.com/fasiha/c123a9c6b6c78df7597bb45e0fed808f) - *DIY FAA & EASA Satellite Feeds / Transponder*
 * [Cool Generator](https://www.coolgenerator.com/) or [Random Lists](https://www.randomlists.com/) - *Generate Anything*
 * [Wheel Decide](https://wheeldecide.com/) - *Wheel Randomizer*
 * [Diff Checker](https://www.diffchecker.com/) - *Check for differences in Text, Images, PDFs or Files*
