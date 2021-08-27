@@ -560,6 +560,7 @@ General Reading Sites*
 * [Blog Search Engine](http://www.blogsearchengine.org/) - *Blog Search*
 * [Mibbit](https://search.mibbit.com/) - *IRC Channel Search*
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) - *Telegram CSE*
+* [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - *Paste Engine Search*
 * [SearchBuzz](http://search.buzz.im/) - *Telegram Message Search Engine*
 * [Searchee Bot](https://t.me/SearcheeBot) - *Telegram Channel Search* 
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - *Search Engine for lightweight web pages*
