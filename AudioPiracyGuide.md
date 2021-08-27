@@ -111,7 +111,6 @@
 * [420.moe](https://420.moe/) - *420 Radio* 
 * [Listen To The Clouds](http://listentothe.cloud/) or [LiveATC](https://www.liveatc.net/) - *Air Traffic Radio Chatter* 
 * [Broadcastify](https://www.broadcastify.com/) - *Live Emergency, Aircraft & Rail Feeds* 
-* [RTL-SDR](https://gist.github.com/fasiha/c123a9c6b6c78df7597bb45e0fed808f) - *ADS-B Radio Bands*
 * [morsecode.me](http://morsecode.me/) - *Morse Code Radio / Communication*
 * [Worldwide Radio](http://forums.mozillazine.org/viewtopic.php?t=3039738) - *Radio Extension* 
 * [castero](https://github.com/xgi/castero) - *TUI Terminal Podcast Client*
