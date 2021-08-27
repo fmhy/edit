@@ -251,9 +251,15 @@
 ## ▷ Arcade / Retro
 
 * **[My Abandonware](https://www.myabandonware.com/)** - *Roms*
+* **[GamesNostalgia](https://gamesnostalgia.com/)** - *Roms / Amiga*
+* **[RAZE](https://github.com/coelckers/Raze/)** or [BuildGDX](https://m210.duke4.net/) - *Oldschool Shooter Engine / [Discord](https://discord.gg/zZw2eq3n7G)* 
+* **[Doom_wads](https://github.com/Akbar30Bill/DOOM_wads)** or [Doom Wad Station](http://www.doomwadstation.net/) - *Doom Wads* 
+* **[ZDoom](https://www.zdoom.org/downloads)** - *Doom Source Port* 
+* **[Doomseeker](http://doomseeker.drdteam.org/)** or [Zandronum](https://zandronum.com/)  - *Online Multiplayer Doom* 
+* **[eXoDOS](https://exodos.the-eye.eu/)**, [DOSGamesLibrary](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS Haven](http://www.doshaven.eu/), [LiquidDoom](http://dos.liquiddoom.net/), [The Software Library](https://archive.org/details/softwarelibrary_msdos) or [Best Old Games](http://www.bestoldgames.net/eng/) - *DOS Games*
+* **[Wad Archive](https://wad-archive.com/)** - *83k WAD Files*
 * [MISC Windows](https://drive.google.com/drive/folders/15A3j8X0IDxNyJC7tPjJ0gvKIPKPaKylO) - *Windows 98 / XP Games*
 * [Classic Game Roms](https://sites.google.com/site/classicgameroms/) - *Roms*
-* [GamesNostalgia](https://gamesnostalgia.com/) - *Roms / Amiga*
 * [Old-Games.com](https://www.old-games.com/) - *Roms / PC / Amiga*
 * [AtariMania](http://www.atarimania.com/index.html) - *Browser Emulator / Emulators / Roms / Atari Consoles*
 * [MagiPack](https://www.magipack.games/) - *Retro Games* 
@@ -264,16 +270,13 @@
 * [NEC & Turbografx Collection](https://archive.org/details/NEC_PC_Engine_CD-ROM2_System_and_TurboGrafx-CD_2016_Reference_Set_Redump_Validated_ROMs) - *Roms / Nec / Turbo*
 * [Neo Kobe Collection](https://archive.org/details/NeoKobe-NecPc-98012017-11-17), [2](https://archive.org/details/Neo_Kobe_NEC_PC-8801_2016-02-25) - *Roms / Neo Kobe*
 * [pc-98](https://mega.nz/folder/F59WkSqQ#quGKSFIswBgv0rxAAaF8Pg) - *PC-98 Games*
-* [eXoDOS](https://exodos.the-eye.eu/), [DOSGamesLibrary](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS Haven](http://www.doshaven.eu/), [LiquidDoom](http://dos.liquiddoom.net/), [The Software Library](https://archive.org/details/softwarelibrary_msdos) or [Best Old Games](http://www.bestoldgames.net/eng/) - *DOS Games*
 * [Abandonia](http://www.abandonia.com/), [XTCabandonware](http://www.xtcabandonware.com/) or [VETUSWARE](https://vetusware.com/category/Games/?cat=7) - *Abandonware*
 * [Remakes Reloaded](http://www.reloaded.org/) - *Remakes of Classics*
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - *Roms / Arcade / Retro / [Discord](https://discord.gg/rH9wRpu2vh)* 
-* [Wad Archive](https://wad-archive.com/) - *83k WAD Files*
 * [Classic Games](https://classicdosgames.com/) - *Classic & Retro Game Archive*
 * [Old Game Finer](http://www.oldgamesfinder.com/?) - *Classic Game Search Engine*
 * [The Interactive Fiction Page](http://www.cs.cmu.edu/~wsr/IF/) - *Interactive Fiction Games*
 * [Necromanthus](https://necromanthus.com/) - *3D Shockwave Games*
-* [BuildGDX](https://m210.duke4.net/) or [RAZE](https://github.com/coelckers/Raze/) - *Oldschool Shooter Engine / [Discord](https://discord.gg/zZw2eq3n7G)* 
 * [OpenRA](https://openra.net/) - *Command & Conquer Recreation* 
 * [Classic Warcraft 3 Installers](https://www.removeddit.com/r/Piracy/comments/ewdlnd/for_anyone_looking_for_the_actual_classic/) 
 * [NolfRevival](http://nolfrevival.tk/) - *NOLF, NOLF 2 & Contract Jack*
@@ -286,11 +289,8 @@
 * [NBlood](https://github.com/nukeykt/NBlood) - *Reverse-Engineered Ports of Build Games*
 * [Classic DOOM](http://classicdoom.com/) - *Classic Doom Downloads* 
 * [DoomWorld](https://www.doomworld.com/) - *Doom Downloads / Wads / Mods / Editing* 
-* [Doom_wads](https://github.com/Akbar30Bill/DOOM_wads) or [Doom Wad Station](http://www.doomwadstation.net/) - *Doom Wads* 
-* [ZDoom](https://www.zdoom.org/downloads) - *Doom Source Port* 
 * [Br0legs Zandronum](https://drive.google.com/file/d/1B8ze1SPpwE0DI1nDKkyS4iXyfLsO_DbV/view?usp=sharing) or [Realm667](https://www.realm667.com/index.php/en/) - *Doom Mods* 
 * [SLADE](https://slade.mancubus.net/) - *Doom Modding Tool / [GitHub](https://github.com/sirjuddington/SLADE)*
-* [Zandronum](https://zandronum.com/) or [Doomseeker](http://doomseeker.drdteam.org/)  - *Online Multiplayer Doom* 
 * [Doom64 EX](https://doom64ex.wordpress.com/downloads/) - *Doom 64 PC Port* 
 * [DOOM FX](https://github.com/RandalLinden/DOOM-FX) - *Doom SNES Source Code*
 * [Unreal Archive](https://unrealarchive.org/index.html) - *Unreal Tournament Mods, Maps, Skins ect.*
