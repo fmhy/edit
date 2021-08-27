@@ -448,7 +448,6 @@
 * [JKLM.FUN](https://jklm.fun/) 
 * [JackBox.tv](https://jackbox.tv/) 
 * [Playok](https://www.playok.com/)
-* [Ninjakiwi](https://ninjakiwi.com/) - *Browser Games / Bloons*
 * [Krunker.io](https://krunker.io/) / [2](https://browserfps.com/), [Venge](https://venge.io/) or [RoboFight](https://robofight.io/) - *PvP FPS / [Client](https://github.com/Mixaz017/idkr)*
 * [CS-ONLINE.CLUB](https://cs-online.club/), [2](https://game.cs-online.club/) - *Play Counter Strike in Browser* 
 * [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) - *Top Down Battle Royal* 
