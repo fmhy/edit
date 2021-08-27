@@ -258,6 +258,7 @@
 * **[Doom_wads](https://github.com/Akbar30Bill/DOOM_wads)** or [Doom Wad Station](http://www.doomwadstation.net/) - *Doom Wads* 
 * **[ZDoom](https://www.zdoom.org/downloads)** - *Doom Source Port* 
 * **[Doomseeker](http://doomseeker.drdteam.org/)** or [Zandronum](https://zandronum.com/)  - *Online Multiplayer Doom* 
+* **[frogg.ies mario](https://froggi.es/mario/)** - *Play Super Mario 64 in Browser* 
 * [MISC Windows](https://drive.google.com/drive/folders/15A3j8X0IDxNyJC7tPjJ0gvKIPKPaKylO) - *Windows 98 / XP Games*
 * [Classic Game Roms](https://sites.google.com/site/classicgameroms/) - *Roms*
 * [Old-Games.com](https://www.old-games.com/) - *Roms / PC / Amiga*
@@ -307,7 +308,6 @@
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - *Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)*
 * [Mars 3D](https://mars3d-game.wixsite.com/index) - *Mars 3D Translation & Remake*
 * [Jelly Mario](https://jellymar.io/) - *Jelly Super Mario*
-* [frogg.ies mario](https://froggi.es/mario/) - *Play Super Mario 64 in Browser* 
 * [sm64](https://github.com/n64decomp/sm64) - *Super Mario 64 Decompilation / [Discord](https://discord.gg/duyh3fh) / [Guide](https://youtu.be/rQVpfWYT0eg)* 
 * [GtkAtlantic](https://gtkatlantic.gradator.net/index.html) or [Monopolie](http://monopolie.sourceforge.net/index.shtml) - *Open Source Monopoly*
 * [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - *Pac-man*
@@ -322,8 +322,11 @@
 
 # ► Browser Games
 
-* **[Free Rice](https://freerice.com/)** - *Play a game while earning rice for the World Food Programme, turn off adblocker*
+* **[AirConsole](https://www.airconsole.com/)** - *Play Games on TV with your Phone as a Controller* 
 * **[DelugeRPG](https://www.delugerpg.com/)** - *Pokemon RPG Simulation*
+* **[Line Rider](https://www.linerider.com/)** - *Draw Sled Tracks*
+* **[Free Rice](https://freerice.com/)** - *Play a game while earning rice for the World Food Programme, turn off adblocker*
+* **[Cookie Consent Speed.Run](https://cookieconsentspeed.run/)** - *Cookie Disabling Game*
 * [/r/WebGames](https://reddit.com/r/WebGames)
 * [Newgrounds](https://www.newgrounds.com/games)
 * [Armor Games](https://armorgames.com/)
@@ -363,10 +366,8 @@
 * [Orisinal](http://www.ferryhalim.com/orisinal/), [BillsGames](http://www.billsgames.com/) or [pitStreet](http://www.pitstreet.com/) - *Simple Games* 
 * [GirlsGoGames](https://www.girlsgogames.com/) - *Games for Girls*
 * [Nick Jr. Games](http://www.nickjr.com/games/) or [PBS Kids Games](https://pbskids.org/games/) - *Games for Kids*
-* [AirConsole](https://www.airconsole.com/) - *Play Games on TV with your Phone as a Controller* 
 * [Surrogate](https://www.surrogate.tv/) - *Remote Control Real Life Games* 
 * [RobotStreamer](https://robotstreamer.com/) - *Live Control Robots* 
-* [Line Rider](https://www.linerider.com/) - *Draw Sled Tracks*
 * [Free Rider HD](https://www.freeriderhd.com/) - *Draw / Race Bike Tracks*
 * [BananaBread](https://kripken.github.io/misc-js-benchmarks/banana/index.html) - *Bot FPS* 
 * [Dynast](https://dynast.io/) - *Survival Browser Game*
@@ -431,7 +432,6 @@
 * [Alternate History Simulator](http://abw.blue/) - *Write Alternate History* 
 * [NationStates](https://www.nationstates.net/) - *Nation Simulation Game* 
 * [Football War Room](http://www.footballwarroom.com/) - *Football Ownership Simulator*
-* [Cookie Consent Speed.Run](https://cookieconsentspeed.run/) - *Cookie Disabling Game*
 * [CandyBox](https://candybox2.github.io/) - *Candy Eating Game* 
 * [BTShip](https://github.com/hairarrow/btship) - *Typescript Boat Game*
 * [Maze](https://www.epgsoft.com/maze/) - *Maze Generator*
@@ -491,12 +491,12 @@
 
 ## ▷ Board / Card / Dice
 
+* **[lichess](https://lichess.org/)**, [WebChess](http://chess.delorie.com/) or [Chess.com](https://www.chess.com/) - *Chess Platform* 
 * [Board Game Online](https://www.boardgame-online.com/), [Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games) or [FunNode](https://www.funnode.com/) - *Board Games* 
 * [The Bafflement Fires](http://www.dpoetry.com/fires/) - *1950's Freemasonic Board Game*
 * [Hexxagon](https://hexxagon.com/) - *Hexagonal Board Game*
 * [GameKnot Chess](https://gameknot.com/) - *Multiplayer Chess*
 * [Chesses](https://pippinbarr.github.io/chesses/) - *Multiple Styles of Chess* 
-* [lichess](https://lichess.org/), [WebChess](http://chess.delorie.com/) or [Chess.com](https://www.chess.com/) - *Chess Platform* 
 * [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - *1k Chess Game* 
 * [Kung Fu Chess](https://www.kfchess.com/) - *Real-Time Chess w/o Turns* 
 * [AllBad.Cards](https://allbad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - *Cards Against Humanity Online* 
@@ -570,10 +570,10 @@
 
 ## ▷ Flash Games
 
+* **[BlueMaxima](http://bluemaxima.org/flashpoint/)** - *Archive / [Discord](https://discord.gg/Z4gGtJvvn8)* 
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - *Tools / Apps to Run Flash Programs*
+* **[Software Library: Flash](https://archive.org/details/softwarelibrary_flash)** - *Archive* 
 * [Rek's Flash Game Collection](https://drive.google.com/drive/folders/1p_kDd9uJz72S3m9o7ka136fxCWPEBKEG?usp=sharing) - *Archive* 
-* [Software Library: Flash](https://archive.org/details/softwarelibrary_flash) - *Archive* 
-* [BlueMaxima](http://bluemaxima.org/flashpoint/) - *Archive / [Discord](https://discord.gg/Z4gGtJvvn8)* 
 * [Flash Games Collection](https://drive.google.com/drive/folders/1U8tJfJr_3Cg-PXL7PQshZOp2ukvVippm) - *Archive* 
 * [ClassicGames.rar](https://drive.google.com/file/d/1ylHk46vdV1dZcfUUSNDAT7F2RVoi8FFS/) - *Archive / pw:paluch*
 * [Flash by Night](http://flashbynight.com/) - *Browser Games*
