@@ -80,6 +80,7 @@
 * [Documentary Streaming](https://documentary-streaming.com/)
 * [Media Burn Archive](https://mediaburn.org/)
 * [DocumentaryHeaven](https://documentaryheaven.com/)
+* [ARTE](https://www.arte.tv/)
 * [Documentary Mania](https://www.documentarymania.com/) 
 * [ThoughtMaybe](https://thoughtmaybe.com/) 
 * [Folkstreams](https://www.folkstreams.net/) 
