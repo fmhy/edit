@@ -675,7 +675,7 @@
 
 #### M3U Players
 
-[hlsplayer](https://www.hlsplayer.net/)
+[hlsplayer](https://www.hlsplayer.net/) or [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV)
 
 ***
 
