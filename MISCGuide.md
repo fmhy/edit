@@ -42,6 +42,7 @@
 * [Awesome Linux](https://github.com/inputsh/awesome-linux), [2](https://luong-komorebi.github.io/Awesome-Linux-Software/) - *Linux Software / Resource Index*
 * [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - *Selfhosted Software Index* 
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - *DataHoarding Tools Index*   
+* [Get Started Into Cracks](https://rentry.org/getstartedintocracks) - *Piracy Starters Guide*
 * [cata-list](https://cata-list.github.io/) - *Site / Tool Index* 
 * [Prospector](https://www.prospector.cz/) - *Site / Tool Index* 
 * [The More You Know](https://marckoxx.github.io/) - *Site / Tool Index*
@@ -473,6 +474,7 @@
 * [tellspecopedia](http://www.tellspecopedia.com/) - *List of Food Ingredients & effects on Body*
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - *Child Nutrition / Cooking Course* 
 * [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) - *Fitness / Nutrition Info* 
+* [/u/KNightNox Diagram](https://i.imgur.com/ipBxg5p.jpg) - *Zoomable Exercise Diagram*
 * [fastnfitness](https://github.com/brodeurlv/fastnfitness) - *Track Your Exercise Progress*
 * [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) - *Exercise & Activity Tracker*
 * [ExRx.net](https://exrx.net/) - *Exercise Resources*
