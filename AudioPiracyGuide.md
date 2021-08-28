@@ -333,7 +333,6 @@
 * [BoilTheFrog](http://boilthefrog.playlistmachinery.com/) - *Create Playlists From 2 Artists* 
 * [UnknownMusicBot](https://t.me/UnknownMusicBot) - *Play a random rare song from YouTube* 
 * [Gnoosic](https://www.gnoosic.com/) - *Band Discovery Tool* 
-* [Musicroamer](https://musicroamer.com/) - *Band Discovery Tool* 
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - *Generates Random Album Each Weekday* 
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Greatest 100 Lists*
 * [Acclaimed Music](http://www.acclaimedmusic.net/) - *Discover Acclaimed Music of the Times*
