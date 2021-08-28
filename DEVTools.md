@@ -112,7 +112,6 @@
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - *CTF Resources*
 * [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) - *API index* 
 * [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - *Integrate Services with Discord*
-* [Discord.py Docs](https://discordpy.readthedocs.io/en/latest/) - *Discord.py API Docs*
 * [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - *Discord Code Blocks*
 * [Hacking Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_hacking_tests_.2F_games) - *Hacking Tests & Games*
 * [XunLei](https://www.xunlei.com/) - *Shared Computing / Blockchain*
