@@ -590,7 +590,7 @@ RSS Player*
 * [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - *XMPP Client*
 * [Watusi](https://watusi.fouadraheb.com/) - *Modded WhatsApp*
 * [Whatspad++](https://iosninja.io/ipa-library/download-whatspad-ipa-ios) - *iPad WhatsApp*
-* [1 Click iCloud Bypass](https://frpfile.com/one-click-bypass-icloud/) or [iCloudBypass](https://appletech752.com/icloudbypass.html) - *Bypass iCloud*
+* [1 Click iCloud Bypass](https://frpfile.com/one-click-bypass-icloud/), [All in One iCloud Tool](https://frpfile.com/ifrpfile-all-in-one-icloud-tool/) or [iCloudBypass](https://appletech752.com/icloudbypass.html) - *Bypass iCloud*
 * [GoodLinks](https://goodlinks.app/) - *Save Links*
 * [Flarify](http://www.flairify.com/) - *Touchscreen Typing Practice* 
 * [VoxRec](https://apps.apple.com/us/app/voxrec-voice-to-text-dictation/id1366603987) - *Voice to Text*
