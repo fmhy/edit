@@ -134,7 +134,7 @@
 * [Linktury](https://www.linktury.com/) 
 * [Hitfilesearch](https://www.hitfilesearch.com/) - *Search HitFile*
 * [WarezOmen](https://warezomen.com/) - *Indexer / Search Engine*
-* [SunXDCC](http://sunxdcc.com/), [ixIRC](https://ixirc.com/) or [XDCC.EU](https://www.xdcc.eu/) - *XDCC / Search Engine*
+* [SunXDCC](http://sunxdcc.com/) or [XDCC.EU](https://www.xdcc.eu/) - *XDCC / Search Engine*
 
 ***
 
