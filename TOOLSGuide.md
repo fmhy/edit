@@ -1345,6 +1345,7 @@ General Reading Sites*
 * [Sosumi](https://github.com/popey/sosumi-snap.git) - *Download & Install macOS in a VM* 
 * [USBMap](https://github.com/corpnewt/USBMap) - *Map MacOS USB Ports*
 * [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
+* [Pictogram](https://pictogramapp.com/) - *Custom Mac App Icons*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old MacOS ISOs*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
 * [NHCalc](https://github.com/KhaosT/nhcalc) - *Compute Image NeuralHash*
