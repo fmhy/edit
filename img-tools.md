@@ -197,7 +197,7 @@
 * [Anaglyph Maker](https://www.stereoeye.jp/software/index_e.html) - *Make 3D Images*
 * [3DThis](https://3dthis.com/) - *3D Animation Tools* 
 * [PaintUp](http://technohippy.github.io/teddyjs/) - *Make 2D Art Into 3D*
-* [CGPersia](https://cgpersia.com/), [Clara](https://clara.io/library), [Sketchfab](https://sketchfab.com/), [GrabCad](https://grabcad.com/) or [Free3D](https://free3d.com/) - *3D Models*
+* [CGPersia](https://cgpersia.com/), [Clara](https://clara.io/library), [Sketchfab](https://sketchfab.com/), [GrabCad](https://grabcad.com/), [CGTrader](https://www.cgtrader.com/free-3d-models) or [Free3D](https://free3d.com/) - *3D Models*
 * [Thingiverse](https://www.thingiverse.com/), [Yeggi](https://www.yeggi.com/) or [YouImagine](https://www.youmagine.com/) - *3D Printer Models* 
 * [MyMiniFactory](https://www.myminifactory.com/) - *Mini 3D Printer Models*
 * [DEFCAD](https://defcad.com/) - *3D Gun Models*
