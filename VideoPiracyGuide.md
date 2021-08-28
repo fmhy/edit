@@ -544,8 +544,8 @@
 * [TinyMKV](https://tinymkv.xyz/) - *Movies / TV*
 * [480mkv](https://tvshows.480mkv.com/) - *TV*
 * [480p TV Shows](https://www.480ptvshows.com/) - *Movies / TV* 
-* [300mbFilms](https://www.300mbfilms.ws/) - *Movies / TV*
 * [300mbPlus](https://300mbplus.space/category/hollywood/) - *Movies*
+* [300MBFilms](https://www.300mbfilms.com/) - *Movies / TV*
 * [TvShows4Mobile](https://tvshows4mobile.com/) - *TV / Anime*
 * [UHDMV](https://uhdmv.org/) - *HD Movies / TV*
 * [Blu-Ray.world](https://blu-ray.world/) - *HD Movies / TV*
