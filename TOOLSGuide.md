@@ -1153,7 +1153,7 @@ General Reading Sites*
 * [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) - *Theme Source Patcher*
 * [OpenRGB](https://openrgb.org/) - *System Lighting Control / [GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)*
 * [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - *Audio Visualizer / FX Engine for Keyboards, Mice & Accessories*
-* [Mechvibes](https://mechvibes.com/), [MechaKeys](https://mechakeys.robolab.io/) - *Keyboard Soundpacks*
+* [Mechvibes](https://mechvibes.com/) or [MechaKeys](https://mechakeys.robolab.io/) - *Keyboard Soundpacks*
 * [Accent Applicator](https://github.com/mcdenis/AccentApplicator) - *Applies Win 10 Accent Color to OS*
 * [ModernWinver](https://github.com/torchgm/ModernWinver) - *Modernize the About Windows Screen*
 * [Modern Flyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - *Modern & Fluent Flyouts for Windows*
