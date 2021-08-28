@@ -1143,7 +1143,7 @@ General Reading Sites*
 * [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) or [MyLiveWallpapers](https://mylivewallpapers.com/) - *Animated Wallpapers* 
 * [Lively](https://rocksdanister.github.io/lively/) - *Turn any GIF, video or Webpage into a Animated Wallpaper*
 * [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - *Daily Random Wallpaper*
-* [SuperDuperWallpaper](https://gitlab.com/sech1p/superduperwallpaper) or [ScreenPlay](https://screen-play.app/) - *Wallpaper Manager*
+* [Wallpaper Engine](https://steamunlocked.net/?s=wallpaper+engine), [SuperDuperWallpaper](https://gitlab.com/sech1p/superduperwallpaper) or [ScreenPlay](https://screen-play.app/) - *Wallpaper Manager*
 * [ScreenStyler](https://screenstyler.com/) -  *Desktop Customization / [Discord](https://discord.gg/u3thTMp9Cd)*
 * [XDesktopSoft](https://www.xwidget.com/) - *Desktop Customization*
 * [WindowsCustomization](https://windowscustomization.com/), [VirtualCustoms](https://virtualcustoms.net/), [WinCustomize](https://www.wincustomize.com/) or [7Themes](https://7themes.su/) - *Desktop Customization / Themes / Wallpapers ect.* 
@@ -1418,7 +1418,7 @@ General Reading Sites*
 * [Lowkey](https://lowkey.gg/) - *Record / Screenshot Gameplay* 
 * [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
 * [Project Era](https://erafn.glitch.me/#downloads) - *Play Old Fortnite Seasons*
-* [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040) or [RoPro](https://ropro.io/) - *Enhance Roblox Website*
+* [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040), [RoGold](https://discord.gg/XMHn9zV3UA) or [RoPro](https://ropro.io/) - *Enhance Roblox Website*
 * [RobloxThemes](https://github.com/christiankek/RobloxThemes) - *Themes for Roblox*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
 * [tModLoader](https://www.tmodloader.net/) - *Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)*
