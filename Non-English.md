@@ -417,8 +417,9 @@
 * [UnCutHD](https://www.uncuthd.win/) - *Movies / TV* 
 * [Gophie](https://gophie.cam/) - *Movies / TV*
 * [DesiRulez](https://www.desirulez.cc/) - *Video / Audio*
-* [Tomato.to](https://saavn.tomato.to/) - *MP3*
-* [Pagalworld](https://www.pagalworld.pw/) - *MP3*
+* [Tomato.to](https://saavn.tomato.to/) - *Music*
+* [Pagalworld](https://www.pagalworld.pw/) - *Music*
+* [Original iTunes](https://originalitunes.blogspot.com/) - *Music*
 
 ## ▷ Torrenting
 
