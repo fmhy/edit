@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/WDV90lh.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/u3QvouV.png)** - *For mobile users*
 
 *** 
 ***
@@ -455,8 +455,6 @@
 * **[Worlds Cinema](http://worldscinema.org/)** - *Old / Classic / Cult Films*
 * **[TopNow](http://topnow.se/)** - *Movies / [Discord](https://discord.gg/WHYmgeB)*
 * **[Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download)** - *Many of these sites have single click downloads*
-* **[50TB Mega Drive](https://mega.nz/folder/spMwmDTA#qYCZT7Wq0JqoJpkVsQv36A)**, [2](https://mega.nz/folder/bswnSACT#EeW3b_CV7Es3Rbqim__pQA), [3](https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ) - *Movies* 
-* **[The Criterion Collection](https://mega.nz/folder/Jk8RjIBA#_dTNthUX3LL7OwSaauqIpw)** - *Movies*
 * [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
 * [RareLust](https://rarelust.com/) - *Rare Movies / NSFW* 
 * [My Duck Is Dead](http://www.myduckisdead.org/) - *Rare Movies / NSFW* 
@@ -470,8 +468,6 @@
 * [GDriveDL](https://gdrivedl.com/) - *Movies / TV*
 * [Movies Ni Pipay](https://moviesnipipay.me/) - *Movies / TV*
 * [Reqzone](https://reqzone.com/) - *Movies / TV*
-* [DHAKA FTP](http://103.205.233.70/), [2](http://dhakaftp.com/) - *Movies / TV*
-* [Movies, Series... in English](https://redd.it/ns1ejo), [2](https://redd.it/ns1kdi), [3](https://redd.it/nsb38a), [4](https://redd.it/ns2avz), [5](https://redd.it/ns2wcv) - *Movies / TV*
 * [HDPopcorns](https://hdpopcorns.blog/) - *Movies*
 * [FullSeasonsTv](https://fullseasonstv.com/) - *TV*
 * [MoviesWBB](http://movieswbb.com/) - *Movie / TV*
@@ -520,25 +516,7 @@
 * [7StarHD](https://7starhd.cards/category/hollywood/) - *Movies / TV*
 * [LatestMovie4U](https://latestmovie4u.com/) - *Movies / TV / Anime* 
 * [CoolMovieZone](https://coolmoviezone.lat/) - *Movies*
-* [Torrent2Drive](https://torrent2drive.video/0:/) - *Movies / TV / [Telegram](https://t.me/torrent_2_drive)*
-* [Media](https://drive.google.com/drive/folders/1FEXQWN5szPBTau3EPFaC8PkOgp3v4cve) - *Movies / TV / Anime / Drive* 
-* [dl1.3rver](http://dl1.3rver.org/), [2](http://dl2.3rver.org/ ), [3](http://dl3.3rver.org/) - *Movies / TV / Drive*
-* [dlb3d.ir](http://dl5.dlb3d.ir/Films/), [2](http://dl5.dlb3d.ir/G/), [3](http://dl5.dlb3d.ir/M/), [4](http://dl5.dlb3d.ir/S/), [5](http://dl5.dlb3d.ir/Tv.Shows/), [6](http://dl10.dlb3d.ir/M/), [7](http://dl11.dlb3d.ir/G/), [8](http://dl12.dlb3d.ir/F/), [9](http://dl12.dlb3d.ir/J/), [10](http://dl12.dlb3d.ir/S/) - *Movies / TV / Drive*
-* [103.222.20.150](http://103.222.20.150/ftpdata/) - *Movies / Drive* 
-* [188.165.227.112](http://188.165.227.112/portail/) - *Movies / TV / Drive* 
-* [103.145.10.110](http://103.145.10.110/Data/) - *Movies / TV / Drive*
-* [162.12.215.254](http://162.12.215.254/Data/Movies/) - *Movies / Drive*
-* [124.29.199.194](http://124.29.199.194/) - *Movies / Drive*
-* [185.105.101.222](http://185.105.101.222/) - *Movies / Drive*
-* [a092devs](https://drive.a092devs.workers.dev/0:/) - *Movies / TV / Anime / Drive* 
-* [s27.BitDL.ir](http://s27.bitdl.ir/) - *Movies / TV / Drive*
-* [DHAKA FTP](http://103.205.233.70/) - *Movies / Drive* 
-* [torrenttempdrive 2](https://torrenttempdrive.hashhackers.com/2:/) - *Movies / TV / Drive*
-* [Easy-Movie](https://easy-movie.com.au/cdn/) - *Movies / Drive* 
-* [sv.dcnm.ir](https://sv.dcnm.ir/Serial/Foreign/) - *TV / Drive* 
 * [Subroz](https://subroz.live/0:/) - *Movies / TV*
-* [Live Action Movies ](https://sites.google.com/view/live-action-movies/home), [2](https://live-action-raws.tumblr.com/) - *Movies* 
-* [173.249.48.243](http://173.249.48.243/movies2/) - *Animation / Kids Movies*
 * [Cartoons Raw](https://cartoons-raws.tumblr.com/master-list), [2](https://sites.google.com/view/cartoonraws-disney/home) - *Cartoons* 
 * [Bakabt](https://bakabt.me/) - *Cartoons / [Signup](http://wiki.bakabt.me/index.php/Sign_up)* 
 * [TinyMKV](https://tinymkv.xyz/) - *Movies / TV*
@@ -556,6 +534,33 @@
 * [r/MegaLinks Backup](https://mega.nz/folder/fv4lCaZQ#6tS6HpQiWAjx6Ibr1N_D8w), [2](https://www71.zippyshare.com/v/behLhk3F/file.html)
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_indexes) - *Movies / TV*
 * [123MoviesRipper](https://github.com/Xonshiz/123MoviesRIpper) - *123Movies Downloader*
+
+***
+
+## ▷ Drives / Directories 
+
+* **[50TB Mega Drive](https://mega.nz/folder/spMwmDTA#qYCZT7Wq0JqoJpkVsQv36A)**, [2](https://mega.nz/folder/bswnSACT#EeW3b_CV7Es3Rbqim__pQA), [3](https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ) - *Movies* 
+* **[The Criterion Collection](https://mega.nz/folder/Jk8RjIBA#_dTNthUX3LL7OwSaauqIpw)** - *Movies*
+* [DHAKA FTP](http://103.205.233.70/), [2](http://dhakaftp.com/) - *Movies / TV*
+* [Movies, Series... in English](https://redd.it/ns1ejo), [2](https://redd.it/ns1kdi), [3](https://redd.it/nsb38a), [4](https://redd.it/ns2avz), [5](https://redd.it/ns2wcv) - *Movies / TV*
+* [Torrent2Drive](https://torrent2drive.video/0:/) - *Movies / TV / [Telegram](https://t.me/torrent_2_drive)*
+* [Media](https://drive.google.com/drive/folders/1FEXQWN5szPBTau3EPFaC8PkOgp3v4cve) - *Movies / TV / Anime* 
+* [Hevcbay Vault](https://hevcbay.sharepoint.workers.dev/0:/Hevcbay%20vault/) - *Movies*
+* [dl1.3rver](http://dl1.3rver.org/), [2](http://dl2.3rver.org/ ), [3](http://dl3.3rver.org/) - *Movies / TV*
+* [dlb3d.ir](http://dl5.dlb3d.ir/Films/), [2](http://dl5.dlb3d.ir/G/), [3](http://dl5.dlb3d.ir/M/), [4](http://dl5.dlb3d.ir/S/), [5](http://dl5.dlb3d.ir/Tv.Shows/), [6](http://dl10.dlb3d.ir/M/), [7](http://dl11.dlb3d.ir/G/), [8](http://dl12.dlb3d.ir/F/), [9](http://dl12.dlb3d.ir/J/), [10](http://dl12.dlb3d.ir/S/) - *Movies / TV*
+* [103.222.20.150](http://103.222.20.150/ftpdata/) - *Movies* 
+* [188.165.227.112](http://188.165.227.112/portail/) - *Movies / TV* 
+* [103.145.10.110](http://103.145.10.110/Data/) - *Movies / TV*
+* [162.12.215.254](http://162.12.215.254/Data/Movies/) - *Movies*
+* [124.29.199.194](http://124.29.199.194/) - *Movies*
+* [185.105.101.222](http://185.105.101.222/) - *Movies*
+* [a092devs](https://drive.a092devs.workers.dev/0:/) - *Movies / TV / Anime* 
+* [s27.BitDL.ir](http://s27.bitdl.ir/) - *Movies / TV*
+* [DHAKA FTP](http://103.205.233.70/) - *Movies / Drive* 
+* [torrenttempdrive 2](https://torrenttempdrive.hashhackers.com/2:/) - *Movies / TV*
+* [Easy-Movie](https://easy-movie.com.au/cdn/) - *Movies* 
+* [sv.dcnm.ir](https://sv.dcnm.ir/Serial/Foreign/) - *TV* 
+* [Live Action Movies ](https://sites.google.com/view/live-action-movies/home), [2](https://live-action-raws.tumblr.com/) - *Movies* 
 
 ***
 
