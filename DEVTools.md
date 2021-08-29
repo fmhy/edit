@@ -73,6 +73,8 @@
 * [How-to Host Questionable Websites](https://weboas.is/media/host.png) - *Guide / [PDF](https://weboas.is/media/host.pdf)*
 * [Learn Git Branching](https://learngitbranching.js.org/) - *Interactive Git Branching Guide*
 * [Learn SQL](https://sqlbolt.com/) - *SQL Lessons*
+* [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - *PostgreSQL Tutorial*
+* [MySQL Tutorial](https://www.mysqltutorial.org/) - *MySQL Tutorial*
 * [LearnCSSGrid](http://learncssgrid.com/) - *CSS Grid Guide*
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
 * [Discord.js Guide](https://discordjs.guide/) - *Discord.js Bot Guide*
