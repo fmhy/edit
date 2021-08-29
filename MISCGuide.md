@@ -581,7 +581,7 @@
 * [10k Font Collection](https://drive.google.com/file/d/1YJiuTFPXGyz7WLw_lq08EXgdibZJu7E8/view)
 * [10000+ Fonts Collection ](https://drive.google.com/drive/u/0/mobile/folders/17HgeWGONAjR0U9knsv3qDS3734zOZr9z)
 * [2300+ Fonts Pack](https://drive.google.com/file/d/1Y4yRd5KugATG5XfcjkuUgN9BU4wJJMVj/view)
-* [2.2k Fonts](https://drive.google.com/drive/folders/1aJVKslK0v_kKxvEd5KV3KSCfY0epXNz0?usp=sharing) - *[Zip File](Zip File: https://drive.google.com/file/d/1x7oh79m1ooj9BnPxEnxEgZY39RVcXple/view?usp=sharing)*
+* [2.2k Fonts](https://drive.google.com/drive/folders/1aJVKslK0v_kKxvEd5KV3KSCfY0epXNz0?usp=sharing) - *[Zip File](https://drive.google.com/file/d/1x7oh79m1ooj9BnPxEnxEgZY39RVcXple/view?usp=sharing)*
 * [2000+ Fonts](https://drive.google.com/drive/folders/1aJVKslK0v_kKxvEd5KV3KSCfY0epXNz0) 
 * [1001 Free Fonts ](https://www.1001freefonts.com/)
 * [700-free-ttf-fonts-pack](https://drive.google.com/file/d/0B7IoVaGUMDVseFpvQ3NKTlNydmc/view?resourcekey=0-7iCgiOnXxBtilY0tJ2Nikg)
