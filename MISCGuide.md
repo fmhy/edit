@@ -650,7 +650,6 @@
 * [DownThemAll](https://www.downthemall.org/), [Provd](https://provd.net/) or [Download Helper](http://www.downloadhelper.net/) - *Download Manager*
 * [Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - *Video Download Managers*
 * [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - *Play Videos in Theater Mode*
-* [Screen Recorder](https://mybrowseraddon.com/screen-recorder.html) - *Screen Recorder*
 * [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Audio Recorder*
 * [Mute Tab](https://mybrowseraddon.com/mute-tab.html) - *Easily Mute All Tabs*
 * [Form History Control](https://stephanmahieu.github.io/fhc-home/) or [Simple Form Fill](https://github.com/sblask/webextension-simple-form-fill) - *Formfiller Manager* 
@@ -716,7 +715,8 @@
 * [Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search) - *Reverse Image Search Extensions / Sites*
 * [NooBox](https://ainoob.com/en/project/noobox) - *Reverse Image Search, Extract Images, Screenshot & Search* 
 * [GoFullPage](https://gofullpage.com/) - *Full Page Screenshots*
-* [Nimbus Capture](https://nimbusweb.me/screenshot.php) - *Screenshot / Video Capture*
+* [Nimbus Capture](https://nimbusweb.me/screenshot.php) - *Screenshot / Screen Recorder*
+* [Screen Recorder](https://mybrowseraddon.com/screen-recorder.html) - *Screen Recorder*
 * [Booru Slideshow](https://github.com/Chirmaya/BooruSlideshow) - *Make Slideshows Easier to Navigate*
 * [Textmarker](https://github.com/ufb/Textmarker) - *Text Highlighter* 
 * [Bulk URL Opener](https://bulkurlopener.com/) - *Open Multiple URL's in One Click* 
