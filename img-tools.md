@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/XX2JzTW.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/pE3pGFg.png)** - *For mobile users*
 
 ***
 *** 
@@ -157,7 +157,6 @@
 
 # ► Download Images
 
-* **[Wallpaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Download Wallpapers*
 * **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - *Download Stock Photos*
 * **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)** - *Download Icons*
 * **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)** - *Search by Image*
@@ -186,9 +185,13 @@
 * [dzi-dl](https://github.com/ryanfb/dzi-dl) - *Deep Zoom Image Downloader* 
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YouTube Screenshot](https://www.youtubescreenshot.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - *Grab YouTube Thumbnails* 
 * [gallery-dl](https://github.com/mikf/gallery-dl) - *Image / Gallery Downloader*
-* [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - *Imageboard Downloader* 
+* [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - *Imageboard Downloader / [Viewer](https://github.com/loadletter/grabber-viewer)* 
 * [Flicker-Download](https://github.com/beaufour/flickr-download) - *Flickr Scraper* 
 * [iPack Builder](https://www.deviantart.com/mr-blade/art/iPack-Builder-v2-2-Tool-for-icon-customization-473088895), [2](https://mrbladedesigns.com/ipack-builder/) - *Create Icon Pack Installers*
+
+***
+
+## ▷ [Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)
 
 ***
 
@@ -283,7 +286,7 @@
 * [Image Identification Project](https://www.imageidentify.com/) - *Image Identification Tool* 
 * [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [ImSter](https://github.com/armytricks/ImSter) or [stegpy](https://github.com/dhsdshdhk/stegpy) - *Embed & Extract Hidden Data in Images / Steganography* 
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - *Blur Images / Scrub Metadata*
-* [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi), [Exif-Viewer](http://exif-viewer.com/), [metapicz](http://metapicz.com/), [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - *EXIF / Metadata Viewer* 
+* [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi), [Exif-Viewer](http://exif-viewer.com/), [metapicz](http://metapicz.com/), [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [ExifData](https://exifdata.com/) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - *EXIF / Metadata Viewer* 
 * [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif) or [VerExif](https://www.verexif.com/en/) - *Remove Meta / EXIF Data* 
 * [Pic2Map](https://www.pic2map.com/) - *Image EXIF data viewer with GPS support*
 * [TheExifer](https://www.thexifer.net/index.php) or [Exiv2](https://www.exiv2.org/) - *Image EXIF Data Editor* 
