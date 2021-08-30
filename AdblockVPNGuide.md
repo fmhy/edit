@@ -122,6 +122,7 @@
 * [Ransomwhere](https://ransomwhe.re/) - *Ransomware Tracker*
 * [SigThief](https://github.com/secretsquirrel/SigThief) - *Signature Test* 
 * [YARA](https://virustotal.github.io/yara/) - *Malware Identification Tool*
+* [Winitor](https://www.winitor.com/) - *EXE Malware Assessment*
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - *Penetration Testing Index*
 * [wideredist](https://gitlab.com/urbanware-org/wideredist) - *Update Windows Defender Definitions Locally*
 * [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - *Malware Search Extension* 
@@ -298,7 +299,7 @@
 * [Pribot](https://pribot.org/) - *Automated Analysis for Privacy Policies* 
 * [Pi.Alert](https://github.com/pucherot/Pi.Alert) - *Network Monitor*
 * [Google Takeout](https://takeout.google.com/) - *Google Data Request*
-* [de-google](https://www.reddit.com/r/privacy/wiki/de-google), [De-google-ify](https://degooglisons-internet.org/en/), [degoogle](https://degoogle.jmoore.dev/) or [No More Google](https://nomoregoogle.com/) - *Google App Alternatives*
+* [de-google](https://www.reddit.com/r/privacy/wiki/de-google), [De-google-ify](https://degooglisons-internet.org/en/), [degoogle](https://degoogle.jmoore.dev/) / [GitHub](https://github.com/tycrek/degoogle) or [No More Google](https://nomoregoogle.com/) - *Google App Alternatives*
 * [no-google](https://github.com/nickspaargaren/no-google) - *Block All Google Services* 
 * [Nixory](http://nixory.sourceforge.net/) - *Antispyware Browser Tool* 
 * [Dark Launch Referer Test](https://www.darklaunch.com/tools/test-referer) - *Check Link Referrer*
