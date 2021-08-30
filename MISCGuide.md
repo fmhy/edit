@@ -191,7 +191,7 @@
 * [StumblingOn](https://stumblingon.com/), [Stumbled](https://stumbled.cc/), [BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/), [JumpStick](https://jumpstick.app/), [OpenBulkURL](https://openbulkurl.com/random/) or [random](https://random.new/) - *Takes you to a Random Site*
 * [KongouCheats](https://kongoucheats.com/) - *Watch Random Memes / Videos* 
 * [r.sine.com](https://r.sine.com/index), [Funnyjunk](https://funnyjunk.com//) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Memes & GIFs / Some NSFW*
-* [Neal.fun](https://neal.fun/) or [JenniferDewalt](https://jenniferdewalt.com/) - *Sites / Games*
+* [Neal.fun](https://neal.fun/), [Creative Tech Guy](https://creativetechguy.com/) or [JenniferDewalt](https://jenniferdewalt.com/) - *Sites / Tools / Games*
 * [Just For Fun](https://justforfun.io/) or [Andrew Marsh](http://andrewmarsh.com/software) - *Coding Project Showcase* 
 * [Trippy shit Mega List](https://triptoysfor.me/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave), [BoredHumans](http://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](http://www.thisismywebsitenow.com/) or [Mr.doob](https://mrdoob.com/) - *Toys & Experiments* 
 * [Bimble Space](https://in.bimble.space/toys) - *Multiple Toys / Art Tools* 
@@ -469,11 +469,13 @@
 
 * [Awesome Health](https://github.com/lalaithan/awesome-health) - *Health Resources Index*
 * [NutritionFacts.org](https://nutritionfacts.org/) - *Video Library for Latest Health-based Research*
-* [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - *Havard University Health Website*
+* [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - *Harvard University Health Website*
 * [MyPlate](https://www.myplate.gov/) - *Food Pyramid*
-* [tellspecopedia](http://www.tellspecopedia.com/) - *List of Food Ingredients & effects on Body*
+* [tellspecopedia](http://www.tellspecopedia.com/) - *List of Food Ingredients & Effects on Body*
+* [/r/Nutrition](https://www.reddit.com/r/nutrition/) - *Nutrition Subreddit*
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - *Child Nutrition / Cooking Course* 
 * [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) - *Fitness / Nutrition Info* 
+* [The Fitness Wiki](https://thefitness.wiki/) - *Fitness Information Wiki*
 * [/u/KNightNox Diagram](https://i.imgur.com/ipBxg5p.jpg) - *Zoomable Exercise Diagram*
 * [fastnfitness](https://github.com/brodeurlv/fastnfitness) - *Track Your Exercise Progress*
 * [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) - *Exercise & Activity Tracker*
@@ -485,7 +487,10 @@
 * [openScale](https://f-droid.org/packages/com.health.openscale/) - *Weight & Body Metrics Tracker*
 * [Simple Science Fitness](https://ss.fitness/calculators) - *Fitness Calculators* 
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - *BMR / TDEE Calculator*
-* [/r/BodywightFitness](https://www.reddit.com/r/BodyweightFitness) - *Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)*
+* [/r/BodyweightFitness](https://www.reddit.com/r/BodyweightFitness) - *Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)*
+* [/r/LoseIt](https://www.reddit.com/r/loseit/) - *Weight Loss Subreddit*
+* [/r/GainI ](https://www.reddit.com/r/gainit/) - *Healthy Weight Gain Subreddit*
+* [/r/Fexibility](https://www.reddit.com/r/flexibility/) - *Flexibility Subreddit*
 * [My Pacer](https://www.mypacer.com/) - *Fitness App / Pedometer*
 * [MyFitnessPal](https://www.myfitnesspal.com/) - *Fitness / Health App*
 * [Awesome Nutrition Calculator](https://github.com/RolandKawka/awesome-nutrition-calculator) - *Nutrition Calculator*
@@ -615,7 +620,7 @@
 * **[add0n](https://add0n.com/) or [MyBrowserAddon](https://mybrowseraddon.com/)** - *Open-Source Extension Index*
 * **[Buster](https://github.com/dessant/buster)** or **[AntCpt](https://antcpt.com/)** - *Auto Captcha Solver*
 * **[Privacy Pass](https://privacypass.github.io/)** - *Skip Captchas* 
-* **[Dark Reader](https://darkreader.org/)**, [Into The Black Hole](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_into_the_black_hole), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html), or [222](https://github.com/x08d/222) - *Dark Mode* 
+* **[Dark Reader](https://darkreader.org/)**, [Dark Background and Light Text](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dark_background_and_light_text), [Into The Black Hole](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_into_the_black_hole), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html), or [222](https://github.com/x08d/222) - *Dark Mode* 
 * [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [VimC](https://github.com/1995eaton/chromium-vim), [Web Search Navigator](https://github.com/infokiller/web-search-navigator) or [Vimium C](https://github.com/gdh1995/vimium-c) - *Keyboard Shortcuts* 
 * [Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/) or [Link Clump](https://github.com/benblack86/linkclump) - *Select & Open Multiple Links at Once* 
 * [Glitter Drag](https://github.com/harytfw/glitterdrag) - *Adds Actions on Dragging* 
@@ -675,7 +680,6 @@
 * [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) - *Remove All Cookies* 
 * [Cookie Manager](https://github.com/laktak/vanilla-chrome), [Cookie Quick Manager](https://github.com/ysard/cookie-quick-manager), [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - *Cookie Manager* 
 * [Feedbro](https://nodetics.com/feedbro/), [Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS) or [Fraidycat](https://fraidyc.at/) - *RSS Feed Reader*
-* [Reader View](https://add0n.com/chrome-reader-view.html), [EpubPress](https://epub.press/), [Reader View](https://mybrowseraddon.com/reader-view.html) or [2read](https://2read.net/) - *Open Pages in Reader View*
 * [Google Unblocked](https://github.com/Ibit-to/google-unlocked) - *Uncensored Google Search*
 * [Google search link fix](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_search_link_fix) - *Prevent Search Pages from Modifying Result Links* 
 * [Restore Classic Google Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_restore_classic_google_icons)
@@ -683,12 +687,13 @@
 * [Linkpack](https://www.linkpack.io/) - *Save Links to Dropbox*
 * [Survol](https://survol.me/) - *Preview Links* 
 * [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - *Page Change Detection / Notification* 
+* [Block Site](https://add0n.com/block-site.html) - *Block Websites*
+* [LeechBlock](https://www.proginosko.com/leechblock), [Forest](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_forest) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - *Site Blocker / Productivity Booster*
 * [SuperStop](https://github.com/gavinsharp/SuperStop/) - *Stop Active Animations, Videos, JS, WebSocket & XHR*
 * [Nuke Anything](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nuke_anything) - *Block/Hide Anything on a Page*  
 * [NSFW-Filter](https://github.com/nsfw-filter/nsfw-filter) - *Block NSFW Images*
 * [Block Image Video](https://mybrowseraddon.com/block-image-video.html) - *Block All Images & Videos*
 * [Offline Mode](https://mybrowseraddon.com/offline-mode.html) - *Disconnect Browser from the Internet*
-* [Forest](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_forest) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - *Site Blocker / Productivity Booster*
 * [Wayback Machine](https://github.com/internetarchive/wayback-machine-webextension), [Web Archives](https://github.com/dessant/web-archives) or [Archiveror](https://github.com/rahiel/archiveror) - *View Archived / Cached Webpages*
 * [WaybackEverywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox) - *Auto Load Archived Versions of Dead Pages*
 * [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - *Alt Twitch Player* 
@@ -742,7 +747,7 @@
 * [FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/) - *Multiple Tab Related Actions*
 * [Firefox Download Managers](https://addons.mozilla.org/en-US/firefox/search/?category=download-management&recommended=true&sort=recommended%2Cusers&type=extension) - *Download Managers for Firefox*
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - *Download Manager*
-* [ShadowFox](https://overdodactyl.github.io/ShadowFox/) or [Dark Background and Light Text](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text/) - *Dark Mode*
+* [ShadowFox](https://overdodactyl.github.io/ShadowFox/) - *Dark Mode*
 * [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - *Pick Site that Opens in New Tabs* 
 * [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/) or [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - *Bookmark Manager* 
 * [Keep or Delete Bookmarks](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) - *Keep Bookmark Folder Clean* 
@@ -819,8 +824,8 @@
 * **[Userscript Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_userscript_managers)**
 * **[Greasy Fork](https://greasyfork.org/en)**, [Userscripts](https://userscripts-mirror.org/) or [OpenUserJS](https://openuserjs.org/) - *Install Userscripts / [Change Theme](https://greasyfork.org/en/scripts/4336) / [Remove Crap](https://greasyfork.org/en/scripts/12179-greasyfork-bull-filter)*
 * [Userscript.zone](https://www.userscript.zone/) - *Userscript Search* 
-* [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - *Google Search Endless Scrolling* 
 * [darkmode.js](https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c) - *Dark Mode Script*
+* Captcha Solvers - [Hcaptcha](https://greasyfork.org/en/scripts/425854) / [Recaptcha](https://greasyfork.org/en/scripts/430593) 
 * [Remove Web Limits](https://greasyfork.org/en/scripts/28497-remove-web-limits-modified), [2](https://greasyfork.org/en/scripts/386908-remove-web-limits-re-modified) - *Force Enable Right Click*
 * [anti-anti-copy](https://greasyfork.org/en/scripts/7197) - *Copy text from any site*
 * [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - *Select Text Inside Links* 
@@ -828,5 +833,6 @@
 * [altsearch links](https://greasyfork.org/en/scripts/13542-altsearch-links) - *Adds search on other sites for google, bing, and yahoo*
 * [Twitch Screen Comment Scroller](https://greasyfork.org/en/scripts/376225-twitch-screen-comment-scroller) - *Auto Scroll Twitch Comments*
 * [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) - *Adds various features to Imageboards* 
+* [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - *Google Search Endless Scrolling* 
 * [Google Hit Hider](https://openuserjs.org/scripts/jscher2000/Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites) - *Block Sites from Search Results* 
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - *Shows Images & Videos Behind Links & Thumbnails*
