@@ -24,6 +24,7 @@
 * [BookAudiobook](https://bookaudiobook.com/) - *Listen Online*
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - *Listen Online*
 * [Audiobook Slab](https://audiobookslab.com/) - *Listen Online*
+* [Litube](https://litube.net/) - *Listen Online*
 * [AudioBook Reviews](https://audiobookreviews.com/) 
 * [xAudiobooks](https://xaudiobooks.com/)
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks) 
@@ -75,6 +76,7 @@
 * [openlibrary](https://openlibrary.org/) - *Books* 
 * [standardebooks](https://standardebooks.org) - *Books* 
 * [Manybooks](https://manybooks.net/)  - *Books*
+* [BooksVooks](https://booksvooks.com/) - *Books*
 * [Books-Share](https://www.books-share.com/) - *Books / Comics*
 * [dpgroup](https://www.dpgroup.org/) - *Books / Magazines*
 * [16Chan Library](https://16chan.xyz/library/) - *Books*
@@ -133,6 +135,7 @@
 * [SNEWD](https://snewd.com/) - *Books* 
 * [Luminist](http://www.luminist.org/archives/) - *Books* 
 * [KingAuthor](https://kingauthor.net/) - *Books* 
+* [Standard EBooks](https://standardebooks.org/) - *Books*
 * [Google Play Books](https://play.google.com/store/books/collection/topselling_free) - *Books* 
 * [Smashwords](https://www.smashwords.com/shelves/home/1/free/any) - *Books* 
 * [kodges](https://www.kodges.ru/) - *Books / Use Translator*
@@ -645,6 +648,7 @@
 * [Dataset Search](https://datasetsearch.research.google.com/) - *Dataset Search Google* 
 * [PDF / Doc Search Engine](https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0) 
 * [DocDownloader](https://docdownloader.com/), [guIHelp](https://discord.gg/rgF9jY8CpH) or [ScribdDown](https://scribddown.com/) - *[Scribd](https://www.scribd.com/) Document Downloader* 
+* [Scribd Download Guide](https://redd.it/kfv1c6) 
 * [ZealDocs](https://zealdocs.org/) - *Documentation Reader*
 * [GROBID](https://github.com/kermitt2/grobid) - *Extract / Organize Scientific Document Info*
 
@@ -1041,7 +1045,7 @@
 * [Open Media Library](https://openmedialibrary.com/) - *Online Book Manager*
 * [Raven Reader](https://ravenreader.app/) - *Article Reader / Manager* 
 * [Cubari](https://cubari.moe/) - *Image Proxy / Reader*
-* [fViewer](https://www.fviewer.com/), [Reader View](https://add0n.com/chrome-reader-view.html), [EpubPress](https://epub.press/), [Reader View](https://mybrowseraddon.com/reader-view.html, [ePubReader](https://www.epubread.com/en/), [Mercury](https://mercury.postlight.com/), [ReadWok](https://readwok.com/) or [2read](https://2read.net/) - *Online Reader*
+* [fViewer](https://www.fviewer.com/), [Reader View](https://add0n.com/chrome-reader-view.html) / [2](https://mybrowseraddon.com/reader-view.html), [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/), [EpubPress](https://epub.press/), [ePubReader](https://www.epubread.com/en/), [Mercury](https://mercury.postlight.com/), [ReadWok](https://readwok.com/) or [2read](https://2read.net/) - *Browser Reader*
 * [Ebook Sender](https://telegram.me/to_kindle_bot) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - *Send Ebooks to Kindle*
 
 ***
