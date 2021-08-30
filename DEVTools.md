@@ -45,6 +45,7 @@
 * [R for Data Science](https://r4ds.had.co.nz/) - *R Data Science Guide*
 * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) - *ggplot2 Guide*
 * [RubyMonk](https://rubymonk.com/) - *Ruby Tutorials* 
+* [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) - *Rust Programming  Guidebook*
 * [JavaScript.info](https://javascript.info/) - *JavaScript Guide* 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - *Javascript Learning Books*
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - *Node.js Guide / Tips*
@@ -163,6 +164,8 @@
 * [Bypass Cloudflare](https://github.com/jychp/cloudflare-bypass) - *Bypass Coudflare Bot Protection*
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - *Check Sites for Cloudflare*
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) - *Self-Hosted, Privacy Respecting CAPTCHAs*
+* [Let's Encrypt](https://letsencrypt.org/) - *Free TLS Certificates*
+* [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - *Free SSL Certificates*
 * [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - *Email Verification Service*
 * [IP Intelligence](http://getipintel.com/) - *Proxy / VPN / Bad IP Detection*
 * [V2Ray](https://www.v2ray.com/) - *Proxy Software / [Android](https://github.com/eycorsican/kitsunebi-android)*
@@ -390,6 +393,7 @@
 * [CodeSandbox](https://codesandbox.io/), [VSCodium](https://vscodium.com/), [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VS Code* 
 * [Open VSX Registry](https://open-vsx.org/) - *VS Code Editor Extensions*
 * [VSCodeThemes](https://vscodethemes.com/) - *VS Code Themes*
+* [Discord-Tools](https://github.com/Darkempire78/Discord-Tools) - *VSCode Discord Extension*
 * [Openshift](https://che.openshift.io/) - *Cloud IDE / Eclipse Che* 
 * [replit](https://replit.com/) - *Browser Based IDE*
 * [KDevelop](https://www.kdevelop.org/) - *Cross Platform IDE*
