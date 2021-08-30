@@ -31,7 +31,7 @@
 
 * **[Spotify](https://open.spotify.com/)** or [Spotify One](https://spotfy.one/)  - *Browser Music*
 * **Spotify Tools** - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Listen Together](http://jqbx.fm/)
-* **[YouTube Music](https://music.youtube.com/)** - *Browser Music*
+* **[YouTube Music](https://music.youtube.com/)** - *Browser Music / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo)*
 * **[Reddit Music Player](https://reddit.musicplayer.io/)** - *Subreddit Music Player*
 * **[SoundCloud](https://soundcloud.com/)** - *User made songs*
 * [ccMixter](http://ccmixter.org/) or [dig ccMixter](http://dig.ccmixter.org/dig) - *Browser Music*
@@ -181,6 +181,7 @@
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *FLAC / MP3*
 * [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots)
 * [Soulseek](http://www.soulseekqt.net) or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *FLAC / MP3 / Account Required*
+* [Orpheus](https://github.com/yarrm80s/orpheusdl) - *FLAC / MP3*
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - *Music Download Tool* 
 * [RipMe](https://github.com/RipMeApp/ripme) - *Bulk Album Downloader*  
 * [Spytify](https://jwallet.github.io/spy-spotify/overview.html) or [spy-spotify](https://github.com/jwallet/spy-spotify) - *Record / Download Spotify Songs*
