@@ -515,10 +515,10 @@
 * [woob](https://woob.tech/) - *Use Sites Without a Browser*
 * [Lagrange](https://github.com/skyjake/lagrange)  - *Gemini Browser
 * [StockBrowser](https://stackbrowser.com/) - *Multi Web App Browser*
+* [Browserling](https://www.browserling.com/) - *Browser Emulators*
 * [n.eko](https://n.eko.moe/) - *Self-Hosted Virtual Browser*
 * [Safari Windows](https://mega.nz/file/zqoEWZaQ#qNAN8JnV_79gII4ofMs4ZwMAcydZAQw6Gdng_QEyNDw) - *Safari for Windows*
 * [EdgeDeflector](https://github.com/da2x/EdgeDeflector) - *Force Open Default Browser*
-* [Browserling](https://www.browserling.com/) - *Cross-browser testing*
 * [xBrowserSync](https://github.com/xbrowsersync/app) - *Sync Browser Data Browsers / Devices*
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - *User Agent Archive* 
 * [danmaku2ass ](https://github.com/m13253/danmaku2ass) - *Convert Niconico/AcFun/Bilibili Comments to ASS*
@@ -685,7 +685,8 @@ General Reading Sites*
 * [FrontPageMetrics](https://frontpagemetrics.com/) - *Metrics For Reddit* 
 * [RedditMetis](https://redditmetis.com/), [Reddit-User-Analyser](https://reddit-user-analyser.netlify.app/), [Redective](https://www.redective.com/) or [redditsfinder](https://github.com/Fitzy1293/redditsfinder) - *Reddit Profile Information*
 * [Reddit Comment Search](https://www.redditcommentsearch.com/) - *Search Reddit Comments* 
-* [KoalaBear](https://www.koalabear.nl/reddit) - *Check if a URL has been posted to Reddit*
+* [KoalaBear](https://www.koalabear.nl/reddit) - *Check if URL has been posted*
+* [RedditRepostSleuth](https://github.com/barrycarey/RedditRepostSleuth) - *Repost Detection Bot*
 * [subreddit-scraper](https://github.com/naftulikay/subreddit-scraper) - *Backup Entire Subreddits* 
 * [Reddit Desktop Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_desktop_apps) 
 * [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader) - *Download Media from Reddit* 
@@ -827,13 +828,14 @@ General Reading Sites*
 * **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download Audio from YouTube*
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
 * [SponsorBlock](https://sponsor.ajay.app/) - *Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)*
+* [YouTube Encoding Guide](https://support.google.com/youtube/answer/1722171) - *Recommended YouTube Encoding Settings*
 * [TubeSync](https://github.com/meeb/tubesync) - *Sync YouTube Channels / Playlists to a Media Server*
 * [Invidious](https://tube.cadence.moe/), [Piped](https://github.com/TeamPiped/Piped) or [Youtube-local](https://github.com/user234683/youtube-local) - *YouTube frontend / Free / No Account Required / [Instances](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)* 
 * [FreeTube](https://freetubeapp.io/) - *YouTube Frontend / Client*
 * [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube), [ImprovedTube](https://github.com/code4charity/YouTube-Extension/) or [Magic Actions for YouTube](https://www.mycinema.pro/) - *Multiple YouTube Features* 
 * [YouTube Redux](https://redd.it/jvg4mf) or [Classic YouTube Design](https://github.com/Cicero-Interactive/Classic-YouTube-Design/) - *Restore Classic YouTube Layout* 
 * [YouTube Real Cinema Mode](https://userstyles.org/styles/122032/youtube-real-cinema-mode) - *Improved YouTube Cinema Mode*
-* [NSFW Youtube](https://www.nsfwyoutube.com) or [Simple YouTube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - *Bypass YouTube Age Restriction*
+* [NSFW Youtube](https://www.nsfwyoutube.com), [YouTube Age Verification Bypass](https://greasyfork.org/en/scripts/375525-youtube-age-verification-bypass) or [Simple YouTube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - *Bypass YouTube Age Restriction*
 * [YouTube RSS Finder](https://github.com/teddy-gustiaux/youtube-rss-finder) - *Create YouTube RSS Feeds* 
 * [PocketTube](https://yousub.info/) - *YouTube Subscription Manager / Organizer* 
 * [FreshTube](https://porjo.github.io/freshtube/) - *Display Latest Video from Subscriptions* 
@@ -1007,13 +1009,14 @@ General Reading Sites*
 * [AATU](https://amdaputuningutility.com/) - *Ryzen Mobile Laptop Tuning Utility*
 * [NBFC](https://github.com/hirschmann/nbfc) - *Laptop Fan Control*
 * [Nvidia-Patch](https://github.com/keylase/nvidia-patch) - *NVENC & NvFBC Patches*
-* [WizTree](https://wiztreefree.com/), [WinDirStat](https://windirstat.net/), [diskover](https://github.com/shirosaidev/diskover), [baobab](https://github.com/GNOME/baobab), [2](https://gitlab.gnome.org/GNOME/baobab), [HDSentinel](https://www.hdsentinel.com/) or [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - *Disk Usage Analyzer*
+* [Disk Usage Analyzers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_disk_usage_analyzers) - *View & Manage Files on Disk*
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - *Disk Benchmarking Tool*
 * [MyFavoriteGadgets](https://www.myfavoritegadgets.info/) - *System Monitors*
 * [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - *Windows System Utilities* 
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](http://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - *Process Monitor*
 * [SpeedFan](http://www.almico.com/speedfan.php) - *Hardware Monitor*
-* [Process Lasso](https://bitsum.com/) - *CPU Optimization* 
+* [Process Lasso](https://bitsum.com/) - *CPU Optimizer* 
+* [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - *Laptop CPU Monitor / Optimizer*
 * [CPUid](https://www.cpuid.com/softwares/cpu-z.html) - *System Information Tool* 
 * [HWiNFO](https://www.hwinfo.com/) - *Hardware Analysis, Monitoring and Reporting*
 * [phwmon](https://gitlab.com/o9000/phwmon) - *System Tray Hardware Monitor*
@@ -1138,12 +1141,7 @@ General Reading Sites*
 ## ▷ Customization
 
 * **[Rainmeter](https://www.rainmeter.net/)** - *Desktop Customization* 
-* **[Wallpaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Download Wallpapers*
-* [MovieMania](https://www.moviemania.io/) or [Joblo](https://www.joblo.com/movie-posters/) - *Movie Wallpaper Database* 
-* [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) or [MyLiveWallpapers](https://mylivewallpapers.com/) - *Animated Wallpapers* 
-* [Lively](https://rocksdanister.github.io/lively/) - *Turn any GIF, video or Webpage into a Animated Wallpaper*
-* [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - *Daily Random Wallpaper*
-* [Wallpaper Engine](https://steamunlocked.net/?s=wallpaper+engine), [SuperDuperWallpaper](https://gitlab.com/sech1p/superduperwallpaper) or [ScreenPlay](https://screen-play.app/) - *Wallpaper Manager*
+* **[Wallpaper Sites / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Download Wallpapers*
 * [ScreenStyler](https://screenstyler.com/) -  *Desktop Customization / [Discord](https://discord.gg/u3thTMp9Cd)*
 * [XDesktopSoft](https://www.xwidget.com/) - *Desktop Customization*
 * [WindowsCustomization](https://windowscustomization.com/), [VirtualCustoms](https://virtualcustoms.net/), [WinCustomize](https://www.wincustomize.com/) or [7Themes](https://7themes.su/) - *Desktop Customization / Themes / Wallpapers ect.* 
@@ -1285,6 +1283,7 @@ General Reading Sites*
 * [HashTab](http://implbits.com/products/hashtab/) or [OpenHashTab](https://github.com/namazso/OpenHashTab) - *Calculate / Check File Hashes* 
 * [QuickSFV](https://quicksfv.org/), [RapidCRC](http://rapidcrc.sourceforge.net/) or [QuickDash](https://github.com/AndreVuillemot160/QuickDash/) / [Discord](https://discord.gg/ZuxmMXdGpm) - *File Hashing / Verification Tools*
 * [Hashes](https://hashes.com/) - *Decrypt Hashes*
+* [MD5 Hash Changer](https://github.com/ewwink/MD5-Hash-Changer) - *Change a Files MD5 Hash*
 * [SQLite Viewer](https://inloop.github.io/sqlite-viewer/) - *View SQLite Files Online* 
 * [MediaInfoOnline](https://mediaarea.net/MediaInfoOnline) or [mediainforobot (Telegram)](https://t.me/mediainforobot) - *Media File Info*
 * [CalameoDownload](https://calameodownload.com/) - *Download Calameo Docs PDF or Image files*
@@ -1317,8 +1316,9 @@ General Reading Sites*
 * [wslu](https://github.com/wslutilities/wslu) - *Utilities for Windows 10 Linux Subsystem* 
 * [Tree](http://mama.indstate.edu/users/ice/tree/) - *Directory Listing Command* 
 * [ss64 Bash](https://ss64.com/bash/) - *Linux Bash Commands*
+* [The Linux Kernel Archives](https://kernel.org/) - *Linux Kernel Archive*
 * [Gnome-Look](https://www.gnome-look.org/browse) - *Linux Themes*
-* [ricemood](https://github.com/fhadiel/ricemood) - *Fully customizable unix color schemer*
+* [ricemood](https://github.com/fhadiel/ricemood) - *Fully Customizable Unix Color Schemer*
 * [DistroTest](https://distrotest.net/) or [JSLinux](https://bellard.org/jslinux/) - *Linux Browser Emulator*
 * [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
 * [Homebrew](https://brew.sh/) - *Package Manager*
@@ -1365,7 +1365,6 @@ General Reading Sites*
 
 ## ▷ OS Emulators
 
-* [BlueEdge](https://win11.blueedge.me/) - *Windows 11 Browser Emulator*
 * [copy.sh](https://copy.sh/v86/), [OnWorks](https://www.onworks.net/), [simone.computer](https://simone.computer/#/webdesktops) or [Virtual Desktop](http://www.virtualdesktop.org/) - *Multiple OS Emulators*
 * [WinXP.now](https://winxp.now.sh/) - *Windows XP Browser Emulator*
 * [EmuOS](https://emupedia.org/beta/emuos/), [2](https://emupedia.net/beta/emuos/), [3](https://emuos.net/beta/emuos/), [4](https://emuos.org/beta/emuos/) - *Windows 95, 98 & ME Emulator*
@@ -1379,6 +1378,7 @@ General Reading Sites*
 * [SilveOS](https://www.silveos.com/), [AaronOS](https://aaronos.dev/), [Whimsy](https://whimsy.space/), [OS.JS](https://www.os-js.org/), [X-WebDesktop](https://oxoyo.co/X-WebDesktop-Vue/) or [jQuery Desktop](https://desktop.sonspring.com/) - *OS Browser Emulator*
 * [PCE.js](https://jamesfriend.com.au/pce-js/ibmpc-games/) - *PCDOS 5 Emulator* 
 * [Quantum Playground](http://www.quantumplayground.net/) - *Quantum Computer Simulator*
+* [BlueEdge](https://win11.blueedge.me/) - *Windows 11 Browser Simulator*
 
 ***
 
