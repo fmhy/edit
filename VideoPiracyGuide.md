@@ -539,7 +539,7 @@
 
 ## ▷ Drives / Directories 
 
-* **[50TB Mega Drive](https://mega.nz/folder/spMwmDTA#qYCZT7Wq0JqoJpkVsQv36A)**, [2](https://mega.nz/folder/bswnSACT#EeW3b_CV7Es3Rbqim__pQA), [3](https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ) - *Movies* 
+* **[50TB Mega Drive](https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ)** - *Movies* 
 * **[The Criterion Collection](https://mega.nz/folder/Jk8RjIBA#_dTNthUX3LL7OwSaauqIpw)** - *Movies*
 * [DHAKA FTP](http://103.205.233.70/), [2](http://dhakaftp.com/) - *Movies / TV*
 * [Movies, Series... in English](https://redd.it/ns1ejo), [2](https://redd.it/ns1kdi), [3](https://redd.it/nsb38a), [4](https://redd.it/ns2avz), [5](https://redd.it/ns2wcv) - *Movies / TV*
