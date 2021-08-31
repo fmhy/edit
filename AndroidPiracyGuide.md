@@ -34,6 +34,7 @@
 
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Browsers with a focus on Privacy* 
 * [Guardian Project](https://guardianproject.info/) / [2](https://guardianproject.info/fdroid/repo), [Divestos Apps](https://divestos.org/index.php?page=recommended_apps), [CookieJarApps](https://cookiejarapps.com/) or [InviZible](https://github.com/Gedsh/InviZible) - *Privacy Based Apps / Tools* 
+* [SelfPrivacy](https://selfprivacy.org/) - *Self-Hosted Privacy Based Services*
 * [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [Aegis](https://getaegis.app/) or [andOTP](https://github.com/andOTP/andOTP) - *Two-factor authentication* 
 * [Divestos](https://divestos.org/) - *Privacy Based OS*
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - *App Isolation* 
@@ -580,6 +581,7 @@ RSS Player*
 * [Grffe](https://apps.apple.com/ca/app/grffe-wallpapers/id1521368829) - *Static and Live Backgrounds* 
 * [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - *Wallpapers*
 * [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - *Default iOS Wallpapers*
+* [PicsArt++](https://cokernutx.com/ipa-library/download/PicsArt.html) - *Photo Editor*
 * [Iterm](https://github.com/kaneki07/iterm) - *Terminal Emulator*
 * [Universal Control](https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879) - *Universal Remote*
 * [Instdown](https://apps.apple.com/ca/app/instdown-video/id1452076756) - *Download Videos from Social Media* 
