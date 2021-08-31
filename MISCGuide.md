@@ -488,7 +488,7 @@
 * [Simple Science Fitness](https://ss.fitness/calculators) - *Fitness Calculators* 
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - *BMR / TDEE Calculator*
 * [/r/BodyweightFitness](https://www.reddit.com/r/BodyweightFitness) - *Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)*
-* [/r/LoseIt](https://www.reddit.com/r/loseit/) - *Weight Loss Subreddit*
+ * [/r/LoseIt](https://www.reddit.com/r/loseit/) - *Weight Loss Subreddit*
 * [/r/GainI ](https://www.reddit.com/r/gainit/) - *Healthy Weight Gain Subreddit*
 * [/r/Fexibility](https://www.reddit.com/r/flexibility/) - *Flexibility Subreddit*
 * [My Pacer](https://www.mypacer.com/) - *Fitness App / Pedometer*
@@ -763,7 +763,7 @@
 * [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - *Force Enable Right Click*
 * [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) - *Make Non-Hyperlinked URL's Clickable* 
 * [Profile Switcher](https://addons.mozilla.org/en-US/firefox/addon/profile-switcher/) - *Profile Manager* 
-* [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) - *Separate Cookies by Profile* 
+* [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) - *Separate Cookies by Profile / [Guide](https://www.thechiefmeat.com/guides/containers.html)* 
 * [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - *Switch and Override User Agent Header on Firefox Easily*
 * [SoundFixer](https://github.com/myfreeweb/soundfixer) - *Fixes Sites that are too Quiet*
 * [Mute Sites By Default](https://addons.mozilla.org/en-US/firefox/addon/mute-sites-by-default/) - *Mute All Sites by Default* 
