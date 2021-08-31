@@ -20,7 +20,7 @@
 ## ▷ Adblocking Extensions
 
 * **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** / [Extra](https://github.com/gorhill/uBO-Extra), [AdNauseam](https://adnauseam.io/) or [TBlock](https://tblock.codeberg.page/) - *Adblockers*
-* **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** - *Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Duplicate Check](https://abpvn.com/ruleChecker/redundantRuleChecker.html)* 
+* **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** - *Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html)* 
 * **[Adblock Defenders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders)** - *Prevent Sites from Detecting Adblockers / [Test Defenders](https://blockads.fivefilters.org/)*
 * **[SponsorBlock](https://sponsor.ajay.app/)** - *Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)*
 * **[uMatrix](https://github.com/gorhill/uMatrix#umatrix)**, [NoScript](https://noscript.net/) or [ScriptSafe](https://www.andryou.com/scriptsafe) - *Blocks Malicious Scripts*
@@ -60,7 +60,7 @@
 * [ProxyNation](https://www.proxynation.org/)
 * [nixnet DNS](https://docs.nixnet.services/DNS)
 * [ControlD](https://controld.com/) - *DNS Manager*
-* [Spamhaus](https://www.spamhaus.org/) - *DNS Blocklists*
+* [Spamhaus](https://www.spamhaus.org/) or [1Hosts](https://o0.pages.dev/) / [GitHub](https://github.com/badmojr/1Hosts) - *DNS Blocklists*
 * [Phishing Army](https://phishing.army/) - *DNS Phishing Blocklist*
 * [BIND](https://gitlab.isc.org/isc-projects/bind9) - *Portable DNS Protocol*
 * [Maza](https://maza-ad-blocking.andros.dev/) - *Local DNS Adblocking* 
@@ -198,7 +198,10 @@
 * [V2Ray](https://v2ray.com/en/) - *Build your own Privacy Network / [GUI](https://qv2ray.net/), [v2rayN](https://github.com/2dust/v2rayN)* 
 * [Scout](https://www.scout.tel/phone-number-lookup) - *Phone Number Lookup / Safety Check* 
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - *Get Telephone Carrier Data* 
-* [/r/privacy](https://reddit.com/r/privacy) - *Privacy Discussion* 
+* [/r/Privacy](https://reddit.com/r/privacy) - *Privacy Discussion & News Subreddit*
+* [/r/DeGoogle](https://www.reddit.com/r/degoogle) - *Google Alternative Subreddit*
+* [/r/TheHatedOne](https://www.reddit.com/r/thehatedone) - *Privacy News & Tools Subreddit*
+* [/r/PrivacyToolsIO](https://www.reddit.com/r/privacytoolsIO) - *Privacy News & Tools Subreddit*
 * [Privacy.com](https://privacy.com/) - *Make Secure Payments / US only* 
 * [OTPClient](https://github.com/paolostivanin/OTPClient) - *One-Time Password Client* 
 * [ctfs](https://github.com/ctfs/) - *Information Security Competition Writeups*
