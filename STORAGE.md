@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/iGIp64x.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/wjMNRn8.png)** - *For mobile users*
 
 ***
 ***
@@ -230,7 +230,7 @@
 
 #### Bulk File Renamers 
 
-[Advanced Renamer](https://www.advancedrenamer.com/), [theRenamer](http://therenamer.com/), [Hydrus](https://hydrusnetwork.github.io/hydrus/), [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/), [tinyMediaManager](https://www.tinymediamanager.org/), [Bruji](https://www.bruji.com/), [mnamer](https://github.com/jkwill87/mnamer), [Szyszka](https://github.com/qarmin/szyszka), [MediaMonkey](https://www.mediamonkey.com/), [MassiveFileRenamer](https://github.com/IvanRF/MassiveFileRenamer), [Massren](https://github.com/laurent22/massren)
+[Advanced Renamer](https://www.advancedrenamer.com/), [theRenamer](http://therenamer.com/), [Hydrus](https://hydrusnetwork.github.io/hydrus/), [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/), [tinyMediaManager](https://www.tinymediamanager.org/), [Bruji](https://www.bruji.com/), [mnamer](https://github.com/jkwill87/mnamer), [Szyszka](https://github.com/qarmin/szyszka), [MediaMonkey](https://www.mediamonkey.com/), [MassiveFileRenamer](https://github.com/IvanRF/MassiveFileRenamer), [Massren](https://github.com/laurent22/massren), [Renamer](https://github.com/Craftplacer/Renamer)
 
 ***
 
@@ -272,6 +272,13 @@
 #### CanvasBlocker
 
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/), [Chrome](https://chrome.google.com/webstore/detail/nomnklagbgmgghhjidfhnoelnjfndfpd)
+
+
+***
+
+#### Clipboard Managers
+
+[ArsClip](http://www.joejoesoft.com/vcms/97/), [Ditto Clipboard Manager](https://ditto-cp.sourceforge.io/), [clipboardmemo](https://gitlab.com/fabrom/clipboardmemo), [CopyQ](https://hluk.github.io/CopyQ/), [Free Clipboard Viewer](https://freeclipboardviewer.com/), [Clip Angel](https://sourceforge.net/projects/clip-angel/), [xClipper](https://github.com/KaustubhPatange/XClipper), [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots)
 
 ***
 
@@ -484,12 +491,6 @@
 
 ***
 
-#### Hacking Tests / Games
-
-[pwnable](https://pwnable.kr/), [hack.me](https://hack.me/), [ctflearn](https://ctflearn.com/), [gruyere](https://google-gruyere.appspot.com/ ), [root.me](https://www.root-me.org/en/), [hackthebox](https://www.hackthebox.eu/), [hacking-lab](https://www.hacking-lab.com/), [gameofhacks](http://www.gameofhacks.com/), [overthewire](https://overthewire.org/), [microcorruption](https://microcorruption.com/), [xss game](https://xss-game.appspot.com/?utm_source...dium=email), [hackthissite](https://www.hackthissite.org/pages/index/index.php), [crackmes](https://crackmes.one/), [pentest](https://pentest.training/), [hellboundhackers](https://www.hellboundhackers.org/), [hax.tor](http://hax.tor.hu/), [tryhackme](https://tryhackme.com/), [thisislegal](https://thisislegal.com/)
-
-***
-
 #### HiMovies Clones
 
 * https://theshit.me/ 
@@ -507,9 +508,10 @@
 * https://kk01.net/
 * https://myflixerhd.ru/
 * https://myflixer.link/
+* https://myflixer.to/
+* https://myflixer.com/
 * https://ainiesta.com/
 * https://www3.f2movies.to/
-* https://myflixer.com/
 * https://www1.bemovies.to/
 * https://ev01.to/
 * https://flixhd.cc/
