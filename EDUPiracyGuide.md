@@ -144,7 +144,7 @@
 * [Udemy Free Course](https://t.me/udemy_free_cource) - *Udemy Courses* 
 * [Web Dev Courses](https://drive.google.com/drive/folders/17nOoned_J-RzAlCXaHEcEvdQC3LDOCC0) - *Web Development Courses*
 * [6.04 TB Paid [C]ourses](https://mega.nz/folder/vRhSiagQ#H_G_aUZNrbLE5fPtTjPoeQ/folder/TAhQRSqK) - *Marketing Courses / Drive*
-* [hackingworld.best 1.3TB](https://mega.nz/folder/eeIzlAjL#zGa0iHkQJu0JmP4BayAJ3A) - *Marketing Courses* 
+* hackingworld.best - [Marketing](https://mega.nz/folder/eeIzlAjL#zGa0iHkQJu0JmP4BayAJ3A) / [IT](https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg)
 * [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
 * [ProCrack_Team](https://www.mediafire.com/folder/l4w8gcdcqsqtw/ProCrack_Team) - *Marketing Courses*
 * [Udemy - Cybersecurity Collection](https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD) - *Cyber Security Courses*
