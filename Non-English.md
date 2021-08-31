@@ -1169,7 +1169,7 @@
 * [Indian Flac Songs](https://t.me/indianflacsongs) - *Download / Music*
 * [TamilBlasters](https://tamilblasters.unblockit.onl/) - *Torrent / Movies*
 * [indianebooks](https://t.me/indianebooks) - *Books*
-* [Digital Library of India](ttps://dli.sanskritdictionary.com) - *Books*
+* [Digital Library of India](https://dli.sanskritdictionary.com) - *Books*
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - *Radio*
 
 ***
