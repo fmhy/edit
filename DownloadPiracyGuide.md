@@ -108,13 +108,14 @@
 * [TorrentaBC](https://www.torrentabc.com/) or [AZTutorial](https://www.aztutorial.download/) - *Video / Audio / Software / Games / Magazines / Leech Required* 
 * [BadshahUploads](https://badshahuploads.xyz/) - *Video / Audio / Software / Games / Books / Leech Required* 
 * [DownFree4u](https://www.downfree4u.com/), [rapiddowntorrent](https://www.rapiddowntorrent.com/), [ZipFileTorrent](https://www.zipfiletorrent.com/) or [viewdowntorrent](https://www.viewdowntorrent.com/) - *Video / Audio / Software / Games / Books / Leech Required* 
-* [Redox](http://www.redox.com.ua/) - *Video / Audio / Software / Books / Magazines / Leech Requored* 
+* [Redox](http://www.redox.com.ua/) - *Video / Audio / Software / Books / Magazines / Leech Required* 
 * [de.ddl](https://en.ddl.me//) - *Video / Games / Books*
 * [The Ambassador](https://ambassadorddl.site/) - *Video / Games / Books*
 * [WarzesLover](https://www.warezlover.org/) - *Video / Audio / NSFW* 
 * [Light Downloads](https://www.lightdl.xyz/) - *Video / Software / Games*   
 * [sarzamindownload](https://www.sarzamindownload.com/) - *Software / Games / Android* 
 * [FrostClick](https://www.frostclick.com/wp/) - *Video / Audio / Software / Games / Books* 
+* [KapitalSin](https://kapitalsin.com/) - *Software / Games*
 * [Uloz](https://ulozto.net/) - *Video / Audio* 
 * [ShareMania](http://sharemania.us/) - *Video / Audio* 
 * [Heidoc](https://www.heidoc.net/joomla/) - *Software / Books / Android* 
@@ -230,6 +231,7 @@
 * [SnapFiles](https://www.snapfiles.com/freeware/) - *Software*
 * [Soft112](https://www.soft112.com/) - *Software* 
 * [IcecreamApps](https://icecreamapps.com/) - *Software* 
+* [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html) - *Software*
 * [Nirsoft](https://www.nirsoft.net/) - *Windows Software* 
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software Index* 
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software*  
@@ -250,6 +252,7 @@
 ## ▷ Linux Software
 
 * [Awesome Linux](https://github.com/inputsh/awesome-linux), [2](https://luong-komorebi.github.io/Awesome-Linux-Software/) 
+* [FlabHub](https://flathub.org/)
 * [ArchLinux](https://wiki.archlinux.org/title/List_of_applications)
 * [App Outlet](https://app-outlet.github.io/)
 * [SnapCraft](https://snapcraft.io/store) 
