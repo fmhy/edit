@@ -44,7 +44,7 @@
 * [Just Hear It](http://justhearit.com/hear/Iv) - *Browser Music*
 * [SoundClick](https://www.soundclick.com/default.cfm) - *Browser Music*
 * [Tancpol](https://tancpol.net/) - *Browser Music*
-* [MP3 Quack](https://mp3quack.live/) - *Browser Music*
+* [MP3 Quack](https://mp3quack.lol/) - *Browser Music*
 * [hypem](https://hypem.com/popular) - *Rising*
 * [datpiff](https://www.datpiff.com/) - *Mixtapes*
 * [pumpyouup](http://www.pumpyouup.com/) - *Indie Dubstep*
@@ -212,7 +212,7 @@
 * [Music Pleer](https://musicpleer.cloud/) - *MP3*
 * [Playit.pk](https://playit.pk/) - *MP3*
 * [SoundClick](https://www.soundclick.com/default.cfm) - *MP3*
-* [MP3 Quack](https://mp3quack.live/) - *MP3*
+* [MP3 Quack](https://mp3quack.lol/) - *MP3*
 * [z1.fm](https://z1.fm/) - *MP3*
 * [PandaCD](https://pandacd.io/) - *MP3*
 * [Tancpol](https://tancpol.net/) - *MP3*
