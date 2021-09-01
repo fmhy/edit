@@ -42,7 +42,6 @@
 * [FlixHub](https://flixhub.net/) - *Movies*
 * [TheMovieBay](https://vww.themoviebay.net/) - *Movies / TV / Videyo*
 * [TheWebFlicks](https://thewebflicks.com/) - *Movies / Streamtape* 
-* [BitCinema](https://bitcines.com/) - *Movies / TV / Anime*
 * [FZMovies](https://fzmovies.net/) - *Movies / [How to Use](https://imgur.com/a/EtLokxO)* 
 * [MoviesForFree](https://movieforfree.co/) - *Movies / TV*
 * [1movies](https://ww2.1movies.is/), [CouchTuner](https://ww1.couchtuner.space/) or [New-Primewire](https://ww1.new-primewire.com/) - *Movies / TV / Anime*
