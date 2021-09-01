@@ -55,7 +55,6 @@
 * [YesMovies.sh](https://yesmovies.sh/) - *Movie / TV / Anime* 
 * [123MoviesFree](https://123moviesfree.net/) - *Movies / TV / Anime* 
 * [Gophie](https://gophie.cam/) - *Movies / TV*
-* [FlixGo](https://flixgo.biz/) - *Movies / TV*
 * [SmFlix](https://smflix.cc/) - *Movies / TV*
 * [StreamLord](http://www.streamlord.com/) - *Movies / TV*
 * [OnionPlay.co](https://onionplay.is/) - *Movies / TV*
@@ -66,6 +65,7 @@
 * [iMovies](https://www.imovies.cc/) - *Movies / TV / Anime*
 * [OkFreeMovies](https://okfreemovies.com/home) - *Movies / TV* 
 * [AllMoviesForYou](https://allmoviesforyou.co/) - *Movies / TV* 
+* [FlixGo](https://flixgo.me/) - *Movies / TV*
 * [Flixtor](https://flixtor.to) or [Filme21](https://filme21.com/) - *Movies / TV / Movies Older Than 6 Months For Premium Only*
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrives_.2F_open_directories) - *Movies / TV / Anime* 
 * [Tubi](https://tubitv.com) - *Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)*
