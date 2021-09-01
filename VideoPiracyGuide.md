@@ -548,7 +548,6 @@
 * [185.105.101.222](http://185.105.101.222/) - *Movies*
 * [a092devs](https://drive.a092devs.workers.dev/0:/) - *Movies / TV / Anime* 
 * [s27.BitDL.ir](http://s27.bitdl.ir/) - *Movies / TV*
-* [DHAKA FTP](http://103.205.233.70/) - *Movies / Drive* 
 * [torrenttempdrive 2](https://torrenttempdrive.hashhackers.com/2:/) - *Movies / TV*
 * [Easy-Movie](https://easy-movie.com.au/cdn/) - *Movies* 
 * [sv.dcnm.ir](https://sv.dcnm.ir/Serial/Foreign/) - *TV* 
