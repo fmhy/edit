@@ -256,20 +256,16 @@
 * [AnimehHub](https://animehub.ac/) - *Sub / Dub*
 * [Animesa](https://animesa.ga/) - *Sub / Dub*
 * [11Anime](https://11anime.fr/) - *Sub / Dub*
-* [NoobSubs](https://noobsubs.com/) - *Sub / Dub / [Drive](https://noobftp1.noobsubs.com/)* 
 * [AnimeLon](https://animelon.com/) - *Sub / Learn Japanese*
 * [because.moe](https://because.moe/) - *Legal Anime Sites Search* 
-* [Aniwoofy](https://aniwoofy.ml/) - *Sub / Dub / [Discord](https://discord.gg/7FbaqBWKzb)* 
 * [Simplyaweeb](https://simplyaweeb.com/) - *Sub / Dub / [Discord](https://discord.gg/4uGvPUV)* 
 * [DubbedAnime](https://ww5.dubbedanime.net/) - *Sub / Dub / [Discord](https://discord.gg/8FyN3w5)*
-* [KissAnime.ac](https://kissanime.nz/) - *Sub / Dub / Not Original KissAnime*
 * [AnimeBam](https://www.animebam.se/) - *Sub / Dub*
 * [KickAssAnime](https://www2.kickassanime.rs/) - *Sub / Dub*
 * [RyuAnime](https://ryuanime.com/) - *Sub / Dub*
 * [Genoanime](https://genoanime.com/) - *Sub / Dub* 
 * [Just Dubs](http://justdubs.org/) - *Dub*
-* [Fastanime](https://fastani.net/) - *Sub* 
-* [Gogo-Stream](https://streamani.net/), [2](https://www3.animeseries.io/), [3](https://gogoanime.sh/), [4](https://gogoanime.vc/), [5](https://animekeyo.com/) - *Sub / Dub*
+* [Gogo-Stream](https://streamani.net/), [2](https://www3.animeseries.io/), [3](https://gogoanime.vc/), [4](https://animekeyo.com/) - *Sub / Dub*
 * [Dubbed Anime](https://ww5.dubbedanime.net/) - *Sub / Dub*
 * [AnimeShow](https://www1.animeshow.tv/) - *Sub*
 * [AnimeRush](https://www.animerush.tv/) - *Sub / Dub*
@@ -282,7 +278,6 @@
 *  [FlixAnime](https://flixani.me/) - *Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)*
 * [AnimeHeaven](https://animeheaven.ru/) - *Sub / Dub* 
 * [AnimeDao](https://animedao.to/) - *Sub*
-* [AnimePill](https://animepill.com/) - *Sub*
 * [Shiro](https://shiro.is/) - *Sub / Dub / [Discord](https://discord.gg/shiro) / [GitHub](https://github.com/Blatzar/shiro-app)* 
 * [Array Anime](https://www.arrayanime.com/) - *Sub / Dub* 
 * [Pantsubase](https://pantsubase.tv/) - *Sub / Dub* 
@@ -292,7 +287,6 @@
 * [DivineAnime](https://www.divineanime.ru/) - *Sub / Dub* 
 * [Animeow.me](https://animeow.me/) - *Sub / Dub* 
 * [Anime OWL](https://animeowl.net/home/) - *Sub / Dub*
-* [KimAnime](https://kimanime.ru/) - *Sub / Dub* 
 * [Anime1](http://www.anime1.com/) - *Sub* 
 * [NetAnime](https://netanime.tv/) - *Sub / Dub* 
 * [tenshi.moe](https://tenshi.moe/) - *Sub / Dub* 
@@ -302,7 +296,6 @@
 * [Anime Simple](https://ww1.animesimple.com/) - *Sub / Dub*
 * [AniWatcher](https://aniwatcher.com/) - *Sub / Dub*
 * [StreamAnimeTV](https://streamanimetv.net/) - *Sub / Dub*
-* [AnimeMovieSpot](https://animemoviespot.com/) - *Sub / Dub* 
 * [DivineAnime](https://www.divineanime.ru/) - *Sub*
 * [AnimeKH](https://animekh.com/) - *Sub* 
 * [cartooncrazy](https://www.cartooncrazy.tv/), [2](http://www.cartooncrazy.net/) - *Anime / Cartoons* 
@@ -590,7 +583,6 @@
 * [Anime Collection (3Tb)](https://drive.google.com/drive/folders/1nQ73oKeE5b50lzyDeszmdLv6rjYFolk5?usp=sharing) - *Sub / Dub / Drive*
 * [Erai-Raws](https://www.erai-raws.info/) - *Sub / [Discord](https://discord.gg/2PfWaar)*
 * [Anime Devil](https://animedevil.com/) - *Sub / Dub / [Telegram](https://groups.google.com/g/animedevil)*
-* [NoobSubs](https://noobsubs.com/) - *Sub / Dub / [Drive](https://noobftp1.noobsubs.com/)*
 * [DameDesuYo](https://damedesuyo.com/) - *Sub*
 * [Chiby](http://www.animechiby.com/) - *Sub*
 * [anime7.download](http://anime7.download/) - *Sub*
