@@ -796,6 +796,7 @@
 * [Kanjiku](https://kanjiku.net/)
 * [Flamescans](https://flamescans.org/)
 * [MangaFreak](https://w11.mangafreak.net/)
+* [Manga-Raw](https://www.manga-raw.club/)
 * [MangaInn](https://mangainn.net/) 
 * [Manganato](https://manganato.com/)
 * [EvilFlowers](http://reader.evilflowers.com/)
