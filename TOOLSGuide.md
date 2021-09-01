@@ -1213,7 +1213,6 @@ General Reading Sites*
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - *How-To Safely Archive Files on Cloud Storage Sites*
 * [megabasterd](https://github.com/tonikelope/megabasterd) - *MEGA Downloader / Uploader / Streaming / Quota Bypass*
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - *Mega Download Script*
-* [Mega Transfer Quota Bypass Script](https://pastebin.com/raw/4AXkE1yE)
 * [GetMega](http://getmega.net/), [2](https://vn.getmega.net/) - *Bypass Mega Speed Limit* 
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) - *Mega to HTTP*
 * [Keep Mega Alive](https://github.com/3ncod3/keep-mega-alive) - *Mega Account Auto-Login*
