@@ -1269,9 +1269,9 @@ General Reading Sites*
 * [Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/), [AllDup](http://www.alldup.info/) or [dupeGuru](https://dupeguru.voltaicideas.net/) - *Duplicate File Finder* 
 * [TMSU](https://github.com/oniony/TMSU) or [SuperTag](https://github.com/amoffat/supertag) - *Tag-Based Filesystem* 
 * [Bulk File Renamers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bulk_file_renamers) - *Easily Rename Multiple Files*
+* [MediaMonkey](https://www.mediamonkey.com/), [tinyMediaManager](https://www.tinymediamanager.org/), [Bruji](https://www.bruji.com/) or [MediaInfo](https://mediaarea.net/en/MediaInfo) - *Get Media Info for Video & Audio Files / [Web App](https://overbits.herokuapp.com/mediainfo/)* 
 * [Shoko](https://github.com/shokoanime) - *Anime Catalog Automation* 
 * [Phockup](https://github.com/ivandokov/phockup) - *Organize Photo / Video Files by Date* 
-* [MediaInfo](https://mediaarea.net/en/MediaInfo) - *Get Media Info for Video and Audio Files / [Web App](https://overbits.herokuapp.com/mediainfo/)* 
 * [Compression Programs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_compression_programs) - *Compress and Unzip files*
 * [WeCompress](https://www.wecompress.com/) - *Online File Compressor* 
 * [czkawka](https://github.com/qarmin/czkawka) - *Remove Unnecessary Files* 
