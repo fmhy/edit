@@ -15,6 +15,7 @@
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Courses / Infinite trial by clearing cookies & making new account*
 * **[freeCodeCamp](https://www.freecodecamp.org/)** - *Programming / Courses / Interactive*
 * **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - *Read / Download programming books* 
+* [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - *Git Learning Game*
 * [Developer.Mozilla](https://developer.mozilla.org/) - *Developer Resources* 
 * [Python Discord](https://pythondiscord.com/resources/) - *Python Learning Resources*
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - *Python Guide*
@@ -31,6 +32,7 @@
 * [Programiz](https://www.programiz.com/) - *Programming / Coding Tutorials*
 * [GeeksforGeeks](https://www.geeksforgeeks.org/) - *Programming / Coding Tutorials*
 * [30 Seconds of Code](https://www.30secondsofcode.org/) - *Coding Snippets / Guides* 
+* [Tuts 4 You](https://forum.tuts4you.com/) - *Coding / Developer Tutorials*
 * [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/) - *Cheat Sheets / Programming / Frameworks / Dev Tools*
 * [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) - *Resources For Learning To Code* 
 * [EbookFoundation Interactive Programming Tuts](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md) - *Interactive Programming Tutorials* 
@@ -70,6 +72,7 @@
 * [Publish Something Online](https://publishsomething.online/) - *Site Development Guides*
 * [LandChad](https://landchad.net/) - *Site Development Guide*
 * [Web Dev Courses](https://drive.google.com/drive/folders/17nOoned_J-RzAlCXaHEcEvdQC3LDOCC0) - *Web Development Courses*
+* [Web Skills](https://andreasbm.github.io/web-skills/) - *Web Development Guides*
 * [WeCreators](https://www.wecreators.co/creators-tools) - *Site Development / Influencer Courses*
 * [How-to Host Questionable Websites](https://weboas.is/media/host.png) - *Guide / [PDF](https://weboas.is/media/host.pdf)*
 * [Learn Git Branching](https://learngitbranching.js.org/) - *Interactive Git Branching Guide*
@@ -89,6 +92,7 @@
 * [free-for.dev](https://free-for.dev/) - *Developer Tools*
 * [WebdevHome](https://webdevhome.github.io/), [Free Dev stuff](https://freestuff.dev/) or [Tiny Tools](https://tinytools.directory/) - *Programming / Developer Tools*
 * [ReverseEagle](https://forge.tedomum.net/groups/ReverseEagle/-/archived), [2](https://web.archive.org/web/20210116205638/https://developers.reverseeagle.org/) - *Privacy Focused Developer Software*
+* [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - *Open Source Development Software*
 * [Student Developer Pack](https://education.github.com/pack) - *Free Developer Tools for Students* 
 * [Libera Chat](https://libera.chat/) - *IRC Network for Project Collaboration*
 * [CodeProject](https://www.codeproject.com/) - *Developer Forum / Q&A / Articles* 
@@ -200,6 +204,7 @@
 * [Read the Docs](https://readthedocs.org/) - *Make Documentation for your Software*
 * [Inno Setup](https://jrsoftware.org/isinfo.php) - *Windows Program Installer*
 * [Flatpak](https://flatpak.org/) - *Create & Distribute Linux Applications*
+* [WTFPL](http://www.wtfpl.net/) - *Free Software Licenses*
 
 ***
 
@@ -276,7 +281,7 @@
 * [GitKraken](https://www.gitkraken.com/) or [Sourcetree](https://www.sourcetreeapp.com/) - *Git GUI*
 * [Codeberg](https://codeberg.org/), [Giters](https://www.giters.com/) or [GitGud](https://gitgud.io/) - *Git Hosting*
 * [Git / Github Guide](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
-* [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - *Git Learning Game*
+* [GitBook](https://www.gitbook.com/) - *Document Collaboration*
 * [Refined GitHub](https://github.com/sindresorhus/refined-github) - *Simplifies GitHub Interface & Adds Features* 
 * [github1s](https://github1s.com/) - *GitHub Code Viewer / GUI: do `gitk` in repo folder* 
 * [git](https://git-scm.com/) - *Version Control System*
@@ -317,6 +322,7 @@
 
 ## ▷ Color Schemes
 
+* [SpyColor](https://www.spycolor.com/) - *Color Model Conversions*
 * [Colorful](https://github.com/Siddharth11/Colorful) - *Curated List of Color Scheme Resources* 
 * [Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/) or [Coolors](https://coolors.co/) - *Color Palette Generator*
 * [ColorsAndFonts](https://www.colorsandfonts.com/) - *Quickly Copy Colors & Typography Combinations* 
@@ -345,7 +351,8 @@
 * [Regex101](https://regex101.com/) - *Regex Editor / Debugger* 
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - *Creative Coding Resource Index* 
 * [Algorithm Visualizer](https://algorithm-visualizer.org/) - *Visualize Code Algorithms* 
-* [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Brackets](http://brackets.io/), [Notepad2](https://www.flos-freeware.ch/notepad2.html) or [Light Table](http://lighttable.com/) - *Code Editor* 
+* [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Lite XL](https://lite-xl.github.io/), [Brackets](http://brackets.io/), [Notepad2](https://www.flos-freeware.ch/notepad2.html) or [Light Table](http://lighttable.com/) - *Code Editor* 
+* [WebDen](https://webden.dev/) - *Code Playground*
 * Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Config](https://github.com/ChristianChiarulli/LunarVim)
 * [Vim Plug](https://github.com/junegunn/vim-plug), [Vim Pathogen](https://github.com/tpope/vim-pathogen), [Vundle](https://github.com/VundleVim/Vundle.vim ), [Dein](https://github.com/Shougo/dein.vim) - *Vim Plugin Managers*
 * [VimAwesome](https://vimawesome.com/) - *Vim Plugin Search*
@@ -381,6 +388,7 @@
 * [Carbon](https://carbon.now.sh/) - *Source Code Screenshots*
 * [Code::Stats](https://codestats.net/) - *Programmer Stat Tracking*
 * [Tables Generator](https://www.tablesgenerator.com/) - *Generates Tables in Various Languages*
+* [pueue](https://github.com/Nukesor/pueue) - *Shell Command Manager*
 
 ***
 
@@ -397,6 +405,7 @@
 * [Openshift](https://che.openshift.io/) - *Cloud IDE / Eclipse Che* 
 * [replit](https://replit.com/) - *Browser Based IDE*
 * [KDevelop](https://www.kdevelop.org/) - *Cross Platform IDE*
+* [bloop](https://bloop.ai/) - *IDE AI Suggestion Extension*
 * [JDFiddle](https://jsfiddle.net/ ), [W3Schools](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python), [CollabEdit](http://collabedit.com/), [Portacode](https://portacode.com/), [IDE One](https://www.ideone.com/), [SoloLearn](https://www.sololearn.com/) / [Playground](https://code.sololearn.com/), [JSFiddle](https://jsfiddle.net/) or [PlayCode](https://playcode.io/) - *Online Code Editor* 
 * [glot.io](https://glot.io/) - *Pastebin with Runnable Snippets, API & Compiler* 
 * [Mystb.in](https://mystb.in/) - *Code Pastebin*
