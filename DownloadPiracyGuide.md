@@ -291,8 +291,6 @@
 * [GFxtra](https://www.gfxtra31.com/)
 * [Allday](https://allday1.com/)
 * [GFX-Hub](https://gfx-hub.net/)
-* [PixelBrush](https://pixelbrush.ru/) 
-* [Download Pirate](https://www.downloadpirate.com/)
 * [GoDownloads](https://godownloads.net/) 
 * [GFXDownload](http://gfxdownload.com/)
 
