@@ -177,7 +177,7 @@
 * [FileVault](https://support.apple.com/en-us/HT204837) - *Mac Disk Encryption* 
 * [Cryptomator](https://cryptomator.org/), [Boxcryptor](https://www.boxcryptor.com/en/), [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) or [Filen](https://filen.io/) - *Cloud File Encryption*
 * [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/), [Skytransfer](https://skytransfer.hns.siasky.net) or [upload-vaa](https://upload.vaa.red/) - *Encrypted File Host* 
-* [EncFS MP](https://encfsmp.sourceforge.io/index.html), [CipherShed](https://www.ciphershed.org/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - *File Encryption Tool* 
+* [EncFS MP](https://encfsmp.sourceforge.io/index.html), [CipherShed](https://www.ciphershed.org/), [Kryptor](https://www.kryptor.co.uk/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - *File Encryption Tool* 
 * [RemoteStream](https://remotestre.am/) - *Encrypt your Google Drive links* 
 * [PDFEncrypt](https://pdfencrypt.net/) - *PDF File Encryption*
 * [GnuPG](https://www.gnupg.org/index.html) or [GPGTools](https://gpgtools.org/) - *Encrypt & Sign Data / Communications* 
