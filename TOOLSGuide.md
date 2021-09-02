@@ -108,7 +108,7 @@
 * [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB), [GoogleKeepClone](https://github.com/anselm94/googlekeepclone) or [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) / [Github](https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App* 
 * [Glory Todo Desktop](https://github.com/yessGlory17/glory_todo_desktop) or [OpenToDoList](https://gitlab.com/rpdev/opentodolist) - *To-Do App* 
 * [Notion](https://www.notion.so/) - *Notes / Tasks / Wikis / Databases*
-* [Microsoft Office](https://tb.rg-adguard.net/public.php) / [Activation](http://github.com/massgravel/Microsoft-Activation-Scripts/releases), [LibreOffice](https://www.libreoffice.org/), [FreeOffice](https://www.freeoffice.com/en/), [Office Tool Plus](https://otp.landian.vip/en-us/), [SSuite](https://www.ssuitesoft.com/software/ssuiteexcalibur.htm) or [OpenOffice](https://www.openoffice.org) - *Office Suite*
+* [Microsoft Office](https://tb.rg-adguard.net/public.php) / [Activation](http://github.com/massgravel/Microsoft-Activation-Scripts/releases) / [Guide](https://rentry.org/officeguidefornoobs), [LibreOffice](https://www.libreoffice.org/), [FreeOffice](https://www.freeoffice.com/en/), [Office Tool Plus](https://otp.landian.vip/en-us/), [SSuite](https://www.ssuitesoft.com/software/ssuiteexcalibur.htm) or [OpenOffice](https://www.openoffice.org) - *Office Suite*
 * [Office 365 Activation / Tutorial](https://youtu.be/ScL4qjE5-TE) - *[Activators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_onedrive_generators)*
 * [OfficeRTool](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/) - *Office 2016 Activation Tool* 
 * [OfficeDocs](https://www.offidocs.com/) - *Runs Desktop / Mobile Apps Online*
@@ -485,6 +485,7 @@
 * [Signature Maker](https://signature-maker.net/) - *Digital / Email Signature Maker* 
 * [FreeMail](https://extrassl.actalis.it/portal/uapub/freemail?lang=en) - *Free Mail Certificate*
 * [FaxZero](https://faxzero.com/) - *Free Internet Faxing* 
+* [Democaptcha](http://democaptcha.com/demo-form-eng/hcaptcha.html) or [ReCAPTCHA Demo](https://www.google.com/recaptcha/api2/demo) / [GitHub](https://patrickhlauke.github.io/recaptcha/) - *Captcha Demo's*
 * [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/) - *Helps Generate Privacy Policies* 
 * [NetLib.re](http://netlib.re/) or [EU.org](https://nic.eu.org/) - *Free Subdomains* 
 * [Misc-Download-Scripts](https://github.com/simon987/Misc-Download-Scripts) - *Download Scripts for Multiple Sites*
@@ -1043,7 +1044,7 @@ General Reading Sites*
 * [Hyper](https://github.com/nodgear/Hyperbar) or [Awesome](https://github.com/nodgear/Awesome) - *Taskbar Replacement*
 * [CircleDock](http://circledock.wikidot.com/) - *Circular Dock*
 * [Clover](http://en.ejie.me/) or [QTTabBar](http://qttabbar.wikidot.com/) - *Windows Explorer Tabs*
-* [Total Commander](https://www.ghisler.com/), [Everything](https://voidtools.com/) or [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - *Improved File Manager / Explorer*
+* [Total Commander](https://www.ghisler.com/), [Everything](https://voidtools.com/), [OldNewExplorer](https://m.majorgeeks.com/files/details/oldnewexplorer.html) or [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - *Improved File Manager / Explorer*
 * [WinFile](https://github.com/microsoft/winfile) - *Original Windows File Manager* 
 * [Multi Commander](http://multicommander.com/) - *Multi-Tabbed File Manager*
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - *Quickly Change Power Schemes*
