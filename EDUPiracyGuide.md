@@ -411,7 +411,7 @@
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - *5-Minute Audio Lessons / iOS*
 * [Lucid](https://apps.apple.com/us/app/lucid-learn-visually/id1482780647) - *Visual Learning Guides / iOS*
 * [Papers.Xtreme](https://papers.xtremepape.rs/) - *Test Revision Notes & Answers*
-* [The SAT: Practice Test 3](https://collegereadiness.collegeboard.org/pdf/sat-practice-test-3.pdf) - *SAT Practice Test*
+* [SAT QAS](https://www.dropbox.com/sh/fl4d7vyv09z0pzi/AAAd7tblEzFZWftbtu3bw1Y-a?dl=0) or [The SAT: Practice Test 3](https://collegereadiness.collegeboard.org/pdf/sat-practice-test-3.pdf) - *SAT Practice Tests*
 * [CrackAP](https://www.crackap.com/) - *Practice AP Exams*
 * [/r/ApStudents Resources](https://drive.google.com/open?id=1mPT8O9Nou4udtUQOl0W8dk5JgeRNZHSI) - *Former AP Exams*
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - *AP Exam Comparison Spreadsheet*
