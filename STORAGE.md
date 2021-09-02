@@ -222,9 +222,15 @@
 
 ***
 
+#### Browser EBook Readers
+
+[fViewer](https://www.fviewer.com/), [Reader View](https://add0n.com/chrome-reader-view.html) / [2](https://mybrowseraddon.com/reader-view.html), [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/), [EpubPress](https://epub.press/), [ePubReader](https://www.epubread.com/en/), [Mercury](https://mercury.postlight.com/), [LoudReader](https://www.loudreader.com/), [ReadWok](https://readwok.com/), [2read](https://2read.net/)
+
+***
+
 #### Bookmark Managers
 
-[saved.io](https://saved.io/), [BookmarkOS](https://bookmarkos.com/), [Bookmarkify](https://bookmarkify.it/) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/bookmarkos/), [Patchwork](http://patchworkapp.com/), [start.me](https://start.me/start/int/startpage), [buku](https://github.com/jarun/buku), [Booky](https://booky.io/), [Raindrop](https://raindrop.io/)
+[saved.io](https://saved.io/), [BookmarkOS](https://bookmarkos.com/), [Bookmarkify](https://bookmarkify.it/) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/bookmarkos/), [Patchwork](http://patchworkapp.com/), [start.me](https://start.me/start/int/startpage), [buku](https://github.com/jarun/buku), [Booky](https://booky.io/), [Raindrop](https://raindrop.io/), [WebCrate](https://webcrate.app/)
 
 ***
 
@@ -349,7 +355,7 @@
 
 #### Encrypted Email Services
 
-**[ProtonMail](https://protonmail.com/)** / [Client](https://github.com/Steccas/ProtonClient) / [.onion](https://protonirockerxow.onion/) / [Account Creator](https://github.com/hendrikbgr/ProtonMail-Account-Creator), [Enigmail](https://www.enigmail.net/index.php/en/), [Private-Mail](https://privatemail.com/), [ShazzleMail](https://shazzlemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [secMail (tor)](http://secmailw453j7piv.onion/src/login.php), [TorBox (tor)](http://torbox3uiot6wchz.onion/), [sigaintevyh2rzvw](http://sigaintevyh2rzvw.onion/), [CTemplar](https://ctemplar.com/) / [Invite](https://i.imgur.com/0vODE91.png) / [Invite 2](https://redd.it/gycqbd), [Tilda](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [Tutanota](https://tutanota.com/), [GMX](https://www.gmx.com/), [NeoMailBox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [mailpile](https://www.mailpile.is/), [MSGSafe](https://www.msgsafe.io/), [MsgSafe](https://www.msgsafe.io/), [SecureNym](http://www.securenym.net), [TheHelm](https://thehelm.com/)
+**[ProtonMail](https://protonmail.com/)** / [Client](https://github.com/Steccas/ProtonClient) / [.onion](https://protonirockerxow.onion/) / [Account Creator](https://github.com/hendrikbgr/ProtonMail-Account-Creator), [Enigmail](https://www.enigmail.net/index.php/en/), [Private-Mail](https://privatemail.com/), [ShazzleMail](https://shazzlemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [secMail (tor)](http://secmailw453j7piv.onion/src/login.php), [TorBox (tor)](http://torbox3uiot6wchz.onion/), [sigaintevyh2rzvw](http://sigaintevyh2rzvw.onion/), [CTemplar](https://ctemplar.com/) / [Invite](https://i.imgur.com/0vODE91.png) / [Invite 2](https://redd.it/gycqbd), [Tilda](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [Tutanota](https://tutanota.com/), [GMX](https://www.gmx.com/), [NeoMailBox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [mailpile](https://www.mailpile.is/), [MSGSafe](https://www.msgsafe.io/), [MsgSafe](https://www.msgsafe.io/), [SecureNym](http://www.securenym.net), [TheHelm](https://thehelm.com/), [OnMail](https://www.onmail.com/)
 
 ***
 
@@ -396,7 +402,7 @@
 
 * **[JDownloader](https://jdownloader.org/jdownloader2)** / [Dark Theme](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/) / [Debloating](https://rentry.org/jdownloader2)
 * [Motrix](https://www.motrix.app/) / [Extension](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix)
-* [IDM](https://filecr.com/?s=Internet+Download+Manager+%28IDM%29) / [IDMHelper](https://github.com/unamer/IDMHelper) / [Trial Reset](https://github.com/J2TEAM/idm-trial-reset) / [Fix](https://libredd.it/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/)
+* [IDM](https://rentry.org/IDM), [2](https://filecr.com/?s=Internet+Download+Manager+%28IDM%29) / [IDMHelper](https://github.com/unamer/IDMHelper) / [Trial Reset](https://github.com/J2TEAM/idm-trial-reset) / [Fix](https://libredd.it/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/)
 * [XDM](https://github.com/subhra74/xdm), [2](https://subhra74.github.io/xdm/)
 * [pyLoad](https://pyload.net/)
 * [wfdownloader](https://www.wfdownloader.xyz/)
@@ -584,7 +590,7 @@
 * [Anonymous Stories & Downloader](https://chrome.google.com/webstore/detail/anonymous-stories-downloa/bcaioajpddeekboecakpghnpedicjmfj/related) - *Picture / Video / Story Downloader*
 * [StoriesDown](https://storiesdown.com/ ) - *Story Downloader*
 * [InstaDP](https://www.instadp.com/) or [Instagram-crawler](https://github.com/hehpollon/Instagram-crawler) - *Picture / Story Downloader* 
-* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [Instagram-Scraper](https://github.com/arc298/instagram-scraper), [DownloadGram](https://downloadgram.com/), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [InstaLooter](https://github.com/althonos/InstaLooter), [Instaloader](https://github.com/instaloader/instaloader) or [YooYing](https://www.yooying.com/instagram-downloader) - *Picture / Video Downloader*
+* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [Instagram-Scraper](https://github.com/arc298/instagram-scraper), [DownloadGram](https://downloadgram.com/), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [InstaLooter](https://github.com/althonos/InstaLooter), [Instaloader](https://github.com/instaloader/instaloader), [InstaSave](https://github.com/sameera-madushan/InstaSave) or [YooYing](https://www.yooying.com/instagram-downloader) - *Picture / Video Downloader*
 * [4K Stogram](https://www.4kdownload.com/products/product-stogram) or [InstaLoader](https://instaloader.github.io/) - *Picture Downloader* 
 * [PyInstaLive](https://github.com/dvingerh/PyInstaLive) - *Download Instagram Livestreams / Replays* 
 * [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - *ID Finder*
@@ -772,6 +778,7 @@ Add the following commands to a search to manually scrape each site.
 **Kodi**
 
 * [Kodi](https://kodi.tv/) - *Media Server / Streaming App*
+* [Builds Chart](https://kodiapps.com/builds-chart) - *Kodi Builds*
 * Kodi Addons - [/r/Addons4Kodi](https://reddit.com/r/Addons4Kodi), [Addon Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) /  [2](https://kodiapps.com/addons-chart)
 * [MMA](https://www.bestkoditips.com/best-kodi-addons-to-watch-ufc-online/) - *MMA App*
 * [KDrama](https://aznhusband.github.io/) or [cywteow](https://cywteow.github.io/) - *KDrama Apps*
@@ -1435,7 +1442,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Spotify Tools
 
-[Block Ads](https://github.com/mrpond/BlockTheSpot), [2](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/), [3](https://github.com/Lyut/SpotiHook2), [4](https://github.com/amd64fox/SpotX) / [Lyrics](https://versefy.app/) / [Spicetify](https://github.com/khanhas/spicetify-cli), [2](https://github.com/khanhas/Spicetify) / [Spicetify Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Dedup](https://spotify-dedup.com/) / [Hotkeys](https://github.com/aleab/toastify) / [Colorize](https://colorify.live/) / [Backup](http://www.spotmybackup.com/) / [Library Size](https://opslagify.deruever.nl/) / [Listening Stats](https://www.statsforspotify.com/) / [Plex Player](https://github.com/fuzeman/Spotify2.bundle) / [Disable Updates](https://www.filedropper.com/spotifydisableautoupdateswithrevert ) / [Ad Host Files](https://gist.github.com/teomaragakis/cb187d880c9a3ca2c8a2), [2](https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57) / [Song Country Search](https://kira.vercel.app/)
+[Block Ads](https://github.com/mrpond/BlockTheSpot), [2](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/), [3](https://github.com/Lyut/SpotiHook2), [4](https://github.com/amd64fox/SpotX) / [Lyrics](https://versefy.app/) / [Spicetify](https://github.com/khanhas/spicetify-cli), [2](https://github.com/khanhas/Spicetify) / [Spicetify Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Dedup](https://spotify-dedup.com/) / [Hotkeys](https://github.com/aleab/toastify) / [Colorize](https://colorify.live/) / [Backup](http://www.spotmybackup.com/) / [Library Size](https://opslagify.deruever.nl/) / [Listening Stats](https://www.statsforspotify.com/), [2](https://volt.fm/) / [Plex Player](https://github.com/fuzeman/Spotify2.bundle) / [Disable Updates](https://www.filedropper.com/spotifydisableautoupdateswithrevert ) / [Ad Host Files](https://gist.github.com/teomaragakis/cb187d880c9a3ca2c8a2), [2](https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57) / [Song Country Search](https://kira.vercel.app/)
 
 ***
 
@@ -1953,7 +1960,7 @@ Good for finding classic, obscure & short films.
 
 **Wallpaper Managers**
 
-* [Wallpaper Engine](https://steamunlocked.net/?s=wallpaper+engine) / [Discord](https://discord.gg/3e6D3mXEhN)
+* [Wallpaper Engine](https://rentry.org/WallpaperEngine), [2](https://steamunlocked.net/?s=wallpaper+engine) / [Discord](https://discord.gg/3e6D3mXEhN)
 * [SuperDuperWallpaper](https://gitlab.com/sech1p/superduperwallpaper)
 * [ScreenPlay](https://screen-play.app/) 
 * [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper)
@@ -2011,6 +2018,7 @@ Good for finding classic, obscure & short films.
 * [Windows 10 LTSC](https://drive.google.com/file/d/1Tg7ovGu8lZlV_2PEQN6hQ3s5U8rckHmc/view?usp=sharing),  [2](https://mega.nz/folder/ChNTDaiL#nNqH2PTfIzTLAEs8nc-U0w) - *Bloat / Telemetry Free Windows 10 / r/Windows10LTSC / [Guide](https://supreme-gamers.com/t/windows-10-ltsc-the-best-windows-10-version-ever.845/)*
 * [Windows 10 Performance Edition](https://mega.nz/file/4JkCwYJB#ghB08_PppoMdl3t2F-9-hzNtBDgrw8gwM6MsUx1koZ0), [2](https://1fichier.com/?cxqd57d6vfpot5x6v9ft) - *No Cortana, Onedrive, Telemetry, Spying ect. / [Updates & Install Guide](https://weboas.is/forum/index.php?topic=2068.0)*
 * [OldSchoolOS](https://www.oldschoolos.com/), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - *Oldschool ISO's*
+* [MediaCreationTool.bat](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15) - *Media Creation Tool Wrapper*
 
 ***
 
@@ -2028,7 +2036,7 @@ Good for finding classic, obscure & short films.
 
 #### YouTube to MP3
 
-**[YouTube-DL](https://github.com/ytdl-org/youtube-dl)**, [YTMDL](https://ytmdl.deepjyoti30.dev/) / [GitHub](https://github.com/deepjyoti30/ytmdl), [Gramophy](https://github.com/rnayabed/gramophy), [MP3 YouTube](https://mp3-youtube.download/en/audio-easy-converter), [youtubetomp3music](https://youtubetomp3music.com/), [YTMP3](https://ytmp3.cc/), [ddownr (Playlists)](https://ddownr.com/), [mps-youtube](https://github.com/mps-youtube/mps-youtube), [Spotify-Downloader](https://github.com/spotDL/spotify-downloader), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [YouTube to MP3 Converter](https://www.mediahuman.com/youtube-to-mp3-converter/), [loader](https://loader.to/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [DeURL](http://deturl.com/), [Yout](https://yout.com/), [FLVto](https://www.flvto.biz/en83/), [FreeMake](https://www.freemake.com/free_video_downloader/), [AudioJack](http://blue9.github.io/AudioJack-GUI/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [convertmp3](https://www.convertmp3.cc/), [YouTubeMultiDownloader (playlists)](https://youtubemultidownloader.net/index.html), [onlinevideoconverter](https://onlinevideoconverter.pro/), [kharasach](http://www.kharasach.com/)
+**[YouTube-DL](https://github.com/ytdl-org/youtube-dl)**, [YTMDL](https://ytmdl.deepjyoti30.dev/) / [GitHub](https://github.com/deepjyoti30/ytmdl), [Gramophy](https://github.com/rnayabed/gramophy), [MP3 YouTube](https://mp3-youtube.download/en/audio-easy-converter), [youtubetomp3music](https://youtubetomp3music.com/), [YTMP3](https://ytmp3.cc/), [ddownr (Playlists)](https://ddownr.com/), [mps-youtube](https://github.com/mps-youtube/mps-youtube), [Spotify-Downloader](https://github.com/spotDL/spotify-downloader), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [YouTube to MP3 Converter](https://www.mediahuman.com/youtube-to-mp3-converter/), [loader](https://loader.to/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [DeURL](http://deturl.com/), [Yout](https://yout.com/), [FLVto](https://www.flvto.biz/en83/), [FreeMake](https://www.freemake.com/free_video_downloader/), [AudioJack](http://blue9.github.io/AudioJack-GUI/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [convertmp3](https://www.convertmp3.cc/), [YouTubeMultiDownloader (playlists)](https://youtubemultidownloader.net/index.html), [onlinevideoconverter](https://onlinevideoconverter.pro/), [kharasach](http://www.kharasach.com/), [yt-mp3s](https://www.yt-mp3s.com/)
 
 **YT-DL Tools**
 
