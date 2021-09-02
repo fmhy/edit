@@ -293,6 +293,7 @@ App Manager
 * [Raccoon](https://raccoon.onyxbits.de/) - *Private APK Downloader*
 * [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - *Command line APK Download tool*
 * [Blackmod](https://blackmod.net/) - *Modded Game APKs*
+* [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - *Android Vehicle Apps*
 * [App filter](https://appfilter.net/) - *Play Store Advanced Search*
 * [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - *App Giveaway Sites*
 * [How-to Install Play Store Apps from Other Countries](https://rentry.co/29s6v)
@@ -557,6 +558,7 @@ RSS Player*
 * [Drafts](https://getdrafts.com/) or [Bear](https://apps.apple.com/us/app/bear/id1016366447) - *Note Taking App*
 * [The Fucking Weather](https://alcohollick.com/the-fucking-weather) - *Weather App*
 * [CocaoTop](https://github.com/D0m0/CocoaTop) - *iOS Process Viewer*
+* [iSH Shell](https://apps.apple.com/us/app/ish-shell/id1436902243) - *Linux-like iOS Shell*
 * [Fantastical](https://apps.apple.com/app/fantastical-2-for-iphone/id718043190?ls=1) - *Calendar & Tasks App*
 * [3uTools](http://www.3u.com/) - *iOS Manager for Windows*
 * [NoMoreSmallApps](https://www.sparkdev.me/package/com.spark.nomoresmallapps) - *Force App Full Screen / [Discord](https://discord.com/invite/tvvJfbD)*
