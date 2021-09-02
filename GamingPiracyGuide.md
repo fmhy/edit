@@ -14,7 +14,7 @@
 * **[Game Download Sites Search](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)** - *Search multiple sites at once*
 * **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)*
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "games" or "roms"*
-* **[FitGirl Repacks](https://fitgirl-repacks.site/)**
+* **[FitGirl Repacks](https://fitgirl-repacks.site/)** - *[Discord](https://discord.com/invite/GmTJ5Rm)*
 * **[Masquerade Repacks](https://masquerade.site/)** - *[Discord](https://discord.gg/HP5sQ6c)*
 * **[SteamUnlocked](https://steamunlocked.net/)** - *Use Adblocker / [Release Tracker](https://github.com/N-O-E-D/Steamunlocked)*
 * **[Steam Underground](https://cs.rin.ru/)** - *[Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Status](https://csrinstaff.writeas.com/)*
@@ -88,7 +88,7 @@
 * **[Game Torrent Sites Search](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** - *Search multiple sites at once*
 * **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)*
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "games" or "roms"*
-* **[FitGirl Repacks](https://fitgirl-repacks.site/)**
+* **[FitGirl Repacks](https://fitgirl-repacks.site/)** - *[Discord](https://discord.com/invite/GmTJ5Rm)*
 * **[DODI](http://dodi-repacks.site/)** - *[Discord](https://discord.gg/uE273qJ)*
 * **[ElAmigos Games](https://elamigos.site/)**, [2](https://www.elamigos-games.com/) 
 * **[Black Box Repack](http://www.blackboxrepack.com/)**
@@ -167,6 +167,7 @@
 * [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - *Add More Roms to NES/SNES Classic Mini*
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - *.XBE to ISO File Converter*
 * [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - *Wii Homebrew Installer / [Find MAC](https://www.nintendo.com/consumer/systems/wii/en_na/includes/rvl-ht-int-find-mac-address.jsp)*
+* [WiiU Exploit](https://wiiuexploit.xyz/) - *WiiU Homebrew Installer*
 * [Homebrew Gang](https://thehbg.shop/main.html) - *Switch Homebrew Community*
 * [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - *PS3 Homebrew Subreddit*
 * [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) - *Yuzu Emulator Setup Guide*
