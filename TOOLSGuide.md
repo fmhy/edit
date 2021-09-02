@@ -116,6 +116,7 @@
 * [Ethercalc](https://ethercalc.snopyta.org/), [Baserow](https://gitlab.com/bramw/baserow), [Framacalc](https://accueil.framacalc.org/en/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - *Collaborative Spreadsheet*
 * [Miro](https://miro.com/) - *Collaborative Whiteboard*
 * [Watson](https://speech-to-text-demo.ng.bluemix.net/) - *Speech to Text*
+* [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) - *Text to Handwriting Converter*
 * [Cryptii](https://cryptii.com/) - *Modular Conversion, Encoding & Encryption*
 * [dCode](https://www.dcode.fr/en) - *Message Decoders*
 * [Universal Online Cyrillic Decoder](https://2cyr.com/decode/?lang=en) - *Decode / Recover Scrambled Text into Cyrillic*
@@ -401,7 +402,7 @@
 * [lew.la](https://lew.la/) - *Reddit video DL, YT to MP3 & More Tools* 
 * [SocialBlade](https://socialblade.com/) - *Social Media Statistics*
 * [4stats](https://4stats.io/) - *4chan Board & Thread Stats*
-* [Emotes Everywhere](https://kellphy.com/projects/kee.html) - *Emote Manager*
+* [Emotes Everywhere](https://kellphy.com/projects/kee.html) or [Geniemoji](https://virejdasani.github.io/Geniemoji/) - *Emoji Manager*
 * [Emojipedia](https://emojipedia.org/) - *Emoji Index*
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - *Party Parrot Emojis*
 * [you-get](https://github.com/soimort/you-get) - *Download Media Contents from Webpages* 
@@ -409,6 +410,7 @@
 * [BugMeNot](http://bugmenot.com/) or [Password Login](http://password-login.com/) - *Access and Share logins* 
 * [Voice Dictation](https://dictation.io/) - *Type with your voice* 
 * [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - *Manage / Store Bookmarks*
+* [SeeLink](https://www.seelink.app/) - *Collaborative Bookmarking*
 * [Bort](https://bort.io/) - *Bookmark Manager that Syncs with Dropbox* 
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - *Tools / Apps to Run Flash Programs*
 * [Nativefier](https://github.com/nativefier/nativefier), [Applicationize](https://applicationize.me/now) or [web2desk](https://appmaker.xyz/web2desk/) - *Turn Sites into Desktop Apps* 
@@ -516,6 +518,7 @@
 * [woob](https://woob.tech/) - *Use Sites Without a Browser*
 * [Lagrange](https://github.com/skyjake/lagrange)  - *Gemini Browser
 * [StockBrowser](https://stackbrowser.com/) - *Multi Web App Browser*
+* [NeverInstall](https://neverinstall.com/en-IN) - *Browser OS*
 * [Browserling](https://www.browserling.com/) - *Browser Emulators*
 * [n.eko](https://n.eko.moe/) - *Self-Hosted Virtual Browser*
 * [Safari Windows](https://mega.nz/file/zqoEWZaQ#qNAN8JnV_79gII4ofMs4ZwMAcydZAQw6Gdng_QEyNDw) - *Safari for Windows*
@@ -712,6 +715,7 @@ General Reading Sites*
 ***
 
 * **[Aliucord](https://github.com/Aliucord/Aliucord)** or [Treecord](https://github.com/Treecord/Treecord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client* 
+* [Guilded](https://www.guilded.gg/) or [Revolt](https://revolt.chat/) - *Discord Alternative / [Client Mod](https://github.com/ReGuilded/ReGuilded/)*
 * [BetterDiscord](http://betterdiscord.app/) - *Modifiable Discord Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)*
 * [Ripcord](https://cancel.fm/ripcord/) - *Lighweight Discord & Slack Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ripcord_tools)* 
 * [Powercord](https://powercord.dev/) - *Anti-Telemetry Discord / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_powercord_tools)* 
@@ -743,6 +747,7 @@ General Reading Sites*
 * [Distok](http://distok.top/stickers/) - *Discord Stickers as GIFs* 
 * [Discord Sticker Viewer](https://sticker-view.vercel.app/) - *View / Search Discord Stickers*
 * [Pfps.gg](https://pfps.gg/) - *Free Custom Banners*
+* [Dispatch](https://www.dispatchbot.ml/) - *Group Discord DMs*
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - *Discord Message Encryption*
 * [DiscordFS](https://github.com/dhrumilp15/discordfs) - *Discord File Search*
 * [DeepL](https://github.com/aisuzuki/dd-bot) - *Discord Chat Auto Translator*
@@ -783,6 +788,7 @@ General Reading Sites*
 * [DSC.BIO](https://dsc.bio/) - *Make Awesome Custom Discord Bios* 
 * [DiscordStatus](https://warze.org/discordstatus/) - *Discord Status Art Creator*
 * [DateTimeCord](https://datetimecord.rauf.wtf/) - *Discord Date & Time Fomatting Tool*
+* [Edited Text Mover](https://respecting.github.io/all-things-copying/discord-edited-text-mover) - *Move Edited Text Note*
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - *Automod Bot Config*
 * [Dyno](https://dyno.gg/) - *Change Discord Discriminator w/o Nitro / [How-To](https://i.imgur.com/lHRD42c.png)* 
 * [Discord.ID](https://discord.id/) - *Lookup a Discord User or Bot ID* 
@@ -804,7 +810,7 @@ General Reading Sites*
 * [Discord-Linux](https://discord.gg/discord-linux) - *Discord Linux Chat*
 * [Discover](https://github.com/trigg/Discover) - *Discord Linux Overlay*
 * [Discord-Api](https://discord.gg/discord-api) - *Discord API Chat*
-* [Displace](https://discord.gg/displace) or [OwnersHub](https://ownershub.xyz/) - *Discord Community Management Chat*
+* [OwnersHub](https://ownershub.xyz/) - *Discord Community Management Chat*
 * [Discordia-Development Wiki](https://github.com/Discordia-Development/wiki) - *Discord Moderation Wiki*
 * [Discord Moderator Academy](https://discord.com/moderation) - *Discord Moderator Guide / [Exam](https://discord.com/moderation/exam)*
 * [SnowStamp](https://pixelatomy.com/snow-stamp/) - *Convert Discord Snowflakes to Timestamps*
@@ -819,7 +825,7 @@ General Reading Sites*
 * [Discord Games](https://discord-games.cf/) - *Discord Rickrolling*
 * [DiscordExtras](https://github.com/NotZoeyDev/DiscordExtras) - *Patch iOS Discord Client*
 * [Figma](https://www.figma.com/community/file/992144378612759941/Discord-Resources) - *Discord Resources / [Desktop](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)*
-*  [Revolt](https://revolt.chat/) or [Guilded](https://www.guilded.gg/) - *Discord Alternative / [Client Mod](https://github.com/ReGuilded/ReGuilded/)*
+* [Mon2Cam](https://github.com/ShayBox/Mon2Cam) - *Multi-Monitor DIscord Screenshare Fix*
 
 ***
 
@@ -916,8 +922,9 @@ General Reading Sites*
 * [TweetDeck](https://tweetdeck.twitter.com/) - *Twitter Dashboard*
 * [BackTweets](http://backtweets.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - *Search Twitter* 
 * [Twishort](https://twishort.com/) - *Make Longer Tweets*
+* [Poet.so](https://poet.so/) - *Create Twitter Post Images*
 * [Tweetgen](https://www.tweetgen.com/) - *Create Fake Tweets*
-* [Thread Reader App](https://threadreaderapp.com/) - *Unroll Twitter threads / Search* 
+* [Thread Reader App](https://threadreaderapp.com/) - *Unroll Twitter Threads / Search* 
 * [Treeverse](https://treeverse.app/) - *Twitter Conversation Visualizer* 
 * [Trends Map](https://www.trendsmap.com/), [Twitter Trends](https://twitter-trends.vercel.app/) or [MentionMap](https://mentionmapp.com/) - *Trending Twitter Hashtags / Topics*
 * [Tweeplers](https://www.tweeplers.com/) - *Trending Twitter Users* 
@@ -984,6 +991,7 @@ General Reading Sites*
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - *GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)*
 * [r/TechSupport](https://www.reddit.com/r/techsupport/) - *Tech Support Discussion / [Discord](https://discord.gg/2EDwzWa)* 
 * [GetHuman](http://gethuman.com/) or [ContactFound](https://contactfound.com/) - *Tech Support Numbers*
+* [Disk Prices](https://diskprices.com/) - *Disk Price Comparisons*
 * [CPU Boss](http://cpuboss.com/) - *CPU Comparison Tool*
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - *Mouse Click Latency Chart*
 * [Piper](https://github.com/libratbag/piper) - *Gaming Mouse Config Tool*
@@ -1003,8 +1011,10 @@ General Reading Sites*
 * [TweakUtility](https://github.com/Craftplacer/TweakUtility) - *Windows Tweaking Utility*
 * [SmartWindows](https://smartwindows.app/) - *Create / Restore Windows Profiles* 
 * [VirtualBox](https://www.virtualbox.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - *Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)*
+* [VMWare](https://gist.github.com/rkennesson/2c4595bf062aaab387dccf1210accf98) - *Hide Virtual Machine*
 * [Windows Sandbox](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview) - *Sandbox Environment*
 * [WebCatalog](https://webcatalog.app/) - *Turn Sites into Desktop Apps*
+* [Heimdall](https://heimdall.site/) - *Application Manager*
 * [WinCDEmu](https://wincdemu.sysprogs.org/) - *CD/DVD/BD Emulator*  
 * [SpeedyFox](https://crystalidea.com/speedyfox) - *Optimize Program Performance*  
 * [CCStopper](https://github.com/E-Soda/CCStopper) - *Stop Background Adobe Apps*
@@ -1171,6 +1181,7 @@ General Reading Sites*
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - *Pokemon Terminal Themes*
 * [Windows Media Player Skins](https://web.archive.org/web/20100827223732/http://windows.microsoft.com/en-US/windows/downloads/windows-media-player/skins?T1=all)
 * [Hide File Explorer Dark Mode White Line](https://i.imgur.com/ZZsvyyM.png)
+* [MyDockFinder](https://www.mydockfinder.com/) - *MacOS Theme for Windows 10*
 * [Macdows11](https://redd.it/pd5ha6) - *Windows 11 Mac Theme Guide*
 
 ***
@@ -1249,7 +1260,8 @@ General Reading Sites*
 * [AutoRclone](https://drive.google.com/file/d/11yrXPUfWEP6bAeIw0fibjr-JxeWa-1Da/) / [GitHub](https://github.com/xyou365/AutoRclone) - *Create Google Service Accounts for RClone*
 * [rclone-colab](https://github.com/Pavithran-R/rclone-colab) - *Run Rclone in Colab*
 * [EasyClone](https://github.com/xd003/easyclone) - *Improved RClone Operations Script*
-* [myDrive](https://mydrive-storage.com/) - *Open-Source Cloud File Storage*
+* [myDrive](https://mydrive-storage.com/) - *Cloud File Storage*
+* [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - *HTTP File System*
 * [FolderClone](http://www.folderclone.com/) - *Clone / Backup Folders*
 * [Borg](https://www.borgbackup.org/) - *Deduplicating File Archiver / Backup* 
 * [BackupPC](https://backuppc.github.io/backuppc/), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [UrBackup](https://www.urbackup.org/) or [Duplicati](https://www.duplicati.com/) - *File Backup System* 
@@ -1335,6 +1347,7 @@ General Reading Sites*
 
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) - *Download MacOS*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
+* [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - *MacOS Virtualbox Installer*
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - *Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/)*
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - *UEFI Kexts*
 * [ss64 OSX](https://ss64.com/osx/) - *macOS Bash Commands*
@@ -1411,6 +1424,7 @@ General Reading Sites*
 * [SNES Maps](https://www.snesmaps.com/) - *SNES Game Maps*
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - *Breath of The Wild Map*
 * [Open Game Art](https://opengameart.org/) - *Game Assets / Images* 
+* [The Spriters Resource](https://www.spriters-resource.com/) - *Video Game Sprites*
 * [Random Dice](http://www.dicesimulator.com/) - *Dice Simulator*
 * [Roll20](https://roll20.net/), [Rolisteam](https://rolisteam.org/) or [Astral](https://www.astraltabletop.com/) - *Tabletop RPG Streaming*
 * [FrontierNav](https://frontiernav.net/) - *JRPG Databases & Interative Maps*
