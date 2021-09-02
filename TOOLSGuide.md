@@ -1225,11 +1225,10 @@ General Reading Sites*
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - *How-To Safely Archive Files on Cloud Storage Sites*
 * [megabasterd](https://github.com/tonikelope/megabasterd) - *MEGA Downloader / Uploader / Streaming / Quota Bypass*
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - *Mega Download Script*
-* [GetMega](http://getmega.net/), [2](https://vn.getmega.net/) - *Bypass Mega Speed Limit* 
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) - *Mega to HTTP*
 * [Keep Mega Alive](https://github.com/3ncod3/keep-mega-alive) - *Mega Account Auto-Login*
 * [Unlimited Mega Storage](https://redd.it/ffrkf3) - *Unimited Mega Storage Guide*
-* [MegaBox](https://github.com/ALIILAPRO/megabox) - *Get Direct Links from Mega* 
+* [MegaBox](https://github.com/ALIILAPRO/megabox) or [GetMega](http://getmega.net/) / [2](https://vn.getmega.net/) - *Direct Mega Links* 
 * [GDrive Guides](https://t.me/gdriveguides) - *GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)*
 * [Torrent2Drive](https://t.me/torrent_2_drive), [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - *DDL to GDrive Tool*
 * [GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) - *GoIndex to GDrive Downloader*
