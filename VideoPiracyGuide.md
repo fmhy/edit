@@ -347,7 +347,7 @@
 * [ChannelSurf](https://channelsurf.tv/) - *TV / Sports*
 * [First Row Sports](https://firstsrowsports.tv/) - *Sports*
 * [720pStream](http://720pstream.tv/) - *Sports*
-* [CrackStreams](https://crackstreams.io/), [2](https://crackstreams.me/), [3](http://crackstreams.is/) - *Sports*
+* [CrackStreams](https://crackstreams.io/), [2](https://crackstreams.me/), [3](http://crackstreams.is/), [4](https://crackstreams.to/) - *Sports*
 * [StreamEast](http://www.streameast.live/) - *Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)*
 * [ATDHE](http://atdhe.pro/) - *Sports* 
 * [Cricfree](https://cricfree.sc/) - *Sports* 
