@@ -34,6 +34,7 @@
 * [AIDraw](https://ai-draw.tokyo/en/) - *Turn Photos into Line Drawings* 
 * [primitive.js](https://ondras.github.io/primitive.js/) - *Redraw Images with Geometric Shapes* 
 * [Inpaint](https://theinpaint.com/) - *Remove Objects from Photos* 
+* [Supershots](https://superblog.ai/supershots/) - *Add Backgrounds to Images*
 * [Remove.bg](https://www.remove.bg/), [Rembg](https://github.com/danielgatis/rembg), [Removal.ai](https://removal.ai/upload/) or [Background Burner](https://burner.bonanza.com/) - *Remove Background / [Gimp Plugin](https://github.com/manu12121999/RemoveBG-GIMP) unlimited accounts w/ [Temp Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)*
 * [PFP.LGBT](https://pfp.lgbt/) - *LGBTQ+fy Images*
 * [Image Splitter](https://ruyili.ca/image-splitter/), [2](http://www.htmlkit.com/services/is/) - *Split Images into Tiles*
@@ -63,6 +64,7 @@
 
 ## ▷ Restoration
 
+* [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - *Image Restoration Algorithms*
 * [Petalica Paint](https://petalica-paint.pixiv.dev/index_en.html), [Algorithmia](https://demos.algorithmia.com/colorize-photos) or [Colorizer](https://deepai.org/machine-learning-model/colorizer) - *Image Colorization* 
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - *Anime Image Colorization*
 * [GPEN-Colab](https://github.com/bycloudai/GPEN-colab) - *Face Restoration / Colorization Tool*
@@ -219,6 +221,7 @@
 # ► Image Tools
 
 * [WebOasis Editors](https://weboas.is/editors/), [Hotot](https://hotpot.ai/), [RedKetchup](https://redketchup.io/), [Img2Go](https://www.img2go.com/), [BrandFolder](https://brandfolder.com/workbench-suite) or [FastStone](https://www.faststone.org/index.htm) - *Multiple Image Tools*
+* [Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes) - *Color Scheme / Palette Tools*
 * [ImgOps](https://imgops.com/) - *Image Operations Meta-Tool*
 * [Color Schemes / Palettes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes/) - *Color Scheme / Palette Tools*
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - *Image Color Scatter Plot* 
