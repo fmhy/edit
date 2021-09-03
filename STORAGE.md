@@ -6,9 +6,17 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/wjMNRn8.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/hJEOAP2.png)** - *For mobile users*
 
 ***
+***
+
+#### 3DS Roms
+
+* [CIA-3DS](https://www.cia-3ds.com/)
+* [HShop](https://hshop.erista.me/)
+* [CIA Drive](https://drive.google.com/drive/u/0/folders/1a1U18ImPv-VunSHanHBDTLht6kVf5AP6), [2](https://drive.google.com/drive/folders/1R5c6-nY5mMns8G1u2tcbYumfTCGXDQ5w), [3](https://drive.google.com/drive/folders/1a9BYbFlhQ96zaKtuL99m8N_r4qv8L_FK), [4](https://drive.google.com/drive/folders/1vDIlIfJL1I8Nzv616YBIX-QXmudoxKxM?usp=sharing), [5](https://archive.org/download/3DSCIA_testitem1)
+
 ***
 
 #### Absolute Enable Right Click
@@ -451,6 +459,21 @@
 #### Forest 
 
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/forest-stay-focused-be-present/) / [Chrome](https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk)
+
+***
+
+#### Gameboy Roms
+
+* [Gameboy Drive](https://drive.google.com/drive/folders/1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf), [2](https://drive.google.com/drive/folders/1VxjINYMDvvUSRKA_k2aJqq6JzmRQCI1s), [3](https://archive.org/details/Cyles_Gameboy_roms)
+* [merwanachibet](http://merwanachibet.net/gameboy-roms.html)
+* [Unreleased Gameboy Games](https://ufile.io/70vmpyng)
+
+***
+
+#### Gamecube Roms
+
+* [MarioCube](https://mariocube.com/)
+* [GameCube Archive](https://archive.org/details/gamecubenaiso), [2](https://archive.org/details/RedumpNintendoGameCubeAmerica), [3](https://archive.org/details/RedumpNintendoGameCubeAmericaPart2), [4](https://archive.org/details/RedumpNintendoGameCubeAmericaPart3), [5](https://archive.org/details/RedumpNintendoGameCube2018Aug25AmericaGamesReUpload)
 
 ***
 
@@ -1461,6 +1484,15 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
+#### Switch Roms
+
+* [NXBrew](https://nxbrew.com/)
+* [nsw2u](https://nsw2u.xyz/)
+* [Switchrls](https://switchrls.co/)
+* [Switch Archive](https://docs.google.com/spreadsheets/d/1lRMTxSAJiASOdT1ZlCyYrUnXkVt58jg46Y-2w3RrMtA/edit) 
+
+***
+
 #### TeamDrive Generators
 
 * Note that these can and do get deleted
@@ -1980,6 +2012,13 @@ Good for finding classic, obscure & short films.
 **Addons** 
 
 [Web Archives (addon)](https://github.com/dessant/web-archives), [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ), [archiveror](https://github.com/rahiel/archiveror)
+
+***
+
+#### Wii Roms
+
+* [MarioCube](https://mariocube.com/) 
+* [Wii Rom Archive](https://archive.org/details/RedumpNintendoWiiAmericaPart1), [2](https://archive.org/details/RedumpNintendoWiiAmericaPart2), [3](https://archive.org/details/RedumpNintendoWiiAmericaPart3), [4](https://archive.org/details/RedumpNintendoWiiAmericaPart5)
 
 ***
 
