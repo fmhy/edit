@@ -169,6 +169,7 @@
 * [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - *Wii Homebrew Installer / [Find MAC](https://www.nintendo.com/consumer/systems/wii/en_na/includes/rvl-ht-int-find-mac-address.jsp)*
 * [WiiU Exploit](https://wiiuexploit.xyz/) - *WiiU Homebrew Installer*
 * [Homebrew Gang](https://thehbg.shop/main.html) - *Switch Homebrew Community*
+* [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - *Switch Hacking Forum / Guides*
 * [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - *PS3 Homebrew Subreddit*
 * [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) - *Yuzu Emulator Setup Guide*
 * [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - *PSCX Development Emulator*
@@ -221,7 +222,7 @@
 * [Many Dumped Games](https://archive.org/details/@manydumpedgames) - *Roms*
 * [Nintendo Retro Mega-Pack](https://mega.nz/folder/AdRVCaBZ#bvaOPyNae8N24lquCNen4Q) - *Roms / Nintendo*
 * [PS1 Collection](https://archive.org/details/redumpSonyPlaystationAmericaGames02October2017), [2](https://archive.org/details/@john_mr_smith?sort=titleSorter) - *Roms / PS1*
-* [PS2 Collection](https://archive.org/details/RedumpSonyPS2NTSCU), [2](https://archive.org/details/RedumpSonyPS2NTSCUPart2), [3](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01), [4](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part2), [5](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part3), [6](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part4) - *Roms / PS2*
+* [PS2 Archive](https://archive.org/details/RedumpSonyPS2NTSCU), [2](https://archive.org/details/RedumpSonyPS2NTSCUPart2), [3](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01), [4](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part2), [5](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part3), [6](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part4) - *Roms / PS2*
 * [ps2pressprotos](https://archive.org/details/ps2pressprotos) - *PS2 Press Discs & Prototypes*
 * [PS4 bitdl.ir](http://s21.bitdl.ir/), [2](http://s22.bitdl.ir/), [3](http://s23.bitdl.ir/), [4](http://s24.bitdl.ir/), [5](http://s25.bitdl.ir/), [6](http://s26.bitdl.ir/) - *Roms / PS4*
 * [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) - *Roms / PS4*
@@ -230,15 +231,13 @@
 * [psp.hm7.moe](https://psp.hm7.moe/) - *Modded PSP Collection* 
 * [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) - *Roms / Wii U*
 * [WiiWare Collection](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) - *Roms / WiiWare*
-* [Nintendo Wii Collection](https://archive.org/details/RedumpNintendoWiiAmericaPart1), [2](https://archive.org/details/RedumpNintendoWiiAmericaPart2), [3](https://archive.org/details/RedumpNintendoWiiAmericaPart3), [4](https://archive.org/details/RedumpNintendoWiiAmericaPart5)
-* [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - *Switch hacking forum / guides*
-* [NXBrew](https://nxbrew.com/), [nsw2u](https://nsw2u.xyz/), [Switchrls](https://switchrls.co/), [Switch Archive](https://docs.google.com/spreadsheets/d/1lRMTxSAJiASOdT1ZlCyYrUnXkVt58jg46Y-2w3RrMtA/edit) - *Roms / Nintendo Switch*
-* [GameCube Collection](https://archive.org/details/gamecubenaiso), [2](https://archive.org/details/RedumpNintendoGameCubeAmerica), [3](https://archive.org/details/RedumpNintendoGameCubeAmericaPart2), [4](https://archive.org/details/RedumpNintendoGameCubeAmericaPart3), [5](https://archive.org/details/RedumpNintendoGameCube2018Aug25AmericaGamesReUpload) - *Roms / GameCube*
-* [MarioCube](https://mariocube.com/) - *Roms / Gamecube / Wii* 
-* [GameBoy Collection](https://archive.org/details/Cyles_Gameboy_roms), [2](https://drive.google.com/drive/folders/1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf), [3](https://drive.google.com/drive/folders/1VxjINYMDvvUSRKA_k2aJqq6JzmRQCI1s), [4](http://merwanachibet.net/gameboy-roms.html), [Unreleased](https://ufile.io/70vmpyng) - *Roms / GameBoy*
-* [DS Collection](https://archive.org/details/noIntroNintendoDsDecrypted2019Jun30), [2](https://mega.nz/folder/33AhDa4T#awOqr7lhZYFgjXoMMu6_8w) - *Roms / DS*
+* [Wii Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wii_roms) - *Roms / Wii*
+* [Switch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - *Roms / Nintendo Switch*
+* [Gamecube Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gamecube_roms) - *Roms / GameCube*
+* [Gameboy Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gameboy_roms) - *Roms / Gameboy*
+* [DS Roms](https://archive.org/details/noIntroNintendoDsDecrypted2019Jun30), [2](https://mega.nz/folder/33AhDa4T#awOqr7lhZYFgjXoMMu6_8w) - *Roms / DS*
 * [DSi Collection](https://archive.org/details/No-Intro_Nintendo_DSi_2018-06-30) - *Roms / DSi* + [DSi DLC](https://archive.org/details/NintendoDSiDLC2019)
-* [Cia 3DS](https://www.cia-3ds.com/), [2](https://drive.google.com/drive/u/0/folders/1a1U18ImPv-VunSHanHBDTLht6kVf5AP6), [3](https://archive.org/download/3DSCIA_testitem1), [4](https://drive.google.com/drive/folders/1R5c6-nY5mMns8G1u2tcbYumfTCGXDQ5w), [5](https://drive.google.com/drive/folders/1a9BYbFlhQ96zaKtuL99m8N_r4qv8L_FK), [6](https://drive.google.com/drive/folders/1vDIlIfJL1I8Nzv616YBIX-QXmudoxKxM?usp=sharing), [7](https://hshop.erista.me/) - *Roms / 3DS*
+* [3DS Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - *Roms / 3DS*
 * [SNES Collection](https://archive.org/details/CylesSNESRomPack) - *Roms / SNES*
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - *NES, SNES & Playstation Mods*
 * [Dreamcast Collection](https://archive.org/details/almstcmpltdrmcst) - *Roms / Dreamcast*
