@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/hJEOAP2.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/AbOXdwa.png)** - *For mobile users*
 
 ***
 ***
@@ -824,6 +824,43 @@ Add the following commands to a search to manually scrape each site.
 #### Modded Minecraft Launchers
 
 [tLauncher](https://tlauncher.org/en/), [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/) / [2](https://github.com/Aetopia/Lunar-Client-Lite-Launcher), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [SkLauncher](https://skmedix.pl/sklauncher), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL)
+
+***
+
+#### Multi Browser Game Sites
+
+* **[Ninjakiwi](https://ninjakiwi.com/)** - *Browser Games / Bloons / Multiplayer*
+* [/r/WebGames](https://reddit.com/r/WebGames)
+* [Newgrounds](https://www.newgrounds.com/games)
+* [Armor Games](https://armorgames.com/)
+* [Kongregate](https://www.kongregate.com/)
+* [Weboasis Arcade](https://weboas.is/arcade/)
+* [Addicting Games](https://www.addictinggames.com/)
+* [OneMoreLevel](http://www.onemorelevel.com/)
+* [Miniclip](https://miniclip.com/)
+* [Not Doppler](http://www.notdoppler.com/) 
+* [Nitrome](https://www.nitrome.com/) 
+* [Poki](https://poki.com/)
+* [Y8](https://www.y8.com/) 
+* [Arkadium](https://www.arkadium.com/)
+* [Crazy Games](https://www.crazygames.com/)
+* [Nicky Case](https://ncase.me/) 
+* [Gamepix](https://www.gamepix.com/)
+* [Key Games](https://keygames.com/) 
+* [MiniGames](https://www.minigames.com/)
+* [Gaming Wonderland](https://www.gamingwonderland.com/)
+* [Game Top](https://www.gametop.com/online/index.html)
+* [Foddy](http://www.foddy.net/category/games/browser/)
+* [ALFY](https://www.alfy.com/)
+* [GameKB](https://www.gamekb.com/)
+* [ClassicGame](https://www.classicgame.com/)
+* [DAN-BALL](http://dan-ball.jp/en/)
+* [itch.io](https://graebor.itch.io/), [2](https://grey2scale.itch.io/), [3](https://ncase.itch.io/), [4](https://capsquared.itch.io/), [5](https://evilobjective.itch.io/)
+* [Cartoon Network Games](https://www.cartoonnetwork.com/games/index.html)
+* [WBKidsGo](https://www.wbkidsgo.com/)
+* [Disney Games](https://lol.disney.com/games/), [2](https://disneynow.com/all-games)
+* [Lego Games](https://www.lego.com/en-us/kids/games)
+* [Friv](https://friv.com/), [2](https://web.archive.org/web/*/Friv.com)
 
 ***
 
