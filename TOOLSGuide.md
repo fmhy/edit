@@ -810,7 +810,7 @@ General Reading Sites*
 * [Discord-Linux](https://discord.gg/discord-linux) - *Discord Linux Chat*
 * [Discover](https://github.com/trigg/Discover) - *Discord Linux Overlay*
 * [Discord-Api](https://discord.gg/discord-api) - *Discord API Chat*
-* [OwnersHub](https://ownershub.xyz/) - *Discord Community Management Chat*
+* [Displace](https://discord.gg/6zEbZeg) or [OwnersHub](https://ownershub.xyz/) - *Discord Community Management Chat*
 * [Discordia-Development Wiki](https://github.com/Discordia-Development/wiki) - *Discord Moderation Wiki*
 * [Discord Moderator Academy](https://discord.com/moderation) - *Discord Moderator Guide / [Exam](https://discord.com/moderation/exam)*
 * [SnowStamp](https://pixelatomy.com/snow-stamp/) - *Convert Discord Snowflakes to Timestamps*
