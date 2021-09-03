@@ -323,43 +323,12 @@
 
 # ► Browser Games
 
+* **[Multi Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_browser_game_sites)** - *Sites with Multiple Browser Games*
 * **[Free Rice](https://freerice.com/)** - *Earn Rice for the World Food Programme, turn off adblocker*
 * **[Line Rider](https://www.linerider.com/)** - *Draw Sled Tracks*
-* **[Ninjakiwi](https://ninjakiwi.com/)** - *Browser Games / Bloons / Multiplayer*
 * **[DelugeRPG](https://www.delugerpg.com/)** - *Pokemon RPG Simulation*
 * **[Cookie Consent Speed.Run](https://cookieconsentspeed.run/)** - *Cookie Disabling Game*
 * **[AirConsole](https://www.airconsole.com/)** - *Control TV Games with Phone* 
-* [/r/WebGames](https://reddit.com/r/WebGames)
-* [Newgrounds](https://www.newgrounds.com/games)
-* [Armor Games](https://armorgames.com/)
-* [Kongregate](https://www.kongregate.com/)
-* [Weboasis Arcade](https://weboas.is/arcade/)
-* [Addicting Games](https://www.addictinggames.com/)
-* [OneMoreLevel](http://www.onemorelevel.com/)
-* [Miniclip](https://miniclip.com/)
-* [Not Doppler](http://www.notdoppler.com/) 
-* [Nitrome](https://www.nitrome.com/) 
-* [Poki](https://poki.com/)
-* [Y8](https://www.y8.com/) 
-* [Arkadium](https://www.arkadium.com/)
-* [Crazy Games](https://www.crazygames.com/)
-* [Nicky Case](https://ncase.me/) 
-* [Gamepix](https://www.gamepix.com/)
-* [Key Games](https://keygames.com/) 
-* [MiniGames](https://www.minigames.com/)
-* [Gaming Wonderland](https://www.gamingwonderland.com/)
-* [Game Top](https://www.gametop.com/online/index.html)
-* [Foddy](http://www.foddy.net/category/games/browser/)
-* [ALFY](https://www.alfy.com/)
-* [GameKB](https://www.gamekb.com/)
-* [ClassicGame](https://www.classicgame.com/)
-* [DAN-BALL](http://dan-ball.jp/en/)
-* [itch.io](https://graebor.itch.io/), [2](https://grey2scale.itch.io/), [3](https://ncase.itch.io/), [4](https://capsquared.itch.io/), [5](https://evilobjective.itch.io/)
-* [Cartoon Network Games](https://www.cartoonnetwork.com/games/index.html)
-* [WBKidsGo](https://www.wbkidsgo.com/)
-* [Disney Games](https://lol.disney.com/games/), [2](https://disneynow.com/all-games)
-* [Lego Games](https://www.lego.com/en-us/kids/games)
-* [Friv](https://friv.com/), [2](https://web.archive.org/web/*/Friv.com)
 * [Games on GitHub](https://github.com/leereilly/games) - *GitHub Hosted Games*
 * [Nekogames](http://nekogames.jp/) - *Japanese Games* 
 * [ArcadePrehacks](http://www.arcadeprehacks.com/) - *Hacked Games* 
