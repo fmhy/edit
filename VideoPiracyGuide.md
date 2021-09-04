@@ -473,6 +473,7 @@
 * [HEVCBay](https://hevcbay.com/) - *Movies*
 * [Extra Movies](https://extramovies.world/) - *Movies*  
 * [NetNaija](https://www.thenetnaija.com/) - *Movies / TV*  
+* [MeloMovie](https://melomovie.com/) - *Movies / TV*
 * [Best-Movies](http://best-movies.info/) - *Movies / TV*   
 * [Happy2Hub](https://happy2hub.net/) - *Movies / TV*   
 * [MovieFire](https://moviefire.net/) - *Movies* 
