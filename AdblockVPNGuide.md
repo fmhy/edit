@@ -19,7 +19,7 @@
 
 ## ▷ Adblocking Extensions
 
-* **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** / [Extra](https://github.com/gorhill/uBO-Extra), [AdNauseam](https://adnauseam.io/) or [TBlock](https://tblock.codeberg.page/) - *Adblockers*
+* **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** / [Extra](https://github.com/gorhill/uBO-Extra), [AdNauseam](https://adnauseam.io/) or [TBlock](https://tblock.codeberg.page/) - *Adblockers / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/)*
 * **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** - *Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html)* 
 * **[Adblock Defenders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders)** - *Prevent Sites from Detecting Adblockers / [Test Defenders](https://blockads.fivefilters.org/)*
 * **[SponsorBlock](https://sponsor.ajay.app/)** - *Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)*
