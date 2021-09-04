@@ -1335,7 +1335,7 @@ General Reading Sites*
 * [Tree](http://mama.indstate.edu/users/ice/tree/) - *Directory Listing Command* 
 * [ss64 Bash](https://ss64.com/bash/) - *Linux Bash Commands*
 * [The Linux Kernel Archives](https://kernel.org/) - *Linux Kernel Archive*
-* [Gnome-Look](https://www.gnome-look.org/browse) - *Linux Themes*
+* [Gnome-Look](https://www.gnome-look.org/browse) or [xfce-look](https://www.xfce-look.org/)  - *Linux Themes*
 * [ricemood](https://github.com/fhadiel/ricemood) - *Fully Customizable Unix Color Schemer*
 * [DistroTest](https://distrotest.net/) or [JSLinux](https://bellard.org/jslinux/) - *Linux Browser Emulator*
 * [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
