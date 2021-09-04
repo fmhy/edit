@@ -414,6 +414,7 @@
 
 ## ▷ Multiplayer
 
+* **[Pokemon Showdown](https://pokemonshowdown.com/)** - *Online Pokemon Battles* 
 * [PlayingCards](https://playingcards.io/) 
 * [FlyOrDie](http://www.flyordie.com/) 
 * [JKLM.FUN](https://jklm.fun/) 
