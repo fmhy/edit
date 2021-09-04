@@ -612,6 +612,7 @@
 ## ▷ Torrenting
 
 * [TorrentHaja](https://torrenthaja.com/) - *Video / Audio / Games / Software / Books*
+* [Torrentube](https://torrentube.net/) - *Movies / TV*
 
 ## ▷ Streaming
 
