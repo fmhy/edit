@@ -73,6 +73,7 @@
 * [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - *Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Link Scrape](https://github.com/reggiiie/link-scrape) - *Linux Game Search Script*
 * [linux-repack-installer](https://github.com/reggiiie/linux-repack-installer) - *Linux Game Installer*
+* [Leggendaria](https://chuchy.neocities.org/leggendaria.altervista.org/archive.htm) - *Bemani & Touhou Games*
 * [CsWaRzOnE](https://www.cswarzone.com/) - *Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)*
 * [Minetest](https://www.minetest.net/) - *F2P Minecraft Alternative* 
 * [Unciv](https://github.com/yairm210/Unciv) - *Civ V Remake*
