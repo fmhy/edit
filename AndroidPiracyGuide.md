@@ -157,7 +157,6 @@
 * [Blabber.im](https://f-droid.org/packages/de.pixart.messenger) - *XMPP / Jabber Messenger*
 * [OpenInWA](https://github.com/SubhamTyagi/openinwa) - *Number Free WhatsApp Chat*
 * [Watomatic](https://f-droid.org/packages/com.parishod.watomatic) - *WhatsApp & FB Messenger Auto Reply*
-* [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - *Booru Client / [Telegram](https://t.me/Flexbooru/161)*
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - *Article / Link Viewer*
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - *Easily Open Links in Text via Share Function*
 * [Ponydroid](https://forum.mobilism.org/search.php?keywords=ponydroid&amp;sr=topics&amp;sf=titleonly) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - *Download File Manager / [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)*
@@ -651,7 +650,7 @@ RSS Player*
 * [tweakboxapp](https://next.tweakboxapp.com/) or [tweakboxapp (sideloaded)](https://sideload.tweakboxapp.com/) - *App Tweaks*
 * [iPASpot](https://ipaspot.app/) - *Hacked / Tweaked iOS Apps* 
 * [iPABox](https://apps.ipabox.store/ipalibrary/index.html) - *Hacked / Tweaked iOS Apps* 
-* [LocalAPStore](https://repo.hackyouriphone.org/localiapstore) or [My iAP Cracker](https://repo.hackyouriphone.org/myiapcracker) - *In-App Purchase Mods*
+* [LocalAPStore](https://repo.hackyouriphone.org/localiapstore), [Satella](https://paisseon.github.io/) / [2](https://github.com/Paisseon/Satella/) or [My iAP Cracker](https://repo.hackyouriphone.org/myiapcracker) - *In-App Purchase Mods*
 * [AppSync Unified](https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified) - *IPA Installation Tweak*
 * [iosninja](https://iosninja.io/ipa-library) - *App Sideload Files*
 * [TestFlight](https://testflight.apple.com/) - *Test Beta Apps / [Links](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/)*
