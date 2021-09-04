@@ -730,7 +730,7 @@ General Reading Sites*
 * [OpenDiscord](https://github.com/505e06b2/OpenDiscord) - *Modifiable Discord Client*
 * [Quarrel](https://github.com/UWPCommunity/Quarrel) - *Universal Windows Platform Discord Client*
 * [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) or [WebCord](https://github.com/SpacingBat3/WebCord) - *Discord Web Client / [Discord](https://discord.gg/Vm4CwZx)*
-* [Discord CLI](https://github.com/fourjr/discord-cli), [Gord](https://github.com/yellowsink/gord), [Discord Terminal](https://github.com/atlx/discord-term) or [crcophony](https://github.com/freyamade/crcophony) - *Discord Terminal Client*
+* [Discord CLI](https://github.com/fourjr/discord-cli), [Discord Terminal](https://github.com/atlx/discord-term) or [crcophony](https://github.com/freyamade/crcophony) - *Discord Terminal Client*
 * [weechat-discord](https://github.com/terminal-discord/weechat-discord) - *WeeChat Discord Plugin*
 * [litecord](https://gitlab.com/litecord/litecord) - *Reimplementation of Discord's Backend / [Clients](https://gitlab.com/litecord/litecord/-/blob/master/docs/clients.md)*
 * [Discord-Sandbox](https://github.com/khlam/discord-sandboxed) - *Sandbox Discord Client*
