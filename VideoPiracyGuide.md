@@ -16,10 +16,10 @@
 * **[MoviesforDiscord](https://discord.com/invite/XBGm36RWEs)** - *Movies / TV / [Website](https://movies4discord.xyz/)*
 * **[LookMovie](https://lookmovie.io/)** - *Movies / TV*
 * **[Soap2Day](https://soapgate.org/)** - *Movies / TV*
-* **[HDBest](http://hdbest.net/)**, [VikV](https://vikv.net/), [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
 * **[WebOas.is](https://weboas.is/stream/)** - *Movies* 
 * **[M4uFree](https://ww1.m4ufree.com)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)*
 * [C1NE](https://c1ne.co/) - *Movies / TV* 
+* [VikV](https://vikv.net/), [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
 * [TheFlix](https://www.theflix.to/) - *Movies / TV* 
 * [SockShare](http://sockshare.ac/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones)*
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - *Movies / TV / Anime*
@@ -79,7 +79,7 @@
 * [Vudu](https://www.vudu.com/) - *Movies / TV*
 * [IMDB TV](https://www.imdb.com/tv/) - *Movies / TV*
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - *Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / [Windscribes](https://windscribe.com/) free version works*
-* [Free YouTube, Dailymotion & Archive Movies](https://bin.disroot.org/?ccb35a2f34079e11#3K1AMp4pQm9oVEXujbF2SdXRmnkVbejs1bdXb6fxuCux) - *Big list of Free Movies*
+* [Free Movie List](https://bin.disroot.org/?4fe92a56318e42f7#3q6eMDxpDteAsgmJsyqGDpvmUUy19CcmUZxXnEasGSzU) - *Big list of Free Movies*
 * [StreamDor](https://www.streamdor.com/), [FreeMovies](https://freemovies.ltd/) or [MoviesFoundOnline](https://moviesfoundonline.com/) - *Movies / YouTube*
 * [YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - *Youtube streaming subreddits*
 * [YouTube Streaming Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_streaming_channels) - *Channels that host movies or shows*
