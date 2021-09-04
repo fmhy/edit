@@ -187,12 +187,21 @@
 
 # ► Fun Sites
 
-* **[Conversational Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_conversational_chatbots)** - *Chat with AI*
+* **[Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - *Multireddits Curated by FMHY Members*
+* **[r.sine.com](https://r.sine.com/index)**, [Funnyjunk](https://funnyjunk.com//) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Memes & GIFs / Some NSFW*
+* **[Random Comic Generator 3.0](https://explosm.net/rcg)** - *Explosm Random Comic Generator*
+* **[Talk Obama To Me](http://talkobamato.me/)** - *Make Obama Say Stuff*
+* **[Objection!](https://objection.lol/)** - *Ace Attorney Objecting on Your Behalf* 
+* **[sandspiel.club](https://sandspiel.club/)** - *Falling Sand Physics Sandbox* 
+* **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_conversational_chatbots)** - *Chat with AI*
 * **[Live Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)** - *Watch Live Webcams*
-* **[FMHY Curated Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - *Multireddits curated by FMHY memebers*
+* **[HeyFromTheFuture](https://heyfromthefuture.com/)** - *What People Wish they knew at your Age*
+* **[LMGTFY](http://www.lmgtfy.com/)**, [Just Google](https://www.just-google.it/), [Just Fucking Google](https://www.just-fucking-google.it/) or [GIYBF](http://giybf.com/) - *Remind People that Google Exists* 
+* **[The GIF Pronunciation Page](http://www.olsenhome.com/gif/)** - *How to Pronouce "GIF"*
+* **[PointerPointer](https://pointerpointer.com/)** - *Get Your Pointer Pointed At* 
+* **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - *Realistic-Looking Fake Versions of Things* 
 * [StumblingOn](https://stumblingon.com/), [Stumbled](https://stumbled.cc/), [BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/), [JumpStick](https://jumpstick.app/) or [OpenBulkURL](https://openbulkurl.com/random/) - *Takes you to a Random Site*
 * [KongouCheats](https://kongoucheats.com/) - *Watch Random Memes / Videos* 
-* [r.sine.com](https://r.sine.com/index), [Funnyjunk](https://funnyjunk.com//) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Memes & GIFs / Some NSFW*
 * [Neal.fun](https://neal.fun/), [Creative Tech Guy](https://creativetechguy.com/) or [JenniferDewalt](https://jenniferdewalt.com/) - *Sites / Tools / Games*
 * [Just For Fun](https://justforfun.io/) or [Andrew Marsh](http://andrewmarsh.com/software) - *Coding Project Showcase* 
 * [Trippy shit Mega List](https://triptoysfor.me/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave), [BoredHumans](http://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](http://www.thisismywebsitenow.com/) or [Mr.doob](https://mrdoob.com/) - *Toys & Experiments* 
@@ -204,7 +213,6 @@
 * [Activity Suggestion](https://www.activitysuggestion.com/), [Things to Do](https://randomthingstodo.com/) or [bored.solutions](https://bored.solutions/) - *Activity Suggestions* 
 * [Human Benchmark](https://humanbenchmark.com/) - *Brain Games & Cognitive Tests* 
 * [David.li](http://david.li/) - *Physics Games*
-* [sandspiel.club](https://sandspiel.club/) - *Falling Sand Physics Sandbox* 
 * [DriveMeInsane](http://drivemeinsane.com/) - *Control a Home Automation System* 
 * [LooksLikeYouNeedIceland](https://lookslikeyouneediceland.com/) or [JUST SCREAM!](https://justscream.baby/) - *Scream Into the Universe* 
 * [VentScape](https://www.ventscape.life/) - *Speak into a Void* 
@@ -223,7 +231,6 @@
 * [BigPixel](http://en.bigpixel.cn/) - *Giant Zoomable Photos*
 * [Just Type Stuff ](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - *Type Things into Existence*
 * [WriteAPrisoner](https://writeaprisoner.com/) - *Pen Pals for Inmates*
-* [Pokemon Showdown](https://pokemonshowdown.com/) - *Pokemon Battle Simulation* 
 * [This Is Sand](https://thisissand.com/) - *Make Sand Art* 
 * [Orb.Farm](https://orb.farm/) - *Virtual Aquatic Ecosystem* 
 * [MarbleRun](https://www.marblerun.at/) - *Create Marble Courses*
@@ -270,7 +277,6 @@
 * [Endless Summer Times](https://times.endlessvmmer.com/) - *Retro Summer Vibe News Archive*
 * [Skynet](http://pierrepapierciseaux.net/.skynet/?lang=en) - *View Websites like they're from the 90's*
 * [Toonami Remastered](https://www.toonamiremastered.com/) - *Remastered Toonami Content* 
-* [Random Comic Generator 3.0](https://explosm.net/rcg) - *Explosm Random Comic Generator*
 * [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - *How well do you recognize hit songs?*
 * [Themes.moe](https://themes.moe/) - *Anime Opening / Theme Search*
 * [GeekPrank](https://geekprank.com/) - *Windows Pranks*
@@ -278,19 +284,16 @@
 * [Hacktyper](https://hackertyper.net/) or [Geektyper](https://geektyper.com/) - *Fake Hacking Screen* 
 * [Peter Answers](https://www.peteranswers.com/) - *Create Fake Questions & Answers / [Tutorial](https://peteranswers.info/peter-answers-hack)* 
 * [No Paint](https://nopaint.art/) - *Press "Paint" if you like what you see, "No" if you don't* 
-* [PointerPointer](https://pointerpointer.com/) - *Get Your Pointer Pointed At* 
 * [BubblesPop](https://bubblespop.netlify.app/) or [Relax](https://calming.netlify.app/) - *Pop Bubble Wrap* 
 * [Mebious](https://mebious.wirechan.org/) - *Upload Random Images / Text to Public Wall*
 * [Smash The Walls](https://smashthewalls.com/) - *Smash Walls*
 * [Petting](http://oos.moxiecode.com/js_webgl/fur/index_petting.html) - *Fur Simulator*
 * [Spider 2 Hammertime](http://oos.moxiecode.com/js_webgl/spiders_2_hammertime/) - *Murder Spiders*
 * [DuckDuckRoll](http://duckduckroll.ml/) - *Spinning Duck*
-* [Talk Obama To Me](http://talkobamato.me/) - *Make Obama Say Stuff*
 * [Slap Kirk](https://www.slapkirk.com/) - *Slap Captain Kirk*
 * [Slide Ventura](https://slideventura.com/) - *Ace Ventura Sliding Door Simulator*
 * [pls pet doge](http://plspetdoge.com/) - *Pet Doge* 
 * [Do not open the door](http://mexicans.eu/) - *Don't you dare...*
-* [ThisXDoesNotExist](https://thisxdoesnotexist.com/) - *Realistic-looking fake versions of things* 
 * [ThisPersonDoesNotExist](https://www.thispersondoesnotexist.com/) - *People That Don't Exist*
 * [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) - *Words That Don't Exist* 
 * [This Wojak Does Not Exist](https://thiswojakdoesnotexist.com/) - *Wojak's That Don't Exist* 
@@ -329,7 +332,6 @@
 * [Either](http://either.io/) - *Would You Rather* 
 * [Nightmare Machine](http://nightmare.mit.edu/) - *Scary AI generated imagery*
 * [Botnik](https://botnik.org/) - *Word Remixer* 
-* [Objection](https://objection.lol/) - *Ace Attorney Objecting on Your Behalf !* 
 * [Blue Ball Machine 2](https://blueballmachine2.ytmnd.com/) - *Full Page Chain Reaction Machine*
 * [Library of Babel](https://libraryofbabel.info/) - *Every Book of Past, Present, and Future*
 * [xrDinosaurs](https://www.xrdinosaurs.com/) - *VR Dino Park*
@@ -343,11 +345,8 @@
 * [What Happened in my Birthyear](http://whathappenedinmybirthyear.com/) - *Find out what happened on your birthyear* 
 * [WTM](https://whatthemovie.com/) - *Guess Movie from Screenshot* 
 * [Kittenwar!](http://www.kittenwar.com/) - *Rate Kittens*
-* [LMGTFY](http://www.lmgtfy.com/), [Just Google](https://www.just-google.it/), [Just Fucking Google](https://www.just-fucking-google.it/) or [GIYBF](http://giybf.com/) - *Remind People that Google Exists* 
-* [The GIF Pronunciation Page](http://www.olsenhome.com/gif/) - *How to Pronouce "GIF"*
 * [Click Brawl](https://clickbrawl.com/eternal-fight) - *Collaborative Click Wars*
 * [RPS101](http://www.umop.com/rps101.htm) - *101 Gesture Rock-Paper-Scissors*
-* [HeyFromTheFuture](https://heyfromthefuture.com/) - *What people wish they knew at your age*
 * [Fake Text Message](https://ifaketextmessage.com/) - *Make Fake Text Conversation* 
 * [FutureTimeline](https://www.futuretimeline.net/) - *Timeline of future predictions* 
 * [House creep](https://www.housecreep.com/) - *Homes With A Curious or Criminal History* 
@@ -661,7 +660,7 @@
 * [Grammarly](https://www.grammarly.com/) - *Grammar Checker / [Free Premium](https://redd.it/kfncju)*
 * [Mouse Gestures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mouse_gestures) - *Control Browser via Gestures*
 * [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/), [2](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - *Merges a Sites "Next" Pages*
-* [DownThemAll](https://www.downthemall.org/), [Provd](https://provd.net/) or [Download Helper](http://www.downloadhelper.net/) - *Download Manager*
+* [Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - *Download Manager Extensions*
 * [Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - *Video Download Managers*
 * [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - *Play Videos in Theater Mode*
 * [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Audio Recorder*
