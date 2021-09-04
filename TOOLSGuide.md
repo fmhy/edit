@@ -251,7 +251,8 @@
 * **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
 * **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - *Audio Visualization Resource Index* 
 * **[Determine Audio File Quality](https://redd.it/3l0yxp)**, [Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](http://spek.cc/) or [Spectro](http://spectro.enpts.com/) - *Determine Quality of Audio Files*
-* **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)** - *Audio compression examples*
+* **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)** - *Audio Compression Examples*
+* [Scarbir](https://www.scarbir.com/) - *Wireless Earphone Comparisons*
 * [OpenAudio](https://github.com/webprofusion/OpenAudio), [/r/CrackedPlugins2](https://www.reddit.com/r/CrackedPlugins2/), [/u/BitterApple69 Plugins](https://drive.google.com/drive/folders/1vgBCLfSFnHmBzUFPzog0wVdziAEAdi0p) or [PLUGINS4FREE](https://plugins4free.com/) - *Audio Plugins & Apps* 
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - *Learn How to Play Music*
 * [Jukebox](https://jukebox.today/) or [jqbx](http://jqbx.fm/) - *Music Sync / Listening Parties*
@@ -734,6 +735,7 @@ General Reading Sites*
 * [weechat-discord](https://github.com/terminal-discord/weechat-discord) - *WeeChat Discord Plugin*
 * [litecord](https://gitlab.com/litecord/litecord) - *Reimplementation of Discord's Backend / [Clients](https://gitlab.com/litecord/litecord/-/blob/master/docs/clients.md)*
 * [Discord-Sandbox](https://github.com/khlam/discord-sandboxed) - *Sandbox Discord Client*
+* [Discord M1](https://github.com/17hoehbr/Discord-M1) - *M1 Mac Discord App*
 * [crocodile](https://github.com/tbodt/crocodile) - *Discord Client for TempleOS*
 * [displunger](https://gitlab.com/derpystuff/displunger) - *Run Old Versions of Discord*
 * [Disboard](https://disboard.org/), [DiscordServers](https://discordservers.com/), [Discord Street](https://discord.st/), [discordlist.io](https://discordlist.io/), [DiscordServers.me](https://discordservers.me/) or [Discord Me](https://discord.me/) - *Discover Discord Servers / Bots* 
@@ -1008,7 +1010,7 @@ General Reading Sites*
 * [Wu10Man](https://github.com/WereDev/Wu10Man) - *Enable / Disable Windows 10 Updates*
 * [How-to Disable Windows 10 Updates](https://www.windowscentral.com/how-stop-updates-installing-automatically-windows-10)
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - *Enable Windows Insider without Account*
-* [TweakUtility](https://github.com/Craftplacer/TweakUtility) - *Windows Tweaking Utility*
+* [TweakUtility](https://github.com/Craftplacer/TweakUtility) or [MagicX Toolbox](https://github.com/Ahsan40/MagicX-Toolbox) - *Windows Tweaking Utility*
 * [SmartWindows](https://smartwindows.app/) - *Create / Restore Windows Profiles* 
 * [VirtualBox](https://www.virtualbox.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - *Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)*
 * [VMWare](https://gist.github.com/rkennesson/2c4595bf062aaab387dccf1210accf98) - *Hide Virtual Machine*
@@ -1170,6 +1172,7 @@ General Reading Sites*
 * [Modern Flyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - *Modern & Fluent Flyouts for Windows*
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - *Windows 10 Search Appearance Tweaker*
 * [Windows 11 for Windows 10](https://www.deviantart.com/niivu/art/Windows-11-for-Windows-10-882819383) - *Windows 11 Theme / [Icons](https://www.deviantart.com/niivu/art/Windows-11-Icon-Themes-874289797)*
+* [XBar](https://github.com/amrbashir/XBar) - *Per-App Taskbar Color*
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - *Translucent Windows Taskbar* 
 * [RoundedTB](https://github.com/torchgm/RoundedTB) - *Rounded Taskbar Corners*
 * [TaskbarX](https://chrisandriessen.nl/taskbarx/) - *Change Taskbar Icon Positions* 
@@ -1348,6 +1351,7 @@ General Reading Sites*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - *MacOS Virtualbox Installer*
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - *Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/)*
+* [Windows 10 MBR](https://github.com/toru173/Windows-10-MBR-USB-Creation-Tool) - *Windows 10 Media Creation Tool*
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - *UEFI Kexts*
 * [ss64 OSX](https://ss64.com/osx/) - *macOS Bash Commands*
 * [Alfred](https://www.alfredapp.com/) - *Keystroke Launcher* 
@@ -1367,6 +1371,7 @@ General Reading Sites*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
 * [NHCalc](https://github.com/KhaosT/nhcalc) - *Compute Image NeuralHash*
 * [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - *Convert NeuralHash for CSAM Detection to ONNX / [Collision Finder](https://github.com/anishathalye/neural-hash-collider)*
+* [Is Apple Silicon ready?](https://isapplesiliconready.com/) - *M1 App Compatibility Chart*
 
 ***
 
@@ -1413,7 +1418,7 @@ General Reading Sites*
 * [Save Editor Online](https://www.saveeditonline.com/) - *Game Save Editor*
 * [Koalageddon](https://github.com/acidicoala/Koalageddon/) - *DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)*
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - *Controller Connectivity Testers*
-* [AimTrainer](https://aimtrainer.io/) - *Aim Trainer*
+* [Aim Lab](https://store.steampowered.com/app/714010/Aim_Lab/), [3D Aim Trainer](https://store.steampowered.com/app/1600530/3D_Aim_Trainer/) or [AimTrainer](https://aimtrainer.io/) - *Aim Training Tools & Games*
 * [MacroGamer](https://www.itoady.com/) - *Game Macro Recorder*
 * [Blitz](https://blitz.gg/) - *Post Match Performance Analyzer / [Adblocker](https://github.com/lulzsun/blitz-app-adblock)* 
 * [Map Genie](https://mapgenie.io/) - *Explore Game Maps* 
@@ -1508,6 +1513,8 @@ General Reading Sites*
 * [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - *Battlefield Mod Projects*
 * [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - *Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)*
 * [Among Us Free Chat Unlocker](https://github.com/Vili1/Among-us-Free-Chat-unlocker/releases/) - *Among Us Chat Unlocker*
+* [Titanfall2HudToggle](https://www.mediafire.com/file/q3tld2cm31znu2z/Titanfall2HudToggle.rar/file) - *Toggle Titanfall 2 Hud*
+* [FtG UI Mod](https://www.nexusmods.com/dragonage/mods/73) - *Make Dragon Age Text Readable*
 * [tModLoader](https://www.tmodloader.net/) - *Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)*
 
 ***
