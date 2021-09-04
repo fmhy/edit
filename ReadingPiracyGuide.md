@@ -628,6 +628,8 @@
 * [Higher Intellect](https://preterhuman.net/) - *Document Search* 
 * [SkillCommons](https://www.skillscommons.org/) - *Work Training Documents* 
 * [Institute of Education Sciences](https://eric.ed.gov/) - *Documents / Texts / Papers* 
+* [LAC](https://www.bac-lac.gc.ca/eng/Pages/home.aspx) - *Canadian Document Archive*
+* [Pandora](http://pandora.nla.gov.au/) - *Australian Document Archive*
 * [qDoc](https://qdoc.tips/)- *Document Search*
 * [EThOS](https://ethos.bl.uk/SearchResults.do) - *Doctoral Theses* 
 * [ndltd](http://search.ndltd.org/) - *Search theses and dissertations* 
