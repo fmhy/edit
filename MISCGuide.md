@@ -33,6 +33,7 @@
 * [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - *Piracy Index*
 * [Similar Sites](https://www.similarsites.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
 * [DirtyWarez](https://dirtywarez.org/) - *Ranks Sites*
+* [10 Words](https://discover.10words.io/) - *App / Tool Discovery*
 * [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - *Piracy Index*
 * [Neverland](http://www.neverland.ws/) - *Piracy Index* 
 * [pilssken](https://pilssken.neocities.org/warez/) - *Piracy Index* 
@@ -40,8 +41,8 @@
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software Index* 
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software Index*
 * [Awesome Linux](https://github.com/inputsh/awesome-linux), [2](https://luong-komorebi.github.io/Awesome-Linux-Software/) - *Linux Software / Resource Index*
-* [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - *Selfhosted Software Index* 
-* [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - *DataHoarding Tools Index*   
+* [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - *Self-Hosted Software Index* 
+* [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - *Data Hoarding Tools Index*   
 * [Get Started Into Cracks](https://rentry.org/getstartedintocracks) - *Piracy Starters Guide*
 * [cata-list](https://cata-list.github.io/) - *Site / Tool Index* 
 * [Prospector](https://www.prospector.cz/) - *Site / Tool Index* 
@@ -50,6 +51,7 @@
 * [GoodSites](https://www.goodsites.tech/) -  *Site / Tool Index* 
 * [Peelopaalu](https://peelopaalu.neocities.org/) - *Site / Tool Index*
 * [RefDesk](https://www.refdesk.com/facts.html) - *Site / Tool Index*
+* [Useful Interweb](https://usefulinterweb.com/) - *Daily Website Index*
 * [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - *Chinese Site / Tool Index*
 * [Mostly Free](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - *Site / Tool Index*
 * [iBiblio](https://www.ibiblio.org/) - *Site / Tool Index* 
@@ -286,6 +288,7 @@
 * [Talk Obama To Me](http://talkobamato.me/) - *Make Obama Say Stuff*
 * [Slap Kirk](https://www.slapkirk.com/) - *Slap Captain Kirk*
 * [Slide Ventura](https://slideventura.com/) - *Ace Ventura Sliding Door Simulator*
+* [pls pet doge](http://plspetdoge.com/) - *Pet Doge* 
 * [Do not open the door](http://mexicans.eu/) - *Don't you dare...*
 * [ThisXDoesNotExist](https://thisxdoesnotexist.com/) - *Realistic-looking fake versions of things* 
 * [ThisPersonDoesNotExist](https://www.thispersondoesnotexist.com/) - *People That Don't Exist*
@@ -413,13 +416,16 @@
 * [Awesome Chess](https://github.com/hkirat/awesome-chess) - *Chess Resource Index*  
 * [Awesome Go/Baduk/Weiqi](https://github.com/yanchick/awesome-GoBadukWeiqi) - *Go/Baduk/Weiqi Resource Index* 
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - *Unused Video Game Content Research*
-* [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [arch.b4k](https://arch.b4k.co/) or [Sup/tg/](http://suptg.thisisnotatrueending.com/)  - *4Chan Archive*
-* [Zoomquilt2](http://zoomquilt2.com/) - *An infinitely zooming painting* 
+* [Bibliotheca Anonoma](https://bibanon.org/) - *Internet Folklife Wiki / [Discord](https://discord.com/invite/3jxxGDC)*
+* [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion), [BibAnon](http://vyrd.bibanon.org/), [4Museum](https://4museum.neocities.org/), [arch.b4k](https://arch.b4k.co/) or [Sup/tg/](http://suptg.thisisnotatrueending.com/)  - *4Chan Archive*
+* [Zoomquilt2](http://zoomquilt2.com/) - *Infinite Zooming Painting* 
 * [Mirage Gallery](https://www.miragegallery.ai/) - *AI Art Gallery* 
+* [Virtual World List](https://virtualworldslist.neocities.org/) - *Virtual World List*
 * [Common Voice](https://www.saveriomorelli.com/commonvoice/) - *Help Teach a Machine How to Talk* 
 * [RubikSolve](https://rubiksolve.com/) - *Rubik's Cube Solver* 
 * [iFake](https://ifaketextmessage.com/) - *Make Fake Text Conversation* 
 * [SecretRickRoll](https://www.secretrickroll.com/) - *Custom Rick Roll Generator* 
+* [FOAAS](https://github.com/tomdionysus/foaas) - *Automate Telling People to Fuck Off*
 * [The Fed](https://thefed.app/) - *Central Banking Game* 
 * [Money printer go BRRR](https://brrr.money/) - *Print it, baby!* 
 * [The Tsuki Project](https://classic.systemspace.network/) - *Gain Eternal Life / [Explanation](https://youtu.be/mWkgvM-Qnhw)*
@@ -494,6 +500,7 @@
 * [/r/Fexibility](https://www.reddit.com/r/flexibility/) - *Flexibility Subreddit*
 * [My Pacer](https://www.mypacer.com/) - *Fitness App / Pedometer*
 * [MyFitnessPal](https://www.myfitnesspal.com/) - *Fitness / Health App*
+* [FitoTrack](https://codeberg.org/jannis/FitoTrack) - *Fitness Tracker*
 * [Awesome Nutrition Calculator](https://github.com/RolandKawka/awesome-nutrition-calculator) - *Nutrition Calculator*
 * [wger](https://wger.de/) - *Self-Hosted Workout, Nutrition & Weight App / [GitHub](https://github.com/wger-project/wger)*
 * [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
