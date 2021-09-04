@@ -645,7 +645,7 @@
 * [TV Underground](https://tvunderground.org.ru/) - *TV* 
 * [ATORRENTS](https://atorrents.com/) - *Movies*
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - *Movies*
-* [YTS](https://yts.mx/) - **WARNING:** Do [*NOT*](https://androidrookies.com/top-torrent-website-yts-is-sharing-user-emails-and-ip-addresses-with-anti-piracy-law-firm/) make a YTS account! - *Movies / [Mirror](https://yify.netlify.app/)* 
+* [YTS](https://yts.mx/) - *Movies / [Mirror](https://yify.netlify.app/) / Do [NOT](https://androidrookies.com/top-torrent-website-yts-is-sharing-user-emails-and-ip-addresses-with-anti-piracy-law-firm/) Make Account* 
 * [xbit](https://xbit.pw/) - *Movie Torrent Release Information*
 * [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all), [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout), [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod), [IMDb Torrent Search](https://github.com/Crecket/imdb-torrent-search) or [TMDB-Torrent-Movie-Database](https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database) - *Add Torrent Site Results to IMDb Pages*
 * [IMDB to RARBG](https://greasyfork.org/en/scripts/376793-imdb-to-rarbg-torrent-search) - *RARBG Torrent / Magnet Links on IMDB* 
