@@ -122,6 +122,8 @@
 * [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - *Discord Code Blocks*
 * [Hacking Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_hacking_tests_.2F_games) - *Hacking Tests & Games*
 * [XunLei](https://www.xunlei.com/) - *Shared Computing / Blockchain*
+* [CuratedSEOTools](https://github.com/sneg55/curatedseotools) - *SEO Tool Index*
+* [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - *Sites to Post Your Startup*
 
 ***
 
@@ -277,7 +279,8 @@
 ## ▷ Git Tools
 
 * **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)** - *List Index*
-* [GitHubDesktop](https://desktop.github.com/) - *GitHub Desktop App*
+* [GitHub Desktop](https://desktop.github.com/) - *GitHub Desktop App*
+* [GitHub.Dev](https://github.dev/) - *GitHub Web App*
 * [GitKraken](https://www.gitkraken.com/) or [Sourcetree](https://www.sourcetreeapp.com/) - *Git GUI*
 * [Codeberg](https://codeberg.org/), [Giters](https://www.giters.com/) or [GitGud](https://gitgud.io/) - *Git Hosting*
 * [Git / Github Guide](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
