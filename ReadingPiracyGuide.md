@@ -24,6 +24,7 @@
 * [BookAudiobook](https://bookaudiobook.com/) - *Listen Online*
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - *Listen Online*
 * [Audiobook Slab](https://audiobookslab.com/) - *Listen Online*
+* [AudiobookBoi](https://audiboi.com/home/) - *Listen Online*
 * [Litube](https://litube.net/) - *Listen Online*
 * [AudioBook Reviews](https://audiobookreviews.com/) 
 * [xAudiobooks](https://xaudiobooks.com/)
