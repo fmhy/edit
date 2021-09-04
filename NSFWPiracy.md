@@ -184,6 +184,7 @@
 * [Porn-Vault](https://github.com/porn-vault/porn-vault) or [Stash](https://github.com/stashapp/stash) - *Porn File Manager*
 * [reddnight](https://reddnight.com/) - *NSFW Reddit Client*
 * [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/) - *NSFW Reverse Image Search*
+* [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - *Booru Client / [Telegram](https://t.me/Flexbooru/161)*
 * [Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button) - *Quickly Close All Tabs*
 * [Chaturbate Enhanced](https://openuserjs.org/scripts/stixmaster/Chaturbate_Enhanced) or [Chaturbate Clean](https://openuserjs.org/scripts/ladroop/Chaturbate_Clean) - *Improve Chaturbate Functionality*
 * [Sleazy Fork](https://sleazyfork.org/) - *Adult User Scripts*
