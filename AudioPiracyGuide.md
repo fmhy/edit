@@ -50,6 +50,7 @@
 * [datpiff](https://www.datpiff.com/) - *Mixtapes*
 * [pumpyouup](http://www.pumpyouup.com/) - *Indie Dubstep*
 * [musopen](https://musopen.org/music/) - *Classical*
+* [AniPlaylist](https://aniplaylist.com/) - *Anime OST*
 * [Bandcamp](https://bandcamp.com/tag/free-music?tab=all_releases) - *Free Bandcamp Music* 
 * [Audius](https://audius.co/) - *User Made Music Platform*
 * [GetFVid](https://www.getfvid.com/) - *Facebook Video / Audio Downloader* 
