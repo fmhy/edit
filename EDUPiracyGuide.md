@@ -106,6 +106,7 @@
 * [Courses](https://pastebin.com/jQB1shJg), [2](https://pastebin.com/Z7L3Ypzd) - *Courses / Drives*
 * [online-courses](https://online-courses.club/) - *Courses*
 * [Course Upload](https://courseupload.com/) - *Courses* 
+* [FTUForums](https://www.ftuforums.com/) - *Courses / [Discord](https://discord.gg/xAsMX52)*
 * [Coursesghar](https://coursesghar.com/) - *Courses* 
 * [FreeEducationWeb](https://freeeducationweb.com/) - *Courses* 
 * [DLECourse](https://dlecourse.com/) - *Courses* 
