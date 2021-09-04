@@ -101,7 +101,6 @@
 * [PlantStudio](https://www.kurtz-fernhout.com/summary_plantstudio.html) - *Plant Model / Illustration Creator* 
 * [Dummy Image](https://dummyimage.com/) - *Dynamic Dummy Image Generator* 
 * [CLIP-GLaSS](https://colab.research.google.com/drive/1fWka_U56NhCegbbrQPt4PWpHPtNRdU49?usp=sharing#scrollTo=zvZFRZtcv8Mp) - *Image Generation Tool* 
-* [ASCII art creator](https://github.com/CherryPill/ASCII-art-creator) - *Use Images to Generate ASCII Art*
 * [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) - *Chimera Generator* 
 
 ***
