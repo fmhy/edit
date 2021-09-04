@@ -192,7 +192,7 @@ App Manager
 * [Etar](https://github.com/Etar-Group/Etar-Calendar) - *Calendar*
 * [Dailly](https://github.com/hydroxion/dailly/) - *Create, manage & track your daily goals*
 * [unhabits](https://github.com/iSoron/uhabits) - *Bad Habit Tracker*
-* [FitoTrack](https://codeberg.org/jannis/FitoTrack) - *Fitness Tracker*
+* [AnyTracker](https://sites.google.com/view/anytracker) - *Track Anything*
 * [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - *Food Product Ingredient Scanner*
 * [Language Drops](https://languagedrops.com/) or [10,000 Sentences](https://github.com/tkrajina/10000sentences) - *Language Learning App / [Premium](https://forum.mobilism.org/search.php?keywords=drops&sr=topics&sf=titleonly)*
 * [Manji](https://github.com/Livinglist/Manji) - *Language Learning / Japanese / Kanji*  
