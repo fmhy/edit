@@ -47,7 +47,7 @@
 * [Tempus](https://tempus.keziahmoselle.fr/) - *Productivity Tracker* 
 * [SunCalc](https://www.suncalc.org/) - *Sun Position / Phase Calculator* 
 * [MoonCalc](https://www.mooncalc.org/) - *Moon Position / Phase Calculator* 
-* [DoINeedAJacket](https://doineedajacket.com/weather/) or [wttr](https://wttr.in/) - *Simple Weather Reports*
+* [DoINeedAJacket](https://doineedajacket.com/weather/), [DogeWeather](http://dogeweather.com/) or [wttr](https://wttr.in/) - *Simple Weather Reports*
 * [RTL-SDR](https://gist.github.com/fasiha/c123a9c6b6c78df7597bb45e0fed808f) - *DIY FAA & EASA Satellite Feeds / Transponder*
 * [Cool Generator](https://www.coolgenerator.com/) or [Random Lists](https://www.randomlists.com/) - *Generate Anything*
 * [Wheel Decide](https://wheeldecide.com/) - *Wheel Randomizer*
@@ -1165,6 +1165,7 @@ General Reading Sites*
 * [DynaWin](https://github.com/Apollo199999999/DynaWin) - *Dynamic Desktop Themes*
 * [SecuredUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - *Ux Theme Patcher*
 * [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) - *Theme Source Patcher*
+* [Windows-Ricing](https://github.com/winthemers/windows-ricing) - *Rice Windows*
 * [OpenRGB](https://openrgb.org/) - *System Lighting Control / [GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)*
 * [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - *Audio Visualizer / FX Engine for Keyboards, Mice & Accessories*
 * [Mechvibes](https://mechvibes.com/) or [MechaKeys](https://mechakeys.robolab.io/) - *Keyboard Soundpacks*
