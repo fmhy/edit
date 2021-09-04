@@ -21,6 +21,7 @@
 * [MagicaVoxel](https://ephtracy.github.io/) - *Voxel Art Editor / Interactive Path Tracing renderer*
 * [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - *Text Driven Image Manipulation / [Video](https://youtu.be/5icI0NgALnQ)*
 * [Vectr](https://vectr.com/) - *Online Vector Graphics Editor* 
+* [Images.weserv.nl](https://images.weserv.nl/) - *Image Editing Server*
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - *Mac Image Editing Software* 
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Linux Image Editing Software* 
 * [darktable](https://www.darktable.org/) - *Virtual Lighttable & Darkroom*
