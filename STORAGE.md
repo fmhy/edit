@@ -896,7 +896,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Extensions**
 
-**[Download Helper](http://www.downloadhelper.net/)**, [Video Downloader](https://provd.net/), [AddonCrop](https://addoncrop.com/extensions/)
+**[Download Helper](http://www.downloadhelper.net/)**, [Video Downloader](https://provd.net/), [AddonCrop](https://addoncrop.com/extensions/), [Cococut](https://cococut.net/), [Download Helper](http://www.downloadhelper.net/)
 
 ***
 
