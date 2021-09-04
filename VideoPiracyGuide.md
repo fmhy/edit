@@ -237,7 +237,7 @@
 ## ▷ Anime Streaming
 
 * **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
-* **[/r/AnimePiracy Index](https://piracy.moe/)** or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - *Curated List of Anime Sites / [Discord](https://discord.gg/piracy)*
+* **[/r/AnimePiracy Index](https://piracy.moe/)**, [TG Anime Index](https://telegra.ph/Websites-To-Watch-And-Download-Anime-09-10) or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - *Curated List of Anime Sites / [Discord](https://discord.gg/piracy)*
 * **[Zoro](https://zoro.to/)** - *Sub / Dub*
 * **[9Anime](https://www.9anime.to/)** or [9anime.ru](https://www.9anime.ru/) - *Sub / Dub / [Mirrors](https://9anime.me/) / [Use Filter](https://redd.it/c330dx)*
 * **[Anime Twist](https://twist.moe/)** - *Sub / [Discord](https://discord.gg/Ea3Mq9n)*
@@ -557,7 +557,7 @@
 
 ## ▷ Anime Downloading
 
-* **[/r/AnimePiracy Index](https://piracy.moe/)** - *Curated List of Anime Sites / [Discord](https://discord.gg/piracy)*
+* **[/r/AnimePiracy Index](https://piracy.moe/)** or [TG Anime Index](https://telegra.ph/Websites-To-Watch-And-Download-Anime-09-10) - *Curated List of Anime Sites / [Discord](https://discord.gg/piracy)*
 * **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
 * **[AnimeKaizoku](https://animekaizoku.com/)** - *Sub / Dub*
 * **[hi10anime](https://hi10anime.com/)** - *Sub*
