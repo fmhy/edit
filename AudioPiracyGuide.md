@@ -85,6 +85,7 @@
 * [myTuner](https://mytuner-radio.com/) - *Podcasts / Radio*
 * [TuneIn](https://tunein.com/) - *Podcasts / Radio*
 * [Kukufm](https://kukufm.com/) - *Podcasts / Radio* 
+* [PodParadise](https://www.podparadise.com/) - *Podcasts*
 * [Podbean](https://www.podbean.com/) - *Podcasts*
 * [Podbay](https://podbay.fm/) - *Podcasts*
 * [player.fm](https://player.fm/) - *Podcasts*
