@@ -45,6 +45,7 @@
 * [SoundClick](https://www.soundclick.com/default.cfm) - *Browser Music*
 * [Tancpol](https://tancpol.net/) - *Browser Music*
 * [MP3 Quack](https://mp3quack.lol/) - *Browser Music*
+* [Vapor Archive](https://vaporarchive.neocities.org/) - *Vaporwave*
 * [hypem](https://hypem.com/popular) - *Rising*
 * [datpiff](https://www.datpiff.com/) - *Mixtapes*
 * [pumpyouup](http://www.pumpyouup.com/) - *Indie Dubstep*
