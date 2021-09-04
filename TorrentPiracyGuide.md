@@ -33,6 +33,7 @@
 * [aria2](https://aria2.github.io/) - *Terminal Torrent Client / [Screenshot](https://i.imgur.com/KV0pSjt.png) / [Github](https://github.com/aria2/aria2)*
 * [mtorrent](https://github.com/nektro/mtorrent) - *Terminal Torrent Client* 
 * [libtorrent](https://www.libtorrent.org/) - *C++ BitTorrent Client*
+* [exatorrent](https://github.com/varbhat/exatorrent) - *Self-Hosted Client*
 * [Rats Search](https://github.com/DEgITx/rats-search) - *Torrent Search Client / [Screenshot](https://github.com/DEgITx/rats-search#screenshots)* 
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
 * [Loadbt](https://www.loadbt.com/) - *Torrent / Stream to Cloud*  
@@ -91,7 +92,6 @@
 * [MagnetDL](https://www.magnetdl.com/) - *Video / Audio / Games / Software / Books*
 * [YggTorrent](https://ww3.yggtorrent.si/) - *Video / Audio / Roms / Software / Books / Android / Comics*
 * [LimeTorrents](https://www.limetorrents.info/) - *Video / Audio / Software / Games / Books*
-* [ExtraTorrent](https://extratorrent.si/) - *Video / Audio / Software / Games / Android / Books / NSFW*  
 * [YourBittorrent](https://yourbittorrent.com/), [2](https://yourbittorrent2.com/) - *Video / Audio / Software / Games / Books / NSFW*
 * [ProStyleX](https://prostylex.org/) - *Video / Audio / Books / Games / Software / NSFW*  
 * [IsoHunt](http://isohunt.ee/), [IsoHunts](https://isohunts.to/) or [IsoHunt.nz](https://isohunt.nz/) - *Video / Audio / Games / Software / Books*
@@ -155,15 +155,15 @@
 * [Badass Torrents](https://badasstorrents.com) - *Search aggregator*
 * [7Torrent](https://www.7torrents.cc/) - *Search aggregator*
 * [concen](https://www.concen.org/torrents) - *Search aggregator*
-* [BTSearch](https://www.btsearch.ml/) - *Multi site search* 
-* [Solid Torrents](https://solidtorrents.net/) - *Multi site search / [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)*
-* [TorrentSeeker](https://torrentseeker.com) - *Multi site search*
-* [Torrentzeta](https://www.torrentzeta.com/) - *Multi site search*
+* [BTSearch](https://www.btsearch.ml/) - *Multi Site Search* 
+* [Solid Torrents](https://solidtorrents.net/) - *Multi Site Search / [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)*
+* [TorrentSeeker](https://torrentseeker.com) - *Multi Site Search*
+* [Torrentzeta](https://www.torrentzeta.com/) - *Multi Site Search*
 * [Toorgle](http://www.toorgle.com/) - *Multi site search* 
-* [Torrents.csv](https://torrents-csv.ml/#/) - *Torrent csv Search*
+* [Torrents.csv](https://torrents-csv.ml/#/) - *Torrent CSV Search*
 * [BTDigg](https://btdig.com/index.htm) - *Torrent DHT Search Engine*
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - *Magnet Web App Search*
-* [magnetico](https://github.com/boramalper/magnetico) or [Torrentinim](https://github.com/sergiotapia/torrentinim) - *Self Hosted Torrent Search Engine*
+* [magnetico](https://github.com/boramalper/magnetico) or [Torrentinim](https://github.com/sergiotapia/torrentinim) - *Self-Hosted Torrent Search Engine*
 * [Veoble](http://veoble.com/torrent/) - *Multi Site Search* 
 * [torrentsearcher_bot](https://t.me/torrentsearcher_bot), [torrenthuntbot](https://t.me/torrenthuntbot) or [FDTorrentSearchBot](https://t.me/FDTorrentSearchBot) - *Telegram Torrent Search Bot* 
 * [RSSFeedz](https://t.me/rssfeedz) - *Torrent RSS Feed*
