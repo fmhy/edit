@@ -631,6 +631,7 @@
 * [Institute of Education Sciences](https://eric.ed.gov/) - *Documents / Texts / Papers* 
 * [LAC](https://www.bac-lac.gc.ca/eng/Pages/home.aspx) - *Canadian Document Archive*
 * [Pandora](http://pandora.nla.gov.au/) - *Australian Document Archive*
+* [Parliament Archives](https://archives.parliament.uk/) - *UK Parliamentary Documents*
 * [qDoc](https://qdoc.tips/)- *Document Search*
 * [EThOS](https://ethos.bl.uk/SearchResults.do) - *Doctoral Theses* 
 * [ndltd](http://search.ndltd.org/) - *Search theses and dissertations* 
@@ -809,7 +810,7 @@
 * [MotoKare](https://motokare.xyz/reader/)
 * [CatManga](https://catmanga.org/)
 * [Tritinia](https://tritinia.com/)
-* [AsuraScans](https://asurascans.com/)
+* [AsuraScans](https://asurascans.com/) - *[Discord](https://discord.gg/asurascans)*
 * [MangaJar](https://mangajar.com/)
 * [ReadManhua](https://readmanhua.net/)
 * [NineManga](http://www.ninemanga.com)
