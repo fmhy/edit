@@ -119,7 +119,6 @@
 * [Rom Managers](http://emulation.gametechwiki.com/index.php/ROM_managers) - *List of Rom Managers*
 * [Emulator Netplay Tools](http://emulation.gametechwiki.com/index.php/Netplay) - *Multiplayer Emulation*
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - *Roms / [Discord](https://discord.gg/rH9wRpu2vh)* 
-* [PlayStationDiscord-Games](https://github.com/Tustin/PlayStationDiscord-Games) - *PS4 Remote Play* 
 * [PlanetEmu](http://www.planetemu.net/) - *Emulators*
 * [RoyalRoms](https://www.royalroms.com/) - *Emulators / Roms* 
 * [EmuCR](https://www.emucr.com/) - *Emulators*
@@ -163,19 +162,6 @@
 * [Eclipse](https://eclipseemu.me/play/) - *Online Mobile Multi-Console Emulator* 
 * [webnofrendo](https://zardam.github.io/webnofrendo/) - *NES Numworks Emulator*
 * [/r/Roms](https://www.reddit.com/r/Roms/) - *Discussion Sub*
-* [GameBoy Tech Page](https://web.archive.org/web/19990209041732/http://home.hiwaay.net/%7Ejfrohwei/gameboy/home.html) - *Gameboy Tools*
-* [GameBoy Book Reader](https://www.mqp.com/fun/) - *Gameboy Book Reader*
-* [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - *Add More Roms to NES/SNES Classic Mini*
-* [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - *.XBE to ISO File Converter*
-* [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - *Wii Homebrew Installer / [Find MAC](https://www.nintendo.com/consumer/systems/wii/en_na/includes/rvl-ht-int-find-mac-address.jsp)*
-* [WiiU Exploit](https://wiiuexploit.xyz/) - *WiiU Homebrew Installer*
-* [Homebrew Gang](https://thehbg.shop/main.html) - *Switch Homebrew Community*
-* [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - *Switch Hacking Forum / Guides*
-* [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - *PS3 Homebrew Subreddit*
-* [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) - *Yuzu Emulator Setup Guide*
-* [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - *PSCX Development Emulator*
-* [3DS Hack Guide](https://3ds.hacks.guide/) - *Custom Firmware*
-* [Theme Plaza](https://themeplaza.art/themes) - *3DS Themes*
 * [RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list) - *Emulator Tool Index*
 
 ***
@@ -234,6 +220,7 @@
 * [WiiWare Collection](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) - *Roms / WiiWare*
 * [Wii Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wii_roms) - *Roms / Wii*
 * [Switch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - *Roms / Nintendo Switch*
+* [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) - *Yuzu Emulator Setup Guide*
 * [Gamecube Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gamecube_roms) - *Roms / GameCube*
 * [Gameboy Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gameboy_roms) - *Roms / Gameboy*
 * [DS Roms](https://archive.org/details/noIntroNintendoDsDecrypted2019Jun30), [2](https://mega.nz/folder/33AhDa4T#awOqr7lhZYFgjXoMMu6_8w) - *Roms / DS*
@@ -244,9 +231,9 @@
 * [Dreamcast Collection](https://archive.org/details/almstcmpltdrmcst) - *Roms / Dreamcast*
 * [Sega Saturn Collection](https://archive.org/details/SgaStrnCmplt) - *Roms / Sega Saturn*
 * [3DO Roms](https://archive.org/details/3DO_2017_Reference_Set_Redump_Validated_ROMs), [2](https://archive.org/details/Panasonic-3DO-Redump.org-2019-05-14) - *Roms / 3DO*
-* [Xbox Collection](https://archive.org/details/xboxcds?sort=-downloads) - *CD Roms / Xbox / DDL / Torrents*
 * [datcheck](https://github.com/pkos/datcheck) - *Compare No-Intro / Redump dat files to rom or disc collection* 
 * [HiddenPalace](https://hiddenpalace.org/) - *Game Development Media Archive*
+* [Xbox Collection](https://archive.org/details/xboxcds?sort=-downloads) - *CD Roms / Xbox / DDL / Torrents*
 
 ***
 
