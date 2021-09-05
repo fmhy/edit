@@ -279,10 +279,12 @@
 * [/r/Space](https://reddit.com/r/Space) - *Space Subreddit*
 * [Space Dashboard](https://spacedashboard.com/) - *Space Live Stream Dashboard* 
 * [ISS Sim](https://iss-sim.spacex.com/) - *ISS Docking Simulator* 
+* [Satellite Imagery](https://rammb-slider.cira.colostate.edu/) - *Satellite Imagery GOES-16*
 * [Andegraf Rockets](http://rockets.andegraf.com/) - *Rocket Diagrams*
 * [Interactive Apollo Missions](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - *Apollo in Real Time* 
 * [Moon.Nasa](https://moon.nasa.gov/) - *Explore the Moon* 
 * [Earth and Moon Viewer](http://www.fourmilab.ch/cgi-bin/Earth) - *Earth / Moon Latitude & Longitude Viewer*
+* [SunCalc](https://www.suncalc.org/) or [MoonCalc](https://www.mooncalc.org/) - *Sun & Moon Position / Phase Calculators* 
 * [Mars Explorer](https://mars-explorer.dhaiwatpandya.com/) - *Curiosity Rover Pictures*
 * [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/) - *Interactive Index of Moons* 
 * [Helioviewer](https://www.helioviewer.org/) - *Sun Visualization Tool* 
@@ -417,7 +419,9 @@
 * [/r/ApStudents Resources](https://drive.google.com/open?id=1mPT8O9Nou4udtUQOl0W8dk5JgeRNZHSI) - *Former AP Exams*
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - *AP Exam Comparison Spreadsheet*
 * [AQA GCSE 2019](https://drive.google.com/drive/folders/1xIaxfQYePlTT2XxRXYMOjXduvZzaYyP7?usp=sharing) - *AQA 2019 GCSE Exams*
+* [Future Vision BIE](https://hemanthrajhemu.github.io/) - *VTU Study Materials*
 * [GCE Guide](https://gceguide.com/) - *Cambridge Assessment Guide*
+* [ITExams](https://www.itexams.com/) - *IT Exam Collection*
 * [The Problem Site](https://www.theproblemsite.com/) - *Problems / Puzzles/ Games*
 * [PuzzlePrime](https://www.puzzleprime.com/) - *Problems / Puzzles*
 * [LateralPuzzles](http://www.lateralpuzzles.com/) - *Lateral Thinking Puzzles*
@@ -481,7 +485,6 @@
 * [Sideways Dictionary](https://sidewaysdictionary.com/) - *Common Computer Terms Explained Simply*
 * [SciGen](https://pdos.csail.mit.edu/archive/scigen/) - *CS Paper Generator*
 * [pdfparanoia](https://github.com/kanzure/pdfparanoia) - *Academic Paper Watermark Removal*
-* [Future Vision BIE](https://hemanthrajhemu.github.io/) - *VTU Study Materials*
 * [The Chomsky Index](https://github.com/jasons-gh/the-chomsky-index) - *Noam Chomsky Content Index Tool*
 * [P2PU](https://www.p2pu.org/) - *Join Learning Groups Using Free Courses*
 * [CollegeComendium](https://collegecompendium.goldin.io/) - *Free Computer Science Classes*
