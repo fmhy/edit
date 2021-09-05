@@ -120,6 +120,7 @@
 * [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app ) - *Libgen Mobile App* 
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) or [AndrOpen](https://www.andropenoffice.com/) - *Office Suite* 
 * [xShare](https://github.com/tsudoko/xshare) - *Screenshot Tool*
+* [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/) - *Audio Recorder*
 * [Grammarly](https://forum.mobilism.org/search.php?keywords=Grammarly&amp;sr=topics&amp;sf=titleonly) - *Grammarly Keyboard Premium* 
 * [Fing](https://www.fing.com/products/fing-app) - *Network Toolkit* 
 * [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage) - *Disk Usage Analyzer*
