@@ -70,6 +70,7 @@
 * [State of the DApps](https://www.stateofthedapps.com/) - *Blockchain App Index* 
 * [List of Lists](https://l-lists.com/en/) - *List Index*
 * [Pointless Sites](https://www.pointlesssites.com/) - *Pointless Site Index*
+* [National Archives](http://www.nationalarchives.gov.uk/webarchive/) - *UK Government Site Archive*
 * [DeepWebLinks](https://deepweblinks.net/directories/), [dark.fail](https://dark.fail/),  [260+ Dark Web Links](https://ufile.io/pgvxf9jv), [Official Hidden Wiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/) or [Real World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites)
 * [RFS](https://t.me/rfsnotes) - *Telegram Channels / TeamDrives / Tools*  
 * [Telegram Channels](https://telegramchannels.me/), [TG-ME](https://www.tg-me.com/), [TELEGRAM INDEX](https://t.me/tg_indexs), [tg_indexs](https://t.me/tg_indexs) or [Telegramic](https://telegramic.org/) - *Telegram Channel Index*
@@ -187,6 +188,7 @@
 
 # ► Fun Sites
 
+* **[Fun Stuff Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fun_indexes)** - *Toy, Game & Experiment Indexes*
 * **[Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - *Multireddits Curated by FMHY Members*
 * **[r.sine.com](https://r.sine.com/index)**, [Funnyjunk](https://funnyjunk.com//) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Memes & GIFs / Some NSFW*
 * **[Random Comic Generator 3.0](https://explosm.net/rcg)** - *Explosm Random Comic Generator*
@@ -202,10 +204,6 @@
 * **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - *Realistic-Looking Fake Versions of Things* 
 * [StumblingOn](https://stumblingon.com/), [Stumbled](https://stumbled.cc/), [BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/), [JumpStick](https://jumpstick.app/) or [OpenBulkURL](https://openbulkurl.com/random/) - *Takes you to a Random Site*
 * [KongouCheats](https://kongoucheats.com/) - *Watch Random Memes / Videos* 
-* [Neal.fun](https://neal.fun/), [Creative Tech Guy](https://creativetechguy.com/) or [JenniferDewalt](https://jenniferdewalt.com/) - *Sites / Tools / Games*
-* [Just For Fun](https://justforfun.io/) or [Andrew Marsh](http://andrewmarsh.com/software) - *Coding Project Showcase* 
-* [Trippy shit Mega List](https://triptoysfor.me/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave), [BoredHumans](http://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](http://www.thisismywebsitenow.com/) or [Mr.doob](https://mrdoob.com/) - *Toys & Experiments* 
-* [Bimble Space](https://in.bimble.space/toys) - *Multiple Toys / Art Tools* 
 * [Kamogo](https://www.kamogo.com/faq/) - *Useless Web Apps*
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - *Turn Screen into Strobe / Mood Light*
 * [Drinking Game Zone](https://drinkinggamezone.com/) - *Drinking Games Encyclopedia* 
@@ -421,7 +419,6 @@
 * [Mirage Gallery](https://www.miragegallery.ai/) - *AI Art Gallery* 
 * [Virtual World List](https://virtualworldslist.neocities.org/) - *Virtual World List*
 * [Common Voice](https://www.saveriomorelli.com/commonvoice/) - *Help Teach a Machine How to Talk* 
-* [RubikSolve](https://rubiksolve.com/) - *Rubik's Cube Solver* 
 * [iFake](https://ifaketextmessage.com/) - *Make Fake Text Conversation* 
 * [SecretRickRoll](https://www.secretrickroll.com/) - *Custom Rick Roll Generator* 
 * [FOAAS](https://github.com/tomdionysus/foaas) - *Automate Telling People to Fuck Off*
@@ -480,6 +477,7 @@
 * [tellspecopedia](http://www.tellspecopedia.com/) - *List of Food Ingredients & Effects on Body*
 * [/r/Nutrition](https://www.reddit.com/r/nutrition/) - *Nutrition Subreddit*
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - *Child Nutrition / Cooking Course* 
+* [Liam Rosen's Fitness Guide](http://liamrosen.com/fitness.html) - *Beginners Health & Fitness Guide*
 * [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) - *Fitness / Nutrition Info* 
 * [The Fitness Wiki](https://thefitness.wiki/) - *Fitness Information Wiki*
 * [/u/KNightNox Diagram](https://i.imgur.com/ipBxg5p.jpg) - *Zoomable Exercise Diagram*
@@ -494,8 +492,9 @@
 * [Simple Science Fitness](https://ss.fitness/calculators) - *Fitness Calculators* 
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - *BMR / TDEE Calculator*
 * [/r/BodyweightFitness](https://www.reddit.com/r/BodyweightFitness) - *Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)*
- * [/r/LoseIt](https://www.reddit.com/r/loseit/) - *Weight Loss Subreddit*
-* [/r/GainI ](https://www.reddit.com/r/gainit/) - *Healthy Weight Gain Subreddit*
+* [/r/LoseIt](https://www.reddit.com/r/loseit/) - *Weight Loss Subreddit*
+* [Weight Loss Side Effects](https://weight-loss-side-effects.netlify.app/) - *Weight Loss Side Effect Mitigation*
+* [/r/GainIt](https://www.reddit.com/r/gainit/) - *Healthy Weight Gain Subreddit*
 * [/r/Fexibility](https://www.reddit.com/r/flexibility/) - *Flexibility Subreddit*
 * [My Pacer](https://www.mypacer.com/) - *Fitness App / Pedometer*
 * [MyFitnessPal](https://www.myfitnesspal.com/) - *Fitness / Health App*
@@ -532,7 +531,8 @@
 * [Windy](https://www.windy.com/) - *Wind Map* 
 * [Air Now](https://gispub.epa.gov/airnow/) or [Breezometer](https://www.breezometer.com/air-quality-map/) - *Air Quality Map*
 * [River Runner](https://river-runner.samlearner.com/) - *River Map*
-* [Earth](https://earth.nullschool.net/) - *Global map of Wind, Weather, Ocean and Pollution conditions*
+* [Earth](https://earth.nullschool.net/) - *Global Map of Wind, Weather, Ocean & Pollution Conditions*
+* [SunCalc](https://www.suncalc.org/) or [MoonCalc](https://www.mooncalc.org/) - *Sun & Moon Position / Phase Calculators* 
 * [Wikimapia](http://wikimapia.org/) - *Online Editable Map*
 * [MapChart](https://mapchart.net/) - *Create Custom Maps* 
 * [City Roads](https://anvaka.github.io/city-roads/) - *Draw City Roads*
@@ -608,14 +608,15 @@
 * [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](http://arcade.photonstorm.com/) - *Arcade Font Engine*
 * [MeeshDesigns](http://www.meeshdesigns.com/Western%20Fonts/) - *Font Index* 
 * [MacType](https://github.com/snowie2000/mactype/releases) - *Use Mac fonts on Windows*
+* [Zalgo](http://eeemo.net/) or [lingojam](https://lingojam.com/WeirdTextGenerator) - *Weird Font Style Generators*
+* [Picas](https://picas.vercel.app/) - *Google Font Logo Generator*
 * [FontJoy](https://fontjoy.com/) - *Font Pairings Generator*
-* [WhatTheFont](https://www.myfonts.com/WhatTheFont/) or [What Font Is](https://www.whatfontis.com/) - *Font identification from an image*
+* [WhatTheFont](https://www.myfonts.com/WhatTheFont/) or [What Font Is](https://www.whatfontis.com/) - *Image Font Identification*
 * [Nerd Fonts](https://www.nerdfonts.com/) - *Iconic Font Aggregator*
 * [FontEdit](https://github.com/ayoy/fontedit), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/) or [Font Forge](https://fontforge.org/en-US/) - *Font Editor* 
 * [Transfonter](https://transfonter.org/) - *Font Converter*
 * [Calligraphr](https://www.calligraphr.com/en/) - *Create Your Own Fonts* 
 * [FontBase](https://fontba.se/) - *Font Manager* 
-* [Zalgo](http://eeemo.net/) or [lingojam](https://lingojam.com/WeirdTextGenerator) - *Weird Font style generators*
 
 ***
 
