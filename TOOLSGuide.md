@@ -70,11 +70,12 @@
 * [QR Tiger](https://www.qrcode-tiger.com/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - *QR Code Generator* 
 * [QRpicture](https://www.qrpicture.com/) - *Picture to QR Code Converter* 
 * [Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers) - *Create Resumes for Free*
-* [7 Cups](https://www.7cups.com/) - *Free Care & Therapy*
-* [Helpmap](https://helpmap.io/) - *Nonprofit Donation Map* 
-* [findhelp.org](https://www.findhelp.org/) - *Find Assistive Programs*
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - *Online Appraisals*
 * [TuboTax Sucks Ass](http://turbotaxsucksass.net/) - *File Taxes for Free*
+* [Helpmap](https://helpmap.io/) - *Nonprofit Donation Map* 
+* [7 Cups](https://www.7cups.com/) - *Free Care & Therapy*
+* [findhelp.org](https://www.findhelp.org/) - *Find Assistive Programs*
+* [/u/elkatiuskas' Resource List](https://redd.it/phrcrn) - *Abortion Resource Index*
 
 ***
 
