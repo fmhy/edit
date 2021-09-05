@@ -234,6 +234,7 @@
 * [datcheck](https://github.com/pkos/datcheck) - *Compare No-Intro / Redump dat files to rom or disc collection* 
 * [HiddenPalace](https://hiddenpalace.org/) - *Game Development Media Archive*
 * [Xbox Collection](https://archive.org/details/xboxcds?sort=-downloads) - *CD Roms / Xbox / DDL / Torrents*
+* [nintendo.co.jp](https://www.nintendo.co.jp/n01/index.html) - *Japanese N64 Roms*
 
 ***
 
@@ -475,7 +476,7 @@
 * [BestCrosswords](https://www.bestcrosswords.com/), [USAToday](https://games.usatoday.com/games/uclick-crossword) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - *Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)*
 * [Regex Cross­word](https://regexcrossword.com/) - *Regex Cross­words*
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - *Online Jigsaw Puzzles*
-* [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - *Solve a Rubix Cube / [Solver](https://rubiksolve.com/)* 
+* [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - *Solve a Rubix Cube / [Solver](https://rubiksolve.com/), [2](https://bnice.ru/asolver/)* 
 * [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&ia=answer) or [2048](https://play2048.co/) - *Play 2048*
 * [PROXX](https://proxx.app/) - *Space Minesweeper*
 * [Rockbasher](https://www.rockbasher.com/) - *Retro Style Puzzle Game*
