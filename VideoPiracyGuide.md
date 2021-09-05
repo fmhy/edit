@@ -118,7 +118,6 @@
 * [CurtStream](https://curtstream.com/) - *Movies / TV / Anime*
 * [WatchSeriesHD](https://www4.watchserieshd.tv/) - *Movies / TV / Anime* 
 * [DownloadAnyMovie](https://www.downloads-anymovies.com/) - *Movies* 
-* [Teatv.xyz](https://teatv.xyz/) or [F5Movies](https://f5movies.co/) - *Movies / TV / Anime*
 * [Vmovee](https://www.vmovee.watch/) - *Movies / TV*
 * [GoWatchSeries](https://www3.gowatchseries.bz/) - *Movies / TV / Anime* 
 * [HDO](https://w9.hdonline.eu/) - *Movies / TV / Anime* 
