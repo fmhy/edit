@@ -74,6 +74,7 @@
 * [adb-clear-packages](https://gist.github.com/noseratio/e3b136401965289c4aab40fa60f3be41) - *Clear Android Packages Data*
 * [Greentooth](https://f-droid.org/en/packages/com.smilla.greentooth/) - *Automatic Bluetooth Disabler* 
 * [Private Lock](https://f-droid.org/en/packages/com.wesaphzt.privatelock/) - *Lock your Phone via Movement* 
+* [SpoofCard](https://www.spoofcard.com/) - *Disguise Caller ID*
 * [Catch the Man-in-the-Middle](https://play.google.com/store/apps/details?id=me.brax.certchecker) - *Check if HTTPS Traffic is being Monitored* 
 * [Gadget Bridge](https://gadgetbridge.org/) - *Connect to Smartwatches without Vendor Apps / Accounts*
 * [Scrambled Exif](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif) - *Remove Image Metadata*
@@ -538,13 +539,14 @@ RSS Player*
 * [SecretPhotoAlbum++](https://apps.apple.com/us/app/secret-photo-album/id1459036428) - *Hide Photos Behind a Pin*
 * [Onion Browser](https://onionbrowser.com/) - *Onion Browser for iOS* 
 * [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - *Privacy Based Browser* 
-* [Anti-Social](https://apps.apple.com/us/app/faceblock-block-facebook/id1516200820) - *Block social media trackers / iOS* 
+* [Anti-Social](https://apps.apple.com/us/app/faceblock-block-facebook/id1516200820) - *Block Social Media Trackers* 
 * [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669), [surespot](https://www.surespot.me/), [Status](https://status.im/), [Session](https://getsession.org/), [Confide](https://apps.apple.com/ca/app/confide-secret-messenger/id779883419) or [chatsecure](https://chatsecure.org/) - *Encrypted Messaging* 
 * [Syphon](https://syphon.org/) - *Privacy Based Matrix Client / [GitHub](https://github.com/syphon-org/syphon)*
 * [Wickr](https://apps.apple.com/us/app/wickr-pro/id1200926568), [Jami](https://jami.net/), [MySudo](https://mysudo.com/) or [Element](https://apps.apple.com/app/vector/id1083446067) - *Encrypted Messaging / Video Calls*
 * [Bluer](https://apps.apple.com/us/app/bluer-for-facebook-messenger/id1490523710) - *Privacy-Based Facebook Client*
 * [ProtonMail](https://apps.apple.com/us/app/protonmail-encrypted-email/id979659905) - *Encrypted Emailing Service*
 * [Ariane 4](https://oppen.digital/software/ariane4/) / [2](https://codeberg.org/oppenlab/Ariane) - *Gemini Browser*
+* [SpoofCard](https://www.spoofcard.com/) - *Disguise Caller ID*
 
 ***
 
