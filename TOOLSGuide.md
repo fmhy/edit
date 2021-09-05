@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/SCfLvSN.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/l49Ajon.png)** - *For mobile users*
 
 ***
 *** 
@@ -1457,13 +1457,8 @@ General Reading Sites*
 * [Magpie](https://github.com/Blinue/Magpie) - *Enable AMD FSR on Any Game / [Tutorial](https://youtu.be/gac7llDa18k)*
 * [protondb](https://www.protondb.com/) or [Lutris](https://lutris.net/) - *Play Windows games on Linux*
 * [Moonlight Stream ](https://moonlight-stream.org/) or [Rainway](https://rainway.com/gaming) - *PC Remote Play Client / [GitHub](https://github.com/moonlight-stream)*
-* [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - *PS4 / PS5 Remote Play Client* 
-* [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - *PS4 Exploit Hosting PS4*
-* [Tinfoil](https://tinfoil.io/) - *Switch Title Manager / File Browser* 
-* [emuiibo](https://github.com/XorTroll/emuiibo) - *Amiibo Emulator*
-* [All Amiibo Bin Files](https://redd.it/mlvfak) - *Amiibo Bin Files*
-* [Easy Guide to Making Amiibo](https://redd.it/5ywlol) - *How-to Make Your Own Amiibo*
 * [Medal](https://medal.tv/) - *Nvidia Shadowplay for non Nicosia cards*
+* [dlss-swap](https://github.com/beeradmoore/dlss-swapper) - *Download, Manage & Swap DLSS *
 * [VibranceGUI](https://vibrancegui.com/) - *Automate Digitial Vibrance Control*
 * [ReShade](https://reshade.me/) - *Generic Post-Processing Injector / [GitHub](https://github.com/crosire/reshade)*
 * [Achievement Watcher](https://github.com/xan105/Achievement-Watcher) - *Achievement File Parser, Notifications & Playtime Tracker* 
@@ -1483,14 +1478,38 @@ General Reading Sites*
 * [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/) or [softether](https://www.softether.org/) - *Play Pirated Multiplayer Games*
 * [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) or [Netch](https://github.com/netchx/Netch/) - *Online Game Acceleration Proxy*
 * [Nemirtingas Galaxy Emu](https://gitlab.com/Nemirtingas/nemirtingas_galaxy_emu) - *GOG Galaxy Lan Emulator*
-* [Online Fix](https://online-fix.me/) - *Online Game Cracks / [Discord](https://discord.gg/yExgFYncMD)* 
-* [Slippi](https://slippi.gg/) - *Super Smash Bros Melee Online* 
-* [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) - *Multiplayer Switch Servers*
-* [CTGP Revolution](https://www.chadsoft.co.uk/) - *Mario Kart Wii Custom Tracks / Multiplayer*
-* [Wiimmfi](https://wiimmfi.de/) - *Wii / DS Multiplayer Revival*
 * [CnCNet](https://cncnet.org/) - *Multiplayer Command & Conquer* 
 * [NV: Multiplayer](https://nv-mp.com/) - *Fallout New Vegas Multiplayer Project / [Discord](https://discord.com/invite/mKVdhmEDrW)*
 * [BF2142 Reclamation](https://battlefield2142.co/) - *BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)*
+* [Online Fix](https://online-fix.me/) - *Online Game Cracks / [Discord](https://discord.gg/yExgFYncMD)* 
+* [Slippi](https://slippi.gg/) - *Super Smash Bros Melee Online* 
+
+*** 
+
+## ▷ Homebrew 
+
+* [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - *Wii Homebrew Installer / [Find MAC](https://www.nintendo.com/consumer/systems/wii/en_na/includes/rvl-ht-int-find-mac-address.jsp)*
+* [WiiU Exploit](https://wiiuexploit.xyz/) - *WiiU Homebrew Installer*
+* [Homebrew Gang](https://thehbg.shop/main.html) - *Switch Homebrew Community*
+* [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - *Switch Hacking Forum / Guides*
+* [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - *PS4 / PS5 Remote Play Client* 
+* [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - *PS4 Exploit Hosting PS4*
+* [PlayStationDiscord-Games](https://github.com/Tustin/PlayStationDiscord-Games) - *PS4 Remote Play* 
+* [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - *PS3 Homebrew Subreddit*
+* [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - *PSCX Development Emulator*
+* [Tinfoil](https://tinfoil.io/) - *Switch Title Manager / File Browser* 
+* [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) - *Multiplayer Switch Servers*
+* [CTGP Revolution](https://www.chadsoft.co.uk/) - *Mario Kart Wii Custom Tracks / Multiplayer*
+* [Wiimmfi](https://wiimmfi.de/) - *Wii / DS Multiplayer Revival*
+* [3DS Hack Guide](https://3ds.hacks.guide/) - *Custom Firmware*
+* [Theme Plaza](https://themeplaza.art/themes) - *3DS Themes*
+* [GameBoy Tech Page](https://web.archive.org/web/19990209041732/http://home.hiwaay.net/%7Ejfrohwei/gameboy/home.html) - *Gameboy Tools*
+* [GameBoy Book Reader](https://www.mqp.com/fun/) - *Gameboy Book Reader*
+* [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - *.XBE to ISO File Converter*
+* [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - *Add More Roms to NES/SNES Classic Mini*
+* [emuiibo](https://github.com/XorTroll/emuiibo) - *Amiibo Emulator*
+* [All Amiibo Bin Files](https://redd.it/mlvfak) - *Amiibo Bin Files*
+* [Easy Guide to Making Amiibo](https://redd.it/5ywlol) - *How-to Make Your Own Amiibo*
 
 *** 
 
