@@ -105,6 +105,7 @@
 * [Dutafilm](https://dutafilm.network/) - *Movies / TV / Anime*
 * [Cloudy](https://cloudy.pk/category/english/) - *Movies / TV*
 * [CineVood](https://cinevood.cyou/) - *Movies / TV*
+* [Levidia](https://www.levidia.ch/) - *Movies / TV / Anime*
 * [GetWatch](https://www.getwatch.in/) - *Movies / TV / [Discord](https://discord.gg/UgYckg3hzQ)*
 * [Movies123](https://www.movies123.email/) or [123movies](https://ww.123movies.club) - *Movies / TV / Anime* 
 * [TopEuroPix](https://topeuropix.site/) or [europixHD](https://europixhd.io/), [2](https://europixhd.pro/) - *Movies / TV / Anime*
@@ -209,6 +210,7 @@
 * [Imperial War Museums](https://www.iwm.org.uk/) - *Historic War Footage*
 * [Prelinger Archives](http://www.panix.com/~footage/) - *Ephemeral Films [Archive](https://archive.org/details/prelinger)*
 * [StageDork](http://stagedork.com/) - *Broadway Show Recordings* 
+* [Rental Media](https://rentalmedia.neocities.org/index.html) - *Free DVD Rentals*
 * [Unus Annus](https://archive.org/details/unus-annus) - *Unus Annus Archive*
 * [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/), [2](https://github.com/joric/bandersnatch) - *Interactive player for Black Mirror: Bandersnatch*
 * [ListenToAMovie](http://listentoamovie.com/) - *Listen to Movies* 
@@ -349,7 +351,6 @@
 * [CrackStreams](https://crackstreams.io/), [2](https://crackstreams.me/), [3](http://crackstreams.is/), [4](https://crackstreams.to/) - *Sports*
 * [StreamEast](http://www.streameast.live/) - *Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)*
 * [ATDHE](http://atdhe.pro/) - *Sports* 
-* [Cricfree](https://cricfree.sc/) - *Sports* 
 * [Ripple.stream](http://ripple.stream/) - *Sports* 
 * [GiveMeRedditStreams](https://givemeredditstreams.com/) - *Sports* 
 * [StreamonSport](https://www.streamonsport.info/) - *Sports*
@@ -368,6 +369,7 @@
 * [WorldCupFootball](http://www.worldcupfootball.me/) - *Sports*
 * [cytube](https://cytu.be/) - *TV / Chat*
 * [6stream](http://6stream.xyz/) - *Sports*
+* [FLS](http://go.freestreams-live1.com/) - *Sports / [Discord](https://discord.gg/UKEjyPEaYG)*
 * [Your Sports Stream](http://yoursports.stream/) - *Sports*
 * [Icelz](https://icelz.newsrade.com/) - *Sports*
 * [livetv](http://livetv.sx) - *Sports*
@@ -416,6 +418,7 @@
 * [Soccer Streams](https://reedit.soccerstreams.net/) - *Soccer*
 * [FootEM](https://www.footem.site/) - *Soccer*
 * [footybite](https://live.footybite.com/) - *Soccer* 
+* [HesGoal](http://www.hesgoal.tv/) - *Soccer*
 * [NHLstream](https://www.nhlstream.net/) - *NHL*
 * [NHL66](https://nhl66.ir/) - *NHL*
 * [InsectsEnthusiasts](https://www.reddit.com/r/InsectsEnthusiasts/) - *Cricket*
