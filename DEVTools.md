@@ -95,7 +95,7 @@
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - *Open Source Development Software*
 * [Student Developer Pack](https://education.github.com/pack) - *Free Developer Tools for Students* 
 * [Libera Chat](https://libera.chat/) - *IRC Network for Project Collaboration*
-* [CodeProject](https://www.codeproject.com/) - *Developer Forum / Q&A / Articles* 
+* [CodeProject](https://www.codeproject.com/) or [Blind](https://www.teamblind.com/)  - *Developer Forum* 
 * [daily.dev](https://daily.dev/) - *Replace New Tab Page with Developer Articles* 
 * [Laws of UX](https://lawsofux.com/) - *Maxims / Principles for UI Designers* 
 * [UI Coach](https://uicoach.io/) - *UI Design Challenge Generator*
@@ -136,8 +136,8 @@
 * [Geekflare Tools](https://gf.dev/toolbox) - *Site Testing Tools*
 * [Alexa Site Info](https://www.alexa.com/siteinfo) - *Site Traffic Stats / Analysis*
 * [Resolve.rs Tools](https://resolve.rs/tools.html) - *Site Domain / IP Tools*
-* [Namechk](https://namechk.com/), [Username Checker](https://checkuser.org/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Check Username / Domain Availability*
-* [Pyfunceble](https://pyfunceble.github.io/#/), [Whois.com](https://www.whois.com/), [DomComp](https://www.domcomp.com/) or [Domainr](https://domainr.com/) - *Check IP / Domain Availability* 
+* [Namechk](https://namechk.com/), [Username Checker](https://checkuser.org/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Username Availability Check*
+* [Pyfunceble](https://pyfunceble.github.io/#/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [DomComp](https://www.domcomp.com/) or [Domainr](https://domainr.com/) - *Domain Availability Check* 
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist*
 * [Flounder](https://flounder.online/) - *Gemini Website Builder / [GitHub](https://github.com/alexwennerberg/flounder)* 
 * [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - *Webpage Editor* 
