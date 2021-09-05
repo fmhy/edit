@@ -438,7 +438,7 @@
 * [4MovieRulz](https://4movierulz.mn/) - *Movies* 
 * [HindiLover](https://hindilover.biz/) - *TV*
 * [OkJatt](https://okjatt.work/) - *Movies / TV*
-* [HindiLinks4u](https://www.hindilinks4u.to/) - *Movies / TV*
+* [HindiLinks4u](https://www.hindilinks4u.to/), [2](https://hindilinks4u.pro/) or [3](https://hindilinks4u.io/)  - *Movies / TV*
 * [Movies4](https://www.movies4.com.pk/) - *Movies / TV* 
 * [OnlineMovies8](https://www.onlinemovies8.com.pk/) - *Movies* 
 * [PakBcn](http://www.pakbcn.live/) - *TV / Live*
