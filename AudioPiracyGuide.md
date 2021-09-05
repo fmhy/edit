@@ -327,8 +327,7 @@
 * **[Last.fm](https://www.last.fm/home)** or [Libre](https://libre.fm/) - *Automatically track music you listen to / [Manual Scrobble](https://openscrobbler.com/)*
 * **[Has it leaked](https://hasitleaked.com/)** or [LEAKED](https://leaked.cx/) - *Album Leak Tracker*
 * **[Muspy](https://muspy.com/)** - *Get album release updates*
-* **[Sputnik](https://www.sputnikmusic.com/)** - *Album Ratings / Reviews*
-* [RateYourMusic](https://rateyourmusic.com/), [Discogs](https://www.discogs.com/) or [Musicbranz](https://musicbrainz.org/) - *Album & Song Ratings / Reviews*
+* **[Sputnik](https://www.sputnikmusic.com/)**, [RateYourMusic](https://rateyourmusic.com/), [Discogs](https://www.discogs.com/), [listnd](https://listnd.com/) or [Musicbranz](https://musicbrainz.org/) - *Ratings / Reviews*
 * [45Cat](http://www.45cat.com/) - *Vinyl Ratings / Reviews*
 * [World Spotify](https://www.worldspotify.com/) - *Daily Most Streamed Tracks by Country* 
 * [Spotalike](https://spotalike.com/) or [RadioNewify](https://radionewify.com/) - *Spotify Playlist Generator*
