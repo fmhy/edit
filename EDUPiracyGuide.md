@@ -28,7 +28,6 @@
 * **[PluralSight](https://visualstudio.microsoft.com/dev-essentials/)** - *Free for 1 Month*
 * [Awesome CS](https://github.com/prakhar1989/awesome-courses/) - *Courses*
 * [OpenLearn](https://www.open.edu/openlearn/) - *Courses*
-* [FreeCourseForAll](https://freecoursesforall.com/) - *Courses* 
 * [Alison](https://alison.com/) - *Courses*
 * [EbookFoundation Courses](https://github.com/EbookFoundation/free-programming-books#free-online-courses) - *Courses*
 * [CertByte](https://certbyte.com/) - *Courses* 
@@ -48,7 +47,6 @@
 * [SchoolYourself](http://schoolyourself.org/) - *Math Tutorials*
 * [mathhelp](https://www.mathhelp.com/) - *Math Tutorials*
 * [mathonline](http://mathonline.wikidot.com/) - *Math Tutorials*
-* [Index of Math Terms](http://www.ltcconline.net/greenl/courses/Indices/FullIndex.htm) - *Math Tutorials / Terms*
 * [brighstorm](https://www.brightstorm.com/) - *Test Prep*
 * [O'Reilly](https://www.oreilly.com/) - *Tech / Programming / infinite free trial by clearing cookies / making new account*
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - *Programming Courses*
@@ -62,7 +60,6 @@
 * [TutsNode](https://tutsnode.net/) - *Udemy Courses*
 * [/r/udemyfreebies](https://reddit.com/r/udemyfreebies) - *Udemy Courses*
 * [Discounted-Udemy-Course-Enroller](https://github.com/techtanic/Discounted-Udemy-Course-Enroller) - *Automatically Enroll in Udemy Courses*
-* [Nocourses](https://nocourses.com/) - *Udemy Coupons / Courses* 
 * [Online Courses Tracker](https://comidoc.net/) - *Udemy Coupons / Courses*
 * [SmartyBro](https://smartybro.com/) - *Udemy Coupons / Courses* 
 * [CourseVania](https://t.me/joinchat/AAAAAEGltVf2DWWdtm_-cQ) - *Udemy Coupons / Telegram*
@@ -113,7 +110,6 @@
 * [FreeCourseDL](https://freecoursedl.com/) - *Courses* 
 * [Dl Course](https://dlcourse.org/) - *Courses*
 * [torrenttempdrive](https://torrenttempdrive.hashhackers.com/1:/) - *Courses*
-* [TeleFlix](https://resources.ttucloud.tech/0:/) - *Courses / user: blank pw: @ttu001*
 * [FreeStudyWeb](https://freestudyweb.com/) - *Courses* 
 * [CryptoTips](https://www.cryptotips.us/) - *Courses* 
 * [5G GYAN](https://www.5ggyan.com/) - *Courses* 
@@ -177,7 +173,6 @@
 * [FreeCourseSite](http://freecoursesite.com/) - *Courses*
 * [GetFreeCourses](https://getfreecourses.co/) - *Courses*
 * [OnlineCourseBay](https://onlinecoursebay.com/) - *Courses* 
-* [Ahlan Education](https://www.ahlanedu.com/) - *Courses* 
 * [UdemyTuts](https://udemytuts.com/) - *Udemy Courses* 
 * [My Free Courses](http://myfreecourses.com/) - *Udemy Courses*   
 * [UdemyDownload](https://udemydownload.com/) - *Udemy Courses*
@@ -287,7 +282,6 @@
 * [SunCalc](https://www.suncalc.org/) or [MoonCalc](https://www.mooncalc.org/) - *Sun & Moon Position / Phase Calculators* 
 * [Mars Explorer](https://mars-explorer.dhaiwatpandya.com/) - *Curiosity Rover Pictures*
 * [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/) - *Interactive Index of Moons* 
-* [Helioviewer](https://www.helioviewer.org/) - *Sun Visualization Tool* 
 * [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) - *Solar System Scale Model*
 * [3DSolarSystem](https://theskylive.com/3dsolarsystem) - *Solar System Simulator* 
 * [100,000 Stars](https://stars.chromeexperiments.com/) - *Interactive 3D Star Visualization*
@@ -326,7 +320,6 @@
 * [MyLanguages](http://mylanguages.org/) - *Grammar / Vocabulary Language Learning*
 * [Vocatra](https://esite.ch/vocatra/) - *Vocabulary Trainer*
 * [EnglishAccentMap](https://www.englishaccentsmap.com/) - *English Accent Videos / Map* 
-* [paralleltext](http://paralleltext.io/) - *Learn Languages by Reading Translated Books Parallel* 
 * [HelloTalk](https://www.hellotalk.com/) - *Learn Languages by Chatting to Native Speakers* 
 * [Lang-8](https://lang-8.com/) - *Learn Languages with help from Native Speakers* 
 * [Readlang](https://readlang.com/) - *Learn a Language While Web Browsing* 
@@ -429,7 +422,7 @@
 * [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - *The Trolley Problem*
 * [Untools](https://untools.co/) - *Better Thinking Tools & Frameworks*
 * [GCFGlobal](https://edu.gcfglobal.org/) - *Tech Tutorials*
-* [OpenSyllabus](https://opensyllabus.org/), [LanguageDrops](https://languagedrops.com/) or [SyllabusFinder](https://www.syllabusfinder.com/) - *Syllabus Search / Info*
+* [OpenSyllabus](https://opensyllabus.org/) or [LanguageDrops](https://languagedrops.com/) - *Syllabus Search / Info*
 * [Edpuzz Ninja](https://edpuzz.ninja/) - *Educational Puzzle Solving Tool* 
 * [Quizlet](https://quizlet.com/) - *Homework Answers and Solutions*
 * [PowerInBooks](https://powerinbooks.xyz/temp/) or [ch36650lut10n5](https://www.ch36650lut10n5.com/) - *Textbook Solutions* 
@@ -476,7 +469,6 @@
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - *Learn to Tie Knots* 
 * [Pol Art Folder](https://mega.nz/folder/rVcExIbB#VN9alzay0OrctggvEn1DUg) - *Historic European Art & Paintings*
 * [vads](https://vads.ac.uk/digital/) - *Digital Art Collection*
-* [RandomInternetMuseum](https://www.randominternetmuseum.com/) - *Random Art Gallery*
 * [Metabolic-Pathway](http://www.metabolic-pathway.com/fullMap.html) - *Interactive Metabolic Pathways Map* 
 * [How a Car Works](https://www.howacarworks.com/) - *Car Mechanics / Automotive Engineering Guides* 
 * [Morse Typing Trainer](https://morse.withgoogle.com/learn/) - *Morse Code Trainer* 
