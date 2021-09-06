@@ -213,7 +213,7 @@
 # ► Helpful Sites / Apps
 
 * **[Tracker Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tracker_lists)** - *Updated lists of BitTorrent trackers* 
-* **[T2M](https://nutbread.github.io/t2m/)** or [Torrent Kitty](https://www.torrentkitty.tv/) - *Torrent To Magnet Link Conversion*
+* **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) - *Torrent To Magnet Link Conversion*
 * **[Auto Torrent Tools List](https://redd.it/hbwnb2)**, [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - *Autodownload tools*
 * [Requestrr](https://github.com/darkalfx/requestrr) - *Chatbot for Torrent Autodownload Apps*
 * [PreDB](https://predb.ovh/), [srrDB](https://www.srrdb.com/) or [pre.c-burns](http://pre.c-burns.co.uk/pre.php) - *Scene Release Tracker*
