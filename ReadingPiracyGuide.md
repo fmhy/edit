@@ -597,6 +597,7 @@
 * [Alex Catalogue](http://www.infomotions.com/alex/) - *English / Philosophy Documents*  
 * [FindPDFDoc](http://www.findpdfdoc.com/) - *PDF Search / Document Search* 
 * [PDFSlide](https://pdfslide.net/) - *PDF / Document Search* 
+* [EDoc](https://edoc.tips/) - *PDF / Document Search* 
 * [Google Scholar](https://scholar.google.com/) - *Articles*
 * [Mendeley](https://www.mendeley.com/) - *Articles* 
 * [DOAJ](https://doaj.org/) - *Journals / Articles*
