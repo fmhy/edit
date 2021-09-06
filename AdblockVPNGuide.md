@@ -25,7 +25,7 @@
 * **[SponsorBlock](https://sponsor.ajay.app/)** - *Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)*
 * **[uMatrix](https://github.com/gorhill/uMatrix#umatrix)**, [NoScript](https://noscript.net/) or [ScriptSafe](https://www.andryou.com/scriptsafe) - *Blocks Malicious Scripts*
 * **[Popup Blocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - *Blocks Malicious Popups & Tabs*
-* **[Universal Bypass](https://universal-bypass.org/)**, [DL Site Scrubber](https://github.com/PrimePlaya24/dl-site-scrubber) or [AdsBypasser](https://adsbypasser.github.io/) - *Skips Link Shorteners & Countdowns*
+* **[Universal Bypass](https://universal-bypass.org/)** / [Custom](https://github.com/GustasRBLX/Custom-Universal-Bypass), [DL Site Scrubber](https://github.com/PrimePlaya24/dl-site-scrubber) or [AdsBypasser](https://adsbypasser.github.io/) - *Skips Link Shorteners & Countdowns*
 * [Skip Redirect](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect) - *Bypass Redirects*
 * [OpenVideo](https://openvideofs.github.io) - *Plays videos from streaming sites in a ad free player*
 * [Fakespot](https://www.fakespot.com/) - *Identifies Fake Reviews & Counterfeits*
@@ -273,7 +273,7 @@
 * **[ffprofile](https://ffprofile.com/)**, **[ghacks-user.js](https://github.com/arkenfox/user.js)**, [firefox-debloat](https://github.com/amq/firefox-debloat), [pyllyukko](https://github.com/pyllyukko/user.js/) / [2](https://github.com/pyllyukko/user.js/) - *Privacy Hardened Firefox / [Warning](https://i.imgur.com/ZMQJHwC.png)*
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Privacy Focused Browsers* 
 * **[Tor Browser](https://www.torproject.org/)** or [Lokinet](https://lokinet.org/) - *Onion-Routed Browser*
-* **Tor Tools** - [Network Routers](https://github.com/Edu4rdSHL/tor-router) / [Unblock Tor](https://i.imgur.com/bQStFyI.gifv) / [Leak Scan](https://github.com/s-rah/onionscan) / [IP Test](https://check.torproject.org/) / [Access Client](https://dragonfruit.network/onionfruit) / [GitHub](https://github.com/dragonfruitnetwork/onionfruit/)
+* **Tor Tools** - [Network Routers](https://github.com/Edu4rdSHL/tor-router) / [Unblock Tor](https://i.imgur.com/bQStFyI.gifv) / [Leak Scan](https://github.com/s-rah/onionscan) / [IP Test](https://check.torproject.org/) / [Auto IP Switch](https://github.com/seevik2580/tor-ip-changer) / [Access Client](https://dragonfruit.network/onionfruit) / [GitHub](https://github.com/dragonfruitnetwork/onionfruit/)
 * **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
 * **[PrivacySpy](https://privacyspy.org/)** - *Grades a Sites Privacy Policies* 
 * **[ACCOUNTKILLER](https://www.accountkiller.com/)** or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - *Find / Terminate Old Accounts* 
@@ -342,7 +342,7 @@
 * [SecLists](https://seclists.org/) - *Security Mailing List Archive* 
 * [OpenPhish](https://openphish.com/) - *Phishing Threat Data* 
 * [Panopticlick](https://coveryourtracks.eff.org/) - *Test if your Browser Blocks Tracking* 
-* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) - *Bypass DPI which blocks access to sites*
+* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) - *Bypass Site Blocking DPI*
 * [Am I FLoCed?](https://amifloced.org/) or [FLoC Demo](https://floc.glitch.me/) - *Check if Chrome Ad-Targeting is Enabled*
 
 ***
@@ -447,6 +447,7 @@
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - *Arch Linux base with Deluge, Privoxy & OpenVPN*
 * [Killswitch](https://github.com/nologs-vpn/killswitch) or [KillSwitch](https://github.com/nerfirelia123/KillSwitch) - *Custom VPN Killswitch*
 * [/r/VPN](https://reddit.com/r/VPN) - *VPN Help and Discussion* 
+* [OilAndFish](https://www.oilandfish.com/) - *Firewall Bypass Guide*
 
 ***
 
