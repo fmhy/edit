@@ -288,7 +288,6 @@
 * [GFXDrug](https://gfxdrug.com/)
 * [Grafixfather](https://www.grafixfather.com/)
 * [PSDKeys](https://psdkeys.com/)
-* [GFxtra](https://www.gfxtra31.com/)
 * [Allday](https://allday1.com/)
 * [GFX-Hub](https://gfx-hub.net/)
 * [GoDownloads](https://godownloads.net/) 
