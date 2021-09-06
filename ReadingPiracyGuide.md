@@ -25,6 +25,7 @@
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - *Listen Online*
 * [Audiobook Slab](https://audiobookslab.com/) - *Listen Online*
 * [AudiobookBoi](https://audiboi.com/home/) - *Listen Online*
+* [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - *Listen Online / Select Playlists*
 * [Litube](https://litube.net/) - *Listen Online*
 * [AudioBook Reviews](https://audiobookreviews.com/) 
 * [xAudiobooks](https://xaudiobooks.com/)
