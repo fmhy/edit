@@ -444,7 +444,6 @@ RSS Player*
 * [FireAnime](https://github.com/XenTeckzX/FireAnime) - *Chromecast*
 * [AnimeXStream](https://github.com/mukul500/AnimeXStream/)
 * [AnimeTwistFlut](https://github.com/simrat39/AnimeTwistFlut/releases)
-* [TaiYaKiAnime](https://github.com/Michael24884/TaiYaKiAnime), [2](https://michael24884.github.io/TaiYaKiAnime/) - *[Discord](https://discord.com/invite/8fzmNSB)*
 * [AnimeDLR](https://cyberneticlifeform.wixsite.com/cylonu87/animedlr) - *[Discord](https://discord.com/invite/wKxRqKc)*
 * [AnimeUltima](https://www1.animeultima.to/app) - *[Discord](https://discord.gg/Am89tCjYkY)*
 * [aniryu](https://anime.pokurt.me/)
@@ -731,7 +730,6 @@ RSS Player*
 
 ## ▷ iOS Anime 
 
-* [TaiYaKiAnime](https://github.com/Michael24884/TaiYaKiAnime), [2](https://michael24884.github.io/TaiYaKiAnime/) - *[Discord](https://discord.com/invite/8fzmNSB)*
 * [KATSU](https://apps.apple.com/us/app/katsu-by-orion/id1503693664) - [Discord](https://discord.gg/gjcy6MQ)
 * [NineAnimator](https://nineanimator.marcuszhou.com/) - *[Discord](https://discord.gg/dzTVzeW)*
 * [AnimeHub](https://apps.apple.com/ca/app/animehub-an-anime-fan-haven/id882620151)
