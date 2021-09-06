@@ -421,7 +421,6 @@
 * [HesGoal](http://www.hesgoal.tv/) - *Soccer*
 * [NHLstream](https://www.nhlstream.net/) - *NHL*
 * [NHL66](https://nhl66.ir/) - *NHL*
-* [InsectsEnthusiasts](https://www.reddit.com/r/InsectsEnthusiasts/) - *Cricket*
 * [MyLiveCricket](http://hd1.mylivecricket.live/), [2](http://my3.mylivecricket.cc/) - *Cricket*
 * [ipl21](https://ipl21.xyz/) - *IPL Cricket Live*
 * [Sports Streaming Subreddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming_subs)
@@ -728,6 +727,7 @@
 * [RatingsGraph](https://www.ratingraph.com/) - *Movie / TV Ratings Graphs*
 * [TV Chart](https://tvchart.benmiz.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - *TV Episode Rating Graphs*
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Greatest 100 Lists*
+* [What's on Netflix](https://www.whats-on-netflix.com/library/) - *Browse Netflix Library*
 * [ReelScary](http://www.reelscary.com/) - *Movies Rated by Scariness* 
 * [Based on the Book](https://www.mymcpl.org/books-movies-music/read/based-on-the-book) - *List of Movies Based on Books*
 * [What is My Movie?](https://www.whatismymovie.com/) - *Describe a film you remember / want to see*
