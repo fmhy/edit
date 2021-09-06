@@ -1041,7 +1041,7 @@ General Reading Sites*
 * [GenSMBIOS ](https://github.com/corpnewt/GenSMBIOS) - *SMBIOS Generator*
 * [x64dbg](https://github.com/x64dbg/x64dbg) - *Windows Debugging Tool*
 * [WhatPulse](https://whatpulse.org/) - *Mouse / Keyboard Usage Analyzer*
-* [BleachBit](https://www.bleachbit.org/) - *Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect.*  
+* [BleachBit](https://www.bleachbit.org/) or [GlarySoft](https://www.glarysoft.com/) - *Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect.*  
 * [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - *Startup Program Monitor*
 * [RegExp](https://github.com/zodiacon/RegExp) - *Improved Registry Explorer*
 * [Desktop Management](https://github.com/DeveloperWOW64/deskmgr) - *Improved Computer Management*
