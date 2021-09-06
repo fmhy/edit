@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/F2Yj4u8.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/cyZG45h.png)** - *For mobile users*
 
 ***
 ***
@@ -238,7 +238,11 @@
 
 #### Bookmark Managers
 
-[saved.io](https://saved.io/), [BookmarkOS](https://bookmarkos.com/), [Bookmarkify](https://bookmarkify.it/) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/bookmarkos/), [Patchwork](http://patchworkapp.com/), [start.me](https://start.me/start/int/startpage), [buku](https://github.com/jarun/buku), [Booky](https://booky.io/), [Raindrop](https://raindrop.io/), [WebCrate](https://webcrate.app/), [Unmark](https://unmark.it/) 
+[saved.io](https://saved.io/), [BookmarkOS](https://bookmarkos.com/), [Bookmarkify](https://bookmarkify.it/), [Patchwork](http://patchworkapp.com/), [start.me](https://start.me/start/int/startpage), [buku](https://github.com/jarun/buku), [Booky](https://booky.io/), [Raindrop](https://raindrop.io/), [WebCrate](https://webcrate.app/), [Unmark](https://unmark.it/) 
+
+**Extensions** 
+
+[MyMark](https://www.mymark.me/), [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/), [Bookmarkify](https://addons.mozilla.org/en-US/firefox/addon/bookmarkos/), [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer)
 
 ***
 
@@ -823,6 +827,12 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
+#### Minecraft Optimization Mods
+
+[OptiFine](https://optifine.net/), [Sodium](https://modrinth.com/mod/sodium) / [Extra](https://modrinth.com/mod/sodium-extra), [Phosphor](https://modrinth.com/mod/phosphor), [Indium](https://github.com/comp500/Indium/), [Hydrogen](https://modrinth.com/mod/hydrogen), [Caffeine](https://github.com/CaffeineMC), [Lithium](https://modrinth.com/mod/lithium)
+
+***
+
 #### Mouse Gestures
 
 [FoxyGestures (firefox)](https://github.com/marklieberman/foxygestures), [Gesturefy (firefox)](https://github.com/Robbendebiene/Gesturefy), [CrxMouse (chrome)](https://crxmouse.com/), [Simple Gesture (firefox)](https://github.com/utubo/firefox-simple_gesture) 
@@ -882,7 +892,7 @@ Add the following commands to a search to manually scrape each site.
 
 * **[Air Explorer](https://airexplorer.net/en/)**
 * **[RaiDrive](https://www.raidrive.com/)**
-* **[RClone](https://rclone.org/)**, [2](https://github.com/rclone/rclone) / [Heroku](https://github.com/The-Antrax/heroku-buildpack-rclone-mod)
+* **[RClone](https://rclone.org/)** - *[Heroku](https://github.com/The-Antrax/heroku-buildpack-rclone-mod) / [WebUI](https://github.com/rclone/rclone-webui-react)*
 * **[gclone](https://github.com/donwa/gclone)** / [Guide](https://telegra.ph/Gclone-Guide-for-Windows-07-20) / [Telegram](https://github.com/wrenfairbank/telegram_gcloner)
 * [Rethink Files](https://rethink.software/)
 * [MultiCloud](https://www.multcloud.com/)
@@ -1555,9 +1565,8 @@ Add the following commands to a search to manually scrape each site.
 * https://td.msgsuite.workers.dev/ + [Telegram Chat](https://t.me/msgsuitechat)
 * https://team.leehaiha.com/
 * https://tb.mygindex.workers.dev/
-* https://create.klprojects.tech/
 * https://team.isumit.workers.dev/
-* https://generator.driveindex.ga/ (Code Generator)
+* https://bdi-generator.hashhackers.com/ (Code Generator)
 
 ***
 
@@ -1571,7 +1580,6 @@ Add the following commands to a search to manually scrape each site.
 * [CloudBhadoo](https://index.hashhackers.com/) / [2](https://search.hashhackers.com/)
 * [Google Piracy Groups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_piracy_discussion_groups) - *Use these to join TeamDrives* 
 * [Google TeamDrive's](https://onehack.us/t/tds-with-tbs-of-movies-web-series-courses-games-etc/77628) - *Video / Games / Courses / Teamdrive Index*
-* [KLProjects](https://td.klprojects.tech/), [2](https://groups.google.com/g/kl-teamdrive) - *User: klprojects / PW: kltorrent* 
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28) - *Video / Courses / NSFW / Drive* 
 * [17.103.80.101](http://117.103.80.101/) - *Video / Software / Games / Drive* 
 * [Public.crackhub](https://public.crackhub.site/) - *Video / Books / Games*
@@ -1946,7 +1954,7 @@ Add the following commands to a search to manually scrape each site.
 
 ####  Video Stream Sync
 
-[SyncPlay](https://syncplay.pl/), [CyTube](https://cytu.be/), [HyperBeam](https://hyperbeam.com/), [Kast](https://kast.gg/), [Gaze](https://letsgaze.com/), [twoseven](https://twoseven.xyz/), [andchill](https://andchill.tv/), [Metastream](https://getmetastream.com/), [Trast](https://trast.live/), [togethertube](https://togethertube.com/), [Tutturu](https://tutturu.tv/), [Watch2Gether](https://w2g.tv/), [Vynchronize](https://vynchronize.herokuapp.com/), [SyncTube](https://sync-tube.de/), [Kosmi](https://kosmi.io/), [Invited.tv](https://invited.tv/), [Caracal Club](https://caracal.club/), [Primewire Watch Parties](https://www.primewire.li/watch-parties), [Movata](https://movata.cc/) (Discord), [baked.live](http://baked.live/), [neko](https://github.com/nurdism/neko)
+[SyncPlay](https://syncplay.pl/), [CyTube](https://cytu.be/), [HyperBeam](https://hyperbeam.com/), [Kast](https://kast.gg/), [Gaze](https://letsgaze.com/), [twoseven](https://twoseven.xyz/), [andchill](https://andchill.tv/), [Metastream](https://getmetastream.com/), [Trast](https://trast.live/), [togethertube](https://togethertube.com/), [Watch2Gether](https://w2g.tv/), [Vynchronize](https://vynchronize.herokuapp.com/), [SyncTube](https://sync-tube.de/), [Kosmi](https://kosmi.io/), [Invited.tv](https://invited.tv/), [Caracal Club](https://caracal.club/), [Primewire Watch Parties](https://www.primewire.li/watch-parties), [Movata](https://movata.cc/) (Discord), [baked.live](http://baked.live/), [neko](https://github.com/nurdism/neko)
 
 ***
 
@@ -2061,6 +2069,12 @@ Good for finding classic, obscure & short films.
 
 ***
 
+#### Windows File Explorers
+
+**[Everything](https://voidtools.com/)**, [Total Commander](https://www.ghisler.com/), [OldNewExplorer](https://m.majorgeeks.com/files/details/oldnewexplorer.html), [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir), [Sigma](https://github.com/aleksey-hoffman/sigma-file-manager) 
+
+***
+
 #### Windows ISO
 
 * **[TechBench](https://tb.rg-adguard.net/)**
@@ -2073,6 +2087,7 @@ Good for finding classic, obscure & short films.
 * [FoxOS](https://discord.gg/A5Y76ymyBY) - *Custom Windows 7 ISO* 
 * [UnicornsOS](https://discord.gg/vFwRBB7XBK) - *Custom Windows 7 ISO*
 * [ggOS](https://discord.gg/A5BHSQV) - *Custom Windows 10 20H2 ISO*
+* [Windows Sun Valley](https://archive.org/details/windows-sv-pro-v-1) - *Custom Windows 10 21H1 ISO*
 * [XOS](https://discord.gg/Zs4bpVjJyp) - *Custom Windows 10 1803 ISO*
 * [Ameliorated](https://ameliorated.info/) - *Windows 10 ISO Aimed Towards No Telemetry Windows 10*
 * [Windows 10 LTSC](https://drive.google.com/file/d/1Tg7ovGu8lZlV_2PEQN6hQ3s5U8rckHmc/view?usp=sharing),  [2](https://mega.nz/folder/ChNTDaiL#nNqH2PTfIzTLAEs8nc-U0w) - *Bloat / Telemetry Free Windows 10 / r/Windows10LTSC / [Guide](https://supreme-gamers.com/t/windows-10-ltsc-the-best-windows-10-version-ever.845/)*
