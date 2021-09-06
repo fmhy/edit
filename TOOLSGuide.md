@@ -118,6 +118,8 @@
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) - *Text to Handwriting Converter*
 * [Cryptii](https://cryptii.com/) - *Modular Conversion, Encoding & Encryption*
 * [dCode](https://www.dcode.fr/en) - *Message Decoders*
+* [InfoEncrypt](https://www.infoencrypt.com/)  - *Encrypt / Decrypt Text* 
+* [StegCloak](https://stegcloak.surge.sh/) - *Hide Messages in Text*
 * [Universal Online Cyrillic Decoder](https://2cyr.com/decode/?lang=en) - *Decode / Recover Scrambled Text into Cyrillic*
 * [AnagramAssistant](https://keitharm.me/projects/anagramAssistant/) - *Anagram Tool* 
 * [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - *Text Tone Detection* 
@@ -128,7 +130,6 @@
 * [ASCII Art Creator](https://github.com/CherryPill/ASCII-art-creator) or [ASCII Today](https://ascii.today/) - *ASCII Art Generator*
 * [randSeq](http://www.dave-reed.com/Nifty/randSeq.html) - *Random Letter Sequence Generator*
 * [The Ransomizer](http://www.ransomizer.com/) - *Ransom Note Generator / Message Encryption*
-* [InfoEncrypt](https://www.infoencrypt.com/) - *Encrypt / Decrypt Text* 
 * [quipqiup](https://www.quipqiup.com/) - *Cryptogram Solver* 
 * [xeuledoc](https://github.com/Malfrats/xeuledoc) - *Fetch Information about Public Google Documents*
 * [Useless-Translator](https://vcjhwebdev.github.io/useless-translator/) - *Morse Code / Binary Translator* 
@@ -392,7 +393,7 @@
 * [DatoRSS](https://www.datorss.com/) or [RSS.app](https://rss.app/) - *RSS Feed Search* 
 * [RSS Box](https://rssbox.herokuapp.com/) or [FiveFilters](https://createfeed.fivefilters.org/) - *RSS Feed Creator* 
 * [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - *RSS Feed for Sites Missing It*
-* [Consuming The World](https://weboas.is/forum/index.php?topic=656.0) - *RSS Feed List / Guide*
+* [Consuming The World](https://weboas.is/forum/index.php?topic=656.0), [All about RSS](https://github.com/AboutRSS/ALL-about-RSS) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - *RSS Feeds & Tools*
 * [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - *GitHub, Reddit, Hacker News & other Feeds*
 * [AutoSolve Captcha](https://hackgence.com/d/55-how-to-bypass-hcaptcha-autosolve-captcha) - *How to Bypass hCaptcha* 
 * [hcaptcha-solver](https://github.com/JimmyLaurent/hcaptcha-solver) - *hCaptcha Solver* 
@@ -740,20 +741,21 @@ General Reading Sites*
 * [crocodile](https://github.com/tbodt/crocodile) - *Discord Client for TempleOS*
 * [displunger](https://gitlab.com/derpystuff/displunger) - *Run Old Versions of Discord*
 * [Disboard](https://disboard.org/), [DiscordServers](https://discordservers.com/), [Discord Street](https://discord.st/), [discordlist.io](https://discordlist.io/), [DiscordServers.me](https://discordservers.me/) or [Discord Me](https://discord.me/) - *Discover Discord Servers / Bots* 
-* [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - *Use Discord Emoji's without Nitro* 
+* [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - *Use Discord Emojis without Nitro* 
 * [Slackmoji](https://github.com/seanprashad/slackmoji) or [emoji.gg](https://emoji.gg/) - *Discord Emojis*
 * [Ping and Salar's](https://discord.gg/RuFvp72qY4) - *Free Global Discord Emoji Server List / [Instructions](https://discord.com/channels/290572012437372931/444165499035713537/845971730690473994)*
-* [Emote Manager](https://github.com/EmoteBot/EmoteManager) - *Custom Discord Emote Manager* 
+* [Emote Manager](https://github.com/EmoteBot/EmoteManager) - *Custom Discord Emoji Manager* 
+* [KawaiiDiscord](https://github.com/noodlebox/KawaiiDiscord) - *External Emote Importer*
 * [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - *Discord Emoji Downloader*
-* [Snowsgiving Icons & Emotes](https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - *Snowsgiving Event Icons & Emotes*
-* [Distok](http://distok.top/stickers/) - *Discord Stickers as GIFs* 
+* [Snowsgiving Icons & Emotes](https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - *Snowsgiving Event Icons & Emojis*
+* [Distok](http://distok.top/stickers/) or [FreeCommunityStickers](https://github.com/discord-stickers/FreeCommunityStickers)  - *Free Discord Stickers* 
 * [Discord Sticker Viewer](https://sticker-view.vercel.app/) - *View / Search Discord Stickers*
 * [Pfps.gg](https://pfps.gg/) - *Free Custom Banners*
 * [Dispatch](https://www.dispatchbot.ml/) - *Group Discord DMs*
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - *Discord Message Encryption*
 * [DiscordFS](https://github.com/dhrumilp15/discordfs) - *Discord File Search*
 * [DeepL](https://github.com/aisuzuki/dd-bot) - *Discord Chat Auto Translator*
-* [TwitFix](https://fxtwitter.com/) - *Fix Discord Twitter Embeds*
+* [TwitFix](https://fxtwitter.com/) - *Fix Discord Twitter Embeds / [GitHub](https://github.com/robinuniverse/twitfix)*
 * [Discord Token Getter](https://greasyfork.org/en/scripts/404170-discord-token-getter) or [Get Discord Token](https://greasyfork.org/en/scripts/395741-get-discord-token) - *Retrieve Discord user token*
 * [PreMiD](https://premid.app/) - *Display internet activity in Discord status / [Github](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.gg/WvfVZ8T)* 
 * [Alternatives to MEE6](https://alternativestomee6.com/) - *[Discord](https://discord.gg/WrbMdWHfNd)* 
@@ -791,7 +793,7 @@ General Reading Sites*
 * [DiscordStatus](https://warze.org/discordstatus/) - *Discord Status Art Creator*
 * [DateTimeCord](https://datetimecord.rauf.wtf/) - *Discord Date & Time Fomatting Tool*
 * [Edited Text Mover](https://respecting.github.io/all-things-copying/discord-edited-text-mover) - *Move Edited Text Note*
-* [Discord Text to Emoji](https://jtprince.com/discord/) - *Emoji Discord Text*
+* [Discord Text to Emoji](https://jtprince.com/discord/), [2](http://pingusteif.de/discord) - *Emoji Discord Text*
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - *Automod Bot Config*
 * [Dyno](https://dyno.gg/) - *Change Discord Discriminator w/o Nitro / [How-To](https://i.imgur.com/lHRD42c.png)* 
 * [Discord.ID](https://discord.id/) - *Lookup a Discord User or Bot ID* 
@@ -1057,7 +1059,6 @@ General Reading Sites*
 * [Hyper](https://github.com/nodgear/Hyperbar) or [Awesome](https://github.com/nodgear/Awesome) - *Taskbar Replacement*
 * [CircleDock](http://circledock.wikidot.com/) - *Circular Dock*
 * [Clover](http://en.ejie.me/) or [QTTabBar](http://qttabbar.wikidot.com/) - *Windows Explorer Tabs*
-* [Total Commander](https://www.ghisler.com/), [Everything](https://voidtools.com/), [OldNewExplorer](https://m.majorgeeks.com/files/details/oldnewexplorer.html) or [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - *Improved File Manager / Explorer*
 * [WinFile](https://github.com/microsoft/winfile) - *Original Windows File Manager* 
 * [Multi Commander](http://multicommander.com/) - *Multi-Tabbed File Manager*
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - *Quickly Change Power Schemes*
@@ -1194,6 +1195,7 @@ General Reading Sites*
 
 ## ▷ File Tools
 
+* **[Windows File Explorers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_file_explorers)** - *Improved Windows File Explorers*
 * **[File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - *Tool to Share / Sync Files*
 * **[File Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_download_managers)** - *Programs to Help Manage Downloads*
 * **[Multi-Site Cloud Storage Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_cloud_storage_managers)** - *Manage Cloud Files on Multiple Sites*
@@ -1523,6 +1525,7 @@ General Reading Sites*
 * [ChronoCrash](http://www.chronocrash.com/forum/) - *Game Modding Forum*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
 * [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - *Cheat Engine Table for Singple Player Games*
+* [Otis_Inf Camera Mods](https://redd.it/hvttbd) - *Game Camera Mods*
 * [injectSMAA](http://mrhaandi.blogspot.com/p/injectsmaa.html) - *SMAA Injection Tool*
 * [OpenVR FSR](https://github.com/fholger/openvr_fsr) - *Steam VR FidelityFX Super Resolution Mod*
 * [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - *GTA5 FidelityFX Super Resolution Mod*
@@ -1583,21 +1586,21 @@ General Reading Sites*
 ## ▷ Minecraft Tools
 
 * [Awesome Minecraft](https://github.com/bs-community/awesome-minecraft) - *Minecraft Resource Index*  
-* [OptiFine](https://optifine.net/), [Sodium](https://modrinth.com/mod/sodium) / [Extra](https://modrinth.com/mod/sodium-extra), [Phosphor](https://modrinth.com/mod/phosphor), [Indium](https://github.com/comp500/Indium/), [Hydrogen](https://modrinth.com/mod/hydrogen) or [Lithium](https://modrinth.com/mod/lithium) - *Minecraft Optimization Mod / Fabric Required for some* 
+* [Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods) - *Minecraft Mod Collections* 
+* [Minecraft Optimization Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_optimization_mods) - *Improve Minecrafts Performance*
+* [Minecraft QOL Mods](https://rentry.co/mc-qol) - *Minecraft Quality of Life Mods*
 * [LambdAurora](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754) - *Minecraft OptiFine Alternatives for Fabric*
-* [Aristois](https://aristois.net/) - *Minecraft Utility Mod*
-* [Meteor Client](https://meteorclient.com/) - *Minecraft Fabric Utility Mod*
-* [Caffeine](https://github.com/CaffeineMC) - *Minecraft Performance Mods*
-* [MineColab](https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb) / [GitHub](https://github.com/thecoder-001/MineColab), [Minehut](https://www.minehut.com/), [ScalaCube](https://scalacube.com/), [FreeMC.Host](https://freemc.host/), [Tuinity](https://github.com/Tuinity/Tuinity) or [Aternos](https://aternos.org/) - *Host Free Minecraft Servers*
+* [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - *Minecraft Utility Mod*
+* [MineColab](https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb) / [GitHub](https://github.com/thecoder-001/MineColab), [Minehut](https://www.minehut.com/), [ScalaCube](https://scalacube.com/), [FreeMC.Host](https://freemc.host/), [PloudOS](https://ploudos.com/), [Tuinity](https://github.com/Tuinity/Tuinity) or [Aternos](https://aternos.org/) - *Host Free Minecraft Servers*
 * [GeyserMC](https://geysermc.org/) - *Join Minecraft Java Servers with Bedrock Client / [Consoles](https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles)* 
 * [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization:zap:.283181/) - *Paper / Spigot Server Optimization Guide / Use Paper*
 * [mcsrvstat](https://mcsrvstat.us/) - *Server Status Updates*
 * [Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers) 
 * [tLauncher](https://tlauncher.org/en/), [Salwyrr Launcher](https://www.salwyrr.com/) or [MultiMC5-Cracked](https://github.com/AfoninZ/MultiMC5-Cracked) - *Free Premium Minecraft Launchers*
-* [Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods) - *Mod Minecraft* 
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) - *Minecraft Modding API* 
 * [Amidst](https://github.com/toolbox4minecraft/amidst) - *Minecraft World Overview Display Tool*
 * [The Minecraft Archive Project](http://map.crummy.com/) - *Minecraft World Archive*
+* [PVPRP](https://pvprp.com/) - *Minecraft Texture Packs*
 * [Nova Skin](https://minecraft.novaskin.me/), [NeedCoolShoes](https://www.needcoolshoes.com/) or [Blockbench](https://www.blockbench.net/)- *Minecraft Skin Editor* 
 * [Amulet](https://www.amuletmc.com/) - *Minecraft Map Editor / Viewer*
 * [Classic Minecraft](https://classic.minecraft.net/) - *Play Classic Minecraft* 
