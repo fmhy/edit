@@ -131,6 +131,7 @@
 * [GameGuardian](https://gameguardian.net/) - *Game Hack / Alteration Tool*
 * [NeonRom3r](https://github.com/Gr3gorywolf/NeonRom3r) - *Download Roms* 
 * [VMOS](https://www.vmos.com/) - *Android Virtual Machine*
+* [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - *Android Display Control*
 * [Shelter ](https://cgit.typeblog.net/Shelter/) or [Insular](https://gitlab.com/secure-system/Insular) - *Isolate / Clone Apps*
 * [MacroDroid](http://macrodroid.com/) - *Android Automation* 
 * [Adebar](https://codeberg.org/izzy/Adebar) - *Device Backup Tool*
@@ -289,14 +290,14 @@ App Manager
 * [Aero Apps](https://t.me/aerolla) - *Modded Social Media Apps*
 * [FossDroid](https://fossdroid.com/) - *Open source apps / [/r/fossdroid](https://reddit.com/r/fossdroid)*
 * [Moderse ](https://t.me/Moderse) - *Android Apk Telegram Channel by well known modder - Stabiron*
-* [APK Downloader ](https://apk.support/apk-downloader) - *Download Google Play apks*
-* [evozi](https://apps.evozi.com/apk-downloader) - *Download Google Play apks*
+* [evozi](https://apps.evozi.com/apk-downloader) or [APK Downloader](https://apk.support/apk-downloader) - *Download Google Play APKs*
 * [Raccoon](https://raccoon.onyxbits.de/) - *Private APK Downloader*
-* [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - *Command line APK Download tool*
+* [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - *CLI APK Download Tool*
 * [Blackmod](https://blackmod.net/) - *Modded Game APKs*
 * [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - *Android Vehicle Apps*
 * [App filter](https://appfilter.net/) - *Play Store Advanced Search*
 * [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - *App Giveaway Sites*
+* [APK Generator](https://play.google.com/store/apps/details?id=com.aksapps.apkgenerator) - *Get APK File for Installed Apps*
 * [How-to Install Play Store Apps from Other Countries](https://rentry.co/29s6v)
 
 ***
@@ -350,7 +351,7 @@ App Manager
 * [BlackPlayer](https://rexdl.com/android/blackplayer-ex-apk.html/) - *Streaming*
 * [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - *Streaming*
 * [Rezonance](https://www.rezonanceindia.tech/) - *Streaming / [GitHub](https://github.com/rezonance-india)*
-* [Otter](https://github.com/apognu/otter) - *Share & Listen to Music*
+* [Otter](https://github.com/apognu/otter) or [humit](https://www.humit.app/) - *Music Sharing App*
 * [Quorus](https://quorus.net/) - *Collaborative Playlists* 
 * [SplitCloud](http://www.splitcloud-app.com/) - *Audio Splitter*
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *Download / FLAC / MP3*
@@ -673,6 +674,7 @@ RSS Player*
 * [Audiomack](https://apps.apple.com/ca/app/audiomack-download-new-music/id921765888) - *Streaming* 
 * [VOX](https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494) - *Streaming*
 * [Quorus](https://quorus.net/) - *Collaborative Playlists* 
+* [humit](https://www.humit.app/) - *Music Sharing App*
 * [Qello](https://apps.apple.com/us/app/qello-concerts-live-music/id491069819) - *Concerts & Live Music Streaming*
 * [‎TuneStalgia](https://apps.apple.com/us/app/tunestalgia/id1561719773) - *Music Nostalgia App*
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *Download / FLAC / MP3*
