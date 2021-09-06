@@ -37,6 +37,12 @@
 * [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) - *Resources For Learning To Code* 
 * [EbookFoundation Interactive Programming Tuts](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md) - *Interactive Programming Tutorials* 
 * [Nayuki](https://www.nayuki.io/) - *Programming Tutorials*
+* [Hackr.io](https://hackr.io/) - *Programing Tutorials*
+* [Use My Notes](https://usemynotes.com/) - *Programming Tutorials*
+* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - *Programming Tutorials*
+* [Ultimate Programming](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE) - *Programming Tutorials*
+* [FCS](https://freecoursesite.com/) - *Programing Tutorials*
+* [w3schools](https://www.w3schools.com/) - *Programing Tutorials*
 * [HTMLDog](https://htmldog.com/) - *HTML / CSS / JavaScript Tutorials* 
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/) - *HTML & CSS Tutorials*
 * [VIM Adventures](https://vim-adventures.com/) - *VIM Learning Game*
@@ -56,10 +62,6 @@
 * [Simple Regex](https://simple-regex.com/) - *Regex Tutorial*
 * [Codecademy](https://www.codecademy.com/) - *Coding Lessons* 
 * [CodinGame](https://www.codingame.com/) - *Games to Practice Coding / Programming* 
-* [Hackr.io](https://hackr.io/) - *Programing Tutorials*
-* [Use My Notes](https://usemynotes.com/) - *Programming Tutorials*
-* [FCS](https://freecoursesite.com/) - *Programing Tutorials*
-* [w3schools](https://www.w3schools.com/) - *Programing Tutorials*
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - *Programming Courses*
 * [Stack Exchange](https://stackexchange.com/) - *Programming Q&A*
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - *Programming Language Rundowns* 
@@ -345,8 +347,7 @@
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - *Web Scraping Tool Index*
 * [Awesome-Discord-Communities](https://github.com/mhxion/awesome-discord-communities) - *Programming / Developer / Discord Communities* 
 * [AwesomeTwitterAccounts](https://github.com/yask123/AwesomeTwitterAccounts) - *Curated List of Programming Related Twitter Accounts* 
-* [Awesome Programming](https://github.com/hardikvasa/awesome-programming) - *Programming resources* 
-* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - *Programming Tutorials*
+* [Awesome Programming](https://github.com/hardikvasa/awesome-programming) - *Programming Resources* 
 * [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality/wiki) - *Software Quality Testing Tools*
 * [Node-RED](https://nodered.org/) - *Low-code programming for event-driven applications* 
 * [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/) - *Code / Text Editor* 
@@ -356,6 +357,7 @@
 * [Algorithm Visualizer](https://algorithm-visualizer.org/) - *Visualize Code Algorithms* 
 * [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Lite XL](https://lite-xl.github.io/), [Brackets](http://brackets.io/), [Notepad2](https://www.flos-freeware.ch/notepad2.html) or [Light Table](http://lighttable.com/) - *Code Editor* 
 * [WebDen](https://webden.dev/) - *Code Playground*
+* [Shell Cloud](https://shell.cloud.google.com/) - *Google Cloud Shell Environment*
 * Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Config](https://github.com/ChristianChiarulli/LunarVim)
 * [Vim Plug](https://github.com/junegunn/vim-plug), [Vim Pathogen](https://github.com/tpope/vim-pathogen), [Vundle](https://github.com/VundleVim/Vundle.vim ), [Dein](https://github.com/Shougo/dein.vim) - *Vim Plugin Managers*
 * [VimAwesome](https://vimawesome.com/) - *Vim Plugin Search*
