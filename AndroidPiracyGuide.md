@@ -440,7 +440,6 @@ RSS Player*
 
 ## ▷ Android Anime
 
-* **[AnimeGlare](https://animeglare.xyz/)** - *[Discord](https://discord.gg/tN8hDNd)*
 * [FireAnime](https://github.com/XenTeckzX/FireAnime) - *Chromecast*
 * [AnimeXStream](https://github.com/mukul500/AnimeXStream/)
 * [AnimeTwistFlut](https://github.com/simrat39/AnimeTwistFlut/releases)
