@@ -745,7 +745,6 @@ General Reading Sites*
 * [Slackmoji](https://github.com/seanprashad/slackmoji) or [emoji.gg](https://emoji.gg/) - *Discord Emojis*
 * [Ping and Salar's](https://discord.gg/RuFvp72qY4) - *Free Global Discord Emoji Server List / [Instructions](https://discord.com/channels/290572012437372931/444165499035713537/845971730690473994)*
 * [Emote Manager](https://github.com/EmoteBot/EmoteManager) - *Custom Discord Emoji Manager* 
-* [KawaiiDiscord](https://github.com/noodlebox/KawaiiDiscord) - *External Emote Importer*
 * [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - *Discord Emoji Downloader*
 * [Snowsgiving Icons & Emotes](https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - *Snowsgiving Event Icons & Emojis*
 * [Distok](http://distok.top/stickers/) or [FreeCommunityStickers](https://github.com/discord-stickers/FreeCommunityStickers)  - *Free Discord Stickers* 
@@ -1040,12 +1039,13 @@ General Reading Sites*
 * [QDirStat](https://github.com/shundhammer/qdirstat) - *Directory Statistics*
 * [GenSMBIOS ](https://github.com/corpnewt/GenSMBIOS) - *SMBIOS Generator*
 * [x64dbg](https://github.com/x64dbg/x64dbg) - *Windows Debugging Tool*
+* [WhoCrashed](https://www.resplendence.com/whocrashed) - *Windows Crash Analyzer*
 * [WhatPulse](https://whatpulse.org/) - *Mouse / Keyboard Usage Analyzer*
 * [BleachBit](https://www.bleachbit.org/) or [GlarySoft](https://www.glarysoft.com/) - *Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect.*  
 * [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - *Startup Program Monitor*
 * [RegExp](https://github.com/zodiacon/RegExp) - *Improved Registry Explorer*
 * [Desktop Management](https://github.com/DeveloperWOW64/deskmgr) - *Improved Computer Management*
-* [Open Shell](https://open-shell.github.io/Open-Shell-Menu/), [2](https://github.com/Open-Shell/Open-Shell-Menu) or [SystemTrayMenu](http://hofknecht.eu/systemtraymenu) / [GitHub](https://github.com/Hofknecht/SystemTrayMenu) - *Improved Start Menu* 
+* [Open Shell](https://open-shell.github.io/Open-Shell-Menu/), [2](https://github.com/Open-Shell/Open-Shell-Menu), [StartIsBack](https://filecr.com/?s=startisback) or [SystemTrayMenu](http://hofknecht.eu/systemtraymenu) / [GitHub](https://github.com/Hofknecht/SystemTrayMenu) - *Improved Start Menu* 
 * [UltraCopier](http://ultracopier.first-world.info/) - *Improved File Copy Dialogs*
 * [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - *Classic Start Menu* 
 * [Search Deflector](https://github.com/spikespaz/search-deflector) - *Change Cortana Search Engine / Browser*
@@ -1219,6 +1219,7 @@ General Reading Sites*
 * [Issuu](https://issuu.com/) - *Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/)* 
 * [watermark-remover](https://github.com/cpappen/watermark-remover), [pdf-remove-watermarks](https://github.com/matthiasbock/pdf-remove-watermarks) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - *PDF Watermark Remover*
 * [PDF Fixer](https://pdffixer.com/) - *Repair Damaged PDFs*
+* [PDFCoffee](https://pdfcoffee.com/) - *Upload PDF, Word or PowerPoint Files*
 * [newfileconverterbot](https://t.me/newfileconverterbot), [convrt_bot](https://t.me/convrt_bot) or [FileConvertBot](https://t.me/FileConvertBot) - *Telegram File Conversion Bots*
 * [Waltr](https://softorino.com/waltr/) - *Convert Files to iOS Formats*
 * [Kindle Comic Converter](https://kcc.iosphe.re/) - *Convert Book Files to ePub*
@@ -1296,7 +1297,7 @@ General Reading Sites*
 * [WeCompress](https://www.wecompress.com/) - *Online File Compressor* 
 * [czkawka](https://github.com/qarmin/czkawka) - *Remove Unnecessary Files* 
 * [DBAN](https://dban.org/) or [KillDisk](http://killdisk.com/killdisk-home.htm) - *Data Removal Tool* 
-* [File Hunter](https://lockhunter.com/) or [FileExile](https://sourceforge.net/projects/filexile/) - *File Unlocker / Deleter*
+* [File Hunter](https://lockhunter.com/), [UnLock IT](https://emcosoftware.com/unlock-it/download), [Lock Hunter](https://lockhunter.com/) or [FileExile](https://sourceforge.net/projects/filexile/) - *File Unlocker / Deleter*
 * [rm_empty_subdir](https://gist.github.com/simon987/f5c2cd7602898615ac9bc8c762d9fe1d) - *Remove Empty Sub Directories*
 * [WinMerge](https://winmerge.org/) - *Compare / Merge Files & Folders* 
 * [FilesMerge](https://www.filesmerge.com/) - *Online File Merger*
