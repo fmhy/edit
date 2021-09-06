@@ -637,9 +637,9 @@
 * [Scroll to Top](https://mybrowseraddon.com/scroll-to-top.html) - *Scroll to Top Button on all Sites*
 * [Customizable New Tab Page](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page) - *Customize New Tab Page*
 * [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - *Quickly Switch between Current & Recently Closed Tabs* 
-* [Always Right](https://github.com/autonome/Always-Right/) - *Always Open New Tabs to the Right* 
+* [Always Right](https://github.com/autonome/Always-Right/) - *Always Open New Tabs to the Right*
+* [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - *Manage & Organize Bookmarks* 
 * [Saka](https://saka.io/) - *Tab, History & Bookmark Search* 
-* [MyMark](https://www.mymark.me/) - *Bookmark Manager* 
 * [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - *Sort Bookmarks by Multiple Criteria* 
 * [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - *Search Bookmarks* 
 * [definer](https://lumetrium.com/definer/) or [phlinx](https://phlinx.com/) - *Highlight Search & Definitions*
@@ -758,7 +758,6 @@
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - *Download Manager*
 * [ShadowFox](https://overdodactyl.github.io/ShadowFox/) - *Dark Mode*
 * [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - *Pick Site that Opens in New Tabs* 
-* [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/) or [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - *Bookmark Manager* 
 * [Keep or Delete Bookmarks](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) - *Keep Bookmark Folder Clean* 
 * [SaveForReadLater](https://addons.mozilla.org/en-US/firefox/addon/saveforreadlater/) - *Save Pages to Read Later* 
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - *Multi Tab Word Search Search* 
@@ -836,12 +835,12 @@
 * [darkmode.js](https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c) - *Dark Mode Script*
 * Captcha Solvers - [Hcaptcha](https://greasyfork.org/en/scripts/425854) / [Recaptcha](https://greasyfork.org/en/scripts/430593) 
 * [Remove Web Limits](https://greasyfork.org/en/scripts/28497-remove-web-limits-modified), [2](https://greasyfork.org/en/scripts/386908-remove-web-limits-re-modified) - *Force Enable Right Click*
-* [anti-anti-copy](https://greasyfork.org/en/scripts/7197) - *Copy text from any site*
+* [anti-anti-copy](https://greasyfork.org/en/scripts/7197) - *Copy Text from Any Site*
 * [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - *Select Text Inside Links* 
 * [Always Remember Me](https://openuserjs.org/scripts/Patabugen/Always_Remember_Me) - *Always tick "Remember Me"* 
 * [altsearch links](https://greasyfork.org/en/scripts/13542-altsearch-links) - *Adds search on other sites for google, bing, and yahoo*
 * [Twitch Screen Comment Scroller](https://greasyfork.org/en/scripts/376225-twitch-screen-comment-scroller) - *Auto Scroll Twitch Comments*
-* [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) - *Adds various features to Imageboards* 
+* [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) - *Adds Features to Imageboards / [Themes](https://github.com/KevinParnell/OneeChan) / [GitHub](https://github.com/ccd0/4chan-x)* 
 * [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - *Google Search Endless Scrolling* 
 * [Google Hit Hider](https://openuserjs.org/scripts/jscher2000/Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites) - *Block Sites from Search Results* 
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - *Shows Images & Videos Behind Links & Thumbnails*
