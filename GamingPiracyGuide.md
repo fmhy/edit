@@ -75,6 +75,7 @@
 * [linux-repack-installer](https://github.com/reggiiie/linux-repack-installer) - *Linux Game Installer*
 * [Leggendaria](https://chuchy.neocities.org/leggendaria.altervista.org/archive.htm) - *Bemani & Touhou Games*
 * [CsWaRzOnE](https://www.cswarzone.com/) - *Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)*
+* [JustEmuTarkov](https://justemutarkov.eu/) - *Escape from Tarkov Emulator*
 * [Minetest](https://www.minetest.net/) - *F2P Minecraft Alternative* 
 * [Unciv](https://github.com/yairm210/Unciv) - *Civ V Remake*
 * [London 2038](https://london2038.com/) - *London 2038 Multiplayer Revival Project*
@@ -271,7 +272,6 @@
 * [OpenRA](https://openra.net/) - *Command & Conquer Recreation* 
 * [Classic Warcraft 3 Installers](https://www.removeddit.com/r/Piracy/comments/ewdlnd/for_anyone_looking_for_the_actual_classic/) 
 * [NolfRevival](http://nolfrevival.tk/) - *NOLF, NOLF 2 & Contract Jack*
-* [JustEmuTarkov](https://justemutarkov.eu/) - *Escape from Tarkov Emulator*
 * [DFWorkshop](https://www.dfworkshop.net/) - *Daggerfall Unity Engine Port*
 * [OpenMW](https://openmw.org/en/) - *Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/openmw-tes3mp/) / [Android](https://github.com/xyzz/openmw-android)*
 * [NR2003](https://wildkustomcars.weebly.com/) - *Modded Nascar 2003*
