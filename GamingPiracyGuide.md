@@ -235,7 +235,6 @@
 * [datcheck](https://github.com/pkos/datcheck) - *Compare No-Intro / Redump dat files to rom or disc collection* 
 * [HiddenPalace](https://hiddenpalace.org/) - *Game Development Media Archive*
 * [Xbox Collection](https://archive.org/details/xboxcds?sort=-downloads) - *CD Roms / Xbox / DDL / Torrents*
-* [nintendo.co.jp](https://www.nintendo.co.jp/n01/index.html) - *Japanese N64 Roms*
 
 ***
 
@@ -256,6 +255,7 @@
 * [AtariMania](http://www.atarimania.com/index.html) - *Browser Emulator / Emulators / Roms / Atari Consoles*
 * [MagiPack](https://www.magipack.games/) - *Retro Games* 
 * [Old Games Download](https://oldgamesdownload.com/) - *Retro Games*
+* [Zombs-Lair](https://www.zombs-lair.com/) - *Retro Games*
 * [RetroSpec](http://retrospec.sgn.net/) - *Retro Games*
 * [Japanese PC Compendium](http://japanesepccompendium.blogspot.com/) - *Retro Japanese PC Games*
 * [TOSEC](https://archive.org/details/TOSEC_V2017-04-23), [2](https://archive.org/details/tosec) - *The Old School Emulation Center*
