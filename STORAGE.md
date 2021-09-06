@@ -465,6 +465,7 @@
 * [Movies7](https://movies7.to/)
 * [Flixtor](https://flixtor.one/)
 * [BFlix](https://www1.bflix.to/)
+* [SWatchseries.ru](https://swatchseries.ru/) 
 
 ***
 
