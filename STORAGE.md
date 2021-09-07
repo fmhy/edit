@@ -2073,7 +2073,15 @@ Good for finding classic, obscure & short films.
 
 #### Windows File Explorers
 
-**[Everything](https://voidtools.com/)**, [Total Commander](https://www.ghisler.com/), [OldNewExplorer](https://m.majorgeeks.com/files/details/oldnewexplorer.html), [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir), [Sigma](https://github.com/aleksey-hoffman/sigma-file-manager), [One Commander](https://www.onecommander.com/) 
+* **[Everything](https://voidtools.com/)**
+* [Total Commander](https://www.ghisler.com/)
+* [OldNewExplorer](https://m.majorgeeks.com/files/details/oldnewexplorer.html)
+* [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir)
+* [Sigma](https://github.com/aleksey-hoffman/sigma-file-manager)
+* [One Commander](https://www.onecommander.com/) 
+* [Clover](http://en.ejie.me/) or [QTTabBar](http://qttabbar.wikidot.com/) - *Windows Explorer Tabs*
+* [WinFile](https://github.com/microsoft/winfile) - *Original Windows File Manager* 
+* [Multi Commander](http://multicommander.com/) - *Multi-Tabbed File Manager*
 
 ***
 
