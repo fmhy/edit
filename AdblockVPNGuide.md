@@ -404,8 +404,8 @@
 
 * **[VPN Comparison Guide](https://www.safetydetectives.com/best-vpns/#comparison)**, [2](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml), [3](https://www.vpntierlist.com/) - *Ranks VPNs Based on Privacy Polices & More*
 * **[Mullvad](https://mullvad.net/)** - *[Pricing](https://i.imgur.com/LfjZ9G3.png) / [More Info](https://i.imgur.com/SNkzNV7.png) / [NetNS](https://github.com/chutz/mullvad-netns)*
-* **[Proton](https://protonvpn.com)** - *[Pricing](https://i.imgur.com/hkhZGg1.png) / [More Info](https://i.imgur.com/RZqOXKH.png) - Note that you can't torrent with the free version*
-* **[Windscribe](https://windscribe.com)** - *[Pricing](https://i.imgur.com/D7015rq.png) / [More Info](https://i.imgur.com/qmdyfp6.png) / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites) / free version available / [Chrome](https://chrome.google.com/webstore/detail/windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/windscribe/)*
+* **[Proton](https://protonvpn.com)** - *[Pricing](https://i.imgur.com/hkhZGg1.png) / [More Info](https://i.imgur.com/RZqOXKH.png) / Can't Torrent w/ Free Version*
+* **[Windscribe](https://windscribe.com)** - *[Pricing](https://i.imgur.com/D7015rq.png) / [More Info](https://i.imgur.com/qmdyfp6.png) / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites) / Free Version Available*
 * **[Surfshark](https://surfshark.com/)** - *[Pricing](https://i.imgur.com/YaiKjpX.png) / [More Info](https://i.imgur.com/IPBVPNA.png)*
 * **[Riseup](https://riseup.net/en/vpn)** - *Free VPN* 
 * **[Razorback OpenVPN](https://discord.gg/vgnaeka)** - *Free VPN Config / [How-To](https://imgur.com/a/nyToc6t)*
