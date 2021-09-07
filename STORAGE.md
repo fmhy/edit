@@ -1693,6 +1693,7 @@ Add the following commands to a search to manually scrape each site.
 * [FLAC Musik](https://t.me/flacmuzik) - *FLAC*
 * [FLAC Album](https://t.me/FLAC_DSD_LOSSLESS_HIRES) - *FLAC*
 * [Music_Hunters](https://t.me/Music_Hunters)
+* [/Music](https://t.me/music)
 * [MusicsHunterbot](https://t.me/MusicsHunterbot)
 * [MArchive](https://t.me/MArchive)
 * [ClassicalMusicMe](https://t.me/ClassicalMusicMe) - *Classical* 
