@@ -413,7 +413,6 @@
 * [Perfect Privacy](https://www.perfect-privacy.com/) - *[Pricing](https://i.imgur.com/Rtfwu2t.png) / [More Info](https://i.imgur.com/Y9MRLcg.png)*
 * [IVPN](https://www.ivpn.net/) - *[Pricing](https://i.imgur.com/Iq92wOO.png) / [More Info](https://i.imgur.com/8MDJoYQ.png) / [Free Trial](https://redd.it/nzjmqa)*
 * [ExpressVPN](https://www.expressvpn.com) - *[Pricing](https://i.imgur.com/c1Gzjac.png) / [More Info](https://i.imgur.com/jx7Qz70.png)*
-* [PureVPN](https://www.purevpn.com/) - *[Pricing](https://i.imgur.com/1G3BE3H.png) / [More Info](https://i.imgur.com/9h5QksV.png)*
 * [Trust.Zone](https://trust.zone/) - *[Pricing](https://i.imgur.com/PsRa8GD.png) / [More Info](https://i.imgur.com/zryWzqX.png)*
 * [blackVPN](https://www.blackvpn.com/) - *[Pricing](https://i.imgur.com/uqMeG0b.png) / [More Info](https://i.imgur.com/5U3qjoF.png)*
 * [AirVPN](https://airvpn.org/) - *[Pricing](https://i.imgur.com/TMU1Qtt.png) / [More Info](https://i.imgur.com/nM6wDgz.png)*
