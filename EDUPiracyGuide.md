@@ -280,6 +280,7 @@
 * [Moon.Nasa](https://moon.nasa.gov/) - *Explore the Moon* 
 * [Earth and Moon Viewer](http://www.fourmilab.ch/cgi-bin/Earth) - *Earth / Moon Latitude & Longitude Viewer*
 * [SunCalc](https://www.suncalc.org/) or [MoonCalc](https://www.mooncalc.org/) - *Sun & Moon Position / Phase Calculators* 
+* [CelesTrack](https://celestrak.com/) - *Earth Orbit Visualization*
 * [Mars Explorer](https://mars-explorer.dhaiwatpandya.com/) - *Curiosity Rover Pictures*
 * [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/) - *Interactive Index of Moons* 
 * [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) - *Solar System Scale Model*
@@ -474,6 +475,7 @@
 * [Morse Typing Trainer](https://morse.withgoogle.com/learn/) - *Morse Code Trainer* 
 * [Old Computer Museum](http://oldcomputers.net/) - *Computer History / Info* 
 * [RSOE](http://hisz.rsoe.hu/) - *Emergency and Disaster Information Service* 
+* [M-Journal](https://m-journal.org/) - *Turn Wikipedia into a Citeable Academic Paper*
 * [Sideways Dictionary](https://sidewaysdictionary.com/) - *Common Computer Terms Explained Simply*
 * [SciGen](https://pdos.csail.mit.edu/archive/scigen/) - *CS Paper Generator*
 * [pdfparanoia](https://github.com/kanzure/pdfparanoia) - *Academic Paper Watermark Removal*
