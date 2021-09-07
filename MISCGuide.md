@@ -34,9 +34,9 @@
 * [Similar Sites](https://www.similarsites.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
 * [DirtyWarez](https://dirtywarez.org/) - *Ranks Sites*
 * [10 Words](https://discover.10words.io/) - *App / Tool Discovery*
-* [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - *Piracy Index*
 * [Neverland](http://www.neverland.ws/) - *Piracy Index* 
 * [pilssken](https://pilssken.neocities.org/warez/) - *Piracy Index* 
+* [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - *Piracy Index / [Warning](https://imgur.com/a/9n70xUa)*
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - *Software / Tool Index*
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software Index* 
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software Index*
