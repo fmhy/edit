@@ -36,7 +36,7 @@
 * [10 Words](https://discover.10words.io/) - *App / Tool Discovery*
 * [Neverland](http://www.neverland.ws/) - *Piracy Index* 
 * [pilssken](https://pilssken.neocities.org/warez/) - *Piracy Index* 
-* [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - *Piracy Index / [Warning](https://imgur.com/a/9n70xUa)*
+* [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - *Piracy Index / [Warning](https://i.imgur.com/jtT9GDB.png)*
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - *Software / Tool Index*
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software Index* 
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software Index*
