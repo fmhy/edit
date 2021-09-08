@@ -329,6 +329,7 @@
 * [StudySpanish](https://studyspanish.com/) - *Spanish Learning Tutorials*
 * [AnimeLon](https://animelon.com/) - *Streaming / Anime / Learn Japanese*
 * [Marshall's Site](https://marshallyin.com/) or [Tofugu](https://www.tofugu.com/) - *Learn Japanese* 
+* [Memento](https://github.com/ripose-jp/Memento) - *Japanese Learning Video Player*
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - *Japanese Practice Material*
 * [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - *Japanese Accent Dictionary* 
 * [GetKanda](https://getkana.com/app/) - *Learn Kana* 
