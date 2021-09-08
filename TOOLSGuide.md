@@ -182,7 +182,7 @@
 * [PlayPhrase](https://playphrase.me/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/), [2](https://getyarn.io/) - *Clip Quote Search Engine*
 * [FFmpeg](https://ffmpeg.org/) - *Record, convert and stream audio & video / [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d)*
 * [ConvertVideoTGBot](https://t.me/ConvertVideoTGBot), [FileConvertRobot](https://t.me/FileConvertRobot) or [File2videoconvbot](https://t.me/File2videoconvbot) - *File to Video Telegram Bots* 
-* [OBS](https://obsproject.com/) - *Video Recording / Live Streaming / [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/)* 
+* [OBS](https://obsproject.com/) or [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs) - *Video Recording / Live Streaming / [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/)* 
 * [LiveRecord](https://github.com/lovezzzxxx/liverecord) - *Automatic Stream Recorder*
 * [LiveMonitor](https://github.com/lovezzzxxx/livemonitor) - *Live Stream Detection*
 * [real-url](https://github.com/wbt5/real-url) - *Copy Live Stream URLs*
@@ -422,7 +422,7 @@
 * [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - *Communication Software Index*
 * [Twist](https://twist.com/) - *Collaboration Chat Manager*
 * [Hack.chat](https://hack.chat/) - *Minimal, Account Free Chat* 
-* [Cirlos](https://www.cirlos.net/) - *Customizable Chat App*
+* [Cirlos](https://www.cirlos.net/) or [WeeChat](https://weechat.org/) - *Chat App*
 * [KiwiIRC](https://kiwiirc.com/) - *WebIRC Client*
 * [AdiIRC](https://adiirc.com/) - *IRC Client*
 * [Cinny](https://cinny.in/) - *Matrix Client*
@@ -673,7 +673,8 @@ General Reading Sites*
 * [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - *View Deleted Reddit Comments* 
 * [The-Eye /r/](https://the-eye.eu/r/) - *Subreddit Backups* 
 * [rareddit](https://www.rareddit.com/), [Archive Reddit](https://www.archivereddit.com/), [PushShift Reddit](http://files.pushshift.io/reddit/) or [Reddit Archive](http://www.redditarchive.com/) - *Reddit Post Archive* 
-* [Reddit (Au) Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - *Highlights Reddit comments since you've been away*
+* [Reddit (Au) Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - *Highlights New Comments*
+* [rAger](https://chrome.google.com/webstore/detail/rager/fohlpjahcdbkpcckapphhpahbiajccmj) - *Display Account Age & Karma of Users*
 * [Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect) - *Always Load Old Reddit Design*
 * [Reddit Preview](https://redditpreview.com/) - *Preview Reddit Posts*
 * [Scroller](https://scrolller.com/) - *Reddit Image Auto-Scroller* 
@@ -692,6 +693,8 @@ General Reading Sites*
 * [FrontPageMetrics](https://frontpagemetrics.com/) - *Metrics For Reddit* 
 * [RedditMetis](https://redditmetis.com/), [Reddit-User-Analyser](https://reddit-user-analyser.netlify.app/), [Redective](https://www.redective.com/) or [redditsfinder](https://github.com/Fitzy1293/redditsfinder) - *Reddit Profile Information*
 * [Reddit Comment Search](https://www.redditcommentsearch.com/) - *Search Reddit Comments* 
+* [Reddit Faster](https://github.com/dimaba/redditfaster) or [/r/](https://chrome.google.com/webstore/detail/r/cnccilamloafialmchgfgmbmojdfhmom) - *Open Subreddits Faster*
+* [Find on Reddit](https://chrome.google.com/webstore/detail/find-on-reddit/jbcdpeekakanklckgooknpbonojhjncm) - *Find Discussions of current URL*
 * [KoalaBear](https://www.koalabear.nl/reddit) - *Check if URL has been posted*
 * [RedditRepostSleuth](https://github.com/barrycarey/RedditRepostSleuth) - *Repost Detection Bot*
 * [subreddit-scraper](https://github.com/naftulikay/subreddit-scraper) - *Backup Entire Subreddits* 
@@ -717,7 +720,7 @@ General Reading Sites*
 
 ***
 
-* **[Aliucord](https://github.com/Aliucord/Aliucord)** or [Treecord](https://github.com/Treecord/Treecord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client for Android* 
+* **[Aliucord](https://github.com/Aliucord/Aliucord)** or [Treecord](https://github.com/Treecord/Treecord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client* 
 * **[BetterDiscord](http://betterdiscord.app/)** - *Modifiable Discord Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)*
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - *Discord Tools*
 * [Guilded](https://www.guilded.gg/) or [Revolt](https://revolt.chat/) - *Discord Alternative / [Client Mod](https://github.com/ReGuilded/ReGuilded/)*
@@ -869,6 +872,7 @@ General Reading Sites*
 * [YouTube Comment Scraper](https://github.com/philbot9/youtube-comment-scraper-cli) - *YouTube Comment Scraping CLI* 
 * [YouTube first comment finder](https://first-comment.com/) - *Find first comment of YouTube video*   
 * [Hadzy](https://hadzy.com/) - *YouTube Comment Search*
+* [Reddit Comments for YouTube](https://github.com/tayloroneill/Reddit-Comments-for-YouTube) - *Replace YouTube Comments with Reddit Comments*
 * [YouTube Live Comments](https://addons.mozilla.org/en-US/firefox/addon/ytlc/) - *Show YouTube Live Comments during Playback* 
 * [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - *Fix Youtube Search & Declutter Homepage* 
 * [YouTube Chronological Order](https://github.com/SleekPanther/youtube-chronological-order) - *Watch YouTube Videos in Chronological Order* 
@@ -1058,6 +1062,7 @@ General Reading Sites*
 * [AltDrag](https://stefansundin.github.io/altdrag/) - *Improved Windows Dragging*
 * [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - *Add Everything Support to Taskbar* 
 * [Hyper](https://github.com/nodgear/Hyperbar) or [Awesome](https://github.com/nodgear/Awesome) - *Taskbar Replacement*
+* [OGHub](https://github.com/Wivon/OGHub) - *Free Up Space in your Taskbar*
 * [CircleDock](http://circledock.wikidot.com/) - *Circular Dock*
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - *Quickly Change Power Schemes*
 * [Wox](http://www.wox.one/) / [GitHub](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [ChaseApp](https://www.chaseapp.io/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - *Keystroke Launcher*
@@ -1078,6 +1083,7 @@ General Reading Sites*
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - *Windows Tweaks*
 * [Win10 Widgets](https://win10widgets.com/) - *Widgets for Windows 10* 
 * [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - *Windows API Tricks*
+* [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - *Windows 10 Auto Dark Mode*
 * [f.lux](https://justgetflux.com/), [LightBulb](https://github.com/Tyrrrz/LightBulb) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - *Adapts Display Color to Time of Day*
 * [Twinkle Tray](https://twinkletray.com/) - *System Tray Brightness Slider*
 * [Dimmer](https://www.nelsonpires.com/software/dimmer) - *Multi-Monitor Brightness Control*
@@ -1427,6 +1433,7 @@ General Reading Sites*
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - *Controller Connectivity Testers*
 * [Aim Lab](https://store.steampowered.com/app/714010/Aim_Lab/), [3D Aim Trainer](https://store.steampowered.com/app/1600530/3D_Aim_Trainer/) or [AimTrainer](https://aimtrainer.io/) - *Aim Training Tools & Games*
 * [MacroGamer](https://www.itoady.com/) - *Game Macro Recorder*
+* [Mon](https://github.com/dbednar230/mon) - *Command Line Pokedex*
 * [Blitz](https://blitz.gg/) - *Post Match Performance Analyzer / [Adblocker](https://github.com/lulzsun/blitz-app-adblock)* 
 * [Map Genie](https://mapgenie.io/) - *Explore Game Maps* 
 * [noclip](https://noclip.website/) - *Explore Game Environments* 
@@ -1500,6 +1507,7 @@ General Reading Sites*
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - *PS4 / PS5 Remote Play Client* 
 * [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - *PS4 Exploit Hosting PS4*
 * [PlayStationDiscord-Games](https://github.com/Tustin/PlayStationDiscord-Games) - *PS4 Remote Play* 
+* [DarkSoftware](https://www.darksoftware.xyz/) - *PS4 / PS3 Firmware*
 * [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - *PS3 Homebrew Subreddit*
 * [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - *PSCX Development Emulator*
 * [Tinfoil](https://tinfoil.io/) - *Switch Title Manager / File Browser* 
