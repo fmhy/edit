@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/cyZG45h.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/iPx6iP7.png)** - *For mobile users*
 
 ***
 ***
@@ -433,6 +433,12 @@
 * [Persepolis](https://persepolisdm.github.io/)
 * [DownZemAll](https://setvisible.github.io/DownZemAll/)
 * [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913?mt=12) (Mac)
+
+***
+
+#### File Recovery Tools
+
+[ZAR Recovery](https://www.z-a-recovery.com/), [R-Undelete](https://www.r-undelete.com/Download.shtml), [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec), [StellarInfo](https://www.stellarinfo.com/free-data-recovery.php), [Windows File Recovery](https://www.microsoft.com/en-us/p/windows-file-recovery/9n26s50ln705), [DMDE](https://dmde.com/download.html), [Recuva](https://www.ccleaner.com/recuva), [TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Download) 
 
 ***
 
@@ -929,7 +935,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Multi-System**
 
-**[Foobar2000](https://www.foobar2000.org/)**, [AIMP](http://www.aimp.ru/?do=lang&lng=en), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [GoneMAD](https://gonemadmusicplayer.blogspot.com/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [VOX Universal Beta](https://vox.rocks/forum/t/vox-universal-beta-v07-12-release-notes-download-links-etc/12980/) 
+**[Foobar2000](https://www.foobar2000.org/)**, [AIMP](http://www.aimp.ru/?do=lang&lng=en), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [GoneMAD](https://gonemadmusicplayer.blogspot.com/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [VOX Universal Beta](https://vox.rocks/forum/t/vox-universal-beta-v07-12-release-notes-download-links-etc/12980/), [Hysolid](https://www.hysolid.com/) 
 
 **Linux**
 
@@ -1274,7 +1280,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Proxy Lists
 
-**[PROXY List](https://github.com/TheSpeedX/PROXY-List)**, [Free-Proxy-List](https://free-proxy-list.net/), [Proxy-Daily](https://proxy-daily.com/), [Cool-Proxy](https://www.cool-proxy.net/), [free-proxies](https://scrapingant.com/free-proxies/)
+**[PROXY List](https://github.com/TheSpeedX/PROXY-List)**, [Free-Proxy-List](https://free-proxy-list.net/), [Proxy-Daily](https://proxy-daily.com/), [Cool-Proxy](https://www.cool-proxy.net/), [free-proxies](https://scrapingant.com/free-proxies/), [Proxy-List](https://github.com/Volodichev/proxy-list) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://github.com/roosterkid/openproxylist)
 
 ***
 
@@ -1536,7 +1542,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Stock Photo Sites
 
-**[GetPaidStock](https://getpaidstock.com/), [Downloader.la](https://downloader.la/), [downloaders](https://downloaders.beatsnoop.com/), [EveryPixel](https://www.everypixel.com/)**, [Png.is](https://png.is/tool/findstock), [Unsplash](https://unsplash.com), [Nohat](https://nohat.cc/), [Pexels](https://www.pexels.com/), [PixaBay](https://pixabay.com/), [PNGIMG (png)](https://pngimg.com/), [Shutter](https://t.me/Shutter) (Telegram), [Shutterstock Premium](https://t.me/shutterstockpremium) (Telegram), [Free Shutterstock](https://t.me/freeshutter), (Telegram), [freestockphotos](https://t.me/freestockphotos) (Telegram), [PSD](https://t.me/psd_vector_eps_mockup_stocks) (Telegram), [StockSnap](https://stocksnap.io/), [allthefreestock](https://allthefreestock.com/), [altphotos](https://altphotos.com/), [chamberofcommerce](https://www.chamberofcommerce.org/findaphoto/), [goodfreephotos](https://www.goodfreephotos.com/), [imagebase](http://imagebase.net/), [morguefile](https://morguefile.com/photos), [desirefx](https://www.desirefx.me/category/stock_images/), [gfxmountain](http://gfxmountain.com/stock-photos/), [all-free-download](https://all-free-download.com/free-photos/), [compfight](http://compfight.com/), [freepik](https://www.freepik.com/), [creativity103](http://creativity103.com/), [photopin](http://photopin.com/), [photos8](https://photos8.com/), [reshot](https://www.reshot.com/), [creativecommons](https://search.creativecommons.org/), [DreamsTime](https://www.dreamstime.com/free-photos), [OpenAccess](https://www.si.edu/OpenAccess), [LibreStock](http://librestock.com/), [FreeImages](https://www.freeimages.com/), [PixelMob](https://pixelmob.co/), [StorySet](https://storyset.com/), [behance](https://www.behance.net/), [gratisography](http://gratisography.com/), [freeillustrations](http://freeillustrations.xyz/), [sharedvn](https://www.sharedvn.net/) (shutterstock downloader), [beatsnoop](https://downloaders.beatsnoop.com/)
+**[GetPaidStock](https://getpaidstock.com/), [Downloader.la](https://downloader.la/), [downloaders](https://downloaders.beatsnoop.com/), [EveryPixel](https://www.everypixel.com/)**, [Png.is](https://png.is/tool/findstock), [Unsplash](https://unsplash.com), [Nohat](https://nohat.cc/), [Pexels](https://www.pexels.com/), [PixaBay](https://pixabay.com/), [PNGIMG (png)](https://pngimg.com/), [Shutter](https://t.me/Shutter) (Telegram), [Shutterstock Premium](https://t.me/shutterstockpremium) (Telegram), [Free Shutterstock](https://t.me/freeshutter), (Telegram), [freestockphotos](https://t.me/freestockphotos) (Telegram), [PSD](https://t.me/psd_vector_eps_mockup_stocks) (Telegram), [StockSnap](https://stocksnap.io/), [allthefreestock](https://allthefreestock.com/), [altphotos](https://altphotos.com/), [chamberofcommerce](https://www.chamberofcommerce.org/findaphoto/), [goodfreephotos](https://www.goodfreephotos.com/), [imagebase](http://imagebase.net/), [morguefile](https://morguefile.com/photos), [desirefx](https://www.desirefx.me/category/stock_images/), [gfxmountain](http://gfxmountain.com/stock-photos/), [all-free-download](https://all-free-download.com/free-photos/), [compfight](http://compfight.com/), [freepik](https://www.freepik.com/), [creativity103](http://creativity103.com/), [photopin](http://photopin.com/), [photos8](https://photos8.com/), [reshot](https://www.reshot.com/), [creativecommons](https://search.creativecommons.org/), [DreamsTime](https://www.dreamstime.com/free-photos), [OpenAccess](https://www.si.edu/OpenAccess), [LibreStock](http://librestock.com/), [FreeImages](https://www.freeimages.com/), [PixelMob](https://pixelmob.co/), [StorySet](https://storyset.com/), [behance](https://www.behance.net/), [gratisography](http://gratisography.com/), [freeillustrations](http://freeillustrations.xyz/), [sharedvn](https://www.sharedvn.net/) (shutterstock downloader), [beatsnoop](https://downloaders.beatsnoop.com/), [kaboompics](https://kaboompics.com/), [picjumbo](https://picjumbo.com/), [negativespace](https://negativespace.co/), [burst](https://burst.shopify.com/)
 
 ***
 
