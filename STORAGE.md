@@ -213,7 +213,7 @@
 
 #### BetterDiscord Tools
 
-[Plugins](https://betterdiscord.app/plugins), [2](https://mwittrien.github.io/) / [Addons](https://github.com/QbDesu/BetterDiscordAddons) / [Themes](https://www.limeshark.dev/editor), [2](https://gibbu.me/editor), [3](https://theme.codedotspectra.me/), [4](https://0x71.cc/bd/theme/) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd), [2](https://discord.gg/sbA3xCJ) / [Animated PFP](https://discord.gg/xzwKqwvQcP) / [Alt DevilBroPlugins](https://github.com/BD-MemorySeal/DevilBro-Alternatives/tree/distribution) / [Discord](https://discord.gg/6hkKNa4MRN) / [Emojis](https://raw.githubusercontent.com/QbDesu/BetterDiscordAddons/potato/Plugins/Freemoji/Freemoji.plugin.js)
+[Plugins](https://betterdiscord.app/plugins), [2](https://mwittrien.github.io/) / [Addons](https://github.com/QbDesu/BetterDiscordAddons) / [Themes](https://www.limeshark.dev/editor), [2](https://bdeditor.dev/), [3](https://theme.codedotspectra.me/), [4](https://0x71.cc/bd/theme/) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd), [2](https://discord.gg/sbA3xCJ) / [Animated PFP](https://discord.gg/xzwKqwvQcP) / [Alt DevilBroPlugins](https://github.com/BD-MemorySeal/DevilBro-Alternatives/tree/distribution) / [Discord](https://discord.gg/6hkKNa4MRN) / [Emojis](https://raw.githubusercontent.com/QbDesu/BetterDiscordAddons/potato/Plugins/Freemoji/Freemoji.plugin.js)
 
 ***
 
