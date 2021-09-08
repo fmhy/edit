@@ -177,6 +177,7 @@
 * [GetButton](https://getbutton.io/) - *Get free 'Message Us' Button for your Site*
 * [Let's Encrypt](https://letsencrypt.org/) - *Free TLS Certificates*
 * [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - *Free SSL Certificates*
+* [Amazon S3](https://aws.amazon.com/s3) - *Cloud Object Storage Amazon Simple Service Storage*
 * [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - *Email Verification Service*
 * [IP Intelligence](http://getipintel.com/) - *Proxy / VPN / Bad IP Detection*
 * [V2Ray](https://www.v2ray.com/) - *Proxy Software / [Android](https://github.com/eycorsican/kitsunebi-android)*
