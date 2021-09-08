@@ -300,6 +300,7 @@
 * [AudioZ](https://audioz.download/)
 * [GoAudio](https://goaudio.info/) 
 * [VSTHouse](http://vsthouse.ru/) 
+* [VST-Platinum](https://vst-platinum.com/) 
 * [Magesy](https://magesy.blog/) 
 * [Music-Create](https://music-create.org/) 
 * [Audio.Tools](https://audio.tools/) 
