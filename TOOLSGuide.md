@@ -1177,6 +1177,7 @@ General Reading Sites*
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - *Translucent Windows Taskbar* 
 * [RoundedTB](https://github.com/torchgm/RoundedTB) - *Rounded Taskbar Corners*
 * [TaskbarX](https://chrisandriessen.nl/taskbarx/) - *Change Taskbar Icon Positions* 
+* [RetroBar](https://github.com/dremin/RetroBar) - *Retro Classic Taskbars*
 * [WinCenterTile](https://github.com/valinet/WinCenterTitle) - *Center Windows Titlebar Text*
 * [Jabba The Hud](https://codeberg.org/elberro/jabba-the-hud) - *Windows HUD Tweak*
 * [Blackbox 4 Windows](http://blackbox4windows.com/) - *Custom Windows Shells / Widgets*
@@ -1537,10 +1538,12 @@ General Reading Sites*
 * [Project Reality](https://www.realitymod.com/about) - *BF2 & ARMA 2 Realism Mod*
 * [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - *Battlefield Mod Projects*
 * [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - *Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)*
+* [CT3Tweaks](https://ct3tweaks.stashy.dev/) - *Crazy Taxi 3 Tweak Tool / [GitHub](https://github.com/stashymane/ct3tweaks)*
 * [Among Us Free Chat Unlocker](https://github.com/Vili1/Among-us-Free-Chat-unlocker/releases/) - *Among Us Chat Unlocker*
 * [Titanfall2HudToggle](https://www.mediafire.com/file/q3tld2cm31znu2z/Titanfall2HudToggle.rar/file) - *Toggle Titanfall 2 Hud*
 * [FtG UI Mod](https://www.nexusmods.com/dragonage/mods/73) - *Make Dragon Age Text Readable*
 * [tModLoader](https://www.tmodloader.net/) - *Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)*
+* [Peter Jackson's King Kong Signature Edition Fix](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix) - *Peter Jackson's King Kong Signature Edition Patcher*
 
 ***
 
