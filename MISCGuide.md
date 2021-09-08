@@ -429,6 +429,7 @@
 * [Pornolize](https://pornolize.com/) - *Make Inappropriate Versions of Webpages* 
 * [Checkboxes](http://www.jezzamon.com/checkboxes/index.html) - *Check Boxes* 
 * The Nut Button - [Android](https://play.google.com/store/apps/details?id=com.james.nut) / [iOS](https://apps.apple.com/gb/app/the-official-nut-button-meme/id1462124556) - *You press the Button, it says Nut*
+* [Hair on Screen](https://chrome.google.com/webstore/detail/hair-on-screen/egkikapjpndmjflbjjoondbihalgdjco) - *Fake Hair on Screen Prank*
 * [Make-A-Wish Foundation](https://discord.gg/pZZ3STQZ9Y) - *100% Real Make-A-Wish*
 * [Is It A Cat?](https://isitacat.com/) - *Cat Image Detector* 
 * [The.Matrix-ASCII](http://takeovertheworld.org/matrix/) - *The Matrix Encoded in Text*
@@ -503,7 +504,7 @@
 * [wger](https://wger.de/) - *Self-Hosted Workout, Nutrition & Weight App / [GitHub](https://github.com/wger-project/wger)*
 * [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
 * [SPSS Tutorials ](https://www.spss-tutorials.com/) - *SPSS Practice & Examples*
-* [Fitocracy](https://www.fitocracy.com/) - *Create Workout Plans*
+* [Fitocracy](https://www.fitocracy.com/) or [Timely-Fitness](https://github.com/Argentable/Timely-Fitness) - *Create Workout Plans*
 * [DAREBEE](https://darebee.com/) - *Fitness Plans / Workouts*
 * [MapMyWalk](https://www.mapmywalk.com/) - *Map / Track Walks*
 * [Charity Miles](https://charitymiles.org/) - *Donate to Charity While Running / Biking*
