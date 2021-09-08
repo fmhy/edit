@@ -1052,7 +1052,8 @@
 * [Open Media Library](https://openmedialibrary.com/) - *Online Book Manager*
 * [Raven Reader](https://ravenreader.app/) - *Article Reader / Manager* 
 * [Cubari](https://cubari.moe/) - *Image Proxy / Reader*
-* [Browser Ebook Readers]() - *Read Books in Browser*
+* [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - *Read Books in Browser*
+* [Knock](https://github.com/BentonEdmondson/knock) - *Convert ACSM files to DRM-Free EPUB files*
 * [Ebook Sender](https://telegram.me/to_kindle_bot) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - *Send Ebooks to Kindle*
 
 ***
