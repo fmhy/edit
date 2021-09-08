@@ -100,7 +100,7 @@
 
 # ► Android Tools
 
-* **[Aliucord](https://github.com/Aliucord/Aliucord)**, [Treecord](https://github.com/Treecord/Treecord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client* 
+* **[Aliucord](https://github.com/Aliucord/Aliucord)**, [Treecord](https://github.com/Treecord/Treecord) / [Discord](https://discord.gg/EsNDvBaHVU) or [Opencord](https://github.com/X1nto/OpenCord) - *Modded Discord Client* 
 * **[android-security-awesome](https://github.com/ashishb/android-security-awesome)** - *Android Security Resources* 
 * **[Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers) - *Multi-Platform Web Browsers*
 * [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi](https://kiwibrowser.com/), [Lynket](https://github.com/arunkumar9t2/lynket-browser) or [Lightning](https://github.com/anthonycr/Lightning-Browser) - *Android Only Browsers* 
@@ -604,6 +604,7 @@ RSS Player*
 * [Flarify](http://www.flairify.com/) - *Touchscreen Typing Practice* 
 * [VoxRec](https://apps.apple.com/us/app/voxrec-voice-to-text-dictation/id1366603987) - *Voice to Text*
 * [Scan Thing](https://apps.apple.com/us/app/scan-thing-scan-anything/id1542730895) - *Scan & Digitize Anything*
+* [Polycam](https://apps.apple.com/us/app/polycam-lidar-3d-scanner/id1532482376) - *3D Capture Tool*
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - *Scan & Digitize Documents*
 * [PhotoMath](https://apps.apple.com/us/app/photomath/id919087726) - *Math Problem Solver with Steps*
 * [Ringtones](https://apps.apple.com/us/app/ringtones-for-iphone-ringtune/id1036141497) - *Custom Ringtone Creator*
@@ -644,6 +645,7 @@ RSS Player*
 * [Kiiimo](https://cydia.kiiimo.org/) - *App Repository*
 * [CydiaGeek](https://cydiageek.yourepo.com/) - *App Repository* 
 * [ReJail Repo](https://rejail.ru/) - *App / Tweak Repository* 
+* [AppHeaven](https://www.appheaven.vip/) - *App / Tweak Repository* 
 * [iOSGods](https://iosgods.com/) - *App Tweaks / Hacks / Mods*
 * [ignition](https://ignition.fun/) - *App Tweaks*
 * [iPA Host](https://github.com/ipahost) - *App Tweaks / Social Media’s*
