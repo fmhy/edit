@@ -1066,7 +1066,7 @@
 * [bunken](https://github.com/laxyapahuja/bunken) - *Download eBooks directly from Goodreads*
 * [ExtractBookz](https://hub.darcs.net/JasonJAyalaP/ExtractBookz) - *Extract & Rename Ebook Files / [GitHub](https://github.com/JasonJAyalaP/ExtractBookz)*
 * [Read Shit Faster](http://readshitfaster.com/) - *Read Things Faster*
-* [Skimcast](http://www.skimcast.com/), [SummaryGenerator](https://summarygenerator.com/), [Text Rewriter](http://textrewriter.com/), [Resoomer](http://www.resoomer.com/) or [SMMRY](https://smmry.com/) - *Summary Generator* 
+* [Skimcast](http://www.skimcast.com/), [SummaryGenerator](https://summarygenerator.com/), [Text Rewriter](http://textrewriter.com/), [Resoomer](http://www.resoomer.com/), [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn) or [SMMRY](https://smmry.com/) - *Summary Generator* 
 * [FicSave](http://ficsave.xyz/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - *Fanfiction Download Tool* 
 * [SmartStich](https://github.com/MechTechnology/SmartStitch) - *Stitch Together Webtoons*
 * [Library Extension](https://www.libraryextension.com/) - *Check book availability from your local library*
