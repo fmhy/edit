@@ -716,10 +716,10 @@ General Reading Sites*
 
 ***
 
-* **[Aliucord](https://github.com/Aliucord/Aliucord)** or [Treecord](https://github.com/Treecord/Treecord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client* 
+* **[Aliucord](https://github.com/Aliucord/Aliucord)** or [Treecord](https://github.com/Treecord/Treecord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client for Android* 
+* **[BetterDiscord](http://betterdiscord.app/)** - *Modifiable Discord Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)*
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - *Discord Tools*
 * [Guilded](https://www.guilded.gg/) or [Revolt](https://revolt.chat/) - *Discord Alternative / [Client Mod](https://github.com/ReGuilded/ReGuilded/)*
-* [BetterDiscord](http://betterdiscord.app/) - *Modifiable Discord Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)*
 * [Ripcord](https://cancel.fm/ripcord/) - *Lighweight Discord & Slack Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ripcord_tools)* 
 * [Powercord](https://powercord.dev/) - *Anti-Telemetry Discord / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_powercord_tools)* 
 * [Dark-Discord](https://github.com/snappercord/Dark-Discord) - *Dark Theme for BetterDiscord & Powercord* 
