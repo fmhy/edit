@@ -122,6 +122,8 @@
 * [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) - *API index* 
 * [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - *Integrate Services with Discord*
 * [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - *Discord Code Blocks*
+* [Discord4J](https://discord4j.com/) - *Discord Bot API Wrapper*
+* [Javacord](https://javacord.org/) - *Discord Bot Creation Library*
 * [Hacking Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_hacking_tests_.2F_games) - *Hacking Tests & Games*
 * [XunLei](https://www.xunlei.com/) - *Shared Computing / Blockchain*
 * [CuratedSEOTools](https://github.com/sneg55/curatedseotools) - *SEO Tool Index*
