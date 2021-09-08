@@ -29,7 +29,7 @@
 
 #### Adblock Defenders
 
-[fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/), [BlockAdblock Blocker](https://greasyfork.org/en/scripts/406036-blockadblock-blocker), [Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt)
+[fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/), [BlockAdblock Blocker](https://greasyfork.org/en/scripts/406036-blockadblock-blocker), [Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt), [AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra) / [Script](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js)
 
 [Test Adblock Defender](https://blockads.fivefilters.org/)
 
@@ -2094,6 +2094,7 @@ Good for finding classic, obscure & short films.
 * [ReviOS](https://sites.google.com/view/meetrevision)
 * [ISO Files](https://isofiles.bd581e55.workers.dev/0:/)
 * [malwarewatch](https://dl.malwarewatch.org/windows/)
+* [ISO GDrive](https://docs.google.com/spreadsheets/d/e/2PACX-1vSScnE8yYzjgTlMiTpoGZ4VwDKHDanTld2_BXXliZg_nTyVVJq0ppvDJHiRFuMEoAO9UKHZqCG2o97T/pubhtml#)
 * [FoxOS](https://discord.gg/A5Y76ymyBY) - *Custom Windows 7 ISO* 
 * [UnicornsOS](https://discord.gg/vFwRBB7XBK) - *Custom Windows 7 ISO*
 * [ggOS](https://discord.gg/A5BHSQV) - *Custom Windows 10 20H2 ISO*
