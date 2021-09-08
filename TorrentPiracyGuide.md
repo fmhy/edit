@@ -148,7 +148,7 @@
 * [TorrentProject2](https://torrentproject2.com/) - *Magnet Search*
 * [ciligou0](http://ciligou0.com/) - *Magnet Search* 
 * [Bittorrent.am](http://www.bittorrent.am/) - *Magnet Search*
-* [TorrentDownloads](https://www.torrentdownloads.me/) - *Search aggregator*
+* [TorrentDownloads](https://www.torrentdownloads.pro/) - *Search aggregator*
 * [Torlock](https://www.torlock.com/) or [Torlock2](https://www.torlock2.com/) - *Search aggregator*
 * [iBit.to](https://ibit.to) or [iBit.am](https://ibit.am/) - *Search aggregator*
 * [TorrentFunk](https://www.torrentfunk.com/) - *Search aggregator*
