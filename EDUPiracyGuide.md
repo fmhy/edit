@@ -385,6 +385,8 @@
 * [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - *Learn With GIFs* 
 * [KausalFlow](https://tools.kausalflow.com/) - *Academic Research Tools* 
 * [Zotero](https://www.zotero.org/) - *Research Organization Tool* 
+* [Note Garden](https://notegarden.web.app/) - *Note Taking & Auto Courses*
+* [Mochi Cards](https://mochi.cards/) - *Note Taking & Flash Cards*
 * [BookStack](https://www.bookstackapp.com/) - *Self-Hosted Information Manager*
 * [Deepnote](https://deepnote.com/) - *Data Science Notebook*
 * [Plagiarism Checker](https://www.grammarly.com/plagiarism-checker), [PaperRater](https://www.paperrater.com/), [PlagiarismDetector](http://www.plagiarismdetector.net/), [CopyScape](https://www.copyscape.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
