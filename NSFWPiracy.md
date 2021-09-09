@@ -20,7 +20,6 @@
 * [Porn Sites XXX](https://pornsites.xxx/) 
 * [Top Porn Sites](https://toppornsites.com/)
 * [DirtyWarez Adult](https://dirtywarez.org/cat/adult) - *Alexa Adult Site Rankings*
-* [MyGaySites](https://mygaysites.com/) - *List of Gay Porn Sites*
 
 ***
 
@@ -202,3 +201,10 @@
 * [MoanMyIP](https://www.moanmyip.com/) - *Sexy Girls Moaning Your IP*
 * [electric.smut](https://nsfwai.com/) - *NSFW Image Generator*
 * [Brainbuddy](https://www.brainbuddyapp.com/) - *Porn Blocker / Android / iOS*
+
+***
+
+# Gay Porn
+
+* [MyGaySites](https://mygaysites.com/) - *List of Gay Porn Sites*
+* [Gay-Hotfile](https://gay-hotfile.errio.net/) - *Downloads*
