@@ -50,7 +50,7 @@
 
 * [ESRGAN Models](https://icedrive.net/1/43GNBihZyi) or [Upscale Model Database](https://upscale.wiki/wiki/Model_Database) - *Multiple Image Upscalers*
 * [Waifu2x](https://github.com/nagadomi/waifu2x), [GigaPixel](https://filecr.com/?s=Topaz+Gigapixel), [Bigjpg](https://bigjpg.com/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/) or [CupScale](https://github.com/n00mkrad/cupscale) - *Image Upscaler*
-* Waifu2x Tools - [Guide](https://i.imgur.com/55s8sU5.png) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/tanakamura/waifu2x-converter-cpp), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/), [5](https://waifu2x.me/), [6](http://waifu2x.udp.jp/)
+* Waifu2x Tools - [Guide](https://i.imgur.com/55s8sU5.png) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/tanakamura/waifu2x-converter-cpp), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/), [5](https://waifu2x.me/), [6](http://waifu2x.udp.jp/), [7](https://waifu2x.org/)
 * [Croppola](https://croppola.com/) or [Avatar Cropper](https://avatarcropper.com/) - *Cropping Tool* 
 * [Simple Image Resizer](http://www.simpleimageresizer.com/) - *Resize Images*
 * [Resize App Icon](https://resizeappicon.com/) - *Resize Square Images* 
