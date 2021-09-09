@@ -33,7 +33,7 @@
 * [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - *Multiple Twitch Adblocking Methods*
 * [Facebook Hide Ads](https://greasyfork.org/en/scripts/404309-facebook-hide-ads-a-k-a-sponsored-posts) - *Remove Sponsored Posts from Facebook* 
 * [LinkedIn Unsponsored](https://greasyfork.org/en/scripts/379003-linkedin-unsponsored) - *Remove Sponsored Posts from LinkedIn* 
-* [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) or [Behind The Overlay Revival](https://addons.mozilla.org/en-US/firefox/addon/behind-the-overlay-revival/) - *Close Website Overlays* 
+* [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay), [f *ck overlays](https://chrome.google.com/webstore/detail/fck-overlays/ppedokobpbdajgiejhnjfbdjlgobcpkp/related) or [Behind The Overlay Revival](https://addons.mozilla.org/en-US/firefox/addon/behind-the-overlay-revival/) - *Hide Website Overlays* 
 * [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) - *Overlay / Popup Blocker* 
 * [Don't Touch My Tabs!](https://addons.mozilla.org/en-US/firefox/user/12781645/) - *Prevent hyperlinks from controlling other window objects* 
 
