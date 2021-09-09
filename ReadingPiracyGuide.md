@@ -53,11 +53,9 @@
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "Books / Comics / Magazines"*
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "Books / Comics / Magazines"*
 * **[Mobilism](https://forum.mobilism.org)** - *Books / Audiobooks / Magazines / Newspapers / Comics / [Android](https://forum.mobilism.org/app/)*
-* **[Calibre](https://calibre-ebook.com/)** - *E-Book Manager / Downloader*
-* **Calibre Tools** - [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre), [3](https://the-eye.eu/public/Books/Calibre_Libraries/) / [Search](https://www.shodan.io/search?query=server%3A+calibre), [2](https://calishot-eng-1.herokuapp.com/), [3](https://calishot-eng-2.herokuapp.com/index-eng/summary), [4](https://calishot-eng-3.herokuapp.com/index-eng/summary), [5](https://calishot-eng-4.herokuapp.com/index-eng/summary), [6](https://redd.it/nugkl3) / [Web App](https://github.com/janeczku/calibre-web)  
-* **[Library Genesis](https://libgen.fun/)** - *Comics / Manga*
-* **Lib Gen Tools** - *[Desktop](https://wiki.mhut.org/software:libgen_desktop) / [Mobile](https://github.com/manuelvargastapia/libgen_mobile_app), [2](https://github.com/FunkyMuse/Aurora) / [Download Tool](https://github.com/bagaswastu/librebook) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Extension](https://github.com/samj1912/Genesis) / [Python Script](https://github.com/NadalVRoMa/PyLibGen) / [Mirrors](https://whereislibgen.now.sh/), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_clones), [3](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [4](https://sguru.org/libgen-proxy/) / [Onion](http://genotypeinczgrxr.onion/) / [Backup](https://redd.it/edwi9b) / [/r/libgen](https://reddit.com/r/libgen)*
-* **[Z-Library](https://z-lib.org/)** - *Books / Comics / Educational / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_mirrors) / [Telegram Bot](https://t.me/zlibrarybot) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Amazon Links](https://github.com/annaelmoussa/amazon-zlibrary)*
+* **[Calibre](https://calibre-ebook.com/)** - *E-Book Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools)*
+* **[Library Genesis](https://libgen.fun/)** - *Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_lib_gen_tools)*
+* **[Z-Library](https://z-lib.org/)** - *Books / Comics / Educational / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_tools)*
 * **[eBookHunter](https://ebook-hunter.org/)** - *Books / Comics*
 * **[ebook3000](http://www.ebook3000.com/)** - *Books / Audiobooks / Comics / Magazines / Newspapers*
 * **[The-Eye Books](https://the-eye.eu/public/Books/)** - *Books*
@@ -72,6 +70,7 @@
 * [VK Serial Books & Magazines](https://vk.com/sebomag) - *Books / Magazines*
 * [Bookstagram](https://vk.com/bookstagram_eng) - *Books / Magazines* 
 * [29GB Mega Folder](https://mega.nz/folder/x4VG3DRL#lqecF4q2ywojGLE0O8cu4A) - *Books* 
+* [Nikola](https://mega.nz/folder/flYQGbzI#p1AFjtMuCLHQqocJqxV7rg) - *Books*
 * [bitdl 1](http://s1.bitdl.ir/), [2](http://s2.bitdl.ir/), [3](http://s3.bitdl.ir/), [4](http://s4.bitdl.ir/), [5](http://s5.bitdl.ir/), [7](http://s7.bitdl.ir/), [8](http://s8.bitdl.ir/), [9](http://s9.bitdl.ir/), [10](http://s10.bitdl.ir/), [11](http://s11.bitdl.ir/), [13](http://s13.bitdl.ir/), [14](http://s14.bitdl.ir/) - *Books*
 * [Books.cat](https://books.cat/) - *Books  / Forum / Requests* 
 * [Read Any Book](https://www.readanybook.com/) - *Books*
@@ -178,6 +177,7 @@
 * [ePDF](https://epdf.pub/) - *Books* 
 * [SoPDF](http://www.sopdf.com/) - *Books* 
 * [PDFSearches](https://pdfsearches.com/) - *Books*
+* [OiiPDF](https://oiipdf.com/) - *Books*
 * [FindPDFDoc](http://www.findpdfdoc.com/) - *Books* 
 * [PDFSlide](https://pdfslide.net/) - *Books* 
 * [PDFDuck](https://pdfduck.com/) - *Books* 
@@ -345,6 +345,8 @@
 * [Beyond Weird](https://www.beyondweird.com/) - *Assorted Documents / Witchcraft / Conspiracies*
 * [Archive](https://drive.google.com/drive/folders/1UNPHhBJNOUB0c-gFi9toSqirPSi4W99R) - *Conspiracy / Occult / Metaphysics*
 * [CraftStuff](https://drive.google.com/drive/u/0/mobile/folders/1BurmAyZ-iEpDARXawyeYmwD2MGHrw4l6?usp=sharing) - *Witchcraft*
+* [Witchcraft Library](https://docs.google.com/document/d/1sVSqjxTDykRaFEsuing9oOo8zk8KFHDU5jD3k-sHWe4/) - *Witchcraft / Pagan*
+* [Public Witchcraft Library](https://drive.google.com/drive/folders/1GiMpMOxPnxgcgXn8upkxRqTDRmAiep3y) - *Witchcraft / Paganism / Satanism*
 * [Alchemy](https://mega.nz/#F!jBk3nBwC!3kbcd3Yb0I1Dkw6GCBLY1A) 
 * [Hellenistic Theism](https://mega.nz/#F!gehhiaKI!PfYluqpWY4vfowImabzsLQ) 
 * [The Theosophical Society](https://www.theosociety.org/) - *Theosophy* 
@@ -665,7 +667,8 @@
 * [Manuals & Schematics](https://redd.it/nlw3er) or [ManualsLib](https://www.manualslib.com/) - *Manual Directories*
 * [iFixIt](https://www.ifixit.com/Guide) - *Repair Manuals* 
 * [RepairWiki](https://repair.wiki/w/Repair_Wiki) - *Repair Articles*
-* [manned.org](https://manned.org/) - *Index of operating system manuals*
+* [manned.org](https://manned.org/) - *Operating System Manuals*
+* [Manuals Online](http://office.manualsonline.com/) - *Computer Equipment Manuals*
 * [JDMFSM](http://jdmfsm.info/Auto/), [CarPDFManual](https://www.carpdfmanual.com/renault/) or [ProCarManuals](https://procarmanuals.com/) - *Auto Repair Manuals* 
 * [Ownersman.com](https://ownersman.com/) - *Car Owner Manuals* 
 * [Kevincfi](https://www.kevincfi.com/files) - *Aeronautics Manuals*
@@ -729,7 +732,7 @@
 
 # ► Visual Media Sites
 
-* [BestArtBooks ](https://t.me/BESTARTBOOKS) - *Media Artbooks / Soundtracks*
+* [BestArtbooks](https://t.me/BESTARTBOOKS) or [Artbooks.gala](https://artbooks.gala100.net/) - *Artbooks*
 
 ***
 
@@ -806,6 +809,7 @@
 * [MangaInn](https://mangainn.net/) 
 * [Manganato](https://manganato.com/)
 * [EvilFlowers](http://reader.evilflowers.com/)
+* [Mangairo](https://h.mangairo.com/)
 * [247Manga](https://247manga.com/) 
 * [DeathTollScans](https://www.deathtollscans.net/)
 * [Manga Rock](https://mangarock.to/)
