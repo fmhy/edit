@@ -753,7 +753,6 @@ General Reading Sites*
 * [Snowsgiving Icons & Emotes](https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - *Snowsgiving Event Icons & Emojis*
 * [Distok](http://distok.top/stickers/) or [FreeCommunityStickers](https://github.com/discord-stickers/FreeCommunityStickers)  - *Free Discord Stickers* 
 * [Discord Sticker Viewer](https://sticker-view.vercel.app/) - *View / Search Discord Stickers*
-* [Pfps.gg](https://pfps.gg/) - *Free Custom Banners*
 * [Dispatch](https://www.dispatchbot.ml/) - *Group Discord DMs*
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - *Discord Message Encryption*
 * [DiscordFS](https://github.com/dhrumilp15/discordfs) - *Discord File Search*
@@ -802,7 +801,8 @@ General Reading Sites*
 * [Discord.ID](https://discord.id/) - *Lookup a Discord User or Bot ID* 
 * [Discord Markdown Cheatsheet](https://pbs.twimg.com/media/EhCUbVnWAAE5tHx?format=png&name=900x900), [2](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-), [3](https://c.r74n.com/discord/formatting) - *Discord Markdown Guide*
 * [Discord Avatar Maker](https://discord-avatar-maker.app/) - *Make Discord Avatars*  
-* [usrbg](https://github.com/Discord-Custom-Covers/usrbg) or [BetterBG](https://github.com/Flashc0rd/BetterBG) - *Discord Custom Profile Backgrounds / [Discord](https://discord.gg/xBwunSDzPg)* 
+* [usrbg](https://github.com/Discord-Custom-Covers/usrbg), [Pfps.gg](https://pfps.gg/) or [BetterBG](https://github.com/Flashc0rd/BetterBG) - *Discord Custom Profile Backgrounds / [Discord](https://discord.gg/xBwunSDzPg)* 
+* [Auto Creative](https://auto.creavite.co/icons) - *Animated Icon & Banner Generator*
 * [Disgradient](https://disgradient.vanished.rocks/) - *Gradients for Discord Folders, Roles ect.*
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - *Adds Custom CSS Support* 
 * [Discord Status](https://discordstatus.com/) - *Check Discord Status* 
@@ -1151,6 +1151,7 @@ General Reading Sites*
 * [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) - *Analyze System Log Files* 
 * [DependecyWalker](https://www.dependencywalker.com/) or [Dependencies](https://github.com/lucasg/Dependencies) - *View Application Dependencies* 
 * [store.rg](https://store.rg-adguard.net/) - *Microsoft Store Link Generator* 
+* [Windows on Raspberry](https://www.worproject.ml/) - *Windows for Raspberry Pi*
 * [amogOS](https://github.com/jostroOS/amogOS) - *Rasberry Pi OS*
 * [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - *Identify why your PC isn't Windows 11 ready*
 * [Boot Failure Troubleshooting Chart](https://i.imgur.com/QsxYtB4.jpg) - *Boot Failure Troubleshooting Guide*
@@ -1189,6 +1190,7 @@ General Reading Sites*
 * [Jabba The Hud](https://codeberg.org/elberro/jabba-the-hud) - *Windows HUD Tweak*
 * [Blackbox 4 Windows](http://blackbox4windows.com/) - *Custom Windows Shells / Widgets*
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - *Alt Windows Shells* 
+* [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - *MacOS Cursors for Windows*
 * [terminal.sexy](https://terminal.sexy/) - *Terminal Color Schemes*
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - *Pokemon Terminal Themes*
 * [Windows Media Player Skins](https://web.archive.org/web/20100827223732/http://windows.microsoft.com/en-US/windows/downloads/windows-media-player/skins?T1=all)
@@ -1237,6 +1239,7 @@ General Reading Sites*
 * [RollMyFile](https://rollmyfile.com/) - *Open Files Online*
 * [Tmp.Ninja](https://tmp.ninja/) - *Temp File Host (48hrs)*
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - *How-To Safely Archive Files on Cloud Storage Sites*
+* [Filecrypt](https://filecrypt.cc/) - *Encrypt File Links*
 * [megabasterd](https://github.com/tonikelope/megabasterd) - *MEGA Downloader / Uploader / Streaming / Quota Bypass*
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - *Mega Download Script*
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) - *Mega to HTTP*
@@ -1246,7 +1249,7 @@ General Reading Sites*
 * [GDrive Guides](https://t.me/gdriveguides) - *GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)*
 * [Torrent2Drive](https://t.me/torrent_2_drive), [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - *DDL to GDrive Tool*
 * [GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) - *GoIndex to GDrive Downloader*
-* [gd-utils](https://github.com/roshanconnor123/gd-utils) or [Bypass-GDrive](https://yuudrive.me/tools/bypass-gdrive) - *Google Drive Limit Bypass* 
+* [gd-utils](https://github.com/roshanconnor123/gd-utils) / [2](https://nenokkadine.github.io/GD-Utils/) or [Bypass-GDrive](https://yuudrive.me/tools/bypass-gdrive) - *Google Drive Limit Bypass* 
 * [G-Index](https://github.com/LeeluPradhan/G-Index), [goindex](https://github.com/alx-xlx/goindex), [GDI](https://github.com/anymeofu/GDI) or [gdrive-index](https://github.com/alx-xlx/gdrive-index) - *Google Drive Index*
 * [Google Drive Bot](https://t.me/Gdriveit_bot) - *Google Drive Client in Telegram*
 * [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - *Host Direct Links on GDrive* 
@@ -1368,6 +1371,7 @@ General Reading Sites*
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - *UEFI Kexts*
 * [ss64 OSX](https://ss64.com/osx/) - *macOS Bash Commands*
 * [Alfred](https://www.alfredapp.com/) - *Keystroke Launcher* 
+* [alt-tab-macos](https://alt-tab-macos.netlify.app/) - *Alt-Tab for Mac*
 * [Aptonic](https://aptonic.com/) - *Mac Productivity App*
 * [CustomShortcuts](https://www.houdah.com/customShortcuts/) - *Custom Keyboard Shortcuts*
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - *Shortcut CheatSheet for Current Application*
