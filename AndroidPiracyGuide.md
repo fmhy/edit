@@ -127,6 +127,7 @@
 * [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage) - *Disk Usage Analyzer*
 * [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - *Text Font Generator*
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) - *Translator*
+* [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - *Dictionary App*
 * [AutomaTag](http://automatag.com/) - *Meta Data Organizer*
 * [GameGuardian](https://gameguardian.net/) - *Game Hack / Alteration Tool*
 * [NeonRom3r](https://github.com/Gr3gorywolf/NeonRom3r) - *Download Roms* 
@@ -140,6 +141,7 @@
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) or [SongTube](https://github.com/SongTube/SongTube-App) - *YouTube Audio / Video Downloader*
 * [DankChat](https://github.com/flex3r/DankChat) - *Talk in Multiple Twitch Chats at Once*
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - *Reddit Video Downloader*
+* [bash2mp4](https://github.com/htr-tech/bash2mp4) - *Termux Video Downloader*
 * [Boost](https://forum.mobilism.org/search.php?keywords=boost+for+reddit&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [Joey](https://forum.mobilism.org/search.php?keywords=joey+for+reddit&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [BaconReader](http://baconreader.com/) or [Relay](https://relayforreddit.com/relayforreddit.com) - *Reddit Client*
 * [Lemmur](https://github.com/krawieck/lemmur) - *Lemmy Client*
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books*
@@ -584,7 +586,7 @@ RSS Player*
 * [Grffe](https://apps.apple.com/ca/app/grffe-wallpapers/id1521368829) - *Static and Live Backgrounds* 
 * [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - *Wallpapers*
 * [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - *Default iOS Wallpapers*
-* [PicsArt++](https://cokernutx.com/ipa-library/download/PicsArt.html) - *Photo Editor*
+* [PicsArt++](https://cokernutx.com/ipa-library/download/PicsArt.html) or [PhotoWizard](https://apps.apple.com/us/app/photowizard-photo-editor/id370833324) - *Photo Editor*
 * [Iterm](https://github.com/kaneki07/iterm) - *Terminal Emulator*
 * [Universal Control](https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879) - *Universal Remote*
 * [Instdown](https://apps.apple.com/ca/app/instdown-video/id1452076756) - *Download Videos from Social Media* 
@@ -717,7 +719,7 @@ RSS Player*
 * [Blackbox](https://apps.apple.com/ca/app/black-box-movie-listing/id958957112) - *Movies* 
 * [Zivcy](https://www.downloader.world/) - *Movies / TV*
 * [Movie Finder](https://apps.apple.com/de/app/movie-finder-movie-by-image/id1560301878) - *Movies / TV*
-* [Finnci](https://apps.apple.com/us/app/finnci/id1576317327) - *Movies*
+* [Finnci](https://apps.apple.com/us/app/finnci/id1576317327) - *Movies / code: 777*
 * [Airy TV](https://airy.tv/) - *Legal / Live TV*  
 * [STBEmu](https://apps.apple.com/app/stbemutv/id1567306197) - *Emulate a STB and watch IPTV*
 * [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - *Chinese Drama*
