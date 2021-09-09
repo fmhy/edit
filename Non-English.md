@@ -541,6 +541,7 @@
 * [Music Fusion World](https://fusion-world-30.blogspot.com/) - *Music / MP3*
 * [J-pop Music Download](https://jpop.xyz/) - *Music / MP3 / FLAC* 
 * [フリーソフトウェアの倉庫](http://nekomimi.la.coocan.jp/freesoft/index.htm) - *Software*
+* [Perfect Dark](http://kasumi.moe/pd/) - *P2P App*
 
 ## ▷ Torrenting
 
@@ -1146,6 +1147,7 @@
 ## ▷ Downloading
 
 * [HDVietnam](http://www.hdvietnam.com/forums/) - *Video / Audio / Software*
+* [Taiwebs](https://taiwebs.com/) - *Software / Android*
 * [taomaytinh](https://taomaytinh.com/) - *Software*
 * [freehd](https://freehd.me/) - *Movies / TV / Anime*
 * [chiasenhac](https://chiasenhac.vn/) - *Music*
