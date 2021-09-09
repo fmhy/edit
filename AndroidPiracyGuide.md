@@ -100,7 +100,7 @@
 
 # ► Android Tools
 
-* **[Aliucord](https://github.com/Aliucord/Aliucord)**, [Treecord](https://github.com/Treecord/Treecord) / [Discord](https://discord.gg/EsNDvBaHVU) or [Opencord](https://github.com/X1nto/OpenCord) - *Modded Discord Client* 
+* **[Aliucord](https://github.com/Aliucord/Aliucord)** or [Treecord](https://github.com/Treecord/Treecord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client* 
 * **[android-security-awesome](https://github.com/ashishb/android-security-awesome)** - *Android Security Resources* 
 * **[Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers) - *Multi-Platform Web Browsers*
 * [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi](https://kiwibrowser.com/), [Lynket](https://github.com/arunkumar9t2/lynket-browser) or [Lightning](https://github.com/anthonycr/Lightning-Browser) - *Android Only Browsers* 
