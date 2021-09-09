@@ -58,7 +58,7 @@
 * [Acme](http://www.acme.com/) - *Site / Tool Index* 
 * [num's link list](https://web.archive.org/web/20210102182957/https://soda.privatevoid.net/num/lists/web/) - *Site Index*
 * [NYPL Best of the Web](https://www.nypl.org/collections/nypl-recommendations/best-of-web) - *Site Index*
-* [Free Dev stuff](https://freestuff.dev/) - *List of free tools, stuff, & services for developers*
+* [LinkLonk](https://linklonk.com/) - *Link Aggregator & Voting*
 * [Simple Tools](https://simpletools.info/doku.php) - *Simple Programs Index* 
 * [Internet Curated](https://internetcurated.com/) - *Directory Index*
 * [DMOZ](http://www.dmoztools.net/) or [SmartLinks](https://smartlinks.org/index.html) - *Website Directory*
@@ -189,6 +189,7 @@
 # ► Fun Sites
 
 * **[Fun Stuff Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fun_indexes)** - *Toy, Game & Experiment Indexes*
+* **[Random Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_sites)** - *Sites that Take You to Random Sites*
 * **[Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - *Multireddits Curated by FMHY Members*
 * **[r.sine.com](https://r.sine.com/index)**, [Funnyjunk](https://funnyjunk.com//) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Memes & GIFs / Some NSFW*
 * **[Random Comic Generator 3.0](https://explosm.net/rcg)** - *Explosm Random Comic Generator*
@@ -202,7 +203,6 @@
 * **[The GIF Pronunciation Page](http://www.olsenhome.com/gif/)** - *How to Pronouce "GIF"*
 * **[PointerPointer](https://pointerpointer.com/)** - *Get Your Pointer Pointed At* 
 * **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - *Realistic-Looking Fake Versions of Things* 
-* [StumblingOn](https://stumblingon.com/), [Stumbled](https://stumbled.cc/), [BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/), [JumpStick](https://jumpstick.app/) or [OpenBulkURL](https://openbulkurl.com/random/) - *Takes you to a Random Site*
 * [KongouCheats](https://kongoucheats.com/) - *Watch Random Memes / Videos* 
 * [Kamogo](https://www.kamogo.com/faq/) - *Useless Web Apps*
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - *Turn Screen into Strobe / Mood Light*
@@ -223,7 +223,7 @@
 * [Brickit](https://brickit.app/) - *Scan Lego Collection for Build Ideas*
 * [Building Instructions](https://www.lego.com/en-us/service/buildinginstructions) - *Download Lego Instructions*
 * [Outside Simulator](https://outsidesimulator.com/) - *Simulate Being Outside* 
-* [Travel Remotely](https://travel-remotely.netlify.app/) or [Virtual Vacations]https://virtualvacation.us/videarth.html) - *Traveling Simulator* 
+* [Travel Remotely](https://travel-remotely.netlify.app/) or [Virtual Vacations](https://virtualvacation.us/videarth.html) - *Traveling Simulator* 
 * [stringers.live](https://stringers.live/) - *Live Freelance Journalist Streams*
 * [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - *Open Random Windows*
 * [BigPixel](http://en.bigpixel.cn/) - *Giant Zoomable Photos*
@@ -509,6 +509,7 @@
 * [MapMyWalk](https://www.mapmywalk.com/) - *Map / Track Walks*
 * [Charity Miles](https://charitymiles.org/) - *Donate to Charity While Running / Biking*
 * [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - *Zombie Running Adventure Game*
+* [INCIDecoder](https://incidecoder.com/) - *Skincare Ingredient Lists*
 
 ***
 
@@ -516,6 +517,7 @@
 
 * **[DuckDuckGo](https://duckduckgo.com/?q=maps&ia=web&iaxm=maps)**, [Yandex](https://yandex.com/maps/), [Google](https://www.google.com/maps/), [Bing](https://www.bing.com/maps), [Wego.Here](https://wego.here.com/), [Terrafly](http://www.terrafly.com/) or [OrganicMaps](https://organicmaps.app/) - *Maps, Satellite & Street Views* 
 * **[OpenStreetMap](https://www.openstreetmap.org/)** - *Street Map* 
+* [Atlas Obscura](https://www.atlasobscura.com/) - *Travel Guidebook / Maps*
 * [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - *Earth Viewer*
 * [MapChannels](https://www.mapchannels.com/) - *Mapping / Navigation Tools* 
 * [OldMapsOnline](https://www.oldmapsonline.org/) - *Historical Maps Tool* 
@@ -637,6 +639,7 @@
 * [ScrollAnywhere](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scroll_anywhere) - *Improves Scrolling Functionality*
 * [Scroll to Top](https://mybrowseraddon.com/scroll-to-top.html) - *Scroll to Top Button on all Sites*
 * [Customizable New Tab Page](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page) - *Customize New Tab Page*
+* [Tabiverse](https://tabiverse.com/) - *Universe New Tab Page / [Discord](https://discord.gg/MUgRGwE)*
 * [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - *Quickly Switch between Current & Recently Closed Tabs* 
 * [Always Right](https://github.com/autonome/Always-Right/) - *Always Open New Tabs to the Right*
 * [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - *Manage & Organize Bookmarks* 
