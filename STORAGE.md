@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/iPx6iP7.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/iGNJCEF.png)** - *For mobile users*
 
 ***
 ***
@@ -148,6 +148,12 @@
 #### Anti-Grabify 
 
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/anti-grabify/) / [Chrome](https://chrome.google.com/webstore/detail/anti-grabify/mdiikcjojbiohaoechokgkdiodcfokpn)
+
+***
+
+#### Antivirus
+
+**[Malwarebytes](https://www.malwarebytes.com/)**, [Hitman Pro](https://filecr.com/?s=HitmanPro), [Kaspersky Premiuim](https://rentry.org/Kaspersky), [Adaware Antivirus](https://www.adaware.com/free-antivirus-download), [ClamAV](https://www.clamav.net/), [Emisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/), [Immunet](https://www.immunet.com)
 
 ***
 
@@ -343,7 +349,7 @@
 
 #### Disk Usage Analyzers
 
-[WizTree](https://wiztreefree.com/), [WinDirStat](https://windirstat.net/), [diskover](https://github.com/shirosaidev/diskover), [baobab](https://github.com/GNOME/baobab), [2](https://gitlab.gnome.org/GNOME/baobab), [HDSentinel](https://www.hdsentinel.com/), [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/), [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
+[WizTree](https://wiztreefree.com/), [WinDirStat](https://windirstat.net/), [diskover](https://github.com/shirosaidev/diskover), [baobab](https://github.com/GNOME/baobab), [2](https://gitlab.gnome.org/GNOME/baobab), [HDSentinel](https://www.hdsentinel.com/), [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/), [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html)
 
 ***
 
@@ -583,6 +589,7 @@
 * https://fullmoviehd4k.com/
 * https://cataz.net/ 
 * https://tinyzonetv.to/
+* https://tinyzonetv.cc/
 * https://www.showboxmovies.net/
 * https://www.watch4freemovies.com/
 * https://www2.filmlicious.net/
