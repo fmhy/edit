@@ -83,7 +83,7 @@
 * **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - *Malware Analysis Tools / Resources*
 * **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - *Malware Avoidance Guide*
 * **[How to Remove Malware](https://redd.it/33evdi)** - *Malware Removal Guide*
-* **[Malwarebytes](https://www.malwarebytes.com/)**, [Hitman Pro](https://filecr.com/?s=HitmanPro), [Kaspersky Premiuim](https://rentry.org/Kaspersky), [Adaware Antivirus](https://www.adaware.com/free-antivirus-download), [ClamAV](https://www.clamav.net/) or [Immunet](https://www.immunet.com) - *Antivirus*
+* **[Antivirus Programs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_antivirus)** - *Virus Protection & Scanning*
 * **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** or [Ultra Adware Killer](https://www.carifred.com/ultra_adware_killer/) - *Anti-Adware*
 * **[Virus File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scan_files)** - *Scan Files*
 * **[Hybrid Analysis](https://www.hybrid-analysis.com/)** or [Amnpardaz](https://jevereg.amnpardaz.com/) - *Scan EXE Files*
