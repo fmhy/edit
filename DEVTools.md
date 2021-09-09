@@ -98,6 +98,7 @@
 * [Student Developer Pack](https://education.github.com/pack) - *Free Developer Tools for Students* 
 * [Libera Chat](https://libera.chat/) - *IRC Network for Project Collaboration*
 * [CodeProject](https://www.codeproject.com/) or [Blind](https://www.teamblind.com/)  - *Developer Forum* 
+* [The Devs Network](https://thedevs.network/) - *Developer Chat*
 * [daily.dev](https://daily.dev/) - *Replace New Tab Page with Developer Articles* 
 * [Laws of UX](https://lawsofux.com/) - *Maxims / Principles for UI Designers* 
 * [UI Coach](https://uicoach.io/) - *UI Design Challenge Generator*
@@ -359,7 +360,8 @@
 * [Regex101](https://regex101.com/) - *Regex Editor / Debugger* 
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - *Creative Coding Resource Index* 
 * [Algorithm Visualizer](https://algorithm-visualizer.org/) - *Visualize Code Algorithms* 
-* [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Lite XL](https://lite-xl.github.io/), [Brackets](http://brackets.io/), [Notepad2](https://www.flos-freeware.ch/notepad2.html) or [Light Table](http://lighttable.com/) - *Code Editor* 
+* [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/), [Lite XL](https://lite-xl.github.io/), [Brackets](http://brackets.io/), [Notepad2](https://www.flos-freeware.ch/notepad2.html) or [Light Table](http://lighttable.com/) - *Code Editor* 
+* [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - *Emacs Packages *
 * [WebDen](https://webden.dev/) - *Code Playground*
 * [Shell Cloud](https://shell.cloud.google.com/) - *Google Cloud Shell Environment*
 * Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Config](https://github.com/ChristianChiarulli/LunarVim)
