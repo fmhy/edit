@@ -627,7 +627,7 @@
 
 * **[Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_adblocking_extensions) / [Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_extensions) Extensions**
 * **[add0n](https://add0n.com/) or [MyBrowserAddon](https://mybrowseraddon.com/)** - *Open-Source Extension Index*
-* **[Buster](https://github.com/dessant/buster)** or **[AntCpt](https://antcpt.com/)** - *Auto Captcha Solver*
+* **[Buster](https://github.com/dessant/buster)** - *Auto Captcha Solver*
 * **[Privacy Pass](https://privacypass.github.io/)** - *Skip Captchas* 
 * **[Dark Reader](https://darkreader.org/)**, [Dark Background and Light Text](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dark_background_and_light_text), [Midnight Lizard](https://midnight-lizard.org/), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) or [222](https://github.com/x08d/222) - *Dark Mode* 
 * [Into The Black Hole](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_into_the_black_hole) - *Dark Mode Browser Theme*
