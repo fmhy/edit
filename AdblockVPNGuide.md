@@ -482,7 +482,7 @@
 * [Open Proxy Space](https://openproxy.space/)
 * [Google Translate](https://translate.google.com/) - *[How to use](https://redd.it/fawkjy)*
 * [DarknetProxy](https://darknetproxy.com/) - *DeepWeb / I2P Proxy*
-* [b.007](https://b.007.workers.dev/), [2](https://b.lulu.workers.dev/), [3](https://b.jsproxy.workers.dev/), [4](https://noisy-tooth-2ee5.susheng.workers.dev/) - *Cloudflare Workers Proxies* 
+* [b.lulu](https://b.lulu.workers.dev/), [3](https://b.jsproxy.workers.dev/), [4](https://noisy-tooth-2ee5.susheng.workers.dev/) - *Cloudflare Workers Proxies* 
 * [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - *Python Library for Retrieving Free Proxies*
 * [Proxy-Checker](https://proxy-checker.net/) - *Proxy Checker*
 * [CheckSocks5](https://checksocks5.com/) - *Socks5 Proxy Checker*
