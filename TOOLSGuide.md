@@ -300,7 +300,6 @@
 * [WD-1](https://www.worteldrie.com/WD5/), [Citizen DJ](https://citizen-dj.labs.loc.gov/loc-variety-stage/remix/), [YOU.DJ](https://you.dj/) or [Webx0x Beats](https://webx0x.com/beats/new) - *Online DJ / Beat Creator* 
 * [RaveDJ](https://rave.dj/) - *Easily Mix Songs Together* 
 * [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - *Create Songs with Code* 
-* [Blokdust](https://blokdust.com/) - *Make Songs With Blocks* 
 * [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/) or [Strofe](https://www.strofe.com/) - *Simple Song Creator*
 * [WebSynths](http://www.websynths.com/) - *Browser-Based Instruments* 
 * [Sampulator](http://sampulator.com/) - *Create Music with Your Keyboard* 
@@ -438,7 +437,6 @@
 * [Jitsi](https://desktop.jitsi.org/index.html), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone) or [Briefing](https://brie.fi/ng) - *Video Chat* 
 * [Jam](https://jam.systems/), [GROK](https://grokat.com/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
 * [IMumble](https://www.imumble.nl/) - *Voice Chat Server*
-* [Speak After Click](https://speakafter.click/) - *Click to Speak Voice Chat* 
 * [Branch](http://branch.gg/) or [Gather](https://gather.town/) - *Virtual World Voice Chat*
 * [FireStorm Viewer](https://www.firestormviewer.org/) - *Virtual World Viewer*
 * [Telegram Email](https://t.me/etlgr_bot) - *Send / Receive Emails via Telegram* 
@@ -830,7 +828,6 @@ General Reading Sites*
 * [discasset](https://github.com/Commandtechno/discasset), [2](https://gitlab.com/derpystuff/discasset) - *Discord Asset Grabber*
 * [Hypesquad](https://cdn.discordapp.com/attachments/668986791797325824/844589771653382194/unknown.png) - *Get a Discord Profile Badge*
 * [Imagine](https://imagine.vanished.rocks/) - *Imagine Discord Branding Image Creator*
-* [Discord Games](https://discord-games.cf/) - *Discord Rickrolling*
 * [DiscordExtras](https://github.com/NotZoeyDev/DiscordExtras) - *Patch iOS Discord Client*
 * [Figma](https://www.figma.com/community/file/992144378612759941/Discord-Resources) - *Discord Resources / [Desktop](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)*
 * [Mon2Cam](https://github.com/ShayBox/Mon2Cam) - *Multi-Monitor DIscord Screenshare Fix*
@@ -1036,7 +1033,7 @@ General Reading Sites*
 * [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - *Windows System Utilities* 
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](http://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - *Process Monitor*
 * [SpeedFan](http://www.almico.com/speedfan.php) - *Hardware Monitor*
-* [Process Lasso](https://bitsum.com/) - *CPU Optimizer* 
+* [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) or [Process Lasso](https://bitsum.com/) - *CPU Optimizer* 
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - *Laptop CPU Monitor / Optimizer*
 * [CPUid](https://www.cpuid.com/softwares/cpu-z.html) - *System Information Tool* 
 * [HWiNFO](https://www.hwinfo.com/) - *Hardware Analysis, Monitoring and Reporting*
@@ -1255,7 +1252,6 @@ General Reading Sites*
 * [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - *Host Direct Links on GDrive* 
 * [gdrive-copy](https://github.com/ericyd/gdrive-copy), [googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader), [TgFolderClone](https://github.com/Loli-Killer/TgFolderClone), [Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot) or [GDrive-Clone](https://github.com/alx-xlx/gdrive-clone) / [Bot](https://github.com/MsGsuite/CloneBot) - *Copy Google Drive*
 * [gd-efc](https://anadius.github.io/gd-efc/) - *Copy Encrypted Google Drive* 
-* [RemoteStream](https://remotestre.am/) - *Encrypt your Google Drive Links* 
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - *Google Drive Link Encryptor for GD-EFC*
 * [goodls](https://github.com/tanaikech/goodls) - *Google Drive Downloader*
 * [Backup System](https://github.com/danielpy108/BackUpMySystem) - *Backup Google Drive*
@@ -1436,6 +1432,7 @@ General Reading Sites*
 * [Koalageddon](https://github.com/acidicoala/Koalageddon/) - *DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)*
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - *Controller Connectivity Testers*
 * [Aim Lab](https://store.steampowered.com/app/714010/Aim_Lab/), [3D Aim Trainer](https://store.steampowered.com/app/1600530/3D_Aim_Trainer/) or [AimTrainer](https://aimtrainer.io/) - *Aim Training Tools & Games*
+* [Skill Capped Downloader](https://ufile.io/kuthw907) - *Skill Capped Video DL Script / [Guide](https://i.imgur.com/lZofxhL.png)*
 * [MacroGamer](https://www.itoady.com/) - *Game Macro Recorder*
 * [Mon](https://github.com/dbednar230/mon) - *Command Line Pokedex*
 * [Blitz](https://blitz.gg/) - *Post Match Performance Analyzer / [Adblocker](https://github.com/lulzsun/blitz-app-adblock)* 
