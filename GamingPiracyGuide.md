@@ -71,7 +71,6 @@
 * [de.linuxgame.cn](https://de.linuxgame.cn/) - *Linux Games* 
 * [The KDE Games Center](https://games.kde.org/) - *Linux Games*
 * [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - *Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
-* [Link Scrape](https://github.com/reggiiie/link-scrape) - *Linux Game Search Script*
 * [linux-repack-installer](https://github.com/reggiiie/linux-repack-installer) - *Linux Game Installer*
 * [Leggendaria](https://chuchy.neocities.org/leggendaria.altervista.org/archive.htm) - *Bemani & Touhou Games*
 * [CsWaRzOnE](https://www.cswarzone.com/) - *Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)*
@@ -385,7 +384,6 @@
 * [Doodle Champion Island Games!](https://www.google.com/) - *Olympics JRPG Game*
 * [Impossible Rush](http://tanksw.com/impossible-rush/) - *Reflex Testing Game*
 * [MousePoint](https://creativetechguy.com/mousepoint) - *Mouse Pointing Game*
-* [Piccolo](https://piccolo.click/web/) - *Othello AI* 
 * [FindTwin](https://github.com/klimaleksus/FindTwin) - *Find the Twins* 
 * [Find the Invisible Cow](http://www.findtheinvisiblecow.com/) - *Find an Invisible Cow with Sound*
 * [Alternate History Simulator](http://abw.blue/) - *Write Alternate History* 
