@@ -136,7 +136,6 @@
 * [FreeCourseUdemy](https://freecourseudemy.com/) - *Udemy Courses*  
 * [FtuUdemy]( https://www.ftuudemy.com/) - *Udemy Courses* 
 * [CourseForFree](https://courseforfree.com/) - *Udemy Courses*  
-* [Pirate Warez](https://piratewarez.com/) - *Udemy Courses* 
 * [Download Online Tutorials Free](https://download.howtofree.org/) - *Udemy Courses* 
 * [Udemy Free Course](https://t.me/udemy_free_cource) - *Udemy Courses* 
 * [Web Dev Courses](https://drive.google.com/drive/folders/17nOoned_J-RzAlCXaHEcEvdQC3LDOCC0) - *Web Development Courses*
