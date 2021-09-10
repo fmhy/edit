@@ -132,7 +132,6 @@
 * [Torrent Finder](https://torrent-finder.com/) - *Search aggregator*
 * [TorrentDownload](https://www.torrentdownload.info/) - *Search aggregator*
 * [Torrent Paradise](https://torrent-paradise.ml/) - *Search aggregator*
-* [Gonema](https://gonemaweb.ruggieri.tech/) - *Search aggregator*
 * [TorLook](https://torlook.info/) - *Search aggregator*
 * [2Torrentz](https://2torrentz.net/torrentz/) - *Search aggregator*  
 * [Toros](https://www.toros.co/) or [Toros2](https://www.toros2.com/) - *Search aggregator*
