@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/gmYnVMT.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/ID3SSO7.png)** - *For mobile users*
 
 ***
 ***
@@ -104,7 +104,6 @@
 * [Ali213](https://ali213.net/) - *Games*
 * [3dmgame](https://www.3dmgame.com/) - *Games / Geolocked / Baidu Required* 
 * [BD2020](https://www.bd2020.com/) - *Movies*
-* [52hdking](http://www.52hdking.com/) - *TV*  
 * [Zimuxia](https://www.zimuxia.cn/) - *TV*
 * [shinybbs](https://sub.shinybbs.vip/) - *TV* 
 * [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - *Courses / [icourse163](https://www.icourse163.org/)*
@@ -155,7 +154,6 @@
 * [Meiju](https://www.meiju11.com/) or [iMeiju](https://www.imeiju.net/) - *Movies / TV*
 * [Nunu Cinema](https://www.nunuyy.com/) - *Movies / TV*
 * [Fun.tv](http://www.fun.tv/) - *Movies / TV*
-* [PPTV](https://www.pptv.com/) - *TV*
 * [qiqi8](http://qiqi8.net/) - *Anime*
 * [AGE動漫](https://agefans.tw/) - *Anime*
 * [music.163](https://music.163.com/) - *Music*
@@ -312,7 +310,6 @@
 * [hd-direct.net](https://hd-direct.net/) - *Movies / TV / Anime / Games* 
 * [hd-source](https://hd-source.to/) - *Movies / TV / NSFW* 
 * [movie-blog](https://movie-blog.tv/) - *Movies / TV*
-* [StarWarez](https://starwarez.to/) - *Movies / TV*
 * [MLCBoard](https://mlcboard.com/) - *Movies* 
 * [German Telegram Movie Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_german_telegram_movie_downloads) - *Movies* 
 * [Boerse](https://myboerse.bz/) - *Video / Audio / Software / Android / NSFW*
@@ -425,7 +422,6 @@
 
 * [bolly4u](https://bolly4u.life/ ) - *Movies / TV*
 * [1TamilMV](http://ww16.1tamilmv.xyz/) - *Movies / TV*  
-* [ssrmovies](https://www.ssrmovies.media/) - *Movies*
 
 ## ▷ Streaming 
 
@@ -691,7 +687,6 @@
 * [HexDownload](https://hexdownload.co/) - *Movies / TV* 
 * [pishgammovie](https://pishgammovie.ir/) - *Movies / TV* 
 * [My-Film](https://my-film.pw/) - *Movies / TV / Anime* 
-* [Saber-Fun](https://saber-fun.ir/) - *Movies / TV / Anime* 
 * [MahanMovie](https://mahanmovie.com/) - *Movies / TV* 
 * [LineMovie](http://linemovie.ml/) - *Movies / TV* 
 * [S1Movie](https://s1movie.fun/) - *Movies / TV* 
@@ -705,7 +700,6 @@
 * [filmgozar](https://filmgozar.com/category/anime/) - *Anime*
 * [raygans](https://raygans.top/) - *Movies* 
 * [filmha](https://filmha.top/) - *Movies* 
-* [HamtaMovie](https://hamtamovie.run/) - *Movies / TV / Anime* 
 * [film2media](https://www.film2media.website/) - *Movies*  
 * [pop-music](https://pop-music.ir/) - *MP3*
 * [Just Music](https://just-music.ir/) - *MP3*
@@ -767,7 +761,6 @@
 * [cda-hd](https://cda-hd.cc/) - *Movies / TV* 
 * [filman.cc](https://filman.cc/) - *Movies / TV* 
 * [Anime Odcinki](https://anime-odcinki.pl/) - *Anime* 
-* [animedesu](https://animedesu.pl/) -  *Anime / Use Mega or GD in player* 
 
 ## ▷ Reading
 
@@ -794,7 +787,6 @@
 
 ## ▷ Torrenting
 
-* [Comando Torrents](https://comandotorrents.org/) - *Movies / TV* 
 * [Onde Baixa](https://ondebaixa.com/) - *Movies / TV / Anime* 
 * [SeriesFIlmesTorrent](https://seriesfilmestorrent.net/) - *Movies / TV / Anime* 
 
@@ -1151,10 +1143,6 @@
 * [taomaytinh](https://taomaytinh.com/) - *Software*
 * [freehd](https://freehd.me/) - *Movies / TV / Anime*
 * [chiasenhac](https://chiasenhac.vn/) - *Music*
-
-## ▷ Streaming
-
-* [Động Phim](https://dongphym.net/) - *Movies / TV* 
 
 ## ▷ Reading
 
