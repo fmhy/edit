@@ -200,7 +200,6 @@
 * [Read.gov](http://www.read.gov/books/) 
 * [Classic Literature](https://classic-literature.co.uk/) 
 * [Classics.mit](http://classics.mit.edu/index.html)
-* [uBooks](https://www.ubooks.pub/)
 * [sherlock-holm.es](https://sherlock-holm.es/) - *Complete Sherlock Holmes Canon*
 
 ***
@@ -396,7 +395,7 @@
 * [Library of Liberty](https://oll.libertyfund.org/) - *Liberty / Free Market*
 * [Legal Mises Institute](https://mises.org/) - *Books / Audio books / Libertarianism* 
 * [do_k_ument](https://mega.nz/folder/QEV0jKYZ#-BVVScey6draL30yB_KowA) - *Survival, Forging, Smithing, Weapons Training, Field Manuals*
-* [Survivor Library](http://www.survivorlibrary.com/), [Free Survival eBooks](https://www.defiel.com/free-survival-ebooks/), [GoodDebate](https://gooddebate.org/sin/mirror/library/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - *Survival*
+* [Survivor Library](http://www.survivorlibrary.com/), [Free Survival eBooks](https://www.defiel.com/free-survival-ebooks/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - *Survival*
 * [NATSIG Resources](https://mega.nz/#F!ZuZmiBqZ!XhyEetUaj6an8ntb-U1AZw) - *Survival / Bushcraft / Welding / Blacksmithing / German Books / Mythology / Drive* 
 * [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) - *Self Help / Telegram*
 * [selfhelpbooklab](https://t.me/selfhelpbooklab) - *Self-Help*
@@ -485,10 +484,8 @@
 * [RealNotComplex](https://realnotcomplex.com/) - *Math / Books*
 * [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial) - *Reverse Engineering Course* 
 * [HowtoForge](https://www.howtoforge.com/) - *Linux / Tutorials*
-* [EngBookPDF](https://www.engbookspdf.com/) - *Engineering*
 * [EasyEngineering](https://easyengineering.net/) - *Engineering*
 * [EngineeringBooksPDF](https://www.engineeringbookspdf.com/) - *Engineering*
-* [NPTEL_DISK1](http://103.254.244.3/NPTEL_DISK1/EBOOKS/) - *Engineering*
 * [EngineeringEBooks_civil](https://t.me/EngineeringEBooks_civil) - *Civil Engineering*
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - *Electronics* 
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - *Electronics Schematics & Simulations*
@@ -498,7 +495,6 @@
 * [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - *Philosophy* 
 * [APAOnline](https://www.apaonline.org/) - *Philosophy* 
 * [Philosophy Drive](https://mega.nz/folder/MQBRHBJA#L_on3h-XUrtbc719UaMygw) - *Philosophy* 
-* [The Idealist's Library](https://drive.google.com/drive/folders/1N0mJiECRb8c8EDasaejqVem5nJH_qzoB) - *Philosophy / Idealism*
 * [Access Medicine](https://accessmedicine.mhmedical.com/books.aspx?view=library) - *Medical*
 * [Am Medicine](https://am-medicine.com/) - *Medical*
 * [PickPDF](https://pickpdfs.com/) - *Medical* 
@@ -594,7 +590,7 @@
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - *How to bypass article paywalls*
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) - *Bypass Scientific Document Paywalls* 
 * [unpaywall](https://unpaywall.org/) - *Bypass Scholarly Article Paywalls*
-* [Medium Unlimited](https://github.com/manojVivek/medium-unlimited) or [Hackd](https://chrome.google.com/webstore/detail/medium-hackd/fjjfjlecfadomdpeohehfhnbekekdild) - *Unlimited Articles on Medium* 
+* [Medium Unlimited](https://github.com/manojVivek/medium-unlimited) - *Unlimited Articles on Medium* 
 * [Wikisource](https://en.wikisource.org) - *Poetry / Text / Documents*
 * [Alex Catalogue](http://www.infomotions.com/alex/) - *English / Philosophy Documents*  
 * [FindPDFDoc](http://www.findpdfdoc.com/) - *PDF Search / Document Search* 
@@ -762,7 +758,6 @@
 * [MComix](https://sourceforge.net/p/mcomix/wiki/Home/) - *Reader*
 * [gazee](https://hub.docker.com/r/linuxserver/gazee/) or [Komikku](https://gitlab.com/valos/Komikku) - *Reader / Manager  / Linux*
 * [Tachiyomi](https://tachiyomi.org/), [TheComicsLibrary](https://github.com/FabioPezzini/TheComicsLibrary) or [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - *Manager / Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / Android* 
-* [MediaBoxHD](https://mediaboxhd.net/comic) - *Manager / Reader / Android / iOS*
 * [ComicFlow](https://github.com/swisspol/ComicFlow) - *Manager / Reader / iOS*
 * [CrossFace](https://crossface.cf/manga-reader/) or [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Browser Comic Reader*
 * [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - *Online Reader*
