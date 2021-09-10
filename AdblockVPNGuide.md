@@ -171,7 +171,6 @@
 * [Random User Generator](https://randomuser.me/) - *Generator Fake User Details* 
 * [Tails](https://tails.boum.org/) or [Qubes](https://www.qubes-os.org/) - *Privacy-Based Operating Systems*
 * [Mofolinux](https://mofolinux.com/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - *Privacy-Based Operating System / Linux*
-* [Leecher](https://leecher.me/) - *Anonymous Link / Download Generator* 
 * [Track This]( https://trackthis.link/) - *Confuse Personal Advertising by opening 100 tabs* 
 * [VeraCrypt](https://www.veracrypt.fr/en/Home.html) or [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup) - *Disk Encryption Software*
 * [FileVault](https://support.apple.com/en-us/HT204837) - *Mac Disk Encryption* 
