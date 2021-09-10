@@ -104,7 +104,6 @@
 * [Download.ir](https://download.ir/) - *Software / Video / Android / Games / Roms*  
 * [yasdl](https://www.yasdl.com/) - *Software / Games / Audio / Video*
 * [TFPDL](https://www.tfp.is/) - *Video / Software / Games / Magazines / NSFW* 
-* [Rarlinks](http://rarlinks.com/) - *Video / Audio / Software / Games / Books / Magazines / Leech required*
 * [TorrentaBC](https://www.torrentabc.com/) or [AZTutorial](https://www.aztutorial.download/) - *Video / Audio / Software / Games / Magazines / Leech Required* 
 * [BadshahUploads](https://badshahuploads.xyz/) - *Video / Audio / Software / Games / Books / Leech Required* 
 * [DownFree4u](https://www.downfree4u.com/), [rapiddowntorrent](https://www.rapiddowntorrent.com/), [ZipFileTorrent](https://www.zipfiletorrent.com/) or [viewdowntorrent](https://www.viewdowntorrent.com/) - *Video / Audio / Software / Games / Books / Leech Required* 
@@ -197,7 +196,7 @@
 * [ALTERNATIVES](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md) - *Lightweight Software Index*
 * [Rarewares](https://www.rarewares.org/) - *Rare Software*
 * [winget.run](https://winget.run/) - *Winget Packages*
-* [RADIXX11](https://radixx11rce2.blogspot.com/), [Izofile](https://izofile.com/), [Soft2Ev](https://www.soft2ev.com/), [Keygen Fortress](https://t.me/keygen_fortress), [SmartSerials](https://smartserials.com/), [SerialReactor](https://serialreactor.com/) or [Serials](https://www.serials.ws/) - *Software Keys / Patches*
+* [Izofile](https://izofile.com/), [Soft2Ev](https://www.soft2ev.com/), [Keygen Fortress](https://t.me/keygen_fortress), [SmartSerials](https://smartserials.com/), [SerialReactor](https://serialreactor.com/) or [Serials](https://www.serials.ws/) - *Software Keys / Patches*
 * [Software Heritage](https://www.softwareheritage.org/) - *Software Source Code Archive* 
 * [balenaHub](https://hub.balena.io/) - *Raspberry Pi Software* 
 * [GenP](https://www.reddit.com/r/GenP) - *Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)*
