@@ -26,7 +26,7 @@
 * [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - *Block Spam Calls*
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - *Opt Out of Telemarketing Calls* 
 * [Slide](https://github.com/ccrama/Slide), [2](https://f-droid.org/en/packages/me.ccrama.redditslide/) or [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - *Ad Free Reddit Client*
-* [TwitchMod](https://t.me/pubTw), [Twire](https://f-droid.org/packages/com.perflyst.twire/) or [multiChat](https://play.google.com/store/apps/details?id=org.mchatty) - *Ad Free Twitch App*
+* [TwitchMod](https://t.me/pubTw) or [Twire](https://f-droid.org/packages/com.perflyst.twire/) - *Ad Free Twitch App*
 
 ***
 
@@ -413,6 +413,7 @@ App Manager
 * [ZiniTevi](https://zinitevi.github.io/movieapps/) - *Movies*
 * [Bouncy](https://github.com/WeeklyProblem/Bouncy) - *Movies / TV / Anime / Chromecast*
 * [MediaBox HD](https://mediaboxhd.net/) - *Movies / TV / Chromecast*
+* [PikaShow](https://pikashow.app/app) - *Movies / TV*
 * [Movie HD](https://moviehdapkdownload.com/moviehd-apk/) - *Movies / TV / Chromecast*
 * [Upflix](https://upflix.pro/) - *Movies / TV*
 * [Titanium TV](https://aapks.com/apk/titanium-tv-com-wise-tech-titanium/) - *Movies / TV / Anime / Chromecast*
@@ -757,9 +758,7 @@ RSS Player*
 
 # ► iOS Manga
 
-* [Manga Storm](https://apps.apple.com/us/app/manga-storm/id417341160) 
 * [Manga Reader](https://apps.apple.com/us/app/manga-reader-manga-viewer/id647701066) 
-* [Manga Bird](https://apps.apple.com/us/app/manga-bird-best-manga-reader/id834760417)
 * [MangaZone](https://apps.apple.com/app/id1181309509)
 * [ZETSU](https://testflight.apple.com/join/emEhlNGn)
 * [Paperback](https://paperback.moe/) - *[Discord](https://discord.gg/Ny83JV3)*
