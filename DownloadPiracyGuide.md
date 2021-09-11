@@ -48,6 +48,7 @@
 * **[Bitdownload](http://bitdownload.ir/)** - *Video / Audio / Software / Games / Android / Courses / [Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bitdownload_drives) / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * **[The-Eye](https://the-eye.eu/)** - *Audio / Roms / Books / Comics / Magazines / Software / [Search](https://eyedex.org/) / [Discord](https://discord.com/invite/6hr2Xsm)*
 * [DDLValley](https://www.ddlvalley.me/) - *Video / Audio / Games / Roms / Software / Android / Books / Comics / Magazines*
+* [Archive.org](https://archive.org/) - *Video / Audio / Magazines / Newspapers / Roms / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader)*
 * [WarezForums](https://warezforums.com/) - *Video / Audio / Games / Roms / Software / Books / Comics / Android / [Account Application](https://t.me/joinchat/AAAAAFRH5fns4IiE-T2TcA)*
 * [Releaselog](http://www.rlslog.net/) - *Video / Games / Roms / Software / Books / Comics / Magazines / Android*
 * [FilmSofts](https://www.filmsofts.com/) - *Video / Audio / Games / Roms / Software / Books / Comics / NSFW*
@@ -100,7 +101,6 @@
 * [2013Zone](http://www.2013zone.com/) - *Video / Audio / Games / Software*
 * [TwistyDownload](http://www.twistysdownload.com) - *Video / Audio / Games / Software*
 * [ddlspot](https://www.ddlspot.com/) - *Video / Audio / Games / Software*
-* [Archive](https://archive.org/) - *Video / Audio / Magazines / Newspapers / Roms*
 * [Download.ir](https://download.ir/) - *Software / Video / Android / Games / Roms*  
 * [yasdl](https://www.yasdl.com/) - *Software / Games / Audio / Video*
 * [TFPDL](https://www.tfp.is/) - *Video / Software / Games / Magazines / NSFW* 
@@ -354,7 +354,6 @@
 * [usenetmax](https://www.usenetmax.com/)
 * [xsusenet](https://xsusenet.com/)
 * [usenet.farm](https://usenet.farm/#trial)
-* [usenetbucket](https://usenetbucket.com/)
 * [Free Trials](https://www.ngprovider.com/free-usenet-trials.php)
 
 ## ▷ Downloaders
