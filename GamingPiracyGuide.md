@@ -71,7 +71,6 @@
 * [de.linuxgame.cn](https://de.linuxgame.cn/) - *Linux Games* 
 * [The KDE Games Center](https://games.kde.org/) - *Linux Games*
 * [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - *Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
-* [linux-repack-installer](https://github.com/reggiiie/linux-repack-installer) - *Linux Game Installer*
 * [Leggendaria](https://chuchy.neocities.org/leggendaria.altervista.org/archive.htm) - *Bemani & Touhou Games*
 * [CsWaRzOnE](https://www.cswarzone.com/) - *Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)*
 * [JustEmuTarkov](https://justemutarkov.eu/) - *Escape from Tarkov Emulator*
