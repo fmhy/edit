@@ -17,8 +17,6 @@
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - *Open Source Tools* 
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - *Mac Dashboard Widget WebUI*
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - *AI Experiments / Tools* 
-* [Yandex Disk](https://disk.yandex.com/) - *Cloud Storage / File Sharing / Office Tools* 
-* [downloader](https://downloader.la/) - *Tools / Downloaders*
 * [Generative Tools](https://docs.google.com/document/d/1N57oAF7j9SuHcy5zg2VZWhttLwR_uEldeMr-VKzlVIQ/) - *Generative Tool Index*
 * [Barcode Reader](https://online-barcode-reader.inliteresearch.com/) - *Online Barcode Reader*
 * [Internet Live Stats ](https://www.internetlivestats.com/) - *Live Internet Statistics*
@@ -42,6 +40,7 @@
 * [GasPrices](https://gasprices.aaa.com/) - *Gas Price Calculator*
 * [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - *Bedtime Calculator* 
 * [eXHALeR](https://www.xhalr.com/) - *Yoga / Meditation Breathing Tool* 
+* [The Sustainabilitist](https://sustainabilitist.com/) - *Sustainability Resource Hub*
 * [ActivityWatch](https://activitywatch.net/) - *Automatically Track Device Activity / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)* 
 * [Cold Turkey](https://getcoldturkey.com/) or [Take a Five](http://www.takeafive.com/) - *Site Blocker / Productivity Booster* 
 * [Tempus](https://tempus.keziahmoselle.fr/) or [Super-Productivity](https://github.com/johannesjo/super-productivity)  - *Productivity Tracker* 
@@ -164,7 +163,7 @@
 * **[Video Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_editors)** - *Video Editing Software & Sites*
 * **[Video Hosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_hosting_sites)** - *Upload / Stream Videos* 
 * **[VideoHelp](https://www.videohelp.com/software)** - *Video Software Archive* 
-* **[HandBrake](https://handbrake.fr/)**, [XMedia Recode](https://www.xmedia-recode.de/en/), [staxrip](https://github.com/staxrip/staxrip/), [AVC](https://www.any-video-converter.com/), [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes) or [Evano](https://evano.com/online-video-converter) - *Video File Converters / Encoders*
+* **[HandBrake](https://handbrake.fr/)**, [XMedia Recode](https://www.xmedia-recode.de/en/), [staxrip](https://github.com/staxrip/staxrip/), [FastFlix](https://fastflix.org/), [AVC](https://www.any-video-converter.com/), [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes) or [Evano](https://evano.com/online-video-converter) - *Video File Converters / Encoders*
 * **[Video Encoding Guides](https://sometimes-archives-things.github.io/archived-things/)** - *Learn how to Encode Videos*
 * **[Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders)** - *Record your Screen*
 * **[Multi-Site Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)**
@@ -216,7 +215,7 @@
 * [h265ize](https://github.com/FallingSnow/h265ize) - *HEVC encoder* 
 * [Unscreen](https://www.unscreen.com/) - *Remove Video Background* 
 * [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - *Steam Movie-Making Tool*
-* [ShareAE](https://www.shareae.com/), [FreeAE](https://freedownloadae.com/), [HunterAE](https://hunterae.com/), [AERiver](https://aeriver.com/) or [DownAE](https://downae.com/) - *After Effects Templates*
+* [ShareAE](https://www.shareae.com/), [HunterAE](https://hunterae.com/), [AERiver](https://aeriver.com/) or [DownAE](https://downae.com/) - *After Effects Templates*
 * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5) 
 * [zeroTube](http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb) - *Decentralized Video Platform on ZeroNet using WebTorrent + [GitHub](https://github.com/rllola/zeroTube/)*
 * [HoraHora](https://github.com/horahoradev/horahora) - *Self-Hosted Video Host*
@@ -225,6 +224,7 @@
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - *Nico Nico Video Player*
 * [polsy.org.uk](http://polsy.org.uk/) - *Alt Players for Video Sites*  
 * [Mixkit](https://mixkit.co/), [Coverr](http://coverr.co/) or [Mazwai](https://mazwai.com/) - *Stock Videos / Templates* 
+* [video2x](https://github.com/k4yt3x/video2x) - *Video Upscaler*
 * [Anime4K](https://github.com/bloc97/Anime4K) - *Anime Video Upscaler* 
 * [Video Vault](https://www.bravenewtech.org/) - *Video Preservation Tool* 
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - *Duplicate Video Finder*
@@ -286,7 +286,7 @@
 * [yt2pod](https://github.com/frou/yt2pod) - *Create Podcasts from YouTube Channels* 
 * [Deemixrr](https://github.com/TheUltimateC0der/Deemixrr) - *Automated Music Manager* 
 * [FFmpeg](https://ffmpeg.org/) - *Record, convert and stream audio & video / [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom)*
-* [Audio Converter Online](https://online-audio-converter.com/), [FreeAC](https://www.freac.org/downloads-mainmenu-33), [LameXP](https://sourceforge.net/projects/lamexp/), [SoX](http://sox.sourceforge.net/) or [FreeAC](https://www.freac.org/) - *Audio Converter* 
+* [Audio Converter Online](https://online-audio-converter.com/), [FlicFlac](https://github.com/DannyBen/FlicFlac), [FreeAC](https://www.freac.org/downloads-mainmenu-33), [LameXP](https://sourceforge.net/projects/lamexp/), [SoX](http://sox.sourceforge.net/) or [FreeAC](https://www.freac.org/) - *Audio Converter* 
 * [Faasoft FLAC Converter](https://www.faasoft.com/articles/flac-converter-mac-and-windows.html) - *FLAC Converter* 
 * [FLAC Frontend](http://flacfrontend.sourceforge.net/) - *FLAC Tools* 
 * [FLAC2iTunes](https://github.com/pathartl/FLAC2iTunes/releases/tag/1.0.0) - *Convert FLAC to ALAC* 
@@ -376,9 +376,10 @@
 * **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - *Create Temporary Email Addresses*
 * **[Edu Email](https://i.imgur.com/pxBcRcZ.png)** - *How To Get Free EDU Email*
 * **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)** - *Host Sites for Free*
+* [Yandex Disk](https://disk.yandex.com/) or [OpenDesktop](https://www.opendesktop.org/) - *Multiple Cloud Services* 
+* [downloader](https://downloader.la/) - *Multi Site Downloaders*
 * [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - *Test Internet Speed*
 * [OONI](https://ooni.org/) - *Test Site Blocking / Network Speed*
-* [ISP Logger](https://isplogger.com/) - *Internet Performance Monitor* 
 * [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) - *OpenSSH Client / Server*
 * [NetLimiter](https://www.netlimiter.com/) - *Internet Traffic Control / Monitor* 
 * [Natlas](https://github.com/natlas/natlas) - *Scaling Network Scanning* 
@@ -434,6 +435,7 @@
 * [Matrix Public Homeservers](https://publiclist.anchel.nl/) - *Free Matrix Home Servers* 
 * [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) - *Matrix Server List*
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
+* [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - *Export Skype Chat Data to Readable Text*
 * [Jitsi](https://desktop.jitsi.org/index.html), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone) or [Briefing](https://brie.fi/ng) - *Video Chat* 
 * [Jam](https://jam.systems/), [GROK](https://grokat.com/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
 * [IMumble](https://www.imumble.nl/) - *Voice Chat Server*
@@ -503,7 +505,7 @@
 
 ## ▷ Browsers
 
-* **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Browsers with a focus on Privacy* 
+* **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Privacy Focused Browsers* 
 * **[Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers) - *Normal Web Browsers*
 * **[Browser Extensions / UserScripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_extensions)** 
 * [browserbench](https://browserbench.org/) - *Multiple Browser Benchmark Tests*
@@ -982,7 +984,7 @@ General Reading Sites*
 
 # ► System Tools
 
-* **[Windows Piracy Guide](https://rentry.co/fwt)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/pirate-windows), [3](https://rentry.co/windows_for_retards)
+* **[Windows Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/pirate-windows)**, [2](https://rentry.co/fwt), [3](https://rentry.co/windows_for_retards)
 * **[Windows ISO's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - *Download Windows*
 * **[Windows 10 Activation Guide](https://rentry.co/ActivateWin10)**, [2](https://redd.it/er3fon), [3](https://msguides.com/), [4](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation) - *Active Win 10 / [Discord](https://discord.gg/nWWfBMtBSk)*
 * **[Windows Activation Scripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation_scripts)** - *Windows / Office Activation*
@@ -1125,7 +1127,7 @@ General Reading Sites*
 * [CrossOver](https://www.codeweavers.com/crossover) - *Run Windows Programs on Mac / Linux / Infinite Free Trials*
 * [Hosts File Editor](https://hostsfileeditor.com/) - *Windows Hosts File Editor*
 * [StreamPi](https://stream-pi.com/) - *ElGato Streamdeck Alternative*
-* [EarTrumpet](https://eartrumpet.app/) - *Improved Volume Mixer* 
+* [EarTrumpet](https://eartrumpet.app/) - *Improved Volume Mixer*  
 * [WinMute](https://github.com/lx-s/WinMute/) - *Automatically Mute PC*
 * [How-To Crack Windows Passwords](https://samsclass.info/123/proj14/123p12winhash.htm) 
 * [Depix](https://github.com/beurtschipper/Depix) - *Recover Passwords from Pixelized Screenshots* 
@@ -1283,6 +1285,7 @@ General Reading Sites*
 * [Save to Drive](https://savetogoogledrive.herokuapp.com/) - *Save Files to GDrive without account*   
 * [GdriveXbot](https://t.me/GdriveXbot), [HK_upload_bot](https://t.me/HK_driveupload_bot), [gdrive_upload_bot](https://t.me/gdrive_upload_bot), [driveuploadbot](https://t.me/driveuploadbot) or [gdriveupme_bot](https://t.me/gdriveupme_bot) - *Google Drive Telegram upload bots* 
 * [gDrive-DirectLink](https://github.com/jagrit007/gDrive-DirectLink) - *GDrive File Direct Link Generator*
+* [Google Drivac](https://github.com/Data-Horde/gdrivac) - *Associate Gdrive Account with URL List*
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - *Mount GDrive on Linux*
 * [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [UptoTGbot](https://t.me/UptoTGbot), [Files Web Server](https://t.me/webdownload_bot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot) or [UploadDxbot](https://t.me/UploadDxbot) - *Upload Files to Telegram*  
 * [UploadBots](https://t.me/UploadBots) - *List of Telegram Upload Bots*
@@ -1419,6 +1422,7 @@ General Reading Sites*
 # ► Gaming Tools
 
 * **[GoG Galaxy](https://www.gog.com/galaxy)**, [Launchbox](https://www.launchbox-app.com/), [GameHub](https://tkashkin.tk/projects/gamehub/) / [GitHub](https://github.com/tkashkin/GameHub), [Playnite](https://playnite.link/) or [chad_launcher](https://gitlab.com/Gnurur/chad_launcher) - *Game Library / Launcher*
+* **[PCGamingWiki](https://www.pcgamingwiki.com/)** or [AppleGamingWiki](https://applegamingwiki.com/) - *Game Info, Bug Fixes & Improvements*
 * **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)** - *Game Requirements Test* 
 * [/r/CrackWatch](https://reddit.com/r/CrackWatch), [SteamCrackStatus](https://steamcrackedgames.com/) / [Discord](https://discord.com/invite/hrCtqcyHKw) / [/r/SteamCrackedGames](https://reddit.com/r/SteamCrackedGames) or [CrackSnoop](https://github.com/CrackSnoop/cracksnoop) - *Scene Release Trackers / [Discord](https://discord.gg/d9StxkknwX)*
 * [Before I Play](http://www.beforeiplay.com/) - *Tips for any Game* 
@@ -1458,7 +1462,7 @@ General Reading Sites*
 * [Lowkey](https://lowkey.gg/) - *Record / Screenshot Gameplay* 
 * [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
 * [Project Era](https://erafn.glitch.me/#downloads) - *Play Old Fortnite Seasons*
-* [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040), [RoGold](https://discord.gg/XMHn9zV3UA) or [RoPro](https://ropro.io/) - *Enhance Roblox Website*
+* [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040) or [RoGold](https://discord.gg/XMHn9zV3UA)- *Enhance Roblox Website*
 * [RobloxThemes](https://github.com/christiankek/RobloxThemes) - *Themes for Roblox*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
 * [tModLoader](https://www.tmodloader.net/) - *Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)*
@@ -1469,7 +1473,8 @@ General Reading Sites*
 * [Low Specs Experience](https://ragnotechpowered.com/) - *Game Optimization Program* 
 * [Magpie](https://github.com/Blinue/Magpie) - *Enable AMD FSR on Any Game / [Tutorial](https://youtu.be/gac7llDa18k)*
 * [protondb](https://www.protondb.com/) or [Lutris](https://lutris.net/) - *Play Windows games on Linux*
-* [Moonlight Stream ](https://moonlight-stream.org/) or [Rainway](https://rainway.com/gaming) - *PC Remote Play Client / [GitHub](https://github.com/moonlight-stream)*
+* [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - *Linux Game Package Downloader*
+* [Moonlight Stream](https://moonlight-stream.org/) or [Rainway](https://rainway.com/gaming) - *PC Remote Play Client / [GitHub](https://github.com/moonlight-stream)*
 * [Medal](https://medal.tv/) - *Nvidia Shadowplay for non Nicosia cards*
 * [dlss-swap](https://github.com/beeradmoore/dlss-swapper) - *Download, Manage & Swap DLSS *
 * [VibranceGUI](https://vibrancegui.com/) - *Automate Digitial Vibrance Control*
