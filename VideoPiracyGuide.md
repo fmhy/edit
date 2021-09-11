@@ -13,7 +13,7 @@
 
 ## ▷ Dedicated Hosts
 
-* **[MoviesforDiscord](https://discord.com/invite/XBGm36RWEs)** - *Movies / TV / [Website](https://movies4discord.xyz/)*
+* **[MoviesforDiscord](https://discord.movies4discord.xyz/)** - *Movies / TV / [Website](https://movies4discord.xyz/)*
 * **[LookMovie](https://lookmovie.io/)** - *Movies / TV*
 * **[Soap2Day](https://soapgate.org/)** - *Movies / TV*
 * **[WebOas.is](https://weboas.is/stream/)** - *Movies* 
@@ -438,7 +438,7 @@
 * **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "video"*
 * **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - *Download videos from streaming sites*
-* **[Rinzry](https://rinzry.stream/)** - *Movies / TV / Anime / [Request](https://discord.com/invite/XBGm36RWEs)*
+* **[Rinzry](https://rinzry.stream/)** - *Movies / TV / Anime / [Request](https://discord.movies4discord.xyz/)*
 * **[Pahe](http://pahe.ph/)** - *Movies / TV / Anime / [Discord](https://discord.gg/33P8hpR)*
 * **[Snahp](https://snahp.it/)** - *Movies / TV / Anime / [Decoder](https://github.com/blackcodesun/snahp-forum-helper) / [DL Script](https://github.com/Jwiggiff/snahp-downloader)*
 * **[MovieParadise](https://movieparadise.org/)** - *Movies / TV*
@@ -449,7 +449,7 @@
 * [RareLust](https://rarelust.com/) - *Rare Movies / NSFW* 
 * [My Duck Is Dead](http://www.myduckisdead.org/) - *Rare Movies / NSFW* 
 * [Reviviendo Viejas Joyas](https://reviviendoviejasjoyas.blogspot.com/) - *Rare Movies / Stop Pages from Loading to use w/o Account* 
-* [MoviesforDiscord](https://discord.com/invite/XBGm36RWEs) - *Movie Streaming / Download Bot / [Website](https://movies4discord.xyz/)*
+* [MoviesforDiscord](https://discord.movies4discord.xyz/) - *Movie Streaming / Download Bot / [Website](https://movies4discord.xyz/)*
 * [Medeberiyaa](https://medeberiyaa.com/) - *Movies / TV / Anime*
 * [PSARips](https://psarips.uk/) or [x265.club](https://x265.club/) - *Movies / TV* 
 * [Crazy4tv](https://crazy4tv.com/) - *Movies / TV*
@@ -744,7 +744,7 @@
 * **[Movie-Forum](https://movie-forum.co/forums/23-Requests)** - *Movies*
 * **[TopNow](https://discord.gg/marBA97)** - *Movies / TV / Anime*
 * **[WorldsCinema](http://worldscinema.org/movie-request/)** - *Movies* 
-* **[MoviesForDiscord](https://discord.com/invite/XBGm36RWEs)** - *Movies / TV / Anime*
+* **[MoviesForDiscord](https://discord.movies4discord.xyz/)** - *Movies / TV / Anime*
 * [RareFilmm](http://rarefilmm.com/requests/) - *Rare Movies* 
 * [MoviesForFree](https://movieforfree.co/requests/) - *Movies / TV*
 * [Sanet.st](https://sanet.st/community/t/requests) - *Movies / TV* 
