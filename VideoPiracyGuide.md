@@ -787,7 +787,7 @@
 
 # ► Subtitles
 
-* **[Open Subtitles](https://www.opensubtitles.com/)** - *Subtitles* 
+* **[Open Subtitles](https://opensubtitles.org/)** - *Subtitles*
 * **[Subtitle Edit](https://www.nikse.dk/SubtitleEdit/Online)**, [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://github.com/Aegisub/Aegisub) or [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - *Subtitle Editor*
 * **[External Subtitles Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_external_subs_player)** - *Player Subs Externally* 
 * [elSubtitle](http://www.elsubtitle.com/) - *Subtitles & Tools* 
@@ -798,6 +798,7 @@
 * [Subtitles.hr](https://www.subtitles.hr/) - *Subtitles* 
 * [Podnapisi](https://www.podnapisi.net/) - *Subtitles* 
 * [Subsplease](https://subsplease.org/) - *Subtitles* 
+* [opensubtitles.com](https://www.opensubtitles.com/) - *Subtitles* 
 * [iSubtitles](https://isubtitles.org/) - *Subtitles* 
 * [Subs4Free](https://www.subs4free.info/) - *Subtitles* 
 * [English-Subtitles](https://english-subtitles.org/) - *Subtitles* 
