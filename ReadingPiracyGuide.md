@@ -13,7 +13,7 @@
 
 * **[Audiobook Sites Search](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)**
 * **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
-* **[Audiobook Bay](http://audiobookbay.ws/)**, [2](http://audiobookbay.nl/), [3](http://www.audiobookbayabb.com/), [4](http://www.theaudiobookbay.com/) - *Torrents / [Extension](https://addons.mozilla.org/en-US/firefox/addon/audiobookbay-magnet-assistant/)*
+* **[Audiobook Bay](http://audiobookbay.ws/)**, [2](http://audiobookbay.nl/), [3](http://www.audiobookbayabb.com/) - *Torrents / [Extension](https://addons.mozilla.org/en-US/firefox/addon/audiobookbay-magnet-assistant/)*
 * **[Tokybook](https://tokybook.com/)** - *Listen Online*
 * **[Top 1,000 Audiobooks](https://mega.nz/folder/yvoQTKCL#cHzM6YY3JU3b65OzxecnmA)** - *Audiobooks / Drive*
 * [Audiobook Drive](https://drive.google.com/drive/folders/1IsJTH4ElUg4fjngDNUlM1KPFmpfD_tl9) - *Audiobooks / Drive* 
@@ -35,7 +35,6 @@
 * [celz](https://celz.ru/)
 * [Librivox](https://librivox.org/)  
 * [AudioBB](https://audiobb.com/)
-* [xAudiobooks](https://audiobooks.cloud/)
 * [AppAudiobooks](https://appaudiobooks.com/)
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - *Poetry*
 * [Audiobooks Unleashed](https://audiobooksunleashed.com/) - *Audiobook codes*
@@ -61,7 +60,7 @@
 * **[The-Eye Books](https://the-eye.eu/public/Books/)** - *Books*
 * **[Telegram E-Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - *Telegram E-Book Channels*
 * **[Mobile Read](https://www.mobileread.com/)** - *E-Book / Reader Discussion Forum*
-* [Bookfi](http://en.bookfi.net/), [BookSee](https://en.booksee.org/) or [BookRe](http://bookre.org/)  - *Books*
+* [BookSee](https://en.booksee.org/) - *Books*
 * [IRC E-Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - *Download EBooks from IRC / [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) / [Downloader](https://github.com/aghayes/rusty_book_pirate/)*
 * [Project Gutenberg](https://www.gutenberg.org/) - *Historical / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)*
 * [Archive.org](https://archive.org/details/texts) - *Books / Audiobooks / Magazines / Newspapers / [Borrow Only Bypass](https://i.imgur.com/y7Vl9rd.png)*
@@ -78,7 +77,6 @@
 * [standardebooks](https://standardebooks.org) - *Books* 
 * [Manybooks](https://manybooks.net/)  - *Books*
 * [BooksVooks](https://booksvooks.com/) - *Books*
-* [Books-Share](https://www.books-share.com/) - *Books / Comics*
 * [dpgroup](https://www.dpgroup.org/) - *Books / Magazines*
 * [16Chan Library](https://16chan.xyz/library/) - *Books*
 * [eBookBB](https://ebookbb.com/)  - *Books*
@@ -210,6 +208,7 @@
 * [MagicKeys](http://www.magickeys.com/books/) 
 * [byGosh](https://bygosh.com) 
 * [Baldwin Library](https://ufdc.ufl.edu/juv) - *Historical Children’s Literature*
+* [Borrowing Picture Books](https://redd.it/fm1xpw) - *Save Borrowed Picture Books from Archive.org*
 
 ***
 
@@ -223,7 +222,7 @@
 * [YudhaCookbook](https://www.yudhacookbook.my.id/) - *Cookbooks*
 * [DMC Cookbooks](https://archive.lib.msu.edu/DMC/cookbooks/) - *Cookbooks*
 * [Cook Bookshelf](https://t.me/cook_bookshelf) - *Cookbooks / Telegram*
-* [Cookbook](https://archive.org/details/southerncookbook00lustrich/page/34/mode/2up) - *Cookbook Southern*
+* [Southern Cookbook](https://archive.org/details/southerncookbook00lustrich/) - *Cookbook Southern*
 * [Search-22](https://search-22.com/recipe-search-tools) - *Multi-Site Recipe Search*
 * [SuperCook](https://www.supercook.com/) - *Recipe Search* 
 * [MyFridgeFood](https://www.myfridgefood.com/) - *Recipe Search* 
@@ -409,6 +408,7 @@
 * [files.afu.se](https://files.afu.se/Downloads/) - *UFO Books, Documents, Magazines ect.*
 * [The Trove](https://thetrove.is/) - *Books / Fantasy / TTRPG / [Wayback Machine](https://web.archive.org/web/20210614215400/https://thetrove.is/), [2](https://web.archive.org/web/20210430220147/https://thetrove.is/) / [Unofficial Discord](https://discord.gg/GwTuGr7N8p)*
 * [Choisey](http://choisey.free.fr/) or [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - *TTRPG Rulebooks*
+* [Cinema EBooks Collection](https://mega.nz/folder/Fc5HjABT#kDNrkB97DPt9L_dysk4jCw) - *Cinema Books*
 * [SimplyScripts](https://www.simplyscripts.com/) - *Movie / TV Scripts* 
 * [Kialo]( https://www.kialo.com/) - *Popular Debates / Discussion* 
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
@@ -487,6 +487,7 @@
 * [EasyEngineering](https://easyengineering.net/) - *Engineering*
 * [EngineeringBooksPDF](https://www.engineeringbookspdf.com/) - *Engineering*
 * [EngineeringEBooks_civil](https://t.me/EngineeringEBooks_civil) - *Civil Engineering*
+* [paulierco](https://index.paulierco.ro/docs/) - *Linux, Networking & VMware*
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - *Electronics* 
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - *Electronics Schematics & Simulations*
 * [159.69.3.96](http://159.69.3.96/ebooks/) - *IT Books*
@@ -585,7 +586,7 @@
 ## ▷ Documents / Articles
 
 * **[TheFreeLibrary](https://www.thefreelibrary.com/)** - *Articles*
-* **[Sci-Hub](https://sci-hub.do/)**, [2](https://sci-hub.se/) - *Science article viewer*
+* **[Sci-Hub](https://sci-hub.se/)** - *Science article viewer*
 * **Sci-Hub Tools** - *[Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down) / [Telegram Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [Download Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button) / [PDF Download](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub)*
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - *How to bypass article paywalls*
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) - *Bypass Scientific Document Paywalls* 
@@ -995,7 +996,6 @@
 * [pirates-forum](https://pirates-forum.org/Forum-Requests) - *Books*
 * [AllBooksWorld](https://allbooksworld.com/request-a-book/) - *Books*
 * [PDF Drive](https://www.pdfdrive.com/request-a-book) - *Books*
-* [Books-share](https://www.books-share.com/) - *Books*
 * [Sanet.st](https://sanet.st/community/t/requests) - *Books*
 * [TheMegaDrive](https://discord.gg/h2P5zsNMxZ) - *Books*
 * [ebookhunter](https://www.ebookhunter.net/request-ebooks/) - *Books* 
@@ -1061,11 +1061,10 @@
 
 * [Readarr](https://readarr.com/) - *Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)*
 * [BookCut](https://github.com/costis94/bookcut) - *eBook Download Tool* 
-* [Borrow Only DL Script](https://redd.it/ofcqds) - *Download Borrow Only Archive.org Books*
+* [Borrow Only DL Script](https://redd.it/ofcqds) or [Archive 1 Hour Download](https://docs.google.com/spreadsheets/u/0/d/1x9JHIVEa6_2cwpmxgUymF5OAoHZbXCO3Qh9gQVAHuR0/htmlview#gid=0) - *Download Borrow Only Archive.org Books*
 * [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - *Google Book Downloader w/ Proxy Support*
 * [bunken](https://github.com/laxyapahuja/bunken) - *Download eBooks directly from Goodreads*
 * [ExtractBookz](https://hub.darcs.net/JasonJAyalaP/ExtractBookz) - *Extract & Rename Ebook Files / [GitHub](https://github.com/JasonJAyalaP/ExtractBookz)*
-* [Read Shit Faster](http://readshitfaster.com/) - *Read Things Faster*
 * [Skimcast](http://www.skimcast.com/), [SummaryGenerator](https://summarygenerator.com/), [Text Rewriter](http://textrewriter.com/), [Resoomer](http://www.resoomer.com/), [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn) or [SMMRY](https://smmry.com/) - *Summary Generator* 
 * [FicSave](http://ficsave.xyz/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - *Fanfiction Download Tool* 
 * [SmartStich](https://github.com/MechTechnology/SmartStitch) - *Stitch Together Webtoons*
