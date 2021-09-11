@@ -26,7 +26,7 @@
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - *Open Source Software Indexes*
 * [Awesome Clones](https://github.com/Envoy-VC/awesome-clones) - *Open Source Clones of Popular Sites*
 * [/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful) - *Helpful / Fun Sites Subreddit / [Randomizer](https://therandombutton.com/)*
-* [Esoterica Avenue's Site List](https://rentry.org/EsotericaSiteList) - *Software & Games Megathread / [Discord](https://discord.gg/enMG8bXUbn)* 
+* [Esoterica Avenue](https://ori5000.github.io/) - *Software & Games Megathread / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)* 
 * [/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index) - */r/Piracy Index*
 * [/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread) - *Software Piracy Megathread*
 * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr) - *Piracy Index*
@@ -189,7 +189,7 @@
 # ► Fun Sites
 
 * **[Fun Stuff Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fun_indexes)** - *Toy, Game & Experiment Indexes*
-* **[Random Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_sites)** - *Sites that Take You to Random Sites*
+* **[Random Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_sites)** - *Random Site Generators*
 * **[Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - *Multireddits Curated by FMHY Members*
 * **[r.sine.com](https://r.sine.com/index)**, [Funnyjunk](https://funnyjunk.com//) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Memes & GIFs / Some NSFW*
 * **[Random Comic Generator 3.0](https://explosm.net/rcg)** - *Explosm Random Comic Generator*
@@ -278,6 +278,7 @@
 * [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - *How well do you recognize hit songs?*
 * [Themes.moe](https://themes.moe/) - *Anime Opening / Theme Search*
 * [GeekPrank](https://geekprank.com/) - *Windows Pranks*
+* [Hair on Screen](https://chrome.google.com/webstore/detail/hair-on-screen/egkikapjpndmjflbjjoondbihalgdjco) - *Fake Hair on Screen Prank*
 * [Speedtest Faker](https://jkctech.nl/projects/speedtest/) - *Fake Speedtest Results*
 * [Hacktyper](https://hackertyper.net/) or [Geektyper](https://geektyper.com/) - *Fake Hacking Screen* 
 * [Peter Answers](https://www.peteranswers.com/) - *Create Fake Questions & Answers / [Tutorial](https://peteranswers.info/peter-answers-hack)* 
@@ -355,7 +356,7 @@
 * [Cube Rule](https://cuberule.com/) - *The Cube Rule of Food* 
 * [EverySecond](https://everysecond.io/) - *Visualize Per Second Data*
 * [Death Date](http://deathdate.info/) - *Calculate your day of death* 
-* [Where's George?](https://www.wheresgeorge.com/) - *Currency Tracking Project* 
+* [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - *Dollar Tracking* 
 * [Fontbutts](https://fontbutts.netlify.app/) - *Create Butts with different fonts*
 * [User Inyerface](https://userinyerface.com/) - *The most annoying website*
 * [Storylocks](https://www.storylocks.com/) - *Write Stories with different authors/friends*
@@ -429,7 +430,6 @@
 * [Pornolize](https://pornolize.com/) - *Make Inappropriate Versions of Webpages* 
 * [Checkboxes](http://www.jezzamon.com/checkboxes/index.html) - *Check Boxes* 
 * The Nut Button - [Android](https://play.google.com/store/apps/details?id=com.james.nut) / [iOS](https://apps.apple.com/gb/app/the-official-nut-button-meme/id1462124556) - *You press the Button, it says Nut*
-* [Hair on Screen](https://chrome.google.com/webstore/detail/hair-on-screen/egkikapjpndmjflbjjoondbihalgdjco) - *Fake Hair on Screen Prank*
 * [Make-A-Wish Foundation](https://discord.gg/pZZ3STQZ9Y) - *100% Real Make-A-Wish*
 * [Is It A Cat?](https://isitacat.com/) - *Cat Image Detector* 
 * [The.Matrix-ASCII](http://takeovertheworld.org/matrix/) - *The Matrix Encoded in Text*
@@ -591,7 +591,6 @@
 * [d_fonts](https://t.me/d_fonts) 
 * [FreeFontss](https://t.me/freefontss) 
 * [BestFonts](https://bestfonts.pro/) 
-* [FontShop](https://github.com/dvingerh/fontshop-dl) 
 * [13000 Fonts](https://drive.google.com/file/d/0B7ONEAEXwPaqc2g4UEdzbmZETG8/edit?resourcekey=0-Yk36oMN7u93Pst1xn5_z8A) 
 * [10k Font Collection](https://drive.google.com/file/d/1YJiuTFPXGyz7WLw_lq08EXgdibZJu7E8/view)
 * [10000+ Fonts Collection ](https://drive.google.com/drive/u/0/mobile/folders/17HgeWGONAjR0U9knsv3qDS3734zOZr9z)
@@ -801,7 +800,6 @@
 * [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - *Add Extensions to Ungoogled Chromium* 
 * [Chrome Extension Downloader](https://chrome-extension-downloader.com/) - *Chrome Extension Download Tool*
 * [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - *Quickly Enable / Disable Chrome Extensions*
-* [CRXExtractor](https://crxextractor.com/) - *Get .CRX Chrome Extension Files* 
 * [CRX Viewer](https://github.com/Rob--W/crxviewer) or - *View Extension Source Code* 
 * [Dark Mode](https://chrome.google.com/webstore/detail/dark-mode/declgfomkjdohhjbcfemjklfebflhefl) - *Dark Mode*
 * [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - *Picture-in-Picture Mode*
