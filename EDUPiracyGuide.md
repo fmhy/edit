@@ -103,12 +103,12 @@
 * [Courses](https://pastebin.com/jQB1shJg), [2](https://pastebin.com/Z7L3Ypzd) - *Courses / Drives*
 * [online-courses](https://online-courses.club/) - *Courses*
 * [Course Upload](https://courseupload.com/) - *Courses* 
+* [Christmas Share](https://mega.nz/folder/dVxiXITI#lM16YzFg6xlnDOGYBOWUhA) - *Courses*
 * [FTUForums](https://www.ftuforums.com/) - *Courses / [Discord](https://discord.gg/xAsMX52)*
 * [Coursesghar](https://coursesghar.com/) - *Courses* 
 * [FreeEducationWeb](https://freeeducationweb.com/) - *Courses* 
 * [DLECourse](https://dlecourse.com/) - *Courses* 
 * [FreeCourseDL](https://freecoursedl.com/) - *Courses* 
-* [Dl Course](https://dlcourse.org/) - *Courses*
 * [torrenttempdrive](https://torrenttempdrive.hashhackers.com/1:/) - *Courses*
 * [FreeStudyWeb](https://freestudyweb.com/) - *Courses* 
 * [CryptoTips](https://www.cryptotips.us/) - *Courses* 
@@ -467,6 +467,7 @@
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
 * [NandGame](https://nandgame.com/) - *Computer Building Puzzle*
 * [Vocabulary.ugent](http://vocabulary.ugent.be/) - *Vocabulary Test* 
+* [RationalWiki](https://rationalwiki.org/) - *Pseudoscience Refutation Wiki*
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/) - *Learn about Logical Fallacies* 
 * [YourBiasIs](https://yourbias.is/) - *Learn about Biases* 
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - *Learn to Tie Knots* 
