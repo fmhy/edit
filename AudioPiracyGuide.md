@@ -14,11 +14,10 @@
 
 * **[Spotify Client](https://spotify.com/)**, [Spotify-TUI](https://github.com/Rigellute/spotify-tui) or [XpoMusic](https://xpomusic.com/) - *Streaming*
 * **[Spotify Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - *Spotify Tools, Adblockers, Customization & More*
+* [YouTube Music Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_music_players) - *Streaming*
 * [FunkWhale](https://funkwhale.audio/) - *Streaming*
 * [nuclear](https://github.com/nukeop/nuclear) - *Streaming*
 * [Muffon](https://github.com/staniel359/muffon) - *Streaming*
-* [YTMDesktop](https://github.com/JamesParkDev/ytmdesktop-adblock), [2](https://ytmdesktop.app/), [Youtube-Music](https://th-ch.github.io/youtube-music/), [2](https://github.com/th-ch/youtube-music) or [YMD](https://github.com/MaverickMartyn/youtube-music-desktop) - *YouTube Music Streaming* 
-* [mps-youtube](https://github.com/mps-youtube/mps-youtube) - *Stream / Download Youtube Music from Terminal*
 * [Deezer](https://www.deezer.com/) - *Streaming*
 * [MusicBucket](https://musicbucket.net/) - *Track / Share Music / Telegram* 
 * [Spot](https://github.com/xou816/spot) - *Spotify Desktop Client for Gnome* 
@@ -231,7 +230,6 @@
 * [Music for the masses !](https://redd.it/nt7fea) - *MP3 / Drives*
 * [geedryve](http://jacobsm.com/geedryve/records/mp3s/) - *MP3 / Drive* 
 * [Music Library](https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7) - *MP3 / Drive*
-* [NewAlbum.club](https://newalbum.club/) - *MP3 Search*
 * [FLAC Attack](https://flacattack.net/) - *FLAC*
 * [24Flac.net](https://24flac.net/) - *FLAC*
 * [Lossless-Music](https://lossless-music.org/) - *FLAC*
