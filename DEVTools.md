@@ -47,6 +47,7 @@
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/) - *HTML & CSS Tutorials*
 * [VIM Adventures](https://vim-adventures.com/) - *VIM Learning Game*
 * [Learn C](https://www.learn-c.org/) - *C Tutorial*
+* [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) - *C++ Algorithm Collection*
 * [Quick-R](https://www.statmethods.net/index.html) - *R Tutorials*
 * [Advanced R](https://adv-r.hadley.nz/) - *R Guide / [Solutions](https://advanced-r-solutions.rbind.io/)*
 * [R Packages](https://r-pkgs.org/) - *R Packages Guide*
@@ -127,7 +128,6 @@
 * [Javacord](https://javacord.org/) - *Discord Bot Creation Library*
 * [Hacking Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_hacking_tests_.2F_games) - *Hacking Tests & Games*
 * [XunLei](https://www.xunlei.com/) - *Shared Computing / Blockchain*
-* [CuratedSEOTools](https://github.com/sneg55/curatedseotools) - *SEO Tool Index*
 * [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - *Sites to Post Your Startup*
 
 ***
@@ -137,7 +137,7 @@
 * **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)** - *Host Sites for Free*
 * [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [psddd](https://psddd.co/) or [Freebiesbug](http://freebiesbug.com/)  - *Web Design Resources*
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
-* [SEO Tools](https://99webtools.com/) - *Site Development Tools*
+* [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [WebsiteScoop](https://websitescoop.com/), [SEO Tools](https://99webtools.com/) or [Webrate](https://webrate.org/) - *SEO Tools*
 * [Geekflare Tools](https://gf.dev/toolbox) - *Site Testing Tools*
 * [Alexa Site Info](https://www.alexa.com/siteinfo) - *Site Traffic Stats / Analysis*
 * [Resolve.rs Tools](https://resolve.rs/tools.html) - *Site Domain / IP Tools*
@@ -164,6 +164,7 @@
 * [hlsflow](https://github.com/hlsflow/hlsflow) - *Host Video in HLS Stream*
 * [WebDesigner](https://webdesigner.withgoogle.com/) or [Animate.css](https://animate.style/) - *Create Interactive Motion Graphics*
 * [MapBox](https://www.mapbox.com/) - *Live Maps, Location Search & More*
+* [Kontactr](https://kontactr.com/) - *Form Builder*
 * [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)- *Penetration Testing Resources*
 * [CanIUse?](https://caniuse.com/) - *Browser Support Tables*
 * [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - *Archive, Scrape & Crawl Sites* 
@@ -205,6 +206,7 @@
 
 ## ▷ Software Development
 
+* [Electron](https://www.electronjs.org/) - *Desktop App Builder / [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0)*
 * [Servo](https://servo.org/) - *Experimental Browser Engine*
 * [Gummy](https://gummyjs.vercel.app/) - *Easily Build Javascript Programs* 
 * [GNUnet](https://gnunet.org/en/) - *Software Framework* 
