@@ -127,7 +127,6 @@
 * [wideredist](https://gitlab.com/urbanware-org/wideredist) - *Update Windows Defender Definitions Locally*
 * [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - *Malware Search Extension* 
 * [Malware Analysis Search](https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu)
-* [theZoo](https://github.com/ytisf/theZoo) - *Live Malware Repository / For Analysis Purposes Only*
 
 ***
 
@@ -172,6 +171,7 @@
 * [Tails](https://tails.boum.org/) or [Qubes](https://www.qubes-os.org/) - *Privacy-Based Operating Systems*
 * [Mofolinux](https://mofolinux.com/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - *Privacy-Based Operating System / Linux*
 * [Track This]( https://trackthis.link/) - *Confuse Personal Advertising by opening 100 tabs* 
+* [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete) - *Secure File Deletion*
 * [VeraCrypt](https://www.veracrypt.fr/en/Home.html) or [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup) - *Disk Encryption Software*
 * [FileVault](https://support.apple.com/en-us/HT204837) - *Mac Disk Encryption* 
 * [Cryptomator](https://cryptomator.org/), [Boxcryptor](https://www.boxcryptor.com/en/), [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) or [Filen](https://filen.io/) - *Cloud File Encryption*
@@ -194,7 +194,7 @@
 * [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion), [discord-delete](https://github.com/adversarialtools/discord-delete), [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) or [QuickDeleteMessages](https://u.nu/9i9jk) - *Delete Discord Messages / [Warning](https://i.imgur.com/Kt8G430.png)* 
 * [Spyware Watchdog](https://spyware.neocities.org/) - *Spyware Program Index*
 * [Terms of Service; Didn't Read](https://tosdr.org/) - *TLDR TOS*
-* [V2Ray](https://v2ray.com/en/) - *Build your own Privacy Network / [GUI](https://qv2ray.net/), [v2rayN](https://github.com/2dust/v2rayN)* 
+* [V2Ray](https://v2ray.com/en/) or [v2ray-core](https://github.com/v2fly/v2ray-core) - *Build your own Privacy Network / [GUI](https://qv2ray.net/), [v2rayN](https://github.com/2dust/v2rayN)* 
 * [Scout](https://www.scout.tel/phone-number-lookup) - *Phone Number Lookup / Safety Check* 
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - *Get Telephone Carrier Data* 
 * [/r/Privacy](https://reddit.com/r/privacy) - *Privacy Discussion & News Subreddit*
@@ -360,7 +360,6 @@
 * [Privado](https://www.privado.com/) 
 * [Brave Search](https://search.brave.com/)
 * [peekier](https://peekier.com/)
-* [Yippy](https://yippy.com/)
 * [WhaleSlide](https://whaleslide.com/)
 * [Infinity](https://infinitydecentralized.com/)
 * [ekoru](https://ekoru.org/)
@@ -375,7 +374,7 @@
 * **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - *Create Temporary Email Addresses*
 * **[Have I been Pwned?](https://haveibeenpwned.com/)** or [GhostProject](https://ghostproject.fr/) - *Monitor Email Breaches*
 * [EmailPrivacyTester](https://www.emailprivacytester.com/) - *Email Privacy Tests* 
-* [Forward Email](https://forwardemail.net/), [SimpleLogin](https://simplelogin.io/), [Firefox Relay](https://relay.firefox.com/), [spamgourmet](https://www.spamgourmet.com/index.pl), [Ptorx](https://ptorx.com/), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Jetable](https://www.jetable.org/en/index), [Mailsac](https://mailsac.com/), [mailnesia](http://mailnesia.com/) or [AnonAddy](https://anonaddy.com/) - *Email Forwarding*   
+* [Forward Email](https://forwardemail.net/), [SimpleLogin](https://simplelogin.io/), [Firefox Relay](https://relay.firefox.com/), [spamgourmet](https://www.spamgourmet.com/index.pl), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Mailsac](https://mailsac.com/), [mailnesia](http://mailnesia.com/) or [AnonAddy](https://anonaddy.com/) - *Email Forwarding*   
 * [FakemailBot](https://t.me/FakemailBot), [DropmailBot](https://t.me/DropmailBot) or [ccgen_robot](https://t.me/ccgen_robot) - *Email Forwarding Telegram Bots*
 * [Check-Mail](https://check-mail.org/free-email-validation-api/) or [Validator](https://www.validator.pizza/) - *Check if a email is valid* 
 * [Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_email_services)
