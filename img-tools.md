@@ -49,7 +49,7 @@
 ## ▷ Resize / Compress
 
 * [ESRGAN Models](https://icedrive.net/1/43GNBihZyi) or [Upscale Model Database](https://upscale.wiki/wiki/Model_Database) - *Multiple Image Upscalers*
-* [Waifu2x](https://github.com/nagadomi/waifu2x), [GigaPixel](https://filecr.com/?s=Topaz+Gigapixel), [Bigjpg](https://bigjpg.com/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/) or [CupScale](https://github.com/n00mkrad/cupscale) - *Image Upscaler*
+* [Waifu2x](https://github.com/nagadomi/waifu2x), [ESRGAN](https://github.com/JoeyBallentine/ESRGAN), [GigaPixel](https://filecr.com/?s=Topaz+Gigapixel), [Bigjpg](https://bigjpg.com/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/) or [CupScale](https://github.com/n00mkrad/cupscale) - *Image Upscaler*
 * Waifu2x Tools - [Guide](https://i.imgur.com/55s8sU5.png) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/tanakamura/waifu2x-converter-cpp), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/), [5](https://waifu2x.me/), [6](http://waifu2x.udp.jp/), [7](https://waifu2x.org/)
 * [Croppola](https://croppola.com/) or [Avatar Cropper](https://avatarcropper.com/) - *Cropping Tool* 
 * [Simple Image Resizer](http://www.simpleimageresizer.com/) - *Resize Images*
@@ -176,6 +176,7 @@
 * [Artbreeder](https://artbreeder.com/) - *Image Discovery / Combining*
 * [Free Vector Sites](https://onehack.us/t/get-download-free-vectors-45-sites-to-grab-vectors/96104) - *Vector Images* 
 * [Artvee](https://artvee.com/) - *Public Domain Artwork* 
+* [/r/BLKMARKET](https://reddit.com/r/blkmarket) - *Plugins, Textures & Mockups*
 * [Placeit](https://placeit.net/) - *Image Templates*
 * [Crello](https://crello.com/) - *Image Templates / Editor*
 * [Worldvectorlogo](https://worldvectorlogo.com/) - *Brand Logos*
@@ -231,6 +232,7 @@
 * [behind!](https://github.com/kubuzetto/behind) - *View Background Images*   
 * [Visual Center](https://javier.xyz/visual-center/) - *Find the Visual Center of an Image*
 * [Capture2Text](http://capture2text.sourceforge.net/), [TextShot](https://github.com/ianzhao05/textshot), [Online OCR](https://www.onlineocr.net/), [IMG2TXT](http://img2txt.com/), [NewOCR](https://www.newocr.com/), [OCR.SPACE](https://ocr.space/) or [OnlineOCR](https://www.onlineocr.net/) - *Image to Text*  
+* [Handwriting-OCR](https://github.com/Breta01/handwriting-ocr) - *Handwriting Image to Text*
 * [Image-to-Image](https://affinelayer.com/pixsrv/) - *Interactive Image Translation*
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - *Find Font from Image*
 * [Visual Recognition](https://visual-recognition-code-pattern.ng.bluemix.net/) - *Analyzes Images for Scenes, Objects, Text ect.* 
