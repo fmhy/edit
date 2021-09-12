@@ -834,6 +834,7 @@
 * [SaveSubs](https://www.savesubs.com/) - *Download Subs from Video Sites* 
 * [Sushi](https://github.com/tp7/Sushi) - *Automatic Subtitle Shifter Based on Audio* 
 * [movies2anki](https://github.com/kelciour/movies2anki) - *Convert Movies with Subs to Anki*
+* [VideoSubFinder](https://sourceforge.net/projects/videosubfinder/) - *Hardcoded Subtitle Extractor*
 * [Subtitling Guide](https://baechusquad.download/guide/) - *Subtitling Guide*
 
 ***
