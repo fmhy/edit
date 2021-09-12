@@ -485,13 +485,11 @@
 
 ## ▷ Downloading 
 
-* [CB01](https://cb01.directory/) - *Movies / TV / Anime* 
 * [euroStreaming](https://eurostreaming.vision/) - *Use deltabit / Movies / TV / Anime / Use AdBlocker* 
 
 ## ▷ Streaming
 
 * [Italian Streaming Sites List](https://rentry.co/t29tz)
-* [CB01](https://cb01.directory/) - *Movies / TV / Anime* 
 * [euroStreaming](https://eurostreaming.vision/) - *Use deltabit / Movies / TV / Anime / Use AdBlocker* 
 * [Altaefinizione](https://altadefinizione.sh/) - *Movies / TV / Anime* 
 * [guardaserie01](https://www.guardaserie01.uno/) - *Movies / TV* 
