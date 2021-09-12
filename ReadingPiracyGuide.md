@@ -436,6 +436,7 @@
 * [HathiTrust](https://www.hathitrust.org/) 
 * [FreeBookCentre](https://freebookcentre.net/)
 * [OAPEN](https://oapen.org/)
+* [vdoc.pub](https://vdoc.pub/)
 * [Readings](https://drive.google.com/drive/u/0/mobile/folders/0B5KDwL1Qi6zUWFlfbU8yTjU4WUE?usp=drive_open)
 * [StruggleBuddies 4.0](https://mega.nz/folder/A15gybjB#s_vaCKHVR35X704ot2g7LQ)
 * [pdfs - books](https://drive.google.com/drive/u/0/mobile/folders/0B1DQUsG9YxIXflhQejJqcmgwbzgtcjQzbFlFU3BNeVJES1JwTW9hRmEwa0k4dUNVZEJzQzg)
@@ -661,7 +662,7 @@
 
 ## ▷ Manual Sites
 
-* [Manuals & Schematics](https://redd.it/nlw3er) or [ManualsLib](https://www.manualslib.com/) - *Manual Directories*
+* [Manuals & Schematics](https://redd.it/nlw3er), [manualzz](https://manualzz.com/) or [ManualsLib](https://www.manualslib.com/) - *Manual Directories*
 * [iFixIt](https://www.ifixit.com/Guide) - *Repair Manuals* 
 * [RepairWiki](https://repair.wiki/w/Repair_Wiki) - *Repair Articles*
 * [manned.org](https://manned.org/) - *Operating System Manuals*
