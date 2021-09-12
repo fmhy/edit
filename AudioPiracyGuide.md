@@ -61,7 +61,6 @@
 * [Drive & Listen](https://driveandlisten.herokuapp.com/) - *Listen to Music and Drive in Multiple Cities* 
 * [Map of Metal](http://mapofmetal.com/) - *Interactive Map of Metal History* 
 * [The Cultural Borders of Songs](https://pudding.cool/2018/06/music-map/?date=202102) - *#1 Songs from 3,000 Countries* 
-* [The Eternal Jukebox](https://eternalbox.dev/jukebox_index.html) - *Never-ending, ever changing versions of any song*
 * [LostMyspace](http://lostmyspace.com/) - *Lost Myspace Songs* 
 * [BitMidi](https://bitmidi.com/) - *Stream / Download MIDI Files* 
 * [RemixPacks](http://remixpacks.ru/) or [BurntScarr](http://www.burntscarr.com/burntscarr/STEMS/) - *STEMS*
@@ -226,10 +225,10 @@
 * [NetNaija](https://www.thenetnaija.com/) - *MP3* 
 * [DeadPulpit](https://www.deadpulpit.com/) - *MP3*
 * [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - *MP3*
-* [74.136.132.35](http://74.136.132.35/MUSIC/ORIG/) - *MP3 / Drive*
-* [Music for the masses !](https://redd.it/nt7fea) - *MP3 / Drives*
-* [geedryve](http://jacobsm.com/geedryve/records/mp3s/) - *MP3 / Drive* 
-* [Music Library](https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7) - *MP3 / Drive*
+* [Music for the masses !](https://redd.it/nt7fea) - *MP3*
+* [geedryve](http://jacobsm.com/geedryve/records/mp3s/) - *MP3* 
+* [Music Library](https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7) - *MP3*
+* [109.120.203.163](http://109.120.203.163/Music/) - *MP3*
 * [FLAC Attack](https://flacattack.net/) - *FLAC*
 * [24Flac.net](https://24flac.net/) - *FLAC*
 * [Lossless-Music](https://lossless-music.org/) - *FLAC*
