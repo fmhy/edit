@@ -195,10 +195,10 @@
 * [raymondfreesoftware](https://sites.google.com/site/raymondfreesoftware/) - *[Telegram](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g)* 
 * [ALTERNATIVES](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md) - *Lightweight Software Index*
 * [Rarewares](https://www.rarewares.org/) - *Rare Software*
-* [winget.run](https://winget.run/) - *Winget Packages*
 * [Izofile](https://izofile.com/), [Soft2Ev](https://www.soft2ev.com/), [Keygen Fortress](https://t.me/keygen_fortress), [SmartSerials](https://smartserials.com/), [SerialReactor](https://serialreactor.com/) or [Serials](https://www.serials.ws/) - *Software Keys / Patches*
 * [Software Heritage](https://www.softwareheritage.org/) - *Software Source Code Archive* 
 * [balenaHub](https://hub.balena.io/) - *Raspberry Pi Software* 
+* [Team V.R releases](https://codec.kiev.ua/releases.html) - *Professional Video, Audio & Adobe Software / Plugins*
 * [GenP](https://www.reddit.com/r/GenP) - *Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)*
 
 ***
@@ -271,6 +271,7 @@
 * [HaxMac](https://haxmac.cc/) 
 * [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
+* [Adobe CC 2021 Crack](https://redd.it/ox6rwl) - *Adobe Software*
 
 ***
 
