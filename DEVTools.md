@@ -135,6 +135,7 @@
 ## ▷ Site Development 
 
 * **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)** - *Host Sites for Free*
+* [Uncensorable Publishing](https://uncensorablepublishing.com/) - *Create Hard to Censor Sites*
 * [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [psddd](https://psddd.co/) or [Freebiesbug](http://freebiesbug.com/)  - *Web Design Resources*
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
 * [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [WebsiteScoop](https://websitescoop.com/), [SEO Tools](https://99webtools.com/) or [Webrate](https://webrate.org/) - *SEO Tools*
@@ -341,6 +342,7 @@
 * [ColorHexa](https://www.colorhexa.com/) - *Color Hex Encycolopedia* 
 * [Paletton](https://paletton.com/) - *Color Scheme Designer*
 * [PaletteGenerator](https://palettegenerator.com/) - *Color Palette Extractor*
+* [ColorZilla](https://www.colorzilla.com/) - *Color Picker, Gradient Generator & more*
 * [Colorpedia](https://github.com/joowani/colorpediahttps://coolors.co/) - *Lookup Colors & Palettes via Command-Line* 
 * [ShaderToy](https://www.shadertoy.com/browse) - *User-Made Shaders* 
 * [Contrast Checker](https://webaim.org/resources/contrastchecker/) - *Background / Text Contrast Checker*
