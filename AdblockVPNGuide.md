@@ -89,7 +89,6 @@
 * **[Hybrid Analysis](https://www.hybrid-analysis.com/)** or [Amnpardaz](https://jevereg.amnpardaz.com/) - *Scan EXE Files*
 * **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)** - *Scan URL's*
 * [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html) or [GlassWire](https://www.glasswire.com/) - *Firewall / Network Monitor* 
-* [Test Your Metal](http://metal.fortiguard.com/) - *Test Firewall* 
 * [Nmap](https://nmap.org/) - *Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)* 
 * [Waircut](https://sourceforge.net/projects/waircut/) - *WPS Network Monitor*
 * [Stronghold](https://github.com/alichtman/stronghold) - *Mac Security Settings Terminal*
