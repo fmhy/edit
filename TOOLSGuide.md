@@ -1440,9 +1440,9 @@ General Reading Sites*
 * [MacroGamer](https://www.itoady.com/) - *Game Macro Recorder*
 * [Mon](https://github.com/dbednar230/mon) - *Command Line Pokedex*
 * [Blitz](https://blitz.gg/) - *Post Match Performance Analyzer / [Adblocker](https://github.com/lulzsun/blitz-app-adblock)* 
-* [Map Genie](https://mapgenie.io/) - *Explore Game Maps* 
-* [noclip](https://noclip.website/) - *Explore Game Environments* 
-* [bspview](https://devanbuggay.com/bspview/) - *Explore Quake/GoldSrc maps in your browser / [Github](https://github.com/sbuggay/bspview)* 
+* [Map Genie](https://mapgenie.io/) or [VGMaps](http://www.vgmaps.com/)  - *Game Maps* 
+* [noclip](https://noclip.website/) - *Explore Game Maps* 
+* [bspview](https://devanbuggay.com/bspview/) - *Explore Quake & GoldSRC Maps / [Github](https://github.com/sbuggay/bspview)* 
 * [NES Maps](https://www.nesmaps.com/) - *NES Game Maps* 
 * [SNES Maps](https://www.snesmaps.com/) - *SNES Game Maps*
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - *Breath of The Wild Map*
