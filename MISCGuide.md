@@ -262,7 +262,7 @@
 * [paint.wtf](https://paint.wtf/) - *Have an AI Judge your Art* 
 * [Windows XP Error Worm](https://ybenbihi.github.io/windows-error-worm/) - *Click & Drag Windows Errors* 
 * [Our World of Text](https://ourworldoftext.com/) or [Your World of Text](https://www.yourworldoftext.com/) - *Infinite grid of text editable by anyone*
-* [pixels.land](https://pixels.land/) - *Infinite Pixel Art online*  
+* [pixels.land](https://pixels.land/) or [World of Pixels](https://ourworldofpixels.com/) - *Infinite Pixel Art online*  
 * [Genetic Cars 2](https://rednuht.org/genetic_cars_2/) - *Random 2D Car Generator*
 * [cachemonet](http://cachemonet.com/) - *Randomly Generated GIFs/ Backgrounds* 
 * [Wonder of Wonder Art](https://aidn.jp/wowa/) - *Create a Dancing Character* 
@@ -601,7 +601,7 @@
 * [700-free-ttf-fonts-pack](https://drive.google.com/file/d/0B7IoVaGUMDVseFpvQ3NKTlNydmc/view?resourcekey=0-7iCgiOnXxBtilY0tJ2Nikg)
 * [250_Professional_Fonts_Bundle](https://drive.google.com/file/d/1-aGiDPsve_uOd8XgC3iMaTFrxxc1sgp2/view)
 * [Get Font](https://getfont.herokuapp.com/) - *Find Font in Github* 
-* [Cava's Pixel Resources ](https://caveras.net/) - *Pixel Fonts* 
+* [Cava's Pixel Resources](https://caveras.net/) - *Pixel Fonts* 
 * [Scanlation School Drive](https://drive.google.com/drive/folders/1hPV4o8fmxY2Ab9tXi84l0vVOUQEgFIbU) - *Comic Fonts*
 * [Make WordArt](https://www.makewordart.com/) - *WordArt Generator*
 * [int10h](https://int10h.org/oldschool-pc-fonts/) - *Oldschool PC Fonts* 
@@ -669,6 +669,7 @@
 * [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - *Play Videos in Theater Mode*
 * [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Audio Recorder*
 * [Mute Tab](https://mybrowseraddon.com/mute-tab.html) - *Easily Mute All Tabs*
+* [Web-Scrobbler](https://web-scrobbler.com/) - *Scrobble with Last.fm, Libre.fm, ect.*
 * [Form History Control](https://stephanmahieu.github.io/fhc-home/) or [Simple Form Fill](https://github.com/sblask/webextension-simple-form-fill) - *Formfiller Manager* 
 * [History Master](https://github.com/jiacai2050/history-master) - *Vizualize & Sync Browser History* 
 * [xBrowserSync](https://www.xbrowsersync.org/) - *Browser Syncing* 
