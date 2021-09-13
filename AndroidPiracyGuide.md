@@ -94,6 +94,7 @@
 * [Leapdroid](https://leapdroid.en.softonic.com/) - *[Screenshot](https://i.imgur.com/4RKnNqJ.png)* 
 * [PrimeOS](https://primeos.in/) - *Android Desktop OS*
 * [Android x86](https://www.android-x86.org/) - *Android Desktop OS*
+* [PhoenixOS Darkmatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - *Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)*
 * [PhoenixOS](http://www.phoenixos.com/en/) - *Android Desktop OS*
 * [ApkOnline](https://www.apkonline.net/) - *Online Android Emulator*
 
