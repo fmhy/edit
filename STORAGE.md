@@ -1506,7 +1506,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Skip Redirect 
 
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/), [Chrome](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon)
+**[Universal Bypass](https://universal-bypass.org/)** / [Custom](https://github.com/GustasRBLX/Custom-Universal-Bypass), [DL Site Scrubber](https://github.com/PrimePlaya24/dl-site-scrubber), [AdsBypasser](https://adsbypasser.github.io/), [skip-redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/) /2 [Chrome](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon)
 
 ***
 
@@ -2086,7 +2086,7 @@ Good for finding classic, obscure & short films.
 
 #### Windows 10 Debloater
 
-[Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/), [win10script](https://github.com/ChrisTitusTech/win10script) / [2](https://christitus.com/debloat-windows-10-2020/), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [CleanWin](https://github.com/pratyakshm/cleanwin), [QuickBoost](https://github.com/SanGraphic/QuickBoost)
+[Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/), [win10script](https://github.com/ChrisTitusTech/win10script) / [2](https://christitus.com/debloat-windows-10-2020/), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [CleanWin](https://github.com/pratyakshm/cleanwin), [QuickBoost](https://github.com/SanGraphic/QuickBoost), [Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier)
 
 ***
 
