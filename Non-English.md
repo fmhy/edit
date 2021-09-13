@@ -21,7 +21,6 @@
 * [arabseed](https://arabseed.cam/) - *Movies / TV* 
 * [dotCima](https://s2.dotcima.com/) - *Movies / TV*
 * [arblionz.org](https://www.arblionz.org/) - *Movies / TV* 
-* [mycima](https://mycima.video/) - *Movies / TV* 
 * [EgyBest](https://egy.best/) - *Movies / TV*
 * [cartoon3rbi](https://www.cartoon3rbi.net/) - *Cartoons / Anime*
 * [Shazam Music](https://t.me/shazam_music_uz) - *Music / Telegram* 
@@ -60,7 +59,6 @@
 * [okanime](https://www.okanime.com/) - *Anime*
 * [arabseed](https://www.arabseed.net/) - *Anime*
 * [octanime](https://www.octanime.com/) - *Anime*
-* [anyanime](https://www.anyanime.com/) - *Anime*
 * [animelek](https://www.animelek.tv/) - *Anime*
 * [animesilver](https://www.animesilver.com/) - *Anime*
 * [animetv](https://www.animetv.ge/) - *Anime*
