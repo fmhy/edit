@@ -875,7 +875,6 @@
 * [English Light Novels](https://englishlightnovels.com)
 * [Tensai Translations](https://tensaitranslations.wordpress.com/)  
 * [Web Novel](https://www.webnovel.com/) 
-* [jnovels](https://jnovels.com/) 
 * [Shin Translations](https://shintranslations.com/)
 * [Novel Updates](https://www.novelupdates.com/)  
 * [Henkan Epubs](https://henkanepubs.wordpress.com/) 
