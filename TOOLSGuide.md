@@ -103,7 +103,7 @@
 * [Count Wordsworth](http://countwordsworth.com/) - *Count Words in a List* 
 * [PDF Text Extraction](https://r3mlab.github.io/python/osint/2018/08/09/PDF-text-extraction.html) - *Extract Text from PDF Files* 
 * [calendso](https://calendso.com/) or [Tweek](https://tweek.so/) - *Calendar / Scheduling Tool / [GitHub](https://github.com/calendso/calendso)*
-* [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB), [GoogleKeepClone](https://github.com/anselm94/googlekeepclone) or [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) / [Github](https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App* 
+* [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB), [GoogleKeepClone](https://github.com/anselm94/googlekeepclone), [DecksApp](https://decksapp.com/) or [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) / [Github](https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App* 
 * [Glory Todo Desktop](https://github.com/yessGlory17/glory_todo_desktop) or [OpenToDoList](https://gitlab.com/rpdev/opentodolist) - *To-Do App* 
 * [Notion](https://www.notion.so/) - *Notes / Tasks / Wikis / Databases*
 * [Microsoft Office](https://tb.rg-adguard.net/public.php) / [Activation](http://github.com/massgravel/Microsoft-Activation-Scripts/releases) / [Guide](https://rentry.org/officeguidefornoobs), [LibreOffice](https://www.libreoffice.org/), [FreeOffice](https://www.freeoffice.com/en/), [Office Tool Plus](https://otp.landian.vip/en-us/), [SSuite](https://www.ssuitesoft.com/software/ssuiteexcalibur.htm) or [OpenOffice](https://www.openoffice.org) - *Office Suite*
@@ -317,6 +317,7 @@
 * [Theremin](https://femurdesign.com/theremin/) - *Online Synth / Theremin* 
 * [Web Synth V2](http://aikelab.net/websynthv2/) or [TANGUY](http://tanguysynth.com/) - *Online Synthesizer*
 * [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - *Pop Song Sample Mixer*
+* [Nightcore Maker](https://nightcoremaker.com/) - *Create Nightcore Versions of Songs*
 * [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/) or [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Online Audio Recorder*  
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts* 
 * [lalal.ai](https://www.lalal.ai/) - *Split Vocal and Instrumental Tracks from music* 
@@ -677,9 +678,11 @@ General Reading Sites*
 * [The-Eye /r/](https://the-eye.eu/r/) - *Subreddit Backups* 
 * [rareddit](https://www.rareddit.com/), [Archive Reddit](https://www.archivereddit.com/), [PushShift Reddit](http://files.pushshift.io/reddit/) or [Reddit Archive](http://www.redditarchive.com/) - *Reddit Post Archive* 
 * [Reddit (Au) Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - *Highlights New Comments*
+* [rComments](https://github.com/iampueroo/rComments) - *Explore Comments & Replies without Clicking a Post *
 * [rAger](https://chrome.google.com/webstore/detail/rager/fohlpjahcdbkpcckapphhpahbiajccmj) - *Display Account Age & Karma of Users*
 * [Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect) - *Always Load Old Reddit Design*
 * [Reddit Preview](https://redditpreview.com/) - *Preview Reddit Posts*
+* [custom-top-sort-for-reddit](https://github.com/arvidsandin/custom-top-sort-for-reddit) - *Scroll to Top of Reddit*
 * [Scroller](https://scrolller.com/) - *Reddit Image Auto-Scroller* 
 * [Reddit Grid](https://redditgrid.com/) - *Reddit Image Grid* 
 * [Redinfinite](https://redinfinite.com/) or [Redditp](https://www.redditp.com/) - *Reddit Image / Video Slideshow* 
@@ -781,6 +784,7 @@ General Reading Sites*
 * [qbittorrent-rp](https://github.com/LockBlock-dev/qbittorrent-rp) - *qBittorrent Rich Presence*
 * [Discord.io](https://discord.io/) or [dsc.gg](https://dsc.gg/) - *Create Custom Discord Invites*
 * [1337x-Bot ](https://github.com/brandongallagher1999/1337x-Bot) - *1337x Discord Bot*
+* [fmbot](https://fmbot.xyz/) - *Discord Voice Chat Scrobbling*
 * [Forms](https://gitlab.com/rubellite/engineering/forms ) - *Google Form Responses as Discord Embeds*
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter), [Discord History Tracker](https://dht.chylex.com/), [discord-archiver](https://github.com/nektro/discord-archiver) or [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper) - *Archive / Export Discord Chats* 
 * [Discord Style](https://www.discord.style/) - *Discord Server Templates*
@@ -873,12 +877,13 @@ General Reading Sites*
 * [ytcropper](https://ytcropper.com/) or [YTCutter](https://ytcutter.com/) - *YouTube Video Cropper*
 * [yt2pod](https://github.com/frou/yt2pod) - *Create Podcasts from YouTube Channels* 
 * [YouTube Comment Scraper](https://github.com/philbot9/youtube-comment-scraper-cli) - *YouTube Comment Scraping CLI* 
-* [YouTube first comment finder](https://first-comment.com/) - *Find first comment of YouTube video*   
+* [YouTube first comment finder](https://first-comment.com/) - *Find First Comment on Video*   
 * [Hadzy](https://hadzy.com/) - *YouTube Comment Search*
 * [Reddit Comments for YouTube](https://github.com/tayloroneill/Reddit-Comments-for-YouTube) - *Replace YouTube Comments with Reddit Comments*
 * [YouTube Live Comments](https://addons.mozilla.org/en-US/firefox/addon/ytlc/) - *Show YouTube Live Comments during Playback* 
 * [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - *Fix Youtube Search & Declutter Homepage* 
 * [YouTube Chronological Order](https://github.com/SleekPanther/youtube-chronological-order) - *Watch YouTube Videos in Chronological Order* 
+* [YTStamps](https://ytstamps.netlify.app/) - *Create Custom Start & End Times*
 * [Video Speed Controller](https://github.com/codebicycle/videospeed) - *Control Speed of YouTube Videos* 
 * [Watch Frame by Frame](http://www.watchframebyframe.com/) - *Watch Videos Frame by Frame* 
 * [Anilyzer](http://anilyzer.com/) - *Watch YouTube Videos in Slow Motion & Frame by Frame* 
