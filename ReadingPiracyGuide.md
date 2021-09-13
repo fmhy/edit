@@ -772,7 +772,7 @@
 
 * **[Manga Sites Search](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** + [Manga Sites Search 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0)
 * **Manga Apps - [Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_android_manga) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_manga)** - *Free manga apps / organizers*
-* **[Manga Site Index](https://piracy.moe/)** - *curated manga site list*
+* **[Manga Site Index](https://piracy.moe/)** - *Manga Site List*
 * **[MangaDex](https://mangadex.org/)** - *[Download Script](https://github.com/frozenpandaman/mangadex-dl)*
 * **[Manga4Life](https://manga4life.com/)**
 * [Manga Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_download_bots) - *Bots that Download Manga*
@@ -790,6 +790,7 @@
 * [MangaSee123](https://mangasee123.com/)
 * [Panda Chaika](https://panda.chaika.moe/)
 * [MangaSee](https://mangaseeonline.us/)
+* [Manhuaplus](https://manhuaplus.com/) 
 * [Readmng](https://www.readmng.com/) 
 * [ZinManga](https://zinmanga.com/)
 * [The Manga Library](https://archive.org/details/manga_library)
