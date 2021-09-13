@@ -269,7 +269,6 @@
 * [DarkAnime](https://darkanime.stream/) - *Sub*
 * [Kawaiifu](https://kawaiifu.com/) - *Sub / Dub*
 * [AnimeFox](https://animefox.io/) or [FlixAnime](https://flixani.me/) - *Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)*
-*  [FlixAnime](https://flixani.me/) - *Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)*
 * [AnimeHeaven](https://animeheaven.ru/) - *Sub / Dub* 
 * [AnimeDao](https://animedao.to/) - *Sub*
 * [Array Anime](https://www.arrayanime.com/) - *Sub / Dub* 
