@@ -14,7 +14,7 @@
 * **[The Odin Project](https://www.theodinproject.com/)** - *Web Dev Tutorials / Courses*
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Courses / Infinite trial by clearing cookies & making new account*
 * **[freeCodeCamp](https://www.freecodecamp.org/)** - *Programming / Courses / Interactive*
-* **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - *Read / Download programming books* 
+* **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - *Read / Download Programming Books* 
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - *Git Learning Game*
 * [Developer.Mozilla](https://developer.mozilla.org/) - *Developer Resources* 
 * [Python Discord](https://pythondiscord.com/resources/) - *Python Learning Resources*
@@ -43,6 +43,7 @@
 * [Ultimate Programming](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE) - *Programming Tutorials*
 * [FCS](https://freecoursesite.com/) - *Programing Tutorials*
 * [w3schools](https://www.w3schools.com/) - *Programing Tutorials*
+* [Learn to Program](https://github.com/karlhorky/learn-to-program) - *Programming Courses*
 * [HTMLDog](https://htmldog.com/) - *HTML / CSS / JavaScript Tutorials* 
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/) - *HTML & CSS Tutorials*
 * [VIM Adventures](https://vim-adventures.com/) - *VIM Learning Game*
@@ -126,7 +127,7 @@
 * [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - *Discord Code Blocks*
 * [Discord4J](https://discord4j.com/) - *Discord Bot API Wrapper*
 * [Javacord](https://javacord.org/) - *Discord Bot Creation Library*
-* [Hacking Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_hacking_tests_.2F_games) - *Hacking Tests & Games*
+* [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - *Toolbox for Reddit Extension Development*
 * [XunLei](https://www.xunlei.com/) - *Shared Computing / Blockchain*
 * [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - *Sites to Post Your Startup*
 
@@ -165,9 +166,9 @@
 * [hlsflow](https://github.com/hlsflow/hlsflow) - *Host Video in HLS Stream*
 * [WebDesigner](https://webdesigner.withgoogle.com/) or [Animate.css](https://animate.style/) - *Create Interactive Motion Graphics*
 * [MapBox](https://www.mapbox.com/) - *Live Maps, Location Search & More*
-* [Kontactr](https://kontactr.com/) - *Form Builder*
+* [Kontactr](https://kontactr.com/) or [Formsend](https://formsend.org/) - *Form Builder*
 * [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)- *Penetration Testing Resources*
-* [CanIUse?](https://caniuse.com/) - *Browser Support Tables*
+* [Can I Use?](https://caniuse.com/) - *Browser Support Tables*
 * [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - *Archive, Scrape & Crawl Sites* 
 * [Clone Zone](http://clonezone.link/) - *Tweak / Clone Webpages* 
 * [Appwrite](https://appwrite.io/) - *Open-Source Backend Server / [GitHub](https://github.com/appwrite/appwrite)*
