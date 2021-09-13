@@ -419,7 +419,7 @@
 * [Future Vision BIE](https://hemanthrajhemu.github.io/) - *VTU Study Materials*
 * [GCE Guide](https://gceguide.com/) - *Cambridge Assessment Guide*
 * [ITExams](https://www.itexams.com/) - *IT Exam Collection*
-* [The Problem Site](https://www.theproblemsite.com/) - *Problems / Puzzles/ Games*
+* [The Problem Site](https://www.theproblemsite.com/) - *Problems / Puzzles / Games*
 * [PuzzlePrime](https://www.puzzleprime.com/) - *Problems / Puzzles*
 * [LateralPuzzles](http://www.lateralpuzzles.com/) - *Lateral Thinking Puzzles*
 * [Highbrow](https://gohighbrow.com/) - *Daily Lessons*
@@ -428,7 +428,6 @@
 * [GCFGlobal](https://edu.gcfglobal.org/) - *Tech Tutorials*
 * [OpenSyllabus](https://opensyllabus.org/) or [LanguageDrops](https://languagedrops.com/) - *Syllabus Search / Info*
 * [Edpuzz Ninja](https://edpuzz.ninja/) - *Educational Puzzle Solving Tool* 
-* [Quizlet](https://quizlet.com/) - *Homework Answers and Solutions*
 * [PowerInBooks](https://powerinbooks.xyz/temp/) or [ch36650lut10n5](https://www.ch36650lut10n5.com/) - *Textbook Solutions* 
 * [LabXchange](https://www.labxchange.org/) - *Science / Interactive*
 * [AskNature](https://asknature.org/) - *Natural Strategies / Solutions* 
