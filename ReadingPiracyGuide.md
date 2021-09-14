@@ -86,6 +86,7 @@
 * [Repository z0ro](http://index-of.co.uk/) - *Books* 
 * [Ocean of EPUB](https://oceanofepub.com/) - *Books / Manga*
 * [PDFGet](http://www.pdfget.com/) - *Books*
+* [LetMeRead](https://www.letmeread.net/) - *Books*
 * [MoJoBB](https://mojobb.com/) - *Books / Magazines*
 * [BooksToLearn](https://www.booktolearn.com) - *Books*
 * [NovelLibrary](http://novellibrary.com/) - *Books / [Drive](http://dl.novellibrary.com/)* 
@@ -866,6 +867,7 @@
 * **[Just Light Novels](https://www.justlightnovels.com/)**
 * **[ThatNovelCorner](https://thatnovelcorner.com/)**
 * [Light Novel World](https://www.lightnovelworld.com/)
+* [Ranobes](https://ranobes.net/)
 * [Baka-Tsuki](https://www.baka-tsuki.org)
 * [Armaell's Library](https://armaell-library.net/)
 * [Novel Online Free](https://novelonlinefree.com/homepage)
