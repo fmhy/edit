@@ -1493,7 +1493,7 @@ General Reading Sites*
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - *Linux Game Package Downloader*
 * [Moonlight Stream](https://moonlight-stream.org/) or [Rainway](https://rainway.com/gaming) - *PC Remote Play Client / [GitHub](https://github.com/moonlight-stream)*
 * [Medal](https://medal.tv/) - *Nvidia Shadowplay for non Nicosia cards*
-* [dlss-swap](https://github.com/beeradmoore/dlss-swapper) - *Download, Manage & Swap DLSS *
+* [dlss-swap](https://github.com/beeradmoore/dlss-swapper) - *Download, Manage & Swap DLSS*
 * [VibranceGUI](https://vibrancegui.com/) - *Automate Digitial Vibrance Control*
 * [ReShade](https://reshade.me/) - *Generic Post-Processing Injector / [GitHub](https://github.com/crosire/reshade)*
 * [Achievement Watcher](https://github.com/xan105/Achievement-Watcher) - *Achievement File Parser, Notifications & Playtime Tracker* 
