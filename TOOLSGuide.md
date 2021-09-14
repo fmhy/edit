@@ -29,12 +29,13 @@
 * [CompareSizes](https://comparesizes.com/) - *Size Comparison Tool* 
 * [TimeAndDate](https://www.timeanddate.com/) - *Clocks / Calendars* 
 * [Epoch Converter](https://www.epochconverter.com/) - *Epoch & Unix Timestamp Conversion Tools* 
-* [How Many Days Since](http://howmanydayssince.net/) or [How Many Days Until](https://howmanydaysuntil.co/) - *Calculate days since a date*
+* [How Many Days Since](http://howmanydayssince.net/) or [How Many Days Until](https://howmanydaysuntil.co/) - *Calculate Days Since a Date*
 * [MindMup](https://www.mindmup.com/), [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page), [Mindomo](https://www.mindomo.com/), [Yuque](https://www.yuque.com/), [Logseq](https://logseq.com/) or [MindMapp](https://mindmapp.cedoor.dev/app) - *Mind Mapping Tool* 
 * [Grocy](https://grocy.info/) - *Grocery / Household Management Tool*
 * [Volmarg](https://volmarg.github.io/) - *Personal Management Tool*
 * [Focalboard](https://www.focalboard.com/) - *Project Management Tool*
 * [Meeter](https://trymeeter.com/) - *Video Meeting Manager / Mac*
+* [tuxi](https://github.com/Bugswriter/tuxi) - *Question & Answer CLI*
 * [Onym](https://guide.onym.co/) - *Tools / Resources for Naming Things*
 * [WorldTaxiMeter](https://www.worldtaximeter.com/) - *Taxi Fare Calculator*
 * [GasPrices](https://gasprices.aaa.com/) - *Gas Price Calculator*
@@ -773,6 +774,7 @@ General Reading Sites*
 * [Discord Music Bot](https://github.com/SudhanPlayz/Discord-MusicBot), [2](https://github.com/Androz2091/discord-music-bot), [3](https://github.com/ZerioDev/Music-bot), [4](https://github.com/jagrosh/MusicBot) - *Self-Hosted Music Bots*
 * [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - *Discord Keyboard Lighting Notifications*
 * [Permissions Calculator](https://discordapi.com/permissions.html) - *Generate Discord OAuth Invites*
+* [CloneCord](https://github.com/Rekulous/CloneCord-bot) - *GClone Cloud Storage File Manager in Discord*
 * [CustomRP](https://www.customrp.xyz/), [EasyRP](https://github.com/Pizzabelly/EasyRP), [RPCEngine](https://github.com/qoobes/rpcengine), [eidolonrp CodeFactor](https://github.com/kairusds/eidolonrp), [DiscordRPCMaker](https://drpcm.t1c.dev/) or [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC) - *Custom Rich Discord Presence*
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - *Discord Rich Presence Manager*
 * [PlayStationDiscord](https://tustin.dev/PlayStationDiscord/) - *PlayStation Discord Rich Presence*
@@ -1035,6 +1037,7 @@ General Reading Sites*
 * [WinCDEmu](https://wincdemu.sysprogs.org/) - *CD/DVD/BD Emulator*  
 * [SpeedyFox](https://crystalidea.com/speedyfox) - *Optimize Program Performance*  
 * [CCStopper](https://github.com/E-Soda/CCStopper) - *Stop Background Adobe Apps*
+* [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - *Debloat Adobe Apps*
 * [AATU](https://amdaputuningutility.com/) - *Ryzen Mobile Laptop Tuning Utility*
 * [NBFC](https://github.com/hirschmann/nbfc) - *Laptop Fan Control*
 * [Nvidia-Patch](https://github.com/keylase/nvidia-patch) - *NVENC & NvFBC Patches*
@@ -1264,7 +1267,7 @@ General Reading Sites*
 * [G-Index](https://github.com/LeeluPradhan/G-Index), [goindex](https://github.com/alx-xlx/goindex), [GDI](https://github.com/anymeofu/GDI) or [gdrive-index](https://github.com/alx-xlx/gdrive-index) - *Google Drive Index*
 * [Google Drive Bot](https://t.me/Gdriveit_bot) - *Google Drive Client in Telegram*
 * [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - *Host Direct Links on GDrive* 
-* [gdrive-copy](https://github.com/ericyd/gdrive-copy), [googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader), [TgFolderClone](https://github.com/Loli-Killer/TgFolderClone), [Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot) or [GDrive-Clone](https://github.com/alx-xlx/gdrive-clone) / [Bot](https://github.com/MsGsuite/CloneBot) - *Copy Google Drive*
+* [gdrive-copy](https://github.com/ericyd/gdrive-copy), [googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader), [TgFolderClone](https://github.com/Loli-Killer/TgFolderClone), [Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot) or [GDrive-Clone](https://github.com/alx-xlx/gdrive-clone) - *Copy Google Drive*
 * [gd-efc](https://anadius.github.io/gd-efc/) - *Copy Encrypted Google Drive* 
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - *Google Drive Link Encryptor for GD-EFC*
 * [goodls](https://github.com/tanaikech/goodls) - *Google Drive Downloader*
