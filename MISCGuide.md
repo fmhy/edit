@@ -511,6 +511,7 @@
 * [Charity Miles](https://charitymiles.org/) - *Donate to Charity While Running / Biking*
 * [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - *Zombie Running Adventure Game*
 * [INCIDecoder](https://incidecoder.com/) - *Skincare Ingredient Lists*
+* [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - *Remedies for Sores on Tongue*
 
 ***
 
@@ -598,7 +599,8 @@
 * [2300+ Fonts Pack](https://drive.google.com/file/d/1Y4yRd5KugATG5XfcjkuUgN9BU4wJJMVj/view)
 * [2.2k Fonts](https://drive.google.com/drive/folders/1aJVKslK0v_kKxvEd5KV3KSCfY0epXNz0?usp=sharing) - *[Zip File](https://drive.google.com/file/d/1x7oh79m1ooj9BnPxEnxEgZY39RVcXple/view?usp=sharing)*
 * [2000+ Fonts](https://drive.google.com/drive/folders/1aJVKslK0v_kKxvEd5KV3KSCfY0epXNz0) 
-* [1001 Free Fonts ](https://www.1001freefonts.com/)
+* [1001 Fonts](https://www.1001fonts.com/)
+* [1001 Free Fonts](https://www.1001freefonts.com/)
 * [700-free-ttf-fonts-pack](https://drive.google.com/file/d/0B7IoVaGUMDVseFpvQ3NKTlNydmc/view?resourcekey=0-7iCgiOnXxBtilY0tJ2Nikg)
 * [250_Professional_Fonts_Bundle](https://drive.google.com/file/d/1-aGiDPsve_uOd8XgC3iMaTFrxxc1sgp2/view)
 * [Get Font](https://getfont.herokuapp.com/) - *Find Font in Github* 
