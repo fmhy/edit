@@ -51,7 +51,6 @@
 * [Security Addon](https://github.com/huntmix/securityaddon) - *Set Triggers & Measures that protect your Phone*
 * [SuperFreezZ](https://f-droid.org/en/packages/superfreeze.tool.android) - *Freeze App Background Activities* 
 * [SnoopSnitch](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/) - *Check Mobile Network Security* 
-* [Syphon](https://syphon.org/) - *Privacy Based Matrix Client / [GitHub](https://github.com/syphon-org/syphon)*
 * [FairEmail](https://play.google.com/store/apps/details?id=eu.faircode.email) - *Open Source, Privacy Oriented Email for Android / [f-Droid](https://f-droid.org/packages/eu.faircode.email/)*
 * [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&amp;hl=en_US) - *Tor Proxy*
 * [TorServices](https://f-droid.org/packages/org.torproject.torservices/) - *Tor App Proxy / [GitLab](https://gitlab.com/guardianproject/torservices)*
@@ -69,7 +68,7 @@
 * [Stingle Photos](https://stingle.org/) - *Private Photo / Video Gallery* 
 * [Threema](https://mirrorace.com/m/3DIja), [Session](https://getsession.org/), [Status](https://status.im/), [Signal](https://github.com/mollyim/mollyim-android) / [2](https://langis.cloudfrancois.fr/) / [3](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [ChatSecure](https://ballinger.io/apps/chatsecure/), [surespot](https://www.surespot.me/), [Snikket](https://www.f-droid.org/en/packages/org.snikket.android/) or [RetroShare](https://f-droid.org/en/packages/org.retroshare.android.qml_app/) - *Encrypted Messaging* 
 * [Silence](https://silence.im/) - *Encrypt SMS/MMS Messages* 
-* [Wickr](https://play.google.com/store/apps/details?id=com.wickr.pro&amp;hl=en), [MySudo](https://mysudo.com/), [Jami](https://jami.net/) or [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app) - *Encrypted Messaging / Video Calls*
+* [Wickr](https://play.google.com/store/apps/details?id=com.wickr.pro&amp;hl=en), [MySudo](https://mysudo.com/), [Jami](https://jami.net/), [Syphon](https://syphon.org/) or [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app) - *Encrypted Messaging / Video Calls*
 * [OVERSEC](https://www.oversec.io/) - *Add Text / Image Encryption to any App* 
 * [DPITunnel](https://github.com/zhenyolka/DPITunnel) - *Bypass Deep Packet Inspection* 
 * [adb-clear-packages](https://gist.github.com/noseratio/e3b136401965289c4aab40fa60f3be41) - *Clear Android Packages Data*
@@ -122,6 +121,7 @@
 * [Magisk](https://github.com/topjohnwu/Magisk/releases) - *Android Root Tool / [Mods](https://t.me/magiskmod_update)*
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) - *Debloat non-rooted Androids*
 * [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - *Android Debloating Guide*
+* [aaaaa](https://github.com/dkter/aaaaa) - *Minimalist Keyboard*
 * [VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps) - *File / URL Virus Scanner* 
 * [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app ) - *Libgen Mobile App* 
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) or [AndrOpen](https://www.andropenoffice.com/) - *Office Suite* 
@@ -215,6 +215,7 @@ App Manager
 * [Reface](https://reface.app/) - *Create Face Swap Videos* 
 * [PGS](https://www.pgsharp.com/) - *Modded Pokémon GO*
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
+* [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451) - *Custom Recovery Firmware Tool*
 * [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) - *Extract OTP Tokens*
 * [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid) - *File Hash Calculator*
 * [Swappa](https://swappa.com/imei) - *IMEI, MEID, ESN Checker*
@@ -613,6 +614,7 @@ RSS Player*
 * [Flarify](http://www.flairify.com/) - *Touchscreen Typing Practice* 
 * [VoxRec](https://apps.apple.com/us/app/voxrec-voice-to-text-dictation/id1366603987) - *Voice to Text*
 * [Scan Thing](https://apps.apple.com/us/app/scan-thing-scan-anything/id1542730895) - *Scan & Digitize Anything*
+* [magicplan](https://apps.apple.com/us/app/magicplan/id427424432) - *AR & LiDAR Scanning*
 * [Polycam](https://apps.apple.com/us/app/polycam-lidar-3d-scanner/id1532482376) - *3D Capture Tool*
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - *Scan & Digitize Documents*
 * [PhotoMath](https://apps.apple.com/us/app/photomath/id919087726) - *Math Problem Solver with Steps*
