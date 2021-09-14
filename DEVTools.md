@@ -139,10 +139,10 @@
 * [Uncensorable Publishing](https://uncensorablepublishing.com/) - *Create Hard to Censor Sites*
 * [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [psddd](https://psddd.co/) or [Freebiesbug](http://freebiesbug.com/)  - *Web Design Resources*
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
-* [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [WebsiteScoop](https://websitescoop.com/), [SEO Tools](https://99webtools.com/) or [Webrate](https://webrate.org/) - *SEO Tools*
+* [CuratedSEOTools](https://github.com/sneg55/curatedseotools) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization Tools*
 * [Geekflare Tools](https://gf.dev/toolbox) - *Site Testing Tools*
 * [Alexa Site Info](https://www.alexa.com/siteinfo) - *Site Traffic Stats / Analysis*
-* [Resolve.rs Tools](https://resolve.rs/tools.html) - *Site Domain / IP Tools*
+* [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/),  [Network Tools](https://network-tools.com/) or [WebsiteScoop](https://websitescoop.com/) - *Site Domain / IP Tools*
 * [Namechk](https://namechk.com/), [Username Checker](https://checkuser.org/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Username Availability Check*
 * [Pyfunceble](https://pyfunceble.github.io/#/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [DomComp](https://www.domcomp.com/) or [Domainr](https://domainr.com/) - *Domain Availability Check* 
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist*
@@ -228,6 +228,8 @@
 * [Plank](https://launchpad.net/plank) - *Simple Dock / [GitHub](https://github.com/ricotz/plank)*
 * [Portainer](https://portainer.io/) - *Build / Manage Docker Containers / [Templates](https://github.com/SelfhostedPro/selfhosted_templates) / [GitHub](https://github.com/portainer/portainer)*
 * [MDB GO](https://mdbgo.com/) - *Free App Hosting*
+* [Lich](https://github.com/line/lich) - *Android Development Libraries*
+* [androidx](https://github.com/androidx/androidx) - *Android Development Environment for Jetpack Extensions*
 * [Kodular](https://www.kodular.io/) or [Android Studio](https://developer.android.com/studio/index.html) - *Android App Creator*
 * [GoNative](https://gonative.io/) - *Convert Websites to Mobile Apps*
 * [Debugtron](https://www.electronjs.org/apps/debugtron) - *Electron App Debugger*
@@ -366,7 +368,7 @@
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - *Creative Coding Resource Index* 
 * [Algorithm Visualizer](https://algorithm-visualizer.org/) - *Visualize Code Algorithms* 
 * [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/), [Lite XL](https://lite-xl.github.io/), [Brackets](http://brackets.io/), [Notepad2](https://www.flos-freeware.ch/notepad2.html) or [Light Table](http://lighttable.com/) - *Code Editor* 
-* [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - *Emacs Packages *
+* [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - *Emacs Packages*
 * [WebDen](https://webden.dev/) - *Code Playground*
 * [Shell Cloud](https://shell.cloud.google.com/) - *Google Cloud Shell Environment*
 * Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Config](https://github.com/ChristianChiarulli/LunarVim)
@@ -376,6 +378,7 @@
 * [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - *Visual Studio Code Extensions* 
 * [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - *Visual Studio Code Python Language Extension / [Performant Language](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)*
 * [Mega Linter](https://github.com/nvuillam/mega-linter) - *Code Analyzer* 
+* [cpp.sh](http://cpp.sh/) - *Online C++ Compiler*
 * [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) - *Machine Learning Art Resource Index* 
 * [Sourcegraph](https://sourcegraph.com/) - *Universal Code Search*
 * [searchcode](http://searchcode.com/) or [PublicWWW](http://publicwww.com/) - *Source Code Search*
