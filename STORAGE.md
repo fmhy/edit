@@ -1956,7 +1956,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Online Editors**
 
-* [Clideo](https://clideo.com/), [Kapwing](https://www.kapwing.com/), [InVideo](https://invideo.io/), [Biteable](https://biteable.com/), [Mastershot](https://mastershot.app/), [Panzoid](https://panzoid.com/), [KeepVid](https://keepvid.com/)
+[Clideo](https://clideo.com/), [Kapwing](https://www.kapwing.com/), [InVideo](https://invideo.io/), [Biteable](https://biteable.com/), [Mastershot](https://mastershot.app/), [Panzoid](https://panzoid.com/), [KeepVid](https://keepvid.com/)
 
 ***
 
