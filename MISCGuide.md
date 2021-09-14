@@ -821,6 +821,7 @@
 * [Mate Translate](https://gikken.co/mate-translate/chrome/) - *Translator*
 * [Spoiled](https://lucasrowe.github.io/spoiled/) - *Customizable Phrase / Spoiler Blocker*
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej) - *Discover Similar Webpages* 
+* [adam:ONE Assistant](https://chrome.google.com/webstore/detail/adamone%C2%AE-assistant/fdmpekabnlekabjlimjkfmdjajnddgpc?hl=en) - *Find Web Site Dependencies*
 * [Email Tracker](https://snov.io/email-tracker) - *Gmail Engagement Tracker*
 * [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - *View Extension Source Code* 
 * [NicoNico SPEENYA](https://github.com/chimerast/niconico-speenya) - *Presentation Style Comments*
