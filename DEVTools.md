@@ -142,7 +142,7 @@
 * [CuratedSEOTools](https://github.com/sneg55/curatedseotools) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization Tools*
 * [Geekflare Tools](https://gf.dev/toolbox) - *Site Testing Tools*
 * [Alexa Site Info](https://www.alexa.com/siteinfo) - *Site Traffic Stats / Analysis*
-* [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/),  [Network Tools](https://network-tools.com/) or [WebsiteScoop](https://websitescoop.com/) - *Site Domain / IP Tools*
+* [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/),  [Network Tools](https://network-tools.com/) or [WebsiteScoop](https://websitescoop.com/) - *Domain Info / IP Tools*
 * [Namechk](https://namechk.com/), [Username Checker](https://checkuser.org/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Username Availability Check*
 * [Pyfunceble](https://pyfunceble.github.io/#/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [DomComp](https://www.domcomp.com/) or [Domainr](https://domainr.com/) - *Domain Availability Check* 
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist*
