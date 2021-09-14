@@ -250,8 +250,8 @@
 
 ## ▷ Linux Software
 
-* [Awesome Linux](https://github.com/inputsh/awesome-linux), [2](https://luong-komorebi.github.io/Awesome-Linux-Software/) 
-* [FlabHub](https://flathub.org/)
+* [Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/), [2](https://github.com/inputsh/awesome-linux) 
+* [Flathub](https://flathub.org/)
 * [ArchLinux](https://wiki.archlinux.org/title/List_of_applications)
 * [App Outlet](https://app-outlet.github.io/)
 * [SnapCraft](https://snapcraft.io/store) 
