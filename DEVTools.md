@@ -55,6 +55,7 @@
 * [R for Data Science](https://r4ds.had.co.nz/) - *R Data Science Guide*
 * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) - *ggplot2 Guide*
 * [RubyMonk](https://rubymonk.com/) - *Ruby Tutorials* 
+* [Learn to Program](https://pine.fm/LearnToProgram/) - *Ruby Tutorials*
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) - *Rust Programming  Guidebook*
 * [JavaScript.info](https://javascript.info/) - *JavaScript Guide* 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - *Javascript Learning Books*
@@ -370,6 +371,7 @@
 * [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/), [Lite XL](https://lite-xl.github.io/), [Brackets](http://brackets.io/), [Notepad2](https://www.flos-freeware.ch/notepad2.html) or [Light Table](http://lighttable.com/) - *Code Editor* 
 * [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - *Emacs Packages*
 * [WebDen](https://webden.dev/) - *Code Playground*
+* [I run code](https://github.com/engineer-man/piston-bot) - *Evaluate Code Snippets via Discord*
 * [Shell Cloud](https://shell.cloud.google.com/) - *Google Cloud Shell Environment*
 * Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Config](https://github.com/ChristianChiarulli/LunarVim)
 * [Vim Plug](https://github.com/junegunn/vim-plug), [Vim Pathogen](https://github.com/tpope/vim-pathogen), [Vundle](https://github.com/VundleVim/Vundle.vim ), [Dein](https://github.com/Shougo/dein.vim) - *Vim Plugin Managers*
