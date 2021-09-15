@@ -82,9 +82,15 @@
 * **[TextFixer](https://www.textfixer.com/)** or **[OnlineTextTools](https://onlinetexttools.com/)** - *Multiple Text Tools*
 * **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_editors)** - *Text Editing Tools*
 * **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - *Grammar Checking Tools*
-* [TinyList](https://tinylist.app/) or [Simplenote](https://simplenote.com/) - *Notes / Checklist App* 
+* [Microsoft Office](https://rentry.org/officeguidefornoobs) / [Activation](http://github.com/massgravel/Microsoft-Activation-Scripts/releases) / [Download](https://tb.rg-adguard.net/public.php), [LibreOffice](https://www.libreoffice.org/), [FreeOffice](https://www.freeoffice.com/en/), [Office Tool Plus](https://otp.landian.vip/en-us/), [SSuite](https://www.ssuitesoft.com/software/ssuiteexcalibur.htm) or [OpenOffice](https://www.openoffice.org) - *Office Suite*
+* [Office 365 Activation / Tutorial](https://youtu.be/ScL4qjE5-TE) - *[Activators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_onedrive_generators)*
+* [OfficeRTool](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/) - *Office 2016 Activation Tool* 
 * [Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pastebins) - *Paste / Store Text Online*
 * [PrivNote](https://privnote.com/) or [IPNote](https://ipnote.io/) - *Notes that Auto Delete After Being Read* 
+* [calendso](https://calendso.com/) or [Tweek](https://tweek.so/) - *Calendar / Scheduling Tool / [GitHub](https://github.com/calendso/calendso)*
+* [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB), [GoogleKeepClone](https://github.com/anselm94/googlekeepclone), [DecksApp](https://decksapp.com/), [TinyList](https://tinylist.app/), [Simplenote](https://simplenote.com/) or [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) / [Github](https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App* 
+* [Glory Todo Desktop](https://github.com/yessGlory17/glory_todo_desktop) or [OpenToDoList](https://gitlab.com/rpdev/opentodolist) - *To-Do App* 
+* [Notion](https://www.notion.so/) - *Notes / Tasks / Wikis / Databases*
 * [KiloDoc](https://www.kilodoc.com/) - *Online Document Editor* 
 * [Nute](https://nute.app/) - *Quickly Make & Save Text Files*
 * [ZealDocs](https://zealdocs.org/) - *Documentation Reader*
@@ -103,13 +109,6 @@
 * [Count Duplicates](https://www.somacon.com/p568.php) or [MyNikko](http://www.mynikko.com/tools/tool_duplicateremover.html)- *Count / Remove Duplicates in a List*
 * [Count Wordsworth](http://countwordsworth.com/) - *Count Words in a List* 
 * [PDF Text Extraction](https://r3mlab.github.io/python/osint/2018/08/09/PDF-text-extraction.html) - *Extract Text from PDF Files* 
-* [calendso](https://calendso.com/) or [Tweek](https://tweek.so/) - *Calendar / Scheduling Tool / [GitHub](https://github.com/calendso/calendso)*
-* [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB), [GoogleKeepClone](https://github.com/anselm94/googlekeepclone), [DecksApp](https://decksapp.com/) or [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) / [Github](https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App* 
-* [Glory Todo Desktop](https://github.com/yessGlory17/glory_todo_desktop) or [OpenToDoList](https://gitlab.com/rpdev/opentodolist) - *To-Do App* 
-* [Notion](https://www.notion.so/) - *Notes / Tasks / Wikis / Databases*
-* [Microsoft Office](https://rentry.org/officeguidefornoobs) / [Activation](http://github.com/massgravel/Microsoft-Activation-Scripts/releases) / [Download](https://tb.rg-adguard.net/public.php), [LibreOffice](https://www.libreoffice.org/), [FreeOffice](https://www.freeoffice.com/en/), [Office Tool Plus](https://otp.landian.vip/en-us/), [SSuite](https://www.ssuitesoft.com/software/ssuiteexcalibur.htm) or [OpenOffice](https://www.openoffice.org) - *Office Suite*
-* [Office 365 Activation / Tutorial](https://youtu.be/ScL4qjE5-TE) - *[Activators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_onedrive_generators)*
-* [OfficeRTool](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/) - *Office 2016 Activation Tool* 
 * [OfficeDocs](https://www.offidocs.com/) - *Runs Desktop / Mobile Apps Online*
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - *Text / Code Collaboration Tools*
 * [Ethercalc](https://ethercalc.snopyta.org/), [Baserow](https://gitlab.com/bramw/baserow), [Framacalc](https://accueil.framacalc.org/en/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - *Collaborative Spreadsheet*
