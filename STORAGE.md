@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/LwT1411.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/3q39OOl.png)** - *For mobile users*
 
 ***
 ***
@@ -973,6 +973,19 @@ Add the following commands to a search to manually scrape each site.
 #### Nuke Anything
 
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/nuke-anything-enhanced/) / [Chrome](https://chrome.google.com/webstore/detail/nuke-anything/ghoehocgoliemjdnbjjcaohgofgpkfgg)
+
+***
+
+#### Office Suites
+
+* **[Microsoft Office](https://rentry.org/officeguidefornoobs)** / [Download](https://tb.rg-adguard.net/public.php) 
+* [LibreOffice](https://www.libreoffice.org/)
+* [FreeOffice](https://www.freeoffice.com/en/)
+* [Office Tool Plus](https://otp.landian.vip/en-us/)
+* [SSuite](https://www.ssuitesoft.com/software/ssuiteexcalibur.htm) 
+* [OpenOffice](https://www.openoffice.org)
+* [Office 365 Activation / Tutorial](https://youtu.be/ScL4qjE5-TE) - *[Activators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_onedrive_generators)*
+* [OfficeRTool](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/) - *Office 2016 Activation Tool* 
 
 ***
 
