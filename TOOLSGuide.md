@@ -1037,6 +1037,7 @@ General Reading Sites*
 * [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - *Debloat Adobe Apps*
 * [AATU](https://amdaputuningutility.com/) - *Ryzen Mobile Laptop Tuning Utility*
 * [NBFC](https://github.com/hirschmann/nbfc) - *Laptop Fan Control*
+* [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - *Modify & View Hidden Nvidia Settings *
 * [Nvidia-Patch](https://github.com/keylase/nvidia-patch) - *NVENC & NvFBC Patches*
 * [Disk Usage Analyzers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_disk_usage_analyzers) - *View & Manage Files on Disk*
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - *Disk Benchmarking Tool*
