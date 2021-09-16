@@ -1250,13 +1250,13 @@ General Reading Sites*
 * [download](https://github.com/kevva/download) - *File Download Tool / Extractor / [CLI](https://github.com/kevva/download-cli)*
 * [RollMyFile](https://rollmyfile.com/) - *Open Files Online*
 * [Tmp.Ninja](https://tmp.ninja/) - *Temp File Host (48hrs)*
-* [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - *How-To Safely Archive Files on Cloud Storage Sites*
+* [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - *How-to Safely Archive Files on Cloud Storage Sites*
 * [Filecrypt](https://filecrypt.cc/) - *Encrypt File Links*
 * [megabasterd](https://github.com/tonikelope/megabasterd) - *MEGA Downloader / Uploader / Streaming / Quota Bypass*
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - *Mega Download Script*
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) - *Mega to HTTP*
 * [Keep Mega Alive](https://github.com/3ncod3/keep-mega-alive) - *Mega Account Auto-Login*
-* [Unlimited Mega Storage](https://redd.it/ffrkf3) - *Unimited Mega Storage Guide*
+* [Unlimited Mega Storage](https://redd.it/ffrkf3), [Script](https://pastebin.com/4AXkE1yE) / [2](https://web.archive.org/web/20210830080806/https://pastebin.com/4AXkE1yE) - *Unlimited Mega Storage Guide*
 * [MegaBox](https://github.com/ALIILAPRO/megabox) or [GetMega](http://getmega.net/) / [2](https://vn.getmega.net/) - *Direct Mega Links* 
 * [GDrive Guides](https://t.me/gdriveguides) - *GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)*
 * [Torrent2Drive](https://t.me/torrent_2_drive), [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - *DDL to GDrive Tool*
