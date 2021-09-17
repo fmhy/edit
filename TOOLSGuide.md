@@ -98,7 +98,7 @@
 * [phraseup](http://www.phraseup.com/) - *Autocomplete Common Phrases* 
 * [PaperRater](https://www.paperrater.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - *Annotation Tools / Resources*
-* [DeepL](https://www.deepl.com/), [Metalune](https://translate.metalune.xyz/) / [2](https://gtranslate.metalune.xyz/), [Papago](https://papago.naver.com/), [Libretranslate](https://libretranslate.com/) / [2](https://github.com/uav4geo/LibreTranslate), [Translate.com](https://www.translate.com/), [Lingva](https://lingva.ml/), [Nice Translator](https://nicetranslator.com/) or [Yandex.Translate](https://translate.yandex.com/) - *Translator* 
+* [Translation Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_translation_sites) - *Online Translators*
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - *Document Translator* 
 * [LingoJam](https://lingojam.com/) - *Create Translator*
 * [Poedit](https://poedit.net/) - *Translation Editor*
@@ -215,7 +215,6 @@
 * [h265ize](https://github.com/FallingSnow/h265ize) - *HEVC encoder* 
 * [Unscreen](https://www.unscreen.com/) - *Remove Video Background* 
 * [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - *Steam Movie-Making Tool*
-* [ShareAE](https://www.shareae.com/), [HunterAE](https://hunterae.com/), [AERiver](https://aeriver.com/) or [DownAE](https://downae.com/) - *After Effects Templates*
 * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5) 
 * [zeroTube](http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb) - *Decentralized Video Platform on ZeroNet using WebTorrent + [GitHub](https://github.com/rllola/zeroTube/)*
 * [HoraHora](https://github.com/horahoradev/horahora) - *Self-Hosted Video Host*
@@ -223,13 +222,15 @@
 * [StreamLink](https://streamlink.github.io/) - *Extract Videos from Sites to Players* 
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - *Nico Nico Video Player*
 * [polsy.org.uk](http://polsy.org.uk/) - *Alt Players for Video Sites*  
-* [Mixkit](https://mixkit.co/), [Coverr](http://coverr.co/) or [Mazwai](https://mazwai.com/) - *Stock Videos / Templates* 
+* [Mixkit](https://mixkit.co/), [Coverr](http://coverr.co/), [Elements](https://elements.envato.com/) or [Mazwai](https://mazwai.com/) - *Stock Videos / Templates* 
+* [ShareAE](https://www.shareae.com/), [HunterAE](https://hunterae.com/), [AEShares](https://aeshares.com/), [AERiver](https://aeriver.com/) or [DownAE](https://downae.com/) - *After Effects Templates*
 * [video2x](https://github.com/k4yt3x/video2x) - *Video Upscaler*
 * [Anime4K](https://github.com/bloc97/Anime4K) - *Anime Video Upscaler* 
 * [Video Vault](https://www.bravenewtech.org/) - *Video Preservation Tool* 
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - *Duplicate Video Finder*
 * [WebcamTests](https://webcamtests.com/) - *Test your Webcam*
-* [IRuin](https://iriun.com/) - *Use Phone Camera as a Webcam*
+* [VCam](https://www.xsplit.com/vcam) - *Remove Webcam Background*
+* [DeepFaceLive](https://github.com/iperov/DeepFaceLive) - *Webcam Face Swap Tool*
 * [SimSwap](https://github.com/neuralchen/SimSwap) - *Video Face Swap Tool*
 * [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - *Deepfake Video Creator*
 * [4K Media](https://4kmedia.org/) - *Free 4K Video Demos*
@@ -397,6 +398,7 @@
 * [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - *RSS Feed for Sites Missing It*
 * [Consuming The World](https://weboas.is/forum/index.php?topic=656.0), [All about RSS](https://github.com/AboutRSS/ALL-about-RSS) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - *RSS Feeds & Tools*
 * [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - *GitHub, Reddit, Hacker News & other Feeds*
+* [sheet-posting](https://www.sheet-posting.me/) - *Convert Google Spreadsheets into Blogs & RSS Feeds*
 * [AutoSolve Captcha](https://hackgence.com/d/55-how-to-bypass-hcaptcha-autosolve-captcha) - *How to Bypass hCaptcha* 
 * [hcaptcha-solver](https://github.com/JimmyLaurent/hcaptcha-solver) - *hCaptcha Solver* 
 * [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - *Archive, Scrape & Crawl Sites* 
@@ -439,7 +441,7 @@
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - *Export Skype Chat Data to Readable Text*
 * [Jitsi](https://desktop.jitsi.org/index.html), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone) or [Briefing](https://brie.fi/ng) - *Video Chat* 
-* [Jam](https://jam.systems/), [GROK](https://grokat.com/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
+* [Jam](https://jam.systems/), [GROK](https://grokat.com/), [TeaSpeak](https://teaspeak.de/gb/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
 * [IMumble](https://www.imumble.nl/) - *Voice Chat Server*
 * [Branch](http://branch.gg/) or [Gather](https://gather.town/) - *Virtual World Voice Chat*
 * [FireStorm Viewer](https://www.firestormviewer.org/) - *Virtual World Viewer*
@@ -472,6 +474,7 @@
 * [open-ports](https://www.yougetsignal.com/tools/open-ports/) or [CanYouSeeMe](https://canyouseeme.org/) - *Port Forwarding Tester*
 * [DownloadTestr](http://txti.es/downloadtestr) - *Download Test Files to Test Download Speed* 
 * [Hotel WiFi Test](https://www.hotelwifitest.com/) - *Test Hotel WiFi Speeds* 
+* [NeverSSL](http://neverssl.com/) - *Fix Public WiFi Login Pages*
 * [YouTube](https://dlogic.lk/projects/youtubedatacalc.php), [Music Streaming](https://dlogic.lk/projects/music.php), [Netflix](https://dlogic.lk/projects/netflix.php), [Zoom](https://dlogic.lk/projects/zoom.php) - *Data Usage Calculators*
 * [IP2Proxy](https://www.ip2proxy.com/) - *Proxy / VPN IP Detector*
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) - *Prevent Firefox Memory Leaks* 
@@ -643,7 +646,7 @@ General Reading Sites*
 * [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - *Custom URL Handler*
 * [Xenu-Link](http://home.snafu.de/tilman/xenulink.html), [Cyotek-Webcopy](https://www.cyotek.com/cyotek-webcopy), [Dead Link Checker](https://www.deadlinkchecker.com/) or [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php) - *Broken Link Checker*
 * [W.A.R. Links Checker Premium](http://usa.x10host.com/mybb/showthread.php?tid=88) - *Checks If File Links are Alive or Not*
-* [SafeLinking](https://safelinking.net/), [UpToLink](https://uptolink1.com/), [BrBushare](https://brbushare.xyz/) or [ShortLinkto](https://shortlinkto.top/) - *Link Protectors* 
+* [SafeLinking](https://safelinking.net/), [Gdrivez](https://www.gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [BrBushare](https://brbushare.xyz/) or [ShortLinkto](https://shortlinkto.top/) - *Link Protectors* 
 * [WhoIsRequest](https://whoisrequest.com/) or [Securrity Whoiz](http://www.securrity.ru/whoiz.html) - *Domain Information Lookup* 
 * [Hosting Check](https://hostingchecker.com/) - *Site Host Checker*
 * [CarbonDates](http://carbondate.cs.odu.edu/) - *Check Site Creation Date* 
@@ -725,7 +728,7 @@ General Reading Sites*
 ***
 
 * **[Aliucord](https://github.com/Aliucord/Aliucord)** or [Treecord](https://github.com/Treecord/Treecord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client* 
-* **[BetterDiscord](http://betterdiscord.app/)** - *Modifiable Discord Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)*
+* **[BetterDiscord](http://betterdiscord.app/)** - *Modifiable Discord Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools) / [Web Client](https://github.com/Strencher/BdBrowser)*
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - *Discord Tools*
 * [Guilded](https://www.guilded.gg/) or [Revolt](https://revolt.chat/) - *Discord Alternative / [Client Mod](https://github.com/ReGuilded/ReGuilded/)*
 * [Ripcord](https://cancel.fm/ripcord/) - *Lighweight Discord & Slack Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ripcord_tools)* 
@@ -926,6 +929,7 @@ General Reading Sites*
 * [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - *GNU / Linux Twitch Desktop Client* 
 * [Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - *Download Twitch Chat Messages* 
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - *Add Subtitles to Twitch Stream*
+* [StreamLadder ](https://streamladder.com/) - *Social Media Templates for Twitch Clips*
 
 ***
 
@@ -1021,14 +1025,16 @@ General Reading Sites*
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - *Preinstallation Environment* 
 * [CD Key Reader](http://www.cathonian.com/software/cd-keyreader/) - *Find Key used to Install Windows*
 * [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) or [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - *Extended Windows 7 Updates* 
+* [Windows XP Service Pack 4](https://www.majorgeeks.com/files/details/windows_xp_service_pack_4_unofficial.html) - *Windows XP Unofficial Service Pack 4 / [Drive](https://drive.google.com/drive/folders/1Uh0VYjq1hcd4oY_zNzEqAar1m4NO2uTC?usp=sharing)*
 * [Wu10Man](https://github.com/WereDev/Wu10Man) - *Enable / Disable Windows 10 Updates*
 * [How-to Disable Windows 10 Updates](https://www.windowscentral.com/how-stop-updates-installing-automatically-windows-10)
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - *Enable Windows Insider without Account*
 * [TweakUtility](https://github.com/Craftplacer/TweakUtility) or [MagicX Toolbox](https://github.com/Ahsan40/MagicX-Toolbox) - *Windows Tweaking Utility*
+* [Couleur Tweak Tips](http://discord.gg/CTT) - *Windows Tweaks & Tips*
 * [SmartWindows](https://smartwindows.app/) - *Create / Restore Windows Profiles* 
 * [VirtualBox](https://www.virtualbox.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - *Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)*
 * [VMWare](https://gist.github.com/rkennesson/2c4595bf062aaab387dccf1210accf98) - *Hide Virtual Machine*
-* [Windows Sandbox](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview) - *Sandbox Environment*
+* [Windows Sandbox](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview) or [Sandboxie Plus](https://sandboxie-plus.com/) - *Sandbox Environment*
 * [WebCatalog](https://webcatalog.app/) - *Turn Sites into Desktop Apps*
 * [Heimdall](https://heimdall.site/) - *Application Manager*
 * [WinCDEmu](https://wincdemu.sysprogs.org/) - *CD/DVD/BD Emulator*  
@@ -1037,7 +1043,8 @@ General Reading Sites*
 * [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - *Debloat Adobe Apps*
 * [AATU](https://amdaputuningutility.com/) - *Ryzen Mobile Laptop Tuning Utility*
 * [NBFC](https://github.com/hirschmann/nbfc) - *Laptop Fan Control*
-* [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - *Modify & View Hidden Nvidia Settings *
+* [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) or [NVSlimmer](https://majorgeeks.com/files/details/nvslimmer.html) - *Customize NVIDIA Driver Packages*
+* [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - *Modify & View Hidden NVIDIA Settings *
 * [Nvidia-Patch](https://github.com/keylase/nvidia-patch) - *NVENC & NvFBC Patches*
 * [Disk Usage Analyzers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_disk_usage_analyzers) - *View & Manage Files on Disk*
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - *Disk Benchmarking Tool*
@@ -1049,6 +1056,7 @@ General Reading Sites*
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) or [Process Lasso](https://bitsum.com/) - *CPU Optimizer* 
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - *Laptop CPU Monitor / Optimizer*
 * [Memory-Cleaner](https://github.com/danskee/Memory-Cleaner) - *Memory Optimizer*
+* [MemTest](https://www.memtest.org/) - *Memory Diagnostic Tool*
 * [CPUid](https://www.cpuid.com/softwares/cpu-z.html) - *System Information Tool* 
 * [HWiNFO](https://www.hwinfo.com/) - *Hardware Analysis, Monitoring and Reporting*
 * [phwmon](https://gitlab.com/o9000/phwmon) - *System Tray Hardware Monitor*
@@ -1131,6 +1139,7 @@ General Reading Sites*
 * [Downloadkar](https://downloadkar.ir/) - *Device Drivers / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - *Display Driver Removal Tool*
 * [Scoop](https://scoop.sh/) - *Command-Line Installer* 
+* [Device Cleanup Tool](https://m.majorgeeks.com/files/details/device_cleanup_tool.html) - *Remove Non-Present Devices*
 * [VCRedist](https://github.com/abbodi1406/vcredist) - *AIO Repack for Microsoft Visual C++ Redists*
 * [UUP dump](https://uupdump.net/) - *Download Windows UUP files*   
 * [Dll Downloader](http://www.dlldownloader.com/) - *Download DLL Files for Windows* 
@@ -1256,7 +1265,7 @@ General Reading Sites*
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - *Mega Download Script*
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) - *Mega to HTTP*
 * [Keep Mega Alive](https://github.com/3ncod3/keep-mega-alive) - *Mega Account Auto-Login*
-* [Unlimited Mega Storage](https://redd.it/ffrkf3), [Script](https://pastebin.com/4AXkE1yE) / [2](https://web.archive.org/web/20210830080806/https://pastebin.com/4AXkE1yE) - *Unlimited Mega Storage Guide*
+* [Unlimited Mega Storage](https://redd.it/ffrkf3) - *Unlimited Mega Storage Guide*
 * [MegaBox](https://github.com/ALIILAPRO/megabox) or [GetMega](http://getmega.net/) / [2](https://vn.getmega.net/) - *Direct Mega Links* 
 * [GDrive Guides](https://t.me/gdriveguides) - *GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)*
 * [Torrent2Drive](https://t.me/torrent_2_drive), [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - *DDL to GDrive Tool*
