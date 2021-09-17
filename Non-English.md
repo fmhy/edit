@@ -347,7 +347,7 @@
 * [24DETV](https://www.24detv.de/) - *Live TV* 
 * [dtvd](https://dtvd.net/) or [liveschauen](https://liveschauen.com/) - *Live TV* 
 * [2ix2](https://www.2ix2.com/) or [fernsehen-de](https://www.fernsehen-de.com/) - *Live TV* 
-* [tvdelive](https://www.tvdelive.com/) or [tvpinto](https://www.tvpinto.com/) - *Live TV* 
+* [tvpinto](https://www.tvpinto.com/) - *Live TV* 
 * [hoerspielprojekt](https://www.hoerspielprojekt.de/) - *Radio Plays*  
 * [ProxerAndroid](https://github.com/proxer/ProxerAndroid) - *Android / Anime*
 * [Teapod](https://f-droid.org/packages/org.mosad.teapod) - *Android / Anime*
@@ -1143,6 +1143,7 @@
 * [0GoMovies](https://0gomovies.io/) - *Streaming / Movies / TV*
 * [JioRockers](http://www.jiorockers.uk/) - *Streaming / Movies*
 * [v100v.net](https://www.v100v.net/) - *Streaming / Movies*
+* [7MovieRulz](https://7movierulz.im/) - *Streaming / Movies*
 * [4MovieRulz](https://4movierulz.gg/) - *Download / Movies*
 * [Indian Flac Songs](https://t.me/indianflacsongs) - *Download / Music*
 * [TamilBlasters](https://tamilblasters.art/) - *Torrent / Movies*
