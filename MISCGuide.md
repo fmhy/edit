@@ -376,8 +376,6 @@
 * [Generative Engine](https://experiments.runwayml.com/generative_engine/) - *Text to Image Generator* 
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - *Create Room / Lo-Fi Player*
 * [Michaelbach](https://michaelbach.de/ot/) - *Optical Illusions* 
-* [nobody.live](https://nobody.live/) - *Zero Viewer Twitch Stream Roulette* 
-* [Pogged](https://pogged.tv/) - *Twitch Highlights Stream*
 * [Urlebird](https://urlebird.com/) - *3rd Party TikTok with better UI*
 * [AfterTheTone](https://afterthetone.com/) - *Random Answering Machine Messages*
 * [Gravity Points](https://codepen.io/akm2/full/rHIsa) or [Gravity](http://justfound.co/gravity/) - *Play with gravity* 
@@ -716,7 +714,6 @@
 * [Offline Mode](https://mybrowseraddon.com/offline-mode.html) - *Disconnect Browser from the Internet*
 * [Wayback Machine](https://github.com/internetarchive/wayback-machine-webextension), [Web Archives](https://github.com/dessant/web-archives) or [Archiveror](https://github.com/rahiel/archiveror) - *View Archived / Cached Webpages*
 * [WaybackEverywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox) - *Auto Load Archived Versions of Dead Pages*
-* [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - *Alt Twitch Player* 
 * [Wikiwand](https://www.wikiwand.com/) - *Wikipedia web / Mobile Reader* 
 * [Sticky Notes](https://blog.kumabook.tokyo/stickynotes/index.html) - *Browser Sticky Notes* 
 * [Draw on Page](https://mybrowseraddon.com/draw-on-page.html) - *Draw on Webpages*
@@ -747,6 +744,7 @@
 * [Bulk URL Opener](https://bulkurlopener.com/) - *Open Multiple URL's in One Click* 
 * [Forecastfox](http://www.s3blog.org/forecastfox.html) - *Weather Addon* 
 * [Timer](https://eccorem.com/apps/timer.html) - *Timer, Alarm & Stopwatch* 
+* [Dollchan](https://dollchan.net/) - *Imageboard Features*
 * [XKit](https://github.com/new-xkit/XKit) - *Make Tumblr More Usable*
 * [Breeze Duo for KDE Plasma](https://github.com/vfrico/firefox-breeze-duo) - *Breeze Theme for better KDE Integration* 
 * [WhatRuns](https://www.whatruns.com/) - *Discover what makes a site run* 
@@ -852,8 +850,8 @@
 * [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - *Select Text Inside Links* 
 * [Always Remember Me](https://openuserjs.org/scripts/Patabugen/Always_Remember_Me) - *Always tick "Remember Me"* 
 * [altsearch links](https://greasyfork.org/en/scripts/13542-altsearch-links) - *Adds search on other sites for google, bing, and yahoo*
-* [Twitch Screen Comment Scroller](https://greasyfork.org/en/scripts/376225-twitch-screen-comment-scroller) - *Auto Scroll Twitch Comments*
-* [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) - *Adds Features to Imageboards / [Themes](https://github.com/KevinParnell/OneeChan) / [GitHub](https://github.com/ccd0/4chan-x)* 
+* [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) - *Imageboards Features / [Themes](https://github.com/KevinParnell/OneeChan) / [GitHub](https://github.com/ccd0/4chan-x)* 
+* [Extra Flags for 4chan](https://gitlab.com/flagtism/Extra-Flags-for-4chan) - *Add More Flags to 4chan*
 * [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - *Google Search Endless Scrolling* 
 * [Google Hit Hider](https://openuserjs.org/scripts/jscher2000/Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites\)) - *Block Sites from Search Results* 
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - *Shows Images & Videos Behind Links & Thumbnails*
