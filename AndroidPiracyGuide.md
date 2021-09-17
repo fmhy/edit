@@ -46,6 +46,7 @@
 * [TrackerControl](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) - *Manage / Monitor Trackers*
 * [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard) - *Android 12-like Privacy Dashboard / [GitHub](https://github.com/RushikeshKamewar/PrivacyDashboard)*
 * [NetGuard](https://www.netguard.me/) - *Block Internet Access Per App* 
+* [leon](https://github.com/svenjacobs/leon) - *Remove URL Tracking Parameters*
 * [MaxLock](https://github.com/Maxr1998/MaxLock) - *Lock Apps Behind Passwords*
 * [AFWall+](https://github.com/ukanth/afwall/) or [NoRoot Firewall](https://play.google.com/store/apps/details?id=app.greyshirts.firewall) - *Firewall* 
 * [Security Addon](https://github.com/huntmix/securityaddon) - *Set Triggers & Measures that protect your Phone*
@@ -108,17 +109,19 @@
 * **[Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers) - *Multi-Platform Web Browsers*
 * [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi](https://kiwibrowser.com/), [Lynket](https://github.com/arunkumar9t2/lynket-browser) or [Lightning](https://github.com/anthonycr/Lightning-Browser) - *Android Only Browsers* 
 * [XDA](https://forum.xda-developers.com/) - *Android Discussion Forum*
-* [Will My Phone Work?](https://willmyphonework.net/) - *Phone Carrier Support Index* 
+* [Will My Phone Work?](https://willmyphonework.net/) or [FrequencyCheck](https://www.frequencycheck.com/) - *Phone Carrier Support Index* 
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - *Cell Carrier FCC Spectrum Map*
 * [MobileSpectrum](https://mobilespectrum.org/) - *Mobile Network Spectrum by Country*
 * [4G LTE Coverage](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b) - *4G LTE Coverage Map*
 * [AntennaSearch](http://www.antennasearch.com/) - *Cell Tower & Antenna Search*
-* [Kimovil](https://www.kimovil.com/en/) - *Compare Phones & Prices* 
+* [PhoneDB](https://phonedb.net/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - *Compare Phones & Prices* 
 * [DXOMARK](https://www.dxomark.com/) - *Smartphone Quality Testing*
+* [PhoneSized](https://phonesized.com/) - *Phone Size Comparisons*
 * [Don’t kill my app!](https://dontkillmyapp.com/) - *Manufacturer Battery Life vs. App Functionality*
 * [eBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) - *eBook / Audiobook Readers* 
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - *Note Taking Apps*
-* [Magisk](https://github.com/topjohnwu/Magisk/releases) - *Android Root Tool / [Mods](https://t.me/magiskmod_update)*
+* [Magisk](https://github.com/topjohnwu/Magisk/releases) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - *Android Root Tool / [Mods](https://t.me/magiskmod_update)*
+* [Amazing Temp Root](https://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - *MediaTek Temp Root*
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) - *Debloat non-rooted Androids*
 * [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - *Android Debloating Guide*
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - *Android Cleanup Tool*
@@ -151,7 +154,6 @@
 * [Boost](https://forum.mobilism.org/search.php?keywords=boost+for+reddit&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [Joey](https://forum.mobilism.org/search.php?keywords=joey+for+reddit&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [BaconReader](http://baconreader.com/) or [Relay](https://relayforreddit.com/index.html) - *Reddit Client*
 * [Lemmur](https://github.com/krawieck/lemmur) - *Lemmy Client*
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books*
-* [MALClient](https://github.com/Drutol/MALClient) or [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - *MyAnimeList Client*
 * [Uploadgram App](https://github.com/pato05/uploadgram-app) - *Uploadgram Frontend*
 * [Instander](https://thedise.me/instander/) - *Modded Instagram Client / [Telegram](https://t.me/instander)*
 * [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) - *Feature-rich Facebook Client*
@@ -207,7 +209,7 @@ App Manager
 * [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - *Food Product Ingredient Scanner*
 * [Language Drops](https://languagedrops.com/) or [10,000 Sentences](https://github.com/tkrajina/10000sentences) - *Language Learning App / [Premium](https://forum.mobilism.org/search.php?keywords=drops&sr=topics&sf=titleonly)*
 * [Manji](https://github.com/Livinglist/Manji) - *Language Learning / Japanese / Kanji*  
-* [Dev47Apps](https://www.dev47apps.com/) - *Use Phone as Webcam* 
+* [IRuin](https://iriun.com/), [Reincubate Camo](https://reincubate.com/camo/) or [Dev47Apps](https://www.dev47apps.com/) - *Use Android as Webcam* 
 * [GGMorse](https://github.com/ggerganov/ggmorse) - *Morse Code Decoding App*
 * [Haven](https://guardianproject.github.io/haven/) - *Turn Phone into Motion Detector* 
 * [Fire Toolbox](https://forum.xda-developers.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - *Fire Tablet Tools*
@@ -226,7 +228,7 @@ App Manager
 
 # ► Android APKs
 
-* **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** + [Android APK CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) - *Custom APK Search Engine*
+* **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) - *Custom APK Search Engine*
 * **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - *Modded APK Download Forum*
 * **[ModdedCentral](https://t.me/ModdedCentral)** or [ModdedPrivate](https://t.me/ModdedPrivate) - *Modded / Telegram*
 * **[APKMirror](https://www.apkmirror.com/)** - *Untouched*
@@ -260,6 +262,7 @@ App Manager
 * [APKSum](https://www.apksum.com/) - *Untouched / Modded* 
 * [A2Z APK](https://a2zapk.com/) - *Untouched / Modded*  
 * [RevDl](https://www.revdl.com/) - *Modded*  
+* [Sbenny](https://sbenny.com/) - *Modded*
 * [AndroidGameMods](https://www.androidgamemods.com/) - *Modded* 
 * [farsroid](https://www.farsroid.com/) - *Modded*
 * [APKTops](https://www.apktops.ir/) - *Modded*
@@ -290,11 +293,14 @@ App Manager
 * [Streamiza](https://t.me/streamiza) - *Modded / Telegram / [Discord](https://linktr.ee/Streamiza)*
 * [Gdrivehub Apps](https://t.me/gdrivehubapps) - *Modded / Telegram* 
 * [MODZILLA](https://t.me/Modzilla) - *Modded / Telegram*
+* [MixRoot Mods](https://t.me/Mixrootmods) - *Modded / Telegram*
+* [Android Games and Apps](https://t.me/Apps_and_Games_Android) - *Modded / Telegram*
 * [Cracked Apps](https://t.me/crackedapks) - *Modded / Telegram* 
 * [ReleaseAPK ](https://t.me/ReleaseAPK_Forum) - *Modded / Telegram*
 * [DroidApks](https://t.me/DroidApks) - *Modded / Telegram*
 * [apkmod_s](https://t.me/apkmod_s) - *Modded / Telegram*  
 * [Pro App Share](https://t.me/proappshare) - *Modded / Telegram*   
+* [Kwgt Widgets](https://t.me/Kwgt_widgets) - *Modded / Telegram*
 * [Software_Android_Apps_Games](https://t.me/Software_Android_Apps_Games) - *Modded / Telegram*   
 * [Awesome Android Kotlin Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) - *Kotlin App Index*
 * [Aero Apps](https://t.me/aerolla) - *Modded Social Media Apps*
@@ -324,6 +330,7 @@ App Manager
 * [TorrDroid](https://play.google.com/store/apps/details?id=intelligems.torrdroid) - *[Screenshot](https://i.imgur.com/HZ5Jpou.png)*
 * [WeTorrent](https://play.google.com/store/apps/details?id=co.we.torrent&amp;hl=en_US) - *[Screenshot](https://i.imgur.com/vrCk8Na.png)*
 * [BiglyBT](https://android.biglybt.com/) - *[Screenshot](https://i.imgur.com/WP7xwYK.png)* 
+* [Turbo Torrent](https://play.google.com/store/apps/details?id=co.turbotorrentapp.downloader) - *[Screenshot](https://i.imgur.com/d0DVzv2.png)*
 * [Transdroid](https://f-droid.org/packages/org.transdroid.full/) - *Manage BitTorrent clients* 
 * [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - *NZB / Torrent Manager* 
 * [iDope](https://idope.se/apk/down.html), [TorrHunt](https://torrhunt.pages.dev/) or [TorrSE](https://seedboxs.me/) - *Torrent Search*
@@ -465,6 +472,9 @@ RSS Player*
 * [AnimeFanz Tube](https://apkpure.com/anime-fanz-tube/com.animefanzapp.tube) - *Anime*
 * [KATSU](https://katsu.pw/) - [Discord](https://discord.gg/gjcy6MQ)
 * [Anime-DL](https://github.com/sharn25/Anime-DL-Android-Verison) - *Download Anime / [Discord](https://discord.gg/Ee3fegN)* 
+* [MALClient](https://github.com/Drutol/MALClient), [MyAnimeList Client](https://play.google.com/store/apps/details?id=net.myanimelist.app) or [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - *MyAnimeList Client*
+* [AL-chan](https://zend10.github.io/AL-chan/) or [Otraku](https://play.google.com/store/apps/details?id=com.otraku.app) - *AniList Client*
+* [AniLib](https://anilib.onrender.com/) - *Anime Tracker*
 
 ***
 
@@ -489,7 +499,7 @@ RSS Player*
 * [/r/jailbreak](https://reddit.com/r/jailbreak) - *Jailbreaking Subreddit*
 * [Sideloading Beginners Guide](https://redd.it/orqzau) - *iOS Sideloading Guide*
 * [/r/sideloaded](https://reddit.com/r/sideloaded) - *Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)*
-* [Sideloadly](https://iosgods.com/topic/130167-windowsmacosm1ios-15-introducing-sideloadly-working-cydia-impactor-alternative/) - *iOS Sideloading Tool*
+* [Sideloadly](https://iosgods.com/topic/130167-windowsmacosm1ios-15-introducing-sideloadly-working-cydia-impactor-alternative/) or [iPAWiND](https://ipawind.com/) - *Sideloading Tool*
 * [Jailbreak 13.5 Tweak Compatibility List](https://docs.google.com/spreadsheets/d/1cHL_bIcmON2L5euBM8NDk0SZ8w-VUE6oY3USbVqaLnA/edit?usp=sharing) - *Find out what tweaks are compatible with the 13.5* 
 * [IPSW](https://ipsw.me/) - *Provides Jailbreak firmware*
 * [Julioverne](https://julio.hackyouriphone.org/) - *Jailbreaking Tools* 
@@ -588,8 +598,6 @@ RSS Player*
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books*
 * [GlobeConvert](https://apps.apple.com/us/app/globeconvert-currency-units/id334851202) - *Currency / Unit Converter*
 * [Measure](https://apps.apple.com/us/app/measure/id1383426740) - *Turn iPhone / iPad into Tape Measure*
-* [Katarogu](https://apoorvaaditya.github.io/katarogu/) or [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - *MyAnimeList Client*
-* [Otraku](https://github.com/lotusgate/otraku) - *AniList App*
 * [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303) or [NetNewsWire](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210) - *RSS Reader*
 * [Grffe](https://apps.apple.com/ca/app/grffe-wallpapers/id1521368829) - *Static and Live Backgrounds* 
 * [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - *Wallpapers*
@@ -742,6 +750,8 @@ RSS Player*
 
 * [NineAnimator](https://nineanimator.marcuszhou.com/) - *[Discord](https://discord.gg/dzTVzeW)*
 * [Tweaked Crunchyroll ++](http://www.iosemulatorspot.com/tweaked-crunchyroll/) - *Tweaked Crunchyroll*
+* [Katarogu](https://apoorvaaditya.github.io/katarogu/), [MyAnimeList Client](https://apps.apple.com/us/app/myanimelist-official/id1469330778) or [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - *MyAnimeList Client*
+* [Otraku](https://github.com/lotusgate/otraku) - *AniList App*
 
 ***
 
