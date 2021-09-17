@@ -46,6 +46,8 @@
 * [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [LiGHT Repack Archive](https://drive.google.com/drive/folders/1q4lRUnwVhMQuakl1yM8OH1Je9_92LpXE)
+* [silentycrying's Game Drive](https://drive.google.com/drive/u/0/folders/1K1FdNbEu9-_wy8vn9sE768VojXqu6Fnp) 
+* [Cracked Games](https://drive.google.com/drive/u/0/folders/1923I8RvjiE112Fzca1WshxMIwlL338Ea)
 * [DLFox](https://www.dlfox.com/)
 * [Dirty Games](https://www.dirtygames.xyz/)
 * [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
@@ -55,7 +57,7 @@
 * [g4u](https://g4u.to/) - *Password: 404*
 * [GoodOldDownloads Backup](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view)
 * [PCGames-Download Backup](https://1fichier.com/?hy7lsbep6bqtu4loy1j6)
-* [FreeToGame](https://www.freetogame.com/games) or [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - *F2P Games*
+* [FreeToGame](https://www.freetogame.com/games), [Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) or [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - *F2P Games*
 * [LibreGameWiki](https://libregamewiki.org/List_of_games) - *FOSS Games* 
 * [itch.io](https://itch.io/games/new-and-popular/featured/free) or [Game Jolt](https://gamejolt.com/games?price=free) - *Indie Games* 
 * [Open Source Game Clones](https://osgameclones.com/) - *Game Clones*
@@ -77,7 +79,6 @@
 * [Minetest](https://www.minetest.net/) - *F2P Minecraft Alternative* 
 * [Unciv](https://github.com/yairm210/Unciv) - *Civ V Remake*
 * [London 2038](https://london2038.com/) - *London 2038 Multiplayer Revival Project*
-* [Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25BA_free_stuff) 
 * [Vapor Store](https://github.com/SushyDev/vapor-store) - *Pirated Game Store / [Discord](https://discord.gg/Y4ECqXN) / Works w/ [steamunlocked](https://steamunlocked.net/all-games/)*
 * [/r/RepackWorld](https://reddit.com/r/RepackWorld) - *Repack Subreddit*
 
@@ -196,7 +197,7 @@
 
 * **[No-Intro](https://archive.org/details/no-intro_romsets)**, [2](https://archive.org/details/No-Intro-Collection_2016-01-03_Fixed), [3](https://archive.org/details/No-Intro-Collection_2016-09-06) - *Roms*
 * **[AlvRo](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml)**, [2](https://pastebin.com/79q1mdZm) - *Roms*
-* **[RomCenter](https://r-roms.github.io/)**, [2](https://rentry.co/24ufx), [3](https://pastelink.net/26nlj) - *Roms*
+* **[RomCenter](https://r-roms.github.io/)**, [2](https://rentry.co/24ufx), [3](https://pastelink.net/26nlj), [4](https://rentry.co/vin7x) - *Roms*
 * [TheRomDepot](https://theromdepot.com/) - *Roms*
 * [@Storage_Manager](https://archive.org/details/@storage_manager) - *Roms / Zip* 
 * [FinalBurn Neo](https://archive.org/details/2020_01_06_fbn) - *Roms / Zip* 
@@ -478,6 +479,7 @@
 * [PROXX](https://proxx.app/) - *Space Minesweeper*
 * [Rockbasher](https://www.rockbasher.com/) - *Retro Style Puzzle Game*
 * [Blocks](https://theblocks.netlify.app/) - *Puzzle Game* 
+* [Treksit](https://treksit.com/index.html) - *Puzzle Game*
 * [Game about Squares](http://gameaboutsquares.com/) - *Puzzle Game*
 * [Euclidea](https://www.euclidea.xyz/) - *Geometric Puzzles*
 * [Menneske](https://www.menneske.no/eng/) - *Number Puzzles* 
@@ -555,6 +557,7 @@
 * [HOTU](http://www.homeoftheunderdogs.net/) - *Rare Video Game Database*
 * [Movie-Censorship](https://www.movie-censorship.com/) - *Compare Alternate Versions of Media* 
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Greatest 100 Lists*
+* [libib](https://www.libib.com/) - *Desktop Media Catalog*
 
 ***
 
