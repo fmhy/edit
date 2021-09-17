@@ -308,6 +308,7 @@
 
 * **[Sacred Text Archive](https://www.sacred-texts.com/index.htm)** - *Religion / Mythology / Folklore / Esoterica*
 * **[ARCHIVES](https://discord.gg/occult)** - *Occult / Witchcraft / Religion*
+* **[The Echerdex](https://www.echerdex.com/)** - *Esoterica / [Subreddit](https://www.reddit.com/r/Echerdex/) / [Repository](https://www.echerdex.com/index.php/repository/), [2](https://rentry.co/echlinkss) / [Discord](https://discord.gg/dS5X3d7ype)*
 * **[WiLd's Occult Ebook Sources](https://justpaste.it/WiLdOccultEbooks)** - *Occult / Esoterica*
 * [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2) - *Occult*
 * [GodChecker](https://www.godchecker.com/) - *Learn about Gods from different Religions*
@@ -365,6 +366,7 @@
 * [English Torah](http://englishtorah.com/) - *Torah Translation*
 * [Halakhah](https://www.halakhah.com/) - *Talmud Translation*
 * [Targum](http://targum.info/targumic-texts/) - *Targum Translation*
+* [Sunnah.com](https://sunnah.com/) - *Hadith Translation*
 * [84000](https://read.84000.co/) - *Buddhism*
 * [BuddhaNet](http://www.buddhanet.net/) - *Buddhism*
 * [Sankaracharya](http://www.sankaracharya.org/index.php) - *Hinduism*
@@ -407,6 +409,7 @@
 * [HerbologyY](https://t.me/HerbologyY) - *Herbology / Telegram*
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - *Hypnosis / Telegram*
 * [files.afu.se](https://files.afu.se/Downloads/) - *UFO Books, Documents, Magazines ect.*
+* [Archive of Our Own](https://archiveofourown.org/) - *Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)*
 * [The Trove](https://thetrove.is/) - *Books / Fantasy / TTRPG / [Wayback Machine](https://web.archive.org/web/20210614215400/https://thetrove.is/), [2](https://web.archive.org/web/20210430220147/https://thetrove.is/) / [Unofficial Discord](https://discord.gg/GwTuGr7N8p)*
 * [Choisey](http://choisey.free.fr/) or [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - *TTRPG Rulebooks*
 * [Cinema EBooks Collection](https://mega.nz/folder/Fc5HjABT#kDNrkB97DPt9L_dysk4jCw) - *Cinema Books*
@@ -589,7 +592,7 @@
 
 * **[TheFreeLibrary](https://www.thefreelibrary.com/)** - *Articles*
 * **[Sci-Hub](https://sci-hub.se/)** - *Science article viewer*
-* **Sci-Hub Tools** - *[Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down) / [Telegram Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [Download Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button) / [PDF Download](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub)*
+* **Sci-Hub Tools** - *[Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button) / [PDF Download](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub)*
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - *How to bypass article paywalls*
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) - *Bypass Scientific Document Paywalls* 
 * [unpaywall](https://unpaywall.org/) - *Bypass Scholarly Article Paywalls*
@@ -640,6 +643,7 @@
 * [ndltd](http://search.ndltd.org/) - *Search theses and dissertations* 
 * [UBIRA eTheses](https://etheses.bham.ac.uk/) - *Theses* 
 * [oatd](https://oatd.org/) - *Theses / Dissertations* 
+* [WorldBank](https://www.worldbank.org/en/home) - *Poverty Solution Research & Data*
 * [CIA Publications](https://www.cia.gov/resources/publications/) - *History / Reports*
 * [The Black Vault](https://www.theblackvault.com/) - *Declassified Documents*
 * [DDOS](https://ddosecrets.com/) - *Transparency Collective*
@@ -983,6 +987,7 @@
 * [All Anime](https://allanime.site/) - *Manga*
 * [vndb](https://vndb.org/) - *Visual Novel*  
 * [rate.house](https://rate.house/) - *Media Tracker*
+* [libib](https://www.libib.com/) - *Desktop Media Catalog*
 * [MythBank](https://mythbank.com/) - *Media Timelines / Watch Orders* 
 
 ***
@@ -1055,8 +1060,6 @@
 * [Raven Reader](https://ravenreader.app/) - *Article Reader / Manager* 
 * [Cubari](https://cubari.moe/) - *Image Proxy / Reader*
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - *Read Books in Browser*
-* [Knock](https://github.com/BentonEdmondson/knock) - *Convert ACSM files to DRM-Free EPUB files*
-* [Ebook Sender](https://telegram.me/to_kindle_bot) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - *Send Ebooks to Kindle*
 
 ***
 
@@ -1066,6 +1069,9 @@
 * [BookCut](https://github.com/costis94/bookcut) - *eBook Download Tool* 
 * [Borrow Only DL Script](https://redd.it/ofcqds) or [Archive 1 Hour Download](https://docs.google.com/spreadsheets/u/0/d/1x9JHIVEa6_2cwpmxgUymF5OAoHZbXCO3Qh9gQVAHuR0/htmlview#gid=0) - *Download Borrow Only Archive.org Books*
 * [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - *Google Book Downloader w/ Proxy Support*
+* [Knock](https://github.com/BentonEdmondson/knock) - *Convert ACSM files to DRM-Free EPUB files*
+* [Kindle to PDF](https://redd.it/bm837l) - *Kindle to PDF Conversion Guide*
+* [Ebook Sender](https://telegram.me/to_kindle_bot) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - *Send Ebooks to Kindle*
 * [bunken](https://github.com/laxyapahuja/bunken) - *Download eBooks directly from Goodreads*
 * [ExtractBookz](https://hub.darcs.net/JasonJAyalaP/ExtractBookz) - *Extract & Rename Ebook Files / [GitHub](https://github.com/JasonJAyalaP/ExtractBookz)*
 * [Skimcast](http://www.skimcast.com/), [SummaryGenerator](https://summarygenerator.com/), [Text Rewriter](http://textrewriter.com/), [Resoomer](http://www.resoomer.com/), [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn) or [SMMRY](https://smmry.com/) - *Summary Generator* 
