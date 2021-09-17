@@ -104,7 +104,7 @@
 * [latestation](http://radio.late.city/) - *Late-Night Radio*
 * [LISTEN.moe](https://listen.moe/)  - *K-Pop Radio*
 * [Fountain of Dreams](https://fountainofdreams.net/) - *Japanese 80's Radio* 
-* [Rainwave](https://rainwave.cc/) - *Video Game Music Radio*
+* [Rainwave](https://rainwave.cc/), [Squid Radio](https://www.squid-radio.net/) or [Sitting On Clouds Radio](https://www.sittingonclouds.ru/) - *Video Game Music Radio*
 * [Nectarine](https://www.scenestream.net/demovibes/streams/) - *Demo Scene Music Radio*
 * [Radio Garden](https://radio.garden/) - *Worldwide Radio*
 * [Radiooooo](https://radiooooo.com/) - *Radio / Time Machine*
@@ -184,7 +184,7 @@
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - *Music Download Tool* 
 * [RipMe](https://github.com/RipMeApp/ripme) - *Bulk Album Downloader*  
 * [Spytify](https://jwallet.github.io/spy-spotify/overview.html) or [spy-spotify](https://github.com/jwallet/spy-spotify) - *Record / Download Spotify Songs*
-* [Savify](https://github.com/LaurenceRawlings/savify), [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) or [spotDL](https://github.com/spotDL/spotify-downloader) - *Download Spotify Songs via YouTube* 
+* [Savify](https://github.com/LaurenceRawlings/savify), [spotify-downloader](https://github.com/rickyrorton/spotify-downloader/), [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) or [spotDL](https://github.com/spotDL/spotify-downloader) - *Download Spotify Songs via YouTube* 
 * [smd](https://github.com/artyshko/smd) - *Download Spotify Songs / Linux*
 * [Deezer2DriveBot](https://t.me/deezer2drivebot) - *Deezer & Qobuz to GDrive Bot*
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - *Bandcamp Downloader*
@@ -339,10 +339,13 @@
 * [Best Ever Albums](https://www.besteveralbums.com/index.php) - *Discover Albums*
 * [Tunefind](https://www.tunefind.com/) - *Find Music from Movies / TV* 
 * [MusicGenreTree](https://www.musicgenretree.org/chart.html) - *Discover New Music by Genre*
+* [generasia](https://www.generasia.com/) - *Asian Music Wiki*
+* [dbkpop](https://dbkpop.com/) - *K-Pop Database*
 * [Music.ishkur](http://music.ishkur.com/) - *Electronic Music Guide* 
-* [Every Noise at Once](http://everynoise.com/) - *Music samples of any genre*
+* [Every Noise at Once](http://everynoise.com/) - *Music Genre Samples*
 * [Listening Together](https://listeningtogether.atspotify.com/) - *Tracks Each Time Two People Play the Same Song*
 * [rate.house](https://rate.house/) - *Media Tracker*
+* [libib](https://www.libib.com/) - *Desktop Media Catalog*
 
 ***
 
