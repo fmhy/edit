@@ -358,6 +358,7 @@
 * [peekier](https://peekier.com/)
 * [WhaleSlide](https://whaleslide.com/)
 * [Infinity](https://infinitydecentralized.com/)
+* [Kagi](https://kagi.com/) 
 * [ekoru](https://ekoru.org/)
 * [Runnaroo](https://www.runnaroo.com/) 
 * [Gibiru](https://gibiru.com/) 
@@ -406,7 +407,7 @@
 * **[WireGuard](https://www.wireguard.com/)** - *VPN Tunnel*
 * [Perfect Privacy](https://www.perfect-privacy.com/) - *[Pricing](https://i.imgur.com/Rtfwu2t.png) / [More Info](https://i.imgur.com/Y9MRLcg.png)*
 * [IVPN](https://www.ivpn.net/) - *[Pricing](https://i.imgur.com/Iq92wOO.png) / [More Info](https://i.imgur.com/8MDJoYQ.png) / [Free Trial](https://redd.it/nzjmqa)*
-* [ExpressVPN](https://www.expressvpn.com) - *[Pricing](https://i.imgur.com/c1Gzjac.png) / [More Info](https://i.imgur.com/jx7Qz70.png)*
+* [ExpressVPN](https://www.expressvpn.com) - *[Pricing](https://i.imgur.com/c1Gzjac.png) / [More Info](https://i.imgur.com/jx7Qz70.png) / [Linux GUI](https://github.com/bourretbrandon/expressvpn-gui)*
 * [Trust.Zone](https://trust.zone/) - *[Pricing](https://i.imgur.com/PsRa8GD.png) / [More Info](https://i.imgur.com/zryWzqX.png)*
 * [blackVPN](https://www.blackvpn.com/) - *[Pricing](https://i.imgur.com/uqMeG0b.png) / [More Info](https://i.imgur.com/5U3qjoF.png)*
 * [AirVPN](https://airvpn.org/) - *[Pricing](https://i.imgur.com/TMU1Qtt.png) / [More Info](https://i.imgur.com/nM6wDgz.png)*
@@ -456,7 +457,8 @@
 * [FoxyProxy](https://getfoxyproxy.org/) or [Snowflake](https://snowflake.torproject.org/) - *Proxy browser extension*
 * [Fri-Gate](https://fri-gate.org/) - *Advanced Proxy Settings Addon*  
 * [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - *Limit proxy usage by private windows* 
-* [Hitch](https://hitch-tls.org/) - *SSL / TLS proxy* 
+* [Hitch](https://hitch-tls.org/) - *SSL / TLS Proxy*
+* [SSHPOWER](https://www.sshpower.net/) - *SSH & SSL Tunneling Servers*
 
 ***
 
@@ -468,6 +470,7 @@
 * [Hide.me](https://hide.me/en/proxy)
 * [KProxy](https://www.kproxy.com/)
 * [Free Proxy](https://freeproxy.win/)
+* [Blockaway](https://www.blockaway.net/)
 * [VPN Book](https://www.vpnbook.com/webproxy)
 * [Hidester](https://hidester.com/proxy/)
 * [Sitenable](http://sitenable.in/) 
