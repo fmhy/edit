@@ -63,6 +63,7 @@
 * [animesilver](https://www.animesilver.com/) - *Anime*
 * [animetv](https://www.animetv.ge/) - *Anime*
 * [fomny](http://fomny.com/Home/index.php) - *Live TV* 
+* [livehd7](https://www.livehd7.top/) - *Live Football*
 
 ## ▷ Reading
 
@@ -144,12 +145,14 @@
 * [v.qq](https://v.qq.com/) - *Movies / TV / Anime*
 * [MoMoVOD](https://momovod.tv/) - *Movies / TV / Anime*
 * [uvod.tv](https://www.uvod.tv/) - *Movies / TV / Anime*
+* [imaple.co](https://imaple.co/) - *Movies / TV / Anime*
 * [2Tucc](http://www.2tu.cc/) - *Movies / TV / Anime*
 * [IcDrama](http://icdrama.video/) - *Movies / TV*
 * [cmdy365](https://www.cmdy365.cc/) - *Movies / TV / Anime*
 * [Meiju](https://www.meiju11.com/) or [iMeiju](https://www.imeiju.net/) - *Movies / TV*
 * [Nunu Cinema](https://www.nunuyy.com/) - *Movies / TV*
 * [Fun.tv](http://www.fun.tv/) - *Movies / TV*
+* [Segoideas](https://segoideas.com/) - *Taiwanese Dramas*
 * [qiqi8](http://qiqi8.net/) - *Anime*
 * [AGE動漫](https://agefans.tw/) - *Anime*
 * [music.163](https://music.163.com/) - *Music*
@@ -245,7 +248,7 @@
 ## ▷ Torrenting
 
 * [torrent9](https://www.torrent9.so/) - *Video / Audio / Books / Roms / Software*
-* [Torrent9](https://www.torrent9.so/) or [OXTorrent](https://www.oxtorrent.cc/) - *Video Audio / Software / Games / Roms / Books* 
+* [Torrent9](https://www.torrent9.so/) or [OXTorrent](https://www.oxtorrent.nz/) - *Video Audio / Software / Games / Roms / Books* 
 
 ## ▷ Streaming
 
@@ -340,6 +343,7 @@
 * [dctp.tv](https://www.dctp.tv/) - *Documentaries*
 * [dokuh.de](https://www.dokuh.de/) - *Documentaries*  
 * [doku](http://doku.me/) - *Documentaries*
+* [Stiftung imai](https://www.stiftung-imai.de/) - *Video Archive*
 * [24DETV](https://www.24detv.de/) - *Live TV* 
 * [dtvd](https://dtvd.net/) or [liveschauen](https://liveschauen.com/) - *Live TV* 
 * [2ix2](https://www.2ix2.com/) or [fernsehen-de](https://www.fernsehen-de.com/) - *Live TV* 
@@ -564,6 +568,7 @@
 * [mangaraid](https://mangaraid.com/) - *Manga / NSFW* 
 * [MangaBox](https://www.mangabox.me/) - *Manga* 
 * [DLRaw](https://dlraw.net/) - *Manga*
+* [MangasRaw](https://mangas-raw.com/) - *Manga*
 * [13DL](http://13dl.net/) - *Manga / Novels / NSFW*
 * [dl-raw](https://dl-raw.net/) - *Manga / Novels / NSFW*
 * [jpraw](https://jpraw.net/) - *Manga / NSFW*
@@ -833,7 +838,7 @@
 * [MDROCK](https://vk.com/mdrock) - *Rock / MP3*
 * [KinoMuzic](https://kinomuzic.ucoz.ru/) - *Books / Soundtracks*
 * [soundkino](https://www.soundkino.biz/) - *Soundtracks*
-* [androeed](https://www.androeed.ru/) - *Android* 
+* [androeed](https://www.androeed.ru/) - *Android*
 * [4pda](https://4pda.ru/forum/) - *Android / iOS*
 * [PDALIFE](https://pdalife.ru/) - *Android / iOS / PSP*  
 * [Course Hunter](https://coursehunter.net/) - *Programming / Courses* 
@@ -963,6 +968,7 @@
 * [Foro Warez](https://forowarez.net/) - *Video / Audio / Software / Games / Books / Comics* 
 * [ChileComparte](http://www.chilecomparte.cl/) - *Video / Audio / Software / Books / Magazines / Comics / Android* 
 * [CompucaliTV](https://www.compucalitv.com/) - *Video / Software / Games*
+* [ZonaLeRoS](https://www.zona-leros.net/) - *Video / Games*
 * [GamesMega](https://gamesmega.net/) - *Games / Roms* 
 * [divxonline](https://www.divxonline.tv/) - *Movies / TV* 
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - *Movies*
@@ -1139,7 +1145,8 @@
 * [v100v.net](https://www.v100v.net/) - *Streaming / Movies*
 * [4MovieRulz](https://4movierulz.gg/) - *Download / Movies*
 * [Indian Flac Songs](https://t.me/indianflacsongs) - *Download / Music*
-* [TamilBlasters](https://tamilblasters.unblockit.onl/) - *Torrent / Movies*
+* [TamilBlasters](https://tamilblasters.art/) - *Torrent / Movies*
+* [TamilMV](https://www.1tamilmv.sbs/) - *Torrent / Movies*
 * [indianebooks](https://t.me/indianebooks) - *Books*
 * [Digital Library of India](https://dli.sanskritdictionary.com) - *Books*
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - *Radio*
@@ -1158,6 +1165,7 @@
 * [KlikFilm](https://klikfilm.org/) - *Serbian / Streaming / Movies / TV*
 * [GeezLibrary](https://t.me/GeezLibrary) - *Amharic / Books*
 * [filma24](https://www.filma24.ai/) - *Albanian / Streaming / Movies / TV*
+* [Segoideas](https://segoideas.com/) - *Taiwanese / Streaming / TV*
 * [lupiteam](https://lupiteam.net/) - *Corsican / Manga*
 * [RÚV](https://www.ruv.is/ruv) - *Icelandic / Live TV*
 * [KannadaCine](https://www.kannadacine.com/) - *Kannada / Streaming / Movies*
