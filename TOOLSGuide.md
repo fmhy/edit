@@ -485,6 +485,7 @@
 * [tumblr-crawler](https://github.com/ZenulAbidin/tumblr-crawler) - *Download tumblr photos/videos* 
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils) - *Tumblr Utilities* 
 * [ChanThreadWatch](https://github.com/SuperGouge/ChanThreadWatch) - *Imageboard Thread Watcher* 
+* [FlagHunter](https://gitlab.com/flagtism/flaghunter) - *Find Rare Imageboard Flags*
 * [Awesome ActivityPub](https://github.com/BasixKOR/awesome-activitypub) - *List of ActivityPub based projects* 
 * [Percollate](https://github.com/danburzo/percollate) - *Format Pages for PDF / EPub / HTML*
 * [StartOS](https://startos.app/) - *90's Themed Startpage / [Github](https://github.com/Jaredk3nt/startos)* 
@@ -702,7 +703,6 @@ General Reading Sites*
 * [Reddit Comment Search](https://www.redditcommentsearch.com/) - *Search Reddit Comments* 
 * [Reddit Faster](https://github.com/dimaba/redditfaster) or [/r/](https://chrome.google.com/webstore/detail/r/cnccilamloafialmchgfgmbmojdfhmom) - *Open Subreddits Faster*
 * [Find on Reddit](https://chrome.google.com/webstore/detail/find-on-reddit/jbcdpeekakanklckgooknpbonojhjncm) - *Find Discussions of current URL*
-* [KoalaBear](https://www.koalabear.nl/reddit) - *Check if URL has been posted*
 * [RedditRepostSleuth](https://github.com/barrycarey/RedditRepostSleuth) - *Repost Detection Bot*
 * [subreddit-scraper](https://github.com/naftulikay/subreddit-scraper) - *Backup Entire Subreddits* 
 * [Reddit Desktop Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_desktop_apps) 
@@ -919,13 +919,19 @@ General Reading Sites*
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) - *Streaming Tools Index*
 * [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-dl](https://github.com/ihabunek/twitch-dl) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  *Download Twitch Videos* 
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - *Lightweight Twitch Webplayer*
+* [Twitchls](https://twitchls.com/) or [StreamSniper](https://www.streamsniper.tv/) - *HTML5 Twitch Stream Player* 
+* [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - *Alt Twitch Player* 
+* [Twitch-Desktop](https://github.com/twitch-desktop/twitch-desktop) - *Twitch Desktop Client* 
 * [Multi](https://multi.raredrop.co/) or [TwitchTheater](https://twitchtheater.tv/) - *Watch Multiple Twitch Streams* 
 * [Livestream Panels](https://livestreampanels.com/) - *Custom Twitch Stream Panels*
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - *Fix Twitch Aspect Ratio*
-* [PogU.live](https://pogu.live/) - *Watch Twitch Sub-Only Videos*
+* [Twitch Screen Comment Scroller](https://greasyfork.org/en/scripts/376225-twitch-screen-comment-scroller) - *Auto Scroll Twitch Comments*
+* [Points Autoclicker](https://github.com/xinitrc-dev/twitch-points-autoclicker) - *Auto Claim Twitch Points*
+* [Twitch Previews](https://github.com/MarkM-dev/Twitch-Previews) - *Twitch Video Previews*
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - *Twitch Browser for Streamlink* 
-* [Twitchls](https://twitchls.com/) or [StreamSniper](https://www.streamsniper.tv/) - *HTML5 Twitch Stream Player* 
-* [Twitch-Desktop](https://github.com/twitch-desktop/twitch-desktop) - *Twitch Desktop Client* 
+* [PogU.live](https://pogu.live/) - *Watch Twitch Sub-Only Videos*
+* [nobody.live](https://nobody.live/) - *Zero Viewer Twitch Stream Roulette* 
+* [Pogged](https://pogged.tv/) - *Twitch Highlights Stream*
 * [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - *GNU / Linux Twitch Desktop Client* 
 * [Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - *Download Twitch Chat Messages* 
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - *Add Subtitles to Twitch Stream*
@@ -1043,8 +1049,9 @@ General Reading Sites*
 * [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - *Debloat Adobe Apps*
 * [AATU](https://amdaputuningutility.com/) - *Ryzen Mobile Laptop Tuning Utility*
 * [NBFC](https://github.com/hirschmann/nbfc) - *Laptop Fan Control*
-* [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) or [NVSlimmer](https://majorgeeks.com/files/details/nvslimmer.html) - *Customize NVIDIA Driver Packages*
+* [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - *Manage & Control NVIDIA Cards*
 * [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - *Modify & View Hidden NVIDIA Settings *
+* [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) or [NVSlimmer](https://majorgeeks.com/files/details/nvslimmer.html) - *Customize NVIDIA Driver Packages*
 * [Nvidia-Patch](https://github.com/keylase/nvidia-patch) - *NVENC & NvFBC Patches*
 * [Disk Usage Analyzers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_disk_usage_analyzers) - *View & Manage Files on Disk*
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - *Disk Benchmarking Tool*
@@ -1194,7 +1201,7 @@ General Reading Sites*
 * [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) - *Theme Source Patcher*
 * [Windows-Ricing](https://github.com/winthemers/windows-ricing) - *Rice Windows*
 * [LineStep](http://litestep.net/) - *Customize Deskstop Interface*
-* [OpenRGB](https://openrgb.org/) - *System Lighting Control / [GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)*
+* [OpenRGB](https://openrgb.org/), [LiquidCTL](https://github.com/liquidctl/liquidctl) or [Aurora](https://github.com/antonpup/Aurora) - *System Lighting Control / [GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)*
 * [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - *Audio Visualizer / FX Engine for Keyboards, Mice & Accessories*
 * [Mechvibes](https://mechvibes.com/) or [MechaKeys](https://mechakeys.robolab.io/) - *Keyboard Soundpacks*
 * [Accent Applicator](https://github.com/mcdenis/AccentApplicator) - *Applies Win 10 Accent Color to OS*
@@ -1632,8 +1639,8 @@ General Reading Sites*
 * [Awesome Minecraft](https://github.com/bs-community/awesome-minecraft) - *Minecraft Resource Index*  
 * [Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods) - *Minecraft Mod Collections* 
 * [Minecraft Optimization Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_optimization_mods) - *Improve Minecrafts Performance*
-* [Minecraft QOL Mods](https://rentry.co/mc-qol) - *Minecraft Quality of Life Mod List*
-* [Charm](https://svenhjol.github.io/Charm/) - *Mincraft Quality of Life Mod*
+* [Charm](https://svenhjol.github.io/Charm/) or [Quark](https://quarkmod.net/) - *Mincraft Quality of Life Mod*
+* [Minecraft QOL Mods](https://rentry.co/mc-qol) or [sk1er.club](https://sk1er.club/) - *Minecraft Quality of Life Mod List*
 * [LambdAurora](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754) - *Minecraft OptiFine Alternatives for Fabric*
 * [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - *Minecraft Utility Mod*
 * [MineColab](https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb) / [GitHub](https://github.com/thecoder-001/MineColab), [Minehut](https://www.minehut.com/), [ScalaCube](https://scalacube.com/), [FreeMC.Host](https://freemc.host/), [PloudOS](https://ploudos.com/), [Tuinity](https://github.com/Tuinity/Tuinity) or [Aternos](https://aternos.org/) - *Host Free Minecraft Servers*
@@ -1643,11 +1650,14 @@ General Reading Sites*
 * [Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers) 
 * [tLauncher](https://tlauncher.org/en/), [Salwyrr Launcher](https://www.salwyrr.com/) or [MultiMC5-Cracked](https://github.com/AfoninZ/MultiMC5-Cracked) - *Free Premium Minecraft Launchers*
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) - *Minecraft Modding API* 
-* [Amidst](https://github.com/toolbox4minecraft/amidst) - *Minecraft World Overview Display Tool*
-* [The Minecraft Archive Project](http://map.crummy.com/) - *Minecraft World Archive*
 * [PVPRP](https://pvprp.com/) - *Minecraft Texture Packs*
 * [Nova Skin](https://minecraft.novaskin.me/), [NeedCoolShoes](https://www.needcoolshoes.com/) or [Blockbench](https://www.blockbench.net/)- *Minecraft Skin Editor* 
+* [Amidst](https://github.com/toolbox4minecraft/amidst) - *Minecraft World Overview Display Tool*
+* [The Minecraft Archive Project](http://map.crummy.com/) - *Minecraft World Archive*
 * [Amulet](https://www.amuletmc.com/) - *Minecraft Map Editor / Viewer*
+* [Terra](https://github.com/PolyhedralDev/Terra) - *Minecraft World Generator*
+* [TerraForged](https://www.curseforge.com/minecraft/mc-mods/terraforged) - *Improved Biomes Mod*
+* [Biomes-O-Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) - *Extra Biomes Mod*
 * [Classic Minecraft](https://classic.minecraft.net/) - *Play Classic Minecraft* 
 * [Minetest](https://www.minetest.net/) - *F2P Minecraft Alternative* 
 * [Baritone](https://github.com/cabaletta/baritone) - *Minecraft Pathfinding System*
