@@ -32,6 +32,7 @@
 * [Awesome IRC](https://github.com/davisonio/awesome-irc) - *IRC Resource Index*
 * [xdccget](https://github.com/Fantastic-Dave/xdccget) - *XDCC IRC Downloader*
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - *Search Pastebin Directories*
+* [Data Horde](https://datahorde.org/) - *Data Archivist Group*
 
 ***
 
