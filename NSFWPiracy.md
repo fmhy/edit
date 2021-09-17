@@ -67,7 +67,7 @@
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "nsfw"
 * [1TB [P]RON](https://mega.nz/folder/jGJTWShL#bYF2lqReJjlFblroOgGNTw/folder/WC41Gaqb) - *Porn Drive*
 * [400 GB @OnlyfanDrive](https://mega.nz/folder/opICgJAY#ulwaZ34Jupcnjh96jD7f0Q/) - *OnlyFans*
-* [Porn GDrives](https://redd.it/l3ugp6/), [2](https://photos.app.goo.gl/VtK9Aj3Vnbr2Pohc8), [3](https://photos.app.goo.gl/v7PdoDowqDhRRpa47), [4](https://photos.app.goo.gl/M8xBKo6CPtHRCUcC8), [5](https://drive.google.com/drive/folders/1cOAi2Ne4rldowhR5xEMI4Fc0mI-GA8iI?usp=sharing)
+* [Porn GDrives](https://redd.it/l3ugp6/), [2](https://photos.app.goo.gl/VtK9Aj3Vnbr2Pohc8), [3](https://photos.app.goo.gl/v7PdoDowqDhRRpa47), [4](https://photos.app.goo.gl/M8xBKo6CPtHRCUcC8), [5](https://drive.google.com/drive/folders/1cOAi2Ne4rldowhR5xEMI4Fc0mI-GA8iI?usp=sharing), [6](https://groups.google.com/u/1/g/adult-sic), [7](https://groups.google.com/u/1/g/viperph)
 * [PornFactors](http://pornfactors.com/) 
 * [RaidForums NSFW](https://raidforums.com/Forum-Not-Safe-For-Work)
 * [Best-MovieZ](https://www.best-moviez.ws/category/porn-18/) 
@@ -159,6 +159,8 @@
 * [TachiyomiSY](https://tachiyomi.org/forks/TachiyomiSY/) - *Hentai Android Client*
 * [Hentoid](https://github.com/avluis/Hentoid) or [Hendroid](https://www.f-droid.org/en/packages/org.nonononoki.hendroid/) - *Hentai Archiving Android App*
 * [nhentai](https://github.com/RicterZ/nhentai) - *Downloader for nhentai*
+* [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - *Booru Client / [Telegram](https://t.me/Flexbooru/161)*
+* [RedditBooru](https://redditbooru.com/) - *Booru Image Search*
 
 ***
 
@@ -182,7 +184,6 @@
 * [Porn-Vault](https://github.com/porn-vault/porn-vault) or [Stash](https://github.com/stashapp/stash) - *Porn File Manager*
 * [reddnight](https://reddnight.com/) - *NSFW Reddit Client*
 * [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/) - *NSFW Reverse Image Search*
-* [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - *Booru Client / [Telegram](https://t.me/Flexbooru/161)*
 * [Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button) - *Quickly Close All Tabs*
 * [Chaturbate Enhanced](https://openuserjs.org/scripts/stixmaster/Chaturbate_Enhanced) or [Chaturbate Clean](https://openuserjs.org/scripts/ladroop/Chaturbate_Clean) - *Improve Chaturbate Functionality*
 * [Sleazy Fork](https://sleazyfork.org/) - *Adult User Scripts*
