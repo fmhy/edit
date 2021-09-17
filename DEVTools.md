@@ -120,6 +120,7 @@
 * [Ainize](https://ainize.ai/) - *Launchpad for open-source AI projects*
 * [DBeaver](https://dbeaver.io/) - *Universal Database Tool*
 * [DoIt](https://github.com/dolthub/dolt) - *SQL Database* 
+* [Libraries.io](https://libraries.io/) - *Package, Framework & Tool Search*
 * [Deps.dev](https://deps.dev/) - *Open-Source Package Search*
 * [Balena](https://www.balena.io/) - *Build / Manage  IoT Groups*
 * [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) - *Bug Bounty Resources*
