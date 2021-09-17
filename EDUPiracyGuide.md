@@ -92,7 +92,7 @@
 ## ▷ Courses
 
 * **[freesoff](https://freesoff.com/)** - *Courses*
-* **[TutFlix](https://tutflix.com/)** - *Courses / Mega Host / [Forum](https://tutflix.org/)* 
+* **[TutFlix](https://tutflix.org/)** - *Courses / Drives* 
 * **[Large Collection of Useful Mega DL's](https://pastebin.com/ZMtZa2JV)** - *Courses / Drives*
 * [Iit jee lectures](https://t.me/Iitjeeinveins2) - *Lectures / Telegram*   
 * [downloadly](https://downloadly.ir/) - *Courses*
@@ -276,13 +276,16 @@
 * [Space Dashboard](https://spacedashboard.com/) - *Space Live Stream Dashboard* 
 * [ISS Sim](https://iss-sim.spacex.com/) - *ISS Docking Simulator* 
 * [Satellite Imagery](https://rammb-slider.cira.colostate.edu/) - *Satellite Imagery GOES-16*
+* [Space Weather News](https://spaceweathernews.com/) - *Space Weather Updates / [Videos](https://www.youtube.com/user/Suspicious0bservers)*
 * [Andegraf Rockets](http://rockets.andegraf.com/) - *Rocket Diagrams*
 * [Interactive Apollo Missions](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - *Apollo in Real Time* 
 * [Moon.Nasa](https://moon.nasa.gov/) - *Explore the Moon* 
 * [Earth and Moon Viewer](http://www.fourmilab.ch/cgi-bin/Earth) - *Earth / Moon Latitude & Longitude Viewer*
 * [SunCalc](https://www.suncalc.org/) or [MoonCalc](https://www.mooncalc.org/) - *Sun & Moon Position / Phase Calculators* 
+* [SDO Dashboard](https://sdo.gsfc.nasa.gov/data/dashboard/) - *Live Sun Feed*
 * [CelesTrack](https://celestrak.com/) - *Earth Orbit Visualization*
 * [Mars Explorer](https://mars-explorer.dhaiwatpandya.com/) - *Curiosity Rover Pictures*
+* [Mars Now](https://mars.nasa.gov/explore/mars-now/) - *Mars Exploration Program Simulator*
 * [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/) - *Interactive Index of Moons* 
 * [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) - *Solar System Scale Model*
 * [3DSolarSystem](https://theskylive.com/3dsolarsystem) - *Solar System Simulator* 
