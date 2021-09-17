@@ -36,6 +36,7 @@
 * [Lagunita](https://online.stanford.edu/lagunita-learning-platform) - *Courses* 
 * [Hillsdale College](https://online.hillsdale.edu/) - *Courses* 
 * [SelfSchool](https://selfschool.me/) - *Courses*
+* [NPTEL](https://nptel.ac.in/course.html) - *Courses*
 * [LearnOutLoud](https://www.learnoutloud.com/) - *Documentaries / Courses*
 * [Class Central](https://www.classcentral.com/) - *Search for Courses*
 * [cs1000](https://cs1000.vercel.app/) - *Educational Video Playlists* 
@@ -399,6 +400,7 @@
 * [AuthorStream](http://www.authorstream.com/) or [Slideshare](https://www.slideshare.net/) - *Watch / Share Slideshows & Presentations* 
 * [Periodic Stats](https://periodicstats.com/), [The Periodic Table Of Elements](https://periodictableofchemicalelements.com/), [3D Periodic Table](https://artsexperiments.withgoogle.com/periodic-table/) or [Ptable](https://ptable.com/) - *Interactive Periodic Table* 
 * [Images-Of-Elements](https://images-of-elements.com/) - *Periodic Table With Images*
+* [Retrosynthesis](http://retrosynthesis.com/) - *Organic Retrosynthesis Engine / [GitHub](https://github.com/sudo-rushil/odachi)*
 * [amrita olabs](https://amrita.olabs.edu.in/) - *Science Practicals / Theory / Animations / Simulations* 
 * [Get Unstuck](https://socratic.org/) - *Homework Answers / Help* 
 * [Oak National Academy](https://teachers.thenational.academy/) - *Lessons / Quizzes*
