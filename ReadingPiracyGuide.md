@@ -160,7 +160,7 @@
 * [/r/Freenookbooks](https://reddit.com/r/Freenookbooks/)
 * [/r/bookdownloads](https://reddit.com/r/bookdownloads/)
 * [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
-* [Brunken](https://github.com/talhabw/bunken) - *Add Download Links to Goodreads*
+* [Library Extension](https://www.libraryextension.com/) - *Check Local Libraries Online*
 
 ***
 
@@ -978,7 +978,7 @@
 
 # ► Tracking / Discovery
 
-* **[GoodReads](https://www.goodreads.com/)** - *Books / Comics / Manga*
+* **[GoodReads](https://www.goodreads.com/)** - *Books / Comics / Manga / [DL Button](https://github.com/laxyapahuja/bunken)*
 * **[TasteDive](https://tastedive.com/)** - *Recommendations* 
 * **[MyAnimeList](https://myanimelist.net/)** - *Manga*
 * [Litsy](https://www.litsy.com/) - *Book Recommendation / Photo Sharing Community*
@@ -1020,8 +1020,6 @@
 # ► eBook Readers
 
 * **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** - *List of Ebook Readers*
-* **[EBook Converters](https://wiki.mobileread.com/wiki/E-book_conversion)** - *List of Ebook Converters*
-* **[Kindle Comic Converter](https://kcc.iosphe.re/)** - *Convert book files to ePub*
 * **[Google Play Books](https://play.google.com/books)** - *Store Pirated Books / Get Meta Data Automatically*
 * **[Foxit](https://www.foxitsoftware.com/pdf-reader/)** - *PDF Reader / PC / Android / iOS / Linux / Mac*
 * **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - *Manager / Reader / Android*
@@ -1065,25 +1063,24 @@
 
 # ► Helpful Sites / Apps
 
-* [Readarr](https://readarr.com/) - *Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)*
-* [BookCut](https://github.com/costis94/bookcut) - *eBook Download Tool* 
-* [Borrow Only DL Script](https://redd.it/ofcqds) or [Archive 1 Hour Download](https://docs.google.com/spreadsheets/u/0/d/1x9JHIVEa6_2cwpmxgUymF5OAoHZbXCO3Qh9gQVAHuR0/htmlview#gid=0) - *Download Borrow Only Archive.org Books*
-* [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - *Google Book Downloader w/ Proxy Support*
+* **[EBook Converters](https://wiki.mobileread.com/wiki/E-book_conversion)** - *List of Ebook Converters*
+* **[Kindle Comic Converter](https://kcc.iosphe.re/)** - *Convert EBooks to EPUB*
 * [Knock](https://github.com/BentonEdmondson/knock) - *Convert ACSM files to DRM-Free EPUB files*
+* [txtpaper](https://txtpaper.com/) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - *Webpage to Ebook Converter*
+* [Skimcast](http://www.skimcast.com/), [SummaryGenerator](https://summarygenerator.com/), [Text Rewriter](http://textrewriter.com/), [Resoomer](http://www.resoomer.com/), [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn) or [SMMRY](https://smmry.com/) - *Summary Generator* 
+* [FiveFilters](https://www.fivefilters.org/) - *Multiple Article Accessibility Tools*
+* [Bypass Quora login](https://onehack.us/t/bypass-quora-login-for-unlimited-reading-new-method-legal/92786)
 * [Kindle to PDF](https://redd.it/bm837l) - *Kindle to PDF Conversion Guide*
 * [Ebook Sender](https://telegram.me/to_kindle_bot) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - *Send Ebooks to Kindle*
-* [bunken](https://github.com/laxyapahuja/bunken) - *Download eBooks directly from Goodreads*
-* [ExtractBookz](https://hub.darcs.net/JasonJAyalaP/ExtractBookz) - *Extract & Rename Ebook Files / [GitHub](https://github.com/JasonJAyalaP/ExtractBookz)*
-* [Skimcast](http://www.skimcast.com/), [SummaryGenerator](https://summarygenerator.com/), [Text Rewriter](http://textrewriter.com/), [Resoomer](http://www.resoomer.com/), [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn) or [SMMRY](https://smmry.com/) - *Summary Generator* 
+* [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - *Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)*
+* [BookCut](https://github.com/costis94/bookcut) - *Ebook Download Tool* 
+* [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - *Google Book Downloader w/ Proxy Support*
+* [Borrow Only DL Script](https://redd.it/ofcqds) or [Archive 1 Hour Download](https://docs.google.com/spreadsheets/u/0/d/1x9JHIVEa6_2cwpmxgUymF5OAoHZbXCO3Qh9gQVAHuR0/htmlview#gid=0) - *Download Borrow Only Archive.org Books*
 * [FicSave](http://ficsave.xyz/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - *Fanfiction Download Tool* 
+* [ExtractBookz](https://hub.darcs.net/JasonJAyalaP/ExtractBookz) - *Extract & Rename Ebook Files / [GitHub](https://github.com/JasonJAyalaP/ExtractBookz)*
+* [Sigil Ebook](https://sigil-ebook.com/) - *EPUB Editor*
 * [SmartStich](https://github.com/MechTechnology/SmartStitch) - *Stitch Together Webtoons*
-* [Library Extension](https://www.libraryextension.com/) - *Check book availability from your local library*
-* [Bypass Quora login](https://onehack.us/t/bypass-quora-login-for-unlimited-reading-new-method-legal/92786)
-* [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) or [Remove eBook DRM](https://apprenticealf.wordpress.com/) - *Remove ebook DRM*
-* [RemoveWatermark](https://github.com/ShadonSniper/RemoveWatermark) - *IT EBook Watermark Remover*
-* [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - *eBook Torrent Auto Search*
-* [HowLongToRead](https://howlongtoread.com/) - *Find out how long a book takes to read*
-* [FanFicFare](https://github.com/JimmXinu/FanFicFare) - *Generate eBooks from Stories / Fanfiction*
-* [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - *Turn Webpages into eBooks*
-* [Sigil Ebook](https://sigil-ebook.com/) - *Epub Editor*
-* [FiveFilters](https://www.fivefilters.org/) - *Multiple Article Accessibility Tools*
+* [FanFicFare](https://github.com/JimmXinu/FanFicFare) - *Generate Ebooks from Stories / Fanfiction*
+* [HowLongToRead](https://howlongtoread.com/) - *Average Book Reading Times*
+* [RemoveWatermark](https://github.com/ShadonSniper/RemoveWatermark) - *IT Ebook Watermark Remover*
+* [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) or [Remove Ebook DRM](https://apprenticealf.wordpress.com/) - *Remove Ebook DRM*
