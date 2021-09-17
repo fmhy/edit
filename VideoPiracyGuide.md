@@ -801,7 +801,6 @@
 * [Subscene](https://subscene.com/) - *Subtitles* 
 * [SubDL](https://subdl.com/) - *Subtitles* 
 * [Addic7ed](https://www.addic7ed.com/) - *Subtitles* 
-* [Subtitles.hr](https://www.subtitles.hr/) - *Subtitles* 
 * [Podnapisi](https://www.podnapisi.net/) - *Subtitles* 
 * [Subsplease](https://subsplease.org/) - *Subtitles* 
 * [opensubtitles.com](https://www.opensubtitles.com/) - *Subtitles* 
