@@ -17,13 +17,14 @@
 * **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - *Read / Download Programming Books* 
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - *Git Learning Game*
 * [Developer.Mozilla](https://developer.mozilla.org/) - *Developer Resources* 
+* [Roadmap](https://roadmap.sh/) - *Developer Roadmaps / Guides* 
 * [Python Discord](https://pythondiscord.com/resources/) - *Python Learning Resources*
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - *Python Guide*
 * [CodingBat](https://codingbat.com/) - *Python / Java Practice*
 * [Python4Everyone](https://py4e.com/) - *Python Lessons*
 * [Real Python](https://realpython.com/) - *Python Tutorials*
 * [Tea Press](https://greenteapress.com/wp) - *Free Python Learning Books Green*
-* [Roadmap](https://roadmap.sh/) - *Developer Roadmaps / Guides* 
+* [VSCode.one](https://vscode.one/) - *VS Code Tutorials*
 * [Aquent Gymnasium](https://thegymnasium.com/) - *Courses* 
 * [SchoolOfHaskell](https://www.schoolofhaskell.com/) - *Haskell Tutorials* 
 * [QuickRef.ME](https://quickref.me/) or [Devhints](https://devhints.io/) - *Developer Cheat Sheets*
@@ -137,6 +138,7 @@
 ## ▷ Site Development 
 
 * **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)** - *Host Sites for Free*
+* [Website Planet Tools](https://www.websiteplanet.com/webtools/) - *Site Development Tools*
 * [Uncensorable Publishing](https://uncensorablepublishing.com/) - *Create Hard to Censor Sites*
 * [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [psddd](https://psddd.co/) or [Freebiesbug](http://freebiesbug.com/)  - *Web Design Resources*
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
@@ -178,7 +180,7 @@
 * [Booster](https://booster.js.org/) - *Website Performance / Speed Optimizer* 
 * [Bypass Cloudflare](https://github.com/jychp/cloudflare-bypass) - *Bypass Coudflare Bot Protection*
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - *Check Sites for Cloudflare*
-* [LibreCaptcha](https://github.com/librecaptcha/lc-core) - *Self-Hosted, Privacy Respecting CAPTCHAs*
+* [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - *Captcha Systems*
 * [GetButton](https://getbutton.io/) - *Get free 'Message Us' Button for your Site*
 * [Let's Encrypt](https://letsencrypt.org/) - *Free TLS Certificates*
 * [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - *Free SSL Certificates*
@@ -203,7 +205,7 @@
 * [Sight](https://github.com/tsenart/sight) - *Syntax Highlighter for Chrome* 
 * [Website Grader](https://website.grader.com/) - *Website Grading Tool*
 * [ngrok](https://ngrok.com/) - *Introspectable Tunnels to Localhost Tools*
-* [gpldl](https://gpldl.com/), [freegetdownloader](https://www.freegetdownloader.com/) or [babiato](https://babiato.co/) - *Wordpress Themes*
+* [gpldl](https://gpldl.com/), [allwpworld](https://allwpworld.com/), [freegetdownloader](https://www.freegetdownloader.com/) or [babiato](https://babiato.co/) - *Wordpress Themes*
 
 ***
 
@@ -243,7 +245,7 @@
 
 ## ▷ Game Development
 
-* [Godot](https://godotengine.org/) - *Game Engine / Open-Source / 2D / 3D*
+* [Godot](https://godotengine.org/) or [ursina engine](https://www.ursinaengine.org/) - *Game Engine*
 * [RPG Playground](https://rpgplayground.com/) - *Simple RPG Creator*
 * [Game-Editor](http://game-editor.com/Main_Page) - *Game Creator*
 * [Kaboomjs](https://kaboomjs.com/) - *Quickly Make Games with Javascript*
@@ -341,7 +343,7 @@
 
 * [SpyColor](https://www.spycolor.com/) - *Color Model Conversions*
 * [Colorful](https://github.com/Siddharth11/Colorful) - *Curated List of Color Scheme Resources* 
-* [Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/) or [Coolors](https://coolors.co/) - *Color Palette Generator*
+* [Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [MyColor](https://mycolor.space/) or [Coolors](https://coolors.co/) - *Color Palette Generator*
 * [ColorsAndFonts](https://www.colorsandfonts.com/) - *Quickly Copy Colors & Typography Combinations* 
 * [ColorHexa](https://www.colorhexa.com/) - *Color Hex Encycolopedia* 
 * [Paletton](https://paletton.com/) - *Color Scheme Designer*
@@ -368,7 +370,7 @@
 * [Regex101](https://regex101.com/) - *Regex Editor / Debugger* 
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - *Creative Coding Resource Index* 
 * [Algorithm Visualizer](https://algorithm-visualizer.org/) - *Visualize Code Algorithms* 
-* [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/), [Lite XL](https://lite-xl.github.io/), [Brackets](http://brackets.io/), [Notepad2](https://www.flos-freeware.ch/notepad2.html) or [Light Table](http://lighttable.com/) - *Code Editor* 
+* [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/), [Lite XL](https://lite-xl.github.io/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [Notepad2](https://www.flos-freeware.ch/notepad2.html) or [Light Table](http://lighttable.com/) - *Code Editor* 
 * [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - *Emacs Packages*
 * [WebDen](https://webden.dev/) - *Code Playground*
 * [I run code](https://github.com/engineer-man/piston-bot) - *Evaluate Code Snippets via Discord*
