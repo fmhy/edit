@@ -53,6 +53,7 @@
 * [Peelopaalu](https://peelopaalu.neocities.org/) - *Site / Tool Index*
 * [RefDesk](https://www.refdesk.com/facts.html) - *Site / Tool Index*
 * [Illegal Services](https://git.teknik.io/Illegal-Services/Illegal_Services) - *Site / Tool Index App [Discord](https://discord.gg/577AWghYtx)*
+* [Product Hunt](https://www.producthunt.com/) - *Site / Tool Index*
 * [Useful Interweb](https://usefulinterweb.com/) - *Daily Website Index*
 * [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - *Chinese Site / Tool Index*
 * [Mostly Free](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - *Site / Tool Index*
@@ -412,6 +413,8 @@
 * [Pokémon Fusion](https://pokemon.alexonsager.net/) - *Fuse Pokémon*
 * [Poke Palettes](https://pokepalettes.com/) - *Pokemon Color Palettes* 
 * [Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - *Pokemon Resource Index* 
+* [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) - *Terminal Pokemon Sprites*
+* [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - *Terminal Color Scripts*
 * [Awesome Chess](https://github.com/hkirat/awesome-chess) - *Chess Resource Index*  
 * [Awesome Go/Baduk/Weiqi](https://github.com/yanchick/awesome-GoBadukWeiqi) - *Go/Baduk/Weiqi Resource Index* 
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - *Unused Video Game Content Research*
@@ -535,7 +538,9 @@
 * [DarkSky](https://maps.darksky.net/) - *Weather Maps*
 * [Windy](https://www.windy.com/) - *Wind Map* 
 * [Air Now](https://gispub.epa.gov/airnow/) or [Breezometer](https://www.breezometer.com/air-quality-map/) - *Air Quality Map*
+* [Global Hyrdo Data](https://www.esri.com/arcgis-blog/products/product/water/global-hydro-data-its-here-here-here/) - *Global Hydro Data / Mapping*
 * [River Runner](https://river-runner.samlearner.com/) - *River Map*
+* [Gloric](https://www.hydrosheds.org/page/gloric) - *River Type Database / Mapping*
 * [Earth](https://earth.nullschool.net/) - *Global Map of Wind, Weather, Ocean & Pollution Conditions*
 * [SunCalc](https://www.suncalc.org/) or [MoonCalc](https://www.mooncalc.org/) - *Sun & Moon Position / Phase Calculators* 
 * [Wikimapia](http://wikimapia.org/) - *Online Editable Map*
