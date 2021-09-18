@@ -436,7 +436,7 @@
 * [Rose](https://t.me/MissRose_bot) - *Telegram Group Manager*
 * [TGCF](https://github.com/aahnik/tgcf) - *Telegram Message Forwarding*
 * [Userge](http://theuserge.tech/) - *Multi-Tool Telegram Bot*
-* [Matrix Public Homeservers](https://publiclist.anchel.nl/) - *Free Matrix Home Servers* 
+* [Matrix Public Homeservers](https://publiclist.anchel.nl/) or [Conduit](https://gitlab.com/famedly/conduit) - *Matrix Home Servers* 
 * [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) - *Matrix Server List*
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - *Export Skype Chat Data to Readable Text*
@@ -525,7 +525,7 @@
 * [Netbox](https://netbox.global/) - *Blockchain Backed Browser*
 * [Luakit](https://luakit.github.io/) - *Lightweight Linux Browser* 
 * [woob](https://woob.tech/) - *Use Sites Without a Browser*
-* [Lagrange](https://github.com/skyjake/lagrange)  - *Gemini Browser
+* [Lagrange](https://github.com/skyjake/lagrange)  - *Gemini Browser*
 * [StockBrowser](https://stackbrowser.com/) - *Multi Web App Browser*
 * [NeverInstall](https://neverinstall.com/en-IN) - *Browser OS*
 * [Browserling](https://www.browserling.com/) - *Browser Emulators*
@@ -772,6 +772,7 @@ General Reading Sites*
 * [Divider Generator](https://jsfiddle.net/Davri/wf49xnob/159/) - *Create Discord Role Dividers Discord Role*
 * [MonitoRSS](https://monitorss.xyz/) - *RSS Discord Bot*
 * [Discord Music Bot](https://github.com/SudhanPlayz/Discord-MusicBot), [2](https://github.com/Androz2091/discord-music-bot), [3](https://github.com/ZerioDev/Music-bot), [4](https://github.com/jagrosh/MusicBot) - *Self-Hosted Music Bots*
+* [Discord-Music-System](https://github.com/RemyK888/discord-music-system) - *Discord Music Module*
 * [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - *Discord Keyboard Lighting Notifications*
 * [Permissions Calculator](https://discordapi.com/permissions.html) - *Generate Discord OAuth Invites*
 * [CloneCord](https://github.com/Rekulous/CloneCord-bot) - *GClone Cloud Storage File Manager in Discord*
@@ -819,7 +820,7 @@ General Reading Sites*
 * [Guild Counter](https://rauf.wtf/guildcount) - *Check how many servers you're in*
 * [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - *Preview Role Colors Role*
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - *Encode videos to <8MB*
-* [Movata](https://movata.cc/) - *Video Stream Sync / Watch Parties*
+* [Movata](https://movata.cc/) or [Discord Together](https://github.com/RemyK888/discord-together) - *Video Stream Sync / Watch Parties*
 * [DiskCord](https://github.com/5ut/DiskCord) - *Host Files on External Sites to share via Discord*
 * [discord-logo](http://nntin.github.io/discord-logo) - *Discord Animated Logo Generator / [Discord](https://discord.gg/gDHs8AV)*
 * [LottieResizer](https://lottieresizer.tech/) - *Lottie Resizer*
@@ -1131,7 +1132,8 @@ General Reading Sites*
 * [Remote Desktop Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remote_desktop_clients) - *Control Desktop Remotely*
 * [TigerVNC](https://tigervnc.org/) - *VNC Client*
 * [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - *Free Ubuntu VNC*
-* [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - *Free Google RDP*
+* [RDP](https://github.com/yahya-ait-talb/RDP) - *Windows RDP*
+* [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - *Google RDP*
 * [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) - *Free Google Colab VPS on 25GB RAM*
 * [mRemoteNG](https://mremoteng.org/) - *Remote Connections Manager* 
 * [Netmaker](https://gravitl.com/netmaker) - *Create Virtual Network*
@@ -1269,6 +1271,7 @@ General Reading Sites*
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - *How-to Safely Archive Files on Cloud Storage Sites*
 * [Filecrypt](https://filecrypt.cc/) - *Encrypt File Links*
 * [megabasterd](https://github.com/tonikelope/megabasterd) - *MEGA Downloader / Uploader / Streaming / Quota Bypass*
+* [megatools](https://megatools.megous.com/) - *Mega.nz CLI*
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - *Mega Download Script*
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) - *Mega to HTTP*
 * [Keep Mega Alive](https://github.com/3ncod3/keep-mega-alive) - *Mega Account Auto-Login*
@@ -1371,6 +1374,7 @@ General Reading Sites*
 * [MultiBoot USB](https://github.com/hackerncoder/multibootusb) - *Create Bootable USB Linux Drives*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [Ricepedia](https://rizonrice.club/Main_Page) - *Linux Customization / Configuration Index*
+* [utils](https://github.com/Loupeznik/utils) - *Linux Utility Scripts*
 * [Mayfrost Guides](https://github.com/mayfrost/guides) - *Linux / Computing Guides*
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - *Easy Way to Use KVM*
 * [winapps](https://github.com/Fmstrat/winapps) - *Run Windows Apps in Linux* 
