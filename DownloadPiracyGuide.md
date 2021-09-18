@@ -11,7 +11,7 @@
 
 # ► Download Directories
 
-* **WARNING** - Some Open Directories grab IP's, so it's recommended to use a VPN or Tor when accessing them.
+* **Note** - Some Open Directories grab IP's, so use a VPN or Tor when accessing them.
 
 ***
 
@@ -38,7 +38,7 @@
 
 # ► Download Sites
 
-* **WARNING** - It's best to avoid sites that allow any users to upload when getting both software and games.  
+* **Note** - It's best to avoid sites that allow anyone to upload without consequences (like thepiratebay) when getting both software and games.
 
 ***
 
@@ -275,6 +275,7 @@
 * [HaxMac](https://haxmac.cc/) 
 * [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
+* [Awesome macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - *Open Source Software*
 * [Adobe CC 2021 Crack](https://redd.it/ox6rwl) - *Adobe Software*
 
 ***
@@ -315,7 +316,7 @@
 
 # ► File Sharing Apps
 
-* [Soulseek](http://www.soulseekqt.net/news/) - *File Sharing App*
+* [Soulseek](http://www.soulseekqt.net/news/) - *File Sharing App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker)*
 * [Shareaza](http://shareaza.sourceforge.net/) - *File Sharing App* 
 * [MLDonkey](http://mldonkey.sourceforge.net/Main_Page) - *File Sharing App* 
 * [Fopnu](https://fopnu.com/) - *File Sharing App* 
