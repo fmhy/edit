@@ -239,6 +239,7 @@
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - *Scan & Digitize Documents / iOS*
 * [DeepSort](https://github.com/CorentinB/DeepSort/) - *Image Tagger* 
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) - *Automatically Organize / Search Photos*
+* [Photo.net Tutorials](https://www.photo.net/learn/about/tutorials) - *Photography Tutorials*
 
 ***
 
