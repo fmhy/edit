@@ -179,7 +179,7 @@
 * [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - *Deezer Music Download App*  
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *FLAC / MP3*
 * [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots)
-* [Soulseek](http://www.soulseekqt.net) or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *FLAC / MP3 / Account Required*
+* [Soulseek](http://www.soulseekqt.net) or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker)*
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - *FLAC / MP3*
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - *Music Download Tool* 
 * [RipMe](https://github.com/RipMeApp/ripme) - *Bulk Album Downloader*  
