@@ -293,8 +293,9 @@
 * [Spider 2 Hammertime](http://oos.moxiecode.com/js_webgl/spiders_2_hammertime/) - *Murder Spiders*
 * [DuckDuckRoll](http://duckduckroll.ml/) - *Spinning Duck*
 * [Slap Kirk](https://www.slapkirk.com/) - *Slap Captain Kirk*
-* [Slide Ventura](https://slideventura.com/) - *Ace Ventura Sliding Door Simulator*
 * [pls pet doge](http://plspetdoge.com/) - *Pet Doge* 
+* [Slide Ventura](https://slideventura.com/) - *Ace Ventura Sliding Door Simulator*
+* [Fake Doors](http://faykdoors.com/) - *Its Fake Doors*
 * [Do not open the door](http://mexicans.eu/) - *Don't you dare...*
 * [ThisPersonDoesNotExist](https://www.thispersondoesnotexist.com/) - *People That Don't Exist*
 * [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) - *Words That Don't Exist* 
@@ -345,6 +346,7 @@
 * [Moments of Happiness](https://moments.epic.net/) - *Animated WebGL Animals*
 * [Planet](http://oskarstalberg.com/game/planet/planet.html) - *Planet Creator*
 * [What Happened in my Birthyear](http://whathappenedinmybirthyear.com/) - *Find out what happened on your birthyear* 
+* [Fucking Homepage](https://fuckinghomepage.com/) - *Daily Interesting Stuff Homepage*
 * [WTM](https://whatthemovie.com/) - *Guess Movie from Screenshot* 
 * [Kittenwar!](http://www.kittenwar.com/) - *Rate Kittens*
 * [Click Brawl](https://clickbrawl.com/eternal-fight) - *Collaborative Click Wars*
@@ -404,8 +406,7 @@
 * [Internet Map](http://internet-map.net/) - *Map of the Internet*
 * [Screentoys](https://www.screentoys.com/) - *Photo Morphing Toy*
 * [Word Blanks](https://www.wordblanks.com/) or [Plot Generator](https://www.plot-generator.org.uk/) - *Online Mad Libs*
-* [Fact Directory](https://fact.directory/) - *Facts & Trivia For Every Topic* 
-* [Fun Trivia](https://www.funtrivia.com/) - *Trivia*
+* [Fun Trivia](https://www.funtrivia.com/) or [Sporcle](https://www.sporcle.com/) - *Trivia*
 * [theOtaku](http://theotaku.com/quizzes) - *Anime Personality Quizzes* 
 * [Three.js](https://threejs.org/) - *JavaScript 3D library* 
 * [Pokémon Fusion](https://pokemon.alexonsager.net/) - *Fuse Pokémon*
@@ -444,6 +445,7 @@
 * [UFO Discovery](https://app.polymersearch.com/polymerexamples/UFO_Sightings) - *UFO Sightings Tracker*
 * [info.cern](http://info.cern.ch/) - *First Website on the Internet* 
 * [Worlds Highest Website](https://worlds-highest-website.com/) - *The Worlds Longest Website*
+* [You wouldn't steal a website](https://youwouldntsteala.website/) - *Steal a Website*
 * [IdiotProofWebsite](http://idiotproofwebsite.com/)
 * [MotherFuckingWebsite](http://motherfuckingwebsite.com/), [BetterMotherFuckingWebsite](http://bettermotherfuckingwebsite.com/), [EvenBetterMotherFuckingWebsite](https://evenbettermotherfucking.website/) or [TheBestMotherFuckingWebsite](https://thebestmotherfuckingwebsite.co/)
 * [isitnight](https://www.isitnight.com/) - *Determine if it is night* 
