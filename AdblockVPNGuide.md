@@ -431,8 +431,7 @@
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
 * [VPNGate](https://www.vpngate.net/en/) - *Free VPN Relay Servers*
 * [OpenVPN](https://openvpn.net/) - *VPN Tunnel / [Linux Wrapper](https://github.com/slingamn/namespaced-openvpn)* 
-* [RaceVPN](https://www.racevpn.com/) - *Free VPN Tunnels*
-* [PisoVPN](https://pisovpn.com/) - *Free VPN Tunnels*
+* [RaceVPN](https://www.racevpn.com/), [PisoVPN](https://pisovpn.com or [LionSSH](https://www.lionssh.com/) - *Free VPN Tunnels*
 * [Gluetun](https://github.com/qdm12/gluetun) - *Tunnel your Docker containers through a VPN*
 * [PiVPN](https://pivpn.io/) - *Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)* 
 * [Enterprise](https://pritunl.com/) - *VPN Server* 
