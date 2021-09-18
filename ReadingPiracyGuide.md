@@ -251,6 +251,7 @@
 * [CookBook](https://github.com/jlinder/cookbook) - *Recipes* 
 * [Wikibook Cookbooks](https://en.wikibooks.org/wiki/Category:Cookbook) - *Recipes*
 * [Culinary](http://www.culinary.net/) - *Recipes*
+* [pwned.space](https://pwned.space/recipes/) - *Recipes*
 * [Cookpad](https://cookpad.com/us) - *Recipes*
 * [RecipeChart](https://www.recipechart.com/) - *Recipes*
 * [FoodGeeks](https://foodgeeks.com/) - *Recipes*
@@ -380,7 +381,7 @@
 
 * [Short Stories](https://short-stories.co/) - *Short Stories* 
 * [Everything2](https://everything2.com/) - *Short Stories / Poetry / Writing Help*
-* [Poetry Foundation](https://www.poetryfoundation.org/) or [Poetry.com](https://www.poetry.com/) - *Poetry*
+* [Poetry Foundation](https://www.poetryfoundation.org/), [PoemHunter](https://www.poemhunter.com/) or [Poetry.com](https://www.poetry.com/) - *Poetry*
 * [FreeSFOnline](https://www.freesfonline.net/) - *Sci-Fi / Fantasy* 
 * [EpubPuB](https://www.epub.pub/) - *Romance / Fantasy*  
 * [SF Site](https://www.sfsite.com/) - *Science Fiction*
@@ -508,13 +509,14 @@
 * [Medical_Book_Bot](https://t.me/Medical_Book_Bot) - *Medical / Telegram*
 * [medrxiv](https://www.medrxiv.org/) - *Medicine Preprints*
 * [Lee B. Drive](https://drive.google.com/drive/u/0/mobile/folders/183tf8PmQbwgVC7HrxOZ5WQPulVd-Uomi) - *Books / Black History / Educational*
+* [RationalWiki](https://rationalwiki.org/) - *Pseudoscience Refutation Wiki*
+* [Snopes](https://www.snopes.com/) - *Urban Legends, Folklore, Misinformation & more*
 * [Butterick’s Practical Typography](https://practicaltypography.com/) - *Typography Guide Book*
 * [Alt Law Forum](https://altlawforum.org/) - *Alternative Law Forum*
-* [Cheatography](https://cheatography.com/) - *Educational Cheat Sheets* 
 * [Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/) - *Online Learning Collections* 
-* [masterWiki](https://masterwiki.how/) - *MasterClass Classes Republished as wikiHow Articles* 
-* [Information Is Beautiful](https://informationisbeautiful.net/) - *Data / Information / Infographics / Visualizations* 
 * [Open Educational Resources](https://cdn-infographic.pressidium.com/wp-content/uploads/How-to-Search-for-Open-Educational-Resources-Infographic.jpg) - *How to search for Open Educational Resources*
+* [HowStuffWorks](https://www.howstuffworks.com/) - *Learn How Things Work*
+* [masterWiki](https://masterwiki.how/) - *MasterClass Classes Republished as wikiHow Articles* 
 * [Critical Thinking](https://mega.nz/folder/ZMlxhYLA#sG-opuADdkNiu9-IdeJO4Q) - *Books / Guides / Pictures* 
 * [/r/textbook_piracy](https://reddit.com/r/textbook_piracy)
 * [/r/textbookrequest](https://reddit.com/r/textbookrequest)
@@ -524,7 +526,6 @@
 * [/r/econbooks](https://reddit.com/r/econbooks)
 * [/r/mathbooks](https://reddit.com/r/mathbooks)
 * [/r/Scholar](https://reddit.com/r/Scholar)
-* [/r/coolguides](https://reddit.com/r/coolguides/), [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) 
 
 ***
 
