@@ -250,6 +250,7 @@
 * **[AnimeKisa](https://animekisa.tv/)** - *Sub / Dub*
 * [Aninow](https://aninow.net/) - *Sub / Dub*
 * [AnimePahe](https://animepahe.com/) - *Sub / [Downloader](https://github.com/charathmathew/animepahe_downloader), [2](https://github.com/ed-archer/animepahe-dlr)*
+* [AniKuru](https://anikuru.me/) - *Sub / Dub / [Discord](https://discord.gg/NyqG59cfhV)*
 * [AnimehHub](https://animehub.ac/) - *Sub / Dub*
 * [Animesa](https://animesa.ga/) - *Sub / Dub*
 * [11Anime](https://11anime.fr/) - *Sub / Dub*
@@ -499,6 +500,7 @@
 * [MegaUploadAgora](https://www.megauploadagora.com.br/) - *Movies / TV* 
 * [Khatrimaza](https://khatrimaza1.in/) - *Movies / TV* 
 * [Warez Lover](https://warezlover.org/) - *Movies / TV* 
+* [FilmyZilla](https://filmyzilla.fit/category/latest-hollywood-english-movies.html) - *Movies*
 * [7StarHD](https://7starhd.cards/category/hollywood/) - *Movies / TV*
 * [LatestMovie4U](https://latestmovie4u.com/) - *Movies / TV / Anime* 
 * [CoolMovieZone](https://coolmoviezone.lat/) - *Movies*
