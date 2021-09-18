@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://imgur.com/a/eWmtM8v)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/AxhAU0o.png)** - *For mobile users*
 
 ***
 ***
@@ -74,10 +74,11 @@
 
 # ► Torrent Sites
 
-* **WARNING** - It's best to avoid sites that allow any users to upload when getting both software and games.  
+* **Note** - It's best to avoid sites that allow anyone to upload without consequences (like thepiratebay) when getting both software and games.
 
 ***
 
+* **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - *Multi Site Search*
 * **[1337x](https://1337x.to/)** - *Video / Audio / Games / Software / NSFW* 
 * **1337x Tools** - [Mirrors](https://1337x.to/about) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot)
 * **[RarBG](https://rarbg.to)** - *Video / Audio / Games / Software / NSFW* 
@@ -119,53 +120,52 @@
 
 ***
 
-## ▷ Search Sites
+## ▷ Aggregators
 
-* **[Torrent Sites Search](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)** / [Torrent Sites 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n)
-* **[Torrentz2](https://torrentz2eu.me/)** - *Magnet Search / [Onion](http://torrentzwealmisr.onion/) / [Add Magnet Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrentz2_magnet_links)*
-* **[FileListing](https://filelisting.com)** - *Magnet Search*
-* **[snowfl](https://snowfl.com/)** - *Search aggregator*
-* **[Knaben](https://knaben.net/)** - *Search aggregator*
-* [Zooqle](https://zooqle.com/) - *Search aggregator*
-* [iDope](https://idope.se) - *Search aggregator*
-* [Bitsearch](https://bitsearch.to/) - *Search aggregator*
-* [Torrent Finder](https://torrent-finder.com/) - *Search aggregator*
-* [TorrentDownload](https://www.torrentdownload.info/) - *Search aggregator*
-* [Torrent Paradise](https://torrent-paradise.ml/) - *Search aggregator*
-* [TorLook](https://torlook.info/) - *Search aggregator*
-* [2Torrentz](https://2torrentz.net/torrentz/) - *Search aggregator*  
-* [Toros](https://www.toros.co/) or [Toros2](https://www.toros2.com/) - *Search aggregator*
-* [Dirty Torrents](https://dirtytorrents.com/) - *Search aggregator*
-* [TorrentQuest](https://torrentquest.com/) - *Search aggregator*
-* [TorrentHound](http://torrenthound.ee/) - *Search aggregator*
-* [Torrends](https://torrends.to/) - *Search aggregator* 
-* [BTDB](https://btdb.eu/) - *Search aggregator*
-* [BTMET](https://btmet.com/) - *Magnet Search*
-* [BT4G](https://bt4g.org/) - *Magnet Search*
-* [BITCQ](https://bitcq.com/) - *Magnet Search*
-* [Torrent.nz](https://torrent.nz/) - *Magnet Search* 
-* [TorrentProject2](https://torrentproject2.com/) - *Magnet Search*
-* [ciligou0](http://ciligou0.com/) - *Magnet Search* 
-* [Bittorrent.am](http://www.bittorrent.am/) - *Magnet Search*
-* [TorrentDownloads](https://www.torrentdownloads.pro/) - *Search aggregator*
-* [Torlock](https://www.torlock.com/) or [Torlock2](https://www.torlock2.com/) - *Search aggregator*
-* [iBit.to](https://ibit.to) or [iBit.am](https://ibit.am/) - *Search aggregator*
-* [TorrentFunk](https://www.torrentfunk.com/) - *Search aggregator*
-* [Badass Torrents](https://badasstorrents.com) - *Search aggregator*
-* [7Torrent](https://www.7torrents.cc/) - *Search aggregator*
-* [concen](https://www.concen.org/torrents) - *Search aggregator*
-* [BTSearch](https://www.btsearch.ml/) - *Multi Site Search* 
-* [Solid Torrents](https://solidtorrents.net/) - *Multi Site Search / [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)*
-* [TorrentSeeker](https://torrentseeker.com) - *Multi Site Search*
-* [Torrentzeta](https://www.torrentzeta.com/) - *Multi Site Search*
-* [Toorgle](http://www.toorgle.com/) - *Multi site search* 
+* **[Torrentz2](https://torrentz2eu.me/)** - *[Onion](http://torrentzwealmisr.onion/) / [Add Magnet Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrentz2_magnet_links)*
+* **[FileListing](https://filelisting.com)** 
+* **[snowfl](https://snowfl.com/)** 
+* **[Knaben](https://knaben.net/)**
+* [Zooqle](https://zooqle.com/) 
+* [iDope](https://idope.se) 
+* [Bitsearch](https://bitsearch.to/)
+* [Torrent Finder](https://torrent-finder.com/) 
+* [pwned.space](https://pwned.space/)
+* [TorrentDownload](https://www.torrentdownload.info/) 
+* [Torrent Paradise](https://torrent-paradise.ml/) 
+* [TorLook](https://torlook.info/) 
+* [2Torrentz](https://2torrentz.net/torrentz/) -
+* [Toros](https://www.toros.co/) or [Toros2](https://www.toros2.com/)
+* [Dirty Torrents](https://dirtytorrents.com/) 
+* [TorrentQuest](https://torrentquest.com/) 
+* [TorrentHound](http://torrenthound.ee/)
+* [Torrends](https://torrends.to/) 
+* [BTDB](https://btdb.eu/)
+* [BTMET](https://btmet.com/) 
+* [BT4G](https://bt4g.org/)
+* [BITCQ](https://bitcq.com/)
+* [Torrent.nz](https://torrent.nz/) 
+* [TorrentProject2](https://torrentproject2.com/)
+* [ciligou0](http://ciligou0.com/) 
+* [Bittorrent.am](http://www.bittorrent.am/)
+* [TorrentDownloads](https://www.torrentdownloads.pro/) 
+* [Torlock](https://www.torlock.com/) or [Torlock2](https://www.torlock2.com/) 
+* [iBit.to](https://ibit.to) or [iBit.am](https://ibit.am/) 
+* [TorrentFunk](https://www.torrentfunk.com/) 
+* [Badass Torrents](https://badasstorrents.com) 
+* [7Torrent](https://www.7torrents.cc/)
+* [concen](https://www.concen.org/torrents) 
+* [BTSearch](https://www.btsearch.ml/)
+* [Solid Torrents](https://solidtorrents.net/) - *[/r/SolidTorrents](https://reddit.com/r/SolidTorrents)*
+* [TorrentSeeker](https://torrentseeker.com) 
+* [Torrentzeta](https://www.torrentzeta.com/) 
+* [Toorgle](http://www.toorgle.com/) 
+* [Veoble](http://veoble.com/torrent/) 
 * [Torrents.csv](https://torrents-csv.ml/#/) - *Torrent CSV Search*
 * [BTDigg](https://btdig.com/index.htm) - *Torrent DHT Search Engine*
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - *Magnet Web App Search*
 * [magnetico](https://github.com/boramalper/magnetico) or [Torrentinim](https://github.com/sergiotapia/torrentinim) - *Self-Hosted Torrent Search Engine*
-* [Veoble](http://veoble.com/torrent/) - *Multi Site Search* 
 * [torrentsearcher_bot](https://t.me/torrentsearcher_bot), [torrenthuntbot](https://t.me/torrenthuntbot) or [FDTorrentSearchBot](https://t.me/FDTorrentSearchBot) - *Telegram Torrent Search Bot* 
-* [RSSFeedz](https://t.me/rssfeedz) - *Torrent RSS Feed*
 
 ***
 
@@ -221,6 +221,7 @@
 * [WebTorrent Checker](https://checker.openwebtorrent.com/) - *Check Health of a Torrent*
 * [mgnet](http://mgnet.me/) - *Magnet Link Shortener*
 * [MagnetLinkCatcher](https://github.com/pedrolemoz/MagicMagnet) - *Magnet Link Catcher / App*
+* [RSSFeedz](https://t.me/rssfeedz) - *Torrent RSS Feed*
 * [AutoDL-Irssi](https://autodl-community.github.io/autodl-irssi/) - *IRC Channel Monitor / Autodownload / [Slack Notifications](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b)* 
 * [PrivTracker](https://privtracker.tk/) - *Private BitTorrent Tracker Generator / [GitHub](https://github.com/meehow/privtracker)* 
 * [AnonSeed](https://www.anonseed.com/) - *Anonymous Torrent Sharing* 
