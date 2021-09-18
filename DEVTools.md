@@ -57,6 +57,7 @@
 * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) - *ggplot2 Guide*
 * [RubyMonk](https://rubymonk.com/) - *Ruby Tutorials* 
 * [Learn to Program](https://pine.fm/LearnToProgram/) - *Ruby Tutorials*
+* [GoLang.org](https://golang.org/doc/tutorial/getting-started) - *Go Tutorial*
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) - *Rust Programming  Guidebook*
 * [JavaScript.info](https://javascript.info/) - *JavaScript Guide* 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - *Javascript Learning Books*
@@ -206,7 +207,7 @@
 * [Sight](https://github.com/tsenart/sight) - *Syntax Highlighter for Chrome* 
 * [Website Grader](https://website.grader.com/) - *Website Grading Tool*
 * [ngrok](https://ngrok.com/) - *Introspectable Tunnels to Localhost Tools*
-* [gpldl](https://gpldl.com/), [allwpworld](https://allwpworld.com/), [freegetdownloader](https://www.freegetdownloader.com/) or [babiato](https://babiato.co/) - *Wordpress Themes*
+* [gpldl](https://gpldl.com/), [allwpworld](https://allwpworld.com/), [pwned.space](https://pwned.space/wordpress-themes/), [freegetdownloader](https://www.freegetdownloader.com/) or [babiato](https://babiato.co/) - *Wordpress Themes*
 
 ***
 
