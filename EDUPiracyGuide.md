@@ -253,6 +253,7 @@
 * [Integral Calculator](https://www.integral-calculator.com/) - *Integral Calculator*
 * [Desmos](https://www.desmos.com/) - *Graphing Calculator* 
 * [fxSolver](https://www.fxsolver.com/) - *Engineering & Scientific Calculator*
+* [FreeFEM](https://freefem.org/) - *Partial Differential Equations Solver*
 * [Online Math Tools](https://onlinemathtools.com/) - *Multiple Math Tools*
 * [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
 * [MathOnline](http://mathonline.wikidot.com/) - *Math / Courses*
@@ -364,6 +365,7 @@
 * [Learning Music](https://learningmusic.ableton.com/)
 * [Teoria](https://www.teoria.com/index.php) - *Music Theory*
 * [LightNote](https://www.lightnote.co/) - *Music Theory*
+* [Music Theory](https://www.musictheory.net/) - *Music Theory*
 * [Pianu](https://pianu.com/) - *Piano*
 * [FretFlip](https://fretflip.com/guitar-scales) - *Guitar*
 * [ChordBook](https://chordbook.com/) - *Guitar*
@@ -384,9 +386,12 @@
 * **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
 * [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - *Touch Typing Tutorial*
 * [Learn Anything](https://learn-anything.xyz/) or [Learney](https://app.learney.me/) - *Interactive Learning Map* 
+* [Fact Directory](https://fact.directory/) - *Facts for Every Topic* 
 * [NoExcuseList](http://noexcuselist.com/) - *Free Learning Sites* 
 * [Explorabl.es](https://explorabl.es/) or [MinuteLabs](https://minutelabs.io/) - *Interactive Learning / Lessons* 
 * [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - *Learn With GIFs* 
+* [Information Is Beautiful](https://informationisbeautiful.net/) - *Data / Information / Infographics / Visualizations* 
+* [/r/coolguides](https://reddit.com/r/coolguides/), [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) 
 * [KausalFlow](https://tools.kausalflow.com/) - *Academic Research Tools* 
 * [Zotero](https://www.zotero.org/) - *Research Organization Tool* 
 * [TimeLY](https://github.com/noahweasley/TimeLY) - *University Activity & Class Tracker*
@@ -406,6 +411,8 @@
 * [Retrosynthesis](http://retrosynthesis.com/) - *Organic Retrosynthesis Engine / [GitHub](https://github.com/sudo-rushil/odachi)*
 * [amrita olabs](https://amrita.olabs.edu.in/) - *Science Practicals / Theory / Animations / Simulations* 
 * [Get Unstuck](https://socratic.org/) - *Homework Answers / Help* 
+* [Cheatography](https://cheatography.com/) - *Educational Cheat Sheets* 
+* [Toppr](https://www.toppr.com/) - *Test Practice & Homework Help*
 * [Oak National Academy](https://teachers.thenational.academy/) - *Lessons / Quizzes*
 * [Quizlet](https://quizlet.com/) - *Quizzes / Study Material*
 * [guIHelp](https://discord.gg/rgF9jY8CpH) - *Bartleby, Quizlet, Coursehero & Scribd Bot*
@@ -473,7 +480,6 @@
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
 * [NandGame](https://nandgame.com/) - *Computer Building Puzzle*
 * [Vocabulary.ugent](http://vocabulary.ugent.be/) - *Vocabulary Test* 
-* [RationalWiki](https://rationalwiki.org/) - *Pseudoscience Refutation Wiki*
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/) - *Learn about Logical Fallacies* 
 * [YourBiasIs](https://yourbias.is/) - *Learn about Biases* 
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - *Learn to Tie Knots* 
