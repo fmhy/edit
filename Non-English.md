@@ -840,6 +840,7 @@
 * [COMSS.CLUB](https://www.comss.ru/) - *Software / Android*
 * [DIAKOV](https://diakov.net/) - *Software* 
 * [LRepacks](https://lrepacks.ru/) - *Software* 
+* [AppsTorrent](https://appstorrent.ru/) - *Mac Software*
 * [muzlishko](http://www.muzlishko.ru/) - *MP3*
 * [Tancpol](https://tancpol.net/) - *MP3*
 * [kinosoundtrack](https://www.kinosoundtrack.com/) - *MP3*
@@ -1164,6 +1165,7 @@
 
 # ► Multi Indian Languages
 
+* [Indian Piracy Index](https://github.com/anymeofu/Indian-Piracy-Index) - *Piracy Site / Tool Index*
 * [0GoMovies](https://0gomovies.io/), [2](https://www.0gomovies.com/) - *Streaming / Movies / TV*
 * [JioRockers](http://www.jiorockers.uk/) - *Streaming / Movies*
 * [v100v.net](https://www.v100v.net/) - *Streaming / Movies*
