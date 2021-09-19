@@ -40,7 +40,7 @@
 
 ## ▷ DNS Adblocking
 
-* **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - *Network-wide DNS Adblocking / [Setup](https://github.com/klutchell/balena-adguard)* 
+* **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - *Network-wide DNS Adblocking / [Setup](https://github.com/klutchell/balena-adguard) / [Family Filter](https://ammnt.app/)* 
 * [Adguard](https://adguard.com/en/adguard-dns/overview.html) - *[Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt) / [Filters](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole) / [Extension](https://github.com/AdguardTeam/AdguardBrowserExtension#installation)*
 * [Pi-Hole](https://pi-hole.net/) - *[Filter](https://firebog.net/), [2](https://github.com/hl2guide/Filterlist-for-AdGuard) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine)*
 * [Blah DNS](https://blahdns.com/)
@@ -125,6 +125,7 @@
 * [Winitor](https://www.winitor.com/) - *EXE Malware Assessment*
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - *Penetration Testing Index*
 * [wideredist](https://gitlab.com/urbanware-org/wideredist) - *Update Windows Defender Definitions Locally*
+* [Defeat Defender](https://github.com/swagkarna/Defeat-Defender-V1.2) - *Disable Windows Defender*
 * [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - *Malware Search Extension* 
 * [Malware Analysis Search](https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu)
 
@@ -453,6 +454,7 @@
 
 * [Psiphon](https://psiphon.ca/)
 * [Acrylic](http://mayakron.altervista.org/)
+* [Tsunami](https://github.com/FogNetwork/Tsunami) 
 * [Shadowsocks](https://shadowsocks.org/en/index.html) - *[Free Servers](https://github.com/ruanfei/ShadowsocksRRShare)*
 * [Lantern](https://lantern.io/en_US/index.html) 
 * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - *Proxy Manager*
