@@ -59,6 +59,7 @@
 * [BTorrent](https://btorrent.xyz/)
 * [Torrents Time](https://torrents-time.com/)
 * [Bitport](https://bitport.io/welcome) 
+* [wolfozzotorrent](https://wolfozzotorrent.herokuapp.com/)
 * [TorrentSafe](https://www.torrentsafe.com/)
 * [FileStream](https://filestream.me/)
 * [ZBIGZ](https://zbigz.com/)
@@ -74,7 +75,7 @@
 
 # ► Torrent Sites
 
-* **Note** - It's best to avoid sites that allow anyone to upload without consequences (like thepiratebay) when getting both software and games.
+* **Note** - It's best to avoid sites that allow anyone to upload without consequence (like thepiratebay) when getting both software and games.
 
 ***
 
@@ -82,9 +83,9 @@
 * **[1337x](https://1337x.to/)** - *Video / Audio / Games / Software / NSFW* 
 * **1337x Tools** - [Mirrors](https://1337x.to/about) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot)
 * **[RarBG](https://rarbg.to)** - *Video / Audio / Games / Software / NSFW* 
-* **RarBG Tools** - [Python Interface](https://github.com/verybada/rarbgapi) / [Advanced Filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) / [Add Links](https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links)
+* **RarBG Tools** - [Python Interface](https://github.com/verybada/rarbgapi) / [Advanced Filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) / [Add Links](https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links) / [Thumbnails](https://github.com/keyboardslayer/rarbg-thumbnails)
 * **[RuTracker](http://rutracker.org)** - *Video / Audio / Games / Software / Android / Comics / Magazines*
-*  **RuTracker Tools** - [Telegram Bot](https://t.me/ru_tracker_bot) / [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Onion](http://rutrackerripnext.onion/)
+*  **RuTracker Tools** - [Telegram Bot](https://t.me/ru_tracker_bot) / [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Onion](http://rutrackerripnext.onion/) / [Search API](https://github.com/nikityy/rutracker-api)
 * [TorrentGalaxy](https://torrentgalaxy.to/) - *Video / Audio / Games / Software / NSFW / [Mirrors](https://proxygalaxy.pw/), [2](https://torrentgalaxy.org/)*
 * [Demonoid](https://www.demonoid.is/) - *Video / Audio / Software / Games / Books / Comics*
 * [Pirateiro](http://pirateiro.com) - *Video / Audio / Games / Roms / Software / Android / Books / Comics / NSFW*
@@ -140,6 +141,7 @@
 * [TorrentQuest](https://torrentquest.com/) 
 * [TorrentHound](http://torrenthound.ee/)
 * [Torrends](https://torrends.to/) 
+* [CloudTorrents](https://cloudtorrents.com/)
 * [BTDB](https://btdb.eu/)
 * [BTMET](https://btmet.com/) 
 * [BT4G](https://bt4g.org/)
