@@ -23,7 +23,7 @@
 * [BigAudiobooks](https://bigaudiobooks.net/) - *Listen Online*
 * [BookAudiobook](https://bookaudiobook.com/) - *Listen Online*
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - *Listen Online*
-* [Audiobook Slab](https://audiobookslab.com/) - *Listen Online*
+* [Audiobooks Lab](https://audiobooklabs.com/) - *Listen Online*
 * [AudiobookBoi](https://audiboi.com/home/) - *Listen Online*
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - *Listen Online / Select Playlists*
 * [Litube](https://litube.net/) - *Listen Online*
@@ -76,6 +76,7 @@
 * [openlibrary](https://openlibrary.org/) - *Books* 
 * [standardebooks](https://standardebooks.org) - *Books* 
 * [Manybooks](https://manybooks.net/)  - *Books*
+* [Bookwyrm's Bower](https://discord.gg/bower) - *Book Torrent Archive*
 * [BooksVooks](https://booksvooks.com/) - *Books*
 * [dpgroup](https://www.dpgroup.org/) - *Books / Magazines*
 * [16Chan Library](https://16chan.xyz/library/) - *Books*
@@ -688,7 +689,7 @@
 * **[Dictionary Index](https://onelook.com/?d=all_gen)** 
 * **[OneLook](https://onelook.com/)** - *Multi Dictionary Search*
 * **[Merriam-Webster](https://www.merriam-webster.com/)** - *Dictionary / Thesaurus*
-* **[Wikipedia](https://www.wikipedia.org/)** - *Encyclopedia / [Read Only](http://static.wiki/)*
+* **[Wikipedia](https://www.wikipedia.org/)** - *Encyclopedia / [Read Only](http://static.wiki/) / [Text Extractor](https://github.com/attardi/wikiextractor)*
 * **[Wiktionary](https://en.wiktionary.org)** or [EtymOnline](https://www.etymonline.com/) - *Etymologies*
 * **[Wikiquote](https://en.wikiquote.org)** - *Quote database*
 * **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - *Slang Word / Phrase Dictionary*
@@ -704,7 +705,7 @@
 * [20 Encyclopedia Books](https://mega.nz/file/AsBm0ZrR#azR641hPhLWCdSB6ogzTKOfr36eaLHq2WT20tuGbLVU) - *Encyclopedias*
 * [Abbreviations](https://www.abbreviations.com/) - *Abbreviations* 
 * [Chat Words Dictionary](https://chatworddictionary.com/) - *Chat Abbreviations*
-* [Wolfram Alpha](https://www.wolframalpha.com/) - *Searchable Knowledgebase*
+* [Wolfram Alpha](https://www.wolframalpha.com/) - *Searchable Knowledgebase / [Pro](https://wolfreealpha.github.io/)*
 * [Dictionary](https://www.dictionary.com/) - *Dictionary / Thesaurus*
 * [NinjaWords](http://ninjawords.com/ ) - *Dictionary* 
 * [WikiDiff](https://wikidiff.com/) - *Difference Between Any Words* 
@@ -726,6 +727,9 @@
 * [Omniglot](https://www.omniglot.com/index.htm) - *Writing Systems & Languages Encyclopedia*
 * [swear-words](https://github.com/chucknorris-io/swear-words) - *Swear Word Index* 
 * [Racial Slur Database](http://www.rsdb.org/) - *Racial Slurs* 
+* [LexiLogos](https://www.lexilogos.com/english/index.htm) - *Multi Language Dictionary Index*
+* [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - *Translation Dictionary* 
+* [SpanishDict](https://www.spanishdict.com/) - *Spanish Translation Dictionary*
 * [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - *American Sign Language* 
 * [BSL Dictionary](https://www.signbsl.com/) - *British Sign Language* 
 * [FreeMdict](https://freemdict.com/) - *Dictionary Downloads / [Forum](https://forum.freemdict.com/) / [Archive](https://downloads.freemdict.com/)* 
@@ -814,6 +818,7 @@
 * [Manganato](https://manganato.com/)
 * [EvilFlowers](http://reader.evilflowers.com/)
 * [Mangairo](https://h.mangairo.com/)
+* [MangaReader](https://mangareader.to/)
 * [247Manga](https://247manga.com/) 
 * [DeathTollScans](https://www.deathtollscans.net/)
 * [Manga Rock](https://mangarock.to/)
@@ -824,6 +829,7 @@
 * [MangaJar](https://mangajar.com/)
 * [ReadManhua](https://readmanhua.net/)
 * [NineManga](http://www.ninemanga.com)
+* [Muc Tau](https://muctau.com/)
 * [BliBiliComics](https://www.bilibilicomics.com/)
 * [MyReadingManga](https://myreadingmanga.info/)
 * [MangaGo](https://www.mangago.me/)
