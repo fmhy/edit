@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/jtncUQ7.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/YLugvY1.png)** - *For mobile users*
 
 ***
 ***
@@ -25,6 +25,7 @@
 * [cartoon3rbi](https://www.cartoon3rbi.net/) - *Cartoons / Anime*
 * [Shazam Music](https://t.me/shazam_music_uz) - *Music / Telegram* 
 * [music_banktel](https://t.me/music_banktel) - *Music / Telegram* 
+* [WiFi4Games](https://www.wifi4games.com/) - *Games*
 
 ## ▷ Torrenting 
 
@@ -132,6 +133,7 @@
 * [ACG.rip](https://acg.rip/) - *Anime / Music* 
 * [Snow-Raws](https://snow-raws.com/) - *Anime / [Official Tracker](https://www.skyey2.com/)*
 * [Ali213](https://ali213.net/) - *Games*
+* [AnimeTrackerList](https://github.com/DeSireFire/animeTrackerList) - *Anime Tracker List*
 
 ## ▷ Streaming
 
@@ -243,12 +245,12 @@
 * [WawaCity](https://www.wawacity.video/), [2](https://www.wawacity.vip/) - *Video / Audio / Books / Magazines / Software / Android / Use AdBlocker*
 * [Tirexo](https://www.tirexo.com/), [2](https://www2.tirexo.lol/) - *Video / Audio / Books / Roms / Software / Android*
 * [Free-Telecharger](https://ww2.free-telecharger.org/) - *Movies / TV*  
+* [CYGames](https://cygames.fr/) - *Games / [Discord](https://discord.com/invite/h78Jte2UQq)*
 * [Abandonware France](https://www.abandonware-france.org/index.php) - *Abandonware*
 
 ## ▷ Torrenting
 
-* [torrent9](https://www.torrent9.so/) - *Video / Audio / Books / Roms / Software*
-* [Torrent9](https://www.torrent9.so/) or [OXTorrent](https://www.oxtorrent.nz/) - *Video Audio / Software / Games / Roms / Books* 
+* [Torrent9](https://www.torrent9.so/), [2](https://www.torrent9.gg/), [3](https://www.torrent9.site/), [4](https://www.torrent9.gg/), [5](https://www4.torrent9.to/) or [OXTorrent](https://www.oxtorrent.nz/), [2](https://oxtorrents.co/) - *Video Audio / Software / Games / Roms / Books* 
 
 ## ▷ Streaming
 
@@ -332,6 +334,7 @@
 * [HD-Streams](https://hd-streams.org/) - *Movies / TV* 
 * [Serien](https://serien.life/) - *Movies / TV*
 * [Film Palast](https://filmpalast.club/) - *Movies / TV*
+* [Kinox](https://www2.kinox.to/) - *Movies / TV*
 * [MovieTown](https://movietown.org/) - *Movies / TV*
 * [KinoZ](https://kinoz.to/) - *Movies / TV / Anime / NSFW* 
 * [S.TO](https://s.to/) - *TV / Anime* 
@@ -427,10 +430,11 @@
 * [IndianCine](https://indiancine.ma/) - *62k Indian Films / Short Films* 
 * [CineVood](https://cinevood.cyou/) - *Movies / TV*  
 * [mxplayer](https://www.mxplayer.in) - *Movies*
-* [Bolly2Tolly](https://www.bolly2tolly.net/) - *Movies* 
+* [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - *Movies* 
 * [World4uFree](https://world4ufree.cyou/) - *Movies / TV* 
 * [9xMovies](https://9xmovies.land/) - *Movies / TV* 
 * [4MovieRulz](https://4movierulz.mn/) - *Movies* 
+* [HHDMovies](https://hhdmovies.org/) - *Movies / TV*
 * [HindiLover](https://hindilover.biz/) - *TV*
 * [OkJatt](https://okjatt.work/) - *Movies / TV*
 * [HindiLinks4u](https://www.hindilinks4u.to/), [2](https://hindilinks4u.pro/) or [3](https://hindilinks4u.io/)  - *Movies / TV*
@@ -533,6 +537,7 @@
 * [Music Fusion World](https://fusion-world-30.blogspot.com/) - *Music / MP3*
 * [J-pop Music Download](https://jpop.xyz/) - *Music / MP3 / FLAC* 
 * [フリーソフトウェアの倉庫](http://nekomimi.la.coocan.jp/freesoft/index.htm) - *Software*
+* [Qoo-App](https://www.qoo-app.com/en) - *Android Games*
 * [Perfect Dark](http://kasumi.moe/pd/) - *P2P App*
 
 ## ▷ Torrenting
@@ -754,6 +759,7 @@
 * [cda-hd](https://cda-hd.cc/) - *Movies / TV* 
 * [filman.cc](https://filman.cc/) - *Movies / TV* 
 * [Anime Odcinki](https://anime-odcinki.pl/) - *Anime* 
+* [FilmPolski](https://filmpolski.pl/fp/index.php) - *Polish Video Archive*
 
 ## ▷ Reading
 
@@ -787,9 +793,12 @@
 
 * [Mr. Piracy](https://mrpiracy.site/) - *Movies / TV / Anime* 
 * [TheFilmes](https://thefilmes.tv/) - *Movies / TV / Anime*
+* [Vizer.tv](https://vizer.tv/) - *Movies/ TV / Anime*
 * [GoFilmes](https://gofilmes.me/hd/) - *Movies / TV* 
 * [AnimeFire](https://animefire.net/) - *Anime* 
 * [AnimeVision](https://animesvision.biz/) - *Anime* 
+* [Kultivi](https://app.kultivi.com/) - *Courses*
+* [PrimeCursos](https://www.primecursos.com.br/) - *Courses*
 
 ## ▷ Reading
 
@@ -986,7 +995,7 @@
 
 ## ▷ Torrenting
 
-* [Mejor Torrent](https://www.mejortorrents.net/), [2](https://www.mejortorrento.net/) - *Video / Audio / Software / Games*  
+* [Mejor Torrent](https://www.mejortorrents.net/), [2](https://www.mejortorrento.net/), [3](https://mejortorrent.one/) - *Video / Audio / Software / Games*  
 * [dontorrent](https://dontorrent.net/) - *Video / Audio / Games* 
 * [DivxTotal](https://www.divxtotal.one/) - *Movies / TV / Software* 
 * [Edvok](https://edvok.com/) - *Video / Games*
@@ -994,6 +1003,7 @@
 * [zonatorrent](https://zonatorrent.tv/) - *Movies / TV* 
 * [divxonline](https://www.divxonline.tv/) - *Movies / TV* 
 * [Grantorrent](https://grantorrent.nl/) - *Movies / TV*
+* [EstrenosDTL](https://www.estrenosdtl.nz/) - *Movies*
 * [MoviesDVDR](https://www.moviesdvdr.co/) - *Movies* 
 * [Animextremist](http://animextremist.com/) - *Anime / Manga* 
 
@@ -1013,6 +1023,7 @@
 * [Danimados](https://danimados.com) - *TV / Anime*
 * [novelas360](https://novelas360.com/) - *TV*
 * [HindiLover](https://hindilover.biz/) - *TV*
+* [Vix](https://www.vix.com/tv/) - *TV*
 * [Dilo](https://www.dilo.nu/) - *TV / Anime* 
 * [JKAnime](https://jkanime.net/) - *Anime* 
 * [AnimeFénix](https://animefenix.com/) - *Anime*
@@ -1127,9 +1138,23 @@
 
 * [HDVietnam](http://www.hdvietnam.com/forums/) - *Video / Audio / Software*
 * [Taiwebs](https://taiwebs.com/) - *Software / Android*
-* [taomaytinh](https://taomaytinh.com/) - *Software*
+* [SoftBuzz](https://softbuzz.net/) - *Software / Games*
 * [freehd](https://freehd.me/) - *Movies / TV / Anime*
 * [chiasenhac](https://chiasenhac.vn/) - *Music*
+* [anonytrick](https://anonytrick.com/) - *Software*
+* [chiasecongnghe](https://chiasecongnghe.net/) - *Software*
+* [taomaytinh](https://taomaytinh.com/) - *Software*
+* [fullcrack](http://fullcrack.vn/) - *Software*
+* [iphanmem](https://iphanmem.net/) - *Software*
+* [khophanmem24h](https://khophanmem24h.com/) - *Software*
+* [gofazone](https://gofazone.com/) - *Software*
+* [msdnvietnam](https://msdnvietnam.net/) - *Software*
+* [taivacaidat](https://taivacaidat.com/) - *Software*
+* [kysuthietke](https://kysuthietke.com/) - *Engineering Software*
+
+## ▷ Streaming
+
+* [Phimplay](https://phimplay.com/) - *Movies*
 
 ## ▷ Reading
 
@@ -1140,7 +1165,7 @@
 
 # ► Multi Indian Languages
 
-* [0GoMovies](https://0gomovies.io/) - *Streaming / Movies / TV*
+* [0GoMovies](https://0gomovies.io/), [2](https://www.0gomovies.com/) - *Streaming / Movies / TV*
 * [JioRockers](http://www.jiorockers.uk/) - *Streaming / Movies*
 * [v100v.net](https://www.v100v.net/) - *Streaming / Movies*
 * [7MovieRulz](https://7movierulz.im/) - *Streaming / Movies*
