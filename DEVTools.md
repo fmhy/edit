@@ -216,6 +216,7 @@
 * [NConfig](https://www.digitalocean.com/community/tools/nginx) - *NGINX Server Config*
 * [faustjs](https://github.com/wpengine/faustjs) - *Wordpress Framework*
 * [gpldl](https://gpldl.com/), [allwpworld](https://allwpworld.com/), [pwned.space](https://pwned.space/wordpress-themes/), [wplocker](https://www.wplocker.com/), [freegetdownloader](https://www.freegetdownloader.com/) or [babiato](https://babiato.co/) - *Wordpress Themes*
+* [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - *Self-Hosted Private Tracker*
 
 ***
 
