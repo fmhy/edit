@@ -36,7 +36,9 @@
 * [Lagunita](https://online.stanford.edu/lagunita-learning-platform) - *Courses* 
 * [Hillsdale College](https://online.hillsdale.edu/) - *Courses* 
 * [SelfSchool](https://selfschool.me/) - *Courses*
+* [Cursa](https://cursa.app/) - *Courses*
 * [NPTEL](https://nptel.ac.in/course.html) - *Courses*
+* [Real.Discount](https://app.real.discount/) - *Courses*
 * [LearnOutLoud](https://www.learnoutloud.com/) - *Documentaries / Courses*
 * [Class Central](https://www.classcentral.com/) - *Search for Courses*
 * [cs1000](https://cs1000.vercel.app/) - *Educational Video Playlists* 
@@ -140,7 +142,6 @@
 * [CourseForFree](https://courseforfree.com/) - *Udemy Courses*  
 * [Download Online Tutorials Free](https://download.howtofree.org/) - *Udemy Courses* 
 * [Udemy Free Course](https://t.me/udemy_free_cource) - *Udemy Courses* 
-* [Web Dev Courses](https://drive.google.com/drive/folders/17nOoned_J-RzAlCXaHEcEvdQC3LDOCC0) - *Web Development Courses*
 * [6.04 TB Paid [C]ourses](https://mega.nz/folder/vRhSiagQ#H_G_aUZNrbLE5fPtTjPoeQ/folder/TAhQRSqK) - *Marketing Courses / Drive*
 * hackingworld.best - [Marketing](https://mega.nz/folder/eeIzlAjL#zGa0iHkQJu0JmP4BayAJ3A) / [IT](https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg)
 * [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
@@ -154,7 +155,8 @@
 * [skillsharefree](https://t.me/skillsharefree) - *Skillshare Courses / Telegram* 
 * [SkillShare-DL](https://colab.research.google.com/github/beast1hack/skillshare-1hack/blob/master/Skillshare_DL_%5B1hack%5D.ipynb) - *Skillshare to GDrive Downloader*
 * [udemy-dl](https://github.com/r0oth3x49/udemy-dl), [2](https://github.com/riazXrazor/udemy-dl), [Udeler](https://github.com/FaisalUmair/udemy-downloader-gui) or [avdshare](https://www.avdshare.com/udemy-downloader) - *Download videos from Udemy*
-* [UdemyCourseGrabber](https://github.com/keethesh/UdemyCourseGrabber) - *Find Udemy Course Download Link*
+* [Udemy Paid Courses Grabber](https://github.com/AmmeySaini/Udemy-Paid-Courses-Grabber) - *Udemy Course Grabber*
+* [UdemyCourseGrabber](https://github.com/keethesh/UdemyCourseGrabber) - *Find Udemy Course Download Links*
 * [Udacimak](https://github.com/udacimak/udacimak) - *Udacity Nanodegree / Course Downloader*
 
 ## ▷ Documentaries
@@ -247,7 +249,8 @@
 * [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - *Matrix Calculator*
 * [Mathcha](https://www.mathcha.io/) - *Online Math Editor*
 * [Weboasis Convert](https://weboas.is/convert/) - *Conversion Calculators*
-* [PecentageTools](https://percentagetools.com/) - *Percentage Calculators*
+* [PecentageTools](https://percentagetools.com/) or [CalcPercentage](https://calcpercentage.com/) - *Percentage Calculators*
+* [FractionCalc](https://fractionscalc.com/) - *Fraction Calculator*
 * [Unit Conversion](https://conversao.net/eng/), [UnitConverters](https://www.unitconverters.net/) or [ConvertAll](https://convertall.bellz.org/) - *Unit Converter* 
 * [Derivative Calculator](https://www.derivative-calculator.net/) - *Derivative Calculator*
 * [Integral Calculator](https://www.integral-calculator.com/) - *Integral Calculator*
@@ -316,13 +319,16 @@
 * **[Awesome-Lang](https://github.com/oyd11/awesome-lang)** - *Language Learning Resource Index* 
 * **[Languages and Linguistics](https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w)** - *Language Learning Books*
 * [The Language Exchange Network](https://discord.gg/jxcVmHJ) - *Language Learning Network*
+* [E-books_432](https://archive.org/details/E-books_432) - *Vocabulary & Pronunciation Books*
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - *Multi Language Dictionary Index*
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - *Translation Dictionary* 
+* [SpanishDict](https://www.spanishdict.com/) - *Spanish Translation Dictionary*
 * [Memrise](https://www.memrise.com/), [Busuu](https://www.busuu.com/en/) or [Duolingo](https://www.duolingo.com/) - *Language Learning Lessons* 
 * [Yojik](https://fsi-languages.yojik.eu/index.html) or [ESOL](https://www.esolcourses.com/) - *Language Learning Courses*
 * [Language Transfer](https://www.languagetransfer.org/) - *Language Learning Courses / Audio*
 * [refold.la](https://refold.la/roadmap) - *Language Learning Guide* 
 * [Learn English Online](http://www.learn-english-online.org/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - *Learn English*
+* [Free4Talk](https://www.free4talk.com/) - *English Practice Community*
 * [MyLanguages](http://mylanguages.org/) - *Grammar / Vocabulary Language Learning*
 * [Vocatra](https://esite.ch/vocatra/) - *Vocabulary Trainer*
 * [EnglishAccentMap](https://www.englishaccentsmap.com/) - *English Accent Videos / Map* 
@@ -387,6 +393,7 @@
 * [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - *Touch Typing Tutorial*
 * [Learn Anything](https://learn-anything.xyz/) or [Learney](https://app.learney.me/) - *Interactive Learning Map* 
 * [Fact Directory](https://fact.directory/) - *Facts for Every Topic* 
+* [Faqtoids](https://top.faqtoids.com/) - *Fact / Info Search Engine*
 * [NoExcuseList](http://noexcuselist.com/) - *Free Learning Sites* 
 * [Explorabl.es](https://explorabl.es/) or [MinuteLabs](https://minutelabs.io/) - *Interactive Learning / Lessons* 
 * [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - *Learn With GIFs* 
@@ -410,7 +417,7 @@
 * [Images-Of-Elements](https://images-of-elements.com/) - *Periodic Table With Images*
 * [Retrosynthesis](http://retrosynthesis.com/) - *Organic Retrosynthesis Engine / [GitHub](https://github.com/sudo-rushil/odachi)*
 * [amrita olabs](https://amrita.olabs.edu.in/) - *Science Practicals / Theory / Animations / Simulations* 
-* [Get Unstuck](https://socratic.org/) - *Homework Answers / Help* 
+* [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) - *Homework Help* 
 * [Cheatography](https://cheatography.com/) - *Educational Cheat Sheets* 
 * [Toppr](https://www.toppr.com/) - *Test Practice & Homework Help*
 * [Oak National Academy](https://teachers.thenational.academy/) - *Lessons / Quizzes*
@@ -453,11 +460,12 @@
 * [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
 * [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - *Physics Simulations / Animations*
 * [Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php) - *Physics Tools* 
-* [Theban Mapping Project](https://thebanmappingproject.com/) - *Valley of the Kings Map* 
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - *Globe of Ancient Earth*
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
-* [Histography](https://histography.io/) - *History Timeline*
 * [American Panorama](https://dsl.richmond.edu/panorama/) - *Interactive US Historical Maps*
+* [Theban Mapping Project](https://thebanmappingproject.com/) - *Valley of the Kings Map* 
+* [Historic Borders](https://historicborders.app/) - *Historic Borders Map*
+* [Histography](https://histography.io/) - *History Timeline*
 * [LizardPoint](https://lizardpoint.com/) - *Geography Quizzes* 
 * [The True Size](https://thetruesize.com/) - *Compare Country Size* 
 * [Seeing Theory](https://seeing-theory.brown.edu/) - *Interactive Probability / Statistics Lessons* 
