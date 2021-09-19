@@ -35,7 +35,7 @@
 * [Volmarg](https://volmarg.github.io/) - *Personal Management Tool*
 * [Focalboard](https://www.focalboard.com/) - *Project Management Tool*
 * [Meeter](https://trymeeter.com/) - *Video Meeting Manager / Mac*
-* [ievaphone](https://ievaphone.com/) - *Make Free Phone Calls*
+* [ievaphone](https://ievaphone.com/) or [PopTox](https://www.poptox.com/) - *Make Free Phone Calls*
 * [tuxi](https://github.com/Bugswriter/tuxi) - *Question & Answer CLI*
 * [Onym](https://guide.onym.co/) - *Tools / Resources for Naming Things*
 * [WorldTaxiMeter](https://www.worldtaximeter.com/) - *Taxi Fare Calculator*
@@ -176,7 +176,7 @@
 * [DMVideo](https://dmvideo.download/) - *DailyMotion Video Downloader* 
 * [GetFVid](https://www.getfvid.com/), [Facebook DL](https://github.com/sdushantha/facebook-dl) or [FBDown](https://fbdown.net/) - *Facebook Video Downloader* 
 * [RipTok](https://github.com/adamsatyr/RipTok) - *Tik-Tok Channel Bulk Downloader*
-* [SnapTik](https://snaptik.app/) or [Tik.fail](https://tik.fail/)  - *TikTok Video Downloader*
+* [SnapTik](https://snaptik.app/), [TikTokFull](https://tiktokfull.com/) or [Tik.fail](https://tik.fail/)  - *TikTok Video Downloader*
 * [TikUp](https://github.com/Coloradohusky/TikUp) - *TikTok Auto Download / Upload*
 * [How to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/), [3](https://www.removeddit.com/r/Piracy/comments/ou31y8/how_to_rip_from_amazon_other_streaming_services/), [4](https://0bin.net/paste/cYxSEPRq#w7i1vJSMVKTRKgGmdURaXdvNpimP2p9IxgF38I75NUQ)
 * [How to Rip Videos from Disney+](https://redd.it/ncyxzx), [2](https://web.archive.org/web/20210516014412/https://old.reddit.com/r/Piracy/comments/ncyxzx/tutorial_how_to_rip_moviesshows_from_disney_plus/) 
@@ -485,6 +485,7 @@
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) - *Prevent Firefox Memory Leaks* 
 * [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) - *Firefox Hidden Settings*
 * [Tripgen](https://orph.link/tripgen) - *Image Board Trip Code Generator* 
+* [4Chan Captcha Solver Script](https://pastebin.com/f6xUjE5s) or [4chan Captcha Solver](https://github.com/AUTOMATIC1111/4chan-captcha-solver/) - *4chan Captcha Solver*
 * [Slideshow-Deslidefier](http://deslide.clusterfake.net/) - *View Slideshows All At Once* 
 * [divr.it](https://dlvrit.com/) - *Social Media Automation Tool*
 * [tumblr-crawler](https://github.com/ZenulAbidin/tumblr-crawler) - *Download tumblr photos/videos* 
@@ -530,6 +531,7 @@
 * [Netbox](https://netbox.global/) - *Blockchain Backed Browser*
 * [Luakit](https://luakit.github.io/) - *Lightweight Linux Browser* 
 * [woob](https://woob.tech/) - *Use Sites Without a Browser*
+* [Male Poon](https://github.com/ManchildProductions/Male-Poon) - *Tweaked Browser*
 * [Lagrange](https://github.com/skyjake/lagrange)  - *Gemini Browser*
 * [StockBrowser](https://stackbrowser.com/) - *Multi Web App Browser*
 * [NeverInstall](https://neverinstall.com/en-IN) - *Browser OS*
@@ -591,7 +593,7 @@ General Reading Sites*
 * [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - *40 Custom Search Engines*
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - *Facebook Search Formulas* 
 * [Graph.tips](https://graph.tips/beta/) - *Advanced Facebook Search Tool* 
-* [Google Search Operator Cheat Sheets](https://moz.com/learn/seo/search-operators), [2](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [3](https://ahrefs.com/blog/google-advanced-search-operators/), [4](https://l-lists.com/en/lists/m1mdwx.html)
+* [Google Search Operator Cheat Sheets](https://moz.com/learn/seo/search-operators), [2](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [3](https://ahrefs.com/blog/google-advanced-search-operators/), [4](https://l-lists.com/en/lists/m1mdwx.html), [5](https://github.com/BushidoUK/OSINT-SearchOperators)
 * [Google Search Guide](https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters) + [Advanced](https://coursebuilder.withgoogle.com/)
 * [Cyber](https://cyber.page/) - *Hash Search Engine* 
 * [Proisk](https://proisk.com/) - *FTP Search Engine*
@@ -724,6 +726,7 @@ General Reading Sites*
 * [Reddit Status](https://www.redditstatus.com/) - *Check Reddit Status* 
 * [RedditOldRedesignedDark](https://github.com/Jorengarenar/RedditOldRedesignedDark) - *Reddit Stylus Dark Theme*
 * [Reddit Poetry](https://f-a-r-a-z.github.io/reddit-poetry/) - *Reddit Title Poetry Generator*
+* [/m/subredditthemes](https://www.reddit.com/user/Madbrad200/m/subredditthemes) - *Subreddit Themes*
 
 ***
 
@@ -757,7 +760,7 @@ General Reading Sites*
 * [Discord M1](https://github.com/17hoehbr/Discord-M1) - *M1 Mac Discord App*
 * [crocodile](https://github.com/tbodt/crocodile) - *Discord Client for TempleOS*
 * [displunger](https://gitlab.com/derpystuff/displunger) - *Run Old Versions of Discord*
-* [Disboard](https://disboard.org/), [DiscordServers](https://discordservers.com/), [Discord Street](https://discord.st/), [discordlist.io](https://discordlist.io/), [DiscordServers.me](https://discordservers.me/) or [Discord Me](https://discord.me/) - *Discover Discord Servers / Bots* 
+* [Disboard](https://disboard.org/), [RovelStars](https://discord.rovelstars.com/), [DiscordServers](https://discordservers.com/), [Discord Street](https://discord.st/), [discordlist.io](https://discordlist.io/), [DiscordServers.me](https://discordservers.me/) or [Discord Me](https://discord.me/) - *Discover Discord Servers / Bots* 
 * [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - *Use Discord Emojis without Nitro* 
 * [Slackmoji](https://github.com/seanprashad/slackmoji) or [emoji.gg](https://emoji.gg/) - *Discord Emojis*
 * [Ping and Salar's](https://discord.gg/RuFvp72qY4) - *Free Global Discord Emoji Server List / [Instructions](https://discord.com/channels/290572012437372931/444165499035713537/845971730690473994)*
@@ -1024,7 +1027,7 @@ General Reading Sites*
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC)  - *PC Suggestion Community / [Discord](https://discord.gg/TmNgXbwrqJ)*
 * [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop) - *Laptop Suggestion Community / [Discord](https://discord.gg/pes68JM)*
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - *GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)*
-* [r/TechSupport](https://www.reddit.com/r/techsupport/) - *Tech Support Discussion / [Discord](https://discord.gg/2EDwzWa)* 
+* [r/TechSupport](https://www.reddit.com/r/techsupport/) - *Tech Support Discussion / [Discord](https://discord.gg/2EDwzWa) / [Wiki](https://rtech.support/books/)* 
 * [GetHuman](http://gethuman.com/) or [ContactFound](https://contactfound.com/) - *Tech Support Numbers*
 * [Disk Prices](https://diskprices.com/) - *Disk Price Comparisons*
 * [CPU Boss](http://cpuboss.com/) - *CPU Comparison Tool*
@@ -1118,7 +1121,7 @@ General Reading Sites*
 * [StrokeIt](https://www.tcbmi.com/strokeit/) - *Mouse Gestures*
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - *Re-Map Mouse Buttons & Scroll Wheel*
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - *Windows Tweaks*
-* [Win10 Widgets](https://win10widgets.com/) - *Widgets for Windows 10* 
+* [Win10 Widgets](https://win10widgets.com/) or [Gadgets Revived](https://gadgetsrevived.com/) - *Widgets for Windows* 
 * [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - *Windows API Tricks*
 * [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - *Windows 10 Auto Dark Mode*
 * [f.lux](https://justgetflux.com/), [LightBulb](https://github.com/Tyrrrz/LightBulb) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - *Adapts Display Color to Time of Day*
@@ -1191,9 +1194,11 @@ General Reading Sites*
 * [Windows on Raspberry](https://www.worproject.ml/) - *Windows for Raspberry Pi*
 * [amogOS](https://github.com/jostroOS/amogOS) - *Rasberry Pi OS*
 * [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - *Identify why your PC isn't Windows 11 ready*
+* [Win11DevBypass](https://github.com/rushiranpise/win11devbypass) - *Bypass Win 11 Dev Channel Restrictions*
 * [Boot Failure Troubleshooting Chart](https://i.imgur.com/QsxYtB4.jpg) - *Boot Failure Troubleshooting Guide*
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) - *Operating System / Software History / [Discord](https://discord.gg/4TMJb8P)*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
+* [GetCID](https://www.getcid.info/) - *Obtain Windows Confirmation ID*
 
 ***
 
@@ -1498,6 +1503,7 @@ General Reading Sites*
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - *Breath of The Wild Map*
 * [Hallownest](https://www.hallownest.net/) - *Hollow Knight Map*
 * [Open Game Art](https://opengameart.org/) - *Game Assets / Images* 
+* [The Halo Archive](https://discord.gg/feB7RgAHBh) - *Halo Assets Archive*
 * [The Spriters Resource](https://www.spriters-resource.com/) - *Video Game Sprites*
 * [Random Dice](http://www.dicesimulator.com/) - *Dice Simulator*
 * [Roll20](https://roll20.net/), [Rolisteam](https://rolisteam.org/) or [Astral](https://www.astraltabletop.com/) - *Tabletop RPG Streaming*
