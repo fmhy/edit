@@ -157,6 +157,7 @@
 * [Malwaretips Giveaways](https://malwaretips.com/forums/giveaways-promotions-and-contests.75/) - *Software*
 * [Net-Load](https://net-load.com/) - *Software*
 * [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - *Steam Games* 
+* [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997 ) - *Steam Mods*
 * [Games Free Today](https://gamesfree.today/) - *Games*
 * [FreeGames.codes](https://freegames.codes/) - *Games / [Android](http://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes)*
 * [IsThereAnyDeal](https://isthereanydeal.com/#/filter:&price/0/0) - *Games* 
@@ -515,6 +516,8 @@
 * [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - *Zombie Running Adventure Game*
 * [INCIDecoder](https://incidecoder.com/) - *Skincare Ingredient Lists*
 * [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - *Remedies for Sores on Tongue*
+* [7 Cups](https://www.7cups.com/) or [OnlineCounselling4u](https://www.onlinecounselling4u.com/) - *Free Counseling & Therapy*
+* [/u/elkatiuskas' Resource List](https://redd.it/phrcrn) - *Abortion Resource Index*
 
 ***
 
@@ -526,9 +529,12 @@
 * [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - *Earth Viewer*
 * [MapChannels](https://www.mapchannels.com/) - *Mapping / Navigation Tools* 
 * [OldMapsOnline](https://www.oldmapsonline.org/) - *Historical Maps Tool* 
+* [Loc Maps](https://www.loc.gov/collections/general-maps/) - *Historical Maps*
+* [Historic Borders](https://historicborders.app/) - *Historic Borders Map*
+* [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
+* [American Panorama](https://dsl.richmond.edu/panorama/) - *Interactive US Historical Maps*
 * [Map Crunch](https://www.mapcrunch.com/) or [RandomStreetView](https://randomstreetview.com/) - *Random Street View*
 * [KartaView](https://kartaview.org/landing) or [Mapillary](https://www.mapillary.com/) - *Street View Map* 
-* [Loc Maps](https://www.loc.gov/collections/general-maps/) - *Historical Maps*
 * [1940's.nyc](https://1940s.nyc/) - *Explore 1940's New York* 
 * [Snap Map](https://map.snapchat.com/) - *Snap Chat Map*
 * [Flickr Map](https://www.flickr.com/map/) - *Flickr Map*
@@ -545,11 +551,10 @@
 * [SunCalc](https://www.suncalc.org/) or [MoonCalc](https://www.mooncalc.org/) - *Sun & Moon Position / Phase Calculators* 
 * [Wikimapia](http://wikimapia.org/) - *Online Editable Map*
 * [MapChart](https://mapchart.net/) - *Create Custom Maps* 
+* [Point Address](https://pointaddress.com/) - *Custom Location Map*
 * [City Roads](https://anvaka.github.io/city-roads/) - *Draw City Roads*
 * [Mobac](https://mobac.sourceforge.io/) - *Mobile Atlas Creator*
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - *Globe of Ancient Earth*
-* [American Panorama](https://dsl.richmond.edu/panorama/) - *Interactive US Historical Maps*
-* [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
 * [Gas Price Map](https://www.gasbuddy.com/gaspricemap) - *US Gas Price Map*
 * [CellMapper](https://www.cellmapper.net/) - *Cell Tower Map*
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - *Cell Carrier FCC Spectrum Map*
@@ -597,6 +602,7 @@
 * [Fonts Brick](https://brick.im/fonts/) 
 * [d_fonts](https://t.me/d_fonts) 
 * [FreeFontss](https://t.me/freefontss) 
+* [Cufon Fonts](https://www.cufonfonts.com/)
 * [BestFonts](https://bestfonts.pro/) 
 * [13000 Fonts](https://drive.google.com/file/d/0B7ONEAEXwPaqc2g4UEdzbmZETG8/edit?resourcekey=0-Yk36oMN7u93Pst1xn5_z8A) 
 * [10k Font Collection](https://drive.google.com/file/d/1YJiuTFPXGyz7WLw_lq08EXgdibZJu7E8/view)
@@ -636,7 +642,7 @@
 
 * **[Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_adblocking_extensions) / [Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_extensions) Extensions**
 * **[add0n](https://add0n.com/) or [MyBrowserAddon](https://mybrowseraddon.com/)** - *Open-Source Extension Index*
-* **[Buster](https://github.com/dessant/buster)** - *Auto Captcha Solver*
+* **[Buster](https://github.com/dessant/buster)** or [Solved Media Plus](https://greasyfork.org/en/scripts/422074-solved-media-plus) - *Auto Captcha Solver*
 * **[Privacy Pass](https://privacypass.github.io/)** - *Skip Captchas* 
 * **[Dark Reader](https://darkreader.org/)**, [Dark Background and Light Text](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dark_background_and_light_text), [Midnight Lizard](https://midnight-lizard.org/), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) or [222](https://github.com/x08d/222) - *Dark Mode* 
 * [Into The Black Hole](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_into_the_black_hole) - *Dark Mode Browser Theme*
@@ -646,7 +652,6 @@
 * [ScrollAnywhere](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scroll_anywhere) - *Improves Scrolling Functionality*
 * [Scroll to Top](https://mybrowseraddon.com/scroll-to-top.html) - *Scroll to Top Button on all Sites*
 * [Customizable New Tab Page](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page) - *Customize New Tab Page*
-* [Tabiverse](https://tabiverse.com/) - *Universe New Tab Page / [Discord](https://discord.gg/MUgRGwE)*
 * [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - *Quickly Switch between Current & Recently Closed Tabs* 
 * [Always Right](https://github.com/autonome/Always-Right/) - *Always Open New Tabs to the Right*
 * [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - *Manage & Organize Bookmarks* 
@@ -850,8 +855,10 @@
 * [Remove Web Limits](https://greasyfork.org/en/scripts/28497-remove-web-limits-modified), [2](https://greasyfork.org/en/scripts/386908-remove-web-limits-re-modified) - *Force Enable Right Click*
 * [anti-anti-copy](https://greasyfork.org/en/scripts/7197) - *Copy Text from Any Site*
 * [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - *Select Text Inside Links* 
-* [Always Remember Me](https://openuserjs.org/scripts/Patabugen/Always_Remember_Me) - *Always tick "Remember Me"* 
-* [altsearch links](https://greasyfork.org/en/scripts/13542-altsearch-links) - *Adds search on other sites for google, bing, and yahoo*
+* [Always Remember Me](https://openuserjs.org/scripts/Patabugen/Always_Remember_Me) - *Always Tick "Remember Me"* 
+* [Anti-Cookies Consent](https://greasyfork.org/en/scripts/432050-anti-cookies-consent) - *Remove Cookie Consent Popups*
+* [Google Cleaner](https://greasyfork.org/en/scripts/33313-google-cleaner) - *Minimalist Google*
+* [altsearch links](https://greasyfork.org/en/scripts/13542-altsearch-links) - *Adds General Search Engines to Results*
 * [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) - *Imageboards Features / [Themes](https://github.com/KevinParnell/OneeChan) / [GitHub](https://github.com/ccd0/4chan-x)* 
 * [Extra Flags for 4chan](https://gitlab.com/flagtism/Extra-Flags-for-4chan) - *Add More Flags to 4chan*
 * [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - *Google Search Endless Scrolling* 
