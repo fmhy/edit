@@ -155,7 +155,7 @@
 * [Lemmur](https://github.com/krawieck/lemmur) - *Lemmy Client*
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books*
 * [Uploadgram App](https://github.com/pato05/uploadgram-app) - *Uploadgram Frontend*
-* [Instander](https://thedise.me/instander/) - *Modded Instagram Client / [Telegram](https://t.me/instander)*
+* [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - *Modded Instagram Client / [Telegram](https://t.me/instander)*
 * [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) - *Feature-rich Facebook Client*
 * [Frost](https://f-droid.org/en/packages/com.pitchedapps.frost/) or [SlimFacebook](https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook/) - *Facebook Webwrapper*
 * [SlimTwitter](https://f-droid.org/en/packages/it.rignanese.leo.slimtwitter/) - *Twitter Webwrapper*
@@ -353,10 +353,9 @@ App Manager
 
 # ► Android Audio
 
-* **[Spotify APK](https://forum.mobilism.org/search.php?terms=all&amp;author=&amp;sc=1&amp;sf=titleonly&amp;sr=topics&amp;sk=t&amp;sd=d&amp;st=0&amp;ch=300&amp;t=0&amp;submit=Search&amp;keywords=Spotify)** (No Ads) or [Altas-Notas](https://github.com/polonez-byte-112/Altas-Notas) - *Streaming / [Version Manager](https://github.com/xManager-v2/xManager-Spotify) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://f-droid.org/packages/com.rohit2810.spotit/)*
-* **[AIDS](https://forum.mobilism.org/viewtopic.php?f=1332&amp;t=3897714)** - *Download / MP3  / FLAC* 
+* **[Spotify APK](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=Spotify&sf=titleonly)** (No Ads) or [Altas-Notas](https://github.com/polonez-byte-112/Altas-Notas) - *Streaming / [Version Manager](https://github.com/xManager-v2/xManager-Spotify) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://f-droid.org/packages/com.rohit2810.spotit/)*
+* **[AIDS](https://forum.mobilism.org/viewtopic.php?f=1332&amp;t=3897714)** - *Download / MP3 / FLAC* 
 * [YouTube Music Vanced](https://vancedapp.com/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [Ylight Music](https://apt.izzysoft.de/fdroid/repo/com.ylightmusic.app/), [HoloPlay](https://holoplay.io/) or [YMusic](https://ymusic.io/) - *YouTube Music Player*
-* [Freezer](https://freezer.life/) - *Stream / Download / [Discord](https://discord.com/invite/qwJpa3r4dQ) / [Telegram](https://t.me/joinchat/Se4zLEBvjS1NCiY9)* 
 * [Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players) - *Music Players / Libraries*
 * [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - *Subsonic Client*
 * [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - *Streaming*
@@ -448,6 +447,7 @@ Add "huhu.to", "bs.to" or "oha.to"*
 * [RSS Player](https://play.google.com/store/apps/details?id=pis.android.rss.rssplayer&amp;hl=en_US) - *KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)
 RSS Player*
 * [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [YetAnotherVideoPlayer](https://github.com/shadow578/YetAnotherVideoPlayer) or [MX Player](https://forum.mobilism.org/search.php?keywords=Mx+player&amp;terms=all&amp;author=Balatan&amp;sc=1&amp;sf=titleonly&amp;sr=topics&amp;sk=t&amp;sd=d&amp;st=0&amp;ch=300&amp;t=0&amp;submit=Search) - *Video Player*
+* [SyncPlayer](https://f-droid.org/en/packages/io.github.powerinside.syncplay/) - *Video Sync App*
 * [Android TV Mod](https://t.me/androidtvmod) - *Android TV / Fire TV / Fire Stick / Mods / Telegram*
 * [Android TV IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) - *IPTV Players for Android TV's*
 * [Great Courses Plus Premium](https://onehack.us/t/get-the-great-courses-plus-premium-android/92613) - *Courses*
@@ -699,6 +699,7 @@ RSS Player*
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *Download / FLAC / MP3*
 * [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - *Spotify Release Tracker / Metrics* 
 * [Boom](https://apps.apple.com/us/app/boom-bass-booster-equalizer/id1065511007) - *Audio Equalizer*
+* [HD Player](https://apps.apple.com/us/app/hs-player-flac-equalizer/id857650606) - *Audio Player*
 * [Denim](https://apps.apple.com/us/app/denim-playlist-cover-maker/id1532250420) - *Playlist Cover Maker*
 
 ***
