@@ -275,6 +275,7 @@ App Manager
 * [Apk4All](https://apk4all.com/) - *Modded*
 * [ReXdl](https://rexdl.com/) - *Modded*
 * [Source of APK](https://sourceofapk.com/) - *Modded*
+* [5Play](https://5play.ru/en/) - *Modded*
 * [iHackedit](http://ihackedit.com/) - *Modded* 
 * [Modules Repositor](https://t.me/modulesrepo) - *Modded*
 * [AndroPalace](https://www.andropalace.org/) - *Modded* 
