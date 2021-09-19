@@ -175,7 +175,6 @@
 * [ShareAppCrack](https://shareappscrack.com/) - *Software / Courses*
 * [downloadly](https://downloadly.ir/) - *Software / Courses*
 * [PiratePC](https://piratepc.me/) - *[Discord](https://discord.gg/QhaKfHwWmV)*
-* [Softotornix](https://softotornix.com/)
 * [AIOWares](https://www.aiowares.com/) 
 * [Mr. SzzS](https://www.youtube.com/channel/UCcf3dtQFVb5zfy0jGYNpA0w)
 * [Softlay](https://softlay.net/)
@@ -184,13 +183,9 @@
 * [msdn.hackerc](https://msdn.hackerc.at/)  
 * [4Download](https://www.4download.net/) 
 * [Softwares 2 U](https://www.softwares2u.com/) 
-* [Cracksoftwaress](https://cracksoftwaress.com/) 
 * [onHax](https://onhax.io/)
 * [MAZTERIZE](https://www.mazterize.com/) 
-* [PCSoftFull](https://pcsoftsfull.com/) 
 * [SoftnCracks](https://softncracks.com/) 
-* [KickassCracks](https://kickasscracks.com/) 
-* [SoftHouse](http://softhouse.cc/)
 * [VectorItalia](https://www.vectoritalia.com/)
 * [MySoftwareFree](https://mysoftwarefree.com/)
 * [Mutaz.net](https://www.mutaz.net/) - *PC / Mac / Android*
