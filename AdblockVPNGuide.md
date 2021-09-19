@@ -49,11 +49,12 @@
 * [Quad9](https://quad9.net/) 
 * [Rethink](https://rethinkdns.com/)
 * [YogaDNS](https://yogadns.com/)
+* [LibreDNS](https://libredns.gr/)
 * [DNSCrypt](https://www.dnscrypt.org) - *[Manager](https://simplednscrypt.org/)*
 * [AlternateDNS](https://alternate-dns.com/index.php)
 * [Stubby](https://github.com/getdnsapi/stubby)
 * [Diversion](https://diversion.ch/) 
-* [NextDNS](https://nextdns.io) - *[Email leak warning](https://redd.it/jt28e8)*
+* [NextDNS](https://nextdns.io) - *[Enhancement](https://greasyfork.org/en/scripts/408934-nx-enhanced) / [lLeak Warning](https://redd.it/jt28e8)*
 * [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/), [FreeMyIP](https://freemyip.com/) or [Desec](https://desec.io/) - *Dynamic DNS Service*
 * [Encrypted DNS Resolvers](https://www.privacytools.io/providers/dns/)
 * [ProxyNation](https://www.proxynation.org/)
@@ -308,6 +309,7 @@
 * [fluxfonts](https://github.com/da2x/fluxfonts) - *Hide Unique Font Fingerprint*
 * [dataskydd](https://webbkoll.dataskydd.net/) or [Blacklight](https://themarkup.org/blacklight) - *Check what data-protecting measures a site has taken*
 * [uBO-Scope](https://github.com/gorhill/uBO-Scope) - *Measure 3rd Party Exposure* 
+* [alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - *Frontend Index*
 * [Invidious](https://redirect.invidious.io/) / [2](https://tube.cadence.moe/), [FreeTubeApp](https://freetubeapp.io/), [Piped](https://github.com/TeamPiped/Piped) or [Youtube-local](https://github.com/user234683/youtube-local) - *YouTube frontend / Free / No Account Required / [Instances](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)* 
 * [Wikiless](https://wikiless.org/) - *Wikipedia Frontend / [Source](https://codeberg.org/orenom/Wikiless)*
 * [Yotter](https://yotter.kavin.rocks/) - *Youtube / Twitter Frontend* 
@@ -431,13 +433,14 @@
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
 * [VPNGate](https://www.vpngate.net/en/) - *Free VPN Relay Servers*
 * [OpenVPN](https://openvpn.net/) - *VPN Tunnel / [Linux Wrapper](https://github.com/slingamn/namespaced-openvpn)* 
-* [RaceVPN](https://www.racevpn.com/), [PisoVPN](https://pisovpn.com or [LionSSH](https://www.lionssh.com/) - *Free VPN Tunnels*
+* [RaceVPN](https://www.racevpn.com/), [Free OpenVPN](https://freeopenvpn.org/), [PisoVPN](https://pisovpn.com or [LionSSH](https://www.lionssh.com/) - *Free VPN Servers*
 * [Gluetun](https://github.com/qdm12/gluetun) - *Tunnel your Docker containers through a VPN*
 * [PiVPN](https://pivpn.io/) - *Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)* 
 * [Enterprise](https://pritunl.com/) - *VPN Server* 
 * [Amnezia](https://github.com/amnezia-vpn/desktop-client/) - *Self-hosted VPN*
 * [Self-hosted VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/selfhost-vpn) - *Self-hosted VPN guide by /u/Kaxry*
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - *Arch Linux base with Deluge, Privoxy & OpenVPN*
+* [VPNHotspot](https://github.com/Mygod/VPNHotspot) - *Share VPN Connection over Hotspot*
 * [Killswitch](https://github.com/nologs-vpn/killswitch) or [KillSwitch](https://github.com/nerfirelia123/KillSwitch) - *Custom VPN Killswitch*
 * [/r/VPN](https://reddit.com/r/VPN) - *VPN Help and Discussion* 
 * [OilAndFish](https://www.oilandfish.com/) - *Firewall Bypass Guide*
@@ -457,7 +460,7 @@
 * [Fri-Gate](https://fri-gate.org/) - *Advanced Proxy Settings Addon*  
 * [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - *Limit proxy usage by private windows* 
 * [Hitch](https://hitch-tls.org/) - *SSL / TLS Proxy*
-* [SSHPOWER](https://www.sshpower.net/) - *SSH & SSL Tunneling Servers*
+* [SSHPOWER](https://www.sshpower.net/) or [FastSSH](https://www.fastssh.com/) - *SSH & SSL Tunneling Servers*
 
 ***
 
