@@ -334,6 +334,7 @@
 * [Messy occult library](https://mega.nz/#F!BNljAKhB!eY3NfH3DZtthocohW8Lwwg) - *Occult / Esoterica / Gnosticism* 
 * [LeftHandPath](https://mega.nz/#F!E4cSzYBZ!SPeQA0WuSMVh_oQtpYnN5w) - *Luciferianism* 
 * [mr.taco9's library](https://drive.google.com/drive/folders/0B7TpGr9NCseXVWRQbFlpT28zQzg) - *Occult / Luciferianism* 
+* [The Law of One](https://www.lawofone.info/) - *The Law of One Sessions*
 * [Esoteric Archive](http://esotericarchives.com/) - *Esoterica*
 * [Masonic Library](https://masonicshop.com/masonic-library/) - *Esoterica / Freemasonry*
 * [Golden Dawn](https://golden-dawn.com/nl/library.aspx) - *Alchemy / Esoterica*
