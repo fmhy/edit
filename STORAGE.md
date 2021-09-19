@@ -401,6 +401,7 @@ https://archive.org/details/nintendo-3ds-complete-collection)
 
 * [How to Download & Play Flash Games](https://i.imgur.com/T6huIGF.png), [2](https://www.wikihow.com/Download-a-Flash-Game)
 * [Ruffle](https://ruffle.rs/) - *Flash Emulator* 
+* [Flash Browser](https://github.com/radubirsan/FlashBrowser) - *Flash Player Browser*
 * [SuperNova](https://www.getsupernova.com/) - *Browser Flash Player*
 * [Lightspark](https://lightspark.github.io/) - *Open-Source Flash Player*
 * [CleanFlash](https://github.com/CleanFlash/installer) - *Open-Source Flash Player*
