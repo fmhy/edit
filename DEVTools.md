@@ -134,7 +134,6 @@
 * [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - *Discord Code Blocks*
 * [Discord4J](https://discord4j.com/) or [Diskord](https://diskord-dev.github.io/) / [GitHub](https://github.com/diskord-dev/diskord) - *Discord API Wrapper*
 * [Javacord](https://javacord.org/) - *Discord Bot Creation Library*
-* [discord.io](https://github.com/izy521/discord.io) - *Discord Client Creator*
 * [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - *C++ Library for Discord*
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - *Toolbox for Reddit Extension Development*
 * [XunLei](https://www.xunlei.com/) - *Shared Computing / Blockchain*
