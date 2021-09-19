@@ -523,7 +523,7 @@
 * [browserbench](https://browserbench.org/) - *Multiple Browser Benchmark Tests*
 * [VsyncTester](https://vsynctester.com/) - *Browser VSYNC Test*
 * [QuteBrowser](https://qutebrowser.org/) - *Keyboard Focused Browser* 
-* [Browsh](https://www.brow.sh/) - *Text Based Browser* 
+* [Browsh](https://www.brow.sh/) or [Lynx](https://lynx.browser.org/) - *Text Based Browser* 
 * [Beaker](https://beakerbrowser.com/) - *P2P Web Browser* 
 * [webbrowser.git](https://git.nuegia.net/webbrowser.git/) - *Lightweight Browser* 
 * [MinBrowser](https://minbrowser.org/) - *Minimalist Browser*
@@ -656,7 +656,8 @@ General Reading Sites*
 * [Xenu-Link](http://home.snafu.de/tilman/xenulink.html), [Cyotek-Webcopy](https://www.cyotek.com/cyotek-webcopy), [Dead Link Checker](https://www.deadlinkchecker.com/) or [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php) - *Broken Link Checker*
 * [W.A.R. Links Checker Premium](http://usa.x10host.com/mybb/showthread.php?tid=88) - *Checks If File Links are Alive or Not*
 * [SafeLinking](https://safelinking.net/), [Gdrivez](https://www.gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [BrBushare](https://brbushare.xyz/) or [ShortLinkto](https://shortlinkto.top/) - *Link Protectors* 
-* [WhoIsRequest](https://whoisrequest.com/) or [Securrity Whoiz](http://www.securrity.ru/whoiz.html) - *Domain Information Lookup* 
+* [WhoIsRequest](https://whoisrequest.com/) or [Securrity Whoiz](http://www.securrity.ru/whoiz.html) - *Domain Information Lookup
+* [Awesome Piracy Bot](https://github.com/Igglybuff/awesome-piracy-bot) - *URL Scraping Tool*
 * [Hosting Check](https://hostingchecker.com/) - *Site Host Checker*
 * [CarbonDates](http://carbondate.cs.odu.edu/) - *Check Site Creation Date* 
 * [URL2IMGBot](https://t.me/URL2IMGBot) - *Takes a screenshot for any URL / Telegram* 
@@ -688,7 +689,7 @@ General Reading Sites*
 * [The-Eye /r/](https://the-eye.eu/r/) - *Subreddit Backups* 
 * [rareddit](https://www.rareddit.com/), [Archive Reddit](https://www.archivereddit.com/), [PushShift Reddit](http://files.pushshift.io/reddit/) or [Reddit Archive](http://www.redditarchive.com/) - *Reddit Post Archive* 
 * [Reddit (Au) Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - *Highlights New Comments*
-* [rComments](https://github.com/iampueroo/rComments) - *Explore Comments & Replies without Clicking a Post *
+* [rComments](https://github.com/iampueroo/rComments) - *Explore Comments & Replies without Clicking a Post 
 * [rAger](https://chrome.google.com/webstore/detail/rager/fohlpjahcdbkpcckapphhpahbiajccmj) - *Display Account Age & Karma of Users*
 * [Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect) - *Always Load Old Reddit Design*
 * [Reddit Preview](https://redditpreview.com/) - *Preview Reddit Posts*
@@ -696,6 +697,7 @@ General Reading Sites*
 * [Scroller](https://scrolller.com/) - *Reddit Image Auto-Scroller* 
 * [Reddit Grid](https://redditgrid.com/) - *Reddit Image Grid* 
 * [Redinfinite](https://redinfinite.com/) or [Redditp](https://www.redditp.com/) - *Reddit Image / Video Slideshow* 
+* [ScrollDrop](https://www.scrolldrop.com/) - *Reddit Media Crawler*
 * [3D for Reddit](https://3dforreddit.com/) - *3D Reddit Browser* 
 * [MSOutlookit](https://pcottle.github.io/MSOutlookit/) or [Routlookit](https://routlookit.com/) - *Outlook-Style Reddit Viewer*
 * [RDDDeck](https://rdddeck.com/) - *Twitter-Style Reddit Viewer* 
