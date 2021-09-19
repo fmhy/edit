@@ -29,7 +29,7 @@
 
 * **[Spotify](https://open.spotify.com/)** or [Spotify One](https://spotfy.one/)  - *Browser Music*
 * **Spotify Tools** - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Listen Together](http://jqbx.fm/) / [Customize](https://github.com/Darkempire78/Spotify-Customizer)
-* **[YouTube Music](https://music.youtube.com/)** - *Browser Music / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo)*
+* **[YouTube Music](https://music.youtube.com/)** - *Browser Music / [Lag Fix](https://greasyfork.org/en/scripts/432304-youtube-music-fix-performance) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo)*
 * **[Reddit Music Player](https://reddit.musicplayer.io/)** - *Subreddit Music Player*
 * **[SoundCloud](https://soundcloud.com/)** - *User made songs*
 * [ccMixter](http://ccmixter.org/) or [dig ccMixter](http://dig.ccmixter.org/dig) - *Browser Music*
@@ -104,7 +104,7 @@
 * [latestation](http://radio.late.city/) - *Late-Night Radio*
 * [LISTEN.moe](https://listen.moe/)  - *K-Pop Radio*
 * [Fountain of Dreams](https://fountainofdreams.net/) - *Japanese 80's Radio* 
-* [Rainwave](https://rainwave.cc/), [Squid Radio](https://www.squid-radio.net/) or [Sitting On Clouds Radio](https://www.sittingonclouds.ru/) - *Video Game Music Radio*
+* [Rainwave](https://rainwave.cc/), [Squid Radio](https://www.squid-radio.net/), [RPGGamers Radio](http://www.rpgamers.net/radio/), [VGMRadio](https://vgmradio.com/) or [Sitting On Clouds Radio](https://www.sittingonclouds.ru/) - *Video Game Music Radio*
 * [Nectarine](https://www.scenestream.net/demovibes/streams/) - *Demo Scene Music Radio*
 * [Radio Garden](https://radio.garden/) - *Worldwide Radio*
 * [Radiooooo](https://radiooooo.com/) - *Radio / Time Machine*
@@ -144,7 +144,8 @@
 * [Nature Mixer](https://naturemixer.com/) - *Ambient* 
 * [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - *Ambient*
 * [MoodTurn](http://moodturn.com/) - *Ambient*
-* [Ambient Mixer](https://www.ambient-mixer.com/) - *Ambient / Music* 
+* [lofi](https://lofi.co/) - *Ambient / Lo-fi*
+* [Ambient Mixer](https://www.ambient-mixer.com/) - *Ambient / Lo-fi* 
 * [Calm](https://app.www.calm.com/) - *Meditation / Sleep Music* 
 * [Tide.fm](https://tide.fm/) or [Sounds4Sleep](https://sounds4sleep.com/) - *Meditation / Sleep Sounds* 
 * [ChillOuts](http://www.chillouts.com/) - *Meditation Aid*
@@ -240,6 +241,7 @@
 * [Music HiRes](https://music-hires.blogspot.com/) - *FLAC*
 * [DiscogC](https://www.discogc.com/) - *FLAC*
 * [ubdn](http://ubdn.me/) - *MP3 / FLAC* 
+* [/r/xTrill](https://reddit.com/r/xTrill) - *MP3 / FLAC*
 * [IntMusic](https://intmusic.net/) - *MP3 / FLAC*  
 * [Mp3Flac](https://mp3flac.site/) - *MP3 / FLAC*
 * [Gangster](https://gangster.su/) - *MP3 / FLAC*  
@@ -321,7 +323,7 @@
 
 * **[Last.fm](https://www.last.fm/home)** or [Libre](https://libre.fm/) - *Automatically track music you listen to / [Manual Scrobble](https://openscrobbler.com/) / [Web Scrobble](https://web-scrobbler.com/) / [Android](https://github.com/kawaiiDango/pScrobbler)*
 * **[Has it leaked](https://hasitleaked.com/)** or [LEAKED](https://leaked.cx/) - *Album Leak Tracker*
-* **[Muspy](https://muspy.com/)** - *Get album release updates*
+* **[Muspy](https://muspy.com/)** - *Get Album Release Updates*
 * **[Sputnik](https://www.sputnikmusic.com/)**, [RateYourMusic](https://rateyourmusic.com/), [Discogs](https://www.discogs.com/), [listnd](https://listnd.com/) or [Musicbranz](https://musicbrainz.org/) - *Ratings / Reviews*
 * [45Cat](http://www.45cat.com/) - *Vinyl Ratings / Reviews*
 * [World Spotify](https://www.worldspotify.com/) - *Daily Most Streamed Tracks by Country* 
