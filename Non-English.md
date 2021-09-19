@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/YLugvY1.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/fpyAYJU.png)** - *For mobile users*
 
 ***
 ***
@@ -474,6 +474,8 @@
 ***
 
 # ► Indonesian 
+
+* [bebasid](https://github.com/bebasid/bebasid) - *Indonesian Site Unblock Proxy / [DNS](https://github.com/bebasid/bebasdns)*
 
 ## ▷ Downloading 
 
@@ -1018,6 +1020,7 @@
 * [G Nula](https://gnula.se/) - *Movies / TV / Anime* 
 * [gnula.nu](http://gnula.nu/) - *Movies / TV* 
 * [Cliver](https://www.cliver.to/) - *Movies*
+* [Repelis24](https://repelis24.co/) - *Movies / TV*
 * [HomeCine](https://homecine.me/) - *Movies* 
 * [Zoowoman](https://zoowoman.website/) - *Movies* 
 * [Danimados](https://danimados.com) - *TV / Anime*
@@ -1108,10 +1111,6 @@
 * [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.com/) - *Movies / Choose Voltran & press "скачать" for DL's*  
 * [MP3 Indir](https://www.mp3indirdur.mobi/) - *Music* 
 
-## ▷ Torrenting
-
-* [FullOyun](https://www.fulloyun.net/) - *Games* 
-
 ## ▷ Streaming
 
 * [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.com/) - *Movies / Choose Voltran & press "скачать" for DL's* 
@@ -1169,6 +1168,7 @@
 * [JioRockers](http://www.jiorockers.uk/) - *Streaming / Movies*
 * [v100v.net](https://www.v100v.net/) - *Streaming / Movies*
 * [7MovieRulz](https://7movierulz.im/) - *Streaming / Movies*
+* [1jalshamoviez](https://www.1jalshamoviez.info/) - *Download / Movies*
 * [4MovieRulz](https://4movierulz.gg/) - *Download / Movies*
 * [Indian Flac Songs](https://t.me/indianflacsongs) - *Download / Music*
 * [TamilBlasters](https://tamilblasters.art/) - *Torrent / Movies*
