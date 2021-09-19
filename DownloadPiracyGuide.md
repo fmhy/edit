@@ -38,7 +38,7 @@
 
 # ► Download Sites
 
-* **Note** - It's best to avoid sites that allow anyone to upload without consequences (like thepiratebay) when getting both software and games.
+* **Note** - It's best to avoid sites that allow anyone to upload without consequence (like thepiratebay) when getting both software and games.
 
 ***
 
