@@ -75,6 +75,7 @@
 * [Leggendaria](https://chuchy.neocities.org/leggendaria.altervista.org/archive.htm) - *Bemani & Touhou Games*
 * [CsWaRzOnE](https://www.cswarzone.com/) - *Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)*
 * [JustEmuTarkov](https://justemutarkov.eu/) - *Escape from Tarkov Emulator*
+* [CWA](https://www.cwaemu.com/) - *Clone Wars Adventures Emulator / [Discord](https://discord.gg/a3Ugb9dzzv)*
 * [Minetest](https://www.minetest.net/) - *F2P Minecraft Alternative* 
 * [Unciv](https://github.com/yairm210/Unciv) - *Civ V Remake*
 * [London 2038](https://london2038.com/) - *London 2038 Multiplayer Revival Project*
@@ -144,6 +145,7 @@
 * [Replayers](https://replayers.org/) - *Roms*
 * [GLoad](https://gload.to/) - *Roms*
 * [WowRoms](https://wowroms.com/en/) - *Roms*
+* [RomsFun](https://romsfun.com/) - *Roms*
 * [FreeRoms](https://www.freeroms.com/) - *Roms*
 * [NanoRoms](https://nanoroms.com/) - *Roms*
 * [DaRoms](http://daroms.com/) - *Roms* 
@@ -225,7 +227,7 @@
 * [DS Roms](https://archive.org/details/noIntroNintendoDsDecrypted2019Jun30), [2](https://mega.nz/folder/33AhDa4T#awOqr7lhZYFgjXoMMu6_8w) - *Roms / DS*
 * [DSi Collection](https://archive.org/details/No-Intro_Nintendo_DSi_2018-06-30) - *Roms / DSi* + [DSi DLC](https://archive.org/details/NintendoDSiDLC2019)
 * [3DS Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - *Roms / 3DS*
-* [SNES Collection](https://archive.org/details/CylesSNESRomPack) - *Roms / SNES*
+* [SNES Collection](https://archive.org/details/CylesSNESRomPack) or [SNES Rom Drive](https://mega.nz/file/9kdW1QYI#9VuLOFJGDbA6NIg8D33w8PYzPZ1E_Wop5Basd9kMWTg) - *Roms / SNES / PW: skwbr*
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - *NES, SNES & Playstation Mods*
 * [Dreamcast Collection](https://archive.org/details/almstcmpltdrmcst) - *Roms / Dreamcast*
 * [Sega Saturn Collection](https://archive.org/details/SgaStrnCmplt) - *Roms / Sega Saturn*
@@ -281,8 +283,10 @@
 * [Br0legs Zandronum](https://drive.google.com/file/d/1B8ze1SPpwE0DI1nDKkyS4iXyfLsO_DbV/view?usp=sharing) or [Realm667](https://www.realm667.com/index.php/en/) - *Doom Mods* 
 * [SLADE](https://slade.mancubus.net/) - *Doom Modding Tool / [GitHub](https://github.com/sirjuddington/SLADE)*
 * [Doom64 EX](https://doom64ex.wordpress.com/downloads/) - *Doom 64 PC Port* 
+* [dhewm3](https://dhewm3.org/) - *Doom 3 Source Port*
 * [DOOM FX](https://github.com/RandalLinden/DOOM-FX) - *Doom SNES Source Code*
 * [Unreal Archive](https://unrealarchive.org/index.html) - *Unreal Tournament Mods, Maps, Skins ect.*
+* [Q1K3](https://js13kgames.com/games/q1k3/index.html) - *Quake Inspired Browser Game*
 * [rottexpr](https://github.com/LTCHIPS/rottexpr) - *Rise of the Triad Source Port*
 * [ECWolf](https://maniacsvault.net/ecwolf/) - *Wolfenstein 3D, Spear of Destiny & Super 3D Noah's Ark Port*
 * [ET: Legacy](https://www.etlegacy.com/) - *Wolfenstein Enemy Territory Multiplayer Project / [Discord](https://discord.gg/UBAZFys)*
@@ -359,6 +363,7 @@
 * [GeoFS](https://www.geo-fs.com/geofs.php) - *Plane Simulator*
 * [Classic Minecraft](https://classic.minecraft.net/) - *Play Classic Minecraft* 
 * [Marble Blast Gold Web](https://marbleblast.vani.ga/) - *Marble Blast Gold in Browser*
+* [The Multiverse](https://across-multiverse.com/) - *Universe Exploration Game Across*
 * [Flavour Machine](https://flavourmachine.com/) - *Twists to well known games*
 * [ The Thorp of Woodstock](https://cheerfulghost.github.io/civ-clicker/index.html) - *Build a Civilization*
 * [Badger Kingdom](http://www.badgerkingdom.pantomimepony.co.uk/) - *Manage a group of badgers, help them survive*  
