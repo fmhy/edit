@@ -98,6 +98,7 @@
 * [Movie-Forum](https://movie-forum.co/forum.php) - *Movies / TV*
 * [K a p K e y K](https://kpkyk.com/) - *Movies / TV*
 * [IceFilms](https://wwv.icefilms-info.com/) - *Movies / TV*
+* [PrettyFlix](https://prettyflix.gq/) - *Movies / TV / Anime*
 * [Movies Ni Pipay](https://moviesnipipay.me/) - *Movies / TV*
 * [2Embed](https://www.2embed.ru/library) - *Movies / TV*
 * [LosMovies](https://losmovies.live/) - *Movies / TV / Anime* 
@@ -127,7 +128,6 @@
 * [Watch free](https://1watch-free.cc/) - *Movies / TV* 
 * [EMovies](https://emovies.io/) - *Movies / TV / Anime*
 * [Movie4k](https://movie4k.123movies.online/) - *Movies / TV*
-* [PrettyFlix](https://prettyflix.gq/) - *Movies / TV / Anime*
 * [SeeHD](https://seehd.nl/) - *Movies / TV / Anime* 
 * [SeeHD.uno](https://www.seehd.uno/) - *Movies / TV / Anime / NSFW* 
 * [Yesmovies.love](https://yesmovies.love/) - *Movies / TV / Anime* 
