@@ -269,6 +269,7 @@
 * [Genetic Cars 2](https://rednuht.org/genetic_cars_2/) - *Random 2D Car Generator*
 * [cachemonet](http://cachemonet.com/) - *Randomly Generated GIFs/ Backgrounds* 
 * [Wonder of Wonder Art](https://aidn.jp/wowa/) - *Create a Dancing Character* 
+* [Family Guy Yourself](http://www.familyguyyourself.com/) - *Family Guy Character Creator*
 * [CAT BOUNCE!](https://cat-bounce.com/) - *Bounce Cats*
 * [Tamajoji](https://flixflox.itch.io/tamajoji) - *Browser Tamagotchi*
 * [Gifypet](https://gifypet.neocities.org/) - *Create Your Own Cute Pet* 
@@ -555,6 +556,7 @@
 * [City Roads](https://anvaka.github.io/city-roads/) - *Draw City Roads*
 * [Mobac](https://mobac.sourceforge.io/) - *Mobile Atlas Creator*
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - *Globe of Ancient Earth*
+* [Ancestry Images](http://www.ancestryimages.com/) - *Historical Photo & Map Archive*
 * [Gas Price Map](https://www.gasbuddy.com/gaspricemap) - *US Gas Price Map*
 * [CellMapper](https://www.cellmapper.net/) - *Cell Tower Map*
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - *Cell Carrier FCC Spectrum Map*
@@ -603,6 +605,7 @@
 * [d_fonts](https://t.me/d_fonts) 
 * [FreeFontss](https://t.me/freefontss) 
 * [Cufon Fonts](https://www.cufonfonts.com/)
+* [FontsArena](https://fontsarena.com/)
 * [BestFonts](https://bestfonts.pro/) 
 * [13000 Fonts](https://drive.google.com/file/d/0B7ONEAEXwPaqc2g4UEdzbmZETG8/edit?resourcekey=0-Yk36oMN7u93Pst1xn5_z8A) 
 * [10k Font Collection](https://drive.google.com/file/d/1YJiuTFPXGyz7WLw_lq08EXgdibZJu7E8/view)
@@ -668,7 +671,7 @@
 * [Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups) or [Acid Tabs](https://github.com/jdhayford/acid-tabs-extension) - *Group Tabs* 
 * [Tab for a Cause](https://tab.gladly.io/) - *New Tabs = Charity Donation*
 * [Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button) - *Quickly Close All Tabs*
-* [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/) or [ImTranslator](https://imtranslator.net/) - *Translator* 
+* [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/), [DeepL Translator](https://chrislo.ca/deepl/) or [ImTranslator](https://imtranslator.net/) - *Translator* 
 * [Dictionaries](https://github.com/pnlpal/dictionaries), [phlinx](https://phlinx.com/) or [Definer](https://lumetrium.com/definer/) - *Popup Dictionary* 
 * [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - *Magnify Webpages*
 * [Zoom WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_zoom_we) or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - *Improves Zoom Functionality*
