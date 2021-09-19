@@ -40,6 +40,7 @@
 * [SEHS Gamess](https://www.sehsgames.com/)
 * [GameLoo](http://www.gameloo.info/)
 * [Games Flix](https://gamesflix.net/) 
+* [Leeching Hell](http://leechinghell.pw/)
 * [cracked-games](https://cracked-games.org/) - *[Discord](https://discord.gg/tNhPmCU)*
 * [LegendaryRepacks](http://legendaryrepacks.simplesite.com/) - *[Discord](https://discord.gg/RUSNHSk) / Adblock & Universal Bypass Required*
 * [TOPXGAME](https://topxgame.com/)
