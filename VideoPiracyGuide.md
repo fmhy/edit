@@ -53,7 +53,9 @@
 * [123MoviesFree](https://123moviesfree.net/) - *Movies / TV / Anime* 
 * [Gophie](https://gophie.cam/) - *Movies / TV*
 * [SmFlix](https://smflix.cc/) - *Movies / TV*
+* [KollaFilm](https://kollafilm.com/) - *Movies / TV*
 * [StreamLord](http://www.streamlord.com/) - *Movies / TV*
+* [9PM](https://9pm.to/) - *Movies / TV*
 * [OnionPlay](https://onionplay.uk/) - *Movies / TV*
 * [Afdah](https://afdah.info/) - *Movies / TV*
 * [VStream](https://movie.directmoviedl.com/) - *Movies / TV*
@@ -166,6 +168,7 @@
 * [123movies](https://api.123movie.cc/) - *Streaming API* 
 * [SuperEmbed](https://www.superembed.stream/) - *Streaming API / [Search](https://pastebin.com/ExB4ksvT)*
 * [1movietv](https://1movietv.com/) - *Streaming API* 
+* [GoMo](https://gomo.to/) - *Streaming API*
 * [2Embed](https://www.2embed.ru/) - *Streaming API* 
 * [VidSrc](https://vidsrc.me/) - *Streaming API* 
 * [Crocovid](http://crocovid.com/) - *Multi Host Search*
@@ -229,6 +232,7 @@
 * **[Noxx](https://noxx.is)** - *TV*
 * **[GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search)** - *TV / Anime*
 * **[CouchTuner](https://www.couchtuner.host/)** - *TV* 
+* [OnlySeries](https://onlyseries.net/) - *TV*
 * [MyWatchSeries](https://www5.mywatchseries.stream/) - *TV / Anime* 
 * [KissTVShow](https://kisstvshow.to/) - *Asian TV Shows / Subtitles*   
 * [turkish123](https://turkish123.com/) - *Turkish TV Shows / Subtitles* 
@@ -259,7 +263,7 @@
 * [Simplyaweeb](https://simplyaweeb.com/) - *Sub / Dub / [Discord](https://discord.gg/4uGvPUV)* 
 * [DubbedAnime](https://ww5.dubbedanime.net/) - *Sub / Dub / [Discord](https://discord.gg/8FyN3w5)*
 * [AnimeBam](https://www.animebam.se/) - *Sub / Dub*
-* [KickAssAnime](https://www2.kickassanime.rs/) - *Sub / Dub*
+* [KickAssAnime](https://www2.kickassanime.ro/) - *Sub / Dub*
 * [RyuAnime](https://ryuanime.com/) - *Sub / Dub*
 * [Genoanime](https://genoanime.com/) - *Sub / Dub* 
 * [Just Dubs](http://justdubs.org/) - *Dub*
@@ -296,8 +300,10 @@
 * [cartooncrazy](https://www.cartooncrazy.tv/), [2](http://www.cartooncrazy.net/) - *Anime / Cartoons* 
 * [thewatchcartoononline](https://www.thewatchcartoononline.tv/), [wcostream](https://www.wcostream.com/), [wcoforever](https://www.wcoforever.com/ ) or [WCO](https://www.wco.tv/) - *Anime / Cartoons* 
 * [Funimation](https://www.funimation.com/shows/free/) - *Sub / Dub* 
+* [Pokemon.com](https://watch.pokemon.com/) - *Full Pokemon Episodes*
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - *Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/)* 
 * [Crunchyroll iFrame Player](https://greasyfork.org/en/scripts/411391-crunchyroll-iframe-player) - *Crunchyroll Premium Bypass Script*
+* [anime-terminal](https://github.com/YogeshLamichhane/anime-terminal) - *Anime Streaming Terminal for Linux*
 
 ***
 
@@ -405,7 +411,7 @@
 * [FreeStream-Live](http://freestreams-live1.com/) - *Sports* 
 * [Awesome IPTV](https://github.com/iptv-org/awesome-iptv), [2](https://github.com/iptv-org/iptv) - *IPTV Resources*
 * IPTV Tools - [IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Plex + Emby Proxy](https://xteve.de/) / [m3u to txt](https://siptv.eu/converter/) / [M3U Editor](https://m3u4u.com/) 
-* [HLS Cat](https://hlscat.com/), [Sneh IPTV](https://github.com/techiesneh/sneh-iptv-m3u), [IPTVCat](https://iptvcat.net/), [DailyIPTVList](https://www.dailyiptvlist.com/ip-tv/), [CCcam](https://cccamiptv.cc/) or [TVLab](https://t.me/tvlab) - *IPTV Playlists*
+* [HLS Cat](https://hlscat.com/), [Sneh IPTV](https://github.com/techiesneh/sneh-iptv-m3u), [IPTVCat](https://iptvcat.net/), [DailyIPTVList](https://www.dailyiptvlist.com/ip-tv/), [AllIPTV](https://www.alliptvlinks.com/), [CCcam](https://cccamiptv.cc/) or [TVLab](https://t.me/tvlab) - *IPTV Playlists*
 * [iptv_sport](https://t.me/iptv_sport) - *IPTV Sports Playlists / Telegram*
 * [dummyepgxml](https://github.com/yurividal/dummyepgxml) - *Dummy EPG xml Generator*
 * [Football Live Stream](https://football-live.stream/free-matches-online-6) - *Football* 
@@ -470,6 +476,7 @@
 * [HugeWarez](http://hugewarez.net/movies/) - *Movies / TV*
 * [Extra Movies](https://extramovies.world/) - *Movies*  
 * [NetNaija](https://www.thenetnaija.com/) - *Movies / TV*  
+* [KimoiTV](https://www.kimoitv.com/) - *Movies / TV / Anime*
 * [MeloMovie](https://melomovie.com/) - *Movies / TV*
 * [Best-Movies](http://best-movies.info/) - *Movies / TV*   
 * [Happy2Hub](https://happy2hub.net/) - *Movies / TV*   
