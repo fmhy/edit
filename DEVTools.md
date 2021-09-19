@@ -49,6 +49,7 @@
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/) - *HTML & CSS Tutorials*
 * [VIM Adventures](https://vim-adventures.com/) - *VIM Learning Game*
 * [Learn C](https://www.learn-c.org/) - *C Tutorial*
+* [HowIStart C++](https://howistart.org/posts/cpp/1/) - *C++ Setup Guide*
 * [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) - *C++ Algorithm Collection*
 * [Quick-R](https://www.statmethods.net/index.html) - *R Tutorials*
 * [Advanced R](https://adv-r.hadley.nz/) - *R Guide / [Solutions](https://advanced-r-solutions.rbind.io/)*
@@ -58,6 +59,7 @@
 * [RubyMonk](https://rubymonk.com/) - *Ruby Tutorials* 
 * [Learn to Program](https://pine.fm/LearnToProgram/) - *Ruby Tutorials*
 * [GoLang.org](https://golang.org/doc/tutorial/getting-started) - *Go Tutorial*
+* [HowIStart Go](https://howistart.org/posts/go/1/) - *Go Setup Guide*
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) - *Rust Programming  Guidebook*
 * [JavaScript.info](https://javascript.info/) - *JavaScript Guide* 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - *Javascript Learning Books*
@@ -79,6 +81,7 @@
 * [Publish Something Online](https://publishsomething.online/) - *Site Development Guides*
 * [LandChad](https://landchad.net/) - *Site Development Guide*
 * [Web Dev Courses](https://drive.google.com/drive/folders/17nOoned_J-RzAlCXaHEcEvdQC3LDOCC0) - *Web Development Courses*
+* [UI & Web Design using Adobe Illustrator C](https://mega.nz/folder/DihiHYYJ#qwDp56twKmwPdDMqGR_kLA) - *UI & Webdesign Course*
 * [Web Skills](https://andreasbm.github.io/web-skills/) - *Web Development Guides*
 * [WeCreators](https://www.wecreators.co/creators-tools) - *Site Development / Influencer Courses*
 * [How-to Host Questionable Websites](https://weboas.is/media/host.png) - *Guide / [PDF](https://weboas.is/media/host.pdf)*
@@ -129,8 +132,10 @@
 * [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) - *API index* 
 * [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - *Integrate Services with Discord*
 * [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - *Discord Code Blocks*
-* [Discord4J](https://discord4j.com/) - *Discord Bot API Wrapper*
+* [Discord4J](https://discord4j.com/) or [Diskord](https://diskord-dev.github.io/) / [GitHub](https://github.com/diskord-dev/diskord) - *Discord API Wrapper*
 * [Javacord](https://javacord.org/) - *Discord Bot Creation Library*
+* [discord.io](https://github.com/izy521/discord.io) - *Discord Client Creator*
+* [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - *C++ Library for Discord*
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - *Toolbox for Reddit Extension Development*
 * [XunLei](https://www.xunlei.com/) - *Shared Computing / Blockchain*
 * [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - *Sites to Post Your Startup*
@@ -207,7 +212,8 @@
 * [Sight](https://github.com/tsenart/sight) - *Syntax Highlighter for Chrome* 
 * [Website Grader](https://website.grader.com/) - *Website Grading Tool*
 * [ngrok](https://ngrok.com/) - *Introspectable Tunnels to Localhost Tools*
-* [gpldl](https://gpldl.com/), [allwpworld](https://allwpworld.com/), [pwned.space](https://pwned.space/wordpress-themes/), [freegetdownloader](https://www.freegetdownloader.com/) or [babiato](https://babiato.co/) - *Wordpress Themes*
+* [NConfig](https://www.digitalocean.com/community/tools/nginx) - *NGINX Server Config*
+* [gpldl](https://gpldl.com/), [allwpworld](https://allwpworld.com/), [pwned.space](https://pwned.space/wordpress-themes/), [wplocker](https://www.wplocker.com/), [freegetdownloader](https://www.freegetdownloader.com/) or [babiato](https://babiato.co/) - *Wordpress Themes*
 
 ***
 
@@ -247,7 +253,7 @@
 
 ## ▷ Game Development
 
-* [Godot](https://godotengine.org/) or [ursina engine](https://www.ursinaengine.org/) - *Game Engine*
+* [Godot](https://godotengine.org/), [OpenXRay](https://github.com/OpenXRay) or [ursina engine](https://www.ursinaengine.org/) - *Game Engine*
 * [RPG Playground](https://rpgplayground.com/) - *Simple RPG Creator*
 * [Game-Editor](http://game-editor.com/Main_Page) - *Game Creator*
 * [Kaboomjs](https://kaboomjs.com/) - *Quickly Make Games with Javascript*
@@ -257,6 +263,7 @@
 * [Curlie World Building](https://curlie.org/en/Games/Roleplaying/World_Building) - *World Building Resource Index* 
 * [UE Viewer](https://www.gildor.org/en/projects/umodel) - *Unreal Engine Model Viewer / [GitHub](https://github.com/gildor2/UEViewer)*
 * [Electronic Arts GitHub](https://github.com/electronicarts) - *EA GitHub Repos*
+* [Bookshelf](Minecraft Mod Code Support) - *https://github.com/Darkhax-Minecraft/Bookshelf*
 
 ***
 
@@ -300,6 +307,7 @@
 * [GitHub Desktop](https://desktop.github.com/) - *GitHub Desktop App*
 * [GitHub.Dev](https://github.dev/) - *GitHub Web App*
 * [GitKraken](https://www.gitkraken.com/) or [Sourcetree](https://www.sourcetreeapp.com/) - *Git GUI*
+* [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - *Git Terminal UI*
 * [Codeberg](https://codeberg.org/), [Giters](https://www.giters.com/) or [GitGud](https://gitgud.io/) - *Git Hosting*
 * [Git / Github Guide](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
 * [GitBook](https://www.gitbook.com/) - *Document Collaboration*
@@ -323,6 +331,7 @@
 * [PR Monitor](https://github.com/fwouts/prmonitor) - *Pull Request Notifier*  
 * [Gidget](https://github.com/GDGVIT/gidget) - *Pull Request Notifier / Android*
 * [Whats New GitHub](https://github.com/flawyte/whats-new-github) - *Repository Change Feed* 
+* [ReadmeGallery](http://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/) - *GitHub Remdme Gallery Creator*
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - *Dynamically Generated GitHub Readme Stats* 
 * [Shields.io](https://shields.io/) - *Metadata badges for Github Readmes*
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - *Enable Snake Game on GitHub ReadMe*
@@ -383,6 +392,9 @@
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - *Vim Code-completion engine*
 * [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - *Visual Studio Code Extensions* 
 * [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - *Visual Studio Code Python Language Extension / [Performant Language](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)*
+* [Python Mini Projects](https://github.com/Python-World/python-mini-projects) - *Python Scripts*
+* [Dodgy](https://github.com/landscapeio/dodgy) - *Find PWs & Diffs in Python Code*
+* [JSPyBride](https://github.com/extremeheat/JSPyBridge) - *Interoperate Node.js and Python*
 * [Mega Linter](https://github.com/nvuillam/mega-linter) - *Code Analyzer* 
 * [cpp.sh](http://cpp.sh/) - *Online C++ Compiler*
 * [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) - *Machine Learning Art Resource Index* 
@@ -414,6 +426,7 @@
 * [Code::Stats](https://codestats.net/) - *Programmer Stat Tracking*
 * [Tables Generator](https://www.tablesgenerator.com/) - *Generates Tables in Various Languages*
 * [pueue](https://github.com/Nukesor/pueue) - *Shell Command Manager*
+* [Emojicode](https://www.emojicode.org/) - *Emoji Based Programming Language*
 
 ***
 
