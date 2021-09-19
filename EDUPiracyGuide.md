@@ -462,6 +462,7 @@
 * [Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php) - *Physics Tools* 
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - *Globe of Ancient Earth*
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
+* [Ancestry Images](http://www.ancestryimages.com/) - *Historical Photo & Map Archive*
 * [American Panorama](https://dsl.richmond.edu/panorama/) - *Interactive US Historical Maps*
 * [Theban Mapping Project](https://thebanmappingproject.com/) - *Valley of the Kings Map* 
 * [Historic Borders](https://historicborders.app/) - *Historic Borders Map*
