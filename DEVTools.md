@@ -268,7 +268,8 @@
 * [Curlie World Building](https://curlie.org/en/Games/Roleplaying/World_Building) - *World Building Resource Index* 
 * [UE Viewer](https://www.gildor.org/en/projects/umodel) - *Unreal Engine Model Viewer / [GitHub](https://github.com/gildor2/UEViewer)*
 * [Electronic Arts GitHub](https://github.com/electronicarts) - *EA GitHub Repos*
-* [Bookshelf](Minecraft Mod Code Support) - *https://github.com/Darkhax-Minecraft/Bookshelf*
+* [Bookshelf](https://github.com/Darkhax-Minecraft/Bookshelf) - *Minecraft Mod Code Support*
+* [VEEDI](https://www.veedi.com/) - *Create Game Walkthrough Videos*
 
 ***
 
