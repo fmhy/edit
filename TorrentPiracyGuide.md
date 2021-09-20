@@ -110,6 +110,7 @@
 * [Fost.ws](https://fost.ws/) - *Software / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Mac-Torrents.io](https://mac-torrents.io/) - *Software / Games / Mac*
 * [Mac Torrents](https://www.torrentmac.net/) - *Software / Games / Mac*
+* [FTUApps](https://ftuapps.dev/) - *Software*
 * [AudioNews](https://audionews.org/) - *Audio Software* 
 * [m0nkrus](http://w14.monkrus.ws/) - *Adobe software archive*
 * [upawg](https://upawg.ca) - *Index of audio products*
