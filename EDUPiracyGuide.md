@@ -179,6 +179,7 @@
 * [UdemyTuts](https://udemytuts.com/) - *Udemy Courses* 
 * [My Free Courses](http://myfreecourses.com/) - *Udemy Courses*   
 * [UdemyDownload](https://udemydownload.com/) - *Udemy Courses*
+* [TutCourse](https://tutcourse.com/) - *Udemy Courses*
 * [Paid Courses for Free ](https://paidcoursesforfree.com/) - *Udemy Courses* 
 * [Online Free Course](https://www.onlinefreecourse.net/) - *Udemy Courses*   
 * [Tutorials Planet](https://tutorialsplanet.net/) - *Udemy Courses*   
@@ -329,7 +330,7 @@
 * [refold.la](https://refold.la/roadmap) - *Language Learning Guide* 
 * [Learn English Online](http://www.learn-english-online.org/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - *Learn English*
 * [Free4Talk](https://www.free4talk.com/) - *English Practice Community*
-* [MyLanguages](http://mylanguages.org/) - *Grammar / Vocabulary Language Learning*
+* [MyLanguages](http://mylanguages.org/) or [Langeek](https://langeek.co/) - *Grammar / Vocabulary Language Learning*
 * [Vocatra](https://esite.ch/vocatra/) - *Vocabulary Trainer*
 * [EnglishAccentMap](https://www.englishaccentsmap.com/) - *English Accent Videos / Map* 
 * [HelloTalk](https://www.hellotalk.com/) - *Learn Languages by Chatting to Native Speakers* 
