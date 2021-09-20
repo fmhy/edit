@@ -312,7 +312,7 @@
 
 # ► File Sharing Apps
 
-* [Soulseek](http://www.soulseekqt.net/news/) - *File Sharing App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker)*
+* [Soulseek](http://www.soulseekqt.net) or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *File Sharing App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker)*
 * [Shareaza](http://shareaza.sourceforge.net/) - *File Sharing App* 
 * [MLDonkey](http://mldonkey.sourceforge.net/Main_Page) - *File Sharing App* 
 * [Fopnu](https://fopnu.com/) - *File Sharing App* 
