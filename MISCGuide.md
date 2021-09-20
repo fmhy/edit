@@ -29,7 +29,7 @@
 * [/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful) - *Helpful / Fun Sites Subreddit / [Randomizer](https://therandombutton.com/)*
 * [/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index) - */r/Piracy Index*
 * [/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread) - *Software Piracy Megathread*
-* [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr) - *Piracy Index*
+* [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr) - *Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)*
 * [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - *Piracy Index*
 * [Similar Sites](https://www.similarsites.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
 * [DirtyWarez](https://dirtywarez.org/) - *Ranks Sites*
@@ -402,9 +402,10 @@
 * [Waifu Labs](https://waifulabs.com/) - *Meet your Waifu* 
 * [Pink Trombone](https://dood.al/pinktrombone/) - *Human Pitch Generator*
 * [Purrli](https://purrli.com/) - *Cat Purr Generator* 
-* [BirdSounds](https://experiments.withgoogle.com/ai/bird-sounds/view/) - *Thousands of Bird Sounds Visualized* 
 * [BumpWorthy](https://www.bumpworthy.com/) - *Adult Swim Bumps* 
+* [BirdSounds](https://experiments.withgoogle.com/ai/bird-sounds/view/) - *Thousands of Bird Sounds Visualized* 
 * [Google Doodles](https://www.google.com/doodles?q=interactive) - *Interactive Google Doodles*
+* [elgooG](https://elgoog.im/) - *Google Easter Egg Archive*
 * [Internet Map](http://internet-map.net/) - *Map of the Internet*
 * [Screentoys](https://www.screentoys.com/) - *Photo Morphing Toy*
 * [Word Blanks](https://www.wordblanks.com/) or [Plot Generator](https://www.plot-generator.org.uk/) - *Online Mad Libs*
