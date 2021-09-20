@@ -175,12 +175,12 @@
 * **[Deemix](https://gitlab.com/paulchatte123/deemix-gui-fmp3dl)** - *MP3 / [/r/deemix](https://reddit.com/r/deemix) / [Telegram](https://t.me/deemixcommunity) / [ARL](https://archive.is/aQ3JA)*
 * **[GamesDrive Music-DL](https://discord.gg/PKFAnduGtA)** - *TIDAL Music Bot Ripper*
 * **[YouTube to MP3](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
+* **[Soulseek](http://www.soulseekqt.net)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker)*
 * **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - *Telegram audio download channels*
 * [SMLoadr](https://t.me/SMLoadrNews) - *FLAC / MP3 / [Desktop GUI](https://github.com/thelucifermorningstar/SMLoadr-AUX/releases)*
 * [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - *Deezer Music Download App*  
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *FLAC / MP3*
 * [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots)
-* [Soulseek](http://www.soulseekqt.net) or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker)*
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - *FLAC / MP3*
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - *Music Download Tool* 
 * [RipMe](https://github.com/RipMeApp/ripme) - *Bulk Album Downloader*  
