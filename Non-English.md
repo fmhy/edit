@@ -487,6 +487,7 @@
 * [Fl1x](https://fl1x.com/) - *Movies / TV* 
 * [Ligaxxi](http://ligaxxi.xyz/) - *Movies / TV* 
 * [Neonime](https://neonime.site/) - *Anime*
+* [Animasu](https://animasu.tv/) - *Anime*
 
 ***
 
@@ -744,6 +745,8 @@
 
 # ► Polish 
 
+* [StreamBase](https://thesb.eu/) - *Warez List / [GitHub](https://github.com/RugFlipper/streambase) / [Discord](https://discord.gg/3wQ3WQabEp) / [Request](https://www.wykop.pl/ludzie/RugFlipper/)*
+
 ## ▷ Downloading
 
 * [animezone](https://www.animezone.pl/) - *Anime*
@@ -775,8 +778,8 @@
 
 # ► Portuguese 
 
-* [LegendaOfficial](http://legendaoficial.net/), [LegendasDivx](https://www.legendasdivx.pt/, [Legendas.tv](http://legendas.tv/), [Legendas](https://legendas.co/), [Legendas.dev](https://legendas.dev/) or [Leganda-Zone](https://www.legendas-zone.org/) - *Portuguese Subtitles* 
-* [ClickJogos](https://www.clickjogos.com.br/) or [Ojogos](https://www.ojogos.com.br/) - *Portuguese Browser Games*
+* [LegendaOfficial](http://legendaoficial.net/), [LegendasDivx](https://www.legendasdivx.pt/, [Legendas.tv](http://legendas.tv/), [Legendas](https://legendas.co/), [Legendas.dev](https://legendas.dev/) or [Leganda-Zone](https://www.legendas-zone.org/) - *Subtitles* 
+* [ClickJogos](https://www.clickjogos.com.br/), [jogos360](https://www.jogos360.com.br/), [netjogos](https://www.netjogos.com/), [papajogos](https://www.papajogos.com.br/), [1001jogos](https://www.1001jogos.pt/), [brincar](https://www.brincar.pt/) or [Ojogos](https://www.ojogos.com.br/) - *Browser Games*
 
 ## ▷ Downloading
 
@@ -973,6 +976,7 @@
 
 # ► Spanish
 
+* [jogos10](http://www.jogos10.com/) or [Minijuegos](https://www.minijuegos.com/) - *Browser Games*
 * [Catflix](https://www.championcat.cl/catflix/) - *Cats!*
 
 ## ▷ Downloading
@@ -1168,6 +1172,7 @@
 
 * [Indian Piracy Index](https://github.com/anymeofu/Indian-Piracy-Index) - *Piracy Site / Tool Index*
 * [0GoMovies](https://0gomovies.io/), [2](https://www.0gomovies.com/) - *Streaming / Movies / TV*
+* [khatrimazafull](https://khatrimazafull.show/) - *Streaming / Download / Movies*
 * [JioRockers](http://www.jiorockers.uk/) - *Streaming / Movies*
 * [v100v.net](https://www.v100v.net/) - *Streaming / Movies*
 * [7MovieRulz](https://7movierulz.im/) - *Streaming / Movies*
