@@ -501,7 +501,7 @@
 * [SBS](https://3dsbs4u.com/) - *Movies / TV*
 * [oKhatrimaza](https://www.okhatrimaza.vin/category/7/hollywood-english-movies/default/1.html) - *Movies*
 * [SD Movies Point](https://1sdmoviespoint.kim/category/hollywooddd/) - *Movies / TV*
-* [SkyMoviesHD](https://skymovieshd.kim/category/Hollywood-English-Movies.html) - *Movies*
+* [SkyMoviesHD](https://skymovieshd.cam/category/Hollywood-English-Movies.html) - *Movies*
 * [HDFriday](https://hdfriday.com/category/download-hollywood-movies/) - *Movies*
 * [MegaUploadAgora](https://www.megauploadagora.com.br/) - *Movies / TV* 
 * [Khatrimaza](https://khatrimaza1.in/) - *Movies / TV* 
