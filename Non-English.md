@@ -776,6 +776,7 @@
 # ► Portuguese 
 
 * [LegendaOfficial](http://legendaoficial.net/), [LegendasDivx](https://www.legendasdivx.pt/, [Legendas.tv](http://legendas.tv/), [Legendas](https://legendas.co/), [Legendas.dev](https://legendas.dev/) or [Leganda-Zone](https://www.legendas-zone.org/) - *Portuguese Subtitles* 
+* [ClickJogos](https://www.clickjogos.com.br/) or [Ojogos](https://www.ojogos.com.br/) - *Portuguese Browser Games*
 
 ## ▷ Downloading
 
