@@ -29,7 +29,7 @@
 * [OpenVideo](https://openvideofs.github.io) - *Plays Videos in Ad-Free Player*
 * [Fakespot](https://www.fakespot.com/) - *Identifies Fake Reviews & Counterfeits*
 * [Adguard Browser Extension](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - *Adblocker / [Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt)*
-* [TTV LOL](https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm), [VideoAdBlockForTwitch](https://github.com/saucettv/VideoAdBlockForTwitch) or [Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/) - *Twitch Adblocker* 
+* [TTV LOL](https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm), [VideoAdBlockForTwitch](https://github.com/saucettv/VideoAdBlockForTwitch), [Twitch Ad-Blocker-2](https://greasyfork.org/en/scripts/419066-twitch-ad-blocker-2) or [Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/) - *Twitch Adblocker* 
 * [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - *Multiple Twitch Adblocking Methods*
 * [Facebook Hide Ads](https://greasyfork.org/en/scripts/404309-facebook-hide-ads-a-k-a-sponsored-posts) - *Remove Sponsored Posts from Facebook* 
 * [LinkedIn Unsponsored](https://greasyfork.org/en/scripts/379003-linkedin-unsponsored) - *Remove Sponsored Posts from LinkedIn* 
@@ -103,7 +103,6 @@
 * [Wise Anti-Malware](https://www.wisecleaner.com/wise-anti-malware.html) - *Anti-Malware*
 * [Rewind](https://github.com/Neo23x0/Rewind) - *Immediate Virus Infection Counter Measures*
 * [Spybot](https://www.safer-networking.org/products/spybot-free-edition/) or [SUPERAntiSpyware](https://www.superantispyware.com/free-edition.html) - *Anti-spyware*
-* [LMT Anti-Logger ](https://leminhthanh.me/antilogger/) - *Anti-Loggers (e.g. Keyloggers)*
 * [VT4Browsers](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions) - *Easily Scan Downloads*
 * [Any Run](https://app.any.run/) or [Cuckoo](https://cuckoosandbox.org/) - *Malware Analysis Tool* 
 * [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) - *Anti-Malware Stress Test*
@@ -189,7 +188,7 @@
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - *Run a Oracle VM on TailsOS*
 * [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/) - *Stop Telemetry Data Leaks*
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - *Track Torrent Download Leaks*
-* [Safing](https://safing.io/) - *Monitor Network / Block Trackers*
+* [Safing](https://safing.io/) - *Monitor Network / Block Trackers / [GitHub](https://github.com/Safing/portmaster)*
 * [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion), [discord-delete](https://github.com/adversarialtools/discord-delete), [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) or [QuickDeleteMessages](https://u.nu/9i9jk) - *Delete Discord Messages / [Warning](https://i.imgur.com/Kt8G430.png)* 
 * [Spyware Watchdog](https://spyware.neocities.org/) - *Spyware Program Index*
 * [Terms of Service; Didn't Read](https://tosdr.org/) - *TLDR TOS*
@@ -284,6 +283,8 @@
 * [Canarytokens](https://canarytokens.org/generate) - *Network Breach Check* 
 * [JustGetMyData](https://justgetmydata.com/) - *Links to Obtain Your Data from Websites* 
 * [TrackingTheTrackers](https://trackingthetrackers.com/) - *Check if a website is disguising third-party trackers as first-party trackers*
+* [LMT Anti-Logger ](https://leminhthanh.me/antilogger/) - *Anti-Loggers (e.g. Keyloggers)*
+* [QFX KeyScrambler](https://filecr.com/?s=QFX+KeyScrambler+Professional) - *Scramble Keyboard Inputs*
 * [WhoTracksMe](https://whotracks.me/) or [Trackography](https://trackography.org/) - *Site Tracking Info*  
 * [YourAdChoices](https://optout.aboutads.info/?c=2&lang=EN) - *Check Your Current IBA Status*
 * [I2P](https://geti2p.net/en/) - *Encrypted Private Network Layer / [Resource Index](https://github.com/mikalv/awesome-i2p)* 
@@ -423,6 +424,7 @@
 * [NetflixVPN](https://www.netflixvpn.com/) - *Access Geo-Restricted Streaming Sites*
 * [WebOasis WireGuard](https://weboas.is/forum/index.php?topic=2657.0) - *Free VPN Config*
 * [Kaspersky](https://www.kaspersky.co.uk/vpn-secure-connection) - *Free VPN / 200 MB per day / No Account Required*
+* [OpenConnect](https://www.infradead.org/openconnect/) - *SSL VPN*
 * [TurboVPN](https://turbovpn.com/) - *Free VPN*
 * [Free VPN Online](http://freevpnonline.com/) - *Free VPN*
 * [TouchVPN](https://touchvpn.net/) - *Free VPN*
