@@ -149,6 +149,7 @@
 * [WowRoms](https://wowroms.com/en/) - *Roms*
 * [RomsFun](https://romsfun.com/) - *Roms*
 * [FreeRoms](https://www.freeroms.com/) - *Roms*
+* [/1CC/](https://8kun.top/1cc/index.html) - *Roms / [Discord](https://discord.com/invite/Y4dSzbXNau)*
 * [NanoRoms](https://nanoroms.com/) - *Roms*
 * [DaRoms](http://daroms.com/) - *Roms* 
 * [Arcade Punks](https://www.arcadepunks.com/) - *Roms*
@@ -256,9 +257,11 @@
 * [Old-Games.com](https://www.old-games.com/) - *Roms / PC / Amiga*
 * [AtariMania](http://www.atarimania.com/index.html) - *Browser Emulator / Emulators / Roms / Atari Consoles*
 * [MagiPack](https://www.magipack.games/) - *Retro Games* 
+* [/1CC/](https://8kun.top/1cc/index.html) - *Retro Games / [Discord](https://discord.com/invite/Y4dSzbXNau)*
 * [Old Games Download](https://oldgamesdownload.com/) - *Retro Games*
 * [Zombs-Lair](https://www.zombs-lair.com/) - *Retro Games*
 * [RetroSpec](http://retrospec.sgn.net/) - *Retro Games*
+* [LCD Games](http://bdrgames.nl/lcdgames/) - *Retro LCD Game Emulator* 
 * [Japanese PC Compendium](http://japanesepccompendium.blogspot.com/) - *Retro Japanese PC Games*
 * [TOSEC](https://archive.org/details/TOSEC_V2017-04-23), [2](https://archive.org/details/tosec) - *The Old School Emulation Center*
 * [NEC & Turbografx Collection](https://archive.org/details/NEC_PC_Engine_CD-ROM2_System_and_TurboGrafx-CD_2016_Reference_Set_Redump_Validated_ROMs) - *Roms / Nec / Turbo*
@@ -401,6 +404,7 @@
 * [BrantSteele](http://brantsteele.net/) - *Game Show Simulators*
 * [Shooty Ship Pumpkin Smash](https://www.thepointless.com/apps/shooty-ship-pumpkin-smash/index.html) - *Shoot Pumpkins*
 * [Educational Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_games)
+* [Gameload](http://www.gameload.top/) - *Unity Browser Game Extension* 
 
 ***
 
