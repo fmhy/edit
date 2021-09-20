@@ -445,7 +445,6 @@
 * **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "video"*
 * **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - *Download videos from streaming sites*
-* **[Rinzry](https://rinzry.stream/)** - *Movies / TV / Anime / [Request](https://discord.movies4discord.xyz/)*
 * **[Pahe](http://pahe.ph/)** - *Movies / TV / Anime / [Discord](https://discord.gg/33P8hpR) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper)*
 * **[Snahp](https://snahp.it/)** - *Movies / TV / Anime / [Decoder](https://github.com/blackcodesun/snahp-forum-helper) / [DL Script](https://github.com/Jwiggiff/snahp-downloader)*
 * **[MovieParadise](https://movieparadise.org/)** - *Movies / TV*
@@ -534,6 +533,7 @@
 
 ## ▷ Drives / Directories 
 
+* **[Rinzry](https://rinzry.stream/)** - *Movies / TV / Anime / [Request](https://discord.movies4discord.xyz/)*
 * **[50TB Mega Drive](https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ)** - *Movies* 
 * **[The Criterion Collection](https://mega.nz/folder/Jk8RjIBA#_dTNthUX3LL7OwSaauqIpw)** - *Movies*
 * [DHAKA FTP](http://103.205.233.70/), [2](http://dhakaftp.com/) - *Movies / TV*
