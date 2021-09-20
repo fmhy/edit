@@ -47,14 +47,14 @@
 * [Blah DNS](https://blahdns.com/) - *DNS Adblocking*
 * [ahadns](https://ahadns.com/) - *DNS Adblocking*
 * [Adhole](https://adhole.org/) - *DNS Adblocking*
-* [Quad9](https://quad9.net/) - *Malware, Phishing, Spyware and Botnet protection*
 * [Rethink](https://rethinkdns.com/) - *DNS Adblocking*
-* [YogaDNS](https://yogadns.com/) - *DNS Client*
-* [LibreDNS](https://libredns.gr/) - *DNS Adblocking*
-* [DNSCrypt](https://www.dnscrypt.org) - *[Manager](https://simplednscrypt.org/)*
 * [AlternateDNS](https://alternate-dns.com/index.php) - *DNS Adblocking*
-* [Stubby](https://github.com/getdnsapi/stubby)
-* [Diversion](https://diversion.ch/) 
+* [LibreDNS](https://libredns.gr/) - *DNS Adblocking*
+* [YogaDNS](https://yogadns.com/) - *DNS Client*
+* [Diversion](https://diversion.ch/) - *DNS Client*
+* [Quad9](https://quad9.net/) - *Malware, Phishing, Spyware & Botnet DNS Protection*
+* [DNSCrypt](https://www.dnscrypt.org) - *[Manager](https://simplednscrypt.org/)*
+* [Stubby](https://github.com/getdnsapi/stubby) - *DNS Stub Resolver*
 * [NextDNS](https://nextdns.io) - *DNS Adblocking / [Enhancement](https://greasyfork.org/en/scripts/408934-nx-enhanced) / [lLeak Warning](https://redd.it/jt28e8)*
 * [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/), [FreeMyIP](https://freemyip.com/) or [Desec](https://desec.io/) - *Dynamic DNS Service*
 * [Encrypted DNS Resolvers](https://www.privacytools.io/providers/dns/)
