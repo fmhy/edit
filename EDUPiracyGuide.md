@@ -467,6 +467,7 @@
 * [Theban Mapping Project](https://thebanmappingproject.com/) - *Valley of the Kings Map* 
 * [Historic Borders](https://historicborders.app/) - *Historic Borders Map*
 * [Histography](https://histography.io/) - *History Timeline*
+* [Eylenburg](https://eylenburg.github.io/) - *Infographs, Maps & Papers*
 * [LizardPoint](https://lizardpoint.com/) - *Geography Quizzes* 
 * [The True Size](https://thetruesize.com/) - *Compare Country Size* 
 * [Seeing Theory](https://seeing-theory.brown.edu/) - *Interactive Probability / Statistics Lessons* 
