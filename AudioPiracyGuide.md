@@ -175,7 +175,7 @@
 * **[Deemix](https://gitlab.com/paulchatte123/deemix-gui-fmp3dl)** - *MP3 / [/r/deemix](https://reddit.com/r/deemix) / [Telegram](https://t.me/deemixcommunity) / [ARL](https://archive.is/aQ3JA)*
 * **[GamesDrive Music-DL](https://discord.gg/PKFAnduGtA)** - *TIDAL Music Bot Ripper*
 * **[YouTube to MP3](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
-* **[Soulseek](http://www.soulseekqt.net)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker)*
+* **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker)*
 * **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - *Telegram audio download channels*
 * [SMLoadr](https://t.me/SMLoadrNews) - *FLAC / MP3 / [Desktop GUI](https://github.com/thelucifermorningstar/SMLoadr-AUX/releases)*
 * [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - *Deezer Music Download App*  
@@ -241,7 +241,7 @@
 * [Music HiRes](https://music-hires.blogspot.com/) - *FLAC*
 * [DiscogC](https://www.discogc.com/) - *FLAC*
 * [ubdn](http://ubdn.me/) - *MP3 / FLAC* 
-* [/r/xTrill](https://reddit.com/r/xTrill) - *MP3 / FLAC*
+* [/r/xTrill](https://reddit.com/r/xTrill) - *MP3 / FLAC / [Discord](https://discord.gg/xtrill) / [Backup](https://reddit.com/r/xTrillBackup)*
 * [IntMusic](https://intmusic.net/) - *MP3 / FLAC*  
 * [Mp3Flac](https://mp3flac.site/) - *MP3 / FLAC*
 * [Gangster](https://gangster.su/) - *MP3 / FLAC*  
