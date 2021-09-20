@@ -871,6 +871,7 @@ Add the following commands to a search to manually scrape each site.
 * [ALFY](https://www.alfy.com/)
 * [GameKB](https://www.gamekb.com/)
 * [ClassicGame](https://www.classicgame.com/)
+* [Andkon](http://andkon.com/arcade/) 
 * [DAN-BALL](http://dan-ball.jp/en/)
 * [itch.io](https://graebor.itch.io/), [2](https://grey2scale.itch.io/), [3](https://ncase.itch.io/), [4](https://capsquared.itch.io/), [5](https://evilobjective.itch.io/)
 * [Cartoon Network Games](https://www.cartoonnetwork.com/games/index.html)
