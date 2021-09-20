@@ -100,6 +100,7 @@
 * [ExT](https://ext.to/) - *Video / Audio / Games / Software / Books*
 * [rutor.info](http://rutor.info) or [rutor.is](http://rutor.is/) - *Video / Audio / Games / Software / Books / Roms / Magazines*
 * [NNM-Club](https://nnmclub.to/) - *Video / Audio / Software / Games / [Note](https://i.imgur.com/vN26CmA.png)*
+* [Torrentz2k](https://torrentz2k.xyz/) - *Video / Audio / Software / Games / NSFW*
 * [Legit Torrents](http://www.legittorrents.info/) - *Video / Audio / Software / Books* 
 * [OTorrents](https://otorrents.com/) - *Video / Games*
 * [FOSSTorrents](https://fosstorrents.com/) - *FOSS Software / Games*
@@ -230,6 +231,6 @@
 * [AnonSeed](https://www.anonseed.com/) - *Anonymous Torrent Sharing* 
 * [Torrent Editor](http://torrenteditor.com/) or [Torrent Parts](https://torrent.parts/) - *Edit Torrents Files*
 * [bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor) - *Add or Remove Trackers from Torrent Files*
-* [mktorrent](https://github.com/Rudde/mktorrent) - *Command Line to Create BitTorrent Metainfo Files* 
+* [mktorrent](https://github.com/pobrn/mktorrent) - *Metainfo File Creation CLI* 
 * [/r/torrents](https://reddit.com/r/torrents) - *Torrenting discussion sub*
 * [r/VPNTorrents](https://reddit.com/r/vpntorrents) - *For Discussion of Torrenting over VPNs*
