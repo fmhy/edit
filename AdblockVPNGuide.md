@@ -41,25 +41,24 @@
 
 ## ▷ DNS Adblocking
 
-* **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - *Network-wide DNS Adblocking / [Setup](https://github.com/klutchell/balena-adguard) / [Family Filter](https://ammnt.app/) / [Filters](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole)*
-* [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html) 
-* [Pi-Hole](https://pi-hole.net/) - *[Filter](https://firebog.net/), [2](https://github.com/hl2guide/Filterlist-for-AdGuard) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine)*
-* [Blah DNS](https://blahdns.com/)
-* [ahadns](https://ahadns.com/) 
-* [Adhole](https://adhole.org/) 
-* [Quad9](https://quad9.net/) 
-* [Rethink](https://rethinkdns.com/)
-* [YogaDNS](https://yogadns.com/)
-* [LibreDNS](https://libredns.gr/)
+* **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - *Network-wide DNS Adblocking / self-hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Family Filter](https://ammnt.app/) / [Filters](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole)*
+* [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html) - *DNS Adblocking*
+* [Pi-Hole](https://pi-hole.net/) - *DNS Adblocking / self-hosted / [Filter](https://firebog.net/), [2](https://github.com/hl2guide/Filterlist-for-AdGuard) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine)*
+* [Blah DNS](https://blahdns.com/) - *DNS Adblocking*
+* [ahadns](https://ahadns.com/) - *DNS Adblocking*
+* [Adhole](https://adhole.org/) - *DNS Adblocking*
+* [Quad9](https://quad9.net/) - *Malware, Phishing, Spyware and Botnet protection*
+* [Rethink](https://rethinkdns.com/) - *DNS Adblocking*
+* [YogaDNS](https://yogadns.com/) - *DNS Client*
+* [LibreDNS](https://libredns.gr/) - *DNS Adblocking*
 * [DNSCrypt](https://www.dnscrypt.org) - *[Manager](https://simplednscrypt.org/)*
-* [AlternateDNS](https://alternate-dns.com/index.php)
+* [AlternateDNS](https://alternate-dns.com/index.php) - *DNS Adblocking*
 * [Stubby](https://github.com/getdnsapi/stubby)
 * [Diversion](https://diversion.ch/) 
-* [NextDNS](https://nextdns.io) - *[Enhancement](https://greasyfork.org/en/scripts/408934-nx-enhanced) / [lLeak Warning](https://redd.it/jt28e8)*
+* [NextDNS](https://nextdns.io) - *DNS Adblocking / [Enhancement](https://greasyfork.org/en/scripts/408934-nx-enhanced) / [lLeak Warning](https://redd.it/jt28e8)*
 * [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/), [FreeMyIP](https://freemyip.com/) or [Desec](https://desec.io/) - *Dynamic DNS Service*
 * [Encrypted DNS Resolvers](https://www.privacytools.io/providers/dns/)
-* [ProxyNation](https://www.proxynation.org/)
-* [nixnet DNS](https://docs.nixnet.services/DNS)
+* [ProxyNation](https://www.proxynation.org/) - *DNS Adblocking*
 * [ControlD](https://controld.com/) - *DNS Manager*
 * [Spamhaus](https://www.spamhaus.org/) or [1Hosts](https://o0.pages.dev/) / [GitHub](https://github.com/badmojr/1Hosts) - *DNS Blocklists*
 * [Phishing Army](https://phishing.army/) - *DNS Phishing Blocklist*
@@ -67,7 +66,7 @@
 * [Maza](https://maza-ad-blocking.andros.dev/) - *Local DNS Adblocking* 
 * [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter/) - *DNS filter proxy*
 * [DNS Party](https://encrypted-dns.party/) - *DNS Config Profiles for Apple Devices Encrypted* 
-* [DNS over HTTPS / TLS Guide](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) 
+* [Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) - *DNS Adblocking*
 
 ***
 
