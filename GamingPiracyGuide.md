@@ -39,6 +39,7 @@
 * [Rihno Games](https://rihnogames.com/)
 * [SEHS Gamess](https://www.sehsgames.com/)
 * [GameLoo](http://www.gameloo.info/)
+* [AimHaven](https://www.aimhaven.com/)
 * [Games Flix](https://gamesflix.net/) 
 * [Leeching Hell](http://leechinghell.pw/)
 * [cracked-games](https://cracked-games.org/) - *[Discord](https://discord.gg/tNhPmCU)*
