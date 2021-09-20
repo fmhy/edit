@@ -68,6 +68,7 @@
 * [kemono.party](https://kemono.party/) - *OnlyFans / Patreon / [Attachments](https://kemono.party/attachments/)*
 * [FYPTT](https://fyptt.to/) - *TikTok*
 * [FikFap](https://fikfap.com/) - *TikTok*
+* [xxxtik](https://xxxtik.com/) - *TikTok*
 * [Leaque](https://leaque.net/) - *TikTok*
 * [Booba.tv](https://booba.tv/) - *Twitch Streamers*
 * [Plexstorm](https://www.plexstorm.com/) - *Adult Game Streaming*
@@ -221,7 +222,6 @@
 * [Sleazy Fork](https://sleazyfork.org/) - *Adult User Scripts*
 * [Powrcord Sauce](https://github.com/SammCheese/powercord-sauce) - *Powercord Sauce Plugin*
 * [asciiplayer](https://gist.github.com/girst/5834f8e8ba92b42c2c61) - *PornHub ASCII Player*
-* [Auto-sub_to_subreddit_if_NSFW](https://openuserjs.org/scripts/tblopgreg/Auto-sub_to_subreddit_if_NSFW) - *NSFW Reddit Auto Sub*
 * [Awesome-Buttplug](https://github.com/buttplugio/awesome-buttplug) - *Buttplug Project Index*
 * [VaMSync](https://github.com/intiface/VaMSync) - *VAM Plugin for Strokers & Vibrators*
 * [minegasm](https://minegasm.therainbowville.com/) - *Connect Minecraft to Sex Toys*
