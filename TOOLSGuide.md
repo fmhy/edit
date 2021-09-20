@@ -1529,7 +1529,7 @@ General Reading Sites*
 * [TEdit](http://binaryconstruct.com/games/tedit) - *View / Edit Terraria Maps*
 * [Terrasavr](https://yal.cc/r/terrasavr/) - *Terraria Character Editor*
 * [TerrColab](https://github.com/AndreVuillemot160/TerrColab) - *Host Collab based Terraria Server / [.ipynb](https://colab.research.google.com/github/AndreVuillemot160/TerrColab/blob/main/TerrColab.ipynb)*
-* [GameGuides](https://www.gamerguides.com/), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/) or [Samurai Gamers](https://samurai-gamers.com/) - *Strategy Guides & Walkthroughs*
+* [GameGuides](https://www.gamerguides.com/), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [GamePressure](https://www.gamepressure.com/) or [Samurai Gamers](https://samurai-gamers.com/) - *Strategy Guides & Walkthroughs*
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) - *Game Optimization Guides*
 * [Low Specs Experience](https://ragnotechpowered.com/) - *Game Optimization Program* 
 * [Magpie](https://github.com/Blinue/Magpie) - *Enable AMD FSR on Any Game / [Tutorial](https://youtu.be/gac7llDa18k)*
