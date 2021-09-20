@@ -39,6 +39,7 @@
 * [EbookFoundation Interactive Programming Tuts](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md) - *Interactive Programming Tutorials* 
 * [Nayuki](https://www.nayuki.io/) - *Programming Tutorials*
 * [Hackr.io](https://hackr.io/) - *Programing Tutorials*
+* [Phrozen](https://www.phrozen.io/) - *Programming Guides*
 * [Use My Notes](https://usemynotes.com/) - *Programming Tutorials*
 * [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - *Programming Tutorials*
 * [Ultimate Programming](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE) - *Programming Tutorials*
@@ -216,6 +217,7 @@
 * [NConfig](https://www.digitalocean.com/community/tools/nginx) - *NGINX Server Config*
 * [faustjs](https://github.com/wpengine/faustjs) - *Wordpress Framework*
 * [gpldl](https://gpldl.com/), [allwpworld](https://allwpworld.com/), [pwned.space](https://pwned.space/wordpress-themes/), [wplocker](https://www.wplocker.com/), [freegetdownloader](https://www.freegetdownloader.com/) or [babiato](https://babiato.co/) - *Wordpress Themes*
+* [vichan](https://github.com/vichan-devel/vichan) - *Imageboard Software Package*
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - *Self-Hosted Private Tracker*
 
 ***
