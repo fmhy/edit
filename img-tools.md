@@ -91,6 +91,7 @@
 * [DoodDad](https://doodad.dev/pattern-generator) or [Haikei](https://app.haikei.app/)  *Pattern Generator*
 * [stripegenerator](http://www.stripegenerator.com/) - *Stripe Generator* 
 * [BannerEasy](https://www.bannereasy.com) - *Create Custom Banners*
+* [Get Waves](https://getwaves.io/) - *Wave Generator*
 * [Meta-Mapper](https://meta-mapper.com/) - *Website Metadata Thumbnails*
 * [Band-Flyers](https://band-flyers.com/) - *Band Flyer Creator*
 * [Mockupea](https://mockupea.com/) - *Book / Magazine Mockup Cover Creator*
@@ -334,3 +335,4 @@
 * [FALdetector](https://github.com/peterwang512/FALdetector) - *Photoshopped Face Detector*
 * [Fawkes](http://sandlab.cs.uchicago.edu/fawkes/) - *Image Cloaking* 
 * [Squoosh](https://squoosh.app/) - *Image Codec Comparison*
+* [jPhotoDNA](https://github.com/jankais3r/jPhotoDNA) - *Image CSAM Identification Algorithm*
