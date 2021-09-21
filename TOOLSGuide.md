@@ -818,7 +818,8 @@ General Reading Sites*
 * [DSC.BIO](https://dsc.bio/) - *Make Awesome Custom Discord Bios* 
 * [DiscordStatus](https://warze.org/discordstatus/) - *Discord Status Art Creator*
 * [DateTimeCord](https://datetimecord.rauf.wtf/) - *Discord Date & Time Fomatting Tool*
-* [Edited Text Mover](http://lem0ns.me/all-things-copying/discord-message-hider/) - *Move Edited Text Note*
+* [Edited Text Mover](http://lem0ns.me/all-things-copying/discord-edited-text-mover/) - *Move Edited Text Note*
+* [Discord Message Hider](http://lem0ns.me/all-things-copying/discord-message-hider/) - *Hide Messages*
 * [Discord Text to Emoji](https://jtprince.com/discord/), [2](http://pingusteif.de/discord) - *Emoji Discord Text*
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - *Automod Bot Config*
 * [Dyno](https://dyno.gg/) - *Change Discord Discriminator w/o Nitro / [How-To](https://i.imgur.com/lHRD42c.png)* 
