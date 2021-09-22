@@ -513,6 +513,8 @@ RSS Player*
 * [LiberiOS](https://github.com/LiberiOS/LiberiOS) - *11.0-11.1.2 Jailbreak*
 * [Meridian](https://meridian.sparkes.zone/) - *10.0-10.3.3 Jailbreak* 
 * [doubleH3lix](https://github.com/tihmstar/doubleH3lix) - *10.x 64bit Jailbreak*
+* [kok3shi](https://dora2ios.web.app/kokeshiJB.html) - *9.3-9.3.5 Semi-tethered Jailbreak*
+* [ap0110](https://ap0110.cf/) - *Autoexec Jailbreak*
 * [checkn1x](https://github.com/asineth0/checkn1x) - *Jailbreaking Tool*
 * [Fugu](https://github.com/LinusHenze/Fugu) - *Jailbreaking Tool*
 * [ipwndfu](https://github.com/axi0mX/ipwndfu) - *Jailbreaking Tool*
