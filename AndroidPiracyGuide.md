@@ -679,7 +679,7 @@ RSS Player*
 * [iPABox](https://apps.ipabox.store/ipalibrary/index.html) - *Hacked / Tweaked iOS Apps* 
 * [LocalAPStore](https://repo.hackyouriphone.org/localiapstore), [Satella](https://paisseon.github.io/) / [2](https://github.com/Paisseon/Satella/) or [My iAP Cracker](https://repo.hackyouriphone.org/myiapcracker) - *In-App Purchase Mods*
 * [AppSync Unified](https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified) - *IPA Installation Tweak*
-* [iosninja](https://iosninja.io/ipa-library) - *App Sideload Files*
+* [iosninja](https://iosninja.io/ipa-library) or [Jailbreaks.app](https://jailbreaks.app/) - *App Sideload Files*
 * [TestFlight](https://testflight.apple.com/) - *Test Beta Apps / [Links](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/)*
 
 ***
