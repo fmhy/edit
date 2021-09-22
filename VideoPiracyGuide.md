@@ -446,7 +446,6 @@
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "video"*
 * **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - *Download videos from streaming sites*
 * **[Pahe](http://pahe.ph/)** - *Movies / TV / Anime / [Discord](https://discord.gg/33P8hpR) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper)*
-* **[Snahp](https://snahp.it/)** - *Movies / TV / Anime / [Decoder](https://github.com/blackcodesun/snahp-forum-helper) / [DL Script](https://github.com/Jwiggiff/snahp-downloader)*
 * **[MovieParadise](https://movieparadise.org/)** - *Movies / TV*
 * **[Worlds Cinema](http://worldscinema.org/)** - *Old / Classic / Cult Films*
 * **[TopNow](http://topnow.se/)** - *Movies / [Discord](https://discord.gg/WHYmgeB)*
@@ -768,7 +767,6 @@
 * [MegaDDL](https://megaddl.co/tv-request/) - *TV*
 * [pirates-forum](https://pirates-forum.org/Forum-Requests) - *Movies / TV*  
 * [C1NE](https://c1ne.co/faq-requests/) - *Movies / TV* 
-* [Snahp](https://snahp.it/have-a-request/) - *Movies / TV / Anime*
 * [TehParadox](https://www.tehparadox.net/requests/) - *Movies / TV* 
 * [SuperNova](https://supernova.to/sn/requests) - *Movies / TV / Anime* 
 * [WorldSrc](https://t.me/WorldsrcOfficial) - *Movies / TV / Telegram*
