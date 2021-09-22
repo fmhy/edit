@@ -15,8 +15,7 @@
 
 * [CIA-3DS](https://www.cia-3ds.com/)
 * [HShop](https://hshop.erista.me/)
-* [CIA Drive](https://drive.google.com/drive/u/0/folders/1a1U18ImPv-VunSHanHBDTLht6kVf5AP6), [2](https://drive.google.com/drive/folders/1R5c6-nY5mMns8G1u2tcbYumfTCGXDQ5w), [3](https://drive.google.com/drive/folders/1a9BYbFlhQ96zaKtuL99m8N_r4qv8L_FK), [4](https://drive.google.com/drive/folders/1vDIlIfJL1I8Nzv616YBIX-QXmudoxKxM?usp=sharing), [5](https://archive.org/download/3DSCIA_testitem1), [6](3DS Complete Collection 
-https://archive.org/details/nintendo-3ds-complete-collection)
+* [CIA Drive](https://drive.google.com/drive/u/0/folders/1a1U18ImPv-VunSHanHBDTLht6kVf5AP6), [2](https://drive.google.com/drive/folders/1R5c6-nY5mMns8G1u2tcbYumfTCGXDQ5w), [3](https://drive.google.com/drive/folders/1a9BYbFlhQ96zaKtuL99m8N_r4qv8L_FK), [4](https://drive.google.com/drive/folders/1vDIlIfJL1I8Nzv616YBIX-QXmudoxKxM?usp=sharing), [5](https://archive.org/download/3DSCIA_testitem1), [6](https://archive.org/details/nintendo-3ds-complete-collection)
 
 ***
 
