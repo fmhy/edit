@@ -655,7 +655,6 @@ RSS Player*
 * **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - *Open Source iOS App Index* 
 * [AppDB](https://appdb.to/) - *iOS Apps* 
 * [AppAddict](https://www.appaddict.org/) - *iOS Apps*
-* [iPALibrary](https://gitlab.com/Shub_/ipa-library/-/tree/master/Library) - *Hacked/Tweaked iOS App Library* 
 * [Streamiza](https://t.me/streamiza) - *Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)*
 * [DiscordExtras](https://github.com/NotZoeyDev/DiscordExtras) - *Patch Discord Client*
 * [iPhoneCake](https://www.iphonecake.com/) - *Cracked Apps*
