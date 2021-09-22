@@ -285,8 +285,9 @@
 * [NBlood](https://github.com/nukeykt/NBlood) - *Reverse-Engineered Ports of Build Games*
 * [Classic DOOM](http://classicdoom.com/) - *Classic Doom Downloads* 
 * [DoomWorld](https://www.doomworld.com/) - *Doom Downloads / Wads / Mods / Editing* 
-* [Br0legs Zandronum](https://drive.google.com/file/d/1B8ze1SPpwE0DI1nDKkyS4iXyfLsO_DbV/view?usp=sharing) or [Realm667](https://www.realm667.com/index.php/en/) - *Doom Mods* 
+* [Realm667](https://www.realm667.com/index.php/en/) - *Doom Mods* 
 * [SLADE](https://slade.mancubus.net/) - *Doom Modding Tool / [GitHub](https://github.com/sirjuddington/SLADE)*
+* [ZDemon](https://www.zdaemon.org/), [oDamex](https://odamex.net/) or [Zandoronum](https://zandronum.com/) - *Classic Online-Multiplayer Doom Source Ports*
 * [Doom64 EX](https://doom64ex.wordpress.com/downloads/) - *Doom 64 PC Port* 
 * [dhewm3](https://dhewm3.org/) - *Doom 3 Source Port*
 * [DOOM FX](https://github.com/RandalLinden/DOOM-FX) - *Doom SNES Source Code*
@@ -301,6 +302,7 @@
 * [IOQuake3](https://ioquake3.org/) - *Quake 3 Source Port / [GitHub](https://github.com/ioquake/ioq3)*
 * [Aleph One](https://alephone.lhowon.org/) - *Open-Source Marathon Continuation* 
 * [Powerslave EX](https://drive.google.com/file/d/1VFvOYKyjyFwH5sqSL5mz_jl3SdIUcAOY/view?usp=sharing) - *Powerslave PC Port* 
+* [EDuke32](https://www.eduke32.com/) - *Duke Nukem 3D Source Port*
 * [Arx Libertatis](https://arx-libertatis.org/) - *Arx Fatalis PC Port*
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - *Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)*
 * [Mars 3D](https://mars3d-game.wixsite.com/index) - *Mars 3D Translation & Remake*
