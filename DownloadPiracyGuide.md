@@ -90,7 +90,7 @@
 * [rls2day](https://rls2day.com/) - *Video / Audio / Software / Games / Books / Magazines* 
 * [WawaCity](https://www.wawacity.video/) - *Video / Audio / Books / Magazines / Software / Android / Use AdBlocker*
 * [WarezBlogs](https://www.warezblogs.com/) - *Video / Audio / Software / Games / Books / Magazines* 
-* [TwoDDL](https://2ddl.ms/) - *Video / Audio / Software / Games / Books / Comics / Magazines* 
+* [2DDL](https://2ddl.it/) - *Video / Audio / Software / Games / Books / Comics / Magazines* 
 * [MFTWBB](https://mftwbb.org/) - *Video / Software / Games / Books / Android*
 * [SCENE.RLS](http://scene-rls.net/releases/index.php) - *Video / Audio / Games / Software / Books / Magazines* 
 * [DLWarez](http://dlwarez.xyz/) or [WarezLover](https://warezlover.xyz/) - *Video / Audio / Software / Games / Android / Roms / Books / Magazines* 
