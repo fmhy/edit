@@ -517,6 +517,7 @@ RSS Player*
 * [Fugu](https://github.com/LinusHenze/Fugu) - *Jailbreaking Tool*
 * [ipwndfu](https://github.com/axi0mX/ipwndfu) - *Jailbreaking Tool*
 * [rootlessJB](https://github.com/jakeajames/rootlessJB) - *Rootless iOS 12 Jailbreak*
+* [IPA Apps](https://ipa-apps.me/) - *Jailbreak Tools & Apps*
 * [Totally Not Spyware](https://totally-not.spyware.lol/) - *Safari Jailbreaking Tool*
 * [odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - *Checkra1n / Odysseyra1n Installation Distro*
 * [ReProvision](https://github.com/Matchstic/ReProvision) - *On-device signing utility*
