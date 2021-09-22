@@ -125,7 +125,7 @@
 
 ## ▷ Aggregators
 
-* **[Torrentz2](https://torrentz2eu.me/)** - *[Beta](https://torrentzeu.org/beta/) / [Onion](http://torrentzwealmisr.onion/) / [Add Magnet Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrentz2_magnet_links)*
+* **[Torrentz2](https://torrentz2eu.me/)** - *[Beta](https://torrentzeu.org/beta/) / [Magnet Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrentz2_magnet_links)*
 * **[FileListing](https://filelisting.com)** 
 * **[snowfl](https://snowfl.com/)** 
 * **[Knaben](https://knaben.net/)**
