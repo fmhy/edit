@@ -284,6 +284,7 @@
 * [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - *How well do you recognize hit songs?*
 * [Themes.moe](https://themes.moe/) - *Anime Opening / Theme Search*
 * [GeekPrank](https://geekprank.com/) - *Windows Pranks*
+* [Update Faker](https://updatefaker.com/ ) - *Fake System Update Prank*
 * [Hair on Screen](https://chrome.google.com/webstore/detail/hair-on-screen/egkikapjpndmjflbjjoondbihalgdjco) - *Fake Hair on Screen Prank*
 * [Speedtest Faker](https://jkctech.nl/projects/speedtest/) - *Fake Speedtest Results*
 * [Hacktyper](https://hackertyper.net/) or [Geektyper](https://geektyper.com/) - *Fake Hacking Screen* 
