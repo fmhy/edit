@@ -1396,6 +1396,7 @@ General Reading Sites*
 * [InstantBox](https://github.com/instantbox/instantbox) - *Temporary Linux Systems*
 * [archinstall](https://github.com/archlinux/archinstall) - *Arch Linux Installer*
 * [Brunch](https://github.com/sebanc/brunch) - *ChromeOS Installer*
+* [WayneOS](https://wayne-os.com/) - *ChromeOS Mod*
 * [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - *One-Click Remote Desktop* 
 * [MultiBoot USB](https://github.com/hackerncoder/multibootusb) - *Create Bootable USB Linux Drives*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
