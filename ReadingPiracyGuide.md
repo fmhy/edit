@@ -749,9 +749,9 @@
 
 * **[Comic Sites Search](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)**
 * **[ReadComicsOnline](https://readcomiconline.li/)**
-* **[ComicExtra](https://www.comicextra.com/)** or [Comic Online Free](https://comiconlinefree.net/) 
 * **[GetComics](https://getcomics.info/)** - *Downloads / Read Online*
-* [XOXO Comics](https://xoxocomics.com/) 
+* **[ComicExtra](https://www.comicextra.com/)** or [Comic Online Free](https://comiconlinefree.net/) 
+* **[XOXO Comics](https://xoxocomics.com/)** 
 * [View-Comic](https://view-comic.com/)
 * [Read Comics Online](https://readcomicsonline.ru/) 
 * [Comix-Load](https://comix-load.in/) - *Downloads*
