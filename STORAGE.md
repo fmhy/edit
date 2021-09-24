@@ -2065,7 +2065,7 @@ Good for finding classic, obscure & short films.
 
 **Wallpaper Managers**
 
-* [Wallpaper Engine](https://rentry.org/WallpaperEngine), [2](https://steamunlocked.net/?s=wallpaper+engine) / [Discord](https://discord.gg/3e6D3mXEhN)
+* [Wallpaper Engine](https://rentry.org/WallpaperEngine), [2](https://steamunlocked.net/?s=wallpaper+engine)
 * [SuperDuperWallpaper](https://gitlab.com/sech1p/superduperwallpaper)
 * [ScreenPlay](https://screen-play.app/) 
 * [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper)
