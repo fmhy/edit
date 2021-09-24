@@ -274,6 +274,7 @@
 * [Audiocheck](https://www.audiocheck.net/) - *Audio Tests* 
 * [Online Mic Test](https://onlinemictest.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - *Mic Test* 
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) - *Measure Surrounding Sound Level*
+* [Krisp](https://krisp.ai/) - *Noise Canceling Software*
 * [Audio-Router](https://github.com/audiorouterdev/audio-router) - *Route Audio from Programs to Devices*
 * [AAFDCHDriverMod](https://github.com/AlanFinotty/AAFDCHDriverMod) or [Ultimate Realtek HD Audio Driver Mod](https://1drv.ms/f/s!AkGtxiGigudSzVLpSjYdvkAqrejL) - *Realtek Audio Driver*
 * [ASIO4ALL](https://www.asio4all.org/) - *ASIO Audio Driver*
