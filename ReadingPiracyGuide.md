@@ -148,7 +148,7 @@
 * [HundredZeros](http://hundredzeros.com/) - *Free Kindle Books* 
 * [Wikibooks](https://www.wikibooks.org/) - *Wikimedia community*
 * [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - *ZeroNet Required*
-* [AvaxHome](https://avxhm.se/) - *[Leech Required](https://leechall.com/)* 
+* [AvaxHome](https://avxhm.se/), [2](https://avxhm.is/), [3](https://www.avaxhome.co/)  - *[Leech Required](https://leechall.com/)* 
 * [FreeBookSpot](http://www.freebookspot.es/default.aspx) - *Books / [Leech Required](https://filehostlist.miraheze.org/wiki/Main_Page)*
 * [zqktlwi4fecvo6ri](http://zqktlwi4fecvo6ri.onion/wiki/Libraries) - *Tor Required* 
 * [xfmro77i3lixucja](http://xfmro77i3lixucja.onion/) - *Tor Required* 
@@ -564,7 +564,6 @@
 
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / [Downloader](https://github.com/lorenzodifuccia/safaribooks) / Infinite trial by clearing cookies & making new account*
 * ***[ForCoder,](https://forcoder.su/)*** [ScanLibs](https://scanlibs.com/) or [CoderProg](https://coderprog.com/)
-* [AvaxHome](https://www.avaxhome.co/) 
 * [IT eBooks](https://it-ebooks.info/) 
 * [FreeTechBooks](https://www.freetechbooks.com/) 
 * [Programming Books](https://www.programming-book.com/)  
