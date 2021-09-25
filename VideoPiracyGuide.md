@@ -346,7 +346,6 @@
 * **[WebOas.is TV](http://streamwat.ch/)** - *TV / Sports*
 * **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - *NBA / NFL*
 * **[Jackal](https://jackal.surge.sh/)** - *TV / Sports*
-* [SportsBay](https://sportsbay.org/live-streams) - *Sports* 
 * [Black Tie Sports](https://blacktiesports.net/) - *Sports* 
 * [123TV](http://123tv.live/) - *TV / Sports*
 * [streamlive](https://www.streamlive.to/) - *TV / Sports*
