@@ -346,7 +346,7 @@
 * **[WebOas.is TV](http://streamwat.ch/)** - *TV / Sports*
 * **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - *NBA / NFL*
 * **[Jackal](https://jackal.surge.sh/)** - *TV / Sports*
-* **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [2](https://github.com/iptv-org/iptv) - *IPTV Resources / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Sports](https://t.me/iptv_sport)*
+* **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [2](https://github.com/iptv-org/iptv) - *IPTV Resources / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists)*
 * [Black Tie Sports](https://blacktiesports.net/) - *Sports* 
 * [123TV](http://123tv.live/) - *TV / Sports*
 * [streamlive](https://www.streamlive.to/) - *TV / Sports*
@@ -428,7 +428,6 @@
 * [TV.Jest](https://tv.jest.one/) - *News* 
 * [SHOWROOM](https://showroom-live.com/) - *Live Performance Broadcasts*
 * [KCNA](https://kcnawatch.org/korea-central-tv-livestream/) - *North Korean Live TV* 
-* [dummyepgxml](https://github.com/yurividal/dummyepgxml) - *Dummy EPG xml Generator*
 
 ***
 
