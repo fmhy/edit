@@ -346,6 +346,7 @@
 * **[WebOas.is TV](http://streamwat.ch/)** - *TV / Sports*
 * **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - *NBA / NFL*
 * **[Jackal](https://jackal.surge.sh/)** - *TV / Sports*
+* **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [2](https://github.com/iptv-org/iptv) - *IPTV Resources / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Sports](https://t.me/iptv_sport)*
 * [Black Tie Sports](https://blacktiesports.net/) - *Sports* 
 * [123TV](http://123tv.live/) - *TV / Sports*
 * [streamlive](https://www.streamlive.to/) - *TV / Sports*
@@ -408,11 +409,6 @@
 * [Topstreams](http://topstreams.info/) - *Sports* 
 * [VIPLeague](https://www.vipleague.lc/) or [VIPBox](https://www.vipbox.lc/) - *Sports* 
 * [FreeStream-Live](http://freestreams-live1.com/) - *Sports* 
-* [Awesome IPTV](https://github.com/iptv-org/awesome-iptv), [2](https://github.com/iptv-org/iptv) - *IPTV Resources*
-* IPTV Tools - [IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Plex + Emby Proxy](https://xteve.de/) / [m3u to txt](https://siptv.eu/converter/) / [M3U Editor](https://m3u4u.com/) 
-* [HLS Cat](https://hlscat.com/), [Sneh IPTV](https://github.com/techiesneh/sneh-iptv-m3u), [IPTVCat](https://iptvcat.net/), [DailyIPTVList](https://www.dailyiptvlist.com/ip-tv/), [AllIPTV](https://www.alliptvlinks.com/), [CCcam](https://cccamiptv.cc/) or [TVLab](https://t.me/tvlab) - *IPTV Playlists*
-* [iptv_sport](https://t.me/iptv_sport) - *IPTV Sports Playlists / Telegram*
-* [dummyepgxml](https://github.com/yurividal/dummyepgxml) - *Dummy EPG xml Generator*
 * [Football Live Stream](https://football-live.stream/free-matches-online-6) - *Football* 
 * [MLB66](https://mlb66.ir/) - *MLB* 
 * [BoxingStreams](https://boxingstreams.cc/) - *Boxing*
@@ -432,6 +428,7 @@
 * [TV.Jest](https://tv.jest.one/) - *News* 
 * [SHOWROOM](https://showroom-live.com/) - *Live Performance Broadcasts*
 * [KCNA](https://kcnawatch.org/korea-central-tv-livestream/) - *North Korean Live TV* 
+* [dummyepgxml](https://github.com/yurividal/dummyepgxml) - *Dummy EPG xml Generator*
 
 ***
 
