@@ -122,6 +122,7 @@
 * [Emulator Netplay Tools](http://emulation.gametechwiki.com/index.php/Netplay) - *Multiplayer Emulation*
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - *Roms / [Discord](https://discord.gg/rH9wRpu2vh)* 
 * [PlanetEmu](http://www.planetemu.net/) - *Emulators*
+* [Zophar's Domain](https://www.zophar.net/) - *Emulator / Rom Hacks*
 * [RoyalRoms](https://www.royalroms.com/) - *Emulators / Roms* 
 * [EmuCR](https://www.emucr.com/) - *Emulators*
 * [Retrostic](https://www.retrostic.com/) - *Emulators / Roms*
