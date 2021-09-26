@@ -692,7 +692,8 @@
 * **[IMDb Advanced Search](https://www.imdb.com/search/)**
 * **[TasteDive](https://tastedive.com/)** - *Recommendations* 
 * **[FlixMetrix](https://flickmetrix.com/)** - *Combines IMDb, Rotten Tomatoes & Letterbox ratings*
-* **[Letterboxd](https://letterboxd.com/)** - *Movies / [Tools](http://www.letterboxd.tools/) / [Add Shortcuts](https://github.com/alandours/letterboxd-shortcuts) / [Generate Recommendations](https://letterboxd-recommendations.herokuapp.com/) / [Watchlist Picker](https://watchlistpicker.com/) / [Collections Index](https://mrdys.github.io/letterboxd-completionist/)* 
+* **[Letterboxd](https://letterboxd.com/)** - *Movies* 
+* **Letterboxd Tools** - [Multi Tool](http://www.letterboxd.tools/) / [Shortcuts](https://github.com/alandours/letterboxd-shortcuts) / [Recommendations](https://letterboxd-recommendations.herokuapp.com/) / [Watchlist Picker](https://watchlistpicker.com/) / [Collections](https://mrdys.github.io/letterboxd-completionist/)
 * **[Trakt](https://trakt.tv/)** - *TV / Anime / Movies / [Apps](https://trakt.tv/apps) / [Duplicate Remover](https://huere.net/trakt/duplicate_removal/)*
 * **[MyAnimeList](https://myanimelist.net/)** - *Anime* 
 * **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Web Client](https://anidex-mal.herokuapp.com/) / [Extenstion](https://anime.plus/) / [Site Sync](https://malsync.moe/) / [Alt View](https://mal.rl404.com/) / [API](https://jikan.moe/)
