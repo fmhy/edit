@@ -742,7 +742,7 @@ General Reading Sites*
 
 ***
 
-* **[Aliucord](https://github.com/Aliucord/Aliucord)** or [Treecord](https://github.com/Treecord/Treecord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client* 
+* **[Aliucord](https://github.com/Aliucord/Aliucord)** - *Modded Discord Client* 
 * **[BetterDiscord](http://betterdiscord.app/)** - *Modifiable Discord Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools) / [Web Client](https://github.com/Strencher/BdBrowser)*
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - *Discord Tools*
 * [Guilded](https://www.guilded.gg/) or [Revolt](https://revolt.chat/) - *Discord Alternative / [Client Mod](https://github.com/ReGuilded/ReGuilded/)*
@@ -780,7 +780,7 @@ General Reading Sites*
 * [DiscordFS](https://github.com/dhrumilp15/discordfs) - *Discord File Search*
 * [DeepL](https://github.com/aisuzuki/dd-bot) - *Discord Chat Auto Translator*
 * [TwitFix](https://fxtwitter.com/) - *Fix Discord Twitter Embeds / [GitHub](https://github.com/robinuniverse/twitfix)*
-* [Discord Token Getter](https://greasyfork.org/en/scripts/404170-discord-token-getter) or [Get Discord Token](https://greasyfork.org/en/scripts/395741-get-discord-token) - *Retrieve Discord user token*
+* [Get Discord Token](https://greasyfork.org/en/scripts/395741-get-discord-token) - *Retrieve Discord user token*
 * [PreMiD](https://premid.app/) - *Display internet activity in Discord status / [Github](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.gg/WvfVZ8T)* 
 * [Alternatives to MEE6](https://alternativestomee6.com/) - *[Discord](https://discord.gg/WrbMdWHfNd)* 
 * [Titan Embeds](https://titanembeds.com/) - *Create Discord Chat Embeds*
@@ -826,7 +826,7 @@ General Reading Sites*
 * [Discord.ID](https://discord.id/) - *Lookup a Discord User or Bot ID* 
 * [Discord Markdown Cheatsheet](https://pbs.twimg.com/media/EhCUbVnWAAE5tHx?format=png&name=900x900), [2](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-), [3](https://c.r74n.com/discord/formatting) - *Discord Markdown Guide*
 * [Discord Avatar Maker](https://discord-avatar-maker.app/) - *Make Discord Avatars*  
-* [usrbg](https://github.com/Discord-Custom-Covers/usrbg), [Pfps.gg](https://pfps.gg/) or [BetterBG](https://github.com/Flashc0rd/BetterBG) - *Discord Custom Profile Backgrounds / [Discord](https://discord.gg/xBwunSDzPg)* 
+* [usrbg](https://github.com/Discord-Custom-Covers/usrbg) or [Pfps.gg](https://pfps.gg/) - *Discord Custom Profile Backgrounds / [Discord](https://discord.gg/xBwunSDzPg)* 
 * [Auto Creative](https://auto.creavite.co/icons) - *Animated Icon & Banner Generator*
 * [Disgradient](https://disgradient.vanished.rocks/) - *Gradients for Discord Folders, Roles ect.*
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - *Adds Custom CSS Support* 
