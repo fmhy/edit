@@ -106,7 +106,7 @@
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - *Open Source Development Software*
 * [Student Developer Pack](https://education.github.com/pack) - *Free Developer Tools for Students* 
 * [Libera Chat](https://libera.chat/) - *IRC Network for Project Collaboration*
-* [CodeProject](https://www.codeproject.com/) or [Blind](https://www.teamblind.com/)  - *Developer Forum* 
+* [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/)  - *Developer Forum* 
 * [The Devs Network](https://thedevs.network/) - *Developer Chat*
 * [daily.dev](https://daily.dev/) - *Replace New Tab Page with Developer Articles* 
 * [Laws of UX](https://lawsofux.com/) - *Maxims / Principles for UI Designers* 
