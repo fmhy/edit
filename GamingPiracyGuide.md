@@ -101,7 +101,6 @@
 * [CroTorrents](https://crotorrents.com/)
 * [GamesTorrents](https://www.gamestorrents.nu/)
 * [Free GoG PC Games](https://freegogpcgames.com/)
-* [Pleasuredome](http://www.pleasuredome.org.uk/)
 * [Dirty Games](https://www.dirtygames.xyz/)
 * [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
@@ -163,7 +162,6 @@
 * [ROM World](http://www.romworldonline.com/) - *Roms / [How-to](https://i.imgur.com/Mqab82O.png)*
 * [LegendaryRepacks](http://legendaryrepacks.simplesite.com/) - *Roms / [Discord](https://discord.gg/RUSNHSk) / Adblock & Universal Bypass Required*
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - *Roms / Torrent*
-* [Pleasuredome](http://www.pleasuredome.org.uk/) - *Roms / Torrent*
 * [NesFiles](https://www.nesfiles.com/) - *NES Roms / Emulators* 
 * [Eclipse](https://eclipseemu.me/play/) - *Online Mobile Multi-Console Emulator* 
 * [webnofrendo](https://zardam.github.io/webnofrendo/) - *NES Numworks Emulator*
