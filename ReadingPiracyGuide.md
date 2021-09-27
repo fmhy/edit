@@ -954,6 +954,7 @@
 * [Retromags](https://www.retromags.com/) - *Retro Game Magazines* 
 * [PC Zone](http://pixsoriginadventures.co.uk/PCZone/) - *PC Zone Magazines*
 * [Atari Magazines](https://www.atarimagazines.com/) - *Classic Computer Magazine Archive* 
+* [HomePower](https://www.homepower.com/archive-browse ) - *Home Power Magazines*
 * [Archive Fashion for the World](https://www.archivepdf.net/) - *Fashion Magazine Archive* 
 
 ***
