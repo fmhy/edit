@@ -137,7 +137,7 @@
 * [TorrentDownload](https://www.torrentdownload.info/) 
 * [Torrent Paradise](https://torrent-paradise.ml/) 
 * [TorLook](https://torlook.info/) 
-* [2Torrentz](https://2torrentz.net/torrentz/) -
+* [2Torrentz](https://2torrentz.net/torrentz/)
 * [Toros](https://www.toros.co/) or [Toros2](https://www.toros2.com/)
 * [Dirty Torrents](https://dirtytorrents.com/) 
 * [TorrentQuest](https://torrentquest.com/) 
