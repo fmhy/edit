@@ -501,11 +501,12 @@ RSS Player*
 * [/r/jailbreak](https://reddit.com/r/jailbreak) - *Jailbreaking Subreddit*
 * [Sideloading Beginners Guide](https://redd.it/orqzau) - *iOS Sideloading Guide*
 * [/r/sideloaded](https://reddit.com/r/sideloaded) - *Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)*
-* [Sideloadly](https://iosgods.com/topic/130167-windowsmacosm1ios-15-introducing-sideloadly-working-cydia-impactor-alternative/) or [iPAWiND](https://ipawind.com/) - *Sideloading Tool*
+* [Sideloadly](https://iosgods.com/topic/130167-windowsmacosm1ios-15-introducing-sideloadly-working-cydia-impactor-alternative/) , [ReProvision Reborn](https://repo.packix.com/package/jp.soh.reprovision) / [GitHub](https://github.com/sohsatoh/ReProvision-Reborn) or [iPAWiND](https://ipawind.com/) - *Sideloading Tool*
 * [Jailbreak 13.5 Tweak Compatibility List](https://docs.google.com/spreadsheets/d/1cHL_bIcmON2L5euBM8NDk0SZ8w-VUE6oY3USbVqaLnA/edit?usp=sharing) - *Find out what tweaks are compatible with the 13.5* 
 * [IPSW](https://ipsw.me/) - *Provides Jailbreak firmware*
 * [Julioverne](https://julio.hackyouriphone.org/) - *Jailbreaking Tools* 
 * [checkra1n](https://checkra.in/) - *5s - X Jailbreak*
+* [Taurine](https://taurine.app/) - *iOS 14-14.3 Semi-Untethered Jailbreak*
 * [ Checkra1n 1.1.7](https://drive.google.com/folderview?id=1istKtuN84VgRWcoIGHBJJwstObjMyMXf) - *iOS 14.7 Jailbreak*
 * [Odyssey](https://theodyssey.dev/) - *13.0-13.5 Semi-tethered Jailbreak* 
 * [Chimera](https://chimera.coolstar.org/) - *12-12.5.3 Jailbreak*
@@ -521,13 +522,15 @@ RSS Player*
 * [rootlessJB](https://github.com/jakeajames/rootlessJB) - *Rootless iOS 12 Jailbreak*
 * [IPA Apps](https://ipa-apps.me/) - *Jailbreak Tools & Apps*
 * [Totally Not Spyware](https://totally-not.spyware.lol/) - *Safari Jailbreaking Tool*
-* [odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - *Checkra1n / Odysseyra1n Installation Distro*
+* [odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - *Checkra1n / Odysseyra1n Installation Distro / [GUI](https://github.com/23Aaron/Betelguese)*
 * [ReProvision](https://github.com/Matchstic/ReProvision) - *On-device signing utility*
 * [HackYouriPhone Repo](https://repo.hackyouriphone.org/) - *Jailbreak / Tweaks* 
 * [isecureos](https://isecureos.idevicecentral.com/repo/) - *Jailbreak Antivirus Tweak*
 * [libhooker-configurator](https://github.com/coolstar/libhooker-configurator) - *LibHooker CS 13.0+ Jailbreak Config*
 * [EtasonATV](https://etasonatv.tihmstar.net/) - *Apple TV Jailbreaking*
 * [SHSH Host](https://shsh.host/) - *Save SHSH blobs to upgrade/downgrade iOS versions* 
+* [FutureRestore](https://github.com/tihmstar/futurerestore) - *Restore to Unsigned Firmware / [GUI](https://github.com/CoocooFroggy/FutureRestore-GUI/)*
+* [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app) or [Zebra](https://getzbra.com/) - *APT Package Manager / [Website](https://getsileo.app/)*
 
 ***
 
@@ -582,6 +585,7 @@ RSS Player*
 * [iEmulators](https://iemulators.com/) - *Emulator Apps*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
 * [Drafts](https://getdrafts.com/) or [Bear](https://apps.apple.com/us/app/bear/id1016366447) - *Note Taking App*
+* [Powercuff](https://rpetri.ch/cydia/powercuff/) - *Throttle iOS to Increase Battery Life*
 * [The Fucking Weather](https://alcohollick.com/the-fucking-weather) - *Weather App*
 * [CocaoTop](https://github.com/D0m0/CocoaTop) - *iOS Process Viewer*
 * [iSH Shell](https://apps.apple.com/us/app/ish-shell/id1436902243) - *Linux-like iOS Shell*
@@ -593,7 +597,7 @@ RSS Player*
 * [Safari Snippets](https://apps.apple.com/us/app/safari-snippets/id1126048257) - *Insert Code into Safari*
 * [UTM](https://getutm.app/) - *Virtual Machines* 
 * [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) - *Automation Script Tool*
-* [iSkin](https://iskin.tooliphone.net/) or [SnowBoard](https://repo.dynastic.co/package/snowboard) - *iOS Themes* 
+* [iSkin](https://iskin.tooliphone.net/), [Anemone](https://www.ios-repo-updates.com/repository/odyssey-repo/package/com.anemonetheming.anemone3/) or [SnowBoard](https://repo.dynastic.co/package/snowboard) - *iOS Themes* 
 * [moloko](https://apps.apple.com/us/app/moloko-themes-icons/id1534741213) - *iOS Themes & Icons* 
 * [Themify](https://apps.apple.com/us/app/themify-icon-themes-widgets/id1534126062) - *Icon Themes & Widgets*
 * [iCustom](https://icustom.tooliphone.net/) - *Make Custom Icons Without Shortcuts* 
@@ -688,7 +692,7 @@ RSS Player*
 
 # ► iOS Audio
 
-* **[Spotify++](https://appdb.to/app/cydia/1900000540)** / [2](https://ipaspot.app/categories/tweakedapps.html) / [3](https://repo.hackyouriphone.org/spotilife) (JB Required) or **[Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580)** - *Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392)*
+* **[Spotify++](https://appdb.to/app/cydia/1900000540)** / [2](https://ipaspot.app/categories/tweakedapps.html) / [3](https://repo.hackyouriphone.org/spotilife) (JB Required) or **[Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580)** - *Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392) / [Customize](https://repo.dynastic.co/package/com.revulate.groovify)*
 * [YTMusilife](https://repo.hackyouriphone.org/ytmusilife) or [YouTube Music Patched](https://appdb.to/app/cydia/1900000831) - *Streaming*
 * [Deezelife](https://repo.hackyouriphone.org/deezelife) or [Deezer](https://apps.apple.com/app/deezer/id292738169) - *Streaming*
 * [SCloudlife](https://repo.hackyouriphone.org/scloudlife) or [Soundcloud](https://apps.apple.com/us/app/soundcloud/id336353151) - *Streaming*
