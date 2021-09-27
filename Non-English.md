@@ -940,7 +940,7 @@
 * [pesnigoo](https://pesnigoo.ru/) - *Music*  
 * [Tancpol](https://tancpol.net/) - *Music*
 * [MDCORE](https://vk.com/mdcore) - *Metal Music*
-* [HDVideoBox](https://forum.mobilism.me/viewtopic.php?f=429&t=4190691&hilit=HD+Videobox) - *Movies / TV / Anime / Android*
+* [HDVideoBox](https://forum.mobilism.org/viewtopic.php?f=429&t=4505325) - *Movies / TV / Anime / Android*
 * [OpenEDU](https://openedu.ru/) - *Courses*
 * [Teach.in](https://teach-in.ru/) - *Lectures*
 
