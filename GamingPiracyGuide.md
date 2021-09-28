@@ -22,6 +22,7 @@
 * **[GamesDrive](https://gamesdrive.net/)** - *[Discord](https://discord.gg/PKFAnduGtA)*
 * **[DODI](http://dodi-repacks.site/)** - *[Discord](https://discord.gg/uE273qJ)*
 * **[GoG Games](https://gog-games.com/)**
+* **[FreeToGame](https://www.freetogame.com/games)**, [Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) or [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - *F2P Games*
 * [ScOOter Repacks](https://scooter-repacks.site/) - *[Discord](https://discord.gg/BWKyN8SgvM)*
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - *[Discord](https://discord.gg/693hNBdymb)*
 * [CPG](https://cpgrepacks.site/) - *[Discord](https://discord.gg/dtBSZ9N)*
@@ -58,7 +59,6 @@
 * [g4u](https://g4u.to/) - *Password: 404*
 * [GoodOldDownloads Backup](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view)
 * [PCGames-Download Backup](https://1fichier.com/?hy7lsbep6bqtu4loy1j6)
-* [FreeToGame](https://www.freetogame.com/games), [Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) or [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - *F2P Games*
 * [LibreGameWiki](https://libregamewiki.org/List_of_games) - *FOSS Games* 
 * [itch.io](https://itch.io/games/new-and-popular/featured/free) or [Game Jolt](https://gamejolt.com/games?price=free) - *Indie Games* 
 * [Open Source Game Clones](https://osgameclones.com/) - *Game Clones*
