@@ -28,7 +28,7 @@
 * [Create Open Directory Search Engine](https://redd.it/d3w2fu)
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) or [AutoIndex](http://autoindex.sourceforge.net/) - *Open Directory Indexer* 
 * [Directory Lister](https://directorylister.com/) - *Open Directory Explorer*
-* [IRC / XDCC Tutorial](https://www.theloadguru.com/xdcc-irc-beginners-guide/), [2](https://github.com/mayfrost/guides/blob/master/IRC.md)
+* [IRC / XDCC Tutorial](https://www.theloadguru.com/xdcc-irc-beginners-guide/), [2](https://github.com/mayfrost/guides/blob/master/IRC.md), [3](https://libera.chat/guides/)
 * [Awesome IRC](https://github.com/davisonio/awesome-irc) - *IRC Resource Index*
 * [xdccget](https://github.com/Fantastic-Dave/xdccget) - *XDCC IRC Downloader*
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - *Search Pastebin Directories*
