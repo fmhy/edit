@@ -342,9 +342,7 @@
 * [Games on GitHub](https://github.com/leereilly/games) - *GitHub Hosted Games*
 * [Nekogames](http://nekogames.jp/) - *Japanese Games* 
 * [ArcadePrehacks](http://www.arcadeprehacks.com/) - *Hacked Games* 
-* [iogames.space](https://iogames.space/) - *.io Games* 
 * [Orisinal](http://www.ferryhalim.com/orisinal/), [BillsGames](http://www.billsgames.com/) or [pitStreet](http://www.pitstreet.com/) - *Simple Games* 
-* [GirlsGoGames](https://www.girlsgogames.com/) - *Games for Girls*
 * [Nick Jr. Games](http://www.nickjr.com/games/) or [PBS Kids Games](https://pbskids.org/games/) - *Games for Kids*
 * [Surrogate](https://www.surrogate.tv/) - *Remote Control Real Life Games* 
 * [RobotStreamer](https://robotstreamer.com/) - *Live Control Robots* 
@@ -417,6 +415,7 @@
 * [Maze](https://www.epgsoft.com/maze/) - *Maze Generator*
 * [BrantSteele](http://brantsteele.net/) - *Game Show Simulators*
 * [Shooty Ship Pumpkin Smash](https://www.thepointless.com/apps/shooty-ship-pumpkin-smash/index.html) - *Shoot Pumpkins*
+* [GirlsGoGames](https://www.girlsgogames.com/) - *Games for Girls*
 * [Educational Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_games)
 * [Gameload](http://www.gameload.top/) - *Unity Browser Game Extension* 
 
