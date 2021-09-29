@@ -692,6 +692,10 @@
 * [LineMovie](http://linemovie.ml/) - *Movies / TV* 
 * [S1Movie](https://s1movie.fun/) - *Movies / TV* 
 * [CenterDL](https://centerdl.ir/) - *Movies / TV* 
+* [raygans](https://raygans.top/) - *Movies* 
+* [filmha](https://filmha.top/) - *Movies* 
+* [film2media](https://www.film2media.website/) - *Movies*  
+* [FastMovie](https://dl2.fastmovie.ir/Animation/) - *Animated Movies*
 * [A101](http://a101.ir/) - *Anime* 
 * [anidlencodes](https://anidlencodes.xyz/) - *Anime* 
 * [List20](https://www.anime-list20.site/) - *Anime*
@@ -699,9 +703,6 @@
 * [anime-list16](https://anime-list16.site/) - *Anime*
 * [animesubtitle](https://animesubtitle.ir/) - *Anime*
 * [filmgozar](https://filmgozar.com/category/anime/) - *Anime*
-* [raygans](https://raygans.top/) - *Movies* 
-* [filmha](https://filmha.top/) - *Movies* 
-* [film2media](https://www.film2media.website/) - *Movies*  
 * [pop-music](https://pop-music.ir/) - *MP3*
 * [Just Music](https://just-music.ir/) - *MP3*
 * [BikalamMusic](http://www.bikalammusic.com/) - *MP3*
@@ -779,7 +780,9 @@
 # ► Portuguese 
 
 * [LegendaOfficial](http://legendaoficial.net/), [LegendasDivx](https://www.legendasdivx.pt/, [Legendas.tv](http://legendas.tv/), [Legendas](https://legendas.co/), [Legendas.dev](https://legendas.dev/) or [Leganda-Zone](https://www.legendas-zone.org/) - *Subtitles* 
-* [ClickJogos](https://www.clickjogos.com.br/), [jogos360](https://www.jogos360.com.br/), [netjogos](https://www.netjogos.com/), [papajogos](https://www.papajogos.com.br/), [1001jogos](https://www.1001jogos.pt/), [brincar](https://www.brincar.pt/) or [Ojogos](https://www.ojogos.com.br/) - *Browser Games*
+* [Portuguese Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_browser_games) 
+* [Atari2600](http://www.atari2600.com.br/) - *Browser Emulator*
+* [Racha Cuca](https://rachacuca.com.br/) - *Puzzles & Trivia*
 
 ## ▷ Downloading
 
@@ -789,6 +792,7 @@
 * [Os Reformados](http://osreformados.com/) - *Video / Audio / Magazines* 
 * [Tugakids](https://tugakids.biz/) - *Movies / TV / Dubbed / Registration Required* 
 * [Series Empire](https://seriesempire.com/) - *TV* 
+* [Jogatina](https://www.jogatina.com/) - *Android Games*
 
 ## ▷ Torrenting
 
@@ -801,6 +805,9 @@
 * [TheFilmes](https://thefilmes.tv/) - *Movies / TV / Anime*
 * [Vizer.tv](https://vizer.tv/) - *Movies/ TV / Anime*
 * [GoFilmes](https://gofilmes.me/hd/) - *Movies / TV* 
+* [MaxSeries](https://maxseries.top/) - *Movies / TV / Anime*
+* [NetMovies](http://www.netmovies.com.br/) - *Movies / TV*
+* [querofilmehd](https://querofilmehd.net/) - *Movies / TV*
 * [AnimeFire](https://animefire.net/) - *Anime* 
 * [AnimeVision](https://animesvision.biz/) - *Anime* 
 * [Kultivi](https://app.kultivi.com/) - *Courses*
@@ -848,6 +855,7 @@
 * [muzlishko](http://www.muzlishko.ru/) - *MP3*
 * [Tancpol](https://tancpol.net/) - *MP3*
 * [kinosoundtrack](https://www.kinosoundtrack.com/) - *MP3*
+* [MailboxDrive](http://www.mailboxdrive.com/) - *MP3*
 * [Shazam Music](https://t.me/shazam_music_uz) - *MP3* 
 * [MetalArea](https://metalarea.org/) - *Metal / MP3*  
 * [MDCORE](https://vk.com/mdcore) - *Metal / MP3*
@@ -1027,6 +1035,7 @@
 * [gnula.nu](http://gnula.nu/) - *Movies / TV* 
 * [Cliver](https://www.cliver.to/) - *Movies*
 * [Repelis24](https://repelis24.co/) - *Movies / TV*
+* [Pelis28](https://pelis28.site/) - *Movies*
 * [HomeCine](https://homecine.me/) - *Movies* 
 * [Zoowoman](https://zoowoman.website/) - *Movies* 
 * [Danimados](https://danimados.com) - *TV / Anime*
@@ -1073,6 +1082,7 @@
 * [InManga](https://inmanga.com/) - *Manga* 
 * [MangasEnPdf](https://t.me/MangasEnPdf) - *Manga / Telegram* 
 * [tupropiaaventura_bot](https://t.me/tupropiaaventura_bot) - *Books / Telegram* 
+* [Recetas Vegetarianas](https://recetasvegetarianas.netlify.app/) - * Vegan Recipes*
 
 ***
 
