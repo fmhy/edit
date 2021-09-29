@@ -129,11 +129,8 @@
 * [Viberoom](https://viberoom.audio/) - *Lo-fi Hip-Hop Radio*
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - *Create Room / Lo-Fi Player*
 * [Music For Programming](http://musicforprogramming.net/) - *Music for Focus* 
-* [RainyMood](https://www.rainymood.com/) - *Rain Sounds* 
-* [rainfor.me](http://rainfor.me/) - *Rain Sounds / Relaxation* 
-* [Raining.fm](https://raining.fm/) - *Ambient* 
+* [Ambient Rain Sounds](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ambient_rain_sounds) - *Ambient Rain Sites*
 * [Noizio](https://noiz.io/) - *Ambient* 
-* [Rainyscope](https://rainyscope.com/) - *Ambient* 
 * [Calmsound](https://www.calmsound.com/) - *Ambient* 
 * [Relaxing World](https://relaxing.world/) - *Ambient* 
 * [Moss Garden](https://moss.garden/) - *Ambient*
@@ -191,6 +188,7 @@
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - *Bandcamp Downloader*
 * [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - *Soundcloud Download Tools*
 * [streamrip](https://github.com/nathom/streamrip) - *Deezer & SoundCloud Downloader*
+* [Musescore-downloader](https://github.com/Xmader/musescore-downloader) - *Musescore Downloader*
 * [you-get](https://you-get.org/) or [irs](https://github.com/cooperhammond/irs) - *Audio Command Line Download Tool*
 * [music-downloader](https://github.com/Dayhawk007/music-downloader) - *Python Music Download Script*
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - *VK MP3 Search Tool* 
@@ -231,6 +229,8 @@
 * [geedryve](http://jacobsm.com/geedryve/records/mp3s/) - *MP3* 
 * [Music Library](https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7) - *MP3*
 * [109.120.203.163](http://109.120.203.163/Music/) - *MP3*
+* [90.146.184.46](http://90.146.184.46/) - *MP3*
+* [212.159.121.149:85](https://212.159.121.149:85/) - *MP3*
 * [FLAC Attack](https://flacattack.net/) - *FLAC*
 * [24Flac.net](https://24flac.net/) - *FLAC*
 * [Lossless-Music](https://lossless-music.org/) - *FLAC*
