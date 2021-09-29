@@ -87,11 +87,12 @@
 * [DCGAN](http://mattya.github.io/chainer-DCGAN/) - *Anime Icon Generator* 
 * [Girl Friend Factory](https://hiroshiba.github.io/girl_friend_factory/) or [MakeGirlsMoe](https://make.girls.moe/) - *Female Anime Icon Generator* 
 * [Photovisi](https://www.photovisi.com/) - *Photo Collage Generator* 
+* [TierMaker](https://tiermaker.com/) - *Tier List Image Creator*
 * [Hugin](http://hugin.sourceforge.net/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - *Panorama Photo Generator* 
 * [DoodDad](https://doodad.dev/pattern-generator) or [Haikei](https://app.haikei.app/)  *Pattern Generator*
 * [stripegenerator](http://www.stripegenerator.com/) - *Stripe Generator* 
 * [BannerEasy](https://www.bannereasy.com) - *Create Custom Banners*
-* [Get Waves](https://getwaves.io/) - *Wave Generator*
+* [Get Waves](https://getwaves.io/) or [SVG Wave](https://www.softr.io/tools/svg-wave-generator) - *Wave Generator*
 * [Meta-Mapper](https://meta-mapper.com/) - *Website Metadata Thumbnails*
 * [Band-Flyers](https://band-flyers.com/) - *Band Flyer Creator*
 * [Mockupea](https://mockupea.com/) - *Book / Magazine Mockup Cover Creator*
@@ -139,7 +140,7 @@
 
 ## ▷ Painting / Drawing
 
-* [Krita](https://krita.org/en/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [JS Kid Pix](https://kidpix.app/) or [MediBang](https://medibangpaint.com/en/) - *Painting*
+* [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [JS Kid Pix](https://kidpix.app/) or [MediBang](https://medibangpaint.com/en/) - *Painting*
 * [Aggie.io](https://aggie.io/) - *Collaborative Painting*
 * [inkscape](https://inkscape.org/) or [Excalidraw](https://excalidraw.com/) - *Drawing* 
 * [AutoDraw](https://www.autodraw.com/) - *Machine Learning Drawing Tool* 
@@ -181,7 +182,7 @@
 * [/r/BLKMARKET](https://reddit.com/r/blkmarket) - *Plugins, Textures & Mockups*
 * [Placeit](https://placeit.net/) - *Image Templates*
 * [Crello](https://crello.com/) - *Image Templates / Editor*
-* [Worldvectorlogo](https://worldvectorlogo.com/) or [Logos Download](https://logos-download.com/) - *Brand Logos*
+* [Worldvectorlogo](https://worldvectorlogo.com/), [Brands of the World](https://www.brandsoftheworld.com/) or [Logos Download](https://logos-download.com/) - *Brand Logos*
 * [Bendodson](https://bendodson.com/projects/itunes-artwork-finder/), [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) - *Find Multimedia Artwork*
 * [Kemono](https://kemono.party/) - *Patreon Content / Some NSFW*
 * [FanArt](https://fanart.tv/) - *Fan Made Posters / Logos* 
@@ -243,6 +244,7 @@
 * [DeepSort](https://github.com/CorentinB/DeepSort/) - *Image Tagger* 
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) - *Automatically Organize / Search Photos*
 * [Photo.net Tutorials](https://www.photo.net/learn/about/tutorials) - *Photography Tutorials*
+* [Rapid](https://damonlynch.net/rapid/) - *Quick Linux Photo Importer*
 
 ***
 
@@ -250,7 +252,7 @@
 
 * **[Image Hosting / Processing Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosting_.2F_processing)** - *Host / Process Images*
 * **[Instagram Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_instagram_tools)**
-* [IrfanView](https://www.irfanview.com/), [XnView](https://www.xnview.com/en/), [nomacs](https://nomacs.org/), [ImageGlass](https://imageglass.org/), [PhotoQt](https://github.com/luspi/photoqt), [Win 7 Photos](https://mega.nz/file/94AwRBiZ#ySswvrH88PlmNrLcbmrIZROWVcmLum-N0tAZS31l72U) or [PicView](https://github.com/Ruben2776/PicView) - *Image Viewers* 
+* [IrfanView](https://www.irfanview.com/), [qimgv](https://github.com/easymodo/qimgv), [XnView](https://www.xnview.com/en/), [nomacs](https://nomacs.org/), [ImageGlass](https://imageglass.org/), [PhotoQt](https://github.com/luspi/photoqt), [Win 7 Photos](https://mega.nz/file/94AwRBiZ#ySswvrH88PlmNrLcbmrIZROWVcmLum-N0tAZS31l72U) or [PicView](https://github.com/Ruben2776/PicView) - *Image Viewers* 
 * [Piwigo](https://piwigo.org/) - *Photo Manager / Viewer*
 * [Pinry](https://docs.getpinry.com/ ) - *Image Tiling Board*
 * [Lychee](https://lycheeorg.github.io/) - *Self-Hosted Image Host* 
