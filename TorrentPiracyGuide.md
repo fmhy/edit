@@ -59,7 +59,6 @@
 * [BTorrent](https://btorrent.xyz/)
 * [Torrents Time](https://torrents-time.com/)
 * [Bitport](https://bitport.io/welcome) 
-* [wolfozzotorrent](https://wolfozzotorrent.herokuapp.com/)
 * [TorrentSafe](https://www.torrentsafe.com/)
 * [FileStream](https://filestream.me/)
 * [ZBIGZ](https://zbigz.com/)
