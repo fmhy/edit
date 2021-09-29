@@ -91,6 +91,8 @@
 
 # ► Downloading
 
+* [Martin Luther King Complete](https://cryptostream.tech/audio/EDU_Martin_Luther_King_Complete_3GB/?DD) - *MLK Speeches*
+
 ## ▷ Courses
 
 * **[freesoff](https://freesoff.com/)** - *Courses*
@@ -129,6 +131,7 @@
 * [learningDL](https://learningdl.net/) - *Courses / Leech required* 
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - *Courses / Tutorials* 
 * [FreetutsDownload.com](https://freetutsdownload.com/) - *Courses / GDrive Host* 
+* [University of Waterloo](https://student.cs.uwaterloo.ca/~cs247/current/) - *CS Resources / Courses*
 * [Masterclass 63 Pack](https://mega.nz/folder/HxFghIbS#rFqH402PoVDwHW_XEtN1QQ) - *Masterclass Courses / Drive*
 * [Lynda Courses](https://bin.snopyta.org/?efe32fb96a945857#GQL7q4hyKjCeB6WLbpq94S12BEwh5JWc4apjmb7RE4SU) - *Lynda Courses / Drive / pw: fmhy*
 * [LyndaFree](https://t.me/lyndafree) - *Lynda Courses / Telegram*
@@ -279,12 +282,14 @@
 # ► Space
 
 * [/r/Space](https://reddit.com/r/Space) - *Space Subreddit*
+* [Space.com](https://www.space.com/) - *Space News*
+* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://drive.google.com/drive/folders/0B1ySOrPxOWJmZGlNTkEtQnlEM3M) - *Astronomy Books*
 * [Space Dashboard](https://spacedashboard.com/) - *Space Live Stream Dashboard* 
 * [ISS Sim](https://iss-sim.spacex.com/) - *ISS Docking Simulator* 
 * [Satellite Imagery](https://rammb-slider.cira.colostate.edu/) - *Satellite Imagery GOES-16*
 * [Space Weather News](https://spaceweathernews.com/) - *Space Weather Updates / [Videos](https://www.youtube.com/user/Suspicious0bservers)*
 * [Andegraf Rockets](http://rockets.andegraf.com/) - *Rocket Diagrams*
-* [Interactive Apollo Missions](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - *Apollo in Real Time* 
+* [Interactive Apollo Missions](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - *Apollo in Realtime* 
 * [Moon.Nasa](https://moon.nasa.gov/) - *Explore the Moon* 
 * [Earth and Moon Viewer](http://www.fourmilab.ch/cgi-bin/Earth) - *Earth / Moon Latitude & Longitude Viewer*
 * [SunCalc](https://www.suncalc.org/) or [MoonCalc](https://www.mooncalc.org/) - *Sun & Moon Position / Phase Calculators* 
@@ -299,6 +304,7 @@
 * [Stellarium-Web](https://stellarium-web.org/) - *Online Stellarium*
 * [ESO](https://www.eso.org/public/images/eso1242a/zoomable/), [Hubble](https://esahubble.org/images/heic1502a/zoomable/), [Hubble 2](https://esahubble.org/images/heic1901a/zoomable/) - *Massive Zoomable Telescope Photos*
 * [SpaceEngine](http://spaceengine.org/) - *Universe Simulator*
+* [astro.sfasu](http://astro.sfasu.edu/courses/ast305/homework/) - *Astronomy Homework*
 
 ***
 
@@ -319,7 +325,7 @@
 # ► Language Learning 
 
 * **[Awesome-Lang](https://github.com/oyd11/awesome-lang)** - *Language Learning Resource Index* 
-* **[Languages and Linguistics](https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w)** - *Language Learning Books*
+* **[Languages & Linguistics](https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - *Language Learning Books*
 * [The Language Exchange Network](https://discord.gg/jxcVmHJ) - *Language Learning Network*
 * [E-books_432](https://archive.org/details/E-books_432) - *Vocabulary & Pronunciation Books*
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - *Multi Language Dictionary Index*
@@ -351,7 +357,7 @@
 * [Mandarin Chinese](https://drive.google.com/drive/u/0/mobile/folders/152oeHQoeqvC9RVMk6kJi1irAlSSp7NVk?usp=sharing) - *Mandarin Chinese Learning Books*
 * [Chinese Flashcards](http://www.chineseflashcards.io/) - *Chinese Flashcards*
 * [LearningSwedish](https://learningswedish.se/) - *Swedish Learning Course*
-* [youglish](https://youglish.com/) - *Youtube Word Pronunciations* 
+* [youglish](https://youglish.com/) - *YouTube Word Pronunciations* 
 * [ASL Resources](https://t.me/ASLresources) - *American Sign Language Resources / Telegram* 
 * [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - *American Sign Language* 
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)  
@@ -361,6 +367,7 @@
 * [PolyGlot](http://polyglots.free.fr/) - *Linguistic Teaching Software*
 * [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - *Language Identification Test*
 * [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap)- *Listen to Accents*
+* [Asian Script Differentiation Guide](https://i.imgur.com/yJPGS97.png) 
 * [LexCity](http://lexicity.com/) - *Ancient Language Learning Tools & Resources*
 
 ***
@@ -400,7 +407,7 @@
 * [Explorabl.es](https://explorabl.es/) or [MinuteLabs](https://minutelabs.io/) - *Interactive Learning / Lessons* 
 * [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - *Learn With GIFs* 
 * [Information Is Beautiful](https://informationisbeautiful.net/) - *Data / Information / Infographics / Visualizations* 
-* [/r/coolguides](https://reddit.com/r/coolguides/), [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) 
+* [/r/coolguides](https://reddit.com/r/coolguides/), [1001 Tutorials](http://www.fricking.ninja/DIY/index/1001%20Tutorials/), [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - *Guides & Tutorials* 
 * [KausalFlow](https://tools.kausalflow.com/) - *Academic Research Tools* 
 * [Zotero](https://www.zotero.org/) - *Research Organization Tool* 
 * [TimeLY](https://github.com/noahweasley/TimeLY) - *University Activity & Class Tracker*
@@ -498,12 +505,17 @@
 * [Pol Art Folder](https://mega.nz/folder/rVcExIbB#VN9alzay0OrctggvEn1DUg) - *Historic European Art & Paintings*
 * [vads](https://vads.ac.uk/digital/) - *Digital Art Collection*
 * [Metabolic-Pathway](http://www.metabolic-pathway.com/fullMap.html) - *Interactive Metabolic Pathways Map* 
+* [AnimaGraffs](https://animagraffs.com/) - *Animated Infographs*
 * [How a Car Works](https://www.howacarworks.com/) - *Car Mechanics / Automotive Engineering Guides* 
+* [Economics of The Office](http://economicsoftheoffice.com/) - *Learn Economics via The Office*
 * [Morse Typing Trainer](https://morse.withgoogle.com/learn/) - *Morse Code Trainer* 
 * [Old Computer Museum](http://oldcomputers.net/) - *Computer History / Info* 
 * [RSOE](http://hisz.rsoe.hu/) - *Emergency and Disaster Information Service* 
+* [911 Realtime](https://911realtime.org/) - *9/11 in Realtime*
 * [M-Journal](https://m-journal.org/) - *Turn Wikipedia into a Citeable Academic Paper*
 * [Sideways Dictionary](https://sidewaysdictionary.com/) - *Common Computer Terms Explained Simply*
+* [Symbols](https://www.symbols.com/) - *Symbol Database*
+* [Hate on Display](https://www.adl.org/hate-symbols ) - *Hate Symbol Database*
 * [SciGen](https://pdos.csail.mit.edu/archive/scigen/) - *CS Paper Generator*
 * [pdfparanoia](https://github.com/kanzure/pdfparanoia) - *Academic Paper Watermark Removal*
 * [The Chomsky Index](https://github.com/jasons-gh/the-chomsky-index) - *Noam Chomsky Content Index Tool*
