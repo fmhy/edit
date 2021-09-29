@@ -196,7 +196,7 @@
 * **[Fun Stuff Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fun_indexes)** - *Toy, Game & Experiment Indexes*
 * **[Random Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_sites)** - *Random Site Generators*
 * **[Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - *Multireddits Curated by FMHY Members*
-* **[r.sine.com](https://r.sine.com/index)**, [Funnyjunk](https://funnyjunk.com//) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Memes & GIFs / Some NSFW*
+* **[r.sine.com](https://r.sine.com/index)** or [Cameron.Red](https://cameron.red/imgur/) - *Random Images*
 * **[Random Comic Generator 3.0](https://explosm.net/rcg)** - *Explosm Random Comic Generator*
 * **[Talk Obama To Me](http://talkobamato.me/)** - *Make Obama Say Stuff*
 * **[Objection!](https://objection.lol/)** - *Ace Attorney Objecting on Your Behalf* 
@@ -209,6 +209,8 @@
 * **[PointerPointer](https://pointerpointer.com/)** - *Get Your Pointer Pointed At* 
 * **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - *Realistic-Looking Fake Versions of Things* 
 * [KongouCheats](https://kongoucheats.com/) - *Watch Random Memes / Videos* 
+* [Funnyjunk](https://funnyjunk.com//) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Memes & GIFs / Some NSFW*
+* [Random Screenshot](https://randomscreenshot.com/) or [Random Prnt.sc](https://chrishannah.me/prntsc/) - *Random Screenshots*
 * [Kamogo](https://www.kamogo.com/faq/) - *Useless Web Apps*
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - *Turn Screen into Strobe / Mood Light*
 * [Drinking Game Zone](https://drinkinggamezone.com/) - *Drinking Games Encyclopedia* 
@@ -232,6 +234,7 @@
 * [stringers.live](https://stringers.live/) - *Live Freelance Journalist Streams*
 * [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - *Open Random Windows*
 * [BigPixel](http://en.bigpixel.cn/) - *Giant Zoomable Photos*
+* [larsberg](http://www.larsberg.net/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - *Trippy 3D Experiments *
 * [Just Type Stuff ](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - *Type Things into Existence*
 * [WriteAPrisoner](https://writeaprisoner.com/) - *Pen Pals for Inmates*
 * [This Is Sand](https://thisissand.com/) - *Make Sand Art* 
@@ -311,10 +314,11 @@
 * [Windows93](http://www.windows93.net/) - *Windows 93 Browser Emulator / Games*
 * [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - *Run Classic Games / Apps In Browser* 
 * [see. hear. party.](http://www.seehearparty.com/) - *List Things You Want to See... Party* 
-* [FutureMe](https://www.futureme.org/) - *Send messages to your future self*
+* [FutureMe](https://www.futureme.org/) - *Send Messages to Future Self*
+* [Are You You?](https://www.areyouyou.eu/) - *Try to Fool Face Recognition Software*
 * [Useless Certifications](https://uselesscertifications.com/) - *Useless Certifications*
 * [You're Getting Old](http://you.regettingold.com/) - *Age Perspective* 
-* [OnThisDay](https://www.onthisday.com/) - *What happened on a specific day many years ago* 
+* [OnThisDay](https://www.onthisday.com/) - *What Happened on Specific Days*
 * [openScope](https://www.openscope.co/) - *Air Traffic Control Simulator* 
 * [Game a-b-street](https://github.com/a-b-street/abstreet) - *Traffic Simulation*
 * [Quarter Maester](https://quartermaester.info/) - *Interactive Game of Thrones Map* 
@@ -354,6 +358,7 @@
 * [WTM](https://whatthemovie.com/) - *Guess Movie from Screenshot* 
 * [Kittenwar!](http://www.kittenwar.com/) - *Rate Kittens*
 * [Click Brawl](https://clickbrawl.com/eternal-fight) - *Collaborative Click Wars*
+* [Popcat](https://popcat.click/) - *Worldwide Popcat Clicking Competition*
 * [RPS101](http://www.umop.com/rps101.htm) - *101 Gesture Rock-Paper-Scissors*
 * [Fake Text Message](https://ifaketextmessage.com/) - *Make Fake Text Conversation* 
 * [FutureTimeline](https://www.futuretimeline.net/) - *Timeline of future predictions* 
@@ -424,7 +429,7 @@
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - *Unused Video Game Content Research*
 * [Bibliotheca Anonoma](https://bibanon.org/) - *Internet Folklife Wiki / [Discord](https://discord.com/invite/3jxxGDC)*
 * [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion), [BibAnon](http://vyrd.bibanon.org/), [4Museum](https://4museum.neocities.org/), [arch.b4k](https://arch.b4k.co/) or [Sup/tg/](http://suptg.thisisnotatrueending.com/)  - *4Chan Archive*
-* [Zoomquilt2](http://zoomquilt2.com/) - *Infinite Zooming Painting* 
+* [Zoomquilt2](http://zoomquilt2.com/) or [Arkadia](http://arkadia.xyz/) - *Infinite Zooming Painting* 
 * [Mirage Gallery](https://www.miragegallery.ai/) - *AI Art Gallery* 
 * [Virtual World List](https://virtualworldslist.neocities.org/) - *Virtual World List*
 * [Common Voice](https://www.saveriomorelli.com/commonvoice/) - *Help Teach a Machine How to Talk* 
@@ -438,6 +443,7 @@
 * [Pornolize](https://pornolize.com/) - *Make Inappropriate Versions of Webpages* 
 * [Checkboxes](http://www.jezzamon.com/checkboxes/index.html) - *Check Boxes* 
 * The Nut Button - [Android](https://play.google.com/store/apps/details?id=com.james.nut) / [iOS](https://apps.apple.com/gb/app/the-official-nut-button-meme/id1462124556) - *You press the Button, it says Nut*
+* [nooooooooooooooo.com](http://www.nooooooooooooooo.com/) - *Vader NO Button*
 * [Make-A-Wish Foundation](https://discord.gg/pZZ3STQZ9Y) - *100% Real Make-A-Wish*
 * [Is It A Cat?](https://isitacat.com/) - *Cat Image Detector* 
 * [The.Matrix-ASCII](http://takeovertheworld.org/matrix/) - *The Matrix Encoded in Text*
@@ -467,7 +473,7 @@
 * [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - *News Site Indexes* 
 * [Google Alerts](https://www.google.com/alerts) - *News Alerts by Topics*
 * [PublicAlerts](https://google.org/publicalerts) - *Important News / Disaster Alerts*
-* [GHacks](https://www.ghacks.net/) or [Slashdot](https://slashdot.org/) - *Tech News*
+* [GHacks](https://www.ghacks.net/), [Geeks3D](https://www.geeks3d.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
 * [Interactive News Map](https://usa.liveuamap.com/) - *Geolocated News Alerts / Headlines U.S* 
 * [Forekast](https://forekast.com/) - *Worldwide Event Calendar* 
 * [Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspaper_sites) - *Read & Download Newspapers*
@@ -490,6 +496,7 @@
 * [Liam Rosen's Fitness Guide](http://liamrosen.com/fitness.html) - *Beginners Health & Fitness Guide*
 * [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) - *Fitness / Nutrition Info* 
 * [The Fitness Wiki](https://thefitness.wiki/) - *Fitness Information Wiki*
+* [paulogentil](https://paulogentil.com/pdf/?ND) - *Fitness Books*
 * [/u/KNightNox Diagram](https://i.imgur.com/ipBxg5p.jpg) - *Zoomable Exercise Diagram*
 * [fastnfitness](https://github.com/brodeurlv/fastnfitness) - *Track Your Exercise Progress*
 * [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) - *Exercise & Activity Tracker*
@@ -503,6 +510,7 @@
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - *BMR / TDEE Calculator*
 * [/r/BodyweightFitness](https://www.reddit.com/r/BodyweightFitness) - *Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)*
 * [/r/LoseIt](https://www.reddit.com/r/loseit/) - *Weight Loss Subreddit*
+* [MOVE! Coach](https://mobile.va.gov/app/move-coach) - *Weight Loss Program*
 * [Weight Loss Side Effects](https://weight-loss-side-effects.netlify.app/) - *Weight Loss Side Effect Mitigation*
 * [/r/GainIt](https://www.reddit.com/r/gainit/) - *Healthy Weight Gain Subreddit*
 * [/r/Fexibility](https://www.reddit.com/r/flexibility/) - *Flexibility Subreddit*
@@ -520,6 +528,11 @@
 * [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - *Zombie Running Adventure Game*
 * [INCIDecoder](https://incidecoder.com/) - *Skincare Ingredient Lists*
 * [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - *Remedies for Sores on Tongue*
+* [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - *Interactive Self Care Guide*
+* [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - *Mindfulness / Stress Reduction Tips*
+* [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - *Insomnia Prevention Tips*
+* [eXHALeR](https://www.xhalr.com/) - *Yoga / Meditation Breathing Tool* 
+* [One Mind PsyberGuide](https://onemindpsyberguide.org/) - *Mental Health App Reviews*
 * [7 Cups](https://www.7cups.com/) or [OnlineCounselling4u](https://www.onlinecounselling4u.com/) - *Free Counseling & Therapy*
 * [/u/elkatiuskas' Resource List](https://redd.it/phrcrn) - *Abortion Resource Index*
 
@@ -537,6 +550,7 @@
 * [Historic Borders](https://historicborders.app/) - *Historic Borders Map*
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
 * [American Panorama](https://dsl.richmond.edu/panorama/) - *Interactive US Historical Maps*
+* [Native-Land.ca](https://native-land.ca/) - *Indigenous Territory Map*
 * [Map Crunch](https://www.mapcrunch.com/) or [RandomStreetView](https://randomstreetview.com/) - *Random Street View*
 * [KartaView](https://kartaview.org/landing) or [Mapillary](https://www.mapillary.com/) - *Street View Map* 
 * [1940's.nyc](https://1940s.nyc/) - *Explore 1940's New York* 
@@ -545,7 +559,10 @@
 * [U Meet Me Here!](https://www.umeetmehere.com/) - *Find Closest Point Between Two Locations*
 * [Maps We Love](https://www.esri.com/en-us/maps-we-love/gallery), [CoolMaps](https://coolmaps.esri.com/#0) or [/r/MapPorn](https://reddit.com/r/MapPorn) - *Multiple Maps* 
 * [Human Terrain](https://pudding.cool/2018/10/city_3d/) - *Human Population Map*
-* [DarkSky](https://maps.darksky.net/) - *Weather Maps*
+* [Flags of the World](https://i.redd.it/lxtu47hf5ll51.jpg) - *Worldwide Flag Map*
+* [US & CA License Plates](https://i.redd.it/ue2r7cdb2s861.png) - *US & CA License Map*
+* [European License Plates](https://i.redd.it/wcazzhjir8941.png) - *European License Map*
+* [DarkSky](https://maps.darksky.net/), [MSN Weather Map](http://www.msn.com/en-us/weather/maps) or [Ventusky](https://www.ventusky.com/) - *Weather Maps*
 * [Windy](https://www.windy.com/) - *Wind Map* 
 * [Air Now](https://gispub.epa.gov/airnow/) or [Breezometer](https://www.breezometer.com/air-quality-map/) - *Air Quality Map*
 * [Global Hyrdo Data](https://www.esri.com/arcgis-blog/products/product/water/global-hydro-data-its-here-here-here/) - *Global Hydro Data / Mapping*
@@ -561,6 +578,7 @@
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - *Globe of Ancient Earth*
 * [Ancestry Images](http://www.ancestryimages.com/) - *Historical Photo & Map Archive*
 * [Gas Price Map](https://www.gasbuddy.com/gaspricemap) - *US Gas Price Map*
+* [Falling Fruit](https://fallingfruit.org/) - *Urban Harvesting Map*
 * [CellMapper](https://www.cellmapper.net/) - *Cell Tower Map*
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - *Cell Carrier FCC Spectrum Map*
 * [4G LTE Coverage](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b) - *4G LTE Coverage Map*
@@ -848,9 +866,16 @@
 ## ▷ Safari
 
 * [Safari Extensions](https://apps.apple.com/us/story/id1377753262) - *Safari Extensions*
-* [NightLight](https://apps.apple.com/us/app/nightlight-for-safari/id1429386865?mt=12), [Night Eye](https://apps.apple.com/us/app/night-eye-for-safari/id1450504903?mt=12) or [Dark Mode](https://apps.apple.com/us/app/dark-mode-for-safari/id1397180934?mt=12) - *Dark Mode*
-* [Tab Space](https://apps.apple.com/us/app/tab-space/id1473726602?mt=12) - *Tab / Bookmark Manager*
+* [‎Momentum](https://apps.apple.com/us/app/momentum/id1564329434) - *Custom New Tab Page*
+* [PrettyWeb](https://apps.apple.com/us/app/prettyweb/id1580269767) - *Dark Mode & Custom New Tab Page*
+* [NightLight](https://apps.apple.com/us/app/nightlight-for-safari/id1429386865?mt=12), [Night Eye](https://apps.apple.com/us/app/night-eye-for-safari/id1450504903?mt=12), [Dark Reader Script](https://gist.github.com/kfur/266c456dd69072eb7533f457ee5f18a0) or [Dark Mode](https://apps.apple.com/us/app/dark-mode-for-safari/id1397180934?mt=12) - *Dark Mode*
+* [Tab Space](https://apps.apple.com/us/app/tab-space/id1473726602?mt=12) or [‎StartPage.ai](https://apps.apple.com/us/app/startpage-ai/id1584727895) - *Tab Manager*
+* [Amerigo](https://apps.apple.com/us/app/amerigo-file-manager/id605569663) - *File Download Manager*
 * [Keyword Search](https://apps.apple.com/us/app/keyword-search/id1558453954?mt=12) - *Keyword Search Bar*
+* [PiPifier](https://apps.apple.com/us/app/pipifier/id1234771095) - *Picture in Picture Mode*
+* [Ka-Block!](https://apps.apple.com/us/app/ka-block/id1037173557), [BlockBear](https://apps.apple.com/ca/app/blockbear/id1023924541) or [Adblock Plus for iOS](https://gitlab.com/eyeo/adblockplus/adblock-plus-for-safari) - *Adblocker*
+* [Web Inspector](https://apps.apple.com/us/app/web-inspector/id1584825745) - *Inspect Element Tools for Safari*
+* [Safari Snippets](https://apps.apple.com/us/app/safari-snippets/id1126048257) - *Insert Code into Safari*
 
 ## ▷ Userscripts
 
@@ -871,3 +896,4 @@
 * [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - *Google Search Endless Scrolling* 
 * [Google Hit Hider](https://openuserjs.org/scripts/jscher2000/Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites\)) - *Block Sites from Search Results* 
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - *Shows Images & Videos Behind Links & Thumbnails*
+* [DisableAMP](https://github.com/AdguardTeam/DisableAMP) - *Disable Google AMP Links*
