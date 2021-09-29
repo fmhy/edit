@@ -43,6 +43,9 @@
 * [AimHaven](https://www.aimhaven.com/)
 * [Games Flix](https://gamesflix.net/) 
 * [Leeching Hell](http://leechinghell.pw/)
+* [SohaibXtreme](https://www.sohaibxtreme.net/FDL/setup/games/) 
+* [Bia2Game](http://dl.bia2game.com/) 
+* [GamingMaster](http://s5.gamingmaster.ir/) 
 * [cracked-games](https://cracked-games.org/) - *[Discord](https://discord.gg/tNhPmCU)*
 * [LegendaryRepacks](http://legendaryrepacks.simplesite.com/) - *[Discord](https://discord.gg/RUSNHSk) / Adblock & Universal Bypass Required*
 * [TOPXGAME](https://topxgame.com/)
@@ -54,6 +57,7 @@
 * [Dirty Games](https://www.dirtygames.xyz/)
 * [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
 * [SPiKY Repacks](https://discord.gg/ZHC6pffMz2) - *[GamesDrive Uploader](https://gamesdrive.co/)*
+* [Patrick Technology Repacks](https://patricktech-repacks.xyz/) - *[Discord](https://discord.gg/ByfJRmdeg7)*
 * [Ali213](https://ali213.net/) - *May Require VPN / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [pc_game_down](https://t.me/pc_game_down) - *Telegram*
 * [g4u](https://g4u.to/) - *Password: 404*
@@ -176,6 +180,7 @@
 * **[RetroGames](https://www.retrogames.cz/)**
 * **[Console Living Room](https://archive.org/details/consolelivingroom)** 
 * **[retrogames.cc](https://www.retrogames.cc/)** - *[Download Guide](https://i.imgur.com/jSAsSb6.png)*
+* [QAOP](http://torinak.com/qaop/games) - *Arcade Games*
 * [ClassicReload](https://classicreload.com/) 
 * [Retro Games Bot](https://retrogamesbot.com/)
 * [Free80sArcade](http://www.free80sarcade.com/)
@@ -203,6 +208,7 @@
 * **[AlvRo](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml)**, [2](https://pastebin.com/79q1mdZm) - *Roms*
 * **[RomCenter](https://r-roms.github.io/)**, [2](https://rentry.co/24ufx), [3](https://pastelink.net/26nlj), [4](https://rentry.co/vin7x) - *Roms*
 * [TheRomDepot](https://theromdepot.com/) - *Roms*
+* [RomCollector](http://romcollector.asuscomm.com/) - *Roms*
 * [@Storage_Manager](https://archive.org/details/@storage_manager) - *Roms / Zip* 
 * [FinalBurn Neo](https://archive.org/details/2020_01_06_fbn) - *Roms / Zip* 
 * [Everdrive](https://archive.org/details/latest-everdrive-pack-2020-04-16) - *Roms / Zip*
@@ -211,6 +217,9 @@
 * [90.230.15.92](http://90.230.15.92/) - *Roms* 
 * [Gaming Alexandria](https://www.gamingalexandria.com/highquality/) - *Roms*
 * [Many Dumped Games](https://archive.org/details/@manydumpedgames) - *Roms*
+* [nwifiresticks](http://nwifiresticks.com/roms/) - *Roms*
+* [Talented Monkey](https://talentedmonkey.net/library/Roms/) - *Roms*
+* [Rom Pack](https://www.romspack.com/) - *Roms*
 * [Nintendo Retro Mega-Pack](https://mega.nz/folder/AdRVCaBZ#bvaOPyNae8N24lquCNen4Q) - *Roms / Nintendo*
 * [PS1 Collection](https://archive.org/details/redumpSonyPlaystationAmericaGames02October2017), [2](https://archive.org/details/@john_mr_smith?sort=titleSorter) - *Roms / PS1*
 * [PS2 Archive](https://archive.org/details/RedumpSonyPS2NTSCU), [2](https://archive.org/details/RedumpSonyPS2NTSCUPart2), [3](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01), [4](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part2), [5](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part3), [6](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part4) - *Roms / PS2*
@@ -226,12 +235,15 @@
 * [Switch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - *Roms / Nintendo Switch*
 * [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) - *Yuzu Emulator Setup Guide*
 * [Gamecube Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gamecube_roms) - *Roms / GameCube*
+* [ed64m](http://ed64m.com/N64/) - *Roms / N64*
 * [Gameboy Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gameboy_roms) - *Roms / Gameboy*
 * [DS Roms](https://archive.org/details/noIntroNintendoDsDecrypted2019Jun30), [2](https://mega.nz/folder/33AhDa4T#awOqr7lhZYFgjXoMMu6_8w) - *Roms / DS*
 * [DSi Collection](https://archive.org/details/No-Intro_Nintendo_DSi_2018-06-30) - *Roms / DSi* + [DSi DLC](https://archive.org/details/NintendoDSiDLC2019)
 * [3DS Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - *Roms / 3DS*
 * [SNES Collection](https://archive.org/details/CylesSNESRomPack) or [SNES Rom Drive](https://mega.nz/file/9kdW1QYI#9VuLOFJGDbA6NIg8D33w8PYzPZ1E_Wop5Basd9kMWTg) - *Roms / SNES / PW: skwbr*
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - *NES, SNES & Playstation Mods*
+* [Sojourner](http://sojourner.me/fastdl/NES/) - *Roms / NES*
+* [Stop Spamming ](http://danswer.stopspamming.net/sega/) - *Roms / Sega*
 * [Dreamcast Collection](https://archive.org/details/almstcmpltdrmcst) - *Roms / Dreamcast*
 * [Sega Saturn Collection](https://archive.org/details/SgaStrnCmplt) - *Roms / Sega Saturn*
 * [3DO Roms](https://archive.org/details/3DO_2017_Reference_Set_Redump_Validated_ROMs), [2](https://archive.org/details/Panasonic-3DO-Redump.org-2019-05-14) - *Roms / 3DO*
@@ -461,7 +473,7 @@
 ## ▷ Board / Card / Dice
 
 * **[lichess](https://lichess.org/)**, [WebChess](http://chess.delorie.com/) or [Chess.com](https://www.chess.com/) - *Chess Platform* 
-* [Board Game Online](https://www.boardgame-online.com/), [Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games) or [FunNode](https://www.funnode.com/) - *Board Games* 
+* [Board Game Online](https://www.boardgame-online.com/), [Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games), [Board Game Arena](https://en.boardgamearena.com/) or [FunNode](https://www.funnode.com/) - *Board Games* 
 * [The Bafflement Fires](http://www.dpoetry.com/fires/) - *1950's Freemasonic Board Game*
 * [Hexxagon](https://hexxagon.com/) - *Hexagonal Board Game*
 * [GameKnot Chess](https://gameknot.com/) - *Multiplayer Chess*
@@ -529,6 +541,7 @@
 * [GuessMe!](https://cer0zz.itch.io/guessme) - *Guess Answers*
 * [GeoGuessr](https://www.geoguessr.com/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - *Location Guessing Game*
 * [City Guesser](https://virtualvacation.us/guess) - *City Guessing Game* 
+* [English Sandwhich](https://englishsandwich.github.io/) - *Guess Where Dishes are From*
 * [LanguageGuesser](https://languageguesser.com/) - *Guess Music Video Languages* 
 * [schoolprison](https://www.schoolprison.com/) - *Is this Building a School or Prison?* 
 * [The Higher Lower Game](http://www.higherlowergame.com/) - *Guess What's Googled More*
@@ -560,6 +573,7 @@
 * **[TasteDive](https://tastedive.com/)** - *Recommendations* 
 * [IMDb](https://www.imdb.com/) - *Video Game Database*
 * [GiantBomb](https://www.giantbomb.com/games/) - *Video Game Database* 
+* [WhatToPlay](https://whatoplay.com/) - *Video Game Database*
 * [Games Database](https://www.gamesdatabase.org/) - *Video Game Database* 
 * [LaunchBox Games Database](https://gamesdb.launchbox-app.com/) - *Video Game Database* 
 * [OpenCritic](https://opencritic.com/) - *Critic Game Reviews / Ratings*
