@@ -127,6 +127,7 @@
 * [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - *Android Debloating Guide*
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - *Android Cleanup Tool*
 * [aaaaa](https://github.com/dkter/aaaaa) - *Minimalist Keyboard*
+* [Phonetones](http://onj3.andrelouis.com/phonetones/) - *Ringtones Directory*
 * [VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps) - *File / URL Virus Scanner* 
 * [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app ) - *Libgen Mobile App* 
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) or [AndrOpen](https://www.andropenoffice.com/) - *Office Suite* 
@@ -219,6 +220,7 @@ App Manager
 * [Reface](https://reface.app/) - *Create Face Swap Videos* 
 * [PGS](https://www.pgsharp.com/) - *Modded Pokémon GO*
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
+* [ROMphonix](http://162.154.76.208/) - *Old Mobile Firmware / [Discord](https://discord.com/invite/2GKuJjQagp)*
 * [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451) - *Custom Recovery Firmware Tool*
 * [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) - *Extract OTP Tokens*
 * [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid) - *File Hash Calculator*
@@ -285,10 +287,13 @@ App Manager
 * [APKMody](https://apkmody.io/) - *Modded* 
 * [APKDone](https://apkdone.com/) - *Modded* 
 * [APK Folks](https://apkfolks.com/) - *Modded*
+* [DL King](http://dl.king2net.com/soft%20android/) - *Modded*
+* [APK Bolt](https://download.apkbolt.com/apk/) - *Modded*
 * [ModApk.Cloud](https://modapk.cloud/) - *Modded* 
 * [Rockmods](https://www.rockmods.net/) - *Modded* 
 * [ApkMagic](https://apkmagic.com.ar/) - *Modded* 
 * [ApKGod](https://apkgod.net/) - *Modded* 
+* [p30afzar](https://dl.p30afzar.com/Games/) - *Modded Games*
 * [AppValley](https://app.app-valley.vip/) - *Modded / Tweaked*
 * [djjubeemedia](https://www.djjubeemedia.appboxes.co/Apks/) - *Modded Index* 
 * [PlatinMods](https://platinmods.com/) - *Modded / Private Game Servers* 
@@ -456,6 +461,7 @@ RSS Player*
 * [Showly 2.0](https://github.com/michaldrabik/showly-2.0) or [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide/) - *Movie / TV Tracker* 
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) or [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - *Bilibili Client*
 * [NicoTap](https://play.google.com/store/apps/details?id=com.yurafuca.nicotap) - *Nico Nico Client*
+* [SubHub](https://apt.izzysoft.de/fdroid/repo/com.crazylegend.subhub) - *Subtitle Downloader / [GitHub](https://github.com/FunkyMuse/SubHub)*
 
 ***
 
@@ -499,7 +505,7 @@ RSS Player*
 * [iOS Guide](https://ios.cfw.guide/) - *Modding / Jailbreaking Guide*
 * [Can I Jailbreak](https://iosninja.io/jailbreak-wizard-can-i-jailbreak) - *Check if your Phone can be Jailbroken* 
 * [/r/jailbreak](https://reddit.com/r/jailbreak) - *Jailbreaking Subreddit*
-* [Sideloading Beginners Guide](https://redd.it/orqzau) - *iOS Sideloading Guide*
+* [Sideloading Beginners Guide](https://redd.it/orqzau) or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - *Sideloading Guide*
 * [/r/sideloaded](https://reddit.com/r/sideloaded) - *Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)*
 * [Sideloadly](https://iosgods.com/topic/130167-windowsmacosm1ios-15-introducing-sideloadly-working-cydia-impactor-alternative/) , [ReProvision Reborn](https://repo.packix.com/package/jp.soh.reprovision) / [GitHub](https://github.com/sohsatoh/ReProvision-Reborn) or [iPAWiND](https://ipawind.com/) - *Sideloading Tool*
 * [Jailbreak 13.5 Tweak Compatibility List](https://docs.google.com/spreadsheets/d/1cHL_bIcmON2L5euBM8NDk0SZ8w-VUE6oY3USbVqaLnA/edit?usp=sharing) - *Find out what tweaks are compatible with the 13.5* 
@@ -523,6 +529,7 @@ RSS Player*
 * [IPA Apps](https://ipa-apps.me/) - *Jailbreak Tools & Apps*
 * [Totally Not Spyware](https://totally-not.spyware.lol/) - *Safari Jailbreaking Tool*
 * [odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - *Checkra1n / Odysseyra1n Installation Distro / [GUI](https://github.com/23Aaron/Betelguese)*
+* [Kiiimo](http://cydia.kiiimo.org/ ) - *Cydia Repo for Pirated Packages/Tweaks*
 * [ReProvision](https://github.com/Matchstic/ReProvision) - *On-device signing utility*
 * [HackYouriPhone Repo](https://repo.hackyouriphone.org/) - *Jailbreak / Tweaks* 
 * [isecureos](https://isecureos.idevicecentral.com/repo/) - *Jailbreak Antivirus Tweak*
@@ -550,7 +557,6 @@ RSS Player*
 * [Naka AdBlocker](https://apps.apple.com/ca/app/naka-adblocker/id1525185489) - *DNS Adblocker* 
 * [Blokada](https://apps.apple.com/ca/app/blokada/id1508341781) - *DNS Adblocker* 
 * [NextDNS](https://apps.apple.com/ca/app/nextdns/id1463342498) - *DNS Adblocker (No fake VPN)*
-* [BlockBear](https://apps.apple.com/ca/app/blockbear/id1023924541) or [Adblock Plus for iOS](https://gitlab.com/eyeo/adblockplus/adblock-plus-for-safari) - *Safari Adblocker* 
 * [MobileAdsBlock](https://gitlab.com/Shub_/mobile-ads-block/-/raw/master/list) - *Ad / Tracker filter*
 * [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - *Skip YouTube Sponsorships* 
 * [Tweebot 6](https://apps.apple.com/us/app/tweetbot-6-for-twitter/id1527500834) - *Ad-Free Twitter*
@@ -593,8 +599,10 @@ RSS Player*
 * [3uTools](http://www.3u.com/) - *iOS Manager for Windows*
 * [NoMoreSmallApps](https://www.sparkdev.me/package/com.spark.nomoresmallapps) - *Force App Full Screen / [Discord](https://discord.com/invite/tvvJfbD)*
 * [InsightBrowser](https://insightbrowser.com/) - *Browser*
+* [Kagi](https://apps.apple.com/us/app/kagi/id1484498200) - *Browser w/ Firefox & Chrome Extension Support*
+* [iRetro](https://apps.apple.com/us/app/iretro-the-internet-browser/id1015692776) - *Browser w/ Wayback Machine*
+* [Hyperweb](https://hyperweb.app/) - *iOS Safari Improvement Extension*
 * [Lights Off](https://testflight.apple.com/join/pj7BWqeJ) - *iOS Safari Dark Mode*
-* [Safari Snippets](https://apps.apple.com/us/app/safari-snippets/id1126048257) - *Insert Code into Safari*
 * [UTM](https://getutm.app/) - *Virtual Machines* 
 * [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) - *Automation Script Tool*
 * [iSkin](https://iskin.tooliphone.net/), [Anemone](https://www.ios-repo-updates.com/repository/odyssey-repo/package/com.anemonetheming.anemone3/), [Moloko](https://apps.apple.com/us/app/moloko-themes-icons/id1534741213) or [SnowBoard](https://repo.dynastic.co/package/snowboard) - *iOS Themes* 
