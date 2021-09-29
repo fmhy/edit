@@ -23,6 +23,7 @@
 * [CodingBat](https://codingbat.com/) - *Python / Java Practice*
 * [Python4Everyone](https://py4e.com/) - *Python Lessons*
 * [Real Python](https://realpython.com/) - *Python Tutorials*
+* [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - *Python Course*
 * [Tea Press](https://greenteapress.com/wp) - *Free Python Learning Books Green*
 * [VSCode.one](https://vscode.one/) - *VS Code Tutorials*
 * [Aquent Gymnasium](https://thegymnasium.com/) - *Courses* 
@@ -150,6 +151,7 @@
 * [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [psddd](https://psddd.co/) or [Freebiesbug](http://freebiesbug.com/)  - *Web Design Resources*
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
 * [CuratedSEOTools](https://github.com/sneg55/curatedseotools) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization Tools*
+* [Charles 3](https://www.charlesproxy.com/download/previous-release/) - *Web Debugging Proxy App*
 * [Geekflare Tools](https://gf.dev/toolbox) - *Site Testing Tools*
 * [Alexa Site Info](https://www.alexa.com/siteinfo) - *Site Traffic Stats / Analysis*
 * [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/),  [Network Tools](https://network-tools.com/) or [WebsiteScoop](https://websitescoop.com/) - *Domain Info / IP Tools*
@@ -241,6 +243,7 @@
 
 * [XDA](https://forum.xda-developers.com/) - *App Development Forum*
 * [Docker](https://www.docker.com/) - *Build, Manage & Run Apps in Containers / [Images](https://linuxserver.io/)*
+* [Blisk](https://blisk.io/) - *Cross-Device Testing*
 * [Plank](https://launchpad.net/plank) - *Simple Dock / [GitHub](https://github.com/ricotz/plank)*
 * [Portainer](https://portainer.io/) - *Build / Manage Docker Containers / [Templates](https://github.com/SelfhostedPro/selfhosted_templates) / [GitHub](https://github.com/portainer/portainer)*
 * [MDB GO](https://mdbgo.com/) - *Free App Hosting*
@@ -446,10 +449,12 @@
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - *Text / Code Collaboration Tools*
 * [Jetbrains Ultimate IDEs](https://rentry.org/52oyb) - *Jetbrains Ultimate IDEs Trial Reset Guide*
 * [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - *Cloud Platform Index*
-* [CodeSandbox](https://codesandbox.io/), [VSCodium](https://vscodium.com/), [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VS Code* 
-* [Open VSX Registry](https://open-vsx.org/) - *VS Code Editor Extensions*
-* [VSCodeThemes](https://vscodethemes.com/) - *VS Code Themes*
+* [CodeSandbox](https://codesandbox.io/), [VSCodium](https://vscodium.com/), [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VSCode* 
+* [Open VSX Registry](https://open-vsx.org/) - *VSCode Editor Extensions*
+* [VSCodeThemes](https://vscodethemes.com/) - *VSCode Themes*
+* [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - *Colorize VSCode Brackets*
 * [Discord-Tools](https://github.com/Darkempire78/Discord-Tools) - *VSCode Discord Extension*
+* [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) - *Integrate Twitch Chat in VSCode*
 * [Openshift](https://che.openshift.io/) - *Cloud IDE / Eclipse Che* 
 * [replit](https://replit.com/) - *Browser Based IDE*
 * [KDevelop](https://www.kdevelop.org/) - *Cross Platform IDE*
