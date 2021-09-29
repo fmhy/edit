@@ -69,6 +69,7 @@
 * [VK Serial Books & Magazines](https://vk.com/sebomag) - *Books / Magazines*
 * [Bookstagram](https://vk.com/bookstagram_eng) - *Books / Magazines* 
 * [29GB Mega Folder](https://mega.nz/folder/x4VG3DRL#lqecF4q2ywojGLE0O8cu4A) - *Books* 
+* [just a digital library](https://drive.google.com/drive/folders/1iQMdq5yK0EBqa1fgkmQTfW7EWSeJWYvT) - *Books*
 * [Nikola](https://mega.nz/folder/flYQGbzI#p1AFjtMuCLHQqocJqxV7rg) - *Books*
 * [bitdl 1](http://s1.bitdl.ir/), [2](http://s2.bitdl.ir/), [3](http://s3.bitdl.ir/), [4](http://s4.bitdl.ir/), [5](http://s5.bitdl.ir/), [7](http://s7.bitdl.ir/), [8](http://s8.bitdl.ir/), [9](http://s9.bitdl.ir/), [10](http://s10.bitdl.ir/), [11](http://s11.bitdl.ir/), [13](http://s13.bitdl.ir/), [14](http://s14.bitdl.ir/) - *Books*
 * [Books.cat](https://books.cat/) - *Books  / Forum / Requests* 
@@ -129,6 +130,7 @@
 * [FeedBooks](http://m.feedbooks.com/publicdomain) - *Books*
 * [eBook Lobby](http://www.ebooklobby.com/) - *Books*  
 * [1Lib](https://1lib.limited/) - *Books*
+* [Avalon Library](https://avalonlibrary.net/) - *Books*
 * [IKindle](https://ikindlebooks.com/) - *Books*
 * [Free eBooks](http://www.freebooks.com) - *Books* 
 * [GrayCity](https://graycity.net/) - *Books*
@@ -268,6 +270,8 @@
 * [MJW](http://www.cs.cmu.edu/~mjw/recipes/) - *Recipes*
 * [BetterRecipes](https://www.bestrecipes.com.au/) - *Recipes*
 * [Astray](https://www.astray.com/recipes/) - *Recipes*
+* [JimLerner](http://www.jimlerner.com/recipes/) - *Recipes*
+* [zhabotyn](http://www.bios.unc.edu/~zhabotyn/recipes/) - *Recipes*
 * [FarmlandFoods](https://www.farmlandfoods.com/recipes/) - *Recipes*
 * [RecipeLand](https://recipeland.com/) - *Recipes*
 * [Budget Bytes](https://www.budgetbytes.com/) - *Cheap Recipes*
@@ -297,6 +301,7 @@
 * [Mealime](https://www.mealime.com/) - *Meal Planning App*
 * [Still Tasty](https://www.stilltasty.com/) or [EatByDate](http://www.eatbydate.com/) - *Shelf Life Guides* 
 * [Baking Calculators](https://bakingcalculators.com/) - *Measurement System Conversion Calculators*
+* [TasteJury](https://tastejury.com/) - *Find Specific Dishes*
 * [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - *SF Food Truck App* 
 * [node-ubereats](https://github.com/jzarca01/node-ubereats) - *WIP API for Uber Eats* 
 * [node-deliveroo](https://github.com/jzarca01/node-deliveroo) - *API for Deliveroo* 
@@ -395,24 +400,22 @@
 * [The Eldritch Dark](http://www.eldritchdark.com/) - *Clark Ashton Smith*
 * [The Anarchist Library](http://theanarchistlibrary.org/special/index) - *Anarchism*
 * [Archive.Leftove.rs](https://archive.leftove.rs/) - *Protest Documents*
-* [Marxists Internet Archive](https://www.marxists.org/) - *Socialism / Communism*
+* [Marxists Internet Archive](https://www.marxists.org/) - *Socialism / Communism / [.onion](http://marxist7mbr3mbaj.onion/)*
 * [Liberation School](https://liberationschool.org/) - *Communism*
 * [libcom](https://libcom.org/library) - *Libertarian Communism* 
 * [Library of Liberty](https://oll.libertyfund.org/) - *Liberty / Free Market*
 * [Legal Mises Institute](https://mises.org/) - *Books / Audio books / Libertarianism* 
 * [do_k_ument](https://mega.nz/folder/QEV0jKYZ#-BVVScey6draL30yB_KowA) - *Survival, Forging, Smithing, Weapons Training, Field Manuals*
-* [Survivor Library](http://www.survivorlibrary.com/), [Free Survival eBooks](https://www.defiel.com/free-survival-ebooks/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - *Survival*
+* [Survivor Library](http://www.survivorlibrary.com/), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/), [Free Survival eBooks](https://www.defiel.com/free-survival-ebooks/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - *Survival*
 * [NATSIG Resources](https://mega.nz/#F!ZuZmiBqZ!XhyEetUaj6an8ntb-U1AZw) - *Survival / Bushcraft / Welding / Blacksmithing / German Books / Mythology / Drive* 
-* [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) - *Self Help / Telegram*
-* [selfhelpbooklab](https://t.me/selfhelpbooklab) - *Self-Help*
-* [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) - *Self-Help*
-* [Retro Game Strategy Guides](https://archive.org/details/Tekken3PrimasOfficialStrategyGuide1998) - *700 Retro Game Strategy Guides* 
+* [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U), [selfhelpbooklab](https://t.me/selfhelpbooklab), [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - *Self-Help*
+* [QSL](https://www.qsl.net/w/w7lk/misc%20pdf%20files/) - *Ham Radio & Antenna Books* 
 * [Erowid](https://www.erowid.org/) - *Psychoactive Information Index*
 * [The-Eye Psychedelics](https://the-eye.eu/public/Psychedelics/Psychedelic%20Praxis%20Library%203.0/) - *Psychedelics*
 * [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - *Phychonauts Wiki*
 * [HerbologyY](https://t.me/HerbologyY) - *Herbology / Telegram*
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - *Hypnosis / Telegram*
-* [files.afu.se](https://files.afu.se/Downloads/) - *UFO Books, Documents, Magazines ect.*
+* [files.afu.se](https://files.afu.se/Downloads/) or [Ufos](https://drive.google.com/drive/folders/1vlY512iwG0yrTFE3Hha__lhBZq9zavQE) - *UFO Books*
 * [Archive of Our Own](https://archiveofourown.org/) - *Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)*
 * [The Trove](https://thetrove.is/) - *Books / Fantasy / TTRPG / [Wayback Machine](https://web.archive.org/web/20210614215400/https://thetrove.is/), [2](https://web.archive.org/web/20210430220147/https://thetrove.is/) / [Unofficial Discord](https://discord.gg/GwTuGr7N8p)*
 * [Choisey](http://choisey.free.fr/) or [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - *TTRPG Rulebooks*
@@ -445,6 +448,8 @@
 * [FreeBookCentre](https://freebookcentre.net/)
 * [OAPEN](https://oapen.org/)
 * [vdoc.pub](https://vdoc.pub/)
+* [ImSoLost](http://imsolost.com/books/)
+* [103.159.250.162:81](http://103.159.250.162:81/fdScript/index.php?dirpath=./&order=3)
 * [Readings](https://drive.google.com/drive/u/0/mobile/folders/0B5KDwL1Qi6zUWFlfbU8yTjU4WUE?usp=drive_open)
 * [StruggleBuddies 4.0](https://mega.nz/folder/A15gybjB#s_vaCKHVR35X704ot2g7LQ)
 * [pdfs - books](https://drive.google.com/drive/u/0/mobile/folders/0B1DQUsG9YxIXflhQejJqcmgwbzgtcjQzbFlFU3BNeVJES1JwTW9hRmEwa0k4dUNVZEJzQzg)
@@ -482,13 +487,12 @@
 * [Clockwise Library](http://clockwise3rldkgu.onion/) - *Art / Science / .onion* 
 * [IntechOpen](https://www.intechopen.com/) - *Science*
 * [Magazines Scientific](http://scientificmagazines.top/) - *Science Magazines*
-* [Einstein Papers](https://einsteinpapers.press.princeton.edu/) - *Albert Einsteins Collected Papers Archive* 
 * [ApressOpen](https://www.apress.com/us/apress-open/apressopen-titles) - *Computer Science* 
+* [Veed](http://mqala.co.za/veed/) - *Computer Science*
 * [Physics forums](https://www.physicsforums.com/) - *Forum / Physics / Science* 
 * [Naked Scientists](https://www.thenakedscientists.com/) - *Podcasts / Shows / Science* 
 * [Science Forums](https://www.scienceforums.net/) - *Forums / Science* 
-* [Space.com](https://www.space.com/) - *News / Exploration / Astronomy / Space*
-* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) - *Books / Notes / Astronomy*
+* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://drive.google.com/drive/folders/0B1ySOrPxOWJmZGlNTkEtQnlEM3M) - *Books / Notes / Astronomy*
 * [phys](https://phys.org/) - *Latest / News / Article / Physics* 
 * [RealNotComplex](https://realnotcomplex.com/) - *Math / Books*
 * [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial) - *Reverse Engineering Course* 
@@ -509,6 +513,7 @@
 * [Am Medicine](https://am-medicine.com/) - *Medical*
 * [PickPDF](https://pickpdfs.com/) - *Medical* 
 * [MedicalStudyZone](https://medicalstudyzone.com/) - *Medical* 
+* [Medical Drive](https://drive.google.com/drive/folders/0B02ZCBdtmhfyMjRPV0VIM2dFdUk?resourcekey=0-DJLkLrMe693_5C-Vv-jFPA) - *Medical*
 * [Medical_Book_Bot](https://t.me/Medical_Book_Bot) - *Medical / Telegram*
 * [medrxiv](https://www.medrxiv.org/) - *Medicine Preprints*
 * [Lee B. Drive](https://drive.google.com/drive/u/0/mobile/folders/183tf8PmQbwgVC7HrxOZ5WQPulVd-Uomi) - *Books / Black History / Educational*
@@ -647,6 +652,7 @@
 * [UBIRA eTheses](https://etheses.bham.ac.uk/) - *Theses* 
 * [oatd](https://oatd.org/) - *Theses / Dissertations* 
 * [WorldBank](https://www.worldbank.org/en/home) - *Poverty Solution Research & Data*
+* [Einstein Papers](https://einsteinpapers.press.princeton.edu/) - *Albert Einsteins Collected Papers Archive* 
 * [CIA Publications](https://www.cia.gov/resources/publications/) - *History / Reports*
 * [The Black Vault](https://www.theblackvault.com/) - *Declassified Documents*
 * [DDOS](https://ddosecrets.com/) - *Transparency Collective*
@@ -671,14 +677,16 @@
 ## ▷ Manual Sites
 
 * [Manuals & Schematics](https://redd.it/nlw3er), [manualzz](https://manualzz.com/) or [ManualsLib](https://www.manualslib.com/) - *Manual Directories*
+* [Floss Manuals](https://www.flossmanuals.net/) - *Software Manuals* 
 * [iFixIt](https://www.ifixit.com/Guide) - *Repair Manuals* 
 * [RepairWiki](https://repair.wiki/w/Repair_Wiki) - *Repair Articles*
 * [manned.org](https://manned.org/) - *Operating System Manuals*
 * [Manuals Online](http://office.manualsonline.com/) - *Computer Equipment Manuals*
 * [JDMFSM](http://jdmfsm.info/Auto/), [CarPDFManual](https://www.carpdfmanual.com/renault/) or [ProCarManuals](https://procarmanuals.com/) - *Auto Repair Manuals* 
 * [Ownersman.com](https://ownersman.com/) - *Car Owner Manuals* 
+* [PremierProduct](https://www.premierproducts-uk.co.uk/) - *Vehicle Manuals*
 * [Kevincfi](https://www.kevincfi.com/files) - *Aeronautics Manuals*
-* [Floss Manuals](https://www.flossmanuals.net/) - *Software Manuals* 
+* [David Kleinfeld Laboratory](https://neurophysics.ucsd.edu/Manuals/) - *Lab Manuals*
 * [replacementdocs](http://www.replacementdocs.com/) - *Game Manuals* 
 * [Retrevo](http://www.retrevo.com/) - *Product Manuals* 
 * [Building Instructions](https://www.lego.com/en-us/service/buildinginstructions) - *Lego Instructions*
@@ -786,6 +794,7 @@
 * **[Manga Site Index](https://piracy.moe/)** - *Manga Site List*
 * **[MangaDex](https://mangadex.org/)** - *[Download Script](https://github.com/frozenpandaman/mangadex-dl)*
 * **[Manga4Life](https://manga4life.com/)**
+* **[MangaReader](https://mangareader.to/)**
 * [Manga Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_download_bots) - *Bots that Download Manga*
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - *Anime / Manga Download Forum*
 * Madokami Manga Archive - [0-E](https://archive.org/download/Madokami.Manga.0-E), [F-K](https://archive.org/download/Madokami.Manga.F-K), [L-Q](https://archive.org/download/Madokami.Manga.L-Q), [R-Z](https://archive.org/download/Madokami.Manga.R-Z)
@@ -817,9 +826,11 @@
 * [Manga-Raw](https://www.manga-raw.club/)
 * [MangaInn](https://mangainn.net/) 
 * [Manganato](https://manganato.com/)
+* [MangaNyaa](https://manganyaa.com/) 
 * [EvilFlowers](http://reader.evilflowers.com/)
 * [Mangairo](https://h.mangairo.com/)
-* [MangaReader](https://mangareader.to/)
+* [MangaBat](https://m.mangabat.com/m)
+* [Yukiko](https://www.yukiko.org/manga/) 
 * [247Manga](https://247manga.com/) 
 * [DeathTollScans](https://www.deathtollscans.net/)
 * [Manga Rock](https://mangarock.to/)
