@@ -116,6 +116,7 @@
 * [CineBloom](https://www.cinebloom.org) - *Movies / TV*
 * [MovieHunters](https://movieshunters.com/) - *Movies / TV*
 * [Dogeflix](https://dogeflix.net/) - *Movies / TV* 
+* [Sauflix](https://www.sauflix.com/) - *Movies / TV*
 * [Best-Movies](https://best-movies.watch/) - *Movies*
 * [YesHD](https://yeshd.net/) - *Movies / TV*
 * [UWatchFree](https://www.uwatchfree.mn/) - *Movies / TV*  
@@ -139,6 +140,9 @@
 * [CimaClub](https://www.cimaclub.cc/category/%D8%A3%D9%81%D9%84%D8%A7%D9%85-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86) - *Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Shahed4u](https://shahed4u.onl:2053/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a-1/) - *Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [GoMoviesFree](https://www13.gomoviesfree.page/) - *Movies / TV / Anime*
+* [MovGoTV](https://movgotv.com/) - *Movies / TV / Anime*
+* [YMovies](https://ymovies.vip/) - *Movies / TV / Anime*
+* [5Movies.pw](https://5movies.pw/) - *Movies / TV / Anime*
 * [Put-Locker](https://ww1.put-locker.com/) or [123moviesc](https://www.123moviesc.co/) - *Movies / TV / Anime* 
 * [Cinehub](https://cinehub.wtf/) - *Movies / TV / [Discord](https://discord.com/invite/ZqHsfSEkBE)* 
 * [Flenix](https://flenix.net/) - *Movies / TV / Anime* 
@@ -258,9 +262,10 @@
 * [AnimehHub](https://animehub.ac/) - *Sub / Dub*
 * [Animesa](https://animesa.ga/) - *Sub / Dub*
 * [11Anime](https://11anime.fr/) - *Sub / Dub*
+* [7Anime](https://7anime.io/) - *Sub / Dub*
 * [AnimeLon](https://animelon.com/) - *Sub / Learn Japanese*
 * [because.moe](https://because.moe/) - *Legal Anime Sites Search* 
-* [Simplyaweeb](https://simplyaweeb.com/) - *Sub / Dub / [Discord](https://discord.gg/4uGvPUV)* 
+* [Simplyaweeb](https://simplyaweeb.to/) - *Sub / Dub / [Discord](https://discord.gg/4uGvPUV)* 
 * [DubbedAnime](https://ww5.dubbedanime.net/) - *Sub / Dub / [Discord](https://discord.gg/8FyN3w5)*
 * [AnimeBam](https://www.animebam.se/) - *Sub / Dub*
 * [KickAssAnime](https://www2.kickassanime.ro/) - *Sub / Dub*
@@ -449,6 +454,7 @@
 * [RareLust](https://rarelust.com/) - *Rare Movies / NSFW* 
 * [My Duck Is Dead](http://www.myduckisdead.org/) - *Rare Movies / NSFW* 
 * [Reviviendo Viejas Joyas](https://reviviendoviejasjoyas.blogspot.com/) - *Rare Movies / Stop Pages from Loading to use w/o Account* 
+* [AxeMovies](https://axemovies.xyz/) - *Movies*
 * [MoviesforDiscord](https://discord.movies4discord.xyz/) - *Movie Streaming / Download Bot / [Website](https://movies4discord.xyz/)*
 * [Medeberiyaa](https://medeberiyaa.com/) - *Movies / TV / Anime*
 * [PSARips](https://psarips.uk/) or [x265.club](https://x265.club/) - *Movies / TV / [Scraper](https://github.com/NandiyaLive/PSALinkGrabber) / [IMDb Titles](https://github.com/ni554n/userscripts/tree/master/psarips-replace-post-titles-with-imdb-links)* 
@@ -473,6 +479,7 @@
 * [MeloMovie](https://melomovie.com/) - *Movies / TV*
 * [Best-Movies](http://best-movies.info/) - *Movies / TV*   
 * [Happy2Hub](https://happy2hub.net/) - *Movies / TV*   
+* [MoviesMore](https://moviesmore.info/) - *Movies / TV*
 * [MovieFire](https://moviefire.net/) - *Movies* 
 * [SomosMovies](https://somosmovies.com/) - *Movies* 
 * [SeriesVault](https://seriesvault.win/) - *TV / Anime* 
@@ -485,6 +492,7 @@
 * [10StarHD](https://10starhd.run/category/hollywood-movies/) - *Movies*
 * [WorldFree4u](https://worldfree4u.download/) - *Movies* 
 * [MP4Moviez](https://mp4moviez.pw/5/hollywood-english-movies.html) - *Movies / TV*
+* [Downloadhub](https://downloadhub.wtf/category/hollywood-movies/) - *Movies*
 * [Best-MovieZ](https://www.best-moviez.ws/) - *Movies / TV*
 * [mkvCinemas](https://www.mkvcinemas.tube/) - *Movies*
 * [MKVHub](https://www.mkvhub.co/) - *Movies / TV*
@@ -504,6 +512,7 @@
 * [7StarHD](https://7starhd.cards/category/hollywood/) - *Movies / TV*
 * [LatestMovie4U](https://latestmovie4u.com/) - *Movies / TV / Anime* 
 * [CoolMovieZone](https://coolmoviezone.lat/) - *Movies*
+* [VegaMovies](https://vegamovies.bar/category/english/) - *Movies*
 * [Subroz](https://subroz.live/0:/) - *Movies / TV*
 * [Cartoons Raw](https://cartoons-raws.tumblr.com/master-list), [2](https://sites.google.com/view/cartoonraws-disney/home) - *Cartoons* 
 * [Bakabt](https://bakabt.me/) - *Cartoons / [Signup](http://wiki.bakabt.me/index.php/Sign_up)* 
@@ -541,6 +550,8 @@
 * [188.165.227.112](http://188.165.227.112/portail/) - *Movies / TV* 
 * [103.135.208.2](http://103.135.208.2/Data/movies/) - *Movies / TV*
 * [103.222.20.150](http://103.222.20.150/ftpdata/Movies/) - *Movies / TV*
+* [87.89.227.77](http://87.89.227.77/) - *Movies / TV*
+* [124.29.199.194](http://124.29.199.194/data2/) - *Movies*
 * [162.12.215.254](http://162.12.215.254/Data/Movies/) - *Movies*
 * [124.29.199.194](http://124.29.199.194/) - *Movies*
 * [185.105.101.222](http://185.105.101.222/) - *Movies*
@@ -550,6 +561,7 @@
 * [sv.dcnm.ir](https://sv.dcnm.ir/Serial/Foreign/) - *TV* 
 * [ir2.papionvod.ir](https://ir2.papionvod.ir/Media/) - *TV*
 * [144.217.177.36](http://144.217.177.36:4742/Series/) - *TV*
+* [مسلسلات اجنبية‬‎](https://drive.google.com/drive/folders/0B19OoIC31UN0eUE4OERjSXYxcUE) - *TV*
 * [Live Action Movies ](https://sites.google.com/view/live-action-movies/home), [2](https://live-action-raws.tumblr.com/) - *Movies* 
 * [Fanedits Drive](https://mega.nz/folder/MIkljKjL#sUy2vBbv3ou1BlVSo1oneg) - *Fan Edited Movies*
 * [Guide to finding fanedits](https://redd.it/nd8z20) - *How-to Find Fan Edits*
@@ -649,8 +661,9 @@
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - *Movies*
 * [YTS](https://yts.mx/) - *Movies / [Mirror](https://yify.netlify.app/) / Do [NOT](https://androidrookies.com/top-torrent-website-yts-is-sharing-user-emails-and-ip-addresses-with-anti-piracy-law-firm/) Make Account* 
 * [xbit](https://xbit.pw/) - *Movie Torrent Release Information*
-* [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all), [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout), [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod), [IMDb Torrent Search](https://github.com/Crecket/imdb-torrent-search) or [TMDB-Torrent-Movie-Database](https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database) - *Add Torrent Site Results to IMDb Pages*
+* [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all), [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout), [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod), [IMDb Torrent Search](https://github.com/Crecket/imdb-torrent-search) or [TMDB-Torrent-Movie-Database](https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database) - *Torrent Site Results on IMDb*
 * [IMDB to RARBG](https://greasyfork.org/en/scripts/376793-imdb-to-rarbg-torrent-search) - *RARBG Torrent / Magnet Links on IMDB* 
+* [srrextra](https://github.com/srrDB/srrextra) - *Scene Release Tracker on IMDb*
 
 ***
 
@@ -736,6 +749,8 @@
 * [Ant Movie](https://www.antp.be/software/moviecatalog) or [libib](https://www.libib.com/) - *Desktop Video Media Catalog*
 * [AniTrakt](https://anitrakt.huere.net/) - *Trakt / MyAnimeList Sync*
 * [cringeMDb](https://cringemdb.com/) - *Find Movies Safe to Watch with Parents* 
+* [Age Rating JuJu](https://www.ageratingjuju.com/) - *Media Age Ratings*
+* [CommonSenseMedia](https://www.commonsensemedia.org/) - *Age-Based Media Reviews*
 * [BingeClock](https://www.bingeclock.com/) - *TV Show Length Calculator* 
 * [MyDramaList](https://mydramalist.com/) - *Asian Drama Tracker* 
 * [MythBank](https://mythbank.com/) - *Media Timelimes / Watch Orders* 
