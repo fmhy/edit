@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/l49Ajon.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/S6RKRsi.png)** - *For mobile users*
 
 ***
 *** 
@@ -41,12 +41,12 @@
 * [WorldTaxiMeter](https://www.worldtaximeter.com/) - *Taxi Fare Calculator*
 * [GasPrices](https://gasprices.aaa.com/) - *Gas Price Calculator*
 * [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - *Bedtime Calculator* 
-* [eXHALeR](https://www.xhalr.com/) - *Yoga / Meditation Breathing Tool* 
 * [The Sustainabilitist](https://sustainabilitist.com/) - *Sustainability Resource Hub*
 * [ActivityWatch](https://activitywatch.net/) - *Automatically Track Device Activity / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)* 
 * [Cold Turkey](https://getcoldturkey.com/) or [Take a Five](http://www.takeafive.com/) - *Site Blocker / Productivity Booster* 
 * [Tempus](https://tempus.keziahmoselle.fr/) or [Super-Productivity](https://github.com/johannesjo/super-productivity)  - *Productivity Tracker* 
 * [DoINeedAJacket](https://doineedajacket.com/weather/), [DogeWeather](http://dogeweather.com/) or [wttr](https://wttr.in/) - *Simple Weather Reports*
+* [Cricket Convert](https://www.weather.gov/epz/wxcalc_cricketconvert) - *Estimate Temperature via Cricket Chirps*
 * [RTL-SDR](https://gist.github.com/fasiha/c123a9c6b6c78df7597bb45e0fed808f) - *DIY FAA & EASA Satellite Feeds / Transponder*
 * [Cool Generator](https://www.coolgenerator.com/) or [Random Lists](https://www.randomlists.com/) - *Generate Anything*
 * [Wheel Decide](https://wheeldecide.com/) - *Wheel Randomizer*
@@ -70,7 +70,6 @@
 * [SlidesGo](https://slidesgo.com/), [ensa.io](https://ensa.io/) or [ThePOPP](https://thepopp.com/) - *Presentation Templates* 
 * [QR Tiger](https://www.qrcode-tiger.com/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - *QR Code Generator* 
 * [QRpicture](https://www.qrpicture.com/) - *Picture to QR Code Converter* 
-* [Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers) - *Create Resumes for Free*
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - *Online Appraisals*
 * [TuboTax Sucks Ass](http://turbotaxsucksass.net/) - *File Taxes for Free*
 * [findhelp.org](https://www.findhelp.org/) - *Find Assistive Programs*
@@ -96,7 +95,7 @@
 * [ZealDocs](https://zealdocs.org/) - *Documentation Reader*
 * [Lyx](https://www.lyx.org/) - *LaTeX Editor*
 * [Detexify](http://detexify.kirelabs.org/classify.html) - *Handwritten LaTeX Symbol Recognition*
-* [QuillBot AI](https://quillbot.com/) - *Paraphrasing Tool* 
+* [QuillBot AI](https://quillbot.com/) or [Paraphrasing Tool](https://paraphrasetool.com/) - *Paraphrasing Tool* 
 * [phraseup](http://www.phraseup.com/) - *Autocomplete Common Phrases* 
 * [PaperRater](https://www.paperrater.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - *Annotation Tools / Resources*
@@ -111,8 +110,9 @@
 * [PDF Text Extraction](https://r3mlab.github.io/python/osint/2018/08/09/PDF-text-extraction.html) - *Extract Text from PDF Files* 
 * [OfficeDocs](https://www.offidocs.com/) - *Runs Desktop / Mobile Apps Online*
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - *Text / Code Collaboration Tools*
-* [Ethercalc](https://ethercalc.snopyta.org/), [Baserow](https://gitlab.com/bramw/baserow), [Framacalc](https://accueil.framacalc.org/en/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - *Collaborative Spreadsheet*
 * [Miro](https://miro.com/) - *Collaborative Whiteboard*
+* [Ethercalc](https://ethercalc.snopyta.org/), [Baserow](https://gitlab.com/bramw/baserow), [Framacalc](https://accueil.framacalc.org/en/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - *Collaborative Spreadsheet*
+* [Jamovi](https://www.jamovi.org/) - *Statistical Spreadsheets*
 * [Watson](https://speech-to-text-demo.ng.bluemix.net/) - *Speech to Text*
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) - *Text to Handwriting Converter*
 * [Cryptii](https://cryptii.com/) - *Modular Conversion, Encoding & Encryption*
@@ -207,8 +207,9 @@
 * [OpenToonz](https://opentoonz.github.io/e/) or [Pencil2D](https://www.pencil2d.org/) - *Animation Production Software*
 * [AnimeEffects](http://animeeffects.org/en/) or [Synfig](https://www.synfig.org/) - *2D Animation Tool* 
 * [Storyboarder](https://wonderunit.com/storyboarder/) - *Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)* 
-* [NATRON](https://natrongithub.github.io/) - *Compositing Software*
+* [LibreSprite](https://libresprite.github.io/) - *Sprite Animation Tool*
 * [BestSnip](https://bestsnip.com/animation/) - *Online Animation Tool*
+* [NATRON](https://natrongithub.github.io/) - *Compositing Software*
 * [Motion Den](https://motionden.com/) or [VideoCreek](https://videocreek.com/) - *Video Template Editor*
 * [MKVToolNix](https://www.matroska.org/downloads/mkvtoolnix.html) - *MKV Editing Tools* 
 * [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/) - *MKVExtract GUI* 
@@ -274,7 +275,6 @@
 * [Audiocheck](https://www.audiocheck.net/) - *Audio Tests* 
 * [Online Mic Test](https://onlinemictest.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - *Mic Test* 
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) - *Measure Surrounding Sound Level*
-* [Krisp](https://krisp.ai/) - *Noise Canceling Software*
 * [Audio-Router](https://github.com/audiorouterdev/audio-router) - *Route Audio from Programs to Devices*
 * [AAFDCHDriverMod](https://github.com/AlanFinotty/AAFDCHDriverMod) or [Ultimate Realtek HD Audio Driver Mod](https://1drv.ms/f/s!AkGtxiGigudSzVLpSjYdvkAqrejL) - *Realtek Audio Driver*
 * [ASIO4ALL](https://www.asio4all.org/) - *ASIO Audio Driver*
@@ -295,8 +295,8 @@
 * [MusicVid](https://musicvid.org/) or [Specterr](https://specterr.com/) - *Create Audio Visualizers*
 * [yt2pod](https://github.com/frou/yt2pod) - *Create Podcasts from YouTube Channels* 
 * [Deemixrr](https://github.com/TheUltimateC0der/Deemixrr) - *Automated Music Manager* 
-* [FFmpeg](https://ffmpeg.org/) - *Record, convert and stream audio & video / [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom)*
-* [Audio Converter Online](https://online-audio-converter.com/), [FlicFlac](https://github.com/DannyBen/FlicFlac), [FreeAC](https://www.freac.org/downloads-mainmenu-33), [LameXP](https://sourceforge.net/projects/lamexp/), [SoX](http://sox.sourceforge.net/) or [FreeAC](https://www.freac.org/) - *Audio Converter* 
+* [FFmpeg](https://ffmpeg.org/) - *Record, Convert & Stream Audio & Video / [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d)*
+* [Audio Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_converters) - *Audio Conversion Sites & Programs*
 * [Faasoft FLAC Converter](https://www.faasoft.com/articles/flac-converter-mac-and-windows.html) - *FLAC Converter* 
 * [FLAC Frontend](http://flacfrontend.sourceforge.net/) - *FLAC Tools* 
 * [FLAC2iTunes](https://github.com/pathartl/FLAC2iTunes/releases/tag/1.0.0) - *Convert FLAC to ALAC* 
@@ -342,6 +342,7 @@
 * [VocalRemover](http://vocalremover.org/) / [GUI](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [AIVocalRemover](https://aivocalremover.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb) or [Remove Vocals](https://www.remove-vocals.com/) - *Remove / Isolate Vocal Tracks*
 * [Acapella-Extractor](https://www.acapella-extractor.com/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - *Remove Background Tracks from Songs*
 * [VoiceFX](https://blog.xaymar.com/projects/voicefx/) - *Remove Background Noise from Voice Recordings*
+* [Krisp](https://krisp.ai/) - *Noise Cancellation Software*
 * [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - *Voice Audio Mixer*
 * [Voice Changer](https://voicechanger.io/) - *Online Voice Changer*
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) - *Clone Human Voices*
@@ -372,6 +373,20 @@
 ***
 
 ## ▷ [Educational Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_educational_tools)
+
+***
+
+## ▷ Career Tools
+
+* [Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers) - *Create Resumes for Free*
+* [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) - *Successful Resume Samples*
+* [CoFolios](https://cofolios.com/) - *Portfolio Sharing*
+* [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) - *Common Interview Questions & Answers*
+* [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - *Online Working Subreddit*
+* [/r/freelance](https://www.reddit.com/r/freelance/) - *Freelance Subreddit*
+* [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - *Design Job Subreddit*
+* [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - *Career Guidance Subreddit*
+* [Candor](https://candor.co/hiring-freezes/) - *Hiring Freezes*
 
 ***
 
@@ -474,7 +489,7 @@
 * [Linktree](https://linktr.ee/), [Solo.to](https://solo.to/) or [ContactInBio](https://www.contactinbio.com/) - *Link All Your Sites on One Page* 
 * [Carrd](https://carrd.co/) - *One-Page Site Builder* 
 * [Integrated Inbox](https://integratedinbox.com/) - *Gmail Google Web App Integration*
-* [Namechk](https://namechk.com/), [Username Checker](https://checkuser.org/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Check Username / Domain Availability*
+* [Namechk](https://namechk.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Check Username / Domain Availability*
 * [Pyfunceble](https://pyfunceble.github.io/#/) or [Domainr](https://domainr.com/) - *Check IP / Domain Availability* 
 * [HostsDock](https://eshengsky.github.io/HostsDock/) - *Manage & Switch Hosts* 
 * [2ip.io](https://2ip.io/) - *Multiple IP Address Tools*
@@ -533,6 +548,7 @@
 * [Vieb](https://vieb.dev/) - *Vim Inspired Browser*
 * [Netbox](https://netbox.global/) - *Blockchain Backed Browser*
 * [Luakit](https://luakit.github.io/) - *Lightweight Linux Browser* 
+* [Ghost Browser](https://ghostbrowser.com/) - *Multi-Session Browser*
 * [woob](https://woob.tech/) - *Use Sites Without a Browser*
 * [Male Poon](https://github.com/ManchildProductions/Male-Poon) - *Tweaked Browser*
 * [Lagrange](https://github.com/skyjake/lagrange)  - *Gemini Browser*
@@ -747,6 +763,7 @@ General Reading Sites*
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - *Discord Tools*
 * [Guilded](https://www.guilded.gg/) or [Revolt](https://revolt.chat/) - *Discord Alternative / [Client Mod](https://github.com/ReGuilded/ReGuilded/)*
 * [Ripcord](https://cancel.fm/ripcord/) - *Lighweight Discord & Slack Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ripcord_tools)* 
+* [ArmCord](https://github.com/ArmCord/ArmCord) - *Lightweight Discord Client*
 * [Powercord](https://powercord.dev/) - *Anti-Telemetry Discord / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_powercord_tools)* 
 * [Dark-Discord](https://github.com/snappercord/Dark-Discord) - *Dark Theme for BetterDiscord & Powercord* 
 * [Powerconvert](https://convert.creatable.cafe/) - *Convert BetterDiscord themes to Powercord*
@@ -804,7 +821,7 @@ General Reading Sites*
 * [1337x-Bot ](https://github.com/brandongallagher1999/1337x-Bot) - *1337x Discord Bot*
 * [fmbot](https://fmbot.xyz/) - *Discord Voice Chat Scrobbling*
 * [Forms](https://gitlab.com/rubellite/engineering/forms ) - *Google Form Responses as Discord Embeds*
-* [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter), [Discord History Tracker](https://dht.chylex.com/), [discord-archiver](https://github.com/nektro/discord-archiver) or [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper) - *Archive / Export Discord Chats* 
+* [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter), [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker), [discord-archiver](https://github.com/nektro/discord-archiver) or [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper) - *Archive / Export Discord Chats* 
 * [Discord Style](https://www.discord.style/) - *Discord Server Templates*
 * [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/)
 * [Discohook](https://discohook.org/), [Rauf's Embed Generator](https://embed.rauf.wtf), [discord.club](https://discord.club/embedg/), [0x71](https://em.0x71.cc/), [Webhook Gold](https://webhook.discord.gold/) or [PSDiscord](https://github.com/EvotecIT/PSDiscord) - *Embed / Webhook Generator* 
@@ -846,6 +863,7 @@ General Reading Sites*
 * [Displace](https://discord.gg/6zEbZeg) or [OwnersHub](https://ownershub.xyz/) - *Discord Community Management Chat*
 * [Discordia-Development Wiki](https://github.com/Discordia-Development/wiki) - *Discord Moderation Wiki*
 * [Discord Moderator Academy](https://discord.com/moderation) - *Discord Moderator Guide / [Exam](https://discord.com/moderation/exam)*
+* [Hammertime](https://hammertime.djdavid98.art/) - *Generate Timestamp indicators*
 * [SnowStamp](https://pixelatomy.com/snow-stamp/) - *Convert Discord Snowflakes to Timestamps*
 * [ddpe](https://ddpe.androz2091.fr/) - *Discord Data Package Explorer / [GitHub](https://github.com/Androz2091/discord-data-package-explorer)*
 * [Discord InfluxDB exporter](https://github.com/terorie/discord-influx) - *Export Discord Metrics to InfluxDB*
@@ -1243,6 +1261,7 @@ General Reading Sites*
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - *Alt Windows Shells* 
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - *MacOS Cursors for Windows*
 * [terminal.sexy](https://terminal.sexy/) - *Terminal Color Schemes*
+* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - *Retro Cathode Terminal Theme*
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - *Pokemon Terminal Themes*
 * [Windows Media Player Skins](https://web.archive.org/web/20100827223732/http://windows.microsoft.com/en-US/windows/downloads/windows-media-player/skins?T1=all)
 * [Hide File Explorer Dark Mode White Line](https://i.imgur.com/ZZsvyyM.png)
@@ -1389,11 +1408,11 @@ General Reading Sites*
 
 ## ▷ Linux Tools
 
-* **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)**, **[Friendly GNU](https://fglt.nl/guides/picking-a-distro.html)** or [ComputerFreely](https://computefreely.org/) - *Linux OS Index / Guides*
+* **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)**, **[Friendly GNU](https://fglt.nl/guides/picking-a-distro.html)**, [tohoku](http://www.cs.tohoku-gakuin.ac.jp/pub/Linux/), [minerswin](http://root3.minerswin.de/ISO/) or [ComputerFreely](https://computefreely.org/) - *Linux Distro Indexes / Guides*
 * [Linux Piracy](https://rentry.co/LinuxPiracy) - *Linux Piracy Guide*
-* [Distrochooser](http://distrochooser.de/?l=2) - *Linux OS Chooser*
-* [LinuxTracker](https://linuxtracker.org/) - *Linux OS Torrents*
-* [OldSchoolOS](https://www.oldschoolos.com/) - *Old Linux OS Archive*
+* [Distrochooser](http://distrochooser.de/?l=2) - *Linux Distro Chooser*
+* [LinuxTracker](https://linuxtracker.org/) - *Linux Distro Torrents*
+* [OldSchoolOS](https://www.oldschoolos.com/) - *Old Linux Distro Archive*
 * [Tunic](https://github.com/mikeslattery/tunic) - *Install Linux Over or Alongside Windows*
 * [InstantBox](https://github.com/instantbox/instantbox) - *Temporary Linux Systems*
 * [archinstall](https://github.com/archlinux/archinstall) - *Arch Linux Installer*
@@ -1403,6 +1422,7 @@ General Reading Sites*
 * [MultiBoot USB](https://github.com/hackerncoder/multibootusb) - *Create Bootable USB Linux Drives*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [Ricepedia](https://rizonrice.club/Main_Page) - *Linux Customization / Configuration Index*
+* [Curlew](https://curlew.sourceforge.io/) - *Linux File Converter*
 * [Polychromatic](https://polychromatic.app/) - *Linux System Light Control*
 * [utils](https://github.com/Loupeznik/utils) - *Linux Utility Scripts*
 * [Mayfrost Guides](https://github.com/mayfrost/guides) - *Linux / Computing Guides*
@@ -1410,10 +1430,11 @@ General Reading Sites*
 * [winapps](https://github.com/Fmstrat/winapps) or [Bottles](https://usebottles.com/) - *Run Windows Apps in Linux* 
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - *Linux File Search*
 * [wslu](https://github.com/wslutilities/wslu) - *Utilities for Windows 10 Linux Subsystem* 
-* [Stacer](https://github.com/oguzhaninan/Stacer) - *Monitor & Optimize Linux Sytems*
+* [Stacer](https://github.com/oguzhaninan/Stacer) or [CPU-X](https://github.com/X0rg/CPU-X) - *Linux System Information Tool*
 * [Tree](http://mama.indstate.edu/users/ice/tree/) - *Directory Listing Command* 
 * [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) - *Grub Repair Guide for Linux Systems*
 * [ss64 Bash](https://ss64.com/bash/) - *Linux Bash Commands*
+* [Autokey](https://github.com/autokey/autokey) - *Linux Automation Utility*
 * [The Linux Kernel Archives](https://kernel.org/) - *Linux Kernel Archive*
 * [Gnome-Look](https://www.gnome-look.org/browse) or [xfce-look](https://www.xfce-look.org/)  - *Linux Themes*
 * [ricemood](https://github.com/fhadiel/ricemood) - *Fully Customizable Unix Color Schemer*
@@ -1488,7 +1509,7 @@ General Reading Sites*
 
 # ► Gaming Tools
 
-* **[GoG Galaxy](https://www.gog.com/galaxy)**, [Launchbox](https://www.launchbox-app.com/), [GameHub](https://tkashkin.tk/projects/gamehub/) / [GitHub](https://github.com/tkashkin/GameHub), [Playnite](https://playnite.link/) or [chad_launcher](https://gitlab.com/Gnurur/chad_launcher) - *Game Library / Launcher*
+* **[GoG Galaxy](https://www.gog.com/galaxy)**, [Launchbox](https://www.launchbox-app.com/), [GameHub](https://tkashkin.tk/projects/gamehub/) / [GitHub](https://github.com/tkashkin/GameHub), [Playnite](https://playnite.link/), [Gnome Games](https://wiki.gnome.org/Apps/Games) or [chad_launcher](https://gitlab.com/Gnurur/chad_launcher) - *Game Library / Launcher*
 * **[PCGamingWiki](https://www.pcgamingwiki.com/)** or [AppleGamingWiki](https://applegamingwiki.com/) - *Game Info, Bug Fixes & Improvements*
 * **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)** - *Game Requirements Test* 
 * [/r/CrackWatch](https://reddit.com/r/CrackWatch), [SteamCrackStatus](https://steamcrackedgames.com/) / [Discord](https://discord.com/invite/hrCtqcyHKw) / [/r/SteamCrackedGames](https://reddit.com/r/SteamCrackedGames) or [CrackSnoop](https://github.com/CrackSnoop/cracksnoop) - *Scene Release Trackers / [Discord](https://discord.gg/d9StxkknwX)*
@@ -1520,6 +1541,7 @@ General Reading Sites*
 * [The Sounds Resource](https://www.sounds-resource.com/) - *Game Sounds*
 * [The Halo Archive](https://discord.gg/feB7RgAHBh) - *Halo Assets Archive*
 * [The Spriters Resource](https://www.spriters-resource.com/) - *Video Game Sprites*
+* [MOGG](http://img.mogg.fr/HIRES/) - *Magic The Gathering Card Scans*
 * [Random Dice](http://www.dicesimulator.com/) - *Dice Simulator*
 * [Roll20](https://roll20.net/), [Rolisteam](https://rolisteam.org/) or [Astral](https://www.astraltabletop.com/) - *Tabletop RPG Streaming*
 * [Tabletopy](https://tabletopy.com/) - *Tabletop RPG Soundboard*
@@ -1534,6 +1556,7 @@ General Reading Sites*
 * [DsHidMini](https://github.com/ViGEm/DsHidMini) - *Use PS3 Controllers on Windows [Guide](https://vigem.org/projects/DsHidMini/How-to-Install/)*
 * [Lowkey](https://lowkey.gg/) - *Record / Screenshot Gameplay* 
 * [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
+* [LoL Math](https://lolmath.net/) - *League of Legends Build Calculator*
 * [Project Era](https://erafn.glitch.me/#downloads) - *Play Old Fortnite Seasons*
 * [RoPro](https://ropro.io/), [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040) or [RoGold](https://discord.gg/XMHn9zV3UA)- *Enhance Roblox Website*
 * [RobloxThemes](https://github.com/christiankek/RobloxThemes) - *Themes for Roblox*
@@ -1542,7 +1565,7 @@ General Reading Sites*
 * [TEdit](http://binaryconstruct.com/games/tedit) - *View / Edit Terraria Maps*
 * [Terrasavr](https://yal.cc/r/terrasavr/) - *Terraria Character Editor*
 * [TerrColab](https://github.com/AndreVuillemot160/TerrColab) - *Host Collab based Terraria Server / [.ipynb](https://colab.research.google.com/github/AndreVuillemot160/TerrColab/blob/main/TerrColab.ipynb)*
-* [GameGuides](https://www.gamerguides.com/), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [GamePressure](https://www.gamepressure.com/) or [Samurai Gamers](https://samurai-gamers.com/) - *Strategy Guides & Walkthroughs*
+* [GameGuides](https://www.gamerguides.com/), [Retro Game Strategy Guides](https://archive.org/details/Tekken3PrimasOfficialStrategyGuide1998), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [GamePressure](https://www.gamepressure.com/) or [Samurai Gamers](https://samurai-gamers.com/) - *Strategy Guides & Walkthroughs*
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) - *Game Optimization Guides*
 * [Low Specs Experience](https://ragnotechpowered.com/) - *Game Optimization Program* 
 * [Magpie](https://github.com/Blinue/Magpie) - *Enable AMD FSR on Any Game / [Tutorial](https://youtu.be/gac7llDa18k)*
@@ -1576,6 +1599,7 @@ General Reading Sites*
 * [CnCNet](https://cncnet.org/) - *Multiplayer Command & Conquer* 
 * [NV: Multiplayer](https://nv-mp.com/) - *Fallout New Vegas Multiplayer Project / [Discord](https://discord.com/invite/mKVdhmEDrW)*
 * [BF2142 Reclamation](https://battlefield2142.co/) - *BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)*
+* [BFStatus](https://www.bfstatus.com/) - *Battlefield Game Server Statuses*
 * [Online Fix](https://online-fix.me/) - *Online Game Cracks / [Discord](https://discord.gg/yExgFYncMD)* 
 * [Slippi](https://slippi.gg/) - *Super Smash Bros Melee Online* 
 
@@ -1624,6 +1648,7 @@ General Reading Sites*
 * [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - *GTA5 FidelityFX Super Resolution Mod*
 * [Essential Menu](https://github.com/anonik9900/Essential-Menu) - *GTA5 Mod Menu*
 * [re3](https://github.com/GTAmodding/re3) - *GTA III & Vice City Mods*
+* [TS4 Rebels](https://docs.google.com/spreadsheets/d/1TcbNsTFQD0YhqRDJMJr8c2Cna-JuevazErvlo6mXivY/edit#gid=0) - *Sims 4 Mods*
 * [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - *Unlock Genshin Impact FPS Cap*
 * [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - *Unlock Roblox FPS Cap*
 * [Rekt](http://getrektby.us/) - *Black Ops 1 Mod Project / [Discord](https://discord.com/invite/HqjQFCp)*
@@ -1706,5 +1731,6 @@ General Reading Sites*
 * [TerraForged](https://www.curseforge.com/minecraft/mc-mods/terraforged) - *Improved Biomes Mod*
 * [Biomes-O-Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) - *Extra Biomes Mod*
 * [Classic Minecraft](https://classic.minecraft.net/) - *Play Classic Minecraft* 
+* [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) - *Minecraft Java Edition Launcher / Android / iOS*
 * [Minetest](https://www.minetest.net/) - *F2P Minecraft Alternative* 
 * [Baritone](https://github.com/cabaletta/baritone) - *Minecraft Pathfinding System*
