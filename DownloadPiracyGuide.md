@@ -187,6 +187,7 @@
 * [MAZTERIZE](https://www.mazterize.com/) 
 * [SoftnCracks](https://softncracks.com/) 
 * [VectorItalia](https://www.vectoritalia.com/)
+* [Mirror.una](http://mirror.una.ac.cr/) 
 * [MySoftwareFree](https://mysoftwarefree.com/)
 * [Mutaz.net](https://www.mutaz.net/) - *PC / Mac / Android*
 * [AIOsetup](https://t.me/aiosetup) - *Telegram* 
@@ -227,6 +228,7 @@
 * [ListOfFreeWare](https://listoffreeware.com/) - *Software*  
 * [Downloadastro](https://en.downloadastro.com/) - *Software* 
 * [SnapFiles](https://www.snapfiles.com/freeware/) - *Software*
+* [apponic](https://www.apponic.com/) - *Software*
 * [Soft112](https://www.soft112.com/) - *Software* 
 * [IcecreamApps](https://icecreamapps.com/) - *Software* 
 * [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html) - *Software*
