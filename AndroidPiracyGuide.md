@@ -374,6 +374,7 @@ App Manager
 * [SMLoadr](https://t.me/SMLoadrNews) - *Download / FLAC / MP3*
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) or [SongTube](https://github.com/SongTube/SongTube-App) - *YouTube Audio / Video Downloader*
 * [Fildo](https://fildo.net/android/en/) - *Streaming*
+* [BlackHole](https://github.com/Sangwan5688/BlackHole) - *Streaming*
 * [BlackPlayer](https://rexdl.com/android/blackplayer-ex-apk.html/) - *Streaming*
 * [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - *Streaming*
 * [Rezonance](https://www.rezonanceindia.tech/) - *Streaming / [GitHub](https://github.com/rezonance-india)*
