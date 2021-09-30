@@ -153,12 +153,14 @@
 * [CuratedSEOTools](https://github.com/sneg55/curatedseotools) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization Tools*
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) - *Web Debugging Proxy App*
 * [Geekflare Tools](https://gf.dev/toolbox) - *Site Testing Tools*
+* [Spiderfoot](https://www.spiderfoot.net/) - *Automate OSINT*
 * [Alexa Site Info](https://www.alexa.com/siteinfo) - *Site Traffic Stats / Analysis*
 * [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/),  [Network Tools](https://network-tools.com/) or [WebsiteScoop](https://websitescoop.com/) - *Domain Info / IP Tools*
 * [Namechk](https://namechk.com/), [Username Checker](https://checkuser.org/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Username Availability Check*
 * [Pyfunceble](https://pyfunceble.github.io/#/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [DomComp](https://www.domcomp.com/) or [Domainr](https://domainr.com/) - *Domain Availability Check* 
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist*
 * [Flounder](https://flounder.online/) - *Gemini Website Builder / [GitHub](https://github.com/alexwennerberg/flounder)* 
+* [GoHugo](https://gohugo.io/ ) - *Site Creator*
 * [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - *Webpage Editor* 
 * [Plunker](https://plnkr.co/) - *Prototype / Test Websites Ideas*
 * [Temper](https://temper.one/) - *Simple HTML Site Creator*
@@ -413,6 +415,7 @@
 * [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) - *Machine Learning Art Resource Index* 
 * [Sourcegraph](https://sourcegraph.com/) - *Universal Code Search*
 * [searchcode](http://searchcode.com/) or [PublicWWW](http://publicwww.com/) - *Source Code Search*
+* [Sourcecodester](https://www.sourcecodester.com/) - *Free Source Code Projects & Tutorials*
 * [ShareScript](https://sharescript.net/) - *Script / Code Index*
 * [Google Code Archive](https://code.google.com/archive/) - *Google Code Project Archive*
 * [Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering) - *Reverse Engineering Resource Index*
