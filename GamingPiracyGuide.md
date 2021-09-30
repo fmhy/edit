@@ -224,9 +224,7 @@
 * [PS1 Collection](https://archive.org/details/redumpSonyPlaystationAmericaGames02October2017), [2](https://archive.org/details/@john_mr_smith?sort=titleSorter) - *Roms / PS1*
 * [PS2 Archive](https://archive.org/details/RedumpSonyPS2NTSCU), [2](https://archive.org/details/RedumpSonyPS2NTSCUPart2), [3](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01), [4](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part2), [5](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part3), [6](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part4) - *Roms / PS2*
 * [ps2pressprotos](https://archive.org/details/ps2pressprotos) - *PS2 Press Discs & Prototypes*
-* [PS4 bitdl.ir](http://s21.bitdl.ir/), [2](http://s22.bitdl.ir/), [3](http://s23.bitdl.ir/), [4](http://s24.bitdl.ir/), [5](http://s25.bitdl.ir/), [6](http://s26.bitdl.ir/) - *Roms / PS4*
-* [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) - *Roms / PS4*
-* [PS4.td](https://ps4.td-index.workers.dev/0:/) - *Roms / PS4* 
+* [PS4 Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ps4_roms) - *Roms / PS4*
 * [NoPayStation](https://nopaystation.com/) or [PSNDL](https://psndl.net/) - *Roms / Sony Consoles*
 * [psp.hm7.moe](https://psp.hm7.moe/) - *Modded PSP Collection* 
 * [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) - *Roms / Wii U*
@@ -558,6 +556,7 @@
 * [Flash Games Collection](https://drive.google.com/drive/folders/1U8tJfJr_3Cg-PXL7PQshZOp2ukvVippm) - *Archive* 
 * [ClassicGames.rar](https://drive.google.com/file/d/1ylHk46vdV1dZcfUUSNDAT7F2RVoi8FFS/) - *Archive / pw:paluch*
 * [Flash by Night](http://flashbynight.com/) - *Browser Games*
+* [Tyrone's Unblocked Games](https://sites.google.com/site/tyronesgameshack) - *Browser Games / [Discord](https://discord.gg/Z55yjBz)*
 * [The Flash Emulation Repair Shop](https://archive.org/details/flash_repair_shop) - *Flash Games Under Repair*
 * [Arcade Prehacks](http://www.arcadeprehacks.com/) or [SamsHackedGames](https://www.samshackedgames.com/) - *Hacked Flash Games* 
 * To Play Shockwave Games Install [Adobe Shockwave](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html) & [K-Meleon Browser](http://kmeleonbrowser.org/)
