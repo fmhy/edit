@@ -78,6 +78,9 @@
 * [Private Lock](https://f-droid.org/en/packages/com.wesaphzt.privatelock/) - *Lock your Phone via Movement* 
 * [SpoofCard](https://www.spoofcard.com/) - *Disguise Caller ID*
 * [Catch the Man-in-the-Middle](https://play.google.com/store/apps/details?id=me.brax.certchecker) - *Check if HTTPS Traffic is being Monitored* 
+* [JustUseApp](https://justuseapp.com/) - *Hide App Payments*
+
+
 * [Gadget Bridge](https://gadgetbridge.org/) - *Connect to Smartwatches without Vendor Apps / Accounts*
 * [Scrambled Exif](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif) - *Remove Image Metadata*
 
@@ -268,6 +271,7 @@ App Manager
 * [Sbenny](https://sbenny.com/) - *Modded*
 * [AndroidGameMods](https://www.androidgamemods.com/) - *Modded* 
 * [farsroid](https://www.farsroid.com/) - *Modded*
+* [GameDVA](https://gamedva.com/) - *Modded*
 * [APKTops](https://www.apktops.ir/) - *Modded*
 * [ModDroid](https://moddroid.com/) - *Modded*
 * [Apk4Free](https://apk4free.org/) - *Modded / [Telegram](https://t.me/Apk4Free)*
@@ -748,6 +752,7 @@ RSS Player*
 # ► iOS Streaming
 
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
+* [Pomly](https://apps.apple.com/us/app/pomly/id1584615881) - *Movies / Code: 777*
 * [MediaBox](https://mediaboxhd.net/) - *Movies / TV*
 * [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756) - *Movies / TV*
 * [ZiniTevi](https://zinitevi.github.io/movieapps/) - *Movies* 
