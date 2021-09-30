@@ -822,7 +822,7 @@
 * [MangaSushi](https://mangasushi.net/)
 * [Kanjiku](https://kanjiku.net/)
 * [Flamescans](https://flamescans.org/)
-* [MangaFreak](https://w11.mangafreak.net/)
+* [MangaFreak](https://w12.mangafreak.net/)
 * [Manga-Raw](https://www.manga-raw.club/)
 * [MangaInn](https://mangainn.net/) 
 * [Manganato](https://manganato.com/)
@@ -1029,7 +1029,6 @@
 * [ebookhunter](https://www.ebookhunter.net/request-ebooks/) - *Books* 
 * [VK eBook Sharing Group](https://vk.com/club162811046) - *Books* 
 * [FreeNovelsGroup](https://t.me/FreeNovelsGroup) - *Books / Telegram* 
-* [VCE PDF Megathread](https://redd.it/dxvao6) - *Educational Books*
 * [/r/textbook_piracy](https://reddit.com/r/textbook_piracy)
 * [/r/textbookrequest](https://reddit.com/r/textbookrequest)
 * [/r/Scholar](https://reddit.com/r/Scholar)
