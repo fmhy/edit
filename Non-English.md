@@ -95,7 +95,7 @@
 * [zimuku](http://zimuku.org/) or [SubHD](https://subhd.tv/) - *Subtitles*
 * [Dianying](https://dianying.fm/) - *Hash Search*
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
-* [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [XX-Net](https://github.com/XX-net/XX-Net) or [OilAndFish](https://www.oilandfish.com/) - *Bypass Chinese Firewall*  
+* [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io) or [OilAndFish](https://www.oilandfish.com/) - *Bypass Chinese Firewall*  
 
 ## ▷ Downloading
 
