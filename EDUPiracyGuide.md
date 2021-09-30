@@ -336,7 +336,7 @@
 * [Language Transfer](https://www.languagetransfer.org/) - *Language Learning Courses / Audio*
 * [refold.la](https://refold.la/roadmap) - *Language Learning Guide* 
 * [Learn English Online](http://www.learn-english-online.org/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - *Learn English*
-* [Free4Talk](https://www.free4talk.com/) - *English Practice Community*
+* [Free4Talk](https://www.free4talk.com/) or [Speaking24](http://www.speaking24.com/) - *English Practice Community*
 * [MyLanguages](http://mylanguages.org/) or [Langeek](https://langeek.co/) - *Grammar / Vocabulary Language Learning*
 * [Vocatra](https://esite.ch/vocatra/) - *Vocabulary Trainer*
 * [EnglishAccentMap](https://www.englishaccentsmap.com/) - *English Accent Videos / Map* 
@@ -441,6 +441,7 @@
 * [Lucid](https://apps.apple.com/us/app/lucid-learn-visually/id1482780647) - *Visual Learning Guides / iOS*
 * [Papers.Xtreme](https://papers.xtremepape.rs/) - *Test Revision Notes & Answers*
 * [SAT QAS](https://www.dropbox.com/sh/fl4d7vyv09z0pzi/AAAd7tblEzFZWftbtu3bw1Y-a?dl=0) or [The SAT: Practice Test 3](https://collegereadiness.collegeboard.org/pdf/sat-practice-test-3.pdf) - *SAT Practice Tests*
+* [Examveda](https://www.examveda.com/) - *Exam Practice*
 * [CrackAP](https://www.crackap.com/) - *Practice AP Exams*
 * [/r/ApStudents Resources](https://drive.google.com/open?id=1mPT8O9Nou4udtUQOl0W8dk5JgeRNZHSI) - *Former AP Exams*
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - *AP Exam Comparison Spreadsheet*
