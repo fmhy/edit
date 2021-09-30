@@ -470,7 +470,9 @@
 
 * **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)** - *Lists of Proxies*
 * **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
+* **[Holy Unblocker](https://www.holyubofficial.net/)** - *[Discord](https://discord.gg/hcUUceSCtj)*
 * [ProxySite](https://www.proxysite.com/)
+* [GenMirror](https://www.genmirror.com/) 
 * [Hide.me](https://hide.me/en/proxy)
 * [KProxy](https://www.kproxy.com/)
 * [Free Proxy](https://freeproxy.win/)
