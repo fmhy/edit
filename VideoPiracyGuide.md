@@ -141,6 +141,7 @@
 * [Shahed4u](https://shahed4u.onl:2053/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a-1/) - *Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [GoMoviesFree](https://www13.gomoviesfree.page/) - *Movies / TV / Anime*
 * [MovGoTV](https://movgotv.com/) - *Movies / TV / Anime*
+* [HollyMovieHD](https://hollymoviehd.cc/) - *Movies / TV / Anime*
 * [YMovies](https://ymovies.vip/) - *Movies / TV / Anime*
 * [5Movies.pw](https://5movies.pw/) - *Movies / TV / Anime*
 * [Put-Locker](https://ww1.put-locker.com/) or [123moviesc](https://www.123moviesc.co/) - *Movies / TV / Anime* 
@@ -236,6 +237,7 @@
 * **[Noxx](https://noxx.is)** - *TV*
 * **[GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search)** - *TV / Anime*
 * **[CouchTuner](https://www.couchtuner.host/)** - *TV* 
+* [MobileTVShows](https://www.mobiletvshows.net/) - *TV / Anime*
 * [OnlySeries](https://onlyseries.net/) - *TV*
 * [MyWatchSeries](https://www5.mywatchseries.stream/) - *TV / Anime* 
 * [KissTVShow](https://kisstvshow.to/) - *Asian TV Shows / Subtitles*   
@@ -296,6 +298,7 @@
 * [NetAnime](https://netanime.tv/) - *Sub / Dub* 
 * [tenshi.moe](https://tenshi.moe/) - *Sub / Dub* 
 * [AnimeFrenzy](https://animefrenzy.org/) - *Sub* 
+* [AnimeXin](https://animexin.info/) - *Sub*
 * [AnimeSuge](https://animesuge.io/) - *Sub / Dub* 
 * [Anime Simple](https://ww1.animesimple.com/) - *Sub / Dub*
 * [AniWatcher](https://aniwatcher.com/) - *Sub / Dub*
@@ -353,7 +356,9 @@
 * **[Jackal](https://jackal.surge.sh/)** - *TV / Sports*
 * **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [2](https://github.com/iptv-org/iptv) - *IPTV Resources / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists)*
 * [Black Tie Sports](https://blacktiesports.net/) - *Sports* 
+* [TOTV](http://totv.org/) - *TV / Sport*
 * [123TV](http://123tv.live/) - *TV / Sports*
+* [WatchNewsLive](https://watchnewslive.tv/) - *TV / Sports*
 * [streamlive](https://www.streamlive.to/) - *TV / Sports*
 * [ChannelSurf](https://channelsurf.tv/) - *TV / Sports*
 * [First Row Sports](https://firstsrowsports.tv/) - *Sports*
@@ -455,6 +460,7 @@
 * [My Duck Is Dead](http://www.myduckisdead.org/) - *Rare Movies / NSFW* 
 * [Reviviendo Viejas Joyas](https://reviviendoviejasjoyas.blogspot.com/) - *Rare Movies / Stop Pages from Loading to use w/o Account* 
 * [AxeMovies](https://axemovies.xyz/) - *Movies*
+* [MobileTVShows](https://www.mobiletvshows.net/) - *TV / Anime*
 * [MoviesforDiscord](https://discord.movies4discord.xyz/) - *Movie Streaming / Download Bot / [Website](https://movies4discord.xyz/)*
 * [Medeberiyaa](https://medeberiyaa.com/) - *Movies / TV / Anime*
 * [PSARips](https://psarips.uk/) or [x265.club](https://x265.club/) - *Movies / TV / [Scraper](https://github.com/NandiyaLive/PSALinkGrabber) / [IMDb Titles](https://github.com/ni554n/userscripts/tree/master/psarips-replace-post-titles-with-imdb-links)* 
@@ -487,6 +493,7 @@
 * [MiCineHD](https://www.micinehd.com/) - *Movies / TV* 
 * [MoviesVerse](https://moviesverse.net/) - *Movies / TV*
 * [TVindexer](https://tvindexer.com/) - *Movies / TV / Anime*
+* [Movies Mobile](https://mobilemovies.info/index.php?dir=Hollywood%20Movies) - *Movies*
 * [SeriesVault](https://seriesvault.tk/) - *TV* 
 * [MoviezAddiction](https://moviezaddiction.me/) - *Movies / TV* 
 * [10StarHD](https://10starhd.run/category/hollywood-movies/) - *Movies*
@@ -501,6 +508,7 @@
 * [Go-Movie](http://go-movie.ru/) - *Movies*
 * [ULMovies](https://ulmovies.xyz/) - *Movies / TV* 
 * [SBS](https://3dsbs4u.com/) - *Movies / TV*
+* [7Moviesrulz](https://7movierulz.se/category/hollywood-movie-2021/) - *Movies*
 * [oKhatrimaza](https://www.okhatrimaza.vin/category/7/hollywood-english-movies/default/1.html) - *Movies*
 * [SD Movies Point](https://1sdmoviespoint.kim/category/hollywooddd/) - *Movies / TV*
 * [SkyMoviesHD](https://skymovieshd.cam/category/Hollywood-English-Movies.html) - *Movies*
