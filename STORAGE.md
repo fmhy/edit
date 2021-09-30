@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/ancie65.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/jgJYTUX.png)** - *For mobile users*
 
 ***
 ***
@@ -461,7 +461,7 @@
 
 #### File Recovery Tools
 
-[ZAR Recovery](https://www.z-a-recovery.com/), [R-Undelete](https://www.r-undelete.com/Download.shtml), [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec), [StellarInfo](https://www.stellarinfo.com/free-data-recovery.php), [Windows File Recovery](https://www.microsoft.com/en-us/p/windows-file-recovery/9n26s50ln705), [DMDE](https://dmde.com/download.html), [Recuva](https://www.ccleaner.com/recuva), [TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Download) 
+[ZAR Recovery](https://www.z-a-recovery.com/), [R-Undelete](https://www.r-undelete.com/Download.shtml), [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec), [StellarInfo](https://filecr.com/?s=Stellar+Data+Recovery), [Windows File Recovery](https://www.microsoft.com/en-us/p/windows-file-recovery/9n26s50ln705), [DMDE](https://dmde.com/download.html), [Recuva](https://www.ccleaner.com/recuva), [TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Download) 
 
 ***
 
@@ -683,7 +683,7 @@
 
 #### IPTV Playlists
 
-[HLS Cat](https://hlscat.com/), [Sneh IPTV](https://github.com/techiesneh/sneh-iptv-m3u), [IPTVCat](https://iptvcat.net/), [DailyIPTVList](https://www.dailyiptvlist.com/ip-tv/), [AllIPTV](https://www.alliptvlinks.com/), [CCcam](https://cccamiptv.cc/), [TVLab](https://t.me/tvlab), [IPTV_Sport](https://t.me/iptv_sport)
+[HLS Cat](https://hlscat.com/), [Sneh IPTV](https://github.com/techiesneh/sneh-iptv-m3u), [IPTVCat](https://iptvcat.net/), [DailyIPTVList](https://www.dailyiptvlist.com/ip-tv/), [AllIPTV](https://www.alliptvlinks.com/), [CCcam](https://cccamiptv.cc/), [TVLab](https://t.me/tvlab), [IPTV_Sport](https://t.me/iptv_sport), [Leaksat](https://leaksat.com/category/free-iptv/)
 
 ****
 
@@ -939,7 +939,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Sites / Programs**
 
-**[9xbuddy](https://9xbuddy.org/)**, [savieo](https://savieo.com/), [AllTube Download](https://alltubedownload.net/), [grabanymedia](https://grabanymedia.altervista.org/), [Ripsave](https://ripsave.com/), [KeepSaveIT](http://keepsaveit.com/), [TubeOffline](https://www.tubeoffline.com/), [clipconverter](https://www.clipconverter.cc/2/), [clipgrab](https://clipgrab.org/), [4kdownload](https://www.4kdownload.com/), [bitdownloader](https://bitdownloader.io/), [you-get](https://you-get.org/), [annie](https://github.com/iawia002/annie), [catchvideo](https://catchvideo.net/), [HackDownload](https://hackdownloader.com/), [DistillVideo](https://distillvideo.com/), [Catch-Tube](https://catch.tube/), [SaveVideo.me](http://savevideo.me/?lang=en), [LocoDownloader](https://locoloader.com/), [Yout](https://yout.com/), [Keepv.id](https://keepv.id/), [downloader-ui](https://github.com/Mqlhaha/downloader-ui), [connectvip](https://connectvip.store/), [Vividl](https://vividl.sourceforge.io/), [ddownloader](https://ddownloader.com/), [pastedownload](https://pastedownload.com/), [weibomiaopai](https://weibomiaopai.com/download-video-parser.php)
+**[9xbuddy](https://9xbuddy.org/)**, [savieo](https://savieo.com/), [AllTube Download](https://alltubedownload.net/), [grabanymedia](https://grabanymedia.altervista.org/), [Ripsave](https://ripsave.com/), [KeepSaveIT](http://keepsaveit.com/), [TubeOffline](https://www.tubeoffline.com/), [clipconverter](https://www.clipconverter.cc/2/), [clipgrab](https://clipgrab.org/), [4kdownload](https://www.4kdownload.com/), [bitdownloader](https://bitdownloader.io/), [you-get](https://you-get.org/), [annie](https://github.com/iawia002/annie), [catchvideo](https://catchvideo.net/), [HackDownload](https://hackdownloader.com/), [DistillVideo](https://distillvideo.com/), [Catch-Tube](https://catch.tube/), [SaveVideo.me](http://savevideo.me/?lang=en), [LocoDownloader](https://locoloader.com/), [Yout](https://yout.com/), [Keepv.id](https://keepv.id/), [downloader-ui](https://github.com/Mqlhaha/downloader-ui), [connectvip](https://connectvip.store/), [Vividl](https://vividl.sourceforge.io/), [ddownloader](https://ddownloader.com/), [pastedownload](https://pastedownload.com/), [weibomiaopai](https://weibomiaopai.com/download-video-parser.php), [gramvio](https://www.gramvio.com/)
 
 **Telegrams** 
 
@@ -1053,7 +1053,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Open Source Intelligence Indexes
 
-**[Awesome OSINT](https://github.com/jivoi/awesome-osint)**, **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)**, [OSINT Framework](https://osintframework.com/), [OSINT Essentials](https://www.osintessentials.com/), [OSINT Collection](https://github.com/Ph055a/OSINT_Collection), [OSINT Sources](https://github.com/imuledx/OSINT_sources), [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools), [OSINT Recherche](https://atlas.mindmup.com/digintel/digital_intelligence_training/index.html), [Open Source Intelligence](https://start.me/p/gy0NXp/open-source-intelligence-osint), [geoint](https://start.me/p/W1kDAj/geoint), [OSINT Tools](https://start.me/p/wMdQMQ/tools), [Sector035](https://sector035.nl/links), [Nixintel's OSINT](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list), [datajournalism-resources](https://github.com/r3mlab/datajournalism-resources/blob/master/README.md), [UK-OSINT](https://www.uk-osint.net/index.html), [OSINTGeek](https://osintgeek.de/tools), [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT), [Hackers Arise OSINT](https://www.hackers-arise.com/osint)
+**[Awesome OSINT](https://github.com/jivoi/awesome-osint)**, **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)**, [OSINT Framework](https://osintframework.com/), [OSINT Essentials](https://www.osintessentials.com/), [OSINT Collection](https://github.com/Ph055a/OSINT_Collection), [OSINT Sources](https://github.com/imuledx/OSINT_sources), [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools), [OSINT Recherche](https://atlas.mindmup.com/digintel/digital_intelligence_training/index.html), [Open Source Intelligence](https://start.me/p/gy0NXp/open-source-intelligence-osint), [geoint](https://start.me/p/W1kDAj/geoint), [OSINT Tools](https://start.me/p/wMdQMQ/tools), [Sector035](https://sector035.nl/links), [Nixintel's OSINT](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list), [datajournalism-resources](https://github.com/r3mlab/datajournalism-resources/blob/master/README.md), [UK-OSINT](https://www.uk-osint.net/index.html), [OSINTGeek](https://osintgeek.de/tools), [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT), [Hackers Arise OSINT](https://www.hackers-arise.com/osint), [osint.link](https://osint.link/), [osinttechniques](https://www.osinttechniques.com/osint-tools.html), [Ressources](https://github.com/tzkuat/Ressources/blob/master/OSINT.md), [whatisosint](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it), [netbootcamp](https://netbootcamp.org/osinttools/), [300m](https://300m.com/osint/), [einvestigator](https://www.einvestigator.com/open-source-intelligence-tools/), [researchclinic](http://researchclinic.net/), [toddington](https://www.toddington.com/resources/tii-free-resources-knowledge-base/), [reuser](http://rr.reuser.biz/), [booleanstrings](https://booleanstrings.com/tools/), [coreysdigs](https://www.coreysdigs.com/take-action/must-have-tools-for-digging-videos-podcasts/)
 
 ***
 
@@ -1330,6 +1330,7 @@ Add the following commands to a search to manually scrape each site.
 * http://www.querojogar.com.br/
 * https://www.tucajogos.com.br/
 * https://lagged.com.br/
+* https://www.jogosonlinewx.com.br/
 
 ***
 
@@ -1372,6 +1373,15 @@ Add the following commands to a search to manually scrape each site.
 #### Privacy Tools
 
 **[Privacy Tools](https://www.privacytools.io/)**, **[Prism-Break](https://prism-break.org/)**, [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting), [Awesome Privacy](https://github.com/pluja/awesome-privacy), [online-tools-for-the-pandemic](https://etherpad.wikimedia.org/p/online-tools-for-the-pandemic), [Privacy Tools List](https://privacytoolslist.com/), [Snopyta](https://snopyta.org/), [Hostux](https://hostux.network/), [Security List](https://security-list.js.org/), [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy), [Thunix](https://thunix.net/), [Zero Data App](https://0data.app/), [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/), [Alternative Internet](https://github.com/redecentralize/alternative-internet), [silkky.cloud](https://silkky.cloud/), [EPIC](https://www.epic.org/privacy/tools.html), [Techxodus](https://wiki.techxodus.org/en/home)
+
+*** 
+
+#### PS4 Roms
+
+* [PS4 bitdl.ir](http://s21.bitdl.ir/), [2](http://s22.bitdl.ir/), [3](http://s23.bitdl.ir/), [4](http://s24.bitdl.ir/), [5](http://s25.bitdl.ir/), [6](http://s26.bitdl.ir/)
+* [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/)
+* [PS4.td](https://ps4.td-index.workers.dev/0:/)
+* [PS4 ISO](https://www.ps4iso.net/)
 
 ***
 
@@ -1937,6 +1947,7 @@ Add the following commands to a search to manually scrape each site.
 * [From Text to Speech](http://www.fromtexttospeech.com/) 
 * [Text To Speech](https://texttospeech.ca/)
 * [ttsMP3](https://ttsmp3.com/)
+* [Spik](https://www.spik.ai/)
 * [Vo.codes](https://vo.codes/)
 * [Uberduck](https://uberduck.ai/) / [Discord](https://discord.gg/ATYWnMu)
 * [readloud](https://readloud.net/)
@@ -2048,7 +2059,7 @@ Add the following commands to a search to manually scrape each site.
 
 ####  Video Stream Sync
 
-[SyncPlay](https://syncplay.pl/), [CyTube](https://cytu.be/), [HyperBeam](https://hyperbeam.com/), [Kast](https://kast.gg/), [Gaze](https://letsgaze.com/), [twoseven](https://twoseven.xyz/), [andchill](https://andchill.tv/), [Metastream](https://getmetastream.com/), [Trast](https://trast.live/), [togethertube](https://togethertube.com/), [Watch2Gether](https://w2g.tv/), [Vynchronize](https://vynchronize.herokuapp.com/), [SyncTube](https://sync-tube.de/), [Kosmi](https://kosmi.io/), [Invited.tv](https://invited.tv/), [Caracal Club](https://caracal.club/), [Primewire Watch Parties](https://www.primewire.li/watch-parties), [Movata](https://movata.cc/) (Discord), [baked.live](http://baked.live/), [neko](https://github.com/nurdism/neko), [Surge](https://surge.live/)
+[SyncPlay](https://syncplay.pl/), [CyTube](https://cytu.be/), [HyperBeam](https://hyperbeam.com/), [Kast](https://kast.gg/), [Gaze](https://letsgaze.com/), [twoseven](https://twoseven.xyz/), [andchill](https://andchill.tv/), [Metastream](https://getmetastream.com/), [Trast](https://trast.live/), [togethertube](https://togethertube.com/), [Watch2Gether](https://w2g.tv/), [Vynchronize](https://vynchronize.herokuapp.com/), [SyncTube](https://sync-tube.de/), [Kosmi](https://kosmi.io/), [Invited.tv](https://invited.tv/), [Caracal Club](https://caracal.club/), [Primewire](https://www.primewire.li/watch-parties), [Movata](https://movata.cc/) (Discord), [baked.live](http://baked.live/), [neko](https://github.com/nurdism/neko), [Surge](https://surge.live/), [Giggl](https://giggl.app/)
 
 ***
 
@@ -2155,7 +2166,7 @@ Good for finding classic, obscure & short films.
 
 #### Windows 10 Debloater
 
-[Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/), [win10script](https://github.com/ChrisTitusTech/win10script) / [2](https://christitus.com/debloat-windows-10-2020/), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [CleanWin](https://github.com/pratyakshm/cleanwin), [QuickBoost](https://github.com/SanGraphic/QuickBoost), [Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier)
+[Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/), [win10script](https://github.com/ChrisTitusTech/win10script) / [2](https://christitus.com/debloat-windows-10-2020/), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [CleanWin](https://github.com/pratyakshm/cleanwin), [QuickBoost](https://github.com/SanGraphic/QuickBoost), [Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier), [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script)
 
 ***
 
@@ -2259,7 +2270,7 @@ Good for finding classic, obscure & short films.
 
 #### YouTube to MP3
 
-**[YouTube-DL](https://github.com/ytdl-org/youtube-dl)**, **[YT-DLP](https://github.com/yt-dlp/yt-dlp)**, **[YTMDL](https://ytmdl.deepjyoti30.dev/)** / [GitHub](https://github.com/deepjyoti30/ytmdl), [Gramophy](https://github.com/rnayabed/gramophy), [MP3 YouTube](https://mp3-youtube.download/en/audio-easy-converter), [youtubetomp3music](https://youtubetomp3music.com/), [YTMP3](https://ytmp3.cc/), [ddownr](https://ddownr.com/), [mps-youtube](https://github.com/mps-youtube/mps-youtube), [Spotify-Downloader](https://github.com/spotDL/spotify-downloader), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [YouTube to MP3 Converter](https://www.mediahuman.com/youtube-to-mp3-converter/), [loader](https://loader.to/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [DeURL](http://deturl.com/), [Yout](https://yout.com/), [FLVto](https://www.flvto.biz/en83/), [FreeMake](https://www.freemake.com/free_video_downloader/), [AudioJack](http://blue9.github.io/AudioJack-GUI/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [YouTubeMultiDownloader](https://youtubemultidownloader.net/index.html), [onlinevideoconverter](https://onlinevideoconverter.pro/), [kharasach](http://www.kharasach.com/), [yt-mp3s](https://www.yt-mp3s.com/), [savemp3](https://savemp3.cc/), [mp3youtubeconverter](https://mp3youtubeconverter.org/), [mp3snow](http://mp3snow.com/), [ytmp3](https://ytmp3.eu/)
+**[YouTube-DL](https://github.com/ytdl-org/youtube-dl)**, **[YT-DLP](https://github.com/yt-dlp/yt-dlp)**, **[YTMDL](https://ytmdl.deepjyoti30.dev/)** / [GitHub](https://github.com/deepjyoti30/ytmdl), [Gramophy](https://github.com/rnayabed/gramophy), [MP3 YouTube](https://mp3-youtube.download/en/audio-easy-converter), [youtubetomp3music](https://youtubetomp3music.com/), [YTMP3](https://ytmp3.cc/), [ddownr](https://ddownr.com/), [mps-youtube](https://github.com/mps-youtube/mps-youtube), [Spotify-Downloader](https://github.com/spotDL/spotify-downloader), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [YouTube to MP3 Converter](https://www.mediahuman.com/youtube-to-mp3-converter/), [loader](https://loader.to/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [DeURL](http://deturl.com/), [Yout](https://yout.com/), [FLVto](https://www.flvto.biz/en83/), [FreeMake](https://www.freemake.com/free_video_downloader/), [AudioJack](http://blue9.github.io/AudioJack-GUI/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [YouTubeMultiDownloader](https://youtubemultidownloader.net/index.html), [onlinevideoconverter](https://onlinevideoconverter.pro/), [kharasach](http://www.kharasach.com/), [yt-mp3s](https://www.yt-mp3s.com/), [savemp3](https://savemp3.cc/), [mp3youtubeconverter](https://mp3youtubeconverter.org/), [mp3snow](http://mp3snow.com/), [ytmp3](https://ytmp3.eu/), [mp3fy](https://mp3fy.com/en37/), [youtubeplaylist](https://youtubeplaylist.cc/), [y2mate](https://en.y2mate.guru/), [odownloader](https://odownloader.com/), [musicmp3](https://musicmp3.ru/), [y2mp3](https://www.y2mp3.net/), [mp3quack](https://mp3quack.wiki/)
 
 **YT-DL Tools**
 
@@ -2272,11 +2283,12 @@ Good for finding classic, obscure & short films.
 
 #### YouTube Video Downloaders
 
-**[YT-DL](https://github.com/ytdl-org/youtube-dl)**, **[YT-DLP](https://github.com/yt-dlp/yt-dlp)**, [ytmp3](https://ytmp3.cc), [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader), [Tartube](https://github.com/axcore/tartube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [Youtube Video Downloader](https://github.com/OmarAflak/Youtube-Video-Downloader), [YouTube MP4](https://youtubemp4.to/), [DeURL](http://deturl.com/), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [LocoDownloader](https://locoloader.com/), [FLVto](https://www.flvto.biz/en80/), [FreeMake](https://www.freemake.com/free_video_downloader/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [onlinevideoconverter](https://onlinevideoconverter.pro/), [projectlounge ytdl](https://projectlounge.pw/ytdl), [kharasach](http://www.kharasach.com/), [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader), [savemp3](https://savemp3.cc/), [mp3youtubeconverter](https://mp3youtubeconverter.org/)
+**[YT-DL](https://github.com/ytdl-org/youtube-dl)**, **[YT-DLP](https://github.com/yt-dlp/yt-dlp)**, [ytmp3](https://ytmp3.cc), [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader), [Tartube](https://github.com/axcore/tartube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [Youtube Video Downloader](https://github.com/OmarAflak/Youtube-Video-Downloader), [YouTube MP4](https://youtubemp4.to/), [DeURL](http://deturl.com/), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [LocoDownloader](https://locoloader.com/), [FLVto](https://www.flvto.biz/en80/), [FreeMake](https://www.freemake.com/free_video_downloader/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [onlinevideoconverter](https://onlinevideoconverter.pro/), [projectlounge ytdl](https://projectlounge.pw/ytdl), [kharasach](http://www.kharasach.com/), [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader), [savemp3](https://savemp3.cc/), [mp3youtubeconverter](https://mp3youtubeconverter.org/), [y2mate](https://en.y2mate.guru/), [odownloader](https://odownloader.com/)
 
 **Playlists**
 
-[Loader](https://loader.to/), [YouTubeMultiDownloader](https://youtubemultidownloader.net/index.html), [KeepVid](https://keepvid.works/), [ddownr](https://ddownr.com/)
+[Loader](https://loader.to/), [YouTubeMultiDownloader](https://youtubemultidownloader.net/index.html), [KeepVid](https://keepvid.works/), [ddownr](https://ddownr.com/), [youtubeplaylist](https://youtubeplaylist.cc/)
+
 
 **YT-DL Tools**
 
