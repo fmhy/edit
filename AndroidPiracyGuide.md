@@ -624,7 +624,7 @@ RSS Player*
 * [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303) or [NetNewsWire](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210) - *RSS Reader*
 * [Grffe](https://apps.apple.com/ca/app/grffe-wallpapers/id1521368829) - *Static and Live Backgrounds* 
 * [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - *Wallpapers*
-* [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - *Default iOS Wallpapers*
+* [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/), [2](https://photos.google.com/share/AF1QipNi8VN2pw2Ya_xCV8eFgzEZmiXDy1-GwhXbqFtvXoH3HypF10as9puV8FdoVZpOZA?key=WkZjQTIxQTM5a01oZkNUYTE2ZllKTVJKZk1CMTR3) - *Default iOS Wallpapers*
 * [PicsArt++](https://cokernutx.com/ipa-library/download/PicsArt.html) or [PhotoWizard](https://apps.apple.com/us/app/photowizard-photo-editor/id370833324) - *Photo Editor*
 * [Iterm](https://github.com/kaneki07/iterm) - *Terminal Emulator*
 * [Universal Control](https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879) - *Universal Remote*
