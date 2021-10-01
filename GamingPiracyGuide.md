@@ -106,6 +106,7 @@
 * [GamesTorrents](https://www.gamestorrents.nu/)
 * [Free GoG PC Games](https://freegogpcgames.com/)
 * [Dirty Games](https://www.dirtygames.xyz/)
+* [GidOfGames](https://gidofgames.com/)
 * [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win/)
@@ -228,6 +229,7 @@
 * [ps2pressprotos](https://archive.org/details/ps2pressprotos) - *PS2 Press Discs & Prototypes*
 * [PS4 Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ps4_roms) - *Roms / PS4*
 * [NoPayStation](https://nopaystation.com/) or [PSNDL](https://psndl.net/) - *Roms / Sony Consoles*
+* [PSP Collection](https://archive.org/details/rr-sony-playstation-portable ) - *Roms / PSP*
 * [psp.hm7.moe](https://psp.hm7.moe/) - *Modded PSP Collection* 
 * [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) - *Roms / Wii U*
 * [WiiWare Collection](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) - *Roms / WiiWare*
@@ -246,6 +248,7 @@
 * [Stop Spamming ](http://danswer.stopspamming.net/sega/) - *Roms / Sega*
 * [Dreamcast Collection](https://archive.org/details/almstcmpltdrmcst) - *Roms / Dreamcast*
 * [Sega Saturn Collection](https://archive.org/details/SgaStrnCmplt) - *Roms / Sega Saturn*
+* [Sega CD Champion Collection](https://archive.org/details/SegaCDCollection) - *Roms / Sega CD*
 * [3DO Roms](https://archive.org/details/3DO_2017_Reference_Set_Redump_Validated_ROMs), [2](https://archive.org/details/Panasonic-3DO-Redump.org-2019-05-14) - *Roms / 3DO*
 * [datcheck](https://github.com/pkos/datcheck) - *Compare No-Intro / Redump dat files to rom or disc collection* 
 * [HiddenPalace](https://hiddenpalace.org/) - *Game Development Media Archive*
