@@ -284,6 +284,7 @@
 * [/r/Space](https://reddit.com/r/Space) - *Space Subreddit*
 * [Space.com](https://www.space.com/) - *Space News*
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://drive.google.com/drive/folders/0B1ySOrPxOWJmZGlNTkEtQnlEM3M) - *Astronomy Books*
+* [The Universe Through Time](https://i.imgur.com/A2C6Vpc.jpeg) - *Universe Timeline*
 * [Space Dashboard](https://spacedashboard.com/) - *Space Live Stream Dashboard* 
 * [ISS Sim](https://iss-sim.spacex.com/) - *ISS Docking Simulator* 
 * [Satellite Imagery](https://rammb-slider.cira.colostate.edu/) - *Satellite Imagery GOES-16*
@@ -292,7 +293,7 @@
 * [Interactive Apollo Missions](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - *Apollo in Realtime* 
 * [Moon.Nasa](https://moon.nasa.gov/) - *Explore the Moon* 
 * [Earth and Moon Viewer](http://www.fourmilab.ch/cgi-bin/Earth) - *Earth / Moon Latitude & Longitude Viewer*
-* [SunCalc](https://www.suncalc.org/) or [MoonCalc](https://www.mooncalc.org/) - *Sun & Moon Position / Phase Calculators* 
+* [SunCalc](https://www.suncalc.org/), [ShadowCalculator](http://shadowcalculator.eu/), [FindMyShadow](https://www.findmyshadow.com/) or [MoonCalc](https://www.mooncalc.org/) - *Sun & Moon Position / Phase Calculators* 
 * [SDO Dashboard](https://sdo.gsfc.nasa.gov/data/dashboard/) - *Live Sun Feed*
 * [CelesTrack](https://celestrak.com/) - *Earth Orbit Visualization*
 * [Mars Explorer](https://mars-explorer.dhaiwatpandya.com/) - *Curiosity Rover Pictures*
@@ -424,6 +425,7 @@
 * [AuthorStream](http://www.authorstream.com/) or [Slideshare](https://www.slideshare.net/) - *Watch / Share Slideshows & Presentations* 
 * [Periodic Stats](https://periodicstats.com/), [The Periodic Table Of Elements](https://periodictableofchemicalelements.com/), [3D Periodic Table](https://artsexperiments.withgoogle.com/periodic-table/) or [Ptable](https://ptable.com/) - *Interactive Periodic Table* 
 * [Images-Of-Elements](https://images-of-elements.com/) - *Periodic Table With Images*
+* [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
 * [Retrosynthesis](http://retrosynthesis.com/) - *Organic Retrosynthesis Engine / [GitHub](https://github.com/sudo-rushil/odachi)*
 * [amrita olabs](https://amrita.olabs.edu.in/) - *Science Practicals / Theory / Animations / Simulations* 
 * [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) - *Homework Help* 
