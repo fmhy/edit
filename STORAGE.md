@@ -552,7 +552,6 @@
 #### GoldMovies Clones
 
 * [CMovies](https://cmovies.ac/)
-* [Series9](https://www4.series9.ac/)
 * [123Movies.show](https://www.123movie.show/)
 * [WWatchSeries](https://wwatchseries.com/)
 * [YesMovies.sx](https://yesmovies.sx/)
