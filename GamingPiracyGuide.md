@@ -150,6 +150,7 @@
 * [EdgeEmulation](https://edgeemu.net/) - *Roms*
 * [RomsForever](https://romsforever.co/) - *Roms* 
 * [Replayers](https://replayers.org/) - *Roms*
+* [Rom Nation](https://www.romnation.net/) - *Roms*
 * [GLoad](https://gload.to/) - *Roms*
 * [WowRoms](https://wowroms.com/en/) - *Roms*
 * [RomsFun](https://romsfun.com/) - *Roms*
@@ -162,6 +163,7 @@
 * [LoveRoms](https://www.loveroms.online/) - *Roms* 
 * [FantasyAnime](https://fantasyanime.com/) - *Roms* 
 * [Emulanium](http://www.emulanium.com/roms.php) - *Roms*
+* [NesGM](https://nesgm.net/) - *Roms / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)*
 * [Ziperto](https://ziperto.com/) - *Roms*
 * [ROM World](http://www.romworldonline.com/) - *Roms / [How-to](https://i.imgur.com/Mqab82O.png)*
 * [LegendaryRepacks](http://legendaryrepacks.simplesite.com/) - *Roms / [Discord](https://discord.gg/RUSNHSk) / Adblock & Universal Bypass Required*
@@ -534,7 +536,7 @@
 
 * [skribbl](https://skribbl.io/) or [Gartic](https://gartic.io/) - *Drawing / Guessing Game / Multiplayer*
 * [GuessMe!](https://cer0zz.itch.io/guessme) - *Guess Answers*
-* [GeoGuessr](https://www.geoguessr.com/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - *Location Guessing Game*
+* [GeoGuessr](https://www.geoguessr.com/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - *Location Guessing Game / [Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) / [Twitch Chat Bot](https://chatguessr.com/)*
 * [City Guesser](https://virtualvacation.us/guess) - *City Guessing Game* 
 * [English Sandwhich](https://englishsandwich.github.io/) - *Guess Where Dishes are From*
 * [LanguageGuesser](https://languageguesser.com/) - *Guess Music Video Languages* 
