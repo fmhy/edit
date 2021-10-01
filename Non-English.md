@@ -674,6 +674,7 @@
 * [SalamDL](https://salamdl.me/) - *Movies / TV* 
 * [ValaMovie](https://valamovie.club/) - *Movies / TV* 
 * [Tik-Film](https://tik-film.com/) - *Movies / TV* 
+* [parsmovies](http://dl3.parsmovies.net/Movie/) - *Movies*
 * [NamaDL](http://namadl.ir/) - *Movies / TV* 
 * [GeMovie](https://gemovie.ir/) - *Movies / TV / Anime* 
 * [GanjDL](http://www.ganjdl.ir/) - *Movies / TV* 
