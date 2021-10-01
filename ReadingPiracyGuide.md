@@ -400,7 +400,7 @@
 * [The Eldritch Dark](http://www.eldritchdark.com/) - *Clark Ashton Smith*
 * [The Anarchist Library](http://theanarchistlibrary.org/special/index) - *Anarchism*
 * [Archive.Leftove.rs](https://archive.leftove.rs/) - *Protest Documents*
-* [Marxists Internet Archive](https://www.marxists.org/) - *Socialism / Communism / [.onion](http://marxist7mbr3mbaj.onion/)*
+* [Marxists Internet Archive](https://www.marxists.org/) - *Socialism / Communism*
 * [Liberation School](https://liberationschool.org/) - *Communism*
 * [libcom](https://libcom.org/library) - *Libertarian Communism* 
 * [Library of Liberty](https://oll.libertyfund.org/) - *Liberty / Free Market*
