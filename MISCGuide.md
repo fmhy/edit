@@ -20,9 +20,9 @@
 * **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)** - *List Index*
 * **[lists](https://github.com/jnv/lists)** - *List Index* 
 * **[Curlie](https://curlie.org/)** - *Topic Directory* 
+* **[Esoterica Avenue](https://ori5000.github.io/)** - *Software & Games Megathread / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)* 
 * **[The Scene](https://github.com/DRSDavidSoft/Warez)** - *Warez topics, Discussions & Tools / [Discord](https://discord.me/CHEF-KOCH)*
 * **[Open Source Intelligence Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_source_intelligence_indexes)**
-* [Esoterica Avenue](https://ori5000.github.io/) - *Software & Games Megathread / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)* 
 * [Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - *Find Software / App Alternatives* 
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - *Open Source Software Indexes*
 * [Awesome Clones](https://github.com/Envoy-VC/awesome-clones) - *Open Source Clones of Popular Sites*
@@ -136,6 +136,7 @@
 * [The MegaDrive](https://discord.gg/FQ6EaprXyr) - *Piracy / DataHoarding Discussion*
 * [/r/AnimePiracy Discord](https://discord.gg/piracy)
 * [Pirated Games Discussion](https://github.com/taskylizard/piratedgames-megathread/discussions/3) - *Game Piracy Discussion*
+* [Gamesurge](https://gamesurge.net/) - *Gaming IRC Community*
 * [RipRequests](https://reddit.com/r/riprequests) - *FLAC / MP3 / Ripping Discussion / [Discord](https://discord.gg/y4MSkdvWYg)*
 * [GenP](https://www.reddit.com/r/GenP) - *Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)*
 * [Torrent Community](https://t.me/TorrentCommunity) - *Telegram*
@@ -205,6 +206,7 @@
 * **[Live Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)** - *Watch Live Webcams*
 * **[HeyFromTheFuture](https://heyfromthefuture.com/)** - *What People Wish they knew at your Age*
 * **[LMGTFY](http://www.lmgtfy.com/)**, [Just Google](https://www.just-google.it/), [Just Fucking Google](https://www.just-fucking-google.it/) or [GIYBF](http://giybf.com/) - *Remind People that Google Exists* 
+* **[Fucking Homepage](https://fuckinghomepage.com/)** - *Daily Interesting Stuff Homepage*
 * **[The GIF Pronunciation Page](http://www.olsenhome.com/gif/)** - *How to Pronouce "GIF"*
 * **[PointerPointer](https://pointerpointer.com/)** - *Get Your Pointer Pointed At* 
 * **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - *Realistic-Looking Fake Versions of Things* 
@@ -230,7 +232,7 @@
 * [Brickit](https://brickit.app/) - *Scan Lego Collection for Build Ideas*
 * [Building Instructions](https://www.lego.com/en-us/service/buildinginstructions) - *Download Lego Instructions*
 * [Outside Simulator](https://outsidesimulator.com/) - *Simulate Being Outside* 
-* [Travel Remotely](https://travel-remotely.netlify.app/) or [Virtual Vacations](https://virtualvacation.us/videarth.html) - *Traveling Simulator* 
+* [Travel Remotely](https://travel-remotely.netlify.app/) or [Virtual Vacations](https://virtualvacation.us/) - *Traveling Simulator* 
 * [stringers.live](https://stringers.live/) - *Live Freelance Journalist Streams*
 * [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - *Open Random Windows*
 * [BigPixel](http://en.bigpixel.cn/) - *Giant Zoomable Photos*
@@ -354,7 +356,6 @@
 * [Moments of Happiness](https://moments.epic.net/) - *Animated WebGL Animals*
 * [Planet](http://oskarstalberg.com/game/planet/planet.html) - *Planet Creator*
 * [What Happened in my Birthyear](http://whathappenedinmybirthyear.com/) - *Find out what happened on your birthyear* 
-* [Fucking Homepage](https://fuckinghomepage.com/) - *Daily Interesting Stuff Homepage*
 * [WTM](https://whatthemovie.com/) - *Guess Movie from Screenshot* 
 * [Kittenwar!](http://www.kittenwar.com/) - *Rate Kittens*
 * [Click Brawl](https://clickbrawl.com/eternal-fight) - *Collaborative Click Wars*
@@ -428,7 +429,7 @@
 * [Awesome Go/Baduk/Weiqi](https://github.com/yanchick/awesome-GoBadukWeiqi) - *Go/Baduk/Weiqi Resource Index* 
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - *Unused Video Game Content Research*
 * [Bibliotheca Anonoma](https://bibanon.org/) - *Internet Folklife Wiki / [Discord](https://discord.com/invite/3jxxGDC)*
-* [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion), [BibAnon](http://vyrd.bibanon.org/), [4Museum](https://4museum.neocities.org/), [arch.b4k](https://arch.b4k.co/) or [Sup/tg/](http://suptg.thisisnotatrueending.com/)  - *4Chan Archive*
+* [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion), [BibAnon](http://vyrd.bibanon.org/), [4Museum](https://4museum.neocities.org/), [Archive.4plebs](https://archive.4plebs.org/), [arch.b4k](https://arch.b4k.co/) or [Sup/tg/](http://suptg.thisisnotatrueending.com/)  - *4Chan Archive*
 * [Zoomquilt2](http://zoomquilt2.com/) or [Arkadia](http://arkadia.xyz/) - *Infinite Zooming Painting* 
 * [Mirage Gallery](https://www.miragegallery.ai/) - *AI Art Gallery* 
 * [Virtual World List](https://virtualworldslist.neocities.org/) - *Virtual World List*
@@ -474,6 +475,7 @@
 * [Google Alerts](https://www.google.com/alerts) - *News Alerts by Topics*
 * [PublicAlerts](https://google.org/publicalerts) - *Important News / Disaster Alerts*
 * [GHacks](https://www.ghacks.net/), [Geeks3D](https://www.geeks3d.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
+* [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/) - *News*
 * [Interactive News Map](https://usa.liveuamap.com/) - *Geolocated News Alerts / Headlines U.S* 
 * [Forekast](https://forekast.com/) - *Worldwide Event Calendar* 
 * [Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspaper_sites) - *Read & Download Newspapers*
@@ -540,7 +542,7 @@
 
 # ► Maps
 
-* **[DuckDuckGo](https://duckduckgo.com/?q=maps&ia=web&iaxm=maps)**, [Yandex](https://yandex.com/maps/), [Google](https://www.google.com/maps/), [Bing](https://www.bing.com/maps), [Wego.Here](https://wego.here.com/), [Terrafly](http://www.terrafly.com/) or [OrganicMaps](https://organicmaps.app/) - *Maps, Satellite & Street Views* 
+* **[DuckDuckGo](https://duckduckgo.com/?q=maps&ia=web&iaxm=maps)**, [Yandex](https://yandex.com/maps/), [Google](https://www.google.com/maps/), [Bing](https://www.bing.com/maps), [Wego.Here](https://wego.here.com/), [Terrafly](http://www.terrafly.com/), [EarthExplorer](https://earthexplorer.usgs.gov/) or [OrganicMaps](https://organicmaps.app/) - *Maps, Satellite & Street Views* 
 * **[OpenStreetMap](https://www.openstreetmap.org/)** - *Street Map* 
 * [Atlas Obscura](https://www.atlasobscura.com/) - *Travel Guidebook / Maps*
 * [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - *Earth Viewer*
@@ -592,6 +594,9 @@
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - *Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)*
 * [FlightRadar24](https://www.flightradar24.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](http://radarbox24.com/) or [FlightAware](http://flightaware.com/) - *Live Flight Tracker* 
 * [MarineTraffic](https://www.marinetraffic.com/) or [VesselFinder](http://vesselfinder.com/) - *Live Ship Tracker* 
+* [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - *Max Speed Limits*
+* [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - *Left vs. Right Side Driving by Country*
+* [MetroOrbits](http://mic-ro.com/metro/index.html) - *Subway Maps & Data*
 * [Cost of Living](https://www.numbeo.com/cost-of-living/) - *Cost of Living Map*
 * [Mapfrappe](http://mapfrappe.com/?show=46142) - *Compare True Sizes on Land Masses*
 * [scale-a-tron](https://stamen.github.io/scale-a-tron/) - *Compare the Size of any Land*
