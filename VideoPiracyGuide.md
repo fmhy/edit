@@ -57,7 +57,6 @@
 * [StreamLord](http://www.streamlord.com/) - *Movies / TV*
 * [9PM](https://9pm.to/) - *Movies / TV*
 * [OnionPlay](https://onionplay.uk/) - *Movies / TV*
-* [Afdah](https://afdah.info/) - *Movies / TV*
 * [VStream](https://movie.directmoviedl.com/) - *Movies / TV*
 * [Goojara](https://www.goojara.to/) - *Movies / TV / Anime*
 * [Join4Films](https://www.join4films.net/hollywood/) - *Movies*
