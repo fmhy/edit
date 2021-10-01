@@ -106,7 +106,6 @@
 * [GamesTorrents](https://www.gamestorrents.nu/)
 * [Free GoG PC Games](https://freegogpcgames.com/)
 * [Dirty Games](https://www.dirtygames.xyz/)
-* [GidOfGames](https://gidofgames.com/)
 * [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win/)
