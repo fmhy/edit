@@ -113,7 +113,7 @@
 * [Miro](https://miro.com/) - *Collaborative Whiteboard*
 * [Ethercalc](https://ethercalc.snopyta.org/), [Baserow](https://gitlab.com/bramw/baserow), [Framacalc](https://accueil.framacalc.org/en/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - *Collaborative Spreadsheet*
 * [Jamovi](https://www.jamovi.org/) - *Statistical Spreadsheets*
-* [Watson](https://speech-to-text-demo.ng.bluemix.net/) - *Speech to Text*
+* [Watson](https://speech-to-text-demo.ng.bluemix.net/) or [VoiceNotebook](https://voicenotebook.com/) - *Speech to Text*
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) - *Text to Handwriting Converter*
 * [Cryptii](https://cryptii.com/) - *Modular Conversion, Encoding & Encryption*
 * [dCode](https://www.dcode.fr/en) - *Message Decoders*
@@ -185,6 +185,8 @@
 * [FFmpeg](https://ffmpeg.org/) - *Record, Convert & Stream Audio & Video / [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d)*
 * [ConvertVideoTGBot](https://t.me/ConvertVideoTGBot), [FileConvertRobot](https://t.me/FileConvertRobot) or [File2videoconvbot](https://t.me/File2videoconvbot) - *File to Video Telegram Bots* 
 * [OBS](https://obsproject.com/) or [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs) - *Video Recording / Live Streaming / [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/)* 
+* [Stream Elements](https://streamelements.com/) - *Streaming Service Manager*
+* [Restream](https://restream.io/) - *Multi-Site Streaming Tool*
 * [LiveRecord](https://github.com/lovezzzxxx/liverecord) - *Automatic Stream Recorder*
 * [LiveMonitor](https://github.com/lovezzzxxx/livemonitor) - *Live Stream Detection*
 * [real-url](https://github.com/wbt5/real-url) - *Copy Live Stream URLs*
@@ -196,6 +198,7 @@
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - *Create TV Channels using Plex Library*
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) - *Streaming Tools Index*
 * [Zoom Escaper](https://zoomescaper.com/ ) - *Self-Sabotage Video Calls to Escape Meetings*
+* [Live Curtain](https://livecurtain.com/) - *Countdown Curtain For Online Meeting*
 * [Animaker](https://www.animaker.com/) - *Animated Video Creator*
 * [Avidemux](http://fixounet.free.fr/avidemux/) - *Cut / Filter / Encode* 
 * [MoviePy](https://zulko.github.io/moviepy/) - *Python Video Editor*
@@ -237,6 +240,7 @@
 * [WebcamTests](https://webcamtests.com/) - *Test your Webcam*
 * [VCam](https://www.xsplit.com/vcam) - *Remove Webcam Background*
 * [DeepFaceLive](https://github.com/iperov/DeepFaceLive) - *Webcam Face Swap Tool*
+* [Webcamoid](https://webcamoid.github.io/) - *Webcam Manager*
 * [SimSwap](https://github.com/neuralchen/SimSwap) - *Video Face Swap Tool*
 * [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - *Deepfake Video Creator*
 * [4K Media](https://4kmedia.org/) - *Free 4K Video Demos*
@@ -622,8 +626,8 @@ General Reading Sites*
 * [ImportYeti](https://www.importyeti.com/) - *Search U.S. Customs Shipment Records* 
 * [googler](https://github.com/jarun/googler) - *Search Google through your Terminal*
 * [Whoogle](https://benbusby.com/projects/whoogle-search/) - *Self-Hosted Search Engine*
-* [grep.app](https://grep.app/) - *Git Repo Search*
-* [useful-forks](https://useful-forks.github.io/) - *GitHub Fork Search* 
+* [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - *GitHub Fork Search* 
+* [grep.app](https://grep.app/) - *Git Repository Search*
 * [MyCroftProject](https://mycroftproject.com/) - *Search Engine Plugins*
 
 ***
@@ -662,6 +666,7 @@ General Reading Sites*
 * [Fuselink](https://www.fuselink.co/) - *Merge Multiple Links* 
 * [Open Bulk URL](https://openbulkurl.com/) - *URL Bulk Opener*
 * [CheckServer](https://check-host.net/), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - *Site Monitoring Tools*
+* [CrowdTangle ](https://apps.crowdtangle.com/chrome-extension) - *Check Where Links Have Been Shared*
 * [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/) - *Domain Information CLI Tool*
 * [Redirect Detective](https://redirectdetective.com/) - *URL Redirect Checker* 
 * [Dereferer](https://dereferer.me/) - *Derefer / Anonymize Links*
@@ -693,13 +698,14 @@ General Reading Sites*
 ## ▷ Reddit Tools
 
 * **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)** or [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - *Browser Extension /  [Feature List](https://redditenhancementsuite.com/features/)*
-* **[redditlist](http://redditlist.com/)** - *Subreddit search / index*
+* **[redditlist](http://redditlist.com/)**, [sayit](https://anvaka.github.io/sayit/), [Vizit](http://redditstuff.github.io/sna/vizit/), [RedditViz](https://rhiever.github.io/redditviz/) or [subreddits](http://subreddits.org/) - *Subreddit Indexes*
+* [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/) - *Related Subreddit Calculator*
 * /u/SaveVideo, [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://www.redditsave.com/), [redv.co](https://redv.co/) or [Reddit.tube](https://reddit.tube/) - *Download Reddit Videos* 
 * [saveddit](https://github.com/p-ranav/saveddit) - *Reddit Bulk Media Downloader*
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown)
 * [/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all) - *Explore Multireddits*
 * [FMHY Curated Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits) - *Multireddits curated by FMHY members*
-* [Pushshift Reddit Search](https://www.redditsearch.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - *Advanced Reddit Search*  
+* [Pushshift Reddit Search](https://www.redditsearch.io/) / [2](https://redditsearch.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - *Advanced Reddit Search*  
 * [KarmaDecay](http://karmadecay.com/) - *Reddit Reverse Image Search* 
 * [Reddit Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_alternatives) - *Alternative Reddit Style Sites*
 * [lurrker](https://lurrker.com/), [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/), [kddit](https://kddit.kalli.st/), [Nuxtit](https://nuxtit.netlify.com/) or [js4.red](https://js4.red/) - *Alt Browsers / Web Clients*
@@ -712,6 +718,7 @@ General Reading Sites*
 * [Reddit (Au) Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - *Highlights New Comments*
 * [rComments](https://github.com/iampueroo/rComments) - *Explore Comments & Replies without Clicking a Post 
 * [rAger](https://chrome.google.com/webstore/detail/rager/fohlpjahcdbkpcckapphhpahbiajccmj) - *Display Account Age & Karma of Users*
+* [MassTagger](https://www.masstagger.com/ ) - *Reddit User Tagger*
 * [Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect) - *Always Load Old Reddit Design*
 * [Reddit Preview](https://redditpreview.com/) - *Preview Reddit Posts*
 * [custom-top-sort-for-reddit](https://github.com/arvidsandin/custom-top-sort-for-reddit) - *Scroll to Top of Reddit*
@@ -725,12 +732,10 @@ General Reading Sites*
 * [Reddium](https://reddium.vercel.app/) - *Medium-Style Reddit Viewer* 
 * [Unim.Press](https://unim.press/) - *Newspapers-Style Reddit Viewer*
 * [reddit shell](https://redditshell.com/) - *Linux shell emulator for Reddit*
-* [sayit](https://anvaka.github.io/sayit/) - *Visualization of related Subreddits*
-* [Vizit](http://redditstuff.github.io/sna/vizit/) - *Interactive Map of Reddit* 
-* [subreddits](http://subreddits.org/) - *Categorized Grouping of Subreddits* 
 * [Random Reddit](https://old.reddit.com/random) - *Get Random Reddit Threads / Possibly NSFW*
 * [FrontPageMetrics](https://frontpagemetrics.com/) - *Metrics For Reddit* 
 * [RedditMetis](https://redditmetis.com/), [Reddit-User-Analyser](https://reddit-user-analyser.netlify.app/), [Redective](https://www.redective.com/) or [redditsfinder](https://github.com/Fitzy1293/redditsfinder) - *Reddit Profile Information*
+* [Reddit Comment Visualizer](https://roadtolarissa.com/javascript/reddit-comment-visualizer/) - *Vizualize a Users Comments*
 * [Reddit Comment Search](https://www.redditcommentsearch.com/) - *Search Reddit Comments* 
 * [Reddit Faster](https://github.com/dimaba/redditfaster) or [/r/](https://chrome.google.com/webstore/detail/r/cnccilamloafialmchgfgmbmojdfhmom) - *Open Subreddits Faster*
 * [Find on Reddit](https://chrome.google.com/webstore/detail/find-on-reddit/jbcdpeekakanklckgooknpbonojhjncm) - *Find Discussions of current URL*
@@ -953,11 +958,13 @@ General Reading Sites*
 ## ▷ Twitch Tools
 
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) - *Streaming Tools Index*
+* [BetterTTV](https://betterttv.com/) - *Twitch Enhancement Extension*
+* [Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f ) - *Twitch Extension Index*
 * [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-dl](https://github.com/ihabunek/twitch-dl) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  *Download Twitch Videos* 
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - *Lightweight Twitch Webplayer*
 * [Twitchls](https://twitchls.com/) or [StreamSniper](https://www.streamsniper.tv/) - *HTML5 Twitch Stream Player* 
 * [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - *Alt Twitch Player* 
-* [Twitch-Desktop](https://github.com/twitch-desktop/twitch-desktop) - *Twitch Desktop Client* 
+* [Twitch-Desktop](https://github.com/twitch-desktop/twitch-desktop) or [Orion](https://alamminsalo.github.io/orion/) - *Twitch Desktop Client* 
 * [Multi](https://multi.raredrop.co/) or [TwitchTheater](https://twitchtheater.tv/) - *Watch Multiple Twitch Streams* 
 * [Livestream Panels](https://livestreampanels.com/) - *Custom Twitch Stream Panels*
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - *Fix Twitch Aspect Ratio*
@@ -965,9 +972,10 @@ General Reading Sites*
 * [Twitch Screen Comment Scroller](https://greasyfork.org/en/scripts/376225-twitch-screen-comment-scroller) - *Auto Scroll Twitch Comments*
 * [Points Autoclicker](https://github.com/xinitrc-dev/twitch-points-autoclicker) - *Auto Claim Twitch Points*
 * [Twitch Previews](https://github.com/MarkM-dev/Twitch-Previews) - *Twitch Video Previews*
+* [Featured.chat](https://featured.chat/) - *Twitch Chat Manager*
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - *Twitch Browser for Streamlink* 
 * [PogU.live](https://pogu.live/) - *Watch Twitch Sub-Only Videos*
-* [nobody.live](https://nobody.live/) - *Zero Viewer Twitch Stream Roulette* 
+* [nobody.live](https://nobody.live/) or [Twitch Roulette](https://twitchroulette.net/) - *Random Stream Roulette*
 * [Pogged](https://pogged.tv/) - *Twitch Highlights Stream*
 * [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - *GNU / Linux Twitch Desktop Client* 
 * [Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - *Download Twitch Chat Messages* 
@@ -1004,7 +1012,7 @@ General Reading Sites*
 * [TweeterID](https://tweeterid.com/) - *Twitter User ID & Username Converter* 
 * [Spoonbill](https://spoonbill.io/) - *Track Profile Changes of People you Follow* 
 * [SocialRank](https://socialrank.com/) - *Find Your Most Valuable Followers* 
-* [Twitual](http://twitual.com/) - *Follower / Following Analysis* 
+* [Twitual](http://twitual.com/) or [DoesFollow](https://doesfollow.com/) - *Follower / Following Analysis* 
 * [Twitter Intelligence](https://github.com/batuhaniskr/twitter-intelligence) - *Python Twitter Tracking & Analysis Tool*
 * [TweetTopicExplorer](http://tweettopicexplorer.neoformix.com/) - *See a Users Most Common Words* 
 * [Twayback Machine](http://staringispolite.github.io/twayback-machine/) - *View a Users Old Tweets* 
@@ -1034,6 +1042,7 @@ General Reading Sites*
 * [EmojiTracker](http://emojitracker.com/) - *Real-Time Twitter Emoji Use* 
 * [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) - *Remove All Twitter Metrics*
 * [Cheap Bots, Done Quick](https://cheapbotsdonequick.com/) - *Create Twitter Bots*
+* [Botometer](https://botometer.osome.iu.edu/) or [BotSlayer](https://osome.iu.edu/tools/botslayer) - *Twitter Bot Check*
 
 ***
 
@@ -1144,7 +1153,7 @@ General Reading Sites*
 * [Automation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - *Automate Tasks*
 * [Econap](https://www.econap.de/) - *Prevent Sleep Mode*
 * [MoveMouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home) - *Simulate User Activity* 
-* [The Fastest Mouse Clicker for Windows](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows) - *Mouse Auto Clicker*
+* [The Fastest Mouse Clicker for Windows](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows) or [AutoClicker Bookmarklet](https://autoclicker.glitch.me/) - *Mouse Auto Clicker*
 * [StrokeIt](https://www.tcbmi.com/strokeit/) - *Mouse Gestures*
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - *Re-Map Mouse Buttons & Scroll Wheel*
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - *Windows Tweaks*
@@ -1349,7 +1358,7 @@ General Reading Sites*
 * [EXIFTool](https://exiftool.org/), [ExtractMetadata](https://www.extractmetadata.com/), [Metadata2Go](https://www.metadata2go.com/) or [Metashield](https://metashieldclean-up.elevenpaths.com/) - *Metadata Viewer / Editor*
 * [IPFS](https://ipfs.io/) - *P2P Hypermedia Protocol / [Extension](https://github.com/ipfs-shipyard/ipfs-companion)* 
 * [Awesome-IPFS](https://github.com/ipfs/awesome-ipfs) - *IPFS Resource Index* 
-* [AutoRclone](https://drive.google.com/file/d/11yrXPUfWEP6bAeIw0fibjr-JxeWa-1Da/) / [GitHub](https://github.com/xyou365/AutoRclone) - *Create Google Service Accounts for RClone*
+* [AutoRclone](https://drive.google.com/file/d/11yrXPUfWEP6bAeIw0fibjr-JxeWa-1Da/) - *Create Google Service Accounts for RClone / [GitHub](https://github.com/xyou365/AutoRclone) / [Colab](https://github.com/Rekulous/AutoRClone-Colab), [2](https://colab.research.google.com/github/Rekulous/AutoRClone-Colab/blob/main/AutoRClone.ipynb)*
 * [rclone-colab](https://github.com/Pavithran-R/rclone-colab) - *Run Rclone in Colab*
 * [EasyClone](https://github.com/xd003/easyclone) - *Improved RClone Operations Script*
 * [myDrive](https://mydrive-storage.com/) - *Cloud File Storage*
@@ -1406,6 +1415,7 @@ General Reading Sites*
 * [webhex.net](https://en.webhex.net/) - *Online Hex Viewer*
 * [HexEd.it](https://hexed.it/) - *Online Hex Editor*
 * [infekt](https://infekt.ws/) - *NFO File Viewer*
+* [Linx Server](https://github.com/andreimarcu/linx-server) - *Self-Hosted File Sharing Site / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)*
 
 ***
 
@@ -1514,7 +1524,7 @@ General Reading Sites*
 
 * **[GoG Galaxy](https://www.gog.com/galaxy)**, [Launchbox](https://www.launchbox-app.com/), [GameHub](https://tkashkin.tk/projects/gamehub/) / [GitHub](https://github.com/tkashkin/GameHub), [Playnite](https://playnite.link/), [Gnome Games](https://wiki.gnome.org/Apps/Games) or [chad_launcher](https://gitlab.com/Gnurur/chad_launcher) - *Game Library / Launcher*
 * **[PCGamingWiki](https://www.pcgamingwiki.com/)** or [AppleGamingWiki](https://applegamingwiki.com/) - *Game Info, Bug Fixes & Improvements*
-* **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)** - *Game Requirements Test* 
+* **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)** or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - *Game Requirements Test* 
 * [/r/CrackWatch](https://reddit.com/r/CrackWatch), [SteamCrackStatus](https://steamcrackedgames.com/) / [Discord](https://discord.com/invite/hrCtqcyHKw) / [/r/SteamCrackedGames](https://reddit.com/r/SteamCrackedGames) or [CrackSnoop](https://github.com/CrackSnoop/cracksnoop) - *Scene Release Trackers / [Discord](https://discord.gg/d9StxkknwX)*
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - *Rainmeter Game Launcher*
 * [Fraps](https://fraps.com/), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - *FPS Benchmarking Utility*
@@ -1535,6 +1545,7 @@ General Reading Sites*
 * [bspview](https://devanbuggay.com/bspview/) - *Explore Quake & GoldSRC Maps / [Github](https://github.com/sbuggay/bspview)* 
 * [NES Maps](https://www.nesmaps.com/) - *NES Game Maps* 
 * [SNES Maps](https://www.snesmaps.com/) - *SNES Game Maps*
+* [Forgehub](https://www.forgehub.com/) - *Halo Maps*
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - *Breath of The Wild Map*
 * [Hallownest](https://www.hallownest.net/) - *Hollow Knight Map*
 * [Open Game Art](https://opengameart.org/) - *Game Assets / Images* 
@@ -1600,6 +1611,7 @@ General Reading Sites*
 * [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/) or [softether](https://www.softether.org/) - *Play Pirated Multiplayer Games*
 * [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) or [Netch](https://github.com/netchx/Netch/) - *Online Game Acceleration Proxy*
 * [Nemirtingas Galaxy Emu](https://gitlab.com/Nemirtingas/nemirtingas_galaxy_emu) - *GOG Galaxy Lan Emulator*
+* [ElDewrito](https://dewritohub.com/) - *Halo Online Mod Tool / [GitHub](https://github.com/ElDewrito) / [Discord](https://discord.com/invite/0TKY0SDEUHAWL4sG), [2](https://discord.com/invite/gtqM3s5)*
 * [CnCNet](https://cncnet.org/) - *Multiplayer Command & Conquer* 
 * [NV: Multiplayer](https://nv-mp.com/) - *Fallout New Vegas Multiplayer Project / [Discord](https://discord.com/invite/mKVdhmEDrW)*
 * [BF2142 Reclamation](https://battlefield2142.co/) - *BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)*
@@ -1665,6 +1677,7 @@ General Reading Sites*
 * [Cod4X](https://cod4x.me/) - *CoD4 Enhancement Mod*
 * [Project Reality](https://www.realitymod.com/about) - *BF2 & ARMA 2 Realism Mod*
 * [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - *Battlefield Mod Projects*
+* [Open Carnage](https://opencarnage.net/) - *Halo Modding Forum / [Discord](https://discord.com/invite/2pf3Yjb)*
 * [Flatout 2 Fan Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2414295888) - *Patch for Flatout 2*
 * [NFSMods](https://nfsmods.xyz/home) - *Need for Speed Mods*
 * [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - *Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)*
