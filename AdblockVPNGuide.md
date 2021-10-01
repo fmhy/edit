@@ -430,7 +430,6 @@
 * [Sentinel](https://sentinel.co/) - *Free VPN / [/r/SENT](https://reddit.com/r/SENT)* 
 * [FreePN](https://www.freepn.org/) - *Free Open Source P2P VPN* 
 * [TunnelBear](https://www.tunnelbear.com/) - *Free VPN / 500mb only*
-* [FREEVPN.gg](https://freevpn.gg/) - *Free VPN List*
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
 * [VPNGate](https://www.vpngate.net/en/) - *Free VPN Relay Servers*
 * [OpenVPN](https://openvpn.net/) - *VPN Tunnel / [Linux Wrapper](https://github.com/slingamn/namespaced-openvpn)* 
