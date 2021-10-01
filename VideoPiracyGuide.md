@@ -64,6 +64,7 @@
 * [AllMoviesForYou](https://allmoviesforyou.co/) - *Movies / TV* 
 * [FlixGo](https://flixgo.me/) - *Movies / TV*
 * [1movies](https://ww2.1movies.is/), [CouchTuner](https://ww1.couchtuner.space/), [Real-Primewire](https://real-primewire.club/) or [New-Primewire](https://ww1.new-primewire.com/) - *Movies / TV / Anime*
+* [Vmovee HD](https://vmoveehd.com/) - *Movies / TV*
 * [Flixtor](https://flixtor.to) or [Filme21](https://filme21.com/) - *Movies / TV / Movies Older Than 6 Months For Premium Only*
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrives_.2F_open_directories) - *Movies / TV / Anime* 
 * [Tubi](https://tubitv.com) - *Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)*
