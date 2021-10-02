@@ -54,7 +54,6 @@
 * [GetFVid](https://www.getfvid.com/) - *Facebook Video / Audio Downloader* 
 * [AudionautiX](https://audionautix.com/) - *Mood based streaming*
 * [Khinsider](https://downloads.khinsider.com/), [Cirrus Retro](https://cirrusretro.com/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
-* [Themes.moe](https://themes.moe/) - *Anime Themes*
 * [Musicmap](https://musicmap.info/) - *Genealogy / History of Music Genres* 
 * [Random Song](https://randomsong.net/) or [ListenToThis](https://listentothis.nanoshinono.me/) - *Random Songs*
 * [The Nostalgia Machine](http://thenostalgiamachine.com/) or [bops.fm](https://bops.fm/) - *Random Songs by Year* 
@@ -251,7 +250,6 @@
 * [Warez DL](https://wrzs.me/) - *MP3 / FLAC* 
 * [Exystence](http://exystence.net/) - *MP3 / FLAC*  
 * [FindFlac](http://findflac.com/) - *FLAC / MP3 / MP4* 
-* [Plus Premieres](https://www.pluspremieres.ws/) - *iTunes M4A*
 * [iPlusFree](http://www7.iplusfree.org/) - *iTunes M4A* 
 * [iTDMusic](https://itdmusic.in/) - *iTunes M4A* 
 * [ITDPlus](https://itdplus.ru/) - *iTunes M4A*
