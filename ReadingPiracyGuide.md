@@ -417,7 +417,7 @@
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - *Hypnosis / Telegram*
 * [files.afu.se](https://files.afu.se/Downloads/) or [Ufos](https://drive.google.com/drive/folders/1vlY512iwG0yrTFE3Hha__lhBZq9zavQE) - *UFO Books*
 * [Archive of Our Own](https://archiveofourown.org/) - *Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)*
-* [The Trove](https://thetrove.is/) - *Books / Fantasy / TTRPG / [Wayback Machine](https://web.archive.org/web/20210614215400/https://thetrove.is/), [2](https://web.archive.org/web/20210430220147/https://thetrove.is/) / [Unofficial Discord](https://discord.gg/GwTuGr7N8p)*
+* [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - *Books / Fantasy / TTRPG*
 * [Choisey](http://choisey.free.fr/) or [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - *TTRPG Rulebooks*
 * [Cinema EBooks Collection](https://mega.nz/folder/Fc5HjABT#kDNrkB97DPt9L_dysk4jCw) - *Cinema Books*
 * [SimplyScripts](https://www.simplyscripts.com/) - *Movie / TV Scripts* 
@@ -439,7 +439,6 @@
 * [The Literature Network](http://www.online-literature.com/) 
 * [Memory of the World](https://library.memoryoftheworld.org/#/books/) 
 * [LibreTexts](https://libretexts.org/) 
-* [Books Library Land](https://bookslibland.net/) 
 * [PDFBooksWorld](https://www.pdfbooksworld.com/) 
 * [Monoskop](https://monoskop.org/log/)
 * [ACM](https://dl.acm.org/)
@@ -467,7 +466,6 @@
 * [Heaven](https://drive.google.com/drive/folders/1hxe7Des-ooQpamAtjyR7CX-k_hyqlQ7Q)
 * [Uloz Archive](https://uloz.to/folder/8fpAg2rwEcYh/name/Large-Book-Collection) 
 * [Wikiversity](https://www.wikiversity.org/) - *Learning Resources, Guides, Quizzes, Tools & More*
-* [NoExcuseList](http://noexcuselist.com/) - *Free Learning Sites* 
 * [OpenEdition](https://www.openedition.org/) - *Educational Books / Journals* 
 * [Saylor Academy](https://learn.saylor.org/) - *Courses* 
 * [eBookers](https://t.me/ebookers) - *Telegram*  
@@ -500,7 +498,6 @@
 * [EasyEngineering](https://easyengineering.net/) - *Engineering*
 * [EngineeringBooksPDF](https://www.engineeringbookspdf.com/) - *Engineering*
 * [EngineeringEBooks_civil](https://t.me/EngineeringEBooks_civil) - *Civil Engineering*
-* [paulierco](https://index.paulierco.ro/docs/) - *Linux, Networking & VMware*
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - *Electronics* 
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - *Electronics Schematics & Simulations*
 * [159.69.3.96](http://159.69.3.96/ebooks/) - *IT Books*
@@ -895,7 +892,6 @@
 * [Armaell's Library](https://armaell-library.net/)
 * [Novel Online Free](https://novelonlinefree.com/homepage)
 * [jNovels](https://jnovels.com/)
-* [Kiss Light Novels](https://kisslightnovels.info/)
 * [MP4DIRECTS](https://mp4directs.com/) 
 * [English Light Novels](https://englishlightnovels.com)
 * [Tensai Translations](https://tensaitranslations.wordpress.com/)  
