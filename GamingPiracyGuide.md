@@ -54,7 +54,6 @@
 * [silentycrying's Game Drive](https://drive.google.com/drive/u/0/folders/1K1FdNbEu9-_wy8vn9sE768VojXqu6Fnp) 
 * [Cracked Games](https://drive.google.com/drive/u/0/folders/1923I8RvjiE112Fzca1WshxMIwlL338Ea)
 * [DLFox](https://www.dlfox.com/)
-* [Dirty Games](https://www.dirtygames.xyz/)
 * [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
 * [SPiKY Repacks](https://discord.gg/ZHC6pffMz2) - *[GamesDrive Uploader](https://gamesdrive.co/)*
 * [Patrick Technology Repacks](https://patricktech-repacks.xyz/) - *[Discord](https://discord.gg/ByfJRmdeg7)*
@@ -105,7 +104,6 @@
 * [CroTorrents](https://crotorrents.com/)
 * [GamesTorrents](https://www.gamestorrents.nu/)
 * [Free GoG PC Games](https://freegogpcgames.com/)
-* [Dirty Games](https://www.dirtygames.xyz/)
 * [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win/)
@@ -144,7 +142,7 @@
 * [EasyRoms](https://easyroms.com/) - *Emulators / Roms* 
 * [ROMSPURE](https://romspure.com/) - *Emulators / Roms*
 * [SoftCobra](https://www.softcobra.com/) - *Roms / [Block Overlay](https://github.com/NicolaeNMV/BehindTheOverlay)*
-* [All Xbox Game](https://downloadgamexbox.com/) or  [DownloadgamePSP](https://downloadgamepsp.com/) - *Roms*
+* [All Xbox Game](https://downloadgamexbox.com/) - *Roms*
 * [RomToHome](https://romtohome.com/) - *Roms*
 * [Sundby](https://archive.sundby.com/retro/), [2](http://kuzpo.kapsi.fi/emutemp/) - *Roms*
 * [EdgeEmulation](https://edgeemu.net/) - *Roms*
@@ -190,7 +188,6 @@
 * [Play Classic Games](https://playclassic.games/) 
 * [Emulator.Games](https://emulator.games/) 
 * [GamulatoR](https://www.gamulator.com/roms)
-* [Play Emulator](https://www.playemulator.com/) 
 * [Aurora](https://skitty.xyz/aurora/) 
 * [Emulator.online](http://emulator.online/) 
 * [Emulator Games Online](https://emulatorgames.online/) 
@@ -430,7 +427,6 @@
 * [JackBox.tv](https://jackbox.tv/) 
 * [Playok](https://www.playok.com/)
 * [Krunker.io](https://krunker.io/) / [2](https://browserfps.com/) / [Market Ping](https://yee.how/market-ping/) / [Client](https://client.cuffuffles.dev/), [Venge](https://venge.io/) or [RoboFight](https://robofight.io/) - *PvP FPS*
-* [CS-ONLINE.CLUB](https://cs-online.club/), [2](https://game.cs-online.club/) - *Play Counter Strike in Browser* 
 * [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) - *Top Down Battle Royal* 
 * [ZombsRoyale.io](https://zombsroyale.io/) - *Zombie Battle Royale* 
 * [1v1.LOL](https://1v1.lol/) - *1v1 Building / Battle Sim*
@@ -593,7 +589,6 @@
 * [cyberphoenix](http://www.cyberphoenix.org/forum/forum/54-requests/)
 * [TehParadox](https://www.tehparadox.net/requests/)
 * [pirates-forum](https://pirates-forum.org/Forum-Requests) 
-* [Dirty Games](https://www.dirtygames.xyz/game-request/)  
 * [TheMegaDrive](https://discord.gg/h2P5zsNMxZ) - *Megadrive Discord* 
 
 ***
