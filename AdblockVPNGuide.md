@@ -277,7 +277,7 @@
 * [What every Browser knows about you](https://webkay.robinlinus.com/) - *Browser Data Leak Demonstration*
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - *Password Strength Checker*
 * [LeakedSource](https://leakedsource.ru/) or [h8Mail](http://github.com/khast3x/h8mail) - *Multiple Data Breach Checks*
-* [Vigilante.pw](http://vigilante.pw/), [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/) or [leakpeek](https://leakpeek.com/) - *Data Breach Search Engine* 
+* [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/) or [leakpeek](https://leakpeek.com/) - *Data Breach Search Engine* 
 * [DataBunker](https://databunker.org/) - *Data Leak Prevention*
 * [RS Lookup](http://rslookup.com/) - *Check if your RuneScape data has been breached* 
 * [Canarytokens](https://canarytokens.org/generate) - *Network Breach Check* 
