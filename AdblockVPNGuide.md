@@ -145,7 +145,7 @@
 * [StrongPasswordGenerator](https://strongpasswordgenerator.com/), [ExpressVPN PW Generator](https://www.expressvpn.com/password-generator) or [Bitwarden PW Generator](https://bitwarden.com/password-generator/) - *Password Generators*
 * [Privacy / Safety Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_guides) - *Internet Privacy / Safety Guides* 
 * [Privacy.Sexy](https://privacy.sexy/) - *Privacy Scripts* 
-* [Team Elite](https://www.te-home.net/) - *Security Software*
+* [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - *Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)*
 * [macOS Security Tools](https://github.com/ashishb/osx-and-ios-security-awesome) - *OS X Security Tools*
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - *CyberSecurity Tool Index*
 * [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - *Anti-Censorship tool index* 
@@ -161,7 +161,7 @@
 * [Windows 10 Antispy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_antispy_tools)
 * [Privatezilla](https://github.com/builtbybel/privatezilla) - *Find and fix Windows 10 Privacy / Security Issues* 
 * [simplewall](https://github.com/henrypp/simplewall) - *Configure Windows Filtering Platform* 
-* [TorWall](https://github.com/basil00/TorWall) or [Whonix](https://www.whonix.org/) - *Use Tor to encrypt your Internet traffic*
+* [TorWall](https://github.com/basil00/TorWall) or [Whonix](https://www.whonix.org/) - *Use Tor to Encrypt Internet Traffic*
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - *List of Data Broker Opt-Out Resources* 
 * [Blur](https://dnt.abine.com/) - *Protect Passwords & Personal Information* 
 * [F-Secure Identity Theft Checker](https://www.f-secure.com/en/home/free-tools/identity-theft-checker) - *Identity Theft Check*
@@ -268,7 +268,7 @@
 ## ▷ Browser Tools
 
 * **[Tor Browser](https://www.torproject.org/)** or [Lokinet](https://lokinet.org/) - *Onion-Routed Browser*
-* **Tor Tools** - [Network Routers](https://github.com/Edu4rdSHL/tor-router) / [Unblock Tor](https://i.imgur.com/bQStFyI.gifv) / [Leak Scan](https://github.com/s-rah/onionscan) / [IP Test](https://check.torproject.org/) / [Auto IP Switch](https://github.com/seevik2580/tor-ip-changer) / [Access Client](https://dragonfruit.network/onionfruit) / [GitHub](https://github.com/dragonfruitnetwork/onionfruit/) / [Python Controller](http://vt5hknv6sblkgf22.onion/index.html)
+* **Tor Tools** - [Network Routers](https://github.com/Edu4rdSHL/tor-router) / [Wiki](https://gitlab.torproject.org/tpo/team/-/wikis/home ) / [Unblock Tor](https://i.imgur.com/bQStFyI.gifv) / [Leak Scan](https://github.com/s-rah/onionscan) / [IP Test](https://check.torproject.org/) / [Auto IP Switch](https://github.com/seevik2580/tor-ip-changer) / [Access Client](https://dragonfruit.network/onionfruit) / [GitHub](https://github.com/dragonfruitnetwork/onionfruit/) / [Python Controller](http://vt5hknv6sblkgf22.onion/index.html)
 * **[ffprofile](https://ffprofile.com/)**, **[ghacks-user.js](https://github.com/arkenfox/user.js)**, [firefox-debloat](https://github.com/amq/firefox-debloat), [pyllyukko](https://github.com/pyllyukko/user.js/) - *Privacy Hardened Firefox / [Warning](https://i.imgur.com/ZMQJHwC.png)*
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Privacy Focused Browsers* 
 * **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
@@ -343,6 +343,8 @@
 * [Panopticlick](https://coveryourtracks.eff.org/) - *Test if your Browser Blocks Tracking* 
 * [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) - *Bypass Site Blocking DPI*
 * [Am I FLoCed?](https://amifloced.org/) or [FLoC Demo](https://floc.glitch.me/) - *Check if Chrome Ad-Targeting is Enabled*
+* [Yggdrasil](https://yggdrasil-network.github.io/) - *IPv6 Network*
+* [anoNet](http://www.anonet.org/) - *Anonymous IP Network*
 
 ***
 
@@ -433,7 +435,7 @@
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
 * [VPNGate](https://www.vpngate.net/en/) - *Free VPN Relay Servers*
 * [OpenVPN](https://openvpn.net/) - *VPN Tunnel / [Linux Wrapper](https://github.com/slingamn/namespaced-openvpn)* 
-* [RaceVPN](https://www.racevpn.com/), [Free OpenVPN](https://freeopenvpn.org/), [PisoVPN](https://pisovpn.com or [LionSSH](https://www.lionssh.com/) - *Free VPN Servers*
+* [RaceVPN](https://www.racevpn.com/), [CyberSSH](https://cyberssh.com/vpn/config), [Free OpenVPN](https://freeopenvpn.org/), [VPNJanit](https://www.vpnjantit.com/), [PisoVPN](https://pisovpn.com or [LionSSH](https://www.lionssh.com/) - *Free VPN Configs*
 * [Gluetun](https://github.com/qdm12/gluetun) - *Tunnel your Docker containers through a VPN*
 * [PiVPN](https://pivpn.io/) - *Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)* 
 * [Enterprise](https://pritunl.com/) - *VPN Server* 
@@ -461,7 +463,7 @@
 * [Fri-Gate](https://fri-gate.org/) - *Advanced Proxy Settings Addon*  
 * [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - *Limit proxy usage by private windows* 
 * [Hitch](https://hitch-tls.org/) - *SSL / TLS Proxy*
-* [SSHPOWER](https://www.sshpower.net/) or [FastSSH](https://www.fastssh.com/) - *SSH & SSL Tunneling Servers*
+* [SSHPOWER](https://www.sshpower.net/), [SSHKit](https://sshkit.com/), [FlySSH](https://www.flyssh.com/) or [FastSSH](https://www.fastssh.com/) - *SSH & SSL Servers*
 
 ***
 
@@ -489,4 +491,5 @@
 * [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - *Python Library for Retrieving Free Proxies*
 * [Proxy-Checker](https://proxy-checker.net/) - *Proxy Checker*
 * [CheckSocks5](https://checksocks5.com/) - *Socks5 Proxy Checker*
+* [IX Decrypt](https://ixdecrypt.tk/) - *Proxy Decryption*
 * [Proxynova](https://www.proxynova.com/proxy-server-list/country-ir/) - *Iranian Proxies*
