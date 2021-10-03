@@ -116,6 +116,8 @@
 * [MovieHunters](https://movieshunters.com/) - *Movies / TV*
 * [Dogeflix](https://dogeflix.net/) - *Movies / TV* 
 * [Sauflix](https://www.sauflix.com/) - *Movies / TV*
+* [CMovies](https://cmovies.online/) - *Movies / TV / Anime*
+* [Downloads-Anymovies](https://www.downloads-anymovies.co/) - *Movies*
 * [Best-Movies](https://best-movies.watch/) - *Movies*
 * [YesHD](https://yeshd.net/) - *Movies / TV*
 * [UWatchFree](https://www.uwatchfree.mn/) - *Movies / TV*  
@@ -140,7 +142,7 @@
 * [Shahed4u](https://shahed4u.onl:2053/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a-1/) - *Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [GoMoviesFree](https://www13.gomoviesfree.page/) - *Movies / TV / Anime*
 * [MovGoTV](https://movgotv.com/) - *Movies / TV / Anime*
-* [HollyMovieHD](https://hollymoviehd.cc/) - *Movies / TV / Anime*
+* [HollyMovieHD](https://hollymoviehd.cc/) or [NovaMovie](https://novamovie.net/) - *Movies / TV / Anime*
 * [YMovies](https://ymovies.vip/) - *Movies / TV / Anime*
 * [5Movies.pw](https://5movies.pw/) - *Movies / TV / Anime*
 * [Put-Locker](https://ww1.put-locker.com/) or [123moviesc](https://www.123moviesc.co/) - *Movies / TV / Anime* 
@@ -148,6 +150,7 @@
 * [Flenix](https://flenix.net/) - *Movies / TV / Anime* 
 * [HDFull](https://hdfull.lv/) - *Movies / TV / Anime* 
 * [VidEmbed](https://vidembed.cc/) - *Movies / TV / Anime* 
+* [MSMoviesBD](https://msmoviesbd.com/) - *Movies / TV / Anime*
 * [Layerca21](https://layarkacaxxi.biz/) - *Movies / TV / Use AdBlocker*  
 * [4MovieRulz](https://4movierulz.mn/category/hollywood-movie-2020/) - *Movies* 
 * [123Movie](https://123movie.uno/) - *Movies / TV / Anime*
@@ -238,6 +241,7 @@
 * **[CouchTuner](https://www.couchtuner.host/)** - *TV* 
 * [MobileTVShows](https://www.mobiletvshows.net/) - *TV / Anime*
 * [OnlySeries](https://onlyseries.net/) - *TV*
+* [BKWorld](https://bkworldtube.com/) - *TV*
 * [MyWatchSeries](https://www5.mywatchseries.stream/) - *TV / Anime* 
 * [KissTVShow](https://kisstvshow.to/) - *Asian TV Shows / Subtitles*   
 * [turkish123](https://turkish123.com/) - *Turkish TV Shows / Subtitles* 
@@ -388,6 +392,7 @@
 * [bilaSport](http://bilasport.net/) - *Sports*
 * [NBAFullMatch](https://nbafullmatch.com/) - *Sports*
 * [SkorLive](https://skorlive.com/) - *Sports*
+* [StreamsGate](https://streamsgate.tv/) - *Sports*
 * [WatchKobe](http://watchkobe.info/) - *Sports*
 * [BuffStreams](https://buffstreams.tv/) - *Sports*
 * [SportHD](https://sporthd.live/) - *Sports* 
@@ -702,7 +707,7 @@
 
 # ► Tracking / Discovery
 
-* **[IMDb Advanced Search](https://www.imdb.com/search/)**
+* **[IMDb Advanced Search](https://www.imdb.com/search/)** or [pyMDB](https://pymdb.mloesch.it/) - *Search Engine*
 * **[TasteDive](https://tastedive.com/)** - *Recommendations* 
 * **[FlixMetrix](https://flickmetrix.com/)** - *Combines IMDb, Rotten Tomatoes & Letterbox ratings*
 * **[Letterboxd](https://letterboxd.com/)** - *Movies* 
@@ -815,7 +820,7 @@
 
 * **[Open Subtitles](https://opensubtitles.org/)** - *Subtitles*
 * **[Subtitle Edit](https://www.nikse.dk/SubtitleEdit/Online)**, [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://github.com/Aegisub/Aegisub) or [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - *Subtitle Editor*
-* **[External Subtitles Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_external_subs_player)** - *Player Subs Externally* 
+* **[External Subtitles Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_external_subs_player)** - *Play Subs Externally* 
 * [elSubtitle](http://www.elsubtitle.com/) - *Subtitles & Tools* 
 * [Subtitle Cat](https://www.subtitlecat.com/) - *Subtitles* 
 * [Subscene](https://subscene.com/) - *Subtitles* 
@@ -855,7 +860,7 @@
 * [SubtitleTranslate](https://github.com/mepeichun/SubtitleTranslate) - *Translate Subtitles* 
 * [DualSub](https://github.com/bonigarcia/dualsub) - *Bilingual subtitles maker*  
 * [HandySub](https://github.com/HandyOrg/HandySub) - *Subtitle Downloader*
-* [SaveSubs](https://www.savesubs.com/) - *Download Subs from Video Sites* 
+* [SaveSubs](https://www.savesubs.com/) - *Extract Subtitles from Online Videos* 
 * [Sushi](https://github.com/tp7/Sushi) - *Automatic Subtitle Shifter Based on Audio* 
 * [movies2anki](https://github.com/kelciour/movies2anki) - *Convert Movies with Subs to Anki*
 * [mkv-extract](https://qgustavor.github.io/mkv-extract/) - *Extract Subtitles from MKV Files*
