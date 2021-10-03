@@ -67,7 +67,7 @@
 * [Sweet Home 3D](http://www.sweethome3d.com/) - *Interior Design App*
 * [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit) - *Presentation Utility / Zoom Tool*
 * [Slides](http://maaslalani.com/slides/) - *Terminal Presentation Tool / [GitHub](https://github.com/maaslalani/slides)*
-* [SlidesGo](https://slidesgo.com/), [ensa.io](https://ensa.io/) or [ThePOPP](https://thepopp.com/) - *Presentation Templates* 
+* [SlidesGo](https://slidesgo.com/), [PresentationGO](https://www.presentationgo.com/), [ensa.io](https://ensa.io/) or [ThePOPP](https://thepopp.com/) - *Presentation Templates* 
 * [QR Tiger](https://www.qrcode-tiger.com/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - *QR Code Generator* 
 * [QRpicture](https://www.qrpicture.com/) - *Picture to QR Code Converter* 
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - *Online Appraisals*
@@ -165,7 +165,7 @@
 * **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - *Download GFX Design Software*
 * **[Video Hosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_hosting_sites)** - *Upload / Stream Videos* 
 * **[VideoHelp](https://www.videohelp.com/software)** - *Video Software Archive* 
-* **[HandBrake](https://handbrake.fr/)**, [XMedia Recode](https://www.xmedia-recode.de/en/), [staxrip](https://github.com/staxrip/staxrip/), [FastFlix](https://fastflix.org/), [AVC](https://www.any-video-converter.com/), [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes), [MP4.to](https://mp4.to/) or [Evano](https://evano.com/online-video-converter) - *Video Converters / Encoders*
+* **[Video File Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_converters)** - *Video Converters / Encoders* 
 * **[Video Encoding Guides](https://sometimes-archives-things.github.io/archived-things/)** - *Learn how to Encode Videos*
 * **[Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders)** - *Record your Screen*
 * **[Multi-Site Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)**
@@ -183,7 +183,7 @@
 * [How to Rip Videos from Disney+](https://redd.it/ncyxzx), [2](https://web.archive.org/web/20210516014412/https://old.reddit.com/r/Piracy/comments/ncyxzx/tutorial_how_to_rip_moviesshows_from_disney_plus/) 
 * [PlayPhrase](https://playphrase.me/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/), [2](https://getyarn.io/) - *Clip Quote Search Engine*
 * [FFmpeg](https://ffmpeg.org/) - *Record, Convert & Stream Audio & Video / [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d)*
-* [ConvertVideoTGBot](https://t.me/ConvertVideoTGBot), [FileConvertRobot](https://t.me/FileConvertRobot) or [File2videoconvbot](https://t.me/File2videoconvbot) - *File to Video Telegram Bots* 
+* [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - *SFW to Video Converter*
 * [OBS](https://obsproject.com/) or [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs) - *Video Recording / Live Streaming / [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/)* 
 * [Stream Elements](https://streamelements.com/) - *Streaming Service Manager*
 * [Restream](https://restream.io/) - *Multi-Site Streaming Tool*
@@ -232,7 +232,7 @@
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - *Nico Nico Video Player*
 * [polsy.org.uk](http://polsy.org.uk/) - *Alt Players for Video Sites*  
 * [Mixkit](https://mixkit.co/), [Coverr](http://coverr.co/), [Elements](https://elements.envato.com/) or [Mazwai](https://mazwai.com/) - *Stock Videos / Templates* 
-* [ShareAE](https://www.shareae.com/), [HunterAE](https://hunterae.com/), [AEShares](https://aeshares.com/), [AERiver](https://aeriver.com/) or [DownAE](https://downae.com/) - *After Effects Templates*
+* [ShareAE](https://www.shareae.com/), [HunterAE](https://hunterae.com/), [AEShares](https://aeshares.com/), [AERiver](https://aeriver.com/), [Intro HD](https://intro-hd.net/) or [DownAE](https://downae.com/) - *After Effects Templates*
 * [video2x](https://github.com/k4yt3x/video2x) - *Video Upscaler*
 * [Anime4K](https://github.com/bloc97/Anime4K) - *Anime Video Upscaler* 
 * [Video Vault](https://www.bravenewtech.org/) - *Video Preservation Tool* 
@@ -497,7 +497,7 @@
 * [Namechk](https://namechk.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Check Username / Domain Availability*
 * [Pyfunceble](https://pyfunceble.github.io/#/) or [Domainr](https://domainr.com/) - *Check IP / Domain Availability* 
 * [HostsDock](https://eshengsky.github.io/HostsDock/) - *Manage & Switch Hosts* 
-* [2ip.io](https://2ip.io/) - *Multiple IP Address Tools*
+* [2ip.io](https://2ip.io/), [2](https://2ip.me/) - *Multiple IP Address Tools*
 * [My IP Address](https://myipaddress.ru/), [WhatIsMyIPAdress](https://whatismyipaddress.com/), [IPInfoDB](https://ipinfodb.com/), [IP Burger](https://www.ipburger.com/ip/), [NSUpdate](https://www.nsupdate.info/), [IfConfig](https://ifconfig.me/) or [WhatIsMyIPLookup](https://whatismyiplookup.com/) - *Check IP Address*
 * [open-ports](https://www.yougetsignal.com/tools/open-ports/) or [CanYouSeeMe](https://canyouseeme.org/) - *Port Forwarding Tester*
 * [DownloadTestr](http://txti.es/downloadtestr) - *Download Test Files to Test Download Speed* 
@@ -682,11 +682,12 @@ General Reading Sites*
 * [Xenu-Link](http://home.snafu.de/tilman/xenulink.html), [Cyotek-Webcopy](https://www.cyotek.com/cyotek-webcopy), [Dead Link Checker](https://www.deadlinkchecker.com/) or [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php) - *Broken Link Checker*
 * [W.A.R. Links Checker Premium](http://usa.x10host.com/mybb/showthread.php?tid=88) - *Checks If File Links are Alive or Not*
 * [SafeLinking](https://safelinking.net/), [Gdrivez](https://www.gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [BrBushare](https://brbushare.xyz/) or [ShortLinkto](https://shortlinkto.top/) - *Link Protectors* 
-* [WhoIsRequest](https://whoisrequest.com/) or [Securrity Whoiz](http://www.securrity.ru/whoiz.html) - *Domain Information Lookup
+* [WhoIsRequest](https://whoisrequest.com/) or [Securrity Whoiz](http://www.securrity.ru/whoiz.html) - *Domain Information Lookup*
 * [Awesome Piracy Bot](https://github.com/Igglybuff/awesome-piracy-bot) - *URL Scraping Tool*
 * [Hosting Check](https://hostingchecker.com/) - *Site Host Checker*
 * [CarbonDates](http://carbondate.cs.odu.edu/) - *Check Site Creation Date* 
 * [URL2IMGBot](https://t.me/URL2IMGBot) - *Takes a screenshot for any URL / Telegram* 
+* [AtSameIP](https://atsameip.intercode.ca/) - *Find All Sites Hosted by Same IP*
 * [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) or [SubdomainFinder](https://subdomainfinder.c99.nl/) - *Find Hidden Subdomains* 
 * [pyfuzz](https://github.com/AyoobAli/pyfuzz) - *URL Fuzzing Tool* 
 * [Backlink Tool](https://backlinktool.io/) - *URL Indexer* 
@@ -1345,6 +1346,7 @@ General Reading Sites*
 * [gd-efc](https://anadius.github.io/gd-efc/) - *Copy Encrypted Google Drive* 
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - *Google Drive Link Encryptor for GD-EFC*
 * [goodls](https://github.com/tanaikech/goodls) - *Google Drive Downloader*
+* [GDriect](https://www.gdirect.link/) - *Direct GDrive Link Generator*
 * [Backup System](https://github.com/danielpy108/BackUpMySystem) - *Backup Google Drive*
 * [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) - *Google Drive Downloader / Linux*
 * [OneDrive CF Index](https://github.com/spencerwooo/onedrive-cf-index) - *OneDrive Index*
@@ -1574,6 +1576,7 @@ General Reading Sites*
 * [Project Era](https://erafn.glitch.me/#downloads) - *Play Old Fortnite Seasons*
 * [RoPro](https://ropro.io/), [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040) or [RoGold](https://discord.gg/XMHn9zV3UA)- *Enhance Roblox Website*
 * [RobloxThemes](https://github.com/christiankek/RobloxThemes) - *Themes for Roblox*
+* [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - *Roblox Manager for Linux*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
 * [tModLoader](https://www.tmodloader.net/) - *Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)*
 * [TEdit](http://binaryconstruct.com/games/tedit) - *View / Edit Terraria Maps*
@@ -1632,6 +1635,7 @@ General Reading Sites*
 * [WiiU Exploit](https://wiiuexploit.xyz/) - *WiiU Homebrew Installer*
 * [Homebrew Gang](https://thehbg.shop/main.html) - *Switch Homebrew Community*
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - *Switch Hacking Forum / Guides*
+* [PSX Hax](https://www.psxhax.com/) - *Playstation Modding Forum*
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - *PS4 / PS5 Remote Play Client* 
 * [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - *PS4 Exploit Hosting PS4*
 * [PlayStationDiscord-Games](https://github.com/Tustin/PlayStationDiscord-Games) - *PS4 Remote Play* 
