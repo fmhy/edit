@@ -26,6 +26,7 @@
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - *Mac Image Editing Software* 
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Linux Image Editing Software* 
 * [darktable](https://www.darktable.org/) - *Virtual Lighttable & Darkroom*
+* [Preset.id](https://preset.id/) - *Adobe Lightroom Presets*
 * [GradientArt](https://gra.dient.art/) - *Gradient Editor*
 * [CanonOutsideOfAuto](http://www.canonoutsideofauto.ca/play/) - *Interactive Exposure Test* 
 * [distort-grid](https://github.com/snorpey/distort-grid) - *Grid Based Image Distortion*
@@ -37,6 +38,7 @@
 * [primitive.js](https://ondras.github.io/primitive.js/) - *Redraw Images with Geometric Shapes* 
 * [PBNify](https://pbnify.com/) - *Paint by Number Tool*
 * [Inpaint](https://theinpaint.com/) - *Remove Objects from Photos* 
+* [InsertFace](https://insertface.com/) - *Selfie Frames, Backgrounds & Effects*
 * [Supershots](https://superblog.ai/supershots/) - *Add Backgrounds to Images*
 * [Remove.bg](https://www.remove.bg/), [Remove Background](https://pixlr.com/remove-background/), [Rembg](https://github.com/danielgatis/rembg), [Removal.ai](https://removal.ai/upload/) or [Background Burner](https://burner.bonanza.com/) - *Remove Background / [Gimp Plugin](https://github.com/manu12121999/RemoveBG-GIMP) unlimited accounts w/ [Temp Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)*
 * [PFP.LGBT](https://pfp.lgbt/) - *LGBTQ+fy Images*
@@ -45,6 +47,7 @@
 * [PicFont](https://picfont.com/) - *Add Text to Images*
 * [Acme Annotator](https://acme.com/annotator/) - *Add Notes to a Picture* 
 * [Face Merging](https://www.faceplusplus.com/face-merging/) or [MorphThing](https://www.morphthing.com/) - *Face Merging Tool* 
+* [Reflect](https://www.reflect.tech/) - *Face Swap Tool*
 
 ***
 
@@ -81,7 +84,7 @@
 # ► Image Generation
 
 * [Rough.js](https://roughjs.com/) - *Create Graphics that look Hand-Drawn*
-* [FontIcon](https://gauger.io/fonticon/)[PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [IconsFlow](https://iconsflow.com/) or [Favic-o-Matic](https://favicomatic.com/) - *Icon / PFP Makers*
+* [FontIcon](https://gauger.io/fonticon/)[PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [ICO Convert](https://www.icoconvert.com/), [IconsFlow](https://iconsflow.com/) or [Favic-o-Matic](https://favicomatic.com/) - *Icon Generators*
 * [Logo Makr](https://logomakr.com/), [The Logo Wizard](https://www.thelogowizard.com/), [Logoshi](https://www.logoshi.com/) or [ACME](https://acme.com/labelmaker/) - *Logo Creator* 
 * [ArtFlow](http://artflow.ai/) - *Face / Avatar Generator*
 * [imgsli](https://imgsli.com/) - *Before & After Slider Generator*
@@ -210,7 +213,7 @@
 * [Anaglyph Maker](https://www.stereoeye.jp/software/index_e.html) - *Make 3D Images*
 * [3DThis](https://3dthis.com/) - *3D Animation Tools* 
 * [PaintUp](http://technohippy.github.io/teddyjs/) - *Make 2D Art Into 3D*
-* [CGPersia](https://cgpersia.com/), [Clara](https://clara.io/library), [Sketchfab](https://sketchfab.com/), [GrabCad](https://grabcad.com/), [CGTrader](https://www.cgtrader.com/free-3d-models) or [Free3D](https://free3d.com/) - *3D Models*
+* [CGPersia](https://cgpersia.com/), [Clara](https://clara.io/library), [Sketchfab](https://sketchfab.com/), [GrabCad](https://grabcad.com/), [3D-Load](https://3d-load.net/), [CGTrader](https://www.cgtrader.com/free-3d-models) or [Free3D](https://free3d.com/) - *3D Models*
 * [Thingiverse](https://www.thingiverse.com/), [Yeggi](https://www.yeggi.com/) or [YouImagine](https://www.youmagine.com/) - *3D Printer Models* 
 * [MyMiniFactory](https://www.myminifactory.com/) - *Mini 3D Printer Models*
 * [DEFCAD](https://defcad.com/) - *3D Gun Models*
@@ -253,9 +256,9 @@
 ## ▷  Hosting / Viewing 
 
 * **[Image Hosting / Processing Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosting_.2F_processing)** - *Host / Process Images*
-* **[Instagram Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_instagram_tools)**
 * [IrfanView](https://www.irfanview.com/), [qimgv](https://github.com/easymodo/qimgv), [XnView](https://www.xnview.com/en/), [nomacs](https://nomacs.org/), [ImageGlass](https://imageglass.org/), [PhotoQt](https://github.com/luspi/photoqt), [Win 7 Photos](https://mega.nz/file/94AwRBiZ#ySswvrH88PlmNrLcbmrIZROWVcmLum-N0tAZS31l72U) or [PicView](https://github.com/Ruben2776/PicView) - *Image Viewers* 
 * [Piwigo](https://piwigo.org/) - *Photo Manager / Viewer*
+* [FEMBOY](https://github.com/k1rak1ra/FEMBOY) - *Anime Image Manager*
 * [Pinry](https://docs.getpinry.com/ ) - *Image Tiling Board*
 * [Lychee](https://lycheeorg.github.io/) - *Self-Hosted Image Host* 
 * [Pixiv](https://www.pixiv.net/en/) - *User Made Image Host / [Downloader](https://github.com/nonPointer/PixivDownloader), [2](https://chrome.google.com/webstore/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnj?hl=en)*
@@ -298,6 +301,7 @@
 ## ▷ Instagram Tools
 
 * **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** - *Multiple Tools* 
+* [Deskgram](https://deskgram.app/) - *Upload Desktop Client*
 * [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - *Modded Android Client*
 * [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - *Modded iOS Client*
 * [InstaFollowers](https://www.instafollowers.co/instagram-tools) - *Multiple Tools* 
@@ -308,8 +312,10 @@
 * [SearchMy.bio](https://www.searchmy.bio/) - *Bio Search*
 * [Instagram-Explorer](https://www.osintcombine.com/instagram-explorer) - *Explore Pictures by Location* 
 * [Save Instagram](https://gist.github.com/g-rohit/f47170c8b3b302bcbe214ba624d636bc) - *Enable right click / save on Instagram* 
-* [StoriesDown](https://storiesdown.com/ ) - *Story Downloader*
+* [InstaJust](https://www.instajust.com/) - *Instagram Photo Editor & Viewer*
+* [StoriesDown](https://storiesdown.com/) or [StoriesIG](https://storiesig.net/) - *Story Downloader*
 * [InstaDP](https://www.instadp.com/) or [Instagram-crawler](https://github.com/hehpollon/Instagram-crawler) - *Picture / Story Downloader* 
+* [PixWox](https://www.pixwox.com/) - *Story / Picture / Story Downloader*
 * [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [SocialUnblock](https://socialunblock.com/), [Instagram-Scraper](https://github.com/arc298/instagram-scraper), [DownloadGram](https://downloadgram.com/), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [igram](https://igram.io/), [InstaLooter](https://github.com/althonos/InstaLooter), [Instaloader](https://github.com/instaloader/instaloader), [InstaSave](https://github.com/sameera-madushan/InstaSave) or [YooYing](https://www.yooying.com/instagram-downloader) - *Picture / Video Downloader*
 * [4K Stogram](https://www.4kdownload.com/products/product-stogram) or [InstaLoader](https://instaloader.github.io/) - *Picture Downloader* 
 * [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - *Video Downloader*
