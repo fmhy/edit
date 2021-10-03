@@ -322,6 +322,7 @@
 * [ddl-albums](https://ddl-albums.net/) - *MP3*
 * [CasualGamers](https://casualgamers.club/) - *Games*
 * [GLOAD](https://gload.to/) - *Games*
+* [German Book Repository](https://rvdm5wlb3t4qaqkljs4ya545x6mh77wegdhu7t6iz6emh3f47u3sydyd.onion/) - *Books*
 
 ## ▷ Streaming
 
@@ -340,6 +341,7 @@
 * [S.TO](https://s.to/) - *TV / Anime* 
 * [SRF.CH](https://www.srf.ch/) - *TV / Sports / Live*
 * [Anime-Loads](https://www.anime-loads.org/) - *Anime*
+* [Anicloud](https://anicloud.io/) - *Anime*
 * [Dokuhouse](https://www.dokuhouse.de/) - *Documentaries*
 * [dokustreams](https://dokustreams.de/) - *Documentaries*
 * [Doku-Streams](http://doku-streams.com/) - *Documentaries*
@@ -485,6 +487,7 @@
 
 * [Bioskopkeren](https://bioskopkeren.black/) - *Movies / TV* 
 * [Fl1x](https://fl1x.com/) - *Movies / TV* 
+* [Filmapik](http://103.194.171.18/) - *Movies / TV*
 * [Ligaxxi](http://ligaxxi.xyz/) - *Movies / TV* 
 * [Neonime](https://neonime.site/) - *Anime*
 * [Animasu](https://animasu.tv/) - *Anime*
@@ -592,6 +595,8 @@
 # ► Korean
 
 * [ZoaLink](https://zoalink.com/) - *Korean Sites Index* 
+* [dic.daum](https://dic.daum.net/) - *Korean Translator, Spellchecker & more*
+* [EBS](https://www.ebs.co.kr/) - *Korean Courses the Visually / Hearing Impaired*
 
 ## ▷ Downloading
 
@@ -625,6 +630,7 @@
 ## ▷ Reading
 
 * [MangaViewAndroid](https://github.com/junheah/MangaViewAndroid) - *Manga / Android*
+* [Dict.Naver](https://dict.naver.com/) - *Korean Dictionary*
 
 ***
 
@@ -1195,6 +1201,7 @@
 * [indianebooks](https://t.me/indianebooks) - *Books*
 * [Digital Library of India](https://dli.sanskritdictionary.com) - *Books*
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - *Radio*
+* [BotAllen](https://botallen.com/) - *Kodi Repo*
 
 ***
 
