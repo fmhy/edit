@@ -165,7 +165,7 @@
 * [Toorgle](http://www.toorgle.com/) 
 * [Veoble](http://veoble.com/torrent/) 
 * [Torrents.csv](https://torrents-csv.ml/#/) - *Torrent CSV Search*
-* [BTDigg](https://btdig.com/index.htm) - *Torrent DHT Search Engine*
+* [BTDigg](https://btdig.com/index.htm) - *Torrent DHT Search Engine / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/)*
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - *Magnet Web App Search*
 * [magnetico](https://github.com/boramalper/magnetico) or [Torrentinim](https://github.com/sergiotapia/torrentinim) - *Self-Hosted Torrent Search Engine*
 * [torrentsearcher_bot](https://t.me/torrentsearcher_bot), [torrenthuntbot](https://t.me/torrenthuntbot) or [FDTorrentSearchBot](https://t.me/FDTorrentSearchBot) - *Telegram Torrent Search Bot* 
