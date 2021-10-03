@@ -108,11 +108,13 @@
 * [FullBooks](http://www.fullbooks.com/) - *Books* 
 * [eBook4Expert](https://ebook4expert.net/) - *Books* 
 * [Chest of Books](https://chestofbooks.com/) - *Books*
+* [Just Another Library](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/)
 * [All Books Hub](https://allbookshub.com/) - *Books*
 * [8ebooks](https://8ebooks.net/) - *Books / Magazines*
 * [ebooksz](https://www.ebooksz.net/) - *Books*
 * [BBooks](https://bbooks.info/) - *Books*
 * [eBook777](https://www.ebooks777.net/) - *Books*
+* [Novels80](https://novels80.com/) - *Books*
 * [Bibliomania](http://www.bibliomania.com/bibliomania-static/index.html) - *Books*
 * [ReadCentral](https://www.readcentral.com/) - *Books*
 * [Authorama](http://www.authorama.com/) - *Books*
@@ -202,6 +204,7 @@
 * [Balwin of Library](https://ufdc.ufl.edu/baldwin/all/thumbs) 
 * [Read.gov](http://www.read.gov/books/) 
 * [Classic Literature](https://classic-literature.co.uk/) 
+* [FullTextArchive](https://www.fulltextarchive.com/)
 * [Classics.mit](http://classics.mit.edu/index.html)
 * [sherlock-holm.es](https://sherlock-holm.es/) - *Complete Sherlock Holmes Canon*
 
@@ -336,8 +339,9 @@
 * [Kenorb's New Age library](https://www.dropbox.com/sh/2x5qfpd4csenuws/AABxbTrOvXVRcwsW0z9t6AFJa) - *Esoterica / Mythology / Gnosticism* 
 * [Esoterica](https://mega.nz/#F!hQVFBDbT!f3gOa3LUAHJXJJbFZfDytg) - *Esoterica / Philosophy / Gnosticism* 
 * [Logoi Library](http://logoilibrary.com/) - *Gnosticism / Hermeticism* 
-* [766 occult books](http://www.mediafire.com/file/abggpzcdxv09w80/books.zip) - *Occult* 
+* [766 Occult Books](http://www.mediafire.com/file/abggpzcdxv09w80/books.zip) - *Occult* 
 * [Messy occult library](https://mega.nz/#F!BNljAKhB!eY3NfH3DZtthocohW8Lwwg) - *Occult / Esoterica / Gnosticism* 
+* [BeyondWeird](https://beyondweird.com/) - *Occult / Witchcraft / Esoterica*
 * [LeftHandPath](https://mega.nz/#F!E4cSzYBZ!SPeQA0WuSMVh_oQtpYnN5w) - *Luciferianism* 
 * [mr.taco9's library](https://drive.google.com/drive/folders/0B7TpGr9NCseXVWRQbFlpT28zQzg) - *Occult / Luciferianism* 
 * [The Law of One](https://www.lawofone.info/) - *The Law of One Sessions*
@@ -353,6 +357,7 @@
 * [Mythology.net](https://mythology.net/) - *Mythology / Religion*
 * [Beyond Weird](https://www.beyondweird.com/) - *Assorted Documents / Witchcraft / Conspiracies*
 * [Archive](https://drive.google.com/drive/folders/1UNPHhBJNOUB0c-gFi9toSqirPSi4W99R) - *Conspiracy / Occult / Metaphysics*
+* [Dhushara Research](http://www.dhushara.com/index.htm) - *Metaphysics / Conspiracies / Psychedelics*
 * [CraftStuff](https://drive.google.com/drive/u/0/mobile/folders/1BurmAyZ-iEpDARXawyeYmwD2MGHrw4l6?usp=sharing) - *Witchcraft*
 * [Witchcraft Library](https://docs.google.com/document/d/1sVSqjxTDykRaFEsuing9oOo8zk8KFHDU5jD3k-sHWe4/) - *Witchcraft / Pagan*
 * [Public Witchcraft Library](https://drive.google.com/drive/folders/1GiMpMOxPnxgcgXn8upkxRqTDRmAiep3y) - *Witchcraft / Paganism / Satanism*
@@ -664,7 +669,7 @@
 * [Aleph](https://github.com/alephdata/aleph ) - *Document Index Tool*
 * [Dataset Search](https://datasetsearch.research.google.com/) - *Dataset Search Google* 
 * [PDF / Doc Search Engine](https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0) 
-* [DocDownloader](https://docdownloader.com/), [guIHelp](https://discord.gg/rgF9jY8CpH) or [ScribdDown](https://scribddown.com/) - *[Scribd](https://www.scribd.com/) Document Downloader* 
+* [DocDownloader](https://docdownloader.com/), [DownScribd](https://downscribd.com/), [guIHelp](https://discord.gg/rgF9jY8CpH) or [ScribdDown](https://scribddown.com/) - *[Scribd](https://www.scribd.com/) Document Downloader* 
 * [Scribd Download Guide](https://redd.it/kfv1c6) 
 * [ZealDocs](https://zealdocs.org/) - *Documentation Reader*
 * [GROBID](https://github.com/kermitt2/grobid) - *Extract / Organize Scientific Document Info*
