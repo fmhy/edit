@@ -136,6 +136,7 @@
 * [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - *Discord Code Blocks*
 * [Discord4J](https://discord4j.com/) or [Diskord](https://diskord-dev.github.io/) / [GitHub](https://github.com/diskord-dev/diskord) - *Discord API Wrapper*
 * [Javacord](https://javacord.org/) - *Discord Bot Creation Library*
+* [BotGhost](https://botghost.com/) - *Discord Bot Creator*
 * [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - *C++ Library for Discord*
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - *Toolbox for Reddit Extension Development*
 * [XunLei](https://www.xunlei.com/) - *Shared Computing / Blockchain*
@@ -167,6 +168,7 @@
 * [Sketch2Code](https://sketch2code.azurewebsites.net/) - *Convert Hand-Drawn Designs into HTML*
 * [Straw.Page](https://straw.page/) - *Simple Site Creator*
 * [LocalXpose](https://localxpose.io/) - *Reverse Proxy*
+* [Bootstrap](https://bootstrapmade.com/) - *Website Templates & Themes*
 * [Elements Envato](https://qltien.com/elements/getcode/babiato.html) - *Templates, Mockups, Logos, Video*
 * [Uisual](https://uisual.com/) - *Landing Page Templates*
 * [Canva](https://www.canva.com/) - *Design Templates* 
@@ -178,7 +180,7 @@
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - *Mobile Friendly Page Test* 
 * [RealFaviconGenerator](https://realfavicongenerator.net/) - *Website Favicon Generator*
 * [hlsflow](https://github.com/hlsflow/hlsflow) - *Host Video in HLS Stream*
-* [WebDesigner](https://webdesigner.withgoogle.com/) or [Animate.css](https://animate.style/) - *Create Interactive Motion Graphics*
+* [WebDesigner](https://webdesigner.withgoogle.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/AriaMinaei/theatre) or [Animate.css](https://animate.style/) - *Create Interactive Motion Graphics*
 * [MapBox](https://www.mapbox.com/) - *Live Maps, Location Search & More*
 * [Kontactr](https://kontactr.com/) or [Formsend](https://formsend.org/) - *Form Builder*
 * [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)- *Penetration Testing Resources*
@@ -401,7 +403,9 @@
 * [Shell Cloud](https://shell.cloud.google.com/) - *Google Cloud Shell Environment*
 * Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Config](https://github.com/ChristianChiarulli/LunarVim)
 * [Vim Plug](https://github.com/junegunn/vim-plug), [Vim Pathogen](https://github.com/tpope/vim-pathogen), [Vundle](https://github.com/VundleVim/Vundle.vim ), [Dein](https://github.com/Shougo/dein.vim) - *Vim Plugin Managers*
+* [vim-markdown](https://github.com/plasticboy/vim-markdown) - *Vim Markdown Plugin*
 * [VimAwesome](https://vimawesome.com/) - *Vim Plugin Search*
+* [Goyo.vim](https://github.com/junegunn/goyo.vim) - *Distraction-free writing in Vim*
 * [nvim](https://github.com/neoclide/coc.nvim) - *Neovim LSP Autocompletion coc.*
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - *Vim Code-completion engine*
 * [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - *Visual Studio Code Extensions* 
