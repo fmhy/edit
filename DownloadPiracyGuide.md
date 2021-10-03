@@ -131,7 +131,7 @@
 ## ▷ Search Sites
 
 * **[Download Sites Search](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** + [Download Sites 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h)
-* **[ZippyShareSearch](https://zippysharesearch.com/)** - *Search Zippyshare* 
+* **[ZippyShareSearch](https://zippysharesearch.com/)** or [ZippyShareFinder](https://zippysharefinder.com/) - *Search Zippyshare* 
 * [FilePursuit](https://filepursuit.com) + *[Discord](https://discord.gg/xRfFd8h)*
 * [scnlog](https://scnlog.me/)
 * [filesearch.link](http://filesearch.link/)
