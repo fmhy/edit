@@ -120,6 +120,7 @@
 * [CryptoTips](https://www.cryptotips.us/) - *Courses* 
 * [5G GYAN](https://www.5ggyan.com/) - *Courses* 
 * [HackingWorld](https://in.hackingworld.best/) - *Courses*
+* [AfraTafreeh](https://afratafreeh.com/) - *Courses*
 * [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - *Courses*
 * [Open-Video](https://open-video.org/) - *Courses / Documentaries*
 * [FreeCourseLechz](https://t.me/joinchat/AAAAAEeZL9jF22ZREqka2g) - *Courses / Telegram* 
@@ -180,6 +181,7 @@
 * [FreeCourseSite](http://freecoursesite.com/) - *Courses*
 * [GetFreeCourses](https://getfreecourses.co/) - *Courses*
 * [OnlineCourseBay](https://onlinecoursebay.com/) - *Courses* 
+* [DownloadFreeCourse](https://downloadfreecourse.com/) - *Courses*
 * [UdemyTuts](https://udemytuts.com/) - *Udemy Courses* 
 * [My Free Courses](http://myfreecourses.com/) - *Udemy Courses*   
 * [UdemyDownload](https://udemydownload.com/) - *Udemy Courses*
@@ -336,6 +338,7 @@
 * [Yojik](https://fsi-languages.yojik.eu/index.html) or [ESOL](https://www.esolcourses.com/) - *Language Learning Courses*
 * [Language Transfer](https://www.languagetransfer.org/) - *Language Learning Courses / Audio*
 * [refold.la](https://refold.la/roadmap) - *Language Learning Guide* 
+* [Hey! Lingo](https://www.heylingo.com/) - *Language Learning Flashcards*
 * [Learn English Online](http://www.learn-english-online.org/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - *Learn English*
 * [Free4Talk](https://www.free4talk.com/) or [Speaking24](http://www.speaking24.com/) - *English Practice Community*
 * [MyLanguages](http://mylanguages.org/) or [Langeek](https://langeek.co/) - *Grammar / Vocabulary Language Learning*
@@ -348,13 +351,26 @@
 * [South Asian Languages](https://discord.gg/TrdqTDdMba) - *South Asian Language Learning*
 * [StudySpanish](https://studyspanish.com/) - *Spanish Learning Tutorials*
 * [AnimeLon](https://animelon.com/) - *Streaming / Anime / Learn Japanese*
+* [Nihongo](https://nihongo-e-na.com/eng/) - *Japanese Learning Resources*
 * [Marshall's Site](https://marshallyin.com/) or [Tofugu](https://www.tofugu.com/) - *Learn Japanese* 
+* [Minato](https://minato-jf.jp/) - *Japanese Courses*
 * [Memento](https://github.com/ripose-jp/Memento) - *Japanese Learning Video Player*
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - *Japanese Practice Material*
 * [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - *Japanese Accent Dictionary* 
 * [GetKanda](https://getkana.com/app/) - *Learn Kana* 
-* [WaniKani](https://www.wanikani.com/) - *Learn Kanji*
+* [WaniKani](https://www.wanikani.com/) or [Manji](https://github.com/Livinglist/Manji) - *Learn Kanji*
 * [Read Korean Letters](https://readkoreanletters.com/) - *Learn Korean Characters* 
+* [KR Dict](https://krdict.korean.go.kr/eng/) - *Korean Learning Dictionary*
+* [HowToStudyKorean](https://www.howtostudykorean.com/) - *Korean Lessons & Practice*
+* [OhMyKorean](http://ohmykorean.com/) - *Korean Practice*
+* [Korean Class](http://global.seoul.go.kr/user.do?menu_id=0407000000&site_code=0101) - *Korean Learning Class*
+* [iksi](https://www.iksi.or.kr/) - *Korean Classes*
+* [TalkToMeInKorean](https://talktomeinkorean.com/) - *Korean Learning Courses*
+* [Sogang](http://korean.sogang.ac.kr/) - *Korean Learning Lessons Korean*
+* [KoreanKeyboardLearner](https://monikasun88.github.io/KoreanKeyboardLearner/) - *Korean Typing Practice*
+* [Korean Trainer](http://koreantrainer.mloesch.it/) - *Korean Number & Date Practice*
+* [Hangul](https://hangul.cool/) - *Korean Typing Practice*
+* [Bangtan Korean](https://bangtankorean.com/) - *Learn Korean via BTS Songs*
 * [Mandarin Chinese](https://drive.google.com/drive/u/0/mobile/folders/152oeHQoeqvC9RVMk6kJi1irAlSSp7NVk?usp=sharing) - *Mandarin Chinese Learning Books*
 * [Chinese Flashcards](http://www.chineseflashcards.io/) - *Chinese Flashcards*
 * [LearningSwedish](https://learningswedish.se/) - *Swedish Learning Course*
@@ -364,7 +380,6 @@
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)  
 * [BSL Dictionary](https://www.signbsl.com/) - *British Sign Language* 
 * [Language Drops](https://languagedrops.com/) or [10,000 Sentences](https://github.com/tkrajina/10000sentences) - *Language Learning App / [Premium](https://forum.mobilism.org/search.php?keywords=drops&sr=topics&sf=titleonly)*
-* [Manji](https://github.com/Livinglist/Manji) - *Language Learning / Japanese / Kanji*
 * [PolyGlot](http://polyglots.free.fr/) - *Linguistic Teaching Software*
 * [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - *Language Identification Test*
 * [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap)- *Listen to Accents*
@@ -482,6 +497,7 @@
 * [Eylenburg](https://eylenburg.github.io/) - *Infographs, Maps & Papers*
 * [LizardPoint](https://lizardpoint.com/) - *Geography Quizzes* 
 * [The True Size](https://thetruesize.com/) - *Compare Country Size* 
+* [JoinUS World](https://www.joinusworld.org/) - *Korean Culture Q&A Site*
 * [Seeing Theory](https://seeing-theory.brown.edu/) - *Interactive Probability / Statistics Lessons* 
 * [VirtualTrebuchet](http://virtualtrebuchet.com/) - *Trebuchet Simulator* 
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - *Pendulum Simulator*
