@@ -96,7 +96,6 @@
 * [Dianying](https://dianying.fm/) - *Hash Search*
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io) or [OilAndFish](https://www.oilandfish.com/) - *Bypass Chinese Firewall*  
-* [FydeOS](https://fydeos.io/download) - *Chinese ChromeOS Build*
 * [Dict.Baidu](https://dict.baidu.com/) - *Chinese Word, Idiom & Poem Search*
 * [ICIBA](http://www.iciba.com/) or  [YouDao](https://fanyi.youdao.com/) - *Chinese Translator / [Client](http://cp.iciba.com/)*
 
