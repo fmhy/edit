@@ -374,9 +374,7 @@
 * [Korean Trainer](http://koreantrainer.mloesch.it/) - *Korean Number & Date Practice*
 * [Hangul](https://hangul.cool/) - *Korean Typing Practice*
 * [Bangtan Korean](https://bangtankorean.com/) - *Learn Korean via BTS Songs*
-* [Train Chinese](https://www.trainchinese.com/) - *Chinese Learning App*
-* [ChineseSkill](https://www.chineseskill.com/) - *Chinese Learning App*
-* [HelloChinese](http://hellochinese.cc/) - *Chinese Learning App*
+* [Train Chinese](https://www.trainchinese.com/), [ChineseSkill](https://www.chineseskill.com/) or [HelloChinese](http://hellochinese.cc/) - *Chinese Learning App*
 * [TofuLearn](https://www.tofulearn.com/) - *Chinese Vocab Practice*
 * [DU Chinese](https://www.duchinese.net/) - *Chinese Lessons*
 * [Dong Chinese](https://www.dong-chinese.com/) - *Chinese Lessons*
