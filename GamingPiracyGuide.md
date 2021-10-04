@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/k53tKBJ.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/6hZjkRg.png)** - *For mobile users*
 
 ***
 ***
@@ -174,34 +174,6 @@
 
 ***
 
-## ▷ Browser Emulators
-
-* **[My Abandonware](https://www.myabandonware.com/)**
-* **[RetroGames](https://www.retrogames.cz/)**
-* **[Console Living Room](https://archive.org/details/consolelivingroom)** 
-* **[retrogames.cc](https://www.retrogames.cc/)** - *[Download Guide](https://i.imgur.com/jSAsSb6.png)*
-* [QAOP](http://torinak.com/qaop/games) - *Arcade Games*
-* [ClassicReload](https://classicreload.com/) 
-* [Retro Games Bot](https://retrogamesbot.com/)
-* [Vizzed](https://www.vizzed.com/)
-* [Free80sArcade](http://www.free80sarcade.com/)
-* [Retro Uprising](http://www.retrouprising.com/) 
-* [Play Classic Games](https://playclassic.games/) 
-* [Emulator.Games](https://emulator.games/) 
-* [GamulatoR](https://www.gamulator.com/roms)
-* [Aurora](https://skitty.xyz/aurora/) 
-* [Emulator.online](http://emulator.online/) 
-* [Emulator Games Online](https://emulatorgames.online/) 
-* [OldGameShef](https://oldgameshelf.com/)
-* [Emulator Online](https://emulatoronline.com/)
-* [MyEmulator](https://myemulator.online/) 
-* [PS1FUN](http://www.ps1fun.com/) - *PS1 Browser Emulator* 
-* [LYR9C](https://lyr9c.weebly.com/gba-games.html) - *GBA Browser Emulator* 
-* [LetsPlayGB](https://www.letsplaygb.com/) - *Game Boy Browser Emulator*
-* [OpenBOR](https://github.com/DCurrent/openbor) or [Mugen](https://web.archive.org/web/20150209191723/http://www.elecbyte.com/mugen) - *2D Fighting Game Emulator*
-
-***
-
 ## ▷ Rom Archives
 
 * **[No-Intro](https://archive.org/details/no-intro_romsets)**, [2](https://archive.org/details/No-Intro-Collection_2016-01-03_Fixed), [3](https://archive.org/details/No-Intro-Collection_2016-09-06) - *Roms*
@@ -250,6 +222,34 @@
 * [datcheck](https://github.com/pkos/datcheck) - *Compare No-Intro / Redump dat files to rom or disc collection* 
 * [HiddenPalace](https://hiddenpalace.org/) - *Game Development Media Archive*
 * [Xbox Collection](https://archive.org/details/xboxcds?sort=-downloads) - *CD Roms / Xbox / DDL / Torrents*
+
+***
+
+## ▷ Browser Emulators
+
+* **[My Abandonware](https://www.myabandonware.com/)**
+* **[RetroGames](https://www.retrogames.cz/)**
+* **[Console Living Room](https://archive.org/details/consolelivingroom)** 
+* **[retrogames.cc](https://www.retrogames.cc/)** - *[Download Guide](https://i.imgur.com/jSAsSb6.png)*
+* [QAOP](http://torinak.com/qaop/games) - *Arcade Games*
+* [ClassicReload](https://classicreload.com/) 
+* [Retro Games Bot](https://retrogamesbot.com/)
+* [Vizzed](https://www.vizzed.com/)
+* [Free80sArcade](http://www.free80sarcade.com/)
+* [Retro Uprising](http://www.retrouprising.com/) 
+* [Play Classic Games](https://playclassic.games/) 
+* [Emulator.Games](https://emulator.games/) 
+* [GamulatoR](https://www.gamulator.com/roms)
+* [Aurora](https://skitty.xyz/aurora/) 
+* [Emulator.online](http://emulator.online/) 
+* [Emulator Games Online](https://emulatorgames.online/) 
+* [OldGameShef](https://oldgameshelf.com/)
+* [Emulator Online](https://emulatoronline.com/)
+* [MyEmulator](https://myemulator.online/) 
+* [PS1FUN](http://www.ps1fun.com/) - *PS1 Browser Emulator* 
+* [LYR9C](https://lyr9c.weebly.com/gba-games.html) - *GBA Browser Emulator* 
+* [LetsPlayGB](https://www.letsplaygb.com/) - *Game Boy Browser Emulator*
+* [OpenBOR](https://github.com/DCurrent/openbor) or [Mugen](https://web.archive.org/web/20150209191723/http://www.elecbyte.com/mugen) - *2D Fighting Game Emulator*
 
 ***
 
