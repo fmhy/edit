@@ -26,13 +26,14 @@
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - *Mac Image Editing Software* 
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Linux Image Editing Software* 
 * [darktable](https://www.darktable.org/) - *Virtual Lighttable & Darkroom*
-* [Preset.id](https://preset.id/) - *Adobe Lightroom Presets*
+* [Preset.id](https://preset.id/) or [FreePreset](https://freepreset.net/) - *Adobe Lightroom Presets*
 * [GradientArt](https://gra.dient.art/) - *Gradient Editor*
 * [CanonOutsideOfAuto](http://www.canonoutsideofauto.ca/play/) - *Interactive Exposure Test* 
 * [distort-grid](https://github.com/snorpey/distort-grid) - *Grid Based Image Distortion*
 * [PaintingLight](https://lllyasviel.github.io/PaintingLight/) - *Digital Lighting Effect Generator*
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - *Turn Simple Art into Photo Realistic Landscapes [Web](http://nvidia-research-mingyuliu.com/gaugan/)*
 * [DeepArt](https://deepart.io/), [AI Gahaku](https://ai-art.tokyo/en/), [Dreamscope](https://dreamscopeapp.com/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own) or [Deep Dream Generator](https://deepdreamgenerator.com/) - *Turn Photos into Artwork* 
+* [ImageGoNord](https://ign.schrodinger-hat.it/) - *Convert Images to NordTheme Pallette*
 * [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) or [Cartoonize](https://cartoonize-lkqov62dia-de.a.run.app/cartoonize) - *Turn Photos into Cartoons*
 * [AIDraw](https://ai-draw.tokyo/en/) - *Turn Photos into Line Drawings* 
 * [primitive.js](https://ondras.github.io/primitive.js/) - *Redraw Images with Geometric Shapes* 
@@ -184,7 +185,7 @@
 * [Artbreeder](https://artbreeder.com/) - *Image Discovery / Combining*
 * [Free Vector Sites](https://onehack.us/t/get-download-free-vectors-45-sites-to-grab-vectors/96104) - *Vector Images* 
 * [Artvee](https://artvee.com/) - *Public Domain Artwork* 
-* [/r/BLKMARKET](https://reddit.com/r/blkmarket) - *Plugins, Textures & Mockups*
+* [/r/BLKMARKET](https://reddit.com/r/blkmarket) or [creaxy](https://www.creaxy.com/) - *Themes, Plugins, Textures & Mockups*
 * [Placeit](https://placeit.net/) - *Image Templates*
 * [Crello](https://crello.com/) - *Image Templates / Editor*
 * [Worldvectorlogo](https://worldvectorlogo.com/), [Brands of the World](https://www.brandsoftheworld.com/) or [Logos Download](https://logos-download.com/) - *Brand Logos*
@@ -199,6 +200,7 @@
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YouTube Screenshot](https://www.youtubescreenshot.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - *Grab YouTube Thumbnails* 
 * [gallery-dl](https://github.com/mikf/gallery-dl) - *Image / Gallery Downloader*
 * [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - *Imageboard Downloader / [Viewer](https://github.com/loadletter/grabber-viewer)* 
+* [Facedown](http://www.vincentcheung.ca/facedown/) - *Facebook Image Downloader*
 * [Flicker-Download](https://github.com/beaufour/flickr-download) - *Flickr Scraper* 
 * [iPack Builder](https://www.deviantart.com/mr-blade/art/iPack-Builder-v2-2-Tool-for-icon-customization-473088895), [2](https://mrbladedesigns.com/ipack-builder/) - *Create Icon Pack Installers*
 
@@ -227,6 +229,7 @@
 * [FreeCAD](https://www.freecadweb.org/) - *3D Parametric Modeler*
 * [vrn](https://cvl-demos.cs.nott.ac.uk/vrn/) - *3D Face Reconstruction* 
 * [3D Transformer](https://www.3dtransformer.com/) - *Rotate 3D Images*
+* [Ameede](https://www.ameede.com/) - *CNC / Laser Design Vectors*
 
 ***
 
@@ -300,11 +303,10 @@
 
 ## ▷ Instagram Tools
 
-* **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** - *Multiple Tools* 
+* **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)**, [InstaFollowers](https://www.instafollowers.co/instagram-tools) or [aloinstagram](https://aloinstagram.com/) - *Multiple Tools* 
 * [Deskgram](https://deskgram.app/) - *Upload Desktop Client*
 * [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - *Modded Android Client*
 * [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - *Modded iOS Client*
-* [InstaFollowers](https://www.instafollowers.co/instagram-tools) - *Multiple Tools* 
 * [imginn](https://imginn.com/) or [Greatfon](https://greatfon.com/) - *Instagram Viewer*
 * [QIS](https://github.com/propublica/qis/) or [Instagram Search Tool](https://www.aware-online.com/en/osint-tools/instagram-search-tool/) - *Search Tool* 
 * [SearchUsers](https://searchusers.com/) - *User Search* 
