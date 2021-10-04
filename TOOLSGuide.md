@@ -130,7 +130,6 @@
 * [Donger List](http://dongerlist.com/) - *600+ Unicode Emoticons* 
 * [ASCII Art Creator](https://github.com/CherryPill/ASCII-art-creator) or [ASCII Today](https://ascii.today/) - *ASCII Art Generator*
 * [randSeq](http://www.dave-reed.com/Nifty/randSeq.html) - *Random Letter Sequence Generator*
-* [The Ransomizer](http://www.ransomizer.com/) - *Ransom Note Generator / Message Encryption*
 * [quipqiup](https://www.quipqiup.com/) - *Cryptogram Solver* 
 * [xeuledoc](https://github.com/Malfrats/xeuledoc) - *Fetch Information about Public Google Documents*
 * [Useless-Translator](https://vcjhwebdev.github.io/useless-translator/) - *Morse Code / Binary Translator* 
