@@ -68,6 +68,7 @@
 * [EBOOKS SET 2](https://mega.nz/folder/Z1dD2YSA#XRUa1Sj9mXJHU4rh1seykg) - *Books / Drive*
 * [VK Serial Books & Magazines](https://vk.com/sebomag) - *Books / Magazines*
 * [Bookstagram](https://vk.com/bookstagram_eng) - *Books / Magazines* 
+* [ebook3000.co](https://www.ebook3000.co/) - *Books / Magazines / NSFW*
 * [29GB Mega Folder](https://mega.nz/folder/x4VG3DRL#lqecF4q2ywojGLE0O8cu4A) - *Books* 
 * [just a digital library](https://drive.google.com/drive/folders/1iQMdq5yK0EBqa1fgkmQTfW7EWSeJWYvT) - *Books*
 * [Nikola](https://mega.nz/folder/flYQGbzI#p1AFjtMuCLHQqocJqxV7rg) - *Books*
@@ -84,6 +85,7 @@
 * [eBookBB](https://ebookbb.com/)  - *Books*
 * [2020ok](http://2020ok.com/)  - *Books / Comics*
 * [AllBooksWorld](https://allbooksworld.com/)  - *Books*
+* [All Reading World](https://allreadingworld.com/) - *Books*
 * [Only Books](https://onlybooks.org/) - *Books*
 * [Repository z0ro](http://index-of.co.uk/) - *Books* 
 * [Ocean of EPUB](https://oceanofepub.com/) - *Books / Manga*
@@ -180,6 +182,7 @@
 * [Ebook PDF](https://ebookpdf.com/) - *Books* 
 * [KuPDF](https://kupdf.net/) - *Books* 
 * [ePDF](https://epdf.pub/) - *Books* 
+* [PDFCookie](https://pdfcookie.com/) - *Books*
 * [SoPDF](http://www.sopdf.com/) - *Books* 
 * [PDFSearches](https://pdfsearches.com/) - *Books*
 * [OiiPDF](https://oiipdf.com/) - *Books*
@@ -407,6 +410,7 @@
 * [Archive.Leftove.rs](https://archive.leftove.rs/) - *Protest Documents*
 * [Marxists Internet Archive](https://www.marxists.org/) - *Socialism / Communism*
 * [Liberation School](https://liberationschool.org/) - *Communism*
+* [Red Texts](https://redtexts.org/) - *Communism*
 * [libcom](https://libcom.org/library) - *Libertarian Communism* 
 * [Library of Liberty](https://oll.libertyfund.org/) - *Liberty / Free Market*
 * [Legal Mises Institute](https://mises.org/) - *Books / Audio books / Libertarianism* 
@@ -453,7 +457,6 @@
 * [OAPEN](https://oapen.org/)
 * [vdoc.pub](https://vdoc.pub/)
 * [ImSoLost](http://imsolost.com/books/)
-* [103.159.250.162:81](http://103.159.250.162:81/fdScript/index.php?dirpath=./&order=3)
 * [Readings](https://drive.google.com/drive/u/0/mobile/folders/0B5KDwL1Qi6zUWFlfbU8yTjU4WUE?usp=drive_open)
 * [StruggleBuddies 4.0](https://mega.nz/folder/A15gybjB#s_vaCKHVR35X704ot2g7LQ)
 * [pdfs - books](https://drive.google.com/drive/u/0/mobile/folders/0B1DQUsG9YxIXflhQejJqcmgwbzgtcjQzbFlFU3BNeVJES1JwTW9hRmEwa0k4dUNVZEJzQzg)
@@ -555,7 +558,6 @@
 * [Project Laurens Jz Coster](https://cf.hum.uva.nl/dsp/ljc/) - *Classic / Dutch*
 * [biblior](https://biblior.net/) - *French / English / Geography / History / Tales*
 * [ In Parenthesis](https://www.yorku.ca/inpar/) - *Historic Tales*
-* [Folk Texts](http://www.pitt.edu/~dash/folktexts.html) - *Historical Folklore / Mythology*
 * [FairyTalez](https://fairytalez.com/) - *Historical Folklore / Fairy Tales*
 * [CELT](https://celt.ucc.ie/) - *Irish / History / Literature / Politics*
 * [textfiles.com](http://textfiles.com/) - *1980's Text File Index*
@@ -833,6 +835,15 @@
 * [Mangairo](https://h.mangairo.com/)
 * [MangaBat](https://m.mangabat.com/m)
 * [Yukiko](https://www.yukiko.org/manga/) 
+* [MangaEffect](https://mangaeffect.com/)
+* [Manga347](https://manga347.com/)
+* [Manga Home ](http://www.mangahome.com/)
+* [Manga47](https://manga47.net/)
+* [MangaDig](https://mangadig.com/)
+* [Mangaski](https://www.mangasaki.com/)
+* [KissManga](https://kissmanga.in/)
+* [Manhwafull](https://manhwafull.com/)
+* [Mangas.Heoo](https://mangas.heoo.workers.dev/0:/)
 * [247Manga](https://247manga.com/) 
 * [DeathTollScans](https://www.deathtollscans.net/)
 * [Manga Rock](https://mangarock.to/)
@@ -1006,6 +1017,7 @@
 * [What Should I Read Next?](https://www.whatshouldireadnext.com/), [RecommendMeABook](https://recommendmeabook.com/) or [WhichBook](https://www.whichbook.net/) - *Book Recommendations*
 * [Anime-Planet](https://anime-planet.com/) - *Manga* 
 * [All Anime](https://allanime.site/) - *Manga*
+* [Manga Codex](https://mangacodex.com/) - *Manga Infographics & Sales Stats*
 * [vndb](https://vndb.org/) - *Visual Novel*  
 * [rate.house](https://rate.house/) - *Media Tracker*
 * [libib](https://www.libib.com/) - *Desktop Media Catalog*
@@ -1087,7 +1099,7 @@
 * **[Kindle Comic Converter](https://kcc.iosphe.re/)** - *Convert EBooks to EPUB*
 * [Knock](https://github.com/BentonEdmondson/knock) - *Convert ACSM files to DRM-Free EPUB files*
 * [txtpaper](https://txtpaper.com/) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - *Webpage to Ebook Converter*
-* [Skimcast](http://www.skimcast.com/), [SummaryGenerator](https://summarygenerator.com/), [Text Rewriter](http://textrewriter.com/), [Resoomer](http://www.resoomer.com/), [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn) or [SMMRY](https://smmry.com/) - *Summary Generator* 
+* [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - *Generate Text & Article Summaries*
 * [FiveFilters](https://www.fivefilters.org/) - *Multiple Article Accessibility Tools*
 * [Bypass Quora login](https://onehack.us/t/bypass-quora-login-for-unlimited-reading-new-method-legal/92786)
 * [Kindle to PDF](https://redd.it/bm837l) - *Kindle to PDF Conversion Guide*
@@ -1096,7 +1108,7 @@
 * [BookCut](https://github.com/costis94/bookcut) - *Ebook Download Tool* 
 * [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - *Google Book Downloader w/ Proxy Support*
 * [Borrow Only DL Script](https://redd.it/ofcqds) or [Archive 1 Hour Download](https://docs.google.com/spreadsheets/u/0/d/1x9JHIVEa6_2cwpmxgUymF5OAoHZbXCO3Qh9gQVAHuR0/htmlview#gid=0) - *Download Borrow Only Archive.org Books*
-* [FicSave](http://ficsave.xyz/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - *Fanfiction Download Tool* 
+* [FicSave](http://ficsave.xyz/), [FicHub](https://fichub.net/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - *Fanfiction Downloader* 
 * [ExtractBookz](https://hub.darcs.net/JasonJAyalaP/ExtractBookz) - *Extract & Rename Ebook Files / [GitHub](https://github.com/JasonJAyalaP/ExtractBookz)*
 * [Sigil Ebook](https://sigil-ebook.com/) - *EPUB Editor*
 * [SmartStich](https://github.com/MechTechnology/SmartStitch) - *Stitch Together Webtoons*
