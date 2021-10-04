@@ -118,6 +118,7 @@
 * [Console](https://console.substack.com/) - *Subscribe to a List of Open Source Projects*
 * [RapidAPI](https://rapidapi.com/) - *API Platform*
 * [Pipedream](https://pipedream.com/) - *Connect APIs / [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)*
+* [Perspective API](https://www.perspectiveapi.com/) - *Toxicity Reduction API*
 * [Webhook.site](https://webhook.site/) - *Webhook Tool*
 * [WebSequenceDiagrams](https://www.websequencediagrams.com/) - *Draw Sequence Diagrams* 
 * [ASCII Flow](https://asciiflow.com/) - *Draw ASCII Diagrams*
@@ -136,7 +137,6 @@
 * [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - *Discord Code Blocks*
 * [Discord4J](https://discord4j.com/) or [Diskord](https://diskord-dev.github.io/) / [GitHub](https://github.com/diskord-dev/diskord) - *Discord API Wrapper*
 * [Javacord](https://javacord.org/) - *Discord Bot Creation Library*
-* [BotGhost](https://botghost.com/) - *Discord Bot Creator*
 * [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - *C++ Library for Discord*
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - *Toolbox for Reddit Extension Development*
 * [XunLei](https://www.xunlei.com/) - *Shared Computing / Blockchain*
@@ -154,6 +154,8 @@
 * [CuratedSEOTools](https://github.com/sneg55/curatedseotools) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization Tools*
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) - *Web Debugging Proxy App*
 * [Geekflare Tools](https://gf.dev/toolbox) - *Site Testing Tools*
+* [httpbin](https://httpbin.org/) - *HTTP Request & Response Service*
+* [RemoteMySQL](https://www.remotemysql.com/) - *Remote MySQL Database*
 * [Spiderfoot](https://www.spiderfoot.net/) - *Automate OSINT*
 * [Alexa Site Info](https://www.alexa.com/siteinfo) - *Site Traffic Stats / Analysis*
 * [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/),  [Network Tools](https://network-tools.com/) or [WebsiteScoop](https://websitescoop.com/) - *Domain Info / IP Tools*
@@ -171,7 +173,7 @@
 * [Bootstrap](https://bootstrapmade.com/) - *Website Templates & Themes*
 * [Elements Envato](https://qltien.com/elements/getcode/babiato.html) - *Templates, Mockups, Logos, Video*
 * [Uisual](https://uisual.com/) - *Landing Page Templates*
-* [Canva](https://www.canva.com/) - *Design Templates* 
+* [Canva](https://www.canva.com/) - *Design Templates / [Premium Apk](https://forum.mobilism.org/search.php?keywords=Canva+&sr=topics&sf=titleonly)* 
 * [Boilerplate](https://github.com/h5bp/html5-boilerplate) - *Website Frontend Template HTML5*
 * [HTML5 Temp](https://rentry.co/HTML5Temp) - *HTML5 Templates & Themes*
 * [CSS Bed](https://www.cssbed.com/) - *CSS Themes*
@@ -222,7 +224,7 @@
 * [ngrok](https://ngrok.com/) - *Introspectable Tunnels to Localhost Tools*
 * [NConfig](https://www.digitalocean.com/community/tools/nginx) - *NGINX Server Config*
 * [faustjs](https://github.com/wpengine/faustjs) - *Wordpress Framework*
-* [gpldl](https://gpldl.com/), [allwpworld](https://allwpworld.com/), [pwned.space](https://pwned.space/wordpress-themes/), [wplocker](https://www.wplocker.com/), [freegetdownloader](https://www.freegetdownloader.com/) or [babiato](https://babiato.co/) - *Wordpress Themes*
+* [gpldl](https://gpldl.com/), [allwpworld](https://allwpworld.com/), [pwned.space](https://pwned.space/wordpress-themes/), [wplocker](https://www.wplocker.com/), [WePlay](https://www.weaplay.com/), [freegetdownloader](https://www.freegetdownloader.com/) or [babiato](https://babiato.co/) - *Wordpress Themes*
 * [vichan](https://github.com/vichan-devel/vichan) - *Imageboard Software Package*
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - *Self-Hosted Private Tracker*
 
@@ -404,7 +406,8 @@
 * Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Config](https://github.com/ChristianChiarulli/LunarVim)
 * [Vim Plug](https://github.com/junegunn/vim-plug), [Vim Pathogen](https://github.com/tpope/vim-pathogen), [Vundle](https://github.com/VundleVim/Vundle.vim ), [Dein](https://github.com/Shougo/dein.vim) - *Vim Plugin Managers*
 * [vim-markdown](https://github.com/plasticboy/vim-markdown) - *Vim Markdown Plugin*
-* [VimAwesome](https://vimawesome.com/) - *Vim Plugin Search*
+* [VimAwesome](https://vimawesome.com/) - *Vim Plugins*
+* [NeovimCraft](https://neovimcraft.com/) - *Neovim Plugins*
 * [Goyo.vim](https://github.com/junegunn/goyo.vim) - *Distraction-free writing in Vim*
 * [nvim](https://github.com/neoclide/coc.nvim) - *Neovim LSP Autocompletion coc.*
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - *Vim Code-completion engine*
@@ -415,6 +418,7 @@
 * [JSPyBride](https://github.com/extremeheat/JSPyBridge) - *Interoperate Node.js and Python*
 * [AutoCode](https://autocode.com/) - *Instant Endpoints*
 * [Mega Linter](https://github.com/nvuillam/mega-linter) - *Code Analyzer* 
+* [tabnine](https://www.tabnine.com/) - *AI Assisted Code Completion*
 * [cpp.sh](http://cpp.sh/) - *Online C++ Compiler*
 * [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) - *Machine Learning Art Resource Index* 
 * [Sourcegraph](https://sourcegraph.com/) - *Universal Code Search*
