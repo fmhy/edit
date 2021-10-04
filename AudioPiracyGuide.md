@@ -12,7 +12,7 @@
 
 ## ▷ Streaming Apps
 
-* **[Spotify Client](https://spotify.com/)**, [Spotify-TUI](https://github.com/Rigellute/spotify-tui) or [XpoMusic](https://xpomusic.com/) - *Streaming*
+* **[Spotify Client](https://spotify.com/)** or [XpoMusic](https://xpomusic.com/) - *Streaming*
 * **[Spotify Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - *Spotify Tools, Adblockers, Customization & More*
 * [YouTube Music Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_music_players) - *Streaming*
 * [FunkWhale](https://funkwhale.audio/) - *Streaming*
@@ -37,7 +37,9 @@
 * [Slider](https://slider.kz/) or [My Free MP3](https://myfreemp3.vip/) - *Browser Music*
 * [xprm](https://xprm.net/) - *Browser Music*
 * [Pandora](https://www.pandora.com/) - *Browser Music*
+* [musify](https://musify.club/) - *Browser Music*
 * [Jamendo](https://www.jamendo.com/) - *Browser Music*
+* [Kainet](https://kainet.rocks/) - *Browser Music*
 * [Last.fm](https://www.last.fm/) or [Libre.fm](https://libre.fm/) - *Browser Music*
 * [Just Hear It](http://justhearit.com/hear/Iv) - *Browser Music*
 * [SoundClick](https://www.soundclick.com/default.cfm) - *Browser Music*
@@ -116,7 +118,6 @@
 * [Get MyPodcasts](https://www.microsoft.com/en-us/p/mypodcasts/9nv15nfrn50l1) - *Podcast Player*
 * [ListenLater](https://www.listenlater.fm/) - *Turn Articles into Podcasts* 
 * [ListenBox](https://listenbox.app/) - *Turn YouTube Video into Podcasts*
-* [Podcast Chart](https://www.podcastchart.com/) - *Podcast Chart / Rankings* 
 
 ***
 
@@ -208,7 +209,6 @@
 * [FreshRemix](http://freshremix.ru/) - *MP3*
 * [nodata](https://nodata.tv/) - *MP3*
 * [Black Organization](https://blackorganizationmp3.wixsite.com/music) - *MP3*
-* [Music Pleer](https://musicpleer.cloud/) - *MP3*
 * [Playit.pk](https://playit.pk/) - *MP3*
 * [SoundClick](https://www.soundclick.com/default.cfm) - *MP3*
 * [MP3 Quack](https://mp3quack.lol/) - *MP3*
@@ -224,6 +224,7 @@
 * [TheAlbumPlug](https://thealbumplug.com/) - *MP3*
 * [NetNaija](https://www.thenetnaija.com/) - *MP3* 
 * [DeadPulpit](https://www.deadpulpit.com/) - *MP3*
+* [musify](https://musify.club/) - *MP3*
 * [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - *MP3*
 * [Music for the masses !](https://redd.it/nt7fea) - *MP3*
 * [geedryve](http://jacobsm.com/geedryve/records/mp3s/) - *MP3* 
@@ -268,6 +269,7 @@
 * [Sophie's Floorboard](https://sophiesfloorboard.blogspot.com/) - *Hardcore / MP3*
 * [1Gabba](https://1gabba.pw/) - *Electronic / MP3*
 * [Gabber](https://gabber.od.ua/) - *Electronic / MP3*
+* [EDMBoost](https://edmboost.org/) - *Electronic / MP3*
 * [DQQD](https://dqqd.org/) - *Electronic / MP3 / FLAC*
 * [1Trance](https://1trance.org/) - *Trance / MP3*
 * [1Techno](https://1techno.org/) - *Techno / MP3*
@@ -341,6 +343,7 @@
 * [Best Ever Albums](https://www.besteveralbums.com/index.php) - *Discover Albums*
 * [Tunefind](https://www.tunefind.com/) - *Find Music from Movies / TV* 
 * [MusicGenreTree](https://www.musicgenretree.org/chart.html) - *Discover New Music by Genre*
+* [VGMdb](https://vgmdb.net/) - *Video Game Music Database*
 * [generasia](https://www.generasia.com/) - *Asian Music Wiki*
 * [dbkpop](https://dbkpop.com/) - *K-Pop Database*
 * [Music.ishkur](http://music.ishkur.com/) - *Electronic Music Guide* 
