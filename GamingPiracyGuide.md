@@ -47,7 +47,7 @@
 * [Bia2Game](http://dl.bia2game.com/) 
 * [GamingMaster](http://s5.gamingmaster.ir/) 
 * [cracked-games](https://cracked-games.org/) - *[Discord](https://discord.gg/tNhPmCU)*
-* [LegendaryRepacks](http://legendaryrepacks.simplesite.com/) - *[Discord](https://discord.gg/RUSNHSk) / Adblock & Universal Bypass Required*
+* [LegendaryRepacks](https://discord.gg/RUSNHSk) - *Universal Bypass Required*
 * [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [LiGHT Repack Archive](https://drive.google.com/drive/folders/1q4lRUnwVhMQuakl1yM8OH1Je9_92LpXE)
@@ -164,7 +164,7 @@
 * [NesGM](https://nesgm.net/) - *Roms / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)*
 * [Ziperto](https://ziperto.com/) - *Roms*
 * [ROM World](http://www.romworldonline.com/) - *Roms / [How-to](https://i.imgur.com/Mqab82O.png)*
-* [LegendaryRepacks](http://legendaryrepacks.simplesite.com/) - *Roms / [Discord](https://discord.gg/RUSNHSk) / Adblock & Universal Bypass Required*
+* [LegendaryRepacks](https://discord.gg/RUSNHSk) - *Universal Bypass Required*
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - *Roms / Torrent*
 * [NesFiles](https://www.nesfiles.com/) - *NES Roms / Emulators* 
 * [Eclipse](https://eclipseemu.me/play/) - *Online Mobile Multi-Console Emulator* 
@@ -183,6 +183,7 @@
 * [QAOP](http://torinak.com/qaop/games) - *Arcade Games*
 * [ClassicReload](https://classicreload.com/) 
 * [Retro Games Bot](https://retrogamesbot.com/)
+* [Vizzed](https://www.vizzed.com/)
 * [Free80sArcade](http://www.free80sarcade.com/)
 * [Retro Uprising](http://www.retrouprising.com/) 
 * [Play Classic Games](https://playclassic.games/) 
@@ -286,7 +287,6 @@
 * [The Interactive Fiction Page](http://www.cs.cmu.edu/~wsr/IF/) - *Interactive Fiction Games*
 * [Necromanthus](https://necromanthus.com/) - *3D Shockwave Games*
 * [OpenRA](https://openra.net/) - *Command & Conquer Recreation* 
-* [Classic Warcraft 3 Installers](https://www.removeddit.com/r/Piracy/comments/ewdlnd/for_anyone_looking_for_the_actual_classic/) 
 * [NolfRevival](http://nolfrevival.tk/) - *NOLF, NOLF 2 & Contract Jack*
 * [DFWorkshop](https://www.dfworkshop.net/) - *Daggerfall Unity Engine Port*
 * [OpenMW](https://openmw.org/en/) - *Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/openmw-tes3mp/) / [Android](https://github.com/xyzz/openmw-android)*
