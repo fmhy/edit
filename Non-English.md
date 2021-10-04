@@ -96,6 +96,9 @@
 * [Dianying](https://dianying.fm/) - *Hash Search*
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io) or [OilAndFish](https://www.oilandfish.com/) - *Bypass Chinese Firewall*  
+* [FydeOS](https://fydeos.io/download) - *Chinese ChromeOS Build*
+* [Dict.Baidu](https://dict.baidu.com/) - *Chinese Word, Idiom & Poem Search*
+* [ICIBA](http://www.iciba.com/) or  [YouDao](https://fanyi.youdao.com/) - *Chinese Translator / [Client](http://cp.iciba.com/)*
 
 ## ▷ Downloading
 
@@ -235,6 +238,7 @@
 
 # ► French
 
+* [P2PFR](https://forum.p2pfr.com/) - *Piracy Discussion*
 * [SubSynchro](https://www.subsynchro.com/), [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - *French Subtitles* 
 
 ## ▷ Downloading
@@ -242,15 +246,18 @@
 * **[Lamule](https://lamule.eu/)** - *Warez / List*
 * [NextWarez](http://nextwarez.com/) - *Warez Lists*  
 * [mega-p2p](https://www.mega-p2p.net/) - *Warez Lists*  
+* [Seekr](https://w1w.files-seekr.com/) - *Download Search Files*
 * [WawaCity](https://www.wawacity.video/), [2](https://www.wawacity.vip/) - *Video / Audio / Books / Magazines / Software / Android / Use AdBlocker*
 * [Tirexo](https://www.tirexo.com/), [2](https://www2.tirexo.lol/) - *Video / Audio / Books / Roms / Software / Android*
 * [Free-Telecharger](https://ww2.free-telecharger.org/) - *Movies / TV*  
+* [DBFree](http://dbfree.me/) - *Books*
+* [FRDownMags](https://fr.downmagaz.net/) - *Magazines*
 * [CYGames](https://cygames.fr/) - *Games / [Discord](https://discord.com/invite/h78Jte2UQq)*
 * [Abandonware France](https://www.abandonware-france.org/index.php) - *Abandonware*
 
 ## ▷ Torrenting
 
-* [Torrent9](https://www.torrent9.so/), [2](https://www.torrent9.gg/), [3](https://www.torrent9.site/), [4](https://www.torrent9.gg/), [5](https://www4.torrent9.to/) or [OXTorrent](https://www.oxtorrent.nz/), [2](https://oxtorrents.co/) - *Video Audio / Software / Games / Roms / Books* 
+* [Torrent9](https://www.torrent9.so/), [2](https://www.torrent9.gg/), [3](https://www.torrent9.site/), [4](https://www.torrent9.gg/), [5](https://www4.torrent9.to/), [6](https://ww2.torrentz9.fr/) or [OXTorrent](https://www.oxtorrent.nz/), [2](https://oxtorrents.co/) - *Video Audio / Software / Games / Roms / Books* 
 
 ## ▷ Streaming
 
@@ -260,6 +267,7 @@
 * [Stream pour vous](https://wvv.streampourvous.ws/) - *Movies / TV*
 * [FilmZen](https://filmzenstream.online/) - *Movies* 
 * [OtakuFR](https://otakufr.co/) - *Anime* 
+* [French-Stream](https://french-stream.re/) - *Movies / TV / Anime*
 * [JetAnime](https://www.jetanimes.co/) - *Anime* 
 * [DBAnimes](https://dbanimes.com/) - *Anime* 
 * [Anime-Ultime](http://www.anime-ultime.net/) - *Anime*
@@ -412,6 +420,7 @@
 * [Movies Point](https://mkvmoviespoint.gen.in/) - *Movies* 
 * [BDmusic](https://bdmusic23.bid/) - *Movies / TV*
 * [mkvCinemas](https://www.mkvcinemas.pm/) - *Movies / TV*
+* [MKV Mad](https://www.mkvmad.pro/) - *Movies / TV *
 * [KatMovieHD](https://katmoviehd.se/) - *Movies / TV*
 * [MoviesVerse](https://t.me/MoviesHomeOFFICIALS) - *Movies / TV / Telegram* 
 * [BollywoodCineplex](https://t.me/BollywoodCineplex) - *Movies*
@@ -595,7 +604,8 @@
 # ► Korean
 
 * [ZoaLink](https://zoalink.com/) - *Korean Sites Index* 
-* [dic.daum](https://dic.daum.net/) - *Korean Translator, Spellchecker & more*
+* [dic.daum](https://dic.daum.net/) or [Speller](http://speller.cs.pusan.ac.kr/) - *Korean Translator, Spellchecker & more*
+* [TakakTadak](https://tadaktadak.co.kr/) - *Korean Practice & English Learning*
 * [EBS](https://www.ebs.co.kr/) - *Korean Courses the Visually / Hearing Impaired*
 
 ## ▷ Downloading
