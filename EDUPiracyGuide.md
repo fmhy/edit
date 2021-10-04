@@ -82,6 +82,7 @@
 * [DocumentaryHeaven](https://documentaryheaven.com/)
 * [ARTE](https://www.arte.tv/)
 * [Documentary Mania](https://www.documentarymania.com/) 
+* [PBS Frontline](https://www.pbs.org/wgbh/frontline/films/)
 * [ThoughtMaybe](https://thoughtmaybe.com/) 
 * [Folkstreams](https://www.folkstreams.net/) 
 * [Films For Action](https://www.filmsforaction.org/) 
@@ -106,6 +107,7 @@
 * [CoursesDaddy](http://coursesdaddy.com/) - *Courses* 
 * [Course Drive](https://coursedrive.org/) - *Courses* 
 * [freetutorials.ca](https://www.freetutorials.ca/) - *Courses*
+* [Super Huge Course Collection](https://babiato.co/threads/%F0%9F%94%A5%F0%9F%94%A5-super-huge-course-collection-700-courses-3tb-data-%F0%9F%94%A5%F0%9F%94%A5.40041/) - *Courses*
 * [Courses](https://pastebin.com/jQB1shJg), [2](https://pastebin.com/Z7L3Ypzd) - *Courses / Drives*
 * [online-courses](https://online-courses.club/) - *Courses*
 * [Course Upload](https://courseupload.com/) - *Courses* 
@@ -152,6 +154,7 @@
 * [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
 * [ProCrack_Team](https://www.mediafire.com/folder/l4w8gcdcqsqtw/ProCrack_Team) - *Marketing Courses*
 * [Udemy - Cybersecurity Collection](https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD) - *Cyber Security Courses*
+* [Skills for All](https://skillsforall.com/) - *Cyber Security Courses*
 * [CertCommunity](https://www.certcommunity.org/forum/) - *IT Cert Courses*
 * [Top Linux Interview Questions & Answers](https://mega.nz/#F!K1MnlSzJ!fyLhNA7V_m1z9JZfPW0alg) - *Linux Interview Q&A*
 * [CHFI](https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg) - *Computer Hacking Forensic Courses*
@@ -274,6 +277,7 @@
 * [Math Exercises](http://www.math-exercises.com/) - *Math Practice*
 * [Pauls Online Math Notes](https://tutorial.math.lamar.edu/) - *Math Practice / Guides*
 * [Math2.org](http://math2.org/) - *Math Guides*
+* [All Math Questions](https://www.docdroid.net/YupQ6Pp/khan-academy-all-math-questions-pdf) - *Khan Academy Math Questions*
 * [Math is Fun](https://www.mathsisfun.com/) - *Math Tutorials / Puzzles / Games*
 * [Project Euler](https://projecteuler.net/) - *Math / Programming Problems*
 * [Divisor Plot](http://divisorplot.com/) - *Composite Number Pattern Visualization*
@@ -329,12 +333,12 @@
 
 * **[Awesome-Lang](https://github.com/oyd11/awesome-lang)** - *Language Learning Resource Index* 
 * **[Languages & Linguistics](https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - *Language Learning Books*
-* [The Language Exchange Network](https://discord.gg/jxcVmHJ) - *Language Learning Network*
+* [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - *Language Learning Network*
 * [E-books_432](https://archive.org/details/E-books_432) - *Vocabulary & Pronunciation Books*
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - *Multi Language Dictionary Index*
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - *Translation Dictionary* 
 * [SpanishDict](https://www.spanishdict.com/) - *Spanish Translation Dictionary*
-* [Memrise](https://www.memrise.com/), [Busuu](https://www.busuu.com/en/) or [Duolingo](https://www.duolingo.com/) - *Language Learning Lessons* 
+* [Memrise](https://www.memrise.com/), [LingoDeer](https://www.lingodeer.com/), [Busuu](https://www.busuu.com/en/) or [Duolingo](https://www.duolingo.com/) - *Language Learning Lessons* 
 * [Yojik](https://fsi-languages.yojik.eu/index.html) or [ESOL](https://www.esolcourses.com/) - *Language Learning Courses*
 * [Language Transfer](https://www.languagetransfer.org/) - *Language Learning Courses / Audio*
 * [refold.la](https://refold.la/roadmap) - *Language Learning Guide* 
@@ -344,8 +348,6 @@
 * [MyLanguages](http://mylanguages.org/) or [Langeek](https://langeek.co/) - *Grammar / Vocabulary Language Learning*
 * [Vocatra](https://esite.ch/vocatra/) - *Vocabulary Trainer*
 * [EnglishAccentMap](https://www.englishaccentsmap.com/) - *English Accent Videos / Map* 
-* [HelloTalk](https://www.hellotalk.com/) - *Learn Languages by Chatting to Native Speakers* 
-* [Lang-8](https://lang-8.com/) - *Learn Languages with help from Native Speakers* 
 * [Readlang](https://readlang.com/) - *Learn a Language While Web Browsing* 
 * [Polyglot](https://polyglotclub.com/) - *Offline Language Exchange* 
 * [South Asian Languages](https://discord.gg/TrdqTDdMba) - *South Asian Language Learning*
@@ -366,11 +368,24 @@
 * [Korean Class](http://global.seoul.go.kr/user.do?menu_id=0407000000&site_code=0101) - *Korean Learning Class*
 * [iksi](https://www.iksi.or.kr/) - *Korean Classes*
 * [TalkToMeInKorean](https://talktomeinkorean.com/) - *Korean Learning Courses*
-* [Sogang](http://korean.sogang.ac.kr/) - *Korean Learning Lessons Korean*
+* [Sogang](http://korean.sogang.ac.kr/) or [90 Day Korean](https://www.90daykorean.com/) - *Korean Learning Lessons*
+* [Mirinae](https://mirinae.io/) - *Korean Word Breakdown*
 * [KoreanKeyboardLearner](https://monikasun88.github.io/KoreanKeyboardLearner/) - *Korean Typing Practice*
 * [Korean Trainer](http://koreantrainer.mloesch.it/) - *Korean Number & Date Practice*
 * [Hangul](https://hangul.cool/) - *Korean Typing Practice*
 * [Bangtan Korean](https://bangtankorean.com/) - *Learn Korean via BTS Songs*
+* [Train Chinese](https://www.trainchinese.com/) - *Chinese Learning App*
+* [ChineseSkill](https://www.chineseskill.com/) - *Chinese Learning App*
+* [HelloChinese](http://hellochinese.cc/) - *Chinese Learning App*
+* [TofuLearn](https://www.tofulearn.com/) - *Chinese Vocab Practice*
+* [DU Chinese](https://www.duchinese.net/) - *Chinese Lessons*
+* [Dong Chinese](https://www.dong-chinese.com/) - *Chinese Lessons*
+* [The Chairman's Bao](https://www.thechairmansbao.com/) - *Chinese Reading Practice / News Articles*
+* [TastyMantou](https://www.tastymantou.com/) - *Daily Chinese Practice*
+* [FastChinese](https://fastchinese.org/) - *Chinese Flashcards & Practice*
+* [Pleco](https://www.pleco.com/) - *Chinese Flashcards & Dictionary*
+* [Popup Chinese](http://www.popupchinese.com/tools/adso) - *Chinese Learning Tools*
+* [YellowBridge](https://www.yellowbridge.com/) - *Chinese Learning Tools*
 * [Mandarin Chinese](https://drive.google.com/drive/u/0/mobile/folders/152oeHQoeqvC9RVMk6kJi1irAlSSp7NVk?usp=sharing) - *Mandarin Chinese Learning Books*
 * [Chinese Flashcards](http://www.chineseflashcards.io/) - *Chinese Flashcards*
 * [LearningSwedish](https://learningswedish.se/) - *Swedish Learning Course*
@@ -414,8 +429,9 @@
 * **[PhET](https://phet.colorado.edu/)** - *STEM / Interactive*
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Infinite trial by clearing cookies & making new account*
 * **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - *Grammar Checking Tools*
-* **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
+* **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)** - *Learn to Type Faster*
 * [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - *Touch Typing Tutorial*
+* [Spreeder](https://www.spreeder.com/) - *Learn to Read Faster*
 * [Learn Anything](https://learn-anything.xyz/) or [Learney](https://app.learney.me/) - *Interactive Learning Map* 
 * [Fact Directory](https://fact.directory/) - *Facts for Every Topic* 
 * [Faqtoids](https://top.faqtoids.com/) - *Fact / Info Search Engine*
@@ -498,6 +514,7 @@
 * [LizardPoint](https://lizardpoint.com/) - *Geography Quizzes* 
 * [The True Size](https://thetruesize.com/) - *Compare Country Size* 
 * [JoinUS World](https://www.joinusworld.org/) - *Korean Culture Q&A Site*
+* [Sanfoundry](https://www.sanfoundry.com/) - *Programming & Engineering Questions & Answers*
 * [Seeing Theory](https://seeing-theory.brown.edu/) - *Interactive Probability / Statistics Lessons* 
 * [VirtualTrebuchet](http://virtualtrebuchet.com/) - *Trebuchet Simulator* 
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - *Pendulum Simulator*
