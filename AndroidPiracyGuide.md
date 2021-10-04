@@ -129,14 +129,13 @@
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) - *Debloat non-rooted Androids*
 * [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - *Android Debloating Guide*
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - *Android Cleanup Tool*
-* [aaaaa](https://github.com/dkter/aaaaa) - *Minimalist Keyboard*
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - *Ringtones Directory*
 * [VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps) - *File / URL Virus Scanner* 
 * [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app ) - *Libgen Mobile App* 
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) or [AndrOpen](https://www.andropenoffice.com/) - *Office Suite* 
 * [xShare](https://github.com/tsudoko/xshare) - *Screenshot Tool*
 * [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/) - *Audio Recorder*
-* [Grammarly](https://forum.mobilism.org/search.php?keywords=Grammarly&amp;sr=topics&amp;sf=titleonly) - *Grammarly Keyboard Premium* 
+* [Grammarly](https://forum.mobilism.org/search.php?keywords=grammarly&sr=topics&sf=titleonly) - *Grammarly Keyboard Premium* 
 * [Fing](https://www.fing.com/products/fing-app) - *Network Toolkit* 
 * [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage) - *Disk Usage Analyzer*
 * [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - *Text Font Generator*
@@ -206,10 +205,10 @@ App Manager
 * [Mathway](https://play.google.com/store/apps/details?id=com.bagatrix.mathway.android&amp;) or [PhotoMath](https://forum.mobilism.org/search.php?keywords=photomath&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - *Math Equation Solver / Help* 
 * [Get Unstuck](https://socratic.org/) - *Homework Answers / Help* 
 * [Tasks](https://tasks.org/) - *To-Do List / Reminders*
-* [Orgzly](https://github.com/orgzly/orgzly-android) - *Note Taking / To-Do App*
+* [Orgzly](https://github.com/orgzly/orgzly-android) or [Dailly](https://github.com/hydroxion/dailly/) - *Note Taking / To-Do App*
 * [Etar](https://github.com/Etar-Group/Etar-Calendar) - *Calendar*
-* [Dailly](https://github.com/hydroxion/dailly/) - *Create, manage & track your daily goals*
 * [unhabits](https://github.com/iSoron/uhabits) - *Bad Habit Tracker*
+* [Forest](https://forestapp.cc/) - *Productivity Booster*
 * [AnyTracker](https://sites.google.com/view/anytracker) - *Track Anything*
 * [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - *Food Product Ingredient Scanner*
 * [Language Drops](https://languagedrops.com/) or [10,000 Sentences](https://github.com/tkrajina/10000sentences) - *Language Learning App / [Premium](https://forum.mobilism.org/search.php?keywords=drops&sr=topics&sf=titleonly)*
@@ -449,6 +448,7 @@ App Manager
 * [SupaFlix](https://supaflix.1mt.top/) - *Movies / TV* 
 * [MOTV](http://motv.top/) - *Movies / TV / Chromecast*
 * [ROTV](https://rotv.xyz/) - *Movies / TV*
+* [EnterpApp](https://enterpapp.xyz/) - *Movies / TV*
 * [Tuner Radio](https://www.downloader.world/) - *Movies / TV*
 * [Rokkr](http://www.rokkr.net/ ) - *Movies / TV / 
 Add "huhu.to", "bs.to" or "oha.to"* 
@@ -690,7 +690,6 @@ RSS Player*
 * [ReJail Repo](https://rejail.ru/) - *App / Tweak Repository* 
 * [AppHeaven](https://www.appheaven.vip/) - *App / Tweak Repository* 
 * [iOSGods](https://iosgods.com/) - *App Tweaks / Hacks / Mods*
-* [ignition](https://ignition.fun/) - *App Tweaks*
 * [iPA Host](https://github.com/ipahost) - *App Tweaks / Social Media’s*
 * [EonHub](https://app.eonhubapp.com/) - *Hacked Apps / Tweaks* 
 * [Scarlet](https://usescarlet.com/) - *Hacked apps / Tweaks*
