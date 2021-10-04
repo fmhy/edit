@@ -212,6 +212,7 @@
 * **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - *Realistic-Looking Fake Versions of Things* 
 * [KongouCheats](https://kongoucheats.com/) - *Watch Random Memes / Videos* 
 * [Funnyjunk](https://funnyjunk.com//) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Memes & GIFs / Some NSFW*
+* [SakugaBooru](https://www.sakugabooru.com/) - *Image Booru*
 * [Random Screenshot](https://randomscreenshot.com/) or [Random Prnt.sc](https://chrishannah.me/prntsc/) - *Random Screenshots*
 * [Kamogo](https://www.kamogo.com/faq/) - *Useless Web Apps*
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - *Turn Screen into Strobe / Mood Light*
@@ -461,6 +462,7 @@
 * [MotherFuckingWebsite](http://motherfuckingwebsite.com/), [BetterMotherFuckingWebsite](http://bettermotherfuckingwebsite.com/), [EvenBetterMotherFuckingWebsite](https://evenbettermotherfucking.website/) or [TheBestMotherFuckingWebsite](https://thebestmotherfuckingwebsite.co/)
 * [isitnight](https://www.isitnight.com/) - *Determine if it is night* 
 * [Watching Grass Grow](https://www.watching-grass-grow.com/) - *Watch Grass Grow.*
+* [aaaaa](https://github.com/dkter/aaaaa) - *Minimalist Keyboard*
 * [aaaaaa.....](http://aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/) - *Make URL's longer... ?*
 
 ***
@@ -471,6 +473,7 @@
 * **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - *News Multireddit*
 * **[TorrentFreak](https://torrentfreak.com/)** - *Piracy News*
 * [RavenReader](https://ravenreader.app/) - *News Article Manager*
+* [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - *Generate Article Summaries*
 * [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - *News Site Indexes* 
 * [Google Alerts](https://www.google.com/alerts) - *News Alerts by Topics*
 * [PublicAlerts](https://google.org/publicalerts) - *Important News / Disaster Alerts*
@@ -848,8 +851,9 @@
 * [Tabji](https://tabji.link/) - *Tab Suspender*
 * [Dark Mode](https://chrome.google.com/webstore/detail/dark-mode/declgfomkjdohhjbcfemjklfebflhefl) - *Dark Mode*
 * [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - *Picture-in-Picture Mode*
+* [OVC](https://chrome.google.com/webstore/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - *Video Controller*
 * [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn) - *Text Summary Generator*
-* [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) - *Increase Browser Volume*
+* [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) or [Volume Master](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - *Increase Browser Volume*
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - *Download Multiple Links at Once* 
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
