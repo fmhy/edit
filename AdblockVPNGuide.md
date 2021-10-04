@@ -29,8 +29,7 @@
 * [OpenVideo](https://openvideofs.github.io) - *Plays Videos in Ad-Free Player*
 * [Fakespot](https://www.fakespot.com/) - *Identifies Fake Reviews & Counterfeits*
 * [Adguard Browser Extension](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - *Adblocker / [Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt)*
-* [TTV LOL](https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm), [VideoAdBlockForTwitch](https://github.com/saucettv/VideoAdBlockForTwitch), [Twitch Ad-Blocker-2](https://greasyfork.org/en/scripts/419066-twitch-ad-blocker-2) or [Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/) - *Twitch Adblocker* 
-* [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - *Multiple Twitch Adblocking Methods*
+* [Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers) - *Block Ads on Twitch*
 * [Facebook Hide Ads](https://greasyfork.org/en/scripts/404309-facebook-hide-ads-a-k-a-sponsored-posts) - *Remove Sponsored Posts from Facebook* 
 * [LinkedIn Unsponsored](https://greasyfork.org/en/scripts/379003-linkedin-unsponsored) - *Remove Sponsored Posts from LinkedIn* 
 * [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay), [f *ck overlays](https://chrome.google.com/webstore/detail/fck-overlays/ppedokobpbdajgiejhnjfbdjlgobcpkp/related) or [Behind The Overlay Revival](https://addons.mozilla.org/en-US/firefox/addon/behind-the-overlay-revival/) - *Hide Website Overlays* 
@@ -53,7 +52,6 @@
 * [YogaDNS](https://yogadns.com/) - *DNS Client*
 * [Diversion](https://diversion.ch/) - *DNS Client*
 * [Quad9](https://quad9.net/) - *Malware, Phishing, Spyware & Botnet DNS Protection*
-* [DNSCrypt](https://www.dnscrypt.org) - *[Manager](https://simplednscrypt.org/)*
 * [Stubby](https://github.com/getdnsapi/stubby) - *DNS Stub Resolver*
 * [NextDNS](https://nextdns.io) - *DNS Adblocking / [Enhancement](https://greasyfork.org/en/scripts/408934-nx-enhanced) / [lLeak Warning](https://redd.it/jt28e8)*
 * [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/), [FreeMyIP](https://freemyip.com/) or [Desec](https://desec.io/) - *Dynamic DNS Service*
@@ -377,12 +375,11 @@
 * **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - *Create Temporary Email Addresses*
 * **[Have I been Pwned?](https://haveibeenpwned.com/)** or [GhostProject](https://ghostproject.fr/) - *Monitor Email Breaches*
 * [EmailPrivacyTester](https://www.emailprivacytester.com/) - *Email Privacy Tests* 
-* [Forward Email](https://forwardemail.net/), [SimpleLogin](https://simplelogin.io/), [Firefox Relay](https://relay.firefox.com/), [spamgourmet](https://www.spamgourmet.com/index.pl), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Mailsac](https://mailsac.com/), [mailnesia](http://mailnesia.com/) or [AnonAddy](https://anonaddy.com/) - *Email Forwarding*   
+* [Forward Email](https://forwardemail.net/), [SimpleLogin](https://simplelogin.io/), [Firefox Relay](https://relay.firefox.com/), [spamgourmet](https://www.spamgourmet.com/index.pl), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Mailsac](https://mailsac.com/) or [AnonAddy](https://anonaddy.com/) - *Email Forwarding*   
 * [FakemailBot](https://t.me/FakemailBot), [DropmailBot](https://t.me/DropmailBot) or [ccgen_robot](https://t.me/ccgen_robot) - *Email Forwarding Telegram Bots*
 * [Check-Mail](https://check-mail.org/free-email-validation-api/) or [Validator](https://www.validator.pizza/) - *Check if a email is valid* 
 * [Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_email_services)
 * [OpenPGP](https://www.openpgp.org/) - *Email Encryption* 
-* [Have I Been Sold?](https://haveibeensold.app/) - *Check if your email has been sold to third parties*
 * [Anon Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_send_anonymous_emails) - *Send Anonymous Emails*
 * [Scaremail](https://github.com/bengrosser/scaremail) - *Disrupt NSA Email Surveillance / [Account Gen](https://bengrosser.com/projects/scaremail/scaremail-generator/)*
 * [/r/emailprivacy](https://reddit.com/r/emailprivacy)  - *Discussion of Email Privacy / Security / Anonymity* 
@@ -403,7 +400,7 @@
 
 # ► VPN
 
-* **[VPN Comparison Guide](https://www.safetydetectives.com/best-vpns/#comparison)**, [2](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml), [3](https://www.vpntierlist.com/) - *Ranks VPNs Based on Privacy Polices & More*
+* **[VPN Comparison Chart](https://www.safetydetectives.com/best-vpns/#comparison)**, [2](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml), [3](https://www.vpntierlist.com/), [4](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/) - *Compare VPN Privacy Polices*
 * **[Mullvad](https://mullvad.net/)** - *[Pricing](https://i.imgur.com/LfjZ9G3.png) / [More Info](https://i.imgur.com/SNkzNV7.png) / [NetNS](https://github.com/chutz/mullvad-netns)*
 * **[Proton](https://protonvpn.com)** - *[Pricing](https://i.imgur.com/hkhZGg1.png) / [More Info](https://i.imgur.com/RZqOXKH.png) / No Torrenting w/ Free Version*
 * **[Windscribe](https://windscribe.com)** - *[Pricing](https://i.imgur.com/D7015rq.png) / [More Info](https://i.imgur.com/qmdyfp6.png) / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites) / Free Version Available*
@@ -434,7 +431,7 @@
 * [TunnelBear](https://www.tunnelbear.com/) - *Free VPN / 500mb only*
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
 * [VPNGate](https://www.vpngate.net/en/) - *Free VPN Relay Servers*
-* [OpenVPN](https://openvpn.net/) - *VPN Tunnel / [Linux Wrapper](https://github.com/slingamn/namespaced-openvpn)* 
+* [OpenVPN](https://openvpn.net/) - *VPN Tunnel / [Linux](https://github.com/slingamn/namespaced-openvpn) / [Mac](https://tunnelblick.net/)* 
 * [RaceVPN](https://www.racevpn.com/), [CyberSSH](https://cyberssh.com/vpn/config), [Free OpenVPN](https://freeopenvpn.org/), [VPNJanit](https://www.vpnjantit.com/), [PisoVPN](https://pisovpn.com or [LionSSH](https://www.lionssh.com/) - *Free VPN Configs*
 * [Gluetun](https://github.com/qdm12/gluetun) - *Tunnel your Docker containers through a VPN*
 * [PiVPN](https://pivpn.io/) - *Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)* 
@@ -477,16 +474,15 @@
 * [Hide.me](https://hide.me/en/proxy)
 * [KProxy](https://www.kproxy.com/)
 * [Free Proxy](https://freeproxy.win/)
+* [HyperByte](https://hyperbyte.net/)
 * [Blockaway](https://www.blockaway.net/)
 * [VPN Book](https://www.vpnbook.com/webproxy)
 * [Hidester](https://hidester.com/proxy/)
 * [Sitenable](http://sitenable.in/) 
 * [4EverProxy](https://www.4everproxy.com/)
 * [Proxy Site](https://proxysite.cloud/)
-* [zend2](https://zend2.com/)
 * [Open Proxy Space](https://openproxy.space/)
 * [Google Translate](https://translate.google.com/) - *[How to use](https://redd.it/fawkjy)*
-* [DarknetProxy](https://darknetproxy.com/) - *DeepWeb / I2P Proxy*
 * [b.lulu](https://b.lulu.workers.dev/), [3](https://b.jsproxy.workers.dev/), [4](https://noisy-tooth-2ee5.susheng.workers.dev/) - *Cloudflare Workers Proxies* 
 * [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - *Python Library for Retrieving Free Proxies*
 * [Proxy-Checker](https://proxy-checker.net/) - *Proxy Checker*
