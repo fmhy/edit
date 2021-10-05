@@ -1273,6 +1273,7 @@ General Reading Sites*
 * [Modern Flyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - *Modern & Fluent Flyouts for Windows*
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - *Windows 10 Search Appearance Tweaker*
 * [Windows 11 for Windows 10](https://www.deviantart.com/niivu/art/Windows-11-for-Windows-10-882819383) - *Windows 11 Theme / [Icons](https://www.deviantart.com/niivu/art/Windows-11-Icon-Themes-874289797)*
+* [Taskbar Tweaker](https://tweaker.rammichael.com/) - *Taskbar Customization Tool*
 * [XBar](https://github.com/amrbashir/XBar) - *Per-App Taskbar Color*
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - *Translucent Windows Taskbar* 
 * [RoundedTB](https://github.com/torchgm/RoundedTB) - *Rounded Taskbar Corners*
