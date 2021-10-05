@@ -807,7 +807,7 @@ General Reading Sites*
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - *Discord Message Encryption*
 * [DiscordFS](https://github.com/dhrumilp15/discordfs) - *Discord File Search*
 * [DeepL](https://github.com/aisuzuki/dd-bot) - *Discord Chat Auto Translator*
-* [TwitFix](https://fxtwitter.com/) - *Fix Discord Twitter Embeds / [GitHub](https://github.com/robinuniverse/twitfix)*
+* [TwitFix](https://fxtwitter.com/) or [discord-twitter-bot](https://github.com/NNTin/discord-twitter-bot) - *Fix Discord Twitter Embeds / [GitHub](https://github.com/robinuniverse/twitfix)*
 * [Get Discord Token](https://greasyfork.org/en/scripts/395741-get-discord-token) - *Retrieve Discord user token*
 * [PreMiD](https://premid.app/) - *Display internet activity in Discord status / [Github](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.gg/WvfVZ8T)* 
 * [Alternatives to MEE6](https://alternativestomee6.com/) - *[Discord](https://discord.gg/WrbMdWHfNd)* 
@@ -1139,7 +1139,6 @@ General Reading Sites*
 * [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - *Classic Start Menu* 
 * [Search Deflector](https://github.com/spikespaz/search-deflector) - *Change Cortana Search Engine / Browser*
 * [Recoll](https://www.lesbonscomptes.com/recoll/) or [AnyTXT](https://anytxt.net/) - *Improved Windows Search / [Site Indexer](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/)* 
-* [pyWinContext](https://github.com/VodBox/pyWinContext) - *Custom Context Menu Manager* 
 * [Killer](https://github.com/ntaraujo/killer) or [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - *Improved Task Manager / [Discord](https://discord.gg/MKG6qgJ964)*
 * [All Tasks Toolbar](https://winaero.com/create-all-tasks-god-mode-toolbar-windows-10/) - *Create All Tasks God Mode Toolbar in Win 10* 
 * [WindowsManager](https://www.eusing.com/WindowManager/WindowManager.htm) or [Compiz Fusion](http://www.compiz-fusion.org/) - *Improved Windows Manager*
@@ -1270,6 +1269,7 @@ General Reading Sites*
 * [Mechvibes](https://mechvibes.com/) or [MechaKeys](https://mechakeys.robolab.io/) - *Keyboard Soundpacks*
 * [Accent Applicator](https://github.com/mcdenis/AccentApplicator) - *Applies Win 10 Accent Color to OS*
 * [ModernWinver](https://github.com/torchgm/ModernWinver) - *Modernize the About Windows Screen*
+* [pyWinContext](https://github.com/VodBox/pyWinContext) or [WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - *Custom Context Menu Manager* 
 * [Modern Flyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - *Modern & Fluent Flyouts for Windows*
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - *Windows 10 Search Appearance Tweaker*
 * [Windows 11 for Windows 10](https://www.deviantart.com/niivu/art/Windows-11-for-Windows-10-882819383) - *Windows 11 Theme / [Icons](https://www.deviantart.com/niivu/art/Windows-11-Icon-Themes-874289797)*
@@ -1639,6 +1639,8 @@ General Reading Sites*
 * [TrueGameData](https://truegamedata.com/) - *COD Leaderboards*
 * [Online Fix](https://online-fix.me/) - *Online Game Cracks / [Discord](https://discord.gg/yExgFYncMD)* 
 * [Slippi](https://slippi.gg/) - *Super Smash Bros Melee Online* 
+* [Among Us Free Chat Unlocker](https://github.com/Vili1/Among-us-Free-Chat-unlocker/releases/) - *Among Us Chat Unlocker*
+* [Impostor](https://impostor.github.io/Impostor/) - *Among Us Private Server*
 
 *** 
 
@@ -1701,7 +1703,6 @@ General Reading Sites*
 * [NFSMods](https://nfsmods.xyz/home) - *Need for Speed Mods*
 * [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - *Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)*
 * [CT3Tweaks](https://ct3tweaks.stashy.dev/) - *Crazy Taxi 3 Tweak Tool / [GitHub](https://github.com/stashymane/ct3tweaks)*
-* [Among Us Free Chat Unlocker](https://github.com/Vili1/Among-us-Free-Chat-unlocker/releases/) - *Among Us Chat Unlocker*
 * [Titanfall2HudToggle](https://www.mediafire.com/file/q3tld2cm31znu2z/Titanfall2HudToggle.rar/file) - *Toggle Titanfall 2 Hud*
 * [FtG UI Mod](https://www.nexusmods.com/dragonage/mods/73) - *Make Dragon Age Text Readable*
 * [tModLoader](https://www.tmodloader.net/) - *Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)*
