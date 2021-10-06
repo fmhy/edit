@@ -1112,7 +1112,7 @@ General Reading Sites*
 * [AATU](https://amdaputuningutility.com/) - *Ryzen Mobile Laptop Tuning Utility*
 * [NBFC](https://github.com/hirschmann/nbfc) - *Laptop Fan Control*
 * [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - *Manage & Control NVIDIA Cards*
-* [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - *Modify & View Hidden NVIDIA Settings *
+* [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - *Modify & View Hidden NVIDIA Settings*
 * [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) or [NVSlimmer](https://majorgeeks.com/files/details/nvslimmer.html) - *Customize NVIDIA Driver Packages*
 * [Nvidia-Patch](https://github.com/keylase/nvidia-patch) - *NVENC & NvFBC Patches*
 * [Disk Usage Analyzers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_disk_usage_analyzers) - *View & Manage Files on Disk*
