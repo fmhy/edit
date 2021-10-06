@@ -1566,7 +1566,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Skip Redirect 
 
-**[FastForward](https://fastforward.team/)**, [DL Site Scrubber](https://github.com/PrimePlaya24/dl-site-scrubber), [AdsBypasser](https://adsbypasser.github.io/), [skip-redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/) / [Chrome](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon), [krnl-and-linkvertise-bypasser](https://greasyfork.org/en/scripts/427869-krnl-and-linkvertise-bypasser), [Bypass All Shortlinks](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks), [linkvertise fucker](http://linkvertisefucker.tk/), [Linkvertise-Bypasser](https://github.com/venaxyt/Linkvertise-Bypasser), [Linkvertise-Bypass](https://github.com/Lufzys/Linkvertise-Bypass), [TheBypasser](https://thebypasser.com/)
+**[FastForward](https://fastforward.team/)**, [DL Site Scrubber](https://github.com/PrimePlaya24/dl-site-scrubber), [AdsBypasser](https://adsbypasser.github.io/), [skip-redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/) / [Chrome](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon), [krnl-and-linkvertise-bypasser](https://greasyfork.org/en/scripts/427869-krnl-and-linkvertise-bypasser), [Bypass All Shortlinks](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks), [linkvertise fucker](http://linkvertisefucker.tk/), [Linkvertise-Bypasser](https://github.com/venaxyt/Linkvertise-Bypasser), [Linkvertise-Bypass](https://github.com/Lufzys/Linkvertise-Bypass), [TheBypasser](https://thebypasser.com/), [bypass.vip](https://bypass.vip/)
 
 ***
 
