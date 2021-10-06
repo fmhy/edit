@@ -177,6 +177,8 @@
 * [your-ebook](https://your-ebook.xyz/) - *Books / [GitHub](https://github.com/kska32/ebooks)*
 * [haodoo](http://haodoo.net/) - *Books*  
 * [ysxs8](http://www.ysxs8.com/) - *Audiobooks* 
+* [AC.QQ](https://ac.qq.com/) - *Manga*
+* [BiliBili](https://manga.bilibili.com/) - *Manga*
 * [rzlib](https://www.rzlib.net/) - *Light-Novels* 
 * [booktxt](https://m.booktxt.net/) - *Light-Novels* 
 * [ishare.iask](https://ishare.iask.sina.com.cn/) - *Documents*  
@@ -507,6 +509,7 @@
 ## ▷ Downloading 
 
 * [euroStreaming](https://eurostreaming.vision/) - *Use deltabit / Movies / TV / Anime / Use AdBlocker* 
+* [GamesReplay](https://www.gamesreplay.net/) - *Retro Roms*
 
 ## ▷ Streaming
 
@@ -825,6 +828,7 @@
 * [NetMovies](http://www.netmovies.com.br/) - *Movies / TV*
 * [querofilmehd](https://querofilmehd.net/) - *Movies / TV*
 * [AnimeFire](https://animefire.net/) - *Anime* 
+* [AnimeLog](https://animeslog.com/) - *Anime*
 * [AnimeVision](https://animesvision.biz/) - *Anime* 
 * [Kultivi](https://app.kultivi.com/) - *Courses*
 * [PrimeCursos](https://www.primecursos.com.br/) - *Courses*
