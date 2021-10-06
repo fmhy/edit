@@ -544,7 +544,7 @@
 ## ▷ Drives / Directories 
 
 * **[Rinzry](https://rinzry.stream/)** - *Movies / TV / Anime / [Request](https://discord.movies4discord.xyz/)*
-* **[50TB Mega Drive](https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ)** - *Movies* 
+* **[50TB Mega Drive](https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ)**, [2](https://mega.nz/folder/01F2XbgA#u2Si5JL2Vd0hAd7sYU59ig) - *Movies* 
 * **[The Criterion Collection](https://mega.nz/folder/Jk8RjIBA#_dTNthUX3LL7OwSaauqIpw)** - *Movies*
 * **[Rek's Drive](https://mega.nz/folder/iYQ3SYbA#_o9eO4o1eiCd8QsCTU7iUw)** - *Movies / Anime*
 * **[Hevcbay Vault](https://hevcbay.sharepoint.workers.dev/0:/Hevcbay%20vault/)** - *Movies*
@@ -790,7 +790,7 @@
 * [UniqueStream](https://uniquestream.vip/requests/) - *Movies / TV / Anime*
 * [9Anime](https://9anime.to/) - *Anime / Click Request*
 * [SSAnime](https://ssanime.ga/request) - *Anime* 
-* [Nandato](https://nanda.to/) - *Anime / [Discord](https://discord.com/invite/uR8mvHE4)*
+* [Nandato](https://nanda.to/) - *Anime / [Discord](https://discord.gg/5tnMp8v)*
 * [AnimeBatchDDL](https://animebatchddl.wordpress.com/) - *Anime / [Discord](https://discord.gg/XRzMEMhEmu)*
 * [GustaTV](https://www2.gustatv.to/requests/) - *Movies / TV* 
 * [TheWebFlix](https://docs.google.com/forms/d/e/1FAIpQLSe1-DTmK9yuAtmO6_pLMO4fR5UF2aWf0QbMME41blXfFWSQBA/viewform) - *Movies / TV* 
