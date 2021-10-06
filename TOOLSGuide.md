@@ -1089,6 +1089,7 @@ General Reading Sites*
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - *Preinstallation Environment* 
 * [CD Key Reader](http://www.cathonian.com/software/cd-keyreader/) - *Find Key used to Install Windows*
 * [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) or [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - *Extended Windows 7 Updates* 
+* [ChangeWindows](https://www.changewindows.org/timeline) - *Latest Windows Update Info*
 * [Windows XP Service Pack 4](https://www.majorgeeks.com/files/details/windows_xp_service_pack_4_unofficial.html) - *Windows XP Unofficial Service Pack 4 / [Drive](https://drive.google.com/drive/folders/1Uh0VYjq1hcd4oY_zNzEqAar1m4NO2uTC?usp=sharing)*
 * [Wu10Man](https://github.com/WereDev/Wu10Man) - *Enable / Disable Windows 10 Updates*
 * [How-to Disable Windows 10 Updates](https://www.windowscentral.com/how-stop-updates-installing-automatically-windows-10)
