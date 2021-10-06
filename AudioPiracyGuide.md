@@ -237,6 +237,7 @@
 * [Lossless-Music](https://lossless-music.org/) - *FLAC*
 * [Flaccat](https://flaccat.com/) - *FLAC*
 * [Losslessma](https://losslessma.net/) - *FLAC*
+* [SearchLossless](https://searchlossless.com/) - *FLAC*
 * [LosslessNews](https://flac1.hd24bit.com/) - *FLAC*
 * [FLAC World](http://flac.world/) - *FLAC*
 * [Music HiRes](https://music-hires.blogspot.com/) - *FLAC*
