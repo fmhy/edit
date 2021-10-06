@@ -472,7 +472,6 @@
 * [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) - *Matrix Server List*
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - *Export Skype Chat Data to Readable Text*
-* [WAHelper](https://www.wahelper.com/) - *WhatsApp Message Sender*
 * [Jitsi](https://desktop.jitsi.org/index.html), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone) or [Briefing](https://brie.fi/ng) - *Video Chat* 
 * [Jam](https://jam.systems/), [GROK](https://grokat.com/), [TeaSpeak](https://teaspeak.de/gb/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
 * [IMumble](https://www.imumble.nl/) - *Voice Chat Server*
