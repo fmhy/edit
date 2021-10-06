@@ -147,10 +147,9 @@
 
 * [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [JS Kid Pix](https://kidpix.app/) or [MediBang](https://medibangpaint.com/en/) - *Painting*
 * [Aggie.io](https://aggie.io/) - *Collaborative Painting*
-* [inkscape](https://inkscape.org/) or [Excalidraw](https://excalidraw.com/) - *Drawing* 
+* [inkscape](https://inkscape.org/), [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q), [Sketch Toy](https://www.sketchtoy.com/) or [Excalidraw](https://excalidraw.com/) - *Drawing / Sketching Tools* 
 * [AutoDraw](https://www.autodraw.com/) - *Machine Learning Drawing Tool* 
 * [MonsterMash](https://monstermash.zone/) - *Sketch Based Modeling & Animation Tool*
-* [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q) - *Sketchpad / Notepad* 
 * [Picrew](https://picrew.me/) - *Animated Character Maker*  
 * [Ink Workspace](https://www.microsoft.com/store/productId/9P0RP342JZMN) - *Pen App Launcher*
 * [Drawing](https://github.com/maoschanz/drawing) - *Drawing App for Linux*
@@ -180,7 +179,7 @@
 * [pfps.gg](https://pfps.gg/) - *Profile Picture Index*
 * [Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Movie / TV Covers & Posters*
 * [iTunes Artwork Grabber](https://artwork.themoshcrypt.net/) or [Album Art Downloader](https://sourceforge.net/projects/album-art/) - *Album Art*
-* [CleanPNG](https://www.cleanpng.com/), [PNGEgg](https://www.pngegg.com/), [HiClipart](https://www.hiclipart.com/) or [OpenClipart](https://openclipart.org/) - *PNG Images / Clipart* 
+* [CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [HiClipart](https://www.hiclipart.com/) or [OpenClipart](https://openclipart.org/) - *PNG Images / Clipart* 
 * [PSDGraphics](https://www.psdgraphics.com/) - *PSD Files*
 * [Artbreeder](https://artbreeder.com/) - *Image Discovery / Combining*
 * [Free Vector Sites](https://onehack.us/t/get-download-free-vectors-45-sites-to-grab-vectors/96104) - *Vector Images* 
