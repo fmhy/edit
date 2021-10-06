@@ -152,7 +152,7 @@
 * [Uncensorable Publishing](https://uncensorablepublishing.com/) - *Create Hard to Censor Sites*
 * [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [psddd](https://psddd.co/) or [Freebiesbug](http://freebiesbug.com/)  - *Web Design Resources*
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
-* [CuratedSEOTools](https://github.com/sneg55/curatedseotools) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization Tools*
+* [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [BulkLink](http://bulklink.org/) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization Tools*
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) - *Web Debugging Proxy App*
 * [Geekflare Tools](https://gf.dev/toolbox) - *Site Testing Tools*
 * [httpbin](https://httpbin.org/) - *HTTP Request & Response Service*
@@ -225,7 +225,7 @@
 * [ngrok](https://ngrok.com/) - *Introspectable Tunnels to Localhost Tools*
 * [NConfig](https://www.digitalocean.com/community/tools/nginx) - *NGINX Server Config*
 * [faustjs](https://github.com/wpengine/faustjs) - *Wordpress Framework*
-* [gpldl](https://gpldl.com/), [allwpworld](https://allwpworld.com/), [pwned.space](https://pwned.space/wordpress-themes/), [wplocker](https://www.wplocker.com/), [WePlay](https://www.weaplay.com/), [freegetdownloader](https://www.freegetdownloader.com/) or [babiato](https://babiato.co/) - *Wordpress Themes*
+* [gpldl](https://gpldl.com/), [allwpworld](https://allwpworld.com/), [pwned.space](https://pwned.space/wordpress-themes/), [wplocker](https://www.wplocker.com/), [WePlay](https://www.weaplay.com/), [freegetdownloader](https://www.freegetdownloader.com/), [crackthemes](https://www.crackthemes.com/) or [babiato](https://babiato.co/) - *Wordpress Themes*
 * [vichan](https://github.com/vichan-devel/vichan) - *Imageboard Software Package*
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - *Self-Hosted Private Tracker*
 
@@ -354,6 +354,7 @@
 * [Shields.io](https://shields.io/) - *Metadata badges for Github Readmes*
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - *Enable Snake Game on GitHub ReadMe*
 * [Discord MD Badge](https://github.com/montylion/discord-md-badge) - *Add Discord Badge to GitHub*
+* [gist.io](https://gist.io/) or [gistflow](https://github.com/gistflow/gistflow) - *Git Blog Platform*
 * [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub), [diohub](https://github.com/NamanShergill/diohub) or [OctoDroid](https://github.com/slapperwan/gh4a) - *Android GitHub Client*
 
 ***
@@ -409,6 +410,7 @@
 * [vim-markdown](https://github.com/plasticboy/vim-markdown) - *Vim Markdown Plugin*
 * [VimAwesome](https://vimawesome.com/) - *Vim Plugins*
 * [NeovimCraft](https://neovimcraft.com/) - *Neovim Plugins*
+* [Bootstrap Editor](https://vim-bootstrap.com/) - *Vim / Neovim Config Generator Bootstrap Editor*
 * [Goyo.vim](https://github.com/junegunn/goyo.vim) - *Distraction-free writing in Vim*
 * [nvim](https://github.com/neoclide/coc.nvim) - *Neovim LSP Autocompletion coc.*
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - *Vim Code-completion engine*
@@ -425,7 +427,7 @@
 * [Sourcegraph](https://sourcegraph.com/) - *Universal Code Search*
 * [searchcode](http://searchcode.com/) or [PublicWWW](http://publicwww.com/) - *Source Code Search*
 * [Sourcecodester](https://www.sourcecodester.com/) - *Free Source Code Projects & Tutorials*
-* [ShareScript](https://sharescript.net/) - *Script / Code Index*
+* [ShareScript](https://sharescript.net/) or [bl.ocks](https://bl.ocks.org/) - *Script / Code Index*
 * [Google Code Archive](https://code.google.com/archive/) - *Google Code Project Archive*
 * [Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering) - *Reverse Engineering Resource Index*
 * [challenges.re](https://challenges.re/) - *Reverse Engineer Code*
