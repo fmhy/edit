@@ -81,6 +81,7 @@
 * [CsWaRzOnE](https://www.cswarzone.com/) - *Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)*
 * [JustEmuTarkov](https://justemutarkov.eu/) - *Escape from Tarkov Emulator*
 * [CWA](https://www.cwaemu.com/) - *Clone Wars Adventures Emulator / [Discord](https://discord.gg/a3Ugb9dzzv)*
+* [NR2003](https://wildkustomcars.weebly.com/) - *Modded Nascar 2003*
 * [Minetest](https://www.minetest.net/) - *F2P Minecraft Alternative* 
 * [Unciv](https://github.com/yairm210/Unciv) - *Civ V Remake*
 * [London 2038](https://london2038.com/) - *London 2038 Multiplayer Revival Project*
@@ -164,7 +165,7 @@
 * [NesGM](https://nesgm.net/) - *Roms / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)*
 * [Ziperto](https://ziperto.com/) - *Roms*
 * [ROM World](http://www.romworldonline.com/) - *Roms / [How-to](https://i.imgur.com/Mqab82O.png)*
-* [LegendaryRepacks](https://discord.gg/RUSNHSk) - *Universal Bypass Required*
+* [LegendaryRepacks](https://discord.gg/RUSNHSk)
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - *Roms / Torrent*
 * [NesFiles](https://www.nesfiles.com/) - *NES Roms / Emulators* 
 * [Eclipse](https://eclipseemu.me/play/) - *Online Mobile Multi-Console Emulator* 
@@ -231,9 +232,9 @@
 * **[RetroGames](https://www.retrogames.cz/)**
 * **[Console Living Room](https://archive.org/details/consolelivingroom)** 
 * **[retrogames.cc](https://www.retrogames.cc/)** - *[Download Guide](https://i.imgur.com/jSAsSb6.png)*
-* [QAOP](http://torinak.com/qaop/games) - *Arcade Games*
 * [ClassicReload](https://classicreload.com/) 
 * [Retro Games Bot](https://retrogamesbot.com/)
+* [AtariMania](http://www.atarimania.com/index.html)
 * [Vizzed](https://www.vizzed.com/)
 * [Free80sArcade](http://www.free80sarcade.com/)
 * [Retro Uprising](http://www.retrouprising.com/) 
@@ -242,14 +243,23 @@
 * [GamulatoR](https://www.gamulator.com/roms)
 * [Aurora](https://skitty.xyz/aurora/) 
 * [Emulator.online](http://emulator.online/) 
+* [Online.OldGames](https://online.oldgames.sk/)
 * [Emulator Games Online](https://emulatorgames.online/) 
+* [Virtual Consoles](https://virtualconsoles.com/) 
 * [OldGameShef](https://oldgameshelf.com/)
 * [Emulator Online](https://emulatoronline.com/)
 * [MyEmulator](https://myemulator.online/) 
 * [PS1FUN](http://www.ps1fun.com/) - *PS1 Browser Emulator* 
 * [LYR9C](https://lyr9c.weebly.com/gba-games.html) - *GBA Browser Emulator* 
 * [LetsPlayGB](https://www.letsplaygb.com/) - *Game Boy Browser Emulator*
+* [QAOP](http://torinak.com/qaop/games) - *Arcade Games*
+* [DosGames](https://dosgames.com/), [MSDOSGames](https://msdosgames.com/) or [PlayDOSGames](https://www.playdosgames.com/) - *DOS Browser Emulator*
+* [LCD Games](http://bdrgames.nl/lcdgames/) - *Retro LCD Game Emulator* 
+* [File-Hunter](https://www.file-hunter.com/) - *MSX / Amiga Browser Emulator*
+* [MSXGamesWorld](https://www.msxgamesworld.com/) - *MSX Browser Emulator*
+* [C64Online](https://c64online.com/) - *C64 Browser Emulator*
 * [OpenBOR](https://github.com/DCurrent/openbor) or [Mugen](https://web.archive.org/web/20150209191723/http://www.elecbyte.com/mugen) - *2D Fighting Game Emulator*
+* [Lain Game](https://laingame.net/) - *Lain Game Browser Emulator*
 
 ***
 
@@ -267,13 +277,12 @@
 * [MISC Windows](https://drive.google.com/drive/folders/15A3j8X0IDxNyJC7tPjJ0gvKIPKPaKylO) - *Windows 98 / XP Games*
 * [Classic Game Roms](https://sites.google.com/site/classicgameroms/) - *Roms*
 * [Old-Games.com](https://www.old-games.com/) - *Roms / PC / Amiga*
-* [AtariMania](http://www.atarimania.com/index.html) - *Browser Emulator / Emulators / Roms / Atari Consoles*
+* [AtariMania](http://www.atarimania.com/index.html) - *Emulators / Roms / Atari Consoles*
 * [MagiPack](https://www.magipack.games/) - *Retro Games* 
 * [/1CC/](https://8kun.top/1cc/index.html) - *Retro Games / [Discord](https://discord.com/invite/Y4dSzbXNau)*
 * [Old Games Download](https://oldgamesdownload.com/) - *Retro Games*
 * [Zombs-Lair](https://www.zombs-lair.com/) - *Retro Games*
 * [RetroSpec](http://retrospec.sgn.net/) - *Retro Games*
-* [LCD Games](http://bdrgames.nl/lcdgames/) - *Retro LCD Game Emulator* 
 * [Japanese PC Compendium](http://japanesepccompendium.blogspot.com/) - *Retro Japanese PC Games*
 * [TOSEC](https://archive.org/details/TOSEC_V2017-04-23), [2](https://archive.org/details/tosec) - *The Old School Emulation Center*
 * [NEC & Turbografx Collection](https://archive.org/details/NEC_PC_Engine_CD-ROM2_System_and_TurboGrafx-CD_2016_Reference_Set_Redump_Validated_ROMs) - *Roms / Nec / Turbo*
@@ -290,8 +299,6 @@
 * [NolfRevival](http://nolfrevival.tk/) - *NOLF, NOLF 2 & Contract Jack*
 * [DFWorkshop](https://www.dfworkshop.net/) - *Daggerfall Unity Engine Port*
 * [OpenMW](https://openmw.org/en/) - *Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/openmw-tes3mp/) / [Android](https://github.com/xyzz/openmw-android)*
-* [NR2003](https://wildkustomcars.weebly.com/) - *Modded Nascar 2003*
-* [Lain Game](https://laingame.net/) - *Lain Game Browser Emulator*
 * [WannabeThesis](https://lerppu.net/wannabethesis/) - *Retro Game Ports*
 * [NBlood](https://github.com/nukeykt/NBlood) - *Reverse-Engineered Ports of Build Games*
 * [Classic DOOM](http://classicdoom.com/) - *Classic Doom Downloads* 
