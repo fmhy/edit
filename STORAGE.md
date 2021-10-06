@@ -582,6 +582,7 @@
 * https://www.tikmovies.com/
 * https://www.dopebox.net/
 * https://fboxtv.com/
+* https://movies2watch.tv/
 * https://tinyzonetv.to/
 * https://sflix.to/
 * https://cineb.net/
