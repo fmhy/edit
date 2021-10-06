@@ -243,7 +243,7 @@ App Manager
 * **[/r/ApkApps Megathread](https://apks.me/)** - *Updated list of modded APK's / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)*
 * [/r/SoftwarePiracy APK Index](https://rentry.co/SoftwarePirates-Megathread#apk-android-download-sites) - *List of APK Piracy Sites & Apps*
 * [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - *Add Direct DL Links to Google Play* 
-* [F-Droid](https://f-droid.org/) - *FOSS App Repository / [Desktop](https://github.com/mvdan/fdroidcl) / [Alt Client](https://github.com/kitsunyan/foxy-droid), [2](https://gitlab.com/gdroid/gdroidclient) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)* 
+* [F-Droid](https://f-droid.org/) - *FOSS App Repository / [Desktop](https://github.com/mvdan/fdroidcl) / [Alt Client](https://github.com/kitsunyan/foxy-droid), [2](https://gitlab.com/gdroid/gdroidclient), [3](https://github.com/Iamlooker/Droid-ify) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)* 
 * [F-Droid Repositories](https://t.me/fdroidrepos) - *List of F-Droid Repositories*
 * [IzzyOnDroid](https://android.izzysoft.de/applists.php) - *App Repository / [F-Droid](https://apt.izzysoft.de/fdroid/index.php)* 
 * [Haoict Repository](https://haoict.github.io/cydia/) - *App Repository*
