@@ -43,6 +43,7 @@
 * [FZMovies](https://fzmovies.net/) - *Movies / [How to Use](https://imgur.com/a/EtLokxO)* 
 * [MoviesForFree](https://movieforfree.co/) - *Movies / TV*
 * [AZMovies](https://azm.to) - *Movies*
+* [HDMovieBox](https://hdmoviebox.org/) - *Movies*
 * [Nos](https://www.thenos.org/) - *Movies / TV / Anime / [Discord](https://discord.com/invite/VstbbYSENY)*
 * [HDM.to](https://hdm.to/) - *Movies* 
 * [Moviehdkh](https://www.moviehdkh.com/) - *Movies* 
