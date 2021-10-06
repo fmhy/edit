@@ -36,6 +36,7 @@
 * [SuperNova](https://supernova.to/) - *Movies / TV / Anime* 
 * [Vumoo](https://vumoo.to/) - *Movies / TV* 
 * [FshareTV](https://fsharetv.co/) - *Movies* 
+* [XEMovies](https://xemovie.com/) - *Movies / TV*
 * [UniqueStream](https://uniquestream.vip/) - *Movies / TV / Anime*
 * [CooLMoviez](https://coolmoviez.app/) - *Movies / TV / Anime / [Telegram](https://t.me/coolmoviezfree)*
 * [TheMovieBay](https://vww.themoviebay.net/) - *Movies / TV / Videyo*
@@ -56,6 +57,7 @@
 * [9PM](https://9pm.to/) - *Movies / TV*
 * [OnionPlay](https://onionplay.uk/) - *Movies / TV*
 * [Goojara](https://www.goojara.to/) - *Movies / TV / Anime*
+* [SpaceMov](https://spacemov.ws/) - *Movies / TV*
 * [Join4Films](https://www.join4films.net/hollywood/) - *Movies*
 * [iMovies](https://www.imovies.cc/) - *Movies / TV / Anime*
 * [AllMoviesForYou](https://allmoviesforyou.co/) - *Movies / TV* 
@@ -237,7 +239,7 @@
 * **[Noxx](https://noxx.is)** - *TV*
 * **[GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search)** - *TV / Anime*
 * **[CouchTuner](https://www.couchtuner.host/)** - *TV* 
-* [MobileTVShows](https://www.mobiletvshows.net/) - *TV / Anime*
+* [MobileTVShows](https://www.mobiletvshows.net/) or [TVSeries](https://www.tvseries.in/) - *TV / Anime*
 * [OnlySeries](https://onlyseries.net/) - *TV*
 * [BKWorld](https://bkworldtube.com/) - *TV*
 * [MyWatchSeries](https://www5.mywatchseries.stream/) - *TV / Anime* 
@@ -301,6 +303,7 @@
 * [Anime Simple](https://ww1.animesimple.com/) - *Sub / Dub*
 * [AniWatcher](https://aniwatcher.com/) - *Sub / Dub*
 * [StreamAnimeTV](https://streamanimetv.net/) - *Sub / Dub*
+* [AnimeFreak](https://www.animefreak.vip/) - *Sub / Dub*
 * [AnimeKH](https://animekh.com/) - *Sub* 
 * [thewatchcartoononline](https://www.thewatchcartoononline.tv/), [wcostream](https://www.wcostream.com/), [wcoforever](https://www.wcoforever.com/ ) or [WCO](https://www.wco.tv/) - *Anime / Cartoons* 
 * [Funimation](https://www.funimation.com/shows/free/) - *Sub / Dub* 
@@ -851,7 +854,7 @@
 * [pyTranscriber](https://github.com/raryelcostasouza/pyTranscriber), [Auto-Subtitle](https://www.veed.io/auto-subtitle) or [autosub](https://github.com/agermanidis/autosub), [2](https://github.com/BingLingGroup/autosub) - *Subtitle Generator* 
 * [CCaptioner](https://github.com/gorhill/ccaptioner) - *Add Subtitles to Videos / Extension* 
 * [subtitle.js](https://github.com/gsantiago/subtitle.js) - *Parse and manipulate SRT (SubRip)* 
-* [SubtitleTranslate](https://github.com/mepeichun/SubtitleTranslate) - *Translate Subtitles* 
+* [TranslatesSubtitles](https://translatesubtitles.com/) or [SubtitleTranslate](https://github.com/mepeichun/SubtitleTranslate) - *Translate Subtitles* 
 * [DualSub](https://github.com/bonigarcia/dualsub) - *Bilingual subtitles maker*  
 * [HandySub](https://github.com/HandyOrg/HandySub) - *Subtitle Downloader*
 * [SaveSubs](https://www.savesubs.com/) - *Extract Subtitles from Online Videos* 
