@@ -1572,6 +1572,7 @@ General Reading Sites*
 * [Forgehub](https://www.forgehub.com/) - *Halo Maps*
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - *Breath of The Wild Map*
 * [Hallownest](https://www.hallownest.net/) - *Hollow Knight Map*
+* [Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Covers for Games* 
 * [Open Game Art](https://opengameart.org/) - *Game Assets / Images* 
 * [The Models Resource](https://www.models-resource.com/) - *Game Models*
 * [The Textures Resource](https://www.textures-resource.com/) - *Game Textures*
