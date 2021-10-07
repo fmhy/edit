@@ -877,7 +877,7 @@
 * **[/r/animepiracy Wiki](https://wiki.piracy.moe/)** - *Anime Piracy Guides / Tutorials*
 * **[WhereYouWatch,](https://whereyouwatch.com/latest-reports/)** [Squawkr](https://www.squawkr.io/), [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates) or [/r/movieleaks](https://reddit.com/r/movieleaks) - *Check if a Movie has Leaked*
 * [RunPee](https://runpee.com/) - *Best Movie Break Times*
-* [Media Poster / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Covers for Movies, TV ect.* 
+* [Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Covers for Movies, TV ect.* 
 * [IsThisDubbed?](https://isthisdubbed.com/) - *Check if an Anime is Dubbed*
 * [AnimeFillerList](https://www.animefillerlist.com/) - *Anime Filler Guide*
 * [trace.moe](https://trace.moe/) - *Anime Scene Reverse Image Search*
