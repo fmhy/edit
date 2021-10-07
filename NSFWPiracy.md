@@ -53,7 +53,7 @@
 * [nsfw.xxx](https://nsfw.xxx/) or [reddnight](https://reddnight.com/) - *NSFW Reddit Image & Video Browser*
 * [Kimchi TV](https://kimchi.tv/) - *Asian Porn*
 * [Size97](https://size977.com/) - *Asian Porn*
-* [Repuiblic of Korea](https://republic-of-korea.com/) - *Asian Porn*
+* [Republic of Korea](https://republic-of-korea.com/) - *Asian Porn*
 * [SEGNECK](https://discord.gg/jP5BHAUbeu) - *Japanese Porn*
 * [JavHDPorn](https://www2.javhdporn.net/) - *Japanese Porn*
 * [141Jav](https://www.141ppv.com/) - *Japanese Porn*
