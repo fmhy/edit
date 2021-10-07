@@ -34,7 +34,6 @@
 * [Crohasit](https://crohasit.net/)
 * [Le Fishe Repacks](https://discord.gg/W3MfGDXhAS)
 * [ElAmigos](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
-* [Black Box Repack](http://www.blackboxrepack.com/) 
 * [GLoad](https://gload.to/)
 * [Ova Games](http://www.ovagames.com/)
 * [Rihno Games](https://rihnogames.com/)
@@ -98,7 +97,6 @@
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - *[Discord](https://discord.com/invite/GmTJ5Rm)*
 * **[DODI](http://dodi-repacks.site/)** - *[Discord](https://discord.gg/uE273qJ)*
 * **[ElAmigos Games](https://elamigos.site/)**, [2](https://www.elamigos-games.com/) 
-* **[Black Box Repack](http://www.blackboxrepack.com/)**
 * **[Xatab Repack](https://b.otxataba.net/), [2](https://x5.xatab-repack.com/)**
 * **[RePack.info](https://repack.info/)**
 * **[Tuttop](https://tuttop.com/)** 
