@@ -92,7 +92,7 @@
 * [GloTorrents](https://glodls.to) - *Video / Audio / Games / Books / Software / Android / NSFW*
 * [MagnetDL](https://www.magnetdl.com/) - *Video / Audio / Games / Software / Books*
 * [YggTorrent](https://ww3.yggtorrent.si/) - *Video / Audio / Roms / Software / Books / Android / Comics*
-* [LimeTorrents](https://limetorrents.pro/) - *Video / Audio / Software / Games / Books*
+* [LimeTorrents](https://limetorrents.pro/), [2](https://limetorrents.cyou/) - *Video / Audio / Software / Games / Books*
 * [YourBittorrent](https://yourbittorrent.com/), [2](https://yourbittorrent2.com/) - *Video / Audio / Software / Games / Books / NSFW*
 * [ProStyleX](https://prostylex.org/) - *Video / Audio / Books / Games / Software / NSFW*  
 * [IsoHunt](http://isohunt.ee/), [IsoHunts](https://isohunts.to/) or [IsoHunt.nz](https://isohunt.nz/) - *Video / Audio / Games / Software / Books*
