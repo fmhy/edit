@@ -530,7 +530,7 @@
 * [CoolMovieZone](https://coolmoviezone.lat/) - *Movies*
 * [VegaMovies](https://vegamovies.bar/category/english/) - *Movies*
 * [Subroz](https://subroz.live/0:/) - *Movies / TV*
-* [Cartoons Raw](https://cartoons-raws.tumblr.com/master-list), [2](https://sites.google.com/view/cartoonraws-disney/home) - *Cartoons* 
+* [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - *Cartoons* 
 * [Bakabt](https://bakabt.me/) - *Cartoons / [Signup](http://wiki.bakabt.me/index.php/Sign_up)* 
 * [TinyMKV](https://tinymkv.xyz/) - *Movies / TV*
 * [480mkv](https://tvshows.480mkv.com/) - *TV*
