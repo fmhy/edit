@@ -280,7 +280,7 @@
 * [RS Lookup](http://rslookup.com/) - *Check if your RuneScape data has been breached* 
 * [Canarytokens](https://canarytokens.org/generate) - *Network Breach Check* 
 * [JustGetMyData](https://justgetmydata.com/) - *Links to Obtain Your Data from Websites* 
-* [TrackingTheTrackers](https://trackingthetrackers.com/) - *Check if a website is disguising third-party trackers as first-party trackers*
+* [TrackingTheTrackers](https://trackingthetrackers.com/) - *Check if a website is disguising third-party trackers*
 * [LMT Anti-Logger ](https://leminhthanh.me/antilogger/) - *Anti-Loggers (e.g. Keyloggers)*
 * [QFX KeyScrambler](https://filecr.com/?s=QFX+KeyScrambler+Professional) - *Scramble Keyboard Inputs*
 * [WhoTracksMe](https://whotracks.me/) or [Trackography](https://trackography.org/) - *Site Tracking Info*  
@@ -432,7 +432,7 @@
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
 * [VPNGate](https://www.vpngate.net/en/) - *Free VPN Relay Servers*
 * [OpenVPN](https://openvpn.net/) - *VPN Tunnel / [Linux](https://github.com/slingamn/namespaced-openvpn) / [Mac](https://tunnelblick.net/)* 
-* [RaceVPN](https://www.racevpn.com/), [CyberSSH](https://cyberssh.com/vpn/config), [Free OpenVPN](https://freeopenvpn.org/), [VPNJanit](https://www.vpnjantit.com/), [PisoVPN](https://pisovpn.com) or [LionSSH](https://www.lionssh.com/) - *Free VPN Configs*
+* [RaceVPN](https://www.racevpn.com/), [CyberSSH](https://cyberssh.com/vpn/config), [Free OpenVPN](https://freeopenvpn.org/), [SSHMax](https://www.sshmax.net/), [BestVPNSSH](https://www.bestvpnssh.com/), [FreeVPN4You](https://freevpn4you.net/), [VPNJanit](https://www.vpnjantit.com/), [PisoVPN](https://pisovpn.com) or [LionSSH](https://www.lionssh.com/) - *Free VPN Configs*
 * [Gluetun](https://github.com/qdm12/gluetun) - *Tunnel your Docker containers through a VPN*
 * [PiVPN](https://pivpn.io/) - *Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)* 
 * [Enterprise](https://pritunl.com/) - *VPN Server* 
@@ -738,6 +738,7 @@
 * [RS Lookup](http://rslookup.com/) - *Check if your RuneScape data has been breached* 
 * [Canarytokens](https://canarytokens.org/generate) - *Network Breach Check* 
 * [JustGetMyData](https://justgetmydata.com/) - *Links to Obtain Your Data from Websites* 
+* [Privacy Score](https://privacyscore.org/) - *Website Privacy Score Rankings*
 * [TrackingTheTrackers](https://trackingthetrackers.com/) - *Check if a website is disguising third-party trackers as first-party trackers*
 * [LMT Anti-Logger ](https://leminhthanh.me/antilogger/) - *Anti-Loggers (e.g. Keyloggers)*
 * [QFX KeyScrambler](https://filecr.com/?s=QFX+KeyScrambler+Professional) - *Scramble Keyboard Inputs*
@@ -890,7 +891,7 @@
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
 * [VPNGate](https://www.vpngate.net/en/) - *Free VPN Relay Servers*
 * [OpenVPN](https://openvpn.net/) - *VPN Tunnel / [Linux](https://github.com/slingamn/namespaced-openvpn) / [Mac](https://tunnelblick.net/)* 
-* [RaceVPN](https://www.racevpn.com/), [CyberSSH](https://cyberssh.com/vpn/config), [Free OpenVPN](https://freeopenvpn.org/), [VPNJanit](https://www.vpnjantit.com/), [PisoVPN](https://pisovpn.com) or [LionSSH](https://www.lionssh.com/) - *Free VPN Configs*
+* [RaceVPN](https://www.racevpn.com/), [CyberSSH](https://cyberssh.com/vpn/config), [Free OpenVPN](https://freeopenvpn.org/), [sshmonth](https://www.sshmonth.com/), [VPNJanit](https://www.vpnjantit.com/), [PisoVPN](https://pisovpn.com) or [LionSSH](https://www.lionssh.com/) - *Free VPN Configs*
 * [Gluetun](https://github.com/qdm12/gluetun) - *Tunnel your Docker containers through a VPN*
 * [PiVPN](https://pivpn.io/) - *Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)* 
 * [Enterprise](https://pritunl.com/) - *VPN Server* 
@@ -918,7 +919,7 @@
 * [Fri-Gate](https://fri-gate.org/) - *Advanced Proxy Settings Addon*  
 * [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - *Limit proxy usage by private windows* 
 * [Hitch](https://hitch-tls.org/) - *SSL / TLS Proxy*
-* [SSHPOWER](https://www.sshpower.net/), [SSHKit](https://sshkit.com/), [FlySSH](https://www.flyssh.com/), [SSHSSL](https://www.sshssl.com/) or [FastSSH](https://www.fastssh.com/) - *SSH & SSL Servers*
+* [SSHPOWER](https://www.sshpower.net/), [SSHKit](https://sshkit.com/), [FlySSH](https://www.flyssh.com/), [SSHSSL](https://www.sshssl.com/), [jagoanssh](https://www.jagoanssh.com/) or [FastSSH](https://www.fastssh.com/) - *SSH & SSL Servers*
 
 ***
 
@@ -936,6 +937,8 @@
 * [Blockaway](https://www.blockaway.net/)
 * [VPN Book](https://www.vpnbook.com/webproxy)
 * [Hidester](https://hidester.com/proxy/)
+* [Zalmos](https://www.zalmos.com/)
+* [Proxy-URLs](https://www.proxy-urls.com/)
 * [Sitenable](http://sitenable.in/) 
 * [4EverProxy](https://www.4everproxy.com/)
 * [Proxy Site](https://proxysite.cloud/)
