@@ -90,7 +90,7 @@
 * [Pirateiro](http://pirateiro.com) - *Video / Audio / Games / Roms / Software / Android / Books / Comics / NSFW*
 * [ETTV](https://www.ettvcentral.com/) - *Video / Audio / Games / Software / Books / NSFW/ [Proxies](https://ettvproxies.com/)*
 * [GloTorrents](https://glodls.to) - *Video / Audio / Games / Books / Software / Android / NSFW*
-* [MagnetDL](https://www.magnetdl.com/) - *Video / Audio / Games / Software / Books*
+* [MagnetDL](https://www.magnetdl.com/), [2](https://www.magnetdl.me/) - *Video / Audio / Games / Software / Books*
 * [YggTorrent](https://ww3.yggtorrent.si/) - *Video / Audio / Roms / Software / Books / Android / Comics*
 * [LimeTorrents](https://limetorrents.pro/), [2](https://limetorrents.cyou/) - *Video / Audio / Software / Games / Books*
 * [YourBittorrent](https://yourbittorrent.com/), [2](https://yourbittorrent2.com/) - *Video / Audio / Software / Games / Books / NSFW*
@@ -110,10 +110,12 @@
 * [Fost.ws](https://fost.ws/) - *Software / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Mac-Torrents.io](https://mac-torrents.io/) - *Software / Games / Mac*
 * [Mac Torrents](https://www.torrentmac.net/) - *Software / Games / Mac*
+* [MacTorrents](https://mactorrents.io/) - *Software / Games / Mac*
+* [Download-Mac-Torrent](http://www.download-mac-torrent.ru/) - *Software / Games / Mac*
 * [FTUApps](https://ftuapps.dev/) - *Software*
 * [AudioNews](https://audionews.org/) - *Audio Software* 
-* [m0nkrus](http://w14.monkrus.ws/) - *Adobe software archive*
-* [upawg](https://upawg.ca) - *Index of audio products*
+* [m0nkrus](http://w14.monkrus.ws/) - *Adobe Software archive*
+* [upawg](https://upawg.ca) - *Index of Audio Products*
 * [Telegram Torrents](https://duckduckgo.com/?q=site%3At.me+torrent&ia=web) - *Telegram Torrent Channels*
 * [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/) - *[ZeroNet Required](https://zeronet.io/) / Video / Audio / Software / Games*
 * [4chan /t/](https://boards.4chan.org/t/) - *Torrents / Imageboard / Some NSFW* 
@@ -147,6 +149,7 @@
 * [BTMET](https://btmet.com/) 
 * [BT4G](https://bt4g.org/)
 * [BITCQ](https://bitcq.com/)
+* [TorrentMag](https://www.torrentmag.net/) 
 * [Torrent.nz](https://torrent.nz/) 
 * [TorrentProject2](https://torrentproject2.com/)
 * [ciligou0](http://ciligou0.com/) 
@@ -154,7 +157,7 @@
 * [TorrentDownloads](https://www.torrentdownloads.pro/) 
 * [Torlock](https://www.torlock.com/) or [Torlock2](https://www.torlock2.com/) 
 * [iBit.to](https://ibit.to) or [iBit.am](https://ibit.am/) 
-* [TorrentFunk](https://www.torrentfunk.com/) 
+* [TorrentFunk](https://www.torrentfunk.com/), [2](https://www.torrentfunk2.com/) 
 * [Badass Torrents](https://badasstorrents.com) 
 * [7Torrent](https://www.7torrents.cc/)
 * [concen](https://www.concen.org/torrents) 
