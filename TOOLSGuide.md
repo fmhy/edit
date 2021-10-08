@@ -188,7 +188,7 @@
 * [PlayPhrase](https://playphrase.me/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/), [2](https://getyarn.io/) - *Clip Quote Search Engine*
 * [FFmpeg](https://ffmpeg.org/) - *Video / Audio Recorder, Converter & Streaming*
 * FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite)
-* [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - *SFW to Video Converter*
+* [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - *SWF to Video Converter*
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) or [OBS Ninja](https://obs.ninja/) - *Streaming Tools Index*
 * [OBS](https://obsproject.com/) or [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs) - *Video Recording / Live Streaming / [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/)* 
 * [Stream Elements](https://streamelements.com/) - *Streaming Service Manager*
