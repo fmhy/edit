@@ -15,6 +15,7 @@
 
 ## ▷ Downloading 
 
+* [FaresCD](https://www.farescd.com/) - *Video / Software / Games / Android*
 * [akwam](https://old.akwam.co/) - *Video / Audio / Software* 
 * [Shahid4u](https://shahid4u.one/) - *Movies / TV / Anime* 
 * [mycima](https://mycima.video/) - *Movies / TV / Anime*  
@@ -97,7 +98,10 @@
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io) or [OilAndFish](https://www.oilandfish.com/) - *Bypass Chinese Firewall*  
 * [Dict.Baidu](https://dict.baidu.com/) - *Chinese Word, Idiom & Poem Search*
+* [taioan](https://ji.taioan.org/) - *Chinese Spell Check*
+* [Oh.Taigi](https://oh.taigi.info/) - *Chinese Taiwanese Learning Tools*
 * [ICIBA](http://www.iciba.com/) or  [YouDao](https://fanyi.youdao.com/) - *Chinese Translator / [Client](http://cp.iciba.com/)*
+* [itaigi](https://itaigi.tw/) - *Chinese to Taiwanese Translator*
 
 ## ▷ Downloading
 
@@ -117,6 +121,7 @@
 
 ## ▷ Torrenting
 
+* [BtMulu](https://www.btmulu.com/) - *Chinese Torrent Aggregator*
 * [Csze BT](https://bt.orzx.im/) - *Video / Audio / Software / Games / Books* 
 * [acgnx](https://www.acgnx.se/) - *Video / Audio / Software / Books / NSFW* 
 * [Share.dmhy](http://share.dmhy.org/) - *Anime / Manga / Games / Music* 
@@ -182,7 +187,10 @@
 * [rzlib](https://www.rzlib.net/) - *Light-Novels* 
 * [booktxt](https://m.booktxt.net/) - *Light-Novels* 
 * [ishare.iask](https://ishare.iask.sina.com.cn/) - *Documents*  
+* [CText](https://ctext.org/) - *Chinese Historic Text Archive*
+* [ChineseNotes](http://chinesenotes.com/) - *Chinese Historic Text Archive*
 * [guoxue](http://www.guoxue.com/) - *History / Journals*
+* [Moedict](https://www.moedict.tw/) - *Chinese Dictionary*
 
 ***
 
@@ -307,6 +315,7 @@
 * **[Awesome German Piracy](https://github.com/SeppPenner/awesome-german-piracy)** - *German / Piracy Site Index*
 * [RR.Topliste](https://toplist.raidrush.ws/) - *Piracy Site List* 
 * [xrel](https://www.xrel.to/) - *Scene Release & P2P Tracker* 
+* [Boerse](https://boerse.am/) - *German Data Sharing Discussion Forum*
 
 ## ▷ Downloading 
 
@@ -509,6 +518,7 @@
 ## ▷ Downloading 
 
 * [euroStreaming](https://eurostreaming.vision/) - *Use deltabit / Movies / TV / Anime / Use AdBlocker* 
+* [HD4Me](https://hd4me.net/) - *Movies*
 * [GamesReplay](https://www.gamesreplay.net/) - *Retro Roms*
 
 ## ▷ Streaming
@@ -752,6 +762,7 @@
 * [Anten.ir](https://www.anten.ir/) - *Live / TV / Sports* 
 * [PersianTVLive](http://www.persiantvlive.com/) - *Live TV*
 * [Sepehr](https://sepehr.irib.ir/) - *Live TV*
+* [ParsaTV](https://www.parsatv.com/) - *Live TV*
 * [MusicGeek](https://musicgeek.ir/) - *Music*
 * [VMusic](https://vmusic.ir/) - *Music*
 
@@ -829,7 +840,10 @@
 * [querofilmehd](https://querofilmehd.net/) - *Movies / TV*
 * [AnimeFire](https://animefire.net/) - *Anime* 
 * [AnimeLog](https://animeslog.com/) - *Anime*
+* [AnimesOnline](https://animesonline.vip/) - *Anime*
+* [SuperAnimes](https://www.superanimes.tv/) - *Anime*
 * [AnimeVision](https://animesvision.biz/) - *Anime* 
+* [CursoemVideo](https://www.cursoemvideo.com/) - *Courses*
 * [Kultivi](https://app.kultivi.com/) - *Courses*
 * [PrimeCursos](https://www.primecursos.com.br/) - *Courses*
 
@@ -937,8 +951,9 @@
 * [bitru](https://bitru.org/) - *Movies* 
 * [DarkLibria](https://darklibria.it/) - *Anime*
 * [RGFootball](http://rgfootball.net/) - *Sports*
+* [Torrent Igruha](https://torrent-igruha.ru/) - *Games*
 * [туттоп](https://tuttop.com/) - *Games*
-* [Small-Games](https://small-games.info/) - *Small Games*
+* [Small-Games](https://small-games.info/) - *Games*
 * [hit-muzik](https://hit-muzik.ru/) - *Music / MP3* 
 * [vrocke](http://vrocke.info/) - *Music / MP3* 
 * [opamuzika](http://www.opamuzika.ru/) - *Music / MP3*  
@@ -1055,6 +1070,8 @@
 * [gnula.nu](http://gnula.nu/) - *Movies / TV* 
 * [Cliver](https://www.cliver.to/) - *Movies*
 * [Repelis24](https://repelis24.co/) - *Movies / TV*
+* [PelisForte](https://pelisforte.co/) - *Movies / TV*
+* [Cinemargentino](https://cinemargentino.com/) - *Movies / Documentaries*
 * [Pelis28](https://pelis28.site/) - *Movies*
 * [HomeCine](https://homecine.me/) - *Movies* 
 * [Zoowoman](https://zoowoman.website/) - *Movies* 
@@ -1075,8 +1092,9 @@
 * [serieslan](https://serieslan.com/) - *Cartoons*
 * [Blog De Plis](https://www.blogdepelis.tv/) - *Spanish Disney+* 
 * [NoireStyle](https://noirestyle.com/) - *Film Noir* 
-* [Edutin Academy](https://edutin.com/) - *Courses*
+* [LegalMentegratis](http://legalmentegratis.com/) - *YouTube Movies*
 * [UKIKU](https://ukiku.ga/) - *Anime APK*
+* [Edutin Academy](https://edutin.com/) - *Courses*
 
 ## ▷ Reading
 
@@ -1208,6 +1226,7 @@
 * [7MovieRulz](https://7movierulz.im/) - *Streaming / Movies*
 * [1jalshamoviez](https://www.1jalshamoviez.info/) - *Download / Movies*
 * [4MovieRulz](https://4movierulz.gg/) - *Download / Movies*
+* [1xCinema](https://1xcinema.com/) - *Download / Movies*
 * [Indian Flac Songs](https://t.me/indianflacsongs) - *Download / Music*
 * [TamilBlasters](https://tamilblasters.art/) - *Torrent / Movies*
 * [TamilMV](https://www.1tamilmv.sbs/) - *Torrent / Movies*
