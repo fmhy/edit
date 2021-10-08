@@ -125,12 +125,14 @@
 * [eBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) - *eBook / Audiobook Readers* 
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - *Note Taking Apps*
 * [Magisk](https://github.com/topjohnwu/Magisk/releases) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - *Android Root Tool / [Mods](https://t.me/magiskmod_update)*
+* [Android Tool](https://github.com/fast-geek/Android-Tool) - *ABD / Fastboot Command Program*
 * [Amazing Temp Root](https://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - *MediaTek Temp Root*
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) - *Debloat non-rooted Androids*
 * [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - *Android Debloating Guide*
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - *Android Cleanup Tool*
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - *Ringtones Directory*
 * [VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps) - *File / URL Virus Scanner* 
+* [InstantBridge](https://instabridge.com/) - *Public WiFi Sharing Community*
 * [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app ) - *Libgen Mobile App* 
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) or [AndrOpen](https://www.andropenoffice.com/) - *Office Suite* 
 * [xShare](https://github.com/tsudoko/xshare) - *Screenshot Tool*
@@ -222,6 +224,7 @@ App Manager
 * [Reface](https://reface.app/) - *Create Face Swap Videos* 
 * [PGS](https://www.pgsharp.com/) - *Modded Pokémon GO*
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
+* [Appetize](https://appetize.io/) - *Run Native Mobile Apps in Browser*
 * [ROMphonix](http://162.154.76.208/) - *Old Mobile Firmware / [Discord](https://discord.com/invite/2GKuJjQagp)*
 * [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451) - *Custom Recovery Firmware Tool*
 * [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) - *Extract OTP Tokens*
@@ -316,7 +319,8 @@ App Manager
 * [Awesome Android Kotlin Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) - *Kotlin App Index*
 * [Aero Apps](https://t.me/aerolla) - *Modded Social Media Apps*
 * [FossDroid](https://fossdroid.com/) - *Open source apps / [/r/fossdroid](https://reddit.com/r/fossdroid)*
-* [Moderse ](https://t.me/Moderse) - *Android Apk Telegram Channel by well known modder - Stabiron*
+* [Moderse](https://t.me/Moderse) - *Android Apk Telegram Channel by well known modder - Stabiron*
+* [DedoMil](http://dedomil.net/) - *Java Mobile Games*
 * [evozi](https://apps.evozi.com/apk-downloader) or [APK Downloader](https://apk.support/apk-downloader) - *Download Google Play APKs*
 * [Raccoon](https://raccoon.onyxbits.de/) - *Private APK Downloader*
 * [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - *CLI APK Download Tool*
@@ -326,7 +330,7 @@ App Manager
 * [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - *App Giveaway Sites*
 * [APK Generator](https://play.google.com/store/apps/details?id=com.aksapps.apkgenerator) - *Get APK File for Installed Apps*
 * [How-to Install Play Store Apps from Other Countries](https://rentry.co/29s6v)
-
+* [APKAdmin](https://apkadmin.com/) - *APK Hosting Site*
 ***
 
 # ► Android Torrenting
@@ -381,8 +385,8 @@ App Manager
 * [Otter](https://github.com/apognu/otter) or [humit](https://www.humit.app/) - *Music Sharing App*
 * [Quorus](https://quorus.net/) - *Collaborative Playlists* 
 * [SplitCloud](http://www.splitcloud-app.com/) - *Audio Splitter*
+* [MusicSpeedChanger](https://musicspeedchanger.com/) - *Music Speed Changer*
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *Download / FLAC / MP3*
-* [smd](https://github.com/artyshko/smd) - *Spotify Music Downloader* 
 * [AudioSwitch](https://play.google.com/store/apps/details?id=com.nordskog.LesserAudioSwitch) - *Switch Audio to Different Outputs Lesser*
 * [Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler) - *Android Scrobbler*
 
@@ -459,7 +463,7 @@ Add "huhu.to", "bs.to" or "oha.to"*
 * [aDrama](https://adrama.online/) - *Asian Drama / [Addons](https://forum.mobilism.org/search.php?keywords=adrama&sr=topics&sf=titleonly)*
 * [RSS Player](https://play.google.com/store/apps/details?id=pis.android.rss.rssplayer&amp;hl=en_US) - *KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)
 RSS Player*
-* [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [YetAnotherVideoPlayer](https://github.com/shadow578/YetAnotherVideoPlayer) or [MX Player](https://forum.mobilism.org/search.php?keywords=Mx+player&amp;terms=all&amp;author=Balatan&amp;sc=1&amp;sf=titleonly&amp;sr=topics&amp;sk=t&amp;sd=d&amp;st=0&amp;ch=300&amp;t=0&amp;submit=Search) - *Video Player*
+* [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [YetAnotherVideoPlayer](https://github.com/shadow578/YetAnotherVideoPlayer) or [MX Player](https://forum.mobilism.org/search.php?keywords=Mx+player&amp;terms=all&amp;author=Balatan&amp;sc=1&amp;sf=titleonly&amp;sr=topics&amp;sk=t&amp;sd=d&amp;st=0&amp;ch=300&amp;t=0&amp;submit=Search) / [Codec](https://github.com/USBhost/MX_FFmpeg) - *Video Player*
 * [SyncPlayer](https://f-droid.org/en/packages/io.github.powerinside.syncplay/) - *Video Sync App*
 * [Android TV Mod](https://t.me/androidtvmod) - *Android TV / Fire TV / Fire Stick / Mods / Telegram*
 * [Android TV IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) - *IPTV Players for Android TV's*
@@ -502,6 +506,7 @@ RSS Player*
 * [TVTap](http://tvtap.bz/index.php)
 * [HD STREAMZ](https://hdstreamz.app/)
 * [SonyLiv (Modded)](https://forum.mobilism.org/search.php?keywords=SonyLIV+&sr=topics&sf=titleonly)
+* [OTTRun](https://www.ottrun.com/) - *IPTV Player*
 
 ***
 
@@ -549,7 +554,7 @@ RSS Player*
 
 # ► iOS Adblocking
 
-* **[AdGuard Pro](https://forum.mobilism.org/search.php?keywords=AdGuard+Pro&amp;sr=topics&amp;sf=titleonly)** - *Systemwide Adblocker / [Remote](https://apps.apple.com/app/apple-store/id1543143740)*
+* **[AdGuard Pro](https://forum.mobilism.org/search.php?keywords=AdGuard+Pro&amp;sr=topics&amp;sf=titleonly)** - *Adblocker / [Config](https://cdn.adguard.com/public/Dns/adguard-dns.mobileconfig) / [Remote](https://apps.apple.com/app/apple-store/id1543143740)*
 * [KF Panda-Player](https://apps.apple.com/us/app/kfpanda-player/id1460792262) - *Turn any site into a App, without the Ads* 
 * [1Blocker](https://1blocker.com/) - *Ablocker*
 * [Ka-Block!](http://kablock.com/) - *Adblocker*
@@ -621,6 +626,7 @@ RSS Player*
 * [Noctis12](https://repo.packix.com/package/com.laughingquoll.noctis12/) - *iOS 12 Dark Mode*
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books*
 * [GlobeConvert](https://apps.apple.com/us/app/globeconvert-currency-units/id334851202) - *Currency / Unit Converter*
+* [IRuin](https://iriun.com/) - *Use iOS Device as Webcam* 
 * [Measure](https://apps.apple.com/us/app/measure/id1383426740) - *Turn iPhone / iPad into Tape Measure*
 * [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303) or [NetNewsWire](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210) - *RSS Reader*
 * [Grffe](https://apps.apple.com/ca/app/grffe-wallpapers/id1521368829) - *Static and Live Backgrounds* 
@@ -709,9 +715,10 @@ RSS Player*
 * [YTMusilife](https://repo.hackyouriphone.org/ytmusilife) or [YouTube Music Patched](https://appdb.to/app/cydia/1900000831) - *Streaming*
 * [Deezelife](https://repo.hackyouriphone.org/deezelife) or [Deezer](https://apps.apple.com/app/deezer/id292738169) - *Streaming*
 * [SCloudlife](https://repo.hackyouriphone.org/scloudlife) or [Soundcloud](https://apps.apple.com/us/app/soundcloud/id336353151) - *Streaming*
-* [Musi](https://apps.apple.com/us/app/musi-simple-music-streaming/id591560124) - *Streaming* 
+* [Musi](https://apps.apple.com/us/app/musi-simple-music-streaming/id591560124) - *Streaming / [Music Videos](https://apps.apple.com/us/app/musi-offline-music-videos/id1566988849)* 
 * [eSound](https://apps.apple.com/ca/app/esound-music-player-app-mp3/id1224933860) - *Streaming* 
 * [Pandolife](https://repo.hackyouriphone.org/pandolife) - *Streaming / Modded Pandora*
+* [iMusic](https://apps.apple.com/us/app/imusic-offline-music-player/id1535124961) - *Streaming*
 * [Audiomack](https://apps.apple.com/ca/app/audiomack-download-new-music/id921765888) - *Streaming* 
 * [VOX](https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494) - *Streaming*
 * [Quorus](https://quorus.net/) - *Collaborative Playlists* 
