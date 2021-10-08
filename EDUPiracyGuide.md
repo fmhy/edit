@@ -118,6 +118,7 @@
 * [FreeEducationWeb](https://freeeducationweb.com/) - *Courses* 
 * [DLECourse](https://dlecourse.com/) - *Courses* 
 * [FreeCourseDL](https://freecoursedl.com/) - *Courses* 
+* [HackNation](https://hacksnation.com/) - *Courses*
 * [torrenttempdrive](https://torrenttempdrive.hashhackers.com/1:/) - *Courses*
 * [FreeStudyWeb](https://freestudyweb.com/) - *Courses* 
 * [CryptoTips](https://www.cryptotips.us/) - *Courses* 
@@ -139,6 +140,7 @@
 * [Masterclass 63 Pack](https://mega.nz/folder/HxFghIbS#rFqH402PoVDwHW_XEtN1QQ) - *Masterclass Courses / Drive*
 * [Lynda Courses](https://bin.snopyta.org/?efe32fb96a945857#GQL7q4hyKjCeB6WLbpq94S12BEwh5JWc4apjmb7RE4SU) - *Lynda Courses / Drive / pw: fmhy*
 * [LyndaFree](https://t.me/lyndafree) - *Lynda Courses / Telegram*
+* [BestWSODownload](https://www.bestwsodownload.com/) - *WSO Courses*
 * [Giga Course](https://gigacourse.com/) - *Udemy Courses / Drive* 
 * [s28.bitdl.ir Udemy](http://s28.bitdl.ir/Compresed/Udemy/) - *Udemy Courses / Drive / Use VPN*
 * [Udemy 24](https://udemy24.com/) - *Udemy Courses* 
@@ -334,7 +336,7 @@
 
 * **[Awesome-Lang](https://github.com/oyd11/awesome-lang)** - *Language Learning Resource Index* 
 * **[Languages & Linguistics](https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - *Language Learning Books*
-* [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - *Language Learning Network*
+* [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - *Language Learning Network*
 * [E-books_432](https://archive.org/details/E-books_432) - *Vocabulary & Pronunciation Books*
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - *Multi Language Dictionary Index*
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - *Translation Dictionary* 
@@ -376,6 +378,11 @@
 * [Hangul](https://hangul.cool/) - *Korean Typing Practice*
 * [Bangtan Korean](https://bangtankorean.com/) - *Learn Korean via BTS Songs*
 * [Train Chinese](https://www.trainchinese.com/), [ChineseSkill](https://www.chineseskill.com/) or [HelloChinese](http://hellochinese.cc/) - *Chinese Learning App*
+* [Cantonese sheik](http://www.cantonese.sheik.co.uk/) - *Chinese Learning Resources*
+* [Cantonese.ca](https://cantonese.ca/) - *Chinese Vocabulary*
+* [MDBG](https://www.mdbg.net/) - *Chinese Dictionary*
+* [Jukuu](http://www.jukuu.com/) - *Chinese to English Word Comparisons*
+* [Maorma](http://www.maorma.net/) - *Chinese Tone Practice*
 * [TofuLearn](https://www.tofulearn.com/) - *Chinese Vocab Practice*
 * [DU Chinese](https://www.duchinese.net/) - *Chinese Lessons*
 * [Dong Chinese](https://www.dong-chinese.com/) - *Chinese Lessons*
@@ -448,6 +455,7 @@
 * [Mochi Cards](https://mochi.cards/) - *Note Taking & Flash Cards*
 * [BookStack](https://www.bookstackapp.com/) - *Self-Hosted Information Manager*
 * [Deepnote](https://deepnote.com/) - *Data Science Notebook*
+* [ClassroomScreen](https://www.classroomscreen.com/) - *Digital Teaching Widgets*
 * [Plagiarism Checker](https://www.grammarly.com/plagiarism-checker), [PaperRater](https://www.paperrater.com/), [PlagiarismDetector](http://www.plagiarismdetector.net/), [CopyScape](https://www.copyscape.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
 * [cb2bib](https://www.molspaces.com/cb2bib/) - *Reference Extractor / Manager*
 * [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - *Grade School Educational Tools*
@@ -467,7 +475,7 @@
 * [Wikiversity](https://www.wikiversity.org/) - *Learning Resources, Guides, Quizzes, Tools & More*
 * [TurtleDiary](https://www.turtlediary.com/) - *Quizzes / Lessons / Games*
 * [SoftSchools](https://www.softschools.com/) - *Worksheets / Games / Quizzes*
-* [FactMonster](https://www.factmonster.com/) - *Exercises/ Flashcards*
+* [FactMonster](https://www.factmonster.com/) - *Exercises / Flashcards*
 * [BrainPOP Jr.](https://jr.brainpop.com/) - *Quizzes / Animations*
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - *5-Minute Audio Lessons / iOS*
 * [Lucid](https://apps.apple.com/us/app/lucid-learn-visually/id1482780647) - *Visual Learning Guides / iOS*
@@ -479,6 +487,8 @@
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - *AP Exam Comparison Spreadsheet*
 * [AQA GCSE 2019](https://drive.google.com/drive/folders/1xIaxfQYePlTT2XxRXYMOjXduvZzaYyP7?usp=sharing) - *AQA 2019 GCSE Exams*
 * [Future Vision BIE](https://hemanthrajhemu.github.io/) - *VTU Study Materials*
+* [JeeMain](https://jeemain.guru/) - *ITT / JEE Study Materials*
+* [IELTS69](https://www.ielts69.com/) - *IELTS Cambridge Practice Tests*
 * [GCE Guide](https://gceguide.com/) - *Cambridge Assessment Guide*
 * [ITExams](https://www.itexams.com/) - *IT Exam Collection*
 * [The Problem Site](https://www.theproblemsite.com/) - *Problems / Puzzles / Games*
@@ -497,7 +507,7 @@
 * [AMCharts](https://live.amcharts.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - *Chart Creator*
 * [AWW](https://awwapp.com/), [OpenBoard](https://openboard.ch/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - *Whiteboard*
 * [app.diagrams](https://app.diagrams.net/), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/) or [Gephi](https://gephi.org/) - *Graph / Diagram Creator*  
-* [Anki](https://apps.ankiweb.net/) or [Flashcard Machine](https://www.flashcardmachine.com/) - *Flash Card Tool*
+* [Anki](https://apps.ankiweb.net/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html) or [Flashcard Machine](https://www.flashcardmachine.com/) - *Flash Card Tool*
 * [Wolfram Cloud](https://www.wolframcloud.com/) - *Computational intelligence*
 * [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
 * [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - *Physics Simulations / Animations*
@@ -518,6 +528,7 @@
 * [VirtualTrebuchet](http://virtualtrebuchet.com/) - *Trebuchet Simulator* 
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - *Pendulum Simulator*
 * [Traffic Simulation](https://traffic-simulation.de/) - *Traffic Flow Simulation* 
+* [Sectional Anatomy](https://www.sectional-anatomy.org/) - *Cross Sectional Educational MRI / CT Scans*
 * [Ray Optics Simulation](https://ricktu288.github.io/ray-optics/) - *Light Reflection / Refraction Simulator*
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) or [Mindat](https://www.mindat.org/) - *Mineralogy Database* 
 * [Alien](https://alien-project.org/) - *Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)*
