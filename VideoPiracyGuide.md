@@ -60,6 +60,7 @@
 * [Goojara](https://www.goojara.to/) - *Movies / TV / Anime*
 * [SpaceMov](https://spacemov.ws/) - *Movies / TV*
 * [Join4Films](https://www.join4films.net/hollywood/) - *Movies*
+* [OpenloadTV](https://openloadtv.co/) - *Movies*
 * [iMovies](https://www.imovies.cc/) - *Movies / TV / Anime*
 * [AllMoviesForYou](https://allmoviesforyou.co/) - *Movies / TV* 
 * [FlixGo](https://flixgo.me/) - *Movies / TV*
@@ -298,6 +299,9 @@
 * [Anime OWL](https://animeowl.net/home/) - *Sub / Dub*
 * [NetAnime](https://netanime.tv/) - *Sub / Dub* 
 * [tenshi.moe](https://tenshi.moe/) - *Sub / Dub* 
+* [AnimeGuru](https://www.animeguru.net/) - *Sub / Dub*
+* [GoAnimeList](https://goanimelist.me/) - *Sub / Dub*
+* [GoGoAnime](https://gogoanime.pe/) - *Sub / Dub / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin)*
 * [AnimeFrenzy](https://animefrenzy.org/) - *Sub* 
 * [AnimeXin](https://animexin.info/) - *Sub*
 * [AnimeSuge](https://animesuge.io/) - *Sub / Dub* 
@@ -412,6 +416,7 @@
 * [UFCKhabib](http://ufckhabib.com/) or [NBATVSport](http://nbatvsport.com/) - *Sports*
 * [6Streams](http://6streams.tv/) - *Sports*
 * [NodelayTV](http://nodelaytv.pw/) - *Sports*
+* [EliteGoLTV](https://elitegoltv.es/) - *Sports*
 * [FreeSportsForAll](http://www.freesportsforall.ml/) - *Sports*
 * [Cr7Soccor](https://cr7soccer.club/) - *Sports*
 * [NBAStreams](https://nbastreams.to/), [NFL](https://nflstreams.to/), [NHL](https://nhlstreams.to/), [MLB](https://mlbstreams.to/) - *Sports* 
@@ -420,6 +425,7 @@
 * [FreeStream-Live](http://freestreams-live1.com/) - *Sports* 
 * [Football Live Stream](https://football-live.stream/free-matches-online-6) - *Football* 
 * [MLB66](https://mlb66.ir/) - *MLB* 
+* [MLBStream](https://mlbstream.me/) - *MLB*
 * [BoxingStreams](https://boxingstreams.cc/) - *Boxing*
 * [F1 Live Stream](https://formula1-live.stream/free-races-online-4) - *F1* 
 * [LiveSoccer TV](https://www.livesoccertv.com/) - *Soccer*
@@ -507,6 +513,9 @@
 * [Go-Movie](http://go-movie.ru/) - *Movies*
 * [ULMovies](https://ulmovies.xyz/) - *Movies / TV* 
 * [SBS](https://3dsbs4u.com/) - *Movies / TV*
+* [MKVHouse](https://mkvhouse.co/) - *Movies / TV*
+* [TwitchDL](https://dl2.twitchdl.us/) - *Movies / TV / Anime*
+* [O2TVSeriesz](https://o2tvseriesz.com/) - *Movies / TV*
 * [7Moviesrulz](https://7movierulz.se/category/hollywood-movie-2021/) - *Movies*
 * [oKhatrimaza](https://www.okhatrimaza.vin/category/7/hollywood-english-movies/default/1.html) - *Movies*
 * [SD Movies Point](https://1sdmoviespoint.kim/category/hollywooddd/) - *Movies / TV*
@@ -660,6 +669,7 @@
 * [Baby Torrent](https://babytorrent.fun/) - *Movies / TV*
 * [Vuze](https://www.vuze.com/content/) - *Movies / TV* 
 * [ATORRENTS](https://atorrents.com/) - *Movies*
+* [TorrentCue](http://torrrentcue.cc/Hollywood.html) - *Movies*
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - *Movies*
 * [YTS](https://yts.mx/) - *Movies / [Mirror](https://yify.netlify.app/) / Do [NOT](https://androidrookies.com/top-torrent-website-yts-is-sharing-user-emails-and-ip-addresses-with-anti-piracy-law-firm/) Make Account* 
 * [xbit](https://xbit.pw/) - *Movie Torrent Release Information*
@@ -726,6 +736,7 @@
 * [Kitsu](https://kitsu.io/) - *Anime* 
 * [AniDB](https://anidb.net/) - *Anime*
 * [AniList](https://anilist.co/) - *Anime / [Wrapper](https://github.com/butterstroke/Anilist-Node)* 
+* [Animender](https://discord.gg/h6nTTprMKd) - *Anime Recommendation A.I.*
 * [MetaCritic](https://www.metacritic.com/) - *Movies / TV / Anime*
 * [rate.house](https://rate.house/) - *Media Tracker*
 * [FlickChart](https://www.flickchart.com/) - *Rank your movies*
@@ -820,6 +831,7 @@
 * **[Subtitle Edit](https://www.nikse.dk/SubtitleEdit/Online)**, [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://github.com/Aegisub/Aegisub) or [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - *Subtitle Editor*
 * **[External Subtitles Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_external_subs_player)** - *Play Subs Externally* 
 * [elSubtitle](http://www.elsubtitle.com/) - *Subtitles & Tools* 
+* [GSubs](https://cholaware.com/gsubs/) - *Subtitle Search Client*
 * [Subtitle Cat](https://www.subtitlecat.com/) - *Subtitles* 
 * [Subscene](https://subscene.com/) - *Subtitles* 
 * [SubDL](https://subdl.com/) - *Subtitles* 
