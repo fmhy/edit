@@ -99,6 +99,8 @@
 * [DownLoadBooks](https://downloadbooks.unblockit.dev/) - *Books*
 * [Any Books Free](http://anybooksfree.com/) - *Books*
 * [Books'Cool](https://www.bookscool.com/en/index.php) - *Books*
+* [Ebookee](https://www.ebookee.com/) - *Books / Magazines*
+* [Epub.us](https://www.epub.us/) - *Books*
 * [EBooksCart](https://ebookscart.com/) - *Books*
 * [Novel12](https://novel12.com/) - *Books* 
 * [Read Print](http://www.readprint.com/) - *Books* 
@@ -188,6 +190,7 @@
 * [OiiPDF](https://oiipdf.com/) - *Books*
 * [FindPDFDoc](http://www.findpdfdoc.com/) - *Books* 
 * [PDFSlide](https://pdfslide.net/) - *Books* 
+* [EDoc](https://www.edoc.site/) - *Books*
 * [PDFDuck](https://pdfduck.com/) - *Books* 
 * [pdforigin](https://www.pdforigin.info/) - *Books* 
 * [LargePDF](https://largepdf.com/) - *Books*
@@ -592,6 +595,7 @@
 * [Free Ebooks Download List](https://free-ebook-download-links.blogspot.com/) 
 * [EbookFoundation Programming Books](https://github.com/EbookFoundation/free-programming-books/) 
 * [Free-Python-Books](https://github.com/oddsun/Free-Python-Books)
+* [free-python-books](https://github.com/pamoroso/free-python-books)
 * [DevDocs](https://devdocs.io/) - *API Documentation*
 * [Bzdnbot](https://t.me/Bzdnbot) - *Telegram* 
 * [Programming Directories](https://redd.it/hxdbau) 
@@ -621,7 +625,7 @@
 * [Academia](https://www.academia.edu/) - *Academic papers*
 * [Scinapse](https://scinapse.io/) - *Academic Paper Search* 
 * [Semantic Scholar](https://www.semanticscholar.org/) - *Scientific Paper Search* 
-* [Connected Papers](https://www.connectedpapers.com/) - *Find Connected Academic Papers* 
+* [Connected Papers](https://www.connectedpapers.com/) or [LitMaps](https://app.litmaps.co/) - *Find Connected Academic Papers* 
 * [FreeFullPDF](https://freefullpdf.com/) - *Science / Articles*
 * [KUNDOC](https://coek.info/) - *Science / Articles*
 * [Springer](https://link.springer.com/) - *Science / Articles*
@@ -770,6 +774,7 @@
 * [Zip Comic](https://www.zipcomic.com/) - *Downloads*
 * [ComicCodes](http://www.comicscodes.com/) - *Downloads*
 * [UnofficialCBR](https://unofficialcbr.home.blog/) - *Downloads*
+* [BookGN](http://www.bookgn.com/) - *Downloads*
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - *Weekly Downloads*
 * [BookDL Comic & Manga](http://booksdl.org/comics0/) - *Comics / Manga / Drive*
 * [The-Eye Comics](http://the-eye.eu/public/Comics/) - *Comic Archive* 
@@ -833,6 +838,8 @@
 * [MangaNyaa](https://manganyaa.com/) 
 * [EvilFlowers](http://reader.evilflowers.com/)
 * [Mangairo](https://h.mangairo.com/)
+* [MangaBob](https://mangabob.com/)
+* [KumaScans](https://kumascans.com/) 
 * [MangaBat](https://m.mangabat.com/m)
 * [Yukiko](https://www.yukiko.org/manga/) 
 * [MangaEffect](https://mangaeffect.com/)
