@@ -233,6 +233,7 @@
 * [SnapFiles](https://www.snapfiles.com/freeware/) - *Software*
 * [apponic](https://www.apponic.com/) - *Software*
 * [Soft112](https://www.soft112.com/) - *Software* 
+* [FileEagle](https://www.fileeagle.com/) - *Software*
 * [IcecreamApps](https://icecreamapps.com/) - *Software* 
 * [PRVSoft](https://www.prvsoft.com/) - *Software*
 * [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html) - *Software*
@@ -298,6 +299,7 @@
 * [GFX-Hub](https://gfx-hub.net/)
 * [GoDownloads](https://godownloads.net/) 
 * [GFXDownload](http://gfxdownload.com/)
+* [Uparchip](https://www.uparchvip.com/category/free-content/)
 
 ***
 
@@ -308,6 +310,8 @@
 * [VSTHouse](http://vsthouse.ru/) 
 * [Audio Plugin](https://audioplugin.net/)
 * [VST-Platinum](https://vst-platinum.com/) 
+* [SamplesHome](https://sampleshome.com/) 
+* [VSTBase](https://www.vstbase.org/) 
 * [Magesy](https://magesy.blog/) 
 * [MagesyPro](https://www.magesypro.com/) 
 * [Music-Create](https://music-create.org/) 
