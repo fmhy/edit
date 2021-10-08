@@ -211,7 +211,7 @@
 * **[PointerPointer](https://pointerpointer.com/)** - *Get Your Pointer Pointed At* 
 * **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - *Realistic-Looking Fake Versions of Things* 
 * [KongouCheats](https://kongoucheats.com/) - *Watch Random Memes / Videos* 
-* [Funnyjunk](https://funnyjunk.com//) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Memes & GIFs / Some NSFW*
+* [Funnyjunk](https://funnyjunk.com//), [iFunny](https://ifunny.co/) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Videos, Memes & GIFs / Some NSFW*
 * [SakugaBooru](https://www.sakugabooru.com/) - *Image Booru*
 * [Random Screenshot](https://randomscreenshot.com/) or [Random Prnt.sc](https://chrishannah.me/prntsc/) - *Random Screenshots*
 * [Kamogo](https://www.kamogo.com/faq/) - *Useless Web Apps*
@@ -297,6 +297,7 @@
 * [No Paint](https://nopaint.art/) - *Press "Paint" if you like what you see, "No" if you don't* 
 * [BubblesPop](https://bubblespop.netlify.app/) or [Relax](https://calming.netlify.app/) - *Pop Bubble Wrap* 
 * [Mebious](https://mebious.wirechan.org/) - *Upload Random Images / Text to Public Wall*
+* [RolePlayer](https://www.roleplayer.me/) - *Roleplaying Social Network*
 * [Smash The Walls](https://smashthewalls.com/) - *Smash Walls*
 * [Petting](http://oos.moxiecode.com/js_webgl/fur/index_petting.html) - *Fur Simulator*
 * [Spider 2 Hammertime](http://oos.moxiecode.com/js_webgl/spiders_2_hammertime/) - *Murder Spiders*
@@ -416,6 +417,7 @@
 * [elgooG](https://elgoog.im/) - *Google Easter Egg Archive*
 * [Internet Map](http://internet-map.net/) - *Map of the Internet*
 * [Screentoys](https://www.screentoys.com/) - *Photo Morphing Toy*
+* [HowNormalAmI?](https://www.hownormalami.eu/) - *Face Judge A.I.*
 * [Word Blanks](https://www.wordblanks.com/) or [Plot Generator](https://www.plot-generator.org.uk/) - *Online Mad Libs*
 * [Fun Trivia](https://www.funtrivia.com/) or [Sporcle](https://www.sporcle.com/) - *Trivia*
 * [theOtaku](http://theotaku.com/quizzes) - *Anime Personality Quizzes* 
@@ -479,7 +481,7 @@
 * [PublicAlerts](https://google.org/publicalerts) - *Important News / Disaster Alerts*
 * [GHacks](https://www.ghacks.net/), [Geeks3D](https://www.geeks3d.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
 * [We Fight Censorship](http://3kyl4i7bfdgwelmf.onion/) - *Censorship News*
-* [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - *News*
+* [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - *Dark Web News*
 * [Interactive News Map](https://usa.liveuamap.com/) - *Geolocated News Alerts / Headlines U.S* 
 * [Forekast](https://forekast.com/) - *Worldwide Event Calendar* 
 * [Uriminzokkiri](http://www.uriminzokkiri.com/index.php?lang=eng) - *Korean News*
@@ -651,7 +653,7 @@
 * [Get Font](https://getfont.herokuapp.com/) - *Find Font in Github* 
 * [Cava's Pixel Resources](https://caveras.net/) - *Pixel Fonts* 
 * [Scanlation School Drive](https://drive.google.com/drive/folders/1hPV4o8fmxY2Ab9tXi84l0vVOUQEgFIbU) - *Comic Fonts*
-* [Make WordArt](https://www.makewordart.com/) or [CoolText](https://cooltext.com/) - *WordArt Generator*
+* [Make WordArt](https://www.makewordart.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - *WordArt Generator*
 * [int10h](https://int10h.org/oldschool-pc-fonts/) - *Oldschool PC Fonts* 
 * [Codeface](https://github.com/chrissimpkins/codeface) - *Fonts for Coding* 
 * [FiraCode](https://github.com/tonsky/FiraCode) - *Monospace Fonts* 
