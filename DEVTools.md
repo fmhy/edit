@@ -22,6 +22,7 @@
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - *Python Guide*
 * [CodingBat](https://codingbat.com/) - *Python / Java Practice*
 * [Python4Everyone](https://py4e.com/) - *Python Lessons*
+* [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - *Python Lessons*
 * [Real Python](https://realpython.com/) - *Python Tutorials*
 * [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - *Python Course*
 * [Tea Press](https://greenteapress.com/wp) - *Free Python Learning Books Green*
@@ -162,6 +163,7 @@
 * [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/),  [Network Tools](https://network-tools.com/) or [WebsiteScoop](https://websitescoop.com/) - *Domain Info / IP Tools*
 * [Namechk](https://namechk.com/), [Username Checker](https://checkuser.org/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Username Availability Check*
 * [Pyfunceble](https://pyfunceble.github.io/#/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [DomComp](https://www.domcomp.com/) or [Domainr](https://domainr.com/) - *Domain Availability Check* 
+* [UseMe](https://useme.org/) - *Ping Website*
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist*
 * [Flounder](https://flounder.online/) - *Gemini Website Builder / [GitHub](https://github.com/alexwennerberg/flounder)* 
 * [GoHugo](https://gohugo.io/ ) - *Site Creator*
@@ -171,7 +173,7 @@
 * [Sketch2Code](https://sketch2code.azurewebsites.net/) - *Convert Hand-Drawn Designs into HTML*
 * [Straw.Page](https://straw.page/) - *Simple Site Creator*
 * [LocalXpose](https://localxpose.io/) - *Reverse Proxy*
-* [Bootstrap](https://bootstrapmade.com/) - *Website Templates & Themes*
+* [Bootstrap](https://bootstrapmade.com/) or [TheMeWagon](https://themewagon.com/) - *Website Templates & Themes*
 * [Elements Envato](https://qltien.com/elements/getcode/babiato.html) - *Templates, Mockups, Logos, Video*
 * [Uisual](https://uisual.com/) - *Landing Page Templates*
 * [Canva](https://www.canva.com/) - *Design Templates / [Premium Apk](https://forum.mobilism.org/search.php?keywords=Canva+&sr=topics&sf=titleonly)* 
@@ -184,6 +186,7 @@
 * [RealFaviconGenerator](https://realfavicongenerator.net/) - *Website Favicon Generator*
 * [hlsflow](https://github.com/hlsflow/hlsflow) - *Host Video in HLS Stream*
 * [WebDesigner](https://webdesigner.withgoogle.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/AriaMinaei/theatre) or [Animate.css](https://animate.style/) - *Create Interactive Motion Graphics*
+* [Vidlery](http://vidlery.com/) - *Animated Webpage Background*
 * [MapBox](https://www.mapbox.com/) - *Live Maps, Location Search & More*
 * [Kontactr](https://kontactr.com/) or [Formsend](https://formsend.org/) - *Form Builder*
 * [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)- *Penetration Testing Resources*
@@ -197,6 +200,7 @@
 * [Bypass Cloudflare](https://github.com/jychp/cloudflare-bypass) - *Bypass Coudflare Bot Protection*
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - *Check Sites for Cloudflare*
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - *Captcha Systems*
+* [ElasticSearch](https://github.com/elastic/elasticsearch) - *Search & Analytics Engine*
 * [GetButton](https://getbutton.io/) - *Get free 'Message Us' Button for your Site*
 * [Error404](https://error404.fun/) - *Free 404 Pages*
 * [Let's Encrypt](https://letsencrypt.org/) - *Free TLS Certificates*
@@ -251,6 +255,7 @@
 * [XDA](https://forum.xda-developers.com/) - *App Development Forum*
 * [Docker](https://www.docker.com/) - *Build, Manage & Run Apps in Containers / [Images](https://linuxserver.io/)*
 * [Blisk](https://blisk.io/) - *Cross-Device Testing*
+* [Booster](https://github.com/didi/booster) - *Mobile App Optimization*
 * [Plank](https://launchpad.net/plank) - *Simple Dock / [GitHub](https://github.com/ricotz/plank)*
 * [Portainer](https://portainer.io/) - *Build / Manage Docker Containers / [Templates](https://github.com/SelfhostedPro/selfhosted_templates) / [GitHub](https://github.com/portainer/portainer)*
 * [MDB GO](https://mdbgo.com/) - *Free App Hosting*
@@ -264,6 +269,8 @@
 * [Uiautomator2](https://github.com/openatx/uiautomator2) - *Automated App Testing*
 * [PM2](https://pm2.keymetrics.io/) - *Process Manager*
 * [React95](https://react95.io/) - *Windows 95 React Components*
+* [Previewed](https://previewed.app/) - *3D App Mockups*
+* [Redex](https://fbredex.com/) - *Android Bytecode Optimizer*
 
 ***
 
@@ -373,9 +380,9 @@
 
 * [SpyColor](https://www.spycolor.com/) - *Color Model Conversions*
 * [Colorful](https://github.com/Siddharth11/Colorful) - *Curated List of Color Scheme Resources* 
-* [Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [MyColor](https://mycolor.space/) or [Coolors](https://coolors.co/) - *Color Palette Generator*
+* [Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [MyColor](https://mycolor.space/), [ColorHunt](https://colorhunt.co/) or [Coolors](https://coolors.co/) - *Color Palette Generator*
 * [ColorsAndFonts](https://www.colorsandfonts.com/) - *Quickly Copy Colors & Typography Combinations* 
-* [ColorHexa](https://www.colorhexa.com/) - *Color Hex Encycolopedia* 
+* [ColorHexa](https://www.colorhexa.com/) - *Color Hex Encyclopedia*  
 * [Paletton](https://paletton.com/) - *Color Scheme Designer*
 * [PaletteGenerator](https://palettegenerator.com/) - *Color Palette Extractor*
 * [ColorZilla](https://www.colorzilla.com/) - *Color Picker, Gradient Generator & more*
@@ -419,6 +426,7 @@
 * [Python Mini Projects](https://github.com/Python-World/python-mini-projects) - *Python Scripts*
 * [Dodgy](https://github.com/landscapeio/dodgy) - *Find PWs & Diffs in Python Code*
 * [JSPyBride](https://github.com/extremeheat/JSPyBridge) - *Interoperate Node.js and Python*
+* [python-adb](https://github.com/google/python-adb) - *Python ADB + Fastboot implementation*
 * [AutoCode](https://autocode.com/) - *Instant Endpoints*
 * [Mega Linter](https://github.com/nvuillam/mega-linter) - *Code Analyzer* 
 * [tabnine](https://www.tabnine.com/) - *AI Assisted Code Completion*
