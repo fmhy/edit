@@ -1636,6 +1636,7 @@ General Reading Sites*
 * [dlss-swap](https://github.com/beeradmoore/dlss-swapper) - *Download, Manage & Swap DLSS*
 * [VibranceGUI](https://vibrancegui.com/) - *Automate Digitial Vibrance Control*
 * [ReShade](https://reshade.me/) - *Generic Post-Processing Injector / [GitHub](https://github.com/crosire/reshade)*
+* [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - *Glide & DirectX Graphics Wrapper / [GutHub](https://github.com/dege-diosg/dgVoodoo2)*
 * [Achievement Watcher](https://github.com/xan105/Achievement-Watcher) - *Achievement File Parser, Notifications & Playtime Tracker* 
 * [fuckigg](https://github.com/Pheeeeenom/fuckigg) - *Remove IGG DRM*
 * [UE4 Console Unlocker](https://framedsc.github.io/GeneralGuides/universal_ue4_consoleunlocker.htm) - *Unreal Engine 4 Console Unlocker*
