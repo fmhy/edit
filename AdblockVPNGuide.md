@@ -138,7 +138,7 @@
 * **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)** - *Anonymous Text Verification*
 * **[Two Factor Auth](https://twofactorauth.org/)** - *List of Sites with 2FA Support*
 * **[Authy](https://authy.com/)** or [WinAuth](https://winauth.github.io/winauth/) - *Two-Factor Authentication*  
-* [Obsidian](https://obsidianapp.io/) - *OS X/ iOS Two-Factor Authentication*
+* [Obsidian](https://obsidianapp.io/) - *OS X / iOS Two-Factor Authentication*
 * [Authenticator](https://authenticator.cc/) - *Generate Two-Factor Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)* 
 * [StrongPasswordGenerator](https://strongpasswordgenerator.com/), [ExpressVPN PW Generator](https://www.expressvpn.com/password-generator) or [Bitwarden PW Generator](https://bitwarden.com/password-generator/) - *Password Generators*
 * [Privacy / Safety Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_guides) - *Internet Privacy / Safety Guides* 
@@ -174,7 +174,7 @@
 * [FileVault](https://support.apple.com/en-us/HT204837) - *Mac Disk Encryption* 
 * [Cryptomator](https://cryptomator.org/), [Boxcryptor](https://www.boxcryptor.com/en/), [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) or [Filen](https://filen.io/) - *Cloud File Encryption*
 * [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/), [Skytransfer](https://skytransfer.hns.siasky.net) or [upload-vaa](https://upload.vaa.red/) - *Encrypted File Host* 
-* [EncFS MP](https://encfsmp.sourceforge.io/index.html), [CipherShed](https://www.ciphershed.org/), [Kryptor](https://www.kryptor.co.uk/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - *File Encryption Tool* 
+* [EncFS MP](https://encfsmp.sourceforge.io/index.html), [GNUPG](https://gnupg.org/), [CipherShed](https://www.ciphershed.org/), [Kryptor](https://www.kryptor.co.uk/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - *File Encryption Tool* 
 * [RemoteStream](https://remotestre.am/) - *Encrypt your Google Drive links* 
 * [PDFEncrypt](https://pdfencrypt.net/) - *PDF File Encryption*
 * [GnuPG](https://www.gnupg.org/index.html) or [GPGTools](https://gpgtools.org/) - *Encrypt & Sign Data / Communications* 
@@ -184,6 +184,7 @@
 * [Eraser](https://eraser.heidi.ie/) - *Remove / Overwrite Hard Drive Data* 
 * [Free Hide Folder](https://www.cleanersoft.com/hidefolder/free_hide_folder.htm) or [Wise Folder Hider](http://www.wisecleaner.com/wise-folder-hider-free.html) - *Hide Folders / Files* 
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - *Run a Oracle VM on TailsOS*
+* [diaspora](https://diasporafoundation.org/) - *Decentralized Social Network*
 * [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/) - *Stop Telemetry Data Leaks*
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - *Track Torrent Download Leaks*
 * [Safing](https://safing.io/) - *Monitor Network / Block Trackers / [GitHub](https://github.com/Safing/portmaster)*
@@ -217,7 +218,6 @@
 * [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - *Redirects Twitter, YouTube, Instagram & Google Maps to alt interfaces*
 * [Invidition](https://codeberg.org/Booteille/Invidition) - *Redirect YouTube / Twitter requests to their alt interfaces*
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - *Redirects all YouTube links to Invidous* 
-* [Privacy Badger](https://privacybadger.org/) or [Privacy Possum](https://github.com/cowlicks/privacypossum) - *Blocks invisible trackers*
 * [Anti-Grabify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anti-grabify) - *Block IP Grabbers*
 * [Anti-Fp](https://www.cydecplatform.com/antifp.html) - *Disrupt Fingerprint Targeting*
 * [CSS Exfil Protection](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester) - *Stops CSS data exfiltration attacks*
@@ -228,6 +228,7 @@
 * [Language Switch](https://addons.mozilla.org/en-US/firefox/addon/languageswitch/) - *Change Language Identifier*
 * [Spoof Timezone](https://add0n.com/spoof-timezone.html) - *Hide Real Timezone*
 * [Cloud Firewall](https://addons.mozilla.org/en-GB/firefox/addon/cloud-firewall/) - *Block Major Cloud Services*
+* [Privacy Badger](https://privacybadger.org/) or [Privacy Possum](https://github.com/cowlicks/privacypossum) - *Blocks invisible trackers*
 * [UglyEmail](https://uglyemail.com/) or [PixelBlock](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem/) - *Block Email Trackers* 
 * [Chameleon](https://github.com/sereneblue/chameleon), [UA Switcher & Manager](https://add0n.com/useragent-switcher.html) or [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) - *User-Agent Spoofer*
 * [Firefox Privacy Settings](https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/) or [SnowHaze](https://github.com/snowhaze/firefox-extension) - *Firefox Privacy Settings Manager*
@@ -304,6 +305,7 @@
 * [no-google](https://github.com/nickspaargaren/no-google) - *Block All Google Services* 
 * [Nixory](http://nixory.sourceforge.net/) - *Antispyware Browser Tool* 
 * [Dark Launch Referer Test](https://www.darklaunch.com/tools/test-referer) - *Check Link Referrer*
+* [Anonymizer](https://www.lolinez.com/ ) - *Anonymize Links*
 * [Link Cleaner](https://linkcleaner.app/) - *Remove Tracking Elements / Extra Garbage from URLs*
 * [whoer](https://whoer.net/) or [f.vision](http://www.f.vision/) - *Check Network / Browser Security*
 * [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [PixelScan](https://pixelscan.net/), [Unique Machine](https://uniquemachine.org/) or [AmIUnique](https://amiunique.org/) / [Timeline](https://amiunique.org/timeline) - *Browser Fingerprinting Test*
@@ -376,9 +378,8 @@
 * **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - *Create Temporary Email Addresses*
 * **[Have I been Pwned?](https://haveibeenpwned.com/)** or [GhostProject](https://ghostproject.fr/) - *Monitor Email Breaches*
 * [EmailPrivacyTester](https://www.emailprivacytester.com/) - *Email Privacy Tests* 
-* [Forward Email](https://forwardemail.net/), [SimpleLogin](https://simplelogin.io/), [Firefox Relay](https://relay.firefox.com/), [spamgourmet](https://www.spamgourmet.com/index.pl), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Mailsac](https://mailsac.com/) or [AnonAddy](https://anonaddy.com/) - *Email Forwarding*   
-* [FakemailBot](https://t.me/FakemailBot), [DropmailBot](https://t.me/DropmailBot) or [ccgen_robot](https://t.me/ccgen_robot) - *Email Forwarding Telegram Bots*
-* [Check-Mail](https://check-mail.org/free-email-validation-api/) or [Validator](https://www.validator.pizza/) - *Check if a email is valid* 
+* [Email Forwarding Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_forwarding) - *Hide Real Email Address'*
+* [Check-Mail](https://check-mail.org/free-email-validation-api/) or [Validator](https://www.validator.pizza/) - *Check Email Validity* 
 * [Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_email_services)
 * [OpenPGP](https://www.openpgp.org/) - *Email Encryption* 
 * [Anon Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_send_anonymous_emails) - *Send Anonymous Emails*
