@@ -17,6 +17,7 @@
 * **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - *Read / Download Programming Books* 
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - *Git Learning Game*
 * [Developer.Mozilla](https://developer.mozilla.org/) - *Developer Resources* 
+* [DZone](https://dzone.com/) - *Developer Tutorials*
 * [Roadmap](https://roadmap.sh/) - *Developer Roadmaps / Guides* 
 * [Python Discord](https://pythondiscord.com/resources/) - *Python Learning Resources*
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - *Python Guide*
@@ -158,10 +159,11 @@
 * [Geekflare Tools](https://gf.dev/toolbox) - *Site Testing Tools*
 * [httpbin](https://httpbin.org/) - *HTTP Request & Response Service*
 * [RemoteMySQL](https://www.remotemysql.com/) - *Remote MySQL Database*
+* [DB4Free](https://db4free.net/) - *MySQL Testing*
 * [Spiderfoot](https://www.spiderfoot.net/) - *Automate OSINT*
 * [Alexa Site Info](https://www.alexa.com/siteinfo) - *Site Traffic Stats / Analysis*
-* [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/),  [Network Tools](https://network-tools.com/) or [WebsiteScoop](https://websitescoop.com/) - *Domain Info / IP Tools*
-* [Namechk](https://namechk.com/), [Username Checker](https://checkuser.org/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Username Availability Check*
+* [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/), [IPV4Info](http://ipv4info.com/),  [Network Tools](https://network-tools.com/) or [WebsiteScoop](https://websitescoop.com/) - *Domain Info / IP Tools*
+* [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/), [Username Checker](https://checkuser.org/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Username Availability Check*
 * [Pyfunceble](https://pyfunceble.github.io/#/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [DomComp](https://www.domcomp.com/) or [Domainr](https://domainr.com/) - *Domain Availability Check* 
 * [UseMe](https://useme.org/) - *Ping Website*
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist*
@@ -170,6 +172,7 @@
 * [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - *Webpage Editor* 
 * [Plunker](https://plnkr.co/) - *Prototype / Test Websites Ideas*
 * [Temper](https://temper.one/) - *Simple HTML Site Creator*
+* [Jamstack Generators](https://jamstack.org/generators/) - *Static Site Generators*
 * [Sketch2Code](https://sketch2code.azurewebsites.net/) - *Convert Hand-Drawn Designs into HTML*
 * [Straw.Page](https://straw.page/) - *Simple Site Creator*
 * [LocalXpose](https://localxpose.io/) - *Reverse Proxy*
@@ -199,6 +202,7 @@
 * [Booster](https://booster.js.org/) - *Website Performance / Speed Optimizer* 
 * [Bypass Cloudflare](https://github.com/jychp/cloudflare-bypass) - *Bypass Coudflare Bot Protection*
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - *Check Sites for Cloudflare*
+* [dnsabr](https://www.dnsabr.com/) - *Free DNS Hosting*
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - *Captcha Systems*
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - *Search & Analytics Engine*
 * [GetButton](https://getbutton.io/) - *Get free 'Message Us' Button for your Site*
@@ -215,7 +219,7 @@
 * [MachineID](http://www.ionworx.com/machineid.html) - *Hardware Identifier*
 * [TrackMyBacklink](https://trackmybacklink.com/) - *Backlink Tracker*
 * [Wappalyzer](https://www.wappalyzer.com/) - *Identify Technologies on Websites* 
-* [Bubble](https://bubble.io/) - *Create Web Apps* 
+* [Bubble](https://bubble.io/) or [Sktch.io](https://sktch.io/) - *Create Web Apps* 
 * [PWABuilder](https://www.pwabuilder.com/) - *Turn Site into Progressive Web App*
 * [LightHouse](https://github.com/GoogleChrome/lighthouse) - *Web App Performance Test*
 * [Form To Chatbot](http://formtochatbot.com/) - *Convert Google Form to Chatbot*
@@ -269,7 +273,7 @@
 * [Uiautomator2](https://github.com/openatx/uiautomator2) - *Automated App Testing*
 * [PM2](https://pm2.keymetrics.io/) - *Process Manager*
 * [React95](https://react95.io/) - *Windows 95 React Components*
-* [Previewed](https://previewed.app/) - *3D App Mockups*
+* [Previewed](https://previewed.app/) or [LS Graphics](https://www.ls.graphics/) - *App Mockups*
 * [Redex](https://fbredex.com/) - *Android Bytecode Optimizer*
 
 ***
@@ -303,6 +307,7 @@
 * [HTML Compressor](https://htmlcompressor.com/compressor/)
 * [HTML Notepad](https://html-notepad.com/) - *HTML Editor*
 * [TryIt HTML](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro), [CodeTester](http://codetester.org/), [HTML-Online](https://html-online.com/editor/), [html.cafe](https://html.cafe/) or [jsTester](https://www.cs.iupui.edu/~ajharris/webprog/jsTester.html) - *Online HTML Editors / Testers* 
+* [HTMLColorCodes](https://htmlcolorcodes.com/) - *HTML Color Codes*
 * [Awesome HTML5](https://github.com/diegocard/awesome-html5) - *HTML5 resources* 
 * [GDevelop](https://gdevelop-app.com/) - *HTML5 Game Creator*
 * [Phaser](https://phaser.io/) - *Mobile HTML5 Game Framework* 
@@ -338,6 +343,7 @@
 * [GitBook](https://www.gitbook.com/) - *Document Collaboration*
 * [Refined GitHub](https://github.com/sindresorhus/refined-github) - *Simplifies GitHub Interface & Adds Features* 
 * [github1s](https://github1s.com/) - *GitHub Code Viewer / GUI: do `gitk` in repo folder* 
+* [Railway](https://railway.app/) - *Code Repository Manager*
 * [git](https://git-scm.com/) - *Version Control System*
 * [/r/coolgithubprojects](https://reddit.com/r/coolgithubprojects) - *Cool Projects on Github* 
 * [/r/coolgitlabprojects](https://reddit.com/r/coolgitlabprojects) - *Cool Projects on Gitlab*
@@ -420,6 +426,7 @@
 * [Bootstrap Editor](https://vim-bootstrap.com/) - *Vim / Neovim Config Generator Bootstrap Editor*
 * [Goyo.vim](https://github.com/junegunn/goyo.vim) - *Distraction-free writing in Vim*
 * [nvim](https://github.com/neoclide/coc.nvim) - *Neovim LSP Autocompletion coc.*
+* [Markdown Preview](https://github.com/iamcco/markdown-preview.nvim) - *NeoVim Markdown Preview*
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - *Vim Code-completion engine*
 * [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - *Visual Studio Code Extensions* 
 * [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - *Visual Studio Code Python Language Extension / [Performant Language](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)*
@@ -434,7 +441,8 @@
 * [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) - *Machine Learning Art Resource Index* 
 * [Sourcegraph](https://sourcegraph.com/) - *Universal Code Search*
 * [searchcode](http://searchcode.com/) or [PublicWWW](http://publicwww.com/) - *Source Code Search*
-* [Sourcecodester](https://www.sourcecodester.com/) - *Free Source Code Projects & Tutorials*
+* [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://www.code-projects.org/) or [ItSourceCode](https://www.itsourcecode.com/) - *Free Source Code Projects & Tutorials*
+* [CodeGrepper](https://www.codegrepper.com/) - *Code Search Extension*
 * [ShareScript](https://sharescript.net/) or [bl.ocks](https://bl.ocks.org/) - *Script / Code Index*
 * [Google Code Archive](https://code.google.com/archive/) - *Google Code Project Archive*
 * [Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering) - *Reverse Engineering Resource Index*
