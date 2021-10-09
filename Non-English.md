@@ -26,6 +26,7 @@
 * [cartoon3rbi](https://www.cartoon3rbi.net/) - *Cartoons / Anime*
 * [Shazam Music](https://t.me/shazam_music_uz) - *Music / Telegram* 
 * [music_banktel](https://t.me/music_banktel) - *Music / Telegram* 
+* [NullNoss](https://www.nullnoss.org/) - *Courses*
 * [WiFi4Games](https://www.wifi4games.com/) - *Games*
 
 ## ▷ Torrenting 
@@ -50,6 +51,7 @@
 * [animebdk](https://animebdk.blogspot.com/) - *Anime*
 * [anime4up](https://www.anime4up.com/) - *Anime*
 * [gateanime](https://www.gateanime.com/) - *Anime*
+* [AnimeTak](https://animetak.net/) - *Anime*
 * [shahiid](https://www.shahiid-anime.net/) - *Anime*
 * [branitube](https://www.branitube.net/) - *Anime*
 * [anime4you](https://www.anime4you.one/) - *Anime*
@@ -187,8 +189,7 @@
 * [rzlib](https://www.rzlib.net/) - *Light-Novels* 
 * [booktxt](https://m.booktxt.net/) - *Light-Novels* 
 * [ishare.iask](https://ishare.iask.sina.com.cn/) - *Documents*  
-* [CText](https://ctext.org/) - *Chinese Historic Text Archive*
-* [ChineseNotes](http://chinesenotes.com/) - *Chinese Historic Text Archive*
+* [CText](https://ctext.org/), [ChineseNotes](http://chinesenotes.com/) or [Kanripo](https://www.kanripo.org/) - *Chinese Historic Text Archive*
 * [guoxue](http://www.guoxue.com/) - *History / Journals*
 * [Moedict](https://www.moedict.tw/) - *Chinese Dictionary*
 
@@ -256,6 +257,7 @@
 * [NextWarez](http://nextwarez.com/) - *Warez Lists*  
 * [mega-p2p](https://www.mega-p2p.net/) - *Warez Lists*  
 * [Seekr](https://w1w.files-seekr.com/) - *Download Search Files*
+* [Tirexo](https://www2.tirexo.work/) - *Video / Audio / Software / Games / Books*
 * [WawaCity](https://www.wawacity.video/), [2](https://www.wawacity.vip/) - *Video / Audio / Books / Magazines / Software / Android / Use AdBlocker*
 * [Tirexo](https://www.tirexo.com/), [2](https://www2.tirexo.lol/) - *Video / Audio / Books / Roms / Software / Android*
 * [Free-Telecharger](https://ww2.free-telecharger.org/) - *Movies / TV*  
@@ -354,6 +356,7 @@
 * [Serien](https://serien.life/) - *Movies / TV*
 * [Film Palast](https://filmpalast.club/) - *Movies / TV*
 * [Kinox](https://www2.kinox.to/) - *Movies / TV*
+* [KinoX](https://www.kinox.sx/) - *Movies / TV*
 * [MovieTown](https://movietown.org/) - *Movies / TV*
 * [KinoZ](https://kinoz.to/) - *Movies / TV / Anime / NSFW* 
 * [S.TO](https://s.to/) - *TV / Anime* 
@@ -510,6 +513,7 @@
 * [Ligaxxi](http://ligaxxi.xyz/) - *Movies / TV* 
 * [Neonime](https://neonime.site/) - *Anime*
 * [Animasu](https://animasu.tv/) - *Anime*
+* [AnimeIndo](https://animeindo.link/) - *Anime*
 
 ***
 
@@ -828,6 +832,7 @@
 
 * [Onde Baixa](https://ondebaixa.com/) - *Movies / TV / Anime* 
 * [SeriesFIlmesTorrent](https://seriesfilmestorrent.net/) - *Movies / TV / Anime* 
+* [TorrentToon](https://torrentoon.org/) - *Movies / TV*
 
 ## ▷ Streaming
 
@@ -952,6 +957,7 @@
 * [DarkLibria](https://darklibria.it/) - *Anime*
 * [RGFootball](http://rgfootball.net/) - *Sports*
 * [Torrent Igruha](https://torrent-igruha.ru/) - *Games*
+* [FreeTP](https://freetp.org/) - *Games / Multiplayer*
 * [туттоп](https://tuttop.com/) - *Games*
 * [Small-Games](https://small-games.info/) - *Games*
 * [hit-muzik](https://hit-muzik.ru/) - *Music / MP3* 
@@ -969,6 +975,7 @@
 * [kinokong](https://kinokong.org/) - *Movies / TV* 
 * [RussianFilmHub](https://russianfilmhub.com/) - *Movies / TV*
 * [viho.live](https://viho.live/) - *Movies / TV / Anime* 
+* [EX-FS](https://ex-fs.net/ ) - *Movies / TV / Anime*
 * [hdzo](https://hdzo.tv/) - *Movies / TV*
 * [seasonvar](http://seasonvar.ru/) - *TV*
 * [Kino-Dom](http://kino-dom.org/) - *TV*
@@ -1033,6 +1040,7 @@
 * [divxonline](https://www.divxonline.tv/) - *Movies / TV* 
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - *Movies*
 * [SomosMovies](https://somosmovies.com/) - *Movies* 
+* [Mega MKV](https://mega-mkv.com/) - *Movies*
 * [MiCineHD ](https://www.micinehd.com/) - *Movies / TV* 
 * [DescargasDD](https://descargasdd.net/) - *Movies / TV* 
 * [Movies, Series ... in Spanish](https://redd.it/ns0y6c) - *Movies / TV*
@@ -1041,6 +1049,7 @@
 * [ddl.ice](https://ddl.ice-blue.workers.dev/0:/) - *Anime*
 * [DownloadsMega](https://t.me/DownloadsMega) - *Video / Audio / Telegram* 
 * [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
+* [RedVirtual](https://www.redvirtual.bid/) - *Courses*
 * [Tododescargas](https://tododescargas.net/) - *Software* 
 * [VictorRaulRR](https://victorraulrr.info/) - *Modded APKs*
 
@@ -1050,6 +1059,7 @@
 * [dontorrent](https://dontorrent.net/) - *Video / Audio / Games* 
 * [DivxTotal](https://www.divxtotal.one/) - *Movies / TV / Software* 
 * [Edvok](https://edvok.com/) - *Video / Games*
+* [EliteTorrent](https://elitetorrent.com/), [2](https://www.elitetorrent.do/) - *Movies / TV / Anime*
 * [EliteTorrent](https://www.elitetorrent.com/) - *Movies / TV*  
 * [zonatorrent](https://zonatorrent.tv/) - *Movies / TV* 
 * [divxonline](https://www.divxonline.tv/) - *Movies / TV* 
@@ -1081,6 +1091,7 @@
 * [Vix](https://www.vix.com/tv/) - *TV*
 * [Dilo](https://www.dilo.nu/) - *TV / Anime* 
 * [JKAnime](https://jkanime.net/) - *Anime* 
+* [AnimeFlash](https://animeflash.xyz/) - *Anime*
 * [AnimeFénix](https://animefenix.com/) - *Anime*
 * [TioAnime](https://tioanime.com/) - *Anime*
 * [Animeflv](https://www3.animeflv.net/) - *Anime*
@@ -1107,6 +1118,7 @@
 * [bajaebooksgratis](https://bajaebooksgratis.com/) - *Books* 
 * [pirateca](https://pirateca.com/) - *Books* 
 * [lelibros](https://lelibros.online/) - *Books* 
+* [Lectulandia](https://www.lectulandia.rocks/) - *Books*
 * [ePub Gratis](https://wvw.epubgratis.org/) - *Books* 
 * [cvillavicencio](https://www.cvillavicencio.com/archivos/?dir=ebooks) - *Books*
 * [albalearning](https://albalearning.com/) - *Audiobooks* 
@@ -1252,6 +1264,7 @@
 * [Segoideas](https://segoideas.com/) - *Taiwanese / Streaming / TV*
 * [lupiteam](https://lupiteam.net/) - *Corsican / Manga*
 * [RÚV](https://www.ruv.is/ruv) - *Icelandic / Live TV*
+* [Partis](https://www.partis.si/) - *Slovenian / Torrent Aggregator*
 * [KannadaCine](https://www.kannadacine.com/) - *Kannada / Streaming / Movies*
 * [Filmarkivet](https://www.filmarkivet.se/) - *Swedish / Short Films*
 * [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - *Malaysian / Audio / Telegram*
