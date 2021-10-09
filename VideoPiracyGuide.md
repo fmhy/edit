@@ -66,6 +66,7 @@
 * [FlixGo](https://flixgo.me/) - *Movies / TV*
 * [1movies](https://ww2.1movies.is/), [CouchTuner](https://ww1.couchtuner.space/), [Real-Primewire](https://real-primewire.club/) or [New-Primewire](https://ww1.new-primewire.com/) - *Movies / TV / Anime*
 * [Vmovee HD](https://vmoveehd.com/) - *Movies / TV*
+* [IAmDenzen](https://www.iamdenzen.com/) - *Movies / TV / Anime*
 * [Flixtor](https://flixtor.to) or [Filme21](https://filme21.com/) - *Movies / TV / Movies Older Than 6 Months For Premium Only*
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrives_.2F_open_directories) - *Movies / TV / Anime* 
 * [Tubi](https://tubitv.com) - *Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)*
@@ -82,7 +83,7 @@
 * [iBOX](http://iboxbd.online/) - *Movies / TV*
 * [Playary](https://www.playary.com/) - *Movies / TV*
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - *Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / [Windscribes](https://windscribe.com/) free version works*
-* [Free Movie List](https://bin.disroot.org/?4fe92a56318e42f7#3q6eMDxpDteAsgmJsyqGDpvmUUy19CcmUZxXnEasGSzU) - *Big list of Free Movies*
+* [Free Movie List](https://bin.disroot.org/?86b6f478c0e66f51#8YEwTURwzUB3c47uK1J74FtTnWKYdSn8tVV2Qo871XKJ) - *Big list of Free Movies*
 * [StreamDor](https://www.streamdor.com/), [FreeMovies](https://freemovies.ltd/) or [MoviesFoundOnline](https://moviesfoundonline.com/) - *Movies / YouTube*
 * [YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - *Youtube streaming subreddits*
 * [YouTube Streaming Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_streaming_channels) - *Channels that host movies or shows*
@@ -400,6 +401,8 @@
 * [BuffStreams](https://buffstreams.tv/) - *Sports*
 * [SportHD](https://sporthd.live/) - *Sports* 
 * [cricfree.tv](http://crickfree.be/) - *Sports*
+* [SportsOnline](https://sportsonline.to/) - *Sports*
+* [s365.Live](http://www.s365.live/) - *Sports*
 * [MARKKY](https://markkystreams.com/) - *Sports*
 * [TheHomeSports](https://thehomesport.com/) - *Sports* 
 * [CricHD](https://fc2.crichd.com/new-home7) - *Sports* 
@@ -513,6 +516,7 @@
 * [Go-Movie](http://go-movie.ru/) - *Movies*
 * [ULMovies](https://ulmovies.xyz/) - *Movies / TV* 
 * [SBS](https://3dsbs4u.com/) - *Movies / TV*
+* [NetNaija](https://netnaija.xyz/) - *Movies*
 * [MKVHouse](https://mkvhouse.co/) - *Movies / TV*
 * [TwitchDL](https://dl2.twitchdl.us/) - *Movies / TV / Anime*
 * [O2TVSeriesz](https://o2tvseriesz.com/) - *Movies / TV*
@@ -546,7 +550,9 @@
 * [r/MegaLinks Backup](https://mega.nz/folder/fv4lCaZQ#6tS6HpQiWAjx6Ibr1N_D8w), [2](https://www71.zippyshare.com/v/behLhk3F/file.html)
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_indexes) - *Movies / TV*
 * [Gophie](https://github.com/Go-phie/gophie) - *Streaming Site Download CLI*
+* [BaoXinh](https://tool.baoxinh.com/) - *FEmbed / Mixdrop Downloader*
 * [123MoviesRipper](https://github.com/Xonshiz/123MoviesRIpper) - *123Movies Downloader*
+* [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - *Add Download Site Results to IMDb*
 
 ***
 
@@ -568,6 +574,7 @@
 * [103.222.20.150](http://103.222.20.150/ftpdata/Movies/) - *Movies / TV*
 * [87.89.227.77](http://87.89.227.77/) - *Movies / TV*
 * [124.29.199.194](http://124.29.199.194/data2/) - *Movies*
+* [185.165.242.204](http://185.165.242.204/Media/Movies/) - *Movies*
 * [162.12.215.254](http://162.12.215.254/Data/Movies/) - *Movies*
 * [124.29.199.194](http://124.29.199.194/) - *Movies*
 * [s27.BitDL.ir](http://s27.bitdl.ir/) - *Movies / TV*
@@ -613,6 +620,7 @@
 * [anime7.download](http://anime7.download/) - *Sub*
 * [144.217.177.36](http://144.217.177.36:4742/Anime/) - *Dub*
 * [CopyCat Encodes](https://mega.nz/#folder/jpMFlQLB#QZ0W2OIyko-n2BTouWjHOQ) - *Sub* 
+* [Anime Anime (New & Requests)](https://drive.google.com/drive/folders/1XP7q-vSk0ImaRfLRkJ6-VkL7mLqlIwrw) - *Sub / Dub*
 * [Anime Time Drive](https://atdrive.animetimeserver.workers.dev/0:/) - *Sub / Dub* 
 * [nibl](https://nibl.co.uk/) - *Sub / Dub / Anime Downloads / XDCC*
 * [Golumpa](https://xdcc.golumpa.moe/) - *Dub /Anime / IRC Links*
@@ -676,6 +684,9 @@
 * [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all), [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout), [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod), [IMDb Torrent Search](https://github.com/Crecket/imdb-torrent-search) or [TMDB-Torrent-Movie-Database](https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database) - *Torrent Site Results on IMDb*
 * [IMDB to RARBG](https://greasyfork.org/en/scripts/376793-imdb-to-rarbg-torrent-search) - *RARBG Torrent / Magnet Links on IMDB* 
 * [srrextra](https://github.com/srrDB/srrextra) - *Scene Release Tracker on IMDb*
+
+**Torrent / Download Site Results to IMDb Pages** *IMDb Scout Mod*
+https://greasyfork.org/en/scripts/407284-imdb-scout-mod
 
 ***
 
