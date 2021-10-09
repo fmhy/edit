@@ -49,6 +49,7 @@
 * [The More You Know](https://marckoxx.github.io/) - *Site / Tool Index*
 * [WebOrama](http://www.petergh.f2s.com/) - *Site / Tool Index*
 * [GoodSites](https://www.goodsites.tech/) -  *Site / Tool Index* 
+* [Protcol7](https://protocol7.co/wired/) - *Site / Tool Index*
 * [alt3rnative](https://github.com/machiav3lli/alt3rnative) - *Site / Tool Index*
 * [Peelopaalu](https://peelopaalu.neocities.org/) - *Site / Tool Index*
 * [RefDesk](https://www.refdesk.com/facts.html) - *Site / Tool Index*
@@ -289,7 +290,7 @@
 * [Toonami Remastered](https://www.toonamiremastered.com/) - *Remastered Toonami Content* 
 * [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - *How well do you recognize hit songs?*
 * [GeekPrank](https://geekprank.com/) - *Windows Pranks*
-* [Update Faker](https://updatefaker.com/0 - *Fake System Update Prank*
+* [Update Faker](https://updatefaker.com/0) - *Fake System Update Prank*
 * [Hair on Screen](https://chrome.google.com/webstore/detail/hair-on-screen/egkikapjpndmjflbjjoondbihalgdjco) - *Fake Hair on Screen Prank*
 * [Speedtest Faker](https://jkctech.nl/projects/speedtest/) - *Fake Speedtest Results*
 * [Hacktyper](https://hackertyper.net/) or [Geektyper](https://geektyper.com/) - *Fake Hacking Screen* 
@@ -463,6 +464,7 @@
 * [IdiotProofWebsite](http://idiotproofwebsite.com/)
 * [MotherFuckingWebsite](http://motherfuckingwebsite.com/), [BetterMotherFuckingWebsite](http://bettermotherfuckingwebsite.com/), [EvenBetterMotherFuckingWebsite](https://evenbettermotherfucking.website/) or [TheBestMotherFuckingWebsite](https://thebestmotherfuckingwebsite.co/)
 * [isitnight](https://www.isitnight.com/) - *Determine if it is night* 
+* [ThisSiteSaysOtherwise](https://thissaysotherwise.org/) - *Otherwise.*
 * [Watching Grass Grow](https://www.watching-grass-grow.com/) - *Watch Grass Grow.*
 * [aaaaa](https://github.com/dkter/aaaaa) - *Minimalist Keyboard*
 * [aaaaaa.....](http://aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/) - *Make URL's longer... ?*
@@ -536,6 +538,7 @@
 * [Charity Miles](https://charitymiles.org/) - *Donate to Charity While Running / Biking*
 * [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - *Zombie Running Adventure Game*
 * [INCIDecoder](https://incidecoder.com/) - *Skincare Ingredient Lists*
+* [Dehydration Color Chart](https://i.imgur.com/PpDgo5j.png) - *Urine Color Dehydration Chart*
 * [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - *Remedies for Sores on Tongue*
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - *Interactive Self Care Guide*
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - *Mindfulness / Stress Reduction Tips*
@@ -658,6 +661,7 @@
 * [Codeface](https://github.com/chrissimpkins/codeface) - *Fonts for Coding* 
 * [FiraCode](https://github.com/tonsky/FiraCode) - *Monospace Fonts* 
 * [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](http://arcade.photonstorm.com/) - *Arcade Font Engine*
+* [Glitch](https://glitchtextgenerator.com/) - *Glitch Text Generator*
 * [MeeshDesigns](http://www.meeshdesigns.com/Western%20Fonts/) - *Font Index* 
 * [MacType](https://github.com/snowie2000/mactype/releases) - *Use Mac fonts on Windows*
 * [Zalgo](http://eeemo.net/) or [lingojam](https://lingojam.com/WeirdTextGenerator) - *Weird Font Style Generators*
@@ -704,7 +708,7 @@
 * [Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups) or [Acid Tabs](https://github.com/jdhayford/acid-tabs-extension) - *Group Tabs* 
 * [Tab for a Cause](https://tab.gladly.io/) - *New Tabs = Charity Donation*
 * [Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button) - *Quickly Close All Tabs*
-* [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/), [DeepL Translator](https://chrislo.ca/deepl/) or [ImTranslator](https://imtranslator.net/) - *Translator* 
+* [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/) [S3Translator](http://www.s3blog.org/s3translator.html), [DeepL Translator](https://chrislo.ca/deepl/) or [ImTranslator](https://imtranslator.net/) - *Translator* 
 * [Dictionaries](https://github.com/pnlpal/dictionaries), [phlinx](https://phlinx.com/) or [Definer](https://lumetrium.com/definer/) - *Popup Dictionary* 
 * [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - *Magnify Webpages*
 * [Zoom WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_zoom_we) or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - *Improves Zoom Functionality*
@@ -755,7 +759,7 @@
 * [NSFW-Filter](https://github.com/nsfw-filter/nsfw-filter) - *Block NSFW Images*
 * [Block Image Video](https://mybrowseraddon.com/block-image-video.html) - *Block All Images & Videos*
 * [Offline Mode](https://mybrowseraddon.com/offline-mode.html) - *Disconnect Browser from the Internet*
-* [Wayback Machine](https://github.com/internetarchive/wayback-machine-webextension), [Web Archives](https://github.com/dessant/web-archives) or [Archiveror](https://github.com/rahiel/archiveror) - *View Archived / Cached Webpages*
+* [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - *Archive, Scrape & Crawl Sites* 
 * [WaybackEverywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox) - *Auto Load Archived Versions of Dead Pages*
 * [Wikiwand](https://www.wikiwand.com/) - *Wikipedia web / Mobile Reader* 
 * [Sticky Notes](https://blog.kumabook.tokyo/stickynotes/index.html) - *Browser Sticky Notes* 
@@ -763,7 +767,7 @@
 * [Page Edit](https://mybrowseraddon.com/page-edit.html) - *Turn Webpages into Editable Documents*
 * [Save Page WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_save_page_we), [SingleFile](https://github.com/gildas-lormeau/SingleFile) or [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - *Save Webpages as HTML* 
 * [Listly](https://www.listly.io/) - *Webpage to Spreadsheet Converter*
-* [Download all Images](https://add0n.com/save-images.html) - *Download Images From a Page*
+* [Download all Images](https://add0n.com/save-images.html) or [Cute Save Button](https://github.com/Dezaimasu/cute-button) - *Image Downloaders*
 * [Favicon Detector](https://github.com/BlackGlory/favicon-detector) - *Detect Website Favicons*
 * [behind!](https://github.com/kubuzetto/behind) - *View Background Images*  
 * [UI.Vision RPA](https://ui.vision/) - *Workflow Automation*  
@@ -780,8 +784,7 @@
 * [Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search) - *Reverse Image Search Extensions / Sites*
 * [NooBox](https://ainoob.com/en/project/noobox) - *Reverse Image Search, Extract Images, Screenshot & Search* 
 * [GoFullPage](https://gofullpage.com/) - *Full Page Screenshots*
-* [Nimbus Capture](https://nimbusweb.me/screenshot.php) - *Screenshot / Screen Recorder*
-* [Screen Recorder](https://mybrowseraddon.com/screen-recorder.html) - *Screen Recorder*
+* [Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders) - *Record your Screen*
 * [Booru Slideshow](https://github.com/Chirmaya/BooruSlideshow) - *Make Slideshows Easier to Navigate*
 * [Textmarker](https://github.com/ufb/Textmarker) - *Text Highlighter* 
 * [Bulk URL Opener](https://bulkurlopener.com/) - *Open Multiple URL's in One Click* 
@@ -849,7 +852,7 @@
 * [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - *Add Extensions to Ungoogled Chromium* 
 * [Chrome Extension Downloader](https://chrome-extension-downloader.com/) - *Chrome Extension Download Tool*
 * [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - *Quickly Enable / Disable Chrome Extensions*
-* [CRX Viewer](https://github.com/Rob--W/crxviewer) or - *View Extension Source Code* 
+* [CRX Viewer](https://github.com/Rob--W/crxviewer) - *View Extension Source Code* 
 * [Tabji](https://tabji.link/) - *Tab Suspender*
 * [Dark Mode](https://chrome.google.com/webstore/detail/dark-mode/declgfomkjdohhjbcfemjklfebflhefl) - *Dark Mode*
 * [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - *Picture-in-Picture Mode*
@@ -860,6 +863,7 @@
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
 * [Beanote](https://chrome.google.com/webstore/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) - *Web Page Note Taking*
+* [Toby](https://www.gettoby.com/) - *Tab Manager*
 * [Dualless](https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd) or [Tab Resize](https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc) - *Split Browser Window* 
 * [chromewm](https://gitlab.com/EduCampi/chromewm) - *Tile Windows / Emulate Workspaces*
 * [Popup Tab Switcher](https://chrome.google.com/webstore/detail/popup-tab-switcher/cehdjppppegalmaffcdffkkpmoflfhkc) - *Improved Tab Switching*
