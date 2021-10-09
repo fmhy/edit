@@ -106,6 +106,7 @@
 * [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win/)
+* [FreeTP](https://freetp.org/) - *Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Ali213](https://ali213.net/) - *May Require VPN / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 
 ***
