@@ -263,6 +263,7 @@
 * [SnapCraft](https://snapcraft.io/store) 
 * [WSL-Programs](https://github.com/ethanhs/WSL-Programs) - *Windows Subsystem for Linux Programs*
 * [KDE's Applications](https://apps.kde.org/education) - *Linux Apps* 
+* [apps.gnome](https://apps.gnome.org/en-GB/) - *GNOME Apps*
 
 ***
 
