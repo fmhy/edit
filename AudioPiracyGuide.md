@@ -224,6 +224,8 @@
 * [TheAlbumPlug](https://thealbumplug.com/) - *MP3*
 * [NetNaija](https://www.thenetnaija.com/) - *MP3* 
 * [DeadPulpit](https://www.deadpulpit.com/) - *MP3*
+* [24NaiJamMuzic](https://www10.24naijamuzic.com/) - *MP3*
+* [MuzBeat](https://muzbeat.org/) - *MP3*
 * [musify](https://musify.club/) - *MP3*
 * [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - *MP3*
 * [Music for the masses !](https://redd.it/nt7fea) - *MP3*
@@ -274,6 +276,8 @@
 * [Gabber](https://gabber.od.ua/) - *Electronic / MP3*
 * [EDM Lake](https://edmlake.com/) - *Electronic / MP3*
 * [EDMBoost](https://edmboost.org/) - *Electronic / MP3*
+* [EDMWaves](https://edmwaves.org/) - *Electronic / MP3*
+* [MusicFans](https://musicfans.space/) - *Electronic / MP3*
 * [DQQD](https://dqqd.org/) - *Electronic / MP3 / FLAC*
 * [1Trance](https://1trance.org/) - *Trance / MP3*
 * [1Techno](https://1techno.org/) - *Techno / MP3*
@@ -372,7 +376,6 @@
 * [Sanet.st](https://sanet.st/community/t/requests) 
 * [xprm](https://xprm.net/)
 * [pirates-forum](https://pirates-forum.org/Forum-Requests) 
-=
 
 ***
 
