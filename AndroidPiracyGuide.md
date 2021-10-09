@@ -103,6 +103,7 @@
 * [RemixOS](https://www.fosshub.com/Remix-OS.html) - *Android Desktop OS*
 * [PhoenixOS](http://www.phoenixos.com/en/) - *Android Desktop OS*
 * [ApkOnline](https://www.apkonline.net/) - *Online Android Emulator*
+* [BlueStacks X](https://x.bluestacks.com/) - *Cloud-Based Android Gaming*
 
 ***
 
@@ -175,6 +176,7 @@
 * [FluffyChat](https://fluffychat.im/en/) - *Matrix Client*
 * [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Husky](https://git.mentality.rip/FWGS/Husky) or [Tusky](https://tusky.app/) - *Mastodon Client* 
 * [Blabber.im](https://f-droid.org/packages/de.pixart.messenger) - *XMPP / Jabber Messenger*
+* [TextFree](https://www.textfree.us/) - *Free Texting App*
 * [OpenInWA](https://github.com/SubhamTyagi/openinwa) - *Number Free WhatsApp Chat*
 * [Watomatic](https://f-droid.org/packages/com.parishod.watomatic) - *WhatsApp & FB Messenger Auto Reply*
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - *Article / Link Viewer*
@@ -291,6 +293,8 @@ App Manager
 * [AndroPalace](https://www.andropalace.org/) - *Modded* 
 * [APK Home](https://apkhome.net/) - *Modded* 
 * [DlAndroid](https://dlandroid.com/) - *Modded* 
+* [TechBigs](https://techbigs.com/) - *Modded*
+* [AndroidYolo](https://androidyolo.co/) - *Modded*
 * [APKMody](https://apkmody.io/) - *Modded* 
 * [APKDone](https://apkdone.com/) - *Modded* 
 * [APK Folks](https://apkfolks.com/) - *Modded*
@@ -431,7 +435,7 @@ App Manager
 * **[Stremio](https://www.stremio.com/)** - *Torrent Streaming / [Addons](https://redd.it/ahd6gk) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * **[CloudStream](https://github.com/LagradOst/CloudStream-3)** - *Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM)*
 * **[CucoTV](https://cucotv.github.io/)** - *Movies / TV* 
-* **[CinemaHD](https://cinemaapk.com/)** - *Movies / TV / Anime / Chromecast*
+* **[CinemaHD](https://github.com/TeruSetephen/cinemaapk)** - *Movies / TV / Anime / Chromecast*
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - *Ad Free YouTube on Android*
 * **[Movies4Discord TV](https://movies4discord.xyz/download)** - *Movies / TV / Android TV App*
 * [Cunrchyroll Mod](https://forum.mobilism.org/search.php?keywords=crunchyroll&amp;sr=topics&amp;sf=titleonly) - *Anime / Premium Crunchyroll*
@@ -573,7 +577,7 @@ RSS Player*
 * [Tweebot 6](https://apps.apple.com/us/app/tweetbot-6-for-twitter/id1527500834) - *Ad-Free Twitter*
 * [Should I Answer?](http://www.shouldianswer.net/) or [Hiya](https://www.hiya.com/) - *Block Spam Calls*
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - *Opt Out of Telemarketing Calls* 
-* [Slide](https://apps.apple.com/us/app/slide-for-reddit/id1260626828) or [Apollo](https://apps.apple.com/us/app/apollo-for-reddit/id979274575) - *Ad Free Reddit Client* 
+* [Slide](https://apps.apple.com/us/app/slide-for-reddit/id1260626828), [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) or [Apollo](https://apps.apple.com/us/app/apollo-for-reddit/id979274575) - *Ad Free Reddit Client* 
 
 ***
 
