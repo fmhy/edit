@@ -112,7 +112,7 @@
 * [Courses](https://pastebin.com/jQB1shJg), [2](https://pastebin.com/Z7L3Ypzd) - *Courses / Drives*
 * [online-courses](https://online-courses.club/) - *Courses*
 * [Course Upload](https://courseupload.com/) - *Courses* 
-* [Christmas Share](https://mega.nz/folder/dVxiXITI#lM16YzFg6xlnDOGYBOWUhA) - *Courses*
+* [Christmas Share](https://mega.nz/folder/dVxiXITI#lM16YzFg6xlnDOGYBOWUhA), [2](https://mega.nz/folder/dVxiXITI#lM16YzFg6xlnDOGYBOWUhA/folder/pAQWDCaZ), [3](https://mega.nz/folder/mqxiBRTJ#0bnSa35nknxUqOCr-xdGYg) - *Courses*
 * [FTUForums](https://www.ftuforums.com/) - *Courses / [Discord](https://discord.gg/xAsMX52)*
 * [Coursesghar](https://coursesghar.com/) - *Courses* 
 * [FreeEducationWeb](https://freeeducationweb.com/) - *Courses* 
@@ -122,6 +122,7 @@
 * [torrenttempdrive](https://torrenttempdrive.hashhackers.com/1:/) - *Courses*
 * [FreeStudyWeb](https://freestudyweb.com/) - *Courses* 
 * [CryptoTips](https://www.cryptotips.us/) - *Courses* 
+* [nocourses](https://nocourses.com/) - *Courses* 
 * [5G GYAN](https://www.5ggyan.com/) - *Courses* 
 * [HackingWorld](https://in.hackingworld.best/) - *Courses*
 * [AfraTafreeh](https://afratafreeh.com/) - *Courses*
@@ -336,6 +337,7 @@
 
 * **[Awesome-Lang](https://github.com/oyd11/awesome-lang)** - *Language Learning Resource Index* 
 * **[Languages & Linguistics](https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - *Language Learning Books*
+* [Speechling](https://speechling.com/tools) - *Language Learning Tools*
 * [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - *Language Learning Network*
 * [E-books_432](https://archive.org/details/E-books_432) - *Vocabulary & Pronunciation Books*
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - *Multi Language Dictionary Index*
@@ -345,7 +347,7 @@
 * [Yojik](https://fsi-languages.yojik.eu/index.html) or [ESOL](https://www.esolcourses.com/) - *Language Learning Courses*
 * [Language Transfer](https://www.languagetransfer.org/) - *Language Learning Courses / Audio*
 * [refold.la](https://refold.la/roadmap) - *Language Learning Guide* 
-* [Hey! Lingo](https://www.heylingo.com/) - *Language Learning Flashcards*
+* [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - *Language Learning Flashcards*
 * [Learn English Online](http://www.learn-english-online.org/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - *Learn English*
 * [Free4Talk](https://www.free4talk.com/) or [Speaking24](http://www.speaking24.com/) - *English Practice Community*
 * [MyLanguages](http://mylanguages.org/) or [Langeek](https://langeek.co/) - *Grammar / Vocabulary Language Learning*
@@ -373,12 +375,17 @@
 * [TalkToMeInKorean](https://talktomeinkorean.com/) - *Korean Learning Courses*
 * [Sogang](http://korean.sogang.ac.kr/) or [90 Day Korean](https://www.90daykorean.com/) - *Korean Learning Lessons*
 * [Mirinae](https://mirinae.io/) - *Korean Word Breakdown*
+* [UltimateKorean](https://ultimatekorean.com/) - *Korean Grammar / Vocab Lessons*
 * [KoreanKeyboardLearner](https://monikasun88.github.io/KoreanKeyboardLearner/) - *Korean Typing Practice*
 * [Korean Trainer](http://koreantrainer.mloesch.it/) - *Korean Number & Date Practice*
 * [Hangul](https://hangul.cool/) - *Korean Typing Practice*
 * [Bangtan Korean](https://bangtankorean.com/) - *Learn Korean via BTS Songs*
 * [Train Chinese](https://www.trainchinese.com/), [ChineseSkill](https://www.chineseskill.com/) or [HelloChinese](http://hellochinese.cc/) - *Chinese Learning App*
-* [Cantonese sheik](http://www.cantonese.sheik.co.uk/) - *Chinese Learning Resources*
+* [Cantonese sheik](http://www.cantonese.sheik.co.uk/) or [SinoSplice](https://www.sinosplice.com/) - *Chinese Learning Resources*
+* [DigMandarin](https://www.digmandarin.com/) - *Chinese Learning Tools*
+* [KongLongMandarin](https://www.konglongmandarin.com/) - *Chinese Lessons*
+* [LineChinese](https://www.linechinese.com/) - *Chinese Learning Tips & Culture Info*
+* [HackingChinese](https://www.hackingchinese.com/archive-2/) - *Chinese Learning Articles*
 * [Cantonese.ca](https://cantonese.ca/) - *Chinese Vocabulary*
 * [MDBG](https://www.mdbg.net/) - *Chinese Dictionary*
 * [Jukuu](http://www.jukuu.com/) - *Chinese to English Word Comparisons*
@@ -470,6 +477,7 @@
 * [Cheatography](https://cheatography.com/) - *Educational Cheat Sheets* 
 * [Toppr](https://www.toppr.com/) - *Test Practice & Homework Help*
 * [Oak National Academy](https://teachers.thenational.academy/) - *Lessons / Quizzes*
+* [Runestone Interactive](https://runestone.academy/) - *Interactive Lessons*
 * [Quizlet](https://quizlet.com/) - *Quizzes / Study Material*
 * [guIHelp](https://discord.gg/rgF9jY8CpH) - *Bartleby, Quizlet, Coursehero & Scribd Bot*
 * [Wikiversity](https://www.wikiversity.org/) - *Learning Resources, Guides, Quizzes, Tools & More*
@@ -498,6 +506,7 @@
 * [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - *The Trolley Problem*
 * [Untools](https://untools.co/) - *Better Thinking Tools & Frameworks*
 * [GCFGlobal](https://edu.gcfglobal.org/) - *Tech Tutorials*
+* [CS 182 Deep learning](https://cs182sp21.github.io/) - *Deep Neural Network Lesson Slides*
 * [OpenSyllabus](https://opensyllabus.org/) or [LanguageDrops](https://languagedrops.com/) - *Syllabus Search / Info*
 * [Edpuzz Ninja](https://edpuzz.ninja/) - *Educational Puzzle Solving Tool* 
 * [PowerInBooks](https://powerinbooks.xyz/temp/) or [ch36650lut10n5](https://www.ch36650lut10n5.com/) - *Textbook Solutions* 
