@@ -220,7 +220,7 @@
 * [3DO Roms](https://archive.org/details/3DO_2017_Reference_Set_Redump_Validated_ROMs), [2](https://archive.org/details/Panasonic-3DO-Redump.org-2019-05-14) - *Roms / 3DO*
 * [datcheck](https://github.com/pkos/datcheck) - *Compare No-Intro / Redump dat files to rom or disc collection* 
 * [HiddenPalace](https://hiddenpalace.org/) - *Game Development Media Archive*
-* [Xbox Collection](https://archive.org/details/xboxcds?sort=-downloads) - *CD Roms / Xbox / DDL / Torrents*
+* [Xbox Collection](https://archive.org/details/xboxcds?sort=-downloads) or [Xbox_Eng_Romset](https://archive.org/details/xbox_eng_romset) - *CD Roms / Xbox / DDL / Torrents*
 
 ***
 
@@ -514,6 +514,7 @@
 * [WordHub](https://wordhub.com/) - *Scrambled Word Game*
 * [Divergent Association Task](https://www.datcreativity.com/task) - *Unrelated Word Game*
 * [eWordChallenge](https://www.ewordchallenge.net/) - *Multiplayer Boggle*
+* [Click Click Click](https://clickclickclick.click/) - *Browser Based Clicking Puzzle*
 
 ***
 
