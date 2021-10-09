@@ -1725,7 +1725,7 @@ General Reading Sites*
 * [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - *Cheat Engine Table for Singple Player Games*
 * [Otis_Inf Camera Mods](https://redd.it/hvttbd) - *Game Camera Mods*
 * [injectSMAA](http://mrhaandi.blogspot.com/p/injectsmaa.html) - *SMAA Injection Tool*
-* [OpenVR FSR](https://github.com/fholger/opscrnvr_fsr) - *Steam VR FidelityFX Super Resolution Mod*
+* [OpenVR FSR](https://github.com/fholger/openvr_fsr) - *Steam VR FidelityFX Super Resolution Mod*
 * [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - *GTA5 FidelityFX Super Resolution Mod*
 * [Essential Menu](https://github.com/anonik9900/Essential-Menu) - *GTA5 Mod Menu*
 * [re3](https://github.com/td512/re3) - *GTA III & Vice City Mods*
