@@ -97,7 +97,7 @@
 * [Genymotion](https://www.genymotion.com/fun-zone/) - *[Screenshot](https://i.imgur.com/rIoiob7.jpg)* 
 * [Leapdroid](https://leapdroid.en.softonic.com/) - *[Screenshot](https://i.imgur.com/4RKnNqJ.png)* 
 * [PrimeOS](https://primeos.in/) - *Android Desktop OS*
-* [Android x86](https://www.android-x86.org/) - *Android Desktop OS*
+* [Android x86](https://www.android-x86.org/) - *Android Desktop OS / [Installer](https://supreme-gamers.com/r/advanced-android-x86-installer-for-windows.61/)*
 * [PhoenixOS Darkmatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - *Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)*
 * [BlissOS](https://blissos.org/) - *Android Desktop OS*
 * [RemixOS](https://www.fosshub.com/Remix-OS.html) - *Android Desktop OS*
@@ -130,6 +130,7 @@
 * [Android Tool](https://github.com/fast-geek/Android-Tool) - *ABD / Fastboot Command Program*
 * [Amazing Temp Root](https://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - *MediaTek Temp Root*
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) - *Debloat non-rooted Androids*
+* [FDE.AI](https://github.com/feravolt/FDE.AI-docs) - *Android Performance Enhancements*
 * [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - *Android Debloating Guide*
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - *Android Cleanup Tool*
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - *Ringtones Directory*
