@@ -115,7 +115,8 @@
 * [Laws of UX](https://lawsofux.com/) - *Maxims / Principles for UI Designers* 
 * [UI Coach](https://uicoach.io/) - *UI Design Challenge Generator*
 * [Responsively](https://responsively.app/) - *Responsive Dev Design Tool*
-* [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - *ReadMe Template* 
+* [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - *README Template* 
+* [codex-readme](https://github.com/tom-doerr/codex-readme) - *Generate README with AI*
 * [ChooseALicense](https://choosealicense.com/) - *List of Open Source License's & Help Choosing Them* 
 * [Console](https://console.substack.com/) - *Subscribe to a List of Open Source Projects*
 * [RapidAPI](https://rapidapi.com/) - *API Platform*
