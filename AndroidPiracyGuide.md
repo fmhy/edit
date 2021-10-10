@@ -123,6 +123,7 @@
 * [DXOMARK](https://www.dxomark.com/) - *Smartphone Quality Testing*
 * [PhoneSized](https://phonesized.com/) - *Phone Size Comparisons*
 * [Don’t kill my app!](https://dontkillmyapp.com/) - *Manufacturer Battery Life vs. App Functionality*
+* [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) - *Battery Health App*
 * [eBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) - *eBook / Audiobook Readers* 
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - *Note Taking Apps*
 * [Magisk](https://github.com/topjohnwu/Magisk/releases) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - *Android Root Tool / [Mods](https://t.me/magiskmod_update)*
@@ -132,6 +133,8 @@
 * [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - *Android Debloating Guide*
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - *Android Cleanup Tool*
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - *Ringtones Directory*
+* [Chroma Galaxy](https://play.google.com/store/apps/details?id=com.at2_software.terracollageapp) - *Live Wallpapers*
+* [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) - *App Themed Icons*
 * [VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps) - *File / URL Virus Scanner* 
 * [InstantBridge](https://instabridge.com/) - *Public WiFi Sharing Community*
 * [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app ) - *Libgen Mobile App* 
@@ -143,11 +146,13 @@
 * [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage) - *Disk Usage Analyzer*
 * [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - *Text Font Generator*
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) or [SimplyTranslate Flutter](https://github.com/ManeraKai/simplytranslate-flutter-client) - *Translator*
+* [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) - *Custom Notifications*
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - *Dictionary App*
 * [AutomaTag](http://automatag.com/) - *Meta Data Organizer*
 * [GameGuardian](https://gameguardian.net/) - *Game Hack / Alteration Tool*
 * [NeonRom3r](https://github.com/Gr3gorywolf/NeonRom3r) - *Download Roms* 
 * [VMOS](https://www.vmos.com/) - *Android Virtual Machine*
+* [Media Bar](https://play.google.com/store/apps/details?id=apps.ijp.mediabar) - *Media Control*
 * [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - *Android Display Control*
 * [Shelter ](https://cgit.typeblog.net/Shelter/) or [Insular](https://gitlab.com/secure-system/Insular) - *Isolate / Clone Apps*
 * [MacroDroid](http://macrodroid.com/) - *Android Automation* 
@@ -202,6 +207,7 @@ App Manager
 * [Clima](https://f-droid.org/en/packages/co.prestosole.clima/), [The Fucking Weather](https://alcohollick.com/the-fucking-weather) or [GeometricWeather](https://github.com/geometric-weather-foss/GeometricWeather) - *Weather App* 
 * [aiTTS](https://www.milmike.com/aitts-google-wavenet-voices-for-android-tts) - *Text to Speech* 
 * [Microsoft Edge Read Aloud](https://redd.it/l1fdh9) - *How to use Microsoft Read Aloud TTS on Android* 
+* [Copyhat](https://copyhat.com/) - *AI Writing Tool*
 * [Koler](https://github.com/Chooloo/koler) - *Dialer App* 
 * [BlitzMail](https://github.com/grote/BlitzMail) - *One Click Email App*
 * [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957) - *Disposable Email Client*
@@ -212,8 +218,8 @@ App Manager
 * [Orgzly](https://github.com/orgzly/orgzly-android) or [Dailly](https://github.com/hydroxion/dailly/) - *Note Taking / To-Do App*
 * [Etar](https://github.com/Etar-Group/Etar-Calendar) - *Calendar*
 * [unhabits](https://github.com/iSoron/uhabits) - *Bad Habit Tracker*
-* [Forest](https://forestapp.cc/) - *Productivity Booster*
-* [AnyTracker](https://sites.google.com/view/anytracker) - *Track Anything*
+* [Forest](https://forestapp.cc/) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - *Productivity Booster*
+* [AnyTracker](https://sites.google.com/view/anytracker), [2](https://anytracker.org/) - *Track Anything*
 * [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - *Food Product Ingredient Scanner*
 * [Language Drops](https://languagedrops.com/) or [10,000 Sentences](https://github.com/tkrajina/10000sentences) - *Language Learning App / [Premium](https://forum.mobilism.org/search.php?keywords=drops&sr=topics&sf=titleonly)*
 * [Manji](https://github.com/Livinglist/Manji) - *Language Learning / Japanese / Kanji*  
@@ -335,6 +341,7 @@ App Manager
 * [APK Generator](https://play.google.com/store/apps/details?id=com.aksapps.apkgenerator) - *Get APK File for Installed Apps*
 * [How-to Install Play Store Apps from Other Countries](https://rentry.co/29s6v)
 * [APKAdmin](https://apkadmin.com/) - *APK Hosting Site*
+
 ***
 
 # ► Android Torrenting
