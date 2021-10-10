@@ -529,6 +529,7 @@
 * [MyFitnessPal](https://www.myfitnesspal.com/) - *Fitness / Health App*
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack) - *Fitness Tracker*
 * [Awesome Nutrition Calculator](https://github.com/RolandKawka/awesome-nutrition-calculator) - *Nutrition Calculator*
+* [Soosee](https://play.google.com/store/apps/details?id=com.goodsnooze.soosee) - *Food Nutrition Scanner*
 * [wger](https://wger.de/) - *Self-Hosted Workout, Nutrition & Weight App / [GitHub](https://github.com/wger-project/wger)*
 * [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
 * [SPSS Tutorials ](https://www.spss-tutorials.com/) - *SPSS Practice & Examples*
