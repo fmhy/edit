@@ -440,6 +440,7 @@
 * [NHLstream](https://www.nhlstream.net/) - *NHL*
 * [NHL66](https://nhl66.ir/) - *NHL*
 * [MyLiveCricket](http://hd1.mylivecricket.live/), [2](http://my3.mylivecricket.cc/) - *Cricket*
+* [cric7.net ](http://t20.cric7.net/) - *Cricket*
 * [Sports Streaming Subreddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming_subs)
 * [Reddit Live TV Links](http://reddit-livetv-links.blogspot.com/?m=1) - *Live TV / Reddit*
 * [TV.Jest](https://tv.jest.one/) - *News* 
