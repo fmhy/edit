@@ -1799,6 +1799,7 @@ General Reading Sites*
 * [LambdAurora](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754) - *Minecraft OptiFine Alternatives for Fabric*
 * [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - *Minecraft Utility Mod*
 * [Cubical](https://www.cubical.xyz/) - *Minecraft Schematic Tool*
+* [Villager Trading Cheatsheet](https://i.imgur.com/vCpAxmD.png)
 * [Free Minecraft Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_servers) - *Host Free Minecraft Servers*
 * [GeyserMC](https://geysermc.org/) - *Join Minecraft Java Servers with Bedrock Client / [Consoles](https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles)* 
 * [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization:zap:.283181/) - *Paper / Spigot Server Optimization Guide / Use Paper*
