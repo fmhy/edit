@@ -482,7 +482,7 @@ RSS Player*
 * [Showly 2.0](https://github.com/michaldrabik/showly-2.0) or [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide/) - *Movie / TV Tracker* 
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) or [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - *Bilibili Client*
 * [NicoTap](https://play.google.com/store/apps/details?id=com.yurafuca.nicotap) - *Nico Nico Client*
-* [SubHub](https://apt.izzysoft.de/fdroid/repo/com.crazylegend.subhub) - *Subtitle Downloader / [GitHub](https://github.com/FunkyMuse/SubHub)*
+* [SubHub](https://github.com/FunkyMuse/SubHub) - *Subtitle Downloader*
 
 ***
 
