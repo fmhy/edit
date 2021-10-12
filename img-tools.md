@@ -49,7 +49,6 @@
 * [PicFont](https://picfont.com/) - *Add Text to Images*
 * [Acme Annotator](https://acme.com/annotator/) - *Add Notes to a Picture* 
 * [Face Merging](https://www.faceplusplus.com/face-merging/) or [MorphThing](https://www.morphthing.com/) - *Face Merging Tool* 
-* [Reflect](https://www.reflect.tech/) - *Face Swap Tool*
 
 ***
 
