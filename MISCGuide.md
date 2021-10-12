@@ -658,7 +658,6 @@
 * [Cava's Pixel Resources](https://caveras.net/) - *Pixel Fonts* 
 * [Scanlation School Drive](https://drive.google.com/drive/folders/1hPV4o8fmxY2Ab9tXi84l0vVOUQEgFIbU) - *Comic Fonts*
 * [Make WordArt](https://www.makewordart.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - *WordArt Generator*
-* [int10h](https://int10h.org/oldschool-pc-fonts/) - *Oldschool PC Fonts* 
 * [Codeface](https://github.com/chrissimpkins/codeface) - *Fonts for Coding* 
 * [FiraCode](https://github.com/tonsky/FiraCode) - *Monospace Fonts* 
 * [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](http://arcade.photonstorm.com/) - *Arcade Font Engine*
