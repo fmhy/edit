@@ -1342,7 +1342,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Piracy Site Proxies
 
-[Unblockit](https://unblockit.dev/) / [2](https://unblocked-pw.github.io/), [Knaben's Proxy List](https://knaben.info/), [nocensor](https://nocensor.space/), [TorrentMirror](https://www.torrentmirror.net/#proxy-list-container, [unblockninja](https://unblockninja.com/) 
+[Unblockit](https://unblockit.dev/), [Knaben's Proxy List](https://knaben.info/), [nocensor](https://nocensor.space/), [TorrentMirror](https://www.torrentmirror.net/#proxy-list-container, [unblockninja](https://unblockninja.com/) 
 
 ***
 
