@@ -908,4 +908,5 @@ https://greasyfork.org/en/scripts/407284-imdb-scout-mod
 * [Awesome ACG](https://github.com/soruly/awesome-acg) - *Anime Tool Index* 
 * [Anilinks](https://anilinks.neocities.org/) - *Anime Related Site Index*
 * [Spoiler Protection 2.0](https://spoilerprotection.wecdev.com/) - *Keyword / Spoiler Blocker*
+* [Duo Flix](https://github.com/Duocodies/DuoFlix/) - *Share your Netflix Account Without Password*
 * [Firestick Tricks](https://www.firesticktricks.com/) - *Firestick Jailbreak Guide / [Loader](https://github.com/esc0rtd3w/firestick-loader)*
