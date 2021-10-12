@@ -1084,7 +1084,6 @@
 * [Cinemargentino](https://cinemargentino.com/) - *Movies / Documentaries*
 * [Pelis28](https://pelis28.site/) - *Movies*
 * [HomeCine](https://homecine.me/) - *Movies* 
-* [Zoowoman](https://zoowoman.website/) - *Movies* 
 * [Danimados](https://danimados.com) - *TV / Anime*
 * [novelas360](https://novelas360.com/) - *TV*
 * [HindiLover](https://hindilover.biz/) - *TV*
