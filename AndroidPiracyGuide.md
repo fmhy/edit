@@ -354,7 +354,6 @@ App Manager
 * [Frostwire](https://play.google.com/store/apps/details?id=com.frostwire.android) - *[Screenshot](https://i.imgur.com/EoB3DED.png)*
 * [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) - *[Screenshot](https://i.imgur.com/rZ2JeCO.png)*
 * [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - *[Screenshot](https://i.imgur.com/OrK3mLu.png)*
-* [TorrDroid](https://play.google.com/store/apps/details?id=intelligems.torrdroid) - *[Screenshot](https://i.imgur.com/HZ5Jpou.png)*
 * [WeTorrent](https://play.google.com/store/apps/details?id=co.we.torrent&amp;hl=en_US) - *[Screenshot](https://i.imgur.com/vrCk8Na.png)*
 * [BiglyBT](https://android.biglybt.com/) - *[Screenshot](https://i.imgur.com/WP7xwYK.png)* 
 * [Turbo Torrent](https://play.google.com/store/apps/details?id=co.turbotorrentapp.downloader) - *[Screenshot](https://i.imgur.com/d0DVzv2.png)*
