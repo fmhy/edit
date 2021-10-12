@@ -284,7 +284,6 @@
 * [All Math Questions](https://www.docdroid.net/YupQ6Pp/khan-academy-all-math-questions-pdf) - *Khan Academy Math Questions*
 * [Math is Fun](https://www.mathsisfun.com/) - *Math Tutorials / Puzzles / Games*
 * [Project Euler](https://projecteuler.net/) - *Math / Programming Problems*
-* [Divisor Plot](http://divisorplot.com/) - *Composite Number Pattern Visualization*
 * [MathWords](http://www.mathwords.com/) - *Math Term Dictionary*
 
 ***
