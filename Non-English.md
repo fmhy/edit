@@ -168,7 +168,6 @@
 * [AGE動漫](https://agefans.tw/) - *Anime*
 * [music.163](https://music.163.com/) - *Music*
 * [MuXiv](https://muxiv.net/) - *Music*
-* [Guqiankun](http://www.guqiankun.com/tools/music/) - *Music*
 * [Hifini](https://www.hifini.com/) - *Music *
 * [jsososo](http://y.jsososo.com/), [2](http://music.jsososo.com/) - *Music* 
 * [數學老師張旭](https://space.bilibili.com/521685904) - *Math Lessons*
@@ -928,7 +927,6 @@
 * [nionDHT](http://uniondht.org/) - *Video / Audio / Software / Games / Books / NSFW* 
 * [SeedOff](https://seedoff.zannn.top/) - *Video / Audio / Software / Games / Books* 
 * [rustorka](http://rustorka.com/forum/index.php) - *Games / Roms / Audio / Books / Magazines / Software / Android / Video* 
-* [Torrent24](https://torrent24.ru/) - *Video / Audio / Games*
 * [HDReactor](https://hdreactor.club/) - *Movies / Games / NSFW* 
 * [DugTor](http://dugtor.ru/) - *Video / Audio / Software / Games* 
 * [NNM-Club](https://nnmclub.to/) - *Video / Audio / Software / Games* 
@@ -1213,7 +1211,6 @@
 * [khophanmem24h](https://khophanmem24h.com/) - *Software*
 * [gofazone](https://gofazone.com/) - *Software*
 * [msdnvietnam](https://msdnvietnam.net/) - *Software*
-* [taivacaidat](https://taivacaidat.com/) - *Software*
 * [kysuthietke](https://kysuthietke.com/) - *Engineering Software*
 
 ## ▷ Streaming
