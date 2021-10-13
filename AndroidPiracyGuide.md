@@ -683,6 +683,7 @@ RSS Player*
 * [Swappa](https://swappa.com/imei) - *IMEI, MEID, ESN Checker*
 * [FutureStore](https://github.com/tihmstar/futurerestore) - *SEC & Baseband Restoring Wrapper*
 * [Mildred](https://apps.apple.com/us/app/mildred/id1522800022) - *Docker Client*
+* [Adobe Zii](https://www.reddit.com/r/AdobeZii/ ) - *Adobe Software Patcher*
 
 ***
 
