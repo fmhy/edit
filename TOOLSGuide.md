@@ -13,24 +13,28 @@
 
 * **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_tool_sites)** - *Sites with Multiple Tools*
 * **[MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb)** - *Multi-Tool Google Colab*
+* **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - *Multi-Calculator Sites* 
+* **[Versus](https://versus.com/)** or [Diffen](https://www.diffen.com/) - *Compare Anything* 
+* **[Logseq](https://logseq.com/)**, [MindMup](https://www.mindmup.com/), [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page), [Mindomo](https://www.mindomo.com/), [Yuque](https://www.yuque.com/) or [MindMapp](https://mindmapp.cedoor.dev/app) - *Mind Mapping Tool* 
+* **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** - *Device Repair Articles*
+* **[TuboTax Sucks Ass](http://turbotaxsucksass.net/)** - *File Taxes for Free*
+* **[Worldometer](https://www.worldometers.info/)** - *World Data & Statistics*
+* **[Our World in Data](http://ourworldindata.org/)** - *World Problem Database*
+* **[BeMyEyes](https://www.bemyeyes.com/)** - *Assist those who are Visually Impaired* 
 * [ShellBot](https://github.com/MannyHackers/ShellBot) - *Multi-Tool Telegram Bot*
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - *Open Source Tools* 
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - *Mac Dashboard Widget WebUI*
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - *AI Experiments / Tools* 
 * [Generative Tools](https://docs.google.com/document/d/1N57oAF7j9SuHcy5zg2VZWhttLwR_uEldeMr-VKzlVIQ/) - *Generative Tool Index*
 * [Barcode Reader](https://online-barcode-reader.inliteresearch.com/) - *Online Barcode Reader*
-* [Internet Live Stats ](https://www.internetlivestats.com/) - *Live Internet Statistics*
-* [Worldometer](https://www.worldometers.info/) - *World Data / Statistics*
+* [Internet Live Stats](https://www.internetlivestats.com/) - *Live Internet Statistics*
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - *World Birth / Death Rates Visualization*
-* [Our World in Data](http://ourworldindata.org/) - *World Problem Database*
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - *Gun Violence Information Database*
-* [Diffen](https://www.diffen.com/) or [Versus](https://versus.com/) - *Compare Anything* 
 * [The Measure Of Things](https://www.bluebulbprojects.com/measureofthings/default.php) - *Comparative / Relative Quantity Measurements* 
 * [CompareSizes](https://comparesizes.com/) - *Size Comparison Tool* 
 * [TimeAndDate](https://www.timeanddate.com/) - *Clocks / Calendars* 
 * [Epoch Converter](https://www.epochconverter.com/) - *Epoch & Unix Timestamp Conversion Tools* 
 * [How Many Days Since](http://howmanydayssince.net/) or [How Many Days Until](https://howmanydaysuntil.co/) - *Calculate Days Since a Date*
-* [MindMup](https://www.mindmup.com/), [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page), [Mindomo](https://www.mindomo.com/), [Yuque](https://www.yuque.com/), [Logseq](https://logseq.com/) or [MindMapp](https://mindmapp.cedoor.dev/app) - *Mind Mapping Tool* 
 * [Grocy](https://grocy.info/) - *Grocery / Household Management Tool*
 * [Volmarg](https://volmarg.github.io/) - *Personal Management Tool*
 * [Focalboard](https://www.focalboard.com/) - *Project Management Tool*
@@ -54,7 +58,6 @@
 * [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - *Wheel Randomizer*
 * [Diff Checker](https://www.diffchecker.com/) - *Check for differences in Text, Images, PDFs or Files*
 * [IRuler](https://iruler.net/) - *Turn your device into a Ruler*  
-* [BeMyEyes](https://www.bemyeyes.com/) - *Visually Assist Blind / Low Vision People* 
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) or [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools) - *Digital Forensics Tools*  
 * [Chaotic Shiny](http://chaoticshiny.com/) - *Fantasy Writing Generator* 
 * [GitKraken Timeline](https://timelines.gitkraken.com/), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - *Timeline Creation Tool*
@@ -74,10 +77,10 @@
 * [QR Tiger](https://www.qrcode-tiger.com/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - *QR Code Generator* 
 * [QRpicture](https://www.qrpicture.com/) - *Picture to QR Code Converter* 
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - *Online Appraisals*
-* [TuboTax Sucks Ass](http://turbotaxsucksass.net/) - *File Taxes for Free*
 * [findhelp.org](https://www.findhelp.org/) - *Find Assistive Programs*
 * [Helpmap](https://helpmap.io/) - *Nonprofit Donation Map* 
 * [/u/elkatiuskas' Resource List](https://redd.it/phrcrn) - *Abortion Resource Index*
+* [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - *Informed Consent HRT Clinics*
 
 ***
 
@@ -465,6 +468,7 @@
 * [Bear Blog](https://bearblog.dev/) - *Lightweight Blogging Platform*
 * [Rambox](https://rambox.pro/) / [GitHub](https://github.com/ramboxapp/download/releases), [Ferdi](https://getferdi.com/), [Pidgin](https://www.pidgin.im/), [Hamsket](https://github.com/TheGoddessInari/hamsket), [matterbride](https://github.com/42wim/matterbridge) or [Franz](https://meetfranz.com/) - *Combine Web Apps / Chats*
 * [Slapdash](https://slapdash.com/) - *Connect Cloud Apps* 
+* [Automation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - *Automate Internet Tasks*
 * [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - *Communication Software Index*
 * [Twist](https://twist.com/) - *Collaboration Chat Manager*
 * [Hack.chat](https://hack.chat/) or [tik.io](https://tlk.io/) - *Minimal Account Free Chat* 
@@ -1183,7 +1187,6 @@ General Reading Sites*
 * [Jarvis](https://acwtechnologies.co.uk/software/jarvis-lite) - *Voice Commands*
 * [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client), [Mycroft](https://mycroft.ai/) or [Home Assistant](https://www.home-assistant.io/) - *Home Assistant Client*
 * [Cerebro App](https://cerebroapp.com/) or [Zazu App](http://zazuapp.org/) - *System Productivity Booster*
-* [Automation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - *Automate Tasks*
 * [Econap](https://www.econap.de/) - *Prevent Sleep Mode*
 * [MoveMouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home) - *Simulate User Activity* 
 * [The Fastest Mouse Clicker for Windows](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows) or [AutoClicker Bookmarklet](https://autoclicker.glitch.me/) - *Mouse Auto Clicker*
