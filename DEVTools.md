@@ -22,6 +22,7 @@
 * [Python Discord](https://pythondiscord.com/resources/) - *Python Learning Resources*
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - *Python Guide*
 * [CodingBat](https://codingbat.com/) - *Python / Java Practice*
+* [Java Beginners](https://drive.google.com/drive/folders/1AKga5F6UzHFhvuMPl9zWf6MGxJZfbhac) - *Java Tutorials*
 * [Python4Everyone](https://py4e.com/) - *Python Lessons*
 * [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - *Python Lessons*
 * [Real Python](https://realpython.com/) - *Python Tutorials*
@@ -90,9 +91,10 @@
 * [WeCreators](https://www.wecreators.co/creators-tools) - *Site Development / Influencer Courses*
 * [How-to Host Questionable Websites](https://weboas.is/media/host.png) - *Guide / [PDF](https://weboas.is/media/host.pdf)*
 * [Learn Git Branching](https://learngitbranching.js.org/) - *Interactive Git Branching Guide*
-* [Learn SQL](https://sqlbolt.com/) - *SQL Lessons*
+* [Learn SQL](https://sqlbolt.com/) or [Top Database Bundle](https://drive.google.com/drive/folders/1rxntNcqQPQPOeIfzE0YL4NEtUncUsrJJ) - *SQL Lessons*
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - *PostgreSQL Tutorial*
 * [MySQL Tutorial](https://www.mysqltutorial.org/) - *MySQL Tutorial*
+* [MongoDB Beginners Guide](https://mega.nz/folder/F5QwxJQa#ruNhz08Cl599MChOBbQeGA) - *MongoDB Tutorials*
 * [LearnCSSGrid](http://learncssgrid.com/) - *CSS Grid Guide*
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
 * [Discord.js Guide](https://discordjs.guide/) - *Discord.js Bot Guide*
@@ -234,6 +236,7 @@
 * [Website Grader](https://website.grader.com/) - *Website Grading Tool*
 * [ngrok](https://ngrok.com/) - *Introspectable Tunnels to Localhost Tools*
 * [NConfig](https://www.digitalocean.com/community/tools/nginx) - *NGINX Server Config*
+* [Visual CSS Editor](https://chrome.google.com/webstore/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - *WordPress Site Designer*
 * [faustjs](https://github.com/wpengine/faustjs) - *Wordpress Framework*
 * [gpldl](https://gpldl.com/), [allwpworld](https://allwpworld.com/), [pwned.space](https://pwned.space/wordpress-themes/), [wplocker](https://www.wplocker.com/), [WePlay](https://www.weaplay.com/), [freegetdownloader](https://www.freegetdownloader.com/), [crackthemes](https://www.crackthemes.com/) or [babiato](https://babiato.co/) - *Wordpress Themes*
 * [vichan](https://github.com/vichan-devel/vichan) - *Imageboard Software Package*
@@ -282,6 +285,7 @@
 
 ## ▷ Game Development
 
+* [Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources) - *Game Development Resources*
 * [Godot](https://godotengine.org/), [OpenXRay](https://github.com/OpenXRay) or [ursina engine](https://www.ursinaengine.org/) - *Game Engine*
 * [Playerio](https://playerio.com/) - *Online Game Engine*
 * [RPG Playground](https://rpgplayground.com/) - *Simple RPG Creator*
@@ -314,6 +318,7 @@
 * [GDevelop](https://gdevelop-app.com/) - *HTML5 Game Creator*
 * [Phaser](https://phaser.io/) - *Mobile HTML5 Game Framework* 
 * [PlayCanvas](https://playcanvas.com/) - *Build HTML5 Visualizations / Games* 
+* [pup](https://github.com/ericchiang/pup) - *HTML Processing CLI*
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips) or [CSS Reference](https://cssreference.io/) - *CSS Guide* 
 * [Awesome CSS](https://github.com/awesome-css-group/awesome-css) - *CSS resources* 
 * [Cssgr](https://cssgr.id/) - *CSS Grid Code Tool* 
