@@ -124,6 +124,7 @@
 * [wideredist](https://gitlab.com/urbanware-org/wideredist) - *Update Windows Defender Definitions Locally*
 * [Defeat Defender](https://github.com/swagkarna/Defeat-Defender-V1.2) - *Disable Windows Defender*
 * [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - *Malware Search Extension* 
+* [JShelter](https://jshelter.org/) - *Anti-Malware Extension*
 * [Malware Analysis Search](https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu)
 
 ***
@@ -173,6 +174,7 @@
 * [VeraCrypt](https://www.veracrypt.fr/en/Home.html) or [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup) - *Disk Encryption Software*
 * [FileVault](https://support.apple.com/en-us/HT204837) - *Mac Disk Encryption* 
 * [Cryptomator](https://cryptomator.org/), [Boxcryptor](https://www.boxcryptor.com/en/), [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) or [Filen](https://filen.io/) - *Cloud File Encryption*
+* [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - *Encrypt / Decrypt GDrive*
 * [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/), [Skytransfer](https://skytransfer.hns.siasky.net) or [upload-vaa](https://upload.vaa.red/) - *Encrypted File Host* 
 * [EncFS MP](https://encfsmp.sourceforge.io/index.html), [GNUPG](https://gnupg.org/), [CipherShed](https://www.ciphershed.org/), [Kryptor](https://www.kryptor.co.uk/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - *File Encryption Tool* 
 * [RemoteStream](https://remotestre.am/) - *Encrypt your Google Drive links* 
@@ -292,6 +294,7 @@
 * [SSL Labs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html) - *SSL/TLS Browser Capabilities Test*
 * [IP / DNS Leak Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_dns_leak_tests) - *Test for IP & DNS Leaks*
 * [DNSCookie](http://dnscookie.com/) - *Identify Related Network Flows*
+* [Microsoft Security Intelligence](https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest) - *Report Unsafe Sites*
 * [Phish.Report](https://phish.report/) - *Report Phishing Sites*
 * [How-To Turn off IPv6](https://www.itechguides.com/disable-ipv6-windows-10/) - *Prevent IP Leaks*
 * [IPv6 Leak Test](https://ip6.nl/), [Test-IPv6](https://test-ipv6.com/) or [IPv6 Test](https://ipv6-test.com/) - *IPv6 Leak Test*
