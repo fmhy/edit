@@ -217,6 +217,7 @@
 * [MergeMP4](https://maple3142.github.io/mergemp4/) - *Merge MP4 Video & Audio* 
 * [Video Cleaner](https://videocleaner.com/) or [Video Enhance AI](https://www.topazlabs.com/video-enhance-ai) - *Video Enhancement Tool* 
 * [Flowframes](https://nmkd.itch.io/flowframes) or [SVP](https://www.svp-team.com/) - *Video Interpolation*
+* [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - *Art & Animation Resource Index*
 * [OpenToonz](https://opentoonz.github.io/e/) or [Pencil2D](https://www.pencil2d.org/) - *Animation Production Software*
 * [AnimeEffects](http://animeeffects.org/en/) or [Synfig](https://www.synfig.org/) - *2D Animation Tool* 
 * [Storyboarder](https://wonderunit.com/storyboarder/) - *Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)* 
@@ -437,6 +438,7 @@
 * [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - *Web Service Coverage Map*
 * [Broadband Map](https://broadbandmap.fcc.gov/) - *Fixed Broadband Deployment Map*
 * [WiFiCard](https://wificard.io/) - *WiFi Info QRCode Generator*
+* [Master Networks & Scanning](https://mega.nz/folder/woQFAaLT#Eqvaip0R-kXi-lD8OIch7g) - *Network & Network Scanning Tutorials*
 * [FeedReader](http://www.feedreader.com/), [QuiteRSS](https://quiterss.org/), [RSSOwl](http://www.rssowl.org/), [CommaFeed](https://www.commafeed.com/#/welcome), [RSSHub](https://github.com/DIYgod/RSSHub), [FreshRSS](https://freshrss.org/), [Fluent Reader](https://hyliu.me/fluent-reader/) or [Feeder](https://feeder.co/) - *RSS Feed Reader* 
 * [DatoRSS](https://www.datorss.com/) or [RSS.app](https://rss.app/) - *RSS Feed Search* 
 * [RSS Box](https://rssbox.herokuapp.com/) or [FiveFilters](https://createfeed.fivefilters.org/) - *RSS Feed Creator* 
@@ -734,7 +736,7 @@ General Reading Sites*
 * [lurrker](https://lurrker.com/), [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/), [kddit](https://kddit.kalli.st/), [Nuxtit](https://nuxtit.netlify.com/) or [js4.red](https://js4.red/) - *Alt Browsers / Web Clients*
 * [xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/), [Saturnus](https://saturnusapp.com/) or [teddit](https://teddit.net/), [2](https://codeberg.org/teddit/teddit) - *Reddit Frontends*
 * [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) - *Reddit Dekstop Client / Mac*
-* [Reddit-Search](https://camas.github.io/reddit-search/), [Reveddit](https://www.reveddit.com/), [politicbot](http://politicbot.github.io/) or [Removeddit](https://www.removeddit.com/about/) - *View Deleted Reddit Posts*
+* [Reddit-Search](https://camas.github.io/reddit-search/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - *View Deleted Reddit Posts*
 * [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - *View Deleted Reddit Comments* 
 * [The-Eye /r/](https://the-eye.eu/r/) - *Subreddit Backups* 
 * [rareddit](https://www.rareddit.com/), [Archive Reddit](https://www.archivereddit.com/), [PushShift Reddit](http://files.pushshift.io/reddit/) or [Reddit Archive](http://www.redditarchive.com/) - *Reddit Post Archive* 
@@ -857,7 +859,7 @@ General Reading Sites*
 * [pullcord](https://github.com/tsudoko/pullcord) - *Discord Archiver*
 * [Discord Style](https://www.discord.style/) - *Discord Server Templates*
 * [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/)
-* [Discohook](https://discohook.org/), [Rauf's Embed Generator](https://embed.rauf.wtf), [discord.club](https://discord.club/embedg/), [0x71](https://em.0x71.cc/), [Webhook Gold](https://webhook.discord.gold/) or [PSDiscord](https://github.com/EvotecIT/PSDiscord) - *Embed / Webhook Generator* 
+* [Discord Embed Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_embed_generators) - *Generate Embeds via Webhooks*
 * [Embed Visualizer](https://embed.discord.website/) - *Embed Visualization Tool* 
 * [Chimera](https://github.com/CedArctic/Chimera) - *System Remote Control* 
 * [Discord IRC](https://github.com/reactiflux/discord-irc) - *Connect Discord & IRC Chats* 
@@ -935,6 +937,7 @@ General Reading Sites*
 * [Astronaut.io](http://astronaut.io/), [Incognitube](https://www.incognitube.com/) or [Petit tube](http://www.petittube.com/) - *YouTube Vids with -100 views* 
 * [YouTube-Geofind](https://mattw.io/youtube-geofind/location) - *Find Geotagged Videos* 
 * [Unlisted Videos](https://unlistedvideos.com/) - *Watch / Submit Unlisted YouTube Videos*
+* [QuiteAPlaylist](https://quiteaplaylist.com/) - *Find Deleted YouTube Videos*
 * [youtubecrawl](https://archive.org/details/youtubecrawl) - *YouTube Video Archive*  
 * [TwitchTheater](https://twitchtheater.tv/), [YouTube Multiplier](http://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - *Watch Multiple YouTube Videos* 
 * [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) - *Video Web Player*
@@ -1110,6 +1113,7 @@ General Reading Sites*
 * [Easy2Boot](https://www.easy2boot.com/) - *Boot Directly from ISO's* 
 * [balenaEtcher](https://balena.io/etcher) - *Flash OS Image SD / USB*
 * [InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB) - *Install Windows without USB*
+* [NTLite](https://www.ntlite.com/) - *Windows Image Installation Manager*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - *Preinstallation Environment* 
 * [CD Key Reader](http://www.cathonian.com/software/cd-keyreader/) - *Find Key used to Install Windows*
@@ -1169,6 +1173,7 @@ General Reading Sites*
 * [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - *Classic Start Menu* 
 * [Search Deflector](https://github.com/spikespaz/search-deflector) - *Change Cortana Search Engine / Browser*
 * [Recoll](https://www.lesbonscomptes.com/recoll/) or [AnyTXT](https://anytxt.net/) - *Improved Windows Search / [Site Indexer](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/)* 
+* [Run](https://docs.microsoft.com/en-us/windows/powertoys/run) - *Windows Spotlight Search*
 * [Killer](https://github.com/ntaraujo/killer) or [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - *Improved Task Manager / [Discord](https://discord.gg/MKG6qgJ964)*
 * [All Tasks Toolbar](https://winaero.com/create-all-tasks-god-mode-toolbar-windows-10/) - *Create All Tasks God Mode Toolbar in Win 10* 
 * [WindowsManager](https://www.eusing.com/WindowManager/WindowManager.htm) or [Compiz Fusion](http://www.compiz-fusion.org/) - *Improved Windows Manager*
@@ -1387,6 +1392,7 @@ General Reading Sites*
 * [GDriveSearcherBot](https://github.com/TheHamkerCat/GdriveSearcherBot) - *GDrive Search Bot*
 * [gd-utils](https://github.com/roshanconnor123/gd-utils) / [2](https://nenokkadine.github.io/GD-Utils/) or [Bypass-GDrive](https://yuudrive.me/tools/bypass-gdrive) - *Google Drive Limit Bypass* 
 * [G-Index](https://github.com/LeeluPradhan/G-Index), [goindex](https://github.com/alx-xlx/goindex), [GDI](https://github.com/anymeofu/GDI) or [gdrive-index](https://github.com/alx-xlx/gdrive-index) - *Google Drive Index*
+* [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - *Encrypt / Decrypt GDrive*
 * [Google Drive Bot](https://t.me/Gdriveit_bot) - *Google Drive Client in Telegram*
 * [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - *Host Direct Links on GDrive* 
 * [gdrive-copy](https://github.com/ericyd/gdrive-copy), [googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader), [TgFolderClone](https://github.com/Loli-Killer/TgFolderClone), [Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot) or [GDrive-Clone](https://github.com/alx-xlx/gdrive-clone) - *Copy Google Drive*
@@ -1511,6 +1517,7 @@ General Reading Sites*
 * [Homebrew](https://brew.sh/) - *Package Manager*
 * [pacwall](https://github.com/Kharacternyk/pacwall) - *Live Wallpaper that shows Dependency Graph & Status of Installed Packages* 
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
+* [Learn the Linux Command Line](https://mega.nz/folder/BlRVyArK#84n4ZhYZCRXLjt-KEP6u6g) - *Linux Command Line Lessons*
 
 ***
 
@@ -1531,6 +1538,7 @@ General Reading Sites*
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - *Shortcut CheatSheet for Current Application*
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - *Volume Mixer / Auto-Pause*
 * [MacLaunch](http://github.com/hazcod/maclaunch) - *Manage Startup Items*
+* [Sloth](https://github.com/sveinbjornt/Sloth) - *MacOS Process Manager*
 * [pongoOS](https://github.com/checkra1n/pongoOS) - *Mac Pre-Boot Executor*
 * [Homebrew](https://brew.sh/) - *Package Manager*
 * [AlDente](https://github.com/davidwernhart/AlDente) - *MacOS Charging Manager*
