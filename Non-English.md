@@ -434,6 +434,7 @@
 * [mkvCinemas](https://www.mkvcinemas.pm/) - *Movies / TV*
 * [MKV Mad](https://www.mkvmad.pro/) - *Movies / TV *
 * [KatMovieHD](https://katmoviehd.se/) - *Movies / TV*
+* [UncutHD](https://www.uncuthd.one/) - *Movies*
 * [MoviesVerse](https://t.me/MoviesHomeOFFICIALS) - *Movies / TV / Telegram* 
 * [BollywoodCineplex](https://t.me/BollywoodCineplex) - *Movies*
 * [MoviezAddiction](https://moviezaddiction.me/) - *Movies / TV / Telegram* 
@@ -821,17 +822,27 @@
 
 * [Warez-Box](http://www.warez-box.com/) - *Video / Audio / Software / Games / Books* 
 * [GIGATUGA](https://gtuga.com/) - *Video / Audio / Software / Games / Books / NSFW* 
+* [ReidOSTorrents](https://reidostorrents.com/) - *Video / Audio / Software / Games / Books*
 * [baixarseriesmp4](https://www.baixarseriesmp4.net/) - *Movies / TV / Anime*  
 * [Os Reformados](http://osreformados.com/) - *Video / Audio / Magazines* 
 * [Tugakids](https://tugakids.biz/) - *Movies / TV / Dubbed / Registration Required* 
+* [Jogos Torrents](https://jogostorrents.site/) - *Games*
 * [Series Empire](https://seriesempire.com/) - *TV* 
 * [Jogatina](https://www.jogatina.com/) - *Android Games*
 
 ## ▷ Torrenting
 
+* [ReidOSTorrents](https://reidostorrents.com/) - *Video / Audio / Software / Games / Books*
 * [Onde Baixa](https://ondebaixa.com/) - *Movies / TV / Anime* 
 * [SeriesFIlmesTorrent](https://seriesfilmestorrent.net/) - *Movies / TV / Anime* 
 * [TorrentToon](https://torrentoon.org/) - *Movies / TV*
+* [torrentpirata](https://torrentpirata.com/) - *Movies / TV*
+* [Torrent Jogos](https://torrentjogos.net/) - *Games*
+* [SuperGamesTorrent](https://supergamestorrents.net/) - *Games*
+* [torrentsgames](https://www.torrentsgames.xyz/) - *Games*
+* [soparapcjogostorrent](https://www.soparapcjogostorrent.site/) - *Games*
+* [thepiratejogos](https://thepiratejogos.tk/) - *Games*
+* [torrentgames](https://www.torrentgames.info/) - *Games*
 
 ## ▷ Streaming
 
@@ -1083,6 +1094,7 @@
 * [Pelis28](https://pelis28.site/) - *Movies*
 * [HomeCine](https://homecine.me/) - *Movies* 
 * [Danimados](https://danimados.com) - *TV / Anime*
+* [SeriesFlix](https://seriesflix.la/) - *TV / Anime*
 * [novelas360](https://novelas360.com/) - *TV*
 * [HindiLover](https://hindilover.biz/) - *TV*
 * [Vix](https://www.vix.com/tv/) - *TV*
