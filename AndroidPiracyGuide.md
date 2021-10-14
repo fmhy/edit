@@ -68,7 +68,7 @@
 * [CamWings](https://schiffer.tech/camwings-mobile.html) - *Camera Protection* 
 * [ScreenWings](https://schiffer.tech/screenwings-mobile.html) - *Screen Protection* 
 * [Stingle Photos](https://stingle.org/) - *Private Photo / Video Gallery* 
-* [Threema](https://mirrorace.com/m/3DIja), [Session](https://getsession.org/), [Status](https://status.im/), [Signal](https://github.com/mollyim/mollyim-android) / [2](https://langis.cloudfrancois.fr/) / [3](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [ChatSecure](https://ballinger.io/apps/chatsecure/), [surespot](https://www.surespot.me/), [Snikket](https://www.f-droid.org/en/packages/org.snikket.android/) or [RetroShare](https://f-droid.org/en/packages/org.retroshare.android.qml_app/) - *Encrypted Messaging* 
+* [Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers) - *Encrypted Android Messengers*
 * [Silence](https://silence.im/) - *Encrypt SMS/MMS Messages* 
 * [Wickr](https://play.google.com/store/apps/details?id=com.wickr.pro&amp;hl=en), [MySudo](https://mysudo.com/), [Jami](https://jami.net/), [Syphon](https://syphon.org/) or [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app) - *Encrypted Messaging / Video Calls*
 * [OVERSEC](https://www.oversec.io/) - *Add Text / Image Encryption to any App* 
@@ -79,8 +79,6 @@
 * [SpoofCard](https://www.spoofcard.com/) - *Disguise Caller ID*
 * [Catch the Man-in-the-Middle](https://play.google.com/store/apps/details?id=me.brax.certchecker) - *Check if HTTPS Traffic is being Monitored* 
 * [JustUseApp](https://justuseapp.com/) - *Hide App Payments*
-
-
 * [Gadget Bridge](https://gadgetbridge.org/) - *Connect to Smartwatches without Vendor Apps / Accounts*
 * [Scrambled Exif](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif) - *Remove Image Metadata*
 
@@ -98,10 +96,11 @@
 * [Leapdroid](https://leapdroid.en.softonic.com/) - *[Screenshot](https://i.imgur.com/4RKnNqJ.png)* 
 * [PrimeOS](https://primeos.in/) - *Android Desktop OS*
 * [Android x86](https://www.android-x86.org/) - *Android Desktop OS / [Installer](https://supreme-gamers.com/r/advanced-android-x86-installer-for-windows.61/)*
-* [PhoenixOS Darkmatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - *Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)*
 * [BlissOS](https://blissos.org/) - *Android Desktop OS*
 * [RemixOS](https://www.fosshub.com/Remix-OS.html) - *Android Desktop OS*
 * [PhoenixOS](http://www.phoenixos.com/en/) - *Android Desktop OS*
+* [PhoenixOS - BR](https://discord.gg/BQ4td84) - *Android Desktop OS*
+* [PhoenixOS Darkmatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - *Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)*
 * [Anbox](https://anbox.io/) - *Android Linux Emulator*
 * [ApkOnline](https://www.apkonline.net/) - *Online Android Emulator*
 * [BlueStacks X](https://x.bluestacks.com/) - *Cloud-Based Android Gaming*
@@ -112,8 +111,7 @@
 
 * **[Aliucord](https://github.com/Aliucord/Aliucord)** - *Modded Discord Client* 
 * **[android-security-awesome](https://github.com/ashishb/android-security-awesome)** - *Android Security Resources* 
-* **[Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers) - *Multi-Platform Web Browsers*
-* [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi](https://kiwibrowser.com/), [Lynket](https://github.com/arunkumar9t2/lynket-browser) or [Lightning](https://github.com/anthonycr/Lightning-Browser) - *Android Only Browsers* 
+* **[Browsers Wiki](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers), [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi](https://kiwibrowser.com/), [Via](https://play.google.com/store/apps/details?id=mark.via.gp), [Lynket](https://github.com/arunkumar9t2/lynket-browser) or [Lightning](https://github.com/anthonycr/Lightning-Browser) - *Android Web Browsers* 
 * [XDA](https://forum.xda-developers.com/) - *Android Discussion Forum*
 * [Will My Phone Work?](https://willmyphonework.net/) or [FrequencyCheck](https://www.frequencycheck.com/) - *Phone Carrier Support Index* 
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - *Cell Carrier FCC Spectrum Map*
@@ -175,6 +173,7 @@
 * [SlimTwitter](https://f-droid.org/en/packages/it.rignanese.leo.slimtwitter/) - *Twitter Webwrapper*
 * [Google Lens](https://lens.google/) - *Multiple Camera Tools*
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) or [Camator](https://gcamator.com/) - *Google Cam Downloads / [Telegram](https://t.me/googlecameraport)*
+* [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - *Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)*
 * [LosesslessJpgCrop](https://github.com/k3b/LosslessJpgCrop) - *Lossless Image Cropper*
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - *Telegram Client*
@@ -340,7 +339,7 @@ App Manager
 * [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - *Android Vehicle Apps*
 * [App filter](https://appfilter.net/) - *Play Store Advanced Search*
 * [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - *App Giveaway Sites*
-* [APK Generator](https://play.google.com/store/apps/details?id=com.aksapps.apkgenerator) - *Get APK File for Installed Apps*
+* [APK Generator](https://play.google.com/store/apps/details?id=com.aksapps.apkgenerator) or [APK Saver](https://play.google.com/store/apps/details?id=com.sdkdevelopers.apksaver) - *Save APK File for Installed Apps*
 * [How-to Install Play Store Apps from Other Countries](https://rentry.co/29s6v)
 * [APKAdmin](https://apkadmin.com/) - *APK Hosting Site*
 
@@ -401,6 +400,7 @@ App Manager
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *Download / FLAC / MP3*
 * [AudioSwitch](https://play.google.com/store/apps/details?id=com.nordskog.LesserAudioSwitch) - *Switch Audio to Different Outputs Lesser*
 * [Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler) - *Android Scrobbler*
+* [MP3 Tagger](https://play.google.com/store/apps/details?id=com.fillobotto.mp3tagger) - *Automatic Audio ID3 Tagging*
 
 ***
 
@@ -455,6 +455,7 @@ App Manager
 * [VivaTV](https://www.vivatv.io/) or [TeaTV](https://teatv.net/) - *Movies / TV / Anime / Chromecast*
 * [ZiniTevi](https://zinitevi.github.io/movieapps/) - *Movies*
 * [Bouncy](https://github.com/WeeklyProblem/Bouncy) - *Movies / TV / Anime / Chromecast*
+* [IsraTV](https://isratv.netlify.app/) - *Movies / TV / Live TV*
 * [MediaBox HD](https://mediaboxhd.net/) - *Movies / TV / Chromecast*
 * [PikaShow](https://pikashow.app/app) - *Movies / TV*
 * [Movie HD](https://moviehdapkdownload.com/moviehd-apk/) - *Movies / TV / Chromecast*
