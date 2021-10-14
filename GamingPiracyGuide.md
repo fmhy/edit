@@ -371,6 +371,7 @@
 * [Blaseball](https://www.blaseball.com/) - *Odd Baseball Simulation Game* 
 * [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) - *Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)*
 * [Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures) - *Interactive Text Adventures*
+* [Prosperity](http://www.playprosperity.ca/) - *Civilization Building RPG*
 * [Amazeworld](http://www.amazeworld.com/) - *Interactive Webmazes*
 * [Little Alchemy](https://littlealchemy.com/) or [Little Alchemy 2](https://littlealchemy2.com/) - *Alchemy Game*
 * [Short Trip](https://alexanderperrin.com.au/paper/shorttrip/) - *Relaxing Cat Game* 
@@ -520,7 +521,7 @@
 
 ## ▷ Incremental / Idle
 
-* [Incremental Games Plaza](https://plaza.dsolver.ca/) or [Almost Idle](http://almostidle.com/) - *Incremental Games Index*
+* [/r/Incremental_Games](https://www.reddit.com/r/incremental_games/wiki/list_of_incremental_games), [Incremental Games Plaza](https://plaza.dsolver.ca/) or [Almost Idle](http://almostidle.com/) - *Incremental Games Index*
 * [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](http://orteil.dashnet.org/experiments/cookie/) - *Incremental Cookie Game*
 * Cookie Clicker Tools - [Multiple Tools](https://github.com/CookieMonsterTeam/CookieMonster) / [Calculator](https://coderpatsy.bitbucket.io/cookies/cookies.html) / [Mod](https://redd.it/7ogf45)
 * [The Monolith](http://monolith.greenpixel.ca/) - *Incremental RPG*
