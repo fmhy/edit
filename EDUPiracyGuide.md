@@ -43,7 +43,8 @@
 * [Class Central](https://www.classcentral.com/) - *Search for Courses*
 * [cs1000](https://cs1000.vercel.app/) - *Educational Video Playlists* 
 * [media.ccc.de](https://media.ccc.de/) - *Educational Presentations*
-* UC Berkeley Webcast project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://lbry.tv/@UCBerkeley:d?) - *Video Lectures*
+* UC Berkeley Webcast project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://lbry.tv/@UCBerkeley:d?) - *Lectures*
+* [iTunes U](https://wiki.archiveteam.org/index.php/ITunes_U) - *Lectures*
 * [WatchKnowLearn](http://www.watchknowlearn.org/) - *Educational Videos*
 * [FreeMedTube](https://freemedtube.net/) - *Medical Courses*
 * [Mathispower4u](http://www.mathispower4u.com/) - *Math Tutorials*
@@ -101,6 +102,7 @@
 * **[TutFlix](https://tutflix.org/)** - *Courses / Drives* 
 * **[Large Collection of Useful Mega DL's](https://pastebin.com/ZMtZa2JV)** - *Courses / Drives*
 * [Reks Drive](https://mega.nz/folder/iYQ3SYbA#_o9eO4o1eiCd8QsCTU7iUw) - *Courses*
+* [BlackPhoenix James Durden](https://mega.nz/folder/AZAhjSaL#3wzdEx3nPgzzVdVEqVc8nA) - *Courses*
 * [Iit jee lectures](https://t.me/Iitjeeinveins2) - *Lectures / Telegram*   
 * [downloadly](https://downloadly.ir/) - *Courses*
 * [Coursed](https://coursed.co/) - *Courses*
@@ -125,6 +127,7 @@
 * [nocourses](https://nocourses.com/) - *Courses* 
 * [5G GYAN](https://www.5ggyan.com/) - *Courses* 
 * [HackingWorld](https://in.hackingworld.best/) - *Courses*
+* [DL Course](https://dlcourse.org/) - *Courses*
 * [AfraTafreeh](https://afratafreeh.com/) - *Courses*
 * [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - *Courses*
 * [Open-Video](https://open-video.org/) - *Courses / Documentaries*
@@ -137,6 +140,7 @@
 * [learningDL](https://learningdl.net/) - *Courses / Leech required* 
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - *Courses / Tutorials* 
 * [FreetutsDownload.com](https://freetutsdownload.com/) - *Courses / GDrive Host* 
+* [iTunes U](https://archive.org/details/@kyndigs) - *Lectures*
 * [University of Waterloo](https://student.cs.uwaterloo.ca/~cs247/current/) - *CS Resources / Courses*
 * [Masterclass 63 Pack](https://mega.nz/folder/HxFghIbS#rFqH402PoVDwHW_XEtN1QQ) - *Masterclass Courses / Drive*
 * [Lynda Courses](https://bin.snopyta.org/?efe32fb96a945857#GQL7q4hyKjCeB6WLbpq94S12BEwh5JWc4apjmb7RE4SU) - *Lynda Courses / Drive / pw: fmhy*
@@ -159,9 +163,11 @@
 * [ProCrack_Team](https://www.mediafire.com/folder/l4w8gcdcqsqtw/ProCrack_Team) - *Marketing Courses*
 * [Udemy - Cybersecurity Collection](https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD) - *Cyber Security Courses*
 * [Skills for All](https://skillsforall.com/) - *Cyber Security Courses*
+* [CISSP Certifications](https://drive.google.com/drive/u/0/folders/1AWJHcWt4KngV2ijEFHmh74-HHMwSR16u) - *Cyber Security Lessons*
 * [CertCommunity](https://www.certcommunity.org/forum/) - *IT Cert Courses*
 * [Top Linux Interview Questions & Answers](https://mega.nz/#F!K1MnlSzJ!fyLhNA7V_m1z9JZfPW0alg) - *Linux Interview Q&A*
 * [CHFI](https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg) - *Computer Hacking Forensic Courses*
+* [Photoshop Courses](https://mega.nz/folder/Y6RXXKbJ#pnAdcdkSXw7wujTIhN5Blw) - *Photoshop Course Drive*
 * [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - *Download videos from Coursera* 
 * [Skillshare DL Guide](https://i.imgur.com/AIENK0K.png) - *Download videos from Skillshare*
 * [skillsharefree](https://t.me/skillsharefree) - *Skillshare Courses / Telegram* 
@@ -198,6 +204,7 @@
 * [Tutorials Planet](https://tutorialsplanet.net/) - *Udemy Courses*   
 * [Giga Course](https://gigacourse.com/) - *Udemy Courses* 
 * [Free All Course](https://freeallcourse.com/) - *Udemy Courses* 
+* [1TB Art Courses](https://pastebin.com/hKgJG2Vz) - *Art Courses*
 * [Pimp My Money](https://pimpmymoney.net/) - *Digital Marketing Courses* 
 
 ## ▷ Documentaries
@@ -262,6 +269,7 @@
 * [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - *Multi-Calculator App / Android*
 * [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - *Matrix Calculator*
 * [Mathcha](https://www.mathcha.io/) - *Online Math Editor*
+* [EquatIO](https://chrome.google.com/webstore/detail/equatio-math-made-digital/hjngolefdpdnooamgdldlkjgmdcmcjnc) - *Math Equation Creator*
 * [Weboasis Convert](https://weboas.is/convert/) - *Conversion Calculators*
 * [PecentageTools](https://percentagetools.com/) or [CalcPercentage](https://calcpercentage.com/) - *Percentage Calculators*
 * [FractionCalc](https://fractionscalc.com/) - *Fraction Calculator*
@@ -462,7 +470,7 @@
 * [BookStack](https://www.bookstackapp.com/) - *Self-Hosted Information Manager*
 * [Deepnote](https://deepnote.com/) - *Data Science Notebook*
 * [ClassroomScreen](https://www.classroomscreen.com/) - *Digital Teaching Widgets*
-* [Plagiarism Checker](https://www.grammarly.com/plagiarism-checker), [PaperRater](https://www.paperrater.com/), [PlagiarismDetector](http://www.plagiarismdetector.net/), [CopyScape](https://www.copyscape.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
+* [Plagiarism Checker](https://www.grammarly.com/plagiarism-checker), [PaperRater](https://www.paperrater.com/), [Quetext](https://www.quetext.com/), [PlagiarismDetector](http://www.plagiarismdetector.net/), [CopyScape](https://www.copyscape.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
 * [cb2bib](https://www.molspaces.com/cb2bib/) - *Reference Extractor / Manager*
 * [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - *Grade School Educational Tools*
 * [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - *UPSC Telegram Channels* 
@@ -511,7 +519,7 @@
 * [PowerInBooks](https://powerinbooks.xyz/temp/) or [ch36650lut10n5](https://www.ch36650lut10n5.com/) - *Textbook Solutions* 
 * [LabXchange](https://www.labxchange.org/) - *Science / Interactive*
 * [AskNature](https://asknature.org/) - *Natural Strategies / Solutions* 
-* [Citation Generator](https://www.citationgenerator.com/), [CitationMachine](https://citationmachine.net/) or [Cite This For Me](https://www.citethisforme.com/) - *Generate Citations*
+* [Citation Generator](https://www.citationgenerator.com/), [CitationMachine](https://citationmachine.net/) or [Cite This For Me](https://www.citethisforme.com/) - *Generate Citations / [Chrome](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)*
 * [AMCharts](https://live.amcharts.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - *Chart Creator*
 * [AWW](https://awwapp.com/), [OpenBoard](https://openboard.ch/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - *Whiteboard*
 * [app.diagrams](https://app.diagrams.net/), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/) or [Gephi](https://gephi.org/) - *Graph / Diagram Creator*  
