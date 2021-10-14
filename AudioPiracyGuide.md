@@ -3,7 +3,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/tkrjVnQ.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/jx8ypv8.png)** - *For mobile users*
 
 ***
 ***
@@ -17,6 +17,7 @@
 * [YouTube Music Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_music_players) - *Streaming*
 * [FunkWhale](https://funkwhale.audio/) - *Streaming*
 * [nuclear](https://github.com/nukeop/nuclear) - *Streaming*
+* [MP3Jam](https://www.mp3jam.org/) - *Streaming*
 * [Muffon](https://github.com/staniel359/muffon) - *Streaming*
 * [Deezer](https://www.deezer.com/) - *Streaming*
 * [MusicBucket](https://musicbucket.net/) - *Track / Share Music / Telegram* 
@@ -70,6 +71,8 @@
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - *East African Recordings* 
 * [Free Music Archive](https://www.freemusicarchive.org/) - *Royalty Free Music* 
 * [Battle of the Bits](https://battleofthebits.org/) - *User-Made Music Competitions* 
+* [Openwhyd](https://openwhyd.org/) - *Music Sharing Community / [Chrome](https://chrome.google.com/webstore/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)*
+* [Bandcamp New Tab](https://chrome.google.com/webstore/detail/bandcamp-new-tab/nbabnnemlofbllcflfjpjgkgmcdbeemc) - *Random Bandcamp Songs on New Tabs*
 
 ***
 
@@ -163,12 +166,13 @@
 * [Coding Cat](https://hostrider.com/) - *Nyan Cat's Cousin / Lo-Fi Radio*
 * [ANoise](http://anoise.tuxfamily.org/) - *Ambient Sounds for Ubuntu / Relaxation* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
+* [HaloMe.nu](https://halome.nu/) - *Halo Menu Screens*
 
 ***
 
 # ► Audio Downloading
 
-## ▷ Downloading Apps
+## ▷ Download Apps
 
 * **[Deemix](https://gitlab.com/paulchatte123/deemix-gui-fmp3dl)** - *MP3 / [/r/deemix](https://reddit.com/r/deemix) / [Telegram](https://t.me/deemixcommunity) / [ARL](https://archive.is/aQ3JA)*
 * **[GamesDrive Music-DL](https://discord.gg/PKFAnduGtA)** - *TIDAL Music Bot Ripper*
@@ -181,6 +185,7 @@
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *FLAC / MP3*
 * [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots)
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - *FLAC / MP3*
+* [MP3Jam](https://www.mp3jam.org/) - *MP3*
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - *Music Download Tool* 
 * [RipMe](https://github.com/RipMeApp/ripme) - *Bulk Album Downloader*  
 * [Spytify](https://jwallet.github.io/spy-spotify/overview.html) or [spy-spotify](https://github.com/jwallet/spy-spotify) - *Record / Download Spotify Songs*
@@ -197,7 +202,7 @@
 
 ***
 
-## ▷ Downloading Sites
+## ▷ Download Sites
 
 * **[Audio Download Sites Search](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** + [Audio Download Sites 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w)
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "audio"*
