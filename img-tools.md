@@ -16,7 +16,9 @@
 * **[Online Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_online_photo_editors)** - *Image Editing Sites*
 * **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/) - *Design Tool Resource Indexes*   
 * **[PhotoMosh](https://photomosh.com/)**, [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - *Glitch Images*
+* [1TB Art Courses](https://pastebin.com/hKgJG2Vz) - *Art Courses*
 * [Photoshop Courses](https://mega.nz/folder/Y6RXXKbJ#pnAdcdkSXw7wujTIhN5Blw) - *Photoshop Course Drive*
+* [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - *Photoshop Tutorials*
 * [PhotoFunia](https://photofunia.com/) or [Designify](http://designify.com/) - *Photo Effects / Filters*  
 * [Gravit Designer](https://www.designer.io/) - *Graphic Design App*
 * [MagicaVoxel](https://ephtracy.github.io/) - *Voxel Art Editor / Interactive Path Tracing renderer*
@@ -105,6 +107,7 @@
 * [Verbex](https://www.vedbex.com/fakeproof) - *Fake "Proof" Generator*
 * [FakeReceipt](http://www.fakereceipt.us/) - *Create Fake Receipts*
 * [The Rasterbator](https://rasterbator.net/) - *Wall Art Generator* 
+* [Flag Maker](https://flagmaker-print.com/pages/flag-maker) - *Flag Creator*
 * [ArmorLab](https://armorlab.org/) - *Texture Generator / [GitHub](https://github.com/armory3d/armorlab)*
 * [The Wood Workshop](http://spiralgraphics.biz/ww_overview.htm) - *Wood Texture Editor / Creator*
 * [PlantStudio](https://www.kurtz-fernhout.com/summary_plantstudio.html) - *Plant Model / Illustration Creator* 
@@ -114,7 +117,7 @@
 
 ***
 
-## ▷  GIF Makers 
+## ▷ GIF Makers 
 
 * **[Awesome GIF](https://github.com/davisonio/awesome-gif)** - *GIF Resource Index*
 * [Giphy](https://giphy.com/) / [Search](https://marcosmarp.github.io/GIFinder/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/) or [Animated Images](https://www.animatedimages.org/) - *Find & Download GIFs* 
@@ -128,7 +131,8 @@
 * [GifPrint](http://gifprint.com/) - *Turn GIFs Into Flipbooks* 
 * [FlagWaver](https://krikienoid.github.io/flagwaver/) - *Create Moving Flag GIFs*
 * [Gifski](https://gif.ski/) - *GIF Encoder*
-* [Among-Us-Dumpy-Gif-Maker](https://dumpy.t1c.dev/) - *Make Dumpy Among us GIFS / [GitHub](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)*
+* [Among-Us-Dumpy-Gif-Maker](https://dumpy.t1c.dev/) - *Make Dumpy Among us GIFs / [GitHub](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)*
+* [Crisp GIF Guide](https://imgur.com/gallery/02aYs) - *How-To Make 60 FPS GIFs*
 
 ***
 
@@ -213,7 +217,7 @@
 
 ***
 
-## ▷  3D Models
+## ▷ 3D Models
 
 * [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_models) - *3D Model Download Sites*
 * [Anaglyph Maker](https://www.stereoeye.jp/software/index_e.html) - *Make 3D Images*
@@ -240,6 +244,7 @@
 # ► Image Tools
 
 * [WebOasis Editors](https://weboas.is/editors/), [Hotot](https://hotpot.ai/), [RedKetchup](https://redketchup.io/), [Img2Go](https://www.img2go.com/), [BrandFolder](https://brandfolder.com/workbench-suite) or [FastStone](https://www.faststone.org/index.htm) - *Multiple Image Tools*
+* [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - *Art & Animation Resource Index*
 * [Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes) - *Color Scheme / Palette Tools*
 * [ImgOps](https://imgops.com/) - *Image Operations Meta-Tool*
 * [Color Schemes / Palettes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes/) - *Color Scheme / Palette Tools*
