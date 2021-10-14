@@ -17,6 +17,7 @@
 * **[Tokybook](https://tokybook.com/)** - *Listen Online*
 * **[Top 1,000 Audiobooks](https://mega.nz/folder/yvoQTKCL#cHzM6YY3JU3b65OzxecnmA)** - *Audiobooks / Drive*
 * [Audiobook Drive](https://drive.google.com/drive/folders/1IsJTH4ElUg4fjngDNUlM1KPFmpfD_tl9) - *Audiobooks / Drive* 
+* [BlackPhoenix James Durden](https://mega.nz/folder/AZAhjSaL#3wzdEx3nPgzzVdVEqVc8nA) - *Audiobooks / Drive*
 * [HotAudiobooks](https://hotaudiobooks.com) - *Listen Online* 
 * [Audiobooks For Soul](https://audiobookforsoul.net/) - *Listen Online*
 * [HDAudiobook](https://hdaudiobook.com/) - *Listen Online*
@@ -71,6 +72,7 @@
 * [ebook3000.co](https://www.ebook3000.co/) - *Books / Magazines / NSFW*
 * [29GB Mega Folder](https://mega.nz/folder/x4VG3DRL#lqecF4q2ywojGLE0O8cu4A) - *Books* 
 * [just a digital library](https://drive.google.com/drive/folders/1iQMdq5yK0EBqa1fgkmQTfW7EWSeJWYvT) - *Books*
+* [BlackPhoenix James Durden](https://mega.nz/folder/AZAhjSaL#3wzdEx3nPgzzVdVEqVc8nA) - *Books*
 * [Nikola](https://mega.nz/folder/flYQGbzI#p1AFjtMuCLHQqocJqxV7rg) - *Books*
 * [bitdl 1](http://s1.bitdl.ir/), [2](http://s2.bitdl.ir/), [3](http://s3.bitdl.ir/), [4](http://s4.bitdl.ir/), [5](http://s5.bitdl.ir/), [7](http://s7.bitdl.ir/), [8](http://s8.bitdl.ir/), [9](http://s9.bitdl.ir/), [10](http://s10.bitdl.ir/), [11](http://s11.bitdl.ir/), [13](http://s13.bitdl.ir/), [14](http://s14.bitdl.ir/) - *Books*
 * [Books.cat](https://books.cat/) - *Books  / Forum / Requests* 
@@ -797,7 +799,7 @@
 * [LeagueOfComicGeeks](https://leagueofcomicgeeks.com/), [Cover](http://www.frenchfrysoftware.com/cover/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - *Reader / Manager*
 * [MComix](https://sourceforge.net/p/mcomix/wiki/Home/) - *Reader*
 * [gazee](https://hub.docker.com/r/linuxserver/gazee/) or [Komikku](https://gitlab.com/valos/Komikku) - *Reader / Manager  / Linux*
-* [Tachiyomi](https://tachiyomi.org/), [TheComicsLibrary](https://github.com/FabioPezzini/TheComicsLibrary) or [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - *Manager / Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / Android* 
+* [Tachiyomi](https://tachiyomi.org/), [TheComicsLibrary](https://github.com/FabioPezzini/TheComicsLibrary), [Bubble](https://f-droid.org/en/packages/com.nkanaev.comics/) or [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - *Manager / Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / Android* 
 * [ComicFlow](https://github.com/swisspol/ComicFlow) - *Manager / Reader / iOS*
 * [CrossFace](https://crossface.cf/manga-reader/) or [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Browser Comic Reader*
 * [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - *Online Reader*
@@ -941,6 +943,7 @@
 * [LNWNCentral](https://lnwncentral.wordpress.com/) 
 * [NovelOnlineFull](https://novelonlinefull.com/)
 * [BestLightNovel](https://bestlightnovel.com/)
+* [Octiopii](https://octopii.co/)
 * [LightNovelPDF](https://lightnovelpdf.com/)
 * [AsianHobbyist](https://www.asianhobbyist.com/)
 * [DaoNovel](https://daonovel.com/)
@@ -997,6 +1000,7 @@
 * [MagDownload](https://magdownload.org/) 
 * [Retromags](https://www.retromags.com/) - *Retro Game Magazines* 
 * [PC Zone](http://pixsoriginadventures.co.uk/PCZone/) - *PC Zone Magazines*
+* [CGW Museum](http://www.cgwmuseum.org/) - *Computer Gaming World Magazines*
 * [Atari Magazines](https://www.atarimagazines.com/) - *Classic Computer Magazine Archive* 
 * [HomePower](https://www.homepower.com/archive-browse ) - *Home Power Magazines*
 * [Archive Fashion for the World](https://www.archivepdf.net/) - *Fashion Magazine Archive* 
