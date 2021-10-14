@@ -263,7 +263,7 @@
 * **[AniMixPlay](https://animixplay.to/)** - *Sub / Dub / [Discord](https://discord.gg/YyQ9cpS)* 
 * **[AnimeTribes](https://animetribes.ru/)** - *Sub* 
 * **[AnimeKisa](https://animekisa.tv/)** - *Sub / Dub*
-* [AnimePahe](https://animepahe.com/) - *Sub / [Downloader](https://github.com/charathmathew/animepahe_downloader), [2](https://github.com/ed-archer/animepahe-dlr)*
+* [AnimePahe](https://animepahe.com/) - *Sub / [Downloader](https://github.com/charathmathew/animepahe_downloader), [2](https://github.com/ed-archer/animepahe-dlr), [3](https://github.com/notmarek/pyheanime)*
 * [AniKuru](https://anikuru.me/) - *Sub / Dub / [Discord](https://discord.gg/NyqG59cfhV)*
 * [AnimehHub](https://animehub.ac/) - *Sub / Dub*
 * [Animesa](https://animesa.ga/) - *Sub / Dub*
@@ -299,10 +299,11 @@
 * [Animeow.me](https://animeow.me/) - *Sub / Dub* 
 * [Anime OWL](https://animeowl.net/home/) - *Sub / Dub*
 * [NetAnime](https://netanime.tv/) - *Sub / Dub* 
+* [AnimeTV](https://animetv.cc/) - *Sub / Dub*
 * [tenshi.moe](https://tenshi.moe/) - *Sub / Dub* 
 * [AnimeGuru](https://www.animeguru.net/) - *Sub / Dub*
 * [GoAnimeList](https://goanimelist.me/) - *Sub / Dub*
-* [GoGoAnime](https://gogoanime.pe/) - *Sub / Dub / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin)*
+* [GoGoAnime](https://gogoanime.pe/) - *Sub / Dub / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime)*
 * [AnimeFrenzy](https://animefrenzy.org/) - *Sub* 
 * [AnimeXin](https://animexin.info/) - *Sub*
 * [AnimeSuge](https://animesuge.io/) - *Sub / Dub* 
@@ -532,6 +533,7 @@
 * [FilmyZilla](https://filmyzilla.fit/category/latest-hollywood-english-movies.html) - *Movies*
 * [7StarHD](https://7starhd.cards/category/hollywood/) - *Movies / TV*
 * [LatestMovie4U](https://latestmovie4u.com/) - *Movies / TV / Anime* 
+* [PrivateMoviez](https://privatemoviez.cc/) - *Movies / TV / Anime*
 * [CoolMovieZone](https://coolmoviezone.lat/) - *Movies*
 * [VegaMovies](https://vegamovies.bar/category/english/) - *Movies*
 * [Subroz](https://subroz.live/0:/) - *Movies / TV*
@@ -576,6 +578,7 @@
 * [87.89.227.77](http://87.89.227.77/) - *Movies / TV*
 * [124.29.199.194](http://124.29.199.194/data2/) - *Movies*
 * [185.165.242.204](http://185.165.242.204/Media/Movies/) - *Movies*
+* [103.132.187.18](http://103.132.187.18/Data/) - *Movies / TV*
 * [162.12.215.254](http://162.12.215.254/Data/Movies/) - *Movies*
 * [124.29.199.194](http://124.29.199.194/) - *Movies*
 * [s27.BitDL.ir](http://s27.bitdl.ir/) - *Movies / TV*
@@ -696,7 +699,7 @@ https://greasyfork.org/en/scripts/407284-imdb-scout-mod
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - *Get a VPN before torrenting*
 * **[Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)**
 * **[Nyaa](https://nyaa.si/)**, [2](http://nyaa.iss.one/), [3](http://meowinjapanese.cf/) - *Sub / Dub*
-* **Nyaa Tools** - [TUI Client](https://github.com/irevenko/koneko) / [CLI Client](https://github.com/natanbc/nyaasi) / [Telegram Bot](https://github.com/ejnshtein/nyaasi-bot) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy)
+* **Nyaa Tools** - [TUI](https://github.com/irevenko/koneko) / [CLI](https://github.com/natanbc/nyaasi) / [Telegram Bot](https://github.com/ejnshtein/nyaasi-bot) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy) / [Torrent Fetch](https://github.com/manintel/nyaabag) / [Downloader](https://github.com/marcpinet/batch-downloader-nyaa.si/)
 * **[Anidex](https://anidex.info/)** - *Sub / Dub*
 * **[Hi10Anime](https://hi10anime.com/)** - *Sub*
 * **[SubsPlease](https://subsplease.org/)** - *Sub*
