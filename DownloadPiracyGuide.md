@@ -269,6 +269,7 @@
 
 ## ▷ Mac Software
 
+* [The Macintosh Archives](http://mirror.macintosharchive.org/)
 * [Macintosh Garden](http://macintoshgarden.org/) 
 * [nMac](https://nmac.to/) 
 * [MacDrop](https://macdrop.net/) 
@@ -379,7 +380,7 @@
 
 # ► File Leeches 
 
-* **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)**
+* **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)** or [LeechVIP](http://leechvip.net/) - *Leech Lists*
 * [@Transload (telegram)](https://t.me/transload)
 * [@deltaleechbot (teelgram)](https://t.me/deltaleechbot) 
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - *Send Premium Files to Leeches*
