@@ -283,6 +283,7 @@
 * [RS Lookup](http://rslookup.com/) - *Check if your RuneScape data has been breached* 
 * [Canarytokens](https://canarytokens.org/generate) - *Network Breach Check* 
 * [JustGetMyData](https://justgetmydata.com/) - *Links to Obtain Your Data from Websites* 
+* [PrivacyTests](https://privacytests.org/) - *Web Browser Privacy Tests*
 * [Privacy Score](https://privacyscore.org/) - *Website Privacy Score Rankings*
 * [TrackingTheTrackers](https://trackingthetrackers.com/) - *Check if a website is disguising third-party trackers as first-party trackers*
 * [LMT Anti-Logger ](https://leminhthanh.me/antilogger/) - *Anti-Loggers (e.g. Keyloggers)*
@@ -436,7 +437,7 @@
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
 * [VPNGate](https://www.vpngate.net/en/) - *Free VPN Relay Servers*
 * [OpenVPN](https://openvpn.net/) - *VPN Tunnel / [Linux](https://github.com/slingamn/namespaced-openvpn) / [Mac](https://tunnelblick.net/)* 
-* [RaceVPN](https://www.racevpn.com/), [CyberSSH](https://cyberssh.com/vpn/config), [Free OpenVPN](https://freeopenvpn.org/), [sshmonth](https://www.sshmonth.com/), [VPNJanit](https://www.vpnjantit.com/), [PisoVPN](https://pisovpn.com) or [LionSSH](https://www.lionssh.com/) - *Free VPN Configs*
+* [Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs) - *Free VPN Tunnel Configs*
 * [Gluetun](https://github.com/qdm12/gluetun) - *Tunnel your Docker containers through a VPN*
 * [PiVPN](https://pivpn.io/) - *Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)* 
 * [Enterprise](https://pritunl.com/) - *VPN Server* 
