@@ -188,6 +188,7 @@
 * [MP3Jam](https://www.mp3jam.org/) - *MP3*
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - *Music Download Tool* 
 * [RipMe](https://github.com/RipMeApp/ripme) - *Bulk Album Downloader*  
+* [Syncify](https://github.com/FindMalek/Syncify) - *Spotify Playlist Downloader*
 * [Spytify](https://jwallet.github.io/spy-spotify/overview.html) or [spy-spotify](https://github.com/jwallet/spy-spotify) - *Record / Download Spotify Songs*
 * [Savify](https://github.com/LaurenceRawlings/savify), [spotify-downloader](https://github.com/rickyrorton/spotify-downloader/), [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) or [spotDL](https://github.com/spotDL/spotify-downloader) - *Download Spotify Songs via YouTube* 
 * [Deezer2DriveBot](https://t.me/deezer2drivebot) - *Deezer & Qobuz to GDrive Bot*
@@ -234,6 +235,7 @@
 * [musify](https://musify.club/) - *MP3*
 * [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - *MP3*
 * [Music for the masses !](https://redd.it/nt7fea) - *MP3*
+* [Moe:81](http://miya.nipah.moe:81/public/music/) - *MP3 / FLAC*
 * [geedryve](http://jacobsm.com/geedryve/records/mp3s/) - *MP3* 
 * [Music Library](https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7) - *MP3*
 * [109.120.203.163](http://109.120.203.163/Music/) - *MP3*
@@ -283,6 +285,7 @@
 * [EDMBoost](https://edmboost.org/) - *Electronic / MP3*
 * [EDMWaves](https://edmwaves.org/) - *Electronic / MP3*
 * [MusicFans](https://musicfans.space/) - *Electronic / MP3*
+* [ElectronicFresh](http://electronicfresh.com/) - *Electronic / MP3*
 * [DQQD](https://dqqd.org/) - *Electronic / MP3 / FLAC*
 * [1Trance](https://1trance.org/) - *Trance / MP3*
 * [1Techno](https://1techno.org/) - *Techno / MP3*
