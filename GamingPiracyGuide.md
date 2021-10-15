@@ -71,6 +71,7 @@
 * [awesome-ttygames](https://ligurio.github.io/awesome-ttygames/) - *ASCII Terminal Games* 
 * [Misc Windows](https://drive.google.com/drive/folders/15QKzyr1Oxddh7CLjVWkD06Sxm6E2YGHm) - *Classic Windows XP Games*
 * [RPG Maker Games](https://rpgmaker.net/games/?name_filter=&engine=&status=&rating=&commercial=exclude&sort=&portal=None) - *Games made via RPG Maker*
+* [VGPErson](https://vgperson.com/games/) - *Japanese Translated Freeware Games*
 * [VRPirates](https://t.me/vrpirates) - *VR Games & Guides / [Discord](https://discord.gg/D9rs7TM)*
 * [Macgamefiles](http://www.macgamefiles.com/) - *Mac Games*
 * [de.linuxgame.cn](https://de.linuxgame.cn/) - *Linux Games* 
@@ -219,6 +220,7 @@
 * [Sega CD Champion Collection](https://archive.org/details/SegaCDCollection) - *Roms / Sega CD*
 * [3DO Roms](https://archive.org/details/3DO_2017_Reference_Set_Redump_Validated_ROMs), [2](https://archive.org/details/Panasonic-3DO-Redump.org-2019-05-14) - *Roms / 3DO*
 * [datcheck](https://github.com/pkos/datcheck) - *Compare No-Intro / Redump dat files to rom or disc collection* 
+* [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - *Gamecube iso.dec to ISO Converter / [MacOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip)*
 * [HiddenPalace](https://hiddenpalace.org/) - *Game Development Media Archive*
 * [Xbox Collection](https://archive.org/details/xboxcds?sort=-downloads) or [Xbox_Eng_Romset](https://archive.org/details/xbox_eng_romset) - *CD Roms / Xbox / DDL / Torrents*
 
@@ -458,7 +460,6 @@
 * [Fishington](https://fishington.io/) - *Multiplayer Fishing Game*
 * [Too Many Chefs](https://www.toomanychefs.party/) - *Text-Based Coop Cooking Game* 
 * [Haxball](https://www.haxball.com/) - *Physics Based Multiplayer Soccer*
-* [skribbl](https://skribbl.io/) or [Gartic](https://gartic.io/) - *Drawing / Guessing Game / Multiplayer*
 * [Powerline.io](http://powerline.io/) or [Games 1729](https://www.games1729.com/serpentron/) - *Multiplayer Snake*
 * [RoboStorm](https://robostorm.io/) - *Robot Battle Game* 
 * [GPRO](https://www.gpro.net/gb/gpro.asp) - *Multiplayer F1 Manager Game*
@@ -542,7 +543,7 @@
 
 ## ▷ Guessing Games
 
-* [skribbl](https://skribbl.io/) or [Gartic](https://gartic.io/) - *Drawing / Guessing Game / Multiplayer*
+* [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) - *Drawing / Guessing Game / Multiplayer*
 * [GuessMe!](https://cer0zz.itch.io/guessme) - *Guess Answers*
 * [GeoGuessr](https://www.geoguessr.com/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - *Location Guessing Game / [Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) / [Twitch Chat Bot](https://chatguessr.com/)*
 * [City Guesser](https://virtualvacation.us/guess) - *City Guessing Game* 
@@ -568,6 +569,7 @@
 * [Tyrone's Unblocked Games](https://sites.google.com/site/tyronesgameshack) - *Browser Games / [Discord](https://discord.gg/Z55yjBz)*
 * [The Flash Emulation Repair Shop](https://archive.org/details/flash_repair_shop) - *Flash Games Under Repair*
 * [Arcade Prehacks](http://www.arcadeprehacks.com/) or [SamsHackedGames](https://www.samshackedgames.com/) - *Hacked Flash Games* 
+* [How-To Play Flash Games](https://rentry.co/oc4wc) - *Browser Flash Game Tutorial*
 * To Play Shockwave Games Install [Adobe Shockwave](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html) & [K-Meleon Browser](http://kmeleonbrowser.org/)
 
 ***
