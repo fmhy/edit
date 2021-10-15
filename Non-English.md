@@ -100,9 +100,11 @@
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io) or [OilAndFish](https://www.oilandfish.com/) - *Bypass Chinese Firewall*  
 * [Dict.Baidu](https://dict.baidu.com/) - *Chinese Word, Idiom & Poem Search*
-* [taioan](https://ji.taioan.org/) - *Chinese Spell Check*
+* [SeiWatei](https://www.seiwatei.net/) - *Chinese Learning Tools*
 * [Oh.Taigi](https://oh.taigi.info/) - *Chinese Taiwanese Learning Tools*
+* [taioan](https://ji.taioan.org/) - *Chinese Spell Check*
 * [ICIBA](http://www.iciba.com/) or  [YouDao](https://fanyi.youdao.com/) - *Chinese Translator / [Client](http://cp.iciba.com/)*
+* [Shufazidian](http://www.shufazidian.com/) - *Chinese Calligraphy Dictionary*
 * [itaigi](https://itaigi.tw/) - *Chinese to Taiwanese Translator*
 
 ## ▷ Downloading
@@ -191,6 +193,11 @@
 * [CText](https://ctext.org/), [ChineseNotes](http://chinesenotes.com/) or [Kanripo](https://www.kanripo.org/) - *Chinese Historic Text Archive*
 * [guoxue](http://www.guoxue.com/) - *History / Journals*
 * [Moedict](https://www.moedict.tw/) - *Chinese Dictionary*
+* [kangxizidian](https://kangxizidian.com/) - *Chinese Kangxi Dictionary*
+* [ZDic](https://www.zdic.net/) - *Chinese Dictionary*
+* [CCams](http://www.ccamc.co/) - *Chinese Character Search*
+* [CBeta](http://www.cbeta.org/) - *Chinese Buddhist Scriptures*
+* [21dzk](https://21dzk.l.u-tokyo.ac.jp/SAT/index.html) - *Chinese Buddhist Scriptures*
 
 ***
 
@@ -231,6 +238,7 @@
 * [Pinoy Movies Hub](https://pinoymovieshub.de/), [2](https://pinoymovieshub.su/) - *Stream / Movies*
 * [PinoyMovies](https://pinoymovies.ch/), [2](https://pinoymovies.es/) - *Stream / Movies* 
 * [Pinoymoviepedia](https://pinoymoviepedia.ru/) - *Movies*
+* [Pinoy5Movies](https://pinoy5movies.net/) - *Movies*
 
 ***
 
@@ -433,6 +441,7 @@
 * [BDmusic](https://bdmusic23.bid/) - *Movies / TV*
 * [mkvCinemas](https://www.mkvcinemas.pm/) - *Movies / TV*
 * [MKV Mad](https://www.mkvmad.pro/) - *Movies / TV *
+* [WorldFree4U](https://worldfree4u.quest/) - *Movies / TV*
 * [KatMovieHD](https://katmoviehd.se/) - *Movies / TV*
 * [UncutHD](https://www.uncuthd.one/) - *Movies*
 * [MoviesVerse](https://t.me/MoviesHomeOFFICIALS) - *Movies / TV / Telegram* 
@@ -668,6 +677,7 @@
 
 ## ▷ Reading
 
+* [HF.UIO](https://www2.hf.uio.no/) - *Books*
 * [Nasjonalbiblioteket](https://www.nb.no/english/the-digitizing-process) - *Books*
 
 ***
