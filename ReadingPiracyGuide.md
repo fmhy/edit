@@ -363,6 +363,7 @@
 * [Astrum Argenteum](http://www.astrumargenteum.org/en/library/) - *Occult*
 * [Occult and Magick Guides](https://drive.google.com/drive/folders/0B7ROOiTZu5cKTjVUMWlLOWhtUjQ) - *Occult* 
 * [Azrk's library](https://www.mediafire.com/folder/z7x8kec9jidn2/Occult) - *Occult / Esoterica / Satanism / Religion / Ect.* 
+* [Rosicrucian Esotericism Lecture](https://wn.rsarchive.org/GA/GA0109/19090603p01.html) - *Rosicrucian Esotericism*
 * [Spirituality Megadrive](https://mega.nz/#F!kd9h1A6Y!1waeMtxUpksB9eQsws0Zcg) 
 * [IAPSOP](http://iapsop.com/) - *Spiritualist / Occult Periodicals* 
 * [Mythology.net](https://mythology.net/) - *Mythology / Religion*
@@ -396,6 +397,8 @@
 * [Questions on Islam](https://questionsonislam.com/) - *Islam Q&A*
 * [84000](https://read.84000.co/) - *Buddhism*
 * [BuddhaNet](http://www.buddhanet.net/) - *Buddhism*
+* [dazangthings](https://dazangthings.nz/) - *Buddhist Text Analysis Repository*
+* [Buddhism Dictionary](http://www.buddhism-dict.net/ddb/) - *Buddhist Dictionary*
 * [Sankaracharya](http://www.sankaracharya.org/index.php) - *Hinduism*
 * [Vedanta Shastras](https://www.shastras.com/) - *Hinduism*
 * [Jainism Library of Jain Literature](http://www.atmadharma.com/index.html) - *Sacred Texts / Religion / Multi Language*
@@ -429,6 +432,7 @@
 * [NATSIG Resources](https://mega.nz/#F!ZuZmiBqZ!XhyEetUaj6an8ntb-U1AZw) - *Survival / Bushcraft / Welding / Blacksmithing / German Books / Mythology / Drive* 
 * [Third World Traveler](https://thirdworldtraveler.com/) - *Human Rights / Conspiracies / Anti-War*
 * [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U), [selfhelpbooklab](https://t.me/selfhelpbooklab), [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - *Self-Help*
+* [Websleuths](https://www.websleuths.com/) - *Crime Solving Forum*
 * [QSL](https://www.qsl.net/w/w7lk/misc%20pdf%20files/) - *Ham Radio & Antenna Books* 
 * [Erowid](https://www.erowid.org/) - *Psychoactive Information Index*
 * [The-Eye Psychedelics](https://the-eye.eu/public/Psychedelics/Psychedelic%20Praxis%20Library%203.0/) - *Psychedelics*
@@ -915,7 +919,8 @@
 * [MangaEditor](https://moeka.me/mangaEditor/) - *Online Manga Editor*
 * [Anity](https://redd.it/g372gu), [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en) or [Scanlate](https://scanlate.io/) - *Manga Translator*
 * [/r/MangaPiracy](https://reddit.com/r/MangaPiracy) - *Manga Piracy Subreddit / [Discord](https://discord.gg/pu66ZcNTrT)*
-* [Tenma](https://github.com/Tenma-Server/Tenma) or [Komga](https://komga.org/) - *Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)*
+* [Tenma](https://github.com/Tenma-Server/Tenma), [Mango](https://github.com/hkalexling/Mango) or [Komga](https://komga.org/) - *Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)*
+* [Onodera](https://github.com/onoderaproject/onodera) - *Anime & Manga Database*
 
 ***
 
@@ -988,6 +993,7 @@
 * [PDF Magaz](https://www.pdfmagaz.in/)
 * [eBook3000](http://www.ebook3000.com/Magazine/index.html)
 * [MagzDB](http://magzdb.org/)
+* [FreePDFMagazine](https://www.freepdfmagazine.com/)
 * [freemagazines](https://freemagazines.top/)
 * [MagFree](https://magfree.net/)
 * [FreeMagazinesPDF](https://freemagazinepdf.com/)
