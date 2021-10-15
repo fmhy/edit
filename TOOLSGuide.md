@@ -74,6 +74,7 @@
 * [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit) - *Presentation Utility / Zoom Tool*
 * [Slides](http://maaslalani.com/slides/) - *Terminal Presentation Tool / [GitHub](https://github.com/maaslalani/slides)*
 * [SlidesGo](https://slidesgo.com/), [SlideShareDownloader](https://slidesharedownloader.ngelmat.net/), [PresentationGO](https://www.presentationgo.com/), [ensa.io](https://ensa.io/) or [ThePOPP](https://thepopp.com/) - *Presentation Templates* 
+* [TemplateMaker](https://www.templatemaker.nl/ ) - *Package & Box Templates*
 * [QR Tiger](https://www.qrcode-tiger.com/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - *QR Code Generator* 
 * [QRpicture](https://www.qrpicture.com/) - *Picture to QR Code Converter* 
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - *Online Appraisals*
@@ -242,7 +243,7 @@
 * [StreamLink](https://streamlink.github.io/) - *Extract Videos from Sites to Players* 
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - *Nico Nico Video Player*
 * [polsy.org.uk](http://polsy.org.uk/) - *Alt Players for Video Sites*  
-* [Mixkit](https://mixkit.co/), [Coverr](http://coverr.co/), [Elements](https://elements.envato.com/) or [Mazwai](https://mazwai.com/) - *Stock Videos / Templates* 
+* [Mixkit](https://mixkit.co/), [Coverr](http://coverr.co/), [Elements](https://elements.envato.com/), [Videvo](https://www.videvo.net/) or [Mazwai](https://mazwai.com/) - *Stock Videos / Templates* 
 * [ShareAE](https://www.shareae.com/), [HunterAE](https://hunterae.com/), [AEShares](https://aeshares.com/), [AERiver](https://aeriver.com/), [CGNullded](https://cgnulled.com/), [Intro HD](https://intro-hd.net/) or [DownAE](https://downae.com/) - *After Effects Templates*
 * [video2x](https://github.com/k4yt3x/video2x) - *Video Upscaler*
 * [Anime4K](https://github.com/bloc97/Anime4K) - *Anime Video Upscaler* 
@@ -401,6 +402,7 @@
 * [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) - *Successful Resume Samples*
 * [CoFolios](https://cofolios.com/) - *Portfolio Sharing*
 * [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) - *Common Interview Questions & Answers*
+* [JustLanded](https://www.justlanded.com/) - *Working & Living Abroad Guides*
 * [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - *Online Working Subreddit*
 * [/r/freelance](https://www.reddit.com/r/freelance/) - *Freelance Subreddit*
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - *Design Job Subreddit*
@@ -485,6 +487,7 @@
 * [Rose](https://t.me/MissRose_bot) - *Telegram Group Manager*
 * [TGCF](https://github.com/aahnik/tgcf) - *Telegram Message Forwarding*
 * [Userge](http://theuserge.tech/) - *Multi-Tool Telegram Bot*
+* [ChecklyBot](https://t.me/checklybot) - *Checklist Telegram Bot*
 * [Matrix Public Homeservers](https://publiclist.anchel.nl/) or [Conduit](https://gitlab.com/famedly/conduit) - *Matrix Home Servers* 
 * [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) - *Matrix Server List*
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
@@ -928,7 +931,7 @@ General Reading Sites*
 * [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube), [ImprovedTube](https://github.com/code4charity/YouTube-Extension/) or [Magic Actions for YouTube](https://www.mycinema.pro/) - *Multiple YouTube Features* 
 * [YouTube Redux](https://redd.it/jvg4mf) or [Classic YouTube Design](https://github.com/Cicero-Interactive/Classic-YouTube-Design/) - *Restore Classic YouTube Layout* 
 * [YouTube Real Cinema Mode](https://userstyles.org/styles/122032/youtube-real-cinema-mode) - *Improved YouTube Cinema Mode*
-* [NSFW Youtube](https://www.nsfwyoutube.com) or [Simple YouTube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - *Bypass YouTube Age Restriction*
+* [NSFW Youtube](https://www.nsfwyoutube.com) or [Simple YouTube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - *Bypass YouTube Age Restriction*
 * [YouTube RSS Finder](https://github.com/teddy-gustiaux/youtube-rss-finder) - *Create YouTube RSS Feeds* 
 * [PocketTube](https://yousub.info/) - *YouTube Subscription Manager / Organizer* 
 * [FreshTube](https://porjo.github.io/freshtube/) - *Display Latest Video from Subscriptions* 
@@ -936,6 +939,7 @@ General Reading Sites*
 * [TubeArchivist](https://www.tubearchivist.com/) - *Archival Youtube Media Server / [GitHub](https://github.com/bbilly1/tubearchivist)*
 * [Astronaut.io](http://astronaut.io/), [Incognitube](https://www.incognitube.com/) or [Petit tube](http://www.petittube.com/) - *YouTube Vids with -100 views* 
 * [YouTube-Geofind](https://mattw.io/youtube-geofind/location) - *Find Geotagged Videos* 
+* [Default Filename](https://default-filename-tv.neocities.org/) - *Random Default Filename YouTube Videos*
 * [Unlisted Videos](https://unlistedvideos.com/) - *Watch / Submit Unlisted YouTube Videos*
 * [QuiteAPlaylist](https://quiteaplaylist.com/) - *Find Deleted YouTube Videos*
 * [youtubecrawl](https://archive.org/details/youtubecrawl) - *YouTube Video Archive*  
@@ -1114,6 +1118,7 @@ General Reading Sites*
 * [balenaEtcher](https://balena.io/etcher) - *Flash OS Image SD / USB*
 * [InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB) - *Install Windows without USB*
 * [NTLite](https://www.ntlite.com/) - *Windows Image Installation Manager*
+* [MSMG Toolkit](https://msmgtoolkit.in/?i=1) - *Custom ISO Creator*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - *Preinstallation Environment* 
 * [CD Key Reader](http://www.cathonian.com/software/cd-keyreader/) - *Find Key used to Install Windows*
@@ -1146,7 +1151,7 @@ General Reading Sites*
 * [Nvidia-Patch](https://github.com/keylase/nvidia-patch) - *NVENC & NvFBC Patches*
 * [Disk Usage Analyzers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_disk_usage_analyzers) - *View & Manage Files on Disk*
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - *Disk Benchmarking Tool*
-* [MyFavoriteGadgets](https://www.myfavoritegadgets.info/) or [WinBar](http://www.winbar.nl/) - *System Monitor*
+* [MyFavoriteGadgets](https://www.myfavoritegadgets.info/), [btop](https://github.com/aristocratos/btop) or [WinBar](http://www.winbar.nl/) - *System Monitor*
 * [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - *Windows System Utilities* 
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](http://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - *Process Monitor*
 * [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) - *Process Killer*
@@ -1547,11 +1552,13 @@ General Reading Sites*
 * [USBMap](https://github.com/corpnewt/USBMap) - *Map MacOS USB Ports*
 * [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
 * [Pictogram](https://pictogramapp.com/) - *Custom Mac App Icons*
+* [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - *MacOS Dynamic Wallpaper App*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old MacOS ISOs*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
 * [NHCalc](https://github.com/KhaosT/nhcalc) - *Compute Image NeuralHash*
 * [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - *Convert NeuralHash for CSAM Detection to ONNX / [Collision Finder](https://github.com/anishathalye/neural-hash-collider)*
 * [Is Apple Silicon ready?](https://isapplesiliconready.com/) - *M1 App Compatibility Chart*
+* [Adobe Zii](https://www.reddit.com/r/AdobeZii/ ) - *Adobe Software Patcher*
 
 ***
 
