@@ -148,6 +148,7 @@
 * [HollyMovieHD](https://hollymoviehd.cc/) or [NovaMovie](https://novamovie.net/) - *Movies / TV / Anime*
 * [YMovies](https://ymovies.vip/) - *Movies / TV / Anime*
 * [5Movies.pw](https://5movies.pw/) - *Movies / TV / Anime*
+* [FilarMovies](https://filarmovies.com/) - *Movies / TV*
 * [Put-Locker](https://ww1.put-locker.com/) or [123moviesc](https://www.123moviesc.co/) - *Movies / TV / Anime* 
 * [Cinehub](https://cinehub.wtf/) - *Movies / TV / [Discord](https://discord.com/invite/ZqHsfSEkBE)* 
 * [Flenix](https://flenix.net/) - *Movies / TV / Anime* 
@@ -379,6 +380,7 @@
 * [Time4TV](http://time4tv.stream/) - *TV / Sports*
 * [CXtv](http://www.cxtvlive.com/) - *TV / Sports*
 * [USTV247](https://ustv247.tv/) - *TV / Sports*
+* [ProLive](https://prolive.tv/) - *TV / Sports*
 * [FreeInterTV](http://www.freeintertv.com/) - *TV / Sports*
 * [Stream4Free Live](https://www.stream4free.live/) - *TV / Sports*
 * [vipotv](http://vipotv.com/) - *TV / Sports*
@@ -585,6 +587,7 @@
 * [torrenttempdrive 2](https://torrenttempdrive.hashhackers.com/2:/) - *Movies / TV*
 * [Easy-Movie](https://easy-movie.com.au/cdn/) - *Movies* 
 * [sv.dcnm.ir](https://sv.dcnm.ir/Serial/Foreign/) - *TV* 
+* [wenubgang](https://groups.google.com/g/wenubgang) - *TV / Anime*
 * [ir2.papionvod.ir](https://ir2.papionvod.ir/Media/) - *TV*
 * [144.217.177.36](http://144.217.177.36:4742/Series/) - *TV*
 * [مسلسلات اجنبية‬‎](https://drive.google.com/drive/folders/0B19OoIC31UN0eUE4OERjSXYxcUE) - *TV*
@@ -616,6 +619,7 @@
 * [SSAnime](https://ssanime.ga/) - *Sub*
 * [Kayoanime](https://kayoanime.com/) - *Sub / Dub / [Telegram](https://t.me/Kayoanime)*
 * [Mix Bag of Anime](https://redd.it/nsa8yg) - *Sub / Dub*
+* [ANIME___](https://storage.kanzaki.ru/ANIME___/) - *Sub*
 * [Anime Collection (3Tb)](https://drive.google.com/drive/folders/1nQ73oKeE5b50lzyDeszmdLv6rjYFolk5?usp=sharing) - *Sub / Dub / Drive*
 * [Erai-Raws](https://www.erai-raws.info/) - *Sub / [Discord](https://discord.gg/2PfWaar)*
 * [Anime Devil](https://animedevil.com/) - *Sub / Dub / [Telegram](https://groups.google.com/g/animedevil)*
