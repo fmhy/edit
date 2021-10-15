@@ -134,11 +134,12 @@
 * [DoIt](https://github.com/dolthub/dolt) - *SQL Database* 
 * [Libraries.io](https://libraries.io/) - *Package, Framework & Tool Search*
 * [Deps.dev](https://deps.dev/) - *Open-Source Package Search*
+* [WebInstall](https://webinstall.dev/) - *Easily Install Dev Packages*
 * [Balena](https://www.balena.io/) - *Build / Manage  IoT Groups*
 * [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) - *Bug Bounty Resources*
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - *CTF Resources*
-* [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) - *API index* 
-* [Cumcord ](https://cumcord.com/) - *Discord Developer Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)*
+* [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - *API index* 
+* [Cumcord](https://cumcord.com/) - *Discord Developer Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)*
 * [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - *Integrate Services with Discord*
 * [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - *Discord Code Blocks*
 * [Discord4J](https://discord4j.com/) or [Diskord](https://diskord-dev.github.io/) / [GitHub](https://github.com/diskord-dev/diskord) - *Discord API Wrapper*
@@ -158,6 +159,7 @@
 * [Uncensorable Publishing](https://uncensorablepublishing.com/) - *Create Hard to Censor Sites*
 * [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [psddd](https://psddd.co/) or [Freebiesbug](http://freebiesbug.com/)  - *Web Design Resources*
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
+* [xWebTools](https://www.xwebtools.com/) - *Web Developer Tools*
 * [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [BulkLink](http://bulklink.org/) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization Tools*
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) - *Web Debugging Proxy App*
 * [Geekflare Tools](https://gf.dev/toolbox) - *Site Testing Tools*
@@ -170,6 +172,7 @@
 * [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/), [Username Checker](https://checkuser.org/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Username Availability Check*
 * [Pyfunceble](https://pyfunceble.github.io/#/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [DomComp](https://www.domcomp.com/) or [Domainr](https://domainr.com/) - *Domain Availability Check* 
 * [UseMe](https://useme.org/) - *Ping Website*
+* [Responsivize](https://virejdasani.github.io/Responsivize/) - *Website Responsiveness Test*
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist*
 * [Flounder](https://flounder.online/) - *Gemini Website Builder / [GitHub](https://github.com/alexwennerberg/flounder)* 
 * [GoHugo](https://gohugo.io/ ) - *Site Creator*
@@ -237,6 +240,7 @@
 * [ngrok](https://ngrok.com/) - *Introspectable Tunnels to Localhost Tools*
 * [NConfig](https://www.digitalocean.com/community/tools/nginx) - *NGINX Server Config*
 * [Visual CSS Editor](https://chrome.google.com/webstore/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - *WordPress Site Designer*
+* [Nulled Scripts](https://www.nullscripts.net/) - *Wordpress & Bulletin Board Scripts*
 * [faustjs](https://github.com/wpengine/faustjs) - *Wordpress Framework*
 * [gpldl](https://gpldl.com/), [allwpworld](https://allwpworld.com/), [pwned.space](https://pwned.space/wordpress-themes/), [wplocker](https://www.wplocker.com/), [WePlay](https://www.weaplay.com/), [freegetdownloader](https://www.freegetdownloader.com/), [crackthemes](https://www.crackthemes.com/) or [babiato](https://babiato.co/) - *Wordpress Themes*
 * [vichan](https://github.com/vichan-devel/vichan) - *Imageboard Software Package*
@@ -278,8 +282,8 @@
 * [Uiautomator2](https://github.com/openatx/uiautomator2) - *Automated App Testing*
 * [PM2](https://pm2.keymetrics.io/) - *Process Manager*
 * [React95](https://react95.io/) - *Windows 95 React Components*
-* [Previewed](https://previewed.app/) or [LS Graphics](https://www.ls.graphics/) - *App Mockups*
 * [Redex](https://fbredex.com/) - *Android Bytecode Optimizer*
+* [Previewed](https://previewed.app/), [Mockup World](https://www.mockupworld.co/) or [LS Graphics](https://www.ls.graphics/) - *App & Site Mockups*
 
 ***
 
@@ -386,6 +390,8 @@
 * [WNIX](https://gitlab.com/gokhanettin/wnix) - *UNIX-like Windows Development Environment*
 * [Sift](https://sift-tool.org/) - *grep Alternative*
 * [Edbrowse](http://edbrowse.org/) - *Command Line Editor / Browser / Mail Client*
+* [Cride](https://github.com/j8r/cride) - *Command Line Editor*
+* [YQ](https://github.com/mikefarah/yq) - *Portable YAML Processor*
 
 ***
 
