@@ -28,6 +28,7 @@
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - *Mac Image Editing Software* 
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Linux Image Editing Software* 
 * [darktable](https://www.darktable.org/) - *Virtual Lighttable & Darkroom*
+* [FreePSDvn](https://freepsdvn.com/) - *Photoshop Presets, Mockups, Templates & more*
 * [Preset.id](https://preset.id/) or [FreePreset](https://freepreset.net/) - *Adobe Lightroom Presets*
 * [GradientArt](https://gra.dient.art/) - *Gradient Editor*
 * [CanonOutsideOfAuto](http://www.canonoutsideofauto.ca/play/) - *Interactive Exposure Test* 
@@ -87,7 +88,7 @@
 # ► Image Generation
 
 * [Rough.js](https://roughjs.com/) - *Create Graphics that look Hand-Drawn*
-* [FontIcon](https://gauger.io/fonticon/)[PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [ICO Convert](https://www.icoconvert.com/), [IconsFlow](https://iconsflow.com/) or [Favic-o-Matic](https://favicomatic.com/) - *Icon Generators*
+* [FontIcon](https://gauger.io/fonticon/)[PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [ICO Convert](https://www.icoconvert.com/), [Avataaars](https://getavataaars.com/), [IconsFlow](https://iconsflow.com/) or [Favic-o-Matic](https://favicomatic.com/) - *Icon Generators*
 * [Logo Makr](https://logomakr.com/), [The Logo Wizard](https://www.thelogowizard.com/), [Logoshi](https://www.logoshi.com/) or [ACME](https://acme.com/labelmaker/) - *Logo Creator* 
 * [ArtFlow](http://artflow.ai/) - *Face / Avatar Generator*
 * [imgsli](https://imgsli.com/) - *Before & After Slider Generator*
@@ -176,7 +177,7 @@
 * **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)** - *Download Icons*
 * **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)** - *Search by Image*
 * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en), [Cute Save Button](https://github.com/Dezaimasu/cute-button) or [Download all Images](https://add0n.com/save-images.html) - *Image Download Extensions*
-* [AvaxGFX](https://www.avaxgfx.com/), [Freeject](https://www.freeject.net/), [PDFTree](https://pngtree.com/), [NitroGFX](https://nitrogfx.pro/) or [UXFree](https://www.uxfree.com/) - *GFX Design Images, Templates, Plugins, Themes & more*
+* [AvaxGFX](https://www.avaxgfx.com/), [Freeject](https://www.freeject.net/), [PDFTree](https://pngtree.com/), [ExtraGFX](http://www.extragfx.top/), [NitroGFX](https://nitrogfx.pro/) or [UXFree](https://www.uxfree.com/) - *GFX Design Images, Templates, Plugins, Themes & more*
 * [RootAbout](https://rootabout.com/) - *Archive / OpenlLibrary Reverse Image Search* 
 * [PicTriev](http://www.pictriev.com/) - *Find Look-Alike Images* 
 * [PimEyes](https://pimeyes.com/en/) - *Reverse Face Image Search* 
@@ -186,12 +187,13 @@
 * [Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Movie / TV Covers & Posters*
 * [iTunes Artwork Grabber](https://artwork.themoshcrypt.net/) or [Album Art Downloader](https://sourceforge.net/projects/album-art/) - *Album Art*
 * [CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/) or [OpenClipart](https://openclipart.org/) - *PNG Images / Clipart* 
-* [Sankaku ](https://sankaku.app/) - *Anime Images / Some NSFW / [Chrome](https://github.com/Disrc/SankakuComplexAddon)*
+* [Sankaku](https://sankaku.app/) or [ZeroChan](https://zerochan.net/) - *Anime Images / Some NSFW / [Chrome](https://github.com/Disrc/SankakuComplexAddon)*
 * [PSDGraphics](https://www.psdgraphics.com/) - *PSD Files*
 * [Artbreeder](https://artbreeder.com/) - *Image Discovery / Combining*
 * [Free Vector Sites](https://onehack.us/t/get-download-free-vectors-45-sites-to-grab-vectors/96104) - *Vector Images* 
 * [Artvee](https://artvee.com/) - *Public Domain Artwork* 
 * [/r/BLKMARKET](https://reddit.com/r/blkmarket) or [creaxy](https://www.creaxy.com/) - *Themes, Plugins, Textures & Mockups*
+* [AnthonyBoyd](https://www.anthonyboyd.graphics/) - *Mockups & Textures*
 * [Placeit](https://placeit.net/) - *Image Templates*
 * [Crello](https://crello.com/) - *Image Templates / Editor*
 * [Worldvectorlogo](https://worldvectorlogo.com/), [Brands of the World](https://www.brandsoftheworld.com/) or [Logos Download](https://logos-download.com/) - *Brand Logos*
@@ -199,7 +201,7 @@
 * [Kemono](https://kemono.party/) - *Patreon Content / Some NSFW*
 * [FanArt](https://fanart.tv/) - *Fan Made Posters / Logos* 
 * [Replacement Sky](https://replacement-sky.com/) - *Skies for Photoshop*
-* [AmbientCG](https://ambientcg.com/) - *Texture Renderings*
+* [AmbientCG](https://ambientcg.com/), [Lost and Taken](https://lostandtaken.com/) or [Texture Labs](https://texturelabs.org/) - *Texture Renders & Images*
 * [Google Photos Plus](https://github.com/anamritraj/google-photos-plus) - *Download Google Photos in Better Quality*
 * [google-images-download](https://github.com/hardikvasa/google-images-download) - *Download Images from Google Images* 
 * [googleimagerestored](https://github.com/fanfare/googleimagesrestored) - *Old Google Image Search* 
