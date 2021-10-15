@@ -175,6 +175,7 @@
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) or [Camator](https://gcamator.com/) - *Google Cam Downloads / [Telegram](https://t.me/googlecameraport)*
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - *Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)*
 * [LosesslessJpgCrop](https://github.com/k3b/LosslessJpgCrop) - *Lossless Image Cropper*
+* [background video recorder](https://play.google.com/store/apps/details?id=com.camera.secretvideorecorder) - *Record Videos in Background*
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - *Telegram Client*
 * [Uploadgram](https://github.com/Pato05/uploadgram-app) - *Telegram File Upload*
@@ -321,7 +322,7 @@ App Manager
 * [MixRoot Mods](https://t.me/Mixrootmods) - *Modded / Telegram*
 * [Android Games and Apps](https://t.me/Apps_and_Games_Android) - *Modded / Telegram*
 * [Cracked Apps](https://t.me/crackedapks) - *Modded / Telegram* 
-* [ReleaseAPK ](https://t.me/ReleaseAPK_Forum) - *Modded / Telegram*
+* [ReleaseAPK](https://t.me/ReleaseAPK_Forum) - *Modded / Telegram*
 * [DroidApks](https://t.me/DroidApks) - *Modded / Telegram*
 * [apkmod_s](https://t.me/apkmod_s) - *Modded / Telegram*  
 * [Pro App Share](https://t.me/proappshare) - *Modded / Telegram*   
@@ -336,6 +337,7 @@ App Manager
 * [Raccoon](https://raccoon.onyxbits.de/) - *Private APK Downloader*
 * [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - *CLI APK Download Tool*
 * [Blackmod](https://blackmod.net/) - *Modded Game APKs*
+* [How-To Play Free Android Cloud Games](https://rentry.co/66cc9)
 * [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - *Android Vehicle Apps*
 * [App filter](https://appfilter.net/) - *Play Store Advanced Search*
 * [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - *App Giveaway Sites*
@@ -561,7 +563,7 @@ RSS Player*
 * [EtasonATV](https://etasonatv.tihmstar.net/) - *Apple TV Jailbreaking*
 * [SHSH Host](https://shsh.host/) - *Save SHSH blobs to upgrade/downgrade iOS versions* 
 * [FutureRestore](https://github.com/tihmstar/futurerestore) - *Restore to Unsigned Firmware / [GUI](https://github.com/CoocooFroggy/FutureRestore-GUI/)*
-* [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app) or [Zebra](https://getzbra.com/) - *APT Package Manager / [Website](https://getsileo.app/)*
+* [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app), [Saily](https://github.com/SailyTeam/Saily) or [Zebra](https://getzbra.com/) - *APT Package Manager / [Website](https://getsileo.app/)*
 
 ***
 
@@ -684,7 +686,6 @@ RSS Player*
 * [Swappa](https://swappa.com/imei) - *IMEI, MEID, ESN Checker*
 * [FutureStore](https://github.com/tihmstar/futurerestore) - *SEC & Baseband Restoring Wrapper*
 * [Mildred](https://apps.apple.com/us/app/mildred/id1522800022) - *Docker Client*
-* [Adobe Zii](https://www.reddit.com/r/AdobeZii/ ) - *Adobe Software Patcher*
 
 ***
 
