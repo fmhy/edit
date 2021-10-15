@@ -29,12 +29,13 @@
 * [/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful) - *Helpful / Fun Sites Subreddit / [Randomizer](https://therandombutton.com/)*
 * [/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index) - */r/Piracy Index*
 * [/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread) - *Software Piracy Megathread*
+* [Neverland](http://www.neverland.ws/index.html) - *Piracy Index / [Links](https://rentry.co/oo9ri)* 
 * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr) - *Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)*
 * [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - *Piracy Index*
 * [Similar Sites](https://www.similarsites.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
 * [DirtyWarez](https://dirtywarez.org/) - *Ranks Sites*
 * [10 Words](https://discover.10words.io/) - *App / Tool Discovery*
-* [Neverland](http://www.neverland.ws/index.html) - *Piracy Index / [Links](https://rentry.co/oo9ri)* 
+* [Internet Redirections](https://my-little-collections.super.site/) - *Site / Tool Index*
 * [pilssken](https://pilssken.neocities.org/warez/) - *Piracy Index* 
 * [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - *Piracy Index / [Warning](https://i.imgur.com/jtT9GDB.png)*
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - *Software / Tool Index*
