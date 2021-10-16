@@ -286,7 +286,9 @@
 * [AnimeHD47](https://animehd47.com/) - *Sub / Dub*
 * [KissCartoon.info](https://kisscartoon.info/) - *Anime / Cartoons / Sub / Dub*
 * [Soul-Anime](http://ww9.soul-anime.us/) - *Sub*
+* [YugenAnime](https://yugen.to/) - *Sub / Dub*
 * [DarkAnime](https://darkanime.stream/) - *Sub*
+* [Animegg](https://www.animegg.org/) - *Sub / Dub*
 * [Kawaiifu](https://kawaiifu.com/) - *Sub / Dub*
 * [AnimeFox](https://animefox.io/) or [FlixAni](https://flixani.me/) - *Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)*
 * [AnimeHeaven](https://animeheaven.ru/) - *Sub / Dub* 
@@ -360,7 +362,7 @@
 * **[WebOas.is TV](http://streamwat.ch/)** - *TV / Sports*
 * **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - *NBA / NFL*
 * **[Jackal](https://jackal.surge.sh/)** - *TV / Sports*
-* **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [2](https://github.com/iptv-org/iptv) - *IPTV Resources / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists)*
+* **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [2](https://github.com/iptv-org/iptv) - *IPTV Resources / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists)*
 * [Black Tie Sports](https://blacktiesports.net/) - *Sports* 
 * [TOTV](http://totv.org/) - *TV / Sport*
 * [123TV](http://123tv.live/) - *TV / Sports*
@@ -567,7 +569,6 @@
 * **[50TB Mega Drive](https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ)**, [2](https://mega.nz/folder/01F2XbgA#u2Si5JL2Vd0hAd7sYU59ig) - *Movies* 
 * **[The Criterion Collection](https://mega.nz/folder/Jk8RjIBA#_dTNthUX3LL7OwSaauqIpw)** - *Movies*
 * **[Rek's Drive](https://mega.nz/folder/iYQ3SYbA#_o9eO4o1eiCd8QsCTU7iUw)** - *Movies / Anime*
-* **[Hevcbay Vault](https://hevcbay.sharepoint.workers.dev/0:/Hevcbay%20vault/)** - *Movies*
 * [DHAKA FTP](http://103.205.233.70/), [2](http://dhakaftp.com/) - *Movies / TV*
 * [Movies, Series... in English](https://redd.it/ns1ejo), [2](https://redd.it/ns1kdi), [3](https://redd.it/nsb38a), [4](https://redd.it/ns2avz), [5](https://redd.it/ns2wcv) - *Movies / TV*
 * [Torrent2Drive](https://torrent2drive.video/0:/) - *Movies / TV / [Telegram](https://t.me/torrent_2_drive)*
@@ -608,6 +609,7 @@
 * **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)** - *Telegram Anime Download Channels* 
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - *Sub / Dub / Anime / Manga Download Forum*
 * [Animk](https://animk.info/) - *Sub / Dub*
+* [MiniEncodes](https://miniencodes.org/) - *Sub / [Discord](https://discordapp.com/invite/yuD8X9p)*
 * [AnimeOut](https://www.animeout.xyz/) - *Sub*
 * [Anime2Enjoy](https://www.anime2enjoy.com/) - *Sub / [Discord](https://discord.gg/PxSmumS)* 
 * [Animekayo](https://animekayo.com/) - *Sub / Dub*
@@ -681,6 +683,7 @@
 * **[EZTV](https://eztv.re/)** - *TV / Anime*
 * [MSearch](https://msearch.now.sh/), [2](https://msearch.vercel.app/) - *Movies / TV*
 * WatchSoMuch - [Streaming](https://watchsomuch.tv/) / [Downloading](https://watchsomuch.org/)
+* [GaoQing](https://gaoqing.fm/) - *Movies / TV / Anime / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Play](http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/) - *[ZeroNet Required](https://zeronet.io/) / Movies / TV*
 * [Baby Torrent](https://babytorrent.fun/) - *Movies / TV*
 * [Vuze](https://www.vuze.com/content/) - *Movies / TV* 
@@ -788,7 +791,7 @@ https://greasyfork.org/en/scripts/407284-imdb-scout-mod
 * [MythBank](https://mythbank.com/) - *Media Timelimes / Watch Orders* 
 * [watch_order](https://www.reddit.com/r/anime/wiki/watch_order) - *Anime Watch Orders [/r/anime](https://reddit.com/r/anime)*
 * [Anime Notifier](https://notify.moe/) - *Anime List, Tracker, Database & Notifier* 
-* [Tiaga](https://github.com/erengy/taiga) - *Anime Tracking Program* 
+* [Tiaga](https://taiga.moe/) - *Anime Tracking Program / [GitHub](https://github.com/erengy/taiga)* 
 * [arm-server](https://github.com/BeeeQueue/arm-server) - *Map Anime ID's between AniList, AniDB, MAL & Kitsu* 
 * [Chronology of Animation](http://www.animated-divots.net/chronst.html) - *Animation History / Index*
 * [Movie-Censorship](https://www.movie-censorship.com/) - *Compare Alternate Versions of Media* 
