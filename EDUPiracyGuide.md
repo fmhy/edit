@@ -101,6 +101,7 @@
 * **[freesoff](https://freesoff.com/)** - *Courses*
 * **[TutFlix](https://tutflix.org/)** - *Courses / Drives* 
 * **[Large Collection of Useful Mega DL's](https://pastebin.com/ZMtZa2JV)** - *Courses / Drives*
+* [nocourses](https://nocourses.com/) - *Courses* 
 * [Reks Drive](https://mega.nz/folder/iYQ3SYbA#_o9eO4o1eiCd8QsCTU7iUw) - *Courses*
 * [BlackPhoenix James Durden](https://mega.nz/folder/AZAhjSaL#3wzdEx3nPgzzVdVEqVc8nA) - *Courses*
 * [Iit jee lectures](https://t.me/Iitjeeinveins2) - *Lectures / Telegram*   
@@ -117,17 +118,19 @@
 * [Christmas Share](https://mega.nz/folder/dVxiXITI#lM16YzFg6xlnDOGYBOWUhA), [2](https://mega.nz/folder/dVxiXITI#lM16YzFg6xlnDOGYBOWUhA/folder/pAQWDCaZ), [3](https://mega.nz/folder/mqxiBRTJ#0bnSa35nknxUqOCr-xdGYg) - *Courses*
 * [FTUForums](https://www.ftuforums.com/) - *Courses / [Discord](https://discord.gg/xAsMX52)*
 * [Coursesghar](https://coursesghar.com/) - *Courses* 
+* [CourseUpload](https://courseupload.net/) - *Courses*
 * [FreeEducationWeb](https://freeeducationweb.com/) - *Courses* 
 * [DLECourse](https://dlecourse.com/) - *Courses* 
 * [FreeCourseDL](https://freecoursedl.com/) - *Courses* 
 * [HackNation](https://hacksnation.com/) - *Courses*
 * [torrenttempdrive](https://torrenttempdrive.hashhackers.com/1:/) - *Courses*
 * [FreeStudyWeb](https://freestudyweb.com/) - *Courses* 
+* [Google Drive Links](https://www.googledrivelinks.my.id/) / [2](https://googledrivelinks.com/) - *Courses*
 * [CryptoTips](https://www.cryptotips.us/) - *Courses* 
-* [nocourses](https://nocourses.com/) - *Courses* 
 * [5G GYAN](https://www.5ggyan.com/) - *Courses* 
 * [HackingWorld](https://in.hackingworld.best/) - *Courses*
 * [DL Course](https://dlcourse.org/) - *Courses*
+* [Game of Courses](https://gameofcourses.com/) - *Courses / [Drive](https://goc.gocourses.workers.dev/0:/) User / PW: goc*
 * [AfraTafreeh](https://afratafreeh.com/) - *Courses*
 * [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - *Courses*
 * [Open-Video](https://open-video.org/) - *Courses / Documentaries*
@@ -303,8 +306,11 @@
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://drive.google.com/drive/folders/0B1ySOrPxOWJmZGlNTkEtQnlEM3M) - *Astronomy Books*
 * [The Universe Through Time](https://i.imgur.com/A2C6Vpc.jpeg) - *Universe Timeline*
 * [Space Dashboard](https://spacedashboard.com/) - *Space Live Stream Dashboard* 
+* [EarthData](https://worldview.earthdata.nasa.gov/) - *Daily Satellite Replays*
 * [ISS Sim](https://iss-sim.spacex.com/) - *ISS Docking Simulator* 
-* [Satellite Imagery](https://rammb-slider.cira.colostate.edu/) - *Satellite Imagery GOES-16*
+* [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/) - *Satellite Imagery*
+* [Sentinel Hub](https://www.sentinel-hub.com/) - *Satellite Imagery API*
+* [Open Access Hub](https://scihub.copernicus.eu/) - *Copernicus Satellite Data Copernicus*
 * [Space Weather News](https://spaceweathernews.com/) - *Space Weather Updates / [Videos](https://www.youtube.com/user/Suspicious0bservers)*
 * [Andegraf Rockets](http://rockets.andegraf.com/) - *Rocket Diagrams*
 * [Interactive Apollo Missions](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - *Apollo in Realtime* 
@@ -321,6 +327,7 @@
 * [100,000 Stars](https://stars.chromeexperiments.com/) - *Interactive 3D Star Visualization*
 * [Stellarium-Web](https://stellarium-web.org/) - *Online Stellarium*
 * [ESO](https://www.eso.org/public/images/eso1242a/zoomable/), [Hubble](https://esahubble.org/images/heic1502a/zoomable/), [Hubble 2](https://esahubble.org/images/heic1901a/zoomable/) - *Massive Zoomable Telescope Photos*
+* [APOD](https://apod.nasa.gov/) - *Daily NASA Astronomy Pictures*
 * [SpaceEngine](http://spaceengine.org/) - *Universe Simulator*
 * [astro.sfasu](http://astro.sfasu.edu/courses/ast305/homework/) - *Astronomy Homework*
 
@@ -469,6 +476,7 @@
 * [Mochi Cards](https://mochi.cards/) - *Note Taking & Flash Cards*
 * [BookStack](https://www.bookstackapp.com/) - *Self-Hosted Information Manager*
 * [Deepnote](https://deepnote.com/) - *Data Science Notebook*
+* [Wordwall](https://wordwall.net/) - *Lesson Creator*
 * [ClassroomScreen](https://www.classroomscreen.com/) - *Digital Teaching Widgets*
 * [Plagiarism Checker](https://www.grammarly.com/plagiarism-checker), [PaperRater](https://www.paperrater.com/), [Quetext](https://www.quetext.com/), [PlagiarismDetector](http://www.plagiarismdetector.net/), [CopyScape](https://www.copyscape.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
 * [cb2bib](https://www.molspaces.com/cb2bib/) - *Reference Extractor / Manager*
@@ -566,7 +574,7 @@
 * [YourBiasIs](https://yourbias.is/) - *Learn about Biases* 
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - *Learn to Tie Knots* 
 * [Pol Art Folder](https://mega.nz/folder/rVcExIbB#VN9alzay0OrctggvEn1DUg) - *Historic European Art & Paintings*
-* [vads](https://vads.ac.uk/digital/) - *Digital Art Collection*
+* [vads](https://vads.ac.uk/digital/) or [WikiArt](https://www.wikiart.org/) - *Digital Art Collection*
 * [Metabolic-Pathway](http://www.metabolic-pathway.com/fullMap.html) - *Interactive Metabolic Pathways Map* 
 * [AnimaGraffs](https://animagraffs.com/) - *Animated Infographs*
 * [How a Car Works](https://www.howacarworks.com/) - *Car Mechanics / Automotive Engineering Guides* 
