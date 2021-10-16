@@ -45,6 +45,8 @@
 * [SohaibXtreme](https://www.sohaibxtreme.net/FDL/setup/games/) 
 * [Bia2Game](http://dl.bia2game.com/) 
 * [GamingMaster](http://s5.gamingmaster.ir/) 
+* [Game-Repack](https://www.game-repack.site/) 
+* [Repack-Games](https://repack-games.com/) - *[Discord](https://discord.com/invite/2EQp2NFD)*
 * [cracked-games](https://cracked-games.org/) - *[Discord](https://discord.gg/tNhPmCU)*
 * [LegendaryRepacks](https://discord.gg/RUSNHSk) - *Universal Bypass Required*
 * [TOPXGAME](https://topxgame.com/)
@@ -84,6 +86,7 @@
 * [Minetest](https://www.minetest.net/) - *F2P Minecraft Alternative* 
 * [Unciv](https://github.com/yairm210/Unciv) - *Civ V Remake*
 * [London 2038](https://london2038.com/) - *London 2038 Multiplayer Revival Project*
+* [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - *Space Cadet Pinball Decompilation*
 * [Vapor Store](https://github.com/SushyDev/vapor-store) - *Pirated Game Store / [Discord](https://discord.gg/Y4ECqXN) / Works w/ [steamunlocked](https://steamunlocked.net/all-games/)*
 * [/r/RepackWorld](https://reddit.com/r/RepackWorld) - *Repack Subreddit*
 
@@ -118,6 +121,7 @@
 * **[Rom Site Index](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)**
 * **[Emuparadise](https://www.emuparadise.me/)** - *Emulators / Roms / [DL Script](https://redd.it/968sm6), [2](https://openuserjs.org/scripts/tommyoxox/EmuParadise_Download_Workaround_-_1.1.2), [3](https://gist.github.com/Eptun/3fdcc84552e75e452731cd4621c535e9) / [Forum](https://www.epforums.org/)* 
 * **[Vimms Lair](https://vimm.net/)** - *Emulators / Roms*
+* [Flowers Rom CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac ) - *Multi-Site Rom Search*
 * [Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators) 
 * [Rom Managers](http://emulation.gametechwiki.com/index.php/ROM_managers) - *List of Rom Managers*
 * [Emulator Netplay Tools](http://emulation.gametechwiki.com/index.php/Netplay) - *Multiplayer Emulation*
@@ -200,7 +204,7 @@
 * [NoPayStation](https://nopaystation.com/) or [PSNDL](https://psndl.net/) - *Roms / Sony Consoles*
 * [PSP Collection](https://archive.org/details/rr-sony-playstation-portable ) - *Roms / PSP*
 * [psp.hm7.moe](https://psp.hm7.moe/) - *Modded PSP Collection* 
-* [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) - *Roms / Wii U*
+* [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - *Roms / Wii U*
 * [WiiWare Collection](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) - *Roms / WiiWare*
 * [Wii Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wii_roms) - *Roms / Wii*
 * [Switch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - *Roms / Nintendo Switch*
@@ -250,6 +254,7 @@
 * [Emulator Online](https://emulatoronline.com/)
 * [MyEmulator](https://myemulator.online/) 
 * [PS1FUN](http://www.ps1fun.com/) - *PS1 Browser Emulator* 
+* [PSX Party](https://psxparty.kosmi.io/) - *Multiplayer Playstation Browser Emulator*
 * [LYR9C](https://lyr9c.weebly.com/gba-games.html) - *GBA Browser Emulator* 
 * [LetsPlayGB](https://www.letsplaygb.com/) - *Game Boy Browser Emulator*
 * [QAOP](http://torinak.com/qaop/games) - *Arcade Games*
@@ -275,6 +280,7 @@
 * **[ZDemon](https://www.zdaemon.org/)**, **[Doomseeker](http://doomseeker.drdteam.org/)**, [oDamex](https://odamex.net/) or [Zandoronum](https://zandronum.com/) - *Online-Multiplayer Doom Source Ports*
 * [RocketLauncer2](https://github.com/Hypnotoad90/RocketLauncher2) - *Doom Source Port Frontend*
 * [MISC Windows](https://drive.google.com/drive/folders/15A3j8X0IDxNyJC7tPjJ0gvKIPKPaKylO) - *Windows 98 / XP Games*
+* [ScummVM](https://www.scummvm.org/) - *Classic Graphical Adventure Game Engines*
 * [Classic Game Roms](https://sites.google.com/site/classicgameroms/) - *Roms*
 * [Old-Games.com](https://www.old-games.com/) - *Roms / PC / Amiga*
 * [AtariMania](http://www.atarimania.com/index.html) - *Emulators / Roms / Atari Consoles*
@@ -326,7 +332,7 @@
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - *Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)*
 * [Mars 3D](https://mars3d-game.wixsite.com/index) - *Mars 3D Translation & Remake*
 * [Jelly Mario](https://jellymar.io/) - *Jelly Super Mario*
-* [sm64](https://github.com/n64decomp/sm64) - *Super Mario 64 Decompilation / [Discord](https://discord.gg/duyh3fh) / [Guide](https://youtu.be/rQVpfWYT0eg)* 
+* [sm64](https://github.com/n64decomp/sm64) - *Super Mario 64 Decompilation / [Guide](https://youtu.be/rQVpfWYT0eg)* 
 * [GtkAtlantic](https://gtkatlantic.gradator.net/index.html) or [Monopolie](http://monopolie.sourceforge.net/index.shtml) - *Open Source Monopoly*
 * [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - *Pac-man*
 * [Tetris](https://tetris.com/) or [OpenTetris Classic](https://sourceforge.net/projects/opentetrisclassic/) - *Play Tetris*
@@ -390,11 +396,12 @@
 * [Marble Blast Gold Web](https://marbleblast.vani.ga/) - *Marble Blast Gold in Browser*
 * [The Multiverse](https://across-multiverse.com/) - *Universe Exploration Game Across*
 * [Flavour Machine](https://flavourmachine.com/) - *Twists to well known games*
-* [ The Thorp of Woodstock](https://cheerfulghost.github.io/civ-clicker/index.html) - *Build a Civilization*
+* [The Thorp of Woodstock](https://cheerfulghost.github.io/civ-clicker/index.html) - *Build a Civilization*
 * [Badger Kingdom](http://www.badgerkingdom.pantomimepony.co.uk/) - *Manage a group of badgers, help them survive*  
 * [FSHistory](https://s-macke.github.io/FSHistory/) - *Play Classic Flight Simulator* 
 * [Magnetic Scripts](https://msmemorial.if-legends.org/msa2/msa2.html) - *Magnetic Scrolls* 
-* [Neopets ](http://www.neopets.com/) or [Marapets](https://www.marapets.com) - *Virtual Pet Game* 
+* [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - *Browser Space Cadet Pinball*
+* [Neopets](http://www.neopets.com/) or [Marapets](https://www.marapets.com) - *Virtual Pet Game* 
 * [Gaia Online](https://www.gaiaonline.com/) - *Anime Virtual Pet* 
 * [Furvilla](http://www.furvilla.com/) - *Furry Virtual Pet Game* 
 * [Forumwarz](http://www.forumwarz.com/) - *Browser RPG*  
@@ -437,6 +444,8 @@
 * [JKLM.FUN](https://jklm.fun/) 
 * [JackBox.tv](https://jackbox.tv/) 
 * [Playok](https://www.playok.com/)
+* [PaperGames](https://papergames.io/)
+* [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) - *Drawing / Guessing Game / Multiplayer*
 * [Krunker.io](https://krunker.io/) / [2](https://browserfps.com/) / [Market Ping](https://yee.how/market-ping/) / [Client](https://client.cuffuffles.dev/), [Venge](https://venge.io/) or [RoboFight](https://robofight.io/) - *PvP FPS*
 * [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) - *Top Down Battle Royal* 
 * [ZombsRoyale.io](https://zombsroyale.io/) - *Zombie Battle Royale* 
