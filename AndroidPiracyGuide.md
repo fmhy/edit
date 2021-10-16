@@ -66,6 +66,7 @@
 * [Sagernet](https://sagernet.org/) - *Proxy Tools*
 * [Privacy Indicator](https://f-droid.org/packages/com.nitish.privacyindicator/), [2](https://play.google.com/store/apps/details?id=com.nitish.privacyindicator) or [Access Dots](https://play.google.com/store/apps/details?id=you.in.spark.access.dots) - *Camera / Mic Access Indicator* 
 * [CamWings](https://schiffer.tech/camwings-mobile.html) - *Camera Protection* 
+* [PubPhoto](https://github.com/stuartlangridge/pubphoto) - *Share Photos without Sharing Number*
 * [ScreenWings](https://schiffer.tech/screenwings-mobile.html) - *Screen Protection* 
 * [Stingle Photos](https://stingle.org/) - *Private Photo / Video Gallery* 
 * [Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers) - *Encrypted Android Messengers*
@@ -152,7 +153,7 @@
 * [GameGuardian](https://gameguardian.net/) - *Game Hack / Alteration Tool*
 * [NeonRom3r](https://github.com/Gr3gorywolf/NeonRom3r) - *Download Roms* 
 * [VMOS](https://www.vmos.com/) - *Android Virtual Machine*
-* [Media Bar](https://play.google.com/store/apps/details?id=apps.ijp.mediabar) - *Media Control*
+* [Media Bar](https://play.google.com/store/apps/details?id=apps.ijp.mediabar) - *Status Bar Media Controller*
 * [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - *Android Display Control*
 * [Shelter ](https://cgit.typeblog.net/Shelter/) or [Insular](https://gitlab.com/secure-system/Insular) - *Isolate / Clone Apps*
 * [MacroDroid](http://macrodroid.com/) - *Android Automation* 
@@ -171,6 +172,7 @@
 * [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) - *Feature-rich Facebook Client*
 * [Frost](https://f-droid.org/en/packages/com.pitchedapps.frost/) or [SlimFacebook](https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook/) - *Facebook Webwrapper*
 * [SlimTwitter](https://f-droid.org/en/packages/it.rignanese.leo.slimtwitter/) - *Twitter Webwrapper*
+* [Shitter](https://github.com/nuclearfog/Shitter) - *Lightweight Twitter App*
 * [Google Lens](https://lens.google/) - *Multiple Camera Tools*
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) or [Camator](https://gcamator.com/) - *Google Cam Downloads / [Telegram](https://t.me/googlecameraport)*
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - *Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)*
@@ -184,6 +186,7 @@
 * [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Husky](https://git.mentality.rip/FWGS/Husky) or [Tusky](https://tusky.app/) - *Mastodon Client* 
 * [Blabber.im](https://f-droid.org/packages/de.pixart.messenger) - *XMPP / Jabber Messenger*
 * [TextFree](https://www.textfree.us/) - *Free Texting App*
+* [Kubool](https://www.gdpd.xyz/) - *Anonymous Confession App*
 * [OpenInWA](https://github.com/SubhamTyagi/openinwa) - *Number Free WhatsApp Chat*
 * [Watomatic](https://f-droid.org/packages/com.parishod.watomatic) - *WhatsApp & FB Messenger Auto Reply*
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - *Article / Link Viewer*
@@ -330,6 +333,7 @@ App Manager
 * [Software_Android_Apps_Games](https://t.me/Software_Android_Apps_Games) - *Modded / Telegram*   
 * [Awesome Android Kotlin Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) - *Kotlin App Index*
 * [Aero Apps](https://t.me/aerolla) - *Modded Social Media Apps*
+* [Rikka Apps](https://rikka.app/) - *Free Apps*
 * [FossDroid](https://fossdroid.com/) - *Open source apps / [/r/fossdroid](https://reddit.com/r/fossdroid)*
 * [Moderse](https://t.me/Moderse) - *Android Apk Telegram Channel by well known modder - Stabiron*
 * [DedoMil](http://dedomil.net/) - *Java Mobile Games*
@@ -342,6 +346,7 @@ App Manager
 * [App filter](https://appfilter.net/) - *Play Store Advanced Search*
 * [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - *App Giveaway Sites*
 * [APK Generator](https://play.google.com/store/apps/details?id=com.aksapps.apkgenerator) or [APK Saver](https://play.google.com/store/apps/details?id=com.sdkdevelopers.apksaver) - *Save APK File for Installed Apps*
+* [Diggy](https://github.com/s0md3v/Diggy) - *Extract APK Endpoints*
 * [How-to Install Play Store Apps from Other Countries](https://rentry.co/29s6v)
 * [APKAdmin](https://apkadmin.com/) - *APK Hosting Site*
 
@@ -465,6 +470,7 @@ App Manager
 * [Titanium TV](https://aapks.com/apk/titanium-tv-com-wise-tech-titanium/) - *Movies / TV / Anime / Chromecast*
 * [Berg](https://www.funkymuse.dev/p/berg.html) - *Movies / TV / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * [SupaFlix](https://supaflix.1mt.top/) - *Movies / TV* 
+* [GodFather](https://movies.godfather.vip/download.php) - *Movies / TV / Anime*
 * [MOTV](http://motv.top/) - *Movies / TV / Chromecast*
 * [ROTV](https://rotv.xyz/) - *Movies / TV*
 * [EnterpApp](https://enterpapp.xyz/) - *Movies / TV*
@@ -627,7 +633,7 @@ RSS Player*
 * [InsightBrowser](https://insightbrowser.com/) - *Browser*
 * [Kagi](https://apps.apple.com/us/app/kagi/id1484498200) - *Browser w/ Firefox & Chrome Extension Support*
 * [iRetro](https://apps.apple.com/us/app/iretro-the-internet-browser/id1015692776) - *Browser w/ Wayback Machine*
-* [Hyperweb](https://hyperweb.app/) - *iOS Safari Improvement Extension*
+* [Hyperweb](https://hyperweb.app/) - *iOS Safari Improvement + Adblock Extension*
 * [Lights Off](https://testflight.apple.com/join/pj7BWqeJ) - *iOS Safari Dark Mode*
 * [UTM](https://getutm.app/) - *Virtual Machines* 
 * [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) - *Automation Script Tool*
