@@ -139,12 +139,14 @@
 * [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) - *Bug Bounty Resources*
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - *CTF Resources*
 * [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - *API index* 
+* [Libre Logos](https://github.com/enjeck/libre-logos) - *Free Logos for Projects*
 * [Cumcord](https://cumcord.com/) - *Discord Developer Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)*
 * [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - *Integrate Services with Discord*
 * [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - *Discord Code Blocks*
 * [Discord4J](https://discord4j.com/) or [Diskord](https://diskord-dev.github.io/) / [GitHub](https://github.com/diskord-dev/diskord) - *Discord API Wrapper*
 * [Discord-panel](https://github.com/Notavone/discord-panel) - *Discord Bot Server Manager*
 * [Javacord](https://javacord.org/) - *Discord Bot Creation Library*
+* [Pylon](https://pylon.bot/) - *Discord Bot Builder*
 * [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - *C++ Library for Discord*
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - *Toolbox for Reddit Extension Development*
 * [XunLei](https://www.xunlei.com/) - *Shared Computing / Blockchain*
@@ -212,8 +214,10 @@
 * [dnsabr](https://www.dnsabr.com/) - *Free DNS Hosting*
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - *Captcha Systems*
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - *Search & Analytics Engine*
+* [Algolia](https://www.algolia.com/) - *Search API*
 * [GetButton](https://getbutton.io/) - *Get free 'Message Us' Button for your Site*
 * [Error404](https://error404.fun/) - *Free 404 Pages*
+* [HandShake](https://handshake.org/) - *Decentralized Certificate Authority & Naming*
 * [Let's Encrypt](https://letsencrypt.org/) - *Free TLS Certificates*
 * [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - *Free SSL Certificates*
 * [Amazon S3](https://aws.amazon.com/s3) - *Cloud Object Storage Amazon Simple Service Storage*
@@ -277,6 +281,7 @@
 * [Kodular](https://www.kodular.io/) or [Android Studio](https://developer.android.com/studio/index.html) - *Android App Creator*
 * [Python to APK](https://github.com/Spidy20/Python_To_APK) - *Convert Python Code to APK*
 * [GoNative](https://gonative.io/) - *Convert Websites to Mobile Apps*
+* [Shizuku](https://shizuku.rikka.app/) - *Connect Apps to APIs*
 * [Debugtron](https://www.electronjs.org/apps/debugtron) - *Electron App Debugger*
 * [MobileApp-Pentest-Cheatsheet](https://github.com/fuzz-security/MobileApp-Pentest-Cheatsheet) - *Mobile App Penetration Test Index*
 * [Uiautomator2](https://github.com/openatx/uiautomator2) - *Automated App Testing*
@@ -337,6 +342,7 @@
 * [MarkdownGuide](https://www.markdownguide.org/) - *Guide for Markdown (.md)* 
 * [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/) or [Mark Text](https://github.com/marktext/marktext) - *Markdown Editor* 
 * [Markdown Editor for Firefox](https://addons.mozilla.org/en-US/firefox/addon/markdown-editor-premium/) - *Markdown Editor Extension* 
+* [Table Magic](https://stevecat.net/table-magic/) - *CSV, HTML & Markdown Converter*
 * [Markdown To HTML](https://markdowntohtml.com/) - *Markdown to HTML Converter*
 * [Obsidian](https://obsidian.md/) - *Markdown File Organizer*  
 
@@ -414,19 +420,21 @@
 # ► Programming / Coding 
 
 * **[List.community](https://list.community/)** - *Programming / Development GitHub Lists* 
-* [WebdevHome](https://webdevhome.github.io/) or [Tiny Tools](https://tinytools.directory/) - *Programming / Developer Tools*
+* [WebdevHome](https://webdevhome.github.io/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - *Programming / Developer Tools*
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - *Web Scraping Tool Index*
 * [Awesome-Discord-Communities](https://github.com/mhxion/awesome-discord-communities) - *Programming / Developer / Discord Communities* 
+* [iTabCode](https://www.itabcode.net/) - *Programming / Computer Science Forum*
 * [AwesomeTwitterAccounts](https://github.com/yask123/AwesomeTwitterAccounts) - *Curated List of Programming Related Twitter Accounts* 
 * [Awesome Programming](https://github.com/hardikvasa/awesome-programming) - *Programming Resources* 
 * [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality/wiki) - *Software Quality Testing Tools*
 * [Node-RED](https://nodered.org/) - *Low-code programming for event-driven applications* 
-* [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/) - *Code / Text Editor* 
+* [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/) - *Code / Text Editor / [Package Manager](https://packagecontrol.io/)* 
 * [RegExr](https://regexr.com/) - *Learn, Build & Test RegEx* 
 * [Regex101](https://regex101.com/) - *Regex Editor / Debugger* 
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - *Creative Coding Resource Index* 
 * [Algorithm Visualizer](https://algorithm-visualizer.org/) - *Visualize Code Algorithms* 
 * [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/), [Lite XL](https://lite-xl.github.io/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [Notepad2](https://www.flos-freeware.ch/notepad2.html) or [Light Table](http://lighttable.com/) - *Code Editor* 
+* [Telosys](http://www.telosys.org/) - *Code Generator*
 * [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - *Emacs Packages*
 * [WebDen](https://webden.dev/) - *Code Playground*
 * [I run code](https://github.com/engineer-man/piston-bot) - *Evaluate Code Snippets via Discord*
@@ -451,13 +459,14 @@
 * [Mega Linter](https://github.com/nvuillam/mega-linter) - *Code Analyzer* 
 * [tabnine](https://www.tabnine.com/) - *AI Assisted Code Completion*
 * [cpp.sh](http://cpp.sh/) - *Online C++ Compiler*
+* [asdf](https://asdf-vm.com/) - *Multi-Runtime Management CLI*
 * [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) - *Machine Learning Art Resource Index* 
 * [Sourcegraph](https://sourcegraph.com/) - *Universal Code Search*
 * [searchcode](http://searchcode.com/) or [PublicWWW](http://publicwww.com/) - *Source Code Search*
 * [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://www.code-projects.org/) or [ItSourceCode](https://www.itsourcecode.com/) - *Free Source Code Projects & Tutorials*
 * [CodeGrepper](https://www.codegrepper.com/) - *Code Search Extension*
-* [ShareScript](https://sharescript.net/) or [bl.ocks](https://bl.ocks.org/) - *Script / Code Index*
-* [Google Code Archive](https://code.google.com/archive/) - *Google Code Project Archive*
+* [ShareScript](https://sharescript.net/), [Google Code Archive](https://code.google.com/archive/), [CodeList](https://www.codelist.cc/) or [bl.ocks](https://bl.ocks.org/) - *Script / Code Indexes*
+* [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/) - *Source Code Screenshot Tool*
 * [Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering) - *Reverse Engineering Resource Index*
 * [challenges.re](https://challenges.re/) - *Reverse Engineer Code*
 * [thefuck](https://github.com/nvbn/thefuck) - *Corrects Previous Console Command*
