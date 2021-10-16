@@ -265,7 +265,6 @@ App Manager
 * [Haoict Repository](https://haoict.github.io/cydia/) - *App Repository*
 * [DivestOS](https://divestos.org/fdroid/official/) - *App Repository*
 * [TeamOS](https://www.teamos-hkrg.com/) - *Modded / Forum* 
-* [ACMarket](https://ac-market.org/) - *Modded*
 * [Aurora Store](https://auroraoss.com/), [2](https://f-droid.org/en/packages/com.aurora.store/) or [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) - *Alt Google Play Store*
 * [Aptoide](https://aptoide.com/) - *Alt Android App Store*
 * [Android Zone](https://android-zone.ws/) - *Forum*
