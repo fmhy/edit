@@ -86,6 +86,7 @@
 * **[Virus File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scan_files)** - *Scan Files*
 * **[Hybrid Analysis](https://www.hybrid-analysis.com/)** or [Amnpardaz](https://jevereg.amnpardaz.com/) - *Scan EXE Files*
 * **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)** - *Scan URL's*
+* [SiteScrubber](https://greasyfork.org/en/scripts/426078-sitescrubber) - *Remove Adware & Clickjackers on DL Sites*
 * MSRT - [x64](https://www.microsoft.com/en-us/download/details.aspx?id=9905) / [x86](https://www.microsoft.com/en-us/download/details.aspx?id=16) - *Malicious Software Removal Tool*
 * [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html) or [GlassWire](https://www.glasswire.com/) - *Firewall / Network Monitor* 
 * [Nmap](https://nmap.org/) - *Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)* 
@@ -137,7 +138,7 @@
 * **[Privacy Matters](https://www.securemessagingapps.com/)** - *Privacy Based Messaging App Comparisons*
 * **[Encrypted Messangers](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers)  - *Encrypted Messaging App Index* 
 * **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)** - *Anonymous Text Verification*
-* **[Two Factor Auth](https://twofactorauth.org/)** - *List of Sites with 2FA Support*
+* **[2FA Directory](https://2fa.directory/)** - *List of Sites with 2FA Support*
 * **[Authy](https://authy.com/)** or [WinAuth](https://winauth.github.io/winauth/) - *Two-Factor Authentication*  
 * [Obsidian](https://obsidianapp.io/) - *OS X / iOS Two-Factor Authentication*
 * [Authenticator](https://authenticator.cc/) - *Generate Two-Factor Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)* 
@@ -232,6 +233,7 @@
 * [Cloud Firewall](https://addons.mozilla.org/en-GB/firefox/addon/cloud-firewall/) - *Block Major Cloud Services*
 * [Privacy Badger](https://privacybadger.org/) or [Privacy Possum](https://github.com/cowlicks/privacypossum) - *Blocks invisible trackers*
 * [UglyEmail](https://uglyemail.com/) or [PixelBlock](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem/) - *Block Email Trackers* 
+* [FlowCrypt](https://flowcrypt.com/) - *Gmail Encryption*
 * [Chameleon](https://github.com/sereneblue/chameleon), [UA Switcher & Manager](https://add0n.com/useragent-switcher.html) or [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) - *User-Agent Spoofer*
 * [Firefox Privacy Settings](https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/) or [SnowHaze](https://github.com/snowhaze/firefox-extension) - *Firefox Privacy Settings Manager*
 * [Smart Referer](https://gitlab.com/smart-referrer/smart-referer) - *Limit Referer Information Leaks* 
@@ -484,7 +486,9 @@
 * [VPN Book](https://www.vpnbook.com/webproxy)
 * [Hidester](https://hidester.com/proxy/)
 * [Zalmos](https://www.zalmos.com/)
+* [CroxyProxy](https://www.croxyproxy.com/)
 * [Proxy-URLs](https://www.proxy-urls.com/)
+* [TurboProxy](https://turboproxy.co/)
 * [Sitenable](http://sitenable.in/) 
 * [4EverProxy](https://www.4everproxy.com/)
 * [Proxy Site](https://proxysite.cloud/)
