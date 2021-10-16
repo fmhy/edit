@@ -824,6 +824,7 @@
 * **[MangaDex](https://mangadex.org/)** - *[Download Script](https://github.com/frozenpandaman/mangadex-dl)*
 * **[Manga4Life](https://manga4life.com/)**
 * **[MangaReader](https://mangareader.to/)**
+* [/r/MangaPiracy](https://reddit.com/r/MangaPiracy) - *Manga Piracy Subreddit / [Discord](https://discord.gg/ZgMtAyxFSU)*
 * [Manga Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_download_bots) - *Bots that Download Manga*
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - *Anime / Manga Download Forum*
 * Madokami Manga Archive - [0-E](https://archive.org/download/Madokami.Manga.0-E), [F-K](https://archive.org/download/Madokami.Manga.F-K), [L-Q](https://archive.org/download/Madokami.Manga.L-Q), [R-Z](https://archive.org/download/Madokami.Manga.R-Z)
@@ -924,7 +925,6 @@
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
 * [MangaEditor](https://moeka.me/mangaEditor/) - *Online Manga Editor*
 * [Anity](https://redd.it/g372gu), [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en) or [Scanlate](https://scanlate.io/) - *Manga Translator*
-* [/r/MangaPiracy](https://reddit.com/r/MangaPiracy) - *Manga Piracy Subreddit / [Discord](https://discord.gg/pu66ZcNTrT)*
 * [Tenma](https://github.com/Tenma-Server/Tenma), [Mango](https://github.com/hkalexling/Mango) or [Komga](https://komga.org/) - *Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)*
 * [Onodera](https://github.com/onoderaproject/onodera) - *Anime & Manga Database*
 
