@@ -227,6 +227,7 @@
 * [PaintUp](http://technohippy.github.io/teddyjs/) - *Make 2D Art Into 3D*
 * [Thingiverse](https://www.thingiverse.com/), [Yeggi](https://www.yeggi.com/) or [YouImagine](https://www.youmagine.com/) - *3D Printer Models* 
 * [MyMiniFactory](https://www.myminifactory.com/) - *Mini 3D Printer Models*
+* [3DBrute](https://3dbrute.com/) - *3D Furniture Models*
 * [DEFCAD](https://defcad.com/) - *3D Gun Models*
 * [CC0 Textures](https://cc0textures.com/) - *Textures for 3D Models* 
 * [Generated Photos](https://generated.photos/) - *AI Generated Model Photos*
@@ -318,7 +319,7 @@
 * [Deskgram](https://deskgram.app/) - *Upload Desktop Client*
 * [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - *Modded Android Client*
 * [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - *Modded iOS Client*
-* [imginn](https://imginn.com/) or [Greatfon](https://greatfon.com/) - *Instagram Viewer*
+* [imginn](https://imginn.com/), [Picuki](https://www.picuki.com/) or [Greatfon](https://greatfon.com/) - *Instagram Viewer*
 * [QIS](https://github.com/propublica/qis/) or [Instagram Search Tool](https://www.aware-online.com/en/osint-tools/instagram-search-tool/) - *Search Tool* 
 * [SearchUsers](https://searchusers.com/) - *User Search* 
 * [Osintgram](https://github.com/Datalux/Osintgram) - *Osintgram Analysis*
