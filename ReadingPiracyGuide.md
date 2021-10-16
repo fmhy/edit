@@ -430,6 +430,7 @@
 * [do_k_ument](https://mega.nz/folder/QEV0jKYZ#-BVVScey6draL30yB_KowA) - *Survival, Forging, Smithing, Weapons Training, Field Manuals*
 * [Survivor Library](http://www.survivorlibrary.com/), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/), [Free Survival eBooks](https://www.defiel.com/free-survival-ebooks/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - *Survival*
 * [NATSIG Resources](https://mega.nz/#F!ZuZmiBqZ!XhyEetUaj6an8ntb-U1AZw) - *Survival / Bushcraft / Welding / Blacksmithing / German Books / Mythology / Drive* 
+* [Auto-Brochures.com](https://www.auto-brochures.com/) - *Auto Brochures*
 * [Third World Traveler](https://thirdworldtraveler.com/) - *Human Rights / Conspiracies / Anti-War*
 * [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U), [selfhelpbooklab](https://t.me/selfhelpbooklab), [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - *Self-Help*
 * [Websleuths](https://www.websleuths.com/) - *Crime Solving Forum*
@@ -441,7 +442,7 @@
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - *Hypnosis / Telegram*
 * [files.afu.se](https://files.afu.se/Downloads/) or [Ufos](https://drive.google.com/drive/folders/1vlY512iwG0yrTFE3Hha__lhBZq9zavQE) - *UFO Books*
 * [Archive of Our Own](https://archiveofourown.org/) - *Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)*
-* [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - *Books / Fantasy / TTRPG*
+* [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - *Books / Fantasy / TTRPG / [Archives](https://0bin.net/paste/+9z9AyRV#jABs+bWkz9nzCUTVBlyEUVPobNfGXt+4+jQrni-kNAz)*
 * [Choisey](http://choisey.free.fr/) or [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - *TTRPG Rulebooks*
 * [Cinema EBooks Collection](https://mega.nz/folder/Fc5HjABT#kDNrkB97DPt9L_dysk4jCw) - *Cinema Books*
 * [SimplyScripts](https://www.simplyscripts.com/) or [SubsLikeScript](https://subslikescript.com/) - *Movie / TV Scripts* 
@@ -457,6 +458,7 @@
 * **[Digitalbookindex](http://www.digitalbookindex.org)**
 * **[AcademicTorrents](https://academictorrents.com/)**
 * **[Language Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_language_learning)** - *Language Learning Tools, Books & Sites*
+* [Math and Physics Books](https://drive.google.com/drive/folders/1Z30-9EO6B0oEuFHYMKUzzzEO6p82-dYU) - *[Discord](https://discord.gg/v23hTtx)*
 * [Library Drive](https://mega.nz/folder/bbwn0IrI#fwxcM4YiLJTO-HoiGBKRjg)
 * [Openstax](https://openstax.org/) 
 * [Online Books Page](https://onlinebooks.library.upenn.edu/) 
@@ -620,7 +622,7 @@
 
 * **[TheFreeLibrary](https://www.thefreelibrary.com/)** - *Articles*
 * **[Sci-Hub](https://sci-hub.se/)** - *Science article viewer*
-* **Sci-Hub Tools** - *[Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [3](https://sci-hub.tech/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button) / [PDF Download](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub)*
+* **Sci-Hub Tools** - *[Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [3](https://sci-hub.tech/), [4](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button) / [PDF Download](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub)*
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - *How to bypass article paywalls*
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) - *Bypass Scientific Document Paywalls* 
 * [unpaywall](https://unpaywall.org/) - *Bypass Scholarly Article Paywalls*
@@ -652,6 +654,7 @@
 * [mdpi](https://www.mdpi.com/) - *Articles* 
 * [DOAJ](https://www.doaj.org/) - *Journals / Articles*
 * [CyberLeninka](https://cyberleninka.org/) - *Science / Articles / Legal Documents*
+* [ieeexplore](https://ieeexplore.ieee.org/) - *Research Papers / Articles / Documents*
 * [Typewriter](https://tetw.org/) - *Educational Articles & Essays The Electric*
 * [Docracy](https://www.docracy.com/ ) - *Legal Documents*
 * [Legal Core](https://core.ac.uk/) - *Papers / Academic*
@@ -743,6 +746,7 @@
 * [WikiDiff](https://wikidiff.com/) - *Difference Between Any Words* 
 * [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - *Search for Words Using Their Meanings* 
 * [Tip of my Tounge](https://chir.ag/projects/tip-of-my-tongue/) - *Find Words you Can't Remember*
+* [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html) - *Philosophy Encyclopedia / [Search](https://www.visualizingsep.com/)*
 * [Focal](http://www.focal.ie/) - *Irish Word Dictionary*
 * [TheIdioms](https://www.theidioms.com/) - *Idiom Dictionary* 
 * [Lexipedia](http://www.lexipedia.com/) - *Word Connections*
@@ -848,6 +852,7 @@
 * [MangaDoom](https://mngdoom.com/) 
 * [MangaSushi](https://mangasushi.net/)
 * [Kanjiku](https://kanjiku.net/)
+* [MangaTX](https://mangatx.com/) 
 * [Flamescans](https://flamescans.org/)
 * [MangaFreak](https://w12.mangafreak.net/)
 * [Manga-Raw](https://www.manga-raw.club/)
@@ -856,6 +861,7 @@
 * [MangaNyaa](https://manganyaa.com/) 
 * [EvilFlowers](http://reader.evilflowers.com/)
 * [Mangairo](https://h.mangairo.com/)
+* [ReadKomik](https://readkomik.com/)
 * [MangaBob](https://mangabob.com/)
 * [KumaScans](https://kumascans.com/) 
 * [MangaBat](https://m.mangabat.com/m)
@@ -952,6 +958,7 @@
 * [LightNovelPDF](https://lightnovelpdf.com/)
 * [AsianHobbyist](https://www.asianhobbyist.com/)
 * [DaoNovel](https://daonovel.com/)
+* [List Novel](http://www.listnovel.com/)
 * [FreeWebNovel](https://freewebnovel.com/) 
 * [NovelCake](https://novelcake.com/)
 * [Novel Translations](https://lightnovelstranslations.com/)
