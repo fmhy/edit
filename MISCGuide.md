@@ -240,7 +240,7 @@
 * [stringers.live](https://stringers.live/) - *Live Freelance Journalist Streams*
 * [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - *Open Random Windows*
 * [BigPixel](http://en.bigpixel.cn/) - *Giant Zoomable Photos*
-* [larsberg](http://www.larsberg.net/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - *Trippy 3D Experiments *
+* [larsberg](http://www.larsberg.net/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - *Trippy 3D Experiments*
 * [Just Type Stuff ](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - *Type Things into Existence*
 * [WriteAPrisoner](https://writeaprisoner.com/) - *Pen Pals for Inmates*
 * [This Is Sand](https://thisissand.com/) - *Make Sand Art* 
@@ -342,6 +342,7 @@
 * [Free Camp Sites](https://freecampsites.net/) - *Go Camping For Free*
 * [Roadside America](https://www.roadsideamerica.com/) - *Roadside Attraction Index*
 * [deardiary](https://deardiary.wtf/) - *Machine Learning Diary / [Concept Video](https://youtu.be/Zc3qayGmYZQ)* 
+* [Classic GTA Sites](https://classicgtasites.com/) - *Original GTA Site Recreations*
 * [BD Stupidity Archive](https://discord.gg/5qgrj9a3NQ) - *Archive of BetterDiscord Stupidity*
 * [webgbcam](https://maple.pet/webgbcam/) - *Gameboy Camera in Browser*
 * [The Wolfman Museum of Art ](http://wolfmanmuseum.org/) - *Virtual Museum*
@@ -488,6 +489,7 @@
 * [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - *Dark Web News*
 * [Interactive News Map](https://usa.liveuamap.com/) - *Geolocated News Alerts / Headlines U.S* 
 * [Forekast](https://forekast.com/) - *Worldwide Event Calendar* 
+* [IBM Watson News Explorer](https://news-explorer.mybluemix.net/) - *Business News Explorer*
 * [Uriminzokkiri](http://www.uriminzokkiri.com/index.php?lang=eng) - *Korean News*
 * [Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspaper_sites) - *Read & Download Newspapers*
 * [RSOE](http://hisz.rsoe.hu/) - *Emergency and Disaster Map* 
@@ -556,10 +558,11 @@
 
 # ► Maps
 
-* **[DuckDuckGo](https://duckduckgo.com/?q=maps&ia=web&iaxm=maps)**, [Yandex](https://yandex.com/maps/), [Google](https://www.google.com/maps/), [Bing](https://www.bing.com/maps), [Wego.Here](https://wego.here.com/), [Terrafly](http://www.terrafly.com/), [EarthExplorer](https://earthexplorer.usgs.gov/) or [OrganicMaps](https://organicmaps.app/) - *Maps, Satellite & Street Views* 
+* **[Satellite / Street View Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_satellite_.26amp.3B_street_view_maps)**
 * **[OpenStreetMap](https://www.openstreetmap.org/)** - *Street Map* 
 * [Atlas Obscura](https://www.atlasobscura.com/) - *Travel Guidebook / Maps*
 * [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - *Earth Viewer*
+* [Snazzy Maps](https://snazzymaps.com/) - *Google Maps Themes*
 * [MapChannels](https://www.mapchannels.com/) - *Mapping / Navigation Tools* 
 * [OldMapsOnline](https://www.oldmapsonline.org/) - *Historical Maps Tool* 
 * [Loc Maps](https://www.loc.gov/collections/general-maps/) - *Historical Maps*
@@ -589,6 +592,7 @@
 * [Wikimapia](http://wikimapia.org/) - *Online Editable Map*
 * [MapChart](https://mapchart.net/) - *Create Custom Maps* 
 * [Point Address](https://pointaddress.com/) - *Custom Location Map*
+* [dgi](http://www.dgi.inpe.br/catalogo/) - *Match Satellite Images to Map*
 * [City Roads](https://anvaka.github.io/city-roads/) - *Draw City Roads*
 * [Mobac](https://mobac.sourceforge.io/) - *Mobile Atlas Creator*
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - *Globe of Ancient Earth*
@@ -819,6 +823,7 @@
 * [ShadowFox](https://overdodactyl.github.io/ShadowFox/) - *Dark Mode*
 * [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - *Pick Site that Opens in New Tabs* 
 * [Keep or Delete Bookmarks](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) - *Keep Bookmark Folder Clean* 
+* [Default Bookmark Folder](https://addons.mozilla.org/en-US/firefox/addon/default-bookmark-folder/) - *Change Default Bookmark Folder*
 * [SaveForReadLater](https://addons.mozilla.org/en-US/firefox/addon/saveforreadlater/) - *Save Pages to Read Later* 
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - *Multi Tab Word Search Search* 
 * [PopUp Encyclopedia](https://addons.mozilla.org/en-US/firefox/addon/popup-encyclopedia/) - *Popup Encyclopedia & Dictionary* 
@@ -881,6 +886,7 @@
 * [Mate Translate](https://gikken.co/mate-translate/chrome/) - *Translator*
 * [OpenDyslexic](https://chrome.google.com/webstore/detail/opendyslexic-for-chrome/cdnapgfjopgaggbmfgbiinmmbdcglnam) - *Increase Page Readability*
 * [Spoiled](https://lucasrowe.github.io/spoiled/) - *Customizable Phrase / Spoiler Blocker*
+* [Flip This](https://chrome.google.com/webstore/detail/flip-this/donljlliiecjcagcenoeohjmabfegkph?hl=en) - *Rotate Page & HTML Elements*
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej) - *Discover Similar Webpages* 
 * [adam:ONE Assistant](https://chrome.google.com/webstore/detail/adamone%C2%AE-assistant/fdmpekabnlekabjlimjkfmdjajnddgpc?hl=en) - *Find Web Site Dependencies*
 * [Email Tracker](https://snov.io/email-tracker) or [Mailtrack](https://mailtrack.io/) - *Gmail Engagement Tracker*
@@ -909,7 +915,7 @@
 * **[Greasy Fork](https://greasyfork.org/en)**, [Userscripts](https://userscripts-mirror.org/) or [OpenUserJS](https://openuserjs.org/) - *Install Userscripts / [Change Theme](https://greasyfork.org/en/scripts/4336) / [Remove Crap](https://greasyfork.org/en/scripts/12179-greasyfork-bull-filter)*
 * [Userscript.zone](https://www.userscript.zone/) - *Userscript Search* 
 * [darkmode.js](https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c) - *Dark Mode Script*
-* Captcha Solvers - [Hcaptcha](https://greasyfork.org/en/scripts/425854) / [Recaptcha](https://greasyfork.org/en/scripts/430593) 
+*  [Hcaptcha Solver](https://greasyfork.org/en/scripts/425854) or [Recaptcha Solver](https://greasyfork.org/en/scripts/430593) - *Captcha Solvers*
 * [Remove Web Limits](https://greasyfork.org/en/scripts/28497-remove-web-limits-modified), [2](https://greasyfork.org/en/scripts/386908-remove-web-limits-re-modified) - *Force Enable Right Click*
 * [anti-anti-copy](https://greasyfork.org/en/scripts/7197) - *Copy Text from Any Site*
 * [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - *Select Text Inside Links* 
@@ -917,6 +923,7 @@
 * [Anti-Cookies Consent](https://greasyfork.org/en/scripts/432050-anti-cookies-consent) - *Remove Cookie Consent Popups*
 * [Google Cleaner](https://greasyfork.org/en/scripts/33313-google-cleaner) - *Minimalist Google*
 * [altsearch links](https://greasyfork.org/en/scripts/13542-altsearch-links) - *Adds General Search Engines to Results*
+* [Microsoft Store Direct Download](https://greasyfork.org/en/scripts/394420-microsoft-store-direct-download) - *Microsoft Store Direct Downloads*
 * [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) - *Imageboards Features / [Themes](https://github.com/KevinParnell/OneeChan) / [GitHub](https://github.com/ccd0/4chan-x)* 
 * [Extra Flags for 4chan](https://gitlab.com/flagtism/Extra-Flags-for-4chan) - *Add More Flags to 4chan*
 * [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - *Google Search Endless Scrolling* 
