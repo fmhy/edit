@@ -122,6 +122,7 @@
 * [J-pop Music Download](https://jpop.xyz/) - *Music / FLAC / MP3* 
 * [tlanyan](https://tlanyan.me/) - *Linux / Software*  
 * [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - *Courses / [icourse163](https://www.icourse163.org/)*
+* [CatchingNow](https://www.catchingnow.cn/) - *Android Apps*
 
 ## ▷ Torrenting
 
@@ -170,13 +171,14 @@
 * [AGE動漫](https://agefans.tw/) - *Anime*
 * [music.163](https://music.163.com/) - *Music*
 * [MuXiv](https://muxiv.net/) - *Music*
-* [Hifini](https://www.hifini.com/) - *Music *
+* [Hifini](https://www.hifini.com/) - *Music*
 * [jsososo](http://y.jsososo.com/), [2](http://music.jsososo.com/) - *Music* 
+* [Huya](https://www.huya.com/) - *Live Streaming*
 * [數學老師張旭](https://space.bilibili.com/521685904) - *Math Lessons*
 
 ## ▷ Reading 
 
-* [Jiumo](https://www.jiumodiary.com/) - *eBook Search Engine*  
+* [Jiumo](https://www.jiumodiary.com/) - *Book Search Engine*  
 * [ting89](http://www.ting89.com/) - *Books / Audiobooks* 
 * [BooksThatMakeYouThink](https://t.me/BooksThatMakeYouThink) - *Nonfiction* 
 * [kgbook](https://kgbook.com/) - *Books*
@@ -364,6 +366,7 @@
 * [Film Palast](https://filmpalast.club/) - *Movies / TV*
 * [Kinox](https://www2.kinox.to/) - *Movies / TV*
 * [KinoX](https://www.kinox.sx/) - *Movies / TV*
+* [BS.TO](https://www.bs.to/) - *TV / Anime*
 * [MovieTown](https://movietown.org/) - *Movies / TV*
 * [KinoZ](https://kinoz.to/) - *Movies / TV / Anime / NSFW* 
 * [S.TO](https://s.to/) - *TV / Anime* 
@@ -443,6 +446,7 @@
 * [MKV Mad](https://www.mkvmad.pro/) - *Movies / TV *
 * [WorldFree4U](https://worldfree4u.quest/) - *Movies / TV*
 * [KatMovieHD](https://katmoviehd.se/) - *Movies / TV*
+* [HDHub4u](https://hdhub4u.wiki/) - *Movies*
 * [UncutHD](https://www.uncuthd.one/) - *Movies*
 * [MoviesVerse](https://t.me/MoviesHomeOFFICIALS) - *Movies / TV / Telegram* 
 * [BollywoodCineplex](https://t.me/BollywoodCineplex) - *Movies*
@@ -716,6 +720,7 @@
 * [SalamDL](https://salamdl.me/) - *Movies / TV* 
 * [ValaMovie](https://valamovie.club/) - *Movies / TV* 
 * [Tik-Film](https://tik-film.com/) - *Movies / TV* 
+* [Kartoonet](http://dl.kartoonet.com/) - *Movies*
 * [parsmovies](http://dl3.parsmovies.net/Movie/) - *Movies*
 * [NamaDL](http://namadl.ir/) - *Movies / TV* 
 * [GeMovie](https://gemovie.ir/) - *Movies / TV / Anime* 
@@ -1008,6 +1013,7 @@
 * [muzlishko](http://www.muzlishko.ru/) - *Music*
 * [pesnigoo](https://pesnigoo.ru/) - *Music*  
 * [Tancpol](https://tancpol.net/) - *Music*
+* [MP3Hero](https://mp3hero.net/) - *Music*
 * [MDCORE](https://vk.com/mdcore) - *Metal Music*
 * [HDVideoBox](https://forum.mobilism.org/viewtopic.php?f=429&t=4505325) - *Movies / TV / Anime / Android*
 * [OpenEDU](https://openedu.ru/) - *Courses*
