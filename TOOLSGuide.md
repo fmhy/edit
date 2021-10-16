@@ -15,21 +15,22 @@
 * **[MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb)** - *Multi-Tool Google Colab*
 * **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - *Multi-Calculator Sites* 
 * **[Versus](https://versus.com/)** or [Diffen](https://www.diffen.com/) - *Compare Anything* 
-* **[Logseq](https://logseq.com/)**, [MindMup](https://www.mindmup.com/), [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page), [Mindomo](https://www.mindomo.com/), [Yuque](https://www.yuque.com/) or [MindMapp](https://mindmapp.cedoor.dev/app) - *Mind Mapping Tool* 
+* **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - *Organize Ideas & Projects*
 * **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** - *Device Repair Articles*
 * **[TuboTax Sucks Ass](http://turbotaxsucksass.net/)** - *File Taxes for Free*
 * **[Worldometer](https://www.worldometers.info/)** - *World Data & Statistics*
 * **[Our World in Data](http://ourworldindata.org/)** - *World Problem Database*
-* **[BeMyEyes](https://www.bemyeyes.com/)** - *Assist those who are Visually Impaired* 
+* **[BeMyEyes](https://www.bemyeyes.com/)** - *Assist the Visually Impaired* 
 * [ShellBot](https://github.com/MannyHackers/ShellBot) - *Multi-Tool Telegram Bot*
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - *Open Source Tools* 
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - *Mac Dashboard Widget WebUI*
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - *AI Experiments / Tools* 
 * [Generative Tools](https://docs.google.com/document/d/1N57oAF7j9SuHcy5zg2VZWhttLwR_uEldeMr-VKzlVIQ/) - *Generative Tool Index*
-* [Barcode Reader](https://online-barcode-reader.inliteresearch.com/) - *Online Barcode Reader*
+* [Barcode Reader](https://online-barcode-reader.inliteresearch.com/) or [ZXing Decoder](https://zxing.org/w/decode.jspx) - *Online Barcode Reader*
 * [Internet Live Stats](https://www.internetlivestats.com/) - *Live Internet Statistics*
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - *World Birth / Death Rates Visualization*
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - *Gun Violence Information Database*
+* [Global Consciousness Project](https://gcpdot.com/) - *Real-Time Global Consciousness Data*
 * [The Measure Of Things](https://www.bluebulbprojects.com/measureofthings/default.php) - *Comparative / Relative Quantity Measurements* 
 * [CompareSizes](https://comparesizes.com/) - *Size Comparison Tool* 
 * [TimeAndDate](https://www.timeanddate.com/) - *Clocks / Calendars* 
@@ -87,7 +88,7 @@
 
 ## ▷ Text Tools
 
-* **[TextFixer](https://www.textfixer.com/)**, **[OnlineTextTools](https://onlinetexttools.com/)** or [Word Hippo](https://www.wordhippo.com/) - *Multiple Text Tools*
+* **[TextFixer](https://www.textfixer.com/)**, **[OnlineTextTools](https://onlinetexttools.com/)**, [Smodin](https://smodin.io/) or [Word Hippo](https://www.wordhippo.com/) - *Multiple Text Tools*
 * **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_editors)** - *Text Editing Tools*
 * **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - *Grammar Checking Tools*
 * **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_office_suites)** - *Office Suite Software*
@@ -131,6 +132,7 @@
 * [Universal Online Cyrillic Decoder](https://2cyr.com/decode/?lang=en) - *Decode / Recover Scrambled Text into Cyrillic*
 * [AnagramAssistant](https://keitharm.me/projects/anagramAssistant/) - *Anagram Tool* 
 * [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - *Text Tone Detection* 
+* [Just Not Sorry](https://chrome.google.com/webstore/detail/just-not-sorry-the-gmail/fmegmibednnlgojepmidhlhpjbppmlci) - *Undermining Word Detection*
 * [R2bEEaton's Phonetic Reverser](https://spea.cc/backwards/) - *Sentence / Word Reverser* 
 * [I or l?](https://iorl.info/) - *Is it an uppercase "i", or is it a lowercase "L"?*
 * [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/) or [Cool Symbol](https://coolsymbol.com/) - *Copy & Paste Unicode Symbols*
@@ -180,14 +182,14 @@
 * **[Multi-Site Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)**
 * **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)** 
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
+* [VideoTuts](http://videotuts.ru/) - *Video Design Tutorials / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)*
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - *Professional Video, Audio & Adobe Software / Plugins*
 * [VideoSmaller](https://www.videosmaller.com/) - *Video Compressor*
 * [youtube-cld](https://github.com/anatolykopyl/youtube-cdl) - *Bulk YouTube Channel Downloader*
 * [SaveVK](https://savevk.com/) - *Download VK videos* 
 * [DMVideo](https://dmvideo.download/) - *DailyMotion Video Downloader* 
 * [GetFVid](https://www.getfvid.com/), [Facebook DL](https://github.com/sdushantha/facebook-dl) or [FBDown](https://fbdown.net/) - *Facebook Video Downloader* 
-* [RipTok](https://github.com/adamsatyr/RipTok) - *Tik-Tok Channel Bulk Downloader*
-* [SnapTik](https://snaptik.app/), [TikMate](https://www.tikmate.online/), [TikTokFull](https://tiktokfull.com/) or [Tik.fail](https://tik.fail/) - *TikTok Video Downloader*
+* [TikTok Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tiktok_video_downloaders) - *Download TikTok Videos*
 * [TikUp](https://github.com/Coloradohusky/TikUp) - *TikTok Auto Download / Upload*
 * [How to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/), [3](https://www.removeddit.com/r/Piracy/comments/ou31y8/how_to_rip_from_amazon_other_streaming_services/), [4](https://0bin.net/paste/cYxSEPRq#w7i1vJSMVKTRKgGmdURaXdvNpimP2p9IxgF38I75NUQ)
 * [How to Rip Videos from Disney+](https://redd.it/ncyxzx), [2](https://web.archive.org/web/20210516014412/https://old.reddit.com/r/Piracy/comments/ncyxzx/tutorial_how_to_rip_moviesshows_from_disney_plus/) 
@@ -244,7 +246,7 @@
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - *Nico Nico Video Player*
 * [polsy.org.uk](http://polsy.org.uk/) - *Alt Players for Video Sites*  
 * [Mixkit](https://mixkit.co/), [Coverr](http://coverr.co/), [Elements](https://elements.envato.com/), [Videvo](https://www.videvo.net/) or [Mazwai](https://mazwai.com/) - *Stock Videos / Templates* 
-* [ShareAE](https://www.shareae.com/), [HunterAE](https://hunterae.com/), [AEShares](https://aeshares.com/), [AERiver](https://aeriver.com/), [CGNullded](https://cgnulled.com/), [Intro HD](https://intro-hd.net/) or [DownAE](https://downae.com/) - *After Effects Templates*
+* [ShareAE](https://www.shareae.com/), [HunterAE](https://hunterae.com/), [AEShares](https://aeshares.com/), [AEDownload](https://aedownload.com/), [AERiver](https://aeriver.com/), [CGNullded](https://cgnulled.com/), [Intro HD](https://intro-hd.net/) or [DownAE](https://downae.com/) - *After Effects Templates*
 * [video2x](https://github.com/k4yt3x/video2x) - *Video Upscaler*
 * [Anime4K](https://github.com/bloc97/Anime4K) - *Anime Video Upscaler* 
 * [Video Vault](https://www.bravenewtech.org/) - *Video Preservation Tool* 
@@ -298,6 +300,7 @@
 * [Equalizer APO](https://equalizerapo.com/) - *Audio Equalizer / [Noise Suppression](https://github.com/werman/noise-suppression-for-voice)*
 * [HeSuVi](https://sourceforge.net/projects/hesuvi/) - *Headphone Surround Virtualizations*
 * [REAL](https://github.com/miniant-git/REAL) - *Reduce Win 10 Audio Latency*
+* [easyeffects](https://github.com/wwmm/easyeffects) - *Audio Manipulation for PipeWire*
 * [VCV Rack](https://vcvrack.com/) - *Eurorack Simulator*
 * [Cable](https://vb-audio.com/Cable/) - *Virtual Audio Cable*
 * [Midomi](https://www.midomi.com/), [Shazam](https://www.shazam.com/), [SoundHound](https://www.soundhound.com/soundhound), [AcrCloud](https://www.acrcloud.com/identify-songs-music-recognition-online/), [Music ID Android](https://play.google.com/store/apps/details?id=com.gravitymobile.recognize&hl=en), [Music ID iOS](https://apps.apple.com/app/musicid/id358838909?ign-mpt=uo%3D8), [/r/NameThatSong](https://reddit.com/r/NameThatSong), [Dejavu](https://github.com/worldveil/dejavu) (python) or [Audd](https://audd.io/) (api) - *Song Identification Tools* 
@@ -407,6 +410,7 @@
 * [/r/freelance](https://www.reddit.com/r/freelance/) - *Freelance Subreddit*
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - *Design Job Subreddit*
 * [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - *Career Guidance Subreddit*
+* [AWS re/Start](https://aws.amazon.com/training/restart/) - *Cloud Career Training*
 * [Candor](https://candor.co/hiring-freezes/) - *Hiring Freezes*
 * [Zeoob](https://zeoob.com/) - *Social Media Digital Marketing Post Simulator*
 * [VCEGuide](https://vceguide.com/) - *Tech Certification Practice Tests*
@@ -441,7 +445,7 @@
 * [Broadband Map](https://broadbandmap.fcc.gov/) - *Fixed Broadband Deployment Map*
 * [WiFiCard](https://wificard.io/) - *WiFi Info QRCode Generator*
 * [Master Networks & Scanning](https://mega.nz/folder/woQFAaLT#Eqvaip0R-kXi-lD8OIch7g) - *Network & Network Scanning Tutorials*
-* [FeedReader](http://www.feedreader.com/), [QuiteRSS](https://quiterss.org/), [RSSOwl](http://www.rssowl.org/), [CommaFeed](https://www.commafeed.com/#/welcome), [RSSHub](https://github.com/DIYgod/RSSHub), [FreshRSS](https://freshrss.org/), [Fluent Reader](https://hyliu.me/fluent-reader/) or [Feeder](https://feeder.co/) - *RSS Feed Reader* 
+* [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - *Follow RSS Feeds*
 * [DatoRSS](https://www.datorss.com/) or [RSS.app](https://rss.app/) - *RSS Feed Search* 
 * [RSS Box](https://rssbox.herokuapp.com/) or [FiveFilters](https://createfeed.fivefilters.org/) - *RSS Feed Creator* 
 * [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - *RSS Feed for Sites Missing It*
@@ -451,7 +455,7 @@
 * [AutoSolve Captcha](https://hackgence.com/d/55-how-to-bypass-hcaptcha-autosolve-captcha) - *How to Bypass hCaptcha* 
 * [hcaptcha-solver](https://github.com/JimmyLaurent/hcaptcha-solver) - *hCaptcha Solver* 
 * [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - *Archive, Scrape & Crawl Sites* 
-* [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring) (Index), [Sken.io](https://www.sken.io/) or [FollowThatPage](https://followthatpage.com/) - *Page Change Detection / Notification* 
+* [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/, [urlwatch](https://thp.io/2008/urlwatch/) or [FollowThatPage](https://followthatpage.com/) - *Page Change Detection / Notification* 
 * [CertAlert](https://certalert.net/) - *Alerts you when a TLS/SSL Certificate Expires* 
 * [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - *Check which IPFS Gateways are online* 
 * [lew.la](https://lew.la/) - *Reddit video DL, YT to MP3 & More Tools* 
@@ -506,6 +510,7 @@
 * [Mail.mjj](https://mail.mjj.edu.ge/) - *Temporary .edu Mail*
 * [MailBait](https://mailbait.info/) - *Fill Inbox with Mail* 
 * [Email Valid](https://ivit.pro/services/email-valid/) or [Ychecker](https://ychecker.com/) - *Check Email Validity & Usage*
+* [Useplaintext](https://useplaintext.email/) - *How-To Use plaintext Email*
 * [Yandex Account Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - *Create Infinite Yandex Accounts*
 * [Gmail Dot Trick Generator](https://thebot.net/api/gmail/) - *Generate Unlimited Gmail Accounts via the Dot Trick*
 * [YakYak](https://github.com/yakyak/yakyak) - *Google Hangouts Desktop Client* 
@@ -566,6 +571,7 @@
 
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Privacy Focused Browsers* 
 * **[Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers) - *Normal Web Browsers*
+* **[Lightweight Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_lightweight_web_browsers)** - *Lightweight Web Browsers*
 * **[Browser Extensions / UserScripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_extensions)** 
 * [browserbench](https://browserbench.org/) - *Multiple Browser Benchmark Tests*
 * [VsyncTester](https://vsynctester.com/) - *Browser VSYNC Test*
@@ -739,6 +745,7 @@ General Reading Sites*
 * [lurrker](https://lurrker.com/), [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/), [kddit](https://kddit.kalli.st/), [Nuxtit](https://nuxtit.netlify.com/) or [js4.red](https://js4.red/) - *Alt Browsers / Web Clients*
 * [xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/), [Saturnus](https://saturnusapp.com/) or [teddit](https://teddit.net/), [2](https://codeberg.org/teddit/teddit) - *Reddit Frontends*
 * [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) - *Reddit Dekstop Client / Mac*
+* [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466-unedit-and-undelete-for-reddit) - *See Edited & Deleted Reddit Content*
 * [Reddit-Search](https://camas.github.io/reddit-search/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - *View Deleted Reddit Posts*
 * [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - *View Deleted Reddit Comments* 
 * [The-Eye /r/](https://the-eye.eu/r/) - *Subreddit Backups* 
@@ -976,6 +983,7 @@ General Reading Sites*
 * [ProgressBar Preserver](https://greasyfork.org/scripts/394512) - *Always Visible Progress Bar YouTube*
 * [Equalizer for YouTube](https://mybrowseraddon.com/equalizer-for-youtube.html) - *Audio Equalizer*
 * [Unhook](https://unhook.app/) - *Distraction Free YouTube*
+* [BlockTube](https://github.com/amitbl/blocktube) - *YouTube Content Blocker*
 * [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - *Remove YouTube Thumbnails / Title Capitalization*
 * [RapidTags](https://www.rapidtags.io/) - *YouTube Tag Generator*
 * [RegretsReporter](https://foundation.mozilla.org/en/campaigns/regrets-reporter/) - *Report Regrettable YouTube Recommendations* 
@@ -1023,6 +1031,7 @@ General Reading Sites*
 * [Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - *Download Twitch Chat Messages* 
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - *Add Subtitles to Twitch Stream*
 * [StreamLadder](https://streamladder.com/) - *Social Media Templates for Twitch Clips*
+* [TwitchLeak](https://twitchleak.netlify.app/) - *Twitch Top Earners Table*
 
 ***
 
@@ -1034,6 +1043,12 @@ General Reading Sites*
 * [Twitonomy](https://www.twitonomy.com/) or [Affinitweet](https://affinitweet.com/) - *Twitter Dashboard / Analytics* 
 * [TweetDeck](https://tweetdeck.twitter.com/) or [Tweeten](https://tweetenapp.com/) - *Twitter Dashboard*
 * [TweetDuck](https://github.com/chylex/TweetDuck) - *Twitter Desktop Client*
+* [SlimTwitter](https://f-droid.org/en/packages/it.rignanese.leo.slimtwitter/) - *Twitter Android Webwrapper*
+* [Shitter](https://github.com/nuclearfog/Shitter) - *Lightweight Twitter Android App*
+* [Fritter](https://fritter.cc/) - *Privacy Based Twitter Android App*
+* [Twidere](https://github.com/TwidereProject/Twidere-Android) - *Ad-Free Twitter Android App*
+* [Tweebot 6](https://apps.apple.com/us/app/tweetbot-6-for-twitter/id1527500834) - *Ad-Free Twitter iOS App*
+* [Twitter++](https://iosninja.io/ipa-library/download-twitter-plus-plus-ipa-ios) - *Tweaked Twitter iOS App*
 * [BackTweets](http://backtweets.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - *Search Twitter* 
 * [Twishort](https://twishort.com/) - *Make Longer Tweets*
 * [Poet.so](https://poet.so/) - *Create Twitter Post Images*
@@ -1072,12 +1087,10 @@ General Reading Sites*
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - *Delete Twitter Likes / Favorites* 
 * [Unfavinator](http://unfavinator.com/) - *Delete Twitter Favorites*
 * [TweetDelete](https://tweetdelete.net/) or [TweetEraser](https://www.tweeteraser.com/) - *Delete Twitter Posts in Bulk* 
-* [Tokimeki Unfollow](https://tokimeki-unfollow.glitch.me/) - *Twitter Unfollower*
+* [Tokimeki Unfollow](https://tokimeki-unfollow.glitch.me/) or [Unfollow All](https://chrome.google.com/webstore/detail/twitter-unfollow-all/mgehkbclkipppdjiemnhmnledicalkld) - *Twitter Unfollower*
 * [Unfollow Monkey](https://unfollow-monkey.com/) - *Unfollower Notifications*
 * [Fix Twitter Links](https://openuserjs.org/scripts/lucio-martinez/Fix_Twitter_links) - *Unshorten Twitter Feed URLs* 
 * [twitit](https://twitit.gq/) - *Scroll Twitter without Authentication*
-* [Twidere](https://github.com/TwidereProject/Twidere-Android) - *Ad-Free Twitter Apk*
-* [Tweebot 6](https://apps.apple.com/us/app/tweetbot-6-for-twitter/id1527500834) - *Ad-Free Twitter iOS App*
 * [TwitterAudit](https://www.twitteraudit.com/) - *Check How Many of your Followers are Real*
 * [ListCopy](http://projects.noahliebman.net/listcopy/connect.php) - *Copy Twitter Lists* 
 * [Twlets](http://twlets.com/) - *Export Twitter Data* 
@@ -1130,7 +1143,7 @@ General Reading Sites*
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - *Enable Windows Insider without Account*
 * [TweakUtility](https://github.com/Craftplacer/TweakUtility), [Sophia](https://github.com/farag2/Sophia-Script-for-Windows) or [MagicX Toolbox](https://github.com/Ahsan40/MagicX-Toolbox) - *Windows Tweaking Utility*
 * [Couleur Tweak Tips](http://discord.gg/CTT) - *Windows Tweaks & Tips*
-* [Awesome Scripts](https://github.com/codePerfectPlus/awesomeScripts) - *Useful Python Scripts*
+* [Awesome Scripts](https://github.com/codePerfectPlus/awesomeScripts), [Batch-Script-Collection](https://github.com/happy05dz/Batch-Script-Collection) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - *Useful System Scripts*
 * [SmartWindows](https://smartwindows.app/) - *Create / Restore Windows Profiles* 
 * [VirtualBox](https://www.virtualbox.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - *Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)*
 * [VMWare](https://gist.github.com/rkennesson/2c4595bf062aaab387dccf1210accf98) - *Hide Virtual Machine*
@@ -1234,7 +1247,7 @@ General Reading Sites*
 * [Collab-VM](http://computernewb.com/collab-vm/) - *Control Collaborative Virtual Machines* 
 * [NirLauncher](https://launcher.nirsoft.net/) - *All Nirsoft Utilities in One App*
 * [TopGrade](https://github.com/r-darwish/topgrade) - *Package Manager Update Automation* 
-* [Winget](https://github.com/microsoft/winget-cli) - *Windows Package Manager / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Tools](https://github.com/jdhitsolutions/WingetTools)* 
+* [Winget](https://github.com/microsoft/winget-cli) or [bget](https://github.com/jahwi/bget) - *Windows Package Manager / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Tools](https://github.com/jdhitsolutions/WingetTools)* 
 * [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI) or [Ninite](https://ninite.com/) - *Install / Update Multiple Programs at Once*
 * [Revo Uninstaller](https://www.revouninstaller.com/), [Soft Organizer](https://www.dropbox.com/s/5k5pm5f2xwbk7gb/soft-organizer-746-setup.exe), [Geek Uninstaller](https://geekuninstaller.com/), [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) or [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - *Software Uninstallation Tool*
 * [How to Disable Microsoft Edge](https://ibb.co/dkJ4Tb4)
@@ -1304,7 +1317,7 @@ General Reading Sites*
 * [Awesome Ricing](https://github.com/fosslife/awesome-ricing) or [Windows-Ricing](https://github.com/winthemers/windows-ricing) - *Windows Ricing Tools*
 * [LineStep](http://litestep.net/) - *Customize Deskstop Interface*
 * [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script) - *Windows Auto Personalization / Debloating Script*
-* [OpenRGB](https://openrgb.org/), [LiquidCTL](https://github.com/liquidctl/liquidctl) or [Aurora](https://github.com/antonpup/Aurora) - *System Lighting Control / [GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)*
+* [OpenRGB](https://openrgb.org/), [SignalRGB](https://www.whirlwindfx.com/pages/signalrgb), [LiquidCTL](https://github.com/liquidctl/liquidctl) or [Aurora](https://github.com/antonpup/Aurora) - *System Lighting Control / [GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)*
 * [DiscordChroma](https://github.com/DELUUXE/DiscordChroma) or [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - *Discord System Lighting Control*
 * [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - *Audio Visualizer / FX Engine for Keyboards, Mice & Accessories*
 * [Mechvibes](https://mechvibes.com/) or [MechaKeys](https://mechakeys.robolab.io/) - *Keyboard Soundpacks*
@@ -1333,7 +1346,7 @@ General Reading Sites*
 * [Hide File Explorer Dark Mode White Line](https://i.imgur.com/ZZsvyyM.png)
 * [MyDockFinder](https://www.mydockfinder.com/) - *MacOS Theme for Windows 10*
 * [Macdows11](https://redd.it/pd5ha6) - *Windows 11 Mac Theme Guide*
-* [StartAllBack](https://www.startallback.com/) - *Restore Classic Start Menu in Windows 11*
+* [StartAllBack](https://www.startallback.com/) or [Start11](https://www.stardock.com/products/start11/) - *Restore Classic Start Menu in Windows 11*
 
 ***
 
@@ -1400,7 +1413,7 @@ General Reading Sites*
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - *Encrypt / Decrypt GDrive*
 * [Google Drive Bot](https://t.me/Gdriveit_bot) - *Google Drive Client in Telegram*
 * [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - *Host Direct Links on GDrive* 
-* [gdrive-copy](https://github.com/ericyd/gdrive-copy), [googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader), [TgFolderClone](https://github.com/Loli-Killer/TgFolderClone), [Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot) or [GDrive-Clone](https://github.com/alx-xlx/gdrive-clone) - *Copy Google Drive*
+* [Copy Google Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_copy_google_drives) - *Make GDrive Copies* 
 * [gd-efc](https://anadius.github.io/gd-efc/) - *Copy Encrypted Google Drive* 
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - *Google Drive Link Encryptor for GD-EFC*
 * [goodls](https://github.com/tanaikech/goodls) - *Google Drive Downloader*
@@ -1431,6 +1444,7 @@ General Reading Sites*
 * [BackupPC](https://backuppc.github.io/backuppc/), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [UrBackup](https://www.urbackup.org/) or [Duplicati](https://www.duplicati.com/) - *File Backup System* 
 * [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) - *Web-Based File Browser*
 * [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/) or [Securedrop](https://securedrop.org/) - *Document File Sharing*
+* [OpenPaper](https://openpaper.work/en/) - *Document Manager*
 * [Browsemonkey](https://github.com/shukriadams/browsemonkey) - *Take Snapshots of File Systems* 
 * [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - *GDrive Guide* 
 * [Save to Drive](https://savetogoogledrive.herokuapp.com/) - *Save Files to GDrive without account*   
@@ -1486,7 +1500,7 @@ General Reading Sites*
 
 ## ▷ Linux Tools
 
-* **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)**, **[Friendly GNU](https://fglt.nl/guides/picking-a-distro.html)**, [tohoku](http://www.cs.tohoku-gakuin.ac.jp/pub/Linux/), [minerswin](http://root3.minerswin.de/ISO/), [Pkgs](https://pkgs.org/) or [ComputerFreely](https://computefreely.org/) - *Linux Distro Indexes / Guides*
+* **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)**, **[Friendly GNU](https://fglt.nl/guides/picking-a-distro.html)**, [tohoku](http://www.cs.tohoku-gakuin.ac.jp/pub/Linux/), [minerswin](http://root3.minerswin.de/ISO/), [Pkgs](https://pkgs.org/), [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity) or [ComputerFreely](https://computefreely.org/) - *Linux Distro Indexes / Guides*
 * [Linux Piracy](https://rentry.co/LinuxPiracy) - *Linux Piracy Guide*
 * [Distrochooser](http://distrochooser.de/?l=2) - *Linux Distro Chooser*
 * [LinuxTracker](https://linuxtracker.org/) - *Linux Distro Torrents*
@@ -1597,10 +1611,12 @@ General Reading Sites*
 * **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)** or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - *Game Requirements Test* 
 * **[Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers)** - *Get Scene Release Updates*
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - *Rainmeter Game Launcher*
+* [How-To Make Cracked Games Look Like Official Steam Games](https://www.reddit.com/r/PiratedGames/comments/pmim9t/tutorial_make_your_cracked_games_look_like/)
 * [Fraps](https://fraps.com/), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - *FPS Benchmarking Utility*
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner) - *Graphics Card Overclocking Utility / FPS Benchmarking*
 * [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - *Game Fixes and Patches*
 * [GameBurnWorld](http://www.gameburnworld.com/) - *No-CD/No-DVD Patches, Game Fixes, Trainers, Cheats* 
+* [Ludsavi](https://github.com/mtkennerly/ludusavi) - *PC Game Save Backup Manger*
 * [Save Game World](http://www.savegameworld.com/) - *PC Game Save Downloads*
 * [Save Editor Online](https://www.saveeditonline.com/) - *Game Save Editor*
 * [Koalageddon](https://github.com/acidicoala/Koalageddon/) - *DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)*
@@ -1619,6 +1635,7 @@ General Reading Sites*
 * [Forgehub](https://www.forgehub.com/) - *Halo Maps*
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - *Breath of The Wild Map*
 * [Hallownest](https://www.hallownest.net/) - *Hollow Knight Map*
+* [Library of Codexes](http://libraryofcodexes.com/) - *Game Codex Library*
 * [Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Covers for Games* 
 * [Open Game Art](https://opengameart.org/) - *Game Assets / Images* 
 * [The Models Resource](https://www.models-resource.com/) - *Game Models*
@@ -1630,6 +1647,7 @@ General Reading Sites*
 * [Random Dice](http://www.dicesimulator.com/) - *Dice Simulator*
 * [Buzz In](https://buzzin.live/) - *Online Buzzer System*
 * [Score7](https://score7.io/) - *Tournament Creator / Manager*
+* [5ETools](https://5e.tools/) - *Dungeons & Dragons Tools*
 * [Roll20](https://roll20.net/), [Rolisteam](https://rolisteam.org/) or [Astral](https://www.astraltabletop.com/) - *Tabletop RPG Streaming*
 * [Tabletopy](https://tabletopy.com/) - *Tabletop RPG Soundboard*
 * [FrontierNav](https://frontiernav.net/) - *JRPG Databases & Interative Maps*
@@ -1821,6 +1839,7 @@ General Reading Sites*
 * [Villager Trading Cheatsheet](https://i.imgur.com/vCpAxmD.png)
 * [Free Minecraft Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_servers) - *Host Free Minecraft Servers*
 * [GeyserMC](https://geysermc.org/) - *Join Minecraft Java Servers with Bedrock Client / [Consoles](https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles)* 
+* [CraftyControl](https://craftycontrol.com/) - *Minecraft Server Controller*
 * [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization:zap:.283181/) - *Paper / Spigot Server Optimization Guide / Use Paper*
 * [mcsrvstat](https://mcsrvstat.us/) - *Server Status Updates*
 * [Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers) 
