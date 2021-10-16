@@ -109,6 +109,7 @@
 * [latestation](http://radio.late.city/) - *Late-Night Radio*
 * [LISTEN.moe](https://listen.moe/)  - *K-Pop Radio*
 * [Fountain of Dreams](https://fountainofdreams.net/) - *Japanese 80's Radio* 
+* [BakaRadio](https://www.bakaradio.net/app-bakaradio-player/) - *Anime Radio*
 * [Rainwave](https://rainwave.cc/), [Squid Radio](https://www.squid-radio.net/), [RPGGamers Radio](http://www.rpgamers.net/radio/), [VGMRadio](https://vgmradio.com/) or [Sitting On Clouds Radio](https://www.sittingonclouds.ru/) - *Video Game Music Radio*
 * [Nectarine](https://www.scenestream.net/demovibes/streams/) - *Demo Scene Music Radio*
 * [Radio Garden](https://radio.garden/) - *Worldwide Radio*
@@ -194,7 +195,7 @@
 * [Deezer2DriveBot](https://t.me/deezer2drivebot) - *Deezer & Qobuz to GDrive Bot*
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - *Bandcamp Downloader*
 * [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - *Soundcloud Download Tools*
-* [streamrip](https://github.com/nathom/streamrip) - *Deezer & SoundCloud Downloader*
+* [streamrip](https://github.com/nathom/streamrip) - *Deezer & SoundCloud Downloader / [Colab](https://github.com/taskylizard/uwustreamrip)*
 * [Musescore-downloader](https://github.com/Xmader/musescore-downloader) - *Musescore Downloader*
 * [you-get](https://you-get.org/) or [irs](https://github.com/cooperhammond/irs) - *Audio Command Line Download Tool*
 * [music-downloader](https://github.com/Dayhawk007/music-downloader) - *Python Music Download Script*
@@ -267,6 +268,7 @@
 * [iTDMusic](https://itdmusic.in/) - *iTunes M4A* 
 * [ITDPlus](https://itdplus.ru/) - *iTunes M4A*
 * [iTopMusicx](https://itopmusicx.com/) - *iTunes M4A*
+* [Plus Premieres](http://www128.pluspremieres.biz/) - *iTunes M4A*
 * [TvG](https://tvg-blog.tumblr.com/) - *MP3 / Rare Music*
 * [zippyshare DJs](https://www.zippysharedjs.com/) - *Zippyshare File Search* 
 * [Archive.org](https://archive.org/details/audio) - *DL / Stream / MP3* 
@@ -306,6 +308,7 @@
 * [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://github.com/TheLastZombie/VGMLoader) / [2](https://github.com/obskyr/khinsider), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
 * [Sitting On Clouds](https://www.sittingonclouds.com/) - *Game / Animation Soundtracks* 
 * [AniPlaylist](https://aniplaylist.com/), [YumeOST](https://www.yumeost.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - *Anime Soundtracks* 
+* [OtakuOst](https://otakuost.net/) - *Anime Soundtracks & Japanese Music* 
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- *MIDI Files* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
 * [Free Music Archive](https://www.freemusicarchive.org/) - *Royalty Free Music* 
@@ -366,6 +369,7 @@
 * [VGMdb](https://vgmdb.net/) - *Video Game Music Database*
 * [generasia](https://www.generasia.com/) - *Asian Music Wiki*
 * [dbkpop](https://dbkpop.com/) - *K-Pop Database*
+* [Stage48](http://stage48.net/wiki/index.php) - *Stage48 Idol Group Database*
 * [Music.ishkur](http://music.ishkur.com/) - *Electronic Music Guide* 
 * [Every Noise at Once](http://everynoise.com/) - *Music Genre Samples*
 * [Listening Together](https://listeningtogether.atspotify.com/) - *Tracks Each Time Two People Play the Same Song*
