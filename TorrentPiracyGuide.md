@@ -19,7 +19,7 @@
 * **[qBittorrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)**
 * **[Transmission](https://transmissionbt.com/)** - *[Screenshot](https://i.imgur.com/IjdECzR.png)*
 * **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)** - *Download Torrents to Google Drive*
-* [Torrent Web](https://wolfozzotorrent.herokuapp.com/#) or [from-torrent](https://multiup.org/en/upload/from-torrent) - *Download Torrents to DDL Sites / [Bypass 10GB Limit](https://i.imgur.com/ChMcdq8.png)*
+* [Torrent Web](https://wolfozzotorrent.herokuapp.com/#) or [from-torrent](https://multiup.org/en/upload/from-torrent) - *Torrent to DDL Sites / [Bypass 10GB Limit](https://i.imgur.com/ChMcdq8.png)*
 * [Deluge](https://www.deluge-torrent.org/) - *[Screenshot](https://i.imgur.com/RbQUHpF.png)*
 * Deluge Tools - [Plugins](https://dev.deluge-torrent.org/wiki/Plugins) / [Auto-Remove](https://github.com/omaralvarez/deluge-autoremoveplus) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
 * [Tixati](https://tixati.com/) - *[Screenshot](https://i.imgur.com/joYQzTw.png)* 
@@ -30,7 +30,7 @@
 * [BiglyBT](https://www.biglybt.com/) - *[Screenshot](https://i.imgur.com/Gopf4tZ.png)* 
 * [NeoLoader](https://neoloader.com/) - *[Screenshot](https://neoloader.com/neo/image1.jpg)*
 * [Tribler](https://www.tribler.org/) - *Tor-inspired Client / [Screenshot](https://i.imgur.com/IzmanCf.png) / [Github](https://github.com/Tribler/tribler)*
-* [aria2](https://aria2.github.io/) - *Terminal Torrent Client / [Screenshot](https://i.imgur.com/KV0pSjt.png) / [Github](https://github.com/aria2/aria2)*
+* [aria2](https://aria2.github.io/) - *Terminal Torrent Client / [Screenshot](https://i.imgur.com/KV0pSjt.png) / [Github](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot)*
 * [mtorrent](https://github.com/nektro/mtorrent) - *Terminal Torrent Client* 
 * [libtorrent](https://www.libtorrent.org/) - *C++ BitTorrent Client*
 * [exatorrent](https://github.com/varbhat/exatorrent) - *Self-Hosted Client*
@@ -42,7 +42,7 @@
 * [swizzin](https://swizzin.ltd/) - *All-in-one Seedbox Solution for Ubuntu / Debian* 
 * [rtinst](https://github.com/arakasi72/rtinst) - *Seedbox Installation Script for Ubuntu / Debian* 
 * [rTorrent](https://rakshasa.github.io/rtorrent/) / [2](https://github.com/rakshasa/rtorrent), [BitFlu](http://bitflu.workaround.ch/) or [kTorrent](https://apps.kde.org/en/ktorrent) / [2](https://invent.kde.org/network/ktorrent) - *Linux Torrent Client* 
-* rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [All Seeders Column](https://github.com/AkdM/rutorrent-all-seeders)
+* rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [All Seeders Column](https://github.com/AkdM/rutorrent-all-seeders) / [Docker Build](https://github.com/binhex/arch-rtorrentvpn)
 * [RuTorrent](https://github.com/Novik/ruTorrent) - *RTorrent Web Frontend / [Themes](https://github.com/InAnimaTe/rutorrent-themes), [2](https://github.com/artyuum/3rd-party-ruTorrent-Themes)*
 * [flood](https://flood.js.org/) - *rTorrent, Transmission & qBittorrent WebUI*
 * [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - *Easily Send Torrents to Client* 
@@ -62,6 +62,7 @@
 * [TorrentSafe](https://www.torrentsafe.com/)
 * [FileStream](https://filestream.me/)
 * [ZBIGZ](https://zbigz.com/)
+* [PeerSM](https://www.peersm.com/)
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - *Stream Torrents in Browser*
 * [JSTorrent](https://www.jstorrent.com/) - *Chrome*
 * [BitFord](https://github.com/astro/bitford) - *Chrome*
@@ -129,7 +130,7 @@
 * **[Torrentz2](https://torrentz2eu.me/)** - *[Beta](https://torrentzeu.org/beta/) / [Magnet Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrentz2_magnet_links)*
 * **[FileListing](https://filelisting.com)** 
 * **[snowfl](https://snowfl.com/)** 
-* **[Knaben](https://knaben.net/)**
+* **[Knaben](https://knaben.eu/)**
 * [Zooqle](https://zooqle.com/) 
 * [iDope](https://idope.se) 
 * [Bitsearch](https://bitsearch.to/)
@@ -229,10 +230,13 @@
 * [mgnet](http://mgnet.me/) - *Magnet Link Shortener*
 * [MagnetLinkCatcher](https://github.com/pedrolemoz/MagicMagnet) - *Magnet Link Catcher / App*
 * [RSSFeedz](https://t.me/rssfeedz) - *Torrent RSS Feed*
+* [OpenWebTorrent](https://openwebtorrent.com/) - *Free Webtorrent Tracker*
 * [AutoDL-Irssi](https://autodl-community.github.io/autodl-irssi/) - *IRC Channel Monitor / Autodownload / [Slack Notifications](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b)* 
 * [PrivTracker](https://privtracker.tk/) - *Private BitTorrent Tracker Generator / [GitHub](https://github.com/meehow/privtracker)* 
 * [AnonSeed](https://www.anonseed.com/) - *Anonymous Torrent Sharing* 
+* [Torrent-Creator](https://github.com/Kimbatt/torrent-creator) - *Browser Torrent Creator*
 * [Torrent Editor](http://torrenteditor.com/) or [Torrent Parts](https://torrent.parts/) - *Edit Torrents Files*
+* [TorrentOpener](http://www.torrentopener.com/) - *Torrent Metadata Viewer*
 * [bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor) - *Add or Remove Trackers from Torrent Files*
 * [mktorrent](https://github.com/pobrn/mktorrent) - *Metainfo File Creation CLI* 
 * [/r/torrents](https://reddit.com/r/torrents) - *Torrenting discussion sub*
