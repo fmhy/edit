@@ -185,7 +185,6 @@
 * [icon_finder](https://codeberg.org/cauf/icon_finder) - *Search for Icons via Patterns*
 * [pfps.gg](https://pfps.gg/) - *Profile Picture Index*
 * [Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Movie / TV Covers & Posters*
-* [iTunes Artwork Grabber](https://artwork.themoshcrypt.net/) or [Album Art Downloader](https://sourceforge.net/projects/album-art/) - *Album Art*
 * [CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/) or [OpenClipart](https://openclipart.org/) - *PNG Images / Clipart* 
 * [Sankaku](https://sankaku.app/) or [ZeroChan](https://zerochan.net/) - *Anime Images / Some NSFW / [Chrome](https://github.com/Disrc/SankakuComplexAddon)*
 * [PSDGraphics](https://www.psdgraphics.com/) - *PSD Files*
@@ -330,7 +329,7 @@
 * [StoriesDown](https://storiesdown.com/) or [StoriesIG](https://storiesig.net/) - *Story Downloader*
 * [InstaDP](https://www.instadp.com/) or [Instagram-crawler](https://github.com/hehpollon/Instagram-crawler) - *Picture / Story Downloader* 
 * [PixWox](https://www.pixwox.com/) - *Story / Picture / Story Downloader*
-* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [SocialUnblock](https://socialunblock.com/), [Instagram-Scraper](https://github.com/arc298/instagram-scraper), [DownloadGram](https://downloadgram.com/), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [igram](https://igram.io/), [InstaLooter](https://github.com/althonos/InstaLooter), [Instaloader](https://github.com/instaloader/instaloader), [InstaSave](https://github.com/sameera-madushan/InstaSave) or [YooYing](https://www.yooying.com/instagram-downloader) - *Picture / Video Downloader*
+* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [SocialUnblock](https://socialunblock.com/), [Instagram-Scraper](https://github.com/arc298/instagram-scraper), [DownloadGram](https://downloadgram.com/), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [igram](https://igram.io/), [InstaLooter](https://github.com/althonos/InstaLooter), [instadownloader](https://www.instadownloader.org/), [Instaloader](https://github.com/instaloader/instaloader), [instapick](https://www.instapick.net/), [InstaSave](https://github.com/sameera-madushan/InstaSave) or [YooYing](https://www.yooying.com/instagram-downloader) - *Picture / Video Downloader*
 * [4K Stogram](https://www.4kdownload.com/products/product-stogram) or [InstaLoader](https://instaloader.github.io/) - *Picture Downloader* 
 * [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - *Video Downloader*
 * [PyInstaLive](https://github.com/dvingerh/PyInstaLive) - *Download Instagram Livestreams / Replays* 
