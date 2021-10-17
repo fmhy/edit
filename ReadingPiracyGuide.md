@@ -884,6 +884,7 @@
 * [Tritinia](https://tritinia.com/)
 * [AsuraScans](https://asurascans.com/) - *[Discord](https://discord.gg/asurascans)*
 * [MangaJar](https://mangajar.com/)
+* [LilyManga](https://lilymanga.com/) 
 * [ReadManhua](https://readmanhua.net/)
 * [NineManga](http://www.ninemanga.com)
 * [Muc Tau](https://muctau.com/)
