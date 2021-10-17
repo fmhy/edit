@@ -232,6 +232,7 @@
 * [Downloadastro](https://en.downloadastro.com/) - *Software* 
 * [SnapFiles](https://www.snapfiles.com/freeware/) - *Software*
 * [apponic](https://www.apponic.com/) - *Software*
+* [SoftHeap](https://www.softheap.com/) - *Software*
 * [Soft112](https://www.soft112.com/) - *Software* 
 * [FileEagle](https://www.fileeagle.com/) - *Software*
 * [IcecreamApps](https://icecreamapps.com/) - *Software* 
