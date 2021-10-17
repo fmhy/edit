@@ -407,6 +407,7 @@
 * [SportHD](https://sporthd.live/) - *Sports* 
 * [cricfree.tv](http://crickfree.be/) - *Sports*
 * [SportsOnline](https://sportsonline.to/) - *Sports*
+* [VIPBoxTV](https://www.vipboxtv.se/) - *Sports*
 * [s365.Live](http://www.s365.live/) - *Sports*
 * [MARKKY](https://markkystreams.com/) - *Sports*
 * [TheHomeSports](https://thehomesport.com/) - *Sports* 
@@ -476,7 +477,7 @@
 * [MobileTVShows](https://www.mobiletvshows.net/) - *TV / Anime*
 * [MoviesforDiscord](https://discord.movies4discord.xyz/) - *Movie Streaming / Download Bot / [Website](https://movies4discord.xyz/)*
 * [Medeberiyaa](https://medeberiyaa.com/) - *Movies / TV / Anime*
-* [PSARips](https://psarips.uk/) or [x265.club](https://x265.club/) - *Movies / TV / [Scraper](https://github.com/NandiyaLive/PSALinkGrabber) / [IMDb Titles](https://github.com/ni554n/userscripts/tree/master/psarips-replace-post-titles-with-imdb-links)* 
+* [PSARips](https://psarips.top/) or [x265.club](https://x265.club/) - *Movies / TV / [Scraper](https://github.com/NandiyaLive/PSALinkGrabber) / [IMDb Titles](https://github.com/ni554n/userscripts/tree/master/psarips-replace-post-titles-with-imdb-links)* 
 * [Crazy4tv](https://crazy4tv.com/) - *Movies / TV*
 * [DDLBase](https://ddlbase.net/) - *Movies / TV*
 * [megaDDL](https://megaddl.co/) - *Movies / TV*
@@ -654,7 +655,6 @@
 * **Stremio Tools** - [Addons](https://redd.it/ahd6gk) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg)
 * **[Butter](https://github.com/butterproject/butter-desktop)** or [PopcornTime.is](http://popcorn-ru.tk/build/) - *Movies / TV / Anime*
 * **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/) or [Watcher](https://nosmokingbandit.github.io/) - *Autodownload Torrents*
-* [Flixerr](https://github.com/carlelieser/Flixerr) - *Movies / TV / r/Flixerr_Official / [Discord](https://discord.gg/KrEYTJb)*
 * [WatchIt](http://watchitapp.site/) - *Movies / TV / Anime / [GitHub](https://github.com/ZorrillosDev/watchit-desktop)*
 * [Powder](https://powder.media/) - *Torrent Streaming App*
 * [Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) - *Stream Torrents via Clients*
@@ -667,6 +667,7 @@
 * [NZBHydra](https://github.com/theotherp/nzbhydra) - *Meta search for NZB indexers*
 * [Clifix](https://github.com/fabiospampinato/cliflix) - *Torrent Stream Search App*
 * [pirateflix](https://github.com/orinocoz/pirateflix) - *Stream TPB Movies from CLI* 
+* [TorrenTV](https://torrentv.github.io/) - *Stream Torrents to Apple TV, Chromecast & Roku*
 * [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - *Stream Torrents in VLC*
 * [Iceetime](https://github.com/diericx/iceetime) - *Self-Hosted Torrent Streaming* 
 * [DuckieTV](http://duckietv.github.io/DuckieTV/) - *TV Tracker / Torrent Downloader* 
@@ -758,7 +759,7 @@ https://greasyfork.org/en/scripts/407284-imdb-scout-mod
 * [Kitsu](https://kitsu.io/) - *Anime* 
 * [AniDB](https://anidb.net/) - *Anime*
 * [AniList](https://anilist.co/) - *Anime / [Wrapper](https://github.com/butterstroke/Anilist-Node)* 
-* [Animender](https://discord.gg/h6nTTprMKd) - *Anime Recommendation A.I.*
+* [Animender](https://discord.gg/h6nTTprMKd) or [AniBrain](https://anibrain.ai/) - *Anime Recommendation Tool*
 * [MetaCritic](https://www.metacritic.com/) - *Movies / TV / Anime*
 * [rate.house](https://rate.house/) - *Media Tracker*
 * [FlickChart](https://www.flickchart.com/) - *Rank your movies*
