@@ -104,6 +104,7 @@
 * [PhoenixOS Darkmatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - *Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)*
 * [Anbox](https://anbox.io/) - *Android Linux Emulator*
 * [ApkOnline](https://www.apkonline.net/) - *Online Android Emulator*
+* [UniPatcher](https://github.com/btimofeev/UniPatcher) - *Android Rom Patcher*
 * [BlueStacks X](https://x.bluestacks.com/) - *Cloud-Based Android Gaming*
 
 ***
@@ -265,8 +266,9 @@ App Manager
 * [Haoict Repository](https://haoict.github.io/cydia/) - *App Repository*
 * [DivestOS](https://divestos.org/fdroid/official/) - *App Repository*
 * [TeamOS](https://www.teamos-hkrg.com/) - *Modded / Forum* 
-* [Aurora Store](https://auroraoss.com/), [2](https://f-droid.org/en/packages/com.aurora.store/) or [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) - *Alt Google Play Store*
-* [Aptoide](https://aptoide.com/) - *Alt Android App Store*
+* [Aurora Store](https://auroraoss.com/), [2](https://f-droid.org/en/packages/com.aurora.store/) or [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) - *Alt App Store*
+* [Aptoide](https://aptoide.com/) - *Alt App Store*
+* [AC-Market](https://ac-market.org/) - *Alt App Store*
 * [Android Zone](https://android-zone.ws/) - *Forum*
 * [APKGK](https://apkgk.com/) - *Untouched*
 * [AAPKS](https://aapks.com/) - *Untouched*
@@ -539,7 +541,6 @@ RSS Player*
 * [Sideloading Beginners Guide](https://redd.it/orqzau) or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - *Sideloading Guide*
 * [/r/sideloaded](https://reddit.com/r/sideloaded) - *Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)*
 * [Sideloadly](https://iosgods.com/topic/130167-windowsmacosm1ios-15-introducing-sideloadly-working-cydia-impactor-alternative/) , [ReProvision Reborn](https://repo.packix.com/package/jp.soh.reprovision) / [GitHub](https://github.com/sohsatoh/ReProvision-Reborn) or [iPAWiND](https://ipawind.com/) - *Sideloading Tool*
-* [Jailbreak 13.5 Tweak Compatibility List](https://docs.google.com/spreadsheets/d/1cHL_bIcmON2L5euBM8NDk0SZ8w-VUE6oY3USbVqaLnA/edit?usp=sharing) - *Find out what tweaks are compatible with the 13.5* 
 * [IPSW](https://ipsw.me/) - *Provides Jailbreak firmware*
 * [Julioverne](https://julio.hackyouriphone.org/) - *Jailbreaking Tools* 
 * [checkra1n](https://checkra.in/) - *5s - X Jailbreak*
