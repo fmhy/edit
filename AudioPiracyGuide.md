@@ -47,6 +47,7 @@
 * [SoundClick](https://www.soundclick.com/default.cfm) - *Browser Music*
 * [Tancpol](https://tancpol.net/) - *Browser Music*
 * [MP3 Quack](https://mp3quack.lol/) - *Browser Music*
+* [MP4Juice ](https://mp4juice.cc/) - *Browser Music*
 * [Vapor Archive](https://vaporarchive.neocities.org/) - *Vaporwave*
 * [hypem](https://hypem.com/popular) - *Rising*
 * [datpiff](https://www.datpiff.com/) - *Mixtapes*
@@ -176,7 +177,7 @@
 ## ▷ Download Apps
 
 * **[Deemix](https://gitlab.com/paulchatte123/deemix-gui-fmp3dl)** - *MP3 / [/r/deemix](https://reddit.com/r/deemix) / [Telegram](https://t.me/deemixcommunity) / [ARL](https://archive.is/aQ3JA)*
-* **[GamesDrive Music-DL](https://discord.gg/PKFAnduGtA)** - *TIDAL Music Bot Ripper*
+* **[GamesDrive Music-DL](https://discord.gg/PKFAnduGtA)** - *Tidal & Qobuz Bot Ripper*
 * **[Soggfy](https://github.com/Rafiuth/Soggfy)** - *Spotify OGG Dumper / [Discord](https://discord.gg/gjqrP5PB8g)*
 * **[YouTube to MP3](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)*
@@ -236,6 +237,7 @@
 * [musify](https://musify.club/) - *MP3*
 * [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - *MP3*
 * [Music for the masses !](https://redd.it/nt7fea) - *MP3*
+* [MP4Juice](https://mp4juice.cc/) - *MP3*
 * [Moe:81](http://miya.nipah.moe:81/public/music/) - *MP3 / FLAC*
 * [geedryve](http://jacobsm.com/geedryve/records/mp3s/) - *MP3* 
 * [Music Library](https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7) - *MP3*
