@@ -116,7 +116,7 @@
 
 * **[OneHack](https://onehack.us/)**
 * **[Biohazard](https://discord.gg/Myau7R5QFj)** - *Guides / Courses / Extensions / Chat*
-* [/m/piracy](https://www.reddit.com/user/nbatman/m/piracy/), [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) - *Piracy Multireddit*
+* **[/m/piracy](https://www.reddit.com/user/nbatman/m/piracy/)**, [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) - *Piracy Multireddit*
 * [/r/piracy](https://reddit.com/r/piracy) - *[Backup](https://github.com/nid666/PiracyArchive)*
 * [/r/piratedgames](https://reddit.com/r/piratedgames) - *[Discord](https://discord.gg/Da2akf2)*
 * [/r/SoftwarePirates](https://reddit.com/r/SoftwarePirates) - *Software Piracy Discussion*
@@ -369,9 +369,6 @@
 * [Fake Text Message](https://ifaketextmessage.com/) - *Make Fake Text Conversation* 
 * [FutureTimeline](https://www.futuretimeline.net/) - *Timeline of future predictions* 
 * [House creep](https://www.housecreep.com/) - *Homes With A Curious or Criminal History* 
-* [OpenPsychometrics](https://openpsychometrics.org/) or [16 Personalities](https://www.16personalities.com/) - *Personality Tests*
-* [Six Triangles](https://sixtriangles.github.io/), [9 Axes](https://9axes.github.io/), [8dreams](https://8dreams.github.io/), [ISideWith](https://www.isidewith.com/) or [8 Values](https://8values.github.io/) - *Political Alignment Test*
-* [1000 Seconds](https://mattround.com/usvsth3m/1000-seconds/) - *Test of Patience*
 * [Hypochondriapp](http://hypochondriapp.io/) - *Get a terrible diagnosis for your symptoms*
 * [Cube Rule](https://cuberule.com/) - *The Cube Rule of Food* 
 * [EverySecond](https://everysecond.io/) - *Visualize Per Second Data*
@@ -424,7 +421,11 @@
 * [HowNormalAmI?](https://www.hownormalami.eu/) - *Face Judge A.I.*
 * [Word Blanks](https://www.wordblanks.com/) or [Plot Generator](https://www.plot-generator.org.uk/) - *Online Mad Libs*
 * [Fun Trivia](https://www.funtrivia.com/) or [Sporcle](https://www.sporcle.com/) - *Trivia*
+* [ARealMe](https://www.arealme.com/) - *Quiz Collection*
+* [OpenPsychometrics](https://openpsychometrics.org/) or [16 Personalities](https://www.16personalities.com/) - *Personality Tests*
+* [1000 Seconds](https://mattround.com/usvsth3m/1000-seconds/) - *Test of Patience*
 * [theOtaku](http://theotaku.com/quizzes) - *Anime Personality Quizzes* 
+* [Six Triangles](https://sixtriangles.github.io/), [9 Axes](https://9axes.github.io/), [8dreams](https://8dreams.github.io/), [ISideWith](https://www.isidewith.com/) or [8 Values](https://8values.github.io/) - *Political Alignment Test*
 * [Three.js](https://threejs.org/) - *JavaScript 3D library* 
 * [Pokémon Fusion](https://pokemon.alexonsager.net/) - *Fuse Pokémon*
 * [Poke Palettes](https://pokepalettes.com/) - *Pokemon Color Palettes* 
