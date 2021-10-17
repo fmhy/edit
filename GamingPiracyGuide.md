@@ -23,6 +23,7 @@
 * **[DODI](http://dodi-repacks.site/)** - *[Discord](https://discord.gg/uE273qJ)*
 * **[GoG Games](https://gog-games.com/)**
 * **[FreeToGame](https://www.freetogame.com/games)**, [Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) or [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - *F2P Games*
+* **[Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers)** - *Get Scene Release Updates*
 * [ScOOter Repacks](https://scooter-repacks.site/) - *[Discord](https://discord.gg/BWKyN8SgvM)*
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - *[Discord](https://discord.gg/693hNBdymb)*
 * [CPG](https://cpgrepacks.site/) - *[Discord](https://discord.gg/dtBSZ9N)*
@@ -46,7 +47,7 @@
 * [Bia2Game](http://dl.bia2game.com/) 
 * [GamingMaster](http://s5.gamingmaster.ir/) 
 * [Game-Repack](https://www.game-repack.site/) 
-* [Repack-Games](https://repack-games.com/) - *[Discord](https://discord.com/invite/2EQp2NFD)*
+* [Repack-Games](https://repack-games.com/)
 * [cracked-games](https://cracked-games.org/) - *[Discord](https://discord.gg/tNhPmCU)*
 * [LegendaryRepacks](https://discord.gg/RUSNHSk) - *Universal Bypass Required*
 * [TOPXGAME](https://topxgame.com/)
@@ -87,8 +88,8 @@
 * [Unciv](https://github.com/yairm210/Unciv) - *Civ V Remake*
 * [London 2038](https://london2038.com/) - *London 2038 Multiplayer Revival Project*
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - *Space Cadet Pinball Decompilation*
-* [Vapor Store](https://github.com/SushyDev/vapor-store) - *Pirated Game Store / [Discord](https://discord.gg/Y4ECqXN) / Works w/ [steamunlocked](https://steamunlocked.net/all-games/)*
 * [/r/RepackWorld](https://reddit.com/r/RepackWorld) - *Repack Subreddit*
+* [How The Warez Scene Works](https://www.reddit.com/r/CrackWatch/comments/92uz49/the_warez_scene_how_it_works/) 
 
 ***
 
@@ -109,7 +110,6 @@
 * [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win/)
-* [FreeTP](https://freetp.org/) - *Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Ali213](https://ali213.net/) - *May Require VPN / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 
 ***
@@ -390,7 +390,7 @@
 * [3rd World Farmer](https://3rdworldfarmer.org/) - *Farm Sim*
 * [Orbity](https://orbity.io/game.php) - *Space Ship Launching Game* 
 * [Clicking Bad](http://clickingbad.nullism.com/) - *Clicker Game / Become Walter White* 
-* [The Wiki Game](https://www.thewikigame.com/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/), [WikiRacer](https://wikiracer.io/) - *Find the Shortest Path between Wiki Articles / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)*
+* [The Wiki Game](https://www.thewikigame.com/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) or [WikiRacer](https://wikiracer.io/) - *Find the Shortest Path between Wiki Articles / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)*
 * [GeoFS](https://www.geo-fs.com/geofs.php) - *Plane Simulator*
 * [Classic Minecraft](https://classic.minecraft.net/) - *Play Classic Minecraft* 
 * [Marble Blast Gold Web](https://marbleblast.vani.ga/) - *Marble Blast Gold in Browser*
