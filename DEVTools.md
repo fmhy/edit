@@ -50,6 +50,7 @@
 * [FCS](https://freecoursesite.com/) - *Programing Tutorials*
 * [w3schools](https://www.w3schools.com/) - *Programing Tutorials*
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - *Programming Courses*
+* [HelloWorldCollection](http://helloworldcollection.de/) - *Hello World Programming Collection*
 * [HTMLDog](https://htmldog.com/) - *HTML / CSS / JavaScript Tutorials* 
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/) - *HTML & CSS Tutorials*
 * [VIM Adventures](https://vim-adventures.com/) - *VIM Learning Game*
@@ -246,7 +247,7 @@
 * [Visual CSS Editor](https://chrome.google.com/webstore/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - *WordPress Site Designer*
 * [Nulled Scripts](https://www.nullscripts.net/) - *Wordpress & Bulletin Board Scripts*
 * [faustjs](https://github.com/wpengine/faustjs) - *Wordpress Framework*
-* [gpldl](https://gpldl.com/), [allwpworld](https://allwpworld.com/), [pwned.space](https://pwned.space/wordpress-themes/), [wplocker](https://www.wplocker.com/), [WePlay](https://www.weaplay.com/), [freegetdownloader](https://www.freegetdownloader.com/), [crackthemes](https://www.crackthemes.com/) or [babiato](https://babiato.co/) - *Wordpress Themes*
+* [gpldl](https://gpldl.com/), [allwpworld](https://allwpworld.com/), [pwned.space](https://pwned.space/wordpress-themes/), [wplocker](https://www.wplocker.com/), [WePlay](https://www.weaplay.com/), [freegetdownloader](https://www.freegetdownloader.com/), [crackthemes](https://www.crackthemes.com/), [jojo-themes](https://www.jojo-themes.net/) or [babiato](https://babiato.co/) - *Wordpress Themes*
 * [vichan](https://github.com/vichan-devel/vichan) - *Imageboard Software Package*
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - *Self-Hosted Private Tracker*
 
@@ -273,6 +274,7 @@
 * [Docker](https://www.docker.com/) - *Build, Manage & Run Apps in Containers / [Images](https://linuxserver.io/)*
 * [Blisk](https://blisk.io/) - *Cross-Device Testing*
 * [Booster](https://github.com/didi/booster) - *Mobile App Optimization*
+* [Mobbin](https://www.mobbin.design/) - *Mobile App Design Reference Library*
 * [Plank](https://launchpad.net/plank) - *Simple Dock / [GitHub](https://github.com/ricotz/plank)*
 * [Portainer](https://portainer.io/) - *Build / Manage Docker Containers / [Templates](https://github.com/SelfhostedPro/selfhosted_templates) / [GitHub](https://github.com/portainer/portainer)*
 * [MDB GO](https://mdbgo.com/) - *Free App Hosting*
@@ -353,6 +355,7 @@
 * **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)** - *List Index*
 * [GitHub Desktop](https://desktop.github.com/) - *GitHub Desktop App*
 * [GitHub.Dev](https://github.dev/) - *GitHub Web App*
+* [git.io](https://git.io/) - *GitHub URL Shortener*
 * [GitKraken](https://www.gitkraken.com/) or [Sourcetree](https://www.sourcetreeapp.com/) - *Git GUI*
 * [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - *Git Terminal UI*
 * [Codeberg](https://codeberg.org/), [Giters](https://www.giters.com/) or [GitGud](https://gitgud.io/) - *Git Hosting*
