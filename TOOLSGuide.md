@@ -103,7 +103,7 @@
 * [ZealDocs](https://zealdocs.org/) - *Documentation Reader*
 * [Lyx](https://www.lyx.org/) - *LaTeX Editor*
 * [Detexify](http://detexify.kirelabs.org/classify.html) - *Handwritten LaTeX Symbol Recognition*
-* [QuillBot AI](https://quillbot.com/), [Paraphraz](https://paraphraz.it/) or [Paraphrasing Tool](https://paraphrasetool.com/) - *Paraphrasing Tool*
+* [QuillBot AI](https://quillbot.com/), [Rewrite Tool](https://www.rewritetool.net/), [Paraphraz](https://paraphraz.it/) or [Paraphrasing Tool](https://paraphrasetool.com/) - *Paraphrasing Tool*
 * [phraseup](http://www.phraseup.com/) - *Autocomplete Common Phrases* 
 * [PaperRater](https://www.paperrater.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - *Annotation Tools / Resources*
@@ -284,7 +284,7 @@
 * [Fresh Stuff For You](https://freshstuff4you.com/) - *Daws / Samples / Presets*
 * [FlsAudio](https://flsaudio.com/en/gb/) - *FLStudio Samples / Presets / Plugins* 
 * [PluginTorrent](https://plugintorrent.com/) - *Plugins / Samples*
-* [CrackCartel Vault](https://mega.nz/folder/DtUT0QaI#5NwiaqJwToyTOHCchavUnQ) - *Audio Samples*
+* [CrackCartel Vault](https://mega.nz/folder/DtUT0QaI#5NwiaqJwToyTOHCchavUnQ) or [SamplesTorrent](https://samplestorrent.com/) - *Audio Samples*
 * [AirWindows](http://www.airwindows.com/) - *Reverbs / Equalizers / Plugins*
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - *Learn How to Play Music*
 * [Jukebox](https://jukebox.today/) or [jqbx](http://jqbx.fm/) - *Music Sync / Listening Parties*
@@ -303,6 +303,7 @@
 * [easyeffects](https://github.com/wwmm/easyeffects) - *Audio Manipulation for PipeWire*
 * [VCV Rack](https://vcvrack.com/) - *Eurorack Simulator*
 * [Cable](https://vb-audio.com/Cable/) - *Virtual Audio Cable*
+* [Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Download Album Art*
 * [Midomi](https://www.midomi.com/), [Shazam](https://www.shazam.com/), [SoundHound](https://www.soundhound.com/soundhound), [AcrCloud](https://www.acrcloud.com/identify-songs-music-recognition-online/), [Music ID Android](https://play.google.com/store/apps/details?id=com.gravitymobile.recognize&hl=en), [Music ID iOS](https://apps.apple.com/app/musicid/id358838909?ign-mpt=uo%3D8), [/r/NameThatSong](https://reddit.com/r/NameThatSong), [Dejavu](https://github.com/worldveil/dejavu) (python) or [Audd](https://audd.io/) (api) - *Song Identification Tools* 
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/) - *Soundboard Program*
 * [MyInstants](https://www.myinstants.com/index/us/) or [Soundboard.com](https://www.soundboard.com/) - *Online Soundboard*
@@ -331,6 +332,7 @@
 * [Moises](https://moises.ai/) - *Live Music Mixer*
 * [WD-1](https://www.worteldrie.com/WD5/), [Citizen DJ](https://citizen-dj.labs.loc.gov/loc-variety-stage/remix/), [YOU.DJ](https://you.dj/) or [Webx0x Beats](https://webx0x.com/beats/new) - *Online DJ / Beat Creator* 
 * [RaveDJ](https://rave.dj/) - *Easily Mix Songs Together* 
+* [EZStems](https://www.ezstems.com/) - *Create Audio STEMS*
 * [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - *Create Songs with Code* 
 * [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/) or [Strofe](https://www.strofe.com/) - *Simple Song Creator*
 * [WebSynths](http://www.websynths.com/) - *Browser-Based Instruments* 
@@ -625,6 +627,7 @@ General Reading Sites*
 * [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8), [2](https://cse.google.com/cse?cx=73948689c2c206528) - *Search Android APK Sites*
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - *Search Pastebins*
 * [Search All](https://www.searchall.net/) or [AIO Search](https://www.aiosearch.com/) - *Multi Site Search*
+* [Flowers Rom CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac ) - *Multi-Site Rom Search*
 * [SearchEnginesIndex](https://www.searchenginesindex.com/), [Fagan Finder](https://www.faganfinder.com/), [DirectSearch.Net](http://www.directsearch.net/) or [Search Engine Colossus](https://www.searchenginecolossus.com/) - *Search Engine Directory*
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - *DuckDuckGo !bang Meta Serarch / [GitHub](https://github.com/MoserMichael/duckduckbang)*
 * [Soovle](https://soovle.com/) or [Keyword Tool](https://keywordtool.io/) - *Popular Keyword Generator*
@@ -646,6 +649,7 @@ General Reading Sites*
 * [TheOldNet](http://theoldnet.com/) - *Retro Search Engine*
 * [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - *40 Custom Search Engines*
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - *Facebook Search Formulas* 
+* [UserSearch](https://usersearch.org/) - *Username Search*
 * [Graph.tips](https://graph.tips/beta/) - *Advanced Facebook Search Tool* 
 * [Google Search Operator Cheat Sheets](https://moz.com/learn/seo/search-operators), [2](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [3](https://ahrefs.com/blog/google-advanced-search-operators/), [4](https://l-lists.com/en/lists/m1mdwx.html), [5](https://github.com/BushidoUK/OSINT-SearchOperators)
 * [Google Search Guide](https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters) + [Advanced](https://coursebuilder.withgoogle.com/)
@@ -669,7 +673,8 @@ General Reading Sites*
 
 * **[Flagfox](https://flagfox.wordpress.com/)** - *Displays Country's Flag on Sites / [Adds Many URL Tools](https://i.imgur.com/zDaLZxC.png)*
 * **[URL Unshorteners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_url_unshorteners)** - *Check where a shortened URL leads to*
-* **[Wiki URL Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - *Wiki Link Shortener*
+* **[Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - *Wiki URL Shortener*
+* **[git.io](https://git.io/)** - *GitHub URL Shortener*
 * **[Check if Sites are Down](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_down_site_checkers)** - *Check if a site is down for just you or everyone* 
 * **[Universal Encoding Tool](https://unenc.com/)** - *Encoding / Decoding Tools*
 * **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)**, [Base64 E/D](https://apps.maximelafarie.com/base64/), [Hackgence](https://base64.hackgence.com/) or [URL Encode/Decode](https://www.url-encode-decode.com/) - *Base64 Encode and Decode / [Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_base64_decode_extensions)*
@@ -1109,9 +1114,9 @@ General Reading Sites*
 * **[Windows ISO's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - *Download Windows*
 * **[Windows 10 Activation Guide](https://rentry.co/ActivateWin10)**, [2](https://redd.it/er3fon), [3](https://msguides.com/), [4](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation) - *Active Win 10 / [Discord](https://discord.gg/nWWfBMtBSk)*
 * **[Windows Activation Scripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation_scripts)** - *Windows / Office Activation*
-* **[Optimize-Guide](https://rentry.co/mdl-optimize-guide)** - *Optimize Windows / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat)* 
+* **[Optimize-Guide](https://rentry.co/mdl-optimize-guide)** - *Optimize Windows / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat)*
+* **[Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png)**, [2](https://i.imgur.com/A36Yd7F.png) 
 * [Windows 10 Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)
-* [Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png), [2](https://i.imgur.com/A36Yd7F.png)
 * [PowerToys](https://github.com/microsoft/PowerToys) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
 * [PCPartPicker](https://pcpartpicker.com/), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), [/r/buildapc](https://reddit.com/r/buildapc) or [NZXTBld](https://www.letsbld.com/) - *PC Building Sites / [Discord](https://discord.gg/buildapc)*
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - *PC Building Community*
@@ -1126,7 +1131,7 @@ General Reading Sites*
 * [Piper](https://github.com/libratbag/piper) - *Gaming Mouse Config Tool*
 * [Sensor.fyi](https://sensor.fyi/info/) - *Mouse Guide / Information*
 * [Office License Isn't Genuine](https://infohost.github.io/office-license-is-not-genuine) - *Fix Office Activation Issues*
-* [Rufus](https://rufus.ie/), [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) or [WoeUSB](https://github.com/WoeUSB/WoeUSB) - *Create Bootable USB Drives*  
+* [Rufus](https://rufus.ie/), [AIO Boot](https://www.aioboot.com/) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - *Create Bootable USB Drives*  
 * [Easy2Boot](https://www.easy2boot.com/) - *Boot Directly from ISO's* 
 * [balenaEtcher](https://balena.io/etcher) - *Flash OS Image SD / USB*
 * [InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB) - *Install Windows without USB*
@@ -1265,7 +1270,6 @@ General Reading Sites*
 * [EIZO](https://www.eizo.be/monitor-test/) or [LCDTech](https://lcdtech.info/en/tests/) - *Display Performance Tests*
 * [TestUFO](https://www.testufo.com/) - *Monitor Framerate Test*
 * [NVDA](https://www.nvaccess.org/download/) - *Screen Reader / [Github](https://github.com/nvaccess/nvda)* 
-* [CrossOver](https://www.codeweavers.com/crossover) - *Run Windows Programs on Mac / Linux / Infinite Free Trials*
 * [Hosts File Editor](https://hostsfileeditor.com/) - *Windows Hosts File Editor*
 * [StreamPi](https://stream-pi.com/) or [FreeDeck](https://github.com/FreeYourStream/freedeck-hardware) - *ElGato Streamdeck Alternative*
 * [EarTrumpet](https://eartrumpet.app/) - *Improved Volume Mixer*  
@@ -1296,7 +1300,7 @@ General Reading Sites*
 * [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - *Identify why your PC isn't Windows 11 ready*
 * [Win11DevBypass](https://github.com/rushiranpise/win11devbypass) - *Bypass Win 11 Dev Channel Restrictions*
 * [Boot Failure Troubleshooting Chart](https://i.imgur.com/QsxYtB4.jpg) - *Boot Failure Troubleshooting Guide*
-* [BetaWiki](https://betawiki.net/wiki/Main_Page) - *Operating System / Software History / [Discord](https://discord.gg/4TMJb8P)*
+* [BetaWiki](https://betawiki.net/wiki/Main_Page) - *Operating System / Software History / [Discord](https://discord.gg/XPz5Zm42tR)*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
 * [GetCID](https://www.getcid.info/) - *Obtain Windows Confirmation ID*
 * [Fliqlo](https://fliqlo.com/screensaver/) - *Clock Screensaver*
@@ -1419,6 +1423,7 @@ General Reading Sites*
 * [goodls](https://github.com/tanaikech/goodls) - *Google Drive Downloader*
 * [GDriect](https://www.gdirect.link/) - *Direct GDrive Link Generator*
 * [Folder.GDrive](https://folder.gdrive.vip/) - *GGDrive Folder Link Generator*
+* [GDToT](https://www.gdtot.com/) - *Google Drive Manager*
 * [Backup System](https://github.com/danielpy108/BackUpMySystem) - *Backup Google Drive*
 * [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) - *Google Drive Downloader / Linux*
 * [SearchX](https://github.com/iamLiquidX/SearchX) - *Telegram GDrive Search Bot*
@@ -1500,10 +1505,12 @@ General Reading Sites*
 
 ## ▷ Linux Tools
 
-* **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)**, **[Friendly GNU](https://fglt.nl/guides/picking-a-distro.html)**, [tohoku](http://www.cs.tohoku-gakuin.ac.jp/pub/Linux/), [minerswin](http://root3.minerswin.de/ISO/), [Pkgs](https://pkgs.org/), [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity) or [ComputerFreely](https://computefreely.org/) - *Linux Distro Indexes / Guides*
-* [Linux Piracy](https://rentry.co/LinuxPiracy) - *Linux Piracy Guide*
+* **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)**, **[Friendly GNU](https://fglt.nl/guides/picking-a-distro.html)**, [LinuxTracker](https://linuxtracker.org/), [tohoku](http://www.cs.tohoku-gakuin.ac.jp/pub/Linux/), [minerswin](http://root3.minerswin.de/ISO/), [Pkgs](https://pkgs.org/), [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity) or [ComputerFreely](https://computefreely.org/) - *Linux Distro Indexes / Guides*
+* **[Linux Piracy](https://rentry.co/LinuxPiracy)** - *Linux Piracy Guide*
+* **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, [CPU-X](https://github.com/X0rg/CPU-X) or [Stacer](https://github.com/oguzhaninan/Stacer) - *System Info / Resource Monitors*
+* **[mpv](https://mpv.io/)** - *Video Player / [Frontend](https://github.com/celluloid-player/celluloid)*
+* [wikit](https://github.com/KorySchneider/wikit) - *Wikipedia Summaries from CLI*
 * [Distrochooser](http://distrochooser.de/?l=2) - *Linux Distro Chooser*
-* [LinuxTracker](https://linuxtracker.org/) - *Linux Distro Torrents*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old Linux Distro Archive*
 * [Tunic](https://github.com/mikeslattery/tunic) - *Install Linux Over or Alongside Windows*
 * [InstantBox](https://github.com/instantbox/instantbox) - *Temporary Linux Systems*
@@ -1513,26 +1520,41 @@ General Reading Sites*
 * [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [FydeOS](https://fydeos.io/download), [NeverWare](https://www.neverware.com/) or [WayneOS](https://wayne-os.com/) - *ChromeOS Based OS*
 * [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - *One-Click Remote Desktop* 
 * [MultiBoot USB](https://github.com/hackerncoder/multibootusb) - *Create Bootable USB Linux Drives*
+* [WoeUSB](https://github.com/WoeUSB/WoeUSB) - *Create Bootable USB Windows Drives*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
+* [GParted](https://gparted.org/) - *Partition Manager*
+* [Gnome-Look](https://www.gnome-look.org/browse) or [xfce-look](https://www.xfce-look.org/)  - *Linux Themes*
 * [Ricepedia](https://rizonrice.club/Main_Page) - *Linux Customization / Configuration Index*
-* [Curlew](https://curlew.sourceforge.io/) - *Linux File Converter*
+* [ricemood](https://github.com/fhadiel/ricemood) - *Fully Customizable Unix Color Schemer*
+* [HydraPaper](https://hydrapaper.gabmus.org/) - *Linux Wallpaper Manager*
 * [Polychromatic](https://polychromatic.app/) - *Linux System Light Control*
+* [Curlew](https://curlew.sourceforge.io/) - *Linux File Converter*
+* [syncthing](https://syncthing.net/) - *File Sync*
+* [Hexchat](https://hexchat.github.io/), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/ ) - *IRC Clients*
+* [Linux-dash](https://github.com/afaqurk/linux-dash) - *Web-based System Dashboard*
+* [Audacious](https://audacious-media-player.org/) - *Audio Player*
+* [MagicCap](https://magiccap.me/) - *Screenshot Tool*
+* [Peek](https://github.com/phw/peek) - *Simple Video / GIF recorder*
 * [utils](https://github.com/Loupeznik/utils) - *Linux Utility Scripts*
 * [Mayfrost Guides](https://github.com/mayfrost/guides) - *Linux / Computing Guides*
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - *Easy Way to Use KVM*
-* [winapps](https://github.com/Fmstrat/winapps) or [Bottles](https://usebottles.com/) - *Run Windows Apps in Linux* 
+* [winapps](https://github.com/Fmstrat/winapps), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - *Run Windows Apps in Linux* 
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - *Linux File Search*
+* [Client Evolution](https://help.gnome.org/users/evolution/stable/) - *Calendar / Mail*
+* [aerc](https://aerc-mail.org/) - *CLI based Email Client*
 * [wslu](https://github.com/wslutilities/wslu) - *Utilities for Windows 10 Linux Subsystem* 
-* [Stacer](https://github.com/oguzhaninan/Stacer) or [CPU-X](https://github.com/X0rg/CPU-X) - *Linux System Information Tool*
 * [Tree](http://mama.indstate.edu/users/ice/tree/) - *Directory Listing Command* 
+* [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - *Easily clean Ubuntu(-based) Systems*
 * [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) - *Grub Repair Guide for Linux Systems*
+* [GrubCustomizer](https://launchpad.net/grub-customizer) - *Customize Grub*
 * [ss64 Bash](https://ss64.com/bash/) - *Linux Bash Commands*
 * [Autokey](https://github.com/autokey/autokey) - *Linux Automation Utility*
 * [The Linux Kernel Archives](https://kernel.org/) - *Linux Kernel Archive*
-* [Gnome-Look](https://www.gnome-look.org/browse) or [xfce-look](https://www.xfce-look.org/)  - *Linux Themes*
-* [ricemood](https://github.com/fhadiel/ricemood) - *Fully Customizable Unix Color Schemer*
-* [DistroTest](https://distrotest.net/) or [JSLinux](https://bellard.org/jslinux/) - *Linux Browser Emulator*
 * [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
+* [Simple Terminal](https://st.suckless.org/) - *Terminal Emulator*
+* [Yakuake](https://yakuake.kde.org/) - *Quake Style Terminal Emulator*
+* [fzf](https://github.com/junegunn/fzf) - *CLI based fuzzy finder*
+* [Timeshift](https://github.com/teejee2008/timeshift) - *Create System Snapshots & Restore*
 * [Homebrew](https://brew.sh/) - *Package Manager*
 * [pacwall](https://github.com/Kharacternyk/pacwall) - *Live Wallpaper that shows Dependency Graph & Status of Installed Packages* 
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
@@ -1546,6 +1568,7 @@ General Reading Sites*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - *MacOS Virtualbox Installer*
 * [LimaVM](https://github.com/lima-vm/lima) - *Linux VM on macOS*
+* [CrossOver](https://www.codeweavers.com/crossover) - *Run Windows Programs on Mac / Infinite Free Trials*
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - *Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/)*
 * [Windows 10 MBR](https://github.com/toru173/Windows-10-MBR-USB-Creation-Tool) or [Create Bootable](https://taig.medium.com/create-a-bootable-windows-10-usb-from-macos-395773d4782e) - *Windows 10 Media Creation Tool*
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - *UEFI Kexts*
@@ -1573,6 +1596,7 @@ General Reading Sites*
 * [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - *Convert NeuralHash for CSAM Detection to ONNX / [Collision Finder](https://github.com/anishathalye/neural-hash-collider)*
 * [Is Apple Silicon ready?](https://isapplesiliconready.com/) - *M1 App Compatibility Chart*
 * [Adobe Zii](https://www.reddit.com/r/AdobeZii/ ) - *Adobe Software Patcher*
+* [MagicCap](https://magiccap.me/) - *Screenshot Tool*
 
 ***
 
@@ -1601,6 +1625,7 @@ General Reading Sites*
 * [PCE.js](https://jamesfriend.com.au/pce-js/ibmpc-games/) - *PCDOS 5 Emulator* 
 * [Quantum Playground](http://www.quantumplayground.net/) - *Quantum Computer Simulator*
 * [BlueEdge](https://win11.blueedge.me/) - *Windows 11 Browser Simulator*
+* [DistroTest](https://distrotest.net/) or [JSLinux](https://bellard.org/jslinux/) - *Linux Browser Emulator*
 
 ***
 
@@ -1609,7 +1634,6 @@ General Reading Sites*
 * **[Game Libraries / Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_libraries_.2F_launcher)** - *Manange & Launch Games*
 * **[PCGamingWiki](https://www.pcgamingwiki.com/)** or [AppleGamingWiki](https://applegamingwiki.com/) - *Game Info, Bug Fixes & Improvements*
 * **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)** or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - *Game Requirements Test* 
-* **[Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers)** - *Get Scene Release Updates*
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - *Rainmeter Game Launcher*
 * [How-To Make Cracked Games Look Like Official Steam Games](https://www.reddit.com/r/PiratedGames/comments/pmim9t/tutorial_make_your_cracked_games_look_like/)
 * [Fraps](https://fraps.com/), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - *FPS Benchmarking Utility*
@@ -1661,7 +1685,12 @@ General Reading Sites*
 * [DsHidMini](https://github.com/ViGEm/DsHidMini) - *Use PS3 Controllers on Windows [Guide](https://vigem.org/projects/DsHidMini/How-to-Install/)*
 * [Lowkey](https://lowkey.gg/) - *Record / Screenshot Gameplay* 
 * [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
+* [u.gg](https://u.gg/), [MobaFire](https://www.mobafire.com/), [ProBuilds](https://www.probuilds.net/) or [LoLalytics](https://lolalytics.com/) - *League of Legends Build Guides & Tiers*
 * [LoL Math](https://lolmath.net/) - *League of Legends Build Calculator*
+* [League of Graphs](https://www.leagueofgraphs.com/) - *Champion Rankings*
+* [Rewind.lol](https://rewind.lol/) - *League of Legends Match History*
+* [Teemo](https://teemo.gg/) - *LoL, TeamFight & Wild Rift Models*
+* [Surrenderat20](https://www.surrenderat20.net/) - *League of Legends News*
 * [Project Era](https://erafn.glitch.me/#downloads) - *Play Old Fortnite Seasons*
 * [RoPro](https://ropro.io/), [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040) or [RoGold](https://discord.gg/XMHn9zV3UA)- *Enhance Roblox Website*
 * [RobloxThemes](https://github.com/christiankek/RobloxThemes) - *Themes for Roblox*
@@ -1709,9 +1738,12 @@ General Reading Sites*
 * [FiveM](https://fivem.net/) - *Modded GTAV Servers*
 * [BF2142 Reclamation](https://battlefield2142.co/) - *BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)*
 * [BFStatus](https://www.bfstatus.com/) - *Battlefield Game Server Statuses*
+* [Mobalytics](https://mobalytics.gg/) - *Game Performance & Stats Analyzer*
 * [StatsVerse](http://statsverse.com/) - *Battlefield Leaderboards*
 * [Tracker.gg](https://tracker.gg/) - *Game Leaderboards & Stats*
 * [TrueGameData](https://truegamedata.com/) - *COD Leaderboards*
+* [OP.GG](https://www.op.gg/) - *League of Legends Leaderboards & Stats*
+* [Porofessor](https://porofessor.gg/) - *Live League of Legends Game Stats*
 * [Dota2ProTracker](https://www.dota2protracker.com/) - *Dota 2 Stats Tracker*
 * [HaloDotAPI](https://developers.halodotapi.com/) - *Halo Stats, MOTD & UGC API*
 * [Online Fix](https://online-fix.me/) - *Online Game Cracks / [Discord](https://discord.gg/yExgFYncMD)* 
@@ -1724,10 +1756,14 @@ General Reading Sites*
 ## ▷ Homebrew 
 
 * [Homebrew Guides](https://rentry.co/Guides) - *Homebrew Guides & Setups*
+* [Homebrew General](https://www.homebrewgeneral.net/) - *Homebrew News & Guides*
 * [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - *Wii Homebrew Installer / [Find MAC](https://www.nintendo.com/consumer/systems/wii/en_na/includes/rvl-ht-int-find-mac-address.jsp)*
 * [WiiU Exploit](https://wiiuexploit.xyz/) - *WiiU Homebrew Installer*
 * [Homebrew Gang](https://thehbg.shop/main.html) - *Switch Homebrew Community*
-* [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - *Switch Hacking Forum / Guides*
+* [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - *Switch Homebrew Subreddit*
+* [Switch Guide](https://nh-server.github.io/switch-guide/) - *Switch Homebrew Guide*
+* [Nintendo Homebrew](https://discord.com/invite/C29hYvh) - *3DS / Switch Homebrew Community*
+* [SDSetup](https://github.com/noahc3/SDSetup) - *Nintendo Switch SD Setup*
 * [PSX Hax](https://www.psxhax.com/) - *Playstation Modding Forum*
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - *PS4 / PS5 Remote Play Client* 
 * [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - *PS4 Exploit Hosting PS4*
