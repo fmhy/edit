@@ -95,6 +95,8 @@
 # ► Chinese 
 
 * [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - *Chinese Site / Tool Index*
+* [jialezi](https://blog.jialezi.net/) - *Chinese Tutorials*
+* [Kaiheila](https://www.kaiheila.cn/) - *Chinese Discord*
 * [zimuku](http://zimuku.org/) or [SubHD](https://subhd.tv/) - *Subtitles*
 * [Dianying](https://dianying.fm/) - *Hash Search*
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
@@ -109,11 +111,12 @@
 
 ## ▷ Downloading
 
-* [Ali213](https://ali213.net/) - *Games*
-* [3dmgame](https://www.3dmgame.com/) - *Games / Geolocked / Baidu Required* 
+* [ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - *Chinese Download Manager*
 * [BD2020](https://www.bd2020.com/) - *Movies*
 * [Zimuxia](https://www.zimuxia.cn/) - *TV*
 * [shinybbs](https://sub.shinybbs.vip/) - *TV* 
+* [Ali213](https://ali213.net/) - *Games*
+* [3dmgame](https://www.3dmgame.com/) - *Games / Geolocked / Baidu Required* 
 * [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - *Courses / [icourse163](https://www.icourse163.org/)*
 * [91Flac](https://www.91flac.com/) - *Music* 
 * [Hifini](https://www.hifini.com/) - *Music *
@@ -447,7 +450,9 @@
 * [WorldFree4U](https://worldfree4u.quest/) - *Movies / TV*
 * [KatMovieHD](https://katmoviehd.se/) - *Movies / TV*
 * [HDHub4u](https://hdhub4u.wiki/) - *Movies*
+* [MKVHub](https://www.mkvhub.ws/) - *Movies / TV*
 * [UncutHD](https://www.uncuthd.one/) - *Movies*
+* [RemaxHD](https://remaxhd.org/) - *Movies / TV*
 * [MoviesVerse](https://t.me/MoviesHomeOFFICIALS) - *Movies / TV / Telegram* 
 * [BollywoodCineplex](https://t.me/BollywoodCineplex) - *Movies*
 * [MoviezAddiction](https://moviezaddiction.me/) - *Movies / TV / Telegram* 
@@ -536,6 +541,7 @@
 
 * [euroStreaming](https://eurostreaming.vision/) - *Use deltabit / Movies / TV / Anime / Use AdBlocker* 
 * [HD4Me](https://hd4me.net/) - *Movies*
+* [xNavigation](https://www.xnavigation.net/) - *Freeware*
 * [GamesReplay](https://www.gamesreplay.net/) - *Retro Roms*
 
 ## ▷ Streaming
@@ -915,6 +921,7 @@
 * [COMSS.CLUB](https://www.comss.ru/) - *Software / Android*
 * [DIAKOV](https://diakov.net/) - *Software* 
 * [LRepacks](https://lrepacks.ru/) - *Software* 
+* [Sergei Strelec](https://www.sergeistrelec.ru/) - *Windows Boot Disks*
 * [AppsTorrent](https://appstorrent.ru/) - *Mac Software*
 * [muzlishko](http://www.muzlishko.ru/) - *MP3*
 * [Tancpol](https://tancpol.net/) - *MP3*
@@ -981,7 +988,6 @@
 * [DarkLibria](https://darklibria.it/) - *Anime*
 * [RGFootball](http://rgfootball.net/) - *Sports*
 * [Torrent Igruha](https://torrent-igruha.ru/) - *Games*
-* [FreeTP](https://freetp.org/) - *Games / Multiplayer*
 * [туттоп](https://tuttop.com/) - *Games*
 * [Small-Games](https://small-games.info/) - *Games*
 * [hit-muzik](https://hit-muzik.ru/) - *Music / MP3* 
@@ -1052,6 +1058,7 @@
 # ► Spanish
 
 * [jogos10](http://www.jogos10.com/) or [Minijuegos](https://www.minijuegos.com/) - *Browser Games*
+* [elblogdelnarco](https://elblogdelnarco.com/) - *Drug Trafficking News*
 * [Catflix](https://www.championcat.cl/catflix/) - *Cats!*
 
 ## ▷ Downloading
@@ -1085,10 +1092,9 @@
 * [DivxTotal](https://www.divxtotal.one/) - *Movies / TV / Software* 
 * [Edvok](https://edvok.com/) - *Video / Games*
 * [EliteTorrent](https://elitetorrent.com/), [2](https://www.elitetorrent.do/) - *Movies / TV / Anime*
-* [EliteTorrent](https://www.elitetorrent.com/) - *Movies / TV*  
 * [zonatorrent](https://zonatorrent.tv/) - *Movies / TV* 
 * [divxonline](https://www.divxonline.tv/) - *Movies / TV* 
-* [Grantorrent](https://grantorrent.nl/) - *Movies / TV*
+* [Grantorrent](https://grantorrent.nl/), [2](https://grantorrent.ch/) - *Movies / TV*
 * [EstrenosDTL](https://www.estrenosdtl.nz/) - *Movies*
 * [MoviesDVDR](https://www.moviesdvdr.co/) - *Movies* 
 * [Animextremist](http://animextremist.com/) - *Anime / Manga* 
