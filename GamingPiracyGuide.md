@@ -38,7 +38,7 @@
 * [GLoad](https://gload.to/)
 * [Ova Games](http://www.ovagames.com/)
 * [Rihno Games](https://rihnogames.com/)
-* [SEHS Gamess](https://www.sehsgames.com/)
+* [SEHS Games](https://www.sehsgames.com/)
 * [GameLoo](http://www.gameloo.info/)
 * [AimHaven](https://www.aimhaven.com/)
 * [Games Flix](https://gamesflix.net/) 
@@ -104,6 +104,7 @@
 * **[Xatab Repack](https://b.otxataba.net/), [2](https://x5.xatab-repack.com/)**
 * **[RePack.info](https://repack.info/)**
 * **[Tuttop](https://tuttop.com/)** 
+* [KaOsKrew](https://www.kaoskrew.org/)
 * [CroTorrents](https://crotorrents.com/)
 * [GamesTorrents](https://www.gamestorrents.nu/)
 * [Free GoG PC Games](https://freegogpcgames.com/)
@@ -199,6 +200,7 @@
 * [Nintendo Retro Mega-Pack](https://mega.nz/folder/AdRVCaBZ#bvaOPyNae8N24lquCNen4Q) - *Roms / Nintendo*
 * [PS1 Collection](https://archive.org/details/redumpSonyPlaystationAmericaGames02October2017), [2](https://archive.org/details/@john_mr_smith?sort=titleSorter) - *Roms / PS1*
 * [PS2 Archive](https://archive.org/details/RedumpSonyPS2NTSCU), [2](https://archive.org/details/RedumpSonyPS2NTSCUPart2), [3](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01), [4](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part2), [5](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part3), [6](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part4) - *Roms / PS2*
+* [PSF3](http://psf3.joshw.info/) - *Roms / PS3*
 * [ps2pressprotos](https://archive.org/details/ps2pressprotos) - *PS2 Press Discs & Prototypes*
 * [PS4 Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ps4_roms) - *Roms / PS4*
 * [NoPayStation](https://nopaystation.com/) or [PSNDL](https://psndl.net/) - *Roms / Sony Consoles*
