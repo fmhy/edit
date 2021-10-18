@@ -75,7 +75,7 @@
 ## ▷ Restoration
 
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - *Image Restoration Algorithms*
-* [Petalica Paint](https://petalica-paint.pixiv.dev/index_en.html), [Algorithmia](https://demos.algorithmia.com/colorize-photos) or [Colorizer](https://deepai.org/machine-learning-model/colorizer) - *Image Colorization* 
+* [Petalica Paint](https://petalica-paint.pixiv.dev/index_en.html), [Algorithmia](https://demos.algorithmia.com/colorize-photos), [MyHeritage In Color](https://www.myheritage.com/incolor) or [Colorizer](https://deepai.org/machine-learning-model/colorizer) - *Image Colorization* 
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - *Anime Image Colorization*
 * [GPEN-Colab](https://github.com/bycloudai/GPEN-colab) - *Face Restoration / Colorization Tool*
 * [Color-Dragon](https://www.color-dragon.tk/) - *Add more Color to Images*
@@ -201,6 +201,7 @@
 * [FanArt](https://fanart.tv/) - *Fan Made Posters / Logos* 
 * [Replacement Sky](https://replacement-sky.com/) - *Skies for Photoshop*
 * [AmbientCG](https://ambientcg.com/), [Lost and Taken](https://lostandtaken.com/) or [Texture Labs](https://texturelabs.org/) - *Texture Renders & Images*
+* [RipMe](https://github.com/RipMeApp/ripme) - *Bulk Image Downloader*
 * [Google Photos Plus](https://github.com/anamritraj/google-photos-plus) - *Download Google Photos in Better Quality*
 * [google-images-download](https://github.com/hardikvasa/google-images-download) - *Download Images from Google Images* 
 * [googleimagerestored](https://github.com/fanfare/googleimagesrestored) - *Old Google Image Search* 
