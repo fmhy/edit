@@ -2451,6 +2451,7 @@ Good for finding classic, obscure & short films.
 * https://b-ok.cc/
 * https://b-ok2.org/
 * https://b-ok.asia/
+* https://booksc.org/
 * https://b-ok.global/
 * https://b-ok.lat/
 * https://b-ok.africa/
