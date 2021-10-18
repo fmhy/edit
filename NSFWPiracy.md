@@ -104,7 +104,6 @@
 * [KinkBot](https://kinkbot.me/) - *Porn Image Bot*
 * [Boob Bot](https://www.boobbot.us/) - *Porn Image Bot*
 * [Pornhub DL Script](https://redd.it/ks5sba), [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) or [Savido Pornhub](https://www.savido.net/sites/pornhub) - *Pornhub Downloader*
-* [OnlyFans Scrape](https://github.com/DIGITALCRIMINAL/OnlyFans) - *OnlyFans Media Scraper*
 * [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - *FC2 Image Scraper*
 
 ***
