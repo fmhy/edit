@@ -864,6 +864,7 @@
 * [soparapcjogostorrent](https://www.soparapcjogostorrent.site/) - *Games*
 * [thepiratejogos](https://thepiratejogos.tk/) - *Games*
 * [torrentgames](https://www.torrentgames.info/) - *Games*
+* [MusicasTorrent](https://www.musicastorrent.com/) - *MP3*
 
 ## ▷ Streaming
 
