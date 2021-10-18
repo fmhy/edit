@@ -45,6 +45,7 @@
 * [media.ccc.de](https://media.ccc.de/) - *Educational Presentations*
 * UC Berkeley Webcast project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://lbry.tv/@UCBerkeley:d?) - *Lectures*
 * [iTunes U](https://wiki.archiveteam.org/index.php/ITunes_U) - *Lectures*
+* [2Tuts](https://2uts.com/) - *Tutorials*
 * [WatchKnowLearn](http://www.watchknowlearn.org/) - *Educational Videos*
 * [FreeMedTube](https://freemedtube.net/) - *Medical Courses*
 * [Mathispower4u](http://www.mathispower4u.com/) - *Math Tutorials*
