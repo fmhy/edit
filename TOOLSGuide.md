@@ -1304,6 +1304,7 @@ General Reading Sites*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
 * [GetCID](https://www.getcid.info/) - *Obtain Windows Confirmation ID*
 * [Fliqlo](https://fliqlo.com/screensaver/) - *Clock Screensaver*
+* [How-To Make Microsoft Activation Server](https://mananapr.github.io/microsoft_activation.html) 
 
 ***
 
