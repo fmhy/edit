@@ -126,7 +126,7 @@
 * [PhoneSized](https://phonesized.com/) - *Phone Size Comparisons*
 * [Don’t kill my app!](https://dontkillmyapp.com/) - *Manufacturer Battery Life vs. App Functionality*
 * [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) - *Battery Health App*
-* [Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) - *Ebook Readers* 
+* [Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers) - *Ebook Readers* 
 * [Voice](https://f-droid.org/en/packages/de.ph1b.audiobook/), [Simple Audiobook Player](https://play.google.com/store/apps/details?id=mdmt.sabp.free), [Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) or [AudioAnchor](https://f-droid.org/en/packages/com.prangesoftwaresolutions.audioanchor/) - *Android Audiobook Player* 
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - *Note Taking Apps*
 * [Magisk](https://github.com/topjohnwu/Magisk/releases) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - *Android Root Tool / [Mods](https://t.me/magiskmod_update)*
@@ -622,7 +622,7 @@ RSS Player*
 * **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Mobile Wallpaper Sites & Apps*
 * [Waltr](https://softorino.com/waltr/) - *Convert Files to iOS Formats*
 * [Filza](http://cydia.saurik.com/package/com.tigisoftware.filza/) - *File Manager*
-* [iOS Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) - *Ebook Readers* 
+* [Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers) - *Ebook Readers* 
 * [iEmulators](https://iemulators.com/) - *Emulator Apps*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
 * [Drafts](https://getdrafts.com/) or [Bear](https://apps.apple.com/us/app/bear/id1016366447) - *Note Taking App*
