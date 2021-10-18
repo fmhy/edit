@@ -629,9 +629,10 @@
 * [Medium Unlimited](https://github.com/manojVivek/medium-unlimited) - *Unlimited Articles on Medium* 
 * [Wikisource](https://en.wikisource.org) - *Poetry / Text / Documents*
 * [Alex Catalogue](http://www.infomotions.com/alex/) - *English / Philosophy Documents*  
-* [FindPDFDoc](http://www.findpdfdoc.com/) - *PDF Search / Document Search* 
-* [PDFSlide](https://pdfslide.net/) - *PDF / Document Search* 
-* [EDoc](https://edoc.tips/) - *PDF / Document Search* 
+* [FindPDFDoc](http://www.findpdfdoc.com/) - *Document Search* 
+* [PDFSlide](https://pdfslide.net/) - *Document Search* 
+* [EDoc](https://edoc.tips/) - *Document Search* 
+* [IDoc](https://idoc.pub/ ) - *Document Search*
 * [Google Scholar](https://scholar.google.com/) - *Articles*
 * [Mendeley](https://www.mendeley.com/) - *Articles* 
 * [DOAJ](https://doaj.org/) - *Journals / Articles*
