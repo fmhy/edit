@@ -40,17 +40,18 @@
 
 ## ▷ DNS Adblocking
 
-* **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - *Network-wide DNS Adblocking / self-hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Family Filter](https://ammnt.app/) / [Filters](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole)*
+* **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - *DNS Adblocking / self-hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Family Filter](https://ammnt.app/) / [Filters](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole)*
+* **[ahadns](https://ahadns.com/)** - *DNS Adblocking*
+* **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - *DNS Adblocking*
+* **[Adhole](https://adhole.org/)** - *DNS Adblocking*
+* **[YogaDNS](https://yogadns.com/)** - *DNS Adblocking*
 * [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html) - *DNS Adblocking*
 * [Pi-Hole](https://pi-hole.net/) - *DNS Adblocking / self-hosted / [Filter](https://firebog.net/), [2](https://github.com/hl2guide/Filterlist-for-AdGuard) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine)*
 * [Blah DNS](https://blahdns.com/) - *DNS Adblocking*
-* [ahadns](https://ahadns.com/) - *DNS Adblocking*
-* [Adhole](https://adhole.org/) - *DNS Adblocking*
 * [Rethink](https://rethinkdns.com/) - *DNS Adblocking*
 * [AlternateDNS](https://alternate-dns.com/index.php) - *DNS Adblocking*
 * [LibreDNS](https://libredns.gr/) - *DNS Adblocking*
-* [YogaDNS](https://yogadns.com/) - *DNS Client*
-* [Diversion](https://diversion.ch/) - *DNS Client*
+* [Diversion](https://diversion.ch/) - *DNS Adblocking*
 * [Quad9](https://quad9.net/) - *Malware, Phishing, Spyware & Botnet DNS Protection*
 * [Stubby](https://github.com/getdnsapi/stubby) - *DNS Stub Resolver*
 * [NextDNS](https://nextdns.io) - *DNS Adblocking / [Enhancement](https://greasyfork.org/en/scripts/408934-nx-enhanced) / [lLeak Warning](https://redd.it/jt28e8)*
@@ -64,7 +65,6 @@
 * [Maza](https://maza-ad-blocking.andros.dev/) - *Local DNS Adblocking* 
 * [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter/) - *DNS filter proxy*
 * [DNS Party](https://encrypted-dns.party/) - *DNS Config Profiles for Apple Devices Encrypted* 
-* [Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) - *DNS Adblocking*
 
 ***
 
