@@ -1543,6 +1543,7 @@ General Reading Sites*
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - *Easy Way to Use KVM*
 * [winapps](https://github.com/Fmstrat/winapps), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - *Run Windows Apps in Linux* 
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - *Linux File Search*
+* [Ulauncher](https://ulauncher.io/) - *Application Launcher*
 * [Client Evolution](https://help.gnome.org/users/evolution/stable/) - *Calendar / Mail*
 * [aerc](https://aerc-mail.org/) - *CLI based Email Client*
 * [wslu](https://github.com/wslutilities/wslu) - *Utilities for Windows 10 Linux Subsystem* 
