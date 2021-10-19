@@ -191,7 +191,7 @@
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - *Music Download Tool* 
 * [RipMe](https://github.com/RipMeApp/ripme) - *Bulk Album Downloader*  
 * [Syncify](https://github.com/FindMalek/Syncify) - *Spotify Playlist Downloader*
-* [Spytify](https://jwallet.github.io/spy-spotify/overview.html) or [spy-spotify](https://github.com/jwallet/spy-spotify) - *Record / Download Spotify Songs*
+* [Spytify](https://jwallet.github.io/spy-spotify/overview.html) - *Record / Download Spotify Songs / [GitHub](https://github.com/jwallet/spy-spotify)*
 * [Savify](https://github.com/LaurenceRawlings/savify), [spotify-downloader](https://github.com/rickyrorton/spotify-downloader/), [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) or [spotDL](https://github.com/spotDL/spotify-downloader) - *Download Spotify Songs via YouTube* 
 * [Deezer2DriveBot](https://t.me/deezer2drivebot) - *Deezer & Qobuz to GDrive Bot*
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - *Bandcamp Downloader*
