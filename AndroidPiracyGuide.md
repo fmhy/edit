@@ -88,6 +88,7 @@
 # ► Android Emulators 
 
 * **[Nox](https://www.bignox.com/)** - *[Screenshot](https://i.imgur.com/VuFLWbW.jpg) / [Debloater](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29 )*
+* **[Anbox](https://anbox.io/)** or **[WayDroid](https://waydro.id/ )** - *Android Linux Emulator*
 * [XePlayer](http://www.xeplayer.com/) - *Fork of Nox / [Screenshot](https://i.imgur.com/qfmmwMB.jpg)* 
 * [GameLoop](https://www.gameloop.com/) - *[Screenshot](https://i.imgur.com/dLrEXCJ.png)*
 * [MuMu](https://www.mumuglobal.com/) - *[Screenshot](https://i.imgur.com/D8BBerb.png)*
@@ -102,7 +103,6 @@
 * [PhoenixOS](http://www.phoenixos.com/en/) - *Android Desktop OS*
 * [PhoenixOS - BR](https://discord.gg/BQ4td84) - *Android Desktop OS*
 * [PhoenixOS Darkmatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - *Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)*
-* [Anbox](https://anbox.io/) - *Android Linux Emulator*
 * [ApkOnline](https://www.apkonline.net/) - *Online Android Emulator*
 * [UniPatcher](https://github.com/btimofeev/UniPatcher) - *Android Rom Patcher*
 * [BlueStacks X](https://x.bluestacks.com/) - *Cloud-Based Android Gaming*
