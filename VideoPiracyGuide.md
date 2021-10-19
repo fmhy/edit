@@ -95,14 +95,14 @@
 ## ▷ Multi Hosts
 
 * **[PrimeWire](https://www.primewire.li/)** - *Movies / TV / Anime*
-* **[HiMovies](https://www3.himovies.to/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)*
 * **[FMovies](https://fmovies.name/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)*
+* **[HiMovies](https://www3.himovies.to/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)*
+* **[PrettyFlix](https://prettyflix.gq/)** - *Movies / TV / Anime*
 * [YourPTFlixMovies](https://yourptflixmovies.com/) - *Movies / TV*
 * [RareFilmm](https://rarefilmm.com/) - *Rare Movies* 
 * [Movie-Forum](https://movie-forum.co/forum.php) - *Movies / TV*
 * [K a p K e y K](https://kpkyk.com/) - *Movies / TV*
 * [IceFilms](https://wwv.icefilms-info.com/) - *Movies / TV*
-* [PrettyFlix](https://prettyflix.gq/) - *Movies / TV / Anime*
 * [Movies Ni Pipay](https://moviesnipipay.me/) - *Movies / TV*
 * [2Embed](https://www.2embed.ru/library) - *Movies / TV*
 * [Series9](https://www4.series9.ac/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_goldmovies_clones)* 
