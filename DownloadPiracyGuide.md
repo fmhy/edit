@@ -196,7 +196,6 @@
 * [AIOsetup](https://t.me/aiosetup) - *Telegram* 
 * [Libreware](https://t.me/Libreware) - *Telegram* 
 * [raymondfreesoftware](https://sites.google.com/site/raymondfreesoftware/) - *[Telegram](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g)* 
-* [ALTERNATIVES](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md) - *Lightweight Software Index*
 * [Rarewares](https://www.rarewares.org/) - *Rare Software*
 * [Izofile](https://izofile.com/), [Soft2Ev](https://www.soft2ev.com/), [Keygen Fortress](https://t.me/keygen_fortress), [SmartSerials](https://smartserials.com/) or [SerialReactor](https://serialreactor.com/) - *Software Keys / Patches*
 * [Software Heritage](https://www.softwareheritage.org/) - *Software Source Code Archive* 
@@ -210,7 +209,7 @@
 
 * **[Major Geeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html)** - *Software*
 * **[Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)** - *Selfhosted Software Index* 
-* **[AlternativeTo](https://alternativeto.net/)**, [Slant](https://www.slant.co/) or [SaaSHub](https://www.saashub.com/) - *Find Alternatives to Software / Apps*
+* **[Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites)** - *Find Software / App Alternatives* 
 * [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - *Open Source Wiki* 
 * [OldVersion](http://www.oldversion.com/) - *Old Versions of Software* 
 * [OlderGeeks](https://oldergeeks.com/) - *Free Software Index / Forum*
