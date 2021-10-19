@@ -403,7 +403,7 @@
 
 ## ▷ Career Tools
 
-* [Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers) - *Create Resumes for Free*
+* **[Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)** - *Create Resumes for Free*
 * [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) - *Successful Resume Samples*
 * [CoFolios](https://cofolios.com/) - *Portfolio Sharing*
 * [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) - *Common Interview Questions & Answers*
