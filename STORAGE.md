@@ -579,7 +579,7 @@
 
 #### Game Libraries / Launcher
 
-**[GoG Galaxy](https://www.gog.com/galaxy)**, [Launchbox](https://www.launchbox-app.com/), [GameHub](https://tkashkin.tk/projects/gamehub/) / [GitHub](https://github.com/tkashkin/GameHub), [Arc](https://www.arcgames.com/en/about/client), [Playnite](https://playnite.link/), [Gnome Games](https://wiki.gnome.org/Apps/Games), [chad_launcher](https://gitlab.com/Gnurur/chad_launcher)
+**[GoG Galaxy](https://www.gog.com/galaxy)**, [Launchbox](https://www.launchbox-app.com/), [GameHub](https://tkashkin.tk/projects/gamehub/) / [GitHub](https://github.com/tkashkin/GameHub), [Arc](https://www.arcgames.com/en/about/client), [Playnite](https://playnite.link/), [Gnome Games](https://wiki.gnome.org/Apps/Games), [chad_launcher](https://notabug.org/johncena141/chad-launcher)
 
 ***
 
