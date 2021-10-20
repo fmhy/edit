@@ -1230,10 +1230,9 @@ General Reading Sites*
 * [Deskreen](http://deskreen.com/) - *Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen)* 
 * [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - *Control Multiple PC's via One Mouse / Keyboard*
 * [JumpShare](https://jumpshare.com/) - *File, Screenshot & Video Sharing*
-* [here.fm](https://here.fm/ ) - *Screen Sharing Tool*
+* [here.fm](https://here.fm/) - *Screen Sharing Tool*
 * [Remote Desktop Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remote_desktop_clients) - *Control Desktop Remotely*
 * [TigerVNC](https://tigervnc.org/) - *VNC Client*
-* [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - *Free Ubuntu VNC*
 * [RDP](https://github.com/yahya-ait-talb/RDP) - *Windows RDP*
 * [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - *Google RDP*
 * [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) - *Free Google Colab VPS on 25GB RAM*
