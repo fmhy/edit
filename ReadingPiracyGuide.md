@@ -37,6 +37,7 @@
 * [Librivox](https://librivox.org/)  
 * [AudioBB](https://audiobb.com/)
 * [AppAudiobooks](https://appaudiobooks.com/)
+* [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - *Classic Audiobooks*
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - *Poetry*
 * [Audiobooks Unleashed](https://audiobooksunleashed.com/) - *Audiobook Codes*
 * [/r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
@@ -751,7 +752,7 @@
 * [Focal](http://www.focal.ie/) - *Irish Word Dictionary*
 * [TheIdioms](https://www.theidioms.com/) - *Idiom Dictionary* 
 * [Lexipedia](http://www.lexipedia.com/) - *Word Connections*
-* [RhymeZones](https://www.rhymezone.com/) - *Rhyme Dictionary*
+* [RhymeZones](https://www.rhymezone.com/) or [RhymeIt](https://www.rhymit.com/) - *Rhyme Dictionary*
 * [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/) - *Dictionary of Sorrows* 
 * [TheDevilsDictionary](http://www.thedevilsdictionary.com/) - *Cynical Dictionary*
 * [TagDef](https://tagdef.com/en/) - *Social Media Tag Dictionary* 
@@ -1006,6 +1007,7 @@
 * [freemagazines](https://freemagazines.top/)
 * [MagFree](https://magfree.net/)
 * [FreeMagazinesPDF](https://freemagazinepdf.com/)
+* [Calameo](https://calameo.com/) - *Magazines*
 * [PDF Magazines Archive](https://pdf-magazines-archive.com/) 
 * [Archive.org Magazine Rack](https://archive.org/details/magazine_rack)
 * [Archive.org Computer Magazines](https://archive.org/details/computermagazines)
