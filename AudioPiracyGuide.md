@@ -166,7 +166,6 @@
 * [Listen to Wikipedia](http://listen.hatnote.com/) - *Listen to the sound of Wikipedia's recent changes feed* 
 * [My Secret Garden](https://insecretgarden.com/) - *Ambient Sound Garden* 
 * [Coding Cat](https://hostrider.com/) - *Nyan Cat's Cousin / Lo-Fi Radio*
-* [ANoise](http://anoise.tuxfamily.org/) - *Ambient Sounds for Ubuntu / Relaxation* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
 * [HaloMe.nu](https://halome.nu/) - *Halo Menu Screens*
 
