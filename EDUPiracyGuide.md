@@ -512,8 +512,9 @@
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - *AP Exam Comparison Spreadsheet*
 * [AQA GCSE 2019](https://drive.google.com/drive/folders/1xIaxfQYePlTT2XxRXYMOjXduvZzaYyP7?usp=sharing) - *AQA 2019 GCSE Exams*
 * [Future Vision BIE](https://hemanthrajhemu.github.io/) - *VTU Study Material*
-* [JeeMain](https://jeemain.guru/) - *ITT / JEE Study Material*
 * [CrackJee](https://www.crackjee.xyz/) - *JEE & NEET Study Material + Answers*
+* [JEEBOOKS](https://www.jeebooks.in/) - *JEE, NEET, KVPY & CBSE Study Material*
+* [JeeMain](https://jeemain.guru/) - *JEE Study Material*
 * [IELTS69](https://www.ielts69.com/) - *IELTS Cambridge Practice Tests*
 * [GCE Guide](https://gceguide.com/) - *Cambridge Assessment Guide*
 * [ITExams](https://www.itexams.com/) - *IT Exam Collection*
