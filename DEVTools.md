@@ -189,7 +189,7 @@
 * [Bootstrap](https://bootstrapmade.com/) or [TheMeWagon](https://themewagon.com/) - *Website Templates & Themes*
 * [Elements Envato](https://qltien.com/elements/getcode/babiato.html) - *Templates, Mockups, Logos, Video*
 * [Uisual](https://uisual.com/) - *Landing Page Templates*
-* [Canva](https://www.canva.com/) - *Design Templates / [Premium Apk](https://forum.mobilism.org/search.php?keywords=Canva+&sr=topics&sf=titleonly)* 
+* [Canva](https://www.canva.com/) or [PikBest](https://pikbest.com/) - *Design Templates / [Premium Apk](https://forum.mobilism.org/search.php?keywords=Canva+&sr=topics&sf=titleonly)* 
 * [Boilerplate](https://github.com/h5bp/html5-boilerplate) - *Website Frontend Template HTML5*
 * [HTML5 Temp](https://rentry.co/HTML5Temp) - *HTML5 Templates & Themes*
 * [CSS Bed](https://www.cssbed.com/) - *CSS Themes*
