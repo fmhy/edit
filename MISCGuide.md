@@ -524,6 +524,7 @@
 * [openScale](https://f-droid.org/packages/com.health.openscale/) - *Weight & Body Metrics Tracker*
 * [Simple Science Fitness](https://ss.fitness/calculators) - *Fitness Calculators* 
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - *BMR / TDEE Calculator*
+* [BMI Chart](https://i.imgur.com/JHJCmDM.png) - *Healthy BMI Graph*
 * [/r/BodyweightFitness](https://www.reddit.com/r/BodyweightFitness) - *Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)*
 * [/r/LoseIt](https://www.reddit.com/r/loseit/) - *Weight Loss Subreddit*
 * [MOVE! Coach](https://mobile.va.gov/app/move-coach) - *Weight Loss Program*
