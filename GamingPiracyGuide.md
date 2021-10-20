@@ -76,10 +76,6 @@
 * [RPG Maker Games](https://rpgmaker.net/games/?name_filter=&engine=&status=&rating=&commercial=exclude&sort=&portal=None) - *Games made via RPG Maker*
 * [VGPErson](https://vgperson.com/games/) - *Japanese Translated Freeware Games*
 * [VRPirates](https://t.me/vrpirates) - *VR Games & Guides / [Discord](https://discord.gg/D9rs7TM)*
-* [Macgamefiles](http://www.macgamefiles.com/) - *Mac Games*
-* [de.linuxgame.cn](https://de.linuxgame.cn/) - *Linux Games* 
-* [The KDE Games Center](https://games.kde.org/) - *Linux Games*
-* [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - *Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Leggendaria](https://chuchy.neocities.org/leggendaria.altervista.org/archive.htm) - *Bemani & Touhou Games*
 * [JustEmuTarkov](https://justemutarkov.eu/) - *Escape from Tarkov Emulator*
 * [CWA](https://www.cwaemu.com/) - *Clone Wars Adventures Emulator / [Discord](https://discord.gg/a3Ugb9dzzv)*
@@ -226,7 +222,7 @@
 * [Sega CD Champion Collection](https://archive.org/details/SegaCDCollection) - *Roms / Sega CD*
 * [3DO Roms](https://archive.org/details/3DO_2017_Reference_Set_Redump_Validated_ROMs), [2](https://archive.org/details/Panasonic-3DO-Redump.org-2019-05-14) - *Roms / 3DO*
 * [datcheck](https://github.com/pkos/datcheck) - *Compare No-Intro / Redump dat files to rom or disc collection* 
-* [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - *Gamecube iso.dec to ISO Converter / [MacOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip)*
+* [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - *Gamecube iso.dec to ISO Converter*
 * [HiddenPalace](https://hiddenpalace.org/) - *Game Development Media Archive*
 * [Xbox Collection](https://archive.org/details/xboxcds?sort=-downloads) or [Xbox_Eng_Romset](https://archive.org/details/xbox_eng_romset) - *CD Roms / Xbox / DDL / Torrents*
 
@@ -582,6 +578,14 @@
 * [Arcade Prehacks](http://www.arcadeprehacks.com/) or [SamsHackedGames](https://www.samshackedgames.com/) - *Hacked Flash Games* 
 * [How-To Play Flash Games](https://rentry.co/oc4wc) - *Browser Flash Game Tutorial*
 * To Play Shockwave Games Install [Adobe Shockwave](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html) & [K-Meleon Browser](http://kmeleonbrowser.org/)
+
+***
+
+# ► [Linux Gaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_gaming)
+
+***
+
+# ► [Mac Gaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_gaming)
 
 ***
 
