@@ -342,8 +342,8 @@
 
 * **[NBAFullHD](https://nbafullhd.com/)** or [NBAHDReplay](https://nbahdreplay.com/) - *Full NBA games*
 * **[F1 Full Races](https://f1fullraces.com/)** - *F1 Replays* 
+* **[AllWrestling](http://www.allwrestling.live/)** - *MMA / Wrestling*
 * [WatchWrestling24](http://watchwrestling24.net/) - *MMA / Wrestling*
-* [Allwrestling](http://www.allwrestling.live/) - *MMA / Wrestling*
 * [WatchWrestling.in](https://watchwrestling.in/) - *MMA / Wrestling*
 * [WatchWrestling.la](https://watchwrestling.la/) - *MMA / Wrestling* 
 * [Bellator](http://www.bellator.com/events) - *Replays / MMA*
