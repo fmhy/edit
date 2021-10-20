@@ -211,11 +211,11 @@
 * [MacBed](https://www.macbed.com/) 
 * [AppDB](https://appdb.to/) 
 * [AppsTorrent](https://appstorrent.ru/) 
-* [NXMac](https://nxmac.com/) - *Software / Games*
-* [Mac-Torrents.io](https://mac-torrents.io/) - *Software / Games*
-* [Mac Torrents](https://www.torrentmac.net/) - *Software / Games*
-* [MacTorrents](https://mactorrents.io/) - *Software / Games*
-* [Download-Mac-Torrent](http://www.download-mac-torrent.ru/) - *Software / Games*
+* [NXMac](https://nxmac.com/)
+* [Mac-Torrents.io](https://mac-torrents.io/)
+* [Mac Torrents](https://www.torrentmac.net/) 
+* [MacTorrents](https://mactorrents.io/) 
+* [Download-Mac-Torrent](http://www.download-mac-torrent.ru/) 
 * [HaxMac](https://haxmac.cc/) 
 * [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
@@ -226,10 +226,10 @@
 
 # ► Mac Gaming
 
-* [Macgamefiles](http://www.macgamefiles.com/) - *Mac Games*
-* [NXMac](https://nxmac.com/) - *Software / Games*
-* [Mac-Torrents.io](https://mac-torrents.io/) - *Software / Games*
-* [Mac Torrents](https://www.torrentmac.net/) - *Software / Games*
-* [MacTorrents](https://mactorrents.io/) - *Software / Games*
-* [Download-Mac-Torrent](http://www.download-mac-torrent.ru/) - *Software / Games*
+* [Macgamefiles](http://www.macgamefiles.com/)
+* [NXMac](https://nxmac.com/) 
+* [Mac-Torrents.io](https://mac-torrents.io/) 
+* [Mac Torrents](https://www.torrentmac.net/) 
+* [MacTorrents](https://mactorrents.io/)
+* [Download-Mac-Torrent](http://www.download-mac-torrent.ru/)
 * [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - *Gamecube iso.dec to ISO Converter*
