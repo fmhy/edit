@@ -132,6 +132,7 @@
 * [AnagramAssistant](https://keitharm.me/projects/anagramAssistant/) - *Anagram Tool* 
 * [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - *Text Tone Detection* 
 * [Just Not Sorry](https://chrome.google.com/webstore/detail/just-not-sorry-the-gmail/fmegmibednnlgojepmidhlhpjbppmlci) - *Undermining Word Detection*
+* [CharacterCountOnline](https://www.charactercountonline.com/) - *Character Counter*
 * [R2bEEaton's Phonetic Reverser](https://spea.cc/backwards/) - *Sentence / Word Reverser* 
 * [I or l?](https://iorl.info/) - *Is it an uppercase "i", or is it a lowercase "L"?*
 * [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/) or [Cool Symbol](https://coolsymbol.com/) - *Copy & Paste Unicode Symbols*
@@ -1118,7 +1119,7 @@ General Reading Sites*
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - *Mouse Click Latency Chart*
 * [Piper](https://github.com/libratbag/piper) - *Gaming Mouse Config Tool*
 * [Sensor.fyi](https://sensor.fyi/info/) - *Mouse Guide / Information*
-* [Office License Isn't Genuine](https://infohost.github.io/office-license-is-not-genuine) - *Fix Office Activation Issues*
+* [Office License Isn't Genuine](https://web.archive.org/web/20211014003224/https://windowsaddict.ml/office-license-is-not-genuine) - *Fix Office Activation Issues*
 * [Rufus](https://rufus.ie/), [AIO Boot](https://www.aioboot.com/) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - *Create Bootable USB Drives*  
 * [Easy2Boot](https://www.easy2boot.com/) - *Boot Directly from ISO's* 
 * [balenaEtcher](https://balena.io/etcher) - *Flash OS Image SD / USB*
