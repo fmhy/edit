@@ -1344,7 +1344,7 @@ General Reading Sites*
 * [Blackbox 4 Windows](http://blackbox4windows.com/) - *Custom Windows Shells / Widgets*
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - *Alt Windows Shells* 
 * [Cursors 4U](https://www.cursors-4u.com/) - *Cursors*
-* [Windows Sounds](https://winsounds.com/) - *Windows Sound Schemes*
+* [Windows Sounds](https://winsounds.com/) or [Win11 Sounds](https://mega.nz/file/CpRkwTrD#9NihefiFDBirhwtXqSvjWAhrFzUPcJveCeePfWh1lmo) - *Windows Sound Schemes*
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - *MacOS Cursors for Windows*
 * [terminal.sexy](https://terminal.sexy/) - *Terminal Color Schemes*
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - *Retro Cathode Terminal Theme*
