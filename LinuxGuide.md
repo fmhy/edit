@@ -26,6 +26,8 @@
 * [Knapsu](https://knapsu.eu/plex/) or [Cloudbox](https://cloudbox.works/) - *Media Server*
 * [Foliate](https://johnfactotum.github.io/foliate/) - *Ebook Reader*
 * [Evince](https://wiki.gnome.org/Apps/Evince) - *PDF / DjVu Reader*
+* [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - *Free Ubuntu VNC*
+* [ANoise](http://anoise.tuxfamily.org/) - *Ambient Sounds for Ubuntu* 
 * [gazee](https://hub.docker.com/r/linuxserver/gazee/) or [Komikku](https://gitlab.com/valos/Komikku) - *Manga & omic Reader / Manager*
 * [wikit](https://github.com/KorySchneider/wikit) - *Wikipedia Summaries from CLI*
 * [Distrochooser](http://distrochooser.de/?l=2) - *Linux Distro Chooser*
@@ -33,6 +35,7 @@
 * [Linux x Technology](https://linuxdiscord.com/) or [Discord-Linux](https://discord.gg/discord-linux) - *Linux Chat Commonalities*
 * [Discover](https://github.com/trigg/Discover) - *Discord Linux Overlay*
 * [Tunic](https://github.com/mikeslattery/tunic) - *Install Linux Over or Alongside Windows*
+* [Darling](https://www.darlinghq.org/) - *Run MacOS Programs on Linux*
 * [InstantBox](https://github.com/instantbox/instantbox) - *Temporary Linux Systems*
 * [HowtoForge](https://www.howtoforge.com/) - *Linux Tutorials*
 * [DotShare](http://dotshare.it/) - *Distro Config Index*
@@ -133,7 +136,7 @@
 * [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - *Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [protondb](https://www.protondb.com/) or [Lutris](https://lutris.net/) - *Play Windows games on Linux*
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - *Linux System Optimizer*
-* [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - *Linux Gaming Kernals*
+* [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - *Linux Gaming Kernels*
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - *Linux Game Package Downloader*
 * [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher for Linux*
 * [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - *Roblox Manager for Linux*
@@ -204,6 +207,7 @@
 
 # ► Mac Software
 
+* **[FileCR](https://filecr.com/macos/)** 
 * [The Macintosh Archives](http://mirror.macintosharchive.org/)
 * [Macintosh Garden](http://macintoshgarden.org/) 
 * [nMac](https://nmac.to/) 
