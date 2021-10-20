@@ -179,7 +179,7 @@
 
 #### Audio Editors 
 
-**[Audacity](https://github.com/cookiengineer/audacity)**, [2](https://archive.org/details/audacity-2.4.2), [3](https://www.audacityteam.org/), [4](https://github.com/temporary-audacity/audacity), [5](https://tenacityaudio.org/) / [DarkAudacity](http://www.darkaudacity.com/), [MusE](https://muse-sequencer.github.io/), [Lexis Audio Editor](https://www.lexisaudioeditor.com/), [mp3DirectCut](https://mpesch3.de/), [Ardour](https://ardour.org/), [LMMS](https://lmms.io/), [AudioMass](https://audiomass.co/), [FamiStudio](https://famistudio.org/), [ocenaudio](https://www.ocenaudio.com/en/startpage), [mp3mymp3](https://mp3mymp3.digitalliquid.com/), [Wavosaur](https://www.wavosaur.com/), [Sneedcity](https://github.com/Sneeds-Feed-and-Seed/sneedacity), [Radium](https://users.notam02.no/~kjetism/radium/), [AudioDope](http://www.audiodope.org/index.htm), [FL Studio](https://www.image-line.com/fl-studio-download/), [Qtractor](https://qtractor.org/) (Linux)
+**[Audacity](https://github.com/cookiengineer/audacity)**, [2](https://archive.org/details/audacity-2.4.2), [3](https://www.audacityteam.org/), [4](https://github.com/temporary-audacity/audacity), [5](https://tenacityaudio.org/) / [DarkAudacity](http://www.darkaudacity.com/), [MusE](https://muse-sequencer.github.io/), [Lexis Audio Editor](https://www.lexisaudioeditor.com/), [mp3DirectCut](https://mpesch3.de/), [Ardour](https://ardour.org/), [LMMS](https://lmms.io/), [AudioMass](https://audiomass.co/), [FamiStudio](https://famistudio.org/), [ocenaudio](https://www.ocenaudio.com/en/startpage), [mp3mymp3](https://mp3mymp3.digitalliquid.com/), [Wavosaur](https://www.wavosaur.com/), [Sneedcity](https://github.com/Sneeds-Feed-and-Seed/sneedacity), [Radium](https://users.notam02.no/~kjetism/radium/), [AudioDope](http://www.audiodope.org/index.htm), [FL Studio](https://www.image-line.com/fl-studio-download/)
 
 ***
 
@@ -511,7 +511,6 @@
 * [uGet](https://ugetdm.com/) / [Extension](https://github.com/ugetdm/uget-integrator)
 * [Persepolis](https://persepolisdm.github.io/)
 * [DownZemAll](https://setvisible.github.io/DownZemAll/)
-* [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913?mt=12) (Mac)
 
 ***
 
@@ -695,7 +694,7 @@
 
 #### Image Editing Software
 
-**[Gimp](https://www.gimp.org/)** / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP), [2](https://github.com/cttynul/gimpshop-reloaded), [PhotoDemon](https://github.com/tannerhelland/PhotoDemon), [Paint.net](https://www.getpaint.net/index.html), [Glimpse](https://glimpse-editor.github.io/), [Photoscape](http://www.photoscape.org/), [PhotoFiltre](http://www.photofiltre.com/), [Polarr](https://www.polarr.com/), [ImageMagick](https://imagemagick.org/index.php) / [Scripts](http://www.fmwconcepts.com/imagemagick/index.php), [Pinta Project](https://www.pinta-project.com/), [RawTherapee](https://rawtherapee.com/), [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) (VS Code), [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) (Mac)
+**[Gimp](https://www.gimp.org/)** / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP), [2](https://github.com/cttynul/gimpshop-reloaded), [PhotoDemon](https://github.com/tannerhelland/PhotoDemon), [Paint.net](https://www.getpaint.net/index.html), [Glimpse](https://glimpse-editor.github.io/), [Photoscape](http://www.photoscape.org/), [PhotoFiltre](http://www.photofiltre.com/), [Polarr](https://www.polarr.com/), [ImageMagick](https://imagemagick.org/index.php) / [Scripts](http://www.fmwconcepts.com/imagemagick/index.php), [Pinta Project](https://www.pinta-project.com/), [RawTherapee](https://rawtherapee.com/), [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) (VS Code)
 
 ***
 
@@ -869,7 +868,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Media Servers
 
-* **[Plex](https://www.plex.tv/)** + */r/plexshares / [Linux](https://knapsu.eu/plex/) / [Setup Guide](https://redd.it/ma1hlm), [2](https://hoarding.me/) / [Plex Pass](https://github.com/binhex/arch-plexpass)*
+* **[Plex](https://www.plex.tv/)** + */r/plexshares / [Setup Guide](https://redd.it/ma1hlm), [2](https://hoarding.me/) / [Plex Pass](https://github.com/binhex/arch-plexpass)*
 * [Autodownload Tools](https://redd.it/hbwnb2) - *Companion Apps for Media Servers*
 * [Emby](https://emby.media/) + */r/EmbyShares*
 * [Jellyfin](https://jellyfin.org/) + */r/JellyfinShares / [Anime Plugin](https://github.com/jellyfin-archive/jellyfin-plugin-anime) / [Desktop Client](https://github.com/jellyfin/jellyfin-media-player) / [Android](https://github.com/jarnedemeulemeester/findroid) / [Last.fm](https://github.com/jesseward/jellyfin-plugin-lastfm) / [Playlist Export](https://github.com/pyluyten/jellyfin_playlist_exporter) / [Customization Guide](https://youtu.be/F85qMyBeiDI)* 
@@ -887,7 +886,6 @@ Add the following commands to a search to manually scrape each site.
 * [Vigilio](https://vigilio.tugcan.net/) - *[GitHub](https://github.com/tugcanolgun/vigilio)*
 * [ErsatzTV](https://ersatztv.org/) - *Live Channel Media Server*
 * [dizqueTV](https://github.com/vexorian/dizquetv) - *Live Channel Media Server*
-* [Cloudbox](https://cloudbox.works/) - *Cloud Media Ubuntu Server*
 * [Autoscan](https://github.com/Cloudbox/autoscan) - *Real-Time Plex & Emby File Changes*
 * [Ombi](https://ombi.io/) - *Plex / Emby User Request Management*
 * [Overseerr](https://overseerr.dev/) - *Plex User Request Management*
@@ -1088,7 +1086,6 @@ Add the following commands to a search to manually scrape each site.
 * [OpenOffice](https://www.openoffice.org)
 * [Office 365 Activation / Tutorial](https://youtu.be/ScL4qjE5-TE) - *[Activators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_onedrive_generators)*
 * [OfficeRTool](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/) - *Office 2016 Activation Tool* 
-* [Microsoft Mac Downloads](https://macadmins.software/) - *Microsoft Office for Mac*
 
 ***
 
@@ -1437,7 +1434,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Multi-Platform**
 
-[Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium), [Librewolf](https://gitlab.com/librewolf-community/browser/windows), [Librewolf Linux](https://librewolf-community.gitlab.io/), [Librefox](https://github.com/intika/Librefox/), [Netsurf](https://www.netsurf-browser.org/), [Wexond](https://github.com/wexond/desktop), [Dot](https://github.com/dothq/browser) (Linux / Alpha), [Otter](https://otter-browser.org/), [BadWolf](https://hacktivis.me/projects/badwolf), [Sphere](https://sphere.tenebris.cc/), [dumb-browser](https://github.com/f32by/dumb-browser), [Breeze](https://github.com/privacyone/breeze-core), [Dot HQ](https://www.dothq.co/) / [Discord](https://invite.gg/dot), [Viper-Browser](https://github.com/LeFroid/Viper-Browser)
+[Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium), [Librewolf](https://gitlab.com/librewolf-community/browser/windows), [Librefox](https://github.com/intika/Librefox/), [Netsurf](https://www.netsurf-browser.org/), [Wexond](https://github.com/wexond/desktop), [Otter](https://otter-browser.org/), [BadWolf](https://hacktivis.me/projects/badwolf), [Sphere](https://sphere.tenebris.cc/), [dumb-browser](https://github.com/f32by/dumb-browser), [Breeze](https://github.com/privacyone/breeze-core), [Dot HQ](https://www.dothq.co/) / [Discord](https://invite.gg/dot), [Viper-Browser](https://github.com/LeFroid/Viper-Browser)
 
 **Android**
 
@@ -2061,7 +2058,6 @@ Add the following commands to a search to manually scrape each site.
 * [Foam](https://github.com/foambubble/foam)
 * [Notepads](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm)
 * [cherrytree](https://www.giuspen.com/cherrytree/)
-* [Drafts](https://getdrafts.com/) - *Mac Text Editor*
 * [TextSlave](https://www.textslave.com/) - *Online Text Editor* 
 * [Text Mechanic](https://textmechanic.com/) - *Online Text Editor* 
 * [NimbleText](https://nimbletext.com/Live) - *Online Text Editor* 
@@ -2208,7 +2204,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Video Players
 
-**Players** - **[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [VLC](https://www.videolan.org/), [mvp.net](https://github.com/stax76/mpv.net), [MPC-HC](https://mpc-hc.org/), [MPC-BE](https://sourceforge.net/projects/mpcbe/), [Pot Player](http://potplayer.daum.net/), [SMPlayer](https://www.smplayer.info/) / [2](https://sourceforge.net/projects/smplayer/), [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player), [uView](https://www.idruf.com/) (Floating), [IINA](https://iina.io/) (Mac)
+**Players** - **[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [VLC](https://www.videolan.org/), [mvp.net](https://github.com/stax76/mpv.net), [MPC-HC](https://mpc-hc.org/), [MPC-BE](https://sourceforge.net/projects/mpcbe/), [Pot Player](http://potplayer.daum.net/), [SMPlayer](https://www.smplayer.info/) / [2](https://sourceforge.net/projects/smplayer/), [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player), [uView](https://www.idruf.com/) (Floating)
 
 **MPV Tools** - [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [Sub Navigation](https://github.com/perogiue/mpv-scripts/releases/) / [SponsorBlock](https://github.com/po5/mpv_sponsorblock) / [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) / [MPC-DiscordRPC](https://github.com/angeloanan/MPC-DiscordRPC), [Bilibili Player](https://github.com/m13253/BiliDan)
 
@@ -2397,7 +2393,7 @@ Good for finding classic, obscure & short films.
 
 #### YouTube Music Players 
 
-[YTMDesktop](https://github.com/JamesParkDev/ytmdesktop-adblock) / [2](https://ytmdesktop.app/), [AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer), [Youtube-Music](https://th-ch.github.io/youtube-music/) / [2](https://github.com/th-ch/youtube-music), [mps-youtube](https://github.com/mps-youtube/mps-youtube), [YMD](https://github.com/MaverickMartyn/youtube-music-desktop), [YTMusic](https://ytmusic.app/) (Mac)
+[YTMDesktop](https://github.com/JamesParkDev/ytmdesktop-adblock) / [2](https://ytmdesktop.app/), [AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer), [Youtube-Music](https://th-ch.github.io/youtube-music/) / [2](https://github.com/th-ch/youtube-music), [mps-youtube](https://github.com/mps-youtube/mps-youtube), [YMD](https://github.com/MaverickMartyn/youtube-music-desktop) 
 
 ***
 
