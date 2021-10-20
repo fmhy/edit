@@ -463,7 +463,7 @@
 * [Flash Browser](https://github.com/radubirsan/FlashBrowser) or [Basilisk](https://archive.org/details/basilisk-portable-with-flash) - *Flash Player Browser*
 * [SuperNova](https://www.getsupernova.com/) or [VidKidz](https://vidkidz.github.io/) - *Browser Flash Player*
 * [Lightspark](https://lightspark.github.io/) - *Open-Source Flash Player*
-* [CleanFlash](https://github.com/CleanFlash/installer) - *Open-Source Flash Player*
+* [CleanFlash](https://web.archive.org/web/20210923173709/https://github.com/CleanFlash/installer/releases/tag/v1.5) - *Open-Source Flash Player*
 * [FlashPatch](https://github.com/darktohka/FlashPatch) - *Adobe Flash Fix*
 * [Animate Archive](https://animatearchive.neocities.org/) or [FlashPlayerArchive](https://archive.org/details/flashplayerarchive) - *Flash Player Archive*
 * [JPEXS Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - *Flash Decompiler*
@@ -533,7 +533,7 @@
 
 **Multi Host Uploaders**
 
-[MirrorAce](https://mirrorace.com/), [MultiUp](https://multiup.eu/) / [2](https://multiup.org/), [Mirrorcreator](https://www.mirrored.to/)
+**[Z-o-o-m](https://z-o-o-m.eu/)**, [MirrorAce](https://mirrorace.com/), [MultiUp](https://multiup.eu/) / [2](https://multiup.org/), [Mirrorcreator](https://www.mirrored.to/)
 
 **File Hosts**
 
@@ -1045,7 +1045,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Linux**
 
-[cmus](https://cmus.github.io/), [Tauon Music Box](https://tauonmusicbox.rocks/), [Lollypop](https://wiki.gnome.org/Apps/Lollypop)
+[cmus](https://cmus.github.io/), [Tauon Music Box](https://tauonmusicbox.rocks/), [Lollypop](https://wiki.gnome.org/Apps/Lollypop), [Audacious](https://audacious-media-player.org/)
 
 **Mac**
 
@@ -2192,7 +2192,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Programs**
 
-[Olive](https://www.olivevideoeditor.org/), [VirtualDub2](https://sourceforge.net/projects/vdfiltermod/files/), [LosslessCut](https://github.com/mifi/lossless-cut), [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Shotcut](https://shotcut.org/), [FreeMake](https://www.freemake.com/how_to/free_movie_maker), [EZVid](https://www.ezvid.com/), [OpenShot](https://www.openshot.org/), [Shotcut](https://www.shotcut.org/), [HitFilm](https://fxhome.com/product/hitfilm-express), [kdenlive](https://kdenlive.org/en/), [Lightworks](https://www.lwks.com/), [Auto-Editor](https://auto-editor.com/) (CLI)
+[Olive](https://www.olivevideoeditor.org/), [VirtualDub2](https://sourceforge.net/projects/vdfiltermod/files/), [LosslessCut](https://github.com/mifi/lossless-cut), [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Shotcut](https://shotcut.org/), [FreeMake](https://www.freemake.com/how_to/free_movie_maker), [EZVid](https://www.ezvid.com/), [OpenShot](https://www.openshot.org/), [Shotcut](https://www.shotcut.org/), [HitFilm](https://fxhome.com/product/hitfilm-express), [kdenlive](https://kdenlive.org/en/), [Lightworks](https://www.lwks.com/), [Auto-Editor](https://auto-editor.com/) (CLI), [MoviePy](https://zulko.github.io/moviepy/) (Python)
 
 **Online Editors**
 
