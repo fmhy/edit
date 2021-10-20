@@ -88,7 +88,7 @@
 # ► Android Emulators 
 
 * **[Nox](https://www.bignox.com/)** - *[Screenshot](https://i.imgur.com/VuFLWbW.jpg) / [Debloater](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29 )*
-* **[Anbox](https://anbox.io/)** or **[WayDroid](https://waydro.id/ )** - *Android Linux Emulator*
+* **[Anbox](https://anbox.io/)** or **[WayDroid](https://waydro.id/)** / [2](https://github.com/waydroid) - *Android Linux Emulator*
 * [XePlayer](http://www.xeplayer.com/) - *Fork of Nox / [Screenshot](https://i.imgur.com/qfmmwMB.jpg)* 
 * [GameLoop](https://www.gameloop.com/) - *[Screenshot](https://i.imgur.com/dLrEXCJ.png)*
 * [MuMu](https://www.mumuglobal.com/) - *[Screenshot](https://i.imgur.com/D8BBerb.png)*
