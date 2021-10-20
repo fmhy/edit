@@ -520,7 +520,6 @@
 * [phys](https://phys.org/) - *Latest / News / Article / Physics* 
 * [RealNotComplex](https://realnotcomplex.com/) - *Math / Books*
 * [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial) - *Reverse Engineering Course* 
-* [HowtoForge](https://www.howtoforge.com/) - *Linux / Tutorials*
 * [EasyEngineering](https://easyengineering.net/) - *Engineering*
 * [EngineeringBooksPDF](https://www.engineeringbookspdf.com/) - *Engineering*
 * [EngineeringEBooks_civil](https://t.me/EngineeringEBooks_civil) - *Civil Engineering*
@@ -808,7 +807,6 @@
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) or [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md) - *Comic Downloading App*
 * [LeagueOfComicGeeks](https://leagueofcomicgeeks.com/), [Cover](http://www.frenchfrysoftware.com/cover/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - *Reader / Manager*
 * [MComix](https://sourceforge.net/p/mcomix/wiki/Home/) - *Reader*
-* [gazee](https://hub.docker.com/r/linuxserver/gazee/) or [Komikku](https://gitlab.com/valos/Komikku) - *Reader / Manager  / Linux*
 * [Tachiyomi](https://tachiyomi.org/), [TheComicsLibrary](https://github.com/FabioPezzini/TheComicsLibrary), [Bubble](https://f-droid.org/en/packages/com.nkanaev.comics/) or [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - *Manager / Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / Android* 
 * [ComicFlow](https://github.com/swisspol/ComicFlow) - *Manager / Reader / iOS*
 * [CrossFace](https://crossface.cf/manga-reader/) or [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Browser Comic Reader*
@@ -922,7 +920,6 @@
 * [AllMangasReader](http://allmangasreader.com/), [OpenComic](https://github.com/ollm/OpenComic) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - *Manager / Reader*
 * [Tachiyomi](https://tachiyomi.org/) - *Manga / Comic Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / [Desktop](https://github.com/Suwayomi) / [Web Client](https://github.com/TachiWeb) / Android* 
 * [CrossFace](https://crossface.cf/manga-reader/) - *Browser Comic / Manga Reader*
-* [Komikku](https://gitlab.com/valos/Komikku) - *Reader / Manager / Linux*
 * [manga-py](https://github.com/manga-py/manga-py) - *Python Line Manga Downloader* 
 * [MangaUpdates](https://www.mangaupdates.com/) - *Manga Release Updates*  
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
@@ -1114,7 +1111,6 @@
 * [PocketBook Reader](https://play.google.com/store/apps/details?id=com.obreey.reader) - *Manager / Reader / Android*
 * [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - *Manager / Reader / Android*
 * [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) - *PDF Reader / PC*
-* [Evince](https://wiki.gnome.org/Apps/Evince) - *PDF / DjVu Reader / Linux*
 * [qPDFview](https://launchpad.net/qpdfview) - *PDF Reader / PC*
 * [mupdf](https://mupdf.com/) - *PDF Reader / PC*
 * [XODO](https://www.xodo.com/) - *PDF Reader / PC / Android / iOS*
@@ -1123,7 +1119,6 @@
 * [PdfPreviewbot](https://t.me/PdfPreviewbot) - *Telegram PDF Reader*
 * [Readera](https://play.google.com/store/apps/details?id=org.readera) - *Manager / Reader / Android*
 * [Libera](http://librera.mobi/) - *Manager / Reader / Android*
-* [Foliate](https://johnfactotum.github.io/foliate/) - *Manager / Reader / Linux*
 * [WinDjView](https://windjview.sourceforge.io/) - *DjVu Reader / PC*
 * [DjVuLibr](http://djvu.sourceforge.net/) - *DjVu Reader / PC*
 * [AnyfFip](https://anyflip.com/) - *Interactive Flipbook Reader* 
