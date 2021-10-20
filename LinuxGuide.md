@@ -186,8 +186,8 @@
 * [Adobe Zii](https://www.reddit.com/r/AdobeZii/ ) - *Adobe Software Patcher*
 * [MagicCap](https://magiccap.me/) - *Screenshot Tool*
 * [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) - *Typing Practice*
-* [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) - *Reddit Dekstop Client
-* [Discord M1](https://github.com/17hoehbr/Discord-M1) - *M1 Mac Discord App**
+* [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) - *Reddit Dekstop Client*
+* [Discord M1](https://github.com/17hoehbr/Discord-M1) - *M1 Mac Discord App*
 
 ***
 
