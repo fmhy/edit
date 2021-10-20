@@ -16,7 +16,7 @@
 * **[Linux Piracy](https://rentry.co/LinuxPiracy)** - *Linux Piracy Guide*
 * **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, [CPU-X](https://github.com/X0rg/CPU-X), [vtop](https://github.com/MrRio/vtop) or [Stacer](https://github.com/oguzhaninan/Stacer) - *System Info / Resource Monitors*
 * **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
-* **[mpv](https://mpv.io/)** or [cmus](https://cmus.github.io/) - *Video Player / [Frontend](https://github.com/celluloid-player/celluloid)*
+* **[mpv](https://mpv.io/)** - *Video Player / [Frontend](https://github.com/celluloid-player/celluloid)*
 * **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](http://bitflu.workaround.ch/) or [kTorrent](https://apps.kde.org/en/ktorrent) / [2](https://invent.kde.org/network/ktorrent) - *Linux Torrent Client* 
 * rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [All Seeders Column](https://github.com/AkdM/rutorrent-all-seeders) / [Docker Build](https://github.com/binhex/arch-rtorrentvpn)
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - *RTorrent Web Frontend / [Themes](https://github.com/InAnimaTe/rutorrent-themes), [2](https://github.com/artyuum/3rd-party-ruTorrent-Themes)*
@@ -69,6 +69,7 @@
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer) - *YouTube Linux Client / [Fork](https://github.com/trizen/pipe-viewer)* 
 * [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - *GNU / Linux Twitch Desktop Client* 
 * [Qtractor](https://qtractor.org/) - *Audio Editor*
+* [cmus](https://cmus.github.io/) - *Audio Edito*
 * [Ecasound](http://nosignal.fi/ecasound/) - *Multitrack Audio-Processor / Linux*
 * [Peek](https://github.com/phw/peek) - *Simple Video / GIF recorder*
 * [utils](https://github.com/Loupeznik/utils) - *Linux Utility Scripts*
