@@ -193,7 +193,7 @@
 * [VectorItalia](https://www.vectoritalia.com/)
 * [Mirror.una](http://mirror.una.ac.cr/) 
 * [MySoftwareFree](https://mysoftwarefree.com/)
-* [Mutaz.net](https://www.mutaz.net/) - *PC / Mac / Android*
+* [Mutaz.net](https://www.mutaz.net/)
 * [AIOsetup](https://t.me/aiosetup) - *Telegram* 
 * [Libreware](https://t.me/Libreware) - *Telegram* 
 * [raymondfreesoftware](https://sites.google.com/site/raymondfreesoftware/) - *[Telegram](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g)* 
@@ -255,33 +255,11 @@
 
 ***
 
-## ▷ Linux Software
-
-* [Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/), [2](https://github.com/inputsh/awesome-linux), [3](https://github.com/crackerica/Awesome-Linux-Software) 
-* [Flathub](https://flathub.org/)
-* [ArchLinux](https://wiki.archlinux.org/title/List_of_applications)
-* [App Outlet](https://app-outlet.github.io/)
-* [SnapCraft](https://snapcraft.io/store) 
-* [WSL-Programs](https://github.com/ethanhs/WSL-Programs) - *Windows Subsystem for Linux Programs*
-* [KDE's Applications](https://apps.kde.org/education) - *Linux Apps* 
-* [apps.gnome](https://apps.gnome.org/en-GB/) - *GNOME Apps*
+## ► [Linux Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_software)
 
 ***
 
-## ▷ Mac Software
-
-* [The Macintosh Archives](http://mirror.macintosharchive.org/)
-* [Macintosh Garden](http://macintoshgarden.org/) 
-* [nMac](https://nmac.to/) 
-* [MacDrop](https://macdrop.net/) 
-* [MacBed](https://www.macbed.com/) 
-* [AppDB](https://appdb.to/) 
-* [NXMac](https://nxmac.com/) 
-* [HaxMac](https://haxmac.cc/) 
-* [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
-* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
-* [Awesome macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - *Open Source Software*
-* [Adobe CC 2021 Crack](https://redd.it/ox6rwl) - *Adobe Software*
+## ► [Mac Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_software)
 
 ***
 
