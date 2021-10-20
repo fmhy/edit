@@ -320,7 +320,6 @@
 * [Pokemon.com](https://watch.pokemon.com/) - *Full Pokemon Episodes*
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - *Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/)* 
 * [Crunchyroll iFrame Player](https://greasyfork.org/en/scripts/411391-crunchyroll-iframe-player) - *Crunchyroll Premium Bypass Script*
-* [anime-terminal](https://github.com/YogeshLamichhane/anime-terminal) - *Anime Streaming Terminal for Linux*
 
 ***
 
