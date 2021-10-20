@@ -214,7 +214,6 @@
 * [Live Curtain](https://livecurtain.com/) - *Countdown Curtain For Online Meeting*
 * [Animaker](https://www.animaker.com/) - *Animated Video Creator*
 * [Avidemux](http://fixounet.free.fr/avidemux/) - *Cut / Filter / Encode* 
-* [MoviePy](https://zulko.github.io/moviepy/) - *Python Video Editor*
 * [vidcutter](https://github.com/ozmartian/vidcutter) - *Cut Videos* 
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts* 
 * [MergeMP4](https://maple3142.github.io/mergemp4/) - *Merge MP4 Video & Audio* 
@@ -1182,6 +1181,7 @@ General Reading Sites*
 * [phwmon](https://gitlab.com/o9000/phwmon) - *System Tray Hardware Monitor*
 * [QDirStat](https://github.com/shundhammer/qdirstat) - *Directory Statistics*
 * [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) - *SMBIOS Generator*
+* [How-To Reset BIOS Password](https://www.youtube.com/watch?v=GolIjI2HS5w)
 * [x64dbg](https://github.com/x64dbg/x64dbg) - *Windows Debugging Tool*
 * [WhoCrashed](https://www.resplendence.com/whocrashed) - *Windows Crash Analyzer*
 * [WhatPulse](https://whatpulse.org/) - *Mouse / Keyboard Usage Analyzer*
@@ -1510,8 +1510,9 @@ General Reading Sites*
 
 * **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)**, **[Friendly GNU](https://fglt.nl/guides/picking-a-distro.html)**, [LinuxTracker](https://linuxtracker.org/), [tohoku](http://www.cs.tohoku-gakuin.ac.jp/pub/Linux/), [minerswin](http://root3.minerswin.de/ISO/), [Pkgs](https://pkgs.org/), [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity) or [ComputerFreely](https://computefreely.org/) - *Linux Distro Indexes / Guides*
 * **[Linux Piracy](https://rentry.co/LinuxPiracy)** - *Linux Piracy Guide*
-* **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, [CPU-X](https://github.com/X0rg/CPU-X) or [Stacer](https://github.com/oguzhaninan/Stacer) - *System Info / Resource Monitors*
-* **[mpv](https://mpv.io/)** - *Video Player / [Frontend](https://github.com/celluloid-player/celluloid)*
+* **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, [CPU-X](https://github.com/X0rg/CPU-X), [vtop](https://github.com/MrRio/vtop) or [Stacer](https://github.com/oguzhaninan/Stacer) - *System Info / Resource Monitors*
+* **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
+* **[mpv](https://mpv.io/)** or [cmus](https://cmus.github.io/) - *Video Player / [Frontend](https://github.com/celluloid-player/celluloid)*
 * [wikit](https://github.com/KorySchneider/wikit) - *Wikipedia Summaries from CLI*
 * [Distrochooser](http://distrochooser.de/?l=2) - *Linux Distro Chooser*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old Linux Distro Archive*
@@ -1532,17 +1533,19 @@ General Reading Sites*
 * [HydraPaper](https://hydrapaper.gabmus.org/) - *Linux Wallpaper Manager*
 * [Polychromatic](https://polychromatic.app/) - *Linux System Light Control*
 * [Curlew](https://curlew.sourceforge.io/) - *Linux File Converter*
+* [Dolphin](https://userbase.kde.org/Dolphin) or [ranger](https://github.com/ranger/ranger) - *File Manager*
+* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - *Linux File Search*
+* [PDF Mix](https://scarpetta.eu/pdfmixtool/) - *PDF Editor*
 * [syncthing](https://syncthing.net/) - *File Sync*
-* [Hexchat](https://hexchat.github.io/), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/ ) - *IRC Clients*
+* [Hexchat](https://hexchat.github.io/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/ ) - *IRC Clients*
 * [Linux-dash](https://github.com/afaqurk/linux-dash) - *Web-based System Dashboard*
-* [Audacious](https://audacious-media-player.org/) - *Audio Player*
 * [MagicCap](https://magiccap.me/) - *Screenshot Tool*
+* [Flowblade](https://github.com/jliljebl/flowblade) - *Video Editor*
 * [Peek](https://github.com/phw/peek) - *Simple Video / GIF recorder*
 * [utils](https://github.com/Loupeznik/utils) - *Linux Utility Scripts*
 * [Mayfrost Guides](https://github.com/mayfrost/guides) - *Linux / Computing Guides*
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - *Easy Way to Use KVM*
 * [winapps](https://github.com/Fmstrat/winapps), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - *Run Windows Apps in Linux* 
-* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - *Linux File Search*
 * [Ulauncher](https://ulauncher.io/) - *Application Launcher*
 * [Client Evolution](https://help.gnome.org/users/evolution/stable/) - *Calendar / Mail*
 * [aerc](https://aerc-mail.org/) - *CLI based Email Client*
@@ -1555,7 +1558,12 @@ General Reading Sites*
 * [Autokey](https://github.com/autokey/autokey) - *Linux Automation Utility*
 * [The Linux Kernel Archives](https://kernel.org/) - *Linux Kernel Archive*
 * [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
-* [Simple Terminal](https://st.suckless.org/) - *Terminal Emulator*
+* [Ghostwriter](http://wereturtle.github.io/ghostwriter/) - *Markdown Editor*
+* [Corebird](http://corebird.baedert.org/) - *Twitter Client*
+* [ramme](https://github.com/terkelg/ramme) - *Instagram Client*
+* [Whatever](https://github.com/CellarD0-0r/whatever) - *Evernote Client*
+* [Simple Terminal](https://st.suckless.org/), [Alacritty](https://github.com/alacritty/alacritty) or [Kitty](https://sw.kovidgoyal.net/kitty/overview/) - *Terminal Emulator*
+* [Electerm](https://electerm.github.io/electerm) - *Terminal / SSH / STP Client*
 * [Yakuake](https://yakuake.kde.org/) - *Quake Style Terminal Emulator*
 * [fzf](https://github.com/junegunn/fzf) - *CLI based fuzzy finder*
 * [Timeshift](https://github.com/teejee2008/timeshift) - *Create System Snapshots & Restore*
@@ -1568,6 +1576,7 @@ General Reading Sites*
 
 ## ▷ Mac Tools
 
+* **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) - *Download MacOS*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - *MacOS Virtualbox Installer*
