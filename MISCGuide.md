@@ -149,7 +149,7 @@
 * [WJunction](https://www.wjunction.com/) - *Pirate webhost / provider discussion* 
 * [VR Pirates](https://discord.gg/D9rs7TM) - *VR Piracy Discussion* 
 * [VRChat Modding Group](https://discord.gg/rCqKSvR) - *VR Modding Discussion* 
-* [Linux x Technology](https://linuxdiscord.com/) - *Linux Discussion*
+* [Linux x Technology](https://linuxdiscord.com/) or [Discord-Linux](https://discord.gg/discord-linux) - *Linux Discussion*
 * [More Piracy Subs](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits)
 
 ***
