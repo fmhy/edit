@@ -340,7 +340,8 @@
 
 ## ▷ Sports Streaming
 
-* [NBAFullHD](https://nbafullhd.com/) or [NBAHDReplay](https://nbahdreplay.com/) - *Full NBA games*
+* **[NBAFullHD](https://nbafullhd.com/)** or [NBAHDReplay](https://nbahdreplay.com/) - *Full NBA games*
+* **[F1 Full Races](https://f1fullraces.com/)** - *F1 Replays* 
 * [WatchWrestling24](http://watchwrestling24.net/) - *MMA / Wrestling*
 * [Allwrestling](http://www.allwrestling.live/) - *MMA / Wrestling*
 * [WatchWrestling.in](https://watchwrestling.in/) - *MMA / Wrestling*
@@ -350,7 +351,6 @@
 * [MMACore](https://www.mma-core.com/videos/home) - *Videos / MMA*
 * [AllTheBestFights](https://www.allthebestfights.com/) - *Videos / MMA / Boxing / K1*
 * [Racing HD](http://www.racinghd.net/) or [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - *Racing Replays* 
-* [F1 Full Races](https://f1fullraces.com/) - *F1 Replays* 
 * [Sport Video](https://www.sport-video.org.ua/) - *Sports Replays / Torrents* 
 
 ***
@@ -359,10 +359,13 @@
 
 * **[Sportsurge](https://sportsurge.net/)**, [2](https://sportsurge.club/) - *Sports / Stream Locator*
 * **[WebOas.is TV](http://streamwat.ch/)** - *TV / Sports*
-* **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - *NBA / NFL*
 * **[Jackal](https://jackal.surge.sh/)** - *TV / Sports*
+* **[LiveOnScore](http://liveonscore.tv/)** - *Sports* 
+* **[StreamEast](http://www.streameast.live/)** - *Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)*
+* **[Black Tie Sports](https://blacktiesports.net/)** - *Sports* 
+* **[Soccer Streams](https://reedit.soccerstreams.net/)** - *Soccer*
+* **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - *NBA / NFL*
 * **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [2](https://github.com/iptv-org/iptv) - *IPTV Resources / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists)*
-* [Black Tie Sports](https://blacktiesports.net/) - *Sports* 
 * [TOTV](http://totv.org/) - *TV / Sport*
 * [123TV](http://123tv.live/) - *TV / Sports*
 * [WatchNewsLive](https://watchnewslive.tv/) - *TV / Sports*
@@ -371,7 +374,6 @@
 * [First Row Sports](https://firstsrowsports.tv/) - *Sports*
 * [720pStream](http://720pstream.tv/) - *Sports* 
 * [CrackStreams](https://crackstreams.io/), [2](https://crackstreams.me/), [3](https://crackstreams.to/) - *Sports*
-* [StreamEast](http://www.streameast.live/) - *Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)*
 * [ATDHE](http://atdhe.pro/) - *Sports* 
 * [Ripple.stream](http://ripple.stream/) - *Sports* 
 * [GiveMeRedditStreams](https://givemeredditstreams.com/) - *Sports* 
@@ -411,7 +413,6 @@
 * [MARKKY](https://markkystreams.com/) - *Sports*
 * [TheHomeSports](https://thehomesport.com/) - *Sports* 
 * [CricHD](https://fc2.crichd.com/new-home7) - *Sports* 
-* [LiveOnScore](http://liveonscore.tv/) - *Sports* 
 * [Sports24](https://sports24.stream/) - *Sports*
 * [MamaHD](https://mamahd.best/) - *Sports*
 * [DaddyLive](https://daddylive.co/) - *Sports*
@@ -437,7 +438,6 @@
 * [BoxingStreams](https://boxingstreams.cc/) - *Boxing*
 * [F1 Live Stream](https://formula1-live.stream/free-races-online-4) - *F1* 
 * [LiveSoccer TV](https://www.livesoccertv.com/) - *Soccer*
-* [Soccer Streams](https://reedit.soccerstreams.net/) - *Soccer*
 * [FootEM](https://www.footem.site/) - *Soccer*
 * [footybite](https://live.footybite.com/) - *Soccer* 
 * [HesGoal](http://www.hesgoal.tv/) - *Soccer*
