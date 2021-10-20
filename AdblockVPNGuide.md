@@ -13,7 +13,7 @@
 
 * **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/), [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) or [AmIUnique](https://amiunique.org/fp) - *Adblocking Test*
 * [Simple Opt Out](https://simpleoptout.com/) - *Turn off Targeted Ads*
-* [hBlock](https://github.com/hectorm/hblock), [someonewhocares](https://someonewhocares.org/hosts/), [winhelp2002](https://winhelp2002.mvps.org/hosts.htm), [Hosts](https://github.com/StevenBlack/hosts) or [Gas Mask](https://github.com/2ndalpha/gasmask) (Mac) - *Block Ads with Host Files* 
+* [hBlock](https://github.com/hectorm/hblock), [someonewhocares](https://someonewhocares.org/hosts/), [winhelp2002](https://winhelp2002.mvps.org/hosts.htm) or [Hosts](https://github.com/StevenBlack/hosts)   - *Block Ads with Host Files* 
 
 ***
 
@@ -91,9 +91,6 @@
 * [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html) or [GlassWire](https://www.glasswire.com/) - *Firewall / Network Monitor* 
 * [Nmap](https://nmap.org/) - *Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)* 
 * [Waircut](https://sourceforge.net/projects/waircut/) - *WPS Network Monitor*
-* [Stronghold](https://github.com/alichtman/stronghold) - *Mac Security Settings Terminal*
-* [LuLu](https://objective-see.com/products/lulu.html) - *Mac Firewall* 
-* [OpenSnitch](https://github.com/evilsocket/opensnitch) or [Gufw](http://gufw.org/) - *Linux Firewall* 
 * [Hard_Configurator](https://hard-configurator.com/) - *Software Restriction Policy Management GUI* 
 * [Hardentools](https://github.com/securitywithoutborders/hardentools) - *Disables Risky Windows Features*
 * [Unchecky](https://unchecky.com/) - *Clears Software Installation Checkboxes*
@@ -146,10 +143,8 @@
 * [Privacy / Safety Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_guides) - *Internet Privacy / Safety Guides* 
 * [Privacy.Sexy](https://privacy.sexy/) - *Privacy Scripts* 
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - *Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)*
-* [macOS Security Tools](https://github.com/ashishb/osx-and-ios-security-awesome) - *OS X Security Tools*
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - *CyberSecurity Tool Index*
 * [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - *Anti-Censorship tool index* 
-* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - *Linux Privacy Guide* 
 * [Element](https://element.io/) / [Themes](https://github.com/aaronraimist/element-themes), [qTox](https://qtox.github.io/), [Utopia](https://u.is/en/), [Jami](https://jami.net/), [Tox](https://tox.chat/), [Bitmask](https://bitmask.net/) or [Wickr](https://wickr.com/) - *Encrypted Messaging / Video Calls* 
 * [Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - *Discord Message Encryption*
@@ -169,11 +164,9 @@
 * [Fake Address Generator](https://fakeaddressgenerator.com/) - *Create a fake Address*
 * [Random User Generator](https://randomuser.me/) - *Generator Fake User Details* 
 * [Tails](https://tails.boum.org/) or [Qubes](https://www.qubes-os.org/) - *Privacy-Based Operating Systems*
-* [Mofolinux](https://mofolinux.com/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - *Privacy-Based Operating System / Linux*
 * [Track This]( https://trackthis.link/) - *Confuse Personal Advertising by opening 100 tabs* 
 * [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete) - *Secure File Deletion*
 * [VeraCrypt](https://www.veracrypt.fr/en/Home.html) or [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup) - *Disk Encryption Software*
-* [FileVault](https://support.apple.com/en-us/HT204837) - *Mac Disk Encryption* 
 * [Cryptomator](https://cryptomator.org/), [Boxcryptor](https://www.boxcryptor.com/en/), [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) or [Filen](https://filen.io/) - *Cloud File Encryption*
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - *Encrypt / Decrypt GDrive*
 * [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/), [Skytransfer](https://skytransfer.hns.siasky.net) or [upload-vaa](https://upload.vaa.red/) - *Encrypted File Host* 
@@ -438,14 +431,13 @@
 * [TunnelBear](https://www.tunnelbear.com/) - *Free VPN / 500mb only*
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
 * [VPNGate](https://www.vpngate.net/en/) - *Free VPN Relay Servers*
-* [OpenVPN](https://openvpn.net/) - *VPN Tunnel / [Linux](https://github.com/slingamn/namespaced-openvpn) / [Mac](https://tunnelblick.net/)* 
+* [OpenVPN](https://openvpn.net/) - *VPN Tunnel* 
 * [Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs) - *Free VPN Tunnel Configs*
 * [Gluetun](https://github.com/qdm12/gluetun) - *Tunnel your Docker containers through a VPN*
 * [PiVPN](https://pivpn.io/) - *Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)* 
 * [Enterprise](https://pritunl.com/) - *VPN Server* 
 * [Amnezia](https://github.com/amnezia-vpn/desktop-client/) - *Self-hosted VPN*
 * [Self-hosted VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/selfhost-vpn) - *Self-hosted VPN guide by /u/Kaxry*
-* [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - *Arch Linux base with Deluge, Privoxy & OpenVPN*
 * [VPNHotspot](https://github.com/Mygod/VPNHotspot) - *Share VPN Connection over Hotspot*
 * [Killswitch](https://github.com/nologs-vpn/killswitch) or [KillSwitch](https://github.com/nerfirelia123/KillSwitch) - *Custom VPN Killswitch*
 * [/r/VPN](https://reddit.com/r/VPN) - *VPN Help and Discussion* 
