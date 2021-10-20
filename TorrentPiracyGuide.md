@@ -39,11 +39,6 @@
 * [Loadbt](https://www.loadbt.com/) - *Torrent / Stream to Cloud*  
 * [SpreadsheetUI](https://github.com/JohnDoee/spreadsheetui) - *Speadsheet Torrent webUI* 
 * [flood](https://github.com/jfurrow/flood) - *Web UI for rTorrent, qBittorrent & Transmission* 
-* [swizzin](https://swizzin.ltd/) - *All-in-one Seedbox Solution for Ubuntu / Debian* 
-* [rtinst](https://github.com/arakasi72/rtinst) - *Seedbox Installation Script for Ubuntu / Debian* 
-* [rTorrent](https://rakshasa.github.io/rtorrent/) / [2](https://github.com/rakshasa/rtorrent), [BitFlu](http://bitflu.workaround.ch/) or [kTorrent](https://apps.kde.org/en/ktorrent) / [2](https://invent.kde.org/network/ktorrent) - *Linux Torrent Client* 
-* rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [All Seeders Column](https://github.com/AkdM/rutorrent-all-seeders) / [Docker Build](https://github.com/binhex/arch-rtorrentvpn)
-* [RuTorrent](https://github.com/Novik/ruTorrent) - *RTorrent Web Frontend / [Themes](https://github.com/InAnimaTe/rutorrent-themes), [2](https://github.com/artyuum/3rd-party-ruTorrent-Themes)*
 * [flood](https://flood.js.org/) - *rTorrent, Transmission & qBittorrent WebUI*
 * [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - *Easily Send Torrents to Client* 
 * [Demagnetize](http://demagnetize.link/) - *Turn Magnets into Direct Downloads / 200mb or less only*
@@ -108,10 +103,6 @@
 * [Tigole](https://infogalactic.com/info/Tigole#Getting_Tigole_torrents) - *Torrent Index*
 * [VSTorrent](https://vstorrent.org/) - *Software*
 * [Fost.ws](https://fost.ws/) - *Software / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
-* [Mac-Torrents.io](https://mac-torrents.io/) - *Software / Games / Mac*
-* [Mac Torrents](https://www.torrentmac.net/) - *Software / Games / Mac*
-* [MacTorrents](https://mactorrents.io/) - *Software / Games / Mac*
-* [Download-Mac-Torrent](http://www.download-mac-torrent.ru/) - *Software / Games / Mac*
 * [AudioNews](https://audionews.org/) - *Audio Software* 
 * [m0nkrus](http://w14.monkrus.ws/) - *Adobe Software archive*
 * [upawg](https://upawg.ca) - *Index of Audio Products*
