@@ -192,7 +192,7 @@
 
 * [Club-MST3k](http://www.club-mst3k.com/) - *All MST3k episodes*
 * [Rifftrax Twitch](https://www.twitch.tv/rifftrax) or [RiffTrax Pluto](https://pluto.tv/live-tv/rifftrax) - *RiffTrax Live Streams*
-* [Classic Cinema Online](https://classiccinemaonline.com/), [BnWMovies](https://bnwmovies.com/) or [Dumb Classic Movies](http://www.dumb.com/movies/) - *Classic Films*
+* [Classic Cinema Online](https://classiccinemaonline.com/), [PublicDomainFlix](https://publicdomainflix.com/), [BnWMovies](https://bnwmovies.com/) or [Dumb Classic Movies](http://www.dumb.com/movies/) - *Classic Films*
 * [TheFilmDetective](https://thefilmdetective.tv/) - *Classic Films / TV*
 * [RetroVision Media](http://www.retrovisionmedia.com/) - *Retro / Classic Films* 
 * [Wu Tang Collection](https://www.thewutangcollection.com/) - *Martial Arts Films*
@@ -505,7 +505,7 @@
 * [SeriesVault](https://seriesvault.win/) - *TV / Anime* 
 * [o2tvseries](https://o2tvseries.com/) - *TV*  
 * [MiCineHD](https://www.micinehd.com/) - *Movies / TV* 
-* [MoviesVerse](https://moviesverse.net/) - *Movies / TV*
+* [MoviesVerse](https://moviesverse.co.in/) - *Movies / TV*
 * [TVindexer](https://tvindexer.com/) - *Movies / TV / Anime*
 * [Movies Mobile](https://mobilemovies.info/index.php?dir=Hollywood%20Movies) - *Movies*
 * [SeriesVault](https://seriesvault.tk/) - *TV* 
