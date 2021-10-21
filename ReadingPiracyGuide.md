@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/m8KqG2g.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/4jQZ6JI.png)** - *For mobile users*
 
 ***
 ***
@@ -168,7 +168,6 @@
 * [zqktlwi4fecvo6ri](http://zqktlwi4fecvo6ri.onion/wiki/Libraries) - *Tor Required* 
 * [xfmro77i3lixucja](http://xfmro77i3lixucja.onion/) - *Tor Required* 
 * [The Imperial Library of Trantor](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/) - *Tor Required / [Unofficial Mirror](https://trantor.is/)*
-* [Libby](https://www.overdrive.com/apps/libby/) - *Borrow Digital Library Books / Mobile*
 * [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
 * [/r/opendirectories](https://reddit.com/r/opendirectories)
 * [/r/EBook_Resources](https://reddit.com/r/EBook_Resources/)
@@ -821,7 +820,6 @@
 ## ▷ Manga Sites
 
 * **[Manga Sites Search](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** + [Manga Sites Search 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0)
-* **Manga Apps - [Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_android_manga) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_manga)** - *Free manga apps / organizers*
 * **[Manga Site Index](https://piracy.moe/)** - *Manga Site List*
 * **[MangaDex](https://mangadex.org/)** - *[Download Script](https://github.com/frozenpandaman/mangadex-dl)*
 * **[Manga4Life](https://manga4life.com/)**
@@ -920,7 +918,7 @@
 * [OtakuGallery](http://www.otakugallery.com/) - *Manga Artbooks*
 * [WebToons](https://www.webtoons.com/en/) - *Manga Webtoons*  
 * [AllMangasReader](http://allmangasreader.com/), [OpenComic](https://github.com/ollm/OpenComic) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - *Manager / Reader*
-* [Tachiyomi](https://tachiyomi.org/) - *Manga / Comic Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / [Desktop](https://github.com/Suwayomi) / [Web Client](https://github.com/TachiWeb) / Android* 
+* [Tachiyomi](https://github.com/Suwayomi)  - *Manga / Comic Reader / [Web Client](https://github.com/TachiWeb) / [Discord](https://discord.com/invite/tachiyomi)* 
 * [CrossFace](https://crossface.cf/manga-reader/) - *Browser Comic / Manga Reader*
 * [manga-py](https://github.com/manga-py/manga-py) - *Python Line Manga Downloader* 
 * [MangaUpdates](https://www.mangaupdates.com/) - *Manga Release Updates*  
@@ -1069,7 +1067,7 @@
 # ► Request Books
 
 * **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)** - *Books / Audiobooks* 
-* **[Mobilism](https://forum.mobilism.org/viewforum.php?f=20)** - *Books / Audiobooks / android*
+* **[Mobilism](https://forum.mobilism.org/viewforum.php?f=20)** - *Books / Audiobooks*
 * **irc.irchighway.net/ebooks** - *eBook IRC / [Request Guide](https://i.imgur.com/GvyDh0B.png)*
 * [/r/audiobookrequest](https://reddit.com/r/audiobookrequest) - *Audiobook request Sub*
 * [Books.cat](https://books.cat/) - *Book requesting forum*
@@ -1090,7 +1088,7 @@
 
 ***
 
-# ► eBook Readers
+# ► Ebook Readers
 
 * **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** - *List of Ebook Readers*
 * **[Google Play Books](https://play.google.com/books)** - *Store Pirated Books / Get Meta Data Automatically*
@@ -1107,20 +1105,12 @@
 * [Icecream eBook Reader](https://icecreamapps.com/Ebook-Reader/) - *Manager / Reader / PC*
 * [Eplee](https://github.com/Janglee123/eplee) - *Manager / Reader / PC* 
 * [Okular](https://okular.kde.org/) - *PDF / Reader / Linux / PC / Mac*
-* [Moon Reader](http://www.moondownload.com/) - *Manager / Reader / Android*
-* [CoolReader](https://apt.izzysoft.de/fdroid/index/apk/org.coolreader) - *Manager / Reader / Android* 
-* [BookReader](https://f-droid.org/en/packages/com.github.axet.bookreader/) - *Reader / Android* 
-* [PocketBook Reader](https://play.google.com/store/apps/details?id=com.obreey.reader) - *Manager / Reader / Android*
-* [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - *Manager / Reader / Android*
 * [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) - *PDF Reader / PC*
 * [qPDFview](https://launchpad.net/qpdfview) - *PDF Reader / PC*
 * [mupdf](https://mupdf.com/) - *PDF Reader / PC*
 * [XODO](https://www.xodo.com/) - *PDF Reader / PC / Android / iOS*
 * [gonitro](https://www.gonitro.com/pdf-reader) - *PDF Reader / PC*
-* [PDF Viewer](https://f-droid.org/packages/com.gsnathan.pdfviewer) - *PDF Reader / Android*
 * [PdfPreviewbot](https://t.me/PdfPreviewbot) - *Telegram PDF Reader*
-* [Readera](https://play.google.com/store/apps/details?id=org.readera) - *Manager / Reader / Android*
-* [Libera](http://librera.mobi/) - *Manager / Reader / Android*
 * [WinDjView](https://windjview.sourceforge.io/) - *DjVu Reader / PC*
 * [DjVuLibr](http://djvu.sourceforge.net/) - *DjVu Reader / PC*
 * [AnyfFip](https://anyflip.com/) - *Interactive Flipbook Reader* 
@@ -1129,6 +1119,8 @@
 * [Raven Reader](https://ravenreader.app/) - *Article Reader / Manager* 
 * [Cubari](https://cubari.moe/) - *Image Proxy / Reader*
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - *Read Books in Browser*
+* [Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading) Ebook Readers - *Mobile Browser Readers*
+
 
 ***
 
