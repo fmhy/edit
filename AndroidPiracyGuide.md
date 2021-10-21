@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/NPY04Tq.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/rmFqFQs.png)** - *For mobile users*
 
 ***
 ***
@@ -126,8 +126,6 @@
 * [PhoneSized](https://phonesized.com/) - *Phone Size Comparisons*
 * [Don’t kill my app!](https://dontkillmyapp.com/) - *Manufacturer Battery Life vs. App Functionality*
 * [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) - *Battery Health App*
-* [Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers) - *Ebook Readers* 
-* [Voice](https://f-droid.org/en/packages/de.ph1b.audiobook/), [Simple Audiobook Player](https://play.google.com/store/apps/details?id=mdmt.sabp.free), [Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) or [AudioAnchor](https://f-droid.org/en/packages/com.prangesoftwaresolutions.audioanchor/) - *Android Audiobook Player* 
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - *Note Taking Apps*
 * [Magisk](https://github.com/topjohnwu/Magisk/releases) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - *Android Root Tool / [Mods](https://t.me/magiskmod_update)*
 * [Android Tool](https://github.com/fast-geek/Android-Tool) - *ABD / Fastboot Command Program*
@@ -169,7 +167,6 @@
 * [bash2mp4](https://github.com/htr-tech/bash2mp4) - *Termux Video Downloader*
 * [Boost](https://forum.mobilism.org/search.php?keywords=boost+for+reddit&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [Joey](https://forum.mobilism.org/search.php?keywords=joey+for+reddit&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [BaconReader](http://baconreader.com/) or [Relay](https://relayforreddit.com/index.html) - *Reddit Client*
 * [Lemmur](https://github.com/krawieck/lemmur) - *Lemmy Client*
-* [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books*
 * [Uploadgram App](https://github.com/pato05/uploadgram-app) - *Uploadgram Frontend*
 * [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - *Modded Instagram Client / [Telegram](https://t.me/instander)*
 * [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) - *Feature-rich Facebook Client*
@@ -374,17 +371,32 @@ App Manager
 
 ***
 
-# ► Android Manga
+# ► Android Reading
 
-* **[Tachiyomi](https://tachiyomi.org/)** - *[Github Releases](https://github.com/tachiyomiorg/tachiyomi) / [Forks](https://tachiyomi.org/forks/#forks) / [Discord](https://discord.com/invite/tachiyomi)*
-* [MangaZone](http://mangazoneapp.com/) 
-* [MangaDLR](https://bitbucket.org/cylonu87/mangadlr/downloads/) 
-* [Kotatsu](https://github.com/nv95/Kotatsu)
-* [MiMangaNu](https://github.com/raulhaag/MiMangaNu) 
-* [Neko](https://github.com/CarlosEsco/Neko) 
-* [Meow](https://github.com/neverfelly/Meow) 
-* [TheComicsLibrary](https://github.com/FabioPezzini/TheComicsLibrary ) - *Comic &amp; Manga Library* 
+* **[Libera](http://librera.mobi/)**  - *Ebook Reader*
+* **[Tachiyomi](https://tachiyomi.org/)** - *Manga Reader*
+* Tachiyomi Tools - [Github Releases](https://github.com/tachiyomiorg/tachiyomi) / [Forks](https://tachiyomi.org/forks/#forks) / [Discord](https://discord.com/invite/tachiyomi) / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/)
+* [MoonDownload](http://www.moondownload.com/) - *Ebook Reader*
+* [CoolReader](https://apt.izzysoft.de/fdroid/index/apk/org.coolreader) - *Ebook Reader*
+* [BookReader](https://f-droid.org/en/packages/com.github.axet.bookreader/) - *Ebook Reader*
+* [PocketBook](https://play.google.com/store/apps/details?id=com.obreey.reader) - *Ebook Reader*
+* [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - *Ebook Reader*
+* [PDF Viewer](https://f-droid.org/packages/com.gsnathan.pdfviewer) - *PDF Reader*
+* [Readera](https://play.google.com/store/apps/details?id=org.readera) - *PDF Reader*
+* [Voice](https://f-droid.org/en/packages/de.ph1b.audiobook/) - *Audiobook Player* 
+* [Simple Audiobook Player](https://play.google.com/store/apps/details?id=mdmt.sabp.free) - *Audiobook Player* 
+* [Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) - *Audiobook Player*  
+* [AudioAnchor](https://f-droid.org/en/packages/com.prangesoftwaresolutions.audioanchor/) - *Audiobook Player* 
+* [MangaZone](http://mangazoneapp.com/) - *Manga Reader*
+* [MangaDLR](https://bitbucket.org/cylonu87/mangadlr/downloads/) - *Manga Reader*
+* [Kotatsu](https://github.com/nv95/Kotatsu) - *Manga Reader*
+* [MiMangaNu](https://github.com/raulhaag/MiMangaNu) - *Manga Reader*
+* [Neko](https://github.com/CarlosEsco/Neko) - *Manga Reader*
+* [Meow](https://github.com/neverfelly/Meow) - *Manga Reader*
+* [TheComicsLibrary](https://github.com/FabioPezzini/TheComicsLibrary) - *Comic & Manga Library* 
 * [Shosetsu](https://shosetsu.app/) - *Light Novels / [GitHub](https://github.com/ShosetsuOrg/android-app) / [Dev Builds](https://github.com/shosetsuorg/shosetsu-preview) / [Discord](https://discord.gg/ttSX7gB)* 
+* [LNReader](https://github.com/LNReader/lnreader) - *Light Novel Reader*
+* [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books*
 
 ***
 
@@ -623,7 +635,6 @@ RSS Player*
 * **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Mobile Wallpaper Sites & Apps*
 * [Waltr](https://softorino.com/waltr/) - *Convert Files to iOS Formats*
 * [Filza](http://cydia.saurik.com/package/com.tigisoftware.filza/) - *File Manager*
-* [Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers) - *Ebook Readers* 
 * [iEmulators](https://iemulators.com/) - *Emulator Apps*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
 * [Drafts](https://getdrafts.com/) or [Bear](https://apps.apple.com/us/app/bear/id1016366447) - *Note Taking App*
@@ -649,7 +660,6 @@ RSS Player*
 * [Color Widgets](https://apps.apple.com/us/app/color-widgets/id1531594277), [WidgetSmith](https://apps.apple.com/us/app/widgetsmith/id1523682319) or [widgetopia](https://apps.apple.com/us/app/widgetopia-widgets-weather/id1536432615) - *iOS Widgets*
 * [DownTube](https://github.com/MrAdamBoyd/DownTube) or [YouDown](https://apps.apple.com/sa/app/youdown/id1487658334) - *YouTube Downloader* 
 * [Noctis12](https://repo.packix.com/package/com.laughingquoll.noctis12/) - *iOS 12 Dark Mode*
-* [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books*
 * [GlobeConvert](https://apps.apple.com/us/app/globeconvert-currency-units/id334851202) - *Currency / Unit Converter*
 * [IRuin](https://iriun.com/) - *Use iOS Device as Webcam* 
 * [Measure](https://apps.apple.com/us/app/measure/id1383426740) - *Turn iPhone / iPad into Tape Measure*
@@ -823,8 +833,10 @@ RSS Player*
 
 ***
 
-# ► iOS Manga
+# ► iOS Reading 
 
-* [ZETSU](https://testflight.apple.com/join/emEhlNGn)
-* [Paperback](https://paperback.moe/) - *[Discord](https://discord.gg/Ny83JV3)*
-* [Manga Max](https://apps.apple.com/us/app/apple-store/id1558957618)
+* [ZETSU](https://testflight.apple.com/join/emEhlNGn) *Manga Reader*
+* [Paperback](https://paperback.moe/) - *Manga Reader / [Discord](https://discord.gg/Ny83JV3)*
+* [Manga Max](https://apps.apple.com/us/app/apple-store/id1558957618) - *Manga Reader*
+* [Manga Bird](https://apps.apple.com/us/app/manga-bird-best-manga-reader/id834760417) - *Manga Reader*
+* [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books*
