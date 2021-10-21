@@ -32,7 +32,7 @@
 * [wikit](https://github.com/KorySchneider/wikit) - *Wikipedia Summaries from CLI*
 * [Distrochooser](http://distrochooser.de/?l=2) - *Linux Distro Chooser*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old Linux Distro Archive*
-* [Linux x Technology](https://linuxdiscord.com/) or [Discord-Linux](https://discord.gg/discord-linux) - *Linux Chat Commonalities*
+* [Linux x Technology](https://linuxdiscord.com/) or [Discord-Linux](https://discord.gg/discord-linux) - *Linux Chat Communities*
 * [Discover](https://github.com/trigg/Discover) - *Discord Linux Overlay*
 * [Tunic](https://github.com/mikeslattery/tunic) - *Install Linux Over or Alongside Windows*
 * [Darling](https://www.darlinghq.org/) - *Run MacOS Programs on Linux*
@@ -52,6 +52,7 @@
 * [ricemood](https://github.com/fhadiel/ricemood) - *Fully Customizable Unix Color Schemer*
 * [HydraPaper](https://hydrapaper.gabmus.org/) - *Linux Wallpaper Manager*
 * [Polychromatic](https://polychromatic.app/) - *Linux System Light Control*
+* [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) - *Noise Cancellation Software*
 * [Luakit](https://luakit.github.io/) - *Lightweight Linux Browser* 
 * [Librewolf Linux](https://librewolf-community.gitlab.io/) or [Dot Browser](https://github.com/dothq/browser) - *Privacy-Based Browser*
 * [Curlew](https://curlew.sourceforge.io/) - *Linux File Converter*
@@ -78,7 +79,7 @@
 * [winapps](https://github.com/Fmstrat/winapps), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - *Run Windows Apps in Linux* 
 * [Ulauncher](https://ulauncher.io/) - *Application Launcher*
 * [Client Evolution](https://help.gnome.org/users/evolution/stable/) - *Calendar / Mail*
-* [aerc](https://aerc-mail.org/) - *CLI based Email Client*
+* [aerc](https://aerc-mail.org/) or [Alpine](http://alpine.x10host.com/) - *Email Client*
 * [KTouch](https://apps.kde.org/en/ktouch) - *Typing Practice*
 * [wslu](https://github.com/wslutilities/wslu) - *Utilities for Windows 10 Linux Subsystem* 
 * [Tree](http://mama.indstate.edu/users/ice/tree/) - *Directory Listing Command* 
@@ -131,7 +132,9 @@
 
 # ► Linux Gaming
 
+* **[Torrminatorr](https://forum.torrminatorr.com/)** - *Linux Games*
 * [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/wiki/) - *Wiki for Linux Gaming*
+* [SCNLOG](https://scnlog.me/) - *Linux Games*
 * [de.linuxgame.cn](https://de.linuxgame.cn/) - *Linux Games* 
 * [The KDE Games Center](https://games.kde.org/) - *Linux Games*
 * [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - *Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
@@ -231,6 +234,8 @@
 
 # ► Mac Gaming
 
+* [Torrminatorr](https://forum.torrminatorr.com/) 
+* [SCNLOG](https://scnlog.me/) 
 * [Macgamefiles](http://www.macgamefiles.com/)
 * [NXMac](https://nxmac.com/) 
 * [Mac-Torrents.io](https://mac-torrents.io/) 
