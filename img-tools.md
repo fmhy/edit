@@ -47,6 +47,7 @@
 * [Supershots](https://superblog.ai/supershots/) - *Add Backgrounds to Images*
 * [Remove.bg](https://www.remove.bg/), [Remove Background](https://pixlr.com/remove-background/), [Rembg](https://github.com/danielgatis/rembg), [Removal.ai](https://removal.ai/upload/) or [Background Burner](https://burner.bonanza.com/) - *Remove Background / [Gimp Plugin](https://github.com/manu12121999/RemoveBG-GIMP) unlimited accounts w/ [Temp Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)*
 * [PFP.LGBT](https://pfp.lgbt/) - *LGBTQ+fy Images*
+* [ImageRemix](http://www.oyonale.com/imagemix.php) - *Image Remixer*
 * [Image Splitter](https://ruyili.ca/image-splitter/), [2](http://www.htmlkit.com/services/is/) - *Split Images into Tiles*
 * [Needs More JPEG](http://needsmorejpeg.com/) - *Blur / Pixelize Images* 
 * [PicFont](https://picfont.com/) - *Add Text to Images*
@@ -232,9 +233,8 @@
 * [CC0 Textures](https://cc0textures.com/) - *Textures for 3D Models* 
 * [Generated Photos](https://generated.photos/) - *AI Generated Model Photos*
 * [Blender](https://www.blender.org/) - *Open Source 3D Modeler / 2D Animation / Video Editor*
-* [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [PovRay](http://www.povray.org/), [Vectary](https://www.vectary.com/) or [Art of Illusion](http://aoi.sourceforge.net/) - *3D Modeling / Art Design Tool*
+* [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketch.Me](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [PovRay](http://www.povray.org/), [Vectary](https://www.vectary.com/) or [Art of Illusion](http://aoi.sourceforge.net/) - *3D Modeling / Art Design Tool*
 * [MakeHuman](http://www.makehumancommunity.org/) - *3D Humanoid Modeler*
-* [JustSketch.Me](https://justsketch.me/) - *3D Modeling Tool*
 * [FaceMaker](http://facemaker.uvrg.org/) - *Face / Avatar Generator* 
 * [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - *AI Art Generation Guide*
 * [FreeCAD](https://www.freecadweb.org/) - *3D Parametric Modeler*
