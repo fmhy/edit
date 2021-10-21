@@ -63,6 +63,7 @@
 * [Acme](http://www.acme.com/) - *Site / Tool Index* 
 * [num's link list](https://web.archive.org/web/20210102182957/https://soda.privatevoid.net/num/lists/web/) - *Site Index*
 * [NYPL Best of the Web](https://www.nypl.org/collections/nypl-recommendations/best-of-web) - *Site Index*
+* [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - *Public Domain Resource Index Awesome*
 * [LinkLonk](https://linklonk.com/) - *Link Aggregator & Voting*
 * [Simple Tools](https://simpletools.info/doku.php) - *Simple Programs Index* 
 * [Internet Curated](https://internetcurated.com/) - *Directory Index*
@@ -518,6 +519,10 @@
 * [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) - *Exercise & Activity Tracker*
 * [ExRx.net](https://exrx.net/) - *Exercise Resources*
 * [Cronometer](https://cronometer.com/) - *Track Nutrition & Calories*
+* [FoodStruct](https://foodstruct.com/) - *Food Nutrition Search*
+* [Awesome Nutrition Calculator](https://github.com/RolandKawka/awesome-nutrition-calculator) - *Nutrition Calculator*
+* [Soosee](https://play.google.com/store/apps/details?id=com.goodsnooze.soosee) - *Food Nutrition Scanner*
+* [wger](https://wger.de/) - *Self-Hosted Workout, Nutrition & Weight App / [GitHub](https://github.com/wger-project/wger)*
 * [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - *Daily Diet Recommendations / Android*
 * [EatThisMuch](https://www.eatthismuch.com/), [FitMenCook](https://fitmencook.com/) or [MealPrePro](https://mealpreppro.com/) - *Diet Tool / iOS / Android* 
 * [Examine.com](https://examine.com/) - *Supplement & Nutrition Analysis*
@@ -534,9 +539,6 @@
 * [My Pacer](https://www.mypacer.com/) - *Fitness App / Pedometer*
 * [MyFitnessPal](https://www.myfitnesspal.com/) - *Fitness / Health App*
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack) - *Fitness Tracker*
-* [Awesome Nutrition Calculator](https://github.com/RolandKawka/awesome-nutrition-calculator) - *Nutrition Calculator*
-* [Soosee](https://play.google.com/store/apps/details?id=com.goodsnooze.soosee) - *Food Nutrition Scanner*
-* [wger](https://wger.de/) - *Self-Hosted Workout, Nutrition & Weight App / [GitHub](https://github.com/wger-project/wger)*
 * [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
 * [SPSS Tutorials ](https://www.spss-tutorials.com/) - *SPSS Practice & Examples*
 * [Fitocracy](https://www.fitocracy.com/) or [Timely-Fitness](https://github.com/Argentable/Timely-Fitness) - *Create Workout Plans*
@@ -669,6 +671,7 @@
 * [Scanlation School Drive](https://drive.google.com/drive/folders/1hPV4o8fmxY2Ab9tXi84l0vVOUQEgFIbU) - *Comic Fonts*
 * [Make WordArt](https://www.makewordart.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - *WordArt Generator*
 * [Codeface](https://github.com/chrissimpkins/codeface) - *Fonts for Coding* 
+* [Metropolis](https://github.com/dw5/Metropolis) - *Modern Typeface*
 * [FiraCode](https://github.com/tonsky/FiraCode) - *Monospace Fonts* 
 * [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](http://arcade.photonstorm.com/) - *Arcade Font Engine*
 * [Glitch](https://glitchtextgenerator.com/) - *Glitch Text Generator*
