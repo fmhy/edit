@@ -281,7 +281,7 @@
 * [Derivative Calculator](https://www.derivative-calculator.net/) - *Derivative Calculator*
 * [Integral Calculator](https://www.integral-calculator.com/) - *Integral Calculator*
 * [Desmos](https://www.desmos.com/) - *Graphing Calculator* 
-* [fxSolver](https://www.fxsolver.com/) - *Engineering & Scientific Calculator*
+* [fxSolver](https://www.fxsolver.com/) or [The Engineering ToolBox](https://www.engineeringtoolbox.com/) - *Engineering & Scientific Calculator*
 * [FreeFEM](https://freefem.org/) - *Partial Differential Equations Solver*
 * [Online Math Tools](https://onlinemathtools.com/) - *Multiple Math Tools*
 * [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
@@ -309,6 +309,7 @@
 * [Space Dashboard](https://spacedashboard.com/) - *Space Live Stream Dashboard* 
 * [EarthData](https://worldview.earthdata.nasa.gov/) - *Daily Satellite Replays*
 * [ISS Sim](https://iss-sim.spacex.com/) - *ISS Docking Simulator* 
+* [SpaceX Media 2015](http://web.archive.org/web/20150328140645/http://www.spacex.com/media) / [2019](http://web.archive.org/web/20191122175115/https://www.spacex.com/media) - *SpaceX Media Archive*
 * [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/) - *Satellite Imagery*
 * [Sentinel Hub](https://www.sentinel-hub.com/) - *Satellite Imagery API*
 * [Open Access Hub](https://scihub.copernicus.eu/) - *Copernicus Satellite Data Copernicus*
@@ -577,7 +578,7 @@
 * [YourBiasIs](https://yourbias.is/) - *Learn about Biases* 
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - *Learn to Tie Knots* 
 * [Pol Art Folder](https://mega.nz/folder/rVcExIbB#VN9alzay0OrctggvEn1DUg) - *Historic European Art & Paintings*
-* [vads](https://vads.ac.uk/digital/) or [WikiArt](https://www.wikiart.org/) - *Digital Art Collection*
+* [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio) or [WikiArt](https://www.wikiart.org/) - *Digital Art Collection*
 * [Metabolic-Pathway](http://www.metabolic-pathway.com/fullMap.html) - *Interactive Metabolic Pathways Map* 
 * [AnimaGraffs](https://animagraffs.com/) - *Animated Infographs*
 * [How a Car Works](https://www.howacarworks.com/) - *Car Mechanics / Automotive Engineering Guides* 
