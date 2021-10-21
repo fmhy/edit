@@ -365,7 +365,7 @@
 * [VocalRemover](http://vocalremover.org/) / [GUI](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [AIVocalRemover](https://aivocalremover.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb) or [Remove Vocals](https://www.remove-vocals.com/) - *Remove / Isolate Vocal Tracks*
 * [Acapella-Extractor](https://www.acapella-extractor.com/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - *Remove Background Tracks from Songs*
 * [VoiceFX](https://blog.xaymar.com/projects/voicefx/) - *Remove Background Noise from Voice Recordings*
-* [Krisp](https://krisp.ai/) - *Noise Cancellation Software*
+* [Krisp](https://krisp.ai/) - *Noise Cancellation Software / [Linux](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice)
 * [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - *Voice Audio Mixer*
 * [Voice Changer](https://voicechanger.io/) - *Online Voice Changer*
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) - *Clone Human Voices*
@@ -652,6 +652,7 @@ General Reading Sites*
 * [sitedorks](https://github.com/Zarcolio/sitedorks) - *Search Dorks*
 * [Cyber](https://cyber.page/) - *Hash Search Engine* 
 * [Proisk](https://proisk.com/) - *FTP Search Engine*
+* [Matrix](https://matrix.itasoftware.com/) - *Airfare Search*
 * [Hunter.io](https://hunter.io/) - *Business Email Address Search*
 * [ImportYeti](https://www.importyeti.com/) - *Search U.S. Customs Shipment Records* 
 * [VK Watch](https://vk.watch/) - *VK Profile Search*
@@ -700,8 +701,8 @@ General Reading Sites*
 * [Fuselink](https://www.fuselink.co/) - *Merge Multiple Links* 
 * [Open Bulk URL](https://openbulkurl.com/) - *URL Bulk Opener*
 * [CheckServer](https://check-host.net/), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - *Site Monitoring Tools*
-* [CrowdTangle ](https://apps.crowdtangle.com/chrome-extension) - *Check Where Links Have Been Shared*
-* [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/) - *Domain Information CLI Tool*
+* [CrowdTangle](https://apps.crowdtangle.com/chrome-extension) - *Check Where Links Have Been Shared*
+* [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/) or [BillCipher](https://github.com/84KaliPleXon3/BillCipher) - *Domain Info Lookup Tool*
 * [Redirect Detective](https://redirectdetective.com/) - *URL Redirect Checker* 
 * [Dereferer](https://dereferer.me/) - *Derefer / Anonymize Links*
 * [Link-Lock](https://rekulous.github.io/link-lock/) - *Encrypt & Decrypt Links with Passwords*
