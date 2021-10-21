@@ -122,6 +122,7 @@
 * [Worldwide Radio](http://forums.mozillazine.org/viewtopic.php?t=3039738) - *Radio Extension* 
 * [castero](https://github.com/xgi/castero) - *TUI Terminal Podcast Client*
 * [Get MyPodcasts](https://www.microsoft.com/en-us/p/mypodcasts/9nv15nfrn50l1) - *Podcast Player*
+* [Spotify Podcast Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders) - *Download Podcasts from Spotify*
 * [ListenLater](https://www.listenlater.fm/) - *Turn Articles into Podcasts* 
 * [ListenBox](https://listenbox.app/) - *Turn YouTube Video into Podcasts*
 
