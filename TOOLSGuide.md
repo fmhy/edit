@@ -1038,12 +1038,6 @@ General Reading Sites*
 * [Twitonomy](https://www.twitonomy.com/) or [Affinitweet](https://affinitweet.com/) - *Twitter Dashboard / Analytics* 
 * [TweetDeck](https://tweetdeck.twitter.com/) or [Tweeten](https://tweetenapp.com/) - *Twitter Dashboard*
 * [TweetDuck](https://github.com/chylex/TweetDuck) - *Twitter Desktop Client*
-* [SlimTwitter](https://f-droid.org/en/packages/it.rignanese.leo.slimtwitter/) - *Twitter Android Webwrapper*
-* [Shitter](https://github.com/nuclearfog/Shitter) - *Lightweight Twitter Android App*
-* [Fritter](https://fritter.cc/) - *Privacy Based Twitter Android App*
-* [Twidere](https://github.com/TwidereProject/Twidere-Android) - *Ad-Free Twitter Android App*
-* [Tweebot 6](https://apps.apple.com/us/app/tweetbot-6-for-twitter/id1527500834) - *Ad-Free Twitter iOS App*
-* [Twitter++](https://iosninja.io/ipa-library/download-twitter-plus-plus-ipa-ios) - *Tweaked Twitter iOS App*
 * [BackTweets](http://backtweets.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - *Search Twitter* 
 * [Twishort](https://twishort.com/) - *Make Longer Tweets*
 * [Poet.so](https://poet.so/) - *Create Twitter Post Images*
