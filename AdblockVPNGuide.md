@@ -209,6 +209,7 @@
 * [DeepPrivacy](https://github.com/hukkelas/) - *A Generative Adversarial Network for Face Anonymization*
 * [image-scrubber](https://github.com/everestpipkin/image-scrubber) - *Anonymize Protest Photos*
 * [Mobile Verification Toolkit](https://github.com/mvt-project/mvt) - *Test for Potential Compromises on Android / iOS*
+* [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) - *Vehicle Security Resources Index*
 
 ***
 
