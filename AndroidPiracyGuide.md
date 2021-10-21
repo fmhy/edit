@@ -136,6 +136,7 @@
 * [FDE.AI](https://github.com/feravolt/FDE.AI-docs) - *Android Performance Enhancements*
 * [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - *Android Debloating Guide*
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - *Android Cleanup Tool*
+* [Water Resistance Tester](https://play.google.com/store/apps/details?id=com.ray.waterresistancetester) - *Test Phones Water Resistance*
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - *Ringtones Directory*
 * [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) - *App Themed Icons*
 * [VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps) - *File / URL Virus Scanner* 
