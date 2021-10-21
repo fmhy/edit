@@ -965,6 +965,7 @@
 * [MangaOn](https://mangaon.site/) - *Manga*
 * [MuitoManga](https://muitomanga.com/) - *Manga*
 * [TsukiMangas](https://www.tsukimangas.com/) - *Manga*
+* [MangaLivre](https://mangalivre.net/) - *Manga*
 * [Global.Toomics](https://global.toomics.com/br) - *Manga*
 * [instintomangaka](https://www.instintomangaka.com/baixar-mangas/ ) - *Manga*
 * [WDL PT](https://www.wdl.org/pt/) - *Historical Document & Images*
