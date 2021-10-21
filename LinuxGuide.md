@@ -34,6 +34,7 @@
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old Linux Distro Archive*
 * [Linux x Technology](https://linuxdiscord.com/) or [Discord-Linux](https://discord.gg/discord-linux) - *Linux Chat Communities*
 * [Discover](https://github.com/trigg/Discover) - *Discord Linux Overlay*
+* [Fix Guild Lag](https://wiki.archlinux.org/title/Discord#Lagging_when_scrolling_through_your_guilds) - *Fix lag when scrolling through guilds in Linux*
 * [Tunic](https://github.com/mikeslattery/tunic) - *Install Linux Over or Alongside Windows*
 * [Darling](https://www.darlinghq.org/) - *Run MacOS Programs on Linux*
 * [InstantBox](https://github.com/instantbox/instantbox) - *Temporary Linux Systems*
