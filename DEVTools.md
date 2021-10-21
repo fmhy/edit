@@ -36,6 +36,7 @@
 * [explainshell.com](https://explainshell.com/) - *Match Command-Line Arguments to Help Text*
 * [Programiz](https://www.programiz.com/) - *Programming / Coding Tutorials*
 * [GeeksforGeeks](https://www.geeksforgeeks.org/) - *Programming / Coding Tutorials*
+* [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - *Coding Learning Resources*
 * [30 Seconds of Code](https://www.30secondsofcode.org/) - *Coding Snippets / Guides* 
 * [Tuts 4 You](https://forum.tuts4you.com/) - *Coding / Developer Tutorials*
 * [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/) - *Cheat Sheets / Programming / Frameworks / Dev Tools*
@@ -121,6 +122,7 @@
 * [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - *README Template* 
 * [codex-readme](https://github.com/tom-doerr/codex-readme) - *Generate README with AI*
 * [ChooseALicense](https://choosealicense.com/) - *List of Open Source License's & Help Choosing Them* 
+* [MKLicense](https://github.com/cezaraugusto/mklicense) - *License Generation CLI*
 * [Console](https://console.substack.com/) - *Subscribe to a List of Open Source Projects*
 * [RapidAPI](https://rapidapi.com/) - *API Platform*
 * [Pipedream](https://pipedream.com/) - *Connect APIs / [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)*
@@ -182,6 +184,7 @@
 * [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - *Webpage Editor* 
 * [Plunker](https://plnkr.co/) - *Prototype / Test Websites Ideas*
 * [Temper](https://temper.one/) - *Simple HTML Site Creator*
+* [Brython](https://brython.info/) - *Python 3 Web Scripting Language*
 * [Jamstack Generators](https://jamstack.org/generators/) - *Static Site Generators*
 * [Sketch2Code](https://sketch2code.azurewebsites.net/) - *Convert Hand-Drawn Designs into HTML*
 * [Straw.Page](https://straw.page/) - *Simple Site Creator*
@@ -264,7 +267,7 @@
 * [Read the Docs](https://readthedocs.org/) - *Make Documentation for your Software*
 * [Inno Setup](https://jrsoftware.org/isinfo.php) - *Windows Program Installer*
 * [Flatpak](https://flatpak.org/) - *Create & Distribute Linux Applications*
-* [WTFPL](http://www.wtfpl.net/) - *Free Software Licenses*
+* [WTFPL](http://www.wtfpl.net/) or [GPL](http://giant-penis-license.org/) - *Free Software Licenses*
 
 ***
 
@@ -383,6 +386,7 @@
 * [Gidget](https://github.com/GDGVIT/gidget) - *Pull Request Notifier / Android*
 * [Whats New GitHub](https://github.com/flawyte/whats-new-github) - *Repository Change Feed* 
 * [ReadmeGallery](http://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/) - *GitHub Remdme Gallery Creator*
+* [readme.so](https://readme.so/) - *Readme Markdown Editor*
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - *Dynamically Generated GitHub Readme Stats* 
 * [Shields.io](https://shields.io/) - *Metadata badges for Github Readmes*
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - *Enable Snake Game on GitHub ReadMe*
@@ -436,7 +440,7 @@
 * [Regex101](https://regex101.com/) - *Regex Editor / Debugger* 
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - *Creative Coding Resource Index* 
 * [Algorithm Visualizer](https://algorithm-visualizer.org/) - *Visualize Code Algorithms* 
-* [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/), [Lite XL](https://lite-xl.github.io/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [Notepad2](https://www.flos-freeware.ch/notepad2.html) or [Light Table](http://lighttable.com/) - *Code Editor* 
+* [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/), [Lite XL](https://lite-xl.github.io/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [Notepad2](https://www.flos-freeware.ch/notepad2.html) or [Light Table](http://lighttable.com/) - *Code Editor* 
 * [Telosys](http://www.telosys.org/) - *Code Generator*
 * [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - *Emacs Packages*
 * [WebDen](https://webden.dev/) - *Code Playground*
