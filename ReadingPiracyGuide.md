@@ -63,7 +63,8 @@
 * **[Telegram E-Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - *Telegram E-Book Channels*
 * **[Mobile Read](https://www.mobileread.com/)** - *E-Book / Reader Discussion Forum*
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - *Books*
-* [IRC E-Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - *Download EBooks from IRC / [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) / [Downloader](https://github.com/aghayes/rusty_book_pirate/)*
+* [IRC Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - *Download Ebooks from IRC*
+* IRC Ebook Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
 * [Project Gutenberg](https://www.gutenberg.org/) - *Historical / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)*
 * [Archive.org](https://archive.org/details/texts) - *Books / Audiobooks / Magazines / Newspapers / [Borrow Only Bypass](https://i.imgur.com/y7Vl9rd.png)*
 * [The Library](https://discord.gg/mSyFJz9) or [The Great E-Library](https://discord.gg/efBxSuz) - *E-Book Discord Servers* 
@@ -799,6 +800,7 @@
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - *Weekly Downloads*
 * [BookDL Comic & Manga](http://booksdl.org/comics0/) - *Comics / Manga / Drive*
 * [The-Eye Comics](http://the-eye.eu/public/Comics/) - *Comic Archive* 
+* [ComicBookPlus](https://comicbookplus.com/) - *Classic Comics*
 * [GoComics](https://www.gocomics.com/) - *Comics Strips*
 * [Zahard](https://zahard.top/) - *WebToons*
 * [Random Comic Generator 3.0](https://explosm.net/rcg) - *Explosm Random Comic Generator*
