@@ -365,7 +365,7 @@
 * [VocalRemover](http://vocalremover.org/) / [GUI](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [AIVocalRemover](https://aivocalremover.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb) or [Remove Vocals](https://www.remove-vocals.com/) - *Remove / Isolate Vocal Tracks*
 * [Acapella-Extractor](https://www.acapella-extractor.com/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - *Remove Background Tracks from Songs*
 * [VoiceFX](https://blog.xaymar.com/projects/voicefx/) - *Remove Background Noise from Voice Recordings*
-* [Krisp](https://krisp.ai/) - *Noise Cancellation Software / [Linux](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice)
+* [Krisp](https://krisp.ai/) - *Noise Cancellation Software*
 * [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - *Voice Audio Mixer*
 * [Voice Changer](https://voicechanger.io/) - *Online Voice Changer*
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) - *Clone Human Voices*
