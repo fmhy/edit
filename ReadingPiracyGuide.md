@@ -228,6 +228,7 @@
 * [byGosh](https://bygosh.com) 
 * [Baldwin Library](https://ufdc.ufl.edu/juv) - *Historical Children’s Literature*
 * [Borrowing Picture Books](https://redd.it/fm1xpw) - *Save Borrowed Picture Books from Archive.org*
+* [BookDash](https://github.com/bookdash/bookdash-android-app) - *Children's Book App*
 
 ***
 
@@ -920,6 +921,7 @@
 * [AllMangasReader](http://allmangasreader.com/), [OpenComic](https://github.com/ollm/OpenComic) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - *Manager / Reader*
 * [Tachiyomi](https://github.com/Suwayomi)  - *Manga / Comic Reader / [Web Client](https://github.com/TachiWeb) / [Discord](https://discord.com/invite/tachiyomi)* 
 * [CrossFace](https://crossface.cf/manga-reader/) - *Browser Comic / Manga Reader*
+* [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom) - *Manga Downloader*
 * [manga-py](https://github.com/manga-py/manga-py) - *Python Line Manga Downloader* 
 * [MangaUpdates](https://www.mangaupdates.com/) - *Manga Release Updates*  
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
