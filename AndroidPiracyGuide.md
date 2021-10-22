@@ -190,11 +190,13 @@
 * [FluffyChat](https://fluffychat.im/en/) - *Matrix Client*
 * [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Husky](https://git.mentality.rip/FWGS/Husky) or [Tusky](https://tusky.app/) - *Mastodon Client* 
 * [Blabber.im](https://f-droid.org/packages/de.pixart.messenger) - *XMPP / Jabber Messenger*
+* [IRCCloud](https://github.com/irccloud/android) - *IRC Client*
 * [TextFree](https://www.textfree.us/) - *Free Texting App*
 * [Kubool](https://www.gdpd.xyz/) - *Anonymous Confession App*
 * [OpenInWA](https://github.com/SubhamTyagi/openinwa) - *Number Free WhatsApp Chat*
 * [Watomatic](https://f-droid.org/packages/com.parishod.watomatic) - *WhatsApp & FB Messenger Auto Reply*
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - *Article / Link Viewer*
+* [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - *Track Github User Activity*
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - *Easily Open Links in Text via Share Function*
 * [Ponydroid](https://forum.mobilism.org/search.php?keywords=ponydroid&amp;sr=topics&amp;sf=titleonly) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - *Download File Manager / [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)*
 * [File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools) - *Tools to Share / Sync Files*
