@@ -82,7 +82,7 @@
 * [winapps](https://github.com/Fmstrat/winapps), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - *Run Windows Apps in Linux* 
 * [Ulauncher](https://ulauncher.io/) - *Application Launcher*
 * [Client Evolution](https://help.gnome.org/users/evolution/stable/) - *Calendar / Mail*
-* [aerc](https://aerc-mail.org/) or [Alpine](http://alpine.x10host.com/) - *Email Client*
+* [aerc](https://aerc-mail.org/), [ElectronMail](https://github.com/vladimiry/ElectronMail) or [Alpine](http://alpine.x10host.com/) - *Email Client*
 * [KTouch](https://apps.kde.org/en/ktouch) - *Typing Practice*
 * [wslu](https://github.com/wslutilities/wslu) - *Utilities for Windows 10 Linux Subsystem* 
 * [Tree](http://mama.indstate.edu/users/ice/tree/) - *Directory Listing Command* 
@@ -169,6 +169,7 @@
 * [alt-tab-macos](https://alt-tab-macos.netlify.app/) - *Alt-Tab for Mac*
 * [Aptonic](https://aptonic.com/) - *Mac Productivity App*
 * [Drafts](https://getdrafts.com/) - *Text Editor*
+* [ElectronMail](https://github.com/vladimiry/ElectronMail) - *Email Client*
 * [Microsoft Mac Downloads](https://macadmins.software/) - *Microsoft Office for Mac*
 * [Winfield](http://www.winfield.demon.nl/) - *MS Word for Linux / OS X* 
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - *Connect Mac Keyboard to Mobile Devices*
