@@ -32,6 +32,7 @@
 
 # ► Android Privacy
 
+* **[android-security-awesome](https://github.com/ashishb/android-security-awesome)** - *Android Security Resources* 
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Browsers with a focus on Privacy* 
 * [Guardian Project](https://guardianproject.info/) / [2](https://guardianproject.info/fdroid/repo), [Divestos Apps](https://divestos.org/index.php?page=recommended_apps), [CookieJarApps](https://cookiejarapps.com/) or [InviZible](https://github.com/Gedsh/InviZible) - *Privacy Based Apps / Tools* 
 * [SelfPrivacy](https://selfprivacy.org/) - *Self-Hosted Privacy Based Services*
@@ -42,10 +43,11 @@
 * [Stealth](https://gitlab.com/cosmosapps/stealth) - *Privacy-Based Reddit Frontend*
 * [XPrivacyLua](https://github.com/M66B/XPrivacyLua/) or [Xumi](https://xumi.ca/xumi-security/) - *Privacy Manager* 
 * [AppWarden](https://gitlab.com/AuroraOSS/AppWarden) or [TrackerControl](https://trackercontrol.org/) - *Disable App Trackers*  
-* [Exodus](https://reports.exodus-privacy.eu.org/en/) - *Android App Tracker &amp; Permission Index / [APK](https://github.com/Exodus-Privacy/exodus-android-app)*  
+* [Exodus](https://reports.exodus-privacy.eu.org/en/) - *Android App Tracker & Permission Index / [APK](https://github.com/Exodus-Privacy/exodus-android-app)*  
 * [TrackerControl](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) - *Manage / Monitor Trackers*
 * [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard) - *Android 12-like Privacy Dashboard / [GitHub](https://github.com/RushikeshKamewar/PrivacyDashboard)*
 * [NetGuard](https://www.netguard.me/) - *Block Internet Access Per App* 
+* [Fake Contacts](https://github.com/BillDietrich/fake_contacts) - *Generate Fake Contacts*
 * [leon](https://github.com/svenjacobs/leon) - *Remove URL Tracking Parameters*
 * [MaxLock](https://github.com/Maxr1998/MaxLock) - *Lock Apps Behind Passwords*
 * [AFWall+](https://github.com/ukanth/afwall/) or [NoRoot Firewall](https://play.google.com/store/apps/details?id=app.greyshirts.firewall) - *Firewall* 
@@ -64,7 +66,7 @@
 * [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html) or [Hotspot Shield++](https://repo.hackyouriphone.org/hotspotshieldpp) - *VPN*
 * [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) - *Proxy*
 * [Sagernet](https://sagernet.org/) - *Proxy Tools*
-* [Privacy Indicator](https://f-droid.org/packages/com.nitish.privacyindicator/), [2](https://play.google.com/store/apps/details?id=com.nitish.privacyindicator) or [Access Dots](https://play.google.com/store/apps/details?id=you.in.spark.access.dots) - *Camera / Mic Access Indicator* 
+* [Privacy Indicator](https://f-droid.org/packages/com.nitish.privacyindicator/), [2](https://play.google.com/store/apps/details?id=com.nitish.privacyindicator), [Vigilante](https://f-droid.org/en/packages/com.crazylegend.vigilante/) or [Access Dots](https://play.google.com/store/apps/details?id=you.in.spark.access.dots) - *Camera / Mic Access Indicator* 
 * [CamWings](https://schiffer.tech/camwings-mobile.html) - *Camera Protection* 
 * [PubPhoto](https://github.com/stuartlangridge/pubphoto) - *Share Photos without Sharing Number*
 * [ScreenWings](https://schiffer.tech/screenwings-mobile.html) - *Screen Protection* 
@@ -76,7 +78,7 @@
 * [DPITunnel](https://github.com/zhenyolka/DPITunnel) - *Bypass Deep Packet Inspection* 
 * [adb-clear-packages](https://gist.github.com/noseratio/e3b136401965289c4aab40fa60f3be41) - *Clear Android Packages Data*
 * [Greentooth](https://f-droid.org/en/packages/com.smilla.greentooth/) - *Automatic Bluetooth Disabler* 
-* [Private Lock](https://f-droid.org/en/packages/com.wesaphzt.privatelock/) - *Lock your Phone via Movement* 
+* [Private Lock](https://f-droid.org/en/packages/com.wesaphzt.privatelock/) or [WTMP](https://play.google.com/store/apps/details?id=com.wtmp.svdsoftware) - *Detect When Your Phone is Touched* 
 * [SpoofCard](https://www.spoofcard.com/) - *Disguise Caller ID*
 * [Catch the Man-in-the-Middle](https://play.google.com/store/apps/details?id=me.brax.certchecker) - *Check if HTTPS Traffic is being Monitored* 
 * [JustUseApp](https://justuseapp.com/) - *Hide App Payments*
@@ -111,9 +113,9 @@
 
 # ► Android Tools
 
-* **[Aliucord](https://github.com/Aliucord/Aliucord)** - *Modded Discord Client* 
-* **[android-security-awesome](https://github.com/ashishb/android-security-awesome)** - *Android Security Resources* 
+* **[Custom Android Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_operating_systems)**
 * **[Browsers Wiki](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers), [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi](https://kiwibrowser.com/), [Via](https://play.google.com/store/apps/details?id=mark.via.gp), [Lynket](https://github.com/arunkumar9t2/lynket-browser) or [Lightning](https://github.com/anthonycr/Lightning-Browser) - *Android Web Browsers* 
+* **[Aliucord](https://github.com/Aliucord/Aliucord)** - *Modded Discord Client* 
 * **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Mobile Wallpaper Sites & Apps*
 * [XDA](https://forum.xda-developers.com/) - *Android Discussion Forum*
 * [Will My Phone Work?](https://willmyphonework.net/) or [FrequencyCheck](https://www.frequencycheck.com/) - *Phone Carrier Support Index* 
@@ -127,7 +129,7 @@
 * [Don’t kill my app!](https://dontkillmyapp.com/) - *Manufacturer Battery Life vs. App Functionality*
 * [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) - *Battery Health App*
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - *Note Taking Apps*
-* [Magisk](https://github.com/topjohnwu/Magisk/releases) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - *Android Root Tool / [Mods](https://t.me/magiskmod_update)*
+* [Magisk](https://magiskmanager.com/) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - *Android Root Tool / [Mods](https://t.me/magiskmod_update) / [GitHub](https://github.com/topjohnwu/Magisk/releases)*
 * [Android Tool](https://github.com/fast-geek/Android-Tool) - *ABD / Fastboot Command Program*
 * [Amazing Temp Root](https://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - *MediaTek Temp Root*
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) - *Debloat non-rooted Androids*
@@ -136,6 +138,7 @@
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - *Android Cleanup Tool*
 * [Water Resistance Tester](https://play.google.com/store/apps/details?id=com.ray.waterresistancetester) - *Test Phones Water Resistance*
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - *Ringtones Directory*
+* [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) - *Theme Manager / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3)*
 * [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) - *App Themed Icons*
 * [VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps) - *File / URL Virus Scanner* 
 * [InstantBridge](https://instabridge.com/) - *Public WiFi Sharing Community*
@@ -146,6 +149,7 @@
 * [Grammarly](https://forum.mobilism.org/search.php?keywords=grammarly&sr=topics&sf=titleonly) - *Grammarly Keyboard Premium* 
 * [Fing](https://www.fing.com/products/fing-app) - *Network Toolkit* 
 * [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage) - *Disk Usage Analyzer*
+* [Caffeine](https://lab.zhs.moe/caffeine/) - *Keep Screen On*
 * [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - *Text Font Generator*
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) or [SimplyTranslate Flutter](https://github.com/ManeraKai/simplytranslate-flutter-client) - *Translator*
 * [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) - *Custom Notifications*
@@ -198,7 +202,6 @@
 * [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://forum.mobilism.org/search.php?keywords=solid+explorer&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) or [IrkFM](https://github.com/lfuelling/lrkFM) - *File Manager*
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - *Download / Torrent Manager* 
 * [Vysor](https://www.vysor.io/) or [scrcpy](https://github.com/Genymobile/scrcpy) - *Control Android via Desktop*
-* [LineageOS](https://www.lineageos.org/) or [Replicant](https://www.replicant.us/) - *Android OS*
 * [FAST](https://play.google.com/store/apps/details?id=com.netflix.Speedtest), [Meteor](https://play.google.com/store/apps/details?id=meteor.test.and.grade.internet.connection.speed) or [FCC Speed Test](https://play.google.com/store/apps/details?id=com.samknows.fcc&hl=en_US&gl=US) - *Internet Speed Test*
 * [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - *Use Google Cam Without Google Play* 
 * [RClone](https://github.com/x0b/rcx) - *Multi-Site Cloud Storage File Manager*
@@ -229,6 +232,7 @@ App Manager
 * [Language Drops](https://languagedrops.com/) or [10,000 Sentences](https://github.com/tkrajina/10000sentences) - *Language Learning App / [Premium](https://forum.mobilism.org/search.php?keywords=drops&sr=topics&sf=titleonly)*
 * [Manji](https://github.com/Livinglist/Manji) - *Language Learning / Japanese / Kanji*  
 * [IRuin](https://iriun.com/), [Reincubate Camo](https://reincubate.com/camo/) or [Dev47Apps](https://www.dev47apps.com/) - *Use Android as Webcam* 
+* [Deskreen](http://deskreen.com/) - *Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen)* 
 * [GeorgieLabs](https://georgielabs.net/) - *Use Android as Wireless Speaker / Headphone Port*
 * [GGMorse](https://github.com/ggerganov/ggmorse) - *Morse Code Decoding App*
 * [Haven](https://guardianproject.github.io/haven/) - *Turn Phone into Motion Detector* 
@@ -243,6 +247,7 @@ App Manager
 * [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451) - *Custom Recovery Firmware Tool*
 * [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) - *Extract OTP Tokens*
 * [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid) - *File Hash Calculator*
+* [SmartPack-Kernel-Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager) - *Kernel Manager*
 * [Swappa](https://swappa.com/imei) - *IMEI, MEID, ESN Checker*
 * [SWAP](https://forum.mobilism.org/search.php?keywords=swap+no+root&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - *Create SWAP file without Root*
 
@@ -395,6 +400,7 @@ App Manager
 * [Meow](https://github.com/neverfelly/Meow) - *Manga Reader*
 * [TheComicsLibrary](https://github.com/FabioPezzini/TheComicsLibrary) - *Comic & Manga Library* 
 * [Shosetsu](https://shosetsu.app/) - *Light Novels / [GitHub](https://github.com/ShosetsuOrg/android-app) / [Dev Builds](https://github.com/shosetsuorg/shosetsu-preview) / [Discord](https://discord.gg/ttSX7gB)* 
+* [NovelLibrary](https://github.com/gmathi/NovelLibrary) - *Light Novel Reader / [Discord](https://discord.gg/qFZX4vdEdF)*
 * [LNReader](https://github.com/LNReader/lnreader) - *Light Novel Reader*
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books*
 
@@ -416,6 +422,7 @@ App Manager
 * [BlackPlayer](https://rexdl.com/android/blackplayer-ex-apk.html/) - *Streaming*
 * [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - *Streaming*
 * [Rezonance](https://www.rezonanceindia.tech/) - *Streaming / [GitHub](https://github.com/rezonance-india)*
+* [Cliggo](https://play.google.com/store/apps/details?id=com.cliggo.cliggo_music) - *Streaming / Downloading*
 * [Otter](https://github.com/apognu/otter) or [humit](https://www.humit.app/) - *Music Sharing App*
 * [Quorus](https://quorus.net/) - *Collaborative Playlists* 
 * [SplitCloud](http://www.splitcloud-app.com/) - *Audio Splitter*
