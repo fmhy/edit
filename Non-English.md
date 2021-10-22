@@ -446,7 +446,7 @@
 * [Movies Point](https://mkvmoviespoint.gen.in/) - *Movies* 
 * [BDmusic](https://bdmusic23.bid/) - *Movies / TV*
 * [mkvCinemas](https://www.mkvcinemas.pm/) - *Movies / TV*
-* [MKV Mad](https://www.mkvmad.pro/) - *Movies / TV *
+* [MKV Mad](https://www.mkvmad.pro/) - *Movies / TV*
 * [WorldFree4U](https://worldfree4u.quest/) - *Movies / TV*
 * [KatMovieHD](https://katmoviehd.se/) - *Movies / TV*
 * [HDHub4u](https://hdhub4u.wiki/) - *Movies*
@@ -840,7 +840,10 @@
 * [Portuguese Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_browser_games) 
 * [Atari2600](http://www.atari2600.com.br/) - *Browser Emulator*
 * [Racha Cuca](https://rachacuca.com.br/) - *Puzzles & Trivia*
+* [cacapalavras](http://www.cacapalavras.com.br/) - *Crossword Puzzles*
+* [plagiarisma](http://plagiarisma.net/pt/) - *Plagiarism Checker*
 * [Universia](https://www.universia.net/) - *Portuguese University Search*
+* [CatalogoApp](https://catalogoapp.mobi/) - *Portuguese Product Catalog*
 
 ## ▷ Downloading
 
@@ -852,6 +855,20 @@
 * [Tugakids](https://tugakids.biz/) - *Movies / TV / Dubbed / Registration Required* 
 * [Jogos Torrents](https://jogostorrents.site/) - *Games*
 * [Series Empire](https://seriesempire.com/) - *TV* 
+* [Anbient](https://www.anbient.com/) - *Anime*
+* [LegendasGeek](https://legendasgeek.tv/) - *TV*
+* [BiaxarSomGospel](https://www.baixarsomgospel.org/) - *Gospel Music*
+* [AnimaniacClub](http://www.mp3.animaniaclub.com.br/) - *Anime OSTs*
+* [Gendou](http://gendou.com/) - *Anime OSTs*
+* [xGames](https://xgamespc.com/) - *Games*
+* [Emulador](https://emulador3ds.com/pt/nintendo-3ds/) - *3DS Roms*
+* [CitraRoms](https://www.citraroms.com.br/) - *3DS Roms*
+* [Programasejogos](https://www.programasejogos.com/) - *Software*
+* [Baixamais](https://www.baixamais.net/) - *Icons*
+* [baixarvideo](https://www.baixarvideo.com.br/) - *Portuguese Video Downloader*
+* [OnlineCursoGatuitos](https://onlinecursosgratuitos.com/) - *Courses*
+* [escolaeducacao](https://escolaeducacao.com.br/estude-gratis/) - *Courses*
+* [SuporteNinja](https://suporteninja.com/download/) - *Courses*
 * [Jogatina](https://www.jogatina.com/) - *Android Games*
 
 ## ▷ Torrenting
@@ -924,6 +941,8 @@
 * [MaxSeries](https://maxseries.top/) - *Movies / TV / Anime*
 * [NetMovies](http://www.netmovies.com.br/) - *Movies / TV*
 * [querofilmehd](https://querofilmehd.net/) - *Movies / TV*
+* [180Play](https://www.180play.com.br/) - *Movies / TV*
+* [zinaminados](https://www.zinaminados.com/) - *Cartoon / Anime*
 * [AnimeFire](https://animefire.net/) - *Anime* 
 * [AnimeLog](https://animeslog.com/) - *Anime*
 * [AnimesOnline](https://animesonline.vip/) - *Anime*
@@ -946,7 +965,24 @@
 * [inglesgratuito](https://www.inglesgratuito.com.br/) - *Portuguese English Learning Courses*
 * [PalcoMP3](https://www.palcomp3.com.br/) - *Music*
 * [RadioJHero](https://radiojhero.com/) - *Radio*
+* [Radios.com](https://www.radios.com.br/) - *Radio*
+* [radiosaovivo](https://radiosaovivo.net/) - *Radio*
+* [br.radio](https://br.radio.net/) - *Radio*
+* [tudoradio](https://tudoradio.com/) - *Radio*
+* [RadioRock](https://www.radiorock.com.br/) - *Radio*
+* [Tupi](https://www.tupi.fm/) - *Radio*
+* [RadioFobia](https://radiofobia.com.br/ ) - *Radio*
+* [flowpodcast](https://flowpodcast.com.br/) - *Political Podcast*
+* [99Vidas](http://99vidas.com.br/) - *Gaming Podcast*
+* [cinematorio](https://www.cinematorio.com.br/) - *Movie Podcasts*
+* [cinemacomrapadura](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - *Podcasts*
+* [Omelete](https://originals.omelete.com.br/) - *Podcasts*
+* [Redegeek](https://redegeek.com.br/blog/) - *Podcasts*
+* [papodegordo](https://www.papodegordo.com.br/category/podcast/) - *Podcasts*
+* [mundopodcast](https://mundopodcast.com.br/) - *Podcasts*
+* [kboingfm](https://www.kboingfm.com.br/podcast/) - *Podcasts*
 * [topflixapk](https://topflixapk.com/) - *Streaming APK*
+* [TasteMade](https://www.tastemade.com.br/) - *Recipe Videos*
 
 ## ▷ Reading
 
@@ -967,6 +1003,10 @@
 * [TsukiMangas](https://www.tsukimangas.com/) - *Manga*
 * [MangaLivre](https://mangalivre.net/) - *Manga*
 * [Global.Toomics](https://global.toomics.com/br) - *Manga*
+* [brmangas](https://www.brmangas.com/) - *Manga*
+* [mangahost4](https://mangahost4.com/) - *Manga*
+* [mangayabu](https://mangayabu.top/) - *Manga*
+* [meusmangas](https://meusmangas.net/) - *Manga*
 * [instintomangaka](https://www.instintomangaka.com/baixar-mangas/ ) - *Manga*
 * [WDL PT](https://www.wdl.org/pt/) - *Historical Document & Images*
 * [Obrasraras](https://obrasraras.usp.br/) - *Historical Documents*
@@ -975,6 +1015,8 @@
 * [ArteHQs](http://www.artehqs.com.br/) - *Comics*
 * [TropaBRScans](https://tropabrscans.blogspot.com/) - *Comics*
 * [NovelMania](https://novelmania.com.br/) - *Light Novels*
+* [CentralNovel](https://centralnovel.com/) - *Light Novels*
+* [EmpireNovels](https://empirenovels.com.br/) - Light Novels**
 * [MyLightNovel](http://www.mylightnovel.com.br/) - *Light Novels*
 * [Revista Programar](https://www.revista-programar.info/) - *Programming Magazine*
 * [DND5ED](http://dnd5ed.github.io/) - *Dungeons & Dragons Guides*
@@ -982,25 +1024,23 @@
 * [Luso Poemas](https://www.luso-poemas.net/) - *Poetry*
 * [super.abril](https://super.abril.com.br/superarquivo/) - *Magazines*
 * [Revista Do Linux](http://augustocampos.net/revista-do-linux/index.html) - *Linux Magazine*
-
-
-* [Anbient](https://www.anbient.com/) - *Download / Anime*
-* [LegendasGeek](https://legendasgeek.tv/) - *Download / TV*
-* [BiaxarSomGospel](https://www.baixarsomgospel.org/) - *Download / Gospel Music*
-* [AnimaniacClub](http://www.mp3.animaniaclub.com.br/) - *Download / Anime OSTs*
-* [Gendou](http://gendou.com/) - *Download / Anime OSTs*
-* [xGames](https://xgamespc.com/) - *Download / Games*
-* [Emulador](https://emulador3ds.com/pt/nintendo-3ds/) - *Download / 3DS Roms*
-* [CitraRoms](https://www.citraroms.com.br/) - *Download / 3DS Roms*
-* [Programasejogos](https://www.programasejogos.com/) - *Download / Software*
-* [Baixamais](https://www.baixamais.net/) - *Icons*
-* [baixarvideo](https://www.baixarvideo.com.br/) - *Portuguese Video Downloader*
-* [OnlineCursoGatuitos](https://onlinecursosgratuitos.com/) - *Download / Courses*
-* [SuporteNinja](https://suporteninja.com/download/) - *Download / Courses*
-
-
-
-
+* [Dicio](https://www.dicio.com.br/) - *Dictionary*
+* [jornaisbrasileiros](http://www.jornaisbrasileiros.net.br/) - *News App*
+* [Uniao](https://uniao.com.br/) - *Desert Recipes*
+* [varandadobolo](https://varandadobolo.com.br/) - *Desert Recipes*
+* [receitasdemais](http://receitasdemais.com.br/) - *Recipes*
+* [receitasnotadez](https://receitasnotadez.com.br/) - *Recipes*
+* [saborintenso](https://www.saborintenso.com/) - *Recipes*
+* [cozinhadonabenta](https://www.cozinhadonabenta.com.br/receitas-dona-benta/) - *Recipes*
+* [anamariabraga](https://anamariabraga.globo.com/) - *Recipes*
+* [vovopalmirinha](https://vovopalmirinha.com.br/) - *Recipes*
+* [gastronomias](http://www.gastronomias.com/receitas/) - *Recipes*
+* [tecnonoticias](https://tecnonoticias.com.br/downloads-de-receitas/) - *Recipes*
+* [tudoreceitas](https://www.tudoreceitas.com/) - *Recipes*
+* [tudogostoso](https://www.tudogostoso.com.br/) - *Recipes*
+* [receitasnestle](https://www.receitasnestle.com.br/) - *Recipes*
+* [panelinha](https://www.panelinha.com.br/) - *Recipes*
+* [receitasdecomida](https://www.receitasdecomida.com.br/) - *Recipes*
 
 ***
 
@@ -1170,6 +1210,7 @@
 
 # ► Spanish
 
+* [Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/), [2](https://gitlab.com/listados/awesome-telegram) - *Spanish Telegram Channel Index*
 * [jogos10](http://www.jogos10.com/) or [Minijuegos](https://www.minijuegos.com/) - *Browser Games*
 * [elblogdelnarco](https://elblogdelnarco.com/) - *Drug Trafficking News*
 * [Catflix](https://www.championcat.cl/catflix/) - *Cats!*
