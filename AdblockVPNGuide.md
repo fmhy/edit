@@ -497,6 +497,8 @@
 * [Hidester](https://hidester.com/proxy/)
 * [Zalmos](https://www.zalmos.com/)
 * [CroxyProxy](https://www.croxyproxy.com/)
+* [ProxySite](https://www.proxysite.cc/) 
+* [immortalproxy](https://immortalproxy.com/) 
 * [Proxy-URLs](https://www.proxy-urls.com/)
 * [TurboProxy](https://turboproxy.co/)
 * [Sitenable](http://sitenable.in/) 
