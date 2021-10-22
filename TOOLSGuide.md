@@ -584,7 +584,6 @@
 * [Netbox](https://netbox.global/) - *Blockchain Backed Browser*
 * [Ghost Browser](https://ghostbrowser.com/) - *Multi-Session Browser*
 * [woob](https://woob.tech/) - *Use Sites Without a Browser*
-* [Male Poon](https://github.com/ManchildProductions/Male-Poon) - *Tweaked Browser*
 * [Lagrange](https://github.com/skyjake/lagrange)  - *Gemini Browser*
 * [StockBrowser](https://stackbrowser.com/) - *Multi Web App Browser*
 * [NeverInstall](https://neverinstall.com/en-IN) - *Browser OS*
