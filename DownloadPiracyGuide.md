@@ -202,6 +202,7 @@
 * [Software Heritage](https://www.softwareheritage.org/) - *Software Source Code Archive* 
 * [balenaHub](https://hub.balena.io/) - *Raspberry Pi Software* 
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - *Professional Video, Audio & Adobe Software / Plugins*
+* [WLSetup-All](https://archive.org/details/wlsetup-all_201802) - *Windows Live Essentials 2012 Archive*
 * [GenP](https://www.reddit.com/r/GenP) - *Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)*
 
 ***
@@ -281,6 +282,7 @@
 * [GoDownloads](https://godownloads.net/) 
 * [GFXDownload](http://gfxdownload.com/)
 * [Uparchip](https://www.uparchvip.com/category/free-content/)
+* [AwesomeVFX](https://gitlab.com/tds-anonymous/awesome-vfx) 
 
 ***
 
