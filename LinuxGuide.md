@@ -153,6 +153,7 @@
 # ► Mac Tools / Apps
 
 * **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
+* [DMHY](https://github.com/yaqinking/DMHY) - *Anime Torrent Autodownloader* 
 * [YTMusic](https://ytmusic.app/) - *YouTube Music Client*
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) - *Download MacOS*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
