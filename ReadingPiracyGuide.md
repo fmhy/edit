@@ -527,6 +527,7 @@
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - *Electronics* 
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - *Electronics Schematics & Simulations*
 * [159.69.3.96](http://159.69.3.96/ebooks/) - *IT Books*
+* [Bash Academy](https://guide.bash.academy/) - *Bash Shell Guide*
 * [Cyber Security & IT](https://mega.nz/folder/9kxTnLCI#BThv3CtkC27JqcJ4ZWD_cA) - *Cyber Security / IT Books & Courses*
 * [biorxiv](https://www.biorxiv.org/) - *Biology Preprints*
 * [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - *Philosophy* 
