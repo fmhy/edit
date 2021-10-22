@@ -545,7 +545,8 @@
 * [SPSS Tutorials ](https://www.spss-tutorials.com/) - *SPSS Practice & Examples*
 * [Fitocracy](https://www.fitocracy.com/) or [Timely-Fitness](https://github.com/Argentable/Timely-Fitness) - *Create Workout Plans*
 * [DAREBEE](https://darebee.com/) - *Fitness Plans / Workouts*
-* [MapMyWalk](https://www.mapmywalk.com/) - *Map / Track Walks*
+* [MapMyWalk](https://www.mapmywalk.com/) - *Walking Tracker*
+* [RunnerUp](https://github.com/jonasoreland/runnerup) - *Run Tracker*
 * [Charity Miles](https://charitymiles.org/) - *Donate to Charity While Running / Biking*
 * [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - *Zombie Running Adventure Game*
 * [INCIDecoder](https://incidecoder.com/) - *Skincare Ingredient Lists*
