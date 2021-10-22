@@ -727,7 +727,6 @@ https://greasyfork.org/en/scripts/407284-imdb-scout-mod
 * [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - *Sub / [ZeroNet Required](https://zeronet.io/)*
 * [nyaamal](https://github.com/laxyapahuja/nyaamal) - *Add torrents DL's to MAL / Anilist*
 * [Aniloader](https://github.com/Xanahol/Aniloader) or [AniTorrent](https://github.com/Kajiya-aru/AniTorrent) - *Anime Torrent Autodownloader*
-* [DMHY](https://github.com/yaqinking/DMHY) - *Anime Torrent Autodownloader / OS X* 
 
 ***
 
