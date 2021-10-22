@@ -11,9 +11,9 @@
 
 # ► Linux Tools / Apps
 
-* **[Archwiki](https://wiki.archlinux.org/)** - *Linux Wiki*
-* **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)**, **[Friendly GNU](https://fglt.nl/guides/picking-a-distro.html)**, [LinuxTracker](https://linuxtracker.org/), [tohoku](http://www.cs.tohoku-gakuin.ac.jp/pub/Linux/), [minerswin](http://root3.minerswin.de/ISO/), [Pkgs](https://pkgs.org/), [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity) or [ComputerFreely](https://computefreely.org/) - *Linux Distro Indexes / Guides*
+* **[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_distros)** - *Download Linux Distros* 
 * **[Linux Piracy](https://rentry.co/LinuxPiracy)** - *Linux Piracy Guide*
+* **[Archwiki](https://wiki.archlinux.org/)** - *Linux Wiki*
 * **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, [CPU-X](https://github.com/X0rg/CPU-X), [vtop](https://github.com/MrRio/vtop) or [Stacer](https://github.com/oguzhaninan/Stacer) - *System Info / Resource Monitors*
 * **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
 * **[mpv](https://mpv.io/)** - *Video Player / [Frontend](https://github.com/celluloid-player/celluloid)*
