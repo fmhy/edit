@@ -298,7 +298,7 @@
 * [AnimeLand](https://www.animeland.us/) - *Dub* 
 * [Animetake](https://animetake.tv/) - *Sub* 
 * [AnimetTV](https://animet.tv/) - *Sub / Dub*
-* [AnimeVibe](https://animevibe.tv/) - *Sub* 
+* [AnimeVibe](https://animevibe.se/) - *Sub* 
 * [Animeow.me](https://animeow.me/) - *Sub / Dub* 
 * [Anime OWL](https://animeowl.net/home/) - *Sub / Dub*
 * [NetAnime](https://netanime.tv/) - *Sub / Dub* 
@@ -476,7 +476,7 @@
 * [MobileTVShows](https://www.mobiletvshows.net/) - *TV / Anime*
 * [MoviesforDiscord](https://discord.movies4discord.xyz/) - *Movie Streaming / Download Bot / [Website](https://movies4discord.xyz/)*
 * [Medeberiyaa](https://medeberiyaa.com/) - *Movies / TV / Anime*
-* [PSARips](https://psarips.top/) or [x265.club](https://x265.club/) - *Movies / TV / [Scraper](https://github.com/NandiyaLive/PSALinkGrabber) / [IMDb Titles](https://github.com/ni554n/userscripts/tree/master/psarips-replace-post-titles-with-imdb-links)* 
+* [PSARips](https://psarips.top/) - *Movies / TV / [Scraper](https://github.com/NandiyaLive/PSALinkGrabber) / [IMDb Titles](https://github.com/ni554n/userscripts/tree/master/psarips-replace-post-titles-with-imdb-links)* 
 * [Crazy4tv](https://crazy4tv.com/) - *Movies / TV*
 * [DDLBase](https://ddlbase.net/) - *Movies / TV*
 * [megaDDL](https://megaddl.co/) - *Movies / TV*
