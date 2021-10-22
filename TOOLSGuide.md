@@ -286,6 +286,7 @@
 * [Fresh Stuff For You](https://freshstuff4you.com/) - *Daws / Samples / Presets*
 * [FlsAudio](https://flsaudio.com/en/gb/) - *FLStudio Samples / Presets / Plugins* 
 * [PluginTorrent](https://plugintorrent.com/) - *Plugins / Samples*
+* [LoopTorrent](https://looptorrent.net/) - *VST Plugins*
 * [CrackCartel Vault](https://mega.nz/folder/DtUT0QaI#5NwiaqJwToyTOHCchavUnQ), [RKHive](https://rkhive.com/) or [SamplesTorrent](https://samplestorrent.com/) - *Audio Samples*
 * [AirWindows](http://www.airwindows.com/) - *Reverbs / Equalizers / Plugins*
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - *Learn How to Play Music*
