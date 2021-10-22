@@ -303,6 +303,8 @@
 # ► Space
 
 * [/r/Space](https://reddit.com/r/Space) - *Space Subreddit*
+* [NASA](https://www.nasa.gov/) - *National Aeronautics and Space Administration Website*
+* [ESA](https://www.esa.int/) - *European Space Agency Website*
 * [Space.com](https://www.space.com/) - *Space News*
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://drive.google.com/drive/folders/0B1ySOrPxOWJmZGlNTkEtQnlEM3M) - *Astronomy Books*
 * [The Universe Through Time](https://i.imgur.com/A2C6Vpc.jpeg) - *Universe Timeline*
@@ -365,6 +367,7 @@
 * [refold.la](https://refold.la/roadmap) - *Language Learning Guide* 
 * [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - *Language Learning Flashcards*
 * [Learn English Online](http://www.learn-english-online.org/), [ESLFast](https://www.eslfast.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - *Learn English*
+* [Podcasts in English](https://www.podcastsinenglish.com/) - *English Learning Podcasts*
 * [Free4Talk](https://www.free4talk.com/) or [Speaking24](http://www.speaking24.com/) - *English Practice Community*
 * [MyLanguages](http://mylanguages.org/) or [Langeek](https://langeek.co/) - *Grammar / Vocabulary Language Learning*
 * [Vocatra](https://esite.ch/vocatra/) - *Vocabulary Trainer*
@@ -442,6 +445,7 @@
 * [LightNote](https://www.lightnote.co/) - *Music Theory*
 * [Music Theory](https://www.musictheory.net/) - *Music Theory*
 * [Pianu](https://pianu.com/) - *Piano*
+* [JustinGuitar](https://www.justinguitar.com/) - *Guitar*
 * [FretFlip](https://fretflip.com/guitar-scales) - *Guitar*
 * [ChordBook](https://chordbook.com/) - *Guitar*
 * [Songsterr](https://www.songsterr.com/) - *Guitar*
@@ -533,6 +537,7 @@
 * [LabXchange](https://www.labxchange.org/) - *Science / Interactive*
 * [AskNature](https://asknature.org/) - *Natural Strategies / Solutions* 
 * [Citation Generator](https://www.citationgenerator.com/), [CitationMachine](https://citationmachine.net/) or [Cite This For Me](https://www.citethisforme.com/) - *Generate Citations / [Chrome](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)*
+* [Publish or Perish](https://harzing.com/resources/publish-or-perish) - *Citation Analyzer*
 * [AMCharts](https://live.amcharts.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - *Chart Creator*
 * [AWW](https://awwapp.com/), [OpenBoard](https://openboard.ch/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - *Whiteboard*
 * [app.diagrams](https://app.diagrams.net/), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/) or [Gephi](https://gephi.org/) - *Graph / Diagram Creator*  
@@ -543,6 +548,8 @@
 * [Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php) - *Physics Tools* 
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - *Globe of Ancient Earth*
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
+* [EuraAtlas](https://euratlas.com/),  [GeoGarage](http://rumsey.geogarage.com/index.html) or [Digital Collection Maps](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division) - *Historical Maps*
+* [Geacron](http://geacron.com/) - *World History Timeline Map*
 * [Ancestry Images](http://www.ancestryimages.com/) - *Historical Photo & Map Archive*
 * [American Panorama](https://dsl.richmond.edu/panorama/) - *Interactive US Historical Maps*
 * [Theban Mapping Project](https://thebanmappingproject.com/) - *Valley of the Kings Map* 
@@ -576,6 +583,7 @@
 * [Vocabulary.ugent](http://vocabulary.ugent.be/) - *Vocabulary Test* 
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/) - *Learn about Logical Fallacies* 
 * [YourBiasIs](https://yourbias.is/) - *Learn about Biases* 
+* [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - *Wood Working Guides & Articles*
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - *Learn to Tie Knots* 
 * [Pol Art Folder](https://mega.nz/folder/rVcExIbB#VN9alzay0OrctggvEn1DUg) - *Historic European Art & Paintings*
 * [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio) or [WikiArt](https://www.wikiart.org/) - *Digital Art Collection*
