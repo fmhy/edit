@@ -32,7 +32,8 @@
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - *Gun Violence Information Database*
 * [Global Consciousness Project](https://gcpdot.com/) - *Real-Time Global Consciousness Data*
 * [The Measure Of Things](https://www.bluebulbprojects.com/measureofthings/default.php) - *Comparative / Relative Quantity Measurements* 
-* [CompareSizes](https://comparesizes.com/) - *Size Comparison Tool* 
+* [Compare Sizes](https://comparesizes.com/) - *Size Comparison Tool* 
+* [Paper Sizes](https://papersizes.io/) - *Common Paper Sizes*
 * [TimeAndDate](https://www.timeanddate.com/) - *Clocks / Calendars* 
 * [Epoch Converter](https://www.epochconverter.com/) - *Epoch & Unix Timestamp Conversion Tools* 
 * [How Many Days Since](http://howmanydayssince.net/) or [How Many Days Until](https://howmanydaysuntil.co/) - *Calculate Days Since a Date*
@@ -44,6 +45,7 @@
 * [Onym](https://guide.onym.co/) - *Tools / Resources for Naming Things*
 * [WorldTaxiMeter](https://www.worldtaximeter.com/) - *Taxi Fare Calculator*
 * [GasPrices](https://gasprices.aaa.com/) - *Gas Price Calculator*
+* [Solving Resources](https://the-unwelcome.github.io/resources/solving_resources.html) - *Code & Puzzle Solving Resources*
 * [carVertical](https://www.carvertical.com/) - *Vehicle History & VIN Decoder*
 * [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - *Bedtime Calculator* 
 * [The Sustainabilitist](https://sustainabilitist.com/) - *Sustainability Resource Hub*
@@ -173,6 +175,7 @@
 * **[Video Stream Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_stream_sync)** - *Video Streaming Sync / Watch Parties*
 * **[Video Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_editors)** - *Video Editing Software & Sites*
 * **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - *Download GFX Design Software*
+* **[Stock Videos](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_video_sites)** - *Free Stock Video Footage*
 * **[Video Hosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_hosting_sites)** - *Upload / Stream Videos* 
 * **[VideoHelp](https://www.videohelp.com/software)** - *Video Software Archive* 
 * **[Video File Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_converters)** - *Video Converters / Encoders* 
@@ -243,7 +246,6 @@
 * [StreamLink](https://streamlink.github.io/) - *Extract Videos from Sites to Players* 
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - *Nico Nico Video Player*
 * [polsy.org.uk](http://polsy.org.uk/) - *Alt Players for Video Sites*  
-* [Mixkit](https://mixkit.co/), [Coverr](http://coverr.co/), [Elements](https://elements.envato.com/), [Videvo](https://www.videvo.net/) or [Mazwai](https://mazwai.com/) - *Stock Videos / Templates* 
 * [ShareAE](https://www.shareae.com/), [HunterAE](https://hunterae.com/), [AEShares](https://aeshares.com/), [AEDownload](https://aedownload.com/), [AERiver](https://aeriver.com/), [CGNullded](https://cgnulled.com/), [Intro HD](https://intro-hd.net/) or [DownAE](https://downae.com/) - *After Effects Templates*
 * [video2x](https://github.com/k4yt3x/video2x) - *Video Upscaler*
 * [Anime4K](https://github.com/bloc97/Anime4K) - *Anime Video Upscaler* 
@@ -278,12 +280,13 @@
 * **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)** - *Audio Compression Examples*
 * [Scarbir](https://www.scarbir.com/) - *Wireless Earphone Comparisons*
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - *Professional Video, Audio & Adobe Software / Plugins*
-* [OpenAudio](https://github.com/webprofusion/OpenAudio), [/r/CrackedPlugins2](https://www.reddit.com/r/CrackedPlugins2/), [/u/BitterApple69 Plugins](https://drive.google.com/drive/folders/1vgBCLfSFnHmBzUFPzog0wVdziAEAdi0p) or [PLUGINS4FREE](https://plugins4free.com/) - *Audio Plugins* 
+* [OpenAudio](https://github.com/webprofusion/OpenAudio), [/r/CrackedPlugins2](https://www.reddit.com/r/CrackedPlugins2/), [/u/BitterApple69 Plugins](https://drive.google.com/drive/folders/1vgBCLfSFnHmBzUFPzog0wVdziAEAdi0p) or [PLUGINS4FREE](https://plugins4free.com/) - *Audio Plugins*
+* [Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sfx_.2F_loops) - *SFX & Loops*
 * [TheAudioScene](https://theaudioscene.net/) - *Daws / VSTi / Samples / Presets* 
 * [Fresh Stuff For You](https://freshstuff4you.com/) - *Daws / Samples / Presets*
 * [FlsAudio](https://flsaudio.com/en/gb/) - *FLStudio Samples / Presets / Plugins* 
 * [PluginTorrent](https://plugintorrent.com/) - *Plugins / Samples*
-* [CrackCartel Vault](https://mega.nz/folder/DtUT0QaI#5NwiaqJwToyTOHCchavUnQ) or [SamplesTorrent](https://samplestorrent.com/) - *Audio Samples*
+* [CrackCartel Vault](https://mega.nz/folder/DtUT0QaI#5NwiaqJwToyTOHCchavUnQ), [RKHive](https://rkhive.com/) or [SamplesTorrent](https://samplestorrent.com/) - *Audio Samples*
 * [AirWindows](http://www.airwindows.com/) - *Reverbs / Equalizers / Plugins*
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - *Learn How to Play Music*
 * [Jukebox](https://jukebox.today/) or [jqbx](http://jqbx.fm/) - *Music Sync / Listening Parties*
@@ -319,7 +322,6 @@
 * [Audio Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_converters) - *Audio Conversion Sites & Programs*
 * [Faasoft FLAC Converter](https://www.faasoft.com/articles/flac-converter-mac-and-windows.html) - *FLAC Converter* 
 * [FLAC Frontend](http://flacfrontend.sourceforge.net/) - *FLAC Tools* 
-* [FLAC2iTunes](https://github.com/pathartl/FLAC2iTunes/releases/tag/1.0.0) - *Convert FLAC to ALAC* 
 * [Airsonic](https://github.com/airsonic/airsonic) - *Audio Media Server* 
 * [FLStudio Skins](https://mega.nz/folder/LBA0AB4S#z0QoDfFcJkeh2QXWvynZ2Q) - *Skins for FLStudio*
 * [Webamp](https://webamp.org/) - *Winamp in Browser* 
@@ -367,11 +369,10 @@
 * [VoiceFX](https://blog.xaymar.com/projects/voicefx/) - *Remove Background Noise from Voice Recordings*
 * [Krisp](https://krisp.ai/) - *Noise Cancellation Software*
 * [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - *Voice Audio Mixer*
-* [Voice Changer](https://voicechanger.io/) - *Online Voice Changer*
+* [Voice Changer](https://voicechanger.io/ or [ClownFish](https://clownfish-translator.com/voicechanger/) - *Voice Changer*
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) - *Clone Human Voices*
 * [Sound Branch](https://soundbran.ch/) - *Create / Share / Podcasts / Voice Messages* 
 * [Gibber](https://gibber.cc/) - *Audiovisual Code Composer* 
-* [OFFMP3](https://offmp3.com/) - *Video to MP3 Converter*
 * [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - *Convert AAX to MP3 / FLAC / M4A / OPUS* 
 * [inAudible](https://github.com/rmcrackan/inAudible) - *Audible to MP3 converter*
 * [Soundiiz](https://soundiiz.com/) - *Transfer Playlists Between Streaming Platforms* 
@@ -1167,6 +1168,7 @@ General Reading Sites*
 * [phwmon](https://gitlab.com/o9000/phwmon) - *System Tray Hardware Monitor*
 * [QDirStat](https://github.com/shundhammer/qdirstat) - *Directory Statistics*
 * [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) - *SMBIOS Generator*
+* [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit ) - *Intel BIOS Settings Explanation*
 * [How-To Reset BIOS Password](https://www.youtube.com/watch?v=GolIjI2HS5w)
 * [x64dbg](https://github.com/x64dbg/x64dbg) - *Windows Debugging Tool*
 * [WhoCrashed](https://www.resplendence.com/whocrashed) - *Windows Crash Analyzer*
@@ -1248,7 +1250,7 @@ General Reading Sites*
 * [Device Cleanup Tool](https://m.majorgeeks.com/files/details/device_cleanup_tool.html) - *Remove Non-Present Devices*
 * [VCRedist](https://github.com/abbodi1406/vcredist) - *AIO Repack for Microsoft Visual C++ Redists*
 * [UUP dump](https://uupdump.net/) - *Download Windows UUP files*   
-* [Dll Downloader](http://www.dlldownloader.com/) - *Download DLL Files for Windows* 
+* [DLL Downloader](http://www.dlldownloader.com/) or [DLL-Files](https://www.dll-files.com/) - *Download DLL Files for Windows* 
 * [sven dpi](https://www.sven.de/dpi/) - *DPI Calculator* 
 * [JScreenFix](https://www.jscreenfix.com/) - *Repair Stuck Pixels* 
 * [EIZO](https://www.eizo.be/monitor-test/) or [LCDTech](https://lcdtech.info/en/tests/) - *Display Performance Tests*
@@ -1303,6 +1305,7 @@ General Reading Sites*
 * [DynaWin](https://github.com/Apollo199999999/DynaWin) - *Dynamic Desktop Themes*
 * [SecuredUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - *Ux Theme Patcher*
 * [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) - *Theme Source Patcher*
+* [Ricing Guide](http://www.ricing.chloechantelle.com/) - *Windows Ricing Guide*
 * [Awesome Ricing](https://github.com/fosslife/awesome-ricing) or [Windows-Ricing](https://github.com/winthemers/windows-ricing) - *Windows Ricing Tools*
 * [LineStep](http://litestep.net/) - *Customize Desktop Interface*
 * [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script) - *Windows Auto Personalization / Debloating Script*
@@ -1334,7 +1337,6 @@ General Reading Sites*
 * [terminal.sexy](https://terminal.sexy/) - *Terminal Color Schemes*
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - *Retro Cathode Terminal Theme*
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - *Pokemon Terminal Themes*
-* [Windows Media Player Skins](https://web.archive.org/web/20100827223732/http://windows.microsoft.com/en-US/windows/downloads/windows-media-player/skins?T1=all)
 * [Hide File Explorer Dark Mode White Line](https://i.imgur.com/ZZsvyyM.png)
 * [MyDockFinder](https://www.mydockfinder.com/) - *MacOS Theme for Windows 10*
 * [Macdows11](https://redd.it/pd5ha6) - *Windows 11 Mac Theme Guide*
@@ -1357,7 +1359,7 @@ General Reading Sites*
 * **[Onedrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_onedrive_generators)** - *Generate Microsoft 1tb Onedrives / Free Office 365* 
 * **[UDS](https://github.com/stewartmcgown/uds)** - *Unlimited Google Drive storage*
 * **[PDF Editors / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pdf_editors_.2F_toolkits)**
-* [downloader](https://downloader.la/) - *Multi Site Downloaders*
+* [downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - *Multi-Site Downloaders*
 * [FreeOnlineEditor](https://freeonlineeditor.com/) - *Multiple File Tools*
 * [horsicq](https://horsicq.github.io/) - *Multiple File Programs / [GitHub](https://github.com/horsicq/)*
 * [newfileconverterbot](https://t.me/newfileconverterbot), [convrt_bot](https://t.me/convrt_bot) or [FileConvertBot](https://t.me/FileConvertBot) - *Telegram File Conversion Bots*
@@ -1377,16 +1379,21 @@ General Reading Sites*
 * [PDFx](https://www.metachris.com/pdfx/) or [Tabula](https://tabula.technology/) - *Extract Info / URLs from PDF* 
 * [online2pdf](https://online2pdf.com/) - *Convert files to PDF*
 * [PDFConverter](https://www.pdfconverter.com/) - *Convert PDF Files* 
-* [JPG-to-PDF](https://github.com/praneetk2704/JPG-to-PDF) [Images to PDF](https://github.com/Swati4star/Images-to-PDF), [JPG2PDFBot](https://t.me/JPG2PDFBot) or [img2pdf](https://pypi.org/project/img2pdf/) - *Convert Images to PDF*
+* [Adobe Compress PDF](https://www.adobe.com/acrobat/online/compress-pdf.html) - *PDF Compressor*
+* [Adobe Word Converter](https://www.adobe.com/acrobat/online/word-to-pdf.html) - *Convert Word Files to PDF*
+* [Adobe Excel to PDF](https://www.adobe.com/acrobat/online/excel-to-pdf.html) - *Convert Excel Files to PDF*
+* [JPG-to-PDF](https://github.com/praneetk2704/JPG-to-PDF) [Images to PDF](https://github.com/Swati4star/Images-to-PDF), [JPG2PDFBot](https://t.me/JPG2PDFBot), [Adobe Converter](https://www.adobe.com/acrobat/online/jpg-to-pdf.html) or [img2pdf](https://pypi.org/project/img2pdf/) - *Image to PDF Converter*
 * [PDFmyURL](https://pdfmyurl.com/) - *Convert Web Page to PDF* 
 * [PDFCrowd](https://pdfcrowd.com/) - *HTML to PDF / Image Converter*
 * [PSTOEdit](http://pstoedit.net/) - *Convert PDF to other Vector Formats* 
 * [Issuu](https://issuu.com/) - *Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/), [3](https://docdownload.net/)* 
+* [PPT To PDF](https://www.adobe.com/acrobat/online/ppt-to-pdf.html) - *Convert PowerPoint to PDF Adobe*
 * [watermark-remover](https://github.com/cpappen/watermark-remover), [pdf-remove-watermarks](https://github.com/matthiasbock/pdf-remove-watermarks) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - *PDF Watermark Remover*
 * [Scan Your PDF](https://www.scanyourpdf.com/) - *Make a PDF look like it was Scanned*
 * [PDF Fixer](https://pdffixer.com/) - *Repair Damaged PDFs*
 * [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - *Download Protected GDrive PDFs*
 * [PDFCoffee](https://pdfcoffee.com/) - *Upload PDF, Word or PowerPoint Files*
+* [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - Fill & sign a PDF**
 * [megabasterd](https://github.com/tonikelope/megabasterd) - *MEGA Downloader / Uploader / Streaming / Quota Bypass*
 * [megatools](https://megatools.megous.com/) - *Mega.nz CLI*
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - *Mega Download Script*
@@ -1738,6 +1745,7 @@ General Reading Sites*
 * [Steam Database](https://steamdb.info/extension/) - *Adds Steam Database Link to Steam Community & Store* 
 * [Steam Web Filter Bypasser](https://chrome.google.com/webstore/detail/steam-web-filter-bypasser/gohcmgakipmdlpacegcgolafdhdlgifl) - *Bypass "You are leaving Steam" page* 
 * [Steam Account Manager](https://www.unknowncheats.me/forum/pc-software/117141-steam-account-manager.html) - *Steam Account Switcher / Manager*
+* [Wishlist Removals](https://steamcommunity.com/sharedfiles/filedetails/?id=1746978201) - *Remove Hidden Items from Steam Wishlist*
 
 ***
 
