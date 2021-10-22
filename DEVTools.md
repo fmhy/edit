@@ -52,6 +52,7 @@
 * [w3schools](https://www.w3schools.com/) - *Programing Tutorials*
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - *Programming Courses*
 * [HelloWorldCollection](http://helloworldcollection.de/) - *Hello World Programming Collection*
+* [VisualGo](https://visualgo.net/) - *Data Structures & Algorithm Animations*
 * [HTMLDog](https://htmldog.com/) - *HTML / CSS / JavaScript Tutorials* 
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/) - *HTML & CSS Tutorials*
 * [VIM Adventures](https://vim-adventures.com/) - *VIM Learning Game*
@@ -134,6 +135,7 @@
 * [Thanos](https://thanos.io/) - *Open Source Prometheus Setup / [GitHub](https://github.com/thanos-io/thanos)* 
 * [Ainize](https://ainize.ai/) - *Launchpad for open-source AI projects*
 * [DBeaver](https://dbeaver.io/) - *Universal Database Tool*
+* [Awesome Big Data](https://github.com/0xnr/awesome-bigdata) - *Big Data Resource Index*
 * [DoIt](https://github.com/dolthub/dolt) - *SQL Database* 
 * [Libraries.io](https://libraries.io/) - *Package, Framework & Tool Search*
 * [Deps.dev](https://deps.dev/) - *Open-Source Package Search*
@@ -142,6 +144,7 @@
 * [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) - *Bug Bounty Resources*
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - *CTF Resources*
 * [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - *API index* 
+* [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - *Microservice Architecture Resource Index*
 * [Libre Logos](https://github.com/enjeck/libre-logos) - *Free Logos for Projects*
 * [Cumcord](https://cumcord.com/) - *Discord Developer Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)*
 * [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - *Integrate Services with Discord*
@@ -190,7 +193,7 @@
 * [Straw.Page](https://straw.page/) - *Simple Site Creator*
 * [LocalXpose](https://localxpose.io/) - *Reverse Proxy*
 * [Bootstrap](https://bootstrapmade.com/) or [TheMeWagon](https://themewagon.com/) - *Website Templates & Themes*
-* [Elements Envato](https://qltien.com/elements/getcode/babiato.html) - *Templates, Mockups, Logos, Video*
+* [Elements Envato](https://qltien.com/elements/getcode/babiato.html) or [PsdRepo](https://psdrepo.com/) - *Templates, Mockups, Logos, Video*
 * [Uisual](https://uisual.com/) - *Landing Page Templates*
 * [Canva](https://www.canva.com/) or [PikBest](https://pikbest.com/) - *Design Templates / [Premium Apk](https://forum.mobilism.org/search.php?keywords=Canva+&sr=topics&sf=titleonly)* 
 * [Boilerplate](https://github.com/h5bp/html5-boilerplate) - *Website Frontend Template HTML5*
@@ -300,7 +303,7 @@
 ## ▷ Game Development
 
 * [Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources) - *Game Development Resources*
-* [Godot](https://godotengine.org/), [OpenXRay](https://github.com/OpenXRay) or [ursina engine](https://www.ursinaengine.org/) - *Game Engine*
+* [Godot](https://godotengine.org/), [Defold](https://defold.com/), [OpenXRay](https://github.com/OpenXRay) or [ursina engine](https://www.ursinaengine.org/) - *Game Engine*
 * [Playerio](https://playerio.com/) - *Online Game Engine*
 * [RPG Playground](https://rpgplayground.com/) - *Simple RPG Creator*
 * [Game-Editor](http://game-editor.com/Main_Page) - *Game Creator*
@@ -313,6 +316,7 @@
 * [Electronic Arts GitHub](https://github.com/electronicarts) - *EA GitHub Repos*
 * [Bookshelf](https://github.com/Darkhax-Minecraft/Bookshelf) - *Minecraft Mod Code Support*
 * [VEEDI](https://www.veedi.com/) - *Create Game Walkthrough Videos*
+* [CraftPix](https://craftpix.net/freebies/), [Kenney](https://www.kenney.nl/), [/r/GameAssets](https://www.reddit.com/r/gameassets/), [UnityAssets4Free](https://unityassets4free.com/) or [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free) - *Game Development Assets*
 
 ***
 
@@ -412,12 +416,13 @@
 
 * [SpyColor](https://www.spycolor.com/) - *Color Model Conversions*
 * [Colorful](https://github.com/Siddharth11/Colorful) - *Curated List of Color Scheme Resources* 
-* [Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [MyColor](https://mycolor.space/), [ColorHunt](https://colorhunt.co/) or [Coolors](https://coolors.co/) - *Color Palette Generator*
+* [Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [MyColor](https://mycolor.space/), [MaterialPalette](https://www.materialpalette.com/), [Adobe Colors](https://color.adobe.com/), [ColorHunt](https://colorhunt.co/) or [Coolors](https://coolors.co/) - *Color Palette Generator*
 * [ColorsAndFonts](https://www.colorsandfonts.com/) - *Quickly Copy Colors & Typography Combinations* 
 * [ColorHexa](https://www.colorhexa.com/) - *Color Hex Encyclopedia*  
 * [Paletton](https://paletton.com/) - *Color Scheme Designer*
 * [PaletteGenerator](https://palettegenerator.com/) - *Color Palette Extractor*
 * [ColorZilla](https://www.colorzilla.com/) - *Color Picker, Gradient Generator & more*
+* [Webgradients](https://webgradients.com/) - *Gradients*
 * [Colorpedia](https://github.com/joowani/colorpediahttps://coolors.co/) - *Lookup Colors & Palettes via Command-Line* 
 * [ShaderToy](https://www.shadertoy.com/browse) - *User-Made Shaders* 
 * [Contrast Checker](https://webaim.org/resources/contrastchecker/) - *Background / Text Contrast Checker*
@@ -509,6 +514,7 @@
 * [Jetbrains Ultimate IDEs](https://rentry.org/52oyb) - *Jetbrains Ultimate IDEs Trial Reset Guide*
 * [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - *Cloud Platform Index*
 * [CodeSandbox](https://codesandbox.io/), [VSCodium](https://vscodium.com/), [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VSCode* 
+* [vscode.dev](https://vscode.dev/) - *VSCode in Browser*
 * [Open VSX Registry](https://open-vsx.org/) - *VSCode Editor Extensions*
 * [VSCodeThemes](https://vscodethemes.com/) - *VSCode Themes*
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - *Colorize VSCode Brackets*
