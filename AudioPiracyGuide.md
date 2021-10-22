@@ -48,6 +48,7 @@
 * [Tancpol](https://tancpol.net/) - *Browser Music*
 * [MP3 Quack](https://mp3quack.lol/) - *Browser Music*
 * [MP4Juice ](https://mp4juice.cc/) - *Browser Music*
+* [Cliggo](https://music.cliggo.com/) - *Browser Music*
 * [Vapor Archive](https://vaporarchive.neocities.org/) - *Vaporwave*
 * [hypem](https://hypem.com/popular) - *Rising*
 * [datpiff](https://www.datpiff.com/) - *Mixtapes*
@@ -70,7 +71,7 @@
 * [KeyGenMusic](http://www.keygenmusic.net/) or [keygenmusic.tk](https://keygenmusic.tk/) - *Music from keygens, cracks, trainers, intros* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - *East African Recordings* 
-* [Free Music Archive](https://www.freemusicarchive.org/) - *Royalty Free Music* 
+* [Free Music Archive](https://www.freemusicarchive.org/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* - *Royalty Free Music* 
 * [Battle of the Bits](https://battleofthebits.org/) - *User-Made Music Competitions* 
 * [Openwhyd](https://openwhyd.org/) - *Music Sharing Community / [Chrome](https://chrome.google.com/webstore/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)*
 * [Bandcamp New Tab](https://chrome.google.com/webstore/detail/bandcamp-new-tab/nbabnnemlofbllcflfjpjgkgmcdbeemc) - *Random Bandcamp Songs on New Tabs*
@@ -92,6 +93,7 @@
 * [PodParadise](https://www.podparadise.com/) - *Podcasts*
 * [Podbean](https://www.podbean.com/) - *Podcasts*
 * [Podbay](https://podbay.fm/) - *Podcasts*
+* [Google Podcasts](https://podcasts.google.com/) - *Podcasts*
 * [player.fm](https://player.fm/) - *Podcasts*
 * [WebOasis Radio](http://streamwat.ch/radio/) - *Genre-Based Radio*
 * [Chiru.no](https://chiru.no/) - *Multiple Online Radio Sites* 
@@ -121,10 +123,12 @@
 * [morsecode.me](http://morsecode.me/) - *Morse Code Radio / Communication*
 * [Worldwide Radio](http://forums.mozillazine.org/viewtopic.php?t=3039738) - *Radio Extension* 
 * [castero](https://github.com/xgi/castero) - *TUI Terminal Podcast Client*
-* [Get MyPodcasts](https://www.microsoft.com/en-us/p/mypodcasts/9nv15nfrn50l1) - *Podcast Player*
+* [Get MyPodcasts](https://www.microsoft.com/en-us/p/mypodcasts/9nv15nfrn50l1) or [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) - *Podcast Player*
 * [Spotify Podcast Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders) - *Download Podcasts from Spotify*
 * [ListenLater](https://www.listenlater.fm/) - *Turn Articles into Podcasts* 
 * [ListenBox](https://listenbox.app/) - *Turn YouTube Video into Podcasts*
+* [Anchor](https://anchor.fm/) - *Podcast Creator*
+* [Spotify Podcasters](https://podcasters.spotify.com/) - *Podcaster Dashboard*
 
 ***
 
@@ -150,6 +154,7 @@
 * [MoodTurn](http://moodturn.com/) - *Ambient*
 * [lofi](https://lofi.co/) - *Ambient / Lo-fi*
 * [Ambient Mixer](https://www.ambient-mixer.com/) - *Ambient / Lo-fi* 
+* [tree.fm](https://www.tree.fm/) - *Ambient Forest Sounds*
 * [Calm](https://app.www.calm.com/) - *Meditation / Sleep Music* 
 * [Tide.fm](https://tide.fm/) or [Sounds4Sleep](https://sounds4sleep.com/) - *Meditation / Sleep Sounds* 
 * [ChillOuts](http://www.chillouts.com/) - *Meditation Aid*
@@ -182,6 +187,7 @@
 * **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)*
 * **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - *Telegram audio download channels*
+* [OFFMP3](https://offmp3.com/) or [conversormp3](https://conversormp3.com.br/) - *Video Site to MP3 Converter*
 * [SMLoadr](https://t.me/SMLoadrNews) - *FLAC / MP3 / [Desktop GUI](https://github.com/thelucifermorningstar/SMLoadr-AUX/releases)*
 * [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - *Deezer Music Download App*  
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *FLAC / MP3*
@@ -190,6 +196,7 @@
 * [MP3Jam](https://www.mp3jam.org/) - *MP3*
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - *Music Download Tool* 
 * [RipMe](https://github.com/RipMeApp/ripme) - *Bulk Album Downloader*  
+* [DoubleNegative](https://doublenegative.io/ ) - *Tidal Music Downloader*
 * [Deezer2DriveBot](https://t.me/deezer2drivebot) - *Deezer & Qobuz to GDrive Bot*
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - *Bandcamp Downloader*
 * [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - *Soundcloud Download Tools*
@@ -235,6 +242,7 @@
 * [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - *MP3*
 * [Music for the masses !](https://redd.it/nt7fea) - *MP3*
 * [MP4Juice](https://mp4juice.cc/) - *MP3*
+* [Cliggo](https://music.cliggo.com/) - *MP3*
 * [Moe:81](http://miya.nipah.moe:81/public/music/) - *MP3 / FLAC*
 * [geedryve](http://jacobsm.com/geedryve/records/mp3s/) - *MP3* 
 * [Music Library](https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7) - *MP3*
@@ -310,9 +318,7 @@
 * [OtakuOst](https://otakuost.net/) - *Anime Soundtracks & Japanese Music* 
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- *MIDI Files* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
-* [Free Music Archive](https://www.freemusicarchive.org/) - *Royalty Free Music* 
-* [Adobe Audition Downloads](https://offers.adobe.com/en/na/audition/offers/audition_dlc.html), [Free-Loops](http://free-loops.com/), [FreeSOundEffects](https://www.freesoundeffects.com/free-sounds/airplane-10004/), [Freesound](http://freesound.org/), [OrangeFreeSounds](https://orangefreesounds.com/) or [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) / [Downloader](https://github.com/FThompson/BBCSoundDownloader) - *SFX / Loops*
-* [soundbible](https://soundbible.com/), [ZapsPlat](https://www.zapsplat.com/) or [FindSounds](https://findsounds.com/) - *Sound Search Engine* 
+* [Free Music Archive](https://www.freemusicarchive.org/), [BenSound](https://www.bensound.com/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
 
 ***
 
