@@ -514,6 +514,7 @@ RSS Player*
 * [SyncPlayer](https://f-droid.org/en/packages/io.github.powerinside.syncplay/) - *Video Sync App*
 * [Android TV Mod](https://t.me/androidtvmod) - *Android TV / Fire TV / Fire Stick / Mods / Telegram*
 * [Android TV IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) - *IPTV Players for Android TV's*
+* [SmartTubeLegacy](https://github.com/yuliskov/SmartTubeLegacy) - *Modded Android TV Youtube Client*
 * [Great Courses Plus Premium](https://onehack.us/t/get-the-great-courses-plus-premium-android/92613) - *Courses*
 * [Showly 2.0](https://github.com/michaldrabik/showly-2.0) or [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide/) - *Movie / TV Tracker* 
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) or [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - *Bilibili Client*
