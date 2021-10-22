@@ -233,6 +233,7 @@
 * [IP Intelligence](http://getipintel.com/) - *Proxy / VPN / Bad IP Detection*
 * [V2Ray](https://www.v2ray.com/) - *Proxy Software / [Android](https://github.com/eycorsican/kitsunebi-android)*
 * [ipinfo.io](https://ipinfo.io/) - *IP Data API*
+* [DnSpy](https://github.com/dnSpy/dnSpy) - *.NET Debugger And Assembly Editor*
 * [Certbot](https://certbot.eff.org/) - *Enable HTTPS Automatically*
 * [MachineID](http://www.ionworx.com/machineid.html) - *Hardware Identifier*
 * [TrackMyBacklink](https://trackmybacklink.com/) - *Backlink Tracker*
