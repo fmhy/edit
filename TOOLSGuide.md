@@ -550,6 +550,7 @@
 * [Gate2Home](https://gate2home.com/) - *Keyboard Emulator* 
 * [PrintFriendly](https://www.printfriendly.com/) or [PrintWhatYouLike](https://www.printwhatyoulike.com/) - *Printer / PDF Version of Webpages*
 * [Textise](https://textise.net/) - *Remove Everything from a Page Except Text* 
+* [ElectronMail](https://github.com/vladimiry/ElectronMail) - *Email Client*
 * [Signature Maker](https://signature-maker.net/) - *Digital / Email Signature Maker* 
 * [BeFree](https://beefree.io/templates/free/) - *Email Templates*
 * [FreeMail](https://extrassl.actalis.it/portal/uapub/freemail?lang=en) - *Free Mail Certificate*
