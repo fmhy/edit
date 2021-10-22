@@ -131,7 +131,7 @@
 * [TVOnBed](https://tvonbed.com/) - *Movies / TV*
 * [GoWatchSeries](https://www3.gowatchseries.bz/) - *Movies / TV / Anime* 
 * [HDO](https://w9.hdonline.eu/) - *Movies / TV / Anime* 
-* [Filmxy](https://www.filmxy.tv/) - *Movies*
+* [Filmxy](https://www.filmxy.tv/), [2](https://www.filmxy.vip/) - *Movies*
 * [Ligaxxi](http://ligaxxi.xyz/) - *Movies / TV* 
 * [Watch free](https://1watch-free.cc/) - *Movies / TV* 
 * [EMovies](https://emovies.io/) - *Movies / TV / Anime*
@@ -297,6 +297,7 @@
 * [Array Anime](https://www.arrayanime.com/) - *Sub / Dub* 
 * [Pantsubase](https://pantsubase.tv/) - *Sub / Dub* 
 * [AnimeLand](https://www.animeland.us/) - *Dub* 
+* [Animeplyx](https://animeplyx.eu/) - *Sub*
 * [Animetake](https://animetake.tv/) - *Sub* 
 * [AnimetTV](https://animet.tv/) - *Sub / Dub*
 * [AnimeVibe](https://animevibe.se/) - *Sub* 
@@ -619,6 +620,7 @@
 * [Animekayo](https://animekayo.com/) - *Sub / Dub*
 * [Soulreaperzone](https://www.soulreaperzone.com/) - *Sub / Dub*
 * [AniDL](https://anidl.org/) - *Sub / Dub*
+* [NoobSubs](https://noobsubs.com/) - *Sub / Dub / [Drive](https://noobftp1.noobsubs.com/), [2](https://noobftp2.noobsubs.com/)*
 * [AnimeLand](https://www.animeland.us/) - *Dub*
 * [AnimeSub](https://animesub.in/) - *Sub / Dub*
 * [DarkLegends](https://darklegends60mb.org/) - *Sub*
@@ -867,6 +869,7 @@ https://greasyfork.org/en/scripts/407284-imdb-scout-mod
 * [Subs4Free](https://www.subs4free.info/) - *Subtitles* 
 * [English-Subtitles](https://english-subtitles.org/) - *Subtitles* 
 * [MovieSubtitles](http://www.moviesubtitles.net/) - *Subtitles*
+* [SubtitleSeeker](https://www.subtitleseeker.in/) - *Subtitles*
 * [Subtitlist](https://subtitlist.com/) - *Subtitles* 
 * [SubtitlesHub](https://subtitleshub.net/) - *Subtitles* 
 * [English-Subtitles](https://www.english-subtitles.me/) - *Subtitles*
