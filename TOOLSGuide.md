@@ -247,6 +247,7 @@
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - *Nico Nico Video Player*
 * [polsy.org.uk](http://polsy.org.uk/) - *Alt Players for Video Sites*  
 * [ShareAE](https://www.shareae.com/), [HunterAE](https://hunterae.com/), [AEShares](https://aeshares.com/), [AEDownload](https://aedownload.com/), [AERiver](https://aeriver.com/), [CGNullded](https://cgnulled.com/), [Intro HD](https://intro-hd.net/) or [DownAE](https://downae.com/) - *After Effects Templates*
+* [FootageCrate](https://footagecrate.com/) - *Video Effects*
 * [video2x](https://github.com/k4yt3x/video2x) - *Video Upscaler*
 * [Anime4K](https://github.com/bloc97/Anime4K) - *Anime Video Upscaler* 
 * [Video Vault](https://www.bravenewtech.org/) - *Video Preservation Tool* 
