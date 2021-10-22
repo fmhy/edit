@@ -485,7 +485,7 @@
 * [HDPopcorns](https://hdpopcorns.blog/) - *Movies*
 * [FullSeasonsTv](https://fullseasonstv.com/) - *TV*
 * [MoviesWBB](http://movieswbb.com/) - *Movie / TV*
-* [KatMovieHD](https://katmoviehd.nl/) - *Movies / TV / Anime*
+* [KatMovieHD](https://katmoviehd.nl/), [2](https://kmhd.link/archives/) - *Movies / TV / Anime*
 * [TheMoviesFlix](https://themoviesflix.co.com/), [2](http://themovieflix.co.in/) - *Movies / TV / Anime*
 * [Amadei33](https://www.amadei33.com/) - *Movies / TV*  
 * [MKVBee](https://mkvbee.com/) - *Movies / TV*
