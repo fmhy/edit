@@ -246,6 +246,7 @@
 * [MobileTVShows](https://www.mobiletvshows.net/) or [TVSeries](https://www.tvseries.in/) - *TV / Anime*
 * [OnlySeries](https://onlyseries.net/) - *TV*
 * [BKWorld](https://bkworldtube.com/) - *TV*
+* [Watch-TvSeries](https://www1.watch-tvseries.net/) - *TV*
 * [MyWatchSeries](https://www5.mywatchseries.stream/) - *TV / Anime* 
 * [KissTVShow](https://kisstvshow.to/) - *Asian TV Shows / Subtitles*   
 * [turkish123](https://turkish123.com/) - *Turkish TV Shows / Subtitles* 
