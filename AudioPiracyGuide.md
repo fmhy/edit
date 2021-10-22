@@ -41,6 +41,7 @@
 * [musify](https://musify.club/) - *Browser Music*
 * [Jamendo](https://www.jamendo.com/) - *Browser Music*
 * [Kainet](https://kainet.rocks/) - *Browser Music*
+* [Mp3Deer](https://mp3deer.com/) - *Browser Music*
 * [Last.fm](https://www.last.fm/) or [Libre.fm](https://libre.fm/) - *Browser Music*
 * [Just Hear It](http://justhearit.com/hear/Iv) - *Browser Music*
 * [MP3Paw](https://mp3paw.wiki/) - *Browser Music*
@@ -243,6 +244,7 @@
 * [Music for the masses !](https://redd.it/nt7fea) - *MP3*
 * [MP4Juice](https://mp4juice.cc/) - *MP3*
 * [Cliggo](https://music.cliggo.com/) - *MP3*
+* [Mp3Deer](https://mp3deer.com/) - *MP3*
 * [Moe:81](http://miya.nipah.moe:81/public/music/) - *MP3 / FLAC*
 * [geedryve](http://jacobsm.com/geedryve/records/mp3s/) - *MP3* 
 * [Music Library](https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7) - *MP3*
