@@ -49,7 +49,7 @@
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [GParted](https://gparted.org/) - *Partition Manager*
 * [Gnome-Look](https://www.gnome-look.org/browse) or [xfce-look](https://www.xfce-look.org/)  - *Linux Themes*
-* [Ricepedia](https://rizonrice.club/Main_Page) - *Linux Customization / Configuration Index*
+* [Ricepedia](https://rizonrice.club/Main_Page) or [ThatNixGuy Ricing](https://thatnixguy.github.io/posts/ricing/) - *Linux Ricing Tools*
 * [ricemood](https://github.com/fhadiel/ricemood) - *Fully Customizable Unix Color Schemer*
 * [HydraPaper](https://hydrapaper.gabmus.org/) - *Linux Wallpaper Manager*
 * [Polychromatic](https://polychromatic.app/) - *Linux System Light Control*
@@ -66,12 +66,14 @@
 * [syncthing](https://syncthing.net/) - *File Sync*
 * [Hexchat](https://hexchat.github.io/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/ ) - *IRC Clients*
 * [Linux-dash](https://github.com/afaqurk/linux-dash) - *Web-based System Dashboard*
-* [MagicCap](https://magiccap.me/) - *Screenshot Tool*
+* [Sharenix](https://github.com/Francesco149/sharenix) or [MagicCap](https://magiccap.me/) - *Screenshot Tool*
 * [Flowblade](https://github.com/jliljebl/flowblade) - *Video Editor*
+* [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Image Editor* 
+* [Rapid](https://damonlynch.net/rapid/) - *Quick Linux Photo Importer*
+* [Drawing](https://github.com/maoschanz/drawing) - *Drawing App*
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer) - *YouTube Linux Client / [Fork](https://github.com/trizen/pipe-viewer)* 
 * [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - *GNU / Linux Twitch Desktop Client* 
-* [Qtractor](https://qtractor.org/) - *Audio Editor*
-* [cmus](https://cmus.github.io/) - *Audio Edito*
+* [Qtractor](https://qtractor.org/) or [cmus](https://cmus.github.io/) - *Audio Editor*
 * [Ecasound](http://nosignal.fi/ecasound/) - *Multitrack Audio-Processor / Linux*
 * [Peek](https://github.com/phw/peek) - *Simple Video / GIF recorder*
 * [utils](https://github.com/Loupeznik/utils) - *Linux Utility Scripts*
@@ -187,6 +189,8 @@
 * [IINA](https://iina.io/) - *Video Player*
 * [Meeter](https://trymeeter.com/) - *Video Meeting Manager*
 * [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - *Image & Video Editor*
+* [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - *Image Editor* 
+* [ImageOptim](https://imageoptim.com/mac) - *Image Optimization*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
 * [NHCalc](https://github.com/KhaosT/nhcalc) - *Compute Image NeuralHash*
 * [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - *Convert NeuralHash for CSAM Detection to ONNX / [Collision Finder](https://github.com/anishathalye/neural-hash-collider)*
