@@ -156,6 +156,7 @@
 * [Tutorials-eu](https://freetutorials-eu.com/) - *Udemy Courses*
 * [FreeCourseWeb](http://freecourseweb.com/) - *Udemy Courses* 
 * [Udemycourses](https://udemycourses.me/) - *Udemy Courses* 
+* [FreeTutorialsHub](https://www.freetutorialshub.com/) - *Udemy Courses*
 * [FreeCourseUdemy](https://freecourseudemy.com/) - *Udemy Courses*  
 * [FtuUdemy]( https://www.ftuudemy.com/) - *Udemy Courses* 
 * [CourseForFree](https://courseforfree.com/) - *Udemy Courses*  
