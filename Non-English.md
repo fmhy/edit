@@ -333,6 +333,7 @@
 
 ## ▷ Downloading 
 
+* [Openos](http://www.openos.at/) - *Linux Distros*
 * [Crawli](https://crawli.net/) - *Download Search* 
 * [Bestoflinks](http://bestoflinks.synology.me/) - *Warez / List*
 * [ArchivX](https://www.archivx.to/) - *Warez / List* 
@@ -370,6 +371,7 @@
 * [Kinox](https://www2.kinox.to/) - *Movies / TV*
 * [KinoX](https://www.kinox.sx/) - *Movies / TV*
 * [BS.TO](https://www.bs.to/) - *TV / Anime*
+* [StreamCloud](https://www1.streamcloud.club/) - *Movies / TV*
 * [MovieTown](https://movietown.org/) - *Movies / TV*
 * [KinoZ](https://kinoz.to/) - *Movies / TV / Anime / NSFW* 
 * [S.TO](https://s.to/) - *TV / Anime* 
@@ -1210,7 +1212,7 @@
 
 # ► Spanish
 
-* [Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/), [2](https://gitlab.com/listados/awesome-telegram) - *Spanish Telegram Channel Index*
+* **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - *Spanish Telegram Channel Index*
 * [jogos10](http://www.jogos10.com/) or [Minijuegos](https://www.minijuegos.com/) - *Browser Games*
 * [elblogdelnarco](https://elblogdelnarco.com/) - *Drug Trafficking News*
 * [Catflix](https://www.championcat.cl/catflix/) - *Cats!*
