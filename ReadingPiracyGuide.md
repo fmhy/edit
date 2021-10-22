@@ -55,7 +55,7 @@
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "Books / Comics / Magazines"*
 * **[Mobilism](https://forum.mobilism.org)** - *Books / Audiobooks / Magazines / Newspapers / Comics / [Android](https://forum.mobilism.org/app/)*
 * **[Calibre](https://calibre-ebook.com/)** - *E-Book Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools)*
-* **[Library Genesis](https://libgen.fun/)** - *Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools)*
+* **[Library Genesis](https://libgen.fun/)** - *Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools)*
 * **[Z-Library](https://z-lib.org/)** - *Books / Comics / Educational / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_tools)*
 * **[eBookHunter](https://ebook-hunter.org/)** - *Books / Comics*
 * **[ebook3000](http://www.ebook3000.com/)** - *Books / Audiobooks / Comics / Magazines / Newspapers*
