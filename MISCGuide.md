@@ -217,6 +217,7 @@
 * [KongouCheats](https://kongoucheats.com/) - *Watch Random Memes / Videos* 
 * [Funnyjunk](https://funnyjunk.com//), [iFunny](https://ifunny.co/) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Videos, Memes & GIFs / Some NSFW*
 * [SakugaBooru](https://www.sakugabooru.com/) - *Image Booru*
+* [IndieGameBooru](https://indiegame.booru.org/) - *Indie Game Image Booru*
 * [Random Screenshot](https://randomscreenshot.com/) or [Random Prnt.sc](https://chrishannah.me/prntsc/) - *Random Screenshots*
 * [Kamogo](https://www.kamogo.com/faq/) - *Useless Web Apps*
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - *Turn Screen into Strobe / Mood Light*
@@ -514,6 +515,7 @@
 * [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) - *Fitness / Nutrition Info* 
 * [The Fitness Wiki](https://thefitness.wiki/) - *Fitness Information Wiki*
 * [paulogentil](https://paulogentil.com/pdf/?ND) - *Fitness Books*
+* [Google Fit](https://www.google.com/fit/) - *Activity Coach*
 * [/u/KNightNox Diagram](https://i.imgur.com/ipBxg5p.jpg) - *Zoomable Exercise Diagram*
 * [fastnfitness](https://github.com/brodeurlv/fastnfitness) - *Track Your Exercise Progress*
 * [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) - *Exercise & Activity Tracker*
@@ -563,7 +565,7 @@
 # ► Maps
 
 * **[Satellite / Street View Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_satellite_.26amp.3B_street_view_maps)**
-* **[OpenStreetMap](https://www.openstreetmap.org/)** - *Street Map* 
+* **[OpenStreetMap](https://www.openstreetmap.org/)**, [KartaView](https://kartaview.org/landing), [MapMania](https://www.mapmania.info/) or [Mapillary](https://www.mapillary.com/) - *Street View Maps* 
 * [Atlas Obscura](https://www.atlasobscura.com/) - *Travel Guidebook / Maps*
 * [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - *Earth Viewer*
 * [Snazzy Maps](https://snazzymaps.com/) - *Google Maps Themes*
@@ -575,12 +577,11 @@
 * [American Panorama](https://dsl.richmond.edu/panorama/) - *Interactive US Historical Maps*
 * [Native-Land.ca](https://native-land.ca/) - *Indigenous Territory Map*
 * [Map Crunch](https://www.mapcrunch.com/) or [RandomStreetView](https://randomstreetview.com/) - *Random Street View*
-* [KartaView](https://kartaview.org/landing) or [Mapillary](https://www.mapillary.com/) - *Street View Map* 
 * [1940's.nyc](https://1940s.nyc/) - *Explore 1940's New York* 
 * [Snap Map](https://map.snapchat.com/) - *Snap Chat Map*
 * [Flickr Map](https://www.flickr.com/map/) - *Flickr Map*
 * [U Meet Me Here!](https://www.umeetmehere.com/) - *Find Closest Point Between Two Locations*
-* [Maps We Love](https://www.esri.com/en-us/maps-we-love/gallery), [CoolMaps](https://coolmaps.esri.com/#0) or [/r/MapPorn](https://reddit.com/r/MapPorn) - *Multiple Maps* 
+* [Maps We Love](https://www.esri.com/en-us/maps-we-love/gallery), [CoolMaps](https://coolmaps.esri.com/#0), [SoGeografia](https://www.sogeografia.com.br/Mapas/) or [/r/MapPorn](https://reddit.com/r/MapPorn) - *Multiple Maps* 
 * [Human Terrain](https://pudding.cool/2018/10/city_3d/) - *Human Population Map*
 * [Flags of the World](https://i.redd.it/lxtu47hf5ll51.jpg) - *Worldwide Flag Map*
 * [US & CA License Plates](https://i.redd.it/ue2r7cdb2s861.png) - *US & CA License Map*
@@ -600,6 +601,8 @@
 * [City Roads](https://anvaka.github.io/city-roads/) - *Draw City Roads*
 * [Mobac](https://mobac.sourceforge.io/) - *Mobile Atlas Creator*
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - *Globe of Ancient Earth*
+* [EuraAtlas](https://euratlas.com/),  [GeoGarage](http://rumsey.geogarage.com/index.html) or [Digital Collection Maps](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division) - *Historical Maps*
+* [Geacron](http://geacron.com/) - *World History Timeline Map*
 * [Ancestry Images](http://www.ancestryimages.com/) - *Historical Photo & Map Archive*
 * [Gas Price Map](https://www.gasbuddy.com/gaspricemap) - *US Gas Price Map*
 * [Falling Fruit](https://fallingfruit.org/) - *Urban Harvesting Map*
@@ -632,7 +635,7 @@
 # ►  Fonts
 
 * **[How to Download Fonts](https://redd.it/8tqfg6)**
-* [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [Font Generator](https://www.toulr.com/other-tools/font-generator), [DiscordFonts](https://lingojam.com/DiscordFonts), [MessLetters](https://www.messletters.com/), [TextFancy](https://textfancy.com/) or [fSymbols](https://fsymbols.com/generators/) - *Font Generator*
+* [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [Getfancy](https://getfancy.io/), [Font Generator](https://www.toulr.com/other-tools/font-generator), [DiscordFonts](https://lingojam.com/DiscordFonts), [MessLetters](https://www.messletters.com/), [letrasdiferentes](https://letrasdiferentes.com.br/), [TextFancy](https://textfancy.com/) or [fSymbols](https://fsymbols.com/generators/) - *Font Generator*
 * [DaFont](https://www.dafont.com/)
 * [graphicex](https://graphicex.com/font/)
 * [FontSpace](https://www.fontspace.com/)
@@ -641,6 +644,7 @@
 * [Dafont Free](https://www.dafontfree.net/) 
 * [NetFontes](https://www.netfontes.com.br/)
 * [Windows Fonts](https://wfonts.com/)
+* [DotColon](http://dotcolon.net/)
 * [FONToMASS](https://m.vk.com/topic-178186634_39300099?offset=0)
 * [Font Squirrel](https://www.fontsquirrel.com/)
 * [Free Fonts Family](https://freefontsfamily.com/)
@@ -655,6 +659,22 @@
 * [FreeFontss](https://t.me/freefontss) 
 * [Cufon Fonts](https://www.cufonfonts.com/)
 * [FontsArena](https://fontsarena.com/)
+* [fonteseletras](https://www.fonteseletras.com/)
+* [LostType](http://www.losttype.com/) 
+* [UrbanFonts](https://www.urbanfonts.com/) 
+* [AbstractFonts](https://www.abstractfonts.com/)
+* [FontCubes](http://www.fontcubes.com/) 
+* [FontCab](http://www.fontcab.com/) 
+* [Dribbble](https://dribbble.com/search/free%20font) 
+* [Fonts2u](https://fonts2u.com/) 
+* [KevinandAmanda](https://www.kevinandamanda.com/lifestyle/crafts-projects/free-fonts/)
+* [GlukFonts](http://www.glukfonts.pl/fonts.php)
+* [Iconian](http://www.iconian.com/) 
+* [TypeType](https://typetype.org/freefonts/) 
+* [BonusTutorials](https://bonstutoriais.com.br/category/fontes-gratis/) 
+* [Awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/)
+* [FontFabric](https://www.fontfabric.com/fonts/) 
+* [MaisFontes](https://en.maisfontes.com/) 
 * [BestFonts](https://bestfonts.pro/) 
 * [13000 Fonts](https://drive.google.com/file/d/0B7ONEAEXwPaqc2g4UEdzbmZETG8/edit?resourcekey=0-Yk36oMN7u93Pst1xn5_z8A) 
 * [10k Font Collection](https://drive.google.com/file/d/1YJiuTFPXGyz7WLw_lq08EXgdibZJu7E8/view)
@@ -730,6 +750,7 @@
 * [Grammarly](https://www.grammarly.com/) - *Grammar Checker / [Free Premium](https://redd.it/kfncju)*
 * [Mouse Gestures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mouse_gestures) - *Control Browser via Gestures*
 * [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/), [2](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - *Merges a Sites "Next" Pages*
+* [Redirector](https://einaregilsson.com/redirector/) - *Page Redirector*
 * [Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - *Download Manager Extensions*
 * [Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - *Video Download Managers*
 * [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - *Play Videos in Theater Mode*
