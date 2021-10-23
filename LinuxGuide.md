@@ -174,6 +174,7 @@
 * [The Unarchiver](https://theunarchiver.com/) - *Archive / Unzip Files*
 * [Aptonic](https://aptonic.com/) - *Mac Productivity App*
 * [Drafts](https://getdrafts.com/) - *Text Editor*
+* [Stroke](https://stroke.lllllllllllllllll.com/) - *Text (You Can't Delete) Editor*
 * [PDF Expert](https://filecr.com/?s=pdf+expert) - *PDF Viewer*
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) - *Email Client*
 * [Microsoft Mac Downloads](https://macadmins.software/) - *Microsoft Office for Mac*
