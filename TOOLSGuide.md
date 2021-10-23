@@ -626,7 +626,7 @@ General Reading Sites*
 * [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8), [2](https://cse.google.com/cse?cx=73948689c2c206528) - *Search Android APK Sites*
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - *Search Pastebins*
 * [Search All](https://www.searchall.net/) or [AIO Search](https://www.aiosearch.com/) - *Multi Site Search*
-* [Flowers Rom CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac ) - *Multi-Site Rom Search*
+* [Rom CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac ) - *Multi-Site Rom Search*
 * [SearchEnginesIndex](https://www.searchenginesindex.com/), [Fagan Finder](https://www.faganfinder.com/), [DirectSearch.Net](http://www.directsearch.net/) or [Search Engine Colossus](https://www.searchenginecolossus.com/) - *Search Engine Directory*
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - *DuckDuckGo !bang Meta Serarch / [GitHub](https://github.com/MoserMichael/duckduckbang)*
 * [Soovle](https://soovle.com/) or [Keyword Tool](https://keywordtool.io/) - *Popular Keyword Generator*
