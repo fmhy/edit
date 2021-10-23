@@ -37,7 +37,7 @@
 * [Guardian Project](https://guardianproject.info/) / [2](https://guardianproject.info/fdroid/repo), [Divestos Apps](https://divestos.org/index.php?page=recommended_apps), [CookieJarApps](https://cookiejarapps.com/) or [InviZible](https://github.com/Gedsh/InviZible) - *Privacy Based Apps / Tools* 
 * [SelfPrivacy](https://selfprivacy.org/) - *Self-Hosted Privacy Based Services*
 * [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [Aegis](https://getaegis.app/) or [andOTP](https://github.com/andOTP/andOTP) - *Two-factor authentication* 
-* [Divestos](https://divestos.org/) - *Privacy Based OS*
+* [Divestos](https://divestos.org/) or [CalyXOS](https://calyxos.org/) - *Privacy Based OS*
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - *App Isolation* 
 * [UntrackMe](https://fedilab.app/wiki/untrackme/) - *Frontend Redirect / Link Unshorten / URL Cleanup*
 * [Stealth](https://gitlab.com/cosmosapps/stealth) - *Privacy-Based Reddit Frontend*
@@ -114,6 +114,7 @@
 # ► Android Tools
 
 * **[Custom Android Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_operating_systems)**
+* **[Scars Android Debloat Guide](https://rentry.co/debloatandroid)** or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - *Android Debloating Guide*
 * **[Browsers Wiki](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers), [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi](https://kiwibrowser.com/), [Via](https://play.google.com/store/apps/details?id=mark.via.gp), [Lynket](https://github.com/arunkumar9t2/lynket-browser) or [Lightning](https://github.com/anthonycr/Lightning-Browser) - *Android Web Browsers* 
 * **[Aliucord](https://github.com/Aliucord/Aliucord)** - *Modded Discord Client* 
 * **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Mobile Wallpaper Sites & Apps*
@@ -135,7 +136,7 @@
 * [Amazing Temp Root](https://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - *MediaTek Temp Root*
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) - *Debloat non-rooted Androids*
 * [FDE.AI](https://github.com/feravolt/FDE.AI-docs) - *Android Performance Enhancements*
-* [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - *Android Debloating Guide*
+* [DarQ](https://www.apkmirror.com/apk/mighty-quinn-apps/darq/) - *Universal Dark Mode*
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - *Android Cleanup Tool*
 * [Water Resistance Tester](https://play.google.com/store/apps/details?id=com.ray.waterresistancetester) - *Test Phones Water Resistance*
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - *Ringtones Directory*
@@ -151,6 +152,7 @@
 * [Fing](https://www.fing.com/products/fing-app) - *Network Toolkit* 
 * [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage) - *Disk Usage Analyzer*
 * [Caffeine](https://lab.zhs.moe/caffeine/) - *Keep Screen On*
+* [AlmightyVolumeKeys](https://play.google.com/store/apps/details?id=com.masel.almightyvolumekeys) - *Remap Volume Keys*
 * [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - *Text Font Generator*
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) or [SimplyTranslate Flutter](https://github.com/ManeraKai/simplytranslate-flutter-client) - *Translator*
 * [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) - *Custom Notifications*
@@ -210,8 +212,7 @@
 * [Red Moon](https://github.com/LibreShift/red-moon) - *Screen Filter*
 * [RClone](https://github.com/x0b/rcx) - *Multi-Site Cloud Storage File Manager*
 * [Omega Launcher](https://github.com/otakuhqz/omega), [Unlauncher](https://github.com/jkuester/unlauncher) or [Ratio](https://blloc.com/) - *App Launcher* 
-* [App Manager](https://muntashirakon.github.io/AppManager/), [2](https://github.com/MuntashirAkon/AppManager) - *Manage Apps*
-App Manager 
+* [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) - *App Managers*
 * [iFont](https://play.google.com/store/apps/details?id=com.kapp.ifont) - *Android Font Installer*
 * [Eruda](https://pastebin.com/7qSZXjDS) - *Console for mobile browsers / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [Github](https://github.com/liriliri/eruda)* 
 * [Termux](https://termux.com/) - *Terminal Emulator / Linux Environment* 
@@ -233,6 +234,7 @@ App Manager
 * [Forest](https://forestapp.cc/) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - *Productivity Booster*
 * [AnyTracker](https://sites.google.com/view/anytracker), [2](https://anytracker.org/) - *Track Anything*
 * [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - *Food Product Ingredient Scanner*
+* [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html) - *Scan & Digitize Documents*
 * [Language Drops](https://languagedrops.com/) or [10,000 Sentences](https://github.com/tkrajina/10000sentences) - *Language Learning App / [Premium](https://forum.mobilism.org/search.php?keywords=drops&sr=topics&sf=titleonly)*
 * [Manji](https://github.com/Livinglist/Manji) - *Language Learning / Japanese / Kanji*  
 * [IRuin](https://iriun.com/), [Reincubate Camo](https://reincubate.com/camo/) or [Dev47Apps](https://www.dev47apps.com/) - *Use Android as Webcam* 
@@ -252,7 +254,7 @@ App Manager
 * [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) - *Extract OTP Tokens*
 * [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid) - *File Hash Calculator*
 * [SmartPack-Kernel-Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager) - *Kernel Manager*
-* [Swappa](https://swappa.com/imei) - *IMEI, MEID, ESN Checker*
+* [Swappa](https://swappa.com/imei) or [SickW](https://www.sickw.com/) - *IMEI, MEID, ESN Checker*
 * [SWAP](https://forum.mobilism.org/search.php?keywords=swap+no+root&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - *Create SWAP file without Root*
 
 ***
@@ -416,6 +418,7 @@ App Manager
 * **[AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly)** - *Download / MP3 / FLAC* 
 * [YouTube Music Vanced](https://vancedapp.com/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [Ylight Music](https://apt.izzysoft.de/fdroid/repo/com.ylightmusic.app/), [HoloPlay](https://holoplay.io/) or [YMusic](https://ymusic.io/) - *YouTube Music Player*
 * [Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players) - *Music Players / Libraries*
+* [Finamp](https://github.com/UnicornsOnLSD/finamp) - *Jellyfin Music Player*
 * [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - *Subsonic Client*
 * [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - *Streaming*
 * [Deezloader Android](https://t.me/deezloaderremixmobile) - *Download / MP3  / FLAC + [Non Telegram DL](https://redd.it/d3i9fr)* 
@@ -435,6 +438,7 @@ App Manager
 * [AudioSwitch](https://play.google.com/store/apps/details?id=com.nordskog.LesserAudioSwitch) - *Switch Audio to Different Outputs Lesser*
 * [Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler) - *Android Scrobbler*
 * [MP3 Tagger](https://play.google.com/store/apps/details?id=com.fillobotto.mp3tagger) - *Automatic Audio ID3 Tagging*
+* [Voleq](https://play.google.com/store/apps/details?id=com.veryclevernamecompany.voleq) - *Volume Equalizer*
 
 ***
 
@@ -713,7 +717,7 @@ RSS Player*
 * [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id375589283) - *Delivery Tracker*
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - *Connect Mac Keyboard to Mobile Devices*
 * [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - *Control Android TV Box with iPhone*
-* [Swappa](https://swappa.com/imei) - *IMEI, MEID, ESN Checker*
+* [Swappa](https://swappa.com/imei) or [SickW](https://www.sickw.com/) - *IMEI, MEID, ESN Checker*
 * [FutureStore](https://github.com/tihmstar/futurerestore) - *SEC & Baseband Restoring Wrapper*
 * [Mildred](https://apps.apple.com/us/app/mildred/id1522800022) - *Docker Client*
 
