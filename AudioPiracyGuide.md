@@ -245,6 +245,7 @@
 * [Music for the masses !](https://redd.it/nt7fea) - *MP3*
 * [MP4Juice](https://mp4juice.cc/) - *MP3*
 * [Cliggo](https://music.cliggo.com/) - *MP3*
+* [Freemp3cloud](https://freemp3cloud.com/en/) - *MP3*
 * [Mp3Deer](https://mp3deer.com/) - *MP3*
 * [Moe:81](http://miya.nipah.moe:81/public/music/) - *MP3 / FLAC*
 * [geedryve](http://jacobsm.com/geedryve/records/mp3s/) - *MP3* 
