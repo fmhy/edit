@@ -57,6 +57,7 @@
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) - *Noise Cancellation Software*
 * [Luakit](https://luakit.github.io/) - *Lightweight Linux Browser* 
 * [Librewolf Linux](https://librewolf-community.gitlab.io/) or [Dot Browser](https://github.com/dothq/browser) - *Privacy-Based Browser*
+* [p7zip](http://p7zip.sourceforge.net/) - *File Archiver / Unzipper*
 * [Curlew](https://curlew.sourceforge.io/) - *Linux File Converter*
 * [Dolphin](https://userbase.kde.org/Dolphin) or [ranger](https://github.com/ranger/ranger) - *File Manager*
 * [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) - *Google Drive Downloader*
@@ -169,8 +170,11 @@
 * [ss64 OSX](https://ss64.com/osx/) - *macOS Bash Commands*
 * [Alfred](https://www.alfredapp.com/) - *Keystroke Launcher* 
 * [alt-tab-macos](https://alt-tab-macos.netlify.app/) - *Alt-Tab for Mac*
+* [Dropzone](https://filecr.com/?s=dropzone) - *File Manger*
+* [The Unarchiver](https://theunarchiver.com/) - *Archive / Unzip Files*
 * [Aptonic](https://aptonic.com/) - *Mac Productivity App*
 * [Drafts](https://getdrafts.com/) - *Text Editor*
+* [PDF Expert](https://filecr.com/?s=pdf+expert) - *PDF Viewer*
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) - *Email Client*
 * [Microsoft Mac Downloads](https://macadmins.software/) - *Microsoft Office for Mac*
 * [Winfield](http://www.winfield.demon.nl/) - *MS Word for Linux / OS X* 
@@ -230,6 +234,8 @@
 * [AppsTorrent](https://appstorrent.ru/) 
 * [NXMac](https://nxmac.com/)
 * [Mac-Torrents.io](https://mac-torrents.io/)
+* [Pure Mac](https://www.pure-mac.com/ ) 
+* [Macupdate](https://www.macupdate.com/) 
 * [Mac Torrents](https://www.torrentmac.net/) 
 * [MacTorrents](https://mactorrents.io/) 
 * [Download-Mac-Torrent](http://www.download-mac-torrent.ru/) 
