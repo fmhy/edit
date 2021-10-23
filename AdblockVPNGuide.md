@@ -27,13 +27,12 @@
 * **[SponsorBlock](https://sponsor.ajay.app/)** - *Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)*
 * **[Adguard Browser Extension](https://github.com/AdguardTeam/AdguardBrowserExtension#installation)** - *Adblocker / [Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt)*
 * **[uMatrix](https://github.com/gorhill/uMatrix#umatrix)**, [NoScript](https://noscript.net/) or [ScriptSafe](https://www.andryou.com/scriptsafe) - *Blocks Malicious Scripts*
-* **[Popup Blocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - *Blocks Malicious Popups & Tabs*
+* **[Popup Blocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)**, [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - *Blocks Malicious Popups & Tabs*
 * **[OpenVideo](https://openvideofs.github.io)** - *Plays Videos in Ad-Free Player*
 * **[Fakespot](https://www.fakespot.com/)** - *Identifies Fake Reviews & Counterfeits*
 * [Facebook Hide Ads](https://greasyfork.org/en/scripts/404309-facebook-hide-ads-a-k-a-sponsored-posts) - *Remove Sponsored Posts from Facebook* 
 * [LinkedIn Unsponsored](https://greasyfork.org/en/scripts/379003-linkedin-unsponsored) - *Remove Sponsored Posts from LinkedIn* 
 * [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay), [f *ck overlays](https://chrome.google.com/webstore/detail/fck-overlays/ppedokobpbdajgiejhnjfbdjlgobcpkp/related) or [Behind The Overlay Revival](https://addons.mozilla.org/en-US/firefox/addon/behind-the-overlay-revival/) - *Hide Website Overlays* 
-* [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) - *Overlay / Popup Blocker* 
 * [Don't Touch My Tabs!](https://addons.mozilla.org/en-US/firefox/user/12781645/) - *Prevent hyperlinks from controlling other window objects* 
 
 ***
