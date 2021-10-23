@@ -514,6 +514,7 @@ Add "huhu.to", "bs.to" or "oha.to"*
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - *Chinese Drama* 
 * [Drama Cool](https://play.google.com/store/apps/details?id=com.dramaline) - *Asian Drama*
 * [aDrama](https://adrama.online/) - *Asian Drama / [Addons](https://forum.mobilism.org/search.php?keywords=adrama&sr=topics&sf=titleonly)*
+* [Amnis](https://play.google.com/store/apps/details?id=com.amnis) - *Stream Videos from Torrents*
 * [RSS Player](https://play.google.com/store/apps/details?id=pis.android.rss.rssplayer&amp;hl=en_US) - *KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)
 RSS Player*
 * [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [YetAnotherVideoPlayer](https://github.com/shadow578/YetAnotherVideoPlayer) or [MX Player](https://forum.mobilism.org/search.php?keywords=Mx+player&amp;terms=all&amp;author=Balatan&amp;sc=1&amp;sf=titleonly&amp;sr=topics&amp;sk=t&amp;sd=d&amp;st=0&amp;ch=300&amp;t=0&amp;submit=Search) / [Codec](https://github.com/USBhost/MX_FFmpeg) - *Video Player*
