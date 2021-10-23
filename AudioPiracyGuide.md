@@ -188,6 +188,7 @@
 * **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)*
 * **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - *Telegram audio download channels*
+* [/r/xTrill](https://reddit.com/r/xTrill) - *MP3 / FLAC / [Discord Bot](https://discord.gg/xtrill) / [Backup](https://reddit.com/r/xTrillBackup)*
 * [OFFMP3](https://offmp3.com/) or [conversormp3](https://conversormp3.com.br/) - *Video Site to MP3 Converter*
 * [SMLoadr](https://t.me/SMLoadrNews) - *FLAC / MP3 / [Desktop GUI](https://github.com/thelucifermorningstar/SMLoadr-AUX/releases)*
 * [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - *Deezer Music Download App*  
@@ -263,7 +264,6 @@
 * [DiscogC](https://www.discogc.com/) - *FLAC*
 * [LosslessAlbums](https://losslessalbums.club/) - *FLAC*
 * [ubdn](http://ubdn.me/) - *MP3 / FLAC* 
-* [/r/xTrill](https://reddit.com/r/xTrill) - *MP3 / FLAC / [Discord](https://discord.gg/xtrill) / [Backup](https://reddit.com/r/xTrillBackup)*
 * [IntMusic](https://intmusic.net/) - *MP3 / FLAC*  
 * [Mp3Flac](https://mp3flac.site/) - *MP3 / FLAC*
 * [Gangster](https://gangster.su/) - *MP3 / FLAC*  
@@ -297,6 +297,7 @@
 * [EDMWaves](https://edmwaves.org/) - *Electronic / MP3*
 * [MusicFans](https://musicfans.space/) - *Electronic / MP3*
 * [ElectronicFresh](http://electronicfresh.com/) - *Electronic / MP3*
+* [InEvil](https://www.inevil.com/) - *Electronic / MP3*
 * [DQQD](https://dqqd.org/) - *Electronic / MP3 / FLAC*
 * [1Trance](https://1trance.org/) - *Trance / MP3*
 * [1Techno](https://1techno.org/) - *Techno / MP3*
@@ -318,6 +319,7 @@
 * [Sitting On Clouds](https://www.sittingonclouds.com/) - *Game / Animation Soundtracks* 
 * [AniPlaylist](https://aniplaylist.com/), [YumeOST](https://www.yumeost.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - *Anime Soundtracks* 
 * [OtakuOst](https://otakuost.net/) - *Anime Soundtracks & Japanese Music* 
+* [Kiddie Records](http://www.kiddierecords.com/) - *Classic Children's Records*
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- *MIDI Files* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
 * [Free Music Archive](https://www.freemusicarchive.org/), [BenSound](https://www.bensound.com/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
