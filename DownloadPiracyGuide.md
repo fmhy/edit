@@ -204,6 +204,7 @@
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - *Professional Video, Audio & Adobe Software / Plugins*
 * [WLSetup-All](https://archive.org/details/wlsetup-all_201802) - *Windows Live Essentials 2012 Archive*
 * [GenP](https://www.reddit.com/r/GenP) - *Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)*
+* [Adobe CC](https://docs.google.com/document/d/1_Me1TQzXqCYASls7P5Zt5mASNsPamyNVnZfu48t_5Yw/) - *Adobe Creative Cloud Piracy Guide*
 
 ***
 
@@ -222,6 +223,7 @@
 * [Open Source Libs](https://opensourcelibs.com/) - *Open Source*
 * [Simple Tools](https://simpletools.info/doku.php) - *Open Source* 
 * [FreshCode](https://freshcode.club/) - *Open Source* 
+* [Realityripple](https://realityripple.com/) - *Open Source*
 * [Softpedia](https://www.softpedia.com/) - *Software* 
 * [Enderman's Website](https://malwat.ch/software) - *Software* 
 * [Software Informer](https://software.informer.com/) - *Software* 
@@ -245,14 +247,11 @@
 * [RaymondFreeSoftware](https://t.me/raymondfreesoftware) - *telegram*
 * [Suckless](https://suckless.org/) - *Simple Software Archive* 
 * [MSDN](https://the-eye.eu/public/MSDN/) - *Microsoft Developer Network Software* 
-* [Giveaway Radar](https://giveawayradar.weebly.com/) - *Software Giveaways*
-* [Tick Coupon](https://giveaway.tickcoupon.com/windows-giveaway/) - *Software Giveaways*
-* [Techno360](https://www.techno360.in/category/free-stuff/) - *Software Giveaways*
-* [Net-Load](https://net-load.com/) - *Software Giveaways*
 * [WinWorldPC](https://winworldpc.com/) - *Abandonware / Operating Systems* 
 * [VETUSWARE](https://vetusware.com/) - *Abandonware / Operating Systems / Games*
 * [The Vintage Software Collection](https://archive.org/details/vintagesoftware) - *Vintage Software*
 * [Portapps](https://portapps.io/), [FC Portables](https://www.fcportables.com/), [Portable Freeware](https://www.portablefreeware.com/), [TheHouseOfPortable](https://thehouseofportable.com/), [freeportablesoftwares](https://sites.google.com/site/freeportablesoftwares/) or [PortableApps](https://portableapps.com/) - *Portable Apps for USB / SD / External Storage*
+* [Software Giveaway Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) 
 
 ***
 
