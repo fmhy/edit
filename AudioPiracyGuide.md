@@ -138,6 +138,7 @@
 * **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_relaxation) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_relaxation)** - *Ambient* 
 * [lofi.cafe](https://lofi.cafe/) - *Lo-fi Radio*
 * [Focusli](https://www.focusli.com/) - *Lo-fi Radio*
+* [Chillhop](https://chillhop.com/) - *Lo-fi Radio*
 * [Viberoom](https://viberoom.audio/) - *Lo-fi Hip-Hop Radio*
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - *Create Room / Lo-Fi Player*
 * [Music For Programming](http://musicforprogramming.net/) - *Music for Focus* 
@@ -245,6 +246,7 @@
 * [Music for the masses !](https://redd.it/nt7fea) - *MP3*
 * [MP4Juice](https://mp4juice.cc/) - *MP3*
 * [Cliggo](https://music.cliggo.com/) - *MP3*
+* [RabbitMP3](https://www.rabbitmp3.com/) - *MP3*
 * [Freemp3cloud](https://freemp3cloud.com/en/) - *MP3*
 * [Mp3Deer](https://mp3deer.com/) - *MP3*
 * [Moe:81](http://miya.nipah.moe:81/public/music/) - *MP3 / FLAC*
