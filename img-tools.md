@@ -11,9 +11,8 @@
 
 # ► Image Editing
 
+* **[Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_editing)** - *Image Editing Software & Sites*
 * **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - *Download GFX Design Software*
-* **[Image Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_editing_software)** - *Image Editing Programs*
-* **[Online Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_online_photo_editors)** - *Image Editing Sites*
 * **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/) - *Design Tool Resource Indexes*   
 * **[PhotoMosh](https://photomosh.com/)**, [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - *Glitch Images*
 * [1TB Art Courses](https://pastebin.com/hKgJG2Vz) - *Art Courses*
@@ -296,7 +295,7 @@
 * [KSnip](https://github.com/ksnip/ksnip)
 * [LightShot](https://app.prntscr.com/en/index.html)
 * [Nimbus Capture](https://nimbusweb.me/screenshot.php) 
-* [Screenshot Guru](https://screenshot.guru/) - *Online Site Screenshots* 
+* [Screenshot Guru](https://screenshot.guru/) or [Site-Shot](https://www.site-shot.com/) - *Online Screenshot Tool* 
 * [puush](https://puush.me/) - *Easily Share Screenshots*
 * [Screenshot Tutorial](https://www.take-a-screenshot.org/) - *Multi Platform Screenshot Guides* 
 
