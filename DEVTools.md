@@ -263,7 +263,7 @@
 
 ## ▷ Software Development
 
-* [Electron](https://www.electronjs.org/) - *Desktop App Builder / [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0)*
+* [Electron](https://www.electronjs.org/) - *Desktop App Builder / [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://electron-app-store.ml/) / [Debugger](https://www.electronjs.org/apps/debugtron)*
 * [Servo](https://servo.org/) - *Experimental Browser Engine*
 * [Gummy](https://gummyjs.vercel.app/) - *Easily Build Javascript Programs* 
 * [GNUnet](https://gnunet.org/en/) - *Software Framework* 
@@ -292,7 +292,6 @@
 * [Python to APK](https://github.com/Spidy20/Python_To_APK) - *Convert Python Code to APK*
 * [GoNative](https://gonative.io/) - *Convert Websites to Mobile Apps*
 * [Shizuku](https://shizuku.rikka.app/) - *Connect Apps to APIs*
-* [Debugtron](https://www.electronjs.org/apps/debugtron) - *Electron App Debugger*
 * [MobileApp-Pentest-Cheatsheet](https://github.com/fuzz-security/MobileApp-Pentest-Cheatsheet) - *Mobile App Penetration Test Index*
 * [Uiautomator2](https://github.com/openatx/uiautomator2) - *Automated App Testing*
 * [PM2](https://pm2.keymetrics.io/) - *Process Manager*
