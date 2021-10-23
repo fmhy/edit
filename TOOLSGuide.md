@@ -372,7 +372,7 @@
 * [Krisp](https://krisp.ai/) - *Noise Cancellation Software*
 * [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - *Voice Audio Mixer*
 * [Voice Changer](https://voicechanger.io/ or [ClownFish](https://clownfish-translator.com/voicechanger/) - *Voice Changer*
-* [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) - *Clone Human Voices*
+* [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) or [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - *Clone Voices*
 * [Sound Branch](https://soundbran.ch/) - *Create / Share / Podcasts / Voice Messages* 
 * [Gibber](https://gibber.cc/) - *Audiovisual Code Composer* 
 * [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - *Convert AAX to MP3 / FLAC / M4A / OPUS* 
@@ -956,6 +956,7 @@ General Reading Sites*
 * [myTube](https://github.com/keitharm/mytube) - *Bloat Free YouTube Client*
 * [YouTube_RSS](https://github.com/SimonDaNinja/youtube_rss) - *YouTube RSS Client*
 * [Ytfzf](https://github.com/pystardust/ytfzf) - *Watch YouTube via the Terminal* 
+* [SpeechChat](https://speechchat.com/) - *Twitch Text to Speech Client*
 * [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - *Turn YouTube Videos into GIFs* 
 * [ytcropper](https://ytcropper.com/) or [YTCutter](https://ytcutter.com/) - *YouTube Video Cropper*
 * [yt2pod](https://github.com/frou/yt2pod) - *Create Podcasts from YouTube Channels* 
@@ -1014,7 +1015,8 @@ General Reading Sites*
 * [DankChat](https://github.com/flex3r/DankChat) - *Talk in Multiple Twitch Chats at Once / Apk*
 * [Livestream Panels](https://livestreampanels.com/) - *Custom Twitch Stream Panels*
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - *Fix Twitch Aspect Ratio*
-* [Chatterino](https://chatterino.com/), [Chatsen](https://chatsen.app/) or [Chatty](https://chatty.github.io/) - *Twitch Chat Client*
+* [Chatterino](https://chatterino.com/), [Chatsen](https://chatsen.app/ or [Chatty](https://chatty.github.io/) - *Twitch Chat Client*
+* [SpeechChat](https://speechchat.com/) - *Twitch Text to Speech Client*
 * [Transparent-Twitch-Chat](https://github.com/chylex/Transparent-Twitch-Chat) - *Transparent Twitch Chat*
 * [Twitch Screen Comment Scroller](https://greasyfork.org/en/scripts/376225-twitch-screen-comment-scroller) - *Auto Scroll Twitch Comments*
 * [Points Autoclicker](https://github.com/xinitrc-dev/twitch-points-autoclicker) - *Auto Claim Twitch Points*
@@ -1199,6 +1201,7 @@ General Reading Sites*
 * [rofi](https://github.com/davatorium/rofi) - *Window Switcher & App Launcher*
 * [Clipboard Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_clipboard_managers) - *Manage Copied Text*
 * [clip](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/clip) - *Redirects Command Output from Command Line to Clipboard*
+* [Cronos](https://crono.app/) - *Desktop Mobile Notifications*
 * [Almond](https://almond.stanford.edu/) - *Virtual Assistant*
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - *Voice Assistant*
 * [Jarvis](https://acwtechnologies.co.uk/software/jarvis-lite) - *Voice Commands*
@@ -1213,7 +1216,7 @@ General Reading Sites*
 * [Win10 Widgets](https://win10widgets.com/) or [Gadgets Revived](https://gadgetsrevived.com/) - *Widgets for Windows* 
 * [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - *Windows API Tricks*
 * [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - *Windows 10 Auto Dark Mode*
-* [f.lux](https://justgetflux.com/), [LightBulb](https://github.com/Tyrrrz/LightBulb) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - *Adapts Display Color to Time of Day*
+* [f.lux](https://justgetflux.com/), [LightBulb](https://github.com/Tyrrrz/LightBulb), [Redshift](https://github.com/jonls/redshifthttp://jonls.dk/redshift/) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - *Adjust Display Color / Tempature*
 * [Twinkle Tray](https://twinkletray.com/) - *System Tray Brightness Slider*
 * [Dimmer](https://www.nelsonpires.com/software/dimmer) - *Multi-Monitor Brightness Control*
 * [ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - *Desktop Program, Video & Webpage Pins / Program Wallpapers*
@@ -1552,7 +1555,7 @@ General Reading Sites*
 * [Save Editor Online](https://www.saveeditonline.com/) - *Game Save Editor*
 * [Koalageddon](https://github.com/acidicoala/Koalageddon/) - *DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)*
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - *Controller Connectivity Testers*
-* [Aim Lab](https://aimlab.gg/), [3D Aim Trainer](https://store.steampowered.com/app/1600530/3D_Aim_Trainer/) or [AimTrainer](https://aimtrainer.io/) - *Aim Training Tools & Games*
+* [Aim Lab](https://aimlab.gg/), [AimBooster](http://www.aimbooster.com/), [3D Aim Trainer](https://store.steampowered.com/app/1600530/3D_Aim_Trainer/) or [AimTrainer](https://aimtrainer.io/) - *Aim Training Tools & Games*
 * [Skill Capped Downloader](https://ufile.io/kuthw907) - *Skill Capped Video DL Script / [Guide](https://i.imgur.com/lZofxhL.png)*
 * [MacroGamer](https://www.itoady.com/) - *Game Macro Recorder*
 * [Mon](https://github.com/dbednar230/mon) - *Command Line Pokedex*
@@ -1592,6 +1595,7 @@ General Reading Sites*
 * [DsHidMini](https://github.com/ViGEm/DsHidMini) - *Use PS3 Controllers on Windows [Guide](https://vigem.org/projects/DsHidMini/How-to-Install/)*
 * [Lowkey](https://lowkey.gg/) - *Record / Screenshot Gameplay* 
 * [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
+* [Sym.gg](https://sym.gg/) - *Battlefield Info & Weapon Stats*
 * [u.gg](https://u.gg/), [MobaFire](https://www.mobafire.com/), [ProBuilds](https://www.probuilds.net/) or [LoLalytics](https://lolalytics.com/) - *League of Legends Build Guides & Tiers*
 * [LoL Math](https://lolmath.net/) - *League of Legends Build Calculator*
 * [League of Graphs](https://www.leagueofgraphs.com/) - *Champion Rankings*
@@ -1604,7 +1608,7 @@ General Reading Sites*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
 * [GameGuides](https://www.gamerguides.com/), [Retro Game Strategy Guides](https://archive.org/details/Tekken3PrimasOfficialStrategyGuide1998), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [GamePressure](https://www.gamepressure.com/) or [Samurai Gamers](https://samurai-gamers.com/) - *Strategy Guides & Walkthroughs*
 * [Before I Play](http://www.beforeiplay.com/) - *Tips for any Game* 
-* [Sym.gg](https://sym.gg/) - *Battlefield Info & Weapon Stats*
+* [ProSettings](https://prosettings.net/) - *In-Game Settings Optimization Guides*
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) - *Game Optimization Guides*
 * [Low Specs Experience](https://ragnotechpowered.com/) - *Game Optimization Program* 
 * [Magpie](https://github.com/Blinue/Magpie) - *Enable AMD FSR on Any Game / [Tutorial](https://youtu.be/gac7llDa18k)*
@@ -1712,7 +1716,7 @@ General Reading Sites*
 * [Cod4X](https://cod4x.me/) - *CoD4 Enhancement Mod*
 * [Project Reality](https://www.realitymod.com/about) - *BF2 & ARMA 2 Realism Mod*
 * [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - *Battlefield Mod Projects*
-* [Open Carnage](https://opencarnage.net/) - *Halo Modding Forum / [Discord](https://discord.com/invite/2pf3Yjb)*
+* [Open Carnage](https://opencarnage.net/) / [Discord](https://discord.com/invite/2pf3Yjb) or [Halo Mods](https://discord.com/invite/WuurKwr)  - *Halo Modding Community*
 * [Chimps at Sea](https://chimpsatsea.com/) - *Halo Modding Tool*
 * [Flatout 2 Fan Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2414295888) - *Patch for Flatout 2*
 * [Synergy2k](https://synergy2k.net/) - *NBA 2K MyCareer Mod Tool*
@@ -1787,6 +1791,7 @@ General Reading Sites*
 * [Amidst](https://github.com/toolbox4minecraft/amidst) - *Minecraft World Overview Display Tool*
 * [The Minecraft Archive Project](http://map.crummy.com/) - *Minecraft World Archive*
 * [Amulet](https://www.amuletmc.com/) - *Minecraft Map Editor / Viewer*
+* [MineAtlas](http://mineatlas.com/) - *Minecraft Seed Map*
 * [Terra](https://github.com/PolyhedralDev/Terra) - *Minecraft World Generator*
 * [TerraForged](https://www.curseforge.com/minecraft/mc-mods/terraforged) - *Improved Biomes Mod*
 * [Biomes-O-Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) - *Extra Biomes Mod*
