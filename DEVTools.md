@@ -39,6 +39,7 @@
 * [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - *Coding Learning Resources*
 * [30 Seconds of Code](https://www.30secondsofcode.org/) - *Coding Snippets / Guides* 
 * [Tuts 4 You](https://forum.tuts4you.com/) - *Coding / Developer Tutorials*
+* [PythonTutor](https://pythontutor.com/) - *Coding Tutorials*
 * [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/) - *Cheat Sheets / Programming / Frameworks / Dev Tools*
 * [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) - *Resources For Learning To Code* 
 * [EbookFoundation Interactive Programming Tuts](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md) - *Interactive Programming Tutorials* 
@@ -183,7 +184,7 @@
 * [Responsivize](https://virejdasani.github.io/Responsivize/) - *Website Responsiveness Test*
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist*
 * [Flounder](https://flounder.online/) - *Gemini Website Builder / [GitHub](https://github.com/alexwennerberg/flounder)* 
-* [GoHugo](https://gohugo.io/ ) - *Site Creator*
+* [GoHugo](https://gohugo.io/) or [8b](https://8b.com/) - *Website Creator*
 * [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - *Webpage Editor* 
 * [Plunker](https://plnkr.co/) - *Prototype / Test Websites Ideas*
 * [Temper](https://temper.one/) - *Simple HTML Site Creator*
