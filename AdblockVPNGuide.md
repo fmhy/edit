@@ -20,7 +20,7 @@
 ## ▷ Adblocking Extensions
 
 * **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** / [Extra](https://github.com/gorhill/uBO-Extra), **[AdNauseam](https://adnauseam.io/)** or [TBlock](https://tblock.codeberg.page/) - *Adblockers / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/)*
-* **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** - *Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html)* 
+* **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** - *Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Merge Filters](https://realityripple.com/Tools/AdBlock++/)* 
 * **[Adblock Defenders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders)** - *Prevent Sites from Detecting Adblockers / [Test Defenders](https://blockads.fivefilters.org/)*
 * **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers)** - *Block Ads on Twitch*
 * **[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** - *Bypass Redirects*
