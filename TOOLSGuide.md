@@ -1263,7 +1263,7 @@ General Reading Sites*
 * [NVDA](https://www.nvaccess.org/download/) - *Screen Reader / [Github](https://github.com/nvaccess/nvda)* 
 * [Hosts File Editor](https://hostsfileeditor.com/) - *Windows Hosts File Editor*
 * [StreamPi](https://stream-pi.com/) or [FreeDeck](https://github.com/FreeYourStream/freedeck-hardware) - *ElGato Streamdeck Alternative*
-* [EarTrumpet](https://eartrumpet.app/) - *Improved Volume Mixer*  
+* [EarTrumpet](https://eartrumpet.app/) or [Volume2](https://github.com/irzyxa/Volume2) - *Improved Volume Mixer*  
 * [WinMute](https://github.com/lx-s/WinMute/) - *Automatically Mute PC*
 * [SuperF4](https://stefansundin.github.io/superf4/) - *Kill programs instantly with Ctrl+Alt+F4*
 * [How-To Crack Windows Passwords](https://samsclass.info/123/proj14/123p12winhash.htm) 
