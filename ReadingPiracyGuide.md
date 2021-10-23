@@ -215,6 +215,7 @@
 * [Balwin of Library](https://ufdc.ufl.edu/baldwin/all/thumbs) 
 * [Read.gov](http://www.read.gov/books/) 
 * [Classic Literature](https://classic-literature.co.uk/) 
+* [Lit2Go](https://etc.usf.edu/lit2go/)
 * [FullTextArchive](https://www.fulltextarchive.com/)
 * [Classics.mit](http://classics.mit.edu/index.html)
 * [sherlock-holm.es](https://sherlock-holm.es/) - *Complete Sherlock Holmes Canon*
@@ -313,6 +314,7 @@
 * [/r/recipes](https://reddit.com/r/recipes) - *Share recipes*
 * [/r/AskCulinary](https://reddit.com/r/AskCulinary) - *Get Cooking Advice* 
 * [/r/IndianFood](https://reddit.com/r/IndianFood) - *Indian Food Recipes / Tips*
+* [Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_recipes)
 * [Mealime](https://www.mealime.com/) - *Meal Planning App*
 * [Still Tasty](https://www.stilltasty.com/) or [EatByDate](http://www.eatbydate.com/) - *Shelf Life Guides* 
 * [Baking Calculators](https://bakingcalculators.com/) - *Measurement System Conversion Calculators*
@@ -1057,6 +1059,7 @@
 * **[MyAnimeList](https://myanimelist.net/)** - *Manga*
 * [Litsy](https://www.litsy.com/) - *Book Recommendation / Photo Sharing Community*
 * [What Should I Read Next?](https://www.whatshouldireadnext.com/), [RecommendMeABook](https://recommendmeabook.com/) or [WhichBook](https://www.whichbook.net/) - *Book Recommendations*
+* [DC Superhero Era Timeline](https://i.imgur.com/Icojkx1.jpg) / [2](https://i.imgur.com/drSEr0j.jpg)
 * [Anime-Planet](https://anime-planet.com/) - *Manga* 
 * [All Anime](https://allanime.site/) - *Manga*
 * [Manga Codex](https://mangacodex.com/) - *Manga Infographics & Sales Stats*
@@ -1072,8 +1075,9 @@
 * **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)** - *Books / Audiobooks* 
 * **[Mobilism](https://forum.mobilism.org/viewforum.php?f=20)** - *Books / Audiobooks*
 * **irc.irchighway.net/ebooks** - *eBook IRC / [Request Guide](https://i.imgur.com/GvyDh0B.png)*
-* [/r/audiobookrequest](https://reddit.com/r/audiobookrequest) - *Audiobook request Sub*
-* [Books.cat](https://books.cat/) - *Book requesting forum*
+* [AudiobookBay](http://audiobookbay.nl/forum/general-requests/) - *Audiobooks*
+* [/r/audiobookrequest](https://reddit.com/r/audiobookrequest) - *Audiobooks*
+* [Books.cat](https://books.cat/) - *Books*
 * [libgen](https://forum.mhut.org/viewtopic.php?f=17&t=6399) - *Books / [Request Form](https://libgen.life/bookreq/)*
 * [EBooksCart](https://ebookscart.com/request-books/) - *Books*
 * [pirates-forum](https://pirates-forum.org/Forum-Requests) - *Books*
