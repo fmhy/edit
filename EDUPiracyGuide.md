@@ -39,6 +39,7 @@
 * [Cursa](https://cursa.app/) - *Courses*
 * [NPTEL](https://nptel.ac.in/course.html) - *Courses*
 * [Real.Discount](https://app.real.discount/) - *Courses*
+* [Kadenze](https://www.kadenze.com/) - *Courses*
 * [LearnOutLoud](https://www.learnoutloud.com/) - *Documentaries / Courses*
 * [Class Central](https://www.classcentral.com/) - *Search for Courses*
 * [cs1000](https://cs1000.vercel.app/) - *Educational Video Playlists* 
@@ -84,6 +85,7 @@
 * [Media Burn Archive](https://mediaburn.org/)
 * [DocumentaryHeaven](https://documentaryheaven.com/)
 * [ARTE](https://www.arte.tv/)
+* [Documentary Network](https://documentary.net/) 
 * [Documentary Mania](https://www.documentarymania.com/) 
 * [PBS Frontline](https://www.pbs.org/wgbh/frontline/films/)
 * [ThoughtMaybe](https://thoughtmaybe.com/) 
