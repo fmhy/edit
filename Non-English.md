@@ -595,6 +595,7 @@
 ## ▷ Torrenting
 
 * [Beatrice](https://beatrice-raws.org/) - *Anime*
+* [Anime-Torrent](https://www.anime-torrent.com/) - *Anime*
 
 ## ▷ Streaming
 
@@ -964,6 +965,16 @@
 * [PrimeCursos](https://www.primecursos.com.br/) - *Courses*
 * [uniasselvi](https://portal.uniasselvi.com.br/cursolivre) - *Courses*
 * [canaldoensino](https://canaldoensino.com.br/blog/) - *Courses*
+* [Academy.omie](https://academy.omie.com.br/) - *Courses*
+* [moocs.ggte](https://moocs.ggte.unicamp.br/) - *Courses*
+* [pensarcursos](https://www.pensarcursos.com.br/) - *Courses*
+* [iestudar](https://iestudar.com/) - *Courses*
+* [openuped](https://www.openuped.eu/courses) - *Courses*
+* [escolavirtual](https://www.escolavirtual.gov.br/catalogo) - *Courses*
+* [EV](https://www.ev.org.br/) - *Courses*
+* [veduca](https://veduca.org/gratuitos/) - *Courses*
+* [unasus](https://www.unasus.gov.br/cursos/busca) - *Courses*
+* [DigitalInnovations](https://digitalinnovation.one/) - *Development Courses*
 * [inglesgratuito](https://www.inglesgratuito.com.br/) - *Portuguese English Learning Courses*
 * [PalcoMP3](https://www.palcomp3.com.br/) - *Music*
 * [RadioJHero](https://radiojhero.com/) - *Radio*
@@ -990,6 +1001,7 @@
 
 * [LiverosNarrados](https://livrosnarrados.blogspot.com/) - *Audiobooks*
 * [Tudo De Bom em Audiolivros](https://tudodebomemaudiobooks.blogspot.com/) - *Audiobooks*
+* [universidadefalada](https://www.universidadefalada.com.br/audiolivros-gratis-audio-livro-gratuito.html) - *Audiobooks*
 * [Le Livros](https://lelivros.love/) - *Books* 
 * [Biblioteca Brasiliana](https://digital.bbm.usp.br/) - *Books*
 * [baixelivros](https://www.baixelivros.com.br/) - *Books*
@@ -999,6 +1011,8 @@
 * [OnlineCursoGatuitos](https://onlinecursosgratuitos.com/) - *Books*
 * [SuporteNinja](https://suporteninja.com/download/) - *Books*
 * [culturaacademica](https://www.culturaacademica.com.br/) - *Educational Books*
+* [ArteHQs](http://www.artehqs.com.br/) - *Comics*
+* [TropaBRScans](https://tropabrscans.blogspot.com/) - *Comics*
 * [MegaMeeya](https://megameeya.wordpress.com/) - *Manga*
 * [MangaOn](https://mangaon.site/) - *Manga*
 * [MuitoManga](https://muitomanga.com/) - *Manga*
@@ -1009,13 +1023,9 @@
 * [mangahost4](https://mangahost4.com/) - *Manga*
 * [mangayabu](https://mangayabu.top/) - *Manga*
 * [meusmangas](https://meusmangas.net/) - *Manga*
-* [instintomangaka](https://www.instintomangaka.com/baixar-mangas/ ) - *Manga*
-* [WDL PT](https://www.wdl.org/pt/) - *Historical Document & Images*
-* [Obrasraras](https://obrasraras.usp.br/) - *Historical Documents*
-* [de-comunicacao-para](https://catracalivre.com.br/criatividade/285-livros-de-comunicacao-para-download/) - *Communication & Culture Books*
-* [amandocozinhar](https://www.amandocozinhar.com/2016/01/12-livros-de-culinaria-para-baixar.html) - *Cookbooks & Recipes*
-* [ArteHQs](http://www.artehqs.com.br/) - *Comics*
-* [TropaBRScans](https://tropabrscans.blogspot.com/) - *Comics*
+* [YabuToons](https://yabutoons.com/) - *Manga*
+* [instintomangaka](https://www.instintomangaka.com/baixar-mangas/) - *Manga*
+* [Kiniga](https://kiniga.com/) - *Light Novels*
 * [NovelMania](https://novelmania.com.br/) - *Light Novels*
 * [CentralNovel](https://centralnovel.com/) - *Light Novels*
 * [EmpireNovels](https://empirenovels.com.br/) - Light Novels**
@@ -1024,25 +1034,24 @@
 * [DND5ED](http://dnd5ed.github.io/) - *Dungeons & Dragons Guides*
 * [Escritas](https://www.escritas.org/) - *Poetry & Quotes*
 * [Luso Poemas](https://www.luso-poemas.net/) - *Poetry*
+* [poesiasonline](https://www.poesiasonline.com/) - *Poetry*
+* [sitedepoesias](https://sitedepoesias.com/) - *Poetry*
+* [poesiaspoemaseversos](https://poesiaspoemaseversos.com.br/) - *Poetry*
+* [Poeta](http://poeta.ws/) - *Poetry*
 * [super.abril](https://super.abril.com.br/superarquivo/) - *Magazines*
 * [Revista Do Linux](http://augustocampos.net/revista-do-linux/index.html) - *Linux Magazine*
 * [Dicio](https://www.dicio.com.br/) - *Dictionary*
 * [jornaisbrasileiros](http://www.jornaisbrasileiros.net.br/) - *News App*
-* [Uniao](https://uniao.com.br/) - *Desert Recipes*
-* [varandadobolo](https://varandadobolo.com.br/) - *Desert Recipes*
-* [receitasdemais](http://receitasdemais.com.br/) - *Recipes*
-* [receitasnotadez](https://receitasnotadez.com.br/) - *Recipes*
-* [saborintenso](https://www.saborintenso.com/) - *Recipes*
-* [cozinhadonabenta](https://www.cozinhadonabenta.com.br/receitas-dona-benta/) - *Recipes*
-* [anamariabraga](https://anamariabraga.globo.com/) - *Recipes*
-* [vovopalmirinha](https://vovopalmirinha.com.br/) - *Recipes*
-* [gastronomias](http://www.gastronomias.com/receitas/) - *Recipes*
-* [tecnonoticias](https://tecnonoticias.com.br/downloads-de-receitas/) - *Recipes*
-* [tudoreceitas](https://www.tudoreceitas.com/) - *Recipes*
-* [tudogostoso](https://www.tudogostoso.com.br/) - *Recipes*
-* [receitasnestle](https://www.receitasnestle.com.br/) - *Recipes*
-* [panelinha](https://www.panelinha.com.br/) - *Recipes*
-* [receitasdecomida](https://www.receitasdecomida.com.br/) - *Recipes*
+* [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/) - *Development Tutorials*
+* [acessaber](https://acessaber.com.br/) - *Math Lessons*
+* [WDL PT](https://www.wdl.org/pt/) - *Historical Document & Images*
+* [Obrasraras](https://obrasraras.usp.br/) - *Historical Documents*
+* [de-comunicacao-para](https://catracalivre.com.br/criatividade/285-livros-de-comunicacao-para-download/) - *Communication & Culture Books*
+* [Apocalipse2000](http://apocalipse2000.com.br/) - *Paranormal / UFO / Scary Short Stories*
+* [recantodasletras](https://www.recantodasletras.com.br/) - *Text Archive*
+* [Portuguese Bibles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_bibles)
+* [NomesBiblicos](https://www.nomesbiblicos.com/) - *Biblical Name History*
+* [Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_recipes)
 
 ***
 
