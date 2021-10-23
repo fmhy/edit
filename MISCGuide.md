@@ -160,6 +160,7 @@
 * [Giveaway Radar](https://giveawayradar.weebly.com/) - *Software*
 * [Tick Coupon](https://giveaway.tickcoupon.com/windows-giveaway/) - *Software*
 * [Techno360](https://www.techno360.in/category/free-stuff/) - *Software*
+* [yonokart](http://yonokart.com/ ) - *Software*
 * [Malwaretips Giveaways](https://malwaretips.com/forums/giveaways-promotions-and-contests.75/) - *Software*
 * [Net-Load](https://net-load.com/) - *Software*
 * [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - *Steam Games* 
@@ -597,7 +598,7 @@
 * [SunCalc](https://www.suncalc.org/) or [MoonCalc](https://www.mooncalc.org/) - *Sun & Moon Position / Phase Calculators* 
 * [Wikimapia](http://wikimapia.org/) - *Online Editable Map*
 * [MapChart](https://mapchart.net/) - *Create Custom Maps* 
-* [Point Address](https://pointaddress.com/) - *Custom Location Map*
+* [Point Address](https://pointaddress.com/) or [Scribble Maps](https://www.scribblemaps.com/create/) - *Custom Location Map*
 * [dgi](http://www.dgi.inpe.br/catalogo/) - *Match Satellite Images to Map*
 * [City Roads](https://anvaka.github.io/city-roads/) - *Draw City Roads*
 * [Mobac](https://mobac.sourceforge.io/) - *Mobile Atlas Creator*
@@ -618,11 +619,12 @@
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - *Volcano Activity Map*
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - *Earthquake Activity Map*
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - *Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)*
-* [FlightRadar24](https://www.flightradar24.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](http://radarbox24.com/) or [FlightAware](http://flightaware.com/) - *Live Flight Tracker* 
+* [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](http://radarbox24.com/) or [FlightAware](http://flightaware.com/) - *Live Flight Tracker* 
 * [MarineTraffic](https://www.marinetraffic.com/) or [VesselFinder](http://vesselfinder.com/) - *Live Ship Tracker* 
 * [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - *Max Speed Limits*
 * [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - *Left vs. Right Side Driving by Country*
 * [MetroOrbits](http://mic-ro.com/metro/index.html) - *Subway Maps & Data*
+* [SubMarineCableMap](https://www.submarinecablemap.com/) - *Fiber Optic Cable Map*
 * [Cost of Living](https://www.numbeo.com/cost-of-living/) - *Cost of Living Map*
 * [Mapfrappe](http://mapfrappe.com/?show=46142) - *Compare True Sizes on Land Masses*
 * [scale-a-tron](https://stamen.github.io/scale-a-tron/) - *Compare the Size of any Land*
@@ -928,7 +930,7 @@
 * [Safari Extensions](https://apps.apple.com/us/story/id1377753262) - *Safari Extensions*
 * [‎Momentum](https://apps.apple.com/us/app/momentum/id1564329434) - *Custom New Tab Page*
 * [PrettyWeb](https://apps.apple.com/us/app/prettyweb/id1580269767) - *Dark Mode & Custom New Tab Page*
-* [NightLight](https://apps.apple.com/us/app/nightlight-for-safari/id1429386865?mt=12), [Night Eye](https://apps.apple.com/us/app/night-eye-for-safari/id1450504903?mt=12), [Dark Reader Script](https://gist.github.com/kfur/266c456dd69072eb7533f457ee5f18a0) or [Dark Mode](https://apps.apple.com/us/app/dark-mode-for-safari/id1397180934?mt=12) - *Dark Mode*
+* [Dark Reader](https://filecr.com/?s=dark+reader), [NightLight](https://apps.apple.com/us/app/nightlight-for-safari/id1429386865?mt=12), [Night Eye](https://apps.apple.com/us/app/night-eye-for-safari/id1450504903?mt=12), [Dark Reader Script](https://gist.github.com/kfur/266c456dd69072eb7533f457ee5f18a0) or [Dark Mode](https://apps.apple.com/us/app/dark-mode-for-safari/id1397180934?mt=12) - *Dark Mode*
 * [Tab Space](https://apps.apple.com/us/app/tab-space/id1473726602?mt=12) or [‎StartPage.ai](https://apps.apple.com/us/app/startpage-ai/id1584727895) - *Tab Manager*
 * [Amerigo](https://apps.apple.com/us/app/amerigo-file-manager/id605569663) - *File Download Manager*
 * [Keyword Search](https://apps.apple.com/us/app/keyword-search/id1558453954?mt=12) - *Keyword Search Bar*
@@ -958,3 +960,4 @@
 * [Google Hit Hider](https://openuserjs.org/scripts/jscher2000/Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites\)) - *Block Sites from Search Results* 
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - *Shows Images & Videos Behind Links & Thumbnails*
 * [DisableAMP](https://github.com/AdguardTeam/DisableAMP) - *Disable Google AMP Links*
+* [Pinterest Without Registration](https://greasyfork.org/en/scripts/6325-pinterest-without-registration) - *Browse Pinterest Without Login*
