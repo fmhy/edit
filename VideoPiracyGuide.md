@@ -321,7 +321,7 @@
 * [Funimation](https://www.funimation.com/shows/free/) - *Sub / Dub* 
 * [Pokemon.com](https://watch.pokemon.com/) - *Full Pokemon Episodes*
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - *Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/)* 
-* [Crunchyroll iFrame Player](https://greasyfork.org/en/scripts/411391-crunchyroll-iframe-player) - *Crunchyroll Premium Bypass Script*
+* [Crunchyroll iFrame Player](https://greasyfork.org/en/scripts/411391-crunchyroll-iframe-player) - *Crunchyroll Premium Bypass Script / [GitHub](https://github.com/Mateus7G/crp-iframe-player)*
 
 ***
 
@@ -409,7 +409,8 @@
 * [WatchKobe](http://watchkobe.info/) - *Sports*
 * [BuffStreams](https://buffstreams.tv/) - *Sports*
 * [SportHD](https://sporthd.live/) - *Sports* 
-* [cricfree.tv](http://crickfree.be/) - *Sports*
+* [Cricfree.tv](http://crickfree.be/) - *Sports*
+* [Cricfree.pw](https://cricfree.pw/) - *Sports*
 * [SportsOnline](https://sportsonline.to/) - *Sports*
 * [VIPBoxTV](https://www.vipboxtv.se/) - *Sports*
 * [s365.Live](http://www.s365.live/) - *Sports*
