@@ -847,6 +847,7 @@
 * [plagiarisma](http://plagiarisma.net/pt/) - *Plagiarism Checker*
 * [Universia](https://www.universia.net/) - *Portuguese University Search*
 * [CatalogoApp](https://catalogoapp.mobi/) - *Portuguese Product Catalog*
+* [dicionariompb](https://dicionariompb.com.br/) - *Top Song Charts*
 
 ## ▷ Downloading
 
@@ -951,13 +952,19 @@
 * [AnimesOnline](https://animesonline.vip/) - *Anime*
 * [SuperAnimes](https://www.superanimes.tv/) - *Anime*
 * [AnimeVision](https://animesvision.biz/) - *Anime* 
+* [SuperFlixHD](https://superflixhd.net/) - *Movies / TV*
+* [animevibe](https://animevibe.top/) - *Anime*
+* [animeszone](https://animeszone.net/) - *Anime*
+* [anicdn](https://www.anicdn.net/) - *SAnime*
+* [99 Media](https://www.99.media/pt/) - *Documentaries*
+* [verfutebol](https://verfutebol.tv/ ) - *Live Sports*
 * [OLHosnaTV](http://www.olhosnatv.com.br/) - *Live TV / Sports*
 * [Aovivo](https://aovivo.pro/tv/) - *Portuguese / Live TV / Sports*
 * [MegaCanais](https://megacanais.com/) - *Live TV / Sports*
 * [CXTV](https://www.cxtv.com.br/) - *Live TV*
 * [TVGazeta](https://www.tvgazeta.com.br/aovivo/) - *Live TV*
 * [cultura](https://cultura.uol.com.br/aovivo/) - *Live TV*
-* [IPTVBrasil](https://iptvbrasilapk.com/) - *IPTV Player*
+* [IPTVBrasil](https://iptvbrasilapk.com/) or [CanalOnline](https://play.google.com/store/apps/details?id=dev.devmatrixcode.canalonline) - *IPTV Player*
 * [Documentarios ](http://www.documentarios.blog.br/) - *Documentaries*
 * [documentariosvarios](https://documentariosvarios.wpcomstaging.com/) - *Documentaries*
 * [CursoemVideo](https://www.cursoemvideo.com/) - *Courses*
@@ -985,6 +992,10 @@
 * [RadioRock](https://www.radiorock.com.br/) - *Radio*
 * [Tupi](https://www.tupi.fm/) - *Radio*
 * [RadioFobia](https://radiofobia.com.br/ ) - *Radio*
+* [HarpaCrista](https://harpacrista.org/) - *Christian Music*
+* [Christian Harp](https://www.microsoft.com/store/productId/9WZDNCRDPDWC) - *Christian Music*
+Portuguese / Streaming / Christian Music 
+* [HarpaCrista](https://play.google.com/store/apps/details?id=br.com.masterapps.harpacristagratis&hl=en_US&gl=US) - *Christian Music*
 * [flowpodcast](https://flowpodcast.com.br/) - *Political Podcast*
 * [99Vidas](http://99vidas.com.br/) - *Gaming Podcast*
 * [cinematorio](https://www.cinematorio.com.br/) - *Movie Podcasts*
@@ -995,10 +1006,16 @@
 * [mundopodcast](https://mundopodcast.com.br/) - *Podcasts*
 * [kboingfm](https://www.kboingfm.com.br/podcast/) - *Podcasts*
 * [topflixapk](https://topflixapk.com/) - *Streaming APK*
+* [MegaFilmsHD](https://play.google.com/store/apps/details?id=me.filmeshd.mega) - *Streaming APK*
+* [TV Aberta](https://apkpure.com/br/tv-aberta-lite/tv.aberta.lite) - *Live TV APK*
+* [TV Online](https://play.google.com/store/apps/details?id=com.tvonline.master) - *Live TV APK*
+* [megafilmesbr](https://megafilmesbr.xyz/) - *Movies / TV / Anime*
+* [filmesonlinehdgratis](https://www.filmesonlinehdgratis.com.br/) - *Movies / TV*
 * [TasteMade](https://www.tastemade.com.br/) - *Recipe Videos*
 
 ## ▷ Reading
 
+* [bussolaescolar](http://www.bussolaescolar.com.br/) - *Educational Search Engine*
 * [LiverosNarrados](https://livrosnarrados.blogspot.com/) - *Audiobooks*
 * [Tudo De Bom em Audiolivros](https://tudodebomemaudiobooks.blogspot.com/) - *Audiobooks*
 * [universidadefalada](https://www.universidadefalada.com.br/audiolivros-gratis-audio-livro-gratuito.html) - *Audiobooks*
@@ -1049,8 +1066,14 @@
 * [de-comunicacao-para](https://catracalivre.com.br/criatividade/285-livros-de-comunicacao-para-download/) - *Communication & Culture Books*
 * [Apocalipse2000](http://apocalipse2000.com.br/) - *Paranormal / UFO / Scary Short Stories*
 * [recantodasletras](https://www.recantodasletras.com.br/) - *Text Archive*
+* [Portuguese Dictionaries / Thesaurus'](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_dictionaries_.2F_thesaurus) 
 * [Portuguese Bibles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_bibles)
 * [NomesBiblicos](https://www.nomesbiblicos.com/) - *Biblical Name History*
+* [estudos-biblicos](http://estudos-biblicos.net/), [2](https://estudos-biblicos.blogspot.com/) - *Bible Studies*
+* [apologeta](https://www.apologeta.com.br/) - *Bible Commentary*
+Portuguese 
+* [Biblia](https://biblia.com.br/) or [iguga](https://www.iguga.org/) - *Biblical Dictionary*
+Portuguese 
 * [Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_recipes)
 
 ***
