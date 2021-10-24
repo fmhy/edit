@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/fxNhxEJ.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/gnbmfW7.png)** - *For mobile users*
 
 ***
 ***
@@ -1740,6 +1740,19 @@ Add the following commands to a search to manually scrape each site.
 * https://fmovies.wf/
 * https://www1.fmovies.yt/
 * https://kat.mn/
+
+***
+
+#### Song Identification
+
+**Sites / Programs**
+
+[Midomi](https://www.midomi.com/), 
+[AcrCloud](https://www.acrcloud.com/identify-songs-music-recognition-online/), [/r/NameThatSong](https://reddit.com/r/NameThatSong), [Dejavu](https://github.com/worldveil/dejavu) (python), [Audd](https://audd.io/) (api)
+
+**Mobile Apps**
+
+[Shazam](https://www.shazam.com/), [SoundHound](https://www.soundhound.com/soundhound), [Music ID Android](https://play.google.com/store/apps/details?id=com.gravitymobile.recognize&hl=en), [Music ID iOS](https://apps.apple.com/app/musicid/id358838909?ign-mpt=uo%3D8)
 
 ***
 
