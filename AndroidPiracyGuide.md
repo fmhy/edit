@@ -439,6 +439,7 @@
 * [Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler) - *Android Scrobbler*
 * [MP3 Tagger](https://play.google.com/store/apps/details?id=com.fillobotto.mp3tagger) - *Automatic Audio ID3 Tagging*
 * [Voleq](https://play.google.com/store/apps/details?id=com.veryclevernamecompany.voleq) - *Volume Equalizer*
+* [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - *Identify Playing Songs*
 
 ***
 
@@ -780,6 +781,7 @@ RSS Player*
 * [Boom](https://apps.apple.com/us/app/boom-bass-booster-equalizer/id1065511007) - *Audio Equalizer*
 * [HD Player](https://apps.apple.com/us/app/hs-player-flac-equalizer/id857650606) - *Audio Player*
 * [Denim](https://apps.apple.com/us/app/denim-playlist-cover-maker/id1532250420) - *Playlist Cover Maker*
+* [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - *Identify Playing Songs*
 
 ***
 
