@@ -308,7 +308,7 @@
 * [VCV Rack](https://vcvrack.com/) - *Eurorack Simulator*
 * [Cable](https://vb-audio.com/Cable/) - *Virtual Audio Cable*
 * [Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Download Album Art*
-* [Midomi](https://www.midomi.com/), [Shazam](https://www.shazam.com/), [SoundHound](https://www.soundhound.com/soundhound), [AcrCloud](https://www.acrcloud.com/identify-songs-music-recognition-online/), [Music ID Android](https://play.google.com/store/apps/details?id=com.gravitymobile.recognize&hl=en), [Music ID iOS](https://apps.apple.com/app/musicid/id358838909?ign-mpt=uo%3D8), [/r/NameThatSong](https://reddit.com/r/NameThatSong), [Dejavu](https://github.com/worldveil/dejavu) (python) or [Audd](https://audd.io/) (api) - *Song Identification Tools* 
+* [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - *Identify Playing Songs*
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/) - *Soundboard Program*
 * [MyInstants](https://www.myinstants.com/index/us/) or [Soundboard.com](https://www.soundboard.com/) - *Online Soundboard*
 * [Soundpad](https://www.leppsoft.com/soundpad/) - *Voicechat Soundboard*
