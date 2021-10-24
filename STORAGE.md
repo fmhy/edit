@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/PrZJZLW.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/fxNhxEJ.png)** - *For mobile users*
 
 ***
 ***
@@ -957,7 +957,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Modded Minecraft Launchers
 
-[tLauncher](https://tlauncher.org/en/), [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/) / [2](https://github.com/Aetopia/Lunar-Client-Lite-Launcher), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [SkLauncher](https://skmedix.pl/sklauncher), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL)
+**[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/) / [2](https://github.com/Aetopia/Lunar-Client-Lite-Launcher), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL)
 
 ***
 
@@ -1438,39 +1438,41 @@ Add the following commands to a search to manually scrape each site.
 * https://novabiblia.com.br/
 * https://claret.org.br/biblia
 * https://biblia.sbb.org.br/
+* https://jesusvoltara.com.br/
+* https://www.bibliaonline.com.br/
 * http://www.receitas-portuguesas.com/
 * https://www.jw.org/pt/biblioteca/biblia/biblia-de-estudo/livros/
 * https://www.dicionariodenomesproprios.com.br/
 * https://www.oracaoefe.com.br/biblia-online/
+* [bibliasagradamulher](https://play.google.com/store/apps/details?id=br.com.tunglabs.bibliasagrada.mulher&hl=pt_BR&gl=US) - *Bible App*
+
+***
+
+#### Portuguese Dictionaries / Thesaurus
+
+* https://dicionario.priberam.org/
+* https://michaelis.uol.com.br/
+* https://aulete.com.br/
+* https://www.lexico.pt/
+* https://www.dicio.com.br/
+* https://www.dicionarioweb.com.br/
+* https://dicionariocriativo.com.br/
+* https://www.dicionarioinformal.com.br/ (Slang)
+* https://www.politize.com.br/dicionario/ (Political)
+* https://dicionariojuridico.online/ (Legal)
+* http://dicionariomineires.com.br/ (Mining)
+* https://www.dicionariofinanceiro.com/ (Financial)
+* https://dicionarioindigena.blogspot.com/ (Indigenous)
+* https://www.antonimos.com.br/ (Antonyms)
+* https://www.sinonimos.com.br/ (Thesaurus)
+* https://www.dicionarioetimologico.com.br/ (Etymologies)
+* https://www.conjugacao.com.br/ (Verb Conjugations)
 
 ***
 
 #### Portuguese Recipes
 
-* [amandocozinhar](https://www.amandocozinhar.com/2016/01/12-livros-de-culinaria-para-baixar.html) - *Cookbooks & Recipes*
-* [Uniao](https://uniao.com.br/) 
-* [varandadobolo](https://varandadobolo.com.br/)
-* [receitasdemais](http://receitasdemais.com.br/) 
-* [receitasnotadez](https://receitasnotadez.com.br/) 
-* [saborintenso](https://www.saborintenso.com/) 
-* [cozinhadonabenta](https://www.cozinhadonabenta.com.br/receitas-dona-benta/) 
-* [anamariabraga](https://anamariabraga.globo.com/)
-* [vovopalmirinha](https://vovopalmirinha.com.br/) 
-* [gastronomias](http://www.gastronomias.com/receitas/)
-* [tecnonoticias](https://tecnonoticias.com.br/downloads-de-receitas/) 
-* [tudoreceitas](https://www.tudoreceitas.com/)
-* [tudogostoso](https://www.tudogostoso.com.br/) 
-* [receitasnestle](https://www.receitasnestle.com.br/) 
-* [panelinha](https://www.panelinha.com.br/) 
-* [receitasdecomida](https://www.receitasdecomida.com.br/)
-* [cybercook](https://cybercook.com.br/) 
-* [culinaria](https://culinaria.terra.com.br/)
-* [petiscos](https://www.petiscos.com/)
-* [receitaseduguedes](https://www.receitas.eduguedes.com.br/)
-* [teleculinaria](https://www.teleculinaria.pt/)
-* [dietaereceitas](https://dietaereceitas.com.br/) 
-* [receitasdecomidas](https://www.receitasdecomidas.com.br/) 
-* [gastronomianobrasil](http://gastronomianobrasil.com.br/) 
+[amandocozinhar](https://www.amandocozinhar.com/2016/01/12-livros-de-culinaria-para-baixar.html), [Uniao](https://uniao.com.br/), [varandadobolo](https://varandadobolo.com.br/), [receitasdemais](http://receitasdemais.com.br/), [receitasnotadez](https://receitasnotadez.com.br/), [saborintenso](https://www.saborintenso.com/), [cozinhadonabenta](https://www.cozinhadonabenta.com.br/receitas-dona-benta/), [anamariabraga](https://anamariabraga.globo.com/), [vovopalmirinha](https://vovopalmirinha.com.br/), [gastronomias](http://www.gastronomias.com/receitas/), [tecnonoticias](https://tecnonoticias.com.br/downloads-de-receitas/), [tudoreceitas](https://www.tudoreceitas.com/), [tudogostoso](https://www.tudogostoso.com.br/), [receitasnestle](https://www.receitasnestle.com.br/), [panelinha](https://www.panelinha.com.br/), [receitasdecomida](https://www.receitasdecomida.com.br/), [cybercook](https://cybercook.com.br/), [culinaria](https://culinaria.terra.com.br/), [petiscos](https://www.petiscos.com/), [receitaseduguedes](https://www.receitas.eduguedes.com.br/), [teleculinaria](https://www.teleculinaria.pt/), [dietaereceitas](https://dietaereceitas.com.br/), [receitasdecomidas](https://www.receitasdecomidas.com.br/), [gastronomianobrasil](http://gastronomianobrasil.com.br/), [iserv](http://www.iserv.com.br/culinaria/), [receiteria](https://www.receiteria.com.br/), [comidasimples](https://comidasimples.com.br/), [receitasagora](https://www.receitasagora.com.br/), [cantinhovegetariano](http://www.cantinhovegetariano.com.br/)
 
 ***
 
