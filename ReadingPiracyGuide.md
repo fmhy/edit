@@ -659,7 +659,6 @@
 * [mdpi](https://www.mdpi.com/) - *Articles* 
 * [DOAJ](https://www.doaj.org/) - *Journals / Articles*
 * [CyberLeninka](https://cyberleninka.org/) - *Science / Articles / Legal Documents*
-* [ieeexplore](https://ieeexplore.ieee.org/) - *Research Papers / Articles / Documents*
 * [Typewriter](https://tetw.org/) - *Educational Articles & Essays The Electric*
 * [Docracy](https://www.docracy.com/ ) - *Legal Documents*
 * [Legal Core](https://core.ac.uk/) - *Papers / Academic*
@@ -886,6 +885,7 @@
 * [MotoKare](https://motokare.xyz/reader/)
 * [CatManga](https://catmanga.org/)
 * [Tritinia](https://tritinia.com/)
+* [Toomics](https://toomics.com/)
 * [AsuraScans](https://asurascans.com/) - *[Discord](https://discord.gg/asurascans)*
 * [MangaJar](https://mangajar.com/)
 * [LilyManga](https://lilymanga.com/) 
