@@ -272,7 +272,8 @@
 
 * **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) - *Multi-Site APK Search*
 * **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - *Modded*
-* **[FileCR](https://filecr.com/android/)** - *Modded*
+* **[FileCR](https://filecr.com/android/)** - *Modded / [Warning](https://i.imgur.com/6Loht3s.png)*
+* **[nsane.down](https://www.nsaneforums.com/)*
 * **[ModdedCentral](https://t.me/ModdedCentral)** or [ModdedPrivate](https://t.me/ModdedPrivate) - *Modded / Telegram*
 * **[APKMirror](https://www.apkmirror.com/)** - *Untouched*
 * **[Lucky Patcher](https://www.luckypatchers.com/download/)** - *Remove Ads / Free In App Purchases / App Patcher / [How to use](https://latestechnews.com/how-to-use-lucky-patcher/)*
