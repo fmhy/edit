@@ -1292,6 +1292,7 @@ General Reading Sites*
 * [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) - *Analyze System Log Files* 
 * [DependecyWalker](https://www.dependencywalker.com/) or [Dependencies](https://github.com/lucasg/Dependencies) - *View Application Dependencies* 
 * [store.rg](https://store.rg-adguard.net/) - *Microsoft Store Link Generator* 
+* [Edgeuninstaller](https://rentry.org/uninstalledge) - *Completely Uninstall Microsoft Edge*
 * [Windows on Raspberry](https://www.worproject.ml/) - *Windows for Raspberry Pi*
 * [amogOS](https://github.com/jostroOS/amogOS) - *Rasberry Pi OS*
 * [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - *Identify why your PC isn't Windows 11 ready*
