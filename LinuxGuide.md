@@ -230,7 +230,8 @@
 
 # ► Mac Software
 
-* **[FileCR](https://filecr.com/macos/)** 
+* **[FileCR](https://filecr.com/macos/)** - *[Warning](https://i.imgur.com/6Loht3s.png)*
+* **[nsane.down](https://www.nsaneforums.com/)
 * [The Macintosh Archives](http://mirror.macintosharchive.org/)
 * [Macintosh Garden](http://macintoshgarden.org/) 
 * [nMac](https://nmac.to/) 
