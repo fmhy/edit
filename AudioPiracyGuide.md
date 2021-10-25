@@ -201,7 +201,6 @@
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - *Music Download Tool* 
 * [RipMe](https://github.com/RipMeApp/ripme) - *Bulk Album Downloader*  
 * [DoubleNegative](https://doublenegative.io/ ) - *Tidal Music Downloader*
-* [Deezer2DriveBot](https://t.me/deezer2drivebot) - *Deezer & Qobuz to GDrive Bot*
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - *Bandcamp Downloader*
 * [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - *Soundcloud Download Tools*
 * [streamrip](https://github.com/nathom/streamrip) - *Deezer & SoundCloud Downloader / [Colab](https://github.com/taskylizard/uwustreamrip)*
