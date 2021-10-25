@@ -80,6 +80,7 @@
 * [JustEmuTarkov](https://justemutarkov.eu/) - *Escape from Tarkov Emulator*
 * [CWA](https://www.cwaemu.com/) - *Clone Wars Adventures Emulator / [Discord](https://discord.gg/a3Ugb9dzzv)*
 * [NR2003](https://wildkustomcars.weebly.com/) - *Modded Nascar 2003*
+* [CsWarzOnE](https://www.cswarzone.com/) - *Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)*
 * [Minetest](https://www.minetest.net/) - *F2P Minecraft Alternative* 
 * [Unciv](https://github.com/yairm210/Unciv) - *Civ V Remake*
 * [London 2038](https://london2038.com/) - *London 2038 Multiplayer Revival Project*
@@ -225,6 +226,7 @@
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - *Gamecube iso.dec to ISO Converter*
 * [HiddenPalace](https://hiddenpalace.org/) - *Game Development Media Archive*
 * [Xbox Collection](https://archive.org/details/xboxcds?sort=-downloads) or [Xbox_Eng_Romset](https://archive.org/details/xbox_eng_romset) - *CD Roms / Xbox / DDL / Torrents*
+* [pret](https://github.com/orgs/pret/repositories) - *Pokemon Disassembly / Decompilation Projects*
 
 ***
 
@@ -455,7 +457,7 @@
 * [Betrayal](https://betrayal.io/) - *"Among Us" like game*
 * [TownOfSalem](https://blankmediagames.com/TownOfSalem/) - *Role Based Mystery Solving MMO*
 * [Slither.io](http://slither.io/) or [worm.is](http://play.worm.is/) - *Grow the longest worm*
-* [diep.io](https://diep.io/) - *Become the strongest tank* 
+* [diep.io](https://diep.io/) or [Scenexe.io](https://scenexe.io/) - *Become the strongest tank* 
 * [Hexar.io](http://www.hexar.io/), [splix.io](https://splix.io/) or [paper-io](https://paper-io.com/) - *Control the Map*   
 * [mitos.is](http://play.mitos.is/) - *Become the Biggest Cell* 
 * [agar.io](https://agar.io/) - *Become the Biggest Circle* 
@@ -575,7 +577,7 @@
 * [Flash by Night](http://flashbynight.com/) - *Browser Games*
 * [Tyrone's Unblocked Games](https://sites.google.com/site/tyronesgameshack) - *Browser Games / [Discord](https://discord.gg/Z55yjBz)*
 * [The Flash Emulation Repair Shop](https://archive.org/details/flash_repair_shop) - *Flash Games Under Repair*
-* [Arcade Prehacks](http://www.arcadeprehacks.com/) or [SamsHackedGames](https://www.samshackedgames.com/) - *Hacked Flash Games* 
+* [Arcade Prehacks](http://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - *Flash Game Hacks*
 * [How-To Play Flash Games](https://rentry.co/oc4wc) - *Browser Flash Game Tutorial*
 * To Play Shockwave Games Install [Adobe Shockwave](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html) & [K-Meleon Browser](http://kmeleonbrowser.org/)
 
