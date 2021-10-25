@@ -60,6 +60,7 @@
 * [p7zip](http://p7zip.sourceforge.net/) - *File Archiver / Unzipper*
 * [Curlew](https://curlew.sourceforge.io/) - *Linux File Converter*
 * [Dolphin](https://userbase.kde.org/Dolphin) or [ranger](https://github.com/ranger/ranger) - *File Manager*
+* [zentile](https://github.com/blrsn/zentile) - *On-demand Window Manger Tiling*
 * [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) - *Google Drive Downloader*
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - *Mount GDrive on Linux*
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - *Linux File Search*
@@ -208,7 +209,7 @@
 * [NHCalc](https://github.com/KhaosT/nhcalc) - *Compute Image NeuralHash*
 * [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - *Convert NeuralHash for CSAM Detection to ONNX / [Collision Finder](https://github.com/anishathalye/neural-hash-collider)*
 * [Is Apple Silicon ready?](https://isapplesiliconready.com/) - *M1 App Compatibility Chart*
-* [Adobe Zii](https://www.reddit.com/r/AdobeZii/ ) - *Adobe Software Patcher*
+* [Adobe Zii](https://www.reddit.com/r/AdobeZii/) - *Adobe Software Patcher*
 * [MagicCap](https://magiccap.me/) - *Screenshot Tool*
 * [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) - *Typing Practice*
 * [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) - *Reddit Dekstop Client*
