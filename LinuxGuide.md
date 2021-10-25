@@ -22,7 +22,7 @@
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - *RTorrent Web Frontend / [Themes](https://github.com/InAnimaTe/rutorrent-themes), [2](https://github.com/artyuum/3rd-party-ruTorrent-Themes)*
 * [swizzin](https://swizzin.ltd/) - *Seedbox for Ubuntu / Debian* 
 * [rtinst](https://github.com/arakasi72/rtinst) - *Seedbox Installation Script for Ubuntu / Debian* 
-* [anime-terminal](https://github.com/YogeshLamichhane/anime-terminal) - *Anime Streaming Terminal for Linux*
+* [anime-terminal](https://github.com/YogeshLamichhane/anime-terminal) or [ani-cli](https://github.com/pystardust/ani-cli) - *Anime Streaming Terminal for Linux*
 * [Knapsu](https://knapsu.eu/plex/) or [Cloudbox](https://cloudbox.works/) - *Media Server*
 * [Foliate](https://johnfactotum.github.io/foliate/) - *Ebook Reader*
 * [Evince](https://wiki.gnome.org/Apps/Evince) - *PDF / DjVu Reader*
@@ -65,6 +65,7 @@
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - *Linux File Search*
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - *PDF Editor*
 * [Winfield](http://www.winfield.demon.nl/) - *MS Word for Linux / OS X* 
+* [FlameGApps](https://github.com/flamegapps/flamegapps) - *Google Apps Installer*
 * [syncthing](https://syncthing.net/) - *File Sync*
 * [Hexchat](https://hexchat.github.io/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/ ) - *IRC Clients*
 * [Linux-dash](https://github.com/afaqurk/linux-dash) - *Web-based System Dashboard*
@@ -118,6 +119,7 @@
 * [Mofolinux](https://mofolinux.com/), [Tails](https://tails.boum.org/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - *Privacy-Based Linux Operating System*
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - *VPN Tunnel*
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - *Arch Linux base with Deluge, Privoxy & OpenVPN*
+* [Spotify-Adblock](https://github.com/abba23/spotify-adblock) - *Linux Spotify Adblocker*
 
 ***
 
@@ -144,8 +146,9 @@
 * [The KDE Games Center](https://games.kde.org/) - *Linux Games*
 * [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - *Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [protondb](https://www.protondb.com/) or [Lutris](https://lutris.net/) - *Play Windows games on Linux*
-* [Gamemode](https://github.com/FeralInteractive/gamemode) - *Linux System Optimizer*
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - *Linux Gaming Kernels*
+* [Gamemode](https://github.com/FeralInteractive/gamemode) - *Linux System Optimizer*
+* [pgl](https://github.com/reggiiie/pgl) - *Run Executables through Proton*
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - *Linux Game Package Downloader*
 * [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher for Linux*
 * [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - *Roblox Manager for Linux*
@@ -197,6 +200,7 @@
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old MacOS ISOs*
 * [IINA](https://iina.io/) - *Video Player*
 * [Meeter](https://trymeeter.com/) - *Video Meeting Manager*
+* [Gifski](https://sindresorhus.com/gifski) - *Image to GIF Converter / [GitHub](https://github.com/sindresorhus/Gifski)*
 * [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - *Image & Video Editor*
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - *Image Editor* 
 * [ImageOptim](https://imageoptim.com/mac) - *Image Optimization*
@@ -241,10 +245,14 @@
 * [MacTorrents](https://mactorrents.io/) 
 * [Download-Mac-Torrent](http://www.download-mac-torrent.ru/) 
 * [HaxMac](https://haxmac.cc/) 
+* [MacDownload](https://www.macdownload.org/) 
+* [InsMac](https://www.insmac.org/) 
+* [MacX](https://www.macx.ws/) 
 * [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 * [Awesome macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - *Open Source Software*
 * [Adobe CC 2021 Crack](https://redd.it/ox6rwl) - *Adobe Software*
+* [Adobe Zii](https://www.adobezii.com/) - *Adobe CC Patcher*
 
 ***
 
@@ -255,6 +263,7 @@
 * [Macgamefiles](http://www.macgamefiles.com/)
 * [NXMac](https://nxmac.com/) 
 * [Mac-Torrents.io](https://mac-torrents.io/) 
+* [MacDownload](https://www.macdownload.org/) 
 * [Mac Torrents](https://www.torrentmac.net/) 
 * [MacTorrents](https://mactorrents.io/)
 * [Download-Mac-Torrent](http://www.download-mac-torrent.ru/)
