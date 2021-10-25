@@ -43,6 +43,7 @@
 * [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/) - *Cheat Sheets / Programming / Frameworks / Dev Tools*
 * [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) - *Resources For Learning To Code* 
 * [EbookFoundation Interactive Programming Tuts](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md) - *Interactive Programming Tutorials* 
+* [Exercism](https://exercism.org/) - *Programming Lessons*
 * [Nayuki](https://www.nayuki.io/) - *Programming Tutorials*
 * [Hackr.io](https://hackr.io/) - *Programing Tutorials*
 * [Phrozen](https://www.phrozen.io/) - *Programming Guides*
@@ -222,7 +223,7 @@
 * [dnsabr](https://www.dnsabr.com/) - *Free DNS Hosting*
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - *Captcha Systems*
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - *Search & Analytics Engine*
-* [Algolia](https://www.algolia.com/) - *Search API*
+* [Algolia](https://www.algolia.com/) or [FusionBot](https://www.fusionbot.com/) - *Search API*
 * [GetButton](https://getbutton.io/) - *Get free 'Message Us' Button for your Site*
 * [Error404](https://error404.fun/) - *Free 404 Pages*
 * [HandShake](https://handshake.org/) - *Decentralized Certificate Authority & Naming*
@@ -255,7 +256,7 @@
 * [Visual CSS Editor](https://chrome.google.com/webstore/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - *WordPress Site Designer*
 * [Nulled Scripts](https://www.nullscripts.net/) - *Wordpress & Bulletin Board Scripts*
 * [faustjs](https://github.com/wpengine/faustjs) - *Wordpress Framework*
-* [gpldl](https://gpldl.com/), [allwpworld](https://allwpworld.com/), [pwned.space](https://pwned.space/wordpress-themes/), [wplocker](https://www.wplocker.com/), [WePlay](https://www.weaplay.com/), [freegetdownloader](https://www.freegetdownloader.com/), [FreeNulledCode](https://freenulledcode.com/), [crackthemes](https://www.crackthemes.com/), [jojo-themes](https://www.jojo-themes.net/) or [babiato](https://babiato.co/) - *Wordpress Themes*
+* [Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes) - *Themes for Wordpress*
 * [vichan](https://github.com/vichan-devel/vichan) - *Imageboard Software Package*
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - *Self-Hosted Private Tracker*
 
@@ -467,10 +468,11 @@
 * [Python Mini Projects](https://github.com/Python-World/python-mini-projects) - *Python Scripts*
 * [Dodgy](https://github.com/landscapeio/dodgy) - *Find PWs & Diffs in Python Code*
 * [JSPyBride](https://github.com/extremeheat/JSPyBridge) - *Interoperate Node.js and Python*
-* [python-adb](https://github.com/google/python-adb) - *Python ADB + Fastboot implementation*
+* [python-adb](https://github.com/google/python-adb) - *Python ADB + Fastboot Implementation*
 * [AutoCode](https://autocode.com/) - *Instant Endpoints*
 * [Mega Linter](https://github.com/nvuillam/mega-linter) - *Code Analyzer* 
 * [tabnine](https://www.tabnine.com/) - *AI Assisted Code Completion*
+* [overmind](https://github.com/DarthSim/overmind) or [foreman](https://github.com/ddollar/foreman) - *Process Managers*
 * [cpp.sh](http://cpp.sh/) - *Online C++ Compiler*
 * [asdf](https://asdf-vm.com/) - *Multi-Runtime Management CLI*
 * [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) - *Machine Learning Art Resource Index* 
