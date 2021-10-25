@@ -170,7 +170,7 @@
 * **[/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread)** - *Software Piracy Megathread*
 * **[Mobilism](https://forum.mobilism.org/)** - *Software / Books / [Mobile App](https://forum.mobilism.org/app/)* 
 * **[soft98](https://soft98.ir/)** - *Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
-* **[FileCR](https://filecr.com/en/)** - *Software / Books*
+* **[FileCR](https://filecr.com/en/)** - *Software / Books / [Warning](https://i.imgur.com/6Loht3s.png)*
 * **[nsane.down](https://www.nsaneforums.com/)**
 * **[LRepacks](https://lrepacks.net/)** - *Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * **[AppNee](https://appnee.com/)**
