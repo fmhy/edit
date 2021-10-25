@@ -140,7 +140,7 @@
 * **[Ambient Rain Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ambient_rain_sounds)** - *Ambient Rain*
 * **[Coding Cat](https://hostrider.com/)** - *Nyan Cat's Cousin / Lo-Fi Radio*
 * **[HaloMe.nu](https://halome.nu/)** - *Halo Menu Screens*
-* **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_relaxation) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_relaxation)** - *Ambient* 
+* **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_relaxation) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_relaxation)** - *Ambient Mobile Apps* 
 * [lofi.cafe](https://lofi.cafe/) - *Lo-fi Radio*
 * [Focusli](https://www.focusli.com/) - *Lo-fi Radio*
 * [Viberoom](https://viberoom.audio/) - *Lo-fi Hip-Hop Radio*
