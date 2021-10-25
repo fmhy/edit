@@ -44,6 +44,7 @@
 * [Mp3Deer](https://mp3deer.com/) - *Browser Music*
 * [Last.fm](https://www.last.fm/) or [Libre.fm](https://libre.fm/) - *Browser Music*
 * [Just Hear It](http://justhearit.com/hear/Iv) - *Browser Music*
+* [YesPlayMusic](https://music.qier222.com/) - *Browser Music*
 * [MP3Paw](https://mp3paw.wiki/) - *Browser Music*
 * [SoundClick](https://www.soundclick.com/default.cfm) - *Browser Music*
 * [Tancpol](https://tancpol.net/) - *Browser Music*
@@ -291,6 +292,7 @@
 * [Take Metal](http://takemetal.org/) - *Metal / MP3*
 * [GetMetal Club](https://getmetal.club/) - *Metal / MP3 / FLAC* 
 * [Me-4U](https://me-4u.com/index.php) - *Metal / MP3*
+* [HeavyMetalRarities](https://heavymetalrarities.com/) - *Metal / MP3*
 * [The Last Disaster](https://thelastdisaster.org/) - *Metal / Hardcore / Rock / MP3 / FLAC*
 * [Sophie's Floorboard](https://sophiesfloorboard.blogspot.com/) - *Hardcore / MP3*
 * [1Gabba](https://1gabba.pw/) - *Electronic / MP3*
@@ -341,6 +343,7 @@
 * [Metal Tracker](https://en.metal-tracker.com/) - *Metal / MP3*
 * [RockBox](https://rawkbawx.rocks/) - *Metal / MP3*
 * [MixtapeTorrent](http://www.mixtapetorrent.com/) - *Mixtapes / MP3*
+* [SXSW Torrents](http://www.sxswtorrent.com/) - *SXSW Music Archive*
 * [ZOMB Torrents](http://zombtracker.the-zomb.com/) - *Music sharing community / forum*
 * [bt.etree](http://bt.etree.org/) or [Etree](https://www.etree.org/)- *Live Concert Recordings* 
 * [NFO db](https://nfodb.ru/) - *MP3 NFO Database*
