@@ -471,6 +471,7 @@
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - *Party Parrot Emojis*
 * [you-get](https://github.com/soimort/you-get) - *Download Media Contents from Webpages* 
 * [Got Your Back](https://github.com/jay0lee/got-your-back) - *Backup Gmail Messages* 
+* [Login Reminder Remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - *Remove Login Popup from Sites*
 * [BugMeNot](http://bugmenot.com/) or [Password Login](http://password-login.com/) - *Access and Share logins* 
 * [Voice Dictation](https://dictation.io/) - *Type with your voice* 
 * [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - *Manage / Store Bookmarks*
@@ -592,7 +593,6 @@
 * [woob](https://woob.tech/) - *Use Sites Without a Browser*
 * [Lagrange](https://github.com/skyjake/lagrange)  - *Gemini Browser*
 * [StockBrowser](https://stackbrowser.com/) - *Multi Web App Browser*
-* [NeverInstall](https://neverinstall.com/en-IN) - *Browser OS*
 * [Browserling](https://www.browserling.com/) - *Browser Emulators*
 * [n.eko](https://n.eko.moe/) - *Self-Hosted Virtual Browser*
 * [Safari Windows](https://mega.nz/file/zqoEWZaQ#qNAN8JnV_79gII4ofMs4ZwMAcydZAQw6Gdng_QEyNDw) - *Safari for Windows*
@@ -1241,7 +1241,7 @@ General Reading Sites*
 * [here.fm](https://here.fm/) - *Screen Sharing Tool*
 * [Remote Desktop Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remote_desktop_clients) - *Control Desktop Remotely*
 * [TigerVNC](https://tigervnc.org/) - *VNC Client*
-* [RDP](https://github.com/yahya-ait-talb/RDP) - *Windows RDP*
+* [RDP](https://github.com/yahya-ait-talb/RDP) or [NeverInstall](https://neverinstall.com/en-IN) - *Windows RDP*
 * [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - *Google RDP*
 * [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) - *Free Google Colab VPS on 25GB RAM*
 * [mRemoteNG](https://mremoteng.org/) - *Remote Connections Manager* 
