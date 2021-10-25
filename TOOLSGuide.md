@@ -879,7 +879,6 @@ General Reading Sites*
 * [Embed Visualizer](https://embed.discord.website/) - *Embed Visualization Tool* 
 * [Chimera](https://github.com/CedArctic/Chimera) - *System Remote Control* 
 * [Discord IRC](https://github.com/reactiflux/discord-irc) - *Connect Discord & IRC Chats* 
-* [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion), [discord-delete](https://github.com/adversarialtools/discord-delete), [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) or [QuickDeleteMessages](https://u.nu/9i9jk) - *Delete Discord Messages / [Warning](https://i.imgur.com/Kt8G430.png)* 
 * [Top.gg](https://top.gg/), [Discord Bots](https://discord.bots.gg/) or [Top Bots](https://s.advaith.io/topbots) - *Discord Bots Discovery* 
 * [Discord Reputation](https://discordrep.com/) - *Prevent Discord Fraud*
 * [Discord Ban Appeals](https://github.com/patricktechn/discord-ban-appeals) - *Discord Ban Appeal Form*
@@ -921,7 +920,6 @@ General Reading Sites*
 * [Discord.sale](https://discord.sale/), [2](https://builds.discord.sale/) - *Discord Client Build Info*
 * [discasset](https://github.com/Commandtechno/discasset), [2](https://gitlab.com/derpystuff/discasset) - *Discord Asset Grabber*
 * [Hypesquad](https://cdn.discordapp.com/attachments/668986791797325824/844589771653382194/unknown.png) - *Get a Discord Profile Badge*
-* [AutoDank](https://github.com/Crenshaw1312/AutoDank) - *Selfbot for DankMemer bot / [Warning](https://i.imgur.com/q5YMUIb.png)*
 * [Imagine](https://imagine.vanished.rocks/) - *Imagine Discord Branding Image Creator*
 * [DiscordExtras](https://github.com/NotZoeyDev/DiscordExtras) - *Patch iOS Discord Client*
 * [BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - *Bot Messaging Panel*
