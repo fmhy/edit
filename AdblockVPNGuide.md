@@ -96,7 +96,7 @@
 * [SiteScrubber](https://greasyfork.org/en/scripts/426078-sitescrubber) - *Remove Adware & Clickjackers on DL Sites*
 * MSRT - [x64](https://www.microsoft.com/en-us/download/details.aspx?id=9905) / [x86](https://www.microsoft.com/en-us/download/details.aspx?id=16) - *Malicious Software Removal Tool*
 * [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html) or [GlassWire](https://www.glasswire.com/) - *Firewall / Network Monitor* 
-* [Nmap](https://nmap.org/) - *Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)* 
+* [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/) or [Safing](https://safing.io/portmaster/) - *Network Monitor*
 * [Waircut](https://sourceforge.net/projects/waircut/) - *WPS Network Monitor*
 * [Hard_Configurator](https://hard-configurator.com/) - *Software Restriction Policy Management GUI* 
 * [Hardentools](https://github.com/securitywithoutborders/hardentools) - *Disables Risky Windows Features*
@@ -117,6 +117,7 @@
 * [testsafebrowsing](https://testsafebrowsing.appspot.com/) - *Safe Browsing Testing Links* 
 * [Dangerzone](https://dangerzone.rocks/) - *Convert dangerous PDF to safe PDF*
 * [ThreatMap](https://threatmap.checkpoint.com/) - *Live Malware Distribution Map*
+* [X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - *Security Threat Intelligence Platform*
 * [Web Of Trust](https://www.mywot.com/) - *Check Website Safety* 
 * [Scamalytics](https://scamalytics.com/ip) or [IP Address Lookup](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/) - *IP Address Fraud Check*
 * [Virus Checker](https://add0n.com/virus-checker.html) - *Virus Check for Downloads* 
@@ -194,7 +195,7 @@
 * [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion), [discord-delete](https://github.com/adversarialtools/discord-delete), [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) or [QuickDeleteMessages](https://u.nu/9i9jk) - *Delete Discord Messages / [Warning](https://i.imgur.com/Kt8G430.png)* 
 * [Spyware Watchdog](https://spyware.neocities.org/) - *Spyware Program Index*
 * [Terms of Service; Didn't Read](https://tosdr.org/) - *TLDR TOS*
-* [V2Ray](https://v2ray.com/en/), [V2RayN](https://github.com/freefq/free) or [v2ray-core](https://github.com/v2fly/v2ray-core) - *Build your own Privacy Network / [GUI](https://qv2ray.net/), [v2rayN](https://github.com/2dust/v2rayN)* 
+* [V2Ray](https://v2ray.com/en/), [V2Fly](https://www.v2fly.org/), [V2RayN](https://github.com/freefq/free) or [v2ray-core](https://github.com/v2fly/v2ray-core) - *Build your own Privacy Network / [GUI](https://qv2ray.net/), [v2rayN](https://github.com/2dust/v2rayN)* 
 * [Scout](https://www.scout.tel/phone-number-lookup) - *Phone Number Lookup / Safety Check* 
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - *Get Telephone Carrier Data* 
 * [/r/Privacy](https://reddit.com/r/privacy) - *Privacy Discussion & News Subreddit*
@@ -307,7 +308,6 @@
 * [webwormhole](https://github.com/saljam/webwormhole) - *Peer Authenticated WebRTC*
 * [WhatsMyUA?](https://www.whatsmyua.info/) or [WhatIsMyBrowser](https://www.whatismybrowser.com/detect/what-is-my-user-agent) - *User-Agent Detection* 
 * [Pribot](https://pribot.org/) - *Automated Analysis for Privacy Policies* 
-* [Pi.Alert](https://github.com/pucherot/Pi.Alert) - *Network Monitor*
 * [Google Takeout](https://takeout.google.com/) - *Google Data Request*
 * [de-google](https://www.reddit.com/r/privacy/wiki/de-google), [De-google-ify](https://degooglisons-internet.org/en/), [degoogle](https://degoogle.jmoore.dev/) / [GitHub](https://github.com/tycrek/degoogle) or [No More Google](https://nomoregoogle.com/) - *Google App Alternatives*
 * [no-google](https://github.com/nickspaargaren/no-google) - *Block All Google Services* 
@@ -417,7 +417,7 @@
 
 # ► VPN
 
-* **[VPN Comparison Chart](https://www.safetydetectives.com/best-vpns/#comparison)**, [2](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml), [3](https://www.vpntierlist.com/), [4](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/) - *Compare VPN Privacy Polices*
+* **[VPN Comparison Chart](https://www.safetydetectives.com/best-vpns/#comparison)**, [2](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml), [3](https://www.vpntierlist.com/), [4](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/), [5](https://privacymelon.com/stealth-vpn-guide/vpn-comparison-table/) - *Compare VPN Privacy Polices*
 * **[Mullvad](https://mullvad.net/)** - *[Pricing](https://i.imgur.com/LfjZ9G3.png) / [More Info](https://i.imgur.com/SNkzNV7.png) / [NetNS](https://github.com/chutz/mullvad-netns)*
 * **[Proton](https://protonvpn.com)** - *[Pricing](https://i.imgur.com/hkhZGg1.png) / [More Info](https://i.imgur.com/RZqOXKH.png) / No Torrenting w/ Free Version*
 * **[Windscribe](https://windscribe.com)** - *[Pricing](https://i.imgur.com/D7015rq.png) / [More Info](https://i.imgur.com/qmdyfp6.png) / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites) / Free Version Available*
@@ -496,6 +496,7 @@
 * [Hidester](https://hidester.com/proxy/)
 * [Zalmos](https://www.zalmos.com/)
 * [CroxyProxy](https://www.croxyproxy.com/)
+* [ProxyPx](https://www.proxypx.com/)
 * [ProxySite](https://www.proxysite.cc/) 
 * [immortalproxy](https://immortalproxy.com/) 
 * [Proxy-URLs](https://www.proxy-urls.com/)
