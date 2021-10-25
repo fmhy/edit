@@ -237,7 +237,7 @@
 * [CC0 Textures](https://cc0textures.com/) - *Textures for 3D Models* 
 * [Generated Photos](https://generated.photos/) - *AI Generated Model Photos*
 * [Blender](https://www.blender.org/) - *Open Source 3D Modeler / 2D Animation / Video Editor*
-* [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketch.Me](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [PovRay](http://www.povray.org/), [Vectary](https://www.vectary.com/) or [Art of Illusion](http://aoi.sourceforge.net/) - *3D Modeling / Art Design Tool*
+* [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketch.Me](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [Chakoku](https://github.com/itta611/ChokokuCAD), [PovRay](http://www.povray.org/), [Vectary](https://www.vectary.com/) or [Art of Illusion](http://aoi.sourceforge.net/) - *3D Modeling / Art Design Tool*
 * [MakeHuman](http://www.makehumancommunity.org/) - *3D Humanoid Modeler*
 * [FaceMaker](http://facemaker.uvrg.org/) - *Face / Avatar Generator* 
 * [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - *AI Art Generation Guide*
