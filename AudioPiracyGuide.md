@@ -136,10 +136,12 @@
 
 ## ▷ Ambient / Relaxation 
 
+* **[Chillhop](https://chillhop.com/)** - *Lo-fi Radio*
+* **[Coding Cat](https://hostrider.com/)** - *Nyan Cat's Cousin / Lo-Fi Radio*
+* **[HaloMe.nu](https://halome.nu/)** - *Halo Menu Screens*
 * **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_relaxation) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_relaxation)** - *Ambient* 
 * [lofi.cafe](https://lofi.cafe/) - *Lo-fi Radio*
 * [Focusli](https://www.focusli.com/) - *Lo-fi Radio*
-* [Chillhop](https://chillhop.com/) - *Lo-fi Radio*
 * [Viberoom](https://viberoom.audio/) - *Lo-fi Hip-Hop Radio*
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - *Create Room / Lo-Fi Player*
 * [Music For Programming](http://musicforprogramming.net/) - *Music for Focus* 
@@ -174,9 +176,7 @@
 * [Ambient-Mixer](https://movies.ambient-mixer.com/) - *Ambient Media Inspired Sounds* 
 * [Listen to Wikipedia](http://listen.hatnote.com/) - *Listen to the sound of Wikipedia's recent changes feed* 
 * [My Secret Garden](https://insecretgarden.com/) - *Ambient Sound Garden* 
-* [Coding Cat](https://hostrider.com/) - *Nyan Cat's Cousin / Lo-Fi Radio*
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
-* [HaloMe.nu](https://halome.nu/) - *Halo Menu Screens*
 
 ***
 
