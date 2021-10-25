@@ -145,6 +145,7 @@
 * [GenP](https://www.reddit.com/r/GenP) - *Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)*
 * [Torrent Community](https://t.me/TorrentCommunity) - *Telegram*
 * [Archive Team](https://wiki.archiveteam.org/) - *Data Archiving Community / [Subreddit](https://www.reddit.com/r/Archiveteam/)*
+* [Gnutella Forums](https://www.gnutellaforums.com/) - *File Sharing App Forums*
 * [The Lost Media Wiki](https://lostmediawiki.com/) / [Forum](https://forums.lostmediawiki.com/)
 * [Krinkels](https://krinkels.org/) or [Encode](https://encode.su/) - *Data Compression Discussion*
 * [WJunction](https://www.wjunction.com/) - *Pirate webhost / provider discussion* 
@@ -171,6 +172,7 @@
 * [IndieGala](https://freebies.indiegala.com/) - *Games*
 * [/r/ClaimFreeGames/](https://www.reddit.com/r/ClaimFreeGames/) - *Games*
 * [ClaimFreeGames](https://claimfreegames.com/) - *Games* 
+* [Ubisoft Free](https://free.ubisoft.com/) - *Games*
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - *Games*
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - *Auto-Claim Free Epic Games*
 * [/r/googleplaydeals](https://reddit.com/r/googleplaydeals) - *Paid apps* 
@@ -484,6 +486,7 @@
 * **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - *News Multireddit*
 * **[TorrentFreak](https://torrentfreak.com/)** - *Piracy News*
 * [RavenReader](https://ravenreader.app/) - *News Article Manager*
+* [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - *How to bypass article paywalls*
 * [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - *Generate Article Summaries*
 * [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - *News Site Indexes* 
 * [Google Alerts](https://www.google.com/alerts) - *News Alerts by Topics*
@@ -598,7 +601,7 @@
 * [SunCalc](https://www.suncalc.org/) or [MoonCalc](https://www.mooncalc.org/) - *Sun & Moon Position / Phase Calculators* 
 * [Wikimapia](http://wikimapia.org/) - *Online Editable Map*
 * [MapChart](https://mapchart.net/) - *Create Custom Maps* 
-* [Point Address](https://pointaddress.com/) or [Scribble Maps](https://www.scribblemaps.com/create/) - *Custom Location Map*
+* [Point Address](https://pointaddress.com/), [mapus](https://github.com/alyssaxuu/mapus) or [Scribble Maps](https://www.scribblemaps.com/create/) - *Custom Location Map*
 * [dgi](http://www.dgi.inpe.br/catalogo/) - *Match Satellite Images to Map*
 * [City Roads](https://anvaka.github.io/city-roads/) - *Draw City Roads*
 * [Mobac](https://mobac.sourceforge.io/) - *Mobile Atlas Creator*
@@ -752,7 +755,7 @@
 * [Print Edit WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_print_edit_we) - *Edit Pages to Make them Printable* 
 * [Grammarly](https://www.grammarly.com/) - *Grammar Checker / [Free Premium](https://redd.it/kfncju)*
 * [Mouse Gestures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mouse_gestures) - *Control Browser via Gestures*
-* [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/), [2](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - *Merges a Sites "Next" Pages*
+* [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/) - *Merges a Sites "Next" Pages*
 * [Redirector](https://einaregilsson.com/redirector/) - *Page Redirector*
 * [Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - *Download Manager Extensions*
 * [Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - *Video Download Managers*
@@ -769,7 +772,6 @@
 * [Screen Color Temperature](https://mybrowseraddon.com/screen-color-temperature.html) - *Adjust Screen Color Temperature*
 * [Font Changer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_webfont_changer) - *WebFont Changer* 
 * [ColorZilla](https://www.colorzilla.com/), [ColorFish](https://ui.vision/colorfish) or [ColorPick](https://vidsbee.com/ColorPick/) - *Color Picker* 
-* [Context Search](https://github.com/odebroqueville/contextSearch), [2](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - *Search Selected Text / Multi Site Search*
 * [Clippings](https://aecreations.sourceforge.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - *Clipboard Manager*
 * [Auto Text Expander](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_auto_text_expander) - *Create Shortcuts to Expand & Replace Text as you Type* 
 * [DontFuckWithPaste](https://github.com/jswanner/DontFuckWithPaste) - *Prevents the Blocking of Pasting into Input Fields*
@@ -857,7 +859,8 @@
 * [SaveForReadLater](https://addons.mozilla.org/en-US/firefox/addon/saveforreadlater/) - *Save Pages to Read Later* 
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - *Multi Tab Word Search Search* 
 * [PopUp Encyclopedia](https://addons.mozilla.org/en-US/firefox/addon/popup-encyclopedia/) - *Popup Encyclopedia & Dictionary* 
-* [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - *Domain Word Search* 
+* [Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - *Search Selected Text / Multi Site Search*
+* [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - *Search Current Domain* 
 * [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/) - *Custom Firefox Theme Creation*
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - *Firefox Themes List*
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - *Firefox CSS Guides* 
@@ -865,6 +868,7 @@
 * [Colors and Fonts Extractor](https://addons.mozilla.org/en-US/firefox/addon/colors-and-fonts-extractor/) - *Extract Colors & Fonts from Websites* 
 * [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - *Force Enable Right Click*
 * [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) - *Make Non-Hyperlinked URL's Clickable* 
+* [AutoPagerize Advanced](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - *Merge Multiple Pages*
 * [Profile Switcher](https://addons.mozilla.org/en-US/firefox/addon/profile-switcher/) - *Profile Manager* 
 * [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) - *Separate Cookies by Profile / [Guide](https://www.thechiefmeat.com/guides/containers.html)* 
 * [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - *Switch and Override User Agent Header on Firefox Easily*
