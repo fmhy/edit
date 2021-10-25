@@ -1949,6 +1949,7 @@ Add the following commands to a search to manually scrape each site.
 * https://3.roshansmirror.workers.dev/
 * https://drive.hasibul.workers.dev/
 * https://shibainu-uploads.site/
+* [smolOD](https://rentry.co/smolOD) - *Small Open Directories*
 
 ***
 
