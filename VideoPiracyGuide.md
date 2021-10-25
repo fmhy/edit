@@ -99,6 +99,7 @@
 * **[HiMovies](https://www3.himovies.to/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)*
 * **[PrettyFlix](https://prettyflix.gq/)** - *Movies / TV / Anime*
 * [YourPTFlixMovies](https://yourptflixmovies.com/) - *Movies / TV*
+* [Arthemis](https://releases.arthemis.xyz/) - *Movies / TV / Anime / Client / [Discord](https://discord.gg/98HxbfjKQV)*
 * [RareFilmm](https://rarefilmm.com/) - *Rare Movies* 
 * [Movie-Forum](https://movie-forum.co/forum.php) - *Movies / TV*
 * [K a p K e y K](https://kpkyk.com/) - *Movies / TV*
@@ -317,7 +318,7 @@
 * [StreamAnimeTV](https://streamanimetv.net/) - *Sub / Dub*
 * [AnimeFreak](https://www.animefreak.vip/) - *Sub / Dub*
 * [AnimeKH](https://animekh.com/) - *Sub* 
-* [thewatchcartoononline](https://www.thewatchcartoononline.tv/), [wcostream](https://www.wcostream.com/), [wcoforever](https://www.wcoforever.com/ ) or [WCO](https://www.wco.tv/) - *Anime / Cartoons* 
+* [WCO](https://www.wco.tv/)  - *Anime / Cartoons / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wco_clones)* 
 * [Funimation](https://www.funimation.com/shows/free/) - *Sub / Dub* 
 * [Pokemon.com](https://watch.pokemon.com/) - *Full Pokemon Episodes*
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - *Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/)* 
@@ -329,7 +330,7 @@
 
 * **[KimCartoon.to](https://kimcartoon.li/)**
 * [KissCartoon](https://kisscartoon.sh/)
-* [thewatchcartoononline](https://www.thewatchcartoononline.tv/), [wcostream](https://www.wcostream.com/), [wcoforever](https://www.wcoforever.com/ ) or [WCO](https://www.wco.tv/) - *Anime / Cartoons* 
+* [WCO](https://www.wco.tv/)  - *Anime / Cartoons / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wco_clones)* 
 * [TopCartoons](https://www.topcartoons.tv/)
 * [WatchCartoonOnline](https://watchcartoononline.bz/)
 * [KissCartoon.info](https://kisscartoon.info/) - *Anime / Cartoons*
@@ -342,7 +343,7 @@
 
 ## ▷ Sports Streaming
 
-* **[NBAFullHD](https://nbafullhd.com/)** or [NBAHDReplay](https://nbahdreplay.com/) - *Full NBA games*
+* **[NBAFullHD](https://nbafullhd.com/)**, [NBAFile](https://nbafile.com/) or [NBAHDReplay](https://nbahdreplay.com/) - *Full NBA games*
 * **[F1 Full Races](https://f1fullraces.com/)** - *F1 Replays* 
 * **[AllWrestling](http://www.allwrestling.live/)** - *MMA / Wrestling*
 * [WatchWrestling24](http://watchwrestling24.net/) - *MMA / Wrestling*
@@ -416,7 +417,7 @@
 * [s365.Live](http://www.s365.live/) - *Sports*
 * [MARKKY](https://markkystreams.com/) - *Sports*
 * [TheHomeSports](https://thehomesport.com/) - *Sports* 
-* [CricHD](https://fc2.crichd.com/new-home7) - *Sports* 
+* [CricHD](https://fc5.crichd.com/) - *Sports* 
 * [Sports24](https://sports24.stream/) - *Sports*
 * [MamaHD](https://mamahd.best/) - *Sports*
 * [DaddyLive](https://daddylive.co/) - *Sports*
@@ -798,6 +799,7 @@ https://greasyfork.org/en/scripts/407284-imdb-scout-mod
 * [Anime Notifier](https://notify.moe/) - *Anime List, Tracker, Database & Notifier* 
 * [Tiaga](https://taiga.moe/) - *Anime Tracking Program / [GitHub](https://github.com/erengy/taiga)* 
 * [arm-server](https://github.com/BeeeQueue/arm-server) - *Map Anime ID's between AniList, AniDB, MAL & Kitsu* 
+* [IAD](https://www.intanibase.com/) - *Animated Media Database*
 * [Chronology of Animation](http://www.animated-divots.net/chronst.html) - *Animation History / Index*
 * [Movie-Censorship](https://www.movie-censorship.com/) - *Compare Alternate Versions of Media* 
 * [MovieMap](http://www.themoviemap.com/), [ReelStreets](https://www.reelstreets.com/), [Movie-Locations](http://www.movie-locations.com/), [WhereDidTheyFilmThat](http://www.wheredidtheyfilmthat.co.uk/), [British-Film-Locations](http://www.british-film-locations.com/) - *Film Location Maps*
@@ -869,6 +871,7 @@ https://greasyfork.org/en/scripts/407284-imdb-scout-mod
 * [iSubtitles](https://isubtitles.org/) - *Subtitles* 
 * [Subs4Free](https://www.subs4free.info/) - *Subtitles* 
 * [English-Subtitles](https://english-subtitles.org/) - *Subtitles* 
+* [SubAsk](https://subask.com/) - *Subtitles*
 * [MovieSubtitles](http://www.moviesubtitles.net/) - *Subtitles*
 * [SubtitleSeeker](https://www.subtitleseeker.in/) - *Subtitles*
 * [Subtitlist](https://subtitlist.com/) - *Subtitles* 
