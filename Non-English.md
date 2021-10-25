@@ -108,6 +108,7 @@
 * [ICIBA](http://www.iciba.com/) or  [YouDao](https://fanyi.youdao.com/) - *Chinese Translator / [Client](http://cp.iciba.com/)*
 * [Shufazidian](http://www.shufazidian.com/) - *Chinese Calligraphy Dictionary*
 * [itaigi](https://itaigi.tw/) - *Chinese to Taiwanese Translator*
+* [Flash.cn](https://www.flash.cn/) - *Chinese Flash Player*
 
 ## ▷ Downloading
 
@@ -197,9 +198,8 @@
 * [ishare.iask](https://ishare.iask.sina.com.cn/) - *Documents*  
 * [CText](https://ctext.org/), [ChineseNotes](http://chinesenotes.com/) or [Kanripo](https://www.kanripo.org/) - *Chinese Historic Text Archive*
 * [guoxue](http://www.guoxue.com/) - *History / Journals*
-* [Moedict](https://www.moedict.tw/) - *Chinese Dictionary*
+* [Moedict](https://www.moedict.tw/), [CantoDict](http://www.cantonese.sheik.co.uk/dictionary/) or [ZDic](https://www.zdic.net/) - *Chinese Dictionary*
 * [kangxizidian](https://kangxizidian.com/) - *Chinese Kangxi Dictionary*
-* [ZDic](https://www.zdic.net/) - *Chinese Dictionary*
 * [CCams](http://www.ccamc.co/) - *Chinese Character Search*
 * [CBeta](http://www.cbeta.org/) - *Chinese Buddhist Scriptures*
 * [21dzk](https://21dzk.l.u-tokyo.ac.jp/SAT/index.html) - *Chinese Buddhist Scriptures*
@@ -566,6 +566,7 @@
 
 * [lit.link](https://lit.link/) - *Link All Your Sites on One Page*
 * [jpsubbers.xyz](http://jpsubbers.xyz/Japanese-Subtitles/) - *Japanese Subtitles for J-Dramas*
+* [Poipiku](https://poipiku.com/) - *User-Made Images*
 
 ## ▷ Downloading
 
@@ -1389,7 +1390,8 @@ Portuguese
 
 # ► Turkish
 
-* [TurkceAltyazi](https://turkcealtyazi.org/index.php) - *Turkish Subtitles*
+* [TurkceAltyazi](https://turkcealtyazi.org/index.php) - *Subtitles*
+* [Firmaa](http://www.firmaa.com/) - *Company Directory*
 
 ## ▷ Downloading
 
@@ -1483,6 +1485,7 @@ Portuguese
 * [Segoideas](https://segoideas.com/) - *Taiwanese / Streaming / TV*
 * [lupiteam](https://lupiteam.net/) - *Corsican / Manga*
 * [RÚV](https://www.ruv.is/ruv) - *Icelandic / Live TV*
+* [JavaLibre](https://javalibre.com.ua/) - *Ukrainian / Books*
 * [Partis](https://www.partis.si/) - *Slovenian / Torrent Aggregator*
 * [KannadaCine](https://www.kannadacine.com/) - *Kannada / Streaming / Movies*
 * [Filmarkivet](https://www.filmarkivet.se/) - *Swedish / Short Films*
