@@ -57,7 +57,7 @@
 * **[Calibre](https://calibre-ebook.com/)** - *E-Book Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools)*
 * **[Library Genesis](https://libgen.fun/)** - *Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools)*
 * **[Z-Library](https://z-lib.org/)** - *Books / Comics / Educational / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_tools)*
-* **[eBookHunter](https://ebook-hunter.org/)** - *Books / Comics*
+* **[eBookHunter](https://ebook-hunter.org/)**, [2](https://ebookchasseur.com/) - *Books / Comics*
 * **[ebook3000](http://www.ebook3000.com/)** - *Books / Audiobooks / Comics / Magazines / Newspapers*
 * **[The-Eye Books](https://the-eye.eu/public/Books/)** - *Books*
 * **[Telegram E-Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - *Telegram E-Book Channels*
@@ -139,6 +139,7 @@
 * [eBook Junkie](https://www.ebookjunkie.com/) - *Books*  
 * [Sharing eBook](https://www.sharingebook.com/) - *Books* 
 * [FeedBooks](http://m.feedbooks.com/publicdomain) - *Books*
+* [Index of Books](http://hoard.billbert.co/Books/) - *Books*
 * [eBook Lobby](http://www.ebooklobby.com/) - *Books*  
 * [1Lib](https://1lib.limited/) - *Books*
 * [Avalon Library](https://avalonlibrary.net/) - *Books*
@@ -397,6 +398,7 @@
 * [English Torah](http://englishtorah.com/) - *Torah Translation*
 * [Halakhah](https://www.halakhah.com/) - *Talmud Translation*
 * [Targum](http://targum.info/targumic-texts/) - *Targum Translation*
+* [2Muslims](https://www.2muslims.com/) - *Muslim Resource Database*
 * [Sunnah.com](https://sunnah.com/) - *Hadith Translation*
 * [Questions on Islam](https://questionsonislam.com/) - *Islam Q&A*
 * [84000](https://read.84000.co/) - *Buddhism*
@@ -478,6 +480,7 @@
 * [OAPEN](https://oapen.org/)
 * [vdoc.pub](https://vdoc.pub/)
 * [ImSoLost](http://imsolost.com/books/)
+* [EDUBBookPDF](https://edubookpdf.com/)
 * [Readings](https://drive.google.com/drive/u/0/mobile/folders/0B5KDwL1Qi6zUWFlfbU8yTjU4WUE?usp=drive_open)
 * [StruggleBuddies 4.0](https://mega.nz/folder/A15gybjB#s_vaCKHVR35X704ot2g7LQ)
 * [pdfs - books](https://drive.google.com/drive/u/0/mobile/folders/0B1DQUsG9YxIXflhQejJqcmgwbzgtcjQzbFlFU3BNeVJES1JwTW9hRmEwa0k4dUNVZEJzQzg)
@@ -628,9 +631,6 @@
 * **[Sci-Hub](https://sci-hub.se/)** - *Science article viewer*
 * **Sci-Hub Tools** - *[Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [3](https://sci-hub.tech/), [4](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button) / [PDF Download](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub)*
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - *How to bypass article paywalls*
-* [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) - *Bypass Scientific Document Paywalls* 
-* [unpaywall](https://unpaywall.org/) - *Bypass Scholarly Article Paywalls*
-* [Medium Unlimited](https://github.com/manojVivek/medium-unlimited) - *Unlimited Articles on Medium* 
 * [Wikisource](https://en.wikisource.org) - *Poetry / Text / Documents*
 * [Alex Catalogue](http://www.infomotions.com/alex/) - *English / Philosophy Documents*  
 * [FindPDFDoc](http://www.findpdfdoc.com/) - *Document Search* 
@@ -855,6 +855,7 @@
 * [MangaOwl](https://mangaowl.net/) 
 * [MangaDoom](https://mngdoom.com/) 
 * [MangaSushi](https://mangasushi.net/)
+* [MangaSail](https://www.mangasail.co/)
 * [Kanjiku](https://kanjiku.net/)
 * [MangaTX](https://mangatx.com/) 
 * [Flamescans](https://flamescans.org/)
@@ -1058,6 +1059,7 @@
 * **[MyAnimeList](https://myanimelist.net/)** - *Manga*
 * [Litsy](https://www.litsy.com/) - *Book Recommendation / Photo Sharing Community*
 * [What Should I Read Next?](https://www.whatshouldireadnext.com/), [RecommendMeABook](https://recommendmeabook.com/) or [WhichBook](https://www.whichbook.net/) - *Book Recommendations*
+* [Comic Book Reading Orders](https://comicbookreadingorders.com/) - *Comic Book Reading Orders*
 * [DC Superhero Era Timeline](https://i.imgur.com/Icojkx1.jpg) / [2](https://i.imgur.com/drSEr0j.jpg)
 * [Anime-Planet](https://anime-planet.com/) - *Manga* 
 * [All Anime](https://allanime.site/) - *Manga*
