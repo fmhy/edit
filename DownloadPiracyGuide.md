@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/3bP8X6d.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/dxiGLuY.png)** - *For mobile users*
 
 ***
 ***
@@ -231,6 +231,7 @@
 * [Freeware Directory](http://www.freewaredirectory.net/) - *Software*
 * [FreewareStop](https://www.freewarestop.com/) - *Software*
 * [LO4D](https://www.lo4d.com/) - *Software* 
+* [CyberSpace](https://cyberspace.world/) - *Software*
 * [ListOfFreeWare](https://listoffreeware.com/) - *Software*  
 * [Downloadastro](https://en.downloadastro.com/) - *Software* 
 * [SnapFiles](https://www.snapfiles.com/freeware/) - *Software*
@@ -255,11 +256,11 @@
 
 ***
 
-## ► [Linux Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_software)
+## ▷ [Linux Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_software)
 
 ***
 
-## ► [Mac Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_software)
+## ▷ [Mac Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_software)
 
 ***
 
@@ -322,7 +323,7 @@
 # ► Usenet
 
 * **[Usenet Guide / Automation Setup](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic)**
-* **[Usenet Tools & Services Index](https://curlie.org/en/Computers/Usenet)**
+* **[Usenet Tools & Services Index](https://curlie.org/en/Computers/Usenet)** or [UsenetTools](http://www.usenettools.net/)
 
 ## ▷ Indexers
 
@@ -334,6 +335,7 @@
 * [nzb.su](https://www.nzb.su/)
 * [NZB Index](https://www.nzbindex.com/) 
 * [Newznab](https://www.newznab.com/)
+* [NZBIndex](https://www.nzbindex.nl/) 
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
 * [NZBKing](http://nzbking.com/)
@@ -360,7 +362,7 @@
 
 # ► File Leeches 
 
-* **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)** or [LeechVIP](http://leechvip.net/) - *Leech Lists*
+* **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)**, [leechlisting](https://www.leechlisting.com/) or [LeechVIP](http://leechvip.net/) - *Leech Lists*
 * [@Transload (telegram)](https://t.me/transload)
 * [@deltaleechbot (teelgram)](https://t.me/deltaleechbot) 
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - *Send Premium Files to Leeches*
