@@ -56,6 +56,7 @@
 * [SnoopSnitch](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/) - *Check Mobile Network Security* 
 * [FairEmail](https://play.google.com/store/apps/details?id=eu.faircode.email) - *Open Source, Privacy Oriented Email for Android / [f-Droid](https://f-droid.org/packages/eu.faircode.email/)*
 * [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/) - *Email Forwarding*
+* [Private Location](https://f-droid.org/en/packages/com.wesaphzt.privatelocation/) - *Hide Phone Location Permanently*
 * [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&amp;hl=en_US) - *Tor Proxy*
 * [TorServices](https://f-droid.org/packages/org.torproject.torservices/) - *Tor App Proxy / [GitLab](https://gitlab.com/guardianproject/torservices)*
 * [Fritter](https://fritter.cc/) - *Privacy Based Twitter Client*
@@ -151,20 +152,26 @@
 * [Grammarly](https://forum.mobilism.org/search.php?keywords=grammarly&sr=topics&sf=titleonly) - *Grammarly Keyboard Premium* 
 * [Fing](https://www.fing.com/products/fing-app) - *Network Toolkit* 
 * [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage) - *Disk Usage Analyzer*
-* [Caffeine](https://lab.zhs.moe/caffeine/) - *Keep Screen On*
 * [AlmightyVolumeKeys](https://play.google.com/store/apps/details?id=com.masel.almightyvolumekeys) - *Remap Volume Keys*
 * [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - *Text Font Generator*
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) or [SimplyTranslate Flutter](https://github.com/ManeraKai/simplytranslate-flutter-client) - *Translator*
+* [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) - *Create App Shortcuts*
+* [QuickTiles](https://f-droid.org/en/packages/com.asdoi.quicktiles/) - *Quick Setting Tiles*
 * [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) - *Custom Notifications*
+* [aodNotify](https://play.google.com/store/apps/details?id=com.jamworks.alwaysondisplay) - *Notification LED*
+* [AlwaysOnEdge](http://www.aoeapps.com/) - *Android Customization App*
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - *Dictionary App*
 * [AutomaTag](http://automatag.com/) - *Meta Data Organizer*
 * [GameGuardian](https://gameguardian.net/) - *Game Hack / Alteration Tool*
 * [NeonRom3r](https://github.com/Gr3gorywolf/NeonRom3r) - *Download Roms* 
 * [VMOS](https://www.vmos.com/) - *Android Virtual Machine*
 * [Media Bar](https://play.google.com/store/apps/details?id=apps.ijp.mediabar) - *Status Bar Media Controller*
+* [Caffeine](https://lab.zhs.moe/caffeine/) - *Keep Screen On*
 * [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - *Android Display Control*
+* [WaveUp](https://gitlab.com/juanitobananas/wave-up) - *Turn On Display via Waving*
 * [Shelter ](https://cgit.typeblog.net/Shelter/) or [Insular](https://gitlab.com/secure-system/Insular) - *Isolate / Clone Apps*
 * [MacroDroid](http://macrodroid.com/) - *Android Automation* 
+* [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) - *Gesture Controls*
 * [Adebar](https://codeberg.org/izzy/Adebar) or [OAndBackupX](https://github.com/machiav3lli/oandbackupx) - *Device Backup Tool*
 * [Migrate](https://play.google.com/store/apps/details?id=balti.migrate) - *Migration Tool / Root Required*
 * [Videoder](https://www.videoder.com/) or [DVD](https://github.com/yausername/dvd) - *Video Download Tool* 
@@ -209,7 +216,9 @@
 * [Vysor](https://www.vysor.io/) or [scrcpy](https://github.com/Genymobile/scrcpy) - *Control Android via Desktop*
 * [FAST](https://play.google.com/store/apps/details?id=com.netflix.Speedtest), [Meteor](https://play.google.com/store/apps/details?id=meteor.test.and.grade.internet.connection.speed) or [FCC Speed Test](https://play.google.com/store/apps/details?id=com.samknows.fcc&hl=en_US&gl=US) - *Internet Speed Test*
 * [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - *Use Google Cam Without Google Play* 
+* [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - *Fix OLED Images*
 * [Red Moon](https://github.com/LibreShift/red-moon) - *Screen Filter*
+* [sh-ort](https://sh-ort.app/) - *URL Shortener*
 * [RClone](https://github.com/x0b/rcx) - *Multi-Site Cloud Storage File Manager*
 * [Omega Launcher](https://github.com/otakuhqz/omega), [Unlauncher](https://github.com/jkuester/unlauncher) or [Ratio](https://blloc.com/) - *App Launcher* 
 * [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) - *App Managers*
@@ -414,14 +423,14 @@
 
 # ► Android Audio
 
-* **[Spotify APK](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=Spotify&sf=titleonly)** (No Ads) or [Altas-Notas](https://github.com/polonez-byte-112/Altas-Notas) - *Streaming / [Version Manager](https://github.com/xManager-v2/xManager-Spotify) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://f-droid.org/packages/com.rohit2810.spotit/)*
-* **[AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly)** - *Download / MP3 / FLAC* 
+* **[Spotify APK](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=Spotify&sf=titleonly)** (No Ads) or [Altas-Notas](https://github.com/polonez-byte-112/Altas-Notas) - *Streaming / [Version Manager](https://github.com/xManager-v2/xManager-Spotify) / [Downloader](https://github.com/sheensantoscapadngan/SpotaFree) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://f-droid.org/packages/com.rohit2810.spotit/)*
 * [YouTube Music Vanced](https://vancedapp.com/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [Ylight Music](https://apt.izzysoft.de/fdroid/repo/com.ylightmusic.app/), [HoloPlay](https://holoplay.io/) or [YMusic](https://ymusic.io/) - *YouTube Music Player*
 * [Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players) - *Music Players / Libraries*
 * [Finamp](https://github.com/UnicornsOnLSD/finamp) - *Jellyfin Music Player*
 * [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - *Subsonic Client*
 * [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - *Streaming*
-* [Deezloader Android](https://t.me/deezloaderremixmobile) - *Download / MP3  / FLAC + [Non Telegram DL](https://redd.it/d3i9fr)* 
+* [Deezloader Android](https://t.me/deezloaderremixmobile) - *Download / MP3 + [Non Telegram DL](https://redd.it/d3i9fr)* 
+* [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - *Download / MP3* 
 * [SMLoadr](https://t.me/SMLoadrNews) - *Download / FLAC / MP3*
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) or [SongTube](https://github.com/SongTube/SongTube-App) - *YouTube Audio / Video Downloader*
 * [Fildo](https://fildo.net/android/en/) - *Streaming*
@@ -438,8 +447,10 @@
 * [AudioSwitch](https://play.google.com/store/apps/details?id=com.nordskog.LesserAudioSwitch) - *Switch Audio to Different Outputs Lesser*
 * [Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler) - *Android Scrobbler*
 * [MP3 Tagger](https://play.google.com/store/apps/details?id=com.fillobotto.mp3tagger) - *Automatic Audio ID3 Tagging*
+* [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer) - *Audio Equalizer*
 * [Voleq](https://play.google.com/store/apps/details?id=com.veryclevernamecompany.voleq) - *Volume Equalizer*
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - *Identify Playing Songs*
+* [skipTrackLongPressVolume](https://github.com/Cilenco/skipTrackLongPressVolume) - *Long Press Volume Button Track Skip*
 
 ***
 
@@ -528,6 +539,7 @@ RSS Player*
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) or [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - *Bilibili Client*
 * [NicoTap](https://play.google.com/store/apps/details?id=com.yurafuca.nicotap) - *Nico Nico Client*
 * [SubHub](https://github.com/FunkyMuse/SubHub) - *Subtitle Downloader*
+* [Tunity](https://tunity.com/) - *Hear Any Muted TV*
 
 ***
 
@@ -826,6 +838,7 @@ RSS Player*
 * [Wako-TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - *Movies / TV / Anime / Real Debrid required*
 * [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962) or [‎Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - *Video Player*
 * [Better Cercube](https://appdb.to/app/cydia/1900000823), [uYou+](https://appdb.to/app/cydia/1900000830) / [Disocrd](https://discord.gg/yXGVJptcaF) or [Cercube](https://rejail.ru/pack/cercube) - *Modded YouTube iPA / [Reddit Post](https://redd.it/olsxri)*
+* [Tunity](https://tunity.com/) - *Hear Any Muted TV*
 
 ***
 
