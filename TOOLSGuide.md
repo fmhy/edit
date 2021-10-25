@@ -18,7 +18,7 @@
 * **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - *Organize Ideas & Projects*
 * **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** - *Device Repair Articles*
 * **[TuboTax Sucks Ass](http://turbotaxsucksass.net/)** - *File Taxes for Free*
-* **[Worldometer](https://www.worldometers.info/)** - *World Data & Statistics*
+* **[Worldometer](https://www.worldometers.info/)** or [UN Data](https://data.un.org/) - *World Data & Statistics*
 * **[Our World in Data](http://ourworldindata.org/)** - *World Problem Database*
 * **[BeMyEyes](https://www.bemyeyes.com/)** - *Assist the Visually Impaired* 
 * [ShellBot](https://github.com/MannyHackers/ShellBot) - *Multi-Tool Telegram Bot*
@@ -103,6 +103,8 @@
 * [Nute](https://nute.app/) - *Quickly Make & Save Text Files*
 * [ZealDocs](https://zealdocs.org/) - *Documentation Reader*
 * [Lyx](https://www.lyx.org/) - *LaTeX Editor*
+* [AirPDFtoExcel](https://airpdftoexcel.com/) - *PDF to Excel Converter*
+* [How To Use Excel](https://www.how-use-excel.com/) - *Excel Tutorial*
 * [Detexify](http://detexify.kirelabs.org/classify.html) - *Handwritten LaTeX Symbol Recognition*
 * [QuillBot AI](https://quillbot.com/), [Rewrite Tool](https://www.rewritetool.net/), [Paraphraz](https://paraphraz.it/) or [Paraphrasing Tool](https://paraphrasetool.com/) - *Paraphrasing Tool*
 * [phraseup](http://www.phraseup.com/) - *Autocomplete Common Phrases* 
@@ -160,7 +162,6 @@
 * [SVGBob Editor](https://ivanceras.github.io/svgbob-editor/) - *Convert ASCII Diagrams to SVG Images* 
 * [E5 Rclone Actions](https://github.com/ChirmyRam/E5-Rclone-Actions-Repo) - *Keep OneDrive Office E5 Active*
 * [Image to Braille](https://505e06b2.github.io/Image-to-Braille/) - *Convert Images to Braille*
-* [How To Use Excel](https://www.how-use-excel.com/) - *Excel Tutorial*
 
 ***
 
@@ -199,6 +200,7 @@
 * [FFmpeg](https://ffmpeg.org/) - *Video / Audio Recorder, Converter & Streaming*
 * FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite)
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - *SWF to Video Converter*
+* [MotionFactory](https://www.motionfactory.io/) - *Video Editing Workflow Manager*
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) or [OBS Ninja](https://obs.ninja/) - *Streaming Tools Index*
 * [OBS](https://obsproject.com/) or [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs) - *Video Recording / Live Streaming / [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT)* 
 * [Stream Elements](https://streamelements.com/) - *Streaming Service Manager*
@@ -247,7 +249,7 @@
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - *Nico Nico Video Player*
 * [polsy.org.uk](http://polsy.org.uk/) - *Alt Players for Video Sites*  
 * [ShareAE](https://www.shareae.com/), [HunterAE](https://hunterae.com/), [AEShares](https://aeshares.com/), [AEDownload](https://aedownload.com/), [AERiver](https://aeriver.com/), [CGNullded](https://cgnulled.com/), [Intro HD](https://intro-hd.net/) or [DownAE](https://downae.com/) - *After Effects Templates*
-* [FootageCrate](https://footagecrate.com/) - *Video Effects*
+* [FootageCrate](https://footagecrate.com/), [MATESFX](https://www.freevideoeffect.com/), [IntroHD](https://www.introhd.net/) or [VFXDownload](https://www.vfxdownload.net/) - *Video Effects*
 * [video2x](https://github.com/k4yt3x/video2x) - *Video Upscaler*
 * [Anime4K](https://github.com/bloc97/Anime4K) - *Anime Video Upscaler* 
 * [Video Vault](https://www.bravenewtech.org/) - *Video Preservation Tool* 
@@ -288,7 +290,7 @@
 * [FlsAudio](https://flsaudio.com/en/gb/) - *FLStudio Samples / Presets / Plugins* 
 * [PluginTorrent](https://plugintorrent.com/) - *Plugins / Samples*
 * [LoopTorrent](https://looptorrent.net/) - *VST Plugins*
-* [CrackCartel Vault](https://mega.nz/folder/DtUT0QaI#5NwiaqJwToyTOHCchavUnQ), [RKHive](https://rkhive.com/) or [SamplesTorrent](https://samplestorrent.com/) - *Audio Samples*
+* [CrackCartel Vault](https://mega.nz/folder/DtUT0QaI#5NwiaqJwToyTOHCchavUnQ), [GoAudio](https://www.goaudio.cc/), [RKHive](https://rkhive.com/) or [SamplesTorrent](https://samplestorrent.com/) - *Audio Samples*
 * [AirWindows](http://www.airwindows.com/) - *Reverbs / Equalizers / Plugins*
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - *Learn How to Play Music*
 * [Jukebox](https://jukebox.today/) or [jqbx](http://jqbx.fm/) - *Music Sync / Listening Parties*
@@ -370,6 +372,7 @@
 * [Acapella-Extractor](https://www.acapella-extractor.com/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - *Remove Background Tracks from Songs*
 * [VoiceFX](https://blog.xaymar.com/projects/voicefx/) - *Remove Background Noise from Voice Recordings*
 * [Krisp](https://krisp.ai/) - *Noise Cancellation Software*
+* [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) - *Audio Mixing App*
 * [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - *Voice Audio Mixer*
 * [Voice Changer](https://voicechanger.io/ or [ClownFish](https://clownfish-translator.com/voicechanger/) - *Voice Changer*
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) or [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - *Clone Voices*
@@ -829,6 +832,7 @@ General Reading Sites*
 * [Discord-Sandbox](https://github.com/khlam/discord-sandboxed) - *Sandbox Discord Client*
 * [crocodile](https://github.com/tbodt/crocodile) - *Discord Client for TempleOS*
 * [displunger](https://gitlab.com/derpystuff/displunger) - *Run Old Versions of Discord*
+* [Acrylic](https://github.com/xirreal/Acrylic) - *Glass Discord Theme*
 * [Disboard](https://disboard.org/), [RovelStars](https://discord.rovelstars.com/), [DiscordServers](https://discordservers.com/), [Discord Street](https://discord.st/), [discordlist.io](https://discordlist.io/), [DiscordServers.me](https://discordservers.me/) or [Discord Me](https://discord.me/) - *Discover Discord Servers / Bots* 
 * [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - *Use Discord Emojis without Nitro* 
 * [Slackmoji](https://github.com/seanprashad/slackmoji) or [emoji.gg](https://emoji.gg/) - *Discord Emojis*
@@ -917,6 +921,7 @@ General Reading Sites*
 * [Discord.sale](https://discord.sale/), [2](https://builds.discord.sale/) - *Discord Client Build Info*
 * [discasset](https://github.com/Commandtechno/discasset), [2](https://gitlab.com/derpystuff/discasset) - *Discord Asset Grabber*
 * [Hypesquad](https://cdn.discordapp.com/attachments/668986791797325824/844589771653382194/unknown.png) - *Get a Discord Profile Badge*
+* [AutoDank](https://github.com/Crenshaw1312/AutoDank) - *Selfbot for DankMemer bot / [Warning](https://i.imgur.com/q5YMUIb.png)*
 * [Imagine](https://imagine.vanished.rocks/) - *Imagine Discord Branding Image Creator*
 * [DiscordExtras](https://github.com/NotZoeyDev/DiscordExtras) - *Patch iOS Discord Client*
 * [BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - *Bot Messaging Panel*
@@ -1089,6 +1094,7 @@ General Reading Sites*
 * [ListCopy](http://projects.noahliebman.net/listcopy/connect.php) - *Copy Twitter Lists* 
 * [Twlets](http://twlets.com/) - *Export Twitter Data* 
 * [Twint](https://github.com/twintproject/twint) - *Twitter Scraping / OSINT Tool*
+* [QuestionBox](https://peing.net/en/) - *Anonymous Twitter Question Tool*
 * [RandomTweet](https://randomtweet.com/) - *Get a Random Tweet from any User*
 * [EmojiTracker](http://emojitracker.com/) - *Real-Time Twitter Emoji Use* 
 * [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) - *Remove All Twitter Metrics*
@@ -1336,6 +1342,7 @@ General Reading Sites*
 * [Jabba The Hud](https://codeberg.org/elberro/jabba-the-hud) - *Windows HUD Tweak*
 * [Blackbox 4 Windows](http://blackbox4windows.com/) - *Custom Windows Shells / Widgets*
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - *Alt Windows Shells* 
+* [Win98Icons](https://win98icons.alexmeub.com/) - *Classic Win98 Icons*
 * [Cursors 4U](https://www.cursors-4u.com/) - *Cursors*
 * [Windows Sounds](https://winsounds.com/) or [Win11 Sounds](https://mega.nz/file/CpRkwTrD#9NihefiFDBirhwtXqSvjWAhrFzUPcJveCeePfWh1lmo) - *Windows Sound Schemes*
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - *MacOS Cursors for Windows*
@@ -1345,6 +1352,7 @@ General Reading Sites*
 * [Hide File Explorer Dark Mode White Line](https://i.imgur.com/ZZsvyyM.png)
 * [MyDockFinder](https://www.mydockfinder.com/) - *MacOS Theme for Windows 10*
 * [Taskbar11](https://github.com/jetspiking/Taskbar11) - *Change Windows 11 Taskbar Position & Size*
+* [Win11DisableRoundedCorners](https://github.com/valinet/Win11DisableRoundedCorners) - *Disable Win11 Rounder Corners*
 * [Macdows11](https://redd.it/pd5ha6) - *Windows 11 Mac Theme Guide*
 * [StartAllBack](https://www.startallback.com/) or [Start11](https://www.stardock.com/products/start11/) - *Restore Classic Start Menu in Windows 11*
 
@@ -1549,6 +1557,7 @@ General Reading Sites*
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?usp=sharing), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - *FPS & Latency Guides*
 * [Fraps](https://fraps.com/), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - *FPS Benchmarking Utility*
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner) - *Graphics Card Overclocking Utility / FPS Benchmarking*
+* [WindowedBorderlessGaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/) - *Borderless Windows for All Games*
 * [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - *Game Fixes and Patches*
 * [GameBurnWorld](http://www.gameburnworld.com/) - *No-CD/No-DVD Patches, Game Fixes, Trainers, Cheats* 
 * [Ludsavi](https://github.com/mtkennerly/ludusavi) - *PC Game Save Backup Manger*
