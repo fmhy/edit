@@ -125,6 +125,7 @@
 * [FreeEducationWeb](https://freeeducationweb.com/) - *Courses* 
 * [DLECourse](https://dlecourse.com/) - *Courses* 
 * [FreeCourseDL](https://freecoursedl.com/) - *Courses* 
+* [s28.bitdl.ir](http://s28.bitdl.ir/Video/) - *Courses*
 * [HackNation](https://hacksnation.com/) - *Courses*
 * [torrenttempdrive](https://torrenttempdrive.hashhackers.com/1:/) - *Courses*
 * [FreeStudyWeb](https://freestudyweb.com/) - *Courses* 
@@ -171,6 +172,7 @@
 * [Udemy - Cybersecurity Collection](https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD) - *Cyber Security Courses*
 * [Skills for All](https://skillsforall.com/) - *Cyber Security Courses*
 * [CISSP Certifications](https://drive.google.com/drive/u/0/folders/1AWJHcWt4KngV2ijEFHmh74-HHMwSR16u) - *Cyber Security Lessons*
+* [RavindraBabu](https://mega.nz/folder/AV50wQqT#uQjuHttwYI6lvxcClb2Qtg) - *Programming / Math Courses*
 * [CertCommunity](https://www.certcommunity.org/forum/) - *IT Cert Courses*
 * [Top Linux Interview Questions & Answers](https://mega.nz/#F!K1MnlSzJ!fyLhNA7V_m1z9JZfPW0alg) - *Linux Interview Q&A*
 * [CHFI](https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg) - *Computer Hacking Forensic Courses*
@@ -455,6 +457,7 @@
 * [Guitarsix](https://guitarsix.com/) - *Guitar*
 * [LearningSynths](https://learningsynths.ableton.com/) - *Synthesizers*
 * [A-Complete-UTAU-Tutorial-For-Beginners](https://www.quotev.com/story/9299060/A-Complete-UTAU-Tutorial-For-Beginners) - *UTAU Tutorial*
+* [MusicStaff](https://musicstaff.com/) - *Music Teacher Search*
 
 ***
 
@@ -500,6 +503,8 @@
 * [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) - *Homework Help* 
 * [Cheatography](https://cheatography.com/) - *Educational Cheat Sheets* 
 * [Toppr](https://www.toppr.com/) - *Test Practice & Homework Help*
+* [Quizizz Cheat](https://github.com/gbaranski/quizizz-cheat) - *Quizizz Answers Tool*
+* [PXTrez](https://pxtrez.com/) - *Kahoot Answers Tool*
 * [ITExamAnswers.net](https://www.itexamanswers.net/) - *IT Exam Answers*
 * [Oak National Academy](https://teachers.thenational.academy/) - *Lessons / Quizzes*
 * [Runestone Interactive](https://runestone.academy/) - *Interactive Lessons*
