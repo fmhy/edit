@@ -103,11 +103,12 @@
 * [Whatever](https://github.com/CellarD0-0r/whatever) - *Evernote Client*
 * [Simple Terminal](https://st.suckless.org/), [Alacritty](https://github.com/alacritty/alacritty) or [Kitty](https://sw.kovidgoyal.net/kitty/overview/) - *Terminal Emulator*
 * [Electerm](https://electerm.github.io/electerm) - *Terminal / SSH / STP Client*
-* [Yakuake](https://yakuake.kde.org/) - *Quake Style Terminal Emulator*
+* [Yakuake](https://apps.kde.org/yakuake/) - *Quake Style Terminal Emulator*
 * [fzf](https://github.com/junegunn/fzf) - *CLI based fuzzy finder*
 * [Timeshift](https://github.com/teejee2008/timeshift) - *Create System Snapshots & Restore*
 * [Homebrew](https://brew.sh/) - *Package Manager*
 * [pacwall](https://github.com/Kharacternyk/pacwall) - *Live Wallpaper that shows Dependency Graph & Status of Installed Packages* 
+* [picom](https://github.com/yshui/picom) - *X11 Compositor*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
 * [Learn the Linux Command Line](https://mega.nz/folder/BlRVyArK#84n4ZhYZCRXLjt-KEP6u6g) - *Linux Command Line Lessons*
 
