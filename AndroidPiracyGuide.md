@@ -330,7 +330,6 @@
 * [TechBigs](https://techbigs.com/) - *Modded*
 * [AndroidYolo](https://androidyolo.co/) - *Modded*
 * [APKMody](https://apkmody.io/) - *Modded* 
-* [APKDone](https://apkdone.com/) - *Modded* 
 * [APK Folks](https://apkfolks.com/) - *Modded*
 * [DL King](http://dl.king2net.com/soft%20android/) - *Modded*
 * [APK Bolt](https://apkbolt.com/) - *Modded*
