@@ -591,7 +591,8 @@ RSS Player*
 * [IPSW](https://ipsw.me/) - *Provides Jailbreak firmware*
 * [Julioverne](https://julio.hackyouriphone.org/) - *Jailbreaking Tools* 
 * [checkra1n](https://checkra.in/) - *5s - X Jailbreak*
-* [Taurine](https://taurine.app/) - *iOS 14-14.3 Semi-Untethered Jailbreak*
+* [Taurine](https://taurine.app/) - *14-14.3 Semi-Untethered Jailbreak*
+* [Fugu14](https://github.com/LinusHenze/Fugu14) - *14.3-14.5 Untethered Jailbreak (Incomplete)*
 * [ Checkra1n 1.1.7](https://drive.google.com/folderview?id=1istKtuN84VgRWcoIGHBJJwstObjMyMXf) - *iOS 14.7 Jailbreak*
 * [Odyssey](https://theodyssey.dev/) - *13.0-13.5 Semi-tethered Jailbreak* 
 * [Chimera](https://chimera.coolstar.org/) - *12-12.5.3 Jailbreak*
