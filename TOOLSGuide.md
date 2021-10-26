@@ -873,6 +873,7 @@ General Reading Sites*
 * [Forms](https://gitlab.com/rubellite/engineering/forms ) - *Google Form Responses as Discord Embeds*
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter), [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker), [discord-archiver](https://github.com/nektro/discord-archiver) or [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper) - *Archive / Export Discord Chats* 
 * [pullcord](https://github.com/tsudoko/pullcord) - *Discord Archiver*
+* [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion), [discord-delete](https://github.com/adversarialtools/discord-delete), [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) or [QuickDeleteMessages](https://u.nu/9i9jk) - *Delete Discord Messages / [Warning](https://i.imgur.com/Kt8G430.png)* 
 * [Discord Style](https://www.discord.style/) - *Discord Server Templates*
 * [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/)
 * [Discord Embed Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_embed_generators) - *Generate Embeds via Webhooks*
