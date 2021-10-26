@@ -231,7 +231,6 @@
 * [Freeware Directory](http://www.freewaredirectory.net/) - *Software*
 * [FreewareStop](https://www.freewarestop.com/) - *Software*
 * [LO4D](https://www.lo4d.com/) - *Software* 
-* [CyberSpace](https://cyberspace.world/) - *Software*
 * [ListOfFreeWare](https://listoffreeware.com/) - *Software*  
 * [Downloadastro](https://en.downloadastro.com/) - *Software* 
 * [SnapFiles](https://www.snapfiles.com/freeware/) - *Software*
