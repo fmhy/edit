@@ -333,7 +333,7 @@
 * [APKDone](https://apkdone.com/) - *Modded* 
 * [APK Folks](https://apkfolks.com/) - *Modded*
 * [DL King](http://dl.king2net.com/soft%20android/) - *Modded*
-* [APK Bolt](https://download.apkbolt.com/apk/) - *Modded*
+* [APK Bolt](https://apkbolt.com/) - *Modded*
 * [ModApk.Cloud](https://modapk.cloud/) - *Modded* 
 * [Rockmods](https://www.rockmods.net/) - *Modded* 
 * [ApkMagic](https://apkmagic.com.ar/) - *Modded* 
