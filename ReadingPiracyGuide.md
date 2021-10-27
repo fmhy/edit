@@ -961,6 +961,7 @@
 * **[GoodReads](https://www.goodreads.com/)** - *Books / Comics / Manga / [DL Button](https://github.com/laxyapahuja/bunken)*
 * **[TasteDive](https://tastedive.com/)** - *Recommendations* 
 * **[MyAnimeList](https://myanimelist.net/)** - *Manga*
+* [listal](https://www.listal.com/) - *Books*
 * [Litsy](https://www.litsy.com/) - *Book Recommendation / Photo Sharing Community*
 * [What Should I Read Next?](https://www.whatshouldireadnext.com/), [RecommendMeABook](https://recommendmeabook.com/) or [WhichBook](https://www.whichbook.net/) - *Book Recommendations*
 * [Comic Book Reading Orders](https://comicbookreadingorders.com/) - *Comic Book Reading Orders*
