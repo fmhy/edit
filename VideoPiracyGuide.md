@@ -754,6 +754,7 @@ https://greasyfork.org/en/scripts/407284-imdb-scout-mod
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - *TV / Anime*
 * [IMDb](https://www.imdb.com/) or [TMDb](https://www.themoviedb.org/) - *Movies / TV / Anime*
 * [IMDb Tomatoes](https://greasyfork.org/en/scripts/15222-imdb-tomatoes) - *Rotten Tomatoes Ratings on IMDb*
+* [listal](https://www.listal.com/) - *Movies / TV*
 * [TVDb](https://www.thetvdb.com/) - *TV / Anime*
 * [Movieo](https://movieo.me/) - *Movies / TV / Anime*
 * [AllMovie](https://www.allmovie.com/) - *Movies / TV / Anime* 
