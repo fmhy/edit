@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/K3OyucB.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/rCRoRll.png)** - *For mobile users*
 
 ***
 *** 
@@ -503,6 +503,102 @@
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - *Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)*
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - *Earthquake Activity Map*
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - *Volcano Activity Map*
+
+***
+
+# ► Cooking
+
+* [Copy Me That](https://www.copymethat.com/) or [Spoonacular](https://spoonacular.com/food-api) - *Recipe Manager*
+* [Just the Recipe](https://www.justtherecipe.com/), [PlainOldRecipe](https://www.plainoldrecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - *Extract Ingredients & Directions from Recipe Pages* 
+* [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - *Food Product Ingredient Scanner*
+* [cookEbooks](http://cookebooks.info/) - *Cookbooks*
+* [The-Eye Food](https://the-eye.eu/public/Books/Food/) - *Cookbooks* 
+* [YudhaCookbook](https://www.yudhacookbook.my.id/) - *Cookbooks*
+* [DMC Cookbooks](https://archive.lib.msu.edu/DMC/cookbooks/) - *Cookbooks*
+* [Cook Bookshelf](https://t.me/cook_bookshelf) - *Cookbooks / Telegram*
+* [Southern Cookbook](https://archive.org/details/southerncookbook00lustrich/) - *Cookbook Southern*
+* [Search-22](https://search-22.com/recipe-search-tools) - *Multi-Site Recipe Search*
+* [SuperCook](https://www.supercook.com/) - *Recipe Search* 
+* [MyFridgeFood](https://www.myfridgefood.com/) - *Recipe Search* 
+* [Epicurious](https://www.epicurious.com/) - *Recipe Search* 
+* [Recipe Search](https://recipe-search.typesense.org/) - *Recipe Search* 
+* [Recipe Retrieve](https://reciperetrieve.com/) - *Recipe Search*
+* [DotNom](http://www.dotnom.com/) - *Recipe Search*
+* [Yummly](https://www.yummly.com/) - *Recipe Search*
+* [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - *Food Image to Recipe Tool* 
+* [TasteAtlas](https://www.tasteatlas.com/) - *Recipe Map* 
+* [Cooking YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cooking_youtube_channels)
+* [GrowStuff](https://www.growstuff.org/) - *Food Growing Info / Tools* 
+* [Awesome Food](https://github.com/jzarca01/awesome-food) - *Cooking Tools Index* 
+* [CookingForEngineers](http://www.cookingforengineers.com/) - *Recipes / Cooking Tests* 
+* [ReluctantGourmet](https://www.reluctantgourmet.com/) - *Recipes / Tutorials* 
+* [How2Heroes](http://how2heroes.com/) - *Recipes* 
+* [All Recipes](https://www.allrecipes.com/) - *Recipes* 
+* [Just the Darn Recipe](https://justthedarnrecipe.com/) - *Recipes* 
+* [theSkullery](https://theskullery.net/) - *Recipes* 
+* [Curlie Cooking](https://curlie.org/en/Home/Cooking/) - *Recipes* 
+* [PunchFork](https://www.punchfork.com/) - *Recipes*
+* [Based Cooking](https://based.cooking/) - *Recipes*
+* [Food Network Recipes](https://www.foodnetwork.com/recipes) - *Recipes*
+* [1337-Noms-The-Hacker-Cookbook](https://hacker-cookbook.herokuapp.com/) - *Recipes* 
+* [CookBook](https://github.com/jlinder/cookbook) - *Recipes* 
+* [Wikibook Cookbooks](https://en.wikibooks.org/wiki/Category:Cookbook) - *Recipes*
+* [Culinary](http://www.culinary.net/) - *Recipes*
+* [pwned.space](https://pwned.space/recipes/) - *Recipes*
+* [Cookpad](https://cookpad.com/us) - *Recipes*
+* [RecipeChart](https://www.recipechart.com/) - *Recipes*
+* [FoodGeeks](https://foodgeeks.com/) - *Recipes*
+* [MyRecipeMagic](https://www.myrecipemagic.com/) - *Recipes*
+* [SparkPeople](https://recipes.sparkpeople.com/) - *Recipes*
+* [KeyIngridient](https://www.keyingredient.com/) - *Recipes*
+* [Chowdown](https://chowdown.io/) - *Recipes / [GitHub](https://github.com/clarklab/chowdown)*
+* [RecipeArchive](http://www.recipearchive.com/) - *Recipes*
+* [Alastra](http://recipes2.alastra.com/) - *Recipes*
+* [RobbieHaf](http://recipes.robbiehaf.com/) - *Recipes*
+* [WhatsCookingAmerica](https://whatscookingamerica.net/Menu/MenuIndex.htm) - *Recipes*
+* [MJW](http://www.cs.cmu.edu/~mjw/recipes/) - *Recipes*
+* [BetterRecipes](https://www.bestrecipes.com.au/) - *Recipes*
+* [Astray](https://www.astray.com/recipes/) - *Recipes*
+* [JimLerner](http://www.jimlerner.com/recipes/) - *Recipes*
+* [zhabotyn](http://www.bios.unc.edu/~zhabotyn/recipes/) - *Recipes*
+* [FarmlandFoods](https://www.farmlandfoods.com/recipes/) - *Recipes*
+* [RecipeLand](https://recipeland.com/) - *Recipes*
+* [Budget Bytes](https://www.budgetbytes.com/) - *Cheap Recipes*
+* [Jack Monroe](https://cookingonabootstrap.com/) - *Cheap Recipes*
+* [What the Fuck Should I Make for Dinner?](http://www.whatthefuckshouldimakefordinner.com/) - *Random Recipes* 
+* [Dish Dragon AI](https://www.dishdragon.ai/) - *Find Ingredients That Go Well Together* 
+* [Edamam](https://developer.edamam.com/) - *Food-Related APIs* 
+* [Recipe Puppy](http://www.recipepuppy.com/about/api/) - *Recipe API* 
+* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - *Child Nutrition / Cooking Course* 
+* [tacofancy](https://github.com/sinker/tacofancy) - *Taco Recipe Index* 
+* [The Bread Code Manifesto](https://github.com/hendricius/the-bread-code) - *Bread Baking Recipes* 
+* [Pizza Dough](https://github.com/hendricius/pizza-dough) - *Pizza Dough Recipes* 
+* [Mozzarella](https://github.com/hendricius/mozzarella) - *Mozzarella Recipes* 
+* [Mac Cookie Recipe Easter Egg](https://i.imgur.com/Jc0WoCg.png) - *Cookie Recipe / [How-to](https://pastebin.com/N8AyVfEf)*
+* [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - *Historical Recipes Site Index*
+* [Chef2Chef](https://www.chef2chef.net/) - *Cooking Lessons* 
+* [TheCulinaryCook](https://theculinarycook.com/) - *Cooking Lessons* 
+* [Food Chemistry Course](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter), [2](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matte-2)
+* [auto-soylent](https://github.com/nick/auto-soylent) - *Automatic Soylent recipe generator* 
+* [recipesseo](https://www.recipesseo.com/ingredients) - *Common Ingredients in Recipes Analyzer* 
+* [/m/food](https://www.reddit.com/user/Siryonkee/m/food/) - *Food Multireddit*
+* [/r/Cooking](https://reddit.com/r/Cooking) - *Cooking Discussion / Tips*
+* [/r/GifRecipes](https://reddit.com/r/GifRecipes) - *Recipes in GIF Format*
+* [/r/recipes](https://reddit.com/r/recipes) - *Share recipes*
+* [/r/AskCulinary](https://reddit.com/r/AskCulinary) - *Get Cooking Advice* 
+* [/r/IndianFood](https://reddit.com/r/IndianFood) - *Indian Food Recipes / Tips*
+* [Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_recipes)
+* [Mealime](https://www.mealime.com/) - *Meal Planning App*
+* [Still Tasty](https://www.stilltasty.com/) or [EatByDate](http://www.eatbydate.com/) - *Shelf Life Guides* 
+* [Baking Calculators](https://bakingcalculators.com/) - *Measurement System Conversion Calculators*
+* [TasteJury](https://tastejury.com/) - *Find Specific Dishes*
+* [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - *SF Food Truck App* 
+* [node-ubereats](https://github.com/jzarca01/node-ubereats) - *WIP API for Uber Eats* 
+* [node-deliveroo](https://github.com/jzarca01/node-deliveroo) - *API for Deliveroo* 
+* [PizzaDash](https://github.com/mynamebrody/pizzadash) - *Turn Amazon Dash Button into Pizza Delivery Button* 
+* [is-vegan](https://github.com/hmontazeri/is-vegan) - *Vegan Food App* 
+* [McBroken](https://mcbroken.com/) - *Check if McDonalds Ice Cream Machines are Broken*
+* [HackTheMenu](http://hackthemenu.com/) - *Fast Food Secret Menu Items* 
 
 ***
 
