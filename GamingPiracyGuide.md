@@ -605,6 +605,7 @@
 * [IGDB](https://www.igdb.com/) - *Video Game Database* 
 * [Moby Games](https://www.mobygames.com/) - *Video Game Database* 
 * [rate.house](https://rate.house/) - *Video Game Database*
+* [listal](https://www.listal.com/) - *Video Game Database*
 * [HOTU](http://www.homeoftheunderdogs.net/) - *Rare Video Game Database*
 * [Movie-Censorship](https://www.movie-censorship.com/) - *Compare Alternate Versions of Media* 
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Greatest 100 Lists*
