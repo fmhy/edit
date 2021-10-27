@@ -104,6 +104,7 @@
 * [Simple Terminal](https://st.suckless.org/), [Alacritty](https://github.com/alacritty/alacritty) or [Kitty](https://sw.kovidgoyal.net/kitty/overview/) - *Terminal Emulator*
 * [Electerm](https://electerm.github.io/electerm) - *Terminal / SSH / STP Client*
 * [Yakuake](https://apps.kde.org/yakuake/) - *Quake Style Terminal Emulator*
+* [Remontoire](https://github.com/regolith-linux/remontoire) - *Keybind Viewer for i3*
 * [fzf](https://github.com/junegunn/fzf) - *CLI based fuzzy finder*
 * [Timeshift](https://github.com/teejee2008/timeshift) - *Create System Snapshots & Restore*
 * [Homebrew](https://brew.sh/) - *Package Manager*
