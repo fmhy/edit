@@ -163,7 +163,7 @@
 * [ssh-chat](https://github.com/shazow/ssh-chat) - *Chat over SSH / [Info](https://shazow.net/posts/ssh-how-does-it-even/)*
 * [Windows 10 Antispy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_antispy_tools)
 * [Privatezilla](https://github.com/builtbybel/privatezilla) - *Find and fix Windows 10 Privacy / Security Issues* 
-* [simplewall](https://github.com/henrypp/simplewall) - *Configure Windows Filtering Platform* 
+* [simplewall](https://www.henrypp.org/product/simplewall) - *Configure Windows Filtering Platform / [GitHub](https://github.com/henrypp/simplewall)* 
 * [TorWall](https://github.com/basil00/TorWall) or [Whonix](https://www.whonix.org/) - *Use Tor to Encrypt Internet Traffic*
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - *List of Data Broker Opt-Out Resources* 
 * [Blur](https://dnt.abine.com/) - *Protect Passwords & Personal Information* 
