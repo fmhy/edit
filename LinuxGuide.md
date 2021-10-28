@@ -77,6 +77,7 @@
 * [Drawing](https://github.com/maoschanz/drawing) - *Drawing App*
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer) - *YouTube Linux Client / [Fork](https://github.com/trizen/pipe-viewer)* 
 * [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - *GNU / Linux Twitch Desktop Client* 
+* [Librespot-Python](https://github.com/kokarare1212/librespot-python) - *Spotify TUI*
 * [Qtractor](https://qtractor.org/) or [cmus](https://cmus.github.io/) - *Audio Editor*
 * [Ecasound](http://nosignal.fi/ecasound/) - *Multitrack Audio-Processor / Linux*
 * [Peek](https://github.com/phw/peek) - *Simple Video / GIF recorder*
