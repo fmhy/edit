@@ -17,7 +17,7 @@
 * **[Versus](https://versus.com/)** or [Diffen](https://www.diffen.com/) - *Compare Anything* 
 * **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - *Organize Ideas & Projects*
 * **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** - *Device Repair Articles*
-* **[TuboTax Sucks Ass](http://turbotaxsucksass.net/)** - *File Taxes for Free*
+* **[TuboTax Sucks Ass](http://turbotaxsucksass.net/)** or [FreeTaxUSA](https://www.freetaxusa.com/) - *File Taxes for Free*
 * **[Worldometer](https://www.worldometers.info/)** or [UN Data](https://data.un.org/) - *World Data & Statistics*
 * **[Our World in Data](http://ourworldindata.org/)** - *World Problem Database*
 * **[BeMyEyes](https://www.bemyeyes.com/)** - *Assist the Visually Impaired* 
@@ -857,7 +857,7 @@ General Reading Sites*
 * [DiscordChroma](https://github.com/DELUUXE/DiscordChroma) or [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - *Discord System Lighting Control*
 * [Permissions Calculator](https://discordapi.com/permissions.html) - *Generate Discord OAuth Invites*
 * [CloneCord](https://github.com/Rekulous/CloneCord-bot) - *GClone Cloud Storage File Manager in Discord*
-* [CustomRP](https://www.customrp.xyz/), [EasyRP](https://github.com/Pizzabelly/EasyRP), [RPCEngine](https://github.com/qoobes/rpcengine), [eidolonrp CodeFactor](https://github.com/kairusds/eidolonrp), [DiscordRPCMaker](https://drpcm.t1c.dev/) or [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC) - *Custom Rich Discord Presence*
+* [Custom Rich Discord Presence](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_custom_rich_discord_presence) - *Customize Discord Rich Presence* 
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - *Discord Rich Presence Manager*
 * [PlayStationDiscord](https://tustin.dev/PlayStationDiscord/) - *PlayStation Discord Rich Presence*
 * [Adobe Discord RPC](https://github.com/lolitee/adobe-discord-rpc) - *Adobe Rich Presence*
@@ -1110,7 +1110,7 @@ General Reading Sites*
 * **[Optimize-Guide](https://rentry.co/mdl-optimize-guide)** - *Optimize Windows / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat)*
 * **[Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png)**, [2](https://i.imgur.com/A36Yd7F.png) 
 * [Windows 10 Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)
-* [PowerToys](https://github.com/microsoft/PowerToys) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
+* [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) / [GitHub](https://github.com/microsoft/PowerToys) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
 * [PCPartPicker](https://pcpartpicker.com/), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), [/r/buildapc](https://reddit.com/r/buildapc) or [NZXTBld](https://www.letsbld.com/) - *PC Building Sites / [Discord](https://discord.gg/buildapc)*
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - *PC Building Community*
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC)  - *PC Suggestion Community / [Discord](https://discord.gg/TmNgXbwrqJ)*
@@ -1753,7 +1753,7 @@ General Reading Sites*
 * [Get DLC from SteamDB](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837)
 * [Steam Workshop Downloader](https://steamworkshopdownloader.io/) or [Steamworkshop.download](http://steamworkshop.download/) - *Download files from the Steam workshop* 
 * [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - *Desktop Implementation of Steam's Mobile Authenticator* 
-* [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) - *Steam Card Automation* 
+* [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - *Steam Card Automation* 
 * [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - *Steam Achievement Manager* 
 * [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) / [2](https://steamid.uk/) or [SteamFinder](https://steamidfinder.com/) - *Steam ID Lookup* 
 * [AugmentedSteam](https://augmentedsteam.com/) - *Steam Web Enhancement Extension* 
