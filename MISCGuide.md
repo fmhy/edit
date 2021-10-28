@@ -1019,7 +1019,6 @@
 * [Flip This](https://chrome.google.com/webstore/detail/flip-this/donljlliiecjcagcenoeohjmabfegkph?hl=en) - *Rotate Page & HTML Elements*
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej) - *Discover Similar Webpages* 
 * [adam:ONE Assistant](https://chrome.google.com/webstore/detail/adamone%C2%AE-assistant/fdmpekabnlekabjlimjkfmdjajnddgpc?hl=en) - *Find Web Site Dependencies*
-* [Email Tracker](https://snov.io/email-tracker) or [Mailtrack](https://mailtrack.io/) - *Gmail Engagement Tracker*
 * [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - *View Extension Source Code* 
 * [NicoNico SPEENYA](https://github.com/chimerast/niconico-speenya) - *Presentation Style Comments*
 * [Current Moon Phase](https://chrome.google.com/webstore/detail/current-moon-phase/ippnbhhbamibfpljlfmgogaondodicgi) - *Current Moon Phases*
