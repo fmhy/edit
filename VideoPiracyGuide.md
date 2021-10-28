@@ -673,7 +673,7 @@
 * [SickChill](https://sickchill.github.io/) or [CouchPotato](https://couchpota.to/) - *Automatic torrent/nzb searching, downloading & processing / Manager*
 * [Autodownload Tools](https://redd.it/hbwnb2) - *All Autodownload Tools*
 * [NZBHydra](https://github.com/theotherp/nzbhydra) - *Meta search for NZB indexers*
-* [pirateflix](https://github.com/orinocoz/pirateflix), [PeerFlix](https://github.com/mafintosh/peerflix) or [Clifix](https://github.com/fabiospampinato/cliflix)  - *Torrent Streaming CLI* 
+* [pirateflix](https://github.com/orinocoz/pirateflix), [PeerFlix](https://github.com/mafintosh/peerflix) / [MPV](https://github.com/noctuid/mpv-peerflix-hook) or [Clifix](https://github.com/fabiospampinato/cliflix)  - *Torrent Streaming CLI* 
 * [TorrenTV](https://torrentv.github.io/) - *Stream Torrents to Apple TV, Chromecast & Roku*
 * [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - *Stream Torrents in VLC*
 * [Iceetime](https://github.com/diericx/iceetime) - *Self-Hosted Torrent Streaming* 
