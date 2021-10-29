@@ -48,7 +48,7 @@
 * **[patoghu](https://patoghu.com/)** - *Video / Audio / Software / Android / Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)* 
 * **[Bitdownload](http://bitdownload.ir/)** - *Video / Audio / Software / Games / Android / Courses / [Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bitdownload_drives) / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * **[The-Eye](https://the-eye.eu/)** - *Audio / Roms / Books / Comics / Magazines / Software / [Discord](https://discord.com/invite/6hr2Xsm)*
-* **[BlackPearl](https://blackpearl.biz/)** - *Video / Audio / Books / Games / [Interviews](https://blackpearl.biz/interview/)*
+ * **[BlackPearl](https://blackpearl.biz/)** - *Video / Audio / Books / Games / [Interview](https://blackpearl.biz/interview/)*
 * [DDLValley](https://www.ddlvalley.me/) - *Video / Audio / Games / Roms / Software / Android / Books / Comics / Magazines*
 * [Archive.org](https://archive.org/) - *Video / Audio / Magazines / Newspapers / Roms / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader)*
 * [WarezForums](https://warezforums.com/) - *Video / Audio / Games / Roms / Software / Books / Comics / Android / [Account Application](https://t.me/joinchat/AAAAAFRH5fns4IiE-T2TcA)*
@@ -168,6 +168,7 @@
 # ► Software Sites
 
 * **[/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread)** - *Software Piracy Megathread*
+* **[Software CSE](https://cse.google.com/cse?cx=57b3962509047447e)** / [CSE 2](https://cse.google.com/cse?cx=ec7d33ef358ae1b65) - *Multi-Site Search*
 * **[Mobilism](https://forum.mobilism.org/)** - *Software / Books / [Mobile App](https://forum.mobilism.org/app/)* 
 * **[soft98](https://soft98.ir/)** - *Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * **[FileCR](https://filecr.com/en/)** - *Software / Books / [Warning](https://i.imgur.com/6Loht3s.png)*
@@ -185,6 +186,7 @@
 * [CRACKurl](https://cracksurl.com/) 
 * [TeamOS](https://www.teamos-hkrg.com/)
 * [msdn.hackerc](https://msdn.hackerc.at/)  
+* [Cyberspace](https://cyberspace.world/)
 * [4Download](https://www.4download.net/) 
 * [Softwares 2 U](https://www.softwares2u.com/) 
 * [onHax](https://onhax.io/)
