@@ -119,7 +119,7 @@
 * **[Rom Site Index](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)**
 * **[Emuparadise](https://www.emuparadise.me/)** - *Emulators / Roms / [DL Script](https://redd.it/968sm6), [2](https://openuserjs.org/scripts/tommyoxox/EmuParadise_Download_Workaround_-_1.1.2), [3](https://gist.github.com/Eptun/3fdcc84552e75e452731cd4621c535e9) / [Forum](https://www.epforums.org/)* 
 * **[Vimms Lair](https://vimm.net/)** - *Emulators / Roms*
-* [Rom CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac ) - *Multi-Site Rom Search*
+* [Rom CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - *Search Rom Sites*
 * [Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators) 
 * [Rom Managers](http://emulation.gametechwiki.com/index.php/ROM_managers) - *List of Rom Managers*
 * [Emulator Netplay Tools](http://emulation.gametechwiki.com/index.php/Netplay) - *Multiplayer Emulation*
@@ -142,7 +142,7 @@
 * [Roms Download](https://roms-download.com/) - *Emulators / Roms* 
 * [RomsGet](https://www.romsget.io/) - *Emulators / Roms*
 * [EasyRoms](https://easyroms.com/) - *Emulators / Roms* 
-* [ROMSPURE](https://romspure.com/) - *Emulators / Roms*
+* [ROMSPURE](https://romspure.cc/) - *Emulators / Roms*
 * [SoftCobra](https://www.softcobra.com/) - *Roms / [Block Overlay](https://github.com/NicolaeNMV/BehindTheOverlay)*
 * [All Xbox Game](https://downloadgamexbox.com/) - *Roms*
 * [RomToHome](https://romtohome.com/) - *Roms*
@@ -512,7 +512,7 @@
 * [BestCrosswords](https://www.bestcrosswords.com/), [USAToday](https://games.usatoday.com/games/uclick-crossword) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - *Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)*
 * [Regex Cross­word](https://regexcrossword.com/) - *Regex Cross­words*
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - *Online Jigsaw Puzzles*
-* [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - *Solve a Rubix Cube / [Solver](https://rubiksolve.com/), [2](https://bnice.ru/asolver/)* 
+* [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - *Solve a Rubix Cube / [Solver](https://rubiksolve.com/), [2](https://bnice.ru/asolver/), [3](https://rubiks-cube-solver.com/)* 
 * [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&ia=answer) or [2048](https://play2048.co/) - *Play 2048*
 * [PROXX](https://proxx.app/) - *Space Minesweeper*
 * [Rockbasher](https://www.rockbasher.com/) - *Retro Style Puzzle Game*
