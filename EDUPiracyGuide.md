@@ -484,7 +484,7 @@
 * [TimeLY](https://github.com/noahweasley/TimeLY) - *University Activity & Class Tracker*
 * [Stublio](https://stublio.com/) or [Studify](https://github.com/cmcodes1/Studify) - *Keep Track of what you're Studying* 
 * [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - *Educational Communication / iOS*
-* [Note Garden](https://notegarden.web.app/) - *Note Taking & Auto Courses*
+* [Note Garden](https://notegarden.web.app/), [2](https://notegarden.io/) - *Note Taking & Auto Courses*
 * [Mochi Cards](https://mochi.cards/) - *Note Taking & Flash Cards*
 * [BookStack](https://www.bookstackapp.com/) - *Self-Hosted Information Manager*
 * [Deepnote](https://deepnote.com/) - *Data Science Notebook*
