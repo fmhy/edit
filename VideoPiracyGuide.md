@@ -391,7 +391,7 @@
 * [Stream4Free Live](https://www.stream4free.live/) - *TV / Sports*
 * [vipotv](http://vipotv.com/) - *TV / Sports*
 * [USTVGO](https://ustvgo.tv/) - *TV / Sports*
-* [uStreamix](https://ustreamix.to/index.html) - *TV / Sports* 
+* [uStream](https://www.ustream.to/index.html) - *TV / Sports* 
 * [LM Shows](https://lmshows.se/) - *TV*
 * [TVOnline.Liveschauen](https://tvonline.liveschauen.com/) - *TV* 
 * [WwiTv](https://wwitv.com/) - *TV*
@@ -420,7 +420,7 @@
 * [CricHD](https://fc5.crichd.com/) - *Sports* 
 * [Sports24](https://sports24.stream/) - *Sports*
 * [MamaHD](https://mamahd.best/) - *Sports*
-* [DaddyLive](https://daddylive.co/) - *Sports*
+* [DaddyLive](https://daddylive.me/) - *Sports*
 * [Volokit](https://community.volokit.com/) - *Sports* 
 * [StrikeOut](https://www.strikeout.nu/) - *Sports*
 * [BestSolaris](http://bestsolaris.com/) - *Sports*
