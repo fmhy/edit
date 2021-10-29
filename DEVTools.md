@@ -379,10 +379,10 @@
 * [git:logs](https://www.gitlogs.com/) - *Trending GitHub Repos* 
 * [Active Github Forks](https://techgaun.github.io/active-forks/) - *List of active github forks*
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) - *View a Repositories Forks* 
-* [Git Extensions ](https://gitextensions.github.io/) - *Git Repository Manager*https://muxiv.net/
+* [Git Extensions](https://gitextensions.github.io/) - *Git Repository Manager*
 * [GitZip](https://gitzip.org/) - *Download GitHub Repository Sub-Folders / Files* 
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - *GitHub Fork Search* 
-* [grep.app](https://grep.app/) - *Git Repository Search*
+* [grep.app](https://grep.app/) - *Git Repository Index*
 * [OctoLinker](https://octolinker.now.sh/) - *Make GitHub Code References Clickable* 
 * [Octotree](https://www.octotree.io/) - *GitHub Repository File Tree View* 
 * [Nightly.link](https://nightly.link/) - *GitHub Sharable Nightly Links*
