@@ -265,7 +265,7 @@
 * [FLAC World](http://flac.world/) - *FLAC*
 * [Music HiRes](https://music-hires.blogspot.com/) - *FLAC*
 * [DiscogC](https://www.discogc.com/) - *FLAC*
-* [LosslessAlbums](https://losslessalbums.club/) - *FLAC*
+* [LosslessAlbums](https://losslessalbums.club/) or [HDMusic](https://hdmusic.cc/) - *FLAC*
 * [ubdn](http://ubdn.me/) - *MP3 / FLAC* 
 * [IntMusic](https://intmusic.net/) - *MP3 / FLAC*  
 * [Mp3Flac](https://mp3flac.site/) - *MP3 / FLAC*
