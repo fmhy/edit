@@ -449,6 +449,7 @@
 * [VPNGate](https://www.vpngate.net/en/) - *Free VPN Relay Servers*
 * [OpenVPN](https://openvpn.net/) - *VPN Tunnel* 
 * [Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs) - *Free VPN Tunnel Configs*
+* [MOAG](https://moag.techtanic.pw/) - *VPN Trial Generator*
 * [Gluetun](https://github.com/qdm12/gluetun) - *Tunnel your Docker containers through a VPN*
 * [PiVPN](https://pivpn.io/) - *Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)* 
 * [Enterprise](https://pritunl.com/) - *VPN Server* 
