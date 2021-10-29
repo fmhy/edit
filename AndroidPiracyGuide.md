@@ -108,7 +108,7 @@
 * [PhoenixOS Darkmatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - *Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)*
 * [ApkOnline](https://www.apkonline.net/) - *Online Android Emulator*
 * [UniPatcher](https://github.com/btimofeev/UniPatcher) - *Android Rom Patcher*
-* [BlueStacks X](https://x.bluestacks.com/) - *Cloud-Based Android Gaming*
+* [BlueStacks X](https://x.bluestacks.com/) - *Cloud-Based Android Gaming / [Play Any Game](https://bin.disroot.org/?76603b940782c632#77xYY6mPppQ6jRLnuhQhRwPZ1rgrhGkHLnfNx8YKnz5H)*
 
 ***
 
@@ -178,7 +178,6 @@
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) or [SongTube](https://github.com/SongTube/SongTube-App) - *YouTube Audio / Video Downloader*
 * [DankChat](https://github.com/flex3r/DankChat) - *Talk in Multiple Twitch Chats at Once*
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - *Reddit Video Downloader*
-* [bash2mp4](https://github.com/htr-tech/bash2mp4) - *Termux Video Downloader*
 * [Boost](https://forum.mobilism.org/search.php?keywords=boost+for+reddit&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [Joey](https://forum.mobilism.org/search.php?keywords=joey+for+reddit&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [BaconReader](http://baconreader.com/) or [Relay](https://relayforreddit.com/index.html) - *Reddit Client*
 * [Lemmur](https://github.com/krawieck/lemmur) - *Lemmy Client*
 * [Uploadgram App](https://github.com/pato05/uploadgram-app) - *Uploadgram Frontend*
@@ -188,7 +187,7 @@
 * [SlimTwitter](https://f-droid.org/en/packages/it.rignanese.leo.slimtwitter/) - *Twitter Webwrapper*
 * [Shitter](https://github.com/nuclearfog/Shitter) - *Lightweight Twitter App*
 * [Google Lens](https://lens.google/) - *Multiple Camera Tools*
-* [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) or [Camator](https://gcamator.com/) - *Google Cam Downloads / [Telegram](https://t.me/googlecameraport)*
+* [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) or [Camator](https://gcamator.com/) - *Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/)*
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - *Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)*
 * [LosesslessJpgCrop](https://github.com/k3b/LosslessJpgCrop) - *Lossless Image Cropper*
 * [background video recorder](https://play.google.com/store/apps/details?id=com.camera.secretvideorecorder) - *Record Videos in Background*
@@ -224,7 +223,7 @@
 * [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) - *App Managers*
 * [iFont](https://play.google.com/store/apps/details?id=com.kapp.ifont) - *Android Font Installer*
 * [Eruda](https://pastebin.com/7qSZXjDS) - *Console for mobile browsers / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [Github](https://github.com/liriliri/eruda)* 
-* [Termux](https://termux.com/) - *Terminal Emulator / Linux Environment* 
+* [Termux](https://termux.com/) - *Terminal Emulator / Linux Environment / [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL)* 
 * [Shelter](https://github.com/PeterCxy/Shelter) - *App Sandbox*
 * [Clima](https://f-droid.org/en/packages/co.prestosole.clima/), [The Fucking Weather](https://alcohollick.com/the-fucking-weather) or [GeometricWeather](https://github.com/geometric-weather-foss/GeometricWeather) - *Weather App* 
 * [aiTTS](https://www.milmike.com/aitts-google-wavenet-voices-for-android-tts) - *Text to Speech* 
@@ -697,7 +696,7 @@ RSS Player*
 * [IRuin](https://iriun.com/) - *Use iOS Device as Webcam* 
 * [Measure](https://apps.apple.com/us/app/measure/id1383426740) - *Turn iPhone / iPad into Tape Measure*
 * [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303) or [NetNewsWire](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210) - *RSS Reader*
-* [PicsArt++](https://cokernutx.com/ipa-library/download/PicsArt.html) or [PhotoWizard](https://apps.apple.com/us/app/photowizard-photo-editor/id370833324) - *Photo Editor*
+* [PicsArt++](https://cokernutx.com/ipa-library/download/PicsArt.html), [2](https://picsart.com/apps) or [PhotoWizard](https://apps.apple.com/us/app/photowizard-photo-editor/id370833324) - *Photo Editor*
 * [Iterm](https://github.com/kaneki07/iterm) - *Terminal Emulator*
 * [Universal Control](https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879) - *Universal Remote*
 * [Instdown](https://apps.apple.com/ca/app/instdown-video/id1452076756) - *Download Videos from Social Media* 
