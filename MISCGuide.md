@@ -941,8 +941,6 @@
 
 * [Firefox Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)
 * [FirefoxPWA](https://addons.mozilla.org/en-US/firefox/addon/firefoxpwa/) - *Progressive Web Apps for Firefox / [GitHub](https://github.com/filips123/FirefoxPWA)*
-* [Firemin](https://www.rizonesoft.com/downloads/firemin/) - *Prevent Firefox Memory Leaks* 
-* [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) - *Firefox Hidden Settings*
 * [keyconfig](https://addons.palemoon.org/addon/keyconfig/) - *Firefox Key Binds* 
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - *Multiple Link Related Actions* 
 * [FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/) - *Multiple Tab Related Actions*
@@ -958,8 +956,6 @@
 * [Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - *Search Selected Text / Multi Site Search*
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - *Search Current Domain* 
 * [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/) - *Custom Firefox Theme Creation*
-* [FirefoxCSS Store](https://firefoxcss-store.github.io/) - *Firefox Themes List*
-* [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - *Firefox CSS Guides* 
 * [Dark Background for Firefox New Tabs](https://fedidat.com/640-dark-newtab-firefox/)
 * [Colors and Fonts Extractor](https://addons.mozilla.org/en-US/firefox/addon/colors-and-fonts-extractor/) - *Extract Colors & Fonts from Websites* 
 * [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - *Force Enable Right Click*
