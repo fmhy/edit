@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/fpyAYJU.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/TPO4mgQ.png)** - *For mobile users*
 
 ***
 ***
@@ -89,6 +89,18 @@
 ## ▷ Torrenting 
 
 * [Zamunda](https://zamunda.net/) - *Registration Required*
+
+***
+
+# ► Burmese 
+
+## ▷ Streaming
+
+* [burmesesubtitles](https://burmesesubtitles.com/) - *Movies / TV*
+
+## ▷ Downloading 
+
+* [channelmyanmar](https://channelmyanmar.org) - *Movies / TV*
 
 ***
 
@@ -1058,7 +1070,6 @@ Portuguese / Streaming / Christian Music
 * [Poeta](http://poeta.ws/) - *Poetry*
 * [super.abril](https://super.abril.com.br/superarquivo/) - *Magazines*
 * [Revista Do Linux](http://augustocampos.net/revista-do-linux/index.html) - *Linux Magazine*
-* [Dicio](https://www.dicio.com.br/) - *Dictionary*
 * [jornaisbrasileiros](http://www.jornaisbrasileiros.net.br/) - *News App*
 * [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/) - *Development Tutorials*
 * [acessaber](https://acessaber.com.br/) - *Math Lessons*
@@ -1067,7 +1078,7 @@ Portuguese / Streaming / Christian Music
 * [de-comunicacao-para](https://catracalivre.com.br/criatividade/285-livros-de-comunicacao-para-download/) - *Communication & Culture Books*
 * [Apocalipse2000](http://apocalipse2000.com.br/) - *Paranormal / UFO / Scary Short Stories*
 * [recantodasletras](https://www.recantodasletras.com.br/) - *Text Archive*
-* [Portuguese Dictionaries / Thesaurus'](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_dictionaries_.2F_thesaurus) 
+* [Portuguese Dictionaries / Thesaurus' / Symbols](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_dictionaries_.2F_thesaurus) 
 * [Portuguese Bibles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_bibles)
 * [NomesBiblicos](https://www.nomesbiblicos.com/) - *Biblical Name History*
 * [estudos-biblicos](http://estudos-biblicos.net/), [2](https://estudos-biblicos.blogspot.com/) - *Bible Studies*
