@@ -569,7 +569,7 @@
 * [OutWit](https://www.outwit.com/) - *Scrape / Organize Website Data* 
 * [Hosts Files ghosts](https://github.com/StevenBlack/ghosts) - *Evaluate, Compare & Format*
 * [byp4xx](https://github.com/lobuhi/byp4xx) - *Bypass "403 Forbidden" Messages* 
-* [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - *SSH & Telnet Client* 
+* [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - *SSH & Telnet Client / [Keygen](https://www.puttygen.com/)* 
 * [FairGame](https://github.com/Hari-Nagarajan/fairgame) - *Automatically Place Orders on Amazon*
 * [rickroll-blocker](https://github.com/hitthemoney/rickroll-blocker/) - *Rick Roll Blocker* 
 
@@ -597,6 +597,10 @@
 * [Browserling](https://www.browserling.com/) - *Browser Emulators*
 * [n.eko](https://n.eko.moe/) - *Self-Hosted Virtual Browser*
 * [Safari Windows](https://mega.nz/file/zqoEWZaQ#qNAN8JnV_79gII4ofMs4ZwMAcydZAQw6Gdng_QEyNDw) - *Safari for Windows*
+* [Firemin](https://www.rizonesoft.com/downloads/firemin/) - *Prevent Firefox Memory Leaks* 
+* [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) - *Firefox Hidden Settings*
+* [FirefoxCSS Store](https://firefoxcss-store.github.io/) - *Firefox Themes List*
+* [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - *Firefox CSS Guides* 
 * [EdgeDeflector](https://github.com/da2x/EdgeDeflector) - *Force Open Default Browser*
 * [xBrowserSync](https://github.com/xbrowsersync/app) - *Sync Browser Data Browsers / Devices*
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - *User Agent Archive* 
@@ -630,7 +634,8 @@ General Reading Sites*
 * [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8), [2](https://cse.google.com/cse?cx=73948689c2c206528) - *Search Android APK Sites*
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - *Search Pastebins*
 * [Search All](https://www.searchall.net/) or [AIO Search](https://www.aiosearch.com/) - *Multi Site Search*
-* [Rom CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac ) - *Multi-Site Rom Search*
+* [Software CSE](https://cse.google.com/cse?cx=57b3962509047447e) / [CSE 2](https://cse.google.com/cse?cx=ec7d33ef358ae1b65) - *Search Software Sites*
+* [Rom CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - *Search Rom Sites*
 * [SearchEnginesIndex](https://www.searchenginesindex.com/), [Fagan Finder](https://www.faganfinder.com/), [DirectSearch.Net](http://www.directsearch.net/) or [Search Engine Colossus](https://www.searchenginecolossus.com/) - *Search Engine Directory*
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - *DuckDuckGo !bang Meta Serarch / [GitHub](https://github.com/MoserMichael/duckduckbang)*
 * [Soovle](https://soovle.com/) or [Keyword Tool](https://keywordtool.io/) - *Popular Keyword Generator*
@@ -1230,7 +1235,7 @@ General Reading Sites*
 * [multrin](https://github.com/sentialx/multrin) - *Organize Windows Apps in Tabs* 
 * [Klotures](https://gitlab.com/jkushmaul/klotures) - *Desktop Icon Organizer / [Demo](https://gitlab.com/jkushmaul/klotures/raw/master/docs/KloturesDemo.webm)*
 * [QuickLook](https://github.com/QL-Win/QuickLook) - *macOS Quick Look for Windows* 
-* [AutoHotkey](https://www.autohotkey.com/) - *Keyboard Macro Program*
+* [AutoHotkey](https://www.autohotkey.com/) - *Keyboard Macro Program / [Script Gen](https://www.ahkgen.com/)*
 * [NeatMouse](https://neatdecisions.com/products/neatmouse/) - *Mouse / Keyboard Emulator*
 * [WinCompose](http://wincompose.info/) - *Windows Special Character Compose Key / [GitHub](https://github.com/samhocevar/wincompose)*
 * [Carnac](http://code52.org/carnac/) - *Presentation Utility / Keyboard Logger*
