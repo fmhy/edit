@@ -14,7 +14,7 @@
 * **[Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_editing)** - *Image Editing Software & Sites*
 * **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - *Download GFX Design Software*
 * **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/) - *Design Tool Resource Indexes*   
-* **[PhotoMosh](https://photomosh.com/)**, [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - *Glitch Images*
+* **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - *Glitch Images*
 * [1TB Art Courses](https://pastebin.com/hKgJG2Vz) - *Art Courses*
 * [Photoshop Courses](https://mega.nz/folder/Y6RXXKbJ#pnAdcdkSXw7wujTIhN5Blw) - *Photoshop Course Drive*
 * [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - *Photoshop Tutorials*
@@ -27,6 +27,7 @@
 * [Images.weserv.nl](https://images.weserv.nl/) - *Image Editing Server*
 * [darktable](https://www.darktable.org/) - *Virtual Lighttable & Darkroom*
 * [FreePSDvn](https://freepsdvn.com/) - *Photoshop Presets, Mockups, Templates & more*
+* [Craft](https://www.invisionapp.com/craft) - *Photoshop / Sketch Plugins*
 * [Preset.id](https://preset.id/) or [FreePreset](https://freepreset.net/) - *Adobe Lightroom Presets*
 * [GradientArt](https://gra.dient.art/) - *Gradient Editor*
 * [CanonOutsideOfAuto](http://www.canonoutsideofauto.ca/play/) - *Interactive Exposure Test* 
@@ -51,13 +52,14 @@
 * [PicFont](https://picfont.com/) - *Add Text to Images*
 * [Acme Annotator](https://acme.com/annotator/) - *Add Notes to a Picture* 
 * [Face Merging](https://www.faceplusplus.com/face-merging/) or [MorphThing](https://www.morphthing.com/) - *Face Merging Tool* 
+* [WebcamToy](https://webcamtoy.com/) - *Webcam Effects*
 
 ***
 
 ## ▷ Resize / Compress
 
 * [ESRGAN Models](https://icedrive.net/1/43GNBihZyi) or [Upscale Model Database](https://upscale.wiki/wiki/Model_Database) - *Multiple Image Upscalers*
-* [Waifu2x](https://github.com/nagadomi/waifu2x), [ESRGAN](https://github.com/JoeyBallentine/ESRGAN), [GigaPixel](https://filecr.com/?s=Topaz+Gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/) or [CupScale](https://github.com/n00mkrad/cupscale) - *Image Upscaler*
+* [Waifu2x](https://github.com/nagadomi/waifu2x), [ESRGAN](https://github.com/JoeyBallentine/ESRGAN), [GigaPixel](https://filecr.com/?s=Topaz+Gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/) or [CupScale](https://github.com/n00mkrad/cupscale) - *Image Upscaler*
 * Waifu2x Tools - [Guide](https://i.imgur.com/55s8sU5.png) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/tanakamura/waifu2x-converter-cpp), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/), [5](https://waifu2x.me/), [6](http://waifu2x.udp.jp/), [7](https://waifu2x.org/), [8](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 * [Croppola](https://croppola.com/) or [Avatar Cropper](https://avatarcropper.com/) - *Cropping Tool* 
 * [Simple Image Resizer](http://www.simpleimageresizer.com/) - *Resize Images*
@@ -65,7 +67,7 @@
 * [SSizes](https://ssizes.com/) - *Resize Images for Different Sites*
 * [RIOT](https://riot-optimizer.com/) - *Image Optimization Tool*
 * [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - *Scale Pixel Art w/o Quality Loss*
-* [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [Caesium](https://saerasoft.com/caesium/) or [Batch Compress](https://batchcompress.com/en) - *Image Compressor* 
+* [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [Crushee](https://crushee.app/) or [Batch Compress](https://batchcompress.com/en) - *Image Compressor* 
 * [TinyPNG](https://tinypng.com/) or [PNGQuant](https://pngquant.org/) - *PNG Compressor* 
 * [JPEG.rocks](https://jpeg.rocks/) - *JPEG Re-Encoder* 
 
@@ -106,6 +108,7 @@
 * [Band-Flyers](https://band-flyers.com/) - *Band Flyer Creator*
 * [Mockupea](https://mockupea.com/) - *Book / Magazine Mockup Cover Creator*
 * [PSDcovers](https://www.psdcovers.com/) - *Product Mockup Maker*
+* [Venngage](https://venngage.com/) - *Infographic Maker*
 * [Quote Maker](https://quotescover.com/) - *Quote Picture Generator*
 * [Verbex](https://www.vedbex.com/fakeproof) - *Fake "Proof" Generator*
 * [FakeReceipt](http://www.fakereceipt.us/) - *Create Fake Receipts*
@@ -186,7 +189,7 @@
 * [icon_finder](https://codeberg.org/cauf/icon_finder) - *Search for Icons via Patterns*
 * [pfps.gg](https://pfps.gg/) - *Profile Picture Index*
 * [Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Movie / TV Covers & Posters*
-* [CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/) or [OpenClipart](https://openclipart.org/) - *PNG Images / Clipart* 
+* [CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/) or [OpenClipart](https://openclipart.org/) - *PNG Images / Clipart* 
 * [Sankaku](https://sankaku.app/) or [ZeroChan](https://zerochan.net/) - *Anime Images / Some NSFW / [Chrome](https://github.com/Disrc/SankakuComplexAddon)*
 * [PSDGraphics](https://www.psdgraphics.com/) - *PSD Files*
 * [Artbreeder](https://artbreeder.com/) - *Image Discovery / Combining*
@@ -232,13 +235,15 @@
 * [PaintUp](http://technohippy.github.io/teddyjs/) - *Make 2D Art Into 3D*
 * [Thingiverse](https://www.thingiverse.com/), [Yeggi](https://www.yeggi.com/) or [YouImagine](https://www.youmagine.com/) - *3D Printer Models* 
 * [MyMiniFactory](https://www.myminifactory.com/) - *Mini 3D Printer Models*
-* [3DBrute](https://3dbrute.com/) or [DesignConnected](https://www.designconnected.com/) - *3D Furniture Models*
+* [3DBrute](https://3dbrute.com/), [3DZip](https://www.3dzip.org/) or [DesignConnected](https://www.designconnected.com/) - *3D Furniture Models*
+* [Halloween.WannaThis](https://halloween.wannathis.one/) - *3D Halloween Models*
 * [DEFCAD](https://defcad.com/) - *3D Gun Models*
 * [CC0 Textures](https://cc0textures.com/) - *Textures for 3D Models* 
 * [Generated Photos](https://generated.photos/) - *AI Generated Model Photos*
 * [Blender](https://www.blender.org/) - *Open Source 3D Modeler / 2D Animation / Video Editor*
-* [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketch.Me](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [Chakoku](https://github.com/itta611/ChokokuCAD), [PovRay](http://www.povray.org/), [Vectary](https://www.vectary.com/) or [Art of Illusion](http://aoi.sourceforge.net/) - *3D Modeling / Art Design Tool*
+* [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketch.Me](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [Chakoku](https://github.com/itta611/ChokokuCAD), [PovRay](http://www.povray.org/), [PicoCad](https://johanpeitz.itch.io/picocad) - *3D Modeling Tool, [Vectary](https://www.vectary.com/) or [Art of Illusion](http://aoi.sourceforge.net/) - *3D Modeling / Art Design Tool*
 * [MakeHuman](http://www.makehumancommunity.org/) - *3D Humanoid Modeler*
+* [posemy](https://app.posemy.art/), [quickposes](https://quickposes.com/en) or [justsketch](https://app.justsketch.me/) - *Posing Tools*
 * [FaceMaker](http://facemaker.uvrg.org/) - *Face / Avatar Generator* 
 * [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - *AI Art Generation Guide*
 * [FreeCAD](https://www.freecadweb.org/) - *3D Parametric Modeler*
@@ -254,6 +259,7 @@
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - *Art & Animation Resource Index*
 * [Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes) - *Color Scheme / Palette Tools*
 * [ImgOps](https://imgops.com/) - *Image Operations Meta-Tool*
+* [Photoshop Repeating Action Script](https://gist.github.com/ajazsiddiqui/72bbf376ad387e1f76bfad777f66d7a3) - *Automate Photoshop*
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - *Image Color Scatter Plot* 
 * [VisiPics](http://www.visipics.info/) - *Duplicate Photo Remover* 
 * [behind!](https://github.com/kubuzetto/behind) - *View Background Images*   
@@ -308,8 +314,8 @@
 * [WEBPtoJPG](https://webptojpg.com/), [WEBPtoPNG](https://webptopng.com/), [WEBTtoGIF](https://webptogif.com/), [PNGtoJPG](https://pngtojpg.com/), [HEICtoJPG](https://heicjpeg.com/) - *Image Conversion Tools*
 * [WebP Converter](https://webp-converter.com/) - *Image File to WebP Converter*
 * [PaperFile](http://www.paperfile.net/) or [StructuRise](http://structurise.com/screenshot-ocr/) - *Convert picture text to text file*
-* [Vectorizer](https://www.vectorizer.io/) - *Convert Images to Vector Art* 
-* [text2img](https://master.ayra.ch/text2img/) - *Convert Text to Image*
+* [Vectorizer](https://www.vectorizer.io/) or [AutoTracer](https://www.autotracer.org/) - *Image Vectorizer* 
+* [text2img](https://master.ayra.ch/text2img/) or [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image) - *Convert Text to Image*
 * [Selfie2Anime](https://selfie2anime.com/), [Animate-Me](https://github.com/Aneureka/animate-me) - *Convert Selfies to Anime* 
 
 ***
@@ -350,7 +356,7 @@
 * [Image Identification Project](https://www.imageidentify.com/) - *Image Identification Tool* 
 * [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [ImSter](https://github.com/armytricks/ImSter) or [stegpy](https://github.com/dhsdshdhk/stegpy) - *Embed & Extract Hidden Data in Images / Steganography* 
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - *Blur Images / Scrub Metadata*
-* [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi), [Exif-Viewer](http://exif-viewer.com/), [metapicz](http://metapicz.com/), [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [ExifData](https://exifdata.com/) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - *EXIF / Metadata Viewer* 
+* [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi), [Exif-Viewer](http://exif-viewer.com/), [metapicz](http://metapicz.com/), [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - *EXIF / Metadata Viewer* 
 * [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif) or [VerExif](https://www.verexif.com/en/) - *Remove Meta / EXIF Data* 
 * [Pic2Map](https://www.pic2map.com/) - *Image EXIF data viewer with GPS support*
 * [TheExifer](https://www.thexifer.net/index.php) or [Exiv2](https://www.exiv2.org/) - *Image EXIF Data Editor* 
