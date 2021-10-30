@@ -27,6 +27,7 @@
 * [Shazam Music](https://t.me/shazam_music_uz) - *Music / Telegram* 
 * [music_banktel](https://t.me/music_banktel) - *Music / Telegram* 
 * [NullNoss](https://www.nullnoss.org/) - *Courses*
+* [Courses4Arab](https://courses4arab.com/) - *Programming Courses *
 * [WiFi4Games](https://www.wifi4games.com/) - *Games*
 
 ## ▷ Torrenting 
@@ -67,7 +68,8 @@
 * [animesilver](https://www.animesilver.com/) - *Anime*
 * [animetv](https://www.animetv.ge/) - *Anime*
 * [fomny](http://fomny.com/Home/index.php) - *Live TV* 
-* [livehd7](https://www.livehd7.top/) - *Live Football*
+* [YallAlive](https://yallalive.io/) - *Live Soccer*
+* [livehd7](https://www.livehd7.top/) - *Live Soccer*
 
 ## ▷ Reading
 
@@ -110,6 +112,7 @@
 * [jialezi](https://blog.jialezi.net/) - *Chinese Tutorials*
 * [Kaiheila](https://www.kaiheila.cn/) - *Chinese Discord*
 * [zimuku](http://zimuku.org/) or [SubHD](https://subhd.tv/) - *Subtitles*
+* [Anti-Ad](https://anti-ad.net/) - *Adblock Filters*
 * [Dianying](https://dianying.fm/) - *Hash Search*
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io) or [OilAndFish](https://www.oilandfish.com/) - *Bypass Chinese Firewall*  
@@ -117,7 +120,8 @@
 * [SeiWatei](https://www.seiwatei.net/) - *Chinese Learning Tools*
 * [Oh.Taigi](https://oh.taigi.info/) - *Chinese Taiwanese Learning Tools*
 * [taioan](https://ji.taioan.org/) - *Chinese Spell Check*
-* [ICIBA](http://www.iciba.com/) or  [YouDao](https://fanyi.youdao.com/) - *Chinese Translator / [Client](http://cp.iciba.com/)*
+* [Baidu Library to Word](https://greasyfork.org/en/scripts/405373-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E8%BD%AC-word-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD%E5%99%A8) - *aidu Library to Word Converter*
+* [ICIBA](http://www.iciba.com/), [Fanyi](https://fanyi.qq.com/) or [YouDao](https://fanyi.youdao.com/) - *Translator / [Client](http://cp.iciba.com/)*
 * [Shufazidian](http://www.shufazidian.com/) - *Chinese Calligraphy Dictionary*
 * [itaigi](https://itaigi.tw/) - *Chinese to Taiwanese Translator*
 * [Flash.cn](https://www.flash.cn/) - *Chinese Flash Player*
@@ -150,6 +154,8 @@
 * [dytt8](https://dytt8.net/), [dy2018](https://dy2018.com/), [ygdy8](https://ygdy8.com/index.html) or [dydytt](https://www.dydytt.net) - *Movies / TV / Anime*
 * [88btbtt](https://www.88btbtt.com/) - *Movies / TV / Anime*
 * [ygdy8](https://www.ygdy8.net/) - *Movies / TV / Anime* 
+* [Mini4k](https://www.mini4k.com/) - *Movies / TV*
+* [DoMP4](https://www.domp4.cc/) - *Movies / TV*
 * [piaohua](https://www.piaohua.com/) - *Movies / TV / Anime*
 * [Dytt8](https://dytt8.net/) - *Movies / TV / Anime*
 * [高清电台](https://gaoqing.fm/) - *Movies / TV / Anime / Use VPN or Google Translate to Access*
@@ -191,6 +197,7 @@
 * [jsososo](http://y.jsososo.com/), [2](http://music.jsososo.com/) - *Music* 
 * [Huya](https://www.huya.com/) - *Live Streaming*
 * [數學老師張旭](https://space.bilibili.com/521685904) - *Math Lessons*
+* [Baidu SkyDrive Video Player](https://greasyfork.org/en/scripts/426952-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%B0%8A%E4%BA%AB-vip-%E8%A7%A3%E9%94%81%E8%A7%86%E9%A2%91%E5%80%8D%E6%95%B0-%E8%A7%A3%E9%94%81%E5%85%A8%E9%83%A8%E6%B8%85%E6%99%B0%E5%BA%A6) - *Baidu VIP Video Player*
 
 ## ▷ Reading 
 
@@ -362,6 +369,7 @@
 * [German Telegram Movie Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_german_telegram_movie_downloads) - *Movies* 
 * [Boerse](https://myboerse.bz/) - *Video / Audio / Software / Android / NSFW*
 * [Animes.so](https://www.animes.so/) - *Anime* 
+* [37.187.112](http://37.187.112.153/) - *Anime*
 * [serienjunkies](https://serienjunkies.org/) - *TV* 
 * [uu.canna.to](http://uu.canna.to/) - *Music / Audiobooks* 
 * [ddl-albums](https://ddl-albums.net/) - *MP3*
@@ -464,6 +472,7 @@
 * [WorldFree4U](https://worldfree4u.quest/) - *Movies / TV*
 * [KatMovieHD](https://katmoviehd.se/), [2](https://kmhd.link/archives/) - *Movies / TV*
 * [HDHub4u](https://hdhub4u.wiki/) - *Movies*
+* [MoviesRush](https://moviesrush.cam/) - *Movies*
 * [MKVHub](https://www.mkvhub.ws/) - *Movies / TV*
 * [UncutHD](https://www.uncuthd.one/) - *Movies*
 * [RemaxHD](https://remaxhd.org/) - *Movies / TV*
@@ -491,6 +500,7 @@
 * [9xMovies](https://9xmovies.land/) - *Movies / TV* 
 * [4MovieRulz](https://4movierulz.mn/) - *Movies* 
 * [HHDMovies](https://hhdmovies.org/) - *Movies / TV*
+* [OKJatt](https://okjatt.co/) - *Movies / TV*
 * [HindiLover](https://hindilover.biz/) - *TV*
 * [OkJatt](https://okjatt.work/) - *Movies / TV*
 * [HindiLinks4u](https://www.hindilinks4u.to/), [2](https://hindilinks4u.pro/) or [3](https://hindilinks4u.io/)  - *Movies / TV*
@@ -509,6 +519,7 @@
 
 * [BDEBooks](https://bdebooks.com/) - *Books*
 * [Hindiebooks](https://t.me/Hindiebooks), [2](https://t.me/EbookzStuff) - *Books*
+* [Book-Drive](https://www.book-drive.com/) - *Books*
 * [requesthindibooks](https://t.me/requesthindibooks) - *Books / Request*
 * [English_Hindi_Novels_Magazine](https://t.me/English_Hindi_Novels_Magazine) - *Books / Magazines*
 * [ENewspaperEarly](https://t.me/EnewsPaperEarly) - *Newspapers*
@@ -518,6 +529,8 @@
 ***
 
 # ► Hungarian
+
+* [TorrentEmpire](https://torrent-empire.me/) - *Torrent Discussion*
 
 ## ▷ Streaming 
 
@@ -592,6 +605,7 @@
 * [Anime Raws Masterlist](https://sites.google.com/view/animerawsmasterlist/home) - *Anime*
 * [AnimeTime](https://www.animetime.pw/) - *Anime* 
 * [arearaw](http://arearaw.com/) - *Anime / Use Tor* 
+* [GameCenter CX Archives](https://archive.org/details/@gamecentercx) - *GameCenter CX Archive / [English](https://archive.org/details/game-center-cx-english-subbed-episodes-collection-2021-02-gamecenter-cx)*
 * [MinimumMusic](https://minimummusic.com/) - *Music / MP3 / FLAC*
 * [Sukidesuost](https://sukidesuost.info/) - *Music / MP3 / FLAC*
 * [Hikarinoakariost](https://hikarinoakari.com/) - *Music / MP3*
@@ -599,6 +613,7 @@
 * [JPopSingles](https://www.jpopsingles.eu/) - *Music / MP3 / FLAC*
 * [9tensu](http://www.9tensu.com/) - *Music / MP3*
 * [DoujinStyle.com](https://doujinstyle.com/) - *Music / MP3* 
+* [Doujin Cafe](https://discord.gg/doujincafe) - *Music / MP3*
 * [Music Fusion World](https://fusion-world-30.blogspot.com/) - *Music / MP3*
 * [J-pop Music Download](https://jpop.xyz/) - *Music / MP3 / FLAC* 
 * [フリーソフトウェアの倉庫](http://nekomimi.la.coocan.jp/freesoft/index.htm) - *Software*
@@ -628,19 +643,22 @@
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - *Japanese Animated Film Archive*
 * [National Film Archive of Japan](https://meiji.filmarchives.jp/) - *Japanese Film Archive*
 * [AQ Stream](https://aqstream.com/) - *Live TV* 
+* [GameCenter CX](https://www.twitch.tv/gemcentacxx) - *GameCenter CX Stream*
 * [kuukunen](https://touhou.kuukunen.net/) - *Music*
 * [Live Japanese M3u](https://ufile.io/vh9e2j6h) - *M3u File for VLC*
 
 ## ▷ Reading 
 
 * [senmanga](https://raw.senmanga.com/) - *Manga / Novels / NSFW*
-* [manga1000](https://manga1000.com/) or [manga1001](https://manga1001.com/) - *Manga / NSWF* 
+* [manga1000](https://manga1000.com/) or [manga1001](https://manga1001.com/) - *Manga / NSFW* 
 * [rawdevart](https://rawdevart.com/) - *Manga* 
 * [mangaraid](https://mangaraid.com/) - *Manga / NSFW* 
 * [MangaBox](https://www.mangabox.me/) - *Manga* 
 * [DLRaw](https://dlraw.net/) - *Manga*
 * [MangasRaw](https://mangas-raw.com/) - *Manga*
 * [Comic Walker](https://comic-walker.com/) - *Manga*
+* [WeLoMa](https://weloma.net/) - *Manga*
+* [Kissaway](https://kissaway.net/) - *Manga*
 * [13DL](http://13dl.net/) - *Manga / Novels / NSFW*
 * [dl-raw](https://dl-raw.net/) - *Manga / Novels / NSFW*
 * [jpraw](https://jpraw.net/) - *Manga / NSFW*
@@ -800,6 +818,7 @@
 * [MelliMovies](https://mellimovies2.tk/) - *Movies / TV* 
 * [filmha](https://filmha.top/) - *Movies* 
 * [FarsiLand](https://farsiland.com/) - *Movies / TV* 
+* [Nostalgik](https://nostalgiktv.org/) - *Movies / TV*
 * [LiveFarsi](https://www.livefarsi.com/live-tv.html) - *Movies / TV / Live*
 * [Anten.ir](https://www.anten.ir/) - *Live / TV / Sports* 
 * [PersianTVLive](http://www.persiantvlive.com/) - *Live TV*
@@ -851,6 +870,7 @@
 
 # ► Portuguese 
 
+* [Invetexto](https://www.invertexto.com/) - *Multiple Online Tools*
 * [LegendaOfficial](http://legendaoficial.net/), [LegendasDivx](https://www.legendasdivx.pt/, [Legendas.tv](http://legendas.tv/), [Legendas](https://legendas.co/), [Legendas.dev](https://legendas.dev/) or [Leganda-Zone](https://www.legendas-zone.org/) - *Subtitles* 
 * [legendasbrasil](https://legendasbrasil.org/) - *Subtitle Search App*
 * [Portuguese Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_browser_games) 
@@ -1005,6 +1025,16 @@
 * [RadioRock](https://www.radiorock.com.br/) - *Radio*
 * [Tupi](https://www.tupi.fm/) - *Radio*
 * [RadioFobia](https://radiofobia.com.br/ ) - *Radio*
+* [Vagalume](https://vagalume.fm/) - *Radio*
+* [Hunter.fm](https://hunter.fm/) - *Radio*
+* [m80](https://m80.iol.pt/) - *Radio*
+* [tsf](https://www.tsf.pt/) - *Radio*
+* [megahits](https://megahits.sapo.pt/) - *Radio*
+* [radiointoxica](https://www.radiointoxica.com.br/) - *Radio*
+* [Radio.pt](https://www.radio.pt/) - *Radio*
+* [Radio7](http://www.radios7.com/) - *Radio*
+* [Antena1](https://www.antena1.com.br/) - *Radio*
+* [CXRadio](https://www.cxradio.com.br/) - *Radio*
 * [HarpaCrista](https://harpacrista.org/) - *Christian Music*
 * [Christian Harp](https://www.microsoft.com/store/productId/9WZDNCRDPDWC) - *Christian Music*
 Portuguese / Streaming / Christian Music 
@@ -1079,6 +1109,7 @@ Portuguese / Streaming / Christian Music
 * [Apocalipse2000](http://apocalipse2000.com.br/) - *Paranormal / UFO / Scary Short Stories*
 * [recantodasletras](https://www.recantodasletras.com.br/) - *Text Archive*
 * [Portuguese Dictionaries / Thesaurus' / Symbols](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_dictionaries_.2F_thesaurus) 
+* [Portuguese Grammar Tips & Lessons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_grammar_tips_.26amp.3B_lessons) 
 * [Portuguese Bibles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_bibles)
 * [NomesBiblicos](https://www.nomesbiblicos.com/) - *Biblical Name History*
 * [estudos-biblicos](http://estudos-biblicos.net/), [2](https://estudos-biblicos.blogspot.com/) - *Bible Studies*
@@ -1200,6 +1231,7 @@ Portuguese
 * [baskino](http://baskino.me/) - *Movies*
 * [Kinogo](https://kinogo.la/) - *Movies / TV / Anime / [Telegram](https://t.me/kinogoby)*
 * [Kinotochka](https://kinotochka.co/) - *Movies / TV / Anime*
+* [NotAlone](https://www.notalone.tv/) - *Movies / TV*
 * [filmix](https://filmix.co/) - *Movies*
 * [kinokong](https://kinokong.org/) - *Movies / TV* 
 * [RussianFilmHub](https://russianfilmhub.com/) - *Movies / TV*
@@ -1208,12 +1240,14 @@ Portuguese
 * [hdzo](https://hdzo.tv/) - *Movies / TV*
 * [seasonvar](http://seasonvar.ru/) - *TV*
 * [Kino-Dom](http://kino-dom.org/) - *TV*
+* [Shiza Project](https://shiza-project.com/) - *Anime*
 * [otakustudio](http://www.otakustudio.tv/) - *Anime* 
 * [DarkLibria](https://darklibria.it/) - *Anime*
 * [Soviet Movies Online](https://sovietmoviesonline.com/cartoons) - *Cartoons* 
 * [Dokonlin.ru](https://www.dokonlin.ru/) - *Documentaries*   
 * [VseDoramy](https://vsedoramy.net/) - *Asian Drama*
 * [livetv](http://livetv.sx/) - *Live Sports*  
+* [VIP-TV](https://vip-tv.club/) - *IPTV Playlists*
 * [myzuka](https://myzuka.club/) - *Music*
 * [muzlishko](http://www.muzlishko.ru/) - *Music*
 * [pesnigoo](https://pesnigoo.ru/) - *Music*  
@@ -1278,6 +1312,7 @@ Portuguese
 * [Movies, Series ... in Spanish](https://redd.it/ns0y6c) - *Movies / TV*
 * [Peliculas 480p](https://t.me/cinema480p) - *Movies / Telegram* 
 * [dyndns](http://fina.dyndns.tv/) - *TV*  
+* [Anime-ESP](https://anime-esp.com/) - *Anime*
 * [ddl.ice](https://ddl.ice-blue.workers.dev/0:/) - *Anime*
 * [DownloadsMega](https://t.me/DownloadsMega) - *Video / Audio / Telegram* 
 * [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
@@ -1304,6 +1339,7 @@ Portuguese
 * [HDFull](https://hdfull.lv/) - *Movies / TV / Anime*  
 * [Cuevana3](https://cuevana3.io/) - *Movies / TV* 
 * [Pelisplus](https://pelisplus.me/) - *Movies / TV*
+* [PelisPlus.so](https://pelisplus.so/) - *Movies / TV*
 * [Pelispedia](https://www.pelispedia.de/) - *Movies / TV* 
 * [Pelispedia 2](https://www.pelispedia2.vip/) - *Movies / TV* 
 * [PelisFlix](https://pelisflix.io/) - *Movies / TV* 
@@ -1469,10 +1505,12 @@ Portuguese
 * [v100v.net](https://www.v100v.net/) - *Streaming / Movies*
 * [7MovieRulz](https://7movierulz.im/) - *Streaming / Movies*
 * [1jalshamoviez](https://www.1jalshamoviez.info/) - *Download / Movies*
+* [MLWBD](https://mlwbd.shop/) - *Download / Movies*
 * [4MovieRulz](https://4movierulz.gg/) - *Download / Movies*
 * [1xCinema](https://1xcinema.com/) - *Download / Movies*
 * [Indian Flac Songs](https://t.me/indianflacsongs) - *Download / Music*
 * [TamilBlasters](https://tamilblasters.art/) - *Torrent / Movies*
+* [TamilMV](https://www.1tamilmv.work/) - *Torrent / Movies*
 * [TamilMV](https://www.1tamilmv.sbs/) - *Torrent / Movies*
 * [indianebooks](https://t.me/indianebooks) - *Books*
 * [Digital Library of India](https://dli.sanskritdictionary.com) - *Books*
