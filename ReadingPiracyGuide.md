@@ -64,7 +64,7 @@
 * **[Mobile Read](https://www.mobileread.com/)** - *E-Book / Reader Discussion Forum*
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - *Books*
 * [IRC Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - *Download Ebooks from IRC*
-* IRC Ebook Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
+* IRC Ebook Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/), [2](https://encyclopediadramatica.online/Bookz) - *IRC Ebook Guide*) / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
 * [Project Gutenberg](https://www.gutenberg.org/) - *Historical / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)*
 * [Archive.org](https://archive.org/details/texts) - *Books / Audiobooks / Magazines / Newspapers / [Borrow Only Bypass](https://i.imgur.com/y7Vl9rd.png)*
 * [The Library](https://discord.gg/mSyFJz9) or [The Great E-Library](https://discord.gg/efBxSuz) - *E-Book Discord Servers* 
@@ -104,6 +104,7 @@
 * [DownLoadBooks](https://downloadbooks.unblockit.dev/) - *Books*
 * [Any Books Free](http://anybooksfree.com/) - *Books*
 * [Books'Cool](https://www.bookscool.com/en/index.php) - *Books*
+* [Dirzon](https://www.dirzon.com/) - *Books*
 * [Ebookee](https://www.ebookee.com/) - *Books / Magazines*
 * [Epub.us](https://www.epub.us/) - *Books*
 * [EBooksCart](https://ebookscart.com/) - *Books*
@@ -158,6 +159,7 @@
 * [lesatkins](http://www.lesatkins.com/books/epubfiles/) - *Books / [Download Zip](http://www.lesatkins.com/books/downloadzip.php)*
 * [Flibusta](https://flibusta.is/) - *Books / [Onion](http://flibustahezeous3.onion/) / Requires account*
 * [DailyLit](https://dailylit.com/) - *Books*  
+* [BookSearch](https://ravebooksearch.com/) - *Ebook Search Engine*
 * [Ebooks Searcher](https://ebook-searcher.com/) or  - *Multi-Site Book Search* 
 * [FreeBooksSifter](https://www.freebooksifter.com/) - *Free Amazon E-Book* 
 * [HundredZeros](http://hundredzeros.com/) - *Free Kindle Books* 
@@ -330,6 +332,7 @@
 * [PublicBookShelf](http://www.publicbookshelf.com/) - *Romance*
 * [The Eldritch Dark](http://www.eldritchdark.com/) - *Clark Ashton Smith*
 * [The Anarchist Library](http://theanarchistlibrary.org/special/index) - *Anarchism*
+* [Anarcho-Copy](https://anarcho-copy.org/) - *Anarchism*
 * [Archive.Leftove.rs](https://archive.leftove.rs/) - *Protest Documents*
 * [Marxists Internet Archive](https://www.marxists.org/) - *Socialism / Communism*
 * [Liberation School](https://liberationschool.org/) - *Communism*
@@ -394,6 +397,7 @@
 * [Learn Anything / Books](https://github.com/learn-anything/books)
 * [Tradepub](https://knowfree.tradepub.com/)
 * [PupilGarage](http://www.pupilgarage.com/)
+* [Ed_Books](https://t.me/Ed_Books) 
 * [Libribook](https://libribook.com/) 
 * [Educational Archive](http://s2.bitdownload.ir/)
 * [Penn Libraries](http://digital.library.upenn.edu/) + *[Index](http://digital.library.upenn.edu/books/)*
@@ -449,6 +453,7 @@
 * [Medical Drive](https://drive.google.com/drive/folders/0B02ZCBdtmhfyMjRPV0VIM2dFdUk?resourcekey=0-DJLkLrMe693_5C-Vv-jFPA) - *Medical*
 * [Medical_Book_Bot](https://t.me/Medical_Book_Bot) - *Medical / Telegram*
 * [medrxiv](https://www.medrxiv.org/) - *Medicine Preprints*
+* [Brill](https://brill.com/) - *International Law Books*
 * [Lee B. Drive](https://drive.google.com/drive/u/0/mobile/folders/183tf8PmQbwgVC7HrxOZ5WQPulVd-Uomi) - *Books / Black History / Educational*
 * [RationalWiki](https://rationalwiki.org/) - *Pseudoscience Refutation Wiki*
 * [Snopes](https://www.snopes.com/) - *Urban Legends, Folklore, Misinformation & more*
@@ -467,6 +472,7 @@
 * [/r/econbooks](https://reddit.com/r/econbooks)
 * [/r/mathbooks](https://reddit.com/r/mathbooks)
 * [/r/Scholar](https://reddit.com/r/Scholar)
+
 
 ***
 
@@ -521,6 +527,7 @@
 * [EbookFoundation Programming Books](https://github.com/EbookFoundation/free-programming-books/) 
 * [Free-Python-Books](https://github.com/oddsun/Free-Python-Books)
 * [free-python-books](https://github.com/pamoroso/free-python-books)
+* [JSBooks](https://jsbooks.revolunet.com/) - *Javascript Books*
 * [DevDocs](https://devdocs.io/) - *API Documentation*
 * [Bzdnbot](https://t.me/Bzdnbot) - *Telegram* 
 * [Programming Directories](https://redd.it/hxdbau) 
@@ -603,7 +610,7 @@
 * [PDF / Doc Search Engine](https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0) 
 * [DocDownloader](https://docdownloader.com/), [SCFull](https://scfull.com/), [DownScribd](https://downscribd.com/), [docdownload](https://docdownload.net/), [guIHelp](https://discord.gg/rgF9jY8CpH) or [ScribdDown](https://scribddown.com/) - *[Scribd](https://www.scribd.com/) Document Downloader* 
 * [Scribd Download Guide](https://redd.it/kfv1c6) 
-* [ZealDocs](https://zealdocs.org/) - *Documentation Reader*
+* [ZealDocs](https://zealdocs.org/) or [zathura](https://git.pwmt.org/pwmt/zathura) - *Document Viewer*
 * [GROBID](https://github.com/kermitt2/grobid) - *Extract / Organize Scientific Document Info*
 
 ***
@@ -767,6 +774,7 @@
 * [MangaFreak](https://w12.mangafreak.net/)
 * [Manga-Raw](https://www.manga-raw.club/)
 * [MangaInn](https://mangainn.net/) 
+* [MangaGeek](https://www.mangageek.tk/) 
 * [Manganato](https://manganato.com/)
 * [MangaNyaa](https://manganyaa.com/) 
 * [EvilFlowers](http://reader.evilflowers.com/)
@@ -831,6 +839,8 @@
 * [Tachiyomi](https://github.com/Suwayomi)  - *Manga / Comic Reader / [Web Client](https://github.com/TachiWeb) / [Discord](https://discord.com/invite/tachiyomi)* 
 * [CrossFace](https://crossface.cf/manga-reader/) - *Browser Comic / Manga Reader*
 * [manga-py](https://github.com/manga-py/manga-py) - *Python Line Manga Downloader* 
+* [Manga APIs](https://rentry.co/manga-apis) - *Manga Site API's*
+* [Scanlation Sites](https://www.reddit.com/r/mangadex/comments/mafhtl/scanlation_sites_megathread/) - *Manga Scanlation Groups*
 * [MangaUpdates](https://www.mangaupdates.com/) - *Manga Release Updates*  
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
 * [MangaEditor](https://moeka.me/mangaEditor/) - *Online Manga Editor*
@@ -860,6 +870,7 @@
 * [Light Novel Pub](https://www.lightnovelpub.com/)
 * [JPMTL](https://jpmtl.com/) 
 * [Novel Ebooks](https://novel-ebook.com/) 
+* [WuxiaWorld](https://www.wuxiaworld.com/)
 * [AsianNovel](https://www.asianovel.com/)
 * [LNWNCentral](https://lnwncentral.wordpress.com/) 
 * [NovelOnlineFull](https://novelonlinefull.com/)
@@ -891,6 +902,7 @@
 * [Wuxiaworld](https://www.wuxiaworld.co/) - *Chinese Novels*  
 * [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [QuickNovel](https://github.com/LagradOst/QuickNovel) or [Novel-Grabber](https://github.com/Flameish/Novel-Grabber) - *Light-Novel Downloader*
 * [WebToEpub](https://github.com/dteviot/WebToEpub) - *Novel to EPUB Converter*
+* [LNMTL](https://lnmtl.com/) - *Light Novel Translator*
 
 ***
 
@@ -1021,6 +1033,7 @@
 * [Okular](https://okular.kde.org/) - *PDF / Reader / Linux / PC / Mac*
 * [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) - *PDF Reader / PC*
 * [qPDFview](https://launchpad.net/qpdfview) - *PDF Reader / PC*
+* [PDFLite](http://www.pdflite.com/) - *PDF Reader / PC*
 * [mupdf](https://mupdf.com/) - *PDF Reader / PC*
 * [XODO](https://www.xodo.com/) - *PDF Reader / PC / Android / iOS*
 * [gonitro](https://www.gonitro.com/pdf-reader) - *PDF Reader / PC*
@@ -1035,7 +1048,6 @@
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - *Read Books in Browser*
 * [Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading) Ebook Readers - *Mobile Browser Readers*
 
-
 ***
 
 # ► Helpful Sites / Apps
@@ -1048,6 +1060,7 @@
 * [FiveFilters](https://www.fivefilters.org/) - *Multiple Article Accessibility Tools*
 * [Bypass Quora login](https://onehack.us/t/bypass-quora-login-for-unlimited-reading-new-method-legal/92786)
 * [Kindle to PDF](https://redd.it/bm837l) - *Kindle to PDF Conversion Guide*
+* [Ebook-Converter](https://ebook-converter.com/) - *Ebook Converter*
 * [Ebook Sender](https://telegram.me/to_kindle_bot) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - *Send Ebooks to Kindle*
 * [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - *Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)*
 * [BookCut](https://github.com/costis94/bookcut) - *Ebook Download Tool* 
