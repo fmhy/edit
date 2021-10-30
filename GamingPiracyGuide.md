@@ -87,6 +87,9 @@
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - *Space Cadet Pinball Decompilation*
 * [/r/RepackWorld](https://reddit.com/r/RepackWorld) - *Repack Subreddit*
 * [How The Warez Scene Works](https://www.reddit.com/r/CrackWatch/comments/92uz49/the_warez_scene_how_it_works/) 
+* [PokemonRevolution](https://pokemonrevolution.net/) - *Pokemon MMO*
+* [Clone Hero](https://clonehero.net/) - *Guitar Hero Clone / [Setlists](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/), [2](https://customsongscentral.com/)*
+* [Game Search](https://idleendeavor.github.io/gamesearch/) - *Game Download Search Engine*
 
 ***
 
@@ -107,8 +110,9 @@
 * [Free GoG PC Games](https://freegogpcgames.com/)
 * [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
-* [Tiny-Repacks](https://www.tiny-repacks.win/)
+* [Tiny-Repacks](https://www.tiny-repacks.win
 * [Ali213](https://ali213.net/) - *May Require VPN / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
+* [Game Search](https://idleendeavor.github.io/gamesearch/) - *Game Torrent Search Engine*
 
 ***
 
@@ -134,6 +138,7 @@
 * [Romsie](https://romsie.com/) - *Emulators / Roms*
 * [EmuRoms](http://www.emuroms.ch/en) - *Emulators / Roms*
 * [ConsoleRoms ](https://www.consoleroms.com/) - *Emulators / Roms*
+* [HexRom](https://hexrom.com/) - *Emulators / Roms*
 * [Rom Hustler](https://romhustler.org/) - *Emulators / Roms*
 * [80s](http://80s.lt/?dir=Files%2FGames) - *Emulators / Roms* 
 * [RomsDownload](https://romsdownload.net/) - *Emulators / Roms*
@@ -172,6 +177,7 @@
 * [Eclipse](https://eclipseemu.me/play/) - *Online Mobile Multi-Console Emulator* 
 * [webnofrendo](https://zardam.github.io/webnofrendo/) - *NES Numworks Emulator*
 * [/r/Roms](https://www.reddit.com/r/Roms/) - *Discussion Sub*
+* [RomHacking](https://www.romhacking.net/) - *Rom Translations & Hacks*
 * [RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list) - *Emulator Tool Index*
 
 ***
@@ -336,7 +342,7 @@
 * [GtkAtlantic](https://gtkatlantic.gradator.net/index.html) or [Monopolie](http://monopolie.sourceforge.net/index.shtml) - *Open Source Monopoly*
 * [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - *Pac-man*
 * [Tetris](https://tetris.com/) or [OpenTetris Classic](https://sourceforge.net/projects/opentetrisclassic/) - *Play Tetris*
-* [TETR.IO](https://tetr.io/) - *Multiplayer Tetris*
+* [TETR.IO](https://tetr.io/) - *Multiplayer Tetris / [Plus](https://gitlab.com/UniQMG/tetrio-plus)*
 * [First Person Tetris](https://firstpersontetris.com/) - *Play Tetris in First Person* 
 * [Play Snake](https://playsnake.org/) - *Retro Snake* 
 * [Snake-Game](https://www.onemotion.com/snake-game/) - *3D Snake*
@@ -445,6 +451,7 @@
 * [JackBox.tv](https://jackbox.tv/) 
 * [Playok](https://www.playok.com/)
 * [PaperGames](https://papergames.io/)
+* [GarticPhone](https://garticphone.com/) - *Telephone Game*
 * [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) - *Drawing / Guessing Game / Multiplayer*
 * [Krunker.io](https://krunker.io/) / [2](https://browserfps.com/) / [Market Ping](https://yee.how/market-ping/) / [Client](https://client.cuffuffles.dev/), [Venge](https://venge.io/) or [RoboFight](https://robofight.io/) - *PvP FPS*
 * [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) - *Top Down Battle Royal* 
@@ -470,6 +477,7 @@
 * [Too Many Chefs](https://www.toomanychefs.party/) - *Text-Based Coop Cooking Game* 
 * [Haxball](https://www.haxball.com/) - *Physics Based Multiplayer Soccer*
 * [Powerline.io](http://powerline.io/) or [Games 1729](https://www.games1729.com/serpentron/) - *Multiplayer Snake*
+* [Bonk](https://bonk.io/) - *Multiplayer Physics Game*
 * [RoboStorm](https://robostorm.io/) - *Robot Battle Game* 
 * [GPRO](https://www.gpro.net/gb/gpro.asp) - *Multiplayer F1 Manager Game*
 * [Miniconomy](https://www.miniconomy.com/) - *Multiplayer Economy Game*
@@ -479,7 +487,7 @@
 * [GameKnot Chess](https://gameknot.com/) - *Multiplayer Chess*
 * [Kung Fu Chess](https://www.kfchess.com/) - *Real-Time Chess w/o Turns* 
 * [AllBad.Cards](https://allbad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - *Cards Against Humanity Online* 
-* [247 Free Poker](https://www.247freepoker.com/) - *Simple Poker Online* 
+* [Poker Now](https://www.pokernow.club/), [LiPoker](https://lipoker.io/) or [247 Free Poker](https://www.247freepoker.com/) - *Multiplayer Poker*
 * [KDice](http://www.kdice.com/) - *Multiplayer Dice War*
 
 ***
@@ -498,8 +506,7 @@
 * [Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards) - *Card Games Index*
 * [WorldOfCardGames](https://worldofcardgames.com/) or [World of Solitaire](https://worldofsolitaire.com/) - *Card Games*
 * [Mah-Jongg](https://www.mah-jongg.ch/) - *Mahjongg Solitaire Games*
-* [Poker Now](https://www.pokernow.club/) - *Multiplayer Poker*
-* [247 Free Poker](https://www.247freepoker.com/) - *Simple Poker Online* 
+* [Poker Now](https://www.pokernow.club/), [LiPoker](https://lipoker.io/) or [247 Free Poker](https://www.247freepoker.com/) - *Multiplayer Poker*
 * [KDice](http://www.kdice.com/) - *Multiplayer Dice War*
 * [Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee) - *Yahtzee Sites Collection*
 
@@ -607,6 +614,7 @@
 * [rate.house](https://rate.house/) - *Video Game Database*
 * [listal](https://www.listal.com/) - *Video Game Database*
 * [HOTU](http://www.homeoftheunderdogs.net/) - *Rare Video Game Database*
+* [MoreGamesLike](https://www.moregameslike.com/) - *Find Similar Games*
 * [Movie-Censorship](https://www.movie-censorship.com/) - *Compare Alternate Versions of Media* 
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Greatest 100 Lists*
 * [libib](https://www.libib.com/) - *Desktop Media Catalog*
