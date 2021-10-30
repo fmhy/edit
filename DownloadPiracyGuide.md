@@ -133,8 +133,9 @@
 
 ## ▷ Search Sites
 
-* **[Download Sites Search](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** + [Download Sites 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h)
+* **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - *Multi-Site Search*
 * **[ZippyShareSearch](https://zippysharesearch.com/)** or [ZippyShareFinder](https://zippysharefinder.com/) - *Search Zippyshare* 
+* [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
 * [FilePursuit](https://filepursuit.com) + *[Discord](https://discord.gg/xRfFd8h)*
 * [scnlog](https://scnlog.me/)
 * [filesearch.link](http://filesearch.link/)
@@ -171,7 +172,7 @@
 * **[Software CSE](https://cse.google.com/cse?cx=57b3962509047447e)** / [CSE 2](https://cse.google.com/cse?cx=ec7d33ef358ae1b65) - *Multi-Site Search*
 * **[Mobilism](https://forum.mobilism.org/)** - *Software / Books / [Mobile App](https://forum.mobilism.org/app/)* 
 * **[soft98](https://soft98.ir/)** - *Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
-* **[FileCR](https://filecr.com/en/)** - *Software / Books / [Warning](https://i.imgur.com/6Loht3s.png)*
+* **[FileCR](https://filecr.com/en/)** - *Software / Books*
 * **[nsane.down](https://www.nsaneforums.com/)**
 * **[LRepacks](https://lrepacks.net/)** - *Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * **[AppNee](https://appnee.com/)**
@@ -180,10 +181,13 @@
 * [downloadly](https://downloadly.ir/) - *Software / Courses*
 * [PiratePC](https://piratepc.me/) - *[Discord](https://discord.gg/QhaKfHwWmV)*
 * [SamLab](https://samlab.ws/) - *Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
+* [FTUApps](https://ftuapps.dev/) 
 * [AIOWares](https://www.aiowares.com/) 
 * [Mr. SzzS](https://www.youtube.com/channel/UCcf3dtQFVb5zfy0jGYNpA0w)
 * [Softlay](https://softlay.net/)
 * [CRACKurl](https://cracksurl.com/) 
+* [Pesktop](https://pesktop.com/en/) 
+* [TheMicroTech](https://programs.themicrotech.net/) 
 * [TeamOS](https://www.teamos-hkrg.com/)
 * [msdn.hackerc](https://msdn.hackerc.at/)  
 * [Cyberspace](https://cyberspace.world/)
@@ -191,7 +195,6 @@
 * [Softwares 2 U](https://www.softwares2u.com/) 
 * [onHax](https://onhax.io/)
 * [MAZTERIZE](https://www.mazterize.com/) 
-* [SoftnCracks](https://softncracks.com/) 
 * [VectorItalia](https://www.vectoritalia.com/)
 * [Mirror.una](http://mirror.una.ac.cr/) 
 * [MySoftwareFree](https://mysoftwarefree.com/)
@@ -200,7 +203,7 @@
 * [Libreware](https://t.me/Libreware) - *Telegram* 
 * [raymondfreesoftware](https://sites.google.com/site/raymondfreesoftware/) - *[Telegram](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g)* 
 * [Rarewares](https://www.rarewares.org/) - *Rare Software*
-* [Izofile](https://izofile.com/), [Soft2Ev](https://www.soft2ev.com/), [Keygen Fortress](https://t.me/keygen_fortress), [SmartSerials](https://smartserials.com/) or [SerialReactor](https://serialreactor.com/) - *Software Keys / Patches*
+* [Radixx11](https://radixx11rce3.blogspot.com/), [Izofile](https://izofile.com/), [Soft2Ev](https://www.soft2ev.com/), [Keygen Fortress](https://t.me/keygen_fortress), [SmartSerials](https://smartserials.com/) or [SerialReactor](https://serialreactor.com/) - *Software Keys / Patches*
 * [Software Heritage](https://www.softwareheritage.org/) - *Software Source Code Archive* 
 * [balenaHub](https://hub.balena.io/) - *Raspberry Pi Software* 
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - *Professional Video, Audio & Adobe Software / Plugins*
@@ -212,37 +215,45 @@
 
 ## ▷ Freeware Sites
 
-* **[Major Geeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html)** - *Software*
+* **[Major Geeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html)**
 * **[Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)** - *Selfhosted Software Index* 
-* **[Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites)** - *Find Software / App Alternatives* 
-* [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - *Open Source Wiki* 
+* **[Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites)** - *Software / App Alternatives* 
+* [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - *Open-Source Wiki* 
+* [OlderGeeks](https://oldergeeks.com/) 
+* [Chiefs Big List of Programs](https://github.com/TheChiefMeat/Chiefs-Big-List-of-Programs/)
+* [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) 
+* [SourceForge](https://sourceforge.net/) 
+* [Fossies](https://fossies.org/all.html) 
+* [FossHub](https://www.fosshub.com/) 
+* [Open Source Libs](https://opensourcelibs.com/) 
+* [Simple Tools](https://simpletools.info/doku.php) 
+* [FreshCode](https://freshcode.club/) 
+* [Realityripple](https://realityripple.com/) 
+* [Softpedia](https://www.softpedia.com/) 
+* [Enderman's Website](https://malwat.ch/software) 
+* [Software Informer](https://software.informer.com/) 
+* [FreewareWeb](http://www.freewareweb.com/) 
+* [Freeware Directory](http://www.freewaredirectory.net/)
+* [FreewareStop](https://www.freewarestop.com/) 
+* [LO4D](https://www.lo4d.com/) 
+* [ListOfFreeWare](https://listoffreeware.com/) 
+* [Downloadastro](https://en.downloadastro.com/)
+* [SnapFiles](https://www.snapfiles.com/freeware/) 
+* [apponic](https://www.apponic.com/) 
+* [SoftHeap](https://www.softheap.com/) 
+* [Soft112](https://www.soft112.com/) 
+* [ProgSoft](https://progsoft.net/)
+* [Informer](https://www.informer.com/) 
+* [Den4b](https://www.den4b.com/) 
+* [DonationCoder](https://www.donationcoder.com/) 
+* [AntibodySoftware](https://antibody-software.com/) 
+* [3nitySoftware](http://3nitysoftwares.com/index.php/en) 
+* [Antp](http://www.antp.be/) 
+* [FileEagle](https://www.fileeagle.com/) 
+* [IcecreamApps](https://icecreamapps.com/) 
+* [PRVSoft](https://www.prvsoft.com/)
+* [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html) 
 * [OldVersion](http://www.oldversion.com/) - *Old Versions of Software* 
-* [OlderGeeks](https://oldergeeks.com/) - *Free Software Index / Forum*
-* [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - *Free Software Index / Wiki* 
-* [SourceForge](https://sourceforge.net/) - *Open Source*  
-* [Fossies](https://fossies.org/all.html) - *Open Source* 
-* [FossHub](https://www.fosshub.com/) - *Open Source* 
-* [Open Source Libs](https://opensourcelibs.com/) - *Open Source*
-* [Simple Tools](https://simpletools.info/doku.php) - *Open Source* 
-* [FreshCode](https://freshcode.club/) - *Open Source* 
-* [Realityripple](https://realityripple.com/) - *Open Source*
-* [Softpedia](https://www.softpedia.com/) - *Software* 
-* [Enderman's Website](https://malwat.ch/software) - *Software* 
-* [Software Informer](https://software.informer.com/) - *Software* 
-* [FreewareWeb](http://www.freewareweb.com/) - *Software*
-* [Freeware Directory](http://www.freewaredirectory.net/) - *Software*
-* [FreewareStop](https://www.freewarestop.com/) - *Software*
-* [LO4D](https://www.lo4d.com/) - *Software* 
-* [ListOfFreeWare](https://listoffreeware.com/) - *Software*  
-* [Downloadastro](https://en.downloadastro.com/) - *Software* 
-* [SnapFiles](https://www.snapfiles.com/freeware/) - *Software*
-* [apponic](https://www.apponic.com/) - *Software*
-* [SoftHeap](https://www.softheap.com/) - *Software*
-* [Soft112](https://www.soft112.com/) - *Software* 
-* [FileEagle](https://www.fileeagle.com/) - *Software*
-* [IcecreamApps](https://icecreamapps.com/) - *Software* 
-* [PRVSoft](https://www.prvsoft.com/) - *Software*
-* [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html) - *Software*
 * [Nirsoft](https://www.nirsoft.net/) - *Windows Software* 
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software Index* 
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software*  
@@ -297,6 +308,7 @@
 * [SamplesHome](https://sampleshome.com/) 
 * [VSTBase](https://www.vstbase.org/) 
 * [Magesy](https://magesy.blog/) 
+* [VSTCrackWeb](https://vstcrackweb.com/) 
 * [MagesyPro](https://www.magesypro.com/) 
 * [Music-Create](https://music-create.org/) 
 * [Audio.Tools](https://audio.tools/) 
