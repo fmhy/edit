@@ -40,6 +40,9 @@
 * [NPTEL](https://nptel.ac.in/course.html) - *Courses*
 * [Real.Discount](https://app.real.discount/) - *Courses*
 * [Kadenze](https://www.kadenze.com/) - *Courses*
+* [OnlineTutorials](https://www.onlinetutorials.org/) - *Courses*
+* [CourseSity](https://www.coursesity.com/) - *Courses*
+* [FindAndSolve](https://www.findandsolve.com/) - *Course Search Engine*
 * [LearnOutLoud](https://www.learnoutloud.com/) - *Documentaries / Courses*
 * [Class Central](https://www.classcentral.com/) - *Search for Courses*
 * [cs1000](https://cs1000.vercel.app/) - *Educational Video Playlists* 
@@ -63,6 +66,7 @@
 * [Open Source Society University](https://github.com/ossu/computer-science) - *Computer Science Courses / [GitHub](https://github.com/ossu) / [Discord](https://discord.gg/wuytwK5s9h)*
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - *Computer Science Courses*
 * [Learn Computer Science in 1k Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/) - *Computer Science Courses*
+* [FreeCourseWebsite](https://freecoursewebsite.com/) - *Udemy Courses*
 * [UdemyFreeCourses](https://udemyfreecourses.org/) - *Udemy Courses*
 * [TutsNode](https://tutsnode.net/) - *Udemy Courses*
 * [/r/udemyfreebies](https://reddit.com/r/udemyfreebies) - *Udemy Courses*
@@ -106,6 +110,7 @@
 * **[Large Collection of Useful Mega DL's](https://pastebin.com/ZMtZa2JV)** - *Courses / Drives*
 * [nocourses](https://nocourses.com/) - *Courses* 
 * [Reks Drive](https://mega.nz/folder/iYQ3SYbA#_o9eO4o1eiCd8QsCTU7iUw) - *Courses*
+* [HMDRIVE](https://t.me/HMDRIVE_OFFICIAL) - *Courses / [Drive](https://courses.hm-drive.xyz/0:/) user: hmdrive pw: hmmods*
 * [BlackPhoenix James Durden](https://mega.nz/folder/AZAhjSaL#3wzdEx3nPgzzVdVEqVc8nA) - *Courses*
 * [Iit jee lectures](https://t.me/Iitjeeinveins2) - *Lectures / Telegram*   
 * [downloadly](https://downloadly.ir/) - *Courses*
@@ -131,6 +136,7 @@
 * [FreeStudyWeb](https://freestudyweb.com/) - *Courses* 
 * [Google Drive Links](https://www.googledrivelinks.my.id/) / [2](https://googledrivelinks.com/) - *Courses*
 * [CryptoTips](https://www.cryptotips.us/) - *Courses* 
+* [FCS](https://freecoursesites.com/) - *Courses*
 * [5G GYAN](https://www.5ggyan.com/) - *Courses* 
 * [HackingWorld](https://in.hackingworld.best/) - *Courses*
 * [DL Course](https://dlcourse.org/) - *Courses*
@@ -153,6 +159,11 @@
 * [Lynda Courses](https://bin.snopyta.org/?efe32fb96a945857#GQL7q4hyKjCeB6WLbpq94S12BEwh5JWc4apjmb7RE4SU) - *Lynda Courses / Drive / pw: fmhy*
 * [LyndaFree](https://t.me/lyndafree) - *Lynda Courses / Telegram*
 * [BestWSODownload](https://www.bestwsodownload.com/) - *WSO Courses*
+* [AirVibe](https://www.airvibe.me/) - *Udemy Courses*
+* [FreeTutorialsEU](https://www.freetutorialseu.com/) - *Udemy Courses*
+* [UdemyKing](https://t.me/udemyking1 ) - *Udemy Courses*
+* [UFC Gdrive Factory!](https://telegram.me/joinchat/SSWKbEf8mVNBvgam) - *Udemy Courses*
+* [EZdemy](https://t.me/ezudemy) - *Udemy Courses*
 * [Giga Course](https://gigacourse.com/) - *Udemy Courses / Drive* 
 * [s28.bitdl.ir Udemy](http://s28.bitdl.ir/Compresed/Udemy/) - *Udemy Courses / Drive / Use VPN*
 * [Udemy 24](https://udemy24.com/) - *Udemy Courses* 
@@ -173,6 +184,8 @@
 * [Skills for All](https://skillsforall.com/) - *Cyber Security Courses*
 * [CISSP Certifications](https://drive.google.com/drive/u/0/folders/1AWJHcWt4KngV2ijEFHmh74-HHMwSR16u) - *Cyber Security Lessons*
 * [RavindraBabu](https://mega.nz/folder/AV50wQqT#uQjuHttwYI6lvxcClb2Qtg) - *Programming / Math Courses*
+* [340GB Linkedin Courses](https://rentry.co/skat9) - *Linkedin Courses*
+* [Linkedin_Learning](https://t.me/linkedin_learning) - *Linkedin Courses*
 * [CertCommunity](https://www.certcommunity.org/forum/) - *IT Cert Courses*
 * [Top Linux Interview Questions & Answers](https://mega.nz/#F!K1MnlSzJ!fyLhNA7V_m1z9JZfPW0alg) - *Linux Interview Q&A*
 * [CHFI](https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg) - *Computer Hacking Forensic Courses*
@@ -257,6 +270,7 @@
 * [Prongo](https://prongo.com/)
 * [RoomRecess](https://www.roomrecess.com/)
 * [TurtleDiary](https://www.turtlediary.com/)
+* [Edu-Games](https://www.edu-games.org/)
 * [SheppardSoftware](https://www.sheppardsoftware.com/web_games_menu.htm)
 * [Cool Math Games](https://www.coolmathgames.com/) - *Math Games*
 * [Math Game Time](https://www.mathgametime.com/) - *Math Games*
@@ -275,6 +289,7 @@
 * **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - *Sites with Multiple Calculators* 
 * **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - *Advanced Calculator*
 * **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://forum.mobilism.org/search.php?keywords=photomath&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) / [Pro](https://pastebin.com/wA3QQkCj) - *Math Problem Solver with Steps*
+* [TeX](https://www.microsoft.com/en-us/p/flowtex-preview-beta/9nt79075t86l) - *Convert Handwritten Math to LaTeX*
 * [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - *Multi-Calculator App / Android*
 * [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - *Matrix Calculator*
 * [Mathcha](https://www.mathcha.io/) - *Online Math Editor*
@@ -316,7 +331,9 @@
 * [Space Dashboard](https://spacedashboard.com/) - *Space Live Stream Dashboard* 
 * [EarthData](https://worldview.earthdata.nasa.gov/) - *Daily Satellite Replays*
 * [ISS Sim](https://iss-sim.spacex.com/) - *ISS Docking Simulator* 
+* [HDEV Payload](https://video.ibm.com/channel/iss-hdev-payload) - *Live ISS Stream ISS*
 * [SpaceX Media 2015](http://web.archive.org/web/20150328140645/http://www.spacex.com/media) / [2019](http://web.archive.org/web/20191122175115/https://www.spacex.com/media) - *SpaceX Media Archive*
+* [Leolabs Space](https://platform.leolabs.space/visualization) - *Low Earth Orbit Simulator*
 * [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/) - *Satellite Imagery*
 * [Sentinel Hub](https://www.sentinel-hub.com/) - *Satellite Imagery API*
 * [Open Access Hub](https://scihub.copernicus.eu/) - *Copernicus Satellite Data Copernicus*
@@ -362,6 +379,7 @@
 * **[Languages & Linguistics](https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - *Language Learning Books*
 * [Speechling](https://speechling.com/tools) - *Language Learning Tools*
 * [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - *Language Learning Network*
+* [yTalki](https://ytalki.com/) - *Read Books in Other Languages*
 * [E-books_432](https://archive.org/details/E-books_432) - *Vocabulary & Pronunciation Books*
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - *Multi Language Dictionary Index*
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - *Translation Dictionary* 
@@ -436,6 +454,7 @@
 * [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - *Language Identification Test*
 * [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap)- *Listen to Accents*
 * [Asian Script Differentiation Guide](https://i.imgur.com/yJPGS97.png) 
+* [Omniglot](https://omniglot.com/) - *Writing System & Language Encyclopedia*
 * [LexCity](http://lexicity.com/) - *Ancient Language Learning Tools & Resources*
 
 ***
@@ -463,7 +482,7 @@
 
 # ► Educational Tools
 
-* **[The Free Learning List](https://freelearninglist.org/)** - *Free Educational Sites / Tool Index* 
+* **[The Free Learning List](https://freelearninglist.org/)** or  [/sci/ guide](https://sites.google.com/site/scienceandmathguide/) - *Free Educational Sites / Tool Index* 
 * **[Awesome Research](https://github.com/emptymalei/awesome-research)** - *Research Tools Index* 
 * **[PhET](https://phet.colorado.edu/)** - *STEM / Interactive*
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Infinite trial by clearing cookies & making new account*
@@ -503,6 +522,7 @@
 * [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) - *Homework Help* 
 * [Cheatography](https://cheatography.com/) - *Educational Cheat Sheets* 
 * [Toppr](https://www.toppr.com/) - *Test Practice & Homework Help*
+* [GradesFixer](https://www.gradesfixer.com/) - *Essay Samples*
 * [Quizizz Cheat](https://github.com/gbaranski/quizizz-cheat) - *Quizizz Answers Tool*
 * [PXTrez](https://pxtrez.com/) - *Kahoot Answers Tool*
 * [ITExamAnswers.net](https://www.itexamanswers.net/) - *IT Exam Answers*
@@ -552,7 +572,9 @@
 * [Anki](https://apps.ankiweb.net/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html) or [Flashcard Machine](https://www.flashcardmachine.com/) - *Flash Card Tool*
 * [Wolfram Cloud](https://www.wolframcloud.com/) - *Computational intelligence*
 * [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
-* [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - *Physics Simulations / Animations*
+*  [Mujoco](https://github.com/deepmind/mujoco), [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - *Physics Simulations / Animations*
+* [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/) or [Sim Flow](https://sim-flow.com/) - *Fluid Dynamics Simulators*
+* [SimScale](https://www.simscale.com/) or [CFDTool](https://www.cfdtool.com/) - *Fluid Dynamics & Heat Transfer Simulator*
 * [Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php) - *Physics Tools* 
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - *Globe of Ancient Earth*
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
@@ -569,6 +591,7 @@
 * [JoinUS World](https://www.joinusworld.org/) - *Korean Culture Q&A Site*
 * [Sanfoundry](https://www.sanfoundry.com/) - *Programming & Engineering Questions & Answers*
 * [Seeing Theory](https://seeing-theory.brown.edu/) - *Interactive Probability / Statistics Lessons* 
+* [CESDB](https://www.cesdb.com/) - *Civil Engineering Software*
 * [VirtualTrebuchet](http://virtualtrebuchet.com/) - *Trebuchet Simulator* 
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - *Pendulum Simulator*
 * [Traffic Simulation](https://traffic-simulation.de/) - *Traffic Flow Simulation* 
@@ -603,6 +626,7 @@
 * [Old Computer Museum](http://oldcomputers.net/) - *Computer History / Info* 
 * [RSOE](http://hisz.rsoe.hu/) - *Emergency and Disaster Information Service* 
 * [911 Realtime](https://911realtime.org/) - *9/11 in Realtime*
+* [Awful-A.I.](https://github.com/daviddao/awful-ai) - *Negative A.I. Usage Examples*
 * [M-Journal](https://m-journal.org/) - *Turn Wikipedia into a Citeable Academic Paper*
 * [Sideways Dictionary](https://sidewaysdictionary.com/) - *Common Computer Terms Explained Simply*
 * [Symbols](https://www.symbols.com/) - *Symbol Database*
@@ -610,8 +634,10 @@
 * [SciGen](https://pdos.csail.mit.edu/archive/scigen/) - *CS Paper Generator*
 * [pdfparanoia](https://github.com/kanzure/pdfparanoia) - *Academic Paper Watermark Removal*
 * [The Chomsky Index](https://github.com/jasons-gh/the-chomsky-index) - *Noam Chomsky Content Index Tool*
+* [General Index](https://archive.org/details/GeneralIndex) - *Article Metadata Mining Project*
 * [P2PU](https://www.p2pu.org/) - *Join Learning Groups Using Free Courses*
 * [CollegeComendium](https://collegecompendium.goldin.io/) - *Free Computer Science Classes*
 * [Top Universities](https://www.topuniversities.com/) - *University Rankings*
 * [College Map](https://nces.ed.gov/ipeds/collegemap/) - *College Information Map*
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - *Professor Ratings*
+* [Edu VPN](https://www.eduvpn.org/) - *Institute Access VPN*
