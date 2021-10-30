@@ -20,9 +20,11 @@
 * **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](http://bitflu.workaround.ch/) or [kTorrent](https://apps.kde.org/en/ktorrent) / [2](https://invent.kde.org/network/ktorrent) - *Linux Torrent Client* 
 * rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [All Seeders Column](https://github.com/AkdM/rutorrent-all-seeders) / [Docker Build](https://github.com/binhex/arch-rtorrentvpn)
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - *RTorrent Web Frontend / [Themes](https://github.com/InAnimaTe/rutorrent-themes), [2](https://github.com/artyuum/3rd-party-ruTorrent-Themes)*
+* [BusyBox](https://frippery.org/busybox/) - *Unix Tools*
 * [swizzin](https://swizzin.ltd/) - *Seedbox for Ubuntu / Debian* 
 * [rtinst](https://github.com/arakasi72/rtinst) - *Seedbox Installation Script for Ubuntu / Debian* 
 * [anime-terminal](https://github.com/YogeshLamichhane/anime-terminal) or [ani-cli](https://github.com/pystardust/ani-cli) - *Anime Streaming Terminal for Linux*
+* [Trackma](https://github.com/z411/trackma/) - *Anime Tracking App*
 * [Knapsu](https://knapsu.eu/plex/) or [Cloudbox](https://cloudbox.works/) - *Media Server*
 * [Foliate](https://johnfactotum.github.io/foliate/) - *Ebook Reader*
 * [Evince](https://wiki.gnome.org/Apps/Evince) - *PDF / DjVu Reader*
@@ -45,7 +47,7 @@
 * [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [FydeOS](https://fydeos.io/download), [NeverWare](https://www.neverware.com/) or [WayneOS](https://wayne-os.com/) - *ChromeOS Based OS*
 * [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - *One-Click Remote Desktop* 
 * [MultiBoot USB](https://github.com/hackerncoder/multibootusb) - *Create Bootable USB Linux Drives*
-* [WoeUSB](https://github.com/WoeUSB/WoeUSB) - *Create Bootable USB Windows Drives*
+* [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - *Create Bootable USB Windows Drives*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [GParted](https://gparted.org/) - *Partition Manager*
 * [Gnome-Look](https://www.gnome-look.org/browse) or [xfce-look](https://www.xfce-look.org/)  - *Linux Themes*
@@ -57,6 +59,8 @@
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) - *Noise Cancellation Software*
 * [Luakit](https://luakit.github.io/) - *Lightweight Linux Browser* 
 * [Librewolf Linux](https://librewolf-community.gitlab.io/) or [Dot Browser](https://github.com/dothq/browser) - *Privacy-Based Browser*
+* [pass](https://www.passwordstore.org/) - *Unix Password Manager* 
+* [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) or [GnomeKeyring](https://wiki.gnome.org/Projects/GnomeKeyring) - *GNOME Password Manager* 
 * [p7zip](http://p7zip.sourceforge.net/) - *File Archiver / Unzipper*
 * [Curlew](https://curlew.sourceforge.io/) - *Linux File Converter*
 * [Dolphin](https://userbase.kde.org/Dolphin) or [ranger](https://github.com/ranger/ranger) - *File Manager*
@@ -66,6 +70,7 @@
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - *Linux File Search*
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - *PDF Editor*
 * [Winfield](http://www.winfield.demon.nl/) - *MS Word for Linux / OS X* 
+* [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Linux Photoshop Installer*
 * [FlameGApps](https://github.com/flamegapps/flamegapps) - *Google Apps Installer*
 * [syncthing](https://syncthing.net/) - *File Sync*
 * [Hexchat](https://hexchat.github.io/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/ ) - *IRC Clients*
@@ -86,6 +91,17 @@
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - *Easy Way to Use KVM*
 * [winapps](https://github.com/Fmstrat/winapps), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - *Run Windows Apps in Linux* 
 * [Ulauncher](https://ulauncher.io/) - *Application Launcher*
+* [WineHQ](https://appdb.winehq.org/) - *Wine Compatibility Database*
+* [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - *Monitor & Log System Activity*
+* [FSLint](http://www.pixelbeat.org/fslint/) - *Duplicate File Finder*
+* [XClicker](https://xclicker.pages.dev/) - *Autoclicker*
+* [CoreELEC](https://github.com/CoreELEC/CoreELEC) - *Kodi Based Operating System*
+* [Asus-Linux](https://asus-linux.org/) - *Linux ASUS Notebook Guide*
+* [Breathing](https://github.com/SeaDve/Breathing) - *Relaxation / Breathing Tool*
+* [List of Backup Software](https://github.com/restic/others) - *Linux Backup Solutions*
+* [SafeEyes](http://slgobinath.github.io/SafeEyes/) - *Break Reminders*
+* [Dijo](https://github.com/NerdyPepper/dijo) - *Activity Tracker*
+* [GammaStep](https://gitlab.com/chinstrap/gammastep) - *Adjust Screen Temperature*
 * [Client Evolution](https://help.gnome.org/users/evolution/stable/) - *Calendar / Mail*
 * [aerc](https://aerc-mail.org/), [ElectronMail](https://github.com/vladimiry/ElectronMail) or [Alpine](http://alpine.x10host.com/) - *Email Client*
 * [KTouch](https://apps.kde.org/en/ktouch) - *Typing Practice*
@@ -112,7 +128,7 @@
 * [pacwall](https://github.com/Kharacternyk/pacwall) - *Live Wallpaper that shows Dependency Graph & Status of Installed Packages* 
 * [picom](https://github.com/yshui/picom) - *X11 Compositor*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
-* [Learn the Linux Command Line](https://mega.nz/folder/BlRVyArK#84n4ZhYZCRXLjt-KEP6u6g) - *Linux Command Line Lessons*
+* [Learn the Linux Command Line](https://mega.nz/folder/BlRVyArK#84n4ZhYZCRXLjt-KEP6u6g) or[LinuxCommand](https://www.linuxcommand.org/tlcl.php) - *Linux Command Line Lessons*
 
 ***
 
@@ -122,6 +138,10 @@
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) or [Gufw](http://gufw.org/) - *Linux Firewall* 
 * [Mofolinux](https://mofolinux.com/), [Tails](https://tails.boum.org/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - *Privacy-Based Linux Operating System*
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - *VPN Tunnel*
+* [Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html) - *Linux SSL VPN Server*
+* [Howdy](https://github.com/boltgolt/howdy) - *Linux Facial Authentication*
+* [DNS66](https://jak-linux.org/projects/dns66/) - *DNS Adblocker*
+* [SShuttle](https://github.com/sshuttle/sshuttle) - *Proxy Server*
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - *Arch Linux base with Deluge, Privoxy & OpenVPN*
 * [Spotify-Adblock](https://github.com/abba23/spotify-adblock) - *Linux Spotify Adblocker*
 
@@ -138,12 +158,14 @@
 * [WSL-Programs](https://github.com/ethanhs/WSL-Programs) - *Windows Subsystem for Linux Programs*
 * [KDE's Applications](https://apps.kde.org/education) - *Linux Apps* 
 * [apps.gnome](https://apps.gnome.org/en-GB/) - *GNOME Apps*
+* [AppImages](https://www.appimagehub.com/) - *Linux App Images*
 
 ***
 
 # ► Linux Gaming
 
 * **[Torrminatorr](https://forum.torrminatorr.com/)** - *Linux Games*
+* [How-To Play on Linux](https://www.reddit.com/r/LinuxCrackSupport/comments/mfnvsl/megathread_how_to_play_on_linux/) - *Linux Gaming Guide*
 * [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - *Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [johncena141](https://1337x.to/user/johncena141/) - *Linux Games*
 * [SCNLOG](https://scnlog.me/) - *Linux Games*
@@ -151,6 +173,7 @@
 * [The KDE Games Center](https://games.kde.org/) - *Linux Games*
 * [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/wiki/) - *Wiki for Linux Gaming*
 * [protondb](https://www.protondb.com/) or [Lutris](https://lutris.net/) - *Play Windows games on Linux*
+* [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) - *Install & Manage Proton-GE for Steam / Wine*
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - *Linux Gaming Kernels*
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - *Linux System Optimizer*
 * [pgl](https://github.com/reggiiie/pgl) - *Run Executables through Proton*
@@ -168,6 +191,8 @@
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) - *Download MacOS*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - *MacOS Virtualbox Installer*
+* [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/) - *Install New macOS on Unsupported Devices*
+* [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - *Windows 11 Desktop Client for macOS*
 * [LimaVM](https://github.com/lima-vm/lima) - *Linux VM on macOS*
 * [CrossOver](https://www.codeweavers.com/crossover) - *Run Windows Programs on Mac / Infinite Free Trials*
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - *Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/)*
@@ -184,7 +209,7 @@
 * [Drafts](https://getdrafts.com/) - *Text Editor*
 * [Stroke](https://stroke.lllllllllllllllll.com/) - *Text (You Can't Delete) Editor*
 * [PDF Expert](https://filecr.com/?s=pdf+expert) - *PDF Viewer*
-* [ElectronMail](https://github.com/vladimiry/ElectronMail) - *Email Client*
+* [ElectronMail](https://github.com/vladimiry/ElectronMail) or [Spark](https://sparkmailapp.com/) - *Email Client*
 * [Microsoft Mac Downloads](https://macadmins.software/) - *Microsoft Office for Mac*
 * [Winfield](http://www.winfield.demon.nl/) - *MS Word for Linux / OS X* 
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - *Connect Mac Keyboard to Mobile Devices*
@@ -203,38 +228,49 @@
 * [Pictogram](https://pictogramapp.com/) - *Custom Mac App Icons*
 * [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - *MacOS Dynamic Wallpaper App*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old MacOS ISOs*
+* [Fantasitcal](https://flexibits.com/fantastical) - *Calendar*
 * [IINA](https://iina.io/) - *Video Player*
 * [Meeter](https://trymeeter.com/) - *Video Meeting Manager*
 * [Gifski](https://sindresorhus.com/gifski) - *Image to GIF Converter / [GitHub](https://github.com/sindresorhus/Gifski)*
 * [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - *Image & Video Editor*
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - *Image Editor* 
 * [ImageOptim](https://imageoptim.com/mac) - *Image Optimization*
+* [Vim](https://github.com/macvim-dev/macvim) - *Code Editor*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
 * [NHCalc](https://github.com/KhaosT/nhcalc) - *Compute Image NeuralHash*
 * [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - *Convert NeuralHash for CSAM Detection to ONNX / [Collision Finder](https://github.com/anishathalye/neural-hash-collider)*
 * [Is Apple Silicon ready?](https://isapplesiliconready.com/) - *M1 App Compatibility Chart*
 * [Adobe Zii](https://www.reddit.com/r/AdobeZii/) - *Adobe Software Patcher*
 * [MagicCap](https://magiccap.me/) - *Screenshot Tool*
+* [SelfControlApp](https://selfcontrolapp.com/) - *Website Blocker*
 * [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) - *Typing Practice*
 * [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) - *Reddit Dekstop Client*
+* [Manta](https://github.com/hql287/Manta) - *Invoice Manager*
+* [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - *Grayscale Control*
 * [Discord M1](https://github.com/17hoehbr/Discord-M1) - *M1 Mac Discord App*
+* [equinux](https://equinux.github.io/) - *OS X Certificate Fix*
+* [Lilu](https://github.com/acidanthera/Lilu) - *Kext / Process Patcher*
+* [TopNotch](https://topnotch.app/) - *Remove The Notch*
 
 ***
 
 # ► Mac Adblock / Privacy
 
 * [macOS Security Tools](https://github.com/ashishb/osx-and-ios-security-awesome) - *Mac Security Tools*
+* [HardenTheWorld](http://docs.hardentheworld.org/) - *MacOS Security Guide*
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - *Block Ads via Host Files*
 * [Stronghold](https://github.com/alichtman/stronghold) - *Mac Security Settings Terminal*
 * [LuLu](https://objective-see.com/products/lulu.html) - *Mac Firewall* 
+* [Tracker Zapper](https://rknight.me/apps/tracker-zapper/) - *Remove URL Tracking Elements*
 * [FileVault](https://support.apple.com/en-us/HT204837) - *Mac Disk Encryption* 
 * [OpenVPN](https://tunnelblick.net/) - *VPN Tunnel*
+* [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) - *Privacy-Based Email Client*
 
 ***
 
 # ► Mac Software
 
-* **[FileCR](https://filecr.com/macos/)** - *[Warning](https://i.imgur.com/6Loht3s.png)*
+* **[FileCR](https://filecr.com/macos/)**
 * [The Macintosh Archives](http://mirror.macintosharchive.org/)
 * [Macintosh Garden](http://macintoshgarden.org/) 
 * [nMac](https://nmac.to/) 
