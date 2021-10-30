@@ -33,6 +33,7 @@
 * [aria2](https://aria2.github.io/) - *Terminal Torrent Client / [Screenshot](https://i.imgur.com/KV0pSjt.png) / [Github](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis)*
 * [mtorrent](https://github.com/nektro/mtorrent) - *Terminal Torrent Client* 
 * [libtorrent](https://www.libtorrent.org/) - *C++ BitTorrent Client*
+* [TrayTorrent](https://traytorrent.ru/) - *Torrent Tray Client*
 * [exatorrent](https://github.com/varbhat/exatorrent) - *Self-Hosted Client*
 * [Rats Search](https://github.com/DEgITx/rats-search) - *Torrent Search Client / [Screenshot](https://github.com/DEgITx/rats-search#screenshots)* 
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
@@ -147,6 +148,7 @@
 * [TorrentProject2](https://torrentproject2.com/)
 * [ciligou0](http://ciligou0.com/) 
 * [Bittorrent.am](http://www.bittorrent.am/)
+* [0Mag](https://www.0mag.net/), [2](https://9mag.net/), [3](https://3mag.net/) 
 * [TorrentDownloads](https://www.torrentdownloads.pro/) 
 * [Torlock](https://www.torlock.com/) or [Torlock2](https://www.torlock2.com/) 
 * [iBit.to](https://ibit.to) or [iBit.am](https://ibit.am/) 
