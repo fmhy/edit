@@ -19,6 +19,7 @@
 * **[Awesome List Index](https://github.com/topics/awesome)** - *List Index* 
 * **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)** - *List Index*
 * **[lists](https://github.com/jnv/lists)** - *List Index* 
+* **[Get Awesomeness](https://getawesomeness.herokuapp.com/)** - *List Index*
 * **[Curlie](https://curlie.org/)** - *Topic Directory* 
 * **[Esoterica Avenue](https://ori5000.github.io/)** - *Software & Games Megathread / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)* 
 * **[The Scene](https://github.com/DRSDavidSoft/Warez)** - *Warez topics, Discussions & Tools*
@@ -38,6 +39,7 @@
 * [Internet Redirections](https://my-little-collections.super.site/) - *Site / Tool Index*
 * [pilssken](https://pilssken.neocities.org/warez/) - *Piracy Index* 
 * [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - *Piracy Index / [Warning](https://i.imgur.com/jtT9GDB.png)*
+* [Ripped Guide](https://ripped.guide/) - *Piracy Site / Tool Index*
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - *Software / Tool Index*
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software Index* 
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software Index*
@@ -76,6 +78,7 @@
 * [State of the DApps](https://www.stateofthedapps.com/) - *Blockchain App Index* 
 * [List of Lists](https://l-lists.com/en/) - *List Index*
 * [Pointless Sites](https://www.pointlesssites.com/) - *Pointless Site Index*
+* [Websites From Hell](https://websitesfromhell.net/) - *Shitty Website Index*
 * [National Archives](http://www.nationalarchives.gov.uk/webarchive/) - *UK Government Site Archive*
 * [DeepWebLinks](https://deepweblinks.net/directories/), [dark.fail](https://dark.fail/),  [260+ Dark Web Links](https://ufile.io/pgvxf9jv), [Official Hidden Wiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/) or [Real World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites)
 * [RFS](https://t.me/rfsnotes) - *Telegram Channels / TeamDrives / Tools*  
@@ -218,10 +221,12 @@
 * **[PointerPointer](https://pointerpointer.com/)** - *Get Your Pointer Pointed At* 
 * **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - *Realistic-Looking Fake Versions of Things* 
 * [KongouCheats](https://kongoucheats.com/) - *Watch Random Memes / Videos* 
-* [Funnyjunk](https://funnyjunk.com//), [iFunny](https://ifunny.co/) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Videos, Memes & GIFs / Some NSFW*
+* [Funnyjunk](https://funnyjunk.com//), [Thread-Puller](https://thread-puller.party/), [iFunny](https://ifunny.co/) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Videos, Memes & GIFs / Some NSFW*
+* [SfwChan](http://boards.swfchan.net/) - *Sfw Archive*
 * [SakugaBooru](https://www.sakugabooru.com/) - *Image Booru*
 * [IndieGameBooru](https://indiegame.booru.org/) - *Indie Game Image Booru*
 * [Random Screenshot](https://randomscreenshot.com/) or [Random Prnt.sc](https://chrishannah.me/prntsc/) - *Random Screenshots*
+* [DreamWidth](https://www.dreamwidth.org/) - *User-Made Images & Stories*
 * [Kamogo](https://www.kamogo.com/faq/) - *Useless Web Apps*
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - *Turn Screen into Strobe / Mood Light*
 * [Drinking Game Zone](https://drinkinggamezone.com/) - *Drinking Games Encyclopedia* 
@@ -244,10 +249,12 @@
 * [Travel Remotely](https://travel-remotely.netlify.app/) or [Virtual Vacations](https://virtualvacation.us/) - *Traveling Simulator* 
 * [stringers.live](https://stringers.live/) - *Live Freelance Journalist Streams*
 * [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - *Open Random Windows*
+* [LifeAt](https://lifeat.io/) - *Virtual Video Spaces*
 * [BigPixel](http://en.bigpixel.cn/) - *Giant Zoomable Photos*
 * [larsberg](http://www.larsberg.net/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - *Trippy 3D Experiments*
 * [Just Type Stuff ](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - *Type Things into Existence*
 * [WriteAPrisoner](https://writeaprisoner.com/) - *Pen Pals for Inmates*
+* [PostSecret](https://postsecret.com/) - *Share Secrets via Postcard*
 * [This Is Sand](https://thisissand.com/) - *Make Sand Art* 
 * [Orb.Farm](https://orb.farm/) - *Virtual Aquatic Ecosystem* 
 * [MarbleRun](https://www.marblerun.at/) - *Create Marble Courses*
@@ -271,6 +278,7 @@
 * [Random Art](http://www.random-art.org/) - *Random Art Generator*
 * [Periodicity](https://williamhoza.com/periodicity/) - *Harmonic Motion Patterns*
 * [Cubes.io](http://cubes.io/) - *Cellular Automata* 
+* [Fluid](https://fluid.remyhidra.dev/) - *Fluid Simulation*
 * [05x5](https://csh.bz/line/05x5.html) - *Rainbow Pattern Generator*
 * [Chaos Equations](https://chaos-equations.glitch.me/?p=LBMRMS) - *Chaos Equation Visualizations*
 * [Dots-Converter](https://loveeevee.github.io/Dots-Converter/dots-draw.html) - *Draw with Dots*
@@ -278,6 +286,7 @@
 * [Flame Reactor](https://flamereactor.com/) - *Fractal Flame Collaborative Generator*
 * [JacksonPollock](https://www.jacksonpollock.org/) - *Splatter Painting / Click to Change Color*
 * [paint.wtf](https://paint.wtf/) - *Have an AI Judge your Art* 
+* [ArtVote](https://artvote.net/) - *Judge Art*
 * [Windows XP Error Worm](https://ybenbihi.github.io/windows-error-worm/) - *Click & Drag Windows Errors* 
 * [Our World of Text](https://ourworldoftext.com/) or [Your World of Text](https://www.yourworldoftext.com/) - *Infinite grid of text editable by anyone*
 * [pixels.land](https://pixels.land/) or [World of Pixels](https://ourworldofpixels.com/) - *Infinite Pixel Art online*  
@@ -311,6 +320,7 @@
 * [Spider 2 Hammertime](http://oos.moxiecode.com/js_webgl/spiders_2_hammertime/) - *Murder Spiders*
 * [DuckDuckRoll](http://duckduckroll.ml/) - *Spinning Duck*
 * [Slap Kirk](https://www.slapkirk.com/) - *Slap Captain Kirk*
+* [Eel Slap](http://www.eelslap.com/) - *Slap Guy with Eel*
 * [pls pet doge](http://plspetdoge.com/) - *Pet Doge* 
 * [Slide Ventura](https://slideventura.com/) - *Ace Ventura Sliding Door Simulator*
 * [Fake Doors](http://faykdoors.com/) - *Its Fake Doors*
@@ -322,7 +332,7 @@
 * [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/) - *Anime Characters That Don't Exist* 
 * [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/) - *Waifu's That Don't Exist* 
 * [This Fursona Does Not Exist](https://thisfursonadoesnotexist.com/) - *Fursona That Don't Exist*
-* [Windows93](http://www.windows93.net/) - *Windows 93 Browser Emulator / Games*
+* [Windows93](http://www.windows93.net/) or [RacerTrash](https://racertrash.com/) - *Retro Windows Emulator*
 * [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - *Run Classic Games / Apps In Browser* 
 * [see. hear. party.](http://www.seehearparty.com/) - *List Things You Want to See... Party* 
 * [FutureMe](https://www.futureme.org/) - *Send Messages to Future Self*
@@ -379,6 +389,10 @@
 * [EverySecond](https://everysecond.io/) - *Visualize Per Second Data*
 * [Death Date](http://deathdate.info/) - *Calculate your day of death* 
 * [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - *Dollar Tracking* 
+* [ThatsTheFinger](https://thatsthefinger.com/) - *Send Someone The Finger*
+* [Chrome Experiments](https://www.chromeexperiments.com/) - *Chrome Experiments*
+* [RandomColour](http://www.randomcolour.com/) - *Random Color*
+* [ColorNames](https://colornames.org/) - *Help Name Colors*
 * [Fontbutts](https://fontbutts.netlify.app/) - *Create Butts with different fonts*
 * [User Inyerface](https://userinyerface.com/) - *The most annoying website*
 * [Storylocks](https://www.storylocks.com/) - *Write Stories with different authors/friends*
@@ -442,7 +456,7 @@
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - *Unused Video Game Content Research*
 * [Bibliotheca Anonoma](https://bibanon.org/) - *Internet Folklife Wiki / [Discord](https://discord.com/invite/3jxxGDC)*
 * [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion), [BibAnon](http://vyrd.bibanon.org/), [4Museum](https://4museum.neocities.org/), [Archive.4plebs](https://archive.4plebs.org/), [arch.b4k](https://arch.b4k.co/) or [Sup/tg/](http://suptg.thisisnotatrueending.com/)  - *4Chan Archive*
-* [Zoomquilt2](http://zoomquilt2.com/) or [Arkadia](http://arkadia.xyz/) - *Infinite Zooming Painting* 
+* [Zoomquilt](https://www.zoomquilt.org/) / [2](http://zoomquilt2.com/) or [Arkadia](http://arkadia.xyz/) - *Infinite Zooming Painting* 
 * [Mirage Gallery](https://www.miragegallery.ai/) - *AI Art Gallery* 
 * [Virtual World List](https://virtualworldslist.neocities.org/) - *Virtual World List*
 * [Common Voice](https://www.saveriomorelli.com/commonvoice/) - *Help Teach a Machine How to Talk* 
@@ -470,13 +484,14 @@
 * [info.cern](http://info.cern.ch/) - *First Website on the Internet* 
 * [Worlds Highest Website](https://worlds-highest-website.com/) - *The Worlds Longest Website*
 * [You wouldn't steal a website](https://youwouldntsteala.website/) - *Steal a Website*
+* [Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator) - *Pretend You Have Macbook Pro*
 * [IdiotProofWebsite](http://idiotproofwebsite.com/)
 * [MotherFuckingWebsite](http://motherfuckingwebsite.com/), [BetterMotherFuckingWebsite](http://bettermotherfuckingwebsite.com/), [EvenBetterMotherFuckingWebsite](https://evenbettermotherfucking.website/) or [TheBestMotherFuckingWebsite](https://thebestmotherfuckingwebsite.co/)
 * [isitnight](https://www.isitnight.com/) - *Determine if it is night* 
 * [ThisSiteSaysOtherwise](https://thissaysotherwise.org/) - *Otherwise.*
 * [Watching Grass Grow](https://www.watching-grass-grow.com/) - *Watch Grass Grow.*
-* [aaaaa](https://github.com/dkter/aaaaa) - *Minimalist Keyboard*
-* [aaaaaa.....](http://aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/) - *Make URL's longer... ?*
+* [aaaaa](https://github.com/dkter/aaaaa) - "a" only keyboard*
+* [aaaaaa.....](http://aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/) - *Make URL's longer*
 
 ***
 
@@ -492,6 +507,7 @@
 * [Google Alerts](https://www.google.com/alerts) - *News Alerts by Topics*
 * [PublicAlerts](https://google.org/publicalerts) - *Important News / Disaster Alerts*
 * [GHacks](https://www.ghacks.net/), [Geeks3D](https://www.geeks3d.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
+* [Latest Privacy](https://latestprivacy.org/) - *Privacy News*
 * [We Fight Censorship](http://3kyl4i7bfdgwelmf.onion/) - *Censorship News*
 * [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - *Dark Web News*
 * [Interactive News Map](https://usa.liveuamap.com/) - *Geolocated News Alerts / Headlines U.S* 
@@ -499,10 +515,12 @@
 * [IBM Watson News Explorer](https://news-explorer.mybluemix.net/) - *Business News Explorer*
 * [Uriminzokkiri](http://www.uriminzokkiri.com/index.php?lang=eng) - *Korean News*
 * [Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspaper_sites) - *Read & Download Newspapers*
-* [RSOE](http://hisz.rsoe.hu/) - *Emergency and Disaster Map* 
+* [RSOE](http://hisz.rsoe.hu/) or [EDIS](https://rsoe-edis.org/) - *Emergency and Disaster Map* 
+* [PlaneCrashInfo](http://www.planecrashinfo.com/) - *Plane Crash Reports*
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - *Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)*
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - *Earthquake Activity Map*
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - *Volcano Activity Map*
+* [InoReader](https://www.inoreader.com/) - *News Feed Manager*
 
 ***
 
@@ -636,6 +654,7 @@
 * [/r/LoseIt](https://www.reddit.com/r/loseit/) - *Weight Loss Subreddit*
 * [MOVE! Coach](https://mobile.va.gov/app/move-coach) - *Weight Loss Program*
 * [Weight Loss Side Effects](https://weight-loss-side-effects.netlify.app/) - *Weight Loss Side Effect Mitigation*
+* [BodyVisualizer](https://bodyvisualizer.com/) - *Exercise Benefit Visualization*
 * [/r/GainIt](https://www.reddit.com/r/gainit/) - *Healthy Weight Gain Subreddit*
 * [/r/Fexibility](https://www.reddit.com/r/flexibility/) - *Flexibility Subreddit*
 * [My Pacer](https://www.mypacer.com/) - *Fitness App / Pedometer*
@@ -645,7 +664,10 @@
 * [SPSS Tutorials ](https://www.spss-tutorials.com/) - *SPSS Practice & Examples*
 * [Fitocracy](https://www.fitocracy.com/) or [Timely-Fitness](https://github.com/Argentable/Timely-Fitness) - *Create Workout Plans*
 * [DAREBEE](https://darebee.com/) - *Fitness Plans / Workouts*
-* [MapMyWalk](https://www.mapmywalk.com/) - *Walking Tracker*
+* [Hevy](https://www.hevyapp.com/) - *Workout Tracker*
+* [OpenTrack](https://opentracksapp.com/) - *Sports Tracking App*
+* [GoldenCheetah](https://www.goldencheetah.org/) - *Biking Tracker*
+*  [Marcher](https://marcher.app/) or [MapMyWalk](https://www.mapmywalk.com/) - *Walking Tracker*
 * [RunnerUp](https://github.com/jonasoreland/runnerup) - *Run Tracker*
 * [Charity Miles](https://charitymiles.org/) - *Donate to Charity While Running / Biking*
 * [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - *Zombie Running Adventure Game*
@@ -654,6 +676,7 @@
 * [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - *Remedies for Sores on Tongue*
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - *Interactive Self Care Guide*
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - *Mindfulness / Stress Reduction Tips*
+* [MediLog](https://gitlab.com/toz12/medilog) - *Medical Data Log*
 * [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - *Insomnia Prevention Tips*
 * [eXHALeR](https://www.xhalr.com/) - *Yoga / Meditation Breathing Tool* 
 * [One Mind PsyberGuide](https://onemindpsyberguide.org/) - *Mental Health App Reviews*
@@ -688,7 +711,8 @@
 * [US & CA License Plates](https://i.redd.it/ue2r7cdb2s861.png) - *US & CA License Map*
 * [European License Plates](https://i.redd.it/wcazzhjir8941.png) - *European License Map*
 * [DarkSky](https://maps.darksky.net/), [MSN Weather Map](http://www.msn.com/en-us/weather/maps) or [Ventusky](https://www.ventusky.com/) - *Weather Maps*
-* [Windy](https://www.windy.com/) - *Wind Map* 
+* [Windy](https://www.windy.com/) or [WebGL-Wind](https://mapbox.github.io/webgl-wind/demo/) - *Wind Map* 
+* [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - *Global Jetstream Forcast Map*
 * [Air Now](https://gispub.epa.gov/airnow/) or [Breezometer](https://www.breezometer.com/air-quality-map/) - *Air Quality Map*
 * [Global Hyrdo Data](https://www.esri.com/arcgis-blog/products/product/water/global-hydro-data-its-here-here-here/) - *Global Hydro Data / Mapping*
 * [River Runner](https://river-runner.samlearner.com/) - *River Map*
@@ -707,6 +731,7 @@
 * [Ancestry Images](http://www.ancestryimages.com/) - *Historical Photo & Map Archive*
 * [Gas Price Map](https://www.gasbuddy.com/gaspricemap) - *US Gas Price Map*
 * [Falling Fruit](https://fallingfruit.org/) - *Urban Harvesting Map*
+* [Infrapedia](https://www.infrapedia.com/) - *Network & Datacenter Map*
 * [CellMapper](https://www.cellmapper.net/) - *Cell Tower Map*
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - *Cell Carrier FCC Spectrum Map*
 * [4G LTE Coverage](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b) - *4G LTE Coverage Map*
@@ -714,10 +739,11 @@
 * [Broadband Map](https://broadbandmap.fcc.gov/) - *Fixed Broadband Deployment Map*
 * [PowerOutage](https://poweroutage.us/) - *Power Outage Map*
 * [City Generator](https://probabletrain.itch.io/city-generator) - *City Map Generator* 
-* [RSOE](http://hisz.rsoe.hu/) - *Emergency and Disaster Map* 
+* [RSOE](http://hisz.rsoe.hu/) or [EDIS](https://rsoe-edis.org/) - *Emergency and Disaster Map* 
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - *Volcano Activity Map*
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - *Earthquake Activity Map*
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - *Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)*
+* [LightningMaps](https://lightningmaps.org/) - *Lightning Maps*
 * [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](http://radarbox24.com/) or [FlightAware](http://flightaware.com/) - *Live Flight Tracker* 
 * [MarineTraffic](https://www.marinetraffic.com/) or [VesselFinder](http://vesselfinder.com/) - *Live Ship Tracker* 
 * [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - *Max Speed Limits*
@@ -731,6 +757,7 @@
 * [convert_lat_long](https://andrew.hedges.name/experiments/convert_lat_long/) - *Convert Latitude/Longitude to Decimal* 
 * [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - *Dialect Map*
 * [Helpmap](https://helpmap.io/) - *Nonprofit Donation Map* 
+* [OpenMapTiles](https://openmaptiles.org/) - *Self-Hosted Maps / Satellite View*
 
 ***
 
@@ -807,7 +834,7 @@
 * [FontEdit](https://github.com/ayoy/fontedit), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/) or [Font Forge](https://fontforge.org/en-US/) - *Font Editor* 
 * [Transfonter](https://transfonter.org/) - *Font Converter*
 * [Calligraphr](https://www.calligraphr.com/en/) - *Create Your Own Fonts* 
-* [FontBase](https://fontba.se/) - *Font Manager* 
+* [FontBase](https://fontba.se/) or [Xiles](https://www.xiles.app/) - *Font Manager* 
 
 ***
 
@@ -846,6 +873,7 @@
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - *Read Books in Browser*
 * [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/) [S3Translator](http://www.s3blog.org/s3translator.html), [DeepL Translator](https://chrislo.ca/deepl/) or [ImTranslator](https://imtranslator.net/) - *Translator* 
 * [Dictionaries](https://github.com/pnlpal/dictionaries), [phlinx](https://phlinx.com/) or [Definer](https://lumetrium.com/definer/) - *Popup Dictionary* 
+* [PantherBar](https://pantherbar-app.com/) - *Context Search*
 * [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - *Magnify Webpages*
 * [Zoom WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_zoom_we) or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - *Improves Zoom Functionality*
 * [Print Edit WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_print_edit_we) - *Edit Pages to Make them Printable* 
@@ -879,7 +907,7 @@
 * [Text to Image](https://mybrowseraddon.com/text-to-image.html) - *Format & Save Text as a Image*
 * [Text Link](https://piro.sakura.ne.jp/xul/textlink/index.html.en) - *Make Non-Hyperlinked URL's Clickable* 
 * [Link Alert](https://www.cwesson.net/projects/LinkAlert/) - *Link Type Indicator* 
-* [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) - *Remove All Cookies* 
+* [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) or [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - *Auto Delete Cookies*
 * [Cookie Manager](https://github.com/laktak/vanilla-chrome), [Cookie Quick Manager](https://github.com/ysard/cookie-quick-manager), [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - *Cookie Manager* 
 * [Feedbro](https://nodetics.com/feedbro/), [Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS) or [Fraidycat](https://fraidyc.at/) - *RSS Feed Reader*
 * [Google Unblocked](https://github.com/Ibit-to/google-unlocked) - *Uncensored Google Search*
@@ -889,7 +917,7 @@
 * [Linkpack](https://www.linkpack.io/) - *Save Links to Dropbox*
 * [Survol](https://survol.me/) - *Preview Links* 
 * [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - *Page Change Detection / Notification* 
-* [Block Site](https://add0n.com/block-site.html) - *Block Websites*
+* [Block Site](https://add0n.com/block-site.html) or [uBlacklist](https://github.com/iorate/uBlacklist) - *Block Websites*
 * [LeechBlock](https://www.proginosko.com/leechblock), [Forest](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_forest) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - *Site Blocker / Productivity Booster*
 * [SuperStop](https://github.com/gavinsharp/SuperStop/) - *Stop Active Animations, Videos, JS, WebSocket & XHR*
 * [Nuke Anything](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nuke_anything) - *Block/Hide Anything on a Page*  
@@ -934,6 +962,7 @@
 * [Tab Session Manager](https://tab-session-manager.sienori.com/) or [Session Buddy](https://sessionbuddy.com/) - *Session Manager* 
 * [Peek](https://github.com/corbindavenport/peek) - *Shows Images & Videos Behind Links & Thumbnails* 
 * [Not For You](https://bengrosser.com/projects/not-for-you/) - *Confuse Tik-Toks Recommendation Algorithm*
+* [FBPurity](https://www.fbpurity.com/) - *Facebook Enhancement Extension*
 * [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) - *Hide All Facebook Metrics*
 * [OctoShop](https://www.instok.org/octoshop) - *In-Stock Alerts*
 
@@ -955,7 +984,8 @@
 * [PopUp Encyclopedia](https://addons.mozilla.org/en-US/firefox/addon/popup-encyclopedia/) - *Popup Encyclopedia & Dictionary* 
 * [Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - *Search Selected Text / Multi Site Search*
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - *Search Current Domain* 
-* [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/) - *Custom Firefox Theme Creation*
+* [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - *Custom Firefox Theme Creation*
+* [OnelineProton](https://github.com/lr-tech/OnelineProton/) - *Proton Theme for Firefox*
 * [Dark Background for Firefox New Tabs](https://fedidat.com/640-dark-newtab-firefox/)
 * [Colors and Fonts Extractor](https://addons.mozilla.org/en-US/firefox/addon/colors-and-fonts-extractor/) - *Extract Colors & Fonts from Websites* 
 * [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - *Force Enable Right Click*
@@ -971,25 +1001,27 @@
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - *Restores Firefox RSS Features*
 * [Rooster Todo Manager](https://addons.mozilla.org/en-US/firefox/addon/rooster-todos/) - *To-Do Manager* 
 * [Morning Coffee Quantum](https://addons.mozilla.org/en-US/firefox/addon/morning-coffee-quantum/) - *Open Custom Website Lists* 
+* [Wiper](https://github.com/davidahmed/wiper) - *Block Sites*
 * [Resurrect Pages](https://addons.mozilla.org/nl/firefox/addon/resurrect-pages/) - *View Archived / Cached Webpages*
 * [Firefox Voice](https://commonvoice.mozilla.org/en) - *Use Firefox with your Voice* 
 * [Canvas](https://addons.mozilla.org/en-US/firefox/addon/canvas-google-images/) - *View & Edit Google Images* 
 * [Zoom Redirector](https://addons.mozilla.org/en-US/firefox/addon/zoom-redirector/) - *Redirect Zoom Links to Web Client* 
 * [Plasma Integration](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/) - *Control Browser via Plasma* 
 * [Session Sync](https://addons.mozilla.org/en-US/firefox/addon/session-sync/) - *Session Manager* 
-* [OnelineProton](https://github.com/lr-tech/OnelineProton/) - *Proton Theme for Firefox*
+* [DelayWebpage](https://addons.mozilla.org/en-US/firefox/addon/delaywebpage/) - *Set Webpage Loading Delays*
 
 ## ▷ Chrome
 
 * [Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=en)
 * [Crx4Chrome](https://www.crx4chrome.com/) - *Alt Google App Store*
+* [WebCRX](https://webcrx.io/) - *Install Chrome CRX Files*
 * [chrome-extensions](https://github.com/learn-anything/chrome-extensions) - *List of Chrome Extensions* 
 * [NooBoss](https://ainoob.com/en/project/nooboss) - *Chrome Extension Manager / Extra Features*
 * [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - *Add Extensions to Ungoogled Chromium* 
 * [Chrome Extension Downloader](https://chrome-extension-downloader.com/) - *Chrome Extension Download Tool*
 * [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - *Quickly Enable / Disable Chrome Extensions*
 * [CRX Viewer](https://github.com/Rob--W/crxviewer) - *View Extension Source Code* 
-* [Tabji](https://tabji.link/) - *Tab Suspender*
+* [Tabji](https://tabji.link/) or [MarvellousSuspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - *Tab Suspender*
 * [Dark Mode](https://chrome.google.com/webstore/detail/dark-mode/declgfomkjdohhjbcfemjklfebflhefl) - *Dark Mode*
 * [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - *Picture-in-Picture Mode*
 * [OVC](https://chrome.google.com/webstore/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - *Video Controller*
@@ -999,9 +1031,12 @@
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - *Download Multiple Links at Once* 
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
+* [Headless-Recorder](https://github.com/checkly/headless-recorder) - *Browser Automation*
+* [NudgeWare](https://nudgeware.io/) or [HabitLab](https://habitlab.stanford.edu/) - *Productivity Booster*
 * [Beanote](https://chrome.google.com/webstore/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) - *Web Page Note Taking*
+* [ProjectNaptha](https://projectnaptha.com/) - *Manipulate Browser Image Text*
 * [Sticky Notes](https://www.getstickynotes.com/) - *Browser Sticky Notes*
-* [Toby](https://www.gettoby.com/) - *Tab Manager*
+* [Toby](https://www.gettoby.com/) or [Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - *Tab Manager*
 * [Dualless](https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd) or [Tab Resize](https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc) - *Split Browser Window* 
 * [chromewm](https://gitlab.com/EduCampi/chromewm) - *Tile Windows / Emulate Workspaces*
 * [Popup Tab Switcher](https://chrome.google.com/webstore/detail/popup-tab-switcher/cehdjppppegalmaffcdffkkpmoflfhkc) - *Improved Tab Switching*
@@ -1019,6 +1054,8 @@
 * [NicoNico SPEENYA](https://github.com/chimerast/niconico-speenya) - *Presentation Style Comments*
 * [Current Moon Phase](https://chrome.google.com/webstore/detail/current-moon-phase/ippnbhhbamibfpljlfmgogaondodicgi) - *Current Moon Phases*
 * [Nicosapo](https://github.com/yurafuca/nicosapo) - *Add Features to Nico Nico*
+* [Zoom Scheduler](https://zoom.us/download#chrome_ext) - *Zoom Meeting Scheduler*
+* [Typewriter](https://chrome.google.com/webstore/detail/typewriter/jfghikfjnjkjkdpndeecjheealfoabhc) - *Typing Typewriter Sounds*
 
 ## ▷ Safari
 
@@ -1052,6 +1089,7 @@
 * [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) - *Imageboards Features / [Themes](https://github.com/KevinParnell/OneeChan) / [GitHub](https://github.com/ccd0/4chan-x)* 
 * [Extra Flags for 4chan](https://gitlab.com/flagtism/Extra-Flags-for-4chan) - *Add More Flags to 4chan*
 * [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - *Google Search Endless Scrolling* 
+* [Extra Search Buttons](https://greasyfork.org/en/scripts/7543-google-search-extra-buttons) - *Extra Google Search Buttons*
 * [Google Hit Hider](https://openuserjs.org/scripts/jscher2000/Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites\)) - *Block Sites from Search Results* 
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - *Shows Images & Videos Behind Links & Thumbnails*
 * [DisableAMP](https://github.com/AdguardTeam/DisableAMP) - *Disable Google AMP Links*
