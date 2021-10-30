@@ -64,10 +64,10 @@
 * [Musicmap](https://musicmap.info/) - *Genealogy / History of Music Genres* 
 * [Random Song](https://randomsong.net/) or [ListenToThis](https://listentothis.nanoshinono.me/) - *Random Songs*
 * [The Nostalgia Machine](http://thenostalgiamachine.com/) or [bops.fm](https://bops.fm/) - *Random Songs by Year* 
-* [Drive & Listen](https://driveandlisten.herokuapp.com/) - *Listen to Music and Drive in Multiple Cities* 
 * [Map of Metal](http://mapofmetal.com/) - *Interactive Map of Metal History* 
 * [The Cultural Borders of Songs](https://pudding.cool/2018/06/music-map/?date=202102) - *#1 Songs from 3,000 Countries* 
 * [LostMyspace](http://lostmyspace.com/) - *Lost Myspace Songs* 
+* [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - *User-Made PluggnB Songs*
 * [BitMidi](https://bitmidi.com/) - *Stream / Download MIDI Files* 
 * [RemixPacks](http://remixpacks.ru/) or [BurntScarr](http://www.burntscarr.com/burntscarr/STEMS/) - *STEMS*
 * [KeyGenMusic](http://www.keygenmusic.net/) or [keygenmusic.tk](https://keygenmusic.tk/) - *Music from keygens, cracks, trainers, intros* 
@@ -99,6 +99,7 @@
 * [player.fm](https://player.fm/) - *Podcasts*
 * [WebOasis Radio](http://streamwat.ch/radio/) - *Genre-Based Radio*
 * [Chiru.no](https://chiru.no/) - *Multiple Online Radio Sites* 
+* [Drive & Listen](https://driveandlisten.herokuapp.com/) or [DrivenListen](https://drivenlisten.com/) - *Radio Driving Simulator* 
 * [Archive.org](https://archive.org/details/audio?&sort=-downloads&page=1) - *News / Classic Radio / Podcasts*
 * [Dumb Old Time Radio](http://www.dumb.com/oldtimeradio/) or [Old Time Radio](https://oldtime.radio/) - *Classic Radio*
 * [Old Time Radio Downloads](https://www.oldtimeradiodownloads.com/) - *Classic Radio Downloads*
@@ -238,6 +239,7 @@
 * [mp3db](https://mp3db.pro/) - *MP3*
 * [TheAlbumPlug](https://thealbumplug.com/) - *MP3*
 * [NetNaija](https://www.thenetnaija.com/) - *MP3* 
+* [RockDownload](https://www.rockdownload.org/) - *MP3*
 * [DeadPulpit](https://www.deadpulpit.com/) - *MP3*
 * [24NaiJamMuzic](https://www10.24naijamuzic.com/) - *MP3*
 * [MuzBeat](https://muzbeat.org/) - *MP3*
@@ -365,12 +367,13 @@
 * **[Sputnik](https://www.sputnikmusic.com/)**, [RateYourMusic](https://rateyourmusic.com/), [Discogs](https://www.discogs.com/), [listnd](https://listnd.com/) or [Musicbranz](https://musicbrainz.org/) - *Ratings / Reviews*
 * [45Cat](http://www.45cat.com/) - *Vinyl Ratings / Reviews*
 * [World Spotify](https://www.worldspotify.com/) - *Daily Most Streamed Tracks by Country* 
-* [Spotalike](https://spotalike.com/) or [RadioNewify](https://radionewify.com/) - *Spotify Playlist Generator*
-* [DailyPlaylists](https://www.dailyplaylists.com/) - *Spotify Playlist Sharing*
+* [Spotalike](https://spotalike.com/), [MagicPlaylist](https://magicplaylist.co/) or [RadioNewify](https://radionewify.com/) - *Spotify Playlist Generator*
+* [DailyPlaylists](https://www.dailyplaylists.com/) or [TuneMunk](https://www.tunemunk.com/) - *Spotify Playlist Sharing*
+* [MusitcTo](https://www.musicto.com/) - *Musician Curated Playlists*
 * [Forgotify](https://forgotify.com/) - *Spotify songs with 0 plays*  
 * [Obscurify](https://obscurifymusic.com/) - *Compare Music Taste to Others* 
 * [Chosic](https://www.chosic.com/) - *Song Discovery Tools*
-* [Music-Map](https://www.music-map.com/), [Musicroamer](https://www.musicroamer.com/) or [AkinBeats](http://akinbeat.com/) - *Similar Artist Discovery* 
+* [Music-Map](https://www.music-map.com/) or [Musicroamer](https://www.musicroamer.com/) - *Similar Artist Discovery* 
 * [BoilTheFrog](http://boilthefrog.playlistmachinery.com/) - *Create Playlists From 2 Artists* 
 * [UnknownMusicBot](https://t.me/UnknownMusicBot) - *Play a random rare song from YouTube* 
 * [Gnoosic](https://www.gnoosic.com/) - *Band Discovery Tool* 
@@ -389,6 +392,7 @@
 * [Listening Together](https://listeningtogether.atspotify.com/) - *Tracks Each Time Two People Play the Same Song*
 * [rate.house](https://rate.house/) - *Media Tracker*
 * [libib](https://www.libib.com/) - *Desktop Media Catalog*
+* [Podcatalysts](https://podcatalysts.substack.com/) - *Podcast Recommendation Newsletter*
 
 ***
 
