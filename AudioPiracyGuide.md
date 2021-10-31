@@ -252,6 +252,7 @@
 * [RabbitMP3](https://www.rabbitmp3.com/) - *MP3*
 * [Freemp3cloud](https://freemp3cloud.com/en/) - *MP3*
 * [Mp3Deer](https://mp3deer.com/) - *MP3*
+* [Mixupload](https://mixupload.com/) - *MP3*
 * [Moe:81](http://miya.nipah.moe:81/public/music/) - *MP3 / FLAC*
 * [geedryve](http://jacobsm.com/geedryve/records/mp3s/) - *MP3* 
 * [Music Library](https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7) - *MP3*
