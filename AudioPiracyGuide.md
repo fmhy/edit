@@ -67,6 +67,7 @@
 * [Map of Metal](http://mapofmetal.com/) - *Interactive Map of Metal History* 
 * [The Cultural Borders of Songs](https://pudding.cool/2018/06/music-map/?date=202102) - *#1 Songs from 3,000 Countries* 
 * [LostMyspace](http://lostmyspace.com/) - *Lost Myspace Songs* 
+* [/r/Yedits](https://www.reddit.com/r/Yedits/) - *User-Made Remixes*
 * [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - *User-Made PluggnB Songs*
 * [BitMidi](https://bitmidi.com/) - *Stream / Download MIDI Files* 
 * [RemixPacks](http://remixpacks.ru/) or [BurntScarr](http://www.burntscarr.com/burntscarr/STEMS/) - *STEMS*
