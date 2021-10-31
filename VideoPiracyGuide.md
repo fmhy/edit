@@ -600,6 +600,7 @@
 * [4K HDR](https://4k-hdr.org/) - *HD Movies / TV*
 * [4k-hd.club](https://4k-hd.club/) - *HD Movies*
 * [4k Movie Collection](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w) - *HD Movies*
+* [IRC Movie Channels](https://pastebin.com/2AeYizZK)
 * [r/MegaLinks Backup](https://mega.nz/folder/fv4lCaZQ#6tS6HpQiWAjx6Ibr1N_D8w), [2](https://www71.zippyshare.com/v/behLhk3F/file.html)
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_indexes) - *Movies / TV*
 * [Gophie](https://github.com/Go-phie/gophie) - *Streaming Site Download CLI*
