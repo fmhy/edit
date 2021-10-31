@@ -743,7 +743,7 @@
 * [p30download](https://p30download.ir/) - *[Use Proxy](https://www.proxynova.com/proxy-server-list/country-ir)* 
 * [soft98](https://soft98.ir/) - *Software / Courses / eBooks*
 * [Asian Drama Sites (Persian)](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_asian_drama_download) 
-* [Persian Telegram Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_telegram_courses) 
+* [Persian Telegram Courses](https://rentry.co/sn66v) 
 * [TeleLeecherbot](https://t.me/TeleLeecherbot), [Moviebleecherbot](https://t.me/Moviebleecherbot) or [kLeechBot](https://t.me/kLeechBot) - *Persian Movie Leech Telegram Bots* 
 * [FilmgramBot](https://t.me/FilmgramBot) or [FileMovieBot](https://t.me/FileMovieBot) - *Persian Movie Search Telegram Bots* 
 * [Download.ir](https://download.ir/) - *Software / Video / Android / Games / Roms*  
@@ -1523,7 +1523,7 @@ Portuguese
 
 * [Non-English Ebook & Audiobook Sites](https://redd.it/gehkl0)
 * [Zoro.to](https://zoro.to/) - *Multiple Language Subtitles / Anime*
-* [Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_asian_drama_sites)
+* [Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drama_streaming)
 * [Einthusan](https://einthusan.tv/intro/) - *South Asian Films Archive*
 * [Jainism Library of Jain Literature](http://www.atmadharma.com/index.html) - *Sacred Texts / Religion / Multi Language*
 * [BalkanDownload](https://balkandownload.org/) - *Croatian / Download / Video / Audio / Software / Games / Books / Comics*
