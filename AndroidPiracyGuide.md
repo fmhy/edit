@@ -199,6 +199,7 @@
 * [Image Searcher](https://play.google.com/store/apps/details?id=sansunsen3.imagesearcher) - *Image Search App*
 * [background video recorder](https://play.google.com/store/apps/details?id=com.camera.secretvideorecorder) - *Record Videos in Background*
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
+* [1 Second Everyday](http://1se.co/) - *1 Second Video Diary*
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - *Telegram Client*
 * [Uploadgram](https://github.com/Pato05/uploadgram-app) - *Telegram File Upload*
 * [Thimble](https://www.thimbleapp.co/) - *Group Messaging*
@@ -749,6 +750,7 @@ RSS Player*
 * [Mematic](https://www.mematic.net/) - *Meme Creator* 
 * [Reface](https://reface.app/) - *Create Face Swap Videos* 
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
+* [1 Second Everyday](http://1se.co/) - *1 Second Video Diary*
 * [Twobird](https://apps.apple.com/us/app/twobird/id1455545515) - *To-Do List / Inbox*
 * [GGMorse](https://github.com/ggerganov/ggmorse) - *Morse Code Decoding App*
 * [PictureThis](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129) - *Plant Identifier*
