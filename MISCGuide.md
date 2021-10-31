@@ -390,7 +390,6 @@
 * [Death Date](http://deathdate.info/) - *Calculate your day of death* 
 * [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - *Dollar Tracking* 
 * [ThatsTheFinger](https://thatsthefinger.com/) - *Send Someone The Finger*
-* [Chrome Experiments](https://www.chromeexperiments.com/) - *Chrome Experiments*
 * [RandomColour](http://www.randomcolour.com/) - *Random Color*
 * [ColorNames](https://colornames.org/) - *Help Name Colors*
 * [Fontbutts](https://fontbutts.netlify.app/) - *Create Butts with different fonts*
@@ -456,6 +455,7 @@
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - *Unused Video Game Content Research*
 * [Bibliotheca Anonoma](https://bibanon.org/) - *Internet Folklife Wiki / [Discord](https://discord.com/invite/3jxxGDC)*
 * [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion), [BibAnon](http://vyrd.bibanon.org/), [4Museum](https://4museum.neocities.org/), [Archive.4plebs](https://archive.4plebs.org/), [arch.b4k](https://arch.b4k.co/) or [Sup/tg/](http://suptg.thisisnotatrueending.com/)  - *4Chan Archive*
+* [LameBook](https://www.lamebook.com/) - *Funny Facebook Status'*
 * [Zoomquilt](https://www.zoomquilt.org/) / [2](http://zoomquilt2.com/) or [Arkadia](http://arkadia.xyz/) - *Infinite Zooming Painting* 
 * [Mirage Gallery](https://www.miragegallery.ai/) - *AI Art Gallery* 
 * [Virtual World List](https://virtualworldslist.neocities.org/) - *Virtual World List*
