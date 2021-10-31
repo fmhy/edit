@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/jFwF6Kr.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/t9AlK89.png)** - *For mobile users*
 
 ***
 *** 
@@ -141,84 +141,6 @@
 * [Among Us Free Chat Unlocker](https://github.com/Vili1/Among-us-Free-Chat-unlocker/releases/) - *Among Us Chat Unlocker*
 * [Impostor](https://impostor.github.io/Impostor/) - *Among Us Private Server*
 
-*** 
-
-## ▷ Homebrew 
-
-* [Homebrew Guides](https://rentry.co/Guides) - *Homebrew Guides & Setups*
-* [Homebrew General](https://www.homebrewgeneral.net/) - *Homebrew News & Guides*
-* [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - *Wii Homebrew Installer / [Find MAC](https://www.nintendo.com/consumer/systems/wii/en_na/includes/rvl-ht-int-find-mac-address.jsp)*
-* [WiiU Exploit](https://wiiuexploit.xyz/) - *WiiU Homebrew Installer*
-* [Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)
-* [Homebrew Gang](https://thehbg.shop/main.html) - *Switch Homebrew Community*
-* [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - *Switch Homebrew Subreddit*
-* [Switch Guide](https://nh-server.github.io/switch-guide/) or [SWITCHWAY](https://switchway.xyz/) - *Switch Homebrew Guide*
-* [EeveeSaves](https://discord.io/eeveesaves) - *Switch Saves*
-* [Nintendo Homebrew](https://discord.com/invite/C29hYvh) - *3DS / Switch Homebrew Community*
-* [SDSetup](https://github.com/noahc3/SDSetup) - *Nintendo Switch SD Setup*
-* [PSX Hax](https://www.psxhax.com/) - *Playstation Modding Forum*
-* [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - *PS4 / PS5 Remote Play Client* 
-* [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - *PS4 Exploit Hosting PS4*
-* [PlayStationDiscord-Games](https://github.com/Tustin/PlayStationDiscord-Games) - *PS4 Remote Play* 
-* [DarkSoftware](https://www.darksoftware.xyz/) - *PS4 / PS3 Firmware*
-* [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - *PS3 Homebrew Subreddit*
-* [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - *PSCX Development Emulator*
-* [Tinfoil](https://tinfoil.io/) - *Switch Title Manager / File Browser* 
-* [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) - *Multiplayer Switch Servers*
-* [CTGP Revolution](https://www.chadsoft.co.uk/) - *Mario Kart Wii Multiplayer, Custom Tracks & more*
-* [TTs Online](https://redd.it/ie6gi7) - *MKW Online Time Trials Mod*
-* [Wiimmfi](https://wiimmfi.de/) - *Wii / DS Multiplayer Revival*
-* [3DS Hack Guide](https://3ds.hacks.guide/) - *Custom Firmware*
-* [Theme Plaza](https://themeplaza.art/themes) - *3DS Themes*
-* [GameBoy Tech Page](https://web.archive.org/web/19990209041732/http://home.hiwaay.net/%7Ejfrohwei/gameboy/home.html) - *Gameboy Tools*
-* [GameBoy Book Reader](https://www.mqp.com/fun/) - *Gameboy Book Reader*
-* [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - *.XBE to ISO File Converter*
-* [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - *Add More Roms to NES/SNES Classic Mini*
-* [emuiibo](https://github.com/XorTroll/emuiibo) - *Amiibo Emulator*
-* [All Amiibo Bin Files](https://redd.it/mlvfak) - *Amiibo Bin Files*
-* [Easy Guide to Making Amiibo](https://redd.it/5ywlol) - *How-to Make Your Own Amiibo*
-
-*** 
-
-## ▷ Game Mods
-
-* **[ModDB](https://moddb.com/)**, [Nexus Mods](https://www.nexusmods.com/), [ZagruzkaMods](https://zagruzkamods.com/), [NextGenUpdate](https://www.nextgenupdate.com/), [ModWorkshop](https://modworkshop.net/), [Video Game Mods](https://videogamemods.com/) or [CurseForge](https://www.curseforge.com/) - *Game Mods* 
-* [FlingTrainer](https://flingtrainer.com/) - *Game Mods / Trainers*
-* [MegaGames](https://megagames.com/) - *Fixes / Trainers / News*
-* [ChronoCrash](http://www.chronocrash.com/forum/) - *Game Modding Forum*
-* [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
-* [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - *Cheat Engine Table for Singple Player Games*
-* [Otis_Inf Camera Mods](https://redd.it/hvttbd) - *Game Camera Mods*
-* [injectSMAA](http://mrhaandi.blogspot.com/p/injectsmaa.html) - *SMAA Injection Tool*
-* [OpenVR FSR](https://github.com/fholger/openvr_fsr) - *Steam VR FidelityFX Super Resolution Mod*
-* [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - *GTA5 FidelityFX Super Resolution Mod*
-* [Essential Menu](https://github.com/anonik9900/Essential-Menu) - *GTA5 Mod Menu*
-* [re3](https://github.com/td512/re3) - *GTA III & Vice City Mods*
-* [TS4 Rebels](https://docs.google.com/spreadsheets/d/1TcbNsTFQD0YhqRDJMJr8c2Cna-JuevazErvlo6mXivY/edit#gid=0) - *Sims 4 Mods*
-* [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - *Unlock Genshin Impact FPS Cap*
-* [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - *Unlock Roblox FPS Cap*
-* [Rekt](http://getrektby.us/) - *Black Ops 1 Mod Project / [Discord](https://discord.com/invite/HqjQFCp)*
-* [Plutonium](https://plutonium.pw/) - *Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)* 
-* [IW4x / IW6x](https://xlabs.dev/) - *COD MW2 Mod Project* 
-* [Cod4X](https://cod4x.me/) - *CoD4 Enhancement Mod*
-* [Project Reality](https://www.realitymod.com/about) - *BF2 & ARMA 2 Realism Mod*
-* [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - *Battlefield Mod Projects*
-* [Open Carnage](https://opencarnage.net/) / [Discord](https://discord.com/invite/2pf3Yjb), [Reclaimers](https://reclaimers.net/) / [Discord](https://discord.com/invite/reclaimers) or [Halo Mods](https://discord.com/invite/WuurKwr)  - *Halo Modding Community*
-* [Chimps at Sea](https://chimpsatsea.com/) - *Halo Modding Tool*
-* [Halo 3](https://store.steampowered.com/app/1695791/Halo_3_Mod_Tools__MCC/), [Halo 2](https://store.steampowered.com/app/1613450/Halo_2_Mod_Tools__MCC/), [Halo CE](https://store.steampowered.com/app/1532190/Halo_CE_Mod_Tools__MCC/) - *Halo Modding Tools*
-* [XboxChaos](https://www.xboxchaos.com/) - *Halo Modding Forum*
-* [Flatout 2 Fan Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2414295888) - *Patch for Flatout 2*
-* [Synergy2k](https://synergy2k.net/) - *NBA 2K MyCareer Mod Tool*
-* [Paydaymods](http://paydaymods.com/) - *Payday 2 Mods*
-* [Superblt](https://superblt.znix.xyz/) - *Payday 2 Modding Tool*
-* [Payday 2 FPS Boost](https://steamcommunity.com/sharedfiles/filedetails/?id=1933473710) - *Payday 2 FPS Boost Mod List*
-* [NFSMods](https://nfsmods.xyz/home) - *Need for Speed Mods*
-* [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - *Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)*
-* [CT3Tweaks](https://ct3tweaks.stashy.dev/) - *Crazy Taxi 3 Tweak Tool / [GitHub](https://github.com/stashymane/ct3tweaks)*
-* [Titanfall2HudToggle](https://www.mediafire.com/file/q3tld2cm31znu2z/Titanfall2HudToggle.rar/file) - *Toggle Titanfall 2 Hud*
-* [FtG UI Mod](https://www.nexusmods.com/dragonage/mods/73) - *Make Dragon Age Text Readable*
-* [Peter Jackson's King Kong Signature Edition Fix](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix) - *Peter Jackson's King Kong Signature Edition Patcher*
-
 ***
 
 ## ▷ Steam Tools
@@ -323,3 +245,82 @@
 * [TerrariaSoundBar](https://forums.terraria.org/index.php?threads/v0-2-terrariasoundbar-worlds-first-guitar-studio-macro-tool.93551/) - *Terraria In-Game Guitar*
 * [Increased FOV](https://gamebanana.com/tuts/14022) - *Increase Terraria FOV for 21:9 Monitors*
 * [Content Creation Guide](https://forums.terraria.org/index.php?threads/the-ultimate-guide-to-content-creation-and-use-for-the-terraria-workshop.100652/) - *Terraria Content Creation Guide Ultimate*
+
+
+*** 
+
+# ► Homebrew 
+
+* [Homebrew Guides](https://rentry.co/Guides) - *Homebrew Guides & Setups*
+* [Homebrew General](https://www.homebrewgeneral.net/) - *Homebrew News & Guides*
+* [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - *Wii Homebrew Installer / [Find MAC](https://www.nintendo.com/consumer/systems/wii/en_na/includes/rvl-ht-int-find-mac-address.jsp)*
+* [WiiU Exploit](https://wiiuexploit.xyz/) - *WiiU Homebrew Installer*
+* [Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)
+* [Homebrew Gang](https://thehbg.shop/main.html) - *Switch Homebrew Community*
+* [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - *Switch Homebrew Subreddit*
+* [Switch Guide](https://nh-server.github.io/switch-guide/) or [SWITCHWAY](https://switchway.xyz/) - *Switch Homebrew Guide*
+* [EeveeSaves](https://discord.io/eeveesaves) - *Switch Saves*
+* [Nintendo Homebrew](https://discord.com/invite/C29hYvh) - *3DS / Switch Homebrew Community*
+* [SDSetup](https://github.com/noahc3/SDSetup) - *Nintendo Switch SD Setup*
+* [PSX Hax](https://www.psxhax.com/) - *Playstation Modding Forum*
+* [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - *PS4 / PS5 Remote Play Client* 
+* [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - *PS4 Exploit Hosting PS4*
+* [PlayStationDiscord-Games](https://github.com/Tustin/PlayStationDiscord-Games) - *PS4 Remote Play* 
+* [DarkSoftware](https://www.darksoftware.xyz/) - *PS4 / PS3 Firmware*
+* [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - *PS3 Homebrew Subreddit*
+* [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - *PSCX Development Emulator*
+* [Tinfoil](https://tinfoil.io/) - *Switch Title Manager / File Browser* 
+* [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) - *Multiplayer Switch Servers*
+* [CTGP Revolution](https://www.chadsoft.co.uk/) - *Mario Kart Wii Multiplayer, Custom Tracks & more*
+* [TTs Online](https://redd.it/ie6gi7) - *MKW Online Time Trials Mod*
+* [Wiimmfi](https://wiimmfi.de/) - *Wii / DS Multiplayer Revival*
+* [3DS Hack Guide](https://3ds.hacks.guide/) - *Custom Firmware*
+* [Theme Plaza](https://themeplaza.art/themes) - *3DS Themes*
+* [GameBoy Tech Page](https://web.archive.org/web/19990209041732/http://home.hiwaay.net/%7Ejfrohwei/gameboy/home.html) - *Gameboy Tools*
+* [GameBoy Book Reader](https://www.mqp.com/fun/) - *Gameboy Book Reader*
+* [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - *.XBE to ISO File Converter*
+* [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - *Add More Roms to NES/SNES Classic Mini*
+* [emuiibo](https://github.com/XorTroll/emuiibo) - *Amiibo Emulator*
+* [All Amiibo Bin Files](https://redd.it/mlvfak) - *Amiibo Bin Files*
+* [Easy Guide to Making Amiibo](https://redd.it/5ywlol) - *How-to Make Your Own Amiibo*
+
+*** 
+
+# ► Game Mods
+
+* **[ModDB](https://moddb.com/)**, [Nexus Mods](https://www.nexusmods.com/), [ZagruzkaMods](https://zagruzkamods.com/), [NextGenUpdate](https://www.nextgenupdate.com/), [ModWorkshop](https://modworkshop.net/), [Video Game Mods](https://videogamemods.com/) or [CurseForge](https://www.curseforge.com/) - *Game Mods* 
+* [FlingTrainer](https://flingtrainer.com/) - *Game Mods / Trainers*
+* [MegaGames](https://megagames.com/) - *Fixes / Trainers / News*
+* [ChronoCrash](http://www.chronocrash.com/forum/) - *Game Modding Forum*
+* [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
+* [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - *Cheat Engine Table for Singple Player Games*
+* [Otis_Inf Camera Mods](https://redd.it/hvttbd) - *Game Camera Mods*
+* [injectSMAA](http://mrhaandi.blogspot.com/p/injectsmaa.html) - *SMAA Injection Tool*
+* [OpenVR FSR](https://github.com/fholger/openvr_fsr) - *Steam VR FidelityFX Super Resolution Mod*
+* [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - *GTA5 FidelityFX Super Resolution Mod*
+* [Essential Menu](https://github.com/anonik9900/Essential-Menu) - *GTA5 Mod Menu*
+* [re3](https://github.com/td512/re3) - *GTA III & Vice City Mods*
+* [TS4 Rebels](https://docs.google.com/spreadsheets/d/1TcbNsTFQD0YhqRDJMJr8c2Cna-JuevazErvlo6mXivY/edit#gid=0) - *Sims 4 Mods*
+* [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - *Unlock Genshin Impact FPS Cap*
+* [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - *Unlock Roblox FPS Cap*
+* [Rekt](http://getrektby.us/) - *Black Ops 1 Mod Project / [Discord](https://discord.com/invite/HqjQFCp)*
+* [Plutonium](https://plutonium.pw/) - *Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)* 
+* [IW4x / IW6x](https://xlabs.dev/) - *COD MW2 Mod Project* 
+* [Cod4X](https://cod4x.me/) - *CoD4 Enhancement Mod*
+* [Project Reality](https://www.realitymod.com/about) - *BF2 & ARMA 2 Realism Mod*
+* [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - *Battlefield Mod Projects*
+* [Open Carnage](https://opencarnage.net/) / [Discord](https://discord.com/invite/2pf3Yjb), [Reclaimers](https://reclaimers.net/) / [Discord](https://discord.com/invite/reclaimers) or [Halo Mods](https://discord.com/invite/WuurKwr)  - *Halo Modding Community*
+* [Chimps at Sea](https://chimpsatsea.com/) - *Halo Modding Tool*
+* [Halo 3](https://store.steampowered.com/app/1695791/Halo_3_Mod_Tools__MCC/), [Halo 2](https://store.steampowered.com/app/1613450/Halo_2_Mod_Tools__MCC/), [Halo CE](https://store.steampowered.com/app/1532190/Halo_CE_Mod_Tools__MCC/) - *Halo Modding Tools*
+* [XboxChaos](https://www.xboxchaos.com/) - *Halo Modding Forum*
+* [Flatout 2 Fan Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2414295888) - *Patch for Flatout 2*
+* [Synergy2k](https://synergy2k.net/) - *NBA 2K MyCareer Mod Tool*
+* [Paydaymods](http://paydaymods.com/) - *Payday 2 Mods*
+* [Superblt](https://superblt.znix.xyz/) - *Payday 2 Modding Tool*
+* [Payday 2 FPS Boost](https://steamcommunity.com/sharedfiles/filedetails/?id=1933473710) - *Payday 2 FPS Boost Mod List*
+* [NFSMods](https://nfsmods.xyz/home) - *Need for Speed Mods*
+* [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - *Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)*
+* [CT3Tweaks](https://ct3tweaks.stashy.dev/) - *Crazy Taxi 3 Tweak Tool / [GitHub](https://github.com/stashymane/ct3tweaks)*
+* [Titanfall2HudToggle](https://www.mediafire.com/file/q3tld2cm31znu2z/Titanfall2HudToggle.rar/file) - *Toggle Titanfall 2 Hud*
+* [FtG UI Mod](https://www.nexusmods.com/dragonage/mods/73) - *Make Dragon Age Text Readable*
+* [Peter Jackson's King Kong Signature Edition Fix](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix) - *Peter Jackson's King Kong Signature Edition Patcher*
