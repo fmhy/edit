@@ -43,6 +43,7 @@
 * [HowtoForge](https://www.howtoforge.com/) - *Linux Tutorials*
 * [DotShare](http://dotshare.it/) - *Distro Config Index*
 * [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - *Arch Linux Installer*
+* [Free Cloud Linux Server](https://rentry.co/4sx64) - *Free Cloud Server Guide*
 * [Brunch](https://github.com/sebanc/brunch) or [Chromefy](https://github.com/imperador/chromefy) - *ChromeOS Installer*
 * [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [FydeOS](https://fydeos.io/download), [NeverWare](https://www.neverware.com/) or [WayneOS](https://wayne-os.com/) - *ChromeOS Based OS*
 * [Pop!_OS Shell](https://github.com/pop-os/shell) - *Pop-Shell for GNOME*
