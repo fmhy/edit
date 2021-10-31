@@ -670,6 +670,7 @@ General Reading Sites*
 * [Comics CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg) - *Search Comic Sites*
 * [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z), [2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - *Search Manga Sites*
 * [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8), [2](https://cse.google.com/cse?cx=73948689c2c206528) - *Search Android APK Sites*
+* [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1) - *Search File Hosts*
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - *Search Pastebins*
 * [Search All](https://www.searchall.net/) or [AIO Search](https://www.aiosearch.com/) - *Multi Site Search*
 * [Software CSE](https://cse.google.com/cse?cx=57b3962509047447e) / [CSE 2](https://cse.google.com/cse?cx=ec7d33ef358ae1b65) - *Search Software Sites*
