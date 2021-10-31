@@ -441,6 +441,7 @@
 * **[Surfshark](https://surfshark.com/)** - *[Pricing](https://i.imgur.com/YaiKjpX.png) / [More Info](https://i.imgur.com/IPBVPNA.png)*
 * **[Riseup](https://riseup.net/en/vpn)** - *Free VPN* 
 * **[WireGuard](https://www.wireguard.com/)** - *VPN Tunnel*
+* **[MOAG](https://moag.techtanic.pw/)** - *VPN Trial Generator*
 * [Perfect Privacy](https://www.perfect-privacy.com/) - *[Pricing](https://i.imgur.com/Rtfwu2t.png) / [More Info](https://i.imgur.com/Y9MRLcg.png)*
 * [IVPN](https://www.ivpn.net/) - *[Pricing](https://i.imgur.com/Iq92wOO.png) / [More Info](https://i.imgur.com/8MDJoYQ.png) / [Free Trial](https://redd.it/nzjmqa)*
 * [Trust.Zone](https://trust.zone/) - *[Pricing](https://i.imgur.com/PsRa8GD.png) / [More Info](https://i.imgur.com/zryWzqX.png)*
@@ -468,7 +469,6 @@
 * [OpenVPN](https://openvpn.net/) - *VPN Tunnel* 
 * [TincVPN](http://www.tinc-vpn.org/) - *VPN Tunnel*
 * [Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs) - *Free VPN Tunnel Configs*
-* [MOAG](https://moag.techtanic.pw/) - *VPN Trial Generator*
 * [Gluetun](https://github.com/qdm12/gluetun) - *Tunnel your Docker containers through a VPN*
 * [PiVPN](https://pivpn.io/) - *Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)* 
 * [Enterprise](https://pritunl.com/) - *VPN Server* 
