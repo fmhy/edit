@@ -197,6 +197,7 @@
 * [CrossOver](https://www.codeweavers.com/crossover) - *Run Windows Programs on Mac / Infinite Free Trials*
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - *Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/)*
 * [Conky](https://github.com/brndnmtthws/conky) - *System Monitor / [Colors](https://github.com/helmuthdu/conky_colors)*
+* [OpenSourceApple](https://opensource.apple.com/) - *System Tools*
 * [Windows 10 MBR](https://github.com/toru173/Windows-10-MBR-USB-Creation-Tool) or [Create Bootable](https://taig.medium.com/create-a-bootable-windows-10-usb-from-macos-395773d4782e) - *Windows 10 Media Creation Tool*
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - *UEFI Kexts*
 * [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913?mt=12) - *File Download Manager*
