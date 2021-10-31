@@ -208,7 +208,6 @@
 * [Video Data Bank](https://www.vdb.org/) - *Short Films / Rare Videos* 
 * [Total Short Films](http://www.totalshortfilms.com/), [Viddsee](https://www.viddsee.com/), [MAFF](https://www.maff.tv/), [Short of the Week](https://www.shortoftheweek.com/) or [Audpop](https://audpop.com/) - *Short Films* 
 * [HuntleyArchives](https://www.huntleyarchives.com/) - *Rare / Forgotten Short Films* 
-* [Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_asian_drama_sites) - *Asian Drama Sites / English Subs*
 * [Einthusan](https://einthusan.tv/) - *South Asian Film Archive*
 * [IndianCine](https://indiancine.ma/) - *Indian Film Archive*
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - *Japanese Animated Film Archive*
@@ -347,6 +346,43 @@
 * [b98](https://www.b98.tv/)
 * [South Park](https://southpark.cc.com/) - *South Park Episodes* 
 * [ToonamiAftermath](https://www.toonamiaftermath.com/) - *Toonami Stream* 
+
+
+***
+
+## ▷ Drama Streaming
+
+* [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming) 
+* [GDrive KDrama](https://databasegdriveplayer.co/drama.php)
+* [KissAsian](https://kissasian.li/), [2](https://kissasian.ac/)
+* [GoPlay](https://redd.it/723mtd) + [Discord](https://discord.gg/Gh44afE)
+* [AsianCrush](https://www.asiancrush.com/)
+* [DramaCool](https://dramacool.bid/), [dramacool9](https://www.dramacool9.co/) or [WatchAsian](https://watchasian.cc/)
+* [DramaDay](https://dramaday.net/) 
+* [icdrama](http://www1.hkdrama.to/) 
+* [FastDrama](http://fdrama.net/) 
+* [dramaz](http://dramaz.se/)
+* [NewAsian](https://newasiantv.biz/) 
+* [Asiaflix](https://asiaflix.app/)
+* [Drama3s](https://wvw.drama3s.me/)
+* [19mk](http://www.19mk.com/) 
+* [qooxi](http://drama.qooxi.to/) 
+* [GenMovies](https://genomovies.com/)
+* [GenDrama](https://genodrama.com/) 
+* [asianload](https://asianload.cc/)
+* [Viki](https://www.viki.com/)
+* [KDramaHood](https://kdramahood.com/home2/)
+* [movie22](https://mov21.zota.club/) 
+* [DramaNice](https://dramanice.so/) 
+* [MyAsianTV](https://www9.myasiantv.io/) 
+* [MKVDrama](https://mkvdrama.com/)
+* [K-Vid](https://k-vid.co/) or [KShows](https://kshows.to/)
+* [VoteDrama](https://votedrama.net/) 
+* [viewasian](https://viewasian.co/) 
+* [bagikuy](https://bagikuy.com/)
+* [IcDrama](http://icdrama.video/) - *Chinese*
+* [encoretvb](https://www.encoretvb.com/english)
+* [Kissasian.video](https://kissasian.video/) - *No subs*
 
 ***
 
@@ -717,6 +753,7 @@
 * [TorrentCue](http://torrrentcue.cc/Hollywood.html) - *Movies*
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - *Movies*
 * [YTS](https://yts.mx/) - *Movies / [Mirror](https://yify.netlify.app/) / Do [NOT](https://androidrookies.com/top-torrent-website-yts-is-sharing-user-emails-and-ip-addresses-with-anti-piracy-law-firm/) Make Account* 
+* [ButchIxanh](https://butchixanh.com/) - *Asian Drama*
 * [xbit](https://xbit.pw/) - *Movie Torrent Release Information*
 * [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all), [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout), [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod), [IMDb Torrent Search](https://github.com/Crecket/imdb-torrent-search) or [TMDB-Torrent-Movie-Database](https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database) - *Torrent Site Results on IMDb*
 * [IMDB to RARBG](https://greasyfork.org/en/scripts/376793-imdb-to-rarbg-torrent-search) - *RARBG Torrent / Magnet Links on IMDB* 
