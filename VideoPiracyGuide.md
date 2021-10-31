@@ -4,12 +4,18 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/o5RADff.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/gkPWgT9.png)** - *For mobile users*
 
 *** 
 ***
 
 # ► Streaming Sites
+
+* **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** or [Crocovid](http://crocovid.com/) - *Multi-Site Search*
+* **[Video Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_search_sites)** - *Search Video Sites / [CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)*
+* **[How-To Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - *Find Obscure Films*
+* [Stream IMDb](https://github.com/4L00/TemperMonkey-Scripts/) - *Add Stream Search Buttons to IMDb*
+* [Streaming Site Ranking](https://dirtywarez.org/cat/streaming) - *Alexa Rankings*
 
 ## ▷ Dedicated Hosts
 
@@ -28,6 +34,16 @@
 * [SolarMovie](https://www2.solarmovie.to/) or [Putlocker.vip](https://ww1.putlocker.vip/) - *Movies / TV / Anime*
 * [Trailers.to](https://trailers.to/) - *Movies / TV / [Bypass Quota](https://openvideofs.github.io/)*  
 * [BatFLIX](https://ww2.batflix.org/) - *Movies / TV / Videyo*
+* [FSAPI](https://fsapi.xyz/) - *Movies / TV / Anime*
+* [IMDbStream](https://imdbstream.xyz/) - *Movies / TV*
+* [DBGO](https://dbgo.fun/) - *Movies / TV / Anime / [Content List](https://dbgo.fun/list.php)*
+* [ApiMDB](https://apimdb.net/) - *Movies / TV / Anime* 
+* [123movies](https://api.123movie.cc/) - *Movies / TV / Anime* 
+* [SuperEmbed](https://www.superembed.stream/) - *Movies / TV / Anime / [Search](https://pastebin.com/ExB4ksvT)*
+* [1movietv](https://1movietv.com/) - *Movies / TV / Anime* 
+* [GoMo](https://gomo.to/) - *Movies / TV / Anime*
+* [2Embed](https://www.2embed.ru/) - *Movies / TV / Anime* 
+* [VidSrc](https://vidsrc.me/) - *Movies / TV / Anime* 
 * [dekhoBD](https://dekhobd.com/genre/hollywood.html) - *Movies*
 * [162.12.215.254](http://162.12.215.254/) - *Movies / [Drive](http://162.12.215.254/Data/Movies/)*
 * [Rainierland](https://rainierland.to/) - *Movies / TV* 
@@ -90,6 +106,7 @@
 * [YouTube Streaming Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_streaming_channels) - *Channels that host movies or shows*
 * [Official YT Movies](https://www.youtube.com/feed/storefront?bp=kgEmCGQSIlBMSFBUeFR4dEMwaWJWWnJUMl9XS1dVbDJTQXhzS3VLd3iiBQIoAg%3D%3D) - *Free with Ads*
 * [JustWatch](https://www.justwatch.com/) or [ReelGood](https://reelgood.com/) - *Search Legal Streaming Hosts*
+* [Manually Scrape Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manually_scrape_sites) - *Search Sites Manually*
 * `irc://irc.abjects.net/MOVIEGODS` - *IRC Streaming*
 
 ***
@@ -169,28 +186,6 @@
 * [0123MoviesHub ](https://0123movieshub.to/) - *Movies / TV / Anime*
 * [123MoviesGo](https://www.123moviesgo.li/) - *Movies / TV*
 * [123MovieWeb](https://123moviesweb.net/) - *Movies*
-* [Streaming Site Ranking](https://dirtywarez.org/cat/streaming) - *Alexa Rankings*
-
-***
-
-## ▷ Search Hosts
-
-* **[Streaming Sites CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)**
-* **[Video Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_search_sites)** - *Search sites similar to YouTube / [CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)*
-* **[How-To Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - *Find Obscure Movies & Short Films*
-* [FSAPI](https://fsapi.xyz/) - *Streaming API*
-* [IMDbStream](https://imdbstream.xyz/) - *Streaming API*
-* [DBGO](https://dbgo.fun/) - *Streaming API / [Content List](https://dbgo.fun/list.php)*
-* [ApiMDB](https://apimdb.net/) - *Streaming API* 
-* [123movies](https://api.123movie.cc/) - *Streaming API* 
-* [SuperEmbed](https://www.superembed.stream/) - *Streaming API / [Search](https://pastebin.com/ExB4ksvT)*
-* [1movietv](https://1movietv.com/) - *Streaming API* 
-* [GoMo](https://gomo.to/) - *Streaming API*
-* [2Embed](https://www.2embed.ru/) - *Streaming API* 
-* [VidSrc](https://vidsrc.me/) - *Streaming API* 
-* [Crocovid](http://crocovid.com/) - *Multi Host Search*
-* [Manually Scrape Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manually_scrape_sites) - *Search Sites Manually*
-* [Stream IMDb](https://github.com/4L00/TemperMonkey-Scripts/) - *Add Stream Site Search Buttons to IMDb Pages*
 
 ***
 
