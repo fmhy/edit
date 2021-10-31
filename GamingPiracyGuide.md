@@ -399,7 +399,6 @@
 * [Gamelor](https://www.gamelor.com/)
 * [itch.io](https://graebor.itch.io/), [2](https://grey2scale.itch.io/), [3](https://ncase.itch.io/), [4](https://capsquared.itch.io/), [5](https://evilobjective.itch.io/)
 * [Cartoon Network Games](https://www.cartoonnetwork.com/games/index.html)
-* [WBKidsGo](https://www.wbkidsgo.com/)
 * [Disney Games](https://disneynow.com/all-games)
 * [Lego Games](https://www.lego.com/en-us/kids/games)
 * [Friv](https://friv.com/), [2](https://web.archive.org/web/*/Friv.com)
@@ -408,7 +407,7 @@
 * [Nekogames](http://nekogames.jp/) - *Japanese Games* 
 * [ArcadePrehacks](http://www.arcadeprehacks.com/) - *Hacked Games* 
 * [Orisinal](http://www.ferryhalim.com/orisinal/), [BillsGames](http://www.billsgames.com/) or [pitStreet](http://www.pitstreet.com/) - *Simple Games* 
-* [Nick Jr. Games](http://www.nickjr.com/games/) or [PBS Kids Games](https://pbskids.org/games/) - *Games for Kids*
+* [Nick Jr. Games](http://www.nickjr.com/games/), [WBKidsGo](https://www.wbkidsgo.com/) or [PBS Kids Games](https://pbskids.org/games/) - *Games for Kids*
 * [Surrogate](https://www.surrogate.tv/) - *Remote Control Real Life Games* 
 * [RobotStreamer](https://robotstreamer.com/) - *Live Control Robots* 
 * [Free Rider HD](https://www.freeriderhd.com/) - *Draw / Race Bike Tracks*
