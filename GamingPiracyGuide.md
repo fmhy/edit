@@ -631,4 +631,4 @@
 
 ***
 
-# ► [Gaming Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25BA_gaming_tools)
+# ► [Gaming Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools)
