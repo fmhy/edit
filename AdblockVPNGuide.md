@@ -441,7 +441,7 @@
 * **[Surfshark](https://surfshark.com/)** - *[Pricing](https://i.imgur.com/YaiKjpX.png) / [More Info](https://i.imgur.com/IPBVPNA.png)*
 * **[Riseup](https://riseup.net/en/vpn)** - *Free VPN* 
 * **[WireGuard](https://www.wireguard.com/)** - *VPN Tunnel*
-* **[MOAG](https://moag.techtanic.pw/)** - *VPN Trial Generator*
+* **[MOAG](https://moag.techtanic.pw/)** - *VPN Trial Generator / [Avoid Zenmate](https://restoreprivacy.com/kape-technologies-owns-expressvpn-cyberghost-pia-zenmate-vpn-review-sites/)*
 * [Perfect Privacy](https://www.perfect-privacy.com/) - *[Pricing](https://i.imgur.com/Rtfwu2t.png) / [More Info](https://i.imgur.com/Y9MRLcg.png)*
 * [IVPN](https://www.ivpn.net/) - *[Pricing](https://i.imgur.com/Iq92wOO.png) / [More Info](https://i.imgur.com/8MDJoYQ.png) / [Free Trial](https://redd.it/nzjmqa)*
 * [Trust.Zone](https://trust.zone/) - *[Pricing](https://i.imgur.com/PsRa8GD.png) / [More Info](https://i.imgur.com/zryWzqX.png)*
