@@ -289,8 +289,8 @@
 * **[Awesome Music](https://github.com/ciconia/awesome-music)** - *Music Resource Index* 
 * **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)** - *Music Production Index* 
 * **[Hitsquad](http://www.hitsquad.com/smm/)** - *Audio Tools / Software Index* 
-* **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
-* **[iBroadcast](https://ibroadcast.com)**, [koel](https://koel.dev/) / [Docker](https://github.com/0xcaff/docker-koel), [Fidbak](https://fidbak.audio/), [MadSonic](https://www.madsonic.org/pages/index.jsp), [Navidrome](https://www.navidrome.org/), [Koozic](https://koozic.net/), [mStream](https://github.com/IrosTheBeggar/mStream), [Serviio](https://www.serviio.org/) or [Airsonic](https://airsonic.github.io/) - *Audio Server*
+* **[Audio Players / Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)** - *Organize & Play Audio Files*
+* **[Audio Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_servers)** - *Host & Play Audio Files via Server*
 * **[Tune My Music](https://www.tunemymusic.com/)** - *Transfer Music Library Between Services*
 * **[Audio Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_audio_software)** - *Audio Software Downloads*
 * **[Audio Editors / Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_editors)** - *Edit, Record & Create Audio*
@@ -1174,6 +1174,7 @@ General Reading Sites*
 * **[Optimize-Guide](https://rentry.co/mdl-optimize-guide)** - *Optimize Windows / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat)*
 * **[Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png)**, [2](https://i.imgur.com/A36Yd7F.png) 
 * [Windows 10 Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)
+* [Operating System Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_os_emulators) - *Emulate Alternate OS*
 * [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) / [GitHub](https://github.com/microsoft/PowerToys) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
 * [PCPartPicker](https://pcpartpicker.com/), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), [/r/buildapc](https://reddit.com/r/buildapc) or [NZXTBld](https://www.letsbld.com/) - *PC Building Sites / [Discord](https://discord.gg/buildapc)*
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - *PC Building Community*
@@ -1626,25 +1627,3 @@ General Reading Sites*
 ***
 
 ## ▷ [iOS Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_tools)
-
-
-***
-
-## ▷ OS Emulators
-
-* [Qemu](http://www.qemu-project.org/) - *OS Emulator & Virtualization*
-* [copy.sh](https://copy.sh/v86/), [OnWorks](https://www.onworks.net/), [simone.computer](https://simone.computer/#/webdesktops) or [Virtual Desktop](http://www.virtualdesktop.org/) - *Multiple OS Emulators*
-* [WinXP.now](https://winxp.now.sh/) - *Windows XP Browser Emulator*
-* [EmuOS](https://emupedia.org/beta/emuos/), [2](https://emupedia.net/beta/emuos/), [3](https://emuos.net/beta/emuos/), [4](https://emuos.org/beta/emuos/) - *Windows 95, 98 & ME Emulator*
-* [98.js](https://98.js.org/), [Rahul](https://rahul.io/) or [Packard Belle](https://packard-belle.netlify.com/) - *Windows 98 Emulator*
-* [Windows96.net](https://windows96.net/) - *Windows 96 Browser Emulator*
-* [Win95](https://win95.ajf.me/) - *Windows 95 Browser Emulator* 
-* [Windows93](http://www.windows93.net/) - *Windows 93 Browser Emulator / Games*
-* [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - *Run Classic Games / Apps In Browser* 
-* [Windows 1.01](https://classicreload.com/Windows-1-01.html) - *Windows 1.01 Browser Emulator* 
-* [RebornXP](https://rebornxp.js.org/) - *Windows XP Browser Emulator*
-* [SilveOS](https://www.silveos.com/), [AaronOS](https://aaronos.dev/), [Whimsy](https://whimsy.space/), [OS.JS](https://www.os-js.org/), [X-WebDesktop](https://oxoyo.co/X-WebDesktop-Vue/) or [jQuery Desktop](https://desktop.sonspring.com/) - *OS Browser Emulator*
-* [PCE.js](https://jamesfriend.com.au/pce-js/ibmpc-games/) - *PCDOS 5 Emulator* 
-* [Quantum Playground](http://www.quantumplayground.net/) - *Quantum Computer Simulator*
-* [BlueEdge](https://win11.blueedge.me/) - *Windows 11 Browser Simulator*
-* [DistroTest](https://distrotest.net/) or [JSLinux](https://bellard.org/jslinux/) - *Linux Browser Emulator*
