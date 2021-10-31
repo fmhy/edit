@@ -347,32 +347,32 @@
 ## ▷ Drama Streaming
 
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming) 
-* [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - *Movies / TV*
+* [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - *TV / Movies*
 * [KissAsian](https://kissasian.li/), [2](https://kissasian.ac/) - *TV*
 * [GoPlay](https://redd.it/723mtd) - *TV / [Discord](https://discord.gg/Gh44afE)*
-* [AsianCrush](https://www.asiancrush.com/) - *Movies / TV*
-* [DramaCool](https://dramacool.bid/), [dramacool9](https://www.dramacool9.co/) or [WatchAsian](https://watchasian.cc/) - *Movies / TV*
+* [AsianCrush](https://www.asiancrush.com/) - *TV / Movies*
+* [DramaCool](https://dramacool.bid/), [dramacool9](https://www.dramacool9.co/) or [WatchAsian](https://watchasian.cc/) - *TV / Movies*
 * [DramaDay](https://dramaday.net/) - *TV* 
-* [icdrama](http://www1.hkdrama.to/) - *Movies / TV* 
-* [FastDrama](http://fdrama.net/) - *Movies / TV*
-* [dramaz](http://dramaz.se/) - *Movies / TV*
-* [Asiaflix](https://asiaflix.app/) - *Movies / TV*
-* [qooxi](http://drama.qooxi.to/) - *Movies / TV* 
-* [GenMovies](https://genomovies.com/) - *Movies / TV*
-* [GenDrama](https://genodrama.com/) - *Movies / TV*
-* [asianload](https://asianload.cc/) - *Movies / TV*
-* [Viki](https://www.viki.com/) - *Movies / TV*
-* [KDramaHood](https://kdramahood.com/home2/) - *Movies / TV*
-* [movie22](https://mov21.zota.club/) - *Movies / TV*
+* [icdrama](http://www1.hkdrama.to/) - *TV / Movies* 
+* [FastDrama](http://fdrama.net/) - *TV / Movies*
+* [dramaz](http://dramaz.se/) - *TV / Movies*
+* [Asiaflix](https://asiaflix.app/) - *TV / Movies*
+* [qooxi](http://drama.qooxi.to/) - *TV / Movies* 
+* [GenMovies](https://genomovies.com/) - *TV / Movies*
+* [GenDrama](https://genodrama.com/) - *TV / Movies*
+* [asianload](https://asianload.cc/) - *TV / Movies*
+* [Viki](https://www.viki.com/) - *TV / Movies*
+* [KDramaHood](https://kdramahood.com/home2/) - *TV / Movies*
+* [movie22](https://mov21.zota.club/) - *TV / Movies*
 * [DramaNice](https://dramanice.so/) - *TV*
-* [MyAsianTV](https://www9.myasiantv.io/) - *Movies / TV*
-* [MKVDrama](https://mkvdrama.com/) - *Movies / TV*
-* [K-Vid](https://k-vid.co/) or [KShows](https://kshows.to/) - *Movies / TV*
-* [VoteDrama](https://votedrama.net/) - *Movies / TV*
-* [viewasian](https://viewasian.co/) - *Movies / TV* 
-* [bagikuy](https://bagikuy.com/) - *Movies / TV*
+* [MyAsianTV](https://www9.myasiantv.io/) - *TV / Movies*
+* [MKVDrama](https://mkvdrama.com/) - *TV / Movies*
+* [K-Vid](https://k-vid.co/) or [KShows](https://kshows.to/) - *TV / Movies*
+* [VoteDrama](https://votedrama.net/) - *TV / Movies*
+* [viewasian](https://viewasian.co/) - *TV / Movies* 
+* [bagikuy](https://bagikuy.com/) - *TV / Movies*
 * [encoretvb](https://www.encoretvb.com/english) - *TV*
-* [Kissasian.video](https://kissasian.video/) - *Movies / TV*
+* [Kissasian.video](https://kissasian.video/) - *TV / Movies*
 
 ***
 
