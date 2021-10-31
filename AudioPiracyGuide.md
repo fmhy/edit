@@ -51,6 +51,7 @@
 * [MP3 Quack](https://mp3quack.lol/) - *Browser Music*
 * [MP4Juice ](https://mp4juice.cc/) - *Browser Music*
 * [Cliggo](https://music.cliggo.com/) - *Browser Music*
+* [Mixupload](https://mixupload.com/) - *Browser Music*
 * [Vapor Archive](https://vaporarchive.neocities.org/) - *Vaporwave*
 * [hypem](https://hypem.com/popular) - *Rising*
 * [datpiff](https://www.datpiff.com/) - *Mixtapes*
