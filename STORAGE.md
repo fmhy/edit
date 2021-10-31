@@ -1028,7 +1028,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Minecraft Optimization Mods
 
-[OptiFine](https://optifine.net/), [Sodium](https://modrinth.com/mod/sodium) / [Extra](https://modrinth.com/mod/sodium-extra), [Phosphor](https://modrinth.com/mod/phosphor), [Indium](https://github.com/comp500/Indium/), [Hydrogen](https://modrinth.com/mod/hydrogen), [Caffeine](https://github.com/CaffeineMC), [Lithium](https://modrinth.com/mod/lithium), [Ares](https://www.aresclient.com/), [MinecraftTweaker](https://minecrafttweaker.net/)
+[OptiFine](https://optifine.net/), [Sodium](https://modrinth.com/mod/sodium) / [Extra](https://modrinth.com/mod/sodium-extra), [Phosphor](https://modrinth.com/mod/phosphor), [Indium](https://github.com/comp500/Indium/), [Hydrogen](https://modrinth.com/mod/hydrogen), [Caffeine](https://github.com/CaffeineMC), [Lithium](https://modrinth.com/mod/lithium), [Ares](https://www.aresclient.com/), [MinecraftTweaker](https://minecrafttweaker.net/), [Badlion Client](https://client.badlion.net/)
 
 ***
 
