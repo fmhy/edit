@@ -105,12 +105,11 @@
 * [Unchecky](https://unchecky.com/) - *Clears Software Installation Checkboxes*
 * [MCShield](https://www.mcshield.net/) - *Removable Drive Antivirus* 
 * [Should I Remove It?](https://www.shouldiremoveit.com/) - *Easily Find & Remove Adware, Spyware ect.* 
-* [Wise Anti-Malware](https://www.wisecleaner.com/wise-anti-malware.html) - *Anti-Malware*
 * [Rewind](https://github.com/Neo23x0/Rewind) - *Immediate Virus Infection Counter Measures*
 * [Spybot](https://www.safer-networking.org/products/spybot-free-edition/) or [SUPERAntiSpyware](https://www.superantispyware.com/free-edition.html) - *Anti-spyware*
 * [VT4Browsers](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions) - *Easily Scan Downloads*
-* [Any Run](https://app.any.run/), [Intezer Analyze](https://analyze.intezer.com/) or [Cuckoo](https://cuckoosandbox.org/) - *Malware Analysis Tool* 
-* [GetsUsp](https://www.mcafee.com/enterprise/en-us/downloads/free-tools/getsusp.html) - *Malware Detection*
+* [Any Run](https://app.any.run/), [Malware Initial Assessment](https://www.winitor.com/), [Intezer Analyze](https://analyze.intezer.com/) or [Cuckoo](https://cuckoosandbox.org/) - *Malware Analysis Tool* 
+* [GetsUsp](https://www.mcafee.com/enterprise/en-us/downloads/free-tools/getsusp.html) or [Wise Anti-Malware](https://www.wisecleaner.com/wise-anti-malware.html) - *Malware Detection*
 * [Safety Scanner](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download) or [Power Eraser](https://support.norton.com/sp/static/external/tools/npe.html) - *Malware Remover*
 * [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) - *Anti-Malware Stress Test*
 * [WireShark](https://www.wireshark.org/) - *Network Protocol Analyzer* 
@@ -128,6 +127,7 @@
 * [Scamalytics](https://scamalytics.com/ip), [IPSpamList](http://www.ipspamlist.com/)  or [IP Address Lookup](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/) - *IP Address Check*
 * [Virus Checker](https://add0n.com/virus-checker.html) - *Virus Check for Downloads* 
 * [VirusShare](https://virusshare.com/) - *Search / Share Malware Samples* 
+* [Bad Websites](https://github.com/elbkr/bad-websites) - *Phishing Site Index for Bots*
 * [Ransomwhere](https://ransomwhe.re/) - *Ransomware Tracker*
 * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - *Ransomware Identification Tool*
 * [SigThief](https://github.com/secretsquirrel/SigThief) - *Signature Test* 
