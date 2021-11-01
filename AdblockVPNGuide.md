@@ -399,12 +399,12 @@
 
 ## ▷ Email Services
 
+* **[Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_email_services)**
 * **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - *Create Temporary Email Addresses*
 * **[Have I been Pwned?](https://haveibeenpwned.com/)** or [GhostProject](https://ghostproject.fr/) - *Monitor Email Breaches*
 * [EmailPrivacyTester](https://www.emailprivacytester.com/) - *Email Privacy Tests* 
 * [Email Forwarding Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_forwarding) - *Hide Real Email Address'*
 * [Check-Mail](https://check-mail.org/free-email-validation-api/) or [Validator](https://www.validator.pizza/) - *Check Email Validity* 
-* [Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_email_services)
 * [OpenPGP](https://www.openpgp.org/) - *Email Encryption* 
 * [Anon Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_send_anonymous_emails) - *Send Anonymous Emails*
 * [Scaremail](https://github.com/bengrosser/scaremail) - *Disrupt NSA Email Surveillance / [Account Gen](https://bengrosser.com/projects/scaremail/scaremail-generator/)*
