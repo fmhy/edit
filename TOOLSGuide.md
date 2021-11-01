@@ -531,7 +531,7 @@
 * [TGCF](https://github.com/aahnik/tgcf) - *Telegram Message Forwarding*
 * [Userge](http://theuserge.tech/) - *Multi-Tool Telegram Bot*
 * [ChecklyBot](https://t.me/checklybot) - *Checklist Telegram Bot*
-* [Matrix Public Homeservers](https://publiclist.anchel.nl/) or [Conduit](https://gitlab.com/famedly/conduit) - *Matrix Home Servers* 
+* [Conduit](https://gitlab.com/famedly/conduit) - *Matrix Home Servers* 
 * [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) or [List of Matrix Servers](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html) - *Matrix Server List*
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - *Export Skype Chat Data to Readable Text*
