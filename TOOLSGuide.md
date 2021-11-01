@@ -458,8 +458,7 @@
 * **[WebOas.is](https://weboas.is/)**, [8bitdash](https://www.8bitdash.com/), [8Bitdashboard](https://8bitdashboard.com/) or [New Tab Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page) - *Custom Startpage / Dashboard* 
 * **[Internet Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_browser_tools)** - *Internet & Browser Privacy Tools* 
 * **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_managers)** - *Manage / Save Passwords*
-* **[Email Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_sites)** - *No Verification Required Email Sites* 
-* **[Privacy-Based Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_services)** - *Email Sites with a Focus on Privacy*
+* **[Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_services)** - *Email Sites with a Focus on Privacy*
 * **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - *Create Temporary Email Addresses*
 * **[Edu Email](https://i.imgur.com/pxBcRcZ.png)** - *How To Get Free EDU Email*
 * **[Site Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_site_development)** - *Site Development & Hosting Tools*
@@ -541,6 +540,7 @@
 * [IMumble](https://www.imumble.nl/) - *Voice Chat Server*
 * [Branch](http://branch.gg/) or [Gather](https://gather.town/) - *Virtual World Voice Chat*
 * [FireStorm Viewer](https://www.firestormviewer.org/) - *Virtual World Viewer*
+* [Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_sites) - *No Verification Required Email Sites*
 * [Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients) - *Send & Receive Mail*
 * [BeFree](https://beefree.io/templates/free/) - *Email Templates*
 * [FreeMail](https://extrassl.actalis.it/portal/uapub/freemail?lang=en) - *Free Mail Certificate*
