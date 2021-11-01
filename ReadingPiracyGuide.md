@@ -82,7 +82,6 @@
 * [openlibrary](https://openlibrary.org/) - *Books* 
 * [standardebooks](https://standardebooks.org) - *Books* 
 * [Manybooks](https://manybooks.net/)  - *Books*
-* [Bookwyrm's Bower](https://discord.gg/bower) - *Book Torrent Archive*
 * [BooksVooks](https://booksvooks.com/) - *Books*
 * [dpgroup](https://www.dpgroup.org/) - *Books / Magazines*
 * [16Chan Library](https://16chan.xyz/library/) - *Books*
