@@ -7,7 +7,6 @@
 **[Table of Contents](https://i.imgur.com/rmFqFQs.png)** - *For mobile users*
 
 ***
-***
 
 # ► Android Adblocking
 
@@ -176,6 +175,7 @@
 * [Shelter ](https://cgit.typeblog.net/Shelter/) or [Insular](https://gitlab.com/secure-system/Insular) - *Isolate / Clone Apps*
 * [MacroDroid](http://macrodroid.com/) - *Android Automation* 
 * [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) - *Gesture Controls*
+* [Naptime](https://play.google.com/store/apps/details?id=com.franco.doze) - *Accelerates Android Sleep Mode*
 * [APKUpdater](https://github.com/rumboalla/apkupdater) - *APK Updater*
 * [Adebar](https://codeberg.org/izzy/Adebar) or [OAndBackupX](https://github.com/machiav3lli/oandbackupx) - *Device Backup Tool*
 * [Migrate](https://play.google.com/store/apps/details?id=balti.migrate) - *Migration Tool / Root Required*
@@ -238,6 +238,7 @@
 * [Microsoft Edge Read Aloud](https://redd.it/l1fdh9) - *How to use Microsoft Read Aloud TTS on Android* 
 * [Copyhat](https://copyhat.com/) - *AI Writing Tool*
 * [Koler](https://github.com/Chooloo/koler) - *Dialer App*
+* [KONTXT](https://kontxt.com/kontxt-for-voice/). [2](https://play.google.com/store/apps/details?id=com.realnetworks.kontxt.voice&hl=en&gl=US) - *Preview Calls*
 * [SimpleMail](https://framagit.org/dystopia-project/simple-email) - *Email App* 
 * [BlitzMail](https://github.com/grote/BlitzMail) - *One Click Email App*
 * [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957) - *Disposable Email Client*
@@ -247,7 +248,7 @@
 * [Tasks](https://tasks.org/), [Any.do](https://www.any.do/), [Orgzly](https://github.com/orgzly/orgzly-android) or [Dailly](https://github.com/hydroxion/dailly/) - *To-Do App*
 * [Etar](https://github.com/Etar-Group/Etar-Calendar), [digical](https://digibites.nl/digical), [TimeBlocks](https://timeblocks.com/) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - *Calendar*
 * [unhabits](https://github.com/iSoron/uhabits) or [MiindLeak](https://www.mindleak.app/) - *Bad Habit Tracker*
-* [Forest](https://forestapp.cc/) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - *Productivity Booster*
+* [Forest](https://forestapp.cc/),  [minimalist phone](https://www.minimalistphone.com/) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - *Productivity Booster*
 * [AnyTracker](https://sites.google.com/view/anytracker), [2](https://anytracker.org/) - *Track Anything*
 * [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - *Food Product Ingredient Scanner*
 * [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html) - *Scan & Digitize Documents*
@@ -266,6 +267,7 @@
 * [PGS](https://www.pgsharp.com/) - *Modded Pokémon GO*
 * [schakal](https://www.schakal.ru/) - *Amazfit Bip Watchfaces*
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
+* [ChariFree](https://play.google.com/store/apps/details?id=com.charifree) - *Donate by Watching Ads*
 * [Appetize](https://appetize.io/) - *Run Native Mobile Apps in Browser*
 * [ROMphonix](http://162.154.76.208/) - *Old Mobile Firmware / [Discord](https://discord.com/invite/2GKuJjQagp)*
 * [IVTheme](https://www.ivtheme.com/) - *Android Flash Files*
@@ -555,8 +557,10 @@ RSS Player*
 * [Showly 2.0](https://github.com/michaldrabik/showly-2.0) or [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide/) - *Movie / TV Tracker* 
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) or [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - *Bilibili Client*
 * [NicoTap](https://play.google.com/store/apps/details?id=com.yurafuca.nicotap) - *Nico Nico Client*
+* [Anything to PiP](https://play.google.com/store/apps/details?id=com.vitolaminafra.imagetopip) - *Picture in Picture*
 * [SubHub](https://github.com/FunkyMuse/SubHub) - *Subtitle Downloader*
 * [Tunity](https://tunity.com/) - *Hear Any Muted TV*
+* [Stick Around](https://play.google.com/store/apps/details?id=com.stickaround.app) - *Check for Post Credit Scenes*
 
 ***
 
