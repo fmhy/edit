@@ -655,6 +655,7 @@
 * [MOVE! Coach](https://mobile.va.gov/app/move-coach) - *Weight Loss Program*
 * [Weight Loss Side Effects](https://weight-loss-side-effects.netlify.app/) - *Weight Loss Side Effect Mitigation*
 * [BodyVisualizer](https://bodyvisualizer.com/) - *Exercise Benefit Visualization*
+* [Muscleandstrength](https://muscleandstrength.com/) - *Workout Plans & Tools*
 * [/r/GainIt](https://www.reddit.com/r/gainit/) - *Healthy Weight Gain Subreddit*
 * [/r/Fexibility](https://www.reddit.com/r/flexibility/) - *Flexibility Subreddit*
 * [My Pacer](https://www.mypacer.com/) - *Fitness App / Pedometer*
