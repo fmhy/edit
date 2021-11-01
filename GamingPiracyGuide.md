@@ -28,7 +28,6 @@
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - *[Discord](https://discord.gg/693hNBdymb)*
 * [CPG](https://cpgrepacks.site/) - *[Discord](https://discord.gg/dtBSZ9N)*
 * [Darck Repacks](https://darckrepacks.com/) - *[Discord](https://discord.gg/5eRvDvy)*
-* [DLGames](https://dlgames.fun/)
 * [Torrminatorr](https://forum.torrminatorr.com/)
 * [SteamRIP](https://steamrip.com/) - *[Discord](https://discord.gg/hj8dU5BFHE)*
 * [KaOsKrew](https://www.kaoskrew.org/)
