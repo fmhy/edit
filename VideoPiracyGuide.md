@@ -370,6 +370,7 @@
 * [K-Vid](https://k-vid.co/) or [KShows](https://kshows.to/) - *TV / Movies*
 * [VoteDrama](https://votedrama.net/) - *TV / Movies*
 * [viewasian](https://viewasian.co/) - *TV / Movies* 
+* [ICDrama](http://icdrama.video/) - *TV / Movies*
 * [bagikuy](https://bagikuy.com/) - *TV / Movies*
 * [encoretvb](https://www.encoretvb.com/english) - *TV*
 * [Kissasian.video](https://kissasian.video/) - *TV / Movies*
