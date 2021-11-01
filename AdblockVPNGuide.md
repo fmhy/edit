@@ -208,9 +208,10 @@
 * [Scout](https://www.scout.tel/phone-number-lookup) - *Phone Number Lookup / Safety Check* 
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - *Get Telephone Carrier Data* 
 * [/r/Privacy](https://reddit.com/r/privacy) - *Privacy Discussion & News Subreddit*
-* [/r/DeGoogle](https://www.reddit.com/r/degoogle) - *Google Alternative Subreddit*
 * [/r/TheHatedOne](https://www.reddit.com/r/thehatedone) - *Privacy News & Tools Subreddit*
 * [/r/PrivacyToolsIO](https://www.reddit.com/r/privacytoolsIO) - *Privacy News & Tools Subreddit*
+* [/r/DeGoogle](https://www.reddit.com/r/degoogle) - *Google Alternative Subreddit*
+* [Unredacted Google Antitrust Filing](https://ufile.io/sr0k67vq)
 * [Privacy.com](https://privacy.com/) - *Make Secure Payments / US only* 
 * [OTPClient](https://github.com/paolostivanin/OTPClient) - *One-Time Password Client* 
 * [ctfs](https://github.com/ctfs/) - *Information Security Competition Writeups*
