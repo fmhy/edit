@@ -73,17 +73,7 @@
 * [JoyToKey](https://joytokey.net/) - *Controller Emulator*
 * [Lowkey](https://lowkey.gg/) - *Record / Screenshot Gameplay* 
 * [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
-* [Sym.gg](https://sym.gg/) - *Battlefield Info & Weapon Stats*
 * [Pokemon Typechart](https://pokemondb.net/type) - *Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)*
-* [u.gg](https://u.gg/), [MobaFire](https://www.mobafire.com/), [ProBuilds](https://www.probuilds.net/) or [LoLalytics](https://lolalytics.com/) - *League of Legends Build Guides & Tiers*
-* [LoL Math](https://lolmath.net/) - *League of Legends Build Calculator*
-* [League of Graphs](https://www.leagueofgraphs.com/) - *Champion Rankings*
-* [Rewind.lol](https://rewind.lol/) - *League of Legends Match History*
-* [Teemo](https://teemo.gg/) - *LoL, TeamFight & Wild Rift Models*
-* [Surrenderat20](https://www.surrenderat20.net/) - *League of Legends News*
-* [Project Era](https://erafn.glitch.me/#downloads) - *Play Old Fortnite Seasons*
-* [RoPro](https://ropro.io/), [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040) or [RoGold](https://discord.gg/XMHn9zV3UA)- *Enhance Roblox Website*
-* [RobloxThemes](https://github.com/christiankek/RobloxThemes) - *Themes for Roblox*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
 * [GameGuides](https://www.gamerguides.com/), [Retro Game Strategy Guides](https://archive.org/details/Tekken3PrimasOfficialStrategyGuide1998), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [GamePressure](https://www.gamepressure.com/) or [Samurai Gamers](https://samurai-gamers.com/) - *Strategy Guides & Walkthroughs*
 * [Before I Play](http://www.beforeiplay.com/) - *Tips for any Game* 
@@ -130,16 +120,26 @@
 * [BFStatus](https://www.bfstatus.com/) - *Battlefield Game Server Statuses*
 * [Mobalytics](https://mobalytics.gg/) - *Game Performance & Stats Analyzer*
 * [StatsVerse](http://statsverse.com/) - *Battlefield Leaderboards*
+* [Sym.gg](https://sym.gg/) - *Battlefield Info & Weapon Stats*
 * [Tracker.gg](https://tracker.gg/) - *Game Leaderboards & Stats*
 * [TrueGameData](https://truegamedata.com/) - *COD Leaderboards*
+* [u.gg](https://u.gg/), [MobaFire](https://www.mobafire.com/), [ProBuilds](https://www.probuilds.net/) or [LoLalytics](https://lolalytics.com/) - *League of Legends Build Guides & Tiers*
+* [LoL Math](https://lolmath.net/) - *League of Legends Build Calculator*
+* [League of Graphs](https://www.leagueofgraphs.com/) - *Champion Rankings*
+* [Rewind.lol](https://rewind.lol/) - *League of Legends Match History*
+* [Teemo](https://teemo.gg/) - *LoL, TeamFight & Wild Rift Models*
+* [Surrenderat20](https://www.surrenderat20.net/) - *League of Legends News*
 * [OP.GG](https://www.op.gg/) - *League of Legends Leaderboards & Stats*
 * [Porofessor](https://porofessor.gg/) - *Live League of Legends Game Stats*
 * [Dota2ProTracker](https://www.dota2protracker.com/) - *Dota 2 Stats Tracker*
+* [Project Era](https://erafn.glitch.me/#downloads) - *Play Old Fortnite Seasons*
 * [HaloDotAPI](https://developers.halodotapi.com/) - *Halo Stats, MOTD & UGC API*
 * [Online Fix](https://online-fix.me/) - *Online Game Cracks / [Discord](https://discord.gg/yExgFYncMD)* 
 * [Slippi](https://slippi.gg/) - *Super Smash Bros Melee Online* 
 * [Among Us Free Chat Unlocker](https://github.com/Vili1/Among-us-Free-Chat-unlocker/releases/) - *Among Us Chat Unlocker*
 * [Impostor](https://impostor.github.io/Impostor/) - *Among Us Private Server*
+* [RoPro](https://ropro.io/), [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040) or [RoGold](https://discord.gg/XMHn9zV3UA)- *Enhance Roblox Website*
+* [RobloxThemes](https://github.com/christiankek/RobloxThemes) - *Themes for Roblox*
 
 ***
 
