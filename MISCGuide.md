@@ -230,6 +230,7 @@
 * [Kamogo](https://www.kamogo.com/faq/) - *Useless Web Apps*
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - *Turn Screen into Strobe / Mood Light*
 * [Drinking Game Zone](https://drinkinggamezone.com/) - *Drinking Games Encyclopedia* 
+* [MakeMyCocktail](http://makemycocktail.com/) - *Create Custom Cocktails*
 * [Drinkify](http://drinkify.org/) - *Picks Drinks Based on Songs* 
 * [Activity Suggestion](https://www.activitysuggestion.com/), [Things to Do](https://randomthingstodo.com/) or [bored.solutions](https://bored.solutions/) - *Activity Suggestions* 
 * [Human Benchmark](https://humanbenchmark.com/) - *Brain Games & Cognitive Tests* 
