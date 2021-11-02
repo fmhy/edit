@@ -1507,7 +1507,7 @@ General Reading Sites*
 * [PDF Fixer](https://pdffixer.com/) - *Repair Damaged PDFs*
 * [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - *Download Protected GDrive PDFs*
 * [PDFCoffee](https://pdfcoffee.com/) - *Upload PDF, Word or PowerPoint Files*
-* [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - Fill & sign a PDF**
+* [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - *Fill & sign a PDF*
 * [megabasterd](https://github.com/tonikelope/megabasterd) - *MEGA Downloader / Uploader / Streaming / Quota Bypass*
 * [megatools](https://megatools.megous.com/) - *Mega.nz CLI*
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - *Mega Download Script*
