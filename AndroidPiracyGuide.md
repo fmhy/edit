@@ -622,12 +622,13 @@ RSS Player*
 * [Meridian](https://meridian.sparkes.zone/) - *10.0-10.3.3 Jailbreak* 
 * [doubleH3lix](https://github.com/tihmstar/doubleH3lix) - *10.x 64bit Jailbreak*
 * [kok3shi](https://dora2ios.web.app/kokeshiJB.html) - *9.3-9.3.5 Semi-tethered Jailbreak*
+* [IPA Apps](https://ipa-apps.me/) - *Jailbreak Tools & Apps*
 * [ap0110](https://ap0110.cf/) - *Autoexec Jailbreak*
 * [checkn1x](https://github.com/asineth0/checkn1x) - *Jailbreaking Tool*
 * [Fugu](https://github.com/LinusHenze/Fugu) - *Jailbreaking Tool*
 * [ipwndfu](https://github.com/axi0mX/ipwndfu) - *Jailbreaking Tool*
-* [rootlessJB](https://github.com/jakeajames/rootlessJB) - *Rootless iOS 12 Jailbreak*
-* [IPA Apps](https://ipa-apps.me/) - *Jailbreak Tools & Apps*
+* [n1ghtshade](https://github.com/synackuk/n1ghtshade/releases) - *32bit Jailbreaking Tool*
+* [rootlessJB](https://github.com/jakeajames/rootlessJB) - *Rootless iOS 12 Jailbreaking*
 * [Totally Not Spyware](https://totally-not.spyware.lol/) - *Safari Jailbreaking Tool*
 * [odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - *Checkra1n / Odysseyra1n Installation Distro / [GUI](https://github.com/23Aaron/Betelguese)*
 * [Kiiimo](http://cydia.kiiimo.org/ ) - *Cydia Repo for Pirated Packages/Tweaks*
