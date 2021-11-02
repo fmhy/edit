@@ -360,7 +360,7 @@
 * [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/) or [Strofe](https://www.strofe.com/) - *Simple Song Creator*
 * [WebSynths](http://www.websynths.com/) - *Browser-Based Instruments* 
 * [Sampulator](http://sampulator.com/) - *Create Music with Your Keyboard* 
-* [JummBox](https://jummbus.bitbucket.io/) - *Create Chiptune Melodies* 
+* [JummBox](https://jummbus.bitbucket.io/) or [Klystrack](https://github.com/kometbomb/klystrack) - *Create Chiptune Melodies* 
 * [danielx](https://danielx.net/composer/) - *Mario Paint Music Composer*
 * [Acid Machine 2](http://errozero.co.uk/acid-machine/) - *Acid Techno Machine*
 * [Roland 808303.studio](https://808303.studio/) - *Online Drum Machine / TB-303 Bass Synth* 
