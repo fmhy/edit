@@ -33,6 +33,7 @@
 * [gazee](https://hub.docker.com/r/linuxserver/gazee/) or [Komikku](https://gitlab.com/valos/Komikku) - *Manga & omic Reader / Manager*
 * [wikit](https://github.com/KorySchneider/wikit) - *Wikipedia Summaries from CLI*
 * [Distrochooser](http://distrochooser.de/?l=2) - *Linux Distro Chooser*
+* [Linux Filesystem Chart](https://cdn.discordapp.com/attachments/670326604261752843/904929766459736124/linux-01c.jpg) - *File System Guide*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old Linux Distro Archive*
 * [Linux x Technology](https://linuxdiscord.com/) or [Discord-Linux](https://discord.gg/discord-linux) - *Linux Chat Communities*
 * [Discover](https://github.com/trigg/Discover) - *Discord Linux Overlay*
