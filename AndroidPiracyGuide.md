@@ -652,7 +652,6 @@ RSS Player*
 * [MYbloXX](https://myxxdev.github.io/depictions/MYbloXXforiOS/MYbloXXforiOS.html) - *Adblocker*
 * [Sanitize](https://apps.apple.com/ca/app/sanitize-ad-blocker/id1048309542) - *Adblocker* 
 * [Privacy Pro](https://apps.apple.com/ca/app/privacy-pro-smartvpn/id1057771839) - *Ad/Trackers Blocker* 
-* [Lockdown Apps](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) - *Adblocker* 
 * [BlockParty](https://github.com/krishkumar/BlockParty) - *Adblocker* 
 * [Swab](http://swabthe.com/) - *Adblocker* 
 * [DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351) - *DNS Adblocker*
@@ -675,7 +674,7 @@ RSS Player*
 * [SecretPhotoAlbum++](https://apps.apple.com/us/app/secret-photo-album/id1459036428) - *Hide Photos Behind a Pin*
 * [Onion Browser](https://onionbrowser.com/) - *Onion Browser for iOS* 
 * [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337), [friendly](https://friendly.io/) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - *Privacy Based Browser* 
-* [Lockdown iOS](https://github.com/confirmedcode/Lockdown-iOS) - *iOS Firewall*
+* [Lockdown iOS](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) - *iOS Firewall / [GitHub](https://github.com/confirmedcode/Lockdown-iOS)*
 * [Anti-Social](https://apps.apple.com/us/app/faceblock-block-facebook/id1516200820) - *Block Social Media Trackers* 
 * [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669), [surespot](https://www.surespot.me/), [Status](https://status.im/), [Session](https://getsession.org/), [Confide](https://apps.apple.com/ca/app/confide-secret-messenger/id779883419) or [chatsecure](https://chatsecure.org/) - *Encrypted Messaging* 
 * [Syphon](https://syphon.org/) - *Privacy Based Matrix Client / [GitHub](https://github.com/syphon-org/syphon)*
