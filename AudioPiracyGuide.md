@@ -341,11 +341,11 @@
 * **[Audio Torrent Sites Search](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)**
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "audio"*
 * **[Redtopia](https://git.fuwafuwa.moe/cairn/Redtopia)** - *Redtopia Repository / FLAC*
-* **[the /kpg/ torrent](https://kpg.neocities.org/)** - *800gb+ Torrent File*
 * **[Lidarr](https://github.com/Lidarr/Lidarr)** - *Autodownload Music Torrents*
 * [Flactor](https://flactor.ru/) - *FLAC*
 * [Metal Tracker](https://en.metal-tracker.com/) - *Metal / MP3*
 * [RockBox](https://rawkbawx.rocks/) - *Metal / MP3*
+* [the /kpg/ torrent](https://kpg.neocities.org/) - *800gb+ K-Pop Torrent File*
 * [MixtapeTorrent](http://www.mixtapetorrent.com/) - *Mixtapes / MP3*
 * [SXSW Torrents](http://www.sxswtorrent.com/) - *SXSW Music Archive*
 * [ZOMB Torrents](http://zombtracker.the-zomb.com/) - *Music sharing community / forum*
