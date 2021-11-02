@@ -672,6 +672,7 @@
 * [RunnerUp](https://github.com/jonasoreland/runnerup) - *Run Tracker*
 * [Charity Miles](https://charitymiles.org/) - *Donate to Charity While Running / Biking*
 * [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - *Zombie Running Adventure Game*
+* [Benefits of Good Posture](https://youtu.be/OyK0oE5rwFY) - *Posture Importance Lesson*
 * [INCIDecoder](https://incidecoder.com/) - *Skincare Ingredient Lists*
 * [Dehydration Color Chart](https://i.imgur.com/PpDgo5j.png) - *Urine Color Dehydration Chart*
 * [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - *Remedies for Sores on Tongue*
