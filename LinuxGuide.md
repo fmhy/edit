@@ -40,7 +40,7 @@
 * [Tunic](https://github.com/mikeslattery/tunic) - *Install Linux Over or Alongside Windows*
 * [Darling](https://www.darlinghq.org/) - *Run MacOS Programs on Linux*
 * [InstantBox](https://github.com/instantbox/instantbox) - *Temporary Linux Systems*
-* [HowtoForge](https://www.howtoforge.com/) - *Linux Tutorials*
+* [HowtoForge](https://www.howtoforge.com/), [Erik Dubois](https://www.youtube.com/c/ErikDubois) or [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA ) - *Linux Tutorials*
 * [DotShare](http://dotshare.it/) - *Distro Config Index*
 * [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - *Arch Linux Installer*
 * [Free Cloud Linux Server](https://rentry.co/4sx64) - *Free Cloud Server Guide*
