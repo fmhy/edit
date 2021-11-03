@@ -261,8 +261,7 @@
 * [90.146.184.46](http://90.146.184.46/) - *MP3*
 * [212.159.121.149:85](https://212.159.121.149:85/) - *MP3*
 * [FLAC Attack](https://flacattack.net/) - *FLAC*
-* [Lossless-Music](https://lossless-music.org/) - *FLAC*
-* [Flaccat](https://flaccat.com/) - *FLAC*
+* [Lossless-Music](https://lossless-music.org/) or [Flaccat](https://flaccat.com/) - *FLAC*
 * [Losslessma](https://losslessma.net/) - *FLAC*
 * [SearchLossless](https://searchlossless.com/) - *FLAC*
 * [LosslessNews](https://flac1.hd24bit.com/) - *FLAC*
