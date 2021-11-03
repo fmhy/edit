@@ -438,6 +438,7 @@
 * [Synesthesia in Space](http://synesthesiagame.com/) - *Puzzle Platformer*
 * [Tales of Dorime](https://dorime.udany.net/) - *2D Platformer*
 * [3rd World Farmer](https://3rdworldfarmer.org/) - *Farm Sim*
+* [Operius](https://mors-games.itch.io/operius) - *Space Shooter*
 * [Orbity](https://orbity.io/game.php) - *Space Ship Launching Game* 
 * [Clicking Bad](http://clickingbad.nullism.com/) - *Clicker Game / Become Walter White* 
 * [The Wiki Game](https://www.thewikigame.com/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) or [WikiRacer](https://wikiracer.io/) - *Find the Shortest Path between Wiki Articles / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)*
