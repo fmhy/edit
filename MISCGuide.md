@@ -36,7 +36,6 @@
 * [Similar Sites](https://www.similarsites.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
 * [DirtyWarez](https://dirtywarez.org/) - *Ranks Sites*
 * [10 Words](https://discover.10words.io/) - *App / Tool Discovery*
-* [Internet Redirections](https://my-little-collections.super.site/) - *Site / Tool Index*
 * [pilssken](https://pilssken.neocities.org/warez/) - *Piracy Index* 
 * [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - *Piracy Index / [Warning](https://i.imgur.com/jtT9GDB.png)*
 * [Ripped Guide](https://ripped.guide/) - *Piracy Site / Tool Index*
