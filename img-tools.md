@@ -311,8 +311,7 @@
 
 * [imverter](https://www.imverter.com/) or [Vector Magic](https://vectormagic.com/) - *Online Image Converter* 
 * [ImageMagick](http://www.imagemagick.org/script/index.php) - *Image Editor / Converter*
-* [WEBPtoJPG](https://webptojpg.com/), [WEBPtoPNG](https://webptopng.com/), [WEBTtoGIF](https://webptogif.com/), [PNGtoJPG](https://pngtojpg.com/), [HEICtoJPG](https://heicjpeg.com/) - *Image Conversion Tools*
-* [WebP Converter](https://webp-converter.com/) - *Image File to WebP Converter*
+* [WEBPtoJPG](https://webptojpg.com/), [WEBPtoPNG](https://webptopng.com/), [WEBTtoGIF](https://webptogif.com/), [PNGtoJPG](https://pngtojpg.com/), [avif.io](https://github.com/justinschmitz97/avif.io/), [HEICtoJPG](https://heicjpeg.com/) or [WebP Converter](https://webp-converter.com/) - *Image Conversion Tools*
 * [PaperFile](http://www.paperfile.net/) or [StructuRise](http://structurise.com/screenshot-ocr/) - *Convert picture text to text file*
 * [Vectorizer](https://www.vectorizer.io/) or [AutoTracer](https://www.autotracer.org/) - *Image Vectorizer* 
 * [text2img](https://master.ayra.ch/text2img/) or [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image) - *Convert Text to Image*
