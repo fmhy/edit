@@ -430,6 +430,7 @@
 * [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) - *Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)*
 * [Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures) - *Interactive Text Adventures*
 * [Prosperity](http://www.playprosperity.ca/) - *Civilization Building RPG*
+* [BrainChef](http://brainchef.com/) - *Browser MMORPG*
 * [Amazeworld](http://www.amazeworld.com/) - *Interactive Webmazes*
 * [Little Alchemy](https://littlealchemy.com/) or [Little Alchemy 2](https://littlealchemy2.com/) - *Alchemy Game*
 * [Short Trip](https://alexanderperrin.com.au/paper/shorttrip/) - *Relaxing Cat Game* 
