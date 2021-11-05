@@ -147,6 +147,7 @@
 * [Torrent.nz](https://torrent.nz/) 
 * [TorrentProject2](https://torrentproject2.com/)
 * [ciligou0](http://ciligou0.com/) 
+* [TorrentDB](https://torrentdb.li/)
 * [Bittorrent.am](http://www.bittorrent.am/)
 * [0Mag](https://www.0mag.net/), [2](https://9mag.net/), [3](https://3mag.net/) 
 * [TorrentDownloads](https://www.torrentdownloads.pro/) 
