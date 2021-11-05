@@ -1492,7 +1492,7 @@ General Reading Sites*
 * [PDF Host](https://pdfhost.io/) - *Upload, Store and Share PDF Files* 
 * [PDFx](https://www.metachris.com/pdfx/) or [Tabula](https://tabula.technology/) - *Extract Info / URLs from PDF* 
 * [online2pdf](https://online2pdf.com/) - *Convert files to PDF*
-* [PDFConverter](https://www.pdfconverter.com/) - *Convert PDF Files* 
+* [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/ ) - *Convert PDF Files* 
 * [Adobe Compress PDF](https://www.adobe.com/acrobat/online/compress-pdf.html) - *PDF Compressor*
 * [Adobe Word Converter](https://www.adobe.com/acrobat/online/word-to-pdf.html) - *Convert Word Files to PDF*
 * [Adobe Excel to PDF](https://www.adobe.com/acrobat/online/excel-to-pdf.html) - *Convert Excel Files to PDF*
