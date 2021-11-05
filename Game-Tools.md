@@ -201,7 +201,7 @@
 * [Free Minecraft Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_servers) - *Host Free Minecraft Servers*
 * [GeyserMC](https://geysermc.org/) - *Join Minecraft Java Servers with Bedrock Client / [Consoles](https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles)* 
 * [CraftyControl](https://craftycontrol.com/) or [Fork](https://www.fork.gg/) - *Minecraft Server Manager*
-* [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - *Scan Minecraft Server Info*
+* [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) or [The Ether Project](http://theetherproject.me/) - *Minecraft Server Info*
 * [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization:zap:.283181/) - *Paper / Spigot Server Optimization Guide / Use Paper*
 * [mcsrvstat](https://mcsrvstat.us/) - *Server Status Updates*
 * [Salwyrr Launcher](https://www.salwyrr.com/) or [MultiMC5-Cracked](https://github.com/AfoninZ/MultiMC5-Cracked) - *Free Premium Minecraft Launchers*
