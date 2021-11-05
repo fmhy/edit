@@ -473,6 +473,7 @@
 * [nooooooooooooooo.com](http://www.nooooooooooooooo.com/) - *Vader NO Button*
 * [Make-A-Wish Foundation](https://discord.gg/pZZ3STQZ9Y) - *100% Real Make-A-Wish*
 * [Is It A Cat?](https://isitacat.com/) - *Cat Image Detector* 
+* [Is It Christmas?](https://isitchristmas.com/) - *Find Out if it's Christmas*
 * [The.Matrix-ASCII](http://takeovertheworld.org/matrix/) - *The Matrix Encoded in Text*
 * [sCandyBars](https://scandybars.com/) - *Candy Bar Photo Blog*
 * [Hobune](https://hobune.stream/) - *Deleted YouTube Video Archive*
@@ -867,7 +868,7 @@
 * [Save-Data: On](https://www.daniel.priv.no/web-extensions/save-data.html) - *Auto-Enable Data Savings Mode*
 * [Auto Tab Discard](https://add0n.com/tab-discard.html), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs), [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) or [The Great Suspender](https://github.com/aciidic/thegreatsuspender-notrack) - *Discard Inactive Tabs to Reduce Memory / CPU Usage*
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - *Temporarily Snooze Tabs* 
-* [OneTab](https://www.one-tab.com/), [Better OneTab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg) or [TabMerger](https://lbragile.github.io/TabMerger-Extension/) - *Merge & Organize Tabs* 
+* [OneTab](https://www.one-tab.com/) or [TabMerger](https://lbragile.github.io/TabMerger-Extension/) - *Merge & Organize Tabs* 
 * [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn) or [Tabli](https://www.gettabli.com/) - *Tab Manager* 
 * [Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups) or [Acid Tabs](https://github.com/jdhayford/acid-tabs-extension) - *Group Tabs* 
 * [Tab for a Cause](https://tab.gladly.io/) - *New Tabs = Charity Donation*
@@ -886,7 +887,6 @@
 * [Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - *Download Manager Extensions*
 * [Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - *Video Download Managers*
 * [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - *Play Videos in Theater Mode*
-* [Google Meet Virtual Backgrounds](https://chrome.google.com/webstore/detail/virtual-backgrounds-for-g/edkljafinkpeoglndilllgfnailhkocn) - *Google Meet Backgrounds*
 * [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Audio Recorder*
 * [Mute Tab](https://mybrowseraddon.com/mute-tab.html) - *Easily Mute All Tabs*
 * [Web-Scrobbler](https://web-scrobbler.com/) - *Scrobble with Last.fm, Libre.fm, ect.*
@@ -1024,7 +1024,7 @@
 * [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - *Quickly Enable / Disable Chrome Extensions*
 * [CRX Viewer](https://github.com/Rob--W/crxviewer) - *View Extension Source Code* 
 * [Tabji](https://tabji.link/) or [MarvellousSuspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - *Tab Suspender*
-* [Dark Mode](https://chrome.google.com/webstore/detail/dark-mode/declgfomkjdohhjbcfemjklfebflhefl) - *Dark Mode*
+* [Chrome Amoled](https://github.com/AlmightyJack/Chrome-Amoled-Extension) or [Dark Mode](https://chrome.google.com/webstore/detail/dark-mode/declgfomkjdohhjbcfemjklfebflhefl) - *Dark Mode*
 * [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - *Picture-in-Picture Mode*
 * [OVC](https://chrome.google.com/webstore/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - *Video Controller*
 * [Audio Channel](https://chrome.google.com/webstore/detail/audio-channel/hafdgamhnmiioimpcdhhbhgcjndgmphd) - *Tab Audio Manager*
@@ -1041,6 +1041,7 @@
 * [Toby](https://www.gettoby.com/) or [Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - *Tab Manager*
 * [Dualless](https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd) or [Tab Resize](https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc) - *Split Browser Window* 
 * [chromewm](https://gitlab.com/EduCampi/chromewm) - *Tile Windows / Emulate Workspaces*
+* [Better OneTab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg) - *Merge & Organize Tabs*
 * [Popup Tab Switcher](https://chrome.google.com/webstore/detail/popup-tab-switcher/cehdjppppegalmaffcdffkkpmoflfhkc) - *Improved Tab Switching*
 * [Go Back in Time](https://chrome.google.com/webstore/detail/go-back-in-time/hgdahcpipmgehmaaankiglanlgljlakj) - *View Archived / Cached Webpages*
 * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en) - *Image / Video Album Downloader / [Script](https://openuserjs.org/scripts/indream/DownAlbum)* 
@@ -1053,6 +1054,7 @@
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej) - *Discover Similar Webpages* 
 * [adam:ONE Assistant](https://chrome.google.com/webstore/detail/adamone%C2%AE-assistant/fdmpekabnlekabjlimjkfmdjajnddgpc?hl=en) - *Find Web Site Dependencies*
 * [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - *View Extension Source Code* 
+* [Google Meet Virtual Backgrounds](https://chrome.google.com/webstore/detail/virtual-backgrounds-for-g/edkljafinkpeoglndilllgfnailhkocn) - *Google Meet Backgrounds*
 * [NicoNico SPEENYA](https://github.com/chimerast/niconico-speenya) - *Presentation Style Comments*
 * [Current Moon Phase](https://chrome.google.com/webstore/detail/current-moon-phase/ippnbhhbamibfpljlfmgogaondodicgi) - *Current Moon Phases*
 * [Nicosapo](https://github.com/yurafuca/nicosapo) - *Add Features to Nico Nico*
