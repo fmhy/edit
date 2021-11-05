@@ -462,6 +462,7 @@
 * [DudeStream](http://dudestream.com/) - *Sports*
 * [SummerLivestream](http://summerlivestream.com/) - *Sports*
 * [Cricworld](http://cricworld.club/) - *Sports*
+* [CricHD.tv](https://web.crichd.tv/) - *Sports*
 * [UFCKhabib](http://ufckhabib.com/) or [NBATVSport](http://nbatvsport.com/) - *Sports*
 * [6Streams](http://6streams.tv/) - *Sports*
 * [NodelayTV](http://nodelaytv.pw/) - *Sports*
