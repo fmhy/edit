@@ -267,6 +267,8 @@
 * [LosslessNews](https://flac1.hd24bit.com/) - *FLAC*
 * [FLAC World](http://flac.world/) - *FLAC*
 * [Music HiRes](https://music-hires.blogspot.com/) - *FLAC*
+* [FLAC.xyz](http://flac.xyz/) - *FLAC*
+* [Lossless-FLAC](https://lossless-flac.com/) - *FLAC*
 * [DiscogC](https://www.discogc.com/) - *FLAC*
 * [LosslessAlbums](https://losslessalbums.club/) or [HDMusic](https://hdmusic.cc/) - *FLAC*
 * [ubdn](http://ubdn.me/) - *MP3 / FLAC* 
@@ -294,6 +296,7 @@
 * [Take Metal](http://takemetal.org/) - *Metal / MP3*
 * [GetMetal Club](https://getmetal.club/) - *Metal / MP3 / FLAC* 
 * [Me-4U](https://me-4u.com/index.php) - *Metal / MP3*
+* [Metalminos](https://metalminos.net/) - *Metal / MP3*
 * [HeavyMetalRarities](https://heavymetalrarities.com/) - *Metal / MP3*
 * [The Last Disaster](https://thelastdisaster.org/) - *Metal / Hardcore / Rock / MP3 / FLAC*
 * [Sophie's Floorboard](https://sophiesfloorboard.blogspot.com/) - *Hardcore / MP3*
