@@ -780,8 +780,9 @@ RSS Player*
 * [AppValley](https://www.appvalley.vip/) - *Tweaked App Store*
 * [Tutubox](https://tutubox.io/) - *Tweaked Apps Store* 
 * [iPAGarage](https://drive.google.com/drive/mobile/folders/1SxmAaB_dIswVsrKqtxOhymati-HaLYTT?usp=sharing) - *Community Based Tweaked/Hacked iOS App Library / [Twitter](https://twitter.com/ipagarage/)*
-* [Cydia](https://cydia.saurik.com/) - *App Store / [Free Paid Apps](https://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown)*
+* [Cydia](https://cydia.saurik.com/) - *App Store / [Paid Apps](https://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown) / [Updates](https://t.me/cydiaupdate)*
 * [BuildStore](https://builds.io/) - *App Store*
+* [AppStore](https://t.me/iOSAppsFree) - *Tweaked Apps*
 * [AltStore](https://altstore.io/) - *App Store / [Repo View](https://altsource.by.lao.sb/browse/) / [AltDaeomon](https://repo.dynastic.co/package/altdaemon)*
 * [ioshaven](https://ioshaven.com/apps) - *App Store* 
 * [Signulous](https://www.signulous.com/) - *App Store / Sideloading*
