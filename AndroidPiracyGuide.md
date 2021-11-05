@@ -610,7 +610,6 @@ RSS Player*
 * [/r/sideloaded](https://reddit.com/r/sideloaded) - *Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)*
 * [Sideloadly](https://iosgods.com/topic/130167-windowsmacosm1ios-15-introducing-sideloadly-working-cydia-impactor-alternative/) , [ReProvision Reborn](https://repo.packix.com/package/jp.soh.reprovision) / [GitHub](https://github.com/sohsatoh/ReProvision-Reborn) or [iPAWiND](https://ipawind.com/) - *Sideloading Tool*
 * [IPSW](https://ipsw.me/) - *Provides Jailbreak firmware*
-* [Julioverne](https://julio.hackyouriphone.org/) - *Jailbreaking Tools* 
 * [checkra1n](https://checkra.in/) - *5s - X Jailbreak*
 * [Taurine](https://taurine.app/) - *14-14.3 Semi-Untethered Jailbreak*
 * [Fugu14](https://github.com/LinusHenze/Fugu14) - *14.3-14.5 Untethered Jailbreak (Incomplete)*
@@ -624,6 +623,8 @@ RSS Player*
 * [kok3shi](https://dora2ios.web.app/kokeshiJB.html) - *9.3-9.3.5 Semi-tethered Jailbreak*
 * [IPA Apps](https://ipa-apps.me/) - *Jailbreak Tools & Apps*
 * [ap0110](https://ap0110.cf/) - *Autoexec Jailbreak*
+* [IPACandy](https://ipacandy.com/) - *Jailbreaking Tools*
+* [Julioverne](https://julio.hackyouriphone.org/) - *Jailbreaking Tools* 
 * [checkn1x](https://github.com/asineth0/checkn1x) - *Jailbreaking Tool*
 * [Fugu](https://github.com/LinusHenze/Fugu) - *Jailbreaking Tool*
 * [ipwndfu](https://github.com/axi0mX/ipwndfu) - *Jailbreaking Tool*
