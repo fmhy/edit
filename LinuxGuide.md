@@ -144,7 +144,6 @@
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - *VPN Tunnel*
 * [Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html) - *Linux SSL VPN Server*
 * [Howdy](https://github.com/boltgolt/howdy) - *Linux Facial Authentication*
-* [DNS66](https://jak-linux.org/projects/dns66/) - *DNS Adblocker*
 * [SShuttle](https://github.com/sshuttle/sshuttle) - *Proxy Server*
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - *Arch Linux base with Deluge, Privoxy & OpenVPN*
 * [Spotify-Adblock](https://github.com/abba23/spotify-adblock) - *Linux Spotify Adblocker*
