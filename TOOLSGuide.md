@@ -1194,9 +1194,8 @@ General Reading Sites*
 * [Easy2Boot](https://www.easy2boot.com/) - *Boot Directly from ISO's* 
 * [balenaEtcher](https://balena.io/etcher) - *Flash OS Image SD / USB*
 * [InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB) - *Install Windows without USB*
-* [NTLite](https://www.ntlite.com/) - *Windows Image Installation Manager*
-* [MSMG Toolkit](https://msmgtoolkit.in/?i=1) - *Custom ISO Creator*
-* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) or  [EasyBCD](https://neosmart.net/EasyBCD/) - *Bootloader / [Config](https://mackie100projects.altervista.org/)*
+* [NTLite](https://www.ntlite.com/) or [MSMG Toolkit](https://msmgtoolkit.in/?i=1) - *Custom ISO Creator*
+* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) or [EasyBCD](https://neosmart.net/EasyBCD/) - *Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - *Preinstallation Environment* 
 * [CD Key Reader](http://www.cathonian.com/software/cd-keyreader/) - *Find Key used to Install Windows*
 * [Windows XP Service Pack 4](https://www.majorgeeks.com/files/details/windows_xp_service_pack_4_unofficial.html) - *Windows XP Unofficial Service Pack 4 / [Drive](https://drive.google.com/drive/folders/1Uh0VYjq1hcd4oY_zNzEqAar1m4NO2uTC?usp=sharing)*
