@@ -24,6 +24,7 @@
 * **[Soap2Day](https://soapgate.org/)** - *Movies / TV*
 * **[WebOas.is](https://weboas.is/stream/)** - *Movies* 
 * **[M4uFree](https://ww1.m4ufree.com)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)*
+* [EE3](https://ee3.me/) - *Movies / Invite Code: mpgh*
 * [C1NE](https://c1ne.co/) - *Movies / TV* 
 * [VikV](https://vikv.net/), [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
 * [TheFlix](https://www.theflix.to/) - *Movies / TV* 
@@ -79,7 +80,7 @@
 * [iMovies](https://www.imovies.cc/) - *Movies / TV / Anime*
 * [AllMoviesForYou](https://allmoviesforyou.co/) - *Movies / TV* 
 * [FlixGo](https://flixgo.me/) - *Movies / TV*
-* [1movies](https://ww2.1movies.is/), [CouchTuner](https://ww1.couchtuner.space/), [Real-Primewire](https://real-primewire.club/) or [New-Primewire](https://ww1.new-primewire.com/) - *Movies / TV / Anime*
+* [1movies](https://ww2.1movies.is/), [Real-Primewire](https://real-primewire.club/) or [New-Primewire](https://ww1.new-primewire.com/) - *Movies / TV / Anime*
 * [Vmovee HD](https://vmoveehd.com/) - *Movies / TV*
 * [VidStore](https://stream.vidzstore.com/) - *Movies*
 * [IAmDenzen](https://www.iamdenzen.com/) - *Movies / TV / Anime*
@@ -240,7 +241,7 @@
 * **[TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)**
 * **[Noxx](https://noxx.is)** - *TV*
 * **[GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search)** - *TV / Anime*
-* **[CouchTuner](https://www.couchtuner.host/)** - *TV* 
+* **[CouchTuner](https://www.couchtuner.show/)** - *TV* 
 * [MobileTVShows](https://www.mobiletvshows.net/) or [TVSeries](https://www.tvseries.in/) - *TV / Anime*
 * [SRSOne](https://srsone.top/) - *TV / Anime*
 * [OnlySeries](https://onlyseries.net/) - *TV*
@@ -524,6 +525,7 @@
 * [DDLBase](https://ddlbase.net/) - *Movies / TV*
 * [megaDDL](https://megaddl.co/) - *Movies / TV*
 * [Movies Ni Pipay](https://moviesnipipay.me/) - *Movies / TV*
+* [EE3](https://ee3.me/) - *Movies / Invite Code: mpgh*
 * [Reqzone](https://reqzone.com/) - *Movies / TV*
 * [HDPopcorns](https://hdpopcorns.blog/) - *Movies*
 * [FullSeasonsTv](https://fullseasonstv.com/) - *TV*
@@ -667,6 +669,7 @@
 * [NoobSubs](https://noobsubs.com/) - *Sub / Dub / [Drive](https://noobftp1.noobsubs.com/), [2](https://noobftp2.noobsubs.com/)*
 * [AnimeLand](https://www.animeland.us/) - *Dub*
 * [AnimeSub](https://animesub.in/) - *Sub / Dub*
+* [Anime Collection (15Tb)](https://drive.google.com/drive/folders/1vSdJo_OrJNgVIRYsvTwR-PeLyM8L-V0M) - *Sub / Dub*
 * [DarkLegends](https://darklegends60mb.org/) - *Sub*
 * [SSAnime](https://ssanime.ga/) - *Sub*
 * [Kayoanime](https://kayoanime.com/) - *Sub / Dub / [Telegram](https://t.me/Kayoanime)*
