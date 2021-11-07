@@ -1535,6 +1535,7 @@ Add the following commands to a search to manually scrape each site.
 * [SteamCrackStatus](https://steamcrackedgames.com/) / [Discord](https://discord.com/invite/hrCtqcyHKw)
 * [/r/SteamCrackedGames](https://reddit.com/r/SteamCrackedGames)
 * [CrackSnoop](https://github.com/CrackSnoop/cracksnoop)
+* [GameStatus](https://gamestatus.info/)
 
 ***
 
