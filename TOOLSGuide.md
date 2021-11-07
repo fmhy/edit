@@ -1141,7 +1141,7 @@ General Reading Sites*
 * [GeoSocial Footprint](http://geosocialfootprint.com/) or [tinfoleak](https://tinfoleak.com/) - *View Your Geosocial Footprint* 
 * [TwiMap](https://twimap.com/) - *Find Twitter Users Near You* 
 * [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) or [Invidition](https://codeberg.org/Booteille/Invidition) - *Redirects Twitter to Frontend*
-* [Yotter](https://yotter.kavin.rocks/) - *Twitter Frontend* 
+* [Yotter](https://yotter.kavin.rocks/) or [nitter](https://nitter.net/) - *Twitter Frontend* 
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) or [Forget](https://forget.codl.fr/) - *Twitter Auto Post Delete*
 * [MegaBlock](https://megablock.xyz/) - *Easily Block Twitter Users & Tweets*
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - *Delete Twitter Likes / Favorites* 
