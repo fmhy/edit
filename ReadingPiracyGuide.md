@@ -36,6 +36,7 @@
 * [LoudLit](http://loudlit.org/) 
 * [celz](https://celz.ru/)
 * [Read For Me](https://www.readsforme.com/) 
+* [DigitalBook](https://www.digitalbook.io/) 
 * [Librivox](https://librivox.org/)  
 * [AudioBB](https://audiobb.com/)
 * [AppAudiobooks](https://appaudiobooks.com/)
@@ -140,6 +141,7 @@
 * [JustFreeBooks](https://www.justfreebooks.info/) - *Books* 
 * [eBook Junkie](https://www.ebookjunkie.com/) - *Books*  
 * [Sharing eBook](https://www.sharingebook.com/) - *Books* 
+* [DigitalBook](https://www.digitalbook.io/) - *Books*
 * [FeedBooks](http://m.feedbooks.com/publicdomain) - *Books*
 * [Index of Books](http://hoard.billbert.co/Books/) - *Books*
 * [eBook Lobby](http://www.ebooklobby.com/) - *Books*  
