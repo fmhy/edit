@@ -102,6 +102,7 @@
 * [Web Dev Courses](https://drive.google.com/drive/folders/17nOoned_J-RzAlCXaHEcEvdQC3LDOCC0) - *Web Development Courses*
 * [UI & Web Design using Adobe Illustrator C](https://mega.nz/folder/DihiHYYJ#qwDp56twKmwPdDMqGR_kLA) - *UI & Webdesign Course*
 * [Web Skills](https://andreasbm.github.io/web-skills/) - *Web Development Guides*
+* [666GB Devil Collection](https://mega.nz/folder/7HRiUb7Q#xXXnIdhGxuPwxtz99BhPpg) - *Web App Development Courses*
 * [WeCreators](https://www.wecreators.co/creators-tools) - *Site Development / Influencer Courses*
 * [How-to Host Questionable Websites](https://weboas.is/media/host.png) - *Guide / [PDF](https://weboas.is/media/host.pdf)*
 * [Learn Git Branching](https://learngitbranching.js.org/) - *Interactive Git Branching Guide*
