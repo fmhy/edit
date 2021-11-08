@@ -109,7 +109,7 @@
 * [Free GoG PC Games](https://freegogpcgames.com/)
 * [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
-* [Tiny-Repacks](https://www.tiny-repacks.win
+* [Tiny-Repacks](https://www.tiny-repacks.win)
 * [Ali213](https://ali213.net/) - *May Require VPN / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Game Search](https://idleendeavor.github.io/gamesearch/) - *Game Torrent Search Engine*
 
