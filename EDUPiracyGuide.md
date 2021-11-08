@@ -116,7 +116,7 @@
 * [downloadly](https://downloadly.ir/) - *Courses*
 * [Coursed](https://coursed.co/) - *Courses*
 * [11k+ Courses SpreadSheet](https://docs.google.com/spreadsheets/d/1vazMlMWnI7NxVZcfgpABzCFFEClMjZYUgDk40pdPpTQ/) - *Courses*
-* [1.2TB Courses](https://mega.nz/folder/9nQE2LoL#dpdu6pI4AyjaMTgM__Mvwg) - *Courses*
+* [1.3TB Courses](https://mega.nz/folder/9nQE2LoL#dpdu6pI4AyjaMTgM__Mvwg) - *Courses*
 * [OnlineCourseBay](https://onlinecoursebay.com/) - *Courses* 
 * [CoursesDaddy](http://coursesdaddy.com/) - *Courses* 
 * [Course Drive](https://coursedrive.org/) - *Courses* 
@@ -155,6 +155,7 @@
 * [learningDL](https://learningdl.net/) - *Courses / Leech required* 
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - *Courses / Tutorials* 
 * [FreetutsDownload.com](https://freetutsdownload.com/) - *Courses / GDrive Host* 
+* [Cisco Collection](https://mega.nz/folder/909TVSZQ#5mphhTKMGhOZuZcr0jXt2Q) - *Courses*
 * [iTunes U](https://archive.org/details/@kyndigs) - *Lectures*
 * [University of Waterloo](https://student.cs.uwaterloo.ca/~cs247/current/) - *CS Resources / Courses*
 * [Masterclass 63 Pack](https://mega.nz/folder/HxFghIbS#rFqH402PoVDwHW_XEtN1QQ) - *Masterclass Courses / Drive*
@@ -179,6 +180,7 @@
 * [CourseForFree](https://courseforfree.com/) - *Udemy Courses*  
 * [Download Online Tutorials Free](https://download.howtofree.org/) - *Udemy Courses* 
 * [Udemy Free Course](https://t.me/udemy_free_cource) - *Udemy Courses* 
+* [666GB Devil Collection](https://mega.nz/folder/7HRiUb7Q#xXXnIdhGxuPwxtz99BhPpg) - *Web App Development Courses*
 * [6.04 TB Paid [C]ourses](https://mega.nz/folder/vRhSiagQ#H_G_aUZNrbLE5fPtTjPoeQ/folder/TAhQRSqK) - *Marketing Courses / Drive*
 * hackingworld.best - [Marketing](https://mega.nz/folder/eeIzlAjL#zGa0iHkQJu0JmP4BayAJ3A) / [IT](https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg)
 * [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
