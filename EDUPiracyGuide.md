@@ -161,7 +161,8 @@
 * [LyndaFree](https://t.me/lyndafree) - *Lynda Courses / Telegram*
 * [BestWSODownload](https://www.bestwsodownload.com/) - *WSO Courses*
 * [AirVibe](https://www.airvibe.me/) - *Udemy Courses*
-* [FreeTutorialsEU](https://www.freetutorialseu.com/) - *Udemy Courses*
+* [Udemy Courses Rentry](https://rentry.co/ecg43) - *Udemy Courses*
+* [FreeTutorialsEU](https://www.freetutorialseu.com/) - *Courses*
 * [UdemyKing](https://t.me/udemyking1 ) - *Udemy Courses*
 * [UFC Gdrive Factory!](https://telegram.me/joinchat/SSWKbEf8mVNBvgam) - *Udemy Courses*
 * [EZdemy](https://t.me/ezudemy) - *Udemy Courses*
