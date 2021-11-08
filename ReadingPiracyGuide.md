@@ -30,6 +30,7 @@
 * [Litube](https://litube.net/) - *Listen Online*
 * [AudioBook Reviews](https://audiobookreviews.com/) 
 * [xAudiobooks](https://xaudiobooks.com/)
+* [500GB+ Audiobooks Collection](https://mega.nz/folder/G5MQDb5K#lJ9F3clmlPVtSaaa7-5l6g)
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks) 
 * [Golden Audiobooks](https://goldenaudiobooks.com/)
 * [LoudLit](http://loudlit.org/) 
