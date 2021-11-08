@@ -80,7 +80,7 @@
 * [iMovies](https://www.imovies.cc/) - *Movies / TV / Anime*
 * [AllMoviesForYou](https://allmoviesforyou.co/) - *Movies / TV* 
 * [FlixGo](https://flixgo.me/) - *Movies / TV*
-* [1movies](https://ww2.1movies.is/), [Real-Primewire](https://real-primewire.club/) or [New-Primewire](https://ww1.new-primewire.com/) - *Movies / TV / Anime*
+* [1movies](https://ww2.1movies.is/), [Real-Primewire](https://real-primewire.club/), [CouchTuner](https://couchtuner.fashion/) or [New-Primewire](https://ww1.new-primewire.com/) - *Movies / TV / Anime*
 * [Vmovee HD](https://vmoveehd.com/) - *Movies / TV*
 * [VidStore](https://stream.vidzstore.com/) - *Movies*
 * [IAmDenzen](https://www.iamdenzen.com/) - *Movies / TV / Anime*
