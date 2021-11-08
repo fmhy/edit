@@ -222,7 +222,7 @@
 
 #### BetterDiscord Tools
 
-[Plugins](https://betterdiscord.app/plugins), [2](https://mwittrien.github.io/) / [Addons](https://github.com/QbDesu/BetterDiscordAddons) / [Themes](https://www.limeshark.dev/editor), [2](https://bdeditor.dev/), [3](https://theme.codedotspectra.me/), [4](https://0x71.cc/bd/theme/) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd), [2](https://discord.gg/sbA3xCJ) / [Animated PFP](https://discord.gg/xzwKqwvQcP) / [Alt DevilBroPlugins](https://github.com/BD-MemorySeal/DevilBro-Alternatives/tree/distribution) / [Discord](https://discord.gg/6hkKNa4MRN) / [Account Switcher](https://github.com/l0c4lh057/AccountSwitcher)
+[Plugins](https://betterdiscord.app/plugins) / [Addons](https://github.com/QbDesu/BetterDiscordAddons) / [Themes](https://www.limeshark.dev/editor), [2](https://bdeditor.dev/), [3](https://theme.codedotspectra.me/), [4](https://0x71.cc/bd/theme/) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd), [2](https://discord.gg/sbA3xCJ) / [Animated PFP](https://discord.gg/xzwKqwvQcP) / [Alt DevilBroPlugins](https://github.com/BD-MemorySeal/DevilBro-Alternatives/tree/distribution) / [Discord](https://discord.gg/6hkKNa4MRN) / [Account Switcher](https://github.com/l0c4lh057/AccountSwitcher)
 
 ***
 
@@ -366,7 +366,7 @@
 
 #### Custom Rich Discord Presence
 
-[CustomRP](https://www.customrp.xyz/), [EasyRP](https://github.com/Pizzabelly/EasyRP), [RPCEngine](https://github.com/qoobes/rpcengine), [eidolonrp CodeFactor](https://github.com/kairusds/eidolonrp), [DiscordRPCMaker](https://drpcm.t1c.dev/), [discord-custom-rich-presence](https://github.com/HyperBeasty/discord-custom-rich-presence), [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC)
+[CustomRP](https://www.customrp.xyz/), [EasyRP](https://github.com/Pizzabelly/EasyRP), [RPCEngine](https://github.com/qoobes/rpcengine), [eidolonrp CodeFactor](https://github.com/kairusds/eidolonrp), [discord-custom-rich-presence](https://github.com/HyperBeasty/discord-custom-rich-presence), [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC)
 
 *** 
 
