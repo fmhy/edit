@@ -67,6 +67,7 @@
 * [p7zip](http://p7zip.sourceforge.net/) - *File Archiver / Unzipper*
 * [Curlew](https://curlew.sourceforge.io/) - *Linux File Converter*
 * [Dolphin](https://userbase.kde.org/Dolphin) or [ranger](https://github.com/ranger/ranger) - *File Manager*
+* [nnn](https://github.com/jarun/nnn) - *Terminal File Manager/Disk Usage Analyzer*
 * [zentile](https://github.com/blrsn/zentile) - *On-demand Window Manager Tiling*
 * [Material Shell](https://material-shell.com/) - *GNOME Tiling Extension*
 * [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) - *Google Drive Downloader*
@@ -128,6 +129,7 @@
 * [Remontoire](https://github.com/regolith-linux/remontoire) - *Keybind Viewer for i3*
 * [fzf](https://github.com/junegunn/fzf) - *CLI based fuzzy finder*
 * [Timeshift](https://github.com/teejee2008/timeshift) - *Create System Snapshots & Restore*
+* [AppImageHub](https://appimage.github.io/) or [get-appimate](https://g.srev.in/get-appimage/) - *Download AppImages / [CLI](https://zap.srev.in/)*
 * [Homebrew](https://brew.sh/) - *Package Manager*
 * [pacwall](https://github.com/Kharacternyk/pacwall) - *Live Wallpaper that shows Dependency Graph & Status of Installed Packages* 
 * [picom](https://github.com/yshui/picom) - *X11 Compositor*
