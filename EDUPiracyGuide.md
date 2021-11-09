@@ -156,7 +156,6 @@
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - *Courses / Tutorials* 
 * [Course Code Drive](https://ddpanda.net/code/) - *Courses / [Codes](https://ufile.io/mvg3nz5t)*
 * [FreetutsDownload.com](https://freetutsdownload.com/) - *Courses / GDrive Host* 
-* [Cisco Collection](https://mega.nz/folder/909TVSZQ#5mphhTKMGhOZuZcr0jXt2Q) - *Courses*
 * [iTunes U](https://archive.org/details/@kyndigs) - *Lectures*
 * [University of Waterloo](https://student.cs.uwaterloo.ca/~cs247/current/) - *CS Resources / Courses*
 * [Masterclass 63 Pack](https://mega.nz/folder/HxFghIbS#rFqH402PoVDwHW_XEtN1QQ) - *Masterclass Courses / Drive*
