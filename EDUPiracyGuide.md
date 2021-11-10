@@ -177,10 +177,11 @@
 * [FreeTutorialsHub](https://www.freetutorialshub.com/) - *Udemy Courses*
 * [FreeCourseUdemy](https://freecourseudemy.com/) - *Udemy Courses*  
 * [FtuUdemy]( https://www.ftuudemy.com/) - *Udemy Courses* 
+* [Devil Collection](https://mega.nz/folder/wQp0jaSC#cE7-P1fX0FkxU2LXAHm80A) - *Udemy Courses*
 * [CourseForFree](https://courseforfree.com/) - *Udemy Courses*  
 * [Download Online Tutorials Free](https://download.howtofree.org/) - *Udemy Courses* 
 * [Udemy Free Course](https://t.me/udemy_free_cource) - *Udemy Courses* 
-* [666GB Devil Collection](https://mega.nz/folder/7HRiUb7Q#xXXnIdhGxuPwxtz99BhPpg) - *Web App Development Courses*
+* [666GB Devil Web App](https://mega.nz/folder/7HRiUb7Q#xXXnIdhGxuPwxtz99BhPpg) - *Web App Development Courses*
 * [6.04 TB Paid [C]ourses](https://mega.nz/folder/vRhSiagQ#H_G_aUZNrbLE5fPtTjPoeQ/folder/TAhQRSqK) - *Marketing Courses / Drive*
 * hackingworld.best - [Marketing](https://mega.nz/folder/eeIzlAjL#zGa0iHkQJu0JmP4BayAJ3A) / [IT](https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg)
 * [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
