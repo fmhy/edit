@@ -1821,6 +1821,8 @@ Add the following commands to a search to manually scrape each site.
 * [Drive List](https://redd.it/owdvw7) -
 * [Public.crackhub](https://public.crackhub.site/) 
 * [Heaven](https://drive.google.com/drive/folders/1hxe7Des-ooQpamAtjyR7CX-k_hyqlQ7Q) 
+* [Collection](https://mega.nz/folder/6q4XjSjD#n2aMXLlajXC59snzns_ijw)
+* [300TB Shere](https://drive.google.com/drive/folders/1oCMgJeBc55NuEasPcgwjx2FuPdQd8neu)
 * [index-of](http://index-of.es/) - *Tech / Programming / Directory* 
 * [Manny Hackers](https://apd.msbots.workers.dev/0:/)
 * [Mirror Bot](https://mirrorbot.sarutobi.workers.dev/)
