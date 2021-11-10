@@ -523,6 +523,7 @@
 * [Dodgy](https://github.com/landscapeio/dodgy) - *Find PWs & Diffs in Python Code*
 * [JSPyBride](https://github.com/extremeheat/JSPyBridge) - *Interoperate Node.js and Python*
 * [python-adb](https://github.com/google/python-adb) - *Python ADB + Fastboot Implementation*
+* [pipx](https://pypa.github.io/pipx/) - *Execute Python Binaries in Isolated Environments*
 * [AutoCode](https://autocode.com/) - *Instant Endpoints*
 * [Mega Linter](https://github.com/nvuillam/mega-linter) - *Code Analyzer* 
 * [tabnine](https://www.tabnine.com/) - *AI Assisted Code Completion*
