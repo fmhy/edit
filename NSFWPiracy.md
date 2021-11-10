@@ -48,7 +48,7 @@
 * [5Movies](https://5movies.live/category/adult-18/)
 * [FindTubes](https://www.findtubes.com/)
 * [PreFap](https://prefap.com/)
-* [Biqle](https://biqle.com/) 
+* [Biqle](https://biqle.com/), [2](https://biqle.org/) 
 * [NSFW Monster](https://nsfwmonster.com/) 
 * [Lustoholic](https://lustholic.com/) 
 * [PornHoarder](https://pornhoarder.tv/)
