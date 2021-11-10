@@ -351,12 +351,13 @@
 
 # ► Browser Games
 
-* **[Free Rice](https://freerice.com/)** - *Earn Rice for the World Food Programme, turn off adblocker*
+* **[Tyrone's Unblocked Games](https://sites.google.com/site/tyronesgameshack)** - *Browser Games / [Discord](https://discord.gg/Z55yjBz)*
+* **[Ninjakiwi](https://ninjakiwi.com/)** - *Browser Games / Bloons / Multiplayer*
 * **[Line Rider](https://www.linerider.com/)** - *Draw Sled Tracks*
 * **[DelugeRPG](https://www.delugerpg.com/)** - *Pokemon RPG Simulation*
 * **[Cookie Consent Speed.Run](https://cookieconsentspeed.run/)** - *Cookie Disabling Game*
 * **[AirConsole](https://www.airconsole.com/)** or [AnsStream](https://www.antstream.com/ ) - *Control TV Games with Phone* 
-* **[Ninjakiwi](https://ninjakiwi.com/)** - *Browser Games / Bloons / Multiplayer*
+* **[Free Rice](https://freerice.com/)** - *Earn Rice for the World Food Programme, turn off adblocker*
 * [/r/WebGames](https://reddit.com/r/WebGames)
 * [Newgrounds](https://www.newgrounds.com/games)
 * [Armor Games](https://armorgames.com/)
@@ -628,7 +629,6 @@
 * [Flash Games Collection](https://drive.google.com/drive/folders/1U8tJfJr_3Cg-PXL7PQshZOp2ukvVippm) - *Archive* 
 * [ClassicGames.rar](https://drive.google.com/file/d/1ylHk46vdV1dZcfUUSNDAT7F2RVoi8FFS/) - *Archive / pw:paluch*
 * [Flash by Night](http://flashbynight.com/) - *Browser Games*
-* [Tyrone's Unblocked Games](https://sites.google.com/site/tyronesgameshack) - *Browser Games / [Discord](https://discord.gg/Z55yjBz)*
 * [The Flash Emulation Repair Shop](https://archive.org/details/flash_repair_shop) - *Flash Games Under Repair*
 * [Arcade Prehacks](http://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - *Flash Game Hacks*
 * [How-To Play Flash Games](https://rentry.co/oc4wc) - *Browser Flash Game Tutorial*
