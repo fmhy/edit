@@ -552,6 +552,7 @@
 * [o2tvseries](https://o2tvseries.com/) - *TV*  
 * [MiCineHD](https://www.micinehd.com/) - *Movies / TV* 
 * [MoviesVerse](https://moviesverse.co.in/) - *Movies / TV*
+* [FreeDriveMovie](https://www.freedrivemovie.com/) - *Movies / TV*
 * [TVindexer](https://tvindexer.com/) - *Movies / TV / Anime*
 * [Movies Mobile](https://mobilemovies.info/index.php?dir=Hollywood%20Movies) - *Movies*
 * [SeriesVault](https://seriesvault.tk/) - *TV* 
