@@ -187,6 +187,7 @@
 * hackingworld.best - [Marketing](https://mega.nz/folder/eeIzlAjL#zGa0iHkQJu0JmP4BayAJ3A) / [IT](https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg)
 * [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
 * [ProCrack_Team](https://www.mediafire.com/folder/l4w8gcdcqsqtw/ProCrack_Team) - *Marketing Courses*
+* [Stock Trading Courses](https://mega.nz/folder/RNERkCIS#w0DcWggAasYz8vKl1jHkGw) - *Trading Courses*
 * [Udemy - Cybersecurity Collection](https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD) - *Cyber Security Courses*
 * [500GB+ Cyber Security](https://mega.nz/folder/ZLB3CSwK#EXp6VnwcAEI1WE8xVwZZuQ) - *Cyber Security Courses*
 * [Skills for All](https://skillsforall.com/) - *Cyber Security Courses*
