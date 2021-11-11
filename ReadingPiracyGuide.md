@@ -168,7 +168,7 @@
 * [HundredZeros](http://hundredzeros.com/) - *Free Kindle Books* 
 * [Wikibooks](https://www.wikibooks.org/) - *Wikimedia community*
 * [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - *ZeroNet Required*
-* [Avxhm](https://avxhm.se/), [2](https://avxhm.is/) - *[Leech Required](https://leechall.com/)*
+* [Avxhm](https://avxhm.se/), [2](https://avxhm.is/) - *[Leech Required](https://leechall.com/) / [Mirrors](https://www.avaxhome.online/)*
 * [AvaxHome](https://www.avaxhome.co/) 
 * [FreeBookSpot](http://www.freebookspot.es/default.aspx) - *Books / [Leech Required](https://filehostlist.miraheze.org/wiki/Main_Page)*
 * [zqktlwi4fecvo6ri](http://zqktlwi4fecvo6ri.onion/wiki/Libraries) - *Tor Required* 
