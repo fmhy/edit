@@ -630,6 +630,7 @@ RSS Player*
 * [n1ghtshade](https://github.com/synackuk/n1ghtshade/releases) - *32bit Jailbreaking Tool*
 * [rootlessJB](https://github.com/jakeajames/rootlessJB) - *Rootless iOS 12 Jailbreaking*
 * [Totally Not Spyware](https://totally-not.spyware.lol/) - *Safari Jailbreaking Tool*
+* [SuccessionRestore](https://github.com/Samgisaninja/SuccessionRestore) - *Restore iOS without a computer (without updating)*
 * [odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - *Checkra1n / Odysseyra1n Installation Distro / [GUI](https://github.com/23Aaron/Betelguese)*
 * [Kiiimo](http://cydia.kiiimo.org/ ) - *Cydia Repo for Pirated Packages/Tweaks*
 * [ReProvision](https://github.com/Matchstic/ReProvision) - *On-device signing utility*
