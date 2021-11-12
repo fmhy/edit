@@ -345,6 +345,7 @@
 * **[Redtopia](https://git.fuwafuwa.moe/cairn/Redtopia)** - *Redtopia Repository / FLAC*
 * **[Lidarr](https://github.com/Lidarr/Lidarr)** - *Autodownload Music Torrents*
 * [Flactor](https://flactor.ru/) - *FLAC*
+* [Solid Torrents](https://solidtorrents.net/) - *MP3 / FLAC*
 * [Metal Tracker](https://en.metal-tracker.com/) - *Metal / MP3*
 * [RockBox](https://rawkbawx.rocks/) - *Metal / MP3*
 * [the /kpg/ torrent](https://kpg.neocities.org/) - *800gb+ K-Pop Torrent File*
