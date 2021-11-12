@@ -252,7 +252,7 @@
 # ► Homebrew 
 
 * [Homebrew Guides](https://rentry.co/Guides) - *Homebrew Guides & Setups*
-* [Homebrew General](https://www.homebrewgeneral.net/) - *Homebrew News & Guides*
+* [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - *Homebrew News & Guides*
 * [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - *Wii Homebrew Installer / [Find MAC](https://www.nintendo.com/consumer/systems/wii/en_na/includes/rvl-ht-int-find-mac-address.jsp)*
 * [WiiU Exploit](https://wiiuexploit.xyz/) - *WiiU Homebrew Installer*
 * [Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)
@@ -260,8 +260,12 @@
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - *Switch Homebrew Subreddit*
 * [Switch Guide](https://nh-server.github.io/switch-guide/) or [SWITCHWAY](https://switchway.xyz/) - *Switch Homebrew Guide*
 * [EeveeSaves](https://discord.io/eeveesaves) - *Switch Saves*
+* [Kaeru Team](https://kaeru.world/) - *Nintendo Replacement Servers*
 * [Nintendo Homebrew](https://discord.com/invite/C29hYvh) - *3DS / Switch Homebrew Community*
 * [SDSetup](https://github.com/noahc3/SDSetup) - *Nintendo Switch SD Setup*
+* [WiiBrew](https://wiibrew.org/) or [Wii Guide](https://wii.guide/) - *Wii Homebrew Guides*
+* [Open Shop Channel](https://oscwii.org/) - *Wii Homebrew App Library*
+* [RiiConnect24](https://rc24.xyz/) - *WiiConnect24 Replacement*
 * [PSX Hax](https://www.psxhax.com/) - *Playstation Modding Forum*
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - *PS4 / PS5 Remote Play Client* 
 * [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - *PS4 Exploit Hosting PS4*
@@ -271,11 +275,12 @@
 * [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - *PSCX Development Emulator*
 * [Tinfoil](https://tinfoil.io/) - *Switch Title Manager / File Browser* 
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) - *Multiplayer Switch Servers*
-* [CTGP Revolution](https://www.chadsoft.co.uk/) - *Mario Kart Wii Multiplayer, Custom Tracks & more*
+* [CTGP Revolution](https://www.chadsoft.co.uk/) or [Wiiki Tockdom](http://wiki.tockdom.com/) - *Mario Kart Wii Mod* 
 * [TTs Online](https://redd.it/ie6gi7) - *MKW Online Time Trials Mod*
 * [Wiimmfi](https://wiimmfi.de/) - *Wii / DS Multiplayer Revival*
 * [3DS Hack Guide](https://3ds.hacks.guide/) - *Custom Firmware*
 * [Theme Plaza](https://themeplaza.art/themes) - *3DS Themes*
+* [DSI Guide](https://dsi.cfw.guide/) - *DSI Modding Guide*
 * [GameBoy Tech Page](https://web.archive.org/web/19990209041732/http://home.hiwaay.net/%7Ejfrohwei/gameboy/home.html) - *Gameboy Tools*
 * [GameBoy Book Reader](https://www.mqp.com/fun/) - *Gameboy Book Reader*
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - *.XBE to ISO File Converter*
