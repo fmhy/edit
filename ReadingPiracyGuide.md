@@ -26,6 +26,7 @@
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - *Listen Online*
 * [Audiobooks Lab](https://audiobooklabs.com/) - *Listen Online*
 * [AudiobookBoi](https://audiboi.com/home/) - *Listen Online*
+* [Zero Avenue ](https://thezeroavenue.com/) - *Listen Online*
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - *Listen Online / Select Playlists*
 * [Litube](https://litube.net/) - *Listen Online*
 * [AudioBook Reviews](https://audiobookreviews.com/) 
