@@ -706,6 +706,8 @@ RSS Player*
 * [iRetro](https://apps.apple.com/us/app/iretro-the-internet-browser/id1015692776) - *Browser w/ Wayback Machine*
 * [Hyperweb](https://hyperweb.app/) - *iOS Safari Improvement + Adblock Extension*
 * [Lights Off](https://testflight.apple.com/join/pj7BWqeJ) - *iOS Safari Dark Mode*
+* [DiscordExtras](https://github.com/NotZoeyDev/DiscordExtras) - *Patch Discord Client*
+* [Local Time Generator](https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94) - *Generate Discord Timestamps*
 * [UTM](https://getutm.app/) - *Virtual Machines* 
 * [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) - *Automation Script Tool*
 * [Winno](https://apps.apple.com/us/app/winno-just-the-facts/id1460212743) - *News*
@@ -773,7 +775,6 @@ RSS Player*
 * [AppDB](https://appdb.to/) - *iOS Apps* 
 * [AppAddict](https://www.appaddict.org/) - *iOS Apps*
 * [Streamiza](https://t.me/streamiza) - *Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)*
-* [DiscordExtras](https://github.com/NotZoeyDev/DiscordExtras) - *Patch Discord Client*
 * [iPhoneCake](https://www.iphonecake.com/) - *Cracked Apps*
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312)
 * [AppValley](https://www.appvalley.vip/) - *Tweaked App Store*
