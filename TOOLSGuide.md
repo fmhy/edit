@@ -978,7 +978,6 @@ General Reading Sites*
 * [discasset](https://github.com/Commandtechno/discasset), [2](https://gitlab.com/derpystuff/discasset) - *Discord Asset Grabber*
 * [Hypesquad](https://cdn.discordapp.com/attachments/668986791797325824/844589771653382194/unknown.png) - *Get a Discord Profile Badge*
 * [Imagine](https://imagine.vanished.rocks/) - *Imagine Discord Branding Image Creator*
-* [DiscordExtras](https://github.com/NotZoeyDev/DiscordExtras) - *Patch iOS Discord Client*
 * [BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - *Bot Messaging Panel*
 * [Figma](https://www.figma.com/community/file/992144378612759941/Discord-Resources) - *Discord Resources / [Desktop](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)*
 * [Mon2Cam](https://github.com/ShayBox/Mon2Cam) - *Multi-Monitor DIscord Screenshare Fix*
