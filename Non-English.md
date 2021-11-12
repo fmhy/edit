@@ -136,7 +136,7 @@
 * [3dmgame](https://www.3dmgame.com/) - *Games / Geolocked / Baidu Required* 
 * [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - *Courses / [icourse163](https://www.icourse163.org/)*
 * [91Flac](https://www.91flac.com/) - *Music* 
-* [Hifini](https://www.hifini.com/) - *Music *
+* [Hifini](https://www.hifini.com/) - *Music*
 * [Flac123](https://www.flac123.com/) - *Music* 
 * [wsyymfxz](http://www.wsyymfxz.com/) - *Music* 
 * [J-pop Music Download](https://jpop.xyz/) - *Music / FLAC / MP3* 
@@ -1536,6 +1536,7 @@ Portuguese
 * [RÚV](https://www.ruv.is/ruv) - *Icelandic / Live TV*
 * [JavaLibre](https://javalibre.com.ua/) - *Ukrainian / Books*
 * [Partis](https://www.partis.si/) - *Slovenian / Torrent Aggregator*
+* [WiiDatabase](https://wiidatabase.de/) - *Deutsch / Nintendo Homebrew*
 * [KannadaCine](https://www.kannadacine.com/) - *Kannada / Streaming / Movies*
 * [Filmarkivet](https://www.filmarkivet.se/) - *Swedish / Short Films*
 * [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - *Malaysian / Audio / Telegram*
