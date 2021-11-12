@@ -28,9 +28,10 @@
 
 #### Absolute Enable Right Click
 
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/),
-[Chrome](https://chrome.google.com/webstore/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika), 
-[Script](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy)
+Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/) /
+[Chrome](https://chrome.google.com/webstore/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika) / [Script](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy)
+
+Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-allow-copy/) / [Chrome](https://chrome.google.com/webstore/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc?hl=en)
 
 ***
 
@@ -1433,7 +1434,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Random Sites
 
-[StumblingOn](https://stumblingon.com/), [Stumbled](https://stumbled.cc/), [BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/) / [2](https://theuselessweb.site/), [JumpStick](https://jumpstick.app/), [OpenBulkURL](https://openbulkurl.com/random/, [WebSurfer](https://meow.sadgrl.online/websurfer/)
+[StumblingOn](https://stumblingon.com/), [Stumbled](https://stumbled.cc/), [BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/) / [2](https://theuselessweb.site/), [JumpStick](https://jumpstick.app/), [OpenBulkURL](https://openbulkurl.com/random/, [WebSurfer](https://meow.sadgrl.online/websurfer/), [The Forest](https://theforest.link/), [WhatsMYIP](http://random.whatsmyip.org/)
 
 ***
 
