@@ -20,6 +20,7 @@
 * **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](http://bitflu.workaround.ch/) or [kTorrent](https://apps.kde.org/en/ktorrent) / [2](https://invent.kde.org/network/ktorrent) - *Linux Torrent Client* 
 * rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [All Seeders Column](https://github.com/AkdM/rutorrent-all-seeders) / [Docker Build](https://github.com/binhex/arch-rtorrentvpn)
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - *RTorrent Web Frontend / [Themes](https://github.com/InAnimaTe/rutorrent-themes), [2](https://github.com/artyuum/3rd-party-ruTorrent-Themes)*
+* [Linux Difficulty Chart](https://i.imgur.com/H8sw3L4.png) - *Distros Ranked by Difficulty*
 * [BusyBox](https://frippery.org/busybox/) - *Unix Tools*
 * [swizzin](https://swizzin.ltd/) - *Seedbox for Ubuntu / Debian* 
 * [rtinst](https://github.com/arakasi72/rtinst) - *Seedbox Installation Script for Ubuntu / Debian* 
