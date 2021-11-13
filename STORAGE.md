@@ -1831,10 +1831,8 @@ Add the following commands to a search to manually scrape each site.
 * [Public Drive Bot](https://index.isumit.workers.dev/)
 * [blacklistedbois](https://dl.blacklistedbois.workers.dev/0:/)
 * [TorrentLeech Drive](https://torrentleech.torrentleech-gdrive.workers.dev/) 
-* http://dl.sledgercloud.cf/
 * https://happyboy.hb4all.workers.dev/
 * https://tr.mooser.workers.dev/0:/
-* https://white-base-7610.sagarlucky0005.workers.dev/
 * https://td2.blinkdrive.workers.dev/ 
 * https://loxxi.somto811.workers.dev/
 * https://limitless.teamdrive305.workers.dev/0:/
