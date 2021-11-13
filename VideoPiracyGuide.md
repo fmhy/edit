@@ -428,6 +428,7 @@
 * [Stream4Free Live](https://www.stream4free.live/) - *TV / Sports*
 * [vipotv](http://vipotv.com/) - *TV / Sports*
 * [USTVGO](https://ustvgo.tv/) - *TV / Sports*
+* [SamiTVHD](https://samitvhd.com/) - *TV / Sports*
 * [uStream](https://www.ustream.to/index.html) - *TV / Sports* 
 * [LM Shows](https://lmshows.se/) - *TV*
 * [TVOnline.Liveschauen](https://tvonline.liveschauen.com/) - *TV* 
