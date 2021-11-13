@@ -1072,7 +1072,7 @@ General Reading Sites*
 * [Twitchls](https://twitchls.com/) or [StreamSniper](https://www.streamsniper.tv/) - *HTML5 Twitch Stream Player* 
 * [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - *Alt Twitch Player* 
 * [Twitch-Desktop](https://github.com/twitch-desktop/twitch-desktop) or [Orion](https://alamminsalo.github.io/orion/) - *Twitch Desktop Client* 
-* [Multi](https://multi.raredrop.co/) or [TwitchTheater](https://twitchtheater.tv/) - *Watch Multiple Twitch Streams* 
+* [Multi](https://multi.raredrop.co/), [Twitchmultivod](https://www.twitchmultivod.com/) or [TwitchTheater](https://twitchtheater.tv/) - *Watch Multiple Twitch Streams* 
 * [DankChat](https://github.com/flex3r/DankChat) - *Talk in Multiple Twitch Chats at Once / Apk*
 * [Livestream Panels](https://livestreampanels.com/) - *Custom Twitch Stream Panels*
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - *Fix Twitch Aspect Ratio*
