@@ -352,7 +352,7 @@
 * [MixtapeTorrent](http://www.mixtapetorrent.com/) - *Mixtapes / MP3*
 * [SXSW Torrents](http://www.sxswtorrent.com/) - *SXSW Music Archive*
 * [ZOMB Torrents](http://zombtracker.the-zomb.com/) - *Music sharing community / forum*
-* [bt.etree](http://bt.etree.org/) or [Etree](https://www.etree.org/)- *Live Concert Recordings* 
+* [bt.etree](http://bt.etree.org/)- *Live Concert Recordings* 
 * [NFO db](https://nfodb.ru/) - *MP3 NFO Database*
 
 *** 
