@@ -326,10 +326,11 @@
 * [Slide Ventura](https://slideventura.com/) - *Ace Ventura Sliding Door Simulator*
 * [Fake Doors](http://faykdoors.com/) - *Its Fake Doors*
 * [Do not open the door](http://mexicans.eu/) - *Don't you dare...*
-* [ThisPersonDoesNotExist](https://www.thispersondoesnotexist.com/) - *People That Don't Exist*
+* [This Person Does Not Exist](https://www.thispersondoesnotexist.com/) - *People That Don't Exist*
+* [This Artwork Does Not Exist](https://thisartworkdoesnotexist.com/) - *Art That Doesn't Exist*
 * [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) - *Words That Don't Exist* 
 * [This Wojak Does Not Exist](https://thiswojakdoesnotexist.com/) - *Wojak's That Don't Exist* 
-* [ThisCatDoesNotExist](https://thiscatdoesnotexist.com/) - *Cats That Don't Exist*
+* [This Cat Does Not Exist](https://thiscatdoesnotexist.com/) - *Cats That Don't Exist*
 * [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/) - *Anime Characters That Don't Exist* 
 * [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/) - *Waifu's That Don't Exist* 
 * [This Fursona Does Not Exist](https://thisfursonadoesnotexist.com/) - *Fursona That Don't Exist*
