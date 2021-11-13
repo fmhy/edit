@@ -518,6 +518,7 @@
 * [Zalmos](https://www.zalmos.com/)
 * [CroxyProxy](https://www.croxyproxy.com/)
 * [ProxyPx](https://www.proxypx.com/)
+* [Knaben](https://www.knaben.xyz/)
 * [ProxySite](https://www.proxysite.cc/) 
 * [immortalproxy](https://immortalproxy.com/) 
 * [Proxy-URLs](https://www.proxy-urls.com/)
