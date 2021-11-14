@@ -102,7 +102,7 @@
 * [2013Zone](http://www.2013zone.com/) - *Video / Audio / Games / Software*
 * [TwistyDownload](http://www.twistysdownload.com) - *Video / Audio / Games / Software*
 * [ddlspot](https://www.ddlspot.com/) - *Video / Audio / Games / Software*
-* [Download For All](https://dl4all.org/) - *Video / Audio / Software / Games / Books / Magazines*
+* [Download For All](https://dl4all.org/), [2](https://dl4all.biz/) - *Video / Audio / Software / Games / Books / Magazines*
 * [OneDDL](https://oneddl.org/) - *Video / Audio / Software / Games / Books*
 * [SoftDDL](http://softddl.org/) - *Video / Audio / Software*
 * [Download.ir](https://download.ir/) - *Software / Video / Android / Games / Roms*  
