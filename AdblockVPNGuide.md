@@ -521,6 +521,7 @@
 * [Knaben](https://www.knaben.xyz/)
 * [ProxySite](https://www.proxysite.cc/) 
 * [immortalproxy](https://immortalproxy.com/) 
+* [ProxyOf2](https://proxyof2.com/)
 * [Proxy-URLs](https://www.proxy-urls.com/)
 * [TurboProxy](https://turboproxy.co/)
 * [Sitenable](http://sitenable.in/) 
