@@ -519,6 +519,7 @@
 * [CroxyProxy](https://www.croxyproxy.com/)
 * [ProxyPx](https://www.proxypx.com/)
 * [Knaben](https://www.knaben.xyz/)
+* [Nodecat](https://nodecat.digital/)
 * [ProxySite](https://www.proxysite.cc/) 
 * [immortalproxy](https://immortalproxy.com/) 
 * [ProxyOf2](https://proxyof2.com/)
