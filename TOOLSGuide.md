@@ -699,6 +699,7 @@ General Reading Sites*
 * [Graph.tips](https://graph.tips/beta/) - *Advanced Facebook Search Tool* 
 * [Google Search Operator Cheat Sheets](https://moz.com/learn/seo/search-operators), [2](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [3](https://ahrefs.com/blog/google-advanced-search-operators/), [4](https://l-lists.com/en/lists/m1mdwx.html), [5](https://github.com/BushidoUK/OSINT-SearchOperators)
 * [Google Search Guide](https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters) + [Advanced](https://coursebuilder.withgoogle.com/)
+* [Yandex Search Operator Cheat Sheets](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/), [3](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
 * [sitedorks](https://github.com/Zarcolio/sitedorks) - *Search Dorks*
 * [Cyber](https://cyber.page/) - *Hash Search Engine* 
 * [Proisk](https://proisk.com/) - *FTP Search Engine*
