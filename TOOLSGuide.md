@@ -638,7 +638,7 @@
 * [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) - *Firefox Hidden Settings*
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - *Firefox Themes List*
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - *Firefox CSS Guides* 
-* [EdgeDeflector](https://github.com/da2x/EdgeDeflector) - *Force Open Default Browser*
+* [EdgeDeflector](https://github.com/da2x/EdgeDeflector) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect ) - *Force Open Default Browser*
 * [xBrowserSync](https://github.com/xbrowsersync/app) - *Sync Browser Data Browsers / Devices*
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - *User Agent Archive* 
 * [danmaku2ass ](https://github.com/m13253/danmaku2ass) - *Convert Niconico/AcFun/Bilibili Comments to ASS*
