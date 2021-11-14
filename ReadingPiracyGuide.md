@@ -888,6 +888,7 @@
 * [FreeWebNovel](https://freewebnovel.com/) 
 * [NovelCake](https://novelcake.com/)
 * [Novel Translations](https://lightnovelstranslations.com/)
+* [Readwn](https://www.readwn.com/) 
 * [Nakimushitl](https://nakimushitl.wordpress.com/)
 * [Novel Free](https://mnovelfree.com/)
 * [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)  
