@@ -1137,6 +1137,7 @@ Portuguese
 * [TLauncher Legacy](https://tlaun.ch/) - *Minecraft Client / Cracked Minecraft*
 * [netwhood](https://netwhood.online/) - *Communication Network*
 * [Proxy-Checker](https://proxy-checker.net/) - *Proxy Checker*
+* [Yandex Search Operator Cheat Sheet](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
 
 ## ▷ Downloading 
 
