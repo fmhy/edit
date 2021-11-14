@@ -16,7 +16,7 @@
 * **[AdGuard Premium](https://forum.mobilism.org/search.php?keywords=adguard+&sr=topics&sf=titleonly)** - *Adblocking App*
 * **uBlock Origin** - *[Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Yandex](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) &amp; [Kiwi](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)* 
 * [Blokada](https://blokada.org/) - *Adblocking App*
-* [AdAway](https://adaway.org/) - *Adblocking App*
+* [AdAway](https://adaway.org/) - *Adblocking App / [GitHub](https://github.com/AdAway/AdAway)*
 * [ad-free](https://abertschi.github.io/ad-free/landing/) - *Adblocking App*
 * [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [F-Droid](https://f-droid.org/packages/dnsfilter.android), [DNSfilter](https://f-droid.org/en/packages/dnsfilter.android/), [Rethink](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists), [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), [2](https://jak-linux.org/projects/dns66/) / [GitHub](https://github.com/julian-klode/dns66) or [Pi-Droid](https://f-droid.org/en/packages/friimaind.piholedroid/)  - *DNS Adblocker* 
 * [Daedalus](https://play.google.com/store/apps/details?id=org.itxtech.daedalus) or [Nebulo](https://git.frostnerd.com/PublicAndroidApps/smokescreen/-/blob/master/README.md) - *DNS Modifier*
