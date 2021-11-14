@@ -1044,6 +1044,7 @@ General Reading Sites*
 * [ProgressBar Preserver](https://greasyfork.org/scripts/394512) - *Always Visible Progress Bar YouTube*
 * [Equalizer for YouTube](https://mybrowseraddon.com/equalizer-for-youtube.html) - *Audio Equalizer*
 * [Unhook](https://unhook.app/) - *Distraction Free YouTube*
+* [YouTube Watch Time Counter](https://chrome.google.com/webstore/detail/youtube-watch-time-counte/fpoooibdndpjcnoodfionoeakeojdjaj) - *Track Time Spent on YouTube*
 * [BlockTube](https://github.com/amitbl/blocktube) - *YouTube Content Blocker*
 * [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - *Remove YouTube Thumbnails / Title Capitalization*
 * [RapidTags](https://www.rapidtags.io/) - *YouTube Tag Generator*
