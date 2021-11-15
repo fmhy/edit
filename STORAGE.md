@@ -1422,6 +1422,8 @@ Add the following commands to a search to manually scrape each site.
 
 #### Radio Streaming Sites
 
+**[List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)**
+
 **Live Radio** 
 
 [iHeartRadio](https://www.iheart.com/), [Radio.com](https://www.radio.com/stations), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/), [myTuner](https://mytuner-radio.com/), [Radio Browser](https://www.radio-browser.info/), [Deep Web Radio](http://anonyradixhkgh5myfrkarggfnmdzzhhcgoy2v66uf7sml27to5n2tid.onion/), [Zeno](https://zeno.fm/), [TuneYou](https://tuneyou.com/), [Tvradiotuner](https://tvradiotuner.com/), [Instant.audio](https://instant.audio/)
