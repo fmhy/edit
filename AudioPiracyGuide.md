@@ -307,6 +307,7 @@
 * [EDMBoost](https://edmboost.org/) - *Electronic / MP3*
 * [EDMWaves](https://edmwaves.org/) - *Electronic / MP3*
 * [MusicFans](https://musicfans.space/) - *Electronic / MP3*
+* [MyPromoSound](https://mypromosound.com/) - *Electronic / MP3*
 * [ElectronicFresh](http://electronicfresh.com/) - *Electronic / MP3*
 * [InEvil](https://www.inevil.com/) - *Electronic / MP3*
 * [DQQD](https://dqqd.org/) - *Electronic / MP3 / FLAC*
