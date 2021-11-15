@@ -28,6 +28,7 @@
 * [C1NE](https://c1ne.co/) - *Movies / TV* 
 * [VikV](https://vikv.net/), [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
 * [TheFlix](https://www.theflix.to/) - *Movies / TV* 
+* [Ask4movies](https://ask4movie.io/) - *Movies / TV / [Adblock Script](https://pastebin.com/N58Vbyhw)*
 * [SockShare](http://sockshare.ac/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones)*
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - *Movies / TV / Anime*
 * [NetU](https://netu.io/view_page.php?pid=4) - *Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png), try IMDb ids*
@@ -82,7 +83,6 @@
 * [FlixGo](https://flixgo.me/) - *Movies / TV*
 * [1movies](https://ww2.1movies.is/), [Real-Primewire](https://real-primewire.club/), [CouchTuner](https://couchtuner.fashion/) or [New-Primewire](https://ww1.new-primewire.com/) - *Movies / TV / Anime*
 * [Vmovee HD](https://vmoveehd.com/) - *Movies / TV*
-* [Ask4movies](https://ask4movie.io/) - *Movies / TV*
 * [VidStore](https://stream.vidzstore.com/) - *Movies*
 * [IAmDenzen](https://www.iamdenzen.com/) - *Movies / TV / Anime*
 * [Flixtor](https://flixtor.to) or [Filme21](https://filme21.com/) - *Movies / TV / Movies Older Than 6 Months For Premium Only*
