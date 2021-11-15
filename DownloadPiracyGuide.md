@@ -74,7 +74,7 @@
 * [dreamteamdownloads1](https://www.dreamteamdownloads1.com/index.php) - *Video / Audio / Software / Games / Roms / Books / Magazines*
 * [AllYouLike](https://allyoulike.org/) - *Video / Audio Books / Magazines / Games / Roms / Software / Android / Comics / NSFW*
 * [ReleaseHive](https://www.releasehive.com/) - *Video / Audio / Software / Games / Books / NSFW* 
-* [rlsbb](http://rlsbb.ru/) - *Video / Audio / Games / Software / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker)*
+* [rlsbb](http://rlsbb.ru/), [2](https://rlsbb.to/) - *Video / Audio / Games / Software / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker)*
 * [0dayhome](https://0dayhome.net/) - *Video / Audio / Games / Software / Books / Magazines*
 * [DownDuck](http://www.downduck.com/) - *Video / Audio / Software / Games / Books / Magazines*
 * [0DayDDL](https://0dayddl.com/) - *Video / Audio / Games / Software / Books / Magazines*
