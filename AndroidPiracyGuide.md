@@ -65,7 +65,7 @@
 * [GrapheneOS](https://grapheneos.org/) - *Privacy and security focused mobile OS*
 * [Intra](https://play.google.com/store/apps/details?id=app.intra&amp;hl=en_US) - *System Wide DoH for Android*
 * [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - *Incognito Keyboard*
-* [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html) or [Hotspot Shield++](https://repo.hackyouriphone.org/hotspotshieldpp) - *VPN*
+* [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN) or [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html) - *VPN*
 * [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) - *Proxy*
 * [Sagernet](https://sagernet.org/) - *Proxy Tools*
 * [Privacy Indicator](https://f-droid.org/packages/com.nitish.privacyindicator/), [2](https://play.google.com/store/apps/details?id=com.nitish.privacyindicator), [Vigilante](https://f-droid.org/en/packages/com.crazylegend.vigilante/) or [Access Dots](https://play.google.com/store/apps/details?id=you.in.spark.access.dots) - *Camera / Mic Access Indicator* 
