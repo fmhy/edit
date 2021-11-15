@@ -671,7 +671,7 @@ RSS Player*
 
 * [iOS-Privacy-Guide](https://github.com/paulaime/iOS-Privacy-Guide) - *iOS Privacy Guide*
 * [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [Authenticator](https://mattrubin.me/authenticator), [Obsidian](https://obsidianapp.io/) or [Tofu](https://www.tofuauth.com/) - *Two-factor authentication*  
-* [SecretPhotoAlbum++](https://apps.apple.com/us/app/secret-photo-album/id1459036428) or [No See You](https://noseeyou.com/) - *Private Photo Album*
+* [SecretPhotoAlbum++](https://apps.apple.com/us/app/secret-photo-album/id1459036428), [Private Photo Vault](https://apps.apple.com/us/app/private-photo-vault-pic-safe/id417571834) or [No See You](https://noseeyou.com/) - *Private Photo Album*
 * [Onion Browser](https://onionbrowser.com/) - *Onion Browser for iOS* 
 * [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337), [friendly](https://friendly.io/) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - *Privacy Based Browser* 
 * [Lockdown iOS](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) - *iOS Firewall / [GitHub](https://github.com/confirmedcode/Lockdown-iOS)*
