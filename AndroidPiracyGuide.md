@@ -537,7 +537,6 @@
 * [GodFather](https://movies.godfather.vip/download.php) - *Movies / TV / Anime*
 * [MOTV](http://motv.top/) - *Movies / TV / Chromecast*
 * [ROTV](https://rotv.xyz/) - *Movies / TV*
-* [EnterpApp](https://enterpapp.xyz/) - *Movies / TV*
 * [Tuner Radio](https://www.downloader.world/) - *Movies / TV*
 * [Syncler](https://syncler.net/) - *Movies / TV / [How-To](https://pastebin.com/VsiKV9rm)*
 * [Rokkr](http://www.rokkr.net/ ) - *Movies / TV / 
