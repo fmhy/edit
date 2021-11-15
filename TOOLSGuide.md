@@ -1208,7 +1208,7 @@ General Reading Sites*
 * [WUReset](https://wureset.com/) - *Reset Windows Update Components*
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - *Enable Windows Insider without Account*
 * [TweakUtility](https://github.com/Craftplacer/TweakUtility), [Sophia](https://github.com/farag2/Sophia-Script-for-Windows) or [MagicX Toolbox](https://github.com/Ahsan40/MagicX-Toolbox) - *Windows Tweaking Utility*
-* [Couleur Tweak Tips](http://discord.gg/CTT) - *Windows Tweaks & Tips*
+* [Couleur Tweak Tips](http://discord.gg/CTT) or [TweakCentral](https://tweakcentral.net/) - *Windows Tweaks & Tips*
 * [Awesome Scripts](https://github.com/codePerfectPlus/awesomeScripts), [Batch-Script-Collection](https://github.com/happy05dz/Batch-Script-Collection) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - *Useful System Scripts*
 * [SmartWindows](https://smartwindows.app/) - *Create / Restore Windows Profiles* 
 * [VirtualBox](https://www.virtualbox.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - *Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)*
