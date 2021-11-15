@@ -72,7 +72,7 @@
 * [CamWings](https://schiffer.tech/camwings-mobile.html) - *Camera Protection* 
 * [PubPhoto](https://github.com/stuartlangridge/pubphoto) - *Share Photos without Sharing Number*
 * [ScreenWings](https://schiffer.tech/screenwings-mobile.html) - *Screen Protection* 
-* [Stingle Photos](https://stingle.org/) - *Private Photo / Video Gallery* 
+* [Stingle Photos](https://stingle.org/) or [No See You](https://baixarapk.gratis/en/app/1186829987/photo-vault-noseeyou) - *Private Photo / Video Gallery* 
 * [PrivateBrowser](https://play.google.com/store/apps/details?id=com.prism.download.adblock.privacy.flash.player.incognito.private_browser.browser) - *Calculator Disguised Browser*
 * [Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers) - *Encrypted Android Messengers*
 * [Silence](https://silence.im/) - *Encrypt SMS/MMS Messages* 
@@ -672,7 +672,7 @@ RSS Player*
 
 * [iOS-Privacy-Guide](https://github.com/paulaime/iOS-Privacy-Guide) - *iOS Privacy Guide*
 * [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [Authenticator](https://mattrubin.me/authenticator), [Obsidian](https://obsidianapp.io/) or [Tofu](https://www.tofuauth.com/) - *Two-factor authentication*  
-* [SecretPhotoAlbum++](https://apps.apple.com/us/app/secret-photo-album/id1459036428) - *Hide Photos Behind a Pin*
+* [SecretPhotoAlbum++](https://apps.apple.com/us/app/secret-photo-album/id1459036428) or [No See You](https://noseeyou.com/) - *Private Photo Album*
 * [Onion Browser](https://onionbrowser.com/) - *Onion Browser for iOS* 
 * [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337), [friendly](https://friendly.io/) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - *Privacy Based Browser* 
 * [Lockdown iOS](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) - *iOS Firewall / [GitHub](https://github.com/confirmedcode/Lockdown-iOS)*
