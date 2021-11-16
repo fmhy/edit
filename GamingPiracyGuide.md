@@ -373,6 +373,7 @@
 * [Arkadium](https://www.arkadium.com/)
 * [Crazy Games](https://www.crazygames.com/)
 * [GamezHero](https://www.gamezhero.com/) 
+* [Yandex Games](https://yandex.com/games/)
 * [Nicky Case](https://ncase.me/) 
 * [Gamepix](https://www.gamepix.com/)
 * [KibaGames](https://www.kibagames.com/)
@@ -492,14 +493,14 @@
 ## ▷ Multiplayer
 
 * **[Pokemon Showdown](https://pokemonshowdown.com/)** - *Online Pokemon Battles* 
+* **[GarticPhone](https://garticphone.com/)** - *Telephone Game*
+* [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) - *Drawing / Guessing Game / Multiplayer*
 * [PlayingCards](https://playingcards.io/) 
 * [FlyOrDie](http://www.flyordie.com/) 
 * [JKLM.FUN](https://jklm.fun/) 
 * [JackBox.tv](https://jackbox.tv/) 
 * [Playok](https://www.playok.com/)
 * [PaperGames](https://papergames.io/)
-* [GarticPhone](https://garticphone.com/) - *Telephone Game*
-* [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) - *Drawing / Guessing Game / Multiplayer*
 * [Krunker.io](https://krunker.io/) / [2](https://browserfps.com/) / [Market Ping](https://yee.how/market-ping/) / [Client](https://client.cuffuffles.dev/), [Venge](https://venge.io/) or [RoboFight](https://robofight.io/) - *PvP FPS*
 * [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) - *Top Down Battle Royal* 
 * [ZombsRoyale.io](https://zombsroyale.io/) - *Zombie Battle Royale* 
