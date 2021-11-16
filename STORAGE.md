@@ -1437,7 +1437,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Random Sites
 
-[StumblingOn](https://stumblingon.com/), [Stumbled](https://stumbled.cc/), [BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/) / [2](https://theuselessweb.site/), [JumpStick](https://jumpstick.app/), [OpenBulkURL](https://openbulkurl.com/random/, [WebSurfer](https://meow.sadgrl.online/websurfer/), [The Forest](https://theforest.link/), [WhatsMYIP](http://random.whatsmyip.org/)
+[StumblingOn](https://stumblingon.com/), [Stumbled](https://stumbled.cc/), [BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/) / [2](https://theuselessweb.site/), [JumpStick](https://jumpstick.app/), [OpenBulkURL](https://openbulkurl.com/random/, [WebSurfer](https://meow.sadgrl.online/websurfer/), [The Forest](https://theforest.link/), [WhatsMYIP](http://random.whatsmyip.org/), [takeuselesswebsite](http://www.takeuselesswebsite.com/), [Random-Website](https://random-website.com/)
 
 ***
 
@@ -1798,6 +1798,8 @@ Add the following commands to a search to manually scrape each site.
 * https://driveflask.herokuapp.com/
 * https://www.apioffice.workers.dev/#form
 * https://ms.jim9527.workers.dev/#form
+* https://free-a1.a1od.workers.dev/
+* https://freems.1ove.club/ceo/
 * https://install.kenci.workers.dev/
 * https://cn365.a1od.workers.dev/
 * https://free.kits.workers.dev/#mdui-dialog
