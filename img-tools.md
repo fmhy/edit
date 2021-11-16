@@ -44,7 +44,7 @@
 * [InsertFace](https://insertface.com/) - *Selfie Frames, Backgrounds & Effects*
 * [Frame360](https://frame360.net/) - *Image Frames*
 * [Supershots](https://superblog.ai/supershots/) - *Add Backgrounds to Images*
-* [Remove.bg](https://www.remove.bg/), [Remove Background](https://pixlr.com/remove-background/), [Rembg](https://github.com/danielgatis/rembg), [bgremover](https://icons8.com/bgremover), [Removal.ai](https://removal.ai/upload/) or [Background Burner](https://burner.bonanza.com/) - *Remove Background / [Gimp Plugin](https://github.com/manu12121999/RemoveBG-GIMP) unlimited accounts w/ [Temp Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)*
+* [Remove.bg](https://www.remove.bg/), [Remove Background](https://pixlr.com/remove-background/), [Rembg](https://github.com/danielgatis/rembg), [bgremover](https://icons8.com/bgremover), [Removal.ai](https://removal.ai/upload/), [Trace](https://www.stickermule.com/trace) or [Background Burner](https://burner.bonanza.com/) - *Remove Background / [Gimp Plugin](https://github.com/manu12121999/RemoveBG-GIMP) unlimited accounts w/ [Temp Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)*
 * [PFP.LGBT](https://pfp.lgbt/) - *LGBTQ+fy Images*
 * [ImageRemix](http://www.oyonale.com/imagemix.php) - *Image Remixer*
 * [SpiralBetty](https://www.spiralbetty.com/) - *Image Spiralizer*
