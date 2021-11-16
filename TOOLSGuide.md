@@ -43,11 +43,13 @@
 * [Focalboard](https://www.focalboard.com/) - *Project Management Tool*
 * [Slab](https://slab.com/) - *Organization & Team Management Tool*
 * [PHPCRM](https://www.phpcrm.com/) - *Company Management Software*
+* [Creative Commons](https://creativecommons.org/) - *Creative Commons Licenses*
 * [ievaphone](https://ievaphone.com/), [blacktel](https://www.blacktel.io/), [Citrustel](https://www.citrustel.com/) or [PopTox](https://www.poptox.com/) - *Make Free Phone Calls*
 * [tuxi](https://github.com/Bugswriter/tuxi) - *Question & Answer CLI*
 * [Onym](https://guide.onym.co/) - *Tools / Resources for Naming Things*
 * [WorldTaxiMeter](https://www.worldtaximeter.com/) - *Taxi Fare Calculator*
 * [GasPrices](https://gasprices.aaa.com/) - *Gas Price Calculator*
+* [DiaperGrid](https://diapergrid.com/) - *Compare Diaper Prices*
 * [Solving Resources](https://the-unwelcome.github.io/resources/solving_resources.html) - *Code & Puzzle Solving Resources*
 * [carVertical](https://www.carvertical.com/) - *Vehicle History & VIN Decoder*
 * [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - *Bedtime Calculator* 
@@ -385,6 +387,7 @@
 * [Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_to_speech) - *Text to Speech Sites / Apps*
 * [Clash](https://clash.me/) - *Text to Speech using Sampled Media* 
 * [Audiogrep](http://antiboredom.github.io/audiogrep/) - *Transcribe & Search for Phrases in Audio / [GitHub](https://github.com/antiboredom/audiogrep)*
+* [FastHub](https://fasthub.net/) - *Text to Speech Translation Tool*
 * [Splitter](https://www.splitter.ai/) or [melody ml](https://melody.ml/) - *Separate voice from instrumentals*
 * [VocalRemover](http://vocalremover.org/) / [GUI](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [AIVocalRemover](https://aivocalremover.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb) or [Remove Vocals](https://www.remove-vocals.com/) - *Remove / Isolate Vocal Tracks*
 * [Acapella-Extractor](https://www.acapella-extractor.com/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - *Remove Background Tracks from Songs*
@@ -453,7 +456,7 @@
 
 # ► Internet Tools
 
-* **[WebOas.is](https://weboas.is/)**, [8bitdash](https://www.8bitdash.com/), [8Bitdashboard](https://8bitdashboard.com/) or [New Tab Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page) - *Custom Startpage / Dashboard* 
+* **[WebOas.is](https://weboas.is/)**, [8bitdash](https://www.8bitdash.com/), [8Bitdashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/) or [New Tab Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page) - *Custom Startpage / Dashboard* 
 * **[Internet Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_browser_tools)** - *Internet & Browser Privacy Tools* 
 * **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_managers)** - *Manage / Save Passwords*
 * **[Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_services)** - *Email Sites with a Focus on Privacy*
@@ -647,7 +650,7 @@
 
 ## ▷ Search Tools
 
-* **[Alternative Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_search_engines)** - *Alternatives to Google*
+* **[Alternative Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_search_engines)** or **[Search-Engine](https://start.me/p/wM7y15/search-engine)** - *Search Engine Indexes*
 * **[Privacy Based Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g#gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea#gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - *Search General Streaming Sites*
 *  [Video Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0) - *Search YouTube Like Video Sites*
@@ -1241,7 +1244,6 @@ General Reading Sites*
 * [CoreTemp](https://www.alcpu.com/CoreTemp/) - *Processor Temperature Monitor*
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) or [Process Lasso](https://bitsum.com/) - *CPU Optimizer* 
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - *Laptop CPU Monitor / Optimizer*
-* [Memory-Cleaner](https://github.com/danskee/Memory-Cleaner) - *Memory Optimizer*
 * [MemTest](https://www.memtest.org/) - *Memory Diagnostic Tool*
 * [CPUid](https://www.cpuid.com/softwares/cpu-z.html) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - *System Information Tool* 
 * [HWiNFO](https://www.hwinfo.com/) - *Hardware Analysis, Monitoring and Reporting*
