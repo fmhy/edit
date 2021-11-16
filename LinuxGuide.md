@@ -255,7 +255,7 @@
 * [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) - *Reddit Dekstop Client*
 * [Manta](https://github.com/hql287/Manta) - *Invoice Manager*
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - *Grayscale Control*
-* [Discord M1](https://github.com/17hoehbr/Discord-M1), [2](https://github.com/yannhodiesne/Discord-M1) - *M1 Mac Discord App*
+* [Discord M1](https://github.com/yannhodiesne/Discord-M1) - *M1 Mac Discord App*
 * [equinux](https://equinux.github.io/) - *OS X Certificate Fix*
 * [Lilu](https://github.com/acidanthera/Lilu) - *Kext / Process Patcher*
 * [TopNotch](https://topnotch.app/) - *Remove The Notch*
