@@ -78,7 +78,7 @@
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) - *Rust Programming  Guidebook*
 * [JavaScript.info](https://javascript.info/) - *JavaScript Guide* 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - *Javascript Learning Books*
-* [EloquentJavascript](https://eloquentjavascript.net/) - *Learn Javascript*
+* [EloquentJavascript](https://eloquentjavascript.net/) or [Grasshopper](https://grasshopper.app/) - *Learn Javascript*
 * [JavaScriptQuiz](https://javascriptquiz.com/) - *JavaScript Quiz*
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - *Node.js Guide / Tips*
 * [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - *Javascript Query Style Events Guide*
