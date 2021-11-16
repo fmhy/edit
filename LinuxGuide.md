@@ -150,6 +150,7 @@
 * [SShuttle](https://github.com/sshuttle/sshuttle) - *Proxy Server*
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - *Arch Linux base with Deluge, Privoxy & OpenVPN*
 * [Spotify-Adblock](https://github.com/abba23/spotify-adblock) - *Linux Spotify Adblocker*
+* [Anon-SMS](https://github.com/HACK3RY2J/Anon-SMS) - *Send Anonymous SMS Messages*
 
 ***
 
@@ -170,7 +171,7 @@
 
 # ► Linux Gaming
 
-* **[How-To Play on Linux](https://www.reddit.com/r/LinuxCrackSupport/comments/mfnvsl/megathread_how_to_play_on_linux/)** - *Linux Gaming Guide*
+* **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/comments/mfnvsl/megathread_how_to_play_on_linux/)** or [FitGirl Guide](https://old.reddit.com/r/Piracy/comments/d8rsvm/a_quick_guide_on_installing_fitgirl_repacks_on/) - *Linux Gaming Guides*
 * **[protondb](https://www.protondb.com/)** or **[Lutris](https://lutris.net/)** - *Play Windows games on Linux*
 * **[Torrminatorr](https://forum.torrminatorr.com/)** - *Linux Games*
 * **[johncena141](https://1337x.to/user/johncena141/)** - *Linux Games*
