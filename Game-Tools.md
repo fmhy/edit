@@ -35,7 +35,6 @@
 * [Aim Lab](https://aimlab.gg/), [AimBooster](http://www.aimbooster.com/), [3D Aim Trainer](https://store.steampowered.com/app/1600530/3D_Aim_Trainer/) or [AimTrainer](https://aimtrainer.io/) - *Aim Training Tools & Games*
 * [Skill Capped Downloader](https://ufile.io/kuthw907) - *Skill Capped Video DL Script / [Guide](https://i.imgur.com/lZofxhL.png)*
 * [MacroGamer](https://www.itoady.com/) - *Game Macro Recorder*
-* [Mon](https://github.com/dbednar230/mon) - *Command Line Pokedex*
 * [Blitz](https://blitz.gg/) - *Post Match Performance Analyzer / [Adblocker](https://github.com/lulzsun/blitz-app-adblock)* 
 * [Previously on Halo](https://previouslyonhalo.com/) - *Halo Franchise History*
 * [Map Genie](https://mapgenie.io/) or [VGMaps](http://www.vgmaps.com/)  - *Game Maps* 
@@ -74,6 +73,7 @@
 * [Lowkey](https://lowkey.gg/) - *Record / Screenshot Gameplay* 
 * [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
 * [Pokemon Typechart](https://pokemondb.net/type) - *Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)*
+* [PokeList](https://pokemonlist.netlify.app/) or [Mon](https://github.com/dbednar230/mon) - *Pokedexes*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
 * [GameGuides](https://www.gamerguides.com/), [Retro Game Strategy Guides](https://archive.org/details/Tekken3PrimasOfficialStrategyGuide1998), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [GamePressure](https://www.gamepressure.com/) or [Samurai Gamers](https://samurai-gamers.com/) - *Strategy Guides & Walkthroughs*
 * [Before I Play](http://www.beforeiplay.com/) - *Tips for any Game* 
