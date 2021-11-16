@@ -257,14 +257,15 @@
 * [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html) 
 * [OldVersion](http://www.oldversion.com/) - *Old Versions of Software* 
 * [Nirsoft](https://www.nirsoft.net/) - *Windows Software* 
-* [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software Index* 
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software*  
-* [RaymondFreeSoftware](https://t.me/raymondfreesoftware) - *telegram*
+* [WinTools](https://www.wintools.info/) - *Windows Software*
+* [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software Index* 
+* [RaymondFreeSoftware](https://t.me/raymondfreesoftware) - *Telegram*
 * [Suckless](https://suckless.org/) - *Simple Software Archive* 
 * [MSDN](https://the-eye.eu/public/MSDN/) - *Microsoft Developer Network Software* 
 * [WinWorldPC](https://winworldpc.com/) - *Abandonware / Operating Systems* 
 * [VETUSWARE](https://vetusware.com/) - *Abandonware / Operating Systems / Games*
-* [The Vintage Software Collection](https://archive.org/details/vintagesoftware) - *Vintage Software*
+* [The Vintage Software Collection](https://archive.org/details/vintagesoftware) or [SCiZE's Classic Warez Collection](https://scenelist.org/) - *Retro Software*
 * [Portapps](https://portapps.io/), [FC Portables](https://www.fcportables.com/), [Portable Freeware](https://www.portablefreeware.com/), [TheHouseOfPortable](https://thehouseofportable.com/), [freeportablesoftwares](https://sites.google.com/site/freeportablesoftwares/) or [PortableApps](https://portableapps.com/) - *Portable Apps for USB / SD / External Storage*
 * [Software Giveaway Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) 
 
