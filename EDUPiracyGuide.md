@@ -630,6 +630,7 @@
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - *Learn to Tie Knots* 
 * [Pol Art Folder](https://mega.nz/folder/rVcExIbB#VN9alzay0OrctggvEn1DUg) - *Historic European Art & Paintings*
 * [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio) or [WikiArt](https://www.wikiart.org/) - *Digital Art Collection*
+* [Arachne](https://arachne.dainst.org/) - *Ancient Sculpture Image Archive*
 * [The First World War](https://www.firstworldwar.amdigital.co.uk/) - *WW1 Study Material*
 * [Metabolic-Pathway](http://www.metabolic-pathway.com/fullMap.html) - *Interactive Metabolic Pathways Map* 
 * [AnimaGraffs](https://animagraffs.com/) - *Animated Infographs*
