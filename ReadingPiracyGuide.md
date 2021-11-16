@@ -150,6 +150,7 @@
 * [Avalon Library](https://avalonlibrary.net/) - *Books*
 * [IKindle](https://ikindlebooks.com/) - *Books*
 * [Free eBooks](http://www.freebooks.com) - *Books* 
+* [Read Any Book](https://read-any-book.com/) - *Books*
 * [GrayCity](https://graycity.net/) - *Books*
 * [CentslessBooks](https://centslessbooks.com/) - *Books* 
 * [SNEWD](https://snewd.com/) - *Books* 
