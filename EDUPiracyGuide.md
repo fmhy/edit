@@ -127,6 +127,7 @@
 * [Course Upload](https://courseupload.com/) - *Courses* 
 * [Christmas Share](https://mega.nz/folder/dVxiXITI#lM16YzFg6xlnDOGYBOWUhA), [2](https://mega.nz/folder/dVxiXITI#lM16YzFg6xlnDOGYBOWUhA/folder/pAQWDCaZ), [3](https://mega.nz/folder/mqxiBRTJ#0bnSa35nknxUqOCr-xdGYg) - *Courses*
 * [Mega Collection](https://mega.nz/folder/XXQFhAxC#jZoU8ep1AFSnALU7UTmKQw) - *Courses*
+* [ReadyYourFlow](https://learning.readyourflow.workers.dev/0:/) - *Courses*
 * [FTUForums](https://www.ftuforums.com/) - *Courses / [Discord](https://discord.gg/xAsMX52)*
 * [Coursesghar](https://coursesghar.com/) - *Courses* 
 * [CourseUpload](https://courseupload.net/) - *Courses*
@@ -363,6 +364,7 @@
 * [100,000 Stars](https://stars.chromeexperiments.com/) - *Interactive 3D Star Visualization*
 * [Stellarium-Web](https://stellarium-web.org/) - *Online Stellarium*
 * [ESO](https://www.eso.org/public/images/eso1242a/zoomable/), [Hubble](https://esahubble.org/images/heic1502a/zoomable/), [Hubble 2](https://esahubble.org/images/heic1901a/zoomable/) - *Massive Zoomable Telescope Photos*
+* [Space Telescope Live](https://spacetelescopelive.org/) - *Live Hubble Image Data*
 * [APOD](https://apod.nasa.gov/) - *Daily NASA Astronomy Pictures*
 * [SpaceEngine](http://spaceengine.org/) - *Universe Simulator*
 * [astro.sfasu](http://astro.sfasu.edu/courses/ast305/homework/) - *Astronomy Homework*
@@ -628,6 +630,7 @@
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - *Learn to Tie Knots* 
 * [Pol Art Folder](https://mega.nz/folder/rVcExIbB#VN9alzay0OrctggvEn1DUg) - *Historic European Art & Paintings*
 * [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio) or [WikiArt](https://www.wikiart.org/) - *Digital Art Collection*
+* [The First World War](https://www.firstworldwar.amdigital.co.uk/) - *WW1 Study Material*
 * [Metabolic-Pathway](http://www.metabolic-pathway.com/fullMap.html) - *Interactive Metabolic Pathways Map* 
 * [AnimaGraffs](https://animagraffs.com/) - *Animated Infographs*
 * [How a Car Works](https://www.howacarworks.com/) - *Car Mechanics / Automotive Engineering Guides* 
