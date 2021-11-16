@@ -642,6 +642,9 @@ RSS Player*
 * [libhooker-configurator](https://github.com/coolstar/libhooker-configurator) - *LibHooker CS 13.0+ Jailbreak Config*
 * [EtasonATV](https://etasonatv.tihmstar.net/) - *Apple TV Jailbreaking*
 * [SHSH Host](https://shsh.host/) - *Save SHSH blobs to upgrade/downgrade iOS versions* 
+* [iOS-OTA-Downgrader](https://github.com/LukeZGD/iOS-OTA-Downgrader) - *OTA Downgrade iOS*
+* [BlobSaver](https://github.com/airsquared/blobsaver) - *GUI for Saving SHSH Blobs*
+* [TSSChecker](https://github.com/tihmstar/tsschecker) - *Check TSS Signing Status*
 * [FutureRestore](https://github.com/tihmstar/futurerestore) - *Restore to Unsigned Firmware / [GUI](https://github.com/CoocooFroggy/FutureRestore-GUI/)*
 * [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app), [Saily](https://github.com/SailyTeam/Saily) or [Zebra](https://getzbra.com/) - *APT Package Manager / [Website](https://getsileo.app/)*
 
