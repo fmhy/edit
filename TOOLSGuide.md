@@ -63,7 +63,7 @@
 * [World Weather Online](https://www.worldweatheronline.com/) - *Historical Weather Reports*
 * [Cricket Convert](https://www.weather.gov/epz/wxcalc_cricketconvert) - *Estimate Temperature via Cricket Chirps*
 * [RTL-SDR](https://gist.github.com/fasiha/c123a9c6b6c78df7597bb45e0fed808f) - *DIY FAA & EASA Satellite Feeds / Transponder*
-* [Cool Generator](https://www.coolgenerator.com/), [RANDOM](https://www.random.org/) or [Random Lists](https://www.randomlists.com/) - *Generate Anything*
+* [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/) or [Random Lists](https://www.randomlists.com/) - *Generate Anything*
 * [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - *Wheel Randomizer*
 * [Diff Checker](https://www.diffchecker.com/) - *Check for differences in Text, Images, PDFs or Files*
 * [IRuler](https://iruler.net/) - *Turn your device into a Ruler*  
