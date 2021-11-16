@@ -691,6 +691,7 @@ RSS Player*
 
 # ► iOS Tools
 
+* **[Hyperweb](https://hyperweb.app/)** - *iOS Safari Improvement + Adblock Extension*
 * **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Mobile Wallpaper Sites & Apps*
 * [Waltr](https://softorino.com/waltr/) - *Convert Files to iOS Formats*
 * [Filza](http://cydia.saurik.com/package/com.tigisoftware.filza/) or [AnyTrans](https://www.imobie.com/anytrans/) - *File Manager*
@@ -707,7 +708,6 @@ RSS Player*
 * [InsightBrowser](https://insightbrowser.com/) - *Browser*
 * [Kagi](https://apps.apple.com/us/app/kagi/id1484498200) - *Browser w/ Firefox & Chrome Extension Support*
 * [iRetro](https://apps.apple.com/us/app/iretro-the-internet-browser/id1015692776) - *Browser w/ Wayback Machine*
-* [Hyperweb](https://hyperweb.app/) - *iOS Safari Improvement + Adblock Extension*
 * [Lights Off](https://testflight.apple.com/join/pj7BWqeJ) - *iOS Safari Dark Mode*
 * [DiscordExtras](https://github.com/NotZoeyDev/DiscordExtras) - *Patch Discord Client*
 * [Local Time Generator](https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94) - *Generate Discord Timestamps*
