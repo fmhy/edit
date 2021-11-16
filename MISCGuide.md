@@ -232,7 +232,7 @@
 * [Drinking Game Zone](https://drinkinggamezone.com/) - *Drinking Games Encyclopedia* 
 * [MakeMyCocktail](http://makemycocktail.com/) - *Create Custom Cocktails*
 * [Drinkify](http://drinkify.org/) - *Picks Drinks Based on Songs* 
-* [Activity Suggestion](https://www.activitysuggestion.com/), [Things to Do](https://randomthingstodo.com/) or [bored.solutions](https://bored.solutions/) - *Activity Suggestions* 
+* [Activity Suggestion](https://www.activitysuggestion.com/), [Things to Do](https://randomthingstodo.com/), [TheZen](https://thezen.zone/) or [bored.solutions](https://bored.solutions/) - *Activity Suggestions*
 * [Human Benchmark](https://humanbenchmark.com/) - *Brain Games & Cognitive Tests* 
 * [David.li](http://david.li/) - *Physics Games*
 * [DriveMeInsane](http://drivemeinsane.com/) - *Control a Home Automation System* 
@@ -471,6 +471,7 @@
 * [FOAAS](https://github.com/tomdionysus/foaas) - *Automate Telling People to Fuck Off*
 * [The Fed](https://thefed.app/) - *Central Banking Game* 
 * [Money printer go BRRR](https://brrr.money/) - *Print it, baby!* 
+* [Scrollometer](http://scroll-o-meter.club/) - *Guy Running (Yeah thats it)*
 * [The Tsuki Project](https://classic.systemspace.network/) - *Gain Eternal Life / [Explanation](https://youtu.be/mWkgvM-Qnhw)*
 * [Nested](http://orteil.dashnet.org/nested) - *Explore the Universe in a File System* 
 * [Pornolize](https://pornolize.com/) - *Make Inappropriate Versions of Webpages* 
