@@ -573,7 +573,7 @@
 
 ## ▷ Streaming
 
-* [Italian Streaming Sites List](https://rentry.co/t29tz)
+* [Streaming Improved](https://rentry.co/ItalianStreamingImproved), [2](https://rentry.co/t29tz) - *Streaming Sites List*
 * [euroStreaming](https://eurostreaming.vision/) - *Use deltabit / Movies / TV / Anime / Use AdBlocker* 
 * [Altaefinizione](https://altadefinizione.sh/) - *Movies / TV / Anime* 
 * [guardaserie01](https://www.guardaserie01.uno/) - *Movies / TV* 
