@@ -119,7 +119,6 @@
 * **[PrettyFlix](https://prettyflix.gq/)** - *Movies / TV / Anime*
 * **[Arthemis](https://releases.arthemis.xyz/)** - *Movies / TV / Anime / Client / [Discord](https://discord.gg/98HxbfjKQV)*
 * [YourPTFlixMovies](https://yourptflixmovies.com/) - *Movies / TV*
-* [RareFilmm](https://rarefilmm.com/) - *Rare Movies* 
 * [Movie-Forum](https://movie-forum.co/forum.php) - *Movies / TV*
 * [K a p K e y K](https://kpkyk.com/) - *Movies / TV*
 * [IceFilms](https://wwv.icefilms-info.com/) - *Movies / TV*
@@ -163,6 +162,7 @@
 * [SeeHD](https://seehd.nl/) - *Movies / TV / Anime* 
 * [SeeHD.uno](https://www.seehd.uno/) - *Movies / TV / Anime / NSFW* 
 * [Yesmovies.love](https://yesmovies.love/) - *Movies / TV / Anime* 
+* [Openload Movies](https://openloadmovies.ch/) - *Movies*
 * [GustaTV](https://www2.gustatv.to/) - *Movies / TV Anime*
 * [5Movies](https://5movies.run/) - *Movies / TV / Anime*
 * [CimaClub](https://www.cimaclub.cc/category/%D8%A3%D9%81%D9%84%D8%A7%D9%85-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86) - *Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
@@ -192,12 +192,14 @@
 
 ## ▷ Specialty Streaming
 
-* [Club-MST3k](http://www.club-mst3k.com/) - *All MST3k episodes*
-* [Rifftrax Twitch](https://www.twitch.tv/rifftrax) or [RiffTrax Pluto](https://pluto.tv/live-tv/rifftrax) - *RiffTrax Live Streams*
+* [RareFilmm](https://rarefilmm.com/) - *Rare Movies* 
 * [Classic Cinema Online](https://classiccinemaonline.com/), [PublicDomainFlix](https://publicdomainflix.com/), [BnWMovies](https://bnwmovies.com/) or [Dumb Classic Movies](http://www.dumb.com/movies/) - *Classic Films*
 * [TheFilmDetective](https://thefilmdetective.tv/) - *Classic Films / TV*
 * [RetroVision Media](http://www.retrovisionmedia.com/) - *Retro / Classic Films* 
+* [horror.watch](https://horror.watch/) - *Classic Horror Films*
 * [Wu Tang Collection](https://www.thewutangcollection.com/) - *Martial Arts Films*
+* [Club-MST3k](http://www.club-mst3k.com/) - *All MST3k episodes*
+* [Rifftrax Twitch](https://www.twitch.tv/rifftrax) or [RiffTrax Pluto](https://pluto.tv/live-tv/rifftrax) - *RiffTrax Live Streams*
 * [Ubu](https://ubu.com/film/) - *Short Films / Avant-Garde*
 * [LIMA](https://www.li-ma.nl/) - *Short / Experimental Films*
 * [The Library of Congress](https://www.loc.gov/film-and-videos/) - *Movies / Short Films* 
@@ -296,6 +298,7 @@
 * [AnimeFox](https://animefox.io/) or [FlixAni](https://flixani.me/) - *Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)*
 * [AnimeHeaven](https://animeheaven.ru/) - *Sub / Dub* 
 * [AnimeDao](https://animedao.to/) - *Sub*
+* [AniStream](https://anistream.fun/) - *Sub*
 * [Array Anime](https://www.arrayanime.com/) - *Sub / Dub* 
 * [Pantsubase](https://pantsubase.tv/) - *Sub / Dub* 
 * [AnimeLand](https://www.animeland.us/) - *Dub* 
@@ -324,6 +327,7 @@
 * [WCO](https://www.wco.tv/)  - *Anime / Cartoons / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wco_clones)* 
 * [Funimation](https://www.funimation.com/shows/free/) - *Sub / Dub* 
 * [Pokemon.com](https://watch.pokemon.com/) - *Full Pokemon Episodes*
+* [Yuna](https://yuna.moe/) - *Anime Streaming Client / [GitHub](https://github.com/BeeeQueue/yuna)*
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - *Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/)* 
 * [Crunchyroll iFrame Player](https://greasyfork.org/en/scripts/411391-crunchyroll-iframe-player) - *Crunchyroll Premium Bypass Script / [GitHub](https://github.com/Mateus7G/crp-iframe-player)*
 * [Themes.moe](https://themes.moe/) - *Anime Opening & Ending Themes*
@@ -340,6 +344,7 @@
 * [KissCartoon.info](https://kisscartoon.info/) - *Anime / Cartoons*
 * [Supercartoons](https://www.supercartoons.net/)
 * [b98](https://www.b98.tv/)
+* [Disney Video](https://video.disney.com/series/) - *Disney Series & Shorts*
 * [South Park](https://southpark.cc.com/) - *South Park Episodes* 
 * [ToonamiAftermath](https://www.toonamiaftermath.com/) - *Toonami Stream* 
 
@@ -412,6 +417,7 @@
 * [WatchNewsLive](https://watchnewslive.tv/) - *TV / Sports*
 * [streamlive](https://www.streamlive.to/) - *TV / Sports*
 * [ChannelSurf](https://channelsurf.tv/) - *TV / Sports*
+* [JokerLiveStream](https://www.jokerlivestream.life/) - *Sports*
 * [First Row Sports](https://firstsrowsports.tv/) - *Sports*
 * [720pStream](http://720pstream.tv/) - *Sports* 
 * [CrackStreams](https://crackstreams.io/), [2](https://crackstreams.me/), [3](https://crackstreams.to/) - *Sports*
@@ -662,6 +668,7 @@
 * **[hi10anime](https://hi10anime.com/)** - *Sub*
 * **[AnimeBatchDDL](https://animebatchddl.wordpress.com/)** - *Sub / Dub / [Discord](https://discord.gg/sgqcm2xCtc)*
 * **[Judas Discord](https://discord.gg/vbJ7RTn)** - *Sub / Dub / [TeamDrive](https://groups.google.com/d/forum/judasddl)* 
+* **[15TB Anime Collection](https://drive.google.com/drive/folders/1vSdJo_OrJNgVIRYsvTwR-PeLyM8L-V0M)** - *Sub / Dub*
 * **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)** - *Telegram Anime Download Channels* 
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - *Sub / Dub / Anime / Manga Download Forum*
 * [Animk](https://animk.info/) - *Sub / Dub*
@@ -674,9 +681,9 @@
 * [NoobSubs](https://noobsubs.com/) - *Sub / Dub / [Drive](https://noobftp1.noobsubs.com/), [2](https://noobftp2.noobsubs.com/)*
 * [AnimeLand](https://www.animeland.us/) - *Dub*
 * [AnimeSub](https://animesub.in/) - *Sub / Dub*
-* [Anime Collection (15Tb)](https://drive.google.com/drive/folders/1vSdJo_OrJNgVIRYsvTwR-PeLyM8L-V0M) - *Sub / Dub*
 * [DarkLegends](https://darklegends60mb.org/) - *Sub*
 * [SSAnime](https://ssanime.ga/) - *Sub*
+* [AnimeKuro](https://animekuro.org/) - *Sub / Dub / [Subreddit](https://www.reddit.com/r/animesub/)*
 * [Kayoanime](https://kayoanime.com/) - *Sub / Dub / [Telegram](https://t.me/Kayoanime)*
 * [Mix Bag of Anime](https://redd.it/nsa8yg) - *Sub / Dub*
 * [ANIME___](https://storage.kanzaki.ru/ANIME___/) - *Sub*
@@ -818,6 +825,7 @@
 * [AniDB](https://anidb.net/) - *Anime*
 * [AniList](https://anilist.co/) - *Anime / [Wrapper](https://github.com/butterstroke/Anilist-Node)* 
 * [Animender](https://discord.gg/h6nTTprMKd) or [AniBrain](https://anibrain.ai/) - *Anime Recommendation Tool*
+* [ACDB](https://www.animecharactersdatabase.com/) - *Anime Character Database*
 * [MetaCritic](https://www.metacritic.com/) - *Movies / TV / Anime*
 * [rate.house](https://rate.house/) - *Media Tracker*
 * [FlickChart](https://www.flickchart.com/) - *Rank your movies*
