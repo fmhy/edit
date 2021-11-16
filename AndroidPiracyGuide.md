@@ -223,6 +223,7 @@
 * [Vysor](https://www.vysor.io/) or [scrcpy](https://github.com/Genymobile/scrcpy) - *Control Android via Desktop*
 * [FAST](https://play.google.com/store/apps/details?id=com.netflix.Speedtest), [Meteor](https://play.google.com/store/apps/details?id=meteor.test.and.grade.internet.connection.speed) or [FCC Speed Test](https://play.google.com/store/apps/details?id=com.samknows.fcc&hl=en_US&gl=US) - *Internet Speed Test*
 * [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - *Use Google Cam Without Google Play* 
+* [Fix My Speakers](https://fixmyspeakers.com/) - *Eject Water from Phones Speakers*
 * [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - *Fix OLED Images*
 * [Red Moon](https://github.com/LibreShift/red-moon) - *Screen Filter*
 * [sh-ort](https://sh-ort.app/) - *URL Shortener*
@@ -344,6 +345,7 @@
 * [TechBigs](https://techbigs.com/) - *Modded*
 * [AndroidYolo](https://androidyolo.co/) - *Modded*
 * [APKMody](https://apkmody.io/) - *Modded* 
+* [LetsCrackOn](https://letscrackon.org/downloads/) - *Modded*
 * [APK Folks](https://apkfolks.com/) - *Modded*
 * [DL King](http://dl.king2net.com/soft%20android/) - *Modded*
 * [APK Bolt](https://apkbolt.com/) - *Modded*
@@ -577,7 +579,8 @@ RSS Player*
 * [AnimeBoya](https://github.com/Tu2l/AnimeBoya)
 * [Aniyomi](https://github.com/jmir1/aniyomi)
 * [Animebay](https://animebay.tech/)
-* [AnimeFanz Tube](https://apkpure.com/anime-fanz-tube/com.animefanzapp.tube) - *Anime*
+* [Akiyama](https://github.com/Fmaldonado6/Akiyama)
+* [AnimeFanz Tube](https://apkpure.com/anime-fanz-tube/com.animefanzapp.tube)
 * [KATSU](https://katsu.pw/) - [Discord](https://discord.gg/gjcy6MQ)
 * [Anime-DL](https://github.com/sharn25/Anime-DL-Android-Verison) - *Download Anime / [Discord](https://discord.gg/Ee3fegN)* 
 * [MALClient](https://github.com/Drutol/MALClient), [MyAnimeList Client](https://play.google.com/store/apps/details?id=net.myanimelist.app) or [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - *MyAnimeList Client*
