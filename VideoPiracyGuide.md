@@ -936,6 +936,7 @@
 * [YTS Subs](https://yts-subs.com/) - *Subtitles*
 * [MovieSubtitles](http://www.moviesubtitles.net/) - *Subtitles*
 * [SubtitleSeeker](https://www.subtitleseeker.in/) - *Subtitles*
+* [SubsDog](https://subs.dog/) - *Subtitles*
 * [Subtitlist](https://subtitlist.com/) - *Subtitles* 
 * [SubtitlesHub](https://subtitleshub.net/) - *Subtitles* 
 * [English-Subtitles](https://www.english-subtitles.me/) - *Subtitles*
