@@ -162,7 +162,8 @@
 * [Smashwords](https://www.smashwords.com/shelves/home/1/free/any) - *Books* 
 * [kodges](https://www.kodges.ru/) - *Books / Use Translator*
 * [lesatkins](http://www.lesatkins.com/books/epubfiles/) - *Books / [Download Zip](http://www.lesatkins.com/books/downloadzip.php)*
-* [Flibusta](https://flibusta.is/) - *Books / [Onion](http://flibustahezeous3.onion/) / Requires account*
+* [Flibusta](https://flibusta.is/) - *Books / [Onion](http://flibustahezeous3.onion/) / [I2P](http://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / Requires account*
+* [The Free Book Library](http://ebooks.i2p/) - *Books / I2P Required*
 * [DailyLit](https://dailylit.com/) - *Books*  
 * [BookSearch](https://ravebooksearch.com/) - *Ebook Search Engine*
 * [Ebooks Searcher](https://ebook-searcher.com/) or  - *Multi-Site Book Search* 
