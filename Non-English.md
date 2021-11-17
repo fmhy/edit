@@ -1172,7 +1172,7 @@ Portuguese
 
 ## ▷ Torrenting
 
-* **[RuTracker](http://rutracker.org)** - *Video / Audio / Games / Software / Android / Comics / Magazines + [Onion](http://rutrackerripnext.onion/)*
+* **[RuTracker](http://rutracker.org)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - *Video / Audio / Games / Software / Android / Comics / Magazines*
 * [UpTracker](https://www.uptracker.ru/) - *Torrent Tracker Index*
 * [krasfs](https://krasfs.ru/) - *Torrent Search* 
 * [torrent.by](http://torrent.by/) - *Torrent Search* 
