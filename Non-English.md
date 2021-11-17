@@ -1263,7 +1263,7 @@ Portuguese
 
 * **[CyberLeninka](https://cyberleninka.ru/)** - *Articles / Educational / Scientific / Legal*  
 * **[Lib.ru](http://lib.ru/)** - *Books*
-* **[Flibusta](https://flibusta.is/)** - *Books + [Onion](http://flibustahezeous3.onion/) / Requires account*
+* **[Flibusta](https://flibusta.is/)** - *Books / [Onion](http://flibustahezeous3.onion/) / [I2P](http://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / Requires account*
 * [VK Book DL Pages](https://redd.it/kne0ba) 
 * [LoveRead.ec](http://loveread.ec/) - *Books / NSFW*
 * [Twirpx](https://www.twirpx.com/) - *Books / Educational* 
