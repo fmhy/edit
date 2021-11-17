@@ -864,7 +864,6 @@
 * [Chronology of Animation](http://www.animated-divots.net/chronst.html) - *Animation History / Index*
 * [Movie-Censorship](https://www.movie-censorship.com/) - *Compare Alternate Versions of Media* 
 * [MovieMap](http://www.themoviemap.com/), [ReelStreets](https://www.reelstreets.com/), [Movie-Locations](http://www.movie-locations.com/), [WhereDidTheyFilmThat](http://www.wheredidtheyfilmthat.co.uk/), [British-Film-Locations](http://www.british-film-locations.com/) - *Film Location Maps*
-* [GoGetSpoiled](https://gogetspoiled.com/), [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - *Movie Spoilers* 
 
 ***
 
@@ -983,6 +982,7 @@
 * **[/r/animepiracy Wiki](https://wiki.piracy.moe/)** - *Anime Piracy Guides / Tutorials*
 * **[WhereYouWatch,](https://whereyouwatch.com/latest-reports/)** [Squawkr](https://www.squawkr.io/), [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates) or [/r/movieleaks](https://reddit.com/r/movieleaks) - *Check if a Movie has Leaked*
 * [RunPee](https://runpee.com/) - *Best Movie Break Times*
+* [GoGetSpoiled](https://gogetspoiled.com/), [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - *Movie Spoilers* 
 * [Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Covers for Movies, TV ect.* 
 * [IsThisDubbed?](https://isthisdubbed.com/) - *Check if an Anime is Dubbed*
 * [AnimeFillerList](https://www.animefillerlist.com/) - *Anime Filler Guide*
