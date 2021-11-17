@@ -17,7 +17,7 @@
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - *Rainmeter Game Launcher*
 * [How-To Make Cracked Games Look Like Official Steam Games](https://www.reddit.com/r/PiratedGames/comments/pmim9t/tutorial_make_your_cracked_games_look_like/)
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?usp=sharing), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - *FPS & Latency Guides*
-* [Fraps](https://fraps.com/), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - *FPS Benchmarking Utility*
+* [Fraps](https://rentry.co/frapsfullfree) / [2](https://fraps.com/), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - *FPS Benchmarking Utility*
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner) - *Graphics Card Overclocking Utility / FPS Benchmarking*
 * [MSI Kombustor](https://msikombustor.com/) - *GPU Benchmark Test*
 * [Overclock](https://www.overclock.net/) - *Overclocking Forum*
