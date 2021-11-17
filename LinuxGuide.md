@@ -187,6 +187,7 @@
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - *Linux Game Package Downloader*
 * [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher for Linux*
 * [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - *Roblox Manager for Linux*
+* [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - *Play Among Us in your Terminal (Recreation)*
 
 ***
 
