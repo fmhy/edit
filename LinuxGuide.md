@@ -62,6 +62,7 @@
 * [Polychromatic](https://polychromatic.app/) - *Linux System Light Control*
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) - *Noise Cancellation Software*
 * [Luakit](https://luakit.github.io/) - *Lightweight Linux Browser* 
+* [browsh](https://www.brow.sh/) - *Text based Browser*
 * [Librewolf Linux](https://librewolf-community.gitlab.io/) or [Dot Browser](https://github.com/dothq/browser) - *Privacy-Based Browser*
 * [pass](https://www.passwordstore.org/) - *Unix Password Manager* 
 * [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) or [GnomeKeyring](https://wiki.gnome.org/Projects/GnomeKeyring) - *GNOME Password Manager* 
@@ -136,6 +137,7 @@
 * [picom](https://github.com/yshui/picom) - *X11 Compositor*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
 * [Learn the Linux Command Line](https://mega.nz/folder/BlRVyArK#84n4ZhYZCRXLjt-KEP6u6g) or[LinuxCommand](https://www.linuxcommand.org/tlcl.php) - *Linux Command Line Lessons*
+* [Command Line Shells](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_command_line_shells)
 
 ***
 
