@@ -565,6 +565,7 @@
 * [TVindexer](https://tvindexer.com/) - *Movies / TV / Anime*
 * [Movies Mobile](https://mobilemovies.info/index.php?dir=Hollywood%20Movies) - *Movies*
 * [SeriesVault](https://seriesvault.tk/) - *TV* 
+* [TVShows.today](https://tvshows.today/) - *TV*
 * [MoviezAddiction](https://moviezaddiction.me/) - *Movies / TV* 
 * [10StarHD](https://10starhd.run/category/hollywood-movies/) - *Movies*
 * [WorldFree4u](https://worldfree4u.download/) - *Movies* 
