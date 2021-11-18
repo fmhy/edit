@@ -63,6 +63,8 @@
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) - *Noise Cancellation Software*
 * [reddio](https://gitlab.com/aaronNG/reddio) - *Reddit CLI*
 * [rainbowstream ](https://github.com/orakaro/rainbowstream) - *Twitter CLI*
+* [Corebird](http://corebird.baedert.org/) - *Twitter Client*
+* [ramme](https://github.com/terkelg/ramme) - *Instagram Client*
 * [Luakit](https://luakit.github.io/) - *Lightweight Linux Browser* 
 * [browsh](https://www.brow.sh/) - *Text based Browser*
 * [Librewolf Linux](https://librewolf-community.gitlab.io/) or [Dot Browser](https://github.com/dothq/browser) - *Privacy-Based Browser*
@@ -125,9 +127,8 @@
 * [Autokey](https://github.com/autokey/autokey) - *Linux Automation Utility*
 * [The Linux Kernel Archives](https://kernel.org/) - *Linux Kernel Archive*
 * [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
+* [tldr](https://github.com/tldr-pages/tldr/) - *Tl;dr'd man pages*
 * [Ghostwriter](http://wereturtle.github.io/ghostwriter/) - *Markdown Editor*
-* [Corebird](http://corebird.baedert.org/) - *Twitter Client*
-* [ramme](https://github.com/terkelg/ramme) - *Instagram Client*
 * [Whatever](https://github.com/CellarD0-0r/whatever) - *Evernote Client*
 * [Simple Terminal](https://st.suckless.org/), [Alacritty](https://github.com/alacritty/alacritty) or [Kitty](https://sw.kovidgoyal.net/kitty/overview/) - *Terminal Emulator*
 * [Electerm](https://electerm.github.io/electerm) - *Terminal / SSH / STP Client*
