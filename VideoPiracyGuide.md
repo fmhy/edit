@@ -465,6 +465,7 @@
 * [CricHD](https://fc5.crichd.com/) - *Sports* 
 * [Sports24](https://sports24.stream/) - *Sports*
 * [MamaHD](https://mamahd.best/) - *Sports*
+* [Touchcric](https://mob.touchcric.com/) - *Sports*
 * [DaddyLive](https://daddylive.me/) - *Sports*
 * [Volokit](https://community.volokit.com/) - *Sports* 
 * [StrikeOut](https://www.strikeout.nu/) - *Sports*
