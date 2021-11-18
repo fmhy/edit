@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/uknee0h.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/sxKBzA6.png)** - *For mobile users*
 
 ***
 ***
@@ -334,6 +334,20 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 #### Conversational Chatbots
 
 [Replika](https://replika.ai/), [Mitsuku](https://www.pandorabots.com/mitsuku/), [cleverbot](https://www.cleverbot.com/), [eviebot](https://www.eviebot.com/en/), [rose](http://ec2-54-215-197-164.us-west-1.compute.amazonaws.com/speech.php), [jabberwacky](http://www.jabberwacky.com/), [Kajiwoto](https://kajiwoto.com/) (ai builder), [God](http://www.dumb.com/god/), [Talk-Bot](http://www.frontiernet.net/~wcowart/index.shtml), [Madam Zena](http://www.madamzena.com/)
+
+***
+
+#### Command Line Shells
+
+* zsh - https://www.zsh.org/
+* Fish - https://fishshell.com/
+* bash - https://www.gnu.org/software/bash/ (Preinstalled on most distros)
+* elvish - https://elv.sh/
+* es - https://wryun.github.io/es-shell/
+* ion - https://github.com/redox-os/ion
+* yash - https://yash.osdn.jp/
+* xonsh - https://xon.sh/
+* nushell - https://github.com/nushell/nushell 
 
 ***
 
