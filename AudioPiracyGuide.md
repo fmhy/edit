@@ -220,7 +220,6 @@
 
 * **[Audio Download Sites Search](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** + [Audio Download Sites 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w)
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "audio"*
-* **[RipRequests](https://reddit.com/r/riprequests)** - *FLAC / MP3 / Ripping Discussion / [Discord](https://discord.gg/riprequests)*
 * **[Free MP3 Download](https://free-mp3-download.net/)** - *Search / MP3 / FLAC*
 * **[Mudome](https://mudome.org/)** - *MP3 / FLAC*
 * [The Last Disaster](https://thelastdisaster.vip/), [2](https://thelastdisaster.org/) - *MP3 / FLAC*
@@ -406,7 +405,6 @@
 # ► Request Music
 
 * **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)** 
-* **[RIPREQUESTS](https://discord.gg/riprequests)** - *MP3 / FLAC / r/riprequests*
 * **[TheMegaDrive](https://discord.gg/h2P5zsNMxZ)** - *Megadrive Discord* 
 * [WorldSrc](https://t.me/WorldsrcOfficial)
 * [TehParadox](https://www.tehparadox.net/requests/)
