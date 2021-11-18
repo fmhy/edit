@@ -1019,7 +1019,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Modded Minecraft Launchers
 
-**[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/) / [2](https://github.com/Aetopia/Lunar-Client-Lite-Launcher) / [Tweaks](https://discord.gg/solartweaks) / [2](https://github.com/RichardDorian/Solar-Tweaks), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL)
+**[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/) / [2](https://github.com/Aetopia/LCLPy) / [Tweaks](https://discord.gg/solartweaks) / [2](https://github.com/RichardDorian/Solar-Tweaks), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL)
 
 ***
 
