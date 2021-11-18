@@ -61,11 +61,15 @@
 * [HydraPaper](https://hydrapaper.gabmus.org/) - *Linux Wallpaper Manager*
 * [Polychromatic](https://polychromatic.app/) - *Linux System Light Control*
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) - *Noise Cancellation Software*
+* [reddio](https://gitlab.com/aaronNG/reddio) - *Reddit CLI*
+* [rainbowstream ](https://github.com/orakaro/rainbowstream) - *Twitter CLI*
 * [Luakit](https://luakit.github.io/) - *Lightweight Linux Browser* 
 * [browsh](https://www.brow.sh/) - *Text based Browser*
 * [Librewolf Linux](https://librewolf-community.gitlab.io/) or [Dot Browser](https://github.com/dothq/browser) - *Privacy-Based Browser*
 * [pass](https://www.passwordstore.org/) - *Unix Password Manager* 
 * [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) or [GnomeKeyring](https://wiki.gnome.org/Projects/GnomeKeyring) - *GNOME Password Manager* 
+* [gopass](https://www.gopass.pw/) - *CLI Password Manager*
+* [exa](https://the.exa.website/) - *Modern ls replacement*
 * [p7zip](http://p7zip.sourceforge.net/) - *File Archiver / Unzipper*
 * [Curlew](https://curlew.sourceforge.io/) - *Linux File Converter*
 * [Dolphin](https://userbase.kde.org/Dolphin) or [ranger](https://github.com/ranger/ranger) - *File Manager*
