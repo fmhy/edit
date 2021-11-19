@@ -1258,6 +1258,7 @@ General Reading Sites*
 * [WhatPulse](https://whatpulse.org/) - *Mouse / Keyboard Usage Analyzer*
 * [BleachBit](https://www.bleachbit.org/) or [GlarySoft](https://www.glarysoft.com/) - *Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect.*  
 * [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - *Startup Program Monitor*
+* [Remove Hidden Startup Programs](https://www.youtube.com/watch?v=sUXcMaP6wRQ) - *How-to Remove Secret Startup Apps*
 * [DefaultProgramsEditor](https://defaultprogramseditor.com/) - *File Association Editor*
 * [RegExp](https://github.com/zodiacon/RegExp) or [Registry-Finder](https://registry-finder.com/) - *Improved Registry Explorer*
 * [Awesome Regex](https://github.com/aloisdg/awesome-regex) - *Regex Resource Index*
