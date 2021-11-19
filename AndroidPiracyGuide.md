@@ -635,7 +635,6 @@ RSS Player*
 * [Totally Not Spyware](https://totally-not.spyware.lol/) - *Safari Jailbreaking Tool*
 * [SuccessionRestore](https://github.com/Samgisaninja/SuccessionRestore) - *Restore iOS without a computer (without updating)*
 * [odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - *Checkra1n / Odysseyra1n Installation Distro / [GUI](https://github.com/23Aaron/Betelguese)*
-* [Kiiimo](http://cydia.kiiimo.org/ ) - *Cydia Repo for Pirated Packages/Tweaks*
 * [ReProvision](https://github.com/Matchstic/ReProvision) - *On-device signing utility*
 * [HackYouriPhone Repo](https://repo.hackyouriphone.org/) - *Jailbreak / Tweaks* 
 * [isecureos](https://isecureos.idevicecentral.com/repo/) - *Jailbreak Antivirus Tweak*
@@ -793,6 +792,8 @@ RSS Player*
 * [ioshaven](https://ioshaven.com/apps) - *App Store* 
 * [Signulous](https://www.signulous.com/) - *App Store / Sideloading*
 * [Kiiimo](https://cydia.kiiimo.org/) - *App Repository*
+* [paxcex](https://paxcex.github.io/) - *App Repository*
+* [sarahh12099](https://sarahh12099-mirror.github.io/repo) - *App Repository*
 * [CydiaGeek](https://cydiageek.yourepo.com/) - *App Repository* 
 * [ReJail Repo](https://rejail.ru/) - *App / Tweak Repository* 
 * [AppHeaven](https://www.appheaven.vip/) - *App / Tweak Repository* 
