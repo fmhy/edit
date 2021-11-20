@@ -61,7 +61,6 @@
 * [Clip Fuck](https://clipf.com/) 
 * [Sex-Student](https://sex-studentki.vip/)
 * [Permanent Booru](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
-* [SuicideG](http://suicideg4jl25hzn.onion/) 
 * [mcb3id.onion](http://ik4kzum3ocg6dhx4jhzteko4jzijmxnwsbkcqenf33as3i74i3mcb3id.onion/) 
 * [The Asenheim Project](https://www.asenheim.org/)
 * [NetU Search](https://netu.tv/view_page.php?pid=4) - *Click [blue box](https://i.imgur.com/c19hKLw.png)*
