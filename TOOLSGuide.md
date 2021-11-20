@@ -675,8 +675,8 @@ General Reading Sites*
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1) - *Search File Hosts*
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - *Search Pastebins*
 * [Search All](https://www.searchall.net/) or [AIO Search](https://www.aiosearch.com/) - *Multi Site Search*
-* [Software CSE](https://cse.google.com/cse?cx=57b3962509047447e) / [CSE 2](https://cse.google.com/cse?cx=ec7d33ef358ae1b65) - *Search Software Sites*
-* [Rom CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - *Search Rom Sites*
+* [Software CSE](https://cse.google.com/cse?cx=57b3962509047447e), [2](https://cse.google.com/cse?cx=ec7d33ef358ae1b65) - *Search Software Sites*
+* [Rom CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac), [2](https://cse.google.com/cse?cx=744926a50bd7eb010) - *Search Rom Sites*
 * [SearchEnginesIndex](https://www.searchenginesindex.com/), [Fagan Finder](https://www.faganfinder.com/), [DirectSearch.Net](http://www.directsearch.net/) or [Search Engine Colossus](https://www.searchenginecolossus.com/) - *Search Engine Directory*
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - *DuckDuckGo !bang Meta Serarch / [GitHub](https://github.com/MoserMichael/duckduckbang)*
 * [Soovle](https://soovle.com/) or [Keyword Tool](https://keywordtool.io/) - *Popular Keyword Generator*
