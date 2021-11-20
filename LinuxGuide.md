@@ -78,6 +78,7 @@
 * [nnn](https://github.com/jarun/nnn) - *Terminal File Manager/Disk Usage Analyzer*
 * [zentile](https://github.com/blrsn/zentile) - *On-demand Window Manager Tiling*
 * [Material Shell](https://material-shell.com/) - *GNOME Tiling Extension*
+* [Bismuth](https://bismuth-forge.github.io/bismuth/) - *KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)*
 * [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) - *Google Drive Downloader*
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - *Mount GDrive on Linux*
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - *Linux File Search*
