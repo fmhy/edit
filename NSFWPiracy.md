@@ -21,6 +21,7 @@
 * [Porn Sites XXX](https://pornsites.xxx/) 
 * [Top Porn Sites](https://toppornsites.com/)
 * [Porn Sites Banned in India](https://www.scribd.com/doc/273372869/List-of-porn-websites-banned-in-India#fullscreen&from_embed) 
+* [Excel Today](https://t.me/excel_today) - *NSFW Telegram List*
 * [MissingToofff](https://missingtoofff.com/) - *OnlyFans Leak Site List*
 * [18+ Server Finder](https://discord.gg/8QNbdNf) - *NSFW Discord Directory*
 * [DirtyWarez Adult](https://dirtywarez.org/cat/adult) - *Alexa Adult Site Rankings*
@@ -50,6 +51,10 @@
 * [PreFap](https://prefap.com/)
 * [Biqle](https://biqle.com/), [2](https://biqle.org/) 
 * [NSFW Monster](https://nsfwmonster.com/) 
+* [SheFreaky](https://www.shesfreaky.com/)
+* [Vid123](https://vid123.net/) 
+* [FuckIt](http://www.fuckit.cc/) 
+* [NesaPorn](http://nesaporn.com/) 
 * [Lustoholic](https://lustholic.com/) 
 * [PornHoarder](https://pornhoarder.tv/)
 * [FuxnXX](https://fuxnxx.com/) 
@@ -75,6 +80,8 @@
 * [Roshutu-Shuuti](https://roshutu-shuuti.net/) - *Japanese Porn*
 * [Video.fc2](https://video.fc2.com/a/) - *Japanese Porn*
 * [JavEnglish](http://javenglish.cc/) - *Japanese Porn*
+* [kuaishangche](https://kuaishangche.club/) - *Chinese Porn*
+* [sjhs301](https://sjhs301.github.io/) - *Chinese Porn*
 * [CamVault](https://camvault.xyz/) - *DL Chaturbate, MyFreeCams & CAM4 Recordings*
 * [Recordbate](https://recordbate.com/) - *Chaturbate Recordings*
 * [PornDude OnlyFans](https://theporndude.com/snapchat-nudes-sites) - *OnlyFans / Patreon*
@@ -91,6 +98,7 @@
 * [Leaque](https://leaque.net/) - *TikTok*
 * [TTHOTS](https://ttthots.com/) - *TikTok*
 * [Booba.tv](https://booba.tv/) - *Twitch Streamers*
+* [TwerkHeaven](http://www.twerkheaven.com/) - *Twerking*
 * [Plexstorm](https://www.plexstorm.com/) - *Adult Game Streaming*
 * [Pornsearch](https://github.com/LucasLeandro1204/Pornsearch) - *Porn Search Script*
 
@@ -104,7 +112,11 @@
 * [OnlyFans Megadrive](https://mega.nz/folder/L4ZkgbSA#VjlbqBjH79TSmdL7wfJImw), [2](https://mega.nz/folder/wHx33QSD#elSJZ8SnECoxVInA8VwKKg), [3](https://mega.nz/folder/cpJC3DyD#VmtLDZaafz_iO9gaa4LUkg/folder/ptBUlJ4K), [4](https://mega.nz/folder/zfYFEKIb#9J9aza_logP8xjqqYzMVhQ), [5](https://mega.nz/folder/SDIyFbSR#0gnjN_3H55b2mEVTbe94dA), [6](https://mega.nz/folder/opICgJAY#ulwaZ34Jupcnjh96jD7f0Q/), [7](https://mega.nz/folder/1ggimKSa#sxCuAsJtH45VkPQZBa_F7A), [8](https://mega.nz/folder/wFxEUShA#_mgBEMwIaHZNA02IIzID9g), [9](https://mega.nz/folder/gw0k3YLZ#v4qHGUcWMyVCgPauUV6ifw), [10](https://mega.nz/folder/ddxhwYTA#57b0gRryU3aSosx6ZPvEEA), [11](https://mega.nz/folder/b8Fx0CzC#D2CLxgRfflcDQEejpBtw1Q) - *OnlyFans / Patreon*
 * [BadGirlsArchive](https://badgirlsarchive.site/) - *OnlyFans / Patreon*
 * [PornLeaks](https://pornleaks.in/) - *OnlyFans / Patreon*
+* [Pornlyfans](https://ufile.io/d6jdix9i) - *OnlyFans*
+* [OnlyFans Drives](https://rentry.co/2xnks) - *OnlyFans*
 * [Porn GDrives](https://redd.it/l3ugp6/), [2](https://photos.app.goo.gl/VtK9Aj3Vnbr2Pohc8), [3](https://photos.app.goo.gl/v7PdoDowqDhRRpa47), [4](https://photos.app.goo.gl/M8xBKo6CPtHRCUcC8), [5](https://drive.google.com/drive/folders/1cOAi2Ne4rldowhR5xEMI4Fc0mI-GA8iI?usp=sharing), [6](https://groups.google.com/u/1/g/adult-sic), [7](https://groups.google.com/u/1/g/viperph)
+* [Porn Drive 111 GB](https://mega.nz/folder/6ooxSSQR#PsVRRGW5qIbpAjVxiMasLw/folder/Whw13aIK) 
+* [Bad Girls Archive](https://mega.nz/folder/KV5BkYZL#csRmCr-THJeX0NbvukLkLA), [2](backup: https://mega.nz/folder/vRxhhSRT#BWWNfkzvhZi-B-91KM1Oqw) - *Porn*
 * [173.249.45.226](http://173.249.45.226/)
 * [PornHD3x](https://www5.pornhd3x.tv/) 
 * [PornFactors](http://pornfactors.com/) 
@@ -117,6 +129,7 @@
 * [Pornoslon](http://pornoslon.me/) 
 * [MangoVideo](https://45.mangovideo.pw/contents/videos/)
 * [House of Mega](https://houseofmega.com/) 
+* [PornBBS](http://pornbbs.org/) 
 * [Kimochi](https://kimochi.tv/) 
 * [Anix.moe](https://www.anix.moe/)
 * [SweetPorn](https://sweetporn.org/) 
@@ -127,8 +140,10 @@
 * @PornMirror - *Telegram*
 * [KinkBot](https://kinkbot.me/) - *Porn Image Bot*
 * [Boob Bot](https://www.boobbot.us/) - *Porn Image Bot*
+* [NSFWDownloader](https://github.com/h110m/NSFWDownloader) - *Porn Downloader*
 * [Pornhub DL Script](https://redd.it/ks5sba), [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) or [Savido Pornhub](https://www.savido.net/sites/pornhub) - *Pornhub Downloader*
 * [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - *FC2 Image Scraper*
+ [multporn-image-downloader-v2](https://github.com/Official-Husko/multporn-image-downloader-v2)
 * Add `site:cyberdrop.me` to search onlyfans leaks
 
 ***
@@ -248,10 +263,11 @@
 
 * [Internet Adult Film Database](https://www.iafd.com/) - *Adult Film Database / Reviews*
 * [Porn-Vault](https://github.com/porn-vault/porn-vault), [Fapflix2.0](https://github.com/EinAeffchen/Fapflix2.0) or [Stash](https://github.com/stashapp/stash) - *Porn File Manager*
-* [TheLeakNetwork](https://theleaknetwork.com/) - *NSFW File Host*
+* [TheLeakNetwork](https://theleaknetwork.com/) or [UploadingPorn](https://uploadingporn.com/) - *NSFW File Host*
 * [Javinizer](https://github.com/jvlflame/Javinizer) - *JAV File Organizer*
 * [/cumg/](https://rentry.co/coom) - *Hentai Tools*
 * [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/) - *NSFW Reverse Image Search*
+* [NameThatPorn](https://namethatporn.com/) - *Porn Identification Tool*
 * [ZENRA](https://www.zenra.net/free-jav-reverse-image-search) - *Reverse JAV Image Search*
 * [Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button) - *Quickly Close All Tabs*
 * [Chaturbate Enhanced](https://openuserjs.org/scripts/stixmaster/Chaturbate_Enhanced) or [Chaturbate Clean](https://openuserjs.org/scripts/ladroop/Chaturbate_Clean) - *Improve Chaturbate Functionality*
