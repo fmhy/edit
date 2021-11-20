@@ -47,7 +47,6 @@
 * [GamingMaster](http://s5.gamingmaster.ir/) 
 * [Game-Repack](https://www.game-repack.site/) 
 * [Repack-Games](https://repack-games.com/)
-* [cracked-games](https://cracked-games.org/) - *[Discord](https://discord.gg/tNhPmCU)*
 * [LegendaryRepacks](https://discord.gg/RUSNHSk) - *Universal Bypass Required*
 * [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
