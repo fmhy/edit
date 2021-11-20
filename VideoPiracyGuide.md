@@ -655,7 +655,6 @@
 * [ir2.papionvod.ir](https://ir2.papionvod.ir/Media/) - *TV*
 * [144.217.177.36](http://144.217.177.36:4742/Series/) - *TV*
 * [مسلسلات اجنبية‬‎](https://drive.google.com/drive/folders/0B19OoIC31UN0eUE4OERjSXYxcUE) - *TV*
-* [Live Action Movies ](https://sites.google.com/view/live-action-movies/home) - *Action Movies* 
 * [Fanedits Drive](https://mega.nz/folder/MIkljKjL#sUy2vBbv3ou1BlVSo1oneg) - *Fan Edited Movies*
 * [Guide to finding fanedits](https://redd.it/nd8z20) - *How-to Find Fan Edits*
 
