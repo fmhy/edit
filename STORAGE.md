@@ -1556,7 +1556,6 @@ Add the following commands to a search to manually scrape each site.
 * [/r/CrackWatch](https://reddit.com/r/CrackWatch) / [Discord](https://discord.gg/d9StxkknwX)
 * [SteamCrackStatus](https://steamcrackedgames.com/) / [Discord](https://discord.com/invite/hrCtqcyHKw)
 * [/r/SteamCrackedGames](https://reddit.com/r/SteamCrackedGames)
-* [CrackSnoop](https://github.com/CrackSnoop/cracksnoop)
 * [GameStatus](https://gamestatus.info/)
 
 ***
@@ -1912,6 +1911,7 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/myanimetvbot
 * https://t.me/otakulounge
 * https://t.me/EMBER_Encodes
+* https://t.me/TGanimehaku 
 
 ***
 
