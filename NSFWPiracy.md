@@ -112,6 +112,7 @@
 * [BadGirlsArchive](https://badgirlsarchive.site/) - *OnlyFans / Patreon / [Drive](https://mega.nz/folder/KV5BkYZL#csRmCr-THJeX0NbvukLkLA), [2](https://mega.nz/folder/vRxhhSRT#BWWNfkzvhZi-B-91KM1Oqw)*
 * [PornLeaks](https://pornleaks.in/) - *OnlyFans / Patreon*
 * [Pornlyfans](https://ufile.io/d6jdix9i) - *OnlyFans*
+* [eGirls.wtf](https://egirls.wtf/) - *OnlyFans*
 * [Porn GDrives](https://redd.it/l3ugp6/), [2](https://photos.app.goo.gl/VtK9Aj3Vnbr2Pohc8), [3](https://photos.app.goo.gl/v7PdoDowqDhRRpa47), [4](https://photos.app.goo.gl/M8xBKo6CPtHRCUcC8), [5](https://drive.google.com/drive/folders/1cOAi2Ne4rldowhR5xEMI4Fc0mI-GA8iI?usp=sharing), [6](https://groups.google.com/u/1/g/adult-sic), [7](https://groups.google.com/u/1/g/viperph)
 * [Porn Drive 111 GB](https://mega.nz/folder/6ooxSSQR#PsVRRGW5qIbpAjVxiMasLw/folder/Whw13aIK) 
 * [173.249.45.226](http://173.249.45.226/)
@@ -134,6 +135,7 @@
 * [ArtsErotica](https://artserotica.com/videos/)
 * [213.32.1.25](http://213.32.1.25/) - *Japanese Porn*
 * [78.47.246.229](http://78.47.246.229/) - *Japanese Porn*
+* [XXXTelegramBot](https://t.me/XXXTelegramBot) - *Telegram*
 * @PornMirror - *Telegram*
 * [KinkBot](https://kinkbot.me/) - *Porn Image Bot*
 * [Boob Bot](https://www.boobbot.us/) - *Porn Image Bot*
