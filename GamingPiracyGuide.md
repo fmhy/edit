@@ -223,7 +223,6 @@
 * [DSi Collection](https://archive.org/details/No-Intro_Nintendo_DSi_2018-06-30) - *Roms / DSi* + [DSi DLC](https://archive.org/details/NintendoDSiDLC2019)
 * [3DS Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - *Roms / 3DS*
 * [SNES Collection](https://archive.org/details/CylesSNESRomPack) or [SNES Rom Drive](https://mega.nz/file/9kdW1QYI#9VuLOFJGDbA6NIg8D33w8PYzPZ1E_Wop5Basd9kMWTg) - *Roms / SNES / PW: skwbr*
-* [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - *NES, SNES & Playstation Mods*
 * [Sojourner](http://sojourner.me/fastdl/NES/) - *Roms / NES*
 * [Stop Spamming ](http://danswer.stopspamming.net/sega/) - *Roms / Sega*
 * [Dreamcast Collection](https://archive.org/details/almstcmpltdrmcst) - *Roms / Dreamcast*
