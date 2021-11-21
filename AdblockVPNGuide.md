@@ -520,7 +520,6 @@
 * [Zalmos](https://www.zalmos.com/)
 * [CroxyProxy](https://www.croxyproxy.com/)
 * [ProxyPx](https://www.proxypx.com/)
-* [Knaben](https://www.knaben.xyz/)
 * [Titanium Network](https://www.titaniumnetwork.org/)
 * [Nodecat](https://nodecat.digital/)
 * [ProxySite](https://www.proxysite.cc/) 
