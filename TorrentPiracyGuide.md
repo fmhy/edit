@@ -132,6 +132,7 @@
 * [2Torrentz](https://2torrentz.net/torrentz/)
 * [Toros](https://www.toros.co/) or [Toros2](https://www.toros2.com/)
 * [Dirty Torrents](https://dirtytorrents.com/) 
+* [Knaben](https://www.knaben.xyz/) 
 * [TorrentQuest](https://torrentquest.com/) 
 * [TorrentHound](http://torrenthound.ee/)
 * [Torrends](https://torrends.to/) 
