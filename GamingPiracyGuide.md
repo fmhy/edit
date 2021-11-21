@@ -180,6 +180,8 @@
 * [datcheck](https://github.com/pkos/datcheck) - *Compare No-Intro / Redump dat files to rom or disc collection* 
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - *Gamecube iso.dec to ISO Converter*
 * [Pineappleea](https://pineappleea.github.io/ ) or [Yuzu-Updater](https://github.com/sinscove/Yuzu-Updater) - *Yuzu Updater*
+* [YuzuModDownloader](https://github.com/amakvana/YuzuModDownloader) - *Yuzu Mod Downloader*
+* [EmuSAK UI](https://github.com/CapitaineJSparrow/emusak-ui) - *Download Switch Firmware & Keys*
 * [Switch Army Knife](https://github.com/dezem/SAK) - *Switch Emulator Multi-Tool*
 
 ***
