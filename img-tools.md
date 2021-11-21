@@ -36,6 +36,7 @@
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - *Turn Simple Art into Photo Realistic Landscapes [Web](http://nvidia-research-mingyuliu.com/gaugan/)*
 * [DeepArt](https://deepart.io/), [AI Gahaku](https://ai-art.tokyo/en/), [Dreamscope](https://dreamscopeapp.com/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own) or [Deep Dream Generator](https://deepdreamgenerator.com/) - *Turn Photos into Artwork* 
 * [ImageGoNord](https://ign.schrodinger-hat.it/) - *Convert Images to NordTheme Palette*
+* [ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) - *Convert Images to Nordic / [Dracula](https://github.com/bigpick/ImageGoNord-dracula) / [Gruvbox](https://github.com/Schrodinger-Hat/ImageGoNord-gruvbox) Palletes*
 * [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) or [Cartoonize](https://cartoonize-lkqov62dia-de.a.run.app/cartoonize) - *Turn Photos into Cartoons*
 * [AIDraw](https://ai-draw.tokyo/en/) - *Turn Photos into Line Drawings* 
 * [primitive.js](https://ondras.github.io/primitive.js/) - *Redraw Images with Geometric Shapes* 
