@@ -267,6 +267,7 @@
 * [WiiBrew](https://wiibrew.org/) or [Wii Guide](https://wii.guide/) - *Wii Homebrew Guides*
 * [Open Shop Channel](https://oscwii.org/) - *Wii Homebrew App Library*
 * [RiiConnect24](https://rc24.xyz/) - *WiiConnect24 Replacement*
+* [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - *NES, SNES & Playstation Mods*
 * [PSX Hax](https://www.psxhax.com/) - *Playstation Modding Forum*
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - *PS4 / PS5 Remote Play Client* 
 * [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - *PS4 Exploit Hosting PS4*
