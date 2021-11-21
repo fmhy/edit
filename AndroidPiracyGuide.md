@@ -412,6 +412,7 @@
 
 # ► Android Reading
 
+* **[Mobilism App](https://forum.mobilism.org/app/)** - *Ebook Download App*
 * **[Libera](http://librera.mobi/)**  - *Ebook Reader*
 * **[Tachiyomi](https://tachiyomi.org/)** - *Manga Reader*
 * Tachiyomi Tools - [Github Releases](https://github.com/tachiyomiorg/tachiyomi) / [Forks](https://tachiyomi.org/forks/#forks) / [Discord](https://discord.com/invite/tachiyomi) / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/)
