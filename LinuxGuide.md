@@ -117,6 +117,7 @@
 * [Dijo](https://github.com/NerdyPepper/dijo) - *Activity Tracker*
 * [GammaStep](https://gitlab.com/chinstrap/gammastep) - *Adjust Screen Temperature*
 * [Client Evolution](https://help.gnome.org/users/evolution/stable/) - *Calendar / Mail*
+* [todo](https://github.com/sioodmy/todo/) - *Rust Based To-Do CLI*
 * [aerc](https://aerc-mail.org/), [ElectronMail](https://github.com/vladimiry/ElectronMail) or [Alpine](http://alpine.x10host.com/) - *Email Client*
 * [KTouch](https://apps.kde.org/en/ktouch) - *Typing Practice*
 * [wslu](https://github.com/wslutilities/wslu) - *Utilities for Windows 10 Linux Subsystem* 
@@ -135,6 +136,7 @@
 * [Electerm](https://electerm.github.io/electerm) - *Terminal / SSH / STP Client*
 * [Yakuake](https://apps.kde.org/yakuake/) - *Quake Style Terminal Emulator*
 * [Remontoire](https://github.com/regolith-linux/remontoire) - *Keybind Viewer for i3*
+* [cbonsai](https://gitlab.com/jallbrit/cbonsai) - *Generate bonsai trees in your terminal*
 * [fzf](https://github.com/junegunn/fzf) - *CLI based fuzzy finder*
 * [Timeshift](https://github.com/teejee2008/timeshift) - *Create System Snapshots & Restore*
 * [AppImageHub](https://appimage.github.io/) or [get-appimate](https://g.srev.in/get-appimage/) - *Download AppImages / [CLI](https://zap.srev.in/)*
@@ -190,6 +192,8 @@
 * [The KDE Games Center](https://games.kde.org/) - *Linux Games*
 * [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/wiki/) - *Wiki for Linux Gaming*
 * [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) - *Install & Manage Proton-GE for Steam / Wine*
+* [steam-tui](https://github.com/dmadisetti/steam-tui) - *Rust TUI for Steam*
+* [steam-cli](https://github.com/berenm/steam-cli) - *CLI for Steam*
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - *Linux Gaming Kernels*
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - *Linux System Optimizer*
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - *Linux Game Package Downloader*
