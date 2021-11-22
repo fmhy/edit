@@ -286,7 +286,7 @@
 # ► Android APKs
 
 * **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) - *Multi-Site APK Search*
-* **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - *Modded*
+* **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - *Modded / [App](https://forum.mobilism.org/app/)*
 * **[FileCR](https://filecr.com/android/)** - *Modded*
 * **[nsane.down](https://www.nsaneforums.com/)**
 * **[ModdedCentral](https://t.me/ModdedCentral)** or [ModdedPrivate](https://t.me/ModdedPrivate) - *Modded / Telegram*
@@ -412,7 +412,7 @@
 
 # ► Android Reading
 
-* **[Mobilism App](https://forum.mobilism.org/app/)** - *Ebook Download App*
+* **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - *Modded / [App](https://forum.mobilism.org/app/)*
 * **[Libera](http://librera.mobi/)**  - *Ebook Reader*
 * **[Tachiyomi](https://tachiyomi.org/)** - *Manga Reader*
 * Tachiyomi Tools - [Github Releases](https://github.com/tachiyomiorg/tachiyomi) / [Forks](https://tachiyomi.org/forks/#forks) / [Discord](https://discord.com/invite/tachiyomi) / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/)
