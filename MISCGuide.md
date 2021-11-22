@@ -605,7 +605,7 @@
 * [Mozzarella](https://github.com/hendricius/mozzarella) - *Mozzarella Recipes* 
 * [Mac Cookie Recipe Easter Egg](https://i.imgur.com/Jc0WoCg.png) - *Cookie Recipe / [How-to](https://pastebin.com/N8AyVfEf)*
 * [Honey Ale](https://i.imgur.com/OvuP474.jpg) or [Honey Porter](https://i.imgur.com/6UDr7Fd.png) - *The White House Brewing Recipes*
-* [Coffee or Bust!](https://www.coffeeorbust.com/) - *Guide Making Guides*
+* [Coffee or Bust!](https://www.coffeeorbust.com/) - *Coffee Making Guides*
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - *Historical Recipes Site Index*
 * [Chef2Chef](https://www.chef2chef.net/) - *Cooking Lessons* 
 * [TheCulinaryCook](https://theculinarycook.com/) - *Cooking Lessons* 
