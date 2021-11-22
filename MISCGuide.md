@@ -222,7 +222,8 @@
 * **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - *Realistic-Looking Fake Versions of Things* 
 * [KongouCheats](https://kongoucheats.com/) - *Watch Random Memes / Videos* 
 * [Funnyjunk](https://funnyjunk.com//), [Thread-Puller](https://thread-puller.party/), [iFunny](https://ifunny.co/) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Videos, Memes & GIFs / Some NSFW*
-* [SfwChan](http://boards.swfchan.net/) - *Sfw Archive*
+* [wtf.rentry](https://wtf.rentry.co/) - *Random Music GIFs*
+* [SfwChan](http://boards.swfchan.net/) - *SFW Archive*
 * [SakugaBooru](https://www.sakugabooru.com/) - *Image Booru*
 * [IndieGameBooru](https://indiegame.booru.org/) - *Indie Game Image Booru*
 * [Random Screenshot](https://randomscreenshot.com/) or [Random Prnt.sc](https://chrishannah.me/prntsc/) - *Random Screenshots*
@@ -316,6 +317,7 @@
 * [Deep Fried Web](https://deepfriedweb.mschfmag.com/) - *Deep Fry Web Pages*
 * [No Paint](https://nopaint.art/) - *Press "Paint" if you like what you see, "No" if you don't* 
 * [BubblesPop](https://bubblespop.netlify.app/) or [Relax](https://calming.netlify.app/) - *Pop Bubble Wrap* 
+* [ClickToRemove](http://www.clicktoremove.com/) - *Click to Remove Text*
 * [Mebious](https://mebious.wirechan.org/) - *Upload Random Images / Text to Public Wall*
 * [RolePlayer](https://www.roleplayer.me/) - *Roleplaying Social Network*
 * [The Editing Room](https://www.the-editing-room.com/) - *Funny abridged movie scripts*
@@ -333,7 +335,7 @@
 * [This Artwork Does Not Exist](https://thisartworkdoesnotexist.com/) - *Art That Doesn't Exist*
 * [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) - *Words That Don't Exist* 
 * [This Wojak Does Not Exist](https://thiswojakdoesnotexist.com/) - *Wojak's That Don't Exist* 
-* [This Cat Does Not Exist](https://thiscatdoesnotexist.com/) - *Cats That Don't Exist*
+* [This Cat Does Not Exist](https://thiscatdoesnotexist.com/) or [NotRealCats](https://notrealcats.com/) - *Cats That Don't Exist*
 * [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/) - *Anime Characters That Don't Exist* 
 * [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/) - *Waifu's That Don't Exist* 
 * [This Fursona Does Not Exist](https://thisfursonadoesnotexist.com/) - *Fursona That Don't Exist*
@@ -495,6 +497,7 @@
 * [Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator) - *Pretend You Have Macbook Pro*
 * [IdiotProofWebsite](http://idiotproofwebsite.com/)
 * [MotherFuckingWebsite](http://motherfuckingwebsite.com/), [BetterMotherFuckingWebsite](http://bettermotherfuckingwebsite.com/), [EvenBetterMotherFuckingWebsite](https://evenbettermotherfucking.website/) or [TheBestMotherFuckingWebsite](https://thebestmotherfuckingwebsite.co/)
+* [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/) 
 * [isitnight](https://www.isitnight.com/) - *Determine if it is night* 
 * [ThisSiteSaysOtherwise](https://thissaysotherwise.org/) - *Otherwise.*
 * [Watching Grass Grow](https://www.watching-grass-grow.com/) - *Watch Grass Grow.*
@@ -602,6 +605,7 @@
 * [Mozzarella](https://github.com/hendricius/mozzarella) - *Mozzarella Recipes* 
 * [Mac Cookie Recipe Easter Egg](https://i.imgur.com/Jc0WoCg.png) - *Cookie Recipe / [How-to](https://pastebin.com/N8AyVfEf)*
 * [Honey Ale](https://i.imgur.com/OvuP474.jpg) or [Honey Porter](https://i.imgur.com/6UDr7Fd.png) - *The White House Brewing Recipes*
+* [Coffee or Bust!](https://www.coffeeorbust.com/) - *Guide Making Guides*
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - *Historical Recipes Site Index*
 * [Chef2Chef](https://www.chef2chef.net/) - *Cooking Lessons* 
 * [TheCulinaryCook](https://theculinarycook.com/) - *Cooking Lessons* 
@@ -823,6 +827,7 @@
 * [2300+ Fonts Pack](https://drive.google.com/file/d/1Y4yRd5KugATG5XfcjkuUgN9BU4wJJMVj/view)
 * [2.2k Fonts](https://drive.google.com/drive/folders/1aJVKslK0v_kKxvEd5KV3KSCfY0epXNz0?usp=sharing) - *[Zip File](https://drive.google.com/file/d/1x7oh79m1ooj9BnPxEnxEgZY39RVcXple/view?usp=sharing)*
 * [2000+ Fonts](https://drive.google.com/drive/folders/1aJVKslK0v_kKxvEd5KV3KSCfY0epXNz0) 
+* [1111 Fonts](https://drive.google.com/drive/folders/1itrijNr5e_lr8zJ5v_bb8XiyrJwxLUhZ)
 * [1001 Fonts](https://www.1001fonts.com/)
 * [1001 Free Fonts](https://www.1001freefonts.com/)
 * [700-free-ttf-fonts-pack](https://drive.google.com/file/d/0B7IoVaGUMDVseFpvQ3NKTlNydmc/view?resourcekey=0-7iCgiOnXxBtilY0tJ2Nikg)
