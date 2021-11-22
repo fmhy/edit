@@ -120,7 +120,7 @@
 * **[Torrentz2](https://torrentz2eu.me/)** - *[Beta](https://torrentzeu.org/beta/) / [Magnet Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrentz2_magnet_links)*
 * **[FileListing](https://filelisting.com)** 
 * **[snowfl](https://snowfl.com/)** 
-* **[Knaben](https://knaben.eu/)**, [2](https://www.knaben.xyz/) 
+* **[Knaben](https://knaben.eu/)**
 * [Zooqle](https://zooqle.com/) 
 * [iDope](https://idope.se) 
 * [Bitsearch](https://bitsearch.to/)
