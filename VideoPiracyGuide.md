@@ -193,6 +193,7 @@
 ## ▷ Specialty Streaming
 
 * [RareFilmm](https://rarefilmm.com/) - *Rare Movies* 
+* [3D Online Films](https://www.documentarymania.org/) - *3D Movies*
 * [Classic Cinema Online](https://classiccinemaonline.com/), [PublicDomainFlix](https://publicdomainflix.com/), [BnWMovies](https://bnwmovies.com/) or [Dumb Classic Movies](http://www.dumb.com/movies/) - *Classic Films*
 * [TheFilmDetective](https://thefilmdetective.tv/) - *Classic Films / TV*
 * [RetroVision Media](http://www.retrovisionmedia.com/) - *Retro / Classic Films* 
@@ -528,10 +529,11 @@
 * [My Duck Is Dead](http://www.myduckisdead.org/) - *Rare Movies / NSFW* 
 * [Reviviendo Viejas Joyas](https://reviviendoviejasjoyas.blogspot.com/) - *Rare Movies / Stop Pages from Loading to use w/o Account* 
 * [AxeMovies](https://axemovies.xyz/) - *Movies*
+* [Choices](https://howlongwillthishydralast.weebly.com/choices.html) - *Movies / TV*
 * [MobileTVShows](https://www.mobiletvshows.net/) - *TV / Anime*
 * [MoviesforDiscord](https://discord.movies4discord.xyz/) - *Movie Streaming / Download Bot / [Website](https://movies4discord.xyz/)*
 * [Medeberiyaa](https://medeberiyaa.com/) - *Movies / TV / Anime*
-* [PSARips](https://psarips.top/) - *Movies / TV / [Scraper](https://github.com/NandiyaLive/PSALinkGrabber) / [IMDb Titles](https://github.com/ni554n/userscripts/tree/master/psarips-replace-post-titles-with-imdb-links)* 
+* [PSARips](https://psarips.top/) - *Movies / TV / [GDrive Telegram](https://t.me/PSAonGdrive) / [Scraper](https://github.com/NandiyaLive/PSALinkGrabber) / [IMDb Titles](https://github.com/ni554n/userscripts/tree/master/psarips-replace-post-titles-with-imdb-links)* 
 * [Crazy4tv](https://crazy4tv.com/) - *Movies / TV*
 * [DDLBase](https://ddlbase.net/) - *Movies / TV*
 * [megaDDL](https://megaddl.co/) - *Movies / TV*
@@ -813,8 +815,10 @@
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - *TV / Anime*
 * [IMDb](https://www.imdb.com/) or [TMDb](https://www.themoviedb.org/) - *Movies / TV / Anime*
 * [IMDb Tomatoes](https://greasyfork.org/en/scripts/15222-imdb-tomatoes) - *Rotten Tomatoes Ratings on IMDb*
-* [listal](https://www.listal.com/) - *Movies / TV*
 * [TVDb](https://www.thetvdb.com/) - *TV / Anime*
+* [GCDb](https://www.grindhousedatabase.com/) - *Grindhouse Cinema*
+* [FFCritic](http://foundfootagecritic.com/hubs/hub-films/) - *Found Footage*
+* [listal](https://www.listal.com/) - *Movies / TV*
 * [Movieo](https://movieo.me/) - *Movies / TV / Anime*
 * [AllMovie](https://www.allmovie.com/) - *Movies / TV / Anime* 
 * [TVMaze,](https://www.tvmaze.com/) [TrackSeries](https://www.trackseries.tv/) or [watched](https://watched.li/)  - *TV / Anime*
@@ -845,7 +849,10 @@
 * [TV Chart](https://tvchart.benmiz.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - *TV Episode Rating Graphs*
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Greatest 100 Lists*
 * [What's on Netflix](https://www.whats-on-netflix.com/library/) - *Browse Netflix Library*
+* [Netflix Top 10](https://top10.netflix.com/) - *Netflix Most-Watched Chart*
 * [ReelScary](http://www.reelscary.com/) - *Movies Rated by Scariness* 
+* [Film Genre Wiki](https://en.wikipedia.org/wiki/Template:Film_genres) - *Movie Genre List*
+* [Horror Sub-Genre Guide](https://i.stack.imgur.com/lAEV1.png) - *List of Horror Genres*
 * [Based on the Book](https://www.mymcpl.org/books-movies-music/read/based-on-the-book) - *List of Movies Based on Books*
 * [What is My Movie?](https://www.whatismymovie.com/) - *Find Films Based on Descriptions*
 * [Ant Movie](https://www.antp.be/software/moviecatalog) or [libib](https://www.libib.com/) - *Desktop Video Media Catalog*
@@ -919,6 +926,7 @@
 * **[Open Subtitles](https://opensubtitles.org/)** - *Subtitles*
 * **[Subtitle Edit](https://www.nikse.dk/SubtitleEdit/Online)**, [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://github.com/Aegisub/Aegisub) or [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - *Subtitle Editor*
 * **[External Subtitles Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_external_subs_player)** - *Play Subs Externally* 
+* [Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles) - *External Subtitle Extension*
 * [elSubtitle](http://www.elsubtitle.com/) - *Subtitles & Tools* 
 * [GSubs](https://cholaware.com/gsubs/) - *Subtitle Search Client*
 * [Subtitle Cat](https://www.subtitlecat.com/) - *Subtitles* 
