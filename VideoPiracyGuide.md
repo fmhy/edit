@@ -30,7 +30,7 @@
 * [TheFlix](https://www.theflix.to/) - *Movies / TV* 
 * [Ask4movies](https://ask4movie.io/) - *Movies / TV / [Adblock Script](https://pastebin.com/N58Vbyhw)*
 * [SockShare](http://sockshare.ac/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones)*
-* [Trailers.to](https://trailers.to/) - *Movies / TV / [Bypass Quota](https://openvideofs.github.io/) / Use VPN*  
+* [Trailers.to](https://trailers.to/) - *Movies / TV / [Bypass Quota](https://openvideofs.github.io/)*  
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - *Movies / TV / Anime*
 * [NetU](https://netu.io/view_page.php?pid=4) - *Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png), try IMDb ids*
 * [Ling.online](https://ling.online/en/videos/films/) - *Movies / TV*
