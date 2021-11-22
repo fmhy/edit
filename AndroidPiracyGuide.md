@@ -580,7 +580,9 @@ RSS Player*
 * [AnimeBoya](https://github.com/Tu2l/AnimeBoya)
 * [Aniyomi](https://github.com/jmir1/aniyomi)
 * [Animebay](https://animebay.tech/)
+* [Kayuri](https://github.com/Killerpac/Kayuri)
 * [Akiyama](https://github.com/Fmaldonado6/Akiyama)
+* [animity](https://github.com/kl3jvi/animity)
 * [AnimeFanz Tube](https://apkpure.com/anime-fanz-tube/com.animefanzapp.tube)
 * [KATSU](https://katsu.pw/) - [Discord](https://discord.gg/gjcy6MQ)
 * [Anime-DL](https://github.com/sharn25/Anime-DL-Android-Verison) - *Download Anime / [Discord](https://discord.gg/Ee3fegN)* 
@@ -717,7 +719,7 @@ RSS Player*
 * [UTM](https://getutm.app/) - *Virtual Machines* 
 * [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) - *Automation Script Tool*
 * [Winno](https://apps.apple.com/us/app/winno-just-the-facts/id1460212743) - *News*
-* [Keepassium](https://keepassium.com/) - *Password Manager*
+* [Keepassium](https://keepassium.com/) or [Strongbox](https://strongboxsafe.com/) - *Password Manager*
 * [iSkin](https://iskin.tooliphone.net/), [Anemone](https://www.ios-repo-updates.com/repository/odyssey-repo/package/com.anemonetheming.anemone3/), [Moloko](https://apps.apple.com/us/app/moloko-themes-icons/id1534741213) or [SnowBoard](https://repo.dynastic.co/package/snowboard) - *iOS Themes* 
 * [moloko](https://apps.apple.com/us/app/moloko-themes-icons/id1534741213) - *iOS Themes & Icons* 
 * [Themify](https://apps.apple.com/us/app/themify-icon-themes-widgets/id1534126062) - *Icon Themes & Widgets*
@@ -866,6 +868,7 @@ RSS Player*
 
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
 * [Pomly](https://apps.apple.com/us/app/pomly/id1584615881) - *Movies / Code: 777*
+* [Rivoto](https://apps.apple.com/ca/app/rivoto/id1585337990 ) - *Movies / TV / Code: 777*
 * [MediaBox](https://mediaboxhd.net/) - *Movies / TV*
 * [Arthemis](https://app.arthemis.xyz/) - *Movies / TV / Anime*
 * [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756) - *Movies / TV*
