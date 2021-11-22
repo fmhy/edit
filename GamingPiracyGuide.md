@@ -125,6 +125,7 @@
 * [Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators) 
 * [Rom Managers](http://emulation.gametechwiki.com/index.php/ROM_managers) - *List of Rom Managers*
 * [Emulator Netplay Tools](http://emulation.gametechwiki.com/index.php/Netplay) - *Multiplayer Emulation*
+* [Ziperto](https://ziperto.com/) - *Roms*
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - *Roms / [Discord](https://discord.gg/rH9wRpu2vh)* 
 * [PlanetEmu](http://www.planetemu.net/) - *Emulators*
 * [Zophar's Domain](https://www.zophar.net/) - *Emulator / Rom Hacks*
@@ -135,7 +136,8 @@
 * [RomsUniverse](https://www.romsuniverse.com/) - *Emulators / Roms* 
 * [Romsie](https://romsie.com/) - *Emulators / Roms*
 * [EmuRoms](http://www.emuroms.ch/en) - *Emulators / Roms*
-* [ConsoleRoms ](https://www.consoleroms.com/) - *Emulators / Roms*
+* [ROMs Games](https://www.romsgames.net/) - *Emulators / Roms*
+* [ConsoleRoms](https://www.consoleroms.com/) - *Emulators / Roms*
 * [HexRom](https://hexrom.com/) - *Emulators / Roms*
 * [Rom Hustler](https://romhustler.org/) - *Emulators / Roms*
 * [80s](http://80s.lt/?dir=Files%2FGames) - *Emulators / Roms* 
@@ -167,7 +169,6 @@
 * [FantasyAnime](https://fantasyanime.com/) - *Roms* 
 * [Emulanium](http://www.emulanium.com/roms.php) - *Roms*
 * [NesGM](https://nesgm.net/) - *Roms / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)*
-* [Ziperto](https://ziperto.com/) - *Roms*
 * [ROM World](http://www.romworldonline.com/) - *Roms / [How-to](https://i.imgur.com/Mqab82O.png)*
 * [LegendaryRepacks](https://discord.gg/RUSNHSk)
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - *Roms / Torrent*
@@ -555,6 +556,7 @@
 * [AllBad.Cards](https://allbad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - *Cards Against Humanity Online* 
 * [Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards) - *Card Games Index*
 * [WorldOfCardGames](https://worldofcardgames.com/) or [World of Solitaire](https://worldofsolitaire.com/) - *Card Games*
+* [Blackjack Break](https://blackjackbreak.com/) - *Browser Blackjack*
 * [Mah-Jongg](https://www.mah-jongg.ch/) - *Mahjongg Solitaire Games*
 * [Poker Now](https://www.pokernow.club/), [LiPoker](https://lipoker.io/) or [247 Free Poker](https://www.247freepoker.com/) - *Multiplayer Poker*
 * [KDice](http://www.kdice.com/) - *Multiplayer Dice War*
