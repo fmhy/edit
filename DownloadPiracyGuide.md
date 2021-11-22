@@ -15,11 +15,10 @@
 
 ***
 
-* **[The MegaDrive](https://discord.gg/h2P5zsNMxZ)** - *Discord Drive Sharing Community* 
+* **[The MegaDrive](https://discord.gg/h2P5zsNMxZ)** or [No Bucks Given](https://discord.gg/By53hyhUFS) - *Discord Drive Sharing Community* 
 * **[Open Directories / Teamdrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrives_.2F_open_directories), [2](https://www.google.com/search?q=site:reddit.com/r/opendirectories+odshot+after:2018), [3](https://opndir.com/), [4](https://redd.it/lvdwlm), [5](https://github.com/strawhat-pirates/notes/blob/master/opendirectories.txt), [6](https://bin.disroot.org/?3082f04205be7af6#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34)**
 * **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
 * [ODCrawler](https://odcrawler.xyz/), [CatFiles](https://www.catfiles.net/) or [mmnt](https://www.mmnt.net/) - *Open Directory Search Engine*
-* [No Bucks Given](https://discord.gg/By53hyhUFS) - *File Sharing Discord*
 * [ODS](https://sites.google.com/view/l33tech/tools/ods) - *Open Directory CSE*
 * [Napalm FTP](https://www.searchftps.net/), [Proisk](https://proisk.com/) or [Search-22](https://search-22.com/ftp-search-tools) - *FTP Search*
 * [dedigger](https://www.dedigger.com/) - *GDrive File Search* 
