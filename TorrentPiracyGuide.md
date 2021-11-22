@@ -120,7 +120,7 @@
 * **[Torrentz2](https://torrentz2eu.me/)** - *[Beta](https://torrentzeu.org/beta/) / [Magnet Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrentz2_magnet_links)*
 * **[FileListing](https://filelisting.com)** 
 * **[snowfl](https://snowfl.com/)** 
-* **[Knaben](https://knaben.eu/)**
+* **[Knaben](https://knaben.eu/)**, [2](https://www.knaben.xyz/) 
 * [Zooqle](https://zooqle.com/) 
 * [iDope](https://idope.se) 
 * [Bitsearch](https://bitsearch.to/)
@@ -132,7 +132,6 @@
 * [2Torrentz](https://2torrentz.net/torrentz/)
 * [Toros](https://www.toros.co/) or [Toros2](https://www.toros2.com/)
 * [Dirty Torrents](https://dirtytorrents.com/) 
-* [Knaben](https://www.knaben.xyz/) 
 * [TorrentQuest](https://torrentquest.com/) 
 * [TorrentHound](http://torrenthound.ee/)
 * [Torrends](https://torrends.to/) 
