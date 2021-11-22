@@ -835,6 +835,7 @@ RSS Player*
 * [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - *Spotify Release Tracker / Metrics* 
 * [Boom](https://apps.apple.com/us/app/boom-bass-booster-equalizer/id1065511007) - *Audio Equalizer*
 * [HD Player](https://apps.apple.com/us/app/hs-player-flac-equalizer/id857650606) - *Audio Player*
+* [iRetro](https://apps.apple.com/us/app/iretro/id1557178995) - *iPod Classic Audio Player*
 * [Denim](https://apps.apple.com/us/app/denim-playlist-cover-maker/id1532250420) - *Playlist Cover Maker*
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - *Identify Playing Songs*
 
@@ -869,6 +870,8 @@ RSS Player*
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
 * [Pomly](https://apps.apple.com/us/app/pomly/id1584615881) - *Movies / Code: 777*
 * [Rivoto](https://apps.apple.com/ca/app/rivoto/id1585337990 ) - *Movies / TV / Code: 777*
+* [Wodfix](https://apps.apple.com/us/app/wodfix/id1586971587) - *Movies / TV / Code: 777*
+* [MovieByImage](https://apps.apple.com/us/app/movie-finder-movie-by-image/id1560301878) - *Movies / Code: 777*
 * [MediaBox](https://mediaboxhd.net/) - *Movies / TV*
 * [Arthemis](https://app.arthemis.xyz/) - *Movies / TV / Anime*
 * [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756) - *Movies / TV*
