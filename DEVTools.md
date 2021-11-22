@@ -33,7 +33,7 @@
 * [VSCode.one](https://vscode.one/) - *VS Code Tutorials*
 * [Aquent Gymnasium](https://thegymnasium.com/) - *Courses* 
 * [SchoolOfHaskell](https://www.schoolofhaskell.com/) - *Haskell Tutorials* 
-* [QuickRef.ME](https://quickref.me/) or [Devhints](https://devhints.io/) - *Developer Cheat Sheets*
+* [QuickRef.ME](https://quickref.me/), [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - *Developer Cheat Sheets*
 * [Cheat.sh](https://cheat.sh/) - *Command-Line Cheat Sheet*
 * [explainshell.com](https://explainshell.com/) - *Match Command-Line Arguments to Help Text*
 * [Programiz](https://www.programiz.com/) - *Programming / Coding Tutorials*
