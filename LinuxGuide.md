@@ -226,6 +226,7 @@
 * [alt-tab-macos](https://alt-tab-macos.netlify.app/) - *Alt-Tab for Mac*
 * [Dropzone](https://filecr.com/?s=dropzone) - *File Manger*
 * [The Unarchiver](https://theunarchiver.com/) - *Archive / Unzip Files*
+* [Strongbox](https://strongboxsafe.com/) *Password Manager*
 * [Aptonic](https://aptonic.com/) - *Mac Productivity App*
 * [Drafts](https://getdrafts.com/) - *Text Editor*
 * [Stroke](https://stroke.lllllllllllllllll.com/) - *Text (You Can't Delete) Editor*
