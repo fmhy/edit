@@ -819,6 +819,7 @@
 * [TVDb](https://www.thetvdb.com/) - *TV / Anime*
 * [GCDb](https://www.grindhousedatabase.com/) - *Grindhouse Cinema*
 * [FFCritic](http://foundfootagecritic.com/hubs/hub-films/) - *Found Footage*
+* [Spaghetti Western Database](https://www.spaghetti-western.net/index.php/Main_Page) - *Spaghetti Western*
 * [listal](https://www.listal.com/) - *Movies / TV*
 * [Movieo](https://movieo.me/) - *Movies / TV / Anime*
 * [AllMovie](https://www.allmovie.com/) - *Movies / TV / Anime* 
