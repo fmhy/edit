@@ -156,6 +156,7 @@
 * [SNEWD](https://snewd.com/) - *Books* 
 * [Luminist](http://www.luminist.org/archives/) - *Books* 
 * [British Library](https://www.bl.uk/) - *Books*
+* [EbookLobby](http://ebooklobby.com/) - *Books*
 * [KingAuthor](https://kingauthor.net/) - *Books* 
 * [Standard EBooks](https://standardebooks.org/) - *Books*
 * [Google Play Books](https://play.google.com/store/books/collection/topselling_free) - *Books* 
