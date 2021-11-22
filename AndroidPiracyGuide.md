@@ -699,7 +699,7 @@ RSS Player*
 * **[Hyperweb](https://hyperweb.app/)** - *iOS Safari Improvement + Adblock Extension*
 * **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Mobile Wallpaper Sites & Apps*
 * [Waltr](https://softorino.com/waltr/) - *Convert Files to iOS Formats*
-* [Filza](http://cydia.saurik.com/package/com.tigisoftware.filza/) or [AnyTrans](https://www.imobie.com/anytrans/) - *File Manager*
+* [Filza](http://cydia.saurik.com/package/com.tigisoftware.filza/) - *File Manager*
 * [iEmulators](https://iemulators.com/) - *Emulator Apps*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
 * [Drafts](https://getdrafts.com/) or [Bear](https://apps.apple.com/us/app/bear/id1016366447) - *Note Taking App*
