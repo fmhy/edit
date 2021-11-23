@@ -304,6 +304,7 @@
 * [Array Anime](https://www.arrayanime.com/) - *Sub / Dub* 
 * [Pantsubase](https://pantsubase.tv/) - *Sub / Dub* 
 * [AnimeLand](https://www.animeland.us/) - *Dub* 
+* [Kissanime](https://kissanime.dev/) - *Sub / Dub*
 * [Animeplyx](https://animeplyx.eu/) - *Sub*
 * [5Anime](https://5anime.net/) - *Sub / Dub*
 * [AnimeOnsen](https://animeonsen.xyz/) - *Sub*
