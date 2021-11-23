@@ -297,7 +297,7 @@
 * [DarkAnime](https://darkanime.stream/) - *Sub*
 * [Animegg](https://www.animegg.org/) - *Sub / Dub*
 * [Kawaiifu](https://kawaiifu.com/) - *Sub / Dub*
-* [AnimeFox](https://animefox.io/) or [FlixAni](https://flixani.me/) - *Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)*
+* [AnimeFox](https://animefox.cc/) or [FlixAni](https://flixani.me/) - *Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)*
 * [AnimeHeaven](https://animeheaven.ru/) - *Sub / Dub* 
 * [AnimeDao](https://animedao.to/) - *Sub*
 * [AniStream](https://anistream.fun/) - *Sub*
