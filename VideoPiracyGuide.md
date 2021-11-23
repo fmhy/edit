@@ -272,7 +272,7 @@
 * **[AnimeTribes](https://animetribes.ru/)** - *Sub* 
 * **[AnimeKisa](https://animekisa.tv/)** - *Sub / Dub*
 * [AnimePahe](https://animepahe.com/) - *Sub / [Downloader](https://github.com/charathmathew/animepahe_downloader), [2](https://github.com/ed-archer/animepahe-dlr), [3](https://github.com/notmarek/pyheanime)*
-* [AniKuru](https://anikuru.me/) - *Sub / Dub / [Discord](https://discord.gg/NyqG59cfhV)*
+* [AniKuru](https://anikuru.me/) - *Sub / Dub*
 * [AnimehHub](https://animehub.ac/) - *Sub / Dub*
 * [Animesa](https://animesa.ga/) - *Sub / Dub*
 * [11Anime](https://11anime.fr/) - *Sub / Dub*
@@ -280,7 +280,7 @@
 * [AnimeLon](https://animelon.com/) - *Sub / Learn Japanese*
 * [because.moe](https://because.moe/) - *Legal Anime Sites Search* 
 * [Simplyaweeb](https://simplyaweeb.to/) - *Sub / Dub / [Discord](https://discord.gg/4uGvPUV)* 
-* [DubbedAnime](https://ww5.dubbedanime.net/) - *Sub / Dub / [Discord](https://discord.gg/8FyN3w5)*
+* [DubbedAnime](https://ww5.dubbedanime.net/) - *Sub / Dub*
 * [AnimeBam](https://www.animebam.se/) - *Sub / Dub*
 * [KickAssAnime](https://www2.kickassanime.ro/) - *Sub / Dub*
 * [RyuAnime](https://ryuanime.com/) - *Sub / Dub*
