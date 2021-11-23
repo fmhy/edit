@@ -279,7 +279,6 @@
 # ► Mac Adblock / Privacy
 
 * [macOS Security Tools](https://github.com/ashishb/osx-and-ios-security-awesome) - *Mac Security Tools*
-* [HardenTheWorld](http://docs.hardentheworld.org/) - *MacOS Security Guide*
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - *Block Ads via Host Files*
 * [Stronghold](https://github.com/alichtman/stronghold) - *Mac Security Settings Terminal*
 * [LuLu](https://objective-see.com/products/lulu.html) - *Mac Firewall* 
