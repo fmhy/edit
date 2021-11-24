@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/sxKBzA6.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/GP7a7rB.png)** - *For mobile users*
 
 ***
 ***
@@ -214,6 +214,12 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ***
 
+#### Background Removers 
+
+[Remove.bg](https://www.remove.bg/) / [Gimp](https://github.com/manu12121999/RemoveBG-GIMP), [Remove Background](https://pixlr.com/remove-background/), [Rembg](https://github.com/danielgatis/rembg), [Adobe BG Remover](https://www.adobe.com/express/feature/image/remove-background), [bgremover](https://icons8.com/bgremover), [Removal.ai](https://removal.ai/upload/), [Trace](https://www.stickermule.com/trace), [Background Burner](https://burner.bonanza.com/)
+
+***
+
 #### Base64 Decode Extensions
 
 [Chrome](https://chrome.google.com/webstore/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/), [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
@@ -242,6 +248,12 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 #### Browser EBook Readers
 
 [fViewer](https://www.fviewer.com/), [Reader View](https://add0n.com/chrome-reader-view.html) / [2](https://mybrowseraddon.com/reader-view.html), [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/), [EpubPress](https://epub.press/), [ePubReader](https://www.epubread.com/en/), [Mercury](https://mercury.postlight.com/), [LoudReader](https://www.loudreader.com/), [ReadWok](https://readwok.com/), [2read](https://2read.net/), [Reader Mode](https://readermode.io/)
+
+***
+
+#### Browser Startpages 
+
+**[WebOas.is](https://weboas.is/)**, [8bitdash](https://www.8bitdash.com/), [8Bitdashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [StartTree](https://github.com/Paul-Houser/StartTree), [New Tab Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page)
 
 ***
 
@@ -404,7 +416,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### DOS Games
 
-**[eXoDOS](https://exodos.the-eye.eu/)**, [DOSGamesLibrary](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS Haven](http://www.doshaven.eu/), [LiquidDoom](http://dos.liquiddoom.net/), [The Software Library](https://archive.org/details/softwarelibrary_msdos), [Best Old Games](http://www.bestoldgames.net/eng/), [DosGames](https://dosgames.com/), [PlayDOSGames](https://www.playdosgames.com/)
+**[eXoDOS](https://exodos.the-eye.eu/)**, [DOSGamesLibrary](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS Haven](http://www.doshaven.eu/), [LiquidDoom](http://dos.liquiddoom.net/), [The Software Library](https://archive.org/details/softwarelibrary_msdos), [Best Old Games](http://www.bestoldgames.net/eng/), [DosGames](https://dosgames.com/), [PlayDOSGames](https://www.playdosgames.com/), [ClassicDOSGames](https://www.classicdosgames.com/), [AbandonwareDOS](https://www.abandonwaredos.com/)
 
 ***
 
@@ -605,7 +617,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Multi Host Uploaders**
 
-**[Z-o-o-m](https://z-o-o-m.eu/)**, [MirrorAce](https://mirrorace.com/), [MultiUp](https://multiup.eu/) / [2](https://multiup.org/), [Mirrorcreator](https://www.mirrored.to/)
+**[Z-o-o-m](https://z-o-o-m.eu/)**, [MirrorAce](https://mirrorace.com/), [MultiUp](https://multiup.eu/) / [2](https://multiup.org/), [Mirrorcreator](https://www.mirrored.to/, [PlowShare](https://github.com/mcrapet/plowshare)
 
 **File Hosts**
 
@@ -770,7 +782,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ####  Icon Download Sites
 
-**[Awesome Icons](https://github.com/notlmn/awesome-icons), [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources), [Icon Repositories](https://github.com/search?q=icon)**, [IconFinder](https://www.iconfinder.com/), [IconSeeker](http://www.iconseeker.com/), [Flaticon](https://www.flaticon.com/), [SVG Repo](https://www.svgrepo.com/), [SimpleIcons](https://simpleicons.org/), [Noun Project](https://thenounproject.com/), [tablericons](https://tablericons.com/), [Gumroad](https://www.google.com/search?q=site%3Agumroad.com+%240+icons), [IconPacks](https://www.iconpacks.net/), [Streamline Icons](https://streamlineicons.com/download/), [game-icons](https://game-icons.net/), [icons8](https://icons8.com/icons), [ikonate](https://ikonate.com/), [iconmonstr](https://iconmonstr.com/), [styled-icons](https://styled-icons.js.org/), [glitter-graphics](http://www.glitter-graphics.com/), [Icon Archive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [Photoshop Vector Icons](https://docs.google.com/document/d/11VSl8DZ7nxmCs-AvUivC_W047_v80F2McMPWDHipMU0/edit), [HeroIcons](https://heroicons.com/), [fontawesome](https://fontawesome.com/), [css.gg](https://css.gg/), [EvaIcons](https://akveo.github.io/eva-icons/), [publicicons](https://publicicons.lllllllllllllllll.com/), [getbootstrap](https://icons.getbootstrap.com/), [remixicon](https://remixicon.com/), [IconSets](http://www.iconsets.com/), [coolarchive](http://www.coolarchive.com/), [2k Vector Icons](https://drive.google.com/drive/folders/0B_VmbVyD4eT3N1VUbGN4Wjd5OVE?resourcekey=0-V5nCTH9etA0yB7a4XZOh9w), [flexiple](https://2.flexiple.com/scale/all-illustrations), [uispace](https://uispace.net/free-icons), [freeicons](http://freeicons.io/), [Quick Feather Icons](https://quick-feather-icons.vercel.app/), [illlustrations](https://illlustrations.co/), [vector.toolxox](https://vector.toolxox.com/), [icon icons](https://icon-icons.com/), [27k Pfps](https://mega.nz/file/Q5AzEQYB#c2H4gaVzVHAOwo45DafdlDsd340ShNxdc_CzSwdBMGE), [fontawesome icons](https://fontawesome.com/v5.15/icons), [100 Awesome Icon Sets](https://www.designwall.com/blog/100-awesome-free-icons-sets/), [feathericons](https://feathericons.com/), [nnty](https://nnty.fun/downloads/images/the_great_icon_collection/)
+**[Awesome Icons](https://github.com/notlmn/awesome-icons), [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources), [Icon Repositories](https://github.com/search?q=icon)**, [IconFinder](https://www.iconfinder.com/), [IconSeeker](http://www.iconseeker.com/), [Flaticon](https://www.flaticon.com/), [SVG Repo](https://www.svgrepo.com/), [SimpleIcons](https://simpleicons.org/), [Noun Project](https://thenounproject.com/), [tablericons](https://tablericons.com/), [Gumroad](https://www.google.com/search?q=site%3Agumroad.com+%240+icons), [IconPacks](https://www.iconpacks.net/), [Streamline Icons](https://streamlineicons.com/download/), [game-icons](https://game-icons.net/), [icons8](https://icons8.com/icons), [ikonate](https://ikonate.com/), [iconmonstr](https://iconmonstr.com/), [styled-icons](https://styled-icons.js.org/), [glitter-graphics](http://www.glitter-graphics.com/), [Icon Archive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [Photoshop Vector Icons](https://docs.google.com/document/d/11VSl8DZ7nxmCs-AvUivC_W047_v80F2McMPWDHipMU0/edit), [HeroIcons](https://heroicons.com/), [fontawesome](https://fontawesome.com/), [css.gg](https://css.gg/), [EvaIcons](https://akveo.github.io/eva-icons/), [publicicons](https://publicicons.lllllllllllllllll.com/), [getbootstrap](https://icons.getbootstrap.com/), [remixicon](https://remixicon.com/), [IconSets](http://www.iconsets.com/), [coolarchive](http://www.coolarchive.com/), [2k Vector Icons](https://drive.google.com/drive/folders/0B_VmbVyD4eT3N1VUbGN4Wjd5OVE?resourcekey=0-V5nCTH9etA0yB7a4XZOh9w), [flexiple](https://2.flexiple.com/scale/all-illustrations), [uispace](https://uispace.net/free-icons), [freeicons](http://freeicons.io/), [Quick Feather Icons](https://quick-feather-icons.vercel.app/), [illlustrations](https://illlustrations.co/), [vector.toolxox](https://vector.toolxox.com/), [icon icons](https://icon-icons.com/), [27k Pfps](https://mega.nz/file/Q5AzEQYB#c2H4gaVzVHAOwo45DafdlDsd340ShNxdc_CzSwdBMGE), [fontawesome icons](https://fontawesome.com/v5.15/icons), [100 Awesome Icon Sets](https://www.designwall.com/blog/100-awesome-free-icons-sets/), [feathericons](https://feathericons.com/), [nnty](https://nnty.fun/downloads/images/the_great_icon_collection/), [IconHub](https://iconhub.io/)
 
 ***
 
@@ -1686,7 +1698,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Skip Redirect 
 
-**[FastForward](https://fastforward.team/)** / **[Discord](https://discord.gg/RSAf7b5njt)**, **[bypass.vip](https://bypass.vip/)**, [DL Site Scrubber](https://github.com/PrimePlaya24/dl-site-scrubber), [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser), [skip-redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/) / [Chrome](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon), [krnl-and-linkvertise-bypasser](https://greasyfork.org/en/scripts/427869-krnl-and-linkvertise-bypasser), [Bypass All Shortlinks](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks), [Linkvertise-Bypasser](https://github.com/venaxyt/Linkvertise-Bypasser), [Linkvertise-Bypass](https://github.com/Lufzys/Linkvertise-Bypass), [TheBypasser](https://thebypasser.com/), [Bypass-Links](https://github.com/amitsingh-007/bypass-links), [Auto link bypasser](https://chrome.google.com/webstore/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh) 
+**[FastForward](https://fastforward.team/)** / **[Discord](https://discord.gg/RSAf7b5njt)**, **[bypass.vip](https://bypass.vip/)**, [DL Site Scrubber](https://github.com/PrimePlaya24/dl-site-scrubber), [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser), [skip-redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/) / [Chrome](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon), [krnl-and-linkvertise-bypasser](https://greasyfork.org/en/scripts/427869-krnl-and-linkvertise-bypasser), [Bypass All Shortlinks](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks), [Linkvertise-Bypasser](https://github.com/venaxyt/Linkvertise-Bypasser), [Linkvertise-Bypass](https://github.com/Lufzys/Linkvertise-Bypass), [TheBypasser](https://thebypasser.com/), [Bypass-Links](https://github.com/amitsingh-007/bypass-links), [Auto link bypasser](https://chrome.google.com/webstore/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh), [Bypasser](https://yuumari.com/bypass/) 
 
 ***
 
@@ -1722,7 +1734,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Legit Downloaders**
 
-[Soggfy](https://github.com/Rafiuth/Soggfy) / [Discord](https://discord.gg/gjqrP5PB8g), [zspotify](https://github.com/Footsiefat/zspotify), [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot)
+[Soggfy](https://github.com/Rafiuth/Soggfy) / [Discord](https://discord.gg/gjqrP5PB8g), [zspotify](https://github.com/Footsiefat/zspotify) / [Colab](https://github.com/Ori5000/zspotifycolab), [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot)
 
 **Spotify YouTube Downloaders** 
 
@@ -1795,6 +1807,12 @@ Add the following commands to a search to manually scrape each site.
 * [XCI NSP](https://www.xcinsp.com/)
 * [Switchrls](https://switchrls.co/)
 * [Switch Archive](https://docs.google.com/spreadsheets/d/1lRMTxSAJiASOdT1ZlCyYrUnXkVt58jg46Y-2w3RrMtA/edit) 
+
+***
+
+#### Tab Managers 
+
+[OneTab](https://www.one-tab.com/), [tabby](https://www.tabby.us/), [TabMerger](https://lbragile.github.io/TabMerger-Extension/), [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn), [Tabli](https://www.gettabli.com/), [Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups), [Acid Tabs](https://github.com/jdhayford/acid-tabs-extension)
 
 ***
 
@@ -2308,15 +2326,19 @@ Add the following commands to a search to manually scrape each site.
 
 #### Video Players
 
-**Players** - **[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [VLC](https://www.videolan.org/), [mvp.net](https://github.com/stax76/mpv.net), [MPC-HC](https://mpc-hc.org/), [MPC-BE](https://sourceforge.net/projects/mpcbe/) / [Fork](https://github.com/clsid2/mpc-hc), [Pot Player](http://potplayer.daum.net/), [SMPlayer](https://www.smplayer.info/) / [2](https://sourceforge.net/projects/smplayer/), [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player), [uView](https://www.idruf.com/) (Floating)
+* **[MPC-HC](https://mpc-hc.org/)**, [MPC-BE](https://sourceforge.net/projects/mpcbe/) / [Fork](https://github.com/clsid2/mpc-hc)
+* **[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [MPV.net](https://github.com/stax76/mpv.net), [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player)
+* [VLC](https://www.videolan.org/)
+* [Pot Player](http://potplayer.daum.net/)
+* [SMPlayer](https://www.smplayer.info/) / [2](https://sourceforge.net/projects/smplayer/)
+* [uView](https://www.idruf.com/)
 
-**MPV Tools** - [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [Sub Navigation](https://github.com/perogiue/mpv-scripts/releases/) / [SponsorBlock](https://github.com/po5/mpv_sponsorblock) / [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) / [MPC-DiscordRPC](https://github.com/angeloanan/MPC-DiscordRPC), [Bilibili Player](https://github.com/m13253/BiliDan)
+**Video Player Tools**
 
-**VLC Tools** - [Browser Control](https://mybrowseraddon.com/remote-vlc-player.html) / [Sub Downloader](https://github.com/exebetche/vlsub) / [OpenWithVLC](https://addons.mozilla.org/en-US/firefox/addon/open-with-vlc/) / [Slow Seek Fix](https://redd.it/os6f1q) / [Skins](https://www.videolan.org/vlc/skins.php)
-
-**[Windows Media Player Skins](https://web.archive.org/web/20100827223732/http://windows.microsoft.com/en-US/windows/downloads/windows-media-player/skins?T1=all)**, [2](https://wmpskinsarchive.neocities.org/)
-
-**[Codecs](http://www.codecguide.com/download_kl.htm)**
+* MPV Tools - [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [Sub Navigation](https://github.com/perogiue/mpv-scripts/releases/) / [SponsorBlock](https://github.com/po5/mpv_sponsorblock) / [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) / [MPC-DiscordRPC](https://github.com/angeloanan/MPC-DiscordRPC) / [Bilibili Player](https://github.com/m13253/BiliDan)
+* VLC Tools - [Browser Control](https://mybrowseraddon.com/remote-vlc-player.html) / [Sub Downloader](https://github.com/exebetche/vlsub) / [OpenWithVLC](https://addons.mozilla.org/en-US/firefox/addon/open-with-vlc/) / [Slow Seek Fix](https://redd.it/os6f1q) / [Skins](https://www.videolan.org/vlc/skins.php)
+* [Video Player Codecs](http://www.codecguide.com/download_kl.htm)
+* [Windows Media Player Skins](https://web.archive.org/web/20100827223732/http://windows.microsoft.com/en-US/windows/downloads/windows-media-player/skins?T1=all) / [2](https://wmpskinsarchive.neocities.org/)
 
 ***
 
