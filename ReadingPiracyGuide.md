@@ -598,7 +598,8 @@
 * [ndltd](http://search.ndltd.org/) - *Search theses and dissertations* 
 * [UBIRA eTheses](https://etheses.bham.ac.uk/) - *Theses* 
 * [oatd](https://oatd.org/) - *Theses / Dissertations* 
-* [WorldBank](https://www.worldbank.org/en/home) - *Poverty Solution Research & Data*
+* [CIRES](https://cires.colorado.edu/) - *Environmental Research Data*
+* [WorldBank](https://www.worldbank.org/en/home) - *Poverty Solution Research Data*
 * [Einstein Papers](https://einsteinpapers.press.princeton.edu/) - *Albert Einsteins Collected Papers Archive* 
 * [CIA Publications](https://www.cia.gov/resources/publications/) - *History / Reports*
 * [The Black Vault](https://www.theblackvault.com/) - *Declassified Documents*
@@ -729,7 +730,7 @@
 * [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - *Tor required* 
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) or [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md) - *Comic Downloading App*
 * [Dark_Horse_Comics_Converter](https://github.com/GrowAsguard/Dark-Horse-Comics-Converter) - *Dark Horse Comics Downloader*
-* [LeagueOfComicGeeks](https://leagueofcomicgeeks.com/), [Cover](http://www.frenchfrysoftware.com/cover/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - *Reader / Manager*
+* [Cover](http://www.frenchfrysoftware.com/cover/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - *Reader / Manager*
 * [MComix](https://sourceforge.net/p/mcomix/wiki/Home/) - *Reader*
 * [Tachiyomi](https://tachiyomi.org/), [TheComicsLibrary](https://github.com/FabioPezzini/TheComicsLibrary), [Bubble](https://f-droid.org/en/packages/com.nkanaev.comics/) or [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - *Manager / Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / Android* 
 * [ComicFlow](https://github.com/swisspol/ComicFlow) - *Manager / Reader / iOS*
@@ -981,8 +982,9 @@
 # ► Tracking / Discovery
 
 * **[GoodReads](https://www.goodreads.com/)** - *Books / Comics / Manga / [DL Button](https://github.com/laxyapahuja/bunken)*
-* **[TasteDive](https://tastedive.com/)** - *Recommendations* 
 * **[MyAnimeList](https://myanimelist.net/)** - *Manga*
+* **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - *Comics*
+* **[TasteDive](https://tastedive.com/)** - *Recommendations* 
 * [listal](https://www.listal.com/) - *Books*
 * [Litsy](https://www.litsy.com/) - *Book Recommendation / Photo Sharing Community*
 * [What Should I Read Next?](https://www.whatshouldireadnext.com/), [RecommendMeABook](https://recommendmeabook.com/) or [WhichBook](https://www.whichbook.net/) - *Book Recommendations*
@@ -1028,18 +1030,19 @@
 * **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** - *List of Ebook Readers*
 * **[Google Play Books](https://play.google.com/books)** - *Store Pirated Books / Get Meta Data Automatically*
 * **[Foxit](https://www.foxitsoftware.com/pdf-reader/)** - *PDF Reader / PC / Android / iOS / Linux / Mac*
-* **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - *Manager / Reader / Android*
-* **[eBoox](https://eboox.ru/en/)** - *Manager / Reader / Android / iOS*
-* **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader.html)** - *Desktop PDF Reader*
-* **[Calibre](https://calibre-ebook.com/)** - *Manager / Reader / PC / Android / iOS*
+* **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - *Ebook Reader / Android*
+* **[eBoox](https://eboox.ru/en/)** - *Ebook Reader / Android / iOS*
+* **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader.html)** - *PDF Reader*
+* **[Calibre](https://calibre-ebook.com/)** - *Ebook Reader / PC / Android / iOS*
 * [Ubooquity](http://vaemendis.net/ubooquity/) - *Manager / Reader / PC / Android / iOS*
-* [KoReader](http://koreader.rocks/) - *Manager / Reader / PC / Android*
-* [FBReader](https://fbreader.org/) - *Manager / Reader / PC / Android / iOS*
-* [Koodo](https://koodo.960960.xyz/) - *Manager / Reader / PC / Mac / Linux*
-* [Thorium](https://www.edrlab.org/software/thorium-reader/) - *Manager / Reader / PC / Mac / Linux* 
-* [Icecream eBook Reader](https://icecreamapps.com/Ebook-Reader/) - *Manager / Reader / PC*
-* [Eplee](https://github.com/Janglee123/eplee) - *Manager / Reader / PC* 
-* [Okular](https://okular.kde.org/) - *PDF / Reader / Linux / PC / Mac*
+* [KoReader](http://koreader.rocks/) - *Ebook Reader / PC / Android*
+* [FBReader](https://fbreader.org/) - *Ebook Reader / PC / Android / iOS*
+* [Koodo](https://koodo.960960.xyz/) - *Ebook Reader / PC / Mac / Linux*
+* [Thorium](https://www.edrlab.org/software/thorium-reader/) - *Ebook Reader / PC / Mac / Linux* 
+* [CoolReader](https://github.com/buggins/coolreader) - *Ebook Reader / PC / Linux*
+* [Icecream eBook Reader](https://icecreamapps.com/Ebook-Reader/) - *Ebook Reader / PC*
+* [Eplee](https://github.com/Janglee123/eplee) - *Ebook Reader / PC* 
+* [Okular](https://okular.kde.org/) - *PDF Reader / Linux / PC / Mac*
 * [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) - *PDF Reader / PC*
 * [qPDFview](https://launchpad.net/qpdfview) - *PDF Reader / PC*
 * [PDFLite](http://www.pdflite.com/) - *PDF Reader / PC*
@@ -1056,6 +1059,7 @@
 * [Cubari](https://cubari.moe/) - *Image Proxy / Reader*
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - *Read Books in Browser*
 * [Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading) Ebook Readers - *Mobile Browser Readers*
+* [The Open Book](https://github.com/joeycastillo/The-Open-Book) - *DIY Ebook Reader*
 
 ***
 
