@@ -124,6 +124,8 @@
 * [Uloz](https://ulozto.net/) - *Video / Audio* 
 * [ShareMania](http://sharemania.us/) - *Video / Audio* 
 * [Heidoc](https://www.heidoc.net/joomla/) - *Software / Books / Android* 
+* [Pouet](https://www.pouet.net/prodlist.php) - *Software / Game Demos*
+* [/r/downloadleak](https://www.reddit.com/r/downloadleak/) - *Source Code / Data Leaks*
 * [Redump](http://redump.org/) - *Disc Preservation Project*
 * [Ubu](https://ubuweb.com/) - *Avant-Garde Artifacts*
 * Alexa Rankings - [Sites](https://dirtywarez.org/cat/blog) / [Forums](https://dirtywarez.org/cat/forum) 
@@ -206,6 +208,7 @@
 * [Software Heritage](https://www.softwareheritage.org/) - *Software Source Code Archive* 
 * [balenaHub](https://hub.balena.io/) - *Raspberry Pi Software* 
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - *Professional Video, Audio & Adobe Software / Plugins*
+* [CyberMania](https://www.cybermania.ws/) - *Cracked Windows Software*
 * [WLSetup-All](https://archive.org/details/wlsetup-all_201802) - *Windows Live Essentials 2012 Archive*
 * [GenP](https://www.reddit.com/r/GenP) - *Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)*
 * [Adobe CC](https://docs.google.com/document/d/1_Me1TQzXqCYASls7P5Zt5mASNsPamyNVnZfu48t_5Yw/) - *Adobe Creative Cloud Piracy Guide*
@@ -251,6 +254,7 @@
 * [3nitySoftware](http://3nitysoftwares.com/index.php/en) 
 * [Antp](http://www.antp.be/) 
 * [FileEagle](https://www.fileeagle.com/) 
+* [FreewareFiles](https://www.freewarefiles.com/) 
 * [IcecreamApps](https://icecreamapps.com/) 
 * [PRVSoft](https://www.prvsoft.com/)
 * [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html) 
@@ -259,13 +263,14 @@
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software*  
 * [WinTools](https://www.wintools.info/) - *Windows Software*
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software Index* 
-* [RaymondFreeSoftware](https://t.me/raymondfreesoftware) - *Telegram*
+* [RaymondFreeSoftware](https://t.me/raymondfreesoftware) - *Telegram / [Index](https://t.me/rfsnotes)*
 * [Suckless](https://suckless.org/) - *Simple Software Archive* 
 * [MSDN](https://the-eye.eu/public/MSDN/) - *Microsoft Developer Network Software* 
 * [WinWorldPC](https://winworldpc.com/) - *Abandonware / Operating Systems* 
 * [VETUSWARE](https://vetusware.com/) - *Abandonware / Operating Systems / Games*
 * [The Vintage Software Collection](https://archive.org/details/vintagesoftware) or [SCiZE's Classic Warez Collection](https://scenelist.org/) - *Retro Software*
 * [Portapps](https://portapps.io/), [FC Portables](https://www.fcportables.com/), [Portable Freeware](https://www.portablefreeware.com/), [TheHouseOfPortable](https://thehouseofportable.com/), [freeportablesoftwares](https://sites.google.com/site/freeportablesoftwares/) or [PortableApps](https://portableapps.com/) - *Portable Apps for USB / SD / External Storage*
+* [BelowAverage](https://belowaverage.org/) - *I.T. Software*
 * [Software Giveaway Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) 
 
 ***
@@ -290,6 +295,7 @@
 * [GFXhome](http://gfxhome.ws/index.php)
 * [GFXDrug](https://gfxdrug.com/)
 * [Grafixfather](https://www.grafixfather.com/)
+* [Graphicex](https://graphicex.com/)
 * [PSDKeys](https://psdkeys.com/)
 * [Allday](https://allday1.com/)
 * [GFX-Hub](https://gfx-hub.net/)
