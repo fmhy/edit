@@ -568,6 +568,8 @@
 * [MoviesVerse](https://moviesverse.co.in/) - *Movies / TV*
 * [FreeDriveMovie](https://www.freedrivemovie.com/) - *Movies / TV*
 * [TVindexer](https://tvindexer.com/) - *Movies / TV / Anime*
+* [HDMovieArea](https://hdmoviearea.live/genre/dual-audio/) - *Movies / TV*
+* [UHDMovies](https://uhdmovies.in/movies/dual-audio-movies/) - *Movies*
 * [Movies Mobile](https://mobilemovies.info/index.php?dir=Hollywood%20Movies) - *Movies*
 * [SeriesVault](https://seriesvault.tk/) - *TV* 
 * [TVShows.today](https://tvshows.today/) - *TV*
