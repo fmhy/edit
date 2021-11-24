@@ -323,6 +323,7 @@
 * [Math Exercises](http://www.math-exercises.com/) - *Math Practice*
 * [Pauls Online Math Notes](https://tutorial.math.lamar.edu/) - *Math Practice / Guides*
 * [Math2.org](http://math2.org/) - *Math Guides*
+* [Terence Tao Research](https://terrytao.wordpress.com/) - *Mathematical Research*
 * [All Math Questions](https://www.docdroid.net/YupQ6Pp/khan-academy-all-math-questions-pdf) - *Khan Academy Math Questions*
 * [Math is Fun](https://www.mathsisfun.com/) - *Math Tutorials / Puzzles / Games*
 * [Project Euler](https://projecteuler.net/) - *Math / Programming Problems*
@@ -358,13 +359,15 @@
 * [Mars Explorer](https://mars-explorer.dhaiwatpandya.com/) - *Curiosity Rover Pictures*
 * [Mars Now](https://mars.nasa.gov/explore/mars-now/) - *Mars Exploration Program Simulator*
 * [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/) - *Interactive Index of Moons* 
-* [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) - *Solar System Scale Model*
+* [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) or [OMG SPACE](http://omgspace.net/) - *Solar System Scale Model*
 * [3DSolarSystem](https://theskylive.com/3dsolarsystem) - *Solar System Simulator* 
 * [100,000 Stars](https://stars.chromeexperiments.com/) - *Interactive 3D Star Visualization*
 * [Stellarium-Web](https://stellarium-web.org/) - *Online Stellarium*
 * [ESO](https://www.eso.org/public/images/eso1242a/zoomable/), [Hubble](https://esahubble.org/images/heic1502a/zoomable/), [Hubble 2](https://esahubble.org/images/heic1901a/zoomable/) - *Massive Zoomable Telescope Photos*
 * [Space Telescope Live](https://spacetelescopelive.org/) - *Live Hubble Image Data*
 * [APOD](https://apod.nasa.gov/) - *Daily NASA Astronomy Pictures*
+* [Clear Dark Sky](https://cleardarksky.com/) - *Star Gazing Weather Forecasts*
+* [Dark Site Finder](https://darksitefinder.com/), [DarkSkyMap](https://darkskymap.com/) or [GoStarGazing](https://gostargazing.co.uk/) - *Star Gazing Site Locators*
 * [SpaceEngine](http://spaceengine.org/) - *Universe Simulator*
 * [astro.sfasu](http://astro.sfasu.edu/courses/ast305/homework/) - *Astronomy Homework*
 
@@ -400,7 +403,7 @@
 * [Language Transfer](https://www.languagetransfer.org/) - *Language Learning Courses / Audio*
 * [refold.la](https://refold.la/roadmap) - *Language Learning Guide* 
 * [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - *Language Learning Flashcards*
-* [Learn English Online](http://www.learn-english-online.org/), [ESLFast](https://www.eslfast.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - *Learn English*
+* [Learn English Online](http://www.learn-english-online.org/), [ESLFast](https://www.eslfast.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons), [Voscreen](http://voscreen.com/) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - *Learn English*
 * [Podcasts in English](https://www.podcastsinenglish.com/) - *English Learning Podcasts*
 * [Free4Talk](https://www.free4talk.com/) or [Speaking24](http://www.speaking24.com/) - *English Practice Community*
 * [MyLanguages](http://mylanguages.org/) or [Langeek](https://langeek.co/) - *Grammar / Vocabulary Language Learning*
@@ -474,6 +477,7 @@
 
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
 * [OpenSong](http://www.opensong.org/) - *Track Lyrics, Chords, Sheets & more*
+* [Sound Slice](https://soundslice.com/) - *Sheet Music Learning*
 * [LilyPond](http://lilypond.org/) - *Music Engraving Program*
 * [Learning Music](https://learningmusic.ableton.com/)
 * [Teoria](https://www.teoria.com/index.php) - *Music Theory*
@@ -488,6 +492,7 @@
 * [LearningSynths](https://learningsynths.ableton.com/) - *Synthesizers*
 * [A-Complete-UTAU-Tutorial-For-Beginners](https://www.quotev.com/story/9299060/A-Complete-UTAU-Tutorial-For-Beginners) - *UTAU Tutorial*
 * [MusicStaff](https://musicstaff.com/) - *Music Teacher Search*
+* [NoteFlight](https://noteflight.com/) or [Trinket](https://trinket.io/) - *Create & Share Music Scores*
 
 ***
 
@@ -606,6 +611,7 @@
 * [VirtualTrebuchet](http://virtualtrebuchet.com/) - *Trebuchet Simulator* 
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - *Pendulum Simulator*
 * [Traffic Simulation](https://traffic-simulation.de/) - *Traffic Flow Simulation* 
+* [Bridge Command](https://www.bridgecommand.co.uk/) - *Bridge Command Ship Simulator*
 * [Sectional Anatomy](https://www.sectional-anatomy.org/) - *Cross Sectional Educational MRI / CT Scans*
 * [Ray Optics Simulation](https://ricktu288.github.io/ray-optics/) - *Light Reflection / Refraction Simulator*
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) or [Mindat](https://www.mindat.org/) - *Mineralogy Database* 
