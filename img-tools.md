@@ -44,7 +44,7 @@
 * [InsertFace](https://insertface.com/) - *Selfie Frames, Backgrounds & Effects*
 * [Frame360](https://frame360.net/) - *Image Frames*
 * [Supershots](https://superblog.ai/supershots/) - *Add Backgrounds to Images*
-* [Remove.bg](https://www.remove.bg/), [Remove Background](https://pixlr.com/remove-background/), [Rembg](https://github.com/danielgatis/rembg), [bgremover](https://icons8.com/bgremover), [Removal.ai](https://removal.ai/upload/), [Trace](https://www.stickermule.com/trace) or [Background Burner](https://burner.bonanza.com/) - *Remove Background / [Gimp Plugin](https://github.com/manu12121999/RemoveBG-GIMP) unlimited accounts w/ [Temp Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)*
+* [Background Removers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_background_removers) - *Remove Image Backgrounds*
 * [PFP.LGBT](https://pfp.lgbt/) - *LGBTQ+fy Images*
 * [ImageRemix](http://www.oyonale.com/imagemix.php) - *Image Remixer*
 * [SpiralBetty](https://www.spiralbetty.com/) - *Image Spiralizer*
@@ -91,7 +91,7 @@
 
 * [Rough.js](https://roughjs.com/) - *Create Graphics that look Hand-Drawn*
 * [FontIcon](https://gauger.io/fonticon/)[PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [ICO Convert](https://www.icoconvert.com/), [IconsFlow](https://iconsflow.com/) or [Favic-o-Matic](https://favicomatic.com/) - *Icon Generators*
-* [Logo Makr](https://logomakr.com/), [The Logo Wizard](https://www.thelogowizard.com/), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/) or [ACME](https://acme.com/labelmaker/) - *Logo Creator* 
+* [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/) or [ACME](https://acme.com/labelmaker/) - *Logo Creator* 
 * [ArtFlow](http://artflow.ai/) or [Avataaars](https://getavataaars.com/) - *Face / Avatar Generator*
 * [Mirro-Ai](https://mirror-ai.com/) - *Get Stickers With Your Face*
 * [imgsli](https://imgsli.com/) - *Before & After Slider Generator*
@@ -304,6 +304,7 @@
 * [Nimbus Capture](https://nimbusweb.me/screenshot.php) 
 * [Screenshot Guru](https://screenshot.guru/) or [Site-Shot](https://www.site-shot.com/) - *Online Screenshot Tool* 
 * [puush](https://puush.me/) - *Easily Share Screenshots*
+* [Screenstab](http://screenstab.com/) - *Create Graphics from Screenshots*
 * [Screenshot Tutorial](https://www.take-a-screenshot.org/) - *Multi Platform Screenshot Guides* 
 
 ***
@@ -339,6 +340,7 @@
 * [PixWox](https://www.pixwox.com/) - *Story / Picture / Story Downloader*
 * [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [SocialUnblock](https://socialunblock.com/), [Instagram-Scraper](https://github.com/arc298/instagram-scraper), [DownloadGram](https://downloadgram.com/), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [igram](https://igram.io/), [InstaLooter](https://github.com/althonos/InstaLooter), [instadownloader](https://www.instadownloader.org/), [Instaloader](https://github.com/instaloader/instaloader), [instapick](https://www.instapick.net/), [InstaSave](https://github.com/sameera-madushan/InstaSave) or [YooYing](https://www.yooying.com/instagram-downloader) - *Picture / Video Downloader*
 * [4K Stogram](https://www.4kdownload.com/products/product-stogram) or [InstaLoader](https://instaloader.github.io/) - *Picture Downloader* 
+* [Photo Map](https://levionsoftware.com/) - *Interactive Map For Your Photos*
 * [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - *Video Downloader*
 * [PyInstaLive](https://github.com/dvingerh/PyInstaLive) - *Download Instagram Livestreams / Replays* 
 * [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - *ID Finder*
