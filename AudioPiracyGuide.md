@@ -116,7 +116,7 @@
 * [0x40](https://0x40.mon.im/) - *Electronic Radio w/ Anime Pictures* 
 * [Poolside FM](https://poolside.fm/) - *Summer Radio*
 * [latestation](http://radio.late.city/) - *Late-Night Radio*
-* [LISTEN.moe](https://listen.moe/)  - *K-Pop Radio*
+* [LISTEN.moe](https://listen.moe/)  - *K-Pop Radio / [Client](https://github.com/LISTEN-moe/windows-app)*
 * [Fountain of Dreams](https://fountainofdreams.net/) - *Japanese 80's Radio* 
 * [BakaRadio](https://www.bakaradio.net/app-bakaradio-player/) - *Anime Radio*
 * [Rainwave](https://rainwave.cc/), [Squid Radio](https://www.squid-radio.net/), [RPGGamers Radio](http://www.rpgamers.net/radio/), [VGMRadio](https://vgmradio.com/) or [Sitting On Clouds Radio](https://www.sittingonclouds.ru/) - *Video Game Music Radio*
@@ -328,7 +328,7 @@
 * [Download-Soundtracks](http://download-soundtracks.com/), [Audio-Track](https://www.audio-track.com/en), [3ost](https://3ost.ru/) or [tanikal](https://www.tanikal.com/) - *Movie / TV Soundtracks*
 * [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://github.com/TheLastZombie/VGMLoader) / [2](https://github.com/obskyr/khinsider), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
 * [Sitting On Clouds](https://www.sittingonclouds.com/) - *Game / Animation Soundtracks* 
-* [AniPlaylist](https://aniplaylist.com/), [YumeOST](https://www.yumeost.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - *Anime Soundtracks* 
+* [AniPlaylist](https://aniplaylist.com/), [OSAnime](https://osanime.com/), [YumeOST](https://www.yumeost.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - *Anime Soundtracks* 
 * [OtakuOst](https://otakuost.net/) - *Anime Soundtracks & Japanese Music* 
 * [Kiddie Records](http://www.kiddierecords.com/) - *Classic Children's Records*
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- *MIDI Files* 
@@ -379,10 +379,10 @@
 * [Forgotify](https://forgotify.com/) - *Spotify songs with 0 plays*  
 * [Obscurify](https://obscurifymusic.com/) - *Compare Music Taste to Others* 
 * [Chosic](https://www.chosic.com/) - *Song Discovery Tools*
+* [UnknownMusicBot](https://t.me/UnknownMusicBot) - *Play a Random Rare Song from YouTube* 
 * [Music-Map](https://www.music-map.com/) or [Musicroamer](https://www.musicroamer.com/) - *Similar Artist Discovery* 
 * [BoilTheFrog](http://boilthefrog.playlistmachinery.com/) - *Create Playlists From 2 Artists* 
-* [UnknownMusicBot](https://t.me/UnknownMusicBot) - *Play a random rare song from YouTube* 
-* [Gnoosic](https://www.gnoosic.com/) - *Band Discovery Tool* 
+* [Gnoosic](https://www.gnoosic.com/) or [What The Fuck Should I Listen To Right Now?](https://www.whatthefuckshouldilistentorightnow.com/) - *Artist Discovery Tool* 
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - *Generates Random Album Each Weekday* 
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Greatest 100 Lists*
 * [Acclaimed Music](http://www.acclaimedmusic.net/) - *Discover Acclaimed Music of the Times*
