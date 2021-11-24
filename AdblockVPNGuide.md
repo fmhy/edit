@@ -190,7 +190,8 @@
 * [Filecrypt](https://filecrypt.cc/) - *Encrypt File Links*
 * [RemoteStream](https://remotestre.am/) - *Encrypt your Google Drive links* 
 * [PDFEncrypt](https://pdfencrypt.net/) - *PDF File Encryption*
-* [GnuPG](https://www.gnupg.org/index.html) or [GPGTools](https://gpgtools.org/) - *Encrypt & Sign Data / Communications* 
+* [GPGTools](https://gpgtools.org/) - *Encrypt & Sign Data / Communications* 
+* [CiphersByRitter](http://ciphersbyritter.com/) - *Cipher / Encryption Articles *
 * [Unsee](https://unsee.cc/) - *Private / Temporary Image Host* 
 * [ImgProxify](https://imgproxify.com/) - *Image Proxy Generator*
 * [PrivNote](https://privnote.com/) or [IPNote](https://ipnote.io/) - *Notes that Auto Delete After Being Read* 
@@ -330,6 +331,7 @@
 * [de-google](https://www.reddit.com/r/privacy/wiki/de-google), [De-google-ify](https://degooglisons-internet.org/en/), [degoogle](https://degoogle.jmoore.dev/) / [GitHub](https://github.com/tycrek/degoogle) or [No More Google](https://nomoregoogle.com/) - *Google App Alternatives*
 * [no-google](https://github.com/nickspaargaren/no-google) - *Block All Google Services* 
 * [Nixory](http://nixory.sourceforge.net/) - *Antispyware Browser Tool* 
+* [Shadow Wiki Browsers](https://tilde.club/~acz/shadow_wiki/browsers.xhtml) - *Browser Spyware Ratings*
 * [Alternative Internet](https://redecentralize.github.io/alternative-internet/) - *Decentralization Networks*
 * [Dark Launch Referer Test](https://www.darklaunch.com/tools/test-referer) - *Check Link Referrer*
 * [Anonymizer](https://www.lolinez.com/ ) - *Anonymize Links*
