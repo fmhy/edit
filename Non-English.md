@@ -27,7 +27,7 @@
 * [Shazam Music](https://t.me/shazam_music_uz) - *Music / Telegram* 
 * [music_banktel](https://t.me/music_banktel) - *Music / Telegram* 
 * [NullNoss](https://www.nullnoss.org/) - *Courses*
-* [Courses4Arab](https://courses4arab.com/) - *Programming Courses *
+* [Courses4Arab](https://courses4arab.com/) - *Programming Courses*
 * [WiFi4Games](https://www.wifi4games.com/) - *Games*
 
 ## ▷ Torrenting 
@@ -333,6 +333,7 @@
 * [1001ebooks](https://go.1001ebooks.com/accueil/) - *Books / Fiction / Nonfiction* 
 * [pdf-ebookys](https://www.pdf-ebookys.com/) - *Books / Magazines / Fiction / Nonfiction* 
 * [VK Serial Books & Magazines](https://vk.com/sebomag) - *Books / Magazines*  
+* [1001Ebooks](https://1001ebooks.club/) - *Books*
 * [Planet-DB](https://planete-bd.org/) - *Comics / Manga*
 * [Audiocite](https://www.audiocite.net/) - *Audiobooks* 
 * [zone-ebook.com](https://zone-ebook.com/) - *Magazines / Newspapers / Books / Audiobooks / Comics*   
@@ -482,8 +483,10 @@
 * [Gophie](https://gophie.cam/) - *Movies / TV*
 * [DesiRulez](https://www.desirulez.cc/) - *Video / Audio*
 * [Tomato.to](https://saavn.tomato.to/) - *Music*
+* [WapKing](https://wapking.name/) - *Music*
 * [Pagalworld](https://www.pagalworld.pw/) - *Music*
 * [Original iTunes](https://originalitunes.blogspot.com/) - *Music*
+* [PagalSong](https://pagalsong.in/) - *Soundtracks*
 
 ## ▷ Torrenting
 
@@ -592,6 +595,7 @@
 * [lit.link](https://lit.link/) - *Link All Your Sites on One Page*
 * [jpsubbers.xyz](http://jpsubbers.xyz/Japanese-Subtitles/) - *Japanese Subtitles for J-Dramas*
 * [Poipiku](https://poipiku.com/) - *User-Made Images*
+* [Marshmallow](https://marshmallow-qa.com/) - *Send & Receive Positive Messages*
 
 ## ▷ Downloading
 
@@ -1153,6 +1157,7 @@ Portuguese
 * [DIAKOV](https://diakov.net/) - *Software* 
 * [LRepacks](https://lrepacks.ru/) - *Software* 
 * [Sergei Strelec](https://www.sergeistrelec.ru/) - *Windows Boot Disks*
+* [Old-Games](https://www.old-games.ru/) - *Retro Games*
 * [AppsTorrent](https://appstorrent.ru/) - *Mac Software*
 * [muzlishko](http://www.muzlishko.ru/) - *MP3*
 * [Tancpol](https://tancpol.net/) - *MP3*
@@ -1216,15 +1221,17 @@ Portuguese
 * [FileBase](http://www.filebase.ws/) - *Movies* 
 * [androidkino](https://androidkino.net/) - *Movies / TV* 
 * [bitru](https://bitru.org/) - *Movies* 
+* [Selezen](https://selezen.net/) - *Movies*
 * [DarkLibria](https://darklibria.it/) - *Anime*
 * [RGFootball](http://rgfootball.net/) - *Sports*
 * [Torrent Igruha](https://torrent-igruha.ru/) - *Games*
 * [туттоп](https://tuttop.com/) - *Games*
 * [Small-Games](https://small-games.info/) - *Games*
-* [hit-muzik](https://hit-muzik.ru/) - *Music / MP3* 
-* [vrocke](http://vrocke.info/) - *Music / MP3* 
-* [opamuzika](http://www.opamuzika.ru/) - *Music / MP3*  
-* [Flactor](https://flactor.ru/) - *Music / FLAC*
+* [hit-muzik](https://hit-muzik.ru/) - *MP3* 
+* [vrocke](http://vrocke.info/) - *MP3* 
+* [opamuzika](http://www.opamuzika.ru/) - *MP3*  
+* [Muzick](https://muzick.ru/) - *MP3*
+* [Flactor](https://flactor.ru/) - *FLAC*
 
 ## ▷ Streaming 
 
@@ -1235,6 +1242,7 @@ Portuguese
 * [NotAlone](https://www.notalone.tv/) - *Movies / TV*
 * [filmix](https://filmix.co/) - *Movies*
 * [kinokong](https://kinokong.org/) - *Movies / TV* 
+* [Zetflix](https://zetflix.pro/) - *Movies / TV*
 * [RussianFilmHub](https://russianfilmhub.com/) - *Movies / TV*
 * [viho.live](https://viho.live/) - *Movies / TV / Anime* 
 * [EX-FS](https://ex-fs.net/ ) - *Movies / TV / Anime*
@@ -1309,6 +1317,7 @@ Portuguese
 * [SomosMovies](https://somosmovies.com/) - *Movies* 
 * [Mega MKV](https://mega-mkv.com/) - *Movies*
 * [MiCineHD ](https://www.micinehd.com/) - *Movies / TV* 
+* [DLShared](https://dlshareds.blogspot.com/?m=1) - *Movies*
 * [DescargasDD](https://descargasdd.net/) - *Movies / TV* 
 * [Movies, Series ... in Spanish](https://redd.it/ns0y6c) - *Movies / TV*
 * [Peliculas 480p](https://t.me/cinema480p) - *Movies / Telegram* 
