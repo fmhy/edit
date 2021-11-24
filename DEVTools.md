@@ -177,6 +177,7 @@
 * [XunLei](https://www.xunlei.com/) - *Shared Computing / Blockchain*
 * [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - *Sites to Post Your Startup*
 * [500+ Free Tools For Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) 
+* [Wokwi](https://wokwi.com/) - *Arduino / ESP32 Board Simulator*
 
 ***
 
@@ -198,6 +199,7 @@
 * [httpbin](https://httpbin.org/) - *HTTP Request & Response Service*
 * [RemoteMySQL](https://www.remotemysql.com/) - *Remote MySQL Database*
 * [DB4Free](https://db4free.net/) - *MySQL Testing*
+* [PooShock](https://pooshock.ru/) - *Apache 2 Test Page*
 * [WebAuthn](https://webauthn.io/) - *Data Security Authentication API*
 * [Spiderfoot](https://www.spiderfoot.net/) - *Automate OSINT*
 * [Site Analytics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_analytics) - *Traffic Stats & Info*
@@ -208,11 +210,12 @@
 * [UseMe](https://useme.org/) - *Ping Website*
 * [Measure](https://web.dev/measure/) - *Site Functionality Testing*
 * [Responsivize](https://virejdasani.github.io/Responsivize/) - *Website Responsiveness Test*
+* [PageSpeed](https://developers.google.com/speed/pagespeed/insights/) - *Test Webpage Speed*
 * [Shisho](https://shisho.dev/) - *Infrastructure Code Security Patcher*
 * [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - *All the ways HTTP Sites can Leak*
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist* 
 * [Flounder](https://flounder.online/) - *Gemini Website Builder / [GitHub](https://github.com/alexwennerberg/flounder)* 
-* [GoHugo](https://gohugo.io/) or [8b](https://8b.com/) - *Website Creator*
+* [GoHugo](https://gohugo.io/), [Potion](https://www.potion.so/) or [8b](https://8b.com/) - *Website Creator*
 * [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - *Webpage Editor* 
 * [Plunker](https://plnkr.co/) - *Prototype / Test Websites Ideas*
 * [Temper](https://temper.one/) - *Simple HTML Site Creator*
@@ -232,6 +235,7 @@
 * [Undraw](https://evie.undraw.co/) or [free-css-templates](https://www.free-css.com/free-css-templates) - *Site Templates*
 * [HTML5 Temp](https://rentry.co/HTML5Temp) - *HTML5 Templates & Themes*
 * [CSS Bed](https://www.cssbed.com/) - *CSS Themes*
+* [Typewolf](https://www.typewolf.com/) - *Trending Website Fonts*
 * [GalleryProject](http://galleryproject.org/) - *Manage / Host Photos on Website* 
 * [PublishThisEmail](https://www.publishthis.email/) - *Email Based Website Builder*
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - *Mobile Friendly Page Test* 
@@ -242,6 +246,7 @@
 * [Box-Shadow](https://box-shadow.art/) - *Box Shadow Generator*
 * [MapBox](https://www.mapbox.com/) - *Live Maps, Location Search & More*
 * [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [99Inbound](https://www.99inbound.com/), [Form.taxi](https://form.taxi/) or [Formsend](https://formsend.org/) - *Form Creator*
+* [Plaid](https://plaid.com/) - *Financial Account API / [GitHub](https://github.com/plaid)*
 * [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)- *Penetration Testing Resources*
 * [Can I Use?](https://caniuse.com/) - *Browser Support Tables*
 * [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - *Archive, Scrape & Crawl Sites* 
@@ -333,6 +338,7 @@
 * [TV Samples](https://github.com/android/tv-samples) - *Android TV App Samples*
 * [PrivacyFlash-Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - *Generate iOS Privacy Policies*
 * [MDB GO](https://mdbgo.com/) - *Free App Hosting*
+* [namae](https://namae.dev/) - *App Name Availability Check*
 * [Lich](https://github.com/line/lich) - *Android Development Libraries*
 * [androidx](https://github.com/androidx/androidx) - *Android Development Environment for Jetpack Extensions*
 * [Kodular](https://www.kodular.io/), [Flutter](https://flutter.dev/) or [Android Studio](https://developer.android.com/studio/index.html) - *Android App Creator*
@@ -344,7 +350,7 @@
 * [PM2](https://pm2.keymetrics.io/) - *Process Manager*
 * [React95](https://react95.io/) - *Windows 95 React Components*
 * [Redex](https://fbredex.com/) - *Android Bytecode Optimizer*
-* [Previewed](https://previewed.app/), [Mockup World](https://www.mockupworld.co/) or [LS Graphics](https://www.ls.graphics/) - *App & Site Mockups*
+* [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/) or [LS Graphics](https://www.ls.graphics/) - *App & Site Mockups*
 
 ***
 
@@ -354,7 +360,7 @@
 * [Godot](https://godotengine.org/), [Defold](https://defold.com/), [OpenXRay](https://github.com/OpenXRay) or [ursina engine](https://www.ursinaengine.org/) - *Game Engine*
 * [Playerio](https://playerio.com/) - *Online Game Engine*
 * [RPG Playground](https://rpgplayground.com/) - *Simple RPG Creator*
-* [Game-Editor](http://game-editor.com/Main_Page) - *Game Creator*
+* [Game-Editor](http://game-editor.com/Main_Page) or [BuildBox](http://buildbox.com/) - *Game Creator*
 * [Kaboomjs](https://kaboomjs.com/) - *Quickly Make Games with Javascript*
 * [GDevelop](https://gdevelop-app.com/) - *HTML5 Game Creator*
 * [Phaser](https://phaser.io/) - *Mobile HTML5 Game Framework* 
@@ -362,6 +368,7 @@
 * [Curlie World Building](https://curlie.org/en/Games/Roleplaying/World_Building) - *World Building Resource Index* 
 * [UE Viewer](https://www.gildor.org/en/projects/umodel) - *Unreal Engine Model Viewer / [GitHub](https://github.com/gildor2/UEViewer)*
 * [Electronic Arts GitHub](https://github.com/electronicarts) - *EA GitHub Repos*
+* [Xelu's Controller Prompts](https://thoseawesomeguys.com/prompts/) - *Free Game Prompts / [Video](https://youtu.be/d6GtGbI-now)*
 * [Bookshelf](https://github.com/Darkhax-Minecraft/Bookshelf) - *Minecraft Mod Code Support*
 * [VEEDI](https://www.veedi.com/) - *Create Game Walkthrough Videos*
 * [CraftPix](https://craftpix.net/freebies/), [Kenney](https://www.kenney.nl/), [/r/GameAssets](https://www.reddit.com/r/gameassets/), [UnityAssets4Free](https://unityassets4free.com/) or [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free) - *Game Development Assets*
@@ -393,6 +400,7 @@
 * [Leon's CSS](https://leonarnott.neocities.org/ ) - *CSS Text Styles*
 * [Hover.CSS](https://ianlunn.github.io/Hover/) - *CSS Hover Effects* 
 * [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds) - *CSS Background Patterns* 
+* [Gradient Animator](https://www.gradient-animator.com/) - *Animated CSS Gradient Generator*
 * [Animista](https://animista.net/) - *Tweak / Download CSS Animations*
 * [css2scss](https://sebastianpontow.de/css2compass/) - *CSS to SCSS Converter* 
 * [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/) or [SimpleCSS](https://simplecss.org/) - *CSS Framework*
