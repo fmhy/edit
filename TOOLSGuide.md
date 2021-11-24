@@ -114,7 +114,7 @@
 * [Detexify](http://detexify.kirelabs.org/classify.html) - *Handwritten LaTeX Symbol Recognition*
 * [AirPDFtoExcel](https://airpdftoexcel.com/) - *PDF to Excel Converter*
 * [How To Use Excel](https://www.how-use-excel.com/) - *Excel Tutorial*
-* [QuillBot AI](https://quillbot.com/), [Rewrite Tool](https://www.rewritetool.net/), [Paraphraz](https://paraphraz.it/) or [Paraphrasing Tool](https://paraphrasetool.com/) - *Paraphrasing Tool*
+* [QuillBot AI](https://quillbot.com/), [Rewrite Tool](https://www.rewritetool.net/), [Paraphraz](https://paraphraz.it/), [Paraphrasing Tool](https://paraphrasetool.com/) or [Rephrasely](https://rephrasely.com/) - *Paraphrasing / Rephrasing Tools*
 * [phraseup](http://www.phraseup.com/) - *Autocomplete Common Phrases* 
 * [PaperRater](https://www.paperrater.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - *Annotation Tools / Resources*
@@ -203,6 +203,7 @@
 * [youtube-cld](https://github.com/anatolykopyl/youtube-cdl) - *Bulk YouTube Channel Downloader*
 * [SaveVK](https://savevk.com/) - *Download VK videos* 
 * [DMVideo](https://dmvideo.download/) - *DailyMotion Video Downloader* 
+* [VLive Downloads](https://home.soshistagram.com/naver_v/) - *VLive Video Downloader*
 * [GetFVid](https://www.getfvid.com/), [Facebook DL](https://github.com/sdushantha/facebook-dl) or [FBDown](https://fbdown.net/) - *Facebook Video Downloader* 
 * [TikTok Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tiktok_video_downloaders) - *Download TikTok Videos*
 * [TikUp](https://github.com/Coloradohusky/TikUp) - *TikTok Auto Download / Upload*
@@ -278,7 +279,7 @@
 * [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - *Deepfake Video Creator*
 * [Air Pi Play](https://github.com/rahul-thakoor/air-pi-play) - *Rasberry Pi Screen Sharing*
 * [4K Media](https://4kmedia.org/) - *Free 4K Video Demos*
-* [L3-WEB-DL-Script](https://github.com/parnexcodes/widevine-L3-WEB-DL-Script) - *Widevine L3 DL Script*
+* [L3-WEB-DL-Script](https://github.com/parnexcodes/widevine-L3-WEB-DL-Script) or [uwuwvdl](https://github.com/Ori5000/uwuwvdl) - *Widevine L3 DL Script*
 * [Video Decrypter](https://github.com/CrackerCat/video_decrypter) - *Widevine DRM Decrypter*
 * [Custom NVIDIA Shield TV](https://www.reddit.com/r/ShieldAndroidTV/comments/o6o5dz/new_guide_use_a_custom_launcher_shield_tv_with/) - *Custom NVIDIA Shield TV Launcher*
 
@@ -456,7 +457,6 @@
 
 # ► Internet Tools
 
-* **[WebOas.is](https://weboas.is/)**, [8bitdash](https://www.8bitdash.com/), [8Bitdashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/) or [New Tab Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page) - *Custom Startpage / Dashboard* 
 * **[Internet Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_browser_tools)** - *Internet & Browser Privacy Tools* 
 * **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_managers)** - *Manage / Save Passwords*
 * **[Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_services)** - *Email Sites with a Focus on Privacy*
@@ -532,7 +532,7 @@
 * [TGCF](https://github.com/aahnik/tgcf) - *Telegram Message Forwarding*
 * [Userge](http://theuserge.tech/) - *Multi-Tool Telegram Bot*
 * [ChecklyBot](https://t.me/checklybot) - *Checklist Telegram Bot*
-* [Conduit](https://gitlab.com/famedly/conduit) - *Matrix Home Servers* 
+* [Conduit](https://gitlab.com/famedly/conduit) or [publiclist.anchel](https://archive.md/4xZE4) - *Matrix Home Servers* 
 * [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) or [List of Matrix Servers](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html) - *Matrix Server List*
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - *Export Skype Chat Data to Readable Text*
@@ -583,8 +583,6 @@
 * [NeverSSL](http://neverssl.com/) - *Fix Public WiFi Login Pages*
 * [YouTube](https://dlogic.lk/projects/youtubedatacalc.php), [Music Streaming](https://dlogic.lk/projects/music.php), [Netflix](https://dlogic.lk/projects/netflix.php), [Zoom](https://dlogic.lk/projects/zoom.php) - *Data Usage Calculators*
 * [IP2Proxy](https://www.ip2proxy.com/) - *Proxy / VPN IP Detector*
-* [Firemin](https://www.rizonesoft.com/downloads/firemin/) - *Prevent Firefox Memory Leaks* 
-* [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) - *Firefox Hidden Settings*
 * [Tripgen](https://orph.link/tripgen) - *Image Board Trip Code Generator* 
 * [4Chan Captcha Solver Script](https://pastebin.com/f6xUjE5s) or [4chan Captcha Solver](https://github.com/AUTOMATIC1111/4chan-captcha-solver/) - *4chan Captcha Solver*
 * [Slideshow-Deslidefier](http://deslide.clusterfake.net/) - *View Slideshows All At Once* 
@@ -615,10 +613,11 @@
 
 ## ▷ Browsers
 
-* **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Privacy Focused Browsers* 
 * **[Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers) - *Normal Web Browsers*
+* **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Privacy Focused Browsers* 
 * **[Lightweight Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_lightweight_web_browsers)** - *Lightweight Web Browsers*
 * **[Browser Extensions / UserScripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_extensions)** 
+* **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)** - *Custom Browser Homepages* 
 * [Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly) 
 * [Chrome Keyboard Shortcuts](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop) 
 * [browserbench](https://browserbench.org/) - *Multiple Browser Benchmark Tests*
@@ -685,10 +684,9 @@ General Reading Sites*
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - *Forum Search Engine* 
 * [Blog Search Engine](http://www.blogsearchengine.org/) - *Blog Search*
 * [Mibbit](https://search.mibbit.com/) - *IRC Channel Search*
-* [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) - *Telegram CSE*
+* [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - *Telegram CSE*
 * [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - *Paste Engine Search*
 * [SearchBuzz](http://search.buzz.im/) - *Telegram Message Search Engine*
-* [Searchee Bot](https://t.me/SearcheeBot) - *Telegram Channel Search* 
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - *Search Engine for Lightweight Web Pages*
 * [Search My Site](https://searchmysite.net/) - *Search Engine for Independent and Personal websites / Open Source*
 * [algolia](https://hn.algolia.com/) - *Hacker News Search* 
@@ -697,7 +695,9 @@ General Reading Sites*
 * [Marginalia Search](https://search.marginalia.nu/) - *Text Based Search Engine*
 * [TheOldNet](http://theoldnet.com/) - *Retro Search Engine*
 * [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - *40 Custom Search Engines*
+* [Facebook CSE](https://cse.google.com/cse?cx=65eb7b6b8baf5a5cb) - *Search Facebook*
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - *Facebook Search Formulas* 
+* [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - *Search TikTok*
 * [UserSearch](https://usersearch.org/) - *Username Search*
 * [Graph.tips](https://graph.tips/beta/) - *Advanced Facebook Search Tool* 
 * [Google Search Operator Cheat Sheets](https://moz.com/learn/seo/search-operators), [2](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [3](https://ahrefs.com/blog/google-advanced-search-operators/), [4](https://l-lists.com/en/lists/m1mdwx.html), [5](https://github.com/BushidoUK/OSINT-SearchOperators)
@@ -804,7 +804,7 @@ General Reading Sites*
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown)
 * [/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all) - *Explore Multireddits*
 * [FMHY Curated Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits) - *Multireddits curated by FMHY members*
-* [Pushshift Reddit Search](https://www.redditsearch.io/) / [2](https://redditsearch.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - *Advanced Reddit Search*  
+* [Pushshift Reddit Search](https://www.redditsearch.io/) / [2](https://redditsearch.io/), [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0 ) or [Better Reddit Search](https://betterredditsearch.web.app/) - *Reddit Search*  
 * [KarmaDecay](http://karmadecay.com/) - *Reddit Reverse Image Search* 
 * [Reddit Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_alternatives) - *Alternative Reddit Style Sites*
 * [lurrker](https://lurrker.com/), [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/), [kddit](https://kddit.kalli.st/), [Nuxtit](https://nuxtit.netlify.com/) or [js4.red](https://js4.red/) - *Alt Browsers / Web Clients*
@@ -899,8 +899,9 @@ General Reading Sites*
 * [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - *Discord Emoji Downloader*
 * [Snowsgiving Icons & Emotes](https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - *Snowsgiving Event Icons & Emojis*
 * [6gk Turtles](https://github.com/6gk/turtles) - *Discord Turtle Emojis*
-* [Distok](http://distok.top/stickers/) or [FreeCommunityStickers](https://github.com/discord-stickers/FreeCommunityStickers)  - *Free Discord Stickers* 
+* [Distok](http://distok.top/stickers/), [DiscordFreeStickers](https://github.com/An00nymushun/DiscordFreeStickers) or [FreeCommunityStickers](https://github.com/discord-stickers/FreeCommunityStickers)  - *Free Discord Stickers* 
 * [Discord Sticker Viewer](https://sticker-view.vercel.app/) - *View Discord Stickers*
+* [Discord Image Downloader Go](https://github.com/Seklfreak/discord-image-downloader-go) - *Discord Image Downloader*
 * [Dispatch](https://www.dispatchbot.ml/) - *Group Discord DMs*
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - *Discord Message Encryption*
 * [DiscordFS](https://github.com/dhrumilp15/discordfs) - *Discord File Search*
@@ -998,7 +999,7 @@ General Reading Sites*
 * [TubeSync](https://github.com/meeb/tubesync) - *Sync YouTube Channels / Playlists to a Media Server*
 * [Invidious](https://tube.cadence.moe/), [ViewTube](https://viewtube.io/) / [GitHub](https://github.com/ViewTube/viewtube-vue), [Piped](https://github.com/TeamPiped/Piped) or [Youtube-local](https://github.com/user234683/youtube-local) - *YouTube Frontend / [Instances](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)* 
 * [FreeTube](https://freetubeapp.io/) - *YouTube Frontend / Client*
-* [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube), [ImprovedTube](https://github.com/code4charity/YouTube-Extension/), [Iridium](https://greasyfork.org/en/scripts/37902-iridium)  or [Magic Actions for YouTube](https://www.mycinema.pro/) - *YouTube Enhancement Addons* 
+* [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube), [ImprovedTube](https://github.com/code4charity/YouTube-Extension/), [Iridium](https://github.com/ParticleCore/Iridium)  or [Magic Actions for YouTube](https://www.mycinema.pro/) - *YouTube Enhancement Addons* 
 * [Focused YouTube](https://github.com/makaroni4/focused_youtube) - *Minimalist YouTube*
 * [YouTube Redux](https://redd.it/jvg4mf) or [Classic YouTube Design](https://github.com/Cicero-Interactive/Classic-YouTube-Design/) - *Restore Classic YouTube Layout* 
 * [YouTube Real Cinema Mode](https://userstyles.org/styles/122032/youtube-real-cinema-mode) - *Improved YouTube Cinema Mode*
@@ -1249,6 +1250,7 @@ General Reading Sites*
 * [HWiNFO](https://www.hwinfo.com/) - *Hardware Analysis, Monitoring and Reporting*
 * [phwmon](https://gitlab.com/o9000/phwmon) - *System Tray Hardware Monitor*
 * [TrayDir](https://github.com/SamuelSVD/TrayDir) - *System Tray File Manager*
+* [MinimizeToTray](https://github.com/sandwichdoge/MinimizeToTray) - *Hide Any Windows to Tray*
 * [QDirStat](https://github.com/shundhammer/qdirstat) - *Directory Statistics*
 * [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) - *SMBIOS Generator*
 * [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit ) - *Intel BIOS Settings Explanation*
@@ -1278,7 +1280,9 @@ General Reading Sites*
 * [uTaskManager](https://www.microsoft.com/en-us/p/utaskmanager/9nhvdhfbxrsv) - *Alternative Taskbar*
 * [OGHub](https://github.com/Wivon/OGHub) - *Free Up Space in your Taskbar*
 * [ButteryTaskbar](https://github.com/CrypticButter/ButteryTaskbar/) - *Hide Taskbar When Start Menu is Closed*
+* [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - *Easily Hide / Show Taskbar*
 * [MediaFlyout](https://github.com/krlvm/MediaFlyout) - *Media Control Taskbar*
+* [OneLaunch](https://onelaunch.com/) - *Customizable Windows Dock*
 * [CircleDock](http://circledock.wikidot.com/) - *Circular Dock*
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - *Quickly Change Power Schemes*
 * [Wox](http://www.wox.one/) / [GitHub](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [KeyLauncher](https://github.com/stax76/KeyLauncher), [ChaseApp](https://www.chaseapp.io/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - *Keystroke Launcher*
@@ -1449,6 +1453,7 @@ General Reading Sites*
 * [Windows Sounds](https://winsounds.com/) or [Win11 Sounds](https://mega.nz/file/CpRkwTrD#9NihefiFDBirhwtXqSvjWAhrFzUPcJveCeePfWh1lmo) - *Windows Sound Schemes*
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - *MacOS Cursors for Windows*
 * [terminal.sexy](https://terminal.sexy/) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - *Terminal Color Schemes*
+* [linux-like-windows-terminal](https://github.com/Kyza/linux-like-windows-terminal) - *Linux Style Windows Terminal*
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - *Retro Cathode Terminal Theme*
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - *Pokemon Terminal Themes*
 * [Hide File Explorer Dark Mode White Line](https://i.imgur.com/ZZsvyyM.png)
