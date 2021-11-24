@@ -124,7 +124,7 @@
 * [Uloz](https://ulozto.net/) - *Video / Audio* 
 * [ShareMania](http://sharemania.us/) - *Video / Audio* 
 * [Heidoc](https://www.heidoc.net/joomla/) - *Software / Books / Android* 
-* [Pouet](https://www.pouet.net/prodlist.php) - *Software / Game Demos*
+* [Pouet](https://www.pouet.net/prodlist.php) - *Demos / Cracktros*
 * [/r/downloadleak](https://www.reddit.com/r/downloadleak/) - *Source Code / Data Leaks*
 * [Redump](http://redump.org/) - *Disc Preservation Project*
 * [Ubu](https://ubuweb.com/) - *Avant-Garde Artifacts*
