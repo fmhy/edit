@@ -81,10 +81,9 @@
 * [Websites From Hell](https://websitesfromhell.net/) - *Shitty Website Index*
 * [National Archives](http://www.nationalarchives.gov.uk/webarchive/) - *UK Government Site Archive*
 * [DeepWebLinks](https://deepweblinks.net/directories/), [dark.fail](https://dark.fail/),  [260+ Dark Web Links](https://ufile.io/pgvxf9jv), [Official Hidden Wiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/) or [Real World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites)
-* [RFS](https://t.me/rfsnotes) - *Telegram Channels / TeamDrives / Tools*  
 * [Telegram Channels](https://telegramchannels.me/), [TG-ME](https://www.tg-me.com/), [tg_indexs](https://t.me/tg_indexs) or [Telegramic](https://telegramic.org/) - *Telegram Channel Index*
 * [BotsArchive](https://t.me/BotsArchive), [2](https://github.com/ebertti/awesome-telegram), [3](https://github.com/DenisIzmaylov/awesome-telegram-bots), [4](https://github.com/abdelhai/awesome-bots), [5](https://github.com/stkw0/awesome-telegram-groups), [6](https://github.com/serhii-londar/awesome-telegram), [7](https://github.com/lorien/awesome-telegram-lists), [8](https://telegramic.org/bots/) - *Telegram Bots Indexes* 
-* [Lyzem](https://lyzem.com/), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - *Telegram Channel / Bot Search*
+* [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - *Telegram Channel / Bot Search*
 * [NetSplit](https://netsplit.de/) - *IRC Channel Index*
 * [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) - *API index* 
 * [Cyberlife](https://cyberpunk-life.neocities.org/) - *Cyberpunk-Related Content / Sites Index* 
@@ -165,6 +164,7 @@
 * [Tick Coupon](https://giveaway.tickcoupon.com/windows-giveaway/) - *Software*
 * [Techno360](https://www.techno360.in/category/free-stuff/) - *Software*
 * [yonokart](http://yonokart.com/ ) - *Software*
+* [AppDoze](https://www.appdoze.com/) - *Software*
 * [Malwaretips Giveaways](https://malwaretips.com/forums/giveaways-promotions-and-contests.75/) - *Software*
 * [Net-Load](https://net-load.com/) - *Software*
 * [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - *Steam Games* 
@@ -220,7 +220,7 @@
 * **[The GIF Pronunciation Page](http://www.olsenhome.com/gif/)** - *How to Pronouce "GIF"*
 * **[PointerPointer](https://pointerpointer.com/)** - *Get Your Pointer Pointed At* 
 * **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - *Realistic-Looking Fake Versions of Things* 
-* [KongouCheats](https://kongoucheats.com/) - *Watch Random Memes / Videos* 
+* [KongouCheats](https://kongoucheats.com/) or [Wimp.com](https://www.wimp.com/) - *Watch Random Memes / Videos* 
 * [Funnyjunk](https://funnyjunk.com//), [Thread-Puller](https://thread-puller.party/), [iFunny](https://ifunny.co/) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Videos, Memes & GIFs / Some NSFW*
 * [wtf.rentry](https://wtf.rentry.co/) - *Random Music GIFs*
 * [SfwChan](http://boards.swfchan.net/) - *SFW Archive*
@@ -337,6 +337,8 @@
 * [This Wojak Does Not Exist](https://thiswojakdoesnotexist.com/) - *Wojak's That Don't Exist* 
 * [This Cat Does Not Exist](https://thiscatdoesnotexist.com/) or [NotRealCats](https://notrealcats.com/) - *Cats That Don't Exist*
 * [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/) - *Anime Characters That Don't Exist* 
+* [This Shoe Does Not Exist](https://thisshoedoesnotexist.com/) - *Shoes That Don't Exist*
+* [This Foot Does Not Exist](https://thisfootdoesnotexist.com/) - *Feet That Don't Exist*
 * [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/) - *Waifu's That Don't Exist* 
 * [This Fursona Does Not Exist](https://thisfursonadoesnotexist.com/) - *Fursona That Don't Exist*
 * [Windows93](http://www.windows93.net/) or [RacerTrash](https://racertrash.com/) - *Retro Windows Emulator*
@@ -686,6 +688,7 @@
 * [Charity Miles](https://charitymiles.org/) - *Donate to Charity While Running / Biking*
 * [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - *Zombie Running Adventure Game*
 * [Benefits of Good Posture](https://youtu.be/OyK0oE5rwFY) - *Posture Importance Lesson*
+* [PainSpot](https://www.painspot.com/) - *Pain Cause Identifier*
 * [INCIDecoder](https://incidecoder.com/) - *Skincare Ingredient Lists*
 * [Dehydration Color Chart](https://i.imgur.com/PpDgo5j.png) - *Urine Color Dehydration Chart*
 * [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - *Remedies for Sores on Tongue*
@@ -707,6 +710,7 @@
 * **[Satellite / Street View Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_satellite_.26amp.3B_street_view_maps)**
 * **[OpenStreetMap](https://www.openstreetmap.org/)**, [KartaView](https://kartaview.org/landing), [MapMania](https://www.mapmania.info/) or [Mapillary](https://www.mapillary.com/) - *Street View Maps* 
 * [Atlas Obscura](https://www.atlasobscura.com/) - *Travel Guidebook / Maps*
+* [FixPhrase](https://fixphrase.com/) - *Phrase Based Map Search*
 * [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - *Earth Viewer*
 * [Snazzy Maps](https://snazzymaps.com/) - *Google Maps Themes*
 * [MapChannels](https://www.mapchannels.com/) - *Mapping / Navigation Tools* 
@@ -753,6 +757,8 @@
 * [4G LTE Coverage](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b) - *4G LTE Coverage Map*
 * [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - *Web Service Coverage Map*
 * [Broadband Map](https://broadbandmap.fcc.gov/) - *Fixed Broadband Deployment Map*
+* [Light Pollution Map](https://lightpollutionmap.info/) - *Light Pollution Map*
+* [NightBlight](https://nightblight.cpre.org.uk/maps/) - *England Light Pollution Map*
 * [PowerOutage](https://poweroutage.us/) - *Power Outage Map*
 * [City Generator](https://probabletrain.itch.io/city-generator) - *City Map Generator* 
 * [RSOE](http://hisz.rsoe.hu/) or [EDIS](https://rsoe-edis.org/) - *Emergency and Disaster Map* 
@@ -882,9 +888,7 @@
 * [Save-Data: On](https://www.daniel.priv.no/web-extensions/save-data.html) - *Auto-Enable Data Savings Mode*
 * [Auto Tab Discard](https://add0n.com/tab-discard.html), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs), [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) or [The Great Suspender](https://github.com/aciidic/thegreatsuspender-notrack) - *Discard Inactive Tabs to Reduce Memory / CPU Usage*
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - *Temporarily Snooze Tabs* 
-* [OneTab](https://www.one-tab.com/) or [TabMerger](https://lbragile.github.io/TabMerger-Extension/) - *Merge & Organize Tabs* 
-* [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn) or [Tabli](https://www.gettabli.com/) - *Tab Manager* 
-* [Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups) or [Acid Tabs](https://github.com/jdhayford/acid-tabs-extension) - *Group Tabs* 
+* [Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers) - *Group & Manage Browser Tabs*
 * [Tab for a Cause](https://tab.gladly.io/) - *New Tabs = Charity Donation*
 * [Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button) - *Quickly Close All Tabs*
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - *Read Books in Browser*
