@@ -127,6 +127,7 @@
 * [MobileSpectrum](https://mobilespectrum.org/) - *Mobile Network Spectrum by Country*
 * [4G LTE Coverage](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b) - *4G LTE Coverage Map*
 * [OpenStreetMap](https://github.com/westnordost/StreetComplete) - *Custom Street Maps*
+* [MAPS.ME](https://maps.me/) - *Offline Maps / [GitHub](https://github.com/mapsme/omim)*
 * [AntennaSearch](http://www.antennasearch.com/) - *Cell Tower & Antenna Search*
 * [PhoneDB](https://phonedb.net/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - *Compare Phones & Prices* 
 * [DXOMARK](https://www.dxomark.com/) - *Smartphone Quality Testing*
@@ -147,6 +148,7 @@
 * [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) - *Theme Manager / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3)*
 * [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) - *App Themed Icons*
 * [VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps) - *File / URL Virus Scanner* 
+* [Pithus](https://beta.pithus.org/) - *APK Virus Scanner*
 * [InstantBridge](https://instabridge.com/) - *Public WiFi Sharing Community*
 * [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app ) - *Libgen Mobile App* 
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) or [AndrOpen](https://www.andropenoffice.com/) - *Office Suite* 
@@ -195,11 +197,13 @@
 * [Google Lens](https://lens.google/) - *Multiple Camera Tools*
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) or [Camator](https://gcamator.com/) - *Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/)*
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - *Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)*
+* [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - *Image Size Reducer*
 * [LosesslessJpgCrop](https://github.com/k3b/LosslessJpgCrop) - *Lossless Image Cropper*
 * [Image Searcher](https://play.google.com/store/apps/details?id=sansunsen3.imagesearcher) - *Image Search App*
 * [background video recorder](https://play.google.com/store/apps/details?id=com.camera.secretvideorecorder) - *Record Videos in Background*
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
 * [1 Second Everyday](http://1se.co/) - *1 Second Video Diary*
+* [Green Screens](https://play.google.com/store/search?q=green%20screen&c=apps) - *Green Screens for Android*
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - *Telegram Client*
 * [Uploadgram](https://github.com/Pato05/uploadgram-app) - *Telegram File Upload*
 * [Thimble](https://www.thimbleapp.co/) - *Group Messaging*
@@ -248,6 +252,7 @@
 * [Get Unstuck](https://socratic.org/) - *Homework Answers / Help* 
 * [Tasks](https://tasks.org/), [Any.do](https://www.any.do/), [Orgzly](https://github.com/orgzly/orgzly-android) or [Dailly](https://github.com/hydroxion/dailly/) - *To-Do App*
 * [Etar](https://github.com/Etar-Group/Etar-Calendar), [digical](https://digibites.nl/digical), [TimeBlocks](https://timeblocks.com/) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - *Calendar*
+* [ShiftCal](https://gitlab.com/Nulide/ShiftCal) - *Shift Calendar*
 * [unhabits](https://github.com/iSoron/uhabits) or [MiindLeak](https://www.mindleak.app/) - *Bad Habit Tracker*
 * [Forest](https://forestapp.cc/),  [minimalist phone](https://www.minimalistphone.com/) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - *Productivity Booster*
 * [AnyTracker](https://sites.google.com/view/anytracker), [2](https://anytracker.org/) - *Track Anything*
@@ -272,8 +277,8 @@
 * [Appetize](https://appetize.io/) - *Run Native Mobile Apps in Browser*
 * [ROMphonix](http://162.154.76.208/) - *Old Mobile Firmware / [Discord](https://discord.com/invite/2GKuJjQagp)*
 * [IVTheme](https://www.ivtheme.com/) - *Android Flash Files*
-* [OwnTracks](https://owntracks.org/) - *Track Own Location*
-* [Hauk](https://github.com/bilde2910/Hauk) - *Track Own Location*
+* [FindMyDevice](https://gitlab.com/Nulide/findmydevice) - *Device Tracker*
+* [OwnTracks](https://owntracks.org/) or [Hauk](https://github.com/bilde2910/Hauk) - *Track Own Location*
 * [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451) - *Custom Recovery Firmware Tool*
 * [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) - *Extract OTP Tokens*
 * [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid) - *File Hash Calculator*
@@ -421,6 +426,8 @@
 * [BookReader](https://f-droid.org/en/packages/com.github.axet.bookreader/) - *Ebook Reader*
 * [PocketBook](https://play.google.com/store/apps/details?id=com.obreey.reader) - *Ebook Reader*
 * [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - *Ebook Reader*
+* [android-book-reader](https://gitlab.com/axet/android-book-reader/) - *Ebook Reader*
+* [eBookit](https://play.google.com/store/apps/details?id=ch.ebookit.reader) - *Ebook Reader*
 * [PDF Viewer](https://f-droid.org/packages/com.gsnathan.pdfviewer) - *PDF Reader*
 * [Readera](https://play.google.com/store/apps/details?id=org.readera) - *PDF Reader*
 * [Voice](https://f-droid.org/en/packages/de.ph1b.audiobook/) - *Audiobook Player* 
@@ -583,6 +590,7 @@ RSS Player*
 * [Kayuri](https://github.com/Killerpac/Kayuri)
 * [Akiyama](https://github.com/Fmaldonado6/Akiyama)
 * [animity](https://github.com/kl3jvi/animity)
+* [no](https://github.com/deceptions/no) 
 * [AnimeFanz Tube](https://apkpure.com/anime-fanz-tube/com.animefanzapp.tube)
 * [KATSU](https://katsu.pw/) - [Discord](https://discord.gg/gjcy6MQ)
 * [Anime-DL](https://github.com/sharn25/Anime-DL-Android-Verison) - *Download Anime / [Discord](https://discord.gg/Ee3fegN)* 
@@ -719,6 +727,7 @@ RSS Player*
 * [UTM](https://getutm.app/) - *Virtual Machines* 
 * [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) - *Automation Script Tool*
 * [Winno](https://apps.apple.com/us/app/winno-just-the-facts/id1460212743) - *News*
+* [MAPS.ME](https://maps.me/) - *Offline Maps / [GitHub](https://github.com/mapsme/omim)*
 * [Keepassium](https://keepassium.com/) or [Strongbox](https://strongboxsafe.com/) - *Password Manager*
 * [iSkin](https://iskin.tooliphone.net/), [Anemone](https://www.ios-repo-updates.com/repository/odyssey-repo/package/com.anemonetheming.anemone3/), [Moloko](https://apps.apple.com/us/app/moloko-themes-icons/id1534741213) or [SnowBoard](https://repo.dynastic.co/package/snowboard) - *iOS Themes* 
 * [moloko](https://apps.apple.com/us/app/moloko-themes-icons/id1534741213) - *iOS Themes & Icons* 
