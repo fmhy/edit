@@ -18,7 +18,7 @@
 * **[Masquerade Repacks](https://masquerade.site/)** - *[Discord](https://discord.gg/HP5sQ6c)*
 * **[SteamUnlocked](https://steamunlocked.net/)** - *Use Adblocker / [Release Tracker](https://github.com/N-O-E-D/Steamunlocked)*
 * **[Steam Underground](https://cs.rin.ru/)** - *[Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Status](https://csrinstaff.writeas.com/)*
-* **[CrackHub](https://crackhub.site/)** - *[Discord](https://discord.gg/T669D6weqt)*
+* **[CrackHub](https://crackhub.site/)** - *[Discord](https://discord.gg/T669D6weqt) / [RSS](https://scene.crackhub.site/category/iso/rss)*
 * **[GamesDrive](https://gamesdrive.net/)** - *[Discord](https://discord.gg/PKFAnduGtA)*
 * **[DODI](http://dodi-repacks.site/)** - *[Discord](https://discord.gg/uE273qJ)*
 * **[GoG Games](https://gog-games.com/)**
@@ -103,6 +103,7 @@
 * **[RePack.info](https://repack.info/)**
 * **[Tuttop](https://tuttop.com/)** 
 * [KaOsKrew](https://www.kaoskrew.org/)
+* [NexusGames](https://nexusgames.to/) - *[Discord](https://discord.gg/8YXGgy4DJj)*
 * [CroTorrents](https://crotorrents.com/)
 * [GamesTorrents](https://www.gamestorrents.nu/)
 * [Free GoG PC Games](https://freegogpcgames.com/)
@@ -194,6 +195,7 @@
 * **[RomCenter](https://r-roms.github.io/)**, [2](https://rentry.co/24ufx), [3](https://pastelink.net/26nlj), [4](https://rentry.co/vin7x) - *Roms*
 * [TheRomDepot](https://theromdepot.com/) - *Roms*
 * [RomCollector](http://romcollector.asuscomm.com/) - *Roms*
+* [Squid Proxy](https://www.squid-proxy.xyz/) - *Roms*
 * [@Storage_Manager](https://archive.org/details/@storage_manager) - *Roms / Zip* 
 * [FinalBurn Neo](https://archive.org/details/2020_01_06_fbn) - *Roms / Zip* 
 * [Everdrive](https://archive.org/details/latest-everdrive-pack-2020-04-16) - *Roms / Zip*
@@ -261,8 +263,9 @@
 * [OldGameShef](https://oldgameshelf.com/)
 * [Emulator Online](https://emulatoronline.com/)
 * [MyEmulator](https://myemulator.online/) 
-* [PS1FUN](http://www.ps1fun.com/) - *PS1 Browser Emulator* 
+* [Telemelt](https://telemelt.com/) - *Multiplayer Browser Emulator*
 * [PSX Party](https://psxparty.kosmi.io/) - *Multiplayer Playstation Browser Emulator*
+* [PS1FUN](http://www.ps1fun.com/) - *PS1 Browser Emulator* 
 * [LYR9C](https://lyr9c.weebly.com/gba-games.html) - *GBA Browser Emulator* 
 * [LetsPlayGB](https://www.letsplaygb.com/) - *Game Boy Browser Emulator*
 * [QAOP](http://torinak.com/qaop/games) - *Arcade Games*
