@@ -13,7 +13,7 @@
 
 * **[Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_editing)** - *Image Editing Software & Sites*
 * **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - *Download GFX Design Software*
-* **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/) - *Design Tool Resource Indexes*   
+* **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/), [4](https://mega.nz/file/E5MwmT5Z#YP-vMSTcm8voKjb72_nHsLYH1AGmliWsbUGXVJhNHDE) - *Design Tool Resource Indexes*   
 * **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - *Glitch Images*
 * [1TB Art Courses](https://pastebin.com/hKgJG2Vz) - *Art Courses*
 * [Photoshop Courses](https://mega.nz/folder/Y6RXXKbJ#pnAdcdkSXw7wujTIhN5Blw) - *Photoshop Course Drive*
@@ -127,7 +127,7 @@
 ## ▷ GIF Makers 
 
 * **[Awesome GIF](https://github.com/davisonio/awesome-gif)** - *GIF Resource Index*
-* [Giphy](https://giphy.com/) / [Search](https://marcosmarp.github.io/GIFinder/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/) or [Animated Images](https://www.animatedimages.org/) - *Find & Download GIFs* 
+* [Giphy](https://giphy.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/) or [Animated Images](https://www.animatedimages.org/) - *Find & Download GIFs* 
 * [EZGif](https://ezgif.com/), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Gif Maker](https://gifmaker.me/) - *GIF Creator / Editor*
 * [gifify](https://github.com/vvo/gifify) or [Video-to-GIF](https://hnet.com/video-to-gif/) - *Video to GIF Converter*
 * [GifRun](https://gifrun.com/) - *Make GIFs From Online Videos*
@@ -178,6 +178,7 @@
 
 # ► Download Images
 
+* **[Image Download Site Index](https://start.me/p/jj0JAp/designer)** - *Download Images, Illustrations, Icons & more*
 * **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - *Download Stock Photos*
 * **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)** - *Download Icons*
 * **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)** - *Search by Image*
@@ -201,15 +202,15 @@
 * [Behance](https://behance.net/) - *Design Projects*
 * [Placeit](https://placeit.net/) - *Image Templates*
 * [Crello](https://crello.com/) - *Image Templates / Editor*
-* [Worldvectorlogo](https://worldvectorlogo.com/), [Brands of the World](https://www.brandsoftheworld.com/) or [Logos Download](https://logos-download.com/) - *Brand Logos*
-* [Humaaans](https://www.humaaans.com/) - *Human Illustrations*
+* [Worldvectorlogo](https://worldvectorlogo.com/), [Logos & Badges Bundle](https://mega.nz/file/EhUQnJgT#2lmr0DfCDoY3x4DFhthJo_3iz3XPB9DeLjmx2wBz1vs), [Brands of the World](https://www.brandsoftheworld.com/) or [Logos Download](https://logos-download.com/) - *Brand Logos*
 * [Bendodson](https://bendodson.com/projects/itunes-artwork-finder/), [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) - *Find Multimedia Artwork*
 * [Kemono](https://kemono.party/) - *Patreon Content / Some NSFW*
 * [FanArt](https://fanart.tv/) - *Fan Made Posters / Logos* 
 * [Replacement Sky](https://replacement-sky.com/) - *Skies for Photoshop*
 * [AmbientCG](https://ambientcg.com/), [Lost and Taken](https://lostandtaken.com/), [3D textures](https://icons8.com/l/3d-textures/), [Textureking](https://www.textureking.com/) or [Texture Labs](https://texturelabs.org/) - *Texture Renders & Images*
-* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - *Download Patterns*
-* [Transparent Textures](https://www.transparenttextures.com/) - *Transparent Textures*
+* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) or [Pattern Collection](https://mega.nz/file/cwdgkD6D#9jGB_AYdtcKURyGF36aMCdDBXnylfEVqFZDs8DU4Spg) - *Download Patterns*
+* [Transparent Textures](https://www.transparenttextures.com/) or [Texture Collection](https://mega.nz/file/I4UyCLhY#vtl7oDV1kll4vrBRJV8ahQatsBSPmuiBvF7eFehJN9c) - *Download Textures*
+* [Watercolor Collection](https://mega.nz/file/tsMyXTqa#0Yiw8BSo7IpJytlKGNy3KCKMkn_H6x3bw4DHRmiSRn8) - *Download Watercolor Pictures*
 * [RipMe](https://github.com/RipMeApp/ripme) - *Bulk Image Downloader*
 * [Google Photos Plus](https://github.com/anamritraj/google-photos-plus) - *Download Google Photos in Better Quality*
 * [google-images-download](https://github.com/hardikvasa/google-images-download) - *Download Images from Google Images* 
