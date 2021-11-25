@@ -289,6 +289,7 @@
 * [Gogo-Stream](https://streamani.net/), [2](https://www3.animeseries.io/), [3](https://gogoanime.vc/), [4](https://animekeyo.com/) - *Sub / Dub*
 * [Dubbed Anime](https://ww5.dubbedanime.net/) - *Sub / Dub*
 * [AnimeShow](https://www1.animeshow.tv/) - *Sub*
+* [AnimeNana](https://animenana.com/) - *Sub*
 * [AnimeRush](https://www.animerush.tv/) - *Sub / Dub*
 * [AnimeHD47](https://animehd47.com/) - *Sub / Dub*
 * [KissCartoon.info](https://kisscartoon.info/) - *Anime / Cartoons / Sub / Dub*
@@ -456,6 +457,7 @@
 * [SkorLive](https://skorlive.com/) - *Sports*
 * [StreamsGate](https://streamsgate.tv/) - *Sports*
 * [WatchKobe](http://watchkobe.info/) - *Sports*
+* [VIP Box Sports](https://www.viprow.me/) - *Sports*
 * [BuffStreams](https://buffstreams.tv/) - *Sports*
 * [SportHD](https://sporthd.live/) - *Sports* 
 * [Cricfree.tv](http://crickfree.be/) - *Sports*
@@ -522,7 +524,6 @@
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "video"*
 * **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - *Download videos from streaming sites*
 * **[Pahe](http://pahe.ph/)** - *Movies / TV / Anime / [Discord](https://discord.gg/33P8hpR) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper)*
-* **[MovieParadise](https://movieparadise.org/)** - *Movies / TV*
 * **[Worlds Cinema](http://worldscinema.org/)** - *Old / Classic / Cult Films*
 * **[TopNow](http://topnow.se/)** - *Movies / [Discord](https://discord.gg/WHYmgeB)*
 * **[Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download)** - *Many of these sites have single click downloads*
@@ -562,6 +563,7 @@
 * [MoviesMore](https://moviesmore.info/) - *Movies / TV*
 * [MovieFire](https://moviefire.net/) - *Movies* 
 * [SomosMovies](https://somosmovies.com/) - *Movies* 
+* [TVSeriesNMovies](https://www.tvseriesnmovies.com/) - *Movies / TV*
 * [SeriesVault](https://seriesvault.win/) - *TV / Anime* 
 * [o2tvseries](https://o2tvseries.com/) - *TV*  
 * [MiCineHD](https://www.micinehd.com/) - *Movies / TV* 
