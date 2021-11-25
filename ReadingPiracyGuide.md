@@ -71,7 +71,7 @@
 * IRC Ebook Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/), [2](https://encyclopediadramatica.online/Bookz) - *IRC Ebook Guide*) / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
 * [Project Gutenberg](https://www.gutenberg.org/) - *Historical / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)*
 * [Archive.org](https://archive.org/details/texts) - *Books / Audiobooks / Magazines / Newspapers / [Borrow Only Bypass](https://i.imgur.com/y7Vl9rd.png)*
-* [The Library](https://discord.gg/mSyFJz9) or [The Great E-Library](https://discord.gg/efBxSuz) - *E-Book Discord Servers* 
+* [The Library](https://discord.gg/mSyFJz9), [The Bookwyrm's Bower](https://discord.gg/wTf7rs77rF) or [The Great E-Library](https://discord.gg/efBxSuz) - *E-Book Discord Servers* 
 * [EBOOKS SET 2](https://mega.nz/folder/Z1dD2YSA#XRUa1Sj9mXJHU4rh1seykg) - *Books / Drive*
 * [VK Serial Books & Magazines](https://vk.com/sebomag) - *Books / Magazines*
 * [Bookstagram](https://vk.com/bookstagram_eng) - *Books / Magazines* 
@@ -616,10 +616,8 @@
 * [Aleph](https://github.com/alephdata/aleph ) - *Document Index Tool*
 * [Dataset Search](https://datasetsearch.research.google.com/) - *Dataset Search Google* 
 * [PDF / Doc Search Engine](https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0) 
-* [DocDownloader](https://docdownloader.com/), [SCFull](https://scfull.com/), [DownScribd](https://downscribd.com/), [docdownload](https://docdownload.net/), [guIHelp](https://discord.gg/rgF9jY8CpH) or [ScribdDown](https://scribddown.com/) - *[Scribd](https://www.scribd.com/) Document Downloader* 
-* [Scribd Download Guide](https://redd.it/kfv1c6) 
 * [ZealDocs](https://zealdocs.org/) or [zathura](https://git.pwmt.org/pwmt/zathura) - *Document Viewer*
-* [GROBID](https://github.com/kermitt2/grobid) - *Extract / Organize Scientific Document Info*
+* [Sioyek](https://sioyek.info/) - *Research Paper / Technical Document Viewer*
 
 ***
 
@@ -1078,6 +1076,9 @@
 * [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - *Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)*
 * [BookCut](https://github.com/costis94/bookcut) - *Ebook Download Tool* 
 * [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - *Google Book Downloader w/ Proxy Support*
+* [DocDownloader](https://docdownloader.com/), [SCFull](https://scfull.com/), [DownScribd](https://downscribd.com/), [docdownload](https://docdownload.net/), [guIHelp](https://discord.gg/rgF9jY8CpH) or [ScribdDown](https://scribddown.com/) - *[Scribd](https://www.scribd.com/) Document Downloader* 
+* [Scribd Download Guide](https://redd.it/kfv1c6) 
+* [GROBID](https://github.com/kermitt2/grobid) - *Extract / Organize Scientific Document Info*
 * [Borrow Only DL Script](https://redd.it/ofcqds) or [Archive 1 Hour Download](https://docs.google.com/spreadsheets/u/0/d/1x9JHIVEa6_2cwpmxgUymF5OAoHZbXCO3Qh9gQVAHuR0/htmlview#gid=0) - *Download Borrow Only Archive.org Books*
 * [FicSave](http://ficsave.xyz/), [FicHub](https://fichub.net/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - *Fanfiction Downloader* 
 * [ExtractBookz](https://hub.darcs.net/JasonJAyalaP/ExtractBookz) - *Extract & Rename Ebook Files / [GitHub](https://github.com/JasonJAyalaP/ExtractBookz)*
