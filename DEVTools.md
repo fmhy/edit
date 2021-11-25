@@ -260,6 +260,7 @@
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - *Check Sites for Cloudflare*
 * [LightTPD](http://www.lighttpd.net/) - *Web Server*
 * [HTTP Server](https://httpd.apache.org/) - *HTTP Server Apache*
+* [SyAgent](https://syagent.com/) - *Server Monitor*
 * [HeidiSQL](https://www.heidisql.com/) - *SQL Manager*
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - *Captcha Systems*
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - *Search & Analytics Engine*
@@ -331,6 +332,7 @@
 * [Blisk](https://blisk.io/) - *Cross-Device Testing*
 * [Booster](https://github.com/didi/booster) - *Mobile App Optimization*
 * [Mobbin](https://www.mobbin.design/) - *Mobile App Design Reference Library*
+* [IconKitchen](https://icon.kitchen/) - *App Icon Generator*
 * [Plank](https://launchpad.net/plank) - *Simple Dock / [GitHub](https://github.com/ricotz/plank)*
 * [Portainer](https://portainer.io/) - *Build / Manage Docker Containers / [Templates](https://github.com/SelfhostedPro/selfhosted_templates) / [GitHub](https://github.com/portainer/portainer)*
 * [Compose Samples](https://github.com/android/compose-samples) - *App Samples*
@@ -403,6 +405,7 @@
 * [Gradient Animator](https://www.gradient-animator.com/) - *Animated CSS Gradient Generator*
 * [Animista](https://animista.net/) - *Tweak / Download CSS Animations*
 * [css2scss](https://sebastianpontow.de/css2compass/) - *CSS to SCSS Converter* 
+* [Tableconvert](https://tableconvert.com/) - *Markdown / Code Converter*
 * [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/) or [SimpleCSS](https://simplecss.org/) - *CSS Framework*
 * [TailBlocks](https://tailblocks.cc/) - *Ready-to-use Tailwind CSS Blocks*
 * [MarkdownGuide](https://www.markdownguide.org/) - *Guide for Markdown (.md)* 
@@ -508,6 +511,7 @@
 * [Regex101](https://regex101.com/) - *Regex Editor / Debugger* 
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - *Creative Coding Resource Index* 
 * [Algorithm Visualizer](https://algorithm-visualizer.org/) - *Visualize Code Algorithms* 
+* [Code2Flow](https://app.code2flow.com/) or [Flowchart Generator](https://github.com/MugilanGN/Flowchart-Generator) - *Code to Flowchart Converter*
 * [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/), [Lite XL](https://lite-xl.github.io/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [Notepad2](https://www.flos-freeware.ch/notepad2.html) or [Light Table](http://lighttable.com/) - *Code Editor* 
 * [Vim Latex](http://vim-latex.sourceforge.net/) - *Latex Style Vim Editor*
 * [Telosys](http://www.telosys.org/) - *Code Generator*
