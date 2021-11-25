@@ -38,6 +38,7 @@
 * [Epoch Converter](https://www.epochconverter.com/) - *Epoch & Unix Timestamp Conversion Tools* 
 * [How Many Days Since](http://howmanydayssince.net/) or [How Many Days Until](https://howmanydaysuntil.co/) - *Calculate Days Since a Date*
 * [e.gg Timer](https://e.ggtimer.com/) - *Timer*
+* [Dashana](https://dashana.com/) - *Data Visualization Tool*
 * [Grocy](https://grocy.info/) - *Grocery / Household Management Tool*
 * [Volmarg](https://volmarg.github.io/) - *Personal Management Tool*
 * [Focalboard](https://www.focalboard.com/) - *Project Management Tool*
@@ -109,7 +110,6 @@
 * [Notion](https://www.notion.so/) - *Notes / Tasks / Wikis / Databases*
 * [KiloDoc](https://www.kilodoc.com/) - *Online Document Editor* 
 * [Nute](https://nute.app/) - *Quickly Make & Save Text Files*
-* [ZealDocs](https://zealdocs.org/) - *Documentation Reader*
 * [Lyx](https://www.lyx.org/) - *LaTeX Editor / [Guide](https://www.learnlatex.org/)*
 * [Detexify](http://detexify.kirelabs.org/classify.html) - *Handwritten LaTeX Symbol Recognition*
 * [AirPDFtoExcel](https://airpdftoexcel.com/) - *PDF to Excel Converter*
@@ -221,6 +221,7 @@
 * [LiveRecord](https://github.com/lovezzzxxx/liverecord) - *Automatic Stream Recorder*
 * [LiveMonitor](https://github.com/lovezzzxxx/livemonitor) - *Live Stream Detection*
 * [real-url](https://github.com/wbt5/real-url) - *Copy Live Stream URLs*
+* [VTuber References](https://docs.google.com/spreadsheets/d/15UpI8GEqv22T45AD3L1EgcPB4l2Tvr64aDgLq7xZfMA/htmlview) - *VTuber Tools*
 * [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - *Turn Screencasts into GIFs*
 * [Nimbus Capture](https://nimbusweb.me/screenshot.php) - *Screenshot / Video Capture Tool*
 * [Stream Recorder](https://www.hlsloader.com/) - *Streaming Video Recorder* 
@@ -363,6 +364,7 @@
 * [Sampulator](http://sampulator.com/) - *Create Music with Your Keyboard* 
 * [JummBox](https://jummbus.bitbucket.io/) or [Klystrack](https://github.com/kometbomb/klystrack) - *Create Chiptune Melodies* 
 * [danielx](https://danielx.net/composer/) - *Mario Paint Music Composer*
+* [Open Note Block Studio](https://opennbs.org/) - *Minecraft Note Block Song Editor*
 * [Acid Machine 2](http://errozero.co.uk/acid-machine/) - *Acid Techno Machine*
 * [Roland 808303.studio](https://808303.studio/) - *Online Drum Machine / TB-303 Bass Synth* 
 * [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/) or [Hammmerhead](http://www.threechords.com/hammerhead/) - *Online Drum Machine*
@@ -868,7 +870,8 @@ General Reading Sites*
 
 * **[Aliucord](https://github.com/Aliucord/Aliucord)** - *Modded Discord Client* 
 * **[BetterDiscord](http://betterdiscord.app/)** - *Modifiable Discord Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools) / [Web Client](https://github.com/Strencher/BdBrowser)*
-* **[Cumcord ](https://cumcord.com/)** - *Discord Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)*
+* **[Cumcord](https://cumcord.com/)** - *Discord Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)*
+* [Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists) - *Discover Servers / Bots*
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - *Discord Tools*
 * [Guilded](https://www.guilded.gg/) or [Revolt](https://revolt.chat/) - *Discord Alternative / [Client Mod](https://github.com/ReGuilded/ReGuilded/)*
 * [Ripcord](https://cancel.fm/ripcord/) - *Lighweight Discord & Slack Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ripcord_tools)* 
@@ -891,7 +894,6 @@ General Reading Sites*
 * [crocodile](https://github.com/tbodt/crocodile) - *Discord Client for TempleOS*
 * [displunger](https://gitlab.com/derpystuff/displunger) - *Run Old Versions of Discord*
 * [Acrylic](https://github.com/xirreal/Acrylic) - *Glass Discord Theme*
-* [Disboard](https://disboard.org/), [DiscordLabs](https://www.discordlabs.org/), [RovelStars](https://discord.rovelstars.com/), [DiscordServers](https://discordservers.com/), [Discord Street](https://discord.st/), [discordlist.io](https://discordlist.io/), [DiscordServers.me](https://discordservers.me/) or [Discord Me](https://discord.me/) - *Discover Discord Servers / Bots* 
 * [NotQuiteNitro](https://nqn.blue/) - *Discord Nitro Alternative*
 * [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - *Use Discord Emojis without Nitro* 
 * [Slackmoji](https://github.com/seanprashad/slackmoji) or [emoji.gg](https://emoji.gg/) - *Discord Emojis*
@@ -941,7 +943,6 @@ General Reading Sites*
 * [Embed Visualizer](https://embed.discord.website/) - *Embed Visualization Tool* 
 * [Chimera](https://github.com/CedArctic/Chimera) - *System Remote Control* 
 * [Discord IRC](https://github.com/reactiflux/discord-irc) - *Connect Discord & IRC Chats* 
-* [Top.gg](https://top.gg/), [Discord Bots](https://discord.bots.gg/) or [Top Bots](https://s.advaith.io/topbots) - *Discord Bots Discovery* 
 * [Discord Reputation](https://discordrep.com/) - *Prevent Discord Fraud*
 * [Discord Ban Appeals](https://github.com/patricktechn/discord-ban-appeals) - *Discord Ban Appeal Form*
 * [Discord Auto Upload](https://github.com/tardisx/discord-auto-upload) - *Auto Upload Screenshots*
@@ -961,6 +962,8 @@ General Reading Sites*
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - *Adds Custom CSS Support* 
 * [Discord Status](https://discordstatus.com/) - *Check Discord Status* 
 * [Status](https://discord.gg/Nnttd7EZV4) - *Followable Site Status Channels*
+* [Discord Testers](https://discord.gg/discord-testers) - *Test Discord Features*
+* [Discord Townhall](https://discord.gg/discord-townhall) - *Discord News & Updates*
 * [Guild Counter](https://rauf.wtf/guildcount) - *Check how many servers you're in*
 * [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - *Preview Role Colors Role*
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - *Encode videos to <8MB*
@@ -995,6 +998,7 @@ General Reading Sites*
 * **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download Audio from YouTube*
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
 * [SponsorBlock](https://sponsor.ajay.app/) - *Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)*
+* [YouTube Spammer Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge) - *Delete All YouTube Spammer Comments*
 * [YouTube Encoding Guide](https://support.google.com/youtube/answer/1722171) - *Recommended YouTube Encoding Settings*
 * [TubeSync](https://github.com/meeb/tubesync) - *Sync YouTube Channels / Playlists to a Media Server*
 * [Invidious](https://tube.cadence.moe/), [ViewTube](https://viewtube.io/) / [GitHub](https://github.com/ViewTube/viewtube-vue), [Piped](https://github.com/TeamPiped/Piped) or [Youtube-local](https://github.com/user234683/youtube-local) - *YouTube Frontend / [Instances](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)* 
@@ -1081,7 +1085,6 @@ General Reading Sites*
 * [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - *Alt Twitch Player* 
 * [Twitch-Desktop](https://github.com/twitch-desktop/twitch-desktop) or [Orion](https://alamminsalo.github.io/orion/) - *Twitch Desktop Client* 
 * [Multi](https://multi.raredrop.co/), [Twitchmultivod](https://www.twitchmultivod.com/) or [TwitchTheater](https://twitchtheater.tv/) - *Watch Multiple Twitch Streams* 
-* [DankChat](https://github.com/flex3r/DankChat) - *Talk in Multiple Twitch Chats at Once / Apk*
 * [Livestream Panels](https://livestreampanels.com/) - *Custom Twitch Stream Panels*
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - *Fix Twitch Aspect Ratio*
 * [Chatterino](https://chatterino.com/), [Chatsen](https://chatsen.app/ or [Chatty](https://chatty.github.io/) - *Twitch Chat Client*
@@ -1507,6 +1510,7 @@ General Reading Sites*
 * [JPG-to-PDF](https://github.com/praneetk2704/JPG-to-PDF) [Images to PDF](https://github.com/Swati4star/Images-to-PDF), [JPG2PDFBot](https://t.me/JPG2PDFBot), [Adobe Converter](https://www.adobe.com/acrobat/online/jpg-to-pdf.html) or [img2pdf](https://pypi.org/project/img2pdf/) - *Image to PDF Converter*
 * [PDFmyURL](https://pdfmyurl.com/) - *Convert Web Page to PDF* 
 * [PDFCrowd](https://pdfcrowd.com/) - *HTML to PDF / Image Converter*
+* [ShowPDF](http://showpdf.com/) - *PDF to HTML Converter*
 * [PSTOEdit](http://pstoedit.net/) - *Convert PDF to other Vector Formats* 
 * [Issuu](https://issuu.com/) - *Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/), [3](https://docdownload.net/)* 
 * [PPT To PDF](https://www.adobe.com/acrobat/online/ppt-to-pdf.html) - *Convert PowerPoint to PDF Adobe*
