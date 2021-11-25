@@ -143,6 +143,7 @@
 * [tlanyan](https://tlanyan.me/) - *Linux / Software*  
 * [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - *Courses / [icourse163](https://www.icourse163.org/)*
 * [CatchingNow](https://www.catchingnow.cn/) - *Android Apps*
+* [Emu999](http://www.emu999.net/) - *ROMs*
 
 ## ▷ Torrenting
 
