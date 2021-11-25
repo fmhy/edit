@@ -16,14 +16,13 @@
 ***
 
 * **[The MegaDrive](https://discord.gg/h2P5zsNMxZ)** or [No Bucks Given](https://discord.gg/By53hyhUFS) - *Discord Drive Sharing Community* 
-* **[Open Directories / Teamdrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrives_.2F_open_directories), [2](https://www.google.com/search?q=site:reddit.com/r/opendirectories+odshot+after:2018), [3](https://opndir.com/), [4](https://redd.it/lvdwlm), [5](https://github.com/strawhat-pirates/notes/blob/master/opendirectories.txt), [6](https://bin.disroot.org/?3082f04205be7af6#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34)**
+* **[Open Directories / Teamdrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrives_.2F_open_directories)**, [2](https://www.google.com/search?q=site:reddit.com/r/opendirectories+odshot+after:2018), [3](https://opndir.com/), [4](https://redd.it/lvdwlm), [5](https://github.com/strawhat-pirates/notes/blob/master/opendirectories.txt), [6](https://bin.disroot.org/?3082f04205be7af6#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34)
 * **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
 * [ODCrawler](https://odcrawler.xyz/), [CatFiles](https://www.catfiles.net/) or [mmnt](https://www.mmnt.net/) - *Open Directory Search Engine*
 * [ODS](https://sites.google.com/view/l33tech/tools/ods) - *Open Directory CSE*
 * [Napalm FTP](https://www.searchftps.net/), [Proisk](https://proisk.com/) or [Search-22](https://search-22.com/ftp-search-tools) - *FTP Search*
 * [dedigger](https://www.dedigger.com/) - *GDrive File Search* 
-* [MegaDownload](http://megadownload.net/) - *Search Mega* 
-* [Megasearch](http://megasearch.co/) - *Search Mega / Use Adblocker* 
+* [MegaDownload](http://megadownload.net/) or [Megasearch](http://megasearch.co/) - *Mega File Search* 
 * [Create Open Directory Search Engine](https://redd.it/d3w2fu)
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) or [AutoIndex](http://autoindex.sourceforge.net/) - *Open Directory Indexer* 
 * [Directory Lister](https://directorylister.com/) - *Open Directory Explorer*
@@ -248,6 +247,7 @@
 * [Soft112](https://www.soft112.com/) 
 * [ProgSoft](https://progsoft.net/)
 * [Informer](https://www.informer.com/) 
+* [Skytopia](https://www.skytopia.com/software/) 
 * [Den4b](https://www.den4b.com/) 
 * [DonationCoder](https://www.donationcoder.com/) 
 * [AntibodySoftware](https://antibody-software.com/) 
@@ -269,7 +269,7 @@
 * [WinWorldPC](https://winworldpc.com/) - *Abandonware / Operating Systems* 
 * [VETUSWARE](https://vetusware.com/) - *Abandonware / Operating Systems / Games*
 * [The Vintage Software Collection](https://archive.org/details/vintagesoftware) or [SCiZE's Classic Warez Collection](https://scenelist.org/) - *Retro Software*
-* [Portapps](https://portapps.io/), [FC Portables](https://www.fcportables.com/), [Portable Freeware](https://www.portablefreeware.com/), [TheHouseOfPortable](https://thehouseofportable.com/), [freeportablesoftwares](https://sites.google.com/site/freeportablesoftwares/) or [PortableApps](https://portableapps.com/) - *Portable Apps for USB / SD / External Storage*
+* [Portable Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portable_apps) - *Portable Apps for USB / SD / External Storage*
 * [BelowAverage](https://belowaverage.org/) - *I.T. Software*
 * [Software Giveaway Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) 
 
