@@ -331,7 +331,6 @@
 * [de-google](https://www.reddit.com/r/privacy/wiki/de-google), [De-google-ify](https://degooglisons-internet.org/en/), [degoogle](https://degoogle.jmoore.dev/) / [GitHub](https://github.com/tycrek/degoogle) or [No More Google](https://nomoregoogle.com/) - *Google App Alternatives*
 * [no-google](https://github.com/nickspaargaren/no-google) - *Block All Google Services* 
 * [Nixory](http://nixory.sourceforge.net/) - *Antispyware Browser Tool* 
-* [Shadow Wiki Browsers](https://tilde.club/~acz/shadow_wiki/browsers.xhtml) - *Browser Spyware Ratings*
 * [Alternative Internet](https://redecentralize.github.io/alternative-internet/) - *Decentralization Networks*
 * [Dark Launch Referer Test](https://www.darklaunch.com/tools/test-referer) - *Check Link Referrer*
 * [Anonymizer](https://www.lolinez.com/ ) - *Anonymize Links*
