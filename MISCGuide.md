@@ -464,7 +464,7 @@
 * [Awesome Go/Baduk/Weiqi](https://github.com/yanchick/awesome-GoBadukWeiqi) - *Go/Baduk/Weiqi Resource Index* 
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - *Unused Video Game Content Research*
 * [Bibliotheca Anonoma](https://bibanon.org/) - *Internet Folklife Wiki / [Discord](https://discord.com/invite/3jxxGDC)*
-* [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion), [BibAnon](http://vyrd.bibanon.org/), [4Museum](https://4museum.neocities.org/), [Archive.4plebs](https://archive.4plebs.org/), [arch.b4k](https://arch.b4k.co/) or [Sup/tg/](http://suptg.thisisnotatrueending.com/)  - *4Chan Archive*
+* [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion), [old.sage](https://old.sage.moe/), [BibAnon](http://vyrd.bibanon.org/), [4Museum](https://4museum.neocities.org/), [Archive.4plebs](https://archive.4plebs.org/), [arch.b4k](https://arch.b4k.co/) or [Sup/tg/](http://suptg.thisisnotatrueending.com/)  - *4Chan Archive*
 * [LameBook](https://www.lamebook.com/) - *Funny Facebook Status'*
 * [Zoomquilt](https://www.zoomquilt.org/) / [2](http://zoomquilt2.com/) or [Arkadia](http://arkadia.xyz/) - *Infinite Zooming Painting* 
 * [Mirage Gallery](https://www.miragegallery.ai/) - *AI Art Gallery* 
@@ -484,7 +484,7 @@
 * [nooooooooooooooo.com](http://www.nooooooooooooooo.com/) - *Vader NO Button*
 * [Make-A-Wish Foundation](https://discord.gg/pZZ3STQZ9Y) - *100% Real Make-A-Wish*
 * [Is It A Cat?](https://isitacat.com/) - *Cat Image Detector* 
-* [Is It Christmas?](https://isitchristmas.com/) - *Find Out if it's Christmas*
+* [Is It Christmas?](https://isitchristmas.com/) or [Is It Halloween Yet?](https://www.isithalloweenyet.com/) - *Find Out if it's a Holiday*
 * [The.Matrix-ASCII](http://takeovertheworld.org/matrix/) - *The Matrix Encoded in Text*
 * [sCandyBars](https://scandybars.com/) - *Candy Bar Photo Blog*
 * [Hobune](https://hobune.stream/) - *Deleted YouTube Video Archive*
@@ -982,7 +982,7 @@
 * [Tab Session Manager](https://tab-session-manager.sienori.com/) or [Session Buddy](https://sessionbuddy.com/) - *Session Manager* 
 * [Peek](https://github.com/corbindavenport/peek) - *Shows Images & Videos Behind Links & Thumbnails* 
 * [Not For You](https://bengrosser.com/projects/not-for-you/) - *Confuse Tik-Toks Recommendation Algorithm*
-* [FBPurity](https://www.fbpurity.com/) - *Facebook Enhancement Extension*
+* [FBPurity](https://www.fbpurity.com/) or [Social Fixer](https://socialfixer.com/) - *Facebook Enhancement Extension*
 * [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) - *Hide All Facebook Metrics*
 * [OctoShop](https://www.instok.org/octoshop) - *In-Stock Alerts*
 
@@ -1067,6 +1067,7 @@
 * [Charcoal Dark Mode](https://chrome.google.com/webstore/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - *Facebook Messenger Dark Mode*
 * [Mate Translate](https://gikken.co/mate-translate/chrome/) - *Translator*
 * [OpenDyslexic](https://chrome.google.com/webstore/detail/opendyslexic-for-chrome/cdnapgfjopgaggbmfgbiinmmbdcglnam) - *Increase Page Readability*
+* [Show Keys](https://chrome.google.com/webstore/detail/show-keys/bkcpmidbgmfbbeanejhepkjakagfaaon) - *Show Keys As You Type*
 * [Spoiled](https://lucasrowe.github.io/spoiled/) - *Customizable Phrase / Spoiler Blocker*
 * [Flip This](https://chrome.google.com/webstore/detail/flip-this/donljlliiecjcagcenoeohjmabfegkph?hl=en) - *Rotate Page & HTML Elements*
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej) - *Discover Similar Webpages* 
