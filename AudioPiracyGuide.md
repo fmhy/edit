@@ -191,7 +191,6 @@
 * **[Deemix](https://gitlab.com/paulchatte123/deemix-gui-fmp3dl)** - *MP3 / [/r/deemix](https://reddit.com/r/deemix) / [Telegram](https://t.me/deemixcommunity) / [ARL](https://archive.is/aQ3JA)*
 * **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - *Download from Spotify*
 * **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
-* **[GamesDrive Music-DL](https://discord.gg/PKFAnduGtA)** - *Qobuz Bot Ripper*
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)*
 * **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - *Telegram audio download channels*
 * [/r/xTrill](https://reddit.com/r/xTrill) - *MP3 / FLAC / [Discord Bot](https://discord.gg/xtrill) / [Backup](https://reddit.com/r/xTrillBackup)*
@@ -218,7 +217,7 @@
 
 ## ▷ Download Sites
 
-* **[Audio Download Sites Search](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** + [Audio Download Sites 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w)
+* **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) - *Multi-Site Search*
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "audio"*
 * **[Free MP3 Download](https://free-mp3-download.net/)** - *Search / MP3 / FLAC*
 * **[Mudome](https://mudome.org/)** - *MP3 / FLAC*
@@ -340,7 +339,7 @@
 # ► Audio Torrenting
 
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - *Get a VPN before torrenting*
-* **[Audio Torrent Sites Search](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)**
+* **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - *Multi-Site Search*
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "audio"*
 * **[Redtopia](https://git.fuwafuwa.moe/cairn/Redtopia)** - *Redtopia Repository / FLAC*
 * **[Lidarr](https://github.com/Lidarr/Lidarr)** - *Autodownload Music Torrents*
