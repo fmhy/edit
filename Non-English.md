@@ -111,7 +111,7 @@
 * [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - *Chinese Site / Tool Index*
 * [jialezi](https://blog.jialezi.net/) - *Chinese Tutorials*
 * [Kaiheila](https://www.kaiheila.cn/) - *Chinese Discord*
-* [zimuku](http://zimuku.org/) or [SubHD](https://subhd.tv/) - *Subtitles*
+* [zimuku](http://zimuku.org/), [YYets](https://www.yyets.com/) or [SubHD](https://subhd.tv/) - *Subtitles*
 * [Anti-Ad](https://anti-ad.net/) - *Adblock Filters*
 * [Dianying](https://dianying.fm/) - *Hash Search*
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
@@ -1532,6 +1532,7 @@ Portuguese
 
 # ► Other Languages
 
+* [Keyman](https://keyman.com/) - *Multi-Language Keyboard Files*
 * [Non-English Ebook & Audiobook Sites](https://redd.it/gehkl0)
 * [Zoro.to](https://zoro.to/) - *Multiple Language Subtitles / Anime*
 * [Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drama_streaming)
