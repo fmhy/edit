@@ -265,7 +265,7 @@
 * **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
 * **[/r/AnimePiracy Index](https://piracy.moe/)**, [TG Anime Index](https://telegra.ph/Websites-To-Watch-And-Download-Anime-09-10) or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - *Curated List of Anime Sites / [Discord](https://discord.gg/piracy)*
 * **[Zoro](https://zoro.to/)** - *Sub / Dub*
-* **[9Anime](https://www.9anime.to/)** or [9anime.ru](https://www.9anime.ru/) - *Sub / Dub / [Mirrors](https://9anime.me/) / [Use Filter](https://redd.it/c330dx)*
+* **[9Anime](https://www.9anime.to/)** or [9anime.ru](https://www.9anime.ru/) - *Sub / Dub / [Mirrors](https://9anime.me/) / [Filter](https://redd.it/c330dx) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)*
 * **[Anime Twist](https://twist.moe/)** - *Sub / [Discord](https://discord.gg/Ea3Mq9n)*
 * **[Anime8](https://anime8.ru/)** - *Sub / Dub*
 * **[AniMixPlay](https://animixplay.to/)** - *Sub / Dub / [Discord](https://discord.gg/YyQ9cpS)* 
@@ -411,7 +411,7 @@
 * **[WebOas.is TV](http://streamwat.ch/)** - *TV / Sports*
 * **[Jackal](https://jackal.surge.sh/)** - *TV / Sports*
 * **[LiveOnScore](http://liveonscore.tv/)** - *Sports* 
-* **[StreamEast](http://www.streameast.live/)** - *Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)*
+* **[StreamEast](https://www.streameast.io/dd/)** - *Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)*
 * **[Black Tie Sports](https://blacktiesports.net/)** - *Sports* 
 * **[Soccer Streams](https://reedit.soccerstreams.net/)** - *Soccer*
 * **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - *NBA / NFL*
@@ -816,7 +816,7 @@
 * **Letterboxd Tools** - [Multi Tool](http://www.letterboxd.tools/) / [Shortcuts](https://github.com/alandours/letterboxd-shortcuts) / [Recommendations](https://letterboxd-recommendations.herokuapp.com/) / [Watchlist Picker](https://watchlistpicker.com/) / [Collections](https://mrdys.github.io/letterboxd-completionist/)
 * **[Trakt](https://trakt.tv/)** - *TV / Anime / Movies / [Apps](https://trakt.tv/apps) / [Duplicate Remover](https://huere.net/trakt/duplicate_removal/)*
 * **[MyAnimeList](https://myanimelist.net/)** - *Anime* 
-* **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Web Client](https://anidex-mal.herokuapp.com/) / [Extenstion](https://anime.plus/) / [Site Sync](https://malsync.moe/) / [API](https://jikan.moe/)
+* **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Web Client](https://anidex-mal.herokuapp.com/) / [Extenstion](https://anime.plus/) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/)
 * **[ICheckMovies](https://www.icheckmovies.com/)** - *Movies / List Database / [Enhanced](https://greasyfork.org/en/scripts/11541-icheckmovies-enhanced)*
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - *TV / Anime*
 * [IMDb](https://www.imdb.com/) or [TMDb](https://www.themoviedb.org/) - *Movies / TV / Anime*
@@ -933,7 +933,7 @@
 * **[Open Subtitles](https://opensubtitles.org/)** - *Subtitles*
 * **[Subtitle Edit](https://www.nikse.dk/SubtitleEdit/Online)**, [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://github.com/Aegisub/Aegisub) or [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - *Subtitle Editor*
 * **[External Subtitles Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_external_subs_player)** - *Play Subs Externally* 
-* [Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles) - *External Subtitle Extension*
+* [Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles) or [Substital](https://substital.com/) - *External Subtitle Extension*
 * [elSubtitle](http://www.elsubtitle.com/) - *Subtitles & Tools* 
 * [GSubs](https://cholaware.com/gsubs/) - *Subtitle Search Client*
 * [Subtitle Cat](https://www.subtitlecat.com/) - *Subtitles* 
