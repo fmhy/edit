@@ -19,7 +19,7 @@
 * **[SteamUnlocked](https://steamunlocked.net/)** - *Use Adblocker / [Release Tracker](https://github.com/N-O-E-D/Steamunlocked)*
 * **[Steam Underground](https://cs.rin.ru/)** - *[Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Status](https://csrinstaff.writeas.com/)*
 * **[CrackHub](https://crackhub.site/)** - *[Discord](https://discord.gg/T669D6weqt) / [RSS](https://scene.crackhub.site/category/iso/rss)*
-* **[GamesDrive](https://gamesdrive.net/)**
+* **[GamesDrive](https://gamesdrive.net/)** - *[Discord](https://discord.gg/RZ274U7Ewy)*
 * **[DODI](http://dodi-repacks.site/)** - *[Discord](https://discord.gg/uE273qJ)*
 * **[GoG Games](https://gog-games.com/)**
 * **[FreeToGame](https://www.freetogame.com/games)**, [Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) or [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - *F2P Games*
