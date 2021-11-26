@@ -125,6 +125,7 @@
 * [online-courses](https://online-courses.club/) - *Courses*
 * [Course Upload](https://courseupload.com/) - *Courses* 
 * [Christmas Share](https://mega.nz/folder/dVxiXITI#lM16YzFg6xlnDOGYBOWUhA), [2](https://mega.nz/folder/dVxiXITI#lM16YzFg6xlnDOGYBOWUhA/folder/pAQWDCaZ), [3](https://mega.nz/folder/mqxiBRTJ#0bnSa35nknxUqOCr-xdGYg) - *Courses*
+* [Mega Collections](https://mega.nz/folder/5F9WzJ7a#9UdqphaNXS13TTJAgdN15w) - *Courses*
 * [ReadyYourFlow](https://learning.readyourflow.workers.dev/0:/) - *Courses*
 * [FTUForums](https://www.ftuforums.com/) - *Courses / [Discord](https://discord.gg/xAsMX52)*
 * [Coursesghar](https://coursesghar.com/) - *Courses* 
