@@ -22,7 +22,7 @@
 * [Gravit Designer](https://www.designer.io/) - *Graphic Design App*
 * [MagicaVoxel](https://ephtracy.github.io/) - *Voxel Art Editor / Interactive Path Tracing renderer*
 * [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - *Text Driven Image Manipulation / [Video](https://youtu.be/5icI0NgALnQ)*
-* [Vectr](https://vectr.com/) - *Online Vector Graphics Editor* 
+* [Vectr](https://vectr.com/) or [VectorInk](https://vectorink.io/) - *Vector Graphics Editor* 
 * [lunacy](https://icons8.com/lunacy) - *Graphic Design Software*
 * [Images.weserv.nl](https://images.weserv.nl/) - *Image Editing Server*
 * [darktable](https://www.darktable.org/) - *Virtual Lighttable & Darkroom*
@@ -282,7 +282,7 @@
 
 * **[Image Hosting / Processing Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosting_.2F_processing)** - *Host / Process Images*
 * **[Image Viewers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_viewers)** - *Image Viewing Programs*
-* [Piwigo](https://piwigo.org/) - *Photo Manager / Viewer*
+* [Piwigo](https://piwigo.org/) or [Photonix](https://photonix.org/) - *Photo Manager / Viewer*
 * [FEMBOY](https://github.com/k1rak1ra/FEMBOY) - *Anime Image Manager*
 * [Pinry](https://docs.getpinry.com/ ) - *Image Tiling Board*
 * [Lychee](https://lycheeorg.github.io/) - *Self-Hosted Image Host* 
