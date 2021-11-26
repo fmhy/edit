@@ -912,6 +912,7 @@
 * [escolaeducacao](https://escolaeducacao.com.br/estude-gratis/) - *Courses*
 * [SuporteNinja](https://suporteninja.com/download/) - *Courses*
 * [Jogatina](https://www.jogatina.com/) - *Android Games*
+* [Brazil Drive](https://discord.gg/5Bmu7AsEEN) - *The Megadrive clone but for brazilians, Video / Audio / Software / Games / Books / Anime*
 
 ## ▷ Torrenting
 
