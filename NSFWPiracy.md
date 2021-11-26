@@ -116,7 +116,6 @@
 * [Porn GDrives](https://redd.it/l3ugp6/), [2](https://photos.app.goo.gl/VtK9Aj3Vnbr2Pohc8), [3](https://photos.app.goo.gl/v7PdoDowqDhRRpa47), [4](https://photos.app.goo.gl/M8xBKo6CPtHRCUcC8), [5](https://drive.google.com/drive/folders/1cOAi2Ne4rldowhR5xEMI4Fc0mI-GA8iI?usp=sharing), [6](https://groups.google.com/u/1/g/adult-sic), [7](https://groups.google.com/u/1/g/viperph)
 * [Porn Drive 111 GB](https://mega.nz/folder/6ooxSSQR#PsVRRGW5qIbpAjVxiMasLw/folder/Whw13aIK) 
 * [173.249.45.226](http://173.249.45.226/)
-* [PornHD3x](https://www5.pornhd3x.tv/) 
 * [PornFactors](http://pornfactors.com/) 
 * [RaidForums NSFW](https://raidforums.com/Forum-Not-Safe-For-Work)
 * [Best-MovieZ](https://www.best-moviez.ws/category/porn-18/) 
