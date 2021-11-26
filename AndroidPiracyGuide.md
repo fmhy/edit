@@ -394,6 +394,7 @@
 * [How-to Install Play Store Apps from Other Countries](https://rentry.co/29s6v)
 * [APKAdmin](https://apkadmin.com/) - *APK Hosting Site*
 * [Widgets for Samsung](https://drive.google.com/file/d/1LzBKUDuC7t3-k6aOtlZc765ZLBD437pC/view) - *Samsung Widgets*
+* [WSATools](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) - *Windows 11's Subsystem APK Installer*
 
 ***
 
@@ -782,6 +783,8 @@ RSS Player*
 * [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - *Control Android TV Box with iPhone*
 * [Swappa](https://swappa.com/imei) or [SickW](https://www.sickw.com/) - *IMEI, MEID, ESN Checker*
 * [FutureStore](https://github.com/tihmstar/futurerestore) - *SEC & Baseband Restoring Wrapper*
+* [Icy](https://github.com/ArtikusHG/IcyInstaller3) - *DPKG Installer*
+* [AppTapp](https://apptapp.me/repo) - *iOS Package Manager*
 * [Mildred](https://apps.apple.com/us/app/mildred/id1522800022) - *Docker Client*
 
 ***
@@ -803,6 +806,7 @@ RSS Player*
 * [AltStore](https://altstore.io/) - *App Store / [Repo View](https://altsource.by.lao.sb/browse/) / [AltDaeomon](https://repo.dynastic.co/package/altdaemon)*
 * [ioshaven](https://ioshaven.com/apps) - *App Store* 
 * [Signulous](https://www.signulous.com/) - *App Store / Sideloading*
+* [Repo Updates](https://www.ios-repo-updates.com/) - *App Repository Updates*
 * [Kiiimo](https://cydia.kiiimo.org/) - *App Repository*
 * [paxcex](https://paxcex.github.io/) - *App Repository*
 * [sarahh12099](https://sarahh12099-mirror.github.io/repo) - *App Repository*
