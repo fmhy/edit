@@ -254,6 +254,7 @@
 * [3nitySoftware](http://3nitysoftwares.com/index.php/en) 
 * [Antp](http://www.antp.be/) 
 * [FileEagle](https://www.fileeagle.com/) 
+* [ValleySoftware](https://valleysoftware.com.au/) 
 * [FreewareFiles](https://www.freewarefiles.com/) 
 * [IcecreamApps](https://icecreamapps.com/) 
 * [PRVSoft](https://www.prvsoft.com/)
