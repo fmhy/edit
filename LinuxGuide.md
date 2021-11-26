@@ -152,6 +152,7 @@
 # ► Linux Adblock / Privacy
  
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - *Linux Privacy Guide* 
+* [Twilio Authy](https://snapcraft.io/authy) - *Linux 2FA*
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) or [Gufw](http://gufw.org/) - *Linux Firewall* 
 * [Mofolinux](https://mofolinux.com/), [Tails](https://tails.boum.org/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - *Privacy-Based Linux Operating System*
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - *VPN Tunnel*
@@ -232,7 +233,7 @@
 * [Stroke](https://stroke.lllllllllllllllll.com/) - *Text (You Can't Delete) Editor*
 * [PDF Expert](https://filecr.com/?s=pdf+expert) - *PDF Viewer*
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) or [Spark](https://sparkmailapp.com/) - *Email Client*
-* [Microsoft Mac Downloads](https://macadmins.software/) - *Microsoft Office for Mac*
+* [Microsoft Mac Downloads](https://macadmins.software/) or [Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - *Office Suite*
 * [Winfield](http://www.winfield.demon.nl/) - *MS Word for Linux / OS X* 
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - *Connect Mac Keyboard to Mobile Devices*
 * [CustomShortcuts](https://www.houdah.com/customShortcuts/) - *Custom Keyboard Shortcuts*
@@ -269,6 +270,7 @@
 * [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) - *Reddit Dekstop Client*
 * [Manta](https://github.com/hql287/Manta) - *Invoice Manager*
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - *Grayscale Control*
+* [MacOSIcons](https://macosicons.com/) - *MacOS Icons*
 * [Discord M1](https://github.com/yannhodiesne/Discord-M1) - *M1 Mac Discord App*
 * [equinux](https://equinux.github.io/) - *OS X Certificate Fix*
 * [Lilu](https://github.com/acidanthera/Lilu) - *Kext / Process Patcher*
