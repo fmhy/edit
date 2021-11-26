@@ -1881,6 +1881,7 @@ Add the following commands to a search to manually scrape each site.
 * [Heaven](https://drive.google.com/drive/folders/1hxe7Des-ooQpamAtjyR7CX-k_hyqlQ7Q) 
 * [Collection](https://mega.nz/folder/6q4XjSjD#n2aMXLlajXC59snzns_ijw)
 * [300TB Shere](https://drive.google.com/drive/folders/1oCMgJeBc55NuEasPcgwjx2FuPdQd8neu)
+* [Mega Collection](https://mega.nz/folder/TgdS0ZxY#aO3lJb0VoKq8SlxPfR-MGw) 
 * [index-of](http://index-of.es/) - *Tech / Programming / Directory* 
 * [Manny Hackers](https://apd.msbots.workers.dev/0:/)
 * [Mirror Bot](https://mirrorbot.sarutobi.workers.dev/)
@@ -2496,6 +2497,7 @@ Good for finding classic, obscure & short films.
 * [OldNewExplorer](https://m.majorgeeks.com/files/details/oldnewexplorer.html)
 * [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir)
 * [Sigma](https://github.com/aleksey-hoffman/sigma-file-manager)
+* [Quick Access Popup](https://www.quickaccesspopup.com/) 
 * [Xplorer](https://github.com/kimlimjustin/xplorer)
 * [One Commander](https://www.onecommander.com/) 
 * [Free Commander](https://freecommander.com/)
