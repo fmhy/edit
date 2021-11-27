@@ -35,7 +35,7 @@
 * **[SoundCloud](https://soundcloud.com/)** - *User made songs*
 * [ccMixter](http://ccmixter.org/) or [dig ccMixter](http://dig.ccmixter.org/dig) - *Browser Music*
 * [Audiomack](https://audiomack.com/) - *Browser Music*
-* [Slider](https://slider.kz/) or [My Free MP3](https://myfreemp3.vip/) - *Browser Music*
+* [Slider](https://slider.kz/) or [My Free MP3](https://myfreemp3juices.cc/) - *Browser Music*
 * [xprm](https://xprm.net/) - *Browser Music*
 * [Pandora](https://www.pandora.com/) - *Browser Music*
 * [musify](https://musify.club/) - *Browser Music*
@@ -206,6 +206,7 @@
 * [DoubleNegative](https://doublenegative.io/ ) - *Tidal Music Downloader*
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - *Bandcamp Downloader*
 * [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - *Soundcloud Download Tools*
+* [KeepTube](https://jaymoulin.me/me/keeptune/) - *Soundcloud & Bandcamp Downloader*
 * [streamrip](https://github.com/nathom/streamrip) - *Deezer & SoundCloud Downloader / [Colab](https://github.com/taskylizard/uwustreamrip)*
 * [Musescore-downloader](https://github.com/Xmader/musescore-downloader) - *Musescore Downloader*
 * [you-get](https://you-get.org/) or [irs](https://github.com/cooperhammond/irs) - *Audio Command Line Download Tool*
@@ -232,8 +233,8 @@
 * [z1.fm](https://z1.fm/) - *MP3*
 * [PandaCD](https://pandacd.io/) - *MP3*
 * [Tancpol](https://tancpol.net/) - *MP3*
-* [ccMixter](http://ccmixter.org/) / [dig ccMixter](http://dig.ccmixter.org/dig) - *DL / Stream / MP3* 
-* [MP3Juices](https://www.mp3juices.cc/) / [MP3Skull](https://mp3skulls.to/) - *DL / Stream / MP3* 
+* [ccMixter](http://ccmixter.org/) or [dig ccMixter](http://dig.ccmixter.org/dig) - *DL / Stream / MP3* 
+* [MP3Juices](https://www.mp3juices.cc/), [MP3Juice](https://mp3juice.buzz/) or [MP3Skull](https://mp3skulls.to/) - *DL / Stream / MP3* 
 * [Digital Meltd0wn](http://digitalmeltd0wn.blogspot.com/) - *MP3*
 * [Music Blogtrotter](https://musicblogtrotter.blogspot.com/) - *MP3*
 * [New Album Releases](https://newalbumreleases.net/) - *MP3*
