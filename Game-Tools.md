@@ -206,7 +206,7 @@
 * [Free Minecraft Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_servers) - *Host Free Minecraft Servers*
 * [GeyserMC](https://geysermc.org/) - *Join Minecraft Java Servers with Bedrock Client / [Consoles](https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles)* 
 * [CraftyControl](https://craftycontrol.com/) or [Fork](https://www.fork.gg/) - *Minecraft Server Manager*
-* [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) or [The Ether Project](http://theetherproject.me/) - *Minecraft Server Info*
+* [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - *Minecraft Server Info*
 * [GeyserConnect](https://www.geyserconnect.net/) - *Connect Minecraft Bedrock to Java Servers*
 * [2Bored2Wait](https://github.com/themoonisacheese/2bored2wait) - *2B2T Queue Proxy*
 * [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization:zap:.283181/) - *Paper / Spigot Server Optimization Guide / Use Paper*
