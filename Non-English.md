@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/TPO4mgQ.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/aAO0wAe.png)** - *For mobile users*
 
 ***
 ***
@@ -289,6 +289,7 @@
 * [NextWarez](http://nextwarez.com/) - *Warez Lists*  
 * [mega-p2p](https://www.mega-p2p.net/) - *Warez Lists*  
 * [Seekr](https://w1w.files-seekr.com/) - *Download Search Files*
+* [Zone Telechargement](https://www.zone-telechargement.work/) - *Video / Audio / Software / Games / Books / Magazines / Newpapers / Android*
 * [Tirexo](https://www2.tirexo.work/) - *Video / Audio / Software / Games / Books*
 * [WawaCity](https://www.wawacity.video/), [2](https://www.wawacity.vip/) - *Video / Audio / Books / Magazines / Software / Android / Use AdBlocker*
 * [Tirexo](https://www.tirexo.com/), [2](https://www2.tirexo.lol/) - *Video / Audio / Books / Roms / Software / Android*
@@ -506,7 +507,10 @@
 * [HHDMovies](https://hhdmovies.org/) - *Movies / TV*
 * [OKJatt](https://okjatt.co/) - *Movies / TV*
 * [HindiLover](https://hindilover.biz/) - *TV*
+* [Filmywap](https://www.filmywap.com/) - *Movies / TV*
 * [OkJatt](https://okjatt.work/) - *Movies / TV*
+* [Desi Serials](https://www.desiserials.tv/) - *Movies / TV / Live*
+* [WatchOnlineMovies](https://www.watchonlinemovies.net.pk/) - *Movies / TV*
 * [HindiLinks4u](https://www.hindilinks4u.to/), [2](https://hindilinks4u.pro/) or [3](https://hindilinks4u.io/)  - *Movies / TV*
 * [Movies4](https://www.movies4.com.pk/) - *Movies / TV* 
 * [OnlineMovies8](https://www.onlinemovies8.com.pk/) - *Movies* 
@@ -1133,6 +1137,10 @@ Portuguese
 
 * [FSOline](http://www.filmeserialeonline.org/) -  *Movies / TV* 
 * [HindiLover](https://hindilover.biz/) - *TV*
+
+## ▷ Download
+
+* [Anime Kage](https://ak405.anime-kage.eu/) - *Anime / Manga*
 
 ***
 
