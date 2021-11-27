@@ -338,20 +338,10 @@
 * [Doyleand](https://doyleandmacdonald.com/lit.htm) - *Fantasy*
 * [PublicBookShelf](http://www.publicbookshelf.com/) - *Romance*
 * [The Eldritch Dark](http://www.eldritchdark.com/) - *Clark Ashton Smith*
-* [The Anarchist Library](http://theanarchistlibrary.org/special/index) - *Anarchism*
-* [Anarcho-Copy](https://anarcho-copy.org/) - *Anarchism*
-* [Archive.Leftove.rs](https://archive.leftove.rs/) - *Protest Documents*
-* [Marxists Internet Archive](https://www.marxists.org/) - *Socialism / Communism*
-* [Liberation School](https://liberationschool.org/) - *Communism*
-* [Red Texts](https://redtexts.org/) - *Communism*
-* [libcom](https://libcom.org/library) - *Libertarian Communism* 
-* [Library of Liberty](https://oll.libertyfund.org/) - *Liberty / Free Market*
-* [Legal Mises Institute](https://mises.org/) - *Books / Audio books / Libertarianism* 
 * [do_k_ument](https://mega.nz/folder/QEV0jKYZ#-BVVScey6draL30yB_KowA) - *Survival, Forging, Smithing, Weapons Training, Field Manuals*
 * [Survivor Library](http://www.survivorlibrary.com/), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/), [Free Survival eBooks](https://www.defiel.com/free-survival-ebooks/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - *Survival*
 * [NATSIG Resources](https://mega.nz/#F!ZuZmiBqZ!XhyEetUaj6an8ntb-U1AZw) - *Survival / Bushcraft / Welding / Blacksmithing / German Books / Mythology / Drive* 
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - *Auto Brochures*
-* [Third World Traveler](https://thirdworldtraveler.com/) - *Human Rights / Conspiracies / Anti-War*
 * [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U), [PimpMyMind](https://pimpmymind.net/), [selfhelpbooklab](https://t.me/selfhelpbooklab), [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - *Self-Help*
 * [Websleuths](https://www.websleuths.com/) - *Crime Solving Forum*
 * [QSL](https://www.qsl.net/w/w7lk/misc%20pdf%20files/) - *Ham Radio & Antenna Books* 
@@ -366,6 +356,17 @@
 * [Choisey](http://choisey.free.fr/) or [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - *TTRPG Rulebooks*
 * [Cinema EBooks Collection](https://mega.nz/folder/Fc5HjABT#kDNrkB97DPt9L_dysk4jCw) - *Cinema Books*
 * [SimplyScripts](https://www.simplyscripts.com/) or [SubsLikeScript](https://subslikescript.com/) - *Movie / TV Scripts* 
+* [The Anarchist Library](http://theanarchistlibrary.org/special/index) - *Anarchism*
+* [Anarcho-Copy](https://anarcho-copy.org/) - *Anarchism*
+* [Archive.Leftove.rs](https://archive.leftove.rs/) - *Protest Documents*
+* [Marxists Internet Archive](https://www.marxists.org/) - *Socialism / Communism*
+* [Liberation School](https://liberationschool.org/) - *Communism*
+* [Red Texts](https://redtexts.org/) - *Communism*
+* [libcom](https://libcom.org/library) - *Libertarian Communism* 
+* [Library of Liberty](https://oll.libertyfund.org/) - *Liberty / Free Market*
+* [Legal Mises Institute](https://mises.org/) - *Books / Audio books / Libertarianism* 
+* [Third World Traveler](https://thirdworldtraveler.com/) - *Human Rights / Conspiracies / Anti-War*
+* [China-Dictatorship](https://github.com/cirosantilli/china-dictatorship) - *Anti-Chinese Authoritarianism*
 * [Kialo](https://www.kialo.com/) - *Popular Debates / Discussion* 
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
 
