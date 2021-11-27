@@ -654,7 +654,8 @@
 * [Torrent2Drive](https://torrent2drive.video/0:/) - *Movies / TV / [Telegram](https://t.me/torrent_2_drive)*
 * [Media](https://drive.google.com/drive/folders/1FEXQWN5szPBTau3EPFaC8PkOgp3v4cve) - *Movies / TV / Anime* 
 * [IMDb Top 250](https://drive.google.com/folderview?id=1RU63d0rIZHZb0BIrXY3dg_JifIzBsVZo), [2](https://drive.google.com/drive/mobile/folders/11kWYR4I18e5bfj-3CvoD-9jztq4zH3ut/1RU63d0rIZHZb0BIrXY3dg_JifIzBsVZo) - *Movies*
-* [dl1.3rver](http://dl1.3rver.org/), [2](http://dl2.3rver.org/ ), [3](http://dl3.3rver.org/) - *Movies / TV*
+* [dl1.3rver](http://dl1.3rver.org/), [2](http://dl2.3rver.org/), [3](http://dl3.3rver.org/) - *Movies / TV*
+* [EdithSeedbox](https://index.edithseedbox.com/8:/) - *Movies / TV / Anime / [Telegram](https://t.me/EdithSeedBox)*
 * [103.222.20.150](http://103.222.20.150/ftpdata/) - *Movies* 
 * [188.165.227.112](http://188.165.227.112/portail/) - *Movies / TV* 
 * [103.135.208.2](http://103.135.208.2/Data/movies/) - *Movies / TV*
