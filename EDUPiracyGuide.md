@@ -181,6 +181,7 @@
 * [Devil Collection](https://mega.nz/folder/wQp0jaSC#cE7-P1fX0FkxU2LXAHm80A) - *Udemy Courses*
 * [Udemy Course Drive](https://mega.nz/folder/S90HhQZI#gwXB_hJ9pf-axTQpJp0G7g) - *Udemy Courses*
 * [CourseForFree](https://courseforfree.com/) - *Udemy Courses*  
+* [New Courses](https://mega.nz/folder/TyhGnIiR#XlHwR6qa4cZ3Tl1bSm2-QA) - *Udemy Courses*
 * [Download Online Tutorials Free](https://download.howtofree.org/) - *Udemy Courses* 
 * [Udemy Free Course](https://t.me/udemy_free_cource) - *Udemy Courses* 
 * [666GB Devil Web App](https://mega.nz/folder/7HRiUb7Q#xXXnIdhGxuPwxtz99BhPpg) - *Web App Development Courses*
@@ -199,6 +200,7 @@
 * [CertCommunity](https://www.certcommunity.org/forum/) - *IT Cert Courses*
 * [Top Linux Interview Questions & Answers](https://mega.nz/#F!K1MnlSzJ!fyLhNA7V_m1z9JZfPW0alg) - *Linux Interview Q&A*
 * [CHFI](https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg) - *Computer Hacking Forensic Courses*
+* [FreeCourseSEO](https://freecourseo.com/) - *GFX Design Courses / [Telegram](https://t.me/freecoursessite1)*
 * [Photoshop Courses](https://mega.nz/folder/Y6RXXKbJ#pnAdcdkSXw7wujTIhN5Blw) - *Photoshop Course Drive*
 * [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - *Download videos from Coursera* 
 * [Skillshare DL Guide](https://i.imgur.com/AIENK0K.png) - *Download videos from Skillshare*
@@ -612,6 +614,7 @@
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - *Pendulum Simulator*
 * [Traffic Simulation](https://traffic-simulation.de/) - *Traffic Flow Simulation* 
 * [Bridge Command](https://www.bridgecommand.co.uk/) - *Bridge Command Ship Simulator*
+* [Neptune](https://youtu.be/gTNVxHSemxA) or [ERS3D](http://www.ers3d.com/home/moduleInfo.do?moduleId=11&listId=92) - *Marine Engineering Room Simulator*
 * [Sectional Anatomy](https://www.sectional-anatomy.org/) - *Cross Sectional Educational MRI / CT Scans*
 * [Ray Optics Simulation](https://ricktu288.github.io/ray-optics/) - *Light Reflection / Refraction Simulator*
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) or [Mindat](https://www.mindat.org/) - *Mineralogy Database* 
