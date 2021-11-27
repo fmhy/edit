@@ -181,7 +181,8 @@
 * [RomHacking](https://www.romhacking.net/) - *Rom Translations & Hacks*
 * [datcheck](https://github.com/pkos/datcheck) - *Compare No-Intro / Redump dat files to rom or disc collection* 
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - *Gamecube iso.dec to ISO Converter*
-* [Pineappleea](https://pineappleea.github.io/ ) or [Yuzu-Updater](https://github.com/sinscove/Yuzu-Updater) - *Yuzu Updater*
+* [Cemu Guide](https://cemu.cfw.guide/) - *Cemu & BOTW Optimization Guide*
+* [Pineappleea](https://pineappleea.github.io/) or [Yuzu-Updater](https://github.com/sinscove/Yuzu-Updater) - *Yuzu Updater*
 * [YuzuModDownloader](https://github.com/amakvana/YuzuModDownloader) - *Yuzu Mod Downloader*
 * [EmuSAK UI](https://github.com/CapitaineJSparrow/emusak-ui) - *Download Switch Firmware & Keys*
 * [The Key Site Index](https://vault.titlekeys.ovh/) - *Wii U Key Sites*
