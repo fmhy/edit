@@ -107,6 +107,7 @@
 * [Ulauncher](https://ulauncher.io/) - *Application Launcher*
 * [WineHQ](https://appdb.winehq.org/) - *Wine Compatibility Database*
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - *Monitor & Log System Activity*
+* [Nanobench](https://github.com/andreas-abel/nanoBench) - *CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)*
 * [FSLint](http://www.pixelbeat.org/fslint/) - *Duplicate File Finder*
 * [XClicker](https://xclicker.pages.dev/) - *Autoclicker*
 * [CoreELEC](https://github.com/CoreELEC/CoreELEC) - *Kodi Based Operating System*
@@ -135,8 +136,9 @@
 * [Simple Terminal](https://st.suckless.org/), [Alacritty](https://github.com/alacritty/alacritty) or [Kitty](https://sw.kovidgoyal.net/kitty/overview/) - *Terminal Emulator*
 * [Electerm](https://electerm.github.io/electerm) - *Terminal / SSH / STP Client*
 * [Yakuake](https://apps.kde.org/yakuake/) - *Quake Style Terminal Emulator*
-* [Remontoire](https://github.com/regolith-linux/remontoire) - *Keybind Viewer for i3*
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - *Generate bonsai trees in your terminal*
+* [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - *App Image Launcher*
+* [Remontoire](https://github.com/regolith-linux/remontoire) - *Keybind Viewer for i3*
 * [fzf](https://github.com/junegunn/fzf) - *CLI based fuzzy finder*
 * [Timeshift](https://github.com/teejee2008/timeshift) - *Create System Snapshots & Restore*
 * [AppImageHub](https://appimage.github.io/) or [get-appimate](https://g.srev.in/get-appimage/) - *Download AppImages / [CLI](https://zap.srev.in/)*
