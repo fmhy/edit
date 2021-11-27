@@ -214,7 +214,7 @@
 * [TextFree](https://www.textfree.us/) - *Free Texting App*
 * [Kubool](https://www.gdpd.xyz/) - *Anonymous Confession App*
 * [OpenInWA](https://github.com/SubhamTyagi/openinwa) - *Number Free WhatsApp Chat*
-* [Watomatic](https://f-droid.org/packages/com.parishod.watomatic) - *WhatsApp & FB Messenger Auto Reply*
+* [Watomatic](https://f-droid.org/packages/com.parishod.watomatic) or [AutoResponder](https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDEhkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDGAA=:S:ANO1ljKlL8g&gsr=CjuKAzgKGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMSGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMYAA==:S:ANO1ljLE-Ks) - *Chat App Auto-Responders*
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - *Article / Link Viewer*
 * [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - *Track Github User Activity*
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - *Easily Open Links in Text via Share Function*
@@ -232,8 +232,10 @@
 * [Red Moon](https://github.com/LibreShift/red-moon) - *Screen Filter*
 * [sh-ort](https://sh-ort.app/) - *URL Shortener*
 * [RClone](https://github.com/x0b/rcx) - *Multi-Site Cloud Storage File Manager*
-* [Omega Launcher](https://github.com/otakuhqz/omega), [Lawnchair](https://lawnchair.app/), [NovaLauncher](https://novalauncher.com/), [Unlauncher](https://github.com/jkuester/unlauncher) or [Ratio](https://blloc.com/) - *App Launcher* 
+* [Omega Launcher](https://github.com/otakuhqz/omega), [Lawnchair](https://lawnchair.app/), [NovaLauncher](https://novalauncher.com/), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [Unlauncher](https://github.com/jkuester/unlauncher) or [Ratio](https://blloc.com/) - *App Launcher* 
 * [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) - *App Managers*
+* [Microsoft Launcher](https://www.microsoft.com/en-us/launcher) - *Microsoft Homescreen*
+* [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - *Android Power Menu Replacement*
 * [iFont](https://play.google.com/store/apps/details?id=com.kapp.ifont) - *Android Font Installer*
 * [Eruda](https://pastebin.com/7qSZXjDS) - *Console for mobile browsers / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [Github](https://github.com/liriliri/eruda)* 
 * [Termux](https://termux.com/) - *Terminal Emulator / Linux Environment / [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL)* 
@@ -285,6 +287,7 @@
 * [SmartPack-Kernel-Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager) - *Kernel Manager*
 * [Swappa](https://swappa.com/imei) or [SickW](https://www.sickw.com/) - *IMEI, MEID, ESN Checker*
 * [SWAP](https://forum.mobilism.org/search.php?keywords=swap+no+root&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - *Create SWAP file without Root*
+* [TabletFriend](https://github.com/Martenfur/TabletFriend) - *Custom Tablet Toolbars*
 
 ***
 
@@ -390,6 +393,7 @@
 * [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - *App Giveaway Sites*
 * [APK Generator](https://play.google.com/store/apps/details?id=com.aksapps.apkgenerator) or [APK Saver](https://play.google.com/store/apps/details?id=com.sdkdevelopers.apksaver) - *Save APK File for Installed Apps*
 * [Diggy](https://github.com/s0md3v/Diggy) - *Extract APK Endpoints*
+* [APKTool](https://github.com/iBotPeaches/Apktool) - *APK Reverse Engineering Tool*
 * [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) - *Install Google Apps into WSA Image*
 * [How-to Install Play Store Apps from Other Countries](https://rentry.co/29s6v)
 * [APKAdmin](https://apkadmin.com/) - *APK Hosting Site*
