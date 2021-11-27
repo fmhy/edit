@@ -172,6 +172,10 @@
 * [Steam.Design](https://steam.design/) - *Steam Background Cropper*
 * [Center.Steam](https://center.steam.design/) - *Center Steam Text*
 * [Wishlist Removals](https://steamcommunity.com/sharedfiles/filedetails/?id=1746978201) - *Remove Hidden Items from Steam Wishlist*
+* [Steam Ninja!](https://chrome.google.com/webstore/detail/steam-ninja/iafjcapblconlangblamhojmlpbdebhn) - *Steam Market Enhancement Extension*
+* [Steam Popularity Filter](https://chrome.google.com/webstore/detail/steam-popularity-filter/icflgpakhkkjeaefoedcbdbahmjopbdc) - *Steam Market Popularity Filter*
+* [CheapShark Deal Search](https://chrome.google.com/webstore/detail/cheapshark-deal-search/ahdfdhcljjiogoabcemgldinhgoemmjc) - *Steam Market Sales Search*
+* [Steam Inventory Helper](https://steaminventoryhelper.com/) - *Steam Inventory Enhancement Extension*
 
 ***
 
@@ -203,11 +207,14 @@
 * [GeyserMC](https://geysermc.org/) - *Join Minecraft Java Servers with Bedrock Client / [Consoles](https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles)* 
 * [CraftyControl](https://craftycontrol.com/) or [Fork](https://www.fork.gg/) - *Minecraft Server Manager*
 * [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) or [The Ether Project](http://theetherproject.me/) - *Minecraft Server Info*
+* [GeyserConnect](https://www.geyserconnect.net/) - *Connect Minecraft Bedrock to Java Servers*
+* [2Bored2Wait](https://github.com/themoonisacheese/2bored2wait) - *2B2T Queue Proxy*
 * [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization:zap:.283181/) - *Paper / Spigot Server Optimization Guide / Use Paper*
 * [mcsrvstat](https://mcsrvstat.us/) - *Server Status Updates*
 * [Salwyrr Launcher](https://www.salwyrr.com/) or [MultiMC5-Cracked](https://github.com/AfoninZ/MultiMC5-Cracked) - *Free Premium Minecraft Launchers*
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) - *Minecraft Modding API* 
 * [PVPRP](https://pvprp.com/) - *Minecraft Texture Packs*
+* [IrisShader](https://www.curseforge.com/minecraft/mc-mods/irisshaders) - *Fabric Shadermod for Minecraft*
 * [Nova Skin](https://minecraft.novaskin.me/), [NeedCoolShoes](https://www.needcoolshoes.com/) or [Blockbench](https://www.blockbench.net/)- *Minecraft Skin Editor* 
 * [Amidst](https://github.com/toolbox4minecraft/amidst) - *Minecraft World Overview Display Tool*
 * [The Minecraft Archive Project](http://map.crummy.com/) - *Minecraft World Archive*
@@ -256,6 +263,7 @@
 * [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - *Homebrew News & Guides*
 * [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - *Wii Homebrew Installer / [Find MAC](https://www.nintendo.com/consumer/systems/wii/en_na/includes/rvl-ht-int-find-mac-address.jsp)*
 * [WiiU Exploit](https://wiiuexploit.xyz/) - *WiiU Homebrew Installer*
+* [Wii U Hacks Guide](https://wiiu.hacks.guide/) - *Wii U Hacking Guide*
 * [Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)
 * [Homebrew Gang](https://thehbg.shop/main.html) - *Switch Homebrew Community*
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - *Switch Homebrew Subreddit*
@@ -275,6 +283,7 @@
 * [DarkSoftware](https://www.darksoftware.xyz/) - *PS4 / PS3 Firmware*
 * [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - *PS3 Homebrew Subreddit*
 * [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - *PSCX Development Emulator*
+* [Vita Guide](https://vita.hacks.guide/) - *PS Vita (TV) Custom Firmware*
 * [Tinfoil](https://tinfoil.io/) - *Switch Title Manager / File Browser* 
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) - *Multiplayer Switch Servers*
 * [CTGP Revolution](https://www.chadsoft.co.uk/) or [Wiiki Tockdom](http://wiki.tockdom.com/) - *Mario Kart Wii Mod* 
