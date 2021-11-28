@@ -20,6 +20,7 @@
 * [DZone](https://dzone.com/) - *Developer Tutorials*
 * [RedHat](https://developers.redhat.com/) - *Development Tutorials*
 * [Roadmap](https://roadmap.sh/) - *Developer Roadmaps / Guides* 
+* [DecodingDevOps](https://www.decodingdevops.com/) - *Developer Q&A*
 * [Python Discord](https://pythondiscord.com/resources/) - *Python Learning Resources*
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - *Python Guide*
 * [CodingBat](https://codingbat.com/) - *Python / Java Practice*
@@ -28,7 +29,7 @@
 * [A Byte of Python](https://python.swaroopch.com/) - *Learn Python*
 * [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - *Python Lessons*
 * [Real Python](https://realpython.com/) - *Python Tutorials*
-* [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - *Python Course*
+* [FutureCoder](https://futurecoder.io/) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - *Python Course*
 * [Tea Press](https://greenteapress.com/wp) - *Free Python Learning Books Green*
 * [VSCode.one](https://vscode.one/) - *VS Code Tutorials*
 * [Aquent Gymnasium](https://thegymnasium.com/) - *Courses* 
@@ -57,6 +58,10 @@
 * [FCS](https://freecoursesite.com/) - *Programing Tutorials*
 * [w3schools](https://www.w3schools.com/) - *Programing Tutorials*
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - *Programming Courses*
+* [Coding Blocks](https://codingblocks.freehotspot.workers.dev/0:/) - *Programming Courses*
+* [Coding Ninjas](https://codingninjas2.freehotspot.workers.dev/), [2](https://codingninjas.freehotspot.workers.dev/), [3](https://codingninjas1.freehotspot.workers.dev/) - *Programming Courses*
+* [GFG Courses](https://gfg.freehotspot.workers.dev/) - *Programming Courses*
+* [AllCoursesApna](https://competitiveprogrammingallcourses.apna.workers.dev/0:/), [2](https://allcourseszip.apna.workers.dev/) - *Competitive Programming Courses*
 * [HelloWorldCollection](http://helloworldcollection.de/) - *Hello World Programming Collection*
 * [VisualGo](https://visualgo.net/) - *Data Structures & Algorithm Animations*
 * [HTMLDog](https://htmldog.com/) - *HTML / CSS / JavaScript Tutorials* 
@@ -178,6 +183,13 @@
 * [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - *Sites to Post Your Startup*
 * [500+ Free Tools For Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) 
 * [Wokwi](https://wokwi.com/) - *Arduino / ESP32 Board Simulator*
+* [OpenCV](https://opencv.org/) - *A.I. Vision Library*
+* [AForge.NET](https://github.com/andrewkirillov/AForge.NET) - *A.I. Vision Framework*
+* [OpenCog](https://opencog.org/) - *Artificial Intelligence Framework / [GitHub](https://github.com/opencog)*
+* [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - *Machine Learning Framework*
+* [OpenML](https://www.openml.org/) - *Machine Learning Data*
+* [Cyberbotics](https://cyberbotics.com/) - *Robot Simulator*
+* [TheDev](https://thedev.id/) or [Dev.page](https://dev.page/) - *Free Developer Homepages*
 
 ***
 
@@ -224,7 +236,6 @@
 * [Jamstack Generators](https://jamstack.org/generators/) - *Static Site Generators*
 * [Sketch2Code](https://sketch2code.azurewebsites.net/) - *Convert Hand-Drawn Designs into HTML*
 * [Straw.Page](https://straw.page/) - *Simple Site Creator*
-* [TheDev](https://thedev.id/) - *Free Static Personal Sites*
 * [LocalXpose](https://localxpose.io/) - *Reverse Proxy*
 * [BuiltWith](https://builtwith.com/) - *Find Out What Sites are Built With*
 * [Bootstrap](https://bootstrapmade.com/) or [TheMeWagon](https://themewagon.com/) - *Website Templates & Themes*
@@ -264,7 +275,7 @@
 * [HeidiSQL](https://www.heidisql.com/) - *SQL Manager*
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - *Captcha Systems*
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - *Search & Analytics Engine*
-* [Algolia](https://www.algolia.com/) or [FusionBot](https://www.fusionbot.com/) - *Search API*
+* [Algolia](https://www.algolia.com/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/) or [FusionBot](https://www.fusionbot.com/) - *Search API*
 * [GetButton](https://getbutton.io/) - *Get free 'Message Us' Button for your Site*
 * [Error404](https://error404.fun/) - *Free 404 Pages*
 * [HandShake](https://handshake.org/) - *Decentralized Certificate Authority & Naming*
@@ -302,8 +313,9 @@
 * [Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes) - *Themes for Wordpress*
 * [Elementor Kit](https://mega.nz/folder/mEkDBSYI#WZVE8ptR90ZH00nBzmDIOw) - *1400+ Elementor Premium Templates*
 * [KokoAnalytics](https://www.kokoanalytics.com/) - *Wordpress Analytics*
-* [vichan](https://github.com/vichan-devel/vichan) - *Imageboard Software Package*
-* [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - *Self-Hosted Private Tracker*
+* [vichan](https://github.com/vichan-devel/vichan) - *Imageboard Hosting*
+* [ProBoards](https://www.proboards.com/) - *Free Forum & Imageboard Hosting*
+* [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - *Private Tracker Hosting*
 * [UUID Tools](https://www.uuidtools.com/) - *UUID Generator*
 
 ***
@@ -352,7 +364,7 @@
 * [PM2](https://pm2.keymetrics.io/) - *Process Manager*
 * [React95](https://react95.io/) - *Windows 95 React Components*
 * [Redex](https://fbredex.com/) - *Android Bytecode Optimizer*
-* [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/) or [LS Graphics](https://www.ls.graphics/) - *App & Site Mockups*
+* [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [DeviceFrames](https://deviceframes.com/) or [LS Graphics](https://www.ls.graphics/) - *App & Site Mockups*
 
 ***
 
@@ -372,8 +384,12 @@
 * [Electronic Arts GitHub](https://github.com/electronicarts) - *EA GitHub Repos*
 * [Xelu's Controller Prompts](https://thoseawesomeguys.com/prompts/) - *Free Game Prompts / [Video](https://youtu.be/d6GtGbI-now)*
 * [Bookshelf](https://github.com/Darkhax-Minecraft/Bookshelf) - *Minecraft Mod Code Support*
+* [plugin-sdk](https://github.com/DK22Pac/plugin-sdk) - *GTA Plugin Development SDK*
+* [v2saconv](https://github.com/DK22Pac/v2saconv) - *GTAV to GTASA Resource Converter*
+* [samp-node-lib](https://github.com/peterszombati/samp-node-lib) - *GTASA Multiplayer Scripting Library*
 * [VEEDI](https://www.veedi.com/) - *Create Game Walkthrough Videos*
-* [CraftPix](https://craftpix.net/freebies/), [Kenney](https://www.kenney.nl/), [/r/GameAssets](https://www.reddit.com/r/gameassets/), [UnityAssets4Free](https://unityassets4free.com/) or [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free) - *Game Development Assets*
+* [CraftPix](https://craftpix.net/freebies/), [Kenney](https://www.kenney.nl/), [/r/GameAssets](https://www.reddit.com/r/gameassets/), [UnityAssets4Free](https://unityassets4free.com/), [UnityFreaks](https://www.unityfreaks.com/) or [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free) - *Game Development Assets*
+* [xonotic](https://github.com/xonotic) or [Warsow](https://github.com/Warsow) - *FPS Game Assets*
 
 ***
 
@@ -543,6 +559,7 @@
 * [overmind](https://github.com/DarthSim/overmind) or [foreman](https://github.com/ddollar/foreman) - *Process Managers*
 * [cpp.sh](http://cpp.sh/) - *Online C++ Compiler*
 * [asdf](https://asdf-vm.com/) - *Multi-Runtime Management CLI*
+* [substitute](https://github.com/comex/substitute) - *Free Runtime Modification Library*
 * [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) - *Machine Learning Art Resource Index* 
 * [Sourcegraph](https://sourcegraph.com/) - *Universal Code Search*
 * [searchcode](http://searchcode.com/) or [PublicWWW](http://publicwww.com/) - *Source Code Search*
@@ -612,6 +629,6 @@
 * [myCompiler](https://www.mycompiler.io/), [IDE One](https://www.ideone.com/) or [Wandbox](https://wandbox.org/) - *Online Compiler* 
 * [Notebooks.azure](https://notebooks.azure.com/) - *Access Jupyter notebooks* 
 * [CoCalc](https://cocalc.com/) - *Virtual online workspace*
-* [CodePen](https://codepen.io/) - *Code Sandbox* 
+* [CodePen](https://codepen.io/) or [Liveweave](https://liveweave.com/) - *Code Sandbox* 
 * [tio.run](https://tio.run/) - *Programming Language Interpreters* 
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - *Online Python Editor & Tester*
