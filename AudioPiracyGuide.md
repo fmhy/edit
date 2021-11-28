@@ -75,7 +75,7 @@
 * [KeyGenMusic](http://www.keygenmusic.net/) or [keygenmusic.tk](https://keygenmusic.tk/) - *Music from keygens, cracks, trainers, intros* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - *East African Recordings* 
-* [Free Music Archive](https://www.freemusicarchive.org/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* - *Royalty Free Music* 
+* [Free Music Archive](https://www.freemusicarchive.org/), [StreamBeats](https://www.streambeats.com/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
 * [Battle of the Bits](https://battleofthebits.org/) - *User-Made Music Competitions* 
 * [Openwhyd](https://openwhyd.org/) - *Music Sharing Community / [Chrome](https://chrome.google.com/webstore/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)*
 * [Bandcamp New Tab](https://chrome.google.com/webstore/detail/bandcamp-new-tab/nbabnnemlofbllcflfjpjgkgmcdbeemc) - *Random Bandcamp Songs on New Tabs*
@@ -147,6 +147,7 @@
 * **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_relaxation) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_relaxation)** - *Ambient Mobile Apps* 
 * [lofi.cafe](https://lofi.cafe/) - *Lo-fi Radio*
 * [Focusli](https://www.focusli.com/) - *Lo-fi Radio*
+* [DevTunes FM](https://radio.madza.dev/) - *Lo-Fi Radio*
 * [Viberoom](https://viberoom.audio/) - *Lo-fi Hip-Hop Radio*
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - *Create Room / Lo-Fi Player*
 * [Music For Programming](http://musicforprogramming.net/) - *Music for Focus* 
