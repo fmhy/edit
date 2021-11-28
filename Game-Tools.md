@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/t9AlK89.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/2Vz6sP8.png)** - *For mobile users*
 
 ***
 *** 
@@ -71,7 +71,7 @@
 * [DsHidMini](https://github.com/ViGEm/DsHidMini) - *Use PS3 Controllers on Windows [Guide](https://vigem.org/projects/DsHidMini/How-to-Install/)*
 * [JoyToKey](https://joytokey.net/) - *Controller Emulator*
 * [Lowkey](https://lowkey.gg/) - *Record / Screenshot Gameplay* 
-* [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
+* [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) or [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
 * [Pokemon Typechart](https://pokemondb.net/type) - *Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)*
 * [PokeList](https://pokemonlist.netlify.app/) or [Mon](https://github.com/dbednar230/mon) - *Pokedexes*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
@@ -114,7 +114,6 @@
 * [ElDewrito](https://dewritohub.com/) - *Halo Online Mod Tool / [GitHub](https://github.com/ElDewrito) / [Discord](https://discord.com/invite/0TKY0SDEUHAWL4sG), [2](https://discord.com/invite/gtqM3s5)*
 * [CnCNet](https://cncnet.org/) - *Multiplayer Command & Conquer* 
 * [NV: Multiplayer](https://nv-mp.com/) - *Fallout New Vegas Multiplayer Project / [Discord](https://discord.com/invite/mKVdhmEDrW)*
-* [FiveM](https://fivem.net/) - *Modded GTAV Servers*
 * [FaceItFinder](https://faceitfinder.com/) - *FaceIt Stats Search*
 * [BF2142 Reclamation](https://battlefield2142.co/) - *BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)*
 * [BFStatus](https://www.bfstatus.com/) - *Battlefield Game Server Statuses*
@@ -131,7 +130,7 @@
 * [Surrenderat20](https://www.surrenderat20.net/) - *League of Legends News*
 * [OP.GG](https://www.op.gg/) - *League of Legends Leaderboards & Stats*
 * [Porofessor](https://porofessor.gg/) - *Live League of Legends Game Stats*
-* [Dota2ProTracker](https://www.dota2protracker.com/) - *Dota 2 Stats Tracker*
+* [Dota2ProTracker](https://www.dota2protracker.com/) or [16-Bits](https://16-bits.org/) - *Dota 2 Stats Tracker*
 * [Project Era](https://erafn.glitch.me/#downloads) - *Play Old Fortnite Seasons*
 * [HaloDotAPI](https://developers.halodotapi.com/) - *Halo Stats, MOTD & UGC API*
 * [Online Fix](https://online-fix.me/) - *Online Game Cracks / [Discord](https://discord.gg/yExgFYncMD)* 
@@ -190,6 +189,33 @@
 
 ***
 
+## ▷ GTA Tools
+
+* [FiveM](https://fivem.net/) - *Modded GTAV Servers*
+* [GTA-V-patcher](https://github.com/NicolasR/GTA-V-patcher) - *Automate GTAV Patches*
+* [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - *GTA5 FidelityFX Super Resolution Mod*
+* [Essential Menu](https://github.com/anonik9900/Essential-Menu) - *GTAV Mod Menu*
+* [GTAV-SimpleGangWar](https://github.com/David-Lor/GTAV-SimpleGangWar) - *GTAV Gang War Script*
+* [GTA-V-Suspender](https://github.com/gyfen/GTA-V-Suspender) - *Suspend GTAV*
+* [Wanted-Music-IV](https://github.com/ClonkAndre/Wanted-Music-IV) - *GTAV Wanted Music in GTAIV*
+* [re3](https://github.com/td512/re3) - *GTAIII & Vice City Mods*
+* [gta-city-of-lost-heaven](https://github.com/RadValentin/gta-city-of-lost-heaven) - *GTAVC Mafia Themed Mod*
+* [Vali's City](https://github.com/RadValentin/vali-city) - *GTAVC Matrix Themed Mod*
+* [skin-switcher](https://github.com/PrographerMan/skin-switcher) - *GTAVC Skin Switching Mod*
+* [GTA-Vice-City-Interactive-Map](https://github.com/denizariyan/GTA-Vice-City-Interactive-Map) - *GTAVC Interactive Map Mod*
+* [Jetpack Downgrader](https://github.com/Zalexanninev15/Jetpack-Downgrader) - *GTASA Downgrader*
+* [gtasa-savegame-editor](https://github.com/Kronavarb/gtasa-savegame-editor) - *GTASA Save Editor*
+* [SAMP-GPS](https://github.com/janglapuk/SAMP-GPS) - *GTASA Multiplayer GPS*
+* [IMFX](https://github.com/DK22Pac/imfx) - *GTASA Improved FX Mod*
+* [effects-loader](https://github.com/DK22Pac/effects-loader) - *GTASA Effects Editor*
+* [advanced-aiming-mod](https://github.com/DK22Pac/advanced-aiming-mod) - *GTASA Improved Aiming Mod*
+* [VehFuncs](https://www.mixmods.com.br/2020/12/vehfuncs-v2-2-beta/) - *GTASA Vehicle Mods*
+* [mobile-hud](https://github.com/DK22Pac/mobile-hud) - *GTASA Mobile HUD Mod*
+* [Driver](https://github.com/CT83/Driver) or [GTASA-Driving](https://github.com/ParmuSingh/gtasa-driving) - *GTASA A.I. Driving Mod*
+* [Grand-Theft-Auto-1-Renderware-Edition](https://github.com/wakka387/Grand-Theft-Auto-1-Renderware-Edition) - *Port GTA 1 & London 69/61 to GTA III/VC/SA*
+
+***
+
 ## ▷ Minecraft Tools
 
 * **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** 
@@ -221,6 +247,7 @@
 * [Amulet](https://www.amuletmc.com/) - *Minecraft Map Editor / Viewer*
 * [MineAtlas](http://mineatlas.com/) - *Minecraft Seed Map*
 * [Terra](https://github.com/PolyhedralDev/Terra) - *Minecraft World Generator*
+* [Squid Game](https://phoenixsc.me/download-links/squid-game-1-17-1/) - *Minecraft Squid Game Map*
 * [TerraForged](https://www.curseforge.com/minecraft/mc-mods/terraforged) - *Improved Biomes Mod*
 * [Biomes-O-Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) - *Extra Biomes Mod*
 * [Water-Physics-Overhaul](https://www.curseforge.com/minecraft/mc-mods/water-physics-overhaul) - *Realistic Minecraft Water Physics*
@@ -259,6 +286,7 @@
 
 # ► Homebrew 
 
+* [Digiex](https://digiex.net/forums/) - *Console Modding / Homebrew Guides*
 * [Homebrew Guides](https://rentry.co/Guides) - *Homebrew Guides & Setups*
 * [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - *Homebrew News & Guides*
 * [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - *Wii Homebrew Installer / [Find MAC](https://www.nintendo.com/consumer/systems/wii/en_na/includes/rvl-ht-int-find-mac-address.jsp)*
@@ -313,9 +341,6 @@
 * [Otis_Inf Camera Mods](https://redd.it/hvttbd) - *Game Camera Mods*
 * [injectSMAA](http://mrhaandi.blogspot.com/p/injectsmaa.html) - *SMAA Injection Tool*
 * [OpenVR FSR](https://github.com/fholger/openvr_fsr) - *Steam VR FidelityFX Super Resolution Mod*
-* [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - *GTA5 FidelityFX Super Resolution Mod*
-* [Essential Menu](https://github.com/anonik9900/Essential-Menu) - *GTA5 Mod Menu*
-* [re3](https://github.com/td512/re3) - *GTA III & Vice City Mods*
 * [TS4 Rebels](https://docs.google.com/spreadsheets/d/1TcbNsTFQD0YhqRDJMJr8c2Cna-JuevazErvlo6mXivY/edit#gid=0) - *Sims 4 Mods*
 * [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - *Unlock Genshin Impact FPS Cap*
 * [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - *Unlock Roblox FPS Cap*
