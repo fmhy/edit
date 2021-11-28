@@ -41,7 +41,7 @@
 * [AIDraw](https://ai-draw.tokyo/en/) - *Turn Photos into Line Drawings* 
 * [primitive.js](https://ondras.github.io/primitive.js/) - *Redraw Images with Geometric Shapes* 
 * [PBNify](https://pbnify.com/) - *Paint by Number Tool*
-* [Inpaint](https://theinpaint.com/) - *Remove Objects from Photos* 
+* [Inpaint](https://theinpaint.com/) or [Cleanup.pictures](https://cleanup.pictures/) - *Remove Objects from Photos* 
 * [InsertFace](https://insertface.com/) - *Selfie Frames, Backgrounds & Effects*
 * [Frame360](https://frame360.net/) - *Image Frames*
 * [Supershots](https://superblog.ai/supershots/) - *Add Backgrounds to Images*
@@ -78,7 +78,7 @@
 ## ▷ Restoration
 
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - *Image Restoration Algorithms*
-* [Petalica Paint](https://petalica-paint.pixiv.dev/index_en.html), [Algorithmia](https://demos.algorithmia.com/colorize-photos), [MyHeritage In Color](https://www.myheritage.com/incolor) or [Colorizer](https://deepai.org/machine-learning-model/colorizer) - *Image Colorization* 
+* [Petalica Paint](https://petalica-paint.pixiv.dev/index_en.html), [Algorithmia](https://demos.algorithmia.com/colorize-photos), [MyHeritage In Color](https://www.myheritage.com/incolor), [9Mail Restoration](https://9may.mail.ru/restoration/?lang=en) or [Colorizer](https://deepai.org/machine-learning-model/colorizer) - *Image Colorization* 
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - *Anime Image Colorization*
 * [GPEN-Colab](https://github.com/bycloudai/GPEN-colab) - *Face Restoration / Colorization Tool*
 * [Color-Dragon](https://www.color-dragon.tk/) - *Add more Color to Images*
@@ -129,7 +129,7 @@
 
 * **[Awesome GIF](https://github.com/davisonio/awesome-gif)** - *GIF Resource Index*
 * [Giphy](https://giphy.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/) or [Animated Images](https://www.animatedimages.org/) - *Find & Download GIFs* 
-* [EZGif](https://ezgif.com/), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Gif Maker](https://gifmaker.me/) - *GIF Creator / Editor*
+* [EZGif](https://ezgif.com/), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFnText](https://www.gifntext.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Gif Maker](https://gifmaker.me/) - *GIF Creator / Editor*
 * [gifify](https://github.com/vvo/gifify) or [Video-to-GIF](https://hnet.com/video-to-gif/) - *Video to GIF Converter*
 * [GifRun](https://gifrun.com/) - *Make GIFs From Online Videos*
 * [ScreenToGif](https://www.screentogif.com/) - *GIF Recording Software* 
@@ -183,9 +183,8 @@
 * **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - *Download Stock Photos*
 * **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)** - *Download Icons*
 * **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)** - *Search by Image*
-* [/r/BLKMARKET](https://reddit.com/r/blkmarket), [GraphixTree](https://graphixtree.com/), [PSDLY](https://www.psdly.com/), [CreativeFabrica](https://send.cm/s/1A/Bundles) / [PW](https://pastebin.com/VW1eEdJa) or [creaxy](https://www.creaxy.com/) - *Graphic Design Elements*
+* [GFX Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources) - *Graphic Design Elements*
 * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en), [Cute Save Button](https://github.com/Dezaimasu/cute-button) or [Download all Images](https://add0n.com/save-images.html) - *Image Download Extensions*
-* [Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources) - *Images, Mockups, Templates, Plugins, Themes & more*
 * [RootAbout](https://rootabout.com/) - *Archive / OpenlLibrary Reverse Image Search* 
 * [PicTriev](http://www.pictriev.com/) - *Find Look-Alike Images* 
 * [PimEyes](https://pimeyes.com/en/) - *Reverse Face Image Search* 
@@ -241,15 +240,15 @@
 * [3DBrute](https://3dbrute.com/), [3DZip](https://www.3dzip.org/) or [DesignConnected](https://www.designconnected.com/) - *3D Furniture Models*
 * [Halloween.WannaThis](https://halloween.wannathis.one/) - *3D Halloween Models*
 * [DEFCAD](https://defcad.com/) - *3D Gun Models*
+* [Keygen](https://keygen.co/ ) - *3D Key Model Generator*
 * [CC0 Textures](https://cc0textures.com/) - *Textures for 3D Models* 
 * [Generated Photos](https://generated.photos/) - *AI Generated Model Photos*
 * [Blender](https://www.blender.org/) - *Open Source 3D Modeler / 2D Animation / Video Editor*
-* [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketch.Me](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [Chakoku](https://github.com/itta611/ChokokuCAD), [PovRay](http://www.povray.org/), [PicoCad](https://johanpeitz.itch.io/picocad) - *3D Modeling Tool, [Vectary](https://www.vectary.com/) or [Art of Illusion](http://aoi.sourceforge.net/) - *3D Modeling / Art Design Tool*
+* [3D Modeling Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps) - *Free 3D Modeling Apps* 
 * [MakeHuman](http://www.makehumancommunity.org/) - *3D Humanoid Modeler*
 * [posemy](https://app.posemy.art/), [quickposes](https://quickposes.com/en) or [justsketch](https://app.justsketch.me/) - *Posing Tools*
 * [FaceMaker](http://facemaker.uvrg.org/) - *Face / Avatar Generator* 
 * [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - *AI Art Generation Guide*
-* [FreeCAD](https://www.freecadweb.org/) - *3D Parametric Modeler*
 * [vrn](https://cvl-demos.cs.nott.ac.uk/vrn/) - *3D Face Reconstruction* 
 * [3D Transformer](https://www.3dtransformer.com/) - *Rotate 3D Images*
 * [Ameede](https://www.ameede.com/) - *CNC / Laser Design Vectors*
