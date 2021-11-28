@@ -218,6 +218,7 @@
 
 ## ▷ Classic Sites
 
+* [GRTBooks](http://grtbooks.com/)
 * [Classic Bookshelf](http://www.classicbookshelf.com/library/)
 * [Page by Page Books](https://www.pagebypagebooks.com/) 
 * [Luminarium](http://www.luminarium.org/) 
@@ -407,12 +408,14 @@
 * [PupilGarage](http://www.pupilgarage.com/)
 * [Ed_Books](https://t.me/Ed_Books) 
 * [Libribook](https://libribook.com/) 
+* [BookGoldMine](https://www.bookgoldmine.com/)
 * [Educational Archive](http://s2.bitdownload.ir/)
 * [Penn Libraries](http://digital.library.upenn.edu/) + *[Index](http://digital.library.upenn.edu/books/)*
 * [s2.bitdl.ir](http://s2.bitdl.ir/Ebook/)
 * [114.116.28.83](http://114.116.28.83/)
 * [Heaven](https://drive.google.com/drive/folders/1hxe7Des-ooQpamAtjyR7CX-k_hyqlQ7Q)
 * [Uloz Archive](https://uloz.to/folder/8fpAg2rwEcYh/name/Large-Book-Collection) 
+* [FreeBookCentre](http://www.freebookcentre.net/)
 * [Wikiversity](https://www.wikiversity.org/) - *Learning Resources, Guides, Quizzes, Tools & More*
 * [OpenEdition](https://www.openedition.org/) - *Educational Books / Journals* 
 * [Saylor Academy](https://learn.saylor.org/) - *Courses* 
@@ -509,6 +512,7 @@
 * [The National Archives](https://nationalarchives.gov.uk/) - *UK Historical Documents*
 * [History Newsboys of 1899](https://drive.google.com/drive/u/0/mobile/folders/10rKtVNd18i30mrXwIjFnMMPUBveKNdOO?usp=sharing) - *Books / Documents*
 * [Carti](https://enryo.ro/carti/) - *Japanese Martial Arts History Books*
+* [Van Gogh Letters](http://vangoghletters.org/vg/) or [VGGallery](http://vggallery.com/) - *Vincent van Gogh Letters*
 
 ***
 
@@ -852,7 +856,7 @@
 * [MangaUpdates](https://www.mangaupdates.com/) - *Manga Release Updates*  
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
 * [MangaEditor](https://moeka.me/mangaEditor/) - *Online Manga Editor*
-* [Anity](https://redd.it/g372gu), [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en) or [Scanlate](https://scanlate.io/) - *Manga Translator*
+* [Anity](https://redd.it/g372gu), [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en), [manga-translator](https://github.com/cameronkinsella/manga-translator) or [Scanlate](https://scanlate.io/) - *Manga Translator*
 * [Tenma](https://github.com/Tenma-Server/Tenma), [Mango](https://github.com/hkalexling/Mango) or [Komga](https://komga.org/) - *Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)*
 * [Onodera](https://github.com/onoderaproject/onodera) - *Anime & Manga Database*
 
@@ -925,6 +929,7 @@
 * [Magazines4U](https://t.me/Magazines4U) - *Telegram* 
 * [newspaper_archive](https://t.me/newspaper_archive) - *Telegram*
 * [BookCrush Newsstand](https://t.me/BookCrushNewsstand) - *Telegram*
+* [WhatsNws](https://t.me/whatsnws) - *Telegram*
 * [World Mags](https://www.worldmags.net/)
 * [World of Magazine](https://www.worldofmagazine.com/)
 * [PDF Magazines Download](https://pdf-magazines-download.com/)
@@ -959,6 +964,7 @@
 * **[Google Newspaper Search](https://news.google.com/newspapers)**
 * **[Newspapers Magazines](https://t.me/newspapersmagaziness)** - *Telegram* 
 * [BookCrush Newsstand](https://t.me/BookCrushNewsstand) - *Telegram*
+* [WhatsNws](https://t.me/whatsnws) - *Telegram*
 * [Sanet.st](https://sanet.st/newspapers/)
 * [Elephind](https://www.elephind.com/) - *Historical Newspaper Search*
 * [EngNewspapers](https://vk.com/engnewspapers) - *Telegram*
@@ -1017,6 +1023,7 @@
 * [ebookhunter](https://www.ebookhunter.net/request-ebooks/) - *Books* 
 * [VK eBook Sharing Group](https://vk.com/club162811046) - *Books* 
 * [FreeNovelsGroup](https://t.me/FreeNovelsGroup) - *Books / Telegram* 
+* [/r/alexandria](https://www.reddit.com/r/alexandria/) - *Esoteric / Occults Books*
 * [/r/textbook_piracy](https://reddit.com/r/textbook_piracy)
 * [/r/textbookrequest](https://reddit.com/r/textbookrequest)
 * [/r/Scholar](https://reddit.com/r/Scholar)
