@@ -33,12 +33,13 @@
 * [Neverland](http://www.neverland.ws/index.html) - *Piracy Index / [Links](https://rentry.co/oo9ri)* 
 * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr) - *Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)*
 * [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - *Piracy Index*
-* [Similar Sites](https://www.similarsites.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
+* [Similar Sites](https://www.similarsites.com/), [SimilarWeb](https://www.similarweb.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
 * [DirtyWarez](https://dirtywarez.org/) - *Ranks Sites*
 * [10 Words](https://discover.10words.io/) - *App / Tool Discovery*
 * [pilssken](https://pilssken.neocities.org/warez/) - *Piracy Index* 
 * [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - *Piracy Index / [Warning](https://i.imgur.com/jtT9GDB.png)*
-* [Ripped Guide](https://ripped.guide/) - *Piracy Site / Tool Index*
+* [Ripped Guide](https://ripped.guide/) - *Piracy Index*
+* [PiratezParty](https://github.com/SpamVerse/Piratezparty) - *Piracy Index / [Telegram](https://t.me/piratezparty)*
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - *Software / Tool Index*
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software Index* 
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software Index*
@@ -58,7 +59,7 @@
 * [RefDesk](https://www.refdesk.com/facts.html) - *Site / Tool Index*
 * [Illegal Services](https://git.teknik.io/Illegal-Services/Illegal_Services) - *Site / Tool Index App [Discord](https://discord.gg/577AWghYtx)*
 * [Product Hunt](https://www.producthunt.com/) - *Site / Tool Index*
-* [Useful Interweb](https://usefulinterweb.com/) - *Daily Website Index*
+* [Useful Interweb](https://usefulinterweb.com/) or [Daily Useful Links](https://t.me/DailyUsefulLINKS) - *Daily Websites*
 * [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - *Chinese Site / Tool Index*
 * [Mostly Free](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - *Site / Tool Index*
 * [iBiblio](https://www.ibiblio.org/) - *Site / Tool Index* 
@@ -187,6 +188,7 @@
 * [AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) - *Products / Services*
 * [AppSumo Freebies](https://appsumo.com/tools/freebies/) - *Apps*
 * [FreeCycle](https://www.freecycle.org/) - *People giving away free stuff*
+* [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - *Books*
 * [Dolly Parton’s Imagination Library](https://imaginationlibrary.com/) - *Book Gifting Program (For Children)*
 * [FreeSteamOffers_Bot](https://t.me/FreeSteamOffers_Bot/) - *Telegram*
 * [/r/eFreebies](https://reddit.com/r/eFreebies) 
@@ -215,7 +217,7 @@
 * **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_conversational_chatbots)** - *Chat with AI*
 * **[Live Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)** - *Watch Live Webcams*
 * **[HeyFromTheFuture](https://heyfromthefuture.com/)** - *What People Wish they knew at your Age*
-* **[LMGTFY](http://www.lmgtfy.com/)**, [Just Google](https://www.just-google.it/), [Just Fucking Google](https://www.just-fucking-google.it/) or [GIYBF](http://giybf.com/) - *Remind People that Google Exists* 
+* **[LMGTFY](http://www.lmgtfy.com/)**, [Just Google](https://www.just-google.it/), [Just Fucking Google](https://www.just-fucking-google.it/), [LetMeGoogleThat](https://letmegooglethat.com/) or [GIYBF](http://giybf.com/) - *Remind People that Google Exists* 
 * **[Fucking Homepage](https://fuckinghomepage.com/)** - *Daily Interesting Stuff Homepage*
 * **[The GIF Pronunciation Page](http://www.olsenhome.com/gif/)** - *How to Pronouce "GIF"*
 * **[PointerPointer](https://pointerpointer.com/)** - *Get Your Pointer Pointed At* 
@@ -277,6 +279,7 @@
 * [Inspirograph](https://nathanfriend.io/inspirograph/) - *Inspirograph Tool*
 * [SpirographN](http://seedcode.com/SpirographN/sgn.html) - *Spirograph Tool*
 * [myMrLx](https://codepen.io/davidpanik/full/myMrLx/) - *Spiral Art Generator* 
+* [Mondrian And Me](https://mondrianandme.com/) - *Mondrian Art Creator*
 * [bomomo](https://bomomo.com/) - *Digital Art Creator*
 * [Random Art](http://www.random-art.org/) - *Random Art Generator*
 * [Periodicity](https://williamhoza.com/periodicity/) - *Harmonic Motion Patterns*
@@ -318,6 +321,7 @@
 * [No Paint](https://nopaint.art/) - *Press "Paint" if you like what you see, "No" if you don't* 
 * [BubblesPop](https://bubblespop.netlify.app/) or [Relax](https://calming.netlify.app/) - *Pop Bubble Wrap* 
 * [ClickToRemove](http://www.clicktoremove.com/) - *Click to Remove Text*
+* [Koalas to the Max](http://www.koalastothemax.com/) - *Make Smaller & Smaller Dots*
 * [Mebious](https://mebious.wirechan.org/) - *Upload Random Images / Text to Public Wall*
 * [RolePlayer](https://www.roleplayer.me/) - *Roleplaying Social Network*
 * [The Editing Room](https://www.the-editing-room.com/) - *Funny abridged movie scripts*
@@ -371,8 +375,8 @@
 * [BD Stupidity Archive](https://discord.gg/5qgrj9a3NQ) - *Archive of BetterDiscord Stupidity*
 * [webgbcam](https://maple.pet/webgbcam/) - *Gameboy Camera in Browser*
 * [The Wolfman Museum of Art ](http://wolfmanmuseum.org/) - *Virtual Museum*
-* [Zalgo](http://eeemo.net/), [lingojam](https://lingojam.com/WeirdTextGenerator) or [coolfont](https://coolfont.org/) - *Text style generators* 
 * [Either](http://either.io/) - *Would You Rather* 
+* [Cake](http://www.redkid.net/generator/cake/) - *Cake Writing Generator*
 * [Nightmare Machine](http://nightmare.mit.edu/) - *Scary AI generated imagery*
 * [Botnik](https://botnik.org/) - *Word Remixer* 
 * [Blue Ball Machine 2](https://blueballmachine2.ytmnd.com/) - *Full Page Chain Reaction Machine*
@@ -388,6 +392,7 @@
 * [What Happened in my Birthyear](http://whathappenedinmybirthyear.com/) - *Find out what happened on your birthyear* 
 * [WTM](https://whatthemovie.com/) - *Guess Movie from Screenshot* 
 * [Kittenwar!](http://www.kittenwar.com/) - *Rate Kittens*
+* [FFACE](https://fface.co/) - *Rate Dumb Faces*
 * [Click Brawl](https://clickbrawl.com/eternal-fight) - *Collaborative Click Wars*
 * [Popcat](https://popcat.click/) - *Worldwide Popcat Clicking Competition*
 * [RPS101](http://www.umop.com/rps101.htm) - *101 Gesture Rock-Paper-Scissors*
@@ -472,6 +477,7 @@
 * [Common Voice](https://www.saveriomorelli.com/commonvoice/) - *Help Teach a Machine How to Talk* 
 * [iFake](https://ifaketextmessage.com/) - *Make Fake Text Conversation* 
 * [SecretRickRoll](https://www.secretrickroll.com/) - *Custom Rick Roll Generator* 
+* [rroll.to](https://rroll.to/) - *Rick Roll Link Shortener*
 * [FOAAS](https://github.com/tomdionysus/foaas) - *Automate Telling People to Fuck Off*
 * [The Fed](https://thefed.app/) - *Central Banking Game* 
 * [Money printer go BRRR](https://brrr.money/) - *Print it, baby!* 
@@ -483,6 +489,7 @@
 * The Nut Button - [Android](https://play.google.com/store/apps/details?id=com.james.nut) / [iOS](https://apps.apple.com/gb/app/the-official-nut-button-meme/id1462124556) - *You press the Button, it says Nut*
 * [nooooooooooooooo.com](http://www.nooooooooooooooo.com/) - *Vader NO Button*
 * [Make-A-Wish Foundation](https://discord.gg/pZZ3STQZ9Y) - *100% Real Make-A-Wish*
+* [ChrisMckenzie](https://chrismckenzie.com/) - *:D D:*
 * [Is It A Cat?](https://isitacat.com/) - *Cat Image Detector* 
 * [Is It Christmas?](https://isitchristmas.com/) or [Is It Halloween Yet?](https://www.isithalloweenyet.com/) - *Find Out if it's a Holiday*
 * [The.Matrix-ASCII](http://takeovertheworld.org/matrix/) - *The Matrix Encoded in Text*
@@ -494,7 +501,9 @@
 * [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - *Japanese Commercial Archive*
 * [UFO Discovery](https://app.polymersearch.com/polymerexamples/UFO_Sightings) - *UFO Sightings Tracker*
 * [info.cern](http://info.cern.ch/) - *First Website on the Internet* 
-* [Worlds Highest Website](https://worlds-highest-website.com/) - *The Worlds Longest Website*
+* [Worlds Highest Website](https://worlds-highest-website.com/) - *Worlds Longest Website*
+* [Long Doge Challenge](https://longdogechallenge.com/) - *Worlds Longest Doge*
+* [Endless Horse](http://endless.horse/) - *Worlds Longest Horse*
 * [You wouldn't steal a website](https://youwouldntsteala.website/) - *Steal a Website*
 * [Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator) - *Pretend You Have Macbook Pro*
 * [IdiotProofWebsite](http://idiotproofwebsite.com/)
@@ -502,6 +511,7 @@
 * [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/) 
 * [isitnight](https://www.isitnight.com/) - *Determine if it is night* 
 * [ThisSiteSaysOtherwise](https://thissaysotherwise.org/) - *Otherwise.*
+* [The Pug in the Rug](https://puginarug.com/) - *Watch the Pug be in the Rug*
 * [Watching Grass Grow](https://www.watching-grass-grow.com/) - *Watch Grass Grow.*
 * [aaaaa](https://github.com/dkter/aaaaa) - *"a" only keyboard*
 * [aaaaaa.....](http://aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/) - *Make URL's longer*
@@ -519,7 +529,7 @@
 * [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - *News Site Indexes* 
 * [Google Alerts](https://www.google.com/alerts) - *News Alerts by Topics*
 * [PublicAlerts](https://google.org/publicalerts) - *Important News / Disaster Alerts*
-* [GHacks](https://www.ghacks.net/), [Geeks3D](https://www.geeks3d.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
+* [GHacks](https://www.ghacks.net/), [Tidbits](https://tidbits.live/), [Geeks3D](https://www.geeks3d.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
 * [Latest Privacy](https://latestprivacy.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - *Privacy News*
 * [We Fight Censorship](http://3kyl4i7bfdgwelmf.onion/) - *Censorship News*
 * [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - *Dark Web News*
@@ -760,6 +770,7 @@
 * [Light Pollution Map](https://lightpollutionmap.info/) - *Light Pollution Map*
 * [NightBlight](https://nightblight.cpre.org.uk/maps/) - *England Light Pollution Map*
 * [PowerOutage](https://poweroutage.us/) - *Power Outage Map*
+* [ElectricityMap](https://app.electricitymap.org/) - *Electricity CO₂ Emissions Map*
 * [City Generator](https://probabletrain.itch.io/city-generator) - *City Map Generator* 
 * [RSOE](http://hisz.rsoe.hu/) or [EDIS](https://rsoe-edis.org/) - *Emergency and Disaster Map* 
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - *Volcano Activity Map*
@@ -786,7 +797,7 @@
 # ►  Fonts
 
 * **[How to Download Fonts](https://redd.it/8tqfg6)**
-* [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [Getfancy](https://getfancy.io/), [Font Generator](https://www.toulr.com/other-tools/font-generator), [DiscordFonts](https://lingojam.com/DiscordFonts), [MessLetters](https://www.messletters.com/), [letrasdiferentes](https://letrasdiferentes.com.br/), [TextFancy](https://textfancy.com/) or [fSymbols](https://fsymbols.com/generators/) - *Font Generator*
+* [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [Getfancy](https://getfancy.io/), [Font Generator](https://www.toulr.com/other-tools/font-generator), [DiscordFonts](https://lingojam.com/DiscordFonts), [MessLetters](https://www.messletters.com/), [letrasdiferentes](https://letrasdiferentes.com.br/), [TextFancy](https://textfancy.com/), [Zalgo](http://eeemo.net/), [lingojam](https://lingojam.com/WeirdTextGenerator) or [fSymbols](https://fsymbols.com/generators/) - *Font Generator*
 * [DaFont](https://www.dafont.com/)
 * [graphicex](https://graphicex.com/font/)
 * [FontSpace](https://www.fontspace.com/)
@@ -849,7 +860,6 @@
 * [Glitch](https://glitchtextgenerator.com/) - *Glitch Text Generator*
 * [MeeshDesigns](http://www.meeshdesigns.com/Western%20Fonts/) - *Font Index* 
 * [MacType](https://github.com/snowie2000/mactype/releases) - *Use Mac fonts on Windows*
-* [Zalgo](http://eeemo.net/) or [lingojam](https://lingojam.com/WeirdTextGenerator) - *Weird Font Style Generators*
 * [Picas](https://picas.vercel.app/) - *Google Font Logo Generator*
 * [FontJoy](https://fontjoy.com/) - *Font Pairings Generator*
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/), [WhatFont](http://www.chengyinliu.com/whatfont.html) or [What Font Is](https://www.whatfontis.com/) - *Font Identification*
@@ -1051,7 +1061,7 @@
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - *Download Multiple Links at Once* 
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
-* [Headless-Recorder](https://github.com/checkly/headless-recorder) - *Browser Automation*
+* [Headless-Recorder](https://github.com/checkly/headless-recorder) or [automa](https://github.com/kholid060/automa) - *Browser Automation*
 * [NudgeWare](https://nudgeware.io/) or [HabitLab](https://habitlab.stanford.edu/) - *Productivity Booster*
 * [Beanote](https://chrome.google.com/webstore/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) - *Web Page Note Taking*
 * [ProjectNaptha](https://projectnaptha.com/) - *Manipulate Browser Image Text*
