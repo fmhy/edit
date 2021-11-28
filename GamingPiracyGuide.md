@@ -11,7 +11,7 @@
 
 # ► Download Games
 
-* **[Game Download Sites Search](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)** - *Search multiple sites at once*
+* **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)** / **[CSE 22](https://idleendeavor.github.io/gamesearch/)** - *Search multiple sites at once*
 * **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)*
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "games" or "roms"*
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - *[Discord](https://discord.com/invite/GmTJ5Rm)*
@@ -87,13 +87,13 @@
 * [How The Warez Scene Works](https://www.reddit.com/r/CrackWatch/comments/92uz49/the_warez_scene_how_it_works/) 
 * [PokemonRevolution](https://pokemonrevolution.net/) - *Pokemon MMO*
 * [Clone Hero](https://clonehero.net/) - *Guitar Hero Clone / [Setlists](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/), [2](https://customsongscentral.com/)*
-* [Game Search](https://idleendeavor.github.io/gamesearch/) - *Game Download Search Engine*
+* [Redump Forum](http://forum.redump.org/) - *Disc Preservation Project*
 
 ***
 
 # ► Torrent Games
 
-* **[Game Torrent Sites Search](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** - *Search multiple sites at once*
+* **[Game Torrent CSE(https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** / **[2](https://idleendeavor.github.io/gamesearch/)** - *Search multiple sites at once*
 * **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)*
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "games" or "roms"*
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - *[Discord](https://discord.com/invite/GmTJ5Rm)*
@@ -111,7 +111,6 @@
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win)
 * [Ali213](https://ali213.net/) - *May Require VPN / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
-* [Game Search](https://idleendeavor.github.io/gamesearch/) - *Game Torrent Search Engine*
 
 ***
 
@@ -239,6 +238,7 @@
 * [HiddenPalace](https://hiddenpalace.org/) - *Game Development Media Archive*
 * [Xbox Collection](https://archive.org/details/xboxcds?sort=-downloads) or [Xbox_Eng_Romset](https://archive.org/details/xbox_eng_romset) - *CD Roms / Xbox / DDL / Torrents*
 * [PSF3](http://psf3.joshw.info/) - *Ripped & Extracted PS3 Roms / No PKG*
+* [Dat-O-Matic](https://datomatic.no-intro.org/index.php) - *ROM Datasets*
 * [pret](https://github.com/orgs/pret/repositories) - *Pokemon Disassembly / Decompilation Projects*
 
 ***
@@ -354,6 +354,7 @@
 * [First Person Tetris](https://firstpersontetris.com/) - *Play Tetris in First Person* 
 * [Play Snake](https://playsnake.org/) - *Retro Snake* 
 * [Snake-Game](https://www.onemotion.com/snake-game/) - *3D Snake*
+* [SnakeGen](https://projects.victormeunier.com/snakegen/index.html) - *Snake Game Generator*
 * [ProAsm](http://www.proasm.com/) - *Retro Game Mods*
 
 ***
@@ -430,6 +431,7 @@
 * [2020 Game](https://2020game.io/) - *Play through 2020* 
 * [Flappy Bird](https://flappybird.io/) - *HTML5 Flappy Bird*
 * [QWOP](http://www.foddy.net/Athletics.html) - *Ragdoll Running Game*
+* [Checkbox Olympics](https://checkboxolympics.com/) - *Checkbox Browser Games*
 * [Ping Pong](http://oos.moxiecode.com/js_webgl/ping_pong/) - *WebGL Ping Pong*
 * [Dino Swords](https://dinoswords.gg/) - *Stay Alive by Jumping / Destroying Cacti* 
 * [The Circle](https://the-circle.app/) - *Dodge Circles* 
@@ -439,7 +441,7 @@
 * [TotalJerkFace](https://totaljerkface.com/) - *Happy Wheels & More*
 * [ConnectTheStars](https://connectthestars.xyz/) - *Connect Stars through Movies*
 * [Blaseball](https://www.blaseball.com/) - *Odd Baseball Simulation Game* 
-* [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) - *Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)*
+* [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) or [Bemuse](https://bemuse.ninja/) - *Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)*
 * [Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures) - *Interactive Text Adventures*
 * [Prosperity](http://www.playprosperity.ca/) - *Civilization Building RPG*
 * [BrainChef](http://brainchef.com/) - *Browser MMORPG*
@@ -491,6 +493,7 @@
 * [Football War Room](http://www.footballwarroom.com/) - *Football Ownership Simulator*
 * [CandyBox](https://candybox2.github.io/) - *Candy Eating Game* 
 * [BTShip](https://github.com/hairarrow/btship) - *Typescript Boat Game*
+* [asciicker](https://asciicker.com/) - *ASCII Browser Adventure*
 * [Maze](https://www.epgsoft.com/maze/) - *Maze Generator*
 * [BrantSteele](http://brantsteele.net/) - *Game Show Simulators*
 * [Shooty Ship Pumpkin Smash](https://www.thepointless.com/apps/shooty-ship-pumpkin-smash/index.html) - *Shoot Pumpkins*
