@@ -125,6 +125,7 @@
 * [online-courses](https://online-courses.club/) - *Courses*
 * [Course Upload](https://courseupload.com/) - *Courses* 
 * [Christmas Share](https://mega.nz/folder/dVxiXITI#lM16YzFg6xlnDOGYBOWUhA), [2](https://mega.nz/folder/dVxiXITI#lM16YzFg6xlnDOGYBOWUhA/folder/pAQWDCaZ), [3](https://mega.nz/folder/mqxiBRTJ#0bnSa35nknxUqOCr-xdGYg) - *Courses*
+* [Gems Collections](https://helpothers.freehotspot.workers.dev/), [2](https://helpothers1.freehotspot.workers.dev/), [3](https://helpothers3.freehotspot.workers.dev/) or [4](https://helpothers4.freehotspot.workers.dev/) - *Courses*
 * [Mega Collections](https://mega.nz/folder/5F9WzJ7a#9UdqphaNXS13TTJAgdN15w) - *Courses*
 * [ReadyYourFlow](https://learning.readyourflow.workers.dev/0:/) - *Courses*
 * [FTUForums](https://www.ftuforums.com/) - *Courses / [Discord](https://discord.gg/xAsMX52)*
@@ -397,7 +398,8 @@
 * [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - *Language Learning Network*
 * [yTalki](https://ytalki.com/) - *Read Books in Other Languages*
 * [E-books_432](https://archive.org/details/E-books_432) - *Vocabulary & Pronunciation Books*
-* [LexiLogos](https://www.lexilogos.com/english/index.htm) - *Multi Language Dictionary Index*
+* [Xuga](https://eng.ichacha.net/mpr/xuga.html) - *Word Pronunciation Tool*
+* [LexiLogos](https://www.lexilogos.com/english/index.htm) - *Multi-Language Dictionary Index*
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - *Translation Dictionary* 
 * [SpanishDict](https://www.spanishdict.com/) - *Spanish Translation Dictionary*
 * [Memrise](https://www.memrise.com/), [LingoDeer](https://www.lingodeer.com/), [Busuu](https://www.busuu.com/en/) or [Duolingo](https://www.duolingo.com/) - *Language Learning Lessons* 
@@ -516,6 +518,7 @@
 * [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - *Learn With GIFs* 
 * [Information Is Beautiful](https://informationisbeautiful.net/) - *Data / Information / Infographics / Visualizations* 
 * [/r/coolguides](https://reddit.com/r/coolguides/), [1001 Tutorials](http://www.fricking.ninja/DIY/index/1001%20Tutorials/), [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - *Guides & Tutorials* 
+* [LitCharts](https://www.litcharts.com/) - *Literature Guides*
 * [KausalFlow](https://tools.kausalflow.com/) - *Academic Research Tools* 
 * [Zotero](https://www.zotero.org/) - *Research Organization Tool* 
 * [TimeLY](https://github.com/noahweasley/TimeLY) - *University Activity & Class Tracker*
