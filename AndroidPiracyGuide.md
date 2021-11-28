@@ -178,7 +178,6 @@
 * [MacroDroid](http://macrodroid.com/) - *Android Automation* 
 * [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) - *Gesture Controls*
 * [Naptime](https://play.google.com/store/apps/details?id=com.franco.doze) - *Accelerates Android Sleep Mode*
-* [APKUpdater](https://github.com/rumboalla/apkupdater) - *APK Updater*
 * [Adebar](https://codeberg.org/izzy/Adebar) or [OAndBackupX](https://github.com/machiav3lli/oandbackupx) - *Device Backup Tool*
 * [Migrate](https://play.google.com/store/apps/details?id=balti.migrate) - *Migration Tool / Root Required*
 * [Videoder](https://www.videoder.com/) or [DVD](https://github.com/yausername/dvd) - *Video Download Tool* 
@@ -212,6 +211,7 @@
 * [Blabber.im](https://f-droid.org/packages/de.pixart.messenger) - *XMPP / Jabber Messenger*
 * [IRCCloud](https://github.com/irccloud/android) - *IRC Client*
 * [TextFree](https://www.textfree.us/) - *Free Texting App*
+* [TextMeUp](http://www.textmeup.com/) - *Multi-Number App*
 * [Kubool](https://www.gdpd.xyz/) - *Anonymous Confession App*
 * [OpenInWA](https://github.com/SubhamTyagi/openinwa) - *Number Free WhatsApp Chat*
 * [Watomatic](https://f-droid.org/packages/com.parishod.watomatic) or [AutoResponder](https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDEhkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDGAA=:S:ANO1ljKlL8g&gsr=CjuKAzgKGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMSGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMYAA==:S:ANO1ljLE-Ks) - *Chat App Auto-Responders*
@@ -288,6 +288,7 @@
 * [Swappa](https://swappa.com/imei) or [SickW](https://www.sickw.com/) - *IMEI, MEID, ESN Checker*
 * [SWAP](https://forum.mobilism.org/search.php?keywords=swap+no+root&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - *Create SWAP file without Root*
 * [TabletFriend](https://github.com/Martenfur/TabletFriend) - *Custom Tablet Toolbars*
+* [AndroidRank](https://www.androidrank.org/) - *Android Market Data*
 
 ***
 
@@ -315,6 +316,7 @@
 * [Aptoide](https://aptoide.com/) - *Alt App Store*
 * [AC-Market](https://ac-market.org/) - *Alt App Store*
 * [Android Zone](https://android-zone.ws/) - *Forum*
+* [Android App](https://techy-transistor.notion.site/5359aca6d9494ed893e57823f55499e5?v=4a68e3958c1b443fa61e25c87f96d384) - *Untouched*
 * [APKGK](https://apkgk.com/) - *Untouched*
 * [AAPKS](https://aapks.com/) - *Untouched*
 * [APK-DL](https://apk-dl.com/) - *Untouched*
@@ -390,10 +392,12 @@
 * [How-To Play Free Android Cloud Games](https://rentry.co/66cc9)
 * [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - *Android Vehicle Apps*
 * [App filter](https://appfilter.net/) - *Play Store Advanced Search*
+* [AppAnnie](https://www.appannie.com/en/apps/google-play/top/) - *Top App Downloads*
 * [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - *App Giveaway Sites*
 * [APK Generator](https://play.google.com/store/apps/details?id=com.aksapps.apkgenerator) or [APK Saver](https://play.google.com/store/apps/details?id=com.sdkdevelopers.apksaver) - *Save APK File for Installed Apps*
 * [Diggy](https://github.com/s0md3v/Diggy) - *Extract APK Endpoints*
 * [APKTool](https://github.com/iBotPeaches/Apktool) - *APK Reverse Engineering Tool*
+* [APKUpdater](https://github.com/rumboalla/apkupdater) - *APK Updater*
 * [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) - *Install Google Apps into WSA Image*
 * [How-to Install Play Store Apps from Other Countries](https://rentry.co/29s6v)
 * [APKAdmin](https://apkadmin.com/) - *APK Hosting Site*
@@ -661,7 +665,8 @@ RSS Player*
 * [BlobSaver](https://github.com/airsquared/blobsaver) - *GUI for Saving SHSH Blobs*
 * [TSSChecker](https://github.com/tihmstar/tsschecker) - *Check TSS Signing Status*
 * [FutureRestore](https://github.com/tihmstar/futurerestore) - *Restore to Unsigned Firmware / [GUI](https://github.com/CoocooFroggy/FutureRestore-GUI/)*
-* [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app), [Saily](https://github.com/SailyTeam/Saily) or [Zebra](https://getzbra.com/) - *APT Package Manager / [Website](https://getsileo.app/)*
+* [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app), [Ocean](https://github.com/M4cs/Ocean), [Saily](https://github.com/SailyTeam/Saily) or [Zebra](https://getzbra.com/) - *APT Package Manager / [Website](https://getsileo.app/)*
+* [Icy](https://github.com/ArtikusHG/IcyInstaller3) - *DPKG Installer*
 
 ***
 
@@ -713,10 +718,15 @@ RSS Player*
 * **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Mobile Wallpaper Sites & Apps*
 * [Waltr](https://softorino.com/waltr/) - *Convert Files to iOS Formats*
 * [Filza](http://cydia.saurik.com/package/com.tigisoftware.filza/) - *File Manager*
+* [Dropbox Premium](https://testflight.apple.com/join/LBZaRq4I) - *Cloud Storage*
 * [iEmulators](https://iemulators.com/) - *Emulator Apps*
+* [HappyChick](http://www.happychick.hk/download.html) - *Game Emulator*
+* [iDOS](https://iosninja.io/ipa-library/download-idos-ipa-ios) - *DOS Emulator / [GitHub](https://github.com/litchie/dospad)*
+* [iSSB Play](https://iosninja.io/ipa-library/download-issb-ipa-ios) - *Super Smash. Bros on iOS / [GitHub](https://github.com/lufinkey/iSSB)*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
 * [Drafts](https://getdrafts.com/) or [Bear](https://apps.apple.com/us/app/bear/id1016366447) - *Note Taking App*
 * [Powercuff](https://rpetri.ch/cydia/powercuff/) - *Throttle iOS to Increase Battery Life*
+* [GreenBattery](https://github.com/MauMau97/GreenBattery) - *Green Battery Icon Tweak*
 * [The Fucking Weather](https://alcohollick.com/the-fucking-weather) - *Weather App*
 * [CocaoTop](https://github.com/D0m0/CocoaTop) - *iOS Process Viewer*
 * [iSH Shell](https://apps.apple.com/us/app/ish-shell/id1436902243) - *Linux-like iOS Shell*
@@ -787,7 +797,6 @@ RSS Player*
 * [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - *Control Android TV Box with iPhone*
 * [Swappa](https://swappa.com/imei) or [SickW](https://www.sickw.com/) - *IMEI, MEID, ESN Checker*
 * [FutureStore](https://github.com/tihmstar/futurerestore) - *SEC & Baseband Restoring Wrapper*
-* [Icy](https://github.com/ArtikusHG/IcyInstaller3) - *DPKG Installer*
 * [AppTapp](https://apptapp.me/repo) - *iOS Package Manager*
 * [Mildred](https://apps.apple.com/us/app/mildred/id1522800022) - *Docker Client*
 
@@ -897,6 +906,7 @@ RSS Player*
 * [Zivcy](https://www.downloader.world/) - *Movies / TV*
 * [Movie Finder](https://apps.apple.com/de/app/movie-finder-movie-by-image/id1560301878) - *Movies / TV*
 * [Airy TV](https://airy.tv/) - *Legal / Live TV*  
+* [The CW](https://apps.apple.com/us/app/the-cw/id491730359) - *Free CW Shows*
 * [STBEmu](https://apps.apple.com/app/stbemutv/id1567306197) - *Emulate a STB and watch IPTV*
 * [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - *Chinese Drama*
 * [RSS Player](https://apps.apple.com/us/app/rss-video-player/id885311320) - *KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)*
