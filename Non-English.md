@@ -189,7 +189,7 @@
 * [Meiju](https://www.meiju11.com/) or [iMeiju](https://www.imeiju.net/) - *Movies / TV*
 * [Nunu Cinema](https://www.nunuyy.com/) - *Movies / TV*
 * [Fun.tv](http://www.fun.tv/) - *Movies / TV*
-* [Segoideas](https://segoideas.com/) - *Taiwanese Dramas*
+* [KokoTV](https://kokotv.me/) - *Drama*
 * [qiqi8](http://qiqi8.net/) - *Anime*
 * [AGE動漫](https://agefans.tw/) - *Anime*
 * [music.163](https://music.163.com/) - *Music*
@@ -218,7 +218,7 @@
 * [ishare.iask](https://ishare.iask.sina.com.cn/) - *Documents*  
 * [CText](https://ctext.org/), [ChineseNotes](http://chinesenotes.com/) or [Kanripo](https://www.kanripo.org/) - *Chinese Historic Text Archive*
 * [guoxue](http://www.guoxue.com/) - *History / Journals*
-* [Moedict](https://www.moedict.tw/), [CantoDict](http://www.cantonese.sheik.co.uk/dictionary/) or [ZDic](https://www.zdic.net/) - *Chinese Dictionary*
+* [Moedict](https://www.moedict.tw/), [dict.cn](https://dict.cn/), [CantoDict](http://www.cantonese.sheik.co.uk/dictionary/) or [ZDic](https://www.zdic.net/) - *Chinese Dictionary*
 * [kangxizidian](https://kangxizidian.com/) - *Chinese Kangxi Dictionary*
 * [CCams](http://www.ccamc.co/) - *Chinese Character Search*
 * [CBeta](http://www.cbeta.org/) - *Chinese Buddhist Scriptures*
@@ -392,6 +392,7 @@
 * [Serien](https://serien.life/) - *Movies / TV*
 * [Film Palast](https://filmpalast.club/) - *Movies / TV*
 * [Kinox](https://www2.kinox.to/) - *Movies / TV*
+* [TopStreamFilm](https://www.topstreamfilm.com/) - *Movies / TV*
 * [KinoX](https://www.kinox.sx/) - *Movies / TV*
 * [BS.TO](https://www.bs.to/) - *TV / Anime*
 * [StreamCloud](https://www1.streamcloud.club/) - *Movies / TV*
@@ -477,9 +478,10 @@
 * [HDHub4u](https://hdhub4u.wiki/) - *Movies*
 * [MoviesRush](https://moviesrush.cam/) - *Movies*
 * [MKVHub](https://www.mkvhub.ws/) - *Movies / TV*
+* [SouthFreak](https://southfreak.online/) - *Movies*
 * [UncutHD](https://www.uncuthd.one/) - *Movies*
 * [RemaxHD](https://remaxhd.org/) - *Movies / TV*
-* [MoviesVerse](https://t.me/MoviesHomeOFFICIALS) - *Movies / TV / Telegram* 
+* [MoviesVerse](https://moviesverse.cc/) - *Movies / TV / [Telegram](https://t.me/MoviesHomeOFFICIALS)* 
 * [BollywoodCineplex](https://t.me/BollywoodCineplex) - *Movies*
 * [MoviezAddiction](https://moviezaddiction.me/) - *Movies / TV / Telegram* 
 * [Gophie](https://gophie.cam/) - *Movies / TV*
@@ -1342,13 +1344,15 @@ Portuguese
 
 ## ▷ Torrenting
 
-* [Mejor Torrent](https://www.mejortorrents.net/), [2](https://www.mejortorrento.net/), [3](https://mejortorrent.one/) - *Video / Audio / Software / Games*  
+* [Mejor Torrent](https://www.mejortorrents.net/), [2](https://www.mejortorrento.net/), [3](https://mejortorrent.one/), [4](http://mejortorrent.com/) - *Video / Audio / Software / Games*  
 * [dontorrent](https://dontorrent.net/) - *Video / Audio / Games* 
 * [DivxTotal](https://www.divxtotal.one/) - *Movies / TV / Software* 
 * [Edvok](https://edvok.com/) - *Video / Games*
 * [EliteTorrent](https://elitetorrent.com/), [2](https://www.elitetorrent.do/) - *Movies / TV / Anime*
 * [zonatorrent](https://zonatorrent.tv/) - *Movies / TV* 
+* [PasateaTorrent](https://pasateatorrent.net/) - *Movies / TV*
 * [divxonline](https://www.divxonline.tv/) - *Movies / TV* 
+* [DIVXTorrent](https://www.divxtorrent.com/) - *Movies / TV*
 * [Grantorrent](https://grantorrent.nl/), [2](https://grantorrent.ch/) - *Movies / TV*
 * [EstrenosDTL](https://www.estrenosdtl.nz/) - *Movies*
 * [MoviesDVDR](https://www.moviesdvdr.co/) - *Movies* 
