@@ -44,7 +44,8 @@
 * [InstantBox](https://github.com/instantbox/instantbox) - *Temporary Linux Systems*
 * [HowtoForge](https://www.howtoforge.com/), [Erik Dubois](https://www.youtube.com/c/ErikDubois) or [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA ) - *Linux Tutorials*
 * [DotShare](http://dotshare.it/) - *Distro Config Index*
-* [ArchLinuxGUI](https://archlinuxgui.in/download.html), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - *Arch Linux Installer*
+* [Linux Live Kit](https://www.linux-live.org/) - *Live Linux Distro Creator*
+* [ArchLinuxGUI](https://archlinuxgui.in/download.html), [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - *Arch Linux Installer*
 * [Free Cloud Linux Server](https://rentry.co/4sx64) - *Free Cloud Server Guide*
 * [Brunch](https://github.com/sebanc/brunch) or [Chromefy](https://github.com/imperador/chromefy) - *ChromeOS Installer*
 * [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [FydeOS](https://fydeos.io/download), [NeverWare](https://www.neverware.com/) or [WayneOS](https://wayne-os.com/) - *ChromeOS Based OS*
@@ -77,7 +78,7 @@
 * [Dolphin](https://userbase.kde.org/Dolphin) or [ranger](https://github.com/ranger/ranger) - *File Manager*
 * [nnn](https://github.com/jarun/nnn) - *Terminal File Manager/Disk Usage Analyzer*
 * [zentile](https://github.com/blrsn/zentile) - *On-demand Window Manager Tiling*
-* [Material Shell](https://material-shell.com/) - *GNOME Tiling Extension*
+* [Material Shell](https://material-shell.com/) or [Forge](https://github.com/jmmaranan/forge) - *GNOME Tiling Extension*
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - *KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)*
 * [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) - *Google Drive Downloader*
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - *Mount GDrive on Linux*
@@ -154,6 +155,7 @@
 # ► Linux Adblock / Privacy
  
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - *Linux Privacy Guide* 
+* [Lynis](https://github.com/CISOfy/lynis) - *Linux Security Auditing Tool*
 * [Twilio Authy](https://snapcraft.io/authy) - *Linux 2FA*
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) or [Gufw](http://gufw.org/) - *Linux Firewall* 
 * [Mofolinux](https://mofolinux.com/), [Tails](https://tails.boum.org/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - *Privacy-Based Linux Operating System*
@@ -208,7 +210,16 @@
 
 # ► Mac Tools / Apps
 
+* **[Dropzone](https://filecr.com/?s=dropzone)** - *File Manger*
+* **[The Unarchiver](https://theunarchiver.com/)** - *Archive / Unzip Files*
 * **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
+* **[shottr](https://shottr.cc/)** or [MagicCap](https://magiccap.me/) - *Screenshot Tool*
+* **[Aptonic](https://aptonic.com/)** - *Mac Productivity App*
+* **[Alfred](https://www.alfredapp.com/)** - *Keystroke Launcher* 
+* **[CustomShortcuts](https://www.houdah.com/customShortcuts/)** - *Custom Keyboard Shortcuts*
+* **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - *Alt-Tab for Mac*
+* **[PDF Expert](https://filecr.com/?s=pdf+expert)** - *PDF Viewer*
+* **[Fantasitcal](https://flexibits.com/fantastical)** - *Calendar*
 * [DMHY](https://github.com/yaqinking/DMHY) - *Anime Torrent Autodownloader* 
 * [YTMusic](https://ytmusic.app/) - *YouTube Music Client*
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) - *Download MacOS*
@@ -225,21 +236,16 @@
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - *UEFI Kexts*
 * [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913?mt=12) - *File Download Manager*
 * [ss64 OSX](https://ss64.com/osx/) - *macOS Bash Commands*
-* [Alfred](https://www.alfredapp.com/) - *Keystroke Launcher* 
-* [alt-tab-macos](https://alt-tab-macos.netlify.app/) - *Alt-Tab for Mac*
-* [Dropzone](https://filecr.com/?s=dropzone) - *File Manger*
-* [The Unarchiver](https://theunarchiver.com/) - *Archive / Unzip Files*
+* [Orion](https://browser.kagi.com/downloads/Orion.dmg) - *Webkit Browser with Chrome & Firefox extensions / [Discord](https://discord.gg/E9EKaPZR)*
 * [Strongbox](https://strongboxsafe.com/) *Password Manager*
-* [Aptonic](https://aptonic.com/) - *Mac Productivity App*
 * [Drafts](https://getdrafts.com/) - *Text Editor*
 * [Stroke](https://stroke.lllllllllllllllll.com/) - *Text (You Can't Delete) Editor*
-* [PDF Expert](https://filecr.com/?s=pdf+expert) - *PDF Viewer*
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) or [Spark](https://sparkmailapp.com/) - *Email Client*
 * [Microsoft Mac Downloads](https://macadmins.software/) or [Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - *Office Suite*
 * [Winfield](http://www.winfield.demon.nl/) - *MS Word for Linux / OS X* 
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - *Connect Mac Keyboard to Mobile Devices*
-* [CustomShortcuts](https://www.houdah.com/customShortcuts/) - *Custom Keyboard Shortcuts*
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - *Shortcut CheatSheet for Current Application*
+* [MonitorControl](https://monitorcontrol.app/) - *External Monitor Brightness & Volume Control*
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - *Volume Mixer / Auto-Pause*
 * [MacLaunch](http://github.com/hazcod/maclaunch) - *Manage Startup Items*
 * [Sloth](https://github.com/sveinbjornt/Sloth) - *MacOS Process Manager*
@@ -253,7 +259,6 @@
 * [Pictogram](https://pictogramapp.com/) - *Custom Mac App Icons*
 * [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - *MacOS Dynamic Wallpaper App*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old MacOS ISOs*
-* [Fantasitcal](https://flexibits.com/fantastical) - *Calendar*
 * [IINA](https://iina.io/) - *Video Player*
 * [Meeter](https://trymeeter.com/) - *Video Meeting Manager*
 * [Gifski](https://sindresorhus.com/gifski) - *Image to GIF Converter / [GitHub](https://github.com/sindresorhus/Gifski)*
@@ -261,12 +266,12 @@
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - *Image Editor* 
 * [ImageOptim](https://imageoptim.com/mac) - *Image Optimization*
 * [Vim](https://github.com/macvim-dev/macvim) - *Code Editor*
+* [Magit!](https://magit.vc/) - *Git Text-Based UI*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
 * [NHCalc](https://github.com/KhaosT/nhcalc) - *Compute Image NeuralHash*
 * [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - *Convert NeuralHash for CSAM Detection to ONNX / [Collision Finder](https://github.com/anishathalye/neural-hash-collider)*
 * [Is Apple Silicon ready?](https://isapplesiliconready.com/) - *M1 App Compatibility Chart*
 * [Adobe Zii](https://www.reddit.com/r/AdobeZii/) - *Adobe Software Patcher*
-* [MagicCap](https://magiccap.me/) - *Screenshot Tool*
 * [SelfControlApp](https://selfcontrolapp.com/) - *Website Blocker*
 * [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) - *Typing Practice*
 * [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) - *Reddit Dekstop Client*
