@@ -316,6 +316,7 @@
 * [AnimeVibe](https://animevibe.se/) - *Sub* 
 * [Animeow.me](https://animeow.me/) - *Sub / Dub* 
 * [Anime OWL](https://animeowl.net/home/) - *Sub / Dub*
+* [AnimeXin](https://animexin.xyz/) - *Sub*
 * [NetAnime](https://netanime.tv/) - *Sub / Dub* 
 * [AnimeTV](https://animetv.cc/) - *Sub / Dub*
 * [tenshi.moe](https://tenshi.moe/) - *Sub / Dub* 
@@ -444,6 +445,7 @@
 * [USTVGO](https://ustvgo.tv/) - *TV / Sports*
 * [SamiTVHD](https://samitvhd.com/) - *TV / Sports*
 * [uStream](https://www.ustream.to/index.html) - *TV / Sports* 
+* [Stream2Watch](https://stream2watch.at/) - *Live TV / Sports*
 * [LM Shows](https://lmshows.se/) - *TV*
 * [TVOnline.Liveschauen](https://tvonline.liveschauen.com/) - *TV* 
 * [WwiTv](https://wwitv.com/) - *TV*
@@ -545,6 +547,7 @@
 * [Medeberiyaa](https://medeberiyaa.com/) - *Movies / TV / Anime*
 * [PSARips](https://psarips.top/) - *Movies / TV / [GDrive Telegram](https://t.me/PSAonGdrive) / [Scraper](https://github.com/NandiyaLive/PSALinkGrabber) / [IMDb Titles](https://github.com/ni554n/userscripts/tree/master/psarips-replace-post-titles-with-imdb-links)* 
 * [JalshamoviezHD](https://www.jalshamoviezhd.stream/category/33/hollywood-movies/default/1.html) - *Movies*
+* [My9JARocks](https://my9jarocks.com/category/videodownload/hollywood-movie) - *Movies / TV*
 * [HDMP4Mania](https://hdmp4mania1.net/showcat.php?catid=2) - *Movies*
 * [DDLBase](https://ddlbase.net/) - *Movies / TV*
 * [megaDDL](https://megaddl.co/) - *Movies / TV*
@@ -569,13 +572,14 @@
 * [Best-Movies](http://best-movies.info/) - *Movies / TV*   
 * [Happy2Hub](https://happy2hub.net/) - *Movies / TV*   
 * [MoviesMore](https://moviesmore.info/) - *Movies / TV*
+* [StreamCraze](https://streamcraze.com/) - *Movies / TV*
 * [MovieFire](https://moviefire.net/) - *Movies* 
 * [SomosMovies](https://somosmovies.com/) - *Movies* 
 * [TVSeriesNMovies](https://www.tvseriesnmovies.com/) - *Movies / TV*
 * [SeriesVault](https://seriesvault.win/) - *TV / Anime* 
 * [o2tvseries](https://o2tvseries.com/) - *TV*  
 * [MiCineHD](https://www.micinehd.com/) - *Movies / TV* 
-* [MoviesVerse](https://moviesverse.co.in/) - *Movies / TV*
+* [MoviesVerse](https://moviesverse.cc/) - *Movies / TV / [Telegram](https://t.me/MoviesHomeOFFICIALS)* 
 * [FreeDriveMovie](https://www.freedrivemovie.com/) - *Movies / TV*
 * [TVindexer](https://tvindexer.com/) - *Movies / TV / Anime*
 * [HDMovieArea](https://hdmoviearea.live/genre/dual-audio/) - *Movies / TV*
@@ -674,6 +678,7 @@
 * [مسلسلات اجنبية‬‎](https://drive.google.com/drive/folders/0B19OoIC31UN0eUE4OERjSXYxcUE) - *TV*
 * [Fanedits Drive](https://mega.nz/folder/MIkljKjL#sUy2vBbv3ou1BlVSo1oneg) - *Fan Edited Movies*
 * [Guide to finding fanedits](https://redd.it/nd8z20) - *How-to Find Fan Edits*
+* [Netflix Open Content](http://download.opencontent.netflix.com/) - *Netflix Raw Footage & Encodes*
 
 ***
 
@@ -703,6 +708,7 @@
 * [AnimeKuro](https://animekuro.org/) - *Sub / Dub / [Subreddit](https://www.reddit.com/r/animesub/)*
 * [Kayoanime](https://kayoanime.com/) - *Sub / Dub / [Telegram](https://t.me/Kayoanime)*
 * [Mix Bag of Anime](https://redd.it/nsa8yg) - *Sub / Dub*
+* [MrDeadpool](https://mrdeadpool-encodes.mrdeadpool.workers.dev/0:/) - *Sub / Dub*
 * [ANIME___](https://storage.kanzaki.ru/ANIME___/) - *Sub*
 * [Anime Collection (3Tb)](https://drive.google.com/drive/folders/1nQ73oKeE5b50lzyDeszmdLv6rjYFolk5?usp=sharing) - *Sub / Dub / Drive*
 * [Erai-Raws](https://www.erai-raws.info/) - *Sub / [Discord](https://discord.gg/2PfWaar)*
@@ -988,6 +994,7 @@
 * [DualSub](https://github.com/bonigarcia/dualsub) - *Bilingual subtitles maker*  
 * [HandySub](https://github.com/HandyOrg/HandySub) - *Subtitle Downloader*
 * [SaveSubs](https://www.savesubs.com/) - *Extract Subtitles from Online Videos* 
+* [PlayPhrase](https://github.com/kelciour/playphrase) - *Subtitle Phrase Search*
 * [Sushi](https://github.com/tp7/Sushi) - *Automatic Subtitle Shifter Based on Audio* 
 * [movies2anki](https://github.com/kelciour/movies2anki) - *Convert Movies with Subs to Anki*
 * [mkv-extract](https://qgustavor.github.io/mkv-extract/) - *Extract Subtitles from MKV Files*
