@@ -11,7 +11,7 @@
 
 # ► Download Games
 
-* **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)** / **[CSE 22](https://idleendeavor.github.io/gamesearch/)** - *Search multiple sites at once*
+* **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)** / **[CSE 2](https://idleendeavor.github.io/gamesearch/)** - *Search multiple sites at once*
 * **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)*
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "games" or "roms"*
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - *[Discord](https://discord.com/invite/GmTJ5Rm)*
