@@ -122,6 +122,7 @@
 * [EleutherAI](https://6b.eleuther.ai/) - *Text / Story Autocomplete*
 * [StoryAI](https://storyai.botsociety.io/) - *Story Autocomplete*
 * [Lorem Ipsum Generator](https://apps.maximelafarie.com/lig/) - *Generate Placeholder Text*
+* [text-regenerator](https://github.com/jddunn/text-regenerator) - *Replace Words with Synonyms*
 * [Honk.moe](https://honk.moe/tools.html) - *Shitposting Text Generators*
 * [Typoer](https://github.com/georgetian3/typoer) - *Types Text with Typos / Corrections*
 * [PaperRater](https://www.paperrater.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
@@ -221,6 +222,7 @@
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - *SWF to Video Converter*
 * [MotionFactory](https://www.motionfactory.io/) - *Video Editing Workflow Manager*
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) or [OBS Ninja](https://obs.ninja/) - *Streaming Tools Index*
+* [VegasScripts](https://github.com/otomad/VegasScripts) - *MAGIX Vegas Scripts*
 * [OBS](https://obsproject.com/), [Wigistream](https://wigistream.to/) or [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs) - *Video Recording / Live Streaming / [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT)* 
 * [Stream Elements](https://streamelements.com/) - *Streaming Service Manager*
 * [Restream](https://restream.io/) - *Multi-Site Streaming Tool*
@@ -391,6 +393,7 @@
 * [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - *Pop Song Sample Mixer*
 * [Nightcore Maker](https://nightcoremaker.com/) - *Create Nightcore Versions of Songs*
 * [CSound](https://csound.com/) - *Music Computing System*
+* [Karaoke Maker](https://www.edityouraudio.com/karaoke-maker) or [X-Minus](https://x-minus.pro/) - *Create Karaoke Songs*
 * [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/) or [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Online Audio Recorder* 
 * [MP3Smaller](https://www.mp3smaller.com/) - *MP3 Compressor* 
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts* 
@@ -461,6 +464,7 @@
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - *Design Job Subreddit*
 * [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - *Career Guidance Subreddit*
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - *Cloud Career Training*
+* [learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - *Cloud Computing Fundamentals*
 * [Candor](https://candor.co/hiring-freezes/) - *Hiring Freezes*
 * [Zeoob](https://zeoob.com/) - *Social Media Digital Marketing Post Simulator*
 * [VCEGuide](https://vceguide.com/) - *Tech Certification Practice Tests*
@@ -551,6 +555,7 @@
 * [Rose](https://t.me/MissRose_bot) - *Telegram Group Manager*
 * [TGCF](https://github.com/aahnik/tgcf) - *Telegram Message Forwarding*
 * [Userge](http://theuserge.tech/) - *Multi-Tool Telegram Bot*
+* [Skeddy](https://skeddy.me/) - *Telegram Reminder Bot*
 * [ChecklyBot](https://t.me/checklybot) - *Checklist Telegram Bot*
 * [Telegram Scraper](https://www.telegramscraper.com/) - *Telegram Member / Group Export*
 * [Conduit](https://gitlab.com/famedly/conduit) or [publiclist.anchel](https://archive.md/4xZE4) - *Matrix Home Servers* 
@@ -583,16 +588,15 @@
 * [Gmail Dot Trick Generator](https://thebot.net/api/gmail/) - *Generate Unlimited Gmail Accounts via the Dot Trick*
 * [Alive](https://greasyfork.org/en/scripts/418770-colab-alive) - *Bypass Google Colab Limit Colab*
 * [YakYak](https://github.com/yakyak/yakyak) - *Google Hangouts Desktop Client* 
-* [Caprine](https://sindresorhus.com/caprine/) - *Facebook Messenger Desktop App / [GitHub](https://github.com/sindresorhus/caprine)* 
+* [Indirect](https://www.microsoft.com/en-us/p/indirect/9phw4kj8jvnz) - *Instagram Desktop Messenger*
+* [Caprine](https://sindresorhus.com/caprine/) - *Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)* 
 * [SentRanker](https://sentranker.com/) - *Social Media Sentiment Scanner*
 * [ZeroNet](https://zeronet.io/) - *Uncensorable Sites / [/r/Zeronet](https://www.reddit.com/r/zeronet/)*
 * [Hamachi](https://vpn.net/) - *VPN / LAN Emulator*
 * [itty.bitty](https://itty.bitty.site/) - *Host Small HTML Sites / Apps* 
 * [Miraheze](https://miraheze.org/) or [Fandom](https://www.fandom.com/) - *Free Wiki Hosting* 
 * [WikiStalk](https://github.com/altilunium/wistalk) - *Analyze Wikipedia User's Activity*
-* [Linktree](https://linktr.ee/), [Solo.to](https://solo.to/) or [ContactInBio](https://www.contactinbio.com/) - *Link All Your Sites on One Page* 
-* [Carrd](https://carrd.co/) - *One-Page Site Builder* 
-* [ichi.city](https://ichi.city/) - *Custom Homepage Sites*
+* [Ichi](https://ichi.city), [Linktree](https://linktr.ee/), [Carrd](https://carrd.co/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/) or [ContactInBio](https://www.contactinbio.com/) - *Personal Link Homepages* 
 * [Integrated Inbox](https://integratedinbox.com/) - *Gmail Google Web App Integration*
 * [Namechk](https://namechk.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Check Username / Domain Availability*
 * [Pyfunceble](https://pyfunceble.github.io/#/) or [Domainr](https://domainr.com/) - *Check IP / Domain Availability* 
@@ -813,7 +817,7 @@ General Reading Sites*
 * [AtSameIP](https://atsameip.intercode.ca/) - *Find All Sites Hosted by Same IP*
 * [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) or [SubdomainFinder](https://subdomainfinder.c99.nl/) - *Find Hidden Subdomains* 
 * [pyfuzz](https://github.com/AyoobAli/pyfuzz) - *URL Fuzzing Tool* 
-* [Backlink Tool](https://backlinktool.io/) - *URL Indexer* 
+* [Backlink Tool](https://backlinktool.io/) or [Index Kings](http://www.indexkings.com/) - *URL Indexer* 
 * [Blocked](https://www.blocked.org.uk/) - *UK ISP Site Blocking Test* 
 * [a tree of inaction](https://treeofinaction.com/) - *Linktr.ee Aggregator Duplicate Check*
 
@@ -946,6 +950,7 @@ General Reading Sites*
 * [CloneCord](https://github.com/Rekulous/CloneCord-bot) - *GClone Cloud Storage File Manager in Discord*
 * [Custom Rich Discord Presence](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_custom_rich_discord_presence) - *Customize Discord Rich Presence* 
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - *Discord Rich Presence Manager*
+* [BetterMediaPlayer](https://github.com/unknown81311/BetterMediaPlayer) - *Improved Discord Media Player*
 * [PlayStationDiscord](https://tustin.dev/PlayStationDiscord/) - *PlayStation Discord Rich Presence*
 * [Adobe Discord RPC](https://github.com/lolitee/adobe-discord-rpc) - *Adobe Rich Presence*
 * [iTunes-Discord-RP](https://github.com/kkevinm/iTunes-Discord-RP) - *iTunes Rich Presence* 
@@ -964,6 +969,7 @@ General Reading Sites*
 * [Discord Style](https://www.discord.style/) - *Discord Server Templates*
 * [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/)
 * [Discord Embed Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_embed_generators) - *Generate Embeds via Webhooks*
+* [Discord-Webhook-Delete](https://github.com/fknMega/Discord-Webhook-Delete) - *Webhook Remover*
 * [Embed Visualizer](https://embed.discord.website/) - *Embed Visualization Tool* 
 * [Chimera](https://github.com/CedArctic/Chimera) - *System Remote Control* 
 * [Discord IRC](https://github.com/reactiflux/discord-irc) - *Connect Discord & IRC Chats* 
@@ -1043,6 +1049,7 @@ General Reading Sites*
 * [Default Filename](https://default-filename-tv.neocities.org/) - *Random Default Filename YouTube Videos*
 * [Unlisted Videos](https://unlistedvideos.com/) - *Watch / Submit Unlisted YouTube Videos*
 * [QuiteAPlaylist](https://quiteaplaylist.com/) - *Find Deleted YouTube Videos*
+* [Hobune](https://hobune.stream/) - *Deleted YouTube Video Archive*
 * [youtubecrawl](https://archive.org/details/youtubecrawl) - *YouTube Video Archive*  
 * [TwitchTheater](https://twitchtheater.tv/), [YouTube Multiplier](http://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - *Watch Multiple YouTube Videos* 
 * [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) - *Video Web Player*
@@ -1092,7 +1099,7 @@ General Reading Sites*
 * [YouTube Data Calc](https://dlogic.lk/projects/youtubedatacalc.php) - *YouTube Data Usage Calculator*
 * [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/) or [ytwrk](https://github.com/terorie/ytwrk) - *YouTube Data Extraction* 
 * [Youtube DataViewer](https://citizenevidence.amnestyusa.org/) or [YouTube-MA](https://github.com/CorentinB/YouTube-MA) - *YouTube Video Data Viewer* 
-* [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YouTube Screenshot](https://www.youtubescreenshot.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - *Grab YouTube Thumbnails* 
+* [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YouTube Screenshot](https://www.youtubescreenshot.com/), [YTI](https://youtubethumbnailimage.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - *Grab YouTube Thumbnails* 
 * [YouTube-Grab](https://github.com/ArchiveTeam/youtube-grab) - *YouTube Video Metadata Grabber*
 * [RadiTube](https://extension.raditube.com/) - *View MetaData & Transcripts of Deleted YouTube Videos*
 * [YouTubeDislikes](https://github.com/moom0o/YouTubeDislikes/) - *YouTube Dislike Archive*
@@ -1231,6 +1238,7 @@ General Reading Sites*
 * [NTLite](https://www.ntlite.com/) or [MSMG Toolkit](https://msmgtoolkit.in/?i=1) - *Custom ISO Creator*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) or [EasyBCD](https://neosmart.net/EasyBCD/) - *Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - *Preinstallation Environment* 
+* [Microsoft Downloads Dump](https://www.heidoc.net/php/myvsdump.php) - *Verify ISO Legitimacy*
 * [CD Key Reader](http://www.cathonian.com/software/cd-keyreader/) - *Find Key used to Install Windows*
 * [Windows XP Service Pack 4](https://www.majorgeeks.com/files/details/windows_xp_service_pack_4_unofficial.html) - *Windows XP Unofficial Service Pack 4 / [Drive](https://drive.google.com/drive/folders/1Uh0VYjq1hcd4oY_zNzEqAar1m4NO2uTC?usp=sharing)*
 * [ChangeWindows](https://www.changewindows.org/timeline) - *Latest Windows Update Info*
@@ -1293,6 +1301,7 @@ General Reading Sites*
 * [DefaultProgramsEditor](https://defaultprogramseditor.com/) - *File Association Editor*
 * [RegExp](https://github.com/zodiacon/RegExp) or [Registry-Finder](https://registry-finder.com/) - *Improved Registry Explorer*
 * [Awesome Regex](https://github.com/aloisdg/awesome-regex) - *Regex Resource Index*
+* [Regex Hub](https://projects.lukehaas.me/regexhub/) - *Useful Regex Patterns*
 * [Desktop Management](https://github.com/DeveloperWOW64/deskmgr) - *Improved Computer Management*
 * [Open Shell](https://open-shell.github.io/Open-Shell-Menu/), [2](https://github.com/Open-Shell/Open-Shell-Menu) or [SystemTrayMenu](http://hofknecht.eu/systemtraymenu) / [GitHub](https://github.com/Hofknecht/SystemTrayMenu) - *Improved Start Menu* 
 * [UltraCopier](http://ultracopier.first-world.info/) - *Improved File Copy Dialogs*
@@ -1443,8 +1452,9 @@ General Reading Sites*
 
 ## ▷ Customization
 
-* **[Rainmeter](https://www.rainmeter.net/)** - *Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter)* 
 * **[Wallpaper Sites / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Download Wallpapers*
+* **[Rainmeter](https://www.rainmeter.net/)** - *Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter)* 
+* **[Dracula](https://draculatheme.com/)** - *App Dark Themes*
 * [PCDesktops](http://pcdesktops.emuunlim.com/applinks.shtml) - *Windows Customization Apps*
 * [ScreenStyler](https://screenstyler.com/) -  *Desktop Customization / [Discord](https://discord.gg/u3thTMp9Cd)*
 * [XDesktopSoft](https://www.xwidget.com/) - *Desktop Customization*
@@ -1464,7 +1474,6 @@ General Reading Sites*
 * [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - *Audio Visualizer / FX Engine for Keyboards, Mice & Accessories*
 * [Mechvibes](https://mechvibes.com/) or [MechaKeys](https://mechakeys.robolab.io/) - *Keyboard Soundpacks*
 * [Darker](https://github.com/angelwzr/darker) - *Dark / Light Mode Theme Switcher*
-* [Dracula](https://draculatheme.com/) - *App Dark Themes*
 * [Accent Applicator](https://github.com/mcdenis/AccentApplicator) - *Applies Win 10 Accent Color to OS*
 * [ModernWinver](https://github.com/torchgm/ModernWinver) - *Modernize the About Windows Screen*
 * [pyWinContext](https://github.com/VodBox/pyWinContext) or [WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - *Custom Context Menu Manager* 
@@ -1488,7 +1497,7 @@ General Reading Sites*
 * [Cursors 4U](https://www.cursors-4u.com/) - *Cursors*
 * [Windows Sounds](https://winsounds.com/) or [Win11 Sounds](https://mega.nz/file/CpRkwTrD#9NihefiFDBirhwtXqSvjWAhrFzUPcJveCeePfWh1lmo) - *Windows Sound Schemes*
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - *MacOS Cursors for Windows*
-* [terminal.sexy](https://terminal.sexy/) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - *Terminal Color Schemes*
+* [terminal.sexy](https://terminal.sexy/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - *Terminal Color Schemes*
 * [linux-like-windows-terminal](https://github.com/Kyza/linux-like-windows-terminal) - *Linux Style Windows Terminal*
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - *Retro Cathode Terminal Theme*
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - *Pokemon Terminal Themes*
@@ -1505,7 +1514,7 @@ General Reading Sites*
 
 * **[File Hosting / Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - *Share, Store & Sync Files*
 * **[Multi-Site Cloud Storage Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_cloud_storage_managers)** - *Manage Cloud Files on Multiple Sites*
-* **[File Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_download_managers)** - *Programs to Help Manage Downloads*
+* **[File Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_download_managers)**, **[2](https://en.wikipedia.org/wiki/Comparison_of_download_managers)** - *Programs to Help Manage Downloads*
 * **[Windows File Explorers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_file_explorers)** - *Improved Windows File Explorers*
 * **[File Conversion Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_conversion_tools)** - *Tools to convert files*
 * **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** - *Google Drive Tools Colab / [GitHub](https://github.com/biplobsd/OneClickRun) / [Features](https://i.imgur.com/hEHM7Vy.png)*
@@ -1563,6 +1572,7 @@ General Reading Sites*
 * [Mega Checker](https://github.com/Titoot/mega-checker) - *Mega Link Checker*
 * [Unlimited Mega Storage](https://redd.it/ffrkf3) - *Unlimited Mega Storage Guide*
 * [MegaBox](https://github.com/ALIILAPRO/megabox) or [GetMega](http://getmega.net/) / [2](https://vn.getmega.net/) - *Direct Mega Links* 
+* [MEGA Uploader X](https://t.me/MegaUploadXbot) - *Remote Mega File Upload Bot*
 * [GDrive Guides](https://t.me/gdriveguides) - *GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)*
 * [Torrent2Drive](https://t.me/torrent_2_drive), [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - *DDL to GDrive Tool*
 * [GDriveDL](https://github.com/ariakm25/GDriveDL) - *Google Drive Bulk Downloader*
@@ -1584,6 +1594,8 @@ General Reading Sites*
 * [Backup System](https://github.com/danielpy108/BackUpMySystem) - *Backup Google Drive*
 * [SearchX](https://github.com/iamLiquidX/SearchX) - *Telegram GDrive Search Bot*
 * [OneDrive CF Index](https://github.com/spencerwooo/onedrive-cf-index) - *OneDrive Index*
+* [OneDrive X](https://t.me/onedrivexbot) - *Remote OneDrive File Upload Bot*
+* [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - *Fix OneDrive Zip Files >4gb*
 * [1fichier-dl](https://github.com/manuGMG/1fichier-dl) - *1Fichier Download Manager* 
 * [mf-dl](https://gitgud.io/Pyxia/mf-dl/) - *Mediafire Bulk File Downloader* 
 * [Treasure Hunt](https://github.com/xuac/treasure-hunt) - *Unlimited Treasure Cloud Storage*
@@ -1614,10 +1626,9 @@ General Reading Sites*
 * [Google Drivac](https://github.com/Data-Horde/gdrivac) - *Associate Gdrive Account with URL List*
 * [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [UptoTGbot](https://t.me/UptoTGbot), [Files Web Server](https://t.me/webdownload_bot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot) or [UploadDxbot](https://t.me/UploadDxbot) - *Upload Files to Telegram*  
 * [UploadBots](https://t.me/UploadBots) - *List of Telegram Upload Bots*
-* [Public Link Bot](https://t.me/Tg2extbot) or [GetPublicLinkBot](https://t.me/GetPublicLinkBot) - *Mirror Telegram files to external file hosts*   
+* [Public Link Bot](https://t.me/Tg2extbot), [AIO Uploader](https://t.me/aiouploaderbot) or [GetPublicLinkBot](https://t.me/GetPublicLinkBot) - *Telegram to File Host Upload Bot*   
 * [Uploader Bot X](https://t.me/url_uploadbot) - *Remotely uploads files to Telegram URL* 
 * [UploadURL](https://t.me/UploadsRobot) - *Remotely uploads files to Telegram / Mega.nz Support* 
-* [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - *Fix OneDrive Zip Files >4gb*
 * [Attribute Changer](https://www.petges.lu/) - *Edit File & Folder Properties*
 * [Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/), [AllDup](http://www.alldup.info/) or [dupeGuru](https://dupeguru.voltaicideas.net/) - *Duplicate File Finder* 
 * [TMSU](https://github.com/oniony/TMSU) or [SuperTag](https://github.com/amoffat/supertag) - *Tag-Based Filesystem* 
@@ -1637,7 +1648,7 @@ General Reading Sites*
 * [FilesMerge](https://www.filesmerge.com/) - *Online File Merger*
 * [Windows compact](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/compact) - *Displays or alters the compression of files or directories on NTFS partitions + [GUI 1](https://github.com/ImminentFate/CompactGUI) or [GUI 2](https://github.com/Freaky/Compactor)*
 * [Snap2HTML](https://rlvision.com/snap2html/about.php) - *Take HTML Snapshots of Folder / File Structures*
-* [Corrupt My File](http://www.corruptmyfile.com/) - *Intentionally Corrupt your Files*
+* [Corrupt My File](http://www.corruptmyfile.com/) or [Corrupt-A-File](https://corrupt-a-file.net/) - *Intentionally Corrupt your Files*
 * [HashTab](http://implbits.com/products/hashtab/), [HashCheck](https://github.com/idrassi/HashCheck) or [OpenHashTab](https://github.com/namazso/OpenHashTab) - *Calculate / Check File Hashes* 
 * [QuickSFV](https://quicksfv.org/), [RapidCRC](http://rapidcrc.sourceforge.net/) or [QuickDash](https://github.com/AndreVuillemot160/QuickDash/) / [Discord](https://discord.gg/ZuxmMXdGpm) - *File Hashing / Verification Tools*
 * [Hashes](https://hashes.com/) - *Decrypt Hashes*
