@@ -94,7 +94,7 @@
 
 # ► Torrent Games
 
-* **[Game Torrent CSE(https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** / **[2](https://idleendeavor.github.io/gamesearch/)** - *Search multiple sites at once*
+* **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** / **[2](https://idleendeavor.github.io/gamesearch/)** - *Search multiple sites at once*
 * **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)*
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "games" or "roms"*
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - *[Discord](https://discord.com/invite/GmTJ5Rm)*
