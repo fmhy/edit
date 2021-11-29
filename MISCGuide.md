@@ -33,8 +33,8 @@
 * [Neverland](http://www.neverland.ws/index.html) - *Piracy Index / [Links](https://rentry.co/oo9ri)* 
 * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr) - *Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)*
 * [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - *Piracy Index*
-* [Similar Sites](https://www.similarsites.com/), [SimilarWeb](https://www.similarweb.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
-* [DirtyWarez](https://dirtywarez.org/) - *Ranks Sites*
+* [Similar Sites](https://www.similarsites.com/), [Alexa Similar Sites](https://www.alexa.com/find-similar-sites), [SimilarWeb](https://www.similarweb.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
+* [DirtyWarez](https://dirtywarez.org/) or [CuteStat](https://www.cutestat.com/) - *Site Rankings & Stats*
 * [10 Words](https://discover.10words.io/) - *App / Tool Discovery*
 * [pilssken](https://pilssken.neocities.org/warez/) - *Piracy Index* 
 * [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - *Piracy Index / [Warning](https://i.imgur.com/jtT9GDB.png)*
@@ -50,6 +50,7 @@
 * [cata-list](https://cata-list.github.io/) - *Site / Tool Index* 
 * [Prospector](https://www.prospector.cz/) - *Site / Tool Index* 
 * [The More You Know](https://marckoxx.github.io/) - *Site / Tool Index*
+* [5000 Best](http://5000best.com/websites/) - *Site / [Tool](http://5000best.com/tools/) Index*
 * [Internet Redirections](https://techy-transistor.notion.site/techy-transistor/Internet-redirections-38a61405197a46ba8672c75d402a3225#58bffba979224bc3af93f0b1b8838806) - *Site / Tool Index*
 * [WebOrama](http://www.petergh.f2s.com/) - *Site / Tool Index*
 * [GoodSites](https://www.goodsites.tech/) -  *Site / Tool Index* 
@@ -82,9 +83,6 @@
 * [Websites From Hell](https://websitesfromhell.net/) - *Shitty Website Index*
 * [National Archives](http://www.nationalarchives.gov.uk/webarchive/) - *UK Government Site Archive*
 * [DeepWebLinks](https://deepweblinks.net/directories/), [dark.fail](https://dark.fail/),  [260+ Dark Web Links](https://ufile.io/pgvxf9jv), [Official Hidden Wiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/) or [Real World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites)
-* [Telegram Channels](https://telegramchannels.me/), [TG-ME](https://www.tg-me.com/), [tg_indexs](https://t.me/tg_indexs) or [Telegramic](https://telegramic.org/) - *Telegram Channel Index*
-* [BotsArchive](https://t.me/BotsArchive), [2](https://github.com/ebertti/awesome-telegram), [3](https://github.com/DenisIzmaylov/awesome-telegram-bots), [4](https://github.com/abdelhai/awesome-bots), [5](https://github.com/stkw0/awesome-telegram-groups), [6](https://github.com/serhii-londar/awesome-telegram), [7](https://github.com/lorien/awesome-telegram-lists), [8](https://telegramic.org/bots/) - *Telegram Bots Indexes* 
-* [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - *Telegram Channel / Bot Search*
 * [NetSplit](https://netsplit.de/) - *IRC Channel Index*
 * [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) - *API index* 
 * [Cyberlife](https://cyberpunk-life.neocities.org/) - *Cyberpunk-Related Content / Sites Index* 
@@ -245,6 +243,7 @@
 * [VentScape](https://www.ventscape.life/) - *Speak into a Void* 
 * [The Nicest Place](https://thenicestplace.net/) - *Internet Hugs*
 * [Dazzle](https://workingbuild.herokuapp.com/) - *Virtual Chat, Video & Drawing World*
+* [Wireclub](https://www.wireclub.com/) - *Topic Chat Rooms*
 * [Aggie.io](https://aggie.io/) or [malmal](https://malmal.io/) - *Draw with Friends or Strangers* 
 * [Monsterland](https://www.monsterland.net/) - *Collabortive Monster Drawing* 
 * [Awesome Lego](https://github.com/ad-si/awesome-lego) - *Lego Resource Index* 
