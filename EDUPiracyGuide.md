@@ -521,6 +521,7 @@
 * [LitCharts](https://www.litcharts.com/) - *Literature Guides*
 * [KausalFlow](https://tools.kausalflow.com/) - *Academic Research Tools* 
 * [Zotero](https://www.zotero.org/) - *Research Organization Tool* 
+* [StringMark](https://www.stringmark.com/) - *Save & Mark Research in Browser*
 * [TimeLY](https://github.com/noahweasley/TimeLY) - *University Activity & Class Tracker*
 * [Stublio](https://stublio.com/) or [Studify](https://github.com/cmcodes1/Studify) - *Keep Track of what you're Studying* 
 * [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - *Educational Communication / iOS*
@@ -535,8 +536,8 @@
 * [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - *Grade School Educational Tools*
 * [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - *UPSC Telegram Channels* 
 * [AuthorStream](http://www.authorstream.com/) or [Slideshare](https://www.slideshare.net/) - *Watch / Share Slideshows & Presentations* 
-* [Periodic Stats](https://periodicstats.com/), [The Periodic Table Of Elements](https://periodictableofchemicalelements.com/), [3D Periodic Table](https://artsexperiments.withgoogle.com/periodic-table/) or [Ptable](https://ptable.com/) - *Interactive Periodic Table* 
-* [Images-Of-Elements](https://images-of-elements.com/) - *Periodic Table With Images*
+* [Periodic Stats](https://periodicstats.com/), [The Periodic Table Of Elements](https://periodictableofchemicalelements.com/), [Images-Of-Elements](https://images-of-elements.com/), [3D Periodic Table](https://artsexperiments.withgoogle.com/periodic-table/) or [Ptable](https://ptable.com/) - *Periodic Tables* 
+* [ChemicalAid](https://en.intl.chemicalaid.com/) - *Chemistry Calculators & Element Tables*
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
 * [Retrosynthesis](http://retrosynthesis.com/) - *Organic Retrosynthesis Engine / [GitHub](https://github.com/sudo-rushil/odachi)*
 * [amrita olabs](https://amrita.olabs.edu.in/) - *Science Practicals / Theory / Animations / Simulations* 
