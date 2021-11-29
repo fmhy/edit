@@ -368,6 +368,7 @@
 * [Library of Liberty](https://oll.libertyfund.org/) - *Liberty / Free Market*
 * [Legal Mises Institute](https://mises.org/) - *Books / Audio books / Libertarianism* 
 * [Third World Traveler](https://thirdworldtraveler.com/) - *Human Rights / Conspiracies / Anti-War*
+* [/r/Antiwork Library](https://www.reddit.com/r/antiwork/wiki/library) - *Anti-Servitude Resources*
 * [Anti-Authoritarianism / Servitude](https://rentry.co/kee5h) - *Anti-Authoritarianism / Servitude Quotes*
 * [China-Dictatorship](https://github.com/cirosantilli/china-dictatorship) - *Anti-Chinese Authoritarianism*
 * [Kialo](https://www.kialo.com/) - *Popular Debates / Discussion* 
