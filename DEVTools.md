@@ -560,6 +560,7 @@
 * [AutoCode](https://autocode.com/) - *Instant Endpoints*
 * [Mega Linter](https://github.com/nvuillam/mega-linter) - *Code Analyzer* 
 * [tabnine](https://www.tabnine.com/) - *AI Assisted Code Completion*
+* [editorcornfig](http://editorconfig.org/) - *Maintain consistent code styles across editors*
 * [overmind](https://github.com/DarthSim/overmind) or [foreman](https://github.com/ddollar/foreman) - *Process Managers*
 * [cpp.sh](http://cpp.sh/) - *Online C++ Compiler*
 * [asdf](https://asdf-vm.com/) - *Multi-Runtime Management CLI*
