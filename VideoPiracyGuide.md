@@ -82,6 +82,7 @@
 * [iMovies](https://www.imovies.cc/) - *Movies / TV / Anime*
 * [AllMoviesForYou](https://allmoviesforyou.co/) - *Movies / TV* 
 * [FlixGo](https://flixgo.me/) - *Movies / TV*
+* [TheFlix](https://theflix.to/) - *Movies / TV*
 * [1movies](https://ww2.1movies.is/), [Real-Primewire](https://real-primewire.club/), [CouchTuner](https://couchtuner.fashion/) or [New-Primewire](https://ww1.new-primewire.com/) - *Movies / TV / Anime*
 * [Vmovee HD](https://vmoveehd.com/) - *Movies / TV*
 * [VidStore](https://stream.vidzstore.com/) - *Movies*
@@ -532,7 +533,7 @@
 * **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "video"*
 * **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - *Download videos from streaming sites*
-* **[Pahe](http://pahe.ph/)** - *Movies / TV / Anime / [Discord](https://discord.gg/33P8hpR) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper)*
+* **[Pahe](http://pahe.ph/)** - *Movies / TV / Anime / [Discord](https://discord.gg/33P8hpR) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper) / [Rips](https://mkvking.net/), [2](https://mkvking.me/)*
 * **[Worlds Cinema](http://worldscinema.org/)** - *Old / Classic / Cult Films*
 * **[TopNow](http://topnow.se/)** - *Movies / [Discord](https://discord.gg/WHYmgeB)*
 * **[Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download)** - *Many of these sites have single click downloads*
@@ -546,6 +547,7 @@
 * [MoviesforDiscord](https://discord.movies4discord.xyz/) - *Movie Streaming / Download Bot / [Website](https://movies4discord.xyz/)*
 * [Medeberiyaa](https://medeberiyaa.com/) - *Movies / TV / Anime*
 * [PSARips](https://psarips.top/) - *Movies / TV / [GDrive Telegram](https://t.me/PSAonGdrive) / [Scraper](https://github.com/NandiyaLive/PSALinkGrabber) / [IMDb Titles](https://github.com/ni554n/userscripts/tree/master/psarips-replace-post-titles-with-imdb-links)* 
+* [MNF Encode](https://mnfencode.me/) - *Movies / TV / Concerts / [Discord](https://discord.gg/5QTp8cgrjx)*
 * [JalshamoviezHD](https://www.jalshamoviezhd.stream/category/33/hollywood-movies/default/1.html) - *Movies*
 * [My9JARocks](https://my9jarocks.com/category/videodownload/hollywood-movie) - *Movies / TV*
 * [HDMP4Mania](https://hdmp4mania1.net/showcat.php?catid=2) - *Movies*
@@ -596,6 +598,7 @@
 * [Best-MovieZ](https://www.best-moviez.ws/) - *Movies / TV*
 * [mkvCinemas](https://www.mkvcinemas.tube/) - *Movies*
 * [MKVHub](https://www.mkvhub.co/) - *Movies / TV*
+* [MovieLegacy](https://movieslegacy.com/category/hollywood/) - *Movies*
 * [MoviesYug](http://www.moviesyug.net/cat/hollywood-series-movies-24.html) - *Movies*
 * [Gophie](https://gophie.cam/) - *Movies / TV*
 * [Go-Movie](http://go-movie.ru/) - *Movies*
