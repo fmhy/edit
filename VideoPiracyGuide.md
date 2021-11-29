@@ -60,6 +60,7 @@
 * [CooLMoviez](https://coolmoviez.app/) - *Movies / TV / Anime / [Telegram](https://t.me/coolmoviezfree)*
 * [TheMovieBay](https://vww.themoviebay.net/) - *Movies / TV / Videyo*
 * [FZMovies](https://fzmovies.net/) - *Movies / [How to Use](https://imgur.com/a/EtLokxO)* 
+* [FlixZone](https://flixzone.ga/) - *Movies / TV*
 * [MoviesForFree](https://movieforfree.co/) - *Movies / TV*
 * [AZMovies](https://azm.to) - *Movies*
 * [HDMovieBox](https://hdmoviebox.org/) - *Movies*
@@ -535,6 +536,7 @@
 * **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - *Download videos from streaming sites*
 * **[Pahe](http://pahe.ph/)** - *Movies / TV / Anime / [Discord](https://discord.gg/33P8hpR) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper) / [Rips](https://mkvking.net/), [2](https://mkvking.me/)*
 * **[Worlds Cinema](http://worldscinema.org/)** - *Old / Classic / Cult Films*
+* **[Movies Cave](https://moviescave.netlify.app/)** - *Movies / TV / Anime / [Discord](https://discord.com/invite/5GqPYpWmkx)*
 * **[TopNow](http://topnow.se/)** - *Movies / [Discord](https://discord.gg/WHYmgeB)*
 * **[Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download)** - *Many of these sites have single click downloads*
 * [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
@@ -839,6 +841,7 @@
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - *TV / Anime*
 * [IMDb](https://www.imdb.com/) or [TMDb](https://www.themoviedb.org/) - *Movies / TV / Anime*
 * [IMDb Tomatoes](https://greasyfork.org/en/scripts/15222-imdb-tomatoes) - *Rotten Tomatoes Ratings on IMDb*
+* [5000 Best](http://5000best.com/) - *5000 Best Movies*
 * [TVDb](https://www.thetvdb.com/) - *TV / Anime*
 * [GCDb](https://www.grindhousedatabase.com/) - *Grindhouse Cinema*
 * [FFCritic](http://foundfootagecritic.com/hubs/hub-films/) - *Found Footage*
@@ -901,8 +904,9 @@
 
 # ► Request Videos
 
-* **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)** - *Movies / TV* 
 * **[YourPTFlix](https://yourptflixmovies.com/forum/44-movie-requests/)** - *Movies / TV / Sports*
+* **[Movies Cave](https://docs.google.com/forms/d/e/1FAIpQLSe-cPcYEIox_Ymx4NkUDpWNOpoFK2ZPcH0tAN3v2TvuXt8nYg/viewform)** - *Movies / TV / Anime*
+* **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)** - *Movies / TV* 
 * **[Movie-Forum](https://movie-forum.co/forums/23-Requests)** - *Movies*
 * **[TopNow](https://discord.gg/marBA97)** - *Movies / TV / Anime*
 * **[WorldsCinema](http://worldscinema.org/movie-request/)** - *Movies* 
@@ -1011,10 +1015,10 @@
 * **[Video Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - *General Video Tools*
 * **[Media Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_servers)** - *Servers to Host / Play Media* 
 * **[OpenVideo](https://openvideofs.github.io)** - *Use Streaming Sites in Ad Free Player w/ subs, Speed Control & More*
+* **[WhereYouWatch,](https://whereyouwatch.com/latest-reports/)** [Squawkr](https://www.squawkr.io/), [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates), [Torrent Alert](https://play.google.com/store/apps/details?id=com.torrentalert.app&hl=en&gl=US) or [/r/movieleaks](https://reddit.com/r/movieleaks) - *Movie Leak Notifications*
 * **[Video Quality & Types of Releases](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)** - *Video Quality / Release Type Guide / [Image Guide](https://i.imgur.com/kEOrKJT.png)*
-* **[Movie/TV Show Tier List](https://docs.google.com/spreadsheets/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/)**, [2](https://github.com/Cloudbox/Community/wiki/Quality-Release-Groups) - *Movie / TV Release Group Index*
+* **[Release Group Tier List](https://docs.google.com/spreadsheets/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/)**, [2](https://github.com/Cloudbox/Community/wiki/Quality-Release-Groups) - *Movie / TV Release Group Index*
 * **[/r/animepiracy Wiki](https://wiki.piracy.moe/)** - *Anime Piracy Guides / Tutorials*
-* **[WhereYouWatch,](https://whereyouwatch.com/latest-reports/)** [Squawkr](https://www.squawkr.io/), [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates) or [/r/movieleaks](https://reddit.com/r/movieleaks) - *Check if a Movie has Leaked*
 * [RunPee](https://runpee.com/) - *Best Movie Break Times*
 * [GoGetSpoiled](https://gogetspoiled.com/), [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - *Movie Spoilers* 
 * [Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Covers for Movies, TV ect.* 
