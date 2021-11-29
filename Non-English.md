@@ -327,6 +327,7 @@
 * [WiFlix](https://wiflix.site/) - *Movies / TV / Anime* 
 * [IPTV Streaming](http://iptv-streaming.tk/) - *Live IPTV*
 * [dtvd](https://dtvd.net/) or [liveschauen](https://liveschauen.com/) - *Live TV* 
+* [ADKami](https://www.adkami.com/) - *French Anime Calendar*
 
 ## ▷ Reading
 
