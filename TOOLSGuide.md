@@ -937,7 +937,6 @@ General Reading Sites*
 * [CloneCord](https://github.com/Rekulous/CloneCord-bot) - *GClone Cloud Storage File Manager in Discord*
 * [Custom Rich Discord Presence](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_custom_rich_discord_presence) - *Customize Discord Rich Presence* 
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - *Discord Rich Presence Manager*
-* [BetterMediaPlayer](https://github.com/unknown81311/BetterMediaPlayer) - *Improved Discord Media Player*
 * [PlayStationDiscord](https://tustin.dev/PlayStationDiscord/) - *PlayStation Discord Rich Presence*
 * [Adobe Discord RPC](https://github.com/lolitee/adobe-discord-rpc) - *Adobe Rich Presence*
 * [iTunes-Discord-RP](https://github.com/kkevinm/iTunes-Discord-RP) - *iTunes Rich Presence* 
