@@ -254,6 +254,7 @@
 * [GodChecker](https://www.godchecker.com/) - *Learn about Gods from different Religions*
 * [Hermetic International](https://www.hermetics.net/) - *Religion / Occult / Alchemy / Astrology / Freemasonry / Gnosticism / Hermetic / Kabbalah / Philosophy*
 * [Temple of Solomon the King](https://mega.nz/#F!SfZyUYRK!yW7p_LkWtooQaVZ3Vr6WLQ), [2](https://mega.nz/folder/ig0CBbLS#pGy_4LFIXKdtF_Ey5CVCdw/folder/TpVG3ITY), [3](https://mega.nz/folder/jlEwhYyJ#iK4mVC4y5iwk_cr3eIpX4g) - *Occult / Gnosticism / Esoterism. / Drive* 
+* [Metaphysics Quotes](https://rentry.co/47i3a) - *Metaphysical Concepts by Topic*
 * [Abundant Hope](https://krishnamurti.abundanthope.org/) - *Sacred Texts / Religion / Christianity / Buddhism / Alchemy / Hinduism / Islam / Theosophy / Judaism / Taoism*
 * [Hermetics](http://www.hermetics.org/library.html) - *Ancient Texts / Mythology / Occult*
 * [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - *Religion / Esoterica / Occult*
@@ -367,6 +368,7 @@
 * [Library of Liberty](https://oll.libertyfund.org/) - *Liberty / Free Market*
 * [Legal Mises Institute](https://mises.org/) - *Books / Audio books / Libertarianism* 
 * [Third World Traveler](https://thirdworldtraveler.com/) - *Human Rights / Conspiracies / Anti-War*
+* [Anti-Authoritarianism / Servitude](https://rentry.co/kee5h) - *Anti-Authoritarianism / Servitude Quotes*
 * [China-Dictatorship](https://github.com/cirosantilli/china-dictatorship) - *Anti-Chinese Authoritarianism*
 * [Kialo](https://www.kialo.com/) - *Popular Debates / Discussion* 
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
