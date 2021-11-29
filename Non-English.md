@@ -78,6 +78,7 @@
 * [download-pdf-ebooks](https://download-pdf-ebooks.online/) - *Books* 
 * [kutub](https://www.kutub-pdf.net/) - *Books* 
 * [foulabook](https://foulabook.com/) - *Books* 
+* [EbookSar](https://www.ebooksar.com/) - *Books*
 * [Manga Plus](https://t.me/Manga_Plus_Ar) - *Manga*
 
 ***
