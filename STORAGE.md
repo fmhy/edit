@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/unDuuCs.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/tmHIJCZ.png)** - *For mobile users*
 
 ***
 ***
@@ -50,7 +50,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### After Effects Templates
 
-[ShareAE](https://www.shareae.com/), [HunterAE](https://hunterae.com/), [AEShares](https://aeshares.com/), [AEDownload](https://aedownload.com/), [AERiver](https://aeriver.com/), [CGNullded](https://cgnulled.com/), [Intro HD](https://intro-hd.net/), [AEDownloadPro](https://www.aedownloadpro.com/) [DownAE](https://downae.com/)
+[ShareAE](https://www.shareae.com/), [HunterAE](https://hunterae.com/), [AEShares](https://aeshares.com/), [AEDownload](https://aedownload.com/), [AERiver](https://aeriver.com/), [CGNullded](https://cgnulled.com/), [Intro HD](https://intro-hd.net/), [AEDownloadPro](https://www.aedownloadpro.com/) [DownAE](https://downae.com/), [Adobe After Effects Collection](https://drive.google.com/drive/folders/17-qFK26tVxfds2S-q5zjMVwa4o81Bm_e)
 
 ***
 
@@ -389,7 +389,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Compression Programs
 
-**[Conversion Tutorial Index](https://fileforums.com/showthread.php?t=96782)**, **[7-zip](https://www.7-zip.org/)** / [Fork](https://github.com/M2Team/NanaZip) / [Dark](https://github.com/huanrenfeng/7zipDarkmode), [win-rar](https://www.win-rar.com/) / [Remove Popup](http://cooltricksb.blogspot.com/2015/03/how-to-remove-40-days-trial-period.html?m=1), [peazip](https://peazip.github.io/), [hamstersoft](https://hamstersoft.com/), [Unzip Online](https://unzip-online.com/en), [kgbarchiver](https://github.com/RandallFlagg/kgbarchiver), [Pigz](https://zlib.net/pigz/), [GNU Gzip](http://www.gnu.org/software/gzip/), [ezyZip](https://www.ezyzip.com/), [FreeARC](https://sourceforge.net/projects/freearc/) / [FreeARC 0.666](https://www68.zippyshare.com/v/qZUpSdVT/file.html), [UltraARC](https://www.fileforums.com/showpost.php?p=476660&postcount=1135), [p7zip](https://github.com/jinfeihan57/p7zip), [Razorx](https://fileforums.com/showthread.php?t=103577&highlight=Razorx), [DZip](http://speeddemosarchive.com/dzip/), [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer), [bzip2](http://sourceware.org/bzip2/), [bandizip](http://www.bandisoft.com/bandizip/), [tugzip](http://www.tugzip.com/), [compress](https://github.com/clowdhaus/compress) (GitHib Actions), [objectfixzip](https://www.essentialdatatools.com/products/objectfixzip/) (repair zip), [Benchmark](https://github.com/powturbo/TurboBench), [7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd), [Unrar.online](https://unrar.online/), [izarc](https://www.izarc.org/), [zipextractor](https://zipextractor.app/)
+**[Conversion Tutorial Index](https://fileforums.com/showthread.php?t=96782)**, **[7-zip](https://www.7-zip.org/)** / [Fork](https://github.com/M2Team/NanaZip) / [Dark](https://github.com/huanrenfeng/7zipDarkmode), [win-rar](https://www.win-rar.com/) / [Remove Popup](http://cooltricksb.blogspot.com/2015/03/how-to-remove-40-days-trial-period.html?m=1), [peazip](https://peazip.github.io/), [hamstersoft](https://hamstersoft.com/), [Unzip Online](https://unzip-online.com/en), [kgbarchiver](https://github.com/RandallFlagg/kgbarchiver), [Pigz](https://zlib.net/pigz/), [GNU Gzip](http://www.gnu.org/software/gzip/), [ezyZip](https://www.ezyzip.com/), [FreeARC](https://sourceforge.net/projects/freearc/) / [FreeARC 0.666](https://www68.zippyshare.com/v/qZUpSdVT/file.html), [UltraARC](https://www.fileforums.com/showpost.php?p=476660&postcount=1135), [p7zip](https://github.com/jinfeihan57/p7zip), [Razorx](https://fileforums.com/showthread.php?t=103577&highlight=Razorx), [DZip](http://speeddemosarchive.com/dzip/), [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer), [bzip2](http://sourceware.org/bzip2/), [bandizip](http://www.bandisoft.com/bandizip/), [tugzip](http://www.tugzip.com/), [compress](https://github.com/clowdhaus/compress) (GitHib Actions), [objectfixzip](https://www.essentialdatatools.com/products/objectfixzip/) (repair zip), [Benchmark](https://github.com/powturbo/TurboBench), [7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd), [Unrar.online](https://unrar.online/), [izarc](https://www.izarc.org/), [zipextractor](https://zipextractor.app/), [zipware](https://www.zipware.org/), [winzip](https://www.winzip.com/)
 
 ***
 
@@ -1163,7 +1163,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Note Taking / To Do Apps
 
-[NoteApps](https://noteapps.info/) (index), [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB), [GoogleKeepClone](https://github.com/anselm94/googlekeepclone), [DecksApp](https://decksapp.com/), [TinyList](https://tinylist.app/), [Simplenote](https://simplenote.com/), [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) / [Github](https://github.com/martinstoeckli/SilentNotes), [Standard Notes](https://standardnotes.com/), [QOwnNotes](https://www.qownnotes.org/), [TiddlyWiki](https://tiddlywiki.com/), [Idaesbasic](https://www.github.com/BenHerbst/idaesbasic), [To-Do_App](https://github.com/BigFloppa404/To-Do_App), [Zim Wiki](https://zim-wiki.org/), [Glory Todo Desktop](https://github.com/yessGlory17/glory_todo_desktop), [TickTick](https://www.ticktick.com/), [OpenToDoList](https://gitlab.com/rpdev/opentodolist)
+[Notion](https://www.notion.so/), [AppFlowy](https://www.appflowy.io/), [NoteApps](https://noteapps.info/) (index), [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB), [GoogleKeepClone](https://github.com/anselm94/googlekeepclone), [DecksApp](https://decksapp.com/), [TinyList](https://tinylist.app/), [Simplenote](https://simplenote.com/), [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) / [Github](https://github.com/martinstoeckli/SilentNotes), [Standard Notes](https://standardnotes.com/), [QOwnNotes](https://www.qownnotes.org/), [TiddlyWiki](https://tiddlywiki.com/), [Idaesbasic](https://www.github.com/BenHerbst/idaesbasic), [To-Do_App](https://github.com/BigFloppa404/To-Do_App), [Zim Wiki](https://zim-wiki.org/), [Glory Todo Desktop](https://github.com/yessGlory17/glory_todo_desktop), [TickTick](https://www.ticktick.com/), [OpenToDoList](https://gitlab.com/rpdev/opentodolist)
 
 ***
 
@@ -1291,7 +1291,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Sites**
 
-**[Sejda](https://www.sejda.com/)**, [iLovePDF](https://www.ilovepdf.com/), [Smallpdf](https://smallpdf.com/), [PDF24](https://tools.pdf24.org/en/), [PDFCandy](https://pdfcandy.com/), [SodaPDF](https://online.sodapdf.com/), [PDFonFly](https://pdfonfly.com/), [PDFShelter](https://pdfshelter.com/), [DocHub](https://dochub.com/), [PDFRedizer](https://www.pdfresizer.com/), [PDFRock](https://pdfrock.com/), [FreePDFConvert](http://www.freepdfconvert.com/)
+**[Sejda](https://www.sejda.com/)**, [iLovePDF](https://www.ilovepdf.com/), [Smallpdf](https://smallpdf.com/), [PDF24](https://tools.pdf24.org/en/), [PDFCandy](https://pdfcandy.com/), [SodaPDF](https://online.sodapdf.com/), [PDFonFly](https://pdfonfly.com/), [PDFShelter](https://pdfshelter.com/), [DocHub](https://dochub.com/), [PDFRedizer](https://www.pdfresizer.com/), [PDFRock](https://pdfrock.com/), [FreePDFConvert](http://www.freepdfconvert.com/), [pdf.online](https://pdf.online/)
 
 **Programs** 
 
@@ -2070,6 +2070,20 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
+#### Telegram File Tools
+
+* [Google Drive Bot](https://t.me/Gdriveit_bot) - *Google Drive Client in Telegram*
+* [SearchX](https://github.com/iamLiquidX/SearchX) - *Telegram GDrive Search Bot*
+* [GdriveXbot](https://t.me/GdriveXbot), [HK_upload_bot](https://t.me/HK_driveupload_bot), [gdrive_upload_bot](https://t.me/gdrive_upload_bot), [driveuploadbot](https://t.me/driveuploadbot) or [gdriveupme_bot](https://t.me/gdriveupme_bot) - *Google Drive Telegram upload bots* 
+* [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [UptoTGbot](https://t.me/UptoTGbot), [Files Web Server](https://t.me/webdownload_bot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot) or [UploadDxbot](https://t.me/UploadDxbot) - *Upload Files to Telegram*  
+* [UploadBots](https://t.me/UploadBots) - *List of Telegram Upload Bots*
+* [Public Link Bot](https://t.me/Tg2extbot), [AIO Uploader](https://t.me/aiouploaderbot) or [GetPublicLinkBot](https://t.me/GetPublicLinkBot) - *Telegram to File Host Upload Bot*   
+* [Uploader Bot X](https://t.me/url_uploadbot) - *Remotely uploads files to Telegram URL* 
+* [UploadURL](https://t.me/UploadsRobot) - *Remotely uploads files to Telegram / Mega.nz Support* 
+* [mediainforobot](https://t.me/mediainforobot) - *Media File Info*
+
+***
+
 #### Telegram eBook Download
 
 * [Nexus](https://t.me/libgen_scihub_bot) - *[Bot News](https://t.me/nexus_search) / [Discussion](https://t.me/joinchat/SKgGpCnrzMdkMRxJ), [RU Discussion](https://t.me/joinchat/RfkIXNjqQmpXuQj5)*
@@ -2180,7 +2194,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Text Rephrashing
 
-[QuillBot AI](https://quillbot.com/), [Rewrite Tool](https://www.rewritetool.net/), [Paraphraz](https://paraphraz.it/), [Rewriter](https://rewriter.tools/), [Spinbot](https://spinbot.com/), [Paraphrasing Tool](https://paraphrasetool.com/), [ArticleReword](https://www.articlereword.com/rewriter/), [Rephrasely](https://rephrasely.com/) 
+[QuillBot AI](https://quillbot.com/), [Rewrite Tool](https://www.rewritetool.net/), [Paraphraz](https://paraphraz.it/), [Rewriter](https://rewriter.tools/), [Spinbot](https://spinbot.com/), [Paraphrasing Tool](https://paraphrasetool.com/), [ArticleReword](https://www.articlereword.com/rewriter/), [Rephrasely](https://rephrasely.com/), [Paraphraser](https://www.paraphraser.io/) 
 
 ***
 
