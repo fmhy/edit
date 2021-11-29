@@ -325,8 +325,7 @@
 * [Rapload](https://rapload.org/) - *Hip Hop / MP3*
 * [HipHopa](https://hiphopa.net/) - *Hip Hop / MP3*
 * [MikuDB](http://mikudb.moe/) - *Vocaloid / MP3*
-* [Squid-Board](https://www.squid-board.ru/), [DS Soundtrack](https://dsoundtrack.com/) or [SittingOnClouds](https://www.sittingonclouds.net/) - *Soundtracks* 
-* [Download-Soundtracks](http://download-soundtracks.com/), [Audio-Track](https://www.audio-track.com/en), [3ost](https://3ost.ru/) or [tanikal](https://www.tanikal.com/) - *Movie / TV Soundtracks*
+* [Squid-Board](https://www.squid-board.ru/), [Все Саундтреки](http://xn--80adhccsnv2afbpk.xn--p1ai/), [DS Soundtrack](https://dsoundtrack.com/), [Download-Soundtracks](http://download-soundtracks.com/), [Audio-Track](https://www.audio-track.com/en), [3ost](https://3ost.ru/), [tanikal](https://www.tanikal.com/) or [SittingOnClouds](https://www.sittingonclouds.net/) - *Soundtracks* 
 * [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://github.com/TheLastZombie/VGMLoader) / [2](https://github.com/obskyr/khinsider), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
 * [Sitting On Clouds](https://www.sittingonclouds.com/) - *Game / Animation Soundtracks* 
 * [AniPlaylist](https://aniplaylist.com/), [OSAnime](https://osanime.com/), [YumeOST](https://www.yumeost.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - *Anime Soundtracks* 
