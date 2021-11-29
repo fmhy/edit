@@ -148,6 +148,9 @@
 * [picom](https://github.com/yshui/picom) - *X11 Compositor*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
 * [Learn the Linux Command Line](https://mega.nz/folder/BlRVyArK#84n4ZhYZCRXLjt-KEP6u6g) or[LinuxCommand](https://www.linuxcommand.org/tlcl.php) - *Linux Command Line Lessons*
+* [shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial) - *Shell Scripting Tutorial*
+* [explainshell.com](https://explainshell.com/) - *Match Command-Line Arguments to Help Text*
+* [ShellCheck](https://www.shellcheck.net/) - *Shell Script Bug Check*
 * [Command Line Shells](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_command_line_shells)
 
 ***
