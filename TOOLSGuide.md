@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/Qeqs2AN.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/WPKAUZm.png)** - *For mobile users*
 
 ***
 *** 
@@ -21,7 +21,6 @@
 * **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/) or [UN Data](https://data.un.org/) - *World Data & Statistics*
 * **[Our World in Data](http://ourworldindata.org/)** - *World Problem Database*
 * **[BeMyEyes](https://www.bemyeyes.com/)** - *Assist the Visually Impaired* 
-* [ShellBot](https://github.com/MannyHackers/ShellBot) - *Multi-Tool Telegram Bot*
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - *Open Source Tools* 
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - *Mac-Style Dashboard Widget*
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - *AI Experiments / Tools* 
@@ -109,7 +108,6 @@
 * [PrivNote](https://privnote.com/) or [IPNote](https://ipnote.io/) - *Notes that Auto Delete After Being Read* 
 * [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - *Calendar & Scheduling Tools*
 * [Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - *Note Taking & To-do Apps*
-* [Notion](https://www.notion.so/) - *Notes / Tasks / Wikis / Databases*
 * [KiloDoc](https://www.kilodoc.com/) - *Online Document Editor* 
 * [Nute](https://nute.app/) - *Quickly Make & Save Text Files*
 * [Lyx](https://www.lyx.org/) - *LaTeX Editor / [Guide](https://www.learnlatex.org/)*
@@ -549,15 +547,6 @@
 * [Slink](https://slink.chat/) - *Aim Inspired Chat Client*
 * [Rocket Chat](https://rocket.chat/) - *Self-Hosted Chat Client*
 * [Delta Chat](https://delta.chat/en/) - *Email Based Messenger* 
-* [Unigram](https://github.com/UnigramDev/Unigram), [Tok](https://invent.kde.org/network/tok), [TDesktop](https://github.com/Forkgram/tdesktop) or [Kotatogram](https://github.com/kotatogram/kotatogram-desktop) - *Telegram Desktop Client*
-* [Web.Telegram](https://web.telegram.org/), [2](https://webk.telegram.org/), [3](https://webz.telegram.org/) - *Telegram Web Client*
-* [TeleWebGram](https://telewebgram.com/) - *Online Telegram Channel Viewer*
-* [Rose](https://t.me/MissRose_bot) - *Telegram Group Manager*
-* [TGCF](https://github.com/aahnik/tgcf) - *Telegram Message Forwarding*
-* [Userge](http://theuserge.tech/) - *Multi-Tool Telegram Bot*
-* [Skeddy](https://skeddy.me/) - *Telegram Reminder Bot*
-* [ChecklyBot](https://t.me/checklybot) - *Checklist Telegram Bot*
-* [Telegram Scraper](https://www.telegramscraper.com/) - *Telegram Member / Group Export*
 * [Conduit](https://gitlab.com/famedly/conduit) or [publiclist.anchel](https://archive.md/4xZE4) - *Matrix Home Servers* 
 * [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) or [List of Matrix Servers](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html) - *Matrix Server List*
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
@@ -571,7 +560,6 @@
 * [Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients) - *Send & Receive Mail*
 * [BeFree](https://beefree.io/templates/free/) - *Email Templates*
 * [FreeMail](https://extrassl.actalis.it/portal/uapub/freemail?lang=en) - *Free Mail Certificate*
-* [Telegram Email](https://t.me/etlgr_bot) - *Send / Receive Emails via Telegram* 
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://www.nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - *Scheduled Email Sending & Reminders* 
 * [Email Tracker](https://snov.io/email-tracker), [GetNotify](https://www.getnotify.com/) or [Mailtrack](https://mailtrack.io/) - *Email Engagement Tracker*
 * [Cleanfox](https://www.cleanfox.io/) - *Easily Clean Email Inbox* 
@@ -662,6 +650,7 @@
 * [Browserling](https://www.browserling.com/) - *Browser Emulators*
 * [n.eko](https://n.eko.moe/) - *Self-Hosted Virtual Browser*
 * [Safari Windows](https://mega.nz/file/zqoEWZaQ#qNAN8JnV_79gII4ofMs4ZwMAcydZAQw6Gdng_QEyNDw) - *Safari for Windows*
+* [Browserflow](https://browserflow.app/) - *Automate Repetitive Browser Tasks*
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) - *Prevent Firefox Memory Leaks* 
 * [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) - *Firefox Hidden Settings*
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - *Firefox Themes List*
@@ -705,14 +694,11 @@ General Reading Sites*
 * [SearchEnginesIndex](https://www.searchenginesindex.com/), [Fagan Finder](https://www.faganfinder.com/), [DirectSearch.Net](http://www.directsearch.net/) or [Search Engine Colossus](https://www.searchenginecolossus.com/) - *Search Engine Directory*
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - *DuckDuckGo !bang Meta Serarch / [GitHub](https://github.com/MoserMichael/duckduckbang)*
 * [Soovle](https://soovle.com/) or [Keyword Tool](https://keywordtool.io/) - *Popular Keyword Generator*
-* [Alexa Similar Sites](https://www.alexa.com/find-similar-sites) - *Similar / Related Site Search*
 * [Social-Searcher](https://www.social-searcher.com/) or [Social Mention](http://socialmention.com/) - *Social Media Search Engine*  
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - *Forum Search Engine* 
 * [Blog Search Engine](http://www.blogsearchengine.org/) - *Blog Search*
 * [Mibbit](https://search.mibbit.com/) - *IRC Channel Search*
-* [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - *Telegram CSE*
 * [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - *Paste Engine Search*
-* [SearchBuzz](http://search.buzz.im/) - *Telegram Message Search Engine*
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - *Search Engine for Lightweight Web Pages*
 * [Search My Site](https://searchmysite.net/) - *Search Engine for Independent and Personal websites / Open Source*
 * [algolia](https://hn.algolia.com/) - *Hacker News Search* 
@@ -726,6 +712,8 @@ General Reading Sites*
 * [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - *Search TikTok*
 * [UserSearch](https://usersearch.org/) - *Username Search*
 * [Graph.tips](https://graph.tips/beta/) - *Advanced Facebook Search Tool* 
+* [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - *Telegram CSE*
+* [SearchBuzz](http://search.buzz.im/) - *Telegram Message Search Engine*
 * [Google Search Operator Cheat Sheets](https://moz.com/learn/seo/search-operators), [2](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [3](https://ahrefs.com/blog/google-advanced-search-operators/), [4](https://l-lists.com/en/lists/m1mdwx.html), [5](https://github.com/BushidoUK/OSINT-SearchOperators)
 * [Google Search Guide](https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters) + [Advanced](https://coursebuilder.withgoogle.com/)
 * [Yandex Search Operator Cheat Sheets](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/), [3](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
@@ -787,7 +775,7 @@ General Reading Sites*
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - *Telegram Link Shortener Bot* 
 * [suri](https://github.com/jstayton/suri) - *Self-Deployed Link Shortener*
 * [Fuselink](https://www.fuselink.co/) - *Merge Multiple Links* 
-* [Open Bulk URL](https://openbulkurl.com/) or [OpenAllURLs](https://www.openallurls.com/) - *URL Bulk Opener*
+* [Open Bulk URL](https://openbulkurl.com/), [RapidLinkr](https://rapidlinkr.com/) or [OpenAllURLs](https://www.openallurls.com/) - *URL Bulk Opener*
 * [CheckServer](https://check-host.net/), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - *Site Monitoring Tools*
 * [CrowdTangle](https://apps.crowdtangle.com/chrome-extension) - *Check Where Links Have Been Shared*
 * [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/) or [BillCipher](https://github.com/84KaliPleXon3/BillCipher) - *Domain Info Lookup Tool*
@@ -805,7 +793,7 @@ General Reading Sites*
 * [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - *Custom URL Handler*
 * [Xenu-Link](http://home.snafu.de/tilman/xenulink.html), [Cyotek-Webcopy](https://www.cyotek.com/cyotek-webcopy), [Dead Link Checker](https://www.deadlinkchecker.com/) or [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php) - *Broken Link Checker*
 * [W.A.R. Links Checker Premium](http://usa.x10host.com/mybb/showthread.php?tid=88) - *Checks If File Links are Alive or Not*
-* [SafeLinking](https://safelinking.net/), [Gdrivez](https://www.gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [TSU.one](https://tsu.one/), [BrBushare](https://brbushare.xyz/) or [ShortLinkto](https://shortlinkto.top/) - *Link Protectors* 
+* [SafeLinking](https://safelinking.net/), [Gdrivez](https://www.gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [TSU.one](https://tsu.one/), [linkspop](https://linkspop.info/), [BrBushare](https://brbushare.xyz/) or [ShortLinkto](https://shortlinkto.top/) - *Link Protectors* 
 * [WhoIsRequest](https://whoisrequest.com/), [DaWhoIs](https://www.dawhois.com/) or [Securrity Whoiz](http://www.securrity.ru/whoiz.html) - *Domain Information Lookup*
 * [Awesome Piracy Bot](https://github.com/Igglybuff/awesome-piracy-bot) - *URL Scraping Tool*
 * [NSLookup](https://www.nslookup.io/) - *DNS Information Tool*
@@ -813,7 +801,6 @@ General Reading Sites*
 * [Site Worth Traffic](https://www.siteworthtraffic.com/) - *Calculate Website Worth*
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - *Sitemap Creator*
 * [CarbonDates](http://carbondate.cs.odu.edu/) - *Check Site Creation Date* 
-* [URL2IMGBot](https://t.me/URL2IMGBot) - *Takes a screenshot for any URL / Telegram* 
 * [AtSameIP](https://atsameip.intercode.ca/) - *Find All Sites Hosted by Same IP*
 * [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) or [SubdomainFinder](https://subdomainfinder.c99.nl/) - *Find Hidden Subdomains* 
 * [pyfuzz](https://github.com/AyoobAli/pyfuzz) - *URL Fuzzing Tool* 
@@ -837,7 +824,7 @@ General Reading Sites*
 * [KarmaDecay](http://karmadecay.com/) - *Reddit Reverse Image Search* 
 * [Reddit Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_alternatives) - *Alternative Reddit Style Sites*
 * [lurrker](https://lurrker.com/), [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/), [kddit](https://kddit.kalli.st/), [Nuxtit](https://nuxtit.netlify.com/) or [js4.red](https://js4.red/) - *Alt Browsers / Web Clients*
-* [xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/), [Saturnus](https://saturnusapp.com/), [Inccogsnoo](https://incogsnoo.com/) or [teddit](https://teddit.net/), [2](https://codeberg.org/teddit/teddit) - *Reddit Frontends*
+* [xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/) / [2](https://github.com/spikecodes/libreddit), [Saturnus](https://saturnusapp.com/), [Inccogsnoo](https://incogsnoo.com/) or [teddit](https://teddit.net/) / [2](https://codeberg.org/teddit/teddit) - *Reddit Frontends*
 * [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466-unedit-and-undelete-for-reddit) - *See Edited & Deleted Reddit Content*
 * [Reddit-Search](https://camas.github.io/reddit-search/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - *View Deleted Reddit Posts*
 * [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - *View Deleted Reddit Comments* 
@@ -1022,6 +1009,31 @@ General Reading Sites*
 
 ***
 
+## ▷ Telegram Tools
+
+* **[Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools)** - *File Tools for Telegram*
+* [Telegram Channels](https://telegramchannels.me/), [TG-ME](https://www.tg-me.com/), [tg_indexs](https://t.me/tg_indexs) or [Telegramic](https://telegramic.org/) - *Telegram Channel Indexes*
+* [BotsArchive](https://t.me/BotsArchive), [2](https://github.com/ebertti/awesome-telegram), [3](https://github.com/DenisIzmaylov/awesome-telegram-bots), [4](https://github.com/abdelhai/awesome-bots), [5](https://github.com/stkw0/awesome-telegram-groups), [6](https://github.com/serhii-londar/awesome-telegram), [7](https://github.com/lorien/awesome-telegram-lists), [8](https://telegramic.org/bots/), [9](https://t.me/botlist) - *Telegram Bot Indexes* 
+* [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - *Telegram Channel / Bot Search*
+* [ShellBot](https://github.com/MannyHackers/ShellBot) or [Userge](http://theuserge.tech/) - *Multi-Tool Telegram Bot*
+* [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots) - *Download Audio via Telegram*
+* [Now Playing](https://t.me/nowplaybot) - *Now Playing Audio Bot*
+* [Unigram](https://github.com/UnigramDev/Unigram), [Tok](https://invent.kde.org/network/tok), [TDesktop](https://github.com/Forkgram/tdesktop) or [Kotatogram](https://github.com/kotatogram/kotatogram-desktop) - *Telegram Desktop Client*
+* [Web.Telegram](https://web.telegram.org/), [2](https://webk.telegram.org/), [3](https://webz.telegram.org/) - *Telegram Web Client*
+* [TeleWebGram](https://telewebgram.com/) - *Online Telegram Channel Viewer*
+* [Rose](https://t.me/MissRose_bot) - *Telegram Group Manager*
+* [TGCF](https://github.com/aahnik/tgcf) - *Telegram Message Forwarding*
+* [Skeddy](https://skeddy.me/) - *Telegram Reminder Bot*
+* [ChecklyBot](https://t.me/checklybot) - *Checklist Telegram Bot*
+* [Telegram Scraper](https://www.telegramscraper.com/) - *Telegram Member / Group Export*
+* [Telegram Email](https://t.me/etlgr_bot) - *Send / Receive Emails via Telegram* 
+* [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - *Telegram CSE*
+* [SearchBuzz](http://search.buzz.im/) - *Telegram Message Search Engine*
+* [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - *Telegram Link Shortener Bot* 
+* [URL2IMGBot](https://t.me/URL2IMGBot) - *Takes a screenshot for any URL / Telegram* 
+
+***
+
 ## ▷ YouTube Tools
 
 * **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)** - *Download Videos from YouTube*
@@ -1096,6 +1108,7 @@ General Reading Sites*
 * [amara](https://amara.org/en/) - *Add Subs to Youtube Videos*
 * [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - *Styled YouTube Subtitles*
 * [Captionz](https://pnlpal.dev/captionz) - *YouTube Captions Viewer / Player* 
+* [Youtube Summarizer](https://share.streamlit.io/iamknownstranger/ytsummary/main) - *YouTube Transcript Summarizer*
 * [YouTube Data Calc](https://dlogic.lk/projects/youtubedatacalc.php) - *YouTube Data Usage Calculator*
 * [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/) or [ytwrk](https://github.com/terorie/ytwrk) - *YouTube Data Extraction* 
 * [Youtube DataViewer](https://citizenevidence.amnestyusa.org/) or [YouTube-MA](https://github.com/CorentinB/YouTube-MA) - *YouTube Video Data Viewer* 
@@ -1526,6 +1539,7 @@ General Reading Sites*
 * **[UDS](https://github.com/stewartmcgown/uds)** - *Unlimited Google Drive storage*
 * **[PDF Editors / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pdf_editors_.2F_toolkits)**
 * [downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - *Multi-Site Downloaders*
+* [Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools) - *File Tools for Telegram*
 * [FreeOnlineEditor](https://freeonlineeditor.com/) - *Multiple File Tools*
 * [horsicq](https://horsicq.github.io/) - *Multiple File Programs / [GitHub](https://github.com/horsicq/)*
 * [Pandoc](https://pandoc.org/) or [CometDocs](https://www.cometdocs.com/) - *Document Converter* 
@@ -1582,7 +1596,6 @@ General Reading Sites*
 * [gd-utils](https://github.com/roshanconnor123/gd-utils) / [2](https://nenokkadine.github.io/GD-Utils/) or [Bypass-GDrive](https://yuudrive.me/tools/bypass-gdrive) - *Google Drive Limit Bypass* 
 * [G-Index](https://github.com/LeeluPradhan/G-Index), [goindex](https://github.com/alx-xlx/goindex), [GDI](https://github.com/anymeofu/GDI) or [gdrive-index](https://github.com/alx-xlx/gdrive-index) - *Google Drive Index*
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - *Encrypt / Decrypt GDrive*
-* [Google Drive Bot](https://t.me/Gdriveit_bot) - *Google Drive Client in Telegram*
 * [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - *Host Direct Links on GDrive* 
 * [Copy Google Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_copy_google_drives) - *Make GDrive Copies* 
 * [gd-efc](https://anadius.github.io/gd-efc/) - *Copy Encrypted Google Drive* 
@@ -1592,7 +1605,6 @@ General Reading Sites*
 * [Folder.GDrive](https://folder.gdrive.vip/) - *GGDrive Folder Link Generator*
 * [GDToT](https://www.gdtot.com/) - *Google Drive Manager*
 * [Backup System](https://github.com/danielpy108/BackUpMySystem) - *Backup Google Drive*
-* [SearchX](https://github.com/iamLiquidX/SearchX) - *Telegram GDrive Search Bot*
 * [OneDrive CF Index](https://github.com/spencerwooo/onedrive-cf-index) - *OneDrive Index*
 * [OneDrive X](https://t.me/onedrivexbot) - *Remote OneDrive File Upload Bot*
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - *Fix OneDrive Zip Files >4gb*
@@ -1621,14 +1633,8 @@ General Reading Sites*
 * [Browsemonkey](https://github.com/shukriadams/browsemonkey) - *Take Snapshots of File Systems* 
 * [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - *GDrive Guide* 
 * [Save to Drive](https://savetogoogledrive.herokuapp.com/) - *Save Files to GDrive without account*   
-* [GdriveXbot](https://t.me/GdriveXbot), [HK_upload_bot](https://t.me/HK_driveupload_bot), [gdrive_upload_bot](https://t.me/gdrive_upload_bot), [driveuploadbot](https://t.me/driveuploadbot) or [gdriveupme_bot](https://t.me/gdriveupme_bot) - *Google Drive Telegram upload bots* 
 * [gDrive-DirectLink](https://github.com/jagrit007/gDrive-DirectLink) - *GDrive File Direct Link Generator*
 * [Google Drivac](https://github.com/Data-Horde/gdrivac) - *Associate Gdrive Account with URL List*
-* [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [UptoTGbot](https://t.me/UptoTGbot), [Files Web Server](https://t.me/webdownload_bot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot) or [UploadDxbot](https://t.me/UploadDxbot) - *Upload Files to Telegram*  
-* [UploadBots](https://t.me/UploadBots) - *List of Telegram Upload Bots*
-* [Public Link Bot](https://t.me/Tg2extbot), [AIO Uploader](https://t.me/aiouploaderbot) or [GetPublicLinkBot](https://t.me/GetPublicLinkBot) - *Telegram to File Host Upload Bot*   
-* [Uploader Bot X](https://t.me/url_uploadbot) - *Remotely uploads files to Telegram URL* 
-* [UploadURL](https://t.me/UploadsRobot) - *Remotely uploads files to Telegram / Mega.nz Support* 
 * [Attribute Changer](https://www.petges.lu/) - *Edit File & Folder Properties*
 * [Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/), [AllDup](http://www.alldup.info/) or [dupeGuru](https://dupeguru.voltaicideas.net/) - *Duplicate File Finder* 
 * [TMSU](https://github.com/oniony/TMSU) or [SuperTag](https://github.com/amoffat/supertag) - *Tag-Based Filesystem* 
@@ -1654,7 +1660,7 @@ General Reading Sites*
 * [Hashes](https://hashes.com/) - *Decrypt Hashes*
 * [MD5 Hash Changer](https://github.com/ewwink/MD5-Hash-Changer) - *Change a Files MD5 Hash*
 * [SQLite Viewer](https://inloop.github.io/sqlite-viewer/) - *View SQLite Files Online* 
-* [MediaInfoOnline](https://mediaarea.net/MediaInfoOnline) or [mediainforobot (Telegram)](https://t.me/mediainforobot) - *Media File Info*
+* [MediaInfoOnline](https://mediaarea.net/MediaInfoOnline) - *Media File Info*
 * [Xartifex](http://xartifex.com/) - *Word & Excel File Unlocker*
 * [CalameoDownload](https://calameodownload.com/) - *Download Calameo Docs PDF or Image files*
 * [DFD](https://dfd.inf.tu-dresden.de/) - *Duplicate Document Forensics Test*
@@ -1667,7 +1673,7 @@ General Reading Sites*
 * [HexEd.it](https://hexed.it/) - *Online Hex Editor*
 * [infekt](https://infekt.ws/) or [NFOmation](https://nfomation.net/) - *NFO File Viewer*
 * [text2img](https://master.ayra.ch/text2img/) - *NFO Files to Image Converter*
-* [Linx Server](https://github.com/andreimarcu/linx-server) or [FileStash](http://www.filestash.app/) - *Self-Hosted CLoud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)*
+* [Linx Server](https://github.com/andreimarcu/linx-server), [FileCream](https://filecream.com/) or [FileStash](http://www.filestash.app/) - *Self-Hosted CLoud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)*
 * [Linux Reader](https://www.diskinternals.com/linux-reader/) - *Access Linux Files on Windows*
 
 ***
