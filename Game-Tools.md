@@ -167,6 +167,7 @@
 * [Steam Database](https://steamdb.info/extension/) - *Adds Steam Database Link to Steam Community & Store* 
 * [Steam Web Filter Bypasser](https://chrome.google.com/webstore/detail/steam-web-filter-bypasser/gohcmgakipmdlpacegcgolafdhdlgifl) - *Bypass "You are leaving Steam" page* 
 * [Steam Account Manager](https://www.unknowncheats.me/forum/pc-software/117141-steam-account-manager.html) - *Steam Account Switcher / Manager*
+* [Steam Customizer](https://community.steamcustomizer.com/) or [SteamSkins](http://steamskins.org/) - *Steam Skins*
 * [Backgrounds.Gallery](https://backgrounds.gallery/) - *Steam Backgrounds*
 * [Steam.Design](https://steam.design/) - *Steam Background Cropper*
 * [Center.Steam](https://center.steam.design/) - *Center Steam Text*
@@ -198,6 +199,7 @@
 * [GTAV-SimpleGangWar](https://github.com/David-Lor/GTAV-SimpleGangWar) - *GTAV Gang War Script*
 * [GTA-V-Suspender](https://github.com/gyfen/GTA-V-Suspender) - *Suspend GTAV*
 * [Wanted-Music-IV](https://github.com/ClonkAndre/Wanted-Music-IV) - *GTAV Wanted Music in GTAIV*
+* [D.E.P](https://www.definitive-edition-project.com/) - *Fix GTA PC Port Bugs*
 * [re3](https://github.com/td512/re3) - *GTAIII & Vice City Mods*
 * [gta-city-of-lost-heaven](https://github.com/RadValentin/gta-city-of-lost-heaven) - *GTAVC Mafia Themed Mod*
 * [Vali's City](https://github.com/RadValentin/vali-city) - *GTAVC Matrix Themed Mod*
