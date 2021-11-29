@@ -214,9 +214,11 @@
 * [TextMeUp](http://www.textmeup.com/) - *Multi-Number App*
 * [Kubool](https://www.gdpd.xyz/) - *Anonymous Confession App*
 * [OpenInWA](https://github.com/SubhamTyagi/openinwa) - *Number Free WhatsApp Chat*
+* [Whatsapp Groups](https://whatsaplinks.com/) - *Whatsapp Group Links*
 * [Watomatic](https://f-droid.org/packages/com.parishod.watomatic) or [AutoResponder](https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDEhkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDGAA=:S:ANO1ljKlL8g&gsr=CjuKAzgKGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMSGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMYAA==:S:ANO1ljLE-Ks) - *Chat App Auto-Responders*
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - *Article / Link Viewer*
 * [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - *Track Github User Activity*
+* [BlueClover](https://github.com/nnuudev/BlueClover) - *4Chan Browser*
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - *Easily Open Links in Text via Share Function*
 * [Ponydroid](https://forum.mobilism.org/search.php?keywords=ponydroid&amp;sr=topics&amp;sf=titleonly), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - *Download File Manager / [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)*
 * [File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools) - *Tools to Share / Sync Files*
@@ -232,7 +234,7 @@
 * [Red Moon](https://github.com/LibreShift/red-moon) - *Screen Filter*
 * [sh-ort](https://sh-ort.app/) - *URL Shortener*
 * [RClone](https://github.com/x0b/rcx) - *Multi-Site Cloud Storage File Manager*
-* [Omega Launcher](https://github.com/otakuhqz/omega), [Lawnchair](https://lawnchair.app/), [NovaLauncher](https://novalauncher.com/), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [Unlauncher](https://github.com/jkuester/unlauncher) or [Ratio](https://blloc.com/) - *App Launcher* 
+* [Omega Launcher](https://github.com/otakuhqz/omega), [Lawnchair](https://lawnchair.app/), [NovaLauncher](https://novalauncher.com/), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [ActivityLauncher](https://github.com/butzist/ActivityLauncher), [Unlauncher](https://github.com/jkuester/unlauncher) or [Ratio](https://blloc.com/) - *App Launcher* 
 * [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) - *App Managers*
 * [Microsoft Launcher](https://www.microsoft.com/en-us/launcher) - *Microsoft Homescreen*
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - *Android Power Menu Replacement*
@@ -726,7 +728,6 @@ RSS Player*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
 * [Drafts](https://getdrafts.com/) or [Bear](https://apps.apple.com/us/app/bear/id1016366447) - *Note Taking App*
 * [Powercuff](https://rpetri.ch/cydia/powercuff/) - *Throttle iOS to Increase Battery Life*
-* [GreenBattery](https://github.com/MauMau97/GreenBattery) - *Green Battery Icon Tweak*
 * [The Fucking Weather](https://alcohollick.com/the-fucking-weather) - *Weather App*
 * [CocaoTop](https://github.com/D0m0/CocoaTop) - *iOS Process Viewer*
 * [iSH Shell](https://apps.apple.com/us/app/ish-shell/id1436902243) - *Linux-like iOS Shell*
@@ -756,7 +757,8 @@ RSS Player*
 * [IRuin](https://iriun.com/) - *Use iOS Device as Webcam* 
 * [Measure](https://apps.apple.com/us/app/measure/id1383426740) - *Turn iPhone / iPad into Tape Measure*
 * [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303) or [NetNewsWire](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210) - *RSS Reader*
-* [PicsArt++](https://cokernutx.com/ipa-library/download/PicsArt.html), [2](https://picsart.com/apps) or [PhotoWizard](https://apps.apple.com/us/app/photowizard-photo-editor/id370833324) - *Photo Editor*
+* [CapCut](https://www.capcut.net/) - *Video Editor*
+* [PicsArt++](https://cokernutx.com/ipa-library/download/PicsArt.html), [2](https://picsart.com/apps) or [PhotoWizard](https://apps.apple.com/us/app/photowizard-photo-editor/id370833324) - *Image Editor*
 * [ToonMe](https://toonme.com/) - *Turn Photos into Cartoons*
 * [Alderis](https://github.com/hbang/Alderis) - *iOS Color Picker*
 * [Iterm](https://github.com/kaneki07/iterm) - *Terminal Emulator*
