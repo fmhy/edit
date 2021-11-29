@@ -262,8 +262,6 @@
 * [AnyTracker](https://sites.google.com/view/anytracker), [2](https://anytracker.org/) - *Track Anything*
 * [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - *Food Product Ingredient Scanner*
 * [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html) - *Scan & Digitize Documents*
-* [Language Drops](https://languagedrops.com/) or [10,000 Sentences](https://github.com/tkrajina/10000sentences) - *Language Learning App / [Premium](https://forum.mobilism.org/search.php?keywords=drops&sr=topics&sf=titleonly)*
-* [Manji](https://github.com/Livinglist/Manji) - *Language Learning / Japanese / Kanji*  
 * [IRuin](https://iriun.com/), [Reincubate Camo](https://reincubate.com/camo/) or [Dev47Apps](https://www.dev47apps.com/) - *Use Android as Webcam* 
 * [Deskreen](http://deskreen.com/) - *Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen)* 
 * [GeorgieLabs](https://georgielabs.net/) - *Use Android as Wireless Speaker / Headphone Port*
@@ -780,6 +778,7 @@ RSS Player*
 * [GoodLinks](https://goodlinks.app/) - *Save Links*
 * [Flarify](http://www.flairify.com/) - *Touchscreen Typing Practice* 
 * [VoxRec](https://apps.apple.com/us/app/voxrec-voice-to-text-dictation/id1366603987) - *Voice to Text*
+* [TranslatedLabs](https://translatedlabs.com/) - *Translation Apps*
 * [Scan Thing](https://apps.apple.com/us/app/scan-thing-scan-anything/id1542730895) - *Scan & Digitize Anything*
 * [magicplan](https://apps.apple.com/us/app/magicplan/id427424432) - *AR & LiDAR Scanning*
 * [Polycam](https://apps.apple.com/us/app/polycam-lidar-3d-scanner/id1532482376) - *3D Capture Tool*
