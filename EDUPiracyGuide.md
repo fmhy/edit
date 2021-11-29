@@ -142,6 +142,9 @@
 * [CryptoTips](https://www.cryptotips.us/) - *Courses* 
 * [FCS](https://freecoursesites.com/) - *Courses*
 * [5G GYAN](https://www.5ggyan.com/) - *Courses* 
+* [WSODownloads](https://www.wsodownloads.in/) - *Courses*
+
+
 * [HackingWorld](https://in.hackingworld.best/) - *Courses*
 * [DL Course](https://dlcourse.org/) - *Courses*
 * [Game of Courses](https://gameofcourses.com/) - *Courses / [Drive](https://goc.gocourses.workers.dev/0:/) User / PW: goc*
