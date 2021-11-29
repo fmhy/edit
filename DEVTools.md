@@ -36,7 +36,6 @@
 * [SchoolOfHaskell](https://www.schoolofhaskell.com/) - *Haskell Tutorials* 
 * [QuickRef.ME](https://quickref.me/), [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - *Developer Cheat Sheets*
 * [Cheat.sh](https://cheat.sh/) - *Command-Line Cheat Sheet*
-* [explainshell.com](https://explainshell.com/) - *Match Command-Line Arguments to Help Text*
 * [Programiz](https://www.programiz.com/) - *Programming / Coding Tutorials*
 * [GeeksforGeeks](https://www.geeksforgeeks.org/) - *Programming / Coding Tutorials*
 * [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - *Coding Learning Resources*
@@ -50,6 +49,7 @@
 * [EbookFoundation Interactive Programming Tuts](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md) - *Interactive Programming Tutorials* 
 * [Exercism](https://exercism.org/) - *Programming Lessons*
 * [Nayuki](https://www.nayuki.io/) - *Programming Tutorials*
+* [Codings Point](https://www.codingspoint.com/) - *Programming Tutorials*
 * [Hackr.io](https://hackr.io/) - *Programing Tutorials*
 * [Phrozen](https://www.phrozen.io/) - *Programming Guides*
 * [Use My Notes](https://usemynotes.com/) - *Programming Tutorials*
@@ -105,6 +105,7 @@
 * [Publish Something Online](https://publishsomething.online/) - *Site Development Guides*
 * [LandChad](https://landchad.net/) - *Site Development Guide*
 * [Web Dev Courses](https://drive.google.com/drive/folders/17nOoned_J-RzAlCXaHEcEvdQC3LDOCC0) - *Web Development Courses*
+* [Agernic](https://www.agernic.com/) - *Web Design Courses*
 * [UI & Web Design using Adobe Illustrator C](https://mega.nz/folder/DihiHYYJ#qwDp56twKmwPdDMqGR_kLA) - *UI & Webdesign Course*
 * [Web Skills](https://andreasbm.github.io/web-skills/) - *Web Development Guides*
 * [666GB Devil Collection](https://mega.nz/folder/7HRiUb7Q#xXXnIdhGxuPwxtz99BhPpg) - *Web App Development Courses*
