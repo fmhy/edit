@@ -226,6 +226,7 @@
 * [Funnyjunk](https://funnyjunk.com//), [Thread-Puller](https://thread-puller.party/), [iFunny](https://ifunny.co/) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Videos, Memes & GIFs / Some NSFW*
 * [wtf.rentry](https://wtf.rentry.co/) - *Random Music GIFs*
 * [SfwChan](http://boards.swfchan.net/) - *SFW Archive*
+* [The NFT Bay](https://thenftbay.org/) - *NFT Collection*
 * [SakugaBooru](https://www.sakugabooru.com/) - *Image Booru*
 * [IndieGameBooru](https://indiegame.booru.org/) - *Indie Game Image Booru*
 * [Random Screenshot](https://randomscreenshot.com/) or [Random Prnt.sc](https://chrishannah.me/prntsc/) - *Random Screenshots*
@@ -494,7 +495,6 @@
 * [Is It Christmas?](https://isitchristmas.com/) or [Is It Halloween Yet?](https://www.isithalloweenyet.com/) - *Find Out if it's a Holiday*
 * [The.Matrix-ASCII](http://takeovertheworld.org/matrix/) - *The Matrix Encoded in Text*
 * [sCandyBars](https://scandybars.com/) - *Candy Bar Photo Blog*
-* [Hobune](https://hobune.stream/) - *Deleted YouTube Video Archive*
 * [ASCIIMATION](http://www.asciimation.co.nz/) - *Star Wars ASCII Animation*
 * [Nestflix](https://nestflix.fun/) - *Fictional Media in Media Database*
 * [Vintage Ad Browser](http://www.vintageadbrowser.com/) - *100,000+ Vintage Advertisements* 
@@ -719,7 +719,9 @@
 
 * **[Satellite / Street View Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_satellite_.26amp.3B_street_view_maps)**
 * **[OpenStreetMap](https://www.openstreetmap.org/)**, [KartaView](https://kartaview.org/landing), [MapMania](https://www.mapmania.info/) or [Mapillary](https://www.mapillary.com/) - *Street View Maps* 
-* [Atlas Obscura](https://www.atlasobscura.com/) - *Travel Guidebook / Maps*
+* [Atlas Obscura](https://www.atlasobscura.com/) - *Travel Maps & Guides*
+* [Roadside America](https://www.roadsideamerica.com/) - *Roadside Attraction Maps & Guides*
+* [FreeCampSites](https://freecampsites.net/) - *Camp Site Map*
 * [FixPhrase](https://fixphrase.com/) - *Phrase Based Map Search*
 * [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - *Earth Viewer*
 * [Snazzy Maps](https://snazzymaps.com/) - *Google Maps Themes*
@@ -1058,6 +1060,7 @@
 * [Audio Channel](https://chrome.google.com/webstore/detail/audio-channel/hafdgamhnmiioimpcdhhbhgcjndgmphd) - *Tab Audio Manager*
 * [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn) - *Text Summary Generator*
 * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) or [Volume Master](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - *Increase Browser Volume*
+* [Poster](https://install.get-poster.com/) - *Quick Link Share*
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - *Download Multiple Links at Once* 
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
@@ -1071,12 +1074,15 @@
 * [chromewm](https://gitlab.com/EduCampi/chromewm) - *Tile Windows / Emulate Workspaces*
 * [Better OneTab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg) - *Merge & Organize Tabs*
 * [Popup Tab Switcher](https://chrome.google.com/webstore/detail/popup-tab-switcher/cehdjppppegalmaffcdffkkpmoflfhkc) - *Improved Tab Switching*
+* [Relative Bookmarks](https://github.com/duiker101/relative_bookmarks) - *Add Relative Bookmarks*
 * [Go Back in Time](https://chrome.google.com/webstore/detail/go-back-in-time/hgdahcpipmgehmaaankiglanlgljlakj) - *View Archived / Cached Webpages*
 * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en) - *Image / Video Album Downloader / [Script](https://openuserjs.org/scripts/indream/DownAlbum)* 
+* [BetterViewer](https://github.com/Ademking/Betterviewer) - *Improved Image Viewer*
 * [Social Tools](https://chrome.google.com/webstore/detail/facebook-block-read-recei/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) - *Block "Sending" & "Seen" Facebook Chat Indicators* 
 * [Charcoal Dark Mode](https://chrome.google.com/webstore/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - *Facebook Messenger Dark Mode*
 * [Mate Translate](https://gikken.co/mate-translate/chrome/) - *Translator*
 * [OpenDyslexic](https://chrome.google.com/webstore/detail/opendyslexic-for-chrome/cdnapgfjopgaggbmfgbiinmmbdcglnam) - *Increase Page Readability*
+* [SiteScrubber](https://chrome.google.com/webstore/detail/sitescrubber/ffadalgofahhohaciekjchkikcglcpla) - *Hide Offensive/Swear Words on Sites*
 * [Show Keys](https://chrome.google.com/webstore/detail/show-keys/bkcpmidbgmfbbeanejhepkjakagfaaon) - *Show Keys As You Type*
 * [Spoiled](https://lucasrowe.github.io/spoiled/) - *Customizable Phrase / Spoiler Blocker*
 * [Flip This](https://chrome.google.com/webstore/detail/flip-this/donljlliiecjcagcenoeohjmabfegkph?hl=en) - *Rotate Page & HTML Elements*
