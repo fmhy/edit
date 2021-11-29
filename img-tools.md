@@ -195,6 +195,7 @@
 * [CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/) or [OpenClipart](https://openclipart.org/) - *PNG Images / Clipart* 
 * [Sankaku](https://sankaku.app/) or [ZeroChan](https://zerochan.net/) - *Anime Images / Some NSFW / [Chrome](https://github.com/Disrc/SankakuComplexAddon)*
 * [PSDGraphics](https://www.psdgraphics.com/) - *PSD Files*
+* [The NFT Bay](https://thenftbay.org/) - *NFT Collection*
 * [Artbreeder](https://artbreeder.com/) - *Image Discovery / Combining*
 * [Free Vector Sites](https://onehack.us/t/get-download-free-vectors-45-sites-to-grab-vectors/96104) - *Vector Images* 
 * [Artvee](https://artvee.com/) - *Public Domain Artwork* 
@@ -202,7 +203,7 @@
 * [Behance](https://behance.net/) - *Design Projects*
 * [Placeit](https://placeit.net/) - *Image Templates*
 * [Crello](https://crello.com/) - *Image Templates / Editor*
-* [Worldvectorlogo](https://worldvectorlogo.com/), [Logos & Badges Bundle](https://mega.nz/file/EhUQnJgT#2lmr0DfCDoY3x4DFhthJo_3iz3XPB9DeLjmx2wBz1vs), [Brands of the World](https://www.brandsoftheworld.com/) or [Logos Download](https://logos-download.com/) - *Brand Logos*
+* [Worldvectorlogo](https://worldvectorlogo.com/), [PNGGrid](https://pnggrid.com/), [Logos & Badges Bundle](https://mega.nz/file/EhUQnJgT#2lmr0DfCDoY3x4DFhthJo_3iz3XPB9DeLjmx2wBz1vs), [Brands of the World](https://www.brandsoftheworld.com/) or [Logos Download](https://logos-download.com/) - *Brand Logos*
 * [Bendodson](https://bendodson.com/projects/itunes-artwork-finder/), [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) - *Find Multimedia Artwork*
 * [Kemono](https://kemono.party/) - *Patreon Content / Some NSFW*
 * [FanArt](https://fanart.tv/) - *Fan Made Posters / Logos* 
@@ -328,7 +329,7 @@
 * [Deskgram](https://deskgram.app/) - *Upload Desktop Client*
 * [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - *Modded Android Client*
 * [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - *Modded iOS Client*
-* [imginn](https://imginn.com/), [Picuki](https://www.picuki.com/) or [Greatfon](https://greatfon.com/) - *Instagram Viewer*
+* [imginn](https://imginn.com/), [Picuki](https://www.picuki.com/), [Dumpor](https://dumpor.com/) or [Greatfon](https://greatfon.com/) - *Instagram Viewer*
 * [QIS](https://github.com/propublica/qis/) or [Instagram Search Tool](https://www.aware-online.com/en/osint-tools/instagram-search-tool/) - *Search Tool* 
 * [SearchUsers](https://searchusers.com/) - *User Search* 
 * [Osintgram](https://github.com/Datalux/Osintgram) - *Osintgram Analysis*
