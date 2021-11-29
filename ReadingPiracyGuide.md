@@ -60,7 +60,7 @@
 * **[Mobilism](https://forum.mobilism.org)** - *Books / Audiobooks / Magazines / Newspapers / Comics*
 * **[Calibre](https://calibre-ebook.com/)** - *E-Book Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools)*
 * **[Library Genesis](https://libgen.fun/)** - *Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools)*
-* **[Z-Library](https://z-lib.org/)** - *Books / Comics / Educational / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_tools)*
+* **[Z-Library](https://z-lib.org/)** - *Books / Comics / Educational / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_tools) / [Removed Books](https://t.me/firstlibrarybot)*
 * **[eBookHunter](https://ebook-hunter.org/)**, [2](https://ebookchasseur.com/) - *Books / Comics*
 * **[ebook3000](http://www.ebook3000.com/)** - *Books / Audiobooks / Comics / Magazines / Newspapers*
 * **[The-Eye Books](https://the-eye.eu/public/Books/)** - *Books*
@@ -869,6 +869,7 @@
 
 * **[Just Light Novels](https://www.justlightnovels.com/)**
 * **[ThatNovelCorner](https://thatnovelcorner.com/)**
+* **[KonoSuba!](https://xyz.iamzlnk.xyz/0:/)**
 * [Light Novel World](https://www.lightnovelworld.com/)
 * [Ranobes](https://ranobes.net/)
 * [Baka-Tsuki](https://www.baka-tsuki.org)
@@ -993,6 +994,7 @@
 * **[MyAnimeList](https://myanimelist.net/)** - *Manga*
 * **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - *Comics*
 * **[TasteDive](https://tastedive.com/)** - *Recommendations* 
+* [5000 Best](http://5000best.com/) - *Top 5000 Books*
 * [listal](https://www.listal.com/) - *Books*
 * [Litsy](https://www.litsy.com/) - *Book Recommendation / Photo Sharing Community*
 * [What Should I Read Next?](https://www.whatshouldireadnext.com/), [RecommendMeABook](https://recommendmeabook.com/) or [WhichBook](https://www.whichbook.net/) - *Book Recommendations*
