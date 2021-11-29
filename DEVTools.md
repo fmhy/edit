@@ -179,6 +179,7 @@
 * [Javacord](https://javacord.org/) - *Discord Bot Creation Library*
 * [Pylon](https://pylon.bot/) - *Discord Bot Builder*
 * [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - *C++ Library for Discord*
+* [Twitter (un)official Consumer Key](https://gist.github.com/shobotch/5160017) - *Twitter Consumer Keys*
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - *Toolbox for Reddit Extension Development*
 * [XunLei](https://www.xunlei.com/) - *Shared Computing / Blockchain*
 * [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - *Sites to Post Your Startup*
@@ -256,6 +257,7 @@
 * [WebDesigner](https://webdesigner.withgoogle.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/AriaMinaei/theatre) or [Animate.css](https://animate.style/) - *Create Interactive Motion Graphics*
 * [Vidlery](http://vidlery.com/) - *Animated Webpage Background*
 * [Box-Shadow](https://box-shadow.art/) - *Box Shadow Generator*
+* [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - *CSS Shadow Generator*
 * [MapBox](https://www.mapbox.com/) - *Live Maps, Location Search & More*
 * [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [99Inbound](https://www.99inbound.com/), [Form.taxi](https://form.taxi/) or [Formsend](https://formsend.org/) - *Form Creator*
 * [Plaid](https://plaid.com/) - *Financial Account API / [GitHub](https://github.com/plaid)*
@@ -479,6 +481,7 @@
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - *Enable Snake Game on GitHub ReadMe*
 * [Discord MD Badge](https://github.com/montylion/discord-md-badge) - *Add Discord Badge to GitHub*
 * [gist.io](https://gist.io/) or [gistflow](https://github.com/gistflow/gistflow) - *Git Blog Platform*
+* []Github Action for Rclone(https://github.com/marketplace/actions/github-action-for-rclone) - *Rclone GitHub Action Wrapper*
 * [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub), [diohub](https://github.com/NamanShergill/diohub) or [OctoDroid](https://github.com/slapperwan/gh4a) - *Android GitHub Client*
 
 ***
