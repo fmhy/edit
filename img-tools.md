@@ -329,7 +329,7 @@
 * [Deskgram](https://deskgram.app/) - *Upload Desktop Client*
 * [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - *Modded Android Client*
 * [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - *Modded iOS Client*
-* [imginn](https://imginn.com/), [Picuki](https://www.picuki.com/), [Dumpor](https://dumpor.com/) or [Greatfon](https://greatfon.com/) - *Instagram Viewer*
+* [imginn](https://imginn.com/), [Picuki](https://www.picuki.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer), [Dumpor](https://dumpor.com/) or [Greatfon](https://greatfon.com/) - *Instagram Viewer*
 * [QIS](https://github.com/propublica/qis/) or [Instagram Search Tool](https://www.aware-online.com/en/osint-tools/instagram-search-tool/) - *Search Tool* 
 * [SearchUsers](https://searchusers.com/) - *User Search* 
 * [Osintgram](https://github.com/Datalux/Osintgram) - *Osintgram Analysis*
