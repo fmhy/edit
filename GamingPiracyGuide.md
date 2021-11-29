@@ -52,6 +52,7 @@
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [LiGHT Repack Archive](https://drive.google.com/drive/folders/1q4lRUnwVhMQuakl1yM8OH1Je9_92LpXE)
 * [silentycrying's Game Drive](https://drive.google.com/drive/u/0/folders/1K1FdNbEu9-_wy8vn9sE768VojXqu6Fnp) 
+* [DyR0t(-_-t)'s Drive](https://valhalla.dyro.me/) 
 * [Cracked Games](https://drive.google.com/drive/u/0/folders/1923I8RvjiE112Fzca1WshxMIwlL338Ea)
 * [DLFox](https://www.dlfox.com/)
 * [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
@@ -368,8 +369,9 @@
 * **[Cookie Consent Speed.Run](https://cookieconsentspeed.run/)** - *Cookie Disabling Game*
 * **[AirConsole](https://www.airconsole.com/)** or [AnsStream](https://www.antstream.com/ ) - *Control TV Games with Phone* 
 * **[Free Rice](https://freerice.com/)** - *Earn Rice for the World Food Programme, turn off adblocker*
-* [/r/WebGames](https://reddit.com/r/WebGames)
+* [DiscordActivities](https://betterdiscord.app/plugin/DiscordActivities) - *Voice Chat Games*
 * [Discord Games Lab](https://discord.gg/discordgameslab)
+* [/r/WebGames](https://reddit.com/r/WebGames)
 * [Newgrounds](https://www.newgrounds.com/games)
 * [Armor Games](https://armorgames.com/)
 * [Kongregate](https://www.kongregate.com/)
