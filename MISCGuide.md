@@ -512,6 +512,7 @@
 * [isitnight](https://www.isitnight.com/) - *Determine if it is night* 
 * [ThisSiteSaysOtherwise](https://thissaysotherwise.org/) - *Otherwise.*
 * [The Pug in the Rug](https://puginarug.com/) - *Watch the Pug be in the Rug*
+* [DownloadMoreRam](https://downloadmoreram.com/) - *Download More Ram*
 * [Watching Grass Grow](https://www.watching-grass-grow.com/) - *Watch Grass Grow.*
 * [aaaaa](https://github.com/dkter/aaaaa) - *"a" only keyboard*
 * [aaaaaa.....](http://aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/) - *Make URL's longer*
@@ -703,6 +704,7 @@
 * [Dehydration Color Chart](https://i.imgur.com/PpDgo5j.png) - *Urine Color Dehydration Chart*
 * [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - *Remedies for Sores on Tongue*
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - *Interactive Self Care Guide*
+* [Drugs.com](https://www.drugs.com/) - *Drug Information & Side Effects*
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - *Mindfulness / Stress Reduction Tips*
 * [MediLog](https://gitlab.com/toz12/medilog) - *Medical Data Log*
 * [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - *Insomnia Prevention Tips*
@@ -738,6 +740,7 @@
 * [Flickr Map](https://www.flickr.com/map/) - *Flickr Map*
 * [U Meet Me Here!](https://www.umeetmehere.com/) - *Find Closest Point Between Two Locations*
 * [Maps We Love](https://www.esri.com/en-us/maps-we-love/gallery), [CoolMaps](https://coolmaps.esri.com/#0), [SoGeografia](https://www.sogeografia.com.br/Mapas/) or [/r/MapPorn](https://reddit.com/r/MapPorn) - *Multiple Maps* 
+* [Map It Up](https://map-it-up.netlify.app/) - *HQ Printable Maps*
 * [Human Terrain](https://pudding.cool/2018/10/city_3d/) - *Human Population Map*
 * [Flags of the World](https://i.redd.it/lxtu47hf5ll51.jpg) - *Worldwide Flag Map*
 * [US & CA License Plates](https://i.redd.it/ue2r7cdb2s861.png) - *US & CA License Map*
