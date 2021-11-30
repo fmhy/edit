@@ -167,6 +167,7 @@
 * [Useless-Translator](https://vcjhwebdev.github.io/useless-translator/) - *Morse Code / Binary Translator* 
 * [Infinite Story](https://infinite-story.com/) or [WriteAlong](https://www.writealong.io/) - *Collaborative Story Writing*
 * [Textanim](https://textanim.com/) - *Animated Text Generator* 
+* [Podpis](https://podpis-online.ru/) - *Signature Generator*
 * [TextGiraffe](http://www.textgiraffe.com/) - *Text / Logo Generator* 
 * [Polona Typo](http://typo.polona.pl/en/) - *Create Text out of Book, Poster & Map Letters* 
 * [The Death Generator](https://deathgenerator.com/) - *Video Game Text Generator* 
@@ -489,7 +490,7 @@
 * [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - *Test Internet Speed*
 * [OONI](https://ooni.org/) - *Test Site Blocking / Network Speed*
 * [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) - *OpenSSH Client / Server*
-* [NetLimiter](https://www.netlimiter.com/) - *Internet Traffic Control / Monitor* 
+* [NetLimiter](https://www.netlimiter.com/) or [Netbalancer](https://netbalancer.com/) - *Internet Traffic Control / Monitor* 
 * [Natlas](https://github.com/natlas/natlas) - *Scaling Network Scanning* 
 * [Nmap](https://nmap.org/) - *Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)* 
 * [FNSRWR](https://github.com/dannyvoid/FNSRWR) - *Reset Windows Network Stack*
@@ -693,6 +694,7 @@ General Reading Sites*
 * [Rom CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac), [2](https://cse.google.com/cse?cx=744926a50bd7eb010) - *Search Rom Sites*
 * [SearchEnginesIndex](https://www.searchenginesindex.com/), [Fagan Finder](https://www.faganfinder.com/), [DirectSearch.Net](http://www.directsearch.net/) or [Search Engine Colossus](https://www.searchenginecolossus.com/) - *Search Engine Directory*
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - *DuckDuckGo !bang Meta Serarch / [GitHub](https://github.com/MoserMichael/duckduckbang)*
+* [Jumps](https://jumps.io/) - *Site Quick Search*
 * [Soovle](https://soovle.com/) or [Keyword Tool](https://keywordtool.io/) - *Popular Keyword Generator*
 * [Social-Searcher](https://www.social-searcher.com/) or [Social Mention](http://socialmention.com/) - *Social Media Search Engine*  
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - *Forum Search Engine* 
@@ -944,6 +946,7 @@ General Reading Sites*
 * [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) - *MPV Rich Presence* 
 * [MPC-DiscordRPC](https://github.com/angeloanan/MPC-DiscordRPC) - *MPC Rich Presence*
 * [qbittorrent-rp](https://github.com/LockBlock-dev/qbittorrent-rp) - *qBittorrent Rich Presence*
+* [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - *VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)*
 * [Discord.io](https://discord.io/) or [dsc.gg](https://dsc.gg/) - *Create Custom Discord Invites*
 * [1337x-Bot ](https://github.com/brandongallagher1999/1337x-Bot) - *1337x Discord Bot*
 * [fmbot](https://fmbot.xyz/) - *Discord Voice Chat Scrobbling*
@@ -1037,7 +1040,7 @@ General Reading Sites*
 
 * **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)** - *Download Videos from YouTube*
 * **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download Audio from YouTube*
-* **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** - *View YouTube Dislikes*
+* **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** or [yt dislikes viewer](https://github.com/pgamerx/yt-dislikes-viewer) - *View YouTube Dislikes*
 * **[SponsorBlock](https://sponsor.ajay.app/)** - *Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)*
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge) - *Delete All YouTube Spammer Comments*
@@ -1075,8 +1078,8 @@ General Reading Sites*
 * [yt2pod](https://github.com/frou/yt2pod) - *Create Podcasts from YouTube Channels* 
 * [YouTube Comment Scraper](https://github.com/philbot9/youtube-comment-scraper-cli) - *YouTube Comment Scraping CLI* 
 * [YouTube first comment finder](https://first-comment.com/) - *Find First Comment on Video*   
-* [Hadzy](https://hadzy.com/) - *YouTube Comment Search*
-* [Reddit Comments for YouTube](https://github.com/tayloroneill/Reddit-Comments-for-YouTube) - *Replace YouTube Comments with Reddit Comments*
+* [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - *YouTube Comment Search*
+* [Reddit Comments for YouTube](https://github.com/tayloroneill/Reddit-Comments-for-YouTube), [Reddit-Wherever](https://github.com/z0ccc/Reddit-Wherever) or [Karamel](https://chrome.google.com/webstore/detail/karamel-view-reddit-comme/halllmdjninjohpckldgkaolbhgkfnpe?hl=en) - *Replace YouTube Comments with Reddit Comments*
 * [YouTube Live Comments](https://addons.mozilla.org/en-US/firefox/addon/ytlc/) - *Show YouTube Live Comments during Playback* 
 * [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - *Fix Youtube Search & Declutter Homepage* 
 * [youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - *Video Like / Dislike Hotkeys*
@@ -1088,6 +1091,7 @@ General Reading Sites*
 * [YouTube Playlist Search](https://greasyfork.org/en/scripts/14370-youtube-playlist-search) - *Quickly Search YouTube Playlists*
 * [Blocked](https://watannetwork.com/tools/blocked/) or [YouTube Region Checker](http://polsy.org.uk/stuff/ytrestrict.cgi) - *Youtube Region Restrictions Check*
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - *Shows YouTube File Sizes* 
+* [Auto Quality for YouTube](https://chrome.google.com/webstore/detail/auto-quality-for-youtube/iaddfgegjgjelgkanamleadckkpnjpjc?hl=en) - *Automatically Switch to desired Quality*
 * [h264ify](https://github.com/erkserkserks/h264ify) - *Use H.264 on YouTube* 
 * [StreamSniper](https://www.streamsniper.tv/) - *HTML5 YouTube Stream Player* 
 * [Disable 60fps](https://greasyfork.org/en/scripts/23329-disable-youtube-60-fps-force-30-fps) - *Force 30fps on YouTube*
@@ -1101,8 +1105,10 @@ General Reading Sites*
 * [YouTube Watch Time Counter](https://chrome.google.com/webstore/detail/youtube-watch-time-counte/fpoooibdndpjcnoodfionoeakeojdjaj) - *Track Time Spent on YouTube*
 * [BlockTube](https://github.com/amitbl/blocktube) - *YouTube Content Blocker*
 * [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - *Remove YouTube Thumbnails / Title Capitalization*
-* [RapidTags](https://www.rapidtags.io/) - *YouTube Tag Generator*
+* [Trash Youtube Recommendations](https://chrome.google.com/webstore/detail/trash-youtube-recommendat/dkomodiphnbnnfaokdokdjejjgafoffi) - *Removes YT Recommendations*
 * [RegretsReporter](https://foundation.mozilla.org/en/campaigns/regrets-reporter/) - *Report Regrettable YouTube Recommendations* 
+* [YT Not Interested Button on Hover](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - *Easily Display Not Interested Button*
+* [RapidTags](https://www.rapidtags.io/) - *YouTube Tag Generator*
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - *YouTube Live Stream Translator* 
 * [amara](https://amara.org/en/) - *Add Subs to Youtube Videos*
 * [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - *Styled YouTube Subtitles*
@@ -1352,6 +1358,7 @@ General Reading Sites*
 * [MoveMouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home) - *Simulate User Activity* 
 * [The Fastest Mouse Clicker for Windows](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows) or [AutoClicker Bookmarklet](https://autoclicker.glitch.me/) - *Mouse Auto Clicker*
 * [StrokeIt](https://www.tcbmi.com/strokeit/) or [StrokesPlus](https://www.strokesplus.net/) - *Mouse Gestures*
+* [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) - *Improved Context Menu*
 * [OpenWith++](https://github.com/stax76/OpenWithPlusPlus) - *Custom Context Menu Commands*
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - *Re-Map Mouse Buttons & Scroll Wheel*
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - *Windows Tweaks*
