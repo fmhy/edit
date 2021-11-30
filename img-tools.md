@@ -317,6 +317,7 @@
 * [ImageMagick](http://www.imagemagick.org/script/index.php) - *Image Editor / Converter*
 * [WEBPtoJPG](https://webptojpg.com/), [WEBPtoPNG](https://webptopng.com/), [WEBTtoGIF](https://webptogif.com/), [PNGtoJPG](https://pngtojpg.com/), [avif.io](https://github.com/justinschmitz97/avif.io/), [HEICtoJPG](https://heicjpeg.com/) or [WebP Converter](https://webp-converter.com/) - *Image Conversion Tools*
 * [PaperFile](http://www.paperfile.net/) or [StructuRise](http://structurise.com/screenshot-ocr/) - *Convert picture text to text file*
+* [svgco](https://svgco.de/) - *Image to SVG Converter*
 * [Vectorizer](https://www.vectorizer.io/) or [AutoTracer](https://www.autotracer.org/) - *Image Vectorizer* 
 * [text2img](https://master.ayra.ch/text2img/) or [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image) - *Convert Text to Image*
 * [Selfie2Anime](https://selfie2anime.com/), [Animate-Me](https://github.com/Aneureka/animate-me) - *Convert Selfies to Anime* 
@@ -326,7 +327,7 @@
 ## ▷ Instagram Tools
 
 * **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)**, [InstaFollowers](https://www.instafollowers.co/instagram-tools) or [aloinstagram](https://aloinstagram.com/) - *Multiple Tools* 
-* [Deskgram](https://deskgram.app/) - *Upload Desktop Client*
+* [Deskgram](https://deskgram.app/) or [GridsApp](https://gridsapp.net/) - *Desktop Client*
 * [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - *Modded Android Client*
 * [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - *Modded iOS Client*
 * [imginn](https://imginn.com/), [Picuki](https://www.picuki.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer), [Dumpor](https://dumpor.com/) or [Greatfon](https://greatfon.com/) - *Instagram Viewer*
