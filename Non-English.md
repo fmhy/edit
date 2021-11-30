@@ -625,6 +625,7 @@
 * [jpop80ss](https://jpop80ss2.blogspot.com/)- *Music / MP3*
 * [JPopSingles](https://www.jpopsingles.eu/) - *Music / MP3 / FLAC*
 * [9tensu](http://www.9tensu.com/) - *Music / MP3*
+* [Hikarinoakariost](https://www.hikarinoakariost.info/) - *Music / MP3*
 * [DoujinStyle.com](https://doujinstyle.com/) - *Music / MP3* 
 * [Doujin Cafe](https://discord.gg/doujincafe) - *Music / MP3*
 * [Music Fusion World](https://fusion-world-30.blogspot.com/) - *Music / MP3*
@@ -1331,6 +1332,7 @@ Portuguese
 * [SomosMovies](https://somosmovies.com/) - *Movies* 
 * [Mega MKV](https://mega-mkv.com/) - *Movies*
 * [MiCineHD ](https://www.micinehd.com/) - *Movies / TV* 
+* [Descargas](https://descargas2020.net/) - *Movies / TV*
 * [DLShared](https://dlshareds.blogspot.com/?m=1) - *Movies*
 * [DescargasDD](https://descargasdd.net/) - *Movies / TV* 
 * [Movies, Series ... in Spanish](https://redd.it/ns0y6c) - *Movies / TV*
@@ -1354,6 +1356,7 @@ Portuguese
 * [zonatorrent](https://zonatorrent.tv/) - *Movies / TV* 
 * [PasateaTorrent](https://pasateatorrent.net/) - *Movies / TV*
 * [divxonline](https://www.divxonline.tv/) - *Movies / TV* 
+* [Descargas](https://descargas2020.net/) - *Movies / TV*
 * [DIVXTorrent](https://www.divxtorrent.com/) - *Movies / TV*
 * [Grantorrent](https://grantorrent.nl/), [2](https://grantorrent.ch/) - *Movies / TV*
 * [EstrenosDTL](https://www.estrenosdtl.nz/) - *Movies*
