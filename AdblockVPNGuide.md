@@ -97,7 +97,7 @@
 * **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)** - *Scan URL's*
 * MSRT - [x64](https://www.microsoft.com/en-us/download/details.aspx?id=9905) / [x86](https://www.microsoft.com/en-us/download/details.aspx?id=16) - *Malicious Software Removal Tool*
 * [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html), [Tinywall](https://tinywall.pados.hu/) or [GlassWire](https://www.glasswire.com/) - *Firewall / Network Monitor* 
-* [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/) or [Safing](https://safing.io/portmaster/) - *Network Monitor*
+* [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/) or [Safing](https://safing.io/portmaster/) - *Network Monitor*
 * [Waircut](https://sourceforge.net/projects/waircut/) - *WPS Network Monitor*
 * [Hard_Configurator](https://hard-configurator.com/) - *Software Restriction Policy Management GUI* 
 * [Hardentools](https://github.com/securitywithoutborders/hardentools) - *Disables Risky Windows Features*
