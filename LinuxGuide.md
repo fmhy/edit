@@ -84,6 +84,7 @@
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - *Mount GDrive on Linux*
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - *Linux File Search*
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - *PDF Editor*
+* [Gedit](https://wiki.gnome.org/Apps/Gedit) - *Text Editor*
 * [Winfield](http://www.winfield.demon.nl/) - *MS Word for Linux / OS X* 
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Linux Photoshop Installer*
 * [FlameGApps](https://github.com/flamegapps/flamegapps) - *Google Apps Installer*
@@ -259,6 +260,7 @@
 * [Sosumi](https://github.com/popey/sosumi-snap.git) - *Download & Install macOS in a VM* 
 * [USBMap](https://github.com/corpnewt/USBMap) - *Map MacOS USB Ports*
 * [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
+* [iTerm2](https://iterm2.com/) - *Replacement for Terminal*
 * [Pictogram](https://pictogramapp.com/) - *Custom Mac App Icons*
 * [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - *MacOS Dynamic Wallpaper App*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old MacOS ISOs*
