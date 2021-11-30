@@ -386,6 +386,7 @@
 * [Moderse](https://t.me/Moderse) - *Android Apk Telegram Channel by well known modder - Stabiron*
 * [DedoMil](http://dedomil.net/) - *Java Mobile Games*
 * [evozi](https://apps.evozi.com/apk-downloader) or [APK Downloader](https://apk.support/apk-downloader) - *Download Google Play APKs*
+* [Sai](https://f-droid.org/packages/com.aefyr.sai.fdroid/), [2](https://play.google.com/store/apps/details?id=com.aefyr.sai) - *Split Apk Installer*
 * [Raccoon](https://raccoon.onyxbits.de/) - *Private APK Downloader*
 * [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - *CLI APK Download Tool*
 * [Blackmod](https://blackmod.net/) - *Modded Game APKs*
@@ -465,7 +466,8 @@
 * [Finamp](https://github.com/UnicornsOnLSD/finamp) - *Jellyfin Music Player*
 * [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - *Subsonic Client*
 * [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - *Streaming*
-* [Deezloader Android](https://t.me/deezloaderremixmobile) - *Download / MP3 + [Non Telegram DL](https://redd.it/d3i9fr)* 
+* [Modded Tidal](https://forum.mobilism.org/viewtopic.php?f=1332&t=4594722) - *Steaming / Download*
+* [Deezloader Android](https://t.me/deezloaderremixmobile) - *Download / MP3 / [Non Telegram DL](https://redd.it/d3i9fr)* 
 * [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - *Download / MP3* 
 * [SMLoadr](https://t.me/SMLoadrNews) - *Download / FLAC / MP3*
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) or [SongTube](https://github.com/SongTube/SongTube-App) - *YouTube Audio / Video Downloader*
@@ -781,7 +783,7 @@ RSS Player*
 * [TranslatedLabs](https://translatedlabs.com/) - *Translation Apps*
 * [Scan Thing](https://apps.apple.com/us/app/scan-thing-scan-anything/id1542730895) - *Scan & Digitize Anything*
 * [magicplan](https://apps.apple.com/us/app/magicplan/id427424432) - *AR & LiDAR Scanning*
-* [Polycam](https://apps.apple.com/us/app/polycam-lidar-3d-scanner/id1532482376) - *3D Capture Tool*
+* [Polycam](https://poly.cam/) - *3D Capture Tool*
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - *Scan & Digitize Documents*
 * [PhotoMath](https://apps.apple.com/us/app/photomath/id919087726) - *Math Problem Solver with Steps*
 * [Ringtones](https://apps.apple.com/us/app/ringtones-for-iphone-ringtune/id1036141497) - *Custom Ringtone Creator*
