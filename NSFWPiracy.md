@@ -23,7 +23,6 @@
 * [Porn Sites Banned in India](https://www.scribd.com/doc/273372869/List-of-porn-websites-banned-in-India#fullscreen&from_embed) 
 * [Excel Today](https://t.me/excel_today) - *NSFW Telegram List*
 * [MissingToofff](https://missingtoofff.com/) - *OnlyFans Leak Site List*
-* [18+ Server Finder](https://discord.gg/8QNbdNf) - *NSFW Discord Directory*
 * [DirtyWarez Adult](https://dirtywarez.org/cat/adult) - *Alexa Adult Site Rankings*
 
 ***
@@ -108,7 +107,7 @@
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "nsfw
 * **[8.50TB Asi@n Folder](https://mega.nz/folder/sYhVnKoD#RsJH0RuSZ_PoCyE3uJhwsA)**, [2](https://mega.nz/folder/moxWlTyb#88MG8Jx_Z1iNBAmIfSGN-w), [3](https://drive.google.com/drive/mobile/folders/1huOFDiwfxQHGTseh6Dos_oZ45czJYMOL) - *Asian Porn Drive*
 * [1TB [P]RON](https://mega.nz/folder/jGJTWShL#bYF2lqReJjlFblroOgGNTw/folder/WC41Gaqb) - *Porn Drive*
-* [OnlyFans Megadrive](https://mega.nz/folder/L4ZkgbSA#VjlbqBjH79TSmdL7wfJImw), [2](https://mega.nz/folder/wHx33QSD#elSJZ8SnECoxVInA8VwKKg), [3](https://mega.nz/folder/cpJC3DyD#VmtLDZaafz_iO9gaa4LUkg/folder/ptBUlJ4K), [4](https://mega.nz/folder/zfYFEKIb#9J9aza_logP8xjqqYzMVhQ), [5](https://mega.nz/folder/SDIyFbSR#0gnjN_3H55b2mEVTbe94dA), [6](https://mega.nz/folder/opICgJAY#ulwaZ34Jupcnjh96jD7f0Q/), [7](https://mega.nz/folder/1ggimKSa#sxCuAsJtH45VkPQZBa_F7A), [8](https://mega.nz/folder/wFxEUShA#_mgBEMwIaHZNA02IIzID9g), [9](https://mega.nz/folder/gw0k3YLZ#v4qHGUcWMyVCgPauUV6ifw), [10](https://mega.nz/folder/ddxhwYTA#57b0gRryU3aSosx6ZPvEEA), [11](https://mega.nz/folder/b8Fx0CzC#D2CLxgRfflcDQEejpBtw1Q) - *OnlyFans / Patreon*
+* [OnlyFans Megadrive](https://mega.nz/folder/L4ZkgbSA#VjlbqBjH79TSmdL7wfJImw), [2](https://mega.nz/folder/wHx33QSD#elSJZ8SnECoxVInA8VwKKg), [3](https://mega.nz/folder/cpJC3DyD#VmtLDZaafz_iO9gaa4LUkg/folder/ptBUlJ4K), [4](https://mega.nz/folder/zfYFEKIb#9J9aza_logP8xjqqYzMVhQ), [5](https://mega.nz/folder/SDIyFbSR#0gnjN_3H55b2mEVTbe94dA), [6](https://mega.nz/folder/opICgJAY#ulwaZ34Jupcnjh96jD7f0Q/), [7](https://mega.nz/folder/1ggimKSa#sxCuAsJtH45VkPQZBa_F7A), [8](https://mega.nz/folder/wFxEUShA#_mgBEMwIaHZNA02IIzID9g), [9](https://mega.nz/folder/gw0k3YLZ#v4qHGUcWMyVCgPauUV6ifw), [10](https://mega.nz/folder/ddxhwYTA#57b0gRryU3aSosx6ZPvEEA), [11](https://mega.nz/folder/b8Fx0CzC#D2CLxgRfflcDQEejpBtw1Q), [12](https://mega.nz/folder/raohDY6Q#mjstWH7FO_pCSJ1-Qdi-4A), [13](https://mega.nz/folder/gw0k3YLZ#v4qHGUcWMyVCgPauUV6ifw) - *OnlyFans / Patreon*
 * [BadGirlsArchive](https://badgirlsarchive.site/) - *OnlyFans / Patreon / [Drive](https://mega.nz/folder/KV5BkYZL#csRmCr-THJeX0NbvukLkLA), [2](https://mega.nz/folder/vRxhhSRT#BWWNfkzvhZi-B-91KM1Oqw)*
 * [PornLeaks](https://pornleaks.in/) - *OnlyFans / Patreon*
 * [Pornlyfans](https://ufile.io/d6jdix9i) - *OnlyFans*
