@@ -735,7 +735,7 @@ RSS Player*
 * [3uTools](http://www.3u.com/) - *iOS Manager for Windows*
 * [NoMoreSmallApps](https://www.sparkdev.me/package/com.spark.nomoresmallapps) - *Force App Full Screen / [Discord](https://discord.com/invite/tvvJfbD)*
 * [InsightBrowser](https://insightbrowser.com/) - *Browser*
-* [Kagi](https://apps.apple.com/us/app/kagi/id1484498200) - *Browser w/ Firefox & Chrome Extension Support*
+* [Kagi](https://apps.apple.com/us/app/kagi/id1484498200) or [Orion](https://testflight.apple.com/join/DeC8ZDnu) - *Browser w/ Firefox & Chrome Extension Support*
 * [iRetro](https://apps.apple.com/us/app/iretro-the-internet-browser/id1015692776) - *Browser w/ Wayback Machine*
 * [Lights Off](https://testflight.apple.com/join/pj7BWqeJ) - *iOS Safari Dark Mode*
 * [DiscordExtras](https://github.com/NotZoeyDev/DiscordExtras) - *Patch Discord Client*
