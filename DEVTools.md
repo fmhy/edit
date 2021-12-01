@@ -571,7 +571,8 @@
 * [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://www.code-projects.org/), [Codastro](https://codeastro.com/) or [ItSourceCode](https://www.itsourcecode.com/) - *Source Code Projects*
 * [CodeGrepper](https://www.codegrepper.com/) - *Code Search Extension*
 * [ShareScript](https://sharescript.net/), [Google Code Archive](https://code.google.com/archive/), [CodeList](https://www.codelist.cc/) or [bl.ocks](https://bl.ocks.org/) - *Script / Code Indexes*
-* [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/) - *Source Code Screenshot Tool*
+* [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/), [2](https://carbon.now.sh/) - *Source Code Screenshot Tool*
+* [ray.so](https://ray.so/) - *Create Code Images*
 * [Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering) - *Reverse Engineering Resource Index*
 * [challenges.re](https://challenges.re/) - *Reverse Engineer Code*
 * [thefuck](https://github.com/nvbn/thefuck) - *Corrects Previous Console Command*
@@ -593,7 +594,6 @@
 * [JSON Formatter](https://jsonformatter.curiousconcept.com/) or [json-formatter](https://github.com/callumlocke/json-formatter) - *JSON Formatter* 
 * [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) - *JSON Viewer & Editor*
 * [glogg](https://glogg.bonnefon.org/) - *Log File Explorer*
-* [Carbon](https://carbon.now.sh/) - *Source Code Screenshots*
 * [Code::Stats](https://codestats.net/) - *Programmer Stat Tracking*
 * [oq](https://github.com/Blacksmoke16/oq) - *Programming Language Processor*
 * [Tables Generator](https://www.tablesgenerator.com/) - *Generates Tables in Various Languages*
