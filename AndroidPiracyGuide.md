@@ -846,7 +846,7 @@ RSS Player*
 
 # ► iOS Audio
 
-* **[Spotilife](https://rentry.co/SpotilifeGuide)** / [2](https://repo.hackyouriphone.org/spotilife), [Spotify++](https://appdb.to/app/cydia/1900000540) / [2](https://ipaspot.app/categories/tweakedapps.html) or [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580) - *Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392)*
+* **[Spotilife](https://rentry.co/SpotilifeGuide)** / [2](https://repo.hackyouriphone.org/spotilife), [Tweaked Spotify](https://rentry.co/spotifyIPA), [Spotify++](https://appdb.to/app/cydia/1900000540) / [2](https://ipaspot.app/categories/tweakedapps.html) or [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580) - *Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392)*
 * [YTMusilife](https://rentry.co/YTMusicGuide) / [2](https://repo.hackyouriphone.org/ytmusilife) or [YouTube Music Patched](https://appdb.to/app/cydia/1900000831) - *Streaming*
 * [DeezeLife](https://rentry.co/deezerpremiumforios) / [2](https://repo.hackyouriphone.org/deezelife) or [Deezer](https://apps.apple.com/app/deezer/id292738169) - *Streaming*
 * [SCloudlife](https://repo.hackyouriphone.org/scloudlife) or [Soundcloud](https://apps.apple.com/us/app/soundcloud/id336353151) - *Streaming*
