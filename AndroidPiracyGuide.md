@@ -915,7 +915,7 @@ RSS Player*
 * [RSS Player](https://apps.apple.com/us/app/rss-video-player/id885311320) - *KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)*
 * [Wako-TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - *Movies / TV / Anime / Real Debrid required*
 * [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962) or [‎Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - *Video Player*
-* [Better Cercube](https://appdb.to/app/cydia/1900000823), [uYou+](https://appdb.to/app/cydia/1900000830) / [Disocrd](https://discord.gg/yXGVJptcaF) or [Cercube](https://rejail.ru/pack/cercube) - *Modded YouTube iPA / [Reddit Post](https://redd.it/olsxri)*
+* [Premiuim YouTube](https://rentry.co/YTcrack), [Better Cercube](https://appdb.to/app/cydia/1900000823), [uYou+](https://appdb.to/app/cydia/1900000830) / [Disocrd](https://discord.gg/yXGVJptcaF) or [Cercube](https://rejail.ru/pack/cercube) - *Modded YouTube iPA / [Reddit Post](https://redd.it/olsxri)*
 * [Tunity](https://tunity.com/) - *Hear Any Muted TV*
 
 ***
