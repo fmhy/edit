@@ -223,7 +223,7 @@
 * **[CustomShortcuts](https://www.houdah.com/customShortcuts/)** - *Custom Keyboard Shortcuts*
 * **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - *Alt-Tab for Mac*
 * **[PDF Expert](https://filecr.com/?s=pdf+expert)** - *PDF Viewer*
-* **[Fantasitcal](https://flexibits.com/fantastical)** - *Calendar*
+* **[Fantastical](https://flexibits.com/fantastical)** - *Calendar*
 * [DMHY](https://github.com/yaqinking/DMHY) - *Anime Torrent Autodownloader* 
 * [YTMusic](https://ytmusic.app/) - *YouTube Music Client*
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) - *Download MacOS*
