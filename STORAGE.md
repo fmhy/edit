@@ -2685,7 +2685,6 @@ Good for finding classic, obscure & short films.
 * https://b-ok.lat/
 * https://b-ok.africa/
 * https://ua1lib.org/
-* http://www.booksc.org/
 
 ***
 
