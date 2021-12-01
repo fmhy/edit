@@ -1545,6 +1545,7 @@ Portuguese
 * [Digital Library of India](https://dli.sanskritdictionary.com) - *Books*
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - *Radio*
 * [BotAllen](https://botallen.com/) - *Kodi Repo*
+* [IDCARDS.PW](https://www.idcards.pw/) - *Fake Indian ID Card Generator*
 
 ***
 
