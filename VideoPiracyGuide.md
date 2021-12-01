@@ -322,6 +322,7 @@
 * [AnimeXin](https://animexin.xyz/) - *Sub*
 * [NetAnime](https://netanime.tv/) - *Sub / Dub* 
 * [AnimeTV](https://animetv.cc/) - *Sub / Dub*
+* [Animeflix](https://github.com/chirag-droid/animeflix) - *Sub / Dub*
 * [tenshi.moe](https://tenshi.moe/) - *Sub / Dub* 
 * [AnimeGuru](https://www.animeguru.net/) - *Sub / Dub*
 * [GoAnimeList](https://goanimelist.me/) - *Sub / Dub*
