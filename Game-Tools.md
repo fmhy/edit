@@ -226,6 +226,7 @@
 * [Minecraft Optimization Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_optimization_mods) - *Improve Minecrafts Performance*
 * [Charm](https://svenhjol.github.io/Charm/), [Vanillatweaks](https://www.vanillatweaks.net/) or [Quark](https://quarkmod.net/) - *Mincraft Quality of Life Mod*
 * [Minecraft QOL Mods](https://rentry.co/mc-qol) or [sk1er.club](https://sk1er.club/) - *Minecraft Quality of Life Mod List*
+* [MCPEDL](https://mcpedl.com/) - *Minecraft PE/Bedrock Mods, Maps & Resources*
 * [Couleur Tweak Tips](http://discord.gg/CTT) - *Minecraft Tweaks & Tips*
 * [LambdAurora](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754) - *Minecraft OptiFine Alternatives for Fabric*
 * [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - *Minecraft Utility Mod*
