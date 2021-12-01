@@ -322,7 +322,6 @@
 * [AnimeXin](https://animexin.xyz/) - *Sub*
 * [NetAnime](https://netanime.tv/) - *Sub / Dub* 
 * [AnimeTV](https://animetv.cc/) - *Sub / Dub*
-* [Animeflix](https://github.com/chirag-droid/animeflix) - *Sub / Dub*
 * [tenshi.moe](https://tenshi.moe/) - *Sub / Dub* 
 * [AnimeGuru](https://www.animeguru.net/) - *Sub / Dub*
 * [GoAnimeList](https://goanimelist.me/) - *Sub / Dub*
@@ -343,6 +342,7 @@
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - *Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/)* 
 * [Crunchyroll iFrame Player](https://greasyfork.org/en/scripts/411391-crunchyroll-iframe-player) - *Crunchyroll Premium Bypass Script / [GitHub](https://github.com/Mateus7G/crp-iframe-player)*
 * [Themes.moe](https://themes.moe/) - *Anime Opening & Ending Themes*
+* [Animeflix](https://github.com/chirag-droid/animeflix) - *Sub / Dub / Self-Hosted*
 
 ***
 
