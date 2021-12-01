@@ -901,6 +901,7 @@ General Reading Sites*
 * [Unicord](https://github.com/WamWooWam/Unicord) - *Open Source Discord Client / [Discord](https://discord.gg/64g7M5Y)* 
 * [Fosscord](https://github.com/fosscord/fosscord) - *FOSS Discord Client*
 * [GooseMod](https://goosemod.com/) - *Modifiable Discord Client / [Firefox](https://addons.mozilla.org/addon/goosemod-for-web/) / [Chrome](https://chrome.google.com/webstore/detail/goosemod-for-web/clgkdcccmbjmjdbdgcigpocfkkjeaeld)*
+* [discord rpc client](https://github.com/Metalloriff/discord-rpc-client) - *RPC Client*
 * [OpenDiscord](https://github.com/505e06b2/OpenDiscord) - *Modifiable Discord Client*
 * [Quarrel](https://github.com/UWPCommunity/Quarrel) - *Universal Windows Platform Discord Client*
 * [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) or [WebCord](https://github.com/SpacingBat3/WebCord) - *Discord Web Client / [Discord](https://discord.gg/Vm4CwZx)*
