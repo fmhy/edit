@@ -848,7 +848,7 @@ RSS Player*
 
 * **[Spotilife](https://rentry.co/SpotilifeGuide)** / [2](https://repo.hackyouriphone.org/spotilife), [Spotify++](https://appdb.to/app/cydia/1900000540) / [2](https://ipaspot.app/categories/tweakedapps.html) or [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580) - *Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392)*
 * [YTMusilife](https://rentry.co/YTMusicGuide) / [2](https://repo.hackyouriphone.org/ytmusilife) or [YouTube Music Patched](https://appdb.to/app/cydia/1900000831) - *Streaming*
-* [DeezeLife](https://rentry.co/DeezelifeGuide) / [2](https://repo.hackyouriphone.org/deezelife) or [Deezer](https://apps.apple.com/app/deezer/id292738169) - *Streaming*
+* [DeezeLife](https://rentry.co/deezerpremiumforios) / [2](https://repo.hackyouriphone.org/deezelife) or [Deezer](https://apps.apple.com/app/deezer/id292738169) - *Streaming*
 * [SCloudlife](https://repo.hackyouriphone.org/scloudlife) or [Soundcloud](https://apps.apple.com/us/app/soundcloud/id336353151) - *Streaming*
 * [Musi](https://apps.apple.com/us/app/musi-simple-music-streaming/id591560124) - *Streaming / [Music Videos](https://apps.apple.com/us/app/musi-offline-music-videos/id1566988849)* 
 * [eSound](https://apps.apple.com/ca/app/esound-music-player-app-mp3/id1224933860) - *Streaming* 
