@@ -672,6 +672,7 @@
 * [Wolfram Alpha](https://www.wolframalpha.com/) - *Searchable Knowledgebase / [Pro](https://wolfreealpha.github.io/)*
 * [Dictionary](https://www.dictionary.com/) - *Dictionary / Thesaurus*
 * [NinjaWords](http://ninjawords.com/ ) - *Dictionary* 
+* [DescribingWords](https://www.describingwords.io/) - *Adjectives*
 * [WikiDiff](https://wikidiff.com/) - *Difference Between Any Words* 
 * [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - *Search for Words Using Their Meanings* 
 * [Tip of my Tounge](https://chir.ag/projects/tip-of-my-tongue/) - *Find Words you Can't Remember*
