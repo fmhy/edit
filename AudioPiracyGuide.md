@@ -204,7 +204,7 @@
 * [MP3Jam](https://www.mp3jam.org/) - *MP3*
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - *Music Download Tool* 
 * [RipMe](https://github.com/RipMeApp/ripme) - *Bulk Album Downloader*  
-* [DoubleNegative](https://doublenegative.io/ ) - *Tidal Music Downloader*
+* [RedSea](https://github.com/Dniel97/RedSea) or [DoubleNegative](https://doublenegative.io/ ) - *Tidal Music Downloader*
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - *Bandcamp Downloader*
 * [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - *Soundcloud Download Tools*
 * [KeepTube](https://jaymoulin.me/me/keeptune/) - *Soundcloud & Bandcamp Downloader*
