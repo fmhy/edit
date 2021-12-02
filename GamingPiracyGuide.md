@@ -519,6 +519,7 @@
 * [Krunker.io](https://krunker.io/) / [2](https://browserfps.com/) / [Market Ping](https://yee.how/market-ping/) / [Client](https://client.cuffuffles.dev/), [Venge](https://venge.io/) or [RoboFight](https://robofight.io/) - *PvP FPS*
 * [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) - *Top Down Battle Royal* 
 * [ZombsRoyale.io](https://zombsroyale.io/) - *Zombie Battle Royale* 
+* [Yohoho.io](https://www.yohoho.io/) - *Pirate Battle Royale*
 * [1v1.LOL](https://1v1.lol/) - *1v1 Building / Battle Sim*
 * [MiniRoyale](https://miniroyale2.io/) - *Battle Royal Game* 
 * [Wings.io](http://wings.io/) - *Multiplayer Plane Battles*
