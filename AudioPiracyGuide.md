@@ -253,6 +253,7 @@
 * [RabbitMP3](https://www.rabbitmp3.com/) - *MP3*
 * [Freemp3cloud](https://freemp3cloud.com/en/) - *MP3*
 * [Mp3Deer](https://mp3deer.com/) - *MP3*
+* [sixousixmusix](https://www.sixousixmusix.org/) - *MP3*
 * [Mixupload](https://mixupload.com/) - *MP3*
 * [Moe:81](http://miya.nipah.moe:81/public/music/) - *MP3 / FLAC*
 * [geedryve](http://jacobsm.com/geedryve/records/mp3s/) - *MP3* 
@@ -266,6 +267,7 @@
 * [SearchLossless](https://searchlossless.com/) - *FLAC*
 * [LosslessNews](https://flac1.hd24bit.com/) - *FLAC*
 * [FLAC World](http://flac.world/) - *FLAC*
+* [FlacMusic](https://www.flacmusic.info/) - *FLAC*
 * [Music HiRes](https://music-hires.blogspot.com/) - *FLAC*
 * [FLAC.xyz](http://flac.xyz/) - *FLAC*
 * [Lossless-FLAC](https://lossless-flac.com/) - *FLAC*
