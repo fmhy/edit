@@ -183,7 +183,6 @@
 * [Flenix](https://flenix.net/) - *Movies / TV / Anime* 
 * [HDFull](https://hdfull.lv/) - *Movies / TV / Anime* 
 * [VidEmbed](https://vidembed.cc/) - *Movies / TV / Anime* 
-* [MSMoviesBD](https://msmoviesbd.com/) - *Movies / TV / Anime*
 * [Layerca21](https://layarkacaxxi.biz/) - *Movies / TV / Use AdBlocker*  
 * [4MovieRulz](https://4movierulz.mn/category/hollywood-movie-2020/) - *Movies* 
 * [123Movie](https://123movie.uno/) - *Movies / TV / Anime*
