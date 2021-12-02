@@ -910,6 +910,7 @@
 * [VolareNovels](https://www.volarenovels.com/) 
 * [Free Light Novel](https://www.freelightnovel.com/)
 * [WoopRead](https://woopread.com/)
+* [Light Novel Archive](https://t.me/LightNovelArchives) or [LN_Index](https://t.me/LN_Index) - *Light Novels*
 * [Void Translations](https://voidtranslations.wordpress.com/) 
 * [Just Light Novels](https://justlightnovels.com/)
 * [RnDNovels ](https://www.rndnovels.com/) 
