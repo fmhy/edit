@@ -314,6 +314,7 @@
 * [Animeplyx](https://animeplyx.eu/) - *Sub*
 * [5Anime](https://5anime.net/) - *Sub / Dub*
 * [AnimeOnsen](https://animeonsen.xyz/) - *Sub*
+* [AnimeFever](https://animefever.nz/) - *Sub / Dub*
 * [Animetake](https://animetake.tv/) - *Sub* 
 * [AnimetTV](https://animet.tv/) - *Sub / Dub*
 * [AnimeVibe](https://animevibe.se/) - *Sub* 
@@ -444,6 +445,7 @@
 * [CXtv](http://www.cxtvlive.com/) - *TV / Sports*
 * [USTV247](https://ustv247.tv/) - *TV / Sports*
 * [ProLive](https://prolive.tv/) - *TV / Sports*
+* [DesiFree](https://www.desifree.tv/) - *TV / Sports*
 * [FreeInterTV](http://www.freeintertv.com/) - *TV / Sports*
 * [Stream4Free Live](https://www.stream4free.live/) - *TV / Sports*
 * [vipotv](http://vipotv.com/) - *TV / Sports*
@@ -494,6 +496,7 @@
 * [UFCKhabib](http://ufckhabib.com/) or [NBATVSport](http://nbatvsport.com/) - *Sports*
 * [6Streams](http://6streams.tv/) - *Sports*
 * [NodelayTV](http://nodelaytv.pw/) - *Sports*
+* [Rojadirecta](https://www.rojadirecta.watch/) - *Sports*
 * [EliteGoLTV](https://elitegoltv.es/) - *Sports*
 * [FreeSportsForAll](http://www.freesportsforall.ml/) - *Sports*
 * [Cr7Soccor](https://cr7soccer.club/) - *Sports*
