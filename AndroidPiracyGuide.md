@@ -227,6 +227,7 @@
 * [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://forum.mobilism.org/search.php?keywords=solid+explorer&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/), [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) or [IrkFM](https://github.com/lfuelling/lrkFM) - *File Manager*
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - *Download / Torrent Manager* 
 * [Vysor](https://www.vysor.io/) or [scrcpy](https://github.com/Genymobile/scrcpy) - *Control Android via Desktop*
+* [BlueLight Filter](https://play.google.com/store/apps/details?id=jp.ne.hardyinfinity.bluelightfilter.free) - *Screen Bluelight Filter*
 * [FAST](https://play.google.com/store/apps/details?id=com.netflix.Speedtest), [Meteor](https://play.google.com/store/apps/details?id=meteor.test.and.grade.internet.connection.speed) or [FCC Speed Test](https://play.google.com/store/apps/details?id=com.samknows.fcc&hl=en_US&gl=US) - *Internet Speed Test*
 * [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - *Use Google Cam Without Google Play* 
 * [Fix My Speakers](https://fixmyspeakers.com/) - *Eject Water from Phones Speakers*
@@ -345,6 +346,7 @@
 * [DZAPK](https://dzapk.com/) - *Modded* 
 * [Apk4All](https://apk4all.com/) - *Modded*
 * [ReXdl](https://rexdl.com/) - *Modded*
+* [Androidp1](https://www.androidp1.com/en/) - *Modded*
 * [Source of APK](https://sourceofapk.com/) - *Modded*
 * [5Play](https://5play.ru/en/) - *Modded*
 * [iHackedit](http://ihackedit.com/) - *Modded* 
