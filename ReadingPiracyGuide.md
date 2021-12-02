@@ -429,7 +429,8 @@
 * [Saylor](https://www.saylor.org/books/) - *Textbooks*
 * [Wikibooks](https://en.wikibooks.org/) - *Open-Content Texbooks*
 * [PowerInBooks](https://powerinbooks.xyz/temp/) or [ch36650lut10n5](https://www.ch36650lut10n5.com/) - *Textbook Solutions* 
-* [LearnCreative](https://learncreative.net/) - *IIT / JEE / NEET / AIIMS Study Material* 
+* [LearnCreative](https://learncreative.net/) - *IIT, JEE, NEET & AIIMS Material* 
+* [JEENEETBooks](https://www.jeeneetbooks.in/) - *IIT, JEE & NEET Material*
 * [ck12](https://www.ck12.org/)- *Interactive CK-12*
 * [Oxford Bookworms](https://t.me/OxfordBookworms) - *Books / Audiobooks / telegram*  
 * [Digital Libraries / Archives](https://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/) - *Online university libraries*
@@ -784,6 +785,7 @@
 * [MangaDoom](https://mngdoom.com/) 
 * [MangaSushi](https://mangasushi.net/)
 * [MangaSail](https://www.mangasail.co/)
+* [Taadd](http://www.taadd.com/)
 * [Kanjiku](https://kanjiku.net/)
 * [MangaTX](https://mangatx.com/) 
 * [Flamescans](https://flamescans.org/)
@@ -902,6 +904,7 @@
 * [Novel Translations](https://lightnovelstranslations.com/)
 * [Readwn](https://www.readwn.com/) 
 * [Nakimushitl](https://nakimushitl.wordpress.com/)
+* [NovelCool](https://www.novelcool.com/)
 * [Novel Free](https://mnovelfree.com/)
 * [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)  
 * [VolareNovels](https://www.volarenovels.com/) 
