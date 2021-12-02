@@ -466,6 +466,8 @@
 
 # ► Hindi 
 
+* [Quillpad](https://www.quillpad.in/) - *Text editor*
+
 ## ▷ Downloading
 
 * [9xMovies](https://9xmovies.land/) - *Movies / TV* 
@@ -768,6 +770,7 @@
 * [dl1.3rver](https://dl1.3rver.org/), [2](https://dl2.3rver.org/ ), [3](https://dl3.3rver.org/) - *Movies / TV*
 * [dlfars](https://dlfars.pw/) - *Movies / TV / Anime* 
 * [MelliMovies](https://mellimovies2.tk/) - *Movies / TV* 
+* [FilmBin](https://filmbin1.com/) - *Movies / TV*
 * [RooDL](https://roozdl.com/) - *Movies / TV / Anime / [Drive](http://dl.roozdl.com/)* 
 * [Movibox](https://movibox.in/) - *Movies / Geo Restricted* 
 * [mrmovie](https://mrmovie5.space/) - *Movies / TV* 
@@ -1176,6 +1179,7 @@ Portuguese
 * [AppsTorrent](https://appstorrent.ru/) - *Mac Software*
 * [muzlishko](http://www.muzlishko.ru/) - *MP3*
 * [Tancpol](https://tancpol.net/) - *MP3*
+* [Mixmuz](https://mixmuz.ru/) - *MP3*
 * [kinosoundtrack](https://www.kinosoundtrack.com/) - *MP3*
 * [MailboxDrive](http://www.mailboxdrive.com/) - *MP3*
 * [Shazam Music](https://t.me/shazam_music_uz) - *MP3* 
@@ -1276,6 +1280,7 @@ Portuguese
 * [muzlishko](http://www.muzlishko.ru/) - *Music*
 * [pesnigoo](https://pesnigoo.ru/) - *Music*  
 * [Tancpol](https://tancpol.net/) - *Music*
+* [Mixmuz](https://mixmuz.ru/) - *Music*
 * [MP3Hero](https://mp3hero.net/) - *Music*
 * [MDCORE](https://vk.com/mdcore) - *Metal Music*
 * [HDVideoBox](https://forum.mobilism.org/viewtopic.php?f=429&t=4505325) - *Movies / TV / Anime / Android*
@@ -1303,6 +1308,8 @@ Portuguese
 * [MirKnig.sur ](http://mirknig.su/) - *Books / Fiction / Nonfiction* 
 * [booktracker](https://booktracker.org/) - *Books / Audiobooks / Comics / Magazines / NSFW* 
 * [readmanga](https://readmanga.live/) - *Manga* 
+* [manga-online.biz](https://manga-online.biz/) - *Manga*
+* [mangalib.me](https://mangalib.me/) - *Manga*
 * [mmnt](https://www.mmnt.ru/) - *Document Search* 
 * [Samlib ](http://samlib.ru/) - *Document Search* 
 * [militera](http://militera.org/) - *Military History* 
@@ -1335,6 +1342,7 @@ Portuguese
 * [Descargas](https://descargas2020.net/) - *Movies / TV*
 * [DLShared](https://dlshareds.blogspot.com/?m=1) - *Movies*
 * [DescargasDD](https://descargasdd.net/) - *Movies / TV* 
+* [mirandopeliculas](https://mirandopeliculas.com/) - *Movies / TV*
 * [Movies, Series ... in Spanish](https://redd.it/ns0y6c) - *Movies / TV*
 * [Peliculas 480p](https://t.me/cinema480p) - *Movies / Telegram* 
 * [dyndns](http://fina.dyndns.tv/) - *TV*  
@@ -1357,6 +1365,7 @@ Portuguese
 * [PasateaTorrent](https://pasateatorrent.net/) - *Movies / TV*
 * [divxonline](https://www.divxonline.tv/) - *Movies / TV* 
 * [Descargas](https://descargas2020.net/) - *Movies / TV*
+* [Tomadvix](https://tomadivx.net/) - *Movies / TV*
 * [DIVXTorrent](https://www.divxtorrent.com/) - *Movies / TV*
 * [Grantorrent](https://grantorrent.nl/), [2](https://grantorrent.ch/) - *Movies / TV*
 * [EstrenosDTL](https://www.estrenosdtl.nz/) - *Movies*
