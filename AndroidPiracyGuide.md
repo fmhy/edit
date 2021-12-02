@@ -585,6 +585,7 @@ RSS Player*
 * [SubHub](https://github.com/FunkyMuse/SubHub) - *Subtitle Downloader*
 * [Tunity](https://tunity.com/) - *Hear Any Muted TV*
 * [Stick Around](https://play.google.com/store/apps/details?id=com.stickaround.app) - *Check for Post Credit Scenes*
+* [tv-bro](https://github.com/truefedex/tv-bro) - *TV Remote Browser*
 
 ***
 
