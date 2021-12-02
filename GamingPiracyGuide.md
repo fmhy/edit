@@ -424,7 +424,8 @@
 * [Surrogate](https://www.surrogate.tv/) - *Remote Control Real Life Games* 
 * [RobotStreamer](https://robotstreamer.com/) - *Live Control Robots* 
 * [Free Rider HD](https://www.freeriderhd.com/) - *Draw / Race Bike Tracks*
-* [BananaBread](https://kripken.github.io/misc-js-benchmarks/banana/index.html) - *Bot FPS* 
+* [Merc.zone](https://merc.zone/) - *Browser FPS*
+* [BananaBread](https://kripken.github.io/misc-js-benchmarks/banana/index.html) - *Browser Bot FPS* 
 * [Dynast](https://dynast.io/) - *Survival Browser Game*
 * [Mexican Train](https://mexicantrain.online/) - *Domino Train Game*
 * [Gridland](http://gridland.doublespeakgames.com/) - *Grid Matching RPG*
