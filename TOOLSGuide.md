@@ -951,6 +951,8 @@ General Reading Sites*
 * [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) - *MPV Rich Presence* 
 * [MPC-DiscordRPC](https://github.com/angeloanan/MPC-DiscordRPC) - *MPC Rich Presence*
 * [qbittorrent-rp](https://github.com/LockBlock-dev/qbittorrent-rp) - *qBittorrent Rich Presence*
+* [Discord RPC Client](https://github.com/Metalloriff/discord-rpc-client 
+G) - *Create Discord RPCs*
 * [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - *VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)*
 * [Discord.io](https://discord.io/) or [dsc.gg](https://dsc.gg/) - *Create Custom Discord Invites*
 * [1337x-Bot ](https://github.com/brandongallagher1999/1337x-Bot) - *1337x Discord Bot*
