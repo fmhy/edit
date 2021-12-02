@@ -559,6 +559,7 @@
 * [python-adb](https://github.com/google/python-adb) - *Python ADB + Fastboot Implementation*
 * [pipx](https://pypa.github.io/pipx/) - *Execute Python Binaries in Isolated Environments*
 * [AutoCode](https://autocode.com/) - *Instant Endpoints*
+* [Trunk](https://trunk.io/) - *Run Linters/Formatters/Checkers Simultaneously*
 * [Mega Linter](https://github.com/nvuillam/mega-linter) - *Code Analyzer* 
 * [tabnine](https://www.tabnine.com/) - *AI Assisted Code Completion*
 * [editorcornfig](http://editorconfig.org/) - *Maintain consistent code styles across editors*
