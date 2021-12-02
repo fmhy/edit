@@ -250,7 +250,6 @@
 * [Amulet](https://www.amuletmc.com/) - *Minecraft Map Editor / Viewer*
 * [MineAtlas](http://mineatlas.com/) - *Minecraft Seed Map*
 * [Terra](https://github.com/PolyhedralDev/Terra) - *Minecraft World Generator*
-* [Squid Game](https://phoenixsc.me/download-links/squid-game-1-17-1/) - *Minecraft Squid Game Map*
 * [TerraForged](https://www.curseforge.com/minecraft/mc-mods/terraforged) - *Improved Biomes Mod*
 * [Biomes-O-Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) - *Extra Biomes Mod*
 * [Water-Physics-Overhaul](https://www.curseforge.com/minecraft/mc-mods/water-physics-overhaul) - *Realistic Minecraft Water Physics*
