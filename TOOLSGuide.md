@@ -46,11 +46,13 @@
 * [PHPCRM](https://www.phpcrm.com/) - *Company Management Software*
 * [Creative Commons](https://creativecommons.org/) - *Creative Commons Licenses*
 * [ievaphone](https://ievaphone.com/), [blacktel](https://www.blacktel.io/), [Citrustel](https://www.citrustel.com/) or [PopTox](https://www.poptox.com/) - *Make Free Phone Calls*
+* [Free-lookup](https://www.free-lookup.net/) - *Phone # Lookup*
 * [tuxi](https://github.com/Bugswriter/tuxi) - *Question & Answer CLI*
 * [Onym](https://guide.onym.co/) - *Tools / Resources for Naming Things*
 * [WorldTaxiMeter](https://www.worldtaximeter.com/) - *Taxi Fare Calculator*
 * [GasPrices](https://gasprices.aaa.com/) - *Gas Price Calculator*
 * [DiaperGrid](https://diapergrid.com/) - *Compare Diaper Prices*
+* [StockInformer](https://www.stockinformer.com/) - *Product Stock Notifications*
 * [Solving Resources](https://the-unwelcome.github.io/resources/solving_resources.html) - *Code & Puzzle Solving Resources*
 * [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - *Bedtime Calculator* 
 * [The Sustainabilitist](https://sustainabilitist.com/) - *Sustainability Resource Hub*
@@ -114,6 +116,7 @@
 * [Detexify](http://detexify.kirelabs.org/classify.html) - *Handwritten LaTeX Symbol Recognition*
 * [AirPDFtoExcel](https://airpdftoexcel.com/) - *PDF to Excel Converter*
 * [How To Use Excel](https://www.how-use-excel.com/) - *Excel Tutorial*
+* [Read File Online](http://www.readfileonline.com/) - *Online Large Text File Viewer*
 * [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - *Rephrase / Paraphrase Text* 
 * [phraseup](http://www.phraseup.com/) - *Autocomplete Common Phrases* 
 * [Transformer](https://transformer.huggingface.co/), [TurbineText](https://www.turbinetext.com/en) or [Talk to Transformer](https://app.inferkit.com/demo) - *Text Autocomplete* 
@@ -146,6 +149,7 @@
 * [Watson](https://speech-to-text-demo.ng.bluemix.net/) or [VoiceNotebook](https://voicenotebook.com/) - *Speech to Text*
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) - *Text to Handwriting Converter*
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - *Extract Text From Any Window*
+* [ExtractMailAddress](https://extractemailaddress.com/) - *Extract Email's, URLs & Numbers from Text*
 * [Cryptii](https://cryptii.com/) - *Modular Conversion, Encoding & Encryption*
 * [dCode](https://www.dcode.fr/en) - *Message Decoders*
 * [InfoEncrypt](https://www.infoencrypt.com/)  - *Encrypt / Decrypt Text* 
@@ -1026,6 +1030,7 @@ General Reading Sites*
 * [TeleWebGram](https://telewebgram.com/) - *Online Telegram Channel Viewer*
 * [Rose](https://t.me/MissRose_bot) - *Telegram Group Manager*
 * [TGCF](https://github.com/aahnik/tgcf) - *Telegram Message Forwarding*
+* [Callmebot](https://www.callmebot.com/) - *Trigger Voice Calls or Chats*
 * [Skeddy](https://skeddy.me/) - *Telegram Reminder Bot*
 * [ChecklyBot](https://t.me/checklybot) - *Checklist Telegram Bot*
 * [Telegram Scraper](https://www.telegramscraper.com/) - *Telegram Member / Group Export*
