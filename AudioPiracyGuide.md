@@ -189,6 +189,7 @@
 
 ## ▷ Download Apps
 
+* **[SlavDoge DL](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9kaXNjb3JkLmdnL2hmc21xNnZkd3A=.RkJJ)** - *Qobuz & Tidal Download Bot*
 * **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - *Download from Spotify*
 * **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)*
@@ -220,7 +221,6 @@
 
 * **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) - *Multi-Site Search*
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "audio"*
-* **[SlavDoge DL](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9kaXNjb3JkLmdnL2hmc21xNnZkd3A=.RkJJ)** - *Qobuz & Tidal Download Bot*
 * **[/r/RipRequests](https://www.reddit.com/r/riprequests/)** - *FLAC / MP3 / [Spreadsheet](https://docs.google.com/spreadsheets/d/1Xu80ZXZIc07GbI9M26FC7FcZTt1_qSBv4LlLDPPDGq8/edit?usp=sharing)*
 * **[Free MP3 Download](https://free-mp3-download.net/)** - *Search / MP3 / FLAC*
 * **[Mudome](https://mudome.org/)** - *MP3 / FLAC*
