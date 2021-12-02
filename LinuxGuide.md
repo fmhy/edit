@@ -36,6 +36,7 @@
 * [Distrochooser](http://distrochooser.de/?l=2) - *Linux Distro Chooser*
 * [Linux Filesystem Chart](https://cdn.discordapp.com/attachments/670326604261752843/904929766459736124/linux-01c.jpg) - *File System Guide*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old Linux Distro Archive*
+* [susOS](https://github.com/Villagerjj/sus-os) - *Among Us Themed Distro*
 * [Linux x Technology](https://linuxdiscord.com/) or [Discord-Linux](https://discord.gg/discord-linux) - *Linux Chat Communities*
 * [Discover](https://github.com/trigg/Discover) - *Discord Linux Overlay*
 * [Fix Guild Lag](https://wiki.archlinux.org/title/Discord#Lagging_when_scrolling_through_your_guilds) - *Fix lag when scrolling through guilds in Linux*
