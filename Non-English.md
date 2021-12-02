@@ -1267,6 +1267,7 @@ Portuguese
 * [EX-FS](https://ex-fs.net/ ) - *Movies / TV / Anime*
 * [hdzo](https://hdzo.tv/) - *Movies / TV*
 * [seasonvar](http://seasonvar.ru/) - *TV*
+* [Telik](http://telik.online/) - *TV*
 * [Kino-Dom](http://kino-dom.org/) - *TV*
 * [Shiza Project](https://shiza-project.com/) - *Anime*
 * [otakustudio](http://www.otakustudio.tv/) - *Anime* 
