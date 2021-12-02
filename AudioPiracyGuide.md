@@ -221,7 +221,7 @@
 
 * **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) - *Multi-Site Search*
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "audio"*
-* **[/r/RipRequests](https://www.reddit.com/r/riprequests/)** - *FLAC / MP3 / [Spreadsheet](https://docs.google.com/spreadsheets/d/1Xu80ZXZIc07GbI9M26FC7FcZTt1_qSBv4LlLDPPDGq8/edit?usp=sharing)*
+* **[/r/RipRequests](https://www.reddit.com/r/riprequests/)** - *FLAC / MP3*
 * **[Free MP3 Download](https://free-mp3-download.net/)** - *Search / MP3 / FLAC*
 * **[Mudome](https://mudome.org/)** - *MP3 / FLAC*
 * [The Last Disaster](https://thelastdisaster.vip/), [2](https://thelastdisaster.org/) - *MP3 / FLAC*
