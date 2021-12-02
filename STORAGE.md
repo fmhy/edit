@@ -111,7 +111,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://www.etools.ch/search.do
 * http://citeseer.ist.psu.edu/index
 * https://www.harmari.com/search/unified/
-* https://millionshort.com/
 * https://worldwidescience.org/
 * https://www.startpage.com/
 
