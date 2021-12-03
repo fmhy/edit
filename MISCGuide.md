@@ -162,12 +162,12 @@
 * [Giveaway Radar](https://giveawayradar.weebly.com/) - *Software*
 * [Tick Coupon](https://giveaway.tickcoupon.com/windows-giveaway/) - *Software*
 * [Techno360](https://www.techno360.in/category/free-stuff/) - *Software*
-* [yonokart](http://yonokart.com/ ) - *Software*
+* [yonokart](http://yonokart.com/) - *Software*
 * [AppDoze](https://www.appdoze.com/) - *Software*
 * [Malwaretips Giveaways](https://malwaretips.com/forums/giveaways-promotions-and-contests.75/) - *Software*
 * [Net-Load](https://net-load.com/) - *Software*
 * [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - *Steam Games* 
-* [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997 ) - *Steam Mods*
+* [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - *Steam Mods*
 * [Games Free Today](https://gamesfree.today/) - *Games*
 * [FreeGames.codes](https://freegames.codes/) - *Games / [Android](http://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes)*
 * [IsThereAnyDeal](https://isthereanydeal.com/#/filter:&price/0/0) - *Games* 
@@ -1070,7 +1070,7 @@
 * [Headless-Recorder](https://github.com/checkly/headless-recorder) or [automa](https://github.com/kholid060/automa) - *Browser Automation*
 * [NudgeWare](https://nudgeware.io/) or [HabitLab](https://habitlab.stanford.edu/) - *Productivity Booster*
 * [Beanote](https://chrome.google.com/webstore/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) - *Web Page Note Taking*
-* [ProjectNaptha](https://projectnaptha.com/) - *Manipulate Browser Image Text*
+* [ProjectNaptha](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - *Manipulate Browser Image Text*
 * [Sticky Notes](https://www.getstickynotes.com/) - *Browser Sticky Notes*
 * [Toby](https://www.gettoby.com/) or [Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - *Tab Manager*
 * [Dualless](https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd) or [Tab Resize](https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc) - *Split Browser Window* 
