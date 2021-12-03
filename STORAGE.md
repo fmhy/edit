@@ -1482,6 +1482,7 @@ Add the following commands to a search to manually scrape each site.
 * [PS4 ISO](https://www.ps4iso.net/)
 * [PKGPS4](https://www.pkgps4.com/)
 * [Auctor](https://auctor.tv/) 
+* [PS4 Repo List](https://docs.google.com/spreadsheets/d/1MxBFis83xtZ8KvWfk3t5BaP8vP8qNan1O59etYjFrws/edit#gid=255294685)
 
 ***
 
