@@ -630,7 +630,9 @@ RSS Player*
 
 # ► iOS Jailbreaking
 
+
 * **[Complete Jailbreak Chart](https://docs.google.com/spreadsheets/d/11DABHIIqwYQKj1L83AK9ywk_hYMjEkcaxpIg6phbTf0/)** - *Jailbreak Tools Index*
+* [Know the way of Jailbreaking](https://www.yltboi.me/walkthrough ) - *Jailbreak Guide*
 * [Can I Jailbreak](https://iosninja.io/jailbreak-wizard-can-i-jailbreak) - *Check if your Phone can be Jailbroken* 
 * [/r/jailbreak](https://reddit.com/r/jailbreak) - *Jailbreaking Subreddit*
 * [Electralyzed](https://github.com/6ilent/Electralyzed) - *Jailbreak Tweaks*
