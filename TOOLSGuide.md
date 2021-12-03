@@ -1048,7 +1048,7 @@ G) - *Create Discord RPCs*
 
 * **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)** - *Download Videos from YouTube*
 * **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download Audio from YouTube*
-* **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** or [yt dislikes viewer](https://github.com/pgamerx/yt-dislikes-viewer) - *View YouTube Dislikes*
+* **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** or [yt dislikes viewer](https://github.com/pgamerx/yt-dislikes-viewer) - *View YouTube Dislikes / [Discord](https://discord.com/invite/mYnESY4Md5)*
 * **[SponsorBlock](https://sponsor.ajay.app/)** - *Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)*
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge) - *Delete All YouTube Spammer Comments*
