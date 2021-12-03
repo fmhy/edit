@@ -211,7 +211,6 @@
 * [WLSetup-All](https://archive.org/details/wlsetup-all_201802) - *Windows Live Essentials 2012 Archive*
 * [GenP](https://www.reddit.com/r/GenP) - *Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)*
 * [Adobe CC](https://docs.google.com/document/d/1_Me1TQzXqCYASls7P5Zt5mASNsPamyNVnZfu48t_5Yw/) - *Adobe Creative Cloud Piracy Guide*
-* [Adobe 2022 Master Collection](https://mega.nz/folder/IQYSRTDQ#d64OGZVZBx1t1tX7QYYVQw)
 
 ***
 
