@@ -2328,7 +2328,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Twitch Adblockers
 
-**[Twitch Ad-Blocker-2](https://greasyfork.org/en/scripts/419066-twitch-ad-blocker-2)**, [TTV LOL](https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm), [VideoAdBlockForTwitch](https://github.com/saucettv/VideoAdBlockForTwitch), [Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/), [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)
+**[Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/)**, [Twitch Ad-Blocker-2](https://greasyfork.org/en/scripts/419066-twitch-ad-blocker-2), [TTV LOL](https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm), [VideoAdBlockForTwitch](https://github.com/saucettv/VideoAdBlockForTwitch), [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)
  
 ***
 
