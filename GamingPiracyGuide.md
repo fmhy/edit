@@ -29,12 +29,10 @@
 * [CPG](https://cpgrepacks.site/) - *[Discord](https://discord.gg/dtBSZ9N)*
 * [Darck Repacks](https://darckrepacks.com/) - *[Discord](https://discord.gg/5eRvDvy)*
 * [Torrminatorr](https://forum.torrminatorr.com/)
-* [SteamRIP](https://steamrip.com/) - *[Discord](https://discord.gg/hj8dU5BFHE)*
 * [KaOsKrew](https://www.kaoskrew.org/)
 * [Crohasit](https://crohasit.net/)
 * [Le Fishe Repacks](https://discord.gg/W3MfGDXhAS)
 * [ElAmigos](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
-* [SteamUnlocked](https://steamunlocked.net/) - *Use Adblocker / [Release Tracker](https://github.com/N-O-E-D/Steamunlocked)*
 * [GLoad](https://gload.to/)
 * [Ova Games](http://www.ovagames.com/)
 * [Rihno Games](https://rihnogames.com/)
@@ -43,6 +41,8 @@
 * [AimHaven](https://www.aimhaven.com/)
 * [Games Flix](https://gamesflix.net/) 
 * [Leeching Hell](http://leechinghell.pw/)
+* [SteamRIP](https://steamrip.com/) - *[Discord](https://discord.gg/hj8dU5BFHE)*
+* [SteamUnlocked](https://steamunlocked.net/) - *Use Adblocker / [Release Tracker](https://github.com/N-O-E-D/Steamunlocked)*
 * [SohaibXtreme](https://www.sohaibxtreme.net/FDL/setup/games/) 
 * [Bia2Game](http://dl.bia2game.com/) 
 * [GamingMaster](http://s5.gamingmaster.ir/) 
