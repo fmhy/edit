@@ -241,7 +241,6 @@
 * [MyMiniFactory](https://www.myminifactory.com/) - *Mini 3D Printer Models*
 * [3DBrute](https://3dbrute.com/), [3DZip](https://www.3dzip.org/) or [DesignConnected](https://www.designconnected.com/) - *3D Furniture Models*
 * [Halloween.WannaThis](https://halloween.wannathis.one/) - *3D Halloween Models*
-* [DEFCAD](https://defcad.com/) - *3D Gun Models*
 * [Keygen](https://keygen.co/ ) - *3D Key Model Generator*
 * [CC0 Textures](https://cc0textures.com/) - *Textures for 3D Models* 
 * [Generated Photos](https://generated.photos/) - *AI Generated Model Photos*
