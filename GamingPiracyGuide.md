@@ -46,8 +46,6 @@
 * [SohaibXtreme](https://www.sohaibxtreme.net/FDL/setup/games/) 
 * [Bia2Game](http://dl.bia2game.com/) 
 * [GamingMaster](http://s5.gamingmaster.ir/) 
-* [Game-Repack](https://www.game-repack.site/) 
-* [Repack-Games](https://repack-games.com/)
 * [LegendaryRepacks](https://discord.gg/RUSNHSk) - *Universal Bypass Required*
 * [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
