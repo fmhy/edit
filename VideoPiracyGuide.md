@@ -421,7 +421,7 @@
 * **[WebOas.is TV](http://streamwat.ch/)** - *TV / Sports*
 * **[Jackal](https://jackal.surge.sh/)** - *TV / Sports*
 * **[LiveOnScore](http://liveonscore.tv/)** - *Sports* 
-* **[StreamEast](https://www.streameast.io/dd/)** - *Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)*
+* **[StreamEast](https://www.streameast.io/)** - *Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)*
 * **[Black Tie Sports](https://blacktiesports.net/)** - *Sports* 
 * **[Soccer Streams](https://reedit.soccerstreams.net/)** - *Soccer*
 * **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - *NBA / NFL*
