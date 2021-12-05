@@ -254,7 +254,6 @@
 * [GodChecker](https://www.godchecker.com/) - *Learn about Gods from different Religions*
 * [Hermetic International](https://www.hermetics.net/) - *Religion / Occult / Alchemy / Astrology / Freemasonry / Gnosticism / Hermetic / Kabbalah / Philosophy*
 * [Temple of Solomon the King](https://mega.nz/#F!SfZyUYRK!yW7p_LkWtooQaVZ3Vr6WLQ), [2](https://mega.nz/folder/ig0CBbLS#pGy_4LFIXKdtF_Ey5CVCdw/folder/TpVG3ITY), [3](https://mega.nz/folder/jlEwhYyJ#iK4mVC4y5iwk_cr3eIpX4g) - *Occult / Gnosticism / Esoterism. / Drive* 
-* [Metaphysics Quotes](https://rentry.co/47i3a) - *Metaphysical Concepts by Topic*
 * [Abundant Hope](https://krishnamurti.abundanthope.org/) - *Sacred Texts / Religion / Christianity / Buddhism / Alchemy / Hinduism / Islam / Theosophy / Judaism / Taoism*
 * [Hermetics](http://www.hermetics.org/library.html) - *Ancient Texts / Mythology / Occult*
 * [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - *Religion / Esoterica / Occult*
@@ -270,6 +269,7 @@
 * [Kenorb's New Age library](https://www.dropbox.com/sh/2x5qfpd4csenuws/AABxbTrOvXVRcwsW0z9t6AFJa) - *Esoterica / Mythology / Gnosticism* 
 * [Esoterica](https://mega.nz/#F!hQVFBDbT!f3gOa3LUAHJXJJbFZfDytg) - *Esoterica / Philosophy / Gnosticism* 
 * [Logoi Library](http://logoilibrary.com/) - *Gnosticism / Hermeticism* 
+* [Metaphysics Quotes](https://rentry.co/47i3a) - *Metaphysical Concepts by Topic*
 * [766 Occult Books](http://www.mediafire.com/file/abggpzcdxv09w80/books.zip) - *Occult* 
 * [Messy occult library](https://mega.nz/#F!BNljAKhB!eY3NfH3DZtthocohW8Lwwg) - *Occult / Esoterica / Gnosticism* 
 * [BeyondWeird](https://beyondweird.com/) - *Occult / Witchcraft / Esoterica*
@@ -693,7 +693,6 @@
 * [Time Traveler](https://www.merriam-webster.com/time-traveler) - *See when a word was first used in print* 
 * [Omniglot](https://www.omniglot.com/index.htm) - *Writing Systems & Languages Encyclopedia*
 * [swear-words](https://github.com/chucknorris-io/swear-words) - *Swear Word Index* 
-* [Racial Slur Database](http://www.rsdb.org/) - *Racial Slurs* 
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - *Multi Language Dictionary Index*
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - *Translation Dictionary* 
 * [SpanishDict](https://www.spanishdict.com/) - *Spanish Translation Dictionary*
