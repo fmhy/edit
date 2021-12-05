@@ -115,7 +115,7 @@
 * [downloadly](https://downloadly.ir/) - *Courses*
 * [Coursed](https://coursed.co/) - *Courses*
 * [11k+ Courses SpreadSheet](https://docs.google.com/spreadsheets/d/1vazMlMWnI7NxVZcfgpABzCFFEClMjZYUgDk40pdPpTQ/) - *Courses*
-* [Mixed Course Collection](https://mega.nz/folder/9nQE2LoL#dpdu6pI4AyjaMTgM__Mvwg), [2](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA), [3](https://mega.nz/folder/pAl0wRKK#FIZzbYjkT_09qRT5BS2GXQ), [4](https://mega.nz/folder/4t4hhCTa#zIiMZBRVAibATtHxwQ2b_w), [5](https://mega.nz/folder/F9RSWBaK#Nq6DUyPTk10EdjLQ5CWFcQ)- *Courses*
+* [Mixed Course Collection](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA), [2](https://mega.nz/folder/pAl0wRKK#FIZzbYjkT_09qRT5BS2GXQ), [3](https://mega.nz/folder/4t4hhCTa#zIiMZBRVAibATtHxwQ2b_w), [4](https://mega.nz/folder/F9RSWBaK#Nq6DUyPTk10EdjLQ5CWFcQ)- *Courses*
 * [OnlineCourseBay](https://onlinecoursebay.com/) - *Courses* 
 * [CoursesDaddy](http://coursesdaddy.com/) - *Courses* 
 * [Course Drive](https://coursedrive.org/) - *Courses* 
