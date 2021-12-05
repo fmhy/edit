@@ -562,7 +562,7 @@
 * [FireStorm Viewer](https://www.firestormviewer.org/) - *Virtual World Viewer*
 * [Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_sites) - *No Verification Required Email Sites*
 * [Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients) - *Send & Receive Mail*
-* [Edu Email Guide](https://i.imgur.com/pxBcRcZ.png) or [10MinMail](https://10minutesemail.net/) - *How To Get a EDU Email*
+* [10MinMail](https://10minutesemail.net/) - *Temp EDU Email Address*
 * [BeFree](https://beefree.io/templates/free/) - *Email Templates*
 * [FreeMail](https://extrassl.actalis.it/portal/uapub/freemail?lang=en) - *Free Mail Certificate*
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://www.nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - *Scheduled Email Sending & Reminders* 
