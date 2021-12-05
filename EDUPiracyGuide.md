@@ -668,4 +668,4 @@
 * [College Map](https://nces.ed.gov/ipeds/collegemap/) - *College Information Map*
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - *Professor Ratings*
 * [Edu VPN](https://www.eduvpn.org/) - *Institute Access VPN*
-* [10MinMail](https://10minutesemail.net/) - *How To Get a EDU Email*
+* [10MinMail](https://10minutesemail.net/) - *Temp EDU Email Address*
