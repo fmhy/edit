@@ -179,6 +179,7 @@
 * [datcheck](https://github.com/pkos/datcheck) - *Compare No-Intro / Redump dat files to rom or disc collection* 
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - *Gamecube iso.dec to ISO Converter*
 * [Cemu Guide](https://cemu.cfw.guide/) - *Cemu & BOTW Optimization Guide*
+* [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) - *Yuzu Emulator Setup Guide*
 * [Pineappleea](https://pineappleea.github.io/) or [Yuzu-Updater](https://github.com/sinscove/Yuzu-Updater) - *Yuzu Updater*
 * [YuzuModDownloader](https://github.com/amakvana/YuzuModDownloader) - *Yuzu Mod Downloader*
 * [EmuSAK UI](https://github.com/CapitaineJSparrow/emusak-ui) - *Download Switch Firmware & Keys*
@@ -219,7 +220,6 @@
 * [WiiWare Collection](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) - *Roms / WiiWare*
 * [Wii Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wii_roms) - *Roms / Wii*
 * [Switch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - *Roms / Nintendo Switch*
-* [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) - *Yuzu Emulator Setup Guide*
 * [Gamecube Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gamecube_roms) - *Roms / GameCube*
 * [ed64m](http://ed64m.com/N64/) - *Roms / N64*
 * [Gameboy Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gameboy_roms) - *Roms / Gameboy*
