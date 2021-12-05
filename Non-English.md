@@ -675,6 +675,7 @@
 * [Comic Walker](https://comic-walker.com/) - *Manga*
 * [WeLoMa](https://weloma.net/) - *Manga*
 * [Kissaway](https://kissaway.net/) - *Manga*
+* [japscan](https://www.japscan.ws/) - *Manga*
 * [13DL](http://13dl.net/) - *Manga / Novels / NSFW*
 * [dl-raw](https://dl-raw.net/) - *Manga / Novels / NSFW*
 * [jpraw](https://jpraw.net/) - *Manga / NSFW*
