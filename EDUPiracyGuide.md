@@ -124,7 +124,7 @@
 * [Courses](https://pastebin.com/jQB1shJg), [2](https://pastebin.com/Z7L3Ypzd) - *Courses / Drives*
 * [online-courses](https://online-courses.club/) - *Courses*
 * [Course Upload](https://courseupload.com/) - *Courses* 
-* [Christmas Share](https://mega.nz/folder/dVxiXITI#lM16YzFg6xlnDOGYBOWUhA), [2](https://mega.nz/folder/dVxiXITI#lM16YzFg6xlnDOGYBOWUhA/folder/pAQWDCaZ), [3](https://mega.nz/folder/mqxiBRTJ#0bnSa35nknxUqOCr-xdGYg) - *Courses*
+* [Christmas Share](https://mega.nz/folder/mqxiBRTJ#0bnSa35nknxUqOCr-xdGYg) - *Courses*
 * [Gems Collections](https://helpothers.freehotspot.workers.dev/), [2](https://helpothers1.freehotspot.workers.dev/), [3](https://helpothers3.freehotspot.workers.dev/) or [4](https://helpothers4.freehotspot.workers.dev/) - *Courses*
 * [Mega Collections](https://mega.nz/folder/5F9WzJ7a#9UdqphaNXS13TTJAgdN15w) - *Courses*
 * [ReadyYourFlow](https://learning.readyourflow.workers.dev/0:/) - *Courses*
@@ -136,16 +136,14 @@
 * [FreeCourseDL](https://freecoursedl.com/) - *Courses* 
 * [s28.bitdl.ir](http://s28.bitdl.ir/Video/) - *Courses*
 * [HackNation](https://hacksnation.com/) - *Courses*
-* [torrenttempdrive](https://torrenttempdrive.hashhackers.com/1:/) - *Courses*
 * [FreeStudyWeb](https://freestudyweb.com/) - *Courses* 
-* [Google Drive Links](https://www.googledrivelinks.my.id/) / [2](https://googledrivelinks.com/) - *Courses*
+* [Google Drive Links](https://googledrivelinks.com/) - *Courses*
 * [CryptoTips](https://www.cryptotips.us/) - *Courses* 
 * [FCS](https://freecoursesites.com/) - *Courses*
 * [5G GYAN](https://www.5ggyan.com/) - *Courses* 
 * [WSODownloads](https://www.wsodownloads.in/) - *Courses*
 * [HackingWorld](https://in.hackingworld.best/) - *Courses*
 * [DL Course](https://dlcourse.org/) - *Courses*
-* [Game of Courses](https://gameofcourses.com/) - *Courses / [Drive](https://goc.gocourses.workers.dev/0:/) User / PW: goc*
 * [AfraTafreeh](https://afratafreeh.com/) - *Courses*
 * [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - *Courses*
 * [Open-Video](https://open-video.org/) - *Courses / Documentaries*
