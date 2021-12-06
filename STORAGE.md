@@ -2418,7 +2418,7 @@ Add the following commands to a search to manually scrape each site.
 Good for finding classic, obscure & short films. 
 
 * **[Video Search Sites CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)**
-* **[noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/) - *Lots of NSFW*
+* **[noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/) - *Lots of NSFW*
 * **[OK](https://ok.ru/video)** 
 * [Facebook Videos](https://www.facebook.com/watch/search/?query=fmhy)
 * site:vk.com (add to search)
