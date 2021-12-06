@@ -190,6 +190,7 @@
 ## ▷ Download Apps
 
 * **[SlavDoge DL](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9kaXNjb3JkLmdnL2hmc21xNnZkd3A=.RkJJ)** - *Qobuz & Tidal Download Bot*
+* **[DoubleNegative](https://doublenegative.io/)** or [RedSea](https://github.com/Dniel97/RedSea) - *Tidal Music Downloader*
 * **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - *Download from Spotify*
 * **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)*
@@ -204,7 +205,6 @@
 * [MP3Jam](https://www.mp3jam.org/) - *MP3*
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - *Music Download Tool* 
 * [RipMe](https://github.com/RipMeApp/ripme) - *Bulk Album Downloader*  
-* [RedSea](https://github.com/Dniel97/RedSea) or [DoubleNegative](https://doublenegative.io/ ) - *Tidal Music Downloader*
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - *Bandcamp Downloader*
 * [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - *Soundcloud Download Tools*
 * [KeepTube](https://jaymoulin.me/me/keeptune/) - *Soundcloud & Bandcamp Downloader*
