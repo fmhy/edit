@@ -190,7 +190,7 @@
 ## ▷ Download Apps
 
 * **[SlavDoge DL](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9kaXNjb3JkLmdnL2hmc21xNnZkd3A=.RkJJ)** - *Qobuz & Tidal Download Bot*
-* **[DoubleNegative](https://doublenegative.io/)** or [RedSea](https://github.com/Dniel97/RedSea) - *Tidal Music Downloader*
+* **[DoubleNegative](https://doublenegative.io/)**, [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - *Deezer Music Downloaders*
 * **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - *Download from Spotify*
 * **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)*
@@ -198,7 +198,7 @@
 * [/r/xTrill](https://reddit.com/r/xTrill) - *MP3 / FLAC / [Discord Bot](https://discord.gg/xtrill) / [Backup](https://reddit.com/r/xTrillBackup)*
 * [OFFMP3](https://offmp3.com/) or [conversormp3](https://conversormp3.com.br/) - *Video Site to MP3 Converter*
 * [SMLoadr](https://t.me/SMLoadrNews) - *FLAC / MP3 / [Desktop GUI](https://github.com/thelucifermorningstar/SMLoadr-AUX/releases)*
-* [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - *Deezer Music Download App*  
+* [RedSea](https://github.com/Dniel97/RedSea) - *Tidal Music Downloader* 
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *FLAC / MP3*
 * [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots)
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - *FLAC / MP3*
