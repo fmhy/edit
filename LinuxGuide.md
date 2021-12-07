@@ -265,7 +265,8 @@
 * [USBMap](https://github.com/corpnewt/USBMap) - *Map MacOS USB Ports*
 * [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
 * [iTerm2](https://iterm2.com/) - *Replacement for Terminal*
-* [Pictogram](https://pictogramapp.com/) - *Custom Mac App Icons*
+* [Pictogram](https://pictogramapp.com/) - *Custom App Icons*
+* [IconSet](https://github.com/tale/iconset) - *Custom System Icons*
 * [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - *MacOS Dynamic Wallpaper App*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old MacOS ISOs*
 * [IINA](https://iina.io/) - *Video Player*
