@@ -679,12 +679,12 @@
 * [Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr), [2](https://cse.google.com/cse?cx=89f2dfcea452fc451) - *Search Video Download Sites*
 * [Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io), [2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) - *Search Audio Download Sites*
 * [Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8) - *Search Anime Download Sites*
-* [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [2](https://idleendeavor.github.io/gamesearch/) - *Search Game Download Sites*
+* [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) - *Search Game Download Sites*
 * [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj), [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - *Search General Torrent Sites*
 * [Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j) - *Search Video Torrent Sites*
 * [Anime Torrent CSE]( https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz) - *Search Anime Torrent Sites*
 * [Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55) - *Search Audio Torrent Sites*
-* [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx), [2](https://idleendeavor.github.io/gamesearch/) - *Search Game Torrent Sites*
+* [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/)  - *Search Game Torrent Sites*
 * [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8), [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu), [3](https://cse.google.com/cse?cx=c46414ccb6a943e39) - *Search 
 General Reading Sites*
 * [Audiobooks CSE]( https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd) - *Search Audiobook Sites*
