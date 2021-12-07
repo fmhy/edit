@@ -54,7 +54,7 @@
 
 # ► Reading Sites
 
-* **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=c46414ccb6a943e39) - *Search Multiple Sites at once* 
+* **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [4](https://ravebooksearch.com/) - *Search Multiple Sites at once* 
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "Books / Comics / Magazines"*
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "Books / Comics / Magazines"*
 * **[Mobilism](https://forum.mobilism.org)** - *Books / Audiobooks / Magazines / Newspapers / Comics*
@@ -65,7 +65,6 @@
 * **[ebook3000](http://www.ebook3000.com/)** - *Books / Audiobooks / Comics / Magazines / Newspapers*
 * **[The-Eye Books](https://the-eye.eu/public/Books/)** - *Books*
 * **[Telegram E-Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - *Telegram E-Book Channels*
-* **[Mobile Read](https://www.mobileread.com/)** - *E-Book / Reader Discussion Forum*
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - *Books*
 * [IRC Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - *Download Ebooks from IRC*
 * IRC Ebook Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/), [2](https://encyclopediadramatica.online/Bookz) - *IRC Ebook Guide*) / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
@@ -1049,6 +1048,7 @@
 * **[eBoox](https://eboox.ru/en/)** - *Ebook Reader / Android / iOS*
 * **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader.html)** - *PDF Reader*
 * **[Calibre](https://calibre-ebook.com/)** - *Ebook Reader / PC / Android / iOS*
+* [Mobile Read](https://www.mobileread.com/) - *E-Book / Reader Discussion Forum*
 * [Ubooquity](http://vaemendis.net/ubooquity/) - *Manager / Reader / PC / Android / iOS*
 * [KoReader](http://koreader.rocks/) - *Ebook Reader / PC / Android*
 * [FBReader](https://fbreader.org/) - *Ebook Reader / PC / Android / iOS*
