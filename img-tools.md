@@ -112,6 +112,7 @@
 * [PSDcovers](https://www.psdcovers.com/) - *Product Mockup Maker*
 * [Venngage](https://venngage.com/) - *Infographic Maker*
 * [Quote Maker](https://quotescover.com/) - *Quote Picture Generator*
+* [MyNameArt](https://www.mynameart.com/) - *Custom Greetings Cards*
 * [Verbex](https://www.vedbex.com/fakeproof) - *Fake "Proof" Generator*
 * [FakeReceipt](http://www.fakereceipt.us/) - *Create Fake Receipts*
 * [The Rasterbator](https://rasterbator.net/) - *Wall Art Generator* 
