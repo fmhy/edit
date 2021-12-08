@@ -665,11 +665,10 @@
 * **[The Criterion Collection](https://mega.nz/folder/Jk8RjIBA#_dTNthUX3LL7OwSaauqIpw)** - *Movies*
 * **[Rek's Drive](https://mega.nz/folder/iYQ3SYbA#_o9eO4o1eiCd8QsCTU7iUw)** - *Movies / Anime*
 * [DHAKA FTP](http://103.205.233.70/), [2](http://dhakaftp.com/) - *Movies / TV*
-* [Movies, Series... in English](https://redd.it/ns1ejo), [2](https://redd.it/ns1kdi), [3](https://redd.it/nsb38a), [4](https://redd.it/ns2avz), [5](https://redd.it/ns2wcv) - *Movies / TV*
+* [EdithSeedbox](https://index.edithseedbox.com/:0) - *Movies / TV / [Login](https://pastebin.com/bQkQpee4)*
 * [Torrent2Drive](https://torrent2drive.video/0:/) - *Movies / TV / [Telegram](https://t.me/torrent_2_drive)*
 * [Media](https://drive.google.com/drive/folders/1FEXQWN5szPBTau3EPFaC8PkOgp3v4cve) - *Movies / TV / Anime* 
 * [IMDb Top 250](https://drive.google.com/folderview?id=1RU63d0rIZHZb0BIrXY3dg_JifIzBsVZo), [2](https://drive.google.com/drive/mobile/folders/11kWYR4I18e5bfj-3CvoD-9jztq4zH3ut/1RU63d0rIZHZb0BIrXY3dg_JifIzBsVZo) - *Movies*
-* [EdithSeedbox](https://packs.edithseedbox.com/0:/) - *Movies / TV / [Login](https://pastebin.com/bQkQpee4)*
 * [dl1.3rver](http://dl1.3rver.org/), [2](http://dl2.3rver.org/), [3](http://dl3.3rver.org/) - *Movies / TV*
 * [EdithSeedbox](https://index.edithseedbox.com/8:/) - *Movies / TV / Anime / [Telegram](https://t.me/EdithSeedBox)*
 * [103.222.20.150](http://103.222.20.150/ftpdata/) - *Movies* 
@@ -681,6 +680,7 @@
 * [162.12.215.254](http://162.12.215.254/Data/Movies/) - *Movies*
 * [124.29.199.194](http://124.29.199.194/) - *Movies*
 * [s27.BitDL.ir](http://s27.bitdl.ir/) - *Movies / TV*
+* [Movies, Series... in English](https://redd.it/ns1ejo), [2](https://redd.it/ns1kdi), [3](https://redd.it/nsb38a), [4](https://redd.it/ns2avz), [5](https://redd.it/ns2wcv) - *Movies / TV*
 * [torrenttempdrive 2](https://torrenttempdrive.hashhackers.com/2:/) - *Movies / TV*
 * [Easy-Movie](https://easy-movie.com.au/cdn/) - *Movies* 
 * [sv.dcnm.ir](https://sv.dcnm.ir/Serial/Foreign/) - *TV* 
