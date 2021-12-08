@@ -240,6 +240,7 @@
 * [Trace](https://absolutedouble.co.uk/trace/) - *Privacy Toolkit* 
 * [Site Bleacher](https://github.com/wooque/site-bleacher) - *Auto Remove Cookies, Local Storages, ect.*
 * [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - *Redirects Twitter, YouTube, Instagram & Google Maps to alt interfaces*
+* [catgirl.cloud](https://catgirl.cloud/) - *Privacy-Respecting Services*
 * [Invidition](https://codeberg.org/Booteille/Invidition) - *Redirect YouTube / Twitter requests to their alt interfaces*
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - *Redirects all YouTube links to Invidous* 
 * [Anti-Grabify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anti-grabify) - *Block IP Grabbers*
@@ -445,19 +446,19 @@
 # ► VPN
 
 * **[VPN Comparison Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml)**, [2](https://www.vpntierlist.com/), [3](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/), [4](https://privacymelon.com/stealth-vpn-guide/vpn-comparison-table/) - *Compare VPN Privacy Polices*
-* **[Mullvad](https://mullvad.net/)** - *[Pricing](https://i.imgur.com/LfjZ9G3.png) / [More Info](https://i.imgur.com/SNkzNV7.png) / [NetNS](https://github.com/chutz/mullvad-netns)*
-* **[Proton](https://protonvpn.com)** - *[Pricing](https://i.imgur.com/hkhZGg1.png) / [More Info](https://i.imgur.com/RZqOXKH.png) / No Torrenting w/ Free Version*
-* **[Windscribe](https://windscribe.com)** - *[Pricing](https://i.imgur.com/D7015rq.png) / [More Info](https://i.imgur.com/qmdyfp6.png) / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites) / Free Version Available*
-* **[Surfshark](https://surfshark.com/)** - *[Pricing](https://i.imgur.com/YaiKjpX.png) / [More Info](https://i.imgur.com/IPBVPNA.png)*
+* **[Mullvad](https://mullvad.net/)** - *[Pricing](https://i.imgur.com/LfjZ9G3.png) / [NetNS](https://github.com/chutz/mullvad-netns)*
+* **[Proton](https://protonvpn.com)** - *[Pricing](https://i.imgur.com/hkhZGg1.png) / No Torrenting w/ Free Version*
+* **[Windscribe](https://windscribe.com)** - *[Pricing](https://i.imgur.com/D7015rq.png) / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites) / Free Version Available*
+* **[Surfshark](https://surfshark.com/)** - *[Pricing](https://i.imgur.com/YaiKjpX.png)*
 * **[Riseup](https://riseup.net/en/vpn)** - *Free VPN* 
 * **[WireGuard](https://www.wireguard.com/)** - *VPN Tunnel*
 * **[MOAG](https://moag.techtanic.pw/)** - *VPN Trial Generator / [Avoid Zenmate](https://restoreprivacy.com/kape-technologies-owns-expressvpn-cyberghost-pia-zenmate-vpn-review-sites/)*
-* [Perfect Privacy](https://www.perfect-privacy.com/) - *[Pricing](https://i.imgur.com/Rtfwu2t.png) / [More Info](https://i.imgur.com/Y9MRLcg.png)*
-* [IVPN](https://www.ivpn.net/) - *[Pricing](https://i.imgur.com/Iq92wOO.png) / [More Info](https://i.imgur.com/8MDJoYQ.png) / [Free Trial](https://redd.it/nzjmqa)*
-* [Trust.Zone](https://trust.zone/) - *[Pricing](https://i.imgur.com/PsRa8GD.png) / [More Info](https://i.imgur.com/zryWzqX.png)*
-* [blackVPN](https://www.blackvpn.com/) - *[Pricing](https://i.imgur.com/uqMeG0b.png) / [More Info](https://i.imgur.com/5U3qjoF.png)*
-* [AirVPN](https://airvpn.org/) - *[Pricing](https://i.imgur.com/TMU1Qtt.png) / [More Info](https://i.imgur.com/nM6wDgz.png)*
-* [VPNSecure](https://www.vpnsecure.me/) - *[Pricing](https://i.imgur.com/BnuqpBS.png) / [More Info](https://i.imgur.com/sJffRnZ.png)*
+* [Perfect Privacy](https://www.perfect-privacy.com/) - *[Pricing](https://i.imgur.com/Rtfwu2t.png)*
+* [IVPN](https://www.ivpn.net/) - *[Pricing](https://i.imgur.com/Iq92wOO.png) / [Free Trial](https://redd.it/nzjmqa)*
+* [Trust.Zone](https://trust.zone/) - *[Pricing](https://i.imgur.com/PsRa8GD.png)*
+* [blackVPN](https://www.blackvpn.com/) - *[Pricing](https://i.imgur.com/uqMeG0b.png)*
+* [AirVPN](https://airvpn.org/) - *[Pricing](https://i.imgur.com/TMU1Qtt.png)*
+* [VPNSecure](https://www.vpnsecure.me/) - *[Pricing](https://i.imgur.com/BnuqpBS.png)*
 * [Tailscale](https://tailscale.com/) - *[Pricing](https://i.imgur.com/6lMwcSQ.png)*
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - *VPN Extension / 3GB Free / [Pricing](https://i.imgur.com/ZdDexDa.png)* 
 * [Mozilla FPN](https://fpn.firefox.com/) - *VPN Extension / [Pricing](https://i.imgur.com/wW5rVO2.png) / Mullvad Servers*
