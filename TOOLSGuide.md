@@ -118,6 +118,7 @@
 * [How To Use Excel](https://www.how-use-excel.com/) - *Excel Tutorial*
 * [Read File Online](http://www.readfileonline.com/) - *Online Large Text File Viewer*
 * [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - *Rephrase / Paraphrase Text* 
+* [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - *Detect Plagiarized Content*
 * [phraseup](http://www.phraseup.com/) - *Autocomplete Common Phrases* 
 * [Transformer](https://transformer.huggingface.co/), [TurbineText](https://www.turbinetext.com/en) or [Talk to Transformer](https://app.inferkit.com/demo) - *Text Autocomplete* 
 * [EleutherAI](https://6b.eleuther.ai/) - *Text / Story Autocomplete*
@@ -126,7 +127,7 @@
 * [text-regenerator](https://github.com/jddunn/text-regenerator) - *Replace Words with Synonyms*
 * [Honk.moe](https://honk.moe/tools.html) - *Shitposting Text Generators*
 * [Typoer](https://github.com/georgetian3/typoer) - *Types Text with Typos / Corrections*
-* [PaperRater](https://www.paperrater.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
+* []() - **
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - *Annotation Tools / Resources*
 * [Translation Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_translation_sites) - *Online Translators*
 * [Crow Translate](https://github.com/crow-translate/crow-translate) - *Translation App*
@@ -235,11 +236,11 @@
 * [WDFlat](https://www.wdflat.com/) - *Stream Elements*
 * [VTuber References](https://docs.google.com/spreadsheets/d/15UpI8GEqv22T45AD3L1EgcPB4l2Tvr64aDgLq7xZfMA/htmlview) - *VTuber Tools*
 * [Kalidoface 3D](https://3d.kalidoface.com/) - *VTuber Characters*
+* [avatarify-python](https://github.com/alievk/avatarify-python) or [veadotube](https://olmewe.itch.io/veadotube-mini) - *Video Call Avatars*
 * [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - *Turn Screencasts into GIFs*
 * [Nimbus Capture](https://nimbusweb.me/screenshot.php) - *Screenshot / Video Capture Tool*
 * [Stream Recorder](https://www.hlsloader.com/) - *Streaming Video Recorder* 
 * [GifW00t](https://github.com/yaronn/GifW00t) - *Javascript Web Recorder*
-* [veadotube](https://olmewe.itch.io/veadotube-mini) - *Virtual Avatar Software*
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - *Create TV Channels using Plex Library*
 * [Zoom Escaper](https://zoomescaper.com/ ) - *Self-Sabotage Video Calls to Escape Meetings*
 * [Live Curtain](https://livecurtain.com/) - *Countdown Curtain For Online Meeting*
@@ -700,6 +701,7 @@ General Reading Sites*
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - *DuckDuckGo !bang Meta Serarch / [GitHub](https://github.com/MoserMichael/duckduckbang)*
 * [Jumps](https://jumps.io/) - *Site Quick Search*
 * [Soovle](https://soovle.com/) or [Keyword Tool](https://keywordtool.io/) - *Popular Keyword Generator*
+* [Esteroids](https://esteroids.eth.limo/#) - *Decentralized Web Search Engine*
 * [Social-Searcher](https://www.social-searcher.com/) or [Social Mention](http://socialmention.com/) - *Social Media Search Engine*  
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - *Forum Search Engine* 
 * [Blog Search Engine](http://www.blogsearchengine.org/) - *Blog Search*
@@ -989,7 +991,6 @@ G) - *Create Discord RPCs*
 * [Discord Status](https://discordstatus.com/) - *Check Discord Status* 
 * [Status](https://discord.gg/Nnttd7EZV4) - *Followable Site Status Channels*
 * [Discord Testers](https://discord.gg/discord-testers) - *Test Discord Features*
-* [Discord Townhall](https://discord.gg/discord-townhall) - *Discord News & Updates*
 * [Guild Counter](https://rauf.wtf/guildcount) - *Check how many servers you're in*
 * [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - *Preview Role Colors Role*
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - *Encode videos to <8MB*
