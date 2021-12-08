@@ -40,6 +40,7 @@
 * [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [Aegis](https://getaegis.app/) or [andOTP](https://github.com/andOTP/andOTP) - *Two-factor authentication* 
 * [Divestos](https://divestos.org/) or [CalyXOS](https://calyxos.org/) - *Privacy Based OS*
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - *App Isolation* 
+* [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - *Encrypted File Explorer*
 * [UntrackMe](https://fedilab.app/wiki/untrackme/) - *Frontend Redirect / Link Unshorten / URL Cleanup*
 * [Stealth](https://gitlab.com/cosmosapps/stealth) - *Privacy-Based Reddit Frontend*
 * [XPrivacyLua](https://github.com/M66B/XPrivacyLua/) or [Xumi](https://xumi.ca/xumi-security/) - *Privacy Manager* 
@@ -83,6 +84,7 @@
 * [Greentooth](https://f-droid.org/en/packages/com.smilla.greentooth/) - *Automatic Bluetooth Disabler* 
 * [Private Lock](https://f-droid.org/en/packages/com.wesaphzt.privatelock/) or [WTMP](https://play.google.com/store/apps/details?id=com.wtmp.svdsoftware) - *Detect When Your Phone is Touched* 
 * [SpoofCard](https://www.spoofcard.com/) - *Disguise Caller ID*
+* [PilferShushJammer](https://github.com/kaputnikGo/PilferShushJammer) - *Microphone Jamming Techniques*
 * [Catch the Man-in-the-Middle](https://play.google.com/store/apps/details?id=me.brax.certchecker) - *Check if HTTPS Traffic is being Monitored* 
 * [JustUseApp](https://justuseapp.com/) - *Hide App Payments*
 * [Gadget Bridge](https://gadgetbridge.org/) - *Connect to Smartwatches without Vendor Apps / Accounts*
@@ -150,6 +152,7 @@
 * [VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps) - *File / URL Virus Scanner* 
 * [Pithus](https://beta.pithus.org/) - *APK Virus Scanner*
 * [InstantBridge](https://instabridge.com/) - *Public WiFi Sharing Community*
+* [AndrOBD](https://github.com/fr3ts0n/AndrOBD) - *Android Dashboard Diagnostics*
 * [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app ) - *Libgen Mobile App* 
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) or [AndrOpen](https://www.andropenoffice.com/) - *Office Suite* 
 * [xShare](https://github.com/tsudoko/xshare) - *Screenshot Tool*
@@ -608,9 +611,7 @@ RSS Player*
 * [AnimeFanz Tube](https://apkpure.com/anime-fanz-tube/com.animefanzapp.tube)
 * [KATSU](https://katsu.pw/) - [Discord](https://discord.gg/gjcy6MQ)
 * [Anime-DL](https://github.com/sharn25/Anime-DL-Android-Verison) - *Download Anime / [Discord](https://discord.gg/Ee3fegN)* 
-* [MALClient](https://github.com/Drutol/MALClient), [MyAnimeList Client](https://play.google.com/store/apps/details?id=net.myanimelist.app) or [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - *MyAnimeList Client*
-* [AL-chan](https://zend10.github.io/AL-chan/) or [Otraku](https://play.google.com/store/apps/details?id=com.otraku.app) - *AniList Client*
-* [AniLib](https://anilib.onrender.com/) - *Anime Tracker*
+* [MALClient](https://github.com/Drutol/MALClient), [MyAnimeList Client](https://play.google.com/store/apps/details?id=net.myanimelist.app), [Anidex](https://github.com/rajarsheechatterjee/anidex-app), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Otraku](https://play.google.com/store/apps/details?id=com.otraku.app) or [AniLib](https://anilib.onrender.com/) - *Anime Tracker*
 
 ***
 
@@ -756,7 +757,7 @@ RSS Player*
 * [ShortcutsGallery](https://shortcutsgallery.com/) - *Siri Shortcuts*
 * [Color Widgets](https://apps.apple.com/us/app/color-widgets/id1531594277), [WidgetSmith](https://apps.apple.com/us/app/widgetsmith/id1523682319) or [widgetopia](https://apps.apple.com/us/app/widgetopia-widgets-weather/id1536432615) - *iOS Widgets*
 * [DownTube](https://github.com/MrAdamBoyd/DownTube) or [YouDown](https://apps.apple.com/sa/app/youdown/id1487658334) - *YouTube Downloader* 
-* [Noctis12](https://repo.packix.com/package/com.laughingquoll.noctis12/) - *iOS 12 Dark Mode*
+* [Noctis12](https://repo.packix.com/package/com.laughingquoll.noctis12/) or [Dune](https://github.com/Skittyblock/Dune) - *iOS Dark Mode*
 * [GlobeConvert](https://apps.apple.com/us/app/globeconvert-currency-units/id334851202) - *Currency / Unit Converter*
 * [IRuin](https://iriun.com/) - *Use iOS Device as Webcam* 
 * [Measure](https://apps.apple.com/us/app/measure/id1383426740) - *Turn iPhone / iPad into Tape Measure*
@@ -780,6 +781,7 @@ RSS Player*
 * [Thimble](https://www.thimbleapp.co/) - *Group Messaging*
 * [Watusi](https://watusi.fouadraheb.com/) - *Modded WhatsApp*
 * [Whatspad++](https://iosninja.io/ipa-library/download-whatspad-ipa-ios) - *iPad WhatsApp*
+* [AppLibraryEnabler](https://github.com/tomaszpoliszuk/AppLibraryEnabler) - *Enable App Library on iPad*
 * [1 Click iCloud Bypass](https://frpfile.com/one-click-bypass-icloud/), [All in One iCloud Tool](https://frpfile.com/ifrpfile-all-in-one-icloud-tool/) or [iCloudBypass](https://appletech752.com/icloudbypass.html) - *Bypass iCloud*
 * [GoodLinks](https://goodlinks.app/) - *Save Links*
 * [Flarify](http://www.flairify.com/) - *Touchscreen Typing Practice* 
@@ -950,6 +952,7 @@ RSS Player*
 
 # ► iOS Reading 
 
+* [BookPlayer](https://github.com/TortugaPower/BookPlayer) - *Audiobook Player*
 * [ZETSU](https://testflight.apple.com/join/emEhlNGn) *Manga Reader*
 * [Paperback](https://paperback.moe/) - *Manga Reader / [Discord](https://discord.gg/Ny83JV3)*
 * [Manga Max](https://apps.apple.com/us/app/apple-store/id1558957618) - *Manga Reader*
