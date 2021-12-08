@@ -1574,6 +1574,7 @@ Portuguese
 * [GeezLibrary](https://t.me/GeezLibrary) - *Amharic / Books*
 * [filma24](https://www.filma24.ai/) - *Albanian / Streaming / Movies / TV*
 * [Segoideas](https://segoideas.com/) - *Taiwanese / Streaming / TV*
+* [EdithSeedbox](https://packs.edithseedbox.com/0:/) - *Telugu / Download / Movies / TV / [Login](https://pastebin.com/sBLwyM6Z)*
 * [lupiteam](https://lupiteam.net/) - *Corsican / Manga*
 * [RÚV](https://www.ruv.is/ruv) - *Icelandic / Live TV*
 * [JavaLibre](https://javalibre.com.ua/) - *Ukrainian / Books*
