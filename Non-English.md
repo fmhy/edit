@@ -672,7 +672,7 @@
 * [mangaraid](https://mangaraid.com/) - *Manga / NSFW* 
 * [MangaBox](https://www.mangabox.me/) - *Manga* 
 * [DLRaw](https://dlraw.net/) - *Manga*
-* [MangasRaw](https://mangas-raw.com/) - *Manga*
+* [MangasRaw](https://mangas-raw.com/) - *Manga / NSFW*
 * [Comic Walker](https://comic-walker.com/) - *Manga*
 * [WeLoMa](https://weloma.net/) - *Manga*
 * [Kissaway](https://kissaway.net/) - *Manga*
