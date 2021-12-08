@@ -548,7 +548,6 @@
 * [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - *Movies / TV / Anime* 
 * [PopcornTime](http://popcorn-ru.tk/build/) - *Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * [BeeTV](https://beetvapp.me/) or [NovaTV](https://novatv.app/) - *Movies / TV / Anime / Chromecast*
-* [TubiHD](https://tubihd.com/) - *Movies / TV / Anime*
 * [VivaTV](https://www.vivatv.io/) or [TeaTV](https://teatv.net/) - *Movies / TV / Anime / Chromecast*
 * [ZiniTevi](https://zinitevi.github.io/movieapps/) - *Movies*
 * [Bouncy](https://github.com/WeeklyProblem/Bouncy) - *Movies / TV / Anime / Chromecast*
