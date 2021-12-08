@@ -530,7 +530,8 @@
 * [Deepnote](https://deepnote.com/) - *Data Science Notebook*
 * [Wordwall](https://wordwall.net/) - *Lesson Creator*
 * [ClassroomScreen](https://www.classroomscreen.com/) - *Digital Teaching Widgets*
-* [Plagiarism Checker](https://www.grammarly.com/plagiarism-checker), [PaperRater](https://www.paperrater.com/), [Quetext](https://www.quetext.com/), [PlagiarismDetector](http://www.plagiarismdetector.net/), [CopyScape](https://www.copyscape.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
+* [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - *Detect Plagiarized Content*
+* [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - *Rephrase / Paraphrase Text* 
 * [cb2bib](https://www.molspaces.com/cb2bib/) - *Reference Extractor / Manager*
 * [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - *Grade School Educational Tools*
 * [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - *UPSC Telegram Channels* 
