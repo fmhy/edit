@@ -342,6 +342,7 @@
 * [Audiocite](https://www.audiocite.net/) - *Audiobooks* 
 * [zone-ebook.com](https://zone-ebook.com/) - *Magazines / Newspapers / Books / Audiobooks / Comics*   
 * [fourtoutici](http://www.fourtoutici.pro/) - *Document Search*  
+* [japscan](https://www.japscan.ws/) - *Manga*
 * [scantrad](https://scantrad.net/) - *Manga* 
 * [scan-fr](https://www.scan-fr.cc/) - *Manga* 
 
@@ -675,7 +676,6 @@
 * [Comic Walker](https://comic-walker.com/) - *Manga*
 * [WeLoMa](https://weloma.net/) - *Manga*
 * [Kissaway](https://kissaway.net/) - *Manga*
-* [japscan](https://www.japscan.ws/) - *Manga*
 * [13DL](http://13dl.net/) - *Manga / Novels / NSFW*
 * [dl-raw](https://dl-raw.net/) - *Manga / Novels / NSFW*
 * [jpraw](https://jpraw.net/) - *Manga / NSFW*
