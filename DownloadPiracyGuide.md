@@ -263,6 +263,7 @@
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software*  
 * [WinTools](https://www.wintools.info/) - *Windows Software*
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software Index* 
+* [UWP Community](https://uwpcommunity.com/) - *Universal Windows Programs / [Discord](https://discord.gg/eBHZSKG)*
 * [RaymondFreeSoftware](https://t.me/raymondfreesoftware) - *Telegram / [Index](https://t.me/rfsnotes)*
 * [Suckless](https://suckless.org/) - *Simple Software Archive* 
 * [MSDN](https://the-eye.eu/public/MSDN/) - *Microsoft Developer Network Software* 
