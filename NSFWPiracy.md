@@ -174,7 +174,6 @@
 * [xHamster](https://xhamster.com/categories/vintage?min-duration=40)
 * [AdultLoad](https://adultload.ws/)
 * [classic-porn](http://classic-porn.cc/)
-* [katmoviehd](https://katmoviehd.se/category/adult/) 
 * [xVideos](https://www.xvideos.com/tags/d:20min_more/movie) 
 * [xxxBunker](https://xxxbunker.com/search/film?duration=long&sort=duration) 
 * [TubePorn](https://tubepornclassic.com/most-popular/272/?sort_by=video_viewed&duration_from=3000)
@@ -185,7 +184,6 @@
 # Magazines
 
 * [SpicyMags](https://spicymags.xyz/)
-* [TheEye Playboy](http://the-eye.eu/public/Books/PlayBoy/)
 * [downmagaz](https://downmagaz.net/adult_magazine/) 
 * [worldmags](https://worldmags.net/adult/) 
 * [ebook3000](http://www.ebook3000.com/Magazine/For-Men/index.html) 
