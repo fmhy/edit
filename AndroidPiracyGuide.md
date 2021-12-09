@@ -455,7 +455,6 @@
 * [MiMangaNu](https://github.com/raulhaag/MiMangaNu) - *Manga Reader*
 * [Neko](https://github.com/CarlosEsco/Neko) - *Manga Reader*
 * [Meow](https://github.com/neverfelly/Meow) - *Manga Reader*
-* [TheComicsLibrary](https://github.com/FabioPezzini/TheComicsLibrary) - *Comic & Manga Library* 
 * [Shosetsu](https://shosetsu.app/) - *Light Novels / [GitHub](https://github.com/ShosetsuOrg/android-app) / [Dev Builds](https://github.com/shosetsuorg/shosetsu-preview) / [Discord](https://discord.gg/ttSX7gB)* 
 * [NovelLibrary](https://github.com/gmathi/NovelLibrary) - *Light Novel Reader / [Discord](https://discord.gg/qFZX4vdEdF)*
 * [LNReader](https://github.com/LNReader/lnreader) - *Light Novel Reader*
