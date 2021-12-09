@@ -877,7 +877,7 @@
 
 * **[Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_adblocking_extensions) / [Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_extensions) Extensions**
 * **[add0n](https://add0n.com/) or [MyBrowserAddon](https://mybrowseraddon.com/)** - *Open-Source Extension Index*
-* **[Buster](https://github.com/dessant/buster)** or [Solved Media Plus](https://greasyfork.org/en/scripts/422074-solved-media-plus) - *Auto Captcha Solver*
+* **[Buster](https://github.com/dessant/buster)** - *Auto Captcha Solver*
 * **[Privacy Pass](https://privacypass.github.io/)** - *Skip Captchas* 
 * **[Dark Reader](https://darkreader.org/)**, [Dark Background and Light Text](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dark_background_and_light_text), [Midnight Lizard](https://midnight-lizard.org/), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) or [222](https://github.com/x08d/222) - *Dark Mode* 
 * [Into The Black Hole](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_into_the_black_hole) - *Dark Mode Browser Theme*
@@ -1111,6 +1111,7 @@
 * [Userscript.zone](https://www.userscript.zone/) - *Userscript Search* 
 * [darkmode.js](https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c) - *Dark Mode Script*
 *  [Hcaptcha Solver](https://greasyfork.org/en/scripts/425854) or [Recaptcha Solver](https://greasyfork.org/en/scripts/430593) - *Captcha Solvers*
+* [Solved Media Plus](https://greasyfork.org/en/scripts/422074-solved-media-plus) - *Image Captcha Solvers*
 * [Remove Web Limits](https://greasyfork.org/en/scripts/28497-remove-web-limits-modified), [2](https://greasyfork.org/en/scripts/386908-remove-web-limits-re-modified) - *Force Enable Right Click*
 * [anti-anti-copy](https://greasyfork.org/en/scripts/7197) - *Copy Text from Any Site*
 * [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - *Select Text Inside Links* 
