@@ -49,7 +49,6 @@
 * [media.ccc.de](https://media.ccc.de/) - *Educational Presentations*
 * UC Berkeley Webcast project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://lbry.tv/@UCBerkeley:d?) - *Lectures*
 * [iTunes U](https://wiki.archiveteam.org/index.php/ITunes_U) - *Lectures*
-* [2Tuts](https://2uts.com/) - *Tutorials*
 * [WatchKnowLearn](http://www.watchknowlearn.org/) - *Educational Videos*
 * [FreeMedTube](https://freemedtube.net/) - *Medical Courses*
 * [Mathispower4u](http://www.mathispower4u.com/) - *Math Tutorials*
@@ -115,7 +114,7 @@
 * [downloadly](https://downloadly.ir/) - *Courses*
 * [Coursed](https://coursed.co/) - *Courses*
 * [11k+ Courses SpreadSheet](https://docs.google.com/spreadsheets/d/1vazMlMWnI7NxVZcfgpABzCFFEClMjZYUgDk40pdPpTQ/) - *Courses*
-* [Mixed Course Collection](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA), [2](https://mega.nz/folder/pAl0wRKK#FIZzbYjkT_09qRT5BS2GXQ), [3](https://mega.nz/folder/4t4hhCTa#zIiMZBRVAibATtHxwQ2b_w), [4](https://mega.nz/folder/F9RSWBaK#Nq6DUyPTk10EdjLQ5CWFcQ), [5](https://mega.nz/folder/O8FySRyQ#igrwSLPdObT4e-DtUqJ5Aw) - *Courses*
+* [Mixed Course Collection](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA), [2](https://mega.nz/folder/pAl0wRKK#FIZzbYjkT_09qRT5BS2GXQ), [3](https://mega.nz/folder/4t4hhCTa#zIiMZBRVAibATtHxwQ2b_w), [4](https://mega.nz/folder/F9RSWBaK#Nq6DUyPTk10EdjLQ5CWFcQ) - *Courses*
 * [OnlineCourseBay](https://onlinecoursebay.com/) - *Courses* 
 * [CoursesDaddy](http://coursesdaddy.com/) - *Courses* 
 * [Course Drive](https://coursedrive.org/) - *Courses* 
@@ -185,8 +184,7 @@
 * [Download Online Tutorials Free](https://download.howtofree.org/) - *Udemy Courses* 
 * [Udemy Free Course](https://t.me/udemy_free_cource) - *Udemy Courses* 
 * [666GB Devil Web App](https://mega.nz/folder/7HRiUb7Q#xXXnIdhGxuPwxtz99BhPpg) - *Web App Development Courses*
-* [6.04 TB Paid [C]ourses](https://mega.nz/folder/vRhSiagQ#H_G_aUZNrbLE5fPtTjPoeQ/folder/TAhQRSqK) - *Marketing Courses / Drive*
-* hackingworld.best - [Marketing](https://mega.nz/folder/eeIzlAjL#zGa0iHkQJu0JmP4BayAJ3A) / [IT](https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg)
+* [hackingworld.best ](https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg) - *IT Tutorials*
 * [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
 * [ProCrack_Team](https://www.mediafire.com/folder/l4w8gcdcqsqtw/ProCrack_Team) - *Marketing Courses*
 * [Stock Trading Courses](https://mega.nz/folder/RNERkCIS#w0DcWggAasYz8vKl1jHkGw) - *Trading Courses*
@@ -194,12 +192,10 @@
 * [500GB+ Cyber Security](https://mega.nz/folder/ZLB3CSwK#EXp6VnwcAEI1WE8xVwZZuQ) - *Cyber Security Courses*
 * [Skills for All](https://skillsforall.com/) - *Cyber Security Courses*
 * [CISSP Certifications](https://drive.google.com/drive/u/0/folders/1AWJHcWt4KngV2ijEFHmh74-HHMwSR16u) - *Cyber Security Lessons*
-* [RavindraBabu](https://mega.nz/folder/AV50wQqT#uQjuHttwYI6lvxcClb2Qtg) - *Programming / Math Courses*
 * [340GB Linkedin Courses](https://rentry.co/skat9) - *Linkedin Courses*
 * [Linkedin_Learning](https://t.me/linkedin_learning) - *Linkedin Courses*
 * [CertCommunity](https://www.certcommunity.org/forum/) - *IT Cert Courses*
 * [Top Linux Interview Questions & Answers](https://mega.nz/#F!K1MnlSzJ!fyLhNA7V_m1z9JZfPW0alg) - *Linux Interview Q&A*
-* [CHFI](https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg) - *Computer Hacking Forensic Courses*
 * [FreeCourseSEO](https://freecourseo.com/) - *GFX Design Courses / [Telegram](https://t.me/freecoursessite1)*
 * [Photoshop Courses](https://mega.nz/folder/Y6RXXKbJ#pnAdcdkSXw7wujTIhN5Blw) - *Photoshop Course Drive*
 * [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - *Download videos from Coursera* 
@@ -235,9 +231,7 @@
 * [TutCourse](https://tutcourse.com/) - *Udemy Courses*
 * [Paid Courses for Free](https://paidcoursesforfree.com/) - *Udemy Courses* 
 * [Online Free Course](https://www.onlinefreecourse.net/) - *Udemy Courses*   
-* [Tutorials Planet](https://tutorialsplanet.net/) - *Udemy Courses*   
 * [Giga Course](https://gigacourse.com/) - *Udemy Courses* 
-* [Free All Course](https://freeallcourse.com/) - *Udemy Courses* 
 * [1TB Art Courses](https://pastebin.com/hKgJG2Vz) - *Art Courses*
 * [Pimp My Money](https://pimpmymoney.net/) - *Digital Marketing Courses* 
 
