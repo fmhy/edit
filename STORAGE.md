@@ -2365,7 +2365,7 @@ Add the following commands to a search to manually scrape each site.
 #### Video Players
 
 * **[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [MPV.net](https://github.com/stax76/mpv.net), [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player)
-* **[MPC-HC](https://mpc-hc.org/)**, [MPC-BE](https://sourceforge.net/projects/mpcbe/) / [Fork](https://github.com/clsid2/mpc-hc)
+* **[MPC-HC](https://github.com/clsid2/mpc-hc/releases/)**, [MPC-BE](https://sourceforge.net/projects/mpcbe/) / [Fork](https://github.com/clsid2/mpc-hc)
 * [VLC](https://www.videolan.org/)
 * [Pot Player](http://potplayer.daum.net/)
 * [SMPlayer](https://www.smplayer.info/) / [2](https://sourceforge.net/projects/smplayer/)
