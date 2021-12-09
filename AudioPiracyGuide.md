@@ -42,7 +42,7 @@
 * [Jamendo](https://www.jamendo.com/) - *Browser Music*
 * [Kainet](https://kainet.rocks/) - *Browser Music*
 * [Mp3Deer](https://mp3deer.com/) - *Browser Music*
-* [Last.fm](https://www.last.fm/) or [Libre.fm](https://libre.fm/) - *Browser Music*
+* [Last.fm](https://www.last.fm/) - *Browser Music*
 * [Just Hear It](http://justhearit.com/hear/Iv) - *Browser Music*
 * [YesPlayMusic](https://music.qier222.com/) - *Browser Music*
 * [MP3Paw](https://mp3paw.wiki/) - *Browser Music*
@@ -129,7 +129,7 @@
 * [morsecode.me](http://morsecode.me/) - *Morse Code Radio / Communication*
 * [Worldwide Radio](http://forums.mozillazine.org/viewtopic.php?t=3039738) - *Radio Extension* 
 * [castero](https://github.com/xgi/castero) - *TUI Terminal Podcast Client*
-* [Get MyPodcasts](https://www.microsoft.com/en-us/p/mypodcasts/9nv15nfrn50l1) or [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) - *Podcast Player*
+* [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) - *Podcast Player*
 * [Spotify Podcast Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders) - *Download Podcasts from Spotify*
 * [ListenLater](https://www.listenlater.fm/) - *Turn Articles into Podcasts* 
 * [ListenBox](https://listenbox.app/) - *Turn YouTube Video into Podcasts*
@@ -146,7 +146,6 @@
 * **[HaloMe.nu](https://halome.nu/)** - *Halo Menu Screens*
 * **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_relaxation) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_relaxation)** - *Ambient Mobile Apps* 
 * [lofi.cafe](https://lofi.cafe/) - *Lo-fi Radio*
-* [Focusli](https://www.focusli.com/) - *Lo-fi Radio*
 * [DevTunes FM](https://radio.madza.dev/) - *Lo-Fi Radio*
 * [Viberoom](https://viberoom.audio/) - *Lo-fi Hip-Hop Radio*
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - *Create Room / Lo-Fi Player*
@@ -241,7 +240,6 @@
 * [Music Blogtrotter](https://musicblogtrotter.blogspot.com/) - *MP3*
 * [New Album Releases](https://newalbumreleases.net/) - *MP3*
 * [mp3db](https://mp3db.pro/) - *MP3*
-* [TheAlbumPlug](https://thealbumplug.com/) - *MP3*
 * [NetNaija](https://www.thenetnaija.com/) - *MP3* 
 * [RockDownload](https://www.rockdownload.org/) - *MP3*
 * [DeadPulpit](https://www.deadpulpit.com/) - *MP3*
@@ -260,7 +258,6 @@
 * [Moe:81](http://miya.nipah.moe:81/public/music/) - *MP3 / FLAC*
 * [geedryve](http://jacobsm.com/geedryve/records/mp3s/) - *MP3* 
 * [Music Library](https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7) - *MP3*
-* [109.120.203.163](http://109.120.203.163/Music/) - *MP3*
 * [90.146.184.46](http://90.146.184.46/) - *MP3*
 * [212.159.121.149:85](https://212.159.121.149:85/) - *MP3*
 * [FLAC Attack](https://flacattack.net/) - *FLAC*
@@ -282,7 +279,6 @@
 * [GetRockMusic](https://getrockmusic.net/) - *MP3 / FLAC*
 * [Core Radio](https://coreradio.ru/) - *MP3 / FLAC* 
 * [AlterPortal](https://alterportal.net/) - *MP3 / FLAC*
-* [Warez DL](https://wrzs.me/) - *MP3 / FLAC* 
 * [Exystence](http://exystence.net/) - *MP3 / FLAC*  
 * [FindFlac](http://findflac.com/) - *FLAC / MP3 / MP4* 
 * [iPlusFree](http://www7.iplusfree.org/), [2](https://www.iplusfree.net/) - *iTunes M4A* 
