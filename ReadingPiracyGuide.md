@@ -730,7 +730,7 @@
 * [Dark_Horse_Comics_Converter](https://github.com/GrowAsguard/Dark-Horse-Comics-Converter) - *Dark Horse Comics Downloader*
 * [Cover](http://www.frenchfrysoftware.com/cover/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - *Reader / Manager*
 * [MComix](https://sourceforge.net/p/mcomix/wiki/Home/) - *Reader*
-* [Tachiyomi](https://tachiyomi.org/), [TheComicsLibrary](https://github.com/FabioPezzini/TheComicsLibrary), [Bubble](https://f-droid.org/en/packages/com.nkanaev.comics/) or [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - *Manager / Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / Android* 
+* [Tachiyomi](https://tachiyomi.org/), [Bubble](https://f-droid.org/en/packages/com.nkanaev.comics/) or [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - *Manager / Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / Android* 
 * [ComicFlow](https://github.com/swisspol/ComicFlow) - *Manager / Reader / iOS*
 * [CrossFace](https://crossface.cf/manga-reader/) or [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Browser Comic Reader*
 * [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - *Online Reader*
@@ -795,7 +795,6 @@
 * [MangaEffect](https://mangaeffect.com/)
 * [Manga347](https://manga347.com/)
 * [Manga Home ](http://www.mangahome.com/)
-* [Manga47](https://manga47.net/)
 * [MangaDig](https://mangadig.com/)
 * [Mangaski](https://www.mangasaki.com/)
 * [KissManga](https://kissmanga.in/)
@@ -826,7 +825,6 @@
 * [ComicK](https://comick.fun/)
 * [ReadM](https://readm.org/)
 * [LHTranslation](https://lhtranslation.net/)
-* [MangaFast](https://mangafast.net/)
 * [MangaKatana](https://mangakatana.com/) 
 * [Manga.Fanscans](https://manga.fascans.com/)
 * [CMReader](https://www.cmreader.info/)
@@ -890,7 +888,6 @@
 * [DaoNovel](https://daonovel.com/)
 * [List Novel](http://www.listnovel.com/)
 * [FreeWebNovel](https://freewebnovel.com/) 
-* [NovelCake](https://novelcake.com/)
 * [Novel Translations](https://lightnovelstranslations.com/)
 * [Readwn](https://www.readwn.com/) 
 * [Nakimushitl](https://nakimushitl.wordpress.com/)
@@ -937,7 +934,6 @@
 * [MagzDB](http://magzdb.org/)
 * [FreePDFMagazine](https://www.freepdfmagazine.com/)
 * [freemagazines](https://freemagazines.top/)
-* [MagFree](https://magfree.net/)
 * [FreeMagazinesPDF](https://freemagazinepdf.com/)
 * [Calameo](https://calameo.com/) - *Magazines*
 * [PDF Magazines Archive](https://pdf-magazines-archive.com/) 
