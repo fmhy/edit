@@ -727,7 +727,6 @@ General Reading Sites*
 * [Yandex Search Operator Cheat Sheets](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/), [3](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
 * [sitedorks](https://github.com/Zarcolio/sitedorks) - *Search Dorks*
 * [Cyber](https://cyber.page/) - *Hash Search Engine* 
-* [Proisk](https://proisk.com/) - *FTP Search Engine*
 * [Matrix](https://matrix.itasoftware.com/) - *Airfare Search*
 * [Hunter.io](https://hunter.io/) - *Business Email Address Search*
 * [ImportYeti](https://www.importyeti.com/) - *Search U.S. Customs Shipment Records* 
