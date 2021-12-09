@@ -25,7 +25,6 @@
 * [BookAudiobook](https://bookaudiobook.com/) - *Listen Online*
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - *Listen Online*
 * [Audiobooks Lab](https://audiobooklabs.com/) - *Listen Online*
-* [AudiobookBoi](https://audiboi.com/home/) - *Listen Online*
 * [Zero Avenue ](https://thezeroavenue.com/) - *Listen Online*
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - *Listen Online / Select Playlists*
 * [Litube](https://litube.net/) - *Listen Online*
@@ -63,7 +62,6 @@
 * **[Z-Library](https://z-lib.org/)** - *Books / Comics / Educational / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_tools) / [Removed Books](https://t.me/firstlibrarybot)*
 * **[eBookHunter](https://ebook-hunter.org/)**, [2](https://ebookchasseur.com/) - *Books / Comics*
 * **[ebook3000](http://www.ebook3000.com/)** - *Books / Audiobooks / Comics / Magazines / Newspapers*
-* **[The-Eye Books](https://the-eye.eu/public/Books/)** - *Books*
 * **[Telegram E-Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - *Telegram E-Book Channels*
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - *Books*
 * [IRC Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - *Download Ebooks from IRC*
@@ -79,7 +77,7 @@
 * [just a digital library](https://drive.google.com/drive/folders/1iQMdq5yK0EBqa1fgkmQTfW7EWSeJWYvT) - *Books*
 * [BlackPhoenix James Durden](https://mega.nz/folder/AZAhjSaL#3wzdEx3nPgzzVdVEqVc8nA) - *Books*
 * [Nikola](https://mega.nz/folder/flYQGbzI#p1AFjtMuCLHQqocJqxV7rg) - *Books*
-* [bitdl 1](http://s1.bitdl.ir/), [2](http://s2.bitdl.ir/), [3](http://s3.bitdl.ir/), [4](http://s4.bitdl.ir/), [5](http://s5.bitdl.ir/), [7](http://s7.bitdl.ir/), [8](http://s8.bitdl.ir/), [9](http://s9.bitdl.ir/), [10](http://s10.bitdl.ir/), [11](http://s11.bitdl.ir/), [13](http://s13.bitdl.ir/), [14](http://s14.bitdl.ir/) - *Books*
+* [bitdl 1](http://s1.bitdl.ir/), [2](http://s3.bitdl.ir/), [3](http://s5.bitdl.ir/), [4](http://s8.bitdl.ir/), [5](http://s9.bitdl.ir/), [6](http://s10.bitdl.ir/), [7](http://s11.bitdl.ir/), [8](http://s13.bitdl.ir/), [9](http://s14.bitdl.ir/) - *Books*
 * [Books.cat](https://books.cat/) - *Books  / Forum / Requests* 
 * [Read Any Book](https://www.readanybook.com/) - *Books*
 * [openlibrary](https://openlibrary.org/) - *Books* 
@@ -143,7 +141,6 @@
 * [Sharing eBook](https://www.sharingebook.com/) - *Books* 
 * [DigitalBook](https://www.digitalbook.io/) - *Books*
 * [FeedBooks](http://m.feedbooks.com/publicdomain) - *Books*
-* [Index of Books](http://hoard.billbert.co/Books/) - *Books*
 * [eBook Lobby](http://www.ebooklobby.com/) - *Books*  
 * [1Lib](https://1lib.limited/) - *Books*
 * [Avalon Library](https://avalonlibrary.net/) - *Books*
@@ -160,7 +157,6 @@
 * [Standard EBooks](https://standardebooks.org/) - *Books*
 * [Google Play Books](https://play.google.com/store/books/collection/topselling_free) - *Books* 
 * [Smashwords](https://www.smashwords.com/shelves/home/1/free/any) - *Books* 
-* [kodges](https://www.kodges.ru/) - *Books / Use Translator*
 * [lesatkins](http://www.lesatkins.com/books/epubfiles/) - *Books / [Download Zip](http://www.lesatkins.com/books/downloadzip.php)*
 * [Flibusta](https://flibusta.is/) - *Books / [Onion](http://flibustahezeous3.onion/) / [I2P](http://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / Requires account*
 * [The Free Book Library](http://ebooks.i2p/) - *Books / I2P Required*
@@ -292,7 +288,6 @@
 * [CraftStuff](https://drive.google.com/drive/u/0/mobile/folders/1BurmAyZ-iEpDARXawyeYmwD2MGHrw4l6?usp=sharing) - *Witchcraft*
 * [Witchcraft Library](https://docs.google.com/document/d/1sVSqjxTDykRaFEsuing9oOo8zk8KFHDU5jD3k-sHWe4/) - *Witchcraft / Pagan*
 * [Public Witchcraft Library](https://drive.google.com/drive/folders/1GiMpMOxPnxgcgXn8upkxRqTDRmAiep3y) - *Witchcraft / Paganism / Satanism*
-* [Tarot](https://mega.nz/folder/PEgVnTDL#EIpcjVJl9gPP1Lb8_eNWdg) - *Tarot Card Reading Books*
 * [Alchemy](https://mega.nz/#F!jBk3nBwC!3kbcd3Yb0I1Dkw6GCBLY1A) 
 * [Hellenistic Theism](https://mega.nz/#F!gehhiaKI!PfYluqpWY4vfowImabzsLQ) 
 * [The Theosophical Society](https://www.theosociety.org/) - *Theosophy* 
@@ -305,7 +300,6 @@
 * [BibleGateway](https://www.biblegateway.com/) - *Christian Bible*
 * [eSword](https://e-sword.net/) - *Christian Bible Desktop App*
 * [Bible](https://apps.apple.com/us/app/bible/id282935706) - *Christian Bible / iOS*
-* [Free Online Novels](https://www.free-online-novels.com/) - *Catholicism*
 * [Classics Ethereal Library](https://www.ccel.org/) - *Christian*
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - *Enoch Translation*
 * [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) - *Quran Translation*
@@ -341,7 +335,6 @@
 * [The Eldritch Dark](http://www.eldritchdark.com/) - *Clark Ashton Smith*
 * [do_k_ument](https://mega.nz/folder/QEV0jKYZ#-BVVScey6draL30yB_KowA) - *Survival, Forging, Smithing, Weapons Training, Field Manuals*
 * [Survivor Library](http://www.survivorlibrary.com/), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/), [Free Survival eBooks](https://www.defiel.com/free-survival-ebooks/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - *Survival*
-* [NATSIG Resources](https://mega.nz/#F!ZuZmiBqZ!XhyEetUaj6an8ntb-U1AZw) - *Survival / Bushcraft / Welding / Blacksmithing / German Books / Mythology / Drive* 
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - *Auto Brochures*
 * [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U), [PimpMyMind](https://pimpmymind.net/), [selfhelpbooklab](https://t.me/selfhelpbooklab), [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - *Self-Help*
 * [Websleuths](https://www.websleuths.com/) - *Crime Solving Forum*
@@ -415,7 +408,6 @@
 * [Penn Libraries](http://digital.library.upenn.edu/) + *[Index](http://digital.library.upenn.edu/books/)*
 * [s2.bitdl.ir](http://s2.bitdl.ir/Ebook/)
 * [114.116.28.83](http://114.116.28.83/)
-* [Heaven](https://drive.google.com/drive/folders/1hxe7Des-ooQpamAtjyR7CX-k_hyqlQ7Q)
 * [Uloz Archive](https://uloz.to/folder/8fpAg2rwEcYh/name/Large-Book-Collection) 
 * [FreeBookCentre](http://www.freebookcentre.net/)
 * [Wikiversity](https://www.wikiversity.org/) - *Learning Resources, Guides, Quizzes, Tools & More*
@@ -624,7 +616,7 @@
 * [Aleph](https://github.com/alephdata/aleph ) - *Document Index Tool*
 * [Dataset Search](https://datasetsearch.research.google.com/) - *Dataset Search Google* 
 * [PDF / Doc Search Engine](https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0) 
-* [ZealDocs](https://zealdocs.org/) or [zathura](https://git.pwmt.org/pwmt/zathura) - *Document Viewer*
+* [ZealDocs](https://zealdocs.org/) - *Document Viewer*
 * [Sioyek](https://sioyek.info/) - *Research Paper / Technical Document Viewer*
 
 ***
