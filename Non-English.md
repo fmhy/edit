@@ -479,7 +479,6 @@
 * [mkvCinemas](https://www.mkvcinemas.pm/) - *Movies / TV*
 * [MKV Mad](https://www.mkvmad.pro/) - *Movies / TV*
 * [WorldFree4U](https://worldfree4u.quest/) - *Movies / TV*
-* [KatMovieHD](https://katmoviehd.se/), [2](https://kmhd.link/archives/) - *Movies / TV*
 * [HDHub4u](https://hdhub4u.wiki/) - *Movies*
 * [MoviesRush](https://moviesrush.cam/) - *Movies*
 * [MKVHub](https://www.mkvhub.ws/) - *Movies / TV*
@@ -488,7 +487,6 @@
 * [RemaxHD](https://remaxhd.org/) - *Movies / TV*
 * [MoviesVerse](https://moviesverse.cc/) - *Movies / TV / [Telegram](https://t.me/MoviesHomeOFFICIALS)* 
 * [BollywoodCineplex](https://t.me/BollywoodCineplex) - *Movies*
-* [MoviezAddiction](https://moviezaddiction.me/) - *Movies / TV / Telegram* 
 * [Gophie](https://gophie.cam/) - *Movies / TV*
 * [DesiRulez](https://www.desirulez.cc/) - *Video / Audio*
 * [Tomato.to](https://saavn.tomato.to/) - *Music*
@@ -505,7 +503,6 @@
 ## ▷ Streaming 
 
 * [IndianCine](https://indiancine.ma/) - *62k Indian Films / Short Films* 
-* [CineVood](https://cinevood.cyou/) - *Movies / TV*  
 * [mxplayer](https://www.mxplayer.in) - *Movies*
 * [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - *Movies* 
 * [World4uFree](https://world4ufree.cyou/) - *Movies / TV* 
