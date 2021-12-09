@@ -112,11 +112,10 @@
 * [HeroTurko2](https://heroturko2.net/) - *Software / Games / Books / Magazines*
 * [TorrentaBC](https://www.torrentabc.com/) or [AZTutorial](https://www.aztutorial.download/) - *Video / Audio / Software / Games / Magazines / Leech Required* 
 * [BadshahUploads](https://badshahuploads.xyz/) - *Video / Audio / Software / Games / Books / Leech Required* 
-* [DownFree4u](https://www.downfree4u.com/), [rapiddowntorrent](https://www.rapiddowntorrent.com/), [ZipFileTorrent](https://www.zipfiletorrent.com/) or [viewdowntorrent](https://www.viewdowntorrent.com/) - *Video / Audio / Software / Games / Books / Leech Required* 
+* [DownFree4u](https://www.downfree4u.com/) - *Video / Audio / Software / Games / Books / Leech Required* 
 * [Redox](http://www.redox.com.ua/) - *Video / Audio / Software / Books / Magazines / Leech Required* 
 * [de.ddl](https://en.ddl.me//) - *Video / Games / Books*
 * [The Ambassador](https://ambassadorddl.site/) - *Video / Games / Books*
-* [Light Downloads](https://www.lightdl.xyz/) - *Video / Software / Games*   
 * [sarzamindownload](https://www.sarzamindownload.com/) - *Software / Games / Android* 
 * [FrostClick](https://www.frostclick.com/wp/) - *Video / Audio / Software / Games / Books* 
 * [KapitalSin](https://kapitalsin.com/) - *Software / Games*
@@ -201,7 +200,7 @@
 * [Mutaz.net](https://www.mutaz.net/)
 * [AIOsetup](https://t.me/aiosetup) - *Telegram* 
 * [Libreware](https://t.me/Libreware) - *Telegram* 
-* [raymondfreesoftware](https://sites.google.com/site/raymondfreesoftware/) - *[Telegram](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g)* 
+* [raymondfreesoftware](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g)
 * [Rarewares](https://www.rarewares.org/) - *Rare Software*
 * [Radixx11](https://radixx11rce3.blogspot.com/), [Izofile](https://izofile.com/), [Soft2Ev](https://www.soft2ev.com/), [Keygen Fortress](https://t.me/keygen_fortress), [SmartSerials](https://smartserials.com/) or [SerialReactor](https://serialreactor.com/) - *Software Keys / Patches*
 * [Software Heritage](https://www.softwareheritage.org/) - *Software Source Code Archive* 
