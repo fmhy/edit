@@ -61,7 +61,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * **https://www.baidu.com/**
 * **https://r0.ru/** 
 * **https://www.ecosia.org/** - *[Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)*
-* https://www.dogedoge.com/
 * https://oceanhero.today/
 * https://www.lycos.com/
 * https://www.dogpile.com/
@@ -105,7 +104,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://www.hugedomains.com/domain_profile.cfm?d=metabear&e=com
 * http://www.myallsearch.com/
 * http://www.sputtr.com/
-* http://www.trovando.it/
 * https://www.zapmeta.com/
 * https://biznar.com/biznar/desktop/en/search.html
 * https://www.etools.ch/search.do
@@ -969,13 +967,10 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 ***
 
 #### Magic / Esoteric Telegram Ebooks
- 
-* https://t.me/LibraryofMagic
+
 * https://t.me/LivrosdeMagia
 * https://t.me/magickaris
 * https://t.me/MagickEbookz
-* https://t.me/magickmatters
-* https://t.me/LibraryOfMagi
 * https://t.me/magZtore
 * https://t.me/ocultarias
 * https://t.me/WonderlandLibraryOfMagicBooks
@@ -1977,7 +1972,6 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/AnimeIndexOfficial
 * https://t.me/myanimetvbot
 * https://t.me/otakulounge
-* https://t.me/EMBER_Encodes
 * https://t.me/TGanimehaku 
 
 ***
@@ -1987,7 +1981,6 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/BOOK_HOUSE_INTERNATIONAL
 * https://t.me/AudiobooksArchive
 * https://t.me/eng_audiobooks
-* https://t.me/mfmixebooks
 * https://t.me/ebookz
 * https://t.me/Audiobooks_Collection
 * https://t.me/Audiobookclassic
@@ -2004,7 +1997,6 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/en_audiobooks
 * https://t.me/eng_audiobooks
 * https://t.me/online_audiobooks
-* https://t.me/selfhelpaudiobooks
 * https://t.me/TheAudiobookStop
 * https://t.me/topaudiobooks
 * https://t.me/UnLibrary 
@@ -2019,7 +2011,6 @@ Add the following commands to a search to manually scrape each site.
 
 * [Music Downloader](https://t.me/MusicDownloaderRobot) - *FLAC* 
 * [Joey](https://t.me/joeymusicbot) - *FLAC* 
-* [DeezLoadBot](https://t.me/DeezLoadBot) - *FLAC* 
 * [flacmusics](https://t.me/flacmusics/) - *FLAC* 
 * [flacmusicalbumfree](https://t.me/flacmusicalbumfree/) - *FLAC* 
 * [FLACSong](https://t.me/FLACSong) - *FLAC* 
@@ -2089,25 +2080,21 @@ Add the following commands to a search to manually scrape each site.
 
 #### Telegram eBook Download
 
-* [Nexus](https://t.me/libgen_scihub_bot) - *[Bot News](https://t.me/nexus_search) / [Discussion](https://t.me/joinchat/SKgGpCnrzMdkMRxJ), [RU Discussion](https://t.me/joinchat/RfkIXNjqQmpXuQj5)*
 * https://t.me/mfmixebooks
 * https://t.me/joinchat/AAAAAEhdftsJgcQnPx0O7A
 * https://t.me/joinchat/AAAAAEzJPHplxAzxEO8p-A
 * https://t.me/best_bookshelf
-* https://t.me/BooksFree4U
 * https://t.me/Ebooks254
 * https://t.me/BOOK_HOUSE_INTERNATIONAL
 * https://t.me/Ebooks_Encyclopedia27
 * https://t.me/books_every_day
 * https://t.me/booksnow
 * https://t.me/Books_worldd
-* https://t.me/boks_pdf
 * https://t.me/Ebooksenglish
 * https://t.me/English_Hindi_Novels_Magazine
 * https://t.me/ebookz
 * https://t.me/goodreadstopbooks
 * https://t.me/English_Books_Magazines_Novels
-* https://t.me/BookDownloadBot
 * https://t.me/BooksThief
 * https://t.me/ITBooks4U
 * https://t.me/BooksBag
@@ -2122,12 +2109,10 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/libsan_bot
 * https://t.me/pdfobot
 * https://t.me/alejandriak
-* https://t.me/novelbuk
 * https://t.me/PDFArchives
 * https://t.me/s4n1t4t10n
 * https://t.me/yourlibraries
 * https://t.me/TheEbookStop
-* https://t.me/ASM_Books
 * https://t.me/bookclub7
 * https://t.me/BookCrush
 * https://t.me/bookhome3
@@ -2136,11 +2121,9 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/Dao_Qigong_Taiji_TCM_ebooks
 * https://t.me/eBookExpress
 * https://t.me/ebooks_house
-* https://t.me/eBooksOnly
 * https://t.me/EbookzCollection
 * https://t.me/EbookzGroup
 * https://t.me/epubrabbithole
-* https://t.me/Forwarded_eBooks
 * https://t.me/freebook9
 * https://t.me/Imperial_Stockpile
 * https://t.me/lib_of_dos_old_vk
@@ -2155,7 +2138,6 @@ Add the following commands to a search to manually scrape each site.
 * [Rare Films](https://t.me/rarefilms) - *Movies* 
 * [MoviesVerse](https://t.me/MoviesHomeOFFICIALS) - *Movies / TV* 
 * [SeriesArchiveX](https://t.me/SeriesArchiveX) - *Movies / TV*
-* [Warrior Spirits](https://t.me/warriorspirits) - *Action Movies*
 * [pre_code](https://t.me/pre_code) - *Classic*
 * [StommeFilms](https://t.me/StommeFilms) - *Classic*
 * [ZwartwitFilms](https://t.me/ZwartwitFilms) - *Classic*
@@ -2245,8 +2227,6 @@ Add the following commands to a search to manually scrape each site.
 **Telegram Bots**
 
 * https://t.me/TorrentBots (List)
-* https://t.me/lightzcloud
-* https://t.me/kltorrent
 * https://t.me/kltorrents 
 * https://t.me/torrent_drive_direct_llinks_bot
 * https://t.me/TorrentXbot
@@ -2258,17 +2238,13 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/torrent_drive
 * https://t.me/XtremeCloud 
 * https://t.me/torrentbcloudnew
-* https://t.me/MetaPublicLeech
 * https://t.me/mirrorLeechTelegramBot
 * https://t.me/vipercloud 
 * https://t.me/Punishercloud
-* https://t.me/torrenttodrivezone
 * https://t.me/KS_LeechStore1
 * https://t.me/TorrentLeech_v 
 * https://t.me/torrent_mirror_drive
-* https://t.me/Public_leech_7
 * https://t.me/FreeTorrentDownloader
-* https://t.me/on_guarma 
 * https://t.me/CinemagramzT2G 
 * https://t.me/jannatulanimirror
 * https://t.me/slfilmtv
@@ -2276,27 +2252,19 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/torrent_uploader
 * https://t.me/Punisherdiscussion
 * https://t.me/torrent_leech
-* https://t.me/joinchat/TE9h94sUa-yMgBb1 
 * https://t.me/teamdrivegroup 
 * https://t.me/RakaPublicLeech
 * https://t.me/TorrentPadu
 * https://t.me/joinchat/Uq7xK07NNu2v4efS
-* https://t.me/leech_group 
 * https://t.me/torrentogdrive23
 * https://t.me/torrent_magnet
-* https://t.me/MitsuhasTorrentDrive
 * https://t.me/gtorr
-* https://t.me/leechbox
 * https://t.me/requestinggroup
-* https://t.me/Torrent_GDrive 
 * https://t.me/UniComTorrent 
 * https://t.me/AkkiTorLeecher
 * https://t.me/TorrentMir
-* https://github.com/breakdowns/slam-aria-mirror-bot
 * https://github.com/yash-dk/TorToolkit-Telegram
 * https://t.me/joinchat/MxPJclG5O-o1OGQ1 (@SammyTorrents)
-* https://t.me/joinchat/Ht8YZ0cXf3_XP-Hxvwb5mw (@torrdriveheaven)
-* https://t.me/joinchat/IbIIb0Yga4pKYCOu7LajYg (@seedboxsl)
 * https://pythonrepo.com/repo/ayushteke-slam_aria_mirror_bot_HEROKU
 * https://t.me/TorrentBots (list)
 * https://t.me/TorrentLeechingGroup (list)
@@ -2414,7 +2382,7 @@ Add the following commands to a search to manually scrape each site.
 
 ####  Video Stream Sync
 
-[SyncPlay](https://syncplay.pl/), [CyTube](https://cytu.be/), [HyperBeam](https://hyperbeam.com/), [Kast](https://kast.gg/), [Gaze](https://letsgaze.com/), [twoseven](https://twoseven.xyz/), [andchill](https://andchill.tv/), [Metastream](https://getmetastream.com/), [Trast](https://trast.live/), [togethertube](https://togethertube.com/), [Watch2Gether](https://w2g.tv/), [Vynchronize](https://vynchronize.herokuapp.com/), [SyncTube](https://sync-tube.de/), [Kosmi](https://kosmi.io/), [Invited.tv](https://invited.tv/), [Caracal Club](https://caracal.club/), [Primewire](https://www.primewire.li/watch-parties), [Movata](https://movata.cc/) (Discord), [baked.live](http://baked.live/), [neko](https://github.com/nurdism/neko), [Surge](https://surge.live/), [Giggl](https://giggl.app/), [Screen Share Party](https://ba.net/screen/)
+[SyncPlay](https://syncplay.pl/), [CyTube](https://cytu.be/), [HyperBeam](https://hyperbeam.com/), [Kast](https://kast.gg/), [Gaze](https://letsgaze.com/), [twoseven](https://twoseven.xyz/), [Metastream](https://getmetastream.com/), [Trast](https://trast.live/), [togethertube](https://togethertube.com/), [Watch2Gether](https://w2g.tv/), [Vynchronize](https://vynchronize.herokuapp.com/), [SyncTube](https://sync-tube.de/), [Kosmi](https://kosmi.io/), [Invited.tv](https://invited.tv/), [Caracal Club](https://caracal.club/), [Primewire](https://www.primewire.li/watch-parties), [Movata](https://movata.cc/) (Discord), [baked.live](http://baked.live/), [neko](https://github.com/nurdism/neko), [Surge](https://surge.live/), [Giggl](https://giggl.app/), [Screen Share Party](https://ba.net/screen/)
 
 ***
 
@@ -2653,7 +2621,7 @@ Good for finding classic, obscure & short films.
 
 #### YouTube to MP3
 
-**[YouTube-DL](https://github.com/ytdl-org/youtube-dl)** / **[Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_yt-dl_tools)**, **[YT-DLP](https://github.com/yt-dlp/yt-dlp)**, **[YTMDL](https://ytmdl.deepjyoti30.dev/)** / [GitHub](https://github.com/deepjyoti30/ytmdl, [haruhi-dl](https://git.sakamoto.pl/laudom/haruhi-dl), [Gramophy](https://github.com/rnayabed/gramophy), [MP3 YouTube](https://mp3-youtube.download/en/audio-easy-converter), [youtubetomp3music](https://youtubetomp3music.com/), [YTMP3](https://ytmp3.cc/) [2](https://ytmp3.ch/), [ddownr](https://ddownr.com/), [mps-youtube](https://github.com/mps-youtube/mps-youtube), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [YouTube to MP3 Converter](https://www.mediahuman.com/youtube-to-mp3-converter/), [loader](https://loader.to/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [DeURL](http://deturl.com/), [Yout](https://yout.com/), [FLVto](https://www.flvto.biz/en83/), [FreeMake](https://www.freemake.com/free_video_downloader/), [AudioJack](http://blue9.github.io/AudioJack-GUI/), [megaconverter](https://megaconverter.net/), [320ytmp3](https://www.320ytmp3.com/), [videovor](https://www.videovor.com/en), [YouTubeMultiDownloader](https://youtubemultidownloader.net/index.html), [onlinevideoconverter](https://onlinevideoconverter.pro/), [kharasach](http://www.kharasach.com/), [yt-mp3s](https://www.yt-mp3s.com/), [savemp3](https://savemp3.cc/), [mp3youtubeconverter](https://mp3youtubeconverter.org/), [mp3snow](http://mp3snow.com/), [ytmp3](https://ytmp3.eu/), [mp3fy](https://mp3fy.com/en37/), [youtubeplaylist](https://youtubeplaylist.cc/), [y2mate](https://en.y2mate.guru/), [moozix](https://moozix.com/), [odownloader](https://odownloader.com/), [musicmp3](https://musicmp3.ru/), [y2mp3](https://www.y2mp3.net/), [mp3quack](https://mp3quack.wiki/), [mpgun](https://mpgun.com/convert-mp3-mp4-compliant), [yt1s](https://yt1s.com/en26) / [2](https://yt5s.com/en12), [grabfrom](https://www.grabfrom.com/), [ymp4](https://www.ymp4.download/), [youtubemp3cut](https://youtubemp3cut.com/), [eazyloader](https://eazyloader.herokuapp.com/), [youtubetomp3](https://youtubetomp3.work/), [mp3download](https://mp3download.center/), [snappea](https://www.snappea.com/en7/), [ytmp3x](https://ytmp3x.com/), [ytformp3](https://ytformp3.com/)
+**[YouTube-DL](https://github.com/ytdl-org/youtube-dl)** / **[Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_yt-dl_tools)**, **[YT-DLP](https://github.com/yt-dlp/yt-dlp)**, **[YTMDL](https://ytmdl.deepjyoti30.dev/)** / [GitHub](https://github.com/deepjyoti30/ytmdl, [haruhi-dl](https://git.sakamoto.pl/laudom/haruhi-dl), [Gramophy](https://github.com/rnayabed/gramophy), [YTMP3](https://ytmp3.cc/) [2](https://ytmp3.ch/), [ddownr](https://ddownr.com/), [mps-youtube](https://github.com/mps-youtube/mps-youtube), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [YouTube to MP3 Converter](https://www.mediahuman.com/youtube-to-mp3-converter/), [loader](https://loader.to/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [DeURL](http://deturl.com/), [Yout](https://yout.com/), [FLVto](https://www.flvto.biz/en83/), [FreeMake](https://www.freemake.com/free_video_downloader/), [AudioJack](http://blue9.github.io/AudioJack-GUI/), [megaconverter](https://megaconverter.net/), [320ytmp3](https://www.320ytmp3.com/), [videovor](https://www.videovor.com/en), [YouTubeMultiDownloader](https://youtubemultidownloader.net/index.html), [onlinevideoconverter](https://onlinevideoconverter.pro/), [kharasach](http://www.kharasach.com/), [yt-mp3s](https://www.yt-mp3s.com/), [savemp3](https://savemp3.cc/), [mp3youtubeconverter](https://mp3youtubeconverter.org/), [ytmp3](https://ytmp3.eu/), [mp3fy](https://mp3fy.com/en37/), [youtubeplaylist](https://youtubeplaylist.cc/), [y2mate](https://en.y2mate.guru/), [odownloader](https://odownloader.com/), [musicmp3](https://musicmp3.ru/), [y2mp3](https://www.y2mp3.net/), [mp3quack](https://mp3quack.wiki/), [mpgun](https://mpgun.com/convert-mp3-mp4-compliant), [yt1s](https://yt1s.com/en26) / [2](https://yt5s.com/en12), [ymp4](https://www.ymp4.download/), [eazyloader](https://eazyloader.herokuapp.com/), [youtubetomp3](https://youtubetomp3.work/), [mp3download](https://mp3download.center/), [snappea](https://www.snappea.com/en7/), [ytmp3x](https://ytmp3x.com/), [ytformp3](https://ytformp3.com/)
 
 ***
 
@@ -2694,7 +2662,7 @@ Good for finding classic, obscure & short films.
 
 #### Z-Library Tools
 
-[Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_mirrors) / [Telegram Bot](https://t.me/zlibrarybot) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Amazon Links](https://github.com/annaelmoussa/amazon-zlibrary)
+[Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_mirrors) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Amazon Links](https://github.com/annaelmoussa/amazon-zlibrary)
 
 ***
 
