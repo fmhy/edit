@@ -1018,6 +1018,7 @@
 * [TheMegaDrive](https://discord.gg/h2P5zsNMxZ) - *Books*
 * [ebookhunter](https://www.ebookhunter.net/request-ebooks/) - *Books* 
 * [VK eBook Sharing Group](https://vk.com/club162811046) - *Books* 
+* [Light Novel Archive](https://t.me/lightnovelarchive_bot) - *Light Novels*
 * [FreeNovelsGroup](https://t.me/FreeNovelsGroup) - *Books / Telegram* 
 * [/r/alexandria](https://www.reddit.com/r/alexandria/) - *Esoteric / Occults Books*
 * [/r/textbook_piracy](https://reddit.com/r/textbook_piracy)
