@@ -140,7 +140,6 @@
 * [Delim](https://delim.co/) - *Comma Separating Tool*
 * [Count Duplicates](https://www.somacon.com/p568.php) or [MyNikko](http://www.mynikko.com/tools/tool_duplicateremover.html)- *Count / Remove Duplicates in a List*
 * [Count Wordsworth](http://countwordsworth.com/) - *Count Words in a List* 
-* [PDF Text Extraction](https://r3mlab.github.io/python/osint/2018/08/09/PDF-text-extraction.html) - *Extract Text from PDF Files* 
 * [OfficeDocs](https://www.offidocs.com/) - *Runs Desktop / Mobile Apps Online*
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - *Text / Code Collaboration Tools*
 * [Miro](https://miro.com/) - *Collaborative Whiteboard*
@@ -434,7 +433,6 @@
 * [HookTheory](https://www.hooktheory.com/trends) - *Chord Progression Library* 
 * [MusicKit](https://musickit.jull.dev/) - *Metronome, Tuner & Tone Generator* 
 * [Tuner Ninja](https://tuner.ninja/) - *Instrument Tuner* 
-* [The Wub Machine](https://the.wubmachine.com/) - *Turn any Song into Dubstep* 
 * [PIXELSYNTH](https://ojack.xyz/PIXELSYNTH/) - *Image to Sound Synthesizer*
 * [img-encode](https://github.com/alexadam/img-encode) - *Image to Audio Converter*
 * [weird-converter](https://github.com/AlbertSuarez/weird-converter) - *Image to Audio / Audio to Image Converter*
@@ -504,7 +502,7 @@
 * [WiFiCard](https://wificard.io/) - *WiFi Info QRCode Generator*
 * [Master Networks & Scanning](https://mega.nz/folder/woQFAaLT#Eqvaip0R-kXi-lD8OIch7g) - *Network & Network Scanning Tutorials*
 * [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - *Follow RSS Feeds*
-* [DatoRSS](https://www.datorss.com/), [CTRLQ](https://ctrlq.org/rss/) or [RSS.app](https://rss.app/) - *RSS Feed Search* 
+* [CTRLQ](https://ctrlq.org/rss/) or [RSS.app](https://rss.app/) - *RSS Feed Search* 
 * [RSS Box](https://rssbox.herokuapp.com/) or [FiveFilters](https://createfeed.fivefilters.org/) - *RSS Feed Creator* 
 * [RSSMail](https://git.panda-roux.dev/rssmail/about/) - *RSS to Email*
 * [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - *RSS Feed for Sites Missing It*
@@ -759,7 +757,6 @@ General Reading Sites*
 * **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
 * [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
 * [soo.gd](https://soo.gd/) - `soo.gd/YCtV`
-* [ttf.tf](https://ttf.tf/) - `ttf.tf/Zr7FWU`
 * [gg.gg](http://gg.gg/) - `gg.gg/oggp7`
 * [Teknik](https://shorten.teknik.io/) - `tknk.io/GH5X` 
 * [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
