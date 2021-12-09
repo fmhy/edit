@@ -506,7 +506,6 @@
 * [Learn Anything](https://learn-anything.xyz/) or [Learney](https://app.learney.me/) - *Interactive Learning Map* 
 * [Fact Directory](https://fact.directory/) - *Facts for Every Topic* 
 * [Faqtoids](https://top.faqtoids.com/) - *Fact / Info Search Engine*
-* [NoExcuseList](http://noexcuselist.com/) - *Free Learning Sites* 
 * [Explorabl.es](https://explorabl.es/) or [MinuteLabs](https://minutelabs.io/) - *Interactive Learning / Lessons* 
 * [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - *Learn With GIFs* 
 * [Information Is Beautiful](https://informationisbeautiful.net/) - *Data / Information / Infographics / Visualizations* 
@@ -608,7 +607,6 @@
 * [Sanfoundry](https://www.sanfoundry.com/) - *Programming & Engineering Questions & Answers*
 * [Seeing Theory](https://seeing-theory.brown.edu/) - *Interactive Probability / Statistics Lessons* 
 * [CESDB](https://www.cesdb.com/) - *Civil Engineering Software*
-* [VirtualTrebuchet](http://virtualtrebuchet.com/) - *Trebuchet Simulator* 
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - *Pendulum Simulator*
 * [Traffic Simulation](https://traffic-simulation.de/) - *Traffic Flow Simulation* 
 * [Bridge Command](https://www.bridgecommand.co.uk/) - *Bridge Command Ship Simulator*
