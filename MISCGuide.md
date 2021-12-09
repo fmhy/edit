@@ -1111,7 +1111,7 @@
 * [Userscript.zone](https://www.userscript.zone/) - *Userscript Search* 
 * [darkmode.js](https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c) - *Dark Mode Script*
 *  [Hcaptcha Solver](https://greasyfork.org/en/scripts/425854) or [Recaptcha Solver](https://greasyfork.org/en/scripts/430593) - *Captcha Solvers*
-* [Solved Media Plus](https://greasyfork.org/en/scripts/422074-solved-media-plus) - *Image Captcha Solvers*
+* [Solved Media Plus](https://greasyfork.org/en/scripts/422074-solved-media-plus) - *Image Captcha Solver*
 * [Remove Web Limits](https://greasyfork.org/en/scripts/28497-remove-web-limits-modified), [2](https://greasyfork.org/en/scripts/386908-remove-web-limits-re-modified) - *Force Enable Right Click*
 * [anti-anti-copy](https://greasyfork.org/en/scripts/7197) - *Copy Text from Any Site*
 * [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - *Select Text Inside Links* 
