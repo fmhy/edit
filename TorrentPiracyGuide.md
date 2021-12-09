@@ -26,7 +26,6 @@
 * [Motrix](https://motrix.app/) - *[Screenshot](https://i.imgur.com/Zrw6l8q.png) / [GitHub](https://github.com/agalwood/Motrix)*
 * [Picotorrent](https://picotorrent.org/) - *[Screenshot](https://i.imgur.com/46oF1iD.png)*
 * [FrostWire](https://www.frostwire.com/) - *[Screenshot](https://i.imgur.com/3wJSJmg.png)*
-* [Tornado](https://tornado-torrent.gitlab.io/) - *[Screenshot](https://i.imgur.com/H3mvifU.png)*
 * [BiglyBT](https://www.biglybt.com/) - *[Screenshot](https://i.imgur.com/Gopf4tZ.png)* 
 * [NeoLoader](https://neoloader.com/) - *[Screenshot](https://neoloader.com/neo/image1.jpg)*
 * [Tribler](https://www.tribler.org/) - *Tor-inspired Client / [Screenshot](https://i.imgur.com/IzmanCf.png) / [Github](https://github.com/Tribler/tribler)*
