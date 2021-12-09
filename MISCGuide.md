@@ -288,7 +288,6 @@
 * [Fluid](https://fluid.remyhidra.dev/) - *Fluid Simulation*
 * [05x5](https://csh.bz/line/05x5.html) - *Rainbow Pattern Generator*
 * [Chaos Equations](https://chaos-equations.glitch.me/?p=LBMRMS) - *Chaos Equation Visualizations*
-* [Dots-Converter](https://loveeevee.github.io/Dots-Converter/dots-draw.html) - *Draw with Dots*
 * [Super Forumula](https://superformula.club/) - *Shape Creation Tool* 
 * [Flame Reactor](https://flamereactor.com/) - *Fractal Flame Collaborative Generator*
 * [JacksonPollock](https://www.jacksonpollock.org/) - *Splatter Painting / Click to Change Color*
@@ -300,7 +299,6 @@
 * [Genetic Cars 2](https://rednuht.org/genetic_cars_2/) - *Random 2D Car Generator*
 * [cachemonet](http://cachemonet.com/) - *Randomly Generated GIFs/ Backgrounds* 
 * [Wonder of Wonder Art](https://aidn.jp/wowa/) - *Create a Dancing Character* 
-* [Family Guy Yourself](http://www.familyguyyourself.com/) - *Family Guy Character Creator*
 * [CAT BOUNCE!](https://cat-bounce.com/) - *Bounce Cats*
 * [Tamajoji](https://flixflox.itch.io/tamajoji) - *Browser Tamagotchi*
 * [Gifypet](https://gifypet.neocities.org/) - *Create Your Own Cute Pet* 
@@ -554,7 +552,6 @@
 * [Just the Recipe](https://www.justtherecipe.com/), [PlainOldRecipe](https://www.plainoldrecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - *Extract Ingredients & Directions from Recipe Pages* 
 * [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - *Food Product Ingredient Scanner*
 * [cookEbooks](http://cookebooks.info/) - *Cookbooks*
-* [The-Eye Food](https://the-eye.eu/public/Books/Food/) - *Cookbooks* 
 * [YudhaCookbook](https://www.yudhacookbook.my.id/) - *Cookbooks*
 * [DMC Cookbooks](https://archive.lib.msu.edu/DMC/cookbooks/) - *Cookbooks*
 * [Cook Bookshelf](https://t.me/cook_bookshelf) - *Cookbooks / Telegram*
@@ -588,7 +585,6 @@
 * [Culinary](http://www.culinary.net/) - *Recipes*
 * [pwned.space](https://pwned.space/recipes/) - *Recipes*
 * [Cookpad](https://cookpad.com/us) - *Recipes*
-* [RecipeChart](https://www.recipechart.com/) - *Recipes*
 * [FoodGeeks](https://foodgeeks.com/) - *Recipes*
 * [MyRecipeMagic](https://www.myrecipemagic.com/) - *Recipes*
 * [SparkPeople](https://recipes.sparkpeople.com/) - *Recipes*
@@ -666,7 +662,6 @@
 * [ExRx.net](https://exrx.net/) - *Exercise Resources*
 * [Cronometer](https://cronometer.com/) - *Track Nutrition & Calories*
 * [FoodStruct](https://foodstruct.com/) - *Food Nutrition Search*
-* [Awesome Nutrition Calculator](https://github.com/RolandKawka/awesome-nutrition-calculator) - *Nutrition Calculator*
 * [Soosee](https://play.google.com/store/apps/details?id=com.goodsnooze.soosee) - *Food Nutrition Scanner*
 * [wger](https://wger.de/) - *Self-Hosted Workout, Nutrition & Weight App / [GitHub](https://github.com/wger-project/wger)*
 * [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - *Daily Diet Recommendations / Android*
@@ -1004,7 +999,6 @@
 ## ▷ Firefox
 
 * [Firefox Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)
-* [FirefoxPWA](https://addons.mozilla.org/en-US/firefox/addon/firefoxpwa/) - *Progressive Web Apps for Firefox / [GitHub](https://github.com/filips123/FirefoxPWA)*
 * [keyconfig](https://addons.palemoon.org/addon/keyconfig/) - *Firefox Key Binds* 
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - *Multiple Link Related Actions* 
 * [FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/) - *Multiple Tab Related Actions*
@@ -1022,7 +1016,6 @@
 * [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - *Custom Firefox Theme Creation*
 * [OnelineProton](https://github.com/lr-tech/OnelineProton/) - *Proton Theme for Firefox*
 * [Dark Background for Firefox New Tabs](https://fedidat.com/640-dark-newtab-firefox/)
-* [Colors and Fonts Extractor](https://addons.mozilla.org/en-US/firefox/addon/colors-and-fonts-extractor/) - *Extract Colors & Fonts from Websites* 
 * [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - *Force Enable Right Click*
 * [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) - *Make Non-Hyperlinked URL's Clickable* 
 * [AutoPagerize Advanced](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - *Merge Multiple Pages*
@@ -1053,11 +1046,9 @@
 * [chrome-extensions](https://github.com/learn-anything/chrome-extensions) - *List of Chrome Extensions* 
 * [NooBoss](https://ainoob.com/en/project/nooboss) - *Chrome Extension Manager / Extra Features*
 * [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - *Add Extensions to Ungoogled Chromium* 
-* [Chrome Extension Downloader](https://chrome-extension-downloader.com/) - *Chrome Extension Download Tool*
 * [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - *Quickly Enable / Disable Chrome Extensions*
 * [CRX Viewer](https://github.com/Rob--W/crxviewer) - *View Extension Source Code* 
 * [Tabji](https://tabji.link/) or [MarvellousSuspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - *Tab Suspender*
-* [Chrome Amoled](https://github.com/AlmightyJack/Chrome-Amoled-Extension) or [Dark Mode](https://chrome.google.com/webstore/detail/dark-mode/declgfomkjdohhjbcfemjklfebflhefl) - *Dark Mode*
 * [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - *Picture-in-Picture Mode*
 * [OVC](https://chrome.google.com/webstore/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - *Video Controller*
 * [Audio Channel](https://chrome.google.com/webstore/detail/audio-channel/hafdgamhnmiioimpcdhhbhgcjndgmphd) - *Tab Audio Manager*
