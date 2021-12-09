@@ -27,7 +27,6 @@
 * [ScOOter Repacks](https://scooter-repacks.site/) - *[Discord](https://discord.gg/BWKyN8SgvM)*
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - *[Discord](https://discord.gg/693hNBdymb)*
 * [CPG](https://cpgrepacks.site/) - *[Discord](https://discord.gg/dtBSZ9N)*
-* [Darck Repacks](https://darckrepacks.com/) - *[Discord](https://discord.gg/5eRvDvy)*
 * [Torrminatorr](https://forum.torrminatorr.com/)
 * [KaOsKrew](https://www.kaoskrew.org/)
 * [Crohasit](https://crohasit.net/)
@@ -39,15 +38,12 @@
 * [SEHS Games](https://www.sehsgames.com/)
 * [GameLoo](http://www.gameloo.info/)
 * [AimHaven](https://www.aimhaven.com/)
-* [Games Flix](https://gamesflix.net/) 
 * [Leeching Hell](http://leechinghell.pw/)
 * [SteamRIP](https://steamrip.com/) - *[Discord](https://discord.gg/hj8dU5BFHE)*
 * [SteamUnlocked](https://steamunlocked.net/) - *Use Adblocker / [Release Tracker](https://github.com/N-O-E-D/Steamunlocked)*
 * [SohaibXtreme](https://www.sohaibxtreme.net/FDL/setup/games/) 
-* [Bia2Game](http://dl.bia2game.com/) 
 * [GamingMaster](http://s5.gamingmaster.ir/) 
 * [LegendaryRepacks](https://discord.gg/RUSNHSk) - *Universal Bypass Required*
-* [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [LiGHT Repack Archive](https://drive.google.com/drive/folders/1q4lRUnwVhMQuakl1yM8OH1Je9_92LpXE)
 * [silentycrying's Game Drive](https://drive.google.com/drive/u/0/folders/1K1FdNbEu9-_wy8vn9sE768VojXqu6Fnp) 
@@ -55,7 +51,6 @@
 * [DLFox](https://www.dlfox.com/)
 * [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
 * [SPiKY Repacks](https://discord.gg/ZHC6pffMz2) - *[GamesDrive Uploader](https://gamesdrive.co/)*
-* [Patrick Technology Repacks](https://patricktech-repacks.xyz/) - *[Discord](https://discord.gg/ByfJRmdeg7)*
 * [Ali213](https://ali213.net/) - *May Require VPN / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [pc_game_down](https://t.me/pc_game_down) - *Telegram*
 * [g4u](https://g4u.to/) - *Password: 404*
@@ -105,7 +100,6 @@
 * [CroTorrents](https://crotorrents.com/)
 * [GamesTorrents](https://www.gamestorrents.nu/)
 * [Free GoG PC Games](https://freegogpcgames.com/)
-* [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win)
 * [Ali213](https://ali213.net/) - *May Require VPN / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
@@ -133,7 +127,6 @@
 * [Emulanium](https://emulanium.com/) - *Emulators / Roms* 
 * [RomsUniverse](https://www.romsuniverse.com/) - *Emulators / Roms* 
 * [Romsie](https://romsie.com/) - *Emulators / Roms*
-* [EmuRoms](http://www.emuroms.ch/en) - *Emulators / Roms*
 * [ROMs Games](https://www.romsgames.net/) - *Emulators / Roms*
 * [ConsoleRoms](https://www.consoleroms.com/) - *Emulators / Roms*
 * [HexRom](https://hexrom.com/) - *Emulators / Roms*
@@ -200,7 +193,6 @@
 * [@Storage_Manager](https://archive.org/details/@storage_manager) - *Roms / Zip* 
 * [FinalBurn Neo](https://archive.org/details/2020_01_06_fbn) - *Roms / Zip* 
 * [Everdrive](https://archive.org/details/latest-everdrive-pack-2020-04-16) - *Roms / Zip*
-* [1,000+ Roms](https://mega.nz/file/61hDlYjQ#VQSjdEkNy9TzRbgFQd2-gWSz6w5eEh67xe2tnpmhj50) - *Roms / Zip*
 * [Retro Gaming](https://mega.nz/folder/ZuRigCwA#5d_K9lRKUXdeaDMog84MGg) - *Roms / 3GB*
 * [90.230.15.92](http://90.230.15.92/) - *Roms* 
 * [Gaming Alexandria](https://www.gamingalexandria.com/highquality/) - *Roms*
@@ -221,7 +213,6 @@
 * [Wii Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wii_roms) - *Roms / Wii*
 * [Switch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - *Roms / Nintendo Switch*
 * [Gamecube Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gamecube_roms) - *Roms / GameCube*
-* [ed64m](http://ed64m.com/N64/) - *Roms / N64*
 * [Gameboy Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gameboy_roms) - *Roms / Gameboy*
 * [DS Roms](https://archive.org/details/noIntroNintendoDsDecrypted2019Jun30), [2](https://mega.nz/folder/33AhDa4T#awOqr7lhZYFgjXoMMu6_8w) - *Roms / DS*
 * [DSi Collection](https://archive.org/details/No-Intro_Nintendo_DSi_2018-06-30) - *Roms / DSi* + [DSi DLC](https://archive.org/details/NintendoDSiDLC2019)
@@ -497,7 +488,6 @@
 * [Maze](https://www.epgsoft.com/maze/) - *Maze Generator*
 * [BrantSteele](http://brantsteele.net/) - *Game Show Simulators*
 * [Shooty Ship Pumpkin Smash](https://www.thepointless.com/apps/shooty-ship-pumpkin-smash/index.html) - *Shoot Pumpkins*
-* [GirlsGoGames](https://www.girlsgogames.com/) - *Games for Girls*
 * [Educational Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_games)
 * [Gameload](http://www.gameload.top/) - *Unity Browser Game Extension* 
 
@@ -628,7 +618,6 @@
 * [City Guesser](https://virtualvacation.us/guess) - *City Guessing Game* 
 * [English Sandwhich](https://englishsandwich.github.io/) - *Guess Where Dishes are From*
 * [LanguageGuesser](https://languageguesser.com/) - *Guess Music Video Languages* 
-* [schoolprison](https://www.schoolprison.com/) - *Is this Building a School or Prison?* 
 * [The Higher Lower Game](http://www.higherlowergame.com/) - *Guess What's Googled More*
 * [Guess The Price](https://guesstheprice.net/) - *Price Guessing Game* 
 * [damn.dog](https://damn.dog/) - *wikiHow Guessing Game*
