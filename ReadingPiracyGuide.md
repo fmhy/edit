@@ -11,7 +11,7 @@
 
 # ► Audiobook Sites
 
-* **[Audiobook Sites Search](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)**
+* **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** - *Multi-Site Audiobook Search*
 * **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
 * **[Audiobook Bay](http://audiobookbay.ws/)**, [2](http://audiobookbay.nl/), [3](http://www.audiobookbayabb.com/) - *Torrents / [Extension](https://addons.mozilla.org/en-US/firefox/addon/audiobookbay-magnet-assistant/)*
 * **[Tokybook](https://tokybook.com/)** - *Listen Online*
@@ -703,7 +703,7 @@
 
 ## ▷ Comic Sites
 
-* **[Comic Sites Search](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)**
+* **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - *Multi-Site Comic Search*
 * **[ReadComicsOnline](https://readcomiconline.li/)**
 * **[GetComics](https://getcomics.info/)** - *Downloads / Read Online*
 * **[ComicExtra](https://www.comicextra.com/)** or [Comic Online Free](https://comiconlinefree.net/) 
