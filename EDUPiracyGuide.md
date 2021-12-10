@@ -399,6 +399,7 @@
 * [Yojik](https://fsi-languages.yojik.eu/index.html) or [ESOL](https://www.esolcourses.com/) - *Language Learning Courses*
 * [Language Transfer](https://www.languagetransfer.org/) - *Language Learning Courses / Audio*
 * [refold.la](https://refold.la/roadmap) - *Language Learning Guide* 
+* [clozemaster](https://www.clozemaster.com/) - *Context Based Language Learning*
 * [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - *Language Learning Flashcards*
 * [Learn English Online](http://www.learn-english-online.org/), [ESLFast](https://www.eslfast.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons), [Voscreen](http://voscreen.com/) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - *Learn English*
 * [Podcasts in English](https://www.podcastsinenglish.com/) - *English Learning Podcasts*
