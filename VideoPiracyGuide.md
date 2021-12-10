@@ -84,7 +84,7 @@
 * [1movies](https://ww2.1movies.is/), [Real-Primewire](https://real-primewire.club/), [CouchTuner](https://couchtuner.fashion/) or [New-Primewire](https://ww1.new-primewire.com/) - *Movies / TV / Anime*
 * [Vmovee HD](https://vmoveehd.com/) - *Movies / TV*
 * [VidStore](https://stream.vidzstore.com/) - *Movies*
-* [Mrswe](https://mrswe.com/) - *Movies / TV / [Discord](https://discord.com/invite/vH98xpmhxM)*
+* [Mrswe](https://mrswe.com/) - *Movies / TV / [Discord](https://discord.com/invite/vH98xpmhxM) / [Ad Script](https://pastebin.com/91WNSZHj)*
 * [IAmDenzen](https://www.iamdenzen.com/) - *Movies / TV / Anime*
 * [Flixtor](https://flixtor.to) or [Filme21](https://filme21.com/) - *Movies / TV / Movies Older Than 6 Months For Premium Only*
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrives_.2F_open_directories) - *Movies / TV / Anime* 
