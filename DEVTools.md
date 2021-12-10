@@ -259,6 +259,7 @@
 * [Box-Shadow](https://box-shadow.art/) - *Box Shadow Generator*
 * [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - *CSS Shadow Generator*
 * [MapBox](https://www.mapbox.com/) - *Live Maps, Location Search & More*
+* [Maps-Core](https://openmobilemaps.io/) - *Mobile Map SDK*
 * [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [99Inbound](https://www.99inbound.com/), [Form.taxi](https://form.taxi/) or [Formsend](https://formsend.org/) - *Form Creator*
 * [Plaid](https://plaid.com/) - *Financial Account API / [GitHub](https://github.com/plaid)*
 * [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)- *Penetration Testing Resources*
