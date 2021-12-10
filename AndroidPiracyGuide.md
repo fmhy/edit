@@ -303,6 +303,7 @@
 * **[FileCR](https://filecr.com/android/)** - *Modded*
 * **[nsane.down](https://www.nsaneforums.com/)**
 * **[ModdedCentral](https://t.me/ModdedCentral)** or [ModdedPrivate](https://t.me/ModdedPrivate) - *Modded / Telegram*
+* **[ReXdl](https://rexdl.com/)** - *Modded*
 * **[APKMirror](https://www.apkmirror.com/)** - *Untouched*
 * **[Lucky Patcher](https://www.luckypatchers.com/download/)** - *Remove Ads / Free In App Purchases / App Patcher / [How to use](https://latestechnews.com/how-to-use-lucky-patcher/)*
 * **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - *Repositories Index*
@@ -348,7 +349,6 @@
 * [HappyMod](https://www.happymod.com/) - *Modded*
 * [DZAPK](https://dzapk.com/) - *Modded* 
 * [Apk4All](https://apk4all.com/) - *Modded*
-* [ReXdl](https://rexdl.com/) - *Modded*
 * [Androidp1](https://www.androidp1.com/en/) - *Modded*
 * [Source of APK](https://sourceofapk.com/) - *Modded*
 * [5Play](https://5play.ru/en/) - *Modded*
