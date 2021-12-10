@@ -523,6 +523,7 @@
 * **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "video"*
 * **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - *Download videos from streaming sites*
+* **[Movies Cave](https://movies-cave.netlify.app/)** - *Movies / TV / Anime / [Discord](https://discord.com/invite/5GqPYpWmkx)*
 * **[MovieParadise](https://movieparadise.org/)** - *Movies / TV / Account Required*
 * **[Pahe](http://pahe.ph/)** - *Movies / TV / Anime / [Discord](https://discord.gg/33P8hpR) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper) / [Rips](https://mkvking.net/), [2](https://mkvking.me/)*
 * **[Worlds Cinema](http://worldscinema.org/)** - *Old / Classic / Cult Films*
@@ -530,7 +531,6 @@
 * **[Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download)** - *Many of these sites have single click downloads*
 * [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
 * [RareLust](https://rarelust.com/) - *Rare Movies / NSFW* 
-* [Movies Cave](https://movies-cave.netlify.app/) - *Movies / TV / Anime / [Discord](https://discord.com/invite/5GqPYpWmkx)*
 * [My Duck Is Dead](http://www.myduckisdead.org/) - *Rare Movies / NSFW* 
 * [Choices](https://howlongwillthishydralast.weebly.com/choices.html) - *Movies / TV*
 * [MobileTVShows](https://www.mobiletvshows.net/) - *TV / Anime*
