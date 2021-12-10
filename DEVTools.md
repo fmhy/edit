@@ -233,12 +233,11 @@
 * [GoHugo](https://gohugo.io/), [Potion](https://www.potion.so/) or [8b](https://8b.com/) - *Website Creator*
 * [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - *Webpage Editor* 
 * [Plunker](https://plnkr.co/) - *Prototype / Test Websites Ideas*
-* [Temper](https://temper.one/) - *Simple HTML Site Creator*
 * [Bootstrap](https://getbootstrap.com/) - *Mobile Site Creator / [Icons](https://github.com/twbs/icons) / [Snippets](https://bootsnipp.com/)*
 * [Brython](https://brython.info/) - *Python 3 Web Scripting Language*
 * [Jamstack Generators](https://jamstack.org/generators/) - *Static Site Generators*
 * [Sketch2Code](https://sketch2code.azurewebsites.net/) - *Convert Hand-Drawn Designs into HTML*
-* [Straw.Page](https://straw.page/) - *Simple Site Creator*
+* [Straw.Page](https://straw.page/), [Temper](https://temper.one/) or [Neocities](https://neocities.org/) - *Simple Site Creator*
 * [LocalXpose](https://localxpose.io/) - *Reverse Proxy*
 * [BuiltWith](https://builtwith.com/) - *Find Out What Sites are Built With*
 * [Bootstrap](https://bootstrapmade.com/) or [TheMeWagon](https://themewagon.com/) - *Website Templates & Themes*
