@@ -397,6 +397,7 @@
 * [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - *CLI APK Download Tool*
 * [Blackmod](https://blackmod.net/) - *Modded Game APKs*
 * [How-To Play Free Android Cloud Games](https://rentry.co/66cc9)
+* [KPFireTV](https://www.kpfiretv.com/) - *Amazon Fire APKs*
 * [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - *Android Vehicle Apps*
 * [App filter](https://appfilter.net/) - *Play Store Advanced Search*
 * [AppAnnie](https://www.appannie.com/en/apps/google-play/top/) - *Top App Downloads*
