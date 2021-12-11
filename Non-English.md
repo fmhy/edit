@@ -984,7 +984,6 @@
 ## ▷ Streaming
 
 * [Mr. Piracy](https://mrpiracy.site/) - *Movies / TV / Anime* 
-* [TheFilmes](https://thefilmes.tv/) - *Movies / TV / Anime*
 * [Pobre](https://pobre.tv/) - *Movies / TV*
 * [Bombozila](https://bombozila.com/) - *Movies / TV*
 * [LibreFlix](https://libreflix.org/) - *Movies / TV*
