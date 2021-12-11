@@ -127,7 +127,6 @@
 * [text-regenerator](https://github.com/jddunn/text-regenerator) - *Replace Words with Synonyms*
 * [Honk.moe](https://honk.moe/tools.html) - *Shitposting Text Generators*
 * [Typoer](https://github.com/georgetian3/typoer) - *Types Text with Typos / Corrections*
-* []() - **
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - *Annotation Tools / Resources*
 * [Translation Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_translation_sites) - *Online Translators*
 * [Crow Translate](https://github.com/crow-translate/crow-translate) - *Translation App*
@@ -396,6 +395,7 @@
 * [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - *Pop Song Sample Mixer*
 * [Nightcore Maker](https://nightcoremaker.com/) - *Create Nightcore Versions of Songs*
 * [CSound](https://csound.com/) - *Music Computing System*
+* [Melodai.art](https://melodai.art/) - *AI Melody Generator*
 * [Karaoke Maker](https://www.edityouraudio.com/karaoke-maker) or [X-Minus](https://x-minus.pro/) - *Create Karaoke Songs*
 * [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/) or [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Online Audio Recorder* 
 * [MP3Smaller](https://www.mp3smaller.com/) - *MP3 Compressor* 
