@@ -2539,6 +2539,7 @@ Good for finding classic, obscure & short films.
 
 * **[TechBench](https://tb.rg-adguard.net/)**
 * **[Windows 10 LTSC](https://supreme-gamers.com/t/windows-10-ltsc-the-best-windows-10-version-ever.845/)** - *Bloat / Telemetry Free Windows 10 / /r/Windows10LTSC*
+* **[Windows AME](https://ameliorated.info/)** - *Windows 10 ISO Aimed Towards No Telemetry Windows 10*
 * [Massgravel's Pastebin](https://pastebin.com/raw/jduBSazJ)
 * [Bob Pony](https://downloadui.bobpony.com/)
 * [Soft.uclv](https://soft.uclv.edu.cu/Microsoft/)
@@ -2558,7 +2559,6 @@ Good for finding classic, obscure & short films.
 * [ggOS](https://discord.gg/A5BHSQV) - *Custom Windows 10 20H2 ISO*
 * [Windows Sun Valley](https://archive.org/details/windows-sv-pro-v-1) - *Custom Windows 10 21H1 ISO*
 * [XOS](https://discord.gg/Zs4bpVjJyp) - *Custom Windows 10 1803 ISO*
-* [Ameliorated](https://ameliorated.info/) - *Windows 10 ISO Aimed Towards No Telemetry Windows 10*
 * [FoxOS](https://discord.gg/A5Y76ymyBY) - *Custom Windows 7 ISO* 
 * [UnicornsOS](https://discord.gg/vFwRBB7XBK) - *Custom Windows 7 ISO*
 * [OldSchoolOS](https://www.oldschoolos.com/), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - *Oldschool ISO's*
