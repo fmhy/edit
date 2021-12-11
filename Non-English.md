@@ -110,11 +110,13 @@
 # ► Chinese 
 
 * [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - *Chinese Site / Tool Index*
+* [sejie6](https://sejie6.buzz/ ) - *Chinese Site / Tool Index / NSFW*
 * [jialezi](https://blog.jialezi.net/) - *Chinese Tutorials*
 * [Kaiheila](https://www.kaiheila.cn/) - *Chinese Discord*
 * [zimuku](http://zimuku.org/), [YYets](https://www.yyets.com/) or [SubHD](https://subhd.tv/) - *Subtitles*
 * [Anti-Ad](https://anti-ad.net/) - *Adblock Filters*
 * [Dianying](https://dianying.fm/) - *Hash Search*
+* [磁力海](https://cilidog.cc/) - *DHT Search *
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io) or [OilAndFish](https://www.oilandfish.com/) - *Bypass Chinese Firewall*  
 * [Dict.Baidu](https://dict.baidu.com/) - *Chinese Word, Idiom & Poem Search*
@@ -217,6 +219,7 @@
 * [rzlib](https://www.rzlib.net/) - *Light-Novels* 
 * [booktxt](https://m.booktxt.net/) - *Light-Novels* 
 * [ishare.iask](https://ishare.iask.sina.com.cn/) - *Documents*  
+* [555电影](https://www.o8tv.com/), [2](https://555dy1.com/) - *Movies / TV / Anime / NSFW*
 * [CText](https://ctext.org/), [ChineseNotes](http://chinesenotes.com/) or [Kanripo](https://www.kanripo.org/) - *Chinese Historic Text Archive*
 * [guoxue](http://www.guoxue.com/) - *History / Journals*
 * [Moedict](https://www.moedict.tw/), [dict.cn](https://dict.cn/), [CantoDict](http://www.cantonese.sheik.co.uk/dictionary/) or [ZDic](https://www.zdic.net/) - *Chinese Dictionary*
@@ -680,6 +683,7 @@
 * [dl-zip](http://dl-zip.com/) - *Manga / NSFW*
 * [CMOA](https://www.cmoa.jp/) - *Manga*  
 * [shobonnexus](https://shobonnexus.com/) - *Novels / Magazines*  
+* [itazuraneko](https://itazuraneko.neocities.org/ ) - *Manga / Anime / Learning*
 * [watanoc](http://watanoc.com/) - *Articles / Learn Japanese* 
 
 ***
