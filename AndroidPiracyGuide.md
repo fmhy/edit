@@ -555,6 +555,7 @@
 * [IsraTV](https://isratv.netlify.app/) - *Movies / TV / Live TV*
 * [MediaBox HD](https://mediaboxhd.net/) - *Movies / TV / Chromecast*
 * [PikaShow](https://pikashow.app/app) - *Movies / TV*
+* [Modded Amazon Prime Video](https://t.me/shooterOfficial1/38296) - *Movies / TV*
 * [Movie HD](https://moviehdapkdownload.com/moviehd-apk/) - *Movies / TV / Chromecast*
 * [Upflix](https://upflix.pro/) - *Movies / TV*
 * [Titanium TV](https://aapks.com/apk/titanium-tv-com-wise-tech-titanium/) - *Movies / TV / Anime / Chromecast*
