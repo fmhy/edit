@@ -42,6 +42,7 @@
 * [Kadenze](https://www.kadenze.com/) - *Courses*
 * [OnlineTutorials](https://www.onlinetutorials.org/) - *Courses*
 * [CourseSity](https://www.coursesity.com/) - *Courses*
+* [Harvard Online Courses](https://pll.harvard.edu/catalog?keywords=&free[1]=1&max_price) - *Courses*
 * [FindAndSolve](https://www.findandsolve.com/) - *Course Search Engine*
 * [LearnOutLoud](https://www.learnoutloud.com/) - *Documentaries / Courses*
 * [Class Central](https://www.classcentral.com/) - *Search for Courses*
