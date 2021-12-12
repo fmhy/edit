@@ -1264,6 +1264,7 @@ Portuguese
 * [Zetflix](https://zetflix.pro/) - *Movies / TV*
 * [RussianFilmHub](https://russianfilmhub.com/) - *Movies / TV*
 * [viho.live](https://viho.live/) - *Movies / TV / Anime* 
+* [KinoGo](https://kinogo-net.org/) - *Movies / TV / Anime*
 * [EX-FS](https://ex-fs.net/ ) - *Movies / TV / Anime*
 * [hdzo](https://hdzo.tv/) - *Movies / TV*
 * [seasonvar](http://seasonvar.ru/) - *TV*
