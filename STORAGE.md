@@ -1760,13 +1760,13 @@ Add the following commands to a search to manually scrape each site.
 
 #### Soundcloud Downloaders
 
-[SoundCloud Downloader](https://github.com/NotTobi/soundcloud-dl), [Klickaud](https://www.klickaud.co/), [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837-local-soundcloud-downloader), [SoundCloud-Playlist-Sync](https://github.com/erwinkramer/SoundCloud-Playlist-Sync), [Soundcloud-Downloader](https://github.com/Kawaizombi/kawai-scripts/tree/master/projects/soundcloud-downloader), [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/), [sctomp3](https://sctomp3.net/), [sclouddownloader](https://sclouddownloader.net/)
+[SoundCloud Downloader](https://github.com/NotTobi/soundcloud-dl), [Klickaud](https://www.klickaud.co/), [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837-local-soundcloud-downloader), [SoundCloud-Playlist-Sync](https://github.com/erwinkramer/SoundCloud-Playlist-Sync), [Soundcloud-Downloader](https://github.com/Kawaizombi/kawai-scripts/tree/master/projects/soundcloud-downloader), [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/), [sclouddownloader](https://sclouddownloader.net/)
 
 ***
 
 #### Spanish Anime Telegram
 
-[Animes480pFinalizados](https://t.me/Animes480pFinalizados), [Anime480p_Emision](https://t.me/Anime480p_Emision), [AndrossElLegado](https://t.me/AndrossElLegado), [noticiasmanganime](https://t.me/noticiasmanganime/), [animes_kawais](https://t.me/animes_kawais), [SimplementeAnime](https://t.me/SimplementeAnime), [animesfinalizadoLSHD](https://t.me/animesfinalizadoLSHD), [AnimeDark17](https://t.me/AnimeDark17)
+[Animes480pFinalizados](https://t.me/Animes480pFinalizados), [Anime480p_Emision](https://t.me/Anime480p_Emision), [AndrossElLegado](https://t.me/AndrossElLegado), [animes_kawais](https://t.me/animes_kawais), [SimplementeAnime](https://t.me/SimplementeAnime), [animesfinalizadoLSHD](https://t.me/animesfinalizadoLSHD), [AnimeDark17](https://t.me/AnimeDark17)
 
 ***
 
@@ -1794,7 +1794,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Spotify Tools
 
-[Block Ads](https://github.com/amd64fox/SpotX), [2](https://github.com/mrpond/BlockTheSpot), [3](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) / [Linux Adblock](https://github.com/abba23/spotify-adblock) / [Lyrics](https://versefy.app/) / [Spotify Companion](https://spotifytools.romanello.xyz/) / [Spicetify](https://github.com/khanhas/spicetify-cli), [2](https://github.com/khanhas/Spicetify) / [Spicetify Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Dedup](https://spotify-dedup.com/) / [Hotkeys](https://github.com/aleab/toastify) / [Colorize](https://colorify.live/) / [Backup](http://www.spotmybackup.com/), [2](https://github.com/watsonbox/exportify) / [Library Size](https://opslagify.deruever.nl/) / [Listening Stats](https://www.statsforspotify.com/), [2](https://volt.fm/), [3](https://spotistats.app/) / [Disable Updates](https://www.filedropper.com/spotifydisableautoupdateswithrevert) / [Ad Host Files](https://gist.github.com/teomaragakis/cb187d880c9a3ca2c8a2), [2](https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57) / [Song Country Search](https://kira.vercel.app/) / [Taste Judge](https://pudding.cool/2020/12/judge-my-spotify/), [Account Gen](https://github.com/HamzaAnis/go-spotify-account-generator), [2](https://github.com/davide-acanfora/spotify-account-generator)
+[Block Ads](https://github.com/amd64fox/SpotX), [2](https://github.com/mrpond/BlockTheSpot), [3](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) / [Linux Adblock](https://github.com/abba23/spotify-adblock) / [Lyrics](https://versefy.app/) / [Spotify Companion](https://spotifytools.romanello.xyz/) / [Spicetify](https://github.com/khanhas/spicetify-cli), [2](https://github.com/khanhas/Spicetify) / [Spicetify Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Dedup](https://spotify-dedup.com/) / [Hotkeys](https://github.com/aleab/toastify) / [Colorize](https://colorify.live/) / [Backup](http://www.spotmybackup.com/), [2](https://github.com/watsonbox/exportify) / [Library Size](https://opslagify.deruever.nl/) / [Listening Stats](https://www.statsforspotify.com/), [2](https://volt.fm/), [3](https://spotistats.app/) / [Ad Host Files](https://gist.github.com/teomaragakis/cb187d880c9a3ca2c8a2), [2](https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57) / [Song Country Search](https://kira.vercel.app/) / [Taste Judge](https://pudding.cool/2020/12/judge-my-spotify/), [Account Gen](https://github.com/HamzaAnis/go-spotify-account-generator), [2](https://github.com/davide-acanfora/spotify-account-generator)
 
 ***
 
