@@ -187,6 +187,7 @@
 * [SpicyMags](https://spicymags.xyz/)
 * [downmagaz](https://downmagaz.net/adult_magazine/) 
 * [worldmags](https://worldmags.net/adult/) 
+* [PDF Dude](https://pdfdude.com/category/adult/)
 * [ebook3000](http://www.ebook3000.com/Magazine/For-Men/index.html) 
 * [adultload](https://adultload.ws/category/magazines/) 
 * [classic-porn](http://classic-porn.cc/) 
