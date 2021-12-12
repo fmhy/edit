@@ -649,7 +649,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Multi Host Uploaders**
 
-**[Z-o-o-m](https://z-o-o-m.eu/)**, [MirrorAce](https://mirrorace.com/), [MultiUp](https://multiup.eu/) / [2](https://multiup.org/), [Mirrorcreator](https://www.mirrored.to/, [PlowShare](https://github.com/mcrapet/plowshare)
+**[Z-o-o-m](https://z-o-o-m.eu/)**, [MirrorAce](https://mirrorace.com/), [MultiUp](https://multiup.eu/) / [2](https://multiup.org/), [Mirrorcreator](https://www.mirrored.to/), [PlowShare](https://github.com/mcrapet/plowshare)
 
 **File Hosts**
 
@@ -1318,7 +1318,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Piracy Site Proxies
 
-[Unblockit](https://unblockit.dev/), [Knaben's Proxy List](https://knaben.info/), [nocensor](https://nocensor.space/), [TorrentMirror](https://www.torrentmirror.net/#proxy-list-container, [unblockninja](https://unblockninja.com/), [uProxy](https://uproxy.to/), [unblocktorrent](https://unblocktorrent.com/) 
+[Unblockit](https://unblockit.dev/), [Knaben's Proxy List](https://knaben.info/), [nocensor](https://nocensor.space/), [TorrentMirror](https://www.torrentmirror.net/#proxy-list-container), [unblockninja](https://unblockninja.com/), [uProxy](https://uproxy.to/), [unblocktorrent](https://unblocktorrent.com/) 
 
 ***
 
@@ -1469,7 +1469,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Privacy Tools
 
-**[privacyguides](https://www.privacyguides.org/)**, **[Prism-Break](https://prism-break.org/)**, [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting), [Privacy Tools](https://www.privacytools.io/), [Awesome Privacy](https://github.com/pluja/awesome-privacy), [online-tools-for-the-pandemic](https://etherpad.wikimedia.org/p/online-tools-for-the-pandemic), [Privacy Tools List](https://privacytoolslist.com/), [Snopyta](https://snopyta.org/), [Hostux](https://hostux.network/), [Security List](https://security-list.js.org/), [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy), [Thunix](https://thunix.net/), [Zero Data App](https://0data.app/), [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/), [Alternative Internet](https://github.com/redecentralize/alternative-internet), [silkky.cloud](https://silkky.cloud/), [EPIC](https://www.epic.org/privacy/tools.html), [Techxodus](https://wiki.techxodus.org/en/home), [Awesome Windows Security](https://github.com/chryzsh/awesome-windows-security, [Tzkuat Ressources](https://gitlab.com/tzkuat/Ressources), [Privacy Tools List](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/), [PrivacySavvy](https://privacysavvy.com/)
+**[privacyguides](https://www.privacyguides.org/)**, **[Prism-Break](https://prism-break.org/)**, [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting), [Privacy Tools](https://www.privacytools.io/), [Awesome Privacy](https://github.com/pluja/awesome-privacy), [online-tools-for-the-pandemic](https://etherpad.wikimedia.org/p/online-tools-for-the-pandemic), [Privacy Tools List](https://privacytoolslist.com/), [Snopyta](https://snopyta.org/), [Hostux](https://hostux.network/), [Security List](https://security-list.js.org/), [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy), [Thunix](https://thunix.net/), [Zero Data App](https://0data.app/), [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/), [Alternative Internet](https://github.com/redecentralize/alternative-internet), [silkky.cloud](https://silkky.cloud/), [EPIC](https://www.epic.org/privacy/tools.html), [Techxodus](https://wiki.techxodus.org/en/home), [Awesome Windows Security](https://github.com/chryzsh/awesome-windows-security), [Tzkuat Ressources](https://gitlab.com/tzkuat/Ressources), [Privacy Tools List](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/), [PrivacySavvy](https://privacysavvy.com/)
 
 *** 
 
@@ -2536,7 +2536,7 @@ Good for finding classic, obscure & short films.
 * [jerryching](http://jerryching.spdns.de/Software/ISO%20Backup/)
 * [minerswin](http://root3.minerswin.de/ISO/Windows/)
 * [ISO GDrive](https://docs.google.com/spreadsheets/d/e/2PACX-1vSScnE8yYzjgTlMiTpoGZ4VwDKHDanTld2_BXXliZg_nTyVVJq0ppvDJHiRFuMEoAO9UKHZqCG2o97T/pubhtml#)
-* [AtlasOS](https://atlasos.net/) - *Custom Windows 10 20H2 ISO / [Discord](https://discord.gg/FdvUEEU864)*
+* [AtlasOS](https://atlasos.net/) - *Custom Windows 10 20H2 ISO / [Discord](https://discord.com/invite/xx6S3g3HzE)*
 * [ggOS](https://discord.gg/A5BHSQV) - *Custom Windows 10 20H2 ISO*
 * [Windows Sun Valley](https://archive.org/details/windows-sv-pro-v-1) - *Custom Windows 10 21H1 ISO*
 * [XOS](https://discord.gg/Zs4bpVjJyp) - *Custom Windows 10 1803 ISO*
