@@ -172,6 +172,7 @@
 * [datcheck](https://github.com/pkos/datcheck) - *Compare No-Intro / Redump dat files to rom or disc collection* 
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - *Gamecube iso.dec to ISO Converter*
 * [Cemu Guide](https://cemu.cfw.guide/) - *Cemu & BOTW Optimization Guide*
+* [Motion Support Bypass](https://redd.it/gobcne) - *Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)*
 * [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) - *Yuzu Emulator Setup Guide*
 * [Pineappleea](https://pineappleea.github.io/) or [Yuzu-Updater](https://github.com/sinscove/Yuzu-Updater) - *Yuzu Updater*
 * [YuzuModDownloader](https://github.com/amakvana/YuzuModDownloader) - *Yuzu Mod Downloader*
@@ -387,6 +388,7 @@
 * [2amGames](http://www.2amgames.com/)
 * [Untly](https://www.untly.com/)
 * [N-Arcade](https://n-arcade.io/) 
+* [watabou](https://watabou.itch.io/)
 * [Key Games](https://keygames.com/) 
 * [MiniGames](https://www.minigames.com/)
 * [Gaming Wonderland](https://www.gamingwonderland.com/)
@@ -574,6 +576,7 @@
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - *Online Jigsaw Puzzles*
 * [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - *Solve a Rubix Cube / [Solver](https://rubiksolve.com/), [2](https://bnice.ru/asolver/), [3](https://rubiks-cube-solver.com/)* 
 * [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&ia=answer) or [2048](https://play2048.co/) - *Play 2048*
+* [Flappy 2048](https://www.flappy-2048.com/) - *Flappy Bird Style 2048*
 * [PROXX](https://proxx.app/) - *Space Minesweeper*
 * [Rockbasher](https://www.rockbasher.com/) - *Retro Style Puzzle Game*
 * [Blocks](https://theblocks.netlify.app/) - *Puzzle Game* 
