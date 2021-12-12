@@ -1920,7 +1920,6 @@ Add the following commands to a search to manually scrape each site.
 * https://tr.mooser.workers.dev/0:/
 * https://td2.blinkdrive.workers.dev/ 
 * https://loxxi.somto811.workers.dev/
-* https://limitless.teamdrive305.workers.dev/0:/
 * https://mbot.mhub.workers.dev/
 * https://groups.google.com/g/kl-teamdrive
 * https://nsfw.blackpirate.workers.dev/0:/
