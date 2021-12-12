@@ -1551,6 +1551,7 @@ G) - *Create Discord RPCs*
 * **[File Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_download_managers)**, **[2](https://en.wikipedia.org/wiki/Comparison_of_download_managers)** - *Programs to Help Manage Downloads*
 * **[Windows File Explorers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_file_explorers)** - *Improved Windows File Explorers*
 * **[File Conversion Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_conversion_tools)** - *Tools to convert files*
+* **[Unzip / Compress Files](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_compression_programs)** - *File Unzippers / Compression Programs*
 * **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** - *Google Drive Tools Colab / [GitHub](https://github.com/biplobsd/OneClickRun) / [Features](https://i.imgur.com/hEHM7Vy.png)*
 * **[Mega-to-Google-Drive](https://github.com/cheems/Mega-to-Google-Drive)** - *Transfer Files from Mega to GDrive*
 * **[OpenWith](https://www.openwith.org/)** or [File.org](https://file.org/) - *Programs to Open any File Extension* 
@@ -1664,7 +1665,6 @@ G) - *Create Discord RPCs*
 * [File Juggler](https://www.filejuggler.com/) - *Organize Files Automatically*
 * [Shoko](https://github.com/shokoanime) - *Anime Catalog Automation* 
 * [Phockup](https://github.com/ivandokov/phockup) - *Organize Photo / Video Files by Date* 
-* [Compression Programs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_compression_programs) - *Compress and Unzip files*
 * [WeCompress](https://www.wecompress.com/) or [YouCompress](https://www.youcompress.com/) - *Online File Compressor* 
 * [czkawka](https://github.com/qarmin/czkawka) - *Remove Unnecessary Files* 
 * [DBAN](https://dban.org/) or [KillDisk](http://killdisk.com/killdisk-home.htm) - *Data Removal Tool* 
