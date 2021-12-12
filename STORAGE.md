@@ -1078,7 +1078,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Modded Minecraft Launchers
 
-**[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/) / [2](https://github.com/Aetopia/LCLPy) / [Tweaks](https://discord.gg/solartweaks) / [2](https://github.com/RichardDorian/Solar-Tweaks), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL)
+**[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/) / [Tweaks](https://discord.gg/solartweaks) / [2](https://github.com/RichardDorian/Solar-Tweaks), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL)
 
 ***
 
@@ -1151,7 +1151,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### News Feed Aggregators
 
-**[WebOasis News](https://weboas.is/news/)**, **[QotNews](https://news.t0.vc/)**, [spidr](https://spidr.today/), [All Sides](https://www.allsides.com/), [News Radius](https://newsradius.news/), [NewsLookup](http://www.newslookup.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/), [freepo.st](https://freepo.st/), [TechMeme](https://www.techmeme.com/m/), [Unfeeder](https://unfeeder.com/), [RealClearPolitics](https://www.realclearpolitics.com/), [Their News](https://www.their.news/), [Twuko](https://www.twuko.com/), [Lobsters](https://lobste.rs/​), [Blazing News](https://blazing-news.herokuapp.com/), [68k News](http://68k.news/), [Readspike](https://readspike.com/)
+**[WebOasis News](https://weboas.is/news/)**, **[QotNews](https://news.t0.vc/)**, [spidr](https://spidr.today/), [All Sides](https://www.allsides.com/), [NewsLookup](http://www.newslookup.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/), [freepo.st](https://freepo.st/), [TechMeme](https://www.techmeme.com/m/), [Unfeeder](https://unfeeder.com/), [RealClearPolitics](https://www.realclearpolitics.com/), [Their News](https://www.their.news/), [Twuko](https://www.twuko.com/), [Lobsters](https://lobste.rs/​), [Blazing News](https://blazing-news.herokuapp.com/), [68k News](http://68k.news/), [Readspike](https://readspike.com/)
 
 ***
 
@@ -1176,7 +1176,7 @@ Add the following commands to a search to manually scrape each site.
 * [ClickUp](https://clickup.com/)
 * [SSuite](https://www.ssuitesoft.com/software/ssuiteexcalibur.htm) 
 * [OpenOffice](https://www.openoffice.org)
-* [Office 365 Activation / Tutorial](https://youtu.be/ScL4qjE5-TE) - *[Activators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_onedrive_generators)*
+* [Office 365 Activators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_onedrive_generators)
 * [OfficeRTool](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/) - *Office 2016 Activation Tool* 
 
 ***
@@ -1184,11 +1184,11 @@ Add the following commands to a search to manually scrape each site.
 #### Onedrive Generators 
 
 * Note these also activate Office 365
-* **https://a1_free365.a1od.workers.dev/**
+* **[https://a1_free365.a1od.workers.dev/](https://a1_free365.a1od.workers.dev/)**
 * [free365](https://github.com/KusakabeSi/free365) - *Index*
 * https://xkx.me/
 * https://a1.zxd.workers.dev/
-* https://a1_sc.a1od.workers.dev/
+* [https://a1_sc.a1od.workers.dev/](https://a1_sc.a1od.workers.dev/)
 * https://azzzzzz.lx.workers.dev/
 * http://free.stulive.com/
 * https://a1.lx.workers.dev/
@@ -1293,7 +1293,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Persian Asian Drama Download
 
-[justvina](http://justvina.xyz/), [koreintv](https://koreintv.xyz/), [mykodram](http://mykodram.xyz/), [promovies](https://promovies.best/)
+[justvina](http://justvina.xyz/)
 
 ***
 
@@ -1330,7 +1330,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Portable Apps
 
-[Portapps](https://portapps.io/), [FC Portables](https://www.fcportables.com/), [Portable Freeware](https://www.portablefreeware.com/), [TheHouseOfPortable](https://thehouseofportable.com/), [freeportablesoftwares](https://sites.google.com/site/freeportablesoftwares/), [Windows Portable Apps](https://windowsportableapps.blogspot.com/), [PortableApps](https://portableapps.com/)
+[Portapps](https://portapps.io/), [FC Portables](https://www.fcportables.com/), [Portable Freeware](https://www.portablefreeware.com/), [TheHouseOfPortable](https://thehouseofportable.com/), [Windows Portable Apps](https://windowsportableapps.blogspot.com/), [PortableApps](https://portableapps.com/)
 
 ***
 
@@ -1463,7 +1463,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Privacy Guides
 
-[Surveillance Self-Defense](https://ssd.eff.org/), [Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/), [Defensive Computing Checklist](https://defensivecomputingchecklist.com/), [The New Oil](https://thenewoil.xyz/index.html), [Security In A Box](https://securityinabox.org/en/), [AvoidTheHack](https://avoidthehack.com/), [Eldritch Data](https://eldritchdata.neocities.org/), [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html) 
+[Surveillance Self-Defense](https://ssd.eff.org/), [Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/), [Defensive Computing Checklist](https://defensivecomputingchecklist.com/), [Security In A Box](https://securityinabox.org/en/), [AvoidTheHack](https://avoidthehack.com/), [Eldritch Data](https://eldritchdata.neocities.org/), [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html) 
 
 ***
 
