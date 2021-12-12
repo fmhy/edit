@@ -270,7 +270,7 @@
 * [AnimePahe](https://animepahe.com/) - *Sub / [Downloader](https://github.com/charathmathew/animepahe_downloader), [2](https://github.com/ed-archer/animepahe-dlr), [3](https://github.com/notmarek/pyheanime)*
 * [AniKuru](https://anikuru.me/) - *Sub / Dub*
 * [AnimehHub](https://animehub.ac/) - *Sub / Dub*
-* [Animesa](https://animesa.ga/) - *Sub / Dub*
+* [Animesaga](https://animesa.ga/) - *Sub / Dub*
 * [11Anime](https://11anime.fr/) - *Sub / Dub*
 * [123Anime](https://123animes.ru/) - *Sub / Dub*
 * [AnimeLon](https://animelon.com/) - *Sub / Learn Japanese*
