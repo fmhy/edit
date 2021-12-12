@@ -2071,7 +2071,7 @@ Add the following commands to a search to manually scrape each site.
 * [GdriveXbot](https://t.me/GdriveXbot), [HK_upload_bot](https://t.me/HK_driveupload_bot), [gdrive_upload_bot](https://t.me/gdrive_upload_bot), [driveuploadbot](https://t.me/driveuploadbot) or [gdriveupme_bot](https://t.me/gdriveupme_bot) - *Google Drive Telegram upload bots* 
 * [Google Drive Bot](https://t.me/Gdriveit_bot) - *Google Drive Client in Telegram*
 * [SearchX](https://github.com/iamLiquidX/SearchX) - *Telegram GDrive Search Bot*
-* [UploadBots](https://t.me/UploadBots), [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [UptoTGbot](https://t.me/UptoTGbot), [Uploader Bot X](https://t.me/url_uploadbot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot), [UploadURL](https://t.me/UploadsRobot) or [UploadDxbot](https://t.me/UploadDxbot) - *Upload Files to Telegram*  
+* [UploadBots](https://t.me/UploadBots), [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot), [UploadURL](https://t.me/UploadsRobot) or [UploadDxbot](https://t.me/UploadDxbot) - *Upload Files to Telegram*  
 * [Public Link Bot](https://t.me/Tg2extbot), [AIO Uploader](https://t.me/aiouploaderbot) or [GetPublicLinkBot](https://t.me/GetPublicLinkBot), [FileUploaderBot](https://t.me/FileUploaderBot), [filestolinksbot](https://t.me/filestolinksbot), [highspeedlinksbot](https://t.me/highspeedlinksbot), [LinkForFilebot](https://t.me/LinkForFilebot), [KL_GetPublicUrlBot](https://t.me/KL_GetPublicUrlBot) - *Telegram to File Host Upload Bot*   
 * [mediainforobot](https://t.me/mediainforobot) - *Media File Info*
 * [MediaDownBot](https://t.me/mediadownbot) - *Social Media Downloader*
@@ -2080,7 +2080,6 @@ Add the following commands to a search to manually scrape each site.
 
 #### Telegram eBook Download
 
-* https://t.me/mfmixebooks
 * https://t.me/joinchat/AAAAAEhdftsJgcQnPx0O7A
 * https://t.me/joinchat/AAAAAEzJPHplxAzxEO8p-A
 * https://t.me/best_bookshelf
