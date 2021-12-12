@@ -1873,7 +1873,6 @@ Add the following commands to a search to manually scrape each site.
 * https://td.hackgence.com/
 * https://teamdrive.mfoxx.workers.dev/
 * https://team.gdrive.vip/
-* https://td.ultraindex.workers.dev/
 * https://gd.zxd.workers.dev/
 * https://driveflask.herokuapp.com/
 * https://www.apioffice.workers.dev/#form
@@ -1883,11 +1882,10 @@ Add the following commands to a search to manually scrape each site.
 * https://install.kenci.workers.dev/
 * https://cn365.a1od.workers.dev/
 * https://free.kits.workers.dev/#mdui-dialog
-* https://a1_sc.a1od.workers.dev/#form
+* [https://a1_sc.a1od.workers.dev/#form](https://a1_sc.a1od.workers.dev/#form)
 * https://azure.starter.workers.dev/#form
 * https://tv.ssr.workers.dev/
 * https://td.msgsuite.workers.dev/ + [Telegram Chat](https://t.me/msgsuitechat)
-* https://team.leehaiha.com/
 * https://tb.mygindex.workers.dev/
 * https://team.isumit.workers.dev/
 * https://bdi-generator.hashhackers.com/ (Code Generator)
