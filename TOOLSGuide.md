@@ -29,6 +29,7 @@
 * [Internet Live Stats](https://www.internetlivestats.com/) - *Live Internet Statistics*
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - *World Birth / Death Rates Visualization*
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - *Gun Violence Information Database*
+* [OEC](https://oec.world/en) - *International Trade Data Visualization*
 * [Global Consciousness Project](https://gcpdot.com/) - *Real-Time Global Consciousness Data*
 * [The Measure Of Things](https://www.bluebulbprojects.com/measureofthings/default.php) - *Comparative / Relative Quantity Measurements* 
 * [Compare Sizes](https://comparesizes.com/) - *Size Comparison Tool* 
@@ -64,11 +65,13 @@
 * [DoINeedAJacket](https://doineedajacket.com/weather/), [DogeWeather](http://dogeweather.com/), [ForcastAdvisor](https://www.forecastadvisor.com/) or [wttr](https://wttr.in/) - *Simple Weather Reports*
 * [World Weather Online](https://www.worldweatheronline.com/) - *Historical Weather Reports*
 * [Cricket Convert](https://www.weather.gov/epz/wxcalc_cricketconvert) - *Estimate Temperature via Cricket Chirps*
+* [BreezoMeter](https://www.breezometer.com/) - *Air Quality Reports*
 * [RTL-SDR](https://gist.github.com/fasiha/c123a9c6b6c78df7597bb45e0fed808f) - *DIY FAA & EASA Satellite Feeds / Transponder*
 * [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/) or [Random Lists](https://www.randomlists.com/) - *Generate Anything*
 * [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - *Wheel Randomizer*
 * [PollCode](https://pollcode.com/) - *Poll Creator*
 * [Diff Checker](https://www.diffchecker.com/) - *Check for differences in Text, Images, PDFs or Files*
+* [Find Your Place](https://where-is-this.com/) - *Find Places from Pictures*
 * [IRuler](https://iruler.net/) - *Turn your device into a Ruler*  
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) or [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools) - *Digital Forensics Tools*  
 * [Chaotic Shiny](http://chaoticshiny.com/) - *Fantasy Writing Generator* 
@@ -456,6 +459,7 @@
 ## ▷ Career Tools
 
 * **[Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)** - *Create Resumes for Free*
+* [LoopCV](https://www.loopcv.pro/) - *Automated Job Search Tool*
 * [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) - *Successful Resume Samples*
 * [CoFolios](https://cofolios.com/) - *Portfolio Sharing*
 * [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) - *Common Interview Questions & Answers*
@@ -492,9 +496,12 @@
 * [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - *Test Internet Speed*
 * [OONI](https://ooni.org/) - *Test Site Blocking / Network Speed*
 * [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) - *OpenSSH Client / Server*
+* [TCP Optimizer](https://www.speedguide.net/downloads.php/) - *Network Optimizer*
 * [NetLimiter](https://www.netlimiter.com/) or [Netbalancer](https://netbalancer.com/) - *Internet Traffic Control / Monitor* 
-* [Natlas](https://github.com/natlas/natlas) - *Scaling Network Scanning* 
-* [Nmap](https://nmap.org/) - *Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)* 
+* [Natlas](https://github.com/natlas/natlas) or [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) - *Network Scanner* 
+* [Arcai](https://arcai.com/) - *WiFi Speed Control*
+* [Nmap](https://nmap.org/) - *Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)*
+* [Elmocut](https://github.com/elmoiv/elmocut) or [SelfishNetV3](https://github.com/nov0caina/SelfishNetV3) - *ARP Spoofer / Kick Users from WiFi* 
 * [FNSRWR](https://github.com/dannyvoid/FNSRWR) - *Reset Windows Network Stack*
 * [AreWeDown?](https://github.com/shukriadams/arewedown) - *HTTP Uptime Monitor*
 * [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - *Web Service Coverage Map*
@@ -509,7 +516,7 @@
 * [Consuming The World](https://weboas.is/forum/index.php?topic=656.0), [All about RSS](https://github.com/AboutRSS/ALL-about-RSS) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - *RSS Feeds & Tools*
 * [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - *GitHub, Reddit, Hacker News & other Feeds*
 * [sheet-posting](https://www.sheet-posting.me/) - *Convert Google Spreadsheets into Blogs & RSS Feeds*
-* [AutoSolve Captcha](https://hackgence.com/d/55-how-to-bypass-hcaptcha-autosolve-captcha) - *How to Bypass hCaptcha* 
+* [Clovery](https://webcatalog.io/clovery/) - *Multi-Google App Program*
 * [hcaptcha-solver](https://github.com/JimmyLaurent/hcaptcha-solver) - *hCaptcha Solver* 
 * [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - *Archive, Scrape & Crawl Sites* 
 * [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/, [urlwatch](https://thp.io/2008/urlwatch/) or [FollowThatPage](https://followthatpage.com/) - *Page Change Detection / Notification* 
@@ -650,7 +657,7 @@
 * [Ghost Browser](https://ghostbrowser.com/) - *Multi-Session Browser*
 * [woob](https://woob.tech/) - *Use Sites Without a Browser*
 * [Lagrange](https://github.com/skyjake/lagrange)  - *Gemini Browser*
-* [StockBrowser](https://stackbrowser.com/) - *Multi Web App Browser*
+* [StockBrowser](https://stackbrowser.com/) or [Tangram](https://github.com/sonnyp/Tangram) - *Web App Browser*
 * [Browserling](https://www.browserling.com/) - *Browser Emulators*
 * [n.eko](https://n.eko.moe/) - *Self-Hosted Virtual Browser*
 * [Safari Windows](https://mega.nz/file/zqoEWZaQ#qNAN8JnV_79gII4ofMs4ZwMAcydZAQw6Gdng_QEyNDw) - *Safari for Windows*
@@ -752,7 +759,7 @@ General Reading Sites*
 * **[git.io](https://git.io/)** - *GitHub URL Shortener*
 * **[Check if Sites are Down](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_down_site_checkers)** - *Check if a site is down for just you or everyone* 
 * **[Universal Encoding Tool](https://unenc.com/)** - *Encoding / Decoding Tools*
-* **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)**, [Base64 E/D](https://apps.maximelafarie.com/base64/), [Hackgence](https://base64.hackgence.com/) or [URL Encode/Decode](https://www.url-encode-decode.com/) - *Base64 Encode and Decode / [Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_base64_decode_extensions)*
+* **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)**, [Base64 E/D](https://apps.maximelafarie.com/base64/) or [URL Encode/Decode](https://www.url-encode-decode.com/) - *Base64 Encode and Decode / [Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_base64_decode_extensions)*
 * **[t.ly](https://t.ly/)** - `t.ly/qqH6`
 * **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
 * [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
@@ -1048,7 +1055,7 @@ G) - *Create Discord RPCs*
 * **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** or [yt dislikes viewer](https://github.com/pgamerx/yt-dislikes-viewer) - *View YouTube Dislikes / [Discord](https://discord.com/invite/mYnESY4Md5)*
 * **[SponsorBlock](https://sponsor.ajay.app/)** - *Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)*
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
-* [YouTube Spammer Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge) - *Delete All YouTube Spammer Comments*
+* [YouTube Spammer Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge) - *Delete All YouTube Spam Comments*
 * [YouTube Encoding Guide](https://support.google.com/youtube/answer/1722171) - *Recommended YouTube Encoding Settings*
 * [TubeSync](https://github.com/meeb/tubesync) - *Sync YouTube Channels / Playlists to a Media Server*
 * [Invidious](https://tube.cadence.moe/), [ViewTube](https://viewtube.io/) / [GitHub](https://github.com/ViewTube/viewtube-vue), [Piped](https://github.com/TeamPiped/Piped) or [Youtube-local](https://github.com/user234683/youtube-local) - *YouTube Frontend / [Instances](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)* 
@@ -1069,6 +1076,7 @@ G) - *Create Discord RPCs*
 * [Unlisted Videos](https://unlistedvideos.com/) - *Watch / Submit Unlisted YouTube Videos*
 * [QuiteAPlaylist](https://quiteaplaylist.com/) - *Find Deleted YouTube Videos*
 * [Hobune](https://hobune.stream/) - *Deleted YouTube Video Archive*
+* [Recover My Video](https://www.recovermy.video/) - *Recover Titles of Deleted / Private YouTube Videos*
 * [youtubecrawl](https://archive.org/details/youtubecrawl) - *YouTube Video Archive*  
 * [TwitchTheater](https://twitchtheater.tv/), [YouTube Multiplier](http://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - *Watch Multiple YouTube Videos* 
 * [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) - *Video Web Player*
@@ -1113,7 +1121,7 @@ G) - *Create Discord RPCs*
 * [Trash Youtube Recommendations](https://chrome.google.com/webstore/detail/trash-youtube-recommendat/dkomodiphnbnnfaokdokdjejjgafoffi) - *Removes YT Recommendations*
 * [RegretsReporter](https://foundation.mozilla.org/en/campaigns/regrets-reporter/) - *Report Regrettable YouTube Recommendations* 
 * [YT Not Interested Button on Hover](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - *Easily Display Not Interested Button*
-* [RapidTags](https://www.rapidtags.io/) - *YouTube Tag Generator*
+* [RapidTags](https://www.rapidtags.io/) or [CommunityTags](https://www.communitytags.app/) - *YouTube Tag Generator*
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - *YouTube Live Stream Translator* 
 * [amara](https://amara.org/en/) - *Add Subs to Youtube Videos*
 * [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - *Styled YouTube Subtitles*
@@ -1240,7 +1248,7 @@ G) - *Create Discord RPCs*
 * **[Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png)**, [2](https://i.imgur.com/A36Yd7F.png) 
 * [Windows 10 Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)
 * [Operating System Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_os_emulators) - *Emulate Alternate OS*
-* [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) / [GitHub](https://github.com/microsoft/PowerToys) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
+* [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) / [GitHub](https://github.com/microsoft/PowerToys), [CWCodes](http://cwcodes.net/) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
 * [PCPartPicker](https://pcpartpicker.com/), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), [/r/buildapc](https://reddit.com/r/buildapc) or [NZXTBld](https://www.letsbld.com/) - *PC Building Sites / [Discord](https://discord.gg/buildapc)*
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - *PC Building Community*
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC)  - *PC Suggestion Community / [Discord](https://discord.gg/TmNgXbwrqJ)*
@@ -1368,6 +1376,7 @@ G) - *Create Discord RPCs*
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - *Re-Map Mouse Buttons & Scroll Wheel*
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - *Windows Tweaks*
 * [Win10 Widgets](https://win10widgets.com/), [BeWidgets](https://www.microsoft.com/en-us/p/bewidgets/9nq07fg50h2q) or [Gadgets Revived](https://gadgetsrevived.com/) - *Widgets for Windows* 
+* [Übersicht](https://tracesof.net/uebersicht/) - *System Command Widgets*
 * [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - *Windows API Tricks*
 * [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - *Windows 10 Auto Dark Mode*
 * [f.lux](https://justgetflux.com/), [LightBulb](https://github.com/Tyrrrz/LightBulb), [Redshift](https://github.com/jonls/redshifthttp://jonls.dk/redshift/) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - *Adjust Display Color / Tempature*
@@ -1435,6 +1444,7 @@ G) - *Create Discord RPCs*
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/) or [MobaXterm](https://mobaxterm.mobatek.net/) - *Alternative Terminal* 
 * [ss64](https://ss64.com/) - *Command Line Reference Index*
 * [Alacritty](https://github.com/alacritty/alacritty), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://eugeny.github.io/tabby/) or [Terminus](https://github.com/Eugeny/terminus) - *Terminal Emulator*
+* [XTerm](https://invisible-island.net/xterm/) - *X Window System Terminal Emulator*
 * [Mintty](http://mintty.github.io/) - *Cygwin Terminal Emulator* 
 * [eDEX-UI](https://github.com/GitSquared/edex-ui) - *Sci-Fi Terminal Emulator / System Monitor*
 * [asciinema](https://asciinema.org/) - *Record Terminal Sessions*
@@ -1637,7 +1647,7 @@ G) - *Create Discord RPCs*
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - *HTTP File System*
 * [FolderClone](http://www.folderclone.com/) - *Clone / Backup Folders*
 * [Borg](https://www.borgbackup.org/) - *Deduplicating File Archiver / Backup* 
-* [BackupPC](https://backuppc.github.io/backuppc/), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [UrBackup](https://www.urbackup.org/) or [Duplicati](https://www.duplicati.com/) - *File Backup System* 
+* [BackupPC](https://backuppc.github.io/backuppc/), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [UrBackup](https://www.urbackup.org/), [FastCopy](http://fastcopy.jp/) or [Duplicati](https://www.duplicati.com/) - *File Backup Tool* 
 * [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) - *Web-Based File Browser*
 * [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/) or [Securedrop](https://securedrop.org/) - *Document File Sharing*
 * [OpenPaper](https://openpaper.work/en/) or [DataShare](https://datashare.icij.org/) - *Document Manager*
