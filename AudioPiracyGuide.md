@@ -188,7 +188,7 @@
 
 ## ▷ Download Apps
 
-* **[SlavDoge DL](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9kaXNjb3JkLmdnL2hmc21xNnZkd3A=.RkJJ)** - *Qobuz & Tidal Download Bot*
+* **[SlavDoge DL](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9kaXNjb3JkLmdnL2d3eFJmNnlTR0s.RkJJ)** - *Qobuz & Tidal Download Bot*
 * **[DoubleNegative](https://doublenegative.io/)**, [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - *Deezer & Tidal Music Downloaders*
 * **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - *Download from Spotify*
 * **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
