@@ -2358,7 +2358,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Video Hosting Sites
 
-[mixdrop](https://mixdrop.co/), [vudeo (8tb)](https://vudeo.net/), [abcvideo (300gb)](https://abcvideo.cc/), [vidyard](https://www.vidyard.com/), [streamzz](http://streamzz.to/), [streamtape](https://streamtape.com/), [doodstream](https://doodstream.com/), [aparat](https://aparat.cam/), [supervideo](https://supervideo.tv/), [ninjastream](https://ninjastream.to/), [youdbox](https://youdbox.com/), [cloudvideo](https://cloudvideo.tv/),  [powvideo](http://powvideo.net/), [upstream](https://upstream.to/), [videobin](https://videobin.co/), [vidlox](https://vidlox.me/), [streamable](https://streamable.com/), [abyss](https://abyss.to/), [NetU](https://netu.io/view_page.php?pid=4), [voe.sx](https://voe.sx/), [videy](https://videy.co/), [wolfstream](https://wolfstream.tv/), [flashx](https://flashx.pw/), [userload](https://userload.co/), [vidcloud](https://vidcloud.co/), [vidoza](https://vidoza.net/), [youdbox](https://youdbox.net/), [fileone](https://fileone.tv/), [streamlare](https://streamlare.com/), [videovard](https://videovard.to/), [streamsb](https://www.streamsb.com/, [HighStream](https://highstream.tv/), [uqload](https://uqload.com/), [anavidz](https://anavidz.com/), [vupload](https://vupload.com/), [vidbm](https://www.vidbm.com/), [speedostream](https://www.speedostream.com/)
+[mixdrop](https://mixdrop.co/), [vudeo (8tb)](https://vudeo.net/), [vidyard](https://www.vidyard.com/), [streamzz](http://streamzz.to/), [streamtape](https://streamtape.com/), [doodstream](https://doodstream.com/), [aparat](https://aparat.cam/), [supervideo](https://supervideo.tv/), [ninjastream](https://ninjastream.to/), [youdbox](https://youdbox.com/), [cloudvideo](https://cloudvideo.tv/),  [powvideo](http://powvideo.net/), [upstream](https://upstream.to/), [videobin](https://videobin.co/), [streamable](https://streamable.com/), [abyss](https://abyss.to/), [NetU](https://netu.io/view_page.php?pid=4), [voe.sx](https://voe.sx/), [videy](https://videy.co/), [wolfstream](https://wolfstream.tv/), [flashx](https://flashx.pw/), [userload](https://userload.co/), [vidcloud](https://vidcloud.co/), [vidoza](https://vidoza.net/), [youdbox](https://youdbox.net/), [fileone](https://fileone.tv/), [streamlare](https://streamlare.com/), [videovard](https://videovard.to/), [streamsb](https://www.streamsb.com/), [HighStream](https://highstream.tv/), [uqload](https://uqload.com/), [anavidz](https://anavidz.com/), [vupload](https://vupload.com/), [speedostream](https://www.speedostream.com/)
 
 ***
 
@@ -2404,7 +2404,6 @@ Good for finding classic, obscure & short films.
 * [OxDB](https://0xdb.org/) 
 * [bilibili](https://www.bilibili.com/)
 * [rutube](https://rutube.ru) - *account needed*
-* [nicogame](https://www.nicogame.info) 
 * [nicovideo](https://www.nicovideo.jp/) 
 * [Veoh](https://www.veoh.com/)
 * [lbry](https://lbry.tv/)
