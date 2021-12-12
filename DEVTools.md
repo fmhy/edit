@@ -127,8 +127,7 @@
 # ► Developer Tools
 
 * **[List.community](https://list.community/)** - *Programming / Development GitHub Lists* 
-* [free-for.dev](https://free-for.dev/) or [SmallDev.tools](https://smalldev.tools/) - *Developer Tools*
-* [WebdevHome](https://webdevhome.github.io/), [Free Dev stuff](https://freestuff.dev/) or [Tiny Tools](https://tinytools.directory/) - *Programming / Developer Tools*
+* [free-for.dev](https://free-for.dev/), [JetBrains](https://jetbrains.com/) / [Trial Reset](https://rentry.org/52oyb), [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse](https://www.eclipse.org/), [Free Dev stuff](https://freestuff.dev/) or [Tiny Tools](https://tinytools.directory/) - *Developer Tools*
 * [ReverseEagle](https://forge.tedomum.net/groups/ReverseEagle/-/archived), [2](https://web.archive.org/web/20210116205638/https://developers.reverseeagle.org/) - *Privacy Focused Developer Software*
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - *Open Source Development Software*
 * [Student Developer Pack](https://education.github.com/pack) - *Free Developer Tools for Students* 
@@ -148,6 +147,7 @@
 * [Mockable](https://www.mockable.io/) - *Mock APIs*
 * [Pipedream](https://pipedream.com/) - *Connect APIs / [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)*
 * [Perspective API](https://www.perspectiveapi.com/) - *Toxicity Reduction API*
+* [Mysterium Network](https://www.mysterium.network/) - *Open Web Protocol*
 * [Webhook.site](https://webhook.site/) - *Webhook Tool*
 * [GetLorem](https://getlorem.com/) - *Filler Text Generator*
 * [Scoop](https://www.scoop.it/) - *Content Curation Tool*
@@ -203,6 +203,7 @@
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/) - *Site Development Tools*
 * [Uncensorable Publishing](https://uncensorablepublishing.com/) - *Create Hard to Censor Sites*
 * [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [Graphic Design Elements](https://onehack.us/t/get-20-000-graphic-design-elements/155320), [ImCreator](http://www.imcreator.com/free), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/) or [Freebiesbug](http://freebiesbug.com/)  - *Web Design Resources*
+* [Flux](https://www.runonflux.io/) - *Decentralized Cloud Infrastructure*
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
 * [xWebTools](https://www.xwebtools.com/) - *Web Developer Tools*
 * [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [BulkLink](http://bulklink.org/) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization Tools*
@@ -227,7 +228,10 @@
 * [Responsivize](https://virejdasani.github.io/Responsivize/) - *Website Responsiveness Test*
 * [PageSpeed](https://developers.google.com/speed/pagespeed/insights/) - *Test Webpage Speed*
 * [Shisho](https://shisho.dev/) - *Infrastructure Code Security Patcher*
-* [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - *All the ways HTTP Sites can Leak*
+* [Security Onion Solutions](https://securityonionsolutions.com/) - *Site Security Monitor*
+* [Teler](https://github.com/kitabisa/teler) - *HTTP Intrusion Detection*
+* [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - *HTTP Sites Leak Information*
+* [WebScarab](https://wiki.owasp.org/index.php/Category:OWASP_WebScarab_Project) - *HTTP / HTTPS Protocol Analysis*
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist* 
 * [Flounder](https://flounder.online/) - *Gemini Website Builder / [GitHub](https://github.com/alexwennerberg/flounder)* 
 * [GoHugo](https://gohugo.io/), [Potion](https://www.potion.so/) or [8b](https://8b.com/) - *Website Creator*
@@ -281,10 +285,12 @@
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - *Search & Analytics Engine*
 * [Algolia](https://www.algolia.com/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/) or [FusionBot](https://www.fusionbot.com/) - *Search API*
 * [GetButton](https://getbutton.io/) - *Get free 'Message Us' Button for your Site*
+* [Tawk](https://www.tawk.to/) - *Website Chat & Ticketing System*
 * [Error404](https://error404.fun/) - *Free 404 Pages*
 * [HandShake](https://handshake.org/) - *Decentralized Certificate Authority & Naming*
 * [Let's Encrypt](https://letsencrypt.org/) - *Free TLS Certificates*
 * [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - *Free SSL Certificates*
+* [OpenSSL](https://www.openssl.org/) - *SSL / TLS Toolkit*
 * [Amazon S3](https://aws.amazon.com/s3) - *Cloud Object Storage Amazon Simple Service Storage*
 * [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - *Email Verification Service*
 * [Hosts.cx](https://hosts.cx/) - *Website Previews*
@@ -315,6 +321,7 @@
 * [Nulled Scripts](https://www.nullscripts.net/) or [WPFIC](https://www.wpfic.com/) - *Wordpress & Bulletin Board Scripts*
 * [faustjs](https://github.com/wpengine/faustjs) - *Wordpress Framework*
 * [Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes) - *Themes for Wordpress*
+* [Wordpress Plugins](https://mega.nz/folder/OFg2gCKY#fkvmzxtyY-87lx9QCesyiw) - *Wordpress Plugin Drive*
 * [Elementor Kit](https://mega.nz/folder/mEkDBSYI#WZVE8ptR90ZH00nBzmDIOw) - *1400+ Elementor Premium Templates*
 * [KokoAnalytics](https://www.kokoanalytics.com/) - *Wordpress Analytics*
 * [vichan](https://github.com/vichan-devel/vichan) - *Imageboard Hosting*
@@ -330,6 +337,7 @@
 * [Theos](https://theos.dev/) - *Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)*
 * [Servo](https://servo.org/) - *Experimental Browser Engine*
 * [Gummy](https://gummyjs.vercel.app/) - *Easily Build Javascript Programs* 
+* [NASM](https://www.nasm.us/) - *Program Assembler*
 * [GNUnet](https://gnunet.org/en/) - *Software Framework* 
 * [Kuker](https://github.com/krasimir/kuker) - *Debug Applications* 
 * [BugSnag](https://www.bugsnag.com/) - *Application Stability Monitor*
@@ -565,6 +573,8 @@
 * [editorcornfig](http://editorconfig.org/) - *Maintain consistent code styles across editors*
 * [overmind](https://github.com/DarthSim/overmind) or [foreman](https://github.com/ddollar/foreman) - *Process Managers*
 * [cpp.sh](http://cpp.sh/) - *Online C++ Compiler*
+* [Clang](https://clang.llvm.org/) - *C Language Family Frontend*
+* [GCC](https://gcc.gnu.org/) - *GNU Compiler Frontends*
 * [asdf](https://asdf-vm.com/) - *Multi-Runtime Management CLI*
 * [substitute](https://github.com/comex/substitute) - *Free Runtime Modification Library*
 * [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) - *Machine Learning Art Resource Index* 
@@ -614,7 +624,6 @@
 
 * **[goormIDE](https://ide.goorm.io/)**, [Codeanywhere](https://codeanywhere.com/), [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [Anyfiddle](https://www.anyfiddle.com/) or [Glitch](https://glitch.com/) - *Cloud IDE / [Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) / [Themes](https://oslo-vsc.netlify.app/)* 
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - *Text / Code Collaboration Tools*
-* [Jetbrains Ultimate IDEs](https://rentry.org/52oyb) - *Jetbrains Ultimate IDEs Trial Reset Guide*
 * [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - *Cloud Platform Index*
 * [CodeSandbox](https://codesandbox.io/), [VSCodium](https://vscodium.com/), [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VSCode* 
 * [vscode.dev](https://vscode.dev/) - *VSCode in Browser*
@@ -625,12 +634,13 @@
 * [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) - *Integrate Twitch Chat in VSCode*
 * [Openshift](https://che.openshift.io/) - *Cloud IDE / Eclipse Che* 
 * [TerraForm](https://www.terraform.io/) - *Cloud IDE*
+* [Apache NetBeans](https://netbeans.apache.org/) - *Cloud IDE*
 * [m3o](https://m3o.com/) - *Cloud IDE / [GitHub](https://github.com/m3o/m3o)*
 * [Arduino](https://www.arduino.cc/) - *Cloud IDE*
 * [replit](https://replit.com/) - *Browser Based IDE*
 * [KDevelop](https://www.kdevelop.org/) - *Cross Platform IDE*
 * [bloop](https://bloop.ai/) - *IDE AI Suggestion Extension*
-* [JDFiddle](https://jsfiddle.net/ ), [W3Schools](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python), [CollabEdit](http://collabedit.com/), [Portacode](https://portacode.com/), [IDE One](https://www.ideone.com/), [SoloLearn](https://www.sololearn.com/) / [Playground](https://code.sololearn.com/), [JSFiddle](https://jsfiddle.net/) or [PlayCode](https://playcode.io/) - *Online Code Editor* 
+* [JDFiddle](https://jsfiddle.net/), [W3Schools](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python), [CollabEdit](http://collabedit.com/), [Portacode](https://portacode.com/), [IDE One](https://www.ideone.com/), [SoloLearn](https://www.sololearn.com/) / [Playground](https://code.sololearn.com/), [JSFiddle](https://jsfiddle.net/) or [PlayCode](https://playcode.io/) - *Online Code Editor* 
 * [glot.io](https://glot.io/) - *Pastebin with Runnable Snippets, API & Compiler* 
 * [Mystb.in](https://mystb.in/) - *Code Pastebin*
 * [myCompiler](https://www.mycompiler.io/), [IDE One](https://www.ideone.com/) or [Wandbox](https://wandbox.org/) - *Online Compiler* 
