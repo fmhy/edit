@@ -1256,7 +1256,7 @@ Portuguese
 
 * [rezka](https://rezka.ag/) - *Movies / TV / Anime*
 * [baskino](http://baskino.me/) - *Movies*
-* [Kinogo](https://kinogo.la/) - *Movies / TV / Anime / [Telegram](https://t.me/kinogoby)*
+* [Kinogo](https://kinogo.la/), [2](https://kinogo-net.org/) - *Movies / TV / Anime / [Telegram](https://t.me/kinogoby)*
 * [Kinotochka](https://kinotochka.co/) - *Movies / TV / Anime*
 * [NotAlone](https://www.notalone.tv/) - *Movies / TV*
 * [filmix](https://filmix.co/) - *Movies*
@@ -1264,7 +1264,6 @@ Portuguese
 * [Zetflix](https://zetflix.pro/) - *Movies / TV*
 * [RussianFilmHub](https://russianfilmhub.com/) - *Movies / TV*
 * [viho.live](https://viho.live/) - *Movies / TV / Anime* 
-* [KinoGo](https://kinogo-net.org/) - *Movies / TV / Anime*
 * [EX-FS](https://ex-fs.net/ ) - *Movies / TV / Anime*
 * [hdzo](https://hdzo.tv/) - *Movies / TV*
 * [seasonvar](http://seasonvar.ru/) - *TV*
