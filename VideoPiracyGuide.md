@@ -387,7 +387,7 @@
 
 ## ▷ Sports Streaming
 
-* **[NBAFullHD](https://nbafullhd.com/)**, [NBAFile](https://nbafile.com/) or [NBAHDReplay](https://nbahdreplay.com/) - *Full NBA games*
+* **[NBAFullHD](https://nbafullhd.com/)**, [NBAFile](https://nbafile.com/), [NBAHD](https://nbahd.com/) or [NBAHDReplay](https://nbahdreplay.com/) - *Full NBA games*
 * **[F1 Full Races](https://f1fullraces.com/)** - *F1 Replays* 
 * **[AllWrestling](http://www.allwrestling.live/)** - *MMA / Wrestling*
 * [FullMatchReplay](https://www.fullmatchesreplay.com/) - *Sports Replays*
