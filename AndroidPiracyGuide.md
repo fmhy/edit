@@ -546,6 +546,7 @@
 * [Cunrchyroll Mod](https://forum.mobilism.org/search.php?keywords=crunchyroll&amp;sr=topics&amp;sf=titleonly) - *Anime / Premium Crunchyroll*
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
 * [Arthemis](https://app.arthemis.xyz/) - *Movies / TV / Anime*
+* [HDO](https://hdo.app/) - *Movies / TV*
 * [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - *Movies / TV / Anime* 
 * [PopcornTime](http://popcorn-ru.tk/build/) - *Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * [BeeTV](https://beetvapp.me/) or [NovaTV](https://novatv.app/) - *Movies / TV / Anime / Chromecast*
