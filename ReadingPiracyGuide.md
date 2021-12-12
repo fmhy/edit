@@ -378,6 +378,7 @@
 * [Math and Physics Books](https://drive.google.com/drive/folders/1Z30-9EO6B0oEuFHYMKUzzzEO6p82-dYU) - *[Discord](https://discord.gg/v23hTtx)*
 * [Library Drive](https://mega.nz/folder/bbwn0IrI#fwxcM4YiLJTO-HoiGBKRjg)
 * [Openstax](https://openstax.org/) 
+* [MyAnonaMouse](https://www.myanonamouse.net/) - *[Interviews](https://www.myanonamouse.net/inviteapp.php)*
 * [Online Books Page](https://onlinebooks.library.upenn.edu/) 
 * [The Literature Network](http://www.online-literature.com/) 
 * [Memory of the World](https://library.memoryoftheworld.org/#/books/) 
@@ -446,6 +447,7 @@
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - *Electronics* 
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - *Electronics Schematics & Simulations*
 * [159.69.3.96](http://159.69.3.96/ebooks/) - *IT Books*
+* [Explanations](https://magcius.github.io/xplain/article/) - *Advanced Computer Explanations*
 * [Bash Academy](https://guide.bash.academy/) - *Bash Shell Guide*
 * [Cyber Security & IT](https://mega.nz/folder/9kxTnLCI#BThv3CtkC27JqcJ4ZWD_cA) - *Cyber Security / IT Books & Courses*
 * [biorxiv](https://www.biorxiv.org/) - *Biology Preprints*
@@ -608,6 +610,7 @@
 * [NAP](https://www.nap.edu/) - *Reports*
 * [WikiLeaks](https://search.wikileaks.org/) - *WikiLeaks Search* 
 * [CensorBib](https://censorbib.nymity.ch/) - *Internet Censorship Research Papers*
+* [Constitute Project](https://www.constituteproject.org/) - *World Constitutions Database*
 * [ArmyPubs](https://armypubs.army.mil/) - *Military Documents & Manuals*
 * [NASA NTRS](https://ntrs.nasa.gov/search.jsp) - *NASA Documents*
 * [Ariadne](http://ariadne2.isti.cnr.it/) - *Archaeological Datasets* 
@@ -927,6 +930,7 @@
 * [BookCrush Newsstand](https://t.me/BookCrushNewsstand) - *Telegram*
 * [WhatsNws](https://t.me/whatsnws) - *Telegram*
 * [World Mags](https://www.worldmags.net/)
+* [PDF Dude](https://pdfdude.com/) 
 * [World of Magazine](https://www.worldofmagazine.com/)
 * [PDF Magazines Download](https://pdf-magazines-download.com/)
 * [PDF Magaz](https://www.pdfmagaz.in/)
@@ -984,11 +988,10 @@
 * **[GoodReads](https://www.goodreads.com/)** - *Books / Comics / Manga / [DL Button](https://github.com/laxyapahuja/bunken)*
 * **[MyAnimeList](https://myanimelist.net/)** - *Manga*
 * **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - *Comics*
-* **[TasteDive](https://tastedive.com/)** - *Recommendations* 
+* **[TasteDive](https://tastedive.com/)**, [Reddit Reads](https://www.redditreads.com/), [What Should I Read Next?](https://www.whatshouldireadnext.com/), [RecommendMeABook](https://recommendmeabook.com/) or [WhichBook](https://www.whichbook.net/) - *Book Recommendations* 
+* [Litsy](https://www.litsy.com/) - *Book Recommendation / Photo Sharing Community*
 * [5000 Best](http://5000best.com/) - *Top 5000 Books*
 * [listal](https://www.listal.com/) - *Books*
-* [Litsy](https://www.litsy.com/) - *Book Recommendation / Photo Sharing Community*
-* [What Should I Read Next?](https://www.whatshouldireadnext.com/), [RecommendMeABook](https://recommendmeabook.com/) or [WhichBook](https://www.whichbook.net/) - *Book Recommendations*
 * [Comic Book Reading Orders](https://comicbookreadingorders.com/) - *Comic Book Reading Orders*
 * [DC Superhero Era Timeline](https://i.imgur.com/Icojkx1.jpg) / [2](https://i.imgur.com/drSEr0j.jpg)
 * [Anime-Planet](https://anime-planet.com/) - *Manga* 
