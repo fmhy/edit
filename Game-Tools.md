@@ -228,7 +228,7 @@
 * [Minecraft QOL Mods](https://rentry.co/mc-qol) or [sk1er.club](https://sk1er.club/) - *Minecraft Quality of Life Mod List*
 * [MCPEDL](https://mcpedl.com/) - *Minecraft PE/Bedrock Mods, Maps & Resources*
 * [Couleur Tweak Tips](http://discord.gg/CTT) - *Minecraft Tweaks & Tips*
-* [LambdAurora](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754) - *Minecraft OptiFine Alternatives for Fabric*
+* [OptiFine Alternatives](https://lambdaurora.dev/optifine_alternatives/) - *Minecraft OptiFine Alternatives for Fabric*
 * [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - *Minecraft Utility Mod*
 * [Cubical](https://www.cubical.xyz/) - *Minecraft Schematic Tool*
 * [Villager Trading Cheatsheet](https://i.imgur.com/vCpAxmD.png)
