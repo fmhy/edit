@@ -346,6 +346,7 @@
 * [Flactor](https://flactor.ru/) - *FLAC*
 * [Redacted](https://interviewfor.red/) - *MP3 / FLAC*
 * [Solid Torrents](https://solidtorrents.net/) - *MP3 / FLAC*
+* [Orpheus](https://orpheus.network/) - *MP3 / FLAC / [Interviews](https://interview.orpheus.network/)*
 * [Metal Tracker](https://en.metal-tracker.com/) - *Metal / MP3*
 * [RockBox](https://rawkbawx.rocks/) - *Metal / MP3*
 * [the /kpg/ torrent](https://kpg.neocities.org/) - *800gb+ K-Pop Torrent File*
