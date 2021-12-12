@@ -33,6 +33,7 @@
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - *Movies / TV / Anime*
 * [NetU](https://netu.io/view_page.php?pid=4) - *Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png), try IMDb ids*
 * [Ling.online](https://ling.online/en/videos/films/) - *Movies / TV*
+* [Squeezebox](https://movie.squeezebox.dev/) - *Movies / TV*
 * [OpenloadMovies](https://openloadmov.net/) - *Movies / TV*
 * [SolarMovie](https://www2.solarmovie.to/) or [Putlocker.vip](https://ww1.putlocker.vip/) - *Movies / TV / Anime*
 * [FSAPI](https://fsapi.xyz/) - *Movies / TV / Anime*
@@ -785,6 +786,7 @@
 * [AnimeTosho](https://animetosho.org/) - *Sub / Dub / [Scraper](https://github.com/c032/go-animetosho)*
 * [Anirena](https://www.anirena.com/) - *Sub / Dub*
 * [ShanaProject](https://www.shanaproject.com/) - *Sub*
+* [bakabt](http://bakabt.me/) - *Sub / Dub / [Interviews](https://wiki.bakabt.me/index.php/Sign_up)*
 * [Hakata Ramen](https://discord.gg/4teAREmqdQ) - *Sub*
 * [SSAnime](https://ssanime.ga/) - *Sub*
 * [DameDesuYo](https://damedesuyo.com/) - *Sub* 
