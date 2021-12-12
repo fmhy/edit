@@ -1187,11 +1187,9 @@ Add the following commands to a search to manually scrape each site.
 * **https://a1_free365.a1od.workers.dev/**
 * [free365](https://github.com/KusakabeSi/free365) - *Index*
 * https://xkx.me/
-* http://25t.zxd.workers.dev/
 * https://a1.zxd.workers.dev/
 * https://a1_sc.a1od.workers.dev/
 * https://azzzzzz.lx.workers.dev/
-* http://onedrive.gdrive.vip/
 * http://free.stulive.com/
 * https://a1.lx.workers.dev/
 * https://teams.xkx.me/
@@ -1618,7 +1616,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Searx Instances
 
-[PrivacyTools](https://search.privacytools.io/) / [Fuck Off Google](https://search.fuckoffgoogle.net/) / [nixnet](https://searx.nixnet.services/) / [Instance Index](https://searx.space/), [Instance Index 2](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22), [anon.sx](https://anon.sx/), [privatesearch](https://privatesearch.app/), [searx.ninja](https://searx.ninja/), [searx](https://searx.be/)
+[Fuck Off Google](https://search.fuckoffgoogle.net/) / [nixnet](https://searx.nixnet.services/) / [Instance Index](https://searx.space/), [Instance Index 2](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22), [anon.sx](https://anon.sx/), [privatesearch](https://privatesearch.app/), [searx.ninja](https://searx.ninja/), [searx](https://searx.be/)
 
 ***
 
@@ -1719,12 +1717,9 @@ Add the following commands to a search to manually scrape each site.
 * https://5movies.fm/
 * https://123putlocker.io/
 * https://fmovies.gy/
-* https://fmovies.pm/
 * https://www1.e123movies.com/
 * https://www1.ezlive.tv/
 * https://www1.f123movies.com/
-* https://fmovies.wf/
-* https://www1.fmovies.yt/
 * https://kat.mn/
 
 ***
