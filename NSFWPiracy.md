@@ -17,10 +17,10 @@
 * [BigPornList](http://bigpornlist.net/)
 * [MrPornGeek](https://www.mrporngeek.com/)
 * [PornGrade](https://porngrader.com/)
-* [The Big List of Porn](https://www.tblop.com/) 
-* [Porn Sites XXX](https://pornsites.xxx/) 
+* [The Big List of Porn](https://www.tblop.com/)
+* [Porn Sites XXX](https://pornsites.xxx/)
 * [Top Porn Sites](https://toppornsites.com/)
-* [Porn Sites Banned in India](https://www.scribd.com/doc/273372869/List-of-porn-websites-banned-in-India#fullscreen&from_embed) 
+* [Porn Sites Banned in India](https://www.scribd.com/doc/273372869/List-of-porn-websites-banned-in-India#fullscreen&from_embed)
 * [look1](https://look1.club/), [2](https://like3.co/), [3](https://that8.xyz/), [4](https://lady3.info/) - *Chinese Site Index*
 * [Excel Today](https://t.me/excel_today) - *NSFW Telegram List*
 * [MissingToofff](https://missingtoofff.com/) - *OnlyFans Leak Site List*
@@ -32,36 +32,36 @@
 
 * **[Pornhub Premium](https://forum.mobilism.org/search.php?keywords=pornhub&sr=topics&sf=titleonly)** - *Premium Pornhub Apk / Use [Emulator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators) for PC / Mac*
 * [Porn App](https://porn-app.com/) - *Android Porn App / [Discord](https://discord.com/invite/XRjPBGa)*
-* [Ceporn](https://www.ceporn.net/) 
-* [sxyprn](https://www.sxyprn.com/) 
+* [Ceporn](https://www.ceporn.net/)
+* [sxyprn](https://www.sxyprn.com/)
 * [Palimas](https://palimas.tv/)
 * [PoimRU](https://www.poimru.com/)
 * [Pornkind](https://pornkind.net/)
-* [ViralPorn](https://viralporn.com/) 
-* [vkulak](https://www.vkulak.com/) 
-* [Mov18Plus](https://mov18plus.com/) 
+* [ViralPorn](https://viralporn.com/)
+* [vkulak](https://www.vkulak.com/)
+* [Mov18Plus](https://mov18plus.com/)
 * [LustFlix](https://lustflix.in/)
 * [PornXP](https://pornxp.com/)
-* [PornGO](https://www.porngo.com/) 
-* [NutChaser](https://www.nutchaser.com/) 
-* [Lion's Hub](https://discord.gg/4CHxqPWyWn) 
+* [PornGO](https://www.porngo.com/)
+* [NutChaser](https://www.nutchaser.com/)
+* [Lion's Hub](https://discord.gg/4CHxqPWyWn)
 * [AnonVideos](https://anonvideos.com/)
 * [5Movies](https://5movies.live/category/adult-18/)
 * [FindTubes](https://www.findtubes.com/)
 * [PreFap](https://prefap.com/)
-* [Biqle](https://biqle.com/), [2](https://biqle.org/) 
-* [NSFW Monster](https://nsfwmonster.com/) 
+* [Biqle](https://biqle.com/), [2](https://biqle.org/)
+* [NSFW Monster](https://nsfwmonster.com/)
 * [SheFreaky](https://www.shesfreaky.com/)
-* [Vid123](https://vid123.net/) 
-* [FuckIt](http://www.fuckit.cc/) 
-* [NesaPorn](http://nesaporn.com/) 
-* [Lustoholic](https://lustholic.com/) 
+* [Vid123](https://vid123.net/)
+* [FuckIt](http://www.fuckit.cc/)
+* [NesaPorn](http://nesaporn.com/)
+* [Lustoholic](https://lustholic.com/)
 * [PornHoarder](https://pornhoarder.tv/)
-* [FuxnXX](https://fuxnxx.com/) 
-* [Clip Fuck](https://clipf.com/) 
+* [FuxnXX](https://fuxnxx.com/)
+* [Clip Fuck](https://clipf.com/)
 * [Sex-Student](https://sex-studentki.vip/)
 * [Permanent Booru](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
-* [mcb3id.onion](http://ik4kzum3ocg6dhx4jhzteko4jzijmxnwsbkcqenf33as3i74i3mcb3id.onion/) 
+* [mcb3id.onion](http://ik4kzum3ocg6dhx4jhzteko4jzijmxnwsbkcqenf33as3i74i3mcb3id.onion/)
 * [The Asenheim Project](https://www.asenheim.org/)
 * [NetU Search](https://netu.tv/view_page.php?pid=4) - *Click [blue box](https://i.imgur.com/c19hKLw.png)*
 * [Boob Critic](http://www.boobcritic.com/) - *Rate Boobies*
@@ -103,7 +103,7 @@
 
 ***
 
-## Download 
+## Download
 
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "nsfw
 * **[8.50TB Asi@n Folder](https://mega.nz/folder/sYhVnKoD#RsJH0RuSZ_PoCyE3uJhwsA)**, [2](https://mega.nz/folder/moxWlTyb#88MG8Jx_Z1iNBAmIfSGN-w), [3](https://drive.google.com/drive/mobile/folders/1huOFDiwfxQHGTseh6Dos_oZ45czJYMOL) - *Asian Porn Drive*
@@ -113,23 +113,23 @@
 * [PornLeaks](https://pornleaks.in/) - *OnlyFans / Patreon*
 * [Pornlyfans](https://ufile.io/d6jdix9i) - *OnlyFans*
 * [Porn GDrives](https://redd.it/l3ugp6/), [2](https://photos.app.goo.gl/VtK9Aj3Vnbr2Pohc8), [3](https://photos.app.goo.gl/v7PdoDowqDhRRpa47), [4](https://photos.app.goo.gl/M8xBKo6CPtHRCUcC8), [5](https://drive.google.com/drive/folders/1cOAi2Ne4rldowhR5xEMI4Fc0mI-GA8iI?usp=sharing), [6](https://groups.google.com/u/1/g/adult-sic), [7](https://groups.google.com/u/1/g/viperph)
-* [Porn Drive 111 GB](https://mega.nz/folder/6ooxSSQR#PsVRRGW5qIbpAjVxiMasLw/folder/Whw13aIK) 
+* [Porn Drive 111 GB](https://mega.nz/folder/6ooxSSQR#PsVRRGW5qIbpAjVxiMasLw/folder/Whw13aIK)
 * [173.249.45.226](http://173.249.45.226/)
-* [PornFactors](http://pornfactors.com/) 
+* [PornFactors](http://pornfactors.com/)
 * [RaidForums NSFW](https://raidforums.com/Forum-Not-Safe-For-Work)
-* [Best-MovieZ](https://www.best-moviez.ws/category/porn-18/) 
-* [HugeWarez](http://hugewarez.net/porn/) 
-* [Uploadgig](https://ugmovies.org/porn-movies/) 
-* [PornFile](https://pornfile.cz/) 
-* [0xxx](https://0xxx.ws/) 
-* [Pornoslon](http://pornoslon.me/) 
+* [Best-MovieZ](https://www.best-moviez.ws/category/porn-18/)
+* [HugeWarez](http://hugewarez.net/porn/)
+* [Uploadgig](https://ugmovies.org/porn-movies/)
+* [PornFile](https://pornfile.cz/)
+* [0xxx](https://0xxx.ws/)
+* [Pornoslon](http://pornoslon.me/)
 * [MangoVideo](https://45.mangovideo.pw/contents/videos/)
-* [House of Mega](https://houseofmega.com/) 
-* [PornBBS](http://pornbbs.org/) 
-* [Kimochi](https://kimochi.tv/) 
+* [House of Mega](https://houseofmega.com/)
+* [PornBBS](http://pornbbs.org/)
+* [Kimochi](https://kimochi.tv/)
 * [Anix.moe](https://www.anix.moe/)
-* [SweetPorn](https://sweetporn.org/) 
-* [xxxFile.org](https://xxxfile.org/) 
+* [SweetPorn](https://sweetporn.org/)
+* [xxxFile.org](https://xxxfile.org/)
 * [ArtsErotica](https://artserotica.com/videos/)
 * [213.32.1.25](http://213.32.1.25/) - *Japanese Porn*
 * [78.47.246.229](http://78.47.246.229/) - *Japanese Porn*
@@ -151,7 +151,7 @@
 * [Porn Time](https://porntime.ws/) - *Torrent Streaming App*
 * [PornLeech](http://pornleech.io/)
 * [Sexy-Pics](https://www.sexy-pics.us/)
-* [relizer](http://relizer.net/) 
+* [relizer](http://relizer.net/)
 * [色花堂-98堂](https://www.sehuatang.net/)
 * [6Mag](https://6mag.net/)
 * [JavBus](https://www.javbus.com/en) - *Japanese*
@@ -170,13 +170,13 @@
 * [**Eroti.ga**](https://eroti.ga/)
 * **[My Duck Is Dead](http://www.myduckisdead.org/)**
 * [EroticMovies](https://eroticmovies.xyz/)
-* [EroGarga](https://www.erogarga.com/) 
-* [EroticAge](https://www.eroticage.net/) 
+* [EroGarga](https://www.erogarga.com/)
+* [EroticAge](https://www.eroticage.net/)
 * [xHamster](https://xhamster.com/categories/vintage?min-duration=40)
 * [AdultLoad](https://adultload.ws/)
 * [classic-porn](http://classic-porn.cc/)
-* [xVideos](https://www.xvideos.com/tags/d:20min_more/movie) 
-* [xxxBunker](https://xxxbunker.com/search/film?duration=long&sort=duration) 
+* [xVideos](https://www.xvideos.com/tags/d:20min_more/movie)
+* [xxxBunker](https://xxxbunker.com/search/film?duration=long&sort=duration)
 * [TubePorn](https://tubepornclassic.com/most-popular/272/?sort_by=video_viewed&duration_from=3000)
 * [EffedUpMovies](https://www.effedupmovies.com/) - *Disturbing Horror Movies*
 
@@ -185,15 +185,15 @@
 # Magazines
 
 * [SpicyMags](https://spicymags.xyz/)
-* [downmagaz](https://downmagaz.net/adult_magazine/) 
-* [worldmags](https://worldmags.net/adult/) 
+* [downmagaz](https://downmagaz.net/adult_magazine/)
+* [worldmags](https://worldmags.net/adult/)
 * [PDF Dude](https://pdfdude.com/category/adult/)
-* [ebook3000](http://www.ebook3000.com/Magazine/For-Men/index.html) 
-* [adultload](https://adultload.ws/category/magazines/) 
-* [classic-porn](http://classic-porn.cc/) 
+* [ebook3000](http://www.ebook3000.com/Magazine/For-Men/index.html)
+* [adultload](https://adultload.ws/category/magazines/)
+* [classic-porn](http://classic-porn.cc/)
 * [v9k9 Mags](https://redd.it/ouuakm) - *Japanese Magazines*
-* pdfmagazines.club/adult 
-* pdfmagazines.club/for-men 
+* pdfmagazines.club/adult
+* pdfmagazines.club/for-men
 * pdfmagazines.club/japan/page
 
 ***
@@ -204,20 +204,20 @@
 * [Best Hentai Sites](https://besthentaisites.github.io/) - *Hentai Site List*
 * [PornDude Hentai](https://theporndude.com/hentai-streaming-sites) - *Heintai Sites List*
 * [Hentai Manga Sites](https://theporndude.com/hentai-manga-sites) - *Hentai Sites List*
-* [Nyaa Sukebei](https://sukebei.nyaa.si/) 
+* [Nyaa Sukebei](https://sukebei.nyaa.si/)
 * [Haho](https://haho.moe/)
-* [HentaiStream](https://hentaistream.moe/) 
+* [HentaiStream](https://hentaistream.moe/)
 * [HentaiDude](https://hentaidude.com/)
 * [RaidForums NSFW](https://raidforums.com/Forum-Not-Safe-For-Work)
-* [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46) 
-* [sakuracircle](https://sakuracircle.com/) 
+* [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46)
+* [sakuracircle](https://sakuracircle.com/)
 * [MyReadingManga](https://myreadingmanga.info/)
-* [Ryuugames](https://ryuugames.com/) 
+* [Ryuugames](https://ryuugames.com/)
 * [EAHentai](https://eahentai.com/)
 * [NewToki69](https://newtoki96.com/)
 * [Anix.moe](https://www.anix.moe/)
-* [yande.re](https://yande.re/) 
-* [MangaGenki](https://mangagenki.com/) 
+* [yande.re](https://yande.re/)
+* [MangaGenki](https://mangagenki.com/)
 * [HentaiWorld](https://hentaiworld.tv/ )
 * [Wholesome Hentai](https://wholesomelist.com/)
 * [/r/SixDigits](https://www.reddit.com/r/sixdigits)
@@ -234,17 +234,16 @@
 * [DeepMosaics](https://github.com/HypoX64/DeepMosaics) or [DeepCreamPy](https://github.com/styler00dollar/Colab-DeepCreamPy/blob/master/Colab-DeepCreamPy-2.2.ipynb)
 * [/cumg/](https://rentry.co/coom) - *Hentai Tools*
 
-
 ***
 
 # Games
 
 * [PornDude Games](https://theporndude.com/best-porn-games)
 * [Nyaa Sukebei](https://sukebei.nyaa.si/)
-* [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46) 
+* [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46)
 * [GGBases](https://www.ggbases.com/)
 * [Otomi Games](https://otomi-games.com/)
-* [Puppet Nightmares](https://www.puppetnightmares.com/) 
+* [Puppet Nightmares](https://www.puppetnightmares.com/)
 * [BetterRepack](https://dl.betterrepack.com/public/) - *[Discord](https://discord.gg/pSGZ4uz)*
 * [GamePC18](https://gamepc18.net/)
 * [The Asenheim Project](https://www.asenheim.org/)
