@@ -36,6 +36,7 @@
 * [Similar Sites](https://www.similarsites.com/), [Alexa Similar Sites](https://www.alexa.com/find-similar-sites), [SimilarWeb](https://www.similarweb.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
 * [DirtyWarez](https://dirtywarez.org/) or [CuteStat](https://www.cutestat.com/) - *Site Rankings & Stats*
 * [10 Words](https://discover.10words.io/) - *App / Tool Discovery*
+* [BunkList](https://bunklist.com/) - *Site / Tool Lists*
 * [pilssken](https://pilssken.neocities.org/warez/) - *Piracy Index* 
 * [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - *Piracy Index / [Warning](https://i.imgur.com/jtT9GDB.png)*
 * [Ripped Guide](https://ripped.guide/) - *Piracy Index*
@@ -293,6 +294,7 @@
 * [JacksonPollock](https://www.jacksonpollock.org/) - *Splatter Painting / Click to Change Color*
 * [paint.wtf](https://paint.wtf/) - *Have an AI Judge your Art* 
 * [ArtVote](https://artvote.net/) - *Judge Art*
+* [JamisBuck](https://www.jamisbuck.org/mazes/) - *Maze Algorithms*
 * [Windows XP Error Worm](https://ybenbihi.github.io/windows-error-worm/) - *Click & Drag Windows Errors* 
 * [Our World of Text](https://ourworldoftext.com/) or [Your World of Text](https://www.yourworldoftext.com/) - *Infinite grid of text editable by anyone*
 * [pixels.land](https://pixels.land/) or [World of Pixels](https://ourworldofpixels.com/) - *Infinite Pixel Art online*  
@@ -1072,6 +1074,7 @@
 * [Go Back in Time](https://chrome.google.com/webstore/detail/go-back-in-time/hgdahcpipmgehmaaankiglanlgljlakj) - *View Archived / Cached Webpages*
 * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en) - *Image / Video Album Downloader / [Script](https://openuserjs.org/scripts/indream/DownAlbum)* 
 * [BetterViewer](https://github.com/Ademking/Betterviewer) - *Improved Image Viewer*
+* [L.O.C](https://chrome.google.com/webstore/detail/loc/eojdckfcadamkapabechhbnkleligand) - *Facebook Management Extension*
 * [Social Tools](https://chrome.google.com/webstore/detail/facebook-block-read-recei/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) - *Block "Sending" & "Seen" Facebook Chat Indicators* 
 * [Charcoal Dark Mode](https://chrome.google.com/webstore/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - *Facebook Messenger Dark Mode*
 * [Mate Translate](https://gikken.co/mate-translate/chrome/) - *Translator*
