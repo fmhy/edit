@@ -2037,11 +2037,8 @@ Add the following commands to a search to manually scrape each site.
 * [YouTube Audio Bot](https://t.me/YtbAudioBot ) - *YouTube* 
 * [YouTube Audio Download](https://t.me/YoutubeAudioDownloadBot) - *YouTube* 
 * [VK Bot](https://t.me/vkmsaverbot) - *VK* 
-* [vkm4bot](https://t.me/vkm4bot) - *VK* 
-* [VK Music Bot](https://t.me/vkmusic_bot) - *VK* 
 * [VKM Bot](https://t.me/vkm_bot) - *VK* 
 * [Meph Bot](https://t.me/mephbot) - *VK* 
-* [Yandex.Music Bot](https://t.me/yandex_music_bot) - *Yandex* 
 * [yamdbot](https://t.me/yamdbot) - *Yandex* 
 * [MP3 downloader](https://t.me/TG_mp3downloader_bot) - *Multi Site* 
 * [scdlbot](https://t.me/scdlbot) - *Multi Site* 
