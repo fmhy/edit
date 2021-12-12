@@ -2214,7 +2214,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Collab**
 
-**[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** / [GitHub](https://github.com/biplobsd/OneClickRun), [Colab-Hacks Bot](https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Torrent%20Downloader/Torrent%20Downloader.ipynb) / [GitHub](https://github.com/PradyumnaKrishna/Colab-Hacks), [MasterColab](https://colab.research.google.com/github/yunooooo/Master-Colab/blob/master/Master-Colab.ipynb%20https:/github.com/yunooooo/Master-Colab), [QBit to Gdrive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) / [GitHub](https://github.com/xavy-13/qbittorrent) / [How-To](https://rentry.co/TorrentColab), [Torrent_To_Google_Drive_Downloader](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb)
+**[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** / [GitHub](https://github.com/biplobsd/OneClickRun), [Colab-Hacks Bot](https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Torrent%20Downloader/Torrent%20Downloader.ipynb) / [GitHub](https://github.com/PradyumnaKrishna/Colab-Hacks), [MasterColab](https://colab.research.google.com/github/yunooooo/Master-Colab/blob/master/Master-Colab.ipynb%20) / [GitHub](https:/github.com/yunooooo/Master-Colab), [QBit to Gdrive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) / [GitHub](https://github.com/xavy-13/qbittorrent) / [How-To](https://rentry.co/TorrentColab), [Torrent_To_Google_Drive_Downloader](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb)
 
 **Sites** 
 
@@ -2235,7 +2235,6 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/tgpublicdrive
 * https://t.me/publicdrive
 * https://t.me/torrent_2_drive
-* https://t.me/torrent_drive
 * https://t.me/XtremeCloud 
 * https://t.me/torrentbcloudnew
 * https://t.me/mirrorLeechTelegramBot
@@ -2246,7 +2245,6 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/torrent_mirror_drive
 * https://t.me/FreeTorrentDownloader
 * https://t.me/CinemagramzT2G 
-* https://t.me/jannatulanimirror
 * https://t.me/slfilmtv
 * https://t.me/ARTEMiSLeech 
 * https://t.me/torrent_uploader
@@ -2264,7 +2262,6 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/AkkiTorLeecher
 * https://t.me/TorrentMir
 * https://github.com/yash-dk/TorToolkit-Telegram
-* https://t.me/joinchat/MxPJclG5O-o1OGQ1 (@SammyTorrents)
 * https://pythonrepo.com/repo/ayushteke-slam_aria_mirror_bot_HEROKU
 * https://t.me/TorrentBots (list)
 * https://t.me/TorrentLeechingGroup (list)
@@ -2312,13 +2309,13 @@ Add the following commands to a search to manually scrape each site.
 
 #### Udemy Coupons
 
-**[CouponScorpion](https://couponscorpion.com/)**, [discudemy](https://www.discudemy.com/), [bestcouponhunter](https://bestcouponhunter.com/), [discountsglobal](http://udemycoupon.discountsglobal.com/), [Coursevania](https://coursevania.com/), [Learn Viral](https://udemycoupon.learnviral.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [Course Time](https://coursetime.net/), [iDownloadCoupon](http://idownloadcoupon.com/)
+**[CouponScorpion](https://couponscorpion.com/)**, [discudemy](https://www.discudemy.com/), [bestcouponhunter](https://bestcouponhunter.com/), [Coursevania](https://coursevania.com/), [Learn Viral](https://udemycoupon.learnviral.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [Course Time](https://coursetime.net/), [iDownloadCoupon](http://idownloadcoupon.com/)
 
 ***
 
 #### URL Unshorteners 
 
-**[urlex](https://urlex.org/)**, **[CheckShortURL](https://checkshorturl.com/)**, [ExpandURL](https://www.expandurl.net/), [unshort.link](https://unshort.link/), [URL Shortener Unshortener](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener), [Real Link bot (Telegram)](https://t.me/RealLinkBot), [GetLinkInfo](http://www.getlinkinfo.com/), [Unshorten.it](https://unshorten.it/), [WhereGoes](https://wheregoes.com/), [LongURL](https://longurl.info/)
+**[urlex](https://urlex.org/)**, **[CheckShortURL](https://checkshorturl.com/)**, [ExpandURL](https://www.expandurl.net/), [unshort.link](https://unshort.link/), [URL Shortener Unshortener](https://greasyfork.org/en/scripts/5359-url-http://skyload.io/shortener-unshortener), [Unshorten.it](https://unshorten.it/), [WhereGoes](https://wheregoes.com/), [LongURL](https://longurl.info/)
 
 ***
 
