@@ -76,6 +76,7 @@
 * [gopass](https://www.gopass.pw/) - *CLI Password Manager*
 * [exa](https://the.exa.website/) - *Modern ls replacement*
 * [p7zip](http://p7zip.sourceforge.net/) - *File Archiver / Unzipper*
+* [rcm](https://github.com/thoughtbot/rcm) - *Manage Dotfiles*
 * [Curlew](https://curlew.sourceforge.io/) - *Linux File Converter*
 * [Dolphin](https://userbase.kde.org/Dolphin) or [ranger](https://github.com/ranger/ranger) - *File Manager*
 * [nnn](https://github.com/jarun/nnn) - *Terminal File Manager/Disk Usage Analyzer*
