@@ -2026,7 +2026,6 @@ Add the following commands to a search to manually scrape each site.
 * [ClassicalMusicMe](https://t.me/ClassicalMusicMe) - *Classical* 
 * [MeditationRelaxMusic](https://t.me/MeditationRelaxMusic) - *Meditation* 
 * [ElectronicMusicMe](https://t.me/ElectronicMusicMe) - *Electronic* 
-* [RockMusicMe](https://t.me/RockMusicMe) - *Rock* 
 * [BluesJazz](https://t.me/BluesJazz) - *Blues / Jazz* 
 
 ***
