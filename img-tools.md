@@ -332,8 +332,9 @@
 
 * **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)**, [InstaFollowers](https://www.instafollowers.co/instagram-tools) or [aloinstagram](https://aloinstagram.com/) - *Multiple Tools* 
 * [Deskgram](https://deskgram.app/) or [GridsApp](https://gridsapp.net/) - *Desktop Client*
-* [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - *Modded Android Client*
-* [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - *Modded iOS Client*
+* [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - *Modded Android App*
+* [AeroInsta](https://aeroinsta.com/) - *Improved Android App*
+* [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - *Modded iOS App*
 * [imginn](https://imginn.com/), [Picuki](https://www.picuki.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer), [Dumpor](https://dumpor.com/) or [Greatfon](https://greatfon.com/) - *Instagram Viewer*
 * [QIS](https://github.com/propublica/qis/) or [Instagram Search Tool](https://www.aware-online.com/en/osint-tools/instagram-search-tool/) - *Search Tool* 
 * [SearchUsers](https://searchusers.com/) - *User Search* 
