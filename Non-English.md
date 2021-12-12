@@ -289,7 +289,6 @@
 
 ## ▷ Downloading
 
-* **[Lamule](https://lamule.eu/)** - *Warez / List*
 * [NextWarez](http://nextwarez.com/) - *Warez Lists*  
 * [mega-p2p](https://www.mega-p2p.net/) - *Warez Lists*  
 * [Seekr](https://w1w.files-seekr.com/) - *Download Search Files*
