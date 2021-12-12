@@ -424,7 +424,7 @@
 
 ## ▷ Reading
 
-* [Dokumen](https://dokumen.pub/) - *Books
+* [Dokumen](https://dokumen.pub/) - *Books*
 * [VK Serial Books & Magazines](https://vk.com/sebomag) - *Books / Magazines*
 * [EBook Land](http://www.ebook-land.cc/index.php) - *Books / Magazines*
 * [ebook-hell](https://ebook-hell.to/) - *Books / Magazines / NSFW / Use adblocker*
@@ -888,7 +888,7 @@
 # ► Portuguese
 
 * [Invetexto](https://www.invertexto.com/) - *Multiple Online Tools*
-* [LegendaOfficial](http://legendaoficial.net/), [LegendasDivx](<https://www.legendasdivx.pt/>, [Legendas.tv](http://legendas.tv/), [Legendas](https://legendas.co/), [Legendas.dev](https://legendas.dev/) or [Leganda-Zone](https://www.legendas-zone.org/) - *Subtitles*
+* [LegendaOfficial](http://legendaoficial.net/), [LegendasDivx](<https://www.legendasdivx.pt/>), [Legendas.tv](http://legendas.tv/), [Legendas](https://legendas.co/), [Legendas.dev](https://legendas.dev/) or [Leganda-Zone](https://www.legendas-zone.org/) - *Subtitles*
 * [legendasbrasil](https://legendasbrasil.org/) - *Subtitle Search App*
 * [Portuguese Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_browser_games)
 * [Atari2600](http://www.atari2600.com.br/) - *Browser Emulator*
@@ -1105,7 +1105,7 @@ Portuguese / Streaming / Christian Music
 * [Kiniga](https://kiniga.com/) - *Light Novels*
 * [NovelMania](https://novelmania.com.br/) - *Light Novels*
 * [CentralNovel](https://centralnovel.com/) - *Light Novels*
-* [EmpireNovels](https://empirenovels.com.br/) - Light Novels**
+* [EmpireNovels](https://empirenovels.com.br/) - *Light Novels*
 * [MyLightNovel](http://www.mylightnovel.com.br/) - *Light Novels*
 * [Revista Programar](https://www.revista-programar.info/) - *Programming Magazine*
 * [DND5ED](http://dnd5ed.github.io/) - *Dungeons & Dragons Guides*
