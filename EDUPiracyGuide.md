@@ -338,6 +338,7 @@
 * [The Universe Through Time](https://i.imgur.com/A2C6Vpc.jpeg) - *Universe Timeline*
 * [Space Dashboard](https://spacedashboard.com/) - *Space Live Stream Dashboard* 
 * [EarthData](https://worldview.earthdata.nasa.gov/) - *Daily Satellite Replays*
+* [NASA WorldWind](http://sourceforge.net/projects/nasa-exp/) - *Virtual NASA Imagery Globe*
 * [ISS Sim](https://iss-sim.spacex.com/) - *ISS Docking Simulator* 
 * [HDEV Payload](https://video.ibm.com/channel/iss-hdev-payload) - *Live ISS Stream ISS*
 * [SpaceX Media 2015](http://web.archive.org/web/20150328140645/http://www.spacex.com/media) / [2019](http://web.archive.org/web/20191122175115/https://www.spacex.com/media) - *SpaceX Media Archive*
@@ -359,7 +360,7 @@
 * [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) or [OMG SPACE](http://omgspace.net/) - *Solar System Scale Model*
 * [3DSolarSystem](https://theskylive.com/3dsolarsystem) - *Solar System Simulator* 
 * [100,000 Stars](https://stars.chromeexperiments.com/) - *Interactive 3D Star Visualization*
-* [Stellarium-Web](https://stellarium-web.org/) - *Online Stellarium*
+* [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](http://stellarium.org/) - *Virtual Stellarium*
 * [ESO](https://www.eso.org/public/images/eso1242a/zoomable/), [Hubble](https://esahubble.org/images/heic1502a/zoomable/), [Hubble 2](https://esahubble.org/images/heic1901a/zoomable/) - *Massive Zoomable Telescope Photos*
 * [Space Telescope Live](https://spacetelescopelive.org/) - *Live Hubble Image Data*
 * [APOD](https://apod.nasa.gov/) - *Daily NASA Astronomy Pictures*
@@ -644,6 +645,7 @@
 * [Economics of The Office](http://economicsoftheoffice.com/) - *Learn Economics via The Office*
 * [Morse Typing Trainer](https://morse.withgoogle.com/learn/) - *Morse Code Trainer* 
 * [Old Computer Museum](http://oldcomputers.net/) - *Computer History / Info* 
+* [The HP 9845 Project](https://www.hp9845.net/) - *HP 9845 Computer History*
 * [RSOE](http://hisz.rsoe.hu/) - *Emergency and Disaster Information Service* 
 * [911 Realtime](https://911realtime.org/) - *9/11 in Realtime*
 * [Awful-A.I.](https://github.com/daviddao/awful-ai) - *Negative A.I. Usage Examples*
