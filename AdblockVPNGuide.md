@@ -97,7 +97,7 @@
 * **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)** - *Scan URL's*
 * MSRT - [x64](https://www.microsoft.com/en-us/download/details.aspx?id=9905) / [x86](https://www.microsoft.com/en-us/download/details.aspx?id=16) - *Malicious Software Removal Tool*
 * [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html), [Tinywall](https://tinywall.pados.hu/) or [GlassWire](https://www.glasswire.com/) - *Firewall / Network Monitor* 
-* [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/) or [Safing](https://safing.io/portmaster/) - *Network Monitor*
+* [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/) or [Safing](https://safing.io/portmaster/) - *Network Monitor*
 * [Waircut](https://sourceforge.net/projects/waircut/) - *WPS Network Monitor*
 * [Hard_Configurator](https://hard-configurator.com/) - *Software Restriction Policy Management GUI* 
 * [Hardentools](https://github.com/securitywithoutborders/hardentools) - *Disables Risky Windows Features*
@@ -190,7 +190,7 @@
 * [Cryptomator](https://cryptomator.org/), [Boxcryptor](https://www.boxcryptor.com/en/), [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) or [Filen](https://filen.io/) - *Cloud File Encryption*
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - *Encrypt / Decrypt GDrive*
 * [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/), [Skytransfer](https://skytransfer.hns.siasky.net) or [upload-vaa](https://upload.vaa.red/) - *Encrypted File Host* 
-* [EncFS MP](https://encfsmp.sourceforge.io/index.html), [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/), [CipherShed](https://www.ciphershed.org/), [Kryptor](https://www.kryptor.co.uk/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - *File Encryption Tool* 
+* [EncFS MP](https://encfsmp.sourceforge.io/index.html), [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/), [CipherShed](https://www.ciphershed.org/), [GPG4Win](https://www.gpg4win.org/), [Kryptor](https://www.kryptor.co.uk/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - *File Encryption Tool* 
 * [Filecrypt](https://filecrypt.cc/) - *Encrypt File Links*
 * [RemoteStream](https://remotestre.am/) - *Encrypt your Google Drive links* 
 * [PDFEncrypt](https://pdfencrypt.net/) - *PDF File Encryption*
@@ -214,9 +214,7 @@
 * [V2Ray](https://v2ray.com/en/), [V2Fly](https://www.v2fly.org/), [V2RayN](https://github.com/freefq/free) or [v2ray-core](https://github.com/v2fly/v2ray-core) - *Build your own Privacy Network / [GUI](https://qv2ray.net/), [v2rayN](https://github.com/2dust/v2rayN)* 
 * [Scout](https://www.scout.tel/phone-number-lookup) - *Phone Number Lookup / Safety Check* 
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - *Get Telephone Carrier Data* 
-* [/r/Privacy](https://reddit.com/r/privacy) - *Privacy Discussion & News Subreddit*
-* [/r/TheHatedOne](https://www.reddit.com/r/thehatedone) - *Privacy News & Tools Subreddit*
-* [/r/PrivacyToolsIO](https://www.reddit.com/r/privacytoolsIO) - *Privacy News & Tools Subreddit*
+* [/r/Privacy](https://reddit.com/r/privacy),  [/r/TheHatedOne](https://www.reddit.com/r/thehatedone), [/r/PrivacyToolsIO](https://www.reddit.com/r/privacytoolsIO) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - *Privacy Discussion, News & Tools*
 * [/r/DeGoogle](https://www.reddit.com/r/degoogle) - *Google Alternative Subreddit*
 * [Unredacted Google Antitrust Filing](https://ufile.io/sr0k67vq) / [Highlights](https://twitter.com/fasterthanlime/status/1452053938195341314)
 * [Privacy.com](https://privacy.com/) - *Make Secure Payments / US only* 
@@ -459,6 +457,7 @@
 * [blackVPN](https://www.blackvpn.com/) - *[Pricing](https://i.imgur.com/uqMeG0b.png)*
 * [AirVPN](https://airvpn.org/) - *[Pricing](https://i.imgur.com/TMU1Qtt.png)*
 * [VPNSecure](https://www.vpnsecure.me/) - *[Pricing](https://i.imgur.com/BnuqpBS.png)*
+* [MysteriumVPN](https://www.mysteriumvpn.com/) - *[Pricing](https://i.imgur.com/2un0hjM.png)*
 * [Tailscale](https://tailscale.com/) - *[Pricing](https://i.imgur.com/6lMwcSQ.png)*
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - *VPN Extension / 3GB Free / [Pricing](https://i.imgur.com/ZdDexDa.png)* 
 * [Mozilla FPN](https://fpn.firefox.com/) - *VPN Extension / [Pricing](https://i.imgur.com/wW5rVO2.png) / Mullvad Servers*
