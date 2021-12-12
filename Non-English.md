@@ -1574,6 +1574,7 @@ Portuguese
 * [Segoideas](https://segoideas.com/) - *Taiwanese / Streaming / TV*
 * [EdithSeedbox](https://packs.edithseedbox.com/0:/) - *Telugu / Download / Movies / TV / [Login](https://pastebin.com/sBLwyM6Z)*
 * [lupiteam](https://lupiteam.net/) - *Corsican / Manga*
+* [DJPunjab](https://djpunjab.is/ ) - *Punjabi / Download / MP3*
 * [RÚV](https://www.ruv.is/ruv) - *Icelandic / Live TV*
 * [JavaLibre](https://javalibre.com.ua/) - *Ukrainian / Books*
 * [Partis](https://www.partis.si/) - *Slovenian / Torrent Aggregator*
