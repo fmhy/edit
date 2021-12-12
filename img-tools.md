@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/jQZHGEp.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/jVhwmtb.png)** - *For mobile users*
 
 ***
 *** 
@@ -36,6 +36,7 @@
 * [PaintingLight](https://lllyasviel.github.io/PaintingLight/) - *Digital Lighting Effect Generator*
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - *Turn Simple Art into Photo Realistic Landscapes [Web](http://nvidia-research-mingyuliu.com/gaugan/)*
 * [DeepArt](https://deepart.io/), [AI Gahaku](https://ai-art.tokyo/en/), [Dreamscope](https://dreamscopeapp.com/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own) or [Deep Dream Generator](https://deepdreamgenerator.com/) - *Turn Photos into Artwork* 
+* [DuoTones](https://duotones.co/) - *Dual Tone Effect Generator*
 * [ImageGoNord](https://ign.schrodinger-hat.it/) - *Convert Images to NordTheme Palette / [Dracula](https://github.com/bigpick/ImageGoNord-dracula) / [Gruvbox](https://github.com/Schrodinger-Hat/ImageGoNord-gruvbox) / [GitHub](https://github.com/Schrodinger-Hat/ImageGoNord)*
 * [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) or [Cartoonize](https://cartoonize-lkqov62dia-de.a.run.app/cartoonize) - *Turn Photos into Cartoons*
 * [AIDraw](https://ai-draw.tokyo/en/) - *Turn Photos into Line Drawings* 
@@ -54,7 +55,7 @@
 * [PicFont](https://picfont.com/) - *Add Text to Images*
 * [Acme Annotator](https://acme.com/annotator/) - *Add Notes to a Picture* 
 * [Face Merging](https://www.faceplusplus.com/face-merging/) or [MorphThing](https://www.morphthing.com/) - *Face Merging Tool* 
-* [WebcamToy](https://webcamtoy.com/) - *Webcam Effects*
+* [WebcamToy](https://webcamtoy.com/) or [HDBooth](https://www.hdbooth.net/) - *Webcam Effects*
 
 ***
 
@@ -99,6 +100,7 @@
 * [DCGAN](http://mattya.github.io/chainer-DCGAN/) - *Anime Icon Generator* 
 * [Girl Friend Factory](https://hiroshiba.github.io/girl_friend_factory/) or [MakeGirlsMoe](https://make.girls.moe/) - *Female Anime Icon Generator* 
 * [Photovisi](https://www.photovisi.com/) - *Photo Collage Generator* 
+* [ascii-art-generator](https://www.ascii-art-generator.org/) - *Convert Images to Ascii Art*
 * [TierMaker](https://tiermaker.com/) - *Tier List Image Creator*
 * [Hugin](http://hugin.sourceforge.net/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - *Panorama Photo Generator* 
 * [DoodDad](https://doodad.dev/pattern-generator), [patternico](https://patternico.com/) or [Haikei](https://app.haikei.app/)  *Pattern Generator*
@@ -126,10 +128,10 @@
 
 ***
 
-## ▷ GIF Makers 
+## ▷ GIF Tools
 
 * **[Awesome GIF](https://github.com/davisonio/awesome-gif)** - *GIF Resource Index*
-* [Giphy](https://giphy.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/) or [Animated Images](https://www.animatedimages.org/) - *Find & Download GIFs* 
+* [Giphy](https://giphy.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/), [reactiongifs](https://www.reactiongifs.us/), [reactiongifs](https://reactiongifs.me/), [gif-finder](https://gif-finder.com/), [reactiongifs](http://www.reactiongifs.com/), [bestanimations](https://bestanimations.com/), [gifimage](https://gifimage.net/) or [Animated Images](https://www.animatedimages.org/) - *Download GIFs* 
 * [EZGif](https://ezgif.com/), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFnText](https://www.gifntext.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Gif Maker](https://gifmaker.me/) - *GIF Creator / Editor*
 * [gifify](https://github.com/vvo/gifify) or [Video-to-GIF](https://hnet.com/video-to-gif/) - *Video to GIF Converter*
 * [GifRun](https://gifrun.com/) - *Make GIFs From Online Videos*
@@ -253,6 +255,7 @@
 * [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - *AI Art Generation Guide*
 * [vrn](https://cvl-demos.cs.nott.ac.uk/vrn/) - *3D Face Reconstruction* 
 * [3D Transformer](https://www.3dtransformer.com/) - *Rotate 3D Images*
+* [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) - *3D Printing Software*
 * [Ameede](https://www.ameede.com/) - *CNC / Laser Design Vectors*
 
 ***
