@@ -1633,7 +1633,6 @@ G) - *Create Discord RPCs*
 * [1fichier-dl](https://github.com/manuGMG/1fichier-dl) - *1Fichier Download Manager* 
 * [mf-dl](https://gitgud.io/Pyxia/mf-dl/) - *Mediafire Bulk File Downloader* 
 * [Treasure Hunt](https://github.com/xuac/treasure-hunt) - *Unlimited Treasure Cloud Storage*
-* [zippyshare_url_parser](https://github.com/GrowAsguard/zippyshare_url_parser) - *Zippyshare URL Parser*
 * [InfiniDrive](https://github.com/nicomda/InfiniDrive) - *Unlimited Cloud Drive using Amazon Prime Photos*
 * [Nextcloud](https://nextcloud.com/) - *Safe data storage / [Unofficial Providers](https://nextcloud.com/signup/)*
 * [Shared Drives Creator Website](https://github.com/MsGsuite/Shared-Drives-Creator-Website) - *Create & host a Shared Drive Generator Website*
