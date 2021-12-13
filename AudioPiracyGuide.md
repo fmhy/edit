@@ -111,8 +111,8 @@
 * [Curseradio](https://github.com/chronitis/curseradio) - *Internet radio in the terminal*
 * [Rekt FM](https://rekt.network/) - *Chill / Space / Dark / Horror Synth / EBSM / EDM Radio*
 * [Nightwave Plaza](https://plaza.one/) or [vapor.fm](https://vapor.fm/) - *Vaporwave Radio*
-* [Retrowave](https://retrowave.ru/) - *Synthwave & Retrowave Radio* 
-* [Nightride.fm](https://nightride.fm/) - *Synthwave & Darksynth Radio* 
+* [Retrowave](https://retrowave.ru/) - *Synthwave / Retrowave Radio* 
+* [Nightride.fm](https://nightride.fm/) - *Synthwave / Darksynth Radio* 
 * [Di.fm](https://www.di.fm/) - *Electronic Radio* 
 * [0x40](https://0x40.mon.im/) - *Electronic Radio w/ Anime Pictures* 
 * [Poolside FM](https://poolside.fm/) - *Summer Radio*
