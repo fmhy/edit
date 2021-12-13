@@ -190,7 +190,7 @@
 ## ▷ Download Apps
 
 * **[SlavDoge DL](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9kaXNjb3JkLmdnL2d3eFJmNnlTR0s.RkJJ)** - *Qobuz & Tidal Download Bot*
-* **[DoubleNegative](https://doublenegative.io/)**, [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - *Download from Deezer*
+* **[DoubleNegative](https://doublenegative.io/)**, [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - *Download from Deezer & Tidal*
 * **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - *Download from Spotify*
 * **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)*
