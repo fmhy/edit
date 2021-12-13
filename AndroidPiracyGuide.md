@@ -430,6 +430,7 @@
 * [Transdroid](https://f-droid.org/packages/org.transdroid.full/) - *Manage BitTorrent clients* 
 * [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - *NZB / Torrent Manager* 
 * [iDope](https://idope.se/apk/down.html), [TorrHunt](https://torrhunt.pages.dev/) or [TorrSE](https://seedboxs.me/) - *Torrent Search*
+* [Meoko](http://kutt.it/meoko) - *Anime Torrent Search*
 
 ***
 
