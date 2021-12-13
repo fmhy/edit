@@ -238,7 +238,7 @@
 * [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - *Minecraft Server Info*
 * [GeyserConnect](https://www.geyserconnect.net/) - *Connect Minecraft Bedrock to Java Servers*
 * [2Bored2Wait](https://github.com/themoonisacheese/2bored2wait) - *2B2T Queue Proxy*
-* [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization:zap:.283181/) - *Paper / Spigot Server Optimization Guide / Use Paper*
+* [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization:zap:.283181/) or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - *Minecraft Server Optimization Guides*
 * [mcsrvstat](https://mcsrvstat.us/) - *Server Status Updates*
 * [Salwyrr Launcher](https://www.salwyrr.com/) or [MultiMC5-Cracked](https://github.com/AfoninZ/MultiMC5-Cracked) - *Free Premium Minecraft Launchers*
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) - *Minecraft Modding API* 
