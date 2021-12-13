@@ -59,7 +59,7 @@
 * [alt3rnative](https://github.com/machiav3lli/alt3rnative) - *Site / Tool Index*
 * [Peelopaalu](https://peelopaalu.neocities.org/) - *Site / Tool Index*
 * [RefDesk](https://www.refdesk.com/facts.html) - *Site / Tool Index*
-* [Illegal Services](https://git.teknik.io/Illegal-Services/Illegal_Services) - *Site / Tool Index App [Discord](https://discord.gg/577AWghYtx)*
+* [Illegal Services](https://git.teknik.io/Illegal-Services/Illegal_Services) - *Site / Tool Index App / [Discord](https://discord.gg/577AWghYtx)*
 * [Product Hunt](https://www.producthunt.com/) - *Site / Tool Index*
 * [Useful Interweb](https://usefulinterweb.com/) or [Daily Useful Links](https://t.me/DailyUsefulLINKS) - *Daily Websites*
 * [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - *Chinese Site / Tool Index*
