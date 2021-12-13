@@ -133,9 +133,9 @@
 ## ▷ Search Sites
 
 * **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - *Multi-Site Search*
-* **[ZippyShareSearch](https://zippysharesearch.com/)** or [ZippyShareFinder](https://zippysharefinder.com/) - *Search Zippyshare* 
+* **[ZippyShareSearch](https://zippysharesearch.com/)** or [ZippyShareFinder](https://zippysharefinder.com/) - *Search Zippyshare / [URL Parser](https://github.com/GrowAsguard/zippyshare_url_parser), [2](https://github.com/JrMasterModelBuilder/zs-extract)* 
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
-* [FilePursuit](https://filepursuit.com) + *[Discord](https://discord.gg/xRfFd8h)*
+* [FilePursuit](https://filepursuit.com) - *[Discord](https://discord.gg/xRfFd8h)*
 * [scnlog](https://scnlog.me/)
 * [filesearch.link](http://filesearch.link/)
 * [Linktury](https://www.linktury.com/) 
