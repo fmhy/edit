@@ -177,7 +177,6 @@
 * [Pineappleea](https://pineappleea.github.io/) or [Yuzu-Updater](https://github.com/sinscove/Yuzu-Updater) - *Yuzu Updater*
 * [YuzuModDownloader](https://github.com/amakvana/YuzuModDownloader) - *Yuzu Mod Downloader*
 * [EmuSAK UI](https://github.com/CapitaineJSparrow/emusak-ui) - *Download Switch Firmware & Keys*
-* [The Key Site Index](https://vault.titlekeys.ovh/) - *Wii U Key Sites*
 * [Switch Army Knife](https://github.com/dezem/SAK) - *Switch Emulator Multi-Tool*
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://ps3.aldostools.org/updates.html) - *Update PS3 Games*
 
@@ -209,7 +208,7 @@
 * [NoPayStation](https://nopaystation.com/) or [PSNDL](https://psndl.net/) - *Roms / Sony Consoles*
 * [PSP Collection](https://archive.org/details/rr-sony-playstation-portable ) - *Roms / PSP*
 * [psp.hm7.moe](https://psp.hm7.moe/) - *Modded PSP Collection* 
-* [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - *Roms / Wii U*
+* [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - *Roms / Wii U / [Required Keys](https://vault.titlekeys.ovh/) - *Wii U Key Sites**
 * [WiiWare Collection](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) - *Roms / WiiWare*
 * [Wii Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wii_roms) - *Roms / Wii*
 * [Switch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - *Roms / Nintendo Switch*
