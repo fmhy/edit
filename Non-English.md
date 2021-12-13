@@ -617,7 +617,6 @@
 * [jpddl](https://jpddl.com/) - *Manga / Anime / Music / Drama*  
 * [JPLearner](http://www.jplearner.to/) - *Video / Manga / Magazines*
 * [剧集](https://drive.google.com/drive/folders/1OuJJg_zr4pG3EW2SYFyV4CaBxlyypZAQ) - *Anime / Drive* 
-* [Anime Raws Masterlist](https://sites.google.com/view/animerawsmasterlist/home) - *Anime*
 * [AnimeTime](https://www.animetime.pw/) - *Anime* 
 * [arearaw](http://arearaw.com/) - *Anime / Use Tor* 
 * [GameCenter CX Archives](https://archive.org/details/@gamecentercx) - *GameCenter CX Archive / [English](https://archive.org/details/game-center-cx-english-subbed-episodes-collection-2021-02-gamecenter-cx)*
