@@ -109,6 +109,7 @@
 * [adblock radio](https://www.adblockradio.com/en/) - *Ad Free Podcasts / Radio Player / [GitHub](https://github.com/adblockradio/adblockradio)*
 * [radiobot](https://t.me/radiobot) - *Radio / Telegram* 
 * [Curseradio](https://github.com/chronitis/curseradio) - *Internet radio in the terminal*
+* [Rekt FM](https://rekt.network/) - *Chill / Space / Dark / Horror Synth / EBSM / EDM Radio*
 * [Nightwave Plaza](https://plaza.one/) or [vapor.fm](https://vapor.fm/) - *Vaporwave Radio*
 * [Retrowave](https://retrowave.ru/) - *Synthwave & Retrowave Radio* 
 * [Nightride.fm](https://nightride.fm/) - *Synthwave & Darksynth Radio* 
