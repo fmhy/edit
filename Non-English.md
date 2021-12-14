@@ -578,6 +578,8 @@
 
 # ► Italian
 
+* [Definitive Italian Streaming](https://rentry.org/DefinitiveItalianStreming) - *Italian Piracy Sites*
+
 ## ▷ Downloading 
 
 * [euroStreaming](https://eurostreaming.vision/) - *Use deltabit / Movies / TV / Anime / Use AdBlocker* 
