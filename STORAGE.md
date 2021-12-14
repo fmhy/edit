@@ -944,7 +944,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Linux Distros 
 
-**[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)**, **[Friendly GNU](https://fglt.nl/guides/picking-a-distro.html)**, [ArchiveOS](https://archiveos.org/), [LinuxTracker](https://linuxtracker.org/), [tohoku](http://www.cs.tohoku-gakuin.ac.jp/pub/Linux/), [OpenSourceFeed](https://www.opensourcefeed.org/), [minerswin](http://root3.minerswin.de/ISO/), [Pkgs](https://pkgs.org/), [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity), [ComputerFreely](https://computefreely.org/), [Devuan](https://devuan.org/os/free-software), [AntiXLinux](https://antixlinux.com/)
+**[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)**, [ArchiveOS](https://archiveos.org/), [LinuxTracker](https://linuxtracker.org/), [tohoku](http://www.cs.tohoku-gakuin.ac.jp/pub/Linux/), [OpenSourceFeed](https://www.opensourcefeed.org/), [minerswin](http://root3.minerswin.de/ISO/), [Pkgs](https://pkgs.org/), [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity), [ComputerFreely](https://computefreely.org/), [Devuan](https://devuan.org/os/free-software), [AntiXLinux](https://antixlinux.com/)
 
 ***
 
