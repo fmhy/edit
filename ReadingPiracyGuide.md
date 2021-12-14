@@ -264,7 +264,6 @@
 * [Kenorb's New Age library](https://www.dropbox.com/sh/2x5qfpd4csenuws/AABxbTrOvXVRcwsW0z9t6AFJa) - *Esoterica / Mythology / Gnosticism* 
 * [Esoterica](https://mega.nz/#F!hQVFBDbT!f3gOa3LUAHJXJJbFZfDytg) - *Esoterica / Philosophy / Gnosticism* 
 * [Logoi Library](http://logoilibrary.com/) - *Gnosticism / Hermeticism* 
-* [Metaphysics Quotes](https://rentry.co/47i3a) - *Metaphysical Concepts by Topic*
 * [766 Occult Books](http://www.mediafire.com/file/abggpzcdxv09w80/books.zip) - *Occult* 
 * [Messy occult library](https://mega.nz/#F!BNljAKhB!eY3NfH3DZtthocohW8Lwwg) - *Occult / Esoterica / Gnosticism* 
 * [BeyondWeird](https://beyondweird.com/) - *Occult / Witchcraft / Esoterica*
@@ -361,7 +360,6 @@
 * [Legal Mises Institute](https://mises.org/) - *Books / Audio books / Libertarianism* 
 * [Third World Traveler](https://thirdworldtraveler.com/) - *Human Rights / Conspiracies / Anti-War*
 * [/r/Antiwork Library](https://www.reddit.com/r/antiwork/wiki/library) - *Anti-Servitude Resources*
-* [Anti-Authoritarianism / Servitude](https://rentry.co/kee5h) - *Anti-Authoritarianism / Servitude Quotes*
 * [China-Dictatorship](https://github.com/cirosantilli/china-dictatorship) - *Anti-Chinese Authoritarianism*
 * [Kialo](https://www.kialo.com/) - *Popular Debates / Discussion* 
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
@@ -472,6 +470,7 @@
 * [HowStuffWorks](https://www.howstuffworks.com/) - *Learn How Things Work*
 * [masterWiki](https://masterwiki.how/) - *MasterClass Classes Republished as wikiHow Articles* 
 * [Critical Thinking](https://mega.nz/folder/ZMlxhYLA#sG-opuADdkNiu9-IdeJO4Q) - *Books / Guides / Pictures* 
+* [lolmythesis](https://lolmythesis.com/) - *Summarized Thesis'*
 * [/r/textbook_piracy](https://reddit.com/r/textbook_piracy)
 * [/r/textbookrequest](https://reddit.com/r/textbookrequest)
 * [/r/textbookfinder](https://reddit.com/r/textbookfinder)
@@ -499,7 +498,7 @@
 * [Sarantakos](https://www.sarantakos.com/keimena.html) - *Greek (Modern)*
 * [Project Laurens Jz Coster](https://cf.hum.uva.nl/dsp/ljc/) - *Classic / Dutch*
 * [biblior](https://biblior.net/) - *French / English / Geography / History / Tales*
-* [ In Parenthesis](https://www.yorku.ca/inpar/) - *Historic Tales*
+* [In Parenthesis](https://www.yorku.ca/inpar/) - *Historic Tales*
 * [FairyTalez](https://fairytalez.com/) - *Historical Folklore / Fairy Tales*
 * [CELT](https://celt.ucc.ie/) - *Irish / History / Literature / Politics*
 * [textfiles.com](http://textfiles.com/) - *1980's Text File Index*
@@ -994,6 +993,7 @@
 * [listal](https://www.listal.com/) - *Books*
 * [Comic Book Reading Orders](https://comicbookreadingorders.com/) - *Comic Book Reading Orders*
 * [DC Superhero Era Timeline](https://i.imgur.com/Icojkx1.jpg) / [2](https://i.imgur.com/drSEr0j.jpg)
+* [Mangaki](https://mangaki.fr/) - *Manga Recommendations*
 * [Anime-Planet](https://anime-planet.com/) - *Manga* 
 * [All Anime](https://allanime.site/) - *Manga*
 * [Manga Codex](https://mangacodex.com/) - *Manga Infographics & Sales Stats*
