@@ -605,6 +605,7 @@
 * [SkyMoviesHD](https://skymovieshd.cam/category/Hollywood-English-Movies.html) - *Movies*
 * [HDFriday](https://hdfriday.com/category/download-hollywood-movies/) - *Movies*
 * [MegaUploadAgora](https://www.megauploadagora.com.br/) - *Movies / TV* 
+* [TheMovieBoss](https://themoviesboss.org/) - *Movies / TV*
 * [Khatrimaza](https://khatrimaza1.in/) - *Movies / TV* 
 * [Warez Lover](https://warezlover.org/) - *Movies / TV* 
 * [FilmyZilla](https://filmyzilla.fit/category/latest-hollywood-english-movies.html) - *Movies*
