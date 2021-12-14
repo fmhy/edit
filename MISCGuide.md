@@ -123,8 +123,8 @@
 * [/r/piracy](https://reddit.com/r/piracy) - *[Backup](https://github.com/nid666/PiracyArchive)*
 * [/r/piratedgames](https://reddit.com/r/piratedgames) - *[Discord](https://discord.gg/Da2akf2)*
 * [/r/SoftwarePirates](https://reddit.com/r/SoftwarePirates) - *Software Piracy Discussion*
-* [/r/DataHoarder](https://reddit.com/r/DataHoarder) - *[Telegram](https://t.me/r_DataHoarder)*
-* [/r/trackers](https://reddit.com/r/trackers) 
+* [/r/DataHoarder](https://reddit.com/r/DataHoarder) - *[Telegram](https://t.me/r_DataHoarder) / [/r/DHExchange](https://www.reddit.com/r/DHExchange/)*
+* [/r/trackers](https://reddit.com/r/trackers)
 * [/r/usenet](https://reddit.com/r/usenet) 
 * [/r/CrackSupport](https://reddit.com/r/CrackSupport) - *Piracy / Gaming / Cracking Discussion / [Discord](https://discord.gg/eTsaTNpsxj) / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch)*
 * [Weboas.is Forum](https://weboas.is/forum/)
