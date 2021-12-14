@@ -19,7 +19,7 @@
 
 ## ▷ Dedicated Hosts
 
-* **[MoviesforDiscord](https://discord.movies4discord.xyz/)** - *Movies / TV / [Website](https://movies4discord.xyz/)*
+* **[Movies4Discord](https://discord.movies4discord.xyz/)** - *Movies / TV / [Website](https://movies4discord.xyz/)*
 * **[LookMovie](https://lookmovie.io/)** - *Movies / TV*
 * **[Soap2Day](https://soapgate.org/)** - *Movies / TV*
 * **[EE3](https://ee3.me/)** - *Movies / Invite Code: mpgh*
@@ -31,7 +31,7 @@
 * [SockShare](http://sockshare.ac/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones)*
 * [Trailers.to](https://trailers.to/) - *Movies / TV / [Bypass Quota](https://openvideofs.github.io/)*  
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - *Movies / TV / Anime*
-* [NetU](https://netu.io/view_page.php?pid=4) - *Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png), try IMDb ids*
+* [NetU](https://netu.io/view_page.php?pid=4) - *Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)*
 * [Ling.online](https://ling.online/en/videos/films/) - *Movies / TV*
 * [Squeezebox](https://movie.squeezebox.dev/) - *Movies / TV*
 * [OpenloadMovies](https://openloadmov.net/) - *Movies / TV*
@@ -184,6 +184,7 @@
 * [123MoviesGo](https://www.123moviesgo.li/) - *Movies / TV*
 * [123MovieWeb](https://123moviesweb.net/) - *Movies*
 * [Letmewatch](https://github.com/AdvithGopinath/LetMeWatch) - *Movies / TV / Extension*
+* [Watch Movies Free](https://redd.it/rbpag2) - *Streaming Site List*
 
 ***
 
@@ -357,7 +358,7 @@
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming) 
 * [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - *TV / Movies*
 * [KissAsian](https://kissasian.li/), [2](https://kissasian.ac/) - *TV*
-* [GoPlay](https://redd.it/723mtd) - *TV / [Discord](https://discord.gg/Gh44afE)*
+* [GoPlay](https://goplay.anontpp.com/) - *TV / [Discord](https://discord.gg/Gh44afE) / [Reddit](https://redd.it/723mtd)*
 * [AsianCrush](https://www.asiancrush.com/) - *TV / Movies*
 * [DramaCool](https://dramacool.bid/), [dramacool9](https://www.dramacool9.co/) or [WatchAsian](https://watchasian.cc/) - *TV / Movies*
 * [DramaDay](https://dramaday.net/) - *TV* 
@@ -833,7 +834,7 @@
 * [Kitsu](https://kitsu.io/) - *Anime* 
 * [AniDB](https://anidb.net/) - *Anime*
 * [AniList](https://anilist.co/) - *Anime / [Wrapper](https://github.com/butterstroke/Anilist-Node)* 
-* [Animender](https://discord.gg/h6nTTprMKd) or [AniBrain](https://anibrain.ai/) - *Anime Recommendation Tool*
+* [Animender](https://discord.gg/h6nTTprMKd), [Mangaki](https://mangaki.fr/) or [AniBrain](https://anibrain.ai/) - *Anime Recommendation Tool*
 * [ACDB](https://www.animecharactersdatabase.com/) - *Anime Character Database*
 * [MetaCritic](https://www.metacritic.com/) - *Movies / TV / Anime*
 * [rate.house](https://rate.house/) - *Media Tracker*
