@@ -144,6 +144,7 @@
 * [WSODownloads](https://www.wsodownloads.in/) - *Courses*
 * [HackingWorld](https://in.hackingworld.best/) - *Courses*
 * [DL Course](https://dlcourse.org/) - *Courses*
+* [Free Udacity Skillshare Coursera EDX](https://t.me/Free_Udacity_Skillshare_Coursera) 
 * [AfraTafreeh](https://afratafreeh.com/) - *Courses*
 * [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - *Courses*
 * [Open-Video](https://open-video.org/) - *Courses / Documentaries*
@@ -167,6 +168,7 @@
 * [Udemy Courses Rentry](https://rentry.co/ecg43) - *Udemy Courses*
 * [FreeTutorialsEU](https://www.freetutorialseu.com/) - *Courses*
 * [UdemyKing](https://t.me/udemyking1 ) - *Udemy Courses*
+* [Free Udemy Vedantu Courses](https://t.me/Udemy_Courses_Vedantu_Free) - *Udemy Courses*
 * [UFC Gdrive Factory!](https://telegram.me/joinchat/SSWKbEf8mVNBvgam) - *Udemy Courses*
 * [EZdemy](https://t.me/ezudemy) - *Udemy Courses*
 * [Giga Course](https://gigacourse.com/) - *Udemy Courses / Drive* 
@@ -304,7 +306,7 @@
 * [Weboasis Convert](https://weboas.is/convert/) - *Conversion Calculators*
 * [PecentageTools](https://percentagetools.com/) or [CalcPercentage](https://calcpercentage.com/) - *Percentage Calculators*
 * [FractionCalc](https://fractionscalc.com/) - *Fraction Calculator*
-* [Unit Conversion](https://conversao.net/eng/), [UnitConverters](https://www.unitconverters.net/) or [ConvertAll](https://convertall.bellz.org/) - *Unit Converter* 
+* [Unit Conversion](https://conversao.net/eng/), [Quick Convert](https://www.microsoft.com/p/app/9wzdncrdm7gt), [UnitConverters](https://www.unitconverters.net/) or [ConvertAll](https://convertall.bellz.org/) - *Unit Converter* 
 * [Derivative Calculator](https://www.derivative-calculator.net/) - *Derivative Calculator*
 * [Integral Calculator](https://www.integral-calculator.com/) - *Integral Calculator*
 * [Desmos](https://www.desmos.com/) - *Graphing Calculator* 
@@ -374,6 +376,7 @@
 # ► Virtual Tours
 
 * [Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/) - *Online Learning Collections / Tours* 
+* [Gez.la](https://gez.la/) - *Virtual Tours Map*
 * [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - *Natural History Museum Virtual Tour* 
 * [Chauvet Cave](https://archeologie.culture.fr/chauvet/en/explore-cave/) - *Chauvet-Pont-d'Arc Cave Virtual Tour* 
 * [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - *Spitfire Mark IX Cockpit Interactve Panorama* 
@@ -587,7 +590,7 @@
 * [AMCharts](https://live.amcharts.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - *Chart Creator*
 * [AWW](https://awwapp.com/), [OpenBoard](https://openboard.ch/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - *Whiteboard*
 * [app.diagrams](https://app.diagrams.net/), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/) or [Gephi](https://gephi.org/) - *Graph / Diagram Creator*  
-* [Anki](https://apps.ankiweb.net/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html) or [Flashcard Machine](https://www.flashcardmachine.com/) - *Flash Card Tool*
+* [Anki](https://apps.ankiweb.net/), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html) or [Flashcard Machine](https://www.flashcardmachine.com/) - *Flash Card Tool*
 * [Wolfram Cloud](https://www.wolframcloud.com/) - *Computational intelligence*
 * [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
 *  [Mujoco](https://github.com/deepmind/mujoco), [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - *Physics Simulations / Animations*
@@ -663,4 +666,4 @@
 * [College Map](https://nces.ed.gov/ipeds/collegemap/) - *College Information Map*
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - *Professor Ratings*
 * [Edu VPN](https://www.eduvpn.org/) - *Institute Access VPN*
-* [10MinMail](https://10minutesemail.net/) - *Temp EDU Email Address*
+* [.edu Mail Guide](https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview), [Mail.mjj](https://mail.mjj.edu.ge/), [10MinMail](https://10minutesemail.net/) - *EDU Email Address'*
