@@ -203,15 +203,17 @@
 * [SCNLOG](https://scnlog.me/) - *Linux Games*
 * [de.linuxgame.cn](https://de.linuxgame.cn/) - *Linux Games* 
 * [The KDE Games Center](https://games.kde.org/) - *Linux Games*
+* [Free Linux PC Games](https://freelinuxpcgames.com/) - *Linux Games*
 * [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/wiki/) - *Wiki for Linux Gaming*
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - *Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)*
 * [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) - *Install & Manage Proton-GE for Steam / Wine*
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - *Rust TUI for Steam*
 * [steam-cli](https://github.com/berenm/steam-cli) - *CLI for Steam*
+* [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher*
+* [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - *GOG Client*
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - *Linux Gaming Kernels*
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - *Linux System Optimizer*
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - *Linux Game Package Downloader*
-* [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher for Linux*
 * [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - *Roblox Manager for Linux*
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - *Play Among Us in your Terminal (Recreation)*
 
@@ -220,7 +222,7 @@
 # ► Mac Tools / Apps
 
 * **[Dropzone](https://filecr.com/?s=dropzone)** - *File Manger*
-* **[The Unarchiver](https://theunarchiver.com/)** - *Archive / Unzip Files*
+* **[The Unarchiver](https://theunarchiver.com/)** or [Keka](https://www.keka.io/) - *File Archiver / Unzipper*
 * **[qBittorrent](https://www.qbittorrent.org/)** - *Torrent Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)*
 * **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
 * **[shottr](https://shottr.cc/)** or [MagicCap](https://magiccap.me/) - *Screenshot Tool*
