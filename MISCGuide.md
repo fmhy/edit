@@ -294,6 +294,7 @@
 * [JacksonPollock](https://www.jacksonpollock.org/) - *Splatter Painting / Click to Change Color*
 * [paint.wtf](https://paint.wtf/) - *Have an AI Judge your Art* 
 * [ArtVote](https://artvote.net/) - *Judge Art*
+* [MakePrintPlay](https://makeprintplay.com/) - *Crossword Puzzle Creator*
 * [JamisBuck](https://www.jamisbuck.org/mazes/) - *Maze Algorithms*
 * [Windows XP Error Worm](https://ybenbihi.github.io/windows-error-worm/) - *Click & Drag Windows Errors* 
 * [Our World of Text](https://ourworldoftext.com/) or [Your World of Text](https://www.yourworldoftext.com/) - *Infinite grid of text editable by anyone*
@@ -301,6 +302,7 @@
 * [Genetic Cars 2](https://rednuht.org/genetic_cars_2/) - *Random 2D Car Generator*
 * [cachemonet](http://cachemonet.com/) - *Randomly Generated GIFs/ Backgrounds* 
 * [Wonder of Wonder Art](https://aidn.jp/wowa/) - *Create a Dancing Character* 
+* [Robotics.ovh](https://robotics.ovh/) - *Robotics Dance*
 * [CAT BOUNCE!](https://cat-bounce.com/) - *Bounce Cats*
 * [Tamajoji](https://flixflox.itch.io/tamajoji) - *Browser Tamagotchi*
 * [Gifypet](https://gifypet.neocities.org/) - *Create Your Own Cute Pet* 
@@ -523,7 +525,7 @@
 
 * **[News Feed Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_news_feed_aggregators)** - *Multiple News Site Feeds*
 * **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - *News Multireddit*
-* **[TorrentFreak](https://torrentfreak.com/)** - *Piracy News*
+* **[TorrentFreak](https://torrentfreak.com/)** or [TechGiga](https://www.techgiga.net/) - *Piracy News*
 * [RavenReader](https://ravenreader.app/) - *News Article Manager*
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - *How to bypass article paywalls*
 * [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - *Generate Article Summaries*
@@ -533,6 +535,7 @@
 * [GHacks](https://www.ghacks.net/), [Tidbits](https://tidbits.live/), [Geeks3D](https://www.geeks3d.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
 * [Latest Privacy](https://latestprivacy.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - *Privacy News*
 * [We Fight Censorship](http://3kyl4i7bfdgwelmf.onion/) - *Censorship News*
+* [Tudum](https://www.netflix.com/tudum) - *Netflix News*
 * [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - *Dark Web News*
 * [Interactive News Map](https://usa.liveuamap.com/) - *Geolocated News Alerts / Headlines U.S* 
 * [Forekast](https://forekast.com/) - *Worldwide Event Calendar* 
@@ -788,6 +791,7 @@
 * [Cost of Living](https://www.numbeo.com/cost-of-living/) - *Cost of Living Map*
 * [Mapfrappe](http://mapfrappe.com/?show=46142) - *Compare True Sizes on Land Masses*
 * [scale-a-tron](https://stamen.github.io/scale-a-tron/) - *Compare the Size of any Land*
+* [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - *Forest Sound Map*
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/), [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) or [AsteroidCollision](https://asteroidcollision.herokuapp.com/) - *Interactive damage effect maps*
 * [convert_lat_long](https://andrew.hedges.name/experiments/convert_lat_long/) - *Convert Latitude/Longitude to Decimal* 
 * [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - *Dialect Map*
@@ -1053,6 +1057,7 @@
 * [Tabji](https://tabji.link/) or [MarvellousSuspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - *Tab Suspender*
 * [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - *Picture-in-Picture Mode*
 * [OVC](https://chrome.google.com/webstore/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - *Video Controller*
+* [Say Play](https://thanesh.dev/say-play) - *Video Control Voice Commands*
 * [Audio Channel](https://chrome.google.com/webstore/detail/audio-channel/hafdgamhnmiioimpcdhhbhgcjndgmphd) - *Tab Audio Manager*
 * [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn) - *Text Summary Generator*
 * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) or [Volume Master](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - *Increase Browser Volume*
