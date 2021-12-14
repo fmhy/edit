@@ -75,7 +75,7 @@
 
 * **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - *Multi Site Search*
 * **[1337x](https://1337x.to/)** - *Video / Audio / Games / Software / NSFW* 
-* **1337x Tools** - [Mirrors](https://1337x.to/about) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot)
+* **1337x Tools** - [Mirrors](https://1337x.to/about) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb)
 * **[RarBG](https://rarbg.to)** - *Video / Audio / Games / Software / NSFW* 
 * **RarBG Tools** - [Python Interface](https://github.com/verybada/rarbgapi) / [Advanced Filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) / [Add Links](https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links) / [Thumbnails](https://github.com/keyboardslayer/rarbg-thumbnails)
 * **[RuTracker](http://rutracker.org)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - *Video / Audio / Games / Software / Android / Comics / Magazines*
