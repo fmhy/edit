@@ -578,7 +578,7 @@
 
 # ► Italian
 
-* [Definitive Italian Streaming](https://rentry.org/DefinitiveItalianStreming) - *Italian Piracy Sites*
+* **[Definitive Italian Streaming](https://rentry.org/DefinitiveItalianStreming)** - *Italian Piracy Sites*
 
 ## ▷ Downloading 
 
@@ -888,6 +888,7 @@
 
 # ► Portuguese 
 
+* **[Guia de Pirataria para Iniciantes](https://rentry.org/PiracyBG-PTBR)** - *Portuguese Beginners Guide to Piracy*
 * [Invetexto](https://www.invertexto.com/) - *Multiple Online Tools*
 * [LegendaOfficial](http://legendaoficial.net/), [LegendasDivx](https://www.legendasdivx.pt/), [Legendas.tv](http://legendas.tv/), [Legendas](https://legendas.co/), [Legendas.dev](https://legendas.dev/) or [Leganda-Zone](https://www.legendas-zone.org/) - *Subtitles* 
 * [legendasbrasil](https://legendasbrasil.org/) - *Subtitle Search App*
@@ -1324,8 +1325,9 @@ Portuguese
 
 * **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - *Spanish Telegram Channel Index*
 * [jogos10](http://www.jogos10.com/) or [Minijuegos](https://www.minijuegos.com/) - *Browser Games*
-* [elblogdelnarco](https://elblogdelnarco.com/) - *Drug Trafficking News*
+* [EmojiTool](https://emojitool.com/) - *Emoji Database*
 * [Catflix](https://www.championcat.cl/catflix/) - *Cats!*
+* [elblogdelnarco](https://elblogdelnarco.com/) - *Drug Trafficking News*
 
 ## ▷ Downloading
 
