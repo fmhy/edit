@@ -889,6 +889,7 @@
 # ► Portuguese 
 
 * **[Guia de Pirataria para Iniciantes](https://rentry.org/PiracyBG-PTBR)** - *Portuguese Beginners Guide to Piracy*
+* **[Portuguese Piracy Sites](https://rentry.org/PortuguesePiracySites)** - *Portuguese Piracy Sites*
 * [Invetexto](https://www.invertexto.com/) - *Multiple Online Tools*
 * [LegendaOfficial](http://legendaoficial.net/), [LegendasDivx](https://www.legendasdivx.pt/), [Legendas.tv](http://legendas.tv/), [Legendas](https://legendas.co/), [Legendas.dev](https://legendas.dev/) or [Leganda-Zone](https://www.legendas-zone.org/) - *Subtitles* 
 * [legendasbrasil](https://legendasbrasil.org/) - *Subtitle Search App*
