@@ -36,6 +36,7 @@
 * [Skill Capped Downloader](https://ufile.io/kuthw907) - *Skill Capped Video DL Script / [Guide](https://i.imgur.com/lZofxhL.png)*
 * [MacroGamer](https://www.itoady.com/) - *Game Macro Recorder*
 * [Blitz](https://blitz.gg/) - *Post Match Performance Analyzer / [Adblocker](https://github.com/lulzsun/blitz-app-adblock)* 
+* [Valve Archive](https://valvearchive.com/) - *Rare Valve Data Archive*
 * [Previously on Halo](https://previouslyonhalo.com/) - *Halo Franchise History*
 * [Map Genie](https://mapgenie.io/) or [VGMaps](http://www.vgmaps.com/)  - *Game Maps* 
 * [noclip](https://noclip.website/) - *Explore Game Maps* 
