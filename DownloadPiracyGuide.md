@@ -192,16 +192,20 @@
 * [Cyberspace](https://cyberspace.world/)
 * [4Download](https://www.4download.net/) 
 * [Softwares 2 U](https://www.softwares2u.com/) 
+* [IGGTech](https://iggtech.com/) 
 * [onHax](https://onhax.io/)
 * [MAZTERIZE](https://www.mazterize.com/) 
 * [VectorItalia](https://www.vectoritalia.com/)
 * [Mirror.una](http://mirror.una.ac.cr/) 
 * [MySoftwareFree](https://mysoftwarefree.com/)
+* [AllPCWorld](https://allpcworld.com/)
+* [ArmaanPC](https://www.armaanpc.com/) 
 * [Mutaz.net](https://www.mutaz.net/)
 * [AIOsetup](https://t.me/aiosetup) - *Telegram* 
 * [Libreware](https://t.me/Libreware) - *Telegram* 
 * [raymondfreesoftware](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g)
 * [Rarewares](https://www.rarewares.org/) - *Rare Software*
+* [PLC4Me](https://plc4me.com/) - *Automation Software*
 * [Radixx11](https://radixx11rce3.blogspot.com/), [Izofile](https://izofile.com/), [Soft2Ev](https://www.soft2ev.com/), [Keygen Fortress](https://t.me/keygen_fortress), [SmartSerials](https://smartserials.com/) or [SerialReactor](https://serialreactor.com/) - *Software Keys / Patches*
 * [Software Heritage](https://www.softwareheritage.org/) - *Software Source Code Archive* 
 * [balenaHub](https://hub.balena.io/) - *Raspberry Pi Software* 
@@ -247,6 +251,7 @@
 * [Informer](https://www.informer.com/) 
 * [Skytopia](https://www.skytopia.com/software/) 
 * [Den4b](https://www.den4b.com/) 
+* [4-Dots](https://www.4dots-software.com/free-software/)
 * [DonationCoder](https://www.donationcoder.com/) 
 * [AntibodySoftware](https://antibody-software.com/) 
 * [3nitySoftware](http://3nitysoftwares.com/index.php/en) 
@@ -321,6 +326,7 @@
 * [Music-Create](https://music-create.org/) 
 * [Audio.Tools](https://audio.tools/) 
 * [AudioLove](https://audiolove.club/) 
+* [jbouchat](http://jbouchat.ucoz.com/)
 * [adaz3d](https://www.adaz3d.com/) - *Leech Required* 
 
 ***
