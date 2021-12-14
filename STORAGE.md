@@ -1107,10 +1107,6 @@ Add the following commands to a search to manually scrape each site.
 
 **[9xbuddy](https://9xbuddy.org/)**, [savieo](https://savieo.com/), [AllTube Download](https://alltubedownload.net/), [grabanymedia](https://grabanymedia.altervista.org/), [Ripsave](https://ripsave.com/), [KeepSaveIT](http://keepsaveit.com/), [TubeOffline](https://www.tubeoffline.com/), [clipconverter](https://www.clipconverter.cc/2/), [clipgrab](https://clipgrab.org/), [4kdownload](https://www.4kdownload.com/), [bitdownloader](https://bitdownloader.io/), [you-get](https://you-get.org/), [annie](https://github.com/iawia002/annie), [catchvideo](https://catchvideo.net/), [HackDownload](https://hackdownloader.com/), [DistillVideo](https://distillvideo.com/), [Catch-Tube](https://catch.tube/), [SaveVideo.me](http://savevideo.me/?lang=en), [LocoDownloader](https://locoloader.com/), [Yout](https://yout.com/), [Keepv.id](https://keepv.id/), [downloader-ui](https://github.com/Mqlhaha/downloader-ui), [connectvip](https://connectvip.store/), [Vividl](https://vividl.sourceforge.io/), [ddownloader](https://ddownloader.com/), [pastedownload](https://pastedownload.com/), [weibomiaopai](https://weibomiaopai.com/download-video-parser.php), [gramvio](https://www.gramvio.com/), [tubeninja](https://www.tubeninja.net/), [savethevideo](https://www.savethevideo.com/), [qvideodownloader](https://qvideodownloader.com/), [converteri](https://converteri.online/), [keepvid.pro/](http://www.keepvid.pro/), [dodoconverter](https://www.dodoconverter.com/), [zasasa](http://www.zasasa.com/)
 
-**Telegrams** 
-
-[FetchBot](https://t.me/WebSnatchBot)
-
 **Extensions**
 
 **[Download Helper](http://www.downloadhelper.net/)**, [Video Downloader](https://provd.net/), [AddonCrop](https://addoncrop.com/extensions/), [Cococut](https://cococut.net/), [skyload](http://skyload.io/)
@@ -1145,7 +1141,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Name & Identity Generators
 
-[Fake-it](https://fake-it.ws/), [Fake Data](https://www.fakedata.pro/), [namefake](https://en.namefake.com/), [minirandom](https://minirandom.com/), [namegenerators](http://namegenerators.org/), [online-generator.com](https://online-generator.com/index.php), [igopaygo](https://names.igopaygo.com/), [fakena.me](https://fakena.me/), [Fake Name Generator](https://www.fakenamegenerator.com/), [fakepersongenerator](https://www.fakepersongenerator.com/), [datafakegenerator](https://datafakegenerator.com/), [elfqrin](https://www.elfqrin.com/), [fakedetail](https://fakedetail.com/), [fauxid](https://fauxid.com/), [fakexy](https://www.fakexy.com/)
+[Fake-it](https://fake-it.ws/), [Fake Data](https://www.fakedata.pro/), [namefake](https://en.namefake.com/), [minirandom](https://minirandom.com/), [namegenerators](http://namegenerators.org/), [online-generator.com](https://online-generator.com/index.php), [igopaygo](https://names.igopaygo.com/), [Fake Name Generator](https://www.fakenamegenerator.com/), [fakepersongenerator](https://www.fakepersongenerator.com/), [datafakegenerator](https://datafakegenerator.com/), [elfqrin](https://www.elfqrin.com/), [fakedetail](https://fakedetail.com/), [fauxid](https://fauxid.com/), [fakexy](https://www.fakexy.com/)
 
 ***
 
