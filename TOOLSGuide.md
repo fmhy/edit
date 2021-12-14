@@ -44,6 +44,7 @@
 * [Volmarg](https://volmarg.github.io/) - *Personal Management Tool*
 * [Focalboard](https://www.focalboard.com/) - *Project Management Tool*
 * [Slab](https://slab.com/) - *Organization & Team Management Tool*
+* [Doozy](https://doozy.live/) - *Team Management Tools / Games*
 * [PHPCRM](https://www.phpcrm.com/) - *Company Management Software*
 * [Creative Commons](https://creativecommons.org/) - *Creative Commons Licenses*
 * [ievaphone](https://ievaphone.com/), [blacktel](https://www.blacktel.io/), [Citrustel](https://www.citrustel.com/) or [PopTox](https://www.poptox.com/) - *Make Free Phone Calls*
@@ -69,7 +70,7 @@
 * [RTL-SDR](https://gist.github.com/fasiha/c123a9c6b6c78df7597bb45e0fed808f) - *DIY FAA & EASA Satellite Feeds / Transponder*
 * [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/) or [Random Lists](https://www.randomlists.com/) - *Generate Anything*
 * [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - *Wheel Randomizer*
-* [PollCode](https://pollcode.com/) - *Poll Creator*
+* [PollCode](https://pollcode.com/) or [poal.me](https://poal.me/) - *Poll Creator*
 * [Diff Checker](https://www.diffchecker.com/) - *Check for differences in Text, Images, PDFs or Files*
 * [Find Your Place](https://where-is-this.com/) - *Find Places from Pictures*
 * [IRuler](https://iruler.net/) - *Turn your device into a Ruler*  
@@ -390,7 +391,7 @@
 * [Roland 808303.studio](https://808303.studio/) - *Online Drum Machine / TB-303 Bass Synth* 
 * [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/) or [Hammmerhead](http://www.threechords.com/hammerhead/) - *Online Drum Machine*
 * [orDrumbox](https://www.ordrumbox.com/) - *Drum Machine*
-* [Dot Piano](https://dotpiano.com/) - *Online Piano*
+* [Dot Piano](https://dotpiano.com/) or [Piano Online](https://magicode.me/piano-online) - *Online Piano*
 * [MK-1](https://ericrosenbaum.github.io/MK-1/) - *Online Sampling Keyboard*
 * [Theremin](https://femurdesign.com/theremin/) - *Online Synth / Theremin* 
 * [Audio Synthesizers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_synthesizers) - *Audio Synthesizer Sites & Apps*
@@ -465,6 +466,7 @@
 * [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) - *Common Interview Questions & Answers*
 * [LeetFree](https://sksusha8853.github.io/leetcode/index.html) - *Leaked Google, Facebook & Amazon Interview Questions*
 * [JustLanded](https://www.justlanded.com/) - *Working & Living Abroad Guides*
+* [Nomad List](https://nomadlist.com/) - *Remote Work Listings*
 * [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - *Online Working Subreddit*
 * [/r/freelance](https://www.reddit.com/r/freelance/) - *Freelance Subreddit*
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - *Design Job Subreddit*
@@ -511,7 +513,7 @@
 * [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - *Follow RSS Feeds*
 * [CTRLQ](https://ctrlq.org/rss/) or [RSS.app](https://rss.app/) - *RSS Feed Search* 
 * [RSS Box](https://rssbox.herokuapp.com/) or [FiveFilters](https://createfeed.fivefilters.org/) - *RSS Feed Creator* 
-* [RSSMail](https://git.panda-roux.dev/rssmail/about/) - *RSS to Email*
+* [RSSMail](https://git.panda-roux.dev/rssmail/about/) or [FeedButler](https://feedbutler.app/en) - *RSS to Email*
 * [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - *RSS Feed for Sites Missing It*
 * [Consuming The World](https://weboas.is/forum/index.php?topic=656.0), [All about RSS](https://github.com/AboutRSS/ALL-about-RSS) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - *RSS Feeds & Tools*
 * [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - *GitHub, Reddit, Hacker News & other Feeds*
@@ -568,7 +570,7 @@
 * [FireStorm Viewer](https://www.firestormviewer.org/) - *Virtual World Viewer*
 * [Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_sites) - *No Verification Required Email Sites*
 * [Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients) - *Send & Receive Mail*
-* [10MinMail](https://10minutesemail.net/) - *Temp EDU Email Address'*
+* [.edu Mail Guide](https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview), [Mail.mjj](https://mail.mjj.edu.ge/), [10MinMail](https://10minutesemail.net/) - *EDU Email Address'*
 * [BeFree](https://beefree.io/templates/free/) - *Email Templates*
 * [FreeMail](https://extrassl.actalis.it/portal/uapub/freemail?lang=en) - *Free Mail Certificate*
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://www.nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - *Scheduled Email Sending & Reminders* 
@@ -577,7 +579,6 @@
 * [Unroll](https://unroll.me/) - *Easily Unsubscribe from Emails*
 * [nBox](https://nbox.notif.me/) - *Sign Up Anywhere without Email* 
 * [zMail](http://zmail.sourceforge.net/) or [Emkei's Fake Mailer](https://emkei.cz/) - *Send Fake Emails* 
-* [Mail.mjj](https://mail.mjj.edu.ge/) - *Temporary .edu Mail*
 * [MailBait](https://mailbait.info/) - *Fill Inbox with Mail* 
 * [Email Valid](https://ivit.pro/services/email-valid/) or [Ychecker](https://ychecker.com/) - *Check Email Validity & Usage*
 * [Useplaintext](https://useplaintext.email/) - *How-To Use plaintext Email* 
@@ -595,7 +596,7 @@
 * [itty.bitty](https://itty.bitty.site/) - *Host Small HTML Sites / Apps* 
 * [Miraheze](https://miraheze.org/) or [Fandom](https://www.fandom.com/) - *Free Wiki Hosting* 
 * [WikiStalk](https://github.com/altilunium/wistalk) - *Analyze Wikipedia User's Activity*
-* [Ichi](https://ichi.city), [Linktree](https://linktr.ee/), [Carrd](https://carrd.co/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/) or [ContactInBio](https://www.contactinbio.com/) - *Personal Link Homepages* 
+* [Ichi](https://ichi.city), [Linktree](https://linktr.ee/), [MyURLs](https://myurls.co/), [Carrd](https://carrd.co/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/) or [ContactInBio](https://www.contactinbio.com/) - *Personal Link Homepages* 
 * [Integrated Inbox](https://integratedinbox.com/) - *Gmail Google Web App Integration*
 * [Namechk](https://namechk.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Check Username / Domain Availability*
 * [Pyfunceble](https://pyfunceble.github.io/#/) or [Domainr](https://domainr.com/) - *Check IP / Domain Availability* 
@@ -748,6 +749,7 @@ General Reading Sites*
 * [grep.app](https://grep.app/) - *Git Repository Search*
 * [MyCroftProject](https://mycroftproject.com/) - *Search Engine Plugins*
 * [Google Trends](https://trends.google.com/trends/) - *Google Search Trends*
+* [The Search Engine Map](https://www.searchenginemap.com/) - *View Search Engine Connections*
 
 ***
 
@@ -1027,7 +1029,7 @@ G) - *Create Discord RPCs*
 * **[Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools)** - *File Tools for Telegram*
 * [Telegram Channels](https://telegramchannels.me/), [TG-ME](https://www.tg-me.com/), [tg_indexs](https://t.me/tg_indexs) or [Telegramic](https://telegramic.org/) - *Telegram Channel Indexes*
 * [BotsArchive](https://t.me/BotsArchive), [2](https://github.com/ebertti/awesome-telegram), [3](https://github.com/DenisIzmaylov/awesome-telegram-bots), [4](https://github.com/abdelhai/awesome-bots), [5](https://github.com/stkw0/awesome-telegram-groups), [6](https://github.com/serhii-londar/awesome-telegram), [7](https://github.com/lorien/awesome-telegram-lists), [8](https://telegramic.org/bots/), [9](https://t.me/botlist) - *Telegram Bot Indexes* 
-* [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - *Telegram Channel / Bot Search*
+* [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [gramxly](https://gramxly.com/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - *Telegram Channel / Bot Search*
 * [ShellBot](https://github.com/MannyHackers/ShellBot) or [Userge](http://theuserge.tech/) - *Multi-Tool Telegram Bot*
 * [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots) - *Download Audio via Telegram*
 * [Now Playing](https://t.me/nowplaybot) - *Now Playing Audio Bot*
@@ -1389,6 +1391,7 @@ G) - *Create Discord RPCs*
 * [Klotures](https://gitlab.com/jkushmaul/klotures) - *Desktop Icon Organizer / [Demo](https://gitlab.com/jkushmaul/klotures/raw/master/docs/KloturesDemo.webm)*
 * [QuickLook](https://github.com/QL-Win/QuickLook) - *macOS Quick Look for Windows* 
 * [AutoHotkey](https://www.autohotkey.com/) - *Keyboard Macro Program / [Script Gen](https://www.ahkgen.com/)*
+* [Scheduler](https://www.splinterware.com/products/scheduler.html) - *System Task Scheduler*
 * [cygwin](http://cygwin.com/) - *Linux Style Windows Tools*
 * [Menu11](https://github.com/prateekmedia/Menu11) - *Windows 11 Style Launcher*
 * [NeatMouse](https://neatdecisions.com/products/neatmouse/) - *Mouse / Keyboard Emulator*
@@ -1511,7 +1514,7 @@ G) - *Create Discord RPCs*
 * [Accent Applicator](https://github.com/mcdenis/AccentApplicator) - *Applies Win 10 Accent Color to OS*
 * [ModernWinver](https://github.com/torchgm/ModernWinver) - *Modernize the About Windows Screen*
 * [pyWinContext](https://github.com/VodBox/pyWinContext) or [WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - *Custom Context Menu Manager* 
-* [Modern Flyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - *Modern & Fluent Flyouts for Windows*
+* [Modern Flyouts](https://www.microsoft.com/en-gb/p/modernflyouts-preview/9mt60qv066rp?activetab=pivot:overviewtab) - *Modern & Fluent Flyouts for Windows / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)*
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - *Windows 10 Search Appearance Tweaker*
 * [Windows 11 for Windows 10](https://www.deviantart.com/niivu/art/Windows-11-for-Windows-10-882819383) - *Windows 11 Theme / [Icons](https://www.deviantart.com/niivu/art/Windows-11-Icon-Themes-874289797)*
 * [Taskbar Tweaker](https://tweaker.rammichael.com/), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) or [Valaut](http://www.valaut.phpnet.us/) - *Taskbar Customization Tools*
@@ -1592,6 +1595,7 @@ G) - *Create Discord RPCs*
 * [ShowPDF](http://showpdf.com/) - *PDF to HTML Converter*
 * [PSTOEdit](http://pstoedit.net/) - *Convert PDF to other Vector Formats* 
 * [Issuu](https://issuu.com/) - *Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/), [3](https://docdownload.net/)* 
+* [WebToPDF](https://webtopdf.com/) - *Webpage to PDF Converter*
 * [PPT To PDF](https://www.adobe.com/acrobat/online/ppt-to-pdf.html) - *Convert PowerPoint to PDF Adobe*
 * [watermark-remover](https://github.com/cpappen/watermark-remover), [pdf-remove-watermarks](https://github.com/matthiasbock/pdf-remove-watermarks) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - *PDF Watermark Remover*
 * [Scan Your PDF](https://www.scanyourpdf.com/) - *Make a PDF look like it was Scanned*
