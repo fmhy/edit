@@ -200,6 +200,7 @@
 * [Google Lens](https://lens.google/) - *Multiple Camera Tools*
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) or [Camator](https://gcamator.com/) - *Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/)*
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - *Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)*
+* [WOMBO Dream](https://www.wombo.art/) - *Dream Artwork Tool*
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - *Image Size Reducer*
 * [LosesslessJpgCrop](https://github.com/k3b/LosslessJpgCrop) - *Lossless Image Cropper*
 * [Image Searcher](https://play.google.com/store/apps/details?id=sansunsen3.imagesearcher) - *Image Search App*
@@ -219,6 +220,7 @@
 * [Kubool](https://www.gdpd.xyz/) - *Anonymous Confession App*
 * [OpenInWA](https://github.com/SubhamTyagi/openinwa) - *Number Free WhatsApp Chat*
 * [Whatsapp Groups](https://whatsaplinks.com/) - *Whatsapp Group Links*
+* [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - *Read Exported Whatsapp Chats*
 * [Watomatic](https://f-droid.org/packages/com.parishod.watomatic) or [AutoResponder](https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDEhkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDGAA=:S:ANO1ljKlL8g&gsr=CjuKAzgKGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMSGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMYAA==:S:ANO1ljLE-Ks) - *Chat App Auto-Responders*
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - *Article / Link Viewer*
 * [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - *Track Github User Activity*
@@ -528,8 +530,7 @@
 
 ## ▷ Android Relaxation
 
-* [Rainy Mood](https://play.google.com/store/apps/details?id=com.TailoredMusic.RainyMood) - *Rain sounds*
-* [Raining.fm](https://play.google.com/store/apps/details?id=fm.raining.rainingfm&amp;hl=en) - *Ambient Rain Sounds / Relaxation* 
+* [Rainy Mood](https://play.google.com/store/apps/details?id=com.TailoredMusic.RainyMood), [Raining.fm](https://play.google.com/store/apps/details?id=fm.raining.rainingfm&amp;hl=en) or [RainySounds](https://rainysounds.online/) - *Ambient Rain*
 * [Noizio](https://play.google.com/store/apps/details?id=com.noizio&amp;hl=en_US) - *Nature Sounds / Relaxation* 
 * [A Soft Murmur](https://play.google.com/store/apps/details?id=com.gabemart.asoftmurmur) - *Mix ambient sounds*
 * [Tide.fm](https://pics.tide.moreless.io/site/tide.apk) - *Meditation / Sleep Sounds* 
@@ -639,7 +640,6 @@ RSS Player*
 * **[Complete Jailbreak Chart](https://docs.google.com/spreadsheets/d/11DABHIIqwYQKj1L83AK9ywk_hYMjEkcaxpIg6phbTf0/)** - *Jailbreak Tools Index*
 * [Can I Jailbreak](https://iosninja.io/jailbreak-wizard-can-i-jailbreak) - *Check if your Phone can be Jailbroken* 
 * [/r/jailbreak](https://reddit.com/r/jailbreak) - *Jailbreaking Subreddit*
-* [Electralyzed](https://github.com/6ilent/Electralyzed) - *Jailbreak Tweaks*
 * [Sideloading Beginners Guide](https://redd.it/orqzau) or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - *Sideloading Guide*
 * [/r/sideloaded](https://reddit.com/r/sideloaded) - *Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)*
 * [Sideloadly](https://iosgods.com/topic/130167-windowsmacosm1ios-15-introducing-sideloadly-working-cydia-impactor-alternative/) , [ReProvision Reborn](https://repo.packix.com/package/jp.soh.reprovision) / [GitHub](https://github.com/sohsatoh/ReProvision-Reborn) or [iPAWiND](https://ipawind.com/) - *Sideloading Tool*
@@ -856,7 +856,7 @@ RSS Player*
 
 # ► iOS Audio
 
-* **[Spotilife](https://rentry.co/SpotilifeGuide)** / [2](https://repo.hackyouriphone.org/spotilife), [Tweaked Spotify](https://rentry.co/spotifyIPA), [Spotify++](https://appdb.to/app/cydia/1900000540) / [2](https://ipaspot.app/categories/tweakedapps.html) or [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580) - *Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392)*
+* **[Spotify++](https://redd.it/pt5uv9)** / [2](https://ipaspot.app/categories/tweakedapps.html), **[Spotilife](https://rentry.co/SpotilifeGuide)** / [2](https://repo.hackyouriphone.org/spotilife), [Tweaked Spotify](https://rentry.co/spotifyIPA) or [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580) - *Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392)*
 * [YTMusilife](https://rentry.co/YTMusicGuide) / [2](https://repo.hackyouriphone.org/ytmusilife) or [YouTube Music Patched](https://appdb.to/app/cydia/1900000831) - *Streaming*
 * [DeezeLife](https://rentry.co/deezerpremiumforios) / [2](https://repo.hackyouriphone.org/deezelife) or [Deezer](https://apps.apple.com/app/deezer/id292738169) - *Streaming*
 * [SCloudlife](https://repo.hackyouriphone.org/scloudlife) or [Soundcloud](https://apps.apple.com/us/app/soundcloud/id336353151) - *Streaming*
