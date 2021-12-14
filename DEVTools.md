@@ -29,7 +29,7 @@
 * [A Byte of Python](https://python.swaroopch.com/) - *Learn Python*
 * [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - *Python Lessons*
 * [Real Python](https://realpython.com/) - *Python Tutorials*
-* [FutureCoder](https://futurecoder.io/) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - *Python Course*
+* [FutureCoder](https://futurecoder.io/), [2-Python](https://mega.nz/folder/QgdziAiK#QgEW3PY8P5znFR0mNQ-njQ) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - *Python Course*
 * [Tea Press](https://greenteapress.com/wp) - *Free Python Learning Books Green*
 * [VSCode.one](https://vscode.one/) - *VS Code Tutorials*
 * [Aquent Gymnasium](https://thegymnasium.com/) - *Courses* 
@@ -57,6 +57,7 @@
 * [Ultimate Programming](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE) - *Programming Tutorials*
 * [FCS](https://freecoursesite.com/) - *Programing Tutorials*
 * [w3schools](https://www.w3schools.com/) - *Programing Tutorials*
+* [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - *Programming Courses*
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - *Programming Courses*
 * [Coding Blocks](https://codingblocks.freehotspot.workers.dev/0:/) - *Programming Courses*
 * [Coding Ninjas](https://codingninjas2.freehotspot.workers.dev/), [2](https://codingninjas.freehotspot.workers.dev/), [3](https://codingninjas1.freehotspot.workers.dev/) - *Programming Courses*
@@ -202,11 +203,11 @@
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/) - *Site Development Tools*
 * [Uncensorable Publishing](https://uncensorablepublishing.com/) - *Create Hard to Censor Sites*
-* [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [Graphic Design Elements](https://onehack.us/t/get-20-000-graphic-design-elements/155320), [ImCreator](http://www.imcreator.com/free), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/) or [Freebiesbug](http://freebiesbug.com/)  - *Web Design Resources*
+* [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [Graphic Design Elements](https://onehack.us/t/get-20-000-graphic-design-elements/155320), [ImCreator](http://www.imcreator.com/free), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/) or [Freebiesbug](http://freebiesbug.com/)  - *Web Design Resources*
 * [Flux](https://www.runonflux.io/) - *Decentralized Cloud Infrastructure*
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
 * [xWebTools](https://www.xwebtools.com/) - *Web Developer Tools*
-* [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [BulkLink](http://bulklink.org/) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization Tools*
+* [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [BulkLink](http://bulklink.org/) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization Tools / [Extension](https://chrome.google.com/webstore/detail/ubersuggest-seo-and-keywo/nmpgaoofmjlimabncmnmnopjabbflegf)*
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) - *Web Debugging Proxy App*
 * [Tabler](https://tabler.io/) - *Site Admin Dashboard*
 * [Geekflare Tools](https://gf.dev/toolbox) - *Site Testing Tools*
@@ -256,7 +257,7 @@
 * [GalleryProject](http://galleryproject.org/) - *Manage / Host Photos on Website* 
 * [PublishThisEmail](https://www.publishthis.email/) - *Email Based Website Builder*
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - *Mobile Friendly Page Test* 
-* [RealFaviconGenerator](https://realfavicongenerator.net/) - *Website Favicon Generator*
+* [RealFaviconGenerator](https://realfavicongenerator.net/), [TheForgeSmith](https://icons.theforgesmith.com/) or [Basic Icons](https://basicons.xyz/) - *Site / App Icons*
 * [hlsflow](https://github.com/hlsflow/hlsflow) - *Host Video in HLS Stream*
 * [WebDesigner](https://webdesigner.withgoogle.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/AriaMinaei/theatre) or [Animate.css](https://animate.style/) - *Create Interactive Motion Graphics*
 * [Vidlery](http://vidlery.com/) - *Animated Webpage Background*
@@ -356,7 +357,7 @@
 * [Blisk](https://blisk.io/) - *Cross-Device Testing*
 * [Booster](https://github.com/didi/booster) - *Mobile App Optimization*
 * [Mobbin](https://www.mobbin.design/) - *Mobile App Design Reference Library*
-* [IconKitchen](https://icon.kitchen/) - *App Icon Generator*
+* [IconKitchen](https://icon.kitchen/) or [AppIcon](https://appicon.co/)- *App Icon Generator*
 * [Plank](https://launchpad.net/plank) - *Simple Dock / [GitHub](https://github.com/ricotz/plank)*
 * [Portainer](https://portainer.io/) - *Build / Manage Docker Containers / [Templates](https://github.com/SelfhostedPro/selfhosted_templates) / [GitHub](https://github.com/portainer/portainer)*
 * [Compose Samples](https://github.com/android/compose-samples) - *App Samples*
@@ -376,7 +377,7 @@
 * [PM2](https://pm2.keymetrics.io/) - *Process Manager*
 * [React95](https://react95.io/) - *Windows 95 React Components*
 * [Redex](https://fbredex.com/) - *Android Bytecode Optimizer*
-* [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [DeviceFrames](https://deviceframes.com/) or [LS Graphics](https://www.ls.graphics/) - *App & Site Mockups*
+* [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/) or [LS Graphics](https://www.ls.graphics/) - *App & Site Mockups*
 
 ***
 
@@ -429,6 +430,7 @@
 * [Water.css](https://watercss.kognise.dev/) - *CSS Styles Collection*
 * [Leon's CSS](https://leonarnott.neocities.org/ ) - *CSS Text Styles*
 * [Hover.CSS](https://ianlunn.github.io/Hover/) - *CSS Hover Effects* 
+* [BestCSSButtonGenerator](https://www.bestcssbuttongenerator.com/) - *CSS Button Generator*
 * [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds) - *CSS Background Patterns* 
 * [Gradient Animator](https://www.gradient-animator.com/) - *Animated CSS Gradient Generator*
 * [Animista](https://animista.net/) - *Tweak / Download CSS Animations*
