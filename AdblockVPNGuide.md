@@ -464,7 +464,6 @@
 * [StrongSwan](https://www.strongswan.org/) - *IPsec VPN*
 * [WireHole](https://github.com/IAmStoxe/wirehole) - *Wireguard VPN w/ Adblocking Capabilities* 
 * [Syntropy](https://www.syntropystack.com/vpn) or [Outline](https://getoutline.org/) - *Self-Hosted VPN*
-* [NetflixVPN](https://www.netflixvpn.com/) - *Access Geo-Restricted Streaming Sites*
 * [Kaspersky](https://www.kaspersky.co.uk/vpn-secure-connection) - *Free VPN / 200 MB per day / No Account Required*
 * [OpenConnect](https://www.infradead.org/openconnect/) - *SSL VPN*
 * [TurboVPN](https://turbovpn.com/) - *Free VPN*
