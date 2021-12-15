@@ -1179,6 +1179,7 @@ Add the following commands to a search to manually scrape each site.
 * https://watchseries.ninja/
 * https://topeuropix.site/
 * https://www.peramovies.club/ 
+* https://ww5.1todaypk.live/category/hollywood-featured/page/0
 
 ***
 
