@@ -1108,7 +1108,6 @@ Portuguese
 * **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** - *Piracy Discussion Telegram*
 * [DXP](https://dxp.ru/) - *Torrent / Subtitles*
 * [TLauncher Legacy](https://tlaun.ch/) - *Minecraft Client / Cracked Minecraft*
-* [netwhood](https://netwhood.online/) - *Communication Network*
 * [Proxy-Checker](https://proxy-checker.net/) - *Proxy Checker*
 * [Yandex Search Operator Cheat Sheet](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
 
