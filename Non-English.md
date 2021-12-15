@@ -1153,9 +1153,7 @@ Portuguese
 * [rutracker.ru](http://rutracker.ru/) - *Video / Audio / Games / Books / Software / Android / NSFW* 
 * [rutor](http://rutor.info/) - *Video / Audio / Games / Software / Books / Roms / Magazines*
 * [NNTT](http://www.nntt.org/) - *Video / Audio / Software / Games / Books / Magazines / Android* 
-* [Dark-OS](https://dark-os.com/) - *Video / Audio / Software / Games / Roms / Books / Magazines / Android / NSFW*
 * [Rus-Media](http://rus-media.org/) - *Video / Audio / Software / Games / Roms / Books / Magazines / Android / NSFW*
-* [URALTRACK](http://uraltrack.net/) - *Video / Audio / Software / Games / Roms / Books / Magazines*
 * [PB.wtf](https://pb.wtf/) - *Video / Audio / Software / Games / Books / Comics / Magazines / Android / NSFW* 
 * [IvTracker](http://ivtracker.org/) - *Video / Audio / Software / Games / Roms / Books / Magazines / Android / NSFW*
 * [IV-Torrents](https://iv-torrents.com/) - *Video / Audio / Software / Games / Roms / Books / Android / NSFW*
@@ -1178,7 +1176,6 @@ Portuguese
 * [Fast torrent](http://fast-torrent.ru/) - *Movies / TV / Anime* 
 * [FireBit](http://firebit.org/) - *Video / Audio / Software / Games / Books*
 * [BigFanGroup](https://bigfangroup.org/) - *Movies / TV / Anime* 
-* [torrentss](https://torrentss.ru/) - *Movies / TV / Games / Music* 
 * [ByTorent](http://bytorent.ru/) - *Video / Audio / Software*
 * [Animelayer](http://animelayer.ru/) - *Anime* 
 * [TFILMS](http://films-torrent.ru/) - *Movies / TV* 
@@ -1187,7 +1184,6 @@ Portuguese
 * [kinozal](http://kinozal.tv/) - *Movies* 
 * [toreents.club](http://toreents.club/) - *Movies / TV*  
 * [Underver](https://underver.se/) - *Movies / TV*
-* [FileBase](http://www.filebase.ws/) - *Movies* 
 * [androidkino](https://androidkino.net/) - *Movies / TV* 
 * [bitru](https://bitru.org/) - *Movies* 
 * [Selezen](https://selezen.net/) - *Movies*
@@ -1197,7 +1193,6 @@ Portuguese
 * [туттоп](https://tuttop.com/) - *Games*
 * [Small-Games](https://small-games.info/) - *Games*
 * [hit-muzik](https://hit-muzik.ru/) - *MP3* 
-* [vrocke](http://vrocke.info/) - *MP3* 
 * [opamuzika](http://www.opamuzika.ru/) - *MP3*  
 * [Muzick](https://muzick.ru/) - *MP3*
 * [Flactor](https://flactor.ru/) - *FLAC*
@@ -1229,7 +1224,6 @@ Portuguese
 * [VIP-TV](https://vip-tv.club/) - *IPTV Playlists*
 * [myzuka](https://myzuka.club/) - *Music*
 * [muzlishko](http://www.muzlishko.ru/) - *Music*
-* [pesnigoo](https://pesnigoo.ru/) - *Music*  
 * [Tancpol](https://tancpol.net/) - *Music*
 * [Mixmuz](https://mixmuz.ru/) - *Music*
 * [MP3Hero](https://mp3hero.net/) - *Music*
@@ -1281,7 +1275,6 @@ Portuguese
 ## ▷ Downloading
 
 * [identi](https://identi.io/) - *Video / Audio / Software / Games* 
-* [Foro Warez](https://forowarez.net/) - *Video / Audio / Software / Games / Books / Comics* 
 * [ChileComparte](http://www.chilecomparte.cl/) - *Video / Audio / Software / Books / Magazines / Comics / Android* 
 * [CompucaliTV](https://www.compucalitv.com/) - *Video / Software / Games*
 * [ZonaLeRoS](https://www.zona-leros.net/) - *Video / Games*
@@ -1340,9 +1333,7 @@ Portuguese
 * [PelisForte](https://pelisforte.co/) - *Movies / TV*
 * [Cinemargentino](https://cinemargentino.com/) - *Movies / Documentaries*
 * [Pelis28](https://pelis28.site/) - *Movies*
-* [HomeCine](https://homecine.me/) - *Movies* 
 * [Danimados](https://danimados.com) - *TV / Anime*
-* [SeriesFlix](https://seriesflix.la/) - *TV / Anime*
 * [novelas360](https://novelas360.com/) - *TV*
 * [HindiLover](https://hindilover.biz/) - *TV*
 * [Vix](https://www.vix.com/tv/) - *TV*
@@ -1356,7 +1347,6 @@ Portuguese
 * [animeblix](https://animeblix.com/) - *Anime* 
 * [Anime Online Sub](https://www.animeonlinesub.com/) - *Anime* 
 * [Monoschinos](https://monoschinos2.com/) - *Anime* 
-* [danimados](https://danimados.com/) - *Cartoons*
 * [serieslan](https://serieslan.com/) - *Cartoons*
 * [Blog De Plis](https://www.blogdepelis.tv/) - *Spanish Disney+* 
 * [NoireStyle](https://noirestyle.com/) - *Film Noir* 
@@ -1367,10 +1357,8 @@ Portuguese
 ## ▷ Reading
 
 * [epublibre](https://www.epublibre.org/) - *Books*  
-* [200.31.177.150](http://200.31.177.150:50050/ebooks/) - *Books*
 * [ebiblioteca](https://ebiblioteca.org/) - *Books* 
 * [Libros Gratis](https://descargalibrosxd.com/) - *Books*
-* [Libros Gratis XYZ](https://zonadelibrosxyz.com/) - *Books*
 * [Ebookelo](https://www.ebookelo.com/) - *Books*
 * [bajaebooksgratis](https://bajaebooksgratis.com/) - *Books* 
 * [pirateca](https://pirateca.com/) - *Books* 
@@ -1382,7 +1370,6 @@ Portuguese
 * [albalearning](https://albalearning.com/) - *Audiobooks* 
 * [leomanga](https://leomanga.me/) - *Manga* 
 * [mangadoor](http://mangadoor.com/) - *Manga* 
-* [Ninemanga](https://ninemanga.net/) - *Manga* 
 * [TuMangaOnline ](https://lectortmo.com/) - *Manga*
 * [Manga en Español](https://t.me/manga_es) - *Manga*
 * [HeavenManga](http://heavenmanga.com/) - *Manga* 
