@@ -1508,7 +1508,6 @@ Portuguese
 * [BalkanDownload](https://balkandownload.org/) - *Croatian / Download / Video / Audio / Software / Games / Books / Comics*
 * [wlext](https://wlext.is/) - *Turkish / Filipino / Thai / Streaming / Movies*
 * [KlikFilm](https://klikfilm.org/) - *Serbian / Streaming / Movies / TV*
-* [GeezLibrary](https://t.me/GeezLibrary) - *Amharic / Books*
 * [filma24](https://www.filma24.ai/) - *Albanian / Streaming / Movies / TV*
 * [Segoideas](https://segoideas.com/) - *Taiwanese / Streaming / TV*
 * [EdithSeedbox](https://packs.edithseedbox.com/0:/) - *Telugu / Download / Movies / TV / [Login](https://pastebin.com/sBLwyM6Z)*
@@ -1516,7 +1515,6 @@ Portuguese
 * [DJPunjab](https://djpunjab.is/ ) - *Punjabi / Download / MP3*
 * [RÚV](https://www.ruv.is/ruv) - *Icelandic / Live TV*
 * [JavaLibre](https://javalibre.com.ua/) - *Ukrainian / Books*
-* [Partis](https://www.partis.si/) - *Slovenian / Torrent Aggregator*
 * [WiiDatabase](https://wiidatabase.de/) - *Deutsch / Nintendo Homebrew*
 * [KannadaCine](https://www.kannadacine.com/) - *Kannada / Streaming / Movies*
 * [Filmarkivet](https://www.filmarkivet.se/) - *Swedish / Short Films*
