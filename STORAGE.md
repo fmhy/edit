@@ -2627,7 +2627,6 @@ Good for finding classic, obscure & short films.
 * [Muse Asia](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg) - *Anime* 
 * [AniOne](https://www.youtube.com/c/AniOneAsia) - *Anime* 
 * [GundamInfo](https://www.youtube.com/user/GundamInfo) - *Anime* 
-* [MuseAsia](https://youtube.com/c/MuseAsia ) - *Anime*
 * [The Found Footage Festival](http://www.foundfootagefest.com/) - *Rare Movies / TV*
 
 ***
