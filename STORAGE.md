@@ -2553,8 +2553,8 @@ Good for finding classic, obscure & short films.
 #### Windows ISO
 
 * **[TechBench](https://tb.rg-adguard.net/)**
-* **[Windows 10 LTSC](https://supreme-gamers.com/t/windows-10-ltsc-the-best-windows-10-version-ever.845/)** - *Bloat / Telemetry Free Windows 10 / /r/Windows10LTSC*
-* **[Windows AME](https://ameliorated.info/)** - *Windows 10 ISO Aimed Towards No Telemetry Windows 10*
+* **[Windows 10 LTSC](https://supreme-gamers.com/t/windows-10-ltsc-the-best-windows-10-version-ever.845/)** - */r/Windows10LTSC*
+* **[Windows AME](https://ameliorated.info/)**
 * [Massgravel's Pastebin](https://pastebin.com/raw/jduBSazJ)
 * [Bob Pony](https://downloadui.bobpony.com/)
 * [Soft.uclv](https://soft.uclv.edu.cu/Microsoft/)
