@@ -505,7 +505,9 @@
 * [JackBox.tv](https://jackbox.tv/) 
 * [Playok](https://www.playok.com/)
 * [PaperGames](https://papergames.io/)
-* [Krunker.io](https://krunker.io/) / [2](https://browserfps.com/) / [Market Ping](https://yee.how/market-ping/) / [Client](https://client.cuffuffles.dev/), [Venge](https://venge.io/) or [RoboFight](https://robofight.io/) - *PvP FPS*
+* [Krunker.io](https://krunker.io/), [2](https://browserfps.com/) - *PvP FPS / [Market Ping](https://yee.how/market-ping/) / [Client](https://client.cuffuffles.dev/) / [Optimal Settings](https://rentry.co/krunkersettings)*
+* [Venge](https://venge.io/) - *PvP FPS*
+* [RoboFight](https://robofight.io/) - *PvP FPS*
 * [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) - *Top Down Battle Royal* 
 * [ZombsRoyale.io](https://zombsroyale.io/) - *Zombie Battle Royale* 
 * [Yohoho.io](https://www.yohoho.io/) - *Pirate Battle Royale*
