@@ -149,7 +149,6 @@
 * [GoWatchSeries](https://www3.gowatchseries.bz/) - *Movies / TV / Anime* 
 * [HDO](https://w9.hdonline.eu/) - *Movies / TV / Anime* 
 * [Filmxy](https://www.filmxy.tv/), [2](https://www.filmxy.vip/) - *Movies*
-* [Ligaxxi](http://ligaxxi.xyz/) - *Movies / TV* 
 * [MoviesXK](https://moviexk.biz/) - *Movies / TV*
 * [TamilRockerMovies](https://www.tamilrockermovies.cf/search/label/Hollywood) - *Movies*
 * [ConTV](https://www.contv.com/browse-movie/146/free/) - *Movies*
