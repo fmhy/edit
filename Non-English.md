@@ -452,7 +452,6 @@
 
 * [9xMovies](https://9xmovies.land/) - *Movies / TV* 
 * [480p TV Shows](https://www.480ptvshows.com/) - *Movies / TV* 
-* [TheMoviesTalk](https://t.me/themoviestalk123) - *Movies / TV / NSFW*
 * [Movies Point](https://mkvmoviespoint.gen.in/) - *Movies* 
 * [BDmusic](https://bdmusic23.bid/) - *Movies / TV*
 * [MKV Mad](https://www.mkvmad.pro/) - *Movies / TV*
