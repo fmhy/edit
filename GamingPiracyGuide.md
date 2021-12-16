@@ -523,7 +523,7 @@
 * [Hexar.io](http://www.hexar.io/), [splix.io](https://splix.io/) or [paper-io](https://paper-io.com/) - *Control the Map*   
 * [mitos.is](http://play.mitos.is/) - *Become the Biggest Cell* 
 * [agar.io](https://agar.io/) - *Become the Biggest Circle* 
-* [Hole.io](https://hole-io.com/) - *Become the Biggest Hole / [Discord](https://discord.gg/TS33SU2)* 
+* [Hole.io](https://hole-io.com/) - *Become the Biggest Hole / [Discord](https://discord.gg/UA2HdpT)* 
 * [Spinz.io](http://spinz.io/) - *Fidget Spinner Battles*
 * [Multiplayer.golf](https://multiplayer.golf/) or [Manygolf](https://manygolf.club/) - *Multiplayer Golf*
 * [Tanki](https://tankionline.com/) - *Online Team VS Team Tank Game* 
