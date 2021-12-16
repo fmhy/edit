@@ -28,6 +28,7 @@
 * [anime-terminal](https://github.com/YogeshLamichhane/anime-terminal) or [ani-cli](https://github.com/pystardust/ani-cli) - *Anime Streaming Terminal for Linux*
 * [Trackma](https://github.com/z411/trackma/) - *Anime Tracking App*
 * [Knapsu](https://knapsu.eu/plex/) or [Cloudbox](https://cloudbox.works/) - *Media Server*
+* [Docket-Jacket](https://github.com/linuxserver/docker-jackett) - *Docker Jacket Container*
 * [Foliate](https://johnfactotum.github.io/foliate/) - *Ebook Reader*
 * [Evince](https://wiki.gnome.org/Apps/Evince) - *PDF / DjVu Reader*
 * [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - *Free Ubuntu VNC*
@@ -164,7 +165,7 @@
  
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - *Linux Privacy Guide* 
 * [Lynis](https://github.com/CISOfy/lynis) - *Linux Security Auditing Tool*
-* [Twilio Authy](https://snapcraft.io/authy) - *Linux 2FA*
+* [Twilio Authy](https://snapcraft.io/authy) - *Linux Two-Factor Authentication*
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) or [Gufw](http://gufw.org/) - *Linux Firewall* 
 * [Mofolinux](https://mofolinux.com/), [Tails](https://tails.boum.org/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - *Privacy-Based Linux Operating System*
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - *VPN Tunnel*
@@ -251,7 +252,7 @@
 * [ss64 OSX](https://ss64.com/osx/) - *macOS Bash Commands*
 * [Orion](https://browser.kagi.com/downloads/Orion.dmg) - *Webkit Browser with Chrome & Firefox extensions / [Discord](https://discord.gg/E9EKaPZR)*
 * [Strongbox](https://strongboxsafe.com/) *Password Manager*
-* [Drafts](https://getdrafts.com/) - *Text Editor*
+* [Drafts](https://getdrafts.com/) or [Voodoopad](http://www.voodoopad.com/) - *Text Editor / Notes*
 * [Stroke](https://stroke.lllllllllllllllll.com/) - *Text (You Can't Delete) Editor*
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) or [Spark](https://sparkmailapp.com/) - *Email Client*
 * [Microsoft Mac Downloads](https://macadmins.software/) or [Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - *Office Suite*
@@ -263,6 +264,7 @@
 * [MacLaunch](http://github.com/hazcod/maclaunch) - *Manage Startup Items*
 * [Sloth](https://github.com/sveinbjornt/Sloth) - *MacOS Process Manager*
 * [pongoOS](https://github.com/checkra1n/pongoOS) - *Mac Pre-Boot Executor*
+* [Magnet Pro](https://haxmac.cc/?s=magnet+pro) - *Mac Window Tiling*
 * [Homebrew](https://brew.sh/) - *Package Manager*
 * [AlDente](https://github.com/davidwernhart/AlDente) - *MacOS Charging Manager*
 * [Unlocker](https://github.com/paolo-projects/unlocker) - *VMware Unlocker*
@@ -303,6 +305,7 @@
 # ► Mac Adblock / Privacy
 
 * [macOS Security Tools](https://github.com/ashishb/osx-and-ios-security-awesome) - *Mac Security Tools*
+* [Obsidian](https://obsidianapp.io/) - *Two-Factor Authentication*
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - *Block Ads via Host Files*
 * [Stronghold](https://github.com/alichtman/stronghold) - *Mac Security Settings Terminal*
 * [LuLu](https://objective-see.com/products/lulu.html) - *Mac Firewall* 
@@ -336,6 +339,7 @@
 * [MacX](https://www.macx.ws/) 
 * [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
+* [WebCatalog](https://webcatalog.io/)
 * [Awesome macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - *Open Source Software*
 * [Adobe CC 2021 Crack](https://redd.it/ox6rwl) - *Adobe Software*
 * [Adobe Zii](https://www.adobezii.com/) - *Adobe CC Patcher*
