@@ -114,6 +114,7 @@
 * [Nemirtingas Galaxy Emu](https://gitlab.com/Nemirtingas/nemirtingas_galaxy_emu) - *GOG Galaxy Lan Emulator*
 * [ElDewrito](https://dewritohub.com/) - *Halo Online Mod Tool / [GitHub](https://github.com/ElDewrito) / [Discord](https://discord.com/invite/0TKY0SDEUHAWL4sG), [2](https://discord.com/invite/gtqM3s5)*
 * [CnCNet](https://cncnet.org/) - *Multiplayer Command & Conquer* 
+* [Rusticaland](https://rusticaland.net/) - *Rust Cracked Client / Servers*
 * [NV: Multiplayer](https://nv-mp.com/) - *Fallout New Vegas Multiplayer Project / [Discord](https://discord.com/invite/mKVdhmEDrW)*
 * [FaceItFinder](https://faceitfinder.com/) - *FaceIt Stats Search*
 * [BF2142 Reclamation](https://battlefield2142.co/) - *BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)*
