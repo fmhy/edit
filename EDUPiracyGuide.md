@@ -543,7 +543,7 @@
 * [Cheatography](https://cheatography.com/) - *Educational Cheat Sheets* 
 * [Toppr](https://www.toppr.com/) - *Test Practice & Homework Help*
 * [GradesFixer](https://www.gradesfixer.com/) - *Essay Samples*
-* [Cheggs By Tnt](https://t.me/CheggsByTnt) - *Chegg Answers Bot*
+* [Cheggs By Tnt](https://t.me/CheggsByTnt) or [iStaunch](https://www.istaunch.com/how-to-get-chegg-answers-for-free/#2_Free_Chegg_Answers_by_iStaunch) - *Chegg Answers Bot*
 * [Quizizz Cheat](https://github.com/gbaranski/quizizz-cheat) - *Quizizz Answers Tool*
 * [PXTrez](https://pxtrez.com/) - *Kahoot Answers Tool*
 * [ITExamAnswers.net](https://www.itexamanswers.net/) - *IT Exam Answers*
