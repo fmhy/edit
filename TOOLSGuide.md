@@ -21,6 +21,7 @@
 * **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/) or [UN Data](https://data.un.org/) - *World Data & Statistics*
 * **[Our World in Data](http://ourworldindata.org/)** - *World Problem Database*
 * **[BeMyEyes](https://www.bemyeyes.com/)** - *Assist the Visually Impaired* 
+* [RecoRank](https://recorank.com/) - *Tech Review Aggregator*
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - *Open Source Tools* 
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - *Mac-Style Dashboard Widget*
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - *AI Experiments / Tools* 
@@ -50,7 +51,7 @@
 * [ievaphone](https://ievaphone.com/), [blacktel](https://www.blacktel.io/), [Citrustel](https://www.citrustel.com/) or [PopTox](https://www.poptox.com/) - *Make Free Phone Calls*
 * [Free-lookup](https://www.free-lookup.net/) - *Phone # Lookup*
 * [tuxi](https://github.com/Bugswriter/tuxi) - *Question & Answer CLI*
-* [Onym](https://guide.onym.co/) - *Tools / Resources for Naming Things*
+* [CamelCamelCamel](https://camelcamelcamel.com/) - *Amazon Price Tracker*
 * [WorldTaxiMeter](https://www.worldtaximeter.com/) - *Taxi Fare Calculator*
 * [GasPrices](https://gasprices.aaa.com/) - *Gas Price Calculator*
 * [DiaperGrid](https://diapergrid.com/) - *Compare Diaper Prices*
@@ -124,7 +125,7 @@
 * [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - *Rephrase / Paraphrase Text* 
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - *Detect Plagiarized Content*
 * [phraseup](http://www.phraseup.com/) - *Autocomplete Common Phrases* 
-* [Transformer](https://transformer.huggingface.co/), [TurbineText](https://www.turbinetext.com/en) or [Talk to Transformer](https://app.inferkit.com/demo) - *Text Autocomplete* 
+* [Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en) or [Talk to Transformer](https://app.inferkit.com/demo) - *Text Autocomplete* 
 * [EleutherAI](https://6b.eleuther.ai/) - *Text / Story Autocomplete*
 * [StoryAI](https://storyai.botsociety.io/) - *Story Autocomplete*
 * [Lorem Ipsum Generator](https://apps.maximelafarie.com/lig/) - *Generate Placeholder Text*
@@ -269,7 +270,7 @@
 * [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/) - *MKVExtract GUI* 
 * [MKV-Optimizer](https://www.videohelp.com/software/MKV-Optimizer) - *Remove Audio Tracks from MKV Files* 
 * [MakeMKV](https://www.makemkv.com/) - *Create MKV From Blu-Ray / DVD* 
-* [ImgBurn](https://www.imgburn.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - *CD / DVD Burning*
+* [ImgBurn](https://www.imgburn.com/), [DeepBurner](http://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - *CD / DVD Burning*
 * [VidCoder](https://vidcoder.net/) - *DVD / Blu-Ray Ripping*
 * [DVDFab](https://www.dvdfab.cn/free.htm) - *Free DVD Related Programs* 
 * [h265ize](https://github.com/FallingSnow/h265ize) - *HEVC Encoder / [Enhanced](https://github.com/alextrv/enhanced-h264ify)* 
@@ -474,6 +475,7 @@
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - *Cloud Career Training*
 * [learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - *Cloud Computing Fundamentals*
 * [Candor](https://candor.co/hiring-freezes/) - *Hiring Freezes*
+* [Kimai](https://www.kimai.org/) - *Working Hours Tracker*
 * [Zeoob](https://zeoob.com/) - *Social Media Digital Marketing Post Simulator*
 * [VCEGuide](https://vceguide.com/) - *Tech Certification Practice Tests*
 * [9Tut](https://www.9tut.com/) - *CCNA Certification Training*
@@ -510,6 +512,7 @@
 * [Broadband Map](https://broadbandmap.fcc.gov/) - *Fixed Broadband Deployment Map*
 * [WiFiCard](https://wificard.io/) - *WiFi Info QRCode Generator*
 * [Master Networks & Scanning](https://mega.nz/folder/woQFAaLT#Eqvaip0R-kXi-lD8OIch7g) - *Network & Network Scanning Tutorials*
+* [.new](https://whats.new/shortcuts) - *New Project Shortcuts*
 * [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - *Follow RSS Feeds*
 * [CTRLQ](https://ctrlq.org/rss/) or [RSS.app](https://rss.app/) - *RSS Feed Search* 
 * [RSS Box](https://rssbox.herokuapp.com/) or [FiveFilters](https://createfeed.fivefilters.org/) - *RSS Feed Creator* 
@@ -537,6 +540,7 @@
 * [Voice Dictation](https://dictation.io/) - *Type with your voice* 
 * [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - *Manage / Store Bookmarks*
 * [SeeLink](https://www.seelink.app/) - *Collaborative Bookmarking*
+* [Instapaper](https://www.instapaper.com/) - *Bookmarking Tool*
 * [Bort](https://bort.io/) - *Bookmark Manager that Syncs with Dropbox* 
 * [BrowserParrot](https://www.browserparrot.com/) - *Browser History Search Engine*
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - *Tools / Apps to Run Flash Programs*
@@ -586,6 +590,7 @@
 * [Signature Maker](https://signature-maker.net/) - *Digital / Email Signature Maker* 
 * [Yandex Account Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - *Create Infinite Yandex Accounts*
 * [Gmail Dot Trick Generator](https://thebot.net/api/gmail/) - *Generate Unlimited Gmail Accounts via the Dot Trick*
+* [Delete Junk Email](https://gist.github.com/viperadnan-git/fcb0ecda32de0b9a27ec03829a7c12e8) - *Bulk Gmail Junk Deleter*
 * [Alive](https://greasyfork.org/en/scripts/418770-colab-alive) - *Bypass Google Colab Limit Colab*
 * [YakYak](https://github.com/yakyak/yakyak) - *Google Hangouts Desktop Client* 
 * [Indirect](https://www.microsoft.com/en-us/p/indirect/9phw4kj8jvnz) - *Instagram Desktop Messenger*
@@ -699,7 +704,7 @@ General Reading Sites*
 * [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z), [2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - *Search Manga Sites*
 * [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8), [2](https://cse.google.com/cse?cx=73948689c2c206528) - *Search Android APK Sites*
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1) - *Search File Hosts*
-* [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - *Search Pastebins*
+* [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) or [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - *Search Pastebins*
 * [Search All](https://www.searchall.net/) or [AIO Search](https://www.aiosearch.com/) - *Multi Site Search*
 * [Software CSE](https://cse.google.com/cse?cx=57b3962509047447e), [2](https://cse.google.com/cse?cx=ec7d33ef358ae1b65) - *Search Software Sites*
 * [Rom CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac), [2](https://cse.google.com/cse?cx=744926a50bd7eb010) - *Search Rom Sites*
@@ -712,7 +717,7 @@ General Reading Sites*
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - *Forum Search Engine* 
 * [Blog Search Engine](http://www.blogsearchengine.org/) - *Blog Search*
 * [Mibbit](https://search.mibbit.com/) - *IRC Channel Search*
-* [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - *Paste Engine Search*
+* [AlsoAsked](https://alsoasked.com/) - *Related Search Tool*
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - *Search Engine for Lightweight Web Pages*
 * [Search My Site](https://searchmysite.net/) - *Search Engine for Independent and Personal websites / Open Source*
 * [algolia](https://hn.algolia.com/) - *Hacker News Search* 
@@ -826,7 +831,7 @@ General Reading Sites*
 ## ▷ Reddit Tools
 
 * **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) or [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - *Browser Extension /  [Feature List](https://redditenhancementsuite.com/features/)*
-* **[redditlist](http://redditlist.com/)**, [sayit](https://anvaka.github.io/sayit/), [Vizit](http://redditstuff.github.io/sna/vizit/), [Subbed](https://www.subbed.org/), [RedditViz](https://rhiever.github.io/redditviz/) or [subreddits](http://subreddits.org/) - *Subreddit Indexes*
+* **[redditlist](http://redditlist.com/)**, [sayit](https://anvaka.github.io/sayit/), [Vizit](http://redditstuff.github.io/sna/vizit/), [Map of Reddit](https://anvaka.github.io/map-of-reddit), [Subbed](https://www.subbed.org/), [RedditViz](https://rhiever.github.io/redditviz/) or [subreddits](http://subreddits.org/) - *Subreddit Indexes*
 * [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/) - *Related Subreddit Calculator*
 * /u/SaveVideo, [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://www.redditsave.com/), [redv.co](https://redv.co/) or [Reddit.tube](https://reddit.tube/) - *Download Reddit Videos* 
 * [saveddit](https://github.com/p-ranav/saveddit) - *Reddit Bulk Media Downloader*
@@ -1200,6 +1205,7 @@ G) - *Create Discord RPCs*
 * [Twiangulate](http://twiangulate.com/search/) - *Compare Twitter User Followers* 
 * [FollowerWonk](https://followerwonk.com/) - *Find, Analyze & Optimize Followers* 
 * [HashTagStack](https://www.hashtagstack.com/) - *Hashtag Engagement Tracker*
+* [Hashait](https://www.hashatit.com/) - *Hashtag Search*
 * [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - *Download Twitter Videos* 
 * [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/), [SocialBearing](https://socialbearing.com/) or [Foller](https://foller.me/) - *Analyze Twitter Accounts* 
 * [TweeterID](https://tweeterid.com/) - *Twitter User ID & Username Converter* 
@@ -1247,10 +1253,10 @@ G) - *Create Discord RPCs*
 * **[Windows 10 Activation Guide](https://rentry.co/ActivateWin10)**, [2](https://redd.it/er3fon), [3](https://msguides.com/), [4](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation) - *Active Win 10 / [Discord](https://discord.gg/nWWfBMtBSk)*
 * **[Windows Activation Scripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation_scripts)** - *Windows / Office Activation*
 * **[Optimize-Guide](https://rentry.co/mdl-optimize-guide)** - *Optimize Windows / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat)*
-* **[Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png)**, [2](https://i.imgur.com/A36Yd7F.png) 
+* **[Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png)**, [2](https://i.imgur.com/A36Yd7F.png) / [Course](https://keycombiner.com/)
 * [Windows 10 Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)
 * [Operating System Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_os_emulators) - *Emulate Alternate OS*
-* [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) / [GitHub](https://github.com/microsoft/PowerToys), [CWCodes](http://cwcodes.net/) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
+* [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) / [GitHub](https://github.com/microsoft/PowerToys), [CWCodes](http://cwcodes.net/), [Guru3D](https://www.guru3d.com/files-categories), [WinReducer](https://www.winreducer.net/) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
 * [PCPartPicker](https://pcpartpicker.com/), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), [/r/buildapc](https://reddit.com/r/buildapc) or [NZXTBld](https://www.letsbld.com/) - *PC Building Sites / [Discord](https://discord.gg/buildapc)*
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - *PC Building Community*
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC)  - *PC Suggestion Community / [Discord](https://discord.gg/TmNgXbwrqJ)*
@@ -1286,6 +1292,7 @@ G) - *Create Discord RPCs*
 * [Awesome Scripts](https://github.com/codePerfectPlus/awesomeScripts), [Batch-Script-Collection](https://github.com/happy05dz/Batch-Script-Collection) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - *Useful System Scripts*
 * [SmartWindows](https://smartwindows.app/) - *Create / Restore Windows Profiles* 
 * [VirtualBox](https://www.virtualbox.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - *Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)*
+* [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - *Windows XP Virtual Machine*
 * [VMWare](https://gist.github.com/rkennesson/2c4595bf062aaab387dccf1210accf98) - *Hide Virtual Machine*
 * [QuickEmu](https://github.com/wimpysworld/quickemu) - *Virtual Machine Creator*
 * [vBoxSysInfoMod](https://github.com/JayMontana36/vBoxSysInfoMod) - *Modify VM System Info*
@@ -1416,6 +1423,7 @@ G) - *Create Discord RPCs*
 * [TopGrade](https://github.com/r-darwish/topgrade) - *Package Manager Update Automation* 
 * [Winget](https://github.com/microsoft/winget-cli) or [bget](https://github.com/jahwi/bget) - *Windows Package Manager / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Tools](https://github.com/jdhitsolutions/WingetTools)* 
 * [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI) or [Ninite](https://ninite.com/) - *Install / Update Multiple Programs at Once*
+* [Silent Install](https://www.silentinstall.org/) - *Build Multi-Program Installers*
 * [Revo Uninstaller](https://www.revouninstaller.com/), [Soft Organizer](https://www.dropbox.com/s/5k5pm5f2xwbk7gb/soft-organizer-746-setup.exe), [Geek Uninstaller](https://geekuninstaller.com/), [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) or [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - *Software Uninstallation Tool*
 * [How to Disable Microsoft Edge](https://ibb.co/dkJ4Tb4)
 * [Update Notifier](http://cleansofts.org/view/update-notifier.html) - *Scan Computer for Software Updates* 
@@ -1431,7 +1439,7 @@ G) - *Create Discord RPCs*
 * [DLL Downloader](http://www.dlldownloader.com/) or [DLL-Files](https://www.dll-files.com/) - *Download DLL Files for Windows* 
 * [sven dpi](https://www.sven.de/dpi/) - *DPI Calculator* 
 * [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - *Dead Pixel Test*
-* [JScreenFix](https://www.jscreenfix.com/) - *Repair Stuck Pixels* 
+* [JScreenFix](https://www.jscreenfix.com/) or [UDPixel](http://udpix.free.fr/) - *Repair Stuck Pixels* 
 * [EIZO](https://www.eizo.be/monitor-test/) or [LCDTech](https://lcdtech.info/en/tests/) - *Display Performance Tests*
 * [TestUFO](https://www.testufo.com/) - *Monitor Framerate Test*
 * [NVDA](https://www.nvaccess.org/download/) - *Screen Reader / [Github](https://github.com/nvaccess/nvda)* 
@@ -1640,7 +1648,7 @@ G) - *Create Discord RPCs*
 * [InfiniDrive](https://github.com/nicomda/InfiniDrive) - *Unlimited Cloud Drive using Amazon Prime Photos*
 * [Nextcloud](https://nextcloud.com/) - *Safe data storage / [Unofficial Providers](https://nextcloud.com/signup/)*
 * [Shared Drives Creator Website](https://github.com/MsGsuite/Shared-Drives-Creator-Website) - *Create & host a Shared Drive Generator Website*
-* [File Recovery Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_recovery_tools) - *Recover Deleted Data*
+* [File Recovery Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_recovery_tools) - *Data Recovery Tools*
 * [EXIFTool](https://exiftool.org/), [ExtractMetadata](https://www.extractmetadata.com/), [Metadata2Go](https://www.metadata2go.com/) or [Metashield](https://metashieldclean-up.elevenpaths.com/) - *Metadata Viewer / Editor*
 * [IPFS](https://ipfs.io/) - *P2P Hypermedia Protocol / [Extension](https://github.com/ipfs-shipyard/ipfs-companion)* 
 * [Awesome-IPFS](https://github.com/ipfs/awesome-ipfs) - *IPFS Resource Index* 
@@ -1651,7 +1659,7 @@ G) - *Create Discord RPCs*
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - *HTTP File System*
 * [FolderClone](http://www.folderclone.com/) - *Clone / Backup Folders*
 * [Borg](https://www.borgbackup.org/) - *Deduplicating File Archiver / Backup* 
-* [BackupPC](https://backuppc.github.io/backuppc/), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [UrBackup](https://www.urbackup.org/), [FastCopy](http://fastcopy.jp/) or [Duplicati](https://www.duplicati.com/) - *File Backup Tool* 
+* [BackupPC](https://backuppc.github.io/backuppc/), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [UrBackup](https://www.urbackup.org/), [BlobBackup](https://github.com/BlobBackup/BlobBackup), [FastCopy](http://fastcopy.jp/) or [Duplicati](https://www.duplicati.com/) - *File Backup Tool* 
 * [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) - *Web-Based File Browser*
 * [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/) or [Securedrop](https://securedrop.org/) - *Document File Sharing*
 * [OpenPaper](https://openpaper.work/en/) or [DataShare](https://datashare.icij.org/) - *Document Manager*
