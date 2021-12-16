@@ -154,6 +154,7 @@
 * [British Library](https://www.bl.uk/) - *Books*
 * [EbookLobby](http://ebooklobby.com/) - *Books*
 * [KingAuthor](https://kingauthor.net/) - *Books* 
+* [Zoboko](https://zoboko.com/) - *Books*
 * [Standard EBooks](https://standardebooks.org/) - *Books*
 * [Google Play Books](https://play.google.com/store/books/collection/topselling_free) - *Books* 
 * [Smashwords](https://www.smashwords.com/shelves/home/1/free/any) - *Books* 
@@ -243,7 +244,7 @@
 
 * **[Sacred Text Archive](https://www.sacred-texts.com/index.htm)** - *Religion / Mythology / Folklore / Esoterica*
 * **[ARCHIVES](https://discord.gg/occult)** - *Occult / Witchcraft / Religion*
-* **[The Echerdex](https://www.echerdex.com/)** - *Esoterica / [Subreddit](https://www.reddit.com/r/Echerdex/) / [Repository](https://www.echerdex.com/index.php/repository/), [2](https://rentry.co/echlinkss) / [Discord](https://discord.gg/dS5X3d7ype)*
+* **[/r/Echerdex](https://www.reddit.com/r/Echerdex/)** - *Esoterica / [Repository](https://www.echerdex.com/index.php/repository/), [2](https://rentry.co/echlinkss) / [Discord](https://discord.gg/dS5X3d7ype)*
 * **[WiLd's Occult Ebook Sources](https://justpaste.it/WiLdOccultEbooks)** - *Occult / Esoterica*
 * [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2) - *Occult*
 * [GodChecker](https://www.godchecker.com/) - *Learn about Gods from different Religions*
@@ -528,6 +529,7 @@
 * [WOWeBook](https://www.wowebook.org/) 
 * [Ebooks-it](https://ebooks-it.org) 
 * [Foxebook](https://www.foxebook.net/) 
+* [free-programming-books](https://github.com/chrislgarry/free-programming-books) 
 * [Free eBooks](https://books-pdf.blogspot.com/) 
 * [goalkicker](https://goalkicker.com/)
 * [Flavio Copes](https://flaviocopes.com/page/ebooks/) 
@@ -626,6 +628,7 @@
 ## ▷ Manual Sites
 
 * [Manuals & Schematics](https://redd.it/nlw3er), [manualzz](https://manualzz.com/) or [ManualsLib](https://www.manualslib.com/) - *Manual Directories*
+* [ManualLib](https://www.manuallib.com/) - *Manual Search*
 * [Floss Manuals](https://www.flossmanuals.net/) - *Software Manuals* 
 * [iFixIt](https://www.ifixit.com/Guide) - *Repair Manuals* 
 * [RepairWiki](https://repair.wiki/w/Repair_Wiki) - *Repair Articles*
@@ -663,6 +666,7 @@
 * [20 Encyclopedia Books](https://mega.nz/file/AsBm0ZrR#azR641hPhLWCdSB6ogzTKOfr36eaLHq2WT20tuGbLVU) - *Encyclopedias*
 * [Abbreviations](https://www.abbreviations.com/) - *Abbreviations* 
 * [Chat Words Dictionary](https://chatworddictionary.com/) - *Chat Abbreviations*
+* [lengusa](https://lengusa.com/) - *Sentence Search Engine*
 * [Wolfram Alpha](https://www.wolframalpha.com/) - *Searchable Knowledgebase / [Pro](https://wolfreealpha.github.io/)*
 * [Dictionary](https://www.dictionary.com/) - *Dictionary / Thesaurus*
 * [NinjaWords](http://ninjawords.com/ ) - *Dictionary* 
@@ -821,6 +825,7 @@
 * [MangaWWW](http://mangawww.club/)
 * [MangaPlus](https://mangaplus.shueisha.co.jp/updates)
 * [MangaKomi](https://mangakomi.com/)
+* [ISekaiScan](https://isekaiscan.com/) 
 * [KomikKid](https://www.komikid.com/)
 * [Hiperdex](https://hiperdex.com/)
 * [MangaFox](https://fanfox.net/)
@@ -1081,6 +1086,7 @@
 * [Bypass Quora login](https://onehack.us/t/bypass-quora-login-for-unlimited-reading-new-method-legal/92786)
 * [Kindle to PDF](https://redd.it/bm837l) - *Kindle to PDF Conversion Guide*
 * [Ebook-Converter](https://ebook-converter.com/) - *Ebook Converter*
+* [Bookfeed.io](https://cran.r-project.org/ ) - *Book RSS Feed*
 * [Ebook Sender](https://telegram.me/to_kindle_bot) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - *Send Ebooks to Kindle*
 * [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - *Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)*
 * [BookCut](https://github.com/costis94/bookcut) - *Ebook Download Tool* 
