@@ -182,6 +182,7 @@
 * [Meiju](https://www.meiju11.com/) or [iMeiju](https://www.imeiju.net/) - *Movies / TV*
 * [Nunu Cinema](https://www.nunuyy.com/) - *Movies / TV*
 * [Fun.tv](http://www.fun.tv/) - *Movies / TV*
+* [MeWatch](https://www.mewatch.sg/) - *Movies / TV*
 * [KokoTV](https://kokotv.me/) - *Drama*
 * [qiqi8](http://qiqi8.net/) - *Anime*
 * [AGE動漫](https://agefans.tw/) - *Anime*
@@ -686,6 +687,8 @@
 
 * [Drama Sites](https://saidit.net/s/freemediaheckyeah/wiki/storage#wiki_asian_drama_sites)
 * [HindiLover](https://hindilover.biz/) - *TV*
+* [OnDemandKorean](https://www.ondemandkorea.com/) - *TV / Movies*
+
 * [AQ Stream](https://aqstream.com/) - *Live TV* 
 
 ## ▷ Reading
@@ -822,6 +825,12 @@
 * [Nitro.to](https://nitro.to/) - *Video / Audio / Software / Games / Books / NSFW* 
 * [BitNova](https://bitnova.info/) - *Video / Audio / Software / Games / Books / NSFW* 
 * [darmowe](https://darmowe-torenty.pl/) - *Video / Audio / Software / Games / Books / NSFW* 
+* [polskie-torrenty](https://polskie-torrenty.net.pl/) or [helltorrents](http://helltorrents.com/) - *Video / Audio / Software / Games / Books / NSFW*
+* [devil-torrents](http://devil-torrents.pl/) - *Video / Audio / Software / Games / Books / NSFW*
+* [EliteTorrent](https://elitetorrent.pl/) - *Video / Audio / Software / Games / Books / Comics / Magazines / NSFW*
+* [FileTracker](http://filetracker.pl/) - *Video / Audio / Software / Games / Books / Comics /NSFW*
+* [TorrentCity](http://torrentcity.pl/) - *Video / Audio / Software / Games / Books / Comics / NSFW*
+* [VTorrent](http://vtorrent.pl/) - *Video / Audio / Software / Games / Books / NSFW*
 
 ## ▷ Streaming 
 
@@ -1479,7 +1488,7 @@ Portuguese
 * [khatrimazafull](https://khatrimazafull.show/) - *Streaming / Download / Movies*
 * [JioRockers](http://www.jiorockers.uk/) - *Streaming / Movies*
 * [v100v.net](https://www.v100v.net/) - *Streaming / Movies*
-* [7MovieRulz](https://7movierulz.im/) - *Streaming / Movies*
+* [7MovieRulz](https://7movierulz.pe/) - *Streaming / Movies*
 * [1jalshamoviez](https://www.1jalshamoviez.info/) - *Download / Movies*
 * [MLWBD](https://mlwbd.shop/) - *Download / Movies*
 * [4MovieRulz](https://4movierulz.gg/) - *Download / Movies*
@@ -1520,4 +1529,4 @@ Portuguese
 * [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - *Malaysian / Audio / Telegram*
 * [PDFlibrary](https://t.me/PDFlibrary) - *Malayalam / Books / Telegram*
 * [9jaflaver](https://9jaflaver.com/) - *Nigerian / MP3*
-* [Steamcito](https://emilianog94.github.io/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos/landing/index.html) - *Converts Steam Prices to Argentine Pesos*
+* [Steamcito](https://emilianog94.github.io/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos/landing/index.html) - *Converts Steam Prices to Argentine Pesos*~~~~
