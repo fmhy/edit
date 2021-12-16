@@ -77,6 +77,7 @@
 * [DownDuck](http://www.downduck.com/) - *Video / Audio / Software / Games / Books / Magazines*
 * [0DayDDL](https://0dayddl.com/) - *Video / Audio / Games / Software / Books / Magazines*
 * [MaxRelease](http://max-rls.com/) - *Video / Audio / Software / Games / Magazines*
+* [BoltBB](https://boltbb.me/) - *Video / Software / Games / Books / NSFW*
 * [Volno](https://volno.org) - *Audio / Books / Software / Games / Android / NSFW*
 * [worldsrc](https://www.worldsrc.net/) - *Video / Audio / Games / Software / Android*
 * [Team OS](https://www.teamos-hkrg.com/) - *Software / Games / Books / Android*
