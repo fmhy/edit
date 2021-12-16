@@ -143,6 +143,7 @@
 * [5G GYAN](https://www.5ggyan.com/) - *Courses* 
 * [WSODownloads](https://www.wsodownloads.in/) - *Courses*
 * [HackingWorld](https://in.hackingworld.best/) - *Courses*
+* [DuForum](https://duforum.in/) - *Courses*
 * [DL Course](https://dlcourse.org/) - *Courses*
 * [Free Udacity Skillshare Coursera EDX](https://t.me/Free_Udacity_Skillshare_Coursera) 
 * [AfraTafreeh](https://afratafreeh.com/) - *Courses*
@@ -502,7 +503,7 @@
 # ► Educational Tools
 
 * **[The Free Learning List](https://freelearninglist.org/)** or  [/sci/ guide](https://sites.google.com/site/scienceandmathguide/) - *Free Educational Sites / Tool Index* 
-* **[Awesome Research](https://github.com/emptymalei/awesome-research)** - *Research Tools Index* 
+* **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [KausalFlow](https://tools.kausalflow.com/), [Zotero](https://www.zotero.org/) or [Scrible](https://www.scrible.com/)  - *Research Tools* 
 * **[PhET](https://phet.colorado.edu/)** - *STEM / Interactive*
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Infinite trial by clearing cookies & making new account*
 * **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - *Grammar Checking Tools*
@@ -517,8 +518,6 @@
 * [Information Is Beautiful](https://informationisbeautiful.net/) - *Data / Information / Infographics / Visualizations* 
 * [/r/coolguides](https://reddit.com/r/coolguides/), [1001 Tutorials](http://www.fricking.ninja/DIY/index/1001%20Tutorials/), [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - *Guides & Tutorials* 
 * [LitCharts](https://www.litcharts.com/) - *Literature Guides*
-* [KausalFlow](https://tools.kausalflow.com/) - *Academic Research Tools* 
-* [Zotero](https://www.zotero.org/) - *Research Organization Tool* 
 * [StringMark](https://www.stringmark.com/) - *Save & Mark Research in Browser*
 * [TimeLY](https://github.com/noahweasley/TimeLY) - *University Activity & Class Tracker*
 * [Stublio](https://stublio.com/) or [Studify](https://github.com/cmcodes1/Studify) - *Keep Track of what you're Studying* 
@@ -544,6 +543,7 @@
 * [Cheatography](https://cheatography.com/) - *Educational Cheat Sheets* 
 * [Toppr](https://www.toppr.com/) - *Test Practice & Homework Help*
 * [GradesFixer](https://www.gradesfixer.com/) - *Essay Samples*
+* [Cheggs By Tnt](https://t.me/CheggsByTnt) - *Chegg Answers Bot*
 * [Quizizz Cheat](https://github.com/gbaranski/quizizz-cheat) - *Quizizz Answers Tool*
 * [PXTrez](https://pxtrez.com/) - *Kahoot Answers Tool*
 * [ITExamAnswers.net](https://www.itexamanswers.net/) - *IT Exam Answers*
@@ -611,7 +611,7 @@
 * [The True Size](https://thetruesize.com/) - *Compare Country Size* 
 * [JoinUS World](https://www.joinusworld.org/) - *Korean Culture Q&A Site*
 * [Sanfoundry](https://www.sanfoundry.com/) - *Programming & Engineering Questions & Answers*
-* [Seeing Theory](https://seeing-theory.brown.edu/) - *Interactive Probability / Statistics Lessons* 
+* [Seeing Theory](https://seeing-theory.brown.edu/) or [Stat Trek](https://stattrek.com/) - *Statistics & Probability Tutorials* 
 * [CESDB](https://www.cesdb.com/) - *Civil Engineering Software*
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - *Pendulum Simulator*
 * [Traffic Simulation](https://traffic-simulation.de/) - *Traffic Flow Simulation* 
