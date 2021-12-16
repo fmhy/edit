@@ -26,6 +26,7 @@
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - *Opt Out of Telemarketing Calls* 
 * [Slide](https://github.com/ccrama/Slide), [2](https://f-droid.org/en/packages/me.ccrama.redditslide/) or [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - *Ad Free Reddit Client*
 * [TwitchMod](https://t.me/pubTw) or [Twire](https://f-droid.org/packages/com.perflyst.twire/) - *Ad Free Twitch App*
+* [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) - *Remove Sponsored Telegram Messages*
 
 ***
 
@@ -155,7 +156,6 @@
 * [AndrOBD](https://github.com/fr3ts0n/AndrOBD) - *Android Dashboard Diagnostics*
 * [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app) - *Libgen Mobile App* 
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) or [AndrOpen](https://www.andropenoffice.com/) - *Office Suite* 
-* [guiscrcpy](https://guiscrcpy.srev.in/) - *Android Screen Mirroring*
 * [xShare](https://github.com/tsudoko/xshare) - *Screenshot Tool*
 * [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/) - *Audio Recorder*
 * [Grammarly](https://forum.mobilism.org/search.php?keywords=grammarly&sr=topics&sf=titleonly) - *Grammarly Keyboard Premium* 
@@ -166,7 +166,7 @@
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) or [SimplyTranslate Flutter](https://github.com/ManeraKai/simplytranslate-flutter-client) - *Translator*
 * [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) - *Create App Shortcuts*
 * [QuickTiles](https://f-droid.org/en/packages/com.asdoi.quicktiles/) - *Quick Setting Tiles*
-* [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) or [BuzzKill](https://filecr.com/?s=buzzkill) - *Custom Notifications*
+* [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2), [ntfy.sh](https://ntfy.sh/) or [BuzzKill](https://filecr.com/?s=buzzkill) - *Custom Push Notifications*
 * [aodNotify](https://play.google.com/store/apps/details?id=com.jamworks.alwaysondisplay) - *Notification LED*
 * [AlwaysOnEdge](http://www.aoeapps.com/) - *Android Customization App*
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - *Dictionary App*
@@ -176,7 +176,6 @@
 * [VMOS](https://www.vmos.com/) - *Android Virtual Machine*
 * [Media Bar](https://play.google.com/store/apps/details?id=apps.ijp.mediabar) - *Status Bar Media Controller*
 * [Caffeine](https://lab.zhs.moe/caffeine/) - *Keep Screen On*
-* [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - *Android Display Control*
 * [WaveUp](https://gitlab.com/juanitobananas/wave-up) - *Turn On Display via Waving*
 * [Shelter ](https://cgit.typeblog.net/Shelter/) or [Insular](https://gitlab.com/secure-system/Insular) - *Isolate / Clone Apps*
 * [MacroDroid](http://macrodroid.com/) - *Android Automation* 
@@ -232,7 +231,7 @@
 * [Apps2Fire](https://play.google.com/store/apps/details?id=mobi.koni.appstofiretv) - *Upload Apps to FireTV*
 * [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://forum.mobilism.org/search.php?keywords=solid+explorer&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/), [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) or [IrkFM](https://github.com/lfuelling/lrkFM) - *File Explorers / Manager*
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - *Download / Torrent Manager* 
-* [Vysor](https://www.vysor.io/) or [scrcpy](https://github.com/Genymobile/scrcpy) - *Control Android via Desktop*
+* [Vysor](https://www.vysor.io/), [scrcpy](https://github.com/Genymobile/scrcpy) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - *Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/), [2](https://github.com/Tomotoes/scrcpy-gui)*
 * [BlueLight Filter](https://play.google.com/store/apps/details?id=jp.ne.hardyinfinity.bluelightfilter.free) - *Screen Bluelight Filter*
 * [FAST](https://play.google.com/store/apps/details?id=com.netflix.Speedtest), [Meteor](https://play.google.com/store/apps/details?id=meteor.test.and.grade.internet.connection.speed) or [FCC Speed Test](https://play.google.com/store/apps/details?id=com.samknows.fcc&hl=en_US&gl=US) - *Internet Speed Test*
 * [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - *Use Google Cam Without Google Play* 
@@ -247,6 +246,7 @@
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - *Android Power Menu Replacement*
 * [iFont](https://play.google.com/store/apps/details?id=com.kapp.ifont) - *Android Font Installer*
 * [Eruda](https://pastebin.com/7qSZXjDS) - *Console for mobile browsers / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [Github](https://github.com/liriliri/eruda)* 
+* [Andure](https://github.com/leohku/andure) - *Android Chrome Dev Tools*
 * [Termux](https://termux.com/) - *Terminal Emulator / Linux Environment / [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL)* 
 * [Shelter](https://github.com/PeterCxy/Shelter) - *App Sandbox*
 * [Clima](https://f-droid.org/en/packages/co.prestosole.clima/), [The Fucking Weather](https://alcohollick.com/the-fucking-weather) or [GeometricWeather](https://github.com/geometric-weather-foss/GeometricWeather) - *Weather App* 
@@ -274,6 +274,7 @@
 * [GeorgieLabs](https://georgielabs.net/) - *Use Android as Wireless Speaker / Headphone Port*
 * [GGMorse](https://github.com/ggerganov/ggmorse) - *Morse Code Decoding App*
 * [Haven](https://guardianproject.github.io/haven/) - *Turn Phone into Motion Detector* 
+* [Digital Scale+](https://github.com/wernjie/digital-scale-plus) - *Measure Weights with iPhone / [Web App](https://apps.wernjie.com/digital-scale/)*
 * [Fire Toolbox](https://forum.xda-developers.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - *Fire Tablet Tools*
 * [Pojav](https://pojavlauncherteam.github.io/) - *Mobile Minecraft Launcher*
 * [Mematic](https://www.mematic.net/) - *Meme Creator* 
@@ -478,6 +479,7 @@
 * [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - *Streaming*
 * [Modded Tidal](https://forum.mobilism.org/viewtopic.php?f=1332&t=4594722) - *Steaming / Download*
 * [Deezloader Android](https://t.me/deezloaderremixmobile) - *Download / MP3 / [Non Telegram DL](https://redd.it/d3i9fr)* 
+* [Seeker](https://github.com/jackBonadies/SeekerAndroid) - *Download / MP3*
 * [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - *Download / MP3* 
 * [SMLoadr](https://t.me/SMLoadrNews) - *Download / FLAC / MP3*
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) or [SongTube](https://github.com/SongTube/SongTube-App) - *YouTube Audio / Video Downloader*
@@ -492,6 +494,7 @@
 * [SplitCloud](http://www.splitcloud-app.com/) - *Audio Splitter*
 * [MusicSpeedChanger](https://musicspeedchanger.com/) - *Music Speed Changer*
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *Download / FLAC / MP3*
+* [Video to MP3 Converter](https://play.google.com/store/apps/details?id=mp3videoconverter.videotomp3.videotomp3converter) - *Video to MP3*
 * [AudioSwitch](https://play.google.com/store/apps/details?id=com.nordskog.LesserAudioSwitch) - *Switch Audio to Different Outputs Lesser*
 * [Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler) - *Android Scrobbler*
 * [MP3 Tagger](https://play.google.com/store/apps/details?id=com.fillobotto.mp3tagger) - *Automatic Audio ID3 Tagging*
@@ -561,6 +564,7 @@
 * [PikaShow](https://pikashow.app/app) - *Movies / TV*
 * [Modded Amazon Prime Video](https://t.me/shooterOfficial1/38314) - *Movies / TV*
 * [Movie HD](https://moviehdapkdownload.com/moviehd-apk/) - *Movies / TV / Chromecast*
+* WiWiCenter - [Movies / TV](https://cinema.wiwicenter.com/) / [Anime](https://anime.wiwicenter.com/) - *Use Adblocker*
 * [Upflix](https://upflix.pro/) - *Movies / TV*
 * [Titanium TV](https://aapks.com/apk/titanium-tv-com-wise-tech-titanium/) - *Movies / TV / Anime / Chromecast*
 * [Berg](https://www.funkymuse.dev/p/berg.html) - *Movies / TV / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
@@ -638,7 +642,7 @@ RSS Player*
 
 
 * **[Complete Jailbreak Chart](https://docs.google.com/spreadsheets/d/11DABHIIqwYQKj1L83AK9ywk_hYMjEkcaxpIg6phbTf0/)** - *Jailbreak Tools Index*
-* [Can I Jailbreak](https://iosninja.io/jailbreak-wizard-can-i-jailbreak) - *Check if your Phone can be Jailbroken* 
+* [Can I Jailbreak](https://canijailbreak2.com/), [2](https://iosninja.io/jailbreak-wizard-can-i-jailbreak) - *Check if your Phone can be Jailbroken* 
 * [/r/jailbreak](https://reddit.com/r/jailbreak) - *Jailbreaking Subreddit*
 * [Sideloading Beginners Guide](https://redd.it/orqzau) or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - *Sideloading Guide*
 * [/r/sideloaded](https://reddit.com/r/sideloaded) - *Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)*
@@ -683,7 +687,7 @@ RSS Player*
 
 # ► iOS Adblocking
 
-* **[AdGuard Pro](https://forum.mobilism.org/search.php?keywords=AdGuard+Pro&amp;sr=topics&amp;sf=titleonly)** - *Adblocker / [Config](https://cdn.adguard.com/public/Dns/adguard-dns.mobileconfig) / [Remote](https://apps.apple.com/app/apple-store/id1543143740)*
+* **[AdGuard Pro](https://forum.mobilism.org/search.php?keywords=AdGuard+Pro&amp;sr=topics&amp;sf=titleonly)**, [2](https://testflight.apple.com/join/XqF1FkBg) - *Adblocker / [Config](https://cdn.adguard.com/public/Dns/adguard-dns.mobileconfig) / [Remote](https://apps.apple.com/app/apple-store/id1543143740)*
 * [KF Panda-Player](https://apps.apple.com/us/app/kfpanda-player/id1460792262) - *Turn any site into a App, without the Ads* 
 * [1Blocker](https://1blocker.com/) - *Ablocker*
 * [Ka-Block!](http://kablock.com/) - *Adblocker*
@@ -798,6 +802,7 @@ RSS Player*
 * [PhotoMath](https://apps.apple.com/us/app/photomath/id919087726) - *Math Problem Solver with Steps*
 * [Ringtones](https://apps.apple.com/us/app/ringtones-for-iphone-ringtune/id1036141497) - *Custom Ringtone Creator*
 * [Project Sandcastle](https://projectsandcastle.org/) - *Android for the iPhone* 
+* [Imgur](https://testflight.apple.com/join/Qd42y5Pw) - *Meme & GIF Maker*
 * [Mematic](https://www.mematic.net/) - *Meme Creator* 
 * [Reface](https://reface.app/) - *Create Face Swap Videos* 
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
@@ -812,6 +817,7 @@ RSS Player*
 * [FutureStore](https://github.com/tihmstar/futurerestore) - *SEC & Baseband Restoring Wrapper*
 * [AppTapp](https://apptapp.me/repo) - *iOS Package Manager*
 * [Mildred](https://apps.apple.com/us/app/mildred/id1522800022) - *Docker Client*
+* [Dragon](https://github.com/DragonBuild/dragon) - *Darwin Buildsystem / Toolkit*
 
 ***
 
@@ -825,6 +831,7 @@ RSS Player*
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312)
 * [AppValley](https://www.appvalley.vip/) - *Tweaked App Store*
 * [Tutubox](https://tutubox.io/) - *Tweaked Apps Store* 
+* [TweakBox](https://www.tweakboxapp.com/) - *Alt App Store*
 * [iPAGarage](https://drive.google.com/drive/mobile/folders/1SxmAaB_dIswVsrKqtxOhymati-HaLYTT?usp=sharing) - *Community Based Tweaked/Hacked iOS App Library / [Twitter](https://twitter.com/ipagarage/)*
 * [Cydia](https://cydia.saurik.com/) - *App Store / [Paid Apps](https://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown) / [Updates](https://t.me/cydiaupdate) / [Share](https://sharerepo.stkc.win/)*
 * [BuildStore](https://builds.io/) - *App Store*
@@ -871,6 +878,7 @@ RSS Player*
 * [Qello](https://apps.apple.com/us/app/qello-concerts-live-music/id491069819) - *Concerts & Live Music Streaming*
 * [‎TuneStalgia](https://apps.apple.com/us/app/tunestalgia/id1561719773) - *Music Nostalgia App*
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *Download / FLAC / MP3*
+* [MP3 Converter](https://apps.apple.com/us/app/mp3-converter-audio-extractor/id1305099161) or [MyMP3](https://apps.apple.com/us/app/mymp3-convert-videos-to-mp3-and-best-music-player/id834818663) - *Video to MP3 Converter*
 * [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - *Spotify Release Tracker / Metrics* 
 * [Boom](https://apps.apple.com/us/app/boom-bass-booster-equalizer/id1065511007) - *Audio Equalizer*
 * [HD Player](https://apps.apple.com/us/app/hs-player-flac-equalizer/id857650606) - *Audio Player*
