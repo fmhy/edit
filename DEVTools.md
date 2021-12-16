@@ -132,10 +132,12 @@
 * [ReverseEagle](https://forge.tedomum.net/groups/ReverseEagle/-/archived), [2](https://web.archive.org/web/20210116205638/https://developers.reverseeagle.org/) - *Privacy Focused Developer Software*
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - *Open Source Development Software*
 * [Student Developer Pack](https://education.github.com/pack) - *Free Developer Tools for Students* 
+* [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [Graphic Design Elements](https://onehack.us/t/get-20-000-graphic-design-elements/155320), [ImCreator](http://www.imcreator.com/free), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/), [GraphicBurger](https://graphicburger.com/) or [Freebiesbug](http://freebiesbug.com/)  - *Design Resources*
 * [Libera Chat](https://libera.chat/) - *IRC Network for Project Collaboration*
 * [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/)  - *Developer Forum* 
 * [The Devs Network](https://thedevs.network/) - *Developer Chat*
 * [daily.dev](https://daily.dev/) - *Replace New Tab Page with Developer Articles* 
+* [Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites) - *Download Icons for Projects*
 * [Laws of UX](https://lawsofux.com/) - *Maxims / Principles for UI Designers* 
 * [UI Coach](https://uicoach.io/) - *UI Design Challenge Generator*
 * [Responsively](https://responsively.app/) - *Responsive Dev Design Tool*
@@ -203,7 +205,6 @@
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/) - *Site Development Tools*
 * [Uncensorable Publishing](https://uncensorablepublishing.com/) - *Create Hard to Censor Sites*
-* [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [Graphic Design Elements](https://onehack.us/t/get-20-000-graphic-design-elements/155320), [ImCreator](http://www.imcreator.com/free), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/) or [Freebiesbug](http://freebiesbug.com/)  - *Web Design Resources*
 * [Flux](https://www.runonflux.io/) - *Decentralized Cloud Infrastructure*
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
 * [xWebTools](https://www.xwebtools.com/) - *Web Developer Tools*
@@ -257,7 +258,6 @@
 * [GalleryProject](http://galleryproject.org/) - *Manage / Host Photos on Website* 
 * [PublishThisEmail](https://www.publishthis.email/) - *Email Based Website Builder*
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - *Mobile Friendly Page Test* 
-* [RealFaviconGenerator](https://realfavicongenerator.net/), [TheForgeSmith](https://icons.theforgesmith.com/) or [Basic Icons](https://basicons.xyz/) - *Site / App Icons*
 * [hlsflow](https://github.com/hlsflow/hlsflow) - *Host Video in HLS Stream*
 * [WebDesigner](https://webdesigner.withgoogle.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/AriaMinaei/theatre) or [Animate.css](https://animate.style/) - *Create Interactive Motion Graphics*
 * [Vidlery](http://vidlery.com/) - *Animated Webpage Background*
@@ -326,7 +326,8 @@
 * [Elementor Kit](https://mega.nz/folder/mEkDBSYI#WZVE8ptR90ZH00nBzmDIOw) - *1400+ Elementor Premium Templates*
 * [KokoAnalytics](https://www.kokoanalytics.com/) - *Wordpress Analytics*
 * [vichan](https://github.com/vichan-devel/vichan) - *Imageboard Hosting*
-* [ProBoards](https://www.proboards.com/) - *Free Forum & Imageboard Hosting*
+* [ProBoards](https://www.proboards.com/) - *Forum & Imageboard Hosting*
+* [MyBB](http://www.mybb.com/) or [PHPBB](https://www.phpbb.com/) - *Forum Hosting*
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - *Private Tracker Hosting*
 * [UUID Tools](https://www.uuidtools.com/) - *UUID Generator*
 
@@ -342,9 +343,9 @@
 * [GNUnet](https://gnunet.org/en/) - *Software Framework* 
 * [Kuker](https://github.com/krasimir/kuker) - *Debug Applications* 
 * [BugSnag](https://www.bugsnag.com/) - *Application Stability Monitor*
-* [Radare](https://rada.re/r/), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://github.com/rizinorg/cutter) - *Reverse Engineering* 
+* [Radare](https://rada.re/r/), [Flare IDA](https://github.com/mandiant/flare-ida), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://github.com/rizinorg/cutter) - *Reverse Engineering* 
 * [Read the Docs](https://readthedocs.org/) - *Make Documentation for your Software*
-* [Inno Setup](https://jrsoftware.org/isinfo.php) - *Windows Program Installer*
+* [Inno Setup](https://jrsoftware.org/isinfo.php), [InstallForge](https://www.installforge.net/) or [ActualInstaller](https://www.actualinstaller.com/) - *Create Installation Programs*
 * [Flatpak](https://flatpak.org/) - *Create & Distribute Linux Applications*
 * [WTFPL](http://www.wtfpl.net/) or [GPL](http://giant-penis-license.org/) - *Free Software Licenses*
 
@@ -402,7 +403,7 @@
 * [samp-node-lib](https://github.com/peterszombati/samp-node-lib) - *GTASA Multiplayer Scripting Library*
 * [VEEDI](https://www.veedi.com/) - *Create Game Walkthrough Videos*
 * [CraftPix](https://craftpix.net/freebies/), [Kenney](https://www.kenney.nl/), [/r/GameAssets](https://www.reddit.com/r/gameassets/), [UnityAssets4Free](https://unityassets4free.com/), [UnityFreaks](https://www.unityfreaks.com/) or [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free) - *Game Development Assets*
-* [xonotic](https://github.com/xonotic) or [Warsow](https://github.com/Warsow) - *FPS Game Assets*
+* [xonotic](https://github.com/xonotic), [Vanguard](https://github.com/VanguardDev/Vanguard) / [2](https://project-vanguard.netlify.app/index.html) or [Warsow](https://github.com/Warsow) - *FPS Game Assets*
 
 ***
 
@@ -484,6 +485,7 @@
 * [PR Monitor](https://github.com/fwouts/prmonitor) - *Pull Request Notifier*  
 * [Gidget](https://github.com/GDGVIT/gidget) - *Pull Request Notifier / Android*
 * [Whats New GitHub](https://github.com/flawyte/whats-new-github) - *Repository Change Feed* 
+* [Conventional Commits](https://www.conventionalcommits.org/) - *Commit message specification*
 * [ReadmeGallery](http://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/) - *GitHub Remdme Gallery Creator*
 * [readme.so](https://readme.so/) - *Readme Markdown Editor*
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - *Dynamically Generated GitHub Readme Stats* 
