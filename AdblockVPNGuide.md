@@ -26,7 +26,6 @@
 * **[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** - *Bypass Redirects*
 * **[SponsorBlock](https://sponsor.ajay.app/)** - *Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)*
 * **[Adguard Browser Extension](https://github.com/AdguardTeam/AdguardBrowserExtension#installation)** - *Adblocker / [Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt)*
-* **[uMatrix](https://github.com/gorhill/uMatrix#umatrix)**, [NoScript](https://noscript.net/) or [ScriptSafe](https://www.andryou.com/scriptsafe) - *Blocks Malicious Scripts*
 * **[Popup Blocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)**, [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - *Blocks Malicious Popups & Tabs*
 * **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - *Plays Videos in Ad-Free Player*
 * **[Fakespot](https://www.fakespot.com/)** - *Identifies Fake Reviews & Counterfeits*
@@ -192,7 +191,6 @@
 * [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/), [Skytransfer](https://skytransfer.hns.siasky.net) or [upload-vaa](https://upload.vaa.red/) - *Encrypted File Host* 
 * [EncFS MP](https://encfsmp.sourceforge.io/index.html), [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/), [CipherShed](https://www.ciphershed.org/), [GPG4Win](https://www.gpg4win.org/), [Kryptor](https://www.kryptor.co.uk/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - *File Encryption Tool* 
 * [Filecrypt](https://filecrypt.cc/) - *Encrypt File Links*
-* [RemoteStream](https://remotestre.am/) - *Encrypt your Google Drive links* 
 * [PDFEncrypt](https://pdfencrypt.net/) - *PDF File Encryption*
 * [GPGTools](https://gpgtools.org/) - *Encrypt & Sign Data / Communications* 
 * [CiphersByRitter](http://ciphersbyritter.com/) - *Cipher / Encryption Articles*
@@ -243,7 +241,6 @@
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - *Redirects all YouTube links to Invidous* 
 * [Anti-Grabify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anti-grabify) - *Block IP Grabbers*
 * [Anti-Fp](https://www.cydecplatform.com/antifp.html) - *Disrupt Fingerprint Targeting*
-* [CSS Exfil Protection](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester) - *Stops CSS data exfiltration attacks*
 * [CanvasBlocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_canvasblocker) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - *Prevent Canvas Fingerprinting*
 * [PortAuthority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/) - *Block Javascript Port Scan on Sites*
 * [First Party Isolation](https://github.com/mozfreddyb/webext-firstpartyisolation) - *Like blocking Third-party cookies, but more exhaustively*
@@ -281,7 +278,6 @@
 * [zero-width](https://github.com/chpmrc/zero-width-chrome-extension) - *Replaces zero-width characters* 
 * [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - *Disposable Containers* 
 * [Redirect AMP to HTML](https://www.daniel.priv.no/web-extensions/amp2html.html) - *Redirects AMP Pages to Regular Web Pages* 
-* [HTTPZ](https://github.com/claustromaniac/httpz), [Smart HTTPS](https://mybrowseraddon.com/smart-https.html) or [HTTPS Everywhere](https://www.eff.org/https-everywhere)- *HTTPS Encryption*
 * [HTTP Header Live](https://github.com/Nitrama/HTTP-Header-Live) - *Display / Edit the HTTP Header*
 * [Open Two Factor Authenticator](https://add0n.com/two-factor-authenticator.html) - *Two-Factor Authentication Addon* 
 * [Social Book Post Manager](https://chrome.google.com/webstore/detail/social-book-post-manager/ljfidlkcmdmmibngdfikhffffdmphjae) - *Delete Facebook Posts in Bulk* 
@@ -446,7 +442,7 @@
 * **[VPN Comparison Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml)**, [2](https://www.vpntierlist.com/), [3](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/), [4](https://privacymelon.com/stealth-vpn-guide/vpn-comparison-table/) - *Compare VPN Privacy Polices*
 * **[Mullvad](https://mullvad.net/)** - *[Pricing](https://i.imgur.com/LfjZ9G3.png) / [NetNS](https://github.com/chutz/mullvad-netns)*
 * **[Proton](https://protonvpn.com)** - *[Pricing](https://i.imgur.com/hkhZGg1.png) / No Torrenting w/ Free Version*
-* **[Windscribe](https://windscribe.com)** - *[Pricing](https://i.imgur.com/D7015rq.png) / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites) / Free Version Available*
+* **[Windscribe](https://windscribe.com)** - *[Pricing](https://i.imgur.com/D7015rq.png) / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites) / Free Version Available / [Improved App](https://github.com/Windscribe/desktop-v2)*
 * **[Surfshark](https://surfshark.com/)** - *[Pricing](https://i.imgur.com/YaiKjpX.png)*
 * **[Riseup](https://riseup.net/en/vpn)** - *Free VPN* 
 * **[WireGuard](https://www.wireguard.com/)** - *VPN Tunnel*
