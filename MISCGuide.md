@@ -177,7 +177,7 @@
 * [ClaimFreeGames](https://claimfreegames.com/) - *Games* 
 * [Ubisoft Free](https://free.ubisoft.com/) - *Games*
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - *Games*
-* [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - *Auto-Claim Free Epic Games*
+* [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) or [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - *Auto-Claim Free Epic Games*
 * [/r/googleplaydeals](https://reddit.com/r/googleplaydeals) - *Paid apps* 
 * [Android App Sales](https://t.me/androidappsales) - *Paid apps / Telegram* 
 * [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - *Paid apps*
@@ -488,6 +488,7 @@
 * [The Tsuki Project](https://classic.systemspace.network/) - *Gain Eternal Life / [Explanation](https://youtu.be/mWkgvM-Qnhw)*
 * [Nested](http://orteil.dashnet.org/nested) - *Explore the Universe in a File System* 
 * [Pornolize](https://pornolize.com/) - *Make Inappropriate Versions of Webpages* 
+* [Just a Minute](https://jinay.dev/just-a-minute/) - *Estimate a Minute*
 * [Checkboxes](http://www.jezzamon.com/checkboxes/index.html) - *Check Boxes* 
 * The Nut Button - [Android](https://play.google.com/store/apps/details?id=com.james.nut) / [iOS](https://apps.apple.com/gb/app/the-official-nut-button-meme/id1462124556) - *You press the Button, it says Nut*
 * [nooooooooooooooo.com](http://www.nooooooooooooooo.com/) - *Vader NO Button*
@@ -704,7 +705,7 @@
 * [Dehydration Color Chart](https://i.imgur.com/PpDgo5j.png) - *Urine Color Dehydration Chart*
 * [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - *Remedies for Sores on Tongue*
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - *Interactive Self Care Guide*
-* [Drugs.com](https://www.drugs.com/) - *Drug Information & Side Effects*
+* [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - *Drug Information & Side Effects*
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - *Mindfulness / Stress Reduction Tips*
 * [MediLog](https://gitlab.com/toz12/medilog) - *Medical Data Log*
 * [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - *Insomnia Prevention Tips*
@@ -945,7 +946,7 @@
 * [Link Alert](https://www.cwesson.net/projects/LinkAlert/) - *Link Type Indicator* 
 * [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) or [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - *Auto Delete Cookies*
 * [Cookie Manager](https://github.com/laktak/vanilla-chrome), [Cookie Quick Manager](https://github.com/ysard/cookie-quick-manager), [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - *Cookie Manager* 
-* [Feedbro](https://nodetics.com/feedbro/), [Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS) or [Fraidycat](https://fraidyc.at/) - *RSS Feed Reader*
+* [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - *Follow RSS Feeds*
 * [Google Unblocked](https://github.com/Ibit-to/google-unlocked) - *Uncensored Google Search*
 * [Google search link fix](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_search_link_fix) - *Prevent Search Pages from Modifying Result Links* 
 * [Restore Classic Google Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_restore_classic_google_icons)
