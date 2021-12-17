@@ -227,6 +227,7 @@
 * [WorthBuck](https://worthbuck.com/) - *Domain Price Estimations*
 * [UseMe](https://useme.org/) - *Ping Website*
 * [Measure](https://web.dev/measure/) - *Site Functionality Testing*
+* [Testmail](https://testmail.app/) - *Site Signup Test*
 * [Responsivize](https://virejdasani.github.io/Responsivize/) - *Website Responsiveness Test*
 * [PageSpeed](https://developers.google.com/speed/pagespeed/insights/) - *Test Webpage Speed*
 * [Shisho](https://shisho.dev/) - *Infrastructure Code Security Patcher*
