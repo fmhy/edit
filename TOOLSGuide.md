@@ -903,6 +903,7 @@ General Reading Sites*
 * **[Aliucord](https://github.com/Aliucord/Aliucord)** - *Modded Discord Client* 
 * **[BetterDiscord](http://betterdiscord.app/)** - *Modifiable Discord Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools) / [Web Client](https://github.com/Strencher/BdBrowser)*
 * **[Cumcord](https://cumcord.com/)** - *Discord Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)*
+* **[GooseMod](https://goosemod.com/)** - *Modifiable Discord Client / [Firefox](https://addons.mozilla.org/addon/goosemod-for-web/) / [Chrome](https://chrome.google.com/webstore/detail/goosemod-for-web/clgkdcccmbjmjdbdgcigpocfkkjeaeld)*
 * [Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists) - *Discover Servers / Bots*
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - *Discord Tools*
 * [Guilded](https://www.guilded.gg/) or [Revolt](https://revolt.chat/) - *Discord Alternative / [Client Mod](https://github.com/ReGuilded/ReGuilded/)*
@@ -916,7 +917,6 @@ General Reading Sites*
 * [Discord Portable](https://portapps.io/app/discord-portable/) - *Portable Discord Stable & [PTB PortApps](https://portapps.io/app/discord-ptb-portable/)*
 * [Unicord](https://github.com/WamWooWam/Unicord) - *Open Source Discord Client / [Discord](https://discord.gg/64g7M5Y)* 
 * [Fosscord](https://github.com/fosscord/fosscord) - *FOSS Discord Client*
-* [GooseMod](https://goosemod.com/) - *Modifiable Discord Client / [Firefox](https://addons.mozilla.org/addon/goosemod-for-web/) / [Chrome](https://chrome.google.com/webstore/detail/goosemod-for-web/clgkdcccmbjmjdbdgcigpocfkkjeaeld)*
 * [discord rpc client](https://github.com/Metalloriff/discord-rpc-client) - *RPC Client*
 * [OpenDiscord](https://github.com/505e06b2/OpenDiscord) - *Modifiable Discord Client*
 * [Quarrel](https://github.com/UWPCommunity/Quarrel) - *Universal Windows Platform Discord Client*
