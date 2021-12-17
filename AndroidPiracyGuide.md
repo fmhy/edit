@@ -563,6 +563,7 @@
 * [MediaBox HD](https://mediaboxhd.net/) - *Movies / TV / Chromecast*
 * [PikaShow](https://pikashow.app/app) - *Movies / TV*
 * [Modded Amazon Prime Video](https://t.me/shooterOfficial1/38314) - *Movies / TV*
+* [Modded Hotstar](https://t.me/shooterOfficial1/38308) - *Movies / TV*
 * [Movie HD](https://moviehdapkdownload.com/moviehd-apk/) - *Movies / TV / Chromecast*
 * WiWiCenter - [Movies / TV](https://cinema.wiwicenter.com/) / [Anime](https://anime.wiwicenter.com/) - *Use Adblocker*
 * [Upflix](https://upflix.pro/) - *Movies / TV*
