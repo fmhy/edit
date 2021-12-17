@@ -1256,7 +1256,7 @@ G) - *Create Discord RPCs*
 * **[Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png)**, [2](https://i.imgur.com/A36Yd7F.png) / [Course](https://keycombiner.com/)
 * [Windows 10 Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)
 * [Operating System Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_os_emulators) - *Emulate Alternate OS*
-* [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) / [GitHub](https://github.com/microsoft/PowerToys), [CWCodes](http://cwcodes.net/), [Guru3D](https://www.guru3d.com/files-categories), [WinReducer](https://www.winreducer.net/) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
+* [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) / [GitHub](https://github.com/microsoft/PowerToys), [CWCodes](http://cwcodes.net/), [Guru3D](https://www.guru3d.com/files-categories) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
 * [PCPartPicker](https://pcpartpicker.com/), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), [/r/buildapc](https://reddit.com/r/buildapc) or [NZXTBld](https://www.letsbld.com/) - *PC Building Sites / [Discord](https://discord.gg/buildapc)*
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - *PC Building Community*
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC)  - *PC Suggestion Community / [Discord](https://discord.gg/TmNgXbwrqJ)*
@@ -1274,7 +1274,7 @@ G) - *Create Discord RPCs*
 * [Easy2Boot](https://www.easy2boot.com/) - *Boot Directly from ISO's* 
 * [balenaEtcher](https://balena.io/etcher) - *Flash OS Image SD / USB*
 * [InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB) - *Install Windows without USB*
-* [NTLite](https://www.ntlite.com/) or [MSMG Toolkit](https://msmgtoolkit.in/?i=1) - *Custom ISO Creator*
+* [NTLite](https://www.ntlite.com/), [WinReducer](https://www.winreducer.net/) or [MSMG Toolkit](https://msmgtoolkit.in/?i=1) - *Custom ISO Creator*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) or [EasyBCD](https://neosmart.net/EasyBCD/) - *Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - *Preinstallation Environment* 
 * [Microsoft Downloads Dump](https://www.heidoc.net/php/myvsdump.php) - *Verify ISO Legitimacy*
