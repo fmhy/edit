@@ -102,10 +102,11 @@
 * [IMDB TV](https://www.imdb.com/tv/) - *Movies / TV*
 * [iBOX](http://iboxbd.online/) - *Movies / TV*
 * [Playary](https://www.playary.com/) - *Movies / TV*
+* [Fawesome](https://fawesome.tv/) - *Movies / TV*
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - *Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / [Windscribes](https://windscribe.com/) free version works*
 * [StreamDor](https://www.streamdor.com/), [FreeMovies](https://freemovies.ltd/) or [MoviesFoundOnline](https://moviesfoundonline.com/) - *Movies / YouTube*
 * [YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - *Youtube streaming subreddits*
-* [YouTube Streaming Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_streaming_channels) - *Channels that host movies or shows*
+* [YouTube Streaming Channels](https://rentry.co/YT-Movies) - *Channels that host movies or shows*
 * [Official YT Movies](https://www.youtube.com/feed/storefront?bp=kgEmCGQSIlBMSFBUeFR4dEMwaWJWWnJUMl9XS1dVbDJTQXhzS3VLd3iiBQIoAg%3D%3D) - *Free with Ads*
 * [JustWatch](https://www.justwatch.com/) or [ReelGood](https://reelgood.com/) - *Search Legal Streaming Hosts*
 * [Manually Scrape Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manually_scrape_sites) - *Search Sites Manually*
@@ -770,6 +771,7 @@
 * [Vuze](https://www.vuze.com/content/) - *Movies / TV* 
 * [ATORRENTS](https://atorrents.com/) - *Movies*
 * [TorrentCue](http://torrrentcue.cc/Hollywood.html) - *Movies*
+* [TorHD](https://torhd.com/) - *Movies*
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - *Movies*
 * [YTS](https://yts.mx/) - *Movies / [Mirror](https://yify.netlify.app/) / Do [NOT](https://androidrookies.com/top-torrent-website-yts-is-sharing-user-emails-and-ip-addresses-with-anti-piracy-law-firm/) Make Account* 
 * [ButchIxanh](https://butchixanh.com/) - *Asian Drama*
