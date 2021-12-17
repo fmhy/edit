@@ -280,6 +280,7 @@
 * [Meeter](https://trymeeter.com/) - *Video Meeting Manager*
 * [Gifski](https://sindresorhus.com/gifski) - *Image to GIF Converter / [GitHub](https://github.com/sindresorhus/Gifski)*
 * [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - *Image & Video Editor*
+* [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - *Audio Editor*
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - *Image Editor* 
 * [ImageOptim](https://imageoptim.com/mac) - *Image Optimization*
 * [Vim](https://github.com/macvim-dev/macvim) - *Code Editor*
