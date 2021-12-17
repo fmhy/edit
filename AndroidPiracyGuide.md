@@ -675,7 +675,6 @@ RSS Player*
 * [ReProvision](https://github.com/Matchstic/ReProvision) - *On-device signing utility*
 * [HackYouriPhone Repo](https://repo.hackyouriphone.org/) - *Jailbreak / Tweaks* 
 * [isecureos](https://isecureos.idevicecentral.com/repo/) - *Jailbreak Antivirus Tweak*
-* [libhooker-configurator](https://github.com/coolstar/libhooker-configurator) - *LibHooker CS 13.0+ Jailbreak Config*
 * [EtasonATV](https://etasonatv.tihmstar.net/) - *Apple TV Jailbreaking*
 * [SHSH Host](https://shsh.host/) - *Save SHSH blobs to upgrade/downgrade iOS versions* 
 * [iOS-OTA-Downgrader](https://github.com/LukeZGD/iOS-OTA-Downgrader) - *OTA Downgrade iOS*
