@@ -767,6 +767,7 @@ RSS Player*
 * [ShortcutsGallery](https://shortcutsgallery.com/) - *Siri Shortcuts*
 * [Color Widgets](https://apps.apple.com/us/app/color-widgets/id1531594277), [WidgetSmith](https://apps.apple.com/us/app/widgetsmith/id1523682319) or [widgetopia](https://apps.apple.com/us/app/widgetopia-widgets-weather/id1536432615) - *iOS Widgets*
 * [DownTube](https://github.com/MrAdamBoyd/DownTube) or [YouDown](https://apps.apple.com/sa/app/youdown/id1487658334) - *YouTube Downloader* 
+* [Keynote](https://apps.apple.com/us/app/keynote/id361285480) - *Make Presentations*
 * [Noctis12](https://repo.packix.com/package/com.laughingquoll.noctis12/) or [Dune](https://github.com/Skittyblock/Dune) - *iOS Dark Mode*
 * [GlobeConvert](https://apps.apple.com/us/app/globeconvert-currency-units/id334851202) - *Currency / Unit Converter*
 * [IRuin](https://iriun.com/) - *Use iOS Device as Webcam* 
@@ -795,6 +796,7 @@ RSS Player*
 * [1 Click iCloud Bypass](https://frpfile.com/one-click-bypass-icloud/), [All in One iCloud Tool](https://frpfile.com/ifrpfile-all-in-one-icloud-tool/) or [iCloudBypass](https://appletech752.com/icloudbypass.html) - *Bypass iCloud*
 * [GoodLinks](https://goodlinks.app/) - *Save Links*
 * [Flarify](http://www.flairify.com/) - *Touchscreen Typing Practice* 
+* [Selvy PenScript](https://apps.apple.com/us/app/selvy-penscript/id1027637212) - *Handwriting to Text Keyboard*
 * [VoxRec](https://apps.apple.com/us/app/voxrec-voice-to-text-dictation/id1366603987) - *Voice to Text*
 * [TranslatedLabs](https://translatedlabs.com/) - *Translation Apps*
 * [Scan Thing](https://apps.apple.com/us/app/scan-thing-scan-anything/id1542730895) - *Scan & Digitize Anything*
@@ -887,6 +889,7 @@ RSS Player*
 * [iRetro](https://apps.apple.com/us/app/iretro/id1557178995) - *iPod Classic Audio Player*
 * [Denim](https://apps.apple.com/us/app/denim-playlist-cover-maker/id1532250420) - *Playlist Cover Maker*
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - *Identify Playing Songs*
+* [GarageBand](https://apps.apple.com/us/app/garageband/id408709785) - *Audio Editor / Creator*
 
 ***
 
