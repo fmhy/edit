@@ -1027,7 +1027,8 @@ G) - *Create Discord RPCs*
 * [Imagine](https://imagine.vanished.rocks/) - *Imagine Discord Branding Image Creator*
 * [BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - *Bot Messaging Panel*
 * [Figma](https://www.figma.com/community/file/992144378612759941/Discord-Resources) - *Discord Resources / [Desktop](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)*
-* [Mon2Cam](https://github.com/ShayBox/Mon2Cam) - *Multi-Monitor DIscord Screenshare Fix*
+* [Mon2Cam](https://github.com/ShayBox/Mon2Cam) - *Multi-Monitor Discord Screenshare Fix*
+* [OpenAsar](https://github.com/GooseMod/OpenAsar) - *Alternative app.asar*
 
 ***
 
