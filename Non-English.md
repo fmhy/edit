@@ -1491,7 +1491,6 @@ Portuguese
 * [JioRockers](http://www.jiorockers.uk/) - *Streaming / Movies*
 * [v100v.net](https://www.v100v.net/) - *Streaming / Movies*
 * [7MovieRulz](https://7movierulz.pe/) - *Streaming / Movies*
-* [ullu](https://ullu.app/) - *Streaming / Movies / TV*
 * [1jalshamoviez](https://www.1jalshamoviez.info/) - *Download / Movies*
 * [MLWBD](https://mlwbd.shop/) - *Download / Movies*
 * [4MovieRulz](https://4movierulz.gg/) - *Download / Movies*
