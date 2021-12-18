@@ -67,6 +67,7 @@
 * [DoINeedAJacket](https://doineedajacket.com/weather/), [DogeWeather](http://dogeweather.com/), [ForcastAdvisor](https://www.forecastadvisor.com/) or [wttr](https://wttr.in/) - *Simple Weather Reports*
 * [World Weather Online](https://www.worldweatheronline.com/) - *Historical Weather Reports*
 * [Cricket Convert](https://www.weather.gov/epz/wxcalc_cricketconvert) - *Estimate Temperature via Cricket Chirps*
+* [Elevation](https://tikolu.net/elevation/) - *Find Current Elevation*
 * [BreezoMeter](https://www.breezometer.com/) - *Air Quality Reports*
 * [RTL-SDR](https://gist.github.com/fasiha/c123a9c6b6c78df7597bb45e0fed808f) - *DIY FAA & EASA Satellite Feeds / Transponder*
 * [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/) or [Random Lists](https://www.randomlists.com/) - *Generate Anything*
@@ -348,6 +349,7 @@
 * [HeSuVi](https://sourceforge.net/projects/hesuvi/) - *Headphone Surround Virtualizations*
 * [REAL](https://github.com/miniant-git/REAL) - *Reduce Win 10 Audio Latency*
 * [easyeffects](https://github.com/wwmm/easyeffects) - *Audio Manipulation for PipeWire*
+* [SoundSync](https://soundsync.app/) - *Sound System Sync*
 * [VCV Rack](https://vcvrack.com/) - *Eurorack Simulator*
 * [Cable](https://vb-audio.com/Cable/) - *Virtual Audio Cable*
 * [Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Download Album Art*
@@ -554,6 +556,7 @@
 * [Slapdash](https://slapdash.com/) - *Connect Cloud Apps* 
 * [Automation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - *Automate Internet Tasks*
 * [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - *Communication Software Index*
+* [Discord](https://discordapp.com/), [Guilded](https://www.guilded.gg/) / [Mod](https://github.com/ReGuilded/ReGuilded/) or [Revolt](https://revolt.chat/) - *Messaging Platforms*
 * [Twist](https://twist.com/) - *Collaboration Chat Manager*
 * [Hack.chat](https://hack.chat/) or [tik.io](https://tlk.io/) - *Minimal Account Free Chat* 
 * [Cirlos](https://www.cirlos.net/) or [WeeChat](https://weechat.org/) - *Chat App*
@@ -567,7 +570,7 @@
 * [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) or [List of Matrix Servers](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html) - *Matrix Server List*
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - *Export Skype Chat Data to Readable Text*
-* [Jitsi](https://desktop.jitsi.org/index.html), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [TinyChat](https://tinychat.com/) or [Briefing](https://brie.fi/ng) - *Video Chat* 
+* [Jitsi](https://desktop.jitsi.org/index.html), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [MiroTalk](https://mirotalk.up.railway.app/), [TinyChat](https://tinychat.com/) or [Briefing](https://brie.fi/ng) - *Video Chat* 
 * [Jam](https://jam.systems/), [GROK](https://grokat.com/), [TeaSpeak](https://teaspeak.de/gb/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
 * [IMumble](https://www.imumble.nl/) - *Voice Chat Server*
 * [Branch](http://branch.gg/) or [Gather](https://gather.town/) - *Virtual World Voice Chat*
@@ -738,6 +741,7 @@ General Reading Sites*
 * [Yandex Search Operator Cheat Sheets](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/), [3](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
 * [sitedorks](https://github.com/Zarcolio/sitedorks) - *Search Dorks*
 * [Cyber](https://cyber.page/) - *Hash Search Engine* 
+* [CrunchBase](https://www.crunchbase.com/) - *Company Info Search*
 * [Matrix](https://matrix.itasoftware.com/) - *Airfare Search*
 * [Hunter.io](https://hunter.io/) - *Business Email Address Search*
 * [ImportYeti](https://www.importyeti.com/) - *Search U.S. Customs Shipment Records* 
@@ -907,7 +911,6 @@ General Reading Sites*
 * **[GooseMod](https://goosemod.com/)** - *Modifiable Discord Client / [Firefox](https://addons.mozilla.org/addon/goosemod-for-web/) / [Chrome](https://chrome.google.com/webstore/detail/goosemod-for-web/clgkdcccmbjmjdbdgcigpocfkkjeaeld)*
 * [Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists) - *Discover Servers / Bots*
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - *Discord Tools*
-* [Guilded](https://www.guilded.gg/) or [Revolt](https://revolt.chat/) - *Discord Alternative / [Client Mod](https://github.com/ReGuilded/ReGuilded/)*
 * [Ripcord](https://cancel.fm/ripcord/) - *Lighweight Discord & Slack Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ripcord_tools)* 
 * [ArmCord](https://github.com/ArmCord/ArmCord) - *Lightweight Discord Client*
 * [Powercord](https://powercord.dev/) - *Anti-Telemetry Discord / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_powercord_tools)* 
@@ -1095,6 +1098,7 @@ G) - *Create Discord RPCs*
 * [SpeechChat](https://speechchat.com/) - *Twitch Text to Speech Client*
 * [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - *Turn YouTube Videos into GIFs* 
 * [ytcropper](https://ytcropper.com/) or [YTCutter](https://ytcutter.com/) - *YouTube Video Cropper*
+* [YouTube Notes](https://instadeq.com/youtube-notes/) - *YouTube Note Taking Tool*
 * [yt2pod](https://github.com/frou/yt2pod) - *Create Podcasts from YouTube Channels* 
 * [YouTube Comment Scraper](https://github.com/philbot9/youtube-comment-scraper-cli) - *YouTube Comment Scraping CLI* 
 * [YouTube first comment finder](https://first-comment.com/) - *Find First Comment on Video*   
@@ -1158,7 +1162,7 @@ G) - *Create Discord RPCs*
 * [Multi](https://multi.raredrop.co/), [Twitchmultivod](https://www.twitchmultivod.com/) or [TwitchTheater](https://twitchtheater.tv/) - *Watch Multiple Twitch Streams* 
 * [Livestream Panels](https://livestreampanels.com/) - *Custom Twitch Stream Panels*
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - *Fix Twitch Aspect Ratio*
-* [Chatterino](https://chatterino.com/), [Chatsen](https://chatsen.app/ or [Chatty](https://chatty.github.io/) - *Twitch Chat Client*
+* [Chatterino](https://chatterino.com/), [Chatsen](https://chatsen.app/), [Chatterino Homies](https://chatterinohomies.com/) or [Chatty](https://chatty.github.io/) - *Twitch Chat Client*
 * [SpeechChat](https://speechchat.com/) - *Twitch Text to Speech Client*
 * [Transparent-Twitch-Chat](https://github.com/chylex/Transparent-Twitch-Chat) - *Transparent Twitch Chat*
 * [Twitch Screen Comment Scroller](https://greasyfork.org/en/scripts/376225-twitch-screen-comment-scroller) - *Auto Scroll Twitch Comments*
@@ -1293,6 +1297,9 @@ G) - *Create Discord RPCs*
 * [SmartWindows](https://smartwindows.app/) - *Create / Restore Windows Profiles* 
 * [VirtualBox](https://www.virtualbox.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - *Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)*
 * [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - *Windows XP Virtual Machine*
+* [Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) - *MacOS Virtual Machine*
+* [Ryzen Hackintosh](https://github.com/mikigal/ryzen-hackintosh) - *MacOS VM for Ryzen*
+* [XiaoMi NoteBook Pro Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - *MacOS VM for XiaoMi NoteBooks*
 * [VMWare](https://gist.github.com/rkennesson/2c4595bf062aaab387dccf1210accf98) - *Hide Virtual Machine*
 * [QuickEmu](https://github.com/wimpysworld/quickemu) - *Virtual Machine Creator*
 * [vBoxSysInfoMod](https://github.com/JayMontana36/vBoxSysInfoMod) - *Modify VM System Info*
@@ -1325,6 +1332,7 @@ G) - *Create Discord RPCs*
 * [MemTest](https://www.memtest.org/) - *Memory Diagnostic Tool*
 * [CPUid](https://www.cpuid.com/softwares/cpu-z.html) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - *System Information Tool* 
 * [HWiNFO](https://www.hwinfo.com/) - *Hardware Analysis, Monitoring and Reporting*
+* [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - *AMD Processor Power Management*
 * [phwmon](https://gitlab.com/o9000/phwmon) - *System Tray Hardware Monitor*
 * [TrayDir](https://github.com/SamuelSVD/TrayDir) - *System Tray File Manager*
 * [MinimizeToTray](https://github.com/sandwichdoge/MinimizeToTray) - *Hide Any Windows to Tray*
@@ -1366,6 +1374,7 @@ G) - *Create Discord RPCs*
 * [CircleDock](http://circledock.wikidot.com/) - *Circular Dock*
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - *Quickly Change Power Schemes*
 * [Wox](http://www.wox.one/) / [GitHub](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [KeyLauncher](https://github.com/stax76/KeyLauncher), [ChaseApp](https://www.chaseapp.io/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - *Keystroke Launcher*
+* [Closemul](https://www.lustark.com/closemul) - *Multi-Purpose Program Frontend*
 * [rofi](https://github.com/davatorium/rofi) - *Window Switcher & App Launcher*
 * [Clipboard Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_clipboard_managers) - *Manage Copied Text*
 * [clip](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/clip) - *Redirects Command Output from Command Line to Clipboard*
@@ -1523,6 +1532,7 @@ G) - *Create Discord RPCs*
 * [ModernWinver](https://github.com/torchgm/ModernWinver) - *Modernize the About Windows Screen*
 * [pyWinContext](https://github.com/VodBox/pyWinContext) or [WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - *Custom Context Menu Manager* 
 * [Modern Flyouts](https://www.microsoft.com/en-gb/p/modernflyouts-preview/9mt60qv066rp?activetab=pivot:overviewtab) - *Modern & Fluent Flyouts for Windows / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)*
+* [WindowFX](https://www.stardock.com/products/windowfx/) - *System Animation Effects / [Premium](https://filecr.com/?s=WindowFX)*
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - *Windows 10 Search Appearance Tweaker*
 * [Windows 11 for Windows 10](https://www.deviantart.com/niivu/art/Windows-11-for-Windows-10-882819383) - *Windows 11 Theme / [Icons](https://www.deviantart.com/niivu/art/Windows-11-Icon-Themes-874289797)*
 * [Taskbar Tweaker](https://tweaker.rammichael.com/), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) or [Valaut](http://www.valaut.phpnet.us/) - *Taskbar Customization Tools*
@@ -1593,7 +1603,7 @@ G) - *Create Discord RPCs*
 * [PDF Host](https://pdfhost.io/) - *Upload, Store and Share PDF Files* 
 * [PDFx](https://www.metachris.com/pdfx/) or [Tabula](https://tabula.technology/) - *Extract Info / URLs from PDF* 
 * [online2pdf](https://online2pdf.com/) - *Convert files to PDF*
-* [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/ ) - *Convert PDF Files* 
+* [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/) - *Convert PDF Files* 
 * [Adobe Compress PDF](https://www.adobe.com/acrobat/online/compress-pdf.html) - *PDF Compressor*
 * [Adobe Word Converter](https://www.adobe.com/acrobat/online/word-to-pdf.html) - *Convert Word Files to PDF*
 * [Adobe Excel to PDF](https://www.adobe.com/acrobat/online/excel-to-pdf.html) - *Convert Excel Files to PDF*
@@ -1659,7 +1669,7 @@ G) - *Create Discord RPCs*
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - *HTTP File System*
 * [FolderClone](http://www.folderclone.com/) - *Clone / Backup Folders*
 * [Borg](https://www.borgbackup.org/) - *Deduplicating File Archiver / Backup* 
-* [BackupPC](https://backuppc.github.io/backuppc/), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [UrBackup](https://www.urbackup.org/), [BlobBackup](https://github.com/BlobBackup/BlobBackup), [FastCopy](http://fastcopy.jp/) or [Duplicati](https://www.duplicati.com/) - *File Backup Tool* 
+* [BackupPC](https://backuppc.github.io/backuppc/), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [restic](https://restic.net/), [UrBackup](https://www.urbackup.org/), [BlobBackup](https://github.com/BlobBackup/BlobBackup), [FastCopy](http://fastcopy.jp/) or [Duplicati](https://www.duplicati.com/) - *File Backup Tool* 
 * [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) - *Web-Based File Browser*
 * [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/) or [Securedrop](https://securedrop.org/) - *Document File Sharing*
 * [OpenPaper](https://openpaper.work/en/) or [DataShare](https://datashare.icij.org/) - *Document Manager*
