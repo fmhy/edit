@@ -91,6 +91,7 @@
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "games" or "roms"*
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - *[Discord](https://discord.gg/fitgirlrepacks)*
 * **[DODI](http://dodi-repacks.site/)** - *[Discord](https://discord.gg/uE273qJ)*
+* **[ScOOter Repacks](https://scooter-repacks.site/)** - *[Discord](https://discord.gg/BWKyN8SgvM)*
 * **[ElAmigos Games](https://elamigos.site/)**, [2](https://www.elamigos-games.com/) 
 * **[Xatab Repack](https://b.otxataba.net/), [2](https://x5.xatab-repack.com/)**
 * **[RePack.info](https://repack.info/)**
@@ -142,7 +143,7 @@
 * [SoftCobra](https://www.softcobra.com/) - *Roms / [Block Overlay](https://github.com/NicolaeNMV/BehindTheOverlay)*
 * [All Xbox Game](https://downloadgamexbox.com/) - *Roms*
 * [RomToHome](https://romtohome.com/) - *Roms*
-* [Sundby](https://archive.sundby.com/retro/), [2](http://kuzpo.kapsi.fi/emutemp/) - *Roms*
+* [Sundby](https://archive.sundby.com/retro/) - *Roms*
 * [EdgeEmulation](https://edgeemu.net/) - *Roms*
 * [RomsForever](https://romsforever.co/) - *Roms* 
 * [Replayers](https://replayers.org/) - *Roms*
