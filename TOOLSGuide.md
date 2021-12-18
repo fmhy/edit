@@ -839,6 +839,7 @@ General Reading Sites*
 * [/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all) - *Explore Multireddits*
 * [FMHY Curated Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits) - *Multireddits curated by FMHY members*
 * [Pushshift Reddit Search](https://www.redditsearch.io/) / [2](https://redditsearch.io/), [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0 ) or [Better Reddit Search](https://betterredditsearch.web.app/) - *Reddit Search*  
+* [Busca](https://github.com/afk-mcz/busca) - *Search Current Tab on Reddit*
 * [KarmaDecay](http://karmadecay.com/) - *Reddit Reverse Image Search* 
 * [Reddit Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_alternatives) - *Alternative Reddit Style Sites*
 * [lurrker](https://lurrker.com/), [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/), [kddit](https://kddit.kalli.st/), [Nuxtit](https://nuxtit.netlify.com/) or [js4.red](https://js4.red/) - *Alt Browsers / Web Clients*
