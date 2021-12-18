@@ -493,6 +493,8 @@
 * [ChordBook](https://chordbook.com/) - *Guitar*
 * [Songsterr](https://www.songsterr.com/) - *Guitar*
 * [Guitarsix](https://guitarsix.com/) - *Guitar*
+* [Finger Style](https://finger-style.ru/category/lessons) - *Guitar*
+* [Finger Tabs](https://fingertabs.com/) - *Tabs*
 * [LearningSynths](https://learningsynths.ableton.com/) - *Synthesizers*
 * [A-Complete-UTAU-Tutorial-For-Beginners](https://www.quotev.com/story/9299060/A-Complete-UTAU-Tutorial-For-Beginners) - *UTAU Tutorial*
 * [MusicStaff](https://musicstaff.com/) - *Music Teacher Search*
@@ -543,7 +545,7 @@
 * [Cheatography](https://cheatography.com/) - *Educational Cheat Sheets* 
 * [Toppr](https://www.toppr.com/) - *Test Practice & Homework Help*
 * [GradesFixer](https://www.gradesfixer.com/) - *Essay Samples*
-* [Cheggs By Tnt](https://t.me/CheggsByTnt) or [iStaunch](https://www.istaunch.com/how-to-get-chegg-answers-for-free/#2_Free_Chegg_Answers_by_iStaunch) - *Chegg Answers Bot*
+* [Chegg Answers](https://t.me/CheggsByTnt), [2](https://www.istaunch.com/how-to-get-chegg-answers-for-free/#2_Free_Chegg_Answers_by_iStaunch), [3](https://creativesavantz.com/how-to-access-chegg-solutions-for-free/), [4](https://litanswers.net/get-free-chegg-answers/), [5](https://www.premiuminfo.org/chegg-answers-for-free/), [6](https://techpanga.com/free-chegg-answer/), [7](https://trickswire.com/free-chegg-answers/), [8](https://www.rootupdate.com/free-chegg-answers/) - *Chegg Answer Tools*
 * [Quizizz Cheat](https://github.com/gbaranski/quizizz-cheat) - *Quizizz Answers Tool*
 * [PXTrez](https://pxtrez.com/) - *Kahoot Answers Tool*
 * [ITExamAnswers.net](https://www.itexamanswers.net/) - *IT Exam Answers*
@@ -582,7 +584,7 @@
 * [CS 182 Deep learning](https://cs182sp21.github.io/) - *Deep Neural Network Lesson Slides*
 * [OpenSyllabus](https://opensyllabus.org/) or [LanguageDrops](https://languagedrops.com/) - *Syllabus Search / Info*
 * [Edpuzz Ninja](https://edpuzz.ninja/) - *Educational Puzzle Solving Tool* 
-* [PowerInBooks](https://powerinbooks.xyz/temp/) or [ch36650lut10n5](https://www.ch36650lut10n5.com/) - *Textbook Solutions* 
+* [PowerInBooks](https://powerinbooks.xyz/temp/), [LitSolutions](https://www.litsolutions.org/) or [ch36650lut10n5](https://www.ch36650lut10n5.com/) - *Textbook Solutions* 
 * [LabXchange](https://www.labxchange.org/) - *Science / Interactive*
 * [AskNature](https://asknature.org/) - *Natural Strategies / Solutions* 
 * [Citation Generator](https://www.citationgenerator.com/), [CitationMachine](https://citationmachine.net/) or [Cite This For Me](https://www.citethisforme.com/) - *Generate Citations / [Chrome](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)*
