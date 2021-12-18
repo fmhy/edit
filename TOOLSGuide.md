@@ -1108,6 +1108,7 @@ G) - *Create Discord RPCs*
 * [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - *Fix Youtube Search & Declutter Homepage* 
 * [youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - *Video Like / Dislike Hotkeys*
 * [YouTube Chronological Order](https://github.com/SleekPanther/youtube-chronological-order) - *Watch YouTube Videos in Chronological Order* 
+* [YouTube Upload Time](https://chrome.google.com/webstore/detail/youtube-upload-time/nenoecmaibjcahoahnmeinahlapheblg) - *Check YouTube Upload Date*
 * [YTStamps](https://ytstamps.netlify.app/) - *Create Custom Start & End Times*
 * [Video Speed Controller](https://github.com/codebicycle/videospeed), [YouTube Speed Control](https://github.com/avi12/youtube-speed-control) or [TimerHooker](https://greasyfork.org/en/scripts/372673-%E8%AE%A1%E6%97%B6%E5%99%A8%E6%8E%8C%E6%8E%A7%E8%80%85-%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A%E8%B7%B3%E8%BF%87-%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A%E5%8A%A0%E9%80%9F%E5%99%A8/code) - *Control Speed of YouTube Videos* 
 * [Watch Frame by Frame](http://www.watchframebyframe.com/) - *Watch Videos Frame by Frame* 
