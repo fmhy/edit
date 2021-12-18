@@ -899,6 +899,7 @@
 * [Readwn](https://www.readwn.com/) 
 * [Nakimushitl](https://nakimushitl.wordpress.com/)
 * [NovelCool](https://www.novelcool.com/)
+* [Scribblehub](https://www.scribblehub.com/)
 * [Novel Free](https://mnovelfree.com/)
 * [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)  
 * [VolareNovels](https://www.volarenovels.com/) 
