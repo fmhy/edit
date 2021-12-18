@@ -12,7 +12,7 @@
 
 ## ▷ Streaming Apps
 
-* **[Spotify Client](https://spotify.com/)** or [XpoMusic](https://xpomusic.com/) - *Streaming*
+* **[Spotify Client](https://www.spotify.com/us/download/)**, [ncspot](https://github.com/hrkfdn/ncspot) or [XpoMusic](https://xpomusic.com/) - *Streaming*
 * **[Spotify Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - *Spotify Tools, Adblockers, Customization & More*
 * [YouTube Music Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_music_players) - *Streaming*
 * [FunkWhale](https://funkwhale.audio/) - *Streaming*
@@ -21,7 +21,6 @@
 * [Muffon](https://github.com/staniel359/muffon) - *Streaming*
 * [Deezer](https://www.deezer.com/) - *Streaming*
 * [MusicBucket](https://musicbucket.net/) - *Track / Share Music / Telegram* 
-* [Spot](https://github.com/xou816/spot) - *Spotify Desktop Client for Gnome* 
 * [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - *Unlock Unavailable Netease Music*
 
 ***
@@ -193,13 +192,13 @@
 ## ▷ Download Apps
 
 * **[SlavDoge DL](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9kaXNjb3JkLmdnL2d3eFJmNnlTR0s.RkJJ)** - *Qobuz & Tidal Download Bot*
-* **[DoubleNegative](https://doublenegative.io/)**, [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - *Download from Deezer & Tidal*
 * **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - *Download from Spotify*
 * **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)*
 * **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - *Telegram audio download channels*
 * **[/r/FreeDeezerARL](https://reddit.com/r/freedeezerarl)** - *Download from Deezer & Soundcloud / [Discord](https://discord.com/invite/nwdgnh3tVw)*
 * [/r/xTrill](https://reddit.com/r/xTrill) - *MP3 / FLAC / [Discord Bot](https://discord.gg/xtrill) / [Backup](https://reddit.com/r/xTrillBackup)*
+* [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - *Download from Deezer & Tidal*
 * [OFFMP3](https://offmp3.com/) or [conversormp3](https://conversormp3.com.br/) - *Video Site to MP3 Converter*
 * [SMLoadr](https://t.me/SMLoadrNews) - *FLAC / MP3 / [Desktop GUI](https://github.com/thelucifermorningstar/SMLoadr-AUX/releases)*
 * [RedSea](https://github.com/Dniel97/RedSea) - *Tidal Music Downloader* 
