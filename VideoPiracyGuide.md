@@ -174,6 +174,7 @@
 * [5Movies.pw](https://5movies.pw/) - *Movies / TV / Anime*
 * [FilarMovies](https://filarmovies.com/) - *Movies / TV*
 * [Put-Locker](https://ww1.put-locker.com/) or [123moviesc](https://www.123moviesc.co/) - *Movies / TV / Anime* 
+* [YesMovies.id](https://yesmovies.id/) - *Movies / TV / Anime*
 * [Cinehub](https://cinehub.wtf/) - *Movies / TV / [Discord](https://discord.com/invite/ZqHsfSEkBE)* 
 * [Flenix](https://flenix.net/) - *Movies / TV / Anime* 
 * [HDFull](https://hdfull.lv/) - *Movies / TV / Anime* 
