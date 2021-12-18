@@ -100,7 +100,7 @@
 * [XePlayer](http://www.xeplayer.com/) - *Fork of Nox / [Screenshot](https://i.imgur.com/qfmmwMB.jpg)* 
 * [GameLoop](https://www.gameloop.com/) - *[Screenshot](https://i.imgur.com/dLrEXCJ.png)*
 * [MuMu](https://www.mumuglobal.com/) - *[Screenshot](https://i.imgur.com/D8BBerb.png)*
-* [MeMu](https://www.memuplay.com/) - *[Screenshot](https://i.imgur.com/1aZLVvi.png)*
+* [MeMu](https://www.memuplay.com/) - *[Screenshot](https://i.imgur.com/1aZLVvi.png) / [Debloater](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)*
 * [LDPlayer](https://www.ldplayer.net/) - *[Screenshot](https://i.imgur.com/URAJXJ6.png)*
 * [Genymotion](https://www.genymotion.com/fun-zone/) - *[Screenshot](https://i.imgur.com/rIoiob7.jpg)* 
 * [Leapdroid](https://leapdroid.en.softonic.com/) - *[Screenshot](https://i.imgur.com/4RKnNqJ.png)* 
@@ -186,7 +186,7 @@
 * [Naptime](https://play.google.com/store/apps/details?id=com.franco.doze) - *Accelerates Android Sleep Mode*
 * [Adebar](https://codeberg.org/izzy/Adebar) or [OAndBackupX](https://github.com/machiav3lli/oandbackupx) - *Device Backup Tool*
 * [Migrate](https://play.google.com/store/apps/details?id=balti.migrate) - *Migration Tool / Root Required*
-* [Videoder](https://www.videoder.com/) or [DVD](https://github.com/yausername/dvd) - *Video Download Tool* 
+* [Videoder](https://www.videoder.com/), [PowerTube](https://powertube.razar.app/) / [Git](https://github.com/razar-dev/PowerTube) or [DVD](https://github.com/yausername/dvd) - *Video Download Tool* 
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) or [SongTube](https://github.com/SongTube/SongTube-App) - *YouTube Audio / Video Downloader*
 * [DankChat](https://github.com/flex3r/DankChat) - *Talk in Multiple Twitch Chats at Once*
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - *Reddit Video Downloader*
@@ -221,6 +221,7 @@
 * [TextMeUp](http://www.textmeup.com/) - *Multi-Number App*
 * [Kubool](https://www.gdpd.xyz/) - *Anonymous Confession App*
 * [OpenInWA](https://github.com/SubhamTyagi/openinwa) - *Number Free WhatsApp Chat*
+* [WhatsappWebToGo](https://github.com/92lleo/WhatsappWebToGo) - *Mobile WhatsApp Web Client*
 * [Whatsapp Groups](https://whatsaplinks.com/) - *Whatsapp Group Links*
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - *Read Exported Whatsapp Chats*
 * [Watomatic](https://f-droid.org/packages/com.parishod.watomatic) or [AutoResponder](https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDEhkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDGAA=:S:ANO1ljKlL8g&gsr=CjuKAzgKGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMSGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMYAA==:S:ANO1ljLE-Ks) - *Chat App Auto-Responders*
@@ -694,6 +695,7 @@ RSS Player*
 # ► iOS Adblocking
 
 * **[AdGuard Pro](https://forum.mobilism.org/search.php?keywords=AdGuard+Pro&amp;sr=topics&amp;sf=titleonly)**, [2](https://testflight.apple.com/join/XqF1FkBg) - *Adblocker / [Config](https://cdn.adguard.com/public/Dns/adguard-dns.mobileconfig) / [Remote](https://apps.apple.com/app/apple-store/id1543143740)*
+* [Hyperweb](https://hyperweb.app/) - *iOS Safari Adblock*
 * [KF Panda-Player](https://apps.apple.com/us/app/kfpanda-player/id1460792262) - *Turn any site into a App, without the Ads* 
 * [1Blocker](https://1blocker.com/) - *Ablocker*
 * [Ka-Block!](http://kablock.com/) - *Adblocker*
