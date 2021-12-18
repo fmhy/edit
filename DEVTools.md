@@ -234,6 +234,7 @@
 * [Security Onion Solutions](https://securityonionsolutions.com/) - *Site Security Monitor*
 * [Teler](https://github.com/kitabisa/teler) - *HTTP Intrusion Detection*
 * [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - *HTTP Sites Leak Information*
+* [DNSDumpster](https://dnsdumpster.com/) - *DNS Lookup / Security*
 * [WebScarab](https://wiki.owasp.org/index.php/Category:OWASP_WebScarab_Project) - *HTTP / HTTPS Protocol Analysis*
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist* 
 * [Flounder](https://flounder.online/) - *Gemini Website Builder / [GitHub](https://github.com/alexwennerberg/flounder)* 
@@ -299,7 +300,7 @@
 * [IP Intelligence](http://getipintel.com/) - *Proxy / VPN / Bad IP Detection*
 * [V2Ray](https://www.v2ray.com/) - *Proxy Software / [Android](https://github.com/eycorsican/kitsunebi-android)*
 * [ipinfo.io](https://ipinfo.io/) - *IP Data API*
-* [DnSpy](https://github.com/dnSpy/dnSpy) - *.NET Debugger And Assembly Editor*
+* [DnSpy](https://github.com/dnSpy/dnSpy) - *.NET Debugger & Assembly Editor*
 * [Certbot](https://certbot.eff.org/) - *Enable HTTPS Automatically*
 * [MachineID](http://www.ionworx.com/machineid.html) - *Hardware Identifier*
 * [TrackMyBacklink](https://trackmybacklink.com/) - *Backlink Tracker*
