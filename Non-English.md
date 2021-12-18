@@ -272,6 +272,7 @@
 # ► French
 
 * [P2PFR](https://forum.p2pfr.com/) - *Piracy Discussion*
+* [Emuline](http://www.emuline.org/) - *Rom / Emulation Discussion*
 * [SubSynchro](https://www.subsynchro.com/), [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - *French Subtitles* 
 
 ## ▷ Downloading
@@ -492,6 +493,7 @@
 * [WatchOnlineMovies](https://www.watchonlinemovies.net.pk/) - *Movies / TV*
 * [HindiLinks4u](https://www.hindilinks4u.to/), [2](https://hindilinks4u.pro/) or [3](https://hindilinks4u.io/)  - *Movies / TV*
 * [Movies4](https://www.movies4.com.pk/) - *Movies / TV* 
+* [DesiTVBox](https://www.desitellybox.me/) - *TV*
 * [OnlineMovies8](https://www.onlinemovies8.com.pk/) - *Movies* 
 * [PakBcn](http://www.pakbcn.live/) - *TV / Live*
 * [Dead Toons India](https://deadtoonsindia.net/) - *Cartoons / Anime* 
@@ -1494,6 +1496,7 @@ Portuguese
 * [MLWBD](https://mlwbd.shop/) - *Download / Movies*
 * [4MovieRulz](https://4movierulz.gg/) - *Download / Movies*
 * [1xCinema](https://1xcinema.com/) - *Download / Movies*
+* [Pendujatt](https://www.pendujatt.net/) - *Download / Music*
 * [Indian Flac Songs](https://t.me/indianflacsongs) - *Download / Music*
 * [TamilBlasters](https://tamilblasters.art/) - *Torrent / Movies*
 * [TamilMV](https://www.1tamilmv.work/) - *Torrent / Movies*
