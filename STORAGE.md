@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/Xt4iLsr.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/VOSEvjY.png)** - *For mobile users*
 
 ***
 ***
@@ -657,7 +657,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **File Sync / Network Share**
 
-[dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [file.pizza](https://file.pizza/), [keybase](https://book.keybase.io/docs/files), [syncthing](https://syncthing.net/), [onionshare](https://onionshare.org/), [OwnCloud](https://owncloud.com/), [MLDonkey](https://github.com/ygrek/mldonkey), [Slate](https://slate.host/), [etesync](https://www.etesync.com/), [WinSCP](https://winscp.net/eng/index.php), [freefilesync](https://freefilesync.org/), [allwaysync](https://allwaysync.com/), [sharik](https://github.com/marchellodev/sharik), [Simple.Savr](https://www.ssavr.com/), [FileBrowser](https://filebrowser.org/), [Snapdrop](https://snapdrop.net/), [KDEConnect](https://kdeconnect.kde.org/), [Resilio](https://www.resilio.com/individuals/), [croc](https://f-droid.org/packages/com.github.howeyc.crocgui), [Ziggs](https://ziggs.io/), [dsynchronize](http://www.dimio.altervista.org/eng/dsynchronize/dsynchronize.html), [landrop](https://landrop.app/), [uploadtransfer](https://uploadtransfer.com/), [Surge](https://getsurge.io/)
+[dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [file.pizza](https://file.pizza/), [keybase](https://book.keybase.io/docs/files), [syncthing](https://syncthing.net/), [onionshare](https://onionshare.org/), [OwnCloud](https://owncloud.com/), [MLDonkey](https://github.com/ygrek/mldonkey), [Slate](https://slate.host/), [etesync](https://www.etesync.com/), [WinSCP](https://winscp.net/eng/index.php), [freefilesync](https://freefilesync.org/), [allwaysync](https://allwaysync.com/), [sharik](https://github.com/marchellodev/sharik), [Simple.Savr](https://www.ssavr.com/), [FileBrowser](https://filebrowser.org/), [Snapdrop](https://snapdrop.net/), [KDEConnect](https://kdeconnect.kde.org/), [Resilio](https://www.resilio.com/individuals/), [croc](https://f-droid.org/packages/com.github.howeyc.crocgui), [Ziggs](https://ziggs.io/), [dsynchronize](http://www.dimio.altervista.org/eng/dsynchronize/dsynchronize.html), [landrop](https://landrop.app/), [uploadtransfer](https://uploadtransfer.com/), [Surge](https://getsurge.io/), [odin](https://github.com/odinapp/odin)
 
 **Android File Sync**
 
@@ -836,7 +836,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Hosting** 
 
-[WebOasis IPFS](https://weboas.is/ipfs/), [IMGrPost](https://imgrpost.com/), [ImgBB](https://imgbb.com/), [Shutterfly](https://www.shutterfly.com/), [Imgur](https://imgur.com/), [FreeImage.Host](https://freeimage.host/), [snipboard](https://snipboard.io/), [vaa.red](https://upload.vaa.red/), [Postimages](https://postimages.org/), [imgbox](https://imgbox.com/), [pasteboard](http://www.pasteboard.co/), [vgy](https://vgy.me/)
+[WebOasis IPFS](https://weboas.is/ipfs/), [IMGrPost](https://imgrpost.com/), [ImgBB](https://imgbb.com/), [Shutterfly](https://www.shutterfly.com/), [Imgur](https://imgur.com/), [FreeImage.Host](https://freeimage.host/), [snipboard](https://snipboard.io/), [vaa.red](https://upload.vaa.red/), [Postimages](https://postimages.org/), [imgbox](https://imgbox.com/), [pasteboard](http://www.pasteboard.co/), [vgy](https://vgy.me/), [i](https://tikolu.net/i/)
 
 **Processing**
 
@@ -951,7 +951,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### M3U Players
 
-[hlsplayer](https://www.hlsplayer.net/), [reloltv](https://www.reloltv.com/) or [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV)
+[hlsplayer](https://www.hlsplayer.net/), [reloltv](https://www.reloltv.com/), [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV), [m3u8player](https://m3u8player.net/)
 
 ***
 
@@ -1028,6 +1028,7 @@ Add the following commands to a search to manually scrape each site.
 * [Ombi](https://ombi.io/) - *Plex / Emby User Request Management*
 * [Overseerr](https://overseerr.dev/) - *Plex User Request Management*
 * [TRaSH Guides](https://trash-guides.info/) or [The Complete Guide](https://redd.it/pqsomd) - *Video Server Setup Guides*
+* [compare-media-servers](https://github.com/Protektor-Desura/compare-media-servers) - *Media Server Comparisons*
 
 **Kodi**
 
@@ -1072,7 +1073,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Modded Minecraft Launchers
 
-**[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/) / [Tweaks](https://discord.gg/solartweaks) / [2](https://github.com/RichardDorian/Solar-Tweaks), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL)
+**[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/) / [Tweaks](https://discord.gg/solartweaks) / [2](https://github.com/RichardDorian/Solar-Tweaks), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/)
 
 ***
 
@@ -1117,7 +1118,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Multi-System**
 
-**[Foobar2000](https://www.foobar2000.org/)**, [AIMP](http://www.aimp.ru/?do=lang&lng=en), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [GoneMAD](https://gonemadmusicplayer.blogspot.com/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [VOX Universal Beta](https://vox.rocks/forum/t/vox-universal-beta-v07-12-release-notes-download-links-etc/12980/), [Hysolid](https://www.hysolid.com/), [aidoru](https://github.com/ffwff/aidoru), [Melodie](https://feugy.github.io/melodie/), [Modular Player](https://www.deviantart.com/jaxoriginals/art/ModularPlayers-v1-3-886577256), [goMP](https://github.com/aditya-K2/goMP), [hyperchroma](https://hyperchroma.app/), [Music Player Daemon](https://www.musicpd.org/) (Server-Side), [NCurses](https://github.com/ncmpcpp/ncmpcpp), [XMPlay](https://www.un4seen.com/) (Chiptune-Friendly)
+**[Foobar2000](https://www.foobar2000.org/)**, [AIMP](http://www.aimp.ru/?do=lang&lng=en), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [GoneMAD](https://gonemadmusicplayer.blogspot.com/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [VOX Universal Beta](https://vox.rocks/forum/t/vox-universal-beta-v07-12-release-notes-download-links-etc/12980/), [Hysolid](https://www.hysolid.com/), [aidoru](https://github.com/ffwff/aidoru), [Melodie](https://feugy.github.io/melodie/), [Modular Player](https://www.deviantart.com/jaxoriginals/art/ModularPlayers-v1-3-886577256), [goMP](https://github.com/aditya-K2/goMP), [hyperchroma](https://hyperchroma.app/), [Music Player Daemon](https://www.musicpd.org/) (Server-Side), [NCurses](https://github.com/ncmpcpp/ncmpcpp), [XMPlay](https://www.un4seen.com/) (Chiptune-Friendly), [guayadeque](http://sourceforge.net/projects/guayadeque), [musique](http://flavio.tordini.org/musique), [sonata](https://github.com/multani/sonata), [exaile](http://www.exaile.org/), [quodlibet](https://github.com/quodlibet/quodlibet/), [ario](http://ario-player.sourceforge.net/), [deadbeef](https://deadbeef.sourceforge.io/), [groovebasin](https://github.com/andrewrk/groovebasin)
 
 **Foobar2000 Tools** 
 
@@ -1125,7 +1126,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Linux**
 
-[cmus](https://cmus.github.io/), [Tauon Music Box](https://tauonmusicbox.rocks/), [Lollypop](https://wiki.gnome.org/Apps/Lollypop), [Audacious](https://audacious-media-player.org/)
+[cmus](https://cmus.github.io/), [Tauon Music Box](https://tauonmusicbox.rocks/), [Lollypop](https://wiki.gnome.org/Apps/Lollypop) / [2](https://gitlab.gnome.org/World/lollypop), [Audacious](https://audacious-media-player.org/), [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox)
 
 **Mac**
 
@@ -1273,7 +1274,7 @@ Add the following commands to a search to manually scrape each site.
 #### Password Managers
 
 * **[KeePass](https://keepass.info/)** - *[Ports](https://keepass.info/download.html), [2](https://keepassxc.org/) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/) / [CLI](https://github.com/rebkwok/kpcli)*
-* **[Bitwarden](https://bitwarden.com/)** - *[bitwarden_gcloud](https://github.com/dadatuputi/bitwarden_gcloud) / [Server](https://github.com/dani-garcia/vaultwarden)*
+* **[Bitwarden](https://bitwarden.com/)** - *[bitwarden_gcloud](https://github.com/dadatuputi/bitwarden_gcloud) / [Server](https://github.com/dani-garcia/vaultwarden) / [GUI](https://github.com/Sife-ops/dmenu_bw)*
 * [Firefox Lockwise](https://www.mozilla.org/en-US/firefox/lockwise/)
 * [LessPass](https://lesspass.com/)
 * [Buttercup](https://buttercup.pw/)
@@ -1342,7 +1343,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Piracy Site Proxies
 
-[Unblockit](https://unblockit.tv/) , [Knaben's Proxy List](https://knaben.info/), [nocensor](https://nocensor.space/), [TorrentMirror](https://www.torrentmirror.net/#proxy-list-container), [unblockninja](https://unblockninja.com/), [uProxy](https://uproxy.to/), [unblocktorrent](https://unblocktorrent.com/) 
+[Unblockit](https://unblockit.tv/) / [2](https://unblockit.pages.dev/) / [3](https://unblock_it.gitlab.io/site/), [Knaben's Proxy List](https://knaben.info/), [nocensor](https://nocensor.space/), [TorrentMirror](https://www.torrentmirror.net/#proxy-list-container), [unblockninja](https://unblockninja.com/), [uProxy](https://uproxy.to/), [unblocktorrent](https://unblocktorrent.com/) 
 
 ***
 
@@ -1559,7 +1560,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Remote Desktop Clients
 
-[Parsec](https://parsec.app/), [RustDesk](https://rustdesk.com/), [RemoteDesktop](https://remotedesktop.google.com/), [AnyDesk](https://anydesk.com/en), [TeamViewer](https://www.teamviewer.com/en-us/), [NoMachine](https://www.nomachine.com/), [Remmina](https://remmina.org/), [UltraViewer](https://ultraviewer.net/), [SplashTop](https://www.splashtop.com/personal), [MSP360](https://www.msp360.com/remote-desktop/), [Ammyy](https://www.ammyy.com/en/), [Apache Guacamole](https://guacamole.apache.org/), [FreeRDP](https://www.freerdp.com/), [SimpleHelp](https://simple-help.com/), [Chrome Remote Desktop](https://remotedesktop.google.com/), [Myrtille](https://cedrozor.github.io/myrtille/), [Aspia](https://aspia.org/doku.php), [TightVNC](https://www.tightvnc.com/), [getscreen](https://getscreen.me/)
+[Parsec](https://parsec.app/), [RustDesk](https://rustdesk.com/), [RemoteDesktop](https://remotedesktop.google.com/), [AnyDesk](https://anydesk.com/en), [TeamViewer](https://www.teamviewer.com/en-us/), [NoMachine](https://www.nomachine.com/), [Remmina](https://remmina.org/), [UltraViewer](https://ultraviewer.net/), [SplashTop](https://www.splashtop.com/personal), [MSP360](https://www.msp360.com/remote-desktop/), [Ammyy](https://www.ammyy.com/en/), [Apache Guacamole](https://guacamole.apache.org/), [FreeRDP](https://www.freerdp.com/), [SimpleHelp](https://simple-help.com/), [Chrome Remote Desktop](https://remotedesktop.google.com/), [Myrtille](https://cedrozor.github.io/myrtille/), [Aspia](https://aspia.org/doku.php), [TightVNC](https://www.tightvnc.com/), [getscreen](https://getscreen.me/), [remoteutilities](https://www.remoteutilities.com/)
 
 ***
 
@@ -2212,6 +2213,7 @@ Add the following commands to a search to manually scrape each site.
 * [Spik](https://www.spik.ai/)
 * [TextToMP3](https://www.texttomp3.online/) 
 * [Vo.codes](https://vo.codes/)
+* [TTSFree](https://ttsfree.com/)
 * [Lovo ai](https://www.lovo.ai/) 
 * [TextToSpeechRobot](https://texttospeechrobot.com/)
 * [SoundofText](https://soundoftext.com/)
@@ -2438,6 +2440,7 @@ Good for finding classic, obscure & short films.
 * [Vidlii](https://www.vidlii.com/)
 * [Naver](https://tv.naver.com/)
 * [odysee](https://odysee.com/)
+* [UTreon](https://utreon.com/)
 * [tubidy](https://tubidy.com/) 
 * [lbry](https://lbry.com/) - *App*
 * [commons.wikimedia](https://commons.wikimedia.org/wiki/Category:Videos) 
