@@ -138,6 +138,8 @@
 * [Don’t kill my app!](https://dontkillmyapp.com/) - *Manufacturer Battery Life vs. App Functionality*
 * [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) - *Battery Health App*
 * [Another Monitor](https://github.com/AntonioRedondo/AnotherMonitor) - *Android Usage Monitor*
+* [FileManager](https://github.com/SimpleMobileTools/Simple-File-Manager) - *File Manager*
+* [Passman Android](https://github.com/nextcloud/passman-android) - *Password Manager*
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - *Note Taking Apps*
 * [Magisk](https://magiskmanager.com/) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - *Android Root Tool / [Mods](https://t.me/magiskmod_update) / [GitHub](https://github.com/topjohnwu/Magisk/releases)*
 * [Android Tool](https://github.com/fast-geek/Android-Tool) - *ABD / Fastboot Command Program*
@@ -170,7 +172,8 @@
 * [aodNotify](https://play.google.com/store/apps/details?id=com.jamworks.alwaysondisplay) - *Notification LED*
 * [AlwaysOnEdge](http://www.aoeapps.com/) - *Android Customization App*
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - *Dictionary App*
-* [AutomaTag](http://automatag.com/) - *Meta Data Organizer*
+* [AutomaTag](http://automatag.com/) - *Metadata Organizer*
+* [Aves](https://github.com/deckerst/aves) - *Metadata Explorer*
 * [GameGuardian](https://gameguardian.net/) - *Game Hack / Alteration Tool*
 * [NeonRom3r](https://github.com/Gr3gorywolf/NeonRom3r) - *Download Roms* 
 * [VMOS](https://www.vmos.com/) - *Android Virtual Machine*
@@ -341,6 +344,7 @@
 * [A2Z APK](https://a2zapk.com/) - *Untouched / Modded*  
 * [RevDl](https://www.revdl.com/) - *Modded*  
 * [Sbenny](https://sbenny.com/) - *Modded*
+* [Apkmodhub](https://apkmodhub.in/) - *Modded*
 * [AndroidGameMods](https://www.androidgamemods.com/) - *Modded* 
 * [farsroid](https://www.farsroid.com/) - *Modded*
 * [GameDVA](https://gamedva.com/) - *Modded*
@@ -480,6 +484,7 @@
 * [Modded Tidal](https://forum.mobilism.org/viewtopic.php?f=1332&t=4594722) - *Steaming / Download*
 * [Deezloader Android](https://t.me/deezloaderremixmobile) - *Download / MP3 / [Non Telegram DL](https://redd.it/d3i9fr)* 
 * [Seeker](https://github.com/jackBonadies/SeekerAndroid) - *Download / MP3*
+* [Datmusic](https://github.com/alashow/datmusic-android) - *Download / MP3*
 * [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - *Download / MP3* 
 * [SMLoadr](https://t.me/SMLoadrNews) - *Download / FLAC / MP3*
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) or [SongTube](https://github.com/SongTube/SongTube-App) - *YouTube Audio / Video Downloader*
