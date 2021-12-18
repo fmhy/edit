@@ -21,11 +21,13 @@
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner) - *Graphics Card Overclocking Utility / FPS Benchmarking*
 * [MSI Kombustor](https://msikombustor.com/) - *GPU Benchmark Test*
 * [Overclock](https://www.overclock.net/) - *Overclocking Forum*
-* [WindowedBorderlessGaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/) - *Borderless Windows for All Games*
+* [WindowedBorderlessGaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - *Borderless Windows for All Games*
+* [DxWnd](https://sourceforge.net/projects/dxwnd/) - *Play Fullscreen Only Games in Window*
 * [DisplayMagician](https://github.com/terrymacdonald/DisplayMagician) - *Per-Game Display Profiles*
 * [LinkRunner](https://github.com/romjacket/rj_linkrunner) - *Per-Game Settings Manager*
 * [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - *Game Fixes and Patches*
 * [GameBurnWorld](http://www.gameburnworld.com/) - *No-CD/No-DVD Patches, Game Fixes, Trainers, Cheats* 
+* [ogg-winmm](https://github.com/bangstk/ogg-winmm) - *CD Audio Emulator*
 * [Ludsavi](https://github.com/mtkennerly/ludusavi) or [GameSave Manager](https://www.gamesave-manager.com/) - *Game Save Manger*
 * [Save Game World](http://www.savegameworld.com/) - *PC Game Save Downloads*
 * [Save Editor Online](https://www.saveeditonline.com/) - *Game Save Editor*
