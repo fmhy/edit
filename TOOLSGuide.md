@@ -508,7 +508,6 @@
 * [Arcai](https://arcai.com/) - *WiFi Speed Control*
 * [Nmap](https://nmap.org/) - *Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)*
 * [Elmocut](https://github.com/elmoiv/elmocut) or [SelfishNetV3](https://github.com/nov0caina/SelfishNetV3) - *ARP Spoofer / Kick Users from WiFi* 
-* [FNSRWR](https://github.com/dannyvoid/FNSRWR) - *Reset Windows Network Stack*
 * [AreWeDown?](https://github.com/shukriadams/arewedown) - *HTTP Uptime Monitor*
 * [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - *Web Service Coverage Map*
 * [Broadband Map](https://broadbandmap.fcc.gov/) - *Fixed Broadband Deployment Map*
