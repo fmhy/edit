@@ -548,7 +548,7 @@
 
 # ► Italian
 
-* **[Definitive Italian Streaming](https://rentry.org/DefinitiveItalianStreming)** - *Italian Piracy Sites*
+* **[Italian Piracy Sites](https://rentry.co/ItalianPiracySites)** - *Italian Piracy Site List*
 
 ## ▷ Downloading 
 
