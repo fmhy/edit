@@ -21,6 +21,7 @@
 * rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [All Seeders Column](https://github.com/AkdM/rutorrent-all-seeders) / [Docker Build](https://github.com/binhex/arch-rtorrentvpn)
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - *RTorrent Web Frontend / [Themes](https://github.com/InAnimaTe/rutorrent-themes), [2](https://github.com/artyuum/3rd-party-ruTorrent-Themes)*
 * [qBittorrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools) 
+* [Spot](https://github.com/xou816/spot) - *Spotify Desktop Client for Gnome* 
 * [Linux Difficulty Chart](https://i.imgur.com/H8sw3L4.png) - *Distros Ranked by Difficulty*
 * [BusyBox](https://frippery.org/busybox/) - *Unix Tools*
 * [swizzin](https://swizzin.ltd/) - *Seedbox for Ubuntu / Debian* 
@@ -44,8 +45,9 @@
 * [Fix Guild Lag](https://wiki.archlinux.org/title/Discord#Lagging_when_scrolling_through_your_guilds) - *Fix lag when scrolling through guilds in Linux*
 * [Tunic](https://github.com/mikeslattery/tunic) - *Install Linux Over or Alongside Windows*
 * [Darling](https://www.darlinghq.org/) - *Run MacOS Programs on Linux*
+* [OSX-KVM](https://github.com/kholia/OSX-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - *MacOS Virtual Machine*
 * [InstantBox](https://github.com/instantbox/instantbox) - *Temporary Linux Systems*
-* [HowtoForge](https://www.howtoforge.com/), [Erik Dubois](https://www.youtube.com/c/ErikDubois) or [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA ) - *Linux Tutorials*
+* [HowtoForge](https://www.howtoforge.com/), [Erik Dubois](https://www.youtube.com/c/ErikDubois) or [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) - *Linux Tutorials*
 * [DotShare](http://dotshare.it/) - *Distro Config Index*
 * [Linux Live Kit](https://www.linux-live.org/) - *Live Linux Distro Creator*
 * [ArchLinuxGUI](https://archlinuxgui.in/download.html), [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - *Arch Linux Installer*
@@ -58,9 +60,9 @@
 * [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - *Create Bootable USB Windows Drives*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [GParted](https://gparted.org/) - *Partition Manager*
-* [Gnome-Look](https://www.gnome-look.org/browse) or [xfce-look](https://www.xfce-look.org/)  - *Linux Themes*
+* [Gnome-Look](https://www.gnome-look.org/), [OCS Store](https://www.opendesktop.org/p/1175480/), [Oomox ](https://github.com/themix-project/oomox) or [xfce-look](https://www.xfce-look.org/)  - *Linux Themes*
 * [Ricepedia](https://rizonrice.club/Main_Page) or [ThatNixGuy Ricing](https://thatnixguy.github.io/posts/ricing/) - *Linux Ricing Tools*
-* [ricemood](https://github.com/fhadiel/ricemood) - *Fully Customizable Unix Color Schemer*
+* [ricemood](https://github.com/fhadiel/ricemood) or [wpgtk](https://deviantfero.github.io/wpgtk) - *Fully Customizable Unix Color Schemer*
 * [Windows-10](https://github.com/B00merang-Project/Windows-10) - *Linux Windows 10 Theme*
 * [HydraPaper](https://hydrapaper.gabmus.org/) - *Linux Wallpaper Manager*
 * [Polychromatic](https://polychromatic.app/) - *Linux System Light Control*
@@ -111,6 +113,7 @@
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - *Easy Way to Use KVM*
 * [winapps](https://github.com/Fmstrat/winapps), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - *Run Windows Apps in Linux* 
 * [Ulauncher](https://ulauncher.io/) - *Application Launcher*
+* [Q4Wine](https://sourceforge.net/projects/q4wine/) - *Wine GUI*
 * [WineHQ](https://appdb.winehq.org/) - *Wine Compatibility Database*
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - *Monitor & Log System Activity*
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - *CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)*
@@ -209,6 +212,7 @@
 * [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/wiki/) - *Wiki for Linux Gaming*
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - *Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)*
 * [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) - *Install & Manage Proton-GE for Steam / Wine*
+* [Batocera.linux](https://batocera.org/) - *Retro Gaming Distro*
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - *Rust TUI for Steam*
 * [steam-cli](https://github.com/berenm/steam-cli) - *CLI for Steam*
 * [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher*
@@ -241,7 +245,7 @@
 * [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - *MacOS Virtualbox Installer*
 * [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/) - *Install New macOS on Unsupported Devices*
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - *Windows 11 Desktop Client for macOS*
-* [LimaVM](https://github.com/lima-vm/lima) - *Linux VM on macOS*
+* [LimaVM](https://github.com/lima-vm/lima) - *Linux VM on MacOS*
 * [CrossOver](https://www.codeweavers.com/crossover) - *Run Windows Programs on Mac / Infinite Free Trials*
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - *Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/)*
 * [Conky](https://github.com/brndnmtthws/conky) - *System Monitor / [Colors](https://github.com/helmuthdu/conky_colors)*
