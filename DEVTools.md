@@ -225,6 +225,7 @@
 * [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/), [Username Checker](https://checkuser.org/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Username Availability Check*
 * [Pyfunceble](https://pyfunceble.github.io/#/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/), [DomComp](https://www.domcomp.com/) or [Domainr](https://domainr.com/) - *Domain Availability Check* 
 * [WorthBuck](https://worthbuck.com/) - *Domain Price Estimations*
+* [StatPing](https://github.com/statping/statping) - *Site Uptime Monitor*
 * [UseMe](https://useme.org/) - *Ping Website*
 * [Measure](https://web.dev/measure/) - *Site Functionality Testing*
 * [Testmail](https://testmail.app/) - *Site Signup Test*
@@ -268,6 +269,7 @@
 * [MapBox](https://www.mapbox.com/) - *Live Maps, Location Search & More*
 * [Maps-Core](https://openmobilemaps.io/) - *Mobile Map SDK*
 * [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [99Inbound](https://www.99inbound.com/), [Form.taxi](https://form.taxi/) or [Formsend](https://formsend.org/) - *Form Creator*
+* [Medusa](https://github.com/medusajs/medusa) - *Digital Commerce Development Tool*
 * [Plaid](https://plaid.com/) - *Financial Account API / [GitHub](https://github.com/plaid)*
 * [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)- *Penetration Testing Resources*
 * [Can I Use?](https://caniuse.com/) - *Browser Support Tables*
@@ -346,6 +348,7 @@
 * [Kuker](https://github.com/krasimir/kuker) - *Debug Applications* 
 * [BugSnag](https://www.bugsnag.com/) - *Application Stability Monitor*
 * [Radare](https://rada.re/r/), [Flare IDA](https://github.com/mandiant/flare-ida), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://github.com/rizinorg/cutter) - *Reverse Engineering* 
+* [Redis](https://redis.io/) - *Key-Value Database*
 * [Read the Docs](https://readthedocs.org/) - *Make Documentation for your Software*
 * [Inno Setup](https://jrsoftware.org/isinfo.php), [InstallForge](https://www.installforge.net/) or [ActualInstaller](https://www.actualinstaller.com/) - *Create Installation Programs*
 * [Flatpak](https://flatpak.org/) - *Create & Distribute Linux Applications*
