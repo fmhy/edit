@@ -18,10 +18,10 @@
 * **[The MegaDrive](https://discord.gg/h2P5zsNMxZ)** or [No Bucks Given](https://discord.gg/By53hyhUFS) - *Discord Drive Sharing Community* 
 * **[/r/opendirectories](https://www.reddit.com/r/opendirectories/)** - *Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / /u/ODScanner*
 * **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
-* **[Collection](https://mega.nz/folder/6q4XjSjD#n2aMXLlajXC59snzns_ijw)**
-* **[300TB Shere](https://drive.google.com/drive/folders/1oCMgJeBc55NuEasPcgwjx2FuPdQd8neu)**
+* **[300TB Mega](https://mega.nz/folder/6q4XjSjD#n2aMXLlajXC59snzns_ijw)**
+* **[300TB GDrive](https://drive.google.com/drive/folders/1oCMgJeBc55NuEasPcgwjx2FuPdQd8neu)**
 * [CloudBhadoo](https://index.hashhackers.com/) / [2](https://search.hashhackers.com/)
-* [Google TeamDrive's](https://onehack.us/t/tds-with-tbs-of-movies-web-series-courses-games-etc/77628) 
+* [Google TeamDrives](https://onehack.us/t/tds-with-tbs-of-movies-web-series-courses-games-etc/77628) 
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28) 
 * [PureXClydey](https://www.purexclydey.com/xdd/uploads/) 
 * [Drive List](https://redd.it/owdvw7)
