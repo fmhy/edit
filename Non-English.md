@@ -1466,8 +1466,6 @@ Portuguese
 * [taomaytinh](https://taomaytinh.com/) - *Software*
 * [iphanmem](https://iphanmem.net/) - *Software*
 * [khophanmem24h](https://khophanmem24h.com/) - *Software*
-* [gofazone](https://gofazone.com/) - *Software*
-* [msdnvietnam](https://msdnvietnam.net/) - *Software*
 * [kysuthietke](https://kysuthietke.com/) - *Engineering Software*
 
 ## ▷ Streaming
