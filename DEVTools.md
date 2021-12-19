@@ -250,6 +250,8 @@
 * [Sketch2Code](https://sketch2code.azurewebsites.net/) - *Convert Hand-Drawn Designs into HTML*
 * [Straw.Page](https://straw.page/), [Temper](https://temper.one/) or [Neocities](https://neocities.org/) - *Simple Site Creator*
 * [LocalXpose](https://localxpose.io/) - *Reverse Proxy*
+* [IPFS Desktop](https://github.com/ipfs/ipfs-desktop) or [Orion](https://orion.qm64.tech/) - *IPFS Desktop Client*
+* [IPFS Cluster](https://cluster.ipfs.io/) - *Automated data availability and redundancy on IPFS*
 * [BuiltWith](https://builtwith.com/) - *Find Out What Sites are Built With*
 * [Bootstrap](https://bootstrapmade.com/) or [TheMeWagon](https://themewagon.com/) - *Website Templates & Themes*
 * [Elements Envato](https://qltien.com/elements/getcode/babiato.html) or [PsdRepo](https://psdrepo.com/) - *Templates, Mockups, Logos, Video*
@@ -284,7 +286,7 @@
 * [Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare) - *Cloudflare Resource Index*
 * [Bypass Cloudflare](https://github.com/jychp/cloudflare-bypass) - *Bypass Coudflare Bot Protection*
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - *Check Sites for Cloudflare*
-* [LightTPD](http://www.lighttpd.net/) - *Web Server*
+* [LightTPD](http://www.lighttpd.net/) or [Caddy](https://caddyserver.com/) - *Web Server*
 * [HTTP Server](https://httpd.apache.org/) - *HTTP Server Apache*
 * [SyAgent](https://syagent.com/) - *Server Monitor*
 * [HeidiSQL](https://www.heidisql.com/) - *SQL Manager*
@@ -506,6 +508,7 @@
 * [gist.io](https://gist.io/) or [gistflow](https://github.com/gistflow/gistflow) - *Git Blog Platform*
 * [Github Action for Rclone](https://github.com/marketplace/actions/github-action-for-rclone) - *Rclone GitHub Action Wrapper*
 * [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub), [diohub](https://github.com/NamanShergill/diohub) or [OctoDroid](https://github.com/slapperwan/gh4a) - *Android GitHub Client*
+* [Gitea](https://gitea.io/) - *Self-Hosted Git Service*
 
 ***
 
@@ -596,6 +599,7 @@
 * [Sourcegraph](https://sourcegraph.com/) - *Universal Code Search*
 * [searchcode](http://searchcode.com/) or [PublicWWW](http://publicwww.com/) - *Source Code Search*
 * [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://www.code-projects.org/), [Codastro](https://codeastro.com/) or [ItSourceCode](https://www.itsourcecode.com/) - *Source Code Projects*
+* [SciTE](https://www.scintilla.org/SciTE.html) - *Source Code Editor for Win32 and X*
 * [CodeGrepper](https://www.codegrepper.com/) - *Code Search Extension*
 * [ShareScript](https://sharescript.net/), [Google Code Archive](https://code.google.com/archive/), [CodeList](https://www.codelist.cc/) or [bl.ocks](https://bl.ocks.org/) - *Script / Code Indexes*
 * [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/), [2](https://carbon.now.sh/) - *Source Code Screenshot Tool*
