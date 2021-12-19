@@ -485,6 +485,7 @@
 * [9Tut](https://www.9tut.com/) - *CCNA Certification Training*
 * [GetFreeIMEBooks](https://www.getfreeimebooks.com/) - *Digital Marketing Resources*
 * [HLDMSIYS?](http://howlongdoesmarijuanastayinyoursystem.net/) - *Drug Effect Duration / Testing Information*
+* [HomeBank](http://homebank.free.fr/) or [gnucash](https://www.gnucash.org/) - *Financial Accounting Software*
 
 ***
 
@@ -1325,7 +1326,7 @@ G) - *Create Discord RPCs*
 * [Disk Usage Analyzers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_disk_usage_analyzers) - *View & Manage Files on Disk*
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - *Disk Benchmarking Tool*
 * [poclmembench](https://github.com/kruzer/poclmembench) - *Memory Benchmark Test*
-* [MyFavoriteGadgets](https://www.myfavoritegadgets.info/), [btop](https://github.com/aristocratos/btop) or [WinBar](http://www.winbar.nl/) - *System Monitor*
+* [MyFavoriteGadgets](https://www.myfavoritegadgets.info/), [Netdata](https://www.netdata.cloud/), [btop](https://github.com/aristocratos/btop) or [WinBar](http://www.winbar.nl/) - *System Monitor*
 * [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - *Windows System Utilities / [Suite](https://www.microsoft.com/EN-US/p/app/9P7KNL5RWT25)* 
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](http://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - *Process Monitor*
 * [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) - *Process Killer*
@@ -1368,7 +1369,7 @@ G) - *Create Discord RPCs*
 * [All Tasks Toolbar](https://winaero.com/create-all-tasks-god-mode-toolbar-windows-10/) - *Create All Tasks God Mode Toolbar in Win 10* 
 * [WindowsManager](https://www.eusing.com/WindowManager/WindowManager.htm) or [Compiz Fusion](http://www.compiz-fusion.org/) - *Improved Windows Manager*
 * [AltDrag](https://stefansundin.github.io/altdrag/) - *Improved Windows Dragging*
-* [EverythingToolbar](https://github.com/stnkl/EverythingToolbar), [Hyper](https://github.com/nodgear/Hyperbar), [Awesome](https://github.com/nodgear/Awesome)  or [Smart Taskbar](https://github.com/ChanpleCai/SmartTaskbar) - *Improved Taskbar*
+* [EverythingToolbar](https://github.com/stnkl/EverythingToolbar), [Hyper](https://github.com/hyperts/Hyper), [Awesome](https://github.com/nodgear/Awesome)  or [Smart Taskbar](https://github.com/ChanpleCai/SmartTaskbar) - *Improved Taskbar*
 * [Taskbar Groups](https://github.com/tjackenpacken/taskbar-groups) - *Create Groups in Taskbar*
 * [uTaskManager](https://www.microsoft.com/en-us/p/utaskmanager/9nhvdhfbxrsv) - *Alternative Taskbar*
 * [OGHub](https://github.com/Wivon/OGHub) - *Free Up Space in your Taskbar*
@@ -1411,7 +1412,7 @@ G) - *Create Discord RPCs*
 * [multrin](https://github.com/sentialx/multrin) - *Organize Windows Apps in Tabs* 
 * [Klotures](https://gitlab.com/jkushmaul/klotures) - *Desktop Icon Organizer / [Demo](https://gitlab.com/jkushmaul/klotures/raw/master/docs/KloturesDemo.webm)*
 * [QuickLook](https://github.com/QL-Win/QuickLook) - *macOS Quick Look for Windows* 
-* [AutoHotkey](https://www.autohotkey.com/) - *Keyboard Macro Program / [Script Gen](https://www.ahkgen.com/)*
+* [AutoHotkey](https://www.autohotkey.com/) or [AutoIt](https://www.autoitscript.com/) - *Task Automation Scripts / [Script Gen](https://www.ahkgen.com/)*
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) - *System Task Scheduler*
 * [cygwin](http://cygwin.com/) - *Linux Style Windows Tools*
 * [Menu11](https://github.com/prateekmedia/Menu11) - *Windows 11 Style Launcher*
@@ -1597,6 +1598,7 @@ G) - *Create Discord RPCs*
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - *DataHoarding Tools Index*   
 * [FileInfo](https://fileinfo.com/) or [File-Extensions](https://www.file-extensions.org/) - *File Extension Library*
 * [download](https://github.com/kevva/download) - *File Download Tool / Extractor / [CLI](https://github.com/kevva/download-cli)*
+* [DropIt](http://www.dropitproject.com/) - *Automated File Management*
 * [Download Proxy](https://download-proxy.zhaofengying.com/) - *File Proxy Server Downloader*
 * [TeraCopy](https://www.codesector.com/teracopy) - *File Copy Manager*
 * [Files 2 Folder](https://www.dcmembers.com/skwire/download/files-2-folder/) - *Create / Copy to Folders Created by File Name*
@@ -1675,8 +1677,8 @@ G) - *Create Discord RPCs*
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - *HTTP File System*
 * [FolderClone](http://www.folderclone.com/) - *Clone / Backup Folders*
 * [Borg](https://www.borgbackup.org/) - *Deduplicating File Archiver / Backup* 
-* [BackupPC](https://backuppc.github.io/backuppc/), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [restic](https://restic.net/), [UrBackup](https://www.urbackup.org/), [BlobBackup](https://github.com/BlobBackup/BlobBackup), [FastCopy](http://fastcopy.jp/) or [Duplicati](https://www.duplicati.com/) - *File Backup Tool* 
-* [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) - *Web-Based File Browser*
+* [BackupPC](https://backuppc.github.io/backuppc/), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [DeltaCopy](http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp), [restic](https://restic.net/), [UrBackup](https://www.urbackup.org/), [BlobBackup](https://github.com/BlobBackup/BlobBackup), [FastCopy](http://fastcopy.jp/) or [Duplicati](https://www.duplicati.com/) - *File Backup Tool* 
+* [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) or [filebrowser](https://github.com/filebrowser/filebrowser/) - *Web File Browser*
 * [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/) or [Securedrop](https://securedrop.org/) - *Document File Sharing*
 * [OpenPaper](https://openpaper.work/en/) or [DataShare](https://datashare.icij.org/) - *Document Manager*
 * [Browsemonkey](https://github.com/shukriadams/browsemonkey) - *Take Snapshots of File Systems* 
