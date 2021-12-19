@@ -1465,7 +1465,6 @@ Portuguese
 * [anonytrick](https://anonytrick.com/) - *Software*
 * [chiasecongnghe](https://chiasecongnghe.net/) - *Software*
 * [taomaytinh](https://taomaytinh.com/) - *Software*
-* [fullcrack](http://fullcrack.vn/) - *Software*
 * [iphanmem](https://iphanmem.net/) - *Software*
 * [khophanmem24h](https://khophanmem24h.com/) - *Software*
 * [gofazone](https://gofazone.com/) - *Software*
