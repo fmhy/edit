@@ -373,7 +373,7 @@
 
 * [FotoForensics](http://www.fotoforensics.com/), [Forensically](https://29a.ch/photo-forensics/) or [Ghiro](http://www.getghiro.org/) - *Photo Forensics Tool* 
 * [Image Identification Project](https://www.imageidentify.com/) - *Image Identification Tool* 
-* [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [ImSter](https://github.com/armytricks/ImSter) or [stegpy](https://github.com/dhsdshdhk/stegpy) - *Embed & Extract Hidden Data in Images / Steganography* 
+* [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [ImSter](https://github.com/armytricks/ImSter) or [stegpy](https://github.com/dhsdshdhk/stegpy) - *Embed & Extract Hidden Data in Images / Steganography* 
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - *Blur Images / Scrub Metadata*
 * [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi), [Exif-Viewer](http://exif-viewer.com/), [metapicz](http://metapicz.com/), [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - *EXIF / Metadata Viewer* 
 * [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif) or [VerExif](https://www.verexif.com/en/) - *Remove Meta / EXIF Data* 
