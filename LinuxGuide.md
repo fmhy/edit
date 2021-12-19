@@ -63,6 +63,7 @@
 * [Gnome-Look](https://www.gnome-look.org/), [OCS Store](https://www.opendesktop.org/p/1175480/), [Oomox ](https://github.com/themix-project/oomox) or [xfce-look](https://www.xfce-look.org/)  - *Linux Themes*
 * [Ricepedia](https://rizonrice.club/Main_Page) or [ThatNixGuy Ricing](https://thatnixguy.github.io/posts/ricing/) - *Linux Ricing Tools*
 * [ricemood](https://github.com/fhadiel/ricemood) or [wpgtk](https://deviantfero.github.io/wpgtk) - *Fully Customizable Unix Color Schemer*
+* [Akira](https://github.com/akiraux/Akira) - *UI/UX Customization*
 * [Windows-10](https://github.com/B00merang-Project/Windows-10) - *Linux Windows 10 Theme*
 * [HydraPaper](https://hydrapaper.gabmus.org/) - *Linux Wallpaper Manager*
 * [Polychromatic](https://polychromatic.app/) - *Linux System Light Control*
