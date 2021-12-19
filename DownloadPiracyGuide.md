@@ -24,7 +24,6 @@
 * [Google TeamDrives](https://onehack.us/t/tds-with-tbs-of-movies-web-series-courses-games-etc/77628) 
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28) 
 * [PureXClydey](https://www.purexclydey.com/xdd/uploads/) 
-* [Drive List](https://redd.it/owdvw7)
 * [Public.crackhub](https://public.crackhub.site/) 
 * [index-of](http://index-of.es/) 
 * [Manny Hackers](https://apd.msbots.workers.dev/0:/)
@@ -54,7 +53,7 @@
 * https://drive.hasibul.workers.dev/
 * https://shibainu-uploads.site/
 * [smolOD](https://rentry.co/smolOD) - *Small Open Directories*
-* [Open Directory Index](https://docs.google.com/document/d/1xyyplaw8uyHyaq79YEqtBT85vIqWu0wq7RYFEqbQybc/), [2](https://www.google.com/search?q=site:reddit.com/r/opendirectories+odshot+after:2018), [3](https://opndir.com/), [4](https://redd.it/lvdwlm), [5](https://github.com/strawhat-pirates/notes/blob/master/opendirectories.txt), [6](https://bin.disroot.org/?3082f04205be7af6#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34), [7](https://gist.github.com/Chaphasilor/718e13c1f654b7b0e49b3b41e4855f50) - *Open Directory Indexes*
+* [Open Directory Index](https://docs.google.com/document/d/1xyyplaw8uyHyaq79YEqtBT85vIqWu0wq7RYFEqbQybc/), [2](https://www.google.com/search?q=site:reddit.com/r/opendirectories+odshot+after:2018), [3](https://opndir.com/), [4](https://redd.it/lvdwlm), [5](https://github.com/strawhat-pirates/notes/blob/master/opendirectories.txt), [6](https://bin.disroot.org/?3082f04205be7af6#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34), [7](https://gist.github.com/Chaphasilor/718e13c1f654b7b0e49b3b41e4855f50), [8](https://redd.it/owdvw7) - *Open Directory Indexes*
 * [ODCrawler](https://odcrawler.xyz/), [CatFiles](https://www.catfiles.net/) or [mmnt](https://www.mmnt.net/) - *Open Directory Search Engine*
 * [ODS](https://sites.google.com/view/l33tech/tools/ods) - *Open Directory CSE*
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/), [Proisk](https://proisk.com/) or [Search-22](https://search-22.com/ftp-search-tools) - *FTP Search*
