@@ -20,7 +20,6 @@
 * [MP3Jam](https://www.mp3jam.org/) - *Streaming*
 * [Muffon](https://github.com/staniel359/muffon) - *Streaming*
 * [Deezer](https://www.deezer.com/) - *Streaming*
-* [SlavDoge](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9kaXNjb3JkLmdnL2d3eFJmNnlTR0s.RkJJ) - *Deezer Streaming Bot*
 * [MusicBucket](https://musicbucket.net/) - *Track / Share Music / Telegram* 
 * [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - *Unlock Unavailable Netease Music*
 
@@ -266,6 +265,8 @@
 * [Music Library](https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7) - *MP3*
 * [90.146.184.46](http://90.146.184.46/) - *MP3*
 * [212.159.121.149:85](https://212.159.121.149:85/) - *MP3*
+* [Rhapsody](http://65.186.78.52/MUSIC/RHAPSODY/) - *MP3*
+* [Tyler](http://65.186.78.52/MUSIC/TYLER/) - *MP3*
 * [FLAC Attack](https://flacattack.net/) - *FLAC*
 * [Lossless-Music](https://lossless-music.org/) or [Flaccat](https://flaccat.com/) - *FLAC*
 * [Losslessma](https://losslessma.net/) - *FLAC*
