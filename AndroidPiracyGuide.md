@@ -648,6 +648,7 @@ RSS Player*
 * [Aniyomi](https://github.com/jmir1/aniyomi)
 * [Animebay](https://animebay.tech/)
 * [Kayuri](https://github.com/Killerpac/Kayuri)
+* [Yukino](https://github.com/yukino-app/yukino)
 * [Akiyama](https://github.com/Fmaldonado6/Akiyama)
 * [OtakuWorld](https://github.com/jakepurple13/OtakuWorld)
 * [animity](https://github.com/kl3jvi/animity)
