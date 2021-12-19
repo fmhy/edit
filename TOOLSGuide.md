@@ -43,6 +43,7 @@
 * [Dashana](https://dashana.com/) or [ParaView](https://github.com/Kitware/ParaView) - *Data Visualization Tool*
 * [Grocy](https://grocy.info/) - *Grocery / Household Management Tool*
 * [Volmarg](https://volmarg.github.io/) - *Personal Management Tool*
+* [Taskwarrior](https://taskwarrior.org/) - *To-Do List CLI*
 * [Focalboard](https://www.focalboard.com/) - *Project Management Tool*
 * [Slab](https://slab.com/) - *Organization & Team Management Tool*
 * [Doozy](https://doozy.live/) - *Team Management Tools / Games*
@@ -61,7 +62,7 @@
 * [The Sustainabilitist](https://sustainabilitist.com/) - *Sustainability Resource Hub*
 * [ActivityWatch](https://activitywatch.net/) - *Automatically Track Device Activity / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)* 
 * [Cold Turkey](https://getcoldturkey.com/), [PomoFocus](https://pomofocus.io/) or [Take a Five](http://www.takeafive.com/) - *Site Blocker / Productivity Booster* 
-* [Tempus](https://tempus.keziahmoselle.fr/), [Clockify](https://clockify.me/) or [Super-Productivity](https://github.com/johannesjo/super-productivity)  - *Productivity Tracker*
+* [Tempus](https://tempus.keziahmoselle.fr/), [ManicTime](https://www.manictime.com/), [Clockify](https://clockify.me/) or [Super-Productivity](https://github.com/johannesjo/super-productivity)  - *Productivity Tracker / Time Managment*
 * [DogSheep](https://dogsheep.github.io/) - *Personal Analytics Tools* 
 * [Stretchly](https://hovancik.net/stretchly), [WorkRave](https://workrave.org/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - *Break Reminders*
 * [DoINeedAJacket](https://doineedajacket.com/weather/), [DogeWeather](http://dogeweather.com/), [ForcastAdvisor](https://www.forecastadvisor.com/) or [wttr](https://wttr.in/) - *Simple Weather Reports*
@@ -1503,6 +1504,7 @@ G) - *Create Discord RPCs*
 * [Boot Failure Troubleshooting Chart](https://i.imgur.com/QsxYtB4.jpg) - *Boot Failure Troubleshooting Guide*
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) - *Operating System / Software History / [Discord](https://discord.gg/XPz5Zm42tR)*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
+* [Resource Hacker](http://angusj.com/resourcehacker/) - *Resource Editor*
 * [GetCID](https://www.getcid.info/) - *Obtain Windows Confirmation ID*
 * [Fliqlo](https://fliqlo.com/screensaver/) - *Clock Screensaver*
 * [How-To Make Microsoft Activation Server](https://mananapr.github.io/microsoft_activation.html) 
