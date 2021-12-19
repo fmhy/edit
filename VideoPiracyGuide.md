@@ -288,7 +288,7 @@
 * [Just Dubs](http://justdubs.org/) - *Dub*
 * [Gogo-Stream](https://streamani.net/),  [2](https://gogoanime.vc/), [3](https://animekeyo.com/) - *Sub / Dub*
 * [Dubbed Anime](https://ww5.dubbedanime.net/) - *Sub / Dub*
-* [AnimeShow](https://www1.animeshow.tv/) - *Sub*
+* [AnimeShow](https://www2.animeshow.tv/) - *Sub*
 * [AnimeNana](https://animenana.com/) - *Sub*
 * [AnimeRush](https://www.animerush.tv/) - *Sub / Dub*
 * [AnimeHD47](https://animehd47.com/) - *Sub / Dub*
@@ -298,7 +298,7 @@
 * [DarkAnime](https://darkanime.stream/) - *Sub*
 * [Animegg](https://www.animegg.org/) - *Sub / Dub*
 * [Kawaiifu](https://kawaiifu.com/) - *Sub / Dub*
-* [AnimeFox](https://animefox.cc/) or [FlixAni](https://flixani.me/) - *Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)*
+* [AnimeFox](https://animefox.cc/) / [2](https://animefox.io/) or [FlixAni](https://flixani.me/) - *Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)*
 * [AnimeHeaven](https://animeheaven.ru/) - *Sub / Dub* 
 * [AnimeDao](https://animedao.to/) - *Sub*
 * [AniStream](https://anistream.fun/) - *Sub*
@@ -307,6 +307,8 @@
 * [AnimeLand](https://www.animeland.us/) - *Dub* 
 * [Kissanime](https://kissanime.dev/) - *Sub / Dub*
 * [Animeplyx](https://animeplyx.eu/) - *Sub*
+* [1Anime](https://1anime.to/) - *Sub / Dub*
+* [KimAnime](https://kimanime.com/) - *Sub / Dub*
 * [5Anime](https://5anime.net/) - *Sub / Dub*
 * [AnimeOnsen](https://animeonsen.xyz/) - *Sub*
 * [AnimeFever](https://animefever.nz/) - *Sub / Dub*
@@ -315,13 +317,18 @@
 * [AnimeVibe](https://animevibe.se/) - *Sub* 
 * [Animeow.me](https://animeow.me/) - *Sub / Dub* 
 * [Anime OWL](https://animeowl.net/home/) - *Sub / Dub*
+* [AnimeCruzers](https://animecruzers.me/) - *Sub / Dub*
+* [Animeonline360](https://animeonline360.me/) - *Sub / Dub*
+* [AnimeMint](https://www.animemint.com/) - *Sub*
+* [Chia Anime](https://chia-anime.su/) - *Sub / Dub*
 * [AnimeXin](https://animexin.xyz/) - *Sub*
 * [AnimeTV](https://animetv.cc/) - *Sub / Dub*
 * [tenshi.moe](https://tenshi.moe/) - *Sub / Dub* 
+* [MasterAnime](https://masteranime.es/) - *Sub / Dub*
 * [AnimeGuru](https://www.animeguru.net/) - *Sub / Dub*
 * [GoAnimeList](https://goanimelist.me/) - *Sub / Dub*
 * [GoGoAnime](https://gogoanime.pe/) - *Sub / Dub / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime)*
-* [AnimeFrenzy](https://animefrenzy.org/) - *Sub* 
+* [AnimeFrenzy](https://animefrenzy.org/), [2](https://www.animefrenzy.net/) - *Sub* 
 * [Crimsonfansubs](https://crimsonfansubs.com/) - *Sub*
 * [AnimeXin](https://animexin.info/) - *Sub*
 * [Anime Simple](https://ww1.animesimple.com/) - *Sub / Dub*
