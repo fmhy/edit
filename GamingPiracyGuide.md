@@ -191,6 +191,7 @@
 * [TheRomDepot](https://theromdepot.com/) - *Roms*
 * [RomCollector](http://romcollector.asuscomm.com/) - *Roms*
 * [Squid Proxy](https://www.squid-proxy.xyz/) - *Roms*
+* [Rom GDrive](https://drive.google.com/drive/folders/1VxjINYMDvvUSRKA_k2aJqq6JzmRQCI1s), [2](https://drive.google.com/drive/folders/1ChoTpuuBLq4nEVCddt6L9fX24R2yH3Zj) - *Roms*
 * [@Storage_Manager](https://archive.org/details/@storage_manager) - *Roms / Zip* 
 * [FinalBurn Neo](https://archive.org/details/2020_01_06_fbn) - *Roms / Zip* 
 * [Everdrive](https://archive.org/details/latest-everdrive-pack-2020-04-16) - *Roms / Zip*
@@ -214,13 +215,14 @@
 * [Wii Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wii_roms) - *Roms / Wii*
 * [Switch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - *Roms / Nintendo Switch*
 * [Gamecube Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gamecube_roms) - *Roms / GameCube*
+* [N64 Roms](https://drive.google.com/drive/folders/1Cv10J2rc8Gk4GNQlrHFivrzg0w5JPDES) - *Roms / N64*
 * [Gameboy Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gameboy_roms) - *Roms / Gameboy*
 * [DS Roms](https://archive.org/details/noIntroNintendoDsDecrypted2019Jun30), [2](https://mega.nz/folder/33AhDa4T#awOqr7lhZYFgjXoMMu6_8w) - *Roms / DS*
-* [DSi Collection](https://archive.org/details/No-Intro_Nintendo_DSi_2018-06-30) - *Roms / DSi* + [DSi DLC](https://archive.org/details/NintendoDSiDLC2019)
+* [DSi Collection](https://archive.org/details/No-Intro_Nintendo_DSi_2018-06-30) - *Roms / DSi* / [DSi DLC](https://archive.org/details/NintendoDSiDLC2019)
 * [3DS Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - *Roms / 3DS*
-* [SNES Collection](https://archive.org/details/CylesSNESRomPack) or [SNES Rom Drive](https://mega.nz/file/9kdW1QYI#9VuLOFJGDbA6NIg8D33w8PYzPZ1E_Wop5Basd9kMWTg) - *Roms / SNES / PW: skwbr*
-* [Sojourner](http://sojourner.me/fastdl/NES/) - *Roms / NES*
-* [Stop Spamming ](http://danswer.stopspamming.net/sega/) - *Roms / Sega*
+* [SNES Collection](https://archive.org/details/CylesSNESRomPack) or [SNES Rom Drive](https://mega.nz/file/9kdW1QYI#9VuLOFJGDbA6NIg8D33w8PYzPZ1E_Wop5Basd9kMWTg) / [2](https://drive.google.com/drive/folders/1IQ_bmrLr1IVtHMMDlBovL75vSZ3axKNn) - *Roms / SNES / PW: skwbr*
+* [Sojourner](http://sojourner.me/fastdl/NES/) or [NES Rom Drive](https://drive.google.com/drive/folders/1jbgC6YA3ti_AiEGGXDAPoC847o2gxWD6) / [2](https://drive.google.com/drive/folders/0B4dzhuEovDOMX2p4eWFMMk96OFU?resourcekey=0-tt1ShFTzw_YABK35Yy_1Fg) - *Roms / NES*
+* [Stop Spamming ](http://danswer.stopspamming.net/sega/) or [Sega Rom Drive](https://drive.google.com/drive/folders/1iYc2T6wfsSQsgf50VsNuN256prc6tagT) - *Roms / Sega*
 * [Dreamcast Collection](https://archive.org/details/almstcmpltdrmcst) - *Roms / Dreamcast*
 * [Sega Saturn Collection](https://archive.org/details/SgaStrnCmplt) - *Roms / Sega Saturn*
 * [Sega CD Champion Collection](https://archive.org/details/SegaCDCollection) - *Roms / Sega CD*
