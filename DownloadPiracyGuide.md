@@ -47,7 +47,6 @@
 * https://bot.khun3.workers.dev/
 * https://index.garbage.workers.dev/
 * https://teamdrivegroup.uzemalik.workers.dev/
-* https://gd.cinemaflix.workers.dev/1:/
 * https://drive.fullmetal.workers.dev/0:/
 * https://one.publicdrive.workers.dev/0:/
 * https://2.roshansmirrordrive.workers.dev/
