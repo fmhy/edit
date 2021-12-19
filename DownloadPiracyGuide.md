@@ -16,8 +16,46 @@
 ***
 
 * **[The MegaDrive](https://discord.gg/h2P5zsNMxZ)** or [No Bucks Given](https://discord.gg/By53hyhUFS) - *Discord Drive Sharing Community* 
-* **[Open Directories / Teamdrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrives_.2F_open_directories)**, [2](https://www.google.com/search?q=site:reddit.com/r/opendirectories+odshot+after:2018), [3](https://opndir.com/), [4](https://redd.it/lvdwlm), [5](https://github.com/strawhat-pirates/notes/blob/master/opendirectories.txt), [6](https://bin.disroot.org/?3082f04205be7af6#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34)
+* **[/r/opendirectories](https://www.reddit.com/r/opendirectories/)** - *Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / /u/ODScanner*
 * **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
+* **[Collection](https://mega.nz/folder/6q4XjSjD#n2aMXLlajXC59snzns_ijw)**
+* **[300TB Shere](https://drive.google.com/drive/folders/1oCMgJeBc55NuEasPcgwjx2FuPdQd8neu)**
+* [CloudBhadoo](https://index.hashhackers.com/) / [2](https://search.hashhackers.com/)
+* [Google TeamDrive's](https://onehack.us/t/tds-with-tbs-of-movies-web-series-courses-games-etc/77628) 
+* [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28) 
+* [PureXClydey](https://www.purexclydey.com/xdd/uploads/) 
+* [Drive List](https://redd.it/owdvw7) -
+* [Public.crackhub](https://public.crackhub.site/) 
+* [index-of](http://index-of.es/) 
+* [Manny Hackers](https://apd.msbots.workers.dev/0:/)
+* [Mirror Bot](https://mirrorbot.sarutobi.workers.dev/)
+* [matrixmirror](https://t.me/matrixmirror) - *[Drive](https://drive.matrixbots.workers.dev/0:/) / user: matrixbots pw: shit*
+* [Public Drive Bot](https://index.isumit.workers.dev/)
+* [blacklistedbois](https://dl.blacklistedbois.workers.dev/0:/)
+* [TorrentLeech Drive](https://torrentleech.torrentleech-gdrive.workers.dev/) 
+* https://happyboy.hb4all.workers.dev/
+* https://tr.mooser.workers.dev/0:/
+* https://td2.blinkdrive.workers.dev/ 
+* https://loxxi.somto811.workers.dev/
+* https://mbot.mhub.workers.dev/
+* https://groups.google.com/g/kl-teamdrive
+* https://nsfw.blackpirate.workers.dev/0:/
+* https://groups.google.com/g/lightz-cloud
+* https://groups.google.com/g/xtremecloud-tdgroup
+* https://arcrec.mark41stark.workers.dev/
+* https://gentle-frost-7788.edwindrive.workers.dev/
+* https://bot.khun3.workers.dev/
+* https://index.garbage.workers.dev/
+* https://teamdrivegroup.uzemalik.workers.dev/
+* https://gd.cinemaflix.workers.dev/1:/
+* https://drive.fullmetal.workers.dev/0:/
+* https://one.publicdrive.workers.dev/0:/
+* https://2.roshansmirrordrive.workers.dev/
+* https://3.roshansmirror.workers.dev/
+* https://drive.hasibul.workers.dev/
+* https://shibainu-uploads.site/
+* [smolOD](https://rentry.co/smolOD) - *Small Open Directories*
+* [Open Directory Index](https://docs.google.com/document/d/1xyyplaw8uyHyaq79YEqtBT85vIqWu0wq7RYFEqbQybc/), [2](https://www.google.com/search?q=site:reddit.com/r/opendirectories+odshot+after:2018), [3](https://opndir.com/), [4](https://redd.it/lvdwlm), [5](https://github.com/strawhat-pirates/notes/blob/master/opendirectories.txt), [6](https://bin.disroot.org/?3082f04205be7af6#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34), [7](https://gist.github.com/Chaphasilor/718e13c1f654b7b0e49b3b41e4855f50) - *Open Directory Indexes*
 * [ODCrawler](https://odcrawler.xyz/), [CatFiles](https://www.catfiles.net/) or [mmnt](https://www.mmnt.net/) - *Open Directory Search Engine*
 * [ODS](https://sites.google.com/view/l33tech/tools/ods) - *Open Directory CSE*
 * [Napalm FTP](https://www.searchftps.net/), [Proisk](https://proisk.com/) or [Search-22](https://search-22.com/ftp-search-tools) - *FTP Search*
@@ -31,6 +69,7 @@
 * [xdccget](https://github.com/Fantastic-Dave/xdccget) - *XDCC IRC Downloader*
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - *Search Pastebin Directories*
 * [Data Horde](https://datahorde.org/) - *Data Archivist Group*
+* [Google Piracy Groups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_piracy_discussion_groups) - *Use these to join TeamDrives* 
 
 ***
 
