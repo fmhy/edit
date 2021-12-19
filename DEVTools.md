@@ -650,7 +650,7 @@
 * [Apache NetBeans](https://netbeans.apache.org/) - *Cloud IDE*
 * [m3o](https://m3o.com/) - *Cloud IDE / [GitHub](https://github.com/m3o/m3o)*
 * [Arduino](https://www.arduino.cc/) - *Cloud IDE*
-* [replit](https://replit.com/) - *Browser Based IDE*
+* [replit](https://replit.com/) or [Gitpod](https://gitpod.io/) - *Browser Based IDE*
 * [KDevelop](https://www.kdevelop.org/) - *Cross Platform IDE*
 * [bloop](https://bloop.ai/) - *IDE AI Suggestion Extension*
 * [JDFiddle](https://jsfiddle.net/), [W3Schools](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python), [CollabEdit](http://collabedit.com/), [Portacode](https://portacode.com/), [IDE One](https://www.ideone.com/), [SoloLearn](https://www.sololearn.com/) / [Playground](https://code.sololearn.com/), [JSFiddle](https://jsfiddle.net/) or [PlayCode](https://playcode.io/) - *Online Code Editor* 
