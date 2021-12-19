@@ -559,10 +559,18 @@
 * [PDFSlide](https://pdfslide.net/) - *Document Search* 
 * [EDoc](https://edoc.tips/) - *Document Search* 
 * [IDoc](https://idoc.pub/ ) - *Document Search*
+* [academic.microsoft](https://academic.microsoft.com/home) - *Document Search*
+* [lens](https://www.lens.org/) - *Document Search*
+* [base-search](https://www.base-search.net/) - *Document Search*
+* [dimensions](https://app.dimensions.ai/discover/publication) - *Document Search*
+* [Share OSF](https://share.osf.io/) - *Document Search*
+* [CiteSeerX](https://citeseerx.ist.psu.edu/index) - *Document Search*
 * [Google Scholar](https://scholar.google.com/) - *Articles*
 * [Mendeley](https://www.mendeley.com/) - *Articles* 
 * [DOAJ](https://doaj.org/) - *Journals / Articles*
 * [ResearchGate](https://www.researchgate.net/) - *Science Articles*
+* [SciLit](https://www.scilit.net/) - *Science Articles*
+* [MyScienceWork](https://www.mysciencework.com/) - *Science Articles*
 * [Academia](https://www.academia.edu/) - *Academic papers*
 * [Scinapse](https://scinapse.io/) - *Academic Paper Search* 
 * [Semantic Scholar](https://www.semanticscholar.org/) - *Scientific Paper Search* 
