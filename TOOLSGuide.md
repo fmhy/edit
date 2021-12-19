@@ -117,6 +117,7 @@
 * [PrivNote](https://privnote.com/) or [IPNote](https://ipnote.io/) - *Notes that Auto Delete After Being Read* 
 * [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - *Calendar & Scheduling Tools*
 * [Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - *Note Taking & To-do Apps*
+* [Manuskript](https://www.theologeek.ch/manuskript/) - *Writing Organizer & Planner*
 * [KiloDoc](https://www.kilodoc.com/) - *Online Document Editor* 
 * [Nute](https://nute.app/) - *Quickly Make & Save Text Files*
 * [Lyx](https://www.lyx.org/) - *LaTeX Editor / [Guide](https://www.learnlatex.org/)*
@@ -260,7 +261,7 @@
 * [Flowframes](https://nmkd.itch.io/flowframes) or [SVP](https://www.svp-team.com/) - *Video Interpolation*
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - *Art & Animation Resource Index*
 * [OpenToonz](https://opentoonz.github.io/e/) or [Pencil2D](https://www.pencil2d.org/) - *Animation Production Software*
-* [AnimeEffects](http://animeeffects.org/en/) or [Synfig](https://www.synfig.org/) - *2D Animation Tool* 
+* [AnimeEffects](http://animeeffects.org/en/), [nve](https://maurycyliebner.github.io/) or [Synfig](https://www.synfig.org/) - *2D Animation Tool* 
 * [Storyboarder](https://wonderunit.com/storyboarder/) - *Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)* 
 * [LibreSprite](https://libresprite.github.io/) - *Sprite Animation Tool*
 * [BestSnip](https://bestsnip.com/animation/) or [Mulator](https://multator.ru/) - *Online Animation Tool*
@@ -1368,6 +1369,7 @@ G) - *Create Discord RPCs*
 * [WindowsManager](https://www.eusing.com/WindowManager/WindowManager.htm) or [Compiz Fusion](http://www.compiz-fusion.org/) - *Improved Windows Manager*
 * [AltDrag](https://stefansundin.github.io/altdrag/) - *Improved Windows Dragging*
 * [EverythingToolbar](https://github.com/stnkl/EverythingToolbar), [Hyper](https://github.com/nodgear/Hyperbar), [Awesome](https://github.com/nodgear/Awesome)  or [Smart Taskbar](https://github.com/ChanpleCai/SmartTaskbar) - *Improved Taskbar*
+* [Taskbar Groups](https://github.com/tjackenpacken/taskbar-groups) - *Create Groups in Taskbar*
 * [uTaskManager](https://www.microsoft.com/en-us/p/utaskmanager/9nhvdhfbxrsv) - *Alternative Taskbar*
 * [OGHub](https://github.com/Wivon/OGHub) - *Free Up Space in your Taskbar*
 * [ButteryTaskbar](https://github.com/CrypticButter/ButteryTaskbar/) - *Hide Taskbar When Start Menu is Closed*
