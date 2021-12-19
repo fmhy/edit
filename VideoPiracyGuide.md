@@ -331,7 +331,8 @@
 * [WCO](https://www.wco.tv/)  - *Anime / Cartoons / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wco_clones)* 
 * [Funimation](https://www.funimation.com/shows/free/) - *Sub / Dub* 
 * [Pokemon.com](https://watch.pokemon.com/) - *Full Pokemon Episodes*
-* [Yuna](https://yuna.moe/) - *Anime Streaming Client / [GitHub](https://github.com/BeeeQueue/yuna)*
+* [Yuna](https://yuna.moe/) - *Anime Streaming App / [GitHub](https://github.com/BeeeQueue/yuna)*
+* [Yukino](https://yukino-app.github.io/) - *Anime Streaming App*
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - *Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/)* 
 * [Crunchyroll iFrame Player](https://greasyfork.org/en/scripts/411391-crunchyroll-iframe-player) - *Crunchyroll Premium Bypass Script / [GitHub](https://github.com/Mateus7G/crp-iframe-player)*
 * [Themes.moe](https://themes.moe/) - *Anime Opening & Ending Themes*
