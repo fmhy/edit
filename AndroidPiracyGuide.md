@@ -497,6 +497,7 @@
 * [Shosetsu](https://shosetsu.app/) - *Light Novels / [GitHub](https://github.com/ShosetsuOrg/android-app) / [Dev Builds](https://github.com/shosetsuorg/shosetsu-preview) / [Discord](https://discord.gg/ttSX7gB)* 
 * [NovelLibrary](https://github.com/gmathi/NovelLibrary) - *Light Novel Reader / [Discord](https://discord.gg/qFZX4vdEdF)*
 * [LNReader](https://github.com/LNReader/lnreader) - *Light Novel Reader*
+* [Baruch](https://github.com/adreeeyan/baruch) - *Light Novel Reader*
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books*
 
 ***
@@ -1014,4 +1015,6 @@ RSS Player*
 * [Paperback](https://paperback.moe/) - *Manga Reader / [Discord](https://discord.gg/Ny83JV3)*
 * [Manga Max](https://apps.apple.com/us/app/apple-store/id1558957618) - *Manga Reader*
 * [Manga Bird](https://apps.apple.com/us/app/manga-bird-best-manga-reader/id834760417) - *Manga Reader*
+* [NovelReader](https://github.com/ppraveentr/NovelReader) - *Light Novels*
+* [NovelLoop](https://apps.apple.com/in/app/novelloop/id1170755867) - *Light Novels*
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books*
