@@ -1462,7 +1462,6 @@ Portuguese
 * [SoftBuzz](https://softbuzz.net/) - *Software / Games*
 * [freehd](https://freehd.me/) - *Movies / TV / Anime*
 * [chiasenhac](https://chiasenhac.vn/) - *Music*
-* [anonytrick](https://anonytrick.com/) - *Software*
 * [chiasecongnghe](https://chiasecongnghe.net/) - *Software*
 * [taomaytinh](https://taomaytinh.com/) - *Software*
 * [iphanmem](https://iphanmem.net/) - *Software*
