@@ -252,7 +252,8 @@
 * [Generated Photos](https://generated.photos/) - *AI Generated Model Photos*
 * [Blender](https://www.blender.org/) - *Open Source 3D Modeler / 2D Animation / Video Editor*
 * [3D Modeling Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps) - *Free 3D Modeling Apps* 
-* [Armorpaint](https://armorpaint.org/) - *3D Painting Software*
+* [Armorpaint](https://armorpaint.org/) - *3D Painting*
+* [ZBrush](https://zbrushcore.com/mini/) - *3D Sculpting*
 * [MakeHuman](http://www.makehumancommunity.org/) - *3D Humanoid Modeler*
 * [posemy](https://app.posemy.art/), [quickposes](https://quickposes.com/en) or [justsketch](https://app.justsketch.me/) - *Posing Tools*
 * [FaceMaker](http://facemaker.uvrg.org/) - *Face / Avatar Generator* 
@@ -293,6 +294,7 @@
 * **[Image Hosting / Processing Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosting_.2F_processing)** - *Host / Process Images*
 * **[Image Viewers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_viewers)** - *Image Viewing Programs*
 * [Piwigo](https://piwigo.org/) or [Photonix](https://photonix.org/) - *Photo Manager / Viewer*
+* [PiGallery2](https://bpatrik.github.io/pigallery2/) - *Self-Hosted Image Gallery*
 * [FEMBOY](https://github.com/k1rak1ra/FEMBOY) - *Anime Image Manager*
 * [Pinry](https://docs.getpinry.com/ ) - *Image Tiling Board*
 * [Lychee](https://lycheeorg.github.io/) - *Self-Hosted Image Host* 
