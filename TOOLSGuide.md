@@ -1556,6 +1556,7 @@ G) - *Create Discord RPCs*
 * [Windows Sounds](https://winsounds.com/) or [Win11 Sounds](https://mega.nz/file/CpRkwTrD#9NihefiFDBirhwtXqSvjWAhrFzUPcJveCeePfWh1lmo) - *Windows Sound Schemes*
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - *MacOS Cursors for Windows*
 * [terminal.sexy](https://terminal.sexy/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - *Terminal Color Schemes*
+* [Tabby](https://tabby.sh/) - *Modern Style Terminal*
 * [linux-like-windows-terminal](https://github.com/Kyza/linux-like-windows-terminal) - *Linux Style Windows Terminal*
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - *Retro Cathode Terminal Theme*
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - *Pokemon Terminal Themes*
