@@ -1809,6 +1809,12 @@ Add the following commands to a search to manually scrape each site.
 
 [Savify](https://github.com/LaurenceRawlings/savify), [spotify-downloader](https://github.com/rickyrorton/spotify-downloader/), [Spotify-DL](https://github.com/SathyaBhat/spotify-dl), [Sidify](https://sidify.com/), [spotDL](https://github.com/spotDL/spotify-downloader), [Syncify](https://github.com/FindMalek/Syncify) (Playlists)
 
+**Telegram Bots**
+
+* [spotifydl_mp3_bo](https://t.me/spotifydl_mp3_bot) 
+* [Spotdlrobot](https://t.me/Spotdlrobot)
+* [Spotify Music Downloader](https://t.me/joinchat/DdR2SUvJPBouSW4QlbJU4g)
+
 **Recorders** 
 
 [Spytify](https://jwallet.github.io/spy-spotify/overview.html) / [GitHub](https://github.com/jwallet/spy-spotify)
@@ -2005,6 +2011,14 @@ Add the following commands to a search to manually scrape each site.
 * [FLAC Album](https://t.me/FLAC_DSD_LOSSLESS_HIRES) - *FLAC*
 * [Music_Hunters](https://t.me/Music_Hunters)
 * [/Music](https://t.me/music)
+* [FlacStoreBot](https://t.me/FlacStoreBot) - *MP3 / FLAC*
+* [Musicassistbot](https://t.me/Musicassistbot) - *MP3*
+* [musicder_bot](https://t.me/musicder_bot) - *MP3*
+* [DeezEmpireBot](https://t.me/DeezEmpireBot) - *MP3 / FLAC*
+* [songspkmusic](https://t.me/songspkmusic) - *MP3*
+* [Spotify™ | DataBase](https://t.me/joinchat/CpMAJhkWaTwk8BVPepASZQ) - *MP3 / FLAC*
+* [bassmuzic](https://t.me/bassmuzic) - *MP3*
+* [FLAC_DSD_HIRES_MUSIC](https://t.me/FLAC_DSD_HIRES_MUSIC) - *FLAC*
 * [MusicsHunterbot](https://t.me/MusicsHunterbot)
 * [MArchive](https://t.me/MArchive)
 * [ClassicalMusicMe](https://t.me/ClassicalMusicMe) - *Classical* 
@@ -2118,7 +2132,10 @@ Add the following commands to a search to manually scrape each site.
 * [pre_code](https://t.me/pre_code) - *Classic*
 * [StommeFilms](https://t.me/StommeFilms) - *Classic*
 * [ZwartwitFilms](https://t.me/ZwartwitFilms) - *Classic*
+* [Cartoon Kingdom](https://t.me/CartoonKingdom) - *Cartoon*
 * [CartoonLibrary](https://t.me/CartoonLibrary) or [Cartoon_Index](https://t.me/Cartoon_Index) - *Cartoons*
+* [My_cdrama](https://t.me/My_cdrama) - *Chinese Drama*
+* [OnlyKDrama](https://onlykdrama.tk/0:/) - *KDrama  / [Telegram](https://t.me/KoreanHDDrama)*
 
 ***
 
@@ -2434,6 +2451,23 @@ Good for finding classic, obscure & short films.
 * [koncius](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - *Android Video to Wallpaper*
 * [Grffe](https://apps.apple.com/ca/app/grffe-wallpapers/id1521368829) - *Static & Live iOS Wallpapers* 
 * [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - *iOS Wallpaper App*
+
+**Telegram Wallpaper Channels** 
+
+* https://t.me/AnimeLibrary_MobileWallpapers/
+* https://t.me/picsart_hd_background
+* https://t.me/ZedgeImagesBot
+* https://t.me/Wallpaper
+* https://t.me/AnimeLibrary_Wallpapers/
+* https://t.me/allwallpaper
+* https://t.me/Wallpapers_Phone_Mobile/
+* https://t.me/Anime_WallpapersHD/
+* https://t.me/wallpaper_profilei/
+* https://t.me/wallpapers/
+* https://t.me/Full_HD_4K_wallpapers/
+* https://t.me/WallpapersGram4K/
+* https://t.me/WallpapersGram/
+* https://t.me/picsart_hd_background
 
 ***
 
