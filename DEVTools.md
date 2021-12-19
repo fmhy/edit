@@ -460,6 +460,7 @@
 * [Git Explorer](https://gitexplorer.com/) - *Git Command List*
 * [GitHub Desktop](https://desktop.github.com/) - *GitHub Desktop App*
 * [GitHub.Dev](https://github.dev/) - *GitHub Web App*
+* [refined-github](https://github.com/refined-github/refined-github) - *Improve GitHub Interface*
 * [git.io](https://git.io/) - *GitHub URL Shortener*
 * [GitHub-Userscripts](https://github.com/Mottie/GitHub-userscripts) - *GitHub Userscripts*
 * [GitKraken](https://www.gitkraken.com/) or [Sourcetree](https://www.sourcetreeapp.com/) - *Git GUI*
@@ -487,7 +488,7 @@
 * [Sourcegraph](https://about.sourcegraph.com/) - *GitHub Repository Sourcegraph Editor* 
 * [CodeWyng](https://codewyng.io/) - *Browse GitHub like an IDE* 
 * [onefetch](https://github.com/o2sh/onefetch) - *Git Information Terminal*
-* [PR Monitor](https://github.com/fwouts/prmonitor) - *Pull Request Notifier*  
+* [PR Monitor](https://github.com/fwouts/prmonitor)or [advanced-github-notifier](https://github.com/freaktechnik/advanced-github-notifier) - *Pull Request Notifier*  
 * [Gidget](https://github.com/GDGVIT/gidget) - *Pull Request Notifier / Android*
 * [Whats New GitHub](https://github.com/flawyte/whats-new-github) - *Repository Change Feed* 
 * [Conventional Commits](https://www.conventionalcommits.org/) - *Commit message specification*
@@ -498,6 +499,8 @@
 * [Shields.io](https://shields.io/) - *Metadata badges for Github Readmes*
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - *Enable Snake Game on GitHub ReadMe*
 * [Discord MD Badge](https://github.com/montylion/discord-md-badge) - *Add Discord Badge to GitHub*
+* [Github vscode icons](https://github.com/dderevjanik/github-vscode-icons) - *VSCode Icons*
+* [github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - *Material Icons*
 * [gist.io](https://gist.io/) or [gistflow](https://github.com/gistflow/gistflow) - *Git Blog Platform*
 * [Github Action for Rclone](https://github.com/marketplace/actions/github-action-for-rclone) - *Rclone GitHub Action Wrapper*
 * [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub), [diohub](https://github.com/NamanShergill/diohub) or [OctoDroid](https://github.com/slapperwan/gh4a) - *Android GitHub Client*
