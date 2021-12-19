@@ -393,6 +393,31 @@
 * [apkmod_s](https://t.me/apkmod_s) - *Modded / Telegram*  
 * [Pro App Share](https://t.me/proappshare) - *Modded / Telegram*   
 * [Kwgt Widgets](https://t.me/Kwgt_widgets) - *Modded / Telegram*
+* [SyrianCrackers](https://t.me/SyrianCrackers) - *Modded / Telegram*
+* [apkfolkspro](https://t.me/apkfolkspro/) - *Modded / Telegram*
+* [LeyzymoyChannel](https://t.me/LeyzymoyChannel/) - *Modded / Telegram*
+* [pcandroidsoftware](https://t.me/pcandroidsoftware/) - *Modded / Telegram*
+* [sserratty_hack](https://t.me/sserratty_hack/) - *Modded / Telegram*
+* [Glype](https://t.me/Glype) - *Modded / Telegram*
+* [alexstranniklite](https://t.me/alexstranniklite) - *Modded / Telegram*
+* [freemoddedapps](https://t.me/freemoddedapps) - *Modded / Telegram*
+* [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL) - *Modded / Telegram*
+* [ANiK555_Mods](https://t.me/ANiK555_Mods) - *Modded / Telegram*
+* [TharakMods](https://t.me/TharakMods) - *Modded / Telegram*
+* [lunadevx](https://t.me/lunadevx) - *Modded / Telegram*
+* [rbmod](https://t.me/rbmod) - *Modded / Telegram*
+* [marioworlds4u](https://t.me/marioworlds4u) - *Modded / Telegram*
+* [ProAppz](https://t.me/ProAppz) - *Modded / Telegram*
+* [EasyAPK](https://t.me/EasyAPK) - *Modded / Telegram*
+* [APKmi](https://t.me/APKmi) - *Modded / Telegram*
+* [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re) - *Modded / Telegram*
+* [dumpmods](https://t.me/dumpmods) - *Modded / Telegram*
+* [faloojein](https://t.me/faloojein) - *Modded / Telegram*
+* [aroratricksmod](https://t.me/aroratricksmod) - *Modded / Telegram*
+* [arvmobiles](https://t.me/arvmobiles) - *Modded / Telegram*
+* [IC_Mods](https://t.me/IC_Mods) - *Modded / Telegram*
+* [ElectraMods](https://t.me/ElectraMods) - *Modded / Telegram*
+* [allapkforfree](https://t.me/allapkforfree) - *Modded / Telegram*
 * [Software_Android_Apps_Games](https://t.me/Software_Android_Apps_Games) - *Modded / Telegram*   
 * [Awesome Android Kotlin Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) - *Kotlin App Index*
 * [Aero Apps](https://t.me/aerolla) - *Modded Social Media Apps*
