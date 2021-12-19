@@ -150,6 +150,7 @@
 * [GrayCity](https://graycity.net/) - *Books*
 * [CentslessBooks](https://centslessbooks.com/) - *Books* 
 * [SNEWD](https://snewd.com/) - *Books* 
+* [doma.crazycz](http://doma.crazycz.net/ebooks/) - *Books*
 * [Luminist](http://www.luminist.org/archives/) - *Books* 
 * [British Library](https://www.bl.uk/) - *Books*
 * [EbookLobby](http://ebooklobby.com/) - *Books*
