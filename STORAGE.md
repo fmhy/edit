@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/BGjq89i.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/M4HQCT6.png)** - *For mobile users*
 
 ***
 ***
@@ -974,7 +974,46 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Manga Download Bots
 
-[HakuNeko](https://github.com/manga-download/hakuneko), [Comics Downloader](https://github.com/Girbons/comics-downloader), [FMD](https://sourceforge.net/projects/fmd/), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [Free Manga Downloader](https://sourceforge.net/projects/newfmd/), [mangadownbot](https://t.me/mangadownbot), [MangaBot](http://mangabot.github.io/), [MangaRipper](https://www.softpedia.com/get/Internet/Download-Managers/MangaRipper.shtml), [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader), [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader)
+[HakuNeko](https://github.com/manga-download/hakuneko), [Comics Downloader](https://github.com/Girbons/comics-downloader), [FMD](https://sourceforge.net/projects/fmd/), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [Free Manga Downloader](https://sourceforge.net/projects/newfmd/), [mangadownbot](https://t.me/mangadownbot), [MangaBot](http://mangabot.github.io/), [MangaRipper](https://www.softpedia.com/get/Internet/Download-Managers/MangaRipper.shtml), [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader), [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangadesk](https://github.com/darylhjd/mangadesk), [nice-pferd](https://github.com/augustin64/nice-pferd), [manga-py](https://manga-py.com/), [mdownloader](https://github.com/Rudoal/mdownloader), [ScrapScan](https://github.com/Mr-Monster-0248/ScrapScan), [mangapy](https://pypi.org/project/mangapy/), [manga2mobi](https://github.com/KevCui/manga2mobi), [Akianonymus](https://github.com/Akianonymus/mangadl-bash), [simple-manga-downloader](https://github.com/Kanjirito/simple-manga-downloader), [mangodl](https://github.com/Gyro7/mangodl)
+
+***
+
+#### Manhua / Manhwa Manga
+
+* https://toonily.com/
+* https://manhwa18.net/
+* https://azmanhwa.net/
+* https://manhuafast.com/
+* https://manhwakool.com/
+* https://www.mangahz.com/
+* https://manhwatop.com/
+* https://www.instamanhwa.com/
+* https://manhwa.biz/
+* https://manhwa365.com/
+* https://manhwa68.com/
+* https://zinmanga.com/
+* https://mwmanhwa.net/
+* https://manhwaworld.com/
+* https://manhwatop.com/
+* https://readmanhwa.com/en/
+* https://manhwaz.com/
+* https://manhwafull.com/
+* https://manhuabox.net/
+* https://www.topmanhua.com/
+* https://manhuas.net/
+* https://manhuachill.com/
+* https://manhuabox.net/
+* https://manhuadex.com/am/
+* https://bestmanhua.com/
+* https://manhuaes.com/
+* https://manhuadragon.com/
+* https://manhuafast.com/
+* https://manhuahot.com/
+* https://manhuapro.com/
+* https://manhuatoon.com/
+* https://manhuazone.com/
+* https://manhuaga.com/
+* https://teenmanhua.com/
 
 ***
 
@@ -1783,7 +1822,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Soundcloud Downloaders
 
-[SoundCloud Downloader](https://github.com/NotTobi/soundcloud-dl), [Klickaud](https://www.klickaud.co/), [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837-local-soundcloud-downloader), [SoundCloud-Playlist-Sync](https://github.com/erwinkramer/SoundCloud-Playlist-Sync), [Soundcloud-Downloader](https://github.com/Kawaizombi/kawai-scripts/tree/master/projects/soundcloud-downloader), [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/), [sclouddownloader](https://sclouddownloader.net/)
+[SoundCloud Downloader](https://github.com/NotTobi/soundcloud-dl), [Klickaud](https://www.klickaud.co/), [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837-local-soundcloud-downloader), [SoundCloud-Playlist-Sync](https://github.com/erwinkramer/SoundCloud-Playlist-Sync), [Soundcloud-Downloader](https://github.com/Kawaizombi/kawai-scripts/tree/master/projects/soundcloud-downloader), [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/), [sclouddownloader](https://sclouddownloader.net/), [scdl](https://github.com/flyingrub/scdl)
 
 ***
 
@@ -1807,14 +1846,15 @@ Add the following commands to a search to manually scrape each site.
 
 **Spotify YouTube Downloaders** 
 
-[Savify](https://github.com/LaurenceRawlings/savify), [spotify-downloader](https://github.com/rickyrorton/spotify-downloader/), [Spotify-DL](https://github.com/SathyaBhat/spotify-dl), [Sidify](https://sidify.com/), [spotDL](https://github.com/spotDL/spotify-downloader), [Syncify](https://github.com/FindMalek/Syncify) (Playlists)
+[Savify](https://github.com/LaurenceRawlings/savify), [spotify-downloader](https://github.com/rickyrorton/spotify-downloader/), [Spotify-DL](https://github.com/SathyaBhat/spotify-dl), [Sidify](https://sidify.com/), [spotDL](https://github.com/spotDL/spotify-downloader), [Syncify](https://github.com/FindMalek/Syncify) (Playlists), [FreyrJS](https://github.com/miraclx/freyr-js)
 
 **Telegram Bots**
 
 * [spotifydl_mp3_bo](https://t.me/spotifydl_mp3_bot) 
 * [Spotdlrobot](https://t.me/Spotdlrobot)
 * [Spotify Music Downloader](https://t.me/joinchat/DdR2SUvJPBouSW4QlbJU4g)
-
+* [pymusicdl](https://github.com/insaiyancvk/pymusicdl)
+* [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) 
 **Recorders** 
 
 [Spytify](https://jwallet.github.io/spy-spotify/overview.html) / [GitHub](https://github.com/jwallet/spy-spotify)
@@ -2324,7 +2364,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Video Converters
 
-**[HandBrake](https://handbrake.fr/)** / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake), [XMedia Recode](https://www.xmedia-recode.de/en/), [staxrip](https://github.com/staxrip/staxrip/) / [Guide](https://telegra.ph/HEVC-Encoding-with-StaxRip-Settings-for-best-compression-included-05-12 ), [FastFlix](https://fastflix.org/), [AVC](https://www.any-video-converter.com/), [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes), [MP4.to](https://mp4.to/), [Evano](https://evano.com/online-video-converter), [mp4 Video Converter](https://github.com/mebsic/mp4), [OnlineVideoConverter](https://onlinevideoconverter.party/), [WebmtoMP4](https://webmtomp4.com/), [MakeMKV](https://www.makemkv.com/), [Video2Edit](https://www.video2edit.com/), [Winnydows](https://winnydows.com/en/)
+**[HandBrake](https://handbrake.fr/)** / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake), [XMedia Recode](https://www.xmedia-recode.de/en/), [staxrip](https://github.com/staxrip/staxrip/) / [Guide](https://telegra.ph/HEVC-Encoding-with-StaxRip-Settings-for-best-compression-included-05-12 ), [FastFlix](https://fastflix.org/), [AVC](https://www.any-video-converter.com/), [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes), [MP4.to](https://mp4.to/), [Evano](https://evano.com/online-video-converter), [mp4 Video Converter](https://github.com/mebsic/mp4), [OnlineVideoConverter](https://onlinevideoconverter.party/), [WebmtoMP4](https://webmtomp4.com/), [MakeMKV](https://www.makemkv.com/), [Video2Edit](https://www.video2edit.com/), [Winnydows](https://winnydows.com/en/), [RipBot264](https://www.videohelp.com/software/RipBot264), [MeGUI](https://www.videohelp.com/software/MeGUI), [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator), [automatic-ripping-machine](https://b3n.org/automatic-ripping-machine/), [FastFlix](https://github.com/cdgriffith/FastFlix), [avisynth](http://avisynth.nl/index.php/Main_Page)
 
 **Telegram Bots**
 
