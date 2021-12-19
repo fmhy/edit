@@ -914,7 +914,6 @@
 * [1movies](https://ww2.1movies.is/contact) - *Movies / TV / Anime*
 * [UniqueStream](https://uniquestream.vip/requests/) - *Movies / TV / Anime*
 * [9Anime](https://9anime.to/) - *Anime / Click Request*
-* [Nandato](https://nanda.to/) - *Anime / [Discord](https://discord.gg/5tnMp8v)*
 * [AnimeBatchDDL](https://animebatchddl.wordpress.com/) - *Anime / [Discord](https://discord.gg/sgqcm2xCtc)*
 * [GustaTV](https://www2.gustatv.to/requests/) - *Movies / TV* 
 * [TheWebFlix](https://docs.google.com/forms/d/e/1FAIpQLSe1-DTmK9yuAtmO6_pLMO4fR5UF2aWf0QbMME41blXfFWSQBA/viewform) - *Movies / TV* 
