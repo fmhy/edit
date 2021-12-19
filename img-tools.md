@@ -187,7 +187,7 @@
 # ► Download Images
 
 * **[Image Download Site Index](https://start.me/p/jj0JAp/designer)** - *Download Images, Illustrations, Icons & more*
-* **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - *Download Stock Photos*
+* **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - *Download Stock Photos / Vectors*
 * **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)** - *Download Icons*
 * **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)** - *Search by Image*
 * [GFX Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources) - *Graphic Design Elements*
@@ -205,7 +205,6 @@
 * [PSDGraphics](https://www.psdgraphics.com/) - *PSD Files*
 * [The NFT Bay](https://thenftbay.org/) - *NFT Collection*
 * [Artbreeder](https://artbreeder.com/) - *Image Discovery / Combining*
-* [Free Vector Sites](https://onehack.us/t/get-download-free-vectors-45-sites-to-grab-vectors/96104) - *Vector Images* 
 * [Artvee](https://artvee.com/) - *Public Domain Artwork* 
 * [AnthonyBoyd](https://www.anthonyboyd.graphics/) - *Mockups & Textures*
 * [Behance](https://behance.net/) - *Design Projects*
