@@ -1883,6 +1883,7 @@ Add the following commands to a search to manually scrape each site.
 * [nsw2u](https://nsw2u.xyz/)
 * [XCI NSP](https://www.xcinsp.com/)
 * [Switchrls](https://switchrls.co/)
+* [Switch Rom Drive](https://drive.google.com/drive/folders/1cvmYivzmjsbVwMb79edP2w0QKvFPfKFJ) 
 * [Switch Archive](https://docs.google.com/spreadsheets/d/1lRMTxSAJiASOdT1ZlCyYrUnXkVt58jg46Y-2w3RrMtA/edit) 
 
 ***
