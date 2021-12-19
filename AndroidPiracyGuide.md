@@ -802,6 +802,7 @@ RSS Player*
 * [Whatspad++](https://iosninja.io/ipa-library/download-whatspad-ipa-ios) - *iPad WhatsApp*
 * [AppLibraryEnabler](https://github.com/tomaszpoliszuk/AppLibraryEnabler) - *Enable App Library on iPad*
 * [1 Click iCloud Bypass](https://frpfile.com/one-click-bypass-icloud/), [All in One iCloud Tool](https://frpfile.com/ifrpfile-all-in-one-icloud-tool/) or [iCloudBypass](https://appletech752.com/icloudbypass.html) - *Bypass iCloud*
+* [AppleTech752](https://www.appletech752.com/downloads.html) - *iCloud and MDM Bypass*
 * [GoodLinks](https://goodlinks.app/) - *Save Links*
 * [Flarify](http://www.flairify.com/) - *Touchscreen Typing Practice* 
 * [Selvy PenScript](https://apps.apple.com/us/app/selvy-penscript/id1027637212) - *Handwriting to Text Keyboard*
