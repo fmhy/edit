@@ -501,6 +501,7 @@
 * [Yandex Disk](https://disk.yandex.com/), [VK WorkSpace](https://biz.mail.ru/) or [OpenDesktop](https://www.opendesktop.org/) - *Multiple Cloud Services* 
 * [Nativefier](https://github.com/nativefier/nativefier) - *Turn Sites into Desktop Apps*
 * [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - *Test Internet Speed*
+* [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - *Network manager*
 * [OONI](https://ooni.org/) - *Test Site Blocking / Network Speed*
 * [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) - *OpenSSH Client / Server*
 * [TCP Optimizer](https://www.speedguide.net/downloads.php/) - *Network Optimizer*
