@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/VOSEvjY.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/BGjq89i.png)** - *For mobile users*
 
 ***
 ***
@@ -1921,52 +1921,6 @@ Add the following commands to a search to manually scrape each site.
 * https://team.isumit.workers.dev/
 * https://bdi-generator.hashhackers.com/ (Code Generator)
 * https://pastelink.net/2zw21 (list)
-
-***
-
-#### TeamDrives / Open Directories
-
-* Note - You can stream videos from these. 
-* [/r/opendirectories](https://www.reddit.com/r/opendirectories/) - *Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / /u/ODScanner*
-* [Open Directories](https://docs.google.com/document/d/1xyyplaw8uyHyaq79YEqtBT85vIqWu0wq7RYFEqbQybc/) or [Glorified Reddit Comment](https://gist.github.com/Chaphasilor/718e13c1f654b7b0e49b3b41e4855f50) - *Open Directory Index*
-* [Collection](https://mega.nz/folder/6q4XjSjD#n2aMXLlajXC59snzns_ijw)
-* [CloudBhadoo](https://index.hashhackers.com/) / [2](https://search.hashhackers.com/)
-* [Google Piracy Groups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_piracy_discussion_groups) - *Use these to join TeamDrives* 
-* [Google TeamDrive's](https://onehack.us/t/tds-with-tbs-of-movies-web-series-courses-games-etc/77628) 
-* [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28) 
-* [PureXClydey](https://www.purexclydey.com/xdd/uploads/) 
-* [Drive List](https://redd.it/owdvw7) -
-* [Public.crackhub](https://public.crackhub.site/) 
-* [300TB Shere](https://drive.google.com/drive/folders/1oCMgJeBc55NuEasPcgwjx2FuPdQd8neu)
-* [index-of](http://index-of.es/) - *Tech / Programming / Directory* 
-* [Manny Hackers](https://apd.msbots.workers.dev/0:/)
-* [Mirror Bot](https://mirrorbot.sarutobi.workers.dev/)
-* [matrixmirror](https://t.me/matrixmirror) - *[Drive](https://drive.matrixbots.workers.dev/0:/) / user: matrixbots pw: shit*
-* [Public Drive Bot](https://index.isumit.workers.dev/)
-* [blacklistedbois](https://dl.blacklistedbois.workers.dev/0:/)
-* [TorrentLeech Drive](https://torrentleech.torrentleech-gdrive.workers.dev/) 
-* https://happyboy.hb4all.workers.dev/
-* https://tr.mooser.workers.dev/0:/
-* https://td2.blinkdrive.workers.dev/ 
-* https://loxxi.somto811.workers.dev/
-* https://mbot.mhub.workers.dev/
-* https://groups.google.com/g/kl-teamdrive
-* https://nsfw.blackpirate.workers.dev/0:/
-* https://groups.google.com/g/lightz-cloud
-* https://groups.google.com/g/xtremecloud-tdgroup
-* https://arcrec.mark41stark.workers.dev/
-* https://gentle-frost-7788.edwindrive.workers.dev/
-* https://bot.khun3.workers.dev/
-* https://index.garbage.workers.dev/
-* https://teamdrivegroup.uzemalik.workers.dev/
-* https://gd.cinemaflix.workers.dev/1:/
-* https://drive.fullmetal.workers.dev/0:/
-* https://one.publicdrive.workers.dev/0:/
-* https://2.roshansmirrordrive.workers.dev/
-* https://3.roshansmirror.workers.dev/
-* https://drive.hasibul.workers.dev/
-* https://shibainu-uploads.site/
-* [smolOD](https://rentry.co/smolOD) - *Small Open Directories*
 
 ***
 
