@@ -466,6 +466,7 @@
 * [RemaxHD](https://remaxhd.org/) - *Movies / TV*
 * [MoviesVerse](https://moviesverse.cc/) - *Movies / TV / [Telegram](https://t.me/MoviesHomeOFFICIALS)* 
 * [Gophie](https://gophie.cam/) - *Movies / TV*
+* [AnimeAcademy](https://animeacademy.in/) - *Anime*
 * [Hindi Cartoons](https://telegra.ph/All-of-my-Channels-List-02-18) - *Cartoons*
 * [DesiRulez](https://www.desirulez.cc/) - *Video / Audio*
 * [Tomato.to](https://saavn.tomato.to/) - *Music*
