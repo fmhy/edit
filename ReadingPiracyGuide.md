@@ -914,7 +914,7 @@
 * [VolareNovels](https://www.volarenovels.com/) 
 * [Free Light Novel](https://www.freelightnovel.com/)
 * [WoopRead](https://woopread.com/)
-* [Light Novel Archive](https://t.me/LightNovelArchives) or [LN_Index](https://t.me/LN_Index) - *Light Novels*
+* [Light Novel Archive](https://t.me/LightNovelArchives) or [LN_Index](https://t.me/LN_Index)
 * [Void Translations](https://voidtranslations.wordpress.com/) 
 * [Just Light Novels](https://justlightnovels.com/)
 * [RnDNovels ](https://www.rndnovels.com/) 
@@ -926,6 +926,7 @@
 * [WuxiaWorld](https://wuxiaworld.site/ ) - *Manga / Novels* 
 * [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - *Novels / Audio Recordings*  
 * [Wuxiaworld](https://www.wuxiaworld.co/) - *Chinese Novels*  
+* [NovelReader](https://github.com/Kevin-Umali/NovelReader) - *Light Novel Reader*
 * [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [QuickNovel](https://github.com/LagradOst/QuickNovel) or [Novel-Grabber](https://github.com/Flameish/Novel-Grabber) - *Light-Novel Downloader*
 * [WebToEpub](https://github.com/dteviot/WebToEpub) - *Novel to EPUB Converter*
 * [LNMTL](https://lnmtl.com/) - *Light Novel Translator*
