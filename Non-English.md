@@ -1475,7 +1475,7 @@ Portuguese
 ## ▷ Reading
 
 * [ShareScript](https://sharescript.net/) - *Script / Code Index*
-* [Trang chủ](https://ln.hako.re/) - *Light Novels*
+* [HAKO](https://ln.hako.re/) - *Light Novels*
 
 ***
 
