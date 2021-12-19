@@ -491,6 +491,8 @@
 * [Kotatsu](https://github.com/nv95/Kotatsu) - *Manga Reader*
 * [MiMangaNu](https://github.com/raulhaag/MiMangaNu) - *Manga Reader*
 * [Neko](https://github.com/CarlosEsco/Neko) - *Manga Reader*
+* [MangaDLR](https://cyberneticlifeform.wixsite.com/cylonu87/mangadlr) - *Manga Reader*
+* [Manga Tag](https://www.mangatag.com/) - *Manga Reader*
 * [Meow](https://github.com/neverfelly/Meow) - *Manga Reader*
 * [Shosetsu](https://shosetsu.app/) - *Light Novels / [GitHub](https://github.com/ShosetsuOrg/android-app) / [Dev Builds](https://github.com/shosetsuorg/shosetsu-preview) / [Discord](https://discord.gg/ttSX7gB)* 
 * [NovelLibrary](https://github.com/gmathi/NovelLibrary) - *Light Novel Reader / [Discord](https://discord.gg/qFZX4vdEdF)*
@@ -647,6 +649,7 @@ RSS Player*
 * [Animebay](https://animebay.tech/)
 * [Kayuri](https://github.com/Killerpac/Kayuri)
 * [Akiyama](https://github.com/Fmaldonado6/Akiyama)
+* [OtakuWorld](https://github.com/jakepurple13/OtakuWorld)
 * [animity](https://github.com/kl3jvi/animity)
 * [no](https://github.com/deceptions/no) 
 * [AnimeFanz Tube](https://apkpure.com/anime-fanz-tube/com.animefanzapp.tube)
