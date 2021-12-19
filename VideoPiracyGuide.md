@@ -158,6 +158,7 @@
 * [EMovies](https://emovies.io/) - *Movies / TV / Anime*
 * [Pahe.stream](https://pahe.stream/) - *Movies / TV*
 * [Movie4k](https://movie4k.123movies.online/) - *Movies / TV*
+* [VidCloud](https://vidembed.io/) - *Movies / TV*
 * [Afdah](https://afdah.video/) - *Movies*
 * [SeeHD](https://seehd.nl/) - *Movies / TV / Anime* 
 * [SeeHD.uno](https://www.seehd.uno/) - *Movies / TV / Anime / NSFW* 
