@@ -678,6 +678,7 @@ RSS Player*
 * [Totally Not Spyware](https://totally-not.spyware.lol/) - *Safari Jailbreaking Tool*
 * [SuccessionRestore](https://github.com/Samgisaninja/SuccessionRestore) - *Restore iOS without a computer (without updating)*
 * [odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - *Checkra1n / Odysseyra1n Installation Distro / [GUI](https://github.com/23Aaron/Betelguese)*
+* [sh0wer](https://github.com/extradummythicc/sh0wer) - *Alt Linux Distro for checkn1x*
 * [ReProvision](https://github.com/Matchstic/ReProvision) - *On-device signing utility*
 * [HackYouriPhone Repo](https://repo.hackyouriphone.org/) - *Jailbreak / Tweaks* 
 * [isecureos](https://isecureos.idevicecentral.com/repo/) - *Jailbreak Antivirus Tweak*
@@ -743,6 +744,7 @@ RSS Player*
 * [Filza](http://cydia.saurik.com/package/com.tigisoftware.filza/) - *File Manager*
 * [Dropbox Premium](https://testflight.apple.com/join/LBZaRq4I) - *Cloud Storage*
 * [iEmulators](https://iemulators.com/) - *Emulator Apps*
+* [Infinity](https://github.com/fullpwn/infinity) - *Run Android 10(Q) on iPhone*
 * [HappyChick](http://www.happychick.hk/download.html) - *Game Emulator*
 * [iDOS](https://iosninja.io/ipa-library/download-idos-ipa-ios) - *DOS Emulator / [GitHub](https://github.com/litchie/dospad)*
 * [iSSB Play](https://iosninja.io/ipa-library/download-issb-ipa-ios) - *Super Smash. Bros on iOS / [GitHub](https://github.com/lufinkey/iSSB)*
