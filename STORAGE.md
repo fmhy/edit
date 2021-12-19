@@ -2324,7 +2324,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Video Converters
 
-**[HandBrake](https://handbrake.fr/)**, [XMedia Recode](https://www.xmedia-recode.de/en/), [staxrip](https://github.com/staxrip/staxrip/), [FastFlix](https://fastflix.org/), [AVC](https://www.any-video-converter.com/), [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes), [MP4.to](https://mp4.to/), [Evano](https://evano.com/online-video-converter), [mp4 Video Converter](https://github.com/mebsic/mp4), [OnlineVideoConverter](https://onlinevideoconverter.party/), [WebmtoMP4](https://webmtomp4.com/), [MakeMKV](https://www.makemkv.com/), [Video2Edit](https://www.video2edit.com/), [Winnydows](https://winnydows.com/en/)
+**[HandBrake](https://handbrake.fr/)** / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake), [XMedia Recode](https://www.xmedia-recode.de/en/), [staxrip](https://github.com/staxrip/staxrip/) / [Guide](https://telegra.ph/HEVC-Encoding-with-StaxRip-Settings-for-best-compression-included-05-12 ), [FastFlix](https://fastflix.org/), [AVC](https://www.any-video-converter.com/), [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes), [MP4.to](https://mp4.to/), [Evano](https://evano.com/online-video-converter), [mp4 Video Converter](https://github.com/mebsic/mp4), [OnlineVideoConverter](https://onlinevideoconverter.party/), [WebmtoMP4](https://webmtomp4.com/), [MakeMKV](https://www.makemkv.com/), [Video2Edit](https://www.video2edit.com/), [Winnydows](https://winnydows.com/en/)
 
 **Telegram Bots**
 
@@ -2367,7 +2367,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Video Player Tools**
 
-* MPV Tools - [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [Sub Navigation](https://github.com/perogiue/mpv-scripts/releases/) / [SponsorBlock](https://github.com/po5/mpv_sponsorblock) / [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) / [MPC-DiscordRPC](https://github.com/angeloanan/MPC-DiscordRPC) / [Bilibili Player](https://github.com/m13253/BiliDan)
+* MPV Tools - [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [Sub Navigation](https://github.com/perogiue/mpv-scripts/releases/) / [SponsorBlock](https://github.com/po5/mpv_sponsorblock) / [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) / [MPC-DiscordRPC](https://github.com/angeloanan/MPC-DiscordRPC) / [Bilibili Player](https://github.com/m13253/BiliDan) / [Config Guide](https://kokomins.wordpress.com/2019/10/14/)
 * VLC Tools - [Browser Control](https://mybrowseraddon.com/remote-vlc-player.html) / [Sub Downloader](https://github.com/exebetche/vlsub) / [OpenWithVLC](https://addons.mozilla.org/en-US/firefox/addon/open-with-vlc/) / [Slow Seek Fix](https://redd.it/os6f1q) / [Skins](https://www.videolan.org/vlc/skins.php)
 * [Video Player Codecs](http://www.codecguide.com/download_kl.htm)
 * [Windows Media Player Skins](https://web.archive.org/web/20100827223732/http://windows.microsoft.com/en-US/windows/downloads/windows-media-player/skins?T1=all) / [2](https://wmpskinsarchive.neocities.org/)
