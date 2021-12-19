@@ -822,11 +822,11 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Editing Software**
 
-**[Gimp](https://www.gimp.org/)** / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP), [2](https://github.com/cttynul/gimpshop-reloaded), [PhotoDemon](https://github.com/tannerhelland/PhotoDemon), [Paint.net](https://www.getpaint.net/index.html), [Glimpse](https://glimpse-editor.github.io/), [Photoscape](http://www.photoscape.org/), [PhotoFiltre](http://www.photofiltre.com/), [Polarr](https://www.polarr.com/), [ImageMagick](https://imagemagick.org/index.php) / [Scripts](http://www.fmwconcepts.com/imagemagick/index.php), [Pinta Project](https://www.pinta-project.com/), [RawTherapee](https://rawtherapee.com/), [Pixeluvo](http://www.pixeluvo.com/), [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) (VS Code)
+**[Gimp](https://www.gimp.org/)** / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP), [2](https://github.com/cttynul/gimpshop-reloaded), [PhotoDemon](https://github.com/tannerhelland/PhotoDemon), [Paint.net](https://www.getpaint.net/index.html), [Glimpse](https://glimpse-editor.github.io/), [Photoscape](http://www.photoscape.org/), [PhotoFiltre](http://www.photofiltre.com/), [Polarr](https://www.polarr.com/), [ImageMagick](https://imagemagick.org/index.php) / [Scripts](http://www.fmwconcepts.com/imagemagick/index.php), [Pinta Project](https://www.pinta-project.com/), [RawTherapee](https://rawtherapee.com/), [Pixeluvo](http://www.pixeluvo.com/), [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) (VS Code), [Glimpse](https://glimpse-editor.org/)
 
 **Online Editors**
 
-**[Photopea](https://www.photopea.com/)** / [Adblocker](https://greasyfork.org/en/scripts/426936-cleanphotopea), [Pixlr](https://pixlr.com/), [BeFunky](https://www.befunky.com/), [Resize Pixel](https://www.resizepixel.com/), [FotoFlexer](https://fotoflexer.com/), [Sumopaint](https://www.sumopaint.com/), [Lunapic](https://lunapic.com/), [Polotno Studio](https://studio.polotno.dev/), [OIE](https://www.online-image-editor.com/), [ResizeImage](https://resizeimage.net/), [IMG online](https://www.imgonline.com.ua/eng/), [BitMappery](https://www.igorski.nl/application/bitmappery/), [Kapwing](https://www.kapwing.com/), [Photoshop.adobe](https://photoshop.adobe.com/), [ILoveImg](https://www.iloveimg.com/photo-editor), [Panzoid](https://panzoid.com/), [Stet](https://stet.io/), [GifGit](https://www.gifgit.com/)
+**[Photopea](https://www.photopea.com/)** / [Adblocker](https://greasyfork.org/en/scripts/426936-cleanphotopea), [Pixlr](https://pixlr.com/), [BeFunky](https://www.befunky.com/), [Resize Pixel](https://www.resizepixel.com/), [FotoFlexer](https://fotoflexer.com/), [Sumopaint](https://www.sumopaint.com/), [Lunapic](https://lunapic.com/), [Polotno Studio](https://studio.polotno.dev/), [OIE](https://www.online-image-editor.com/), [ResizeImage](https://resizeimage.net/), [IMG online](https://www.imgonline.com.ua/eng/), [BitMappery](https://www.igorski.nl/application/bitmappery/), [Kapwing](https://www.kapwing.com/), [Photoshop.adobe](https://photoshop.adobe.com/), [ILoveImg](https://www.iloveimg.com/photo-editor), [Panzoid](https://panzoid.com/), [Stet](https://stet.io/), [GifGit](https://www.gifgit.com/), [Polarr](https://photoeditor.polarr.co/)
 
 ***
 
@@ -838,7 +838,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Processing**
 
-**[Sirv](https://sirv.com/)**, **[CloudImage](https://www.cloudimage.io/)**, [filestack](https://www.filestack.com/), [imagga](https://imagga.com/), [kraken](https://kraken.io/), [cloudinary](https://cloudinary.com/), [image4](https://image4.io/), [tiny.pictures](https://tiny.pictures/), [zara4](https://zara4.com/)
+**[Sirv](https://sirv.com/)**, **[CloudImage](https://www.cloudimage.io/)**, [filestack](https://www.filestack.com/), [imagga](https://imagga.com/), [kraken](https://kraken.io/), [cloudinary](https://cloudinary.com/), [image4](https://image4.io/), [tiny.pictures](https://tiny.pictures/), [zara4](https://zara4.com/), [RawTherapee](https://www.rawtherapee.com/)
 
 ***
 
@@ -2185,6 +2185,7 @@ Add the following commands to a search to manually scrape each site.
 * [Typora](https://typora.io/)
 * [RemNote](https://www.remnote.io/)
 * [Foam](https://github.com/foambubble/foam)
+* [Xournal++](https://xournalpp.github.io/) 
 * [Notepads](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm)
 * [cherrytree](https://www.giuspen.com/cherrytree/)
 * [Nano](https://www.nano-editor.org/)
@@ -2368,7 +2369,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Programs**
 
-[Olive](https://www.olivevideoeditor.org/), [VirtualDub2](https://sourceforge.net/projects/vdfiltermod/files/), [LosslessCut](https://github.com/mifi/lossless-cut), [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Shotcut](https://shotcut.org/), [FreeMake](https://www.freemake.com/how_to/free_movie_maker), [EZVid](https://www.ezvid.com/), [OpenShot](https://www.openshot.org/), [Shotcut](https://www.shotcut.org/), [HitFilm](https://fxhome.com/product/hitfilm-express), [kdenlive](https://kdenlive.org/en/), [Lightworks](https://www.lwks.com/), [Windows Movie Maker](https://www.majorgeeks.com/files/details/windows_movie_maker.html), [SimpleMovieMaking](https://simplemoviemaking.com/), [VSDC](http://www.videosoftdev.com/), [Auto-Editor](https://auto-editor.com/) (CLI), [MoviePy](https://zulko.github.io/moviepy/) (Python)
+[Olive](https://www.olivevideoeditor.org/), [VirtualDub2](https://sourceforge.net/projects/vdfiltermod/files/), [LosslessCut](https://github.com/mifi/lossless-cut), [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Shotcut](https://shotcut.org/), [FreeMake](https://www.freemake.com/how_to/free_movie_maker), [EZVid](https://www.ezvid.com/), [OpenShot](https://www.openshot.org/), [Shotcut](https://www.shotcut.org/), [HitFilm](https://fxhome.com/product/hitfilm-express), [kdenlive](https://kdenlive.org/en/), [Lightworks](https://www.lwks.com/), [Windows Movie Maker](https://www.majorgeeks.com/files/details/windows_movie_maker.html), [SimpleMovieMaking](https://simplemoviemaking.com/), [VSDC](http://www.videosoftdev.com/), [Auto-Editor](https://auto-editor.com/) (CLI), [MoviePy](https://zulko.github.io/moviepy/) (Python), [avidemux](http://avidemux.sourceforge.net/)
 
 **Online Editors**
 
