@@ -750,8 +750,10 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://www1.movieorca.com/
 * https://www1.movierot.com/
 * https://www.actvid.com/
+* https://hdtoday.tv/ 
 * https://www.tikmovies.com/
 * https://dopebox.to/
+* https://www2.movies7.to/
 * https://fboxtv.com/
 * https://movies2watch.tv/
 * https://tinyzonetv.to/
