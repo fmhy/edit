@@ -200,6 +200,7 @@
 * [/r/xTrill](https://reddit.com/r/xTrill) - *MP3 / FLAC / [Discord Bot](https://discord.gg/xtrill) / [Backup](https://reddit.com/r/xTrillBackup)*
 * [streamrip](https://github.com/nathom/streamrip) - *Deezer, TIDAL, Qobuz, YouTube, and SoundCloud Downloader / [Colab](https://github.com/taskylizard/uwustreamrip)*
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - *FLAC / MP3*
+* [FreyrJS](https://github.com/miraclx/freyr-js) - *Spotify, Deezer and Apple Music Downloader*
 * [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - *Download from Deezer & Tidal*
 * [OFFMP3](https://offmp3.com/) or [conversormp3](https://conversormp3.com.br/) - *Video Site to MP3 Converter*
 * [SMLoadr](https://t.me/SMLoadrNews) - *FLAC / MP3 / [Desktop GUI](https://github.com/thelucifermorningstar/SMLoadr-AUX/releases)*
@@ -212,6 +213,8 @@
 * [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - *Soundcloud Download Tools*
 * [KeepTube](https://jaymoulin.me/me/keeptune/) - *Soundcloud & Bandcamp Downloader*
 * [Musescore-downloader](https://github.com/Xmader/musescore-downloader) - *Musescore Downloader*
+* [jiosaavn-downloader](https://github.com/GrayGalaxy/jiosaavn-downloader) / [2](https://github.com/kx3ez1/jiosaavn-downloader) or [music-dl](https://github.com/vishaltelangre/music-dl) - *JioSaavn Downloaders*
+* [gaana-downloader-extension)](https://github.com/tuhinpal/gaana-downloader-extension) - *Gaana Downloader*
 * [you-get](https://you-get.org/) or [irs](https://github.com/cooperhammond/irs) - *Audio Command Line Download Tool*
 * [music-downloader](https://github.com/Dayhawk007/music-downloader) - *Python Music Download Script*
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - *VK MP3 Search Tool* 
