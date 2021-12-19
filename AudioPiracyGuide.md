@@ -20,6 +20,7 @@
 * [MP3Jam](https://www.mp3jam.org/) - *Streaming*
 * [Muffon](https://github.com/staniel359/muffon) - *Streaming*
 * [Deezer](https://www.deezer.com/) - *Streaming*
+* [SlavDoge](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9kaXNjb3JkLmdnL2d3eFJmNnlTR0s.RkJJ) - *Deezer Streaming Bot*
 * [MusicBucket](https://musicbucket.net/) - *Track / Share Music / Telegram* 
 * [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - *Unlock Unavailable Netease Music*
 
