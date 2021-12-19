@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/aAO0wAe.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/bhzVnKA.png)** - *For mobile users*
 
 ***
 ***
@@ -1467,10 +1467,6 @@ Portuguese
 * [iphanmem](https://iphanmem.net/) - *Software*
 * [khophanmem24h](https://khophanmem24h.com/) - *Software*
 * [kysuthietke](https://kysuthietke.com/) - *Engineering Software*
-
-## ▷ Streaming
-
-* [Phimplay](https://phimplay.com/) - *Movies*
 
 ## ▷ Reading
 
