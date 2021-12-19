@@ -15,7 +15,7 @@
 * **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - *Download GFX Design Software*
 * **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/), [4](https://mega.nz/file/E5MwmT5Z#YP-vMSTcm8voKjb72_nHsLYH1AGmliWsbUGXVJhNHDE) - *Design Tool Resource Indexes*   
 * **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - *Glitch Images*
-* [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy) or [Glitterly](https://glitterly.app/) - *Graphic Design Program*
+* [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/) or [Glitterly](https://glitterly.app/) - *Graphic Design Program*
 * [Scribus](http://www.scribus.net/) - *Page Layout & Typesetting Program*
 * [FreeCourseSEO](https://freecourseo.com/) - *GFX Design Courses / [Telegram](https://t.me/freecoursessite1)*
 * [1TB Art Courses](https://pastebin.com/hKgJG2Vz) - *Art Courses*
@@ -123,7 +123,7 @@
 * [FakeReceipt](http://www.fakereceipt.us/) - *Create Fake Receipts*
 * [The Rasterbator](https://rasterbator.net/) - *Wall Art Generator* 
 * [Flag Maker](https://flagmaker-print.com/pages/flag-maker) - *Flag Creator*
-* [ArmorLab](https://armorlab.org/) - *Texture Generator / [GitHub](https://github.com/armory3d/armorlab)*
+* [ArmorLab](https://armorlab.org/) or [TextureLab](https://www.texturelab.io/) - *Texture Generator / [GitHub](https://github.com/armory3d/armorlab)*
 * [The Wood Workshop](http://spiralgraphics.biz/ww_overview.htm) - *Wood Texture Editor / Creator*
 * [PlantStudio](https://www.kurtz-fernhout.com/summary_plantstudio.html) - *Plant Model / Illustration Creator* 
 * [Dummy Image](https://dummyimage.com/) - *Dynamic Dummy Image Generator* 
@@ -252,6 +252,7 @@
 * [Generated Photos](https://generated.photos/) - *AI Generated Model Photos*
 * [Blender](https://www.blender.org/) - *Open Source 3D Modeler / 2D Animation / Video Editor*
 * [3D Modeling Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps) - *Free 3D Modeling Apps* 
+* [Armorpaint](https://armorpaint.org/) - *3D Painting Software*
 * [MakeHuman](http://www.makehumancommunity.org/) - *3D Humanoid Modeler*
 * [posemy](https://app.posemy.art/), [quickposes](https://quickposes.com/en) or [justsketch](https://app.justsketch.me/) - *Posing Tools*
 * [FaceMaker](http://facemaker.uvrg.org/) - *Face / Avatar Generator* 
