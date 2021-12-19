@@ -467,7 +467,6 @@
 * [Free VPN Online](http://freevpnonline.com/) - *Free VPN*
 * [TouchVPN](https://touchvpn.net/) - *Free VPN*
 * [Calyx VPN](https://calyx.net/) - *Free VPN*
-* [Sentinel](https://sentinel.co/) - *Free VPN / [/r/SENT](https://reddit.com/r/SENT)* 
 * [FreePN](https://www.freepn.org/) - *Free Open Source P2P VPN* 
 * [TunnelBear](https://www.tunnelbear.com/) - *Free VPN / 500mb only*
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
