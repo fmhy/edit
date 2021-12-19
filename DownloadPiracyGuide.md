@@ -24,12 +24,12 @@
 * [Google TeamDrive's](https://onehack.us/t/tds-with-tbs-of-movies-web-series-courses-games-etc/77628) 
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28) 
 * [PureXClydey](https://www.purexclydey.com/xdd/uploads/) 
-* [Drive List](https://redd.it/owdvw7) -
+* [Drive List](https://redd.it/owdvw7)
 * [Public.crackhub](https://public.crackhub.site/) 
 * [index-of](http://index-of.es/) 
 * [Manny Hackers](https://apd.msbots.workers.dev/0:/)
 * [Mirror Bot](https://mirrorbot.sarutobi.workers.dev/)
-* [matrixmirror](https://t.me/matrixmirror) - *[Drive](https://drive.matrixbots.workers.dev/0:/) / user: matrixbots pw: shit*
+* [matrixmirror](https://drive.matrixbots.workers.dev/0:/) - *[Telegram](https://t.me/matrixmirror) / user: matrixbots pw: shit*
 * [Public Drive Bot](https://index.isumit.workers.dev/)
 * [blacklistedbois](https://dl.blacklistedbois.workers.dev/0:/)
 * [TorrentLeech Drive](https://torrentleech.torrentleech-gdrive.workers.dev/) 
@@ -58,12 +58,12 @@
 * [Open Directory Index](https://docs.google.com/document/d/1xyyplaw8uyHyaq79YEqtBT85vIqWu0wq7RYFEqbQybc/), [2](https://www.google.com/search?q=site:reddit.com/r/opendirectories+odshot+after:2018), [3](https://opndir.com/), [4](https://redd.it/lvdwlm), [5](https://github.com/strawhat-pirates/notes/blob/master/opendirectories.txt), [6](https://bin.disroot.org/?3082f04205be7af6#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34), [7](https://gist.github.com/Chaphasilor/718e13c1f654b7b0e49b3b41e4855f50) - *Open Directory Indexes*
 * [ODCrawler](https://odcrawler.xyz/), [CatFiles](https://www.catfiles.net/) or [mmnt](https://www.mmnt.net/) - *Open Directory Search Engine*
 * [ODS](https://sites.google.com/view/l33tech/tools/ods) - *Open Directory CSE*
-* [Napalm FTP](https://www.searchftps.net/), [Proisk](https://proisk.com/) or [Search-22](https://search-22.com/ftp-search-tools) - *FTP Search*
+* [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/), [Proisk](https://proisk.com/) or [Search-22](https://search-22.com/ftp-search-tools) - *FTP Search*
 * [dedigger](https://www.dedigger.com/) - *GDrive File Search* 
 * [MegaDownload](http://megadownload.net/) or [Megasearch](http://megasearch.co/) - *Mega File Search* 
 * [Create Open Directory Search Engine](https://redd.it/d3w2fu)
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) or [AutoIndex](http://autoindex.sourceforge.net/) - *Open Directory Indexer* 
-* [Directory Lister](https://directorylister.com/) - *Open Directory Explorer*
+* [Directory Lister](https://directorylister.com/) or [OpenDirectoryDownloader](https://open-directory-downloader.herokuapp.com/) - *Open Directory Explorer*
 * [IRC / XDCC Tutorial](https://www.theloadguru.com/xdcc-irc-beginners-guide/), [2](https://github.com/mayfrost/guides/blob/master/IRC.md), [3](https://libera.chat/guides/)
 * [Awesome IRC](https://github.com/davisonio/awesome-irc) - *IRC Resource Index*
 * [xdccget](https://github.com/Fantastic-Dave/xdccget) - *XDCC IRC Downloader*
