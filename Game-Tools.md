@@ -21,7 +21,7 @@
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner) - *Graphics Card Overclocking Utility / FPS Benchmarking*
 * [MSI Kombustor](https://msikombustor.com/) - *GPU Benchmark Test*
 * [Overclock](https://www.overclock.net/) - *Overclocking Forum*
-* [WindowedBorderlessGaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - *Borderless Windows for All Games*
+* [WindowedBorderlessGaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - *Borderless Windows for All Games*
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - *Play Fullscreen Only Games in Window*
 * [DisplayMagician](https://github.com/terrymacdonald/DisplayMagician) - *Per-Game Display Profiles*
 * [LinkRunner](https://github.com/romjacket/rj_linkrunner) - *Per-Game Settings Manager*
@@ -73,6 +73,7 @@
 * [Xbox for Python](https://github.com/r4dian/Xbox-Controller-for-Python) - *Xbox Controller Xinput Module*
 * [DsHidMini](https://github.com/ViGEm/DsHidMini) - *Use PS3 Controllers on Windows [Guide](https://vigem.org/projects/DsHidMini/How-to-Install/)*
 * [JoyToKey](https://joytokey.net/) - *Controller Emulator*
+* [Joystick Curves](https://www.xedocproject.com/joystickcurves.html) - *Virtual Joystick Emulator*
 * [Lowkey](https://lowkey.gg/) - *Record / Screenshot Gameplay* 
 * [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) or [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
 * [Pokemon Typechart](https://pokemondb.net/type) - *Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)*
@@ -150,6 +151,7 @@
 ## ▷ Steam Tools
 
 * **[A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)** or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - *Steam Tools Index*
+* [Depressurizer](https://github.com/Depressurizer/Depressurizer) - *Steam Library Organizer*
 * [SteamDB](https://steamdb.info/) - *Steam Insights Tool*
 * [SteamCleaner](https://github.com/Codeusa/SteamCleaner) - *Remove Data Left Behind by Game Clients* 
 * [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) / [GitHub](https://github.com/MAXBURAOT/SmartSteamEmu), [Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator) / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg), [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - *Steam Client Emulator* 
