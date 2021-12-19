@@ -146,7 +146,6 @@
 * [Electerm](https://electerm.github.io/electerm) - *Terminal / SSH / STP Client*
 * [Yakuake](https://apps.kde.org/yakuake/) - *Quake Style Terminal Emulator*
 * [theme.sh](https://github.com/lemnos/theme.sh) - *Custom Terminal Themes*
-* [Tabby](https://tabby.sh/) - *Modern Style Terminal*
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - *Generate bonsai trees in your terminal*
 * [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - *App Image Launcher*
 * [Remontoire](https://github.com/regolith-linux/remontoire) - *Keybind Viewer for i3*
@@ -278,7 +277,6 @@
 * [USBMap](https://github.com/corpnewt/USBMap) - *Map MacOS USB Ports*
 * [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
 * [iTerm2](https://iterm2.com/) - *Replacement for Terminal*
-* [Tabby](https://tabby.sh/) - *Modern Style Terminal*
 * [Pictogram](https://pictogramapp.com/) - *Custom App Icons*
 * [IconSet](https://github.com/tale/iconset) - *Custom System Icons*
 * [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - *MacOS Dynamic Wallpaper App*
