@@ -747,7 +747,7 @@
 * [Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) - *Stream Torrents via Clients*
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) or [ReloTV](https://www.reloltv.com/) - *Stream Torrents in Browser*
 * [Radarr](https://radarr.video/) - *Movie Torrent Autodownload / [GitHub](https://github.com/Radarr/Radarr)*
-* [Sonarr](https://sonarr.tv/) / [GitHub](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - *TV Torrent Autodownload*
+* [Sonarr](https://sonarr.tv/) / [GitHub](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - *TV Torrent Autodownload / [Guide](https://wiki.servarr.com/)*
 * [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - *Movie / TV autodownload / [Discord](https://discord.gg/PFwM4zk)*
 * [SickChill](https://sickchill.github.io/) or [CouchPotato](https://couchpota.to/) - *Automatic torrent/nzb searching, downloading & processing / Manager*
 * [Autodownload Tools](https://redd.it/hbwnb2) - *All Autodownload Tools*
