@@ -250,8 +250,6 @@
 * [Sketch2Code](https://sketch2code.azurewebsites.net/) - *Convert Hand-Drawn Designs into HTML*
 * [Straw.Page](https://straw.page/), [Temper](https://temper.one/) or [Neocities](https://neocities.org/) - *Simple Site Creator*
 * [LocalXpose](https://localxpose.io/) - *Reverse Proxy*
-* [IPFS Desktop](https://github.com/ipfs/ipfs-desktop) or [Orion](https://orion.qm64.tech/) - *IPFS Desktop Client*
-* [IPFS Cluster](https://cluster.ipfs.io/) - *Automated data availability and redundancy on IPFS*
 * [BuiltWith](https://builtwith.com/) - *Find Out What Sites are Built With*
 * [Bootstrap](https://bootstrapmade.com/) or [TheMeWagon](https://themewagon.com/) - *Website Templates & Themes*
 * [Elements Envato](https://qltien.com/elements/getcode/babiato.html) or [PsdRepo](https://psdrepo.com/) - *Templates, Mockups, Logos, Video*
@@ -335,7 +333,10 @@
 * [KokoAnalytics](https://www.kokoanalytics.com/) - *Wordpress Analytics*
 * [vichan](https://github.com/vichan-devel/vichan) - *Imageboard Hosting*
 * [ProBoards](https://www.proboards.com/) - *Forum & Imageboard Hosting*
-* [MyBB](http://www.mybb.com/) or [PHPBB](https://www.phpbb.com/) - *Forum Hosting*
+* [MyBB](http://www.mybb.com/, [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - *Forum Hosting*
+* [Media Wiki](https://www.mediawiki.org/), [xWiki](http://www.xwiki.org/xwiki/bin/view/Main/), [tWiki ](https://twiki.org/) or [DokuWiki](https://www.dokuwiki.org/dokuwiki) - *Host Free Wiki*
+* [HumHub](https://www.humhub.org/) or [scuttlebutt](https://scuttlebutt.nz/) - *Self-Hosted Social Network*
+* [Aether](https://getaether.net/) - *P2P Ephemeral Public Communities*
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - *Private Tracker Hosting*
 * [UUID Tools](https://www.uuidtools.com/) - *UUID Generator*
 
@@ -449,7 +450,7 @@
 * [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/) or [SimpleCSS](https://simplecss.org/) - *CSS Framework*
 * [TailBlocks](https://tailblocks.cc/) - *Ready-to-use Tailwind CSS Blocks*
 * [MarkdownGuide](https://www.markdownguide.org/) - *Guide for Markdown (.md)* 
-* [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [Markdownify](https://markdownify.js.org/) or [Mark Text](https://github.com/marktext/marktext) - *Markdown Editor* 
+* [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/) or [Mark Text](https://github.com/marktext/marktext) - *Markdown Editor* 
 * [Markdown Editor for Firefox](https://addons.mozilla.org/en-US/firefox/addon/markdown-editor-premium/) - *Markdown Editor Extension* 
 * [Table Magic](https://stevecat.net/table-magic/) - *CSV, HTML & Markdown Converter*
 * [Markdown To HTML](https://markdowntohtml.com/) - *Markdown to HTML Converter*
@@ -665,6 +666,6 @@
 * [myCompiler](https://www.mycompiler.io/), [IDE One](https://www.ideone.com/) or [Wandbox](https://wandbox.org/) - *Online Compiler* 
 * [Notebooks.azure](https://notebooks.azure.com/) - *Access Jupyter notebooks* 
 * [CoCalc](https://cocalc.com/) - *Virtual online workspace*
-* [CodePen](https://codepen.io/) or [Liveweave](https://liveweave.com/) - *Code Sandbox* 
+* [CodePen](https://codepen.io/), [Web Maker](https://webmaker.app/ ) or [Liveweave](https://liveweave.com/) - *Code Sandbox* 
 * [tio.run](https://tio.run/) - *Programming Language Interpreters* 
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - *Online Python Editor & Tester*
