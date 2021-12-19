@@ -71,9 +71,13 @@
 * [TutsNode](https://tutsnode.net/) - *Udemy Courses*
 * [/r/udemyfreebies](https://reddit.com/r/udemyfreebies) - *Udemy Courses*
 * [Automatic-Udemy-Course-Enroller](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE), [Discounted-Udemy-Course-Enroller](https://github.com/techtanic/Discounted-Udemy-Course-Enroller) or [UdemyEnrollEverywhere](https://github.com/keethesh/UdemyEnrollEverywhere) - *Auto Udemy Course Enrollment*
-* [Online Courses Tracker](https://comidoc.net/) - *Udemy Coupons / Courses*
-* [SmartyBro](https://smartybro.com/) - *Udemy Coupons / Courses* 
-* [CourseVania](https://t.me/joinchat/AAAAAEGltVf2DWWdtm_-cQ) - *Udemy Coupons / Telegram*
+* [Online Courses Tracker](https://comidoc.net/) - *Udemy Courses / Courses*
+* [SmartyBro](https://smartybro.com/) - *Udemy Courses / Courses* 
+* [CourseVania](https://t.me/Coursevania) - *Udemy Courses / Telegram*
+* [course_drive](https://t.me/course_drive) - *Udemy Courses / Telegram*
+* [freecourseweb](https://t.me/freecourseweb) - *Udemy Courses / Telegram*
+* [udemyforu](https://t.me/udemyforu) - *Udemy Courses / Telegram*
+* [CGPERS](https://t.me/CGPERS) - *Udemy Courses / Telegram*
 * [Udemy Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons) - *Udemy Coupon Sites*
 * [GUdemyBot](https://t.me/GUdemyBot) - *Udemy Coupon Bot* 
 
