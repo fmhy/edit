@@ -845,13 +845,17 @@
 * [Manga.Fanscans](https://manga.fascans.com/)
 * [CMReader](https://www.cmreader.info/)
 * [NiAdd](https://niadd.com/) 
-* [1stKissManga](https://1stkissmanga.com/)
+* [1stKissManga](https://1stkissmanga.com/), [2](https://1stkissmanga.io/)
 * [Mangazuki](https://mangazuki.me/) 
+* [mangaowls](https://mangaowls.com/) 
+* [mangapill](https://mangapill.com/) 
+* [projectsuki](https://projectsuki.com/) 
 * [ReadMng](https://www.readmng.com/) or [MngDoom](https://www.mngdoom.com/)
 * [NineAnime](https://www.nineanime.com/category/)
 * [WuxiaWorld](https://wuxiaworld.site/ ) - *Manga / Novels* 
 * [MANGAen](https://t.me/MANGAen) - *Manga / Telegram* 
 * [BookDL Comic & Manga](http://booksdl.org/comics0/) - *Comics / Manga / Drive*
+* [Manhua / Manhwa Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manhua_.2F_manhwa_manga) - *Manhua & Manhwa Manga Sites*
 * [Dynasty Scans](https://dynasty-scans.com/) - *Yuri*
 * [BoysLove](https://boyslove.me/) - *Yaoi* 
 * [WhereCanIReadManga?](https://wherecanireadmanga.com/) - *Legal*
