@@ -1005,7 +1005,8 @@ RSS Player*
 # ► iOS Reading 
 
 * [BookPlayer](https://github.com/TortugaPower/BookPlayer) - *Audiobook Player*
-* [ZETSU](https://testflight.apple.com/join/emEhlNGn) *Manga Reader*
+* [MangaToon](https://apps.apple.com/us/app/mangatoon-manga-reader/id1385287093) - *Manga*
+* [ZETSU](https://apps.apple.com/us/app/zetsu-by-orion/id1510161371) - *Manga Reader*
 * [Paperback](https://paperback.moe/) - *Manga Reader / [Discord](https://discord.gg/Ny83JV3)*
 * [Manga Max](https://apps.apple.com/us/app/apple-store/id1558957618) - *Manga Reader*
 * [Manga Bird](https://apps.apple.com/us/app/manga-bird-best-manga-reader/id834760417) - *Manga Reader*
