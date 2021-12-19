@@ -119,6 +119,8 @@
 * [Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - *Note Taking & To-do Apps*
 * [Manuskript](https://www.theologeek.ch/manuskript/) - *Writing Organizer & Planner*
 * [KiloDoc](https://www.kilodoc.com/) - *Online Document Editor* 
+* [Writemonkey](http://writemonkey.com/) - *Distraction Free Writing App*
+* [EncryptPad](https://evpo.net/encryptpad/) - *Encrypted Text Editor*
 * [Nute](https://nute.app/) - *Quickly Make & Save Text Files*
 * [Lyx](https://www.lyx.org/) - *LaTeX Editor / [Guide](https://www.learnlatex.org/)*
 * [Detexify](http://detexify.kirelabs.org/classify.html) - *Handwritten LaTeX Symbol Recognition*
@@ -131,6 +133,7 @@
 * [Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en) or [Talk to Transformer](https://app.inferkit.com/demo) - *Text Autocomplete* 
 * [EleutherAI](https://6b.eleuther.ai/) - *Text / Story Autocomplete*
 * [StoryAI](https://storyai.botsociety.io/) - *Story Autocomplete*
+* [Twinery](https://twinery.org/) - *Interactive Non-Linear Story Creator*
 * [Lorem Ipsum Generator](https://apps.maximelafarie.com/lig/) - *Generate Placeholder Text*
 * [text-regenerator](https://github.com/jddunn/text-regenerator) - *Replace Words with Synonyms*
 * [Honk.moe](https://honk.moe/tools.html) - *Shitposting Text Generators*
@@ -550,11 +553,8 @@
 * [BrowserParrot](https://www.browserparrot.com/) - *Browser History Search Engine*
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - *Tools / Apps to Run Flash Programs*
 * [Nativefier](https://github.com/nativefier/nativefier), [Applicationize](https://applicationize.me/now) or [web2desk](https://appmaker.xyz/web2desk/) - *Turn Sites into Desktop Apps* 
-* [Bear Blog](https://bearblog.dev/) or [twtxt](https://github.com/buckket/twtxt) - *Microblogging Platform*
+* [Bear Blog](https://bearblog.dev/), [write freely](https://writefreely.org/) or [twtxt](https://github.com/buckket/twtxt) - *Microblogging Platform*
 * [SpookyX](https://github.com/Fiddlekins/SpookyX) - *Adds Features to Imageboards*
-* [Media Wiki](https://www.mediawiki.org/), [xWiki](http://www.xwiki.org/xwiki/bin/view/Main/), [tWiki ](https://twiki.org/) or [DokuWiki](https://www.dokuwiki.org/dokuwiki) - *Host Free Wiki*
-* [FreeFlarum](https://freeflarum.com/) - *Self-Hosted Forum Software*
-* [HumHub](https://www.humhub.org/) - *Self-Hosted Social Network*
 * [Rambox](https://rambox.pro/) / [GitHub](https://github.com/ramboxapp/download/releases), [Ferdi](https://getferdi.com/), [Pidgin](https://www.pidgin.im/), [Hamsket](https://github.com/TheGoddessInari/hamsket), [matterbride](https://github.com/42wim/matterbridge) or [Franz](https://meetfranz.com/) - *Combine Web Apps / Chats*
 * [Slapdash](https://slapdash.com/) - *Connect Cloud Apps* 
 * [Automation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - *Automate Internet Tasks*
@@ -1306,7 +1306,7 @@ G) - *Create Discord RPCs*
 * [Ryzen Hackintosh](https://github.com/mikigal/ryzen-hackintosh) - *MacOS VM for Ryzen*
 * [XiaoMi NoteBook Pro Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - *MacOS VM for XiaoMi NoteBooks*
 * [VMWare](https://gist.github.com/rkennesson/2c4595bf062aaab387dccf1210accf98) - *Hide Virtual Machine*
-* [QuickEmu](https://github.com/wimpysworld/quickemu) - *Virtual Machine Creator*
+* [QuickEmu](https://github.com/wimpysworld/quickemu) or [Dexpot](https://www.dexpot.de/) - *Virtual Machine Creator*
 * [vBoxSysInfoMod](https://github.com/JayMontana36/vBoxSysInfoMod) - *Modify VM System Info*
 * [Windows Sandbox](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview) or [Sandboxie Plus](https://sandboxie-plus.com/) - *Sandbox Environment*
 * [WebCatalog](https://webcatalog.app/) - *Turn Sites into Desktop Apps*
@@ -1670,6 +1670,8 @@ G) - *Create Discord RPCs*
 * [EXIFTool](https://exiftool.org/), [ExtractMetadata](https://www.extractmetadata.com/), [Metadata2Go](https://www.metadata2go.com/) or [Metashield](https://metashieldclean-up.elevenpaths.com/) - *Metadata Viewer / Editor*
 * [IPFS](https://ipfs.io/) - *P2P Hypermedia Protocol / [Extension](https://github.com/ipfs-shipyard/ipfs-companion)* 
 * [Awesome-IPFS](https://github.com/ipfs/awesome-ipfs) - *IPFS Resource Index* 
+* [IPFS Desktop](https://github.com/ipfs/ipfs-desktop) or [Orion](https://orion.qm64.tech/) - *IPFS Desktop Client*
+* [IPFS Cluster](https://cluster.ipfs.io/) - *Automated data availability and redundancy on IPFS*
 * [AutoRclone](https://drive.google.com/file/d/11yrXPUfWEP6bAeIw0fibjr-JxeWa-1Da/) - *Create Google Service Accounts for RClone / [GitHub](https://github.com/xyou365/AutoRclone) / [Colab](https://github.com/Rekulous/AutoRClone-Colab), [2](https://colab.research.google.com/github/Rekulous/AutoRClone-Colab/blob/main/AutoRClone.ipynb)*
 * [rclone-colab](https://github.com/Pavithran-R/rclone-colab) - *Run Rclone in Colab*
 * [EasyClone](https://github.com/xd003/easyclone) - *Improved RClone Operations Script*
@@ -1705,6 +1707,7 @@ G) - *Create Discord RPCs*
 * [Windows compact](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/compact) - *Displays or alters the compression of files or directories on NTFS partitions + [GUI 1](https://github.com/ImminentFate/CompactGUI) or [GUI 2](https://github.com/Freaky/Compactor)*
 * [Snap2HTML](https://rlvision.com/snap2html/about.php) - *Take HTML Snapshots of Folder / File Structures*
 * [Corrupt My File](http://www.corruptmyfile.com/) or [Corrupt-A-File](https://corrupt-a-file.net/) - *Intentionally Corrupt your Files*
+* [Minissign](https://jedisct1.github.io/minisign/) - *Sign and Verify Signatures*
 * [HashTab](http://implbits.com/products/hashtab/), [HashCheck](https://github.com/idrassi/HashCheck) or [OpenHashTab](https://github.com/namazso/OpenHashTab) - *Calculate / Check File Hashes* 
 * [QuickSFV](https://quicksfv.org/), [RapidCRC](http://rapidcrc.sourceforge.net/) or [QuickDash](https://github.com/AndreVuillemot160/QuickDash/) / [Discord](https://discord.gg/ZuxmMXdGpm) - *File Hashing / Verification Tools*
 * [Hashes](https://hashes.com/) - *Decrypt Hashes*
