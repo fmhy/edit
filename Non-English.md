@@ -784,7 +784,7 @@
 * [Pixinema](https://www.pixinema.ir/) - *Soundtracks*
 * [game4pc](https://game4pc.ir) - *Games*
 * [gold-team](https://gold-team.ir/) - *Games / Cracked Online Tutorials*
-* [dastras](https://t.me/dastras) - *Android / Telegram* 
+* [dastras](https://t.me/dastras) - *Modded APKs / Telegram* 
 * [git_ir](https://t.me/git_ir) - *Programming Training* 
 * [Hide01](https://hide01.ir/) - *Security / Antivirus / Courses*
 
