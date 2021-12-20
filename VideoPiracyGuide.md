@@ -50,7 +50,6 @@
 * [111.90.159.132](https://111.90.159.132/hollywood-movies/) - *Movies*
 * [162.12.215.254](http://162.12.215.254/) - *Movies / [Drive](http://162.12.215.254/Data/Movies/)*
 * [Rainierland](https://rainierland.to/) - *Movies / TV* 
-* [ClubFilm](https://clubfilm4.xyz/) - *Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [MelliMovies](https://mellimovies2.tk/) - *Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)* 
 * [SuperNova](https://supernova.to/) - *Movies / TV / Anime* 
 * [Vumoo](https://vumoo.to/) - *Movies / TV* 
@@ -70,7 +69,6 @@
 * [YesMovies.sh](https://yesmovies.sh/) - *Movie / TV / Anime* 
 * [123MoviesFree](https://123moviesfree.net/) - *Movies / TV / Anime* 
 * [Gophie](https://gophie.cam/) - *Movies / TV*
-* [SmFlix](https://smflix.cc/) - *Movies / TV*
 * [KollaFilm](https://kollafilm.com/) - *Movies / TV*
 * [StreamLord](http://www.streamlord.com/) - *Movies / TV*
 * [9PM](https://9pm.to/) - *Movies / TV*
