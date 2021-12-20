@@ -326,6 +326,7 @@
 * [Audiocite](https://www.audiocite.net/) - *Audiobooks* 
 * [zone-ebook.com](https://zone-ebook.com/) - *Magazines / Newspapers / Books / Audiobooks / Comics*   
 * [fourtoutici](http://www.fourtoutici.pro/) - *Document Search*  
+* [nooSFere](https://www.noosfere.org/) - *Science Fiction*
 * [japscan](https://www.japscan.ws/) - *Manga*
 * [scantrad](https://scantrad.net/) - *Manga* 
 * [scan-fr](https://www.scan-fr.cc/) - *Manga* 
@@ -726,7 +727,6 @@
 ## ▷ Downloading
 
 * **[downloadha](https://www.downloadha.com/)** - *Video / Audio / Software / Games / Android* 
-* **[ClubFilm](https://clubfilm4.xyz/)** - *Movies / TV*
 * [TelFiles_Bot](https://t.me/TelFiles_Bot) - *Persian File to Direct Link Telegram Bot* 
 * [soft98](https://soft98.ir/) - *Software / Courses / eBooks*
 * [Asian Drama Sites (Persian)](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_asian_drama_download) 
