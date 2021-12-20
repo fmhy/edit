@@ -134,7 +134,7 @@
 * [ReverseEagle](https://forge.tedomum.net/groups/ReverseEagle/-/archived), [2](https://web.archive.org/web/20210116205638/https://developers.reverseeagle.org/) - *Privacy Focused Developer Software*
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - *Open Source Development Software*
 * [Student Developer Pack](https://education.github.com/pack) - *Free Developer Tools for Students* 
-* [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [Graphic Design Elements](https://onehack.us/t/get-20-000-graphic-design-elements/155320), [ImCreator](http://www.imcreator.com/free), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/), [GraphicBurger](https://graphicburger.com/) or [Freebiesbug](http://freebiesbug.com/)  - *Design Resources*
+* [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [Graphic Design Elements](https://onehack.us/t/get-20-000-graphic-design-elements/155320), [ImCreator](http://www.imcreator.com/free), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [SketchRepo](https://sketchrepo.com/) or [Freebiesbug](http://freebiesbug.com/)  - *Design Resources*
 * [Libera Chat](https://libera.chat/) - *IRC Network for Project Collaboration*
 * [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/)  - *Developer Forum* 
 * [The Devs Network](https://thedevs.network/) - *Developer Chat*
@@ -242,12 +242,11 @@
 * [WebScarab](https://wiki.owasp.org/index.php/Category:OWASP_WebScarab_Project) - *HTTP / HTTPS Protocol Analysis*
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist* 
 * [Flounder](https://flounder.online/) - *Gemini Website Builder / [GitHub](https://github.com/alexwennerberg/flounder)* 
-* [GoHugo](https://gohugo.io/), [vveb](https://www.vvveb.com/), [Potion](https://www.potion.so/) or [8b](https://8b.com/) - *Website Creator*
+* [GoHugo](https://gohugo.io/), [Jamstack Generators](https://jamstack.org/generators/), [Hugo](https://gohugo.io/), [Jekyll](https://jekyllrb.com/), [vveb](https://www.vvveb.com/), [Potion](https://www.potion.so/) or [8b](https://8b.com/) - *Website Creators*
 * [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - *Webpage Editor* 
 * [Plunker](https://plnkr.co/) - *Prototype / Test Websites Ideas*
 * [Bootstrap](https://getbootstrap.com/) - *Mobile Site Creator / [Icons](https://github.com/twbs/icons) / [Snippets](https://bootsnipp.com/)*
 * [Brython](https://brython.info/) - *Python 3 Web Scripting Language*
-* [Jamstack Generators](https://jamstack.org/generators/) - *Static Site Generators*
 * [Sketch2Code](https://sketch2code.azurewebsites.net/) - *Convert Hand-Drawn Designs into HTML*
 * [Straw.Page](https://straw.page/), [Temper](https://temper.one/) or [Neocities](https://neocities.org/) - *Simple Site Creator*
 * [LocalXpose](https://localxpose.io/) - *Reverse Proxy*
@@ -443,7 +442,7 @@
 * [Leon's CSS](https://leonarnott.neocities.org/ ) - *CSS Text Styles*
 * [Hover.CSS](https://ianlunn.github.io/Hover/) - *CSS Hover Effects* 
 * [BestCSSButtonGenerator](https://www.bestcssbuttongenerator.com/) - *CSS Button Generator*
-* [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds) - *CSS Background Patterns* 
+* [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds), [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://gradienta.io/), [heropatterns](https://heropatterns.com/), [thepatternlibrary](http://thepatternlibrary.com/) or [uigradients](https://uigradients.com/) - *CSS Patterns* 
 * [Gradient Animator](https://www.gradient-animator.com/) - *Animated CSS Gradient Generator*
 * [Animista](https://animista.net/) - *Tweak / Download CSS Animations*
 * [css2scss](https://sebastianpontow.de/css2compass/) - *CSS to SCSS Converter* 
@@ -455,6 +454,7 @@
 * [Markdown Editor for Firefox](https://addons.mozilla.org/en-US/firefox/addon/markdown-editor-premium/) - *Markdown Editor Extension* 
 * [Table Magic](https://stevecat.net/table-magic/) - *CSV, HTML & Markdown Converter*
 * [Markdown To HTML](https://markdowntohtml.com/) - *Markdown to HTML Converter*
+* [Word2md](https://word2md.com/) - *Word to Markdown Converter*
 * [Obsidian](https://obsidian.md/) - *Markdown File Organizer*  
 * [MarkdownPastebin](https://markdownpastebin.com/) - *Markdown Pastebin*
 
@@ -530,7 +530,7 @@
 
 * [SpyColor](https://www.spycolor.com/) - *Color Model Conversions*
 * [Colorful](https://github.com/Siddharth11/Colorful) - *Curated List of Color Scheme Resources* 
-* [Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [MyColor](https://mycolor.space/), [MaterialPalette](https://www.materialpalette.com/), [Adobe Colors](https://color.adobe.com/), [ColorHunt](https://colorhunt.co/) or [Coolors](https://coolors.co/) - *Color Palette Generator*
+* [Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [MyColor](https://mycolor.space/), [MaterialPalette](https://www.materialpalette.com/), [Adobe Colors](https://color.adobe.com/), [0to255](https://www.0to255.com/), [0xrgb](http://0xrgb.com/), [bootflat](https://bootflat.github.io/color-picker.html), [brandcolors](https://brandcolors.net/), [colorfulgradients](https://colorfulgradients.tumblr.com/), [colourlovers](https://www.colourlovers.com/), [webkul](https://webkul.github.io/coolhue/), [flatuicolors](https://flatuicolors.com/), [materialui](https://materialui.co/colors/), [ColorHunt](https://colorhunt.co/) or [Coolors](https://coolors.co/) - *Color Palette Generator*
 * [ColorsAndFonts](https://www.colorsandfonts.com/) - *Quickly Copy Colors & Typography Combinations* 
 * [ColorHexa](https://www.colorhexa.com/) - *Color Hex Encyclopedia*  
 * [Paletton](https://paletton.com/) - *Color Scheme Designer*
@@ -635,6 +635,7 @@
 * [CrystalShards](https://crystalshards.org/) - *Crystal Programming Shards*
 * [Crystalline](https://github.com/elbywan/crystalline) - *Crystal Language Server*
 * [scry](https://github.com/crystal-lang-tools/scry) - *Crystal Code Analysis Server*
+* [icr](https://github.com/crystal-community/icr) - *REPL for Crystal*
 * [CP Editor](https://cpeditor.org/) - *Competitive Programming Code Editor*
 * [Winddown](https://github.com/schneefux/vscode-winddown) or [Sandman](https://alexanderepstein.github.io/Sandman/) - *Coding Break Reminders*
 * [ThemesElection](https://themeselection.com/) - *Programming UI Themes*
