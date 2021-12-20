@@ -226,7 +226,6 @@
 
 * **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) - *Multi-Site Search*
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "audio"*
-* **[/r/RipRequests](https://www.reddit.com/r/riprequests/)** - *FLAC / MP3*
 * **[DoubleNegative](https://doublenegative.io/)** - *TIDAL & Deezer Downloader*
 * **[Free MP3 Download](https://free-mp3-download.net/)** - *Search / MP3 / FLAC*
 * **[Mudome](https://mudome.org/)** - *MP3 / FLAC*
@@ -342,7 +341,7 @@
 * [Kiddie Records](http://www.kiddierecords.com/) - *Classic Children's Records*
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- *MIDI Files* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
-* [Free Music Archive](https://www.freemusicarchive.org/), [BenSound](https://www.bensound.com/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
+* [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [Soundimage](https://soundimage.org/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
 
 ***
 
