@@ -557,6 +557,7 @@
 * [SeeLink](https://www.seelink.app/) - *Collaborative Bookmarking*
 * [Instapaper](https://www.instapaper.com/) - *Bookmarking Tool*
 * [Bort](https://bort.io/) - *Bookmark Manager that Syncs with Dropbox* 
+* [wallabag](https://wallabag.org/) - *Save and Classify Articles*
 * [BrowserParrot](https://www.browserparrot.com/) - *Browser History Search Engine*
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - *Tools / Apps to Run Flash Programs*
 * [Nativefier](https://github.com/nativefier/nativefier), [Applicationize](https://applicationize.me/now) or [web2desk](https://appmaker.xyz/web2desk/) - *Turn Sites into Desktop Apps* 
