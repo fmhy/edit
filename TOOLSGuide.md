@@ -122,11 +122,14 @@
 * [KiloDoc](https://www.kilodoc.com/) - *Online Document Editor* 
 * [Writemonkey](http://writemonkey.com/) - *Distraction Free Writing App*
 * [EncryptPad](https://evpo.net/encryptpad/) - *Encrypted Text Editor*
+* [Calculist](https://calculist.io/) - *Note Taking for Problem Solving*
+* [journaltxt](https://journaltxt.github.io/) - *Single Text File Journals*
 * [Nute](https://nute.app/) - *Quickly Make & Save Text Files*
 * [Lyx](https://www.lyx.org/) - *LaTeX Editor / [Guide](https://www.learnlatex.org/)*
 * [Detexify](http://detexify.kirelabs.org/classify.html) - *Handwritten LaTeX Symbol Recognition*
 * [AirPDFtoExcel](https://airpdftoexcel.com/) - *PDF to Excel Converter*
 * [How To Use Excel](https://www.how-use-excel.com/) - *Excel Tutorial*
+* [Plain Text Table](https://plaintexttools.github.io/plain-text-table/) - *Text Tables*
 * [Read File Online](http://www.readfileonline.com/) - *Online Large Text File Viewer*
 * [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - *Rephrase / Paraphrase Text* 
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - *Detect Plagiarized Content*
@@ -157,6 +160,7 @@
 * [Ethercalc](https://ethercalc.snopyta.org/), [Baserow](https://gitlab.com/bramw/baserow), [Framacalc](https://accueil.framacalc.org/en/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - *Collaborative Spreadsheet*
 * [TinySheet](https://tinysheet.com/) - *Simple Online Spreadsheets*
 * [Jamovi](https://www.jamovi.org/) - *Statistical Spreadsheets*
+* [Diagram.codes](https://www.diagram.codes/) - *Convert Text to Diagrams*
 * [Watson](https://speech-to-text-demo.ng.bluemix.net/) or [VoiceNotebook](https://voicenotebook.com/) - *Speech to Text*
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) - *Text to Handwriting Converter*
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - *Extract Text From Any Window*
@@ -258,6 +262,7 @@
 * [Avidemux](http://fixounet.free.fr/avidemux/) - *Cut / Filter / Encode* 
 * [vidcutter](https://github.com/ozmartian/vidcutter) - *Cut Videos* 
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts*
+* [Croosfade](https://crossfade.io/) - *Video and Audio Crossfading*
 * [blur](https://github.com/f0e/blur) - *Add Motion Blur to Videos / [Tutorial](https://youtu.be/16-KU4r3BcA)* 
 * [Webm Generator](https://github.com/dfaker/WebmGenerator) - *Webm Editor*
 * [MergeMP4](https://maple3142.github.io/mergemp4/) - *Merge MP4 Video & Audio* 
@@ -420,6 +425,7 @@
 * [beets.io](http://beets.io/) / [2](https://github.com/beetbox/beets), [Zortam](https://www.zortam.com/), [MP3Tag](https://www.mp3tag.de/en/), [MusicBee](https://getmusicbee.com/) or [MusicBrainz](https://picard.musicbrainz.org/) - *Music Metadata Organizer*
 * [Mooval](https://www.mooval.de/) - *Move Songs to or from Programs / Sites*
 * [Flacon](https://flacon.github.io/) - *Audio Track Splitter* 
+* [Croosfade](https://crossfade.io/) - *Video and Audio Crossfading*
 * [ZzFXM](https://keithclark.github.io/ZzFXM/) - *JavaScript Music Renderer* 
 * [YADG](https://yadg.cc/) - *Scrape / Render Music via Templates / [API](https://yadg.cc/api/)*
 * [Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_to_speech) - *Text to Speech Sites / Apps*
@@ -489,7 +495,7 @@
 * [9Tut](https://www.9tut.com/) - *CCNA Certification Training*
 * [GetFreeIMEBooks](https://www.getfreeimebooks.com/) - *Digital Marketing Resources*
 * [HLDMSIYS?](http://howlongdoesmarijuanastayinyoursystem.net/) - *Drug Effect Duration / Testing Information*
-* [HomeBank](http://homebank.free.fr/) or [gnucash](https://www.gnucash.org/) - *Financial Accounting Software*
+* [HomeBank](http://homebank.free.fr/), [Ledger](https://www.ledger-cli.org/) or [gnucash](https://www.gnucash.org/) - *Financial Accounting Software*
 
 ***
 
