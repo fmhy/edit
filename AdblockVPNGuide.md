@@ -526,6 +526,8 @@
 * [Nodecat](https://nodecat.digital/)
 * [ReferenceFile](https://www.referencefile.org/)
 * [ProxySite](https://www.proxysite.cc/) 
+* [Sudoproxy](https://www.sudoproxy.net/) 
+* [Globly.tech](https://globly.tech/) 
 * [immortalproxy](https://immortalproxy.com/) 
 * [ProxyOf2](https://proxyof2.com/)
 * [Proxy-URLs](https://www.proxy-urls.com/)
