@@ -340,7 +340,7 @@
 * [Yukino](https://yukino-app.github.io/) - *Anime Streaming App*
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - *Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/)* 
 * [Crunchyroll iFrame Player](https://greasyfork.org/en/scripts/411391-crunchyroll-iframe-player) - *Crunchyroll Premium Bypass Script / [GitHub](https://github.com/Mateus7G/crp-iframe-player)*
-* [Themes.moe](https://themes.moe/) - *Anime Opening & Ending Themes*
+* [Themes.moe](https://themes.moe/), [2](https://staging.animethemes.moe/wiki/) - *Anime Opening & Ending Themes*
 * [Animeflix](https://github.com/chirag-droid/animeflix) - *Sub / Dub / Self-Hosted*
 
 ***
