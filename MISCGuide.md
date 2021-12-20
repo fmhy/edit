@@ -143,7 +143,6 @@
 * [/r/AnimePiracy Discord](https://discord.gg/piracy)
 * [Pirated Games Discussion](https://github.com/taskylizard/piratedgames-megathread/discussions/3) - *Game Piracy Discussion*
 * [Gamesurge](https://gamesurge.net/) - *Gaming IRC Community*
-* [RipRequests](https://reddit.com/r/riprequests) - *FLAC / MP3 / Ripping Discussion / [Discord](https://discord.gg/y4MSkdvWYg)*
 * [GenP](https://www.reddit.com/r/GenP) - *Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)*
 * [Torrent Community](https://t.me/TorrentCommunity) - *Telegram*
 * [Archive Team](https://wiki.archiveteam.org/) - *Data Archiving Community / [Subreddit](https://www.reddit.com/r/Archiveteam/)*
@@ -318,7 +317,7 @@
 * [Update Faker](https://updatefaker.com/0) - *Fake System Update Prank*
 * [Hair on Screen](https://chrome.google.com/webstore/detail/hair-on-screen/egkikapjpndmjflbjjoondbihalgdjco) - *Fake Hair on Screen Prank*
 * [Speedtest Faker](https://jkctech.nl/projects/speedtest/) - *Fake Speedtest Results*
-* [Hacktyper](https://hackertyper.net/) or [Geektyper](https://geektyper.com/) - *Fake Hacking Screen* 
+* [Hacktyper](https://hackertyper.net/), [Hoacks](https://hoacks.com/) or [Geektyper](https://geektyper.com/) - *Fake Hacking Screen* 
 * [Peter Answers](https://www.peteranswers.com/) - *Create Fake Questions & Answers / [Tutorial](https://peteranswers.info/peter-answers-hack)* 
 * [Deep Fried Web](https://deepfriedweb.mschfmag.com/) - *Deep Fry Web Pages*
 * [No Paint](https://nopaint.art/) - *Press "Paint" if you like what you see, "No" if you don't* 
@@ -710,6 +709,7 @@
 * [MediLog](https://gitlab.com/toz12/medilog) - *Medical Data Log*
 * [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - *Insomnia Prevention Tips*
 * [eXHALeR](https://www.xhalr.com/) - *Yoga / Meditation Breathing Tool* 
+* [PixelThoughts](http://www.pixelthoughts.co/) - *60 Second Relaxation Tool*
 * [One Mind PsyberGuide](https://onemindpsyberguide.org/) - *Mental Health App Reviews*
 * [7 Cups](https://www.7cups.com/) or [OnlineCounselling4u](https://www.onlinecounselling4u.com/) - *Free Counseling & Therapy*
 * [/u/elkatiuskas' Resource List](https://redd.it/phrcrn) - *Abortion Resource Index*
@@ -756,6 +756,7 @@
 * [Earth](https://earth.nullschool.net/) - *Global Map of Wind, Weather, Ocean & Pollution Conditions*
 * [SunCalc](https://www.suncalc.org/) or [MoonCalc](https://www.mooncalc.org/) - *Sun & Moon Position / Phase Calculators* 
 * [Wikimapia](http://wikimapia.org/) - *Online Editable Map*
+* [AmCharts](https://www.amcharts.com/svg-maps/) - *SVG Maps*
 * [MapChart](https://mapchart.net/) - *Create Custom Maps* 
 * [Point Address](https://pointaddress.com/), [mapus](https://github.com/alyssaxuu/mapus) or [Scribble Maps](https://www.scribblemaps.com/create/) - *Custom Location Map*
 * [dgi](http://www.dgi.inpe.br/catalogo/) - *Match Satellite Images to Map*
@@ -839,6 +840,9 @@
 * [KevinandAmanda](https://www.kevinandamanda.com/lifestyle/crafts-projects/free-fonts/)
 * [GlukFonts](http://www.glukfonts.pl/fonts.php)
 * [Iconian](http://www.iconian.com/) 
+* [Beautiful Web Type](https://beautifulwebtype.com/)
+* [fontfabric](https://www.fontfabric.com/free-fonts/)
+* [Open Foundry](https://open-foundry.com/fonts)
 * [TypeType](https://typetype.org/freefonts/) 
 * [BonusTutorials](https://bonstutoriais.com.br/category/fontes-gratis/) 
 * [Awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/)
