@@ -130,7 +130,7 @@
 * [Course Upload](https://courseupload.com/) - *Courses* 
 * [Christmas Share](https://mega.nz/folder/mqxiBRTJ#0bnSa35nknxUqOCr-xdGYg) - *Courses*
 * [Gems Collections](https://helpothers.freehotspot.workers.dev/), [2](https://helpothers1.freehotspot.workers.dev/), [3](https://helpothers3.freehotspot.workers.dev/) or [4](https://helpothers4.freehotspot.workers.dev/) - *Courses*
-* [Mega Collections](https://mega.nz/folder/5F9WzJ7a#9UdqphaNXS13TTJAgdN15w) - *Courses*
+* [Mega Collection](https://mega.nz/folder/5F9WzJ7a#9UdqphaNXS13TTJAgdN15w), [2](https://mega.nz/folder/iIsEkb4B#4tdNHUYTKTJDeIxI2FZE3A), [3](https://mega.nz/folder/Ab4HnABZ#gLR_-deauS6XBfWyouVf-Q), [4](https://mega.nz/folder/B9B1iIZL#1GYxeVaTj3prxSR8kDyRyQ) - *Courses*
 * [ReadyYourFlow](https://learning.readyourflow.workers.dev/0:/) - *Courses*
 * [Coursesghar](https://coursesghar.com/) - *Courses* 
 * [CourseUpload](https://courseupload.net/) - *Courses*
@@ -189,7 +189,8 @@
 * [Download Online Tutorials Free](https://download.howtofree.org/) - *Udemy Courses* 
 * [Udemy Free Course](https://t.me/udemy_free_cource) - *Udemy Courses* 
 * [666GB Devil Web App](https://mega.nz/folder/7HRiUb7Q#xXXnIdhGxuPwxtz99BhPpg) - *Web App Development Courses*
-* [hackingworld.best ](https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg) - *IT Tutorials*
+* [hackingworld.best](https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg) - *IT Courses*
+* [IT Courses Mega Collection](https://mega.nz/folder/I55Wgb4J#L3i1V_tfCTaCjzq8AVsjrw) - *IT Courses*
 * [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
 * [ProCrack_Team](https://www.mediafire.com/folder/l4w8gcdcqsqtw/ProCrack_Team) - *Marketing Courses*
 * [Stock Trading Courses](https://mega.nz/folder/RNERkCIS#w0DcWggAasYz8vKl1jHkGw) - *Trading Courses*
