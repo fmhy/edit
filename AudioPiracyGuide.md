@@ -76,7 +76,7 @@
 * [KeyGenMusic](http://www.keygenmusic.net/), [KeygenJukebox](https://keygenjukebox.net/ ) or [keygenmusic.tk](https://keygenmusic.tk/) - *Keygen Music* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - *East African Recordings* 
-* [Free Music Archive](https://www.freemusicarchive.org/), [StreamBeats](https://www.streambeats.com/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
+* [Free Music Archive](https://www.freemusicarchive.org/), [freesoundtrackmusic](https://www.freesoundtrackmusic.com/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [audiomicro](https://www.audiomicro.com/), [StreamBeats](https://www.streambeats.com/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
 * [Battle of the Bits](https://battleofthebits.org/) - *User-Made Music Competitions* 
 * [Openwhyd](https://openwhyd.org/) - *Music Sharing Community / [Chrome](https://chrome.google.com/webstore/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)*
 * [Bandcamp New Tab](https://chrome.google.com/webstore/detail/bandcamp-new-tab/nbabnnemlofbllcflfjpjgkgmcdbeemc) - *Random Bandcamp Songs on New Tabs*
