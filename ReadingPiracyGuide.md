@@ -1011,6 +1011,8 @@
 * [Litsy](https://www.litsy.com/) - *Book Recommendation / Photo Sharing Community*
 * [5000 Best](http://5000best.com/) - *Top 5000 Books*
 * [listal](https://www.listal.com/) - *Books*
+* [ISFDB](http://www.isfdb.org/cgi-bin/index.cgi) - *Speculative Fiction*
+* [nooSFere](https://www.noosfere.org/) - *Science Fiction*
 * [Comic Book Reading Orders](https://comicbookreadingorders.com/) - *Comic Book Reading Orders*
 * [DC Superhero Era Timeline](https://i.imgur.com/Icojkx1.jpg) / [2](https://i.imgur.com/drSEr0j.jpg)
 * [Mangaki](https://mangaki.fr/) - *Manga Recommendations*
