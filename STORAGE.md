@@ -166,7 +166,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Android Operating Systems
 
-**[Android Rom List](https://github.com/musabcel/android_rom_list)**, [LineageOS](https://www.lineageos.org/), [Replicant](https://www.replicant.us/), [potatoproject](https://potatoproject.co/), [ArrowOS](https://arrowos.net/download), [aosip](https://aosip.dev/), [CDroid](https://crdroid.net/), [HavocOS](https://sourceforge.net/projects/havoc-os/), [Corvusrom](https://www.corvusrom.com/), [BlissRoms](https://downloads.blissroms.org/), [ParanoidAndroid](https://paranoidandroid.co/), [PixelExperience](https://download.pixelexperience.org/), [Evolution-x](https://evolution-x.org/), [e.foundation](https://e.foundation/)
+**[Android Rom List](https://github.com/musabcel/android_rom_list)**, [LineageOS](https://www.lineageos.org/), [Replicant](https://www.replicant.us/), [potatoproject](https://potatoproject.co/), [ArrowOS](https://arrowos.net/download), [CDroid](https://crdroid.net/), [HavocOS](https://sourceforge.net/projects/havoc-os/), [Corvusrom](https://www.corvusrom.com/), [BlissRoms](https://downloads.blissroms.org/), [ParanoidAndroid](https://paranoidandroid.co/), [PixelExperience](https://download.pixelexperience.org/), [Evolution-x](https://evolution-x.org/), [e.foundation](https://e.foundation/)
 
 ***
 
@@ -1098,7 +1098,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Minecraft Servers 
 
-[Hokus](https://hokus.me/) / [Discord](https://discord.gg/H78jcHDphQ), [MineColab](https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb) / [GitHub](https://github.com/thecoder-001/MineColab), [CubeHosting](https://cubehosting.me/), [MineFort](https://minefort.com/), [Minehut](https://www.minehut.com/), [ScalaCube](https://scalacube.com/), [FreeMC.Host](https://freemc.host/), [PloudOS](https://ploudos.com/), [Tuinity](https://github.com/Tuinity/Tuinity), [Aternos](https://aternos.org/), [FreeMCServer](https://freemcserver.net/) / [uBO Filter](https://pastebin.com/C2aiXG8p)
+[Hokus](https://hokus.me/) / [Discord](https://discord.gg/H78jcHDphQ), [MineColab](https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb) / [GitHub](https://github.com/thecoder-001/MineColab), [CubeHosting](https://cubehosting.me/), [MineFort](https://minefort.com/), [Minehut](https://www.minehut.com/), [ScalaCube](https://scalacube.com/), [FreeMC.Host](https://freemc.host/), [PloudOS](https://ploudos.com/), [Aternos](https://aternos.org/), [FreeMCServer](https://freemcserver.net/) / [uBO Filter](https://pastebin.com/C2aiXG8p)
 
 ***
 
@@ -1155,7 +1155,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Multi-System**
 
-**[Foobar2000](https://www.foobar2000.org/)**, [AIMP](http://www.aimp.ru/?do=lang&lng=en), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [GoneMAD](https://gonemadmusicplayer.blogspot.com/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [VOX Universal Beta](https://vox.rocks/forum/t/vox-universal-beta-v07-12-release-notes-download-links-etc/12980/), [Hysolid](https://www.hysolid.com/), [aidoru](https://github.com/ffwff/aidoru), [Melodie](https://feugy.github.io/melodie/), [Modular Player](https://www.deviantart.com/jaxoriginals/art/ModularPlayers-v1-3-886577256), [goMP](https://github.com/aditya-K2/goMP), [hyperchroma](https://hyperchroma.app/), [Music Player Daemon](https://www.musicpd.org/) (Server-Side), [NCurses](https://github.com/ncmpcpp/ncmpcpp), [XMPlay](https://www.un4seen.com/) (Chiptune-Friendly), [guayadeque](http://sourceforge.net/projects/guayadeque), [musique](http://flavio.tordini.org/musique), [sonata](https://github.com/multani/sonata), [exaile](http://www.exaile.org/), [quodlibet](https://github.com/quodlibet/quodlibet/), [ario](http://ario-player.sourceforge.net/), [deadbeef](https://deadbeef.sourceforge.io/), [groovebasin](https://github.com/andrewrk/groovebasin)
+**[Foobar2000](https://www.foobar2000.org/)**, [AIMP](http://www.aimp.ru/?do=lang&lng=en), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [VOX Universal Beta](https://vox.rocks/forum/t/vox-universal-beta-v07-12-release-notes-download-links-etc/12980/), [Hysolid](https://www.hysolid.com/), [aidoru](https://github.com/ffwff/aidoru), [Melodie](https://feugy.github.io/melodie/), [Modular Player](https://www.deviantart.com/jaxoriginals/art/ModularPlayers-v1-3-886577256), [goMP](https://github.com/aditya-K2/goMP), [hyperchroma](https://hyperchroma.app/), [Music Player Daemon](https://www.musicpd.org/) (Server-Side), [NCurses](https://github.com/ncmpcpp/ncmpcpp), [XMPlay](https://www.un4seen.com/) (Chiptune-Friendly), [guayadeque](https://github.com/anonbeat/guayadeque), [musique](http://flavio.tordini.org/musique), [sonata](https://github.com/multani/sonata), [exaile](http://www.exaile.org/), [quodlibet](https://github.com/quodlibet/quodlibet/), [ario](http://ario-player.sourceforge.net/), [deadbeef](https://deadbeef.sourceforge.io/), [groovebasin](https://github.com/andrewrk/groovebasin)
 
 **Foobar2000 Tools** 
 
@@ -2281,7 +2281,6 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/TorrentLeech_v 
 * https://t.me/torrent_mirror_drive
 * https://t.me/FreeTorrentDownloader
-* https://t.me/CinemagramzT2G 
 * https://t.me/slfilmtv
 * https://t.me/ARTEMiSLeech 
 * https://t.me/torrent_uploader
