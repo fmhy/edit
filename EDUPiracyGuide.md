@@ -132,7 +132,6 @@
 * [Gems Collections](https://helpothers.freehotspot.workers.dev/), [2](https://helpothers1.freehotspot.workers.dev/), [3](https://helpothers3.freehotspot.workers.dev/) or [4](https://helpothers4.freehotspot.workers.dev/) - *Courses*
 * [Mega Collections](https://mega.nz/folder/5F9WzJ7a#9UdqphaNXS13TTJAgdN15w) - *Courses*
 * [ReadyYourFlow](https://learning.readyourflow.workers.dev/0:/) - *Courses*
-* [FTUForums](https://www.ftuforums.com/) - *Courses / [Discord](https://discord.gg/xAsMX52)*
 * [Coursesghar](https://coursesghar.com/) - *Courses* 
 * [CourseUpload](https://courseupload.net/) - *Courses*
 * [FreeEducationWeb](https://freeeducationweb.com/) - *Courses* 
@@ -184,9 +183,7 @@
 * [Udemycourses](https://udemycourses.me/) - *Udemy Courses* 
 * [FreeTutorialsHub](https://www.freetutorialshub.com/) - *Udemy Courses*
 * [FreeCourseUdemy](https://freecourseudemy.com/) - *Udemy Courses*  
-* [FtuUdemy](https://www.ftuudemy.com/) - *Udemy Courses* 
 * [Devil Collection](https://mega.nz/folder/wQp0jaSC#cE7-P1fX0FkxU2LXAHm80A) - *Udemy Courses*
-* [Udemy Course Drive](https://mega.nz/folder/S90HhQZI#gwXB_hJ9pf-axTQpJp0G7g) - *Udemy Courses*
 * [CourseForFree](https://courseforfree.com/) - *Udemy Courses*  
 * [New Courses](https://mega.nz/folder/TyhGnIiR#XlHwR6qa4cZ3Tl1bSm2-QA) - *Udemy Courses*
 * [Download Online Tutorials Free](https://download.howtofree.org/) - *Udemy Courses* 
@@ -648,7 +645,6 @@
 * [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio) or [WikiArt](https://www.wikiart.org/) - *Digital Art Collection*
 * [Arachne](https://arachne.dainst.org/) - *Ancient Sculpture Image Archive*
 * [The First World War](https://www.firstworldwar.amdigital.co.uk/) - *WW1 Study Material*
-* [Metabolic-Pathway](http://www.metabolic-pathway.com/fullMap.html) - *Interactive Metabolic Pathways Map* 
 * [AnimaGraffs](https://animagraffs.com/) - *Animated Infographs*
 * [How a Car Works](https://www.howacarworks.com/) - *Car Mechanics / Automotive Engineering Guides* 
 * [Economics of The Office](http://economicsoftheoffice.com/) - *Learn Economics via The Office*
