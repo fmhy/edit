@@ -399,6 +399,8 @@
 * [Playerio](https://playerio.com/) - *Online Game Engine*
 * [RPG Playground](https://rpgplayground.com/) - *Simple RPG Creator*
 * [Game-Editor](http://game-editor.com/Main_Page) or [BuildBox](http://buildbox.com/) - *Game Creator*
+* [HaxeFlixel](https://haxeflixel.com/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - *2D Game Engine*
+* [stencyl](https://www.stencyl.com/) - *Codeless Game Engine*
 * [Kaboomjs](https://kaboomjs.com/) - *Quickly Make Games with Javascript*
 * [GDevelop](https://gdevelop-app.com/) - *HTML5 Game Creator*
 * [Phaser](https://phaser.io/) - *Mobile HTML5 Game Framework* 
