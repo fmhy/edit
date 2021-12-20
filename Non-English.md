@@ -1345,7 +1345,6 @@ Portuguese
 * [PelisForte](https://pelisforte.co/) - *Movies / TV*
 * [Cinemargentino](https://cinemargentino.com/) - *Movies / Documentaries*
 * [Pelis28](https://pelis28.site/) - *Movies*
-* [Danimados](https://danimados.com) - *TV / Anime*
 * [novelas360](https://novelas360.com/) - *TV*
 * [HindiLover](https://hindilover.biz/) - *TV*
 * [Vix](https://www.vix.com/tv/) - *TV*
