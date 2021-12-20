@@ -1510,7 +1510,6 @@ G) - *Create Discord RPCs*
 * [Boot Failure Troubleshooting Chart](https://i.imgur.com/QsxYtB4.jpg) - *Boot Failure Troubleshooting Guide*
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) - *Operating System / Software History / [Discord](https://discord.gg/XPz5Zm42tR)*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
-* [Resource Hacker](http://angusj.com/resourcehacker/) - *Resource Editor*
 * [GetCID](https://www.getcid.info/) - *Obtain Windows Confirmation ID*
 * [Fliqlo](https://fliqlo.com/screensaver/) - *Clock Screensaver*
 * [How-To Make Microsoft Activation Server](https://mananapr.github.io/microsoft_activation.html) 
