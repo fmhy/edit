@@ -91,7 +91,7 @@
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - *Mount GDrive on Linux*
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - *Linux File Search*
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - *PDF Editor*
-* [Gedit](https://wiki.gnome.org/Apps/Gedit) - *Text Editor*
+* [Gedit](https://wiki.gnome.org/Apps/Gedit) or [Notepadqq](https://notepadqq.com/) - *Text Editor*
 * [Winfield](http://www.winfield.demon.nl/) - *MS Word for Linux / OS X* 
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Linux Photoshop Installer*
 * [FlameGApps](https://github.com/flamegapps/flamegapps) - *Google Apps Installer*
@@ -259,6 +259,7 @@
 * [Orion](https://browser.kagi.com/downloads/Orion.dmg) - *Webkit Browser with Chrome & Firefox extensions / [Discord](https://discord.gg/E9EKaPZR)*
 * [Strongbox](https://strongboxsafe.com/) *Password Manager*
 * [Drafts](https://getdrafts.com/) or [Voodoopad](http://www.voodoopad.com/) - *Text Editor / Notes*
+* [Taskpaper](https://www.taskpaper.com/) - *To-Do App*
 * [Stroke](https://stroke.lllllllllllllllll.com/) - *Text (You Can't Delete) Editor*
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) or [Spark](https://sparkmailapp.com/) - *Email Client*
 * [Microsoft Mac Downloads](https://macadmins.software/) or [Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - *Office Suite*
