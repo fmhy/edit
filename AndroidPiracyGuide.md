@@ -736,7 +736,6 @@ RSS Player*
 * [Swab](http://swabthe.com/) - *Adblocker* 
 * [DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351) - *DNS Adblocker*
 * [Naka AdBlocker](https://apps.apple.com/ca/app/naka-adblocker/id1525185489) - *DNS Adblocker* 
-* [Blokada](https://apps.apple.com/ca/app/blokada/id1508341781) - *DNS Adblocker* 
 * [NextDNS](https://apps.apple.com/ca/app/nextdns/id1463342498) - *DNS Adblocker (No fake VPN)*
 * [MobileAdsBlock](https://gitlab.com/Shub_/mobile-ads-block/-/raw/master/list) - *Ad / Tracker filter*
 * [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - *Skip YouTube Sponsorships* 
