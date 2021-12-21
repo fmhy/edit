@@ -730,6 +730,8 @@ General Reading Sites*
 * [Social-Searcher](https://www.social-searcher.com/) or [Social Mention](http://socialmention.com/) - *Social Media Search Engine*  
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - *Forum Search Engine* 
 * [Blog Search Engine](http://www.blogsearchengine.org/) - *Blog Search*
+* [4chanSearch](https://4chansearch.com/) - *4chan Search*
+* [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) - *Tik-Tok Search*
 * [Mibbit](https://search.mibbit.com/) - *IRC Channel Search*
 * [AlsoAsked](https://alsoasked.com/) - *Related Search Tool*
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - *Search Engine for Lightweight Web Pages*
@@ -1155,7 +1157,7 @@ G) - *Create Discord RPCs*
 * [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/) or [ytwrk](https://github.com/terorie/ytwrk) - *YouTube Data Extraction* 
 * [Youtube DataViewer](https://citizenevidence.amnestyusa.org/) or [YouTube-MA](https://github.com/CorentinB/YouTube-MA) - *YouTube Video Data Viewer* 
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YouTube Screenshot](https://www.youtubescreenshot.com/), [YTI](https://youtubethumbnailimage.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - *Grab YouTube Thumbnails* 
-* [YouTube-Grab](https://github.com/ArchiveTeam/youtube-grab) - *YouTube Video Metadata Grabber*
+* [YouTube-Grab](https://github.com/ArchiveTeam/youtube-grab) or [YouTube Metadata](https://mattw.io/youtube-metadata/) - *YouTube Video Metadata*
 * [RadiTube](https://extension.raditube.com/) - *View MetaData & Transcripts of Deleted YouTube Videos*
 * [YouTubeDislikes](https://github.com/moom0o/YouTubeDislikes/) - *YouTube Dislike Archive*
 
@@ -1205,7 +1207,7 @@ G) - *Create Discord RPCs*
 * [Twitonomy](https://www.twitonomy.com/) or [Affinitweet](https://affinitweet.com/) - *Twitter Dashboard / Analytics* 
 * [TweetDeck](https://tweetdeck.twitter.com/) or [Tweeten](https://tweetenapp.com/) - *Twitter Dashboard*
 * [TweetDuck](https://github.com/chylex/TweetDuck) - *Twitter Desktop Client*
-* [BackTweets](http://backtweets.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - *Search Twitter* 
+* [BackTweets](http://backtweets.com/), [twXplorer](https://twxplorer.knightlab.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - *Search Twitter* 
 * [Twishort](https://twishort.com/) - *Make Longer Tweets*
 * [Poet.so](https://poet.so/) - *Create Twitter Post Images*
 * [Tweetgen](https://www.tweetgen.com/) - *Create Fake Tweets*
@@ -1333,6 +1335,7 @@ G) - *Create Discord RPCs*
 * [Nvidia-Patch](https://github.com/keylase/nvidia-patch) - *NVENC & NvFBC Patches*
 * [Disk Usage Analyzers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_disk_usage_analyzers) - *View & Manage Files on Disk*
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - *Disk Benchmarking Tool*
+* [Macrium Reflect](https://www.macrium.com/reflectfree) - *System Benchmarking*
 * [poclmembench](https://github.com/kruzer/poclmembench) - *Memory Benchmark Test*
 * [MyFavoriteGadgets](https://www.myfavoritegadgets.info/), [Netdata](https://www.netdata.cloud/), [btop](https://github.com/aristocratos/btop) or [WinBar](http://www.winbar.nl/) - *System Monitor*
 * [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - *Windows System Utilities / [Suite](https://www.microsoft.com/EN-US/p/app/9P7KNL5RWT25)* 
@@ -1687,7 +1690,7 @@ G) - *Create Discord RPCs*
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - *HTTP File System*
 * [FolderClone](http://www.folderclone.com/) - *Clone / Backup Folders*
 * [Borg](https://www.borgbackup.org/) - *Deduplicating File Archiver / Backup* 
-* [BackupPC](https://backuppc.github.io/backuppc/), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [DeltaCopy](http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp), [restic](https://restic.net/), [UrBackup](https://www.urbackup.org/), [BlobBackup](https://github.com/BlobBackup/BlobBackup), [FastCopy](http://fastcopy.jp/) or [Duplicati](https://www.duplicati.com/) - *File Backup Tool* 
+* [BackupPC](https://backuppc.github.io/backuppc/), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [DeltaCopy](http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp), [restic](https://restic.net/), [UrBackup](https://www.urbackup.org/), [BlobBackup](https://github.com/BlobBackup/BlobBackup), [FastCopy](http://fastcopy.jp/), [OCCT](https://www.ocbase.com/) or [Duplicati](https://www.duplicati.com/) - *File Backup Tool* 
 * [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) or [filebrowser](https://github.com/filebrowser/filebrowser/) - *Web File Browser*
 * [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/) or [Securedrop](https://securedrop.org/) - *Document File Sharing*
 * [OpenPaper](https://openpaper.work/en/) or [DataShare](https://datashare.icij.org/) - *Document Manager*
