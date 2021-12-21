@@ -367,7 +367,7 @@
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming) 
 * [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - *TV / Movies*
 * [KissAsian](https://kissasian.li/), [2](https://kissasian.ac/) - *TV*
-* [GoPlay](https://goplay.anontpp.com/) - *TV / [Discord](https://discord.gg/Gh44afE) / [Reddit](https://redd.it/723mtd)*
+* [GoPlay](https://goplay.anontpp.com/?ref=Reddit) - *TV / [Discord](https://discord.gg/Gh44afE) / [Reddit](https://redd.it/723mtd)*
 * [AsianCrush](https://www.asiancrush.com/) - *TV / Movies*
 * [DramaCool](https://dramacool.bid/), [dramacool9](https://www.dramacool9.co/) or [WatchAsian](https://watchasian.cc/) - *TV / Movies*
 * [DramaDay](https://dramaday.net/) - *TV* 
