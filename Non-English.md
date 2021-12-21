@@ -50,7 +50,6 @@
 * [gateanime](https://www.gateanime.com/) - *Anime*
 * [AnimeTak](https://animetak.net/) - *Anime*
 * [shahiid](https://www.shahiid-anime.net/) - *Anime*
-* [anime4you](https://www.anime4you.one/) - *Anime*
 * [movizland](https://www.movizland.com/) - *Anime*
 * [animestarz](https://www.animestarz.com/) - *Anime*
 * [egyanime](https://www.egyanime.com/) - *Anime*
@@ -72,7 +71,6 @@
 * [books-library](https://books-library.online/) - *Books* 
 * [download-pdf-ebooks](https://download-pdf-ebooks.online/) - *Books* 
 * [kutub](https://www.kutub-pdf.net/) - *Books* 
-* [foulabook](https://foulabook.com/) - *Books* 
 * [EbookSar](https://www.ebooksar.com/) - *Books*
 * [Manga Plus](https://t.me/Manga_Plus_Ar) - *Manga*
 
@@ -372,7 +370,6 @@
 * [streamkiste](https://streamkiste.tv/) - *Movies / TV*  
 * [Burning Series](https://www.burning-series.net/) - *Movies / TV / Anime / Needs VPN*
 * [filmpalast](https://filmpalast.to/) - *Movies / TV* 
-* [anime4you](https://www.anime4you.one/) - *Anime*  
 * [movieking](https://movieking.cc/) - *Movies*
 * [Serien](https://serien.life/) - *Movies / TV*
 * [Film Palast](https://filmpalast.club/) - *Movies / TV*
@@ -1173,7 +1170,6 @@ Portuguese
 * [SeedOff](https://seedoff.zannn.top/) - *Video / Audio / Software / Games / Books* 
 * [rustorka](http://rustorka.com/forum/index.php) - *Games / Roms / Audio / Books / Magazines / Software / Android / Video* 
 * [HDReactor](https://hdreactor.club/) - *Movies / Games / NSFW* 
-* [DugTor](http://dugtor.ru/) - *Video / Audio / Software / Games* 
 * [NNM-Club](https://nnmclub.to/) - *Video / Audio / Software / Games* 
 * [ZLOTracker](http://zlotracker.org/) - *Video / Audio / Software / Games / Books* 
 * [GOLDtracker](http://goldtracker.org/) - *Video / Audio / Games / Books*
@@ -1187,7 +1183,6 @@ Portuguese
 * [BigFanGroup](https://bigfangroup.org/) - *Movies / TV / Anime* 
 * [ByTorent](http://bytorent.ru/) - *Video / Audio / Software*
 * [Animelayer](http://animelayer.ru/) - *Anime* 
-* [TFILMS](http://films-torrent.ru/) - *Movies / TV* 
 * [Torrent.Northnet](http://torrent.northnet.ru/) - *Movies / TV*
 * [HDGALAKTIKA](http://hdgalaktik.com/) - *Movies*
 * [kinozal](http://kinozal.tv/) - *Movies* 
@@ -1311,7 +1306,6 @@ Portuguese
 ## ▷ Torrenting
 
 * [Mejor Torrent](https://www.mejortorrents.net/), [2](https://www.mejortorrento.net/), [3](https://mejortorrent.one/), [4](http://mejortorrent.com/) - *Video / Audio / Software / Games*  
-* [dontorrent](https://dontorrent.net/) - *Video / Audio / Games* 
 * [DivxTotal](https://www.divxtotal.one/) - *Movies / TV / Software* 
 * [Edvok](https://edvok.com/) - *Video / Games*
 * [EliteTorrent](https://elitetorrent.com/), [2](https://www.elitetorrent.do/) - *Movies / TV / Anime*
