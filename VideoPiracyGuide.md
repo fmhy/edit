@@ -583,7 +583,6 @@
 * [Happy2Hub](https://happy2hub.net/) - *Movies / TV*   
 * [MoviesMore](https://moviesmore.info/) - *Movies / TV*
 * [StreamCraze](https://streamcraze.com/) - *Movies / TV*
-* [Moviesddl](https://movieddl.to/) - *Movies*
 * [MovieFire](https://moviefire.net/) - *Movies* 
 * [SomosMovies](https://somosmovies.com/) - *Movies* 
 * [TVSeriesNMovies](https://www.tvseriesnmovies.com/) - *Movies / TV*
