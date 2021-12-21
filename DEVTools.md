@@ -421,7 +421,6 @@
 
 ## ▷ Markup Languages
 
-* [HTMLDog](https://htmldog.com/) - *HTML / CSS / JavaScript Tutorials* 
 * [HTML Meta Tags](https://gist.github.com/lancejpollard/1978404) - *List of Common HTML Meta Tags Complete* 
 * [Minifier](https://www.willpeavy.com/tools/minifier/) - *Minify HTML, CSS & JS Markup HTML Minifier / [Unminify](https://www.unminify2.com/)* 
 * [HTML-Minifier](https://kangax.github.io/html-minifier/) - *HTML Minifier*
@@ -623,6 +622,7 @@
 * [Gummy](https://gummyjs.vercel.app/) - *Easily Build Javascript Programs* 
 * [Kaboomjs](https://kaboomjs.com/) - *Quickly Make Games with Javascript*
 * [randomcolor](https://randomcolor.lllllllllllllllll.com/) - *Random Javascript Color Generator*
+* [Bundlephobia](https://bundlephobia.com/) - *Find Cost of Adding npm Package*
 * [Awesome Python](https://github.com/vinta/awesome-python) - *Python Resource Index*
 * [py-modindex](https://docs.python.org/3/py-modindex.html) - *Python Modules List / Tutorials*
 * [JSONView](https://jsonview.com/) - *JSON Viewer* 
