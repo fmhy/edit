@@ -345,7 +345,7 @@
 
 * [Openos](http://www.openos.at/) - *Linux Distros*
 * [Crawli](https://crawli.net/) - *Download Search* 
-* [Bestoflinks](http://bestoflinks.synology.me/) - *Warez / List*
+* [Bestoflinks](http://bestoflinks.synology.me/) - *Warez / NSFW / List*
 * [ArchivX](https://www.archivx.to/) - *Warez / List* 
 * [LinkR](https://www.linkr.top/index.php) - *Warez / List*
 * [3DL.TV](https://3dl.tv/) - *Video / Audio / Games / Software / Books / Android / NSFW*
@@ -354,7 +354,6 @@
 * [ngb](https://ngb.to/) - *Video / Software / Audio / Books / Android* 
 * [warez.to](https://warez.to/) - *Movies / TV / Games / Software / NSFW* 
 * [hd-source](https://hd-source.to/) - *Movies / TV / NSFW* 
-* [movie-blog](https://movie-blog.tv/) - *Movies / TV*
 * [MLCBoard](https://mlcboard.com/) - *Movies* 
 * [German Telegram Movie Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_german_telegram_movie_downloads) - *Movies* 
 * [Boerse](https://myboerse.bz/) - *Video / Audio / Software / Android / NSFW*
@@ -369,7 +368,7 @@
 
 ## ▷ Streaming
 
-* [StartSeite](https://startseite.to/) - *Movies / TV / List*
+* [StartSeite](https://startseite.to/) - *Movies / TV / NSFW / List*
 * [streamkiste](https://streamkiste.tv/) - *Movies / TV*  
 * [Burning Series](https://www.burning-series.net/) - *Movies / TV / Anime / Needs VPN*
 * [filmpalast](https://filmpalast.to/) - *Movies / TV* 
@@ -646,9 +645,7 @@
 * [Comic Walker](https://comic-walker.com/) - *Manga*
 * [WeLoMa](https://weloma.net/) - *Manga*
 * [Kissaway](https://kissaway.net/) - *Manga*
-* [13DL](http://13dl.net/) - *Manga / Novels / NSFW*
 * [dl-raw](https://dl-raw.net/) - *Manga / Novels / NSFW*
-* [jpraw](https://jpraw.net/) - *Manga / NSFW*
 * [Honto](https://honto.jp/cp/ebook/recent/free.html) - *Manga / NSFW*
 * [manga-zip](https://manga-zip.net/), [2](https://manga-zip.info/) - *Manga / NSFW* 
 * [dl-zip](http://dl-zip.com/) - *Manga / NSFW*
