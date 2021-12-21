@@ -152,6 +152,7 @@
 * [OmegaT](https://omegat.org/) - *Translation Memory Tool*
 * [SoftMyList](https://sortmylist.com/) - *Sort / Clean Lists*
 * [Delim](https://delim.co/) - *Comma Separating Tool*
+* [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - *Create Parallel text Web*
 * [Count Duplicates](https://www.somacon.com/p568.php) or [MyNikko](http://www.mynikko.com/tools/tool_duplicateremover.html)- *Count / Remove Duplicates in a List*
 * [Count Wordsworth](http://countwordsworth.com/) - *Count Words in a List* 
 * [OfficeDocs](https://www.offidocs.com/) - *Runs Desktop / Mobile Apps Online*
@@ -1410,11 +1411,12 @@ G) - *Create Discord RPCs*
 * [OpenWith++](https://github.com/stax76/OpenWithPlusPlus) - *Custom Context Menu Commands*
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - *Re-Map Mouse Buttons & Scroll Wheel*
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - *Windows Tweaks*
+* [Revertservice](http://revertservice.com/) - *Default configurations of Windows services*
 * [Win10 Widgets](https://win10widgets.com/), [BeWidgets](https://www.microsoft.com/en-us/p/bewidgets/9nq07fg50h2q) or [Gadgets Revived](https://gadgetsrevived.com/) - *Widgets for Windows* 
 * [Übersicht](https://tracesof.net/uebersicht/) - *System Command Widgets*
 * [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - *Windows API Tricks*
 * [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - *Windows 10 Auto Dark Mode*
-* [f.lux](https://justgetflux.com/), [LightBulb](https://github.com/Tyrrrz/LightBulb), [Redshift](https://github.com/jonls/redshifthttp://jonls.dk/redshift/) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - *Adjust Display Color / Tempature*
+* [f.lux](https://justgetflux.com/), [LightBulb](https://github.com/Tyrrrz/LightBulb), [Redshift](https://github.com/jonls/redshifthttp://jonls.dk/redshift/) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - *Adjust Display Color / Temperature*
 * [Twinkle Tray](https://twinkletray.com/) - *System Tray Brightness Slider*
 * [Dimmer](https://www.nelsonpires.com/software/dimmer) - *Multi-Monitor Brightness Control*
 * [ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - *Desktop Program, Video & Webpage Pins / Program Wallpapers*
