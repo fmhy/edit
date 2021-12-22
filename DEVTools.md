@@ -98,7 +98,7 @@
 * [CodinGame](https://www.codingame.com/) - *Games to Practice Coding / Programming* 
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - *Programming Courses*
 * [Stack Exchange](https://stackexchange.com/) - *Programming Q&A*
-* [Learn X in Y minutes](https://learnxinyminutes.com/) - *Programming Language Rundowns* 
+* [Learn X in Y minutes](https://learnxinyminutes.com/), [2](https://github.com/adambard/learnxinyminutes-docs) - *Programming Language Rundowns* 
 * [Typing.io](https://typing.io/) - *Typing Practice for Programmers* 
 * [Karel The Robot](https://github.com/fredoverflow/karel) - *Basic Programming Teaching Environment*
 * [Katacoda](https://www.katacoda.com/) - *Software Engineer Tutorials* 
