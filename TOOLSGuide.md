@@ -1025,6 +1025,7 @@ G) - *Create Discord RPCs*
 * [DiskCord](https://github.com/5ut/DiskCord) - *Host Files on External Sites to share via Discord*
 * [discord-logo](http://nntin.github.io/discord-logo) - *Discord Animated Logo Generator / [Discord](https://discord.gg/gDHs8AV)*
 * [LottieResizer](https://lottieresizer.tech/) - *Lottie Resizer*
+* [discordcompressor](https://github.com/vladaad/discordcompressor) - *Video Compressor*
 * [Discord Branding](https://discord.com/branding) - *Discord Branding Information Page / [Archive](https://web.archive.org/web/20210513004910/https://discord.com/branding)*
 * [Discord-Api](https://discord.gg/discord-api) - *Discord API Chat*
 * [Displace](https://discord.gg/6zEbZeg) or [OwnersHub](https://ownershub.xyz/) - *Discord Community Management Chat*
@@ -1420,7 +1421,7 @@ G) - *Create Discord RPCs*
 * [Twinkle Tray](https://twinkletray.com/) - *System Tray Brightness Slider*
 * [Dimmer](https://www.nelsonpires.com/software/dimmer) - *Multi-Monitor Brightness Control*
 * [ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - *Desktop Program, Video & Webpage Pins / Program Wallpapers*
-* [Plumb](https://palatialsoftware.com/plumb/), [bug.n](https://github.com/fuhsjr00/bug.n), [GridMove](https://www.dcmembers.com/jgpaiva/), [Amethyst Windows](https://github.com/glsorre/amethystwindows), [yatta](https://github.com/LGUG2Z/yatta), [WorkSpacer](https://www.workspacer.org/), [TileMe](https://gitlab.com/slavoutich/tileme) or [WindowsGrid](http://windowgrid.net/) - *Window Grid / Tiling Program* 
+* [Plumb](https://palatialsoftware.com/plumb/), [nog](https://github.com/TimUntersberger/nog), [bug.n](https://github.com/fuhsjr00/bug.n), [GridMove](https://www.dcmembers.com/jgpaiva/), [Amethyst Windows](https://github.com/glsorre/amethystwindows), [yatta](https://github.com/LGUG2Z/yatta), [WorkSpacer](https://www.workspacer.org/), [TileMe](https://gitlab.com/slavoutich/tileme) or [WindowsGrid](http://windowgrid.net/) - *Window Grid / Tiling Program* 
 * [WindowTop](https://windowtop.info/) - *Window Manager*
 * [multrin](https://github.com/sentialx/multrin) - *Organize Windows Apps in Tabs* 
 * [Klotures](https://gitlab.com/jkushmaul/klotures) - *Desktop Icon Organizer / [Demo](https://gitlab.com/jkushmaul/klotures/raw/master/docs/KloturesDemo.webm)*
@@ -1459,7 +1460,7 @@ G) - *Create Discord RPCs*
 * [Downloadkar](https://downloadkar.ir/) or [Drivers Collection](https://driverscollection.com/) - *Device Drivers / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - *Display Driver Removal Tool*
 * [NotMyFault](https://docs.microsoft.com/en-us/sysinternals/downloads/notmyfault) - *Driver & Hardware Problem Identification Tool*
-* [Scoop](https://scoop.sh/) - *Command-Line Installer* 
+* [Scoop](https://scoop.sh/) - *Command-Line Installer / [GitHub](https://github.com/ScoopInstaller/Scoop)* 
 * [Process Hacker](https://wj32.org/processhacker/forums/viewtopic.php?t=2407) - *Run Processes' as Trusted Installers*
 * [Device Cleanup Tool](https://m.majorgeeks.com/files/details/device_cleanup_tool.html) - *Remove Non-Present Devices*
 * [VCRedist](https://github.com/abbodi1406/vcredist) - *AIO Repack for Microsoft Visual C++ Redists*
