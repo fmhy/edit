@@ -1842,7 +1842,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Legit Downloaders**
 
-[Soggfy](https://github.com/Rafiuth/Soggfy) / [Discord](https://discord.gg/gjqrP5PB8g), [zspotify](https://github.com/Footsiefat/zspotify) / [Colab](https://github.com/Ori5000/zspotifycolab), [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot)
+[Soggfy](https://github.com/Rafiuth/Soggfy) / [Discord](https://discord.gg/gjqrP5PB8g), [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot)
 
 **Spotify YouTube Downloaders** 
 
