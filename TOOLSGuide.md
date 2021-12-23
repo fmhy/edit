@@ -681,6 +681,7 @@
 * [StockBrowser](https://stackbrowser.com/) or [Tangram](https://github.com/sonnyp/Tangram) - *Web App Browser*
 * [Browserling](https://www.browserling.com/) - *Browser Emulators*
 * [n.eko](https://n.eko.moe/) - *Self-Hosted Virtual Browser*
+* [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - *Chrome without Google*
 * [Safari Windows](https://mega.nz/file/zqoEWZaQ#qNAN8JnV_79gII4ofMs4ZwMAcydZAQw6Gdng_QEyNDw) - *Safari for Windows*
 * [Browserflow](https://browserflow.app/) - *Automate Repetitive Browser Tasks*
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) - *Prevent Firefox Memory Leaks* 
