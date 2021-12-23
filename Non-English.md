@@ -320,6 +320,7 @@
 * [pdf-ebookys](https://www.pdf-ebookys.com/) - *Books / Magazines / Fiction / Nonfiction* 
 * [VK Serial Books & Magazines](https://vk.com/sebomag) - *Books / Magazines*  
 * [1001Ebooks](https://1001ebooks.club/) - *Books*
+* [bookys](https://ww2.bookys-ebooks.com/) - *Books*
 * [Planet-DB](https://planete-bd.org/) - *Comics / Manga*
 * [Audiocite](https://www.audiocite.net/) - *Audiobooks* 
 * [zone-ebook.com](https://zone-ebook.com/) - *Magazines / Newspapers / Books / Audiobooks / Comics*   
