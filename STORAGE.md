@@ -297,7 +297,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Calculator Sites
 
-**[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)**, [RapidTables](https://www.rapidtables.com/), **[Omni Calculator](https://www.omnicalculator.com/)**, [Calculator.net](https://www.calculator.net/sitemap.html), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [NumberEmpire](https://www.numberempire.com/), [Easy Calculation](https://www.easycalculation.com/)
+**[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)**, **[Omni Calculator](https://www.omnicalculator.com/)**, [RapidTables](https://www.rapidtables.com/),  [Calculator.net](https://www.calculator.net/sitemap.html), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [NumberEmpire](https://www.numberempire.com/), [Easy Calculation](https://www.easycalculation.com/), [Calculatorhut](https://www.calculatorhut.com/)
 
 ***
 
