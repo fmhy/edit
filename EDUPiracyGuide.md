@@ -167,7 +167,6 @@
 * [Masterclass 63 Pack](https://mega.nz/folder/HxFghIbS#rFqH402PoVDwHW_XEtN1QQ) - *Masterclass Courses / Drive*
 * [Lynda Courses](https://bin.snopyta.org/?efe32fb96a945857#GQL7q4hyKjCeB6WLbpq94S12BEwh5JWc4apjmb7RE4SU) - *Lynda Courses / Drive / pw: fmhy*
 * [LyndaFree](https://t.me/lyndafree) - *Lynda Courses / Telegram*
-* [Learning.3](http://s13.bitdl.ir/Learning.3/Lynda/) - *Lynda Courses*
 * [BestWSODownload](https://www.bestwsodownload.com/) - *WSO Courses*
 * [AirVibe](https://www.airvibe.me/) - *Udemy Courses*
 * [Udemy Courses Rentry](https://rentry.co/ecg43) - *Udemy Courses*
