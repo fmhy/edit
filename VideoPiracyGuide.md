@@ -634,6 +634,7 @@
 * [CoolMovieZone](https://coolmoviezone.lat/) - *Movies*
 * [VegaMovies](https://vegamovies.bar/category/english/) - *Movies*
 * [Subroz](https://subroz.live/0:/) - *Movies / TV*
+* [Wtfmovies](https://www.wtfmovies.xyz/) - *Movies / TV Shows*
 * [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - *Cartoons* 
 * [Bakabt](https://bakabt.me/) - *Cartoons / [Signup](http://wiki.bakabt.me/index.php/Sign_up)* 
 * [Toku.fun](https://toku.fun/) - *Japanese Superhero Movies*
