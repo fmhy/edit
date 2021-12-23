@@ -125,6 +125,7 @@
 * [BBooks](https://bbooks.info/) - *Books*
 * [eBook777](https://www.ebooks777.net/) - *Books*
 * [Novels80](https://novels80.com/) - *Books*
+* [myebooksfree](https://www.myebooksfree.com/) - *Books*
 * [Bibliomania](http://www.bibliomania.com/bibliomania-static/index.html) - *Books*
 * [ReadCentral](https://www.readcentral.com/) - *Books*
 * [Authorama](http://www.authorama.com/) - *Books*
