@@ -710,6 +710,7 @@
 * [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - *Insomnia Prevention Tips*
 * [eXHALeR](https://www.xhalr.com/) - *Yoga / Meditation Breathing Tool* 
 * [PixelThoughts](http://www.pixelthoughts.co/) - *60 Second Relaxation Tool*
+* [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health) - *Mental Health Index*
 * [One Mind PsyberGuide](https://onemindpsyberguide.org/) - *Mental Health App Reviews*
 * [7 Cups](https://www.7cups.com/) or [OnlineCounselling4u](https://www.onlinecounselling4u.com/) - *Free Counseling & Therapy*
 * [/u/elkatiuskas' Resource List](https://redd.it/phrcrn) - *Abortion Resource Index*
