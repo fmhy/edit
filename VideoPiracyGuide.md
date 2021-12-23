@@ -58,6 +58,7 @@
 * [UniqueStream](https://uniquestream.vip/) - *Movies / TV / Anime*
 * [CooLMoviez](https://coolmoviez.app/) - *Movies / TV / Anime / [Telegram](https://t.me/coolmoviezfree)*
 * [FZMovies](https://fzmovies.net/) - *Movies / [How to Use](https://imgur.com/a/EtLokxO)* 
+* [MP4Mania](https://mp4mania1.net/) - *Movies / [How to Use](https://imgur.com/a/EtLokxO)*
 * [FlixZone](https://flixzone.ga/) - *Movies / TV*
 * [MoviesForFree](https://movieforfree.co/) - *Movies / TV*
 * [AZMovies](https://azm.to) - *Movies*
@@ -575,6 +576,7 @@
 * [MKVHOUSE](https://mkvhouse.com/) - *Movies / TV*
 * [Minirlss](https://minirlss.com/) - *Movies / TV / Anime* 
 * [FZMovies](https://fzmovies.net/) - *Movies / [How to Use](https://imgur.com/a/EtLokxO)* 
+* [MP4Mania](https://mp4mania1.net/) - *Movies / [How to Use](https://imgur.com/a/EtLokxO)*
 * [HugeWarez](http://hugewarez.net/movies/) - *Movies / TV*
 * [ExtraMovies](https://extramovies.click/) - *Movies / TV*  
 * [KimoiTV](https://www.kimoitv.com/) - *Movies / TV / Anime*
