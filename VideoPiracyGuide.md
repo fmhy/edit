@@ -750,10 +750,11 @@
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - *Get a VPN before torrenting*
 * **[Stremio](https://www.stremio.com/)** - *Torrent Streaming App*
 * **Stremio Tools** - [Addons](https://redd.it/ahd6gk) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg)
-* **[Butter](https://github.com/butterproject/butter-desktop)** or [PopcornTime.is](http://popcorn-ru.tk/build/) - *Movies / TV / Anime*
+* **[Butter](https://github.com/butterproject/butter-desktop)** or [PopcornTime.is](http://popcorn-ru.tk/build/) - *Torrent Streaming App*
 * **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/) or [Watcher](https://nosmokingbandit.github.io/) - *Autodownload Torrents*
-* [WatchIt](http://watchitapp.site/) - *Movies / TV / Anime / [GitHub](https://github.com/ZorrillosDev/watchit-desktop)*
+* [WatchIt](http://watchitapp.site/) - *Torrent Streaming App / [GitHub](https://github.com/ZorrillosDev/watchit-desktop)*
 * [Powder](https://powder.media/) - *Torrent Streaming App*
+* [Filminator](http://filminator.net/) - *Torrent Streaming App*
 * [Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) - *Stream Torrents via Clients*
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) or [ReloTV](https://www.reloltv.com/) - *Stream Torrents in Browser*
 * [Radarr](https://radarr.video/) - *Movie Torrent Autodownload / [GitHub](https://github.com/Radarr/Radarr)*
