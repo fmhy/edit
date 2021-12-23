@@ -370,7 +370,7 @@
 * [KissAsian](https://kissasian.li/), [2](https://kissasian.ac/) - *TV*
 * [GoPlay](https://goplay.anontpp.com/?ref=Reddit) - *TV / [Discord](https://discord.gg/Gh44afE) / [Reddit](https://redd.it/723mtd)*
 * [AsianCrush](https://www.asiancrush.com/) - *TV / Movies*
-* [DramaCool](https://dramacool.bid/), [dramacool9](https://www.dramacool9.co/) or [WatchAsian](https://watchasian.cc/) - *TV / Movies*
+* [DramaCool](https://www3.dramacool.sk/), [dramacool9](https://www.dramacool9.co/) or [WatchAsian](https://watchasian.cc/) - *TV / Movies*
 * [DramaDay](https://dramaday.net/) - *TV* 
 * [icdrama](http://www1.hkdrama.to/) - *TV / Movies* 
 * [FastDrama](http://fdrama.net/) - *TV / Movies*
