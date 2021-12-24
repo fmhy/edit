@@ -221,6 +221,7 @@
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - *Linux Gaming Kernels*
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - *Linux System Optimizer*
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - *Linux Game Package Downloader*
+* [yuzu-ea-updater-for-linux](https://github.com/lem6ns/yuzu-ea-updater-for-linux) - *Linux Yuzu Updater*
 * [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - *Roblox Manager for Linux*
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - *Play Among Us in your Terminal (Recreation)*
 
@@ -244,11 +245,11 @@
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) - *Download MacOS*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - *MacOS Virtualbox Installer*
-* [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/) - *Install New macOS on Unsupported Devices*
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - *Windows 11 Desktop Client for macOS*
 * [LimaVM](https://github.com/lima-vm/lima) - *Linux VM on MacOS*
 * [CrossOver](https://www.codeweavers.com/crossover) - *Run Windows Programs on Mac / Infinite Free Trials*
-* [OpenCore](https://github.com/acidanthera/OpenCorePkg) - *Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/)*
+* [OpenCore](https://github.com/acidanthera/OpenCorePkg) - *Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/) / [Guide](https://dortania.github.io/OpenCore-Install-Guide/)*
+* [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/) - *Install New macOS on Unsupported Devices*
 * [Conky](https://github.com/brndnmtthws/conky) - *System Monitor / [Colors](https://github.com/helmuthdu/conky_colors)*
 * [Clean-Me](https://kevin-de-koninck.github.io/Clean-Me/) - *MacOS System Cleanup*
 * [OpenSourceApple](https://opensource.apple.com/) - *System Tools*
