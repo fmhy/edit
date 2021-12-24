@@ -208,7 +208,7 @@
 * **[Random Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_sites)** - *Random Site Generators*
 * **[Iceberg Charts](https://icebergcharts.com/)** - *Explore Obscure Topics / [/r/IcebergCharts](https://www.reddit.com/r/IcebergCharts/)*
 * **[Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - *Multireddits Curated by FMHY Members*
-* **[r.sine.com](https://r.sine.com/index)** or [Cameron.Red](https://cameron.red/imgur/) - *Random Images*
+* **[r.sine.com](https://r.sine.com/index)**, [Pretty Flix](https://cvines528.github.io/Pretty-Flix/) or [Cameron.Red](https://cameron.red/imgur/) - *Random Images*
 * **[Random Comic Generator 3.0](https://explosm.net/rcg)** - *Explosm Random Comic Generator*
 * **[Talk Obama To Me](http://talkobamato.me/)** - *Make Obama Say Stuff*
 * **[Objection!](https://objection.lol/)** - *Ace Attorney Objecting on Your Behalf* 
@@ -260,6 +260,7 @@
 * [larsberg](http://www.larsberg.net/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - *Trippy 3D Experiments*
 * [Just Type Stuff ](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - *Type Things into Existence*
 * [WriteAPrisoner](https://writeaprisoner.com/) - *Pen Pals for Inmates*
+* [PenPal World](https://www.penpalworld.com/) or [GlobalPenFriends](https://www.globalpenfriends.com/) - *Pen Pal Community*
 * [PostSecret](https://postsecret.com/) - *Share Secrets via Postcard*
 * [This Is Sand](https://thisissand.com/) - *Make Sand Art* 
 * [Orb.Farm](https://orb.farm/) - *Virtual Aquatic Ecosystem* 
@@ -326,6 +327,7 @@
 * [Koalas to the Max](http://www.koalastothemax.com/) - *Make Smaller & Smaller Dots*
 * [Mebious](https://mebious.wirechan.org/) - *Upload Random Images / Text to Public Wall*
 * [RolePlayer](https://www.roleplayer.me/) - *Roleplaying Social Network*
+* [Translation Party](https://www.translationparty.com/) - *Translation Parties*
 * [The Editing Room](https://www.the-editing-room.com/) - *Funny abridged movie scripts*
 * [Smash The Walls](https://smashthewalls.com/) - *Smash Walls*
 * [Petting](http://oos.moxiecode.com/js_webgl/fur/index_petting.html) - *Fur Simulator*
@@ -751,6 +753,7 @@
 * [Windy](https://www.windy.com/) or [WebGL-Wind](https://mapbox.github.io/webgl-wind/demo/) - *Wind Map* 
 * [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - *Global Jetstream Forcast Map*
 * [Air Now](https://gispub.epa.gov/airnow/) or [Breezometer](https://www.breezometer.com/air-quality-map/) - *Air Quality Map*
+* [ClimateCharts](https://climatecharts.net/) - *Climate Map*
 * [Global Hyrdo Data](https://www.esri.com/arcgis-blog/products/product/water/global-hydro-data-its-here-here-here/) - *Global Hydro Data / Mapping*
 * [River Runner](https://river-runner.samlearner.com/) - *River Map*
 * [Gloric](https://www.hydrosheds.org/page/gloric) - *River Type Database / Mapping*
@@ -862,6 +865,7 @@
 * [700-free-ttf-fonts-pack](https://drive.google.com/file/d/0B7IoVaGUMDVseFpvQ3NKTlNydmc/view?resourcekey=0-7iCgiOnXxBtilY0tJ2Nikg)
 * [250_Professional_Fonts_Bundle](https://drive.google.com/file/d/1-aGiDPsve_uOd8XgC3iMaTFrxxc1sgp2/view)
 * [Get Font](https://getfont.herokuapp.com/) - *Find Font in Github* 
+* [Textcraft](https://textcraft.net/) - *Styled Font Generator*
 * [Cava's Pixel Resources](https://caveras.net/) - *Pixel Fonts* 
 * [Scanlation School Drive](https://drive.google.com/drive/folders/1hPV4o8fmxY2Ab9tXi84l0vVOUQEgFIbU) - *Comic Fonts*
 * [Make WordArt](https://www.makewordart.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - *WordArt Generator*
