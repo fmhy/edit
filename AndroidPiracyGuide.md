@@ -213,6 +213,7 @@
 * [Image Searcher](https://play.google.com/store/apps/details?id=sansunsen3.imagesearcher) - *Image Search App*
 * [background video recorder](https://play.google.com/store/apps/details?id=com.camera.secretvideorecorder) - *Record Videos in Background*
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
+* [Walkie-Talkie](https://walkie-talkie.io/) - *Walkie-Talkie App*
 * [1 Second Everyday](http://1se.co/) - *1 Second Video Diary*
 * [Green Screens](https://play.google.com/store/search?q=green%20screen&c=apps) - *Green Screens for Android*
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - *Telegram Client*
@@ -836,6 +837,7 @@ RSS Player*
 * [Resurfer](https://apps.apple.com/us/app/resurfer/id1489340046), [Orion](https://apps.apple.com/us/app/orion-for-reddit/id1536533779), [Narwhal](https://apps.apple.com/us/app/narwhal-for-reddit/id845422455), [Reno](https://apps.apple.com/us/app/reno-for-reddit/id1489831590#?platform=iphone) or [BaconReader](http://baconreader.com/) - *Reddit Client*
 * [Remmel](https://apps.apple.com/us/app/remmel-for-lemmy/id1547988171) - *Lemmy Client*
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
+* [Walkie-Talkie](https://walkie-talkie.io/) - *Walkie-Talkie App*
 * [Nicegram](https://nicegram.app/) - *Telegram Client*
 * [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - *XMPP Client*
 * [Thimble](https://www.thimbleapp.co/) - *Group Messaging*
