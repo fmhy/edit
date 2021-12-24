@@ -117,6 +117,8 @@
 * [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) or [Netch](https://github.com/netchx/Netch/) - *Online Game Acceleration Proxy*
 * [Nemirtingas Galaxy Emu](https://gitlab.com/Nemirtingas/nemirtingas_galaxy_emu) - *GOG Galaxy Lan Emulator*
 * [ElDewrito](https://dewritohub.com/) - *Halo Online Mod Tool / [GitHub](https://github.com/ElDewrito) / [Discord](https://discord.com/invite/0TKY0SDEUHAWL4sG), [2](https://discord.com/invite/gtqM3s5)*
+* [Northstar](https://discord.gg/CEszSguY3A) - *Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases / [Guide](https://rentry.org/northstar-guide)*
+* [Titanfall2HudToggle](https://www.mediafire.com/file/q3tld2cm31znu2z/Titanfall2HudToggle.rar/file) - *Toggle Titanfall 2 Hud*
 * [CnCNet](https://cncnet.org/) - *Multiplayer Command & Conquer* 
 * [Rusticaland](https://rusticaland.net/) - *Rust Cracked Client / Servers*
 * [NV: Multiplayer](https://nv-mp.com/) - *Fallout New Vegas Multiplayer Project / [Discord](https://discord.com/invite/mKVdhmEDrW)*
@@ -373,6 +375,5 @@
 * [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - *Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)*
 * [Modding-OpenMW](https://modding-openmw.com/) - *Morrowind Mods*
 * [CT3Tweaks](https://ct3tweaks.stashy.dev/) - *Crazy Taxi 3 Tweak Tool / [GitHub](https://github.com/stashymane/ct3tweaks)*
-* [Titanfall2HudToggle](https://www.mediafire.com/file/q3tld2cm31znu2z/Titanfall2HudToggle.rar/file) - *Toggle Titanfall 2 Hud*
 * [FtG UI Mod](https://www.nexusmods.com/dragonage/mods/73) - *Make Dragon Age Text Readable*
 * [Peter Jackson's King Kong Signature Edition Fix](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix) - *Peter Jackson's King Kong Signature Edition Patcher*
