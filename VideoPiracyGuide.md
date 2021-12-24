@@ -79,6 +79,7 @@
 * [Join4Films](https://www.join4films.net/hollywood/) - *Movies*
 * [OpenloadTV](https://openloadtv.co/) - *Movies*
 * [AllMoviesForYou](https://allmoviesforyou.co/) - *Movies / TV* 
+* [MoviesDownloadHub](https://moviesdownloadhub.com/category/hollywood/) - *Movies / TV*
 * [FlixGo](https://flixgo.me/) - *Movies / TV*
 * [TheFlix](https://theflix.to/) - *Movies / TV*
 * [1movies](https://ww2.1movies.is/), [Real-Primewire](https://real-primewire.club/), [CouchTuner](https://couchtuner.fashion/) or [New-Primewire](https://ww1.new-primewire.com/) - *Movies / TV / Anime*
@@ -422,8 +423,9 @@
 ## ▷ Live TV / Sports 
 
 * **[Sportsurge](https://sportsurge.net/)**, [2](https://sportsurge.club/) - *Sports / Stream Locator*
-* **[WebOas.is TV](http://streamwat.ch/)** - *TV / Sports*
+* **[Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - *TV / Sports*
 * **[Jackal](https://jackal.surge.sh/)** - *TV / Sports*
+* **[WebOas.is TV](http://streamwat.ch/)** - *TV / Sports*
 * **[LiveOnScore](http://liveonscore.tv/)** - *Sports* 
 * **[StreamEast](https://www.streameast.io/)** - *Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)*
 * **[Black Tie Sports](https://blacktiesports.net/)** - *Sports* 
@@ -431,6 +433,7 @@
 * **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - *NBA / NFL*
 * **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [2](https://github.com/iptv-org/iptv) - *IPTV Resources / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists)*
 * [TOTV](http://totv.org/) - *TV / Sport*
+* [LmaoLove](http://lmao.love/) - *TV / Sports*
 * [123TV](http://123tv.live/) - *TV / Sports*
 * [WatchNewsLive](https://watchnewslive.tv/) - *TV / Sports*
 * [streamlive](https://www.streamlive.to/) - *TV / Sports*
@@ -495,6 +498,7 @@
 * [Volokit](https://community.volokit.com/) - *Sports* 
 * [StrikeOut](https://www.strikeout.nu/) - *Sports*
 * [BestSolaris](http://bestsolaris.com/) - *Sports*
+* [Score808](http://www.score808.vip/) - *Sports*
 * [DudeStream](http://dudestream.com/) - *Sports*
 * [Cricworld](http://cricworld.club/) - *Sports*
 * [CricHD.tv](https://web.crichd.tv/) - *Sports*
@@ -555,7 +559,7 @@
 * [My Duck Is Dead](http://www.myduckisdead.org/) - *Rare Movies / NSFW* 
 * [Choices](https://howlongwillthishydralast.weebly.com/choices.html) - *Movies / TV*
 * [MobileTVShows](https://www.mobiletvshows.net/) - *TV / Anime*
-* [MoviesforDiscord](https://discord.movies4discord.xyz/) - *Movie Streaming / Download Bot / [Website](https://movies4discord.xyz/)*
+* [MoviesforDiscord](https://discord.gg/h3uM4zQ9QR) - *Movie Streaming / Download Bot / [Website](https://movies4discord.xyz/)*
 * [Medeberiyaa](https://medeberiyaa.com/) - *Movies / TV / Anime*
 * [PSARips](https://psarips.top/) - *Movies / TV / [GDrive Telegram](https://t.me/PSAonGdrive) / [Scraper](https://github.com/NandiyaLive/PSALinkGrabber)* 
 * [MNF Encode](https://mnfencode.me/) - *Movies / TV / Concerts / [Discord](https://discord.gg/5QTp8cgrjx)*
@@ -624,9 +628,11 @@
 * [SD Movies Point](https://1sdmoviespoint.kim/category/hollywooddd/) - *Movies / TV*
 * [SkyMoviesHD](https://skymovieshd.cam/category/Hollywood-English-Movies.html) - *Movies*
 * [HDFriday](https://hdfriday.com/category/download-hollywood-movies/) - *Movies*
+* [MoviesDownloadHub](https://moviesdownloadhub.com/category/hollywood/) - *Movies / TV*
 * [MegaUploadAgora](https://www.megauploadagora.com.br/) - *Movies / TV* 
 * [TheMovieBoss](https://themoviesboss.org/) - *Movies / TV*
 * [Khatrimaza](https://khatrimaza1.in/) - *Movies / TV* 
+* [Nine9ja](https://nine9ja.com/) - *Movies*
 * [Warez Lover](https://warezlover.org/) - *Movies / TV* 
 * [FilmyZilla](https://filmyzilla.fit/category/latest-hollywood-english-movies.html) - *Movies*
 * [7StarHD](https://7starhd.cards/category/hollywood/) - *Movies / TV*
@@ -866,6 +872,7 @@
 * [FlickChart](https://www.flickchart.com/) - *Rank your movies*
 * [Tastoid](https://www.tastoid.com/) - *Mood Based Recommendations* 
 * [BestSimilar](https://bestsimilar.com/) - *Movie Recommendations* 
+* [GNOD](https://www.gnod.com/) - *Movie Recommendations*
 * [Movies Capstone Project](https://github.com/rounakbanik/movies) - *Movie Recommendations* 
 * [FilmFish](https://www.film-fish.com/) - *Movie & TV Recommendations* 
 * [Suggest Me Movie](https://www.suggestmemovie.com/) - *Movie Recommendations*
@@ -984,9 +991,10 @@
 * [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - *Styled YouTube Subtitles*
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - *Add Subtitles to Twitch Stream*
 * [Bazarr](https://www.bazarr.media/) - *Auto-Download Subtitles* 
+* [HandySub](https://github.com/HandyOrg/HandySub) or [Subscene-Subtitle-Grabber](https://github.com/RafayGhafoor/Subscene-Subtitle-Grabber) - *Subtitle Downloader*
 * [Subliminal](https://github.com/Diaoul/subliminal), [SubtitleBOX](https://github.com/sameera-madushan/SubtitleBOX) or [Subtitle-Downloader](https://github.com/manojmj92/subtitle-downloader) - *Python Download Script* 
 * [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - *Plex Subtitles* 
-* [Subshifter](https://subshifter.bitsnbites.eu/), [subsync](https://github.com/sc0ty/subsync), [ffsubsync](https://github.com/smacke/ffsubsync), [autosubsync](https://github.com/oseiskar/autosubsync) or [subslider.js](https://github.com/micheleb/subslider.js) / [2](https://micheleb.github.io/subslider.js/) - *Sync Subtitles* 
+* [Subshifter](https://subshifter.bitsnbites.eu/), [subsync](https://github.com/sc0ty/subsync), [ffsubsync](https://github.com/smacke/ffsubsync), [Alass](https://github.com/kaegi/alass), [autosubsync](https://github.com/oseiskar/autosubsync) or [subslider.js](https://github.com/micheleb/subslider.js) / [2](https://micheleb.github.io/subslider.js/) - *Sync Subtitles* 
 * [SubtitleDLbot](https://t.me/SubtitleDLbot), [TV Sub Bot](https://t.me/Tv_subtitles_bot), [subtitle_dl_bot](https://t.me/subtitle_dl_bot) or [subtitlepoolbot](https://t.me/subtitlepoolbot) - *Telegram Subtitles Bot* 
 * [MuxedBot](https://t.me/MuxedBot) - *Merge Subtitles / Telegram* 
 * [vlsub](https://github.com/exebetche/vlsub) - *VLC Subtitle Download* 
@@ -997,7 +1005,6 @@
 * [subtitle.js](https://github.com/gsantiago/subtitle.js) - *Parse and manipulate SRT (SubRip)* 
 * [TranslatesSubtitles](https://translatesubtitles.com/) or [SubtitleTranslate](https://github.com/mepeichun/SubtitleTranslate) - *Translate Subtitles* 
 * [DualSub](https://github.com/bonigarcia/dualsub) - *Bilingual subtitles maker*  
-* [HandySub](https://github.com/HandyOrg/HandySub) - *Subtitle Downloader*
 * [SaveSubs](https://www.savesubs.com/) - *Extract Subtitles from Online Videos* 
 * [PlayPhrase](https://github.com/kelciour/playphrase) - *Subtitle Phrase Search*
 * [Sushi](https://github.com/tp7/Sushi) - *Automatic Subtitle Shifter Based on Audio* 
