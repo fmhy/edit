@@ -148,6 +148,7 @@
 * **[HaloMe.nu](https://halome.nu/)** - *Halo Menu Screens*
 * **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_relaxation) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_relaxation)** - *Ambient Mobile Apps* 
 * [lofi.cafe](https://lofi.cafe/) - *Lo-fi Radio*
+* [Ambicular](https://ambicular.com/) - *Lo-fi Radio*
 * [DevTunes FM](https://radio.madza.dev/) - *Lo-Fi Radio*
 * [Viberoom](https://viberoom.audio/) - *Lo-fi Hip-Hop Radio*
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - *Create Room / Lo-Fi Player*
@@ -201,7 +202,7 @@
 * [streamrip](https://github.com/nathom/streamrip) - *Deezer, TIDAL, Qobuz, YouTube, and SoundCloud Downloader / [Colab](https://github.com/taskylizard/uwustreamrip)*
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - *FLAC / MP3*
 * [FreyrJS](https://github.com/miraclx/freyr-js) - *Spotify, Deezer and Apple Music Downloader*
-* [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - *Download from Deezer & Tidal*
+* [DeezerToDrive](https://t.me/deezertodrivebot), [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - *Download from Deezer & Tidal*
 * [OFFMP3](https://offmp3.com/) or [conversormp3](https://conversormp3.com.br/) - *Video Site to MP3 Converter*
 * [SMLoadr](https://t.me/SMLoadrNews) - *FLAC / MP3 / [Desktop GUI](https://github.com/thelucifermorningstar/SMLoadr-AUX/releases)*
 * [RedSea](https://github.com/Dniel97/RedSea) - *Tidal Music Downloader* 
@@ -380,7 +381,8 @@
 * **[Last.fm](https://www.last.fm/home)** or [Libre](https://libre.fm/) - *Automatically track music you listen to / [Manual Scrobble](https://openscrobbler.com/) / [Web Scrobble](https://web-scrobbler.com/) / [Android](https://github.com/kawaiiDango/pScrobbler)*
 * **[Has it leaked](https://hasitleaked.com/)** or [LEAKED](https://leaked.cx/) - *Album Leak Tracker*
 * **[Muspy](https://muspy.com/)** - *Get Album Release Updates*
-* **[Sputnik](https://www.sputnikmusic.com/)**, [RateYourMusic](https://rateyourmusic.com/), [Discogs](https://www.discogs.com/), [listnd](https://listnd.com/) or [Musicbranz](https://musicbrainz.org/) - *Ratings / Reviews*
+* **[RateYourMusic](https://rateyourmusic.com/)**, **[Sputnik](https://www.sputnikmusic.com/)**, [Discogs](https://www.discogs.com/), [listnd](https://listnd.com/) or [Musicbranz](https://musicbrainz.org/) - *Ratings / Reviews*
+* [RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/) - *Artist Recommendations by Genre*
 * [45Cat](http://www.45cat.com/) - *Vinyl Ratings / Reviews*
 * [World Spotify](https://www.worldspotify.com/) - *Daily Most Streamed Tracks by Country* 
 * [Spotalike](https://spotalike.com/), [MagicPlaylist](https://magicplaylist.co/) or [RadioNewify](https://radionewify.com/) - *Spotify Playlist Generator*
@@ -392,7 +394,8 @@
 * [UnknownMusicBot](https://t.me/UnknownMusicBot) - *Play a Random Rare Song from YouTube* 
 * [Music-Map](https://www.music-map.com/) or [Musicroamer](https://www.musicroamer.com/) - *Similar Artist Discovery* 
 * [BoilTheFrog](http://boilthefrog.playlistmachinery.com/) - *Create Playlists From 2 Artists* 
-* [Gnoosic](https://www.gnoosic.com/) or [What The Fuck Should I Listen To Right Now?](https://www.whatthefuckshouldilistentorightnow.com/) - *Artist Discovery Tool* 
+* [WeirdSpot](https://www.weirdspot.fyi/) - *Generate Playlists from Sentences*
+* [Gnoosic](https://www.gnoosic.com/), [GNOD](https://www.gnod.com/) or [What The Fuck Should I Listen To Right Now?](https://www.whatthefuckshouldilistentorightnow.com/) - *Artist Discovery Tool* 
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - *Generates Random Album Each Weekday* 
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Greatest 100 Lists*
 * [Acclaimed Music](http://www.acclaimedmusic.net/) - *Discover Acclaimed Music of the Times*
