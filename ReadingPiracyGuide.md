@@ -338,7 +338,7 @@
 * [do_k_ument](https://mega.nz/folder/QEV0jKYZ#-BVVScey6draL30yB_KowA) - *Survival, Forging, Smithing, Weapons Training, Field Manuals*
 * [Survivor Library](http://www.survivorlibrary.com/), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/), [Free Survival eBooks](https://www.defiel.com/free-survival-ebooks/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - *Survival*
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - *Auto Brochures*
-* [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U), [PimpMyMind](https://pimpmymind.net/), [selfhelpbooklab](https://t.me/selfhelpbooklab), [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - *Self-Help*
+* [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U), [PimpMyMind](https://pimpmymind.net/), [selfhelpbooklab](https://t.me/selfhelpbooklab), [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U), [Blinkist Free Daily](https://t.me/blinkistfree) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - *Self-Help Books*
 * [Websleuths](https://www.websleuths.com/) - *Crime Solving Forum*
 * [QSL](https://www.qsl.net/w/w7lk/misc%20pdf%20files/) - *Ham Radio & Antenna Books* 
 * [Erowid](https://www.erowid.org/) - *Psychoactive Information Index*
@@ -771,6 +771,7 @@
 * [MangaNelo](https://manganelo.com/) or [Mangakakalot](https://mangakakalot.com/)
 * [MangaHub](https://mangahub.io/)
 * [MP4DIRECTS](https://mp4directs.com/) 
+* [MangaList](https://mangalist.com/) 
 * [Manga Park](https://mangapark.net/)
 * [MangaTown](https://www.mangatown.com/)
 * [FunManga](https://funmanga.com/) 
@@ -1008,7 +1009,7 @@
 * **[GoodReads](https://www.goodreads.com/)** - *Books / Comics / Manga / [DL Button](https://github.com/laxyapahuja/bunken)*
 * **[MyAnimeList](https://myanimelist.net/)** - *Manga*
 * **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - *Comics*
-* **[TasteDive](https://tastedive.com/)**, [Reddit Reads](https://www.redditreads.com/), [What Should I Read Next?](https://www.whatshouldireadnext.com/), [RecommendMeABook](https://recommendmeabook.com/) or [WhichBook](https://www.whichbook.net/) - *Book Recommendations* 
+* **[TasteDive](https://tastedive.com/)**, [Reddit Reads](https://www.redditreads.com/), [What Should I Read Next?](https://www.whatshouldireadnext.com/), [GNOD](https://www.gnod.com/), [RecommendMeABook](https://recommendmeabook.com/) or [WhichBook](https://www.whichbook.net/) - *Book Recommendations* 
 * [Litsy](https://www.litsy.com/) - *Book Recommendation / Photo Sharing Community*
 * [5000 Best](http://5000best.com/) - *Top 5000 Books*
 * [listal](https://www.listal.com/) - *Books*
@@ -1088,6 +1089,8 @@
 * [Raven Reader](https://ravenreader.app/) - *Article Reader / Manager* 
 * [Cubari](https://cubari.moe/) - *Image Proxy / Reader*
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - *Read Books in Browser*
+* [Kindle to PDF](https://redd.it/bm837l) - *Kindle to PDF Conversion Guide*
+* [Ebook Sender](https://telegram.me/to_kindle_bot), [SendEpubToKindle](https://www.sendepubtokindle.com/) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - *Send Ebooks to Kindle*
 * [Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading) Ebook Readers - *Mobile Browser Readers*
 * [The Open Book](https://github.com/joeycastillo/The-Open-Book) - *DIY Ebook Reader*
 
@@ -1102,10 +1105,8 @@
 * [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - *Generate Text & Article Summaries*
 * [FiveFilters](https://www.fivefilters.org/) - *Multiple Article Accessibility Tools*
 * [Bypass Quora login](https://onehack.us/t/bypass-quora-login-for-unlimited-reading-new-method-legal/92786)
-* [Kindle to PDF](https://redd.it/bm837l) - *Kindle to PDF Conversion Guide*
 * [Ebook-Converter](https://ebook-converter.com/) - *Ebook Converter*
 * [Bookfeed.io](https://cran.r-project.org/ ) - *Book RSS Feed*
-* [Ebook Sender](https://telegram.me/to_kindle_bot) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - *Send Ebooks to Kindle*
 * [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - *Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)*
 * [BookCut](https://github.com/costis94/bookcut) - *Ebook Download Tool* 
 * [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - *Google Book Downloader w/ Proxy Support*
