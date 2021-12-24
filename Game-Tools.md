@@ -15,6 +15,7 @@
 * **[PCGamingWiki](https://www.pcgamingwiki.com/)** or [AppleGamingWiki](https://applegamingwiki.com/) - *Game Info, Bug Fixes & Improvements*
 * **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)** or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - *Game Requirements Test* 
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - *Rainmeter Game Launcher*
+* [TCNO](https://github.com/TcNobo/TcNo-Acc-Switcher) - *Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)*
 * [How-To Make Cracked Games Look Like Official Steam Games](https://www.reddit.com/r/PiratedGames/comments/pmim9t/tutorial_make_your_cracked_games_look_like/)
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?usp=sharing), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - *FPS & Latency Guides*
 * [Fraps](https://rentry.co/frapsfullfree) / [2](https://fraps.com/), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - *FPS Benchmarking Utility*
@@ -83,7 +84,7 @@
 * [Before I Play](http://www.beforeiplay.com/) - *Tips for any Game* 
 * [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - *System Gaming Tweak Guide*
 * [ProSettings](https://prosettings.net/) - *In-Game Settings Optimization Guides*
-* [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) - *Game Optimization Guides*
+* [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - *Gaming Optimization Guides*
 * [Low Specs Experience](https://ragnotechpowered.com/) - *Game Optimization Program* 
 * [Magpie](https://github.com/Blinue/Magpie) - *Enable AMD FSR on Any Game / [Tutorial](https://youtu.be/gac7llDa18k)*
 * [Moonlight Stream](https://moonlight-stream.org/) or [Rainway](https://rainway.com/gaming) - *PC Remote Play Client / [GitHub](https://github.com/moonlight-stream)*
@@ -211,6 +212,7 @@
 * [Vali's City](https://github.com/RadValentin/vali-city) - *GTAVC Matrix Themed Mod*
 * [skin-switcher](https://github.com/PrographerMan/skin-switcher) - *GTAVC Skin Switching Mod*
 * [GTA-Vice-City-Interactive-Map](https://github.com/denizariyan/GTA-Vice-City-Interactive-Map) - *GTAVC Interactive Map Mod*
+* [MixMods](https://www.mixmods.com.br/) - *GTASA Mods*
 * [Jetpack Downgrader](https://github.com/Zalexanninev15/Jetpack-Downgrader) - *GTASA Downgrader*
 * [gtasa-savegame-editor](https://github.com/Kronavarb/gtasa-savegame-editor) - *GTASA Save Editor*
 * [SAMP-GPS](https://github.com/janglapuk/SAMP-GPS) - *GTASA Multiplayer GPS*
@@ -340,7 +342,7 @@
 
 # ► Game Mods
 
-* **[ModDB](https://moddb.com/)**, [Nexus Mods](https://www.nexusmods.com/), [ZagruzkaMods](https://zagruzkamods.com/), [NextGenUpdate](https://www.nextgenupdate.com/), [ModWorkshop](https://modworkshop.net/), [Video Game Mods](https://videogamemods.com/) or [CurseForge](https://www.curseforge.com/) - *Game Mods* 
+* **[ModDB](https://moddb.com/)**, [Nexus Mods](https://www.nexusmods.com/), [ZagruzkaMods](https://zagruzkamods.com/), [NextGenUpdate](https://www.nextgenupdate.com/), [ModWorkshop](https://modworkshop.net/), [Video Game Mods](https://videogamemods.com/), [Silent's Blog](https://cookieplmonster.github.io/mods/index/) or [CurseForge](https://www.curseforge.com/) - *Game Mods* 
 * [FlingTrainer](https://flingtrainer.com/) - *Game Mods / Trainers*
 * [MegaGames](https://megagames.com/) - *Fixes / Trainers / News*
 * [ChronoCrash](http://www.chronocrash.com/forum/) - *Game Modding Forum*
@@ -367,7 +369,7 @@
 * [Paydaymods](http://paydaymods.com/) - *Payday 2 Mods*
 * [Superblt](https://superblt.znix.xyz/) - *Payday 2 Modding Tool*
 * [Payday 2 FPS Boost](https://steamcommunity.com/sharedfiles/filedetails/?id=1933473710) - *Payday 2 FPS Boost Mod List*
-* [NFSMods](https://nfsmods.xyz/home) - *Need for Speed Mods*
+* [NFSMods](https://nfsmods.xyz/home) or [Project Unite](https://discord.com/invite/3F6vEyp) - *Need for Speed Mods*
 * [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - *Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)*
 * [Modding-OpenMW](https://modding-openmw.com/) - *Morrowind Mods*
 * [CT3Tweaks](https://ct3tweaks.stashy.dev/) - *Crazy Taxi 3 Tweak Tool / [GitHub](https://github.com/stashymane/ct3tweaks)*
