@@ -296,6 +296,7 @@
 
 * [WawaCity](https://www.wawacity.video/), [2](https://www.wawacity.vip/) - *Video / Audio / Books / Magazines / Software / Android / Use AdBlocker*
 * [VK Streaming](https://vkstreaming.one/) - *Movies / TV / Anime* 
+* [DU Cine](https://www.ducine.co/) - *Movies / TV*
 * [FilmZen](https://filmzenstream.online/) - *Movies* 
 * [OtakuFR](https://otakufr.co/) - *Anime* 
 * [French-Stream](https://french-stream.re/) - *Movies / TV / Anime*
