@@ -15,7 +15,8 @@
 * **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - *Download GFX Design Software*
 * **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/), [4](https://mega.nz/file/E5MwmT5Z#YP-vMSTcm8voKjb72_nHsLYH1AGmliWsbUGXVJhNHDE) - *Design Tool Resource Indexes*   
 * **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - *Glitch Images*
-* [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/) or [Glitterly](https://glitterly.app/) - *Graphic Design Program*
+* [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Stencil](https://getstencil.com/
+), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/) or [Glitterly](https://glitterly.app/) - *Graphic Design Tools*
 * [Scribus](http://www.scribus.net/) - *Page Layout & Typesetting Program*
 * [FreeCourseSEO](https://freecourseo.com/) - *GFX Design Courses / [Telegram](https://t.me/freecoursessite1)*
 * [1TB Art Courses](https://pastebin.com/hKgJG2Vz) - *Art Courses*
@@ -67,12 +68,12 @@
 * Waifu2x Tools - [Guide](https://i.imgur.com/55s8sU5.png) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/tanakamura/waifu2x-converter-cpp), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/), [5](https://waifu2x.me/), [6](http://waifu2x.udp.jp/), [7](https://waifu2x.org/), [8](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 * [Croppola](https://croppola.com/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - *Cropping Tool* 
 * [Seopix](https://www.seopix.io/) - *Resize & Compress Images*
-* [Simple Image Resizer](http://www.simpleimageresizer.com/) - *Resize Images*
+* [Simple Image Resizer](http://www.simpleimageresizer.com/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - *Resize Images*
 * [Resize App Icon](https://resizeappicon.com/) - *Resize Square Images* 
 * [SSizes](https://ssizes.com/) - *Resize Images for Different Sites*
 * [RIOT](https://riot-optimizer.com/) - *Image Optimization Tool*
 * [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - *Scale Pixel Art w/o Quality Loss*
-* [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [Crushee](https://crushee.app/) or [Batch Compress](https://batchcompress.com/en) - *Image Compressor* 
+* [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [ImageDiamond](https://www.imagediamond.com/), [Crushee](https://crushee.app/) or [Batch Compress](https://batchcompress.com/en) - *Image Compressor* 
 * [TinyPNG](https://tinypng.com/) or [PNGQuant](https://pngquant.org/) - *PNG Compressor* 
 * [JPEG.rocks](https://jpeg.rocks/) - *JPEG Re-Encoder* 
 
@@ -96,7 +97,7 @@
 * [Rough.js](https://roughjs.com/) - *Create Graphics that look Hand-Drawn*
 * [FontIcon](https://gauger.io/fonticon/)[PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [ICO Convert](https://www.icoconvert.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - *Icon Generators*
 * [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/) or [ACME](https://acme.com/labelmaker/) - *Logo Creator* 
-* [ArtFlow](http://artflow.ai/) or [Avataaars](https://getavataaars.com/) - *Face / Avatar Generator*
+* [ArtFlow](http://artflow.ai/), [Pravatar](https://pravatar.cc/) or [Avataaars](https://getavataaars.com/) - *Face / Avatar Generator*
 * [Mirro-Ai](https://mirror-ai.com/) - *Get Stickers With Your Face*
 * [EmojiMix](https://tikolu.net/emojimix) - *Combine Emojis*
 * [imgsli](https://imgsli.com/) - *Before & After Slider Generator*
@@ -105,6 +106,7 @@
 * [Photovisi](https://www.photovisi.com/) - *Photo Collage Generator* 
 * [Make Photo Gallery](https://makephotogallery.net/) - *Photo Gallery Creator*
 * [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - *Image to ASCII Art Generator*
+* [dream](https://app.wombo.art/) - *Dream Art Generator*
 * [TierMaker](https://tiermaker.com/) - *Tier List Image Creator*
 * [Hugin](http://hugin.sourceforge.net/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - *Panorama Photo Generator* 
 * [DoodDad](https://doodad.dev/pattern-generator), [patternico](https://patternico.com/) or [Haikei](https://app.haikei.app/)  *Pattern Generator*
