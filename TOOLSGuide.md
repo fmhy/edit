@@ -32,6 +32,7 @@
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - *Gun Violence Information Database*
 * [OEC](https://oec.world/en) - *International Trade Data Visualization*
 * [Global Consciousness Project](https://gcpdot.com/) - *Real-Time Global Consciousness Data*
+* [Faces of Suicide](https://www.facesofsuicide.com/) - *Suicide Victim Remembrance & Donations*
 * [The Measure Of Things](https://www.bluebulbprojects.com/measureofthings/default.php) - *Comparative / Relative Quantity Measurements* 
 * [Compare Sizes](https://comparesizes.com/) - *Size Comparison Tool* 
 * [hikaku-sitatter](https://hikaku-sitatter.com/en/) - *Height Comparison Tool*
@@ -115,7 +116,7 @@
 * **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_office_suites)** - *Office Suite Software*
 * [Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pastebins) - *Paste / Store Text Online*
 * [MarkdownPastebin](https://markdownpastebin.com/) - *Markdown Pastebin*
-* [PrivNote](https://privnote.com/) or [IPNote](https://ipnote.io/) - *Notes that Auto Delete After Being Read* 
+* [PrivNote](https://privnote.com/), [Burner Note](https://burnernote.com/) or [IPNote](https://ipnote.io/) - *Self Destructing Text*
 * [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - *Calendar & Scheduling Tools*
 * [Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - *Note Taking & To-do Apps*
 * [Manuskript](https://www.theologeek.ch/manuskript/) - *Writing Organizer & Planner*
@@ -131,6 +132,7 @@
 * [How To Use Excel](https://www.how-use-excel.com/) - *Excel Tutorial*
 * [Plain Text Table](https://plaintexttools.github.io/plain-text-table/) - *Text Tables*
 * [Read File Online](http://www.readfileonline.com/) - *Online Large Text File Viewer*
+* [Office Search](http://www.enselsoftware.com/product/OfficeSearch.html) - *Multi-File Text Search*
 * [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - *Rephrase / Paraphrase Text* 
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - *Detect Plagiarized Content*
 * [phraseup](http://www.phraseup.com/) - *Autocomplete Common Phrases* 
@@ -415,7 +417,7 @@
 * [Nightcore Maker](https://nightcoremaker.com/) - *Create Nightcore Versions of Songs*
 * [CSound](https://csound.com/) - *Music Computing System*
 * [Melodai.art](https://melodai.art/) - *AI Melody Generator*
-* [Karaoke Maker](https://www.edityouraudio.com/karaoke-maker) or [X-Minus](https://x-minus.pro/) - *Create Karaoke Songs*
+* [Karaoke Maker](https://www.edityouraudio.com/karaoke-maker), [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - *Create Karaoke Songs*
 * [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/) or [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Online Audio Recorder* 
 * [MP3Smaller](https://www.mp3smaller.com/) - *MP3 Compressor* 
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts* 
@@ -438,7 +440,7 @@
 * [Acapella-Extractor](https://www.acapella-extractor.com/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - *Remove Background Tracks from Songs*
 * [VoiceFX](https://blog.xaymar.com/projects/voicefx/) - *Remove Background Noise from Voice Recordings*
 * [Krisp](https://krisp.ai/) - *Noise Cancellation Software*
-* [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) - *Audio Mixing App*
+* [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Infinite Pro Trial](https://gist.github.com/programminghoch10/b6021e40cc1905d2b01a1571c6c96f17) - *Audio Mixer*
 * [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - *Voice Audio Mixer*
 * [Voice Changer](https://voicechanger.io/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [VoiceMod](https://filecr.com/?s=VoiceMod+Pro), [MorphVOX](https://filecr.com/?s=MorphVOX+Pro) or [ClownFish](https://clownfish-translator.com/voicechanger/) - *Voice Changer*
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) or [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - *Clone Voices*
@@ -487,11 +489,13 @@
 * [/r/freelance](https://www.reddit.com/r/freelance/) - *Freelance Subreddit*
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - *Design Job Subreddit*
 * [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - *Career Guidance Subreddit*
+* [ReallyConfused](https://reallyconfused.co/) - *Career Roadmaps*
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - *Cloud Career Training*
 * [learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - *Cloud Computing Fundamentals*
 * [Candor](https://candor.co/hiring-freezes/) - *Hiring Freezes*
 * [Kimai](https://www.kimai.org/) - *Working Hours Tracker*
 * [Zeoob](https://zeoob.com/) - *Social Media Digital Marketing Post Simulator*
+* [ConvertMenu](https://convertmenu.com/) - *Convert Menu to QR Codes*
 * [VCEGuide](https://vceguide.com/) - *Tech Certification Practice Tests*
 * [9Tut](https://www.9tut.com/) - *CCNA Certification Training*
 * [GetFreeIMEBooks](https://www.getfreeimebooks.com/) - *Digital Marketing Resources*
@@ -512,9 +516,10 @@
 * **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - *Create Temporary Email Addresses*
 * **[Site Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_site_development)** - *Site Development & Hosting Tools*
 * [Yandex Disk](https://disk.yandex.com/), [VK WorkSpace](https://biz.mail.ru/) or [OpenDesktop](https://www.opendesktop.org/) - *Multiple Cloud Services* 
+* [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - *Self-Hosted Cloud Services*
 * [Nativefier](https://github.com/nativefier/nativefier) - *Turn Sites into Desktop Apps*
 * [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - *Test Internet Speed*
-* [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - *Network manager*
+* [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) or [WLan10](https://github.com/afit/wlan10) - *Network manager*
 * [OONI](https://ooni.org/) - *Test Site Blocking / Network Speed*
 * [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) - *OpenSSH Client / Server*
 * [TCP Optimizer](https://www.speedguide.net/downloads.php/) - *Network Optimizer*
@@ -757,6 +762,7 @@ General Reading Sites*
 * [sitedorks](https://github.com/Zarcolio/sitedorks) - *Search Dorks*
 * [Cyber](https://cyber.page/) - *Hash Search Engine* 
 * [CrunchBase](https://www.crunchbase.com/) - *Company Info Search*
+* [Is it big?](https://isitbig.org/) - *Brand Corporation Connection Search*
 * [Matrix](https://matrix.itasoftware.com/) - *Airfare Search*
 * [Hunter.io](https://hunter.io/) - *Business Email Address Search*
 * [ImportYeti](https://www.importyeti.com/) - *Search U.S. Customs Shipment Records* 
@@ -797,6 +803,7 @@ General Reading Sites*
 * [TinyUrl](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / *[Reveal URL](https://i.imgur.com/DklVFU7.png)*
 * [bit.do](https://bit.do/) - `bit.do/fNj7S`
 * [id](https://home.s.id/) - `s.id/EQBsg`
+* [3c5](https://3c5.com/) - `3c5.com/jWscV`
 * [Tiny.cc](https://tiny.cc/) - `tiny.cc/akl1mz`
 * [IPKill](https://ipkill.org/) - `ipkill.org/3yw`
 * [Shrunken](https://www.shrunken.com/) - `shrunken.com/a72de`
@@ -885,6 +892,7 @@ General Reading Sites*
 * [RDDDeck](https://rdddeck.com/) - *Twitter-Style Reddit Viewer* 
 * [Reddium](https://reddium.vercel.app/) - *Medium-Style Reddit Viewer* 
 * [Unim.Press](https://unim.press/) - *Newspapers-Style Reddit Viewer*
+* [Unreadit](https://app.mailbrew.com/unreadit) - *Reddit Newsletters*
 * [reddit shell](https://redditshell.com/) - *Linux shell emulator for Reddit*
 * [Random Reddit](https://old.reddit.com/random) - *Get Random Reddit Threads / Possibly NSFW*
 * [FrontPageMetrics](https://frontpagemetrics.com/) - *Metrics For Reddit* 
@@ -974,6 +982,7 @@ General Reading Sites*
 * [CloneCord](https://github.com/Rekulous/CloneCord-bot) - *GClone Cloud Storage File Manager in Discord*
 * [Custom Rich Discord Presence](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_custom_rich_discord_presence) - *Customize Discord Rich Presence* 
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - *Discord Rich Presence Manager*
+* [FetchCord](https://github.com/MrPotatoBobx/FetchCord) - *OS Discord Rich Presence*
 * [PlayStationDiscord](https://tustin.dev/PlayStationDiscord/) - *PlayStation Discord Rich Presence*
 * [Adobe Discord RPC](https://github.com/lolitee/adobe-discord-rpc) - *Adobe Rich Presence*
 * [iTunes-Discord-RP](https://github.com/kkevinm/iTunes-Discord-RP) - *iTunes Rich Presence* 
@@ -1014,6 +1023,7 @@ G) - *Create Discord RPCs*
 * [Discord Avatar Maker](https://discord-avatar-maker.app/) - *Make Discord Avatars*  
 * [usrbg](https://github.com/Discord-Custom-Covers/usrbg) or [Pfps.gg](https://pfps.gg/) - *Discord Custom Profile Backgrounds / [Discord](https://discord.gg/2YcxDChxS5)* 
 * [Auto Creative](https://auto.creavite.co/icons) - *Animated Icon & Banner Generator*
+* [DiscordBannerTester](https://dav1312.github.io/BD/DiscordBannerTester/) - *Test Discord Banners*
 * [Disgradient](https://disgradient.vanished.rocks/) - *Gradients for Discord Folders, Roles ect.*
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - *Adds Custom CSS Support* 
 * [Discord Status](https://discordstatus.com/) - *Check Discord Status* 
@@ -1288,6 +1298,7 @@ G) - *Create Discord RPCs*
 * [GetHuman](http://gethuman.com/) or [ContactFound](https://contactfound.com/) - *Tech Support Numbers*
 * [Disk Prices](https://diskprices.com/) - *Disk Price Comparisons*
 * [CPU Boss](http://cpuboss.com/) - *CPU Comparison Tool*
+* [DeviceTests](https://devicetests.com/) - *Multiple Device Tests*
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - *Mouse Click Latency Chart*
 * [Piper](https://github.com/libratbag/piper) - *Gaming Mouse Config Tool*
 * [Sensor.fyi](https://sensor.fyi/info/) - *Mouse Guide / Information*
@@ -1360,6 +1371,7 @@ G) - *Create Discord RPCs*
 * [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit ) - *Intel BIOS Settings Explanation*
 * [How-To Reset BIOS Password](https://www.youtube.com/watch?v=GolIjI2HS5w)
 * [x64dbg](https://github.com/x64dbg/x64dbg) - *Windows Debugging Tool*
+* [UptimeFaker](https://github.com/CookiePLMonster/UptimeFaker) - *System Uptime Debugger*
 * [WhoCrashed](https://www.resplendence.com/whocrashed) - *Windows Crash Analyzer*
 * [WhatPulse](https://whatpulse.org/) - *Mouse / Keyboard Usage Analyzer*
 * [BleachBit](https://www.bleachbit.org/) or [GlarySoft](https://www.glarysoft.com/) - *Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect.*  
@@ -1407,7 +1419,7 @@ G) - *Create Discord RPCs*
 * [Cerebro App](https://cerebroapp.com/) or [Zazu App](http://zazuapp.org/) - *System Productivity Booster*
 * [Econap](https://www.econap.de/) - *Prevent Sleep Mode*
 * [MoveMouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home) - *Simulate User Activity* 
-* [The Fastest Mouse Clicker for Windows](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows) or [AutoClicker Bookmarklet](https://autoclicker.glitch.me/) - *Mouse Auto Clicker*
+* [The Fastest Mouse Clicker for Windows](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows), [Alpha Clicker](https://github.com/robiot/AlphaClicker) or [AutoClicker Bookmarklet](https://autoclicker.glitch.me/) - *Mouse Auto Clicker*
 * [StrokeIt](https://www.tcbmi.com/strokeit/) or [StrokesPlus](https://www.strokesplus.net/) - *Mouse Gestures*
 * [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) - *Improved Context Menu*
 * [OpenWith++](https://github.com/stax76/OpenWithPlusPlus) - *Custom Context Menu Commands*
@@ -1424,10 +1436,12 @@ G) - *Create Discord RPCs*
 * [ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - *Desktop Program, Video & Webpage Pins / Program Wallpapers*
 * [Plumb](https://palatialsoftware.com/plumb/), [nog](https://github.com/TimUntersberger/nog), [bug.n](https://github.com/fuhsjr00/bug.n), [GridMove](https://www.dcmembers.com/jgpaiva/), [Amethyst Windows](https://github.com/glsorre/amethystwindows), [yatta](https://github.com/LGUG2Z/yatta), [WorkSpacer](https://www.workspacer.org/), [TileMe](https://gitlab.com/slavoutich/tileme) or [WindowsGrid](http://windowgrid.net/) - *Window Grid / Tiling Program* 
 * [WindowTop](https://windowtop.info/) - *Window Manager*
+* [Windows Sizer](http://www.brianapps.net/sizer4/) - *Resize & Reposition*
+* [DeskPins](https://efotinis.neocities.org/deskpins/) - *Always on Top Windows*
 * [multrin](https://github.com/sentialx/multrin) - *Organize Windows Apps in Tabs* 
 * [Klotures](https://gitlab.com/jkushmaul/klotures) - *Desktop Icon Organizer / [Demo](https://gitlab.com/jkushmaul/klotures/raw/master/docs/KloturesDemo.webm)*
 * [QuickLook](https://github.com/QL-Win/QuickLook) - *macOS Quick Look for Windows* 
-* [AutoHotkey](https://www.autohotkey.com/) or [AutoIt](https://www.autoitscript.com/) - *Task Automation Scripts / [Script Gen](https://www.ahkgen.com/)*
+* [AutoHotkey](https://www.autohotkey.com/), [MacroRecorder](https://www.macrorecorder.com/) or [AutoIt](https://www.autoitscript.com/) - *Task Automation Scripts / [Script Gen](https://www.ahkgen.com/)*
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) - *System Task Scheduler*
 * [cygwin](http://cygwin.com/) - *Linux Style Windows Tools*
 * [Menu11](https://github.com/prateekmedia/Menu11) - *Windows 11 Style Launcher*
@@ -1484,6 +1498,7 @@ G) - *Create Discord RPCs*
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - *Terminal Frameworks, Plugins & Resources* 
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/) or [MobaXterm](https://mobaxterm.mobatek.net/) - *Alternative Terminal* 
 * [ss64](https://ss64.com/) - *Command Line Reference Index*
+* [ZimTools](https://zimtools.xyz/) - *Command Line Tool Configs*
 * [Alacritty](https://github.com/alacritty/alacritty), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://eugeny.github.io/tabby/) or [Terminus](https://github.com/Eugeny/terminus) - *Terminal Emulator*
 * [XTerm](https://invisible-island.net/xterm/) - *X Window System Terminal Emulator*
 * [Mintty](http://mintty.github.io/) - *Cygwin Terminal Emulator* 
@@ -1515,6 +1530,7 @@ G) - *Create Discord RPCs*
 * [Rajaniraiyn](https://rajaniraiyn.github.io/windows11/) - *Windows 11 Browser Simulator*
 * [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - *Windows 11 Powertoys*
 * [ElevenClock](https://github.com/martinet101/ElevenClock) - *Windows 11 Secondary Monitor Clock*
+* [Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - *Windows 11 Drag & Drop Fix*
 * [Boot Failure Troubleshooting Chart](https://i.imgur.com/QsxYtB4.jpg) - *Boot Failure Troubleshooting Guide*
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) - *Operating System / Software History / [Discord](https://discord.gg/XPz5Zm42tR)*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
@@ -1529,7 +1545,7 @@ G) - *Create Discord RPCs*
 
 * **[Wallpaper Sites / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Download Wallpapers*
 * **[Rainmeter](https://www.rainmeter.net/)** - *Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter)* 
-* **[Dracula](https://draculatheme.com/)** - *App Dark Themes*
+* **[Dracula](https://draculatheme.com/)** or [theme.park](https://theme-park.dev/) - *Custom App Themes*
 * [PCDesktops](http://pcdesktops.emuunlim.com/applinks.shtml) - *Windows Customization Apps*
 * [ScreenStyler](https://screenstyler.com/) -  *Desktop Customization / [Discord](https://discord.gg/u3thTMp9Cd)*
 * [XDesktopSoft](https://www.xwidget.com/) - *Desktop Customization*
@@ -1694,7 +1710,7 @@ G) - *Create Discord RPCs*
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - *HTTP File System*
 * [FolderClone](http://www.folderclone.com/) - *Clone / Backup Folders*
 * [Borg](https://www.borgbackup.org/) - *Deduplicating File Archiver / Backup* 
-* [BackupPC](https://backuppc.github.io/backuppc/), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [DeltaCopy](http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp), [restic](https://restic.net/), [UrBackup](https://www.urbackup.org/), [BlobBackup](https://github.com/BlobBackup/BlobBackup), [FastCopy](http://fastcopy.jp/), [OCCT](https://www.ocbase.com/) or [Duplicati](https://www.duplicati.com/) - *File Backup Tool* 
+* [BackupPC](https://backuppc.github.io/backuppc/), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [DeltaCopy](http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp), [restic](https://restic.net/), [UrBackup](https://www.urbackup.org/), [BlobBackup](https://github.com/BlobBackup/BlobBackup), [SafeCopy](https://www.elwinsoft.com/safecopy-free.html), [FastCopy](http://fastcopy.jp/), [OCCT](https://www.ocbase.com/) or [Duplicati](https://www.duplicati.com/) - *File Backup Tool* 
 * [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) or [filebrowser](https://github.com/filebrowser/filebrowser/) - *Web File Browser*
 * [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/) or [Securedrop](https://securedrop.org/) - *Document File Sharing*
 * [OpenPaper](https://openpaper.work/en/) or [DataShare](https://datashare.icij.org/) - *Document Manager*
@@ -1741,7 +1757,7 @@ G) - *Create Discord RPCs*
 * [HexEd.it](https://hexed.it/) - *Online Hex Editor*
 * [infekt](https://infekt.ws/) or [NFOmation](https://nfomation.net/) - *NFO File Viewer*
 * [text2img](https://master.ayra.ch/text2img/) - *NFO Files to Image Converter*
-* [Linx Server](https://github.com/andreimarcu/linx-server), [FileCream](https://filecream.com/) or [FileStash](http://www.filestash.app/) - *Self-Hosted CLoud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)*
+* [Linx Server](https://github.com/andreimarcu/linx-server), [FileCream](https://filecream.com/) or [FileStash](http://www.filestash.app/) - *Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)*
 * [Linux Reader](https://www.diskinternals.com/linux-reader/) - *Access Linux Files on Windows*
 
 ***
