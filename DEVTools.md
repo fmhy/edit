@@ -45,7 +45,7 @@
 * [Tuts 4 You](https://forum.tuts4you.com/) - *Coding / Developer Tutorials*
 * [PythonTutor](https://pythontutor.com/) - *Coding Tutorials*
 * [VSCodeCanDoThat](https://www.vscodecandothat.com/) - *VSCode Tutorial*
-* [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/) - *Cheat Sheets / Programming / Frameworks / Dev Tools*
+* [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/) or [Cheat Sheets](http://www.cheat-sheets.org/) - *Programming Cheet Sheets*
 * [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) - *Resources For Learning To Code* 
 * [EbookFoundation Interactive Programming Tuts](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md) - *Interactive Programming Tutorials* 
 * [Exercism](https://exercism.org/) - *Programming Lessons*
@@ -117,6 +117,7 @@
 * [Learn SQL](https://sqlbolt.com/) or [Top Database Bundle](https://drive.google.com/drive/folders/1rxntNcqQPQPOeIfzE0YL4NEtUncUsrJJ) - *SQL Lessons*
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - *PostgreSQL Tutorial*
 * [MySQL Tutorial](https://www.mysqltutorial.org/) - *MySQL Tutorial*
+* [SQL Cheat Sheet ](https://i.imgur.com/tHo378Z.jpg)
 * [MongoDB Beginners Guide](https://mega.nz/folder/F5QwxJQa#ruNhz08Cl599MChOBbQeGA) - *MongoDB Tutorials*
 * [LearnCSSGrid](http://learncssgrid.com/) - *CSS Grid Guide*
 * [FlexBoxFroggy](https://flexboxfroggy.com/) - *CSS Learning Game*
@@ -212,7 +213,7 @@
 * [Flux](https://www.runonflux.io/) - *Decentralized Cloud Infrastructure*
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
 * [xWebTools](https://www.xwebtools.com/) - *Web Developer Tools*
-* [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [BulkLink](http://bulklink.org/) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization Tools / [Extension](https://chrome.google.com/webstore/detail/ubersuggest-seo-and-keywo/nmpgaoofmjlimabncmnmnopjabbflegf)*
+* [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [BulkLink](http://bulklink.org/), [SEO Tools Apps](https://www.seotoolsapps.com/) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization / [Extension](https://chrome.google.com/webstore/detail/ubersuggest-seo-and-keywo/nmpgaoofmjlimabncmnmnopjabbflegf)*
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) - *Web Debugging Proxy App*
 * [Tabler](https://tabler.io/) - *Site Admin Dashboard*
 * [Geekflare Tools](https://gf.dev/toolbox) - *Site Testing Tools*
@@ -252,12 +253,12 @@
 * [Straw.Page](https://straw.page/), [Temper](https://temper.one/) or [Neocities](https://neocities.org/) - *Simple Site Creator*
 * [LocalXpose](https://localxpose.io/) - *Reverse Proxy*
 * [BuiltWith](https://builtwith.com/) - *Find Out What Sites are Built With*
-* [Bootstrap](https://bootstrapmade.com/) or [TheMeWagon](https://themewagon.com/) - *Website Templates & Themes*
 * [Elements Envato](https://qltien.com/elements/getcode/babiato.html) or [PsdRepo](https://psdrepo.com/) - *Templates, Mockups, Logos, Video*
 * [Uisual](https://uisual.com/) - *Landing Page Templates*
 * [Canva](https://www.canva.com/) or [PikBest](https://pikbest.com/) - *Design Templates / [Premium Apk](https://forum.mobilism.org/search.php?keywords=Canva+&sr=topics&sf=titleonly)* 
 * [Boilerplate](https://github.com/h5bp/html5-boilerplate) - *Website Frontend Template HTML5*
-* [Undraw](https://evie.undraw.co/) or [free-css-templates](https://www.free-css.com/free-css-templates) - *Site Templates*
+* [Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [Undraw](https://evie.undraw.co/) or [free-css-templates](https://www.free-css.com/free-css-templates) - *Site Templates*
+* [Templatemo](https://www.templatemo.com/) - *HTML Site Templates*
 * [HTML5 Temp](https://rentry.co/HTML5Temp) - *HTML5 Templates & Themes*
 * [CSS Bed](https://www.cssbed.com/) - *CSS Themes*
 * [Typewolf](https://www.typewolf.com/) - *Trending Website Fonts*
@@ -565,6 +566,7 @@
 * [Code2Flow](https://app.code2flow.com/) or [Flowchart Generator](https://github.com/MugilanGN/Flowchart-Generator) - *Code to Flowchart Converter*
 * [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/), [Lite XL](https://lite-xl.github.io/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [Notepad2](https://www.flos-freeware.ch/notepad2.html) or [Light Table](http://lighttable.com/) - *Code Editor* 
 * [Vim Latex](http://vim-latex.sourceforge.net/) - *Latex Style Vim Editor*
+* [CarlosAG](https://www.carlosag.net/) - *Coding Tools*
 * [Telosys](http://www.telosys.org/) - *Code Generator*
 * [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - *Emacs Packages*
 * [WebDen](https://webden.dev/) - *Code Playground*
@@ -593,6 +595,7 @@
 * [Mega Linter](https://github.com/nvuillam/mega-linter) or [SonarCloud](https://sonarcloud.io/) - *Code Analyzer* 
 * [tabnine](https://www.tabnine.com/) - *AI Assisted Code Completion*
 * [editorcornfig](http://editorconfig.org/) - *Maintain consistent code styles across editors*
+* [CodeCapsules](https://codecapsules.io/) - *Code Deployment*
 * [overmind](https://github.com/DarthSim/overmind) or [foreman](https://github.com/ddollar/foreman) - *Process Managers*
 * [cpp.sh](http://cpp.sh/) - *Online C++ Compiler*
 * [Clang](https://clang.llvm.org/) - *C Language Family Frontend*
