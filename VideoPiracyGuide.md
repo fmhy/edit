@@ -75,7 +75,7 @@
 * [9PM](https://9pm.to/) - *Movies / TV*
 * [OnionPlay](https://onionplay.se/) - *Movies / TV*
 * [Goojara](https://www.goojara.to/) - *Movies / TV / Anime*
-* [SpaceMov](https://spacemov.ws/) - *Movies / TV*
+* [SpaceMov](https://spacemov.site/) - *Movies / TV*
 * [Join4Films](https://www.join4films.net/hollywood/) - *Movies*
 * [OpenloadTV](https://openloadtv.co/) - *Movies*
 * [AllMoviesForYou](https://allmoviesforyou.co/) - *Movies / TV* 
