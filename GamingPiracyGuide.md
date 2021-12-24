@@ -170,12 +170,14 @@
 * [/r/Roms](https://www.reddit.com/r/Roms/) - *Discussion Sub*
 * [RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list) - *Emulator Tool Index*
 * [RomHacking](https://www.romhacking.net/) - *Rom Translations &amp; Hacks*
+* [PKHeX](https://github.com/kwsch/PKHeX) - *Pokémon Save File Editor*
+* [GameBanana](https://gamebanana.com/mods/games/14783) - *Pokémon Brilliant Diamond & Shining Pearl Mods*
 * [datcheck](https://github.com/pkos/datcheck) - *Compare No-Intro / Redump dat files to rom or disc collection* 
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - *Gamecube iso.dec to ISO Converter*
 * [Cemu Guide](https://cemu.cfw.guide/) - *Cemu &amp; BOTW Optimization Guide*
 * [Motion Support Bypass](https://redd.it/gobcne) - *Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)*
 * [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) - *Yuzu Emulator Setup Guide*
-* [Pineappleea](https://pineappleea.github.io/) or [Yuzu-Updater](https://github.com/sinscove/Yuzu-Updater) - *Yuzu Updater*
+* [Pineappleea](https://pineappleea.github.io/), [128Bit Yuzu](https://mostlywhat.github.io/128Bit-Yuzu-Installer/) or [Yuzu-Updater](https://github.com/sinscove/Yuzu-Updater) - *Yuzu Updater*
 * [YuzuModDownloader](https://github.com/amakvana/YuzuModDownloader) - *Yuzu Mod Downloader*
 * [EmuSAK UI](https://github.com/CapitaineJSparrow/emusak-ui) - *Download Switch Firmware &amp; Keys*
 * [Switch Army Knife](https://github.com/dezem/SAK) - *Switch Emulator Multi-Tool*
@@ -490,7 +492,7 @@
 * [BTShip](https://github.com/hairarrow/btship) - *Typescript Boat Game*
 * [asciicker](https://asciicker.com/) - *ASCII Browser Adventure*
 * [Maze](https://www.epgsoft.com/maze/) - *Maze Generator*
-* [BrantSteele](http://brantsteele.net/) - *Game Show Simulators*
+* [BrantSteele](http://brantsteele.net/) or [Simublast](https://www.simublast.com/) - *Game Show Simulators*
 * [Shooty Ship Pumpkin Smash](https://www.thepointless.com/apps/shooty-ship-pumpkin-smash/index.html) - *Shoot Pumpkins*
 * [Educational Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_games)
 * [Gameload](http://www.gameload.top/) - *Unity Browser Game Extension* 
@@ -625,6 +627,7 @@
 * [City Guesser](https://virtualvacation.us/guess) - *City Guessing Game* 
 * [English Sandwhich](https://englishsandwich.github.io/) - *Guess Where Dishes are From*
 * [LanguageGuesser](https://languageguesser.com/) - *Guess Music Video Languages* 
+* [Emoji Dingbats](https://emoji-dingbats.herokuapp.com/) - *Emoji Dingbat Game*
 * [The Higher Lower Game](http://www.higherlowergame.com/) - *Guess What's Googled More*
 * [Guess The Price](https://guesstheprice.net/) - *Price Guessing Game* 
 * [damn.dog](https://damn.dog/) - *wikiHow Guessing Game*
@@ -674,6 +677,7 @@
 * [HOTU](http://www.homeoftheunderdogs.net/) - *Rare Video Game Database*
 * [MoreGamesLike](https://www.moregameslike.com/) - *Find Similar Games*
 * [Movie-Censorship](https://www.movie-censorship.com/) - *Compare Alternate Versions of Media* 
+* [50GamesLike](https://www.50gameslike.com/) - *Game Recommendations*
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Top 100 Lists*
 * [5000 Best](http://5000best.com/) - *Top 5000 List*
 * [libib](https://www.libib.com/) - *Desktop Media Catalog*
