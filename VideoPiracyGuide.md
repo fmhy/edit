@@ -120,7 +120,7 @@
 * **[HiMovies](https://www3.himovies.to/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)*
 * **[Movolo](https://movolo.now.sh/)** - *Movies / TV*
 * **[PrettyFlix](https://prettyflix.gq/)** - *Movies / TV / Anime*
-* [Arthemis](https://releases.arthemis.xyz/) - *Movies / TV / Anime / Client / [Discord](https://discord.gg/98HxbfjKQV)*
+* **[Arthemis](https://releases.arthemis.xyz/)** - *Movies / TV / Anime / Client / [Discord](https://discord.gg/98HxbfjKQV)*
 * [YourPTFlixMovies](https://yourptflixmovies.com/) - *Movies / TV*
 * [Movie-Forum](https://movie-forum.co/forum.php) - *Movies / TV*
 * [K a p K e y K](https://kpkyk.com/) - *Movies / TV*
@@ -186,7 +186,7 @@
 * [0123movies](https://watch0123movies.org) - *Movies / TV*
 * [123MoviesGo](https://www.123moviesgo.li/) - *Movies / TV*
 * [123MovieWeb](https://123moviesweb.net/) - *Movies*
-* [Letmewatch](https://github.com/AdvithGopinath/LetMeWatch) - *Movies / TV / Extension*
+* [Letmewatch](https://letmewatch.app/) - *Movies / TV / Extension / [GitHub](https://github.com/AdvithGopinath/LetMeWatch)*
 * [Watch Movies Free](https://redd.it/rbpag2) - *Streaming Site List*
 
 ***
@@ -208,6 +208,7 @@
 * [Video Data Bank](https://www.vdb.org/) - *Short Films / Rare Videos* 
 * [Total Short Films](http://www.totalshortfilms.com/), [Viddsee](https://www.viddsee.com/), [MAFF](https://www.maff.tv/), [Short of the Week](https://www.shortoftheweek.com/) or [Audpop](https://audpop.com/) - *Short Films* 
 * [HuntleyArchives](https://www.huntleyarchives.com/) - *Rare / Forgotten Short Films* 
+* [FootageFarm](https://footagefarm.com/) - *Public Domain Films*
 * [Einthusan](https://einthusan.tv/) - *South Asian Film Archive*
 * [IndianCine](https://indiancine.ma/) - *Indian Film Archive*
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - *Japanese Animated Film Archive*
@@ -349,8 +350,8 @@
 
 ## ▷ Cartoon Streaming
 
-* **[KimCartoon.to](https://kimcartoon.li/)**
-* [KissCartoon](https://kisscartoon.sh/)
+* **[KimCartoon](https://kimcartoon.li/)**
+* **[KissCartoon](https://kisscartoon.help/)**
 * [WCO](https://www.wco.tv/)  - *Anime / Cartoons / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wco_clones)* 
 * [TopCartoons](https://www.topcartoons.tv/)
 * [WatchCartoonOnline](https://watchcartoononline.bz/)
@@ -685,6 +686,7 @@
 * [124.29.199.194](http://124.29.199.194/data2/) - *Movies*
 * [162.12.215.254](http://162.12.215.254/Data/Movies/) - *Movies*
 * [124.29.199.194](http://124.29.199.194/) - *Movies*
+* [GoCourses](https://goc.gocourses.workers.dev/7:/) - *Movies / TV / Anime / [Guide](https://i.imgur.com/Ny87l20.png)*
 * [Movies, Series... in English](https://redd.it/ns1ejo), [2](https://redd.it/ns1kdi), [3](https://redd.it/nsb38a), [4](https://redd.it/ns2avz), [5](https://redd.it/ns2wcv) - *Movies / TV*
 * [torrenttempdrive 2](https://torrenttempdrive.hashhackers.com/2:/) - *Movies / TV*
 * [sv.dcnm.ir](https://sv.dcnm.ir/Serial/Foreign/) - *TV* 
@@ -757,7 +759,7 @@
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - *Get a VPN before torrenting*
 * **[Stremio](https://www.stremio.com/)** - *Torrent Streaming App*
 * **Stremio Tools** - [Addons](https://redd.it/ahd6gk) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg)
-* **[Butter](https://github.com/butterproject/butter-desktop)** or [PopcornTime.is](http://popcorn-ru.tk/build/) - *Torrent Streaming App*
+* **[Butter](https://github.com/butterproject/butter-desktop)**, [popcorntime but not slow](https://discord.gg/dYPncnhx2S) or [PopcornTime.is](http://popcorn-ru.tk/build/) - *Torrent Streaming App*
 * **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/) or [Watcher](https://nosmokingbandit.github.io/) - *Autodownload Torrents*
 * [WatchIt](http://watchitapp.site/) - *Torrent Streaming App / [GitHub](https://github.com/ZorrillosDev/watchit-desktop)*
 * [Powder](https://powder.media/) - *Torrent Streaming App*
