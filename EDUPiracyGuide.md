@@ -395,7 +395,7 @@
 * **[Awesome-Lang](https://github.com/oyd11/awesome-lang)** - *Language Learning Resource Index* 
 * **[Languages & Linguistics](https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - *Language Learning Books*
 * [Speechling](https://speechling.com/tools) - *Language Learning Tools*
-* [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - *Language Learning Network*
+* [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [Conversation Exchange](https://www.conversationexchange.com/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - *Language Learning Network*
 * [yTalki](https://ytalki.com/) - *Read Books in Other Languages*
 * [E-books_432](https://archive.org/details/E-books_432) - *Vocabulary & Pronunciation Books*
 * [Xuga](https://eng.ichacha.net/mpr/xuga.html) - *Word Pronunciation Tool*
