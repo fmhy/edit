@@ -456,7 +456,7 @@
 * [BDmusic](https://bdmusic23.bid/) - *Movies / TV*
 * [MKV Mad](https://www.mkvmad.pro/) - *Movies / TV*
 * [WorldFree4U](https://worldfree4u.quest/) - *Movies / TV*
-* [HDHub4u](https://hdhub4u.wiki/) - *Movies*
+* [HDHub4u](https://hdhub4u.cfd/) - *Movies*
 * [MoviesRush](https://moviesrush.cam/) - *Movies*
 * [MKVHub](https://www.mkvhub.ws/) - *Movies / TV*
 * [SouthFreak](https://southfreak.online/) - *Movies*
@@ -497,6 +497,7 @@
 * [OnlineMovies8](https://www.onlinemovies8.com.pk/) - *Movies* 
 * [PakBcn](http://www.pakbcn.live/) - *TV / Live*
 * [Dead Toons India](https://deadtoonsindia.net/) - *Cartoons / Anime* 
+* [PepCoding](https://www.pepcoding.com/resources/) - *C++ & Java Programming Courses*
 * [DesiRulez](https://www.desirulez.cc/) - *Video / Audio*
 * [kukufm.com](https://kukufm.com/) - *Podcasts / Radio / Audiobooks* 
 * [gaana](https://gaana.com/) - *Music*
@@ -1225,6 +1226,15 @@ Portuguese
 * [Soviet Movies Online](https://sovietmoviesonline.com/cartoons) - *Cartoons* 
 * [Dokonlin.ru](https://www.dokonlin.ru/) - *Documentaries*   
 * [VseDoramy](https://vsedoramy.net/) - *Asian Drama*
+* [TVRF](https://tvrf.online/) - *Live TV*
+* [OnTVTime](https://www.ontvtime.ru/) - *Live TV*
+* [Viks](http://online.viks.tv/) - *Live TV*
+* [Telik](https://telik.top/) - *Live TV*
+* [OnlineTV](https://onlinetv.one/) - *Live TV*
+* [ontivi](http://vip.ontivi.net/) - *Live TV*
+* [SPB TV](https://spbtvonline.ru/) - *Live TV*
+* [Glaz.tv](https://www.glaz.tv/) - *Live TV*
+* [DomaTV](http://ru.domatv.net/) - *Live TV*
 * [livetv](http://livetv.sx/) - *Live Sports*  
 * [VIP-TV](https://vip-tv.club/) - *IPTV Playlists*
 * [myzuka](https://myzuka.club/) - *Music*
