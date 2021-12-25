@@ -426,15 +426,16 @@
 * **[Sportsurge](https://sportsurge.net/)**, [2](https://sportsurge.club/) - *Sports / Stream Locator*
 * **[Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - *TV / Sports*
 * **[Jackal](https://jackal.surge.sh/)** - *TV / Sports*
+* **[LmaoLove](http://lmao.love/)** - *TV / Sports*
 * **[WebOas.is TV](http://streamwat.ch/)** - *TV / Sports*
 * **[LiveOnScore](http://liveonscore.tv/)** - *Sports* 
 * **[StreamEast](https://www.streameast.io/)** - *Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)*
 * **[Black Tie Sports](https://blacktiesports.net/)** - *Sports* 
-* **[Soccer Streams](https://reedit.soccerstreams.net/)** - *Soccer*
+* **[StreamLinks](https://reddits.soccerstreamlinks.com/)**, [2](https://red.soccerstreams.net/), [3](https://footybite.cc/) - *Sports*
 * **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - *NBA / NFL*
 * **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [2](https://github.com/iptv-org/iptv) - *IPTV Resources / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists)*
 * [TOTV](http://totv.org/) - *TV / Sport*
-* [LmaoLove](http://lmao.love/) - *TV / Sports*
+* [Soccer Streams](https://reedit.soccerstreams.net/) - *Soccer*
 * [123TV](http://123tv.live/) - *TV / Sports*
 * [WatchNewsLive](https://watchnewslive.tv/) - *TV / Sports*
 * [streamlive](https://www.streamlive.to/) - *TV / Sports*
@@ -471,7 +472,6 @@
 * [Your Sports Stream](http://yoursports.stream/) - *Sports*
 * [Icelz](https://icelz.newsrade.com/) - *Sports*
 * [livetv](http://livetv.sx) - *Sports*
-* [StreamLinks](https://reddits.soccerstreamlinks.com/), [2](https://red.soccerstreams.net/), [3](https://footybite.cc/) - *Sports*
 * [bilaSport](http://bilasport.net/) - *Sports*
 * [NBAFullMatch](https://nbafullmatch.com/) - *Sports*
 * [SkorLive](https://skorlive.com/) - *Sports*
