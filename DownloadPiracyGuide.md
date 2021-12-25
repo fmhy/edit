@@ -32,26 +32,25 @@
 * [Public Drive Bot](https://index.isumit.workers.dev/)
 * [blacklistedbois](https://dl.blacklistedbois.workers.dev/0:/)
 * [TorrentLeech Drive](https://torrentleech.torrentleech-gdrive.workers.dev/) 
-* https://happyboy.hb4all.workers.dev/
-* https://tr.mooser.workers.dev/0:/
-* https://td2.blinkdrive.workers.dev/ 
-* https://loxxi.somto811.workers.dev/
-* https://mbot.mhub.workers.dev/
-* https://groups.google.com/g/kl-teamdrive
-* https://nsfw.blackpirate.workers.dev/0:/
-* https://groups.google.com/g/lightz-cloud
-* https://groups.google.com/g/xtremecloud-tdgroup
-* https://arcrec.mark41stark.workers.dev/
-* https://gentle-frost-7788.edwindrive.workers.dev/
-* https://bot.khun3.workers.dev/
-* https://index.garbage.workers.dev/
-* https://teamdrivegroup.uzemalik.workers.dev/
-* https://drive.fullmetal.workers.dev/0:/
-* https://one.publicdrive.workers.dev/0:/
-* https://2.roshansmirrordrive.workers.dev/
-* https://3.roshansmirror.workers.dev/
-* https://drive.hasibul.workers.dev/
-* https://shibainu-uploads.site/
+* [HB4All](https://happyboy.hb4all.workers.dev/)
+* [Mooser](https://tr.mooser.workers.dev/0:/)
+* [BlinkDrive](https://td2.blinkdrive.workers.dev/) 
+* [Loxxi](https://loxxi.somto811.workers.dev/)
+* [MBot](https://mbot.mhub.workers.dev/)
+* [KL Teamdrive](https://groups.google.com/g/kl-teamdrive)
+* [Black Pirate](https://nsfw.blackpirate.workers.dev/0:/)
+* [Lightz Cloud](https://groups.google.com/g/lightz-cloud)
+* [TD Group](https://groups.google.com/g/xtremecloud-tdgroup)
+* [Mark41stark](https://arcrec.mark41stark.workers.dev/)
+* [Gentle Frost]( https://gentle-frost-7788.edwindrive.workers.dev/)
+* [Khun3](https://bot.khun3.workers.dev/)
+* [Garbage Workers](https://index.garbage.workers.dev/)
+* [Uzemalik](https://teamdrivegroup.uzemalik.workers.dev/)
+* [Fullmetal](https://drive.fullmetal.workers.dev/0:/)
+* [One Public](https://one.publicdrive.workers.dev/0:/)
+* [RoshansMirrorDrive](https://2.roshansmirrordrive.workers.dev/), [2](https://3.roshansmirror.workers.dev/)
+* [Hasibul](https://drive.hasibul.workers.dev/)
+* [Shibainu](https://shibainu-uploads.site/)
 * [smolOD](https://rentry.co/smolOD) - *Small Open Directories*
 * [Open Directory Index](https://docs.google.com/document/d/1xyyplaw8uyHyaq79YEqtBT85vIqWu0wq7RYFEqbQybc/), [2](https://www.google.com/search?q=site:reddit.com/r/opendirectories+odshot+after:2018), [3](https://opndir.com/), [4](https://redd.it/lvdwlm), [5](https://github.com/strawhat-pirates/notes/blob/master/opendirectories.txt), [6](https://bin.disroot.org/?3082f04205be7af6#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34), [7](https://gist.github.com/Chaphasilor/718e13c1f654b7b0e49b3b41e4855f50), [8](https://redd.it/owdvw7) - *Open Directory Indexes*
 * [ODCrawler](https://odcrawler.xyz/), [CatFiles](https://www.catfiles.net/) or [mmnt](https://www.mmnt.net/) - *Open Directory Search Engine*
