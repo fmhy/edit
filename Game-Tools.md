@@ -69,7 +69,7 @@
 * [Dungeon Map Doodler](https://dungeonmapdoodler.com/) or [donjon](http://donjon.bin.sh/) - *Draw and Build Dungeons* 
 * [Ethereal Games](https://wiki.etherealgames.com/) - *JRPG Wiki*
 * [Adventurer's Codex](https://adventurerscodex.com) -  *Online D&D 5e Campaign Manager / System*
-* [DS4Windows](http://ds4windows.com/) or [InputMapper](https://inputmapper.com/) - *DS4 Tool* 
+* [DS4Windows](https://ryochan7.github.io/ds4windows-site/) or [InputMapper](https://inputmapper.com/) - *DS4 Tool* 
 * [ViGEmBus](https://github.com/ViGEm/ViGEmBus) - *DS4 / 360 Controller Emulator*
 * [Xbox for Python](https://github.com/r4dian/Xbox-Controller-for-Python) - *Xbox Controller Xinput Module*
 * [DsHidMini](https://github.com/ViGEm/DsHidMini) - *Use PS3 Controllers on Windows [Guide](https://vigem.org/projects/DsHidMini/How-to-Install/)*
