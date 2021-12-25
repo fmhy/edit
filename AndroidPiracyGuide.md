@@ -594,7 +594,6 @@
 * **[CinemaHD](https://github.com/TeruSetephen/cinemaapk)** - *Movies / TV / Anime / Chromecast*
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - *Ad Free YouTube on Android*
 * **[Movies4Discord TV](https://movies4discord.xyz/download)** - *Movies / TV / Android TV App*
-* [Cunrchyroll Mod](https://forum.mobilism.org/search.php?keywords=crunchyroll&amp;sr=topics&amp;sf=titleonly) - *Anime / Premium Crunchyroll*
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
 * [Arthemis](https://app.arthemis.xyz/) - *Movies / TV / Anime*
 * [HDO](https://hdo.app/) - *Movies / TV*
@@ -649,6 +648,7 @@ RSS Player*
 
 ## ▷ Android Anime
 
+* [Cunrchyroll Mod](https://forum.mobilism.org/search.php?keywords=crunchyroll&amp;sr=topics&amp;sf=titleonly) - *Anime / Premium Crunchyroll*
 * [FireAnime](https://github.com/XenTeckzX/FireAnime) - *Chromecast*
 * [AnimeXStream](https://github.com/mukul500/AnimeXStream/)
 * [AnimeTwistFlut](https://github.com/simrat39/AnimeTwistFlut/releases)
