@@ -2005,6 +2005,27 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/myanimetvbot
 * https://t.me/otakulounge
 * https://t.me/TGanimehaku 
+* https://t.me/animeinc
+* https://t.me/AnimeTeleNS
+* https://t.me/Animewatching
+* https://t.me/anime_a_to_z
+* https://t.me/AnimeSeries
+* https://t.me/Anime4uGeng_List
+* https://t.me/Anime_Flix_Pro
+* https://t.me/Animereq45
+* https://t.me/Anime_1080p_720p_480p
+* https://t.me/Animeworld001
+* https://t.me/AnimeRG
+* https://t.me/AnimeWorldOngoing
+* https://t.me/AnimeFiles
+* https://t.me/soulreaperzone
+* https://t.me/AnimeFiles
+* https://t.me/Anime_Industry
+* https://t.me/AnimeKingdomX
+* https://t.me/Kingdomofanimeseries
+* https://t.me/AnimeMoviesOtaku
+* https://t.me/AnimeLibrary_Movies
+* https://t.me/animemovies
 
 ***
 
@@ -2016,21 +2037,16 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/ebookz
 * https://t.me/Audiobooks_Collection
 * https://t.me/Audiobookclassic
-* https://t.me/archive_of_audiobooks_in_english
 * https://t.me/Audiobookclassic
 * https://t.me/audiobookjunkie
-* https://t.me/AudiobookPro
 * https://t.me/audiobooks_English
 * https://t.me/Audiobooks_uk
-* https://t.me/audiobooky
 * https://t.me/blarkhive
 * https://t.me/books_in_english_free
 * https://t.me/Ebooks_AudioBooks
-* https://t.me/en_audiobooks
 * https://t.me/eng_audiobooks
 * https://t.me/online_audiobooks
 * https://t.me/TheAudiobookStop
-* https://t.me/topaudiobooks
 * https://t.me/UnLibrary 
 * https://t.me/audioboookz
 * https://t.me/Audoroom
@@ -2047,7 +2063,6 @@ Add the following commands to a search to manually scrape each site.
 * [flacmusicalbumfree](https://t.me/flacmusicalbumfree/) - *FLAC* 
 * [FLACSong](https://t.me/FLACSong) - *FLAC* 
 * [flacmu5ic](https://t.me/flacmu5ic/) - *FLAC* 
-* [flacsongss](https://t.me/flacsongss/) - *FLAC* 
 * [SACDandDSD](https://t.me/SACDandDSD) - *FLAC*
 * [FLAC Musik](https://t.me/flacmuzik) - *FLAC*
 * [FLAC Album](https://t.me/FLAC_DSD_LOSSLESS_HIRES) - *FLAC*
@@ -2114,7 +2129,6 @@ Add the following commands to a search to manually scrape each site.
 
 #### Telegram eBook Download
 
-* https://t.me/joinchat/AAAAAEhdftsJgcQnPx0O7A
 * https://t.me/joinchat/AAAAAEzJPHplxAzxEO8p-A
 * https://t.me/best_bookshelf
 * https://t.me/Ebooks254
@@ -2126,11 +2140,9 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/Ebooksenglish
 * https://t.me/English_Hindi_Novels_Magazine
 * https://t.me/ebookz
-* https://t.me/goodreadstopbooks
 * https://t.me/English_Books_Magazines_Novels
 * https://t.me/BooksThief
 * https://t.me/ITBooks4U
-* https://t.me/BooksBag
 * https://t.me/iBooks_Bot
 * https://t.me/eng_books
 * https://t.me/ASM_Books_Bot
@@ -2152,13 +2164,10 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/BooksStreet
 * https://t.me/BookWizardTheNewest
 * https://t.me/Dao_Qigong_Taiji_TCM_ebooks
-* https://t.me/eBookExpress
 * https://t.me/ebooks_house
 * https://t.me/EbookzCollection
 * https://t.me/EbookzGroup
-* https://t.me/epubrabbithole
 * https://t.me/freebook9
-* https://t.me/Imperial_Stockpile
 * https://t.me/lib_of_dos_old_vk
 * https://t.me/LibrariesofTelegram
 * https://t.me/libraryofdos
@@ -2343,7 +2352,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### uBlock Filters
 
-**[FilterStalker](https://rentry.co/FilterStalker)**, [dbl.oisd.nl](https://oisd.nl/) / [2](https://hosts.oisd.nl/), [FilterLists](https://filterlists.com/), [webannoyances](https://github.com/yourduskquibbles/webannoyances), [fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/), [The Block List Project](https://blocklistproject.github.io/Lists/), [ADFILT](https://github.com/DandelionSprout/adfilt), [EasyList](https://easylist.to/) / [Forum](https://forums.lanik.us/), [urlhaus-filter](https://gitlab.com/curben/urlhaus-filter), [iBlocklist](https://www.iblocklist.com/), [Energized Protection](https://github.com/EnergizedProtection/block), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [Noads](https://github.com/deletescape/noads), [PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection), [my_filter_list](https://github.com/Serdar006/my_filter_list), [fanboy](https://www.fanboy.co.nz/), [CoinBlockerLists (Cryptomining)](https://gitlab.com/ZeroDot1/CoinBlockerLists), [CoinBlockerLists](https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt), [NoTracking blocklist](https://github.com/notracking/hosts-blocklists), [d3ward](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt), [notracking](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt), [lan-block](https://raw.githubusercontent.com/gwarser/filter-lists/master/lan-block.txt), [developerdan](https://www.github.developerdan.com/hosts/), [scamblocklist](https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt), [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt), [iploggerfilter](https://github.com/piperun/iploggerfilter), [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs), [GoodbyeAds](https://goodbyeads.weebly.com/), [neodevhost](https://github.com/neodevpro/neodevhost), [jmdugan/blocklists](https://github.com/jmdugan/blocklists), [referrer-spam-list)](https://github.com/matomo-org/referrer-spam-list), [All-in-One-Customized-Adblock-List](https://hl2guide.github.io/All-in-One-Customized-Adblock-List/), [black-mirror](https://github.com/T145/black-mirror), [CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists), [hblock](https://hblock.molinero.dev/), [spam404](https://www.spam404.com/), [blacklist](https://github.com/anudeepND/blacklist), [blocklist](https://blocklist.site/), [energized](https://energized.pro/), [Clear URLs](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
+**[FilterStalker](https://rentry.co/FilterStalker)**, [dbl.oisd.nl](https://oisd.nl/) / [2](https://hosts.oisd.nl/), [FilterLists](https://filterlists.com/), [webannoyances](https://github.com/yourduskquibbles/webannoyances), [fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/), [The Block List Project](https://blocklistproject.github.io/Lists/), [ADFILT](https://github.com/DandelionSprout/adfilt), [EasyList](https://easylist.to/) / [Forum](https://forums.lanik.us/), [urlhaus-filter](https://gitlab.com/curben/urlhaus-filter), [iBlocklist](https://www.iblocklist.com/), [Energized Protection](https://github.com/EnergizedProtection/block), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [Noads](https://github.com/deletescape/noads), [PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection), [my_filter_list](https://github.com/Serdar006/my_filter_list), [fanboy](https://www.fanboy.co.nz/), [CoinBlockerLists (Cryptomining)](https://gitlab.com/ZeroDot1/CoinBlockerLists), [CoinBlockerLists](https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt), [NoTracking blocklist](https://github.com/notracking/hosts-blocklists), [d3ward](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt), [notracking](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt), [lan-block](https://raw.githubusercontent.com/gwarser/filter-lists/master/lan-block.txt), [developerdan](https://www.github.developerdan.com/hosts/), [scamblocklist](https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt), [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt), [iploggerfilter](https://github.com/piperun/iploggerfilter), [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs), [GoodbyeAds](https://goodbyeads.weebly.com/), [neodevhost](https://github.com/neodevpro/neodevhost), [jmdugan/blocklists](https://github.com/jmdugan/blocklists), [referrer-spam-list)](https://github.com/matomo-org/referrer-spam-list), [black-mirror](https://github.com/T145/black-mirror), [CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists), [hblock](https://hblock.molinero.dev/), [spam404](https://www.spam404.com/), [blacklist](https://github.com/anudeepND/blacklist), [blocklist](https://blocklist.site/), [energized](https://energized.pro/), [Clear URLs](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
 
 ***
 
