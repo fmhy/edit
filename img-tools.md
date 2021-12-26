@@ -145,7 +145,6 @@
 * [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - *Turn Screencasts into GIFs*
 * [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - *Turn YouTube Videos into GIFs* 
 * [petpet](https://benisland.neocities.org/petpet/) - *Headpatting GIF Maker*
-* [GifPrint](http://gifprint.com/) - *Turn GIFs Into Flipbooks* 
 * [FlagWaver](https://krikienoid.github.io/flagwaver/) - *Create Moving Flag GIFs*
 * [Gifski](https://gif.ski/) - *GIF Encoder*
 * [Among-Us-Dumpy-Gif-Maker](https://dumpy.t1c.dev/) - *Make Dumpy Among us GIFs / [GitHub](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)*
@@ -286,7 +285,6 @@
 * [Handwriting-OCR](https://github.com/Breta01/handwriting-ocr) - *Handwriting Image to Text*
 * [Image-to-Image](https://affinelayer.com/pixsrv/) - *Interactive Image Translation*
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - *Find Font from Image*
-* [Visual Recognition](https://visual-recognition-code-pattern.ng.bluemix.net/) - *Analyzes Images for Scenes, Objects, Text ect.* 
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - *Scan & Digitize Documents / iOS*
 * [DeepSort](https://github.com/CorentinB/DeepSort/) - *Image Tagger* 
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) - *Automatically Organize / Search Photos*
@@ -351,7 +349,6 @@
 * [imginn](https://imginn.com/), [Picuki](https://www.picuki.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer), [Dumpor](https://dumpor.com/) or [Greatfon](https://greatfon.com/) - *Instagram Viewer*
 * [FeedInABox](https://t.me/FeedinboxBot) - *Telegram Bot*
 * [QIS](https://github.com/propublica/qis/) or [Instagram Search Tool](https://www.aware-online.com/en/osint-tools/instagram-search-tool/) - *Search Tool* 
-* [SearchUsers](https://searchusers.com/) - *User Search* 
 * [Osintgram](https://github.com/Datalux/Osintgram) - *Osintgram Analysis*
 * [SearchMy.bio](https://www.searchmy.bio/) - *Bio Search*
 * [Instagram-Explorer](https://www.osintcombine.com/instagram-explorer) - *Explore Pictures by Location* 
@@ -360,7 +357,7 @@
 * [StoriesDown](https://storiesdown.com/) or [StoriesIG](https://storiesig.net/) - *Story Downloader*
 * [InstaDP](https://www.instadp.com/) or [Instagram-crawler](https://github.com/hehpollon/Instagram-crawler) - *Picture / Story Downloader* 
 * [PixWox](https://www.pixwox.com/) - *Story / Picture / Story Downloader*
-* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [SocialUnblock](https://socialunblock.com/), [Instagram-Scraper](https://github.com/arc298/instagram-scraper), [DownloadGram](https://downloadgram.com/), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [igram](https://igram.io/), [InstaLooter](https://github.com/althonos/InstaLooter), [instadownloader](https://www.instadownloader.org/), [Instaloader](https://github.com/instaloader/instaloader), [instapick](https://www.instapick.net/), [InstaSave](https://github.com/sameera-madushan/InstaSave) or [YooYing](https://www.yooying.com/instagram-downloader) - *Picture / Video Downloader*
+* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [SocialUnblock](https://socialunblock.com/), [Instagram-Scraper](https://github.com/arc298/instagram-scraper), [DownloadGram](https://downloadgram.com/), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [igram](https://igram.io/), [InstaLooter](https://github.com/althonos/InstaLooter), [instadownloader](https://www.instadownloader.org/), [Instaloader](https://github.com/instaloader/instaloader), [instapick](https://www.instapick.net/), [InstaSave](https://github.com/sameera-madushan/InstaSave) - *Picture / Video Downloader*
 * [4K Stogram](https://www.4kdownload.com/products/product-stogram) or [InstaLoader](https://instaloader.github.io/) - *Picture Downloader* 
 * [Photo Map](https://levionsoftware.com/) - *Interactive Map For Your Photos*
 * [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - *Video Downloader*
