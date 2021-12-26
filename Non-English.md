@@ -287,7 +287,9 @@
 
 ## ▷ Torrenting
 
-* [Torrent9](https://www.torrent9.so/), [2](https://www.torrent9.gg/), [3](https://www.torrent9.site/), [4](https://www.torrent9.gg/), [5](https://www4.torrent9.to/), [6](https://ww2.torrentz9.fr/) or [OXTorrent](https://www.oxtorrent.nz/), [2](https://oxtorrents.co/) - *Video Audio / Software / Games / Roms / Books* 
+* [Torrent9](https://www.torrent9.so/), [2](https://www.torrent9.gg/), [3](https://www.torrent9.site/), [4](https://www.torrent9.gg/), [5](https://www4.torrent9.to/), [6](https://ww2.torrentz9.fr/) or [OXTorrent](https://www.oxtorrent.nz/), [2](https://oxtorrents.co/) - *Video / Audio / Software / Games / Roms / Books* 
+* [oxtorrents](https://www.oxtorrent.be/) - *Video / Audio / Software / Games / Roms / Books NSFW*
+French / General Torrent Tracker 
 
 ## ▷ Streaming
 
