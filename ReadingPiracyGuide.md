@@ -42,6 +42,7 @@
 * [AppAudiobooks](https://appaudiobooks.com/)
 * [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - *Classic Audiobooks*
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - *Poetry*
+* [Blinkist Free Daily](https://t.me/blinkistfree) - *Self-Help Audiobooks*
 * [Audiobooks Unleashed](https://audiobooksunleashed.com/) - *Audiobook Codes*
 * [/r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
 * [Telegram Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audiobook_downloads) - *Telegram Audiobook Channels*
@@ -338,7 +339,7 @@
 * [do_k_ument](https://mega.nz/folder/QEV0jKYZ#-BVVScey6draL30yB_KowA) - *Survival, Forging, Smithing, Weapons Training, Field Manuals*
 * [Survivor Library](http://www.survivorlibrary.com/), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/), [Free Survival eBooks](https://www.defiel.com/free-survival-ebooks/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - *Survival*
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - *Auto Brochures*
-* [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U), [PimpMyMind](https://pimpmymind.net/), [selfhelpbooklab](https://t.me/selfhelpbooklab), [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U), [Blinkist Free Daily](https://t.me/blinkistfree) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - *Self-Help Books*
+* [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U), [PimpMyMind](https://pimpmymind.net/), [selfhelpbooklab](https://t.me/selfhelpbooklab), [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - *Self-Help Books*
 * [Websleuths](https://www.websleuths.com/) - *Crime Solving Forum*
 * [QSL](https://www.qsl.net/w/w7lk/misc%20pdf%20files/) - *Ham Radio & Antenna Books* 
 * [Erowid](https://www.erowid.org/) - *Psychoactive Information Index*
