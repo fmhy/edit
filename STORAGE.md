@@ -1766,6 +1766,7 @@ Add the following commands to a search to manually scrape each site.
 * https://moviego.net/
 * https://wat32.com/
 * https://www.fast32.com/
+* https://www1.xmovies8.io/
 * https://123hulu.com/
 * http://gomovies123.watch/
 * https://putlocker.vc
