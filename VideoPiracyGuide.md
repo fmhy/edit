@@ -283,7 +283,7 @@
 * [DubbedAnime](https://ww5.dubbedanime.net/) - *Sub / Dub*
 * [AnimeBam](https://www.animebam.se/) - *Sub / Dub*
 * [KickAssAnime](https://www2.kickassanime.ro/) - *Sub / Dub*
-* [RyuAnime](https://ryuanime.com/) - *Sub / Dub*
+* [RyuAnime](https://ryuani.me/) - *Sub / Dub*
 * [Genoanime](https://genoanime.com/) - *Sub / Dub* 
 * [Just Dubs](http://justdubs.org/) - *Dub*
 * [Gogo-Stream](https://streamani.net/),  [2](https://gogoanime.vc/), [3](https://animekeyo.com/) - *Sub / Dub*
@@ -310,6 +310,7 @@
 * [1Anime](https://1anime.to/) - *Sub / Dub*
 * [KimAnime](https://kimanime.com/) - *Sub / Dub*
 * [5Anime](https://5anime.net/) - *Sub / Dub*
+* [AnimelandTV](https://www.animelandtv.me/) - *Dub*
 * [AnimeOnsen](https://animeonsen.xyz/) - *Sub*
 * [AnimeFever](https://animefever.nz/) - *Sub / Dub*
 * [Animetake](https://animetake.tv/) - *Sub* 
@@ -735,6 +736,7 @@
 * [anime7.download](http://anime7.download/) - *Sub*
 * [37.187.6.206](http://37.187.6.206/) - *Sub*
 * [AnimeLibr](https://t.me/AnimeLibr) - *Sub*
+* [CartoonsArea](https://www.cartoonsarea.xyz/) - *Sub / Dub*
 * [rbx](http://59.rbx5.ovh.abcd.network/), [2](http://52.rbx5.ovh.abcd.network/), [3](http://511.rbx.abcvg.ovh/), [4](http://508.rbx.abcvg.ovh/), [5](http://510.rbx.abcvg.ovh/), [6](http://58.rbx5.ovh.abcd.network/)  - *Dub*
 * [CopyCat Encodes](https://mega.nz/#folder/jpMFlQLB#QZ0W2OIyko-n2BTouWjHOQ) - *Sub* 
 * [Anime Anime (New & Requests)](https://drive.google.com/drive/folders/1XP7q-vSk0ImaRfLRkJ6-VkL7mLqlIwrw) - *Sub / Dub*
@@ -825,6 +827,7 @@
 * [DameDesuYo](https://damedesuyo.com/) - *Sub* 
 * [GoodJobMedia](https://www.goodjobmedia.com/) - *Sub*
 * [Chihiro](https://chihiro-subs.com/) - *Sub*
+* [AnimeRG](https://animereleasegroup.blogspot.com/) - *Sub / Dub*
 * [Some-Stuffs](http://some-stuffs.com/) - *Sub / [Discord](https://discord.gg/wYgXer2)*
 * [Erai-Raws](https://www.erai-raws.info/) - *Sub / [Discord](https://discord.gg/2PfWaar)*
 * [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - *Sub / [ZeroNet Required](https://zeronet.io/)*
