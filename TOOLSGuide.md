@@ -1134,6 +1134,7 @@ G) - *Create Discord RPCs*
 * [Watch Frame by Frame](http://www.watchframebyframe.com/) - *Watch Videos Frame by Frame* 
 * [Anilyzer](http://anilyzer.com/) - *Watch YouTube Videos in Slow Motion & Frame by Frame* 
 * [YouTube Playlist Search](https://greasyfork.org/en/scripts/14370-youtube-playlist-search) - *Quickly Search YouTube Playlists*
+* [Bookmark It](https://bookmark-it.happydevelopers.co/) - *Bookmark YouTube Videos*
 * [Blocked](https://watannetwork.com/tools/blocked/) or [YouTube Region Checker](http://polsy.org.uk/stuff/ytrestrict.cgi) - *Youtube Region Restrictions Check*
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - *Shows YouTube File Sizes* 
 * [Auto Quality for YouTube](https://chrome.google.com/webstore/detail/auto-quality-for-youtube/iaddfgegjgjelgkanamleadckkpnjpjc?hl=en) - *Automatically Switch to desired Quality*
