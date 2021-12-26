@@ -310,7 +310,7 @@
 ## ▷ Screenshot Tools
 
 * **[ShareX](https://getsharex.com/)** 
-* **ShareX Tools** - [SXIE Archive](https://mega.nz/folder/1goUgJBZ#XaqM3dm5nY40luhtoxyzWg) / [Host](https://sxcu.net/), [2](https://encrypting.host/) / [Android Upload](https://github.com/tsudoko/xshare)
+* **ShareX Tools** - [Free Host](https://upload.systems/en-US), [2](https://encrypting.host/), [3](https://sxcu.net/), [SXIE Archive](https://mega.nz/folder/1goUgJBZ#XaqM3dm5nY40luhtoxyzWg) / [Android Upload](https://github.com/tsudoko/xshare)
 * [Flameshot](https://flameshot.org/)
 * Flameshot Tools - [GitHub](https://github.com/flameshot-org/flameshot) / [Imgur Upload](https://slproweb.com/products/Win32OpenSSL.html)
 * [Greenshot](https://getgreenshot.org/)
