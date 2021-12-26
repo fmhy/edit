@@ -214,6 +214,7 @@
 * **[Tracker Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tracker_lists)** - *Updated lists of BitTorrent trackers* 
 * **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.com) / [3](https://www.torrentkitty.net/) / [4](https://www.torrentkitty.lol/) - *Torrent To Magnet Link Conversion*
 * **[Auto Torrent Tools List](https://redd.it/hbwnb2)**, [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - *Autodownload tools*
+* [Torrent Legality](https://i.imgur.com/eNdboCs.png) - *Torrenting Laws by Country*
 * [Requestrr](https://github.com/darkalfx/requestrr) - *Chatbot for Torrent Autodownload Apps*
 * [WarezBot](https://github.com/enzobes/WarezBot) - *Discord Scene Release Tracker*
 * [btcache](https://btcache.me/), [iTorrents](https://itorrents.org) or [Torrage](https://torrage.info/) - *Torrent Storage Cache*
