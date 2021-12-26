@@ -836,7 +836,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Hosting** 
 
-[WebOasis IPFS](https://weboas.is/ipfs/), [IMGrPost](https://imgrpost.com/), [ImgBB](https://imgbb.com/), [Shutterfly](https://www.shutterfly.com/), [Imgur](https://imgur.com/), [FreeImage.Host](https://freeimage.host/), [snipboard](https://snipboard.io/), [vaa.red](https://upload.vaa.red/), [Postimages](https://postimages.org/), [imgbox](https://imgbox.com/), [pasteboard](http://www.pasteboard.co/), [vgy](https://vgy.me/), [i](https://tikolu.net/i/)
+[WebOasis IPFS](https://weboas.is/ipfs/), [IMGrPost](https://imgrpost.com/), [ImgBB](https://imgbb.com/), [Shutterfly](https://www.shutterfly.com/), [Imgur](https://imgur.com/), [FreeImage.Host](https://freeimage.host/), [snipboard](https://snipboard.io/), [vaa.red](https://upload.vaa.red/), [Postimages](https://postimages.org/), [imgbox](https://imgbox.com/), [pasteboard](http://www.pasteboard.co/), [vgy](https://vgy.me/), [i](https://tikolu.net/i/), [tixte](https://tixte.com/)
 
 **Processing**
 
