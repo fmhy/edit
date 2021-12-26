@@ -60,10 +60,6 @@
 * [w3schools](https://www.w3schools.com/) - *Programing Tutorials*
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - *Programming Courses*
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - *Programming Courses*
-* [Coding Blocks](https://codingblocks.freehotspot.workers.dev/0:/) - *Programming Courses*
-* [Coding Ninjas](https://codingninjas2.freehotspot.workers.dev/), [2](https://codingninjas.freehotspot.workers.dev/), [3](https://codingninjas1.freehotspot.workers.dev/) - *Programming Courses*
-* [GFG Courses](https://gfg.freehotspot.workers.dev/) - *Programming Courses*
-* [AllCoursesApna](https://competitiveprogrammingallcourses.apna.workers.dev/0:/), [2](https://allcourseszip.apna.workers.dev/) - *Competitive Programming Courses*
 * [HelloWorldCollection](http://helloworldcollection.de/) - *Hello World Programming Collection*
 * [VisualGo](https://visualgo.net/) - *Data Structures & Algorithm Animations*
 * [HTMLDog](https://htmldog.com/) - *HTML / CSS / JavaScript Tutorials* 
@@ -156,7 +152,6 @@
 * [Penpot](https://penpot.app/) - *Cross Domain Design & Prototyping Platform*
 * [Mysterium Network](https://www.mysterium.network/) - *Open Web Protocol*
 * [Webhook.site](https://webhook.site/) - *Webhook Tool*
-* [GetLorem](https://getlorem.com/) - *Filler Text Generator*
 * [Scoop](https://www.scoop.it/) - *Content Curation Tool*
 * [WebSequenceDiagrams](https://www.websequencediagrams.com/) - *Draw Sequence Diagrams* 
 * [ASCII Flow](https://asciiflow.com/) - *Draw ASCII Diagrams*
@@ -182,7 +177,7 @@
 * [Cumcord](https://cumcord.com/) - *Discord Developer Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)*
 * [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - *Integrate Services with Discord*
 * [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - *Discord Code Blocks*
-* [Discord4J](https://discord4j.com/) or [Diskord](https://diskord-dev.github.io/) / [GitHub](https://github.com/diskord-dev/diskord) - *Discord API Wrapper*
+* [Discord4J](https://discord4j.com/) or [Diskord](https://github.com/diskord-dev/diskord) - *Discord API Wrapper*
 * [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - *Community Libraries for Discord API*
 * [Discord-panel](https://github.com/Notavone/discord-panel) - *Discord Bot Server Manager*
 * [Javacord](https://javacord.org/) - *Discord Bot Creation Library*
@@ -227,8 +222,8 @@
 * [Spiderfoot](https://www.spiderfoot.net/) - *Automate OSINT*
 * [Site Analytics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_analytics) - *Traffic Stats & Info*
 * [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/), [IPV4Info](http://ipv4info.com/),  [Network Tools](https://network-tools.com/) or [WebsiteScoop](https://websitescoop.com/) - *Domain Info / IP Tools*
-* [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/), [Username Checker](https://checkuser.org/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Username Availability Check*
-* [Pyfunceble](https://pyfunceble.github.io/#/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/), [DomComp](https://www.domcomp.com/) or [Domainr](https://domainr.com/) - *Domain Availability Check* 
+* [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Username Availability Check*
+* [Pyfunceble](https://pyfunceble.github.io/#/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/) or [Domainr](https://domainr.com/) - *Domain Availability Check* 
 * [WorthBuck](https://worthbuck.com/) - *Domain Price Estimations*
 * [StatPing](https://github.com/statping/statping) - *Site Uptime Monitor*
 * [UseMe](https://useme.org/) - *Ping Website*
@@ -318,7 +313,6 @@
 * [Termible](https://termible.io/) - *Docker Powered Site Terminals*
 * [Stackbit](https://www.stackbit.com/) - *JamStack Tools* 
 * [the New Dynamic](https://www.tnd.dev/) - *JamStack Directory*
-* [Redux DevTools](http://extension.remotedev.io/) - *Add Redux Debugging to Browser*
 * [Vuejs Dev Tools](https://vuejs.org/) - *Add Vuejs Debugging to Browser* 
 * [Sight](https://github.com/tsenart/sight) - *Syntax Highlighter for Chrome* 
 * [Inyo](https://inyo.me/inyo-v2-customization-tools) - *Customer Relation Tools*
@@ -359,7 +353,7 @@
 * [Read the Docs](https://readthedocs.org/) - *Make Documentation for your Software*
 * [Inno Setup](https://jrsoftware.org/isinfo.php), [InstallForge](https://www.installforge.net/) or [ActualInstaller](https://www.actualinstaller.com/) - *Create Installation Programs*
 * [Flatpak](https://flatpak.org/) - *Create & Distribute Linux Applications*
-* [WTFPL](http://www.wtfpl.net/) or [GPL](http://giant-penis-license.org/) - *Free Software Licenses*
+* [WTFPL](http://www.wtfpl.net/) - *Free Software Licenses*
 
 ***
 
@@ -423,6 +417,7 @@
 
 ## ▷ Markup Languages
 
+* [markup.rocks](https://markup.rocks/) - *Online Markup Editor*
 * [HTML Meta Tags](https://gist.github.com/lancejpollard/1978404) - *List of Common HTML Meta Tags Complete* 
 * [Minifier](https://www.willpeavy.com/tools/minifier/) - *Minify HTML, CSS & JS Markup HTML Minifier / [Unminify](https://www.unminify2.com/)* 
 * [HTML-Minifier](https://kangax.github.io/html-minifier/) - *HTML Minifier*
@@ -495,7 +490,6 @@
 * [Octotree](https://www.octotree.io/) - *GitHub Repository File Tree View* 
 * [Nightly.link](https://nightly.link/) - *GitHub Sharable Nightly Links*
 * [Sourcegraph](https://about.sourcegraph.com/) - *GitHub Repository Sourcegraph Editor* 
-* [CodeWyng](https://codewyng.io/) - *Browse GitHub like an IDE* 
 * [onefetch](https://github.com/o2sh/onefetch) - *Git Information Terminal*
 * [PR Monitor](https://github.com/fwouts/prmonitor)or [advanced-github-notifier](https://github.com/freaktechnik/advanced-github-notifier) - *Pull Request Notifier*  
 * [Gidget](https://github.com/GDGVIT/gidget) - *Pull Request Notifier / Android*
@@ -541,7 +535,6 @@
 * [ColorZilla](https://www.colorzilla.com/) - *Color Picker, Gradient Generator & more*
 * [Colordot](http://color.hailpixel.com/) - *Color Picker*
 * [Webgradients](https://webgradients.com/) - *Gradients*
-* [Colorpedia](https://github.com/joowani/colorpediahttps://coolors.co/) - *Lookup Colors & Palettes via Command-Line* 
 * [ShaderToy](https://www.shadertoy.com/browse) - *User-Made Shaders* 
 * [Contrast Checker](https://webaim.org/resources/contrastchecker/) - *Background / Text Contrast Checker*
 
