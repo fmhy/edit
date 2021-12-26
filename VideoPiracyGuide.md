@@ -56,7 +56,6 @@
 * [FshareTV](https://fsharetv.co/) - *Movies* 
 * [XEMovies](https://xemovie.com/) - *Movies / TV*
 * [UniqueStream](https://uniquestream.vip/) - *Movies / TV / Anime*
-* [CooLMoviez](https://coolmoviez.app/) - *Movies / TV / Anime / [Telegram](https://t.me/coolmoviezfree)*
 * [FZMovies](https://fzmovies.net/) - *Movies / [How to Use](https://imgur.com/a/EtLokxO)* 
 * [MP4Mania](https://mp4mania1.net/) - *Movies / [How to Use](https://imgur.com/a/EtLokxO)*
 * [FlixZone](https://flixzone.ga/) - *Movies / TV*
