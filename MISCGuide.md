@@ -22,7 +22,7 @@
 * **[Get Awesomeness](https://getawesomeness.herokuapp.com/)** - *List Index*
 * **[Curlie](https://curlie.org/)** - *Topic Directory* 
 * **[Esoterica Avenue](https://ori5000.github.io/)** - *Software & Games Megathread / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)* 
-* **[The Scene](https://github.com/DRSDavidSoft/Warez)** - *Warez topics, Discussions & Tools*
+* **[The Scene](https://git.redxen.eu/RepoMirrors/Warez)** - *Piracy Index / [Archive](https://archive.fo/pM65d)*
 * **[Open Source Intelligence Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_source_intelligence_indexes)**
 * [Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - *Find Software / App Alternatives* 
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - *Open Source Software Indexes*
