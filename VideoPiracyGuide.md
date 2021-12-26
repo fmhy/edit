@@ -32,6 +32,7 @@
 * [Trailers.to](https://trailers.to/) - *Movies / TV / [Bypass Quota](https://openvideofs.github.io/)*  
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - *Movies / TV / Anime*
 * [NetU](https://netu.io/view_page.php?pid=4) - *Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)*
+* [Shoow.in](https://shoow.in/) - *Movies / TV / Anime / [Unlock HD](https://pastebin.com/hxdq1uFi)*
 * [Ling.online](https://ling.online/en/videos/films/) - *Movies / TV*
 * [Squeezebox](https://movie.squeezebox.dev/) - *Movies / TV*
 * [OpenloadMovies](https://openloadmov.net/) - *Movies / TV*
@@ -81,7 +82,7 @@
 * [MoviesDownloadHub](https://moviesdownloadhub.com/category/hollywood/) - *Movies / TV*
 * [FlixGo](https://flixgo.me/) - *Movies / TV*
 * [TheFlix](https://theflix.to/) - *Movies / TV*
-* [1movies](https://ww2.1movies.is/), [Real-Primewire](https://real-primewire.club/), [CouchTuner](https://couchtuner.fashion/) or [New-Primewire](https://ww1.new-primewire.com/) - *Movies / TV / Anime*
+* [1movies](https://1movies.life/), [Real-Primewire](https://real-primewire.club/), [CouchTuner](https://couchtuner.fashion/) or [New-Primewire](https://ww1.new-primewire.com/) - *Movies / TV / Anime*
 * [Vmovee HD](https://vmoveehd.com/) - *Movies / TV*
 * [VidStore](https://stream.vidzstore.com/) - *Movies*
 * [Mrswe](https://mrswe.com/) - *Movies / TV / [Discord](https://discord.com/invite/vH98xpmhxM) / [Ad Script](https://pastebin.com/sUkeh9ZH)*
@@ -461,7 +462,7 @@
 * [USTVGO](https://ustvgo.tv/) - *TV / Sports*
 * [SamiTVHD](https://samitvhd.com/) - *TV / Sports*
 * [uStream](https://www.ustream.to/index.html) - *TV / Sports* 
-* [Stream2Watch](https://stream2watch.at/) - *Live TV / Sports*
+* [Stream2Watch](https://stream2watch.at/), [2](https://zap.stream2watch.sx/) - *Live TV / Sports*
 * [LM Shows](https://lmshows.se/) - *TV*
 * [TVOnline.Liveschauen](https://tvonline.liveschauen.com/) - *TV* 
 * [WwiTv](https://wwitv.com/) - *TV*
@@ -482,8 +483,8 @@
 * [SportsHub](https://www.sportshub.stream/) - *Sports*
 * [BuffStreams](https://buffstreams.tv/) - *Sports*
 * [SportHD](https://sporthd.live/) - *Sports* 
-* [Cricfree.tv](http://crickfree.be/) - *Sports*
-* [Cricfree.pw](https://cricfree.pw/) - *Sports*
+* [Cricfree](https://cricfree.pw/), [2](https://cricfree.io/) - *Sports*
+* [Crickfree.tv](http://crickfree.be/) - *Sports*
 * [SportsOnline](https://sportsonline.to/) - *Sports*
 * [VIPBoxTV](https://www.vipboxtv.se/) - *Sports*
 * [s365.Live](http://www.s365.live/) - *Sports*
@@ -514,22 +515,33 @@
 * [USAGoals](https://www.usagoals.video/) - *Sports*
 * [NBAStreams](https://nbastreams.to/), [NFL](https://nflstreams.to/), [NHL](https://nhlstreams.to/), [MLB](https://mlbstreams.to/) - *Sports* 
 * [Topstreams](http://topstreams.info/) - *Sports* 
-* [VIPLeague](https://vipleague.cc/) / [2](https://vipleague.im/) or [VIPBox](https://www.vipbox.lc/) - *Sports* 
+* [VIPLeague](https://vipleague.cc/) / [2](https://vipleague.im/) / [3](https://en.vipleague.tv/) or [VIPBox](https://www.vipbox.lc/) - *Sports* 
 * [FreeStream-Live](http://freestreams-live1.com/) - *Sports* 
+* [UFC Streams](https://mma.ufcstream.me/) - *MMA / Wrestling*
+* [NBA Streams](https://reddit.nbastream.nu/) - *NBA*
 * [9Live](https://www.9live.club/) - *NFL*
-* [NFLStream](https://nflstream.io/) - *NFL*
+* [NFLStream](https://reddit.nflstream.io/) - *NFL*
 * [MLB66](https://mlb66.ir/) - *MLB* 
 * [MLBStream](https://mlbstream.me/) - *MLB*
-* [BoxingStreams](https://boxingstreams.cc/) - *Boxing*
+* [BoxingStreams.cc](https://boxingstreams.cc/) - *Boxing*
+* [Boxing Streams](https://live.boxingstreams.me/) - *Boxing*
 * [LiveSoccer TV](https://www.livesoccertv.com/) - *Soccer*
 * [FootEM](https://www.footem.site/) - *Soccer*
 * [footybite](https://live.footybite.com/) - *Soccer* 
 * [HesGoal](http://www.hesgoal.tv/) - *Soccer*
+* [Soccer Streams](https://socceronline.me/) - *Soccer*
 * [Cyfo Streams](http://www.cyfostreams.com/) - *Cycling & Soccer*
 * [NHLstream](https://www.nhlstream.net/) - *NHL*
+* [NHL Streams](https://reddit.nhlstream.nu/) - *NHL*
 * [NHL66](https://nhl66.ir/) - *NHL*
 * [MyLiveCricket](http://hd1.mylivecricket.live/), [2](http://my3.mylivecricket.cc/) - *Cricket*
 * [cric7.net ](http://t20.cric7.net/) - *Cricket*
+* [CricStream](https://cricstream.me/) - *Cricket*
+* [Tennis Streams](https://tennisstreams.me/) - *Tennis*
+* [Rugby Streams](https://rugbystreams.me/) - *Rugby*
+* [Golf Streams](https://golfstreams.me/) - *Golf*
+* [F1 Streams](https://live.f1stream.me/) - *F1*
+* [Darts Streams](https://dartsstream.me/) - *Darts*
 * [Sports Streaming Subreddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming_subs)
 * [BestSportsStreamingSites](https://bestsportstreamingsites.com/) - *Live Sports Sites List*
 * [Reddit Live TV Links](http://reddit-livetv-links.blogspot.com/?m=1) - *Live TV / Reddit*
@@ -735,6 +747,10 @@
 * [Chiby](http://www.animechiby.com/) - *Sub*
 * [anime7.download](http://anime7.download/) - *Sub*
 * [37.187.6.206](http://37.187.6.206/) - *Sub*
+* [176.36.86.211](http://176.36.86.211/video/anime/) - *Sub / Dub*
+* [166.84.7.155](https://166.84.7.155/anime/) - *Sub / Dub*
+* [ns3309227](http://ns3309227.ip-178-32-222.eu/) - *Sub / Dub*
+* [belia](https://belia.fr/evg/) - *Sub / Dub*
 * [AnimeLibr](https://t.me/AnimeLibr) - *Sub*
 * [CartoonsArea](https://www.cartoonsarea.xyz/) - *Sub / Dub*
 * [rbx](http://59.rbx5.ovh.abcd.network/), [2](http://52.rbx5.ovh.abcd.network/), [3](http://511.rbx.abcvg.ovh/), [4](http://508.rbx.abcvg.ovh/), [5](http://510.rbx.abcvg.ovh/), [6](http://58.rbx5.ovh.abcd.network/)  - *Dub*
@@ -935,7 +951,7 @@
 * [WorldSrc](https://t.me/WorldsrcOfficial) - *Movies / TV / Telegram*
 * [TheMegaDrive](https://discord.gg/h2P5zsNMxZ) - *Movies / TV / Anime* 
 * [Fmovies](https://fmovies.co/) - *Movies / TV / Anime*
-* [1movies](https://ww2.1movies.is/contact) - *Movies / TV / Anime*
+* [1movies](https://1movies.life/contact) - *Movies / TV / Anime*
 * [UniqueStream](https://uniquestream.vip/requests/) - *Movies / TV / Anime*
 * [9Anime](https://9anime.to/) - *Anime / Click Request*
 * [AnimeBatchDDL](https://animebatchddl.wordpress.com/) - *Anime / [Discord](https://discord.gg/sgqcm2xCtc)*
