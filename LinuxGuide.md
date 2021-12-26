@@ -70,7 +70,6 @@
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) - *Noise Cancellation Software*
 * [reddio](https://gitlab.com/aaronNG/reddio) - *Reddit CLI*
 * [rainbowstream ](https://github.com/orakaro/rainbowstream) - *Twitter CLI*
-* [Corebird](http://corebird.baedert.org/) - *Twitter Client*
 * [ramme](https://github.com/terkelg/ramme) - *Instagram Client*
 * [Luakit](https://luakit.github.io/) - *Lightweight Linux Browser* 
 * [browsh](https://www.brow.sh/) - *Text based Browser*
@@ -204,7 +203,6 @@
 * **[protondb](https://www.protondb.com/)** or **[Lutris](https://lutris.net/)** - *Play Windows games on Linux*
 * **[Torrminatorr](https://forum.torrminatorr.com/)** - *Linux Games*
 * **[johncena141](https://1337x.to/user/johncena141/)** - *Linux Games*
-* **[pgl](https://github.com/reggiiie/pgl)** - *Run Executables through Proton*
 * [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - *Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [SCNLOG](https://scnlog.me/) - *Linux Games*
 * [de.linuxgame.cn](https://de.linuxgame.cn/) - *Linux Games* 
@@ -328,7 +326,6 @@
 # ► Mac Software
 
 * **[FileCR](https://filecr.com/macos/)**
-* [The Macintosh Archives](http://mirror.macintosharchive.org/)
 * [Macintosh Garden](http://macintoshgarden.org/) 
 * [nMac](https://nmac.to/) 
 * [MacDrop](https://macdrop.net/) 
