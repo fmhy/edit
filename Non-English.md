@@ -21,7 +21,6 @@
 * [mycima](https://mycima.video/) - *Movies / TV / Anime*  
 * [arabseed](https://arabseed.cam/) - *Movies / TV* 
 * [dotCima](https://s2.dotcima.com/) - *Movies / TV*
-* [arblionz.org](https://www.arblionz.org/) - *Movies / TV* 
 * [EgyBest](https://egy.best/) - *Movies / TV*
 * [cartoon3rbi](https://www.cartoon3rbi.net/) - *Cartoons / Anime*
 * [Shazam Music](https://t.me/shazam_music_uz) - *Music / Telegram* 
@@ -55,7 +54,6 @@
 * [egyanime](https://www.egyanime.com/) - *Anime*
 * [anyanime](https://www.anyanime.com/) - *Anime*
 * [xsAnime](https://ww.xsanime.com/) - *Anime*
-* [okanime](https://www.okanime.com/) - *Anime*
 * [arabseed](https://www.arabseed.net/) - *Anime*
 * [octanime](https://www.octanime.com/) - *Anime*
 * [animelek](https://www.animelek.tv/) - *Anime*
@@ -126,7 +124,6 @@
 
 * [ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - *Chinese Download Manager*
 * [BD2020](https://www.bd2020.com/) - *Movies*
-* [Zimuxia](https://www.zimuxia.cn/) - *TV*
 * [shinybbs](https://sub.shinybbs.vip/) - *TV* 
 * [Ali213](https://ali213.net/) - *Games*
 * [3dmgame](https://www.3dmgame.com/) - *Games / Geolocked / Baidu Required* 
@@ -617,7 +614,6 @@
 
 * [Drama Sites](https://saidit.net/s/freemediaheckyeah/wiki/storage#wiki_asian_drama_sites)
 * [muryoueigadrama](https://muryoueigadrama.com/) - *Movies / TV / Anime* 
-* [mhometheater](http://mhometheater.com/) - *Movies / Anime* 
 * [momotheater](https://momotheater.com/) - *Movies / Anime*
 * [yume551](https://yume551.com/) - *Movies / Anime / NSFW*
 * [fmmiithuketa](https://fmmiithuketa.blog.fc2.com/) - *Movies / Anime*
@@ -911,7 +907,7 @@
 * [BlurayTorrent](https://bluraytorrent.site/) - *Movies /TV*
 * [Torrents4k](https://torrents4k.com/) - *Movies / TV*
 * [torrentdosfilmes](https://torrentdosfilmes.to/) - *Movies / TV*
-* [baixarfilmetorrent](https://baixarfilmetorrent.vip/), [2](https://baixarfilmestorrent1.com/) - *Movies / TV*
+* [baixarfilmetorrent](https://baixarfilmetorrent.vip/) - *Movies / TV*
 * [baixardownload](https://baixardownloadviatorrentgratis.blogspot.com/) - *Movies / TV*
 * [Legandas](https://www.legendas.co/) - *Movies / TV*
 * [Torrentsfilme](https://www.torrentsfilme.com/) - *Movies / TV*
@@ -1362,7 +1358,6 @@ Portuguese
 * [Anime Online Sub](https://www.animeonlinesub.com/) - *Anime* 
 * [Monoschinos](https://monoschinos2.com/) - *Anime* 
 * [serieslan](https://serieslan.com/) - *Cartoons*
-* [Blog De Plis](https://www.blogdepelis.tv/) - *Spanish Disney+* 
 * [NoireStyle](https://noirestyle.com/) - *Film Noir* 
 * [LegalMentegratis](http://legalmentegratis.com/) - *YouTube Movies*
 * [UKIKU](https://ukiku.ga/) - *Anime APK*
