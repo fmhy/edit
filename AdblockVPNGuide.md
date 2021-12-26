@@ -51,6 +51,9 @@
 * [AlternateDNS](https://alternate-dns.com/index.php) - *DNS Adblocking*
 * [LibreDNS](https://libredns.gr/) - *DNS Adblocking*
 * [Diversion](https://diversion.ch/) - *DNS Adblocking*
+* [OpenNic](https://www.opennic.org/) - *DNS Adblocking*
+* [DNS Watch](https://dns.watch/) - *DNS Adblocking*
+* [BhanUpratpys](https://github.com/bhanupratapys/dnswarden) - *DNS Adblocking*
 * [Quad9](https://quad9.net/) - *Malware, Phishing, Spyware & Botnet DNS Protection*
 * [Stubby](https://github.com/getdnsapi/stubby) - *DNS Stub Resolver*
 * [NextDNS](https://nextdns.io) - *DNS Adblocking / [Enhancement](https://greasyfork.org/en/scripts/408934-nx-enhanced) / [Leak Warning](https://redd.it/jt28e8)*
@@ -162,7 +165,7 @@
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) or [Anon Security](https://t.me/anon_server) - *CyberSecurity Resources*
 * [The White Circle](https://twc1rcle.com/) - *Cyber Security Community*
 * [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - *Anti-Censorship tool index* 
-* [Element](https://element.io/) / [Themes](https://github.com/aaronraimist/element-themes), [qTox](https://qtox.github.io/), [Utopia](https://u.is/en/), [Jami](https://jami.net/), [Tox](https://tox.chat/), [Bitmask](https://bitmask.net/) or [Wickr](https://wickr.com/) - *Encrypted Messaging / Video Calls* 
+* [Element](https://element.io/) / [Themes](https://github.com/aaronraimist/element-themes), [qTox](https://qtox.github.io/), [Utopia](https://u.is/en/), [linphone](https://www.linphone.org/), [Jami](https://jami.net/), [Tox](https://tox.chat/), [Bitmask](https://bitmask.net/) or [Wickr](https://wickr.com/) - *Encrypted Messaging / Video Calls* 
 * [Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - *Discord Message Encryption*
 * [PGPgram](https://github.com/tallero/PGPgram) - *GPG Encrypted Telegram Backups*
@@ -180,7 +183,6 @@
 * [F-Secure Identity Theft Checker](https://www.f-secure.com/en/home/free-tools/identity-theft-checker) - *Identity Theft Check*
 * [Name & Identity Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_name_.26amp.3B_identity_generators) - *Generate Fake Names / Identities* 
 * [Random User Generator](https://randomuser.me/) - *Generate Fake User Details* 
-* [Fake Address Generator](https://fakeaddressgenerator.com/) - *Generate Fake Address'*
 * [FakePhoneNumber](https://fakephonenumber.net/) - *Generate Fake Phone Numbers*
 * [Tails](https://tails.boum.org/) or [Qubes](https://www.qubes-os.org/) - *Privacy-Based Operating Systems*
 * [Track This]( https://trackthis.link/) - *Confuse Personal Advertising by opening 100 tabs* 
