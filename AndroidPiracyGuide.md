@@ -21,7 +21,7 @@
 * [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [F-Droid](https://f-droid.org/packages/dnsfilter.android), [DNSfilter](https://f-droid.org/en/packages/dnsfilter.android/), [Rethink](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists), [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), [2](https://jak-linux.org/projects/dns66/) / [GitHub](https://github.com/julian-klode/dns66) or [Pi-Droid](https://f-droid.org/en/packages/friimaind.piholedroid/)  - *DNS Adblocker* 
 * [Daedalus](https://play.google.com/store/apps/details?id=org.itxtech.daedalus) or [Nebulo](https://git.frostnerd.com/PublicAndroidApps/smokescreen/-/blob/master/README.md) - *DNS Modifier*
 * [Twidere](https://github.com/TwidereProject/Twidere-Android) - *Ad-Free Twitter App*
-* [MobileAdsBlock](https://gitlab.com/Shub_/mobile-ads-block/-/raw/master/list) or [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - *Adblock Filters* 
+* [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - *Adblock Filters* 
 * [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - *Block Spam Calls*
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - *Opt Out of Telemarketing Calls* 
 * [Slide](https://github.com/ccrama/Slide), [2](https://f-droid.org/en/packages/me.ccrama.redditslide/) or [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - *Ad Free Reddit Client*
@@ -67,7 +67,7 @@
 * [Bluer](https://play.google.com/store/apps/details?id=com.nemorystudios.android.bluer.facebook) - *Privacy-Focused Facebook Client*
 * [GrapheneOS](https://grapheneos.org/) - *Privacy and security focused mobile OS*
 * [Intra](https://play.google.com/store/apps/details?id=app.intra&amp;hl=en_US) - *System Wide DoH for Android*
-* [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - *Incognito Keyboard*
+* [AnySoftKeyboard](https://anysoftkeyboard.github.io/) / [Git](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - *Incognito Keyboard*
 * [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Sentinel](https://sentinel.co/), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html) or [Velocity](https://play.google.com/store/apps/details?id=vpn.proxy.velocity) - *Free VPN*
 * [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) - *Proxy*
 * [Sagernet](https://sagernet.org/) - *Proxy Tools*
@@ -161,6 +161,7 @@
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) or [AndrOpen](https://www.andropenoffice.com/) - *Office Suite* 
 * [xShare](https://github.com/tsudoko/xshare) - *Screenshot Tool*
 * [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/) - *Audio Recorder*
+* [openboard](https://github.com/dslul/openboard) - *FOSS Keyboard App*
 * [Grammarly](https://forum.mobilism.org/search.php?keywords=grammarly&sr=topics&sf=titleonly) - *Grammarly Keyboard Premium* 
 * [Fing](https://www.fing.com/products/fing-app) - *Network Toolkit* 
 * [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage) - *Disk Usage Analyzer*
@@ -194,7 +195,7 @@
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) or [SongTube](https://github.com/SongTube/SongTube-App) - *YouTube Audio / Video Downloader*
 * [DankChat](https://github.com/flex3r/DankChat) - *Talk in Multiple Twitch Chats at Once*
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - *Reddit Video Downloader*
-* [Boost](https://forum.mobilism.org/search.php?keywords=boost+for+reddit&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [Joey](https://forum.mobilism.org/search.php?keywords=joey+for+reddit&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [BaconReader](http://baconreader.com/) or [Relay](https://relayforreddit.com/index.html) - *Reddit Client*
+* [Boost](https://forum.mobilism.org/search.php?keywords=boost+for+reddit&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [Joey](https://forum.mobilism.org/search.php?keywords=joey+for+reddit&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [BaconReader](https://baconreader.com/) or [Relay](https://relayforreddit.com/index.html) - *Reddit Client*
 * [reveddit](https://play.google.com/store/apps/details?id=com.agreenbhm.reveddit) - *View Deleted Reddit Posts*
 * [Lemmur](https://github.com/krawieck/lemmur) - *Lemmy Client*
 * [Uploadgram App](https://github.com/pato05/uploadgram-app) - *Uploadgram Frontend*
@@ -204,6 +205,7 @@
 * [SlimTwitter](https://f-droid.org/en/packages/it.rignanese.leo.slimtwitter/) - *Twitter Webwrapper*
 * [Shitter](https://github.com/nuclearfog/Shitter) - *Lightweight Twitter App*
 * [Google Lens](https://lens.google/) - *Multiple Camera Tools*
+* [Gallery](https://www.simplemobiletools.com/gallery) - *Photo Gallery*
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) or [Camator](https://gcamator.com/) - *Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/)*
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - *Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)*
 * [WOMBO Dream](https://www.wombo.art/) - *Dream Artwork Tool*
@@ -393,12 +395,10 @@
 * [djjubeemedia](https://www.djjubeemedia.appboxes.co/Apks/) - *Modded Index* 
 * [PlatinMods](https://platinmods.com/) - *Modded / Private Game Servers* 
 * [Streamiza](https://t.me/streamiza) - *Modded / Telegram / [Discord](https://linktr.ee/Streamiza)*
-* [Gdrivehub Apps](https://t.me/gdrivehubapps) - *Modded / Telegram* 
 * [MODZILLA](https://t.me/Modzilla) - *Modded / Telegram*
 * [MixRoot Mods](https://t.me/Mixrootmods) - *Modded / Telegram*
 * [Android Games and Apps](https://t.me/Apps_and_Games_Android) - *Modded / Telegram*
 * [Cracked Apps](https://t.me/crackedapks) - *Modded / Telegram* 
-* [ReleaseAPK](https://t.me/ReleaseAPK_Forum) - *Modded / Telegram*
 * [DroidApks](https://t.me/DroidApks) - *Modded / Telegram*
 * [apkmod_s](https://t.me/apkmod_s) - *Modded / Telegram*  
 * [Pro App Share](https://t.me/proappshare) - *Modded / Telegram*   
@@ -469,7 +469,6 @@
 * [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - *[Screenshot](https://i.imgur.com/OrK3mLu.png)*
 * [WeTorrent](https://play.google.com/store/apps/details?id=co.we.torrent&amp;hl=en_US) - *[Screenshot](https://i.imgur.com/vrCk8Na.png)*
 * [BiglyBT](https://android.biglybt.com/) - *[Screenshot](https://i.imgur.com/WP7xwYK.png)* 
-* [Turbo Torrent](https://play.google.com/store/apps/details?id=co.turbotorrentapp.downloader) - *[Screenshot](https://i.imgur.com/d0DVzv2.png)*
 * [Transdroid](https://f-droid.org/packages/org.transdroid.full/) - *Manage BitTorrent clients* 
 * [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - *NZB / Torrent Manager* 
 * [iDope](https://idope.se/apk/down.html), [TorrHunt](https://torrhunt.pages.dev/) or [TorrSE](https://seedboxs.me/) - *Torrent Search*
@@ -773,8 +772,7 @@ RSS Player*
 * [Wickr](https://apps.apple.com/us/app/wickr-pro/id1200926568), [Jami](https://jami.net/), [MySudo](https://mysudo.com/) or [Element](https://apps.apple.com/app/vector/id1083446067) - *Encrypted Messaging / Video Calls*
 * [Bluer](https://apps.apple.com/us/app/bluer-for-facebook-messenger/id1490523710) - *Privacy-Based Facebook Client*
 * [ProtonMail](https://apps.apple.com/us/app/protonmail-encrypted-email/id979659905) - *Encrypted Emailing Service*
-* [Ariane 4](https://oppen.digital/software/ariane4/) / [2](https://codeberg.org/oppenlab/Ariane) - *Gemini Browser*
-* [SpoofCard](https://www.spoofcard.com/) - *Disguise Caller ID*
+* [Ariane 4](https://oppen.digital/software/ariane4/) - *Gemini Browser*
 
 ***
 
@@ -834,7 +832,7 @@ RSS Player*
 * [Twitter++](https://iosninja.io/ipa-library/download-twitter-plus-plus-ipa-ios) - *Tweaked Twitter App*
 * [TikTok God](https://github.com/haoict/tiktok-god) - *Tweaked TikTok App*
 * [FCC Speed Test](https://apps.apple.com/us/app/fcc-speed-test/id794322383) or [Iperf 3](https://apps.apple.com/us/app/iperf-3-wifi-speed-test/id1462260546) - *Internet Speed Test*
-* [Resurfer](https://apps.apple.com/us/app/resurfer/id1489340046), [Orion](https://apps.apple.com/us/app/orion-for-reddit/id1536533779), [Narwhal](https://apps.apple.com/us/app/narwhal-for-reddit/id845422455), [Reno](https://apps.apple.com/us/app/reno-for-reddit/id1489831590#?platform=iphone) or [BaconReader](http://baconreader.com/) - *Reddit Client*
+* [Resurfer](https://apps.apple.com/us/app/resurfer/id1489340046), [Orion](https://apps.apple.com/us/app/orion-for-reddit/id1536533779), [Narwhal](https://apps.apple.com/us/app/narwhal-for-reddit/id845422455), [Reno](https://apps.apple.com/us/app/reno-for-reddit/id1489831590#?platform=iphone) or [BaconReader](https://baconreader.com/) - *Reddit Client*
 * [Remmel](https://apps.apple.com/us/app/remmel-for-lemmy/id1547988171) - *Lemmy Client*
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
 * [Walkie-Talkie](https://walkie-talkie.io/) - *Walkie-Talkie App*
@@ -908,7 +906,6 @@ RSS Player*
 * [Scarlet](https://usescarlet.com/) - *Hacked apps / Tweaks*
 * [tweakboxapp](https://next.tweakboxapp.com/) or [tweakboxapp (sideloaded)](https://sideload.tweakboxapp.com/) - *App Tweaks*
 * [iPASpot](https://ipaspot.app/) - *Hacked / Tweaked iOS Apps* 
-* [iPABox](https://apps.ipabox.store/ipalibrary/index.html) - *Hacked / Tweaked iOS Apps* 
 * [LocalAPStore](https://repo.hackyouriphone.org/localiapstore), [Satella](https://paisseon.github.io/) / [2](https://github.com/Paisseon/Satella/) or [My iAP Cracker](https://repo.hackyouriphone.org/myiapcracker) - *In-App Purchase Mods*
 * [AppSync Unified](https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified) - *IPA Installation Tweak*
 * [iosninja](https://iosninja.io/ipa-library) or [Jailbreaks.app](https://jailbreaks.app/) - *App Sideload Files*
