@@ -685,10 +685,8 @@ French / General Torrent Tracker
 
 ## ▷ Streaming
 
-* [Drama Sites](https://saidit.net/s/freemediaheckyeah/wiki/storage#wiki_asian_drama_sites)
 * [HindiLover](https://hindilover.biz/) - *TV*
 * [OnDemandKorean](https://www.ondemandkorea.com/) - *TV / Movies*
-
 * [AQ Stream](https://aqstream.com/) - *Live TV* 
 
 ## ▷ Reading
