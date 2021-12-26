@@ -231,7 +231,7 @@
 * [SaveVK](https://savevk.com/) - *Download VK videos* 
 * [DMVideo](https://dmvideo.download/) - *DailyMotion Video Downloader* 
 * [VLive Downloads](https://home.soshistagram.com/naver_v/) - *VLive Video Downloader*
-* [GetFVid](https://www.getfvid.com/), [Facebook DL](https://github.com/sdushantha/facebook-dl) or [FBDown](https://fbdown.net/) - *Facebook Video Downloader* 
+* [GetFVid](https://www.getfvid.com/) or [Facebook DL](https://github.com/sdushantha/facebook-dl) - *Facebook Video Downloader* 
 * [TikTok Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tiktok_video_downloaders) - *Download TikTok Videos*
 * [myfaveTT](https://myfavett.com/) - *Download Your Liked TikTok Videos*
 * [TikUp](https://github.com/Coloradohusky/TikUp) - *TikTok Auto Download / Upload*
@@ -351,7 +351,7 @@
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - *Learn How to Play Music*
 * [Jukebox](https://jukebox.today/) or [jqbx](http://jqbx.fm/) - *Music Sync / Listening Parties*
 * [Versefy](https://versefy.app/) - *Lyrics Finder for Spotify, Tidal & VLC*
-* [Whyp](https://whyp.it/) or [Kadenza](https://share.kadenza.io/) - *Audio File Host*
+* [Whyp](https://whyp.it/) - *Audio File Host*
 * [Audiocheck](https://www.audiocheck.net/) - *Audio Tests* 
 * [Online Mic Test](https://onlinemictest.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - *Mic Test* 
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) - *Measure Surrounding Sound Level*
@@ -588,9 +588,9 @@
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - *Export Skype Chat Data to Readable Text*
 * [Jitsi](https://desktop.jitsi.org/index.html), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [MiroTalk](https://mirotalk.up.railway.app/), [TinyChat](https://tinychat.com/) or [Briefing](https://brie.fi/ng) - *Video Chat* 
-* [Jam](https://jam.systems/), [GROK](https://grokat.com/), [TeaSpeak](https://teaspeak.de/gb/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
+* [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
 * [IMumble](https://www.imumble.nl/) - *Voice Chat Server*
-* [Branch](http://branch.gg/) or [Gather](https://gather.town/) - *Virtual World Voice Chat*
+* [Gather](https://gather.town/) - *Virtual World Voice Chat*
 * [FireStorm Viewer](https://www.firestormviewer.org/) - *Virtual World Viewer*
 * [Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_sites) - *No Verification Required Email Sites*
 * [Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients) - *Send & Receive Mail*
@@ -674,7 +674,7 @@
 * [browserbench](https://browserbench.org/) - *Multiple Browser Benchmark Tests*
 * [VsyncTester](https://vsynctester.com/) - *Browser VSYNC Test*
 * [QuteBrowser](https://qutebrowser.org/) - *Keyboard Focused Browser* 
-* [Browsh](https://www.brow.sh/) or [Lynx](https://lynx.browser.org/) - *Text Based Browser* 
+* [Browsh](https://www.brow.sh/) - *Text Based Browser* 
 * [Beaker](https://beakerbrowser.com/) - *P2P Web Browser* 
 * [webbrowser.git](https://git.nuegia.net/webbrowser.git/) - *Lightweight Browser* 
 * [MinBrowser](https://minbrowser.org/) - *Minimalist Browser*
@@ -752,10 +752,9 @@ General Reading Sites*
 * [Facebook CSE](https://cse.google.com/cse?cx=65eb7b6b8baf5a5cb) - *Search Facebook*
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - *Facebook Search Formulas* 
 * [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - *Search TikTok*
-* [UserSearch](https://usersearch.org/) - *Username Search*
+* [UserSearch](https://usersearch.org/) or [WhatsMyName](https://whatsmyname.app/) - *Username Search*
 * [Graph.tips](https://graph.tips/beta/) - *Advanced Facebook Search Tool* 
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - *Telegram CSE*
-* [SearchBuzz](http://search.buzz.im/) - *Telegram Message Search Engine*
 * [Google Search Operator Cheat Sheets](https://moz.com/learn/seo/search-operators), [2](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [3](https://ahrefs.com/blog/google-advanced-search-operators/), [4](https://l-lists.com/en/lists/m1mdwx.html), [5](https://github.com/BushidoUK/OSINT-SearchOperators)
 * [Google Search Guide](https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters) + [Advanced](https://coursebuilder.withgoogle.com/)
 * [Yandex Search Operator Cheat Sheets](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/), [3](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
@@ -818,7 +817,6 @@ General Reading Sites*
 * [ShadyURL](http://www.shadyurl.com/) - *Make Suspicious Looking URLs* - `5z8.info/warez_zozu`
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - *Telegram Link Shortener Bot* 
 * [suri](https://github.com/jstayton/suri) - *Self-Deployed Link Shortener*
-* [Fuselink](https://www.fuselink.co/) - *Merge Multiple Links* 
 * [Open Bulk URL](https://openbulkurl.com/), [RapidLinkr](https://rapidlinkr.com/) or [OpenAllURLs](https://www.openallurls.com/) - *URL Bulk Opener*
 * [CheckServer](https://check-host.net/), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - *Site Monitoring Tools*
 * [CrowdTangle](https://apps.crowdtangle.com/chrome-extension) - *Check Where Links Have Been Shared*
@@ -838,10 +836,9 @@ General Reading Sites*
 * [Xenu-Link](http://home.snafu.de/tilman/xenulink.html), [Cyotek-Webcopy](https://www.cyotek.com/cyotek-webcopy), [Dead Link Checker](https://www.deadlinkchecker.com/) or [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php) - *Broken Link Checker*
 * [W.A.R. Links Checker Premium](http://usa.x10host.com/mybb/showthread.php?tid=88) - *Checks If File Links are Alive or Not*
 * [SafeLinking](https://safelinking.net/), [Gdrivez](https://www.gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [TSU.one](https://tsu.one/), [linkspop](https://linkspop.info/), [BrBushare](https://brbushare.xyz/) or [ShortLinkto](https://shortlinkto.top/) - *Link Protectors* 
-* [WhoIsRequest](https://whoisrequest.com/), [DaWhoIs](https://www.dawhois.com/) or [Securrity Whoiz](http://www.securrity.ru/whoiz.html) - *Domain Information Lookup*
+* [WhoIsRequest](https://whoisrequest.com/) or [Securrity Whoiz](http://www.securrity.ru/whoiz.html) - *Domain Information Lookup*
 * [Awesome Piracy Bot](https://github.com/Igglybuff/awesome-piracy-bot) - *URL Scraping Tool*
 * [NSLookup](https://www.nslookup.io/) - *DNS Information Tool*
-* [Hosting Check](https://hostingchecker.com/) - *Site Host Checker*
 * [Site Worth Traffic](https://www.siteworthtraffic.com/) - *Calculate Website Worth*
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - *Sitemap Creator*
 * [CarbonDates](http://carbondate.cs.odu.edu/) - *Check Site Creation Date* 
@@ -868,7 +865,7 @@ General Reading Sites*
 * [Busca](https://github.com/afk-mcz/busca) - *Search Current Tab on Reddit*
 * [KarmaDecay](http://karmadecay.com/) - *Reddit Reverse Image Search* 
 * [Reddit Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_alternatives) - *Alternative Reddit Style Sites*
-* [lurrker](https://lurrker.com/), [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/), [kddit](https://kddit.kalli.st/), [Nuxtit](https://nuxtit.netlify.com/) or [js4.red](https://js4.red/) - *Alt Browsers / Web Clients*
+* [lurrker](https://lurrker.com/), [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/), [kddit](https://kddit.kalli.st/) or [Nuxtit](https://nuxtit.netlify.com/) - *Alt Browsers / Web Clients*
 * [xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/) / [2](https://github.com/spikecodes/libreddit), [Saturnus](https://saturnusapp.com/), [Inccogsnoo](https://incogsnoo.com/) or [teddit](https://teddit.net/) / [2](https://codeberg.org/teddit/teddit) - *Reddit Frontends*
 * [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466-unedit-and-undelete-for-reddit) - *See Edited & Deleted Reddit Content*
 * [Reddit-Search](https://camas.github.io/reddit-search/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - *View Deleted Reddit Posts*
@@ -944,7 +941,6 @@ General Reading Sites*
 * [Discord Portable](https://portapps.io/app/discord-portable/) - *Portable Discord Stable & [PTB PortApps](https://portapps.io/app/discord-ptb-portable/)*
 * [Unicord](https://github.com/WamWooWam/Unicord) - *Open Source Discord Client / [Discord](https://discord.gg/64g7M5Y)* 
 * [Fosscord](https://github.com/fosscord/fosscord) - *FOSS Discord Client*
-* [discord rpc client](https://github.com/Metalloriff/discord-rpc-client) - *RPC Client*
 * [Quarrel](https://github.com/UWPCommunity/Quarrel) - *Universal Windows Platform Discord Client*
 * [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) or [WebCord](https://github.com/SpacingBat3/WebCord) - *Discord Web Client / [Discord](https://discord.gg/Vm4CwZx)*
 * [discord-PWA](https://github.com/NeverDecaf/discord-PWA) - *Discord PWA Client*
@@ -1012,10 +1008,8 @@ G) - *Create Discord RPCs*
 * [Discord Ban Appeals](https://github.com/patricktechn/discord-ban-appeals) - *Discord Ban Appeal Form*
 * [Discord Auto Upload](https://github.com/tardisx/discord-auto-upload) - *Auto Upload Screenshots*
 * [DSC.BIO](https://dsc.bio/) - *Make Awesome Custom Discord Bios* 
-* [DiscordStatus](https://warze.org/discordstatus/) - *Discord Status Art Creator*
 * [DateTimeCord](https://datetimecord.rauf.wtf/) - *Discord Date & Time Fomatting Tool*
-* [Edited Text Mover](http://lem0ns.me/all-things-copying/discord-edited-text-mover/) - *Move Edited Text Note*
-* [Discord Text to Emoji](https://jtprince.com/discord/), [2](http://pingusteif.de/discord) - *Emoji Discord Text*
+* [Discord Text to Emoji](https://jtprince.com/discord/) - *Emoji Discord Text*
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - *Automod Bot Config*
 * [Dyno](https://dyno.gg/) - *Change Discord Discriminator w/o Nitro / [How-To](https://i.imgur.com/lHRD42c.png)* 
 * [Discord.ID](https://discord.id/) - *Lookup a Discord User or Bot ID* 
@@ -1079,7 +1073,6 @@ G) - *Create Discord RPCs*
 * [Telegram Scraper](https://www.telegramscraper.com/) - *Telegram Member / Group Export*
 * [Telegram Email](https://t.me/etlgr_bot) - *Send / Receive Emails via Telegram* 
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - *Telegram CSE*
-* [SearchBuzz](http://search.buzz.im/) - *Telegram Message Search Engine*
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - *Telegram Link Shortener Bot* 
 * [URL2IMGBot](https://t.me/URL2IMGBot) - *Takes a screenshot for any URL / Telegram* 
 
@@ -1145,7 +1138,6 @@ G) - *Create Discord RPCs*
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - *Shows YouTube File Sizes* 
 * [Auto Quality for YouTube](https://chrome.google.com/webstore/detail/auto-quality-for-youtube/iaddfgegjgjelgkanamleadckkpnjpjc?hl=en) - *Automatically Switch to desired Quality*
 * [h264ify](https://github.com/erkserkserks/h264ify) - *Use H.264 on YouTube* 
-* [StreamSniper](https://www.streamsniper.tv/) - *HTML5 YouTube Stream Player* 
 * [Disable 60fps](https://greasyfork.org/en/scripts/23329-disable-youtube-60-fps-force-30-fps) - *Force 30fps on YouTube*
 * [YouTube CPU Tamer](https://greasyfork.org/en/scripts/431573-youtube-cpu-tamer-by-animationframe) - *YouTube CPU Optimization*
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - *Fix YouTube Aspect Ratio*
@@ -1184,7 +1176,7 @@ G) - *Create Discord RPCs*
 * [Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f) - *Twitch Extension Index*
 * [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-dl](https://github.com/ihabunek/twitch-dl) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  *Download Twitch Videos* 
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - *Lightweight Twitch Webplayer*
-* [Twitchls](https://twitchls.com/) or [StreamSniper](https://www.streamsniper.tv/) - *HTML5 Twitch Stream Player* 
+* [Twitchls](https://twitchls.com/) - *HTML5 Twitch Stream Player* 
 * [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - *Alt Twitch Player* 
 * [Twitch-Desktop](https://github.com/twitch-desktop/twitch-desktop) or [Orion](https://alamminsalo.github.io/orion/) - *Twitch Desktop Client* 
 * [Multi](https://multi.raredrop.co/), [Twitchmultivod](https://www.twitchmultivod.com/) or [TwitchTheater](https://twitchtheater.tv/) - *Watch Multiple Twitch Streams* 
@@ -1351,7 +1343,7 @@ G) - *Create Discord RPCs*
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - *Disk Benchmarking Tool*
 * [Macrium Reflect](https://www.macrium.com/reflectfree) - *System Benchmarking*
 * [poclmembench](https://github.com/kruzer/poclmembench) - *Memory Benchmark Test*
-* [MyFavoriteGadgets](https://www.myfavoritegadgets.info/), [Netdata](https://www.netdata.cloud/), [btop](https://github.com/aristocratos/btop) or [WinBar](http://www.winbar.nl/) - *System Monitor*
+* [Netdata](https://www.netdata.cloud/), [btop](https://github.com/aristocratos/btop) or [WinBar](http://www.winbar.nl/) - *System Monitor*
 * [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - *Windows System Utilities / [Suite](https://www.microsoft.com/EN-US/p/app/9P7KNL5RWT25)* 
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](http://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - *Process Monitor*
 * [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) - *Process Killer*
@@ -1405,7 +1397,7 @@ G) - *Create Discord RPCs*
 * [OneLaunch](https://onelaunch.com/) - *Customizable Windows Dock*
 * [CircleDock](http://circledock.wikidot.com/) - *Circular Dock*
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - *Quickly Change Power Schemes*
-* [Wox](http://www.wox.one/) / [GitHub](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [KeyLauncher](https://github.com/stax76/KeyLauncher), [ChaseApp](https://www.chaseapp.io/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - *Keystroke Launcher*
+* [Wox](http://www.wox.one/) / [GitHub](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [ChaseApp](https://www.chaseapp.io/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - *Keystroke Launcher*
 * [Closemul](https://www.lustark.com/closemul) - *Multi-Purpose Program Frontend*
 * [rofi](https://github.com/davatorium/rofi) - *Window Switcher & App Launcher*
 * [Clipboard Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_clipboard_managers) - *Manage Copied Text*
@@ -1462,7 +1454,6 @@ G) - *Create Discord RPCs*
 * [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) - *Free Google Colab VPS on 25GB RAM*
 * [mRemoteNG](https://mremoteng.org/) - *Remote Connections Manager* 
 * [Netmaker](https://gravitl.com/netmaker) - *Create Virtual Network*
-* [Collab-VM](http://computernewb.com/collab-vm/) - *Control Collaborative Virtual Machines* 
 * [NirLauncher](https://launcher.nirsoft.net/) - *All Nirsoft Utilities in One App*
 * [TopGrade](https://github.com/r-darwish/topgrade) - *Package Manager Update Automation* 
 * [Winget](https://github.com/microsoft/winget-cli) or [bget](https://github.com/jahwi/bget) - *Windows Package Manager / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Tools](https://github.com/jdhitsolutions/WingetTools)* 
