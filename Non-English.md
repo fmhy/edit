@@ -97,7 +97,7 @@
 * [channelmyanmar](https://channelmyanmar.org) - *Movies / TV*
 
 ***
-
+     
 # ► Chinese 
 
 * [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - *Chinese Site / Tool Index*
@@ -106,6 +106,7 @@
 * [Kaiheila](https://www.kaiheila.cn/) - *Chinese Discord*
 * [zimuku](http://zimuku.org/), [YYets](https://www.yyets.com/) or [SubHD](https://subhd.tv/) - *Subtitles*
 * [Anti-Ad](https://anti-ad.net/) - *Adblock Filters*
+* [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - *Search Engines*
 * [Dianying](https://dianying.fm/) - *Hash Search*
 * [磁力海](https://cilidog.cc/) - *DHT Search *
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
@@ -213,6 +214,8 @@
 ***
 
 # ► Czech 
+
+* [Seznam](https://www.seznam.cz/) - *Search Engine*
 
 ## ▷ Downloading
 
@@ -1454,6 +1457,8 @@ Portuguese
 
 # ► Vietnamese 
 
+* [Coccoc](https://coccoc.com/search) - *Search*
+  
 ## ▷ Downloading
 
 * [HDVietnam](http://www.hdvietnam.com/forums/) - *Video / Audio / Software*
