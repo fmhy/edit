@@ -137,6 +137,7 @@
 * [The Devs Network](https://thedevs.network/) - *Developer Chat*
 * [daily.dev](https://daily.dev/) - *Replace New Tab Page with Developer Articles* 
 * [Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites) - *Download Icons for Projects*
+* [The Favicon Finder](https://besticon.herokuapp.com/) - *Find Favicons on Sites*
 * [Laws of UX](https://lawsofux.com/) - *Maxims / Principles for UI Designers* 
 * [UI Coach](https://uicoach.io/) - *UI Design Challenge Generator*
 * [Responsively](https://responsively.app/) - *Responsive Dev Design Tool*
