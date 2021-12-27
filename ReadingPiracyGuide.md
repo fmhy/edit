@@ -250,7 +250,7 @@
 * **[/r/Echerdex](https://www.reddit.com/r/Echerdex/)** - *Esoterica / [Repository](https://www.echerdex.com/index.php/repository/), [2](https://rentry.co/echlinkss) / [Discord](https://discord.gg/dS5X3d7ype)*
 * **[WiLd's Occult Ebook Sources](https://justpaste.it/WiLdOccultEbooks)** - *Occult / Esoterica*
 * [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2) - *Occult*
-* [GodChecker](https://www.godchecker.com/) - *Learn about Gods from different Religions*
+* [GodChecker](https://www.godchecker.com/) - *Religion / Mythology*
 * [Hermetic International](https://www.hermetics.net/) - *Religion / Occult / Alchemy / Astrology / Freemasonry / Gnosticism / Hermetic / Kabbalah / Philosophy*
 * [Temple of Solomon the King](https://mega.nz/#F!SfZyUYRK!yW7p_LkWtooQaVZ3Vr6WLQ), [2](https://mega.nz/folder/ig0CBbLS#pGy_4LFIXKdtF_Ey5CVCdw/folder/TpVG3ITY), [3](https://mega.nz/folder/jlEwhYyJ#iK4mVC4y5iwk_cr3eIpX4g) - *Occult / Gnosticism / Esoterism. / Drive* 
 * [Abundant Hope](https://krishnamurti.abundanthope.org/) - *Sacred Texts / Religion / Christianity / Buddhism / Alchemy / Hinduism / Islam / Theosophy / Judaism / Taoism*
