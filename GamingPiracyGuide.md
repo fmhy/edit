@@ -14,7 +14,7 @@
 * **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)** / **[Rave Search](https://idleendeavor.github.io/gamesearch/)** / [2](https://ravegamesearch.pages.dev/) - *Search multiple sites at once*
 * **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download &amp; Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)*
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "games" or "roms"*
-* **[FitGirl Repacks](https://fitgirl-repacks.site/)** - *[Discord](https://discord.gg/fitgirlrepacks)*
+* **[FitGirl Repacks](https://fitgirl-repacks.site/)** - *[Discord](https://discord.gg/Up3YARe4RW)*
 * **[Masquerade Repacks](https://masquerade.site/)** - *[Discord](https://discord.gg/HP5sQ6c)*
 * **[Steam Underground](https://cs.rin.ru/)** - *[Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Status](https://csrinstaff.writeas.com/)*
 * **[DyR0t(-_-t)'s Drive](https://valhalla.dyro.me/)** 
@@ -89,7 +89,7 @@
 * **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** / **[Rave Search](https://idleendeavor.github.io/gamesearch/)** / [2](https://ravegamesearch.pages.dev/) - *Search multiple sites at once*
 * **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download &amp; Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)*
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "games" or "roms"*
-* **[FitGirl Repacks](https://fitgirl-repacks.site/)** - *[Discord](https://discord.gg/fitgirlrepacks)*
+* **[FitGirl Repacks](https://fitgirl-repacks.site/)** - *[Discord](https://discord.gg/Up3YARe4RW)*
 * **[DODI](http://dodi-repacks.site/)** - *[Discord](https://discord.gg/uE273qJ)*
 * **[ScOOter Repacks](https://scooter-repacks.site/)** - *[Discord](https://discord.gg/BWKyN8SgvM)*
 * **[ElAmigos Games](https://elamigos.site/)**, [2](https://www.elamigos-games.com/) 
