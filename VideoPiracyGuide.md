@@ -12,8 +12,8 @@
 # ► Streaming Sites
 
 * **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** or [Crocovid](http://crocovid.com/) - *Multi-Site Search*
-* **[Video Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_search_sites)** - *Search Video Sites / [CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)*
 * **[How-To Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - *Find Obscure Films*
+* [Video Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_search_sites) - *Search Video Sites / [CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)*
 * [Stream IMDb](https://github.com/4L00/TemperMonkey-Scripts/) - *Add Stream Search Buttons to IMDb*
 * [Streaming Site Ranking](https://dirtywarez.org/cat/streaming) - *Alexa Rankings*
 
@@ -25,6 +25,7 @@
 * **[EE3](https://ee3.me/)** - *Movies / Invite Code: mpgh*
 * **[Ask4movies](https://ask4movie.io/)** - *Movies / TV / [Adblock Script](https://pastebin.com/N58Vbyhw)*
 * **[M4uFree](https://ww1.m4ufree.com)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)*
+* **[Squeezebox](https://movie.squeezebox.dev/)** - *Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)*
 * [C1NE](https://c1ne.co/) - *Movies / TV* 
 * [VikV](https://vikv.net/), [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
 * [TheFlix](https://www.theflix.to/) - *Movies / TV* 
@@ -34,7 +35,6 @@
 * [NetU](https://netu.io/view_page.php?pid=4) - *Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)*
 * [Shoow.in](https://shoow.in/) - *Movies / TV / Anime / [Unlock HD](https://pastebin.com/hxdq1uFi) / [Discord](https://discord.gg/5QqW8HtY)*
 * [Ling.online](https://ling.online/en/videos/films/) - *Movies / TV*
-* [Squeezebox](https://movie.squeezebox.dev/) - *Movies / TV*
 * [OpenloadMovies](https://openloadmov.net/) - *Movies / TV*
 * [SolarMovie](https://www2.solarmovie.to/) or [Putlocker.vip](https://ww1.putlocker.vip/) - *Movies / TV / Anime*
 * [Remote Stream](https://remotestre.am/) - *Movies / TV*
