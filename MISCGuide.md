@@ -33,7 +33,7 @@
 * [Neverland](http://www.neverland.ws/index.html) - *Piracy Index / [Links](https://rentry.co/oo9ri)* 
 * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr) - *Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)*
 * [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - *Piracy Index*
-* [Similar Sites](https://www.similarsites.com/), [Alexa Similar Sites](https://www.alexa.com/find-similar-sites), [SimilarWeb](https://www.similarweb.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
+* [Similar Sites](https://www.similarsites.com/), [Alexa Similar Sites](https://www.alexa.com/find-similar-sites), [SimilarWeb](https://www.similarweb.com/), [xRanks](https://xranks.com/), [](https://www.similarsitesearch.com/), [TopSimilarSites](https://www.topsimilarsites.com/), [SuchSites](https://suchsites.com/), [MoreOfIt](http://www.moreofit.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
 * [DirtyWarez](https://dirtywarez.org/) or [CuteStat](https://www.cutestat.com/) - *Site Rankings & Stats*
 * [10 Words](https://discover.10words.io/) - *App / Tool Discovery*
 * [BunkList](https://bunklist.com/) - *Site / Tool Lists*
