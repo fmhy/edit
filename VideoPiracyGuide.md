@@ -20,10 +20,10 @@
 ## ▷ Dedicated Hosts
 
 * **[Movies4Discord](https://discord.movies4discord.xyz/)** - *Movies / TV / [Website](https://movies4discord.xyz/)*
-* **[LookMovie](https://lookmovie.io/)** - *Movies / TV*
 * **[Soap2Day](https://soapgate.org/)** - *Movies / TV*
 * **[EE3](https://ee3.me/)** - *Movies / Invite Code: mpgh*
 * **[Ask4movies](https://ask4movie.io/)** - *Movies / TV / [Adblock Script](https://pastebin.com/N58Vbyhw)*
+* **[LookMovie](https://lookmovie.io/)** - *Movies / TV*
 * **[M4uFree](https://ww1.m4ufree.com)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)*
 * **[Squeezebox](https://movie.squeezebox.dev/)** - *Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)*
 * [C1NE](https://c1ne.co/) - *Movies / TV* 
@@ -115,8 +115,8 @@
 
 ## ▷ Multi Hosts
 
-* **[PrimeWire](https://www.primewire.li/)** - *Movies / TV / Anime*
 * **[FMovies](https://fmovies.name/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)*
+* **[PrimeWire](https://www.primewire.li/)** - *Movies / TV / Anime*
 * **[HiMovies](https://www3.himovies.to/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)*
 * **[Movolo](https://movolo.now.sh/)** - *Movies / TV*
 * **[PrettyFlix](https://prettyflix.gq/)** - *Movies / TV / Anime*
