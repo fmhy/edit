@@ -120,11 +120,12 @@
 * [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - *Calendar & Scheduling Tools*
 * [Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - *Note Taking & To-do Apps*
 * [Manuskript](https://www.theologeek.ch/manuskript/) - *Writing Organizer & Planner*
+* [WorkFlowy](https://workflowy.com/) - *Work Organizer*
 * [KiloDoc](https://www.kilodoc.com/) - *Online Document Editor* 
 * [Writemonkey](http://writemonkey.com/) - *Distraction Free Writing App*
 * [EncryptPad](https://evpo.net/encryptpad/) - *Encrypted Text Editor*
 * [Calculist](https://calculist.io/) - *Note Taking for Problem Solving*
-* [journaltxt](https://journaltxt.github.io/) - *Single Text File Journals*
+* [journaltxt](https://journaltxt.github.io/) or [journal-cli](https://v1.journalcli.app/) - *Journal App*
 * [Nute](https://nute.app/) - *Quickly Make & Save Text Files*
 * [Lyx](https://www.lyx.org/) - *LaTeX Editor / [Guide](https://www.learnlatex.org/)*
 * [Detexify](http://detexify.kirelabs.org/classify.html) - *Handwritten LaTeX Symbol Recognition*
@@ -567,7 +568,7 @@
 * [BrowserParrot](https://www.browserparrot.com/) - *Browser History Search Engine*
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - *Tools / Apps to Run Flash Programs*
 * [Nativefier](https://github.com/nativefier/nativefier), [Applicationize](https://applicationize.me/now) or [web2desk](https://appmaker.xyz/web2desk/) - *Turn Sites into Desktop Apps* 
-* [Bear Blog](https://bearblog.dev/), [write freely](https://writefreely.org/) or [twtxt](https://github.com/buckket/twtxt) - *Microblogging Platform*
+* [Bear Blog](https://bearblog.dev/), [Mataroa](https://mataroa.blog/), [write freely](https://writefreely.org/) or [twtxt](https://github.com/buckket/twtxt) - *Blogging Platform*
 * [SpookyX](https://github.com/Fiddlekins/SpookyX) - *Adds Features to Imageboards*
 * [Rambox](https://rambox.pro/) / [GitHub](https://github.com/ramboxapp/download/releases), [Ferdi](https://getferdi.com/), [Pidgin](https://www.pidgin.im/), [Hamsket](https://github.com/TheGoddessInari/hamsket), [matterbride](https://github.com/42wim/matterbridge) or [Franz](https://meetfranz.com/) - *Combine Web Apps / Chats*
 * [Slapdash](https://slapdash.com/) - *Connect Cloud Apps* 
@@ -736,7 +737,7 @@ General Reading Sites*
 * [Esteroids](https://esteroids.eth.limo/#) - *Decentralized Web Search Engine*
 * [Social-Searcher](https://www.social-searcher.com/) or [Social Mention](http://socialmention.com/) - *Social Media Search Engine*  
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - *Forum Search Engine* 
-* [Blog Search Engine](http://www.blogsearchengine.org/) - *Blog Search*
+* [Blog Search Engine](http://www.blogsearchengine.org/), [Blog-Search](https://www.blog-search.com/), [BlogErnity](http://www.bloggernity.com/) or [SearchBlogspot](https://www.searchblogspot.com/) - *Blog Search*
 * [4chanSearch](https://4chansearch.com/) - *4chan Search*
 * [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) - *Tik-Tok Search*
 * [Mibbit](https://search.mibbit.com/) - *IRC Channel Search*
@@ -1623,7 +1624,6 @@ G) - *Create Discord RPCs*
 * [download](https://github.com/kevva/download) - *File Download Tool / Extractor / [CLI](https://github.com/kevva/download-cli)*
 * [DropIt](http://www.dropitproject.com/) - *Automated File Management*
 * [Download Proxy](https://download-proxy.zhaofengying.com/) - *File Proxy Server Downloader*
-* [TeraCopy](https://www.codesector.com/teracopy) - *File Copy Manager*
 * [Files 2 Folder](https://www.dcmembers.com/skwire/download/files-2-folder/) - *Create / Copy to Folders Created by File Name*
 * [File-Examples](https://file-examples.com/) - *File Examples*
 * [RollMyFile](https://rollmyfile.com/) - *Open Files Online*
@@ -1702,7 +1702,7 @@ G) - *Create Discord RPCs*
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - *HTTP File System*
 * [FolderClone](http://www.folderclone.com/) - *Clone / Backup Folders*
 * [Borg](https://www.borgbackup.org/) - *Deduplicating File Archiver / Backup* 
-* [BackupPC](https://backuppc.github.io/backuppc/), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [DeltaCopy](http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp), [restic](https://restic.net/), [UrBackup](https://www.urbackup.org/), [BlobBackup](https://github.com/BlobBackup/BlobBackup), [SafeCopy](https://www.elwinsoft.com/safecopy-free.html), [FastCopy](http://fastcopy.jp/), [OCCT](https://www.ocbase.com/) or [Duplicati](https://www.duplicati.com/) - *File Backup Tool* 
+* [Cloning Tools](https://github.com/SpamVerse/Piratezparty/blob/main/Cloning-Tools.md), [BackupPC](https://backuppc.github.io/backuppc/), [TeraCopy](https://www.codesector.com/teracopy), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [DeltaCopy](http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp), [restic](https://restic.net/), [UrBackup](https://www.urbackup.org/), [BlobBackup](https://github.com/BlobBackup/BlobBackup), [SafeCopy](https://www.elwinsoft.com/safecopy-free.html), [FastCopy](http://fastcopy.jp/), [OCCT](https://www.ocbase.com/) or [Duplicati](https://www.duplicati.com/) - *File Backup Tool* 
 * [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) or [filebrowser](https://github.com/filebrowser/filebrowser/) - *Web File Browser*
 * [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/) or [Securedrop](https://securedrop.org/) - *Document File Sharing*
 * [OpenPaper](https://openpaper.work/en/) or [DataShare](https://datashare.icij.org/) - *Document Manager*
