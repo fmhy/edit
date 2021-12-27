@@ -20,6 +20,23 @@
 * [The Big List of Porn](https://www.tblop.com/) 
 * [Porn Sites XXX](https://pornsites.xxx/) 
 * [Top Porn Sites](https://toppornsites.com/)
+* [JennyList](https://jennylist.xyz/) 
+* [ThePornBin(https://thepornbin.com/)
+* [PinkWorld](https://pinkworld.com/) 
+* [PornList18](https://pornlist18.com/) 
+* [TopXXXList](https://www.topxxxlist.net/) 
+* [IndianPornList](https://indianpornlist.com/) 
+* [Tommy's Bookmarks](https://www.tommys-bookmarks.com/) 
+* [ThePornBlender](https://www.thepornblender.com/) 
+* [AdultList](https://www.adultlist.com/) 
+* [Unegeekette](http://unegeekette.com/) 
+* [QuickiePage](https://quickiepage.com/) 
+* [PaidPornGuide](https://www.paidpornguide.com/) 
+* [SitiPorno](https://sitiporno.org/) 
+* [FreePornLTD](https://freepornltd.org/) 
+* [ThePornMap](https://thepornmap.com/) 
+* [PornBox](http://pornbox.org/)
+* [PrimePornList](https://www.primepornlist.com/)
 * [Porn Sites Banned in India](https://www.scribd.com/doc/273372869/List-of-porn-websites-banned-in-India#fullscreen&from_embed) 
 * [look1](https://look1.club/), [2](https://like3.co/), [3](https://that8.xyz/), [4](https://lady3.info/) - *Chinese Site Index*
 * [Excel Today](https://t.me/excel_today) - *NSFW Telegram List*
@@ -59,8 +76,10 @@
 * [GemmePorn](https://gemmeporn.com/) 
 * [Lustoholic](https://lustholic.com/) 
 * [PornHoarder](https://pornhoarder.tv/)
+* [WatchMovies](https://watchomovies.xyz/)
 * [FuxnXX](https://fuxnxx.com/) 
 * [Clip Fuck](https://clipf.com/) 
+* [Porn-Star](https://www.porn-star.com/)
 * [Sex-Student](https://sex-studentki.vip/)
 * [Permanent Booru](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
 * [mcb3id.onion](http://ik4kzum3ocg6dhx4jhzteko4jzijmxnwsbkcqenf33as3i74i3mcb3id.onion/) 
@@ -91,6 +110,7 @@
 * [kemono.party](https://kemono.party/) - *OnlyFans / Patreon / [Attachments](https://kemono.party/attachments/)*
 * [OnlyNudes](https://onlynudes.tv/) - *OnlyFans*
 * [Coomer.Party](https://coomer.party/artists) - *OnlyFans*
+* [NsfwLeak](https://nsfwleak.com/) - *OnlyFans*
 * [PremiumModels](http://reddit.com/r/PremiumModels) - *OnlyFans*
 * [BeNudes](https://benudes.com/) - *Erotic Stories*
 * [Pinkfire Store](https://store.pinkfire.pw/) - *NSFW Mobile Apps*
@@ -234,6 +254,7 @@
 * [Anix.moe](https://www.anix.moe/)
 * [WebToonTop](http://webtoontop.xyz/)
 * [yande.re](https://yande.re/) 
+* [Jraws](http://jraws.net/)
 * [MangaGenki](https://mangagenki.com/) 
 * [HentaiWorld](https://hentaiworld.tv/)
 * [Wholesome Hentai](https://wholesomelist.com/)
