@@ -267,6 +267,7 @@
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - *Shortcut CheatSheet for Current Application*
 * [MonitorControl](https://monitorcontrol.app/) - *External Monitor Brightness & Volume Control*
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - *Volume Mixer / Auto-Pause*
+* [Bunch](https://bunchapp.co/) - *Task Automation*
 * [MacLaunch](http://github.com/hazcod/maclaunch) - *Manage Startup Items*
 * [Sloth](https://github.com/sveinbjornt/Sloth) - *MacOS Process Manager*
 * [pongoOS](https://github.com/checkra1n/pongoOS) - *Mac Pre-Boot Executor*
