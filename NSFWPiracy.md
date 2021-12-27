@@ -55,6 +55,8 @@
 * [Vid123](https://vid123.net/) 
 * [FuckIt](http://www.fuckit.cc/) 
 * [NesaPorn](http://nesaporn.com/) 
+* [Fuq](https://www.fuq.com/)
+* [GemmePorn](https://gemmeporn.com/) 
 * [Lustoholic](https://lustholic.com/) 
 * [PornHoarder](https://pornhoarder.tv/)
 * [FuxnXX](https://fuxnxx.com/) 
@@ -88,6 +90,8 @@
 * [Thots.tv](https://thots.tv/) - *Onlyfans / Patreon*
 * [kemono.party](https://kemono.party/) - *OnlyFans / Patreon / [Attachments](https://kemono.party/attachments/)*
 * [OnlyNudes](https://onlynudes.tv/) - *OnlyFans*
+* [Coomer.Party](https://coomer.party/artists) - *OnlyFans*
+* [PremiumModels](http://reddit.com/r/PremiumModels) - *OnlyFans*
 * [BeNudes](https://benudes.com/) - *Erotic Stories*
 * [Pinkfire Store](https://store.pinkfire.pw/) - *NSFW Mobile Apps*
 * [Only Fans CSE](https://cse.google.com/cse?cx=230603009f774dff1) - *OnlyFans Custom Search*
@@ -99,6 +103,7 @@
 * [Booba.tv](https://booba.tv/) - *Twitch Streamers*
 * [TwerkHeaven](http://www.twerkheaven.com/) - *Twerking*
 * [Plexstorm](https://www.plexstorm.com/) - *Adult Game Streaming*
+* [xHubApp](http://xhubapp.com/) - *AIO Premium Porn Services App*
 * [Pornsearch](https://github.com/LucasLeandro1204/Pornsearch) - *Porn Search Script*
 
 ***
@@ -114,6 +119,7 @@
 * [BadGirlsArchive](https://badgirlsarchive.site/) - *OnlyFans / Patreon / [Drive](https://mega.nz/folder/KV5BkYZL#csRmCr-THJeX0NbvukLkLA)*
 * [PornLeaks](https://pornleaks.in/) - *OnlyFans / Patreon*
 * [Pornlyfans](https://ufile.io/d6jdix9i) - *OnlyFans*
+* [Egirls.Wtf](https://egirls.wtf/) - *OnlyFans*
 * [173.249.45.226](http://173.249.45.226/)
 * [PornFactors](http://pornfactors.com/) 
 * [RaidForums NSFW](https://raidforums.com/Forum-Not-Safe-For-Work)
@@ -134,11 +140,20 @@
 * [213.32.1.25](http://213.32.1.25/) - *Japanese Porn*
 * [78.47.246.229](http://78.47.246.229/) - *Japanese Porn*
 * [XXXTelegramBot](https://t.me/XXXTelegramBot) - *Telegram*
+* [altar_of_elders](https://t.me/altar_of_elders) - *Telegram*
+* [AAAAAFfX6Mz1ZiUwM3uWkA](https://t.me/joinchat/AAAAAFfX6Mz1ZiUwM3uWkA) - *Telegram*
+* [eroticinclinations](https://t.me/eroticinclinations) - *Telegram*
+* [internetjuice](https://t.me/internetjuice) - *Telegram*
+* [punahele](https://t.me/punahele) - *Telegram*
+* [lowqualityjournal](https://t.me/lowqualityjournal) - *Telegram*
+* [aesthetic_dvite](https://t.me/aesthetic_dvite) - *Telegram*
+* [destructiveaddiction](https://t.me/destructiveaddiction) - *Telegram*
 * @PornMirror - *Telegram*
 * [KinkBot](https://kinkbot.me/) - *Porn Image Bot*
 * [Boob Bot](https://www.boobbot.us/) - *Porn Image Bot*
 * [NSFWDownloader](https://github.com/h110m/NSFWDownloader) - *Porn Downloader*
 * [Pornhub DL Script](https://redd.it/ks5sba), [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) or [Savido Pornhub](https://www.savido.net/sites/pornhub) - *Pornhub Downloader*
+* [FapNationBot](https://discord.gg/MxyvAV22cE) - *Premium Porn Downloader Bot*
 * [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - *FC2 Image Scraper*
  [multporn-image-downloader-v2](https://github.com/Official-Husko/multporn-image-downloader-v2)
 * Add `site:cyberdrop.me` to search onlyfans leaks
@@ -213,12 +228,14 @@
 * [sakuracircle](https://sakuracircle.com/) 
 * [MyReadingManga](https://myreadingmanga.info/)
 * [Ryuugames](https://ryuugames.com/) 
+* [WebHentai](https://webhentai.net/)
 * [EAHentai](https://eahentai.com/)
 * [NewToki69](https://newtoki96.com/)
 * [Anix.moe](https://www.anix.moe/)
+* [WebToonTop](http://webtoontop.xyz/)
 * [yande.re](https://yande.re/) 
 * [MangaGenki](https://mangagenki.com/) 
-* [HentaiWorld](https://hentaiworld.tv/ )
+* [HentaiWorld](https://hentaiworld.tv/)
 * [Wholesome Hentai](https://wholesomelist.com/)
 * [/r/SixDigits](https://www.reddit.com/r/sixdigits)
 * [ToonKor](https://tkor.dog/) - *[Twitter](https://twitter.com/tkor_info)*
