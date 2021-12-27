@@ -18,21 +18,20 @@
 * **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - *Organize Ideas & Projects*
 * **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** - *Device Repair Articles*
 * **[TuboTax Sucks Ass](http://turbotaxsucksass.net/)** or [FreeTaxUSA](https://www.freetaxusa.com/) - *File Taxes for Free*
+* **[BeMyEyes](https://www.bemyeyes.com/)** - *Assist the Visually Impaired* 
 * **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/) or [UN Data](https://data.un.org/) - *World Data & Statistics*
 * **[Our World in Data](http://ourworldindata.org/)** - *World Problem Database*
-* **[BeMyEyes](https://www.bemyeyes.com/)** - *Assist the Visually Impaired* 
+* [Global Consciousness Project](https://gcpdot.com/) - *Real-Time Global Consciousness Data*
+* [Internet Live Stats](https://www.internetlivestats.com/) - *Live Internet Statistics*
+* [OEC](https://oec.world/en) - *International Trade Data Visualization*
+* [World Births and Deaths](https://worldbirthsanddeaths.com/) - *World Birth / Death Rates Visualization*
+* [Gun Violence Archive](https://www.gunviolencearchive.org/) - *Gun Violence Information Database*
 * [RecoRank](https://recorank.com/) - *Tech Review Aggregator*
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - *Open Source Tools* 
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - *Mac-Style Dashboard Widget*
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - *AI Experiments / Tools* 
 * [Generative Tools](https://docs.google.com/document/d/1N57oAF7j9SuHcy5zg2VZWhttLwR_uEldeMr-VKzlVIQ/) - *Generative Tool Index*
 * [Barcode Reader](https://online-barcode-reader.inliteresearch.com/) or [ZXing Decoder](https://zxing.org/w/decode.jspx) - *Online Barcode Reader*
-* [Internet Live Stats](https://www.internetlivestats.com/) - *Live Internet Statistics*
-* [World Births and Deaths](https://worldbirthsanddeaths.com/) - *World Birth / Death Rates Visualization*
-* [Gun Violence Archive](https://www.gunviolencearchive.org/) - *Gun Violence Information Database*
-* [OEC](https://oec.world/en) - *International Trade Data Visualization*
-* [Global Consciousness Project](https://gcpdot.com/) - *Real-Time Global Consciousness Data*
-* [Faces of Suicide](https://www.facesofsuicide.com/) - *Suicide Victim Remembrance & Donations*
 * [The Measure Of Things](https://www.bluebulbprojects.com/measureofthings/default.php) - *Comparative / Relative Quantity Measurements* 
 * [Compare Sizes](https://comparesizes.com/) - *Size Comparison Tool* 
 * [hikaku-sitatter](https://hikaku-sitatter.com/en/) - *Height Comparison Tool*
@@ -103,6 +102,7 @@
 * [findhelp.org](https://www.findhelp.org/) - *Find Assistive Programs*
 * [/r/Assistance](https://www.reddit.com/r/Assistance/), [/r/borrow](https://www.reddit.com/r/borrow/), [/r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) or [/r/Homeless](https://www.reddit.com/r/homeless/) - *Assistance & Donation Subreddits*
 * [Helpmap](https://helpmap.io/) - *Nonprofit Donation Map* 
+* [Faces of Suicide](https://www.facesofsuicide.com/) - *Suicide Victim Remembrance & Donations*
 * [/u/elkatiuskas' Resource List](https://redd.it/phrcrn) - *Abortion Resource Index*
 * [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - *Informed Consent HRT Clinics*
 
