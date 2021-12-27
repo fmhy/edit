@@ -20,12 +20,12 @@
 ## ▷ Dedicated Hosts
 
 * **[Movies4Discord](https://discord.movies4discord.xyz/)** - *Movies / TV / [Website](https://movies4discord.xyz/)*
-* **[Soap2Day](https://soapgate.org/)** - *Movies / TV*
 * **[EE3](https://ee3.me/)** - *Movies / Invite Code: mpgh*
 * **[Ask4movies](https://ask4movie.io/)** - *Movies / TV / [Adblock Script](https://pastebin.com/N58Vbyhw)*
-* **[LookMovie](https://lookmovie.io/)** - *Movies / TV*
 * **[M4uFree](https://ww1.m4ufree.com)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)*
 * **[Squeezebox](https://movie.squeezebox.dev/)** - *Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)*
+* **[Soap2Day](https://soapgate.org/)** - *Movies / TV*
+* **[LookMovie](https://lookmovie.io/)** - *Movies / TV*
 * [C1NE](https://c1ne.co/) - *Movies / TV* 
 * [VikV](https://vikv.net/), [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
 * [TheFlix](https://www.theflix.to/) - *Movies / TV* 
