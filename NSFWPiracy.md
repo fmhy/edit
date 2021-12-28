@@ -21,7 +21,7 @@
 * [Porn Sites XXX](https://pornsites.xxx/) 
 * [Top Porn Sites](https://toppornsites.com/)
 * [JennyList](https://jennylist.xyz/) 
-* [ThePornBin(https://thepornbin.com/)
+* [ThePornBin](https://thepornbin.com/)
 * [PinkWorld](https://pinkworld.com/) 
 * [PornList18](https://pornlist18.com/) 
 * [TopXXXList](https://www.topxxxlist.net/) 
