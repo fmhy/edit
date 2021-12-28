@@ -68,7 +68,7 @@
 * [GrapheneOS](https://grapheneos.org/) - *Privacy and security focused mobile OS*
 * [Intra](https://play.google.com/store/apps/details?id=app.intra&amp;hl=en_US) - *System Wide DoH for Android*
 * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) / [Git](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - *Incognito Keyboard*
-* [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html) or [Velocity](https://play.google.com/store/apps/details?id=vpn.proxy.velocity) - *Free VPN*
+* [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html), [Sentinel](https://sentinel.co/) or [Velocity](https://play.google.com/store/apps/details?id=vpn.proxy.velocity) - *Free VPN*
 * [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) - *Proxy*
 * [Sagernet](https://sagernet.org/) - *Proxy Tools*
 * [Privacy Indicator](https://f-droid.org/packages/com.nitish.privacyindicator/), [2](https://play.google.com/store/apps/details?id=com.nitish.privacyindicator), [Vigilante](https://f-droid.org/en/packages/com.crazylegend.vigilante/) or [Access Dots](https://play.google.com/store/apps/details?id=you.in.spark.access.dots) - *Camera / Mic Access Indicator* 
@@ -766,6 +766,7 @@ RSS Player*
 * [Onion Browser](https://onionbrowser.com/) - *Onion Browser for iOS* 
 * [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337), [friendly](https://friendly.io/) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - *Privacy Based Browser* 
 * [Lockdown iOS](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) - *iOS Firewall / [GitHub](https://github.com/confirmedcode/Lockdown-iOS)*
+* [Sentinel](https://sentinel.co/) - *Free VPN*
 * [Anti-Social](https://apps.apple.com/us/app/faceblock-block-facebook/id1516200820) - *Block Social Media Trackers* 
 * [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669), [surespot](https://www.surespot.me/), [Status](https://status.im/), [Session](https://getsession.org/), [Confide](https://apps.apple.com/ca/app/confide-secret-messenger/id779883419) or [chatsecure](https://chatsecure.org/) - *Encrypted Messaging* 
 * [Syphon](https://syphon.org/) - *Privacy Based Matrix Client / [GitHub](https://github.com/syphon-org/syphon)*
