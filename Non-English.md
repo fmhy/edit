@@ -1117,6 +1117,8 @@ Portuguese
 * [DXP](https://dxp.ru/) - *Torrent / Subtitles*
 * [TLauncher Legacy](https://tlaun.ch/) - *Minecraft Client / Cracked Minecraft*
 * [Proxy-Checker](https://proxy-checker.net/) - *Proxy Checker*
+* [Поиск](https://poshukach.com/) - *Search Engine*
+* [topsites](https://topsites.name/) - *Russian Site Index*
 * [Yandex Search Operator Cheat Sheet](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
 
 ## ▷ Downloading 
@@ -1155,6 +1157,7 @@ Portuguese
 ## ▷ Torrenting
 
 * **[RuTracker](http://rutracker.org)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - *Video / Audio / Games / Software / Android / Comics / Magazines*
+* [toptracker](https://toptracker.ru/) - *Torrent Site List*
 * [UpTracker](https://www.uptracker.ru/) - *Torrent Tracker Index*
 * [krasfs](https://krasfs.ru/) - *Torrent Search* 
 * [torrent.by](http://torrent.by/) - *Torrent Search* 
@@ -1261,6 +1264,7 @@ Portuguese
 * [royallib](https://royallib.com/) - *Books*  
 * [Filibusta](https://flibusta.site/) - *Books*
 * [coollib](https://coollib.xyz/) - *Books* 
+* [libking](https://libking.ru/) - *Books*
 * [rulit](https://www.rulit.me/) - *Books* 
 * [ibookscafe](https://bookscafe.net/) - *Books / NSFW*
 * [sblib](http://sblib3fk2gryb46d.onion/) - *Books / .onion* 
