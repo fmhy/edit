@@ -433,8 +433,8 @@
 * [ZzFXM](https://keithclark.github.io/ZzFXM/) - *JavaScript Music Renderer* 
 * [YADG](https://yadg.cc/) - *Scrape / Render Music via Templates / [API](https://yadg.cc/api/)*
 * [Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_to_speech) - *Text to Speech Sites / Apps*
-* [Clash](https://clash.me/) - *Text to Speech using Sampled Media* 
-* [Audiogrep](http://antiboredom.github.io/audiogrep/) - *Transcribe & Search for Phrases in Audio / [GitHub](https://github.com/antiboredom/audiogrep)*
+* [Clash](https://clash.me/) or [FakeYou](https://fakeyou.com/) - *Media Based Text to Speech* 
+* [Audiogrep](http://antiboredom.github.io/audiogrep/) or [mp4grep](https://github.com/o-oconnell/mp4grep) - *Audio Transcribing / [GitHub](https://github.com/antiboredom/audiogrep)*
 * [FastHub](https://fasthub.net/) - *Text to Speech Translation Tool*
 * [Splitter](https://www.splitter.ai/) or [melody ml](https://melody.ml/) - *Separate voice from instrumentals*
 * [VocalRemover](http://vocalremover.org/) / [GUI](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [AIVocalRemover](https://aivocalremover.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb) or [Remove Vocals](https://www.remove-vocals.com/) - *Remove / Isolate Vocal Tracks*
@@ -633,7 +633,7 @@
 * [DownloadTestr](http://txti.es/downloadtestr) - *Download Test Files to Test Download Speed* 
 * [Hotel WiFi Test](https://www.hotelwifitest.com/) - *Test Hotel WiFi Speeds* 
 * [NeverSSL](http://neverssl.com/) - *Fix Public WiFi Login Pages*
-* [YouTube](https://dlogic.lk/projects/youtubedatacalc.php), [Music Streaming](https://dlogic.lk/projects/music.php), [Netflix](https://dlogic.lk/projects/netflix.php), [Zoom](https://dlogic.lk/projects/zoom.php) - *Data Usage Calculators*
+* [YouTube](https://dlogic.lk/projects/youtubedatacalc.php), [Music Streaming](https://dlogic.lk/projects/music.php), [Netflix](https://dlogic.lk/projects/netflix.php), [Zoom](https://dlogic.lk/projeText to Speech using Sampled Mediacts/zoom.php) - *Data Usage Calculators*
 * [IP2Proxy](https://www.ip2proxy.com/) - *Proxy / VPN IP Detector*
 * [Tripgen](https://orph.link/tripgen) - *Image Board Trip Code Generator* 
 * [4Chan Captcha Solver Script](https://pastebin.com/f6xUjE5s) or [4chan Captcha Solver](https://github.com/AUTOMATIC1111/4chan-captcha-solver/) - *4chan Captcha Solver*
@@ -839,7 +839,7 @@ General Reading Sites*
 * [SafeLinking](https://safelinking.net/), [Gdrivez](https://www.gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [TSU.one](https://tsu.one/), [linkspop](https://linkspop.info/), [BrBushare](https://brbushare.xyz/) or [ShortLinkto](https://shortlinkto.top/) - *Link Protectors* 
 * [WhoIsRequest](https://whoisrequest.com/) or [Securrity Whoiz](http://www.securrity.ru/whoiz.html) - *Domain Information Lookup*
 * [Awesome Piracy Bot](https://github.com/Igglybuff/awesome-piracy-bot) - *URL Scraping Tool*
-* [NSLookup](https://www.nslookup.io/) - *DNS Information Tool*
+* [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - *DNS Information Tool*
 * [Site Worth Traffic](https://www.siteworthtraffic.com/) - *Calculate Website Worth*
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - *Sitemap Creator*
 * [CarbonDates](http://carbondate.cs.odu.edu/) - *Check Site Creation Date* 
@@ -1345,7 +1345,7 @@ G) - *Create Discord RPCs*
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - *Disk Benchmarking Tool*
 * [Macrium Reflect](https://www.macrium.com/reflectfree) - *System Benchmarking*
 * [poclmembench](https://github.com/kruzer/poclmembench) - *Memory Benchmark Test*
-* [Netdata](https://www.netdata.cloud/), [btop](https://github.com/aristocratos/btop) or [WinBar](http://www.winbar.nl/) - *System Monitor*
+* [Netdata](https://www.netdata.cloud/), [bottom](https://github.com/ClementTsang/bottom), [btop](https://github.com/aristocratos/btop) or [WinBar](http://www.winbar.nl/) - *System Monitor*
 * [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - *Windows System Utilities / [Suite](https://www.microsoft.com/EN-US/p/app/9P7KNL5RWT25)* 
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](http://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - *Process Monitor*
 * [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) - *Process Killer*
@@ -1354,7 +1354,7 @@ G) - *Create Discord RPCs*
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) or [Process Lasso](https://bitsum.com/) - *CPU Optimizer* 
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - *Laptop CPU Monitor / Optimizer*
 * [MemTest](https://www.memtest.org/) - *Memory Diagnostic Tool*
-* [CPUid](https://www.cpuid.com/softwares/cpu-z.html) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - *System Information Tool* 
+* [CPUid](https://www.cpuid.com/softwares/cpu-z.html), [winfetch](https://github.com/kiedtl/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - *System Information Tool* 
 * [HWiNFO](https://www.hwinfo.com/) - *Hardware Analysis, Monitoring and Reporting*
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - *AMD Processor Power Management*
 * [phwmon](https://gitlab.com/o9000/phwmon) - *System Tray Hardware Monitor*
@@ -1516,6 +1516,7 @@ G) - *Create Discord RPCs*
 * [amogOS](https://github.com/jostroOS/amogOS) - *Rasberry Pi OS*
 * [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - *Identify why your PC isn't Windows 11 ready*
 * [Awesome Windows 11](https://github.com/awesome-windows11/windows11) - *Windows 11 Resource Index*
+* [Windows 11 Fixer](https://github.com/99natmar99/Windows-11-Fixer) - *Win 11 Improvement Tool*
 * [Bypass Win11 Requirements](https://github.com/osx86-ijb/bypass-windows11-requirements) - *How-To Bypass Windows 11 System Requirements*
 * [Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) - *Windows 11 System Requirements Bypasser*
 * [Win11DevBypass](https://github.com/rushiranpise/win11devbypass) - *Bypass Win 11 Dev Channel Restrictions*
@@ -1678,7 +1679,7 @@ G) - *Create Discord RPCs*
 * [goodls](https://github.com/tanaikech/goodls) - *Google Drive Downloader*
 * [GDirect](https://www.gdirect.link/) or [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - *Direct GDrive Link Generator*
 * [Folder.GDrive](https://folder.gdrive.vip/) - *GGDrive Folder Link Generator*
-* [GDToT](https://www.gdtot.com/) - *Google Drive Manager*
+* [GDToT](https://gdtot.eu/) - *Google Drive Manager*
 * [Backup System](https://github.com/danielpy108/BackUpMySystem) - *Backup Google Drive*
 * [OneDrive CF Index](https://github.com/spencerwooo/onedrive-cf-index) - *OneDrive Index*
 * [OneDrive X](https://t.me/onedrivexbot) - *Remote OneDrive File Upload Bot*
