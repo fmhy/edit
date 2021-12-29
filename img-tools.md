@@ -14,9 +14,9 @@
 * **[Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_editing)** - *Image Editing Software & Sites*
 * **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - *Download GFX Design Software*
 * **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/), [4](https://mega.nz/file/E5MwmT5Z#YP-vMSTcm8voKjb72_nHsLYH1AGmliWsbUGXVJhNHDE) - *Design Tool Resource Indexes*   
-* **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - *Glitch Images*
-* [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Stencil](https://getstencil.com/
-), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/) or [Glitterly](https://glitterly.app/) - *Graphic Design Tools*
+* **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - *Glitch Images*
+* [rexpaint](https://www.gridsagegames.com/rexpaint/) - *ASCII Art Editor*
+* [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Stencil](https://getstencil.com/), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/) or [Glitterly](https://glitterly.app/) - *Graphic Design Tools*
 * [Scribus](http://www.scribus.net/) - *Page Layout & Typesetting Program*
 * [FreeCourseSEO](https://freecourseo.com/) - *GFX Design Courses / [Telegram](https://t.me/freecoursessite1)*
 * [1TB Art Courses](https://pastebin.com/hKgJG2Vz) - *Art Courses*
@@ -72,7 +72,6 @@
 * [Resize App Icon](https://resizeappicon.com/) - *Resize Square Images* 
 * [SSizes](https://ssizes.com/) - *Resize Images for Different Sites*
 * [RIOT](https://riot-optimizer.com/) - *Image Optimization Tool*
-* [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - *Scale Pixel Art w/o Quality Loss*
 * [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [ImageDiamond](https://www.imagediamond.com/), [Crushee](https://crushee.app/) or [Batch Compress](https://batchcompress.com/en) - *Image Compressor* 
 * [TinyPNG](https://tinypng.com/) or [PNGQuant](https://pngquant.org/) - *PNG Compressor* 
 * [JPEG.rocks](https://jpeg.rocks/) - *JPEG Re-Encoder* 
@@ -103,9 +102,11 @@
 * [imgsli](https://imgsli.com/) - *Before & After Slider Generator*
 * [DCGAN](http://mattya.github.io/chainer-DCGAN/) - *Anime Icon Generator* 
 * [Girl Friend Factory](https://hiroshiba.github.io/girl_friend_factory/) or [MakeGirlsMoe](https://make.girls.moe/) - *Female Anime Icon Generator* 
+* [Mr. Squiggles](http://www.mrsquiggles.com/) - *Animated Doodle Maker*
 * [Photovisi](https://www.photovisi.com/) - *Photo Collage Generator* 
 * [Make Photo Gallery](https://makephotogallery.net/) - *Photo Gallery Creator*
 * [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - *Image to ASCII Art Generator*
+* [ASCII Paint](http://ascii.alienmelon.com/) - *ASCII Art Creator*
 * [dream](https://app.wombo.art/) - *Dream Art Generator*
 * [TierMaker](https://tiermaker.com/) - *Tier List Image Creator*
 * [Hugin](http://hugin.sourceforge.net/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - *Panorama Photo Generator* 
@@ -137,7 +138,7 @@
 ## ▷ GIF Tools
 
 * **[Awesome GIF](https://github.com/davisonio/awesome-gif)** - *GIF Resource Index*
-* [Giphy](https://giphy.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/), [reactiongifs](https://www.reactiongifs.us/), [reactiongifs](https://reactiongifs.me/), [gif-finder](https://gif-finder.com/), [reactiongifs](http://www.reactiongifs.com/), [bestanimations](https://bestanimations.com/), [gifimage](https://gifimage.net/) or [Animated Images](https://www.animatedimages.org/) - *Download GIFs* 
+* [Giphy](https://giphy.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/), [reactiongifs](https://www.reactiongifs.us/), [reactiongifs](https://reactiongifs.me/), [gif-finder](https://gif-finder.com/), [reactiongifs](http://www.reactiongifs.com/), [bestanimations](https://bestanimations.com/), [Animations](https://bleuje.github.io/animationsite/), [gifimage](https://gifimage.net/) or [Animated Images](https://www.animatedimages.org/) - *Download GIFs* 
 * [EZGif](https://ezgif.com/), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFnText](https://www.gifntext.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Gif Maker](https://gifmaker.me/) - *GIF Creator / Editor*
 * [gifify](https://github.com/vvo/gifify) or [Video-to-GIF](https://hnet.com/video-to-gif/) - *Video to GIF Converter*
 * [GifRun](https://gifrun.com/) - *Make GIFs From Online Videos*
@@ -179,9 +180,14 @@
 
 * **[Awesome Pixel Art](https://github.com/Siilwyn/awesome-pixel-art)** - *Pixel Art Resource Index* 
 * [Pedro's Pixel Art Tutorials](https://blog.studiominiboss.com/pixelart) - *Pixel Art Tutorials* 
-* [Piskel](https://www.piskelapp.com/), [rx](https://rx.cloudhead.io/), [PixelCraft](https://pixelcraft.web.app/) / [GitHub](https://github.com/rgab1508/PixelCraft) or [PixilArt](https://www.pixilart.com/draw) - *Pixel Art Editor* 
+* [Piskel](https://www.piskelapp.com/), [rx](https://rx.cloudhead.io/), [PaintWith](https://paintwith.webflow.io/), [PixelCraft](https://pixelcraft.web.app/) / [GitHub](https://github.com/rgab1508/PixelCraft) or [PixilArt](https://www.pixilart.com/draw) - *Pixel Art Editor*
+* [dpixel](https://marcoc2.itch.io/dpixel) - *Pixel Art Remastering Tool* 
 * [Pixel Painter](https://jenniferdewalt.com/pixel_painter.html) - *Paint with Pixels*
 * [PixelMe](https://pixel-me.tokyo/en/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - *Turn Photos into Pixel Art* 
+* [Pixelorama](https://orama-interactive.itch.io/pixelorama) - *2D Sprite Editor*
+* [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) - *Sprite Generator*
+* [Petmate](https://nurpax.github.io/petmate/) - *C64 PETSCII Image Editor*
+* [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - *Scale Pixel Art w/o Quality Loss*
 
 ***
 
@@ -272,7 +278,7 @@
 
 # ► Image Tools
 
-* [WebOasis Editors](https://weboas.is/editors/), [Hotot](https://hotpot.ai/), [RedKetchup](https://redketchup.io/), [VertexShare](https://vertexshare.com/), [Img2Go](https://www.img2go.com/), [BrandFolder](https://brandfolder.com/workbench-suite), [ImgLarger](https://imglarger.com/) or [FastStone](https://www.faststone.org/index.htm) - *Multiple Image Tools*
+* [WebOasis Editors](https://weboas.is/editors/), [Hotot](https://hotpot.ai/), [RedKetchup](https://redketchup.io/), [VertexShare](https://vertexshare.com/), [Img2Go](https://www.img2go.com/), [BrandFolder](https://brandfolder.com/workbench-suite), [fffuel](https://fffuel.co/), [ImgLarger](https://imglarger.com/) or [FastStone](https://www.faststone.org/index.htm) - *Multiple Image Tools*
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - *Art & Animation Resource Index*
 * [Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes) - *Color Scheme / Palette Tools*
 * [ImgOps](https://imgops.com/) - *Image Operations Meta-Tool*
