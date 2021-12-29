@@ -149,6 +149,7 @@
 * [FDE.AI](https://github.com/feravolt/FDE.AI-docs) - *Android Performance Enhancements*
 * [DarQ](https://www.apkmirror.com/apk/mighty-quinn-apps/darq/) - *Universal Dark Mode*
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - *Android Cleanup Tool*
+* [L3MON](https://github.com/D3VL/L3MON) - *Remote Android Manager*
 * [Water Resistance Tester](https://play.google.com/store/apps/details?id=com.ray.waterresistancetester) - *Test Phones Water Resistance*
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - *Ringtones Directory*
 * [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) - *Theme Manager / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3)*
@@ -352,6 +353,7 @@
 * [APKTurbo](https://www.apkturbo.com/) - *Untouched*
 * [APK Award](https://apkaward.com/) - *Untouched*
 * [App Apks](https://www.appapks.net/) - *Untouched*
+* [APKMonk](https://www.apkmonk.com/) - *Untouched*
 * [Android APK](https://android-apk.org/) - *Untouched / Modded* 
 * [APKSum](https://www.apksum.com/) - *Untouched / Modded* 
 * [A2Z APK](https://a2zapk.com/) - *Untouched / Modded*  
@@ -382,6 +384,7 @@
 * [TechBigs](https://techbigs.com/) - *Modded*
 * [AndroidYolo](https://androidyolo.co/) - *Modded*
 * [APKMody](https://apkmody.io/) - *Modded* 
+* [APK Whale](https://www.apkwhale.com/) - *Modded*
 * [LetsCrackOn](https://letscrackon.org/downloads/) - *Modded*
 * [APK Folks](https://apkfolks.com/) - *Modded*
 * [Thinkkers](https://thinkkers.com/) - *Modded / [Discord](https://t.me/thinkkers)*
@@ -389,7 +392,10 @@
 * [APK Bolt](https://apkbolt.com/) - *Modded*
 * [ModApk.Cloud](https://modapk.cloud/) - *Modded* 
 * [Rockmods](https://www.rockmods.net/) - *Modded* 
+* [APK Swing](https://apkswing.com/) - *Modded*
+* [King Games](https://ludokinggame.com/) - *Modded*
 * [ApkMagic](https://apkmagic.com.ar/) - *Modded* 
+* [TheTechNisk](https://thetechnisk.in/) - *Modded*
 * [ApKGod](https://apkgod.net/) - *Modded* 
 * [p30afzar](https://dl.p30afzar.com/Games/) - *Modded Games*
 * [AppValley](https://app.app-valley.vip/) - *Modded / Tweaked*
@@ -643,6 +649,7 @@ RSS Player*
 * [Tunity](https://tunity.com/) - *Hear Any Muted TV*
 * [Stick Around](https://play.google.com/store/apps/details?id=com.stickaround.app) - *Check for Post Credit Scenes*
 * [tv-bro](https://github.com/truefedex/tv-bro) - *TV Remote Browser*
+* [AllTVApps](https://alltvapps.com/) - *Streaming App Index*
 
 ***
 
