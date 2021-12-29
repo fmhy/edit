@@ -54,6 +54,7 @@
 * [Torrents Time](https://torrents-time.com/)
 * [Bitport](https://bitport.io/welcome) 
 * [TorrentSafe](https://www.torrentsafe.com/)
+* [TorrentCheap](https://my.torrentcheap.com/)
 * [FileStream](https://filestream.me/)
 * [ZBIGZ](https://zbigz.com/)
 * [PeerSM](https://www.peersm.com/)
