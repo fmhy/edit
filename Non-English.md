@@ -126,7 +126,6 @@
 * [ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - *Chinese Download Manager*
 * [BD2020](https://www.bd2020.com/) - *Movies*
 * [shinybbs](https://sub.shinybbs.vip/) - *TV* 
-* [Ali213](https://ali213.net/) - *Games*
 * [3dmgame](https://www.3dmgame.com/) - *Games / Geolocked / Baidu Required* 
 * [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - *Courses / [icourse163](https://www.icourse163.org/)*
 * [91Flac](https://www.91flac.com/) - *Music* 
@@ -158,7 +157,6 @@
 * [shinybbs](https://sub.shinybbs.vip/) - *TV* 
 * [ACG.rip](https://acg.rip/) - *Anime / Music* 
 * [Snow-Raws](https://snow-raws.com/) - *Anime / [Official Tracker](https://www.skyey2.com/)*
-* [Ali213](https://ali213.net/) - *Games*
 * [AnimeTrackerList](https://github.com/DeSireFire/animeTrackerList) - *Anime Tracker List*
 
 ## ▷ Streaming
@@ -1302,7 +1300,6 @@ Portuguese
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - *Movies*
 * [SomosMovies](https://somosmovies.com/) - *Movies* 
 * [Mega MKV](https://mega-mkv.com/) - *Movies*
-* [MiCineHD ](https://www.micinehd.com/) - *Movies / TV* 
 * [Descargas](https://descargas2020.net/) - *Movies / TV*
 * [DLShared](https://dlshareds.blogspot.com/?m=1) - *Movies*
 * [DescargasDD](https://descargasdd.net/) - *Movies / TV* 
@@ -1316,6 +1313,8 @@ Portuguese
 * [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
 * [RedVirtual](https://www.redvirtual.bid/) - *Courses*
 * [Tododescargas](https://tododescargas.net/) - *Software* 
+* [ProgramsVirtualePC](https://www.programasvirtualespc.net/) - *Software*
+* [MuchosPortables](https://www.muchosportables.com/) - *Portable Software*
 * [VictorRaulRR](https://victorraulrr.info/) - *Modded APKs*
 
 ## ▷ Torrenting
@@ -1474,6 +1473,7 @@ Portuguese
 * [taomaytinh](https://taomaytinh.com/) - *Software*
 * [iphanmem](https://iphanmem.net/) - *Software*
 * [khophanmem24h](https://khophanmem24h.com/) - *Software*
+* [ChiaSeAPK](https://www.chiaseapk.com/) - *Modded APKs*
 * [kysuthietke](https://kysuthietke.com/) - *Engineering Software*
 
 ## ▷ Reading
