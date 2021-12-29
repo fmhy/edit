@@ -570,6 +570,7 @@
 * [Google Scholar](https://scholar.google.com/) - *Articles*
 * [Mendeley](https://www.mendeley.com/) - *Articles* 
 * [DOAJ](https://doaj.org/) - *Journals / Articles*
+* [DocSity](https://www.docsity.com/en/) - *College Document Search*
 * [ResearchGate](https://www.researchgate.net/) - *Science Articles*
 * [SciLit](https://www.scilit.net/) - *Science Articles*
 * [MyScienceWork](https://www.mysciencework.com/) - *Science Articles*
@@ -848,7 +849,7 @@
 * [Manga.Fanscans](https://manga.fascans.com/)
 * [CMReader](https://www.cmreader.info/)
 * [NiAdd](https://niadd.com/) 
-* [1stKissManga](https://1stkissmanga.com/), [2](https://1stkissmanga.io/)
+* [1stKissManga](https://1stkissmanga.com/), [2](https://1stkissmanga.io/), [3](https://1stkissmanga.love/)
 * [Mangazuki](https://mangazuki.me/) 
 * [mangaowls](https://mangaowls.com/) 
 * [mangapill](https://mangapill.com/) 
