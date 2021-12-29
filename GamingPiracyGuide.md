@@ -51,7 +51,9 @@
 * [DLFox](https://www.dlfox.com/)
 * [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
 * [SPiKY Repacks](https://discord.gg/ZHC6pffMz2) - *[GamesDrive Uploader](https://gamesdrive.co/)*
-* [Ali213](https://ali213.net/) - *May Require VPN / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
+* [Free Games DL](https://www.freegamesdl.net/) 
+* [Game PC ISO](https://gamepciso.org/)
+* [ReworkedGames](https://reworkedgames.eu/) 
 * [pc_game_down](https://t.me/pc_game_down) - *Telegram*
 * [g4u](https://g4u.to/) - *Password: 404*
 * [GoodOldDownloads Backup](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view)
@@ -103,7 +105,8 @@
 * [Free GoG PC Games](https://freegogpcgames.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win)
-* [Ali213](https://ali213.net/) - *May Require VPN / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
+* [Gid of Games](https://gidofgames.com/) 
+* [Rihno Games](https://rihnogames.com/)
 
 ***
 
@@ -394,7 +397,6 @@
 * [N-Arcade](https://n-arcade.io/) 
 * [watabou](https://watabou.itch.io/)
 * [Key Games](https://keygames.com/) 
-* [MiniGames](https://www.minigames.com/)
 * [Gaming Wonderland](https://www.gamingwonderland.com/)
 * [Game Top](https://www.gametop.com/online/index.html)
 * [Foddy](http://www.foddy.net/category/games/browser/)
