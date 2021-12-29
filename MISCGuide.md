@@ -96,7 +96,7 @@
 * [PiracyBank](https://piracybank.org/websites) - *List of sites tagged for copyright, mostly dead* 
 * [Movim](https://movim.eu/) - *Decentralized Social Network* 
 * [Fediverse](https://fediverse.party/) - *Federated Social Networks*
-* [ImageBoards](https://imageboards.net/), [Chan List](https://archive.is/Npzwl) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - *Imageboard Index*
+* [Creamy's Homemade List](https://docs.google.com/document/d/1t10VI-sccy1CfAeMZHwmCS_7agIHFo_B5ipMjzsMtTg/edit) / [2](https://web.archive.org/web/20191130224152/https://pastebin.com/3e2RddP5) / [3](https://archive.fo/eKsNN), [ImageBoards](https://imageboards.net/), [Chan List](https://archive.is/Npzwl) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - *Imageboard Index*
 * [imageboards.json](https://gitgud.io/iblist/imageboards.json) or [textboards.json](https://gitgud.io/iblist/textboards.json) - *Image / Textboard .json*
 * [DeepAI](https://deepai.org/) - *AI Tools Index* 
 * [RunawayML](https://runwayml.com/) - *AI Tools Index* 
@@ -534,14 +534,19 @@
 * [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - *News Site Indexes* 
 * [Google Alerts](https://www.google.com/alerts) - *News Alerts by Topics*
 * [PublicAlerts](https://google.org/publicalerts) - *Important News / Disaster Alerts*
-* [GHacks](https://www.ghacks.net/), [Tidbits](https://tidbits.live/), [Geeks3D](https://www.geeks3d.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
+* [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Geeks3D](https://www.geeks3d.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
 * [Latest Privacy](https://latestprivacy.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - *Privacy News*
 * [We Fight Censorship](http://3kyl4i7bfdgwelmf.onion/) - *Censorship News*
 * [Tudum](https://www.netflix.com/tudum) - *Netflix News*
 * [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - *Dark Web News*
 * [Interactive News Map](https://usa.liveuamap.com/) - *Geolocated News Alerts / Headlines U.S* 
 * [Forekast](https://forekast.com/) - *Worldwide Event Calendar* 
+* [SciURLs](https://sciurls.com/) - *Science News*
+* [MathURLs](https://mathurls.com/) - *Math News*
+* [DevURLs](https://devurls.com/) - *Developer News*
+* [TuxURLs](https://tuxurls.com/) - *Linux News*
 * [IBM Watson News Explorer](https://news-explorer.mybluemix.net/) - *Business News Explorer*
+* [FinURLs](https://finurls.com/) - *Finance & Business News*
 * [Uriminzokkiri](http://www.uriminzokkiri.com/index.php?lang=eng) - *Korean News*
 * [Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspaper_sites) - *Read & Download Newspapers*
 * [RSOE](http://hisz.rsoe.hu/) or [EDIS](https://rsoe-edis.org/) - *Emergency and Disaster Map* 
@@ -874,6 +879,7 @@
 * [FiraCode](https://github.com/tonsky/FiraCode) - *Monospace Fonts* 
 * [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](http://arcade.photonstorm.com/) - *Arcade Font Engine*
 * [Glitch](https://glitchtextgenerator.com/) - *Glitch Text Generator*
+* [Handwrite](https://github.com/cod-ed/handwrite) - *Generate Font from Handwriting*
 * [MeeshDesigns](http://www.meeshdesigns.com/Western%20Fonts/) - *Font Index* 
 * [MacType](https://github.com/snowie2000/mactype/releases) - *Use Mac fonts on Windows*
 * [Picas](https://picas.vercel.app/) - *Google Font Logo Generator*
