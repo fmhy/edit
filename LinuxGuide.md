@@ -150,6 +150,8 @@
 * [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - *App Image Launcher*
 * [Remontoire](https://github.com/regolith-linux/remontoire) - *Keybind Viewer for i3*
 * [fzf](https://github.com/junegunn/fzf) - *CLI based fuzzy finder*
+* [bat](https://github.com/sharkdp/bat) - *Modern cat clone with Wings*
+* [dust](https://github.com/bootandy/dust) - *Intuitive version of du*
 * [Timeshift](https://github.com/teejee2008/timeshift) - *Create System Snapshots & Restore*
 * [AppImageHub](https://appimage.github.io/) or [get-appimate](https://g.srev.in/get-appimage/) - *Download AppImages / [CLI](https://zap.srev.in/)*
 * [Homebrew](https://brew.sh/) - *Package Manager*
