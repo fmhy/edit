@@ -164,7 +164,7 @@
 * [DoIt](https://github.com/dolthub/dolt) - *SQL Database* 
 * [Libraries.io](https://libraries.io/) - *Package, Framework & Tool Search*
 * [Deps.dev](https://deps.dev/) - *Open-Source Package Search*
-* [PackageCloud](https://packagecloud.io/) - *Package Manager / Deployment*
+* [PackageCloud](https://packagecloud.io/) or [pnpm](http://pnpm.io/) - *Package Manager / Deployment*
 * [WebInstall](https://webinstall.dev/) - *Easily Install Dev Packages*
 * [Balena](https://www.balena.io/) - *Build / Manage  IoT Groups*
 * [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) - *Bug Bounty Resources*
@@ -222,6 +222,7 @@
 * [WebAuthn](https://webauthn.io/) - *Data Security Authentication API*
 * [Spiderfoot](https://www.spiderfoot.net/) - *Automate OSINT*
 * [Site Analytics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_analytics) - *Traffic Stats & Info*
+* [HITS](https://hits.seeyoufarm.com/) - *Website Traffic Badges*
 * [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/), [IPV4Info](http://ipv4info.com/),  [Network Tools](https://network-tools.com/) or [WebsiteScoop](https://websitescoop.com/) - *Domain Info / IP Tools*
 * [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Username Availability Check*
 * [Pyfunceble](https://pyfunceble.github.io/#/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/) or [Domainr](https://domainr.com/) - *Domain Availability Check* 
@@ -259,10 +260,12 @@
 * [HTML5 Temp](https://rentry.co/HTML5Temp) - *HTML5 Templates & Themes*
 * [CSS Bed](https://www.cssbed.com/) - *CSS Themes*
 * [Typewolf](https://www.typewolf.com/) - *Trending Website Fonts*
+* [Broider](https://maxbittker.github.io/broider/) - *Create Border Designs*
 * [GalleryProject](http://galleryproject.org/) - *Manage / Host Photos on Website* 
 * [PublishThisEmail](https://www.publishthis.email/) - *Email Based Website Builder*
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - *Mobile Friendly Page Test* 
 * [hlsflow](https://github.com/hlsflow/hlsflow) - *Host Video in HLS Stream*
+* [StreamYard](https://streamyard.com/) - *Live Stream Creator*
 * [WebDesigner](https://webdesigner.withgoogle.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/AriaMinaei/theatre) or [Animate.css](https://animate.style/) - *Create Interactive Motion Graphics*
 * [Vidlery](http://vidlery.com/) - *Animated Webpage Background*
 * [Box-Shadow](https://box-shadow.art/) - *Box Shadow Generator*
@@ -323,11 +326,12 @@
 * [ngrok](https://ngrok.com/) - *Introspectable Tunnels to Localhost Tools*
 * [NConfig](https://www.digitalocean.com/community/tools/nginx) - *[NGINX](https://nginx.org/) Server Config*
 * [Visual CSS Editor](https://chrome.google.com/webstore/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - *WordPress Site Designer*
-* [Nulled Scripts](https://www.nullscripts.net/) or [WPFIC](https://www.wpfic.com/) - *Wordpress & Bulletin Board Scripts*
+* [Nulled Scripts](https://www.nullscripts.net/), [NullJungle](https://nulljungle.com/), [Null PHP Script](https://nullphpscript.com/) or [WPFIC](https://www.wpfic.com/) - *Nulled Scripts*
 * [faustjs](https://github.com/wpengine/faustjs) - *Wordpress Framework*
 * [Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes) - *Themes for Wordpress*
-* [Wordpress Plugins](https://mega.nz/folder/OFg2gCKY#fkvmzxtyY-87lx9QCesyiw) - *Wordpress Plugin Drive*
+* [Wordpress Plugins](https://mega.nz/folder/OFg2gCKY#fkvmzxtyY-87lx9QCesyiw) or [CodeCanyon](https://codecanyon.download/) - *Wordpress Plugins & Scripts*
 * [Elementor Kit](https://mega.nz/folder/mEkDBSYI#WZVE8ptR90ZH00nBzmDIOw) - *1400+ Elementor Premium Templates*
+* [Jarvis](https://www.jarvis.ai/) - *Blog & Social Media Writing AI*
 * [KokoAnalytics](https://www.kokoanalytics.com/) - *Wordpress Analytics*
 * [vichan](https://github.com/vichan-devel/vichan) - *Imageboard Hosting*
 * [ProBoards](https://www.proboards.com/) - *Forum & Imageboard Hosting*
@@ -414,6 +418,7 @@
 * [VEEDI](https://www.veedi.com/) - *Create Game Walkthrough Videos*
 * [CraftPix](https://craftpix.net/freebies/), [Kenney](https://www.kenney.nl/), [/r/GameAssets](https://www.reddit.com/r/gameassets/), [UnityAssets4Free](https://unityassets4free.com/), [UnityFreaks](https://www.unityfreaks.com/) or [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free) - *Game Development Assets*
 * [xonotic](https://github.com/xonotic), [Vanguard](https://github.com/VanguardDev/Vanguard) / [2](https://project-vanguard.netlify.app/index.html) or [Warsow](https://github.com/Warsow) - *FPS Game Assets*
+* [Pixel Art Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_pixel_art) - *Tools to Create Sprites & Pixel Art*
 
 ***
 
@@ -489,7 +494,8 @@
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - *GitHub Fork Search* 
 * [grep.app](https://grep.app/) - *Git Repository Index*
 * [OctoLinker](https://octolinker.now.sh/) - *Make GitHub Code References Clickable* 
-* [Octotree](https://www.octotree.io/) - *GitHub Repository File Tree View* 
+* [Octotree](https://www.octotree.io/) - *GitHub Repo File Tree View* 
+* [Onefetch](https://github.com/o2sh/onefetch) - *Git Repo Simmary in Terminal*
 * [Nightly.link](https://nightly.link/) - *GitHub Sharable Nightly Links*
 * [Sourcegraph](https://about.sourcegraph.com/) - *GitHub Repository Sourcegraph Editor* 
 * [onefetch](https://github.com/o2sh/onefetch) - *Git Information Terminal*
@@ -559,7 +565,7 @@
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - *Creative Coding Resource Index* 
 * [Algorithm Visualizer](https://algorithm-visualizer.org/) - *Visualize Code Algorithms* 
 * [Code2Flow](https://app.code2flow.com/) or [Flowchart Generator](https://github.com/MugilanGN/Flowchart-Generator) - *Code to Flowchart Converter*
-* [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/), [Lite XL](https://lite-xl.github.io/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [Notepad2](https://www.flos-freeware.ch/notepad2.html) or [Light Table](http://lighttable.com/) - *Code Editor* 
+* [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/) / [Docs](https://www.emacsdocs.org/), [Lite XL](https://lite-xl.github.io/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [Notepad2](https://www.flos-freeware.ch/notepad2.html) or [Light Table](http://lighttable.com/) - *Code Editor* 
 * [Vim Latex](http://vim-latex.sourceforge.net/) - *Latex Style Vim Editor*
 * [CarlosAG](https://www.carlosag.net/) - *Coding Tools*
 * [Telosys](http://www.telosys.org/) - *Code Generator*
