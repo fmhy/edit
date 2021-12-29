@@ -181,8 +181,9 @@
 * **[Awesome Pixel Art](https://github.com/Siilwyn/awesome-pixel-art)** - *Pixel Art Resource Index* 
 * [Pedro's Pixel Art Tutorials](https://blog.studiominiboss.com/pixelart) - *Pixel Art Tutorials* 
 * [Piskel](https://www.piskelapp.com/), [rx](https://rx.cloudhead.io/), [PaintWith](https://paintwith.webflow.io/), [PixelCraft](https://pixelcraft.web.app/) / [GitHub](https://github.com/rgab1508/PixelCraft) or [PixilArt](https://www.pixilart.com/draw) - *Pixel Art Editor*
-* [dpixel](https://marcoc2.itch.io/dpixel) - *Pixel Art Remastering Tool* 
 * [Pixel Painter](https://jenniferdewalt.com/pixel_painter.html) - *Paint with Pixels*
+* [dpixel](https://marcoc2.itch.io/dpixel) - *Pixel Art Remastering Tool* 
+* [Paint Of Persia](https://dunin.itch.io/ptop) - *Rotoscoping Pixel Art Tool*
 * [PixelMe](https://pixel-me.tokyo/en/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - *Turn Photos into Pixel Art* 
 * [Pixelorama](https://orama-interactive.itch.io/pixelorama) - *2D Sprite Editor*
 * [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) - *Sprite Generator*
