@@ -73,7 +73,7 @@
 * [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - *User-Made PluggnB Songs*
 * [BitMidi](https://bitmidi.com/) - *Stream / Download MIDI Files* 
 * [RemixPacks](http://remixpacks.ru/) or [BurntScarr](http://www.burntscarr.com/burntscarr/STEMS/) - *STEMS*
-* [KeyGenMusic](http://www.keygenmusic.net/), [KeygenJukebox](https://keygenjukebox.net/ ) or [keygenmusic.tk](https://keygenmusic.tk/) - *Keygen Music* 
+* [KeyGenMusic](http://www.keygenmusic.net/) or [keygenmusic.tk](https://keygenmusic.tk/) - *Keygen Music* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - *East African Recordings* 
 * [Free Music Archive](https://www.freemusicarchive.org/), [freesoundtrackmusic](https://www.freesoundtrackmusic.com/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [audiomicro](https://www.audiomicro.com/), [StreamBeats](https://www.streambeats.com/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
@@ -235,7 +235,6 @@
 * [FreshRemix](http://freshremix.ru/) - *MP3*
 * [nodata](https://nodata.tv/) - *MP3*
 * [Black Organization](https://blackorganizationmp3.wixsite.com/music) - *MP3*
-* [Playit.pk](https://playit.pk/) - *MP3*
 * [SoundClick](https://www.soundclick.com/default.cfm) - *MP3*
 * [MP3 Quack](https://mp3quack.lol/) - *MP3*
 * [z1.fm](https://z1.fm/) - *MP3*
@@ -282,6 +281,7 @@
 * [Lossless-FLAC](https://lossless-flac.com/) - *FLAC*
 * [DiscogC](https://www.discogc.com/) - *FLAC*
 * [LosslessAlbums](https://losslessalbums.club/) or [HDMusic](https://hdmusic.cc/) - *FLAC*
+* [Creamusic](https://creamusic.net/) - *FLAC / Bypass Limit w/ VPN*
 * [ubdn](http://ubdn.me/) - *MP3 / FLAC* 
 * [IntMusic](https://intmusic.net/) - *MP3 / FLAC*  
 * [Mp3Flac](https://mp3flac.site/) - *MP3 / FLAC*
@@ -328,6 +328,7 @@
 * [David W. Niven Collection](https://archive.org/details/davidwnivenjazz) - *Jazz / MP3 / [Article](https://www.electronicbeats.net/the-feed/download-650-gigabytes-jazz-free/)*
 * [JazznBlues](https://jazznblues.club/) - *Jazz / MP3*
 * [BOXSET](https://boxset.ru/) - *Classical / FLAC*
+* [Classical Music Download](https://classical-music-download.com/) - *Classical / FLAC*
 * [chucrute com quiabo](https://rabanetecomquiabo.blogspot.com/) - *Classical / MP3*
 * [MeetingInMusic](https://meetinginmusic.blogspot.com/) - *Classical / MP3*
 * [HQ Hip Hop](http://94hiphop.com/) - *Hip Hop / MP3 / FLAC*
@@ -337,7 +338,7 @@
 * [Squid-Board](https://www.squid-board.ru/), [Все Саундтреки](http://xn--80adhccsnv2afbpk.xn--p1ai/), [DS Soundtrack](https://dsoundtrack.com/), [Download-Soundtracks](http://download-soundtracks.com/), [Audio-Track](https://www.audio-track.com/en), [3ost](https://3ost.ru/), [tanikal](https://www.tanikal.com/) or [SittingOnClouds](https://www.sittingonclouds.net/) - *Soundtracks* 
 * [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://github.com/TheLastZombie/VGMLoader) / [2](https://github.com/obskyr/khinsider), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
 * [Sitting On Clouds](https://www.sittingonclouds.com/) - *Game / Animation Soundtracks* 
-* [AniPlaylist](https://aniplaylist.com/), [OSAnime](https://osanime.com/), [YumeOST](https://www.yumeost.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - *Anime Soundtracks* 
+* [AniPlaylist](https://aniplaylist.com/), [OSAnime](https://osanime.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - *Anime Soundtracks* 
 * [OtakuOst](https://otakuost.net/) - *Anime Soundtracks & Japanese Music* 
 * [Doujin Cafe](https://discord.com/invite/doujincafe) - *Doujin Music*
 * [Kiddie Records](http://www.kiddierecords.com/) - *Classic Children's Records*
