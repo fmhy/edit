@@ -279,6 +279,7 @@
 * [LibreSprite](https://libresprite.github.io/) - *Sprite Animation Tool*
 * [BestSnip](https://bestsnip.com/animation/) or [Mulator](https://multator.ru/) - *Online Animation Tool*
 * [Mixamo](https://www.mixamo.com/) - *3D Character Animation Tool*
+* [SpookyGhost](https://encelo.itch.io/spookyghost) - *Sprite Animation Software*
 * [NATRON](https://natrongithub.github.io/) - *Compositing Software*
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - *CGI Assets*
 * [Motion Den](https://motionden.com/), [Lumen5](https://lumen5.com/) or [VideoCreek](https://videocreek.com/) - *Video Template Editor*
