@@ -51,7 +51,6 @@
 * [AlternateDNS](https://alternate-dns.com/index.php) - *DNS Adblocking*
 * [LibreDNS](https://libredns.gr/) - *DNS Adblocking*
 * [Diversion](https://diversion.ch/) - *DNS Adblocking*
-* [OpenNic](https://www.opennic.org/) - *DNS Adblocking*
 * [DNS Watch](https://dns.watch/) - *DNS Adblocking*
 * [BhanUpratpys](https://github.com/bhanupratapys/dnswarden) - *DNS Adblocking*
 * [Quad9](https://quad9.net/) - *Malware, Phishing, Spyware & Botnet DNS Protection*
@@ -302,7 +301,7 @@
 * **[ACCOUNTKILLER](https://www.accountkiller.com/)** or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - *Find / Terminate Old Accounts* 
 * [What every Browser knows about you](https://webkay.robinlinus.com/) - *Browser Data Leak Demonstration*
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - *Password Strength Checker*
-* [LeakedSource](https://leakedsource.ru/) or [h8Mail](http://github.com/khast3x/h8mail) - *Multiple Data Breach Checks*
+* [h8Mail](http://github.com/khast3x/h8mail) - *Multiple Data Breach Checks*
 * [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/) or [leakpeek](https://leakpeek.com/) - *Data Breach Search Engine* 
 * [DataBunker](https://databunker.org/) - *Data Leak Prevention*
 * [RS Lookup](http://rslookup.com/) - *Check if your RuneScape data has been breached* 
@@ -391,14 +390,12 @@
 * [YaCy](https://yacy.net/) 
 * [Mojeek](https://www.mojeek.com/)
 * [SKYN3T](https://skyn3t.in/)
-* [Privado](https://www.privado.com/) 
 * [Brave Search](https://search.brave.com/)
 * [peekier](https://peekier.com/)
 * [WhaleSlide](https://whaleslide.com/)
 * [Infinity](https://infinitydecentralized.com/)
 * [Kagi](https://kagi.com/) 
 * [ekoru](https://ekoru.org/)
-* [Runnaroo](https://www.runnaroo.com/) 
 * [Gibiru](https://gibiru.com/) 
 * [Whoogle](https://github.com/benbusby/whoogle-search) - *Easy to self-host SE with Google results* 
 
@@ -502,7 +499,7 @@
 * [Fri-Gate](https://fri-gate.org/) - *Advanced Proxy Settings Addon*  
 * [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - *Limit proxy usage by private windows* 
 * [Hitch](https://hitch-tls.org/) - *SSL / TLS Proxy*
-* [SSHPOWER](https://www.sshpower.net/), [SSHKit](https://sshkit.com/), [FlySSH](https://www.flyssh.com/), [SSHSSL](https://www.sshssl.com/), [jagoanssh](https://www.jagoanssh.com/) or [FastSSH](https://www.fastssh.com/) - *SSH & SSL Servers*
+* [SSHKit](https://sshkit.com/), [FlySSH](https://www.flyssh.com/), [SSHSSL](https://www.sshssl.com/), [jagoanssh](https://www.jagoanssh.com/) or [FastSSH](https://www.fastssh.com/) - *SSH & SSL Servers*
 
 ***
 
@@ -525,7 +522,6 @@
 * [ProxyPx](https://www.proxypx.com/)
 * [Titanium Network](https://www.titaniumnetwork.org/)
 * [Nodecat](https://nodecat.digital/)
-* [ReferenceFile](https://www.referencefile.org/)
 * [ProxySite](https://www.proxysite.cc/) 
 * [Sudoproxy](https://www.sudoproxy.net/) 
 * [Globly.tech](https://globly.tech/) 
