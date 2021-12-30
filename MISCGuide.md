@@ -286,7 +286,6 @@
 * [Random Art](http://www.random-art.org/) - *Random Art Generator*
 * [Periodicity](https://williamhoza.com/periodicity/) - *Harmonic Motion Patterns*
 * [Cubes.io](http://cubes.io/) - *Cellular Automata* 
-* [Fluid](https://fluid.remyhidra.dev/) - *Fluid Simulation*
 * [05x5](https://csh.bz/line/05x5.html) - *Rainbow Pattern Generator*
 * [Chaos Equations](https://chaos-equations.glitch.me/?p=LBMRMS) - *Chaos Equation Visualizations*
 * [Super Forumula](https://superformula.club/) - *Shape Creation Tool* 
@@ -444,7 +443,7 @@
 * [Got Rhythm?](https://www.concerthotels.com/got-rhythm) - *Rhythm / Tempo Test* 
 * [Fake Music Generator](https://www.fakemusicgenerator.com/) - *Computer Generated Music*
 * [MagicKeyboard](http://magickeyboard.io/) - *Try "feross", "hexbin", "rain", or "semi"* 
-* [Bouncing DVD Logo](https://www.bouncingdvdlogo.com/) or [DVD Source](https://dvd.source321.com/) - *DVD Logo Screen* 
+* [Bouncing DVD Logo](https://www.bouncingdvdlogo.com/) - *DVD Logo Screen* 
 * [Star Wars Intro Creator](https://starwarsintrocreator.kassellabs.io/) - *Create Star Wars intros* 
 * [Waifu Labs](https://waifulabs.com/) - *Meet your Waifu* 
 * [Pink Trombone](https://dood.al/pinktrombone/) - *Human Pitch Generator*
@@ -614,7 +613,6 @@
 * [FarmlandFoods](https://www.farmlandfoods.com/recipes/) - *Recipes*
 * [RecipeLand](https://recipeland.com/) - *Recipes*
 * [Budget Bytes](https://www.budgetbytes.com/) - *Cheap Recipes*
-* [Jack Monroe](https://cookingonabootstrap.com/) - *Cheap Recipes*
 * [What the Fuck Should I Make for Dinner?](http://www.whatthefuckshouldimakefordinner.com/) - *Random Recipes* 
 * [Dish Dragon AI](https://www.dishdragon.ai/) - *Find Ingredients That Go Well Together* 
 * [Edamam](https://developer.edamam.com/) - *Food-Related APIs* 
@@ -869,7 +867,10 @@
 * [1001 Free Fonts](https://www.1001freefonts.com/)
 * [700-free-ttf-fonts-pack](https://drive.google.com/file/d/0B7IoVaGUMDVseFpvQ3NKTlNydmc/view?resourcekey=0-7iCgiOnXxBtilY0tJ2Nikg)
 * [250_Professional_Fonts_Bundle](https://drive.google.com/file/d/1-aGiDPsve_uOd8XgC3iMaTFrxxc1sgp2/view)
+* [enFont](https://enfont.javierarce.com/) - *Custom Font Creator*
 * [Get Font](https://getfont.herokuapp.com/) - *Find Font in Github* 
+* [Fontjoy](https://experiments.withgoogle.com/fontjoy) - *Generate Font Combinations*
+* [FontSprite](https://adamstrange.itch.io/fontsprite) - *FonstSprite Editor*
 * [Textcraft](https://textcraft.net/) - *Styled Font Generator*
 * [Cava's Pixel Resources](https://caveras.net/) - *Pixel Fonts* 
 * [Scanlation School Drive](https://drive.google.com/drive/folders/1hPV4o8fmxY2Ab9tXi84l0vVOUQEgFIbU) - *Comic Fonts*
@@ -1151,4 +1152,3 @@
 * [Google Hit Hider](https://openuserjs.org/scripts/jscher2000/Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites\)) - *Block Sites from Search Results* 
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - *Shows Images & Videos Behind Links & Thumbnails*
 * [DisableAMP](https://github.com/AdguardTeam/DisableAMP) - *Disable Google AMP Links*
-* [Pinterest Without Registration](https://greasyfork.org/en/scripts/6325-pinterest-without-registration) - *Browse Pinterest Without Login*
