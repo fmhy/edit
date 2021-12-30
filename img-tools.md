@@ -207,6 +207,7 @@
 * [PicTriev](http://www.pictriev.com/) - *Find Look-Alike Images* 
 * [PimEyes](https://pimeyes.com/en/) - *Reverse Face Image Search* 
 * [trace.moe](https://trace.moe/) - *Anime Scene Reverse Image Search* 
+* [Multicolr](https://labs.tineye.com/multicolr/) - *Color Based Reverse Image Search*
 * [icon_finder](https://codeberg.org/cauf/icon_finder) - *Search for Icons via Patterns*
 * [pfps.gg](https://pfps.gg/) - *Profile Picture Index*
 * [PimpMyDrawing](https://pimpmydrawing.com/) - *Human Silhouettes*
@@ -284,6 +285,7 @@
 * [WebOasis Editors](https://weboas.is/editors/), [Hotot](https://hotpot.ai/), [RedKetchup](https://redketchup.io/), [VertexShare](https://vertexshare.com/), [Img2Go](https://www.img2go.com/), [BrandFolder](https://brandfolder.com/workbench-suite), [fffuel](https://fffuel.co/), [ImgLarger](https://imglarger.com/) or [FastStone](https://www.faststone.org/index.htm) - *Multiple Image Tools*
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - *Art & Animation Resource Index*
 * [Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes) - *Color Scheme / Palette Tools*
+* [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - *Image Color Summarizer*
 * [ImgOps](https://imgops.com/) - *Image Operations Meta-Tool*
 * [FontAwesomePS](http://creativedo.co/FontAwesomePS) - *Photoshop Icon Manager*
 * [Photoshop Repeating Action Script](https://gist.github.com/ajazsiddiqui/72bbf376ad387e1f76bfad777f66d7a3) - *Automate Photoshop*
