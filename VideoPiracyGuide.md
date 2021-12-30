@@ -51,7 +51,6 @@
 * [111.90.159.132](https://111.90.159.132/hollywood-movies/) - *Movies*
 * [162.12.215.254](http://162.12.215.254/) - *Movies / [Drive](http://162.12.215.254/Data/Movies/)*
 * [Rainierland](https://rainierland.to/) - *Movies / TV* 
-* [MelliMovies](https://mellimovies2.tk/) - *Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)* 
 * [SuperNova](https://supernova.to/) - *Movies / TV / Anime* 
 * [Vumoo](https://vumoo.to/) - *Movies / TV* 
 * [FshareTV](https://fsharetv.co/) - *Movies* 
@@ -100,7 +99,6 @@
 * [Pluto](http://pluto.tv/on-demand) - *Movies / TV*
 * [Vudu](https://www.vudu.com/) - *Movies / TV*
 * [IMDB TV](https://www.imdb.com/tv/) - *Movies / TV*
-* [iBOX](http://iboxbd.online/) - *Movies / TV*
 * [Playary](https://www.playary.com/) - *Movies / TV*
 * [Fawesome](https://fawesome.tv/) - *Movies / TV*
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - *Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / [Windscribes](https://windscribe.com/) free version works*
@@ -123,7 +121,6 @@
 * [YourPTFlixMovies](https://yourptflixmovies.com/) - *Movies / TV*
 * [Movie-Forum](https://movie-forum.co/forum.php) - *Movies / TV*
 * [K a p K e y K](https://kpkyk.com/) - *Movies / TV*
-* [IceFilms](https://wwv.icefilms-info.com/) - *Movies / TV*
 * [Movies Ni Pipay](https://moviesnipipay.me/) - *Movies / TV*
 * [2Embed](https://www.2embed.ru/library) - *Movies / TV*
 * [Series9](https://series9.me/), [2](https://series9.fun/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_goldmovies_clones)* 
@@ -206,7 +203,6 @@
 * [LightCone](https://lightcone.org/en) - *Short / Experimental Films*
 * [Rohesia Hamilton Metcalfe](http://www.panix.com/~hamiltro/links/) - *Experimental Films*
 * [The Library of Congress](https://www.loc.gov/film-and-videos/) - *Movies / Short Films* 
-* [Video Data Bank](https://www.vdb.org/) - *Short Films / Rare Videos* 
 * [Total Short Films](http://www.totalshortfilms.com/), [Viddsee](https://www.viddsee.com/), [MAFF](https://www.maff.tv/), [Short of the Week](https://www.shortoftheweek.com/) or [Audpop](https://audpop.com/) - *Short Films* 
 * [HuntleyArchives](https://www.huntleyarchives.com/) - *Rare / Forgotten Short Films* 
 * [FootageFarm](https://footagefarm.com/) - *Public Domain Films*
@@ -296,7 +292,6 @@
 * [KissCartoon.info](https://kisscartoon.info/) - *Anime / Cartoons / Sub / Dub*
 * [Soul-Anime](http://ww9.soul-anime.us/) - *Sub*
 * [YugenAnime](https://yugen.to/) - *Sub / Dub*
-* [DarkAnime](https://darkanime.stream/) - *Sub*
 * [Animegg](https://www.animegg.org/) - *Sub / Dub*
 * [Kawaiifu](https://kawaiifu.com/) - *Sub / Dub*
 * [AnimeFox](https://animefox.cc/) / [2](https://animefox.io/) - *Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)*
@@ -319,7 +314,6 @@
 * [Animeow.me](https://animeow.me/) - *Sub / Dub* 
 * [Anime OWL](https://animeowl.net/home/) - *Sub / Dub*
 * [AnimeCruzers](https://animecruzers.me/) - *Sub / Dub*
-* [Animeonline360](https://animeonline360.me/) - *Sub / Dub*
 * [AnimeMint](https://www.animemint.com/) - *Sub*
 * [Chia Anime](https://chia-anime.su/) - *Sub / Dub*
 * [AnimeXin](https://animexin.xyz/) - *Sub*
@@ -377,7 +371,6 @@
 * [icdrama](http://www1.hkdrama.to/) - *TV / Movies* 
 * [FastDrama](http://fdrama.net/) - *TV / Movies*
 * [dramaz](http://dramaz.se/) - *TV / Movies*
-* [Asiaflix](https://asiaflix.app/) - *TV / Movies*
 * [qooxi](http://drama.qooxi.to/) - *TV / Movies* 
 * [GenMovies](https://genomovies.com/) - *TV / Movies*
 * [GenDrama](https://genodrama.com/) - *TV / Movies*
