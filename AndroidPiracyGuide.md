@@ -522,7 +522,7 @@
 
 * **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players)** - *Music Players / Libraries*
 * **[Spotify APK](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=Spotify&sf=titleonly)** (No Ads) or [Altas-Notas](https://github.com/polonez-byte-112/Altas-Notas) - *Streaming / [Version Manager](https://github.com/xManager-v2/xManager-Spotify) / [Downloader](https://github.com/sheensantoscapadngan/SpotaFree) / [Friend Activity](https://spotivity.vercel.app/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://f-droid.org/packages/com.rohit2810.spotit/), [3](https://github.com/aghontpi/ad-silence)*
-* [YouTube Music Vanced](https://vancedapp.com/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [Ylight Music](https://apt.izzysoft.de/fdroid/repo/com.ylightmusic.app/), [HoloPlay](https://holoplay.io/) or [YMusic](https://ymusic.io/) - *YouTube Music Player*
+* [YouTube Music Vanced](https://vancedapp.com/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [HoloPlay](https://holoplay.io/) or [YMusic](https://ymusic.io/) - *YouTube Music Player*
 * [Spotiflyer](https://f-droid.org/en/packages/com.shabinder.spotiflyer/) - *Spotify Audio Downloader*
 * [Finamp](https://github.com/UnicornsOnLSD/finamp) - *Jellyfin Music Player*
 * [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - *Subsonic Client*
@@ -577,7 +577,6 @@
 * [LISTEN.moe](https://play.google.com/store/apps/details?id=me.echeung.moemoekyun) - *K-Pop Radio* 
 * [AntennaPod](https://antennapod.org/) / [2](https://f-droid.org/en/packages/de.danoeh.antennapod/), [Tsacdop](https://f-droid.org/en/packages/com.stonegate.tsacdop/) or [AudioAnchor](https://f-droid.org/en/packages/com.prangesoftwaresolutions.audioanchor/) - *Podcast Player* 
 * [AntennaPod](https://github.com/AntennaPod/AntennaPod) - *Podcast Manager*
-* [URL-Radio](https://github.com/jamal2362/URL-Radio) - *URL Radio App*
 * [Muviz](https://www.sparkine.com/muviz/) - *Navbar Audio Visualizer*
 
 ***
@@ -684,7 +683,6 @@ RSS Player*
 * [AOS TV](https://aostv.app/)
 * [OLATV](https://forum.mobilism.org/search.php?keywords=ola+tv&amp;sr=topics&amp;sf=titleonly)
 * [Live NetTV](https://www.livenettv.bz/)
-* [Redbox](https://redboxtv.app/)
 * [SwiftStreams](http://swiftstreamz.com/)
 * [TVTap](http://tvtap.bz/index.php)
 * [HD STREAMZ](https://hdstreamz.app/)
@@ -771,7 +769,7 @@ RSS Player*
 * [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [Authenticator](https://mattrubin.me/authenticator), [Obsidian](https://obsidianapp.io/) or [Tofu](https://www.tofuauth.com/) - *Two-factor Authentication*  
 * [SecretPhotoAlbum++](https://apps.apple.com/us/app/secret-photo-album/id1459036428), [Private Photo Vault](https://apps.apple.com/us/app/private-photo-vault-pic-safe/id417571834) or [No See You](https://noseeyou.com/) - *Private Photo Album*
 * [Onion Browser](https://onionbrowser.com/) - *Onion Browser for iOS* 
-* [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337), [friendly](https://friendly.io/) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - *Privacy Based Browser* 
+* [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - *Privacy Based Browser* 
 * [Lockdown iOS](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) - *iOS Firewall / [GitHub](https://github.com/confirmedcode/Lockdown-iOS)*
 * [Sentinel](https://sentinel.co/) or [PhantomVPN](https://rentry.co/PhantomVPNiOS) - *Free VPN*
 * [Anti-Social](https://apps.apple.com/us/app/faceblock-block-facebook/id1516200820) - *Block Social Media Trackers* 
