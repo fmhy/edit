@@ -568,7 +568,6 @@
 * [Google Scholar](https://scholar.google.com/) - *Articles*
 * [Mendeley](https://www.mendeley.com/) - *Articles* 
 * [DOAJ](https://doaj.org/) - *Journals / Articles*
-* [DocSity](https://www.docsity.com/en/) - *College Document Search*
 * [ResearchGate](https://www.researchgate.net/) - *Science Articles*
 * [SciLit](https://www.scilit.net/) - *Science Articles*
 * [MyScienceWork](https://www.mysciencework.com/) - *Science Articles*
