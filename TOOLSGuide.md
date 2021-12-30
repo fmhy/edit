@@ -1202,6 +1202,7 @@ G) - *Create Discord RPCs*
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - *Add Subtitles to Twitch Stream*
 * [StreamLadder](https://streamladder.com/) - *Social Media Templates for Twitch Clips*
 * [TwitchLeak](https://twitchleak.netlify.app/) - *Twitch Top Earners Table*
+* [discord rpc maker](https://drpcm.t1c.dev/#install) - *An One Easy Discord RPC Client.*
 
 ***
 
