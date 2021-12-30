@@ -293,7 +293,6 @@
 * [FindFlac](http://findflac.com/) - *FLAC / MP3 / MP4* 
 * [iPlusFree](http://www7.iplusfree.org/), [2](https://www.iplusfree.net/) - *iTunes M4A* 
 * [iTDMusic](https://itdmusic.in/) - *iTunes M4A* 
-* [ITDPlus](https://itdplus.ru/) - *iTunes M4A*
 * [iTopMusicx](https://itopmusicx.com/) - *iTunes M4A*
 * [Plus Premieres](http://www128.pluspremieres.biz/) - *iTunes M4A*
 * [TvG](https://tvg-blog.tumblr.com/) - *MP3 / Rare Music*
