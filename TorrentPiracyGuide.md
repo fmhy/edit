@@ -15,6 +15,10 @@
 
 # ► Torrent Clients
 
+* **Note** - Make sure you [BIND](https://www.ghacks.net/2016/03/23/qbittorrent-block-transfers-vpn-disconnect/) your VPN to your client to avoid ISP letters.
+
+***
+
 * **[qBittorrent](https://www.qbittorrent.org/)** - *[Screenshot](https://i.imgur.com/B9KBUXs.png)*
 * **[qBittorrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)**
 * **[Transmission](https://transmissionbt.com/)** - *[Screenshot](https://i.imgur.com/IjdECzR.png)*
@@ -51,7 +55,6 @@
 * [WebOasis Client](https://weboas.is/torrent/) 
 * [Instant.io](https://instant.io/)
 * [BTorrent](https://btorrent.xyz/)
-* [Torrents Time](https://torrents-time.com/)
 * [Bitport](https://bitport.io/welcome) 
 * [TorrentSafe](https://www.torrentsafe.com/)
 * [TorrentCheap](https://my.torrentcheap.com/)
@@ -151,7 +154,6 @@
 * [Torlock](https://www.torlock.com/), [2](https://www.torlock2.com/) 
 * [iBit.to](https://ibit.to) or [iBit.am](https://ibit.am/) 
 * [TorrentFunk](https://www.torrentfunk.com/), [2](https://www.torrentfunk2.com/) 
-* [Badass Torrents](https://badasstorrents.com) 
 * [7Torrent](https://www.7torrents.cc/)
 * [concen](https://www.concen.org/torrents) 
 * [BTSearch](https://www.btsearch.ml/)
