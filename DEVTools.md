@@ -332,7 +332,6 @@
 * [Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes) - *Themes for Wordpress*
 * [Wordpress Plugins](https://mega.nz/folder/OFg2gCKY#fkvmzxtyY-87lx9QCesyiw) or [CodeCanyon](https://codecanyon.download/) - *Wordpress Plugins & Scripts*
 * [Elementor Kit](https://mega.nz/folder/mEkDBSYI#WZVE8ptR90ZH00nBzmDIOw) - *1400+ Elementor Premium Templates*
-* [Jarvis](https://www.jarvis.ai/) - *Blog & Social Media Writing AI*
 * [KokoAnalytics](https://www.kokoanalytics.com/) - *Wordpress Analytics*
 * [vichan](https://github.com/vichan-devel/vichan) - *Imageboard Hosting*
 * [ProBoards](https://www.proboards.com/) - *Forum & Imageboard Hosting*
