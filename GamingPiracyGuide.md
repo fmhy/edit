@@ -51,7 +51,6 @@
 * [DLFox](https://www.dlfox.com/)
 * [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
 * [SPiKY Repacks](https://discord.gg/ZHC6pffMz2) - *[GamesDrive Uploader](https://gamesdrive.co/)*
-* [Free Games DL](https://www.freegamesdl.net/) 
 * [Game PC ISO](https://gamepciso.org/)
 * [ReworkedGames](https://reworkedgames.eu/) 
 * [pc_game_down](https://t.me/pc_game_down) - *Telegram*
