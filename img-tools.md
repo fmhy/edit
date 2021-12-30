@@ -72,7 +72,7 @@
 * [Resize App Icon](https://resizeappicon.com/) - *Resize Square Images* 
 * [SSizes](https://ssizes.com/) - *Resize Images for Different Sites*
 * [RIOT](https://riot-optimizer.com/) - *Image Optimization Tool*
-* [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [ImageDiamond](https://www.imagediamond.com/), [Crushee](https://crushee.app/) or [Batch Compress](https://batchcompress.com/en) - *Image Compressor* 
+* [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [ImageDiamond](https://www.imagediamond.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/) or [Batch Compress](https://batchcompress.com/en) - *Image Compressor* 
 * [TinyPNG](https://tinypng.com/) or [PNGQuant](https://pngquant.org/) - *PNG Compressor* 
 * [JPEG.rocks](https://jpeg.rocks/) - *JPEG Re-Encoder* 
 
