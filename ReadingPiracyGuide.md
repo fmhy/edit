@@ -67,7 +67,7 @@
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - *Books*
 * [IRC Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - *Download Ebooks from IRC*
 * IRC Ebook Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/), [2](https://encyclopediadramatica.online/Bookz) - *IRC Ebook Guide*) / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
-* [Project Gutenberg](https://www.gutenberg.org/) - *Historical / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)*
+* [Project Gutenberg](https://www.gutenberg.org/) - *Historical / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html)*
 * [Archive.org](https://archive.org/details/texts) - *Books / Audiobooks / Magazines / Newspapers / [Borrow Only Bypass](https://i.imgur.com/y7Vl9rd.png)*
 * [The Library](https://discord.gg/mSyFJz9), [The Bookwyrm's Bower](https://discord.gg/wTf7rs77rF) or [The Great E-Library](https://discord.gg/efBxSuz) - *E-Book Discord Servers* 
 * [EBOOKS SET 2](https://mega.nz/folder/Z1dD2YSA#XRUa1Sj9mXJHU4rh1seykg) - *Books / Drive*
@@ -146,7 +146,6 @@
 * [eBook Lobby](http://www.ebooklobby.com/) - *Books*  
 * [1Lib](https://1lib.limited/) - *Books*
 * [Avalon Library](https://avalonlibrary.net/) - *Books*
-* [IKindle](https://ikindlebooks.com/) - *Books*
 * [Free eBooks](http://www.freebooks.com) - *Books* 
 * [Read Any Book](https://read-any-book.com/) - *Books*
 * [GrayCity](https://graycity.net/) - *Books*
@@ -247,7 +246,7 @@
 
 * **[Sacred Text Archive](https://www.sacred-texts.com/index.htm)** - *Religion / Mythology / Folklore / Esoterica*
 * **[ARCHIVES](https://discord.gg/occult)** - *Occult / Witchcraft / Religion*
-* **[/r/Echerdex](https://www.reddit.com/r/Echerdex/)** - *Esoterica / [Repository](https://www.echerdex.com/index.php/repository/), [2](https://rentry.co/echlinkss) / [Discord](https://discord.gg/dS5X3d7ype)*
+* **[/r/Echerdex](https://www.reddit.com/r/Echerdex/)** - *Esoterica / [Repository](https://rentry.co/echlinkss) / [Discord](https://discord.gg/dS5X3d7ype)*
 * **[WiLd's Occult Ebook Sources](https://justpaste.it/WiLdOccultEbooks)** - *Occult / Esoterica*
 * [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2) - *Occult*
 * [GodChecker](https://www.godchecker.com/) - *Religion / Mythology*
@@ -258,7 +257,7 @@
 * [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - *Religion / Esoterica / Occult*
 * [Summa Theologiae](http://summa-theologiae.org/) - *Religion / Sacred Doctrine / Christianity*
 * [Esoteric Library](https://mega.nz/#F!jN8GTSaJ!xN6x5Pv9dhqT6yLhO6r2Ow) - *Esoterica / Occult* 
-* [Conspiracy Theory Iceberg](https://ipfs.io/ipfs/QmWszAAzXjaD6hQZXbfhF9qBFWpnPwZVWU131HVf42WZej) - *Conspiracies / Occult / Mythology / [Wiki Pages](https://ghostbin.com/0V3qc)*
+* [Conspiracy Theory Iceberg](https://ipfs.io/ipfs/QmWszAAzXjaD6hQZXbfhF9qBFWpnPwZVWU131HVf42WZej) - *Conspiracies / Occult / Mythology*
 * [Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm) - *Mythology / Conspiracy / Esoterica*
 * [Magic / Esoteric Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks) - *Magic / Esoterica*
 * [Dhamma Talks](https://www.dhammatalks.org/) - *Sacred Texts / Religion / Buddhism*
@@ -393,7 +392,6 @@
 * [FreeBookCentre](https://freebookcentre.net/)
 * [OAPEN](https://oapen.org/)
 * [vdoc.pub](https://vdoc.pub/)
-* [ImSoLost](http://imsolost.com/books/)
 * [EDUBBookPDF](https://edubookpdf.com/)
 * [Readings](https://drive.google.com/drive/u/0/mobile/folders/0B5KDwL1Qi6zUWFlfbU8yTjU4WUE?usp=drive_open)
 * [StruggleBuddies 4.0](https://mega.nz/folder/A15gybjB#s_vaCKHVR35X704ot2g7LQ)
@@ -649,7 +647,6 @@
 * [JDMFSM](http://jdmfsm.info/Auto/), [CarPDFManual](https://www.carpdfmanual.com/renault/) or [ProCarManuals](https://procarmanuals.com/) - *Auto Repair Manuals* 
 * [Ownersman.com](https://ownersman.com/) - *Car Owner Manuals* 
 * [PremierProduct](https://www.premierproducts-uk.co.uk/) - *Vehicle Manuals*
-* [Kevincfi](https://www.kevincfi.com/files) - *Aeronautics Manuals*
 * [David Kleinfeld Laboratory](https://neurophysics.ucsd.edu/Manuals/) - *Lab Manuals*
 * [replacementdocs](http://www.replacementdocs.com/) - *Game Manuals* 
 * [Retrevo](http://www.retrevo.com/) - *Product Manuals* 
@@ -792,7 +789,6 @@
 * [Manga Toon](https://mangatoon.mobi/)
 * [MangaOwl](https://mangaowl.net/) 
 * [MangaDoom](https://mngdoom.com/) 
-* [MangaSushi](https://mangasushi.net/)
 * [MangaSail](https://www.mangasail.co/)
 * [Taadd](http://www.taadd.com/)
 * [Kanjiku](https://kanjiku.net/)
@@ -810,7 +806,6 @@
 * [MangaBob](https://mangabob.com/)
 * [KumaScans](https://kumascans.com/) 
 * [MangaBat](https://m.mangabat.com/m)
-* [Yukiko](https://www.yukiko.org/manga/) 
 * [MangaEffect](https://mangaeffect.com/)
 * [Manga347](https://manga347.com/)
 * [Manga Home ](http://www.mangahome.com/)
@@ -823,7 +818,6 @@
 * [DeathTollScans](https://www.deathtollscans.net/)
 * [Manga Rock](https://mangarock.to/)
 * [MotoKare](https://motokare.xyz/reader/)
-* [CatManga](https://catmanga.org/)
 * [Tritinia](https://tritinia.com/)
 * [Toomics](https://toomics.com/)
 * [AsuraScans](https://asurascans.com/) - *[Discord](https://discord.gg/asurascans)*
@@ -920,7 +914,6 @@
 * [Novel Free](https://mnovelfree.com/)
 * [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)  
 * [VolareNovels](https://www.volarenovels.com/) 
-* [Free Light Novel](https://www.freelightnovel.com/)
 * [WoopRead](https://woopread.com/)
 * [Light Novel Archive](https://t.me/LightNovelArchives) or [LN_Index](https://t.me/LN_Index)
 * [Void Translations](https://voidtranslations.wordpress.com/) 
@@ -1116,7 +1109,7 @@
 * [Scribd Download Guide](https://redd.it/kfv1c6) 
 * [GROBID](https://github.com/kermitt2/grobid) - *Extract / Organize Scientific Document Info*
 * [Borrow Only DL Script](https://redd.it/ofcqds) or [Archive 1 Hour Download](https://docs.google.com/spreadsheets/u/0/d/1x9JHIVEa6_2cwpmxgUymF5OAoHZbXCO3Qh9gQVAHuR0/htmlview#gid=0) - *Download Borrow Only Archive.org Books*
-* [FicSave](http://ficsave.xyz/), [FicHub](https://fichub.net/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - *Fanfiction Downloader* 
+* [FicHub](https://fichub.net/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - *Fanfiction Downloader* 
 * [ExtractBookz](https://hub.darcs.net/JasonJAyalaP/ExtractBookz) - *Extract & Rename Ebook Files / [GitHub](https://github.com/JasonJAyalaP/ExtractBookz)*
 * [Sigil Ebook](https://sigil-ebook.com/) - *EPUB Editor*
 * [SmartStich](https://github.com/MechTechnology/SmartStitch) - *Stitch Together Webtoons*
