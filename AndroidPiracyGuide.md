@@ -706,7 +706,7 @@ RSS Player*
 * [Fugu14](https://github.com/LinusHenze/Fugu14) - *14.3-14.5 Untethered Jailbreak (Incomplete)*
 * [Odyssey](https://theodyssey.dev/) - *13.0 to 13.7 Semi-tethered Jailbreak* 
 * [Chimera](https://chimera.coolstar.org/) - *12.0 to 12.5.5 Jailbreak*
-* [Unc0ver](https://unc0ver.dev/) - *11.0 to 14.8 Jailbreak / [Dark Mode](https://dark.diatr.us) / [GitHub](https://github.com/pwn20wndstuff/Undecimus)*
+* [Unc0ver](https://unc0ver.dev/) - *11.0 to 14.8 Jailbreak / [Procursus](https://dark.diatr.us) / [GitHub](https://github.com/pwn20wndstuff/Undecimus)*
 * [LiberiOS](https://github.com/LiberiOS/LiberiOS) - *11.0-11.1.2 Jailbreak*
 * [Meridian](https://meridian.sparkes.zone/) - *10.0-10.3.3 Jailbreak* 
 * [doubleH3lix](https://github.com/tihmstar/doubleH3lix) - *10.x 64bit Jailbreak*
