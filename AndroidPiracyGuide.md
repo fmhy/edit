@@ -190,6 +190,7 @@
 * [MacroDroid](http://macrodroid.com/) - *Android Automation* 
 * [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) - *Gesture Controls*
 * [Naptime](https://play.google.com/store/apps/details?id=com.franco.doze) - *Accelerates Android Sleep Mode*
+* [JulioverneHYI](https://julio.hackyouriphone.org/) - *Repository for Piracy Tools*
 * [Adebar](https://codeberg.org/izzy/Adebar) or [OAndBackupX](https://github.com/machiav3lli/oandbackupx) - *Device Backup Tool*
 * [Migrate](https://play.google.com/store/apps/details?id=balti.migrate) - *Migration Tool / Root Required*
 * [Videoder](https://www.videoder.com/), [PowerTube](https://powertube.razar.app/) / [Git](https://github.com/razar-dev/PowerTube) or [DVD](https://github.com/yausername/dvd) - *Video Download Tool* 
