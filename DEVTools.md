@@ -294,6 +294,7 @@
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - *Search & Analytics Engine*
 * [Algolia](https://www.algolia.com/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/) or [FusionBot](https://www.fusionbot.com/) - *Search API*
 * [GetButton](https://getbutton.io/) - *Get free 'Message Us' Button for your Site*
+* [cssbuttons](https://cssbuttons.io/) - *CSS Buttons*
 * [Tawk](https://www.tawk.to/) - *Website Chat & Ticketing System*
 * [Error404](https://error404.fun/) - *Free 404 Pages*
 * [HandShake](https://handshake.org/) - *Decentralized Certificate Authority & Naming*
@@ -375,6 +376,7 @@
 * [Plank](https://launchpad.net/plank) - *Simple Dock / [GitHub](https://github.com/ricotz/plank)*
 * [Portainer](https://portainer.io/) - *Build / Manage Docker Containers / [Templates](https://github.com/SelfhostedPro/selfhosted_templates) / [GitHub](https://github.com/portainer/portainer)*
 * [Compose Samples](https://github.com/android/compose-samples) - *App Samples*
+* [Ratio Buddy](https://ratiobuddy.com/) - *CSS For Device Ratio*
 * [TV Samples](https://github.com/android/tv-samples) - *Android TV App Samples*
 * [PrivacyFlash-Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - *Generate iOS Privacy Policies*
 * [MDB GO](https://mdbgo.com/) - *Free App Hosting*
@@ -449,7 +451,7 @@
 * [BestCSSButtonGenerator](https://www.bestcssbuttongenerator.com/) - *CSS Button Generator*
 * [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds), [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://gradienta.io/), [heropatterns](https://heropatterns.com/), [thepatternlibrary](http://thepatternlibrary.com/) or [uigradients](https://uigradients.com/) - *CSS Patterns* 
 * [Gradient Animator](https://www.gradient-animator.com/) - *Animated CSS Gradient Generator*
-* [Animista](https://animista.net/) - *Tweak / Download CSS Animations*
+* [Animista](https://animista.net/) or [Woah.css](https://www.joerezendes.com/projects/Woah.css/) - *CSS Animations*
 * [css2scss](https://sebastianpontow.de/css2compass/) - *CSS to SCSS Converter* 
 * [Tableconvert](https://tableconvert.com/) - *Markdown / Code Converter*
 * [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/) or [SimpleCSS](https://simplecss.org/) - *CSS Framework*
