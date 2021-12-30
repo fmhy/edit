@@ -106,6 +106,7 @@
 * [Tiny-Repacks](https://www.tiny-repacks.win)
 * [Gid of Games](https://gidofgames.com/) 
 * [Rihno Games](https://rihnogames.com/)
+* [Ali213](https://www.ali213.net/) - *[How-To](https://i.imgur.com/qoZOx3b.png)*
 
 ***
 
@@ -124,7 +125,6 @@
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - *Roms / [Discord](https://discord.gg/rH9wRpu2vh)* 
 * [PlanetEmu](http://www.planetemu.net/) - *Emulators*
 * [Zophar's Domain](https://www.zophar.net/) - *Emulator / Rom Hacks*
-* [RoyalRoms](https://www.royalroms.com/) - *Emulators / Roms* 
 * [EmuCR](https://www.emucr.com/) - *Emulators*
 * [Retrostic](https://www.retrostic.com/) - *Emulators / Roms*
 * [Emulanium](https://emulanium.com/) - *Emulators / Roms* 
@@ -204,7 +204,6 @@
 * [Gaming Alexandria](https://www.gamingalexandria.com/highquality/) - *Roms*
 * [Many Dumped Games](https://archive.org/details/@manydumpedgames) - *Roms*
 * [nwifiresticks](http://nwifiresticks.com/roms/) - *Roms*
-* [Talented Monkey](https://talentedmonkey.net/library/Roms/) - *Roms*
 * [Rom Pack](https://www.romspack.com/) - *Roms*
 * [Nintendo Retro Mega-Pack](https://mega.nz/folder/AdRVCaBZ#bvaOPyNae8N24lquCNen4Q) - *Roms / Nintendo*
 * [PS1 Collection](https://archive.org/details/redumpSonyPlaystationAmericaGames02October2017), [2](https://archive.org/details/@john_mr_smith?sort=titleSorter) - *Roms / PS1*
