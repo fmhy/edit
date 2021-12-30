@@ -56,7 +56,7 @@
 * [Open Directory Index](https://docs.google.com/document/d/1xyyplaw8uyHyaq79YEqtBT85vIqWu0wq7RYFEqbQybc/), [2](https://www.google.com/search?q=site:reddit.com/r/opendirectories+odshot+after:2018), [3](https://opndir.com/), [4](https://redd.it/lvdwlm), [5](https://github.com/strawhat-pirates/notes/blob/master/opendirectories.txt), [6](https://bin.disroot.org/?3082f04205be7af6#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34), [7](https://gist.github.com/Chaphasilor/718e13c1f654b7b0e49b3b41e4855f50), [8](https://redd.it/owdvw7) - *Open Directory Indexes*
 * [ODCrawler](https://odcrawler.xyz/), [CatFiles](https://www.catfiles.net/) or [mmnt](https://www.mmnt.net/) - *Open Directory Search Engine*
 * [ODS](https://sites.google.com/view/l33tech/tools/ods) - *Open Directory CSE*
-* [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/), [Proisk](https://proisk.com/) or [Search-22](https://search-22.com/ftp-search-tools) - *FTP Search*
+* [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - *FTP Search*
 * [dedigger](https://www.dedigger.com/) - *GDrive File Search* 
 * [MegaDownload](http://megadownload.net/) or [Megasearch](http://megasearch.co/) - *Mega File Search* 
 * [Create Open Directory Search Engine](https://redd.it/d3w2fu)
@@ -123,9 +123,7 @@
 * [FreshWAP](https://www.freshwap.us/), [2](https://freshwap.cc/) - *Video / Audio / Software / Games / Android / Books / Magazines*  
 * [nulled](https://nulled.org/) - *Video / Audio / Software / Games / Books / Magazines* 
 * [ReleaseHive](https://releasehive.com/) - *Video / Audio / Software / Games / Books / NSFW* 
-* [rls2day](https://rls2day.com/) - *Video / Audio / Software / Games / Books / Magazines* 
 * [WawaCity](https://www.wawacity.video/) - *Video / Audio / Books / Magazines / Software / Android / Use AdBlocker*
-* [WarezBlogs](https://www.warezblogs.com/) - *Video / Audio / Software / Games / Books / Magazines* 
 * [2DDL](https://2ddl.it/) - *Video / Audio / Software / Games / Books / Comics / Magazines* 
 * [MFTWBB](https://mftwbb.org/) - *Video / Software / Games / Books / Android*
 * [SCENE.RLS](http://scene-rls.net/releases/index.php) - *Video / Audio / Games / Software / Books / Magazines* 
@@ -148,10 +146,7 @@
 * [Apps4All](https://www.apps4all.com/ ) - *Video / Books / Software / Games / Android*
 * [Katz DDL](https://katzddl.net/) - *Video / Audio / Books / Games / Android / NSFW*
 * [HeroTurko2](https://heroturko2.net/) - *Software / Games / Books / Magazines*
-* [TorrentaBC](https://www.torrentabc.com/) or [AZTutorial](https://www.aztutorial.download/) - *Video / Audio / Software / Games / Magazines / Leech Required* 
 * [BadshahUploads](https://badshahuploads.xyz/) - *Video / Audio / Software / Games / Books / Leech Required* 
-* [DownFree4u](https://www.downfree4u.com/) - *Video / Audio / Software / Games / Books / Leech Required* 
-* [Redox](http://www.redox.com.ua/) - *Video / Audio / Software / Books / Magazines / Leech Required* 
 * [de.ddl](https://en.ddl.me//) - *Video / Games / Books*
 * [The Ambassador](https://ambassadorddl.site/) - *Video / Games / Books*
 * [sarzamindownload](https://www.sarzamindownload.com/) - *Software / Games / Android* 
@@ -304,7 +299,6 @@
 * [Antp](http://www.antp.be/) 
 * [FileEagle](https://www.fileeagle.com/) 
 * [ValleySoftware](https://valleysoftware.com.au/) 
-* [FreewareFiles](https://www.freewarefiles.com/) 
 * [IcecreamApps](https://icecreamapps.com/) 
 * [PRVSoft](https://www.prvsoft.com/)
 * [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html) 
