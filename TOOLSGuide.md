@@ -136,11 +136,13 @@
 * [Office Search](http://www.enselsoftware.com/product/OfficeSearch.html) - *Multi-File Text Search*
 * [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - *Rephrase / Paraphrase Text* 
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - *Detect Plagiarized Content*
+* [Cliche Finder](http://cliche.theinfo.org/) - *Detect Cliches*
 * [phraseup](http://www.phraseup.com/) - *Autocomplete Common Phrases* 
 * [Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en) or [Talk to Transformer](https://app.inferkit.com/demo) - *Text Autocomplete* 
 * [EleutherAI](https://6b.eleuther.ai/) - *Text / Story Autocomplete*
 * [StoryAI](https://storyai.botsociety.io/) - *Story Autocomplete*
 * [Twinery](https://twinery.org/) - *Interactive Non-Linear Story Creator*
+* [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - *Generate Fantasy Names*
 * [Lorem Ipsum Generator](https://apps.maximelafarie.com/lig/) - *Generate Placeholder Text*
 * [text-regenerator](https://github.com/jddunn/text-regenerator) - *Replace Words with Synonyms*
 * [Honk.moe](https://honk.moe/tools.html) - *Shitposting Text Generators*
@@ -173,15 +175,19 @@
 * [dCode](https://www.dcode.fr/en) - *Message Decoders*
 * [InfoEncrypt](https://www.infoencrypt.com/)  - *Encrypt / Decrypt Text* 
 * [StegCloak](https://stegcloak.surge.sh/) - *Hide Messages in Text*
+* [telescopictext](https://www.telescopictext.org/) - *Write Text Within Text*
 * [Universal Online Cyrillic Decoder](https://2cyr.com/decode/?lang=en) - *Decode / Recover Scrambled Text into Cyrillic*
 * [AnagramAssistant](https://keitharm.me/projects/anagramAssistant/) - *Anagram Tool* 
 * [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - *Text Tone Detection* 
 * [Just Not Sorry](https://chrome.google.com/webstore/detail/just-not-sorry-the-gmail/fmegmibednnlgojepmidhlhpjbppmlci) - *Undermining Word Detection*
 * [CharacterCountOnline](https://www.charactercountonline.com/) - *Character Counter*
+* [Gramma](https://caderek.github.io/gramma/) - *Command Line Grammar Checker*
 * [R2bEEaton's Phonetic Reverser](https://spea.cc/backwards/) - *Sentence / Word Reverser* 
 * [I or l?](https://iorl.info/) - *Is it an uppercase "i", or is it a lowercase "L"?*
+* [ripgrep](https://github.com/BurntSushi/ripgrep) - *Recursive Search Tool*
 * [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/) or [Cool Symbol](https://coolsymbol.com/) - *Copy & Paste Unicode Symbols*
 * [Donger List](http://dongerlist.com/) - *600+ Unicode Emoticons* 
+* [taag](http://patorjk.com/software/taag/) - *ASCII Text Generator*
 * [ASCII Art Creator](https://github.com/CherryPill/ASCII-art-creator) or [ASCII Today](https://ascii.today/) - *ASCII Art Generator*
 * [randSeq](http://www.dave-reed.com/Nifty/randSeq.html) - *Random Letter Sequence Generator*
 * [quipqiup](https://www.quipqiup.com/) - *Cryptogram Solver* 
@@ -190,6 +196,7 @@
 * [Useless-Translator](https://vcjhwebdev.github.io/useless-translator/) - *Morse Code / Binary Translator* 
 * [Infinite Story](https://infinite-story.com/) or [WriteAlong](https://www.writealong.io/) - *Collaborative Story Writing*
 * [Textanim](https://textanim.com/) - *Animated Text Generator* 
+* [Text Color Fader](http://patorjk.com/text-color-fader) - *Rainbow Text Generator*
 * [Podpis](https://podpis-online.ru/) - *Signature Generator*
 * [TextGiraffe](http://www.textgiraffe.com/) - *Text / Logo Generator* 
 * [Polona Typo](http://typo.polona.pl/en/) - *Create Text out of Book, Poster & Map Letters* 
@@ -236,7 +243,7 @@
 * [TikTok Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tiktok_video_downloaders) - *Download TikTok Videos*
 * [myfaveTT](https://myfavett.com/) - *Download Your Liked TikTok Videos*
 * [TikUp](https://github.com/Coloradohusky/TikUp) - *TikTok Auto Download / Upload*
-* [How to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/), [3](https://www.removeddit.com/r/Piracy/comments/ou31y8/how_to_rip_from_amazon_other_streaming_services/), [4](https://0bin.net/paste/cYxSEPRq#w7i1vJSMVKTRKgGmdURaXdvNpimP2p9IxgF38I75NUQ)
+* [How to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/), [3](https://0bin.net/paste/cYxSEPRq#w7i1vJSMVKTRKgGmdURaXdvNpimP2p9IxgF38I75NUQ)
 * [How to Rip Videos from Disney+](https://redd.it/ncyxzx), [2](https://web.archive.org/web/20210516014412/https://old.reddit.com/r/Piracy/comments/ncyxzx/tutorial_how_to_rip_moviesshows_from_disney_plus/) 
 * [PlayPhrase](https://playphrase.me/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/), [2](https://getyarn.io/) - *Clip Quote Search Engine*
 * [FFmpeg](https://ffmpeg.org/) - *Video / Audio Recorder, Converter & Streaming*
@@ -273,7 +280,7 @@
 * [Video Cleaner](https://videocleaner.com/) or [Video Enhance AI](https://www.topazlabs.com/video-enhance-ai) - *Video Enhancement Tool* 
 * [Flowframes](https://nmkd.itch.io/flowframes) or [SVP](https://www.svp-team.com/) - *Video Interpolation*
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - *Art & Animation Resource Index*
-* [OpenToonz](https://opentoonz.github.io/e/) or [Pencil2D](https://www.pencil2d.org/) - *Animation Production Software*
+* [OpenToonz](https://opentoonz.github.io/e/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - *Animation Software*
 * [AnimeEffects](http://animeeffects.org/en/), [nve](https://maurycyliebner.github.io/) or [Synfig](https://www.synfig.org/) - *2D Animation Tool* 
 * [Storyboarder](https://wonderunit.com/storyboarder/) - *Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)* 
 * [LibreSprite](https://libresprite.github.io/) - *Sprite Animation Tool*
@@ -342,6 +349,7 @@
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - *Professional Video, Audio & Adobe Software / Plugins*
 * [Audio Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_plugins) - *VST Plugins* 
 * [Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sfx_.2F_loops) - *SFX & Loops*
+* [rFXGen](https://raylibtech.itch.io/rfxgen) - *Sounds FX Generator *
 * [TheAudioScene](https://theaudioscene.net/) - *Daws / VSTi / Samples / Presets* 
 * [Fresh Stuff For You](https://freshstuff4you.com/) - *Daws / Samples / Presets*
 * [Go Audi0](https://goaudio.me/) - *Audio Samples*
@@ -399,11 +407,10 @@
 * [EZStems](https://www.ezstems.com/) - *Create Audio STEMS*
 * [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - *Create Songs with Code* 
 * [WebSynths](http://www.websynths.com/) - *Browser-Based Instruments* 
-* [Sampulator](http://sampulator.com/) - *Create Music with Your Keyboard* 
 * [JummBox](https://jummbus.bitbucket.io/) or [Klystrack](https://github.com/kometbomb/klystrack) - *Create Chiptune Melodies* 
 * [Orca](https://hundredrabbits.itch.io/orca) - *Live Coding Audio*
 * [danielx](https://danielx.net/composer/) - *Mario Paint Audio Editor*
-* [FamiTracker](http://www.famitracker.com/) - *NES / Famicon Audio Editor*
+* [FamiTracker](http://www.famitracker.com/) or [Famistudio](https://bleubleu.itch.io/famistudio) - *NES / Famicon Audio Editor*
 * [LittleSoundDJ](https://www.littlesounddj.com/lsd/index.php) - *Gameboy Audio Editor*
 * [Open Note Block Studio](https://opennbs.org/) - *Minecraft Note Block Song Editor*
 * [Acid Machine 2](http://errozero.co.uk/acid-machine/) - *Acid Techno Machine*
@@ -564,6 +571,7 @@
 * [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - *Manage / Store Bookmarks*
 * [SeeLink](https://www.seelink.app/) - *Collaborative Bookmarking*
 * [Instapaper](https://www.instapaper.com/) - *Bookmarking Tool*
+* [Pilgrim](http://pilgrim.are.na/) - *Tree Style Path Bookmarking*
 * [Bort](https://bort.io/) - *Bookmark Manager that Syncs with Dropbox* 
 * [wallabag](https://wallabag.org/) - *Save and Classify Articles*
 * [BrowserParrot](https://www.browserparrot.com/) - *Browser History Search Engine*
@@ -988,12 +996,12 @@ General Reading Sites*
 * [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) - *MPV Rich Presence* 
 * [MPC-DiscordRPC](https://github.com/angeloanan/MPC-DiscordRPC) - *MPC Rich Presence*
 * [qbittorrent-rp](https://github.com/LockBlock-dev/qbittorrent-rp) - *qBittorrent Rich Presence*
-* [Discord RPC Client](https://github.com/Metalloriff/discord-rpc-client 
-G) - *Create Discord RPCs*
+* [Discord RPC Client](https://github.com/Metalloriff/discord-rpc-client) - *Create Discord RPCs*
 * [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - *VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)*
 * [Discord.io](https://discord.io/) or [dsc.gg](https://dsc.gg/) - *Create Custom Discord Invites*
 * [1337x-Bot ](https://github.com/brandongallagher1999/1337x-Bot) - *1337x Discord Bot*
 * [fmbot](https://fmbot.xyz/) - *Discord Voice Chat Scrobbling*
+* [Craig](https://craig.chat/) - *Voice Channel Recorder / [Backup(https://craig.chat/home/giarc)*
 * [Forms](https://gitlab.com/rubellite/engineering/forms ) - *Google Form Responses as Discord Embeds*
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter), [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker), [discord-archiver](https://github.com/nektro/discord-archiver) or [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper) - *Archive / Export Discord Chats* 
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - *Discord Anti Phishing Bot*
@@ -1425,7 +1433,7 @@ G) - *Create Discord RPCs*
 * [Übersicht](https://tracesof.net/uebersicht/) - *System Command Widgets*
 * [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - *Windows API Tricks*
 * [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - *Windows 10 Auto Dark Mode*
-* [f.lux](https://justgetflux.com/), [LightBulb](https://github.com/Tyrrrz/LightBulb), [Redshift](https://github.com/jonls/redshifthttp://jonls.dk/redshift/) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - *Adjust Display Color / Temperature*
+* [f.lux](https://justgetflux.com/), [LightBulb](https://github.com/Tyrrrz/LightBulb) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - *Adjust Display Color / Temperature*
 * [Twinkle Tray](https://twinkletray.com/) - *System Tray Brightness Slider*
 * [Dimmer](https://www.nelsonpires.com/software/dimmer) - *Multi-Monitor Brightness Control*
 * [ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - *Desktop Program, Video & Webpage Pins / Program Wallpapers*
@@ -1662,7 +1670,7 @@ G) - *Create Discord RPCs*
 * [MegaKeep](https://github.com/xCryptic/MegaKeep) - *Login to Multiple Mega Accounts*
 * [Mega Checker](https://github.com/Titoot/mega-checker) - *Mega Link Checker*
 * [Unlimited Mega Storage](https://redd.it/ffrkf3) - *Unlimited Mega Storage Guide*
-* [MegaBox](https://github.com/ALIILAPRO/megabox) or [GetMega](http://getmega.net/) / [2](https://vn.getmega.net/) - *Direct Mega Links* 
+* [MegaBox](https://github.com/ALIILAPRO/megabox) or [GetMega](http://getmega.net/) - *Direct Mega Links* 
 * [MEGA Uploader X](https://t.me/MegaUploadXbot) - *Remote Mega File Upload Bot*
 * [GDrive Guides](https://t.me/gdriveguides) - *GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)*
 * [Torrent2Drive](https://t.me/torrent_2_drive), [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - *DDL to GDrive Tool*
