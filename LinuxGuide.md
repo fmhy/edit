@@ -364,4 +364,5 @@
 * [Mac Torrents](https://www.torrentmac.net/) 
 * [MacTorrents](https://mactorrents.io/)
 * [Download-Mac-Torrent](http://www.download-mac-torrent.ru/)
+* [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher*
 * [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - *Gamecube iso.dec to ISO Converter*
