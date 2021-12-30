@@ -331,7 +331,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Calibre Tools
 
-[Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre), [3](https://the-eye.eu/public/Books/Calibre_Libraries/) / [Search](https://www.shodan.io/search?query=server%3A+calibre), [4](https://calishot-eng-1.herokuapp.com/), [5](https://redd.it/nugkl3) / [Web App](https://github.com/janeczku/calibre-web)  
+[Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre), [3](https://the-eye.eu/public/Books/Calibre_Libraries/) / [Search](https://www.shodan.io/search?query=server%3A+calibre), [4](https://redd.it/nugkl3) / [Web App](https://github.com/janeczku/calibre-web)  
 
 ***
 
@@ -393,11 +393,11 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Covers / Posters
 
-[Film](https://beta.flim.ai/), [The Poster Database](https://theposterdb.com/), [covercentury](https://www.covercentury.com/), [covrik](http://www.covrik.com/), [dvd-covers](https://www.dvd-covers.org/), [dvdca](https://www.dvdca.com/), [dvdcovers](https://dvdcovers.top/), [cover-addict](https://www.cover-addict.com/), [Gaming Alexandria](https://www.gamingalexandria.com/), [BoxEqualArt](http://boxequalsart.com/), [poster-man](http://www.poster-man.com/), [dlhcollections](https://www.dlhcollections.com/index.html), [postercollector](https://postercollector.co.uk/), [moviepostersgallery](https://www.moviepostersgallery.com/), [filmonpaper](https://www.filmonpaper.com/blog/), [gametdb](https://www.gametdb.com/), [Joblo](https://www.joblo.com/movie-posters/), [MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/)
+[Film](https://beta.flim.ai/), [The Poster Database](https://theposterdb.com/), [covercentury](https://www.covercentury.com/), [covrik](http://www.covrik.com/), [dvd-covers](https://www.dvd-covers.org/), [cover-addict](https://www.cover-addict.com/), [Gaming Alexandria](https://www.gamingalexandria.com/), [BoxEqualArt](http://boxequalsart.com/), [poster-man](http://www.poster-man.com/), [dlhcollections](https://www.dlhcollections.com/index.html), [postercollector](https://postercollector.co.uk/), [moviepostersgallery](https://www.moviepostersgallery.com/), [filmonpaper](https://www.filmonpaper.com/blog/), [gametdb](https://www.gametdb.com/), [Joblo](https://www.joblo.com/movie-posters/), [MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/)
 
 **Album Art** 
 
-[iTunes Artwork Grabber](https://artwork.themoshcrypt.net/), [covermytunes](https://covermytunes.com/) or [Album Art Downloader](https://sourceforge.net/projects/album-art/) 
+[iTunes Artwork Grabber](https://artwork.themoshcrypt.net/) or [Album Art Downloader](https://sourceforge.net/projects/album-art/) 
 
 ***
 
@@ -602,7 +602,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Free Webhosting Sites
 
-**[netlify](https://www.netlify.com/)**,  **[heroku](https://www.heroku.com/)**, [profreehost](https://profreehost.com/), [000webhost](https://www.000webhost.com/), [infinityfree](https://infinityfree.net/), [openshift](https://www.openshift.com/), [vercel](https://vercel.com/) /  [2](https://vercel.app/), [GitHub Pages](https://pages.github.com/), [surge](https://surge.sh/), [firebase](https://firebase.google.com/products/hosting), [openode](https://www.openode.io/) / [Github](https://github.com/openode-io), [workers.dev](https://workers.cloudflare.com/), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [neocities](https://neocities.org/), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [coolify](https://coolify.io/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [webs](https://www.webs.com/), [weebly](https://www.weebly.com/in), [yola](https://www.yola.com/), [wordpress](https://wordpress.com/), [fosshost](https://fosshost.org/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [txti](http://txti.es/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [hubzilla](https://zotlabs.org/page/zotlabs/home), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [moodlecloud](https://moodlecloud.com/), [tilda](https://tilda.cc/), [paiza.cloud](https://paiza.cloud/), [boomla](https://boomla.com/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [repl.it](https://docs.repl.it/repls/web-hosting), [render](https://render.com/), [roast](https://www.roast.io/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [hostman](https://hostman.com/), [freehosting](https://freehosting.host/), [gearhost](https://www.gearhost.com/), [freewebhostingarea](https://www.freewebhostingarea.com/), [DriveToWeb](https://drv.tw/), [freenom](http://freenom.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [cargo](https://cargo.site/), [mmm](https://build.mmm.page/), [fanspace](http://www.fanspace.com/), [dotera](https://dotera.net/), [fc2](https://web.fc2.com/en/), [pages.cloudflare](https://pages.cloudflare.com/), [epikhost](https://www.epikhost.xyz/), [w3schools](https://www.w3schools.com/spaces/), [wordpress](https://wordpress.org/), [freehostia](https://www.freehostia.com/)
+**[netlify](https://www.netlify.com/)**,  **[heroku](https://www.heroku.com/)**, [profreehost](https://profreehost.com/), [000webhost](https://www.000webhost.com/), [infinityfree](https://infinityfree.net/), [openshift](https://www.openshift.com/), [vercel](https://vercel.com/) /  [2](https://vercel.app/), [GitHub Pages](https://pages.github.com/), [surge](https://surge.sh/), [firebase](https://firebase.google.com/products/hosting), [openode](https://www.openode.io/) / [Github](https://github.com/openode-io), [workers.dev](https://workers.cloudflare.com/), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [neocities](https://neocities.org/), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [coolify](https://coolify.io/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [webs](https://www.webs.com/), [weebly](https://www.weebly.com/in), [yola](https://www.yola.com/), [wordpress](https://wordpress.com/), [fosshost](https://fosshost.org/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [txti](http://txti.es/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [hubzilla](https://zotlabs.org/page/zotlabs/home), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [moodlecloud](https://moodlecloud.com/), [tilda](https://tilda.cc/), [paiza.cloud](https://paiza.cloud/), [boomla](https://boomla.com/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [repl.it](https://docs.repl.it/repls/web-hosting), [render](https://render.com/), [roast](https://www.roast.io/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [hostman](https://hostman.com/), [freehosting](https://freehosting.host/), [gearhost](https://www.gearhost.com/), [freewebhostingarea](https://www.freewebhostingarea.com/), [DriveToWeb](https://drv.tw/), [freenom](http://freenom.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [cargo](https://cargo.site/), [mmm](https://build.mmm.page/), [fanspace](http://www.fanspace.com/), [dotera](https://dotera.net/), [fc2](https://web.fc2.com/en/), [pages.cloudflare](https://pages.cloudflare.com/), [w3schools](https://www.w3schools.com/spaces/), [wordpress](https://wordpress.org/), [freehostia](https://www.freehostia.com/)
 
 ***
 
@@ -646,7 +646,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Cloud Storage** 
 
-**[GDrive](https://drive.google.com/)**, **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz), [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [disk.yandex](https://disk.yandex.com/), [TeledriveApp](https://teledriveapp.com/), [dubox](https://dubox.com/), [mediafire](https://www.mediafire.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [clouddrive](https://www.clouddrive.site/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [gdflix](https://gdflix.bar/), [alfafile](https://www.alfafile.net/), [pdisk](https://www.pdisk.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/) 
+**[GDrive](https://drive.google.com/)**, **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz), [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [disk.yandex](https://disk.yandex.com/), [TeledriveApp](https://teledriveapp.com/), [dubox](https://dubox.com/), [mediafire](https://www.mediafire.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [clouddrive](https://www.clouddrive.site/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [gdflix](https://gdflix.bar/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/) 
 
 **Multi Host Uploaders**
 
@@ -768,7 +768,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://sflix.to/
 * https://cineb.net/
 * https://www.divicast.com/
-* https://www.freshmoviestreams.net/
 * https://kk01.net/
 * https://myflixerhd.ru/
 * https://www.moviecrumbs.net/
@@ -898,7 +897,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### IPTV Playlists
 
-[HLS Cat](https://hlscat.com/), [Sneh IPTV](https://github.com/techiesneh/sneh-iptv-m3u), [IPTVCat](https://iptvcat.net/), [DailyIPTVList](https://www.dailyiptvlist.com/ip-tv/), [AllIPTV](https://www.alliptvlinks.com/), [CCcam](https://cccamiptv.cc/), [TVLab](https://t.me/tvlab), [IPTV_Sport](https://t.me/iptv_sport), [Leaksat](https://leaksat.com/category/free-iptv/), [GratisIPTV](http://www.gratisiptv.com/), [iptvmate](https://iptvmate.net/), [inks-iptv](https://www.links-iptv.com/), [iptvm3ufree](https://www.iptvm3ufree.com/), [IPTV](https://www.iptvsource.com/free-ip-tv/), [iptvm3ulist](https://www.iptvm3ulist.com/), [dailym3uiptv](https://dailym3uiptv.com/), [5-Minute-IPTV](https://github.com/nezbednik/5-Minute-IPTV), [iptv-gratuits](https://iptv-gratuits.com/), [iptvsat](https://iptvsat.info/), [eja.tv](https://eja.tv/), [iptv4sat](https://www.iptv4sat.com/), [iptv-work](https://iptv-work.at.ua/), [xtemus](https://xtemus.com/), [freeiptvm3ulists](https://freeiptvm3ulists.com/), [Hacxx-Free-IPTV](http://bit.ly/Hacxx-Free-IPTV)
+[HLS Cat](https://hlscat.com/), [IPTVCat](https://iptvcat.net/), [DailyIPTVList](https://www.dailyiptvlist.com/ip-tv/), [AllIPTV](https://www.alliptvlinks.com/), [CCcam](https://cccamiptv.cc/), [TVLab](https://t.me/tvlab), [IPTV_Sport](https://t.me/iptv_sport), [Leaksat](https://leaksat.com/category/free-iptv/), [GratisIPTV](http://www.gratisiptv.com/), [iptvmate](https://iptvmate.net/), [inks-iptv](https://www.links-iptv.com/), [iptvm3ufree](https://www.iptvm3ufree.com/), [IPTV](https://www.iptvsource.com/free-ip-tv/), [iptvm3ulist](https://www.iptvm3ulist.com/), [dailym3uiptv](https://dailym3uiptv.com/), [5-Minute-IPTV](https://github.com/nezbednik/5-Minute-IPTV), [iptv-gratuits](https://iptv-gratuits.com/), [iptvsat](https://iptvsat.info/), [eja.tv](https://eja.tv/), [iptv4sat](https://www.iptv4sat.com/), [iptv-work](https://iptv-work.at.ua/), [xtemus](https://xtemus.com/), [freeiptvm3ulists](https://freeiptvm3ulists.com/), [Hacxx-Free-IPTV](http://bit.ly/Hacxx-Free-IPTV)
 
 ****
 
@@ -988,7 +987,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 * https://toonily.com/
 * https://manhwa18.net/
-* https://azmanhwa.net/
 * https://manhuafast.com/
 * https://manhwakool.com/
 * https://www.mangahz.com/
@@ -1143,7 +1141,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Sites / Programs**
 
-**[9xbuddy](https://9xbuddy.org/)**, [savieo](https://savieo.com/), [AllTube Download](https://alltubedownload.net/), [grabanymedia](https://grabanymedia.altervista.org/), [Ripsave](https://ripsave.com/), [KeepSaveIT](http://keepsaveit.com/), [TubeOffline](https://www.tubeoffline.com/), [clipconverter](https://www.clipconverter.cc/2/), [clipgrab](https://clipgrab.org/), [4kdownload](https://www.4kdownload.com/), [bitdownloader](https://bitdownloader.io/), [you-get](https://you-get.org/), [annie](https://github.com/iawia002/annie), [catchvideo](https://catchvideo.net/), [HackDownload](https://hackdownloader.com/), [DistillVideo](https://distillvideo.com/), [Catch-Tube](https://catch.tube/), [SaveVideo.me](http://savevideo.me/?lang=en), [LocoDownloader](https://locoloader.com/), [Yout](https://yout.com/), [Keepv.id](https://keepv.id/), [downloader-ui](https://github.com/Mqlhaha/downloader-ui), [connectvip](https://connectvip.store/), [Vividl](https://vividl.sourceforge.io/), [ddownloader](https://ddownloader.com/), [pastedownload](https://pastedownload.com/), [weibomiaopai](https://weibomiaopai.com/download-video-parser.php), [gramvio](https://www.gramvio.com/), [tubeninja](https://www.tubeninja.net/), [savethevideo](https://www.savethevideo.com/), [qvideodownloader](https://qvideodownloader.com/), [converteri](https://converteri.online/), [keepvid.pro/](http://www.keepvid.pro/), [dodoconverter](https://www.dodoconverter.com/), [zasasa](http://www.zasasa.com/)
+**[9xbuddy](https://9xbuddy.org/)**, [savieo](https://savieo.com/), [AllTube Download](https://alltubedownload.net/), [grabanymedia](https://grabanymedia.altervista.org/), [Ripsave](https://ripsave.com/), [KeepSaveIT](http://keepsaveit.com/), [TubeOffline](https://www.tubeoffline.com/), [clipconverter](https://www.clipconverter.cc/2/), [clipgrab](https://clipgrab.org/), [4kdownload](https://www.4kdownload.com/), [bitdownloader](https://bitdownloader.io/), [you-get](https://you-get.org/), [annie](https://github.com/iawia002/annie), [catchvideo](https://catchvideo.net/), [DistillVideo](https://distillvideo.com/), [Catch-Tube](https://catch.tube/), [SaveVideo.me](http://savevideo.me/?lang=en), [LocoDownloader](https://locoloader.com/), [Yout](https://yout.com/), [Keepv.id](https://keepv.id/), [downloader-ui](https://github.com/Mqlhaha/downloader-ui), [connectvip](https://connectvip.store/), [Vividl](https://vividl.sourceforge.io/), [ddownloader](https://ddownloader.com/), [pastedownload](https://pastedownload.com/), [weibomiaopai](https://weibomiaopai.com/download-video-parser.php), [gramvio](https://www.gramvio.com/), [tubeninja](https://www.tubeninja.net/), [savethevideo](https://www.savethevideo.com/), [qvideodownloader](https://qvideodownloader.com/), [converteri](https://converteri.online/), [keepvid.pro/](http://www.keepvid.pro/), [dodoconverter](https://www.dodoconverter.com/), [zasasa](http://www.zasasa.com/)
 
 **Extensions**
 
@@ -1208,9 +1206,7 @@ Add the following commands to a search to manually scrape each site.
 * http://www2.putlockerstv.org/
 * https://www1.movie4u.live/
 * https://ww88.movisubmalay.club/
-* http://www16.solarmoviesc.com/ 
 * https://openloadflix.com/
-* https://www.uwatchfree.pl/
 * https://superflix.vc/ 
 * https://links4u.co/
 * https://serijeonline.net/ 
@@ -1430,7 +1426,6 @@ Add the following commands to a search to manually scrape each site.
 * https://novabiblia.com.br/
 * https://claret.org.br/biblia
 * https://biblia.sbb.org.br/
-* https://jesusvoltara.com.br/
 * https://www.bibliaonline.com.br/
 * http://www.receitas-portuguesas.com/
 * https://www.jw.org/pt/biblioteca/biblia/biblia-de-estudo/livros/
@@ -1556,7 +1551,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### qBitorrent Tools
 
-[VPN Bind (Important)](https://www.ghacks.net/2016/03/23/qbittorrent-block-transfers-vpn-disconnect/) / [Plugins](https://github.com/qbittorrent/search-plugins#search-plugins) / [Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) / [Themes](https://github.com/jagannatharjun/qbt-theme) / [Dark Theme](https://draculatheme.com/qbittorrent) / [iOS Theme](https://github.com/ntoporcov/iQbit/) / [Docker Build](https://github.com/linuxserver/docker-qbittorrent), [2](https://github.com/binhex/arch-qbittorrentvpn) / [Web Client](https://github.com/sobuj53/web_qbittorrent), [2](https://github.com/WDaan/VueTorrent) / [Mega Upload](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent_MEGA.ipynb) / [Gdrive Upload](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb)
+[Plugins](https://github.com/qbittorrent/search-plugins#search-plugins) / [Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) / [Themes](https://github.com/jagannatharjun/qbt-theme) / [Dark Theme](https://draculatheme.com/qbittorrent) / [iOS Theme](https://github.com/ntoporcov/iQbit/) / [Docker Build](https://github.com/linuxserver/docker-qbittorrent), [2](https://github.com/binhex/arch-qbittorrentvpn) / [Web Client](https://github.com/sobuj53/web_qbittorrent), [2](https://github.com/WDaan/VueTorrent) / [Mega Upload](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent_MEGA.ipynb) / [Gdrive Upload](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb)
 
 ***
 
@@ -1592,7 +1587,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Reddit Alternatives
 
-**[Reddit Alt Index](https://redd.it/oioeot)**, **[Raddle](https://raddle.me/)** / [onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/), **[Saidit](https://saidit.net/)**, [ruqqus](https://ruqqus.com), [Lemmy](https://lemmy.ml/), [/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives), [notabug](https://notabug.io/), [postmill](https://postmill.xyz/), [Comet](https://cometx.io/), [Sqwok](https://sqwok.im/), [Ramble](https://ramble.pw/) (Privacy Focused), [Gurlic](https://gurlic.com/), [Dread](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/), [kddit](http://kddit.kallist4mcluuxbjnr5p2asdlmdhaos3pcrvhk3fbzmiiiftwg6zncid.onion/), [tildes](https://tildes.net/)
+**[Reddit Alt Index](https://redd.it/oioeot)**, **[Raddle](https://raddle.me/)** / [onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/), **[Saidit](https://saidit.net/)** [Lemmy](https://lemmy.ml/), [/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives), [notabug](https://notabug.io/), [postmill](https://postmill.xyz/), [Comet](https://cometx.io/), [Sqwok](https://sqwok.im/), [Ramble](https://ramble.pw/) (Privacy Focused), [Gurlic](https://gurlic.com/), [Dread](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/), [kddit](http://kddit.kallist4mcluuxbjnr5p2asdlmdhaos3pcrvhk3fbzmiiiftwg6zncid.onion/), [tildes](https://tildes.net/)
 
 ***
 
@@ -1689,7 +1684,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Searx Instances
 
-[Fuck Off Google](https://search.fuckoffgoogle.net/) / [nixnet](https://searx.nixnet.services/) / [Instance Index](https://searx.space/), [Instance Index 2](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22), [anon.sx](https://anon.sx/), [privatesearch](https://privatesearch.app/), [searx.ninja](https://searx.ninja/), [searx](https://searx.be/)
+[Fuck Off Google](https://search.fuckoffgoogle.net/) / [nixnet](https://searx.nixnet.services/) / [Instance Index](https://searx.space/), [Instance Index 2](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22), [anon.sx](https://anon.sx/), [searx.ninja](https://searx.ninja/), [searx](https://searx.be/)
 
 ***
 
@@ -1807,7 +1802,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Mobile Apps**
 
-[Shazam](https://www.shazam.com/), [SoundHound](https://www.soundhound.com/soundhound), [Music ID Android](https://play.google.com/store/apps/details?id=com.gravitymobile.recognize&hl=en), [Music ID iOS](https://apps.apple.com/app/musicid/id358838909?ign-mpt=uo%3D8)
+[Shazam](https://www.shazam.com/), [SoundHound](https://www.soundhound.com/soundhound), [Music ID iOS](https://apps.apple.com/app/musicid/id358838909?ign-mpt=uo%3D8)
 
 ***
 
@@ -1980,7 +1975,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Temp Email Sites
 
-**[smailpro](https://smailpro.com/)** (gmail), **[Gmailnator](https://www.gmailnator.com/)** (gmail), [Temp Mail List](https://gist.github.com/michenriksen/8710649), [10 Minute Mail](https://temp-mail.org/en/10minutemail), [Temp Mail](https://temp-mail.org/), [cs.email](https://www.cs.email/), [maildrop](https://maildrop.cc/), [mailinator](https://www.mailinator.com/), [mailnesia](https://mailnesia.com/), [10minutemail](https://10minutemail.com/), [spamgourmet](https://www.spamgourmet.com/), [tempmail.ninja](https://tempmail.ninja/), [getnada](https://getnada.com/), [tempinbox](http://tempinbox.com), [disposable](https://github.com/0x19/disposable), [anonbox](https://anonbox.net/), [youdabomb](https://tempmail.youdabomb.social/), [Generator.email](https://generator.email/), [kuku](https://m.kuku.lu/), [grrmail](http://grrmailb3fxpjbwm.onion/) (tor), [Email on Deck](https://www.emailondeck.com/), [temp-mails](https://www.temp-mails.com/), [Mohmal](https://www.mohmal.com/en), [Mohmal](https://www.mohmal.com/en), [tempmail](https://github.com/sdushantha/tmpmail) (terminal), [Temp Mail](https://rapidapi.com/Privatix/api/temp-mail) (api), [xkx](https://xkx.me/), [33mail](https://33mail.com/), [Guerillamail](https://www.guerrillamail.com/), [edumail](https://edumail.icu/), [Mail.tm](https://mail.tm/en), [temporarymail](https://temporarymail.com/), [FakeMailGenerator](http://www.fakemailgenerator.com/), [emailfake](https://emailfake.com/), [tempmailo](https://tempmailo.com/), [10minutesemail](https://10minutesemail.net/), [emailondeck](http://emailondeck.com/), [tempm](https://tempm.com/), [tempail](https://tempail.com/), [tempmailaddress](https://www.tempmailaddress.com/), [eyepaste](http://www.eyepaste.com/), [mintemail](http://www.mintemail.com/), [mytemp](https://mytemp.email/), [sharklasers](https://www.sharklasers.com/), [yopmail](http://www.yopmail.com/en/), [mail.td](https://mail.td/), [dropmail](https://dropmail.me/en/), [cryptogmail](https://cryptogmail.com/), [inboxkitten](https://inboxkitten.com/), [anonymmail](https://anonymmail.net/), [tmailweb](https://tmailweb.com/), [noopmail](https://www.noopmail.org/), [tmpemails](https://tmpemails.com/), [abandonmail](https://www.abandonmail.com/), [one-off](https://one-off.email/), [another-temp-mail](https://www.another-temp-mail.com/), [tempr](https://tempr.email/en/)
+**[smailpro](https://smailpro.com/)** (gmail), **[Gmailnator](https://www.gmailnator.com/)** (gmail), [Temp Mail List](https://gist.github.com/michenriksen/8710649), [10 Minute Mail](https://temp-mail.org/en/10minutemail), [Temp Mail](https://temp-mail.org/), [cs.email](https://www.cs.email/), [maildrop](https://maildrop.cc/), [mailinator](https://www.mailinator.com/), [mailnesia](https://mailnesia.com/), [10minutemail](https://10minutemail.com/), [spamgourmet](https://www.spamgourmet.com/), [tempmail.ninja](https://tempmail.ninja/), [getnada](https://getnada.com/), [tempinbox](http://tempinbox.com), [disposable](https://github.com/0x19/disposable), [anonbox](https://anonbox.net/), [youdabomb](https://tempmail.youdabomb.social/), [Generator.email](https://generator.email/), [kuku](https://m.kuku.lu/), [grrmail](http://grrmailb3fxpjbwm.onion/) (tor), [Email on Deck](https://www.emailondeck.com/), [temp-mails](https://www.temp-mails.com/), [Mohmal](https://www.mohmal.com/en), [Mohmal](https://www.mohmal.com/en), [tempmail](https://github.com/sdushantha/tmpmail) (terminal), [Temp Mail](https://rapidapi.com/Privatix/api/temp-mail) (api), [xkx](https://xkx.me/), [33mail](https://33mail.com/), [Guerillamail](https://www.guerrillamail.com/), [edumail](https://edumail.icu/), [Mail.tm](https://mail.tm/en), [temporarymail](https://temporarymail.com/), [FakeMailGenerator](http://www.fakemailgenerator.com/), [emailfake](https://emailfake.com/), [tempmailo](https://tempmailo.com/), [10minutesemail](https://10minutesemail.net/), [emailondeck](http://emailondeck.com/), [tempm](https://tempm.com/), [tempail](https://tempail.com/), [tempmailaddress](https://www.tempmailaddress.com/), [eyepaste](http://www.eyepaste.com/), [mintemail](http://www.mintemail.com/), [mytemp](https://mytemp.email/), [sharklasers](https://www.sharklasers.com/), [yopmail](http://www.yopmail.com/en/), [mail.td](https://mail.td/), [dropmail](https://dropmail.me/en/), [cryptogmail](https://cryptogmail.com/), [inboxkitten](https://inboxkitten.com/), [anonymmail](https://anonymmail.net/), [tmailweb](https://tmailweb.com/), [noopmail](https://www.noopmail.org/), [tmpemails](https://tmpemails.com/), [one-off](https://one-off.email/), [another-temp-mail](https://www.another-temp-mail.com/), [tempr](https://tempr.email/en/)
 
 **Telegram Temp Mail Bots**
 
@@ -2370,7 +2365,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### URL Unshorteners 
 
-**[urlex](https://urlex.org/)**, **[CheckShortURL](https://checkshorturl.com/)**, [ExpandURL](https://www.expandurl.net/), [unshort.link](https://unshort.link/), [URL Shortener Unshortener](https://greasyfork.org/en/scripts/5359-url-http://skyload.io/shortener-unshortener), [Unshorten.it](https://unshorten.it/), [WhereGoes](https://wheregoes.com/), [LongURL](https://longurl.info/)
+**[urlex](https://urlex.org/)**, **[CheckShortURL](https://checkshorturl.com/)**, [ExpandURL](https://www.expandurl.net/), [unshort.link](https://unshort.link/), [Unshorten.it](https://unshorten.it/), [WhereGoes](https://wheregoes.com/), [LongURL](https://longurl.info/)
 
 ***
 
@@ -2674,10 +2669,8 @@ Good for finding classic, obscure & short films.
 
 #### Z-Library Mirrors 
 
-* https://1lib.us/
 * https://b-ok.org/
 * https://b-ok.cc/
-* https://b-ok2.org/
 * https://b-ok.asia/
 * https://booksc.org/
 * https://b-ok.global/
