@@ -706,7 +706,7 @@ RSS Player*
 * [Fugu14](https://github.com/LinusHenze/Fugu14) - *14.3-14.5 Untethered Jailbreak (Incomplete)*
 * [Odyssey](https://theodyssey.dev/) - *13.0 to 13.7 Semi-tethered Jailbreak* 
 * [Chimera](https://chimera.coolstar.org/) - *12.0 to 12.5.5 Jailbreak*
-* [Unc0ver](https://unc0ver.dev/) - *11.0 to 14.5.1 Jailbreak / [Dark Mode](https://dark.diatr.us) / [GitHub](https://github.com/pwn20wndstuff/Undecimus)*
+* [Unc0ver](https://unc0ver.dev/) - *11.0 to 14.8 Jailbreak / [Dark Mode](https://dark.diatr.us) / [GitHub](https://github.com/pwn20wndstuff/Undecimus)*
 * [LiberiOS](https://github.com/LiberiOS/LiberiOS) - *11.0-11.1.2 Jailbreak*
 * [Meridian](https://meridian.sparkes.zone/) - *10.0-10.3.3 Jailbreak* 
 * [doubleH3lix](https://github.com/tihmstar/doubleH3lix) - *10.x 64bit Jailbreak*
@@ -714,7 +714,6 @@ RSS Player*
 * [IPA Apps](https://ipa-apps.me/) - *Jailbreak Tools & Apps*
 * [ap0110](https://ap0110.cf/) - *Autoexec Jailbreak*
 * [IPACandy](https://ipacandy.com/) - *Jailbreaking Tools*
-* [Julioverne](https://julio.hackyouriphone.org/) - *Jailbreaking Tools* 
 * [checkn1x](https://github.com/asineth0/checkn1x) - *Jailbreaking Tool*
 * [Fugu](https://github.com/LinusHenze/Fugu) - *Jailbreaking Tool*
 * [ipwndfu](https://github.com/axi0mX/ipwndfu) - *Jailbreaking Tool*
@@ -765,6 +764,7 @@ RSS Player*
 
 # ► iOS Privacy
 
+* [Julioverne](https://julio.hackyouriphone.org/) - *Privacy Tools* 
 * [iOS-Privacy-Guide](https://github.com/paulaime/iOS-Privacy-Guide) - *iOS Privacy Guide*
 * [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [Authenticator](https://mattrubin.me/authenticator), [Obsidian](https://obsidianapp.io/) or [Tofu](https://www.tofuauth.com/) - *Two-factor Authentication*  
 * [SecretPhotoAlbum++](https://apps.apple.com/us/app/secret-photo-album/id1459036428), [Private Photo Vault](https://apps.apple.com/us/app/private-photo-vault-pic-safe/id417571834) or [No See You](https://noseeyou.com/) - *Private Photo Album*
