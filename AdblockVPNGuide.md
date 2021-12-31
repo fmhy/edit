@@ -209,6 +209,7 @@
 * [Safing](https://safing.io/) - *Monitor Network / Block Trackers / [GitHub](https://github.com/Safing/portmaster)*
 * [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion), [discord-delete](https://github.com/adversarialtools/discord-delete), [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) or [QuickDeleteMessages](https://u.nu/9i9jk) - *Delete Discord Messages / [Warning](https://i.imgur.com/Kt8G430.png)* 
 * [Spyware Watchdog](https://spyware.neocities.org/) - *Spyware Program Index*
+* [Blacklight](https://themarkup.org/series/blacklight) - *Website Privacy Inspector*
 * [Terms of Service; Didn't Read](https://tosdr.org/) - *TLDR TOS*
 * [V2Ray](https://v2ray.com/en/), [V2Fly](https://www.v2fly.org/), [V2RayN](https://github.com/freefq/free) or [v2ray-core](https://github.com/v2fly/v2ray-core) - *Build your own Privacy Network / [GUI](https://qv2ray.net/), [v2rayN](https://github.com/2dust/v2rayN)* 
 * [Scout](https://www.scout.tel/phone-number-lookup) - *Phone Number Lookup / Safety Check* 
@@ -455,6 +456,8 @@
 * [VPNSecure](https://www.vpnsecure.me/) - *[Pricing](https://i.imgur.com/BnuqpBS.png)*
 * [MysteriumVPN](https://www.mysteriumvpn.com/) - *[Pricing](https://i.imgur.com/2un0hjM.png)*
 * [Tailscale](https://tailscale.com/) - *[Pricing](https://i.imgur.com/6lMwcSQ.png) / [Discord](https://discord.com/invite/n3vtSwc)*
+* [TorGuard](https://torguard.net/) - *[Pricing](https://i.imgur.com/O2t4z0C.png)*
+* [WeVPN](https://wevpn.com/) - *[Pricing](https://i.imgur.com/a6XWraf.png)*
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - *VPN Extension / 3GB Free / [Pricing](https://i.imgur.com/ZdDexDa.png)* 
 * [Mozilla FPN](https://fpn.firefox.com/) - *VPN Extension / [Pricing](https://i.imgur.com/wW5rVO2.png) / Mullvad Servers*
 * [StrongSwan](https://www.strongswan.org/) - *IPsec VPN*
@@ -465,6 +468,7 @@
 * [TurboVPN](https://turbovpn.com/) - *Free VPN*
 * [Free VPN Online](http://freevpnonline.com/) - *Free VPN*
 * [TouchVPN](https://touchvpn.net/) - *Free VPN*
+* [HideMe](https://hide.me/) - *Free VPN*
 * [Calyx VPN](https://calyx.net/) - *Free VPN*
 * [FreePN](https://www.freepn.org/) - *Free Open Source P2P VPN* 
 * [TunnelBear](https://www.tunnelbear.com/) - *Free VPN / 500mb only*
