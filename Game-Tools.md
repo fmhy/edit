@@ -102,6 +102,7 @@
 * [AltCtrls](https://altctrls.info/) - *Custom Controller Crafting Resources*
 * [Gamesoft](http://www.gamesoft.com/) - *Gaming News Feed Manager*
 * [GmodContent](https://gmodcontent.com/) - *Garry's Mod Content Packs*
+* [OrignStubDecrypter](https://github.com/PotatoOfDoom/OriginStubDecrypter) - *EA Origins Stub Decrypter*
 * [Tarac](https://sims.tarac.nl/the-sims-4/sims-4-download-update-repair-add-dlcs/) - *Sims 4 Update / Repair Tool*
 * [Payday 2 Social Safe](https://www.overkillsoftware.com/payday2-social-safe/) - *Free Payday 2 Offers*
 * [WordPlays](https://www.wordplays.com/) - *Cheat at Scrabble, Words with Friends & Crossword Puzzles*
