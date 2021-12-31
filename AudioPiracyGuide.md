@@ -391,7 +391,6 @@
 * [Spotalike](https://spotalike.com/), [MagicPlaylist](https://magicplaylist.co/) or [RadioNewify](https://radionewify.com/) - *Spotify Playlist Generator*
 * [DailyPlaylists](https://www.dailyplaylists.com/) or [TuneMunk](https://www.tunemunk.com/) - *Spotify Playlist Sharing*
 * [MusitcTo](https://www.musicto.com/) - *Musician Curated Playlists*
-* [Forgotify](https://forgotify.com/) - *Spotify songs with 0 plays*  
 * [Obscurify](https://obscurifymusic.com/) - *Compare Music Taste to Others* 
 * [Chosic](https://www.chosic.com/) - *Song Discovery Tools*
 * [UnknownMusicBot](https://t.me/UnknownMusicBot) - *Play a Random Rare Song from YouTube* 
