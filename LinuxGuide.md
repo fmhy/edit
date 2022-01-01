@@ -146,15 +146,17 @@
 * [Electerm](https://electerm.github.io/electerm) - *Terminal / SSH / STP Client*
 * [Yakuake](https://apps.kde.org/yakuake/) - *Quake Style Terminal Emulator*
 * [theme.sh](https://github.com/lemnos/theme.sh) - *Custom Terminal Themes*
-* [cbonsai](https://gitlab.com/jallbrit/cbonsai) - *Generate bonsai trees in your terminal*
+* [cbonsai](https://gitlab.com/jallbrit/cbonsai) - *Generate Bonsai Trees in Terminal*
+* [pipes.sh](https://github.com/pipeseroni/pipes.sh) - *Animated Pipes in Terminal*
 * [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - *App Image Launcher*
 * [Remontoire](https://github.com/regolith-linux/remontoire) - *Keybind Viewer for i3*
-* [fzf](https://github.com/junegunn/fzf) - *CLI based fuzzy finder*
+* [fzf](https://github.com/junegunn/fzf) - *CLI based Fuzzy Finder*
 * [bat](https://github.com/sharkdp/bat) - *Modern cat clone with Wings*
 * [dust](https://github.com/bootandy/dust) - *Intuitive version of du*
 * [Timeshift](https://github.com/teejee2008/timeshift) - *Create System Snapshots & Restore*
 * [AppImageHub](https://appimage.github.io/) or [get-appimate](https://g.srev.in/get-appimage/) - *Download AppImages / [CLI](https://zap.srev.in/)*
 * [Homebrew](https://brew.sh/) - *Package Manager*
+* [yay](https://github.com/Jguer/yay) - *AUR Helper / Pack Manager*
 * [pacwall](https://github.com/Kharacternyk/pacwall) - *Live Wallpaper that shows Dependency Graph & Status of Installed Packages* 
 * [picom](https://github.com/yshui/picom) - *X11 Compositor*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
@@ -176,6 +178,7 @@
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - *VPN Tunnel*
 * [Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html) - *Linux SSL VPN Server*
 * [Howdy](https://github.com/boltgolt/howdy) - *Linux Facial Authentication*
+* [Tomb](https://www.dyne.org/software/tomb/) - *File Encryption*
 * [SShuttle](https://github.com/sshuttle/sshuttle) - *Proxy Server*
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - *Arch Linux base with Deluge, Privoxy & OpenVPN*
 * [Spotify-Adblock](https://github.com/abba23/spotify-adblock) - *Linux Spotify Adblocker*
