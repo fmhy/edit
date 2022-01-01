@@ -329,6 +329,7 @@
 * [Anime Simple](https://ww1.animesimple.com/) - *Sub / Dub*
 * [AniWatcher](https://aniwatcher.com/) - *Sub / Dub*
 * [StreamAnimeTV](https://streamanimetv.net/) - *Sub / Dub*
+* [Anime60FPS](https://www.anime60fps.com/ ) - *Sub / Dub*
 * [AnimeFreak](https://www.animefreak.vip/) - *Sub / Dub*
 * [WCO](https://www.wco.tv/)  - *Anime / Cartoons / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wco_clones)* 
 * [Funimation](https://www.funimation.com/shows/free/) - *Sub / Dub* 
@@ -452,7 +453,8 @@
 * [USTVGO](https://ustvgo.tv/) - *TV / Sports*
 * [SamiTVHD](https://samitvhd.com/) - *TV / Sports*
 * [uStream](https://www.ustream.to/index.html) - *TV / Sports* 
-* [Stream2Watch](https://stream2watch.at/), [2](https://zap.stream2watch.sx/) - *Live TV / Sports*
+* [Stream2Watch](https://stream2watch.at/), [2](https://zap.stream2watch.sx/) - *TV / Sports*
+* [LiveTV.video](https://livetv.video/) - *TV / Sports*
 * [LM Shows](https://lmshows.se/) - *TV*
 * [TVOnline.Liveschauen](https://tvonline.liveschauen.com/) - *TV* 
 * [WwiTv](https://wwitv.com/) - *TV*
