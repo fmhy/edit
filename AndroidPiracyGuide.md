@@ -255,7 +255,7 @@
 * [sh-ort](https://sh-ort.app/) - *URL Shortener*
 * [RClone](https://github.com/x0b/rcx) - *Multi-Site Cloud Storage File Manager*
 * [Omega Launcher](https://github.com/otakuhqz/omega), [Lawnchair](https://lawnchair.app/), [NovaLauncher](https://novalauncher.com/), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [ActivityLauncher](https://github.com/butzist/ActivityLauncher), [Unlauncher](https://github.com/jkuester/unlauncher) or [Ratio](https://blloc.com/) - *App Launcher* 
-* [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) - *App Managers*
+* [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) / [2](https://www.apkmirror.com/apk/aurora-oss/warden/) - *App Managers*
 * [Microsoft Launcher](https://www.microsoft.com/en-us/launcher) - *Microsoft Homescreen*
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - *Android Power Menu Replacement*
 * [iFont](https://play.google.com/store/apps/details?id=com.kapp.ifont) - *Android Font Installer*
