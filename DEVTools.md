@@ -45,7 +45,7 @@
 * [Tuts 4 You](https://forum.tuts4you.com/) - *Coding / Developer Tutorials*
 * [PythonTutor](https://pythontutor.com/) - *Coding Tutorials*
 * [VSCodeCanDoThat](https://www.vscodecandothat.com/) - *VSCode Tutorial*
-* [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/) or [Cheat Sheets](http://www.cheat-sheets.org/) - *Programming Cheet Sheets*
+* [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - *Programming Cheat Sheets*
 * [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) - *Resources For Learning To Code* 
 * [EbookFoundation Interactive Programming Tuts](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md) - *Interactive Programming Tutorials* 
 * [Exercism](https://exercism.org/) - *Programming Lessons*
@@ -292,7 +292,7 @@
 * [HeidiSQL](https://www.heidisql.com/) - *SQL Manager*
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - *Captcha Systems*
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - *Search & Analytics Engine*
-* [Algolia](https://www.algolia.com/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/) or [FusionBot](https://www.fusionbot.com/) - *Search API*
+* [Algolia](https://www.algolia.com/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/) or [FusionBot](https://www.fusionbot.com/) - *Search API*
 * [GetButton](https://getbutton.io/) - *Get free 'Message Us' Button for your Site*
 * [cssbuttons](https://cssbuttons.io/) - *CSS Buttons*
 * [Tawk](https://www.tawk.to/) - *Website Chat & Ticketing System*
@@ -536,7 +536,7 @@
 
 * [SpyColor](https://www.spycolor.com/) - *Color Model Conversions*
 * [Colorful](https://github.com/Siddharth11/Colorful) - *Curated List of Color Scheme Resources* 
-* [Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [MyColor](https://mycolor.space/), [MaterialPalette](https://www.materialpalette.com/), [Adobe Colors](https://color.adobe.com/), [0to255](https://www.0to255.com/), [0xrgb](http://0xrgb.com/), [bootflat](https://bootflat.github.io/color-picker.html), [brandcolors](https://brandcolors.net/), [colorfulgradients](https://colorfulgradients.tumblr.com/), [colourlovers](https://www.colourlovers.com/), [webkul](https://webkul.github.io/coolhue/), [flatuicolors](https://flatuicolors.com/), [materialui](https://materialui.co/colors/), [ColorHunt](https://colorhunt.co/), [colorswall](https://colorswall.com/), [pigment](https://pigment.shapefactory.co/), [Color Palette Generator](http://www.patorjk.com/color-palette-generator/), [colourcode](https://www.toptal.com/designers/colourcode/), [colorscales](http://www.colorscales.com/), [hihayk](https://hihayk.github.io/scale/), [calcolor](https://calcolor.co/) or [Coolors](https://coolors.co/) - *Color Palette Generator*
+* [Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [MyColor](https://mycolor.space/), [MaterialPalette](https://www.materialpalette.com/), [Adobe Colors](https://color.adobe.com/), [0to255](https://www.0to255.com/), [0xrgb](http://0xrgb.com/), [bootflat](https://bootflat.github.io/color-picker.html), [brandcolors](https://brandcolors.net/), [colorfulgradients](https://colorfulgradients.tumblr.com/), [colourlovers](https://www.colourlovers.com/), [webkul](https://webkul.github.io/coolhue/), [flatuicolors](https://flatuicolors.com/), [materialui](https://materialui.co/colors/), [ColorHunt](https://colorhunt.co/), [colorswall](https://colorswall.com/), [pigment](https://pigment.shapefactory.co/), [Color Palette Generator](http://www.patorjk.com/color-palette-generator/), [colourcode](https://www.toptal.com/designers/colourcode/), [colorscales](http://www.colorscales.com/), [Color Pallete](http://www.degraeve.com/color-palette), [hihayk](https://hihayk.github.io/scale/), [calcolor](https://calcolor.co/) or [Coolors](https://coolors.co/) - *Color Palette Generator*
 * [ColorsAndFonts](https://www.colorsandfonts.com/) - *Quickly Copy Colors & Typography Combinations* 
 * [ColorHexa](https://www.colorhexa.com/) - *Color Hex Encyclopedia*  
 * [Paletton](https://paletton.com/) - *Color Scheme Designer*
