@@ -168,6 +168,7 @@
 * [lofi](https://lofi.co/) - *Ambient / Lo-fi*
 * [Ambient Mixer](https://www.ambient-mixer.com/) - *Ambient / Lo-fi* 
 * [tree.fm](https://www.tree.fm/) - *Ambient Forest Sounds*
+* [VibeOcean](https://defonic.com/vibeocean.html) - *Ambient Ocean Sounds*
 * [Calm](https://app.www.calm.com/) - *Meditation / Sleep Music* 
 * [Tide.fm](https://tide.fm/) or [Sounds4Sleep](https://sounds4sleep.com/) - *Meditation / Sleep Sounds* 
 * [ChillOuts](http://www.chillouts.com/) - *Meditation Aid*
