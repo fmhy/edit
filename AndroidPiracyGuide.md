@@ -600,6 +600,7 @@
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - *Ad Free YouTube on Android*
 * **[Movies4Discord TV](https://movies4discord.xyz/download)** - *Movies / TV / Android TV App*
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
+* [Netflix Premium](https://rentry.co/dp7gw) - *Netflix Premium Method*
 * [Arthemis](https://app.arthemis.xyz/) - *Movies / TV / Anime*
 * [HDO](https://hdo.app/) - *Movies / TV*
 * [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - *Movies / TV / Anime* 
