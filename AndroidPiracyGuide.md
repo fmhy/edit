@@ -176,6 +176,7 @@
 * [aodNotify](https://play.google.com/store/apps/details?id=com.jamworks.alwaysondisplay) - *Notification LED*
 * [AlwaysOnEdge](http://www.aoeapps.com/) - *Android Customization App*
 * [Codo Dodo](http://www.codododo.com/) - *Navigation Bar Customizer*
+* [Custom Volume Panel](https://play.google.com/store/apps/details?id=com.codingbatch.volumepanelcustomizer) - *Customize Volume Bar*
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - *Dictionary App*
 * [AutomaTag](http://automatag.com/) - *Metadata Organizer*
 * [Aves](https://github.com/deckerst/aves) - *Metadata Explorer*
