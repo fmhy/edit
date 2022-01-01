@@ -146,6 +146,7 @@
 * [WSODownloads](https://www.wsodownloads.in/) - *Courses*
 * [HackingWorld](https://in.hackingworld.best/) - *Courses*
 * [DuForum](https://duforum.in/) - *Courses*
+* [FreeTutorialsEU](https://www.freetutorialseu.com/) - *Courses*
 * [DL Course](https://dlcourse.org/) - *Courses*
 * [Free Udacity Skillshare Coursera EDX](https://t.me/Free_Udacity_Skillshare_Coursera) 
 * [AfraTafreeh](https://afratafreeh.com/) - *Courses*
@@ -169,8 +170,8 @@
 * [BestWSODownload](https://www.bestwsodownload.com/) - *WSO Courses*
 * [AirVibe](https://www.airvibe.me/) - *Udemy Courses*
 * [Udemy Courses Rentry](https://rentry.co/ecg43) - *Udemy Courses*
-* [FreeTutorialsEU](https://www.freetutorialseu.com/) - *Courses*
 * [UdemyKing](https://t.me/udemyking1 ) - *Udemy Courses*
+* [Downloadr](https://downloadr.in/) - *Udacity & Udemy Courses*
 * [Free Udemy Vedantu Courses](https://t.me/Udemy_Courses_Vedantu_Free) - *Udemy Courses*
 * [UFC Gdrive Factory!](https://telegram.me/joinchat/SSWKbEf8mVNBvgam) - *Udemy Courses*
 * [EZdemy](https://t.me/ezudemy) - *Udemy Courses*
