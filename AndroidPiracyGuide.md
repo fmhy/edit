@@ -508,7 +508,6 @@
 * [Kotatsu](https://github.com/nv95/Kotatsu) - *Manga Reader*
 * [MiMangaNu](https://github.com/raulhaag/MiMangaNu) - *Manga Reader*
 * [Neko](https://github.com/CarlosEsco/Neko) - *Manga Reader*
-* [MangaDLR](https://cyberneticlifeform.wixsite.com/cylonu87/mangadlr) - *Manga Reader*
 * [Manga Tag](https://www.mangatag.com/) - *Manga Reader*
 * [Meow](https://github.com/neverfelly/Meow) - *Manga Reader*
 * [Shosetsu](https://shosetsu.app/) - *Light Novels / [GitHub](https://github.com/ShosetsuOrg/android-app) / [Dev Builds](https://github.com/shosetsuorg/shosetsu-preview) / [Discord](https://discord.gg/ttSX7gB)* 
