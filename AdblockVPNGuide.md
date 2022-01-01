@@ -319,6 +319,7 @@
 * [I2Pd Browser](https://i2pd.website/) - *I2P Browser / [GitHub](https://github.com/PurpleI2P/i2pd)*
 * [NotBob](https://www.notbob.i2p/) - *I2P Site Index / I2P Browser Required*
 * [NothingPrivate](https://www.nothingprivate.ml/), [Device Info](https://www.deviceinfo.me/), [Privacy Test](https://privacy.net/analyzer/), [IPX](https://ipx.ac/run) , [Sploit](https://sploit.io/test.php) or [BrowserAudit](https://browseraudit.com/) - *Browser Data Leak Test*
+* [Vytal](https://vytal.io/) - *See What Your Browser Knows About You*
 * [SSL Labs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html) - *SSL/TLS Browser Capabilities Test*
 * [IP / DNS Leak Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_dns_leak_tests) - *Test for IP & DNS Leaks*
 * [DNSCookie](http://dnscookie.com/) - *Identify Related Network Flows*
