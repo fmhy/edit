@@ -22,6 +22,8 @@
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner) - *Graphics Card Overclocking Utility / FPS Benchmarking*
 * [MSI Kombustor](https://msikombustor.com/) - *GPU Benchmark Test*
 * [Overclock](https://www.overclock.net/) - *Overclocking Forum*
+* [Ryzen Master Utility](https://www.amd.com/en/technologies/ryzen-master) - *Overclocking Control for Ryzen Desktop CPU*
+* [Ryzen Controller](https://ryzencontroller.com/) - *Overclocking Software for Ryzen Laptop CPU / [AMD APU Tuning](https://github.com/JamesCJ60/AMD-APU-Tuning-Utility)*
 * [WindowedBorderlessGaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - *Borderless Windows for All Games*
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - *Play Fullscreen Only Games in Window*
 * [DisplayMagician](https://github.com/terrymacdonald/DisplayMagician) - *Per-Game Display Profiles*
