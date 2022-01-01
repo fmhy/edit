@@ -941,7 +941,7 @@ RSS Player*
 * [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - *Spotify Release Tracker / Metrics* 
 * [Boom](https://apps.apple.com/us/app/boom-bass-booster-equalizer/id1065511007) - *Audio Equalizer*
 * [HD Player](https://apps.apple.com/us/app/hs-player-flac-equalizer/id857650606) - *Audio Player*
-* [iRetro](https://apps.apple.com/us/app/iretro/id1557178995) - *iPod Classic Audio Player*
+* [iRetro](https://apps.apple.com/us/app/iretro/id1557178995) or [ClassicPlayer](https://github.com/guillermo-moran/ClassicPlayer) / [2](https://cydia.saurik.com/package/org.thebigboss.classicplayer/)- *iPod Classic Audio Player*
 * [Denim](https://apps.apple.com/us/app/denim-playlist-cover-maker/id1532250420) - *Playlist Cover Maker*
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - *Identify Playing Songs*
 * [GarageBand](https://apps.apple.com/us/app/garageband/id408709785) - *Audio Editor / Creator*
