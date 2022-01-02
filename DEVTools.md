@@ -196,6 +196,7 @@
 * [OpenCog](https://opencog.org/) - *Artificial Intelligence Framework / [GitHub](https://github.com/opencog)*
 * [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - *Machine Learning Framework*
 * [OpenML](https://www.openml.org/) - *Machine Learning Data*
+* [Kobra](https://kobra.dev/) - *Visual Programming Language for Machine Learning*
 * [Cyberbotics](https://cyberbotics.com/) - *Robot Simulator*
 * [TheDev](https://thedev.id/) or [Dev.page](https://dev.page/) - *Free Developer Homepages*
 
@@ -204,6 +205,7 @@
 ## ▷ Site Development 
 
 * **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
+* [ZeroNet](https://zeronet.io/) - *Uncensorable Sites / [/r/Zeronet](https://www.reddit.com/r/zeronet/)*
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/) - *Site Development Tools*
 * [Uncensorable Publishing](https://uncensorablepublishing.com/) - *Create Hard to Censor Sites*
@@ -243,14 +245,14 @@
 * [WebScarab](https://wiki.owasp.org/index.php/Category:OWASP_WebScarab_Project) - *HTTP / HTTPS Protocol Analysis*
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist* 
 * [Flounder](https://flounder.online/) - *Gemini Website Builder / [GitHub](https://github.com/alexwennerberg/flounder)* 
-* [GoHugo](https://gohugo.io/), [Jamstack Generators](https://jamstack.org/generators/), [Hugo](https://gohugo.io/), [Jekyll](https://jekyllrb.com/), [vveb](https://www.vvveb.com/), [Potion](https://www.potion.so/) or [8b](https://8b.com/) - *Website Creators*
+* [GoHugo](https://gohugo.io/), [SouPalt](https://soupault.app/), [Barly](https://github.com/charludo/barely), [Zola](https://www.getzola.org/), [Jamstack Generators](https://jamstack.org/generators/), [Hugo](https://gohugo.io/), [Jekyll](https://jekyllrb.com/), [vveb](https://www.vvveb.com/), [Potion](https://www.potion.so/) or [8b](https://8b.com/) - *Website Creators*
 * [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - *Webpage Editor* 
 * [Plunker](https://plnkr.co/) - *Prototype / Test Websites Ideas*
 * [WebDesignMuseum](https://www.webdesignmuseum.org/) - *Website Designs Over Time*
 * [Bootstrap](https://getbootstrap.com/) - *Mobile Site Creator / [Icons](https://github.com/twbs/icons) / [Snippets](https://bootsnipp.com/)*
 * [Brython](https://brython.info/) - *Python 3 Web Scripting Language*
 * [Sketch2Code](https://sketch2code.azurewebsites.net/) - *Convert Hand-Drawn Designs into HTML*
-* [Straw.Page](https://straw.page/), [Temper](https://temper.one/) or [Neocities](https://neocities.org/) - *Simple Site Creator*
+* [Straw.Page](https://straw.page/), [itty.bitty](https://itty.bitty.site/), [Temper](https://temper.one/) or [Neocities](https://neocities.org/) - *Simple Site Creator*
 * [LocalXpose](https://localxpose.io/) - *Reverse Proxy*
 * [BuiltWith](https://builtwith.com/) - *Find Out What Sites are Built With*
 * [Elements Envato](https://qltien.com/elements/getcode/babiato.html) or [PsdRepo](https://psdrepo.com/) - *Templates, Mockups, Logos, Video*
@@ -294,7 +296,7 @@
 * [HeidiSQL](https://www.heidisql.com/) - *SQL Manager*
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - *Captcha Systems*
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - *Search & Analytics Engine*
-* [Algolia](https://www.algolia.com/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/) or [FusionBot](https://www.fusionbot.com/) - *Search API*
+* [Algolia](https://www.algolia.com/), [TypeSense](https://typesense.org/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/) or [FusionBot](https://www.fusionbot.com/) - *Search API*
 * [GetButton](https://getbutton.io/) - *Get free 'Message Us' Button for your Site*
 * [cssbuttons](https://cssbuttons.io/) - *CSS Buttons*
 * [Tawk](https://www.tawk.to/) - *Website Chat & Ticketing System*
@@ -314,7 +316,7 @@
 * [MachineID](http://www.ionworx.com/machineid.html) - *Hardware Identifier*
 * [TrackMyBacklink](https://trackmybacklink.com/) - *Backlink Tracker*
 * [Wappalyzer](https://www.wappalyzer.com/) - *Identify Technologies on Websites* 
-* [Bubble](https://bubble.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/) or [Sktch.io](https://sktch.io/) - *Create Web Apps* 
+* [Bubble](https://bubble.io/), [WeWeb](https://www.weweb.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/) or [Sktch.io](https://sktch.io/) - *Create Web Apps* 
 * [PWABuilder](https://www.pwabuilder.com/) - *Turn Site into Progressive Web App*
 * [LightHouse](https://github.com/GoogleChrome/lighthouse) - *Web App Performance Test*
 * [Form To Chatbot](http://formtochatbot.com/) - *Convert Google Form to Chatbot*
@@ -338,7 +340,7 @@
 * [vichan](https://github.com/vichan-devel/vichan) - *Imageboard Hosting*
 * [ProBoards](https://www.proboards.com/) - *Forum & Imageboard Hosting*
 * [MyBB](http://www.mybb.com/, [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - *Forum Hosting*
-* [Media Wiki](https://www.mediawiki.org/), [xWiki](http://www.xwiki.org/xwiki/bin/view/Main/), [tWiki ](https://twiki.org/) or [DokuWiki](https://www.dokuwiki.org/dokuwiki) - *Host Free Wiki*
+* [Media Wiki](https://www.mediawiki.org/), [xWiki](http://www.xwiki.org/xwiki/bin/view/Main/), [tWiki ](https://twiki.org/), [DokuWiki](https://www.dokuwiki.org/dokuwiki), [Miraheze](https://miraheze.org/) or [Fandom](https://www.fandom.com/) - *Host Free Wiki*
 * [HumHub](https://www.humhub.org/) or [scuttlebutt](https://scuttlebutt.nz/) - *Self-Hosted Social Network*
 * [Aether](https://getaether.net/) - *P2P Ephemeral Public Communities*
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - *Private Tracker Hosting*
@@ -369,7 +371,9 @@
 
 * **[Tizen](https://www.tizen.org/)** - *Android TV App Creator*
 * [XDA](https://forum.xda-developers.com/) - *App Development Forum*
+* [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - *App Development Platform / [GitHub](https://github.com/xamarin)*
 * [Docker](https://www.docker.com/) - *Build, Manage & Run Apps in Containers / [Images](https://linuxserver.io/)*
+* [I wish there was app](https://iwishtherewas.app/) - *Get App Ideas From Twitter*
 * [Blisk](https://blisk.io/) - *Cross-Device Testing*
 * [Booster](https://github.com/didi/booster) - *Mobile App Optimization*
 * [Mobbin](https://www.mobbin.design/) - *Mobile App Design Reference Library*
@@ -384,7 +388,7 @@
 * [namae](https://namae.dev/) - *App Name Availability Check*
 * [Lich](https://github.com/line/lich) - *Android Development Libraries*
 * [androidx](https://github.com/androidx/androidx) - *Android Development Environment for Jetpack Extensions*
-* [Kodular](https://www.kodular.io/), [Flutter](https://flutter.dev/) or [Android Studio](https://developer.android.com/studio/index.html) - *Android App Creator*
+* [Kodular](https://www.kodular.io/), [AppCreator24](https://www.appcreator24.com/), [Flutter](https://flutter.dev/) or [Android Studio](https://developer.android.com/studio/index.html) - *Android App Creator*
 * [Python to APK](https://github.com/Spidy20/Python_To_APK) - *Convert Python Code to APK*
 * [GoNative](https://gonative.io/) - *Convert Websites to Mobile Apps*
 * [Shizuku](https://shizuku.rikka.app/) - *Connect Apps to APIs*
@@ -393,7 +397,7 @@
 * [PM2](https://pm2.keymetrics.io/) - *Process Manager*
 * [React95](https://react95.io/) - *Windows 95 React Components*
 * [Redex](https://fbredex.com/) - *Android Bytecode Optimizer*
-* [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/) or [LS Graphics](https://www.ls.graphics/) - *App & Site Mockups*
+* [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/) or [LS Graphics](https://www.ls.graphics/) - *App & Site Mockups*
 
 ***
 
@@ -476,8 +480,9 @@
 * [Git Explorer](https://gitexplorer.com/) - *Git Command List*
 * [GitHub Desktop](https://desktop.github.com/) - *GitHub Desktop App*
 * [GitHub.Dev](https://github.dev/) - *GitHub Web App*
-* [refined-github](https://github.com/refined-github/refined-github) - *Improve GitHub Interface*
+* [refined-github](https://github.com/refined-github/refined-github) - *Improved GitHub Interface*
 * [git.io](https://git.io/) - *GitHub URL Shortener*
+* [up-for-grabs](https://up-for-grabs.net/) - *Curated List of Tasks for New Contributes*
 * [GitHub-Userscripts](https://github.com/Mottie/GitHub-userscripts) - *GitHub Userscripts*
 * [GitKraken](https://www.gitkraken.com/) or [Sourcetree](https://www.sourcetreeapp.com/) - *Git GUI*
 * [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - *Git Terminal UI*
@@ -547,7 +552,7 @@
 * [Duo](https://duo.alexpate.uk/) - *Color Combinations*
 * [PaletteGenerator](https://palettegenerator.com/) - *Color Palette Extractor*
 * [ColorZilla](https://www.colorzilla.com/) - *Color Picker, Gradient Generator & more*
-* [Colordot](http://color.hailpixel.com/) - *Color Picker*
+* [Colordot](http://color.hailpixel.com/) or [Sorted Colors](https://enes.in/sorted-colors/) - *Color Picker*
 * [Webgradients](https://webgradients.com/) - *Gradients*
 * [uiGradients](https://uigradients.com/) - *Hex Gradients*
 * [ShaderToy](https://www.shadertoy.com/browse) - *User-Made Shaders* 
@@ -566,13 +571,13 @@
 * [Awesome Programming](https://github.com/hardikvasa/awesome-programming) - *Programming Resources* 
 * [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality/wiki) - *Software Quality Testing Tools*
 * [Node-RED](https://nodered.org/) - *Low-code programming for event-driven applications* 
-* [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/) - *Code / Text Editor / [Package Manager](https://packagecontrol.io/)* 
+* [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/) / [Docs](https://www.emacsdocs.org/), [Lite XL](https://lite-xl.github.io/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [BlueFish](http://bluefish.openoffice.nl/index.html), [KomodoEdit](https://github.com/Komodo/KomodoEdit), [TextAdept](https://foicica.com/textadept), [SpaceMacs](http://spacemacs.org/), [Notepad2](https://www.flos-freeware.ch/notepad2.html), [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/) or [Light Table](http://lighttable.com/) - *Code Editor* 
+* [Package Control](https://packagecontrol.io/)* - *Code Editor Package Manager*
 * [RegExr](https://regexr.com/) - *Learn, Build & Test RegEx* 
 * [Regex101](https://regex101.com/) - *Regex Editor / Debugger* 
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - *Creative Coding Resource Index* 
 * [Algorithm Visualizer](https://algorithm-visualizer.org/) - *Visualize Code Algorithms* 
 * [Code2Flow](https://app.code2flow.com/) or [Flowchart Generator](https://github.com/MugilanGN/Flowchart-Generator) - *Code to Flowchart Converter*
-* [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/) / [Docs](https://www.emacsdocs.org/), [Lite XL](https://lite-xl.github.io/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [Notepad2](https://www.flos-freeware.ch/notepad2.html) or [Light Table](http://lighttable.com/) - *Code Editor* 
 * [Vim Latex](http://vim-latex.sourceforge.net/) - *Latex Style Vim Editor*
 * [CarlosAG](https://www.carlosag.net/) - *Coding Tools*
 * [Telosys](http://www.telosys.org/) - *Code Generator*
@@ -646,6 +651,7 @@
 * [Code::Stats](https://codestats.net/) - *Programmer Stat Tracking*
 * [oq](https://github.com/Blacksmoke16/oq) - *Programming Language Processor*
 * [Tables Generator](https://www.tablesgenerator.com/) - *Generates Tables in Various Languages*
+* [WiredJS](https://wiredjs.github.io/designer/) - *Wireframe Designer*
 * [pueue](https://github.com/Nukesor/pueue) - *Shell Command Manager*
 * [Emojicode](https://www.emojicode.org/) - *Emoji Based Programming Language*
 * [CrystalShards](https://crystalshards.org/) - *Crystal Programming Shards*
@@ -655,6 +661,7 @@
 * [CP Editor](https://cpeditor.org/) - *Competitive Programming Code Editor*
 * [Winddown](https://github.com/schneefux/vscode-winddown) or [Sandman](https://alexanderepstein.github.io/Sandman/) - *Coding Break Reminders*
 * [ThemesElection](https://themeselection.com/) - *Programming UI Themes*
+* [Dev Fonts](https://devfonts.gafi.dev/) - *Coding Fonts*
 
 ***
 
