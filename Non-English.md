@@ -1294,6 +1294,7 @@ Portuguese
 * [Movies, Series ... in Spanish](https://redd.it/ns0y6c) - *Movies / TV*
 * [Peliculas 480p](https://t.me/cinema480p) - *Movies / Telegram* 
 * [dyndns](http://fina.dyndns.tv/) - *TV*  
+* [Descarga Cine Clasico](https://descargacineclasico.net/) - *Classical Movies*
 * [Anime-ESP](https://anime-esp.com/) - *Anime*
 * [ddl.ice](https://ddl.ice-blue.workers.dev/0:/) - *Anime*
 * [DownloadsMega](https://t.me/DownloadsMega) - *Video / Audio / Telegram* 
@@ -1335,6 +1336,10 @@ Portuguese
 * [Cliver](https://www.cliver.to/) - *Movies*
 * [Repelis24](https://repelis24.co/) - *Movies / TV*
 * [PelisForte](https://pelisforte.co/) - *Movies / TV*
+* [locopelis](https://www.locopelis.com/) - *Movies / NSFW*
+* [enlineahd](https://enlineahd.com/) - *Movies / TV*
+* [tekilaz](https://tekilaz.co/) - *Movies / TV*
+* [Descarga Cine Clasico](https://descargacineclasico.net/) - *Classical Movies*
 * [Cinemargentino](https://cinemargentino.com/) - *Movies / Documentaries*
 * [Pelis28](https://pelis28.site/) - *Movies*
 * [novelas360](https://novelas360.com/) - *TV*
