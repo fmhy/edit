@@ -359,7 +359,6 @@
 * [openScope](https://www.openscope.co/) - *Air Traffic Control Simulator* 
 * [Game a-b-street](https://github.com/a-b-street/abstreet) - *Traffic Simulation*
 * [Quarter Maester](https://quartermaester.info/) - *Interactive Game of Thrones Map* 
-* [Virtual Vist Tours](https://www.virtualvisittours.com/) - *Ireland Virtual Tours* 
 * [Wikiverse](http://wikiverse.io/) - *3D visualization of Wikipedia* 
 * [Judgey](http://playjudgey.com/) - *Judge A Book By Its Cover* 
 * [Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/) - *Things you didn't know you wanted*
@@ -533,6 +532,7 @@
 * [Google Alerts](https://www.google.com/alerts) - *News Alerts by Topics*
 * [PublicAlerts](https://google.org/publicalerts) - *Important News / Disaster Alerts*
 * [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Geeks3D](https://www.geeks3d.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
+* [Liliputing](https://liliputing.com/) - *Linux Mobile News*
 * [Latest Privacy](https://latestprivacy.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - *Privacy News*
 * [We Fight Censorship](http://3kyl4i7bfdgwelmf.onion/) - *Censorship News*
 * [Tudum](https://www.netflix.com/tudum) - *Netflix News*
@@ -880,6 +880,7 @@
 * [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](http://arcade.photonstorm.com/) - *Arcade Font Engine*
 * [Glitch](https://glitchtextgenerator.com/) - *Glitch Text Generator*
 * [Handwrite](https://github.com/cod-ed/handwrite) - *Generate Font from Handwriting*
+* [JoyPixels](https://www.joypixels.com/) - *Emoji Font Generator*
 * [MeeshDesigns](http://www.meeshdesigns.com/Western%20Fonts/) - *Font Index* 
 * [MacType](https://github.com/snowie2000/mactype/releases) - *Use Mac fonts on Windows*
 * [Picas](https://picas.vercel.app/) - *Google Font Logo Generator*
@@ -1113,6 +1114,7 @@
 * [Nicosapo](https://github.com/yurafuca/nicosapo) - *Add Features to Nico Nico*
 * [Zoom Scheduler](https://zoom.us/download#chrome_ext) - *Zoom Meeting Scheduler*
 * [Typewriter](https://chrome.google.com/webstore/detail/typewriter/jfghikfjnjkjkdpndeecjheealfoabhc) - *Typing Typewriter Sounds*
+* [Stocks House](https://chrome.google.com/webstore/detail/stocks-house/mpdkicmbmbljbgncgphonhgjebnapfop) - *Multi Site Stock Check*
 
 ## ▷ Safari
 
