@@ -820,13 +820,13 @@
 * **[Anidex](https://anidex.info/)** - *Sub / Dub*
 * **[Hi10Anime](https://hi10anime.com/)** - *Sub*
 * **[SubsPlease](https://subsplease.org/)** - *Sub*
+* **[bakabt](http://bakabt.me/)** - *Sub / Dub / [Interviews](https://wiki.bakabt.me/index.php/Sign_up)*
 * **[SeaDex](https://releases.moe/)** - *Highest Quality Anime Release Guide / [Discord](https://discord.com/invite/jPeeZewWRn)*
 * [KawAnime](https://github.com/Kylart/KawAnime) - *Anime Streaming App / [Discord](https://discord.com/invite/sdArN2Z)* 
 * [TokyoTosho](https://www.tokyotosho.info/) - *Sub*
 * [AnimeTosho](https://animetosho.org/) - *Sub / Dub / [Scraper](https://github.com/c032/go-animetosho)*
 * [Anirena](https://www.anirena.com/) - *Sub / Dub*
 * [ShanaProject](https://www.shanaproject.com/) - *Sub*
-* [bakabt](http://bakabt.me/) - *Sub / Dub / [Interviews](https://wiki.bakabt.me/index.php/Sign_up)*
 * [Hakata Ramen](https://discord.gg/4teAREmqdQ) - *Sub*
 * [SSAnime](https://ssanime.ga/) - *Sub*
 * [DameDesuYo](https://damedesuyo.com/) - *Sub* 
