@@ -45,9 +45,6 @@
 * [Volmarg](https://volmarg.github.io/) - *Personal Management Tool*
 * [Taskwarrior](https://taskwarrior.org/) - *To-Do List CLI*
 * [Focalboard](https://www.focalboard.com/) - *Project Management Tool*
-* [Slab](https://slab.com/) - *Organization & Team Management Tool*
-* [Doozy](https://doozy.live/) - *Team Management Tools / Games*
-* [PHPCRM](https://www.phpcrm.com/) - *Company Management Software*
 * [Creative Commons](https://creativecommons.org/) - *Creative Commons Licenses*
 * [ievaphone](https://ievaphone.com/), [blacktel](https://www.blacktel.io/), [Citrustel](https://www.citrustel.com/) or [PopTox](https://www.poptox.com/) - *Make Free Phone Calls*
 * [Free-lookup](https://www.free-lookup.net/) - *Phone # Lookup*
@@ -92,7 +89,7 @@
 * [HLDMSIYS?](http://howlongdoesmarijuanastayinyoursystem.net/) - *Drug Effect Duration / Testing Information*
 * [Stolen Camera Finder](https://www.stolencamerafinder.com/) - *Find Stolen Cameras* 
 * [Sweet Home 3D](http://www.sweethome3d.com/) - *Interior Design App*
-* [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit) or [Slides](https://slides.com/) - *Presentation Utility / Zoom Tool*
+* [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Carnac](http://code52.org/carnac/) or [Slides](https://slides.com/) - *Presentation Platform*
 * [Slides](http://maaslalani.com/slides/) - *Terminal Presentation Tool / [GitHub](https://github.com/maaslalani/slides)*
 * [SlidesGo](https://slidesgo.com/), [SlideShareDownloader](https://slidesharedownloader.ngelmat.net/), [PresentationGO](https://www.presentationgo.com/), [ensa.io](https://ensa.io/) or [ThePOPP](https://thepopp.com/) - *Presentation Templates* 
 * [TemplateMaker](https://www.templatemaker.nl/ ) - *Package & Box Templates*
@@ -134,6 +131,7 @@
 * [Plain Text Table](https://plaintexttools.github.io/plain-text-table/) - *Text Tables*
 * [Read File Online](http://www.readfileonline.com/) - *Online Large Text File Viewer*
 * [Office Search](http://www.enselsoftware.com/product/OfficeSearch.html) - *Multi-File Text Search*
+* [ConvertText](https://converttext.io/) - *Text Converter*
 * [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - *Rephrase / Paraphrase Text* 
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - *Detect Plagiarized Content*
 * [Cliche Finder](http://cliche.theinfo.org/) - *Detect Cliches*
@@ -185,7 +183,7 @@
 * [R2bEEaton's Phonetic Reverser](https://spea.cc/backwards/) - *Sentence / Word Reverser* 
 * [I or l?](https://iorl.info/) - *Is it an uppercase "i", or is it a lowercase "L"?*
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - *Recursive Search Tool*
-* [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/) or [Cool Symbol](https://coolsymbol.com/) - *Copy & Paste Unicode Symbols*
+* [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/) or [Cool Symbol](https://coolsymbol.com/) - *Copy & Paste Unicode Characters*
 * [Donger List](http://dongerlist.com/) - *600+ Unicode Emoticons* 
 * [taag](http://patorjk.com/software/taag/) - *ASCII Text Generator*
 * [ASCII Art Creator](https://github.com/CherryPill/ASCII-art-creator) or [ASCII Today](https://ascii.today/) - *ASCII Art Generator*
@@ -298,7 +296,7 @@
 * [VidCoder](https://vidcoder.net/) - *DVD / Blu-Ray Ripping*
 * [DVDFab](https://www.dvdfab.cn/free.htm) - *Free DVD Related Programs* 
 * [h265ize](https://github.com/FallingSnow/h265ize) - *HEVC Encoder / [Enhanced](https://github.com/alextrv/enhanced-h264ify)* 
-* [Unscreen](https://www.unscreen.com/) - *Remove Video Background* 
+* [Unscreen](https://www.unscreen.com/), [Remove Video Background](https://socialbook.io/remove-video-background) or [Remove Video BG](https://bgrem.deelvin.com/remove_video_bg/) - *Remove Video Background* 
 * [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - *Steam Movie-Making Tool*
 * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5) 
 * [zeroTube](http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb) - *Decentralized Video Platform on ZeroNet using WebTorrent + [GitHub](https://github.com/rllola/zeroTube/)*
@@ -309,6 +307,7 @@
 * [polsy.org.uk](http://polsy.org.uk/) - *Alt Players for Video Sites*  
 * [After Effects Templates](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_after_effects_templates) - *Download After Effect Templates*
 * [FootageCrate](https://footagecrate.com/), [MATESFX](https://www.freevideoeffect.com/), [FreeVideoEffect](https://freevideoeffect.com/), [IntroHD](https://www.introhd.net/) or [VFXDownload](https://www.vfxdownload.net/) - *Video Effects*
+* [Rollideo](https://rollideo.com/) - *Text to Speech / Subtitles*
 * [video2x](https://github.com/k4yt3x/video2x) - *Video Upscaler*
 * [Anime4K](https://github.com/bloc97/Anime4K) - *Anime Video Upscaler* 
 * [Video Vault](https://www.bravenewtech.org/) - *Video Preservation Tool* 
@@ -349,7 +348,7 @@
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - *Professional Video, Audio & Adobe Software / Plugins*
 * [Audio Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_plugins) - *VST Plugins* 
 * [Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sfx_.2F_loops) - *SFX & Loops*
-* [rFXGen](https://raylibtech.itch.io/rfxgen) - *Sounds FX Generator *
+* [rFXGen](https://raylibtech.itch.io/rfxgen) or [SFXR](https://sfxr.me/) - *Sounds Effects Generator *
 * [TheAudioScene](https://theaudioscene.net/) - *Daws / VSTi / Samples / Presets* 
 * [Fresh Stuff For You](https://freshstuff4you.com/) - *Daws / Samples / Presets*
 * [Go Audi0](https://goaudio.me/) - *Audio Samples*
@@ -430,13 +429,12 @@
 * [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/) or [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Online Audio Recorder* 
 * [MP3Smaller](https://www.mp3smaller.com/) - *MP3 Compressor* 
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts* 
-* [lalal.ai](https://www.lalal.ai/) - *Split Vocal and Instrumental Tracks from music* 
+* [lalal.ai](https://www.lalal.ai/), [Flacon](https://flacon.github.io/) or [SongDonkey](https://songdonkey.ai/) - *Audio Track Splitter* 
 * [Get Song BPM](https://getsongbpm.com/) - *Song Tempo Database*
 * [MusicSpeedChanger](https://musicspeedchanger.com/) - *Music Speed Changer*
 * [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) - *Musical Chord Progression* 
 * [beets.io](http://beets.io/) / [2](https://github.com/beetbox/beets), [Zortam](https://www.zortam.com/), [MP3Tag](https://www.mp3tag.de/en/), [MusicBee](https://getmusicbee.com/) or [MusicBrainz](https://picard.musicbrainz.org/) - *Music Metadata Organizer*
 * [Mooval](https://www.mooval.de/) - *Move Songs to or from Programs / Sites*
-* [Flacon](https://flacon.github.io/) - *Audio Track Splitter* 
 * [Croosfade](https://crossfade.io/) - *Video and Audio Crossfading*
 * [ZzFXM](https://keithclark.github.io/ZzFXM/) - *JavaScript Music Renderer* 
 * [YADG](https://yadg.cc/) - *Scrape / Render Music via Templates / [API](https://yadg.cc/api/)*
@@ -503,6 +501,8 @@
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - *Cloud Career Training*
 * [learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - *Cloud Computing Fundamentals*
 * [Candor](https://candor.co/hiring-freezes/) - *Hiring Freezes*
+* [Doozy](https://doozy.live/), [Slab](https://slab.com/) or [TipiCalls](https://tipicalls.com/) - *Collaboration Platform*
+* [PHPCRM](https://www.phpcrm.com/) - *Company Management Software*
 * [Kimai](https://www.kimai.org/) - *Working Hours Tracker*
 * [Zeoob](https://zeoob.com/) - *Social Media Digital Marketing Post Simulator*
 * [ConvertMenu](https://convertmenu.com/) - *Convert Menu to QR Codes*
@@ -562,7 +562,8 @@
 * [SocialBlade](https://socialblade.com/) - *Social Media Statistics*
 * [4stats](https://4stats.io/) - *4chan Board & Thread Stats*
 * [Emotes Everywhere](https://kellphy.com/projects/kee.html) or [Geniemoji](https://virejdasani.github.io/Geniemoji/) - *Emoji Manager*
-* [Emojipedia](https://emojipedia.org/) - *Emoji Index*
+* [Emojipedia](https://emojipedia.org/) or [GetEmoji](https://getemoji.com/) - *Emoji Index*
+* [EmojiRequests](https://emojirequest.com/) - *Custom User-Made Emojis*
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - *Party Parrot Emojis*
 * [you-get](https://github.com/soimort/you-get) - *Download Media Contents from Webpages* 
 * [Got Your Back](https://github.com/jay0lee/got-your-back) - *Backup Gmail Messages* 
@@ -618,7 +619,7 @@
 * [Email Valid](https://ivit.pro/services/email-valid/) or [Ychecker](https://ychecker.com/) - *Check Email Validity & Usage*
 * [Useplaintext](https://useplaintext.email/) - *How-To Use plaintext Email* 
 * [Briskine](https://www.briskine.com/) - *Email Templates*
-* [Signature Maker](https://signature-maker.net/) - *Digital / Email Signature Maker* 
+* [Signature Maker](https://signature-maker.net/) or [Email Signature Creator](https://kilobytetech.com/tools/email-signature-creator/) - *Email Signature Creator* 
 * [Yandex Account Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - *Create Infinite Yandex Accounts*
 * [Gmail Dot Trick Generator](https://thebot.net/api/gmail/) - *Generate Unlimited Gmail Accounts via the Dot Trick*
 * [Delete Junk Email](https://gist.github.com/viperadnan-git/fcb0ecda32de0b9a27ec03829a7c12e8) - *Bulk Gmail Junk Deleter*
@@ -627,11 +628,10 @@
 * [Indirect](https://www.microsoft.com/en-us/p/indirect/9phw4kj8jvnz) - *Instagram Desktop Messenger*
 * [Caprine](https://sindresorhus.com/caprine/) - *Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)* 
 * [SentRanker](https://sentranker.com/) - *Social Media Sentiment Scanner*
-* [ZeroNet](https://zeronet.io/) - *Uncensorable Sites / [/r/Zeronet](https://www.reddit.com/r/zeronet/)*
+* [SocialBanner](https://www.social-banner.live/) - *Social Media Banner Creator*
 * [Hamachi](https://vpn.net/) - *VPN / LAN Emulator*
-* [itty.bitty](https://itty.bitty.site/) - *Host Small HTML Sites / Apps* 
-* [Miraheze](https://miraheze.org/) or [Fandom](https://www.fandom.com/) - *Free Wiki Hosting* 
 * [WikiStalk](https://github.com/altilunium/wistalk) - *Analyze Wikipedia User's Activity*
+* [InspectContent](https://inspectcontent.com/) - *Site Keyword Inspector*
 * [Ichi](https://ichi.city), [Linktree](https://linktr.ee/), [MyURLs](https://myurls.co/), [Carrd](https://carrd.co/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/) or [ContactInBio](https://www.contactinbio.com/) - *Personal Link Homepages* 
 * [Integrated Inbox](https://integratedinbox.com/) - *Gmail Google Web App Integration*
 * [Namechk](https://namechk.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Check Username / Domain Availability*
@@ -694,7 +694,7 @@
 * [Ghost Browser](https://ghostbrowser.com/) - *Multi-Session Browser*
 * [woob](https://woob.tech/) - *Use Sites Without a Browser*
 * [Lagrange](https://github.com/skyjake/lagrange)  - *Gemini Browser*
-* [StockBrowser](https://stackbrowser.com/) or [Tangram](https://github.com/sonnyp/Tangram) - *Web App Browser*
+* [StockBrowser](https://stackbrowser.com/), [Rambox](https://rambox.app/) or [Tangram](https://github.com/sonnyp/Tangram) - *Web App Browser*
 * [Browserling](https://www.browserling.com/) - *Browser Emulators*
 * [n.eko](https://n.eko.moe/) - *Self-Hosted Virtual Browser*
 * [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - *Chrome without Google*
@@ -745,7 +745,7 @@ General Reading Sites*
 * [Jumps](https://jumps.io/) - *Site Quick Search*
 * [Soovle](https://soovle.com/) or [Keyword Tool](https://keywordtool.io/) - *Popular Keyword Generator*
 * [Esteroids](https://esteroids.eth.limo/#) - *Decentralized Web Search Engine*
-* [Social-Searcher](https://www.social-searcher.com/) or [Social Mention](http://socialmention.com/) - *Social Media Search Engine*  
+* [Social-Searcher](https://www.social-searcher.com/), [HashFinder](https://www.hashfinder.xyz/) or [Social Mention](http://socialmention.com/) - *Social Media Search Engine*  
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - *Forum Search Engine* 
 * [Blog Search Engine](http://www.blogsearchengine.org/), [Blog-Search](https://www.blog-search.com/), [BlogErnity](http://www.bloggernity.com/) or [SearchBlogspot](https://www.searchblogspot.com/) - *Blog Search*
 * [4chanSearch](https://4chansearch.com/) - *4chan Search*
@@ -1228,6 +1228,7 @@ General Reading Sites*
 * [Twishort](https://twishort.com/) - *Make Longer Tweets*
 * [Poet.so](https://poet.so/) - *Create Twitter Post Images*
 * [Tweetgen](https://www.tweetgen.com/) - *Create Fake Tweets*
+* [THS](https://xscoder.com/ths/) - *Twitter Header Maker*
 * [Thread Reader App](https://threadreaderapp.com/) - *Unroll Twitter Threads / Search* 
 * [Treeverse](https://treeverse.app/) - *Twitter Conversation Visualizer* 
 * [Trends Map](https://www.trendsmap.com/), [Twitter Trends](https://twitter-trends.vercel.app/) or [MentionMap](https://mentionmapp.com/) - *Trending Twitter Hashtags / Topics*
@@ -1251,7 +1252,7 @@ General Reading Sites*
 * [Twitter Intelligence](https://github.com/batuhaniskr/twitter-intelligence) - *Python Twitter Tracking & Analysis Tool*
 * [TweetTopicExplorer](http://tweettopicexplorer.neoformix.com/) - *See a Users Most Common Words* 
 * [Twayback Machine](http://staringispolite.github.io/twayback-machine/) - *View a Users Old Tweets* 
-* [PolitWoops](https://politwoops.com/countries) - *Deleted tweets from politicians* 
+* [PolitWoops](https://politwoops.com/countries) - *Deleted Tweets from Politicians* 
 * [Hoaxy](https://hoaxy.osome.iu.edu/) - *Twitter Info Spread Data*
 * [Tweets Analyzer](https://github.com/x0rz/tweets_analyzer) - *Tweet Metadata Scraper* 
 * [GeoSocial Footprint](http://geosocialfootprint.com/) or [tinfoleak](https://tinfoleak.com/) - *View Your Geosocial Footprint* 
@@ -1450,7 +1451,6 @@ General Reading Sites*
 * [Menu11](https://github.com/prateekmedia/Menu11) - *Windows 11 Style Launcher*
 * [NeatMouse](https://neatdecisions.com/products/neatmouse/) - *Mouse / Keyboard Emulator*
 * [WinCompose](http://wincompose.info/) - *Windows Special Character Compose Key / [GitHub](https://github.com/samhocevar/wincompose)*
-* [Carnac](http://code52.org/carnac/) - *Presentation Utility / Keyboard Logger*
 * [Plover](https://www.openstenoproject.org/plover/) - *Stenography Engine / [GitHub](https://github.com/openstenoproject/plover) / [Discord](https://discord.gg/NAzMz7C3wq)*
 * [Deskreen](http://deskreen.com/) - *Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen)* 
 * [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - *Control Multiple PC's via One Mouse / Keyboard*
@@ -1501,7 +1501,7 @@ General Reading Sites*
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/) or [MobaXterm](https://mobaxterm.mobatek.net/) - *Alternative Terminal* 
 * [ss64](https://ss64.com/) - *Command Line Reference Index*
 * [ZimTools](https://zimtools.xyz/) - *Command Line Tool Configs*
-* [Alacritty](https://github.com/alacritty/alacritty), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://eugeny.github.io/tabby/) or [Terminus](https://github.com/Eugeny/terminus) - *Terminal Emulator*
+* [Alacritty](https://github.com/alacritty/alacritty), [yakuake](https://apps.kde.org/yakuake/), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://eugeny.github.io/tabby/) or [Terminus](https://github.com/Eugeny/terminus) - *Terminal Emulator*
 * [XTerm](https://invisible-island.net/xterm/) - *X Window System Terminal Emulator*
 * [Mintty](http://mintty.github.io/) - *Cygwin Terminal Emulator* 
 * [eDEX-UI](https://github.com/GitSquared/edex-ui) - *Sci-Fi Terminal Emulator / System Monitor*
@@ -1640,13 +1640,14 @@ General Reading Sites*
 * [Tmp.Ninja](https://tmp.ninja/) - *Temp File Host (48hrs)*
 * [ozzillate](https://www.ozzillate.com/) - *Transfer Files via Sound*
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - *How-to Safely Archive Files on Cloud Storage Sites*
-* [TCPDF](https://tcpdf.org/) - *PDF Generator / [Github](https://github.com/tecnickcom/tcpdf)* 
+* [TCPDF](https://tcpdf.org/) / [Git](https://github.com/tecnickcom/tcpdf) or [CrownPDF](https://www.crownpdf.com/) - *PDF Creator* 
 * [PDF Host](https://pdfhost.io/) - *Upload, Store and Share PDF Files* 
 * [PDFx](https://www.metachris.com/pdfx/) or [Tabula](https://tabula.technology/) - *Extract Info / URLs from PDF* 
-* [online2pdf](https://online2pdf.com/) - *Convert files to PDF*
-* [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/) - *Convert PDF Files* 
+* [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - *Convert Files to PDF*
+* [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/) - *PDF File Convters* 
 * [Adobe Compress PDF](https://www.adobe.com/acrobat/online/compress-pdf.html) - *PDF Compressor*
-* [Adobe Word Converter](https://www.adobe.com/acrobat/online/word-to-pdf.html) - *Convert Word Files to PDF*
+* [Adobe Word Converter](https://www.adobe.com/acrobat/online/word-to-pdf.html) - *Word to PDF Converter*
+* [VancedPDF](https://vancepdf.com/) - *PDF to Word Converter*
 * [Adobe Excel to PDF](https://www.adobe.com/acrobat/online/excel-to-pdf.html) - *Convert Excel Files to PDF*
 * [JPG-to-PDF](https://github.com/praneetk2704/JPG-to-PDF) [Images to PDF](https://github.com/Swati4star/Images-to-PDF), [JPG2PDFBot](https://t.me/JPG2PDFBot), [Adobe Converter](https://www.adobe.com/acrobat/online/jpg-to-pdf.html) or [img2pdf](https://pypi.org/project/img2pdf/) - *Image to PDF Converter*
 * [PDFmyURL](https://pdfmyurl.com/) - *Convert Web Page to PDF* 
