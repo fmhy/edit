@@ -1274,6 +1274,7 @@ Portuguese
 * [jogos10](http://www.jogos10.com/) or [Minijuegos](https://www.minijuegos.com/) - *Browser Games*
 * [EmojiTool](https://emojitool.com/) - *Emoji Database*
 * [Catflix](https://www.championcat.cl/catflix/) - *Cats!*
+* [Aprender Gratis](https://aprendergratis.es/) - *Spanish / File Tools*
 * [elblogdelnarco](https://elblogdelnarco.com/) - *Drug Trafficking News*
 
 ## ▷ Downloading
