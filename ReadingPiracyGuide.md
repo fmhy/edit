@@ -284,9 +284,10 @@
 * [Spirituality Megadrive](https://mega.nz/#F!kd9h1A6Y!1waeMtxUpksB9eQsws0Zcg) 
 * [IAPSOP](http://iapsop.com/) - *Spiritualist / Occult Periodicals* 
 * [Mythology.net](https://mythology.net/) - *Mythology / Religion*
-* [Beyond Weird](https://www.beyondweird.com/) - *Assorted Documents / Witchcraft / Conspiracies*
+* [Beyond Weird](https://www.beyondweird.com/) - *Witchcraft / Conspiracies*
 * [Archive](https://drive.google.com/drive/folders/1UNPHhBJNOUB0c-gFi9toSqirPSi4W99R) - *Conspiracy / Occult / Metaphysics*
 * [Dhushara Research](http://www.dhushara.com/index.htm) - *Metaphysics / Conspiracies / Psychedelics*
+* [chadnet](https://wiki.chadnet.org/) - *Conspiracies*
 * [CraftStuff](https://drive.google.com/drive/u/0/mobile/folders/1BurmAyZ-iEpDARXawyeYmwD2MGHrw4l6?usp=sharing) - *Witchcraft*
 * [Witchcraft Library](https://docs.google.com/document/d/1sVSqjxTDykRaFEsuing9oOo8zk8KFHDU5jD3k-sHWe4/) - *Witchcraft / Pagan*
 * [Public Witchcraft Library](https://drive.google.com/drive/folders/1GiMpMOxPnxgcgXn8upkxRqTDRmAiep3y) - *Witchcraft / Paganism / Satanism*
