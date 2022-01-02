@@ -52,7 +52,6 @@
 * [LibreDNS](https://libredns.gr/) - *DNS Adblocking*
 * [Diversion](https://diversion.ch/) - *DNS Adblocking*
 * [DNS Watch](https://dns.watch/) - *DNS Adblocking*
-* [BhanUpratpys](https://github.com/bhanupratapys/dnswarden) - *DNS Adblocking*
 * [Quad9](https://quad9.net/) - *Malware, Phishing, Spyware & Botnet DNS Protection*
 * [Stubby](https://github.com/getdnsapi/stubby) - *DNS Stub Resolver*
 * [NextDNS](https://nextdns.io) - *DNS Adblocking / [Enhancement](https://greasyfork.org/en/scripts/408934-nx-enhanced) / [Leak Warning](https://redd.it/jt28e8)*
