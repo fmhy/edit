@@ -18,7 +18,7 @@
 * [Blokada](https://blokada.org/) - *Adblocking App*
 * [AdAway](https://adaway.org/) - *Adblocking App / [GitHub](https://github.com/AdAway/AdAway)*
 * [ad-free](https://abertschi.github.io/ad-free/landing/) - *Adblocking App*
-* [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [F-Droid](https://f-droid.org/packages/dnsfilter.android), [DNSfilter](https://f-droid.org/en/packages/dnsfilter.android/), [Rethink](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists), [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), [2](https://jak-linux.org/projects/dns66/) / [GitHub](https://github.com/julian-klode/dns66) or [Pi-Droid](https://f-droid.org/en/packages/friimaind.piholedroid/)  - *DNS Adblocker* 
+* [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [F-Droid](https://f-droid.org/packages/dnsfilter.android), [DNSfilter](https://f-droid.org/en/packages/dnsfilter.android/), [Rethink](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists), [BhanUpratpys](https://github.com/bhanupratapys/dnswarden), [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), [2](https://jak-linux.org/projects/dns66/) / [GitHub](https://github.com/julian-klode/dns66) or [Pi-Droid](https://f-droid.org/en/packages/friimaind.piholedroid/)  - *DNS Adblocker* 
 * [Daedalus](https://play.google.com/store/apps/details?id=org.itxtech.daedalus) or [Nebulo](https://git.frostnerd.com/PublicAndroidApps/smokescreen/-/blob/master/README.md) - *DNS Modifier*
 * [Twidere](https://github.com/TwidereProject/Twidere-Android) - *Ad-Free Twitter App*
 * [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - *Adblock Filters* 
@@ -206,7 +206,7 @@
 * [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) - *Feature-rich Facebook Client*
 * [Frost](https://f-droid.org/en/packages/com.pitchedapps.frost/) or [SlimFacebook](https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook/) - *Facebook Webwrapper*
 * [SlimTwitter](https://f-droid.org/en/packages/it.rignanese.leo.slimtwitter/) - *Twitter Webwrapper*
-* [Shitter](https://github.com/nuclearfog/Shitter) - *Lightweight Twitter App*
+* [Shitter](https://github.com/nuclearfog/Shitter) or [Harpy](https://play.google.com/store/apps/details?id=com.robertodoering.harpy.free) - *Twitter App*
 * [Google Lens](https://lens.google/) - *Multiple Camera Tools*
 * [Gallery](https://www.simplemobiletools.com/gallery) - *Photo Gallery*
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) or [Camator](https://gcamator.com/) - *Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/)*
@@ -240,6 +240,7 @@
 * [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - *Track Github User Activity*
 * [BlueClover](https://github.com/nnuudev/BlueClover) - *4Chan Browser*
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - *Easily Open Links in Text via Share Function*
+* [URLApp](https://urlgapp.com/) - *Convert Sites to Android Apps*
 * [Ponydroid](https://forum.mobilism.org/search.php?keywords=ponydroid&amp;sr=topics&amp;sf=titleonly), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - *Download File Manager / [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)*
 * [File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools) - *Tools to Share / Sync Files*
 * [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) - *Send Files to Android TV*
@@ -584,7 +585,7 @@
 
 ## ▷ Android Relaxation
 
-* [Rainy Mood](https://play.google.com/store/apps/details?id=com.TailoredMusic.RainyMood), [Raining.fm](https://play.google.com/store/apps/details?id=fm.raining.rainingfm&amp;hl=en) or [RainySounds](https://rainysounds.online/) - *Ambient Rain*
+* [Rainy Mood](https://play.google.com/store/apps/details?id=com.TailoredMusic.RainyMood), [Raining.fm](https://play.google.com/store/apps/details?id=fm.raining.rainingfm&amp;hl=en), [Rain Sounds](https://sleeprelaxapps.github.io/rainsounds/) or [RainySounds](https://rainysounds.online/) - *Ambient Rain*
 * [Noizio](https://play.google.com/store/apps/details?id=com.noizio&amp;hl=en_US) - *Nature Sounds / Relaxation* 
 * [A Soft Murmur](https://play.google.com/store/apps/details?id=com.gabemart.asoftmurmur) - *Mix ambient sounds*
 * [Tide.fm](https://pics.tide.moreless.io/site/tide.apk) - *Meditation / Sleep Sounds* 
@@ -756,6 +757,7 @@ RSS Player*
 * [Naka AdBlocker](https://apps.apple.com/ca/app/naka-adblocker/id1525185489) - *DNS Adblocker* 
 * [NextDNS](https://apps.apple.com/ca/app/nextdns/id1463342498) - *DNS Adblocker (No fake VPN)*
 * [MobileAdsBlock](https://gitlab.com/Shub_/mobile-ads-block/-/raw/master/list) - *Ad / Tracker filter*
+* [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - *Video Browser w/Adblock*
 * [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - *Skip YouTube Sponsorships* 
 * [Tweebot 6](https://apps.apple.com/us/app/tweetbot-6-for-twitter/id1527500834) - *Ad-Free Twitter*
 * [Should I Answer?](http://www.shouldianswer.net/) or [Hiya](https://www.hiya.com/) - *Block Spam Calls*
@@ -933,7 +935,6 @@ RSS Player*
 * [Pandolife](https://repo.hackyouriphone.org/pandolife) - *Streaming / Modded Pandora*
 * [iMusic](https://apps.apple.com/us/app/imusic-offline-music-player/id1535124961) - *Streaming*
 * [Audiomack](https://apps.apple.com/ca/app/audiomack-download-new-music/id921765888) - *Streaming* 
-* [VOX](https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494) - *Streaming*
 * [Quorus](https://quorus.net/) - *Collaborative Playlists* 
 * [humit](https://www.humit.app/) - *Music Sharing App*
 * [Qello](https://apps.apple.com/us/app/qello-concerts-live-music/id491069819) - *Concerts & Live Music Streaming*
@@ -942,7 +943,7 @@ RSS Player*
 * [MP3 Converter](https://apps.apple.com/us/app/mp3-converter-audio-extractor/id1305099161) or [MyMP3](https://apps.apple.com/us/app/mymp3-convert-videos-to-mp3-and-best-music-player/id834818663) - *Video to MP3 Converter*
 * [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - *Spotify Release Tracker / Metrics* 
 * [Boom](https://apps.apple.com/us/app/boom-bass-booster-equalizer/id1065511007) - *Audio Equalizer*
-* [HD Player](https://apps.apple.com/us/app/hs-player-flac-equalizer/id857650606) - *Audio Player*
+* [VOX](https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494) or [HD Player](https://apps.apple.com/us/app/hs-player-flac-equalizer/id857650606) - *Audio Player*
 * [iRetro](https://apps.apple.com/us/app/iretro/id1557178995) or [ClassicPlayer](https://github.com/guillermo-moran/ClassicPlayer) / [2](https://cydia.saurik.com/package/org.thebigboss.classicplayer/)- *iPod Classic Audio Player*
 * [Denim](https://apps.apple.com/us/app/denim-playlist-cover-maker/id1532250420) - *Playlist Cover Maker*
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - *Identify Playing Songs*
@@ -977,6 +978,7 @@ RSS Player*
 # ► iOS Streaming
 
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
+* [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - *Video Browser w/Adblock*
 * [Pomly](https://apps.apple.com/us/app/pomly/id1584615881) - *Movies / Code: 777*
 * [Rivoto](https://apps.apple.com/ca/app/rivoto/id1585337990 ) - *Movies / TV / Code: 777*
 * [Wodfix](https://apps.apple.com/us/app/wodfix/id1586971587) - *Movies / TV / Code: 777*
@@ -1020,8 +1022,9 @@ RSS Player*
 
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - *Get a VPN before torrenting*
 * [iTransmission](https://iosninja.io/ipa-library/download-itransmission-ipa-ios) - *Torrent Client*
-* [iTorrent](https://github.com/XITRIX/iTorrent) - *Torrent Client*
+* [iTorrent](https://github.com/XITRIX/iTorrent) or [Torrentula](http://cydia.saurik.com/package/com.ichanti.torrentula/) - *Torrent Client*
 * [nzbUnity](https://nzbunity.dozenzb.com/) - *Torrent Manager*
+* [BarMagnet](https://github.com/Qata/BarMagnet) - *Remote Torrent Interface for Legacy Devices*
 
 ***
 
