@@ -244,6 +244,7 @@
 * [OptiFine Alternatives](https://lambdaurora.dev/optifine_alternatives/) - *Minecraft OptiFine Alternatives for Fabric*
 * [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - *Minecraft Utility Mod*
 * [Cubical](https://www.cubical.xyz/) - *Minecraft Schematic Tool*
+* [ReplayMod](https://replaymod.com/) - *Record Minecraft Game Sessions / [GitHub](https://github.com/ReplayMod/ReplayMod)*
 * [Villager Trading Cheatsheet](https://i.imgur.com/vCpAxmD.png)
 * [Free Minecraft Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_servers) - *Host Free Minecraft Servers*
 * [GeyserMC](https://geysermc.org/) - *Join Minecraft Java Servers with Bedrock Client / [Consoles](https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles)* 
