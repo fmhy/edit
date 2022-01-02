@@ -752,7 +752,6 @@
 * [manyame](https://github.com/asakura42/manyame/) - *IRC Anime Download Script* 
 * [Anime DL](https://archive.org/details/animedl4.0_202004) - *Stream & Download Anime in VLC*
 * [Crunchyroll.dl](https://github.com/Sakurai07/Crunchyroll.dl), [Crunchyroll Downloader NX](https://github.com/anidl/crunchyroll-downloader-nx) or [Crunchyroll Downloader](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - *Non-Prem Crunchyroll Downloaders* 
-* [SeaDex](https://releases.moe/ ) - *Highest Quality Anime Release Guide / [Discord](https://discord.com/invite/jPeeZewWRn)*
 
 ***
 
@@ -821,6 +820,7 @@
 * **[Anidex](https://anidex.info/)** - *Sub / Dub*
 * **[Hi10Anime](https://hi10anime.com/)** - *Sub*
 * **[SubsPlease](https://subsplease.org/)** - *Sub*
+* **[SeaDex](https://releases.moe/)** - *Highest Quality Anime Release Guide / [Discord](https://discord.com/invite/jPeeZewWRn)*
 * [KawAnime](https://github.com/Kylart/KawAnime) - *Anime Streaming App / [Discord](https://discord.com/invite/sdArN2Z)* 
 * [TokyoTosho](https://www.tokyotosho.info/) - *Sub*
 * [AnimeTosho](https://animetosho.org/) - *Sub / Dub / [Scraper](https://github.com/c032/go-animetosho)*
