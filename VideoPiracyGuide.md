@@ -284,7 +284,7 @@
 * [RyuAnime](https://ryuani.me/) - *Sub / Dub*
 * [Genoanime](https://genoanime.com/) - *Sub / Dub* 
 * [Just Dubs](http://justdubs.org/) - *Dub*
-* [Gogo-Stream](https://streamani.net/),  [2](https://gogoanime.vc/), [3](https://animekeyo.com/) - *Sub / Dub*
+* [Streamani](https://streamani.net/),  [2](https://www2.gogoanime.cm/), [3](https://animekeyo.com/) - *Sub / Dub*
 * [Dubbed Anime](https://ww5.dubbedanime.net/) - *Sub / Dub*
 * [AnimeShow](https://www2.animeshow.tv/) - *Sub*
 * [AnimeNana](https://animenana.com/) - *Sub*
