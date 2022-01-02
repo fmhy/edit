@@ -58,9 +58,8 @@
 * [musopen](https://musopen.org/music/) - *Classical*
 * [Bandcamp](https://bandcamp.com/tag/free-music?tab=all_releases) - *Free Bandcamp Music* 
 * [Audius](https://audius.co/) - *User Made Music Platform*
-* [GetFVid](https://www.getfvid.com/) - *Facebook Video / Audio Downloader* 
 * [AudionautiX](https://audionautix.com/) - *Mood based streaming*
-* [Khinsider](https://downloads.khinsider.com/), [Cirrus Retro](https://cirrusretro.com/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
+* [Khinsider](https://downloads.khinsider.com/), [Damon's Game Soundtracks](https://drive.google.com/drive/folders/1TJyPoYEgQjESnwwY-SjWclrPVeXLlV1x?usp=sharing), [Cirrus Retro](https://cirrusretro.com/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
 * [NSF j](http://nsf.nesbbs.com/) - *NES Game Music*
 * [OtakuPlay](https://otakuplay.moe/) - *Anime Soundtracks / [Discord](https://discord.gg/yCXJkbdCHt)*
 * [Musicmap](https://musicmap.info/) - *Genealogy / History of Music Genres* 
@@ -147,10 +146,11 @@
 * **[Coding Cat](https://hostrider.com/)** - *Nyan Cat's Cousin / Lo-Fi Radio*
 * **[HaloMe.nu](https://halome.nu/)** - *Halo Menu Screens*
 * **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_relaxation) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_relaxation)** - *Ambient Mobile Apps* 
-* [lofi.cafe](https://lofi.cafe/) - *Lo-fi Radio*
-* [Ambicular](https://ambicular.com/) - *Lo-fi Radio*
+* [lofi.cafe](https://www.lofi.cafe/) - *Lo-Fi Radio*
+* [Ambicular](https://ambicular.com/) - *Lo-Fi Radio*
 * [DevTunes FM](https://radio.madza.dev/) - *Lo-Fi Radio*
-* [Viberoom](https://viberoom.audio/) - *Lo-fi Hip-Hop Radio*
+* [Lofi Music](https://lofimusic.app/) - *Lo-Fi Radio*
+* [Viberoom](https://viberoom.audio/) - *Lo-Fi Hip-Hop Radio*
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - *Create Room / Lo-Fi Player*
 * [Music For Programming](http://musicforprogramming.net/) - *Music for Focus* 
 * [Noizio](https://noiz.io/) - *Ambient* 
@@ -159,6 +159,7 @@
 * [Moss Garden](https://moss.garden/) - *Ambient*
 * [CalmyLeon](https://calmyleon.com/) - *Ambient*
 * [Moodli](https://www.moodil.com/) - *Ambient*
+* [Audioscape](https://audioscape.netlify.app/) - *Ambient*
 * [Moszen](https://www.moszen.com/) - *Ambient* 
 * [Soundrown](http://soundrown.com/) - *Ambient* 
 * [A Soft Murmur](https://asoftmurmur.com/) - *Ambient* 
@@ -216,6 +217,7 @@
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - *Bandcamp Downloader*
 * [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - *Soundcloud Download Tools*
 * [KeepTube](https://jaymoulin.me/me/keeptune/) - *Soundcloud & Bandcamp Downloader*
+* [GetFVid](https://www.getfvid.com/) - *Facebook Video / Audio Downloader* 
 * [Musescore-downloader](https://github.com/Xmader/musescore-downloader) - *Musescore Downloader*
 * [jiosaavn-downloader](https://github.com/GrayGalaxy/jiosaavn-downloader) / [2](https://github.com/kx3ez1/jiosaavn-downloader) or [music-dl](https://github.com/vishaltelangre/music-dl) - *JioSaavn Downloaders*
 * [gaana-downloader-extension)](https://github.com/tuhinpal/gaana-downloader-extension) - *Gaana Downloader*
