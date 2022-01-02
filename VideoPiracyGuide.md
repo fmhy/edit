@@ -33,7 +33,7 @@
 * [Trailers.to](https://trailers.to/) - *Movies / TV / [Bypass Quota](https://openvideofs.github.io/)*  
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - *Movies / TV / Anime*
 * [NetU](https://netu.io/view_page.php?pid=4) - *Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)*
-* [Shoow.in](https://shoow.in/) - *Movies / TV / Anime / [Unlock HD](https://pastebin.com/hxdq1uFi) / [Discord](https://discord.gg/5QqW8HtY)*
+* [Shoow.in](https://shoow.in/) - *Movies / TV / Anime / [Unlock HD](https://pastebin.com/hxdq1uFi)*
 * [Ling.online](https://ling.online/en/videos/films/) - *Movies / TV*
 * [OpenloadMovies](https://openloadmov.net/) - *Movies / TV*
 * [SolarMovie](https://www2.solarmovie.to/) or [Putlocker.vip](https://ww1.putlocker.vip/) - *Movies / TV / Anime*
