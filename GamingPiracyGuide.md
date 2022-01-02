@@ -34,7 +34,6 @@
 * [ElAmigos](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
 * [GLoad](https://gload.to/)
 * [Ova Games](http://www.ovagames.com/)
-* [Rihno Games](https://rihnogames.com/)
 * [SEHS Games](https://www.sehsgames.com/)
 * [GameLoo](http://www.gameloo.info/)
 * [AimHaven](https://www.aimhaven.com/)
