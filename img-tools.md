@@ -108,6 +108,7 @@
 * [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - *Image to ASCII Art Generator*
 * [ASCII Paint](http://ascii.alienmelon.com/) - *ASCII Art Creator*
 * [dream](https://app.wombo.art/) - *Dream Art Generator*
+* [Uji](https://doersino.github.io/uji/) - *Minimalist Art Generator*
 * [TierMaker](https://tiermaker.com/) - *Tier List Image Creator*
 * [Hugin](http://hugin.sourceforge.net/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - *Panorama Photo Generator* 
 * [DoodDad](https://doodad.dev/pattern-generator), [patternico](https://patternico.com/) or [Haikei](https://app.haikei.app/)  *Pattern Generator*
@@ -166,7 +167,7 @@
 
 ## ▷ Painting / Drawing
 
-* [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [JS Kid Pix](https://kidpix.app/) or [MediBang](https://medibangpaint.com/en/) - *Painting*
+* [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/) or [MediBang](https://medibangpaint.com/en/) - *Painting*
 * [Aggie.io](https://aggie.io/) - *Collaborative Painting*
 * [inkscape](https://inkscape.org/), [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q), [Sketch Toy](https://www.sketchtoy.com/), [Sketchbook](https://www.sketchbook.com/), [tldraw](https://www.sketchtoy.com/) or [Excalidraw](https://excalidraw.com/) - *Drawing / Sketching Tools* 
 * [AutoDraw](https://www.autodraw.com/) - *Machine Learning Drawing Tool* 
@@ -180,7 +181,7 @@
 
 * **[Awesome Pixel Art](https://github.com/Siilwyn/awesome-pixel-art)** - *Pixel Art Resource Index* 
 * [Pedro's Pixel Art Tutorials](https://blog.studiominiboss.com/pixelart) - *Pixel Art Tutorials* 
-* [Piskel](https://www.piskelapp.com/), [rx](https://rx.cloudhead.io/), [PaintWith](https://paintwith.webflow.io/), [PixelCraft](https://pixelcraft.web.app/) / [GitHub](https://github.com/rgab1508/PixelCraft) or [PixilArt](https://www.pixilart.com/draw) - *Pixel Art Editor*
+* [Piskel](https://www.piskelapp.com/), [rx](https://rx.cloudhead.io/), [Pixelated](https://pixelated.vercel.app/), [PaintWith](https://paintwith.webflow.io/), [PixelCraft](https://pixelcraft.web.app/) / [GitHub](https://github.com/rgab1508/PixelCraft) or [PixilArt](https://www.pixilart.com/draw) - *Pixel Art Editor*
 * [Strike](https://amorphous.itch.io/strike) - *1-Bit Pixel Art Editor*
 * [Pixel Painter](https://jenniferdewalt.com/pixel_painter.html) - *Paint with Pixels*
 * [dpixel](https://marcoc2.itch.io/dpixel) - *Pixel Art Remastering Tool* 
@@ -202,6 +203,7 @@
 * **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)** - *Search by Image*
 * [GFX Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources) - *Graphic Design Elements*
 * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en), [Cute Save Button](https://github.com/Dezaimasu/cute-button) or [Download all Images](https://add0n.com/save-images.html) - *Image Download Extensions*
+* [RipMe](https://github.com/RipMeApp/ripme), [gallery-dl](https://github.com/mikf/gallery-dl) or [Image Extractor](https://extract.pics/) - *Image Download Tools*
 * [picsearch](https://www.picsearch.com/) - *Image Search*
 * [RootAbout](https://rootabout.com/) - *Archive / OpenlLibrary Reverse Image Search* 
 * [PicTriev](http://www.pictriev.com/) - *Find Look-Alike Images* 
@@ -234,13 +236,11 @@
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) or [Pattern Collection](https://mega.nz/file/cwdgkD6D#9jGB_AYdtcKURyGF36aMCdDBXnylfEVqFZDs8DU4Spg) - *Download Patterns*
 * [Transparent Textures](https://www.transparenttextures.com/) or [Texture Collection](https://mega.nz/file/I4UyCLhY#vtl7oDV1kll4vrBRJV8ahQatsBSPmuiBvF7eFehJN9c) - *Download Textures*
 * [Watercolor Collection](https://mega.nz/file/tsMyXTqa#0Yiw8BSo7IpJytlKGNy3KCKMkn_H6x3bw4DHRmiSRn8) - *Download Watercolor Pictures*
-* [RipMe](https://github.com/RipMeApp/ripme) - *Bulk Image Downloader*
 * [Google Photos Plus](https://github.com/anamritraj/google-photos-plus) - *Download Google Photos in Better Quality*
 * [google-images-download](https://github.com/hardikvasa/google-images-download) - *Download Images from Google Images* 
 * [googleimagerestored](https://github.com/fanfare/googleimagesrestored) - *Old Google Image Search* 
 * [dzi-dl](https://github.com/ryanfb/dzi-dl) - *Deep Zoom Image Downloader* 
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YouTube Screenshot](https://www.youtubescreenshot.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - *Grab YouTube Thumbnails* 
-* [gallery-dl](https://github.com/mikf/gallery-dl) - *Image / Gallery Downloader*
 * [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - *Booru Image Downloader / [Viewer](https://github.com/loadletter/grabber-viewer)* 
 * [Facedown](http://www.vincentcheung.ca/facedown/) - *Facebook Image Downloader*
 * [Flicker-Download](https://github.com/beaufour/flickr-download) - *Flickr Scraper* 
@@ -269,6 +269,7 @@
 * [3D Modeling Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps) - *Free 3D Modeling Apps* 
 * [Armorpaint](https://armorpaint.org/) - *3D Painting*
 * [ZBrush](https://zbrushcore.com/mini/) - *3D Sculpting*
+* [CadHub](https://cadhub.xyz/) - *Community Hub for CAD Projects*
 * [MakeHuman](http://www.makehumancommunity.org/) - *3D Humanoid Modeler*
 * [posemy](https://app.posemy.art/), [quickposes](https://quickposes.com/en) or [justsketch](https://app.justsketch.me/) - *Posing Tools*
 * [FaceMaker](http://facemaker.uvrg.org/) - *Face / Avatar Generator* 
@@ -282,7 +283,7 @@
 
 # ► Image Tools
 
-* [WebOasis Editors](https://weboas.is/editors/), [Hotot](https://hotpot.ai/), [RedKetchup](https://redketchup.io/), [VertexShare](https://vertexshare.com/), [Img2Go](https://www.img2go.com/), [BrandFolder](https://brandfolder.com/workbench-suite), [fffuel](https://fffuel.co/), [ImgLarger](https://imglarger.com/) or [FastStone](https://www.faststone.org/index.htm) - *Multiple Image Tools*
+* [WebOasis Editors](https://weboas.is/editors/), [Hotot](https://hotpot.ai/), [RedKetchup](https://redketchup.io/), [VertexShare](https://vertexshare.com/), [ImageConvert](https://imageconvert.org/), [Img2Go](https://www.img2go.com/), [BrandFolder](https://brandfolder.com/workbench-suite), [fffuel](https://fffuel.co/), [ImgLarger](https://imglarger.com/), [SocialBook](https://socialbook.io/) or [FastStone](https://www.faststone.org/index.htm) - *Multiple Image Tools*
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - *Art & Animation Resource Index*
 * [Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes) - *Color Scheme / Palette Tools*
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - *Image Color Summarizer*
@@ -330,7 +331,7 @@
 * [KSnip](https://github.com/ksnip/ksnip)
 * [LightShot](https://app.prntscr.com/en/index.html)
 * [Nimbus Capture](https://nimbusweb.me/screenshot.php) 
-* [Screenshot Guru](https://screenshot.guru/) or [Site-Shot](https://www.site-shot.com/) - *Online Screenshot Tool* 
+* [Screenshot Guru](https://screenshot.guru/), [CleanShot](https://cleanshot.vercel.app/) or [Site-Shot](https://www.site-shot.com/) - *Online Screenshot Tool* 
 * [puush](https://puush.me/) - *Easily Share Screenshots*
 * [Screenstab](http://screenstab.com/) - *Create Graphics from Screenshots*
 * [Limus](https://limus.netlify.app/) - *Change Screenshot Angles*
@@ -398,5 +399,6 @@
 * [BetaFace](https://www.betaface.com/demo.html) or [Face Recognition](https://github.com/ageitgey/face_recognition) - *Facial Recognition* 
 * [FALdetector](https://github.com/peterwang512/FALdetector) - *Photoshopped Face Detector*
 * [Fawkes](http://sandlab.cs.uchicago.edu/fawkes/) - *Image Cloaking* 
+* [Redact.Photo](https://redact.photo/) - *Image Redaction Tool*
 * [Squoosh](https://squoosh.app/) - *Image Codec Comparison*
 * [jPhotoDNA](https://github.com/jankais3r/jPhotoDNA) - *Image CSAM Identification Algorithm*
