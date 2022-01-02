@@ -383,6 +383,7 @@
 * [Chauvet Cave](https://archeologie.culture.fr/chauvet/en/explore-cave/) - *Chauvet-Pont-d'Arc Cave Virtual Tour* 
 * [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - *Spitfire Mark IX Cockpit Interactve Panorama* 
 * [Explore Pharaoh Ramesses VI Tomb](https://my.matterport.com/show/?m=NeiMEZa9d93) - *Pharaoh Ramesses VI Tomb Virtual Tour*
+* [Virtual Vist Tours](https://www.virtualvisittours.com/) - *Ireland Virtual Tours* 
 
 ***
 
@@ -609,6 +610,7 @@
 * [Theban Mapping Project](https://thebanmappingproject.com/) - *Valley of the Kings Map* 
 * [Historic Borders](https://historicborders.app/) - *Historic Borders Map*
 * [Histography](https://histography.io/) - *History Timeline*
+* [Unequal Scenes](https://unequalscenes.com/) - *Scenes of Inequality Around the World*
 * [Eylenburg](https://eylenburg.github.io/) - *Infographs, Maps & Papers*
 * [LizardPoint](https://lizardpoint.com/) - *Geography Quizzes* 
 * [The True Size](https://thetruesize.com/) - *Compare Country Size* 
