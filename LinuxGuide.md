@@ -14,7 +14,8 @@
 * **[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_distros)** - *Download Linux Distros* 
 * **[Linux Piracy](https://rentry.co/LinuxPiracy)** - *Linux Piracy Guide*
 * **[Archwiki](https://wiki.archlinux.org/)** - *Linux Wiki*
-* **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, [CPU-X](https://github.com/X0rg/CPU-X), [vtop](https://github.com/MrRio/vtop) or [Stacer](https://github.com/oguzhaninan/Stacer) - *System Info / Resource Monitors*
+* **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, [CPU-X](https://github.com/X0rg/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch) or [Stacer](https://github.com/oguzhaninan/Stacer) - *System Info / Resource Monitors*
+*  **[Alacritty](https://github.com/alacritty/alacritty)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, [Simple Terminal](https://st.suckless.org/), [yakuake](https://apps.kde.org/yakuake/) or [tabby](https://tabby.sh/) - *Terminal Emulator*
 * **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
 * **[mpv](https://mpv.io/)** - *Video Player / [Frontend](https://github.com/celluloid-player/celluloid)*
 * **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)**, **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](http://bitflu.workaround.ch/) or [kTorrent](https://apps.kde.org/en/ktorrent) / [2](https://invent.kde.org/network/ktorrent) - *Linux Torrent Client* 
@@ -60,7 +61,8 @@
 * [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - *Create Bootable USB Windows Drives*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [GParted](https://gparted.org/) - *Partition Manager*
-* [Gnome-Look](https://www.gnome-look.org/), [OCS Store](https://www.opendesktop.org/p/1175480/), [Oomox ](https://github.com/themix-project/oomox) or [xfce-look](https://www.xfce-look.org/)  - *Linux Themes*
+* [Gnome-Look](https://www.gnome-look.org/), [OCS Store](https://www.opendesktop.org/p/1175480/), [Oomox](https://github.com/themix-project/oomox), [Adapta](https://github.com/adapta-project/adapta-gtk-theme), [Arc](https://github.com/jnsh/arc-theme), [Numix](https://github.com/numixproject/numix-gtk-theme), [Evopop](https://github.com/solus-project/evopop-gtk-theme), [Flatablous](https://github.com/anmoljagetia/Flatabulous), [Flatablous Arc](https://github.com/andreisergiu98/arc-flatabulous-theme), [Material Ocean](https://github.com/material-ocean/material-ocean), [Ant ](https://github.com/EliverLara/Ant ) or [xfce-look](https://www.xfce-look.org/)  - *Linux Themes*
+* [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme), [Moka](https://snwh.org/moka), [Numix](https://github.com/numixproject/numix-icon-theme) or [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - *Linux Icon Themes*
 * [Ricepedia](https://rizonrice.club/Main_Page) or [ThatNixGuy Ricing](https://thatnixguy.github.io/posts/ricing/) - *Linux Ricing Tools*
 * [ricemood](https://github.com/fhadiel/ricemood) or [wpgtk](https://deviantfero.github.io/wpgtk) - *Fully Customizable Unix Color Schemer*
 * [Akira](https://github.com/akiraux/Akira) - *UI/UX Customization*
@@ -68,6 +70,7 @@
 * [HydraPaper](https://hydrapaper.gabmus.org/) - *Linux Wallpaper Manager*
 * [Polychromatic](https://polychromatic.app/) - *Linux System Light Control*
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) - *Noise Cancellation Software*
+* [Giara](https://aur.archlinux.org/packages/giara/) - *Reddit Client / [GitHub](https://gitlab.gnome.org/World/giara) *
 * [reddio](https://gitlab.com/aaronNG/reddio) - *Reddit CLI*
 * [rainbowstream ](https://github.com/orakaro/rainbowstream) - *Twitter CLI*
 * [ramme](https://github.com/terkelg/ramme) - *Instagram Client*
@@ -90,11 +93,11 @@
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - *Mount GDrive on Linux*
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - *Linux File Search*
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - *PDF Editor*
-* [Gedit](https://wiki.gnome.org/Apps/Gedit) or [Notepadqq](https://notepadqq.com/) - *Text Editor*
+* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [Featherpad](https://github.com/tsujan/FeatherPad) or [Notepadqq](https://notepadqq.com/) - *Text Editor*
 * [Winfield](http://www.winfield.demon.nl/) - *MS Word for Linux / OS X* 
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Linux Photoshop Installer*
 * [FlameGApps](https://github.com/flamegapps/flamegapps) - *Google Apps Installer*
-* [syncthing](https://syncthing.net/) - *File Sync*
+* [syncthing](https://syncthing.net/) or [maestral](https://maestral.app/) - *File Sharing App*
 * [Hexchat](https://hexchat.github.io/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/ ) - *IRC Clients*
 * [Linux-dash](https://github.com/afaqurk/linux-dash) - *Web-based System Dashboard*
 * [Sharenix](https://github.com/Francesco149/sharenix) or [MagicCap](https://magiccap.me/) - *Screenshot Tool*
@@ -107,6 +110,7 @@
 * [Librespot-Python](https://github.com/kokarare1212/librespot-python) - *Spotify TUI*
 * [Qtractor](https://qtractor.org/) - *Audio Editor*
 * [Ecasound](http://nosignal.fi/ecasound/) - *Multitrack Audio-Processor / Linux*
+* [cava](https://github.com/karlstav/cava) - *Console Audio Visualizer*
 * [Peek](https://github.com/phw/peek) - *Simple Video / GIF recorder*
 * [utils](https://github.com/Loupeznik/utils) - *Linux Utility Scripts*
 * [Mayfrost Guides](https://github.com/mayfrost/guides) - *Linux / Computing Guides*
@@ -142,10 +146,9 @@
 * [tldr](https://github.com/tldr-pages/tldr/) - *Tl;dr'd man pages*
 * [Ghostwriter](http://wereturtle.github.io/ghostwriter/) - *Markdown Editor*
 * [Whatever](https://github.com/CellarD0-0r/whatever) - *Evernote Client*
-* [Simple Terminal](https://st.suckless.org/), [Alacritty](https://github.com/alacritty/alacritty) or [Kitty](https://sw.kovidgoyal.net/kitty/overview/) - *Terminal Emulator*
 * [Electerm](https://electerm.github.io/electerm) - *Terminal / SSH / STP Client*
 * [Yakuake](https://apps.kde.org/yakuake/) - *Quake Style Terminal Emulator*
-* [theme.sh](https://github.com/lemnos/theme.sh) - *Custom Terminal Themes*
+* [theme.sh](https://github.com/lemnos/theme.sh) or [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - *Custom Terminal Themes*
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - *Generate Bonsai Trees in Terminal*
 * [pipes.sh](https://github.com/pipeseroni/pipes.sh) - *Animated Pipes in Terminal*
 * [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - *App Image Launcher*
@@ -180,6 +183,7 @@
 * [Howdy](https://github.com/boltgolt/howdy) - *Linux Facial Authentication*
 * [Tomb](https://www.dyne.org/software/tomb/) - *File Encryption*
 * [SShuttle](https://github.com/sshuttle/sshuttle) - *Proxy Server*
+* [BhanUpratpys](https://github.com/bhanupratapys/dnswarden) - *DNS Adblocking*
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - *Arch Linux base with Deluge, Privoxy & OpenVPN*
 * [Spotify-Adblock](https://github.com/abba23/spotify-adblock) - *Linux Spotify Adblocker*
 * [Anon-SMS](https://github.com/HACK3RY2J/Anon-SMS) - *Send Anonymous SMS Messages*
@@ -195,6 +199,7 @@
 * [SnapCraft](https://snapcraft.io/store) 
 * [tlanyan](https://tlanyan.me/)
 * [WSL-Programs](https://github.com/ethanhs/WSL-Programs) - *Windows Subsystem for Linux Programs*
+* [yay](https://github.com/Jguer/yay), [paru](https://github.com/morganamilo/paru) or [aura](https://github.com/aurapm/aura) - *Arch User Repository Helpers*
 * [KDE's Applications](https://apps.kde.org/education) - *Linux Apps* 
 * [apps.gnome](https://apps.gnome.org/en-GB/) - *GNOME Apps*
 * [AppImagePool](https://github.com/prateekmedia/appimagepool) - *Linux App Images*
@@ -232,7 +237,7 @@
 
 # ► Mac Tools / Apps
 
-* **[Dropzone](https://filecr.com/?s=dropzone)** - *File Manger*
+* **[Dropzone](https://filecr.com/?s=dropzone)** - *File Manager*
 * **[The Unarchiver](https://theunarchiver.com/)** or [Keka](https://www.keka.io/) - *File Archiver / Unzipper*
 * **[qBittorrent](https://www.qbittorrent.org/)** - *Torrent Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)*
 * **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
@@ -259,6 +264,7 @@
 * [Windows 10 MBR](https://github.com/toru173/Windows-10-MBR-USB-Creation-Tool) or [Create Bootable](https://taig.medium.com/create-a-bootable-windows-10-usb-from-macos-395773d4782e) - *Windows 10 Media Creation Tool*
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - *UEFI Kexts*
 * [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913?mt=12) - *File Download Manager*
+* [maestral](https://maestral.app/) - *File Sharing App*
 * [ss64 OSX](https://ss64.com/osx/) - *macOS Bash Commands*
 * [Orion](https://browser.kagi.com/downloads/Orion.dmg) - *Webkit Browser with Chrome & Firefox extensions / [Discord](https://discord.gg/E9EKaPZR)*
 * [Strongbox](https://strongboxsafe.com/) *Password Manager*
