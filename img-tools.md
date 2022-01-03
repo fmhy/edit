@@ -113,6 +113,7 @@
 * [Hugin](http://hugin.sourceforge.net/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - *Panorama Photo Generator* 
 * [DoodDad](https://doodad.dev/pattern-generator), [patternico](https://patternico.com/) or [Haikei](https://app.haikei.app/)  *Pattern Generator*
 * [stripegenerator](http://www.stripegenerator.com/) - *Stripe Generator* 
+* [Trianglify.io](https://trianglify.io/) - *Generate low-poly Textures*
 * [BannerEasy](https://www.bannereasy.com) - *Create Custom Banners*
 * [Get Waves](https://getwaves.io/) or [SVG Wave](https://www.softr.io/tools/svg-wave-generator) - *Wave Generator*
 * [Meta-Mapper](https://meta-mapper.com/) - *Website Metadata Thumbnails*
