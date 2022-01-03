@@ -20,7 +20,7 @@
 ## ▷ Adblocking Extensions
 
 * **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - *Adblocker / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/)*
-**[Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation)** - *Adblocker / [Guide](https://rentry.co/adblock) / [Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt)*
+* **[Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation)** - *Adblocker / [Guide](https://rentry.co/adblock) / [Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt)*
 * **[AdNauseam](https://adnauseam.io/)** - *Adblocker / Fake Clicks to Mess up Tracking Profiles*
 * **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** - *Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Merge Filters](https://realityripple.com/Tools/AdBlock++/)* 
 * **[Adblock Defenders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders)** - *Prevent Sites from Detecting Adblockers / [Test Defenders](https://blockads.fivefilters.org/)*
