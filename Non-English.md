@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/bhzVnKA.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/DmuY3Jz.png)** - *For mobile users*
 
 ***
 ***
@@ -421,7 +421,7 @@ French / General Torrent Tracker
 
 ## ▷ Streaming
 
-* [Tainio-Mania](https://tainio-mania.online/) - *Movies / TV / Anime* 
+* [Tainio-Mania](https://tainio-mania.online/) , [2](https://tenies-online.best/) - *Movies / TV / Anime* 
 * [ELTube](https://www.eltube.gr/) - *Movies / TV*
 * [Greek-Movies](https://greek-movies.com/) - *Movies / TV / Live / Courses*
 
@@ -490,6 +490,7 @@ French / General Torrent Tracker
 * [DesiTVBox](https://www.desitellybox.me/) - *TV*
 * [OnlineMovies8](https://www.onlinemovies8.com.pk/) - *Movies* 
 * [PakBcn](http://www.pakbcn.live/) - *TV / Live*
+* [asiankdrama](https://asiankdrama.com/) - *Asian Drama*
 * [Dead Toons India](https://deadtoonsindia.net/) - *Cartoons / Anime* 
 * [PepCoding](https://www.pepcoding.com/resources/) - *C++ & Java Programming Courses*
 * [DesiRulez](https://www.desirulez.cc/) - *Video / Audio*
@@ -782,6 +783,7 @@ French / General Torrent Tracker
 * [filmha](https://filmha.top/) - *Movies* 
 * [FarsiLand](https://farsiland.com/) - *Movies / TV* 
 * [Nostalgik](https://nostalgiktv.org/) - *Movies / TV*
+* [IMVBox](https://www.imvbox.com/) - *Movies*
 * [LiveFarsi](https://www.livefarsi.com/live-tv.html) - *Movies / TV / Live*
 * [Anten.ir](https://www.anten.ir/) - *Live / TV / Sports* 
 * [PersianTVLive](http://www.persiantvlive.com/) - *Live TV*
@@ -805,6 +807,7 @@ French / General Torrent Tracker
 ## ▷ Downloading
 
 * [animezone](https://www.animezone.pl/) - *Anime*
+* [Portable Info](https://portable.info.pl/) - *Portable Software*
 
 ## ▷ Torrenting 
 
@@ -1206,14 +1209,26 @@ Portuguese
 * [EX-FS](https://ex-fs.net/ ) - *Movies / TV / Anime*
 * [hdzo](https://hdzo.tv/) - *Movies / TV*
 * [seasonvar](http://seasonvar.ru/) - *TV*
+* [rukino.org](https://rukino.org/) - *Movies / TV*
+* [kinocccp.net](https://kinocccp.net/ ) - *Soviet  Movies / TV*
+* [kinoflux.org](https://kinoflux.org/) - *Movies / TV*
 * [Telik](http://telik.online/) - *TV*
 * [Kino-Dom](http://kino-dom.org/) - *TV*
+* [bigserial.net](http://bigserial.net/) - *TV*
 * [Shiza Project](https://shiza-project.com/) - *Anime*
 * [otakustudio](http://www.otakustudio.tv/) - *Anime* 
 * [DarkLibria](https://darklibria.it/) - *Anime*
 * [Soviet Movies Online](https://sovietmoviesonline.com/cartoons) - *Cartoons* 
 * [Dokonlin.ru](https://www.dokonlin.ru/) - *Documentaries*   
+* [asiakino.net](https://asiakino.net/ ) - *Asian Drama*
 * [VseDoramy](https://vsedoramy.net/) - *Asian Drama*
+* [indiakino.net](https://indiakino.net/ ) - *Indian Movies / TV*
+* [hindcine.org](https://hindcine.org/) - *Indian TV*
+* [doram](https://doram.cc/) - *Asian TV*
+* [turkcinema.cc](https://turkcinema.cc/) - *Turkish TV*
+* [turkishtv.ru](http://turkishtv.ru/) - *Turkish / Indian TV*
+* [kinoturk.net](https://kinoturk.net/ ) - *Turkish Movies / TV*
+* [turkru.tv](https://turkru.tv/) - *Turkish TV*
 * [TVRF](https://tvrf.online/) - *Live TV*
 * [OnTVTime](https://www.ontvtime.ru/) - *Live TV*
 * [Viks](http://online.viks.tv/) - *Live TV*
@@ -1446,6 +1461,19 @@ Portuguese
 * [cizgidiyari](http://www.cizgidiyari.com/forum/) - *Comics*
 * [turkcecizgiroman](https://turkcecizgiroman.blogspot.com/) - *Comics*
 * [Manga-TR](https://manga-tr.com/) - *Manga*
+
+***
+
+# ►Uzbek 
+
+## ▷ Downloading
+
+* [AsilMedia.NET](http://asil-media.net/) - *Movies / TV / [Telegram](https://t.me/asilmedia_tarjima_kinolar)*
+
+## ▷ Streaming
+
+* [uzmax.net](https://uzmax.net/) - *Movies / TV*
+* [AsilMedia.NET](http://asil-media.net/) - *Movies / TV / [Telegram](https://t.me/asilmedia_tarjima_kinolar)*
 
 ***
 
