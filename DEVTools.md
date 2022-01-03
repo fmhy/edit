@@ -108,6 +108,7 @@
 * [UXTools](https://uxtools.co/) - *Learn UX Design*
 * [Web Skills](https://andreasbm.github.io/web-skills/) - *Web Development Guides*
 * [666GB Devil Collection](https://mega.nz/folder/7HRiUb7Q#xXXnIdhGxuPwxtz99BhPpg) - *Web App Development Courses*
+* [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - *Learn Swift and build iOS App Building*
 * [WeCreators](https://www.wecreators.co/creators-tools) - *Site Development / Influencer Courses*
 * [How-to Host Questionable Websites](https://weboas.is/media/host.png) - *Guide / [PDF](https://weboas.is/media/host.pdf)*
 * [Learn Git Branching](https://learngitbranching.js.org/) - *Interactive Git Branching Guide*
@@ -377,6 +378,7 @@
 * [Blisk](https://blisk.io/) - *Cross-Device Testing*
 * [Booster](https://github.com/didi/booster) - *Mobile App Optimization*
 * [Mobbin](https://www.mobbin.design/) - *Mobile App Design Reference Library*
+* [Xcode](https://developer.apple.com/xcode/) - *Test and Build iOS / iPadOS Apps *
 * [IconKitchen](https://icon.kitchen/) or [AppIcon](https://appicon.co/)- *App Icon Generator*
 * [Plank](https://launchpad.net/plank) - *Simple Dock / [GitHub](https://github.com/ricotz/plank)*
 * [Portainer](https://portainer.io/) - *Build / Manage Docker Containers / [Templates](https://github.com/SelfhostedPro/selfhosted_templates) / [GitHub](https://github.com/portainer/portainer)*
@@ -581,6 +583,7 @@
 * [Vim Latex](http://vim-latex.sourceforge.net/) - *Latex Style Vim Editor*
 * [CarlosAG](https://www.carlosag.net/) - *Coding Tools*
 * [Telosys](http://www.telosys.org/) - *Code Generator*
+* [OneLang IDE](https://ide.onelang.io/) - *Convert Code to Multiple Languages*
 * [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - *Emacs Packages*
 * [WebDen](https://webden.dev/) - *Code Playground*
 * [I run code](https://github.com/engineer-man/piston-bot) - *Evaluate Code Snippets via Discord*
