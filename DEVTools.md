@@ -105,7 +105,9 @@
 * [Web Dev Courses](https://drive.google.com/drive/folders/17nOoned_J-RzAlCXaHEcEvdQC3LDOCC0) - *Web Development Courses*
 * [Agernic](https://www.agernic.com/) - *Web Design Courses*
 * [UI & Web Design using Adobe Illustrator C](https://mega.nz/folder/DihiHYYJ#qwDp56twKmwPdDMqGR_kLA) - *UI & Webdesign Course*
-* [UXTools](https://uxtools.co/) - *Learn UX Design*
+* [UXTools](https://uxtools.co/) or [UXMovement](https://uxmovement.com/) - *Learn UX Design*
+* [SitePoint](https://www.sitepoint.com/) - *UX Design Courses & Books*
+* [FrontEndMentor](https://www.frontendmentor.io/) - *UX Design Challenges*
 * [Web Skills](https://andreasbm.github.io/web-skills/) - *Web Development Guides*
 * [666GB Devil Collection](https://mega.nz/folder/7HRiUb7Q#xXXnIdhGxuPwxtz99BhPpg) - *Web App Development Courses*
 * [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - *Learn Swift and build iOS App Building*
@@ -208,17 +210,18 @@
 * **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
 * [ZeroNet](https://zeronet.io/) - *Uncensorable Sites / [/r/Zeronet](https://www.reddit.com/r/zeronet/)*
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
-* [Website Planet Tools](https://www.websiteplanet.com/webtools/) - *Site Development Tools*
+* [Website Planet Tools](https://www.websiteplanet.com/webtools/),  [xWebTools](https://www.xwebtools.com/) or [CSSAuthor](https://cssauthor.com/) - *Site Development Tools*
 * [Uncensorable Publishing](https://uncensorablepublishing.com/) - *Create Hard to Censor Sites*
 * [Flux](https://www.runonflux.io/) - *Decentralized Cloud Infrastructure*
+* [Web Designer News](https://www.webdesignernews.com/) - *Web Design News*
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
-* [xWebTools](https://www.xwebtools.com/) - *Web Developer Tools*
 * [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [BulkLink](http://bulklink.org/), [SEO Tools Apps](https://www.seotoolsapps.com/) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization / [Extension](https://chrome.google.com/webstore/detail/ubersuggest-seo-and-keywo/nmpgaoofmjlimabncmnmnopjabbflegf)*
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) - *Web Debugging Proxy App*
 * [Tabler](https://tabler.io/) - *Site Admin Dashboard*
 * [WireFlow](https://wireflow.co/) - *Flow Prototype Maker*
 * [Geekflare Tools](https://gf.dev/toolbox) - *Site Testing Tools*
 * [UXTweak](https://www.uxtweak.com/) - *Website Design Usability Improvement Tool*
+* [Am I Responsive](http://ami.responsivedesign.is/) - *Responsive Design Checker*
 * [Rest Test Test](http://resttesttest.com/) - *Test REST/CORS Services*
 * [httpbin](https://httpbin.org/) - *HTTP Request & Response Service*
 * [RemoteMySQL](https://www.remotemysql.com/) - *Remote MySQL Database*
@@ -260,12 +263,13 @@
 * [Uisual](https://uisual.com/) - *Landing Page Templates*
 * [Canva](https://www.canva.com/) or [PikBest](https://pikbest.com/) - *Design Templates / [Premium Apk](https://forum.mobilism.org/search.php?keywords=Canva+&sr=topics&sf=titleonly)* 
 * [Boilerplate](https://github.com/h5bp/html5-boilerplate) - *Website Frontend Template HTML5*
-* [Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [Undraw](https://evie.undraw.co/) or [free-css-templates](https://www.free-css.com/free-css-templates) - *Site Templates*
-* [Templatemo](https://www.templatemo.com/) - *HTML Site Templates*
+* [Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/) or [Undraw](https://evie.undraw.co/)  - *Site Templates*
+* [Templatemo](https://www.templatemo.com/) or [Tooplate](https://www.tooplate.com/ ) - *HTML Site Templates*
 * [HTML5 Temp](https://rentry.co/HTML5Temp) - *HTML5 Templates & Themes*
-* [CSS Bed](https://www.cssbed.com/) - *CSS Themes*
+* [CSS Bed](https://www.cssbed.com/), [free-css-templates](https://www.free-css.com/free-css-templates) or [TenplateMo](https://templatemo.com/) - *CSS Themes / Templates*
 * [Typewolf](https://www.typewolf.com/) - *Trending Website Fonts*
 * [Broider](https://maxbittker.github.io/broider/) - *Create Border Designs*
+* [ShapeDivider](https://www.shapedivider.app/) - *Make SVG Shape Divider*
 * [GalleryProject](http://galleryproject.org/) - *Manage / Host Photos on Website* 
 * [PublishThisEmail](https://www.publishthis.email/) - *Email Based Website Builder*
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - *Mobile Friendly Page Test* 
@@ -295,6 +299,7 @@
 * [HTTP Server](https://httpd.apache.org/) - *HTTP Server Apache*
 * [SyAgent](https://syagent.com/) - *Server Monitor*
 * [HeidiSQL](https://www.heidisql.com/) - *SQL Manager*
+* [CodeMyUI](https://codemyui.com/) - *User Interface Code Snippets*
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - *Captcha Systems*
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - *Search & Analytics Engine*
 * [Algolia](https://www.algolia.com/), [TypeSense](https://typesense.org/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/) or [FusionBot](https://www.fusionbot.com/) - *Search API*
@@ -457,8 +462,11 @@
 * [Water.css](https://watercss.kognise.dev/) - *CSS Styles Collection*
 * [Leon's CSS](https://leonarnott.neocities.org/ ) - *CSS Text Styles*
 * [Hover.CSS](https://ianlunn.github.io/Hover/) - *CSS Hover Effects* 
+* [Clippy](https://bennettfeely.com/clippy/) - *CSS Clip Maker*
+* [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - *Organic CSS Shape Generator*
 * [BestCSSButtonGenerator](https://www.bestcssbuttongenerator.com/) - *CSS Button Generator*
-* [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds), [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://gradienta.io/), [heropatterns](https://heropatterns.com/), [thepatternlibrary](http://thepatternlibrary.com/) or [uigradients](https://uigradients.com/) - *CSS Patterns* 
+* [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds), [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://gradienta.io/), [GradientMagic](https://www.gradientmagic.com/), [heropatterns](https://heropatterns.com/), [thepatternlibrary](http://thepatternlibrary.com/), [CSSGradient](https://cssgradient.io/) or [uigradients](https://uigradients.com/) - *CSS Patterns / Gradients* 
+* [CSSLayout](https://csslayout.io/) - *CSS Layouts*
 * [Gradient Animator](https://www.gradient-animator.com/) - *Animated CSS Gradient Generator*
 * [Animista](https://animista.net/) or [Woah.css](https://www.joerezendes.com/projects/Woah.css/) - *CSS Animations*
 * [css2scss](https://sebastianpontow.de/css2compass/) - *CSS to SCSS Converter* 
@@ -625,7 +633,7 @@
 * [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://www.code-projects.org/), [Codastro](https://codeastro.com/) or [ItSourceCode](https://www.itsourcecode.com/) - *Source Code Projects*
 * [SciTE](https://www.scintilla.org/SciTE.html) - *Source Code Editor for Win32 and X*
 * [CodeGrepper](https://www.codegrepper.com/) - *Code Search Extension*
-* [ShareScript](https://sharescript.net/), [Google Code Archive](https://code.google.com/archive/), [CodeList](https://www.codelist.cc/) or [bl.ocks](https://bl.ocks.org/) - *Script / Code Indexes*
+* [ShareScript](https://sharescript.net/), [ShortCode](https://shortcode.dev/), [Google Code Archive](https://code.google.com/archive/), [CodeList](https://www.codelist.cc/) or [bl.ocks](https://bl.ocks.org/) - *Script / Code Indexes*
 * [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/), [2](https://carbon.now.sh/) - *Source Code Screenshot Tool*
 * [ray.so](https://ray.so/) - *Create Code Images*
 * [Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering) - *Reverse Engineering Resource Index*
