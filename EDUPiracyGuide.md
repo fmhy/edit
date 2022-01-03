@@ -393,7 +393,7 @@
 
 # ► Language Learning 
 
-* **[Awesome-Lang](https://github.com/oyd11/awesome-lang)** - *Language Learning Resource Index* 
+* **[Awesome-Lang](https://github.com/oyd11/awesome-lang)** or [Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8) - *Language Learning Resources* 
 * **[Languages & Linguistics](https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - *Language Learning Books*
 * [Speechling](https://speechling.com/tools) - *Language Learning Tools*
 * [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [Conversation Exchange](https://www.conversationexchange.com/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - *Language Learning Network*
