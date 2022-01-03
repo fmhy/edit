@@ -295,6 +295,7 @@
 * **Tor Tools** - [Wiki](https://gitlab.torproject.org/tpo/team/-/wikis/home ) / [Unblock Tor](https://i.imgur.com/bQStFyI.gifv) / [Leak Scan](https://github.com/s-rah/onionscan) / [IP Test](https://check.torproject.org/) / [Auto IP Switch](https://github.com/seevik2580/tor-ip-changer) / [Access Client](https://dragonfruit.network/onionfruit) / [GitHub](https://github.com/dragonfruitnetwork/onionfruit/) / [Python Controller](http://vt5hknv6sblkgf22.onion/index.html)
 * **[ffprofile](https://ffprofile.com/)**, **[ghacks-user.js](https://github.com/arkenfox/user.js)**, [firefox-debloat](https://github.com/amq/firefox-debloat), [pyllyukko](https://github.com/pyllyukko/user.js/) - *Privacy Hardened Firefox / [Warning](https://i.imgur.com/ZMQJHwC.png)*
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Privacy Focused Browsers* 
+* **[Vytal](https://vytal.io/)** - *See What Your Browser Knows About You*
 * **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
 * **[alternative-front-ends](https://github.com/mendel5/alternative-front-ends)** - *Frontend Index*
 * **[PrivacySpy](https://privacyspy.org/)** - *Grades a Sites Privacy Policies* 
@@ -318,7 +319,6 @@
 * [I2Pd Browser](https://i2pd.website/) - *I2P Browser / [GitHub](https://github.com/PurpleI2P/i2pd)*
 * [NotBob](https://www.notbob.i2p/) - *I2P Site Index / I2P Browser Required*
 * [NothingPrivate](https://www.nothingprivate.ml/), [Device Info](https://www.deviceinfo.me/), [Privacy Test](https://privacy.net/analyzer/), [IPX](https://ipx.ac/run) , [Sploit](https://sploit.io/test.php) or [BrowserAudit](https://browseraudit.com/) - *Browser Data Leak Test*
-* [Vytal](https://vytal.io/) - *See What Your Browser Knows About You*
 * [SSL Labs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html) - *SSL/TLS Browser Capabilities Test*
 * [IP / DNS Leak Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_dns_leak_tests) - *Test for IP & DNS Leaks*
 * [DNSCookie](http://dnscookie.com/) - *Identify Related Network Flows*
