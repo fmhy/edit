@@ -284,7 +284,7 @@
 * [RyuAnime](https://ryuani.me/) - *Sub / Dub*
 * [Genoanime](https://genoanime.com/) - *Sub / Dub* 
 * [Just Dubs](http://justdubs.org/) - *Dub*
-* [Streamani](https://streamani.net/),  [2](https://www2.gogoanime.cm/), [3](https://animekeyo.com/) - *Sub / Dub*
+* [GoGoAnime](https://gogoanime.pe/), [2](https://streamani.net/), [3](https://www2.gogoanime.cm/), [4](https://animekeyo.com/) - *Sub / Dub / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime)*
 * [Dubbed Anime](https://ww5.dubbedanime.net/) - *Sub / Dub*
 * [AnimeShow](https://www2.animeshow.tv/) - *Sub*
 * [AnimeNana](https://animenana.com/) - *Sub*
@@ -322,7 +322,6 @@
 * [MasterAnime](https://masteranime.es/) - *Sub / Dub*
 * [AnimeGuru](https://www.animeguru.net/) - *Sub / Dub*
 * [GoAnimeList](https://goanimelist.me/) - *Sub / Dub*
-* [GoGoAnime](https://gogoanime.pe/) - *Sub / Dub / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime)*
 * [AnimeFrenzy](https://animefrenzy.org/), [2](https://www.animefrenzy.net/) - *Sub* 
 * [Crimsonfansubs](https://crimsonfansubs.com/) - *Sub*
 * [AnimeXin](https://animexin.info/) - *Sub*
