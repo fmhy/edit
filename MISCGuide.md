@@ -1027,6 +1027,7 @@
 
 * [Firefox Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)
 * [keyconfig](https://addons.palemoon.org/addon/keyconfig/) - *Firefox Key Binds* 
+* [Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - *Search Selected Text / Multi Site Search / [GitHub](https://github.com/odebroqueville/contextSearch)*
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - *Multiple Link Related Actions* 
 * [FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/) - *Multiple Tab Related Actions*
 * [Firefox Download Managers](https://addons.mozilla.org/en-US/firefox/search/?category=download-management&recommended=true&sort=recommended%2Cusers&type=extension) - *Download Managers for Firefox*
@@ -1038,7 +1039,6 @@
 * [SaveForReadLater](https://addons.mozilla.org/en-US/firefox/addon/saveforreadlater/) - *Save Pages to Read Later* 
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - *Multi Tab Word Search Search* 
 * [PopUp Encyclopedia](https://addons.mozilla.org/en-US/firefox/addon/popup-encyclopedia/) - *Popup Encyclopedia & Dictionary* 
-* [Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - *Search Selected Text / Multi Site Search*
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - *Search Current Domain* 
 * [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - *Custom Firefox Theme Creation*
 * [OnelineProton](https://github.com/lr-tech/OnelineProton/) - *Proton Theme for Firefox*
