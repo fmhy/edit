@@ -40,11 +40,12 @@
 * [Epoch Converter](https://www.epochconverter.com/) - *Epoch & Unix Timestamp Conversion Tools* 
 * [How Many Days Since](http://howmanydayssince.net/) or [How Many Days Until](https://howmanydaysuntil.co/) - *Calculate Days Since a Date*
 * [e.gg Timer](https://e.ggtimer.com/) - *Timer*
+* [SetAlarmClock](https://setalarmclock.net/) - *Online Alarm Clock*
 * [Dashana](https://dashana.com/) or [ParaView](https://github.com/Kitware/ParaView) - *Data Visualization Tool*
 * [Grocy](https://grocy.info/) - *Grocery / Household Management Tool*
 * [Volmarg](https://volmarg.github.io/) - *Personal Management Tool*
-* [Taskwarrior](https://taskwarrior.org/) - *To-Do List CLI*
-* [Focalboard](https://www.focalboard.com/) - *Project Management Tool*
+* [Focalboard](https://www.focalboard.com/) or [Dendron ](https://www.dendron.so/) - *Project Management Tool*
+* [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - *To-Do List Apps*
 * [Creative Commons](https://creativecommons.org/) - *Creative Commons Licenses*
 * [ievaphone](https://ievaphone.com/), [blacktel](https://www.blacktel.io/), [Citrustel](https://www.citrustel.com/) or [PopTox](https://www.poptox.com/) - *Make Free Phone Calls*
 * [Free-lookup](https://www.free-lookup.net/) - *Phone # Lookup*
@@ -140,6 +141,7 @@
 * [EleutherAI](https://6b.eleuther.ai/) - *Text / Story Autocomplete*
 * [StoryAI](https://storyai.botsociety.io/) - *Story Autocomplete*
 * [Twinery](https://twinery.org/) - *Interactive Non-Linear Story Creator*
+* [NovelWriter](https://novelwriter.io/) - *Markdown Style Novel Editor*
 * [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - *Generate Fantasy Names*
 * [Lorem Ipsum Generator](https://apps.maximelafarie.com/lig/) - *Generate Placeholder Text*
 * [text-regenerator](https://github.com/jddunn/text-regenerator) - *Replace Words with Synonyms*
@@ -497,6 +499,8 @@
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - *Design Job Subreddit*
 * [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - *Career Guidance Subreddit*
 * [ReallyConfused](https://reallyconfused.co/) - *Career Roadmaps*
+* [Crypto Ecosystem 2021](https://docs.google.com/document/d/1RM7AoUKbXEqZ2qATTxGYLMexu3Jxrf3oYiwbsrXOXUQ) - *Beginner's Guide to Crypto Ecosystem*
+* [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - *Crypto Learning Resources*
 * [TryHackMe](https://tryhackme.com/), [AWS Training](https://www.aws.training/), [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html), [UI.com](https://www.ui.com/training/), [CryptoHack](https://cryptohack.org/) - *IT Training & Courses*
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - *Cloud Career Training*
 * [learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - *Cloud Computing Fundamentals*
