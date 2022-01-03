@@ -1521,7 +1521,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Android**
 
-[Mull](https://divestos.org/fdroid/official?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467), [DuckDuckGo Privacy Browser](https://duckduckgo.com/app), [BiscuitBrowser](https://github.com/CookieJarApps/BiscuitBrowser), [SmartCookieWeb](https://smartcookieweb.com/), [2](https://github.com/CookieJarApps/SmartCookieWeb-preview) / [YTDL](https://github.com/CookieJarApps/VideoDL), [Privacy Browser](https://f-droid.org/en/packages/com.stoutner.privacybrowser.standard/), [friendly](https://friendly.io/), [InBrowser](https://www.inbrowserapp.com/)
+[Mull](https://divestos.org/fdroid/official?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467), [DuckDuckGo Privacy Browser](https://duckduckgo.com/app), [BiscuitBrowser](https://github.com/CookieJarApps/BiscuitBrowser), [SmartCookieWeb](https://smartcookieweb.com/), [2](https://github.com/CookieJarApps/SmartCookieWeb-preview) / [YTDL](https://github.com/CookieJarApps/VideoDL), [Privacy Browser](https://f-droid.org/en/packages/com.stoutner.privacybrowser.standard/), [friendly](https://friendly.io/), [InBrowser](https://www.inbrowserapp.com/), [SnapSearch](https://snapsearch.online/)
 
 ***
 
@@ -1931,6 +1931,7 @@ Add the following commands to a search to manually scrape each site.
 * [nsw2u](https://nsw2u.xyz/)
 * [XCI NSP](https://www.xcinsp.com/)
 * [Switchrls](https://switchrls.co/)
+* [NswRoms](https://nswrom.com/)
 * [Switch Rom Drive](https://drive.google.com/drive/folders/1cvmYivzmjsbVwMb79edP2w0QKvFPfKFJ) 
 * [Switch Archive](https://docs.google.com/spreadsheets/d/1lRMTxSAJiASOdT1ZlCyYrUnXkVt58jg46Y-2w3RrMtA/edit) 
 
