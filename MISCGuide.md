@@ -530,8 +530,9 @@
 * [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - *Generate Article Summaries*
 * [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - *News Site Indexes* 
 * [Google Alerts](https://www.google.com/alerts) - *News Alerts by Topics*
+* [Slower News](https://www.slowernews.com/) - *Breaking News*
 * [PublicAlerts](https://google.org/publicalerts) - *Important News / Disaster Alerts*
-* [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Geeks3D](https://www.geeks3d.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
+* [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
 * [Liliputing](https://liliputing.com/) - *Linux Mobile News*
 * [Latest Privacy](https://latestprivacy.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - *Privacy News*
 * [We Fight Censorship](http://3kyl4i7bfdgwelmf.onion/) - *Censorship News*
@@ -618,6 +619,7 @@
 * [Recipe Puppy](http://www.recipepuppy.com/about/api/) - *Recipe API* 
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - *Child Nutrition / Cooking Course* 
 * [tacofancy](https://github.com/sinker/tacofancy) - *Taco Recipe Index* 
+* [Bakerella](http://www.bakerella.com/) - *Baking Recipes*
 * [The Bread Code Manifesto](https://github.com/hendricius/the-bread-code) - *Bread Baking Recipes* 
 * [Pizza Dough](https://github.com/hendricius/pizza-dough) - *Pizza Dough Recipes* 
 * [Mozzarella](https://github.com/hendricius/mozzarella) - *Mozzarella Recipes* 
@@ -681,6 +683,7 @@
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - *BMR / TDEE Calculator*
 * [BMI Chart](https://i.imgur.com/JHJCmDM.png) - *Healthy BMI Graph*
 * [/r/BodyweightFitness](https://www.reddit.com/r/BodyweightFitness) - *Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)*
+* [Bodyweight Fitness Progressions](https://docs.google.com/spreadsheets/d/1a8tlZ-zbF695HA3Lmm20OIYeYYxo1lmUOczUXKLoL4s/)
 * [/r/LoseIt](https://www.reddit.com/r/loseit/) - *Weight Loss Subreddit*
 * [MOVE! Coach](https://mobile.va.gov/app/move-coach) - *Weight Loss Program*
 * [Weight Loss Side Effects](https://weight-loss-side-effects.netlify.app/) - *Weight Loss Side Effect Mitigation*
@@ -710,6 +713,7 @@
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - *Interactive Self Care Guide*
 * [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - *Drug Information & Side Effects*
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - *Mindfulness / Stress Reduction Tips*
+* [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - *Mental Health Coping Skills*
 * [MediLog](https://gitlab.com/toz12/medilog) - *Medical Data Log*
 * [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - *Insomnia Prevention Tips*
 * [eXHALeR](https://www.xhalr.com/) - *Yoga / Meditation Breathing Tool* 
