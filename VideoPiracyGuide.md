@@ -829,6 +829,7 @@
 * [Hakata Ramen](https://discord.gg/4teAREmqdQ) - *Sub*
 * [SSAnime](https://ssanime.ga/) - *Sub*
 * [DameDesuYo](https://damedesuyo.com/) - *Sub* 
+* [HoribbleSubs](https://horriblesubs.cc/) - *Sub*
 * [GoodJobMedia](https://www.goodjobmedia.com/) - *Sub*
 * [Chihiro](https://chihiro-subs.com/) - *Sub*
 * [AnimeRG](https://animereleasegroup.blogspot.com/) - *Sub / Dub*
