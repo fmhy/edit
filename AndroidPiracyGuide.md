@@ -529,7 +529,7 @@
 * **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players)** - *Music Players / Libraries*
 * **[Spotify APK](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=Spotify&sf=titleonly)** (No Ads) or [Altas-Notas](https://github.com/polonez-byte-112/Altas-Notas) - *Streaming / [Version Manager](https://github.com/xManager-v2/xManager-Spotify) / [Downloader](https://github.com/sheensantoscapadngan/SpotaFree) / [Friend Activity](https://spotivity.vercel.app/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://f-droid.org/packages/com.rohit2810.spotit/), [3](https://github.com/aghontpi/ad-silence)*
 * [YouTube Music Vanced](https://vancedapp.com/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [HoloPlay](https://holoplay.io/) or [YMusic](https://ymusic.io/) - *YouTube Music Player*
-* [Spotiflyer](https://f-droid.org/en/packages/com.shabinder.spotiflyer/) - *Spotify Audio Downloader*
+* [Spotiflyer](https://f-droid.org/en/packages/com.shabinder.spotiflyer/) - *Spotify Audio Downloader / [GitHub](https://github.com/Shabinder/SpotiFlyer/)*
 * [Finamp](https://github.com/UnicornsOnLSD/finamp) - *Jellyfin Music Player*
 * [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - *Subsonic Client*
 * [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - *Streaming*
@@ -559,7 +559,7 @@
 * [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer) - *Audio Equalizer*
 * [Voleq](https://play.google.com/store/apps/details?id=com.veryclevernamecompany.voleq) - *Volume Equalizer*
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - *Identify Playing Songs*
-* [skipTrackLongPressVolume](https://github.com/Cilenco/skipTrackLongPressVolume) - *Long Press Volume Button Track Skip*
+* [skipTrackLongPressVolume](https://github.com/Cilenco/skipTrackLongPressVolume) or [Volumee](https://maslanka.app/volumee/) - *Volume Button Track Control*
 * [MImport](https://julioverne.github.io/description.html?id=com.julioverne.mimport ) - *Audio Import Tool*
 
 ***
