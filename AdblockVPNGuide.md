@@ -134,6 +134,7 @@
 * [SigThief](https://github.com/secretsquirrel/SigThief) - *Signature Test* 
 * [YARA](https://virustotal.github.io/yara/) - *Malware Identification Tool*
 * [Winitor](https://www.winitor.com/) - *EXE Malware Assessment*
+* [PyWhat](https://github.com/bee-san/pyWhat) - *.pcap File Scanner*
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - *Penetration Testing Index*
 * [DefenderUI](https://www.defenderui.com/) - *Improved Microsoft Defender UI*
 * [wideredist](https://gitlab.com/urbanware-org/wideredist) - *Update Windows Defender Definitions Locally*
