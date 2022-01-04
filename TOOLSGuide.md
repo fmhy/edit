@@ -751,7 +751,7 @@ General Reading Sites*
 * [SearchEnginesIndex](https://www.searchenginesindex.com/), [Fagan Finder](https://www.faganfinder.com/), [DirectSearch.Net](http://www.directsearch.net/) or [Search Engine Colossus](https://www.searchenginecolossus.com/) - *Search Engine Directory*
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - *DuckDuckGo !bang Meta Serarch / [GitHub](https://github.com/MoserMichael/duckduckbang)*
 * [Jumps](https://jumps.io/) - *Site Quick Search*
-* [Soovle](https://soovle.com/) or [Keyword Tool](https://keywordtool.io/) - *Popular Keyword Generator*
+* [Soovle](https://soovle.com/), [Keyword.io](http://www.keyword.io/) or [Keyword Tool](https://keywordtool.io/) - *Popular Keyword Generator*
 * [Esteroids](https://esteroids.eth.limo/#) - *Decentralized Web Search Engine*
 * [Social-Searcher](https://www.social-searcher.com/), [HashFinder](https://www.hashfinder.xyz/) or [Social Mention](http://socialmention.com/) - *Social Media Search Engine*  
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - *Forum Search Engine* 
@@ -1636,12 +1636,14 @@ General Reading Sites*
 * [FreeOnlineEditor](https://freeonlineeditor.com/) - *Multiple File Tools*
 * [horsicq](https://horsicq.github.io/) - *Multiple File Programs / [GitHub](https://github.com/horsicq/)*
 * [Pandoc](https://pandoc.org/) or [CometDocs](https://www.cometdocs.com/) - *Document Converter* 
+* [Interior Generator](https://powerkdp.com/interior-generator/) / [2](https://designer.bookbolt.io/interior-generator.php) - *Document Interior Generator*
 * [ConvertCSV](https://www.convertcsv.com/) - *CSV Data Conversion*
 * [Encoding Converter](https://encoding-converter.netlify.app/) - *File Encoding Converter*
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - *DataHoarding Tools Index*   
 * [FileInfo](https://fileinfo.com/) or [File-Extensions](https://www.file-extensions.org/) - *File Extension Library*
 * [download](https://github.com/kevva/download) - *File Download Tool / Extractor / [CLI](https://github.com/kevva/download-cli)*
 * [DropIt](http://www.dropitproject.com/) - *Automated File Management*
+* [What](https://github.com/bee-san/pyWhat) - *Text & File Analyzer*
 * [Download Proxy](https://download-proxy.zhaofengying.com/) - *File Proxy Server Downloader*
 * [Files 2 Folder](https://www.dcmembers.com/skwire/download/files-2-folder/) - *Create / Copy to Folders Created by File Name*
 * [File-Examples](https://file-examples.com/) - *File Examples*
