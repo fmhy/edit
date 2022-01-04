@@ -445,6 +445,7 @@
 * [CXtv](http://www.cxtvlive.com/) - *TV / Sports*
 * [USTV247](https://ustv247.tv/) - *TV / Sports*
 * [ProLive](https://prolive.tv/) - *TV / Sports*
+* [TvFlix](https://tvflix.netlify.app/) - *TV / Sports*
 * [DesiFree](https://www.desifree.tv/) - *TV / Sports*
 * [FreeInterTV](http://www.freeintertv.com/) - *TV / Sports*
 * [Stream4Free Live](https://www.stream4free.live/) - *TV / Sports*
