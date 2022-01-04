@@ -32,6 +32,7 @@
 * [FutureCoder](https://futurecoder.io/), [2-Python](https://mega.nz/folder/QgdziAiK#QgEW3PY8P5znFR0mNQ-njQ) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - *Python Course*
 * [Tea Press](https://greenteapress.com/wp) - *Free Python Learning Books Green*
 * [VSCode.one](https://vscode.one/) - *VS Code Tutorials*
+* [Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - *Programming & Development Learning Channels*
 * [Aquent Gymnasium](https://thegymnasium.com/) - *Courses* 
 * [SchoolOfHaskell](https://www.schoolofhaskell.com/) - *Haskell Tutorials* 
 * [QuickRef.ME](https://quickref.me/), [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - *Developer Cheat Sheets*
@@ -620,10 +621,13 @@
 * [Trunk](https://trunk.io/) - *Run Linters/Formatters/Checkers Simultaneously*
 * [Mega Linter](https://github.com/nvuillam/mega-linter) or [SonarCloud](https://sonarcloud.io/) - *Code Analyzer* 
 * [tabnine](https://www.tabnine.com/) - *AI Assisted Code Completion*
+* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - *Check for Edge Case Inputs*
 * [editorcornfig](http://editorconfig.org/) - *Maintain consistent code styles across editors*
 * [CodeCapsules](https://codecapsules.io/) - *Code Deployment*
 * [overmind](https://github.com/DarthSim/overmind) or [foreman](https://github.com/ddollar/foreman) - *Process Managers*
 * [cpp.sh](http://cpp.sh/) - *Online C++ Compiler*
+* [CP-Algorithms](https://cp-algorithms.com/) - *C++ Algorithms*
+* [The Algorithms](https://the-algorithms.com/) - *Algorithms Index*
 * [Clang](https://clang.llvm.org/) - *C Language Family Frontend*
 * [GCC](https://gcc.gnu.org/) - *GNU Compiler Frontends*
 * [asdf](https://asdf-vm.com/) - *Multi-Runtime Management CLI*
