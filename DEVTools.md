@@ -130,7 +130,7 @@
 # ► Developer Tools
 
 * **[List.community](https://list.community/)** - *Programming / Development GitHub Lists* 
-* [free-for.dev](https://free-for.dev/), [DevToys](https://github.com/veler/DevToys), [JetBrains](https://jetbrains.com/) / [Trial Reset](https://rentry.org/52oyb), [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse](https://www.eclipse.org/), [Free Dev stuff](https://freestuff.dev/) or [Tiny Tools](https://tinytools.directory/) - *Developer Tools*
+* [free-for.dev](https://free-for.dev/), [DevToys](https://github.com/veler/DevToys), [JetBrains](https://jetbrains.com/) / [Trial Reset](https://rentry.org/52oyb), [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Dev stuff](https://freestuff.dev/) or [Tiny Tools](https://tinytools.directory/) - *Developer Tools*
 * [Image Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools) - *Image & Graphic Design Tools*
 * [ReverseEagle](https://forge.tedomum.net/groups/ReverseEagle/-/archived), [2](https://web.archive.org/web/20210116205638/https://developers.reverseeagle.org/) - *Privacy Focused Developer Software*
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - *Open Source Development Software*
@@ -415,7 +415,7 @@
 * [Playerio](https://playerio.com/) - *Online Game Engine*
 * [RPG Playground](https://rpgplayground.com/) - *Simple RPG Creator*
 * [Game-Editor](http://game-editor.com/Main_Page) or [BuildBox](http://buildbox.com/) - *Game Creator*
-* [HaxeFlixel](https://haxeflixel.com/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - *2D Game Engine*
+* [HaxeFlixel](https://haxeflixel.com/), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - *2D Game Engine*
 * [Designer Toolkit](https://ldtk.io/) - *2D Level Editor Level*
 * [stencyl](https://www.stencyl.com/) - *Codeless Game Engine*
 * [Kaboomjs](https://kaboomjs.com/) - *Quickly Make Games with Javascript*
@@ -463,6 +463,7 @@
 * [Leon's CSS](https://leonarnott.neocities.org/ ) - *CSS Text Styles*
 * [Hover.CSS](https://ianlunn.github.io/Hover/) - *CSS Hover Effects* 
 * [Clippy](https://bennettfeely.com/clippy/) - *CSS Clip Maker*
+* [Separator Generator](https://wweb.dev/resources/css-separator-generator/) - *CSS Separator Generator CSS*
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - *Organic CSS Shape Generator*
 * [BestCSSButtonGenerator](https://www.bestcssbuttongenerator.com/) - *CSS Button Generator*
 * [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds), [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://gradienta.io/), [GradientMagic](https://www.gradientmagic.com/), [heropatterns](https://heropatterns.com/), [thepatternlibrary](http://thepatternlibrary.com/), [CSSGradient](https://cssgradient.io/) or [uigradients](https://uigradients.com/) - *CSS Patterns / Gradients* 
