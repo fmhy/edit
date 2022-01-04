@@ -228,7 +228,7 @@
 * [Batocera.linux](https://batocera.org/) - *Retro Gaming Distro*
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - *Rust TUI for Steam*
 * [steam-cli](https://github.com/berenm/steam-cli) - *CLI for Steam*
-* [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher*
+* [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher*
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - *GOG Client*
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - *Linux Gaming Kernels*
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - *Linux System Optimizer*
@@ -378,5 +378,5 @@
 * [Mac Torrents](https://www.torrentmac.net/) 
 * [MacTorrents](https://mactorrents.io/)
 * [Download-Mac-Torrent](http://www.download-mac-torrent.ru/)
-* [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher*
+* [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher*
 * [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - *Gamecube iso.dec to ISO Converter*
