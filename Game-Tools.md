@@ -193,7 +193,7 @@
 
 ## ▷ Epic Tools
 
-* **[LEGENDARY](https://github.com/derrod/legendary)**, [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) or [Rare](https://github.com/Dummerle/Rare) - *Epic Games Launcher* 
+* **[LEGENDARY](https://github.com/derrod/legendary)**, [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) or [Rare](https://github.com/Dummerle/Rare) - *Epic Games Launcher* 
 * [EpicAuth-Loader](https://gitlab.com/TheTank3753/EpicAuth-Loader) - *Cracked Epic Games Launcher*
 * [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - *Epic Online Service Emulator*
 * [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - *Epic DLC Unlocker* 
