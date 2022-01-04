@@ -151,6 +151,7 @@
 * [Electerm](https://electerm.github.io/electerm) - *Terminal / SSH / STP Client*
 * [Yakuake](https://apps.kde.org/yakuake/) - *Quake Style Terminal Emulator*
 * [theme.sh](https://github.com/lemnos/theme.sh) or [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - *Custom Terminal Themes*
+* [atuin](https://github.com/ellie/atuin) - *Shell History Management*
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - *Generate Bonsai Trees in Terminal*
 * [pipes.sh](https://github.com/pipeseroni/pipes.sh) - *Animated Pipes in Terminal*
 * [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - *App Image Launcher*
