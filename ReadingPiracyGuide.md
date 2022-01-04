@@ -555,6 +555,7 @@
 * **Sci-Hub Tools** - *[Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [3](https://sci-hub.tech/), [4](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button) / [PDF Download](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub)*
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - *How to bypass article paywalls*
 * [Wikisource](https://en.wikisource.org) - *Poetry / Text / Documents*
+* [Heystacks](https://heystacks.org/) - *Public Google Docs*
 * [Alex Catalogue](http://www.infomotions.com/alex/) - *English / Philosophy Documents*  
 * [FindPDFDoc](http://www.findpdfdoc.com/) - *Document Search* 
 * [PDFSlide](https://pdfslide.net/) - *Document Search* 
