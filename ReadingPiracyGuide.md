@@ -372,15 +372,15 @@
 
 # ► Educational Sites
 
-* **[Math Resource Guide](https://free-math-resources.netlify.app/)** - *Curated list of math resources by /u/javacoder19*
-* **[IvyPanda](https://ivypanda.com/blog/1000-open-textbooks-and-learning-resources-for-all-subjects/)** - *List of educational sites*
+* **[MyAnonaMouse](https://www.myanonamouse.net/)** - *[Interviews](https://www.myanonamouse.net/inviteapp.php)*
 * **[Digitalbookindex](http://www.digitalbookindex.org)**
 * **[AcademicTorrents](https://academictorrents.com/)**
+* **[IvyPanda](https://ivypanda.com/blog/1000-open-textbooks-and-learning-resources-for-all-subjects/)** - *List of educational sites*
+* **[Math Resource Guide](https://free-math-resources.netlify.app/)** - *Curated list of math resources by /u/javacoder19*
 * **[Language Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_language_learning)** - *Language Learning Tools, Books & Sites*
 * [Math and Physics Books](https://drive.google.com/drive/folders/1Z30-9EO6B0oEuFHYMKUzzzEO6p82-dYU) - *[Discord](https://discord.gg/v23hTtx)*
 * [Library Drive](https://mega.nz/folder/bbwn0IrI#fwxcM4YiLJTO-HoiGBKRjg)
 * [Openstax](https://openstax.org/) 
-* [MyAnonaMouse](https://www.myanonamouse.net/) - *[Interviews](https://www.myanonamouse.net/inviteapp.php)*
 * [Online Books Page](https://onlinebooks.library.upenn.edu/) 
 * [The Literature Network](http://www.online-literature.com/) 
 * [Memory of the World](https://library.memoryoftheworld.org/#/books/) 
