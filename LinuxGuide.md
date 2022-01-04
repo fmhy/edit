@@ -25,6 +25,7 @@
 * [Spot](https://github.com/xou816/spot) - *Spotify Desktop Client for Gnome* 
 * [Linux Difficulty Chart](https://i.imgur.com/H8sw3L4.png) - *Distros Ranked by Difficulty*
 * [BusyBox](https://frippery.org/busybox/) - *Unix Tools*
+* [Enlightment](https://www.enlightenment.org/) - *Desktop and Window Manager*
 * [swizzin](https://swizzin.ltd/) - *Seedbox for Ubuntu / Debian* 
 * [rtinst](https://github.com/arakasi72/rtinst) - *Seedbox Installation Script for Ubuntu / Debian* 
 * [anime-terminal](https://github.com/YogeshLamichhane/anime-terminal) or [ani-cli](https://github.com/pystardust/ani-cli) - *Anime Streaming Terminal for Linux*
@@ -112,6 +113,7 @@
 * [Ecasound](http://nosignal.fi/ecasound/) - *Multitrack Audio-Processor / Linux*
 * [cava](https://github.com/karlstav/cava) - *Console Audio Visualizer*
 * [Peek](https://github.com/phw/peek) - *Simple Video / GIF recorder*
+* [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - *Fake Webcam Background*
 * [utils](https://github.com/Loupeznik/utils) - *Linux Utility Scripts*
 * [Mayfrost Guides](https://github.com/mayfrost/guides) - *Linux / Computing Guides*
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - *Easy Way to Use KVM*
@@ -160,6 +162,7 @@
 * [AppImageHub](https://appimage.github.io/) or [get-appimate](https://g.srev.in/get-appimage/) - *Download AppImages / [CLI](https://zap.srev.in/)*
 * [Homebrew](https://brew.sh/) - *Package Manager*
 * [yay](https://github.com/Jguer/yay) - *AUR Helper / Pack Manager*
+* [MPR Packages](https://mpr.hunterwittenborn.com/)
 * [pacwall](https://github.com/Kharacternyk/pacwall) - *Live Wallpaper that shows Dependency Graph & Status of Installed Packages* 
 * [picom](https://github.com/yshui/picom) - *X11 Compositor*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
@@ -168,12 +171,13 @@
 * [explainshell.com](https://explainshell.com/) - *Match Command-Line Arguments to Help Text*
 * [ShellCheck](https://www.shellcheck.net/) - *Shell Script Bug Check*
 * [Command Line Shells](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_command_line_shells)
+* [nosystemd](https://nosystemd.org/) - *Reasons Why Systemd is Disliked*
 
 ***
 
 # ► Linux Adblock / Privacy
  
-* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - *Linux Privacy Guide* 
+* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) or [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) - *Linux Privacy Guide* 
 * [Lynis](https://github.com/CISOfy/lynis) - *Linux Security Auditing Tool*
 * [Twilio Authy](https://snapcraft.io/authy) - *Linux Two-Factor Authentication*
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) or [Gufw](http://gufw.org/) - *Linux Firewall* 
@@ -282,7 +286,7 @@
 * [MacLaunch](http://github.com/hazcod/maclaunch) - *Manage Startup Items*
 * [Sloth](https://github.com/sveinbjornt/Sloth) - *MacOS Process Manager*
 * [pongoOS](https://github.com/checkra1n/pongoOS) - *Mac Pre-Boot Executor*
-* [Magnet Pro](https://haxmac.cc/?s=magnet+pro) - *Mac Window Tiling*
+* [Magnet Pro](https://haxmac.cc/?s=magnet+pro) or [Rectangle](https://rectangleapp.com/) - *Mac Window Tiling*
 * [Homebrew](https://brew.sh/) - *Package Manager*
 * [AlDente](https://github.com/davidwernhart/AlDente) - *MacOS Charging Manager*
 * [Unlocker](https://github.com/paolo-projects/unlocker) - *VMware Unlocker*
