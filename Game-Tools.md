@@ -256,7 +256,7 @@
 * [mcsrvstat](https://mcsrvstat.us/) - *Server Status Updates*
 * [LazyMc](https://github.com/timvisee/lazymc) - *Idle Minecraft Server*
 * [Salwyrr Launcher](https://www.salwyrr.com/) or [MultiMC5-Cracked](https://github.com/AfoninZ/MultiMC5-Cracked) - *Free Premium Minecraft Launchers*
-* [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) - *Minecraft Modding API* 
+* [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - *Minecraft Modding API* 
 * [PVPRP](https://pvprp.com/) - *Minecraft Texture Packs*
 * [IrisShader](https://www.curseforge.com/minecraft/mc-mods/irisshaders) - *Fabric Shadermod for Minecraft*
 * [Nova Skin](https://minecraft.novaskin.me/), [NeedCoolShoes](https://www.needcoolshoes.com/) or [Blockbench](https://www.blockbench.net/)- *Minecraft Skin Editor* 
