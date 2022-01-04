@@ -188,7 +188,7 @@
 * [Track This]( https://trackthis.link/) - *Confuse Personal Advertising by opening 100 tabs* 
 * [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete) - *Secure File Deletion*
 * [VeraCrypt](https://www.veracrypt.fr/en/Home.html) or [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup) - *Disk Encryption Software*
-* [Cryptomator](https://cryptomator.org/), [Boxcryptor](https://www.boxcryptor.com/en/), [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) or [Filen](https://filen.io/) - *Cloud File Encryption*
+* [Cryptomator](https://cryptomator.org/), [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - *Cloud File Encryption*
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - *Encrypt / Decrypt GDrive*
 * [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/), [Skytransfer](https://skytransfer.hns.siasky.net) or [upload-vaa](https://upload.vaa.red/) - *Encrypted File Host* 
 * [EncFS MP](https://encfsmp.sourceforge.io/index.html), [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/), [CipherShed](https://www.ciphershed.org/), [GPG4Win](https://www.gpg4win.org/), [Kryptor](https://www.kryptor.co.uk/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - *File Encryption Tool* 
@@ -464,7 +464,7 @@
 * [Mozilla FPN](https://fpn.firefox.com/) - *VPN Extension / [Pricing](https://i.imgur.com/wW5rVO2.png) / Mullvad Servers*
 * [StrongSwan](https://www.strongswan.org/) - *IPsec VPN*
 * [WireHole](https://github.com/IAmStoxe/wirehole) - *Wireguard VPN w/ Adblocking Capabilities* 
-* [Syntropy](https://www.syntropystack.com/vpn) or [Outline](https://getoutline.org/) - *Self-Hosted VPN*
+* [Syntropy](https://www.syntropystack.com/vpn), [VpnHood](https://github.com/vpnhood/VpnHood ) or [Outline](https://getoutline.org/) - *Self-Hosted VPN*
 * [Kaspersky](https://www.kaspersky.co.uk/vpn-secure-connection) - *Free VPN / 200 MB per day / No Account Required*
 * [OpenConnect](https://www.infradead.org/openconnect/) - *SSL VPN*
 * [TurboVPN](https://turbovpn.com/) - *Free VPN*
