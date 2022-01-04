@@ -989,7 +989,7 @@
 * [Page Edit](https://mybrowseraddon.com/page-edit.html) - *Turn Webpages into Editable Documents*
 * [Save Page WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_save_page_we), [SingleFile](https://github.com/gildas-lormeau/SingleFile) or [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - *Save Webpages as HTML* 
 * [Listly](https://www.listly.io/) - *Webpage to Spreadsheet Converter*
-* [Download all Images](https://add0n.com/save-images.html) or [Cute Save Button](https://github.com/Dezaimasu/cute-button) - *Image Downloaders*
+* [Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)
 * [Favicon Detector](https://github.com/BlackGlory/favicon-detector) - *Detect Website Favicons*
 * [behind!](https://github.com/kubuzetto/behind) - *View Background Images*  
 * [UI.Vision RPA](https://ui.vision/) - *Workflow Automation*  
