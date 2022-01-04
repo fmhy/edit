@@ -646,7 +646,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Cloud Storage** 
 
-**[GDrive](https://drive.google.com/)**, **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz), [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [disk.yandex](https://disk.yandex.com/), [TeledriveApp](https://teledriveapp.com/), [dubox](https://dubox.com/), [mediafire](https://www.mediafire.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [clouddrive](https://www.clouddrive.site/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [gdflix](https://gdflix.bar/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/) 
+**[GDrive](https://drive.google.com/)**, **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz), [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [disk.yandex](https://disk.yandex.com/), [TeledriveApp](https://teledriveapp.com/), [dubox](https://dubox.com/), [mediafire](https://www.mediafire.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [clouddrive](https://www.clouddrive.site/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [gdflix](https://gdflix.bar/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/) 
 
 **Multi Host Uploaders**
 
