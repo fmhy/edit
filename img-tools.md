@@ -16,7 +16,7 @@
 * **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/), [4](https://mega.nz/file/E5MwmT5Z#YP-vMSTcm8voKjb72_nHsLYH1AGmliWsbUGXVJhNHDE) - *Design Tool Resource Indexes*   
 * **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - *Glitch Images*
 * [rexpaint](https://www.gridsagegames.com/rexpaint/) - *ASCII Art Editor*
-* [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Stencil](https://getstencil.com/), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/) or [Glitterly](https://glitterly.app/) - *Graphic Design Tools*
+* [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Canva](http://canva.com/), [Stencil](https://getstencil.com/), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/) or [Glitterly](https://glitterly.app/) - *Graphic Design Tools*
 * [Scribus](http://www.scribus.net/) - *Page Layout & Typesetting Program*
 * [FreeCourseSEO](https://freecourseo.com/) - *GFX Design Courses / [Telegram](https://t.me/freecoursessite1)*
 * [1TB Art Courses](https://pastebin.com/hKgJG2Vz) - *Art Courses*
@@ -120,7 +120,7 @@
 * [Mega creator](https://icons8.com/mega-creator) - *Promo / Poster Creator*
 * [Band-Flyers](https://band-flyers.com/) - *Band Flyer Creator*
 * [Mockupea](https://mockupea.com/) - *Book / Magazine Mockup Cover Creator*
-* [PSDcovers](https://www.psdcovers.com/) - *Product Mockup Maker*
+* [PSDcovers](https://www.psdcovers.com/), [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [medialoot](https://medialoot.com/free-mockups/) or [MockupsForFree](https://mockupsforfree.com/) - *Product Mockups*
 * [Venngage](https://venngage.com/) - *Infographic Maker*
 * [Quote Maker](https://quotescover.com/) - *Quote Picture Generator*
 * [MyNameArt](https://www.mynameart.com/) - *Custom Greetings Cards*
@@ -175,6 +175,7 @@
 * [MonsterMash](https://monstermash.zone/) - *Sketch Based Modeling & Animation Tool*
 * [Picrew](https://picrew.me/) - *Animated Character Maker*  
 * [Ink Workspace](https://www.microsoft.com/store/productId/9P0RP342JZMN) - *Pen App Launcher*
+* [brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](http://wowbrushes.com/), [chezplumeau](https://www.chezplumeau.com/), [brushesdownload](http://www.brushesdownload.com/), [getbrushes](http://getbrushes.com/), [gfxfever](http://gfxfever.com/photoshop-brushes), [fbrushes](https://fbrushes.com/), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/) - *Digital Art Brushes*
 
 *** 
 
