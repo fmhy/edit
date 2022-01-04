@@ -142,6 +142,7 @@
 * [FileManager](https://github.com/SimpleMobileTools/Simple-File-Manager) - *File Manager*
 * [Passman Android](https://github.com/nextcloud/passman-android) - *Password Manager*
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - *Note Taking Apps*
+* [Git Journal](https://gitjournal.io/) - *Mobile Markdown Notes*
 * [Magisk](https://magiskmanager.com/) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - *Android Root Tool / [Mods](https://t.me/magiskmod_update) / [GitHub](https://github.com/topjohnwu/Magisk/releases)*
 * [Android Tool](https://github.com/fast-geek/Android-Tool) - *ABD / Fastboot Command Program*
 * [Amazing Temp Root](https://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - *MediaTek Temp Root*
@@ -836,6 +837,7 @@ RSS Player*
 * [IRuin](https://iriun.com/) - *Use iOS Device as Webcam* 
 * [Measure](https://apps.apple.com/us/app/measure/id1383426740) - *Turn iPhone / iPad into Tape Measure*
 * [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303) or [NetNewsWire](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210) - *RSS Reader*
+* [Git Journal](https://gitjournal.io/) - *Mobile Markdown Notes*
 * [CapCut](https://www.capcut.net/) - *Video Editor*
 * [PicsArt++](https://cokernutx.com/ipa-library/download/PicsArt.html), [2](https://picsart.com/apps) or [PhotoWizard](https://apps.apple.com/us/app/photowizard-photo-editor/id370833324) - *Image Editor*
 * [ToonMe](https://toonme.com/) - *Turn Photos into Cartoons*
