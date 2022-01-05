@@ -204,7 +204,7 @@
 * [/r/xTrill](https://reddit.com/r/xTrill) - *MP3 / FLAC / [Discord Bot](https://discord.gg/xtrill) / [Backup](https://reddit.com/r/xTrillBackup)*
 * [streamrip](https://github.com/nathom/streamrip) - *Deezer, TIDAL, Qobuz, YouTube, and SoundCloud Downloader / [Colab](https://github.com/taskylizard/uwustreamrip)*
 * [DeezerToDrive](https://t.me/deezertodrivebot) - *Deezer, Qobuz, TIDAL, Napster & Spotify to GDrive Bot*
-* [Orpheus](https://github.com/yarrm80s/orpheusdl) - *FLAC / MP3*
+* [Orpheus](https://github.com/yarrm80s/orpheusdl) - *Music Ripper*
 * [FreyrJS](https://github.com/miraclx/freyr-js) - *Spotify, Deezer and Apple Music Downloader*
 * [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - *Download from Deezer*
 * [OFFMP3](https://offmp3.com/) or [conversormp3](https://conversormp3.com.br/) - *Video Site to MP3 Converter*
