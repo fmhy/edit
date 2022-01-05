@@ -384,8 +384,9 @@
 * [Blisk](https://blisk.io/) - *Cross-Device Testing*
 * [Booster](https://github.com/didi/booster) - *Mobile App Optimization*
 * [Mobbin](https://www.mobbin.design/) - *Mobile App Design Reference Library*
-* [Xcode](https://developer.apple.com/xcode/) - *Test and Build iOS / iPadOS Apps *
+* [Xcode](https://developer.apple.com/xcode/) - *Test and Build iOS / iPadOS Apps*
 * [IconKitchen](https://icon.kitchen/) or [AppIcon](https://appicon.co/)- *App Icon Generator*
+* [iOS Icon Gallery](https://www.iosicongallery.com/) - *iOS Icon Examples*
 * [Plank](https://launchpad.net/plank) - *Simple Dock / [GitHub](https://github.com/ricotz/plank)*
 * [Portainer](https://portainer.io/) - *Build / Manage Docker Containers / [Templates](https://github.com/SelfhostedPro/selfhosted_templates) / [GitHub](https://github.com/portainer/portainer)*
 * [Compose Samples](https://github.com/android/compose-samples) - *App Samples*
@@ -406,6 +407,7 @@
 * [React95](https://react95.io/) - *Windows 95 React Components*
 * [Redex](https://fbredex.com/) - *Android Bytecode Optimizer*
 * [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/) , [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/) or [LS Graphics](https://www.ls.graphics/) - *App & Site Mockups*
+* [UIGarage](https://uigarage.net/) or [LovelyUI](https://lovelyui.com/) - *Mobile UI Designs*
 
 ***
 
@@ -557,7 +559,7 @@
 
 * [SpyColor](https://www.spycolor.com/) - *Color Model Conversions*
 * [Colorful](https://github.com/Siddharth11/Colorful) - *Curated List of Color Scheme Resources* 
-* [Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [MyColor](https://mycolor.space/), [MaterialPalette](https://www.materialpalette.com/), [Adobe Colors](https://color.adobe.com/), [0to255](https://www.0to255.com/), [0xrgb](http://0xrgb.com/), [bootflat](https://bootflat.github.io/color-picker.html), [brandcolors](https://brandcolors.net/), [colorfulgradients](https://colorfulgradients.tumblr.com/), [colourlovers](https://www.colourlovers.com/), [webkul](https://webkul.github.io/coolhue/), [flatuicolors](https://flatuicolors.com/), [materialui](https://materialui.co/colors/), [ColorHunt](https://colorhunt.co/), [colorswall](https://colorswall.com/), [pigment](https://pigment.shapefactory.co/), [Color Palette Generator](http://www.patorjk.com/color-palette-generator/), [colourcode](https://www.toptal.com/designers/colourcode/), [colorscales](http://www.colorscales.com/), [colors.lol](https://colors.lol/), [Color Pallete](http://www.degraeve.com/color-palette), [colorbox](https://colorbox.io/), [colors.eva](https://colors.eva.design/), [hihayk](https://hihayk.github.io/scale/), [calcolor](https://calcolor.co/) or [Coolors](https://coolors.co/) - *Color Palette Generator*
+* [Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [MyColor](https://mycolor.space/), [MaterialPalette](https://www.materialpalette.com/), [Adobe Colors](https://color.adobe.com/), [0to255](https://www.0to255.com/), [0xrgb](http://0xrgb.com/), [bootflat](https://bootflat.github.io/color-picker.html), [brandcolors](https://brandcolors.net/), [colorfulgradients](https://colorfulgradients.tumblr.com/), [colourlovers](https://www.colourlovers.com/), [webkul](https://webkul.github.io/coolhue/), [flatuicolors](https://flatuicolors.com/), [materialui](https://materialui.co/colors/), [ColorHunt](https://colorhunt.co/), [colorswall](https://colorswall.com/), [pigment](https://pigment.shapefactory.co/), [Color Palette Generator](http://www.patorjk.com/color-palette-generator/), [colourcode](https://www.toptal.com/designers/colourcode/), [colorscales](http://www.colorscales.com/), [colors.lol](https://colors.lol/), [Color Pallete](http://www.degraeve.com/color-palette), [colorbox](https://colorbox.io/), [colors.eva](https://colors.eva.design/), [hihayk](https://hihayk.github.io/scale/), [calcolor](https://calcolor.co/), [colorlisa](http://www.colorlisa.com/), [cohesive-colors](https://javier.xyz/cohesive-colors/), [colorleap](https://colorleap.app/) or [Coolors](https://coolors.co/) - *Color Palette Generator*
 * [ColorsAndFonts](https://www.colorsandfonts.com/) - *Quickly Copy Colors & Typography Combinations* 
 * [ColorHexa](https://www.colorhexa.com/) - *Color Hex Encyclopedia*  
 * [Paletton](https://paletton.com/) - *Color Scheme Designer*
