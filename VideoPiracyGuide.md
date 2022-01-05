@@ -710,6 +710,7 @@
 * **[AnimeBatchDDL](https://animebatchddl.wordpress.com/)** - *Sub / Dub / [Discord](https://discord.gg/sgqcm2xCtc)*
 * **[Judas Discord](https://discord.gg/vbJ7RTn)** - *Sub / Dub / [TeamDrive](https://groups.google.com/d/forum/judasddl)* 
 * **[15TB Anime Collection](https://drive.google.com/drive/folders/1vSdJo_OrJNgVIRYsvTwR-PeLyM8L-V0M)** - *Sub / Dub*
+* **[Erai-Raws](https://www.erai-raws.info/)** - *Sub / [Discord](https://discord.gg/2PfWaar)*
 * **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)** - *Telegram Anime Download Channels* 
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - *Sub / Dub / Anime / Manga Download Forum*
 * [Animk](https://animk.info/) - *Sub / Dub*
@@ -730,7 +731,6 @@
 * [MrDeadpool](https://mrdeadpool-encodes.mrdeadpool.workers.dev/0:/) - *Sub / Dub*
 * [ANIME___](https://storage.kanzaki.ru/ANIME___/) - *Sub*
 * [Anime Collection (3Tb)](https://drive.google.com/drive/folders/1nQ73oKeE5b50lzyDeszmdLv6rjYFolk5?usp=sharing) - *Sub / Dub / Drive*
-* [Erai-Raws](https://www.erai-raws.info/) - *Sub / [Discord](https://discord.gg/2PfWaar)*
 * [Anime Devil](https://animedevil.com/) - *Sub / Dub / [Telegram](https://groups.google.com/g/animedevil)*
 * [DameDesuYo](https://damedesuyo.com/) - *Sub*
 * [Chiby](http://www.animechiby.com/) - *Sub*
