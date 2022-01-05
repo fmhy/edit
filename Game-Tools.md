@@ -358,7 +358,6 @@
 * [Otis_Inf Camera Mods](https://redd.it/hvttbd) - *Game Camera Mods*
 * [injectSMAA](http://mrhaandi.blogspot.com/p/injectsmaa.html) - *SMAA Injection Tool*
 * [OpenVR FSR](https://github.com/fholger/openvr_fsr) - *Steam VR FidelityFX Super Resolution Mod*
-* [TS4 Rebels](https://docs.google.com/spreadsheets/d/1TcbNsTFQD0YhqRDJMJr8c2Cna-JuevazErvlo6mXivY/edit#gid=0) - *Sims 4 Mods*
 * [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - *Unlock Genshin Impact FPS Cap*
 * [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - *Unlock Roblox FPS Cap*
 * [Rekt](http://getrektby.us/) - *Black Ops 1 Mod Project / [Discord](https://discord.com/invite/HqjQFCp)*
@@ -368,7 +367,6 @@
 * [Project Reality](https://www.realitymod.com/about) - *BF2 & ARMA 2 Realism Mod*
 * [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - *Battlefield Mod Projects*
 * [Open Carnage](https://opencarnage.net/) / [Discord](https://discord.com/invite/2pf3Yjb), [Reclaimers](https://reclaimers.net/) / [Discord](https://discord.com/invite/reclaimers) or [Halo Mods](https://discord.com/invite/WuurKwr)  - *Halo Modding Community*
-* [Chimps at Sea](https://chimpsatsea.com/) - *Halo Modding Tool*
 * [Halo 3](https://store.steampowered.com/app/1695791/Halo_3_Mod_Tools__MCC/), [Halo 2](https://store.steampowered.com/app/1613450/Halo_2_Mod_Tools__MCC/), [Halo CE](https://store.steampowered.com/app/1532190/Halo_CE_Mod_Tools__MCC/) - *Halo Modding Tools*
 * [XboxChaos](https://www.xboxchaos.com/) - *Halo Modding Forum*
 * [Flatout 2 Fan Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2414295888) - *Patch for Flatout 2*
