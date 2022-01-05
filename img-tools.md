@@ -17,6 +17,7 @@
 * **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - *Glitch Images*
 * [rexpaint](https://www.gridsagegames.com/rexpaint/) - *ASCII Art Editor*
 * [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Canva](http://canva.com/), [Stencil](https://getstencil.com/), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/) or [Glitterly](https://glitterly.app/) - *Graphic Design Tools*
+* [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/), [designspiration](https://www.designspiration.net/) or [inspirationde](https://www.inspirationde.com/) - *Graphic Design Inspirations*
 * [Scribus](http://www.scribus.net/) - *Page Layout & Typesetting Program*
 * [FreeCourseSEO](https://freecourseo.com/) - *GFX Design Courses / [Telegram](https://t.me/freecoursessite1)*
 * [1TB Art Courses](https://pastebin.com/hKgJG2Vz) - *Art Courses*
@@ -217,8 +218,9 @@
 * [PimpMyDrawing](https://pimpmydrawing.com/) - *Human Silhouettes*
 * [OldBookIllustrations](https://www.oldbookillustrations.com/) - *Illustrations from Old Books*
 * [Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Movie / TV Covers & Posters*
-* [CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/) or [OpenClipart](https://openclipart.org/) - *PNG Images / Clipart* 
+* [CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](http://www.pngmart.com/), [freepngs](https://www.freepngs.com/), [pngall](http://www.pngall.com/), [pngplay](http://www.pngplay.com/), [pngfly](https://www.pngfly.com/), [freepngimg](https://www.freepngimg.com/), [kisspng](https://www.kisspng.com/), [maxpixel](https://www.maxpixel.net/) or [OpenClipart](https://openclipart.org/) - *PNG Images / Clipart* 
 * [Sankaku](https://sankaku.app/) or [ZeroChan](https://zerochan.net/) - *Anime Images / Some NSFW / [Chrome](https://github.com/Disrc/SankakuComplexAddon)*
+* [Footyrenders](https://www.footyrenders.com/) - *Football Related Images*
 * [PSDGraphics](https://www.psdgraphics.com/) - *PSD Files*
 * [The NFT Bay](https://thenftbay.org/) - *NFT Collection*
 * [Artbreeder](https://artbreeder.com/) - *Image Discovery / Combining*
@@ -227,11 +229,11 @@
 * [Behance](https://behance.net/) - *Design Projects*
 * [Placeit](https://placeit.net/) - *Image Templates*
 * [Crello](https://crello.com/) - *Image Templates / Editor*
-* [Worldvectorlogo](https://worldvectorlogo.com/), [PNGGrid](https://pnggrid.com/), [Logos & Badges Bundle](https://mega.nz/file/EhUQnJgT#2lmr0DfCDoY3x4DFhthJo_3iz3XPB9DeLjmx2wBz1vs), [Brands of the World](https://www.brandsoftheworld.com/) or [Logos Download](https://logos-download.com/) - *Brand Logos*
+*  - *Brand Logos*
 * [Bendodson](https://bendodson.com/projects/itunes-artwork-finder/), [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) - *Find Multimedia Artwork*
 * [Kemono](https://kemono.party/) - *Patreon Content / Some NSFW*
 * [FanArt](https://fanart.tv/) - *Fan Made Posters / Logos* 
-* [Logodust](https://logodust.com/) - *Logo Designs*
+* [Worldvectorlogo](https://worldvectorlogo.com/), [PNGGrid](https://pnggrid.com/), [Logos & Badges Bundle](https://mega.nz/file/EhUQnJgT#2lmr0DfCDoY3x4DFhthJo_3iz3XPB9DeLjmx2wBz1vs), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [logospire](http://logospire.com/), [logotalkz](http://www.logotalkz.com/), [logopond](https://logopond.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - *Logo Designs*
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - *Free Doodles*
 * [Replacement Sky](https://replacement-sky.com/) - *Skies for Photoshop*
 * [AmbientCG](https://ambientcg.com/), [Lost and Taken](https://lostandtaken.com/), [3D textures](https://icons8.com/l/3d-textures/), [Textureking](https://www.textureking.com/) or [Texture Labs](https://texturelabs.org/) - *Texture Renders & Images*
