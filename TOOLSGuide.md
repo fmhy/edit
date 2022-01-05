@@ -301,6 +301,8 @@
 * [VidCoder](https://vidcoder.net/) - *DVD / Blu-Ray Ripping*
 * [DVDFab](https://www.dvdfab.cn/free.htm) - *Free DVD Related Programs* 
 * [h265ize](https://github.com/FallingSnow/h265ize) - *HEVC Encoder / [Enhanced](https://github.com/alextrv/enhanced-h264ify)* 
+* [Monzoom](https://www.monzoom.com/) - *Video Assets*
+* [MovieTools](https://movietools.info/) - *Video Backgrounds*
 * [Unscreen](https://www.unscreen.com/), [Remove Video Background](https://socialbook.io/remove-video-background) or [Remove Video BG](https://bgrem.deelvin.com/remove_video_bg/) - *Remove Video Background* 
 * [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - *Steam Movie-Making Tool*
 * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5) 
