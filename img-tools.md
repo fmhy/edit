@@ -42,7 +42,7 @@
 * [ImageGoNord](https://ign.schrodinger-hat.it/) - *Convert Images to NordTheme Palette / [Dracula](https://github.com/bigpick/ImageGoNord-dracula) / [Gruvbox](https://github.com/Schrodinger-Hat/ImageGoNord-gruvbox) / [GitHub](https://github.com/Schrodinger-Hat/ImageGoNord)*
 * [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) or [Cartoonize](https://cartoonize-lkqov62dia-de.a.run.app/cartoonize) - *Turn Photos into Cartoons*
 * [AIDraw](https://ai-draw.tokyo/en/) - *Turn Photos into Line Drawings* 
-* [primitive.js](https://ondras.github.io/primitive.js/) - *Redraw Images with Geometric Shapes* 
+* [primitive.js](https://ondras.github.io/primitive.js/) or [Geometrize](https://www.geometrize.co.uk/) - *Redraw Images with Geometric Shapes* 
 * [PBNify](https://pbnify.com/) - *Paint by Number Tool*
 * [Inpaint](https://theinpaint.com/) or [Cleanup.pictures](https://cleanup.pictures/) - *Remove Objects from Photos* 
 * [InsertFace](https://insertface.com/) - *Selfie Frames, Backgrounds & Effects*
@@ -53,6 +53,7 @@
 * [PFP.LGBT](https://pfp.lgbt/) - *LGBTQ+fy Images*
 * [ImageRemix](http://www.oyonale.com/imagemix.php) - *Image Remixer*
 * [SpiralBetty](https://www.spiralbetty.com/) - *Image Spiralizer*
+* [Caricaturer](https://caricaturer.io/) - *Create Caricature of Your Face*
 * [Image Splitter](https://ruyili.ca/image-splitter/), [2](http://www.htmlkit.com/services/is/) - *Split Images into Tiles*
 * [Needs More JPEG](http://needsmorejpeg.com/) - *Blur / Pixelize Images* 
 * [PicFont](https://picfont.com/) - *Add Text to Images*
@@ -73,7 +74,7 @@
 * [Resize App Icon](https://resizeappicon.com/) - *Resize Square Images* 
 * [SSizes](https://ssizes.com/) - *Resize Images for Different Sites*
 * [RIOT](https://riot-optimizer.com/) - *Image Optimization Tool*
-* [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [ImageDiamond](https://www.imagediamond.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/) or [Batch Compress](https://batchcompress.com/en) - *Image Compressor* 
+* [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [CompressHere](https://compresshere.com/), [ImageDiamond](https://www.imagediamond.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/) or [Batch Compress](https://batchcompress.com/en) - *Image Compressor* 
 * [TinyPNG](https://tinypng.com/) or [PNGQuant](https://pngquant.org/) - *PNG Compressor* 
 * [JPEG.rocks](https://jpeg.rocks/) - *JPEG Re-Encoder* 
 
@@ -102,6 +103,7 @@
 * [EmojiMix](https://tikolu.net/emojimix) - *Combine Emojis*
 * [imgsli](https://imgsli.com/) - *Before & After Slider Generator*
 * [DCGAN](http://mattya.github.io/chainer-DCGAN/) - *Anime Icon Generator* 
+* [99 Avatars](https://99avatars.com/) - *Create Doodle Avatar*
 * [Girl Friend Factory](https://hiroshiba.github.io/girl_friend_factory/) or [MakeGirlsMoe](https://make.girls.moe/) - *Female Anime Icon Generator* 
 * [Mr. Squiggles](http://www.mrsquiggles.com/) - *Animated Doodle Maker*
 * [Photovisi](https://www.photovisi.com/) - *Photo Collage Generator* 
@@ -145,6 +147,7 @@
 * [EZGif](https://ezgif.com/), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFnText](https://www.gifntext.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Gif Maker](https://gifmaker.me/) - *GIF Creator / Editor*
 * [gifify](https://github.com/vvo/gifify) or [Video-to-GIF](https://hnet.com/video-to-gif/) - *Video to GIF Converter*
 * [GifRun](https://gifrun.com/) - *Make GIFs From Online Videos*
+* [Viphy](https://viphy.typestudio.co/) - *Generate GIF From Text*
 * [ScreenToGif](https://www.screentogif.com/) - *GIF Recording Software* 
 * [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - *Turn Screencasts into GIFs*
 * [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - *Turn YouTube Videos into GIFs* 
@@ -158,7 +161,7 @@
 
 ## ▷  Meme Makers
 
-* [Meme Generator](https://imgflip.com/memegenerator), [DrMemes](https://www.drmemes.com/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - *Meme Maker* 
+* [Meme Generator](https://imgflip.com/memegenerator), [Meme Town](https://meme.town/), [DrMemes](https://www.drmemes.com/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - *Meme Maker* 
 * [MemeAtlas](https://www.memeatlas.com/) - *Meme Database* 
 * [Memegine](https://memegine.com/) - *Meme Search Engine*
 * [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh) - *Meme Templates*
@@ -215,6 +218,7 @@
 * [Multicolr](https://labs.tineye.com/multicolr/) - *Color Based Reverse Image Search*
 * [icon_finder](https://codeberg.org/cauf/icon_finder) - *Search for Icons via Patterns*
 * [pfps.gg](https://pfps.gg/) - *Profile Picture Index*
+* [OpenMoji](https://openmoji.org/) - *FOSS Emojis*
 * [PimpMyDrawing](https://pimpmydrawing.com/) - *Human Silhouettes*
 * [OldBookIllustrations](https://www.oldbookillustrations.com/) - *Illustrations from Old Books*
 * [Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Movie / TV Covers & Posters*
@@ -233,7 +237,7 @@
 * [Bendodson](https://bendodson.com/projects/itunes-artwork-finder/), [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) - *Find Multimedia Artwork*
 * [Kemono](https://kemono.party/) - *Patreon Content / Some NSFW*
 * [FanArt](https://fanart.tv/) - *Fan Made Posters / Logos* 
-* [Worldvectorlogo](https://worldvectorlogo.com/), [PNGGrid](https://pnggrid.com/), [Logos & Badges Bundle](https://mega.nz/file/EhUQnJgT#2lmr0DfCDoY3x4DFhthJo_3iz3XPB9DeLjmx2wBz1vs), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [logospire](http://logospire.com/), [logotalkz](http://www.logotalkz.com/), [logopond](https://logopond.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - *Logo Designs*
+* [Worldvectorlogo](https://worldvectorlogo.com/), [PNGGrid](https://pnggrid.com/), [Logos & Badges Bundle](https://mega.nz/file/EhUQnJgT#2lmr0DfCDoY3x4DFhthJo_3iz3XPB9DeLjmx2wBz1vs), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [logospire](http://logospire.com/), [logotalkz](http://www.logotalkz.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - *Logo Designs*
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - *Free Doodles*
 * [Replacement Sky](https://replacement-sky.com/) - *Skies for Photoshop*
 * [AmbientCG](https://ambientcg.com/), [Lost and Taken](https://lostandtaken.com/), [3D textures](https://icons8.com/l/3d-textures/), [Textureking](https://www.textureking.com/) or [Texture Labs](https://texturelabs.org/) - *Texture Renders & Images*
@@ -304,7 +308,7 @@
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - *Find Font from Image*
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - *Scan & Digitize Documents / iOS*
 * [DeepSort](https://github.com/CorentinB/DeepSort/) - *Image Tagger* 
-* [Cluttr](https://gitlab.com/bearjaws/cluttr) - *Automatically Organize / Search Photos*
+* [Cluttr](https://gitlab.com/bearjaws/cluttr) or [PhotoPrism](https://photoprism.app/) - *Automatically Organize & Tag Photos*
 * [Photo.net Tutorials](https://www.photo.net/learn/about/tutorials) - *Photography Tutorials*
 
 ***
@@ -339,6 +343,7 @@
 * [puush](https://puush.me/) - *Easily Share Screenshots*
 * [Screenstab](http://screenstab.com/) - *Create Graphics from Screenshots*
 * [Limus](https://limus.netlify.app/) - *Change Screenshot Angles*
+* [Annotate Screen](https://annotatescreen.com/) - *Annotate Screenshots*
 * [Screenshot Tutorial](https://www.take-a-screenshot.org/) - *Multi Platform Screenshot Guides* 
 
 ***
