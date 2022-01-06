@@ -292,17 +292,20 @@ French / General Torrent Tracker
 * [WawaCity](https://www.wawacity.video/), [2](https://www.wawacity.vip/) - *Video / Audio / Books / Magazines / Software / Android / Use AdBlocker*
 * [VK Streaming](https://vkstreaming.one/) - *Movies / TV / Anime* 
 * [DU Cine](https://www.ducine.co/) - *Movies / TV*
-* [OtakuFR](https://otakufr.co/) - *Anime* 
 * [French-Stream](https://french-stream.re/) - *Movies / TV / Anime*
+* [justseries](https://www.justseries.info/) - *Movies / TV*
+* [HDSS](https://hdss.la/) - *Movies / TV / Anime* 
+* [cpasmieux](https://wwv.cpasmieux.site/) - *Movies / TV / Anime*
+* [kinoger](https://kinoger.com/) - *Movies / TV / Anime*
+* [Streamay](https://www.streamay.to/) - *Movies / TV* 
+* [WiFlix](https://wiflix.site/) - *Movies / TV / Anime* 
+* [voirseries](https://voirseries.io/) - *TV / Anime*
+* [OtakuFR](https://otakufr.co/) - *Anime* 
 * [JetAnime](https://www.jetanimes.co/) - *Anime* 
 * [DBAnimes](https://dbanimes.com/) - *Anime* 
 * [Anime-Ultime](http://www.anime-ultime.net/) - *Anime*
 * [VoirAnime](https://voiranime.com/) - *Anime* 
 * [VostFree](https://vostfree.com/) - *Anime*
-* [HDSS](https://hdss.la/) - *Movies / TV / Anime* 
-* [Streamay](https://www.streamay.to/) - *Movies / TV* 
-* [VFStream](https://stream-vf.club/) - *Movies / TV*
-* [WiFlix](https://wiflix.site/) - *Movies / TV / Anime* 
 * [IPTV Streaming](http://iptv-streaming.tk/) - *Live IPTV*
 * [dtvd](https://dtvd.net/) or [liveschauen](https://liveschauen.com/) - *Live TV* 
 * [ADKami](https://www.adkami.com/) - *French Anime Calendar*
@@ -1101,7 +1104,7 @@ Portuguese
 
 # ► Russian
 
-* **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** - *Piracy Discussion Telegram*
+* **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_legal_talk](https://t.me/rks_legal_talk) / [](https://t.me/rks_org_bot) / [rks_tech_talk](https://t.me/rks_tech_talk) - *Piracy Discussion Telegram*
 * [DXP](https://dxp.ru/) - *Torrent / Subtitles*
 * [TLauncher Legacy](https://tlaun.ch/) - *Minecraft Client / Cracked Minecraft*
 * [Proxy-Checker](https://proxy-checker.net/) - *Proxy Checker*
@@ -1246,6 +1249,7 @@ Portuguese
 * [Mixmuz](https://mixmuz.ru/) - *Music*
 * [MP3Hero](https://mp3hero.net/) - *Music*
 * [MDCORE](https://vk.com/mdcore) - *Metal Music*
+* [lovi.fm](https://lovi.fm/) - *Radio*
 * [HDVideoBox](https://forum.mobilism.org/viewtopic.php?f=429&t=4505325) - *Movies / TV / Anime / Android*
 * [OpenEDU](https://openedu.ru/) - *Courses*
 * [Teach.in](https://teach-in.ru/) - *Lectures*
