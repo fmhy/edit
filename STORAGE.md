@@ -599,7 +599,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Telegram Bots**
 
-[newfileconverterbot](https://t.me/newfileconverterbot), [convrt_bot](https://t.me/convrt_bot), [FileConvertBot](https://t.me/FileConvertBot) 
+[newfileconverterbot](https://t.me/newfileconverterbot), [convrt_bot](https://t.me/convrt_bot), [FileConvertBot](https://t.me/FileConvertBot), [newfileconverterbot](https://t.me/newfileconverterbot), [SmartConverter_bot](https://t.me/SmartConverter_bot), [cloud_convert_bot](https://t.me/cloud_convert_bot), [wololopdfbot](https://t.me/wololopdfbot), [pdfbot](https://t.me/pdfbot), [Gpdfbot](https://t.me/Gpdfbot)       
 
 ***
 
