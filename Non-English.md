@@ -535,6 +535,8 @@ French / General Torrent Tracker
 
 ## ▷ Downloading 
 
+* [GigaPurbalingga](https://gigapurbalingga.net/) - *Software / Android / Games*
+* [Yasir252](https://www.yasir252.com/) - *Software / Android / Games*
 * [AnimeBatchs](https://animebatchs.net/) - *Anime* 
 
 ## ▷ Streaming
@@ -770,6 +772,7 @@ French / General Torrent Tracker
 * [SongSara](https://songsara.net/) - *MP3 / FLAC*
 * [FLACColdSong](https://t.me/flacoldsong) - *FLAC*
 * [Pixinema](https://www.pixinema.ir/) - *Soundtracks*
+* [Digiboy](https://www.digiboy.ir/) - *Software*
 * [game4pc](https://game4pc.ir) - *Games*
 * [gold-team](https://gold-team.ir/) - *Games / Cracked Online Tutorials*
 * [dastras](https://t.me/dastras) - *Modded APKs / Telegram* 
@@ -1189,6 +1192,7 @@ Portuguese
 * [Selezen](https://selezen.net/) - *Movies*
 * [DarkLibria](https://darklibria.it/) - *Anime*
 * [RGFootball](http://rgfootball.net/) - *Sports*
+* [Torrent4You](https://torrent4you.org/) - *Games*
 * [Torrent Igruha](https://torrent-igruha.ru/) - *Games*
 * [туттоп](https://tuttop.com/) - *Games*
 * [Small-Games](https://small-games.info/) - *Games*
