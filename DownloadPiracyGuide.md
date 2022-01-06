@@ -81,7 +81,7 @@
 * **[SoftArchive](https://sanet.st)** or [Sanet.lc](https://sanet.lc/) - *Video / Audio / Games / Software / Android / Books / Comics / Newspapers / Magazines*
 * **[DirtyWarez](https://forum.dirtywarez.com/)** - *Forum / Video / Audio / Games / Software / Books / Comics* 
 * **[patoghu](https://patoghu.com/)** - *Video / Audio / Software / Android / Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)* 
-* **[Bitdownload](http://bitdownload.ir/)** - *Video / Audio / Software / Games / Android / Courses / [Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bitdownload_drives) / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
+* **[Bitdownload](http://bitdownload.ir/)** - *Video / Audio / Software / Games / Android / Courses / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * **[The-Eye](https://the-eye.eu/)** - *Audio / Roms / Books / Comics / Magazines / Software / [Discord](https://discord.com/invite/6hr2Xsm)*
 * **[BlackPearl](https://blackpearl.biz/)** - *Video / Audio / Books / Games / [Interview](https://blackpearl.biz/interview/)*
 * [DDLValley](https://www.ddlvalley.me/) - *Video / Audio / Games / Roms / Software / Android / Books / Comics / Magazines*
