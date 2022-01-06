@@ -771,6 +771,7 @@ General Reading Sites*
 * [Search My Site](https://searchmysite.net/) - *Search Engine for Independent and Personal websites / Open Source*
 * [algolia](https://hn.algolia.com/) - *Hacker News Search* 
 * [Search-Darkweb](https://iaca-darkweb-tools.com/search-darkweb/), [DarkSearch](https://darksearch.io/), [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/), [Onions Search](https://onionsearchengine.com/), [OnionLandSearch](https://onionlandsearchengine.com/), [Ahmia](https://ahmia.fi/) / [Git](https://github.com/ahmia/ahmia-site ), [Onion.live](https://onion.live/), [Darkdump](https://github.com/josh0xA/darkdump) or [doku](http://ujnkg4uirpaiqejr.onion/doku.php) - *Deep Web Search Engines*
+* [TorBot](https://github.com/DedSecInside/TorBot), [TorCrawl](https://github.com/james04gr/TorCrawl.py), [OnionIngestor](https://github.com/danieleperera/OnionIngestor) or [VigilantOnion](https://github.com/andreyglauzer/VigilantOnion) - *TOR Network Crawlers*
 * [Intelligence X](https://intelx.io/tools) or [Aware-Online](https://www.aware-online.com/en/osint-tools/) - *Multiple Search Tools* 
 * [Marginalia Search](https://search.marginalia.nu/) - *Text Based Search Engine*
 * [TheOldNet](http://theoldnet.com/) - *Retro Search Engine*
