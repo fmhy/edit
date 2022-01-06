@@ -210,8 +210,10 @@
 * [Shitter](https://github.com/nuclearfog/Shitter) or [Harpy](https://play.google.com/store/apps/details?id=com.robertodoering.harpy.free) - *Twitter App*
 * [Google Lens](https://lens.google/) - *Multiple Camera Tools*
 * [Gallery](https://www.simplemobiletools.com/gallery) - *Photo Gallery*
+* [PhotoRoom](https://www.photoroom.com/) - *Background Remover*
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) or [Camator](https://gcamator.com/) - *Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/)*
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - *Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)*
+* [Colorize It](https://play.google.com/store/apps/details?id=com.reaimagine.colorizeit) - *Colorize Images*
 * [WOMBO Dream](https://www.wombo.art/) - *Dream Artwork Tool*
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - *Image Size Reducer*
 * [Upscaler](https://play.google.com/store/apps/details?id=com.ethanzone.upscaler&hl=en_US&gl=QA) - *Image Upscaler*
@@ -221,6 +223,7 @@
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
 * [Walkie-Talkie](https://walkie-talkie.io/) - *Walkie-Talkie App*
 * [1 Second Everyday](http://1se.co/) - *1 Second Video Diary*
+* [Video Watermark](https://play.google.com/store/apps/details?id=com.zmobileapps.videowatermark) - *Add Watermark to Videos*
 * [Green Screens](https://play.google.com/store/search?q=green%20screen&c=apps) - *Green Screens for Android*
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - *Telegram Client*
 * [Uploadgram](https://github.com/Pato05/uploadgram-app) - *Telegram File Upload*
