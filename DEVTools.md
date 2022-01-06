@@ -224,6 +224,7 @@
 * [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [BulkLink](http://bulklink.org/), [SEO Tools Apps](https://www.seotoolsapps.com/) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization / [Extension](https://chrome.google.com/webstore/detail/ubersuggest-seo-and-keywo/nmpgaoofmjlimabncmnmnopjabbflegf)*
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) - *Web Debugging Proxy App*
 * [Tabler](https://tabler.io/) - *Site Admin Dashboard*
+* [Octopus](https://octopus.do/sitemap) - *Site Planning Tool*
 * [WireFlow](https://wireflow.co/) - *Flow Prototype Maker*
 * [Geekflare Tools](https://gf.dev/toolbox) - *Site Testing Tools*
 * [UXTweak](https://www.uxtweak.com/) - *Website Design Usability Improvement Tool*
@@ -391,6 +392,7 @@
 * [Blisk](https://blisk.io/) - *Cross-Device Testing*
 * [Booster](https://github.com/didi/booster) - *Mobile App Optimization*
 * [Mobbin](https://www.mobbin.design/) - *Mobile App Design Reference Library*
+* [Hmanager](https://play.google.com/store/apps/details?id=com.chsappz.hmanager) - *Manage Your Heroku Accounts*
 * [Xcode](https://developer.apple.com/xcode/) - *Test and Build iOS / iPadOS Apps*
 * [IconKitchen](https://icon.kitchen/) or [AppIcon](https://appicon.co/)- *App Icon Generator*
 * [iOS Icon Gallery](https://www.iosicongallery.com/) - *iOS Icon Examples*
@@ -415,6 +417,7 @@
 * [Redex](https://fbredex.com/) - *Android Bytecode Optimizer*
 * [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/) , [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/) or [LS Graphics](https://www.ls.graphics/) - *App & Site Mockups*
 * [UIGarage](https://uigarage.net/) or [LovelyUI](https://lovelyui.com/) - *Mobile UI Designs*
+* [Screen from Traction](https://screen.traction.one/) - *Create App Screenshots*
 
 ***
 
@@ -595,7 +598,7 @@
 * [Node-RED](https://nodered.org/) - *Low-code programming for event-driven applications* 
 * [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/) / [Docs](https://www.emacsdocs.org/), [Lite XL](https://lite-xl.github.io/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [BlueFish](http://bluefish.openoffice.nl/index.html), [KomodoEdit](https://github.com/Komodo/KomodoEdit), [TextAdept](https://foicica.com/textadept), [SpaceMacs](http://spacemacs.org/), [Notepad2](https://www.flos-freeware.ch/notepad2.html), [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/) or [Light Table](http://lighttable.com/) - *Code Editor* 
 * [Package Control](https://packagecontrol.io/)* - *Code Editor Package Manager*
-* [RegExr](https://regexr.com/) - *Learn, Build & Test RegEx* 
+* [RegExr](https://regexr.com/) or [RegexLearn](https://regexlearn.com/) - *Learn Regex*
 * [Regex101](https://regex101.com/) - *Regex Editor / Debugger* 
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - *Creative Coding Resource Index* 
 * [Algorithm Visualizer](https://algorithm-visualizer.org/) or [mermaid](https://mermaid-js.github.io/mermaid/) - *Visualize Code Algorithms* 
@@ -661,6 +664,7 @@
 * [Zero Dark Matrix](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - *Chrome Devtools Dark Theme* 
 * [OhMyZSH](https://ohmyz.sh/) - *ZSH Customization*
 * [PowerLevel10k](https://github.com/romkatv/powerlevel10k) - *ZSH Theme*
+* [GNU Octave](https://www.gnu.org/software/octave/) - *Scientific Programming Language*
 * [RunKit](https://runkit.com/) - *Browser Javascript Sandbox* 
 * [JS.ORG](https://js.org/) - *Free subdomain for Javascript Developers* 
 * [1loc](https://1loc.dev/) - *217 Single Line JavaScript Codes* 
@@ -687,6 +691,8 @@
 * [scry](https://github.com/crystal-lang-tools/scry) - *Crystal Code Analysis Server*
 * [icr](https://github.com/crystal-community/icr) - *REPL for Crystal*
 * [CP Editor](https://cpeditor.org/) - *Competitive Programming Code Editor*
+* [PHP Decoder](http://ddecode.com/phpdecoder/) or [UnPHP](https://www.unphp.net/) - *PHP Decoder*
+* [PHP Beautifier](http://phpbeautifier.com/) - *PHP Formatter*
 * [Winddown](https://github.com/schneefux/vscode-winddown) or [Sandman](https://alexanderepstein.github.io/Sandman/) - *Coding Break Reminders*
 * [ThemesElection](https://themeselection.com/) - *Programming UI Themes*
 * [Dev Fonts](https://devfonts.gafi.dev/) - *Coding Fonts*
