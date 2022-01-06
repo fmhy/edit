@@ -71,7 +71,7 @@
 * [RTL-SDR](https://gist.github.com/fasiha/c123a9c6b6c78df7597bb45e0fed808f) - *DIY FAA & EASA Satellite Feeds / Transponder*
 * [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/) or [Random Lists](https://www.randomlists.com/) - *Generate Anything*
 * [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - *Wheel Randomizer*
-* [PollCode](https://pollcode.com/), [PickVote](https://pickvote.web.app/) or [poal.me](https://poal.me/) - *Poll Creator*
+* [PollCode](https://pollcode.com/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/) or [poal.me](https://poal.me/) - *Poll Creator*
 * [sli.do](https://www.sli.do/), [Feedbackr](https://www.feedbackr.io/) or [Trypingo](http://trypingo.com/) - *Live Polling Apps*
 * [Diff Checker](https://www.diffchecker.com/) - *Check Differences in Text, Images, PDFs or Files*
 * [Find Your Place](https://where-is-this.com/) - *Find Places from Pictures*
@@ -121,7 +121,7 @@
 * [Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - *Note Taking & To-do Apps*
 * [Manuskript](https://www.theologeek.ch/manuskript/) - *Writing Organizer & Planner*
 * [WorkFlowy](https://workflowy.com/) - *Work Organizer*
-* [KiloDoc](https://www.kilodoc.com/) - *Online Document Editor* 
+* [KiloDoc](https://www.kilodoc.com/) or [GroupDocs](https://products.groupdocs.app/viewer/total) - *Online Document Editor* 
 * [docz](https://www.docz.site/) - *Write and Publish Interactive Documentation*
 * [Writemonkey](http://writemonkey.com/) - *Distraction Free Writing App*
 * [EncryptPad](https://evpo.net/encryptpad/) - *Encrypted Text Editor*
@@ -414,7 +414,8 @@
 * [EZStems](https://www.ezstems.com/) - *Create Audio STEMS*
 * [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - *Create Songs with Code* 
 * [WebSynths](http://www.websynths.com/) - *Browser-Based Instruments* 
-* [JummBox](https://jummbus.bitbucket.io/) or [Klystrack](https://github.com/kometbomb/klystrack) - *Create Chiptune Melodies* 
+* [JummBox](https://jummbus.bitbucket.io/) or [Klystrack](https://github.com/kometbomb/klystrack) - *Create Chiptune Melodies*
+* [Melody Generator](https://dopeloop.ai/melody-generator) - *MiDi Melody Generator*
 * [Orca](https://hundredrabbits.itch.io/orca) - *Live Coding Audio*
 * [danielx](https://danielx.net/composer/) - *Mario Paint Audio Editor*
 * [FamiTracker](http://www.famitracker.com/) or [Famistudio](https://bleubleu.itch.io/famistudio) - *NES / Famicon Audio Editor*
@@ -710,6 +711,7 @@
 * [Browserling](https://www.browserling.com/) - *Browser Emulators*
 * [n.eko](https://n.eko.moe/) - *Self-Hosted Virtual Browser*
 * [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - *Chrome without Google*
+* [Chrome Theme Studio](https://chrometheme.studio/) - *Create Chrome Theme*
 * [Safari Windows](https://mega.nz/file/zqoEWZaQ#qNAN8JnV_79gII4ofMs4ZwMAcydZAQw6Gdng_QEyNDw) - *Safari for Windows*
 * [Browserflow](https://browserflow.app/) - *Automate Repetitive Browser Tasks*
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) - *Prevent Firefox Memory Leaks* 
@@ -768,7 +770,7 @@ General Reading Sites*
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - *Search Engine for Lightweight Web Pages*
 * [Search My Site](https://searchmysite.net/) - *Search Engine for Independent and Personal websites / Open Source*
 * [algolia](https://hn.algolia.com/) - *Hacker News Search* 
-* [Search-Darkweb](https://iaca-darkweb-tools.com/search-darkweb/), [DarkSearch](https://darksearch.io/), [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/), [Onions Search](https://onionsearchengine.com/), [OnionLandSearch](https://onionlandsearchengine.com/), [Onion.live](https://onion.live/) or [doku](http://ujnkg4uirpaiqejr.onion/doku.php) - *Deep Web Search Engines*
+* [Search-Darkweb](https://iaca-darkweb-tools.com/search-darkweb/), [DarkSearch](https://darksearch.io/), [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/), [Onions Search](https://onionsearchengine.com/), [OnionLandSearch](https://onionlandsearchengine.com/), [Ahmia](https://ahmia.fi/) / [Git](https://github.com/ahmia/ahmia-site ), [Onion.live](https://onion.live/), [Darkdump](https://github.com/josh0xA/darkdump) or [doku](http://ujnkg4uirpaiqejr.onion/doku.php) - *Deep Web Search Engines*
 * [Intelligence X](https://intelx.io/tools) or [Aware-Online](https://www.aware-online.com/en/osint-tools/) - *Multiple Search Tools* 
 * [Marginalia Search](https://search.marginalia.nu/) - *Text Based Search Engine*
 * [TheOldNet](http://theoldnet.com/) - *Retro Search Engine*
@@ -844,7 +846,7 @@ General Reading Sites*
 * [Open Bulk URL](https://openbulkurl.com/), [RapidLinkr](https://rapidlinkr.com/) or [OpenAllURLs](https://www.openallurls.com/) - *URL Bulk Opener*
 * [CheckServer](https://check-host.net/), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - *Site Monitoring Tools*
 * [CrowdTangle](https://apps.crowdtangle.com/chrome-extension) - *Check Where Links Have Been Shared*
-* [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/) or [BillCipher](https://github.com/84KaliPleXon3/BillCipher) - *Domain Info Lookup Tool*
+* [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MxToolbox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/) or [BillCipher](https://github.com/84KaliPleXon3/BillCipher) - *Domain Info Lookup Tool*
 * [Redirect Detective](https://redirectdetective.com/) - *URL Redirect Checker* 
 * [Dereferer](https://dereferer.me/) - *Derefer / Anonymize Links*
 * [Link-Lock](https://rekulous.github.io/link-lock/) - *Encrypt & Decrypt Links with Passwords*
@@ -1660,7 +1662,7 @@ General Reading Sites*
 * [TCPDF](https://tcpdf.org/) / [Git](https://github.com/tecnickcom/tcpdf) or [CrownPDF](https://www.crownpdf.com/) - *PDF Creator* 
 * [PDF Host](https://pdfhost.io/) - *Upload, Store and Share PDF Files* 
 * [PDFx](https://www.metachris.com/pdfx/) or [Tabula](https://tabula.technology/) - *Extract Info / URLs from PDF* 
-* [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - *Convert Files to PDF*
+* [online2pdf](https://online2pdf.com/), [ToPDF](https://topdf.org/) or [2PDFConverter](https://www.2pdfconverter.com/) - *Convert Files to PDF*
 * [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/) - *PDF File Convters* 
 * [Adobe Compress PDF](https://www.adobe.com/acrobat/online/compress-pdf.html) - *PDF Compressor*
 * [PDF Mergy](https://pdfmerge.w69b.com/) - *Merge PDF Files*
@@ -1773,7 +1775,7 @@ General Reading Sites*
 * [Fucking weeb](https://github.com/cosarara/fucking-weeb) - *Anime / TV File Library Manager*
 * [Random Executor](https://sneakysnail.net/random-executor/) - *Random File Executor* 
 * [AXEL](https://github.com/axel-download-accelerator/axel) - *Lightweight CLI Download Accelerator* 
-* [HxD](https://mh-nexus.de/en/hxd/) - *Hex / Disk Editor*
+* [HxD](https://mh-nexus.de/en/hxd/) or [Hexinator](https://hexinator.com/) - *Hex Editor*
 * [webhex.net](https://en.webhex.net/) - *Online Hex Viewer*
 * [HexEd.it](https://hexed.it/) - *Online Hex Editor*
 * [infekt](https://infekt.ws/) or [NFOmation](https://nfomation.net/) - *NFO File Viewer*
