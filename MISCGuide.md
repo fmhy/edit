@@ -1106,7 +1106,7 @@
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
 * [Headless-Recorder](https://github.com/checkly/headless-recorder) or [automa](https://github.com/kholid060/automa) - *Browser Automation*
 * [NudgeWare](https://nudgeware.io/) or [HabitLab](https://habitlab.stanford.edu/) - *Productivity Booster*
-* [Beanote](https://chrome.google.com/webstore/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) - *Web Page Note Taking*
+* [Beanote](https://chrome.google.com/webstore/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) or [Page Pad](https://chrome.google.com/webstore/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn) - *Web Page Note Taking*
 * [ProjectNaptha](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - *Manipulate Browser Image Text*
 * [A+ Font Size Changer](https://chrome.google.com/webstore/detail/a%20-fontsize-changer-lite/ckihgechpahhpompcinglebkgcdgpkil) - *Change Browser Font Size & Color*
 * [Sticky Notes](https://www.getstickynotes.com/) - *Browser Sticky Notes*
