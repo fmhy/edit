@@ -16,7 +16,9 @@
 ## ▷ Downloading 
 
 * [FaresCD](https://www.farescd.com/) - *Video / Software / Games / Android*
+* [DirectApp](https://directapp.net/) - *Software / Android / Games*
 * [akwam](https://old.akwam.co/) - *Video / Audio / Software* 
+* [Bramj](https://www.bramjfreee.com/) - *Software*
 * [mycima](https://mycima.video/) - *Movies / TV / Anime*  
 * [arabseed](https://arabseed.cam/) - *Movies / TV* 
 * [dotCima](https://s2.dotcima.com/) - *Movies / TV*
