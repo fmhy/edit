@@ -103,6 +103,7 @@
 * [Hacksplaining](https://www.hacksplaining.com/) - *Developer Security Lessons*
 * [Publish Something Online](https://publishsomething.online/) - *Site Development Guides*
 * [LandChad](https://landchad.net/) - *Site Development Guide*
+* [The New Boston](https://thenewboston.com/) - *Site Development Courses [Discord](https://discord.com/invite/thenewboston)*
 * [Web Dev Courses](https://drive.google.com/drive/folders/17nOoned_J-RzAlCXaHEcEvdQC3LDOCC0) - *Web Development Courses*
 * [Agernic](https://www.agernic.com/) - *Web Design Courses*
 * [UI & Web Design using Adobe Illustrator C](https://mega.nz/folder/DihiHYYJ#qwDp56twKmwPdDMqGR_kLA) - *UI & Webdesign Course*
@@ -140,11 +141,14 @@
 * [Libera Chat](https://libera.chat/) - *IRC Network for Project Collaboration*
 * [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/)  - *Developer Forum* 
 * [The Devs Network](https://thedevs.network/) - *Developer Chat*
+* [mark.show](https://mark.show/) or [sli.dev](https://sli.dev/) - *Markdown to Slideshow*
 * [daily.dev](https://daily.dev/) - *Replace New Tab Page with Developer Articles* 
 * [Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites) - *Download Icons for Projects*
 * [The Favicon Finder](https://besticon.herokuapp.com/) - *Find Favicons on Sites*
+* [Favicon Maker](https://formito.com/tools/favicon) - *Create Favicons*
 * [Laws of UX](https://lawsofux.com/) - *Maxims / Principles for UI Designers* 
 * [UI Coach](https://uicoach.io/) - *UI Design Challenge Generator*
+* [HTML Dog](https://htmldog.com/) - *Front End Tutorials & Examples*
 * [Responsively](https://responsively.app/) - *Responsive Dev Design Tool*
 * [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - *README Template* 
 * [codex-readme](https://github.com/tom-doerr/codex-readme) - *Generate README with AI*
@@ -175,6 +179,7 @@
 * [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) - *Bug Bounty Resources*
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - *CTF Resources*
 * [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - *API index* 
+* [Insomnia](https://insomnia.rest/) - *API Client*
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - *Microservice Architecture Resource Index*
 * [LibreLogos](https://www.librelogos.org/) - *Project Logos*
 * [Lorem.space](https://lorem.space/) - *Placeholder Images*
@@ -425,6 +430,7 @@
 * [GDevelop](https://gdevelop-app.com/) - *HTML5 Game Creator*
 * [Phaser](https://phaser.io/) - *Mobile HTML5 Game Framework* 
 * [PlayCanvas](https://playcanvas.com/) - *Build HTML5 Visualizations / Games* 
+* [inkle](https://www.inklestudios.com/ink/) - *Game Narrative Scripting Language*
 * [Curlie World Building](https://curlie.org/en/Games/Roleplaying/World_Building) - *World Building Resource Index* 
 * [UE Viewer](https://www.gildor.org/en/projects/umodel) - *Unreal Engine Model Viewer / [GitHub](https://github.com/gildor2/UEViewer)*
 * [Electronic Arts GitHub](https://github.com/electronicarts) - *EA GitHub Repos*
@@ -590,8 +596,9 @@
 * [RegExr](https://regexr.com/) - *Learn, Build & Test RegEx* 
 * [Regex101](https://regex101.com/) - *Regex Editor / Debugger* 
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - *Creative Coding Resource Index* 
-* [Algorithm Visualizer](https://algorithm-visualizer.org/) - *Visualize Code Algorithms* 
+* [Algorithm Visualizer](https://algorithm-visualizer.org/) or [mermaid](https://mermaid-js.github.io/mermaid/) - *Visualize Code Algorithms* 
 * [Code2Flow](https://app.code2flow.com/) or [Flowchart Generator](https://github.com/MugilanGN/Flowchart-Generator) - *Code to Flowchart Converter*
+* [UMLet](https://www.umlet.com/) - *Create UML Diagrams*
 * [Vim Latex](http://vim-latex.sourceforge.net/) - *Latex Style Vim Editor*
 * [CarlosAG](https://www.carlosag.net/) - *Coding Tools*
 * [Telosys](http://www.telosys.org/) - *Code Generator*
@@ -656,6 +663,7 @@
 * [JS.ORG](https://js.org/) - *Free subdomain for Javascript Developers* 
 * [1loc](https://1loc.dev/) - *217 Single Line JavaScript Codes* 
 * [Gummy](https://gummyjs.vercel.app/) - *Easily Build Javascript Programs* 
+* [Beautifier](https://beautifier.io/) - *Online JavaScript Beautifier*
 * [Kaboomjs](https://kaboomjs.com/) - *Quickly Make Games with Javascript*
 * [randomcolor](https://randomcolor.lllllllllllllllll.com/) - *Random Javascript Color Generator*
 * [Bundlephobia](https://bundlephobia.com/) - *Find Cost of Adding npm Package*
