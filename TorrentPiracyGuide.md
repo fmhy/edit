@@ -89,7 +89,7 @@
 * [Pirateiro](http://pirateiro.com) - *Video / Audio / Games / Roms / Software / Android / Books / Comics / NSFW*
 * [ETTV](https://www.ettvcentral.com/) - *Video / Audio / Games / Software / Books / NSFW/ [Proxies](https://ettvproxies.com/)*
 * [GloTorrents](https://glodls.to) - *Video / Audio / Games / Books / Software / Android / NSFW*
-* [MagnetDL](https://www.magnetdl.com/), [2](https://www.magnetdl.me/) - *Video / Audio / Games / Software / Books*
+* [MagnetDL](https://www.magnetdl.com/), [2]( https://www.magnetdl.org/) - *Video / Audio / Games / Software / Books / [Onion](http://r5cena7erxpnxomyvoybuxh6fkgs55qqdg7bobf6yjx4j6vmywrqvlid.onion/)*
 * [YggTorrent](https://ww3.yggtorrent.si/) - *Video / Audio / Roms / Software / Books / Android / Comics*
 * [LimeTorrents](https://limetorrents.pro/) - *Video / Audio / Software / Games / Books*
 * [YourBittorrent](https://yourbittorrent.com/), [2](https://yourbittorrent2.com/) - *Video / Audio / Software / Games / Books / NSFW*
