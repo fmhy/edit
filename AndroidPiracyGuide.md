@@ -240,6 +240,7 @@
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - *Article / Link Viewer*
 * [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - *Track Github User Activity*
 * [BlueClover](https://github.com/nnuudev/BlueClover) - *4Chan Browser*
+* [LoliSnatcher Droid](https://github.com/NO-ob/LoliSnatcher_Droid) - *Booru Client*
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - *Easily Open Links in Text via Share Function*
 * [URLApp](https://urlgapp.com/) - *Convert Sites to Android Apps*
 * [Ponydroid](https://forum.mobilism.org/search.php?keywords=ponydroid&amp;sr=topics&amp;sf=titleonly), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - *Download File Manager / [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)*
@@ -283,7 +284,7 @@
 * [ShiftCal](https://gitlab.com/Nulide/ShiftCal) - *Shift Calendar*
 * [Libra](https://github.com/markusfisch/Libra) - *Pros v Cons App*
 * [unhabits](https://github.com/iSoron/uhabits) or [MiindLeak](https://www.mindleak.app/) - *Bad Habit Tracker*
-* [Forest](https://forestapp.cc/),  [minimalist phone](https://www.minimalistphone.com/) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - *Productivity Booster*
+* [Forest](https://forestapp.cc/), [Time Cop](https://timecop.app/), [minimalist phone](https://www.minimalistphone.com/) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - *Productivity Booster*
 * [AnyTracker](https://sites.google.com/view/anytracker), [2](https://anytracker.org/) - *Track Anything*
 * [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - *Food Product Ingredient Scanner*
 * [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html) - *Scan & Digitize Documents*
@@ -514,6 +515,7 @@
 * [MangaDLR](https://bitbucket.org/cylonu87/mangadlr/downloads/) - *Manga Reader*
 * [Kotatsu](https://github.com/nv95/Kotatsu) - *Manga Reader*
 * [MiMangaNu](https://github.com/raulhaag/MiMangaNu) - *Manga Reader*
+* [Manga Reader](https://flathub.org/apps/details/com.georgefb.mangareader) - *Manga Reader*
 * [Neko](https://github.com/CarlosEsco/Neko) - *Manga Reader*
 * [Manga Tag](https://www.mangatag.com/) - *Manga Reader*
 * [Meow](https://github.com/neverfelly/Meow) - *Manga Reader*
