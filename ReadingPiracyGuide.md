@@ -15,6 +15,7 @@
 * **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
 * **[Audiobook Bay](http://audiobookbay.ws/)**, [2](http://audiobookbay.nl/), [3](http://www.audiobookbayabb.com/) - *Torrents / [Extension](https://addons.mozilla.org/en-US/firefox/addon/audiobookbay-magnet-assistant/)*
 * **[Tokybook](https://tokybook.com/)** - *Listen Online*
+* **[Zero Avenue](https://thezeroavenue.com/)** - *Listen Online*
 * [Audiobook Drive](https://drive.google.com/drive/folders/1IsJTH4ElUg4fjngDNUlM1KPFmpfD_tl9) - *Audiobooks / Drive* 
 * [BlackPhoenix James Durden](https://mega.nz/folder/AZAhjSaL#3wzdEx3nPgzzVdVEqVc8nA) - *Audiobooks / Drive*
 * [HotAudiobooks](https://hotaudiobooks.com) - *Listen Online* 
@@ -24,7 +25,6 @@
 * [BookAudiobook](https://bookaudiobook.com/) - *Listen Online*
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - *Listen Online*
 * [Audiobooks Lab](https://audiobooklabs.com/) - *Listen Online*
-* [Zero Avenue ](https://thezeroavenue.com/) - *Listen Online*
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - *Listen Online / Select Playlists*
 * [Litube](https://litube.net/) - *Listen Online*
 * [AudioBook Reviews](https://audiobookreviews.com/) 
@@ -448,6 +448,7 @@
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - *Electronics* 
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - *Electronics Schematics & Simulations*
 * [159.69.3.96](http://159.69.3.96/ebooks/) - *IT Books*
+* [PDFiles](https://www.pdfiles.net/) - *IT Books*
 * [Explanations](https://magcius.github.io/xplain/article/) - *Advanced Computer Explanations*
 * [Bash Academy](https://guide.bash.academy/) - *Bash Shell Guide*
 * [Cyber Security & IT](https://mega.nz/folder/9kxTnLCI#BThv3CtkC27JqcJ4ZWD_cA) - *Cyber Security / IT Books & Courses*
@@ -601,6 +602,7 @@
 * [SSRN](https://www.ssrn.com/) - *Early Stage Research Papers* 
 * [Open Knowledge Maps](https://openknowledgemaps.org/) - *Research Paper Search* 
 * [Internet Archive Scholar](https://scholar.archive.org/) - *Research Paper Search*
+* [Open Access Library](https://www.oalib.com/) - *Research Paper Search*
 * [PsyArXiv](https://psyarxiv.com/) - *Articles / Psychological Sciences* 
 * [repo.zenk](https://repo.zenk-security.com/) - *Documents*
 * [docplayer](https://docplayer.net/) - *Documents* 
@@ -671,6 +673,7 @@
 * **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - *Slang Word / Phrase Dictionary*
 * [NinjaWords](http://ninjawords.com/ ) - *Dictionary* 
 * [Wordnik](https://www.wordnik.com/) - *Dictionary*
+* [Cambridge Dictionary](https://dictionary.cambridge.org/) - *Dictionary*
 * [Webopedia](https://www.webopedia.com/) - *Tech Dictionary*
 * [Fandom](https://www.fandom.com/) - *Fan Wikis* 
 * [WordReference](https://www.wordreference.com/) or [Reverso](https://reverso.net/) - *Translation Dictionary* 
