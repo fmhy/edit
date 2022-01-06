@@ -43,6 +43,7 @@
 * [OnlineTutorials](https://www.onlinetutorials.org/) - *Courses*
 * [CourseSity](https://www.coursesity.com/) - *Courses*
 * [Academic Earth](https://academicearth.org/) - *Courses*
+* [Canvas](https://www.canvas.net/) - *Courses*
 * [Harvard Online Courses](https://pll.harvard.edu/catalog?keywords=&free[1]=1&max_price) - *Courses*
 * [FindAndSolve](https://www.findandsolve.com/) - *Course Search Engine*
 * [LearnOutLoud](https://www.learnoutloud.com/) - *Documentaries / Courses*
@@ -412,7 +413,7 @@
 * [refold.la](https://refold.la/roadmap) - *Language Learning Guide* 
 * [clozemaster](https://www.clozemaster.com/) - *Context Based Language Learning*
 * [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - *Language Learning Flashcards*
-* [Learn English Online](http://www.learn-english-online.org/), [EnglishCentral](https://www.englishcentral.com/), [ESLFast](https://www.eslfast.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons), [Voscreen](http://voscreen.com/) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - *Learn English*
+* [Learn English Online](http://www.learn-english-online.org/), [EnglishCentral](https://www.englishcentral.com/), [ESLFast](https://www.eslfast.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons), [Voscreen](http://voscreen.com/), [elllo](https://www.elllo.org/) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - *Learn English*
 * [Listening Lab](https://www.esl-lab.com/) - *English Listening Practice*
 * [Podcasts in English](https://www.podcastsinenglish.com/) - *English Learning Podcasts*
 * [Free4Talk](https://www.free4talk.com/) or [Speaking24](http://www.speaking24.com/) - *English Practice Community*
@@ -599,7 +600,8 @@
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - *Citation Analyzer*
 * [AMCharts](https://live.amcharts.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - *Chart Creator*
 * [AWW](https://awwapp.com/), [OpenBoard](https://openboard.ch/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - *Whiteboard*
-* [app.diagrams](https://app.diagrams.net/), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/) or [Gephi](https://gephi.org/) - *Graph / Diagram Creator*  
+* [app.diagrams](https://app.diagrams.net/), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/) or [Gephi](https://gephi.org/) - *Graph / Diagram Creator*
+* [Altium](https://www.altium.com/viewer/) - *Schematics Visualizer*
 * [Anki](https://apps.ankiweb.net/), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html) or [Flashcard Machine](https://www.flashcardmachine.com/) - *Flash Card Tool*
 * [Wolfram Cloud](https://www.wolframcloud.com/) - *Computational intelligence*
 * [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
