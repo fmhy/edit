@@ -16,7 +16,7 @@
 * **[Spotify Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - *Spotify Tools, Adblockers, Customization & More*
 * [YouTube Music Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_music_players) - *Streaming*
 * [FunkWhale](https://funkwhale.audio/) - *Streaming*
-* [nuclear](https://github.com/nukeop/nuclear) - *Streaming*
+* [nuclear](https://nuclear.js.org/) - *Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)*
 * [MP3Jam](https://www.mp3jam.org/) - *Streaming*
 * [Muffon](https://github.com/staniel359/muffon) - *Streaming*
 * [Deezer](https://www.deezer.com/) - *Streaming*
