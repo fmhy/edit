@@ -162,6 +162,7 @@
 * [Audioscape](https://audioscape.netlify.app/) - *Ambient*
 * [Moszen](https://www.moszen.com/) - *Ambient* 
 * [Soundrown](http://soundrown.com/) - *Ambient* 
+* [Whispr](https://www.whispr.tech/) - *Ambient*
 * [A Soft Murmur](https://asoftmurmur.com/) - *Ambient* 
 * [Nature Mixer](https://naturemixer.com/) - *Ambient* 
 * [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - *Ambient*
