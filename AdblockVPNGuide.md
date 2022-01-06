@@ -249,6 +249,7 @@
 * [PortAuthority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/) - *Block Javascript Port Scan on Sites*
 * [First Party Isolation](https://github.com/mozfreddyb/webext-firstpartyisolation) - *Like blocking Third-party cookies, but more exhaustively*
 * [Location Guard](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_location_guard) or [Manual Geolocation](https://chrome.google.com/webstore/detail/manual-geolocation/jpiefjlgcjmciajdcinaejedejjfjgki) - *Hide Browsers Geolocation*
+* [SafeToOpen](https://safetoopen.com/) - *Protect Yourself From Phishing Attacks*
 * [Language Switch](https://addons.mozilla.org/en-US/firefox/addon/languageswitch/) - *Change Language Identifier*
 * [chrome-utm-stripper](https://github.com/jparise/chrome-utm-stripper) - *Remove Tracking Tokens*
 * [Re-Consent](https://cliqz.com/en/magazine/re-consent) - *Opt Out of Data Collection*
@@ -308,6 +309,7 @@
 * [h8Mail](http://github.com/khast3x/h8mail) - *Multiple Data Breach Checks*
 * [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/) or [leakpeek](https://leakpeek.com/) - *Data Breach Search Engine* 
 * [DataBunker](https://databunker.org/) - *Data Leak Prevention*
+* [LocateJS](https://z0ccc.github.io/LocateJS/) - *Check if a Site can Detect Your Actual Location*
 * [RS Lookup](http://rslookup.com/) - *Check if your RuneScape data has been breached* 
 * [Canarytokens](https://canarytokens.org/generate) - *Network Breach Check* 
 * [JustGetMyData](https://justgetmydata.com/) - *Links to Obtain Your Data from Websites* 
@@ -396,6 +398,7 @@
 * [SKYN3T](https://skyn3t.in/)
 * [Brave Search](https://search.brave.com/)
 * [peekier](https://peekier.com/)
+* [neeva](https://neeva.com/)
 * [WhaleSlide](https://whaleslide.com/)
 * [Infinity](https://infinitydecentralized.com/)
 * [Kagi](https://kagi.com/) 
