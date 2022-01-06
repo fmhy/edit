@@ -261,13 +261,12 @@
 ## ▷ Anime Streaming
 
 * **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
-* **[/r/AnimePiracy Index](https://piracy.moe/)**, [TG Anime Index](https://telegra.ph/Websites-To-Watch-And-Download-Anime-09-10) or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - *Curated List of Anime Sites / [Discord](https://discord.gg/piracy)*
+* **[/r/AnimePiracy Index](https://piracy.moe/)** or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - *Curated List of Anime Sites / [Discord](https://discord.gg/piracy)*
 * **[Zoro](https://zoro.to/)** - *Sub / Dub*
 * **[9Anime](https://www.9anime.to/)** - *Sub / Dub / [Mirrors](https://9anime.me/) / [Filter](https://redd.it/c330dx) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)*
 * **[Anime Twist](https://twistmoe.net/)** - *Sub / [Discord](https://discord.gg/Ea3Mq9n)*
 * **[Anime8](https://anime8.ru/)** - *Sub / Dub*
 * **[AniMixPlay](https://animixplay.to/)** - *Sub / Dub / [Discord](https://discord.gg/YyQ9cpS)* 
-* **[AnimeTribes](https://animetribes.ru/)** - *Sub* 
 * **[AnimeKisa](https://animekisa.tv/)** - *Sub / Dub*
 * [AnimePahe](https://animepahe.com/) - *Sub / [Downloader](https://github.com/charathmathew/animepahe_downloader), [2](https://github.com/ed-archer/animepahe-dlr), [3](https://github.com/notmarek/pyheanime)*
 * [AniKuru](https://anikuru.me/) - *Sub / Dub*
@@ -305,6 +304,7 @@
 * [Animeplyx](https://animeplyx.eu/) - *Sub*
 * [1Anime](https://1anime.to/) - *Sub / Dub*
 * [KimAnime](https://kimanime.com/) - *Sub / Dub*
+* [AnimeTribes](https://animetribes.ru/) - *Sub* 
 * [5Anime](https://5anime.net/) - *Sub / Dub*
 * [AnimelandTV](https://www.animelandtv.me/) - *Dub*
 * [AnimeOnsen](https://animeonsen.xyz/) - *Sub*
@@ -404,7 +404,7 @@
 * [WatchWrestling24](http://watchwrestling24.net/) - *MMA / Wrestling*
 * [WatchWrestling.in](https://watchwrestling.in/) - *MMA / Wrestling*
 * [WatchWrestling.la](https://watchwrestling.la/) - *MMA / Wrestling* 
-* [Bellator](http://www.bellator.com/events) - *Replays / MMA*
+* [Bellator](https://www.bellator.com/video) - *Replays / MMA*
 * [/r/MMAFights](https://www.reddit.com/r/mmafights/) - *Videos / MMA*
 * [MMACore](https://www.mma-core.com/videos/home) - *Videos / MMA*
 * [AllTheBestFights](https://www.allthebestfights.com/) - *Videos / MMA / Boxing / K1*
@@ -684,10 +684,7 @@
 * [103.222.20.150](http://103.222.20.150/ftpdata/) - *Movies* 
 * [188.165.227.112](http://188.165.227.112/portail/) - *Movies / TV* 
 * [103.135.208.2](http://103.135.208.2/Data/movies/) - *Movies / TV*
-* [87.89.227.77](http://87.89.227.77/) - *Movies / TV*
-* [124.29.199.194](http://124.29.199.194/data2/) - *Movies*
 * [162.12.215.254](http://162.12.215.254/Data/Movies/) - *Movies*
-* [124.29.199.194](http://124.29.199.194/) - *Movies*
 * [Movies, Series... in English](https://redd.it/ns1ejo), [2](https://redd.it/ns1kdi), [3](https://redd.it/nsb38a), [4](https://redd.it/ns2avz), [5](https://redd.it/ns2wcv) - *Movies / TV*
 * [torrenttempdrive 2](https://torrenttempdrive.hashhackers.com/2:/) - *Movies / TV*
 * [sv.dcnm.ir](https://sv.dcnm.ir/Serial/Foreign/) - *TV* 
@@ -882,6 +879,7 @@
 * [FlickChart](https://www.flickchart.com/) - *Rank your movies*
 * [Tastoid](https://www.tastoid.com/) - *Mood Based Recommendations* 
 * [BestSimilar](https://bestsimilar.com/) - *Movie Recommendations* 
+* [Movie-Map](https://www.movie-map.com/) - *Movie Recommendations*
 * [GNOD](https://www.gnod.com/) - *Movie Recommendations*
 * [Movies Capstone Project](https://github.com/rounakbanik/movies) - *Movie Recommendations* 
 * [FilmFish](https://www.film-fish.com/) - *Movie & TV Recommendations* 
@@ -924,7 +922,7 @@
 
 # ► Request Videos
 
-* **[YourPTFlix](https://yourptflixmovies.com/forum/44-movie-requests/)** - *Movies / TV / Sports*
+* **[YourPTFlix](https://yourptflixmovies.com/)** - *Movies / TV / Sports*
 * **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)** - *Movies / TV* 
 * **[Movie-Forum](https://movie-forum.co/forums/23-Requests)** - *Movies*
 * **[TopNow](https://discord.gg/marBA97)** - *Movies / TV / Anime*
