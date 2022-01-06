@@ -67,9 +67,9 @@
 ## ▷ Resize / Compress
 
 * [ESRGAN Models](https://icedrive.net/1/43GNBihZyi) or [Upscale Model Database](https://upscale.wiki/wiki/Model_Database) - *Multiple Image Upscalers*
-* [Waifu2x](https://github.com/nagadomi/waifu2x), [ESRGAN](https://github.com/JoeyBallentine/ESRGAN), [GigaPixel](https://filecr.com/?s=Topaz+Gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [Resizer](https://resizer.in/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/) or [CupScale](https://github.com/n00mkrad/cupscale) - *Image Upscaler*
+* [Waifu2x](https://github.com/nagadomi/waifu2x), [ESRGAN](https://github.com/JoeyBallentine/ESRGAN), [GigaPixel](https://filecr.com/?s=Topaz+Gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [Resizer](https://resizer.in/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [Img.Upscaler](https://pdf-ocr.com/), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/) or [CupScale](https://github.com/n00mkrad/cupscale) - *Image Upscaler*
 * Waifu2x Tools - [Guide](https://i.imgur.com/55s8sU5.png) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/tanakamura/waifu2x-converter-cpp), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/), [5](https://waifu2x.me/), [6](http://waifu2x.udp.jp/), [7](https://waifu2x.org/), [8](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
-* [Croppola](https://croppola.com/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - *Cropping Tool* 
+* [Croppola](https://croppola.com/), [Bulk Image Crop](https://bulkimagecrop.com/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - *Cropping Tool* 
 * [Seopix](https://www.seopix.io/) - *Resize & Compress Images*
 * [Simple Image Resizer](http://www.simpleimageresizer.com/), [Online Image Resizer](https://online-image-resizer.com/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - *Resize Images*
 * [Resize App Icon](https://resizeappicon.com/) - *Resize Square Images* 
@@ -98,7 +98,7 @@
 
 * [Rough.js](https://roughjs.com/) - *Create Graphics that look Hand-Drawn*
 * [FontIcon](https://gauger.io/fonticon/)[PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [ICO Convert](https://www.icoconvert.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - *Icon Generators*
-* [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/) or [ACME](https://acme.com/labelmaker/) - *Logo Creator* 
+* [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/) or [ACME](https://acme.com/labelmaker/) - *Logo Creator* 
 * [ArtFlow](http://artflow.ai/), [Pravatar](https://pravatar.cc/) or [Avataaars](https://getavataaars.com/) - *Face / Avatar Generator*
 * [Mirro-Ai](https://mirror-ai.com/) - *Get Stickers With Your Face*
 * [EmojiMix](https://tikolu.net/emojimix) - *Combine Emojis*
@@ -107,6 +107,7 @@
 * [99 Avatars](https://99avatars.com/) - *Create Doodle Avatar*
 * [Girl Friend Factory](https://hiroshiba.github.io/girl_friend_factory/) or [MakeGirlsMoe](https://make.girls.moe/) - *Female Anime Icon Generator* 
 * [Mr. Squiggles](http://www.mrsquiggles.com/) - *Animated Doodle Maker*
+* [FontSVG](https://fontsvg.com/) - *Convert Font, Icon, Glyph to SVG*
 * [Photovisi](https://www.photovisi.com/) - *Photo Collage Generator* 
 * [Make Photo Gallery](https://makephotogallery.net/) - *Photo Gallery Creator*
 * [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - *Image to ASCII Art Generator*
@@ -117,6 +118,7 @@
 * [Hugin](http://hugin.sourceforge.net/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - *Panorama Image Generator* 
 * [Side It](https://sideit.app/) - *Side by Side Image Generator*
 * [DoodDad](https://doodad.dev/pattern-generator), [patternico](https://patternico.com/) or [Haikei](https://app.haikei.app/)  *Pattern Generator*
+* [Noise & Gradient](https://www.noiseandgradient.com/) - *Generate Textured Background*
 * [stripegenerator](http://www.stripegenerator.com/) - *Stripe Generator* 
 * [Trianglify.io](https://trianglify.io/) - *Generate low-poly Textures*
 * [BannerEasy](https://www.bannereasy.com) - *Create Custom Banners*
@@ -145,6 +147,7 @@
 ## ▷ GIF Tools
 
 * **[Awesome GIF](https://github.com/davisonio/awesome-gif)** - *GIF Resource Index*
+* [Online GIF Tools](https://onlinegiftools.com/) - *GIF Tools*
 * [Giphy](https://giphy.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/), [reactiongifs](https://www.reactiongifs.us/), [reactiongifs](https://reactiongifs.me/), [gif-finder](https://gif-finder.com/), [reactiongifs](http://www.reactiongifs.com/), [bestanimations](https://bestanimations.com/), [Animations](https://bleuje.github.io/animationsite/), [gifimage](https://gifimage.net/) or [Animated Images](https://www.animatedimages.org/) - *Download GIFs* 
 * [EZGif](https://ezgif.com/), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFnText](https://www.gifntext.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Gif Maker](https://gifmaker.me/) - *GIF Creator / Editor*
 * [gifify](https://github.com/vvo/gifify) or [Video-to-GIF](https://hnet.com/video-to-gif/) - *Video to GIF Converter*
@@ -220,7 +223,7 @@
 * [Multicolr](https://labs.tineye.com/multicolr/) - *Color Based Reverse Image Search*
 * [icon_finder](https://codeberg.org/cauf/icon_finder) - *Search for Icons via Patterns*
 * [pfps.gg](https://pfps.gg/) - *Profile Picture Index*
-* [OpenMoji](https://openmoji.org/) - *FOSS Emojis*
+* [OpenMoji](https://openmoji.org/) or [Sensa](https://sensa.co/emoji/) - *Emojis*
 * [PimpMyDrawing](https://pimpmydrawing.com/) - *Human Silhouettes*
 * [OldBookIllustrations](https://www.oldbookillustrations.com/) - *Illustrations from Old Books*
 * [Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Movie / TV Covers & Posters*
@@ -345,7 +348,7 @@
 * [puush](https://puush.me/) - *Easily Share Screenshots*
 * [Screenstab](http://screenstab.com/) - *Create Graphics from Screenshots*
 * [Limus](https://limus.netlify.app/) - *Change Screenshot Angles*
-* [Annotate Screen](https://annotatescreen.com/) - *Annotate Screenshots*
+* [Annotate Screen](https://annotatescreen.com/) or [Pensela](https://github.com/weiameili/Pensela) - *Annotate Screenshots*
 * [Screenshot Tutorial](https://www.take-a-screenshot.org/) - *Multi Platform Screenshot Guides* 
 
 ***
