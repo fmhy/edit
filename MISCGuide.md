@@ -978,6 +978,7 @@
 * [Copy Selected Links](https://gitlab.com/Marnes/copy-selected-links) - *Copy Links from Selected Text* 
 * [CopyFish](https://ocr.space/copyfish) or [Image Reader](https://mybrowseraddon.com/image-reader.html) - *Grab Text from Images* 
 * [Text to Image](https://mybrowseraddon.com/text-to-image.html) - *Format & Save Text as a Image*
+* [Talkie](https://joelpurra.com/projects/talkie/) or [Offline Text to Speech](https://virejdasani.github.io/OfflineTextToSpeech-Extension/) - *Text to Speech*
 * [Text Link](https://piro.sakura.ne.jp/xul/textlink/index.html.en) - *Make Non-Hyperlinked URL's Clickable* 
 * [Link Alert](https://www.cwesson.net/projects/LinkAlert/) - *Link Type Indicator* 
 * [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) or [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - *Auto Delete Cookies*
