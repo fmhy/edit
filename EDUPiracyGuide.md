@@ -42,6 +42,7 @@
 * [Kadenze](https://www.kadenze.com/) - *Courses*
 * [OnlineTutorials](https://www.onlinetutorials.org/) - *Courses*
 * [CourseSity](https://www.coursesity.com/) - *Courses*
+* [Academic Earth](https://academicearth.org/) - *Courses*
 * [Harvard Online Courses](https://pll.harvard.edu/catalog?keywords=&free[1]=1&max_price) - *Courses*
 * [FindAndSolve](https://www.findandsolve.com/) - *Course Search Engine*
 * [LearnOutLoud](https://www.learnoutloud.com/) - *Documentaries / Courses*
@@ -50,6 +51,7 @@
 * [media.ccc.de](https://media.ccc.de/) - *Educational Presentations*
 * UC Berkeley Webcast project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://lbry.tv/@UCBerkeley:d?) - *Lectures*
 * [iTunes U](https://wiki.archiveteam.org/index.php/ITunes_U) - *Lectures*
+* [Ted](https://www.ted.com/) - *Inspiring and Educational Talks*
 * [WatchKnowLearn](http://www.watchknowlearn.org/) - *Educational Videos*
 * [FreeMedTube](https://freemedtube.net/) - *Medical Courses*
 * [Mathispower4u](http://www.mathispower4u.com/) - *Math Tutorials*
@@ -410,7 +412,8 @@
 * [refold.la](https://refold.la/roadmap) - *Language Learning Guide* 
 * [clozemaster](https://www.clozemaster.com/) - *Context Based Language Learning*
 * [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - *Language Learning Flashcards*
-* [Learn English Online](http://www.learn-english-online.org/), [ESLFast](https://www.eslfast.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons), [Voscreen](http://voscreen.com/) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - *Learn English*
+* [Learn English Online](http://www.learn-english-online.org/), [EnglishCentral](https://www.englishcentral.com/), [ESLFast](https://www.eslfast.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons), [Voscreen](http://voscreen.com/) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - *Learn English*
+* [Listening Lab](https://www.esl-lab.com/) - *English Listening Practice*
 * [Podcasts in English](https://www.podcastsinenglish.com/) - *English Learning Podcasts*
 * [Free4Talk](https://www.free4talk.com/) or [Speaking24](http://www.speaking24.com/) - *English Practice Community*
 * [MyLanguages](http://mylanguages.org/) or [Langeek](https://langeek.co/) - *Grammar / Vocabulary Language Learning*
@@ -491,6 +494,8 @@
 * [LightNote](https://www.lightnote.co/) - *Music Theory*
 * [Music Theory](https://www.musictheory.net/) - *Music Theory*
 * [Pianu](https://pianu.com/) - *Piano*
+* [HowToPlayPiano](http://howtoplaypiano.ca/) - *Piano*
+* [PianoCheetah](https://pianocheetah.app) - *Piano*
 * [JustinGuitar](https://www.justinguitar.com/) - *Guitar*
 * [FretFlip](https://fretflip.com/guitar-scales) - *Guitar*
 * [ChordBook](https://chordbook.com/) - *Guitar*
@@ -634,7 +639,8 @@
 * [The Deep Sea](https://neal.fun/deep-sea/) - *Interactive Deep Sea Life Guide* 
 * [Life Under the Ice](https://lifeundertheice.org/) - *View Antarctic Microbes*
 * [Global Volcanism Program](https://volcano.si.edu/) - *Volcano Information Database*
-* [Xeno-Canto](https://www.xeno-canto.org/) or [Birdnet](https://birdnet.cornell.edu/) - *Bird Sound Index / Identifier* 
+* [Xeno-Canto](https://www.xeno-canto.org/) or [Birdnet](https://birdnet.cornell.edu/) - *Bird Sound Identifier* 
+* [Candide](https://candide.com/GB/identify-plants) - *Plant Identifier*
 * [Algodoo](http://www.algodoo.com/) - *Interactive Physics Tool*
 * [nanoHUB](https://nanohub.org/) - *Nanotechnology Tool Index*
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
@@ -642,6 +648,9 @@
 * [Vocabulary.ugent](http://vocabulary.ugent.be/) - *Vocabulary Test* 
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/) - *Learn about Logical Fallacies* 
 * [YourBiasIs](https://yourbias.is/) - *Learn about Biases* 
+* [LessWrong](https://www.lesswrong.com/) - *Develop Rationality*
+* [Art of Manliness](https://www.artofmanliness.com/) - *Develop Life Skills*
+* [TheChessWebsite](https://www.thechesswebsite.com/) - *Chess Strategy & Analysis*
 * [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - *Wood Working Guides & Articles*
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - *Learn to Tie Knots* 
 * [Pol Art Folder](https://mega.nz/folder/rVcExIbB#VN9alzay0OrctggvEn1DUg) - *Historic European Art & Paintings*
