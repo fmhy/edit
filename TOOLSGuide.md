@@ -71,7 +71,7 @@
 * [RTL-SDR](https://gist.github.com/fasiha/c123a9c6b6c78df7597bb45e0fed808f) - *DIY FAA & EASA Satellite Feeds / Transponder*
 * [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/) or [Random Lists](https://www.randomlists.com/) - *Generate Anything*
 * [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - *Wheel Randomizer*
-* [PollCode](https://pollcode.com/) or [poal.me](https://poal.me/) - *Poll Creator*
+* [PollCode](https://pollcode.com/), [PickVote](https://pickvote.web.app/) or [poal.me](https://poal.me/) - *Poll Creator*
 * [sli.do](https://www.sli.do/), [Feedbackr](https://www.feedbackr.io/) or [Trypingo](http://trypingo.com/) - *Live Polling Apps*
 * [Diff Checker](https://www.diffchecker.com/) - *Check Differences in Text, Images, PDFs or Files*
 * [Find Your Place](https://where-is-this.com/) - *Find Places from Pictures*
@@ -109,7 +109,7 @@
 
 ## ▷ Text Tools
 
-* **[TextFixer](https://www.textfixer.com/)**, **[OnlineTextTools](https://onlinetexttools.com/)**, [Smodin](https://smodin.io/) or [Word Hippo](https://www.wordhippo.com/) - *Multiple Text Tools*
+* **[TextFixer](https://www.textfixer.com/)**, **[OnlineTextTools](https://onlinetexttools.com/)**, [English Tools](https://www.englishtools.org/), [Smodin](https://smodin.io/) or [Word Hippo](https://www.wordhippo.com/) - *Multiple Text Tools*
 * **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_editors)** - *Text Editing Tools*
 * **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - *Grammar Checking Tools*
 * **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_office_suites)** - *Office Suite Software*
@@ -171,7 +171,7 @@
 * [TinySheet](https://tinysheet.com/) - *Simple Online Spreadsheets*
 * [Jamovi](https://www.jamovi.org/) - *Statistical Spreadsheets*
 * [Diagram.codes](https://www.diagram.codes/) - *Convert Text to Diagrams*
-* [Watson](https://speech-to-text-demo.ng.bluemix.net/) or [VoiceNotebook](https://voicenotebook.com/) - *Speech to Text*
+* [Watson](https://speech-to-text-demo.ng.bluemix.net/), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - *Speech to Text*
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) - *Text to Handwriting Converter*
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - *Extract Text From Any Window*
 * [ExtractMailAddress](https://extractemailaddress.com/) - *Extract Email's, URLs & Numbers from Text*
@@ -284,7 +284,7 @@
 * [Video Cleaner](https://videocleaner.com/) or [Video Enhance AI](https://www.topazlabs.com/video-enhance-ai) - *Video Enhancement Tool* 
 * [Flowframes](https://nmkd.itch.io/flowframes) or [SVP](https://www.svp-team.com/) - *Video Interpolation*
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - *Art & Animation Resource Index*
-* [OpenToonz](https://opentoonz.github.io/e/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - *Animation Software*
+* [OpenToonz](https://opentoonz.github.io/e/), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - *Animation Tools*
 * [AnimeEffects](http://animeeffects.org/en/), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/) or [Synfig](https://www.synfig.org/) - *2D Animation Tool* 
 * [Storyboarder](https://wonderunit.com/storyboarder/) - *Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)* 
 * [LibreSprite](https://libresprite.github.io/) - *Sprite Animation Tool*
@@ -571,6 +571,7 @@
 * [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - *Check which IPFS Gateways are online* 
 * [lew.la](https://lew.la/) - *Reddit video DL, YT to MP3 & More Tools* 
 * [SocialBlade](https://socialblade.com/) - *Social Media Statistics*
+* [Post Generator](https://postgenerator.online/) - *Convert Article to Social Media Post*
 * [4stats](https://4stats.io/) - *4chan Board & Thread Stats*
 * [Emotes Everywhere](https://kellphy.com/projects/kee.html) or [Geniemoji](https://virejdasani.github.io/Geniemoji/) - *Emoji Manager*
 * [Emojipedia](https://emojipedia.org/) or [GetEmoji](https://getemoji.com/) - *Emoji Index*
@@ -1142,6 +1143,7 @@ General Reading Sites*
 * [SpeechChat](https://speechchat.com/) - *Twitch Text to Speech Client*
 * [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - *Turn YouTube Videos into GIFs* 
 * [ytcropper](https://ytcropper.com/) or [YTCutter](https://ytcutter.com/) - *YouTube Video Cropper*
+* [Vid Repeat](https://vidrepeat.com/) - *Loop Youtube Videos*
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - *YouTube Note Taking Tool*
 * [yt2pod](https://github.com/frou/yt2pod) - *Create Podcasts from YouTube Channels* 
 * [YouTube Comment Scraper](https://github.com/philbot9/youtube-comment-scraper-cli) - *YouTube Comment Scraping CLI* 
@@ -1661,6 +1663,7 @@ General Reading Sites*
 * [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - *Convert Files to PDF*
 * [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/) - *PDF File Convters* 
 * [Adobe Compress PDF](https://www.adobe.com/acrobat/online/compress-pdf.html) - *PDF Compressor*
+* [PDF Mergy](https://pdfmerge.w69b.com/) - *Merge PDF Files*
 * [Adobe Word Converter](https://www.adobe.com/acrobat/online/word-to-pdf.html) - *Word to PDF Converter*
 * [VancedPDF](https://vancepdf.com/) - *PDF to Word Converter*
 * [Adobe Excel to PDF](https://www.adobe.com/acrobat/online/excel-to-pdf.html) - *Convert Excel Files to PDF*
