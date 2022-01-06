@@ -748,6 +748,7 @@
 * **[Satellite / Street View Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_satellite_.26amp.3B_street_view_maps)**
 * **[OpenStreetMap](https://www.openstreetmap.org/)**, [KartaView](https://kartaview.org/landing), [MapMania](https://www.mapmania.info/) or [Mapillary](https://www.mapillary.com/) - *Street View Maps* 
 * [Atlas Obscura](https://www.atlasobscura.com/) - *Travel Maps & Guides*
+* [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - *World Heritage Site Maps*
 * [Roadside America](https://www.roadsideamerica.com/) - *Roadside Attraction Maps & Guides*
 * [FreeCampSites](https://freecampsites.net/) - *Camp Site Map*
 * [FixPhrase](https://fixphrase.com/) - *Phrase Based Map Search*
