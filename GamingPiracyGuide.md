@@ -500,6 +500,7 @@
 
 ## ▷ Multiplayer
 
+* **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - *PvP FPS / [Market Ping](https://yee.how/market-ping/) / [Client](https://client.cuffuffles.dev/) / [Optimal Settings](https://rentry.co/krunkersettings)*
 * **[Pokemon Showdown](https://pokemonshowdown.com/)** - *Online Pokemon Battles* 
 * **[GarticPhone](https://garticphone.com/)** - *Telephone Game*
 * [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) - *Drawing / Guessing Game / Multiplayer*
@@ -509,7 +510,6 @@
 * [JackBox.tv](https://jackbox.tv/) 
 * [Playok](https://www.playok.com/)
 * [PaperGames](https://papergames.io/)
-* [Krunker.io](https://krunker.io/), [2](https://browserfps.com/) - *PvP FPS / [Market Ping](https://yee.how/market-ping/) / [Client](https://client.cuffuffles.dev/) / [Optimal Settings](https://rentry.co/krunkersettings)*
 * [Venge](https://venge.io/) - *PvP FPS*
 * [RoboFight](https://robofight.io/) - *PvP FPS*
 * [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) - *Top Down Battle Royal* 
@@ -517,8 +517,9 @@
 * [Yohoho.io](https://www.yohoho.io/) - *Pirate Battle Royale*
 * [1v1.LOL](https://1v1.lol/) - *1v1 Building / Battle Sim*
 * [MiniRoyale](https://miniroyale2.io/) - *Battle Royal Game* 
-* [Wings.io](http://wings.io/) - *Multiplayer Plane Battles*
-* [Curve Fever](https://curvefever.pro/) - *Multiplayer Line Battles*
+* [TagPro](https://koalabeast.com/) - *Capture the Flag*
+* [Wings.io](http://wings.io/) - *Plane Battles*
+* [Curve Fever](https://curvefever.pro/) - *Line Battles*
 * [LOLBeans](https://lolbeans.io/) - *"Fall guys" like game*
 * [Betrayal](https://betrayal.io/) - *"Among Us" like game*
 * [TownOfSalem](https://blankmediagames.com/TownOfSalem/) - *Role Based Mystery Solving MMO*
@@ -531,19 +532,19 @@
 * [Spinz.io](http://spinz.io/) - *Fidget Spinner Battles*
 * [Multiplayer.golf](https://multiplayer.golf/) or [Manygolf](https://manygolf.club/) - *Multiplayer Golf*
 * [Tanki](https://tankionline.com/) - *Online Team VS Team Tank Game* 
-* [Plink](http://labs.dinahmoe.com/plink/) - *Multiplayer Music Game* 
-* [Fishington](https://fishington.io/) - *Multiplayer Fishing Game*
+* [Plink](http://labs.dinahmoe.com/plink/) - *Music Game* 
+* [Fishington](https://fishington.io/) - *Fishing Game*
 * [Too Many Chefs](https://www.toomanychefs.party/) - *Text-Based Coop Cooking Game* 
-* [Haxball](https://www.haxball.com/) - *Physics Based Multiplayer Soccer*
-* [Powerline.io](http://powerline.io/) or [Games 1729](https://www.games1729.com/serpentron/) - *Multiplayer Snake*
+* [Haxball](https://www.haxball.com/) - *Physics Based Soccer*
+* [Powerline.io](http://powerline.io/) or [Games 1729](https://www.games1729.com/serpentron/) - *Snake*
 * [Bonk](https://bonk.io/) - *Multiplayer Physics Game*
 * [RoboStorm](https://robostorm.io/) - *Robot Battle Game* 
-* [GPRO](https://www.gpro.net/gb/gpro.asp) - *Multiplayer F1 Manager Game*
-* [Miniconomy](https://www.miniconomy.com/) - *Multiplayer Economy Game*
-* [eWordChallenge](https://www.ewordchallenge.net/) - *Multiplayer Boggle*
+* [GPRO](https://www.gpro.net/gb/gpro.asp) - *F1 Manager Game*
+* [Miniconomy](https://www.miniconomy.com/) - *Economy Game*
+* [eWordChallenge](https://www.ewordchallenge.net/) - *Boggle*
 * [tix.tax](https://tix.tax/) - *Ultimate Tic-Tac-Toe*
 * [PlayTicTacToe](https://playtictactoe.org/) - *Tic-Tac-Toe* 
-* [GameKnot Chess](https://gameknot.com/) - *Multiplayer Chess*
+* [GameKnot Chess](https://gameknot.com/) - *Chess*
 * [Kung Fu Chess](https://www.kfchess.com/) - *Real-Time Chess w/o Turns* 
 * [AllBad.Cards](https://allbad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - *Cards Against Humanity Online* 
 * [Poker Now](https://www.pokernow.club/), [LiPoker](https://lipoker.io/) or [247 Free Poker](https://www.247freepoker.com/) - *Multiplayer Poker*
@@ -622,8 +623,7 @@
 
 * [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) - *Drawing / Guessing Game / Multiplayer*
 * [GuessMe!](https://cer0zz.itch.io/guessme) - *Guess Answers*
-* [GeoGuessr](https://www.geoguessr.com/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - *Location Guessing Game / [Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) / [Twitch Chat Bot](https://chatguessr.com/)*
-* [City Guesser](https://virtualvacation.us/guess) - *City Guessing Game* 
+* [GeoGuessr](https://www.geoguessr.com/), [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - *Location Guessing Game / [Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) / [Twitch Chat Bot](https://chatguessr.com/)*
 * [English Sandwhich](https://englishsandwich.github.io/) - *Guess Where Dishes are From*
 * [LanguageGuesser](https://languageguesser.com/) - *Guess Music Video Languages* 
 * [Emoji Dingbats](https://emoji-dingbats.herokuapp.com/) - *Emoji Dingbat Game*
