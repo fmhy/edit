@@ -228,6 +228,7 @@
 * [SoftFamous](https://softfamous.com/) 
 * [onHax](https://onhax.io/)
 * [MAZTERIZE](https://www.mazterize.com/) 
+* [Full Version Download](https://www.fullversiondl.com/)
 * [VectorItalia](https://www.vectoritalia.com/)
 * [FileOur](https://www.fileour.com/)
 * [Soft House](https://softhouse.cc/) 
