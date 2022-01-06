@@ -420,6 +420,7 @@
 * [StaggeringBeauty](http://www.staggeringbeauty.com/) - *Wiggle a Worm, Have a Seizure* 
 * [Keep calm and poke me.](https://calm.ovh/) - *Poke & Pull* 
 * [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en) - *Lead a Blob Opera*
+* [Incredibox](https://www.incredibox.com/demo/) - *Make Beatboxing Beats*
 * [Pixels Fighting](http://pixelsfighting.com/) - *Watch A Pixel Battle* 
 * [Generative Engine](https://experiments.runwayml.com/generative_engine/) - *Text to Image Generator* 
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - *Create Room / Lo-Fi Player*
@@ -532,7 +533,7 @@
 * [Google Alerts](https://www.google.com/alerts) - *News Alerts by Topics*
 * [Slower News](https://www.slowernews.com/) - *Breaking News*
 * [PublicAlerts](https://google.org/publicalerts) - *Important News / Disaster Alerts*
-* [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
+* [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Ars Technica](https://arstechnica.com/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
 * [Liliputing](https://liliputing.com/) - *Linux Mobile News*
 * [Latest Privacy](https://latestprivacy.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - *Privacy News*
 * [We Fight Censorship](http://3kyl4i7bfdgwelmf.onion/) - *Censorship News*
@@ -572,6 +573,7 @@
 * [MyFridgeFood](https://www.myfridgefood.com/) - *Recipe Search* 
 * [Epicurious](https://www.epicurious.com/) - *Recipe Search* 
 * [Recipe Search](https://recipe-search.typesense.org/) - *Recipe Search* 
+* [RecipeRadar](https://www.reciperadar.com/) - *Recipe Search*
 * [Recipe Retrieve](https://reciperetrieve.com/) - *Recipe Search*
 * [DotNom](http://www.dotnom.com/) - *Recipe Search*
 * [Yummly](https://www.yummly.com/) - *Recipe Search*
@@ -589,6 +591,10 @@
 * [Curlie Cooking](https://curlie.org/en/Home/Cooking/) - *Recipes* 
 * [PunchFork](https://www.punchfork.com/) - *Recipes*
 * [Based Cooking](https://based.cooking/) - *Recipes*
+* [BHG](https://www.bhg.com/recipes/) - *Recipes*
+* [TheCookingGinn](http://www.thecookinginn.com/) - *Recipes*
+* [Bon Appétit](https://www.bonappetit.com/) - *Recipes*
+* [101Cookbooks](https://www.101cookbooks.com/) - *Recipes*
 * [Food Network Recipes](https://www.foodnetwork.com/recipes) - *Recipes*
 * [1337-Noms-The-Hacker-Cookbook](https://hacker-cookbook.herokuapp.com/) - *Recipes* 
 * [CookBook](https://github.com/jlinder/cookbook) - *Recipes* 
@@ -618,8 +624,10 @@
 * [Edamam](https://developer.edamam.com/) - *Food-Related APIs* 
 * [Recipe Puppy](http://www.recipepuppy.com/about/api/) - *Recipe API* 
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - *Child Nutrition / Cooking Course* 
-* [tacofancy](https://github.com/sinker/tacofancy) - *Taco Recipe Index* 
+* [tacofancy](https://github.com/sinker/tacofancy) - *Taco Recipes* 
+* [AmazingRibs](https://amazingribs.com/) - *Rib Recipes*
 * [Bakerella](http://www.bakerella.com/) - *Baking Recipes*
+* [KingArthurBaking](https://www.kingarthurbaking.com/recipes) - *Baking Recipes*
 * [The Bread Code Manifesto](https://github.com/hendricius/the-bread-code) - *Bread Baking Recipes* 
 * [Pizza Dough](https://github.com/hendricius/pizza-dough) - *Pizza Dough Recipes* 
 * [Mozzarella](https://github.com/hendricius/mozzarella) - *Mozzarella Recipes* 
@@ -638,6 +646,8 @@
 * [/r/recipes](https://reddit.com/r/recipes) - *Share recipes*
 * [/r/AskCulinary](https://reddit.com/r/AskCulinary) - *Get Cooking Advice* 
 * [/r/IndianFood](https://reddit.com/r/IndianFood) - *Indian Food Recipes / Tips*
+* [Eat Jamacian](https://eatjamaican.com/recipes.html) - *Jamaican Recipes*
+* [Jamacian Recipe Rundown](http://worldstogethertravel.com/jamaica/recipe-rundown.htm) - *Jamaican Recipes*
 * [Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_recipes)
 * [Mealime](https://www.mealime.com/) - *Meal Planning App*
 * [Still Tasty](https://www.stilltasty.com/) or [EatByDate](http://www.eatbydate.com/) - *Shelf Life Guides* 
@@ -655,13 +665,14 @@
 
 # ►  Health
 
+* **[JamanNetwork](https://jamanetwork.com/)**, [medicinenet](https://www.medicinenet.com/), [medpagetoday](https://www.medpagetoday.com/), [everydayhealth](https://www.everydayhealth.com/), [medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/), [webmd](https://www.webmd.com/) - *Health News*
 * [Awesome Health](https://github.com/lalaithan/awesome-health) - *Health Resources Index*
+* [healthgrades](https://www.healthgrades.com/right-care/health-content-a-z), [epocrates](https://online.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - *Government Health Resources*
 * [NutritionFacts.org](https://nutritionfacts.org/) - *Video Library for Latest Health-based Research*
 * [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - *Harvard University Health Website*
 * [MyPlate](https://www.myplate.gov/) - *Food Pyramid*
 * [tellspecopedia](http://www.tellspecopedia.com/) - *List of Food Ingredients & Effects on Body*
 * [/r/Nutrition](https://www.reddit.com/r/nutrition/) - *Nutrition Subreddit*
-* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - *Child Nutrition / Cooking Course* 
 * [Liam Rosen's Fitness Guide](http://liamrosen.com/fitness.html) - *Beginners Health & Fitness Guide*
 * [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) - *Fitness / Nutrition Info* 
 * [The Fitness Wiki](https://thefitness.wiki/) - *Fitness Information Wiki*
@@ -678,6 +689,8 @@
 * [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - *Daily Diet Recommendations / Android*
 * [EatThisMuch](https://www.eatthismuch.com/), [FitMenCook](https://fitmencook.com/) or [MealPrePro](https://mealpreppro.com/) - *Diet Tool / iOS / Android* 
 * [Examine.com](https://examine.com/) - *Supplement & Nutrition Analysis*
+* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - *Child Nutrition / Cooking Course* 
+* [Kids Health](https://www.kidshealth.org/) - *Kids Health Information*
 * [openScale](https://f-droid.org/packages/com.health.openscale/) - *Weight & Body Metrics Tracker*
 * [Simple Science Fitness](https://ss.fitness/calculators) - *Fitness Calculators* 
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - *BMR / TDEE Calculator*
@@ -712,8 +725,10 @@
 * [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - *Remedies for Sores on Tongue*
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - *Interactive Self Care Guide*
 * [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - *Drug Information & Side Effects*
+* [DrugFree](https://drugfree.org/) - *Drug Abuse Prevention & Recovery Help*
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - *Mindfulness / Stress Reduction Tips*
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - *Mental Health Coping Skills*
+* [Zen Habits](https://zenhabits.net/) - *Develop Zen Habits*
 * [MediLog](https://gitlab.com/toz12/medilog) - *Medical Data Log*
 * [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - *Insomnia Prevention Tips*
 * [eXHALeR](https://www.xhalr.com/) - *Yoga / Meditation Breathing Tool* 
@@ -721,6 +736,7 @@
 * [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health) - *Mental Health Index*
 * [One Mind PsyberGuide](https://onemindpsyberguide.org/) - *Mental Health App Reviews*
 * [7 Cups](https://www.7cups.com/) or [OnlineCounselling4u](https://www.onlinecounselling4u.com/) - *Free Counseling & Therapy*
+* [babycenter](https://www.babycenter.com/) - *Pregnancy and Parenting Resources*
 * [/u/elkatiuskas' Resource List](https://redd.it/phrcrn) - *Abortion Resource Index*
 * [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - *Informed Consent HRT Clinics*
 * [AS Resources](https://www.everydaybattle.com/resources/) - *Ankylosing Spondylitis Resources*
@@ -767,7 +783,7 @@
 * [SunCalc](https://www.suncalc.org/) or [MoonCalc](https://www.mooncalc.org/) - *Sun & Moon Position / Phase Calculators* 
 * [Wikimapia](http://wikimapia.org/) - *Online Editable Map*
 * [AmCharts](https://www.amcharts.com/svg-maps/) - *SVG Maps*
-* [MapChart](https://mapchart.net/) - *Create Custom Maps* 
+* [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - *Create Custom Maps* 
 * [Point Address](https://pointaddress.com/), [mapus](https://github.com/alyssaxuu/mapus) or [Scribble Maps](https://www.scribblemaps.com/create/) - *Custom Location Map*
 * [dgi](http://www.dgi.inpe.br/catalogo/) - *Match Satellite Images to Map*
 * [City Roads](https://anvaka.github.io/city-roads/) - *Draw City Roads*
@@ -1047,6 +1063,7 @@
 * [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) - *Make Non-Hyperlinked URL's Clickable* 
 * [AutoPagerize Advanced](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - *Merge Multiple Pages*
 * [Profile Switcher](https://addons.mozilla.org/en-US/firefox/addon/profile-switcher/) - *Profile Manager* 
+* [AutoCookieOptout](https://github.com/CodyMcCodington/AutoCookieOptout) - *Auto Delete Cookies*
 * [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) - *Separate Cookies by Profile / [Guide](https://www.thechiefmeat.com/guides/containers.html)* 
 * [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - *Switch and Override User Agent Header on Firefox Easily*
 * [SoundFixer](https://github.com/myfreeweb/soundfixer) - *Fixes Sites that are too Quiet*
@@ -1090,6 +1107,7 @@
 * [NudgeWare](https://nudgeware.io/) or [HabitLab](https://habitlab.stanford.edu/) - *Productivity Booster*
 * [Beanote](https://chrome.google.com/webstore/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) - *Web Page Note Taking*
 * [ProjectNaptha](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - *Manipulate Browser Image Text*
+* [A+ Font Size Changer](https://chrome.google.com/webstore/detail/a%20-fontsize-changer-lite/ckihgechpahhpompcinglebkgcdgpkil) - *Change Browser Font Size & Color*
 * [Sticky Notes](https://www.getstickynotes.com/) - *Browser Sticky Notes*
 * [Toby](https://www.gettoby.com/), [Freezetab](https://freezetab.com/) or [Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - *Tab Manager*
 * [Dualless](https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd) or [Tab Resize](https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc) - *Split Browser Window* 
