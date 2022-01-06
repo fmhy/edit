@@ -263,9 +263,11 @@
 * [Anime-Sharing Hentai](http://www.anime-sharing.com/forum/hentai-ovas-36/)
 * [Porndude Hentai](https://theporndude.com/hentai-porn-sites)
 * [Manhwas](https://www.manhwas.net/) - *Spanish*
-* [NClientV2](https://github.com/Dar9586/NClientV2) - *NHentai Android Client*
-* [TachiyomiSY](https://tachiyomi.org/forks/TachiyomiSY/) - *Hentai Android Client*
-* [Hentoid](https://github.com/avluis/Hentoid) or [Hendroid](https://www.f-droid.org/en/packages/org.nonononoki.hendroid/) - *Hentai Archiving Android App*
+* [NClientV2](https://github.com/Dar9586/NClientV2) - *Android NHentai*
+* [TachiyomiSY](https://tachiyomi.org/forks/TachiyomiSY/) - *Android Hentai*
+* [EhViewer](https://gitlab.com/NekoInverter/EhViewer) - *Android Hentai*
+* [Violet](https://github.com/project-violet/violet) - *Android Hentai/ [Discord](https://discord.com/invite/fqrtRxC)*
+* [Hentoid](https://github.com/avluis/Hentoid) or [Hendroid](https://www.f-droid.org/en/packages/org.nonononoki.hendroid/) - **Android Hentai*
 * [pandaforever](https://gitlab.com/squishydreams/pandaforever), [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) or [Panda Chaika](https://panda.chaika.moe/) [nhentai](https://github.com/RicterZ/nhentai) - *Hentai Downloader*
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - *Booru Client / [Telegram](https://t.me/Flexbooru/161)*
 * [RedditBooru](https://redditbooru.com/) - *Booru Image Search*
@@ -295,6 +297,7 @@
 
 # Tools
 
+* **[Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button)** - *Quickly Close All Tabs*
 * [Internet Adult Film Database](https://www.iafd.com/) - *Adult Film Database / Reviews*
 * [Porn-Vault](https://github.com/porn-vault/porn-vault), [Fapflix2.0](https://github.com/EinAeffchen/Fapflix2.0) or [Stash](https://github.com/stashapp/stash) - *Porn File Manager*
 * [TheLeakNetwork](https://theleaknetwork.com/) or [UploadingPorn](https://uploadingporn.com/) - *NSFW File Host*
@@ -303,7 +306,6 @@
 * [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/) - *NSFW Reverse Image Search*
 * [NameThatPorn](https://namethatporn.com/) - *Porn Identification Tool*
 * [ZENRA](https://www.zenra.net/free-jav-reverse-image-search) - *Reverse JAV Image Search*
-* [Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button) - *Quickly Close All Tabs*
 * [Chaturbate Enhanced](https://openuserjs.org/scripts/stixmaster/Chaturbate_Enhanced) or [Chaturbate Clean](https://openuserjs.org/scripts/ladroop/Chaturbate_Clean) - *Improve Chaturbate Functionality*
 * [Sleazy Fork](https://sleazyfork.org/) - *Adult User Scripts*
 * [Powrcord Sauce](https://github.com/SammCheese/powercord-sauce) - *Powercord Sauce Plugin*
