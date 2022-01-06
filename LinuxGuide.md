@@ -276,6 +276,7 @@
 * [Drafts](https://getdrafts.com/) or [Voodoopad](http://www.voodoopad.com/) - *Text Editor / Notes*
 * [Taskpaper](https://www.taskpaper.com/) - *To-Do App*
 * [Stroke](https://stroke.lllllllllllllllll.com/) - *Text (You Can't Delete) Editor*
+* [BibDesk](https://bibdesk.sourceforge.io/) - *Bibliography Manager*
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) or [Spark](https://sparkmailapp.com/) - *Email Client*
 * [Microsoft Mac Downloads](https://macadmins.software/) or [Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - *Office Suite*
 * [Winfield](http://www.winfield.demon.nl/) - *MS Word for Linux / OS X* 
