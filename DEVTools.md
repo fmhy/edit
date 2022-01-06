@@ -228,6 +228,7 @@
 * [Geekflare Tools](https://gf.dev/toolbox) - *Site Testing Tools*
 * [UXTweak](https://www.uxtweak.com/) - *Website Design Usability Improvement Tool*
 * [Am I Responsive](http://ami.responsivedesign.is/) - *Responsive Design Checker*
+* [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) - *Compare Website Performance*
 * [Rest Test Test](http://resttesttest.com/) - *Test REST/CORS Services*
 * [httpbin](https://httpbin.org/) - *HTTP Request & Response Service*
 * [RemoteMySQL](https://www.remotemysql.com/) - *Remote MySQL Database*
@@ -274,8 +275,9 @@
 * [HTML5 Temp](https://rentry.co/HTML5Temp) - *HTML5 Templates & Themes*
 * [CSS Bed](https://www.cssbed.com/), [free-css-templates](https://www.free-css.com/free-css-templates) or [TenplateMo](https://templatemo.com/) - *CSS Themes / Templates*
 * [Typewolf](https://www.typewolf.com/) - *Trending Website Fonts*
+* [Pattern Monster](https://pattern.monster/) - *SVG Pattern Generator*
 * [Broider](https://maxbittker.github.io/broider/) - *Create Border Designs*
-* [ShapeDivider](https://www.shapedivider.app/) - *Make SVG Shape Divider*
+* [ShapeDivider](https://www.shapedivider.app/) or [blobbb ](https://www.blobbb.fun/)- *Make SVG Shape Divider*
 * [GalleryProject](http://galleryproject.org/) - *Manage / Host Photos on Website* 
 * [PublishThisEmail](https://www.publishthis.email/) - *Email Based Website Builder*
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - *Mobile Friendly Page Test* 
