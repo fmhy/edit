@@ -249,6 +249,7 @@
 * [Ryuugames](https://ryuugames.com/) 
 * [WebHentai](https://webhentai.net/)
 * [EAHentai](https://eahentai.com/)
+* [HAnime](https://hanime.tv/)
 * [NewToki69](https://newtoki96.com/)
 * [Anix.moe](https://www.anix.moe/)
 * [WebToonTop](http://webtoontop.xyz/)
@@ -268,7 +269,6 @@
 * [Violet](https://github.com/project-violet/violet) - *Android Hentai/ [Discord](https://discord.com/invite/fqrtRxC)*
 * [Hentoid](https://github.com/avluis/Hentoid) or [Hendroid](https://www.f-droid.org/en/packages/org.nonononoki.hendroid/) - **Android Hentai*
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - *Booru Client / [Telegram](https://t.me/Flexbooru/161)*
-* [RedditBooru](https://redditbooru.com/) - *Booru Image Search*
 
 ***
 
