@@ -327,6 +327,6 @@
 
 # Gay Porn
 
-* [MyGaySites](https://mygaysites.com/) - *List of Gay Porn Sites*
+* **[MyGaySites](https://mygaysites.com/)** - *List of Gay Porn Sites*
 * [Gay-Hotfile](https://gay-hotfile.errio.net/) - *Downloads*
 * [Yupdates](https://yupdates.neocities.org/) - *Gay Porn Artwork / [Drives](https://cat.yupdates.art/) / [Discord](https://discord.com/invite/ECFKuBawQg)*
