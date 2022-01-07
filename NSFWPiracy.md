@@ -101,7 +101,6 @@
 * [JavEnglish](http://javenglish.cc/) - *Japanese Porn*
 * [kuaishangche](https://kuaishangche.club/) - *Chinese Porn*
 * [sjhs301](https://sjhs301.github.io/) - *Chinese Porn*
-* [CamVault](https://camvault.xyz/) - *DL Chaturbate, MyFreeCams & CAM4 Recordings*
 * [Recordbate](https://recordbate.com/) - *Chaturbate Recordings*
 * [BeNudes](https://benudes.com/) - *Erotic Stories*
 * [Pinkfire Store](https://store.pinkfire.pw/) - *NSFW Mobile Apps*
@@ -140,6 +139,7 @@
 * [SweetPorn](https://sweetporn.org/) 
 * [xxxFile.org](https://xxxfile.org/) 
 * [ArtsErotica](https://artserotica.com/videos/)
+* [CamVault](https://camvault.xyz/) - *DL Chaturbate, MyFreeCams & CAM4 Recordings*
 * [213.32.1.25](http://213.32.1.25/) - *Japanese Porn*
 * [78.47.246.229](http://78.47.246.229/) - *Japanese Porn*
 * [XXXTelegramBot](https://t.me/XXXTelegramBot) - *Telegram*
