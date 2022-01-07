@@ -154,10 +154,6 @@
 * @PornMirror - *Telegram*
 * [KinkBot](https://kinkbot.me/) - *Porn Image Bot*
 * [Boob Bot](https://www.boobbot.us/) - *Porn Image Bot*
-* [NSFWDownloader](https://github.com/h110m/NSFWDownloader) - *Porn Downloader*
-* [Pornhub DL Script](https://redd.it/ks5sba), [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) or [Savido Pornhub](https://www.savido.net/sites/pornhub) - *Pornhub Downloader*
-* [FapNationBot](https://discord.gg/MxyvAV22cE) - *Premium Porn Downloader Bot*
-* [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - *FC2 Image Scraper*
 
 ***
 
@@ -307,6 +303,10 @@
 * [Porn-Vault](https://github.com/porn-vault/porn-vault), [Fapflix2.0](https://github.com/EinAeffchen/Fapflix2.0) or [Stash](https://github.com/stashapp/stash) - *Porn File Manager*
 * [TheLeakNetwork](https://theleaknetwork.com/) or [UploadingPorn](https://uploadingporn.com/) - *NSFW File Host*
 * [Javinizer](https://github.com/jvlflame/Javinizer) - *JAV File Organizer*
+* [NSFWDownloader](https://github.com/h110m/NSFWDownloader) - *Porn Downloader*
+* [Pornhub DL Script](https://redd.it/ks5sba), [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) or [Savido Pornhub](https://www.savido.net/sites/pornhub) - *Pornhub Downloader*
+* [FapNationBot](https://discord.gg/MxyvAV22cE) - *Premium Porn Downloader Bot*
+* [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - *FC2 Image Scraper*
 * [/cumg/](https://rentry.co/coom) - *Hentai Tools*
 * [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/) - *NSFW Reverse Image Search*
 * [NameThatPorn](https://namethatporn.com/) - *Porn Identification Tool*
