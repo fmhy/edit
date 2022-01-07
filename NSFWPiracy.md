@@ -289,7 +289,6 @@
 * [Lewd Patcher](https://lewdpatcher.com/) - *Adult Game Patches*
 * [WickedWhims](https://wickedwhimsmod.com/index) - *Adult Sims Mod*
 * [minegasm](https://minegasm.therainbowville.com/) - *Connect Minecraft to Sex Toys*
-* [Plexstorm](https://www.plexstorm.com/) - *Adult Game Streaming*
 
 ***
 
