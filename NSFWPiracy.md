@@ -267,12 +267,8 @@
 * [EhViewer](https://gitlab.com/NekoInverter/EhViewer) - *Android Hentai*
 * [Violet](https://github.com/project-violet/violet) - *Android Hentai/ [Discord](https://discord.com/invite/fqrtRxC)*
 * [Hentoid](https://github.com/avluis/Hentoid) or [Hendroid](https://www.f-droid.org/en/packages/org.nonononoki.hendroid/) - **Android Hentai*
-* [pandaforever](https://gitlab.com/squishydreams/pandaforever), [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) or [Panda Chaika](https://panda.chaika.moe/) [nhentai](https://github.com/RicterZ/nhentai) - *Hentai Downloader*
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - *Booru Client / [Telegram](https://t.me/Flexbooru/161)*
 * [RedditBooru](https://redditbooru.com/) - *Booru Image Search*
-* [DeepMosaics](https://github.com/HypoX64/DeepMosaics) or [DeepCreamPy](https://github.com/styler00dollar/Colab-DeepCreamPy/blob/master/Colab-DeepCreamPy-2.2.ipynb)
-* [/cumg/](https://rentry.co/coom) - *Hentai Tools*
-
 
 ***
 
@@ -307,7 +303,9 @@
 * [Pornhub DL Script](https://redd.it/ks5sba), [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) or [Savido Pornhub](https://www.savido.net/sites/pornhub) - *Pornhub Downloader*
 * [FapNationBot](https://discord.gg/MxyvAV22cE) - *Premium Porn Downloader Bot*
 * [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - *FC2 Image Scraper*
+* [pandaforever](https://gitlab.com/squishydreams/pandaforever), [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) or [Panda Chaika](https://panda.chaika.moe/) [nhentai](https://github.com/RicterZ/nhentai) - *Hentai Downloader*
 * [/cumg/](https://rentry.co/coom) - *Hentai Tools*
+* [DeepMosaics](https://github.com/HypoX64/DeepMosaics) or [DeepCreamPy](https://github.com/styler00dollar/Colab-DeepCreamPy/blob/master/Colab-DeepCreamPy-2.2.ipynb)
 * [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/) - *NSFW Reverse Image Search*
 * [NameThatPorn](https://namethatporn.com/) - *Porn Identification Tool*
 * [ZENRA](https://www.zenra.net/free-jav-reverse-image-search) - *Reverse JAV Image Search*
