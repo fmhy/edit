@@ -166,6 +166,7 @@
 * [relizer](http://relizer.net/) 
 * [色花堂-98堂](https://www.sehuatang.net/)
 * [6Mag](https://6mag.net/)
+* [PornRips](https://pornrips.to/) - *HEVC Porn Rips*
 * [JavBus](https://www.javbus.com/en) - *Japanese*
 * [141Jav](https://www.141jav.com/) - *Japanese*
 * [Cheggit](http://www.cheggit.me/register.php), [BitSexy](https://bitsexy.org/signup.php) or [HappyFappy](https://www.happyfappy.org/users/register) - *Private Trackers / Open-Signups*
