@@ -1524,7 +1524,6 @@ General Reading Sites*
 * [XTerm](https://invisible-island.net/xterm/) - *X Window System Terminal Emulator*
 * [Mintty](http://mintty.github.io/) - *Cygwin Terminal Emulator* 
 * [eDEX-UI](https://github.com/GitSquared/edex-ui) - *Sci-Fi Terminal Emulator / System Monitor*
-* [asciinema](https://asciinema.org/) - *Record Terminal Sessions*
 * [GetDNote](https://www.getdnote.com/) - *Command Line Notebook*
 * [cmder](https://cmder.net/) - *Portable Console Emulator for Windows* 
 * [PowerShell](https://github.com/powershell/powershell) - *PC / Mac / Linux PowerShell*
@@ -1657,6 +1656,7 @@ General Reading Sites*
 * [Download Proxy](https://download-proxy.zhaofengying.com/) - *File Proxy Server Downloader*
 * [Files 2 Folder](https://www.dcmembers.com/skwire/download/files-2-folder/) - *Create / Copy to Folders Created by File Name*
 * [File-Examples](https://file-examples.com/) - *File Examples*
+* [MyPhoneExplorer](https://www.fjsoft.at/) - *Manage / Sync Your Phone with PC*
 * [RollMyFile](https://rollmyfile.com/) - *Open Files Online*
 * [Tmp.Ninja](https://tmp.ninja/) - *Temp File Host (48hrs)*
 * [ozzillate](https://www.ozzillate.com/) - *Transfer Files via Sound*
