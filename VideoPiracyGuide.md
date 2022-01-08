@@ -154,7 +154,7 @@
 * [Pahe.stream](https://pahe.stream/) - *Movies / TV*
 * [Movie4k](https://movie4k.123movies.online/) - *Movies / TV*
 * [VidCloud](https://vidembed.io/) - *Movies / TV*
-* [Afdah](https://afdah.video/) - *Movies*
+* [Afdah](https://afdah.video/), [2](https://afdah2.com/) - *Movies*
 * [SeeHD](https://seehd.nl/) - *Movies / TV / Anime* 
 * [SeeHD.uno](https://www.seehd.uno/) - *Movies / TV / Anime / NSFW* 
 * [Yesmovies.love](https://yesmovies.love/) - *Movies / TV / Anime* 
@@ -871,7 +871,7 @@
 * [All Anime](https://allanime.site/) - *Anime*
 * [Kitsu](https://kitsu.io/) - *Anime* 
 * [AniDB](https://anidb.net/) - *Anime*
-* [AniList](https://anilist.co/) - *Anime / [Wrapper](https://github.com/butterstroke/Anilist-Node)* 
+* [AniList](https://anilist.co/) - *Anime / [Wrapper](https://github.com/butterstroke/Anilist-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)* 
 * [Animender](https://discord.gg/h6nTTprMKd), [Mangaki](https://mangaki.fr/) or [AniBrain](https://anibrain.ai/) - *Anime Recommendation Tool*
 * [ACDB](https://www.animecharactersdatabase.com/) - *Anime Character Database*
 * [MetaCritic](https://www.metacritic.com/) - *Movies / TV / Anime*
