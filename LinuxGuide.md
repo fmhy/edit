@@ -73,6 +73,7 @@
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) - *Noise Cancellation Software*
 * [Giara](https://aur.archlinux.org/packages/giara/) - *Reddit Client / [GitHub](https://gitlab.gnome.org/World/giara) *
 * [reddio](https://gitlab.com/aaronNG/reddio) - *Reddit CLI*
+* [gettit](https://github.com/Solirs/gettit/) - *Reddit CLI videos downloader*
 * [rainbowstream ](https://github.com/orakaro/rainbowstream) - *Twitter CLI*
 * [ramme](https://github.com/terkelg/ramme) - *Instagram Client*
 * [Luakit](https://luakit.github.io/) - *Lightweight Linux Browser* 
@@ -94,7 +95,7 @@
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - *Mount GDrive on Linux*
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - *Linux File Search*
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - *PDF Editor*
-* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [Featherpad](https://github.com/tsujan/FeatherPad) or [Notepadqq](https://notepadqq.com/) - *Text Editor*
+* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad), or [Notepadqq](https://notepadqq.com/) - *Text Editor*
 * [Winfield](http://www.winfield.demon.nl/) - *MS Word for Linux / OS X* 
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Linux Photoshop Installer*
 * [FlameGApps](https://github.com/flamegapps/flamegapps) - *Google Apps Installer*
@@ -113,6 +114,7 @@
 * [Ecasound](http://nosignal.fi/ecasound/) - *Multitrack Audio-Processor / Linux*
 * [cava](https://github.com/karlstav/cava) - *Console Audio Visualizer*
 * [Peek](https://github.com/phw/peek) - *Simple Video / GIF recorder*
+* [asciinema](https://asciinema.org/) - *Terminal recorder*
 * [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - *Fake Webcam Background*
 * [utils](https://github.com/Loupeznik/utils) - *Linux Utility Scripts*
 * [Mayfrost Guides](https://github.com/mayfrost/guides) - *Linux / Computing Guides*
@@ -163,6 +165,8 @@
 * [AppImageHub](https://appimage.github.io/) or [get-appimate](https://g.srev.in/get-appimage/) - *Download AppImages / [CLI](https://zap.srev.in/)*
 * [Homebrew](https://brew.sh/) - *Package Manager*
 * [yay](https://github.com/Jguer/yay) - *AUR Helper / Pack Manager*
+* [Pacstall](https://pacstall.dev/) - *AUR-inspired package manager for Ubuntu*
+* [apt-fast](https://github.com/ilikenwf/apt-fast) - *Download accelerator for apt*
 * [MPR Packages](https://mpr.hunterwittenborn.com/)
 * [pacwall](https://github.com/Kharacternyk/pacwall) - *Live Wallpaper that shows Dependency Graph & Status of Installed Packages* 
 * [picom](https://github.com/yshui/picom) - *X11 Compositor*
@@ -231,6 +235,7 @@
 * [steam-cli](https://github.com/berenm/steam-cli) - *CLI for Steam*
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher*
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - *GOG Client*
+* [GameHub](https://tkashkin.github.io/projects/gamehub/) - *Game collection manager*
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - *Linux Gaming Kernels*
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - *Linux System Optimizer*
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - *Linux Game Package Downloader*
