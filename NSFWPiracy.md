@@ -177,7 +177,7 @@
 
 ## Leaks
 
-* **[Jack's Off Mega Collections](https://rentry.co/is5ii) - *OnlyFans / Patreon*
+* **[Jack's Off Mega Collections](https://rentry.co/is5ii)** - *OnlyFans / Patreon*
 * [MissingToofff](https://missingtoofff.com/) - *OnlyFans Leak Site List*
 * [PornDude OnlyFans](https://theporndude.com/snapchat-nudes-sites) - *OnlyFans / Patreon*
 * [LeakMeUp](https://leakemup.com/forums/) - *OnlyFans / Patreon*
