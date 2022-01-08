@@ -56,7 +56,7 @@
 * [LibreAV](https://www.projectmatris.tech/) or [Hypatia](https://gitlab.com/divested-mobile/hypatia) - *Antivirus*
 * [AFWall+](https://github.com/ukanth/afwall/) or [NoRoot Firewall](https://play.google.com/store/apps/details?id=app.greyshirts.firewall) - *Firewall* 
 * [Security Addon](https://github.com/huntmix/securityaddon) - *Set Triggers & Measures that protect your Phone*
-* [SuperFreezZ](https://f-droid.org/en/packages/superfreeze.tool.android) - *Freeze App Background Activities* 
+* [SuperFreezZ](https://superfreezz.gitlab.io/) - *Freeze App Background Activities / [GitHub](https://gitlab.com/SuperFreezZ/SuperFreezZ)* 
 * [SnoopSnitch](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/) - *Check Mobile Network Security* 
 * [FairEmail](https://play.google.com/store/apps/details?id=eu.faircode.email) - *Open Source, Privacy Oriented Email for Android / [f-Droid](https://f-droid.org/packages/eu.faircode.email/)*
 * [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/) - *Email Forwarding*
@@ -132,6 +132,7 @@
 * [4G LTE Coverage](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b) - *4G LTE Coverage Map*
 * [OpenStreetMap](https://github.com/westnordost/StreetComplete) - *Custom Street Maps*
 * [MAPS.ME](https://maps.me/) - *Offline Maps / [GitHub](https://github.com/mapsme/omim)*
+* [Transportr](https://transportr.app/) - *Public Transport Assistant / [Github](https://github.com/grote/Transportr)*
 * [AntennaSearch](http://www.antennasearch.com/) - *Cell Tower & Antenna Search*
 * [PhoneDB](https://phonedb.net/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - *Compare Phones & Prices* 
 * [DXOMARK](https://www.dxomark.com/) - *Smartphone Quality Testing*
@@ -180,6 +181,7 @@
 * [Custom Volume Panel](https://play.google.com/store/apps/details?id=com.codingbatch.volumepanelcustomizer) - *Customize Volume Bar*
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - *Dictionary App*
 * [AutomaTag](http://automatag.com/) - *Metadata Organizer*
+* [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - *Auto Clicker*
 * [Aves](https://github.com/deckerst/aves) - *Metadata Explorer*
 * [GameGuardian](https://gameguardian.net/) - *Game Hack / Alteration Tool*
 * [NeonRom3r](https://github.com/Gr3gorywolf/NeonRom3r) - *Download Roms* 
