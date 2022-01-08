@@ -478,7 +478,7 @@
 * [FindSounds](https://www.findsounds.com/) - *Sound Search Engine* 
 * [mathewvp](http://midi.mathewvp.com/) - *Edit / Create / Polyphonic ringtones* 
 * [librosa](https://librosa.org/) - *Audio Analysis / Information Retrieval / [Github](https://github.com/librosa/librosa)*
-* [Auphonic](https://auphonic.com/) or [Levelator](http://www.conversationsnetwork.org/levelator) - *Audio Leveler*
+* [Auphonic](https://auphonic.com/) - *Audio Leveler*
 * [LightHost](https://github.com/rolandoislas/LightHost) - *VST / AU Host*
 * [OPUS](https://opus-codec.org/) - *Audio Codec / [Bitrate Optimization](https://github.com/master-of-zen/BOPUS)* 
 
@@ -656,7 +656,6 @@
 * [DownloadTestr](http://txti.es/downloadtestr) - *Download Test Files to Test Download Speed* 
 * [Hotel WiFi Test](https://www.hotelwifitest.com/) - *Test Hotel WiFi Speeds* 
 * [NeverSSL](http://neverssl.com/) - *Fix Public WiFi Login Pages*
-* [YouTube](https://dlogic.lk/projects/youtubedatacalc.php), [Music Streaming](https://dlogic.lk/projects/music.php), [Netflix](https://dlogic.lk/projects/netflix.php), [Zoom](https://dlogic.lk/projeText to Speech using Sampled Mediacts/zoom.php) - *Data Usage Calculators*
 * [IP2Proxy](https://www.ip2proxy.com/) - *Proxy / VPN IP Detector*
 * [Tripgen](https://orph.link/tripgen) - *Image Board Trip Code Generator* 
 * [4Chan Captcha Solver Script](https://pastebin.com/f6xUjE5s) or [4chan Captcha Solver](https://github.com/AUTOMATIC1111/4chan-captcha-solver/) - *4chan Captcha Solver*
@@ -892,7 +891,7 @@ General Reading Sites*
 * [Busca](https://github.com/afk-mcz/busca) - *Search Current Tab on Reddit*
 * [KarmaDecay](http://karmadecay.com/) - *Reddit Reverse Image Search* 
 * [Reddit Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_alternatives) - *Alternative Reddit Style Sites*
-* [lurrker](https://lurrker.com/), [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/), [kddit](https://kddit.kalli.st/) or [Nuxtit](https://nuxtit.netlify.com/) - *Alt Browsers / Web Clients*
+* [lurrker](https://lurrker.com/), [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/) or [Nuxtit](https://nuxtit.netlify.com/) - *Alt Browsers / Web Clients*
 * [xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/) / [2](https://github.com/spikecodes/libreddit), [Saturnus](https://saturnusapp.com/), [Inccogsnoo](https://incogsnoo.com/) or [teddit](https://teddit.net/) / [2](https://codeberg.org/teddit/teddit) - *Reddit Frontends*
 * [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466-unedit-and-undelete-for-reddit) - *See Edited & Deleted Reddit Content*
 * [Reddit-Search](https://camas.github.io/reddit-search/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - *View Deleted Reddit Posts*
@@ -1210,7 +1209,6 @@ General Reading Sites*
 * [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - *Alt Twitch Player* 
 * [Twitch-Desktop](https://github.com/twitch-desktop/twitch-desktop) or [Orion](https://alamminsalo.github.io/orion/) - *Twitch Desktop Client* 
 * [Multi](https://multi.raredrop.co/), [Twitchmultivod](https://www.twitchmultivod.com/) or [TwitchTheater](https://twitchtheater.tv/) - *Watch Multiple Twitch Streams* 
-* [Livestream Panels](https://livestreampanels.com/) - *Custom Twitch Stream Panels*
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - *Fix Twitch Aspect Ratio*
 * [Chatterino](https://chatterino.com/), [Chatsen](https://chatsen.app/), [Chatterino Homies](https://chatterinohomies.com/) or [Chatty](https://chatty.github.io/) - *Twitch Chat Client*
 * [SpeechChat](https://speechchat.com/) - *Twitch Text to Speech Client*
@@ -1262,7 +1260,7 @@ General Reading Sites*
 * [HashTagStack](https://www.hashtagstack.com/) - *Hashtag Engagement Tracker*
 * [Hashait](https://www.hashatit.com/) - *Hashtag Search*
 * [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - *Download Twitter Videos* 
-* [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/), [SocialBearing](https://socialbearing.com/) or [Foller](https://foller.me/) - *Analyze Twitter Accounts* 
+* [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/) or [SocialBearing](https://socialbearing.com/) - *Analyze Twitter Accounts* 
 * [TweeterID](https://tweeterid.com/) - *Twitter User ID & Username Converter* 
 * [Spoonbill](https://spoonbill.io/) - *Track Profile Changes of People you Follow* 
 * [SocialRank](https://socialrank.com/) - *Find Your Most Valuable Followers* 
