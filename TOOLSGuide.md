@@ -1450,6 +1450,7 @@ General Reading Sites*
 * [Revertservice](http://revertservice.com/) - *Default configurations of Windows services*
 * [Win10 Widgets](https://win10widgets.com/), [BeWidgets](https://www.microsoft.com/en-us/p/bewidgets/9nq07fg50h2q) or [Gadgets Revived](https://gadgetsrevived.com/) - *Widgets for Windows* 
 * [Übersicht](https://tracesof.net/uebersicht/) - *System Command Widgets*
+* [Command Not Found](https://command-not-found.com/) - *Install Missing Commands*
 * [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - *Windows API Tricks*
 * [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - *Windows 10 Auto Dark Mode*
 * [f.lux](https://justgetflux.com/), [LightBulb](https://github.com/Tyrrrz/LightBulb) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - *Adjust Display Color / Temperature*
