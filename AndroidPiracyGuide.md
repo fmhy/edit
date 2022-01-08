@@ -610,7 +610,7 @@
 
 # ► Android Streaming
 
-* **[Stremio](https://www.stremio.com/)** - *Torrent Streaming / [Addons](https://redd.it/ahd6gk) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
+* **[Stremio](https://www.stremio.com/)** - *Torrent Streaming / [Addons](https://github.com/danamag/stremio-addons-list/blob/main/README.md) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * **[CloudStream](https://github.com/LagradOst/CloudStream-3)** - *Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM)*
 * **[CucoTV](https://cucotv.github.io/)** - *Movies / TV* 
 * **[CinemaHD](https://github.com/TeruSetephen/cinemaapk)** - *Movies / TV / Anime / Chromecast*
