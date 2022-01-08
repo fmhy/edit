@@ -71,8 +71,9 @@
 * [HydraPaper](https://hydrapaper.gabmus.org/) - *Linux Wallpaper Manager*
 * [Polychromatic](https://polychromatic.app/) - *Linux System Light Control*
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) - *Noise Cancellation Software*
-* [Giara](https://aur.archlinux.org/packages/giara/) - *Reddit Client / [GitHub](https://gitlab.gnome.org/World/giara) *
+* [Giara](https://aur.archlinux.org/packages/giara/) - *Reddit Client / [GitHub](https://gitlab.gnome.org/World/giara)*
 * [reddio](https://gitlab.com/aaronNG/reddio) - *Reddit CLI*
+* [gettit](https://github.com/Solirs/gettit/) - *Reddit CLI Video Downloader*
 * [rainbowstream ](https://github.com/orakaro/rainbowstream) - *Twitter CLI*
 * [ramme](https://github.com/terkelg/ramme) - *Instagram Client*
 * [Luakit](https://luakit.github.io/) - *Lightweight Linux Browser* 
@@ -94,7 +95,7 @@
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - *Mount GDrive on Linux*
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - *Linux File Search*
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - *PDF Editor*
-* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [Featherpad](https://github.com/tsujan/FeatherPad) or [Notepadqq](https://notepadqq.com/) - *Text Editor*
+* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - *Text Editor*
 * [Winfield](http://www.winfield.demon.nl/) - *MS Word for Linux / OS X* 
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Linux Photoshop Installer*
 * [FlameGApps](https://github.com/flamegapps/flamegapps) - *Google Apps Installer*
@@ -148,6 +149,7 @@
 * [tldr](https://github.com/tldr-pages/tldr/) - *Tl;dr'd man pages*
 * [Ghostwriter](http://wereturtle.github.io/ghostwriter/) or [Remarkable](http://remarkableapp.github.io/) - *Markdown Editor*
 * [Whatever](https://github.com/CellarD0-0r/whatever) - *Evernote Client*
+* [asciinema](https://asciinema.org/) - *Terminal Recorder*
 * [Electerm](https://electerm.github.io/electerm) - *Terminal / SSH / STP Client*
 * [Yakuake](https://apps.kde.org/yakuake/) - *Quake Style Terminal Emulator*
 * [theme.sh](https://github.com/lemnos/theme.sh) or [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - *Custom Terminal Themes*
@@ -162,7 +164,9 @@
 * [Timeshift](https://github.com/teejee2008/timeshift) - *Create System Snapshots & Restore*
 * [AppImageHub](https://appimage.github.io/) or [get-appimate](https://g.srev.in/get-appimage/) - *Download AppImages / [CLI](https://zap.srev.in/)*
 * [Homebrew](https://brew.sh/) - *Package Manager*
-* [yay](https://github.com/Jguer/yay) - *AUR Helper / Pack Manager*
+* [yay](https://github.com/Jguer/yay) - *AUR Helper / Package Manager*
+* [Pacstall](https://pacstall.dev/) - *AUR-Inspired Package Manager for Ubuntu*
+* [apt-fast](https://github.com/ilikenwf/apt-fast) - *APT Download Accelerator*
 * [MPR Packages](https://mpr.hunterwittenborn.com/)
 * [pacwall](https://github.com/Kharacternyk/pacwall) - *Live Wallpaper that shows Dependency Graph & Status of Installed Packages* 
 * [picom](https://github.com/yshui/picom) - *X11 Compositor*
@@ -219,6 +223,7 @@
 * **[Torrminatorr](https://forum.torrminatorr.com/)** - *Linux Games*
 * **[johncena141](https://1337x.to/user/johncena141/)** - *Linux Games*
 * [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - *Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
+* [GameHub](https://tkashkin.github.io/projects/gamehub/) - *Game Manager*
 * [SCNLOG](https://scnlog.me/) - *Linux Games*
 * [de.linuxgame.cn](https://de.linuxgame.cn/) - *Linux Games* 
 * [The KDE Games Center](https://games.kde.org/) - *Linux Games*
@@ -296,6 +301,7 @@
 * [USBMap](https://github.com/corpnewt/USBMap) - *Map MacOS USB Ports*
 * [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
 * [iTerm2](https://iterm2.com/) - *Replacement for Terminal*
+* [asciinema](https://asciinema.org/) - *Terminal Recorder*
 * [Pictogram](https://pictogramapp.com/) - *Custom App Icons*
 * [IconSet](https://github.com/tale/iconset) or [IconChamp](https://www.macenhance.com/iconchamp.html) - *Custom System Icons*
 * [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - *MacOS Dynamic Wallpaper App*
