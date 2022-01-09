@@ -162,6 +162,7 @@
 * [Download Links Materials](https://t.me/DownloadLinksMaterials) - *Courses / Telegram*
 * [premiumcoursesfree](https://t.me/premiumcoursesfree) - *Courses / Telegram*
 * [Udemy_Courses_Free_Daily](https://t.me/Udemy_Courses_Free_Daily ) - *Courses / Telegram*
+* [RedBlueHit](https://t.me/RedBlueHit) - *Courses / Telegram*
 * [learningDL](https://learningdl.net/) - *Courses / Leech required* 
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - *Courses / Tutorials* 
 * [Course Code Drive](https://ddpanda.net/code/) - *Courses / [Codes](https://ufile.io/mvg3nz5t)*
@@ -519,6 +520,7 @@
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Infinite trial by clearing cookies & making new account*
 * **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - *Grammar Checking Tools*
 * **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)** - *Learn to Type Faster*
+* [MyAssignmentHelp](https://myassignmenthelp.com/free-tools.php) - *Academic Tools*
 * [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - *Touch Typing Tutorial*
 * [Spreeder](https://www.spreeder.com/) - *Learn to Read Faster*
 * [Learn Anything](https://learn-anything.xyz/) or [Learney](https://app.learney.me/) - *Interactive Learning Map* 
