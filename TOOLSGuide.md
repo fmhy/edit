@@ -91,11 +91,11 @@
 * [HLDMSIYS?](http://howlongdoesmarijuanastayinyoursystem.net/) - *Drug Effect Duration / Testing Information*
 * [Stolen Camera Finder](https://www.stolencamerafinder.com/) - *Find Stolen Cameras* 
 * [Sweet Home 3D](http://www.sweethome3d.com/) - *Interior Design App*
-* [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Carnac](http://code52.org/carnac/), [Presen](https://presen-vid.com/ ), [mentimeter](https://www.mentimeter.com/), [beautiful.ai](https://www.beautiful.ai/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Deckdeckgo](https://deckdeckgo.com/), [Webslides](https://webslides.tv/) or [Slides](https://slides.com/) - *Presentation Platform*
+* [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Carnac](http://code52.org/carnac/), [Presen](https://presen-vid.com/ ), [mentimeter](https://www.mentimeter.com/), [beautiful.ai](https://www.beautiful.ai/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Deckdeckgo](https://deckdeckgo.com/), [Webslides](https://webslides.tv/), [Desk](https://www.animaker.com/deck) or [Slides](https://slides.com/) - *Presentation Tool*
 * [Slides](http://maaslalani.com/slides/) - *Terminal Presentation Tool / [GitHub](https://github.com/maaslalani/slides)*
 * [SlidesGo](https://slidesgo.com/), [SlideShareDownloader](https://slidesharedownloader.ngelmat.net/), [PresentationGO](https://www.presentationgo.com/), [ensa.io](https://ensa.io/) or [ThePOPP](https://thepopp.com/) - *Presentation Templates* 
 * [TemplateMaker](https://www.templatemaker.nl/ ) - *Package & Box Templates*
-* [QR Tiger](https://www.qrcode-tiger.com/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - *QR Code Generator* 
+* [QR Tiger](https://www.qrcode-tiger.com/), [Logaster](https://www.logaster.com/qr-code-generator/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - *QR Code Generator* 
 * [QRpicture](https://www.qrpicture.com/) - *Picture to QR Code Converter* 
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - *Online Appraisals*
 * [findhelp.org](https://www.findhelp.org/) - *Find Assistive Programs*
@@ -273,7 +273,6 @@
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - *Create TV Channels using Plex Library*
 * [Zoom Escaper](https://zoomescaper.com/ ) - *Self-Sabotage Video Calls to Escape Meetings*
 * [Live Curtain](https://livecurtain.com/) - *Countdown Curtain For Online Meeting*
-* [Animaker](https://www.animaker.com/) - *Animated Video Creator*
 * [Avidemux](http://fixounet.free.fr/avidemux/) - *Cut / Filter / Encode* 
 * [vidcutter](https://github.com/ozmartian/vidcutter) - *Cut Videos* 
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts*
@@ -285,6 +284,8 @@
 * [Flowframes](https://nmkd.itch.io/flowframes) or [SVP](https://www.svp-team.com/) - *Video Interpolation*
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - *Art & Animation Resource Index*
 * [OpenToonz](https://opentoonz.github.io/e/), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - *Animation Tools*
+* [Animaker](https://www.animaker.com/) - *Animated Video Creator*
+* [Unreal Engine](https://www.unrealengine.com/) - *3D Creation Tool*
 * [AnimeEffects](http://animeeffects.org/en/), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/) or [Synfig](https://www.synfig.org/) - *2D Animation Tool* 
 * [Storyboarder](https://wonderunit.com/storyboarder/) - *Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)* 
 * [LibreSprite](https://libresprite.github.io/) - *Sprite Animation Tool*
@@ -315,6 +316,7 @@
 * [polsy.org.uk](http://polsy.org.uk/) - *Alt Players for Video Sites*  
 * [After Effects Templates](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_after_effects_templates) - *Download After Effect Templates*
 * [FootageCrate](https://footagecrate.com/), [MATESFX](https://www.freevideoeffect.com/), [FreeVideoEffect](https://freevideoeffect.com/), [IntroHD](https://www.introhd.net/) or [VFXDownload](https://www.vfxdownload.net/) - *Video Effects*
+* [Tyle](https://tyle.io/) - *Photo Slideshow Video Maker*
 * [Rollideo](https://rollideo.com/) - *Text to Speech / Subtitles*
 * [video2x](https://github.com/k4yt3x/video2x) - *Video Upscaler*
 * [Anime4K](https://github.com/bloc97/Anime4K) - *Anime Video Upscaler* 
@@ -356,7 +358,7 @@
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - *Professional Video, Audio & Adobe Software / Plugins*
 * [Audio Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_plugins) - *VST Plugins* 
 * [Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sfx_.2F_loops) - *SFX & Loops*
-* [rFXGen](https://raylibtech.itch.io/rfxgen) or [SFXR](https://sfxr.me/) - *Sounds Effects Generator *
+* [rFXGen](https://raylibtech.itch.io/rfxgen) or [SFXR](https://sfxr.me/) - *Sounds Effects Generator*
 * [TheAudioScene](https://theaudioscene.net/) - *Daws / VSTi / Samples / Presets* 
 * [Fresh Stuff For You](https://freshstuff4you.com/) - *Daws / Samples / Presets*
 * [Go Audi0](https://goaudio.me/) - *Audio Samples*
@@ -435,7 +437,7 @@
 * [CSound](https://csound.com/) - *Music Computing System*
 * [Melodai.art](https://melodai.art/) - *AI Melody Generator*
 * [Karaoke Maker](https://www.edityouraudio.com/karaoke-maker), [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - *Create Karaoke Songs*
-* [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/) or [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Online Audio Recorder* 
+* [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/), [VoiceSpice](https://voicespice.com/) or [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Online Audio Recorder* 
 * [MP3Smaller](https://www.mp3smaller.com/) - *MP3 Compressor* 
 * [Audio Cutter](https://mp3cut.net/) - *Online Audio Cutter*
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts* 
@@ -511,6 +513,7 @@
 * [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - *Crypto Learning Resources*
 * [TryHackMe](https://tryhackme.com/), [AWS Training](https://www.aws.training/), [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html), [UI.com](https://www.ui.com/training/), [CryptoHack](https://cryptohack.org/) - *IT Training & Courses*
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - *Cloud Career Training*
+* [Failory](https://www.failory.com/graveyard) - *Learn Why Startups & Products Failed*
 * [learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - *Cloud Computing Fundamentals*
 * [Candor](https://candor.co/hiring-freezes/) - *Hiring Freezes*
 * [Doozy](https://doozy.live/), [Slab](https://slab.com/) or [TipiCalls](https://tipicalls.com/) - *Collaboration Platform*
@@ -547,6 +550,7 @@
 * [TCP Optimizer](https://www.speedguide.net/downloads.php/) - *Network Optimizer*
 * [NetLimiter](https://www.netlimiter.com/) or [Netbalancer](https://netbalancer.com/) - *Internet Traffic Control / Monitor* 
 * [Natlas](https://github.com/natlas/natlas) or [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) - *Network Scanner* 
+* [WiFi Analyzer](https://www.microsoft.com/en-us/p/wifi-analyzer/9nblggh33n0n) - *WiFi Analyzer*
 * [Arcai](https://arcai.com/) - *WiFi Speed Control*
 * [Nmap](https://nmap.org/) - *Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)*
 * [Elmocut](https://github.com/elmoiv/elmocut) or [SelfishNetV3](https://github.com/nov0caina/SelfishNetV3) - *ARP Spoofer / Kick Users from WiFi* 
@@ -574,7 +578,7 @@
 * [SocialBlade](https://socialblade.com/) - *Social Media Statistics*
 * [Post Generator](https://postgenerator.online/) - *Convert Article to Social Media Post*
 * [4stats](https://4stats.io/) - *4chan Board & Thread Stats*
-* [Emotes Everywhere](https://kellphy.com/projects/kee.html) or [Geniemoji](https://virejdasani.github.io/Geniemoji/) - *Emoji Manager*
+* [Emotes Everywhere](https://kellphy.com/projects/kee.html), [GenieEmoji](https://github.com/virejdasani/Geniemoji) or [Geniemoji](https://virejdasani.github.io/Geniemoji/) - *Emoji Manager*
 * [Emojipedia](https://emojipedia.org/) or [GetEmoji](https://getemoji.com/) - *Emoji Index*
 * [EmojiRequests](https://emojirequest.com/) - *Custom User-Made Emojis*
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - *Party Parrot Emojis*
@@ -756,7 +760,7 @@ General Reading Sites*
 * [SearchEnginesIndex](https://www.searchenginesindex.com/), [Fagan Finder](https://www.faganfinder.com/), [DirectSearch.Net](http://www.directsearch.net/) or [Search Engine Colossus](https://www.searchenginecolossus.com/) - *Search Engine Directory*
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - *DuckDuckGo !bang Meta Serarch / [GitHub](https://github.com/MoserMichael/duckduckbang)*
 * [Jumps](https://jumps.io/) - *Site Quick Search*
-* [Soovle](https://soovle.com/), [Keyword.io](http://www.keyword.io/) or [Keyword Tool](https://keywordtool.io/) - *Popular Keyword Generator*
+* [Soovle](https://soovle.com/), [Keyword.io](http://www.keyword.io/), [SearchEngineReports](https://searchenginereports.net/) or [Keyword Tool](https://keywordtool.io/) - *Popular Keyword Search*
 * [Esteroids](https://esteroids.eth.limo/#) - *Decentralized Web Search Engine*
 * [Social-Searcher](https://www.social-searcher.com/), [HashFinder](https://www.hashfinder.xyz/) or [Social Mention](http://socialmention.com/) - *Social Media Search Engine*  
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - *Forum Search Engine* 
@@ -844,6 +848,7 @@ General Reading Sites*
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - *Telegram Link Shortener Bot* 
 * [suri](https://github.com/jstayton/suri) - *Self-Deployed Link Shortener*
 * [Open Bulk URL](https://openbulkurl.com/), [RapidLinkr](https://rapidlinkr.com/) or [OpenAllURLs](https://www.openallurls.com/) - *URL Bulk Opener*
+* [ListURLs](https://listurls.com/) - *URL List Generator*
 * [CheckServer](https://check-host.net/), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - *Site Monitoring Tools*
 * [CrowdTangle](https://apps.crowdtangle.com/chrome-extension) - *Check Where Links Have Been Shared*
 * [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MxToolbox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/) or [BillCipher](https://github.com/84KaliPleXon3/BillCipher) - *Domain Info Lookup Tool*
@@ -1087,7 +1092,8 @@ General Reading Sites*
 * [BotsArchive](https://t.me/BotsArchive), [2](https://github.com/ebertti/awesome-telegram), [3](https://github.com/DenisIzmaylov/awesome-telegram-bots), [4](https://github.com/abdelhai/awesome-bots), [5](https://github.com/stkw0/awesome-telegram-groups), [6](https://github.com/serhii-londar/awesome-telegram), [7](https://github.com/lorien/awesome-telegram-lists), [8](https://telegramic.org/bots/), [9](https://t.me/botlist) - *Telegram Bot Indexes* 
 * [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [gramxly](https://gramxly.com/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - *Telegram Channel / Bot Search*
 * [ShellBot](https://github.com/MannyHackers/ShellBot) or [Userge](http://theuserge.tech/) - *Multi-Tool Telegram Bot*
-* [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots) - *Download Audio via Telegram*
+* [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots) - *Audio Download Bots*
+* [GetMediaBot](https://t.me/getmediabot) - *Social Media Video / Picture Download Bot*
 * [Now Playing](https://t.me/nowplaybot) - *Now Playing Audio Bot*
 * [Unigram](https://github.com/UnigramDev/Unigram), [Tok](https://invent.kde.org/network/tok), [TDesktop](https://github.com/Forkgram/tdesktop) or [Kotatogram](https://github.com/kotatogram/kotatogram-desktop) - *Telegram Desktop Client*
 * [Web.Telegram](https://web.telegram.org/), [2](https://webk.telegram.org/), [3](https://webz.telegram.org/) - *Telegram Web Client*
@@ -1143,7 +1149,8 @@ General Reading Sites*
 * [Ytfzf](https://github.com/pystardust/ytfzf) - *Watch YouTube via the Terminal* 
 * [YouTube Skip Intro](https://chrome.google.com/webstore/detail/youtube-skip-intro/pkfnooichbjhhoajcoffiggbckfbflbg) - *Skip YouTube Intros*
 * [SpeechChat](https://speechchat.com/) - *Twitch Text to Speech Client*
-* [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - *Turn YouTube Videos into GIFs* 
+* [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - *YouTube to GIF* 
+* [VideoGlancer](https://videoglancer.com/) - *YouTube to PDF*
 * [ytcropper](https://ytcropper.com/) or [YTCutter](https://ytcutter.com/) - *YouTube Video Cropper*
 * [Vid Repeat](https://vidrepeat.com/) - *Loop Youtube Videos*
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - *YouTube Note Taking Tool*
@@ -1677,6 +1684,7 @@ General Reading Sites*
 * [Issuu](https://issuu.com/) - *Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/), [3](https://docdownload.net/)* 
 * [WebToPDF](https://webtopdf.com/) - *Webpage to PDF Converter*
 * [PPT To PDF](https://www.adobe.com/acrobat/online/ppt-to-pdf.html) - *Convert PowerPoint to PDF Adobe*
+* [Protect PDF](https://chrome.google.com/webstore/detail/protect-pdf-by-pdfliteco/ehiinfpgjdeejgicaecceplicndinpgb) - *PDF Watermarks*
 * [watermark-remover](https://github.com/cpappen/watermark-remover), [pdf-remove-watermarks](https://github.com/matthiasbock/pdf-remove-watermarks) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - *PDF Watermark Remover*
 * [Scan Your PDF](https://www.scanyourpdf.com/) - *Make a PDF look like it was Scanned*
 * [PDF Fixer](https://pdffixer.com/) - *Repair Damaged PDFs*
@@ -1695,6 +1703,7 @@ General Reading Sites*
 * [MEGA Uploader X](https://t.me/MegaUploadXbot) - *Remote Mega File Upload Bot*
 * [GDrive Guides](https://t.me/gdriveguides) - *GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)*
 * [Torrent2Drive](https://t.me/torrent_2_drive), [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - *DDL to GDrive Tool*
+* [Jybe.gg](https://jybe.gg/) - *GDrive File Sync*
 * [GDriveDL](https://github.com/ariakm25/GDriveDL) - *Google Drive Bulk Downloader*
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - *Google Drive Python Download Script*
 * [GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) - *GoIndex to GDrive Downloader*
