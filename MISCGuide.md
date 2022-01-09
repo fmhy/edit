@@ -52,9 +52,7 @@
 * [The More You Know](https://marckoxx.github.io/) - *Site / Tool Index*
 * [5000 Best](http://5000best.com/websites/) - *Site / [Tool](http://5000best.com/tools/) Index*
 * [Internet Redirections](https://techy-transistor.notion.site/techy-transistor/Internet-redirections-38a61405197a46ba8672c75d402a3225#58bffba979224bc3af93f0b1b8838806) - *Site / Tool Index*
-* [WebOrama](http://www.petergh.f2s.com/) - *Site / Tool Index*
 * [GoodSites](https://www.goodsites.tech/) -  *Site / Tool Index* 
-* [Protcol7](https://protocol7.co/wired/) - *Site / Tool Index*
 * [alt3rnative](https://github.com/machiav3lli/alt3rnative) - *Site / Tool Index*
 * [Peelopaalu](https://peelopaalu.neocities.org/) - *Site / Tool Index*
 * [RefDesk](https://www.refdesk.com/facts.html) - *Site / Tool Index*
@@ -82,6 +80,7 @@
 * [Pointless Sites](https://www.pointlesssites.com/) - *Pointless Site Index*
 * [Websites From Hell](https://websitesfromhell.net/) - *Shitty Website Index*
 * [National Archives](http://www.nationalarchives.gov.uk/webarchive/) - *UK Government Site Archive*
+* [UKWA](https://www.webarchive.org.uk/ukwa/) - *UK Site Archive*
 * [DeepWebLinks](https://deepweblinks.net/directories/), [dark.fail](https://dark.fail/),  [260+ Dark Web Links](https://ufile.io/pgvxf9jv), [Official Hidden Wiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/) or [Real World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites)
 * [NetSplit](https://netsplit.de/) - *IRC Channel Index*
 * [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) - *API index* 
@@ -89,7 +88,7 @@
 * [/r/coolgithubprojects](https://reddit.com/r/coolgithubprojects) - *Cool Projects on Github* 
 * [/r/coolgitlabprojects](https://reddit.com/r/coolgitlabprojects) - *Cool Projects on Gitlab*
 * [git:logs](https://www.gitlogs.com/) - *Trending GitHub Repos* 
-* [grep.app](https://grep.app/) or [GitSearch](https://gitsearch.io/) - *Git Repository Search*
+* [grep.app](https://grep.app/) - *Git Repository Search*
 * [Active Github Forks](https://techgaun.github.io/active-forks/) - *List of Active GitHub Forks*
 * [sourcehut](https://sr.ht/) - *Public Project Index*
 * [PiracyBank](https://piracybank.org/websites) - *List of sites tagged for copyright, mostly dead* 
@@ -103,7 +102,6 @@
 * [Tsuk1ko](https://github.com/Tsuk1ko) - *Anime Tool Repositories*
 * [Anilinks](https://anilinks.neocities.org/) - *Anime Related Site Index* 
 * [10kb Club](https://10kbclub.com/), [250kb Club](https://250kb.club/), [512kb Club](https://512kb.club/), [1MB Club](https://1mb.club/) - *Websites that don't exceed a certain size*
-* [The NoJS Club](https://nojs.club/) - *Websites that don't use JavaScript* 
 * [LowTech Directory](https://emreed.net/LowTech_Directory.html) - *Low Tech Site Index*
 * [The Geocities Gallery](https://geocities.restorativland.org/) - *Old Site Index*
 * [ZoaLink](https://zoalink.com/) - *Korean Sites Index* 
@@ -177,11 +175,12 @@
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - *Games*
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) or [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - *Auto-Claim Free Epic Games*
 * [/r/googleplaydeals](https://reddit.com/r/googleplaydeals) - *Paid apps* 
+* [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - *Paid apps*
 * [Android App Sales](https://t.me/androidappsales) - *Paid apps / Telegram* 
 * [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - *Paid apps*
 * [AppsFree](https://play.google.com/store/apps/details?id=com.appsfree.android) - *Paid apps*
 * [InstlApp](https://apps.apple.com/us/app/instlapp/id1502777382) - *Free App Giveaways*
-* [OneHack Freebie Thread](https://onehack.us/c/free-give-away/6) - *Give-Aways and Freebies*
+* [OneHack Freebie Thread](https://onehack.us/c/free-give-away/6) or [FreemiumBox](https://t.me/freemiumbox) - *Giveaways and Freebies*
 * [AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) - *Products / Services*
 * [AppSumo Freebies](https://appsumo.com/tools/freebies/) - *Apps*
 * [FreeCycle](https://www.freecycle.org/) - *People giving away free stuff*
@@ -313,7 +312,7 @@
 * [Toonami Remastered](https://www.toonamiremastered.com/) - *Remastered Toonami Content* 
 * [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - *How well do you recognize hit songs?*
 * [GeekPrank](https://geekprank.com/) - *Windows Pranks*
-* [Update Faker](https://updatefaker.com/0) - *Fake System Update Prank*
+* [Update Faker](https://updatefaker.com/) - *Fake System Update Prank*
 * [Hair on Screen](https://chrome.google.com/webstore/detail/hair-on-screen/egkikapjpndmjflbjjoondbihalgdjco) - *Fake Hair on Screen Prank*
 * [Speedtest Faker](https://jkctech.nl/projects/speedtest/) - *Fake Speedtest Results*
 * [Hacktyper](https://hackertyper.net/), [Hoacks](https://hoacks.com/) or [Geektyper](https://geektyper.com/) - *Fake Hacking Screen* 
@@ -455,7 +454,7 @@
 * [Screentoys](https://www.screentoys.com/) - *Photo Morphing Toy*
 * [HowNormalAmI?](https://www.hownormalami.eu/) - *Face Judge A.I.*
 * [Word Blanks](https://www.wordblanks.com/) or [Plot Generator](https://www.plot-generator.org.uk/) - *Online Mad Libs*
-* [Fun Trivia](https://www.funtrivia.com/) or [Sporcle](https://www.sporcle.com/) - *Trivia*
+* [Fun Trivia](https://www.funtrivia.com/), [BeanBeanBean](https://beanbeanbean.com/) or [Sporcle](https://www.sporcle.com/) - *Trivia*
 * [ARealMe](https://www.arealme.com/) - *Quiz Collection*
 * [OpenPsychometrics](https://openpsychometrics.org/) or [16 Personalities](https://www.16personalities.com/) - *Personality Tests*
 * [1000 Seconds](https://mattround.com/usvsth3m/1000-seconds/) - *Test of Patience*
@@ -614,7 +613,6 @@
 * [MJW](http://www.cs.cmu.edu/~mjw/recipes/) - *Recipes*
 * [BetterRecipes](https://www.bestrecipes.com.au/) - *Recipes*
 * [Astray](https://www.astray.com/recipes/) - *Recipes*
-* [JimLerner](http://www.jimlerner.com/recipes/) - *Recipes*
 * [zhabotyn](http://www.bios.unc.edu/~zhabotyn/recipes/) - *Recipes*
 * [FarmlandFoods](https://www.farmlandfoods.com/recipes/) - *Recipes*
 * [RecipeLand](https://recipeland.com/) - *Recipes*
@@ -891,10 +889,11 @@
 * [Get Font](https://getfont.herokuapp.com/) - *Find Font in Github* 
 * [Fontjoy](https://experiments.withgoogle.com/fontjoy) - *Generate Font Combinations*
 * [FontSprite](https://adamstrange.itch.io/fontsprite) - *FonstSprite Editor*
-* [Textcraft](https://textcraft.net/) - *Styled Font Generator*
+* [Textcraft](https://textcraft.net/) or [TextDrom](https://en.textdrom.com/) - *Styled Font Generator*
 * [Cava's Pixel Resources](https://caveras.net/) - *Pixel Fonts* 
 * [Scanlation School Drive](https://drive.google.com/drive/folders/1hPV4o8fmxY2Ab9tXi84l0vVOUQEgFIbU) - *Comic Fonts*
 * [Make WordArt](https://www.makewordart.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - *WordArt Generator*
+* [3DText2GIF](https://3dtext2gif.com/) - *Animated 3D Text Generator*
 * [Codeface](https://github.com/chrissimpkins/codeface) - *Fonts for Coding* 
 * [Metropolis](https://github.com/dw5/Metropolis) - *Modern Typeface*
 * [FiraCode](https://github.com/tonsky/FiraCode) - *Monospace Fonts* 
@@ -959,6 +958,7 @@
 * [Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - *Download Manager Extensions*
 * [Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - *Video Download Managers*
 * [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - *Play Videos in Theater Mode*
+* [GlobalSpeed](https://github.com/polywock/globalSpeed) - *Set Default Video / Audio Speed*
 * [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Audio Recorder*
 * [Mute Tab](https://mybrowseraddon.com/mute-tab.html) - *Easily Mute All Tabs*
 * [Web-Scrobbler](https://web-scrobbler.com/) - *Scrobble with Last.fm, Libre.fm, ect.*
@@ -1045,7 +1045,7 @@
 
 * [Firefox Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)
 * [keyconfig](https://addons.palemoon.org/addon/keyconfig/) - *Firefox Key Binds* 
-* [Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - *Search Selected Text / Multi Site Search / [GitHub](https://github.com/odebroqueville/contextSearch)*
+* [Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - *Search Selected Text / Multi Site Search*
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - *Multiple Link Related Actions* 
 * [FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/) - *Multiple Tab Related Actions*
 * [Firefox Download Managers](https://addons.mozilla.org/en-US/firefox/search/?category=download-management&recommended=true&sort=recommended%2Cusers&type=extension) - *Download Managers for Firefox*
@@ -1099,6 +1099,7 @@
 * [OVC](https://chrome.google.com/webstore/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - *Video Controller*
 * [Say Play](https://thanesh.dev/say-play) - *Video Control Voice Commands*
 * [Audio Channel](https://chrome.google.com/webstore/detail/audio-channel/hafdgamhnmiioimpcdhhbhgcjndgmphd) - *Tab Audio Manager*
+* [Smart Mute](https://chrome.google.com/webstore/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh) - *Tab Mute Manager*
 * [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn) - *Text Summary Generator*
 * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) or [Volume Master](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - *Increase Browser Volume*
 * [Poster](https://install.get-poster.com/) - *Quick Link Share*
@@ -1107,6 +1108,8 @@
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
 * [Headless-Recorder](https://github.com/checkly/headless-recorder) or [automa](https://github.com/kholid060/automa) - *Browser Automation*
 * [NudgeWare](https://nudgeware.io/) or [HabitLab](https://habitlab.stanford.edu/) - *Productivity Booster*
+* [Simple Todo](https://chrome.google.com/webstore/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) - *To-Do List*
+* [Blueticks](https://chrome.google.com/webstore/detail/blueticks/adgnjhngogijkkppficiiepmjebijinl) - *WhatsApp Scheduler*
 * [Beanote](https://chrome.google.com/webstore/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) or [Page Pad](https://chrome.google.com/webstore/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn) - *Web Page Note Taking*
 * [ProjectNaptha](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - *Manipulate Browser Image Text*
 * [A+ Font Size Changer](https://chrome.google.com/webstore/detail/a%20-fontsize-changer-lite/ckihgechpahhpompcinglebkgcdgpkil) - *Change Browser Font Size & Color*
