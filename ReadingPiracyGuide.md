@@ -309,9 +309,9 @@
 * [English Torah](http://englishtorah.com/) - *Torah Translation*
 * [Halakhah](https://www.halakhah.com/) - *Talmud Translation*
 * [Targum](http://targum.info/targumic-texts/) - *Targum Translation*
-* [2Muslims](https://www.2muslims.com/) - *Muslim Resource Database*
+* [2Muslims](https://www.2muslims.com/) or [IslamHouse](https://islamhouse.com/en) - *Muslim Resources*
+* [Questions on Islam](https://questionsonislam.com/) - *Muslim Q&A*
 * [Sunnah.com](https://sunnah.com/) - *Hadith Translation*
-* [Questions on Islam](https://questionsonislam.com/) - *Islam Q&A*
 * [84000](https://read.84000.co/) - *Buddhism*
 * [BuddhaNet](http://www.buddhanet.net/) - *Buddhism*
 * [dazangthings](https://dazangthings.nz/) - *Buddhist Text Analysis Repository*
@@ -1135,5 +1135,6 @@
 * [SmartStich](https://github.com/MechTechnology/SmartStitch) - *Stitch Together Webtoons*
 * [FanFicFare](https://github.com/JimmXinu/FanFicFare) - *Generate Ebooks from Stories / Fanfiction*
 * [HowLongToRead](https://howlongtoread.com/) - *Average Book Reading Times*
+* [xMinutesToRead](https://xminutestoread.xyz/) - *Article Time to Read Estimate*
 * [RemoveWatermark](https://github.com/ShadonSniper/RemoveWatermark) - *IT Ebook Watermark Remover*
 * [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) or [Remove Ebook DRM](https://apprenticealf.wordpress.com/) - *Remove Ebook DRM*
