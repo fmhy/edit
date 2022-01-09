@@ -78,6 +78,7 @@
 * [JoyToKey](https://joytokey.net/) - *Controller Emulator*
 * [Joystick Curves](https://www.xedocproject.com/joystickcurves.html) - *Virtual Joystick Emulator*
 * [Lowkey](https://lowkey.gg/) - *Record / Screenshot Gameplay* 
+* [Moments](https://steelseries.com/gg/moments) - *Game Clip Tool*
 * [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) or [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
 * [Pokemon Typechart](https://pokemondb.net/type) - *Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)*
 * [PokeList](https://pokemonlist.netlify.app/) or [Mon](https://github.com/dbednar230/mon) - *Pokedexes*
