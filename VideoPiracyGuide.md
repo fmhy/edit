@@ -228,6 +228,7 @@
 * [Imperial War Museums](https://www.iwm.org.uk/) - *Historic War Footage*
 * [Prelinger Archives](http://www.panix.com/~footage/) - *Ephemeral Films [Archive](https://archive.org/details/prelinger)*
 * [StageDork](http://stagedork.com/) - *Broadway Show Recordings* 
+* [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) - *Broadway Musicals*
 * [Rental Media](https://rentalmedia.neocities.org/index.html) - *Free DVD Rentals*
 * [Unus Annus](https://archive.org/details/unus-annus) - *Unus Annus Archive*
 * [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/), [2](https://github.com/joric/bandersnatch) - *Interactive player for Black Mirror: Bandersnatch*
@@ -813,7 +814,7 @@
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - *Get a VPN before torrenting*
 * **[Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)**
 * **[Nyaa](https://nyaa.si/)**, [2](http://nyaa.iss.one/) - *Sub / Dub*
-* **Nyaa Tools** - [TUI](https://github.com/irevenko/koneko) / [CLI](https://github.com/natanbc/nyaasi) / [Telegram Bot](https://github.com/ejnshtein/nyaasi-bot) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy) / [Torrent Fetch](https://github.com/manintel/nyaabag) / [Downloader](https://github.com/marcpinet/batch-downloader-nyaa.si/)
+* **Nyaa Tools** - [TUI](https://github.com/irevenko/koneko) / [CLI](https://github.com/natanbc/nyaasi) / [Telegram Bot](https://github.com/ejnshtein/nyaasi-bot), [2](https://t.me/meow_in_japanese_bot) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy) / [Torrent Fetch](https://github.com/manintel/nyaabag), [2](https://github.com/Vivek-Kolhe/Nyaa-API)/ [Downloader](https://github.com/marcpinet/batch-downloader-nyaa.si/)
 * **[Anidex](https://anidex.info/)** - *Sub / Dub*
 * **[Hi10Anime](https://hi10anime.com/)** - *Sub*
 * **[SubsPlease](https://subsplease.org/)** - *Sub*
@@ -1028,7 +1029,7 @@
 * **[Video Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - *General Video Tools*
 * **[Media Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_servers)** - *Servers to Host / Play Media* 
 * **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass - *Use Streaming Sites in Ad Free Player w/ subs, Speed Control & More*
-* **[WhereYouWatch,](https://whereyouwatch.com/latest-reports/)** [Squawkr](https://www.squawkr.io/), [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates), [Torrent Alert](https://play.google.com/store/apps/details?id=com.torrentalert.app&hl=en&gl=US) or [/r/movieleaks](https://reddit.com/r/movieleaks) - *Movie Leak Notifications*
+* **[WhereYouWatch,](https://whereyouwatch.com/latest-reports/)** [Squawkr](https://forum.squawkr.io/) / [Discord](https://discord.gg/s4beM4K), [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates), [Torrent Alert](https://play.google.com/store/apps/details?id=com.torrentalert.app&hl=en&gl=US) or [/r/movieleaks](https://reddit.com/r/movieleaks) - *Movie Leak Notifications*
 * **[Video Quality & Types of Releases](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)** - *Video Quality / Release Type Guide / [Image Guide](https://i.imgur.com/kEOrKJT.png)*
 * **[Release Group Tier List](https://docs.google.com/spreadsheets/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/)**, [2](https://github.com/Cloudbox/Community/wiki/Quality-Release-Groups) - *Movie / TV Release Group Index*
 * **[/r/animepiracy Wiki](https://wiki.piracy.moe/)** - *Anime Piracy Guides / Tutorials*
