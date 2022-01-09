@@ -16,7 +16,7 @@
 * **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/), [4](https://mega.nz/file/E5MwmT5Z#YP-vMSTcm8voKjb72_nHsLYH1AGmliWsbUGXVJhNHDE) - *Design Tool Resource Indexes*   
 * **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - *Glitch Images*
 * [rexpaint](https://www.gridsagegames.com/rexpaint/) - *ASCII Art Editor*
-* [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Canva](http://canva.com/), [Stencil](https://getstencil.com/), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/) or [Glitterly](https://glitterly.app/) - *Graphic Design Tools*
+* [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Canva](http://canva.com/), [Stencil](https://getstencil.com/), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/), [ArtBoard](https://artboard.studio/) or [Glitterly](https://glitterly.app/) - *Graphic Design Tools*
 * [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/), [designspiration](https://www.designspiration.net/) or [inspirationde](https://www.inspirationde.com/) - *Graphic Design Inspirations*
 * [IRA Design](https://iradesign.io/) - *Illustration Creator*
 * [Scribus](http://www.scribus.net/) - *Page Layout & Typesetting Program*
@@ -33,12 +33,13 @@
 * [FreePSDvn](https://freepsdvn.com/) - *Photoshop Presets, Mockups, Templates & more*
 * [Craft](https://www.invisionapp.com/craft) - *Photoshop / Sketch Plugins*
 * [Preset.id](https://preset.id/) or [FreePreset](https://freepreset.net/) - *Adobe Lightroom Presets*
-* [GradientArt](https://gra.dient.art/) - *Gradient Editor*
+* [GradientArt](https://gra.dient.art/) or [TailBlend](https://tailblend.vercel.app/) - *Gradient Editor*
 * [CanonOutsideOfAuto](http://www.canonoutsideofauto.ca/play/) - *Interactive Exposure Test* 
 * [distort-grid](https://github.com/snorpey/distort-grid) - *Grid Based Image Distortion*
 * [PaintingLight](https://lllyasviel.github.io/PaintingLight/) - *Digital Lighting Effect Generator*
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - *Turn Simple Art into Photo Realistic Landscapes [Web](http://nvidia-research-mingyuliu.com/gaugan/)*
 * [DeepArt](https://deepart.io/), [AI Gahaku](https://ai-art.tokyo/en/), [Dreamscope](https://dreamscopeapp.com/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own) or [Deep Dream Generator](https://deepdreamgenerator.com/) - *Turn Photos into Artwork* 
+* [Tinter](https://tinter.uxie.io/) - *Image Hue Editor*
 * [DuoTones](https://duotones.co/) - *Dual Tone Effect Generator*
 * [ImageGoNord](https://ign.schrodinger-hat.it/) - *Convert Images to NordTheme Palette / [Dracula](https://github.com/bigpick/ImageGoNord-dracula) / [Gruvbox](https://github.com/Schrodinger-Hat/ImageGoNord-gruvbox) / [GitHub](https://github.com/Schrodinger-Hat/ImageGoNord)*
 * [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) or [Cartoonize](https://cartoonize-lkqov62dia-de.a.run.app/cartoonize) - *Turn Photos into Cartoons*
@@ -73,9 +74,9 @@
 * [Seopix](https://www.seopix.io/) - *Resize & Compress Images*
 * [Simple Image Resizer](http://www.simpleimageresizer.com/), [Online Image Resizer](https://online-image-resizer.com/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - *Resize Images*
 * [Resize App Icon](https://resizeappicon.com/) - *Resize Square Images* 
-* [SSizes](https://ssizes.com/) - *Resize Images for Different Sites*
-* [RIOT](https://riot-optimizer.com/) - *Image Optimization Tool*
-* [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [CompressHere](https://compresshere.com/), [ImageDiamond](https://www.imagediamond.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/) or [Batch Compress](https://batchcompress.com/en) - *Image Compressor* 
+* [SSizes](https://ssizes.com/) or [PixelHunter](https://pixelhunter.io/) - *Resize Images for Different Sites*
+* [RIOT](https://riot-optimizer.com/) or [ImageFoo](https://imagefoo.com/) - *Image Optimization Tool*
+* [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [CompressHere](https://compresshere.com/), [ImageDiamond](https://www.imagediamond.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/) or [Batch Compress](https://batchcompress.com/en) - *Image Compressor* 
 * [TinyPNG](https://tinypng.com/) or [PNGQuant](https://pngquant.org/) - *PNG Compressor* 
 * [JPEG.rocks](https://jpeg.rocks/) - *JPEG Re-Encoder* 
 
@@ -114,6 +115,7 @@
 * [ASCII Paint](http://ascii.alienmelon.com/) - *ASCII Art Creator*
 * [dream](https://app.wombo.art/) - *Dream Art Generator*
 * [Uji](https://doersino.github.io/uji/) - *Minimalist Art Generator*
+* [Chaos Machine](https://chaosmach.com/) - *Random Graphic Generator*
 * [TierMaker](https://tiermaker.com/) - *Tier List Image Creator*
 * [Hugin](http://hugin.sourceforge.net/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - *Panorama Image Generator* 
 * [Side It](https://sideit.app/) - *Side by Side Image Generator*
@@ -326,7 +328,7 @@
 * [PiGallery2](https://bpatrik.github.io/pigallery2/) - *Self-Hosted Image Gallery*
 * [FEMBOY](https://github.com/k1rak1ra/FEMBOY) - *Anime Image Manager*
 * [Pinry](https://docs.getpinry.com/ ) - *Image Tiling Board*
-* [Lychee](https://lycheeorg.github.io/) - *Self-Hosted Image Host* 
+* [Lychee](https://lycheeorg.github.io/) or [Chevereto](https://chevereto.com/) - *Self-Hosted Image Host* 
 * [Pixiv](https://www.pixiv.net/en/) - *User Made Image Host / [Downloader](https://github.com/nonPointer/PixivDownloader), [2](https://chrome.google.com/webstore/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnj?hl=en), [3](https://github.com/Nandaka/PixivUtil2)*
 * [Pixelfed](https://pixelfed.org/) - *Open Source Instagram Alternative*
 * [Librephotos](https://github.com/LibrePhotos/librephotos), [Photoprism](https://github.com/photoprism/photoprism), [Photoview](https://github.com/photoview/photoview) or [Ownphotos](https://github.com/hooram/ownphotos/) - *Self-Hosted Google Photo Manager* 
@@ -345,6 +347,7 @@
 * [LightShot](https://app.prntscr.com/en/index.html)
 * [Nimbus Capture](https://nimbusweb.me/screenshot.php) 
 * [Screenshot Guru](https://screenshot.guru/), [CleanShot](https://cleanshot.vercel.app/) or [Site-Shot](https://www.site-shot.com/) - *Online Screenshot Tool* 
+* [OnlineScreenshot](https://onlinescreenshot.com/) - *Site Screenshot Tool*
 * [puush](https://puush.me/) - *Easily Share Screenshots*
 * [Screenstab](http://screenstab.com/) - *Create Graphics from Screenshots*
 * [Limus](https://limus.netlify.app/) - *Change Screenshot Angles*
