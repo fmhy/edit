@@ -35,6 +35,7 @@
 * [Tribler](https://www.tribler.org/) - *Tor-inspired Client / [Screenshot](https://i.imgur.com/IzmanCf.png) / [Github](https://github.com/Tribler/tribler)*
 * [aria2](https://aria2.github.io/) - *Terminal Torrent Client / [Screenshot](https://i.imgur.com/KV0pSjt.png) / [Github](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis)*
 * [mtorrent](https://github.com/nektro/mtorrent) - *Terminal Torrent Client* 
+* [RakaPublicLeech](https://t.me/RakaPublicLeech) - *Torrent to Telegram Bot*
 * [libtorrent](https://www.libtorrent.org/) - *C++ BitTorrent Client*
 * [TrayTorrent](https://traytorrent.ru/) - *Torrent Tray Client*
 * [exatorrent](https://github.com/varbhat/exatorrent) - *Self-Hosted Client*
@@ -50,7 +51,7 @@
 
 ## ▷ WebTorrent Clients
 
-* **[Seedr](https://www.seedr.cc/)**
+* **[Seedr](https://www.seedr.cc/)** - *[Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI)*
 * **[webtor](https://webtor.io/)**
 * [WebOasis Client](https://weboas.is/torrent/) 
 * [Instant.io](https://instant.io/)
@@ -162,6 +163,7 @@
 * [Torrentzeta](https://www.torrentzeta.com/) 
 * [Toorgle](http://www.toorgle.com/) 
 * [Veoble](http://veoble.com/torrent/) 
+* [TorrentSearchRobot](https://t.me/TorrentSearchRoBot) - *Telegram Torrent Search*
 * [Torrents.csv](https://torrents-csv.ml/#/) - *Torrent CSV Search*
 * [BTDigg](https://btdig.com/index.htm) - *Torrent DHT Search Engine / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/)*
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - *Magnet Web App Search*
