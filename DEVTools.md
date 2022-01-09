@@ -279,6 +279,7 @@
 * [Pattern Monster](https://pattern.monster/) - *SVG Pattern Generator*
 * [Broider](https://maxbittker.github.io/broider/) - *Create Border Designs*
 * [ShapeDivider](https://www.shapedivider.app/) or [blobbb ](https://www.blobbb.fun/)- *Make SVG Shape Divider*
+* [MinimalAvatars](https://minimalavatars.com/) - *Minimal Site Avatars*
 * [GalleryProject](http://galleryproject.org/) - *Manage / Host Photos on Website* 
 * [PublishThisEmail](https://www.publishthis.email/) - *Email Based Website Builder*
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - *Mobile Friendly Page Test* 
@@ -335,6 +336,7 @@
 * [PWABuilder](https://www.pwabuilder.com/) - *Turn Site into Progressive Web App*
 * [LightHouse](https://github.com/GoogleChrome/lighthouse) - *Web App Performance Test*
 * [Form To Chatbot](http://formtochatbot.com/) - *Convert Google Form to Chatbot*
+* [Herosaver](https://github.com/amerrigan/HeroSaver-v2) - *Save Site Configuration and STLs*
 * [Termible](https://termible.io/) - *Docker Powered Site Terminals*
 * [Stackbit](https://www.stackbit.com/) - *JamStack Tools* 
 * [the New Dynamic](https://www.tnd.dev/) - *JamStack Directory*
@@ -429,6 +431,7 @@
 * [RPG Playground](https://rpgplayground.com/) - *Simple RPG Creator*
 * [Game-Editor](http://game-editor.com/Main_Page) or [BuildBox](http://buildbox.com/) - *Game Creator*
 * [HaxeFlixel](https://haxeflixel.com/), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - *2D Game Engine*
+* [Unreal Engine](https://www.unrealengine.com/) - *3D Creation Tool*
 * [Designer Toolkit](https://ldtk.io/) - *2D Level Editor Level*
 * [stencyl](https://www.stencyl.com/) - *Codeless Game Engine*
 * [Kaboomjs](https://kaboomjs.com/) - *Quickly Make Games with Javascript*
@@ -609,6 +612,7 @@
 * [CarlosAG](https://www.carlosag.net/) - *Coding Tools*
 * [Telosys](http://www.telosys.org/) - *Code Generator*
 * [OneLang IDE](https://ide.onelang.io/) - *Convert Code to Multiple Languages*
+* [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - *Source Code Converters*
 * [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - *Emacs Packages*
 * [WebDen](https://webden.dev/) - *Code Playground*
 * [I run code](https://github.com/engineer-man/piston-bot) - *Evaluate Code Snippets via Discord*
