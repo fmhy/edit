@@ -340,11 +340,12 @@
 * [chucrute com quiabo](https://rabanetecomquiabo.blogspot.com/) - *Classical / MP3*
 * [MeetingInMusic](https://meetinginmusic.blogspot.com/) - *Classical / MP3*
 * [HQ Hip Hop](http://94hiphop.com/) - *Hip Hop / MP3 / FLAC*
+* [RnBXclusive](https://rnbxclusive1.org/) - *Hip-Hop / MP3 / FLAC*
 * [Rapload](https://rapload.org/) - *Hip Hop / MP3*
 * [HipHopa](https://hiphopa.net/) - *Hip Hop / MP3*
 * [MikuDB](http://mikudb.moe/) - *Vocaloid / MP3*
-* [Squid-Board](https://www.squid-board.ru/), [Все Саундтреки](http://xn--80adhccsnv2afbpk.xn--p1ai/), [DS Soundtrack](https://dsoundtrack.com/), [Download-Soundtracks](http://download-soundtracks.com/), [Audio-Track](https://www.audio-track.com/en), [3ost](https://3ost.ru/), [tanikal](https://www.tanikal.com/) or [SittingOnClouds](https://www.sittingonclouds.net/) - *Soundtracks* 
-* [Sitting On Clouds](https://www.sittingonclouds.com/) - *Game / Animation Soundtracks* 
+* [Squid-Board](https://www.squid-board.ru/) / [2](https://www.squid-board.org/), [Все Саундтреки](http://xn--80adhccsnv2afbpk.xn--p1ai/), [DS Soundtrack](https://dsoundtrack.com/), [Download-Soundtracks](http://download-soundtracks.com/), [Audio-Track](https://www.audio-track.com/en), [3ost](https://3ost.ru/) or [tanikal](https://www.tanikal.com/) - *Soundtracks* 
+* [SittingOnClouds](https://www.sittingonclouds.net/) / [Discord](https://discord.com/invite/x23SFbE) - *Anime / Game Soundtracks*
 * [AniPlaylist](https://aniplaylist.com/), [OSAnime](https://osanime.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - *Anime Soundtracks* 
 * [OtakuOst](https://otakuost.net/) - *Anime Soundtracks & Japanese Music* 
 * [Doujin Cafe](https://discord.com/invite/doujincafe) - *Doujin Music*
