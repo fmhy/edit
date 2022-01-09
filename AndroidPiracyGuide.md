@@ -39,6 +39,7 @@
 * [Exodify](https://github.com/FacettsOpen/exodify) - *Display Tracker Count on Apps in Play Store*
 * [SelfPrivacy](https://selfprivacy.org/) - *Self-Hosted Privacy Based Services*
 * [Aegis](https://getaegis.app/), [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) or [andOTP](https://github.com/andOTP/andOTP) - *Two-Factor Authentication* 
+* [FaceAct Notes](https://play.google.com/store/apps/details?id=com.brainekt.faceactnotes) - *Face Recognition App*
 * [Divestos](https://divestos.org/) or [CalyXOS](https://calyxos.org/) - *Privacy Based OS*
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - *App Isolation* 
 * [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - *Encrypted File Explorer*
@@ -163,7 +164,7 @@
 * [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app) - *Libgen Mobile App* 
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) or [AndrOpen](https://www.andropenoffice.com/) - *Office Suite* 
 * [xShare](https://github.com/tsudoko/xshare) - *Screenshot Tool*
-* [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/) - *Audio Recorder*
+* [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - *Audio Recorder*
 * [openboard](https://github.com/dslul/openboard) - *FOSS Keyboard App*
 * [Grammarly](https://forum.mobilism.org/search.php?keywords=grammarly&sr=topics&sf=titleonly) - *Grammarly Keyboard Premium* 
 * [Fing](https://www.fing.com/products/fing-app) - *Network Toolkit* 
@@ -221,6 +222,7 @@
 * [Upscaler](https://play.google.com/store/apps/details?id=com.ethanzone.upscaler&hl=en_US&gl=QA) - *Image Upscaler*
 * [LosesslessJpgCrop](https://github.com/k3b/LosslessJpgCrop) - *Lossless Image Cropper*
 * [Image Searcher](https://play.google.com/store/apps/details?id=sansunsen3.imagesearcher) - *Image Search App*
+* [QuiverVision](https://quivervision.com/) - *Augmented Reality Coloring*
 * [background video recorder](https://play.google.com/store/apps/details?id=com.camera.secretvideorecorder) - *Record Videos in Background*
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
 * [Walkie-Talkie](https://walkie-talkie.io/) - *Walkie-Talkie App*
