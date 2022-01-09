@@ -294,6 +294,7 @@
 
 # Tools
 
+* **[FapNationBot](https://discord.gg/MxyvAV22cE)** - *Premium Porn Download Bot*
 * **[Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button)** - *Quickly Close All Tabs*
 * [Internet Adult Film Database](https://www.iafd.com/) - *Adult Film Database / Reviews*
 * [Porn-Vault](https://github.com/porn-vault/porn-vault), [Fapflix2.0](https://github.com/EinAeffchen/Fapflix2.0) or [Stash](https://github.com/stashapp/stash) - *Porn File Manager*
@@ -301,7 +302,6 @@
 * [Javinizer](https://github.com/jvlflame/Javinizer) - *JAV File Organizer*
 * [NSFWDownloader](https://github.com/h110m/NSFWDownloader) - *Porn Downloader*
 * [Pornhub DL Script](https://redd.it/ks5sba), [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) or [Savido Pornhub](https://www.savido.net/sites/pornhub) - *Pornhub Downloader*
-* [FapNationBot](https://discord.gg/MxyvAV22cE) - *Premium Porn Downloader Bot*
 * [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - *FC2 Image Scraper*
 * [pandaforever](https://gitlab.com/squishydreams/pandaforever), [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) or [Panda Chaika](https://panda.chaika.moe/) [nhentai](https://github.com/RicterZ/nhentai) - *Hentai Downloader*
 * [/cumg/](https://rentry.co/coom) - *Hentai Tools*
