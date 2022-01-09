@@ -314,6 +314,7 @@
 * [XLD](https://sourceforge.net/projects/xld/) - *Lossless Audio Transcoder*
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - *Image Editor* 
 * [ImageOptim](https://imageoptim.com/mac) - *Image Optimization*
+* [AnimeBox](https://www.animebox.es/) - *Booru Client*
 * [Vim](https://github.com/macvim-dev/macvim) - *Code Editor*
 * [Magit!](https://magit.vc/) - *Git Text-Based UI*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
