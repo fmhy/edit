@@ -939,7 +939,8 @@ French / General Torrent Tracker
 * [baixarmusicabr](https://www.baixarmusicabr.com/) - *MP3*
 * [SuaMusica](https://www.suamusica.com.br/) - *MP3*
 * [CursoTorrent](https://www.cursostorrent.com/) - *Courses*
-* [timaterial ](https://timaterial.blogspot.com/) - *Courses*
+* [Download Cursos](https://downloadcursos.top/) - *Courses*
+* [timaterial](https://timaterial.blogspot.com/) - *Courses*
 * [baixandocursos](https://www.baixandocursos.com/) - *Courses*
 
 ## ▷ Streaming
