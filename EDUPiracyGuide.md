@@ -123,7 +123,7 @@
 * [downloadly](https://downloadly.ir/) - *Courses*
 * [Coursed](https://coursed.co/) - *Courses*
 * [11k+ Courses SpreadSheet](https://docs.google.com/spreadsheets/d/1vazMlMWnI7NxVZcfgpABzCFFEClMjZYUgDk40pdPpTQ/) - *Courses*
-* [Course Megadrives](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA), [2](https://mega.nz/folder/pAl0wRKK#FIZzbYjkT_09qRT5BS2GXQ), [3](https://mega.nz/folder/4t4hhCTa#zIiMZBRVAibATtHxwQ2b_w), [4](https://mega.nz/folder/F9RSWBaK#Nq6DUyPTk10EdjLQ5CWFcQ), [5](https://mega.nz/folder/shpz0ACQ#tdyaQi9HcVM-oKH9NxVewA), [6]https://mega.nz/folder/Y11ghIRC#LPwRFJESUsZ29ioIYex4hw), [7](https://mega.nz/folder/yawWzAKD#tPy0NFBa38xoNZMhXrXn0g) - *Courses*
+* [Course Megadrives](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA), [2](https://mega.nz/folder/pAl0wRKK#FIZzbYjkT_09qRT5BS2GXQ), [3](https://mega.nz/folder/4t4hhCTa#zIiMZBRVAibATtHxwQ2b_w), [4](https://mega.nz/folder/F9RSWBaK#Nq6DUyPTk10EdjLQ5CWFcQ), [5](https://mega.nz/folder/shpz0ACQ#tdyaQi9HcVM-oKH9NxVewA), [6]https://mega.nz/folder/Y11ghIRC#LPwRFJESUsZ29ioIYex4hw), [7](https://mega.nz/folder/yawWzAKD#tPy0NFBa38xoNZMhXrXn0g), [8](https://mega.nz/folder/5F9WzJ7a#9UdqphaNXS13TTJAgdN15w), [9](https://mega.nz/folder/iIsEkb4B#4tdNHUYTKTJDeIxI2FZE3A), [10](https://mega.nz/folder/Ab4HnABZ#gLR_-deauS6XBfWyouVf-Q), [11](https://mega.nz/folder/B9B1iIZL#1GYxeVaTj3prxSR8kDyRyQ), [12](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA/folder/cupEDYzQ) - *Courses*
 * [OnlineCourseBay](https://onlinecoursebay.com/) - *Courses* 
 * [CoursesDaddy](http://coursesdaddy.com/) - *Courses* 
 * [Course Drive](https://coursedrive.org/) - *Courses* 
@@ -133,7 +133,6 @@
 * [online-courses](https://online-courses.club/) - *Courses*
 * [Course Upload](https://courseupload.com/) - *Courses* 
 * [Christmas Share](https://mega.nz/folder/mqxiBRTJ#0bnSa35nknxUqOCr-xdGYg) - *Courses*
-* [Mega Collection](https://mega.nz/folder/5F9WzJ7a#9UdqphaNXS13TTJAgdN15w), [2](https://mega.nz/folder/iIsEkb4B#4tdNHUYTKTJDeIxI2FZE3A), [3](https://mega.nz/folder/Ab4HnABZ#gLR_-deauS6XBfWyouVf-Q), [4](https://mega.nz/folder/B9B1iIZL#1GYxeVaTj3prxSR8kDyRyQ) - *Courses*
 * [Coursesghar](https://coursesghar.com/) - *Courses* 
 * [CourseUpload](https://courseupload.net/) - *Courses*
 * [FreeEducationWeb](https://freeeducationweb.com/) - *Courses* 
@@ -661,6 +660,7 @@
 * [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio) or [WikiArt](https://www.wikiart.org/) - *Digital Art Collection*
 * [Arachne](https://arachne.dainst.org/) - *Ancient Sculpture Image Archive*
 * [The First World War](https://www.firstworldwar.amdigital.co.uk/) - *WW1 Study Material*
+* [Earth 2050](https://2050.earth/) - *Future Predictions*
 * [AnimaGraffs](https://animagraffs.com/) - *Animated Infographs*
 * [How a Car Works](https://www.howacarworks.com/) - *Car Mechanics / Automotive Engineering Guides* 
 * [Economics of The Office](http://economicsoftheoffice.com/) - *Learn Economics via The Office*
