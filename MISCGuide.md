@@ -59,8 +59,9 @@
 * [Illegal Services](https://git.teknik.io/Illegal-Services/Illegal_Services) - *Site / Tool Index App / [Discord](https://discord.gg/577AWghYtx)*
 * [Product Hunt](https://www.producthunt.com/) - *Site / Tool Index*
 * [Useful Interweb](https://usefulinterweb.com/) or [Daily Useful Links](https://t.me/DailyUsefulLINKS) - *Daily Websites*
-* [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - *Chinese Site / Tool Index*
 * [Mostly Free](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - *Site / Tool Index*
+* [List of Websites to Know Anything about Everything!](https://babiato.co/threads/great-list-of-websites-to-know-anything-about-everything.69611/) - *Site / Tool Index*
+* [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - *Chinese Site / Tool Index*
 * [iBiblio](https://www.ibiblio.org/) - *Site / Tool Index* 
 * [Acme](http://www.acme.com/) - *Site / Tool Index* 
 * [num's link list](https://web.archive.org/web/20210102182957/https://soda.privatevoid.net/num/lists/web/) - *Site Index*
@@ -180,7 +181,7 @@
 * [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - *Paid apps*
 * [AppsFree](https://play.google.com/store/apps/details?id=com.appsfree.android) - *Paid apps*
 * [InstlApp](https://apps.apple.com/us/app/instlapp/id1502777382) - *Free App Giveaways*
-* [OneHack Freebie Thread](https://onehack.us/c/free-give-away/6) or [FreemiumBox](https://t.me/freemiumbox) - *Giveaways and Freebies*
+* [OneHack Freebie Thread](https://onehack.us/c/free-give-away/6), [spamverse](https://t.me/spamverse) or [FreemiumBox](https://t.me/freemiumbox) - *Giveaways and Freebies*
 * [AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) - *Products / Services*
 * [AppSumo Freebies](https://appsumo.com/tools/freebies/) - *Apps*
 * [FreeCycle](https://www.freecycle.org/) - *People giving away free stuff*
@@ -188,6 +189,7 @@
 * [Dolly Parton’s Imagination Library](https://imaginationlibrary.com/) - *Book Gifting Program (For Children)*
 * [FreeSteamOffers_Bot](https://t.me/FreeSteamOffers_Bot/) - *Telegram*
 * [/r/eFreebies](https://reddit.com/r/eFreebies) 
+* [/r/TheFreebieGuys](https://www.reddit.com/r/TheFreebieGuys/)
 * [/r/FreeGameFindings](https://reddit.com/r/FreeGameFindings) 
 * [/r/udemyfreebies](https://reddit.com/r/udemyfreebies) 
 * [/r/FREECoursesEveryday](https://reddit.com/r/FREECoursesEveryday) 
@@ -221,7 +223,7 @@
 * **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - *Realistic-Looking Fake Versions of Things* 
 * [KongouCheats](https://kongoucheats.com/) or [Wimp.com](https://www.wimp.com/) - *Watch Random Memes / Videos* 
 * [Funnyjunk](https://funnyjunk.com//), [Thread-Puller](https://thread-puller.party/), [iFunny](https://ifunny.co/) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Videos, Memes & GIFs / Some NSFW*
-* [wtf.rentry](https://wtf.rentry.co/) - *Random Music GIFs*
+* [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - *Random Music GIFs / Some NSFW*
 * [SfwChan](http://boards.swfchan.net/) - *SFW Archive*
 * [The NFT Bay](https://thenftbay.org/) - *NFT Collection*
 * [SakugaBooru](https://www.sakugabooru.com/) - *Image Booru*
@@ -260,6 +262,7 @@
 * [WriteAPrisoner](https://writeaprisoner.com/) - *Pen Pals for Inmates*
 * [PenPal World](https://www.penpalworld.com/) or [GlobalPenFriends](https://www.globalpenfriends.com/) - *Pen Pal Community*
 * [PostSecret](https://postsecret.com/) - *Share Secrets via Postcard*
+* [MessageToTheFuture](https://messagetothefutu.re/) - *Write a Message to Future You*
 * [This Is Sand](https://thisissand.com/) - *Make Sand Art* 
 * [Orb.Farm](https://orb.farm/) - *Virtual Aquatic Ecosystem* 
 * [MarbleRun](https://www.marblerun.at/) - *Create Marble Courses*
@@ -292,6 +295,7 @@
 * [paint.wtf](https://paint.wtf/) - *Have an AI Judge your Art* 
 * [ArtVote](https://artvote.net/) - *Judge Art*
 * [MakePrintPlay](https://makeprintplay.com/) - *Crossword Puzzle Creator*
+* [MakeAWordSearch](http://www.makeawordsearch.net/) - *Word Search Creator*
 * [JamisBuck](https://www.jamisbuck.org/mazes/) - *Maze Algorithms*
 * [Windows XP Error Worm](https://ybenbihi.github.io/windows-error-worm/) - *Click & Drag Windows Errors* 
 * [Our World of Text](https://ourworldoftext.com/) or [Your World of Text](https://www.yourworldoftext.com/) - *Infinite grid of text editable by anyone*
