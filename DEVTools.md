@@ -13,7 +13,7 @@
 
 * **[The Odin Project](https://www.theodinproject.com/)** - *Web Dev Tutorials / Courses*
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Courses / Infinite trial by clearing cookies & making new account*
-* **[freeCodeCamp](https://www.freecodecamp.org/)** - *Programming / Courses / Interactive*
+* **[freeCodeCamp](https://www.freecodecamp.org/)** - *Programming / Courses / Interactive [Archive](https://drive.google.com/drive/folders/1M_GDMaRwFDB_UG0y-WQdNqTxLxchlzgl?usp=sharing)*
 * **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - *Read / Download Programming Books* 
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - *Git Learning Game*
 * [Developer.Mozilla](https://developer.mozilla.org/) - *Developer Resources* 
@@ -137,7 +137,7 @@
 * [ReverseEagle](https://forge.tedomum.net/groups/ReverseEagle/-/archived), [2](https://web.archive.org/web/20210116205638/https://developers.reverseeagle.org/) - *Privacy Focused Developer Software*
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - *Open Source Development Software*
 * [Student Developer Pack](https://education.github.com/pack) - *Free Developer Tools for Students* 
-* [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [Graphic Design Elements](https://onehack.us/t/get-20-000-graphic-design-elements/155320), [ImCreator](http://www.imcreator.com/free), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [NoDesign](https://nodesign.dev/), [SketchRepo](https://sketchrepo.com/) or [Freebiesbug](http://freebiesbug.com/)  - *Design Resources*
+* [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [Graphic Design Elements](https://onehack.us/t/get-20-000-graphic-design-elements/155320), [ImCreator](http://www.imcreator.com/free), [DesignBundles](https://designbundles.net/free-design-resources), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [NoDesign](https://nodesign.dev/), [SketchRepo](https://sketchrepo.com/) or [Freebiesbug](http://freebiesbug.com/)  - *Design Resources*
 * [Libera Chat](https://libera.chat/) - *IRC Network for Project Collaboration*
 * [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/)  - *Developer Forum* 
 * [The Devs Network](https://thedevs.network/) - *Developer Chat*
@@ -207,7 +207,6 @@
 * [OpenML](https://www.openml.org/) - *Machine Learning Data*
 * [Kobra](https://kobra.dev/) - *Visual Programming Language for Machine Learning*
 * [Cyberbotics](https://cyberbotics.com/) - *Robot Simulator*
-* [TheDev](https://thedev.id/) or [Dev.page](https://dev.page/) - *Free Developer Homepages*
 
 ***
 
@@ -239,16 +238,19 @@
 * [Spiderfoot](https://www.spiderfoot.net/) - *Automate OSINT*
 * [Site Analytics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_analytics) - *Traffic Stats & Info*
 * [HITS](https://hits.seeyoufarm.com/) - *Website Traffic Badges*
+* [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) - *Meta Tag Generator*
 * [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/), [IPV4Info](http://ipv4info.com/),  [Network Tools](https://network-tools.com/) or [WebsiteScoop](https://websitescoop.com/) - *Domain Info / IP Tools*
 * [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Username Availability Check*
 * [Pyfunceble](https://pyfunceble.github.io/#/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/) or [Domainr](https://domainr.com/) - *Domain Availability Check* 
 * [WorthBuck](https://worthbuck.com/) - *Domain Price Estimations*
+* [NetLib.re](http://netlib.re/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - *Free Subdomains* 
+* [TheDev](https://thedev.id/) or [Dev.page](https://dev.page/) - *Free Developer Subdomains*
 * [StatPing](https://github.com/statping/statping) - *Site Uptime Monitor*
 * [UseMe](https://useme.org/) - *Ping Website*
 * [Measure](https://web.dev/measure/) - *Site Functionality Testing*
 * [Testmail](https://testmail.app/) - *Site Signup Test*
 * [Responsivize](https://virejdasani.github.io/Responsivize/) - *Website Responsiveness Test*
-* [PageSpeed](https://developers.google.com/speed/pagespeed/insights/) - *Test Webpage Speed*
+* [PageSpeed](https://developers.google.com/speed/pagespeed/insights/) or [Websu](https://websu.io/) - *Test Webpage Speed*
 * [Shisho](https://shisho.dev/) - *Infrastructure Code Security Patcher*
 * [Security Onion Solutions](https://securityonionsolutions.com/) - *Site Security Monitor*
 * [Teler](https://github.com/kitabisa/teler) - *HTTP Intrusion Detection*
@@ -264,7 +266,7 @@
 * [Bootstrap](https://getbootstrap.com/) - *Mobile Site Creator / [Icons](https://github.com/twbs/icons) / [Snippets](https://bootsnipp.com/)*
 * [Brython](https://brython.info/) - *Python 3 Web Scripting Language*
 * [Sketch2Code](https://sketch2code.azurewebsites.net/) - *Convert Hand-Drawn Designs into HTML*
-* [Straw.Page](https://straw.page/), [itty.bitty](https://itty.bitty.site/), [Temper](https://temper.one/) or [Neocities](https://neocities.org/) - *Simple Site Creator*
+* [Straw.Page](https://straw.page/), [Own Free Website](https://www.own-free-website.com), [itty.bitty](https://itty.bitty.site/), [txti](http://txti.es/), [Sitey](https://www.sitey.com/), [mmm](https://build.mmm.page/), [cargo](https://cargo.site/), [Talium](https://talium.co/), [Sitey](https://www.sitey.com/), [Jigsy](https://jigsy.com/), [Temper](https://temper.one/) or [Neocities](https://neocities.org/) - *Simple Site Creator*
 * [LocalXpose](https://localxpose.io/) - *Reverse Proxy*
 * [BuiltWith](https://builtwith.com/) - *Find Out What Sites are Built With*
 * [Elements Envato](https://qltien.com/elements/getcode/babiato.html) or [PsdRepo](https://psdrepo.com/) - *Templates, Mockups, Logos, Video*
@@ -285,6 +287,7 @@
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - *Mobile Friendly Page Test* 
 * [hlsflow](https://github.com/hlsflow/hlsflow) - *Host Video in HLS Stream*
 * [StreamYard](https://streamyard.com/) - *Live Stream Creator*
+* [Visiwig](https://www.visiwig.com/) - *Copy / Paste Site Graphics*
 * [WebDesigner](https://webdesigner.withgoogle.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/AriaMinaei/theatre) or [Animate.css](https://animate.style/) - *Create Interactive Motion Graphics*
 * [Vidlery](http://vidlery.com/) - *Animated Webpage Background*
 * [Box-Shadow](https://box-shadow.art/) - *Box Shadow Generator*
@@ -292,6 +295,7 @@
 * [MapBox](https://www.mapbox.com/) - *Live Maps, Location Search & More*
 * [Maps-Core](https://openmobilemaps.io/) - *Mobile Map SDK*
 * [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [99Inbound](https://www.99inbound.com/), [Form.taxi](https://form.taxi/) or [Formsend](https://formsend.org/) - *Form Creator*
+* [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/) - *Helps Generate Privacy Policies* 
 * [Medusa](https://github.com/medusajs/medusa) - *Digital Commerce Development Tool*
 * [Plaid](https://plaid.com/) - *Financial Account API / [GitHub](https://github.com/plaid)*
 * [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)- *Penetration Testing Resources*
@@ -311,6 +315,7 @@
 * [HeidiSQL](https://www.heidisql.com/) - *SQL Manager*
 * [CodeMyUI](https://codemyui.com/) - *User Interface Code Snippets*
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - *Captcha Systems*
+* [Democaptcha](http://democaptcha.com/demo-form-eng/hcaptcha.html) or [ReCAPTCHA Demo](https://www.google.com/recaptcha/api2/demo) / [GitHub](https://patrickhlauke.github.io/recaptcha/) - *Captcha Demo's*
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - *Search & Analytics Engine*
 * [Algolia](https://www.algolia.com/), [TypeSense](https://typesense.org/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/) or [FusionBot](https://www.fusionbot.com/) - *Search API*
 * [GetButton](https://getbutton.io/) - *Get free 'Message Us' Button for your Site*
