@@ -115,6 +115,8 @@
 * [ASCII Paint](http://ascii.alienmelon.com/) - *ASCII Art Creator*
 * [dream](https://app.wombo.art/) - *Dream Art Generator*
 * [Uji](https://doersino.github.io/uji/) - *Minimalist Art Generator*
+* [Tabbied](https://tabbied.com/) - *Art Pattern Generator*
+* [Random Art](http://www.random-art.org/) - *Random Art Generator*
 * [Chaos Machine](https://chaosmach.com/) - *Random Graphic Generator*
 * [TierMaker](https://tiermaker.com/) - *Tier List Image Creator*
 * [Hugin](http://hugin.sourceforge.net/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - *Panorama Image Generator* 
@@ -313,6 +315,7 @@
 * [Handwriting-OCR](https://github.com/Breta01/handwriting-ocr) - *Handwriting Image to Text*
 * [Image-to-Image](https://affinelayer.com/pixsrv/) - *Interactive Image Translation*
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - *Find Font from Image*
+* [Watermarkly](https://watermarkly.com/) - *Image Watermarking*
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - *Scan & Digitize Documents / iOS*
 * [DeepSort](https://github.com/CorentinB/DeepSort/) - *Image Tagger* 
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) or [PhotoPrism](https://photoprism.app/) - *Automatically Organize & Tag Photos*
