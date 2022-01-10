@@ -464,6 +464,7 @@
 * [Medical Drive](https://drive.google.com/drive/folders/0B02ZCBdtmhfyMjRPV0VIM2dFdUk?resourcekey=0-DJLkLrMe693_5C-Vv-jFPA) - *Medical*
 * [Medical_Book_Bot](https://t.me/Medical_Book_Bot) - *Medical / Telegram*
 * [medrxiv](https://www.medrxiv.org/) - *Medicine Preprints*
+* [AllTradersLibrary](https://t.me/alltradersLibrary) - *Market Trading Books*
 * [Brill](https://brill.com/) - *International Law Books*
 * [Lee B. Drive](https://drive.google.com/drive/u/0/mobile/folders/183tf8PmQbwgVC7HrxOZ5WQPulVd-Uomi) - *Books / Black History / Educational*
 * [RationalWiki](https://rationalwiki.org/) - *Pseudoscience Refutation Wiki*
