@@ -28,6 +28,7 @@
 * [music_banktel](https://t.me/music_banktel) - *Music / Telegram* 
 * [NullNoss](https://www.nullnoss.org/) - *Courses*
 * [Courses4Arab](https://courses4arab.com/) - *Programming Courses*
+* [DLMediaFire](https://www.dlmediafire.com/) - *Software / Games*
 * [WiFi4Games](https://www.wifi4games.com/) - *Games*
 
 ## ▷ Torrenting 
@@ -329,6 +330,7 @@ French / General Torrent Tracker
 * [japscan](https://www.japscan.ws/) - *Manga*
 * [scantrad](https://scantrad.net/) - *Manga* 
 * [scan-fr](https://www.scan-fr.cc/) - *Manga* 
+* [mangascan](https://mangascan.cc/), [2](https://scansmangas.xyz/), [3](https://scanmanga-vf.cc/) - *Manga*
 
 ***
 
@@ -449,17 +451,18 @@ French / General Torrent Tracker
 
 ## ▷ Downloading
 
-* [9xMovies](https://9xmovies.land/) - *Movies / TV* 
+* [9xMovies](https://9xmovies.plus/) - *Movies / TV* 
 * [480p TV Shows](https://www.480ptvshows.com/) - *Movies / TV* 
 * [Movies Point](https://mkvmoviespoint.gen.in/) - *Movies* 
 * [BDmusic](https://bdmusic23.bid/) - *Movies / TV*
 * [MKV Mad](https://www.mkvmad.pro/) - *Movies / TV*
-* [WorldFree4U](https://worldfree4u.quest/) - *Movies / TV*
+* [WorldFree4U](https://worldfree4u.city/) - *Movies / TV*
 * [HDHub4u](https://hdhub4u.cfd/) - *Movies*
 * [MoviesRush](https://moviesrush.cam/) - *Movies*
 * [MKVHub](https://www.mkvhub.ws/) - *Movies / TV*
 * [SouthFreak](https://southfreak.online/) - *Movies*
 * [UncutHD](https://www.uncuthd.one/) - *Movies*
+* [Bolly4u](https://bolly4u.ninja/) - *Movies*
 * [RemaxHD](https://remaxhd.org/) - *Movies / TV*
 * [MoviesVerse](https://moviesverse.cc/) - *Movies / TV / [Telegram](https://t.me/MoviesHomeOFFICIALS)* 
 * [Gophie](https://gophie.cam/) - *Movies / TV*
@@ -481,7 +484,6 @@ French / General Torrent Tracker
 * [IndianCine](https://indiancine.ma/) - *62k Indian Films / Short Films* 
 * [mxplayer](https://www.mxplayer.in) - *Movies*
 * [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - *Movies* 
-* [9xMovies](https://9xmovies.land/) - *Movies / TV* 
 * [4MovieRulz](https://4movierulz.mn/) - *Movies* 
 * [HHDMovies](https://hhdmovies.org/) - *Movies / TV*
 * [OKJatt](https://okjatt.co/) - *Movies / TV*
@@ -1290,7 +1292,7 @@ Portuguese
 * [militera](http://militera.org/) - *Military History* 
 * [Arzamas](https://arzamas.academy/) - *Cultural History*
 * [Playing Soviet](https://commons.princeton.edu/soviet/) - *Children's Books*
-* [Baza Knig](https://baza-knig.ru/), [Аудиокниги Клуб](https://akniga.org/), [A-Book](https://a-book.info/), [Bibl](https://m.bibl.us/), [Knizhkin](https://knizhkin.net/), [Aknigi Online](https://aknigionline.ru/), [A Book Club](http://abook-club.ru/), [Bibl.us](https://bibl.us/) - *Audiobooks*
+* [Baza Knig](https://baza-knig.ru/), [Flibusta_Anglysky](https://t.me/flibusta_anglysky), [Аудиокниги Клуб](https://akniga.org/), [A-Book](https://a-book.info/), [Bibl](https://m.bibl.us/), [Knizhkin](https://knizhkin.net/), [Aknigi Online](https://aknigionline.ru/), [A Book Club](http://abook-club.ru/), [Bibl.us](https://bibl.us/) - *Audiobooks*
 
 ***
 
@@ -1302,7 +1304,8 @@ Portuguese
 * [Catflix](https://www.championcat.cl/catflix/) - *Cats!*
 * [Aprender Gratis](https://aprendergratis.es/) - *Spanish / File Tools*
 * [elblogdelnarco](https://elblogdelnarco.com/) - *Drug Trafficking News*
-
+* [GermanDeutsch](https://t.me/GermanDeutsch) - *Learn German*
+ 
 ## ▷ Downloading
 
 * [identi](https://identi.io/) - *Video / Audio / Software / Games* 
@@ -1556,6 +1559,7 @@ Portuguese
 * [ittefaq](https://www.ittefaq.com.bd/), [dainikamadershomoy](https://www.dainikamadershomoy.com/), [kalerkantho](https://www.kalerkantho.com/), [24livenewspaper](https://www.bangla.24livenewspaper.com/), [samakal](https://samakal.com/) or [prothomalo](https://www.prothomalo.com/) - *Bangla Newspapers*
 * [DJPunjab](https://djpunjab.is/ ) - *Punjabi / Download / MP3*
 * [RÚV](https://www.ruv.is/ruv) - *Icelandic / Live TV*
+* [Ethio Terka](https://t.me/ethio_terka) - *Amharic / Books*
 * [JavaLibre](https://javalibre.com.ua/) - *Ukrainian / Books*
 * [WiiDatabase](https://wiidatabase.de/) - *Deutsch / Nintendo Homebrew*
 * [KannadaCine](https://www.kannadacine.com/) - *Kannada / Streaming / Movies*
