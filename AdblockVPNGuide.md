@@ -517,7 +517,7 @@
 
 * **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)** - *Lists of Proxies*
 * **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
-* **[Holy Unblocker](https://www.holyubofficial.net/)** - *[Discord](https://discord.gg/hcUUceSCtj)*
+* **[Holy Unblocker](https://www.holyubofficial.net/)** - *[Discord](https://discord.gg/hcUUceSCtj) / [Herokuapp](https://holyublocker.herokuapp.com/)*
 * [ProxySite](https://www.proxysite.com/)
 * [GenMirror](https://www.genmirror.com/) 
 * [Hide.me](https://hide.me/en/proxy)
