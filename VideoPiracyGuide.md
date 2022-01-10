@@ -114,7 +114,7 @@
 ## ▷ Multi Hosts
 
 * **[FMovies](https://fmovies.name/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)*
-* **[PrimeWire](https://www.primewire.li/)** - *Movies / TV / Anime*
+* **[PrimeWire](https://www.primewire.li/)** / [2](https://www.primewire.vc/) - *Movies / TV / Anime*
 * **[HiMovies](https://www3.himovies.to/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)*
 * **[PrettyFlix](https://prettyflix.gq/)** - *Movies / TV / Anime*
 * **[Arthemis](https://releases.arthemis.xyz/)** - *Movies / TV / Anime / Client / [Discord](https://discord.gg/98HxbfjKQV)*
@@ -176,6 +176,7 @@
 * [HDFull](https://hdfull.lv/) - *Movies / TV / Anime* 
 * [VidEmbed](https://vidembed.cc/) - *Movies / TV / Anime* 
 * [4MovieRulz](https://4movierulz.mn/category/hollywood-movie-2020/) - *Movies* 
+* [123Chill](https://123chill.to/) - *Movies / TV / Anime*
 * [123Movie](https://123movie.uno/) - *Movies / TV / Anime*
 * [123Moviesd](https://123moviesd.com/) - *Movies / TV*
 * [0123movies](https://watch0123movies.org) - *Movies / TV*
@@ -264,7 +265,7 @@
 * **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
 * **[/r/AnimePiracy Index](https://piracy.moe/)** or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - *Curated List of Anime Sites / [Discord](https://discord.gg/piracy)*
 * **[Zoro](https://zoro.to/)** - *Sub / Dub*
-* **[9Anime](https://www.9anime.to/)** - *Sub / Dub / [Mirrors](https://9anime.me/) / [Filter](https://redd.it/c330dx) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)*
+* **[9Anime](https://www.9anime.to/)** - *Sub / Dub / [Mirrors](https://9anime.me/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)*
 * **[Anime Twist](https://twist.moe/)** - *Sub / [Discord](https://discord.gg/Ea3Mq9n)*
 * **[Anime8](https://anime8.ru/)** - *Sub / Dub*
 * **[AniMixPlay](https://animixplay.to/)** - *Sub / Dub / [Discord](https://discord.gg/YyQ9cpS)* 
@@ -432,6 +433,7 @@
 * [WatchNewsLive](https://watchnewslive.tv/) - *TV / Sports*
 * [streamlive](https://www.streamlive.to/) - *TV / Sports*
 * [ChannelSurf](https://channelsurf.tv/) - *TV / Sports*
+* [XUMO](https://www.xumo.tv/channels) - *TV*
 * [JokerLiveStream](https://www.jokerlivestream.life/) - *Sports*
 * [First Row Sports](https://firstsrowsports.tv/) - *Sports*
 * [720pStream](http://720pstream.tv/) - *Sports* 
@@ -610,6 +612,7 @@
 * [Movies Mobile](https://mobilemovies.info/index.php?dir=Hollywood%20Movies) - *Movies*
 * [SeriesVault](https://seriesvault.tk/) - *TV* 
 * [TVShows.today](https://tvshows.today/) - *TV*
+* [FilmyZilla](https://filmyzilla.directory/category/202/Hollywood-english-movies/default/1.html) - *Movies*
 * [10StarHD](https://10starhd.run/category/hollywood-movies/) - *Movies*
 * [WorldFree4u](https://worldfree4u.download/) - *Movies* 
 * [MP4Moviez](https://mp4moviez.pw/5/hollywood-english-movies.html) - *Movies / TV*
@@ -649,6 +652,7 @@
 * [Wtfmovies](https://www.wtfmovies.xyz/) - *Movies / TV Shows*
 * [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - *Cartoons* 
 * [Bakabt](https://bakabt.me/) - *Cartoons / [Signup](http://wiki.bakabt.me/index.php/Sign_up)* 
+* [FantAsian](https://t.me/FantAsian) - *Asian Drama*
 * [Toku.fun](https://toku.fun/) - *Japanese Superhero Movies*
 * [TinyMKV](https://tinymkv.xyz/) - *Movies / TV*
 * [480p TV Shows](https://www.480ptvshows.com/) - *Movies / TV* 
