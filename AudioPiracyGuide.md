@@ -161,6 +161,7 @@
 * [Moodli](https://www.moodil.com/) - *Ambient*
 * [Audioscape](https://audioscape.netlify.app/) - *Ambient*
 * [Moszen](https://www.moszen.com/) - *Ambient* 
+* [Soundscape](https://soundescape.io/) - *Ambient*
 * [Soundrown](http://soundrown.com/) - *Ambient* 
 * [Whispr](https://www.whispr.tech/) - *Ambient*
 * [Noises Online](https://noises.online/) - *Ambient*
@@ -353,7 +354,7 @@
 * [Kiddie Records](http://www.kiddierecords.com/) - *Classic Children's Records*
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- *MIDI Files* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
-* [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [Soundimage](https://soundimage.org/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
+* [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
 
 ***
 
