@@ -77,6 +77,7 @@
 * [PubPhoto](https://github.com/stuartlangridge/pubphoto) - *Share Photos without Sharing Number*
 * [ScreenWings](https://schiffer.tech/screenwings-mobile.html) - *Screen Protection* 
 * [Stingle Photos](https://stingle.org/) or [No See You](https://baixarapk.gratis/en/app/1186829987/photo-vault-noseeyou) - *Private Photo / Video Gallery* 
+* [Secure If](https://github.com/iternull/secure-if/) - *USB Controller*
 * [PrivateBrowser](https://play.google.com/store/apps/details?id=com.prism.download.adblock.privacy.flash.player.incognito.private_browser.browser) - *Calculator Disguised Browser*
 * [Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers) - *Encrypted Android Messengers*
 * [Silence](https://silence.im/) - *Encrypt SMS/MMS Messages* 
@@ -149,6 +150,7 @@
 * [Android Tool](https://github.com/fast-geek/Android-Tool) - *ABD / Fastboot Command Program*
 * [Amazing Temp Root](https://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - *MediaTek Temp Root*
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) - *Debloat non-rooted Androids*
+* [Smali Patcher](https://forum.xda-developers.com/t/module-smali-patcher-7-4.3680053/ ) - *Android System Patcher*
 * [FDE.AI](https://github.com/feravolt/FDE.AI-docs) - *Android Performance Enhancements*
 * [DarQ](https://www.apkmirror.com/apk/mighty-quinn-apps/darq/) - *Universal Dark Mode*
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - *Android Cleanup Tool*
@@ -168,6 +170,7 @@
 * [openboard](https://github.com/dslul/openboard) - *FOSS Keyboard App*
 * [Grammarly](https://forum.mobilism.org/search.php?keywords=grammarly&sr=topics&sf=titleonly) - *Grammarly Keyboard Premium* 
 * [Fing](https://www.fing.com/products/fing-app) - *Network Toolkit* 
+* [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) - *Fake GPS Location*
 * [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage) - *Disk Usage Analyzer*
 * [AlmightyVolumeKeys](https://play.google.com/store/apps/details?id=com.masel.almightyvolumekeys) - *Remap Volume Keys*
 * [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - *Text Font Generator*
@@ -248,6 +251,7 @@
 * [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - *Track Github User Activity*
 * [BlueClover](https://github.com/nnuudev/BlueClover) - *4Chan Browser*
 * [LoliSnatcher Droid](https://github.com/NO-ob/LoliSnatcher_Droid) - *Booru Client*
+* [ServeIt](https://github.com/many-fac3d-g0d/ServeIt) - *Android HTTP Server*
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - *Easily Open Links in Text via Share Function*
 * [URLApp](https://urlgapp.com/) - *Convert Sites to Android Apps*
 * [Ponydroid](https://forum.mobilism.org/search.php?keywords=ponydroid&amp;sr=topics&amp;sf=titleonly), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - *Download File Manager / [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)*
@@ -292,7 +296,7 @@
 * [ShiftCal](https://gitlab.com/Nulide/ShiftCal) - *Shift Calendar*
 * [Libra](https://github.com/markusfisch/Libra) - *Pros v Cons App*
 * [unhabits](https://github.com/iSoron/uhabits) or [MiindLeak](https://www.mindleak.app/) - *Bad Habit Tracker*
-* [Forest](https://forestapp.cc/), [Time Cop](https://timecop.app/), [minimalist phone](https://www.minimalistphone.com/) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - *Productivity Booster*
+* [Forest](https://forestapp.cc/), [Time Cop](https://timecop.app/), [minimalist phone](https://www.minimalistphone.com/), [Success](https://eveningkid.com/success/) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - *Productivity Booster*
 * [AnyTracker](https://sites.google.com/view/anytracker), [2](https://anytracker.org/) - *Track Anything*
 * [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - *Food Product Ingredient Scanner*
 * [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html) - *Scan & Digitize Documents*
@@ -318,6 +322,7 @@
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice) - *Device Tracker*
 * [OwnTracks](https://owntracks.org/) or [Hauk](https://github.com/bilde2910/Hauk) - *Track Own Location*
 * [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451) - *Custom Recovery Firmware Tool*
+* [TWRP Root](https://t.me/samsung_twrp_root/78379) - *TWRP Recovery Samsung*
 * [SamFirm A.I.O​](https://forum.xda-developers.com/t/tool-samfirm-a-i-o-tools-firmware-downloader-mtp-bypass-frp.4210103/) - *Firmware & FRP Bypass*
 * [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) - *Extract OTP Tokens*
 * [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid) - *File Hash Calculator*
@@ -893,6 +898,7 @@ RSS Player*
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
 * [1 Second Everyday](http://1se.co/) - *1 Second Video Diary*
 * [Twobird](https://apps.apple.com/us/app/twobird/id1455545515) or [beorg](https://beorgapp.com/) - *To-Do App*
+* [Success](https://eveningkid.com/success/) - *Productivity Booster*
 * [GGMorse](https://github.com/ggerganov/ggmorse) - *Morse Code Decoding App*
 * [PictureThis](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129) - *Plant Identifier*
 * [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id375589283) - *Delivery Tracker*
@@ -912,7 +918,7 @@ RSS Player*
 * [AppDB](https://appdb.to/) - *iOS Apps* 
 * [AppAddict](https://www.appaddict.org/) - *iOS Apps*
 * [Streamiza](https://t.me/streamiza) - *Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)*
-* [iPhoneCake](https://www.iphonecake.com/) - *Cracked Apps*
+* [App Cake](https://www.iphonecake.com/) - *Cracked Apps / [Discord](https://discord.com/invite/TgY2Qmb)*
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312)
 * [AppValley](https://www.appvalley.vip/) - *Tweaked App Store*
 * [Tutubox](https://tutubox.io/) - *Tweaked Apps Store* 
