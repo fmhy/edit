@@ -318,7 +318,6 @@
 * [MoanMyIP](https://www.moanmyip.com/) - *Sexy Girls Moaning Your IP*
 * [electric.smut](https://nsfwai.com/) - *NSFW Image Generator*
 * [Thunder's Place](https://thunders.place/) - *Penis Enlargement Discussion & Safety*
-* [Porn Site Blocklists](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/download_here/0.0.0.0/hosts), [2](https://github.com/Clefspeare13/pornhosts) - *Block Porn Sites*
 * [Brainbuddy](https://www.brainbuddyapp.com/) - *Porn Blocker / Android / iOS*
 
 ***
