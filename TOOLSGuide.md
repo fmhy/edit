@@ -94,7 +94,8 @@
 * [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Carnac](http://code52.org/carnac/), [Presen](https://presen-vid.com/ ), [mentimeter](https://www.mentimeter.com/), [beautiful.ai](https://www.beautiful.ai/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Deckdeckgo](https://deckdeckgo.com/), [Webslides](https://webslides.tv/), [Desk](https://www.animaker.com/deck) or [Slides](https://slides.com/) - *Presentation Tool*
 * [Slides](http://maaslalani.com/slides/) - *Terminal Presentation Tool / [GitHub](https://github.com/maaslalani/slides)*
 * [SlidesGo](https://slidesgo.com/), [SlideShareDownloader](https://slidesharedownloader.ngelmat.net/), [PresentationGO](https://www.presentationgo.com/), [ensa.io](https://ensa.io/) or [ThePOPP](https://thepopp.com/) - *Presentation Templates* 
-* [TemplateMaker](https://www.templatemaker.nl/ ) - *Package & Box Templates*
+* [TemplateMaker](https://www.templatemaker.nl/) - *Package & Box Templates*
+* [WebQR](https://www.webqr.com/) - *QR Code Scanner*
 * [QR Tiger](https://www.qrcode-tiger.com/), [Logaster](https://www.logaster.com/qr-code-generator/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - *QR Code Generator* 
 * [QRpicture](https://www.qrpicture.com/) - *Picture to QR Code Converter* 
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - *Online Appraisals*
@@ -526,6 +527,7 @@
 * [GetFreeIMEBooks](https://www.getfreeimebooks.com/) - *Digital Marketing Resources*
 * [HLDMSIYS?](http://howlongdoesmarijuanastayinyoursystem.net/) - *Drug Effect Duration / Testing Information*
 * [HomeBank](http://homebank.free.fr/), [Money Manager EX](https://www.moneymanagerex.org/), [Ledger](https://www.ledger-cli.org/) or [gnucash](https://www.gnucash.org/) - *Financial Accounting Software*
+* [Stocksera](https://stocksera.pythonanywhere.com/) - *Stock Tracker*
 
 ***
 
@@ -597,6 +599,7 @@
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - *Tools / Apps to Run Flash Programs*
 * [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/webcatalog/), [Applicationize](https://applicationize.me/now) or [web2desk](https://appmaker.xyz/web2desk/) - *Turn Sites into Desktop Apps* 
 * [Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Mataroa](https://mataroa.blog/), [write freely](https://writefreely.org/) or [twtxt](https://github.com/buckket/twtxt) - *Blogging Platform*
+* [Telescope](https://telescope.ac/) - *Publishing Platform*
 * [SpookyX](https://github.com/Fiddlekins/SpookyX) - *Adds Features to Imageboards*
 * [Rambox](https://rambox.pro/) / [GitHub](https://github.com/ramboxapp/download/releases), [Ferdi](https://getferdi.com/), [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [Hamsket](https://github.com/TheGoddessInari/hamsket), [matterbride](https://github.com/42wim/matterbridge) or [Franz](https://meetfranz.com/) - *Combine Web Apps / Chats*
 * [Slapdash](https://slapdash.com/) - *Connect Cloud Apps* 
@@ -649,7 +652,7 @@
 * [Hamachi](https://vpn.net/) - *VPN / LAN Emulator*
 * [WikiStalk](https://github.com/altilunium/wistalk) - *Analyze Wikipedia User's Activity*
 * [InspectContent](https://inspectcontent.com/) - *Site Keyword Inspector*
-* [Ichi](https://ichi.city), [Linktree](https://linktr.ee/), [MyURLs](https://myurls.co/), [Carrd](https://carrd.co/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/) or [ContactInBio](https://www.contactinbio.com/) - *Personal Link Homepages* 
+* [Ichi](https://ichi.city), [Linktree](https://linktr.ee/), [MyURLs](https://myurls.co/), [Carrd](https://carrd.co/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/), [CreatorSites](https://creatorsites.net/) or [ContactInBio](https://www.contactinbio.com/) - *Personal Link Homepages* 
 * [Integrated Inbox](https://integratedinbox.com/) - *Gmail Google Web App Integration*
 * [Namechk](https://namechk.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Check Username / Domain Availability*
 * [Pyfunceble](https://pyfunceble.github.io/#/) or [Domainr](https://domainr.com/) - *Check IP / Domain Availability* 
@@ -676,9 +679,6 @@
 * [PrintFriendly](https://www.printfriendly.com/) or [PrintWhatYouLike](https://www.printwhatyoulike.com/) - *Printer / PDF Version of Webpages*
 * [Textise](https://textise.net/) - *Remove Everything from a Page Except Text* 
 * [FaxZero](https://faxzero.com/) - *Free Internet Faxing* 
-* [Democaptcha](http://democaptcha.com/demo-form-eng/hcaptcha.html) or [ReCAPTCHA Demo](https://www.google.com/recaptcha/api2/demo) / [GitHub](https://patrickhlauke.github.io/recaptcha/) - *Captcha Demo's*
-* [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/) - *Helps Generate Privacy Policies* 
-* [NetLib.re](http://netlib.re/) or [EU.org](https://nic.eu.org/) - *Free Subdomains* 
 * [Misc-Download-Scripts](https://github.com/simon987/Misc-Download-Scripts) - *Download Scripts for Multiple Sites*
 * [OutWit](https://www.outwit.com/) - *Scrape / Organize Website Data* 
 * [Hosts Files ghosts](https://github.com/StevenBlack/ghosts) - *Evaluate, Compare & Format*
@@ -866,7 +866,7 @@ General Reading Sites*
 * [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - *Custom URL Handler*
 * [Xenu-Link](http://home.snafu.de/tilman/xenulink.html), [Cyotek-Webcopy](https://www.cyotek.com/cyotek-webcopy), [Dead Link Checker](https://www.deadlinkchecker.com/) or [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php) - *Broken Link Checker*
 * [W.A.R. Links Checker Premium](http://usa.x10host.com/mybb/showthread.php?tid=88) - *Checks If File Links are Alive or Not*
-* [SafeLinking](https://safelinking.net/), [Gdrivez](https://www.gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [TSU.one](https://tsu.one/), [linkspop](https://linkspop.info/), [BrBushare](https://brbushare.xyz/) or [ShortLinkto](https://shortlinkto.top/) - *Link Protectors* 
+* [SafeLinking](https://safelinking.net/), [Gdrivez](https://www.gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [TSU.one](https://tsu.one/), [externallink](https://externallink.xyz/), [linkspop](https://linkspop.info/), [BrBushare](https://brbushare.xyz/) or [ShortLinkto](https://shortlinkto.top/) - *Link Protectors* 
 * [WhoIsRequest](https://whoisrequest.com/) or [Securrity Whoiz](http://www.securrity.ru/whoiz.html) - *Domain Information Lookup*
 * [Awesome Piracy Bot](https://github.com/Igglybuff/awesome-piracy-bot) - *URL Scraping Tool*
 * [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - *DNS Information Tool*
@@ -1637,7 +1637,7 @@ General Reading Sites*
 * **[Windows File Explorers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_file_explorers)** - *Improved Windows File Explorers*
 * **[File Conversion Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_conversion_tools)** - *Tools to convert files*
 * **[Unzip / Compress Files](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_compression_programs)** - *File Unzippers / Compression Programs*
-* **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** - *Google Drive Tools Colab / [GitHub](https://github.com/biplobsd/OneClickRun) / [Features](https://i.imgur.com/hEHM7Vy.png)*
+* **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** or [MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb) - *Google Drive Tools Colab / [GitHub](https://github.com/biplobsd/OneClickRun) / [Features](https://i.imgur.com/hEHM7Vy.png)*
 * **[Mega-to-Google-Drive](https://github.com/cheems/Mega-to-Google-Drive)** - *Transfer Files from Mega to GDrive*
 * **[OpenWith](https://www.openwith.org/)** or [File.org](https://file.org/) - *Programs to Open any File Extension* 
 * **[Cyberduck](https://cyberduck.io/)** - *Libre Server / Cloud Storage Browser*
