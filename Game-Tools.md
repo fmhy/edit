@@ -24,6 +24,7 @@
 * [Overclock](https://www.overclock.net/) - *Overclocking Forum*
 * [Ryzen Master Utility](https://www.amd.com/en/technologies/ryzen-master) - *Overclocking Control for Ryzen Desktop CPU*
 * [Ryzen Controller](https://ryzencontroller.com/) - *Overclocking Software for Ryzen Laptop CPU / [AMD APU Tuning](https://github.com/JamesCJ60/AMD-APU-Tuning-Utility)*
+* [Piper](https://github.com/libratbag/piper) - *Gaming Mouse Config Tool*
 * [WindowedBorderlessGaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - *Borderless Windows for All Games*
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - *Play Fullscreen Only Games in Window*
 * [DisplayMagician](https://github.com/terrymacdonald/DisplayMagician) - *Per-Game Display Profiles*
@@ -38,6 +39,7 @@
 * [Koalageddon](https://github.com/acidicoala/Koalageddon/) - *DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)*
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - *Controller Connectivity Testers*
 * [Aim Lab](https://aimlab.gg/), [AimBooster](http://www.aimbooster.com/), [3D Aim Trainer](https://store.steampowered.com/app/1600530/3D_Aim_Trainer/) or [AimTrainer](https://aimtrainer.io/) - *Aim Training Tools & Games*
+* [ClickSpeeder](https://clickspeeder.com/) or [CPSCounter](https://cpscounter.org/) - *Click Speed Test / Trainers*
 * [Skill Capped Downloader](https://ufile.io/kuthw907) - *Skill Capped Video DL Script / [Guide](https://i.imgur.com/lZofxhL.png)*
 * [MacroGamer](https://www.itoady.com/) - *Game Macro Recorder*
 * [Blitz](https://blitz.gg/) - *Post Match Performance Analyzer / [Adblocker](https://github.com/lulzsun/blitz-app-adblock)* 
@@ -253,7 +255,7 @@
 * [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - *Minecraft Server Info*
 * [GeyserConnect](https://www.geyserconnect.net/) - *Connect Minecraft Bedrock to Java Servers*
 * [2Bored2Wait](https://github.com/themoonisacheese/2bored2wait) - *2B2T Queue Proxy*
-* [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization:zap:.283181/) or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - *Minecraft Server Optimization Guides*
+* [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization:zap:.283181/), [paper-optimization](https://eternity.community/index.php/paper-optimization/) or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - *Minecraft Server Optimization Guides*
 * [mcsrvstat](https://mcsrvstat.us/) - *Server Status Updates*
 * [LazyMc](https://github.com/timvisee/lazymc) - *Idle Minecraft Server*
 * [Salwyrr Launcher](https://www.salwyrr.com/) or [MultiMC5-Cracked](https://github.com/AfoninZ/MultiMC5-Cracked) - *Free Premium Minecraft Launchers*
