@@ -100,6 +100,7 @@
 * [Google Podcasts](https://podcasts.google.com/) - *Podcasts*
 * [DigitalBook](https://www.digitalbook.io/) - *Podcasts*
 * [player.fm](https://player.fm/) - *Podcasts*
+* [CPod](https://github.com/z-------------/CPod) - *Podcast App*
 * [WebOasis Radio](http://streamwat.ch/radio/) - *Genre-Based Radio*
 * [Chiru.no](https://chiru.no/) - *Multiple Online Radio Sites* 
 * [Drive & Listen](https://driveandlisten.herokuapp.com/) or [DrivenListen](https://drivenlisten.com/) - *Radio Driving Simulator* 
@@ -272,7 +273,6 @@
 * [sixousixmusix](https://www.sixousixmusix.org/) - *MP3*
 * [Mixupload](https://mixupload.com/) - *MP3*
 * [Slider](https://slider.kz/) - *MP3*
-* [Moe:81](http://miya.nipah.moe:81/public/music/) - *MP3 / FLAC*
 * [geedryve](http://jacobsm.com/geedryve/records/mp3s/) - *MP3* 
 * [Music Library](https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7) - *MP3*
 * [90.146.184.46](http://90.146.184.46/) - *MP3*
@@ -299,6 +299,8 @@
 * [GetRockMusic](https://getrockmusic.net/) - *MP3 / FLAC*
 * [Core Radio](https://coreradio.ru/) - *MP3 / FLAC* 
 * [AlterPortal](https://alterportal.net/) - *MP3 / FLAC*
+* [Moe:81](http://miya.nipah.moe:81/public/music/) - *MP3 / FLAC*
+* [Plastinka](http://plastinka.org/) - *MP3 / FLAC*
 * [Exystence](http://exystence.net/) - *MP3 / FLAC*  
 * [FindFlac](http://findflac.com/) - *FLAC / MP3 / MP4* 
 * [iPlusFree](http://www7.iplusfree.org/), [2](https://www.iplusfree.net/) - *iTunes M4A* 
@@ -353,8 +355,9 @@
 * [lolicore](http://lolicore.org/) - *Doujin / Lolicore Music*
 * [Kiddie Records](http://www.kiddierecords.com/) - *Classic Children's Records*
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- *MIDI Files* 
+* [QueenMusicHall](http://www.queenmusichall.cz/) - *Queen MIDIs, Audio, Photos*
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
-* [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
+* [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [Incompetech](https://incompetech.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
 
 ***
 
