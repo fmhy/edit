@@ -44,7 +44,7 @@
 * [Dashana](https://dashana.com/) or [ParaView](https://github.com/Kitware/ParaView) - *Data Visualization Tool*
 * [Grocy](https://grocy.info/) - *Grocery / Household Management Tool*
 * [Volmarg](https://volmarg.github.io/) - *Personal Management Tool*
-* [Focalboard](https://www.focalboard.com/) or [Dendron ](https://www.dendron.so/) - *Project Management Tool*
+* [Focalboard](https://www.focalboard.com/) or [Dendron](https://www.dendron.so/) - *Project Management Tool*
 * [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - *To-Do List Apps*
 * [Creative Commons](https://creativecommons.org/) - *Creative Commons Licenses*
 * [ievaphone](https://ievaphone.com/), [blacktel](https://www.blacktel.io/), [Citrustel](https://www.citrustel.com/) or [PopTox](https://www.poptox.com/) - *Make Free Phone Calls*
@@ -70,6 +70,7 @@
 * [BreezoMeter](https://www.breezometer.com/) - *Air Quality Reports*
 * [RTL-SDR](https://gist.github.com/fasiha/c123a9c6b6c78df7597bb45e0fed808f) - *DIY FAA & EASA Satellite Feeds / Transponder*
 * [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/) or [Random Lists](https://www.randomlists.com/) - *Generate Anything*
+* [Score Count](https://scorecount.com/) - *Online Sports Scoreboards*
 * [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - *Wheel Randomizer*
 * [PollCode](https://pollcode.com/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/) or [poal.me](https://poal.me/) - *Poll Creator*
 * [sli.do](https://www.sli.do/), [Feedbackr](https://www.feedbackr.io/) or [Trypingo](http://trypingo.com/) - *Live Polling Apps*
@@ -120,6 +121,7 @@
 * [GhostText](https://ghosttext.fregante.com/) - *Use Text Editor in Browser*
 * [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - *Calendar & Scheduling Tools*
 * [Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - *Note Taking & To-do Apps*
+* [Scrapbox](https://scrapbox.io/) - *Write & link Notes, Docs & Pages*
 * [Manuskript](https://www.theologeek.ch/manuskript/) - *Writing Organizer & Planner*
 * [WorkFlowy](https://workflowy.com/) - *Work Organizer*
 * [KiloDoc](https://www.kilodoc.com/) or [GroupDocs](https://products.groupdocs.app/viewer/total) - *Online Document Editor* 
@@ -185,7 +187,7 @@
 * [AnagramAssistant](https://keitharm.me/projects/anagramAssistant/) - *Anagram Tool* 
 * [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - *Text Tone Detection* 
 * [Just Not Sorry](https://chrome.google.com/webstore/detail/just-not-sorry-the-gmail/fmegmibednnlgojepmidhlhpjbppmlci) - *Undermining Word Detection*
-* [CharacterCountOnline](https://www.charactercountonline.com/) - *Character Counter*
+* [Character / Word Counters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_character_.2F_word_counters) - *Character / Word Counters*
 * [Gramma](https://caderek.github.io/gramma/) - *Command Line Grammar Checker*
 * [R2bEEaton's Phonetic Reverser](https://spea.cc/backwards/) - *Sentence / Word Reverser* 
 * [I or l?](https://iorl.info/) - *Is it an uppercase "i", or is it a lowercase "L"?*
@@ -193,6 +195,7 @@
 * [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/) or [Cool Symbol](https://coolsymbol.com/) - *Copy & Paste Unicode Characters*
 * [Donger List](http://dongerlist.com/) - *600+ Unicode Emoticons* 
 * [taag](http://patorjk.com/software/taag/) - *ASCII Text Generator*
+* [Text Smileys](https://lenny-face-generator.textsmilies.com/) - *Create ASCII Face*
 * [ASCII Art Creator](https://github.com/CherryPill/ASCII-art-creator) or [ASCII Today](https://ascii.today/) - *ASCII Art Generator*
 * [randSeq](http://www.dave-reed.com/Nifty/randSeq.html) - *Random Letter Sequence Generator*
 * [quipqiup](https://www.quipqiup.com/) - *Cryptogram Solver* 
@@ -296,6 +299,7 @@
 * [NATRON](https://natrongithub.github.io/) - *Compositing Software*
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - *CGI Assets*
 * [Motion Den](https://motionden.com/), [Lumen5](https://lumen5.com/) or [VideoCreek](https://videocreek.com/) - *Video Template Editor*
+* [Beatflyer](https://beatflyer.com/) - *Video Flyer Generator*
 * [MKVToolNix](https://www.matroska.org/downloads/mkvtoolnix.html) - *MKV Editing Tools* 
 * [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/) - *MKVExtract GUI* 
 * [MKV-Optimizer](https://www.videohelp.com/software/MKV-Optimizer) - *Remove Audio Tracks from MKV Files* 
@@ -418,7 +422,9 @@
 * [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - *Create Songs with Code* 
 * [WebSynths](http://www.websynths.com/) - *Browser-Based Instruments* 
 * [JummBox](https://jummbus.bitbucket.io/) or [Klystrack](https://github.com/kometbomb/klystrack) - *Create Chiptune Melodies*
-* [Melody Generator](https://dopeloop.ai/melody-generator) - *MiDi Melody Generator*
+* [Melody Generator](https://dopeloop.ai/melody-generator) - *MIDI Melody Generator*
+* [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- *MIDI Files* 
+* [QueenMusicHall](http://www.queenmusichall.cz/) - *Queen MIDIs, Audio, Photos*
 * [Orca](https://hundredrabbits.itch.io/orca) - *Live Coding Audio*
 * [danielx](https://danielx.net/composer/) - *Mario Paint Audio Editor*
 * [FamiTracker](http://www.famitracker.com/) or [Famistudio](https://bleubleu.itch.io/famistudio) - *NES / Famicon Audio Editor*
@@ -501,7 +507,7 @@
 * [LoopCV](https://www.loopcv.pro/) - *Automated Job Search Tool*
 * [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) - *Successful Resume Samples*
 * [CoFolios](https://cofolios.com/) - *Portfolio Sharing*
-* [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) - *Common Interview Questions & Answers*
+* [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) or [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) - *Common Interview Questions & Answers*
 * [LeetFree](https://sksusha8853.github.io/leetcode/index.html) - *Leaked Google, Facebook & Amazon Interview Questions*
 * [JustLanded](https://www.justlanded.com/) - *Working & Living Abroad Guides*
 * [Nomad List](https://nomadlist.com/) - *Remote Work Listings*
@@ -723,6 +729,7 @@
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - *Firefox CSS Guides* 
 * [EdgeDeflector](https://github.com/da2x/EdgeDeflector) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect ) - *Force Open Default Browser*
 * [xBrowserSync](https://github.com/xbrowsersync/app) - *Sync Browser Data Browsers / Devices*
+* [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - *Decrypt Browser Data*
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - *User Agent Archive* 
 * [danmaku2ass ](https://github.com/m13253/danmaku2ass) - *Convert Niconico/AcFun/Bilibili Comments to ASS*
 
@@ -732,6 +739,7 @@
 
 * **[Alternative Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_search_engines)** or **[Search-Engine](https://start.me/p/wM7y15/search-engine)** - *Search Engine Indexes*
 * **[Privacy Based Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
+* [100 Search Engines](https://www.100searchengines.com/) - *Search With 100 Search Engines*
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g#gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea#gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - *Search General Streaming Sites*
 *  [Video Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0) - *Search YouTube Like Video Sites*
 * [Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei), [2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) - *Search Anime Streaming Sites*
@@ -763,6 +771,7 @@ General Reading Sites*
 * [Soovle](https://soovle.com/), [Keyword.io](http://www.keyword.io/), [SearchEngineReports](https://searchenginereports.net/) or [Keyword Tool](https://keywordtool.io/) - *Popular Keyword Search*
 * [Esteroids](https://esteroids.eth.limo/#) - *Decentralized Web Search Engine*
 * [Social-Searcher](https://www.social-searcher.com/), [HashFinder](https://www.hashfinder.xyz/) or [Social Mention](http://socialmention.com/) - *Social Media Search Engine*  
+* [EagleEye](https://github.com/ThoughtfulDev/EagleEye) - *Find Social Media Profiles From Image*
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - *Forum Search Engine* 
 * [Blog Search Engine](http://www.blogsearchengine.org/), [Blog-Search](https://www.blog-search.com/), [BlogErnity](http://www.bloggernity.com/), [BlogSurf](https://blogsurf.io/) or [SearchBlogspot](https://www.searchblogspot.com/) - *Blog Search*
 * [4chanSearch](https://4chansearch.com/) - *4chan Search*
@@ -1328,7 +1337,6 @@ General Reading Sites*
 * [CPU Boss](http://cpuboss.com/) - *CPU Comparison Tool*
 * [DeviceTests](https://devicetests.com/) - *Multiple Device Tests*
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - *Mouse Click Latency Chart*
-* [Piper](https://github.com/libratbag/piper) - *Gaming Mouse Config Tool*
 * [Sensor.fyi](https://sensor.fyi/info/) - *Mouse Guide / Information*
 * [Office License Isn't Genuine](https://web.archive.org/web/20211014003224/https://windowsaddict.ml/office-license-is-not-genuine) - *Fix Office Activation Issues*
 * [Rufus](https://rufus.ie/), [AIO Boot](https://www.aioboot.com/), [UUP](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x), [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - *Create Bootable USB Drives*  
