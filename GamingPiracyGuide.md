@@ -159,6 +159,7 @@
 * [Arcade Punks](https://www.arcadepunks.com/) - *Roms*
 * [CDRomance](https://cdromance.com/) - *Roms*
 * [LoveRoms](https://www.loveroms.online/) - *Roms* 
+* [PSXForever](https://psxforever.com/), [2](https://pspgamesland.com/), [3](https://gameboxadvance.com/), [4](https://legendsroms.com/), [5](https://worldcia3ds.com/), [6](https://akamigames.net/), [7]https://fullgamesnx.com/) - *Roms*
 * [FantasyAnime](https://fantasyanime.com/) - *Roms* 
 * [Emulanium](http://www.emulanium.com/roms.php) - *Roms*
 * [NesGM](https://nesgm.net/) - *Roms / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)*
@@ -266,6 +267,8 @@
 * [LYR9C](https://lyr9c.weebly.com/gba-games.html) - *GBA Browser Emulator* 
 * [LetsPlayGB](https://www.letsplaygb.com/) - *Game Boy Browser Emulator*
 * [QAOP](http://torinak.com/qaop/games) - *Arcade Games*
+* [Let's Play Sega](https://www.letsplaysega.com/) - *Sega Genesis Browser Emulator*
+* [Mega Drive Emulator](https://megadrive-emulator.com/) - *Sega Megadrive Browser Emulator*
 * [DosGames](https://dosgames.com/), [MSDOSGames](https://msdosgames.com/) or [PlayDOSGames](https://www.playdosgames.com/) - *DOS Browser Emulator*
 * [LCD Games](http://bdrgames.nl/lcdgames/) - *Retro LCD Game Emulator* 
 * [File-Hunter](https://www.file-hunter.com/) - *MSX / Amiga Browser Emulator*
@@ -404,6 +407,7 @@
 * [DAN-BALL](http://dan-ball.jp/en/)
 * [Unity3DGames](http://www.unity3dgames.net/)
 * [Gamelor](https://www.gamelor.com/)
+* [Super Mario Bros](https://supermariobros.io/) 
 * [itch.io](https://graebor.itch.io/), [2](https://grey2scale.itch.io/), [3](https://ncase.itch.io/), [4](https://capsquared.itch.io/), [5](https://evilobjective.itch.io/)
 * [Cartoon Network Games](https://www.cartoonnetwork.com/games/index.html)
 * [Disney Games](https://disneynow.com/all-games)
@@ -411,6 +415,7 @@
 * [Friv](https://friv.com/), [2](https://web.archive.org/web/*/Friv.com)
 * [iogames.space](https://iogames.space/) or [Kevin Games](https://kevin.games/)- *.io Games*
 * [Games on GitHub](https://github.com/leereilly/games) - *GitHub Hosted Games*
+* [SpacebarCounter](https://spacebarcounter.io/spacebar-games.html) - *Spacebar Games*
 * [Nekogames](http://nekogames.jp/) - *Japanese Games* 
 * [ArcadePrehacks](http://www.arcadeprehacks.com/) - *Hacked Games* 
 * [Orisinal](http://www.ferryhalim.com/orisinal/), [BillsGames](http://www.billsgames.com/) or [pitStreet](http://www.pitstreet.com/) - *Simple Games* 
@@ -674,7 +679,7 @@
 * [rate.house](https://rate.house/) - *Video Game Database*
 * [listal](https://www.listal.com/) - *Video Game Database*
 * [HOTU](http://www.homeoftheunderdogs.net/) - *Rare Video Game Database*
-* [MoreGamesLike](https://www.moregameslike.com/) - *Find Similar Games*
+* [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - *Find Similar Games*
 * [Movie-Censorship](https://www.movie-censorship.com/) - *Compare Alternate Versions of Media* 
 * [50GamesLike](https://www.50gameslike.com/) - *Game Recommendations*
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Top 100 Lists*
