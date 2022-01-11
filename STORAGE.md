@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/5J7XPGQ.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/DwHRdAR.png)** - *For mobile users*
 
 ***
 ***
@@ -181,7 +181,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Anime Download Apps
 
-[Monkey-DL](https://github.com/Oshan96/monkey-dl), [HakuNeko](https://hakuneko.download/) / [2](https://github.com/manga-download/hakuneko), [Anime Downloader](https://github.com/anime-dl/anime-downloader), [Anigrab](https://github.com/ngomile/anigrab), [AnimeDL](https://github.com/justfoolingaround/animdl), [ultimate-batch-anime-downloader](https://github.com/KorigamiK/ultimate-batch-anime-downloader), [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom), [Anime-Downloader](https://github.com/henry-richard7/Anime-Downloader) 
+[Monkey-DL](https://github.com/Oshan96/monkey-dl), [HakuNeko](https://hakuneko.download/) / [2](https://github.com/manga-download/hakuneko), [Anime Downloader](https://github.com/anime-dl/anime-downloader), [Anigrab](https://github.com/ngomile/anigrab), [AnimeDL](https://github.com/justfoolingaround/animdl), [ultimate-batch-anime-downloader](https://github.com/KorigamiK/ultimate-batch-anime-downloader), [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom), [Anime-Downloader](https://github.com/henry-richard7/Anime-Downloader), [Anime-dl](https://github.com/gabelluardo/anime-dl) / [2](https://github.com/vrienstudios/anime-dl) / [3](https://github.com/vrienstudios/anime-dl) 
 
 ***
 
@@ -217,7 +217,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Audio Servers
 
-**[iBroadcast](https://ibroadcast.com)**, [koel](https://koel.dev/) / [Docker](https://github.com/0xcaff/docker-koel), [Fidbak](https://fidbak.audio/), [MadSonic](https://www.madsonic.org/pages/index.jsp), [Navidrome](https://www.navidrome.org/), [Koozic](https://koozic.net/), [mStream](https://github.com/IrosTheBeggar/mStream), [Serviio](https://www.serviio.org/), [Airsonic](https://airsonic.github.io/), [SoundGasm](https://soundgasm.net/) 
+**[iBroadcast](https://ibroadcast.com)**, [koel](https://koel.dev/) / [Docker](https://github.com/0xcaff/docker-koel), [Fidbak](https://fidbak.audio/), [MadSonic](https://www.madsonic.org/pages/index.jsp), [Navidrome](https://www.navidrome.org/), [Koozic](https://koozic.net/), [mStream](https://mstream.io/) / [Git](https://github.com/IrosTheBeggar/mStream), [Serviio](https://www.serviio.org/), [Airsonic](https://airsonic.github.io/), [SoundGasm](https://soundgasm.net/) 
 
 ***
 
@@ -324,6 +324,11 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/), [Chrome](https://chrome.google.com/webstore/detail/nomnklagbgmgghhjidfhnoelnjfndfpd)
 
+***
+
+#### Character / Word Counters
+
+[CharacterCountOnline](https://www.charactercountonline.com/), [CharacterCounter](https://charactercounter.com/), [CharacterCounterTool](https://charactercounttool.com/), [OnlineEditText](https://onlinetextedit.com/), [LetterCount](https://www.lettercount.com/), [TheWordCounter](https://thewordcounter.com/), [CharCounter](https://charcounter.com/), [CharacterCounter](https://charactercounter.com/ucas), [WordCounter](https://wordcounter.io/), [CharacterCounter](https://charactercounter.nl/)
 
 ***
 
@@ -434,7 +439,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### DOS Games
 
-**[eXoDOS](https://exodos.the-eye.eu/)**, [DOSGamesLibrary](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS Haven](http://www.doshaven.eu/), [LiquidDoom](http://dos.liquiddoom.net/), [The Software Library](https://archive.org/details/softwarelibrary_msdos), [Best Old Games](http://www.bestoldgames.net/eng/), [DosGames](https://dosgames.com/), [PlayDOSGames](https://www.playdosgames.com/), [ClassicDOSGames](https://www.classicdosgames.com/), [AbandonwareDOS](https://www.abandonwaredos.com/), [zczc](https://dos.zczc.cz/) (Chinese)
+**[eXoDOS](https://exodos.the-eye.eu/)**, [DOSGamesLibrary](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS Haven](http://www.doshaven.eu/), [LiquidDoom](http://dos.liquiddoom.net/), [The Software Library](https://archive.org/details/softwarelibrary_msdos), [Best Old Games](http://www.bestoldgames.net/eng/), [DosGames](https://dosgames.com/), [PlayDOSGames](https://www.playdosgames.com/), [ClassicDOSGames](https://www.classicdosgames.com/), [AbandonwareDOS](https://www.abandonwaredos.com/), [DOSGames](https://www.dosgames.com/), [zczc](https://dos.zczc.cz/) (Chinese)
 
 ***
 
@@ -612,6 +617,10 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * [wfdownloader](https://www.wfdownloader.xyz/)
 * [FireDM](https://github.com/firedm/FireDM) 
 * [Mipony](https://www.mipony.net/)
+* [SpeedBit](http://www.speedbit.com/) 
+* [BitComet](https://www.bitcomet.com/en) 
+* [FlashGet](http://www.flashget.com/index_en.html) 
+* [Westbyte](https://www.westbyte.com/ida/) 
 * [Xtreme Downlaod Manager](https://xtremedownloadmanager.com/) 
 * [massivedl](https://github.com/dimkouv/massivedl)
 * [Neat Download Manager](https://www.neatdownloadmanager.com/)
@@ -823,7 +832,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Online Editors**
 
-**[Photopea](https://www.photopea.com/)** / [Adblocker](https://greasyfork.org/en/scripts/426936-cleanphotopea), [Pixlr](https://pixlr.com/), [BeFunky](https://www.befunky.com/), [Resize Pixel](https://www.resizepixel.com/), [FotoFlexer](https://fotoflexer.com/), [Sumopaint](https://www.sumopaint.com/), [Lunapic](https://lunapic.com/), [Polotno Studio](https://studio.polotno.dev/), [OIE](https://www.online-image-editor.com/), [ResizeImage](https://resizeimage.net/), [IMG online](https://www.imgonline.com.ua/eng/), [BitMappery](https://www.igorski.nl/application/bitmappery/), [Kapwing](https://www.kapwing.com/), [Photoshop.adobe](https://photoshop.adobe.com/), [ILoveImg](https://www.iloveimg.com/photo-editor), [Panzoid](https://panzoid.com/), [Stet](https://stet.io/), [GifGit](https://www.gifgit.com/), [Polarr](https://photoeditor.polarr.co/), [UpperPix](https://upperpix.com/), [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/), [Picverse](https://www.picverse.com/), [Image Online](https://pencilsketch.imageonline.co/)
+**[Photopea](https://www.photopea.com/)** / [Adblocker](https://greasyfork.org/en/scripts/426936-cleanphotopea), [Pixlr](https://pixlr.com/), [BeFunky](https://www.befunky.com/), [Resize Pixel](https://www.resizepixel.com/), [FotoFlexer](https://fotoflexer.com/), [Sumopaint](https://www.sumopaint.com/), [Lunapic](https://lunapic.com/), [Polotno Studio](https://studio.polotno.dev/), [OIE](https://www.online-image-editor.com/), [ResizeImage](https://resizeimage.net/), [IMG online](https://www.imgonline.com.ua/eng/), [BitMappery](https://www.igorski.nl/application/bitmappery/), [Kapwing](https://www.kapwing.com/), [Photoshop.adobe](https://photoshop.adobe.com/), [ILoveImg](https://www.iloveimg.com/photo-editor), [Panzoid](https://panzoid.com/), [Stet](https://stet.io/), [GifGit](https://www.gifgit.com/), [Polarr](https://photoeditor.polarr.co/), [UpperPix](https://upperpix.com/), [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/), [Picverse](https://www.picverse.com/), [Image Online](https://pencilsketch.imageonline.co/), [Fotor](https://www.fotor.com/)
 
 ***
 
@@ -971,7 +980,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Manga Download Bots
 
-[HakuNeko](https://github.com/manga-download/hakuneko), [Comics Downloader](https://github.com/Girbons/comics-downloader), [FMD](https://sourceforge.net/projects/fmd/), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [Free Manga Downloader](https://sourceforge.net/projects/newfmd/), [mangadownbot](https://t.me/mangadownbot), [MangaBot](http://mangabot.github.io/), [MangaRipper](https://www.softpedia.com/get/Internet/Download-Managers/MangaRipper.shtml), [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader), [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangadesk](https://github.com/darylhjd/mangadesk), [nice-pferd](https://github.com/augustin64/nice-pferd), [manga-py](https://manga-py.com/), [mdownloader](https://github.com/Rudoal/mdownloader), [ScrapScan](https://github.com/Mr-Monster-0248/ScrapScan), [mangapy](https://pypi.org/project/mangapy/), [manga2mobi](https://github.com/KevCui/manga2mobi), [Akianonymus](https://github.com/Akianonymus/mangadl-bash), [simple-manga-downloader](https://github.com/Kanjirito/simple-manga-downloader), [mangodl](https://github.com/Gyro7/mangodl)
+[HakuNeko](https://github.com/manga-download/hakuneko), [Comics Downloader](https://github.com/Girbons/comics-downloader), [FMD](https://sourceforge.net/projects/fmd/), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [Free Manga Downloader](https://sourceforge.net/projects/newfmd/), [mangadownbot](https://t.me/mangadownbot), [MangaBot](http://mangabot.github.io/), [MangaRipper](https://www.softpedia.com/get/Internet/Download-Managers/MangaRipper.shtml), [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader), [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangadesk](https://github.com/darylhjd/mangadesk), [nice-pferd](https://github.com/augustin64/nice-pferd), [manga-py](https://manga-py.com/), [mdownloader](https://github.com/Rudoal/mdownloader), [ScrapScan](https://github.com/Mr-Monster-0248/ScrapScan), [mangapy](https://pypi.org/project/mangapy/), [manga2mobi](https://github.com/KevCui/manga2mobi), [Akianonymus](https://github.com/Akianonymus/mangadl-bash), [simple-manga-downloader](https://github.com/Kanjirito/simple-manga-downloader), [mangodl](https://github.com/Gyro7/mangodl), [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl)
 
 ***
 
@@ -1311,6 +1320,7 @@ Add the following commands to a search to manually scrape each site.
 * [Buttercup](https://buttercup.pw/)
 * [Clipperz](https://clipperz.is/)
 * [Spectre](https://spectre.app/)
+* [KeeWeb](https://keeweb.info/) - *[Github](https://github.com/keeweb/keeweb)*
 * [UPM](http://upm.sourceforge.net/)
 * [Zoho](https://www.zoho.com/vault/)
 * [Password Safe](https://www.pwsafe.org/) or [KDE Wallet Manager](https://userbase.kde.org/KDE_Wallet_Manager) - *Password Managing Software* 
@@ -1482,7 +1492,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Portuguese Recipes
 
-[amandocozinhar](https://www.amandocozinhar.com/2016/01/12-livros-de-culinaria-para-baixar.html), [Uniao](https://uniao.com.br/), [varandadobolo](https://varandadobolo.com.br/), [receitasdemais](http://receitasdemais.com.br/), [receitasnotadez](https://receitasnotadez.com.br/), [saborintenso](https://www.saborintenso.com/), [cozinhadonabenta](https://www.cozinhadonabenta.com.br/receitas-dona-benta/), [anamariabraga](https://anamariabraga.globo.com/), [vovopalmirinha](https://vovopalmirinha.com.br/), [gastronomias](http://www.gastronomias.com/receitas/), [tecnonoticias](https://tecnonoticias.com.br/downloads-de-receitas/), [tudoreceitas](https://www.tudoreceitas.com/), [tudogostoso](https://www.tudogostoso.com.br/), [receitasnestle](https://www.receitasnestle.com.br/), [panelinha](https://www.panelinha.com.br/), [receitasdecomida](https://www.receitasdecomida.com.br/), [cybercook](https://cybercook.com.br/), [culinaria](https://culinaria.terra.com.br/), [petiscos](https://www.petiscos.com/), [receitaseduguedes](https://www.receitas.eduguedes.com.br/), [teleculinaria](https://www.teleculinaria.pt/), [dietaereceitas](https://dietaereceitas.com.br/), [receitasdecomidas](https://www.receitasdecomidas.com.br/), [gastronomianobrasil](http://gastronomianobrasil.com.br/), [iserv](http://www.iserv.com.br/culinaria/), [receiteria](https://www.receiteria.com.br/), [comidasimples](https://comidasimples.com.br/), [receitasagora](https://www.receitasagora.com.br/), [cantinhovegetariano](http://www.cantinhovegetariano.com.br/)
+[amandocozinhar](https://www.amandocozinhar.com/2016/01/12-livros-de-culinaria-para-baixar.html), [Uniao](https://uniao.com.br/), [varandadobolo](https://varandadobolo.com.br/), [receitasdemais](http://receitasdemais.com.br/), [receitasnotadez](https://receitasnotadez.com.br/), [saborintenso](https://www.saborintenso.com/), [cozinhadonabenta](https://www.cozinhadonabenta.com.br/receitas-dona-benta/), [anamariabraga](https://anamariabraga.globo.com/), [vovopalmirinha](https://vovopalmirinha.com.br/), [gastronomias](http://www.gastronomias.com/receitas/), [tecnonoticias](https://tecnonoticias.com.br/downloads-de-receitas/), [tudoreceitas](https://www.tudoreceitas.com/), [tudogostoso](https://www.tudogostoso.com.br/), [receitasnestle](https://www.receitasnestle.com.br/), [panelinha](https://www.panelinha.com.br/), [receitasdecomida](https://www.receitasdecomida.com.br/), [cybercook](https://cybercook.com.br/), [culinaria](https://culinaria.terra.com.br/), [petiscos](https://www.petiscos.com/), [receitaseduguedes](https://www.receitas.eduguedes.com.br/), [teleculinaria](https://www.teleculinaria.pt/), [dietaereceitas](https://dietaereceitas.com.br/), [receitasdecomidas](https://www.receitasdecomidas.com.br/), [gastronomianobrasil](http://gastronomianobrasil.com.br/), [iserv](http://www.iserv.com.br/culinaria/), [receiteria](https://www.receiteria.com.br/), [comidasimples](https://comidasimples.com.br/), [receitasagora](https://www.receitasagora.com.br/), [cantinhovegetariano](http://www.cantinhovegetariano.com.br/), [Emagrecer](https://emagrecercerto.com/)
 
 ***
 
@@ -2212,13 +2222,20 @@ Add the following commands to a search to manually scrape each site.
 * [Nano](https://www.nano-editor.org/)
 * [Quill](https://quilljs.com/) 
 * [Fluent](https://www.microsoft.com/en-us/p/fluentpad/9pdcqcb06s91)
-* [TextSlave](https://www.textslave.com/) - *Online* 
-* [Text Mechanic](https://textmechanic.com/) - *Online* 
-* [Zen](https://zen.unit.ms/) - *Online*
-* [NimbleText](https://nimbletext.com/Live) - *Online* 
-* [anotepad](https://anotepad.com/) - *Online*
-* [takenote](https://takenote.dev/) - *Online*
-* [Notepad](https://notepad.js.org/) - *Offline*
+* [Notepad](https://notepad.js.org/)
+
+**Online Text Editors** 
+
+* [TextSlave](https://www.textslave.com/) 
+* [Text Mechanic](https://textmechanic.com/)
+* [Zen](https://zen.unit.ms/) 
+* [NimbleText](https://nimbletext.com/Live) 
+* [anotepad](https://anotepad.com/) 
+* [takenote](https://takenote.dev/) 
+* [onlinenotepad](https://onlinenotepad.org/) 
+* [notepad-online.net](https://notepad-online.net/) 
+* [notepad-online.com](https://notepad-online.com/)
+* [JustNotePad](https://justnotepad.com/) 
 
 ***
 
@@ -2533,7 +2550,7 @@ Good for finding classic, obscure & short films.
 
 **Addons** 
 
-[SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ), [archiveror](https://github.com/rahiel/archiveror), [archiveweb](https://archiveweb.page/), [Wayback Machine](https://github.com/internetarchive/wayback-machine-webextension), [Web Archives](https://github.com/dessant/web-archives) 
+[SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ), [archiveror](https://github.com/rahiel/archiveror), [archiveweb](https://archiveweb.page/), [Wayback Machine](https://github.com/internetarchive/wayback-machine-webextension), [Web Archives](https://github.com/dessant/web-archives), [Vandal](https://vegetableman.github.io/vandal/) / [Git](https://github.com/vegetableman/vandal)
 
 ***
 
