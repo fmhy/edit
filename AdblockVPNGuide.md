@@ -136,6 +136,7 @@
 * [Winitor](https://www.winitor.com/) - *EXE Malware Assessment*
 * [PyWhat](https://github.com/bee-san/pyWhat) - *.pcap File Scanner*
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - *Penetration Testing Index*
+* [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - *Configure Windows Defender Settings*
 * [DefenderUI](https://www.defenderui.com/) - *Improved Microsoft Defender UI*
 * [wideredist](https://gitlab.com/urbanware-org/wideredist) - *Update Windows Defender Definitions Locally*
 * [Antivirus Removal Tool](https://antivirus-removal-tool.com/) - *Antivirus Software Removal Tool*
@@ -397,6 +398,7 @@
 * [Mojeek](https://www.mojeek.com/)
 * [SKYN3T](https://skyn3t.in/)
 * [Brave Search](https://search.brave.com/)
+* [Snopyta](https://search.snopyta.org/)
 * [peekier](https://peekier.com/)
 * [neeva](https://neeva.com/)
 * [WhaleSlide](https://whaleslide.com/)
