@@ -16,6 +16,7 @@
 * **[freeCodeCamp](https://www.freecodecamp.org/)** - *Programming / Courses / Interactive [Archive](https://drive.google.com/drive/folders/1M_GDMaRwFDB_UG0y-WQdNqTxLxchlzgl?usp=sharing)*
 * **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - *Read / Download Programming Books* 
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - *Git Learning Game*
+* [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - *Github Cheat Sheet*
 * [Developer.Mozilla](https://developer.mozilla.org/) - *Developer Resources* 
 * [DZone](https://dzone.com/) - *Developer Tutorials*
 * [RedHat](https://developers.redhat.com/) - *Development Tutorials*
@@ -47,7 +48,7 @@
 * [PythonTutor](https://pythontutor.com/) - *Coding Tutorials*
 * [VSCodeCanDoThat](https://www.vscodecandothat.com/) - *VSCode Tutorial*
 * [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - *Programming Cheat Sheets*
-* [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) - *Resources For Learning To Code* 
+* [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) or [ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources) - *Programming / Coding Learning Resources*
 * [EbookFoundation Interactive Programming Tuts](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md) - *Interactive Programming Tutorials* 
 * [Exercism](https://exercism.org/) - *Programming Lessons*
 * [Nayuki](https://www.nayuki.io/) - *Programming Tutorials*
@@ -67,6 +68,7 @@
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/) - *HTML & CSS Tutorials*
 * [VIM Adventures](https://vim-adventures.com/) - *VIM Learning Game*
 * [Learn C](https://www.learn-c.org/) - *C Tutorial*
+* [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - *C++ Best Practices Guidelines / [Github](https://github.com/isocpp/CppCoreGuidelines)*
 * [HowIStart C++](https://howistart.org/posts/cpp/1/) - *C++ Setup Guide*
 * [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) - *C++ Algorithm Collection*
 * [Quick-R](https://www.statmethods.net/index.html) - *R Tutorials*
@@ -216,6 +218,7 @@
 * [ZeroNet](https://zeronet.io/) - *Uncensorable Sites / [/r/Zeronet](https://www.reddit.com/r/zeronet/)*
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/),  [xWebTools](https://www.xwebtools.com/) or [CSSAuthor](https://cssauthor.com/) - *Site Development Tools*
+* [Sympli](https://sympli.io/ ) - *Designer / Developer Collaboration Tool*
 * [Uncensorable Publishing](https://uncensorablepublishing.com/) - *Create Hard to Censor Sites*
 * [Flux](https://www.runonflux.io/) - *Decentralized Cloud Infrastructure*
 * [Web Designer News](https://www.webdesignernews.com/) - *Web Design News*
@@ -224,6 +227,7 @@
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) - *Web Debugging Proxy App*
 * [Tabler](https://tabler.io/) - *Site Admin Dashboard*
 * [Octopus](https://octopus.do/sitemap) - *Site Planning Tool*
+* [Utom Design](https://utom.design/measure) - *Sketch Measure*
 * [WireFlow](https://wireflow.co/) - *Flow Prototype Maker*
 * [Geekflare Tools](https://gf.dev/toolbox) - *Site Testing Tools*
 * [UXTweak](https://www.uxtweak.com/) - *Website Design Usability Improvement Tool*
@@ -272,6 +276,7 @@
 * [Elements Envato](https://qltien.com/elements/getcode/babiato.html) or [PsdRepo](https://psdrepo.com/) - *Templates, Mockups, Logos, Video*
 * [Uisual](https://uisual.com/) - *Landing Page Templates*
 * [Canva](https://www.canva.com/) or [PikBest](https://pikbest.com/) - *Design Templates / [Premium Apk](https://forum.mobilism.org/search.php?keywords=Canva+&sr=topics&sf=titleonly)* 
+* [Zeplin](https://zeplin.io/) - *Design Templates / Editor*
 * [Boilerplate](https://github.com/h5bp/html5-boilerplate) - *Website Frontend Template HTML5*
 * [Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/) or [Undraw](https://evie.undraw.co/)  - *Site Templates*
 * [Templatemo](https://www.templatemo.com/) or [Tooplate](https://www.tooplate.com/ ) - *HTML Site Templates*
@@ -288,13 +293,15 @@
 * [hlsflow](https://github.com/hlsflow/hlsflow) - *Host Video in HLS Stream*
 * [StreamYard](https://streamyard.com/) - *Live Stream Creator*
 * [Visiwig](https://www.visiwig.com/) - *Copy / Paste Site Graphics*
-* [WebDesigner](https://webdesigner.withgoogle.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/AriaMinaei/theatre) or [Animate.css](https://animate.style/) - *Create Interactive Motion Graphics*
+* [WebDesigner](https://webdesigner.withgoogle.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/AriaMinaei/theatre), [Haiku](https://www.haikuanimator.com/), [Greensock](https://greensock.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [Mantra](https://jeremyckahn.github.io/mantra/) or [Animate.css](https://animate.style/) - *Create Interactive Motion Graphics*
+* [NakerApp](https://app.naker.io/back/) - *Interactive Background Maker*
 * [Vidlery](http://vidlery.com/) - *Animated Webpage Background*
 * [Box-Shadow](https://box-shadow.art/) - *Box Shadow Generator*
 * [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - *CSS Shadow Generator*
 * [MapBox](https://www.mapbox.com/) - *Live Maps, Location Search & More*
 * [Maps-Core](https://openmobilemaps.io/) - *Mobile Map SDK*
 * [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [99Inbound](https://www.99inbound.com/), [Form.taxi](https://form.taxi/) or [Formsend](https://formsend.org/) - *Form Creator*
+* [Loading.io](https://loading.io/) - *Customizable Loading SVG*
 * [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/) - *Helps Generate Privacy Policies* 
 * [Medusa](https://github.com/medusajs/medusa) - *Digital Commerce Development Tool*
 * [Plaid](https://plaid.com/) - *Financial Account API / [GitHub](https://github.com/plaid)*
@@ -618,6 +625,7 @@
 * [Telosys](http://www.telosys.org/) - *Code Generator*
 * [OneLang IDE](https://ide.onelang.io/) - *Convert Code to Multiple Languages*
 * [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - *Source Code Converters*
+* [OctoLinker](https://octolinker.vercel.app/) - *Turn Code Statements into Links / [Github](https://github.com/OctoLinker/OctoLinker)*
 * [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - *Emacs Packages*
 * [WebDen](https://webden.dev/) - *Code Playground*
 * [I run code](https://github.com/engineer-man/piston-bot) - *Evaluate Code Snippets via Discord*
