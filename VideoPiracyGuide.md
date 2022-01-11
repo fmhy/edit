@@ -266,11 +266,11 @@
 * **[/r/AnimePiracy Index](https://piracy.moe/)** or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - *Curated List of Anime Sites / [Discord](https://discord.gg/piracy)*
 * **[Zoro](https://zoro.to/)** - *Sub / Dub*
 * **[9Anime](https://www.9anime.to/)** - *Sub / Dub / [Mirrors](https://9anime.me/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)*
-* **[Anime Twist](https://twist.moe/)** - *Sub / [Discord](https://discord.gg/Ea3Mq9n)*
+* **[Anime Twist](https://twist.moe/)** - *Sub / [Discord](https://discord.gg/Ea3Mq9n) / [Downloader](https://github.com/aberrier/kurby)*
 * **[Anime8](https://anime8.ru/)** - *Sub / Dub*
 * **[AniMixPlay](https://animixplay.to/)** - *Sub / Dub / [Discord](https://discord.gg/YyQ9cpS)* 
 * **[AnimeKisa](https://animekisa.tv/)** - *Sub / Dub*
-* [AnimePahe](https://animepahe.com/) - *Sub / [Downloader](https://github.com/charathmathew/animepahe_downloader), [2](https://github.com/ed-archer/animepahe-dlr), [3](https://github.com/notmarek/pyheanime)*
+* [AnimePahe](https://animepahe.com/) - *Sub / [Downloader](https://github.com/charathmathew/animepahe_downloader), [2](https://github.com/ed-archer/animepahe-dlr), [3](https://github.com/notmarek/pyheanime), [4](https://github.com/KevCui/animepahe-dl)*
 * [AniKuru](https://anikuru.me/) - *Sub / Dub*
 * [AnimehHub](https://animehub.ac/) - *Sub / Dub*
 * [Animesaga](https://animesa.ga/) - *Sub / Dub*
@@ -582,7 +582,7 @@
 * [Reqzone](https://reqzone.com/) - *Movies / TV*
 * [FullSeasonsTv](https://fullseasonstv.com/) - *TV*
 * [MoviesWBB](http://movieswbb.com/) - *Movie / TV*
-* [KatMovieHD](https://katmoviehd.nl/) - *Movies / TV / Anime*
+* [KatMovieHD](https://katmoviehd.nz/category/hollywood-eng/) - *Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)*
 * [TheMoviesFlix](https://themoviesflix.co.com/) - *Movies / TV / Anime*
 * [Amadei33](https://www.amadei33.com/) - *Movies / TV*  
 * [MKVBee](https://mkvbee.com/) - *Movies / TV*
@@ -593,6 +593,7 @@
 * [HugeWarez](http://hugewarez.net/movies/) - *Movies / TV*
 * [ExtraMovies](https://extramovies.click/) - *Movies / TV*  
 * [KimoiTV](https://www.kimoitv.com/) - *Movies / TV / Anime*
+* [Movies Counter](https://moviescounter.se/category/english-movies/) - *Movies / TV*
 * [MeloMovie](https://melomovie.com/) - *Movies / TV*
 * [Best-Movies](http://best-movies.info/) - *Movies / TV*   
 * [Happy2Hub](https://happy2hub.net/) - *Movies / TV*   
@@ -608,15 +609,19 @@
 * [FreeDriveMovie](https://www.freedrivemovie.com/) - *Movies / TV*
 * [HDMovieArea](https://hdmoviearea.live/genre/dual-audio/) - *Movies / TV*
 * [TheMoviesFlix](https://themoviesflix.com.ph/category/english-movies/) - *Movies / TV*
+* [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - *Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)*
 * [UHDMovies](https://uhdmovies.in/movies/dual-audio-movies/) - *Movies*
 * [Movies Mobile](https://mobilemovies.info/index.php?dir=Hollywood%20Movies) - *Movies*
 * [SeriesVault](https://seriesvault.tk/) - *TV* 
 * [TVShows.today](https://tvshows.today/) - *TV*
 * [FilmyZilla](https://filmyzilla.directory/category/202/Hollywood-english-movies/default/1.html) - *Movies*
 * [10StarHD](https://10starhd.run/category/hollywood-movies/) - *Movies*
+* [HDHub4U](https://hdhub4u.bar/category/hollywood-movies/) - *Movies / TV*
+* [MoviezAddiction](https://moviezaddiction.art/hollywood-movies/) - *Movies / TV / [Telegram](https://t.me/moviezaddiction3)*
 * [WorldFree4u](https://worldfree4u.download/) - *Movies* 
 * [MP4Moviez](https://mp4moviez.pw/5/hollywood-english-movies.html) - *Movies / TV*
-* [Downloadhub](https://downloadhub.wtf/category/hollywood-movies/) - *Movies*
+* [Downloadhub](https://downloadhub.plus/category/hollywood-movies/) - *Movies / [Telegram](https://t.me/downloadhubcool1)*
+* [SSR Movies](https://www.ssrmovies.city/category/hollywood-movies-hd) - *Movies / TV / [Telegram](https://t.me/SSRmovies2022) / [2](https://telegram3.xyz/)*
 * [Best-MovieZ](https://www.best-moviez.ws/) - *Movies / TV*
 * [MKVHub](https://www.mkvhub.co/) - *Movies / TV*
 * [MovieLegacy](https://movieslegacy.com/category/hollywood/) - *Movies*
@@ -635,7 +640,7 @@
 * [7Moviesrulz](https://7movierulz.se/category/hollywood-movie-2021/) - *Movies*
 * [oKhatrimaza](https://www.okhatrimaza.vin/category/7/hollywood-english-movies/default/1.html) - *Movies*
 * [SD Movies Point](https://1sdmoviespoint.kim/category/hollywooddd/) - *Movies / TV*
-* [SkyMoviesHD](https://skymovieshd.cam/category/Hollywood-English-Movies.html) - *Movies*
+* [SkyMoviesHD](https://skymovieshd.news/category/Hollywood-English-Movies.html) - *Movies*
 * [HDFriday](https://hdfriday.com/category/download-hollywood-movies/) - *Movies*
 * [MoviesDownloadHub](https://moviesdownloadhub.com/category/hollywood/) - *Movies / TV*
 * [MegaUploadAgora](https://www.megauploadagora.com.br/) - *Movies / TV* 
@@ -647,7 +652,7 @@
 * [LatestMovie4U](https://latestmovie4u.com/) - *Movies / TV / Anime* 
 * [PrivateMoviez](https://privatemoviez.cc/) - *Movies / TV / Anime*
 * [CoolMovieZone](https://coolmoviezone.lat/) - *Movies*
-* [VegaMovies](https://vegamovies.bar/category/english/) - *Movies*
+* [VegaMovies](https://vegamovies.ink/category/english/) - *Movies / [Telegram](https://vegadrive.xyz/join.php) / [2](https://t.me/Vegamoviesgroup2)*
 * [Subroz](https://subroz.live/0:/) - *Movies / TV*
 * [Wtfmovies](https://www.wtfmovies.xyz/) - *Movies / TV Shows*
 * [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - *Cartoons* 
@@ -803,6 +808,7 @@
 * [ATORRENTS](https://atorrents.com/) - *Movies*
 * [TorrentCue](http://torrrentcue.cc/Hollywood.html) - *Movies*
 * [TorHD](https://torhd.com/) - *Movies*
+* [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - *Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)*
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - *Movies*
 * [YTS](https://yts.mx/) - *Movies / [Mirror](https://yify.netlify.app/) / Do [NOT](https://androidrookies.com/top-torrent-website-yts-is-sharing-user-emails-and-ip-addresses-with-anti-piracy-law-firm/) Make Account* 
 * [ButchIxanh](https://butchixanh.com/) - *Asian Drama*
@@ -920,6 +926,7 @@
 * [arm-server](https://github.com/BeeeQueue/arm-server) - *Map Anime ID's between AniList, AniDB, MAL & Kitsu* 
 * [IAD](https://www.intanibase.com/) - *Animated Media Database*
 * [Chronology of Animation](http://www.animated-divots.net/chronst.html) - *Animation History / Index*
+* [Behind the Voice Actors](https://www.behindthevoiceactors.com/) - *Voice Actors Database*
 * [Movie-Censorship](https://www.movie-censorship.com/) - *Compare Alternate Versions of Media* 
 * [MovieMap](http://www.themoviemap.com/), [ReelStreets](https://www.reelstreets.com/), [Movie-Locations](http://www.movie-locations.com/), [WhereDidTheyFilmThat](http://www.wheredidtheyfilmthat.co.uk/), [British-Film-Locations](http://www.british-film-locations.com/) - *Film Location Maps*
 
