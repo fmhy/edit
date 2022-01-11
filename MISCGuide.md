@@ -768,6 +768,7 @@
 * [Snap Map](https://map.snapchat.com/) - *Snap Chat Map*
 * [Flickr Map](https://www.flickr.com/map/) - *Flickr Map*
 * [U Meet Me Here!](https://www.umeetmehere.com/) - *Find Closest Point Between Two Locations*
+* [Where Is This](https://www.where-is-this.com/) - *Find Location of Place by Image*
 * [Maps We Love](https://www.esri.com/en-us/maps-we-love/gallery), [CoolMaps](https://coolmaps.esri.com/#0), [SoGeografia](https://www.sogeografia.com.br/Mapas/) or [/r/MapPorn](https://reddit.com/r/MapPorn) - *Multiple Maps* 
 * [Map It Up](https://map-it-up.netlify.app/) - *HQ Printable Maps*
 * [Human Terrain](https://pudding.cool/2018/10/city_3d/) - *Human Population Map*
@@ -961,6 +962,7 @@
 * [Redirector](https://einaregilsson.com/redirector/) - *Page Redirector*
 * [Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - *Download Manager Extensions*
 * [Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - *Video Download Managers*
+* [Vimeomate](https://vimeomate.com/) - *Vimeo Video Downloader*
 * [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - *Play Videos in Theater Mode*
 * [GlobalSpeed](https://github.com/polywock/globalSpeed) - *Set Default Video / Audio Speed*
 * [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Audio Recorder*
