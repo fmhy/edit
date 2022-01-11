@@ -84,6 +84,7 @@
 * [CGPERS](https://t.me/CGPERS) - *Udemy Courses / Telegram*
 * [Udemy Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons) - *Udemy Coupon Sites*
 * [GUdemyBot](https://t.me/GUdemyBot) - *Udemy Coupon Bot* 
+* [Fresh Coupons](https://github.com/KajanM/fresh-coupons) - *Automatically Apply Discount Coupons on Udemy Courses / [Chrome](https://chrome.google.com/webstore/detail/fresh-coupons/pbnfeejfjlmmjfgnmmfpalhlpjidlgie)*
 
 ***
 
@@ -140,7 +141,6 @@
 * [FreeCourseDL](https://freecoursedl.com/) - *Courses* 
 * [s28.bitdl.ir](http://s28.bitdl.ir/Video/) - *Courses*
 * [HackNation](https://hacksnation.com/) - *Courses*
-* [TutsNode](https://tutsnode.com/) - *Courses*
 * [FreeStudyWeb](https://freestudyweb.com/) - *Courses* 
 * [Google Drive Links](https://googledrivelinks.com/) - *Courses*
 * [CryptoTips](https://www.cryptotips.us/) - *Courses* 
@@ -625,13 +625,15 @@
 * [LizardPoint](https://lizardpoint.com/) - *Geography Quizzes* 
 * [The True Size](https://thetruesize.com/) - *Compare Country Size* 
 * [JoinUS World](https://www.joinusworld.org/) - *Korean Culture Q&A Site*
-* [Sanfoundry](https://www.sanfoundry.com/) - *Programming & Engineering Questions & Answers*
 * [Seeing Theory](https://seeing-theory.brown.edu/) or [Stat Trek](https://stattrek.com/) - *Statistics & Probability Tutorials* 
+* [The Engineering Toolbox](https://www.engineeringtoolbox.com/) - *Engineering Tools and Resources*
+* [Sanfoundry](https://www.sanfoundry.com/) - *Programming & Engineering Questions & Answers*
 * [CESDB](https://www.cesdb.com/) - *Civil Engineering Software*
+* [How a Car Works](https://www.howacarworks.com/) - *Car Mechanics / Automotive Engineering Guides* 
+* [Neptune](https://youtu.be/gTNVxHSemxA) or [ERS3D](http://www.ers3d.com/home/moduleInfo.do?moduleId=11&listId=92) - *Marine Engineering Room Simulator*
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - *Pendulum Simulator*
 * [Traffic Simulation](https://traffic-simulation.de/) - *Traffic Flow Simulation* 
 * [Bridge Command](https://www.bridgecommand.co.uk/) - *Bridge Command Ship Simulator*
-* [Neptune](https://youtu.be/gTNVxHSemxA) or [ERS3D](http://www.ers3d.com/home/moduleInfo.do?moduleId=11&listId=92) - *Marine Engineering Room Simulator*
 * [Sectional Anatomy](https://www.sectional-anatomy.org/) - *Cross Sectional Educational MRI / CT Scans*
 * [Ray Optics Simulation](https://ricktu288.github.io/ray-optics/) - *Light Reflection / Refraction Simulator*
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) or [Mindat](https://www.mindat.org/) - *Mineralogy Database* 
@@ -655,6 +657,7 @@
 * [LessWrong](https://www.lesswrong.com/) - *Develop Rationality*
 * [Art of Manliness](https://www.artofmanliness.com/) - *Develop Life Skills*
 * [TheChessWebsite](https://www.thechesswebsite.com/) - *Chess Strategy & Analysis*
+* [Chess Tempo](https://chesstempo.com/) - *Play and Learn Chess*
 * [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - *Wood Working Guides & Articles*
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - *Learn to Tie Knots* 
 * [Pol Art Folder](https://mega.nz/folder/rVcExIbB#VN9alzay0OrctggvEn1DUg) - *Historic European Art & Paintings*
@@ -663,7 +666,6 @@
 * [The First World War](https://www.firstworldwar.amdigital.co.uk/) - *WW1 Study Material*
 * [Earth 2050](https://2050.earth/) - *Future Predictions*
 * [AnimaGraffs](https://animagraffs.com/) - *Animated Infographs*
-* [How a Car Works](https://www.howacarworks.com/) - *Car Mechanics / Automotive Engineering Guides* 
 * [Economics of The Office](http://economicsoftheoffice.com/) - *Learn Economics via The Office*
 * [Morse Typing Trainer](https://morse.withgoogle.com/learn/) - *Morse Code Trainer* 
 * [Old Computer Museum](http://oldcomputers.net/) - *Computer History / Info* 
