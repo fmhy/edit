@@ -18,6 +18,7 @@
 * [FaresCD](https://www.farescd.com/) - *Video / Software / Games / Android*
 * [DirectApp](https://directapp.net/) - *Software / Android / Games*
 * [akwam](https://old.akwam.co/) - *Video / Audio / Software* 
+* [Sinbad](https://www.alsindibad.com/) - *Software / Android / iOS*
 * [Bramj](https://www.bramjfreee.com/) - *Software*
 * [mycima](https://mycima.video/) - *Movies / TV / Anime*  
 * [arabseed](https://arabseed.cam/) - *Movies / TV* 
@@ -268,6 +269,7 @@
 * [P2PFR](https://forum.p2pfr.com/) - *Piracy Discussion*
 * [Emuline](http://www.emuline.org/) - *Rom / Emulation Discussion*
 * [SubSynchro](https://www.subsynchro.com/), [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - *French Subtitles* 
+* [BonPatron](https://bonpatron.com/) - *French Spelling and Grammar Check*
 
 ## ▷ Downloading
 
@@ -275,9 +277,8 @@
 * [mega-p2p](https://www.mega-p2p.net/) - *Warez Lists*  
 * [Seekr](https://w1w.files-seekr.com/) - *Download Search Files*
 * [Zone Telechargement](https://www.zone-telechargement.work/) - *Video / Audio / Software / Games / Books / Magazines / Newpapers / Android*
-* [Tirexo](https://www2.tirexo.work/) - *Video / Audio / Software / Games / Books*
 * [WawaCity](https://www.wawacity.video/), [2](https://www.wawacity.vip/) - *Video / Audio / Books / Magazines / Software / Android / Use AdBlocker*
-* [Tirexo](https://www.tirexo.com/), [2](https://www2.tirexo.lol/) - *Video / Audio / Books / Roms / Software / Android*
+* [Tirexo](https://www.tirexo.com/), [2](https://www2.tirexo.lol/), [3](https://www2.tirexo.work/) - *Video / Audio / Books / Roms / Software / Android*
 * [Free-Telecharger](https://ww2.free-telecharger.org/) - *Movies / TV*  
 * [DBFree](http://dbfree.me/) - *Books*
 * [FRDownMags](https://fr.downmagaz.net/) - *Magazines*
@@ -456,12 +457,20 @@ French / General Torrent Tracker
 * [BDmusic](https://bdmusic23.bid/) - *Movies / TV*
 * [MKV Mad](https://www.mkvmad.pro/) - *Movies / TV*
 * [WorldFree4U](https://worldfree4u.city/) - *Movies / TV*
-* [HDHub4u](https://hdhub4u.cfd/) - *Movies*
+* [HDHub4u](https://hdhub4u.bar/) - *Movies*
+* [KatMovieHD](https://katmoviehd.nz/) - *Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)*
 * [MoviesRush](https://moviesrush.cam/) - *Movies*
+* [VegaMovies](https://vegamovies.ink/) - *Movies / [Telegram](https://vegadrive.xyz/join.php), [2](https://t.me/Vegamoviesgroup2)*
+* [MoviezAddiction](https://moviezaddiction.art/hollywood-movies/) - *Movies / TV / [Telegram](https://t.me/moviezaddiction3)*
 * [MKVHub](https://www.mkvhub.ws/) - *Movies / TV*
+* [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - *Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)*
 * [SouthFreak](https://southfreak.online/) - *Movies*
+* [Watch Online Movies](https://www.watchonlinemovies77.com.pk/) - *Movies*
 * [UncutHD](https://www.uncuthd.one/) - *Movies*
-* [Bolly4u](https://bolly4u.ninja/) - *Movies*
+* [HHD Movies](https://hhdmovies.pro/) - *[Telegram](https://t.me/+VozFopt7yyE4Y2Fl)*
+* [Bolly4u](https://bolly4u.ninja/), [2](https://bolly4u.blog/) - *Movies*
+* [9xflix](https://9xflix.one/) - *Movies*
+* [ExtraMovies](https://extramovies.town/) - *Movies*
 * [RemaxHD](https://remaxhd.org/) - *Movies / TV*
 * [MoviesVerse](https://moviesverse.cc/) - *Movies / TV / [Telegram](https://t.me/MoviesHomeOFFICIALS)* 
 * [Gophie](https://gophie.cam/) - *Movies / TV*
@@ -493,7 +502,9 @@ French / General Torrent Tracker
 * [WatchOnlineMovies](https://www.watchonlinemovies.net.pk/) - *Movies / TV*
 * [HindiLinks4u](https://www.hindilinks4u.to/), [2](https://hindilinks4u.pro/) or [3](https://hindilinks4u.io/)  - *Movies / TV*
 * [Movies4](https://www.movies4.com.pk/) - *Movies / TV* 
+* [FilmLinks4U](https://filmlinks4u.cc/) - *Movies / TV*
 * [DesiTVBox](https://www.desitellybox.me/) - *TV*
+* [UWatchFree](https://www.uwatchfree.do/) - *Movies / TV*
 * [OnlineMovies8](https://www.onlinemovies8.com.pk/) - *Movies* 
 * [PakBcn](http://www.pakbcn.live/) - *TV / Live*
 * [asiankdrama](https://asiankdrama.com/) - *Asian Drama*
@@ -815,6 +826,7 @@ French / General Torrent Tracker
 
 ## ▷ Downloading
 
+* [Super Warez](http://super-warez.eu/) - *Video / Audio / Software / Games / Books / NSFW*
 * [animezone](https://www.animezone.pl/) - *Anime*
 * [Portable Info](https://portable.info.pl/) - *Portable Software*
 
@@ -856,6 +868,9 @@ French / General Torrent Tracker
 * [Invetexto](https://www.invertexto.com/) - *Multiple Online Tools*
 * [LegendaOfficial](http://legendaoficial.net/), [LegendasDivx](https://www.legendasdivx.pt/), [Legendas.tv](http://legendas.tv/), [Legendas](https://legendas.co/), [Legendas.dev](https://legendas.dev/) or [Leganda-Zone](https://www.legendas-zone.org/) - *Subtitles* 
 * [legendasbrasil](https://legendasbrasil.org/) - *Subtitle Search App*
+* [MD Saude](https://www.mdsaude.com/) or [Tua Saude](https://www.tuasaude.com/) - *Health News*
+* [Dieta Emagrece](https://dietaemagrece.com.br/), [DicasPara](https://www.dicasparaperderpeso.com.br/) or [Beleza e Saude](https://belezaesaude.com/) - *Health*
+* [Uol](https://escolakids.uol.com.br/) - *Kids Learning*
 * [Portuguese Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_browser_games) 
 * [Atari2600](http://www.atari2600.com.br/) - *Browser Emulator*
 * [Racha Cuca](https://rachacuca.com.br/) - *Puzzles & Trivia*
@@ -864,6 +879,7 @@ French / General Torrent Tracker
 * [Universia](https://www.universia.net/) - *Portuguese University Search*
 * [CatalogoApp](https://catalogoapp.mobi/) - *Portuguese Product Catalog*
 * [dicionariompb](https://dicionariompb.com.br/) - *Top Song Charts*
+* [Jogorama](https://jogorama.com.br/) - *Game Index / Tips*
 
 ## ▷ Downloading
 
@@ -885,6 +901,7 @@ French / General Torrent Tracker
 * [OnlineCursoGatuitos](https://onlinecursosgratuitos.com/) - *Courses*
 * [escolaeducacao](https://escolaeducacao.com.br/estude-gratis/) - *Courses*
 * [SuporteNinja](https://suporteninja.com/download/) - *Courses*
+* [Mundo Ubuntu](https://www.mundoubuntu.com.br/) - *Courses*
 * [Jogatina](https://www.jogatina.com/) - *Android Games*
 
 ## ▷ Torrenting
@@ -933,6 +950,7 @@ French / General Torrent Tracker
 * [thepiratejogos](https://thepiratejogos.tk/) - *Games*
 * [torrentgames](https://www.torrentgames.info/) - *Games*
 * [SuperGamesTorrent](https://supergamestorrent.net/) - *Games*
+* [Games Antigos](https://gamesantigosoldgames.blogspot.com/) - *Games*
 * [GamesTorrents](https://gamestorrents.com.br/) - *Games*
 * [RomGamesTorrent](https://romsgamestorrent.blogspot.com/) - *Games*
 * [MusicasTorrent](https://www.musicastorrent.com/) - *MP3*
@@ -982,7 +1000,12 @@ French / General Torrent Tracker
 * [canaldoensino](https://canaldoensino.com.br/blog/) - *Courses*
 * [Academy.omie](https://academy.omie.com.br/) - *Courses*
 * [moocs.ggte](https://moocs.ggte.unicamp.br/) - *Courses*
+* [unespaberta](https://unespaberta.ead.unesp.br/) - *Courses*
+* [download-de-livros-gratis](https://download-de-livros-gratis.webnode.com/) - *Courses*
+* [canaldoensino](https://canaldoensino.com.br/) - *Courses*
+* [Cursos Online](https://gyncursos.com.br/) - *Courses*
 * [pensarcursos](https://www.pensarcursos.com.br/) - *Courses*
+* [Núcleo do Conhecimento](https://www.nucleodoconhecimento.com.br/) - *Courses*
 * [iestudar](https://iestudar.com/) - *Courses*
 * [openuped](https://www.openuped.eu/courses) - *Courses*
 * [escolavirtual](https://www.escolavirtual.gov.br/catalogo) - *Courses*
@@ -1074,9 +1097,14 @@ Portuguese / Streaming / Christian Music
 * [poesiaspoemaseversos](https://poesiaspoemaseversos.com.br/) - *Poetry*
 * [Poeta](http://poeta.ws/) - *Poetry*
 * [super.abril](https://super.abril.com.br/superarquivo/) - *Magazines*
+* [Jornais E Revistas](https://www.jornaiserevistas.com/) - *Magazines*
+* [VerCapas](https://www.vercapas.com.br/) - *Magazines*
 * [Revista Do Linux](http://augustocampos.net/revista-do-linux/index.html) - *Linux Magazine*
 * [jornaisbrasileiros](http://www.jornaisbrasileiros.net.br/) - *News App*
 * [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/) - *Development Tutorials*
+* [Toda Materia](https://www.todamateria.com.br/) - *Learning Material*
+* [Brasil Escola](https://brasilescola.uol.com.br/) - *Learning Material*
+* [Mundo Educacao](https://mundoeducacao.uol.com.br/) - *Math / History*
 * [acessaber](https://acessaber.com.br/) - *Math Lessons*
 * [WDL PT](https://www.wdl.org/pt/) - *Historical Document & Images*
 * [Obrasraras](https://obrasraras.usp.br/) - *Historical Documents*
@@ -1312,6 +1340,7 @@ Portuguese
 * [CompucaliTV](https://www.compucalitv.com/) - *Video / Software / Games*
 * [ZonaLeRoS](https://www.zona-leros.net/) - *Video / Games*
 * [GamesMega](https://gamesmega.net/) - *Games / Roms* 
+* [BajarJuegosPCgratis](https://bajarjuegospcgratis.com/) - *Games*
 * [divxonline](https://www.divxonline.tv/) - *Movies / TV* 
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - *Movies*
 * [SomosMovies](https://somosmovies.com/) - *Movies* 
@@ -1330,6 +1359,7 @@ Portuguese
 * [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
 * [RedVirtual](https://www.redvirtual.bid/) - *Courses*
 * [Tododescargas](https://tododescargas.net/) - *Software* 
+* [Artistapirata](https://www.artistapirata.com/) - *Software*
 * [ProgramsVirtualePC](https://www.programasvirtualespc.net/) - *Software*
 * [MuchosPortables](https://www.muchosportables.com/) - *Portable Software*
 * [VictorRaulRR](https://victorraulrr.info/) - *Modded APKs*
@@ -1517,6 +1547,7 @@ Portuguese
 
 # ► Multi Indian Languages
 
+* **[SkyMoviesHD](https://skymovieshd.news/)** - *Movies / TV*
 * [Indian Piracy Index](https://github.com/anymeofu/Indian-Piracy-Index) - *Piracy Site / Tool Index*
 * [0GoMovies](https://0gomovies.io/), [2](https://www.0gomovies.com/) - *Streaming / Movies / TV*
 * [khatrimazafull](https://khatrimazafull.show/) - *Streaming / Download / Movies*
@@ -1525,8 +1556,15 @@ Portuguese
 * [7MovieRulz](https://7movierulz.pe/) - *Streaming / Movies*
 * [1jalshamoviez](https://www.1jalshamoviez.info/) - *Download / Movies*
 * [MLWBD](https://mlwbd.shop/) - *Download / Movies*
+* [Movies Counter](https://moviescounter.se/) - *Download / Movies*
+* [FilmyGod](https://filmygod7.in/) - *Movies / [Telegram](https://t.me/+TT_cQkr00BnhM2eA)*
+* [CineVood](https://cinevood.sbs/) - *Download / Movies*
+* [SSR Movies](https://www.ssrmovies.city/) - *Download / Movies / [Telegram](https://t.me/SSRmovies2022), [2](https://telegram3.xyz/)*
+* [MkvMoviesPoint](https://mkvmoviespoint.cc/) - *Download / Movies / [Telegram](https://telegram.me/mkvpoint)*
 * [4MovieRulz](https://4movierulz.gg/) - *Download / Movies*
 * [1xCinema](https://1xcinema.com/) - *Download / Movies*
+* [AltMovies](https://altmovies.org/) - *Download / Movies / [Telegram](https://tttttt.me/bollyflixapp)*
+* [DownloadHub](https://downloadhub.plus/) - *Download / Movies / [Telegram](https://t.me/downloadhubcool1)*
 * [Pendujatt](https://www.pendujatt.net/) - *Download / Music*
 * [Indian Flac Songs](https://t.me/indianflacsongs) - *Download / Music*
 * [TamilBlasters](https://tamilblasters.art/) - *Torrent / Movies*
@@ -1536,6 +1574,7 @@ Portuguese
 * [Digital Library of India](https://dli.sanskritdictionary.com) - *Books*
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - *Radio*
 * [BotAllen](https://botallen.com/) - *Kodi Repo*
+* [PCPriceTracker](https://pcpricetracker.in/) - *Track PC Component Rupee Prices*
 * [IDCARDS.PW](https://www.idcards.pw/) - *Fake Indian ID Card Generator*
 
 ***
