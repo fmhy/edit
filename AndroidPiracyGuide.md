@@ -99,7 +99,7 @@
 # ► Android Emulators 
 
 * **[Nox](https://www.bignox.com/)** - *[Screenshot](https://i.imgur.com/VuFLWbW.jpg) / [Debloater](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29 )*
-* **[Anbox](https://anbox.io/)** or **[WayDroid](https://waydro.id/)** / [2](https://github.com/waydroid) - *Android Linux Emulator*
+* **[Anbox](https://anbox.io/)**, **[WayDroid](https://waydro.id/)** / [Git](https://github.com/waydroid) or  [Andronix](https://andronix.app/) / [Git](https://github.com/AndronixApp) - *Android Linux Emulator*
 * [XePlayer](http://www.xeplayer.com/) - *Fork of Nox / [Screenshot](https://i.imgur.com/qfmmwMB.jpg)* 
 * [GameLoop](https://www.gameloop.com/) - *[Screenshot](https://i.imgur.com/dLrEXCJ.png)*
 * [MuMu](https://www.mumuglobal.com/) - *[Screenshot](https://i.imgur.com/D8BBerb.png)*
@@ -370,6 +370,7 @@
 * [APK Vision](https://apkvision.com/) - *Untouched*
 * [APKTurbo](https://www.apkturbo.com/) - *Untouched*
 * [APK Award](https://apkaward.com/) - *Untouched*
+* [APK Sonic](https://apksonic.com/) - *Untouched*
 * [App Apks](https://www.appapks.net/) - *Untouched*
 * [APKMonk](https://www.apkmonk.com/) - *Untouched*
 * [APK Fab](https://apkfab.com/) - *Untouched*
@@ -417,6 +418,11 @@
 * [APK Swing](https://apkswing.com/) - *Modded*
 * [ModsOfApk](https://modsofapk.com/) - *Modded*
 * [GetModsAPK](https://getmodsapk.com/) - *Modded*
+* [MobApks](https://mobapks.com/) - *Modded*
+* [Modding United](https://moddingunited.xyz/) - *Modded / [Telegram](https://telegram.me/allapkforfree)*
+* [MHKTricks](https://mhktricks.org/) - *Modded*
+* [APKDownload](https://apkdownload.cc/) - *Modded*
+* [APKMos](https://apkmos.com/) - *Modded*
 * [DivyaNet](https://divyanet.com/) - *Modded*
 * [APKLoop](https://apkloop.com/) - *Modded*
 * [King Games](https://ludokinggame.com/) - *Modded*
@@ -722,7 +728,7 @@ RSS Player*
 # ► iOS Jailbreaking
 
 * **[Complete Jailbreak Chart](https://docs.google.com/spreadsheets/d/11DABHIIqwYQKj1L83AK9ywk_hYMjEkcaxpIg6phbTf0/)** - *Jailbreak Tools Index*
-* [Can I Jailbreak](https://canijailbreak2.com/), [2](https://iosninja.io/jailbreak-wizard-can-i-jailbreak) - *Check if your Phone can be Jailbroken* 
+* [Can I Jailbreak](https://canijailbreak2.com/) - *Check if your Phone can be Jailbroken* 
 * [PostBox](https://www.postbox.news/) - *Jailbreak News App / [Discord](https://discord.gg/maPagQDmnw)*
 * [/r/jailbreak](https://reddit.com/r/jailbreak) - *Jailbreaking Subreddit*
 * [Sideloading Beginners Guide](https://redd.it/orqzau) or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - *Sideloading Guide*
@@ -739,6 +745,7 @@ RSS Player*
 * [Meridian](https://meridian.sparkes.zone/) - *10.0-10.3.3 Jailbreak* 
 * [doubleH3lix](https://github.com/tihmstar/doubleH3lix) - *10.x 64bit Jailbreak*
 * [kok3shi](https://dora2ios.web.app/kokeshiJB.html) - *9.3-9.3.5 Semi-tethered Jailbreak*
+* [EtasonJB](https://etasonjb.tihmstar.net/) - *8.4.1 32-bit Jailbreak*
 * [IPA Apps](https://ipa-apps.me/) - *Jailbreak Tools & Apps*
 * [ap0110](https://ap0110.cf/) - *Autoexec Jailbreak*
 * [IPACandy](https://ipacandy.com/) - *Jailbreaking Tools*
@@ -927,7 +934,7 @@ RSS Player*
 * [Cydia](https://cydia.saurik.com/) - *App Store / [Paid Apps](https://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown) / [Updates](https://t.me/cydiaupdate) / [Share](https://sharerepo.stkc.win/)*
 * [BuildStore](https://builds.io/) - *App Store*
 * [AppStore](https://t.me/iOSAppsFree) - *Tweaked Apps*
-* [AltStore](https://altstore.io/) - *App Store / [Repo View](https://altsource.by.lao.sb/browse/) / [Alt Daeomon](https://repo.dynastic.co/package/altdaemon) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux )*
+* [AltStore](https://altstore.io/) - *App Store / [Repo View](https://altsource.by.lao.sb/browse/) / [Alt Daeomon](https://repo.dynastic.co/package/altdaemon) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux)*
 * [ioshaven](https://ioshaven.com/apps) - *App Store* 
 * [Signulous](https://www.signulous.com/) - *App Store / Sideloading*
 * [Repo Updates](https://www.ios-repo-updates.com/) - *App Repository Updates*
