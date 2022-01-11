@@ -91,6 +91,7 @@
 * [zentile](https://github.com/blrsn/zentile) - *On-demand Window Manager Tiling*
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/jmmaranan/forge) - *GNOME Tiling Extension*
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - *KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)*
+* [KGet](https://apps.kde.org/kget/) - *Download Manager*
 * [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) - *Google Drive Downloader*
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - *Mount GDrive on Linux*
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - *Linux File Search*
@@ -103,6 +104,7 @@
 * [Hexchat](https://hexchat.github.io/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/ ) - *IRC Clients*
 * [Linux-dash](https://github.com/afaqurk/linux-dash) - *Web-based System Dashboard*
 * [Sharenix](https://github.com/Francesco149/sharenix) or [MagicCap](https://magiccap.me/) - *Screenshot Tool*
+* [AV Linux](http://www.bandshed.net/avlinux/) - *Video / Audio Editor*
 * [Flowblade](https://github.com/jliljebl/flowblade) - *Video Editor*
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Image Editor* 
 * [Rapid](https://damonlynch.net/rapid/) - *Quick Linux Photo Importer*
@@ -231,7 +233,8 @@
 * [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/wiki/) - *Wiki for Linux Gaming*
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - *Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)*
 * [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) - *Install & Manage Proton-GE for Steam / Wine*
-* [Batocera.linux](https://batocera.org/) - *Retro Gaming Distro*
+* [Drauger OS](https://draugeros.org/go/) - *Desktop Gaming Distro*
+* [Batocera.linux](https://batocera.org/) or [Lakka](https://lakka.tv/) - *Retro Gaming Distro*
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - *Rust TUI for Steam*
 * [steam-cli](https://github.com/berenm/steam-cli) - *CLI for Steam*
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher*
@@ -361,6 +364,7 @@
 * [AppsTorrent](https://appstorrent.ru/) 
 * [NXMac](https://nxmac.com/)
 * [Pure Mac](https://www.pure-mac.com/ ) 
+* [Downloadies](https://www.downloadies.com/) 
 * [Macupdate](https://www.macupdate.com/) 
 * [Mac Torrents](https://www.torrentmac.net/) 
 * [MacTorrents](https://mactorrents.io/) 
