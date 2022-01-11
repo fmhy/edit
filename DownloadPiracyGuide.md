@@ -165,7 +165,7 @@
 
 ## ▷ Search Sites
 
-* **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - *Multi-Site Search*
+* **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) / [CSE 3](https://abhishek.wiki/torrentables/) - *Multi-Site Search*
 * **[ZippyShareSearch](https://zippysharesearch.com/)** or [ZippyShareFinder](https://zippysharefinder.com/) - *Search Zippyshare / [URL Parser](https://github.com/GrowAsguard/zippyshare_url_parser), [2](https://github.com/JrMasterModelBuilder/zs-extract)* 
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
 * [FilePursuit](https://filepursuit.com) - *[Discord](https://discord.gg/xRfFd8h)*
@@ -239,9 +239,14 @@
 * [File Croco](https://www.filecroco.com/) 
 * [Soft32](https://www.soft32.com/) 
 * [Mutaz.net](https://www.mutaz.net/)
+* [PC Wonderland](https://pcwonderland.com/) 
+* [SoftProber](https://softprober.com/) 
+* [SCloud](https://scloud.ws/) 
+* [MHKTricks](https://mhktricks.org/)
 * [AllPCWorlds](https://allpcworlds.com/) 
 * [MR9Soft](https://mr9soft.com/) 
 * [AlbasitSoft](https://albasitsoft.com/) 
+* irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ
 * [AIOsetup](https://t.me/aiosetup) - *Telegram* 
 * [Libreware](https://t.me/Libreware) - *Telegram* 
 * [raymondfreesoftware](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g)
