@@ -280,6 +280,7 @@
 * [Termux](https://termux.com/) - *Terminal Emulator / Linux Environment / [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/tareksander/termux-gui)* 
 * [Shelter](https://github.com/PeterCxy/Shelter) - *App Sandbox*
 * [Clima](https://f-droid.org/en/packages/co.prestosole.clima/), [The Fucking Weather](https://alcohollick.com/the-fucking-weather) or [GeometricWeather](https://github.com/geometric-weather-foss/GeometricWeather) - *Weather App* 
+* [Aftership](https://play.google.com/store/apps/details?id=com.aftership.AfterShip&hl=en&gl=US) - *Package Tracker*
 * [aiTTS](https://www.milmike.com/aitts-google-wavenet-voices-for-android-tts) - *Text to Speech* 
 * [Microsoft Edge Read Aloud](https://redd.it/l1fdh9) - *How to use Microsoft Read Aloud TTS on Android* 
 * [Copyhat](https://copyhat.com/) - *AI Writing Tool*
@@ -908,7 +909,7 @@ RSS Player*
 * [Success](https://eveningkid.com/success/) - *Productivity Booster*
 * [GGMorse](https://github.com/ggerganov/ggmorse) - *Morse Code Decoding App*
 * [PictureThis](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129) - *Plant Identifier*
-* [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id375589283) - *Delivery Tracker*
+* [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id375589283) or [Aftership](https://apps.apple.com/kg/app/aftership-package-tracker/id507014023) - *Delivery Tracker*
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - *Connect Mac Keyboard to Mobile Devices*
 * [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - *Control Android TV Box with iPhone*
 * [Swappa](https://swappa.com/imei) or [SickW](https://www.sickw.com/) - *IMEI, MEID, ESN Checker*
