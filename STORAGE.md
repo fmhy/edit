@@ -618,7 +618,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * [FireDM](https://github.com/firedm/FireDM) 
 * [Mipony](https://www.mipony.net/)
 * [SpeedBit](http://www.speedbit.com/) 
-* [BitComet](https://www.bitcomet.com/en) 
 * [FlashGet](http://www.flashget.com/index_en.html) 
 * [Westbyte](https://www.westbyte.com/ida/) 
 * [Xtreme Downlaod Manager](https://xtremedownloadmanager.com/) 
