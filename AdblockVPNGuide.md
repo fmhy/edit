@@ -306,6 +306,7 @@
 * **[PrivacySpy](https://privacyspy.org/)** - *Grades a Sites Privacy Policies* 
 * **[ACCOUNTKILLER](https://www.accountkiller.com/)** or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - *Find / Terminate Old Accounts* 
 * [What every Browser knows about you](https://webkay.robinlinus.com/) - *Browser Data Leak Demonstration*
+* [Anonymous Planet](https://anonymousplanet.org/media/image6.jpeg) - *Browser DNS and Web Privacy Info*
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - *Password Strength Checker*
 * [h8Mail](http://github.com/khast3x/h8mail) - *Multiple Data Breach Checks*
 * [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/) or [leakpeek](https://leakpeek.com/) - *Data Breach Search Engine* 
@@ -344,7 +345,7 @@
 * [Dark Launch Referer Test](https://www.darklaunch.com/tools/test-referer) - *Check Link Referrer*
 * [Anonymizer](https://www.lolinez.com/ ) - *Anonymize Links*
 * [Link Cleaner](https://linkcleaner.app/) - *Remove Tracking Elements / Extra Garbage from URLs*
-* [whoer](https://whoer.net/) or [f.vision](http://www.f.vision/) - *Check Network / Browser Security*
+* [whoer](https://whoer.net/), [encrypted-sni](https://www.cloudflare.com/ssl/encrypted-sni/) or [f.vision](http://www.f.vision/) - *Check Network / Browser Security*
 * [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [PixelScan](https://pixelscan.net/), [Unique Machine](https://uniquemachine.org/) or [AmIUnique](https://amiunique.org/) / [Timeline](https://amiunique.org/timeline) - *Browser Fingerprinting Test*
 * [fluxfonts](https://github.com/da2x/fluxfonts) - *Hide Unique Font Fingerprint*
 * [dataskydd](https://webbkoll.dataskydd.net/) or [Blacklight](https://themarkup.org/blacklight) - *Check what data-protecting measures a site has taken*
@@ -447,7 +448,7 @@
 
 # ► VPN
 
-* **[VPN Comparison Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml)**, [2](https://www.vpntierlist.com/), [3](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/), [4](https://privacymelon.com/stealth-vpn-guide/vpn-comparison-table/) - *Compare VPN Privacy Polices*
+* **[VPN Comparison Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml)**, [2](https://www.vpntierlist.com/), [3](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/), [4](https://privacymelon.com/stealth-vpn-guide/vpn-comparison-table/), [5](https://techlore.tech/vpnchart) - *Compare VPN Privacy Polices*
 * **[Mullvad](https://mullvad.net/)** - *[Pricing](https://i.imgur.com/LfjZ9G3.png) / [NetNS](https://github.com/chutz/mullvad-netns)*
 * **[Proton](https://protonvpn.com)** - *[Pricing](https://i.imgur.com/hkhZGg1.png) / No Torrenting w/ Free Version*
 * **[Windscribe](https://windscribe.com)** - *[Pricing](https://i.imgur.com/D7015rq.png) / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites) / Free Version Available / [Improved App](https://github.com/Windscribe/desktop-v2)*
