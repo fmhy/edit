@@ -356,6 +356,7 @@
 * **[Online Audio Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_online_audio_editors)** - *Edit Audio / Create Music Online*
 * **[Audio Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_download_apps)** - *Download Audio from Various Sites* 
 * **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
+* **[Equalizer APO](https://equalizerapo.com/)** - *Audio Equalizer / [Noise Suppression](https://github.com/werman/noise-suppression-for-voice)*
 * **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - *Audio Visualization Resource Index* 
 * **[Determine Audio File Quality](https://redd.it/3l0yxp)**, [Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](http://spek.cc/) or [Spectro](http://spectro.enpts.com/) - *Determine Quality of Audio Files*
 * **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)** - *Audio Compression Examples*
@@ -383,7 +384,6 @@
 * [AAFDCHDriverMod](https://github.com/AlanFinotty/AAFDCHDriverMod) or [Ultimate Realtek HD Audio Driver Mod](https://1drv.ms/f/s!AkGtxiGigudSzVLpSjYdvkAqrejL) - *Realtek Audio Driver*
 * [ASIO4ALL](https://www.asio4all.org/) - *ASIO Audio Driver*
 * [FXSound](https://www.fxsound.com/) - *Sound Booster & Equalizer*
-* [Equalizer APO](https://equalizerapo.com/) - *Audio Equalizer / [Noise Suppression](https://github.com/werman/noise-suppression-for-voice)*
 * [HeSuVi](https://sourceforge.net/projects/hesuvi/) - *Headphone Surround Virtualizations*
 * [REAL](https://github.com/miniant-git/REAL) - *Reduce Win 10 Audio Latency*
 * [easyeffects](https://github.com/wwmm/easyeffects) - *Audio Manipulation for PipeWire*
