@@ -649,6 +649,7 @@
 * [JSPyBride](https://github.com/extremeheat/JSPyBridge) - *Interoperate Node.js and Python*
 * [python-adb](https://github.com/google/python-adb) - *Python ADB + Fastboot Implementation*
 * [pipx](https://pypa.github.io/pipx/) - *Execute Python Binaries in Isolated Environments*
+* [Doppler](https://www.doppler.com/) - *Sync Environment Variables*
 * [AutoCode](https://autocode.com/) - *Instant Endpoints*
 * [Trunk](https://trunk.io/) - *Run Linters/Formatters/Checkers Simultaneously*
 * [Mega Linter](https://github.com/nvuillam/mega-linter) or [SonarCloud](https://sonarcloud.io/) - *Code Analyzer* 
