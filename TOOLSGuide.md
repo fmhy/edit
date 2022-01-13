@@ -894,7 +894,7 @@ General Reading Sites*
 
 ## ▷ Reddit Tools
 
-* **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) or [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - *Browser Extension /  [Feature List](https://redditenhancementsuite.com/features/)*
+* **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)** or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - *Browser Extension /  [Feature List](https://redditenhancementsuite.com/features/)*
 * **[redditlist](http://redditlist.com/)**, [sayit](https://anvaka.github.io/sayit/), [Vizit](http://redditstuff.github.io/sna/vizit/), [Map of Reddit](https://anvaka.github.io/map-of-reddit), [Subbed](https://www.subbed.org/), [RedditViz](https://rhiever.github.io/redditviz/) or [subreddits](http://subreddits.org/) - *Subreddit Indexes*
 * [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/) - *Related Subreddit Calculator*
 * /u/SaveVideo, [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://www.redditsave.com/), [redv.co](https://redv.co/) or [Reddit.tube](https://reddit.tube/) - *Download Reddit Videos* 
