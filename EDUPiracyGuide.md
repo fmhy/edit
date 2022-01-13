@@ -141,6 +141,7 @@
 * [FreeCourseDL](https://freecoursedl.com/) - *Courses* 
 * [s28.bitdl.ir](http://s28.bitdl.ir/Video/) - *Courses*
 * [HackNation](https://hacksnation.com/) - *Courses*
+* [TutsNode](https://tutsnode.com/) - *Courses*
 * [FreeStudyWeb](https://freestudyweb.com/) - *Courses* 
 * [Google Drive Links](https://googledrivelinks.com/) - *Courses*
 * [CryptoTips](https://www.cryptotips.us/) - *Courses* 
@@ -602,7 +603,7 @@
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - *Citation Analyzer*
 * [AMCharts](https://live.amcharts.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - *Chart Creator*
 * [AWW](https://awwapp.com/), [OpenBoard](https://openboard.ch/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - *Whiteboard*
-* [app.diagrams](https://app.diagrams.net/), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/) or [Gephi](https://gephi.org/) - *Graph / Diagram Creator*
+* [app.diagrams](https://app.diagrams.net/) / [Git](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/) or [Gephi](https://gephi.org/) - *Graph / Diagram Creator*
 * [Altium](https://www.altium.com/viewer/) - *Schematics Visualizer*
 * [Anki](https://apps.ankiweb.net/), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html) or [Flashcard Machine](https://www.flashcardmachine.com/) - *Flash Card Tool*
 * [Wolfram Cloud](https://www.wolframcloud.com/) - *Computational intelligence*
