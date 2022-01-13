@@ -1166,7 +1166,6 @@ General Reading Sites*
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - *YouTube Note Taking Tool*
 * [yt2pod](https://github.com/frou/yt2pod) - *Create Podcasts from YouTube Channels* 
 * [YouTube Comment Scraper](https://github.com/philbot9/youtube-comment-scraper-cli) - *YouTube Comment Scraping CLI* 
-* [YouTube first comment finder](https://first-comment.com/) - *Find First Comment on Video*   
 * [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - *YouTube Comment Search*
 * [Reddit Comments for YouTube](https://github.com/tayloroneill/Reddit-Comments-for-YouTube), [Reddit-Wherever](https://github.com/z0ccc/Reddit-Wherever) or [Karamel](https://chrome.google.com/webstore/detail/karamel-view-reddit-comme/halllmdjninjohpckldgkaolbhgkfnpe?hl=en) - *Replace YouTube Comments with Reddit Comments*
 * [YouTube Live Comments](https://addons.mozilla.org/en-US/firefox/addon/ytlc/) - *Show YouTube Live Comments during Playback* 
