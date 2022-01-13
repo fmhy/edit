@@ -253,6 +253,7 @@
 * [GeyserMC](https://geysermc.org/) - *Join Minecraft Java Servers with Bedrock Client / [Consoles](https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles)* 
 * [CraftyControl](https://craftycontrol.com/) or [Fork](https://www.fork.gg/) - *Minecraft Server Manager*
 * [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - *Minecraft Server Info*
+* [MCStalker](https://discord.gg/CB78nDfBeQ) - *Minecraft Whitelist Enforcement Tool*
 * [GeyserConnect](https://www.geyserconnect.net/) - *Connect Minecraft Bedrock to Java Servers*
 * [2Bored2Wait](https://github.com/themoonisacheese/2bored2wait) - *2B2T Queue Proxy*
 * [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization:zap:.283181/), [paper-optimization](https://eternity.community/index.php/paper-optimization/) or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - *Minecraft Server Optimization Guides*
