@@ -724,7 +724,7 @@
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - *Text / Code Collaboration Tools*
 * [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - *Cloud Platform Index*
 * [CodeSandbox](https://codesandbox.io/), [VSCodium](https://vscodium.com/), [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VSCode* 
-* [vscode.dev](https://vscode.dev/) - *VSCode in Browser*
+* [vscode.dev](https://vscode.dev/) - *VSCode in Browser / [Insider Build](https://insiders.vscode.dev/)*
 * [Open VSX Registry](https://open-vsx.org/) - *VSCode Editor Extensions*
 * [VSCodeThemes](https://vscodethemes.com/) - *VSCode Themes*
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - *Colorize VSCode Brackets*
