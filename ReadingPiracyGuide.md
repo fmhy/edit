@@ -876,7 +876,7 @@
 * [WebToons](https://www.webtoons.com/en/) - *Manga Webtoons*  
 * [AllMangasReader](http://allmangasreader.com/), [OpenComic](https://github.com/ollm/OpenComic) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - *Manager / Reader*
 * [Tachiyomi](https://github.com/Suwayomi)  - *Manga / Comic Reader / [Web Client](https://github.com/TachiWeb) / [Discord](https://discord.com/invite/tachiyomi)* 
-* [LANraragi](https://github.com/Difegue/LANraragi) - *Manga / Doujin Manager for NAS / [Discord[(https://discord.com/invite/aRQxtbg)*
+* [LANraragi](https://github.com/Difegue/LANraragi) - *Manga / Doujin Manager for NAS / [Discord](https://discord.com/invite/aRQxtbg)*
 * [CrossFace](https://crossface.cf/manga-reader/) - *Browser Comic / Manga Reader*
 * [manga-py](https://github.com/manga-py/manga-py) - *Python Line Manga Downloader* 
 * [Manga APIs](https://rentry.co/manga-apis) - *Manga Site API's*
