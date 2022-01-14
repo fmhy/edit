@@ -386,7 +386,7 @@
 * [GameDVA](https://gamedva.com/) - *Modded*
 * [AndroidRepublic](https://androidrepublic.org/) - *Modded*
 * [APKTops](https://www.apktops.ir/) - *Modded*
-* [ModDroid](https://moddroid.com/) - *Modded*
+* [ModDroid](https://moddroid.co/) - *Modded*
 * [Apk4Free](https://apk4free.org/) - *Modded / [Telegram](https://t.me/Apk4Free)*
 * [Android1](https://an1.com/) - *Modded* 
 * [APKBuffet](https://drive.google.com/drive/folders/1SxmAaB_dIswVsrKqtxOhymati-HaLYTT) - *Modded / [Requests](https://twitter.com/ipagarage?s=21)* 
