@@ -61,7 +61,7 @@
 * [AudionautiX](https://audionautix.com/) - *Mood based streaming*
 * [Khinsider](https://downloads.khinsider.com/), [Cirrus Retro](https://cirrusretro.com/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
 * [NSF j](http://nsf.nesbbs.com/) - *NES Game Music*
-* [OtakuPlay](https://otakuplay.moe/) - *Anime Soundtracks / [Discord](https://discord.gg/yCXJkbdCHt)*
+* [MusicDex](https://musicdex.org/) or [OtakuPlay](https://otakuplay.moe/) - *Anime Soundtracks / [Discord](https://discord.gg/yCXJkbdCHt)*
 * [Musicmap](https://musicmap.info/) - *Genealogy / History of Music Genres* 
 * [Random Song](https://randomsong.net/) or [ListenToThis](https://listentothis.nanoshinono.me/) - *Random Songs*
 * [The Nostalgia Machine](http://thenostalgiamachine.com/) or [bops.fm](https://bops.fm/) - *Random Songs by Year* 
