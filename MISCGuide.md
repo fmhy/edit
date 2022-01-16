@@ -775,7 +775,7 @@
 * [Flags of the World](https://i.redd.it/lxtu47hf5ll51.jpg) - *Worldwide Flag Map*
 * [US & CA License Plates](https://i.redd.it/ue2r7cdb2s861.png) - *US & CA License Map*
 * [European License Plates](https://i.redd.it/wcazzhjir8941.png) - *European License Map*
-* [DarkSky](https://maps.darksky.net/), [MSN Weather Map](http://www.msn.com/en-us/weather/maps) or [Ventusky](https://www.ventusky.com/) - *Weather Maps*
+* [DarkSky](https://maps.darksky.net/), [satellite-map.gosur](https://satellite-map.gosur.com/), [MSN Weather Map](http://www.msn.com/en-us/weather/maps) or [Ventusky](https://www.ventusky.com/) - *Weather Maps*
 * [Windy](https://www.windy.com/) or [WebGL-Wind](https://mapbox.github.io/webgl-wind/demo/) - *Wind Map* 
 * [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - *Global Jetstream Forcast Map*
 * [Air Now](https://gispub.epa.gov/airnow/) or [Breezometer](https://www.breezometer.com/air-quality-map/) - *Air Quality Map*
@@ -1127,6 +1127,7 @@
 * [Better OneTab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg) - *Merge & Organize Tabs*
 * [Popup Tab Switcher](https://chrome.google.com/webstore/detail/popup-tab-switcher/cehdjppppegalmaffcdffkkpmoflfhkc) - *Improved Tab Switching*
 * [Relative Bookmarks](https://github.com/duiker101/relative_bookmarks) - *Add Relative Bookmarks*
+* [Mercury Reader](https://mercury.postlight.com/reader/) - *Clear Clutter From Articles / [GitHub](https://github.com/postlight/mercury-parser)*
 * [Go Back in Time](https://chrome.google.com/webstore/detail/go-back-in-time/hgdahcpipmgehmaaankiglanlgljlakj) - *View Archived / Cached Webpages*
 * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en) - *Image / Video Album Downloader / [Script](https://openuserjs.org/scripts/indream/DownAlbum)* 
 * [BetterViewer](https://github.com/Ademking/Betterviewer) - *Improved Image Viewer*
@@ -1137,6 +1138,7 @@
 * [OpenDyslexic](https://chrome.google.com/webstore/detail/opendyslexic-for-chrome/cdnapgfjopgaggbmfgbiinmmbdcglnam) - *Increase Page Readability*
 * [SiteScrubber](https://chrome.google.com/webstore/detail/sitescrubber/ffadalgofahhohaciekjchkikcglcpla) - *Hide Offensive/Swear Words on Sites*
 * [Show Keys](https://chrome.google.com/webstore/detail/show-keys/bkcpmidbgmfbbeanejhepkjakagfaaon) - *Show Keys As You Type*
+* [Typio Form Recovery](https://typiorecovery.github.io/), [2](https://chrome.google.com/webstore/detail/typio-form-recovery/djkbihbnjhkjahbhjaadbepppbpoedaa) - *Autosave Input Data in Forms*
 * [Spoiled](https://lucasrowe.github.io/spoiled/) - *Customizable Phrase / Spoiler Blocker*
 * [Flip This](https://chrome.google.com/webstore/detail/flip-this/donljlliiecjcagcenoeohjmabfegkph?hl=en) - *Rotate Page & HTML Elements*
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej) - *Discover Similar Webpages* 
