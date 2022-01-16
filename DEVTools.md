@@ -210,13 +210,14 @@
 * [OpenML](https://www.openml.org/) - *Machine Learning Data*
 * [Kobra](https://kobra.dev/) - *Visual Programming Language for Machine Learning*
 * [Cyberbotics](https://cyberbotics.com/) - *Robot Simulator*
+* [devSwag](https://devswag.io/) - *Developer Giveaways*
 
 ***
 
 ## ▷ Site Development 
 
 * **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
-* [ZeroNet](https://zeronet.io/) - *Uncensorable Sites / [/r/Zeronet](https://www.reddit.com/r/zeronet/)*
+* [ZeroNet](https://zeronet.io/) or [Federalist](https://github.com/publiusfederalist/federalist) - *Uncensorable Sites / [/r/Zeronet](https://www.reddit.com/r/zeronet/)*
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/),  [xWebTools](https://www.xwebtools.com/) or [CSSAuthor](https://cssauthor.com/) - *Site Development Tools*
 * [Sympli](https://sympli.io/ ) - *Designer / Developer Collaboration Tool*
@@ -224,7 +225,7 @@
 * [Flux](https://www.runonflux.io/) - *Decentralized Cloud Infrastructure*
 * [Web Designer News](https://www.webdesignernews.com/) - *Web Design News*
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
-* [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [BulkLink](http://bulklink.org/), [SEO Tools Apps](https://www.seotoolsapps.com/) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization / [Extension](https://chrome.google.com/webstore/detail/ubersuggest-seo-and-keywo/nmpgaoofmjlimabncmnmnopjabbflegf)*
+* [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [BulkLink](http://bulklink.org/), [Cliper](https://www.cliper.site/), [SEO Tools Apps](https://www.seotoolsapps.com/) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization / [Extension](https://chrome.google.com/webstore/detail/ubersuggest-seo-and-keywo/nmpgaoofmjlimabncmnmnopjabbflegf)*
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) - *Web Debugging Proxy App*
 * [Tabler](https://tabler.io/) - *Site Admin Dashboard*
 * [Octopus](https://octopus.do/sitemap) - *Site Planning Tool*
@@ -408,6 +409,7 @@
 * [Booster](https://github.com/didi/booster) - *Mobile App Optimization*
 * [Mobbin](https://www.mobbin.design/) - *Mobile App Design Reference Library*
 * [Hmanager](https://play.google.com/store/apps/details?id=com.chsappz.hmanager) - *Manage Your Heroku Accounts*
+* [Kaffeine](http://kaffeine.herokuapp.com/) - *Heroku Auto Ping*
 * [Xcode](https://developer.apple.com/xcode/) - *Test and Build iOS / iPadOS Apps*
 * [IconKitchen](https://icon.kitchen/) or [AppIcon](https://appicon.co/)- *App Icon Generator*
 * [iOS Icon Gallery](https://www.iosicongallery.com/) - *iOS Icon Examples*
