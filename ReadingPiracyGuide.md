@@ -16,6 +16,7 @@
 * **[Audiobook Bay](http://audiobookbay.ws/)**, [2](http://audiobookbay.nl/), [3](http://www.audiobookbayabb.com/) - *Torrents / [Extension](https://addons.mozilla.org/en-US/firefox/addon/audiobookbay-magnet-assistant/)*
 * **[Tokybook](https://tokybook.com/)** - *Listen Online*
 * **[Zero Avenue](https://thezeroavenue.com/)** - *Listen Online*
+* **[Top 1000 Audiobooks](https://mega.nz/folder/h48HGAba#98YOtp3nhgDtKpeSO7PqSQ)** - *Audiobooks / Drive*
 * [Audiobook Drive](https://drive.google.com/drive/folders/1IsJTH4ElUg4fjngDNUlM1KPFmpfD_tl9) - *Audiobooks / Drive* 
 * [BlackPhoenix James Durden](https://mega.nz/folder/AZAhjSaL#3wzdEx3nPgzzVdVEqVc8nA) - *Audiobooks / Drive*
 * [HotAudiobooks](https://hotaudiobooks.com) - *Listen Online* 
@@ -304,6 +305,8 @@
 * [eSword](https://e-sword.net/) - *Christian Bible Desktop App*
 * [Bible](https://apps.apple.com/us/app/bible/id282935706) - *Christian Bible / iOS*
 * [Classics Ethereal Library](https://www.ccel.org/) - *Christian*
+* [TheBrickBible](https://thebrickbible.com/) - *The Bible Recreated with Lego*
+* [BibleEmoji]( http://www.bibleemoji.com/) - *Convert Bible Verses to Emojis*
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - *Enoch Translation*
 * [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) - *Quran Translation*
 * [English Torah](http://englishtorah.com/) - *Torah Translation*
@@ -425,6 +428,7 @@
 * [LearnCreative](https://learncreative.net/) - *IIT, JEE, NEET & AIIMS Material* 
 * [JEENEETBooks](https://www.jeeneetbooks.in/) - *IIT, JEE & NEET Material*
 * [ck12](https://www.ck12.org/)- *Interactive CK-12*
+* [premium_ebooks](https://t.me/premium_ebooks) - *Exam Books*
 * [Oxford Bookworms](https://t.me/OxfordBookworms) - *Books / Audiobooks / telegram*  
 * [Digital Libraries / Archives](https://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/) - *Online university libraries*
 * [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) - *Academic Repository Search*  
@@ -669,7 +673,7 @@
 * **[Dictionary Index](https://onelook.com/?d=all_gen)** 
 * **[OneLook](https://onelook.com/)** - *Multi Dictionary Search*
 * **[Merriam-Webster](https://www.merriam-webster.com/)** - *Dictionary / Thesaurus*
-* **[Wikipedia](https://www.wikipedia.org/)** - *Encyclopedia / [Read Only](http://static.wiki/) / [Text Extractor](https://github.com/attardi/wikiextractor)*
+* **[Wikipedia](https://www.wikipedia.org/)** or [WikiFox](https://wikifox.ml/) - *Encyclopedia / [Read Only](http://static.wiki/) / [Text Extractor](https://github.com/attardi/wikiextractor)*
 * **[Wiktionary](https://en.wiktionary.org)** or [EtymOnline](https://www.etymonline.com/) - *Etymologies*
 * **[Wikiquote](https://en.wikiquote.org)** - *Quote database*
 * **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - *Slang Word / Phrase Dictionary*
