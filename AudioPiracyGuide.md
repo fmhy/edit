@@ -68,6 +68,7 @@
 * [Map of Metal](http://mapofmetal.com/) - *Interactive Map of Metal History* 
 * [The Cultural Borders of Songs](https://pudding.cool/2018/06/music-map/?date=202102) - *#1 Songs from 3,000 Countries* 
 * [LostMyspace](http://lostmyspace.com/) - *Lost Myspace Songs* 
+* [Wacht](https://wacht.tv/) - *Music Video Upvoting*
 * [/r/Yedits](https://www.reddit.com/r/Yedits/) - *User-Made Remixes*
 * [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - *User-Made PluggnB Songs*
 * [BitMidi](https://bitmidi.com/) - *Stream / Download MIDI Files* 
@@ -131,7 +132,7 @@
 * [morsecode.me](http://morsecode.me/) - *Morse Code Radio / Communication*
 * [Worldwide Radio](http://forums.mozillazine.org/viewtopic.php?t=3039738) - *Radio Extension* 
 * [castero](https://github.com/xgi/castero) - *TUI Terminal Podcast Client*
-* [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) - *Podcast Player*
+* [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) or [GPodder](http://gpodder.org/) - *Podcast Client*
 * [Spotify Podcast Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders) - *Download Podcasts from Spotify*
 * [ListenLater](https://www.listenlater.fm/) - *Turn Articles into Podcasts* 
 * [ListenBox](https://listenbox.app/) - *Turn YouTube Video into Podcasts*
@@ -164,6 +165,7 @@
 * [Moszen](https://www.moszen.com/) - *Ambient* 
 * [Soundscape](https://soundescape.io/) - *Ambient*
 * [Soundrown](http://soundrown.com/) - *Ambient* 
+* [Relaxing Sounds](https://unifycosmos.com/relaxing-sounds/) - *Ambient*
 * [Whispr](https://www.whispr.tech/) - *Ambient*
 * [Noises Online](https://noises.online/) - *Ambient*
 * [A Soft Murmur](https://asoftmurmur.com/) - *Ambient* 
@@ -244,6 +246,7 @@
 * [The Last Disaster](https://thelastdisaster.vip/), [2](https://thelastdisaster.org/) - *MP3 / FLAC*
 * [SongsLover](https://songslover.vip/) - *MP3*
 * [FreshRemix](http://freshremix.ru/) - *MP3*
+* [VKM](https://denr01.com/vkm/) - *MP3 / User: anon / pass: 12345*
 * [nodata](https://nodata.tv/) - *MP3*
 * [Black Organization](https://blackorganizationmp3.wixsite.com/music) - *MP3*
 * [SoundClick](https://www.soundclick.com/default.cfm) - *MP3*
@@ -404,6 +407,7 @@
 * [RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/) - *Artist Recommendations by Genre*
 * [45Cat](http://www.45cat.com/) - *Vinyl Ratings / Reviews*
 * [World Spotify](https://www.worldspotify.com/) - *Daily Most Streamed Tracks by Country* 
+* [TapeFear](https://www.tapefear.com/) - *Spotify Song Discovery*
 * [Spotalike](https://spotalike.com/), [MagicPlaylist](https://magicplaylist.co/) or [RadioNewify](https://radionewify.com/) - *Spotify Playlist Generator*
 * [DailyPlaylists](https://www.dailyplaylists.com/) or [TuneMunk](https://www.tunemunk.com/) - *Spotify Playlist Sharing*
 * [MusitcTo](https://www.musicto.com/) - *Musician Curated Playlists*
