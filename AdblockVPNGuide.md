@@ -44,7 +44,6 @@
 * **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - *DNS Adblocking / self-hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Family Filter](https://ammnt.app/) / [Filters](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole)*
 * **[ahadns](https://ahadns.com/)** - *DNS Adblocking*
 * **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - *DNS Adblocking*
-* **[Adhole](https://adhole.org/)** - *DNS Adblocking*
 * **[YogaDNS](https://yogadns.com/)** - *DNS Adblocking*
 * [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html) - *DNS Adblocking*
 * [Pi-Hole](https://pi-hole.net/) - *DNS Adblocking / self-hosted / [Filter](https://firebog.net/), [2](https://github.com/hl2guide/Filterlist-for-AdGuard) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine) / [Antitelemetry](https://github.com/MoralCode/pihole-antitelemetry)*
@@ -159,7 +158,7 @@
 * **[Authy](https://authy.com/)** or [WinAuth](https://winauth.github.io/winauth/) - *Two-Factor Authentication*  
 * [Obsidian](https://obsidianapp.io/) - *OS X / iOS Two-Factor Authentication*
 * [Authenticator](https://authenticator.cc/) - *Generate Two-Factor Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)* 
-* [StrongPasswordGenerator](https://strongpasswordgenerator.com/), [ExpressVPN PW Generator](https://www.expressvpn.com/password-generator), [Clover](https://cloverleaf.app) or [Bitwarden PW Generator](https://bitwarden.com/password-generator/) - *Password Generators*
+* [StrongPasswordGenerator](https://strongpasswordgenerator.com/), [PassSnip](https://passnip.com/), [ExpressVPN PW Generator](https://www.expressvpn.com/password-generator), [Clover](https://cloverleaf.app) or [Bitwarden PW Generator](https://bitwarden.com/password-generator/) - *Password Generators*
 * [PaP](https://trypap.com/) - *Passive Aggressive Password Strength Check*
 * [Privacy / Safety Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_guides) - *Internet Privacy / Safety Guides* 
 * [Privacy.Sexy](https://privacy.sexy/) - *Privacy Scripts* 
@@ -181,6 +180,7 @@
 * [TorWall](https://github.com/basil00/TorWall) or [Whonix](https://www.whonix.org/) - *Use Tor to Encrypt Internet Traffic*
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - *List of Data Broker Opt-Out Resources* 
 * [Blur](https://dnt.abine.com/) - *Protect Passwords & Personal Information* 
+* [Plain Text Offenders](https://plaintextoffenders.com/) - *Sites That Don't Securely Store Passwords*
 * [Gauth](https://github.com/pcarrier/gauth) - *Google Authenticator for Laptops*
 * [F-Secure Identity Theft Checker](https://www.f-secure.com/en/home/free-tools/identity-theft-checker) - *Identity Theft Check*
 * [Name & Identity Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_name_.26amp.3B_identity_generators) - *Generate Fake Names / Identities* 
