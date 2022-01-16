@@ -155,6 +155,7 @@
 * [DarQ](https://www.apkmirror.com/apk/mighty-quinn-apps/darq/) - *Universal Dark Mode*
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - *Android Cleanup Tool*
 * [L3MON](https://github.com/D3VL/L3MON) - *Remote Android Manager*
+* [NetClicker](https://netclicker.tv/) - *Phone Browser Controller*
 * [Water Resistance Tester](https://play.google.com/store/apps/details?id=com.ray.waterresistancetester) - *Test Phones Water Resistance*
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - *Ringtones Directory*
 * [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) - *Theme Manager / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3)*
@@ -872,6 +873,7 @@ RSS Player*
 * [Alderis](https://github.com/hbang/Alderis) - *iOS Color Picker*
 * [Iterm](https://github.com/kaneki07/iterm) - *Terminal Emulator*
 * [Universal Control](https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879) - *Universal Remote*
+* [NetClicker](https://netclicker.tv/) - *Phone Browser Controller*
 * [Instdown](https://apps.apple.com/ca/app/instdown-video/id1452076756) - *Download Videos from Social Media* 
 * [Rhino](https://lemamichael.github.io/WhatIsRhino/) - *Tweaked Instagram Client*
 * [Twitter++](https://iosninja.io/ipa-library/download-twitter-plus-plus-ipa-ios) - *Tweaked Twitter App*
@@ -906,7 +908,7 @@ RSS Player*
 * [Reface](https://reface.app/) - *Create Face Swap Videos* 
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
 * [1 Second Everyday](http://1se.co/) - *1 Second Video Diary*
-* [Twobird](https://apps.apple.com/us/app/twobird/id1455545515) or [beorg](https://beorgapp.com/) - *To-Do App*
+* [Twobird](https://apps.apple.com/us/app/twobird/id1455545515), [ToDoToday](http://www.todotoday.co/) or [beorg](https://beorgapp.com/) - *To-Do App*
 * [Success](https://eveningkid.com/success/) - *Productivity Booster*
 * [GGMorse](https://github.com/ggerganov/ggmorse) - *Morse Code Decoding App*
 * [PictureThis](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129) - *Plant Identifier*
