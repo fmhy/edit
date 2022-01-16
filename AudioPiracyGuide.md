@@ -261,6 +261,7 @@
 * [RockDownload](https://www.rockdownload.org/) - *MP3*
 * [DeadPulpit](https://www.deadpulpit.com/) - *MP3*
 * [24NaiJamMuzic](https://www10.24naijamuzic.com/) - *MP3*
+* [frkmusic](https://www.frkmusic.site/) - *MP3*
 * [MuzBeat](https://muzbeat.org/) - *MP3*
 * [musify](https://musify.club/) - *MP3*
 * [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - *MP3*
@@ -346,11 +347,14 @@
 * [RnBXclusive](https://rnbxclusive1.org/) - *Hip-Hop / MP3 / FLAC*
 * [Rapload](https://rapload.org/) - *Hip Hop / MP3*
 * [HipHopa](https://hiphopa.net/) - *Hip Hop / MP3*
+* [JPFlac](https://jpflac.com/) - *Japanese / Korean / MP3 / FLAC*
+* [Kpop Stan](https://kpopstan.com/) - *KPop / MP3*
 * [MikuDB](http://mikudb.moe/) - *Vocaloid / MP3*
-* [Squid-Board](https://www.squid-board.ru/) / [2](https://www.squid-board.org/), [Все Саундтреки](http://xn--80adhccsnv2afbpk.xn--p1ai/), [DS Soundtrack](https://dsoundtrack.com/), [Download-Soundtracks](http://download-soundtracks.com/), [Audio-Track](https://www.audio-track.com/en), [3ost](https://3ost.ru/) or [tanikal](https://www.tanikal.com/) - *Soundtracks* 
+* [Squid-Board](https://www.squid-board.ru/) / [2](https://www.squid-board.org/), [Все Саундтреки](http://xn--80adhccsnv2afbpk.xn--p1ai/), [DS Soundtrack](https://dsoundtrack.com/), [Soundkino](https://soundkino.biz/), [Download-Soundtracks](http://download-soundtracks.com/), [Audio-Track](https://www.audio-track.com/en), [3ost](https://3ost.ru/) or [tanikal](https://www.tanikal.com/) - *Soundtracks* 
 * [SittingOnClouds](https://www.sittingonclouds.net/) / [Discord](https://discord.com/invite/x23SFbE) - *Anime / Game Soundtracks*
 * [AniPlaylist](https://aniplaylist.com/), [OSAnime](https://osanime.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - *Anime Soundtracks* 
 * [OtakuOst](https://otakuost.net/) - *Anime Soundtracks & Japanese Music* 
+* [DramaOST](https://dramaost.com/) or [KDramaOST](https://kdramaost.com/en) - *Asian Drama Soundtracks*
 * [Doujin Cafe](https://discord.com/invite/doujincafe) - *Doujin Music*
 * [lolicore](http://lolicore.org/) - *Doujin / Lolicore Music*
 * [Kiddie Records](http://www.kiddierecords.com/) - *Classic Children's Records*
