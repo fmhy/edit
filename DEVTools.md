@@ -39,6 +39,7 @@
 * [QuickRef.ME](https://quickref.me/), [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - *Developer Cheat Sheets*
 * [Cheat.sh](https://cheat.sh/) - *Command-Line Cheat Sheet*
 * [Programming Challenges](https://i.imgur.com/FPwNgOK.png) - *Challenges for Programmers*
+* [RIP Tutorial](https://riptutorial.com/) - *Programming / Coding Tutorials*
 * [Programiz](https://www.programiz.com/) - *Programming / Coding Tutorials*
 * [GeeksforGeeks](https://www.geeksforgeeks.org/) - *Programming / Coding Tutorials*
 * [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - *Coding Learning Resources*
