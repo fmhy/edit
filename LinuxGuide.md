@@ -102,6 +102,7 @@
 * [FlameGApps](https://github.com/flamegapps/flamegapps) - *Google Apps Installer*
 * [syncthing](https://syncthing.net/) or [maestral](https://maestral.app/) - *File Sharing App*
 * [Hexchat](https://hexchat.github.io/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/ ) - *IRC Clients*
+* [Ghetto Skype](https://github.com/stanfieldr/ghetto-skype) - *Video / Chat Client*
 * [Linux-dash](https://github.com/afaqurk/linux-dash) - *Web-based System Dashboard*
 * [Sharenix](https://github.com/Francesco149/sharenix) or [MagicCap](https://magiccap.me/) - *Screenshot Tool*
 * [AV Linux](http://www.bandshed.net/avlinux/) - *Video / Audio Editor*
@@ -111,6 +112,7 @@
 * [Drawing](https://github.com/maoschanz/drawing) - *Drawing App*
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer) - *YouTube Linux Client / [Fork](https://github.com/trizen/pipe-viewer)* 
 * [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - *GNU / Linux Twitch Desktop Client* 
+* [spotify-qt](https://github.com/kraxarn/spotify-qt) - *Lightweight Spotify Client*
 * [Librespot-Python](https://github.com/kokarare1212/librespot-python) - *Spotify TUI*
 * [Qtractor](https://qtractor.org/) - *Audio Editor*
 * [Ecasound](http://nosignal.fi/ecasound/) - *Multitrack Audio-Processor / Linux*
@@ -172,6 +174,7 @@
 * [MPR Packages](https://mpr.hunterwittenborn.com/)
 * [pacwall](https://github.com/Kharacternyk/pacwall) - *Live Wallpaper that shows Dependency Graph & Status of Installed Packages* 
 * [picom](https://github.com/yshui/picom) - *X11 Compositor*
+* [river](https://github.com/riverwm/river/), [wayfire](https://github.com/WayfireWM/wayfire/) or [sway](https://github.com/swaywm/sway/) - *Wayland Compositors*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
 * [Learn the Linux Command Line](https://mega.nz/folder/BlRVyArK#84n4ZhYZCRXLjt-KEP6u6g) or[LinuxCommand](https://www.linuxcommand.org/tlcl.php) - *Linux Command Line Lessons*
 * [shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial) - *Shell Scripting Tutorial*
@@ -350,6 +353,7 @@
 * [FileVault](https://support.apple.com/en-us/HT204837) - *Mac Disk Encryption* 
 * [OpenVPN](https://tunnelblick.net/) - *VPN Tunnel*
 * [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) - *Privacy-Based Email Client*
+* [spotify-adblock-macos](https://github.com/r1olo/spotify-adblock-macos) - *Mac Spotify Adblocker*
 
 ***
 
