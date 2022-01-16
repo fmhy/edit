@@ -246,7 +246,7 @@
 * [The Last Disaster](https://thelastdisaster.vip/), [2](https://thelastdisaster.org/) - *MP3 / FLAC*
 * [SongsLover](https://songslover.vip/) - *MP3*
 * [FreshRemix](http://freshremix.ru/) - *MP3*
-* [VKM](https://denr01.com/vkm/) - *MP3 / User: anon / pass: 12345*
+* [VKMusic](https://denr01.com/vkm/) - *MP3 / User: anon / pass: 12345*
 * [nodata](https://nodata.tv/) - *MP3*
 * [Black Organization](https://blackorganizationmp3.wixsite.com/music) - *MP3*
 * [SoundClick](https://www.soundclick.com/default.cfm) - *MP3*
