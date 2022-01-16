@@ -586,6 +586,7 @@
 * [IELTS69](https://www.ielts69.com/) - *IELTS Cambridge Practice Tests*
 * [GCE Guide](https://gceguide.com/) - *Cambridge Assessment Guide*
 * [ITExams](https://www.itexams.com/) - *IT Exam Collection*
+* [Physics and Maths Tutor](https://www.physicsandmathstutor.com/) - *UK High School Notes & Papers*
 * [The Problem Site](https://www.theproblemsite.com/) - *Problems / Puzzles / Games*
 * [PuzzlePrime](https://www.puzzleprime.com/) - *Problems / Puzzles*
 * [LateralPuzzles](http://www.lateralpuzzles.com/) - *Lateral Thinking Puzzles*
