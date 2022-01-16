@@ -1068,6 +1068,7 @@ Portuguese / Streaming / Christian Music
 * [Le-Livros](https://ler-livros.com/) - *Books*
 * [OnlineCursoGatuitos](https://onlinecursosgratuitos.com/) - *Books*
 * [SuporteNinja](https://suporteninja.com/download/) - *Books*
+* [Biblioteca Virtual](https://www.sp.senac.br/jsp/default.jsp?newsID=a21382.htm&testeira=386) - *Open Digital Libraries*
 * [culturaacademica](https://www.culturaacademica.com.br/) - *Educational Books*
 * [ArteHQs](http://www.artehqs.com.br/) - *Comics*
 * [TropaBRScans](https://tropabrscans.blogspot.com/) - *Comics*
@@ -1325,12 +1326,14 @@ Portuguese
 
 # ► Spanish
 
-* **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - *Spanish Telegram Channel Index*
+* **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - *Spanish Telegram Channel Index*https://github.com/publiusfederalist/federalist
+
 * [jogos10](http://www.jogos10.com/) or [Minijuegos](https://www.minijuegos.com/) - *Browser Games*
 * [EmojiTool](https://emojitool.com/) - *Emoji Database*
 * [Catflix](https://www.championcat.cl/catflix/) - *Cats!*
 * [Aprender Gratis](https://aprendergratis.es/) - *Spanish / File Tools*
 * [elblogdelnarco](https://elblogdelnarco.com/) - *Drug Trafficking News*
+* [Diccionario RAE en un clic](https://chrome.google.com/webstore/detail/diccionario-rae-en-un-cli/gejdeepcjkfbepfkcfdgiodgoglakiii) - *Dictionary Extension*
 * [GermanDeutsch](https://t.me/GermanDeutsch) - *Learn German*
  
 ## ▷ Downloading
