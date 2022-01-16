@@ -72,7 +72,7 @@
 * [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/) or [Random Lists](https://www.randomlists.com/) - *Generate Anything*
 * [Score Count](https://scorecount.com/) - *Online Sports Scoreboards*
 * [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - *Wheel Randomizer*
-* [PollCode](https://pollcode.com/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/) or [poal.me](https://poal.me/) - *Poll Creator*
+* [PollCode](https://pollcode.com/), [YoPolls](https://www.yopolls.com/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/) or [poal.me](https://poal.me/) - *Poll Creator*
 * [sli.do](https://www.sli.do/), [Feedbackr](https://www.feedbackr.io/) or [Trypingo](http://trypingo.com/) - *Live Polling Apps*
 * [Diff Checker](https://www.diffchecker.com/) - *Check Differences in Text, Images, PDFs or Files*
 * [Find Your Place](https://where-is-this.com/) - *Find Places from Pictures*
@@ -122,6 +122,7 @@
 * [GhostText](https://ghosttext.fregante.com/) - *Use Text Editor in Browser*
 * [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - *Calendar & Scheduling Tools*
 * [Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - *Note Taking & To-do Apps*
+* [ChecklistGenerator](https://checklistgenerator.co/) - *Checklist Generator*
 * [Scrapbox](https://scrapbox.io/) - *Write & link Notes, Docs & Pages*
 * [Manuskript](https://www.theologeek.ch/manuskript/) - *Writing Organizer & Planner*
 * [WorkFlowy](https://workflowy.com/) - *Work Organizer*
@@ -170,7 +171,7 @@
 * [Count Wordsworth](http://countwordsworth.com/) - *Count Words in a List* 
 * [OfficeDocs](https://www.offidocs.com/) - *Runs Desktop / Mobile Apps Online*
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - *Text / Code Collaboration Tools*
-* [Miro](https://miro.com/) - *Collaborative Whiteboard*
+* [Buffered.link](https://buffered.link/) - *Share Text Between Devices*
 * [Ethercalc](https://ethercalc.snopyta.org/), [Baserow](https://gitlab.com/bramw/baserow), [Framacalc](https://accueil.framacalc.org/en/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - *Collaborative Spreadsheet*
 * [TinySheet](https://tinysheet.com/) - *Simple Online Spreadsheets*
 * [Jamovi](https://www.jamovi.org/) - *Statistical Spreadsheets*
@@ -278,6 +279,7 @@
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - *Create TV Channels using Plex Library*
 * [Zoom Escaper](https://zoomescaper.com/ ) - *Self-Sabotage Video Calls to Escape Meetings*
 * [Live Curtain](https://livecurtain.com/) - *Countdown Curtain For Online Meeting*
+* [Greety](https://greety.co/) - *Send Video Christmas Cards*
 * [Avidemux](http://fixounet.free.fr/avidemux/) - *Cut / Filter / Encode* 
 * [vidcutter](https://github.com/ozmartian/vidcutter) - *Cut Videos* 
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts*
@@ -448,7 +450,7 @@
 * [Karaoke Maker](https://www.edityouraudio.com/karaoke-maker), [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - *Create Karaoke Songs*
 * [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/), [VoiceSpice](https://voicespice.com/) or [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Online Audio Recorder* 
 * [MP3Smaller](https://www.mp3smaller.com/) - *MP3 Compressor* 
-* [Audio Cutter](https://mp3cut.net/) - *Online Audio Cutter*
+* [MP3Food](https://mp3food.com/) - *Online Audio Cutter / Merger*
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts* 
 * [lalal.ai](https://www.lalal.ai/), [Flacon](https://flacon.github.io/) or [SongDonkey](https://songdonkey.ai/) - *Audio Track Splitter* 
 * [Get Song BPM](https://getsongbpm.com/) - *Song Tempo Database*
@@ -518,6 +520,8 @@
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - *Design Job Subreddit*
 * [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - *Career Guidance Subreddit*
 * [ReallyConfused](https://reallyconfused.co/) - *Career Roadmaps*
+* [The Dots](https://the-dots.com/events/search) - *Online Workshops, Courses & Meetups*
+* [Levels.fyi](https://www.levels.fyi/) - *Tech Career Salaries*
 * [Crypto Ecosystem 2021](https://docs.google.com/document/d/1RM7AoUKbXEqZ2qATTxGYLMexu3Jxrf3oYiwbsrXOXUQ) - *Beginner's Guide to Crypto Ecosystem*
 * [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - *Crypto Learning Resources*
 * [TryHackMe](https://tryhackme.com/), [AWS Training](https://www.aws.training/), [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html), [UI.com](https://www.ui.com/training/), [CryptoHack](https://cryptohack.org/) - *IT Training & Courses*
@@ -525,7 +529,7 @@
 * [Failory](https://www.failory.com/graveyard) - *Learn Why Startups & Products Failed*
 * [learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - *Cloud Computing Fundamentals*
 * [Candor](https://candor.co/hiring-freezes/) - *Hiring Freezes*
-* [Doozy](https://doozy.live/), [Slab](https://slab.com/) or [TipiCalls](https://tipicalls.com/) - *Collaboration Platform*
+* [Doozy](https://doozy.live/),  [Miro](https://miro.com/) , [Slab](https://slab.com/) or [TipiCalls](https://tipicalls.com/) - *Collaboration Platform*
 * [PHPCRM](https://www.phpcrm.com/) - *Company Management Software*
 * [Kimai](https://www.kimai.org/) - *Working Hours Tracker*
 * [Zeoob](https://zeoob.com/) - *Social Media Digital Marketing Post Simulator*
@@ -630,7 +634,7 @@
 * [Jitsi](https://desktop.jitsi.org/index.html), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [MiroTalk](https://mirotalk.up.railway.app/), [TinyChat](https://tinychat.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat* 
 * [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
 * [IMumble](https://www.imumble.nl/) - *Voice Chat Server*
-* [Gather](https://gather.town/) - *Virtual World Voice Chat*
+* [Gather](https://gather.town/), [OpenSimulator](http://opensimulator.org/) - *Virtual World Server*
 * [FireStorm Viewer](https://www.firestormviewer.org/) - *Virtual World Viewer*
 * [Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_sites) - *No Verification Required Email Sites*
 * [Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients) - *Send & Receive Mail*
@@ -656,7 +660,6 @@
 * [Indirect](https://www.microsoft.com/en-us/p/indirect/9phw4kj8jvnz) - *Instagram Desktop Messenger*
 * [Caprine](https://sindresorhus.com/caprine/) - *Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)* 
 * [SentRanker](https://sentranker.com/) - *Social Media Sentiment Scanner*
-* [SocialBanner](https://www.social-banner.live/) - *Social Media Banner Creator*
 * [Hamachi](https://vpn.net/) - *VPN / LAN Emulator*
 * [WikiStalk](https://github.com/altilunium/wistalk) - *Analyze Wikipedia User's Activity*
 * [InspectContent](https://inspectcontent.com/) - *Site Keyword Inspector*
@@ -741,6 +744,7 @@
 
 * **[Alternative Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_search_engines)** or **[Search-Engine](https://start.me/p/wM7y15/search-engine)** - *Search Engine Indexes*
 * **[Privacy Based Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
+* **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)** - *Custom Search Engine Index*
 * [100 Search Engines](https://www.100searchengines.com/) - *Search With 100 Search Engines*
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g#gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea#gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - *Search General Streaming Sites*
 *  [Video Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0) - *Search YouTube Like Video Sites*
@@ -851,6 +855,7 @@ General Reading Sites*
 * [Rebrandly](https://www.rebrandly.com/) - `rb.gy/4m25hq` / [Extension](https://mybrowseraddon.com/g-url-shortener.html)
 * [u.nu](https://u.nu/) - `u.nu/5nhzi`
 * [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
+* [offf.to](https://offf.to/)
 * [mpngin](https://github.com/thewalkingtoast/mpngin)
 * [Anonymiz](https://anonymiz.com/shorten-url) - *Anonymous URLs* - `anonymiz.com/vwiq`
 * [Anon.to](https://anon.to/) - *Anonymous URLs* - `anon.to/7SWqpG`
@@ -974,7 +979,7 @@ General Reading Sites*
 * [Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists) - *Discover Servers / Bots*
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - *Discord Tools*
 * [Ripcord](https://cancel.fm/ripcord/) - *Lighweight Discord & Slack Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ripcord_tools)* 
-* [ArmCord](https://github.com/ArmCord/ArmCord) - *Lightweight Discord Client*
+* [ArmCord](https://armcord.smartfridge.space/) - *Lightweight Discord Client / [GitHub](https://github.com/ArmCord/ArmCord)*
 * [Powercord](https://powercord.dev/) - *Anti-Telemetry Discord / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_powercord_tools)* 
 * [Dark-Discord](https://github.com/snappercord/Dark-Discord) - *Dark Theme for BetterDiscord & Powercord* 
 * [Powerconvert](https://convert.creatable.cafe/) - *Convert BetterDiscord themes to Powercord*
@@ -1524,6 +1529,7 @@ General Reading Sites*
 * [JScreenFix](https://www.jscreenfix.com/) or [UDPixel](http://udpix.free.fr/) - *Repair Stuck Pixels* 
 * [EIZO](https://www.eizo.be/monitor-test/) or [LCDTech](https://lcdtech.info/en/tests/) - *Display Performance Tests*
 * [TestUFO](https://www.testufo.com/) - *Monitor Framerate Test*
+* [All Black Screen](https://allblackscreen.com/) - *Make Screen Black*
 * [NVDA](https://www.nvaccess.org/download/) - *Screen Reader / [Github](https://github.com/nvaccess/nvda)* 
 * [Hosts File Editor](https://hostsfileeditor.com/) - *Windows Hosts File Editor*
 * [StreamPi](https://stream-pi.com/) or [FreeDeck](https://github.com/FreeYourStream/freedeck-hardware) - *ElGato Streamdeck Alternative*
@@ -1623,7 +1629,7 @@ General Reading Sites*
 * [Blackbox 4 Windows](http://blackbox4windows.com/) - *Custom Windows Shells / Widgets*
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - *Alt Windows Shells* 
 * [ValliStart](https://www.deviantart.com/jaxoriginals/art/ValliStart-Start-menu-replacement-893506095) - *Windows Start Menu Skin*
-* [FolderMarker](https://foldermarker.com/) - *Custom Folders & Markers*
+* [FolderMarker](https://foldermarker.com/) or [CustomFolder](https://www.gdzsoft.com/) - *Custom Folders & Markers*
 * [Win98Icons](https://win98icons.alexmeub.com/) - *Classic Win98 Icons*
 * [Cursors 4U](https://www.cursors-4u.com/) - *Cursors*
 * [Windows Sounds](https://winsounds.com/) or [Win11 Sounds](https://mega.nz/file/CpRkwTrD#9NihefiFDBirhwtXqSvjWAhrFzUPcJveCeePfWh1lmo) - *Windows Sound Schemes*
@@ -1687,7 +1693,7 @@ General Reading Sites*
 * [Adobe Compress PDF](https://www.adobe.com/acrobat/online/compress-pdf.html) - *PDF Compressor*
 * [PDF Mergy](https://pdfmerge.w69b.com/) - *Merge PDF Files*
 * [Adobe Word Converter](https://www.adobe.com/acrobat/online/word-to-pdf.html) - *Word to PDF Converter*
-* [VancedPDF](https://vancepdf.com/) - *PDF to Word Converter*
+* [VancedPDF](https://vancepdf.com/) or [PDFtoWordConverter](https://www.pdftowordconverter.org/) - *PDF to Word Converter*
 * [Adobe Excel to PDF](https://www.adobe.com/acrobat/online/excel-to-pdf.html) - *Convert Excel Files to PDF*
 * [JPG-to-PDF](https://github.com/praneetk2704/JPG-to-PDF) [Images to PDF](https://github.com/Swati4star/Images-to-PDF), [JPG2PDFBot](https://t.me/JPG2PDFBot), [Adobe Converter](https://www.adobe.com/acrobat/online/jpg-to-pdf.html) or [img2pdf](https://pypi.org/project/img2pdf/) - *Image to PDF Converter*
 * [PDFmyURL](https://pdfmyurl.com/) - *Convert Web Page to PDF* 
