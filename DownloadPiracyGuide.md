@@ -301,6 +301,8 @@
 * [4-Dots](https://www.4dots-software.com/free-software/)
 * [DonationCoder](https://www.donationcoder.com/) 
 * [AntibodySoftware](https://antibody-software.com/) 
+* [EnselSoftware](http://enselsoftware.com/download01.html)
+* [FreeDownloadManager](https://en.freedownloadmanager.org/)
 * [3nitySoftware](http://3nitysoftwares.com/index.php/en) 
 * [Antp](http://www.antp.be/) 
 * [FileEagle](https://www.fileeagle.com/) 
