@@ -143,8 +143,8 @@
 * [Vmovee](https://www.vmovee.watch/) - *Movies / TV*
 * [TinyZoneHD](https://tinyzonehd.net/) - *Movies / TV*
 * [GoWatchSeries](https://www1.gowatchseries.online/) - *Movies / TV / Anime* 
-* [HDO](https://w9.hdonline.eu/) - *Movies / TV / Anime* 
-* [Filmxy](https://www.filmxy.tv/), [2](https://www.filmxy.vip/) - *Movies*
+* [HDO](https://w10.hdonline.eu/) - *Movies / TV / Anime* 
+* [Filmxy](https://www.filmxy.pw/) - *Movies*
 * [MoviesXK](https://moviexk.biz/) - *Movies / TV*
 * [KissMovies](https://www.kissmovies.io/) - *Movies / TV*
 * [TamilRockerMovies](https://www.tamilrockermovies.cf/search/label/Hollywood) - *Movies*
@@ -177,6 +177,7 @@
 * [VidEmbed](https://vidembed.cc/) - *Movies / TV / Anime* 
 * [4MovieRulz](https://4movierulz.mn/category/hollywood-movie-2020/) - *Movies* 
 * [123Chill](https://123chill.to/) - *Movies / TV / Anime*
+* [123MoviesJR](https://123moviesjr.cc/) - *Movies / TV*
 * [123Movie](https://123movie.uno/) - *Movies / TV / Anime*
 * [123Moviesd](https://123moviesd.com/) - *Movies / TV*
 * [0123movies](https://watch0123movies.org) - *Movies / TV*
@@ -411,6 +412,7 @@
 * [/r/MMAFights](https://www.reddit.com/r/mmafights/) - *Videos / MMA*
 * [MMACore](https://www.mma-core.com/videos/home) - *Videos / MMA*
 * [AllTheBestFights](https://www.allthebestfights.com/) - *Videos / MMA / Boxing / K1*
+* [HD Matches](https://hdmatches.net/) - *Soccer Replays*
 * [Racing HD](http://www.racinghd.net/) or [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - *Racing Replays* 
 
 ***
@@ -895,6 +897,7 @@
 * [Movies Capstone Project](https://github.com/rounakbanik/movies) - *Movie Recommendations* 
 * [FilmFish](https://www.film-fish.com/) - *Movie & TV Recommendations* 
 * [Suggest Me Movie](https://www.suggestmemovie.com/) - *Movie Recommendations*
+* [agoodmovietowatch](https://agoodmovietowatch.com/) - *Movie Recommendations*
 * [MovieSync](https://movie-sync-app.web.app/) - *Movie Recommendations* 
 * [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - *Netflix TV Show / Movie Recommendations* 
 * [CouchMoney](https://couchmoney.tv/) - *Movie Recommendations for Trakt* 
@@ -1032,6 +1035,7 @@
 * [mkv-extract](https://qgustavor.github.io/mkv-extract/) - *Extract Subtitles from MKV Files*
 * [VideoSubFinder](https://sourceforge.net/projects/videosubfinder/) - *Hardcoded Subtitle Extractor*
 * [Subtitling Guide](https://baechusquad.download/guide/) - *Subtitling Guide*
+* [YukiSubs Guides](https://yukisubs.wordpress.com/guides/) - *Fansubbing & Encoding Guides*
 
 ***
 
