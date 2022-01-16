@@ -236,6 +236,7 @@
 * [GetFreeCourses](https://getfreecourses.co/) - *Courses*
 * [OnlineCourseBay](https://onlinecoursebay.com/) - *Courses* 
 * [DownloadFreeCourse](https://downloadfreecourse.com/) - *Courses*
+* [TutsGalaxy](https://tutsgalaxy.net/) - *Udemy Courses*
 * [UdemyTuts](https://udemytuts.com/) - *Udemy Courses* 
 * [My Free Courses](http://myfreecourses.com/) - *Udemy Courses*   
 * [UdemyDownload](https://udemydownload.com/) - *Udemy Courses*
@@ -482,6 +483,7 @@
 * [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap)- *Listen to Accents*
 * [Asian Script Differentiation Guide](https://i.imgur.com/yJPGS97.png) 
 * [Omniglot](https://omniglot.com/) - *Writing System & Language Encyclopedia*
+* [nimi mute](https://tp.lcp.su/nimi/) - *Toki Pona Dictionary*
 * [LexCity](http://lexicity.com/) - *Ancient Language Learning Tools & Resources*
 
 ***
@@ -602,10 +604,11 @@
 * [AskNature](https://asknature.org/) - *Natural Strategies / Solutions* 
 * [Citation Generator](https://www.citationgenerator.com/), [CitationMachine](https://citationmachine.net/) or [Cite This For Me](https://www.citethisforme.com/) - *Generate Citations / [Chrome](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)*
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - *Citation Analyzer*
-* [AMCharts](https://live.amcharts.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - *Chart Creator*
-* [AWW](https://awwapp.com/), [OpenBoard](https://openboard.ch/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - *Whiteboard*
+* [AMCharts](https://live.amcharts.com/), [Charttt](https://editor.charttt.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - *Chart Creator*
+* [AWW](https://awwapp.com/), [OpenBoard](https://openboard.ch/), [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - *Whiteboard*
 * [app.diagrams](https://app.diagrams.net/) / [Git](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/) or [Gephi](https://gephi.org/) - *Graph / Diagram Creator*
 * [Altium](https://www.altium.com/viewer/) - *Schematics Visualizer*
+* [Quizizz](https://quizizz.com/) - *Create Quizzes, Lessons, Flashcards & Presentations*
 * [Anki](https://apps.ankiweb.net/), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html) or [Flashcard Machine](https://www.flashcardmachine.com/) - *Flash Card Tool*
 * [Wolfram Cloud](https://www.wolframcloud.com/) - *Computational intelligence*
 * [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
@@ -647,6 +650,7 @@
 * [The Deep Sea](https://neal.fun/deep-sea/) - *Interactive Deep Sea Life Guide* 
 * [Life Under the Ice](https://lifeundertheice.org/) - *View Antarctic Microbes*
 * [Global Volcanism Program](https://volcano.si.edu/) - *Volcano Information Database*
+* [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) - *Mountain Visualizations & Info*
 * [Xeno-Canto](https://www.xeno-canto.org/) or [Birdnet](https://birdnet.cornell.edu/) - *Bird Sound Identifier* 
 * [Candide](https://candide.com/GB/identify-plants) - *Plant Identifier*
 * [Algodoo](http://www.algodoo.com/) - *Interactive Physics Tool*
