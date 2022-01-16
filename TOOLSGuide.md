@@ -98,7 +98,7 @@
 * [SlidesGo](https://slidesgo.com/), [SlideShareDownloader](https://slidesharedownloader.ngelmat.net/), [PresentationGO](https://www.presentationgo.com/), [ensa.io](https://ensa.io/) or [ThePOPP](https://thepopp.com/) - *Presentation Templates* 
 * [TemplateMaker](https://www.templatemaker.nl/) - *Package & Box Templates*
 * [WebQR](https://www.webqr.com/) - *QR Code Scanner*
-* [QR Tiger](https://www.qrcode-tiger.com/), [Logaster](https://www.logaster.com/qr-code-generator/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - *QR Code Generator* 
+* [QR Tiger](https://www.qrcode-tiger.com/), [QRCodeMonkey](https://www.qrcode-monkey.com/), [Logaster](https://www.logaster.com/qr-code-generator/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - *QR Code Generator* 
 * [QRpicture](https://www.qrpicture.com/) - *Picture to QR Code Converter* 
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - *Online Appraisals*
 * [findhelp.org](https://www.findhelp.org/) - *Find Assistive Programs*
@@ -399,6 +399,7 @@
 * [Monash IO](https://monash.io/) or [AudioRelay](https://audiorelay.net/) - *Stream PC Audio to Phone* 
 * [iPod.js](https://tannerv.com/ipod/) - *iPod Themed Web Music Player*
 * [Gelli](https://github.com/dkanada/gelli) - *Jellyfin Music Player* 
+* [Sonixd](https://github.com/jeffvli/sonixd) - *Subsonic/Jellyfin Compatible Desktop Music Player*
 * [Butterchurn Visualizer](https://butterchurnviz.com/) - *Audio Visualizer*
 * [MusicVid](https://musicvid.org/), [Vizzy](https://vizzy.io/) or [Specterr](https://specterr.com/) - *Create Audio Visualizers*
 * [yt2pod](https://github.com/frou/yt2pod) - *Create Podcasts from YouTube Channels* 
@@ -664,7 +665,7 @@
 * [Namechk](https://namechk.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Check Username / Domain Availability*
 * [Pyfunceble](https://pyfunceble.github.io/#/) or [Domainr](https://domainr.com/) - *Check IP / Domain Availability* 
 * [HostsDock](https://eshengsky.github.io/HostsDock/) - *Manage & Switch Hosts* 
-* [2ip.io](https://2ip.io/) / [2](https://2ip.me/) or [ViewDNS](https://viewdns.info/) - *Multiple IP Address Tools*
+* [2ip.io](https://2ip.io/) / [2](https://2ip.me/), [Hacker Target](https://hackertarget.com/ip-tools/) or [ViewDNS](https://viewdns.info/) - *Multiple Network Tools*
 * [IP Checkers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_checkers) - *Check Your IP Address*
 * [open-ports](https://www.yougetsignal.com/tools/open-ports/) or [CanYouSeeMe](https://canyouseeme.org/) - *Port Forwarding Tester*
 * [DownloadTestr](http://txti.es/downloadtestr) - *Download Test Files to Test Download Speed* 
@@ -1190,6 +1191,7 @@ General Reading Sites*
 * [Video Resumer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_resumer) - *Automatically resumes YouTube videos from where you played them last*
 * [ProgressBar Preserver](https://greasyfork.org/scripts/394512) - *Always Visible Progress Bar YouTube*
 * [Equalizer for YouTube](https://mybrowseraddon.com/equalizer-for-youtube.html) - *Audio Equalizer*
+* [songs-to-youtube](https://github.com/7x11x13/songs-to-youtube) - *Upload Audio to Youtube Automatically*
 * [Unhook](https://unhook.app/) - *Distraction Free YouTube*
 * [YouTube Watch Time Counter](https://chrome.google.com/webstore/detail/youtube-watch-time-counte/fpoooibdndpjcnoodfionoeakeojdjaj) - *Track Time Spent on YouTube*
 * [BlockTube](https://github.com/amitbl/blocktube) - *YouTube Content Blocker*
@@ -1225,6 +1227,7 @@ General Reading Sites*
 * [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - *Alt Twitch Player* 
 * [Twitch-Desktop](https://github.com/twitch-desktop/twitch-desktop) or [Orion](https://alamminsalo.github.io/orion/) - *Twitch Desktop Client* 
 * [Multi](https://multi.raredrop.co/), [Twitchmultivod](https://www.twitchmultivod.com/) or [TwitchTheater](https://twitchtheater.tv/) - *Watch Multiple Twitch Streams* 
+* [Tenami](https://www.tenami.tv/) - *Twitch Watch Parties*
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - *Fix Twitch Aspect Ratio*
 * [Chatterino](https://chatterino.com/), [Chatsen](https://chatsen.app/), [Chatterino Homies](https://chatterinohomies.com/) or [Chatty](https://chatty.github.io/) - *Twitch Chat Client*
 * [SpeechChat](https://speechchat.com/) - *Twitch Text to Speech Client*
@@ -1478,7 +1481,8 @@ General Reading Sites*
 * [Klotures](https://gitlab.com/jkushmaul/klotures) - *Desktop Icon Organizer / [Demo](https://gitlab.com/jkushmaul/klotures/raw/master/docs/KloturesDemo.webm)*
 * [QuickLook](https://github.com/QL-Win/QuickLook) - *macOS Quick Look for Windows* 
 * [AutoHotkey](https://www.autohotkey.com/), [MacroRecorder](https://www.macrorecorder.com/) or [AutoIt](https://www.autoitscript.com/) - *Task Automation Scripts / [Script Gen](https://www.ahkgen.com/)*
-* [Scheduler](https://www.splinterware.com/products/scheduler.html) - *System Task Scheduler*
+* [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](http://www.keyefficiency.com/) - *System Task Scheduler*
+* [Nomad](https://www.nomadproject.io/) - *App Deployment Automation / [GitHub](https://github.com/hashicorp/nomad)*
 * [cygwin](http://cygwin.com/) - *Linux Style Windows Tools*
 * [Menu11](https://github.com/prateekmedia/Menu11) - *Windows 11 Style Launcher*
 * [NeatMouse](https://neatdecisions.com/products/neatmouse/) - *Mouse / Keyboard Emulator*
@@ -1533,6 +1537,7 @@ General Reading Sites*
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/) or [MobaXterm](https://mobaxterm.mobatek.net/) - *Alternative Terminal* 
 * [ss64](https://ss64.com/) - *Command Line Reference Index*
 * [ZimTools](https://zimtools.xyz/) - *Command Line Tool Configs*
+* [Terminal Icons](https://github.com/devblackops/Terminal-Icons) - *File and Folder Icons in Terminal*
 * [Alacritty](https://github.com/alacritty/alacritty), [yakuake](https://apps.kde.org/yakuake/), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://eugeny.github.io/tabby/) or [Terminus](https://github.com/Eugeny/terminus) - *Terminal Emulator*
 * [XTerm](https://invisible-island.net/xterm/) - *X Window System Terminal Emulator*
 * [Mintty](http://mintty.github.io/) - *Cygwin Terminal Emulator* 
