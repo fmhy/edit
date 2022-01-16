@@ -162,6 +162,7 @@
 * [Techno360](https://www.techno360.in/category/free-stuff/) - *Software*
 * [yonokart](http://yonokart.com/) - *Software*
 * [AppDoze](https://www.appdoze.com/) - *Software*
+* [WinningPC](https://winningpc.com/) - *Software*
 * [Malwaretips Giveaways](https://malwaretips.com/forums/giveaways-promotions-and-contests.75/) - *Software*
 * [Net-Load](https://net-load.com/) - *Software*
 * [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - *Steam Games* 
@@ -251,7 +252,7 @@
 * [Brickit](https://brickit.app/) - *Scan Lego Collection for Build Ideas*
 * [Building Instructions](https://www.lego.com/en-us/service/buildinginstructions) - *Download Lego Instructions*
 * [Outside Simulator](https://outsidesimulator.com/) - *Simulate Being Outside* 
-* [Travel Remotely](https://travel-remotely.netlify.app/) or [Virtual Vacations](https://virtualvacation.us/) - *Traveling Simulator* 
+* [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [CityWalks](https://citywalks.live/) or [Virtual Vacations](https://virtualvacation.us/) - *Travel Simulator*
 * [Matterport](https://matterport.com/gallery) - *Explore Real Places Digitally*
 * [stringers.live](https://stringers.live/) - *Live Freelance Journalist Streams*
 * [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - *Open Random Windows*
@@ -320,6 +321,7 @@
 * [Hair on Screen](https://chrome.google.com/webstore/detail/hair-on-screen/egkikapjpndmjflbjjoondbihalgdjco) - *Fake Hair on Screen Prank*
 * [Speedtest Faker](https://jkctech.nl/projects/speedtest/) - *Fake Speedtest Results*
 * [Hacktyper](https://hackertyper.net/), [Hoacks](https://hoacks.com/) or [Geektyper](https://geektyper.com/) - *Fake Hacking Screen* 
+* [Busy Simulator](https://busysimulator.com/) - *Pretend You're Busy*
 * [Peter Answers](https://www.peteranswers.com/) - *Create Fake Questions & Answers / [Tutorial](https://peteranswers.info/peter-answers-hack)* 
 * [Deep Fried Web](https://deepfriedweb.mschfmag.com/) - *Deep Fry Web Pages*
 * [No Paint](https://nopaint.art/) - *Press "Paint" if you like what you see, "No" if you don't* 
@@ -498,6 +500,7 @@
 * [ChrisMckenzie](https://chrismckenzie.com/) - *:D D:*
 * [Is It A Cat?](https://isitacat.com/) - *Cat Image Detector* 
 * [Is It Christmas?](https://isitchristmas.com/) or [Is It Halloween Yet?](https://www.isithalloweenyet.com/) - *Find Out if it's a Holiday*
+* [Presence](https://presence.mrarich.com/) - *Unwrap Presents Remotely*
 * [The.Matrix-ASCII](http://takeovertheworld.org/matrix/) - *The Matrix Encoded in Text*
 * [sCandyBars](https://scandybars.com/) - *Candy Bar Photo Blog*
 * [ASCIIMATION](http://www.asciimation.co.nz/) - *Star Wars ASCII Animation*
@@ -536,6 +539,7 @@
 * [Google Alerts](https://www.google.com/alerts) - *News Alerts by Topics*
 * [Slower News](https://www.slowernews.com/) - *Breaking News*
 * [PublicAlerts](https://google.org/publicalerts) - *Important News / Disaster Alerts*
+* [Corona Hunt](https://coronahunt.app/) - *Coronavirus Stats*
 * [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Ars Technica](https://arstechnica.com/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
 * [Liliputing](https://liliputing.com/) - *Linux Mobile News*
 * [Latest Privacy](https://latestprivacy.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - *Privacy News*
@@ -579,6 +583,7 @@
 * [RecipeRadar](https://www.reciperadar.com/) - *Recipe Search*
 * [Recipe Retrieve](https://reciperetrieve.com/) - *Recipe Search*
 * [DotNom](http://www.dotnom.com/) - *Recipe Search*
+* [SuperCook](https://supercook.com/) - *Recipe Search*
 * [Yummly](https://www.yummly.com/) - *Recipe Search*
 * [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - *Food Image to Recipe Tool* 
 * [TasteAtlas](https://www.tasteatlas.com/) - *Recipe Map* 
@@ -713,7 +718,7 @@
 * [SPSS Tutorials ](https://www.spss-tutorials.com/) - *SPSS Practice & Examples*
 * [Fitocracy](https://www.fitocracy.com/) or [Timely-Fitness](https://github.com/Argentable/Timely-Fitness) - *Create Workout Plans*
 * [DAREBEE](https://darebee.com/) - *Fitness Plans / Workouts*
-* [Hevy](https://www.hevyapp.com/) - *Workout Tracker*
+* [Hevy](https://www.hevyapp.com/) or [FitHero](https://fithero.app/) - *Workout Tracker*
 * [OpenTrack](https://opentracksapp.com/) - *Sports Tracking App*
 * [GoldenCheetah](https://www.goldencheetah.org/) - *Biking Tracker*
 *  [Marcher](https://marcher.app/) or [MapMyWalk](https://www.mapmywalk.com/) - *Walking Tracker*
@@ -723,6 +728,7 @@
 * [Benefits of Good Posture](https://youtu.be/OyK0oE5rwFY) - *Posture Importance Lesson*
 * [PainSpot](https://www.painspot.com/) - *Pain Cause Identifier*
 * [INCIDecoder](https://incidecoder.com/) - *Skincare Ingredient Lists*
+* [Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine) - *Caffeine Calculator*
 * [Dehydration Color Chart](https://i.imgur.com/PpDgo5j.png) - *Urine Color Dehydration Chart*
 * [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - *Remedies for Sores on Tongue*
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - *Interactive Self Care Guide*
@@ -836,6 +842,7 @@
 
 * **[How to Download Fonts](https://redd.it/8tqfg6)**
 * [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [Getfancy](https://getfancy.io/), [Font Generator](https://www.toulr.com/other-tools/font-generator), [DiscordFonts](https://lingojam.com/DiscordFonts), [MessLetters](https://www.messletters.com/), [letrasdiferentes](https://letrasdiferentes.com.br/), [TextFancy](https://textfancy.com/), [Zalgo](http://eeemo.net/), [lingojam](https://lingojam.com/WeirdTextGenerator) or [fSymbols](https://fsymbols.com/generators/) - *Font Generator*
+* [Formito](https://formito.com/tools/logo) - *Typography Logo Maker*
 * [DaFont](https://www.dafont.com/)
 * [graphicex](https://graphicex.com/font/)
 * [FontSpace](https://www.fontspace.com/)
@@ -999,7 +1006,7 @@
 * [Survol](https://survol.me/) - *Preview Links* 
 * [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - *Page Change Detection / Notification* 
 * [Block Site](https://add0n.com/block-site.html) or [uBlacklist](https://github.com/iorate/uBlacklist) - *Block Websites*
-* [LeechBlock](https://www.proginosko.com/leechblock), [Forest](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_forest) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - *Site Blocker / Productivity Booster*
+* [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs), [Forest](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_forest) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - *Site Blocker / Productivity Booster*
 * [SuperStop](https://github.com/gavinsharp/SuperStop/) - *Stop Active Animations, Videos, JS, WebSocket & XHR*
 * [Nuke Anything](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nuke_anything) - *Block/Hide Anything on a Page*  
 * [NSFW-Filter](https://github.com/nsfw-filter/nsfw-filter) - *Block NSFW Images*
@@ -1131,6 +1138,7 @@
 * [Go Back in Time](https://chrome.google.com/webstore/detail/go-back-in-time/hgdahcpipmgehmaaankiglanlgljlakj) - *View Archived / Cached Webpages*
 * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en) - *Image / Video Album Downloader / [Script](https://openuserjs.org/scripts/indream/DownAlbum)* 
 * [BetterViewer](https://github.com/Ademking/Betterviewer) - *Improved Image Viewer*
+* [Vasai](https://chrome.google.com/webstore/detail/vasai-free-screen-recorde/ppbdhdggkcfgcghiaimfknmfemkegleo) - *Screen Recorder*
 * [L.O.C](https://chrome.google.com/webstore/detail/loc/eojdckfcadamkapabechhbnkleligand) - *Facebook Management Extension*
 * [Social Tools](https://chrome.google.com/webstore/detail/facebook-block-read-recei/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) - *Block "Sending" & "Seen" Facebook Chat Indicators* 
 * [Charcoal Dark Mode](https://chrome.google.com/webstore/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - *Facebook Messenger Dark Mode*
