@@ -149,6 +149,7 @@
 * [Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites) - *Download Icons for Projects*
 * [The Favicon Finder](https://besticon.herokuapp.com/) - *Find Favicons on Sites*
 * [Favicon Maker](https://formito.com/tools/favicon) - *Create Favicons*
+* [Phosphor Icons](https://phosphoricons.com/) - *UI Icons / [Github](https://github.com/phosphor-icons/phosphor-home)*
 * [Laws of UX](https://lawsofux.com/) - *Maxims / Principles for UI Designers* 
 * [UI Coach](https://uicoach.io/) - *UI Design Challenge Generator*
 * [HTML Dog](https://htmldog.com/) - *Front End Tutorials & Examples*
@@ -235,6 +236,7 @@
 * [UXTweak](https://www.uxtweak.com/) - *Website Design Usability Improvement Tool*
 * [Am I Responsive](http://ami.responsivedesign.is/) - *Responsive Design Checker*
 * [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) - *Compare Website Performance*
+* [Visual Mind AI](https://myraah.io/index.php/visualmind) - *Site Visual Score*
 * [Rest Test Test](http://resttesttest.com/) - *Test REST/CORS Services*
 * [httpbin](https://httpbin.org/) - *HTTP Request & Response Service*
 * [RemoteMySQL](https://www.remotemysql.com/) - *Remote MySQL Database*
@@ -245,13 +247,13 @@
 * [Site Analytics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_analytics) - *Traffic Stats & Info*
 * [HITS](https://hits.seeyoufarm.com/) - *Website Traffic Badges*
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) - *Meta Tag Generator*
-* [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/), [IPV4Info](http://ipv4info.com/),  [Network Tools](https://network-tools.com/) or [WebsiteScoop](https://websitescoop.com/) - *Domain Info / IP Tools*
+* [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/), [IPV4Info](http://ipv4info.com/), [Network Tools](https://network-tools.com/) or [WebsiteScoop](https://websitescoop.com/) - *Domain Info / IP Tools*
 * [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Username Availability Check*
 * [Pyfunceble](https://pyfunceble.github.io/#/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/) or [Domainr](https://domainr.com/) - *Domain Availability Check* 
 * [WorthBuck](https://worthbuck.com/) - *Domain Price Estimations*
 * [NetLib.re](http://netlib.re/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - *Free Subdomains* 
 * [TheDev](https://thedev.id/) or [Dev.page](https://dev.page/) - *Free Developer Subdomains*
-* [StatPing](https://github.com/statping/statping) - *Site Uptime Monitor*
+* [StatPing](https://github.com/statping/statping) or [Better Uptime](https://betteruptime.com/) - *Site Uptime Monitor*
 * [UseMe](https://useme.org/) - *Ping Website*
 * [Measure](https://web.dev/measure/) - *Site Functionality Testing*
 * [Testmail](https://testmail.app/) - *Site Signup Test*
@@ -630,7 +632,7 @@
 * [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - *Source Code Converters*
 * [OctoLinker](https://octolinker.vercel.app/) - *Turn Code Statements into Links / [Github](https://github.com/OctoLinker/OctoLinker)*
 * [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - *Emacs Packages*
-* [WebDen](https://webden.dev/) - *Code Playground*
+* [WebDen](https://webden.dev/) or [CodeEval](https://www.codeeval.dev/) - *Code Playground*
 * [I run code](https://github.com/engineer-man/piston-bot) - *Evaluate Code Snippets via Discord*
 * [Shell Cloud](https://shell.cloud.google.com/) - *Google Cloud Shell Environment*
 * Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Config](https://github.com/ChristianChiarulli/LunarVim)
