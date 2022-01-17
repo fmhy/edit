@@ -284,7 +284,7 @@
 * [ss64 OSX](https://ss64.com/osx/) - *macOS Bash Commands*
 * [Orion](https://browser.kagi.com/downloads/Orion.dmg) - *Webkit Browser with Chrome & Firefox extensions / [Discord](https://discord.gg/E9EKaPZR)*
 * [Strongbox](https://strongboxsafe.com/) *Password Manager*
-* [Drafts](https://getdrafts.com/) or [Voodoopad](http://www.voodoopad.com/) - *Text Editor / Notes*
+* [Drafts](https://getdrafts.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770) or [Voodoopad](http://www.voodoopad.com/) - *Text Editor / Notes*
 * [Taskpaper](https://www.taskpaper.com/) - *To-Do App*
 * [Stroke](https://stroke.lllllllllllllllll.com/) - *Text (You Can't Delete) Editor*
 * [BibDesk](https://bibdesk.sourceforge.io/) - *Bibliography Manager*
