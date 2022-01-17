@@ -295,7 +295,7 @@
 * [JacksonPollock](https://www.jacksonpollock.org/) - *Splatter Painting / Click to Change Color*
 * [paint.wtf](https://paint.wtf/) - *Have an AI Judge your Art* 
 * [ArtVote](https://artvote.net/) - *Judge Art*
-* [MakePrintPlay](https://makeprintplay.com/) - *Crossword Puzzle Creator*
+* [MakePrintPlay](https://makeprintplay.com/) or [XWords](https://www.xwords-generator.de/en) - *Crossword Puzzle Creator*
 * [MakeAWordSearch](http://www.makeawordsearch.net/) - *Word Search Creator*
 * [JamisBuck](https://www.jamisbuck.org/mazes/) - *Maze Algorithms*
 * [Windows XP Error Worm](https://ybenbihi.github.io/windows-error-worm/) - *Click & Drag Windows Errors* 
@@ -764,7 +764,7 @@
 * [Snazzy Maps](https://snazzymaps.com/) - *Google Maps Themes*
 * [MapChannels](https://www.mapchannels.com/) - *Mapping / Navigation Tools* 
 * [OldMapsOnline](https://www.oldmapsonline.org/) - *Historical Maps Tool* 
-* [Loc Maps](https://www.loc.gov/collections/general-maps/) - *Historical Maps*
+* [Loc Maps](https://www.loc.gov/collections/general-maps/) or [Cronobook](https://cronobook.com/) - *Historical Maps*
 * [Historic Borders](https://historicborders.app/) - *Historic Borders Map*
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
 * [American Panorama](https://dsl.richmond.edu/panorama/) - *Interactive US Historical Maps*
@@ -1117,6 +1117,7 @@
 * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) or [Volume Master](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - *Increase Browser Volume*
 * [Poster](https://install.get-poster.com/) - *Quick Link Share*
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - *Download Multiple Links at Once* 
+* [Multimedia Search](https://multimediasearchapp.com/) - *Browser File Search*
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
 * [Headless-Recorder](https://github.com/checkly/headless-recorder) or [automa](https://github.com/kholid060/automa) - *Browser Automation*
