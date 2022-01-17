@@ -771,7 +771,7 @@ RSS Player*
 * [BlobSaver](https://github.com/airsquared/blobsaver) - *GUI for Saving SHSH Blobs*
 * [TSSChecker](https://github.com/tihmstar/tsschecker) - *Check TSS Signing Status*
 * [FutureRestore](https://github.com/tihmstar/futurerestore) - *Restore to Unsigned Firmware / [GUI](https://github.com/CoocooFroggy/FutureRestore-GUI/)*
-* [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app), [Saily](https://github.com/SailyTeam/Saily) or [Zebra](https://getzbra.com/) - *APT Package Manager / [Website](https://getsileo.app/)*
+* [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app), [AppTapp Installer](https://apptapp.me/repo) / [Discord](https://discordapp.com/invite/kkwKTB8), [Saily](https://github.com/SailyTeam/Saily) or [Zebra](https://getzbra.com/) - *APT Package Manager / [Website](https://getsileo.app/)*
 * [Icy](https://github.com/ArtikusHG/IcyInstaller3) - *DPKG Installer*
 
 ***
@@ -917,7 +917,6 @@ RSS Player*
 * [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - *Control Android TV Box with iPhone*
 * [Swappa](https://swappa.com/imei) or [SickW](https://www.sickw.com/) - *IMEI, MEID, ESN Checker*
 * [FutureStore](https://github.com/tihmstar/futurerestore) - *SEC & Baseband Restoring Wrapper*
-* [AppTapp](https://apptapp.me/repo) - *iOS Package Manager*
 * [Mildred](https://apps.apple.com/us/app/mildred/id1522800022) - *Docker Client*
 * [Dragon](https://github.com/DragonBuild/dragon) - *Darwin Buildsystem / Toolkit*
 
