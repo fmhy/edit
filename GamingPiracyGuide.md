@@ -92,7 +92,7 @@
 * **[DODI](http://dodi-repacks.site/)** - *[Discord](https://discord.gg/uE273qJ)*
 * **[ScOOter Repacks](https://scooter-repacks.site/)** - *[Discord](https://discord.gg/BWKyN8SgvM)*
 * **[ElAmigos Games](https://elamigos.site/)**, [2](https://www.elamigos-games.com/) 
-* **[Xatab Repack](https://b.otxataba.net/), [2](https://x5.xatab-repack.com/)**
+* **[Xatab Repack](https://b.otxataba.net/)**, [2](https://s1.otxatabanet.ru/), [3](https://m.byxatab.com/)
 * **[RePack.info](https://repack.info/)**
 * **[Tuttop](https://tuttop.com/)** 
 * [KaOsKrew](https://www.kaoskrew.org/)
@@ -569,6 +569,7 @@
 * [AllBad.Cards](https://allbad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - *Cards Against Humanity Online* 
 * [Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards) - *Card Games Index*
 * [WorldOfCardGames](https://worldofcardgames.com/), [247Games](https://www.247games.com/) or [World of Solitaire](https://worldofsolitaire.com/) - *Card Games*
+* [Solitaired](https://solitaired.com/) - *Solitaire *
 * [Blackjack Break](https://blackjackbreak.com/) - *Browser Blackjack*
 * [Mah-Jongg](https://www.mah-jongg.ch/) - *Mahjongg Solitaire Games*
 * [Poker Now](https://www.pokernow.club/), [LiPoker](https://lipoker.io/) or [247 Free Poker](https://www.247freepoker.com/) - *Multiplayer Poker*
@@ -597,6 +598,7 @@
 * [babble.xyz](https://babbl.xyz/) - *Infinite Scrabble*
 * [WordHub](https://wordhub.com/) - *Scrambled Word Game*
 * [Divergent Association Task](https://www.datcreativity.com/task) - *Unrelated Word Game*
+* [Oh, My Dots!](https://www.ohmydots.com/) - *Connect the Dots Game*
 * [eWordChallenge](https://www.ewordchallenge.net/) - *Multiplayer Boggle*
 * [Click Click Click](https://clickclickclick.click/) - *Browser Based Clicking Puzzle*
 
