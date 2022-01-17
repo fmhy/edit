@@ -467,6 +467,7 @@ French / General Torrent Tracker
 * [SouthFreak](https://southfreak.online/) - *Movies*
 * [Watch Online Movies](https://www.watchonlinemovies77.com.pk/) - *Movies*
 * [UncutHD](https://www.uncuthd.one/) - *Movies*
+* [OlaMovies](https://olamovies.fun/) - *Movies / TV / [Telegram](https://t.me/olamovies_official)* 
 * [HHD Movies](https://hhdmovies.pro/) - *[Telegram](https://t.me/+VozFopt7yyE4Y2Fl)*
 * [Bolly4u](https://bolly4u.ninja/), [2](https://bolly4u.blog/) - *Movies*
 * [9xflix](https://9xflix.one/) - *Movies*
@@ -506,6 +507,7 @@ French / General Torrent Tracker
 * [DesiTVBox](https://www.desitellybox.me/) - *TV*
 * [UWatchFree](https://www.uwatchfree.do/) - *Movies / TV*
 * [OnlineMovies8](https://www.onlinemovies8.com.pk/) - *Movies* 
+* [FilmyBro](https://filmybro.com/) - *Movies*
 * [PakBcn](http://www.pakbcn.live/) - *TV / Live*
 * [asiankdrama](https://asiankdrama.com/) - *Asian Drama*
 * [Dead Toons India](https://deadtoonsindia.net/) - *Cartoons / Anime* 
@@ -823,6 +825,7 @@ French / General Torrent Tracker
 # ► Polish 
 
 * [StreamBase](https://thesb.eu/) - *Warez List / [GitHub](https://github.com/RugFlipper/streambase) / [Discord](https://discord.gg/3wQ3WQabEp) / [Request](https://www.wykop.pl/ludzie/RugFlipper/)*
+* [GSM Forum](https://gsmx.pl/) - *Android Forum*
 
 ## ▷ Downloading
 
@@ -1551,10 +1554,13 @@ Portuguese
 # ► Multi Indian Languages
 
 * **[SkyMoviesHD](https://skymovieshd.news/)** - *Movies / TV*
+* **[Einthusan](https://einthusan.tv/)** - *Streaming / Movies / Music*
 * [Indian Piracy Index](https://github.com/anymeofu/Indian-Piracy-Index) - *Piracy Site / Tool Index*
 * [0GoMovies](https://0gomovies.io/), [2](https://www.0gomovies.com/) - *Streaming / Movies / TV*
 * [khatrimazafull](https://khatrimazafull.show/) - *Streaming / Download / Movies*
 * [JioRockers](http://www.jiorockers.uk/) - *Streaming / Movies*
+* [TamilRockers](https://www.tamilrockermovies.org/) - *Streaming / Torrent / Movies*
+* [HiidudeMoviez](https://ww1.4hiidude.me/) - *Streaming / Torrent / Movies / [Telegram](https://telegram.me/hiidudemoviez)*
 * [v100v.net](https://www.v100v.net/) - *Streaming / Movies*
 * [7MovieRulz](https://7movierulz.pe/) - *Streaming / Movies*
 * [1jalshamoviez](https://www.1jalshamoviez.info/) - *Download / Movies*
@@ -1571,8 +1577,7 @@ Portuguese
 * [Pendujatt](https://www.pendujatt.net/) - *Download / Music*
 * [Indian Flac Songs](https://t.me/indianflacsongs) - *Download / Music*
 * [TamilBlasters](https://tamilblasters.art/) - *Torrent / Movies*
-* [TamilMV](https://www.1tamilmv.work/) - *Torrent / Movies*
-* [TamilMV](https://www.1tamilmv.sbs/) - *Torrent / Movies*
+* [TamilMV](https://www.1tamilmv.golf/) - *Torrent / Movies*
 * [indianebooks](https://t.me/indianebooks) - *Books*
 * [Digital Library of India](https://dli.sanskritdictionary.com) - *Books*
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - *Radio*
