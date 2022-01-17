@@ -185,6 +185,7 @@
 * [Gauth](https://github.com/pcarrier/gauth) - *Google Authenticator for Laptops*
 * [F-Secure Identity Theft Checker](https://www.f-secure.com/en/home/free-tools/identity-theft-checker) - *Identity Theft Check*
 * [Name & Identity Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_name_.26amp.3B_identity_generators) - *Generate Fake Names / Identities* 
+* [textreverse](https://www.textreverse.com/fake-address-generator.php), [anytexteditor](https://anytexteditor.com/fake-address-generator), [utilities-online](https://www.utilities-online.info/fake-address-generator) or [thecompleteseo](https://www.thecompleteseo.com/fake-address-generator) - *Fake Address Generators*
 * [Random User Generator](https://randomuser.me/) - *Generate Fake User Details* 
 * [FakePhoneNumber](https://fakephonenumber.net/) - *Generate Fake Phone Numbers*
 * [Tails](https://tails.boum.org/) or [Qubes](https://www.qubes-os.org/) - *Privacy-Based Operating Systems*
