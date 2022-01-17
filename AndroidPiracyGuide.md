@@ -344,7 +344,7 @@
 * **[nsane.down](https://www.nsaneforums.com/)**
 * **[ModdedCentral](https://t.me/ModdedCentral)** or [ModdedPrivate](https://t.me/ModdedPrivate) - *Modded / Telegram*
 * **[ReXdl](https://rexdl.com/)** - *Modded*
-* **[APKMirror](https://www.apkmirror.com/)** - *Untouched*
+* **[APKMirror](https://www.apkmirror.com/)** - *Untouched / [Playstore Links](https://pastebin.com/TcsAJib6)*
 * **[Lucky Patcher](https://www.luckypatchers.com/download/)** - *Remove Ads / Free In App Purchases / App Patcher / [How to use](https://latestechnews.com/how-to-use-lucky-patcher/)*
 * **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - *Repositories Index*
 * **[Android FOSS](https://github.com/offa/android-foss)**, **[Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md)**, **[/r/u_Jackie7610](https://redd.it/jhtvn4)** or **[Cool FOSS](https://albertomosconi.github.io/foss-apps/)** / [GitHub](https://github.com/albertomosconi/foss-apps) - *Free and Open Source Apps for Android*
