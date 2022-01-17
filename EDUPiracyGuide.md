@@ -424,6 +424,7 @@
 * [Vocatra](https://esite.ch/vocatra/) - *Vocabulary Trainer*
 * [EnglishAccentMap](https://www.englishaccentsmap.com/) - *English Accent Videos / Map* 
 * [Readlang](https://readlang.com/) - *Learn a Language While Web Browsing* 
+* [Sounter](https://sounter.com/) - *Learn Language Through Songs*
 * [Polyglot](https://polyglotclub.com/) - *Offline Language Exchange* 
 * [South Asian Languages](https://discord.gg/TrdqTDdMba) - *South Asian Language Learning*
 * [StudySpanish](https://studyspanish.com/) - *Spanish Learning Tutorials*
@@ -627,7 +628,7 @@
 * [Histography](https://histography.io/) - *History Timeline*
 * [Unequal Scenes](https://unequalscenes.com/) - *Scenes of Inequality Around the World*
 * [Eylenburg](https://eylenburg.github.io/) - *Infographs, Maps & Papers*
-* [LizardPoint](https://lizardpoint.com/) - *Geography Quizzes* 
+* [LizardPoint](https://lizardpoint.com/) or [Map Quiz](https://planemad.github.io/map-quiz/) - *Geography Quizzes* 
 * [The True Size](https://thetruesize.com/) - *Compare Country Size* 
 * [JoinUS World](https://www.joinusworld.org/) - *Korean Culture Q&A Site*
 * [Seeing Theory](https://seeing-theory.brown.edu/) or [Stat Trek](https://stattrek.com/) - *Statistics & Probability Tutorials* 
