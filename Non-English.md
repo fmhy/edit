@@ -1380,6 +1380,7 @@ Portuguese
 * [PasateaTorrent](https://pasateatorrent.net/) - *Movies / TV*
 * [divxonline](https://www.divxonline.tv/) - *Movies / TV* 
 * [Descargas](https://descargas2020.net/) - *Movies / TV*
+* [Cinetorrent](http://mozatimes.com/) - *Movies / TV*
 * [Tomadvix](https://tomadivx.net/) - *Movies / TV*
 * [DIVXTorrent](https://www.divxtorrent.com/) - *Movies / TV*
 * [Grantorrent](https://grantorrent.nl/), [2](https://grantorrent.ch/) - *Movies / TV*
