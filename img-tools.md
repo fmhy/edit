@@ -14,7 +14,7 @@
 * **[Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_editing)** - *Image Editing Software & Sites*
 * **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - *Download GFX Design Software*
 * **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/), [4](https://mega.nz/file/E5MwmT5Z#YP-vMSTcm8voKjb72_nHsLYH1AGmliWsbUGXVJhNHDE) - *Design Tool Resource Indexes*   
-* **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - *Glitch Images*
+* **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [GlitchyImage](https://glitchyimage.com/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - *Glitch Images*
 * [rexpaint](https://www.gridsagegames.com/rexpaint/) - *ASCII Art Editor*
 * [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Canva](http://canva.com/), [Stencil](https://getstencil.com/), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/), [ArtBoard](https://artboard.studio/) or [Glitterly](https://glitterly.app/) - *Graphic Design Tools*
 * [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/), [designspiration](https://www.designspiration.net/) or [inspirationde](https://www.inspirationde.com/) - *Graphic Design Inspirations*
@@ -73,7 +73,7 @@
 * Waifu2x Tools - [Guide](https://i.imgur.com/55s8sU5.png) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/tanakamura/waifu2x-converter-cpp), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/), [5](https://waifu2x.me/), [6](http://waifu2x.udp.jp/), [7](https://waifu2x.org/), [8](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 * [Croppola](https://croppola.com/), [Bulk Image Crop](https://bulkimagecrop.com/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - *Cropping Tool* 
 * [Seopix](https://www.seopix.io/) - *Resize & Compress Images*
-* [Simple Image Resizer](http://www.simpleimageresizer.com/), [Birme](https://www.birme.net/), [Online Image Resizer](https://online-image-resizer.com/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - *Resize Images*
+* [Simple Image Resizer](http://www.simpleimageresizer.com/), [fixpicture](https://www.fixpicture.org/), [Birme](https://www.birme.net/), [Online Image Resizer](https://online-image-resizer.com/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - *Resize Images*
 * [Resize App Icon](https://resizeappicon.com/) - *Resize Square Images* 
 * [SSizes](https://ssizes.com/) or [PixelHunter](https://pixelhunter.io/) - *Resize Images for Different Sites*
 * [RIOT](https://riot-optimizer.com/) or [ImageFoo](https://imagefoo.com/) - *Image Optimization Tool*
@@ -159,6 +159,7 @@
 * [Online GIF Tools](https://onlinegiftools.com/) - *GIF Tools*
 * [Giphy](https://giphy.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/), [reactiongifs](https://www.reactiongifs.us/), [reactiongifs](https://reactiongifs.me/), [gif-finder](https://gif-finder.com/), [reactiongifs](http://www.reactiongifs.com/), [bestanimations](https://bestanimations.com/), [Animations](https://bleuje.github.io/animationsite/), [gifimage](https://gifimage.net/) or [Animated Images](https://www.animatedimages.org/) - *Download GIFs* 
 * [EZGif](https://ezgif.com/), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFMemes](https://gifmemes.io/), [GIFnText](https://www.gifntext.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Gif Maker](https://gifmaker.me/) - *GIF Creator / Editor*
+* [GIF Explode](https://gif-explode.com/) - *Split GIFs Into Frames*
 * [gifify](https://github.com/vvo/gifify) or [Video-to-GIF](https://hnet.com/video-to-gif/) - *Video to GIF Converter*
 * [GifRun](https://gifrun.com/) - *Make GIFs From Online Videos*
 * [Viphy](https://viphy.typestudio.co/) - *Generate GIF From Text*
@@ -305,7 +306,7 @@
 
 # ► Image Tools
 
-* [WebOasis Editors](https://weboas.is/editors/), [Hotot](https://hotpot.ai/), [RedKetchup](https://redketchup.io/), [VertexShare](https://vertexshare.com/), [ImageConvert](https://imageconvert.org/), [MyPhotoFilter](https://www.myphotofilter.com/), [Img2Go](https://www.img2go.com/), [BrandFolder](https://brandfolder.com/workbench-suite), [fffuel](https://fffuel.co/), [ImgLarger](https://imglarger.com/), [SocialBook](https://socialbook.io/), [BatchWatermark](https://batchwatermark.com/) or [FastStone](https://www.faststone.org/index.htm) - *Multiple Image Tools*
+* [WebOasis Editors](https://weboas.is/editors/), [Hotot](https://hotpot.ai/), [RedKetchup](https://redketchup.io/), [VertexShare](https://vertexshare.com/), [ImageConvert](https://imageconvert.org/), [MyPhotoFilter](https://www.myphotofilter.com/), [Img2Go](https://www.img2go.com/), [BrandFolder](https://brandfolder.com/workbench-suite), [fffuel](https://fffuel.co/), [ImgLarger](https://imglarger.com/), [SocialBook](https://socialbook.io/), [Mara](https://mara.photos/), [BatchWatermark](https://batchwatermark.com/) or [FastStone](https://www.faststone.org/index.htm) - *Multiple Image Tools*
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - *Art & Animation Resource Index*
 * [Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes) - *Color Scheme / Palette Tools*
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - *Image Color Summarizer*
