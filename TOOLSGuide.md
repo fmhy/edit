@@ -112,7 +112,7 @@
 
 ## ▷ Text Tools
 
-* **[TextFixer](https://www.textfixer.com/)**, **[OnlineTextTools](https://onlinetexttools.com/)**, [English Tools](https://www.englishtools.org/), [Smodin](https://smodin.io/) or [Word Hippo](https://www.wordhippo.com/) - *Multiple Text Tools*
+* **[TextFixer](https://www.textfixer.com/)**, **[OnlineTextTools](https://onlinetexttools.com/)**, [English Tools](https://www.englishtools.org/), [Text Reverse](https://www.textreverse.com/), [Smodin](https://smodin.io/) or [Word Hippo](https://www.wordhippo.com/) - *Multiple Text Tools*
 * **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_editors)** - *Text Editing Tools*
 * **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - *Grammar Checking Tools*
 * **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_office_suites)** - *Office Suite Software*
@@ -258,6 +258,7 @@
 * [PlayPhrase](https://playphrase.me/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/), [2](https://getyarn.io/) - *Clip Quote Search Engine*
 * [FFmpeg](https://ffmpeg.org/) - *Video / Audio Recorder, Converter & Streaming*
 * FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730)
+* [VideoProc](https://www.videoproc.com/) - *Video Processing Software*
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - *SWF to Video Converter*
 * [MotionFactory](https://www.motionfactory.io/) - *Video Editing Workflow Manager*
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) or [OBS Ninja](https://obs.ninja/) - *Streaming Tools Index*
@@ -472,7 +473,7 @@
 * [Krisp](https://krisp.ai/) - *Noise Cancellation Software*
 * [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Infinite Pro Trial](https://gist.github.com/programminghoch10/b6021e40cc1905d2b01a1571c6c96f17) - *Audio Mixer*
 * [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - *Voice Audio Mixer*
-* [Voice Changer](https://voicechanger.io/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [VoiceMod](https://filecr.com/?s=VoiceMod+Pro), [MorphVOX](https://filecr.com/?s=MorphVOX+Pro) or [ClownFish](https://clownfish-translator.com/voicechanger/) - *Voice Changer*
+* [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [VoiceMod](https://filecr.com/?s=VoiceMod+Pro), [MorphVOX](https://filecr.com/?s=MorphVOX+Pro) or [ClownFish](https://clownfish-translator.com/voicechanger/) - *Voice Changer*
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) or [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - *Clone Voices*
 * [Sound Branch](https://soundbran.ch/) - *Create / Share / Podcasts / Voice Messages* 
 * [Gibber](https://gibber.cc/) - *Audiovisual Code Composer* 
@@ -996,6 +997,7 @@ General Reading Sites*
 * [weechat-discord](https://github.com/terminal-discord/weechat-discord) - *WeeChat Discord Plugin*
 * [litecord](https://gitlab.com/litecord/litecord) - *Reimplementation of Discord's Backend / [Clients](https://gitlab.com/litecord/litecord/-/blob/master/docs/clients.md)*
 * [Discord-Sandbox](https://github.com/khlam/discord-sandboxed) - *Sandbox Discord Client*
+* [Overlayed](https://overlayed.dev/) - *Alternate Discord Overlay / [Github](https://github.com/Hacksore/overlayed)*
 * [crocodile](https://github.com/tbodt/crocodile) - *Discord Client for TempleOS*
 * [displunger](https://gitlab.com/derpystuff/displunger) - *Run Old Versions of Discord*
 * [Acrylic](https://github.com/xirreal/Acrylic) - *Glass Discord Theme*
@@ -1041,7 +1043,6 @@ General Reading Sites*
 * [1337x-Bot ](https://github.com/brandongallagher1999/1337x-Bot) - *1337x Discord Bot*
 * [fmbot](https://fmbot.xyz/) - *Discord Voice Chat Scrobbling*
 * [Craig](https://craig.chat/) - *Voice Channel Recorder / [Backup(https://craig.chat/home/giarc)*
-* [Overlayed](https://overlayed.dev/) - *See Who is in VC Without Opening Discord / [Github](https://github.com/Hacksore/overlayed)*
 * [Forms](https://gitlab.com/rubellite/engineering/forms ) - *Google Form Responses as Discord Embeds*
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter), [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker), [discord-archiver](https://github.com/nektro/discord-archiver) or [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper) - *Archive / Export Discord Chats* 
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - *Discord Anti Phishing Bot*
