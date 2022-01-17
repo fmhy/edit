@@ -507,7 +507,7 @@
 * [Animista](https://animista.net/) or [Woah.css](https://www.joerezendes.com/projects/Woah.css/) - *CSS Animations*
 * [css2scss](https://sebastianpontow.de/css2compass/) - *CSS to SCSS Converter* 
 * [Tableconvert](https://tableconvert.com/) - *Markdown / Code Converter*
-* [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/) or [SimpleCSS](https://simplecss.org/) - *CSS Framework*
+* [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks), [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/) or [SimpleCSS](https://simplecss.org/) - *CSS Framework*
 * [TailBlocks](https://tailblocks.cc/) - *Ready-to-use Tailwind CSS Blocks*
 * [MarkdownGuide](https://www.markdownguide.org/) - *Guide for Markdown (.md)* 
 * [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/) or [Mark Text](https://github.com/marktext/marktext) - *Markdown Editor* 
