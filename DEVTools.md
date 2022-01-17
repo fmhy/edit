@@ -262,6 +262,7 @@
 * [Shisho](https://shisho.dev/) - *Infrastructure Code Security Patcher*
 * [Security Onion Solutions](https://securityonionsolutions.com/) - *Site Security Monitor*
 * [Teler](https://github.com/kitabisa/teler) - *HTTP Intrusion Detection*
+* [VanwaTech](https://vanwa.tech/cdn) - *Smart CDN*
 * [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - *HTTP Sites Leak Information*
 * [DNSDumpster](https://dnsdumpster.com/) - *DNS Lookup / Security*
 * [WebScarab](https://wiki.owasp.org/index.php/Category:OWASP_WebScarab_Project) - *HTTP / HTTPS Protocol Analysis*
