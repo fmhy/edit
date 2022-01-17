@@ -390,6 +390,12 @@
 * [K-Vid](https://k-vid.co/) or [KShows](https://kshows.to/) - *TV / Movies*
 * [viewasian](https://viewasian.co/) - *TV / Movies* 
 * [ICDrama](http://icdrama.video/) - *TV / Movies*
+* [AsianEmbed](https://asianembed.io/) - *TV / Movies*
+* [DramaNice](https://dramanice.cx/) - *TV*
+* [DramaGO](https://dramago.su/) - *TV*
+* [GoodDrama](https://gooddrama.live/) - *TV / Movies*
+* [MyAsianTV](https://myasiantv.cc/) - *TV / Movies*
+* [NewAsianTV](https://www2.newasiantv.pro/) - *TV / Movies*
 * [bagikuy](https://bagikuy.com/) - *TV / Movies*
 * [encoretvb](https://www.encoretvb.com/english) - *TV*
 * [Kissasian.video](https://kissasian.video/) - *TV / Movies*
@@ -665,6 +671,9 @@
 * [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - *Cartoons* 
 * [Bakabt](https://bakabt.me/) - *Cartoons / [Signup](http://wiki.bakabt.me/index.php/Sign_up)* 
 * [FantAsian](https://t.me/FantAsian) - *Asian Drama*
+* [DramaFans](http://www.dramafans.org/) - *Asian Drama*
+* [KingDrakor](https://kingdrakor.one/) - *Asian Drama*
+* [DoraMax264](https://doramax264.com/) - *Asian Drama*
 * [Toku.fun](https://toku.fun/) - *Japanese Superhero Movies*
 * [TinyMKV](https://tinymkv.xyz/) - *Movies / TV*
 * [480p TV Shows](https://www.480ptvshows.com/) - *Movies / TV* 
