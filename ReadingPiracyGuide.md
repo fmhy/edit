@@ -39,6 +39,7 @@
 * [DigitalBook](https://www.digitalbook.io/) 
 * [Librivox](https://librivox.org/)  
 * [AudioBB](https://audiobb.com/)
+* [Audiobooks For Soul](https://audiobooks4soul.com/)
 * [AppAudiobooks](https://appaudiobooks.com/)
 * [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - *Classic Audiobooks*
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - *Poetry*
@@ -453,6 +454,7 @@
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - *Electronics Schematics & Simulations*
 * [159.69.3.96](http://159.69.3.96/ebooks/) - *IT Books*
 * [PDFiles](https://www.pdfiles.net/) - *IT Books*
+* [AllITEBooks](https://allitebook.xyz/) - *IT Books*
 * [Explanations](https://magcius.github.io/xplain/article/) - *Advanced Computer Explanations*
 * [Bash Academy](https://guide.bash.academy/) - *Bash Shell Guide*
 * [Cyber Security & IT](https://mega.nz/folder/9kxTnLCI#BThv3CtkC27JqcJ4ZWD_cA) - *Cyber Security / IT Books & Courses*
