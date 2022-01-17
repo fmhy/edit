@@ -174,6 +174,7 @@
 * [MPR Packages](https://mpr.hunterwittenborn.com/)
 * [pacwall](https://github.com/Kharacternyk/pacwall) - *Live Wallpaper that shows Dependency Graph & Status of Installed Packages* 
 * [picom](https://github.com/yshui/picom) - *X11 Compositor*
+* [Compix](https://github.com/xeome/compix) - *Xorg Compositor*
 * [river](https://github.com/riverwm/river/), [wayfire](https://github.com/WayfireWM/wayfire/) or [sway](https://github.com/swaywm/sway/) - *Wayland Compositors*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
 * [Learn the Linux Command Line](https://mega.nz/folder/BlRVyArK#84n4ZhYZCRXLjt-KEP6u6g) or[LinuxCommand](https://www.linuxcommand.org/tlcl.php) - *Linux Command Line Lessons*
