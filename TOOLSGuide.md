@@ -277,12 +277,11 @@
 * [Stream Recorder](https://www.hlsloader.com/) - *Streaming Video Recorder* 
 * [GifW00t](https://github.com/yaronn/GifW00t) - *Javascript Web Recorder*
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - *Create TV Channels using Plex Library*
-* [Zoom Escaper](https://zoomescaper.com/ ) - *Self-Sabotage Video Calls to Escape Meetings*
-* [Live Curtain](https://livecurtain.com/) - *Countdown Curtain For Online Meeting*
 * [Greety](https://greety.co/) - *Send Video Christmas Cards*
 * [Avidemux](http://fixounet.free.fr/avidemux/) - *Cut / Filter / Encode* 
 * [vidcutter](https://github.com/ozmartian/vidcutter) - *Cut Videos* 
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts*
+* [WeGreyScale](https://www.wegrayscale.com/) - *Greyscale Videos / Images*
 * [Croosfade](https://crossfade.io/) - *Video and Audio Crossfading*
 * [blur](https://github.com/f0e/blur) - *Add Motion Blur to Videos / [Tutorial](https://youtu.be/16-KU4r3BcA)* 
 * [Webm Generator](https://github.com/dfaker/WebmGenerator) - *Webm Editor*
@@ -295,14 +294,15 @@
 * [Unreal Engine](https://www.unrealengine.com/) - *3D Creation Tool*
 * [AnimeEffects](http://animeeffects.org/en/), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/) or [Synfig](https://www.synfig.org/) - *2D Animation Tool* 
 * [Storyboarder](https://wonderunit.com/storyboarder/) - *Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)* 
-* [LibreSprite](https://libresprite.github.io/) - *Sprite Animation Tool*
+* [LibreSprite](https://libresprite.github.io/) or [SpookyGhost](https://encelo.itch.io/spookyghost) - *Sprite Animation Tool*
 * [BestSnip](https://bestsnip.com/animation/) or [Mulator](https://multator.ru/) - *Online Animation Tool*
 * [Mixamo](https://www.mixamo.com/) - *3D Character Animation Tool*
-* [SpookyGhost](https://encelo.itch.io/spookyghost) - *Sprite Animation Software*
 * [NATRON](https://natrongithub.github.io/) - *Compositing Software*
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - *CGI Assets*
 * [Motion Den](https://motionden.com/), [Lumen5](https://lumen5.com/) or [VideoCreek](https://videocreek.com/) - *Video Template Editor*
+* [Vidlogo](https://vidlogo.com/) - *Add Watermark to Video*
 * [Beatflyer](https://beatflyer.com/) - *Video Flyer Generator*
+* [Footage](https://footage.app/) - *Create Advertisment Videos*
 * [MKVToolNix](https://www.matroska.org/downloads/mkvtoolnix.html) - *MKV Editing Tools* 
 * [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/) - *MKVExtract GUI* 
 * [MKV-Optimizer](https://www.videohelp.com/software/MKV-Optimizer) - *Remove Audio Tracks from MKV Files* 
@@ -529,11 +529,11 @@
 * [Failory](https://www.failory.com/graveyard) - *Learn Why Startups & Products Failed*
 * [learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - *Cloud Computing Fundamentals*
 * [Candor](https://candor.co/hiring-freezes/) - *Hiring Freezes*
-* [Doozy](https://doozy.live/),  [Miro](https://miro.com/) , [Slab](https://slab.com/) or [TipiCalls](https://tipicalls.com/) - *Collaboration Platform*
+* [Doozy](https://doozy.live/), [Miro](https://miro.com/) , [Slab](https://slab.com/) or [TipiCalls](https://tipicalls.com/) - *Collaboration Platform*
 * [PHPCRM](https://www.phpcrm.com/) - *Company Management Software*
 * [Kimai](https://www.kimai.org/) - *Working Hours Tracker*
 * [Zeoob](https://zeoob.com/) - *Social Media Digital Marketing Post Simulator*
-* [ConvertMenu](https://convertmenu.com/) - *Convert Menu to QR Codes*
+* [ConvertMenu](https://convertmenu.com/) or [QR Menu Creator](https://qrmenucreator.com/) - *Convert Menu to QR Codes*
 * [VCEGuide](https://vceguide.com/) - *Tech Certification Practice Tests*
 * [9Tut](https://www.9tut.com/) - *CCNA Certification Training*
 * [GetFreeIMEBooks](https://www.getfreeimebooks.com/) - *Digital Marketing Resources*
@@ -631,7 +631,9 @@
 * [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) or [List of Matrix Servers](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html) - *Matrix Server List*
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - *Export Skype Chat Data to Readable Text*
-* [Jitsi](https://desktop.jitsi.org/index.html), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [MiroTalk](https://mirotalk.up.railway.app/), [TinyChat](https://tinychat.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat* 
+* [Jitsi](https://desktop.jitsi.org/index.html), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [TinyChat](https://tinychat.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat* 
+* [Zoom Escaper](https://zoomescaper.com/) - *Self-Sabotage Video Calls to Escape Meetings*
+* [Live Curtain](https://livecurtain.com/) - *Countdown Curtain For Online Meeting*
 * [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
 * [IMumble](https://www.imumble.nl/) - *Voice Chat Server*
 * [Gather](https://gather.town/), [OpenSimulator](http://opensimulator.org/) - *Virtual World Server*
@@ -876,7 +878,7 @@ General Reading Sites*
 * [Temporary-Url](https://www.temporary-url.com/) - *Temporary URLs / QR Codes* 
 * [scrt.link](http://scrt.link/) - *Single Use Links*
 * [noAMP](https://noamp.link/) - *Non-AMP version of any page*
-* [QR Code Generator](https://www.qr-code-generator.com/) - *QR Code Generator For URLs / Text* 
+* [QR Code Generator](https://www.qr-code-generator.com/) or [link-to-qr](https://link-to-qr.com/) - *QR Code Generator For URLs / Text* 
 * [AnyImage](https://anyimage.io/) - *Create Social Card Links*
 * [Flashify](https://github.com/GodsMoon/Flashify) - *Open URL in Any Browser*
 * [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - *Custom URL Handler*
@@ -1039,6 +1041,7 @@ General Reading Sites*
 * [1337x-Bot ](https://github.com/brandongallagher1999/1337x-Bot) - *1337x Discord Bot*
 * [fmbot](https://fmbot.xyz/) - *Discord Voice Chat Scrobbling*
 * [Craig](https://craig.chat/) - *Voice Channel Recorder / [Backup(https://craig.chat/home/giarc)*
+* [Overlayed](https://overlayed.dev/) - *See Who is in VC Without Opening Discord / [Github](https://github.com/Hacksore/overlayed)*
 * [Forms](https://gitlab.com/rubellite/engineering/forms ) - *Google Form Responses as Discord Embeds*
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter), [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker), [discord-archiver](https://github.com/nektro/discord-archiver) or [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper) - *Archive / Export Discord Chats* 
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - *Discord Anti Phishing Bot*
@@ -1148,6 +1151,7 @@ General Reading Sites*
 * [PocketTube](https://yousub.info/) - *YouTube Subscription Manager / Organizer* 
 * [FreshTube](https://porjo.github.io/freshtube/) - *Display Latest Video from Subscriptions* 
 * [Youtube_Subs_Bot](https://t.me/youtube_subs_bot) - *Sub to Channels Without Account* 
+* [Channel Crawler](https://channelcrawler.com/eng) - *YouTube Channel Search*
 * [TubeArchivist](https://www.tubearchivist.com/) - *Archival Youtube Media Server / [GitHub](https://github.com/bbilly1/tubearchivist)*
 * [Astronaut.io](http://astronaut.io/), [Incognitube](https://www.incognitube.com/) or [Petit tube](http://www.petittube.com/) - *YouTube Vids with -100 views* 
 * [YouTube-Geofind](https://mattw.io/youtube-geofind/location) - *Find Geotagged Videos* 
@@ -1197,7 +1201,7 @@ General Reading Sites*
 * [ProgressBar Preserver](https://greasyfork.org/scripts/394512) - *Always Visible Progress Bar YouTube*
 * [Equalizer for YouTube](https://mybrowseraddon.com/equalizer-for-youtube.html) - *Audio Equalizer*
 * [songs-to-youtube](https://github.com/7x11x13/songs-to-youtube) - *Upload Audio to Youtube Automatically*
-* [Unhook](https://unhook.app/) - *Distraction Free YouTube*
+* [Unhook](https://unhook.app/) or [YourTube](https://github.com/gurrrung/YourTube) - *Distraction Free YouTube*
 * [YouTube Watch Time Counter](https://chrome.google.com/webstore/detail/youtube-watch-time-counte/fpoooibdndpjcnoodfionoeakeojdjaj) - *Track Time Spent on YouTube*
 * [BlockTube](https://github.com/amitbl/blocktube) - *YouTube Content Blocker*
 * [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - *Remove YouTube Thumbnails / Title Capitalization*
@@ -1206,7 +1210,7 @@ General Reading Sites*
 * [YT Not Interested Button on Hover](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - *Easily Display Not Interested Button*
 * [RapidTags](https://www.rapidtags.io/) or [CommunityTags](https://www.communitytags.app/) - *YouTube Tag Generator*
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - *YouTube Live Stream Translator* 
-* [amara](https://amara.org/en/) - *Add Subs to Youtube Videos*
+* [amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - *Add Subs to Youtube Videos / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi) / [Chrome](https://chrome.google.com/webstore/detail/subtitles-for-youtube/oanhbddbfkjaphdibnebkklpplclomal)*
 * [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - *Styled YouTube Subtitles*
 * [Captionz](https://pnlpal.dev/captionz) - *YouTube Captions Viewer / Player* 
 * [Youtube Summarizer](https://share.streamlit.io/iamknownstranger/ytsummary/main) - *YouTube Transcript Summarizer*
@@ -1268,6 +1272,7 @@ General Reading Sites*
 * [Twishort](https://twishort.com/) - *Make Longer Tweets*
 * [Poet.so](https://poet.so/) - *Create Twitter Post Images*
 * [Tweetgen](https://www.tweetgen.com/) - *Create Fake Tweets*
+* [Chirr App](https://getchirrapp.com/) - *Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chrome.google.com/webstore/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)*
 * [THS](https://xscoder.com/ths/) - *Twitter Header Maker*
 * [Thread Reader App](https://threadreaderapp.com/) - *Unroll Twitter Threads / Search* 
 * [Treeverse](https://treeverse.app/) - *Twitter Conversation Visualizer* 
@@ -1496,7 +1501,7 @@ General Reading Sites*
 * [Deskreen](http://deskreen.com/) - *Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen)* 
 * [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - *Control Multiple PC's via One Mouse / Keyboard*
 * [JumpShare](https://jumpshare.com/) - *File, Screenshot & Video Sharing*
-* [here.fm](https://here.fm/) - *Screen Sharing Tool*
+* [Screego](https://app.screego.net/) / [Github](https://github.com/screego/server/) or [here.fm](https://here.fm/) - *Screen Share*
 * [Remote Desktop Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remote_desktop_clients) - *Control Desktop Remotely*
 * [InputDirector](http://www.inputdirector.com/), [Synergy](https://symless.com/synergy), [Barrier](https://github.com/debauchee/barrier) or [ShareMouse](https://www.sharemouse.com/) - *Share Mouse & Keyboard w/ Multiple Computers*
 * [Nebula](https://github.com/slackhq/nebula) - *Multi-Computer Networking Tool*
@@ -1535,6 +1540,7 @@ General Reading Sites*
 * [StreamPi](https://stream-pi.com/) or [FreeDeck](https://github.com/FreeYourStream/freedeck-hardware) - *ElGato Streamdeck Alternative*
 * [EarTrumpet](https://eartrumpet.app/), [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - *Improved Volume Mixer*  
 * [WinMute](https://github.com/lx-s/WinMute/) - *Automatically Mute PC*
+* [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - *Hide Volume Bar*
 * [SuperF4](https://stefansundin.github.io/superf4/) - *Kill programs instantly with Ctrl+Alt+F4*
 * [How-To Crack Windows Passwords](https://samsclass.info/123/proj14/123p12winhash.htm) 
 * [Depix](https://github.com/beurtschipper/Depix) - *Recover Passwords from Pixelized Screenshots* 
@@ -1761,7 +1767,7 @@ General Reading Sites*
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - *HTTP File System*
 * [FolderClone](http://www.folderclone.com/) - *Clone / Backup Folders*
 * [Borg](https://www.borgbackup.org/) - *Deduplicating File Archiver / Backup* 
-* [Cloning Tools](https://github.com/SpamVerse/Piratezparty/blob/main/Cloning-Tools.md), [BackupPC](https://backuppc.github.io/backuppc/), [TeraCopy](https://www.codesector.com/teracopy), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [DeltaCopy](http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp), [restic](https://restic.net/), [UrBackup](https://www.urbackup.org/), [BlobBackup](https://github.com/BlobBackup/BlobBackup), [SafeCopy](https://www.elwinsoft.com/safecopy-free.html), [FastCopy](http://fastcopy.jp/), [OCCT](https://www.ocbase.com/) or [Duplicati](https://www.duplicati.com/) - *File Backup Tool* 
+* [Cloning Tools](https://github.com/SpamVerse/Piratezparty/blob/main/Cloning-Tools.md), [BackupPC](https://backuppc.github.io/backuppc/), [TeraCopy](https://www.codesector.com/teracopy), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [DeltaCopy](http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp), [restic](https://restic.net/), [UrBackup](https://www.urbackup.org/), [BlobBackup](https://github.com/BlobBackup/BlobBackup), [ZPaq](http://mattmahoney.net/dc/zpaq.html), [SafeCopy](https://www.elwinsoft.com/safecopy-free.html), [FastCopy](http://fastcopy.jp/), [OCCT](https://www.ocbase.com/) or [Duplicati](https://www.duplicati.com/) - *File Backup Tool* 
 * [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) or [filebrowser](https://github.com/filebrowser/filebrowser/) - *Web File Browser*
 * [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/) or [Securedrop](https://securedrop.org/) - *Document File Sharing*
 * [OpenPaper](https://openpaper.work/en/) or [DataShare](https://datashare.icij.org/) - *Document Manager*
