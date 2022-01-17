@@ -19,7 +19,7 @@
 
 ## ▷ Dedicated Hosts
 
-* **[Movies4Discord](https://discord.gg/h3uM4zQ9QR)** - *Movies / TV / [Website](https://movies4discord.xyz/)*
+* **[Movies4Discord](https://discord.gg/h3uM4zQ9QR)** - *Movies / TV / 1080p Only / [Website](https://movies4discord.xyz/)*
 * **[EE3](https://ee3.me/)** - *Movies / Invite Code: mpgh*
 * **[Ask4movies](https://ask4movie.io/)** - *Movies / TV / [Adblock Script](https://pastebin.com/N58Vbyhw)*
 * **[M4uFree](https://ww1.m4ufree.com)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)*
@@ -366,10 +366,10 @@
 
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming) 
 * [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - *TV / Movies*
-* [KissAsian](https://kissasian.li/), [2](https://kissasian.ac/) - *TV*
+* [KissAsian](https://kissasian.li/), [2](https://kissasian.ac/), [3](https://kissasian.es/) - *TV*
 * [GoPlay](https://goplay.anontpp.com/?ref=Reddit) - *TV / [Discord](https://discord.gg/Gh44afE) / [Reddit](https://redd.it/723mtd)*
 * [AsianCrush](https://www.asiancrush.com/) - *TV / Movies*
-* [DramaCool](https://www3.dramacool.sk/), [dramacool9](https://www.dramacool9.co/) or [WatchAsian](https://watchasian.cc/) - *TV / Movies*
+* [DramaCool](https://www5.dramacool.sk/), [dramacool9](https://www.dramacool9.co/) or [WatchAsian](https://watchasian.sh/) - *TV / Movies*
 * [DramaDay](https://dramaday.net/) - *TV* 
 * [icdrama](http://www1.hkdrama.to/) - *TV / Movies* 
 * [FastDrama](http://fdrama.net/) - *TV / Movies*
@@ -377,6 +377,9 @@
 * [qooxi](http://drama.qooxi.to/) - *TV / Movies* 
 * [GenMovies](https://genomovies.com/) - *TV / Movies*
 * [GenDrama](https://genodrama.com/) - *TV / Movies*
+* [ODrama](http://odrama.net/) - *TV / Movies*
+* [NewTVDrama](https://www.newtvdrama.com/) - *TV / Movies*
+* [ADrama](http://www1.adrama.to/) - *TV / Movies*
 * [asianload](https://asianload.cc/) - *TV / Movies*
 * [Viki](https://www.viki.com/) - *TV / Movies*
 * [KDramaHood](https://kdramahood.com/home2/) - *TV / Movies*
@@ -635,6 +638,7 @@
 * [SBS](https://3dsbs4u.com/) - *Movies / TV*
 * [NetNaija](https://netnaija.xyz/) - *Movies*
 * [Flixiz](https://flixiz.com/) - *Movies / TV*
+* [CinemaKottaga](https://cinemakottaga.ml/) - *Movies / TV / [Telegram](https://t.me/cinemakottaga_tg)*
 * [nKiri](https://nkiri.com/) - *Movies / TV*
 * [Moviessss](https://download-moviesss.herokuapp.com/?filter=Hollywood) - *Movies*
 * [MKVHouse](https://mkvhouse.co/) - *Movies / TV*
@@ -666,7 +670,7 @@
 * [480p TV Shows](https://www.480ptvshows.com/) - *Movies / TV* 
 * [300MBFilms](https://www.300mbfilms.com/) - *Movies / TV*
 * [TvShows4Mobile](https://tvshows4mobile.com/) - *TV / Anime*
-* [OlaMovies](https://olamovies.me/) - *HD Movies / TV* 
+* [OlaMovies](https://olamovies.fun/) - *HD Movies / TV / [Telegram](https://t.me/olamovies_official)* 
 * [UHDMV](https://uhdmv.org/) - *HD Movies / TV*
 * [Bluray.ID](https://www.bluray.id/) - *HD Movies / TV*
 * [Blu-Ray.world](https://blu-ray.world/) - *HD Movies / TV*
@@ -1009,7 +1013,7 @@
 * [TVSubtitles](http://www.tvsubtitles.net/) or [TVSubs](http://www.tvsubs.net/) - *TV Subtitles* 
 * [kitsuneko](https://kitsunekko.net/) - *Anime Subtitles* 
 * [DownSub](https://downsub.com/) - *Download Subs from Video Sites* 
-* [amara](https://amara.org/en/) - *Add Subs to Youtube Videos*
+* [amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - *Add Subs to Youtube Videos / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi) / [Chrome](https://chrome.google.com/webstore/detail/subtitles-for-youtube/oanhbddbfkjaphdibnebkklpplclomal)*
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - *YouTube Live Stream Translator* 
 * [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - *Styled YouTube Subtitles*
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - *Add Subtitles to Twitch Stream*
