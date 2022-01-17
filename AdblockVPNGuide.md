@@ -53,6 +53,7 @@
 * [LibreDNS](https://libredns.gr/) - *DNS Adblocking*
 * [Diversion](https://diversion.ch/) - *DNS Adblocking*
 * [DNS Watch](https://dns.watch/) - *DNS Adblocking*
+* [VanwaTech](https://vanwa.tech/cdn) - *DNS Adblocking*
 * [Quad9](https://quad9.net/) - *Malware, Phishing, Spyware & Botnet DNS Protection*
 * [Stubby](https://github.com/getdnsapi/stubby) - *DNS Stub Resolver*
 * [NextDNS](https://nextdns.io) - *DNS Adblocking / [Enhancement](https://greasyfork.org/en/scripts/408934-nx-enhanced) / [Leak Warning](https://redd.it/jt28e8)*
@@ -467,6 +468,7 @@
 * [Tailscale](https://tailscale.com/) - *[Pricing](https://i.imgur.com/6lMwcSQ.png) / [Discord](https://discord.com/invite/n3vtSwc)*
 * [TorGuard](https://torguard.net/) - *[Pricing](https://i.imgur.com/O2t4z0C.png)*
 * [WeVPN](https://wevpn.com/) - *[Pricing](https://i.imgur.com/a6XWraf.png)*
+* [PandaVPN](https://pandavpnpro.com/) - *[Pricing](https://i.imgur.com/nm2CVhX.png)*
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - *VPN Extension / 3GB Free / [Pricing](https://i.imgur.com/ZdDexDa.png)* 
 * [Mozilla FPN](https://fpn.firefox.com/) - *VPN Extension / [Pricing](https://i.imgur.com/wW5rVO2.png) / Mullvad Servers*
 * [StrongSwan](https://www.strongswan.org/) - *IPsec VPN*
