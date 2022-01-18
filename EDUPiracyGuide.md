@@ -600,7 +600,7 @@
 * [CS 182 Deep learning](https://cs182sp21.github.io/) - *Deep Neural Network Lesson Slides*
 * [OpenSyllabus](https://opensyllabus.org/) or [LanguageDrops](https://languagedrops.com/) - *Syllabus Search / Info*
 * [Edpuzz Ninja](https://edpuzz.ninja/) - *Educational Puzzle Solving Tool* 
-* [PowerInBooks](https://powerinbooks.xyz/temp/), [LitSolutions](https://www.litsolutions.org/) or [ch36650lut10n5](https://www.ch36650lut10n5.com/) - *Textbook Solutions* 
+* [PowerInBooks](https://powerinbooks.xyz/temp/) or [LitSolutions](https://www.litsolutions.org/) - *Textbook Solutions* 
 * [LabXchange](https://www.labxchange.org/) - *Science / Interactive*
 * [AskNature](https://asknature.org/) - *Natural Strategies / Solutions* 
 * [Citation Generator](https://www.citationgenerator.com/), [CitationMachine](https://citationmachine.net/) or [Cite This For Me](https://www.citethisforme.com/) - *Generate Citations / [Chrome](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)*
