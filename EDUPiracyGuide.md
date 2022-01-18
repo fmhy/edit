@@ -139,7 +139,6 @@
 * [FreeEducationWeb](https://freeeducationweb.com/) - *Courses* 
 * [DLECourse](https://dlecourse.com/) - *Courses* 
 * [FreeCourseDL](https://freecoursedl.com/) - *Courses* 
-* [s28.bitdl.ir](http://s28.bitdl.ir/Video/) - *Courses*
 * [HackNation](https://hacksnation.com/) - *Courses*
 * [TutsNode](https://tutsnode.com/) - *Courses*
 * [FreeStudyWeb](https://freestudyweb.com/) - *Courses* 
@@ -182,7 +181,7 @@
 * [UFC Gdrive Factory!](https://telegram.me/joinchat/SSWKbEf8mVNBvgam) - *Udemy Courses*
 * [EZdemy](https://t.me/ezudemy) - *Udemy Courses*
 * [Giga Course](https://gigacourse.com/) - *Udemy Courses / Drive* 
-* [s28.bitdl.ir Udemy](http://s28.bitdl.ir/Compresed/Udemy/) - *Udemy Courses / Drive / Use VPN*
+* [s28.bitdl.ir Udemy](http://s28.bitdl.ir/Compresed/Udemy/), [2](http://s28.bitdl.ir/Video/) - *Udemy Courses / Drive / Use VPN / Pass: bitdownloader.ir*
 * [Udemy 24](https://udemy24.com/) - *Udemy Courses* 
 * [Tutorials-eu](https://freetutorials-eu.com/) - *Udemy Courses*
 * [FreeCourseWeb](http://freecourseweb.com/) - *Udemy Courses* 
