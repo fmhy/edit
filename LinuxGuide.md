@@ -56,6 +56,8 @@
 * [Free Cloud Linux Server](https://rentry.co/4sx64) - *Free Cloud Server Guide*
 * [Brunch](https://github.com/sebanc/brunch) or [Chromefy](https://github.com/imperador/chromefy) - *ChromeOS Installer*
 * [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [FydeOS](https://fydeos.io/download), [NeverWare](https://www.neverware.com/) or [WayneOS](https://wayne-os.com/) - *ChromeOS Based OS*
+* [Chromebrew](https://github.com/skycocker/chromebrew) - *Package manager for Chrome OS*
+* [Crouton](https://github.com/dnschneid/crouton) - *Chromebook Linux OS*
 * [Pop!_OS Shell](https://github.com/pop-os/shell) - *Pop-Shell for GNOME*
 * [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - *One-Click Remote Desktop* 
 * [MultiBoot USB](https://github.com/hackerncoder/multibootusb) - *Create Bootable USB Linux Drives*
