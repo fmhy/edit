@@ -96,7 +96,7 @@
 * [YourBittorrent](https://yourbittorrent.com/), [2](https://yourbittorrent2.com/) - *Video / Audio / Software / Games / Books / NSFW*
 * [ProStyleX](https://prostylex.org/) - *Video / Audio / Books / Games / Software / NSFW*  
 * [IsoHunt](http://isohunt.ee/), [IsoHunts](https://isohunts.to/) or [IsoHunt.nz](https://isohunt.nz/) - *Video / Audio / Games / Software / Books*
-* [ExT](https://ext.to/) - *Video / Audio / Games / Software / Books*
+* [ExT](https://ext.to/), [2](https://site.extto.com/) - *Video / Audio / Games / Software / Books*
 * [rutor.info](http://rutor.info) or [rutor.is](http://rutor.is/) - *Video / Audio / Games / Software / Books / Roms / Magazines*
 * [NNM-Club](https://nnmclub.to/) - *Video / Audio / Software / Games / [Note](https://i.imgur.com/m42r0jU.png)*
 * [Torrentz2k](https://torrentz2k.xyz/) - *Video / Audio / Software / Games / NSFW*
@@ -215,7 +215,7 @@
 
 # ► Helpful Sites / Apps
 
-* **[PreDB](https://predb.ovh/)** / [2](https://predb.me/), [PreDB Live](https://predb.live/), [M2V](https://m2v.ru/), [srrDB](https://www.srrdb.com/) or [pre.c-burns](http://pre.c-burns.co.uk/pre.php) - *Scene Release Tracker*
+* **[PreDB](https://predb.ovh/)** / [2](https://predb.me/) / [3](https://predb.de/) / [4](https://www.predb.pw/), [PreDB Live](https://predb.live/), [M2V](https://m2v.ru/), [srrDB](https://www.srrdb.com/) or [pre.c-burns](http://pre.c-burns.co.uk/pre.php) - *Scene Release Tracker*
 * **[Tracker Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tracker_lists)** - *Updated lists of BitTorrent trackers* 
 * **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.com) / [3](https://www.torrentkitty.net/) / [4](https://www.torrentkitty.lol/) - *Torrent To Magnet Link Conversion*
 * **[Auto Torrent Tools List](https://redd.it/hbwnb2)**, [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - *Autodownload tools*
