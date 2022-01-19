@@ -303,6 +303,7 @@
 * [pixels.land](https://pixels.land/) or [World of Pixels](https://ourworldofpixels.com/) - *Infinite Pixel Art online*  
 * [Genetic Cars 2](https://rednuht.org/genetic_cars_2/) - *Random 2D Car Generator*
 * [cachemonet](http://cachemonet.com/) - *Randomly Generated GIFs/ Backgrounds* 
+* [FootballShirtMaker](https://footballshirtmaker.com/en-us/) - *Create Custom Football TShirts*
 * [Wonder of Wonder Art](https://aidn.jp/wowa/) - *Create a Dancing Character* 
 * [Robotics.ovh](https://robotics.ovh/) - *Robotics Dance*
 * [CAT BOUNCE!](https://cat-bounce.com/) - *Bounce Cats*
@@ -827,8 +828,8 @@
 * [MetroOrbits](http://mic-ro.com/metro/index.html) - *Subway Maps & Data*
 * [SubMarineCableMap](https://www.submarinecablemap.com/) - *Fiber Optic Cable Map*
 * [Cost of Living](https://www.numbeo.com/cost-of-living/) - *Cost of Living Map*
-* [Mapfrappe](http://mapfrappe.com/?show=46142) - *Compare True Sizes on Land Masses*
-* [scale-a-tron](https://stamen.github.io/scale-a-tron/) - *Compare the Size of any Land*
+* [Mapfrappe](http://mapfrappe.com/?show=46142) or [scale-a-tron](https://stamen.github.io/scale-a-tron/) - *Compare True Sizes on Land 
+* [Mikavaa](http://mapmerizer.mikavaa.com/) - *Compare Cities*
 * [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - *Forest Sound Map*
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/), [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) or [AsteroidCollision](https://asteroidcollision.herokuapp.com/) - *Interactive damage effect maps*
 * [convert_lat_long](https://andrew.hedges.name/experiments/convert_lat_long/) - *Convert Latitude/Longitude to Decimal* 
@@ -1113,12 +1114,14 @@
 * [Say Play](https://thanesh.dev/say-play) - *Video Control Voice Commands*
 * [Audio Channel](https://chrome.google.com/webstore/detail/audio-channel/hafdgamhnmiioimpcdhhbhgcjndgmphd) - *Tab Audio Manager*
 * [Smart Mute](https://chrome.google.com/webstore/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh) - *Tab Mute Manager*
+* [Audio Capture](https://github.com/arblast/Chrome-Audio-Capturer) - *Audio Recorder*
 * [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn) - *Text Summary Generator*
 * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) or [Volume Master](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - *Increase Browser Volume*
 * [Poster](https://install.get-poster.com/) - *Quick Link Share*
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - *Download Multiple Links at Once* 
 * [Multimedia Search](https://multimediasearchapp.com/) - *Browser File Search*
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
+* [Night Shift Redux](https://nightshift.lu/) - *Adapts Display Color to Time of Day*
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
 * [Headless-Recorder](https://github.com/checkly/headless-recorder) or [automa](https://github.com/kholid060/automa) - *Browser Automation*
 * [NudgeWare](https://nudgeware.io/) or [HabitLab](https://habitlab.stanford.edu/) - *Productivity Booster*
