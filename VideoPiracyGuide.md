@@ -105,7 +105,7 @@
 * [StreamDor](https://www.streamdor.com/), [FreeMovies](https://freemovies.ltd/) or [MoviesFoundOnline](https://moviesfoundonline.com/) - *Movies / YouTube*
 * [YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - *Youtube streaming subreddits*
 * [YouTube Streaming Channels](https://rentry.co/YT-Movies) - *Channels that host movies or shows*
-* [Official YT Movies](https://www.youtube.com/feed/storefront?bp=kgEmCGQSIlBMSFBUeFR4dEMwaWJWWnJUMl9XS1dVbDJTQXhzS3VLd3iiBQIoAg%3D%3D) - *Free with Ads*
+* [Official YouTube Movies](https://www.youtube.com/feed/storefront?bp=kgEDCPYDogUCKAU%3D) / [TV](https://www.youtube.com/feed/storefront?bp=kgEDCO8HogUCKAU%3D) - *Free with Ads*
 * [JustWatch](https://www.justwatch.com/) or [ReelGood](https://reelgood.com/) - *Search Legal Streaming Hosts*
 * [Manually Scrape Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manually_scrape_sites) - *Search Sites Manually*
 
@@ -667,13 +667,14 @@
 * [CoolMovieZone](https://coolmoviezone.lat/) - *Movies*
 * [VegaMovies](https://vegamovies.ink/category/english/) - *Movies / [Telegram](https://vegadrive.xyz/join.php) / [2](https://t.me/Vegamoviesgroup2)*
 * [Subroz](https://subroz.live/0:/) - *Movies / TV*
-* [Wtfmovies](https://www.wtfmovies.xyz/) - *Movies / TV Shows*
+* [Wtfmovies](https://www.wtfmovies.xyz/) - *Movies / TV*
 * [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - *Cartoons* 
 * [Bakabt](https://bakabt.me/) - *Cartoons / [Signup](http://wiki.bakabt.me/index.php/Sign_up)* 
 * [FantAsian](https://t.me/FantAsian) - *Asian Drama*
 * [DramaFans](http://www.dramafans.org/) - *Asian Drama*
 * [KingDrakor](https://kingdrakor.one/) - *Asian Drama*
 * [DoraMax264](https://doramax264.com/) - *Asian Drama*
+* [Play Rdp](https://play.rdp.workers.dev/1:/), [2](https://black-theme.rdp.workers.dev/0:/) - *Korean Drama / [Discord](https://discord.com/invite/fpnvKDw)*
 * [Toku.fun](https://toku.fun/) - *Japanese Superhero Movies*
 * [TinyMKV](https://tinymkv.xyz/) - *Movies / TV*
 * [480p TV Shows](https://www.480ptvshows.com/) - *Movies / TV* 
@@ -737,7 +738,7 @@
 * **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)** - *Telegram Anime Download Channels* 
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - *Sub / Dub / Anime / Manga Download Forum*
 * [Animk](https://animk.info/) - *Sub / Dub*
-* [MiniEncodes](https://miniencodes.org/) - *Sub / [Discord](https://discordapp.com/invite/yuD8X9p)*
+* [MiniEncodes](https://miniencodes.org/), [2](https://miniencodes.netlify.app/) - *Sub / [Discord](https://discordapp.com/invite/yuD8X9p)*
 * [AnimeOut](https://www.animeout.xyz/) - *Sub*
 * [Anime2Enjoy](https://www.anime2enjoy.com/) - *Sub / [Discord](https://discord.gg/PxSmumS)* 
 * [Animekayo](https://animekayo.com/) - *Sub / Dub*
@@ -756,7 +757,11 @@
 * [Anime Collection (3Tb)](https://drive.google.com/drive/folders/1nQ73oKeE5b50lzyDeszmdLv6rjYFolk5?usp=sharing) - *Sub / Dub / Drive*
 * [Anime Devil](https://animedevil.com/) - *Sub / Dub / [Telegram](https://groups.google.com/g/animedevil)*
 * [DameDesuYo](https://damedesuyo.com/) - *Sub*
+* [TokyoInsider](https://www.tokyoinsider.com/) - *Sub*
 * [Chiby](http://www.animechiby.com/) - *Sub*
+* [Kainime](https://kainime.com/) - *Sub*
+* [IndiAnime](https://indianime.com/) - *Sub / Dub*
+* [Anipakku](https://anipakku.blogspot.com/) - *Sub / Dub / [Discord](https://discord.com/invite/ekwtwjwHey)*
 * [anime7.download](http://anime7.download/) - *Sub*
 * [37.187.6.206](http://37.187.6.206/) - *Sub*
 * [176.36.86.211](http://176.36.86.211/video/anime/) - *Sub / Dub*
