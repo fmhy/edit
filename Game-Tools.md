@@ -73,7 +73,7 @@
 * [Dungeon Map Doodler](https://dungeonmapdoodler.com/) or [donjon](http://donjon.bin.sh/) - *Draw and Build Dungeons* 
 * [Ethereal Games](https://wiki.etherealgames.com/) - *JRPG Wiki*
 * [Adventurer's Codex](https://adventurerscodex.com) -  *Online D&D 5e Campaign Manager / System*
-* [DS4Windows](https://ryochan7.github.io/ds4windows-site/) or [InputMapper](https://inputmapper.com/) - *DS4 Tool* 
+* [DS4Windows](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX) or [InputMapper](https://inputmapper.com/) - *Gamepad Input Tools*
 * [ViGEmBus](https://github.com/ViGEm/ViGEmBus) - *DS4 / 360 Controller Emulator*
 * [Xbox for Python](https://github.com/r4dian/Xbox-Controller-for-Python) - *Xbox Controller Xinput Module*
 * [DsHidMini](https://github.com/ViGEm/DsHidMini) - *Use PS3 Controllers on Windows [Guide](https://vigem.org/projects/DsHidMini/How-to-Install/)*
@@ -123,6 +123,7 @@
 * [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) or [Netch](https://github.com/netchx/Netch/) - *Online Game Acceleration Proxy*
 * [Server.pro](https://server.pro/) - *Game Servers*
 * [Nemirtingas Galaxy Emu](https://gitlab.com/Nemirtingas/nemirtingas_galaxy_emu) - *GOG Galaxy Lan Emulator*
+* [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - *Hide Player Names to Avoid Stream Sniping*
 * [ElDewrito](https://dewritohub.com/) - *Halo Online Mod Tool / [GitHub](https://github.com/ElDewrito) / [Discord](https://discord.com/invite/0TKY0SDEUHAWL4sG), [2](https://discord.com/invite/gtqM3s5)*
 * [Northstar](https://discord.gg/CEszSguY3A) - *Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases / [Guide](https://rentry.org/northstar-guide)*
 * [Titanfall2HudToggle](https://www.mediafire.com/file/q3tld2cm31znu2z/Titanfall2HudToggle.rar/file) - *Toggle Titanfall 2 Hud*
