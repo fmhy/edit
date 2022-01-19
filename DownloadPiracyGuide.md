@@ -308,6 +308,8 @@
 * [FreeDownloadManager](https://en.freedownloadmanager.org/)
 * [3nitySoftware](http://3nitysoftwares.com/index.php/en) 
 * [Antp](http://www.antp.be/) 
+* [Vovsoft](https://vovsoft.com/)
+* [NCH Software](https://www.nchsoftware.com/)
 * [FileEagle](https://www.fileeagle.com/) 
 * [ValleySoftware](https://valleysoftware.com.au/) 
 * [IcecreamApps](https://icecreamapps.com/) 
