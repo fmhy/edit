@@ -683,6 +683,7 @@ French / General Torrent Tracker
 * [PDPop](https://www.pdpop.com/) - *Video / Games / Books / NSFW* 
 * [WeDisk](https://www.wedisk.co.kr/) - *Movies / TV* 
 * [CinEast](https://cineaste.co.kr/) - *Movies* 
+* [Play Rdp](https://play.rdp.workers.dev/1:/), [2](https://black-theme.rdp.workers.dev/0:/) - *Movies / TV / [Discord](https://discord.com/invite/fpnvKDw)*
 * [Jpapas](https://jpapas.tistory.com/) - *Modded APKs* 
 * [J-pop Music Download](https://jpop.xyz/) - *Music* 
 * [4Sashi](https://4sashi.com/) - *Music*
