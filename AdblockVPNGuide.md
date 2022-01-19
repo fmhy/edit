@@ -124,10 +124,11 @@
 * [X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - *Security Threat Intelligence Platform*
 * [Web Of Trust](https://www.mywot.com/) or [ScamRate](https://www.scamrate.com/) - *Check Website Safety* 
 * [ThreatLog](https://www.threatlog.com/) - *Malicious Domain Database*
-* [Scamalytics](https://scamalytics.com/ip), [IPSpamList](http://www.ipspamlist.com/)  or [IP Address Lookup](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/) - *IP Address Check*
+* [Scamalytics](https://scamalytics.com/ip), [IPSpamList](http://www.ipspamlist.com/) or [IP Address Lookup](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/) - *IP Address Check*
 * [Virus Checker](https://add0n.com/virus-checker.html) - *Virus Check for Downloads* 
 * [VirusShare](https://virusshare.com/) - *Search / Share Malware Samples* 
 * [Bad Websites](https://github.com/elbkr/bad-websites) - *Phishing Site Index for Bots*
+* [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - *Bypass Ransomware Attacks*
 * [Ransomwhere](https://ransomwhe.re/) - *Ransomware Tracker*
 * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - *Ransomware Identification Tool*
 * [SigThief](https://github.com/secretsquirrel/SigThief) - *Signature Test* 
@@ -202,7 +203,7 @@
 * [HRef](https://href.li/) - *Hide HTTP Referer*
 * [Unsee](https://unsee.cc/) - *Private / Temporary Image Host* 
 * [ImgProxify](https://imgproxify.com/) - *Image Proxy Generator*
-* [PrivNote](https://privnote.com/) or [IPNote](https://ipnote.io/) - *Notes that Auto Delete After Being Read* 
+* [PrivNote](https://privnote.com/), [Burn.Link](https://burn.link/) or [IPNote](https://ipnote.io/) - *Send Self-Destructing Messages* 
 * [USBKill](https://github.com/hephaest0s/usbkill) - *Anti-Forensic Kill-Switch*
 * [Eraser](https://eraser.heidi.ie/) - *Remove / Overwrite Hard Drive Data* 
 * [Free Hide Folder](https://www.cleanersoft.com/hidefolder/free_hide_folder.htm) or [Wise Folder Hider](http://www.wisecleaner.com/wise-folder-hider-free.html) - *Hide Folders / Files* 
@@ -280,6 +281,7 @@
 * [eCleaner](https://add0n.com/ecleaner.html) or [History & Cache Cleaner ](https://chrome.google.com/webstore/detail/history-cache-cleaner/oiecpgbfcchalgdchgoplichofjadhmk/related?hl=en) - *History & Cache Cleaner*
 * [CopyGuard](https://github.com/roedesh/copyguard) - *Clipboard Hijacking Notifications*
 * [Nuke-Reddit-History](https://github.com/sr33/ares) - *Reddit Auto Post Delete*
+* [WhatsApp Privacy Extension](https://pfwa.lukaslen.com/) - *Hide WhatsApp Messages Until Hovered Over / [GitHub](https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web)*
 * [AudioContext Fingerprint Test](https://audiofingerprint.openwpm.com/) - *AudioContext / Canvas API Fingerprinting Test*
 * [AudioContext Fingerprint Defender](https://mybrowseraddon.com/audiocontext-defender.html) - *Stop AudioContext fingerprinting* 
 * [zero-width](https://github.com/chpmrc/zero-width-chrome-extension) - *Replaces zero-width characters* 
@@ -473,7 +475,7 @@
 * [Mozilla FPN](https://fpn.firefox.com/) - *VPN Extension / [Pricing](https://i.imgur.com/wW5rVO2.png) / Mullvad Servers*
 * [StrongSwan](https://www.strongswan.org/) - *IPsec VPN*
 * [WireHole](https://github.com/IAmStoxe/wirehole) - *Wireguard VPN w/ Adblocking Capabilities* 
-* [Syntropy](https://www.syntropystack.com/vpn), [VpnHood](https://github.com/vpnhood/VpnHood ) or [Outline](https://getoutline.org/) - *Self-Hosted VPN*
+* [Syntropy](https://www.syntropystack.com/vpn), [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood ) or [Outline](https://getoutline.org/) - *Self-Hosted VPN*
 * [Kaspersky](https://www.kaspersky.co.uk/vpn-secure-connection) - *Free VPN / 200 MB per day / No Account Required*
 * [OpenConnect](https://www.infradead.org/openconnect/) - *SSL VPN*
 * [TurboVPN](https://turbovpn.com/) - *Free VPN*
