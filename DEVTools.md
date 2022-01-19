@@ -134,13 +134,13 @@
 
 # ► Developer Tools
 
+* **[Developer Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_developer_tools)** - *Dev Tool Sites*
 * **[List.community](https://list.community/)** - *Programming / Development GitHub Lists* 
-* [free-for.dev](https://free-for.dev/), [DevToys](https://github.com/veler/DevToys), [JetBrains](https://jetbrains.com/) / [Trial Reset](https://rentry.org/52oyb), [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Dev stuff](https://freestuff.dev/) or [Tiny Tools](https://tinytools.directory/) - *Developer Tools*
+* [Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources) - *Design Resource Sites*
 * [Image Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools) - *Image & Graphic Design Tools*
 * [ReverseEagle](https://forge.tedomum.net/groups/ReverseEagle/-/archived), [2](https://web.archive.org/web/20210116205638/https://developers.reverseeagle.org/) - *Privacy Focused Developer Software*
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - *Open Source Development Software*
 * [Student Developer Pack](https://education.github.com/pack) - *Free Developer Tools for Students* 
-* [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [Graphic Design Elements](https://onehack.us/t/get-20-000-graphic-design-elements/155320), [ImCreator](http://www.imcreator.com/free), [DesignBundles](https://designbundles.net/free-design-resources), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [NoDesign](https://nodesign.dev/), [SketchRepo](https://sketchrepo.com/) or [Freebiesbug](http://freebiesbug.com/)  - *Design Resources*
 * [Libera Chat](https://libera.chat/) - *IRC Network for Project Collaboration*
 * [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/)  - *Developer Forum* 
 * [The Devs Network](https://thedevs.network/) - *Developer Chat*
@@ -149,7 +149,6 @@
 * [Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites) - *Download Icons for Projects*
 * [The Favicon Finder](https://besticon.herokuapp.com/) - *Find Favicons on Sites*
 * [Favicon Maker](https://formito.com/tools/favicon) - *Create Favicons*
-* [Phosphor Icons](https://phosphoricons.com/) - *UI Icons / [Github](https://github.com/phosphor-icons/phosphor-home)*
 * [Laws of UX](https://lawsofux.com/) - *Maxims / Principles for UI Designers* 
 * [UI Coach](https://uicoach.io/) - *UI Design Challenge Generator*
 * [HTML Dog](https://htmldog.com/) - *Front End Tutorials & Examples*
@@ -352,6 +351,7 @@
 * [Bubble](https://bubble.io/), [WeWeb](https://www.weweb.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/) or [Sktch.io](https://sktch.io/) - *Create Web Apps* 
 * [PWABuilder](https://www.pwabuilder.com/) - *Turn Site into Progressive Web App*
 * [LightHouse](https://github.com/GoogleChrome/lighthouse) - *Web App Performance Test*
+* [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - *Break Your Web Apps to Improve Them*
 * [Form To Chatbot](http://formtochatbot.com/) - *Convert Google Form to Chatbot*
 * [Herosaver](https://github.com/amerrigan/HeroSaver-v2) - *Save Site Configuration and STLs*
 * [Termible](https://termible.io/) - *Docker Powered Site Terminals*
@@ -590,9 +590,9 @@
 
 ## ▷ Color Schemes
 
+* **[Color Palette Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_palette_generators)** - *Generate Color Palettes*
 * [SpyColor](https://www.spycolor.com/) - *Color Model Conversions*
 * [Colorful](https://github.com/Siddharth11/Colorful) - *Curated List of Color Scheme Resources* 
-* [Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [MyColor](https://mycolor.space/), [MaterialPalette](https://www.materialpalette.com/), [Adobe Colors](https://color.adobe.com/), [0to255](https://www.0to255.com/), [0xrgb](http://0xrgb.com/), [bootflat](https://bootflat.github.io/color-picker.html), [brandcolors](https://brandcolors.net/), [colorfulgradients](https://colorfulgradients.tumblr.com/), [colourlovers](https://www.colourlovers.com/), [webkul](https://webkul.github.io/coolhue/), [flatuicolors](https://flatuicolors.com/), [materialui](https://materialui.co/colors/), [ColorHunt](https://colorhunt.co/), [colorswall](https://colorswall.com/), [pigment](https://pigment.shapefactory.co/), [Color Palette Generator](http://www.patorjk.com/color-palette-generator/), [colourcode](https://www.toptal.com/designers/colourcode/), [colorscales](http://www.colorscales.com/), [colors.lol](https://colors.lol/), [Color Pallete](http://www.degraeve.com/color-palette), [colorbox](https://colorbox.io/), [colors.eva](https://colors.eva.design/), [hihayk](https://hihayk.github.io/scale/), [calcolor](https://calcolor.co/), [colorlisa](http://www.colorlisa.com/), [cohesive-colors](https://javier.xyz/cohesive-colors/), [colorleap](https://colorleap.app/) or [Coolors](https://coolors.co/) - *Color Palette Generator*
 * [ColorsAndFonts](https://www.colorsandfonts.com/) - *Quickly Copy Colors & Typography Combinations* 
 * [ColorHexa](https://www.colorhexa.com/) - *Color Hex Encyclopedia*  
 * [Paletton](https://paletton.com/) - *Color Scheme Designer*
