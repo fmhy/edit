@@ -506,6 +506,7 @@
 * [FretFlip](https://fretflip.com/guitar-scales) - *Guitar*
 * [ChordBook](https://chordbook.com/) - *Guitar*
 * [Songsterr](https://www.songsterr.com/) - *Guitar*
+* [FAChords](https://www.fachords.com/) - *Guitar*
 * [Guitarsix](https://guitarsix.com/) - *Guitar*
 * [Finger Style](https://finger-style.ru/category/lessons) - *Guitar*
 * [Finger Tabs](https://fingertabs.com/) - *Tabs*
@@ -642,6 +643,7 @@
 * [Bridge Command](https://www.bridgecommand.co.uk/) - *Bridge Command Ship Simulator*
 * [Sectional Anatomy](https://www.sectional-anatomy.org/) - *Cross Sectional Educational MRI / CT Scans*
 * [Ray Optics Simulation](https://ricktu288.github.io/ray-optics/) - *Light Reflection / Refraction Simulator*
+* [Get Body Smart](https://www.getbodysmart.com/) - *Learn About Human Anatomy and Physiology*
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) or [Mindat](https://www.mindat.org/) - *Mineralogy Database* 
 * [Alien](https://alien-project.org/) - *Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)*
 * [OneZoom](http://www.onezoom.org/) - *Tree of Life Explorer* 
