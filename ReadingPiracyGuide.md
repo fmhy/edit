@@ -935,6 +935,7 @@
 * [Nakimushitl](https://nakimushitl.wordpress.com/)
 * [NovelCool](https://www.novelcool.com/)
 * [Scribblehub](https://www.scribblehub.com/)
+* [All Novel Full](https://allnovelfull.com/)
 * [Novel Free](https://mnovelfree.com/)
 * [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)  
 * [VolareNovels](https://www.volarenovels.com/) 
@@ -1035,6 +1036,7 @@
 * [RecommendMeABook](https://recommendmeabook.com/) - *Book Recommendations*
 * [WhichBook](https://www.whichbook.net/) - *Book Recommendations* 
 * [A Book like foo](https://abooklikefoo.com/) - *Book Recommendations*
+* [Shepherd](https://shepherd.com/) - *Book Recommendations*
 * [Literature-Map](https://www.literature-map.com/) - *Book Recommendations*
 * [Litsy](https://www.litsy.com/) - *Book Recommendation / Photo Sharing Community*
 * [5000 Best](http://5000best.com/) - *Top 5000 Books*
@@ -1042,6 +1044,7 @@
 * [Books Search](https://books-search.typesense.org/) - *Book Database*
 * [ISFDB](http://www.isfdb.org/cgi-bin/index.cgi) - *Speculative Fiction*
 * [nooSFere](https://www.noosfere.org/) - *Science Fiction*
+* [Glimbay](https://glimbay.netlify.app/) - Book Summaries*
 * [Comic Book Reading Orders](https://comicbookreadingorders.com/) - *Comic Book Reading Orders*
 * [DC Superhero Era Timeline](https://i.imgur.com/Icojkx1.jpg) / [2](https://i.imgur.com/drSEr0j.jpg)
 * [Mangaki](https://mangaki.fr/) - *Manga Recommendations*
