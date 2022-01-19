@@ -170,6 +170,7 @@
 * [Noises Online](https://noises.online/) - *Ambient*
 * [A Soft Murmur](https://asoftmurmur.com/) - *Ambient* 
 * [Nature Mixer](https://naturemixer.com/) - *Ambient* 
+* [EcoSounds](http://en.ecosounds.net/) - *Ambient*
 * [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - *Ambient*
 * [MoodTurn](http://moodturn.com/) - *Ambient*
 * [Sounds of Maine](https://soundsofmaine.life/) - *Ambient Maine Sounds*
@@ -366,7 +367,7 @@
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- *MIDI Files* 
 * [QueenMusicHall](http://www.queenmusichall.cz/) - *Queen MIDIs, Audio, Photos*
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
-* [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [Incompetech](https://incompetech.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
+* [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [Incompetech](https://incompetech.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/), [free stock music](https://www.free-stock-music.com/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
 
 ***
 
