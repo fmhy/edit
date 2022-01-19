@@ -163,11 +163,13 @@
 * [VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps) - *File / URL Virus Scanner* 
 * [Pithus](https://beta.pithus.org/) - *APK Virus Scanner*
 * [InstantBridge](https://instabridge.com/) - *Public WiFi Sharing Community*
+* [Gnirehtet](https://github.com/Genymobile/gnirehtet) - *Reverse Tethering*
 * [AndrOBD](https://github.com/fr3ts0n/AndrOBD) - *Android Dashboard Diagnostics*
 * [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app) - *Libgen Mobile App* 
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) or [AndrOpen](https://www.andropenoffice.com/) - *Office Suite* 
 * [xShare](https://github.com/tsudoko/xshare) - *Screenshot Tool*
 * [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - *Audio Recorder*
+* [Voiceliner](https://a9.io/voiceliner/) - *Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)*
 * [openboard](https://github.com/dslul/openboard) - *FOSS Keyboard App*
 * [Grammarly](https://forum.mobilism.org/search.php?keywords=grammarly&sr=topics&sf=titleonly) - *Grammarly Keyboard Premium* 
 * [Fing](https://www.fing.com/products/fing-app) - *Network Toolkit* 
@@ -257,9 +259,11 @@
 * [URLApp](https://urlgapp.com/) - *Convert Sites to Android Apps*
 * [Ponydroid](https://forum.mobilism.org/search.php?keywords=ponydroid&amp;sr=topics&amp;sf=titleonly), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - *Download File Manager / [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)*
 * [File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools) - *Tools to Share / Sync Files*
+* [FLauncher](https://play.google.com/store/apps/details?id=me.efesser.flauncher) - *Android TV Launcher / [GitLab](https://gitlab.com/etienn01/flauncher)*
 * [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) - *Send Files to Android TV*
 * [Apps2Fire](https://play.google.com/store/apps/details?id=mobi.koni.appstofiretv) - *Upload Apps to FireTV*
 * [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://forum.mobilism.org/search.php?keywords=solid+explorer&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/), [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) or [IrkFM](https://github.com/lfuelling/lrkFM) - *File Explorers / Manager*
+* [wsa_pacman](https://github.com/alesimula/wsa_pacman) - *Android Package Manager for Windows*
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - *Download / Torrent Manager* 
 * [Vysor](https://www.vysor.io/), [scrcpy](https://github.com/Genymobile/scrcpy) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - *Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/), [2](https://github.com/Tomotoes/scrcpy-gui)*
 * [MyPhoneExplorer](https://www.fjsoft.at/) - *Manage / Sync Your Phone with PC*
@@ -427,6 +431,7 @@
 * [APKMos](https://apkmos.com/) - *Modded*
 * [DivyaNet](https://divyanet.com/) - *Modded*
 * [APKLoop](https://apkloop.com/) - *Modded*
+* [ReleaseAPK](https://forum.release-apk.com/) - *Modded*
 * [King Games](https://ludokinggame.com/) - *Modded*
 * [ApkMagic](https://apkmagic.com.ar/) - *Modded* 
 * [TheTechNisk](https://thetechnisk.in/) - *Modded*
@@ -866,6 +871,7 @@ RSS Player*
 * [Measure](https://apps.apple.com/us/app/measure/id1383426740) - *Turn iPhone / iPad into Tape Measure*
 * [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303) or [NetNewsWire](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210) - *RSS Reader*
 * [Git Journal](https://gitjournal.io/) - *Mobile Markdown Notes*
+* [Voiceliner](https://a9.io/voiceliner/) - *Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)*
 * [CapCut](https://www.capcut.net/) - *Video Editor*
 * [PicsArt++](https://cokernutx.com/ipa-library/download/PicsArt.html), [2](https://picsart.com/apps) or [PhotoWizard](https://apps.apple.com/us/app/photowizard-photo-editor/id370833324) - *Image Editor*
 * [Tailor](http://www.trytailor.com/) - *Automatic Screenshot Stitching*
@@ -1031,6 +1037,7 @@ RSS Player*
 * [Airy TV](https://airy.tv/) - *Legal / Live TV*  
 * [The CW](https://apps.apple.com/us/app/the-cw/id491730359) - *Free CW Shows*
 * [STBEmu](https://apps.apple.com/app/stbemutv/id1567306197) - *Emulate a STB and watch IPTV*
+* [Viki](https://apps.apple.com/us/app/viki-asian-tv-dramas-movies/id445553058) - *Asian Drama*
 * [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - *Chinese Drama*
 * [RSS Player](https://apps.apple.com/us/app/rss-video-player/id885311320) - *KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)*
 * [Wako-TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - *Movies / TV / Anime / Real Debrid required*
