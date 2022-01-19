@@ -50,6 +50,7 @@
 * [ievaphone](https://ievaphone.com/), [blacktel](https://www.blacktel.io/), [Citrustel](https://www.citrustel.com/) or [PopTox](https://www.poptox.com/) - *Make Free Phone Calls*
 * [Free-lookup](https://www.free-lookup.net/) - *Phone # Lookup*
 * [tuxi](https://github.com/Bugswriter/tuxi) - *Question & Answer CLI*
+* [Valuta EX](https://valuta.exchange/) - *Currency Converter*
 * [CamelCamelCamel](https://camelcamelcamel.com/) - *Amazon Price Tracker*
 * [WorldTaxiMeter](https://www.worldtaximeter.com/) - *Taxi Fare Calculator*
 * [GasPrices](https://gasprices.aaa.com/) - *Gas Price Calculator*
@@ -408,7 +409,7 @@
 * [yt2pod](https://github.com/frou/yt2pod) - *Create Podcasts from YouTube Channels* 
 * [Deemixrr](https://github.com/TheUltimateC0der/Deemixrr) - *Automated Music Manager* 
 * [FFmpeg](https://ffmpeg.org/) - *Video / Audio Recorder, Converter & Streaming*
-* FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite)
+* FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom), [3](https://jeanslack.github.io/Videomass/) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite)
 * [SonoBus](https://sonobus.net/) - *Audio Server for Streaming*
 * [Audio Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_converters) - *Audio Conversion Sites & Programs*
 * [Faasoft FLAC Converter](https://www.faasoft.com/articles/flac-converter-mac-and-windows.html) - *FLAC Converter* 
@@ -448,8 +449,9 @@
 * [Nightcore Maker](https://nightcoremaker.com/) - *Create Nightcore Versions of Songs*
 * [CSound](https://csound.com/) - *Music Computing System*
 * [Melodai.art](https://melodai.art/) - *AI Melody Generator*
+* [AudioAlter](https://audioalter.com/preset/8d-audio) - *Create '8D' Audio*
 * [Karaoke Maker](https://www.edityouraudio.com/karaoke-maker), [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - *Create Karaoke Songs*
-* [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/), [VoiceSpice](https://voicespice.com/) or [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Online Audio Recorder* 
+* [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/), [VoiceSpice](https://voicespice.com/) or [Reverb Record](https://record.reverb.chat/) - *Online Audio Recorder* 
 * [MP3Smaller](https://www.mp3smaller.com/) - *MP3 Compressor* 
 * [MP3Food](https://mp3food.com/) - *Online Audio Cutter / Merger*
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts* 
@@ -532,6 +534,7 @@
 * [Candor](https://candor.co/hiring-freezes/) - *Hiring Freezes*
 * [Doozy](https://doozy.live/), [Miro](https://miro.com/) , [Slab](https://slab.com/) or [TipiCalls](https://tipicalls.com/) - *Collaboration Platform*
 * [PHPCRM](https://www.phpcrm.com/) - *Company Management Software*
+* [Visuafy](https://visuafy.com/) - *Create Charts From Data*
 * [Kimai](https://www.kimai.org/) - *Working Hours Tracker*
 * [Zeoob](https://zeoob.com/) - *Social Media Digital Marketing Post Simulator*
 * [ConvertMenu](https://convertmenu.com/) or [QR Menu Creator](https://qrmenucreator.com/) - *Convert Menu to QR Codes*
@@ -632,7 +635,7 @@
 * [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) or [List of Matrix Servers](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html) - *Matrix Server List*
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - *Export Skype Chat Data to Readable Text*
-* [Jitsi](https://desktop.jitsi.org/index.html), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [TinyChat](https://tinychat.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat* 
+* [Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [TinyChat](https://tinychat.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat* 
 * [Zoom Escaper](https://zoomescaper.com/) - *Self-Sabotage Video Calls to Escape Meetings*
 * [Live Curtain](https://livecurtain.com/) - *Countdown Curtain For Online Meeting*
 * [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
@@ -735,6 +738,7 @@
 * [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) - *Firefox Hidden Settings*
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - *Firefox Themes List*
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - *Firefox CSS Guides* 
+* [ThemeBeta](https://www.themebeta.com/) - *Change Chrome Theme*
 * [EdgeDeflector](https://github.com/da2x/EdgeDeflector) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect ) - *Force Open Default Browser*
 * [xBrowserSync](https://github.com/xbrowsersync/app) - *Sync Browser Data Browsers / Devices*
 * [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - *Decrypt Browser Data*
@@ -1066,6 +1070,7 @@ General Reading Sites*
 * [Discord.ID](https://discord.id/) - *Lookup a Discord User or Bot ID* 
 * [Discord Markdown Cheatsheet](https://pbs.twimg.com/media/EhCUbVnWAAE5tHx?format=png&name=900x900), [2](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-), [3](https://c.r74n.com/discord/formatting) - *Discord Markdown Guide*
 * [Discord Avatar Maker](https://discord-avatar-maker.app/) - *Make Discord Avatars*  
+* [discordzoom](https://discordzoom.com/en/) - *Enlarge and Download Discord Avatars*
 * [usrbg](https://github.com/Discord-Custom-Covers/usrbg) or [Pfps.gg](https://pfps.gg/) - *Discord Custom Profile Backgrounds / [Discord](https://discord.gg/2YcxDChxS5)* 
 * [Auto Creative](https://auto.creavite.co/icons) - *Animated Icon & Banner Generator*
 * [DiscordBannerTester](https://dav1312.github.io/BD/DiscordBannerTester/) - *Test Discord Banners*
@@ -1231,7 +1236,7 @@ General Reading Sites*
 * [Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers) - *Block Ads on Twitch*
 * [BetterTTV](https://betterttv.com/) or [FrankerFacez](https://www.frankerfacez.com/) - *Twitch Enhancement Extension*
 * [Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f) - *Twitch Extension Index*
-* [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-dl](https://github.com/ihabunek/twitch-dl) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  *Download Twitch Videos* 
+* [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  *Download Twitch Videos* 
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - *Lightweight Twitch Webplayer*
 * [Twitchls](https://twitchls.com/) - *HTML5 Twitch Stream Player* 
 * [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - *Alt Twitch Player* 
@@ -1271,7 +1276,7 @@ General Reading Sites*
 * [TweetDuck](https://github.com/chylex/TweetDuck) - *Twitter Desktop Client*
 * [BackTweets](http://backtweets.com/), [twXplorer](https://twxplorer.knightlab.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - *Search Twitter* 
 * [Twishort](https://twishort.com/) - *Make Longer Tweets*
-* [Poet.so](https://poet.so/) - *Create Twitter Post Images*
+* [Poet.so](https://poet.so/) or [Capture My Tweet](https://capturemytweet.in/) - *Create Twitter Post Images*
 * [Tweetgen](https://www.tweetgen.com/) - *Create Fake Tweets*
 * [Chirr App](https://getchirrapp.com/) - *Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chrome.google.com/webstore/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)*
 * [THS](https://xscoder.com/ths/) - *Twitter Header Maker*
@@ -1470,7 +1475,7 @@ General Reading Sites*
 * [MoveMouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home) - *Simulate User Activity* 
 * [The Fastest Mouse Clicker for Windows](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows), [Alpha Clicker](https://github.com/robiot/AlphaClicker) or [AutoClicker Bookmarklet](https://autoclicker.glitch.me/) - *Mouse Auto Clicker*
 * [StrokeIt](https://www.tcbmi.com/strokeit/) or [StrokesPlus](https://www.strokesplus.net/) - *Mouse Gestures*
-* [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) - *Improved Context Menu*
+* [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Context Menu Shell](https://nilesoft.org/) - *Improved Context Menu*
 * [OpenWith++](https://github.com/stax76/OpenWithPlusPlus) - *Custom Context Menu Commands*
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - *Re-Map Mouse Buttons & Scroll Wheel*
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [TweakUtility](https://github.com/Craftplacer/TweakUtility), [MagicX Toolbox](https://github.com/Ahsan40/MagicX-Toolbox), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - *Windows Tweaks*
@@ -1489,6 +1494,7 @@ General Reading Sites*
 * [Windows Sizer](http://www.brianapps.net/sizer4/) - *Resize & Reposition*
 * [DeskPins](https://efotinis.neocities.org/deskpins/) - *Always on Top Windows*
 * [multrin](https://github.com/sentialx/multrin) - *Organize Windows Apps in Tabs* 
+* [WinThumbsPreloader](https://github.com/bruhov/WinThumbsPreloader/) - *Preload Thumbnails in Windows Explorer*
 * [Klotures](https://gitlab.com/jkushmaul/klotures) - *Desktop Icon Organizer / [Demo](https://gitlab.com/jkushmaul/klotures/raw/master/docs/KloturesDemo.webm)*
 * [QuickLook](https://github.com/QL-Win/QuickLook) - *macOS Quick Look for Windows* 
 * [AutoHotkey](https://www.autohotkey.com/), [MacroRecorder](https://www.macrorecorder.com/) or [AutoIt](https://www.autoitscript.com/) - *Task Automation Scripts / [Script Gen](https://www.ahkgen.com/)*
@@ -1744,7 +1750,7 @@ General Reading Sites*
 * [goodls](https://github.com/tanaikech/goodls) - *Google Drive Downloader*
 * [GDirect](https://www.gdirect.link/) or [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - *Direct GDrive Link Generator*
 * [Folder.GDrive](https://folder.gdrive.vip/) - *GGDrive Folder Link Generator*
-* [GDToT](https://gdtot.eu/) - *Google Drive Manager*
+* [GDToT](https://gdtot.eu/), [2](https://new.gdtot.eu/) - *Google Drive Manager*
 * [Backup System](https://github.com/danielpy108/BackUpMySystem) - *Backup Google Drive*
 * [OneDrive CF Index](https://github.com/spencerwooo/onedrive-cf-index) - *OneDrive Index*
 * [OneDrive X](https://t.me/onedrivexbot) - *Remote OneDrive File Upload Bot*
