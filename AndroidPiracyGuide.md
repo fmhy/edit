@@ -860,7 +860,6 @@ RSS Player*
 * [MAPS.ME](https://maps.me/) - *Offline Maps / [GitHub](https://github.com/mapsme/omim)*
 * [Keepassium](https://keepassium.com/) or [Strongbox](https://strongboxsafe.com/) - *Password Manager*
 * [iSkin](https://iskin.tooliphone.net/), [Anemone](https://www.ios-repo-updates.com/repository/odyssey-repo/package/com.anemonetheming.anemone3/), [/r/iOSsetups](https://www.reddit.com/r/iOSsetups/ ), [/r/iOSthemes](https://www.reddit.com/r/iOSthemes/), [Moloko](https://apps.apple.com/us/app/moloko-themes-icons/id1534741213) or [SnowBoard](https://repo.dynastic.co/package/snowboard) - *iOS Themes* 
-* [moloko](https://apps.apple.com/us/app/moloko-themes-icons/id1534741213) - *iOS Themes & Icons* 
 * [Themify](https://apps.apple.com/us/app/themify-icon-themes-widgets/id1534126062) - *Icon Themes & Widgets*
 * [iCustom](https://icustom.tooliphone.net/) - *Make Custom Icons Without Shortcuts* 
 * [ShortcutsGallery](https://shortcutsgallery.com/) - *Siri Shortcuts*
