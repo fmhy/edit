@@ -797,6 +797,7 @@
 * [WatchIt](http://watchitapp.site/) - *Torrent Streaming App / [GitHub](https://github.com/ZorrillosDev/watchit-desktop)*
 * [Powder](https://powder.media/) - *Torrent Streaming App*
 * [Filminator](http://filminator.net/) - *Torrent Streaming App*
+* [NotFlix](https://github.com/Bugswriter/notflix) - *Torrent Streaming Script*
 * [Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) - *Stream Torrents via Clients*
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - *Stream Torrents in Browser*
 * [Radarr](https://radarr.video/) - *Movie Torrent Autodownload / [GitHub](https://github.com/Radarr/Radarr)*
