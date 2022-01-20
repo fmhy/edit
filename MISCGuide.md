@@ -64,6 +64,7 @@
 * [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - *Chinese Site / Tool Index*
 * [iBiblio](https://www.ibiblio.org/) - *Site / Tool Index* 
 * [Acme](http://www.acme.com/) - *Site / Tool Index* 
+* [itch.io Tools](https://itch.io/tools/free) - *Site / Tool Index*
 * [num's link list](https://web.archive.org/web/20210102182957/https://soda.privatevoid.net/num/lists/web/) - *Site Index*
 * [NYPL Best of the Web](https://www.nypl.org/collections/nypl-recommendations/best-of-web) - *Site Index*
 * [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - *Public Domain Resource Index Awesome*
@@ -286,6 +287,7 @@
 * [Mondrian And Me](https://mondrianandme.com/) - *Mondrian Art Creator*
 * [bomomo](https://bomomo.com/) - *Digital Art Creator*
 * [Random Art](http://www.random-art.org/) - *Random Art Generator*
+* [IOGraphica](https://iographica.com/) - *Turn Mouse Movement into Art*
 * [Periodicity](https://williamhoza.com/periodicity/) - *Harmonic Motion Patterns*
 * [Cubes.io](http://cubes.io/) - *Cellular Automata* 
 * [05x5](https://csh.bz/line/05x5.html) - *Rainbow Pattern Generator*
@@ -844,6 +846,7 @@
 * **[How to Download Fonts](https://redd.it/8tqfg6)**
 * [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [Getfancy](https://getfancy.io/), [Font Generator](https://www.toulr.com/other-tools/font-generator), [DiscordFonts](https://lingojam.com/DiscordFonts), [MessLetters](https://www.messletters.com/), [letrasdiferentes](https://letrasdiferentes.com.br/), [TextFancy](https://textfancy.com/), [Zalgo](http://eeemo.net/), [lingojam](https://lingojam.com/WeirdTextGenerator) or [fSymbols](https://fsymbols.com/generators/) - *Font Generator*
 * [Formito](https://formito.com/tools/logo) - *Typography Logo Maker*
+* [Font Map](http://fontmap.ideo.com/) - *Map of Fonts*
 * [DaFont](https://www.dafont.com/)
 * [graphicex](https://graphicex.com/font/)
 * [FontSpace](https://www.fontspace.com/)
@@ -886,6 +889,7 @@
 * [Awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/)
 * [FontFabric](https://www.fontfabric.com/fonts/) 
 * [MaisFontes](https://en.maisfontes.com/) 
+* [World of Fonts](https://w.itch.io/world-of-fonts)
 * [BestFonts](https://bestfonts.pro/) 
 * [13000 Fonts](https://drive.google.com/file/d/0B7ONEAEXwPaqc2g4UEdzbmZETG8/edit?resourcekey=0-Yk36oMN7u93Pst1xn5_z8A) 
 * [10k Font Collection](https://drive.google.com/file/d/1YJiuTFPXGyz7WLw_lq08EXgdibZJu7E8/view)
@@ -1003,6 +1007,7 @@
 * [Google search link fix](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_search_link_fix) - *Prevent Search Pages from Modifying Result Links* 
 * [Restore Classic Google Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_restore_classic_google_icons)
 * [Link Gopher](https://sites.google.com/site/linkgopher/) or [CopyLinks++](https://github.com/MichelePezza/CopyLinksplusplus) - *Extract Links from Webpages* 
+* [Link to text Fragment](https://github.com/GoogleChromeLabs/link-to-text-fragment) - *Highlight Certain Text on Webpage*
 * [Linkpack](https://www.linkpack.io/) - *Save Links to Dropbox*
 * [Survol](https://survol.me/) - *Preview Links* 
 * [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - *Page Change Detection / Notification* 
@@ -1142,6 +1147,7 @@
 * [Go Back in Time](https://chrome.google.com/webstore/detail/go-back-in-time/hgdahcpipmgehmaaankiglanlgljlakj) - *View Archived / Cached Webpages*
 * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en) - *Image / Video Album Downloader / [Script](https://openuserjs.org/scripts/indream/DownAlbum)* 
 * [BetterViewer](https://github.com/Ademking/Betterviewer) - *Improved Image Viewer*
+* [Resizing](https://resizing.app/) - *Resize Images*
 * [Vasai](https://chrome.google.com/webstore/detail/vasai-free-screen-recorde/ppbdhdggkcfgcghiaimfknmfemkegleo) - *Screen Recorder*
 * [L.O.C](https://chrome.google.com/webstore/detail/loc/eojdckfcadamkapabechhbnkleligand) - *Facebook Management Extension*
 * [Social Tools](https://chrome.google.com/webstore/detail/facebook-block-read-recei/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) - *Block "Sending" & "Seen" Facebook Chat Indicators* 
