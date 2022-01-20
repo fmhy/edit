@@ -27,6 +27,7 @@
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - *World Birth / Death Rates Visualization*
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - *Gun Violence Information Database*
 * [RecoRank](https://recorank.com/) - *Tech Review Aggregator*
+* [Reddit Favorites](https://redditfavorites.com/) - *Product & Service Recommendations*
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - *Open Source Tools* 
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - *Mac-Style Dashboard Widget*
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - *AI Experiments / Tools* 
@@ -113,7 +114,7 @@
 
 ## ▷ Text Tools
 
-* **[TextFixer](https://www.textfixer.com/)**, **[OnlineTextTools](https://onlinetexttools.com/)**, [English Tools](https://www.englishtools.org/), [Text Reverse](https://www.textreverse.com/), [Smodin](https://smodin.io/) or [Word Hippo](https://www.wordhippo.com/) - *Multiple Text Tools*
+* **[TextFixer](https://www.textfixer.com/)**, **[OnlineTextTools](https://onlinetexttools.com/)**, [English Tools](https://www.englishtools.org/), [Text Reverse](https://www.textreverse.com/), [Text Mechanic](https://textmechanic.com/), [Smodin](https://smodin.io/) or [Word Hippo](https://www.wordhippo.com/) - *Multiple Text Tools*
 * **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_editors)** - *Text Editing Tools*
 * **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - *Grammar Checking Tools*
 * **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_office_suites)** - *Office Suite Software*
@@ -165,7 +166,7 @@
 * [Translator++](https://dreamsavior.net/translator-the-introduction/) - *Automatic Translator / Editor*
 * [Poedit](https://poedit.net/) - *Translation Editor*
 * [OmegaT](https://omegat.org/) - *Translation Memory Tool*
-* [SoftMyList](https://sortmylist.com/) - *Sort / Clean Lists*
+* [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - *Organize / Format Text*
 * [Delim](https://delim.co/) - *Comma Separating Tool*
 * [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - *Create Parallel text Web*
 * [Count Duplicates](https://www.somacon.com/p568.php) or [MyNikko](http://www.mynikko.com/tools/tool_duplicateremover.html)- *Count / Remove Duplicates in a List*
@@ -195,7 +196,7 @@
 * [R2bEEaton's Phonetic Reverser](https://spea.cc/backwards/) - *Sentence / Word Reverser* 
 * [I or l?](https://iorl.info/) - *Is it an uppercase "i", or is it a lowercase "L"?*
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - *Recursive Search Tool*
-* [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/) or [Cool Symbol](https://coolsymbol.com/) - *Copy & Paste Unicode Characters*
+* [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/), [Unilist](https://unilist.raphaelbastide.com/) or [Cool Symbol](https://coolsymbol.com/) - *Copy & Paste Unicode Characters*
 * [Donger List](http://dongerlist.com/) - *600+ Unicode Emoticons* 
 * [taag](http://patorjk.com/software/taag/) - *ASCII Text Generator*
 * [Text Smileys](https://lenny-face-generator.textsmilies.com/) - *Create ASCII Face*
@@ -296,7 +297,7 @@
 * [Unreal Engine](https://www.unrealengine.com/) - *3D Creation Tool*
 * [AnimeEffects](http://animeeffects.org/en/), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/) or [Synfig](https://www.synfig.org/) - *2D Animation Tool* 
 * [Storyboarder](https://wonderunit.com/storyboarder/) - *Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)* 
-* [LibreSprite](https://libresprite.github.io/) or [SpookyGhost](https://encelo.itch.io/spookyghost) - *Sprite Animation Tool*
+* [LibreSprite](https://libresprite.github.io/), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - *Pixel Art Animation Tools*
 * [BestSnip](https://bestsnip.com/animation/) or [Mulator](https://multator.ru/) - *Online Animation Tool*
 * [Mixamo](https://www.mixamo.com/) - *3D Character Animation Tool*
 * [NATRON](https://natrongithub.github.io/) - *Compositing Software*
@@ -362,6 +363,7 @@
 * **[Audio Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_download_apps)** - *Download Audio from Various Sites* 
 * **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
 * **[Equalizer APO](https://equalizerapo.com/)** - *Audio Equalizer / [Noise Suppression](https://github.com/werman/noise-suppression-for-voice)*
+* **[AutoEq](https://github.com/jaakkopasanen/AutoEq)** - *Auto Headphone Equalizer*
 * **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - *Audio Visualization Resource Index* 
 * **[Determine Audio File Quality](https://redd.it/3l0yxp)**, [Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](http://spek.cc/) or [Spectro](http://spectro.enpts.com/) - *Determine Quality of Audio Files*
 * **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)** - *Audio Compression Examples*
@@ -420,7 +422,7 @@
 * [WACUP](https://getwacup.com/) - *Winamp update project* 
 * [Mod Archive](https://modarchive.org/) - *Audio Modules*
 * [Mixxx](https://mixxx.org/), [rekordbox](https://rekordbox.com/en/) or [Serato](https://serato.com/) - *DJ Software* 
-* [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/) or [Strofe](https://www.strofe.com/) - *Simple Audio Creators*
+* [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/), [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil) or [Strofe](https://www.strofe.com/) - *Simple Audio Creators*
 * [Moises](https://moises.ai/) - *Live Music Mixer*
 * [WD-1](https://www.worteldrie.com/WD5/), [Citizen DJ](https://citizen-dj.labs.loc.gov/loc-variety-stage/remix/), [YOU.DJ](https://you.dj/), [Until AM](http://mix.until.am/) or [Webx0x Beats](https://webx0x.com/beats/new) - *Online DJ / Beat Creator* 
 * [RaveDJ](https://rave.dj/) - *Easily Mix Songs Together* 
@@ -432,6 +434,7 @@
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- *MIDI Files* 
 * [QueenMusicHall](http://www.queenmusichall.cz/) - *Queen MIDIs, Audio, Photos*
 * [Orca](https://hundredrabbits.itch.io/orca) - *Live Coding Audio*
+* [ChipTone](https://sfbgames.itch.io/chiptone) - *Sound Effects Generator*
 * [danielx](https://danielx.net/composer/) - *Mario Paint Audio Editor*
 * [FamiTracker](http://www.famitracker.com/) or [Famistudio](https://bleubleu.itch.io/famistudio) - *NES / Famicon Audio Editor*
 * [LittleSoundDJ](https://www.littlesounddj.com/lsd/index.php) - *Gameboy Audio Editor*
@@ -530,6 +533,7 @@
 * [TryHackMe](https://tryhackme.com/), [AWS Training](https://www.aws.training/), [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html), [UI.com](https://www.ui.com/training/), [CryptoHack](https://cryptohack.org/) - *IT Training & Courses*
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - *Cloud Career Training*
 * [Failory](https://www.failory.com/graveyard) - *Learn Why Startups & Products Failed*
+* [AngelLIst](https://angel.co/) - *Startup Community*
 * [learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - *Cloud Computing Fundamentals*
 * [Candor](https://candor.co/hiring-freezes/) - *Hiring Freezes*
 * [Doozy](https://doozy.live/), [Miro](https://miro.com/) , [Slab](https://slab.com/) or [TipiCalls](https://tipicalls.com/) - *Collaboration Platform*
@@ -604,7 +608,7 @@
 * [Got Your Back](https://github.com/jay0lee/got-your-back) - *Backup Gmail Messages* 
 * [Login Reminder Remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - *Remove Login Popup from Sites*
 * [BugMeNot](http://bugmenot.com/), [Parolja](http://en.parolja.net/), [FreeAccount](https://freeaccount.biz/) or [Password Login](http://password-login.com/) - *Access & Share Throwaway Accounts* 
-* [Voice Dictation](https://dictation.io/) - *Type with your voice* 
+* [Voice Dictation](https://dictation.io/) - *Type with Voice* 
 * [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - *Manage / Store Bookmarks*
 * [SeeLink](https://www.seelink.app/) or [Axomark](https://www.axomark.xyz/) - *Collaborative Bookmarking*
 * [Instapaper](https://www.instapaper.com/) - *Bookmarking Tool*
@@ -627,6 +631,7 @@
 * [Cirlos](https://www.cirlos.net/) or [WeeChat](https://weechat.org/) - *Chat App*
 * [KiwiIRC](https://kiwiirc.com/) - *WebIRC Client*
 * [AdiIRC](https://adiirc.com/) or [Bitchx](http://bitchx.sourceforge.net/) - *IRC Client*
+* [Cabal](https://cabal.chat/) - *P2P Chat / [GitHub](https://github.com/cabal-club)*
 * [Cinny](https://cinny.in/) - *Matrix Client*
 * [Slink](https://slink.chat/) - *Aim Inspired Chat Client*
 * [Rocket Chat](https://rocket.chat/) - *Self-Hosted Chat Client*
@@ -667,6 +672,7 @@
 * [Caprine](https://sindresorhus.com/caprine/) - *Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)* 
 * [SentRanker](https://sentranker.com/) - *Social Media Sentiment Scanner*
 * [Hamachi](https://vpn.net/) - *VPN / LAN Emulator*
+* [rrweb](https://www.rrweb.io/) - *Browser Macro Recorder / [GitHub](https://github.com/rrweb-io/rrweb)*
 * [WikiStalk](https://github.com/altilunium/wistalk) - *Analyze Wikipedia User's Activity*
 * [InspectContent](https://inspectcontent.com/) - *Site Keyword Inspector*
 * [Ichi](https://ichi.city), [Linktree](https://linktr.ee/), [MyURLs](https://myurls.co/), [Carrd](https://carrd.co/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/), [CreatorSites](https://creatorsites.net/) or [ContactInBio](https://www.contactinbio.com/) - *Personal Link Homepages* 
@@ -1035,6 +1041,7 @@ General Reading Sites*
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - *Discord Rich Presence Manager*
 * [FetchCord](https://github.com/MrPotatoBobx/FetchCord) - *OS Discord Rich Presence*
 * [PlayStationDiscord](https://tustin.dev/PlayStationDiscord/) - *PlayStation Discord Rich Presence*
+* [Rich Presence U](https://ninstars.itch.io/rpc) - *Nintendo Console Rich Presence*
 * [Adobe Discord RPC](https://github.com/lolitee/adobe-discord-rpc) - *Adobe Rich Presence*
 * [iTunes-Discord-RP](https://github.com/kkevinm/iTunes-Discord-RP) - *iTunes Rich Presence* 
 * [Foo_Discord_Rich](https://github.com/TheQwertiest/foo_discord_rich) - *FooBar2000 Rich Presence*
@@ -1194,6 +1201,7 @@ General Reading Sites*
 * [Watch Frame by Frame](http://www.watchframebyframe.com/) - *Watch Videos Frame by Frame* 
 * [Anilyzer](http://anilyzer.com/) - *Watch YouTube Videos in Slow Motion & Frame by Frame* 
 * [YouTube Playlist Search](https://greasyfork.org/en/scripts/14370-youtube-playlist-search) - *Quickly Search YouTube Playlists*
+* [Playlist Creator for YouTube](https://chrome.google.com/webstore/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) - *Drag & Drop Playlist Creator*
 * [Bookmark It](https://bookmark-it.happydevelopers.co/) - *Bookmark YouTube Videos*
 * [Blocked](https://watannetwork.com/tools/blocked/) or [YouTube Region Checker](http://polsy.org.uk/stuff/ytrestrict.cgi) - *Youtube Region Restrictions Check*
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - *Shows YouTube File Sizes* 
@@ -1537,6 +1545,7 @@ General Reading Sites*
 * [UUP dump](https://uupdump.net/) - *Download Windows UUP files*   
 * [DLL Downloader](http://www.dlldownloader.com/) or [DLL-Files](https://www.dll-files.com/) - *Download DLL Files for Windows* 
 * [sven dpi](https://www.sven.de/dpi/) - *DPI Calculator* 
+* [Screen Sizes](https://screensiz.es/) - *Screen Size Database*
 * [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - *Dead Pixel Test*
 * [JScreenFix](https://www.jscreenfix.com/) or [UDPixel](http://udpix.free.fr/) - *Repair Stuck Pixels* 
 * [EIZO](https://www.eizo.be/monitor-test/) or [LCDTech](https://lcdtech.info/en/tests/) - *Display Performance Tests*
@@ -1553,7 +1562,7 @@ General Reading Sites*
 * [Depix](https://github.com/beurtschipper/Depix) - *Recover Passwords from Pixelized Screenshots* 
 * [BIOS-PW](https://bios-pw.org/) - *BIOS Password Recovery for Laptops*
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - *Terminal Frameworks, Plugins & Resources* 
-* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/) or [MobaXterm](https://mobaxterm.mobatek.net/) - *Alternative Terminal* 
+* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/) or [MobaXterm](https://mobaxterm.mobatek.net/) - *Alternative Terminal* 
 * [ss64](https://ss64.com/) - *Command Line Reference Index*
 * [ZimTools](https://zimtools.xyz/) - *Command Line Tool Configs*
 * [Terminal Icons](https://github.com/devblackops/Terminal-Icons) - *File and Folder Icons in Terminal*
@@ -1655,6 +1664,7 @@ General Reading Sites*
 * [Hide File Explorer Dark Mode White Line](https://i.imgur.com/ZZsvyyM.png)
 * [MyDockFinder](https://www.mydockfinder.com/) - *MacOS Theme for Windows 10*
 * [Taskbar11](https://github.com/jetspiking/Taskbar11) - *Change Windows 11 Taskbar Position & Size*
+* [MicaForEveryone](https://github.com/minusium/MicaForEveryone) - *Enable Titlebar Backdrop Effect on Windows 11*
 * [Win11DisableRoundedCorners](https://github.com/valinet/Win11DisableRoundedCorners) - *Disable Win11 Rounder Corners*
 * [Macdows11](https://redd.it/pd5ha6) - *Windows 11 Mac Theme Guide*
 * [StartAllBack](https://www.startallback.com/) or [Start11](https://www.stardock.com/products/start11/) - *Restore Classic Start Menu in Windows 11*
