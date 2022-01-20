@@ -68,8 +68,7 @@
 
 ## ▷ Resize / Compress
 
-* [ESRGAN Models](https://icedrive.net/1/43GNBihZyi) or [Upscale Model Database](https://upscale.wiki/wiki/Model_Database) - *Multiple Image Upscalers*
-* [Waifu2x](https://github.com/nagadomi/waifu2x), [ESRGAN](https://github.com/JoeyBallentine/ESRGAN), [GigaPixel](https://filecr.com/?s=Topaz+Gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [Resizer](https://resizer.in/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [Img.Upscaler](https://pdf-ocr.com/), [Upscaler Stockphotos](https://upscaler.stockphotos.com/), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/) or [CupScale](https://github.com/n00mkrad/cupscale) - *Image Upscaler*
+* [Image Upscalers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_upscalers) - *Upscale Images*
 * Waifu2x Tools - [Guide](https://i.imgur.com/55s8sU5.png) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/tanakamura/waifu2x-converter-cpp), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/), [5](https://waifu2x.me/), [6](http://waifu2x.udp.jp/), [7](https://waifu2x.org/), [8](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 * [Croppola](https://croppola.com/), [Bulk Image Crop](https://bulkimagecrop.com/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - *Cropping Tool* 
 * [Seopix](https://www.seopix.io/) - *Resize & Compress Images*
@@ -188,7 +187,7 @@
 
 ## ▷ Painting / Drawing
 
-* [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/) or [MediBang](https://medibangpaint.com/en/) - *Painting*
+* [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/) or [MediBang](https://medibangpaint.com/en/) - *Painting*
 * [Aggie.io](https://aggie.io/) - *Collaborative Painting*
 * [inkscape](https://inkscape.org/), [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q), [Sketch Toy](https://www.sketchtoy.com/), [Sketchbook](https://www.sketchbook.com/), [tldraw](https://www.tldraw.com/) or [Excalidraw](https://excalidraw.com/) - *Drawing / Sketching Tools* 
 * [AutoDraw](https://www.autodraw.com/) - *Machine Learning Drawing Tool* 
@@ -293,6 +292,7 @@
 * [3D Modeling Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps) - *Free 3D Modeling Apps* 
 * [Armorpaint](https://armorpaint.org/) - *3D Painting*
 * [ZBrush](https://zbrushcore.com/mini/) - *3D Sculpting*
+* [MeshLab](https://www.meshlab.net/) - *3D Mesh Processing / [GitHub](https://github.com/cnr-isti-vclab/meshlab)*
 * [CadHub](https://cadhub.xyz/) - *Community Hub for CAD Projects*
 * [MakeHuman](http://www.makehumancommunity.org/) - *3D Humanoid Modeler*
 * [posemy](https://app.posemy.art/), [quickposes](https://quickposes.com/en) or [justsketch](https://app.justsketch.me/) - *Posing Tools*
@@ -372,6 +372,7 @@
 * [ImageMagick](http://www.imagemagick.org/script/index.php) - *Image Editor / Converter*
 * [PaperFile](http://www.paperfile.net/) or [StructuRise](http://structurise.com/screenshot-ocr/) - *Convert Image Text to Text File*
 * [svgco](https://svgco.de/) - *Image to SVG Converter*
+* [AnsiLove](https://www.ansilove.org/downloads.html) - *ANSI /ASCII Art to PNG Converter / [GitHub](https://github.com/ansilove/ansilove)*
 * [Vectorizer](https://www.vectorizer.io/) or [AutoTracer](https://www.autotracer.org/) - *Image Vectorizer* 
 * [text2img](https://master.ayra.ch/text2img/) or [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image) - *Convert Text to Image*
 * [Selfie2Anime](https://selfie2anime.com/), [Animate-Me](https://github.com/Aneureka/animate-me) - *Convert Selfies to Anime* 
