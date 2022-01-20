@@ -458,6 +458,7 @@ French / General Torrent Tracker
 * [MKV Mad](https://www.mkvmad.pro/) - *Movies / TV*
 * [WorldFree4U](https://worldfree4u.city/) - *Movies / TV*
 * [HDHub4u](https://hdhub4u.bar/) - *Movies*
+* [Bollywood Movie Drive](https://drive.google.com/drive/folders/1dfv0SIMwQGfLlY1-GQY1rA_cXEoekIRH) - *Movies*
 * [KatMovieHD](https://katmoviehd.nz/) - *Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)*
 * [MoviesRush](https://moviesrush.cam/) - *Movies*
 * [VegaMovies](https://vegamovies.ink/) - *Movies / [Telegram](https://vegadrive.xyz/join.php), [2](https://t.me/Vegamoviesgroup2)*
@@ -684,6 +685,7 @@ French / General Torrent Tracker
 * [WeDisk](https://www.wedisk.co.kr/) - *Movies / TV* 
 * [CinEast](https://cineaste.co.kr/) - *Movies* 
 * [Play Rdp](https://play.rdp.workers.dev/1:/), [2](https://black-theme.rdp.workers.dev/0:/) - *Movies / TV / [Discord](https://discord.com/invite/fpnvKDw)*
+* [Korean Drama Drive](https://drive.google.com/drive/folders/1aVF9hAzRwwyK7mP6xl5Gmm2k-32i2ek-) - *Movies / TV*
 * [Jpapas](https://jpapas.tistory.com/) - *Modded APKs* 
 * [J-pop Music Download](https://jpop.xyz/) - *Music* 
 * [4Sashi](https://4sashi.com/) - *Music*
@@ -1151,6 +1153,7 @@ Portuguese
 * [Поиск](https://poshukach.com/) - *Search Engine*
 * [topsites](https://topsites.name/) - *Russian Site Index*
 * [Yandex Search Operator Cheat Sheet](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
+* [EDA](https://eda.ru/) - *Recipes*
 
 ## ▷ Downloading 
 
