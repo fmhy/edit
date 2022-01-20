@@ -70,6 +70,7 @@
 * [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - *Public Domain Resource Index Awesome*
 * [LinkLonk](https://linklonk.com/) - *Link Aggregator & Voting*
 * [Simple Tools](https://simpletools.info/doku.php) - *Simple Programs Index* 
+* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - *Hacking / Pentesting Index*
 * [Internet Curated](https://internetcurated.com/) - *Directory Index*
 * [DMOZ](http://www.dmoztools.net/) or [SmartLinks](https://smartlinks.org/index.html) - *Website Directory*
 * [Index Mania](https://indexmania.org/) - *Link Search Index*
@@ -767,7 +768,7 @@
 * [Snazzy Maps](https://snazzymaps.com/) - *Google Maps Themes*
 * [MapChannels](https://www.mapchannels.com/) - *Mapping / Navigation Tools* 
 * [OldMapsOnline](https://www.oldmapsonline.org/) - *Historical Maps Tool* 
-* [Loc Maps](https://www.loc.gov/collections/general-maps/) or [Cronobook](https://cronobook.com/) - *Historical Maps*
+* [Loc Maps](https://www.loc.gov/collections/general-maps/), [EuraAtlas](https://euratlas.com/),  [GeoGarage](http://rumsey.geogarage.com/index.html), [OpenHistoricalMap](https://www.openhistoricalmap.org/), [Digital Collection Maps](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division) or [Cronobook](https://cronobook.com/) - *Historical Maps*
 * [Historic Borders](https://historicborders.app/) - *Historic Borders Map*
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
 * [American Panorama](https://dsl.richmond.edu/panorama/) - *Interactive US Historical Maps*
