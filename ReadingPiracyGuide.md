@@ -430,6 +430,7 @@
 * [JEENEETBooks](https://www.jeeneetbooks.in/) - *IIT, JEE & NEET Material*
 * [ck12](https://www.ck12.org/)- *Interactive CK-12*
 * [premium_ebooks](https://t.me/premium_ebooks) - *Exam Books*
+* [MetPublications](https://www.metmuseum.org/art/metpublications/titles-with-full-text-online) - *Art Books*
 * [Oxford Bookworms](https://t.me/OxfordBookworms) - *Books / Audiobooks / telegram*  
 * [Digital Libraries / Archives](https://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/) - *Online university libraries*
 * [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) - *Academic Repository Search*  
@@ -653,7 +654,7 @@
 
 ## ▷ Manual Sites
 
-* [Manuals & Schematics](https://redd.it/nlw3er), [manualzz](https://manualzz.com/) or [ManualsLib](https://www.manualslib.com/) - *Manual Directories*
+* [Manuals & Schematics](https://redd.it/nlw3er), [Manuzoid](https://manuzoid.com/), [manualzz](https://manualzz.com/) or [ManualsLib](https://www.manualslib.com/) - *Manual Directories*
 * [ManualLib](https://www.manuallib.com/) - *Manual Search*
 * [Floss Manuals](https://www.flossmanuals.net/) - *Software Manuals* 
 * [iFixIt](https://www.ifixit.com/Guide) - *Repair Manuals* 
