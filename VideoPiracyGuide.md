@@ -675,6 +675,7 @@
 * [KingDrakor](https://kingdrakor.one/) - *Asian Drama*
 * [DoraMax264](https://doramax264.com/) - *Asian Drama*
 * [Play Rdp](https://play.rdp.workers.dev/1:/), [2](https://black-theme.rdp.workers.dev/0:/) - *Korean Drama / [Discord](https://discord.com/invite/fpnvKDw)*
+* [Korean Drama Drive](https://drive.google.com/drive/folders/1aVF9hAzRwwyK7mP6xl5Gmm2k-32i2ek-) - *Korean Drama*
 * [Toku.fun](https://toku.fun/) - *Japanese Superhero Movies*
 * [TinyMKV](https://tinymkv.xyz/) - *Movies / TV*
 * [480p TV Shows](https://www.480ptvshows.com/) - *Movies / TV* 
