@@ -51,6 +51,7 @@
 * [TrackerControl](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) - *Manage / Monitor Trackers*
 * [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard) - *Android 12-like Privacy Dashboard / [GitHub](https://github.com/RushikeshKamewar/PrivacyDashboard)*
 * [NetGuard](https://www.netguard.me/) - *Block Internet Access Per App* 
+* [AirGuard](https://github.com/seemoo-lab/AirGuard) - *AirTag Tracking Protection*
 * [Fake Contacts](https://github.com/BillDietrich/fake_contacts) - *Generate Fake Contacts*
 * [leon](https://github.com/svenjacobs/leon) - *Remove URL Tracking Parameters*
 * [MaxLock](https://github.com/Maxr1998/MaxLock) - *Lock Apps Behind Passwords*
@@ -251,6 +252,7 @@
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - *Read Exported Whatsapp Chats*
 * [Watomatic](https://watomatic.app/) / [Git](https://github.com/adeekshith/watomatic) or [AutoResponder](https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDEhkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDGAA=:S:ANO1ljKlL8g&gsr=CjuKAzgKGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMSGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMYAA==:S:ANO1ljLE-Ks) - *Chat App Auto-Responders*
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - *Article / Link Viewer*
+* [Fasthub-Libre](https://github.com/thermatk/FastHub-Libre) - *Github Client*
 * [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - *Track Github User Activity*
 * [BlueClover](https://github.com/nnuudev/BlueClover) - *4Chan Browser*
 * [LoliSnatcher Droid](https://github.com/NO-ob/LoliSnatcher_Droid) - *Booru Client*
