@@ -184,6 +184,7 @@
 * [August Ambiance](https://augustambience.com/) - *Ambient Summer Sounds / Relaxation* 
 * [VirtCcean](https://virtocean.com/) - *Ambient Ocean Sounds*
 * [ASMRion](https://asmrion.com/), [2](https://defonic.com/vibeasmrion.html) - *Ambient Noise Generator*
+* [NoisyLoop](https://noisyloop.com/) - *Ambient Urban Sounds*
 * [Coffitivity](https://coffitivity.com/) or [Hipstersound](https://hipstersound.com/) - *Ambient Cafe Sounds / Relaxation* 
 * [Sound Of Colleagues](https://soundofcolleagues.com/) - *Ambient Office Sounds*
 * [I Miss My Bar](http://imissmybar.com/) - *Ambient Bar Sounds* 
