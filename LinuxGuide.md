@@ -22,7 +22,6 @@
 * rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [All Seeders Column](https://github.com/AkdM/rutorrent-all-seeders) / [Docker Build](https://github.com/binhex/arch-rtorrentvpn)
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - *RTorrent Web Frontend / [Themes](https://github.com/InAnimaTe/rutorrent-themes), [2](https://github.com/artyuum/3rd-party-ruTorrent-Themes)*
 * [qBittorrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools) 
-* [Spot](https://github.com/xou816/spot) - *Spotify Desktop Client for Gnome* 
 * [Linux Difficulty Chart](https://i.imgur.com/H8sw3L4.png) - *Distros Ranked by Difficulty*
 * [BusyBox](https://frippery.org/busybox/) - *Unix Tools*
 * [Enlightment](https://www.enlightenment.org/) - *Desktop and Window Manager*
@@ -32,6 +31,10 @@
 * [Trackma](https://github.com/z411/trackma/) - *Anime Tracking App*
 * [Knapsu](https://knapsu.eu/plex/) or [Cloudbox](https://cloudbox.works/) - *Media Server*
 * [Docket-Jacket](https://github.com/linuxserver/docker-jackett) - *Docker Jacket Container*
+* [Spot](https://github.com/xou816/spot) - *Spotify Desktop Client for Gnome* 
+* [spotify-qt](https://github.com/kraxarn/spotify-qt) - *Lightweight Spotify Client*
+* [Librespot-Python](https://github.com/kokarare1212/librespot-python) - *Spotify TUI*
+* [Deezer Linux](https://github.com/aunetx/deezer-linux) - *Deezer Client*
 * [Foliate](https://johnfactotum.github.io/foliate/) - *Ebook Reader*
 * [Evince](https://wiki.gnome.org/Apps/Evince) - *PDF / DjVu Reader*
 * [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - *Free Ubuntu VNC*
@@ -99,6 +102,7 @@
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - *Linux File Search*
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - *PDF Editor*
 * [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - *Text Editor*
+* [Zathura](https://pwmt.org/projects/zathura/), [2](https://git.pwmt.org/pwmt) - *Document Viewer*
 * [Winfield](http://www.winfield.demon.nl/) - *MS Word for Linux / OS X* 
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Linux Photoshop Installer*
 * [FlameGApps](https://github.com/flamegapps/flamegapps) - *Google Apps Installer*
@@ -114,8 +118,6 @@
 * [Drawing](https://github.com/maoschanz/drawing) - *Drawing App*
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer) - *YouTube Linux Client / [Fork](https://github.com/trizen/pipe-viewer)* 
 * [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - *GNU / Linux Twitch Desktop Client* 
-* [spotify-qt](https://github.com/kraxarn/spotify-qt) - *Lightweight Spotify Client*
-* [Librespot-Python](https://github.com/kokarare1212/librespot-python) - *Spotify TUI*
 * [Qtractor](https://qtractor.org/) - *Audio Editor*
 * [Ecasound](http://nosignal.fi/ecasound/) - *Multitrack Audio-Processor / Linux*
 * [cava](https://github.com/karlstav/cava) - *Console Audio Visualizer*
@@ -284,10 +286,10 @@
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - *UEFI Kexts*
 * [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913?mt=12) - *File Download Manager*
 * [maestral](https://maestral.app/) - *File Sharing App*
-* [ss64 OSX](https://ss64.com/osx/) - *macOS Bash Commands*
+* [ss64 OSX](https://ss64.com/osx/) - *MacOS Bash Commands*
 * [Orion](https://browser.kagi.com/downloads/Orion.dmg) - *Webkit Browser with Chrome & Firefox extensions / [Discord](https://discord.gg/E9EKaPZR)*
 * [Strongbox](https://strongboxsafe.com/) *Password Manager*
-* [Drafts](https://getdrafts.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770) or [Voodoopad](http://www.voodoopad.com/) - *Text Editor / Notes*
+* [Drafts](https://getdrafts.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770) or [Voodoopad](http://www.voodoopad.com/) - *Text Editor / Notes*
 * [Taskpaper](https://www.taskpaper.com/) - *To-Do App*
 * [Stroke](https://stroke.lllllllllllllllll.com/) - *Text (You Can't Delete) Editor*
 * [BibDesk](https://bibdesk.sourceforge.io/) - *Bibliography Manager*
