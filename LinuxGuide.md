@@ -99,7 +99,7 @@
 * [KGet](https://apps.kde.org/kget/) - *Download Manager*
 * [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) - *Google Drive Downloader*
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - *Mount GDrive on Linux*
-* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - *Linux File Search*
+* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) or [Achoz](https://github.com/kcubeterm/achoz) - *File Explorers*
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - *PDF Editor*
 * [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - *Text Editor*
 * [Zathura](https://pwmt.org/projects/zathura/), [2](https://git.pwmt.org/pwmt) - *Document Viewer*
