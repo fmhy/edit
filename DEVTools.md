@@ -236,6 +236,7 @@
 * [Am I Responsive](http://ami.responsivedesign.is/) - *Responsive Design Checker*
 * [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) - *Compare Website Performance*
 * [Visual Mind AI](https://myraah.io/index.php/visualmind) - *Site Visual Score*
+* [Carbon Calculator](https://www.websitecarbon.com/) - *Estimate Sites Carbon Footprint*
 * [Rest Test Test](http://resttesttest.com/) - *Test REST/CORS Services*
 * [httpbin](https://httpbin.org/) - *HTTP Request & Response Service*
 * [RemoteMySQL](https://www.remotemysql.com/) - *Remote MySQL Database*
@@ -392,6 +393,7 @@
 * [GNUnet](https://gnunet.org/en/) - *Software Framework* 
 * [Kuker](https://github.com/krasimir/kuker) - *Debug Applications* 
 * [BugSnag](https://www.bugsnag.com/) - *Application Stability Monitor*
+* [98.css](https://jdan.github.io/98.css/) - *Build Windows 98 Themed Interfaces / [GitHub](https://github.com/jdan/98.css)*
 * [Radare](https://rada.re/r/), [Flare IDA](https://github.com/mandiant/flare-ida), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://github.com/rizinorg/cutter) - *Reverse Engineering* 
 * [Redis](https://redis.io/) - *Key-Value Database*
 * [Read the Docs](https://readthedocs.org/) - *Make Documentation for your Software*
@@ -447,8 +449,9 @@
 * [Godot](https://godotengine.org/), [Defold](https://defold.com/), [OpenXRay](https://github.com/OpenXRay) or [ursina engine](https://www.ursinaengine.org/) - *Game Engine*
 * [Playerio](https://playerio.com/) - *Online Game Engine*
 * [RPG Playground](https://rpgplayground.com/) - *Simple RPG Creator*
-* [Game-Editor](http://game-editor.com/Main_Page) or [BuildBox](http://buildbox.com/) - *Game Creator*
-* [HaxeFlixel](https://haxeflixel.com/), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - *2D Game Engine*
+* [Game-Editor](http://game-editor.com/Main_Page) or [BuildBox](http://buildbox.com/) - *Game Creators*
+* [GB Studio](https://www.gbstudio.dev/) - *Retro Game Creator / [GitHub](https://github.com/chrismaltby/gb-studio)*
+* [HaxeFlixel](https://haxeflixel.com/), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - *2D Game Creators*
 * [Unreal Engine](https://www.unrealengine.com/) - *3D Creation Tool*
 * [Designer Toolkit](https://ldtk.io/) - *2D Level Editor Level*
 * [stencyl](https://www.stencyl.com/) - *Codeless Game Engine*
@@ -458,10 +461,17 @@
 * [PlayCanvas](https://playcanvas.com/) - *Build HTML5 Visualizations / Games* 
 * [inkle](https://www.inklestudios.com/ink/) - *Game Narrative Scripting Language*
 * [Curlie World Building](https://curlie.org/en/Games/Roleplaying/World_Building) - *World Building Resource Index* 
+* [Texture Lab](https://njbrown.itch.io/texturelab) - *Procedural Texture Generator / [GitHub](https://github.com/njbrown/texturelab)*
+* [Material Maker](https://rodzilla.itch.io/material-maker) - *Procedural Texture Creator*
+* [Mixer](https://quixel.com/mixer) - *3D Texture Creation Software*
+* [Dungeon Scrawl](https://probabletrain.itch.io/dungeon-scrawl) - *Mapping Tool / [Discord](https://discord.com/invite/RxyZyXg) / [/r/Dungeonscrawl](https://www.reddit.com/r/dungeonscrawl/)*
+* [RPG Map Editor 2](https://deepnight.itch.io/tabletop-rpg-map-editor) - *Map Editor*
+* [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - *Fantasy City Generator*
 * [UE Viewer](https://www.gildor.org/en/projects/umodel) - *Unreal Engine Model Viewer / [GitHub](https://github.com/gildor2/UEViewer)*
 * [Electronic Arts GitHub](https://github.com/electronicarts) - *EA GitHub Repos*
 * [Game UI Database](https://www.gameuidatabase.com/) - *Game UI / UX Database*
 * [Xelu's Controller Prompts](https://thoseawesomeguys.com/prompts/) - *Free Game Prompts / [Video](https://youtu.be/d6GtGbI-now)*
+* [Tuesday JS](https://kirill-live.itch.io/tuesday-js) - *Visual Novel Editor / [GitHub](https://github.com/Kirilllive/tuesday-js)*
 * [Bookshelf](https://github.com/Darkhax-Minecraft/Bookshelf) - *Minecraft Mod Code Support*
 * [plugin-sdk](https://github.com/DK22Pac/plugin-sdk) - *GTA Plugin Development SDK*
 * [v2saconv](https://github.com/DK22Pac/v2saconv) - *GTAV to GTASA Resource Converter*
