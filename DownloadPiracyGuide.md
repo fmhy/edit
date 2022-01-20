@@ -298,6 +298,7 @@
 * [Download3k](https://www.download3k.com/)
 * [Soft112](https://www.soft112.com/) 
 * [ProgSoft](https://progsoft.net/)
+* [Techspot](https://www.techspot.com/downloads/) 
 * [Informer](https://www.informer.com/) 
 * [Skytopia](https://www.skytopia.com/software/) 
 * [Den4b](https://www.den4b.com/) 
@@ -318,6 +319,7 @@
 * [OldVersion](http://www.oldversion.com/) - *Old Versions of Software* 
 * [Nirsoft](https://www.nirsoft.net/) - *Windows Software* 
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software*  
+* [OS Vault](https://osvault.weebly.com/directory.html) - *Windows Software*  
 * [WinTools](https://www.wintools.info/) - *Windows Software*
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software Index* 
 * [UWP Community](https://uwpcommunity.com/) - *Universal Windows Programs / [Discord](https://discord.gg/eBHZSKG)*
