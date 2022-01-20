@@ -80,6 +80,7 @@
 * [Learn Crystal in a Day](https://getgood.at/in-a-day/crystal) - *Crystal Programming Tutorial*
 * [RubyMonk](https://rubymonk.com/) - *Ruby Tutorials* 
 * [Learn to Program](https://pine.fm/LearnToProgram/) - *Ruby Tutorials*
+* [LearnGo](https://github.com/inancgumus/learngo) - *Learn Go*
 * [GoLang.org](https://golang.org/doc/tutorial/getting-started) - *Go Tutorial*
 * [HowIStart Go](https://howistart.org/posts/go/1/) - *Go Setup Guide*
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) - *Rust Programming  Guidebook*
@@ -155,6 +156,7 @@
 * [Responsively](https://responsively.app/) - *Responsive Dev Design Tool*
 * [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - *README Template* 
 * [codex-readme](https://github.com/tom-doerr/codex-readme) - *Generate README with AI*
+* [Changie](https://changie.dev/) - *Automated Changelog / [GitHub](https://github.com/miniscruff/changie)*
 * [ChooseALicense](https://choosealicense.com/) - *List of Open Source License's & Help Choosing Them* 
 * [MKLicense](https://github.com/cezaraugusto/mklicense) - *License Generation CLI*
 * [Console](https://console.substack.com/) - *Subscribe to a List of Open Source Projects*
@@ -326,6 +328,7 @@
 * [SyAgent](https://syagent.com/) - *Server Monitor*
 * [HeidiSQL](https://www.heidisql.com/) - *SQL Manager*
 * [CodeMyUI](https://codemyui.com/) - *User Interface Code Snippets*
+* [Lepton](https://hackjutsu.com/Lepton/) - *Code Snippet Manager / [GitHub](https://github.com/hackjutsu/Lepton)*
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - *Captcha Systems*
 * [Democaptcha](http://democaptcha.com/demo-form-eng/hcaptcha.html) or [ReCAPTCHA Demo](https://www.google.com/recaptcha/api2/demo) / [GitHub](https://patrickhlauke.github.io/recaptcha/) - *Captcha Demo's*
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - *Search & Analytics Engine*
@@ -396,7 +399,7 @@
 * [98.css](https://jdan.github.io/98.css/) - *Build Windows 98 Themed Interfaces / [GitHub](https://github.com/jdan/98.css)*
 * [Radare](https://rada.re/r/), [Flare IDA](https://github.com/mandiant/flare-ida), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://github.com/rizinorg/cutter) - *Reverse Engineering* 
 * [Redis](https://redis.io/) - *Key-Value Database*
-* [Read the Docs](https://readthedocs.org/) - *Make Documentation for your Software*
+* [Read the Docs](https://readthedocs.org/) or [MkDocs](https://www.mkdocs.org/) / [GitHub](https://github.com/mkdocs/mkdocs/)- *Make Documentation for your Software*
 * [Inno Setup](https://jrsoftware.org/isinfo.php), [InstallForge](https://www.installforge.net/) or [ActualInstaller](https://www.actualinstaller.com/) - *Create Installation Programs*
 * [Flatpak](https://flatpak.org/) - *Create & Distribute Linux Applications*
 * [WTFPL](http://www.wtfpl.net/) - *Free Software Licenses*
@@ -521,7 +524,7 @@
 * [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks), [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/) or [SimpleCSS](https://simplecss.org/) - *CSS Framework*
 * [TailBlocks](https://tailblocks.cc/) - *Ready-to-use Tailwind CSS Blocks*
 * [MarkdownGuide](https://www.markdownguide.org/) - *Guide for Markdown (.md)* 
-* [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/) or [Mark Text](https://github.com/marktext/marktext) - *Markdown Editor* 
+* [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/) or [Mark Text](https://marktext.app/) / [GitHub](https://github.com/marktext/marktext)- *Markdown Editor* 
 * [Markdown Editor for Firefox](https://addons.mozilla.org/en-US/firefox/addon/markdown-editor-premium/) - *Markdown Editor Extension* 
 * [Table Magic](https://stevecat.net/table-magic/) - *CSV, HTML & Markdown Converter*
 * [Markdown To HTML](https://markdowntohtml.com/) - *Markdown to HTML Converter*
@@ -537,7 +540,7 @@
 * [Git Explorer](https://gitexplorer.com/) - *Git Command List*
 * [GitHub Desktop](https://desktop.github.com/) - *GitHub Desktop App*
 * [GitHub.Dev](https://github.dev/) - *GitHub Web App*
-* [refined-github](https://github.com/refined-github/refined-github) - *Improved GitHub Interface*
+* [refined-github](https://github.com/refined-github/refined-github) or [Ungit](https://github.com/FredrikNoren/ungit) - *Improved GitHub Interface*
 * [git.io](https://git.io/) - *GitHub URL Shortener*
 * [up-for-grabs](https://up-for-grabs.net/) - *Curated List of Tasks for New Contributes*
 * [GitHub-Userscripts](https://github.com/Mottie/GitHub-userscripts) - *GitHub Userscripts*
@@ -550,17 +553,19 @@
 * [Octobox](https://octobox.io/) - *GitHub Notifications Manager*
 * [github1s](https://github1s.com/) - *GitHub Code Viewer / GUI: do `gitk` in repo folder* 
 * [Tara](https://tara.ai/) - *Git Project Manager*
+* [GitList](https://gitlist.org/) - *Elegant Git Repository Viewer / [GitHub](https://github.com/klaussilveira/gitlist)*
 * [Railway](https://railway.app/) - *Code Repository Manager*
 * [git](https://git-scm.com/) - *Version Control System*
 * [MyPDNS](https://mypdns.org/) or [/r/coolgitlabprojects](https://reddit.com/r/coolgitlabprojects) - *GitLab Project Indexes*
 * [git:logs](https://www.gitlogs.com/), [RepoHunt](https://repo-hunt.signalnerve.workers.dev/) or [/r/coolgithubprojects](https://reddit.com/r/coolgithubprojects) - *Github Project Indexes*
 * [Active Github Forks](https://techgaun.github.io/active-forks/) - *List of active github forks*
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) - *View a Repositories Forks* 
-* [Git Extensions](https://gitextensions.github.io/) - *Git Repository Manager*
+* [Git Extensions](https://gitextensions.github.io/) or [Thermal](https://thermal.codecarrot.net/) - *Git Repository Manager*
 * [GitZip](https://gitzip.org/) - *Download GitHub Repository Sub-Folders / Files* 
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - *GitHub Fork Search* 
 * [grep.app](https://grep.app/) - *Git Repository Index*
 * [OctoLinker](https://octolinker.now.sh/) - *Make GitHub Code References Clickable* 
+* [Ugit](https://github.com/Bhupesh-V/ugit) - *Undo Git Commands*
 * [Octotree](https://www.octotree.io/) - *GitHub Repo File Tree View* 
 * [Onefetch](https://github.com/o2sh/onefetch) - *Git Repo Simmary in Terminal*
 * [Nightly.link](https://nightly.link/) - *GitHub Sharable Nightly Links*
@@ -570,9 +575,11 @@
 * [Gidget](https://github.com/GDGVIT/gidget) - *Pull Request Notifier / Android*
 * [Whats New GitHub](https://github.com/flawyte/whats-new-github) - *Repository Change Feed* 
 * [Conventional Commits](https://www.conventionalcommits.org/) - *Commit message specification*
+* [Git Cliff](https://github.com/orhun/git-cliff) - *Changelog Generator*
 * [ReadmeGallery](http://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/) - *GitHub Remdme Gallery Creator*
 * [readme.so](https://readme.so/) - *Readme Markdown Editor*
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - *Dynamically Generated GitHub Readme Stats* 
+* [GIT Quick Stats](https://git-quick-stats.sh/) - *View Git Statistics / [GitHub](https://github.com/arzzen/git-quick-stats)*
 * [GitHub Release Downloads](https://github.com/addshore/browser-github-release-downloads) - *GitHub Release Download Counter*
 * [Shields.io](https://shields.io/) - *Metadata badges for Github Readmes*
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - *Enable Snake Game on GitHub ReadMe*
@@ -619,6 +626,7 @@
 
 # ► Programming / Coding 
 
+* **[Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_code_editors)** - *Code Editing Apps & Sites*
 * **[List.community](https://list.community/)** - *Programming / Development GitHub Lists* 
 * [WebdevHome](https://webdevhome.github.io/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - *Programming / Developer Tools*
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - *Web Scraping Tool Index*
@@ -628,7 +636,6 @@
 * [Awesome Programming](https://github.com/hardikvasa/awesome-programming) - *Programming Resources* 
 * [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality/wiki) - *Software Quality Testing Tools*
 * [Node-RED](https://nodered.org/) - *Low-code programming for event-driven applications* 
-* [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/) / [Docs](https://www.emacsdocs.org/), [Lite XL](https://lite-xl.github.io/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [BlueFish](http://bluefish.openoffice.nl/index.html), [KomodoEdit](https://github.com/Komodo/KomodoEdit), [TextAdept](https://foicica.com/textadept), [SpaceMacs](http://spacemacs.org/), [Notepad2](https://www.flos-freeware.ch/notepad2.html), [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/) or [Light Table](http://lighttable.com/) - *Code Editor* 
 * [Package Control](https://packagecontrol.io/)* - *Code Editor Package Manager*
 * [RegExr](https://regexr.com/) or [RegexLearn](https://regexlearn.com/) - *Learn Regex*
 * [Regex101](https://regex101.com/) - *Regex Editor / Debugger* 
@@ -646,7 +653,7 @@
 * [WebDen](https://webden.dev/) or [CodeEval](https://www.codeeval.dev/) - *Code Playground*
 * [I run code](https://github.com/engineer-man/piston-bot) - *Evaluate Code Snippets via Discord*
 * [Shell Cloud](https://shell.cloud.google.com/) - *Google Cloud Shell Environment*
-* Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Config](https://github.com/ChristianChiarulli/LunarVim)
+* Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Config](https://github.com/ChristianChiarulli/LunarVim) 
 * [Vim Plug](https://github.com/junegunn/vim-plug), [Vim Pathogen](https://github.com/tpope/vim-pathogen), [Vundle](https://github.com/VundleVim/Vundle.vim ), [Dein](https://github.com/Shougo/dein.vim) - *Vim Plugin Managers*
 * [vim-markdown](https://github.com/plasticboy/vim-markdown) - *Vim Markdown Plugin*
 * [VimAwesome](https://vimawesome.com/) - *Vim Plugins*
@@ -748,13 +755,13 @@
 * [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) - *Integrate Twitch Chat in VSCode*
 * [Openshift](https://che.openshift.io/) - *Cloud IDE / Eclipse Che* 
 * [TerraForm](https://www.terraform.io/) - *Cloud IDE*
+* [Atheos](https://www.atheos.io/) - *Cloud IDE / [GitHub](https://github.com/Atheos/Atheos)*
 * [Apache NetBeans](https://netbeans.apache.org/) - *Cloud IDE*
 * [m3o](https://m3o.com/) - *Cloud IDE / [GitHub](https://github.com/m3o/m3o)*
 * [Arduino](https://www.arduino.cc/) - *Cloud IDE*
 * [replit](https://replit.com/) or [Gitpod](https://gitpod.io/) - *Browser Based IDE*
 * [KDevelop](https://www.kdevelop.org/) - *Cross Platform IDE*
 * [bloop](https://bloop.ai/) - *IDE AI Suggestion Extension*
-* [JDFiddle](https://jsfiddle.net/), [W3Schools](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python), [CollabEdit](http://collabedit.com/), [Portacode](https://portacode.com/), [IDE One](https://www.ideone.com/), [SoloLearn](https://www.sololearn.com/) / [Playground](https://code.sololearn.com/), [JSFiddle](https://jsfiddle.net/) or [PlayCode](https://playcode.io/) - *Online Code Editor* 
 * [glot.io](https://glot.io/) - *Pastebin with Runnable Snippets, API & Compiler* 
 * [Mystb.in](https://mystb.in/) - *Code Pastebin*
 * [myCompiler](https://www.mycompiler.io/), [IDE One](https://www.ideone.com/) or [Wandbox](https://wandbox.org/) - *Online Compiler* 
