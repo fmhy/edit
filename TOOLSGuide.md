@@ -371,7 +371,8 @@
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - *Professional Video, Audio & Adobe Software / Plugins*
 * [Audio Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_plugins) - *VST Plugins* 
 * [Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sfx_.2F_loops) - *SFX & Loops*
-* [rFXGen](https://raylibtech.itch.io/rfxgen) or [SFXR](https://sfxr.me/) - *Sounds Effects Generator*
+* [Fairusify](https://fairuseify.ml/) - *Make a Copyrighted Song Fair Use*
+* [rFXGen](https://raylibtech.itch.io/rfxgen) [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - *Sounds Effects Generator*
 * [TheAudioScene](https://theaudioscene.net/) - *Daws / VSTi / Samples / Presets* 
 * [Fresh Stuff For You](https://freshstuff4you.com/) - *Daws / Samples / Presets*
 * [Go Audi0](https://goaudio.me/) - *Audio Samples*
@@ -434,7 +435,6 @@
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- *MIDI Files* 
 * [QueenMusicHall](http://www.queenmusichall.cz/) - *Queen MIDIs, Audio, Photos*
 * [Orca](https://hundredrabbits.itch.io/orca) - *Live Coding Audio*
-* [ChipTone](https://sfbgames.itch.io/chiptone) - *Sound Effects Generator*
 * [danielx](https://danielx.net/composer/) - *Mario Paint Audio Editor*
 * [FamiTracker](http://www.famitracker.com/) or [Famistudio](https://bleubleu.itch.io/famistudio) - *NES / Famicon Audio Editor*
 * [LittleSoundDJ](https://www.littlesounddj.com/lsd/index.php) - *Gameboy Audio Editor*
@@ -451,6 +451,7 @@
 * [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - *Pop Song Sample Mixer*
 * [Nightcore Maker](https://nightcoremaker.com/) - *Create Nightcore Versions of Songs*
 * [CSound](https://csound.com/) - *Music Computing System*
+* [Helio](https://helio.fm/) - *Music Composition Software*
 * [Melodai.art](https://melodai.art/) - *AI Melody Generator*
 * [AudioAlter](https://audioalter.com/preset/8d-audio) - *Create '8D' Audio*
 * [Karaoke Maker](https://www.edityouraudio.com/karaoke-maker), [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - *Create Karaoke Songs*
@@ -592,6 +593,7 @@
 * [sheet-posting](https://www.sheet-posting.me/) - *Convert Google Spreadsheets into Blogs & RSS Feeds*
 * [Clovery](https://webcatalog.io/clovery/) - *Multi-Google App Program*
 * [hcaptcha-solver](https://github.com/JimmyLaurent/hcaptcha-solver) - *hCaptcha Solver* 
+* [Rescan](https://rescan.io/) - *Find Out Technologies Used to Build Any Site*
 * [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - *Archive, Scrape & Crawl Sites* 
 * [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/), [urlwatch](https://thp.io/2008/urlwatch/) or [FollowThatPage](https://followthatpage.com/) - *Page Change Detection / Notification* 
 * [CertAlert](https://certalert.net/) - *Alerts you when a TLS/SSL Certificate Expires* 
@@ -599,6 +601,7 @@
 * [lew.la](https://lew.la/) - *Reddit video DL, YT to MP3 & More Tools* 
 * [SocialBlade](https://socialblade.com/) - *Social Media Statistics*
 * [Post Generator](https://postgenerator.online/) - *Convert Article to Social Media Post*
+* [Cloaking Company](https://www.cloakingcompany.com/) - *Create Alogorith Pleasing Social Media Posts*
 * [4stats](https://4stats.io/) - *4chan Board & Thread Stats*
 * [Emotes Everywhere](https://kellphy.com/projects/kee.html), [GenieEmoji](https://github.com/virejdasani/Geniemoji) or [Geniemoji](https://virejdasani.github.io/Geniemoji/) - *Emoji Manager*
 * [Emojipedia](https://emojipedia.org/) or [GetEmoji](https://getemoji.com/) - *Emoji Index*
@@ -1023,6 +1026,7 @@ General Reading Sites*
 * [Discord Image Downloader Go](https://github.com/Seklfreak/discord-image-downloader-go) - *Discord Image Downloader*
 * [Dispatch](https://www.dispatchbot.ml/) - *Group Discord DMs*
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - *Discord Message Encryption*
+* [LAN Party VPN](https://github.com/gyf304/lpvpn) - *Run VPN on top of Discord*
 * [DiscordFS](https://github.com/dhrumilp15/discordfs) - *Discord File Search*
 * [DeepL](https://github.com/aisuzuki/dd-bot) - *Discord Chat Auto Translator*
 * [TwitFix](https://fxtwitter.com/) or [discord-twitter-bot](https://github.com/NNTin/discord-twitter-bot) - *Fix Discord Twitter Embeds / [GitHub](https://github.com/robinuniverse/twitfix)*
@@ -1052,6 +1056,7 @@ General Reading Sites*
 * [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - *VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)*
 * [Discord.io](https://discord.io/) or [dsc.gg](https://dsc.gg/) - *Create Custom Discord Invites*
 * [1337x-Bot ](https://github.com/brandongallagher1999/1337x-Bot) - *1337x Discord Bot*
+* [Chuu](https://github.com/ishwi/Chuu) - *Last.fm Discord Bot*
 * [fmbot](https://fmbot.xyz/) - *Discord Voice Chat Scrobbling*
 * [Craig](https://craig.chat/) - *Voice Channel Recorder / [Backup(https://craig.chat/home/giarc)*
 * [Forms](https://gitlab.com/rubellite/engineering/forms ) - *Google Form Responses as Discord Embeds*
