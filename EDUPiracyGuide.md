@@ -319,7 +319,7 @@
 * [Derivative Calculator](https://www.derivative-calculator.net/) - *Derivative Calculator*
 * [Integral Calculator](https://www.integral-calculator.com/) - *Integral Calculator*
 * [Desmos](https://www.desmos.com/) - *Graphing Calculator* 
-* [fxSolver](https://www.fxsolver.com/) or [The Engineering ToolBox](https://www.engineeringtoolbox.com/) - *Engineering & Scientific Calculator*
+* [fxSolver](https://www.fxsolver.com/), [Kalker](https://kalker.xyz/) / [GitHub](https://github.com/PaddiM8/kalker) or [The Engineering ToolBox](https://www.engineeringtoolbox.com/) - *Engineering & Scientific Calculator*
 * [FreeFEM](https://freefem.org/) - *Partial Differential Equations Solver*
 * [Online Math Tools](https://onlinemathtools.com/) - *Multiple Math Tools*
 * [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
@@ -429,6 +429,7 @@
 * [Polyglot](https://polyglotclub.com/) - *Offline Language Exchange* 
 * [South Asian Languages](https://discord.gg/TrdqTDdMba) - *South Asian Language Learning*
 * [StudySpanish](https://studyspanish.com/) - *Spanish Learning Tutorials*
+* [The French Tutorial](http://www.frenchtutorial.com/) - *French Learning Tutorials*
 * [AnimeLon](https://animelon.com/) - *Streaming / Anime / Learn Japanese*
 * [Nihongo](https://nihongo-e-na.com/eng/) - *Japanese Learning Resources*
 * [Marshall's Site](https://marshallyin.com/) or [Tofugu](https://www.tofugu.com/) - *Learn Japanese* 
@@ -529,7 +530,7 @@
 * [MyAssignmentHelp](https://myassignmenthelp.com/free-tools.php) - *Academic Tools*
 * [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - *Touch Typing Tutorial*
 * [Spreeder](https://www.spreeder.com/) - *Learn to Read Faster*
-* [Learn Anything](https://learn-anything.xyz/) or [Learney](https://app.learney.me/) - *Interactive Learning Map* 
+* [Learn Anything](https://learn-anything.xyz/), [Learning Lab](https://learn.uno/) / [Discord](https://discord.com/invite/FCzYt8u) or [Learney](https://app.learney.me/) - *Learning Resources* 
 * [Fact Directory](https://fact.directory/) - *Facts for Every Topic* 
 * [Faqtoids](https://top.faqtoids.com/) - *Fact / Info Search Engine*
 * [Explorabl.es](https://explorabl.es/) or [MinuteLabs](https://minutelabs.io/) - *Interactive Learning / Lessons* 
@@ -621,7 +622,7 @@
 * [Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php) - *Physics Tools* 
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - *Globe of Ancient Earth*
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
-* [EuraAtlas](https://euratlas.com/),  [GeoGarage](http://rumsey.geogarage.com/index.html) or [Digital Collection Maps](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division) - *Historical Maps*
+* [Loc Maps](https://www.loc.gov/collections/general-maps/), [EuraAtlas](https://euratlas.com/),  [GeoGarage](http://rumsey.geogarage.com/index.html), [OpenHistoricalMap](https://www.openhistoricalmap.org/), [Digital Collection Maps](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division) or [Cronobook](https://cronobook.com/) - *Historical Maps*
 * [Geacron](http://geacron.com/) - *World History Timeline Map*
 * [Ancestry Images](http://www.ancestryimages.com/) - *Historical Photo & Map Archive*
 * [American Panorama](https://dsl.richmond.edu/panorama/) - *Interactive US Historical Maps*
