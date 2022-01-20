@@ -222,6 +222,7 @@
 * [/r/Privacy](https://reddit.com/r/privacy),  [/r/TheHatedOne](https://www.reddit.com/r/thehatedone), [/r/PrivacyToolsIO](https://www.reddit.com/r/privacytoolsIO) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - *Privacy Discussion, News & Tools*
 * [/r/DeGoogle](https://www.reddit.com/r/degoogle) - *Google Alternative Subreddit*
 * [Unredacted Google Antitrust Filing](https://ufile.io/sr0k67vq) / [Highlights](https://twitter.com/fasterthanlime/status/1452053938195341314)
+* [Facebook Doc Stories](https://docs.google.com/document/d/1QYqmJsifBjf_xA23Ea7AdeMFyjGWaF_dvhi5EZdNUf4/edit) - *Facebook Malpractices Index*
 * [Privacy.com](https://privacy.com/) - *Make Secure Payments / US only* 
 * [OTPClient](https://github.com/paolostivanin/OTPClient) - *One-Time Password Client* 
 * [ctfs](https://github.com/ctfs/) - *Information Security Competition Writeups*
