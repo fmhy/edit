@@ -124,7 +124,7 @@
 * [downloadly](https://downloadly.ir/) - *Courses*
 * [Coursed](https://coursed.co/) - *Courses*
 * [11k+ Courses SpreadSheet](https://docs.google.com/spreadsheets/d/1vazMlMWnI7NxVZcfgpABzCFFEClMjZYUgDk40pdPpTQ/) - *Courses*
-* [Course Megadrives](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA), [2](https://mega.nz/folder/pAl0wRKK#FIZzbYjkT_09qRT5BS2GXQ), [3](https://mega.nz/folder/4t4hhCTa#zIiMZBRVAibATtHxwQ2b_w), [4](https://mega.nz/folder/F9RSWBaK#Nq6DUyPTk10EdjLQ5CWFcQ), [5](https://mega.nz/folder/shpz0ACQ#tdyaQi9HcVM-oKH9NxVewA), [6]https://mega.nz/folder/Y11ghIRC#LPwRFJESUsZ29ioIYex4hw), [7](https://mega.nz/folder/yawWzAKD#tPy0NFBa38xoNZMhXrXn0g), [8](https://mega.nz/folder/5F9WzJ7a#9UdqphaNXS13TTJAgdN15w), [9](https://mega.nz/folder/iIsEkb4B#4tdNHUYTKTJDeIxI2FZE3A), [10](https://mega.nz/folder/Ab4HnABZ#gLR_-deauS6XBfWyouVf-Q), [11](https://mega.nz/folder/B9B1iIZL#1GYxeVaTj3prxSR8kDyRyQ), [12](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA/folder/cupEDYzQ) - *Courses*
+* [Course Megadrives](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA), [2](https://mega.nz/folder/pAl0wRKK#FIZzbYjkT_09qRT5BS2GXQ), [3](https://mega.nz/folder/4t4hhCTa#zIiMZBRVAibATtHxwQ2b_w), [4](https://mega.nz/folder/F9RSWBaK#Nq6DUyPTk10EdjLQ5CWFcQ), [5](https://mega.nz/folder/shpz0ACQ#tdyaQi9HcVM-oKH9NxVewA), [6](https://mega.nz/folder/Y11ghIRC#LPwRFJESUsZ29ioIYex4hw), [7](https://mega.nz/folder/yawWzAKD#tPy0NFBa38xoNZMhXrXn0g), [8](https://mega.nz/folder/5F9WzJ7a#9UdqphaNXS13TTJAgdN15w), [9](https://mega.nz/folder/iIsEkb4B#4tdNHUYTKTJDeIxI2FZE3A), [10](https://mega.nz/folder/Ab4HnABZ#gLR_-deauS6XBfWyouVf-Q), [11](https://mega.nz/folder/B9B1iIZL#1GYxeVaTj3prxSR8kDyRyQ), [12](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA/folder/cupEDYzQ), [13](https://mega.nz/folder/lm5lgQxT#Qh52YqE0-kwP_-eWohMBbw) - *Courses*
 * [OnlineCourseBay](https://onlinecoursebay.com/) - *Courses* 
 * [CoursesDaddy](http://coursesdaddy.com/) - *Courses* 
 * [Course Drive](https://coursedrive.org/) - *Courses* 
@@ -169,10 +169,11 @@
 * [FreetutsDownload.com](https://freetutsdownload.com/) - *Courses / GDrive Host* 
 * [iTunes U](https://archive.org/details/@kyndigs) - *Lectures*
 * [University of Waterloo](https://student.cs.uwaterloo.ca/~cs247/current/) - *CS Resources / Courses*
-* [Masterclass 63 Pack](https://mega.nz/folder/HxFghIbS#rFqH402PoVDwHW_XEtN1QQ) - *Masterclass Courses / Drive*
+* [Masterclass Courses](https://uploadhub.to/folder/756e9b346a839699b075e9c483991b90/Masterclass) or [Masterclass 63 Pack](https://mega.nz/folder/HxFghIbS#rFqH402PoVDwHW_XEtN1QQ) - *Masterclass Courses*
 * [Lynda Courses](https://bin.snopyta.org/?efe32fb96a945857#GQL7q4hyKjCeB6WLbpq94S12BEwh5JWc4apjmb7RE4SU) - *Lynda Courses / Drive / pw: fmhy*
 * [LyndaFree](https://t.me/lyndafree) - *Lynda Courses / Telegram*
 * [BestWSODownload](https://www.bestwsodownload.com/) - *WSO Courses*
+* [Udemy Course Megadrives](https://mega.nz/folder/efY0AR4T#0jnk5etjz1jfX2kmhvdJYw), [2](https://mega.nz/folder/DUwSWLpT#fbqm6GMSIhB45PZqZv35jA), [3](https://mega.nz/folder/GF5zTIbJ#UcubyKl1B2YW0HiaMmim9Q), [4](https://mega.nz/folder/wt5HGICC#TnMvorTOW_k3hsTHEW4x9w), [5](https://mega.nz/folder/gxIHkQaa#CKCdB3_bO0bKYG36fen4OQ), [6](https://mega.nz/folder/11IDBAgA#aZ0mCPN8EuwX3lP3tBT7Zw), [7](https://mega.nz/folder/FSZHwKBa#iGFBQB78N-gUs4KCl31B9g), [8](https://mega.nz/folder/1DRUUBoR#K1ywmHQSe3SnqjpWkV0o7g)
 * [AirVibe](https://www.airvibe.me/) - *Udemy Courses*
 * [Udemy Courses Rentry](https://rentry.co/ecg43) - *Udemy Courses*
 * [UdemyKing](https://t.me/udemyking1 ) - *Udemy Courses*
