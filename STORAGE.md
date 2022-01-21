@@ -1898,6 +1898,7 @@ Add the following commands to a search to manually scrape each site.
 * [Spotify Music Downloader](https://t.me/joinchat/DdR2SUvJPBouSW4QlbJU4g)
 * [pymusicdl](https://github.com/insaiyancvk/pymusicdl)
 * [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) 
+
 **Recorders** 
 
 [Spytify](https://jwallet.github.io/spy-spotify/overview.html) / [GitHub](https://github.com/jwallet/spy-spotify)
