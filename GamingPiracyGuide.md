@@ -669,15 +669,18 @@
 * **[IMDb Advanced Search](https://www.imdb.com/search/)**
 * **[Grouvee](https://www.grouvee.com/)** - *Video Game Database*
 * **[TasteDive](https://tastedive.com/)** - *Recommendations* 
+* [OpenCritic](https://opencritic.com/) - *Critic Game Reviews / Ratings*
 * [IMDb](https://www.imdb.com/) - *Video Game Database*
 * [GiantBomb](https://www.giantbomb.com/games/) - *Video Game Database* 
-* [WhatToPlay](https://whatoplay.com/) - *Video Game Database*
+* [Backloggd](https://www.backloggd.com/) - *Video Game Database*
 * [Games Database](https://www.gamesdatabase.org/) - *Video Game Database* 
 * [LaunchBox Games Database](https://gamesdb.launchbox-app.com/) - *Video Game Database* 
-* [OpenCritic](https://opencritic.com/) - *Critic Game Reviews / Ratings*
 * [IGDB](https://www.igdb.com/) - *Video Game Database* 
+* [We The Players](https://wetheplayers.com/) - *Video Game Database*
+* [Rawg](https://rawg.io/) - *Video Game Database*
 * [Moby Games](https://www.mobygames.com/) - *Video Game Database* 
 * [rate.house](https://rate.house/) - *Video Game Database*
+* [Backloggery](https://backloggery.com/) - *Video Game Database*
 * [listal](https://www.listal.com/) - *Video Game Database*
 * [HOTU](http://www.homeoftheunderdogs.net/) - *Rare Video Game Database*
 * [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - *Find Similar Games*
