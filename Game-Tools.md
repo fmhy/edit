@@ -11,7 +11,8 @@
 
 # ► Gaming Tools
 
-* **[Game Libraries / Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_libraries_.2F_launcher)** - *Manange & Launch Games*
+* **[Game Libraries / Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_libraries_.2F_launcher)** - *Manage & Launch Games*
+* **[Game Tracking / Discovery](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_tracking_.2F_discovery)** - *Track Games & Discover New Ones*
 * **[PCGamingWiki](https://www.pcgamingwiki.com/)** or [AppleGamingWiki](https://applegamingwiki.com/) - *Game Info, Bug Fixes & Improvements*
 * **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)** or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - *Game Requirements Test* 
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - *Rainmeter Game Launcher*
@@ -72,9 +73,9 @@
 * [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/), [HexHTML](https://hextml.playest.net/), [Nat Geo Map Maker](https://mapmaker.nationalgeographic.org/) or [MapTool](https://www.rptools.net/?page=maptool) - *Map Making Tools* 
 * [Dungeon Map Doodler](https://dungeonmapdoodler.com/) or [donjon](http://donjon.bin.sh/) - *Draw and Build Dungeons* 
 * [Ethereal Games](https://wiki.etherealgames.com/) - *JRPG Wiki*
-* [Adventurer's Codex](https://adventurerscodex.com) -  *Online D&D 5e Campaign Manager / System*
+* [Adventurer's Codex](https://adventurerscodex.com) - *Online D&D 5e Campaign Manager / System*
 * [DS4Windows](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX) or [InputMapper](https://inputmapper.com/) - *Gamepad Input Tools*
-* [ViGEmBus](https://github.com/ViGEm/ViGEmBus) - *DS4 / 360 Controller Emulator*
+* [ViGEmBus](https://github.com/ViGEm/ViGEmBus) or [x360ce](https://github.com/x360ce/x360ce) - *DS4 / 360 Controller Emulator*
 * [Xbox for Python](https://github.com/r4dian/Xbox-Controller-for-Python) - *Xbox Controller Xinput Module*
 * [DsHidMini](https://github.com/ViGEm/DsHidMini) - *Use PS3 Controllers on Windows [Guide](https://vigem.org/projects/DsHidMini/How-to-Install/)*
 * [JoyToKey](https://joytokey.net/) - *Controller Emulator*
@@ -360,7 +361,8 @@
 * [MegaGames](https://megagames.com/) - *Fixes / Trainers / News*
 * [ChronoCrash](http://www.chronocrash.com/forum/) - *Game Modding Forum*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
-* [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - *Cheat Engine Table for Singple Player Games*
+* [CheatEngine](https://cheatengine.org/) - *Single Play Cheat Engine*
+* [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - *Cheat Engine Table for Single Player Games*
 * [Otis_Inf Camera Mods](https://redd.it/hvttbd) - *Game Camera Mods*
 * [injectSMAA](http://mrhaandi.blogspot.com/p/injectsmaa.html) - *SMAA Injection Tool*
 * [OpenVR FSR](https://github.com/fholger/openvr_fsr) - *Steam VR FidelityFX Super Resolution Mod*
