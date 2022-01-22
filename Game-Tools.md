@@ -80,6 +80,8 @@
 * [DsHidMini](https://github.com/ViGEm/DsHidMini) - *Use PS3 Controllers on Windows [Guide](https://vigem.org/projects/DsHidMini/How-to-Install/)*
 * [JoyToKey](https://joytokey.net/) - *Controller Emulator*
 * [Joystick Curves](https://www.xedocproject.com/joystickcurves.html) - *Virtual Joystick Emulator*
+* [Spud Controller](https://sadwhale-studios.itch.io/spud-controller) - *Controller Input Display*
+* [Spud Keyboard and Mouse](https://sadwhale-studios.itch.io/spud-keyboard-and-mouse) - *Keyboard+Mouse Input Display*
 * [Lowkey](https://lowkey.gg/) - *Record / Screenshot Gameplay* 
 * [Moments](https://steelseries.com/gg/moments) - *Game Clip Tool*
 * [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) or [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
@@ -96,7 +98,7 @@
 * [Moonlight Stream](https://moonlight-stream.org/) or [Rainway](https://rainway.com/gaming) - *PC Remote Play Client / [GitHub](https://github.com/moonlight-stream)*
 * [Medal](https://medal.tv/) - *Nvidia Shadowplay for non Nicosia cards*
 * [dlss-swap](https://github.com/beeradmoore/dlss-swapper) - *Download, Manage & Swap DLSS*
-* [ChimeraOS ](https://chimeraos.org/) - *Gaming Focused OS/ [Discord](https://discord.gg/fKsUbrt)*
+* [ChimeraOS ](https://chimeraos.org/) - *Gaming Focused OS / [Discord](https://discord.gg/fKsUbrt)*
 * [VibranceGUI](https://vibrancegui.com/) - *Automate Digitial Vibrance Control*
 * [ReShade](https://reshade.me/) - *Generic Post-Processing Injector / [GitHub](https://github.com/crosire/reshade)*
 * [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - *Glide & DirectX Graphics Wrapper / [GutHub](https://github.com/dege-diosg/dgVoodoo2)*
@@ -126,6 +128,7 @@
 * [Nemirtingas Galaxy Emu](https://gitlab.com/Nemirtingas/nemirtingas_galaxy_emu) - *GOG Galaxy Lan Emulator*
 * [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - *Hide Player Names to Avoid Stream Sniping*
 * [ElDewrito](https://dewritohub.com/) - *Halo Online Mod Tool / [GitHub](https://github.com/ElDewrito) / [Discord](https://discord.com/invite/0TKY0SDEUHAWL4sG), [2](https://discord.com/invite/gtqM3s5)*
+* [BakkesMod](https://bakkesmod.com/) - *Rocket League Trainer*
 * [Northstar](https://discord.gg/CEszSguY3A) - *Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases / [Guide](https://rentry.org/northstar-guide)*
 * [Titanfall2HudToggle](https://www.mediafire.com/file/q3tld2cm31znu2z/Titanfall2HudToggle.rar/file) - *Toggle Titanfall 2 Hud*
 * [CnCNet](https://cncnet.org/) - *Multiplayer Command & Conquer* 
