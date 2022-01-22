@@ -15,6 +15,7 @@
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Courses / Infinite trial by clearing cookies & making new account*
 * **[freeCodeCamp](https://www.freecodecamp.org/)** - *Programming / Courses / Interactive [Archive](https://drive.google.com/drive/folders/1M_GDMaRwFDB_UG0y-WQdNqTxLxchlzgl?usp=sharing)*
 * **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - *Read / Download Programming Books* 
+* [Uncensorable Publishing](https://uncensorablepublishing.com/) or [How-to Host Questionable Websites](https://weboas.is/media/host.png) / [PDF](https://weboas.is/media/host.pdf) - *How-to Create Uncensorable Sites*
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - *Git Learning Game*
 * [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - *Github Cheat Sheet*
 * [Developer.Mozilla](https://developer.mozilla.org/) - *Developer Resources* 
@@ -118,7 +119,6 @@
 * [666GB Devil Collection](https://mega.nz/folder/7HRiUb7Q#xXXnIdhGxuPwxtz99BhPpg) - *Web App Development Courses*
 * [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - *Learn Swift and build iOS App Building*
 * [WeCreators](https://www.wecreators.co/creators-tools) - *Site Development / Influencer Courses*
-* [How-to Host Questionable Websites](https://weboas.is/media/host.png) - *Guide / [PDF](https://weboas.is/media/host.pdf)*
 * [Learn Git Branching](https://learngitbranching.js.org/) - *Interactive Git Branching Guide*
 * [Learn SQL](https://sqlbolt.com/) or [Top Database Bundle](https://drive.google.com/drive/folders/1rxntNcqQPQPOeIfzE0YL4NEtUncUsrJJ) - *SQL Lessons*
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - *PostgreSQL Tutorial*
@@ -164,13 +164,13 @@
 * [Mockable](https://www.mockable.io/) - *Mock APIs*
 * [Pipedream](https://pipedream.com/) - *Connect APIs / [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)*
 * [Perspective API](https://www.perspectiveapi.com/) - *Toxicity Reduction API*
+* [Copy.ai](https://www.copy.ai/) - *Marketing Description Generator*
 * [Penpot](https://penpot.app/) - *Cross Domain Design & Prototyping Platform*
 * [Mysterium Network](https://www.mysterium.network/) - *Open Web Protocol*
 * [Webhook.site](https://webhook.site/) - *Webhook Tool*
 * [Scoop](https://www.scoop.it/) - *Content Curation Tool*
 * [WebSequenceDiagrams](https://www.websequencediagrams.com/) - *Draw Sequence Diagrams* 
 * [ASCII Flow](https://asciiflow.com/) - *Draw ASCII Diagrams*
-* [MinIO](https://min.io/) - *Cloud Native Object Storage* 
 * [Thanos](https://thanos.io/) - *Open Source Prometheus Setup / [GitHub](https://github.com/thanos-io/thanos)* 
 * [Ainize](https://ainize.ai/) - *Launchpad for open-source AI projects*
 * [DBeaver](https://dbeaver.io/) - *Universal Database Tool*
@@ -218,12 +218,13 @@
 
 ## ▷ Site Development 
 
+* **[Website Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_creators)** - *Website Creation Tools*
 * **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
 * [ZeroNet](https://zeronet.io/) or [Federalist](https://github.com/publiusfederalist/federalist) - *Uncensorable Sites / [/r/Zeronet](https://www.reddit.com/r/zeronet/)*
+* [GoodBadISPs ](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - *Best ISPs for Tor Hosting*
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/),  [xWebTools](https://www.xwebtools.com/) or [CSSAuthor](https://cssauthor.com/) - *Site Development Tools*
 * [Sympli](https://sympli.io/ ) - *Designer / Developer Collaboration Tool*
-* [Uncensorable Publishing](https://uncensorablepublishing.com/) - *Create Hard to Censor Sites*
 * [Flux](https://www.runonflux.io/) - *Decentralized Cloud Infrastructure*
 * [Web Designer News](https://www.webdesignernews.com/) - *Web Design News*
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
@@ -270,17 +271,18 @@
 * [WebScarab](https://wiki.owasp.org/index.php/Category:OWASP_WebScarab_Project) - *HTTP / HTTPS Protocol Analysis*
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist* 
 * [Flounder](https://flounder.online/) - *Gemini Website Builder / [GitHub](https://github.com/alexwennerberg/flounder)* 
-* [GoHugo](https://gohugo.io/), [SouPalt](https://soupault.app/), [Barly](https://github.com/charludo/barely), [Zola](https://www.getzola.org/), [Jamstack Generators](https://jamstack.org/generators/), [Hugo](https://gohugo.io/), [Jekyll](https://jekyllrb.com/), [vveb](https://www.vvveb.com/), [Potion](https://www.potion.so/) or [8b](https://8b.com/) - *Website Creators*
+* [Framer](https://www.framer.com/) - *Interactive Site / App Design Tool*
 * [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - *Webpage Editor* 
 * [Plunker](https://plnkr.co/) - *Prototype / Test Websites Ideas*
 * [WebDesignMuseum](https://www.webdesignmuseum.org/) - *Website Designs Over Time*
 * [Bootstrap](https://getbootstrap.com/) - *Mobile Site Creator / [Icons](https://github.com/twbs/icons) / [Snippets](https://bootsnipp.com/)*
+* [Extension.dev](https://extension.dev/) - *Custom Site Browser Extensions*
 * [Brython](https://brython.info/) - *Python 3 Web Scripting Language*
 * [Sketch2Code](https://sketch2code.azurewebsites.net/) - *Convert Hand-Drawn Designs into HTML*
-* [Straw.Page](https://straw.page/), [Own Free Website](https://www.own-free-website.com), [itty.bitty](https://itty.bitty.site/), [txti](http://txti.es/), [Sitey](https://www.sitey.com/), [mmm](https://build.mmm.page/), [cargo](https://cargo.site/), [Talium](https://talium.co/), [Sitey](https://www.sitey.com/), [Jigsy](https://jigsy.com/), [Temper](https://temper.one/) or [Neocities](https://neocities.org/) - *Simple Site Creator*
 * [LocalXpose](https://localxpose.io/) - *Reverse Proxy*
 * [BuiltWith](https://builtwith.com/) - *Find Out What Sites are Built With*
 * [Elements Envato](https://qltien.com/elements/getcode/babiato.html) or [PsdRepo](https://psdrepo.com/) - *Templates, Mockups, Logos, Video*
+* [LandingPage](https://landingpage.fyi/index.html) - *Landing Page Tool Index*
 * [Uisual](https://uisual.com/) - *Landing Page Templates*
 * [Canva](https://www.canva.com/) or [PikBest](https://pikbest.com/) - *Design Templates / [Premium Apk](https://forum.mobilism.org/search.php?keywords=Canva+&sr=topics&sf=titleonly)* 
 * [Zeplin](https://zeplin.io/) - *Design Templates / Editor*
@@ -298,6 +300,7 @@
 * [PublishThisEmail](https://www.publishthis.email/) - *Email Based Website Builder*
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - *Mobile Friendly Page Test* 
 * [hlsflow](https://github.com/hlsflow/hlsflow) - *Host Video in HLS Stream*
+* [Testimonial](https://testimonial.to/) - *Easily Add Video Testimonials to Sites*
 * [StreamYard](https://streamyard.com/) - *Live Stream Creator*
 * [Visiwig](https://www.visiwig.com/) - *Copy / Paste Site Graphics*
 * [WebDesigner](https://webdesigner.withgoogle.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/AriaMinaei/theatre), [Haiku](https://www.haikuanimator.com/), [Greensock](https://greensock.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [Mantra](https://jeremyckahn.github.io/mantra/) or [Animate.css](https://animate.style/) - *Create Interactive Motion Graphics*
@@ -332,7 +335,7 @@
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - *Captcha Systems*
 * [Democaptcha](http://democaptcha.com/demo-form-eng/hcaptcha.html) or [ReCAPTCHA Demo](https://www.google.com/recaptcha/api2/demo) / [GitHub](https://patrickhlauke.github.io/recaptcha/) - *Captcha Demo's*
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - *Search & Analytics Engine*
-* [Algolia](https://www.algolia.com/), [TypeSense](https://typesense.org/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/) or [FusionBot](https://www.fusionbot.com/) - *Search API*
+* [Algolia](https://www.algolia.com/), [TypeSense](https://typesense.org/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/), [Sphinx](http://sphinxsearch.com/) or [FusionBot](https://www.fusionbot.com/) - *Search API*
 * [GetButton](https://getbutton.io/) - *Get free 'Message Us' Button for your Site*
 * [cssbuttons](https://cssbuttons.io/) - *CSS Buttons*
 * [Tawk](https://www.tawk.to/) - *Website Chat & Ticketing System*
@@ -341,6 +344,7 @@
 * [Let's Encrypt](https://letsencrypt.org/) - *Free TLS Certificates*
 * [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - *Free SSL Certificates*
 * [OpenSSL](https://www.openssl.org/) - *SSL / TLS Toolkit*
+* [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - *Cloud Native Object Storage* 
 * [Amazon S3](https://aws.amazon.com/s3) - *Cloud Object Storage Amazon Simple Service Storage*
 * [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - *Email Verification Service*
 * [Hosts.cx](https://hosts.cx/) - *Website Previews*
@@ -411,6 +415,7 @@
 * **[Tizen](https://www.tizen.org/)** - *Android TV App Creator*
 * [XDA](https://forum.xda-developers.com/) - *App Development Forum*
 * [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - *App Development Platform / [GitHub](https://github.com/xamarin)*
+* [Framer](https://www.framer.com/) - *Interactive Site / App Design Tool*
 * [Docker](https://www.docker.com/) - *Build, Manage & Run Apps in Containers / [Images](https://linuxserver.io/)*
 * [I wish there was app](https://iwishtherewas.app/) - *Get App Ideas From Twitter*
 * [Blisk](https://blisk.io/) - *Cross-Device Testing*
@@ -431,7 +436,7 @@
 * [namae](https://namae.dev/) - *App Name Availability Check*
 * [Lich](https://github.com/line/lich) - *Android Development Libraries*
 * [androidx](https://github.com/androidx/androidx) - *Android Development Environment for Jetpack Extensions*
-* [Kodular](https://www.kodular.io/), [AppCreator24](https://www.appcreator24.com/), [Flutter](https://flutter.dev/) or [Android Studio](https://developer.android.com/studio/index.html) - *Android App Creator*
+* [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Flutter](https://flutter.dev/) or [Android Studio](https://developer.android.com/studio/index.html) - *App Creators*
 * [Python to APK](https://github.com/Spidy20/Python_To_APK) - *Convert Python Code to APK*
 * [GoNative](https://gonative.io/) - *Convert Websites to Mobile Apps*
 * [Shizuku](https://shizuku.rikka.app/) - *Connect Apps to APIs*
