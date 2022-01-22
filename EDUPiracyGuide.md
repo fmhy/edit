@@ -514,6 +514,7 @@
 * [FAChords](https://www.fachords.com/) - *Guitar*
 * [Guitarsix](https://guitarsix.com/) - *Guitar*
 * [Finger Style](https://finger-style.ru/category/lessons) - *Guitar*
+* [coop3rdrumm3r](https://www.drumeo.com/coop3rdrumm3r/) - *Drumming*
 * [Finger Tabs](https://fingertabs.com/) - *Tabs*
 * [LearningSynths](https://learningsynths.ableton.com/) - *Synthesizers*
 * [A-Complete-UTAU-Tutorial-For-Beginners](https://www.quotev.com/story/9299060/A-Complete-UTAU-Tutorial-For-Beginners) - *UTAU Tutorial*
