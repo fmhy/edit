@@ -56,6 +56,7 @@
 * [Hallownest](https://www.hallownest.net/) - *Hollow Knight Map*
 * [Library of Codexes](http://libraryofcodexes.com/) - *Game Codex Library*
 * [Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Covers for Games* 
+* [SreamGridDB](https://www.steamgriddb.com/) - *Custom Video Game Assets / [Discord](https://discord.com/invite/bnSVJrz)*
 * [Open Game Art](https://opengameart.org/) - *Game Assets / Images* 
 * [The Models Resource](https://www.models-resource.com/) - *Game Models*
 * [The Textures Resource](https://www.textures-resource.com/) - *Game Textures*
