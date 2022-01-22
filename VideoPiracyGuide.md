@@ -479,6 +479,7 @@
 * [WwiTv](https://wwitv.com/) - *TV*
 * [WorldCupFootball](http://www.worldcupfootball.me/) - *Sports*
 * [cytube](https://cytu.be/) - *TV / Chat*
+* [Hidden Movie](https://hidden.pm/) - *TV / Chat*
 * [6stream](http://6stream.xyz/) - *Sports*
 * [FLS](http://go.freestreams-live1.com/) - *Sports / [Discord](https://discord.gg/UKEjyPEaYG)*
 * [Your Sports Stream](http://yoursports.stream/) - *Sports*
