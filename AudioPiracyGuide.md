@@ -117,6 +117,7 @@
 * [Nightride.fm](https://nightride.fm/) - *Synthwave / Darksynth Radio* 
 * [Di.fm](https://www.di.fm/) - *Electronic Radio* 
 * [0x40](https://0x40.mon.im/) - *Electronic Radio w/ Anime Pictures* 
+* [8bit.fm](https://8bit.fm/) - *Chiptune Radio*
 * [Poolside FM](https://poolside.fm/) - *Summer Radio*
 * [latestation](http://radio.late.city/) - *Late-Night Radio*
 * [LISTEN.moe](https://listen.moe/)  - *K-Pop Radio / [Client](https://github.com/LISTEN-moe/windows-app)*
@@ -404,7 +405,7 @@
 
 # ► Tracking / Discovery
 
-* **[Last.fm](https://www.last.fm/home)** or [Libre](https://libre.fm/) - *Automatically track music you listen to / [Manual Scrobble](https://openscrobbler.com/) / [Web Scrobble](https://web-scrobbler.com/) / [Android](https://github.com/kawaiiDango/pScrobbler)*
+* **[Last.fm](https://www.last.fm/home)**, [Music Board](https://musicboard.app/) or [Libre](https://libre.fm/) - *Automatically track music you listen to / [Manual Scrobble](https://openscrobbler.com/) / [Web Scrobble](https://web-scrobbler.com/) / [Android](https://github.com/kawaiiDango/pScrobbler)*
 * **[Has it leaked](https://hasitleaked.com/)** or [LEAKED](https://leaked.cx/) - *Album Leak Tracker*
 * **[Muspy](https://muspy.com/)** - *Get Album Release Updates*
 * **[RateYourMusic](https://rateyourmusic.com/)**, **[Sputnik](https://www.sputnikmusic.com/)**, [Discogs](https://www.discogs.com/), [listnd](https://listnd.com/) or [Musicbranz](https://musicbrainz.org/) - *Ratings / Reviews*
