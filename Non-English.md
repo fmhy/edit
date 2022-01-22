@@ -474,7 +474,7 @@ French / General Torrent Tracker
 * [9xflix](https://9xflix.one/) - *Movies*
 * [ExtraMovies](https://extramovies.town/) - *Movies*
 * [RemaxHD](https://remaxhd.org/) - *Movies / TV*
-* [MoviesVerse](https://moviesverse.cc/) - *Movies / TV / [Telegram](https://t.me/MoviesHomeOFFICIALS)* 
+* [MoviesVerse](https://moviesverse.me/) - *Movies / TV / [Telegram](https://t.me/MoviesHomeOFFICIALS)* 
 * [Gophie](https://gophie.cam/) - *Movies / TV*
 * [AnimeAcademy](https://animeacademy.in/) - *Anime*
 * [ToonWorld4All](https://www.toonworld4all.me/) - *Cartoons / Anime*
@@ -1142,6 +1142,7 @@ Portuguese
 
 * [FSOline](http://www.filmeserialeonline.org/) -  *Movies / TV* 
 * [HindiLover](https://hindilover.biz/) - *TV*
+* [Cool Tv Online](https://www.cool-etv.net/) - *Live TV / Sports*
 
 ## ▷ Download
 
