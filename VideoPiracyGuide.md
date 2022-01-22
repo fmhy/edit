@@ -17,6 +17,8 @@
 * [Stream IMDb](https://github.com/4L00/TemperMonkey-Scripts/) - *Add Stream Search Buttons to IMDb*
 * [Streaming Site Ranking](https://dirtywarez.org/cat/streaming) - *Alexa Rankings*
 
+***
+
 ## ▷ Dedicated Hosts
 
 * **[Movies4Discord](https://discord.gg/h3uM4zQ9QR)** - *Movies / TV / 1080p Only / [Website](https://movies4discord.xyz/)*
@@ -30,6 +32,7 @@
 * [VikV](https://vikv.net/), [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
 * [TheFlix](https://www.theflix.to/) - *Movies / TV* 
 * [SockShare](http://sockshare.ac/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones)*
+* [PrivateHD](https://www.privatehd.xyz/) - *Movies / TV*
 * [Trailers.to](https://trailers.to/) - *Movies / TV / [Bypass Quota](https://openvideofs.github.io/)*  
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - *Movies / TV / Anime*
 * [NetU](https://netu.io/view_page.php?pid=4) - *Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)*
@@ -286,6 +289,7 @@
 * [RyuAnime](https://ryuani.me/) - *Sub / Dub*
 * [Genoanime](https://genoanime.com/) - *Sub / Dub* 
 * [Just Dubs](http://justdubs.org/) - *Dub*
+* [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - *Sub*
 * [GoGoAnime](https://gogoanime.pe/), [2](https://streamani.net/), [3](https://www2.gogoanime.cm/), [4](https://animekeyo.com/) - *Sub / Dub / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime)*
 * [Dubbed Anime](https://ww5.dubbedanime.net/) - *Sub / Dub*
 * [AnimeShow](https://www2.animeshow.tv/) - *Sub*
@@ -353,6 +357,7 @@
 * [TopCartoons](https://www.topcartoons.tv/)
 * [WatchCartoonOnline](https://watchcartoononline.bz/)
 * [KissCartoon.info](https://kisscartoon.info/) - *Anime / Cartoons*
+* [Anime World India](https://anime-world.in/) - *Anime / Cartoons / [Discord](https://discord.com/invite/c3ete48q8H)*
 * [Supercartoons](https://www.supercartoons.net/)
 * [b98](https://www.b98.tv/)
 * [Disney Video](https://video.disney.com/series/) - *Disney Series & Shorts*
@@ -482,6 +487,7 @@
 * [livetv](http://livetv.sx) - *Sports*
 * [bilaSport](http://bilasport.net/) - *Sports*
 * [NBAFullMatch](https://nbafullmatch.com/) - *Sports*
+* [FreeStreams](http://fc.freestreams-live1.com/) - *Sports*
 * [SkorLive](https://skorlive.com/) - *Sports*
 * [La Casa Del Tiki Taka](https://www.lacasadeltikitakatv.net/) - *Sports*
 * [StreamsGate](https://streamsgate.tv/) - *Sports*
@@ -512,6 +518,7 @@
 * [Cricworld](http://cricworld.club/) - *Sports*
 * [CricHD.tv](https://web.crichd.tv/) - *Sports*
 * [UFCKhabib](http://ufckhabib.com/) - *Sports*
+* [TotalSportek](https://www.totalsportek.com/) - *Sports*
 * [6Streams](http://6streams.tv/) - *Sports*
 * [NodelayTV](http://nodelaytv.pw/) - *Sports*
 * [Rojadirecta](https://www.rojadirecta.watch/) - *Sports*
@@ -526,6 +533,7 @@
 * [VIPLeague](https://vipleague.cc/) / [2](https://vipleague.im/) / [3](https://en.vipleague.tv/) or [VIPBox](https://www.vipbox.lc/) - *Sports* 
 * [FreeStream-Live](http://freestreams-live1.com/) - *Sports* 
 * [UFC Streams](https://mma.ufcstream.me/) - *MMA / Wrestling*
+* [BoxingStreams100](https://reddits.boxingstreams100.com/) - *Boxing*
 * [NBA Streams](https://reddit.nbastream.nu/) - *NBA*
 * [9Live](https://www.9live.club/) - *NFL*
 * [NFLStream](https://reddit.nflstream.io/) - *NFL*
@@ -535,9 +543,10 @@
 * [Boxing Streams](https://live.boxingstreams.me/) - *Boxing*
 * [LiveSoccer TV](https://www.livesoccertv.com/) - *Soccer*
 * [FootEM](https://www.footem.site/) - *Soccer*
-* [footybite](https://live.footybite.com/) - *Soccer* 
+* [footybite](https://live.footybite.cc/) - *Soccer* 
 * [HesGoal](http://www.hesgoal.tv/) - *Soccer*
 * [Soccer Streams](https://socceronline.me/) - *Soccer*
+* [Vebo](https://vebotv.top/) - *Soccer*
 * [Cyfo Streams](http://www.cyfostreams.com/) - *Cycling & Soccer*
 * [NHLstream](https://www.nhlstream.net/) - *NHL*
 * [NHL Streams](https://reddit.nhlstream.nu/) - *NHL*
