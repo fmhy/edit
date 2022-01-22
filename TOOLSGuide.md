@@ -720,6 +720,7 @@
 * [Hosts Files ghosts](https://github.com/StevenBlack/ghosts) - *Evaluate, Compare & Format*
 * [byp4xx](https://github.com/lobuhi/byp4xx) - *Bypass "403 Forbidden" Messages* 
 * [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - *SSH & Telnet Client / [Keygen](https://www.puttygen.com/)* 
+* [Dashy](https://dashy.to/) - *Highly Customizable Home Server Homepage / [GitHub](https://github.com/lissy93/dashy)*
 * [FairGame](https://github.com/Hari-Nagarajan/fairgame) - *Automatically Place Orders on Amazon*
 * [rickroll-blocker](https://github.com/hitthemoney/rickroll-blocker/) - *Rick Roll Blocker* 
 
