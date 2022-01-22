@@ -47,7 +47,9 @@
 * [susOS](https://github.com/Villagerjj/sus-os) - *Among Us Themed Distro*
 * [Linux x Technology](https://linuxdiscord.com/) or [Discord-Linux](https://discord.gg/discord-linux) - *Linux Chat Communities*
 * [Discover](https://github.com/trigg/Discover) - *Discord Linux Overlay*
-* [Fix Guild Lag](https://wiki.archlinux.org/title/Discord#Lagging_when_scrolling_through_your_guilds) - *Fix lag when scrolling through guilds in Linux*
+* [Polybar](https://github.com/jaagr/polybar) or [lemonbar](https://github.com/LemonBoy/bar) - *Customizable Status Bar*
+* [Fix Guild Lag](https://wiki.archlinux.org/title/Discord#Lagging_when_scrolling_through_your_guilds) - *Fix Guild Scrolling Lag*
+* [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - *Hardcoded Tray Icon Fix*
 * [Tunic](https://github.com/mikeslattery/tunic) - *Install Linux Over or Alongside Windows*
 * [Darling](https://www.darlinghq.org/) - *Run MacOS Programs on Linux*
 * [OSX-KVM](https://github.com/kholia/OSX-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - *MacOS Virtual Machine*
@@ -68,6 +70,7 @@
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [GParted](https://gparted.org/) - *Partition Manager*
 * [Gnome-Look](https://www.gnome-look.org/), [OCS Store](https://www.opendesktop.org/p/1175480/), [Oomox](https://github.com/themix-project/oomox), [Adapta](https://github.com/adapta-project/adapta-gtk-theme), [Arc](https://github.com/jnsh/arc-theme), [Numix](https://github.com/numixproject/numix-gtk-theme), [Evopop](https://github.com/solus-project/evopop-gtk-theme), [Flatablous](https://github.com/anmoljagetia/Flatabulous), [Flatablous Arc](https://github.com/andreisergiu98/arc-flatabulous-theme), [Material Ocean](https://github.com/material-ocean/material-ocean), [Ant ](https://github.com/EliverLara/Ant ) or [xfce-look](https://www.xfce-look.org/)  - *Linux Themes*
+* [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - *Mac Theme*
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme), [Moka](https://snwh.org/moka), [Numix](https://github.com/numixproject/numix-icon-theme) or [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - *Linux Icon Themes*
 * [Ricepedia](https://rizonrice.club/Main_Page) or [ThatNixGuy Ricing](https://thatnixguy.github.io/posts/ricing/) - *Linux Ricing Tools*
 * [ricemood](https://github.com/fhadiel/ricemood) or [wpgtk](https://deviantfero.github.io/wpgtk) - *Fully Customizable Unix Color Schemer*
