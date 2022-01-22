@@ -70,7 +70,7 @@
 * [GrapheneOS](https://grapheneos.org/) - *Privacy and security focused mobile OS*
 * [Intra](https://play.google.com/store/apps/details?id=app.intra&amp;hl=en_US) - *System Wide DoH for Android*
 * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) / [Git](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - *Incognito Keyboard*
-* [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html), [Sentinel](https://sentinel.co/) or [Velocity](https://play.google.com/store/apps/details?id=vpn.proxy.velocity) - *Free VPN*
+* [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html), [Sentinel](https://sentinel.co/), [PandaVPN](https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy) or [Velocity](https://play.google.com/store/apps/details?id=vpn.proxy.velocity) - *Free VPN*
 * [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) - *Proxy*
 * [Sagernet](https://sagernet.org/) - *Proxy Tools*
 * [Privacy Indicator](https://f-droid.org/packages/com.nitish.privacyindicator/), [2](https://play.google.com/store/apps/details?id=com.nitish.privacyindicator), [Vigilante](https://f-droid.org/en/packages/com.crazylegend.vigilante/) or [Access Dots](https://play.google.com/store/apps/details?id=you.in.spark.access.dots) - *Camera / Mic Access Indicator* 
@@ -116,7 +116,6 @@
 * [PhoenixOS - BR](https://discord.gg/BQ4td84) - *Android Desktop OS*
 * [PhoenixOS Darkmatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - *Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)*
 * [ApkOnline](https://www.apkonline.net/) - *Online Android Emulator*
-* [UniPatcher](https://github.com/btimofeev/UniPatcher) - *Android Rom Patcher*
 * [BlueStacks X](https://x.bluestacks.com/) - *Cloud-Based Android Gaming / [Play Any Game](https://bin.disroot.org/?76603b940782c632#77xYY6mPppQ6jRLnuhQhRwPZ1rgrhGkHLnfNx8YKnz5H)*
 
 ***
@@ -146,9 +145,12 @@
 * [FileManager](https://github.com/SimpleMobileTools/Simple-File-Manager) or [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager) / [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager) - *File Manager*
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - *Note Taking Apps*
 * [Git Journal](https://gitjournal.io/) - *Mobile Markdown Notes*
-* [Magisk](https://magiskmanager.com/) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - *Android Root Tool / [Mods](https://t.me/magiskmod_update) / [GitHub](https://github.com/topjohnwu/Magisk/releases)*
+* [How to Root](https://www.xda-developers.com/root/amp/) - *Android Root Guide*
+* [Magisk](https://magiskmanager.com/) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - *Android Root Tool / [Mods](https://t.me/magiskmod_update) / [GitHub](https://github.com/topjohnwu/Magisk/releases) / [Support Layer](https://github.com/axonasif/rusty-magisk)*
+* [Root Essentials](https://sites.google.com/view/superthomaslab/root-essentials) - *Multiple Root Tools*
 * [Root Checker](https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck) - *Root Checker*
 * [Android Tool](https://github.com/fast-geek/Android-Tool) - *ABD / Fastboot Command Program*
+* [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot&hl=en_IN) - *Logcat / Dmesg Boot Animation*
 * [Amazing Temp Root](https://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - *MediaTek Temp Root*
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) - *Debloat non-rooted Androids*
 * [Smali Patcher](https://forum.xda-developers.com/t/module-smali-patcher-7-4.3680053/ ) - *Android System Patcher*
@@ -185,6 +187,7 @@
 * [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2), [ntfy.sh](https://ntfy.sh/) or [BuzzKill](https://filecr.com/?s=buzzkill) - *Custom Push Notifications*
 * [aodNotify](https://play.google.com/store/apps/details?id=com.jamworks.alwaysondisplay) - *Notification LED*
 * [AlwaysOnEdge](http://www.aoeapps.com/) - *Android Customization App*
+* [Palette](https://play.google.com/store/apps/details?id=com.ald.devs47.sam.beckman.palettesetups) - *Custom Home Screens*
 * [Codo Dodo](http://www.codododo.com/) - *Navigation Bar Customizer*
 * [Custom Volume Panel](https://play.google.com/store/apps/details?id=com.codingbatch.volumepanelcustomizer) - *Customize Volume Bar*
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - *Dictionary App*
@@ -326,7 +329,9 @@
 * [Appetize](https://appetize.io/) - *Run Native Mobile Apps in Browser*
 * [Albastuz3d](https://albastuz3d.net/) - *Stock Phone Roms*
 * [ROMphonix](http://162.154.76.208/) - *Old Mobile Firmware / [Discord](https://discord.com/invite/2GKuJjQagp)*
-* [IVTheme](https://www.ivtheme.com/) - *Android Flash Files*
+* [How to Install a Custom ROM](https://www.xda-developers.com/how-to-install-custom-rom-android/amp/) - *Custom ROM Installation Guide*
+* [Odin](https://www.odindownload.com/) or [IVTheme](https://www.ivtheme.com/) - *ROM Flashing Tools*
+* [UniPatcher](https://github.com/btimofeev/UniPatcher) - *ROM Patcher*
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice) - *Device Tracker*
 * [OwnTracks](https://owntracks.org/) or [Hauk](https://github.com/bilde2910/Hauk) - *Track Own Location*
 * [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451) - *Custom Recovery Firmware Tool*
@@ -426,6 +431,7 @@
 * [APK Swing](https://apkswing.com/) - *Modded*
 * [ModsOfApk](https://modsofapk.com/) - *Modded*
 * [GetModsAPK](https://getmodsapk.com/) - *Modded*
+* [APK Mod](https://apk-mod.net/) - *Modded*
 * [MobApks](https://mobapks.com/) - *Modded*
 * [Modding United](https://moddingunited.xyz/) - *Modded / [Telegram](https://telegram.me/allapkforfree)*
 * [MHKTricks](https://mhktricks.org/) - *Modded*
@@ -434,6 +440,7 @@
 * [DivyaNet](https://divyanet.com/) - *Modded*
 * [APKLoop](https://apkloop.com/) - *Modded*
 * [ReleaseAPK](https://forum.release-apk.com/) - *Modded*
+* [ProSmart](https://prosmart.by/) - *Modded*
 * [King Games](https://ludokinggame.com/) - *Modded*
 * [ApkMagic](https://apkmagic.com.ar/) - *Modded* 
 * [TheTechNisk](https://thetechnisk.in/) - *Modded*
@@ -642,7 +649,6 @@
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - *Ad Free YouTube on Android*
 * **[Movies4Discord TV](https://movies4discord.xyz/download)** - *Movies / TV / Android TV App*
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
-* [Netflix Premium](https://rentry.co/dp7gw) - *Netflix Premium Method*
 * [Arthemis](https://app.arthemis.xyz/) - *Movies / TV / Anime*
 * [HDO](https://hdo.app/) - *Movies / TV*
 * [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - *Movies / TV / Anime* 
