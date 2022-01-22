@@ -67,6 +67,7 @@
 * [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter/) - *DNS filter proxy*
 * [DNS Party](https://encrypted-dns.party/) - *DNS Config Profiles for Apple Devices Encrypted* 
 * [ZoneWatcher](https://zonewatcher.com/) - *DNS Backup Tool*
+* [CleanBrowsing](https://cleanbrowsing.org/filters/) - *Family DNS Filters*
 
 ***
 
@@ -121,12 +122,12 @@
 * [testsafebrowsing](https://testsafebrowsing.appspot.com/) - *Safe Browsing Testing Links* 
 * [Dangerzone](https://dangerzone.rocks/) - *Convert dangerous PDF to safe PDF*
 * [ThreatMap](https://threatmap.checkpoint.com/) - *Live Malware Distribution Map*
+* [VirusShare](https://virusshare.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - *Malware Search*
 * [X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - *Security Threat Intelligence Platform*
 * [Web Of Trust](https://www.mywot.com/) or [ScamRate](https://www.scamrate.com/) - *Check Website Safety* 
 * [ThreatLog](https://www.threatlog.com/) - *Malicious Domain Database*
 * [Scamalytics](https://scamalytics.com/ip), [IPSpamList](http://www.ipspamlist.com/) or [IP Address Lookup](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/) - *IP Address Check*
 * [Virus Checker](https://add0n.com/virus-checker.html) - *Virus Check for Downloads* 
-* [VirusShare](https://virusshare.com/) - *Search / Share Malware Samples* 
 * [Bad Websites](https://github.com/elbkr/bad-websites) - *Phishing Site Index for Bots*
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - *Bypass Ransomware Attacks*
 * [Ransomwhere](https://ransomwhe.re/) - *Ransomware Tracker*
@@ -164,8 +165,9 @@
 * [Privacy / Safety Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_guides) - *Internet Privacy / Safety Guides* 
 * [Privacy.Sexy](https://privacy.sexy/) - *Privacy Scripts* 
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - *Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)*
-* [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) or [Anon Security](https://t.me/anon_server) - *CyberSecurity Resources*
+* [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) or [Anon Security](https://t.me/anon_server) - *Cybersecurity Resources*
 * [The White Circle](https://twc1rcle.com/) - *Cyber Security Community*
+* [Att&ck](https://attack.mitre.org/) - *Cybersecurity Defense Database*
 * [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - *Anti-Censorship tool index* 
 * [Element](https://element.io/) / [Themes](https://github.com/aaronraimist/element-themes), [qTox](https://qtox.github.io/), [Utopia](https://u.is/en/), [linphone](https://www.linphone.org/), [Jami](https://jami.net/), [Tox](https://tox.chat/), [Bitmask](https://bitmask.net/) or [Wickr](https://wickr.com/) - *Encrypted Messaging / Video Calls* 
 * [Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)
