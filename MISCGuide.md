@@ -653,6 +653,7 @@
 * [Food Chemistry Course](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter), [2](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matte-2)
 * [auto-soylent](https://github.com/nick/auto-soylent) - *Automatic Soylent recipe generator* 
 * [recipesseo](https://www.recipesseo.com/ingredients) - *Common Ingredients in Recipes Analyzer* 
+* [Nosh](https://nosh.tech/) - *Food Management App*
 * [/m/food](https://www.reddit.com/user/Siryonkee/m/food/) - *Food Multireddit*
 * [/r/Cooking](https://reddit.com/r/Cooking) - *Cooking Discussion / Tips*
 * [/r/GifRecipes](https://reddit.com/r/GifRecipes) - *Recipes in GIF Format*
