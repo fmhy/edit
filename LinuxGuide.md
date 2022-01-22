@@ -209,6 +209,7 @@
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - *Arch Linux base with Deluge, Privoxy & OpenVPN*
 * [Spotify-Adblock](https://github.com/abba23/spotify-adblock) - *Linux Spotify Adblocker*
 * [Anon-SMS](https://github.com/HACK3RY2J/Anon-SMS) - *Send Anonymous SMS Messages*
+* [Firejail](https://firejail.wordpress.com/) - *Security Sandbox*
 
 ***
 
