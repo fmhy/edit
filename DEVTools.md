@@ -139,6 +139,7 @@
 * **[List.community](https://list.community/)** - *Programming / Development GitHub Lists* 
 * [Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources) - *Design Resource Sites*
 * [Image Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools) - *Image & Graphic Design Tools*
+* [Contentdrips](https://contentdrips.com/) - *Brand Design Tools*
 * [ReverseEagle](https://forge.tedomum.net/groups/ReverseEagle/-/archived), [2](https://web.archive.org/web/20210116205638/https://developers.reverseeagle.org/) - *Privacy Focused Developer Software*
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - *Open Source Development Software*
 * [Student Developer Pack](https://education.github.com/pack) - *Free Developer Tools for Students* 
@@ -164,6 +165,7 @@
 * [Mockable](https://www.mockable.io/) - *Mock APIs*
 * [Pipedream](https://pipedream.com/) - *Connect APIs / [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)*
 * [Perspective API](https://www.perspectiveapi.com/) - *Toxicity Reduction API*
+* [Stein](https://steinhq.com/) - *Turn Google Sheets into Database API / [GitHub](https://github.com/SteinHQ)*
 * [Copy.ai](https://www.copy.ai/) - *Marketing Description Generator*
 * [Penpot](https://penpot.app/) - *Cross Domain Design & Prototyping Platform*
 * [Mysterium Network](https://www.mysterium.network/) - *Open Web Protocol*
@@ -223,7 +225,7 @@
 * [ZeroNet](https://zeronet.io/) or [Federalist](https://github.com/publiusfederalist/federalist) - *Uncensorable Sites / [/r/Zeronet](https://www.reddit.com/r/zeronet/)*
 * [GoodBadISPs ](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - *Best ISPs for Tor Hosting*
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
-* [Website Planet Tools](https://www.websiteplanet.com/webtools/),  [xWebTools](https://www.xwebtools.com/) or [CSSAuthor](https://cssauthor.com/) - *Site Development Tools*
+* [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/) or [CSSAuthor](https://cssauthor.com/) - *Site Development Tools*
 * [Sympli](https://sympli.io/ ) - *Designer / Developer Collaboration Tool*
 * [Flux](https://www.runonflux.io/) - *Decentralized Cloud Infrastructure*
 * [Web Designer News](https://www.webdesignernews.com/) - *Web Design News*
@@ -261,7 +263,7 @@
 * [Measure](https://web.dev/measure/) - *Site Functionality Testing*
 * [Testmail](https://testmail.app/) - *Site Signup Test*
 * [Responsivize](https://virejdasani.github.io/Responsivize/) - *Website Responsiveness Test*
-* [PageSpeed](https://developers.google.com/speed/pagespeed/insights/) or [Websu](https://websu.io/) - *Test Webpage Speed*
+* [PageSpeed](https://developers.google.com/speed/pagespeed/insights/), [Testmysite](https://testmysite.io/) or [Websu](https://websu.io/) - *Test Webpage Speed*
 * [Shisho](https://shisho.dev/) - *Infrastructure Code Security Patcher*
 * [Security Onion Solutions](https://securityonionsolutions.com/) - *Site Security Monitor*
 * [Teler](https://github.com/kitabisa/teler) - *HTTP Intrusion Detection*
@@ -287,8 +289,8 @@
 * [Canva](https://www.canva.com/) or [PikBest](https://pikbest.com/) - *Design Templates / [Premium Apk](https://forum.mobilism.org/search.php?keywords=Canva+&sr=topics&sf=titleonly)* 
 * [Zeplin](https://zeplin.io/) - *Design Templates / Editor*
 * [Boilerplate](https://github.com/h5bp/html5-boilerplate) - *Website Frontend Template HTML5*
-* [Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/) or [Undraw](https://evie.undraw.co/)  - *Site Templates*
-* [Templatemo](https://www.templatemo.com/) or [Tooplate](https://www.tooplate.com/ ) - *HTML Site Templates*
+* [Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates) or [Undraw](https://evie.undraw.co/)  - *Site Templates*
+* [Templatemo](https://www.templatemo.com/) or [Tooplate](https://www.tooplate.com/) - *HTML Site Templates*
 * [HTML5 Temp](https://rentry.co/HTML5Temp) - *HTML5 Templates & Themes*
 * [CSS Bed](https://www.cssbed.com/), [free-css-templates](https://www.free-css.com/free-css-templates) or [TenplateMo](https://templatemo.com/) - *CSS Themes / Templates*
 * [Typewolf](https://www.typewolf.com/) - *Trending Website Fonts*
@@ -376,6 +378,7 @@
 * [Nulled Scripts](https://www.nullscripts.net/), [NullJungle](https://nulljungle.com/), [Null PHP Script](https://nullphpscript.com/) or [WPFIC](https://www.wpfic.com/) - *Nulled Scripts*
 * [faustjs](https://github.com/wpengine/faustjs) - *Wordpress Framework*
 * [Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes) - *Themes for Wordpress*
+* [Timber](https://upstatement.com/timber/) - *WordPress Theme Creator / [GitHub](https://github.com/timber/timber)*
 * [Wordpress Plugins](https://mega.nz/folder/OFg2gCKY#fkvmzxtyY-87lx9QCesyiw) or [CodeCanyon](https://codecanyon.download/) - *Wordpress Plugins & Scripts*
 * [Elementor Kit](https://mega.nz/folder/mEkDBSYI#WZVE8ptR90ZH00nBzmDIOw) - *1400+ Elementor Premium Templates*
 * [KokoAnalytics](https://www.kokoanalytics.com/) - *Wordpress Analytics*
@@ -397,6 +400,7 @@
 * [Servo](https://servo.org/) - *Experimental Browser Engine*
 * [Gummy](https://gummyjs.vercel.app/) - *Easily Build Javascript Programs* 
 * [NASM](https://www.nasm.us/) - *Program Assembler*
+* [Pencil](http://pencil.evolus.vn/) - *Software Mockup Tool / [GitHub](https://github.com/evolus/pencil)*
 * [GNUnet](https://gnunet.org/en/) - *Software Framework* 
 * [Kuker](https://github.com/krasimir/kuker) - *Debug Applications* 
 * [BugSnag](https://www.bugsnag.com/) - *Application Stability Monitor*
@@ -459,22 +463,25 @@
 * [RPG Playground](https://rpgplayground.com/) - *Simple RPG Creator*
 * [Game-Editor](http://game-editor.com/Main_Page) or [BuildBox](http://buildbox.com/) - *Game Creators*
 * [GB Studio](https://www.gbstudio.dev/) - *Retro Game Creator / [GitHub](https://github.com/chrismaltby/gb-studio)*
-* [HaxeFlixel](https://haxeflixel.com/), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - *2D Game Creators*
+* [HaxeFlixel](https://haxeflixel.com/), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - *2D Game Creators*
 * [Unreal Engine](https://www.unrealengine.com/) - *3D Creation Tool*
 * [Designer Toolkit](https://ldtk.io/) - *2D Level Editor Level*
 * [stencyl](https://www.stencyl.com/) - *Codeless Game Engine*
 * [Kaboomjs](https://kaboomjs.com/) - *Quickly Make Games with Javascript*
 * [GDevelop](https://gdevelop-app.com/) - *HTML5 Game Creator*
+* [Superpowers](https://www.softether.org/5-download) - *Collaborative HTML5 Game Creator*
 * [Phaser](https://phaser.io/) - *Mobile HTML5 Game Framework* 
 * [PlayCanvas](https://playcanvas.com/) - *Build HTML5 Visualizations / Games* 
 * [inkle](https://www.inklestudios.com/ink/) - *Game Narrative Scripting Language*
 * [Curlie World Building](https://curlie.org/en/Games/Roleplaying/World_Building) - *World Building Resource Index* 
+* [Mansion Generator](https://watabou.itch.io/procgen-mansion) - Procedural Mansions Generator*
 * [Texture Lab](https://njbrown.itch.io/texturelab) - *Procedural Texture Generator / [GitHub](https://github.com/njbrown/texturelab)*
 * [Material Maker](https://rodzilla.itch.io/material-maker) - *Procedural Texture Creator*
 * [Mixer](https://quixel.com/mixer) - *3D Texture Creation Software*
 * [Dungeon Scrawl](https://probabletrain.itch.io/dungeon-scrawl) - *Mapping Tool / [Discord](https://discord.com/invite/RxyZyXg) / [/r/Dungeonscrawl](https://www.reddit.com/r/dungeonscrawl/)*
 * [RPG Map Editor 2](https://deepnight.itch.io/tabletop-rpg-map-editor) - *Map Editor*
-* [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - *Fantasy City Generator*
+* [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - *Fantasy City Map Generator*
+* [Neighbourhood](https://watabou.itch.io/neighbourhood) - *Neighborhood Map Generator*
 * [UE Viewer](https://www.gildor.org/en/projects/umodel) - *Unreal Engine Model Viewer / [GitHub](https://github.com/gildor2/UEViewer)*
 * [Electronic Arts GitHub](https://github.com/electronicarts) - *EA GitHub Repos*
 * [Game UI Database](https://www.gameuidatabase.com/) - *Game UI / UX Database*
