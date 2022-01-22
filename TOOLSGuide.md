@@ -263,7 +263,8 @@
 * [VideoProc](https://www.videoproc.com/) - *Video Processing Software*
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - *SWF to Video Converter*
 * [MotionFactory](https://www.motionfactory.io/) - *Video Editing Workflow Manager*
-* [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) or [OBS Ninja](https://obs.ninja/) - *Streaming Tools Index*
+* [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) or [OBS Ninja](https://obs.ninja/) - *Streaming Tools Indexes*
+* [SteamLabs](https://streamlabs.com/) - *Streaming Tools*
 * [VegasScripts](https://github.com/otomad/VegasScripts) - *MAGIX Vegas Scripts*
 * [OBS](https://obsproject.com/), [Wigistream](https://wigistream.to/) or [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs) - *Video Recording / Live Streaming / [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT)* 
 * [Stream Elements](https://streamelements.com/) - *Streaming Service Manager*
@@ -536,9 +537,11 @@
 * [Failory](https://www.failory.com/graveyard) - *Learn Why Startups & Products Failed*
 * [AngelLIst](https://angel.co/) - *Startup Community*
 * [learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - *Cloud Computing Fundamentals*
+* [Cyberseek](https://www.cyberseek.org/index.html) - *Cybersecurity Job Market Info*
 * [Candor](https://candor.co/hiring-freezes/) - *Hiring Freezes*
 * [Doozy](https://doozy.live/), [Miro](https://miro.com/) , [Slab](https://slab.com/) or [TipiCalls](https://tipicalls.com/) - *Collaboration Platform*
 * [PHPCRM](https://www.phpcrm.com/) - *Company Management Software*
+* [SplitBee](https://splitbee.io/) - *Business Analytics Tool*
 * [Visuafy](https://visuafy.com/) - *Create Charts From Data*
 * [Kimai](https://www.kimai.org/) - *Working Hours Tracker*
 * [Zeoob](https://zeoob.com/) - *Social Media Digital Marketing Post Simulator*
@@ -646,7 +649,7 @@
 * [Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [TinyChat](https://tinychat.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat* 
 * [Zoom Escaper](https://zoomescaper.com/) - *Self-Sabotage Video Calls to Escape Meetings*
 * [Live Curtain](https://livecurtain.com/) - *Countdown Curtain For Online Meeting*
-* [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
+* [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
 * [IMumble](https://www.imumble.nl/) - *Voice Chat Server*
 * [Gather](https://gather.town/), [OpenSimulator](http://opensimulator.org/) - *Virtual World Server*
 * [FireStorm Viewer](https://www.firestormviewer.org/) - *Virtual World Viewer*
@@ -821,6 +824,7 @@ General Reading Sites*
 * [Yandex Search Operator Cheat Sheets](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/), [3](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
 * [sitedorks](https://github.com/Zarcolio/sitedorks) - *Search Dorks*
 * [Cyber](https://cyber.page/) - *Hash Search Engine* 
+* [TruePeopleSearch](https://www.truepeoplesearch.com/) - *Person Search*
 * [CrunchBase](https://www.crunchbase.com/) - *Company Info Search*
 * [Is it big?](https://isitbig.org/) - *Brand Corporation Connection Search*
 * [Matrix](https://matrix.itasoftware.com/) - *Airfare Search*
@@ -1132,6 +1136,7 @@ General Reading Sites*
 * [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots) - *Audio Download Bots*
 * [GetMediaBot](https://t.me/getmediabot) - *Social Media Video / Picture Download Bot*
 * [Now Playing](https://t.me/nowplaybot) - *Now Playing Audio Bot*
+* [Telesco.pe](https://telesco.pe/) - *Telegram Round Video Recorder*
 * [Unigram](https://github.com/UnigramDev/Unigram), [Tok](https://invent.kde.org/network/tok), [TDesktop](https://github.com/Forkgram/tdesktop) or [Kotatogram](https://github.com/kotatogram/kotatogram-desktop) - *Telegram Desktop Client*
 * [Web.Telegram](https://web.telegram.org/), [2](https://webk.telegram.org/), [3](https://webz.telegram.org/) - *Telegram Web Client*
 * [TeleWebGram](https://telewebgram.com/) - *Online Telegram Channel Viewer*
@@ -1245,7 +1250,6 @@ General Reading Sites*
 
 ## ▷ Twitch Tools
 
-* [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) - *Streaming Tools Index*
 * [Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers) - *Block Ads on Twitch*
 * [BetterTTV](https://betterttv.com/) or [FrankerFacez](https://www.frankerfacez.com/) - *Twitch Enhancement Extension*
 * [Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f) - *Twitch Extension Index*
@@ -1363,13 +1367,15 @@ General Reading Sites*
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC)  - *PC Suggestion Community / [Discord](https://discord.gg/TmNgXbwrqJ)*
 * [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop) or [Noteb](https://noteb.com/) - *Laptop Suggestions / [Discord](https://discord.gg/pes68JM)*
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - *GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)*
-* [r/TechSupport](https://www.reddit.com/r/techsupport/), [MSFN](https://msfn.org/board/) or [Notebook Reviews](http://forum.notebookreview.com/) - *Tech Support / [Discord](https://discord.gg/2EDwzWa) / [Wiki](https://rtech.support/books/)* 
+* [r/TechSupport](https://www.reddit.com/r/techsupport/), [Windows 10 Forums](https://www.windowsphoneinfo.com/), [MSFN](https://msfn.org/board/) or [Notebook Reviews](http://forum.notebookreview.com/) - *Tech Support / [Discord](https://discord.gg/2EDwzWa) / [Wiki](https://rtech.support/books/)* 
 * [GetHuman](http://gethuman.com/) or [ContactFound](https://contactfound.com/) - *Tech Support Numbers*
-* [Disk Prices](https://diskprices.com/) - *Disk Price Comparisons*
+* [Disk Prices](https://diskprices.com/) - *Disk Price Tracker*
+* [Shucks](https://shucks.top/) - *External Drive Price Tracker*
 * [CPU Boss](http://cpuboss.com/) - *CPU Comparison Tool*
 * [DeviceTests](https://devicetests.com/) - *Multiple Device Tests*
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - *Mouse Click Latency Chart*
 * [Sensor.fyi](https://sensor.fyi/info/) - *Mouse Guide / Information*
+* [BTOD](https://www.btod.com/blog/category/buying-guides/) - *Office Chair Buying Guides / Reviews*
 * [Office License Isn't Genuine](https://web.archive.org/web/20211014003224/https://windowsaddict.ml/office-license-is-not-genuine) - *Fix Office Activation Issues*
 * [Rufus](https://rufus.ie/), [AIO Boot](https://www.aioboot.com/), [UUP](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x), [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - *Create Bootable USB Drives*  
 * [Easy2Boot](https://www.easy2boot.com/) - *Boot Directly from ISO's* 
@@ -1575,6 +1581,7 @@ General Reading Sites*
 * [XTerm](https://invisible-island.net/xterm/) - *X Window System Terminal Emulator*
 * [Mintty](http://mintty.github.io/) - *Cygwin Terminal Emulator* 
 * [eDEX-UI](https://github.com/GitSquared/edex-ui) - *Sci-Fi Terminal Emulator / System Monitor*
+* [termbin](http://termbin.com/) - *Terminal Output Pastebin*
 * [GetDNote](https://www.getdnote.com/) - *Command Line Notebook*
 * [cmder](https://cmder.net/) - *Portable Console Emulator for Windows* 
 * [PowerShell](https://github.com/powershell/powershell) - *PC / Mac / Linux PowerShell*
@@ -1591,7 +1598,8 @@ General Reading Sites*
 * [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) - *Add Microsoft Store to Windows*
 * [Edgeuninstaller](https://rentry.org/uninstalledge) - *Completely Uninstall Microsoft Edge*
 * [Windows on Raspberry](https://www.worproject.ml/) - *Windows for Raspberry Pi*
-* [amogOS](https://github.com/jostroOS/amogOS) - *Rasberry Pi OS*
+* [amogOS](https://github.com/jostroOS/amogOS) - *Raspberry Pi OS*
+* [Raspberry Pi 4 Bootloader USB Mass Storage Boot Guide](https://jamesachambers.com/new-raspberry-pi-4-bootloader-usb-network-boot-guide/) - *How-to Boot Raspberry Pi from USB*
 * [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - *Identify why your PC isn't Windows 11 ready*
 * [Awesome Windows 11](https://github.com/awesome-windows11/windows11) - *Windows 11 Resource Index*
 * [Windows 11 Fixer](https://github.com/99natmar99/Windows-11-Fixer) - *Win 11 Improvement Tool*
