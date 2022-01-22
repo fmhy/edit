@@ -17,7 +17,8 @@
 * **[Tokybook](https://tokybook.com/)** - *Listen Online*
 * **[Zero Avenue](https://thezeroavenue.com/)** - *Listen Online*
 * **[Top 1000 Audiobooks](https://mega.nz/folder/h48HGAba#98YOtp3nhgDtKpeSO7PqSQ)** - *Audiobooks / Drive*
-* [Audiobook Drive](https://drive.google.com/drive/folders/1IsJTH4ElUg4fjngDNUlM1KPFmpfD_tl9) - *Audiobooks / Drive* 
+* [Audiobook Gdrive](https://drive.google.com/drive/folders/1IsJTH4ElUg4fjngDNUlM1KPFmpfD_tl9) - *Audiobooks / Drive* 
+* [Audiobook Megadrive](https://mega.nz/folder/h48HGAba#98YOtp3nhgDtKpeSO7PqSQ) - *Audiobooks / Drive*
 * [BlackPhoenix James Durden](https://mega.nz/folder/AZAhjSaL#3wzdEx3nPgzzVdVEqVc8nA) - *Audiobooks / Drive*
 * [HotAudiobooks](https://hotaudiobooks.com) - *Listen Online* 
 * [Audiobooks For Soul](https://audiobookforsoul.net/) - *Listen Online*
@@ -771,6 +772,7 @@
 * [MComix](https://sourceforge.net/p/mcomix/wiki/Home/) - *Reader*
 * [Tachiyomi](https://tachiyomi.org/), [Bubble](https://f-droid.org/en/packages/com.nkanaev.comics/) or [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - *Manager / Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / Android* 
 * [ComicFlow](https://github.com/swisspol/ComicFlow) - *Manager / Reader / iOS*
+* [ComicFury](https://comicfury.com/) - *User-made Webcomics*
 * [CrossFace](https://crossface.cf/manga-reader/) or [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Web Comic Reader*
 * [Webcomix](https://github.com/J-CPelletier/webcomix) - *Webcomics Downloader*
 * [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - *Online Reader*
