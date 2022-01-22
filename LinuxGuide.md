@@ -292,6 +292,7 @@
 * [ss64 OSX](https://ss64.com/osx/) - *MacOS Bash Commands*
 * [Orion](https://browser.kagi.com/downloads/Orion.dmg) - *Webkit Browser with Chrome & Firefox extensions / [Discord](https://discord.gg/E9EKaPZR)*
 * [Strongbox](https://strongboxsafe.com/) *Password Manager*
+* [Dialect](https://github.com/dialect-app/dialect) - *Translator*
 * [Drafts](https://getdrafts.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770) or [Voodoopad](http://www.voodoopad.com/) - *Text Editor / Notes*
 * [Taskpaper](https://www.taskpaper.com/) - *To-Do App*
 * [Stroke](https://stroke.lllllllllllllllll.com/) - *Text (You Can't Delete) Editor*
@@ -304,6 +305,8 @@
 * [MonitorControl](https://monitorcontrol.app/) - *External Monitor Brightness & Volume Control*
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - *Volume Mixer / Auto-Pause*
 * [Bunch](https://bunchapp.co/) - *Task Automation*
+* [Itsycal](https://www.mowglii.com/itsycal/) - *Menu Bar Calender*
+* [xbar](https://xbarapp.com/) - *Manage Menu Bar Items / [GitHub](https://github.com/matryer/xbar)*
 * [MacLaunch](http://github.com/hazcod/maclaunch) - *Manage Startup Items*
 * [Sloth](https://github.com/sveinbjornt/Sloth) - *MacOS Process Manager*
 * [pongoOS](https://github.com/checkra1n/pongoOS) - *Mac Pre-Boot Executor*
@@ -316,7 +319,7 @@
 * [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
 * [iTerm2](https://iterm2.com/) - *Replacement for Terminal*
 * [asciinema](https://asciinema.org/) - *Terminal Recorder*
-* [Pictogram](https://pictogramapp.com/) - *Custom App Icons*
+* [Pictogram](https://pictogramapp.com/) or [IconChamp](https://www.macenhance.com/iconchamp.html) - *Custom App Icons*
 * [IconSet](https://github.com/tale/iconset) or [IconChamp](https://www.macenhance.com/iconchamp.html) - *Custom System Icons*
 * [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - *MacOS Dynamic Wallpaper App*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old MacOS ISOs*
@@ -355,6 +358,7 @@
 * [macOS Security Tools](https://github.com/ashishb/osx-and-ios-security-awesome) - *Mac Security Tools*
 * [Obsidian](https://obsidianapp.io/) - *Two-Factor Authentication*
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - *Block Ads via Host Files*
+* [Adguard DNS](https://cdn.adguard.com/public/Dns/adguard-dns.mobileconfig/) - *Adblocking Profile*
 * [Stronghold](https://github.com/alichtman/stronghold) - *Mac Security Settings Terminal*
 * [LuLu](https://objective-see.com/products/lulu.html) - *Mac Firewall* 
 * [Tracker Zapper](https://rknight.me/apps/tracker-zapper/) - *Remove URL Tracking Elements*
