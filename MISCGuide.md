@@ -310,6 +310,7 @@
 * [Wonder of Wonder Art](https://aidn.jp/wowa/) - *Create a Dancing Character* 
 * [Robotics.ovh](https://robotics.ovh/) - *Robotics Dance*
 * [CAT BOUNCE!](https://cat-bounce.com/) - *Bounce Cats*
+* [Open Puppies](https://openpuppies.com/) - *Random Dog GIFs*
 * [Tamajoji](https://flixflox.itch.io/tamajoji) - *Browser Tamagotchi*
 * [Gifypet](https://gifypet.neocities.org/) - *Create Your Own Cute Pet* 
 * [20Q](http://www.20q.net/) or [Akinator](https://en.akinator.com/) - *20 Questions*
@@ -547,6 +548,7 @@
 * [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Ars Technica](https://arstechnica.com/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
 * [Liliputing](https://liliputing.com/) - *Linux Mobile News*
 * [Latest Privacy](https://latestprivacy.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - *Privacy News*
+* [Talos Blog](https://blog.talosintelligence.com/) - *CyberSecurity News*
 * [We Fight Censorship](http://3kyl4i7bfdgwelmf.onion/) - *Censorship News*
 * [Tudum](https://www.netflix.com/tudum) - *Netflix News*
 * [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - *Dark Web News*
@@ -861,6 +863,7 @@
 * [Font Squirrel](https://www.fontsquirrel.com/)
 * [Free Fonts Family](https://freefontsfamily.com/)
 * [Graphic Design Masterlist](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk) 
+* [Font Megadrive](https://mega.nz/file/QUNASIQZ#RDRA-Q0bVrcaw5i7chJXDKYsSm1mjo7IxIVSqNf3edI)
 * [Velvetyne](https://velvetyne.fr/)
 * [Font Library](https://fontlibrary.org/) 
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/)
@@ -905,6 +908,7 @@
 * [250_Professional_Fonts_Bundle](https://drive.google.com/file/d/1-aGiDPsve_uOd8XgC3iMaTFrxxc1sgp2/view)
 * [FontFlipper](https://fontflipper.com/) - *Font Finder*
 * [enFont](https://enfont.javierarce.com/) - *Custom Font Creator*
+* [Phase](https://www.eliashanzer.com/phase/) - *Variable Fonts Generator*
 * [Get Font](https://getfont.herokuapp.com/) - *Find Font in Github* 
 * [Fontjoy](https://experiments.withgoogle.com/fontjoy) - *Generate Font Combinations*
 * [FontSprite](https://adamstrange.itch.io/fontsprite) - *FonstSprite Editor*
@@ -1126,10 +1130,12 @@
 * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) or [Volume Master](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - *Increase Browser Volume*
 * [Poster](https://install.get-poster.com/) - *Quick Link Share*
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - *Download Multiple Links at Once* 
+* [Refgen](https://github.com/reorx/refgen) - *Generate Markdown Style Links*
 * [Multimedia Search](https://multimediasearchapp.com/) - *Browser File Search*
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
 * [Night Shift Redux](https://nightshift.lu/) - *Adapts Display Color to Time of Day*
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
+* [Wheel Smooth Scroller](https://chrome.google.com/webstore/detail/chromium-wheel-smooth-scr/khpcanbeojalbkpgpmjpdkjnkfcgfkhb?hl=en) - *Smooth Scrolling*
 * [Headless-Recorder](https://github.com/checkly/headless-recorder) or [automa](https://github.com/kholid060/automa) - *Browser Automation*
 * [NudgeWare](https://nudgeware.io/) or [HabitLab](https://habitlab.stanford.edu/) - *Productivity Booster*
 * [Simple Todo](https://chrome.google.com/webstore/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) - *To-Do List*
