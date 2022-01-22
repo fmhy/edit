@@ -47,8 +47,7 @@
 * [Stealth](https://gitlab.com/cosmosapps/stealth) - *Privacy-Based Reddit Frontend*
 * [XPrivacyLua](https://github.com/M66B/XPrivacyLua/) or [Xumi](https://xumi.ca/xumi-security/) - *Privacy Manager* 
 * [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard&hl=en_US&gl=QA), [AppWarden](https://gitlab.com/AuroraOSS/AppWarden) or [TrackerControl](https://trackercontrol.org/) - *App Permissions Tracker*
-* [Exodus](https://reports.exodus-privacy.eu.org/en/) - *Android App Tracker & Permission Index / [APK](https://github.com/Exodus-Privacy/exodus-android-app)*  
-* [TrackerControl](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) - *Manage / Monitor Trackers*
+* [Exodus](https://reports.exodus-privacy.eu.org/en/), [TrackerControl](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) or [HideDroid](https://github.com/Mobile-IoT-Security-Lab/HideDroid) - *Android App Tracker & Permission Index / [APK](https://github.com/Exodus-Privacy/exodus-android-app)*  
 * [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard) - *Android 12-like Privacy Dashboard / [GitHub](https://github.com/RushikeshKamewar/PrivacyDashboard)*
 * [NetGuard](https://www.netguard.me/) - *Block Internet Access Per App* 
 * [AirGuard](https://github.com/seemoo-lab/AirGuard) - *AirTag Tracking Protection*
@@ -57,11 +56,13 @@
 * [MaxLock](https://github.com/Maxr1998/MaxLock) - *Lock Apps Behind Passwords*
 * [LibreAV](https://www.projectmatris.tech/) or [Hypatia](https://gitlab.com/divested-mobile/hypatia) - *Antivirus*
 * [AFWall+](https://github.com/ukanth/afwall/) or [NoRoot Firewall](https://play.google.com/store/apps/details?id=app.greyshirts.firewall) - *Firewall* 
+* [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - *Network Monitor*
 * [Security Addon](https://github.com/huntmix/securityaddon) - *Set Triggers & Measures that protect your Phone*
 * [SuperFreezZ](https://superfreezz.gitlab.io/) - *Freeze App Background Activities / [GitHub](https://gitlab.com/SuperFreezZ/SuperFreezZ)* 
 * [SnoopSnitch](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/) - *Check Mobile Network Security* 
 * [FairEmail](https://play.google.com/store/apps/details?id=eu.faircode.email) - *Open Source, Privacy Oriented Email for Android / [f-Droid](https://f-droid.org/packages/eu.faircode.email/)*
 * [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/) - *Email Forwarding*
+* [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/) - *Temp Mail*
 * [Private Location](https://f-droid.org/en/packages/com.wesaphzt.privatelocation/) - *Hide Phone Location Permanently*
 * [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&amp;hl=en_US) - *Tor Proxy*
 * [TorServices](https://f-droid.org/packages/org.torproject.torservices/) - *Tor App Proxy / [GitLab](https://gitlab.com/guardianproject/torservices)*
@@ -268,7 +269,7 @@
 * [FLauncher](https://play.google.com/store/apps/details?id=me.efesser.flauncher) - *Android TV Launcher / [GitLab](https://gitlab.com/etienn01/flauncher)*
 * [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) - *Send Files to Android TV*
 * [Apps2Fire](https://play.google.com/store/apps/details?id=mobi.koni.appstofiretv) - *Upload Apps to FireTV*
-* [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://forum.mobilism.org/search.php?keywords=solid+explorer&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/), [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) or [IrkFM](https://github.com/lfuelling/lrkFM) - *File Explorers / Manager*
+* [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://forum.mobilism.org/search.php?keywords=solid+explorer&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [rcx](https://x0b.github.io/) / [GitHub](https://github.com/x0b/rcx), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/), [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) or [IrkFM](https://github.com/lfuelling/lrkFM) - *File Explorers / Manager*
 * [wsa_pacman](https://github.com/alesimula/wsa_pacman) - *Android Package Manager for Windows*
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - *Download / Torrent Manager* 
 * [Vysor](https://www.vysor.io/), [scrcpy](https://github.com/Genymobile/scrcpy) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - *Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/), [2](https://github.com/Tomotoes/scrcpy-gui)*
