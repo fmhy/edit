@@ -186,6 +186,7 @@
 * [/r/bookdownloads](https://reddit.com/r/bookdownloads/)
 * [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
 * [Library Extension](https://www.libraryextension.com/) - *Check Local Libraries Online*
+* [Snippet Tape](http://snippet-tape.herokuapp.com/) - *Access Google Books "Missing Pages" / [Article](https://medium.com/@designing/how-i-hacked-google-books-missing-pages-f2d85289ca26)*
 
 ***
 
@@ -734,7 +735,7 @@
 
 # ► Visual Media Sites
 
-* [BestArtbooks](https://t.me/BESTARTBOOKS) or [Artbooks.gala](https://artbooks.gala100.net/) - *Artbooks*
+* [Damon's Collection of Game Artbooks](https://drive.google.com/drive/folders/1ZZmpgg6A47GtlIdnRvaRBbTaf2BrXtdI?usp=sharing), [BestArtbooks](https://t.me/BESTARTBOOKS) or [Artbooks.gala](https://artbooks.gala100.net/) - *Artbooks*
 
 ***
 
