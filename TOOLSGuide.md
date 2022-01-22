@@ -371,6 +371,7 @@
 * **[Determine Audio File Quality](https://redd.it/3l0yxp)**, [Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](http://spek.cc/) or [Spectro](http://spectro.enpts.com/) - *Determine Quality of Audio Files*
 * **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)** - *Audio Compression Examples*
 * [Scarbir](https://www.scarbir.com/) or [Crinacle](https://crinacle.com/) - *Headset & Earphone Comparisons*
+* [AccurateRip](http://www.accuraterip.com/) - *Verify Ripped Tracks are Error Free*
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - *Professional Video, Audio & Adobe Software / Plugins*
 * [Audio Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_plugins) - *VST Plugins* 
 * [Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sfx_.2F_loops) - *SFX & Loops*
@@ -418,7 +419,8 @@
 * FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom), [3](https://jeanslack.github.io/Videomass/) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite)
 * [SonoBus](https://sonobus.net/) - *Audio Server for Streaming*
 * [Audio Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_converters) - *Audio Conversion Sites & Programs*
-* [Faasoft FLAC Converter](https://www.faasoft.com/articles/flac-converter-mac-and-windows.html) - *FLAC Converter* 
+* [Faasoft FLAC Converter](https://www.faasoft.com/articles/flac-converter-mac-and-windows.html) - *FLAC Converter*
+* [CUETools](http://cue.tools/wiki/CUETools) - *Lossless Audio / CUE Sheet Converter*
 * [FLAC Frontend](http://flacfrontend.sourceforge.net/) - *FLAC Tools* 
 * [FLStudio Skins](https://mega.nz/folder/LBA0AB4S#z0QoDfFcJkeh2QXWvynZ2Q) - *Skins for FLStudio*
 * [Webamp](https://webamp.org/) - *Winamp in Browser* 
@@ -495,6 +497,7 @@
 * [#fretflip](https://fretflip.com/) - *Create / Print Guitar Scales & Chord Charts* 
 * [HookTheory](https://www.hooktheory.com/trends) - *Chord Progression Library* 
 * [MusicKit](https://musickit.jull.dev/) - *Metronome, Tuner & Tone Generator* 
+* [REW](http://www.roomeqwizard.com/) - *Room Acoustic, Loudspeaker and audio device measurement*
 * [Tuner Ninja](https://tuner.ninja/) - *Instrument Tuner* 
 * [PIXELSYNTH](https://ojack.xyz/PIXELSYNTH/) - *Image to Sound Synthesizer*
 * [img-encode](https://github.com/alexadam/img-encode) - *Image to Audio Converter*
