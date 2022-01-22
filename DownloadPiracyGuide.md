@@ -20,7 +20,6 @@
 * **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
 * **[300TB Mega](https://mega.nz/folder/6q4XjSjD#n2aMXLlajXC59snzns_ijw)** / [2](https://mega.nz/folder/c5NHnIob#fJc8_lYkfONbByC_X8eJuw/folder/gxs2xLaJ) / [3](https://mega.nz/folder/4l81jAha#ed19dxGXCtd-VWCEd-flxA)
 * **[300TB GDrive](https://drive.google.com/drive/folders/1oCMgJeBc55NuEasPcgwjx2FuPdQd8neu)**
-* [CloudBhadoo](https://index.hashhackers.com/) / [2](https://search.hashhackers.com/)
 * [Google TeamDrives](https://onehack.us/t/tds-with-tbs-of-movies-web-series-courses-games-etc/77628) 
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28) 
 * [PureXClydey](https://www.purexclydey.com/xdd/uploads/) 
@@ -115,6 +114,7 @@
 * [0DayDDL](https://0dayddl.com/) - *Video / Audio / Games / Software / Books / Magazines*
 * [MaxRelease](http://max-rls.com/) - *Video / Audio / Software / Games / Magazines*
 * [BoltBB](https://boltbb.me/) - *Video / Software / Games / Books / NSFW*
+* [TFPDL](https://tfpdl.se/) - *Video / Software / Roms / Books*
 * [Volno](https://volno.org) - *Audio / Books / Software / Games / Android / NSFW*
 * [worldsrc](https://www.worldsrc.net/) - *Video / Audio / Games / Software / Android*
 * [Team OS](https://www.teamos-hkrg.com/) - *Software / Games / Books / Android*
@@ -247,10 +247,14 @@
 * [MHKTricks](https://mhktricks.org/)
 * [AllPCWorlds](https://allpcworlds.com/) 
 * [MR9Soft](https://mr9soft.com/) 
+* [DoLoad](https://doload.org/) 
+* [3almalt9nia](https://3almalt9nia.com/) 
 * [AlbasitSoft](https://albasitsoft.com/) 
 * irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ
 * [AIOsetup](https://t.me/aiosetup) - *Telegram* 
 * [Libreware](https://t.me/Libreware) - *Telegram* 
+* [Computer Softwares](https://t.me/Computer_Softwares_Games_Windows) - *Telegram*
+* [Windows Softwares](https://t.me/Windows_Softwares_Pc_Games), [2](https://t.me/windows_softwares) - *Telegram*
 * [raymondfreesoftware](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g)
 * [Rarewares](https://www.rarewares.org/) - *Rare Software*
 * [PLC4Me](https://plc4me.com/) - *Automation Software*
@@ -306,7 +310,6 @@
 * [DonationCoder](https://www.donationcoder.com/) 
 * [AntibodySoftware](https://antibody-software.com/) 
 * [EnselSoftware](http://enselsoftware.com/download01.html)
-* [FreeDownloadManager](https://en.freedownloadmanager.org/)
 * [3nitySoftware](http://3nitysoftwares.com/index.php/en) 
 * [Antp](http://www.antp.be/) 
 * [Vovsoft](https://vovsoft.com/)
