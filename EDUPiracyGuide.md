@@ -199,6 +199,7 @@
 * [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
 * [ProCrack_Team](https://www.mediafire.com/folder/l4w8gcdcqsqtw/ProCrack_Team) - *Marketing Courses*
 * [Stock Trading Courses](https://mega.nz/folder/RNERkCIS#w0DcWggAasYz8vKl1jHkGw) - *Trading Courses*
+* [Traders Heaven](https://mega.nz/folder/QhYyTRRD#qNNIFuq3YGchXA1qS-Yqow) - *Trading Courses*
 * [Udemy - Cybersecurity Collection](https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD) - *Cyber Security Courses*
 * [500GB+ Cyber Security](https://mega.nz/folder/ZLB3CSwK#EXp6VnwcAEI1WE8xVwZZuQ) - *Cyber Security Courses*
 * [Skills for All](https://skillsforall.com/) - *Cyber Security Courses*
@@ -236,6 +237,8 @@
 * [GetFreeCourses](https://getfreecourses.co/) - *Courses*
 * [OnlineCourseBay](https://onlinecoursebay.com/) - *Courses* 
 * [DownloadFreeCourse](https://downloadfreecourse.com/) - *Courses*
+* [FreeAllCourse](https://freeallcourse.com/) - *Courses*
+* [TutorialsPlanet](https://tutorialsplanet.net/) - *Courses*
 * [TutsGalaxy](https://tutsgalaxy.net/) - *Udemy Courses*
 * [UdemyTuts](https://udemytuts.com/) - *Udemy Courses* 
 * [My Free Courses](http://myfreecourses.com/) - *Udemy Courses*   
@@ -561,7 +564,7 @@
 * [amrita olabs](https://amrita.olabs.edu.in/) - *Science Practicals / Theory / Animations / Simulations* 
 * [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) - *Homework Help* 
 * [Cheatography](https://cheatography.com/) - *Educational Cheat Sheets* 
-* [Toppr](https://www.toppr.com/) - *Test Practice & Homework Help*
+* [Answers Exchange](https://discord.gg/GFp9Rvr), [Toppr](https://www.toppr.com/) or [AE Old](https://discord.gg/VCXGudY) - **
 * [GradesFixer](https://www.gradesfixer.com/) - *Essay Samples*
 * [Chegg Answers](https://t.me/CheggsByTnt), [2](https://www.istaunch.com/how-to-get-chegg-answers-for-free/#2_Free_Chegg_Answers_by_iStaunch), [3](https://creativesavantz.com/how-to-access-chegg-solutions-for-free/), [4](https://litanswers.net/get-free-chegg-answers/), [5](https://www.premiuminfo.org/chegg-answers-for-free/), [6](https://techpanga.com/free-chegg-answer/), [7](https://trickswire.com/free-chegg-answers/), [8](https://www.rootupdate.com/free-chegg-answers/) - *Chegg Answer Tools*
 * [Quizizz Cheat](https://github.com/gbaranski/quizizz-cheat) - *Quizizz Answers Tool*
