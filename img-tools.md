@@ -101,7 +101,7 @@
 * [Rough.js](https://roughjs.com/) - *Create Graphics that look Hand-Drawn*
 * [FontIcon](https://gauger.io/fonticon/)[PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [ICO Convert](https://www.icoconvert.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - *Icon Generators*
 * [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/), [Free Logo Maker](https://freelogomaker.net/) or [ACME](https://acme.com/labelmaker/) - *Logo Creator* 
-* [ArtFlow](http://artflow.ai/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/) or [Avataaars](https://getavataaars.com/) - *Face / Avatar Generator*
+* [ArtFlow](http://artflow.ai/), [Bitmoji](https://www.bitmoji.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/) or [Avataaars](https://getavataaars.com/) - *Face / Avatar Generator*
 * [Mirro-Ai](https://mirror-ai.com/) - *Get Stickers With Your Face*
 * [EmojiMix](https://tikolu.net/emojimix) - *Combine Emojis*
 * [imgsli](https://imgsli.com/) - *Before & After Slider Generator*
@@ -158,7 +158,7 @@
 * **[Awesome GIF](https://github.com/davisonio/awesome-gif)** - *GIF Resource Index*
 * [Online GIF Tools](https://onlinegiftools.com/) - *GIF Tools*
 * [Giphy](https://giphy.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/), [reactiongifs](https://www.reactiongifs.us/), [reactiongifs](https://reactiongifs.me/), [gif-finder](https://gif-finder.com/), [reactiongifs](http://www.reactiongifs.com/), [bestanimations](https://bestanimations.com/), [Animations](https://bleuje.github.io/animationsite/), [gifimage](https://gifimage.net/) or [Animated Images](https://www.animatedimages.org/) - *Download GIFs* 
-* [EZGif](https://ezgif.com/), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFMemes](https://gifmemes.io/), [gifexplosion](https://gifexplosion.com/app.php), [GIFnText](https://www.gifntext.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Gif Maker](https://gifmaker.me/) - *GIF Creator / Editor*
+* [EZGif](https://ezgif.com/), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFMemes](https://gifmemes.io/), [gifexplosion](https://gifexplosion.com/app.php), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Gif Maker](https://gifmaker.me/) - *GIF Creator / Editor*
 * [GIF Explode](https://gif-explode.com/) - *Split GIFs Into Frames*
 * [gifify](https://github.com/vvo/gifify) or [Video-to-GIF](https://hnet.com/video-to-gif/) - *Video to GIF Converter*
 * [GifRun](https://gifrun.com/) - *Make GIFs From Online Videos*
@@ -189,7 +189,9 @@
 
 * [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/) or [MediBang](https://medibangpaint.com/en/) - *Painting*
 * [Aggie.io](https://aggie.io/) - *Collaborative Painting*
+* [LizardPaint](https://lizardrive.itch.io/lizardpaint) - *Sega / Megadrive Painting*
 * [inkscape](https://inkscape.org/), [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q), [Sketch Toy](https://www.sketchtoy.com/), [Sketchbook](https://www.sketchbook.com/), [tldraw](https://www.tldraw.com/) or [Excalidraw](https://excalidraw.com/) - *Drawing / Sketching Tools* 
+* [Noodle](https://hundredrabbits.itch.io/noodle) - *1bit Sketch Tool*
 * [AutoDraw](https://www.autodraw.com/) - *Machine Learning Drawing Tool* 
 * [MonsterMash](https://monstermash.zone/) - *Sketch Based Modeling & Animation Tool*
 * [Picrew](https://picrew.me/) - *Animated Character Maker*  
@@ -208,9 +210,11 @@
 * [dpixel](https://marcoc2.itch.io/dpixel) - *Pixel Art Remastering Tool* 
 * [Paint Of Persia](https://dunin.itch.io/ptop) - *Rotoscoping Pixel Art Tool*
 * [Dither Machine](https://lunarlabs.itch.io/dither-machine) - *Pixel Art Dithering Creator*
-* [PixelMe](https://pixel-me.tokyo/en/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - *Turn Photos into Pixel Art* 
+* [PixelMe](https://pixel-me.tokyo/en/), [Pixelator](https://ronenness.itch.io/pixelator) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - *Turn Photos into Pixel Art* 
 * [Pixelorama](https://orama-interactive.itch.io/pixelorama) - *2D Sprite Editor*
 * [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) - *Sprite Generator*
+* [Nasu](https://hundredrabbits.itch.io/nasu) - *Spritesheet Editor*
+* [LibreSprite](https://libresprite.github.io/), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - *Pixel Art Animation Tools*
 * [Petmate](https://nurpax.github.io/petmate/) - *C64 PETSCII Image Editor*
 * [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - *Scale Pixel Art w/o Quality Loss*
 
