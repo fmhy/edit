@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/rodb7S5.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/cR9NdR9.png)** - *For mobile users*
 
 ***
 ***
@@ -432,7 +432,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Design Resources 
 
-[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [Graphic Design Elements](https://onehack.us/t/get-20-000-graphic-design-elements/155320), [ImCreator](http://www.imcreator.com/free), [DesignBundles](https://designbundles.net/free-design-resources), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [NoDesign](https://nodesign.dev/), [SketchRepo](https://sketchrepo.com/), [Interfaces](https://interfacer.xyz/), [Freebiesbug](http://freebiesbug.com/)
+[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [Graphic Design Elements](https://onehack.us/t/get-20-000-graphic-design-elements/155320), [ImCreator](http://www.imcreator.com/free), [DesignBundles](https://designbundles.net/free-design-resources), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [NoDesign](https://nodesign.dev/), [SketchRepo](https://sketchrepo.com/), [Interfaces](https://interfacer.xyz/), [Freebiesbug](http://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/)
 
 ***
 
@@ -667,7 +667,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Cloud Storage** 
 
-**[GDrive](https://drive.google.com/)**, **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz), [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [disk.yandex](https://disk.yandex.com/), [TeledriveApp](https://teledriveapp.com/), [dubox](https://dubox.com/), [mediafire](https://www.mediafire.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [clouddrive](https://www.clouddrive.site/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [gdflix](https://gdflix.bar/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/) 
+**[GDrive](https://drive.google.com/)**, **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz), [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral) / [Free 2TB](https://rentry.co/a7q22), [disk.yandex](https://disk.yandex.com/), [TeledriveApp](https://teledriveapp.com/), [dubox](https://dubox.com/), [mediafire](https://www.mediafire.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [clouddrive](https://www.clouddrive.site/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [gdflix](https://gdflix.bar/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/) 
 
 **Multi Host Uploaders**
 
@@ -1404,7 +1404,7 @@ Add the following commands to a search to manually scrape each site.
 
 * These sites host both Persian and English videos. Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/).
 * **[ClubFilm](https://clubfilm4.xyz/)** - *Movies / TV*
-* [MelliMovies](https://mellimovies2.tk/) - *Movies / TV* 
+* [MelliMovies](https://mellimovi.xyz/) - *Movies / TV* 
 * [DigiMoviez](https://digimoviez.com/) - *Movies / TV* 
 * [MoboMovies](https://mobomovi.ir/) - *Movies / TV* 
 * [PlayStop](https://playstop.ir/) - *Movies / TV* 
@@ -1779,6 +1779,8 @@ Add the following commands to a search to manually scrape each site.
 * https://goaccess.io/
 * https://count.ly/
 * https://ackee.electerious.com/
+* https://panelbear.com/
+* https://splitbee.io/
 * https://www.hotjar.com/
 * https://freshlytics.gitbook.io/
 * https://www.awstats.org/
@@ -2374,6 +2376,7 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/TorrentMir
 * https://github.com/yash-dk/TorToolkit-Telegram
 * https://pythonrepo.com/repo/ayushteke-slam_aria_mirror_bot_HEROKU
+* https://github.com/ogkunald/Torrent-Drive-Telegram-Bot-Using-Colab
 * https://t.me/TorrentBots (list)
 * https://t.me/TorrentLeechingGroup (list)
 * https://t.me/MirrorBots (list) 
@@ -2587,6 +2590,16 @@ Good for finding classic, obscure & short films.
 #### WebFont Changer
 
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-font-changer/) / [Chrome](https://chrome.google.com/webstore/detail/font-changer/obgkjikcnonokgaiablbenkgjcdbknna)
+
+***
+
+#### Website Creators
+
+[GoHugo](https://gohugo.io/), [SouPalt](https://soupault.app/), [Barly](https://github.com/charludo/barely), [Zola](https://www.getzola.org/), [Jamstack Generators](https://jamstack.org/generators/), [Hugo](https://gohugo.io/), [Jekyll](https://jekyllrb.com/), [Tails](https://devdojo.com/tails), [vveb](https://www.vvveb.com/), [Potion](https://www.potion.so/), [8b](https://8b.com/), [WebFlow](https://webflow.com/), [Universe](https://onuniverse.com/) 
+
+**Simple Site Creators**
+
+[Straw.Page](https://straw.page/), [Own Free Website](https://www.own-free-website.com), [itty.bitty](https://itty.bitty.site/), [txti](http://txti.es/), [Sitey](https://www.sitey.com/), [mmm](https://build.mmm.page/), [cargo](https://cargo.site/), [Talium](https://talium.co/), [Jigsy](https://jigsy.com/), [Temper](https://temper.one/) or [Neocities](https://neocities.org/), [Pagely](https://www.pagely.site/)
 
 ***
 
