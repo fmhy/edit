@@ -124,9 +124,10 @@
 * [ThreatMap](https://threatmap.checkpoint.com/) - *Live Malware Distribution Map*
 * [VirusShare](https://virusshare.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - *Malware Search*
 * [X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - *Security Threat Intelligence Platform*
-* [Web Of Trust](https://www.mywot.com/) or [ScamRate](https://www.scamrate.com/) - *Check Website Safety* 
+* [Web Of Trust](https://www.mywot.com/), [Talos](https://talosintelligence.com/) or [ScamRate](https://www.scamrate.com/) - *Check Website Safety* 
 * [ThreatLog](https://www.threatlog.com/) - *Malicious Domain Database*
 * [Scamalytics](https://scamalytics.com/ip), [IPSpamList](http://www.ipspamlist.com/) or [IP Address Lookup](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/) - *IP Address Check*
+* [Online Link Scan](http://onlinelinkscan.com/) - *Link Scanner*
 * [Virus Checker](https://add0n.com/virus-checker.html) - *Virus Check for Downloads* 
 * [Bad Websites](https://github.com/elbkr/bad-websites) - *Phishing Site Index for Bots*
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - *Bypass Ransomware Attacks*
@@ -206,6 +207,7 @@
 * [Unsee](https://unsee.cc/) - *Private / Temporary Image Host* 
 * [ImgProxify](https://imgproxify.com/) - *Image Proxy Generator*
 * [PrivNote](https://privnote.com/), [Burn.Link](https://burn.link/) or [IPNote](https://ipnote.io/) - *Send Self-Destructing Messages* 
+* [xcodx.ru](https://xcodx.ru/) - *Send Encrypted Text*
 * [USBKill](https://github.com/hephaest0s/usbkill) - *Anti-Forensic Kill-Switch*
 * [Eraser](https://eraser.heidi.ie/) - *Remove / Overwrite Hard Drive Data* 
 * [Free Hide Folder](https://www.cleanersoft.com/hidefolder/free_hide_folder.htm) or [Wise Folder Hider](http://www.wisecleaner.com/wise-folder-hider-free.html) - *Hide Folders / Files* 
@@ -474,6 +476,7 @@
 * [TorGuard](https://torguard.net/) - *[Pricing](https://i.imgur.com/O2t4z0C.png)*
 * [WeVPN](https://wevpn.com/) - *[Pricing](https://i.imgur.com/a6XWraf.png)*
 * [PandaVPN](https://pandavpnpro.com/) - *[Pricing](https://i.imgur.com/nm2CVhX.png)*
+* [Hidemy.name](https://hidemy.name/en/) - *[Pricing](https://i.imgur.com/wE4WonU.png)*
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - *VPN Extension / 3GB Free / [Pricing](https://i.imgur.com/ZdDexDa.png)* 
 * [Mozilla FPN](https://fpn.firefox.com/) - *VPN Extension / [Pricing](https://i.imgur.com/wW5rVO2.png) / Mullvad Servers*
 * [StrongSwan](https://www.strongswan.org/) - *IPsec VPN*
