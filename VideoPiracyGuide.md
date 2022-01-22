@@ -30,7 +30,6 @@
 * **[LookMovie](https://lookmovie.io/)** - *Movies / TV*
 * [C1NE](https://c1ne.co/) - *Movies / TV* 
 * [VikV](https://vikv.net/), [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
-* [TheFlix](https://www.theflix.to/) - *Movies / TV* 
 * [SockShare](http://sockshare.ac/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones)*
 * [PrivateHD](https://www.privatehd.xyz/) - *Movies / TV*
 * [Trailers.to](https://trailers.to/) - *Movies / TV / [Bypass Quota](https://openvideofs.github.io/)*  
@@ -626,7 +625,7 @@
 * [TVSeriesNMovies](https://www.tvseriesnmovies.com/) - *Movies / TV*
 * [SeriesVault](https://seriesvault.win/) - *TV / Anime* 
 * [o2tvseries](https://o2tvseries.com/) - *TV*  
-* [MoviesVerse](https://moviesverse.cc/) - *Movies / TV / [Telegram](https://t.me/MoviesHomeOFFICIALS)* 
+* [MoviesVerse](https://moviesverse.me/) - *Movies / TV / [Telegram](https://t.me/MoviesHomeOFFICIALS)* 
 * [FreeDriveMovie](https://www.freedrivemovie.com/) - *Movies / TV*
 * [HDMovieArea](https://hdmoviearea.live/genre/dual-audio/) - *Movies / TV*
 * [TheMoviesFlix](https://themoviesflix.com.ph/category/english-movies/) - *Movies / TV*
