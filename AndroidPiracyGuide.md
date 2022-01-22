@@ -228,6 +228,7 @@
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - *Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)*
 * [Colorize It](https://play.google.com/store/apps/details?id=com.reaimagine.colorizeit) - *Colorize Images*
 * [WOMBO Dream](https://www.wombo.art/) - *Dream Artwork Tool*
+* [starryai](https://play.google.com/store/apps/details?id=com.starryai) - *Generate Art from Text Prompt*
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - *Image Size Reducer*
 * [Upscaler](https://play.google.com/store/apps/details?id=com.ethanzone.upscaler&hl=en_US&gl=QA) - *Image Upscaler*
 * [LosesslessJpgCrop](https://github.com/k3b/LosslessJpgCrop) - *Lossless Image Cropper*
@@ -587,6 +588,7 @@
 * [BlackHole](https://github.com/Sangwan5688/BlackHole) - *Streaming*
 * [BlackPlayer](https://rexdl.com/android/blackplayer-ex-apk.html/) - *Streaming*
 * [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - *Streaming*
+* [AudioTube](https://play.google.com/store/apps/details?id=tech.apps.music), [2](https://invent.kde.org/plasma-mobile/audiotube) - *YouTube Audio Player / [GitHub](https://jbbgameich.github.io/kde/2021/03/13/audiotube.html)*
 * [Rezonance](https://www.rezonanceindia.tech/) - *Streaming / [GitHub](https://github.com/rezonance-india)*
 * [Cliggo](https://play.google.com/store/apps/details?id=com.cliggo.cliggo_music) - *Streaming / Downloading*
 * [Otter](https://github.com/apognu/otter) or [humit](https://www.humit.app/) - *Music Sharing App*
