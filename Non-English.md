@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/DmuY3Jz.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/o616CQk.png)** - *For mobile users*
 
 ***
 ***
@@ -304,7 +304,7 @@ French / General Torrent Tracker
 * [WiFlix](https://wiflix.site/) - *Movies / TV / Anime* 
 * [voirseries](https://voirseries.io/) - *TV / Anime*
 * [OtakuFR](https://otakufr.co/) - *Anime* 
-* [JetAnime](https://www.jetanimes.co/) - *Anime* 
+* [JetAnime](https://www.jetanimes.co/), [2](https://wvw.jetanimes.com/) - *Anime* 
 * [DBAnimes](https://dbanimes.com/) - *Anime* 
 * [Anime-Ultime](http://www.anime-ultime.net/) - *Anime*
 * [VoirAnime](https://voiranime.com/) - *Anime* 
@@ -477,6 +477,8 @@ French / General Torrent Tracker
 * [MoviesVerse](https://moviesverse.cc/) - *Movies / TV / [Telegram](https://t.me/MoviesHomeOFFICIALS)* 
 * [Gophie](https://gophie.cam/) - *Movies / TV*
 * [AnimeAcademy](https://animeacademy.in/) - *Anime*
+* [ToonWorld4All](https://www.toonworld4all.me/) - *Cartoons / Anime*
+* [TVToonsIndia](https://tvtoonsindia.com/) - *Cartoons / Anime*
 * [Hindi Cartoons](https://telegra.ph/All-of-my-Channels-List-02-18) - *Cartoons*
 * [DesiRulez](https://www.desirulez.cc/) - *Video / Audio*
 * [Tomato.to](https://saavn.tomato.to/) - *Music*
@@ -512,6 +514,8 @@ French / General Torrent Tracker
 * [PakBcn](http://www.pakbcn.live/) - *TV / Live*
 * [asiankdrama](https://asiankdrama.com/) - *Asian Drama*
 * [Dead Toons India](https://deadtoonsindia.net/) - *Cartoons / Anime* 
+* [ToonWorld4All](https://www.toonworld4all.me/) - *Cartoons / Anime*
+* [Anime World India](https://anime-world.in/) - *Cartoons / Anime / [Discord](https://discord.com/invite/c3ete48q8H)*
 * [PepCoding](https://www.pepcoding.com/resources/) - *C++ & Java Programming Courses*
 * [DesiRulez](https://www.desirulez.cc/) - *Video / Audio*
 * [kukufm.com](https://kukufm.com/) - *Podcasts / Radio / Audiobooks* 
@@ -876,13 +880,14 @@ French / General Torrent Tracker
 * [legendasbrasil](https://legendasbrasil.org/) - *Subtitle Search App*
 * [MD Saude](https://www.mdsaude.com/) or [Tua Saude](https://www.tuasaude.com/) - *Health News*
 * [Dieta Emagrece](https://dietaemagrece.com.br/), [DicasPara](https://www.dicasparaperderpeso.com.br/) or [Beleza e Saude](https://belezaesaude.com/) - *Health*
+* [Educa Mais Brasil](https://www.educamaisbrasil.com.br/enem/guia-enem) - *ENEM Study Material*
+* [Universia](https://www.universia.net/) - *Portuguese University Search*
 * [Uol](https://escolakids.uol.com.br/) - *Kids Learning*
 * [Portuguese Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_browser_games) 
 * [Atari2600](http://www.atari2600.com.br/) - *Browser Emulator*
 * [Racha Cuca](https://rachacuca.com.br/) - *Puzzles & Trivia*
 * [cacapalavras](http://www.cacapalavras.com.br/) - *Crossword Puzzles*
 * [plagiarisma](http://plagiarisma.net/pt/) - *Plagiarism Checker*
-* [Universia](https://www.universia.net/) - *Portuguese University Search*
 * [CatalogoApp](https://catalogoapp.mobi/) - *Portuguese Product Catalog*
 * [dicionariompb](https://dicionariompb.com.br/) - *Top Song Charts*
 * [Jogorama](https://jogorama.com.br/) - *Game Index / Tips*
@@ -1333,8 +1338,7 @@ Portuguese
 
 # ► Spanish
 
-* **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - *Spanish Telegram Channel Index*https://github.com/publiusfederalist/federalist
-
+* **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - *Spanish Telegram Channel Index*
 * [jogos10](http://www.jogos10.com/) or [Minijuegos](https://www.minijuegos.com/) - *Browser Games*
 * [EmojiTool](https://emojitool.com/) - *Emoji Database*
 * [Catflix](https://www.championcat.cl/catflix/) - *Cats!*
@@ -1456,6 +1460,15 @@ Portuguese
 
 ***
 
+# ► Swedish
+
+## ▷ Streaming 
+
+* [SVT Play](https://www.svtplay.se/) - *Movies / TV*
+* [Filmarkivet](https://www.filmarkivet.se/) - *Short Films*
+
+***
+
 # ► Tamil
 
 ## ▷ Streaming 
@@ -1534,6 +1547,7 @@ Portuguese
 # ► Vietnamese 
 
 * [Coccoc](https://coccoc.com/search) - *Search*
+* [ShareScript](https://sharescript.net/) - *Script / Code Index*
   
 ## ▷ Downloading
 
@@ -1549,9 +1563,22 @@ Portuguese
 * [ChiaSeAPK](https://www.chiaseapk.com/) - *Modded APKs*
 * [kysuthietke](https://kysuthietke.com/) - *Engineering Software*
 
+## ▷ Streaming
+
+* [TVHai](http://tvhai.org/) - *Movies / TV*
+* [VPHimZZ](https://vphimzz.net/) - *Movies / TV*
+* [PhimTor ](https://phimtor.com/) - *Movies*
+* [AnimeHay](https://animehay.club/) - *Anime*
+* [AnimeTVN](https://animetvn.com/) - *Anime*
+* [VietToons](https://viettoons.tv/) - *Cartoons*
+* [TVOnline](http://tvonline.vn/) - *Live TV*
+* [ZingMP3](https://zingmp3.vn/) - *Music*
+
 ## ▷ Reading
 
-* [ShareScript](https://sharescript.net/) - *Script / Code Index*
+* [cmangaka](https://cmangaka.com/) - *Manga*
+* [truyenqqvip](http://truyenqqvip.com/) - *Manga*
+* [nettruyengo](http://www.nettruyengo.com/) - *Manga*
 * [HAKO](https://ln.hako.re/) - *Light Novels*
 
 ***
@@ -1614,7 +1641,6 @@ Portuguese
 * [JavaLibre](https://javalibre.com.ua/) - *Ukrainian / Books*
 * [WiiDatabase](https://wiidatabase.de/) - *Deutsch / Nintendo Homebrew*
 * [KannadaCine](https://www.kannadacine.com/) - *Kannada / Streaming / Movies*
-* [Filmarkivet](https://www.filmarkivet.se/) - *Swedish / Short Films*
 * [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - *Malaysian / Audio / Telegram*
 * [PDFlibrary](https://t.me/PDFlibrary) - *Malayalam / Books / Telegram*
 * [9jaflaver](https://9jaflaver.com/) - *Nigerian / MP3*
