@@ -164,7 +164,7 @@
 
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - ctrl+f and type "nsfw"
 * [Porn Time](https://porntime.ws/) - *Torrent Streaming App*
-* [PornLeech](http://pornleech.io/)
+* [PornLeech](http://pornleech.ch/)
 * [Sexy-Pics](https://www.sexy-pics.us/)
 * [relizer](http://relizer.net/) 
 * [色花堂-98堂](https://www.sehuatang.net/)
