@@ -1901,7 +1901,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Telegram Bots**
 
-* [spotifydl_mp3_bo](https://t.me/spotifydl_mp3_bot), [Spotdlrobot](https://t.me/Spotdlrobot), [Spotify Music Downloader](https://t.me/joinchat/DdR2SUvJPBouSW4QlbJU4g), [pymusicdl](https://github.com/insaiyancvk/pymusicdl), [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) 
+[spotifydl_mp3_bo](https://t.me/spotifydl_mp3_bot), [Spotdlrobot](https://t.me/Spotdlrobot), [Spotify Music Downloader](https://t.me/joinchat/DdR2SUvJPBouSW4QlbJU4g), [pymusicdl](https://github.com/insaiyancvk/pymusicdl), [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) 
 
 **Recorders** 
 
