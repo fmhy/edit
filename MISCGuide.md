@@ -274,6 +274,7 @@
 * [WebGL Water](http://madebyevan.com/webgl-water/) - *Water Simulation* 
 * [Origami Simulator](https://origamisimulator.org/) - *Origami Simulation* 
 * [Fold & Cut](https://www.onemotion.com/fold-cut-paper/) - *Make Digital Paper Snowflakes*
+* [Animated Drawings](https://sketch.metademolab.com/) - *Animate Drawings*
 * [Neonflames](https://29a.ch/sandbox/2011/neonflames/) - *Draw Nebula* 
 * [WaveEQ](https://quazikb.github.io/WaveEq/index.html) - *Real-Time Wave Tracing* 
 * [Leapy Grid](https://codepen.io/Godje/full/mOzpEY/) - *Play with Rainbow Grid* 
@@ -410,6 +411,7 @@
 * [Fake Text Message](https://ifaketextmessage.com/) - *Make Fake Text Conversation* 
 * [FutureTimeline](https://www.futuretimeline.net/) - *Timeline of future predictions* 
 * [House creep](https://www.housecreep.com/) - *Homes With A Curious or Criminal History* 
+* [Letters of Note](https://news.lettersofnote.com/) - *Historical Letters*
 * [Hypochondriapp](http://hypochondriapp.io/) - *Get a terrible diagnosis for your symptoms*
 * [Cube Rule](https://cuberule.com/) - *The Cube Rule of Food* 
 * [EverySecond](https://everysecond.io/) - *Visualize Per Second Data*
@@ -506,6 +508,7 @@
 * [Is It A Cat?](https://isitacat.com/) - *Cat Image Detector* 
 * [Is It Christmas?](https://isitchristmas.com/) or [Is It Halloween Yet?](https://www.isithalloweenyet.com/) - *Find Out if it's a Holiday*
 * [Presence](https://presence.mrarich.com/) - *Unwrap Presents Remotely*
+* [Flat.Social](https://flat.social/f/hn-virtual-xmas) - *Virtual Christmas Party*
 * [The.Matrix-ASCII](http://takeovertheworld.org/matrix/) - *The Matrix Encoded in Text*
 * [sCandyBars](https://scandybars.com/) - *Candy Bar Photo Blog*
 * [ASCIIMATION](http://www.asciimation.co.nz/) - *Star Wars ASCII Animation*
@@ -1061,6 +1064,7 @@
 * [Breeze Duo for KDE Plasma](https://github.com/vfrico/firefox-breeze-duo) - *Breeze Theme for better KDE Integration* 
 * [WhatRuns](https://www.whatruns.com/) - *Discover what makes a site run* 
 * [Tab Session Manager](https://tab-session-manager.sienori.com/) or [Session Buddy](https://sessionbuddy.com/) - *Session Manager* 
+* [X-Forwarded-For Header](https://github.com/MisterPhilip/x-forwarded-for) - *Set X-Forwarded-For HTTP Header*
 * [Peek](https://github.com/corbindavenport/peek) - *Shows Images & Videos Behind Links & Thumbnails* 
 * [Not For You](https://bengrosser.com/projects/not-for-you/) - *Confuse Tik-Toks Recommendation Algorithm*
 * [FBPurity](https://www.fbpurity.com/) or [Social Fixer](https://socialfixer.com/) - *Facebook Enhancement Extension*
@@ -1121,6 +1125,7 @@
 * [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - *Quickly Enable / Disable Chrome Extensions*
 * [CRX Viewer](https://github.com/Rob--W/crxviewer) - *View Extension Source Code* 
 * [Tabji](https://tabji.link/) or [MarvellousSuspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - *Tab Suspender*
+* [Darkness](https://chrome.google.com/webstore/detail/darkness-beautiful-dark-t/imilbobhamcfahccagbncamhpnbkaenm) - *Dark Mode*
 * [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - *Picture-in-Picture Mode*
 * [OVC](https://chrome.google.com/webstore/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - *Video Controller*
 * [Say Play](https://thanesh.dev/say-play) - *Video Control Voice Commands*
