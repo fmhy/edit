@@ -459,7 +459,7 @@
 * [GiveMeRedditStreams](https://givemeredditstreams.com/) - *Sports* 
 * [StreamonSport](https://www.streamonsport.info/) - *Sports*
 * [SportSala](https://www.sportsala.cc/) or [123Cric](https://www.123cric.com/) - *Sports*
-* [Pluto](http://pluto.tv/live-tv) - *TV / Sports*
+* [Pluto](http://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - *TV / Sports*
 * [Time4TV](http://time4tv.stream/) - *TV / Sports*
 * [CXtv](http://www.cxtvlive.com/) - *TV / Sports*
 * [USTV247](https://ustv247.tv/) - *TV / Sports*
@@ -604,7 +604,6 @@
 * [FullSeasonsTv](https://fullseasonstv.com/) - *TV*
 * [MoviesWBB](http://movieswbb.com/) - *Movie / TV*
 * [KatMovieHD](https://katmoviehd.nz/category/hollywood-eng/) - *Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)*
-* [TheMoviesFlix](https://themoviesflix.co.com/) - *Movies / TV / Anime*
 * [Amadei33](https://www.amadei33.com/) - *Movies / TV*  
 * [MKVBee](https://mkvbee.com/) - *Movies / TV*
 * [MKVHOUSE](https://mkvhouse.com/) - *Movies / TV*
@@ -952,6 +951,7 @@
 * [BingeClock](https://www.bingeclock.com/) - *TV Show Length Calculator* 
 * [MyDramaList](https://mydramalist.com/) - *Asian Drama Tracker* 
 * [MythBank](https://mythbank.com/) - *Media Timelimes / Watch Orders* 
+* [MCU Precise Chronological Order](https://i.imgur.com/tczG4iI.jpg)
 * [watch_order](https://www.reddit.com/r/anime/wiki/watch_order) - *Anime Watch Orders [/r/anime](https://reddit.com/r/anime)*
 * [Anime Notifier](https://notify.moe/) - *Anime List, Tracker, Database & Notifier* 
 * [Tiaga](https://taiga.moe/) - *Anime Tracking Program / [GitHub](https://github.com/erengy/taiga)* 
