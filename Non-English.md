@@ -858,6 +858,7 @@ French / General Torrent Tracker
 * [Repozytorium ](http://repozytorium.fn.org.pl/?q=pl) - *Movies* 
 * [cda-hd](https://cda-hd.cc/) - *Movies / TV* 
 * [filman.cc](https://filman.cc/) - *Movies / TV* 
+* [Ekino-TV](https://ekino-tv.pl/) - *Movies / TV*
 * [Anime Odcinki](https://anime-odcinki.pl/) - *Anime* 
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - *Polish Video Archive*
 
@@ -992,9 +993,10 @@ French / General Torrent Tracker
 * [SuperFlixHD](https://superflixhd.net/) - *Movies / TV*
 * [animevibe](https://animevibe.top/) - *Anime*
 * [animeszone](https://animeszone.net/) - *Anime*
-* [anicdn](https://www.anicdn.net/) - *SAnime*
+* [anicdn](https://www.anicdn.net/) - *Anime*
+* [NewZect](https://newzect.com/) - *Asian Drama*
 * [99 Media](https://www.99.media/pt/) - *Documentaries*
-* [verfutebol](https://verfutebol.tv/ ) - *Live Sports*
+* [verfutebol](https://verfutebol.tv/) - *Live Sports*
 * [OLHosnaTV](http://www.olhosnatv.com.br/) - *Live TV / Sports*
 * [Aovivo](https://aovivo.pro/tv/) - *Portuguese / Live TV / Sports*
 * [MegaCanais](https://megacanais.com/) - *Live TV / Sports*
@@ -1092,6 +1094,7 @@ Portuguese / Streaming / Christian Music
 * [brmangas](https://www.brmangas.com/) - *Manga*
 * [mangahost4](https://mangahost4.com/) - *Manga*
 * [mangayabu](https://mangayabu.top/) - *Manga*
+* [NeoxScans](https://neoxscans.net/) - *Manga*
 * [meusmangas](https://meusmangas.net/) - *Manga*
 * [YabuToons](https://yabutoons.com/) - *Manga*
 * [instintomangaka](https://www.instintomangaka.com/baixar-mangas/) - *Manga*
