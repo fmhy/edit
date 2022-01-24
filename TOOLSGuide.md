@@ -303,6 +303,7 @@
 * [LibreSprite](https://libresprite.github.io/), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - *Pixel Art Animation Tools*
 * [BestSnip](https://bestsnip.com/animation/) or [Mulator](https://multator.ru/) - *Online Animation Tool*
 * [Mixamo](https://www.mixamo.com/) - *3D Character Animation Tool*
+* [Vinci](https://vinci.surreal-ai.com/home/free-talking-avatar) - *Create Talking AI*
 * [NATRON](https://natrongithub.github.io/) - *Compositing Software*
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - *CGI Assets*
 * [Motion Den](https://motionden.com/), [Lumen5](https://lumen5.com/) or [VideoCreek](https://videocreek.com/) - *Video Template Editor*
@@ -485,7 +486,7 @@
 * [Krisp](https://krisp.ai/) - *Noise Cancellation Software*
 * [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Infinite Pro Trial](https://gist.github.com/programminghoch10/b6021e40cc1905d2b01a1571c6c96f17) - *Audio Mixer*
 * [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - *Voice Audio Mixer*
-* [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [VoiceMod](https://filecr.com/?s=VoiceMod+Pro), [MorphVOX](https://filecr.com/?s=MorphVOX+Pro) or [ClownFish](https://clownfish-translator.com/voicechanger/) - *Voice Changer*
+* [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [VoiceMod](https://filecr.com/?s=VoiceMod+Pro), [MorphVOX](https://filecr.com/?s=MorphVOX+Pro), [MyVoiceMod](https://myvoicemod.com/) or [ClownFish](https://clownfish-translator.com/voicechanger/) - *Voice Changer*
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) or [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - *Clone Voices*
 * [Sound Branch](https://soundbran.ch/) - *Create / Share / Podcasts / Voice Messages* 
 * [Gibber](https://gibber.cc/) - *Audiovisual Code Composer* 
@@ -653,10 +654,10 @@
 * [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) or [List of Matrix Servers](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html) - *Matrix Server List*
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - *Export Skype Chat Data to Readable Text*
-* [Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [TinyChat](https://tinychat.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat* 
+* [Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [TinyChat](https://tinychat.com/), [Noysi Meet](https://meet.noysi.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat* 
 * [Zoom Escaper](https://zoomescaper.com/) - *Self-Sabotage Video Calls to Escape Meetings*
 * [Live Curtain](https://livecurtain.com/) - *Countdown Curtain For Online Meeting*
-* [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
+* [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Nertivia Chat](https://nertivia.net/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
 * [IMumble](https://www.imumble.nl/) - *Voice Chat Server*
 * [Gather](https://gather.town/), [OpenSimulator](http://opensimulator.org/) - *Virtual World Server*
 * [FireStorm Viewer](https://www.firestormviewer.org/) - *Virtual World Viewer*
@@ -816,7 +817,7 @@ General Reading Sites*
 * [Search My Site](https://searchmysite.net/) - *Search Engine for Independent and Personal websites / Open Source*
 * [algolia](https://hn.algolia.com/) - *Hacker News Search* 
 * [Tor Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tor_search_engines) - *Search Tor*
-* [TorBot](https://github.com/DedSecInside/TorBot), [TorCrawl](https://github.com/james04gr/TorCrawl.py), [OnionIngestor](https://github.com/danieleperera/OnionIngestor) or [VigilantOnion](https://github.com/andreyglauzer/VigilantOnion) - *TOR Network Crawlers*
+* [TorBot](https://github.com/DedSecInside/TorBot), [TorCrawl](https://github.com/james04gr/TorCrawl.py), [OnionIngestor](https://github.com/danieleperera/OnionIngestor), [OnionSearch](https://github.com/megadose/OnionSearch) or [VigilantOnion](https://github.com/andreyglauzer/VigilantOnion) - *TOR Network Crawlers*
 * [Intelligence X](https://intelx.io/tools) or [Aware-Online](https://www.aware-online.com/en/osint-tools/) - *Multiple Search Tools* 
 * [Marginalia Search](https://search.marginalia.nu/) - *Text Based Search Engine*
 * [TheOldNet](http://theoldnet.com/) - *Retro Search Engine*
@@ -879,6 +880,7 @@ General Reading Sites*
 * [Tiny.cc](https://tiny.cc/) - `tiny.cc/akl1mz`
 * [IPKill](https://ipkill.org/) - `ipkill.org/3yw`
 * [Shrunken](https://www.shrunken.com/) - `shrunken.com/a72de`
+* [Scur](https://scur.link/) - `scur.link/pLyF`
 * [shrtcode](https://app.shrtco.de/) - `shrtco.de/lsoWP`
 * [Rebrandly](https://www.rebrandly.com/) - `rb.gy/4m25hq` / [Extension](https://mybrowseraddon.com/g-url-shortener.html)
 * [u.nu](https://u.nu/) - `u.nu/5nhzi`
@@ -918,7 +920,7 @@ General Reading Sites*
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - *Sitemap Creator*
 * [CarbonDates](http://carbondate.cs.odu.edu/) - *Check Site Creation Date* 
 * [AtSameIP](https://atsameip.intercode.ca/) - *Find All Sites Hosted by Same IP*
-* [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) or [SubdomainFinder](https://subdomainfinder.c99.nl/) - *Find Hidden Subdomains* 
+* [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Search Console](https://search.google.com/search-console/) or [SubdomainFinder](https://subdomainfinder.c99.nl/) - *Find Hidden Subdomains* 
 * [pyfuzz](https://github.com/AyoobAli/pyfuzz) - *URL Fuzzing Tool* 
 * [Backlink Tool](https://backlinktool.io/) or [Index Kings](http://www.indexkings.com/) - *URL Indexer* 
 * [Blocked](https://www.blocked.org.uk/) - *UK ISP Site Blocking Test* 
@@ -934,6 +936,7 @@ General Reading Sites*
 * /u/SaveVideo, [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://www.redditsave.com/), [redv.co](https://redv.co/) or [Reddit.tube](https://reddit.tube/) - *Download Reddit Videos* 
 * [saveddit](https://github.com/p-ranav/saveddit) - *Reddit Bulk Media Downloader*
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown)
+* [Subreddit Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_subreddit_discovery) - *Explore & Discover Subreddits*
 * [/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all) - *Explore Multireddits*
 * [FMHY Curated Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits) - *Multireddits curated by FMHY members*
 * [Pushshift Reddit Search](https://www.redditsearch.io/) / [2](https://redditsearch.io/), [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0 ) or [Better Reddit Search](https://betterredditsearch.web.app/) - *Reddit Search*  
@@ -967,6 +970,7 @@ General Reading Sites*
 * [Unreadit](https://app.mailbrew.com/unreadit) - *Reddit Newsletters*
 * [reddit shell](https://redditshell.com/) - *Linux shell emulator for Reddit*
 * [Random Reddit](https://old.reddit.com/random) - *Get Random Reddit Threads / Possibly NSFW*
+* [Thredd](https://chrome.google.com/webstore/detail/thredd-useful-advice-from/nofhlafikocbioemioehbpadpgjlpeco/related) - *Find Reddit Discussions on WebPage you are Browsing*
 * [FrontPageMetrics](https://frontpagemetrics.com/) - *Metrics For Reddit* 
 * [Subreddit Sentiment](https://sentranker.com/subreddit-sentiment) - *Subreddit Sentiment Check*
 * [RedditMetis](https://redditmetis.com/), [Reddit-User-Analyser](https://reddit-user-analyser.netlify.app/), [Redective](https://www.redective.com/) or [redditsfinder](https://github.com/Fitzy1293/redditsfinder) - *Reddit Profile Information*
@@ -1531,6 +1535,9 @@ General Reading Sites*
 * [Nomad](https://www.nomadproject.io/) - *App Deployment Automation / [GitHub](https://github.com/hashicorp/nomad)*
 * [cygwin](http://cygwin.com/) - *Linux Style Windows Tools*
 * [Menu11](https://github.com/prateekmedia/Menu11) - *Windows 11 Style Launcher*
+* [HotkeyP](https://sourceforge.net/projects/hotkeyp/) - *Custom Hotkeys*
+* [Keyboard University](https://keyboard.university/) or [KDB](http://xahlee.info/kbd/keyboarding.html) - *Mechanical Keyboard Building Guides*
+* [MechMap](https://www.mechmap.tech/) - *Mechanical Keyboard Recommendations*
 * [NeatMouse](https://neatdecisions.com/products/neatmouse/) - *Mouse / Keyboard Emulator*
 * [WinCompose](http://wincompose.info/) - *Windows Special Character Compose Key / [GitHub](https://github.com/samhocevar/wincompose)*
 * [Plover](https://www.openstenoproject.org/plover/) - *Stenography Engine / [GitHub](https://github.com/openstenoproject/plover) / [Discord](https://discord.gg/NAzMz7C3wq)*
