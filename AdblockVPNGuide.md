@@ -97,6 +97,7 @@
 * **[Virus File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scan_files)** - *Scan Files*
 * **[Hybrid Analysis](https://www.hybrid-analysis.com/)** or [Amnpardaz](https://jevereg.amnpardaz.com/) - *Scan EXE Files*
 * **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)** - *Scan URL's*
+* [VToncolab](https://rentry.org/vtoncolab) - *How-to Scan Files with Google Colab*
 * MSRT - [x64](https://www.microsoft.com/en-us/download/details.aspx?id=9905) / [x86](https://www.microsoft.com/en-us/download/details.aspx?id=16) - *Malicious Software Removal Tool*
 * [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html), [Tinywall](https://tinywall.pados.hu/) or [GlassWire](https://www.glasswire.com/) - *Firewall / Network Monitor* 
 * [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/) or [Safing](https://safing.io/portmaster/) - *Network Monitor*
@@ -490,7 +491,8 @@
 * [HideMe](https://hide.me/) - *Free VPN*
 * [Calyx VPN](https://calyx.net/) - *Free VPN*
 * [FreePN](https://www.freepn.org/) - *Free Open Source P2P VPN* 
-* [TunnelBear](https://www.tunnelbear.com/) - *Free VPN / 500mb only*
+* [TunnelBear](https://www.tunnelbear.com/) - *Free VPN / 500mb*
+* [Avira Phantom](https://www.avira.com/en/free-vpn ) - *Free VPN / 500mb / [6 Month Code](https://campaigns.avira.com/de/heise-adventskalender)*
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
 * [VPNGate](https://www.vpngate.net/en/) - *Free VPN Relay Servers*
 * [OpenVPN](https://openvpn.net/), [TincVPN](http://www.tinc-vpn.org/) or [IPTunnels](https://www.iptunnels.com/) - *VPN Tunnels*
