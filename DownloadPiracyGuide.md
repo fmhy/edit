@@ -109,6 +109,7 @@
 * [AllYouLike](https://allyoulike.org/) - *Video / Audio Books / Magazines / Games / Roms / Software / Android / Comics / NSFW*
 * [ReleaseHive](https://www.releasehive.com/) - *Video / Audio / Software / Games / Books / NSFW* 
 * [rlsbb](http://rlsbb.ru/), [2](https://rlsbb.to/) - *Video / Audio / Games / Software / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker) / [Proxy](https://www.proxybb.com/)*
+* [WarezHub](http://warezhub.org/) - *Video / Audio / Software / Games / Books / Audiobooks / Android*
 * [0dayhome](https://0dayhome.net/) - *Video / Audio / Games / Software / Books / Magazines*
 * [DownDuck](http://www.downduck.com/) - *Video / Audio / Software / Games / Books / Magazines*
 * [0DayDDL](https://0dayddl.com/) - *Video / Audio / Games / Software / Books / Magazines*
