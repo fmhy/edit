@@ -62,7 +62,6 @@
 * [mathonline](http://mathonline.wikidot.com/) - *Math Tutorials*
 * [brighstorm](https://www.brightstorm.com/) - *Test Prep*
 * [O'Reilly](https://www.oreilly.com/) - *Tech / Programming / infinite free trial by clearing cookies / making new account*
-* [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - *Programming Courses*
 * [pad.ma](https://pad.ma/) - *Text-annotated Videos* 
 * [How to Become a Computer Science Engineer](https://laconicml.com/computer-science-engineer-mit-university/) - *Computer Science Courses* 
 * [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree) - *Computer Science Courses*
@@ -187,6 +186,7 @@
 * [Tutorials-eu](https://freetutorials-eu.com/) - *Udemy Courses*
 * [FreeCourseWeb](http://freecourseweb.com/) - *Udemy Courses* 
 * [Udemycourses](https://udemycourses.me/) - *Udemy Courses* 
+* [CoursesForFree](https://courseforfree.net/) - *Udemy Courses*
 * [FreeTutorialsHub](https://www.freetutorialshub.com/) - *Udemy Courses*
 * [FreeCourseUdemy](https://freecourseudemy.com/) - *Udemy Courses*  
 * [Devil Collection](https://mega.nz/folder/wQp0jaSC#cE7-P1fX0FkxU2LXAHm80A) - *Udemy Courses*
@@ -698,7 +698,7 @@
 * [General Index](https://archive.org/details/GeneralIndex) - *Article Metadata Mining Project*
 * [P2PU](https://www.p2pu.org/) - *Join Learning Groups Using Free Courses*
 * [CollegeComendium](https://collegecompendium.goldin.io/) - *Free Computer Science Classes*
-* [Top Universities](https://www.topuniversities.com/) - *University Rankings*
+* [Niche](https://www.niche.com/) or [Top Universities](https://www.topuniversities.com/) - *University & School Rankings*
 * [College Map](https://nces.ed.gov/ipeds/collegemap/) - *College Information Map*
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - *Professor Ratings*
 * [Edu VPN](https://www.eduvpn.org/) - *Institute Access VPN*
