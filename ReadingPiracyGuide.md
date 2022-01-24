@@ -355,7 +355,7 @@
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - *Hypnosis / Telegram*
 * [files.afu.se](https://files.afu.se/Downloads/) or [Ufos](https://drive.google.com/drive/folders/1vlY512iwG0yrTFE3Hha__lhBZq9zavQE) - *UFO Books*
 * [Archive of Our Own](https://archiveofourown.org/) - *Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)*
-* [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - *Books / Fantasy / TTRPG / [Archives](https://0bin.net/paste/+9z9AyRV#jABs+bWkz9nzCUTVBlyEUVPobNfGXt+4+jQrni-kNAz)*
+* [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - *Books / Fantasy / TTRPG / [Archives](https://0bin.net/paste/+9z9AyRV#jABs+bWkz9nzCUTVBlyEUVPobNfGXt+4+jQrni-kNAz) / [Torrents](https://mega.nz/folder/xfpEjSRI#Xvt1Snz6X23VawtrDkgFqw)*
 * [Choisey](http://choisey.free.fr/) or [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - *TTRPG Rulebooks*
 * [Cinema EBooks Collection](https://mega.nz/folder/Fc5HjABT#kDNrkB97DPt9L_dysk4jCw) - *Cinema Books*
 * [SimplyScripts](https://www.simplyscripts.com/) or [SubsLikeScript](https://subslikescript.com/) - *Movie / TV Scripts* 
@@ -372,6 +372,7 @@
 * [/r/Antiwork Library](https://www.reddit.com/r/antiwork/wiki/library) - *Anti-Servitude Resources*
 * [China-Dictatorship](https://github.com/cirosantilli/china-dictatorship) - *Anti-Chinese Authoritarianism*
 * [Kialo](https://www.kialo.com/) - *Popular Debates / Discussion* 
+* [Rookie Road]( https://www.rookieroad.com/) - *Sports Guides*
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
 
 ***
@@ -460,6 +461,7 @@
 * [AllITEBooks](https://allitebook.xyz/) - *IT Books*
 * [IT Book Drive](https://mega.nz/folder/lm5lgQxT#Qh52YqE0-kwP_-eWohMBbw) - *IT Books*
 * [Explanations](https://magcius.github.io/xplain/article/) - *Advanced Computer Explanations*
+* [The Ergonomic Development of Video Game Controllers ](https://www.longdom.org/open-access/the-ergonomic-development-of-video-game-controllers-2165-7556-1000209.pdf) 
 * [Bash Academy](https://guide.bash.academy/) - *Bash Shell Guide*
 * [Cyber Security & IT](https://mega.nz/folder/9kxTnLCI#BThv3CtkC27JqcJ4ZWD_cA) - *Cyber Security / IT Books & Courses*
 * [biorxiv](https://www.biorxiv.org/) - *Biology Preprints*
@@ -993,7 +995,7 @@
 * [Magzter](https://www.magzter.com/top-free-magazines)
 * [FlipHTML5](https://fliphtml5.com/exploring)
 * [MagDownload](https://magdownload.org/) 
-* [Retromags](https://www.retromags.com/) - *Retro Game Magazines* 
+* [Retromags](https://www.retromags.com/) or [Annarchive](https://www.annarchive.com/) - *Retro Game Magazines* 
 * [PC Zone](http://pixsoriginadventures.co.uk/PCZone/) - *PC Zone Magazines*
 * [CGW Museum](http://www.cgwmuseum.org/) - *Computer Gaming World Magazines*
 * [Atari Magazines](https://www.atarimagazines.com/) - *Classic Computer Magazine Archive* 
@@ -1084,7 +1086,6 @@
 * [FreeNovelsGroup](https://t.me/FreeNovelsGroup) - *Books / Telegram* 
 * [/r/alexandria](https://www.reddit.com/r/alexandria/) - *Esoteric / Occults Books*
 * [/r/textbook_piracy](https://reddit.com/r/textbook_piracy)
-* [/r/textbookrequest](https://reddit.com/r/textbookrequest)
 * [/r/Scholar](https://reddit.com/r/Scholar)
 * [Papers.Xtreme](https://papers.xtremepape.rs/) - *Test Revision Notes & Answers*
 
