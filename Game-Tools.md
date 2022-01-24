@@ -168,6 +168,7 @@
 * **[A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)** or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - *Steam Tools Index*
 * [Depressurizer](https://github.com/Depressurizer/Depressurizer) - *Steam Library Organizer*
 * [SteamDB](https://steamdb.info/) - *Steam Insights Tool*
+* [GetDLCInfoFromSteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - *Find SteamDB DLC Data*
 * [SteamCleaner](https://github.com/Codeusa/SteamCleaner) - *Remove Data Left Behind by Game Clients* 
 * [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) / [GitHub](https://github.com/MAXBURAOT/SmartSteamEmu), [Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator) / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg), [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - *Steam Client Emulator* 
 * [ColdAPI](https://github.com/Rat431/ColdAPI_Steam) - *Offline Steam Emulator*
@@ -253,6 +254,7 @@
 * [OptiFine Alternatives](https://lambdaurora.dev/optifine_alternatives/) - *Minecraft OptiFine Alternatives for Fabric*
 * [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - *Minecraft Utility Mod*
 * [Cubical](https://www.cubical.xyz/) - *Minecraft Schematic Tool*
+* [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) - *Turn Photos into Minecraft Art*
 * [ReplayMod](https://replaymod.com/) - *Record Minecraft Game Sessions / [GitHub](https://github.com/ReplayMod/ReplayMod)*
 * [Villager Trading Cheatsheet](https://i.imgur.com/vCpAxmD.png)
 * [Free Minecraft Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_servers) - *Host Free Minecraft Servers*
@@ -279,6 +281,7 @@
 * [Biomes-O-Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) - *Extra Biomes Mod*
 * [Water-Physics-Overhaul](https://www.curseforge.com/minecraft/mc-mods/water-physics-overhaul) - *Realistic Minecraft Water Physics*
 * [Outvoted](https://www.curseforge.com/minecraft/mc-mods/outvoted) - *Outvoted Minecraft Live Mobs*
+* [MCrev](https://github.com/MC874/MCrev) - *Windows 10 Minecraft License Bypasser*
 * [Classic Minecraft](https://classic.minecraft.net/) - *Play Classic Minecraft* 
 * [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) - *Minecraft Java Edition Launcher / Android / iOS*
 * [Minetest](https://www.minetest.net/) - *F2P Minecraft Alternative* 
@@ -331,7 +334,8 @@
 * [Open Shop Channel](https://oscwii.org/) - *Wii Homebrew App Library*
 * [RiiConnect24](https://rc24.xyz/) - *WiiConnect24 Replacement*
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - *NES, SNES & Playstation Mods*
-* [PSX Hax](https://www.psxhax.com/) - *Playstation Modding Forum*
+* [PSX Hax](https://www.psxhax.com/) or [Wololo](https://wololo.net/) - *Playstation Modding Guides*
+* [TheLeecherMan](https://sites.google.com/site/theleecherman/) - *Playstation Modding Tools*
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - *PS4 / PS5 Remote Play Client* 
 * [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - *PS4 Exploit Hosting PS4*
 * [PlayStationDiscord-Games](https://github.com/Tustin/PlayStationDiscord-Games) - *PS4 Remote Play* 
