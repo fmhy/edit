@@ -226,7 +226,7 @@
 * **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - *Download Stock Photos / Vectors*
 * **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)** - *Download Icons*
 * **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)** - *Search by Image*
-* [GFX Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources) - *Graphic Design Elements*
+* [GFX Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources) - *Graphic Design Resources*
 * [Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)
 * [RipMe](https://github.com/RipMeApp/ripme), [gallery-dl](https://github.com/mikf/gallery-dl) or [Image Extractor](https://extract.pics/) - *Image Download Tools*
 * [picsearch](https://www.picsearch.com/) - *Image Search*
