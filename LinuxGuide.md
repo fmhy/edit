@@ -12,6 +12,7 @@
 # ► Linux Tools / Apps
 
 * **[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_distros)** - *Download Linux Distros* 
+* **[Linux Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_themes)** - *Themes for Linux*
 * **[Linux Piracy](https://rentry.co/LinuxPiracy)** - *Linux Piracy Guide*
 * **[Archwiki](https://wiki.archlinux.org/)** - *Linux Wiki*
 * **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, [CPU-X](https://github.com/X0rg/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch) or [Stacer](https://github.com/oguzhaninan/Stacer) - *System Info / Resource Monitors*
@@ -69,7 +70,6 @@
 * [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - *Create Bootable USB Windows Drives*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [GParted](https://gparted.org/) - *Partition Manager*
-* [Gnome-Look](https://www.gnome-look.org/), [OCS Store](https://www.opendesktop.org/p/1175480/), [Oomox](https://github.com/themix-project/oomox), [Adapta](https://github.com/adapta-project/adapta-gtk-theme), [Arc](https://github.com/jnsh/arc-theme), [Numix](https://github.com/numixproject/numix-gtk-theme), [Evopop](https://github.com/solus-project/evopop-gtk-theme), [Flatablous](https://github.com/anmoljagetia/Flatabulous), [Flatablous Arc](https://github.com/andreisergiu98/arc-flatabulous-theme), [Material Ocean](https://github.com/material-ocean/material-ocean), [Ant ](https://github.com/EliverLara/Ant ) or [xfce-look](https://www.xfce-look.org/)  - *Linux Themes*
 * [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - *Mac Theme*
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme), [Moka](https://snwh.org/moka), [Numix](https://github.com/numixproject/numix-icon-theme) or [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - *Linux Icon Themes*
 * [Ricepedia](https://rizonrice.club/Main_Page) or [ThatNixGuy Ricing](https://thatnixguy.github.io/posts/ricing/) - *Linux Ricing Tools*
@@ -91,6 +91,7 @@
 * [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) or [GnomeKeyring](https://wiki.gnome.org/Projects/GnomeKeyring) - *GNOME Password Manager* 
 * [gopass](https://www.gopass.pw/) - *CLI Password Manager*
 * [exa](https://the.exa.website/) - *Modern ls replacement*
+* [KGet](https://apps.kde.org/kget/), [GabutDM](https://github.com/gabutakut/gabutdm) - *Download Manager*
 * [p7zip](http://p7zip.sourceforge.net/) - *File Archiver / Unzipper*
 * [rcm](https://github.com/thoughtbot/rcm) - *Manage Dotfiles*
 * [Curlew](https://curlew.sourceforge.io/) - *Linux File Converter*
@@ -99,7 +100,6 @@
 * [zentile](https://github.com/blrsn/zentile) - *On-demand Window Manager Tiling*
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/jmmaranan/forge) - *GNOME Tiling Extension*
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - *KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)*
-* [KGet](https://apps.kde.org/kget/) - *Download Manager*
 * [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) - *Google Drive Downloader*
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - *Mount GDrive on Linux*
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) or [Achoz](https://github.com/kcubeterm/achoz) - *File Explorers*
@@ -112,8 +112,10 @@
 * [syncthing](https://syncthing.net/) or [maestral](https://maestral.app/) - *File Sharing App*
 * [Hexchat](https://hexchat.github.io/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/ ) - *IRC Clients*
 * [Ghetto Skype](https://github.com/stanfieldr/ghetto-skype) - *Video / Chat Client*
+* [Whatsdesk](https://zerkc.gitlab.io/whatsdesk/) - *WhatsApp Client*
 * [Linux-dash](https://github.com/afaqurk/linux-dash) - *Web-based System Dashboard*
 * [Sharenix](https://github.com/Francesco149/sharenix) or [MagicCap](https://magiccap.me/) - *Screenshot Tool*
+* [SongRec](https://github.com/marin-m/SongRec) - *Song Identifier*
 * [AV Linux](http://www.bandshed.net/avlinux/) - *Video / Audio Editor*
 * [Flowblade](https://github.com/jliljebl/flowblade) - *Video Editor*
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Image Editor* 
@@ -154,6 +156,7 @@
 * [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) - *Grub Repair Guide for Linux Systems*
 * [GrubCustomizer](https://launchpad.net/grub-customizer) - *Customize Grub*
 * [ss64 Bash](https://ss64.com/bash/) - *Linux Bash Commands*
+* [bashrcgenerator](http://bashrcgenerator.com/) - *.bashrc Generator*
 * [Autokey](https://github.com/autokey/autokey) - *Linux Automation Utility*
 * [The Linux Kernel Archives](https://kernel.org/) - *Linux Kernel Archive*
 * [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
@@ -251,6 +254,7 @@
 * [steam-cli](https://github.com/berenm/steam-cli) - *CLI for Steam*
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher*
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - *GOG Client*
+* [NVBurner](https://github.com/iloveichigo/NVBurner) - *Overclocking Tool*
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - *Linux Gaming Kernels*
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - *Linux System Optimizer*
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - *Linux Game Package Downloader*
@@ -324,6 +328,7 @@
 * [IconSet](https://github.com/tale/iconset) or [IconChamp](https://www.macenhance.com/iconchamp.html) - *Custom System Icons*
 * [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - *MacOS Dynamic Wallpaper App*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old MacOS ISOs*
+* [Bootcamp Drivers](https://bootcampdrivers.com/) - *Mac Bootcamp AMD Drivers*
 * [IINA](https://iina.io/) - *Video Player*
 * [Meeter](https://trymeeter.com/) - *Video Meeting Manager*
 * [Gifski](https://sindresorhus.com/gifski) - *Image to GIF Converter / [GitHub](https://github.com/sindresorhus/Gifski)*
