@@ -64,6 +64,7 @@
 * [w3schools](https://www.w3schools.com/) - *Programing Tutorials*
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - *Programming Courses*
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - *Programming Courses*
+* [Programming Courses Drive](https://drive.google.com/drive/u/0/folders/1rE6r67r1vsDrVxvAd5StXWSNGgsMpH5r), [2](https://drive.google.com/drive/mobile/folders/1wv81EOeEYFqX_Icdm_jvejVxQTqCA7Vd) - *Programming Courses*
 * [HelloWorldCollection](http://helloworldcollection.de/) - *Hello World Programming Collection*
 * [VisualGo](https://visualgo.net/) - *Data Structures & Algorithm Animations*
 * [HTMLDog](https://htmldog.com/) - *HTML / CSS / JavaScript Tutorials* 
@@ -199,7 +200,7 @@
 * [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - *Community Libraries for Discord API*
 * [Discord-panel](https://github.com/Notavone/discord-panel) - *Discord Bot Server Manager*
 * [Javacord](https://javacord.org/) - *Discord Bot Creation Library*
-* [Pylon](https://pylon.bot/) - *Discord Bot Builder*
+* [Pylon](https://pylon.bot/) or [Bot Designer for Discord](https://apps.apple.com/us/app/bot-designer-for-discord/id1495536477) (Mac) - *Discord Bot Builder*
 * [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - *C++ Library for Discord*
 * [Twitter (un)official Consumer Key](https://gist.github.com/shobotch/5160017) - *Twitter Consumer Keys*
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - *Toolbox for Reddit Extension Development*
@@ -403,6 +404,7 @@
 * [Pencil](http://pencil.evolus.vn/) - *Software Mockup Tool / [GitHub](https://github.com/evolus/pencil)*
 * [GNUnet](https://gnunet.org/en/) - *Software Framework* 
 * [Kuker](https://github.com/krasimir/kuker) - *Debug Applications* 
+* [mitmproxy](https://github.com/mitmproxy/mitmproxy) - *HTTP Proxy*
 * [BugSnag](https://www.bugsnag.com/) - *Application Stability Monitor*
 * [98.css](https://jdan.github.io/98.css/) - *Build Windows 98 Themed Interfaces / [GitHub](https://github.com/jdan/98.css)*
 * [Radare](https://rada.re/r/), [Flare IDA](https://github.com/mandiant/flare-ida), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://github.com/rizinorg/cutter) - *Reverse Engineering* 
