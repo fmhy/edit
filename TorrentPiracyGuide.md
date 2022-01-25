@@ -148,6 +148,7 @@
 * [BITCQ](https://bitcq.com/)
 * [TorrentMag](https://www.torrentmag.net/) 
 * [Torrent.nz](https://torrent.nz/) 
+* [Torrenteer](http://torrenteer.ddns.net/)
 * [TorrentProject2](https://torrentproject2.com/)
 * [ciligou0](http://ciligou0.com/) 
 * [TorrentDB](https://torrentdb.li/)
