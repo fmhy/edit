@@ -1138,6 +1138,7 @@
 * [Poster](https://install.get-poster.com/) - *Quick Link Share*
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - *Download Multiple Links at Once* 
 * [Refgen](https://github.com/reorx/refgen) - *Generate Markdown Style Links*
+* [Hover](https://chrome.google.com/webstore/detail/hover/eiiibfemcfcehadokcldlcdljfdlmolj) - *Link Previews*
 * [Multimedia Search](https://multimediasearchapp.com/) - *Browser File Search*
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
 * [Night Shift Redux](https://nightshift.lu/) - *Adapts Display Color to Time of Day*
