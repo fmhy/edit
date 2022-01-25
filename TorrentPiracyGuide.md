@@ -33,7 +33,7 @@
 * [BiglyBT](https://www.biglybt.com/) - *[Screenshot](https://i.imgur.com/Gopf4tZ.png)* 
 * [NeoLoader](https://neoloader.com/) - *[Screenshot](https://neoloader.com/neo/image1.jpg)*
 * [Tribler](https://www.tribler.org/) - *Tor-inspired Client / [Screenshot](https://i.imgur.com/IzmanCf.png) / [Github](https://github.com/Tribler/tribler)*
-* [aria2](https://aria2.github.io/) - *Terminal Torrent Client / [Screenshot](https://i.imgur.com/KV0pSjt.png) / [Github](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis)*
+* [aria2](https://aria2.github.io/) - *Terminal Torrent Client / [Screenshot](https://i.imgur.com/KV0pSjt.png) / [Github](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](http://ariang.mayswind.net/)*
 * [mtorrent](https://github.com/nektro/mtorrent) - *Terminal Torrent Client* 
 * [RakaPublicLeech](https://t.me/RakaPublicLeech) - *Torrent to Telegram Bot*
 * [libtorrent](https://www.libtorrent.org/) - *C++ BitTorrent Client*
