@@ -620,6 +620,7 @@
 * [Movies Downloader](https://movie.unlimitdownloads.com/) - *Movies / TV*
 * [MoviesMore](https://moviesmore.info/) - *Movies / TV*
 * [StreamCraze](https://streamcraze.com/) - *Movies / TV*
+* [MovieExplit](https://moviexplit.pw/) - *Movies / TV / Anime / [Telegram](https://t.me/moviexplit)*
 * [MovieFire](https://moviefire.net/) - *Movies* 
 * [SomosMovies](https://somosmovies.com/) - *Movies* 
 * [TVSeriesNMovies](https://www.tvseriesnmovies.com/) - *Movies / TV*
@@ -1045,7 +1046,7 @@
 * [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - *Styled YouTube Subtitles*
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - *Add Subtitles to Twitch Stream*
 * [Bazarr](https://www.bazarr.media/) - *Auto-Download Subtitles* 
-* [HandySub](https://github.com/HandyOrg/HandySub) or [Subscene-Subtitle-Grabber](https://github.com/RafayGhafoor/Subscene-Subtitle-Grabber) - *Subtitle Downloader*
+* [HandySub](https://github.com/HandyOrg/HandySub), [SubDownloader](https://subdownloader.net/) or [Subscene-Subtitle-Grabber](https://github.com/RafayGhafoor/Subscene-Subtitle-Grabber) - *Subtitle Downloader*
 * [Subliminal](https://github.com/Diaoul/subliminal), [SubtitleBOX](https://github.com/sameera-madushan/SubtitleBOX) or [Subtitle-Downloader](https://github.com/manojmj92/subtitle-downloader) - *Python Download Script* 
 * [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - *Plex Subtitles* 
 * [Subshifter](https://subshifter.bitsnbites.eu/), [subsync](https://github.com/sc0ty/subsync), [ffsubsync](https://github.com/smacke/ffsubsync), [Alass](https://github.com/kaegi/alass), [autosubsync](https://github.com/oseiskar/autosubsync) or [subslider.js](https://github.com/micheleb/subslider.js) / [2](https://micheleb.github.io/subslider.js/) - *Sync Subtitles* 
