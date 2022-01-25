@@ -464,7 +464,7 @@
 * **[Surfshark](https://surfshark.com/)** - *[Pricing](https://i.imgur.com/YaiKjpX.png)*
 * **[Riseup](https://riseup.net/en/vpn)** - *Free VPN* 
 * **[Softether](https://www.softether.org/)** - *Free VPN*
-* **[WireGuard](https://www.wireguard.com/)** - *VPN Tunnel*
+* **[WireGuard](https://www.wireguard.com/)** - *VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn)*
 * **[MOAG](https://moag.techtanic.pw/)** - *VPN Trial Generator / [Avoid Zenmate](https://restoreprivacy.com/kape-technologies-owns-expressvpn-cyberghost-pia-zenmate-vpn-review-sites/)*
 * [Perfect Privacy](https://www.perfect-privacy.com/) - *[Pricing](https://i.imgur.com/Rtfwu2t.png)*
 * [IVPN](https://www.ivpn.net/) - *[Pricing](https://i.imgur.com/Iq92wOO.png) / [Free Trial](https://redd.it/nzjmqa)*
@@ -492,7 +492,6 @@
 * [Calyx VPN](https://calyx.net/) - *Free VPN*
 * [FreePN](https://www.freepn.org/) - *Free Open Source P2P VPN* 
 * [TunnelBear](https://www.tunnelbear.com/) - *Free VPN / 500mb*
-* [Avira Phantom](https://www.avira.com/en/free-vpn ) - *Free VPN / 500mb / [6 Month Code](https://campaigns.avira.com/de/heise-adventskalender)*
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
 * [VPNGate](https://www.vpngate.net/en/) - *Free VPN Relay Servers*
 * [OpenVPN](https://openvpn.net/), [TincVPN](http://www.tinc-vpn.org/) or [IPTunnels](https://www.iptunnels.com/) - *VPN Tunnels*
