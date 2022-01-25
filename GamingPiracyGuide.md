@@ -47,8 +47,8 @@
 * [Cracked Games](https://drive.google.com/drive/u/0/folders/1923I8RvjiE112Fzca1WshxMIwlL338Ea)
 * [DLFox](https://www.dlfox.com/)
 * [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
+* [DarckRepacks](https://darckrepacks.com/) - *[Discord](https://discord.gg/5eRvDvy)*
 * [SPiKY Repacks](https://discord.gg/ZHC6pffMz2) - *[GamesDrive Uploader](https://gamesdrive.co/)*
-* [Game PC ISO](https://gamepciso.org/)
 * [SteamRIP](https://steamrip.com/) - *[Discord](https://discord.gg/hj8dU5BFHE)*
 * [SteamUnlocked](https://steamunlocked.net/) - *Use Adblocker / [Release Tracker](https://github.com/N-O-E-D/Steamunlocked)*
 * [pc_game_down](https://t.me/pc_game_down) - *Telegram*
@@ -102,7 +102,6 @@
 * [Free GoG PC Games](https://freegogpcgames.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win)
-* [Gid of Games](https://gidofgames.com/) 
 * [Rihno Games](https://rihnogames.com/)
 * [Ali213](https://www.ali213.net/) - *[How-To](https://i.imgur.com/qoZOx3b.png)*
 
@@ -173,7 +172,8 @@
 * [RomHacking](https://www.romhacking.net/) - *Rom Translations &amp; Hacks*
 * [PKHeX](https://github.com/kwsch/PKHeX) - *Pokémon Save File Editor*
 * [GameBanana](https://gamebanana.com/mods/games/14783) - *Pokémon Brilliant Diamond & Shining Pearl Mods*
-* [datcheck](https://github.com/pkos/datcheck) - *Compare No-Intro / Redump dat files to rom or disc collection* 
+* [Dats.site](https://dats.site/) - *Rom .DAT Files*
+* [datcheck](https://github.com/pkos/datcheck) - *Compare No-Intro / Redump .DAT Files to ROM or Disc Collection* 
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - *Gamecube iso.dec to ISO Converter*
 * [Cemu Guide](https://cemu.cfw.guide/) - *Cemu &amp; BOTW Optimization Guide*
 * [Motion Support Bypass](https://redd.it/gobcne) - *Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)*
@@ -215,7 +215,7 @@
 * [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - *Roms / Wii U / [Required Keys](https://vault.titlekeys.ovh/)*
 * [WiiWare Collection](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) - *Roms / WiiWare*
 * [Wii Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wii_roms) - *Roms / Wii*
-* [Switch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - *Roms / Nintendo Switch*
+* [Switch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - *Roms / Nintendo Switch / [Release Trakcer](http://www.nswdb.com/)*
 * [Gamecube Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gamecube_roms) - *Roms / GameCube*
 * [N64 Roms](https://drive.google.com/drive/folders/1Cv10J2rc8Gk4GNQlrHFivrzg0w5JPDES) - *Roms / N64*
 * [Gameboy Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gameboy_roms) - *Roms / Gameboy*
@@ -685,6 +685,7 @@
 * [listal](https://www.listal.com/) - *Video Game Database*
 * [HOTU](http://www.homeoftheunderdogs.net/) - *Rare Video Game Database*
 * [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - *Find Similar Games*
+* [Random Game Bookmark Scrip](https://pastebin.com/JtmBQZbL) - *Find Random Games*
 * [Movie-Censorship](https://www.movie-censorship.com/) - *Compare Alternate Versions of Media* 
 * [50GamesLike](https://www.50gameslike.com/) - *Game Recommendations*
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Top 100 Lists*
