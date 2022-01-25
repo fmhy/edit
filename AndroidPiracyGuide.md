@@ -176,6 +176,7 @@
 * [Voiceliner](https://a9.io/voiceliner/) - *Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)*
 * [openboard](https://github.com/dslul/openboard) - *FOSS Keyboard App*
 * [Grammarly](https://forum.mobilism.org/search.php?keywords=grammarly&sr=topics&sf=titleonly) - *Grammarly Keyboard Premium* 
+* [WiFiman](https://play.google.com/store/apps/details?id=com.ubnt.usurvey) - *Network Scanner*
 * [Fing](https://www.fing.com/products/fing-app) - *Network Toolkit* 
 * [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) - *Fake GPS Location*
 * [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage) - *Disk Usage Analyzer*
@@ -211,6 +212,7 @@
 * [Migrate](https://play.google.com/store/apps/details?id=balti.migrate) - *Migration Tool / Root Required*
 * [Videoder](https://www.videoder.com/), [PowerTube](https://powertube.razar.app/) / [Git](https://github.com/razar-dev/PowerTube) or [DVD](https://github.com/yausername/dvd) - *Video Download Tool* 
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) or [SongTube](https://github.com/SongTube/SongTube-App) - *YouTube Audio / Video Downloader*
+* [Show Youtube Dislikes](https://github.com/jesperbakhandskemager/view-youtube-dislike) - *Return Youtube Dislikes*
 * [DankChat](https://github.com/flex3r/DankChat) - *Talk in Multiple Twitch Chats at Once*
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - *Reddit Video Downloader*
 * [Boost](https://forum.mobilism.org/search.php?keywords=boost+for+reddit&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [Joey](https://forum.mobilism.org/search.php?keywords=joey+for+reddit&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [BaconReader](https://baconreader.com/) or [Relay](https://relayforreddit.com/index.html) - *Reddit Client*
@@ -241,7 +243,7 @@
 * [1 Second Everyday](http://1se.co/) - *1 Second Video Diary*
 * [Video Watermark](https://play.google.com/store/apps/details?id=com.zmobileapps.videowatermark) - *Add Watermark to Videos*
 * [Green Screens](https://play.google.com/store/search?q=green%20screen&c=apps) - *Green Screens for Android*
-* [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - *Telegram Client*
+* [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/), [Catogram X](https://github.com/CatogramX/CatogramX) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - *Telegram Client*
 * [Uploadgram](https://github.com/Pato05/uploadgram-app) - *Telegram File Upload*
 * [Thimble](https://www.thimbleapp.co/) - *Group Messaging*
 * [FluffyChat](https://fluffychat.im/en/) - *Matrix Client*
@@ -257,6 +259,7 @@
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - *Read Exported Whatsapp Chats*
 * [Watomatic](https://watomatic.app/) / [Git](https://github.com/adeekshith/watomatic) or [AutoResponder](https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDEhkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDGAA=:S:ANO1ljKlL8g&gsr=CjuKAzgKGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMSGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMYAA==:S:ANO1ljLE-Ks) - *Chat App Auto-Responders*
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - *Article / Link Viewer*
+* [PDF Maker](https://play.google.com/store/apps/details?id=opofficial.pdfmaker) - *PDF Creator*
 * [Fasthub-Libre](https://github.com/thermatk/FastHub-Libre) - *Github Client*
 * [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - *Track Github User Activity*
 * [BlueClover](https://github.com/nnuudev/BlueClover) - *4Chan Browser*
@@ -446,6 +449,7 @@
 * [King Games](https://ludokinggame.com/) - *Modded*
 * [ApkMagic](https://apkmagic.com.ar/) - *Modded* 
 * [TheTechNisk](https://thetechnisk.in/) - *Modded*
+* [Appdroid](https://appdroid.io/) - *Modded*
 * [ApKGod](https://apkgod.net/) - *Modded* 
 * [p30afzar](https://dl.p30afzar.com/Games/) - *Modded Games*
 * [AppValley](https://app.app-valley.vip/) - *Modded / Tweaked*
@@ -966,6 +970,7 @@ RSS Player*
 * [AppHeaven](https://www.appheaven.vip/) - *App / Tweak Repository* 
 * [iOSGods](https://iosgods.com/) - *App Tweaks / Hacks / Mods*
 * [iPA Host](https://github.com/ipahost) - *App Tweaks / Social Media’s*
+* [Appdroid](https://appdroid.io/) - *Hacked Apps / Tweaks*
 * [EonHub](https://app.eonhubapp.com/) - *Hacked Apps / Tweaks* 
 * [Scarlet](https://usescarlet.com/) - *Hacked apps / Tweaks*
 * [tweakboxapp](https://next.tweakboxapp.com/) or [tweakboxapp (sideloaded)](https://sideload.tweakboxapp.com/) - *App Tweaks*
