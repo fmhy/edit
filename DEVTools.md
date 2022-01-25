@@ -13,7 +13,7 @@
 
 * **[The Odin Project](https://www.theodinproject.com/)** - *Web Dev Tutorials / Courses*
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Courses / Infinite trial by clearing cookies & making new account*
-* **[freeCodeCamp](https://www.freecodecamp.org/)** - *Programming / Courses / Interactive [Archive](https://drive.google.com/drive/folders/1M_GDMaRwFDB_UG0y-WQdNqTxLxchlzgl?usp=sharing)*
+* **[freeCodeCamp](https://www.freecodecamp.org/)** - *Programming / Courses / Interactive [Archive](https://drive.google.com/drive/folders/1M_GDMaRwFDB_UG0y-WQdNqTxLxchlzgl?usp=sharing) / [GitHub](https://github.com/freeCodeCamp/freeCodeCamp)*
 * **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - *Read / Download Programming Books* 
 * [Uncensorable Publishing](https://uncensorablepublishing.com/) or [How-to Host Questionable Websites](https://weboas.is/media/host.png) / [PDF](https://weboas.is/media/host.pdf) - *How-to Create Uncensorable Sites*
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - *Git Learning Game*
@@ -297,6 +297,7 @@
 * [Templatemo](https://www.templatemo.com/) or [Tooplate](https://www.tooplate.com/) - *HTML Site Templates*
 * [HTML5 Temp](https://rentry.co/HTML5Temp) - *HTML5 Templates & Themes*
 * [CSS Bed](https://www.cssbed.com/), [free-css-templates](https://www.free-css.com/free-css-templates) or [TenplateMo](https://templatemo.com/) - *CSS Themes / Templates*
+* [Hydrogen](https://github.com/Shopify/hydrogen) - *Custom Storefront Template*
 * [Typewolf](https://www.typewolf.com/) - *Trending Website Fonts*
 * [Pattern Monster](https://pattern.monster/) - *SVG Pattern Generator*
 * [Broider](https://maxbittker.github.io/broider/) - *Create Border Designs*
@@ -787,7 +788,7 @@
 * [bloop](https://bloop.ai/) - *IDE AI Suggestion Extension*
 * [glot.io](https://glot.io/) - *Pastebin with Runnable Snippets, API & Compiler* 
 * [Mystb.in](https://mystb.in/) - *Code Pastebin*
-* [myCompiler](https://www.mycompiler.io/), [IDE One](https://www.ideone.com/) or [Wandbox](https://wandbox.org/) - *Online Compiler* 
+* [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [IDE One](https://www.ideone.com/) or [Wandbox](https://wandbox.org/) - *Online Compiler* 
 * [Notebooks.azure](https://notebooks.azure.com/) - *Access Jupyter notebooks* 
 * [CoCalc](https://cocalc.com/) - *Virtual online workspace*
 * [CodePen](https://codepen.io/), [Web Maker](https://webmaker.app/ ) or [Liveweave](https://liveweave.com/) - *Code Sandbox* 
