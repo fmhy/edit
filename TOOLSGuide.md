@@ -277,6 +277,7 @@
 * [LiveMonitor](https://github.com/lovezzzxxx/livemonitor) - *Live Stream Detection*
 * [real-url](https://github.com/wbt5/real-url) - *Copy Live Stream URLs*
 * [WDFlat](https://www.wdflat.com/) - *Stream Elements*
+* [Streamon](https://getstreamon.com/) - *Stream to Instagram from PC / [GitHub](https://github.com/haxzie/instagram-live-streamer)*
 * [VTuber References](https://docs.google.com/spreadsheets/d/15UpI8GEqv22T45AD3L1EgcPB4l2Tvr64aDgLq7xZfMA/htmlview) - *VTuber Tools*
 * [Kalidoface 3D](https://3d.kalidoface.com/) or [Gazo Tuber](https://ai-risun.itch.io/gazo-tuber) - *VTuber Characters*
 * [avatarify-python](https://github.com/alievk/avatarify-python) or [veadotube](https://olmewe.itch.io/veadotube-mini) - *Video Call Avatars*
@@ -529,6 +530,7 @@
 * [LoopCV](https://www.loopcv.pro/) - *Automated Job Search Tool*
 * [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) - *Successful Resume Samples*
 * [CoFolios](https://cofolios.com/) - *Portfolio Sharing*
+* [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - *Cover Page Templates*
 * [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) or [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) - *Common Interview Questions & Answers*
 * [LeetFree](https://sksusha8853.github.io/leetcode/index.html) - *Leaked Google, Facebook & Amazon Interview Questions*
 * [JustLanded](https://www.justlanded.com/) - *Working & Living Abroad Guides*
@@ -1593,6 +1595,7 @@ General Reading Sites*
 * [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - *Hide Volume Bar*
 * [SuperF4](https://stefansundin.github.io/superf4/) - *Kill programs instantly with Ctrl+Alt+F4*
 * [How-To Crack Windows Passwords](https://samsclass.info/123/proj14/123p12winhash.htm) 
+* [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - *Change Java Version*
 * [Depix](https://github.com/beurtschipper/Depix) - *Recover Passwords from Pixelized Screenshots* 
 * [BIOS-PW](https://bios-pw.org/) - *BIOS Password Recovery for Laptops*
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - *Terminal Frameworks, Plugins & Resources* 
@@ -1633,6 +1636,7 @@ General Reading Sites*
 * [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - *Windows 11 Powertoys*
 * [ElevenClock](https://github.com/martinet101/ElevenClock) - *Windows 11 Secondary Monitor Clock*
 * [Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - *Windows 11 Drag & Drop Fix*
+* [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) - *Modify Windows 11 Taskbar*
 * [Boot Failure Troubleshooting Chart](https://i.imgur.com/QsxYtB4.jpg) - *Boot Failure Troubleshooting Guide*
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) - *Operating System / Software History / [Discord](https://discord.gg/XPz5Zm42tR)*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
