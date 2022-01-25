@@ -37,7 +37,8 @@
 * [Compare Sizes](https://comparesizes.com/) - *Size Comparison Tool* 
 * [hikaku-sitatter](https://hikaku-sitatter.com/en/) - *Height Comparison Tool*
 * [Paper Sizes](https://papersizes.io/) - *Common Paper Sizes*
-* [Qlock](http://www.qlock.com/), [TimeAndDate](https://www.timeanddate.com/) or [EveryTime Zone](https://everytimezone.com/) - *World Clock*
+* [Qlock](http://www.qlock.com/), [TheClockApp](https://theclockapp.vercel.app/), [TimeAndDate](https://www.timeanddate.com/) or [EveryTime Zone](https://everytimezone.com/) - *World Clock*
+* [FlipClockWeb](https://flipclockweb.netlify.app/) - *Fullscreen Clock*
 * [Epoch Converter](https://www.epochconverter.com/) - *Epoch & Unix Timestamp Conversion Tools* 
 * [How Many Days Since](http://howmanydayssince.net/) or [How Many Days Until](https://howmanydaysuntil.co/) - *Calculate Days Since a Date*
 * [e.gg Timer](https://e.ggtimer.com/) - *Timer*
@@ -62,7 +63,7 @@
 * [The Sustainabilitist](https://sustainabilitist.com/) - *Sustainability Resource Hub*
 * [ActivityWatch](https://activitywatch.net/) - *Automatically Track Device Activity / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)* 
 * [Cold Turkey](https://getcoldturkey.com/), [PomoFocus](https://pomofocus.io/) or [Take a Five](http://www.takeafive.com/) - *Site Blocker / Productivity Booster* 
-* [Tempus](https://tempus.keziahmoselle.fr/), [ManicTime](https://www.manictime.com/), [Clockify](https://clockify.me/) or [Super-Productivity](https://github.com/johannesjo/super-productivity)  - *Productivity Tracker / Time Managment*
+* [Tempus](https://tempus.keziahmoselle.fr/), [ManicTime](https://www.manictime.com/), [Clockify](https://clockify.me/), [Pro Modoro](https://pro-modoro.xyz/) or [Super-Productivity](https://github.com/johannesjo/super-productivity)  - *Productivity Managers*
 * [DogSheep](https://dogsheep.github.io/) - *Personal Analytics Tools* 
 * [Stretchly](https://hovancik.net/stretchly), [WorkRave](https://workrave.org/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - *Break Reminders*
 * [DoINeedAJacket](https://doineedajacket.com/weather/), [DogeWeather](http://dogeweather.com/), [ForcastAdvisor](https://www.forecastadvisor.com/) or [wttr](https://wttr.in/) - *Simple Weather Reports*
@@ -97,7 +98,7 @@
 * [Sweet Home 3D](http://www.sweethome3d.com/) - *Interior Design App*
 * [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Carnac](http://code52.org/carnac/), [Presen](https://presen-vid.com/ ), [mentimeter](https://www.mentimeter.com/), [beautiful.ai](https://www.beautiful.ai/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Deckdeckgo](https://deckdeckgo.com/), [Webslides](https://webslides.tv/), [Desk](https://www.animaker.com/deck) or [Slides](https://slides.com/) - *Presentation Tool*
 * [Slides](http://maaslalani.com/slides/) - *Terminal Presentation Tool / [GitHub](https://github.com/maaslalani/slides)*
-* [SlidesGo](https://slidesgo.com/), [SlideShareDownloader](https://slidesharedownloader.ngelmat.net/), [PresentationGO](https://www.presentationgo.com/), [ensa.io](https://ensa.io/) or [ThePOPP](https://thepopp.com/) - *Presentation Templates* 
+* [SlidesGo](https://slidesgo.com/), [Showeet ](https://www.showeet.com/), [SlideShareDownloader](https://slidesharedownloader.ngelmat.net/), [PresentationGO](https://www.presentationgo.com/), [ensa.io](https://ensa.io/) or [ThePOPP](https://thepopp.com/) - *Presentation Templates* 
 * [TemplateMaker](https://www.templatemaker.nl/) - *Package & Box Templates*
 * [WebQR](https://www.webqr.com/) - *QR Code Scanner*
 * [QR Tiger](https://www.qrcode-tiger.com/), [QRCodeMonkey](https://www.qrcode-monkey.com/), [Logaster](https://www.logaster.com/qr-code-generator/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - *QR Code Generator* 
@@ -125,6 +126,7 @@
 * [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - *Calendar & Scheduling Tools*
 * [Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - *Note Taking & To-do Apps*
 * [ChecklistGenerator](https://checklistgenerator.co/) - *Checklist Generator*
+* [Wonder](https://wonder-bot.com/) - *Remember Things Easily*
 * [Scrapbox](https://scrapbox.io/) - *Write & link Notes, Docs & Pages*
 * [Manuskript](https://www.theologeek.ch/manuskript/) - *Writing Organizer & Planner*
 * [WorkFlowy](https://workflowy.com/) - *Work Organizer*
@@ -253,6 +255,7 @@
 * [DMVideo](https://dmvideo.download/) - *DailyMotion Video Downloader* 
 * [VLive Downloads](https://home.soshistagram.com/naver_v/) - *VLive Video Downloader*
 * [GetFVid](https://www.getfvid.com/) or [Facebook DL](https://github.com/sdushantha/facebook-dl) - *Facebook Video Downloader* 
+* [kmttg](https://www.videohelp.com/software/kmttg) - *TivoToGo Download Manager*
 * [TikTok Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tiktok_video_downloaders) - *Download TikTok Videos*
 * [myfaveTT](https://myfavett.com/) - *Download Your Liked TikTok Videos*
 * [TikUp](https://github.com/Coloradohusky/TikUp) - *TikTok Auto Download / Upload*
@@ -550,6 +553,7 @@
 * [Doozy](https://doozy.live/), [Miro](https://miro.com/) , [Slab](https://slab.com/) or [TipiCalls](https://tipicalls.com/) - *Collaboration Platform*
 * [PHPCRM](https://www.phpcrm.com/) - *Company Management Software*
 * [SplitBee](https://splitbee.io/) - *Business Analytics Tool*
+* [Invoicely](https://invoiceto.me/) - *Invoice Generator*
 * [Visuafy](https://visuafy.com/) - *Create Charts From Data*
 * [Kimai](https://www.kimai.org/) - *Working Hours Tracker*
 * [Zeoob](https://zeoob.com/) - *Social Media Digital Marketing Post Simulator*
@@ -622,6 +626,7 @@
 * [Got Your Back](https://github.com/jay0lee/got-your-back) - *Backup Gmail Messages* 
 * [Login Reminder Remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - *Remove Login Popup from Sites*
 * [BugMeNot](http://bugmenot.com/), [Parolja](http://en.parolja.net/), [FreeAccount](https://freeaccount.biz/) or [Password Login](http://password-login.com/) - *Access & Share Throwaway Accounts* 
+* [Eiverr](https://www.eiverr.com/) - *Premium Account Cookies*
 * [Voice Dictation](https://dictation.io/) - *Type with Voice* 
 * [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - *Manage / Store Bookmarks*
 * [SeeLink](https://www.seelink.app/) or [Axomark](https://www.axomark.xyz/) - *Collaborative Bookmarking*
@@ -654,7 +659,7 @@
 * [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) or [List of Matrix Servers](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html) - *Matrix Server List*
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - *Export Skype Chat Data to Readable Text*
-* [Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [TinyChat](https://tinychat.com/), [Noysi Meet](https://meet.noysi.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat* 
+* [Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [Whereby](https://whereby.com/), [Videolink2me](https://videolink2me.com/), [TinyChat](https://tinychat.com/), [Noysi Meet](https://meet.noysi.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat*
 * [Zoom Escaper](https://zoomescaper.com/) - *Self-Sabotage Video Calls to Escape Meetings*
 * [Live Curtain](https://livecurtain.com/) - *Countdown Curtain For Online Meeting*
 * [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Nertivia Chat](https://nertivia.net/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
@@ -1054,6 +1059,7 @@ General Reading Sites*
 * [MonitoRSS](https://monitorss.xyz/) - *RSS Discord Bot*
 * [Discord Music Bot](https://github.com/SudhanPlayz/Discord-MusicBot), [discord-music-bot](https://github.com/Androz2091/discord-music-bot), [Music-bot](https://github.com/ZerioDev/Music-bot), [MusicBot](https://github.com/jagrosh/MusicBot), [evobot](https://github.com/eritislami/evobot) or [EarTensifier](https://github.com/Tetracyl/EarTensifier) - *Music Bots*
 * [Discord-Music-System](https://github.com/RemyK888/discord-music-system) - *Discord Music Module*
+* [FreeStuff Bot](https://freestuffbot.xyz/) - *Free Games Alert Bot / [GitHub](https://github.com/FreeStuffBot/discord)*
 * [DiscordChroma](https://github.com/DELUUXE/DiscordChroma) or [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - *Discord System Lighting Control*
 * [Permissions Calculator](https://discordapi.com/permissions.html) - *Generate Discord OAuth Invites*
 * [CloneCord](https://github.com/Rekulous/CloneCord-bot) - *GClone Cloud Storage File Manager in Discord*
@@ -1379,7 +1385,7 @@ General Reading Sites*
 * [PCPartPicker](https://pcpartpicker.com/), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), [/r/buildapc](https://reddit.com/r/buildapc) or [NZXTBld](https://www.letsbld.com/) - *PC Building Sites / [Discord](https://discord.gg/buildapc)*
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - *PC Building Community*
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC)  - *PC Suggestion Community / [Discord](https://discord.gg/TmNgXbwrqJ)*
-* [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop) or [Noteb](https://noteb.com/) - *Laptop Suggestions / [Discord](https://discord.gg/pes68JM)*
+* [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - *Laptop Suggestions / [Discord](https://discord.gg/pes68JM)*
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - *GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)*
 * [r/TechSupport](https://www.reddit.com/r/techsupport/), [Windows 10 Forums](https://www.windowsphoneinfo.com/), [MSFN](https://msfn.org/board/) or [Notebook Reviews](http://forum.notebookreview.com/) - *Tech Support / [Discord](https://discord.gg/2EDwzWa) / [Wiki](https://rtech.support/books/)* 
 * [GetHuman](http://gethuman.com/) or [ContactFound](https://contactfound.com/) - *Tech Support Numbers*
@@ -1509,7 +1515,7 @@ General Reading Sites*
 * [The Fastest Mouse Clicker for Windows](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows), [Alpha Clicker](https://github.com/robiot/AlphaClicker) or [AutoClicker Bookmarklet](https://autoclicker.glitch.me/) - *Mouse Auto Clicker*
 * [StrokeIt](https://www.tcbmi.com/strokeit/) or [StrokesPlus](https://www.strokesplus.net/) - *Mouse Gestures*
 * [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Context Menu Shell](https://nilesoft.org/) - *Improved Context Menu*
-* [OpenWith++](https://github.com/stax76/OpenWithPlusPlus) - *Custom Context Menu Commands*
+* [OpenWith++](https://github.com/stax76/OpenWithPlusPlus) or [Custom Context Menu](https://www.microsoft.com/store/productId/9PC7BZZ28G0X) - *Customize Context Menu*
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - *Re-Map Mouse Buttons & Scroll Wheel*
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [TweakUtility](https://github.com/Craftplacer/TweakUtility), [MagicX Toolbox](https://github.com/Ahsan40/MagicX-Toolbox), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - *Windows Tweaks*
 * [Revertservice](http://revertservice.com/) - *Default configurations of Windows services*
@@ -1623,8 +1629,7 @@ General Reading Sites*
 * [Bypass Win11 Requirements](https://github.com/osx86-ijb/bypass-windows11-requirements) - *How-To Bypass Windows 11 System Requirements*
 * [Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) - *Windows 11 System Requirements Bypasser*
 * [Win11DevBypass](https://github.com/rushiranpise/win11devbypass) - *Bypass Win 11 Dev Channel Restrictions*
-* [Win11.vercel](https://win11.vercel.app/) - *Windows 11 Browser Simulator*
-* [Rajaniraiyn](https://rajaniraiyn.github.io/windows11/) - *Windows 11 Browser Simulator*
+* [Win11.vercel](https://win11.vercel.app/), [Rajaniraiyn](https://rajaniraiyn.github.io/windows11/) or [Win11 in React](https://win11.blueedge.me/)/ [GitHub](https://github.com/blueedgetechno/win11React) - *Online Windows 11 Simulator*
 * [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - *Windows 11 Powertoys*
 * [ElevenClock](https://github.com/martinet101/ElevenClock) - *Windows 11 Secondary Monitor Clock*
 * [Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - *Windows 11 Drag & Drop Fix*
@@ -1747,6 +1752,7 @@ General Reading Sites*
 * [PDF Mergy](https://pdfmerge.w69b.com/) - *Merge PDF Files*
 * [Adobe Word Converter](https://www.adobe.com/acrobat/online/word-to-pdf.html) - *Word to PDF Converter*
 * [VancedPDF](https://vancepdf.com/) or [PDFtoWordConverter](https://www.pdftowordconverter.org/) - *PDF to Word Converter*
+* [Scanned PDF to Doc](https://www.scannedpdftoword.com/) - *Scanned PDF to Doc Converter*
 * [Adobe Excel to PDF](https://www.adobe.com/acrobat/online/excel-to-pdf.html) - *Convert Excel Files to PDF*
 * [JPG-to-PDF](https://github.com/praneetk2704/JPG-to-PDF) [Images to PDF](https://github.com/Swati4star/Images-to-PDF), [JPG2PDFBot](https://t.me/JPG2PDFBot), [Adobe Converter](https://www.adobe.com/acrobat/online/jpg-to-pdf.html) or [img2pdf](https://pypi.org/project/img2pdf/) - *Image to PDF Converter*
 * [PDFmyURL](https://pdfmyurl.com/) - *Convert Web Page to PDF* 
