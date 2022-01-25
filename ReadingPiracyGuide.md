@@ -154,6 +154,7 @@
 * [GrayCity](https://graycity.net/) - *Books*
 * [CentslessBooks](https://centslessbooks.com/) - *Books* 
 * [SNEWD](https://snewd.com/) - *Books* 
+* [Appdroid](https://appdroid.io/c/ebook/) - *Books*
 * [doma.crazycz](http://doma.crazycz.net/ebooks/) - *Books*
 * [Luminist](http://www.luminist.org/archives/) - *Books* 
 * [British Library](https://www.bl.uk/) - *Books*
@@ -170,7 +171,7 @@
 * [BookSearch](https://ravebooksearch.com/) - *Ebook Search Engine*
 * [Ebooks Searcher](https://ebook-searcher.com/) or  - *Multi-Site Book Search* 
 * [FreeBooksSifter](https://www.freebooksifter.com/) - *Free Amazon E-Book* 
-* [HundredZeros](http://hundredzeros.com/) - *Free Kindle Books* 
+* [HundredZeros](http://hundredzeros.com/) or [FreeReadFeed](https://www.freereadfeed.com/) - *Free Kindle Books* 
 * [Wikibooks](https://www.wikibooks.org/) - *Wikimedia community*
 * [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - *ZeroNet Required*
 * [Avxhm](https://avxhm.se/), [2](https://avxhm.is/) - *[Leech Required](https://leechall.com/) / [Mirrors](https://www.avaxhome.online/)*
