@@ -434,7 +434,7 @@
 * [StudySpanish](https://studyspanish.com/) - *Spanish Learning Tutorials*
 * [The French Tutorial](http://www.frenchtutorial.com/) - *French Learning Tutorials*
 * [AnimeLon](https://animelon.com/) - *Streaming / Anime / Learn Japanese*
-* [Nihongo](https://nihongo-e-na.com/eng/) - *Japanese Learning Resources*
+* [Nihongo](https://nihongo-e-na.com/eng/), [Itzazureneko](https://itazuraneko.neocities.org/learn/guide.html) - *Japanese Learning Resources*
 * [Marshall's Site](https://marshallyin.com/) or [Tofugu](https://www.tofugu.com/) - *Learn Japanese* 
 * [Minato](https://minato-jf.jp/) - *Japanese Courses*
 * [Memento](https://github.com/ripose-jp/Memento) - *Japanese Learning Video Player*
