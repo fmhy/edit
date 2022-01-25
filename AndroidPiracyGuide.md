@@ -215,7 +215,7 @@
 * [Show Youtube Dislikes](https://github.com/jesperbakhandskemager/view-youtube-dislike) - *Return Youtube Dislikes*
 * [DankChat](https://github.com/flex3r/DankChat) - *Talk in Multiple Twitch Chats at Once*
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - *Reddit Video Downloader*
-* [Boost](https://forum.mobilism.org/search.php?keywords=boost+for+reddit&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [Joey](https://forum.mobilism.org/search.php?keywords=joey+for+reddit&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [BaconReader](https://baconreader.com/) or [Relay](https://relayforreddit.com/index.html) - *Reddit Client*
+* [Boost](https://forum.mobilism.org/search.php?keywords=boost+for+reddit&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [Joey](https://forum.mobilism.org/search.php?keywords=joey+for+reddit&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [Dawn](https://github.com/Tunous/Dawn), [BaconReader](https://baconreader.com/) or [Relay](https://relayforreddit.com/index.html) - *Reddit Client*
 * [reveddit](https://play.google.com/store/apps/details?id=com.agreenbhm.reveddit) - *View Deleted Reddit Posts*
 * [Lemmur](https://github.com/krawieck/lemmur) - *Lemmy Client*
 * [Uploadgram App](https://github.com/pato05/uploadgram-app) - *Uploadgram Frontend*
@@ -224,6 +224,7 @@
 * [Frost](https://f-droid.org/en/packages/com.pitchedapps.frost/) or [SlimFacebook](https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook/) - *Facebook Webwrapper*
 * [SlimTwitter](https://f-droid.org/en/packages/it.rignanese.leo.slimtwitter/) - *Twitter Webwrapper*
 * [Shitter](https://github.com/nuclearfog/Shitter) or [Harpy](https://play.google.com/store/apps/details?id=com.robertodoering.harpy.free) - *Twitter Client*
+* [Twiger](https://twiger.launchaco.com/) - *Share Any Tweet on Instagram*
 * [Google Lens](https://lens.google/) - *Multiple Camera Tools*
 * [Gallery](https://www.simplemobiletools.com/gallery) - *Photo Gallery*
 * [PhotoRoom](https://www.photoroom.com/) - *Background Remover*
@@ -231,6 +232,7 @@
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - *Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)*
 * [Colorize It](https://play.google.com/store/apps/details?id=com.reaimagine.colorizeit) - *Colorize Images*
 * [WOMBO Dream](https://www.wombo.art/) - *Dream Artwork Tool*
+* [Photo Lab](https://ilixa.com/8bitphotolab.php) - *Give Images a Retro Look 8Bit*
 * [starryai](https://play.google.com/store/apps/details?id=com.starryai) - *Generate Art from Text Prompt*
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - *Image Size Reducer*
 * [Upscaler](https://play.google.com/store/apps/details?id=com.ethanzone.upscaler&hl=en_US&gl=QA) - *Image Upscaler*
@@ -898,6 +900,7 @@ RSS Player*
 * [Instdown](https://apps.apple.com/ca/app/instdown-video/id1452076756) - *Download Videos from Social Media* 
 * [Rhino](https://lemamichael.github.io/WhatIsRhino/) - *Tweaked Instagram Client*
 * [Twitter++](https://iosninja.io/ipa-library/download-twitter-plus-plus-ipa-ios) - *Tweaked Twitter App*
+* [Twiger](https://twiger.launchaco.com/) - *Share Any Tweet on Instagram*
 * [TikTok God](https://github.com/haoict/tiktok-god) - *Tweaked TikTok App*
 * [FCC Speed Test](https://apps.apple.com/us/app/fcc-speed-test/id794322383) or [Iperf 3](https://apps.apple.com/us/app/iperf-3-wifi-speed-test/id1462260546) - *Internet Speed Test*
 * [Resurfer](https://apps.apple.com/us/app/resurfer/id1489340046), [Orion](https://apps.apple.com/us/app/orion-for-reddit/id1536533779), [Narwhal](https://apps.apple.com/us/app/narwhal-for-reddit/id845422455), [Reno](https://apps.apple.com/us/app/reno-for-reddit/id1489831590#?platform=iphone) or [BaconReader](https://baconreader.com/) - *Reddit Client*
@@ -940,6 +943,7 @@ RSS Player*
 * [FutureStore](https://github.com/tihmstar/futurerestore) - *SEC & Baseband Restoring Wrapper*
 * [Mildred](https://apps.apple.com/us/app/mildred/id1522800022) - *Docker Client*
 * [Dragon](https://github.com/DragonBuild/dragon) - *Darwin Buildsystem / Toolkit*
+* [Beta Profiles](https://betaprofiles.com/) - *Download Pre-Release Versions of iOS*
 
 ***
 
