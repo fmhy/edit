@@ -254,6 +254,7 @@
 * [Batocera.linux](https://batocera.org/) or [Lakka](https://lakka.tv/) - *Retro Gaming Distro*
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - *Rust TUI for Steam*
 * [steam-cli](https://github.com/berenm/steam-cli) - *CLI for Steam*
+* [SamRewritten](https://github.com/PaulCombal/SamRewritten) - *Steam Achievement Manager*
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher*
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - *GOG Client*
 * [NVBurner](https://github.com/iloveichigo/NVBurner) - *Overclocking Tool*
@@ -282,6 +283,7 @@
 * [DMHY](https://github.com/yaqinking/DMHY) - *Anime Torrent Autodownloader* 
 * [YTMusic](https://ytmusic.app/) - *YouTube Music Client*
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) - *Download MacOS*
+* [Beta Profiles](https://betaprofiles.com/) - *Download Pre-Release Versions MacOS*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - *MacOS Virtualbox Installer*
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - *Windows 11 Desktop Client for macOS*
@@ -384,7 +386,7 @@
 * **[FileCR](https://filecr.com/macos/)**
 * [Macintosh Garden](http://macintoshgarden.org/) 
 * [nMac](https://nmac.to/) 
-* [MacDrop](https://macdrop.net/) 
+* [Macked](https://macked.org/) 
 * [MacBed](https://www.macbed.com/) 
 * [AppDB](https://appdb.to/) 
 * [AppsTorrent](https://appstorrent.ru/) 
