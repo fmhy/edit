@@ -143,6 +143,7 @@
 * [Csze BT](https://bt.orzx.im/) - *Video / Audio / Software / Games / Books* 
 * [acgnx](https://www.acgnx.se/) - *Video / Audio / Software / Books / NSFW* 
 * [Share.dmhy](http://share.dmhy.org/) - *Anime / Manga / Games / Music* 
+* [VGMUpdate](http://www.vgmupdate.com/) - *Video / Games / Manga / NSFW*
 * [XiaZai001](https://www.xiazai001.com/) - *Video / Audio / Software*
 * [dytt8](https://dytt8.net/), [dy2018](https://dy2018.com/), [ygdy8](https://ygdy8.com/index.html) or [dydytt](https://www.dydytt.net) - *Movies / TV / Anime*
 * [88btbtt](https://www.88btbtt.com/) - *Movies / TV / Anime*
@@ -354,7 +355,9 @@ French / General Torrent Tracker
 * [byte.to](https://byte.to/) - *Video / Audio / Software / Android / Books / NSFW* 
 * [ngb](https://ngb.to/) - *Video / Software / Audio / Books / Android* 
 * [warez.to](https://warez.to/) - *Movies / TV / Games / Software / NSFW* 
-* [hd-source](https://hd-source.to/) - *Movies / TV / NSFW* 
+* [DirectLoad](https://directload.org/) - *Video / Games / Software / NSFW*
+* [HD Direct](http://hd-direct.net/) - *Video / Games / NSFW*
+* [hd-source](https://hd-source.to/) - *Video / NSFW* 
 * [MLCBoard](https://mlcboard.com/) - *Movies* 
 * [German Telegram Movie Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_german_telegram_movie_downloads) - *Movies* 
 * [Boerse](https://myboerse.bz/) - *Video / Audio / Software / Android / NSFW*
@@ -653,10 +656,20 @@ French / General Torrent Tracker
 
 ## ▷ Reading 
 
+* [itazuraneko](https://itazuraneko.neocities.org/library/librarymain.html) - *Manga / Novels / Video Novels / Audiobooks*
 * [senmanga](https://raw.senmanga.com/) - *Manga / Novels / NSFW*
 * [manga1000](https://manga1000.com/) or [manga1001](https://manga1001.com/) - *Manga / NSFW* 
 * [rawdevart](https://rawdevart.com/) - *Manga* 
 * [mangaraid](https://mangaraid.com/) - *Manga / NSFW* 
+* [MangaZip](https://manga-zip.info/), [2](https://manga-zip.biz/), [3](https://dlraw.net/) - *Manga*
+* [Raw-Zip](http://raw-zip.com/) - *Manga*
+* [DL Raw](https://dl-raw.net/) - *Manga*
+* [CMZip](https://cmczip.com/) - *Manga*
+* [MangaZone](http://www.manga-zone.org/) - *Manga*
+* [RawCans](http://raw-cans.net/) - *Manga*
+* [BSZip](https://bszip.com/) - *Manga*
+* [13DL](http://13dl.net/) - *Manga*
+* [DLZip](http://dl-zip.com/) - *Manga*
 * [MangaBox](https://www.mangabox.me/) - *Manga* 
 * [DLRaw](https://dlraw.net/) - *Manga*
 * [Comic Walker](https://comic-walker.com/) - *Manga*
@@ -703,6 +716,7 @@ French / General Torrent Tracker
 ## ▷ Torrenting
 
 * [TorrentHaja](https://torrenthaja.com/) - *Video / Audio / Games / Software / Books*
+* [Search.ibe](https://search.ibe.kr/) - *Torrent Search*
 
 ## ▷ Streaming
 
@@ -1331,6 +1345,7 @@ Portuguese
 * [readmanga](https://readmanga.live/) - *Manga* 
 * [manga-online.biz](https://manga-online.biz/) - *Manga*
 * [mangalib.me](https://mangalib.me/) - *Manga*
+* [TwirPX](https://www.twirpx.com/) - *Educational Books / Documents*
 * [mmnt](https://www.mmnt.ru/) - *Document Search* 
 * [Samlib ](http://samlib.ru/) - *Document Search* 
 * [militera](http://militera.org/) - *Military History* 
@@ -1545,6 +1560,10 @@ Portuguese
 
 * [uzmax.net](https://uzmax.net/) - *Movies / TV*
 * [AsilMedia.NET](http://asil-media.net/) - *Movies / TV / [Telegram](https://t.me/asilmedia_tarjima_kinolar)*
+
+## ▷ Reading
+
+* [FaylZona](https://t.me/megadokbot) - *Books / Documents / Slides*
 
 ***
 
