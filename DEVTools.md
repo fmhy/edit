@@ -48,6 +48,7 @@
 * [RoboMind](https://www.robomind.net/) - *Code Learning Game*
 * [Tuts 4 You](https://forum.tuts4you.com/) - *Coding / Developer Tutorials*
 * [PythonTutor](https://pythontutor.com/) - *Coding Tutorials*
+* [DefendTheWeb](https://defendtheweb.net/) - *Cyber Security Challenges*
 * [VSCodeCanDoThat](https://www.vscodecandothat.com/) - *VSCode Tutorial*
 * [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - *Programming Cheat Sheets*
 * [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) or [ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources) - *Programming / Coding Learning Resources*
@@ -72,6 +73,7 @@
 * [VIM Adventures](https://vim-adventures.com/) - *VIM Learning Game*
 * [Learn C](https://www.learn-c.org/) - *C Tutorial*
 * [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - *C++ Best Practices Guidelines / [Github](https://github.com/isocpp/CppCoreGuidelines)*
+* [Learn C++](https://www.learncpp.com/) - *Learn C++*
 * [HowIStart C++](https://howistart.org/posts/cpp/1/) - *C++ Setup Guide*
 * [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) - *C++ Algorithm Collection*
 * [Quick-R](https://www.statmethods.net/index.html) - *R Tutorials*
@@ -128,6 +130,7 @@
 * [MongoDB Beginners Guide](https://mega.nz/folder/F5QwxJQa#ruNhz08Cl599MChOBbQeGA) - *MongoDB Tutorials*
 * [LearnCSSGrid](http://learncssgrid.com/) - *CSS Grid Guide*
 * [FlexBoxFroggy](https://flexboxfroggy.com/) - *CSS Learning Game*
+* [CSS Speedrun](https://css-speedrun.netlify.app/) - *Test Your CSS Skills*
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
 * [Discord.js Guide](https://discordjs.guide/) - *Discord.js Bot Guide*
 * [vcokltfre](https://vcokltfre.dev/) - *Discord.py Bot Guide*
@@ -306,7 +309,9 @@
 * [Testimonial](https://testimonial.to/) - *Easily Add Video Testimonials to Sites*
 * [StreamYard](https://streamyard.com/) - *Live Stream Creator*
 * [Visiwig](https://www.visiwig.com/) - *Copy / Paste Site Graphics*
+* [Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation) - *Web Animation Index*
 * [WebDesigner](https://webdesigner.withgoogle.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/AriaMinaei/theatre), [Haiku](https://www.haikuanimator.com/), [Greensock](https://greensock.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [Mantra](https://jeremyckahn.github.io/mantra/) or [Animate.css](https://animate.style/) - *Create Interactive Motion Graphics*
+* [useAnimations](https://useanimations.com/index.html) - *Animated Icon Pack*
 * [NakerApp](https://app.naker.io/back/) - *Interactive Background Maker*
 * [Vidlery](http://vidlery.com/) - *Animated Webpage Background*
 * [Box-Shadow](https://box-shadow.art/) - *Box Shadow Generator*
@@ -339,6 +344,7 @@
 * [Democaptcha](http://democaptcha.com/demo-form-eng/hcaptcha.html) or [ReCAPTCHA Demo](https://www.google.com/recaptcha/api2/demo) / [GitHub](https://patrickhlauke.github.io/recaptcha/) - *Captcha Demo's*
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - *Search & Analytics Engine*
 * [Algolia](https://www.algolia.com/), [TypeSense](https://typesense.org/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/), [Sphinx](http://sphinxsearch.com/) or [FusionBot](https://www.fusionbot.com/) - *Search API*
+* [Discuzz](https://github.com/discuzz-app/discuzz) - *Open Source Comment System*
 * [GetButton](https://getbutton.io/) - *Get free 'Message Us' Button for your Site*
 * [cssbuttons](https://cssbuttons.io/) - *CSS Buttons*
 * [Tawk](https://www.tawk.to/) - *Website Chat & Ticketing System*
@@ -451,6 +457,7 @@
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - *Intentionally vulnerable Android application*
 * [PM2](https://pm2.keymetrics.io/) - *Process Manager*
 * [React95](https://react95.io/) - *Windows 95 React Components*
+* [useAnimations](https://useanimations.com/index.html) - *Animated Icon Pack*
 * [Redex](https://fbredex.com/) - *Android Bytecode Optimizer*
 * [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/) , [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/) or [LS Graphics](https://www.ls.graphics/) - *App & Site Mockups*
 * [UIGarage](https://uigarage.net/) or [LovelyUI](https://lovelyui.com/) - *Mobile UI Designs*
@@ -568,6 +575,7 @@
 * [Octobox](https://octobox.io/) - *GitHub Notifications Manager*
 * [github1s](https://github1s.com/) - *GitHub Code Viewer / GUI: do `gitk` in repo folder* 
 * [Tara](https://tara.ai/) - *Git Project Manager*
+* [Serctl](https://d.serctl.com/) - *Backup GitHub Projects*
 * [GitList](https://gitlist.org/) - *Elegant Git Repository Viewer / [GitHub](https://github.com/klaussilveira/gitlist)*
 * [Railway](https://railway.app/) - *Code Repository Manager*
 * [git](https://git-scm.com/) - *Version Control System*
