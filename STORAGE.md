@@ -885,7 +885,11 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Image Upscalers 
 
-[ESRGAN Models](https://icedrive.net/1/43GNBihZyi), [Upscale Model Database](https://upscale.wiki/wiki/Model_Database), [Waifu2x](https://github.com/nagadomi/waifu2x), [ESRGAN](https://github.com/JoeyBallentine/ESRGAN), [GigaPixel](https://filecr.com/?s=Topaz+Gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [Resizer](https://resizer.in/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [Img.Upscaler](https://pdf-ocr.com/), [Upscaler Stockphotos](https://upscaler.stockphotos.com/), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/), [image upscaler](https://image-upscaler.com/), [CupScale](https://github.com/n00mkrad/cupscale)
+[Waifu2x](https://github.com/nagadomi/waifu2x), [ESRGAN Models](https://icedrive.net/1/43GNBihZyi), [Upscale Model Database](https://upscale.wiki/wiki/Model_Database), [ESRGAN](https://github.com/JoeyBallentine/ESRGAN), [GigaPixel](https://filecr.com/?s=Topaz+Gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [Resizer](https://resizer.in/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [Img.Upscaler](https://pdf-ocr.com/), [Upscaler Stockphotos](https://upscaler.stockphotos.com/), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/), [image upscaler](https://image-upscaler.com/), [CupScale](https://github.com/n00mkrad/cupscale)
+
+**Waifu2x Tools**
+
+[Guide](https://i.imgur.com/55s8sU5.png) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/tanakamura/waifu2x-converter-cpp), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/), [5](https://waifu2x.me/), [6](http://waifu2x.udp.jp/), [7](https://waifu2x.org/), [8](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 
 ***
 
