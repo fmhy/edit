@@ -21,6 +21,7 @@
 * [Muffon](https://github.com/staniel359/muffon) - *Streaming*
 * [Deezer](https://www.deezer.com/) - *Streaming*
 * [MusicBucket](https://musicbucket.net/) - *Track / Share Music / Telegram* 
+* [Music Meal](https://musicmeal.io/) - *Browser Music Extension*
 * [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - *Unlock Unavailable Netease Music*
 
 ***
@@ -76,7 +77,7 @@
 * [KeyGenMusic](http://www.keygenmusic.net/) or [keygenmusic.tk](https://keygenmusic.tk/) - *Keygen Music* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - *East African Recordings* 
-* [Free Music Archive](https://www.freemusicarchive.org/), [freesoundtrackmusic](https://www.freesoundtrackmusic.com/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [audiomicro](https://www.audiomicro.com/), [StreamBeats](https://www.streambeats.com/), [ccHound](https://cchound.com/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
+* [Free Music Archive](https://www.freemusicarchive.org/), [freesoundtrackmusic](https://www.freesoundtrackmusic.com/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [StreamBeats](https://www.streambeats.com/), [ccHound](https://cchound.com/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
 * [Battle of the Bits](https://battleofthebits.org/) - *User-Made Music Competitions* 
 * [Openwhyd](https://openwhyd.org/) - *Music Sharing Community / [Chrome](https://chrome.google.com/webstore/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)*
 * [Bandcamp New Tab](https://chrome.google.com/webstore/detail/bandcamp-new-tab/nbabnnemlofbllcflfjpjgkgmcdbeemc) - *Random Bandcamp Songs on New Tabs*
@@ -381,9 +382,9 @@
 * **[Redacted](https://interviewfor.red/)** - *MP3 / FLAC*
 * **[Orpheus](https://orpheus.network/)** - *MP3 / FLAC / [Interviews](https://interview.orpheus.network/)*
 * **[Redtopia](https://git.fuwafuwa.moe/cairn/Redtopia)** - *Redtopia Repository / FLAC*
+* **[Solid Torrents](https://solidtorrents.net/)** - *MP3 / FLAC*
 * **[Lidarr](https://github.com/Lidarr/Lidarr)** - *Autodownload Music Torrents*
 * [Flactor](https://flactor.ru/) - *FLAC*
-* [Solid Torrents](https://solidtorrents.net/) - *MP3 / FLAC*
 * [Metal Tracker](https://en.metal-tracker.com/) - *Metal / MP3*
 * [RockBox](https://rawkbawx.rocks/) - *Metal / MP3*
 * [the /kpg/ torrent](https://kpg.neocities.org/) - *800gb+ K-Pop Torrent File*
@@ -419,6 +420,7 @@
 * [Obscurify](https://obscurifymusic.com/) - *Compare Music Taste to Others* 
 * [Chosic](https://www.chosic.com/) - *Song Discovery Tools*
 * [UnknownMusicBot](https://t.me/UnknownMusicBot) - *Play a Random Rare Song from YouTube* 
+* [Random Album Bookmark Script](https://pastebin.com/rR4qrvnX) - *Find Random Albums*
 * [Music-Map](https://www.music-map.com/) or [Musicroamer](https://www.musicroamer.com/) - *Similar Artist Discovery* 
 * [BoilTheFrog](http://boilthefrog.playlistmachinery.com/) - *Create Playlists From 2 Artists* 
 * [WeirdSpot](https://www.weirdspot.fyi/) - *Generate Playlists from Sentences*
