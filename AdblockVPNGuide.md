@@ -99,7 +99,7 @@
 * **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)** - *Scan URL's*
 * [VToncolab](https://rentry.org/vtoncolab) - *How-to Scan Files with Google Colab*
 * MSRT - [x64](https://www.microsoft.com/en-us/download/details.aspx?id=9905) / [x86](https://www.microsoft.com/en-us/download/details.aspx?id=16) - *Malicious Software Removal Tool*
-* [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html), [Tinywall](https://tinywall.pados.hu/) or [GlassWire](https://www.glasswire.com/) - *Firewall / Network Monitor* 
+* [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html), [PeerBlock](https://www.peerblock.com/), [Tinywall](https://tinywall.pados.hu/) or [GlassWire](https://www.glasswire.com/) - *Firewall / Network Monitor* 
 * [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/) or [Safing](https://safing.io/portmaster/) - *Network Monitor*
 * [Waircut](https://sourceforge.net/projects/waircut/) - *WPS Network Monitor*
 * [Hard_Configurator](https://hard-configurator.com/) - *Software Restriction Policy Management GUI* 
@@ -476,6 +476,7 @@
 * [Tailscale](https://tailscale.com/) - *[Pricing](https://i.imgur.com/6lMwcSQ.png) / [Discord](https://discord.com/invite/n3vtSwc)*
 * [TorGuard](https://torguard.net/) - *[Pricing](https://i.imgur.com/O2t4z0C.png)*
 * [WeVPN](https://wevpn.com/) - *[Pricing](https://i.imgur.com/a6XWraf.png)*
+* [CyberGhost](https://www.cyberghostvpn.com/en_US/) - *[Pricing](https://i.imgur.com/EQ7vCoR.png)*
 * [PandaVPN](https://pandavpnpro.com/) - *[Pricing](https://i.imgur.com/nm2CVhX.png)*
 * [Hidemy.name](https://hidemy.name/en/) - *[Pricing](https://i.imgur.com/wE4WonU.png)*
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - *VPN Extension / 3GB Free / [Pricing](https://i.imgur.com/ZdDexDa.png)* 
@@ -517,6 +518,7 @@
 * [Tsunami](https://github.com/FogNetwork/Tsunami) 
 * [Shadowsocks](https://shadowsocks.org/en/index.html) - *[Free Servers](https://github.com/ruanfei/ShadowsocksRRShare)*
 * [Lantern](https://lantern.io/en_US/index.html) 
+* [FilterBypass](https://www.filterbypass.me/) 
 * [Privoxy](http://www.privoxy.org/) - *[Docker Build](https://github.com/binhex/arch-privoxyvpn)*
 * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - *Proxy Manager*
 * [FoxyProxy](https://getfoxyproxy.org/) or [Snowflake](https://snowflake.torproject.org/) - *Proxy browser extension*
