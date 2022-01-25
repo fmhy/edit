@@ -99,11 +99,12 @@
 # ► Image Generation
 
 * [Rough.js](https://roughjs.com/) - *Create Graphics that look Hand-Drawn*
-* [FontIcon](https://gauger.io/fonticon/)[PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [ICO Convert](https://www.icoconvert.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - *Icon Generators*
+* [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [ICO Convert](https://www.icoconvert.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - *Icon Generators*
 * [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/), [Free Logo Maker](https://freelogomaker.net/) or [ACME](https://acme.com/labelmaker/) - *Logo Creator* 
-* [ArtFlow](http://artflow.ai/), [Bitmoji](https://www.bitmoji.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/) or [Avataaars](https://getavataaars.com/) - *Face / Avatar Generator*
+* [ArtFlow](http://artflow.ai/), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/) or [Avataaars](https://getavataaars.com/) - *Face / Avatar Generator*
 * [Mirro-Ai](https://mirror-ai.com/) - *Get Stickers With Your Face*
 * [EmojiMix](https://tikolu.net/emojimix) - *Combine Emojis*
+* [Emojination](https://www.emojination.io/) - *Emoji Graphic Generator*
 * [imgsli](https://imgsli.com/) - *Before & After Slider Generator*
 * [DCGAN](http://mattya.github.io/chainer-DCGAN/) - *Anime Icon Generator* 
 * [99 Avatars](https://99avatars.com/) - *Create Doodle Avatar*
@@ -319,6 +320,7 @@
 * [FontAwesomePS](http://creativedo.co/FontAwesomePS) - *Photoshop Icon Manager*
 * [Photoshop Repeating Action Script](https://gist.github.com/ajazsiddiqui/72bbf376ad387e1f76bfad777f66d7a3) - *Automate Photoshop*
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - *Image Color Scatter Plot* 
+* [resdet](https://github.com/0x09/resdet) - *Detect if an Image is Upscaled*
 * [VisiPics](http://www.visipics.info/) - *Duplicate Photo Remover* 
 * [behind!](https://github.com/kubuzetto/behind) - *View Background Images*   
 * [Visual Center](https://javier.xyz/visual-center/) - *Find the Visual Center of an Image*
@@ -328,6 +330,7 @@
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - *Find Font from Image*
 * [Watermarkly](https://watermarkly.com/) or [Watermarkup](https://watermarkup.com/watermark.html) - *Image Watermarking*
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - *Scan & Digitize Documents / iOS*
+* [Swapper](https://icons8.com/swapper) - *Face Swapper*
 * [DeepSort](https://github.com/CorentinB/DeepSort/) - *Image Tagger* 
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) or [PhotoPrism](https://photoprism.app/) - *Automatically Organize & Tag Photos*
 * [Photo.net Tutorials](https://www.photo.net/learn/about/tutorials) - *Photography Tutorials*
