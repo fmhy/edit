@@ -303,6 +303,7 @@ French / General Torrent Tracker
 * [kinoger](https://kinoger.com/) - *Movies / TV / Anime*
 * [Streamay](https://www.streamay.to/) - *Movies / TV* 
 * [WiFlix](https://wiflix.site/) - *Movies / TV / Anime* 
+* [Cinematheque](https://www.cinematheque-bretagne.bzh/) - *Movies*
 * [voirseries](https://voirseries.io/) - *TV / Anime*
 * [OtakuFR](https://otakufr.co/) - *Anime* 
 * [JetAnime](https://www.jetanimes.co/), [2](https://wvw.jetanimes.com/) - *Anime* 
@@ -1273,7 +1274,7 @@ Portuguese
 * [NotAlone](https://www.notalone.tv/) - *Movies / TV*
 * [filmix](https://filmix.co/) - *Movies*
 * [kinokong](https://kinokong.org/) - *Movies / TV* 
-* [Zetflix](https://zetflix.pro/) - *Movies / TV*
+* [Zetflix](https://zetflix.pro/), [2](https://zetflix.to/) - *Movies / TV*
 * [RussianFilmHub](https://russianfilmhub.com/) - *Movies / TV*
 * [viho.live](https://viho.live/) - *Movies / TV / Anime* 
 * [EX-FS](https://ex-fs.net/ ) - *Movies / TV / Anime*
