@@ -182,6 +182,7 @@
 * [Pacstall](https://pacstall.dev/) - *AUR-Inspired Package Manager for Ubuntu*
 * [apt-fast](https://github.com/ilikenwf/apt-fast) - *APT Download Accelerator*
 * [MPR Packages](https://mpr.hunterwittenborn.com/)
+* [JenV](https://www.jenv.be/) - *Java Environment Manager / [GitHub](https://github.com/jenv/jenv)*
 * [pacwall](https://github.com/Kharacternyk/pacwall) - *Live Wallpaper that shows Dependency Graph & Status of Installed Packages* 
 * [picom](https://github.com/yshui/picom) - *X11 Compositor*
 * [Compix](https://github.com/xeome/compix) - *Xorg Compositor*
@@ -230,6 +231,7 @@
 * [apps.gnome](https://apps.gnome.org/en-GB/) - *GNOME Apps*
 * [AppImagePool](https://github.com/prateekmedia/appimagepool) - *Linux App Images*
 * [AppImages](https://www.appimagehub.com/) - *Linux App Images*
+* [Open Source Linux Programs](https://i.imgur.com/6pItvB5.png) 
 
 ***
 
@@ -338,6 +340,7 @@
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - *Image Editor* 
 * [ImageOptim](https://imageoptim.com/mac) - *Image Optimization*
 * [AnimeBox](https://www.animebox.es/) - *Booru Client*
+* [Hachidori](https://malupdaterosx.moe/hachidori/) - *Automatically Update MAL/Anilist/Kitsu Lists*
 * [Vim](https://github.com/macvim-dev/macvim) - *Code Editor*
 * [Magit!](https://magit.vc/) - *Git Text-Based UI*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
@@ -354,6 +357,7 @@
 * [Discord M1](https://github.com/yannhodiesne/Discord-M1) - *M1 Mac Discord App*
 * [equinux](https://equinux.github.io/) - *OS X Certificate Fix*
 * [Lilu](https://github.com/acidanthera/Lilu) - *Kext / Process Patcher*
+* [JenV](https://www.jenv.be/) - *Java Environment Manager / [GitHub](https://github.com/jenv/jenv)*
 * [TopNotch](https://topnotch.app/) - *Remove The Notch*
 * [Mac Address Video Archive](https://drive.google.com/drive/folders/1DfLL09ETAY3hQKDq30AlTwjo0MCL7H1u?usp=sharing) 
 
