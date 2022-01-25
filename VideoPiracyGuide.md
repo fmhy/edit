@@ -658,6 +658,7 @@
 * [MKVHouse](https://mkvhouse.co/) - *Movies / TV*
 * [TwitchDL](https://dl2.twitchdl.us/) - *Movies / TV / Anime*
 * [O2TVSeriesz](https://o2tvseriesz.com/) - *Movies / TV*
+* [HDWebMovies](https://hdwebmovies.org/) - *Movies / TV*
 * [7Moviesrulz](https://7movierulz.se/category/hollywood-movie-2021/) - *Movies*
 * [oKhatrimaza](https://www.okhatrimaza.vin/category/7/hollywood-english-movies/default/1.html) - *Movies*
 * [SD Movies Point](https://1sdmoviespoint.kim/category/hollywooddd/) - *Movies / TV*
@@ -931,6 +932,7 @@
 * [CouchMoney](https://couchmoney.tv/) - *Movie Recommendations for Trakt* 
 * [Cinetrii](https://cinetrii.com/) - *Discover Movies with Similar Themes* 
 * [DateNightMovies](https://datenightmovies.com/) - *Get Recommendations Based on 2 Movies* 
+* [Random Movies / Series Bookmark Script](https://pastebin.com/PDsm2SSC) - *Find Random Movies / Shows*
 * [imdb-compare-shows](https://daumann.github.io/imdb-compare-shows/) or [Series Rating Chart](https://www.neetcoder.com/app/) - *Compare TV Shows by Ratings*
 * [MRQE](https://www.mrqe.com/) - *Movie Review Search Engine*
 * [RatingsGraph](https://www.ratingraph.com/) - *Movie / TV Ratings Graphs*
@@ -1075,7 +1077,7 @@
 * **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass - *Use Streaming Sites in Ad Free Player w/ subs, Speed Control & More*
 * **[WhereYouWatch,](https://whereyouwatch.com/latest-reports/)** [Squawkr](https://forum.squawkr.io/) / [Discord](https://discord.gg/s4beM4K), [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates), [Torrent Alert](https://play.google.com/store/apps/details?id=com.torrentalert.app&hl=en&gl=US) or [/r/movieleaks](https://reddit.com/r/movieleaks) - *Movie Leak Notifications*
 * **[Video Quality & Types of Releases](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)** - *Video Quality / Release Type Guide / [Image Guide](https://i.imgur.com/kEOrKJT.png)*
-* **[Release Group Tier List](https://docs.google.com/spreadsheets/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/)**, [2](https://github.com/Cloudbox/Community/wiki/Quality-Release-Groups) - *Movie / TV Release Group Index*
+* **[Release Group List](https://github.com/Cloudbox/Community/wiki/Quality-Release-Groups)** - *Movie / TV Release Group Index*
 * **[/r/animepiracy Wiki](https://wiki.piracy.moe/)** - *Anime Piracy Guides / Tutorials*
 * [/r/SceneReleases](https://www.reddit.com/r/SceneReleases/) - *Untouched Scene Release Tracker*
 * [RunPee](https://runpee.com/) - *Best Movie Break Times*
