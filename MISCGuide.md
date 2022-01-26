@@ -795,11 +795,14 @@
 * [DarkSky](https://maps.darksky.net/), [satellite-map.gosur](https://satellite-map.gosur.com/), [MSN Weather Map](http://www.msn.com/en-us/weather/maps) or [Ventusky](https://www.ventusky.com/) - *Weather Maps*
 * [Windy](https://www.windy.com/) or [WebGL-Wind](https://mapbox.github.io/webgl-wind/demo/) - *Wind Map* 
 * [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - *Global Jetstream Forcast Map*
+* [Cyclocane](https://www.cyclocane.com/) - *Cyclone and Hurricane Tracking*
 * [Air Now](https://gispub.epa.gov/airnow/) or [Breezometer](https://www.breezometer.com/air-quality-map/) - *Air Quality Map*
 * [ClimateCharts](https://climatecharts.net/) - *Climate Map*
 * [Global Hyrdo Data](https://www.esri.com/arcgis-blog/products/product/water/global-hydro-data-its-here-here-here/) - *Global Hydro Data / Mapping*
 * [River Runner](https://river-runner.samlearner.com/) - *River Map*
 * [Gloric](https://www.hydrosheds.org/page/gloric) - *River Type Database / Mapping*
+* [Global Wetlands](https://www2.cifor.org/global-wetlands/) - *Wetlands Map*
+* [Mindat](https://www.mindat.org/countrylist.php) - *Mineral Deposits Map*
 * [Earth](https://earth.nullschool.net/) - *Global Map of Wind, Weather, Ocean & Pollution Conditions*
 * [SunCalc](https://www.suncalc.org/) or [MoonCalc](https://www.mooncalc.org/) - *Sun & Moon Position / Phase Calculators* 
 * [Wikimapia](http://wikimapia.org/) - *Online Editable Map*
@@ -812,7 +815,7 @@
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - *Globe of Ancient Earth*
 * [EuraAtlas](https://euratlas.com/),  [GeoGarage](http://rumsey.geogarage.com/index.html) or [Digital Collection Maps](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division) - *Historical Maps*
 * [Geacron](http://geacron.com/) - *World History Timeline Map*
-* [Ancestry Images](http://www.ancestryimages.com/) - *Historical Photo & Map Archive*
+* [Ancestry Images](http://www.ancestryimages.com/) or [Pastvu](https://pastvu.com/) - *Historical Photo & Map Archive*
 * [Gas Price Map](https://www.gasbuddy.com/gaspricemap) - *US Gas Price Map*
 * [Falling Fruit](https://fallingfruit.org/) - *Urban Harvesting Map*
 * [Infrapedia](https://www.infrapedia.com/) - *Network & Datacenter Map*
@@ -821,18 +824,23 @@
 * [4G LTE Coverage](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b) - *4G LTE Coverage Map*
 * [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - *Web Service Coverage Map*
 * [Broadband Map](https://broadbandmap.fcc.gov/) - *Fixed Broadband Deployment Map*
+* [Waqi.info](http://waqi.info/) - *Air Pollution Map*
 * [Light Pollution Map](https://lightpollutionmap.info/) - *Light Pollution Map*
 * [NightBlight](https://nightblight.cpre.org.uk/maps/) - *England Light Pollution Map*
 * [PowerOutage](https://poweroutage.us/) - *Power Outage Map*
 * [ElectricityMap](https://app.electricitymap.org/) - *Electricity CO₂ Emissions Map*
 * [City Generator](https://probabletrain.itch.io/city-generator) - *City Map Generator* 
 * [RSOE](http://hisz.rsoe.hu/) or [EDIS](https://rsoe-edis.org/) - *Emergency and Disaster Map* 
+* [NCEI](https://www.ncei.noaa.gov/maps/hazards/) - *Real Time Natural Hazard Map*
+* [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - *Real Time Fires Map*
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - *Volcano Activity Map*
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - *Earthquake Activity Map*
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - *Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)*
 * [LightningMaps](https://lightningmaps.org/) - *Lightning Maps*
 * [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](http://radarbox24.com/) or [FlightAware](http://flightaware.com/) - *Live Flight Tracker* 
 * [MarineTraffic](https://www.marinetraffic.com/) or [VesselFinder](http://vesselfinder.com/) - *Live Ship Tracker* 
+* [Fishing Watch](https://globalfishingwatch.org/map) - *Fishing Activity Map*
+* [Ocearch](https://www.ocearch.org/tracker/) - *Shark Tracker*
 * [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - *Max Speed Limits*
 * [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - *Left vs. Right Side Driving by Country*
 * [MetroOrbits](http://mic-ro.com/metro/index.html) - *Subway Maps & Data*
