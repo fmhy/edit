@@ -22,9 +22,11 @@
 * [BlackPhoenix James Durden](https://mega.nz/folder/AZAhjSaL#3wzdEx3nPgzzVdVEqVc8nA) - *Audiobooks / Drive*
 * [HotAudiobooks](https://hotaudiobooks.com) - *Listen Online* 
 * [Audiobooks For Soul](https://audiobookforsoul.net/) - *Listen Online*
-* [HDAudiobook](https://hdaudiobook.com/) - *Listen Online*
-* [BigAudiobooks](https://bigaudiobooks.net/) - *Listen Online*
+* [HDAudiobooks](https://hdaudiobooks.com/) - *Listen Online*
+* [BigAudiobooks](https://bigaudiobooks.com/) - *Listen Online*
 * [BookAudiobook](https://bookaudiobook.com/) - *Listen Online*
+HD Audio Books
+https://hdaudiobooks.com/
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - *Listen Online*
 * [Audiobooks Lab](https://audiobooklabs.com/) - *Listen Online*
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - *Listen Online / Select Playlists*
@@ -402,6 +404,7 @@
 * [FreeBookCentre](https://freebookcentre.net/)
 * [OAPEN](https://oapen.org/)
 * [vdoc.pub](https://vdoc.pub/)
+* [Lit GFax](https://lit.gfax.ch/)
 * [EDUBBookPDF](https://edubookpdf.com/)
 * [Readings](https://drive.google.com/drive/u/0/mobile/folders/0B5KDwL1Qi6zUWFlfbU8yTjU4WUE?usp=drive_open)
 * [StruggleBuddies 4.0](https://mega.nz/folder/A15gybjB#s_vaCKHVR35X704ot2g7LQ)
@@ -452,6 +455,7 @@
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://drive.google.com/drive/folders/0B1ySOrPxOWJmZGlNTkEtQnlEM3M) - *Books / Notes / Astronomy*
 * [phys](https://phys.org/) - *Latest / News / Article / Physics* 
 * [RealNotComplex](https://realnotcomplex.com/) - *Math / Books*
+* [Engineering Books PDF](https://engineeringbookspdf.com/) - *Engineering*
 * [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial) - *Reverse Engineering Course* 
 * [EasyEngineering](https://easyengineering.net/) - *Engineering*
 * [EngineeringBooksPDF](https://www.engineeringbookspdf.com/) - *Engineering*
