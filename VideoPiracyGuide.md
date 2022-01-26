@@ -21,7 +21,7 @@
 
 ## ▷ Dedicated Hosts
 
-* **[Movies4Discord](https://discord.gg/h3uM4zQ9QR)** - *Movies / TV / 1080p Only / [Website](https://movies4discord.xyz/)*
+* **[Movies4Discord](https://discord.gg/UJ9cS2kP3B)** - *Movies / TV / 1080p Only / [Website](https://movies4discord.xyz/)*
 * **[EE3](https://ee3.me/)** - *Movies / Invite Code: mpgh*
 * **[Ask4movies](https://ask4movie.io/)** - *Movies / TV / [Adblock Script](https://pastebin.com/N58Vbyhw)*
 * **[M4uFree](https://ww1.m4ufree.com)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)*
