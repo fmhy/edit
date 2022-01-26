@@ -157,7 +157,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Android Browsers
 
-**[Browsers Wiki](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers), [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Berry Browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser), [Ecoasia](https://play.google.com/store/apps/details?id=com.ecosia.android), [AlohaBrowser](https://alohabrowser.com/), [Naked Browser](https://play.google.com/store/apps/details?id=com.fevdev.nakedbrowser), [Via](https://play.google.com/store/apps/details?id=mark.via.gp), [Lynket](https://github.com/arunkumar9t2/lynket-browser), [Lightning](https://github.com/anthonycr/Lightning-Browser) 
+**[Browsers Wiki](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers), [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Berry Browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser), [Ecoasia](https://play.google.com/store/apps/details?id=com.ecosia.android), [AlohaBrowser](https://alohabrowser.com/), [Naked Browser](https://play.google.com/store/apps/details?id=com.fevdev.nakedbrowser), [Via](https://play.google.com/store/apps/details?id=mark.via.gp), [Lynket](https://github.com/arunkumar9t2/lynket-browser), [Lightning](https://github.com/anthonycr/Lightning-Browser), [Dot Browser](https://github.com/dothq/browser-android) 
 
 ***
 
@@ -1136,7 +1136,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Mind Mapping
 
-**[Logseq](https://logseq.com/)**, [MindMup](https://www.mindmup.com/), [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page), [Mindomo](https://www.mindomo.com/), [Yuque](https://www.yuque.com/), [MindMapp](https://mindmapp.cedoor.dev/app), [are.na](https://www.are.na/, [Domino](https://kool.tools/domino), [Coggle](https://coggle.it/) (Collaborative)
+**[Logseq](https://logseq.com/)**, [MindMup](https://www.mindmup.com/), [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page), [Mindomo](https://www.mindomo.com/), [Yuque](https://www.yuque.com/), [MindMapp](https://mindmapp.cedoor.dev/app), [are.na](https://www.are.na/, [Domino](https://kool.tools/domino), [GitMind](https://gitmind.com/), [Coggle](https://coggle.it/) (Collaborative)
 
 ***
 
@@ -1211,7 +1211,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Multi-System**
 
-**[Foobar2000](https://www.foobar2000.org/)**, [AIMP](http://www.aimp.ru/?do=lang&lng=en), [Roon](https://rutracker.org/forum/tracker.php?nm=roon), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/) / [Updates](https://getwacup.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [VOX](https://vox.rocks/windows-music-player), [Hysolid](https://www.hysolid.com/), [aidoru](https://github.com/ffwff/aidoru), [Melodie](https://feugy.github.io/melodie/), [Modular Player](https://www.deviantart.com/jaxoriginals/art/ModularPlayers-v1-3-886577256), [goMP](https://github.com/aditya-K2/goMP), [hyperchroma](https://hyperchroma.app/), [Music Player Daemon](https://www.musicpd.org/) (Server-Side), [NCurses](https://github.com/ncmpcpp/ncmpcpp), [XMPlay](https://www.un4seen.com/) (Chiptune-Friendly), [guayadeque](https://github.com/anonbeat/guayadeque), [musique](http://flavio.tordini.org/musique), [sonata](https://github.com/multani/sonata), [exaile](http://www.exaile.org/), [quodlibet](https://github.com/quodlibet/quodlibet/), [ario](http://ario-player.sourceforge.net/), [deadbeef](https://deadbeef.sourceforge.io/), [groovebasin](https://github.com/andrewrk/groovebasin), [destroyer](https://github.com/mashaal/destroyer), [Ampache](https://ampache.org/) / [GitHub](https://github.com/ampache/ampache)
+**[Foobar2000](https://www.foobar2000.org/)**, [AIMP](http://www.aimp.ru/?do=lang&lng=en), [Roon](https://rutracker.org/forum/tracker.php?nm=roon), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/) / [Updates](https://getwacup.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [VOX](https://vox.rocks/windows-music-player), [Hysolid](https://www.hysolid.com/), [aidoru](https://github.com/ffwff/aidoru), [Melodie](https://feugy.github.io/melodie/), [Modular Player](https://www.deviantart.com/jaxoriginals/art/ModularPlayers-v1-3-886577256), [goMP](https://github.com/aditya-K2/goMP), [hyperchroma](https://hyperchroma.app/), [Music Player Daemon](https://www.musicpd.org/) (Server-Side), [NCurses](https://github.com/ncmpcpp/ncmpcpp), [XMPlay](https://www.un4seen.com/) (Chiptune-Friendly), [guayadeque](https://github.com/anonbeat/guayadeque), [musique](http://flavio.tordini.org/musique), [sonata](https://github.com/multani/sonata), [exaile](http://www.exaile.org/), [quodlibet](https://github.com/quodlibet/quodlibet/), [ario](http://ario-player.sourceforge.net/), [deadbeef](https://deadbeef.sourceforge.io/), [groovebasin](https://github.com/andrewrk/groovebasin), [destroyer](https://github.com/mashaal/destroyer), [Ampache](https://ampache.org/) / [GitHub](https://github.com/ampache/ampache, [Harmanoid](https://github.com/harmonoid/harmonoid)
 
 **Foobar2000 Tools** 
 
@@ -1774,8 +1774,16 @@ Add the following commands to a search to manually scrape each site.
 * [CosandScores](http://waltercosand.com/CosandScores/)
 * [librescore](https://demo.librescore.org/) 
 * [torbybrand](https://torbybrand.com/sheet-music/)
+* [78.108.108.201](http://78.108.108.201/) 
+* [bateristaspt](https://www.bateristaspt.com/membros/drumscores/) 
+* [tchunes](https://www.daev.ca/tchunes/)
 * [Sheets Piano](https://sheets-piano.ru/) 
+* [partdav](http://partdav.free.fr/partitions/)
 * [PianoSheets](https://github.com/mstty/PianoSheets)
+* [rocm](http://www.rocm.org/scores/) 
+* [Piano Sheet Music Drive](https://drive.google.com/drive/folders/0BxkQJMTuId4dfkxiM01GYnFBUFdDVmRHMGREM1JKYVdBajJtV2pVSExrS2txT1BOdXlfMUE?resourcekey=0-4uwizkHnsGLakmC-cA173A)
+* [Anime Sheet Music Drive](https://drive.google.com/drive/folders/0B2k9HIXzBEfMVlgxTlhNWThzZkk?resourcekey=0-q0RdwD55Az5S3NigaliZEA)
+* [sniff](http://sniff.numachi.com/)
 * [FluteTunes](https://www.flutetunes.com/)
 * [cpdl](https://www.cpdl.org/wiki/index.php/Main_Page)
 * [Ichigos](https://ichigos.com/)
@@ -1823,7 +1831,7 @@ Add the following commands to a search to manually scrape each site.
 * https://www8.putlockers.fm/
 * https://www4.xmovies8.fm/
 * https://moviego.net/
-* https://wat32.com/
+* https://wat32.tv/
 * https://www.fast32.com/
 * https://www1.xmovies8.io/
 * https://fastzer.com/ 
@@ -1946,7 +1954,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Vectors** 
 
-[vectorportal](https://www.vectorportal.com/), [publicdomainvectors](https://publicdomainvectors.org/), [Free Vector Sites](https://onehack.us/t/get-download-free-vectors-45-sites-to-grab-vectors/96104), [vecteezy](https://www.vecteezy.com/), [freevectors](http://www.freevectors.org/), [123freevectors](https://www.123freevectors.com/), [freevector](https://www.freevector.com/), [vector](https://vector.me/), [freevectors](https://www.freevectors.net/), [free-vectors](https://free-vectors.com/), [365psd](https://365psd.com/)
+[vectorportal](https://www.vectorportal.com/), [publicdomainvectors](https://publicdomainvectors.org/), [Free Vector Sites](https://onehack.us/t/get-download-free-vectors-45-sites-to-grab-vectors/96104), [vecteezy](https://www.vecteezy.com/), [freevectors](http://www.freevectors.org/), [123freevectors](https://www.123freevectors.com/), [freevector](https://www.freevector.com/), [vector](https://vector.me/), [freevectors](https://www.freevectors.net/), [free-vectors](https://free-vectors.com/), [365psd](https://365psd.com/), [vector4free](https://www.vector4free.com/), [zezu](https://www.zezu.org/)
 
 **Telegrams** 
 
@@ -2682,6 +2690,7 @@ Good for finding classic, obscure & short films.
 * [Free Commander](https://freecommander.com/)
 * [Files](https://files.community/)
 * [MUCommander](https://www.mucommander.com/) 
+* [TablacusExplorer](https://tablacus.github.io/explorer_en.html) - *[GitHub](https://github.com/tablacus/TablacusExplorer)*
 * [AlTap](https://www.altap.cz/)
 * [DoubleCMD](https://github.com/doublecmd/doublecmd)
 * [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
