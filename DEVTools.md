@@ -691,6 +691,7 @@
 * [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - *Visual Studio Code Extensions* 
 * [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - *Visual Studio Code Python Language Extension / [Performant Language](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)*
 * [Python Mini Projects](https://github.com/Python-World/python-mini-projects) - *Python Scripts*
+* [Python Patterns](https://python-patterns.guide/) - *Python Design Patterns*
 * [Dodgy](https://github.com/landscapeio/dodgy) - *Find PWs & Diffs in Python Code*
 * [Pyright](https://github.com/microsoft/pyright) - *Static Type Checker for Python*
 * [JSPyBride](https://github.com/extremeheat/JSPyBridge) - *Interoperate Node.js and Python*
