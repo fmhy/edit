@@ -164,6 +164,7 @@
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - *Annotation Tools / Resources*
 * [Translation Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_translation_sites) - *Online Translators*
 * [Crow Translate](https://github.com/crow-translate/crow-translate) or [Argos](https://github.com/argosopentech/argos-translate) - *Translation App*
+* [Translate Shell](https://www.soimort.org/translate-shell/) - *Translation CLI / [GitHub](https://github.com/soimort/translate-shell)*
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - *Document Translator* 
 * [LingoJam](https://lingojam.com/) - *Create Translator*
 * [Translator++](https://dreamsavior.net/translator-the-introduction/) - *Automatic Translator / Editor*
@@ -1333,6 +1334,7 @@ General Reading Sites*
 * [FollowerWonk](https://followerwonk.com/) - *Find, Analyze & Optimize Followers* 
 * [HashTagStack](https://www.hashtagstack.com/) - *Hashtag Engagement Tracker*
 * [Hashait](https://www.hashatit.com/) - *Hashtag Search*
+* [Buhitter](https://buhitter.com/) - *Twitter Illustration Search*
 * [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - *Download Twitter Videos* 
 * [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/) or [SocialBearing](https://socialbearing.com/) - *Analyze Twitter Accounts* 
 * [TweeterID](https://tweeterid.com/) - *Twitter User ID & Username Converter* 
@@ -1417,6 +1419,7 @@ General Reading Sites*
 * [WUReset](https://wureset.com/) - *Reset Windows Update Components*
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - *Enable Windows Insider without Account*
 * [Couleur Tweak Tips](http://discord.gg/CTT) or [TweakCentral](https://tweakcentral.net/) - *Windows Tweaks & Tips*
+* [Redwan's Guide to Guides](https://docs.google.com/document/d/1hZeQkyDe-M9-zNy2eB-Koc3iOpN5-5KxkpvjQaNK60g/edit) - *Windows Tweaking Guides*
 * [Awesome Scripts](https://github.com/codePerfectPlus/awesomeScripts), [Batch-Script-Collection](https://github.com/happy05dz/Batch-Script-Collection) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - *Useful System Scripts*
 * [SmartWindows](https://smartwindows.app/) - *Create / Restore Windows Profiles* 
 * [VirtualBox](https://www.virtualbox.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - *Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)*
