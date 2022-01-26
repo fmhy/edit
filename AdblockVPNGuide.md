@@ -238,6 +238,7 @@
 * [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) - *Vehicle Security Resources Index*
 * [uBeacSec](https://ubeacsec.org/) - *Ultrasound Frequency Filter*
 * [NoScriptFingerprint](https://noscriptfingerprint.com/) - *How JavaScript Fingerprinting Works*
+* [GoFOSS](https://gofoss.net/) - *Why You Should Use FOSS Alternatives*
 
 ***
 
