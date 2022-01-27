@@ -1359,6 +1359,7 @@ General Reading Sites*
 * [Tokimeki Unfollow](https://tokimeki-unfollow.glitch.me/), [Who.Unfollowed](https://who.unfollowed.me/) or [Unfollow All](https://chrome.google.com/webstore/detail/twitter-unfollow-all/mgehkbclkipppdjiemnhmnledicalkld) - *Twitter Unfollower*
 * [Unfollow Monkey](https://unfollow-monkey.com/) - *Unfollower Notifications*
 * [Fix Twitter Links](https://openuserjs.org/scripts/lucio-martinez/Fix_Twitter_links) - *Unshorten Twitter Feed URLs* 
+* [Twitter Detector](https://github.com/stilliard/Twitter-detector) - *Detect Twitter Link on a Page*
 * [twitit](https://twitit.gq/) - *Scroll Twitter without Authentication*
 * [TwitterAudit](https://www.twitteraudit.com/) - *Check How Many of your Followers are Real*
 * [ReSync](https://revsync.io/) - *Sync Newletter Subs to Existing Tool*
