@@ -646,7 +646,7 @@ https://hdaudiobooks.com/
 * [DDOS](https://ddosecrets.com/) - *Transparency Collective*
 * [NSA Archive](https://nsarchive.gwu.edu/) - *Reports*
 * [NAP](https://www.nap.edu/) - *Reports*
-* [WikiLeaks](https://search.wikileaks.org/) - *WikiLeaks Search* 
+* [WikiLeaks](https://wikileaks.org/) - *Leaked Documents* 
 * [CensorBib](https://censorbib.nymity.ch/) - *Internet Censorship Research Papers*
 * [Constitute Project](https://www.constituteproject.org/) - *World Constitutions Database*
 * [ArmyPubs](https://armypubs.army.mil/) - *Military Documents & Manuals*
