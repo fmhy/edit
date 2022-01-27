@@ -1541,6 +1541,7 @@ General Reading Sites*
 * [multrin](https://github.com/sentialx/multrin) - *Organize Windows Apps in Tabs* 
 * [WinThumbsPreloader](https://github.com/bruhov/WinThumbsPreloader/) - *Preload Thumbnails in Windows Explorer*
 * [Klotures](https://gitlab.com/jkushmaul/klotures) - *Desktop Icon Organizer / [Demo](https://gitlab.com/jkushmaul/klotures/raw/master/docs/KloturesDemo.webm)*
+* [Windows 10's icons dedicated .dll files location](https://pastebin.com/tMiSV6WT)
 * [QuickLook](https://github.com/QL-Win/QuickLook) - *macOS Quick Look for Windows* 
 * [AutoHotkey](https://www.autohotkey.com/), [MacroRecorder](https://www.macrorecorder.com/) or [AutoIt](https://www.autoitscript.com/) - *Task Automation Scripts / [Script Gen](https://www.ahkgen.com/)*
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](http://www.keyefficiency.com/) - *System Task Scheduler*
