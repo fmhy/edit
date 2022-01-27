@@ -115,7 +115,6 @@
 * [0DayDDL](https://0dayddl.com/) - *Video / Audio / Games / Software / Books / Magazines*
 * [MaxRelease](http://max-rls.com/) - *Video / Audio / Software / Games / Magazines*
 * [BoltBB](https://boltbb.me/) - *Video / Software / Games / Books / NSFW*
-* [TFPDL](https://tfpdl.se/) - *Video / Software / Roms / Books*
 * [Volno](https://volno.org) - *Audio / Books / Software / Games / Android / NSFW*
 * [worldsrc](https://www.worldsrc.net/) - *Video / Audio / Games / Software / Android*
 * [Team OS](https://www.teamos-hkrg.com/) - *Software / Games / Books / Android*
@@ -142,7 +141,7 @@
 * [SoftDDL](http://softddl.org/) - *Video / Audio / Software*
 * [Download.ir](https://download.ir/) - *Software / Video / Android / Games / Roms*  
 * [yasdl](https://www.yasdl.com/) - *Software / Games / Audio / Video*
-* [TFPDL](https://www.tfp.is/), [2](https://tfpdl.to/) - *Video / Software / Games / Magazines / NSFW* 
+* [TFPDL](https://tfpdl.se/), [2](https://tfpdl.to/) - *Video / Software / Games / Magazines / NSFW* 
 * [Win7DL](https://win7dl.org/) - *Video / Audio / Software / Games / Books / Magazines / Android*
 * [Apps4All](https://www.apps4all.com/ ) - *Video / Books / Software / Games / Android*
 * [Katz DDL](https://katzddl.net/) - *Video / Audio / Books / Games / Android / NSFW*
