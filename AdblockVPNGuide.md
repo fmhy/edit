@@ -477,7 +477,6 @@
 * [Tailscale](https://tailscale.com/) - *[Pricing](https://i.imgur.com/6lMwcSQ.png) / [Discord](https://discord.com/invite/n3vtSwc)*
 * [TorGuard](https://torguard.net/) - *[Pricing](https://i.imgur.com/O2t4z0C.png)*
 * [WeVPN](https://wevpn.com/) - *[Pricing](https://i.imgur.com/a6XWraf.png)*
-* [CyberGhost](https://www.cyberghostvpn.com/en_US/) - *[Pricing](https://i.imgur.com/EQ7vCoR.png)*
 * [PandaVPN](https://pandavpnpro.com/) - *[Pricing](https://i.imgur.com/nm2CVhX.png)*
 * [Hidemy.name](https://hidemy.name/en/) - *[Pricing](https://i.imgur.com/wE4WonU.png)*
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - *VPN Extension / 3GB Free / [Pricing](https://i.imgur.com/ZdDexDa.png)* 
