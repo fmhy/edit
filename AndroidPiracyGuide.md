@@ -289,7 +289,6 @@
 * [RClone](https://github.com/x0b/rcx) - *Multi-Site Cloud Storage File Manager*
 * [Omega Launcher](https://github.com/otakuhqz/omega), [Lawnchair](https://lawnchair.app/), [NovaLauncher](https://novalauncher.com/), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [ActivityLauncher](https://github.com/butzist/ActivityLauncher), [Unlauncher](https://github.com/jkuester/unlauncher) or [Ratio](https://blloc.com/) - *App Launcher* 
 * [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) / [2](https://www.apkmirror.com/apk/aurora-oss/warden/) - *App Managers*
-* [Microsoft Launcher](https://www.microsoft.com/en-us/launcher) - *Microsoft Homescreen*
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - *Android Power Menu Replacement*
 * [iFont](https://play.google.com/store/apps/details?id=com.kapp.ifont) - *Android Font Installer*
 * [Eruda](https://pastebin.com/7qSZXjDS) - *Console for mobile browsers / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [Github](https://github.com/liriliri/eruda)* 
@@ -683,8 +682,8 @@
 * [CyroseHD](https://cyrosehd.com/) - *Movies / TV*
 * [Tuner Radio](https://www.downloader.world/) - *Movies / TV*
 * [Syncler](https://syncler.net/) - *Movies / TV / [How-To](https://pastebin.com/VsiKV9rm)*
-* [Rokkr](http://www.rokkr.net/ ) - *Movies / TV / 
-Add "huhu.to", "bs.to" or "oha.to"* 
+* [Rokkr](http://www.rokkr.net/) - *Movies / TV / Add "huhu.to", "bs.to" or "oha.to"* 
+* [Cyberflix TV](https://cyberflix.me/) - *Movies / TV*
 * [STBEmu](https://docs.stbemu.com/download/) - *Emulate a STB and Watch IPTV*
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - *YTS Torrents* 
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - *Chinese Drama* 
