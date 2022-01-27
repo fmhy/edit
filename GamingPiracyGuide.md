@@ -38,6 +38,7 @@
 * [GameLoo](http://www.gameloo.info/)
 * [AimHaven](https://www.aimhaven.com/)
 * [Leeching Hell](http://leechinghell.pw/)
+* [DarkSoftware](https://darksoftware.net/)
 * [SohaibXtreme](https://www.sohaibxtreme.net/FDL/setup/games/) 
 * [GamingMaster](http://s5.gamingmaster.ir/) 
 * [LegendaryRepacks](https://discord.gg/RUSNHSk) - *Universal Bypass Required*
