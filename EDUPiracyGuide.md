@@ -157,7 +157,6 @@
 * [Open-Video](https://open-video.org/) - *Courses / Documentaries*
 * [FreeCourseLechz](https://t.me/joinchat/AAAAAEeZL9jF22ZREqka2g) - *Courses / Telegram* 
 * [CourseInDrive](https://t.me/CourseInDrive) - *Courses / Telegram* 
-* [Free Open Source knowledge](https://t.me/free_open_source_knowledge) - *Courses / Telegram* 
 * [Download Links Materials](https://t.me/DownloadLinksMaterials) - *Courses / Telegram*
 * [premiumcoursesfree](https://t.me/premiumcoursesfree) - *Courses / Telegram*
 * [Udemy_Courses_Free_Daily](https://t.me/Udemy_Courses_Free_Daily ) - *Courses / Telegram*
