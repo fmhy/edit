@@ -65,6 +65,7 @@
 * [iBiblio](https://www.ibiblio.org/) - *Site / Tool Index* 
 * [Acme](http://www.acme.com/) - *Site / Tool Index* 
 * [itch.io Tools](https://itch.io/tools/free) - *Site / Tool Index*
+* [Nicelist](https://github.com/alamehan/nice-list) - *Site Index*
 * [num's link list](https://web.archive.org/web/20210102182957/https://soda.privatevoid.net/num/lists/web/) - *Site Index*
 * [NYPL Best of the Web](https://www.nypl.org/collections/nypl-recommendations/best-of-web) - *Site Index*
 * [Awesome Lite Websites](https://github.com/mdibaiee/awesome-lite-websites) - *Lightweight Site Index*
@@ -132,11 +133,13 @@
 * [Esoterica Avenue](https://discord.gg/enMG8bXUbn) - *Guides / Piracy / Software / Gaming / Chat*
 * [Sineater's Cove](https://discord.gg/nKstg6x) - *Piracy / Emulator / Gaming / Anime Chat*
 * [PGames](https://discord.gg/dZWwhUy) - *Piracy / Gaming / Discord*
+* [DarkSoftware](https://darksoftware.net/) - *Game Piracy*
 * [CS.RIN.RU](https://cs.rin.ru/forum)
 * [Ru.Board](http://forum.ru-board.com/)
 * [Piracy Forum](https://pirates-forum.org/) 
 * [Babiato](https://babiato.co/) 
 * [FileSharingTalk](https://filesharingtalk.com/forum.php)
+* [Sonic Getaway](https://discord.gg/audiophile) - *Music / Audio / Audio Gear Discussion*
 * [GDrive Guides](https://t.me/gdriveguides) - *GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)*
 * [Fileforums](https://fileforums.com/) - *Gaming / Emulator / Data Compression Discussion*
 * [Pirate Haven](https://pirate-haven.github.io/) - *Guides / Discussion / [Discord](https://discord.gg/JWqrdfN9Y8)*
@@ -198,7 +201,6 @@
 * [/r/udemyfreebies](https://reddit.com/r/udemyfreebies) 
 * [/r/FREECoursesEveryday](https://reddit.com/r/FREECoursesEveryday) 
 * [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)  
-* [/r/FreeMusicFindings](https://reddit.com/r/FreeMusicFindings) 
 * [/r/Freenookbooks](https://reddit.com/r/Freenookbooks/)
 * [/r/bookdownloads](https://reddit.com/r/bookdownloads/)
 * [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
@@ -1153,7 +1155,7 @@
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
 * [Wheel Smooth Scroller](https://chrome.google.com/webstore/detail/chromium-wheel-smooth-scr/khpcanbeojalbkpgpmjpdkjnkfcgfkhb?hl=en) - *Smooth Scrolling*
 * [Headless-Recorder](https://github.com/checkly/headless-recorder) or [automa](https://github.com/kholid060/automa) - *Browser Automation*
-* [NudgeWare](https://nudgeware.io/), [GoGo Productivity](https://chrome.google.com/webstore/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia) or [HabitLab](https://habitlab.stanford.edu/) - *Productivity Manager*
+* [NudgeWare](https://nudgeware.io/), [Minto](https://chrome.google.com/webstore/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chrome.google.com/webstore/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia) or [HabitLab](https://habitlab.stanford.edu/) - *Productivity Manager*
 * [Simple Todo](https://chrome.google.com/webstore/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) - *To-Do List*
 * [Blueticks](https://chrome.google.com/webstore/detail/blueticks/adgnjhngogijkkppficiiepmjebijinl) - *WhatsApp Scheduler*
 * [Beanote](https://chrome.google.com/webstore/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) or [Page Pad](https://chrome.google.com/webstore/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn) - *Web Page Note Taking*
