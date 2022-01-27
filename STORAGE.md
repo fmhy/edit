@@ -528,7 +528,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Encrypted Messengers
 
-**[Signal](https://signal.org/)**, [RetroShare](https://retroshare.cc/), [Off-the-Record](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Opensaw](https://www.opensaw.com/), [Demonsaw](https://www.demonsaw.com/), [Bitmessage](https://wiki.bitmessage.org/Main_Page) / [Reference Client](https://github.com/Bitmessage/PyBitmessage), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [Mirage](https://github.com/mirukana/mirage), [Keybase](https://keybase.io/) / [.onion](http://fncuwbiisyh6ak3i.onion/), [CWTCH](https://cwtch.im/), [Bip](https://bip.com/en/) 
+**[Signal](https://signal.org/)**, [RetroShare](https://retroshare.cc/), [Off-the-Record](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Opensaw](https://www.opensaw.com/), [Demonsaw](https://www.demonsaw.com/), [Bitmessage](https://wiki.bitmessage.org/Main_Page) / [Reference Client](https://github.com/Bitmessage/PyBitmessage), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [Mirage](https://github.com/mirukana/mirage), [Keybase](https://keybase.io/) / [.onion](http://fncuwbiisyh6ak3i.onion/), [CWTCH](https://cwtch.im/), [Bip](https://bip.com/en/), [Simplex](https://simplex.chat/) 
 
 ***
 
