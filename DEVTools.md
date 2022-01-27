@@ -468,7 +468,11 @@
 
 ## ▷ Game Development
 
-* [Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources) - *Game Development Resources*
+
+Game Development Resources / List of Fantasy Consoles and Computers Fantasy Consoles/Computers 
+https://github.com/paladin-t/fantasy
+
+* [Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources), [Magic Tools](https://github.com/ellisonleao/magictools) or [Awesome Gamedev](https://github.com/mbrukman/awesome-gamedev) - *Game Development Resources*
 * [Godot](https://godotengine.org/), [Defold](https://defold.com/), [OpenXRay](https://github.com/OpenXRay) or [ursina engine](https://www.ursinaengine.org/) - *Game Engine*
 * [Playerio](https://playerio.com/) - *Online Game Engine*
 * [RPG Playground](https://rpgplayground.com/) - *Simple RPG Creator*
@@ -477,6 +481,8 @@
 * [HaxeFlixel](https://haxeflixel.com/), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - *2D Game Creators*
 * [Unreal Engine](https://www.unrealengine.com/) - *3D Creation Tool*
 * [Designer Toolkit](https://ldtk.io/) - *2D Level Editor Level*
+* [Doshaven Programming List](http://www.doshaven.eu/programming-tools/) - *DOS Game Creator Tools*
+* [Fantasy Consoles / Computers](https://github.com/paladin-t/fantasy) - *List of Fantasy Consoles and Computers*
 * [stencyl](https://www.stencyl.com/) - *Codeless Game Engine*
 * [Kaboomjs](https://kaboomjs.com/) - *Quickly Make Games with Javascript*
 * [GDevelop](https://gdevelop-app.com/) - *HTML5 Game Creator*
@@ -664,7 +670,7 @@
 * [RegExr](https://regexr.com/) or [RegexLearn](https://regexlearn.com/) - *Learn Regex*
 * [Regex101](https://regex101.com/) - *Regex Editor / Debugger* 
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - *Creative Coding Resource Index* 
-* [Algorithm Visualizer](https://algorithm-visualizer.org/) or [mermaid](https://mermaid-js.github.io/mermaid/) - *Visualize Code Algorithms* 
+* [Algorithm Visualizer](https://algorithm-visualizer.org/), [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/sorting-visualizer/dist/) / [GitHub](https://github.com/sadanandpai/sorting-visualizer) or [mermaid](https://mermaid-js.github.io/mermaid/) - *Visualize Code Algorithms* 
 * [Code2Flow](https://app.code2flow.com/) or [Flowchart Generator](https://github.com/MugilanGN/Flowchart-Generator) - *Code to Flowchart Converter*
 * [UMLet](https://www.umlet.com/) - *Create UML Diagrams*
 * [Vim Latex](http://vim-latex.sourceforge.net/) - *Latex Style Vim Editor*
