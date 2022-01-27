@@ -1835,6 +1835,7 @@ Add the following commands to a search to manually scrape each site.
 * https://www.fast32.com/
 * https://www1.xmovies8.io/
 * https://fastzer.com/ 
+* https://moviebb.net/
 * https://123hulu.com/
 * http://gomovies123.watch/
 * https://putlocker.vc
