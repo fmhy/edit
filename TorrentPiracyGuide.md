@@ -86,7 +86,7 @@
 * **[RuTracker](http://rutracker.org)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - *Video / Audio / Games / Software / Android / Comics / Magazines*
 *  **RuTracker Tools** - [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Onion](http://rutrackerripnext.onion/) / [Search API](https://github.com/nikityy/rutracker-api)
 * **[TorrentGalaxy](https://torrentgalaxy.to/)** - *Video / Audio / Games / Software / NSFW / [Mirrors](https://proxygalaxy.pw/), [2](https://torrentgalaxy.org/) / [.onion](http://galaxy2gchufcb3z.onion/)*
-* [Demonoid](https://www.demonoid.is/) - *Video / Audio / Software / Games / Books / Comics*
+* [Demonoid](https://www.demonoid.is/), [2](https://www.dnoid.to/) - *Video / Audio / Software / Games / Books / Comics*
 * [Pirateiro](http://pirateiro.com) - *Video / Audio / Games / Roms / Software / Android / Books / Comics / NSFW*
 * [ETTV](https://www.ettvcentral.com/) - *Video / Audio / Games / Software / Books / NSFW/ [Proxies](https://ettvproxies.com/)*
 * [GloTorrents](https://glodls.to) - *Video / Audio / Games / Books / Software / Android / NSFW*
