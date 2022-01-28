@@ -80,6 +80,7 @@
 * [PokemonRevolution](https://pokemonrevolution.net/) - *Pokemon MMO*
 * [Clone Hero](https://clonehero.net/) - *Guitar Hero Clone / [Setlists](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/), [2](https://customsongscentral.com/)*
 * [Redump Forum](http://forum.redump.org/) - *Disc Preservation Project*
+* [Flashtro](https://flashtro.com/) - *Retro Game Crack Archive*
 * [How The Warez Scene Works](https://www.reddit.com/r/CrackWatch/comments/92uz49/the_warez_scene_how_it_works/) 
 
 ***
@@ -353,6 +354,7 @@
 * [Snake-Game](https://www.onemotion.com/snake-game/) - *3D Snake*
 * [SnakeGen](https://projects.victormeunier.com/snakegen/index.html) - *Snake Game Generator*
 * [ProAsm](http://www.proasm.com/) - *Retro Game Mods*
+* [Muds](https://muds.fandom.com/wiki/) - *Text Adventure ROM Wiki*
 
 ***
 
