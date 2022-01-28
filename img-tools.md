@@ -15,8 +15,8 @@
 * **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - *Download GFX Design Software*
 * **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/), [4](https://mega.nz/file/E5MwmT5Z#YP-vMSTcm8voKjb72_nHsLYH1AGmliWsbUGXVJhNHDE) - *Design Tool Resource Indexes*   
 * **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [GlitchyImage](https://glitchyimage.com/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - *Glitch Images*
-* [rexpaint](https://www.gridsagegames.com/rexpaint/) - *ASCII Art Editor*
-* [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Canva](http://canva.com/), [Stencil](https://getstencil.com/), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/), [ArtBoard](https://artboard.studio/) or [Glitterly](https://glitterly.app/) - *Graphic Design Tools*
+* [rexpaint](https://www.gridsagegames.com/rexpaint/) or [Playscii](https://jp.itch.io/playscii) - *ASCII Art Editor*
+* [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Canva](http://canva.com/), [Stencil](https://getstencil.com/), [Design Studio](https://designstudio.smallseotools.com/), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/), [ArtBoard](https://artboard.studio/) or [Glitterly](https://glitterly.app/) - *Graphic Design Tools*
 * [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/), [designspiration](https://www.designspiration.net/) or [inspirationde](https://www.inspirationde.com/) - *Graphic Design Inspirations*
 * [IRA Design](https://iradesign.io/) - *Illustration Creator*
 * [Scribus](http://www.scribus.net/) - *Page Layout & Typesetting Program*
@@ -43,7 +43,7 @@
 * [WeGreyScale](https://www.wegrayscale.com/) - *Greyscale Videos / Images*
 * [DuoTones](https://duotones.co/) - *Dual Tone Effect Generator*
 * [ImageGoNord](https://ign.schrodinger-hat.it/) - *Convert Images to NordTheme Palette / [Dracula](https://github.com/bigpick/ImageGoNord-dracula) / [Gruvbox](https://github.com/Schrodinger-Hat/ImageGoNord-gruvbox) / [GitHub](https://github.com/Schrodinger-Hat/ImageGoNord)*
-* [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) or [Cartoonize](https://cartoonize-lkqov62dia-de.a.run.app/cartoonize) - *Turn Photos into Cartoons*
+* [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization), [Image To Cartoon](https://imagetocartoon.com/) or [Cartoonize](https://cartoonize-lkqov62dia-de.a.run.app/cartoonize) - *Turn Photos into Cartoons*
 * [AIDraw](https://ai-draw.tokyo/en/) - *Turn Photos into Line Drawings* 
 * [primitive.js](https://ondras.github.io/primitive.js/) or [Geometrize](https://www.geometrize.co.uk/) - *Redraw Images with Geometric Shapes* 
 * [PBNify](https://pbnify.com/) - *Paint by Number Tool*
@@ -145,6 +145,8 @@
 * [The Rasterbator](https://rasterbator.net/) - *Wall Art Generator* 
 * [Flag Maker](https://flagmaker-print.com/pages/flag-maker) - *Flag Creator*
 * [ArmorLab](https://armorlab.org/) or [TextureLab](https://www.texturelab.io/) - *Texture Generator / [GitHub](https://github.com/armory3d/armorlab)*
+* [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) - *Texture Editor*
+* [NormalMap Online](https://cpetry.github.io/NormalMap-Online/) - *Online NormalMap Generator*
 * [The Wood Workshop](http://spiralgraphics.biz/ww_overview.htm) - *Wood Texture Editor / Creator*
 * [PlantStudio](https://www.kurtz-fernhout.com/summary_plantstudio.html) - *Plant Model / Illustration Creator* 
 * [Dummy Image](https://dummyimage.com/) - *Dynamic Dummy Image Generator* 
@@ -212,7 +214,8 @@
 * [Dither Machine](https://lunarlabs.itch.io/dither-machine) - *Pixel Art Dithering Creator*
 * [PixelMe](https://pixel-me.tokyo/en/), [Pixelator](https://ronenness.itch.io/pixelator) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - *Turn Photos into Pixel Art* 
 * [Pixelorama](https://orama-interactive.itch.io/pixelorama) - *2D Sprite Editor*
-* [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) - *Sprite Generator*
+* [Pixelart 3D Painting](https://lampysprites.itch.io/pribambase) - *3D Pixel Art Painting*
+* [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) , [Pixel Sprite](https://deep-fold.itch.io/pixel-sprite-generator) or [Creature Mixer](https://kenney.itch.io/creature-mixer) - *Sprite Generator*
 * [Nasu](https://hundredrabbits.itch.io/nasu) - *Spritesheet Editor*
 * [LibreSprite](https://libresprite.github.io/), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - *Pixel Art Animation Tools*
 * [Petmate](https://nurpax.github.io/petmate/) - *C64 PETSCII Image Editor*
@@ -289,7 +292,8 @@
 * [MyMiniFactory](https://www.myminifactory.com/) - *Mini 3D Printer Models*
 * [3DBrute](https://3dbrute.com/), [3DZip](https://www.3dzip.org/) or [DesignConnected](https://www.designconnected.com/) - *3D Furniture Models*
 * [Halloween.WannaThis](https://halloween.wannathis.one/) - *3D Halloween Models*
-* [Keygen](https://keygen.co/ ) - *3D Key Model Generator*
+* [x6ud](https://x6ud.github.io/#/) - *3D Animal Skull Models*
+* [Keygen](https://keygen.co/) - *3D Key Model Generator*
 * [CC0 Textures](https://cc0textures.com/) - *Textures for 3D Models* 
 * [Generated Photos](https://generated.photos/) - *AI Generated Model Photos*
 * [Blender](https://www.blender.org/) - *Open Source 3D Modeler / 2D Animation / Video Editor*
