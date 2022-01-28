@@ -33,7 +33,7 @@
 * [Neverland](http://www.neverland.ws/index.html) - *Piracy Index / [Links](https://rentry.co/oo9ri)* 
 * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr) - *Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)*
 * [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - *Piracy Index*
-* [Similar Sites](https://www.similarsites.com/), [Alexa Similar Sites](https://www.alexa.com/find-similar-sites), [SimilarWeb](https://www.similarweb.com/), [xRanks](https://xranks.com/), [](https://www.similarsitesearch.com/), [TopSimilarSites](https://www.topsimilarsites.com/), [SuchSites](https://suchsites.com/), [MoreOfIt](http://www.moreofit.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
+* [Similar Sites](https://www.similarsites.com/), [Alexa Similar Sites](https://www.alexa.com/find-similar-sites), [SimilarWeb](https://www.similarweb.com/), [xRanks](https://xranks.com/), [similarsitesearch](https://www.similarsitesearch.com/), [TopSimilarSites](https://www.topsimilarsites.com/), [SuchSites](https://suchsites.com/), [MoreOfIt](http://www.moreofit.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
 * [DirtyWarez](https://dirtywarez.org/) or [CuteStat](https://www.cutestat.com/) - *Site Rankings & Stats*
 * [10 Words](https://discover.10words.io/) - *App / Tool Discovery*
 * [pilssken](https://pilssken.neocities.org/warez/) - *Piracy Index* 
@@ -52,7 +52,6 @@
 * [The More You Know](https://marckoxx.github.io/) - *Site / Tool Index*
 * [5000 Best](http://5000best.com/websites/) - *Site / [Tool](http://5000best.com/tools/) Index*
 * [Internet Redirections](https://techy-transistor.notion.site/techy-transistor/Internet-redirections-38a61405197a46ba8672c75d402a3225#58bffba979224bc3af93f0b1b8838806) - *Site / Tool Index*
-* [GoodSites](https://www.goodsites.tech/) -  *Site / Tool Index* 
 * [alt3rnative](https://github.com/machiav3lli/alt3rnative) - *Site / Tool Index*
 * [Peelopaalu](https://peelopaalu.neocities.org/) - *Site / Tool Index*
 * [RefDesk](https://www.refdesk.com/facts.html) - *Site / Tool Index*
@@ -66,6 +65,7 @@
 * [Acme](http://www.acme.com/) - *Site / Tool Index* 
 * [itch.io Tools](https://itch.io/tools/free) - *Site / Tool Index*
 * [Nicelist](https://github.com/alamehan/nice-list) - *Site Index*
+* [/g/'s Based Sites](https://basedsites.neocities.org/) - *Site Index*
 * [num's link list](https://web.archive.org/web/20210102182957/https://soda.privatevoid.net/num/lists/web/) - *Site Index*
 * [NYPL Best of the Web](https://www.nypl.org/collections/nypl-recommendations/best-of-web) - *Site Index*
 * [Awesome Lite Websites](https://github.com/mdibaiee/awesome-lite-websites) - *Lightweight Site Index*
@@ -130,6 +130,7 @@
 * [/r/usenet](https://reddit.com/r/usenet) 
 * [/r/CrackSupport](https://reddit.com/r/CrackSupport) - *Piracy / Gaming / Cracking Discussion / [Discord](https://discord.gg/eTsaTNpsxj) / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch) / [FAQ](https://rentry.co/cracksupport)*
 * [Weboas.is Forum](https://weboas.is/forum/)
+* [SuperBay](https://forum.suprbay.org/) - *Piracy Discussion*
 * [Esoterica Avenue](https://discord.gg/enMG8bXUbn) - *Guides / Piracy / Software / Gaming / Chat*
 * [Sineater's Cove](https://discord.gg/nKstg6x) - *Piracy / Emulator / Gaming / Anime Chat*
 * [PGames](https://discord.gg/dZWwhUy) - *Piracy / Gaming / Discord*
@@ -439,6 +440,7 @@
 * [Pixels Fighting](http://pixelsfighting.com/) - *Watch A Pixel Battle* 
 * [Generative Engine](https://experiments.runwayml.com/generative_engine/) - *Text to Image Generator* 
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - *Create Room / Lo-Fi Player*
+* [HYDRA](https://hydra.ojack.xyz/) - *Live Coding Networked Visuals / [Discord](https://discord.gg/ZQjfHkNHXC)*
 * [Michaelbach](https://michaelbach.de/ot/) - *Optical Illusions* 
 * [Urlebird](https://urlebird.com/) - *3rd Party TikTok with better UI*
 * [AfterTheTone](https://afterthetone.com/) - *Random Answering Machine Messages*
@@ -514,6 +516,7 @@
 * [Flat.Social](https://flat.social/f/hn-virtual-xmas) - *Virtual Christmas Party*
 * [The.Matrix-ASCII](http://takeovertheworld.org/matrix/) - *The Matrix Encoded in Text*
 * [sCandyBars](https://scandybars.com/) - *Candy Bar Photo Blog*
+* [Matchbox Dan](https://matchbox-dan.com/) - *Matchbox Car Picture Archive*
 * [ASCIIMATION](http://www.asciimation.co.nz/) - *Star Wars ASCII Animation*
 * [Nestflix](https://nestflix.fun/) - *Fictional Media in Media Database*
 * [Vintage Ad Browser](http://www.vintageadbrowser.com/) - *100,000+ Vintage Advertisements* 
@@ -525,7 +528,9 @@
 * [Endless Horse](http://endless.horse/) - *Worlds Longest Horse*
 * [You wouldn't steal a website](https://youwouldntsteala.website/) - *Steal a Website*
 * [Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator) - *Pretend You Have Macbook Pro*
+* [ILoveJarJarBinks](https://ilovejarjarbinks.tripod.com/) - *Jar Jar Binks Fansite*
 * [IdiotProofWebsite](http://idiotproofwebsite.com/)
+* [TheMostAmazingWebsiteOnTheInternet](http://www.themostamazingwebsiteontheinternet.com/) - *The Internets Best Website*
 * [MotherFuckingWebsite](http://motherfuckingwebsite.com/), [BetterMotherFuckingWebsite](http://bettermotherfuckingwebsite.com/), [EvenBetterMotherFuckingWebsite](https://evenbettermotherfucking.website/) or [TheBestMotherFuckingWebsite](https://thebestmotherfuckingwebsite.co/)
 * [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/) 
 * [isitnight](https://www.isitnight.com/) - *Determine if it is night* 
@@ -549,6 +554,7 @@
 * [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - *News Site Indexes* 
 * [Google Alerts](https://www.google.com/alerts) - *News Alerts by Topics*
 * [Slower News](https://www.slowernews.com/) - *Breaking News*
+* [TXT Radio](http://beta.txtradio.live/) - *News Text Radio*
 * [PublicAlerts](https://google.org/publicalerts) - *Important News / Disaster Alerts*
 * [Corona Hunt](https://coronahunt.app/) - *Coronavirus Stats*
 * [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Ars Technica](https://arstechnica.com/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
@@ -745,6 +751,7 @@
 * [Dehydration Color Chart](https://i.imgur.com/PpDgo5j.png) - *Urine Color Dehydration Chart*
 * [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - *Remedies for Sores on Tongue*
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - *Interactive Self Care Guide*
+* [deskspace](https://npckc.itch.io/deskspace) - *Self-Care App*
 * [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - *Drug Information & Side Effects*
 * [DrugFree](https://drugfree.org/) - *Drug Abuse Prevention & Recovery Help*
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - *Mindfulness / Stress Reduction Tips*
@@ -805,8 +812,10 @@
 * [Gloric](https://www.hydrosheds.org/page/gloric) - *River Type Database / Mapping*
 * [Global Wetlands](https://www2.cifor.org/global-wetlands/) - *Wetlands Map*
 * [Mindat](https://www.mindat.org/countrylist.php) - *Mineral Deposits Map*
+* [Terrain Party](https://terrain.party/) - *Terrain Height Map*
 * [Earth](https://earth.nullschool.net/) - *Global Map of Wind, Weather, Ocean & Pollution Conditions*
 * [SunCalc](https://www.suncalc.org/) or [MoonCalc](https://www.mooncalc.org/) - *Sun & Moon Position / Phase Calculators* 
+* [Shadowmap](https://app.shadowmap.org/) or [ShadeMap](https://shademap.app/) - *Solar Shadow Map*
 * [Wikimapia](http://wikimapia.org/) - *Online Editable Map*
 * [AmCharts](https://www.amcharts.com/svg-maps/) - *SVG Maps*
 * [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - *Create Custom Maps* 
@@ -880,6 +889,7 @@
 * [Graphic Design Masterlist](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk) 
 * [Font Megadrive](https://mega.nz/file/QUNASIQZ#RDRA-Q0bVrcaw5i7chJXDKYsSm1mjo7IxIVSqNf3edI)
 * [Velvetyne](https://velvetyne.fr/)
+* [FontsHub](https://fontshub.pro/)
 * [Font Library](https://fontlibrary.org/) 
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/)
 * [Lost Type Co-op](http://losttype.com/)
@@ -894,6 +904,8 @@
 * [UrbanFonts](https://www.urbanfonts.com/) 
 * [AbstractFonts](https://www.abstractfonts.com/)
 * [FontCubes](http://www.fontcubes.com/) 
+* [AllFreeFont](http://www.allfreefont.com/) 
+* [BigFontSite](https://bigfontsite.com/) 
 * [FontCab](http://www.fontcab.com/) 
 * [Dribbble](https://dribbble.com/search/free%20font) 
 * [Fonts2u](https://fonts2u.com/) 
