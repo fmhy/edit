@@ -261,6 +261,7 @@
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - *Read Exported Whatsapp Chats*
 * [Watomatic](https://watomatic.app/) / [Git](https://github.com/adeekshith/watomatic) or [AutoResponder](https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDEhkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDGAA=:S:ANO1ljKlL8g&gsr=CjuKAzgKGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMSGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMYAA==:S:ANO1ljLE-Ks) - *Chat App Auto-Responders*
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - *Article / Link Viewer*
+* [Better Open With](https://play.google.com/store/apps/details?id=com.aboutmycode.betteropenwith) - *Improved Link Handling*
 * [PDF Maker](https://play.google.com/store/apps/details?id=opofficial.pdfmaker) - *PDF Creator*
 * [Fasthub-Libre](https://github.com/thermatk/FastHub-Libre) - *Github Client*
 * [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - *Track Github User Activity*
@@ -445,6 +446,7 @@
 * [APKMos](https://apkmos.com/) - *Modded*
 * [DivyaNet](https://divyanet.com/) - *Modded*
 * [APKLoop](https://apkloop.com/) - *Modded*
+* [APK About](https://apkabout.com/) - *Modded*
 * [ReleaseAPK](https://forum.release-apk.com/) - *Modded*
 * [ProSmart](https://prosmart.by/) - *Modded*
 * [King Games](https://ludokinggame.com/) - *Modded*
