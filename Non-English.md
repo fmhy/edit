@@ -296,6 +296,7 @@ French / General Torrent Tracker
 ## ▷ Streaming
 
 * [WawaCity](https://www.wawacity.video/), [2](https://www.wawacity.vip/) - *Video / Audio / Books / Magazines / Software / Android / Use AdBlocker*
+* [VostFree](https://vostfree.online/api/) - *Movies*
 * [VK Streaming](https://vkstreaming.one/) - *Movies / TV / Anime* 
 * [DU Cine](https://www.ducine.co/) - *Movies / TV*
 * [French-Stream](https://french-stream.re/) - *Movies / TV / Anime*
