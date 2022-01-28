@@ -55,6 +55,7 @@
 * [Forgehub](https://www.forgehub.com/) - *Halo Maps*
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - *Breath of The Wild Map*
 * [Hallownest](https://www.hallownest.net/) - *Hollow Knight Map*
+* [Daedalus](http://www.astrolog.org/labyrnth/daedalus.htm) - *Maze Creation / Solving Program*
 * [Library of Codexes](http://libraryofcodexes.com/) - *Game Codex Library*
 * [Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Covers for Games* 
 * [SreamGridDB](https://www.steamgriddb.com/) - *Custom Video Game Assets / [Discord](https://discord.com/invite/bnSVJrz)*
@@ -71,6 +72,7 @@
 * [5ETools](https://5e.tools/) - *Dungeons & Dragons Tools*
 * [Roll20](https://roll20.net/), [Rolisteam](https://rolisteam.org/) or [Astral](https://www.astraltabletop.com/) - *Tabletop RPG Streaming*
 * [Tabletopy](https://tabletopy.com/) - *Tabletop RPG Soundboard*
+* [Map Generator](https://emptybuttons.itch.io/map-generator) - *Tabletop Roleplaying Map Generator*
 * [FrontierNav](https://frontiernav.net/) - *JRPG Databases & Interative Maps*
 * [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/), [HexHTML](https://hextml.playest.net/), [Nat Geo Map Maker](https://mapmaker.nationalgeographic.org/) or [MapTool](https://www.rptools.net/?page=maptool) - *Map Making Tools* 
 * [Dungeon Map Doodler](https://dungeonmapdoodler.com/) or [donjon](http://donjon.bin.sh/) - *Draw and Build Dungeons* 
@@ -114,6 +116,7 @@
 * [OrignStubDecrypter](https://github.com/PotatoOfDoom/OriginStubDecrypter) - *EA Origins Stub Decrypter*
 * [Tarac](https://sims.tarac.nl/the-sims-4/sims-4-download-update-repair-add-dlcs/) - *Sims 4 Update / Repair Tool*
 * [Payday 2 Social Safe](https://www.overkillsoftware.com/payday2-social-safe/) - *Free Payday 2 Offers*
+* [PuzzleGraph](https://runevision.itch.io/puzzlegraph) - *Computer Puzzle Visualizer*
 * [WordPlays](https://www.wordplays.com/) - *Cheat at Scrabble, Words with Friends & Crossword Puzzles*
 * [Oculess](https://github.com/basti564/Oculess) - *Remove Oculus Quest Account Requirements & Telemetry*
 * [ALVR](https://github.com/alvr-org/ALVR) - *Stream VR Games from PC to Headset*
@@ -126,7 +129,7 @@
 * [find-PlayDate](https://www.find-playdate.com/) - *Find People to Play Games With* 
 * [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/), [FreeLan](https://www.freelan.org/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/) or [softether](https://www.softether.org/) - *Play Pirated Multiplayer Games*
 * [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) or [Netch](https://github.com/netchx/Netch/) - *Online Game Acceleration Proxy*
-* [Server.pro](https://server.pro/) - *Game Servers*
+* [Server.pro](https://server.pro/) or [Orcs](http://orcs.biz/) - *Game Server Hosting*
 * [Nemirtingas Galaxy Emu](https://gitlab.com/Nemirtingas/nemirtingas_galaxy_emu) - *GOG Galaxy Lan Emulator*
 * [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - *Hide Player Names to Avoid Stream Sniping*
 * [ElDewrito](https://dewritohub.com/) - *Halo Online Mod Tool / [GitHub](https://github.com/ElDewrito) / [Discord](https://discord.com/invite/0TKY0SDEUHAWL4sG), [2](https://discord.com/invite/gtqM3s5)*
@@ -288,6 +291,7 @@
 * [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) - *Minecraft Java Edition Launcher / Android / iOS*
 * [Minetest](https://www.minetest.net/) - *F2P Minecraft Alternative* 
 * [Baritone](https://github.com/cabaletta/baritone) - *Minecraft Pathfinding System*
+* [Sigma-Deleter](https://github.com/XatzClient/Sigma-Deleter) or [Sigma-Wiper](https://github.com/owersite/sigma-wiper) - *Remove Sigma Miner*
 
 ***
 
