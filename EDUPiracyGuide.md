@@ -148,6 +148,7 @@
 * [GameOfCourses](https://gameofcourses.com/) - *Courses*
 * [WSODownloads](https://www.wsodownloads.in/) - *Courses*
 * [HackingWorld](https://in.hackingworld.best/) - *Courses*
+* [Primetechie](https://forum.primetechie.com/) - *Courses*
 * [DuForum](https://duforum.in/) - *Courses*
 * [FreeTutorialsEU](https://www.freetutorialseu.com/) - *Courses*
 * [DL Course](https://dlcourse.org/) - *Courses*
