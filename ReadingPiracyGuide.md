@@ -855,7 +855,7 @@ https://hdaudiobooks.com/
 * [MotoKare](https://motokare.xyz/reader/)
 * [Tritinia](https://tritinia.com/)
 * [Toomics](https://toomics.com/)
-* [AsuraScans](https://asurascans.com/) - *[Discord](https://discord.gg/asurascans)*
+* [AsuraScans](https://asurascans.com/) - *[Discord](https://discord.com/invite/asurascans1)*
 * [MangaJar](https://mangajar.com/)
 * [LilyManga](https://lilymanga.com/) 
 * [ReadManhua](https://readmanhua.net/)
