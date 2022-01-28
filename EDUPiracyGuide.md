@@ -568,7 +568,7 @@
 * [amrita olabs](https://amrita.olabs.edu.in/) - *Science Practicals / Theory / Animations / Simulations* 
 * [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) - *Homework Help* 
 * [Cheatography](https://cheatography.com/) - *Educational Cheat Sheets* 
-* [Answers Exchange](https://discord.gg/GFp9Rvr), [Toppr](https://www.toppr.com/) or [AE Old](https://discord.gg/VCXGudY) - **
+* [Answers Exchange](https://discord.gg/GFp9Rvr), [Toppr](https://www.toppr.com/) or [AE Old](https://discord.gg/VCXGudY) - *Test Practice & Homework Help*
 * [GradesFixer](https://www.gradesfixer.com/) - *Essay Samples*
 * [Chegg Answers](https://t.me/CheggsByTnt), [2](https://discord.gg/pV9UYRQBub), [3](https://www.istaunch.com/how-to-get-chegg-answers-for-free/#2_Free_Chegg_Answers_by_iStaunch), [4](https://creativesavantz.com/how-to-access-chegg-solutions-for-free/), [5](https://litanswers.net/get-free-chegg-answers/), [6](https://www.premiuminfo.org/chegg-answers-for-free/), [7](https://techpanga.com/free-chegg-answer/), [8](https://trickswire.com/free-chegg-answers/), [9](https://www.rootupdate.com/free-chegg-answers/) - *Chegg Answer Tools*
 * [Quizizz Cheat](https://github.com/gbaranski/quizizz-cheat) - *Quizizz Answers Tool*
