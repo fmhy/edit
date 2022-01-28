@@ -227,6 +227,7 @@
 * **[Website Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_creators)** - *Website Creation Tools*
 * **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
 * [ZeroNet](https://zeronet.io/) or [Federalist](https://github.com/publiusfederalist/federalist) - *Uncensorable Sites / [/r/Zeronet](https://www.reddit.com/r/zeronet/)*
+* [Freenet Project](https://freenetproject.org/) - *Browse / Publish Freenet Sites* 
 * [GoodBadISPs ](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - *Best ISPs for Tor Hosting*
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/) or [CSSAuthor](https://cssauthor.com/) - *Site Development Tools*
@@ -308,6 +309,7 @@
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - *Mobile Friendly Page Test* 
 * [hlsflow](https://github.com/hlsflow/hlsflow) - *Host Video in HLS Stream*
 * [Testimonial](https://testimonial.to/) - *Easily Add Video Testimonials to Sites*
+* [DriveProxy](http://driveproxy.net/) - *GDrive Video iFrame Code Generator*
 * [StreamYard](https://streamyard.com/) - *Live Stream Creator*
 * [Visiwig](https://www.visiwig.com/) - *Copy / Paste Site Graphics*
 * [Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation) - *Web Animation Index*
@@ -349,6 +351,7 @@
 * [GetButton](https://getbutton.io/) - *Get free 'Message Us' Button for your Site*
 * [cssbuttons](https://cssbuttons.io/) - *CSS Buttons*
 * [Tawk](https://www.tawk.to/) - *Website Chat & Ticketing System*
+* [aftership](https://www.aftership.com/) - *Shipment Tracking API*
 * [Error404](https://error404.fun/) - *Free 404 Pages*
 * [HandShake](https://handshake.org/) - *Decentralized Certificate Authority & Naming*
 * [Let's Encrypt](https://letsencrypt.org/) - *Free TLS Certificates*
@@ -404,6 +407,7 @@
 ## ▷ Software Development
 
 * [Electron](https://www.electronjs.org/) - *Desktop App Builder / [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://electron-app-store.ml/) / [Debugger](https://www.electronjs.org/apps/debugtron)*
+* [raylib technologie](https://raylibtech.itch.io/) - *Software Development Tools *
 * [Theos](https://theos.dev/) - *Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)*
 * [Servo](https://servo.org/) - *Experimental Browser Engine*
 * [Gummy](https://gummyjs.vercel.app/) - *Easily Build Javascript Programs* 
@@ -468,20 +472,22 @@
 
 ## ▷ Game Development
 
-
-Game Development Resources / List of Fantasy Consoles and Computers Fantasy Consoles/Computers 
-https://github.com/paladin-t/fantasy
-
 * [Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources), [Magic Tools](https://github.com/ellisonleao/magictools) or [Awesome Gamedev](https://github.com/mbrukman/awesome-gamedev) - *Game Development Resources*
-* [Godot](https://godotengine.org/), [Defold](https://defold.com/), [OpenXRay](https://github.com/OpenXRay) or [ursina engine](https://www.ursinaengine.org/) - *Game Engine*
+* [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - *Basic Game Development Concepts*
+* [Godot](https://godotengine.org/), [Defold](https://defold.com/), [Cave Engine](https://unidaystudio.itch.io/cave-engine), [OpenXRay](https://github.com/OpenXRay) or [ursina engine](https://www.ursinaengine.org/) - *Game Engine*
 * [Playerio](https://playerio.com/) - *Online Game Engine*
 * [RPG Playground](https://rpgplayground.com/) - *Simple RPG Creator*
-* [Game-Editor](http://game-editor.com/Main_Page) or [BuildBox](http://buildbox.com/) - *Game Creators*
-* [GB Studio](https://www.gbstudio.dev/) - *Retro Game Creator / [GitHub](https://github.com/chrismaltby/gb-studio)*
-* [HaxeFlixel](https://haxeflixel.com/), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - *2D Game Creators*
+* [Game-Editor](http://game-editor.com/Main_Page), [microStudio](https://microstudio.itch.io/microstudio) or [BuildBox](http://buildbox.com/) - *Game Creators*
+* [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://pennie.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - *2D Game Creators*
 * [Unreal Engine](https://www.unrealengine.com/) - *3D Creation Tool*
-* [Designer Toolkit](https://ldtk.io/) - *2D Level Editor Level*
+* [PlanetSide](https://planetside.co.uk/) - *CG Environment Generator*
+* [Faux on 3D](https://gizmo199.itch.io/fauxton3d) - *Sprite Stacking Framework*
+* [MapEditor](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - *Level Editor*
+* [Designer Toolkit](https://ldtk.io/) or [Ogmo Editor](https://ogmo-editor-3.github.io/) - *2D Level Editor Level*
+* [SPARTAN Procedural](https://pnjeffries.itch.io/spartan-procjam-edition) - *Procedural Tile Generator*
+* [Laigter](https://azagaya.itch.io/laigter) - *2D Texture Map*
 * [Doshaven Programming List](http://www.doshaven.eu/programming-tools/) - *DOS Game Creator Tools*
+* [QB64SourceCode](https://www.qb64sourcecode.com/ ) - *QB64 Game Programming Tutorials*
 * [Fantasy Consoles / Computers](https://github.com/paladin-t/fantasy) - *List of Fantasy Consoles and Computers*
 * [stencyl](https://www.stencyl.com/) - *Codeless Game Engine*
 * [Kaboomjs](https://kaboomjs.com/) - *Quickly Make Games with Javascript*
@@ -489,19 +495,23 @@ https://github.com/paladin-t/fantasy
 * [Superpowers](https://www.softether.org/5-download) - *Collaborative HTML5 Game Creator*
 * [Phaser](https://phaser.io/) - *Mobile HTML5 Game Framework* 
 * [PlayCanvas](https://playcanvas.com/) - *Build HTML5 Visualizations / Games* 
+* [raylib](https://raysan5.itch.io/raylib) - *Game Programming Library*
 * [inkle](https://www.inklestudios.com/ink/) - *Game Narrative Scripting Language*
 * [Curlie World Building](https://curlie.org/en/Games/Roleplaying/World_Building) - *World Building Resource Index* 
 * [Mansion Generator](https://watabou.itch.io/procgen-mansion) - Procedural Mansions Generator*
 * [Texture Lab](https://njbrown.itch.io/texturelab) - *Procedural Texture Generator / [GitHub](https://github.com/njbrown/texturelab)*
 * [Material Maker](https://rodzilla.itch.io/material-maker) - *Procedural Texture Creator*
+* [Generative Landscapes](https://generativelandscapes.wordpress.com/) - *Generative Landscape Blog*
 * [Mixer](https://quixel.com/mixer) - *3D Texture Creation Software*
 * [Dungeon Scrawl](https://probabletrain.itch.io/dungeon-scrawl) - *Mapping Tool / [Discord](https://discord.com/invite/RxyZyXg) / [/r/Dungeonscrawl](https://www.reddit.com/r/dungeonscrawl/)*
 * [RPG Map Editor 2](https://deepnight.itch.io/tabletop-rpg-map-editor) - *Map Editor*
 * [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - *Fantasy City Map Generator*
 * [Neighbourhood](https://watabou.itch.io/neighbourhood) - *Neighborhood Map Generator*
 * [UE Viewer](https://www.gildor.org/en/projects/umodel) - *Unreal Engine Model Viewer / [GitHub](https://github.com/gildor2/UEViewer)*
+* [Bleeper](https://pixwlk.itch.io/bleeper) - *Game Sound Effects Creator*
 * [Electronic Arts GitHub](https://github.com/electronicarts) - *EA GitHub Repos*
 * [Game UI Database](https://www.gameuidatabase.com/) - *Game UI / UX Database*
+* [CharPad](https://subchristsoftware.itch.io/charpad-free-edition) - *Commodore 64 Graphics Editor*
 * [Xelu's Controller Prompts](https://thoseawesomeguys.com/prompts/) - *Free Game Prompts / [Video](https://youtu.be/d6GtGbI-now)*
 * [Tuesday JS](https://kirill-live.itch.io/tuesday-js) - *Visual Novel Editor / [GitHub](https://github.com/Kirilllive/tuesday-js)*
 * [Bookshelf](https://github.com/Darkhax-Minecraft/Bookshelf) - *Minecraft Mod Code Support*
@@ -574,7 +584,7 @@ https://github.com/paladin-t/fantasy
 * [up-for-grabs](https://up-for-grabs.net/) - *Curated List of Tasks for New Contributes*
 * [GitHub-Userscripts](https://github.com/Mottie/GitHub-userscripts) - *GitHub Userscripts*
 * [GitKraken](https://www.gitkraken.com/) or [Sourcetree](https://www.sourcetreeapp.com/) - *Git GUI*
-* [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - *Git Terminal UI*
+* [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - *Git TUI*
 * [Codeberg](https://codeberg.org/), [Giters](https://www.giters.com/) or [GitGud](https://gitgud.io/) - *Git Hosting*
 * [Git / Github Guide](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
 * [GitBook](https://www.gitbook.com/) - *Document Collaboration*
@@ -661,6 +671,7 @@ https://github.com/paladin-t/fantasy
 * [WebdevHome](https://webdevhome.github.io/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - *Programming / Developer Tools*
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - *Web Scraping Tool Index*
 * [Awesome-Discord-Communities](https://github.com/mhxion/awesome-discord-communities) - *Programming / Developer / Discord Communities* 
+* [TechBliss](https://www.techbliss.org/) - *Coding Forum*
 * [iTabCode](https://www.itabcode.net/) - *Programming / Computer Science Forum*
 * [AwesomeTwitterAccounts](https://github.com/yask123/AwesomeTwitterAccounts) - *Curated List of Programming Related Twitter Accounts* 
 * [Awesome Programming](https://github.com/hardikvasa/awesome-programming) - *Programming Resources* 
@@ -763,6 +774,7 @@ https://github.com/paladin-t/fantasy
 * [Crystalline](https://github.com/elbywan/crystalline) - *Crystal Language Server*
 * [scry](https://github.com/crystal-lang-tools/scry) - *Crystal Code Analysis Server*
 * [icr](https://github.com/crystal-community/icr) - *REPL for Crystal*
+* [QBasic](https://www.qbasic.net/) - *QBasic / QuickBASIC Programming Language Resources*
 * [CP Editor](https://cpeditor.org/) - *Competitive Programming Code Editor*
 * [PHP Decoder](http://ddecode.com/phpdecoder/) or [UnPHP](https://www.unphp.net/) - *PHP Decoder*
 * [PHP Beautifier](http://phpbeautifier.com/) - *PHP Formatter*
