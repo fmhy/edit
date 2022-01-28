@@ -32,13 +32,13 @@
 * [VikV](https://vikv.net/), [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
 * [SockShare](http://sockshare.ac/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones)*
 * [PrivateHD](https://www.privatehd.xyz/) - *Movies / TV*
-* [Trailers.to](https://trailers.to/) - *Movies / TV / [Bypass Quota](https://openvideofs.github.io/)*  
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - *Movies / TV / Anime*
 * [NetU](https://netu.io/view_page.php?pid=4) - *Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)*
 * [Shoow.in](https://shoow.in/) - *Movies / TV / Anime / [Unlock HD](https://pastebin.com/hxdq1uFi)*
+* [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - *Movies / TV / Anime*
+* [Trailers.to](https://trailers.to/) - *Movies / TV / [Bypass Quota](https://openvideofs.github.io/)*  
 * [Ling.online](https://ling.online/en/videos/films/) - *Movies / TV*
 * [OpenloadMovies](https://openloadmov.net/) - *Movies / TV*
-* [SolarMovie](https://www2.solarmovie.to/) or [Putlocker.vip](https://ww1.putlocker.vip/) - *Movies / TV / Anime*
 * [Remote Stream](https://remotestre.am/) - *Movies / TV*
 * [FSAPI](https://fsapi.xyz/) - *Movies / TV / Anime*
 * [IMDbStream](https://imdbstream.xyz/) - *Movies / TV*
@@ -126,7 +126,6 @@
 * [Movies Ni Pipay](https://moviesnipipay.me/) - *Movies / TV*
 * [2Embed](https://www.2embed.ru/library) - *Movies / TV*
 * [Series9](https://series9.me/), [2](https://series9.fun/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_goldmovies_clones)* 
-* [Dutafilm](https://dutafilm.network/) - *Movies / TV / Anime*
 * [Cloudy](https://cloudy.pk/category/english/) - *Movies / TV*
 * [Levidia](https://www.levidia.ch/) - *Movies / TV / Anime*
 * [Movies123](https://www.movies123.email/) or [123movies](https://ww.123movies.club) - *Movies / TV / Anime* 
@@ -137,6 +136,7 @@
 * [CMovies](https://cmovies.online/) - *Movies / TV / Anime*
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - *Movies*
 * [Best-Movies](https://best-movies.watch/) - *Movies*
+* [Dutafilm](https://103.194.171.75/) - *Movies / TV / Anime*
 * [YesHD](https://yeshd.net/) - *Movies / TV*
 * [UWatchFree](https://www.uwatchfree.ph/) - *Movies / TV*  
 * [CurtStream](https://curtstream.com/) - *Movies / TV / Anime*
@@ -144,6 +144,7 @@
 * [DownloadAnyMovie](https://www.downloads-anymovies.com/) - *Movies* 
 * [Vmovee](https://www.vmovee.watch/) - *Movies / TV*
 * [TinyZoneHD](https://tinyzonehd.net/) - *Movies / TV*
+* [WatchMoviesFree](https://wmoviesfree.com/) - *Movies*
 * [GoWatchSeries](https://www1.gowatchseries.online/) - *Movies / TV / Anime* 
 * [HDO](https://w10.hdonline.eu/) - *Movies / TV / Anime* 
 * [Filmxy](https://www.filmxy.pw/) - *Movies*
@@ -260,6 +261,8 @@
 * [KissTVShow](https://kisstvshow.to/) - *Asian TV Shows / Subtitles*   
 * [turkish123](https://turkish123.com/) - *Turkish TV Shows / Subtitles* 
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - *Bay Area TV Archive*  
+* [MyRM](https://myrunningman.com/) - *My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)*
+* [No-Laughing Batsu Game List](https://redd.it/2fgm9p) 
 
 ***
 
@@ -479,7 +482,6 @@
 * [WwiTv](https://wwitv.com/) - *TV*
 * [WorldCupFootball](http://www.worldcupfootball.me/) - *Sports*
 * [cytube](https://cytu.be/) - *TV / Chat*
-* [Hidden Movie](https://hidden.pm/) - *TV / Chat*
 * [6stream](http://6stream.xyz/) - *Sports*
 * [FLS](http://go.freestreams-live1.com/) - *Sports / [Discord](https://discord.gg/UKEjyPEaYG)*
 * [Your Sports Stream](http://yoursports.stream/) - *Sports*
@@ -816,7 +818,7 @@
 * [SickChill](https://sickchill.github.io/) or [CouchPotato](https://couchpota.to/) - *Automatic torrent/nzb searching, downloading & processing / Manager*
 * [Autodownload Tools](https://redd.it/hbwnb2) - *All Autodownload Tools*
 * [NZBHydra](https://github.com/theotherp/nzbhydra) - *Meta search for NZB indexers*
-* [pirateflix](https://github.com/orinocoz/pirateflix), [PeerFlix](https://github.com/mafintosh/peerflix) / [MPV](https://github.com/noctuid/mpv-peerflix-hook) or [Clifix](https://github.com/fabiospampinato/cliflix)  - *Torrent Streaming CLI* 
+* [pirateflix](https://github.com/orinocoz/pirateflix), [wt](https://github.com/DegenCoden/wt), [PeerFlix](https://github.com/mafintosh/peerflix) / [MPV](https://github.com/noctuid/mpv-peerflix-hook) or [Clifix](https://github.com/fabiospampinato/cliflix)  - *Torrent Streaming CLI* 
 * [TorrenTV](https://torrentv.github.io/) - *Stream Torrents to Apple TV, Chromecast & Roku*
 * [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - *Stream Torrents in VLC*
 * [Iceetime](https://github.com/diericx/iceetime) - *Self-Hosted Torrent Streaming* 
