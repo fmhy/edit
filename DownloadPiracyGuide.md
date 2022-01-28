@@ -158,6 +158,7 @@
 * [Pouet](https://www.pouet.net/prodlist.php) - *Demos / Cracktros*
 * [/r/downloadleak](https://www.reddit.com/r/downloadleak/) - *Source Code / Data Leaks*
 * [Redump](http://redump.org/) - *Disc Preservation Project*
+* [DemoZoo](https://demozoo.org/) - *Demoscene Archive / [Wiki](https://en.wikipedia.org/wiki/Demoscene)*
 * [Ubu](https://ubuweb.com/) - *Avant-Garde Artifacts*
 * Alexa Rankings - [Sites](https://dirtywarez.org/cat/blog) / [Forums](https://dirtywarez.org/cat/forum) 
 
@@ -312,6 +313,7 @@
 * [Antp](http://www.antp.be/) 
 * [Vovsoft](https://vovsoft.com/)
 * [NCH Software](https://www.nchsoftware.com/)
+* [WDZSoftware](https://wdzsoft.com/)
 * [FileEagle](https://www.fileeagle.com/) 
 * [ValleySoftware](https://valleysoftware.com.au/) 
 * [IcecreamApps](https://icecreamapps.com/) 
