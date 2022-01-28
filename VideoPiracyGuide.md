@@ -619,6 +619,7 @@
 * [MeloMovie](https://melomovie.com/) - *Movies / TV*
 * [Best-Movies](http://best-movies.info/) - *Movies / TV*   
 * [Happy2Hub](https://happy2hub.net/) - *Movies / TV*   
+* [FilmsZilla](https://filmszilla.com/) - *Movies / TV*
 * [Movies Downloader](https://movie.unlimitdownloads.com/) - *Movies / TV*
 * [MoviesMore](https://moviesmore.info/) - *Movies / TV*
 * [StreamCraze](https://streamcraze.com/) - *Movies / TV*
