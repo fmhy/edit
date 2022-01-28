@@ -45,6 +45,7 @@
 * [Distrochooser](http://distrochooser.de/?l=2) - *Linux Distro Chooser*
 * [Linux Filesystem Chart](https://cdn.discordapp.com/attachments/670326604261752843/904929766459736124/linux-01c.jpg) - *File System Guide*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old Linux Distro Archive*
+* [Kvantum](https://github.com/tsujan/Kvantum) - *Linux QT / KDE Theme Engine*
 * [susOS](https://github.com/Villagerjj/sus-os) - *Among Us Themed Distro*
 * [Linux x Technology](https://linuxdiscord.com/) or [Discord-Linux](https://discord.gg/discord-linux) - *Linux Chat Communities*
 * [Discover](https://github.com/trigg/Discover) - *Discord Linux Overlay*
@@ -170,6 +171,8 @@
 * [atuin](https://github.com/ellie/atuin) - *Shell History Management*
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - *Generate Bonsai Trees in Terminal*
 * [pipes.sh](https://github.com/pipeseroni/pipes.sh) - *Animated Pipes in Terminal*
+* [Neo Matrix Git](https://aur.archlinux.org/packages/neo-matrix-git/) - *Simulate Matrix Digital Rain*
+* [Terminal Locomotive Train](https://pastebin.com/ayrFjrh6) - *Train Easter Egg*
 * [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - *App Image Launcher*
 * [Remontoire](https://github.com/regolith-linux/remontoire) - *Keybind Viewer for i3*
 * [fzf](https://github.com/junegunn/fzf) - *CLI based Fuzzy Finder*
