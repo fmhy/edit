@@ -106,6 +106,7 @@
 * [Hardentools](https://github.com/securitywithoutborders/hardentools) - *Disables Risky Windows Features*
 * [Unchecky](https://unchecky.com/) - *Clears Software Installation Checkboxes*
 * [MCShield](https://www.mcshield.net/) - *Removable Drive Antivirus* 
+* [Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) or [DrWeb](https://free.drweb.com/) - *No Install Required Antivirus*
 * [Should I Remove It?](https://www.shouldiremoveit.com/) - *Easily Find & Remove Adware, Spyware ect.* 
 * [Rewind](https://github.com/Neo23x0/Rewind) - *Immediate Virus Infection Counter Measures*
 * [Spybot](https://www.safer-networking.org/products/spybot-free-edition/) or [SUPERAntiSpyware](https://www.superantispyware.com/free-edition.html) - *Anti-spyware*
@@ -198,22 +199,24 @@
 * [VeraCrypt](https://www.veracrypt.fr/en/Home.html) or [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup) - *Disk Encryption Software*
 * [Cryptomator](https://cryptomator.org/), [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - *Cloud File Encryption*
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - *Encrypt / Decrypt GDrive*
-* [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/), [Skytransfer](https://skytransfer.hns.siasky.net) or [upload-vaa](https://upload.vaa.red/) - *Encrypted File Host* 
+* [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/), [Skytransfer](https://skytransfer.hns.siasky.net) or [upload-vaa](https://upload.vaa.red/) - *Encrypted File Hosts* 
+* [boom.fyi](https://www.boom.fyi/) - *Temporary File Host*
 * [EncFS MP](https://encfsmp.sourceforge.io/index.html), [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/), [CipherShed](https://www.ciphershed.org/), [GPG4Win](https://www.gpg4win.org/), [Kryptor](https://www.kryptor.co.uk/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - *File Encryption Tool* 
 * [Filecrypt](https://filecrypt.cc/) - *Encrypt File Links*
 * [PDFEncrypt](https://pdfencrypt.net/) - *PDF File Encryption*
 * [GPGTools](https://gpgtools.org/) - *Encrypt & Sign Data / Communications* 
 * [CiphersByRitter](http://ciphersbyritter.com/) - *Cipher / Encryption Articles*
 * [HRef](https://href.li/) - *Hide HTTP Referer*
-* [Unsee](https://unsee.cc/) - *Private / Temporary Image Host* 
+* [Pixelfed](https://pixelfed.org/) or [Unsee](https://unsee.cc/) - *Decentralized / Temporary Image Hosts* 
 * [ImgProxify](https://imgproxify.com/) - *Image Proxy Generator*
+* [PeerTube](https://joinpeertube.org/), [2](https://peertube.tv/), [3](https://peer.tube), [4](https://search.joinpeertube.org/) - *Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)*
 * [PrivNote](https://privnote.com/), [Burn.Link](https://burn.link/) or [IPNote](https://ipnote.io/) - *Send Self-Destructing Messages* 
 * [xcodx.ru](https://xcodx.ru/) - *Send Encrypted Text*
 * [USBKill](https://github.com/hephaest0s/usbkill) - *Anti-Forensic Kill-Switch*
 * [Eraser](https://eraser.heidi.ie/) - *Remove / Overwrite Hard Drive Data* 
 * [Free Hide Folder](https://www.cleanersoft.com/hidefolder/free_hide_folder.htm) or [Wise Folder Hider](http://www.wisecleaner.com/wise-folder-hider-free.html) - *Hide Folders / Files* 
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - *Run a Oracle VM on TailsOS*
-* [diaspora](https://diasporafoundation.org/) - *Decentralized Social Network*
+* [diaspora](https://diasporafoundation.org/), [MissKey](https://join.misskey.page/en/), [Mastodon](https://joinmastodon.org/), [Pleroma](https://pleroma.social/), [Friendi](https://friendi.ca/) or [Zotlabs](https://zotlabs.org/page/hubzilla/hubzilla-project) - *Decentralized Social Network*
 * [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/) - *Stop Telemetry Data Leaks*
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - *Track Torrent Download Leaks*
 * [Safing](https://safing.io/) - *Monitor Network / Block Trackers / [GitHub](https://github.com/Safing/portmaster)*
@@ -312,7 +315,7 @@
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Privacy Focused Browsers* 
 * **[Vytal](https://vytal.io/)** - *See What Your Browser Knows About You*
 * **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
-* **[alternative-front-ends](https://github.com/mendel5/alternative-front-ends)** - *Frontend Index*
+* **[alternative-front-ends](https://github.com/mendel5/alternative-front-ends)** or [alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - *Frontend Index*
 * **[PrivacySpy](https://privacyspy.org/)** - *Grades a Sites Privacy Policies* 
 * **[ACCOUNTKILLER](https://www.accountkiller.com/)** or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - *Find / Terminate Old Accounts* 
 * [What every Browser knows about you](https://webkay.robinlinus.com/) - *Browser Data Leak Demonstration*
@@ -374,12 +377,13 @@
 * [TweetDelete](https://tweetdelete.net/) or [TweetEraser](https://www.tweeteraser.com/) - *Delete Twitter Posts in Bulk* 
 * [GeoSocial Footprint](http://geosocialfootprint.com/) or [tinfoleak](https://tinfoleak.com/) - *View Your Geosocial Footprint* 
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - *Reddit Auto Post Delete*
-* [DeleteFB](https://github.com/weskerfoot/DeleteFB) - *Facebook Post Deleter*
+* [DeleteFB](https://github.com/weskerfoot/DeleteFB) - *Facebook Post Remover*
 * [Mine](https://saymineapp.com/) - *View / Manage Digital Footprint*
 * [Redact](https://redact.dev/) - *Delete Entire Online History / [Warning](https://i.imgur.com/Kt8G430.png)*
 * [Make Internet Noise](http://makeinternetnoise.com/) - *Randomize Browser History* 
 * [Vektort13](http://vektort13.space/) - *Website History Test*
 * [Freenet Project](https://freenetproject.org/) - *Browse / Publish Freenet Sites* 
+* [Gopher](https://gopher.floodgap.com/gopher/) or [Gemini ](https://gemini.circumlunar.space/) - *Alternative Internet Protocol*
 * [Cache Monkey](https://github.com/jamiepine/cache-monkey) - *Convert, Browse & Clear Cached Images & Files* 
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - *Blur Images / Scrub Metadata*
 * [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif) or [VerExif](https://www.verexif.com/en/) - *Remove Meta / EXIF Data* 
