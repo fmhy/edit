@@ -193,6 +193,7 @@
 * [New Courses](https://mega.nz/folder/TyhGnIiR#XlHwR6qa4cZ3Tl1bSm2-QA) - *Udemy Courses*
 * [Download Online Tutorials Free](https://download.howtofree.org/) - *Udemy Courses* 
 * [Udemy Free Course](https://t.me/udemy_free_cource) - *Udemy Courses* 
+* [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - *Udemy Downloader*
 * [666GB Devil Web App](https://mega.nz/folder/7HRiUb7Q#xXXnIdhGxuPwxtz99BhPpg) - *Web App Development Courses*
 * [hackingworld.best](https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg) - *IT Courses*
 * [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
@@ -373,14 +374,17 @@
 * [3DSolarSystem](https://theskylive.com/3dsolarsystem) - *Solar System Simulator* 
 * [The Planets](https://planets-facts-website.netlify.app/) - *Learn About Planets*
 * [100,000 Stars](https://stars.chromeexperiments.com/) - *Interactive 3D Star Visualization*
+* [Aladin](https://aladin.u-strasbg.fr/) - *Astronomical Image Viewer / [Lite Version](https://aladin.u-strasbg.fr/AladinLite/)*
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](http://stellarium.org/) - *Virtual Stellarium*
 * [ESO](https://www.eso.org/public/images/eso1242a/zoomable/), [Hubble](https://esahubble.org/images/heic1502a/zoomable/), [Hubble 2](https://esahubble.org/images/heic1901a/zoomable/) - *Massive Zoomable Telescope Photos*
 * [Space Telescope Live](https://spacetelescopelive.org/) - *Live Hubble Image Data*
+* [James Webb Space Telescope](https://jwst.nasa.gov/index.html) - *Webb Space Telescope Info*
 * [APOD](https://apod.nasa.gov/) - *Daily NASA Astronomy Pictures*
 * [Clear Dark Sky](https://cleardarksky.com/) - *Star Gazing Weather Forecasts*
 * [Dark Site Finder](https://darksitefinder.com/), [DarkSkyMap](https://darkskymap.com/) or [GoStarGazing](https://gostargazing.co.uk/) - *Star Gazing Site Locators*
 * [SpaceEngine](http://spaceengine.org/) - *Universe Simulator*
 * [astro.sfasu](http://astro.sfasu.edu/courses/ast305/homework/) - *Astronomy Homework*
+* [CDS](https://cds.u-strasbg.fr/) - *Astronomical Database*
 
 ***
 
@@ -565,7 +569,7 @@
 * [Cheatography](https://cheatography.com/) - *Educational Cheat Sheets* 
 * [Answers Exchange](https://discord.gg/GFp9Rvr), [Toppr](https://www.toppr.com/) or [AE Old](https://discord.gg/VCXGudY) - **
 * [GradesFixer](https://www.gradesfixer.com/) - *Essay Samples*
-* [Chegg Answers](https://t.me/CheggsByTnt), [2](https://www.istaunch.com/how-to-get-chegg-answers-for-free/#2_Free_Chegg_Answers_by_iStaunch), [3](https://creativesavantz.com/how-to-access-chegg-solutions-for-free/), [4](https://litanswers.net/get-free-chegg-answers/), [5](https://www.premiuminfo.org/chegg-answers-for-free/), [6](https://techpanga.com/free-chegg-answer/), [7](https://trickswire.com/free-chegg-answers/), [8](https://www.rootupdate.com/free-chegg-answers/) - *Chegg Answer Tools*
+* [Chegg Answers](https://t.me/CheggsByTnt), [2](https://discord.gg/pV9UYRQBub), [3](https://www.istaunch.com/how-to-get-chegg-answers-for-free/#2_Free_Chegg_Answers_by_iStaunch), [4](https://creativesavantz.com/how-to-access-chegg-solutions-for-free/), [5](https://litanswers.net/get-free-chegg-answers/), [6](https://www.premiuminfo.org/chegg-answers-for-free/), [7](https://techpanga.com/free-chegg-answer/), [8](https://trickswire.com/free-chegg-answers/), [9](https://www.rootupdate.com/free-chegg-answers/) - *Chegg Answer Tools*
 * [Quizizz Cheat](https://github.com/gbaranski/quizizz-cheat) - *Quizizz Answers Tool*
 * [PXTrez](https://pxtrez.com/) - *Kahoot Answers Tool*
 * [ITExamAnswers.net](https://www.itexamanswers.net/) - *IT Exam Answers*
