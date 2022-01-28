@@ -62,6 +62,7 @@
 * [AudionautiX](https://audionautix.com/) - *Mood based streaming*
 * [Khinsider](https://downloads.khinsider.com/), [Cirrus Retro](https://cirrusretro.com/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
 * [NSF j](http://nsf.nesbbs.com/) - *NES Game Music*
+* [Exotica](https://www.exotica.org.uk/) - *Retro Gaming Music Wiki*
 * [MusicDex](https://musicdex.org/) or [OtakuPlay](https://otakuplay.moe/) - *Anime Soundtracks / [Discord](https://discord.gg/yCXJkbdCHt)*
 * [Musicmap](https://musicmap.info/) - *Genealogy / History of Music Genres* 
 * [Random Song](https://randomsong.net/) or [ListenToThis](https://listentothis.nanoshinono.me/) - *Random Songs*
@@ -353,6 +354,7 @@
 * [Classical Music Download](https://classical-music-download.com/) - *Classical / FLAC*
 * [chucrute com quiabo](https://rabanetecomquiabo.blogspot.com/) - *Classical / MP3*
 * [MeetingInMusic](https://meetinginmusic.blogspot.com/) - *Classical / MP3*
+* [Kiddie Records](http://www.kiddierecords.com/) - *Classic Children's Records*
 * [HQ Hip Hop](http://94hiphop.com/) - *Hip Hop / MP3 / FLAC*
 * [RnBXclusive](https://rnbxclusive1.org/) - *Hip-Hop / MP3 / FLAC*
 * [Rapload](https://rapload.org/) - *Hip Hop / MP3*
@@ -365,13 +367,13 @@
 * [AniPlaylist](https://aniplaylist.com/), [OSAnime](https://osanime.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - *Anime Soundtracks* 
 * [OtakuOst](https://otakuost.net/) - *Anime Soundtracks & Japanese Music* 
 * [DramaOST](https://dramaost.com/) or [KDramaOST](https://kdramaost.com/en) - *Asian Drama Soundtracks*
-* [Doujin Cafe](https://discord.com/invite/doujincafe) - *Doujin Music*
-* [lolicore](http://lolicore.org/) - *Doujin / Lolicore Music*
-* [Kiddie Records](http://www.kiddierecords.com/) - *Classic Children's Records*
+* [Doujin Cafe](https://discord.com/invite/doujincafe) or [lolicore](http://lolicore.org/) - *Doujin Music*
+* [Keygen Music](http://www.keygenmusic.org/) - *Keygen Music Archive*
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- *MIDI Files* 
 * [QueenMusicHall](http://www.queenmusichall.cz/) - *Queen MIDIs, Audio, Photos*
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
 * [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [Incompetech](https://incompetech.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/), [free stock music](https://www.free-stock-music.com/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
+* [MP3Scene](https://www.mp3scene.info/) - *MP3 Piracy Scene History*
 
 ***
 
