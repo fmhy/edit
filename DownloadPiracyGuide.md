@@ -15,7 +15,7 @@
 
 ***
 
-* **[The MegaDrive](https://discord.gg/h2P5zsNMxZ)** or [No Bucks Given](https://discord.gg/By53hyhUFS) - *Discord Drive Sharing Community* 
+* **[The MegaDrive](https://discord.gg/megadrive)** or [No Bucks Given](https://discord.gg/By53hyhUFS) - *Discord Drive Sharing Community* 
 * **[/r/opendirectories](https://www.reddit.com/r/opendirectories/)** - *Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / /u/ODScanner*
 * **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
 * **[300TB Mega](https://mega.nz/folder/6q4XjSjD#n2aMXLlajXC59snzns_ijw)** / [2](https://mega.nz/folder/c5NHnIob#fJc8_lYkfONbByC_X8eJuw/folder/gxs2xLaJ) / [3](https://mega.nz/folder/4l81jAha#ed19dxGXCtd-VWCEd-flxA)
