@@ -915,6 +915,7 @@ RSS Player*
 * [Whatspad++](https://iosninja.io/ipa-library/download-whatspad-ipa-ios) - *iPad WhatsApp*
 * [AppLibraryEnabler](https://github.com/tomaszpoliszuk/AppLibraryEnabler) - *Enable App Library on iPad*
 * [1 Click iCloud Bypass](https://frpfile.com/one-click-bypass-icloud/), [All in One iCloud Tool](https://frpfile.com/ifrpfile-all-in-one-icloud-tool/) or [iCloudBypass](https://appletech752.com/icloudbypass.html) - *Bypass iCloud*
+* [GeekBench](https://apps.apple.com/us/app/geekbench-5/id1435082259) - *iOS Benchmark Tests*
 * [AppleTech752](https://www.appletech752.com/downloads.html) - *iCloud and MDM Bypass*
 * [GoodLinks](https://goodlinks.app/) or [DoMarks](https://www.domarks.app/) - *Bookmark Manager*
 * [Flarify](http://www.flairify.com/) - *Touchscreen Typing Practice* 
