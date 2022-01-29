@@ -468,7 +468,7 @@
 * **[Windscribe](https://windscribe.com)** - *[Pricing](https://i.imgur.com/D7015rq.png) / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites) / Free Version Available / [Improved App](https://github.com/Windscribe/desktop-v2)*
 * **[Surfshark](https://surfshark.com/)** - *[Pricing](https://i.imgur.com/YaiKjpX.png)*
 * **[Riseup](https://riseup.net/en/vpn)** - *Free VPN* 
-* **[Softether](https://www.softether.org/)** - *Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx)*
+* **[Softether](https://www.softether.org/)** - *Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx) / [Note](https://pastebin.com/TrSw7EpF)*
 * **[WireGuard](https://www.wireguard.com/)** - *VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn)*
 * **[MOAG](https://moag.techtanic.pw/)** - *VPN Trial Generator / [Avoid Zenmate](https://restoreprivacy.com/kape-technologies-owns-expressvpn-cyberghost-pia-zenmate-vpn-review-sites/)*
 * [Perfect Privacy](https://www.perfect-privacy.com/) - *[Pricing](https://i.imgur.com/Rtfwu2t.png)*
