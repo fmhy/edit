@@ -1007,6 +1007,7 @@ https://hdaudiobooks.com/
 * [Atari Magazines](https://www.atarimagazines.com/) - *Classic Computer Magazine Archive* 
 * [HomePower](https://www.homepower.com/archive-browse ) - *Home Power Magazines*
 * [Archive Fashion for the World](https://www.archivepdf.net/) - *Fashion Magazine Archive* 
+* [Netflix Jr. Magazine](https://www.netflixjr.com/) - *Free Children's Magazine*
 
 ***
 
