@@ -11,6 +11,7 @@
 
 # ► Learning / Cheat Sheets
 
+* **[Programming Learning Resources](https://rentry.co/ProgrammingLearningResources)**
 * **[The Odin Project](https://www.theodinproject.com/)** - *Web Dev Tutorials / Courses*
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Courses / Infinite trial by clearing cookies & making new account*
 * **[freeCodeCamp](https://www.freecodecamp.org/)** - *Programming / Courses / Interactive [Archive](https://drive.google.com/drive/folders/1M_GDMaRwFDB_UG0y-WQdNqTxLxchlzgl?usp=sharing) / [GitHub](https://github.com/freeCodeCamp/freeCodeCamp)*
