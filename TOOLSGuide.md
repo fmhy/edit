@@ -1563,7 +1563,6 @@ General Reading Sites*
 * [Keyboard University](https://keyboard.university/) or [KDB](http://xahlee.info/kbd/keyboarding.html) - *Mechanical Keyboard Building Guides*
 * [MechMap](https://www.mechmap.tech/) - *Mechanical Keyboard Recommendations*
 * [NeatMouse](https://neatdecisions.com/products/neatmouse/) - *Mouse / Keyboard Emulator*
-
 * [WinCompose](http://wincompose.info/) - *Windows Special Character Compose Key / [GitHub](https://github.com/samhocevar/wincompose)*
 * [Plover](https://www.openstenoproject.org/plover/) - *Stenography Engine / [GitHub](https://github.com/openstenoproject/plover) / [Discord](https://discord.gg/NAzMz7C3wq)*
 * [Deskreen](http://deskreen.com/) - *Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen)* 
