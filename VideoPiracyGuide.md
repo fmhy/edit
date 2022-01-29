@@ -24,14 +24,14 @@
 * **[Movies4Discord](https://discord.gg/UJ9cS2kP3B)** - *Movies / TV / 1080p Only / [Website](https://movies4discord.xyz/)*
 * **[EE3](https://ee3.me/)** - *Movies / Invite Code: mpgh*
 * **[Ask4movies](https://ask4movie.io/)** - *Movies / TV / [Adblock Script](https://pastebin.com/N58Vbyhw)*
+* **[PrivateHD](https://www.privatehd.xyz/)** - *Movies / TV*
 * **[M4uFree](https://ww1.m4ufree.com)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)*
 * **[Squeezebox](https://movie.squeezebox.dev/)** - *Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)*
 * **[Soap2Day](https://soapgate.org/)** - *Movies / TV*
-* **[LookMovie](https://lookmovie.io/)** - *Movies / TV*
+* [LookMovie](https://lookmovie.io/) - *Movies / TV*
 * [C1NE](https://c1ne.co/) - *Movies / TV* 
 * [VikV](https://vikv.net/), [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
 * [SockShare](http://sockshare.ac/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones)*
-* [PrivateHD](https://www.privatehd.xyz/) - *Movies / TV*
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - *Movies / TV / Anime*
 * [NetU](https://netu.io/view_page.php?pid=4) - *Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)*
 * [Shoow.in](https://shoow.in/) - *Movies / TV / Anime / [Unlock HD](https://pastebin.com/hxdq1uFi)*
