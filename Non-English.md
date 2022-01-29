@@ -272,7 +272,7 @@
 * [Emuline](http://www.emuline.org/) - *Rom / Emulation Discussion*
 * [SubSynchro](https://www.subsynchro.com/), [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - *French Subtitles* 
 * [BonPatron](https://bonpatron.com/) - *French Spelling and Grammar Check*
-* [GoTo10(https://www.goto10.fr/) - *BBS and Minitel Archives*
+* [GoTo10](https://www.goto10.fr/) - *BBS and Minitel Archives*
 
 ## ▷ Downloading
 
@@ -313,7 +313,7 @@ French / General Torrent Tracker
 * [DBAnimes](https://dbanimes.com/) - *Anime* 
 * [Anime-Ultime](http://www.anime-ultime.net/) - *Anime*
 * [VoirAnime](https://voiranime.com/) - *Anime* 
-* [VostFree](https://vostfree.com/) - *Anime*
+* [VostFree.com](https://vostfree.com/) - *Anime*
 * [IPTV Streaming](http://iptv-streaming.tk/) - *Live IPTV*
 * [dtvd](https://dtvd.net/) or [liveschauen](https://liveschauen.com/) - *Live TV* 
 * [ADKami](https://www.adkami.com/) - *French Anime Calendar*
