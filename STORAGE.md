@@ -1367,13 +1367,13 @@ Add the following commands to a search to manually scrape each site.
 
 * **[KeePass](https://keepass.info/)** - *[Ports](https://keepass.info/download.html), [2](https://keepassxc.org/) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/) / [CLI](https://github.com/rebkwok/kpcli)*
 * **[Bitwarden](https://bitwarden.com/)** - *[bitwarden_gcloud](https://github.com/dadatuputi/bitwarden_gcloud) / [Server](https://github.com/dani-garcia/vaultwarden) / [GUI](https://github.com/Sife-ops/dmenu_bw)*
-* [Firefox Lockwise](https://www.mozilla.org/en-US/firefox/lockwise/)
 * [LessPass](https://lesspass.com/)
 * [Buttercup](https://buttercup.pw/)
 * [Clipperz](https://clipperz.is/)
 * [Passman](https://passman.cc/) - *[GitHub](https://github.com/nextcloud/passman)*
-* [Spectre](https://spectre.app/)
 * [KeeWeb](https://keeweb.info/) - *[Github](https://github.com/keeweb/keeweb)*
+* [Spectre](https://spectre.app/)
+* [Firefox Lockwise](https://www.mozilla.org/en-US/firefox/lockwise/)
 * [UPM](http://upm.sourceforge.net/)
 * [Zoho](https://www.zoho.com/vault/)
 * [Password Safe](https://www.pwsafe.org/) or [KDE Wallet Manager](https://userbase.kde.org/KDE_Wallet_Manager) - *Password Managing Software* 
