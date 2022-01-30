@@ -561,7 +561,7 @@
 * [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - *Grade School Educational Tools*
 * [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - *UPSC Telegram Channels* 
 * [AuthorStream](http://www.authorstream.com/) or [Slideshare](https://www.slideshare.net/) - *Watch / Share Slideshows & Presentations* 
-* [Periodic Stats](https://periodicstats.com/), [The Periodic Table Of Elements](https://periodictableofchemicalelements.com/), [Images-Of-Elements](https://images-of-elements.com/), [3D Periodic Table](https://artsexperiments.withgoogle.com/periodic-table/) or [Ptable](https://ptable.com/) - *Periodic Tables* 
+* [Periodic Stats](https://periodicstats.com/), [The Periodic Table Of Elements](https://periodictableofchemicalelements.com/), [Periodic Table](https://periodic-table.io/), [Images-Of-Elements](https://images-of-elements.com/), [3D Periodic Table](https://artsexperiments.withgoogle.com/periodic-table/) or [Ptable](https://ptable.com/) - *Periodic Tables* 
 * [ChemicalAid](https://en.intl.chemicalaid.com/) - *Chemistry Calculators & Element Tables*
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
 * [Retrosynthesis](http://retrosynthesis.com/) - *Organic Retrosynthesis Engine / [GitHub](https://github.com/sudo-rushil/odachi)*
