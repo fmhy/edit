@@ -172,6 +172,7 @@ https://hdaudiobooks.com/
 * [DailyLit](https://dailylit.com/) - *Books*  
 * [BookSearch](https://ravebooksearch.com/) - *Ebook Search Engine*
 * [Ebooks Searcher](https://ebook-searcher.com/) or  - *Multi-Site Book Search* 
+* [Weird Old Book Finder](https://weird-old-book-finder.glitch.me/) - *Find Old Books*
 * [FreeBooksSifter](https://www.freebooksifter.com/) - *Free Amazon E-Book* 
 * [HundredZeros](http://hundredzeros.com/) or [FreeReadFeed](https://www.freereadfeed.com/) - *Free Kindle Books* 
 * [Wikibooks](https://www.wikibooks.org/) - *Wikimedia community*
