@@ -65,7 +65,6 @@
 * [Acme](http://www.acme.com/) - *Site / Tool Index* 
 * [itch.io Tools](https://itch.io/tools/free) - *Site / Tool Index*
 * [Nicelist](https://github.com/alamehan/nice-list) - *Site Index*
-* [/g/'s Based Sites](https://basedsites.neocities.org/) - *Site Index*
 * [num's link list](https://web.archive.org/web/20210102182957/https://soda.privatevoid.net/num/lists/web/) - *Site Index*
 * [NYPL Best of the Web](https://www.nypl.org/collections/nypl-recommendations/best-of-web) - *Site Index*
 * [Awesome Lite Websites](https://github.com/mdibaiee/awesome-lite-websites) - *Lightweight Site Index*
