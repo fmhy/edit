@@ -370,7 +370,7 @@
 * [MachineID](http://www.ionworx.com/machineid.html) - *Hardware Identifier*
 * [TrackMyBacklink](https://trackmybacklink.com/) - *Backlink Tracker*
 * [Wappalyzer](https://www.wappalyzer.com/) - *Identify Technologies on Websites* 
-* [Bubble](https://bubble.io/), [WeWeb](https://www.weweb.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/) or [Sktch.io](https://sktch.io/) - *Create Web Apps* 
+* [Bubble](https://bubble.io/), [WeWeb](https://www.weweb.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Create-react-app](https://github.com/facebook/create-react-app) or [Sktch.io](https://sktch.io/) - *Create Web Apps* 
 * [PWABuilder](https://www.pwabuilder.com/) - *Turn Site into Progressive Web App*
 * [LightHouse](https://github.com/GoogleChrome/lighthouse) - *Web App Performance Test*
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - *Break Your Web Apps to Improve Them*
