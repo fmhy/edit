@@ -39,7 +39,6 @@
 * [Trailers.to](https://trailers.to/) - *Movies / TV / [Bypass Quota](https://openvideofs.github.io/)*  
 * [Ling.online](https://ling.online/en/videos/films/) - *Movies / TV*
 * [OpenloadMovies](https://openloadmov.net/) - *Movies / TV*
-* [Remote Stream](https://remotestre.am/) - *Movies / TV*
 * [FSAPI](https://fsapi.xyz/) - *Movies / TV / Anime*
 * [IMDbStream](https://imdbstream.xyz/) - *Movies / TV*
 * [DBGO](https://dbgo.fun/) - *Movies / TV / Anime / [Content List](https://dbgo.fun/list.php)*
