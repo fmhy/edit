@@ -1029,6 +1029,7 @@
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - *Copy Text as Markdown* 
 * [Copy Selected Links](https://gitlab.com/Marnes/copy-selected-links) - *Copy Links from Selected Text* 
 * [CopyFish](https://ocr.space/copyfish) or [Image Reader](https://mybrowseraddon.com/image-reader.html) - *Grab Text from Images* 
+* [BLCKBX](https://www.blckbx.ai/landingPage) - *Grab Text from Images / Videos*
 * [Text to Image](https://mybrowseraddon.com/text-to-image.html) - *Format & Save Text as a Image*
 * [Talkie](https://joelpurra.com/projects/talkie/) or [Offline Text to Speech](https://virejdasani.github.io/OfflineTextToSpeech-Extension/) - *Text to Speech*
 * [Text Link](https://piro.sakura.ne.jp/xul/textlink/index.html.en) - *Make Non-Hyperlinked URL's Clickable* 
