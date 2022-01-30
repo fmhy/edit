@@ -770,6 +770,7 @@ RSS Player*
 * [Meridian](https://meridian.sparkes.zone/) - *10.0-10.3.3 Jailbreak* 
 * [doubleH3lix](https://github.com/tihmstar/doubleH3lix) - *10.x 64bit Jailbreak*
 * [kok3shi](https://dora2ios.web.app/kokeshiJB.html) - *9.3-9.3.5 Semi-tethered Jailbreak*
+* [Phoenix](https://phoenixpwn.com/) - *9.3.5-9.3.6 32-bit Jailbreak*
 * [EtasonJB](https://etasonjb.tihmstar.net/) - *8.4.1 32-bit Jailbreak*
 * [IPA Apps](https://ipa-apps.me/) - *Jailbreak Tools & Apps*
 * [ap0110](https://ap0110.cf/) - *Autoexec Jailbreak*
