@@ -658,6 +658,7 @@
 * [Cirlos](https://www.cirlos.net/) or [WeeChat](https://weechat.org/) - *Chat App*
 * [KiwiIRC](https://kiwiirc.com/) - *WebIRC Client*
 * [AdiIRC](https://adiirc.com/) or [Bitchx](http://bitchx.sourceforge.net/) - *IRC Client*
+* [LAN Messenger](https://lanmessenger.github.io/) - *FOSS LAN Messenger / [GitHub](https://github.com/lanmessenger/lanmessenger)*
 * [Cabal](https://cabal.chat/) - *P2P Chat / [GitHub](https://github.com/cabal-club)*
 * [Cinny](https://cinny.in/) - *Matrix Client*
 * [Slink](https://slink.chat/) - *Aim Inspired Chat Client*
@@ -1346,6 +1347,7 @@ General Reading Sites*
 * [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - *Download Twitter Videos* 
 * [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/) or [SocialBearing](https://socialbearing.com/) - *Analyze Twitter Accounts* 
 * [TweeterID](https://tweeterid.com/) - *Twitter User ID & Username Converter* 
+* [NoFT](https://noft.gg/) - *Automatically Block all NFT Profile Pictures / [GitHub](https://github.com/ottomated/noft)*
 * [Spoonbill](https://spoonbill.io/) - *Track Profile Changes of People you Follow* 
 * [SocialRank](https://socialrank.com/) - *Find Your Most Valuable Followers* 
 * [Twitual](http://twitual.com/) or [DoesFollow](https://doesfollow.com/) - *Follower / Following Analysis* 
