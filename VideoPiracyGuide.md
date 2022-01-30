@@ -263,6 +263,8 @@
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - *Bay Area TV Archive*  
 * [MyRM](https://myrunningman.com/) - *My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)*
 * [No-Laughing Batsu Game List](https://redd.it/2fgm9p) 
+* [cytube](https://cytu.be/) - *TV / Chat*
+* [ScrubTV](https://reboot.tube/) - *TV / Chat*
 
 ***
 
@@ -481,7 +483,6 @@
 * [TVOnline.Liveschauen](https://tvonline.liveschauen.com/) - *TV* 
 * [WwiTv](https://wwitv.com/) - *TV*
 * [WorldCupFootball](http://www.worldcupfootball.me/) - *Sports*
-* [cytube](https://cytu.be/) - *TV / Chat*
 * [6stream](http://6stream.xyz/) - *Sports*
 * [FLS](http://go.freestreams-live1.com/) - *Sports / [Discord](https://discord.gg/UKEjyPEaYG)*
 * [Your Sports Stream](http://yoursports.stream/) - *Sports*
@@ -772,8 +773,12 @@
 * [Anime Devil](https://animedevil.com/) - *Sub / Dub / [Telegram](https://groups.google.com/g/animedevil)*
 * [DameDesuYo](https://damedesuyo.com/) - *Sub*
 * [TokyoInsider](https://www.tokyoinsider.com/) - *Sub*
+* [Animebuzz](https://animebuzz.xyz/) - *Sub / Dub / [Telegram](https://t.me/animebuzzofficial)*
 * [Chiby](http://www.animechiby.com/) - *Sub*
 * [Kainime](https://kainime.com/) - *Sub*
+* [AnimeTV4U](https://animetv4u.com/) - *Sub / Dub / [Telegram](https://t.me/Anim3TV4u)*
+* [Anime Senpai4U](https://www.animesenpai4u.com/) - *Sub / Dub*
+* [Anime Flix](https://animeflix.org.in/) - *Sub / Dub / [Telegram](https://t.me/moviesflixnet)*
 * [IndiAnime](https://indianime.com/) - *Sub / Dub*
 * [Anipakku](https://anipakku.blogspot.com/) - *Sub / Dub / [Discord](https://discord.com/invite/ekwtwjwHey)*
 * [anime7.download](http://anime7.download/) - *Sub*
