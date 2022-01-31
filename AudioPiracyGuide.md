@@ -250,7 +250,7 @@
 * **[/r/RIPREQUESTSNew](https://www.reddit.com/r/riprequestsnew/)** - *FLAC / [Discord](https://discord.com/invite/SH7DUfVz46)*
 * **[Mudome](https://mudome.org/)** - *MP3 / FLAC*
 * **[REKULOUS' Music Collection](https://drive.google.com/drive/folders/18uv94liWaRYSu16XY6Njx0SLykmJmczJ?usp=sharing)** - *MP3 / FLAC / AAC / DSD / SACD / Etc.*
-* **[Damon's Game Soundtracks](https://drive.google.com/drive/folders/1TJyPoYEgQjESnwwY-SjWclrPVeXLlV1x?usp=sharing)**, [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://github.com/TheLastZombie/VGMLoader) / [2](https://github.com/obskyr/khinsider), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
+* **[Damon's Game Soundtracks](https://drive.google.com/drive/folders/1TJyPoYEgQjESnwwY-SjWclrPVeXLlV1x?usp=sharing)**, [Squid-Board](https://www.squid-board.ru/) / [2](https://www.squid-board.org/), [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://github.com/TheLastZombie/VGMLoader) / [2](https://github.com/obskyr/khinsider), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
 * [The Last Disaster](https://thelastdisaster.vip/), [2](https://thelastdisaster.org/) - *MP3 / FLAC*
 * [SongsLover](https://songslover.vip/) - *MP3*
 * [FreshRemix](http://freshremix.ru/) - *MP3*
@@ -363,7 +363,7 @@
 * [JPFlac](https://jpflac.com/) - *Japanese / Korean / MP3 / FLAC*
 * [Kpop Stan](https://kpopstan.com/) - *KPop / MP3*
 * [MikuDB](http://mikudb.moe/) - *Vocaloid / MP3*
-* [Squid-Board](https://www.squid-board.ru/) / [2](https://www.squid-board.org/), [Все Саундтреки](http://xn--80adhccsnv2afbpk.xn--p1ai/), [DS Soundtrack](https://dsoundtrack.com/), [Soundkino](https://soundkino.biz/), [Download-Soundtracks](http://download-soundtracks.com/), [Audio-Track](https://www.audio-track.com/en), [3ost](https://3ost.ru/) or [tanikal](https://www.tanikal.com/) - *Soundtracks* 
+* [Все Саундтреки](http://xn--80adhccsnv2afbpk.xn--p1ai/), [DS Soundtrack](https://dsoundtrack.com/), [Soundkino](https://soundkino.biz/), [Download-Soundtracks](http://download-soundtracks.com/), [Audio-Track](https://www.audio-track.com/en), [3ost](https://3ost.ru/) or [tanikal](https://www.tanikal.com/) - *Soundtracks* 
 * [SittingOnClouds](https://www.sittingonclouds.net/) / [Discord](https://discord.com/invite/x23SFbE) - *Anime / Game Soundtracks*
 * [AniPlaylist](https://aniplaylist.com/), [OSAnime](https://osanime.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - *Anime Soundtracks* 
 * [OtakuOst](https://otakuost.net/) - *Anime Soundtracks & Japanese Music* 
