@@ -129,6 +129,7 @@
 * [Trianglify.io](https://trianglify.io/) - *Generate low-poly Textures*
 * [BannerEasy](https://www.bannereasy.com) - *Create Custom Banners*
 * [SocialBanner](https://www.social-banner.live/) or [Mind Your Banners](https://www.mindyourbanners.com/) - *Social Media Banner Creator*
+* [Thumbnail.ai](https://thumbnail.ai/) - *Create Social Media Images from Blog Posts*
 * [ImageFu](https://www.imagefu.com/) - **Button / Badge Creator*
 * [Get Waves](https://getwaves.io/), [Wavelry](https://wavelry.vercel.app/), [SVGWave](https://svgwave.in/) / [GitHub](https://github.com/anup-a/svgwave) or [SVG Wave](https://www.softr.io/tools/svg-wave-generator) - *Wave Generator*
 * [Meta-Mapper](https://meta-mapper.com/) - *Website Metadata Thumbnails*
