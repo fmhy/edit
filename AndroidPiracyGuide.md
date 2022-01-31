@@ -24,6 +24,7 @@
 * [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - *Adblock Filters* 
 * [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - *Block Spam Calls*
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - *Opt Out of Telemarketing Calls* 
+* [Should I Call Back?](https://should-i-call-back.binary-person.dev/) - *Phone # Lookup*
 * [Slide](https://github.com/ccrama/Slide), [2](https://f-droid.org/en/packages/me.ccrama.redditslide/) or [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - *Ad Free Reddit Client*
 * [TwitchMod](https://t.me/pubTw) or [Twire](https://f-droid.org/packages/com.perflyst.twire/) - *Ad Free Twitch App*
 * [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) - *Remove Sponsored Telegram Messages*
@@ -83,7 +84,7 @@
 * [PrivateBrowser](https://play.google.com/store/apps/details?id=com.prism.download.adblock.privacy.flash.player.incognito.private_browser.browser) - *Calculator Disguised Browser*
 * [Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers) - *Encrypted Android Messengers*
 * [Silence](https://silence.im/) - *Encrypt SMS/MMS Messages* 
-* [Wickr](https://play.google.com/store/apps/details?id=com.wickr.pro&amp;hl=en), [MySudo](https://mysudo.com/), [Jami](https://jami.net/), [Syphon](https://syphon.org/) or [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app) - *Encrypted Messaging / Video Calls*
+* [Wickr](https://play.google.com/store/apps/details?id=com.wickr.pro&amp;hl=en), [MySudo](https://mysudo.com/), [Jami](https://jami.net/), [Berty](https://berty.tech/), [Syphon](https://syphon.org/) or [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app) - *Encrypted Messaging / Video Calls*
 * [OVERSEC](https://www.oversec.io/) - *Add Text / Image Encryption to any App* 
 * [DPITunnel](https://github.com/zhenyolka/DPITunnel) - *Bypass Deep Packet Inspection* 
 * [adb-clear-packages](https://gist.github.com/noseratio/e3b136401965289c4aab40fa60f3be41) - *Clear Android Packages Data*
@@ -145,6 +146,7 @@
 * [Another Monitor](https://github.com/AntonioRedondo/AnotherMonitor) - *Android Usage Monitor*
 * [FileManager](https://github.com/SimpleMobileTools/Simple-File-Manager) or [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager) / [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager) - *File Manager*
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - *Note Taking Apps*
+* [Serenity Notes](https://www.serenity.re/en/notes) - *Collaborative Notes*
 * [Git Journal](https://gitjournal.io/) - *Mobile Markdown Notes*
 * [How to Root](https://www.xda-developers.com/root/amp/) - *Android Root Guide*
 * [Magisk](https://magiskmanager.com/) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - *Android Root Tool / [Mods](https://t.me/magiskmod_update) / [GitHub](https://github.com/topjohnwu/Magisk/releases) / [Support Layer](https://github.com/axonasif/rusty-magisk)*
@@ -341,6 +343,7 @@
 * [UniPatcher](https://github.com/btimofeev/UniPatcher) - *ROM Patcher*
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice) - *Device Tracker*
 * [OwnTracks](https://owntracks.org/) or [Hauk](https://github.com/bilde2910/Hauk) - *Track Own Location*
+* [PhoneAccount Abuse Detector](https://play.google.com/store/apps/details?id=space.linuxct.phoneaccountdetector) - *Android Emergency Calling Bug Check*
 * [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451) - *Custom Recovery Firmware Tool*
 * [TWRP Root](https://t.me/samsung_twrp_root/78379) - *TWRP Recovery Samsung*
 * [SamFirm A.I.O​](https://forum.xda-developers.com/t/tool-samfirm-a-i-o-tools-firmware-downloader-mtp-bypass-frp.4210103/) - *Firmware & FRP Bypass*
@@ -708,6 +711,7 @@ RSS Player*
 * [Stick Around](https://play.google.com/store/apps/details?id=com.stickaround.app) - *Check for Post Credit Scenes*
 * [tv-bro](https://github.com/truefedex/tv-bro) - *TV Remote Browser*
 * [AllTVApps](https://alltvapps.com/) - *Streaming App Index*
+* [How-to Extract Widevine L3 CDM from Android](https://pastebin.com/zhpa3XSD)
 
 ***
 
@@ -858,6 +862,7 @@ RSS Player*
 * [iSSB Play](https://iosninja.io/ipa-library/download-issb-ipa-ios) - *Super Smash. Bros on iOS / [GitHub](https://github.com/lufinkey/iSSB)*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
 * [Drafts](https://getdrafts.com/) or [Bear](https://apps.apple.com/us/app/bear/id1016366447) - *Note Taking App*
+* [Serenity Notes](https://www.serenity.re/en/notes) - *Collaborative Notes*
 * [Powercuff](https://rpetri.ch/cydia/powercuff/) - *Throttle iOS to Increase Battery Life*
 * [The Fucking Weather](https://alcohollick.com/the-fucking-weather) - *Weather App*
 * [CocaoTop](https://github.com/D0m0/CocoaTop) - *iOS Process Viewer*
