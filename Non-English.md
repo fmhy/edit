@@ -363,6 +363,7 @@ French / General Torrent Tracker
 * [HD Direct](http://hd-direct.net/) - *Video / Games / NSFW*
 * [hd-source](https://hd-source.to/) - *Video / NSFW* 
 * [MLCBoard](https://mlcboard.com/) - *Movies* 
+* [Movieblogarea](https://movieblogarea.com/) - *Movies*
 * [German Telegram Movie Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_german_telegram_movie_downloads) - *Movies* 
 * [Boerse](https://myboerse.bz/) - *Video / Audio / Software / Android / NSFW*
 * [Animes.so](https://www.animes.so/) - *Anime* 
