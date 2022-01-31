@@ -763,6 +763,7 @@
 * [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health) - *Mental Health Index*
 * [One Mind PsyberGuide](https://onemindpsyberguide.org/) - *Mental Health App Reviews*
 * [7 Cups](https://www.7cups.com/) or [OnlineCounselling4u](https://www.onlinecounselling4u.com/) - *Free Counseling & Therapy*
+* [BlahTherapy](https://blahtherapy.com/) - *Vent to Strangers*
 * [babycenter](https://www.babycenter.com/) - *Pregnancy and Parenting Resources*
 * [/u/elkatiuskas' Resource List](https://redd.it/phrcrn) - *Abortion Resource Index*
 * [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - *Informed Consent HRT Clinics*
