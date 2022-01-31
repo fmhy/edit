@@ -43,8 +43,10 @@
 * [OnlineTutorials](https://www.onlinetutorials.org/) - *Courses*
 * [CourseSity](https://www.coursesity.com/) - *Courses*
 * [Academic Earth](https://academicearth.org/) - *Courses*
+* [Yale.edu](https://oyc.yale.edu/) - *Courses*
 * [Canvas](https://www.canvas.net/) - *Courses*
 * [Harvard Online Courses](https://pll.harvard.edu/catalog?keywords=&free[1]=1&max_price) - *Courses*
+* [Open HPI](https://open.hpi.de/) - *Courses*
 * [FindAndSolve](https://www.findandsolve.com/) - *Course Search Engine*
 * [LearnOutLoud](https://www.learnoutloud.com/) - *Documentaries / Courses*
 * [Class Central](https://www.classcentral.com/) - *Search for Courses*
@@ -61,6 +63,7 @@
 * [SchoolYourself](http://schoolyourself.org/) - *Math Tutorials*
 * [mathhelp](https://www.mathhelp.com/) - *Math Tutorials*
 * [mathonline](http://mathonline.wikidot.com/) - *Math Tutorials*
+* [NYU-DLSP21](https://atcold.github.io/NYU-DLSP21/) - *Deep Learning Course*
 * [brighstorm](https://www.brightstorm.com/) - *Test Prep*
 * [O'Reilly](https://www.oreilly.com/) - *Tech / Programming / infinite free trial by clearing cookies / making new account*
 * [pad.ma](https://pad.ma/) - *Text-annotated Videos* 
@@ -546,6 +549,8 @@
 * [/r/coolguides](https://reddit.com/r/coolguides/), [1001 Tutorials](http://www.fricking.ninja/DIY/index/1001%20Tutorials/), [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - *Guides & Tutorials* 
 * [LitCharts](https://www.litcharts.com/) - *Literature Guides*
 * [StringMark](https://www.stringmark.com/) - *Save & Mark Research in Browser*
+* [Catma](https://catma.de/) - *Research Markup & Analysis Tool*
+* [Taguette](https://app.taguette.org/) - *Data Analysis Document Tagging*
 * [TimeLY](https://github.com/noahweasley/TimeLY) - *University Activity & Class Tracker*
 * [Stublio](https://stublio.com/) or [Studify](https://github.com/cmcodes1/Studify) - *Keep Track of what you're Studying* 
 * [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - *Educational Communication / iOS*
@@ -616,7 +621,7 @@
 * [Citation Generator](https://www.citationgenerator.com/), [CitationMachine](https://citationmachine.net/) or [Cite This For Me](https://www.citethisforme.com/) - *Generate Citations / [Chrome](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)*
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - *Citation Analyzer*
 * [AMCharts](https://live.amcharts.com/), [Charttt](https://editor.charttt.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - *Chart Creator*
-* [AWW](https://awwapp.com/), [OpenBoard](https://openboard.ch/), [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - *Whiteboard*
+* [AWW](https://awwapp.com/), [OpenBoard](https://openboard.ch/), [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - *Whiteboard*
 * [app.diagrams](https://app.diagrams.net/) / [Git](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/) or [Gephi](https://gephi.org/) - *Graph / Diagram Creator*
 * [Altium](https://www.altium.com/viewer/) - *Schematics Visualizer*
 * [Quizizz](https://quizizz.com/) - *Create Quizzes, Lessons, Flashcards & Presentations*
