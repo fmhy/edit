@@ -14,7 +14,7 @@
 * **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_tool_sites)** - *Sites with Multiple Tools*
 * **[MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb)** - *Multi-Tool Google Colab*
 * **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - *Multi-Calculator Sites* 
-* **[Versus](https://versus.com/)**, [rtings](https://www.rtings.com/) or [Diffen](https://www.diffen.com/) - *Compare Anything* 
+* **[Versus](https://versus.com/)**, [rtings](https://www.rtings.com/), [SocialCompare](https://socialcompare.com/en) or [Diffen](https://www.diffen.com/) - *Compare Anything* 
 * **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - *Organize Ideas & Projects*
 * **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** - *Device Repair Articles*
 * **[TuboTax Sucks Ass](http://turbotaxsucksass.net/)** or [FreeTaxUSA](https://www.freetaxusa.com/) - *File Taxes for Free*
@@ -46,7 +46,8 @@
 * [Dashana](https://dashana.com/) or [ParaView](https://github.com/Kitware/ParaView) - *Data Visualization Tool*
 * [Grocy](https://grocy.info/) - *Grocery / Household Management Tool*
 * [Volmarg](https://volmarg.github.io/) - *Personal Management Tool*
-* [Focalboard](https://www.focalboard.com/) or [Dendron](https://www.dendron.so/) - *Project Management Tool*
+* [Focalboard](https://www.focalboard.com/), [Wekan](https://wekan.github.io/), [Kanboard](https://kanboard.org/) or [Dendron](https://www.dendron.so/) - *Project Management Tool*
+* [GanttProject](https://www.ganttproject.biz/) - *Project Scheduling App*
 * [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - *To-Do List Apps*
 * [Creative Commons](https://creativecommons.org/) - *Creative Commons Licenses*
 * [ievaphone](https://ievaphone.com/), [blacktel](https://www.blacktel.io/), [Citrustel](https://www.citrustel.com/) or [PopTox](https://www.poptox.com/) - *Make Free Phone Calls*
@@ -83,7 +84,7 @@
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) or [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools) - *Digital Forensics Tools*  
 * [Chaotic Shiny](http://chaoticshiny.com/) - *Fantasy Writing Generator* 
 * [GitKraken Timeline](https://timelines.gitkraken.com/), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - *Timeline Creation Tool*
-* [SwimLanes](https://swimlanes.io/) - *Create Sequence Diagrams*
+* [SwimLanes](https://swimlanes.io/) or [Diagrams.net](https://www.diagrams.net/) - *Create Diagrams*
 * [WhatDog](https://www.bing.com/visualsearch/Microsoft/WhatDog) - *Dog Breed Identification Tool* 
 * [tusk](https://tusk.page/) - *Give & Receive Anonymous Feedback* 
 * [Gramps](https://gramps-project.org/blog/) - *Genealogy Research Tool*
@@ -179,10 +180,10 @@
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - *Text / Code Collaboration Tools*
 * [Buffered.link](https://buffered.link/) - *Share Text Between Devices*
 * [Ethercalc](https://ethercalc.snopyta.org/), [Baserow](https://gitlab.com/bramw/baserow), [Framacalc](https://accueil.framacalc.org/en/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - *Collaborative Spreadsheet*
-* [TinySheet](https://tinysheet.com/) - *Simple Online Spreadsheets*
+* [TinySheet](https://tinysheet.com/) or [LuckysheetDocs](https://mengshukeji.github.io/LuckysheetDocs/) - *Online Spreadsheets*
 * [Jamovi](https://www.jamovi.org/) - *Statistical Spreadsheets*
 * [Diagram.codes](https://www.diagram.codes/) - *Convert Text to Diagrams*
-* [Watson](https://speech-to-text-demo.ng.bluemix.net/), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - *Speech to Text*
+* [Watson](https://speech-to-text-demo.ng.bluemix.net/), [Dictation](https://dictation.io/speech), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - *Speech to Text*
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) or [HandWrittner](https://handwrittner.com/?lang=en) - *Text to Handwriting Converter*
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - *Extract Text From Any Window*
 * [ExtractMailAddress](https://extractemailaddress.com/) - *Extract Email's, URLs & Numbers from Text*
@@ -557,7 +558,7 @@
 * [learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - *Cloud Computing Fundamentals*
 * [Cyberseek](https://www.cyberseek.org/index.html) - *Cybersecurity Job Market Info*
 * [Candor](https://candor.co/hiring-freezes/) - *Hiring Freezes*
-* [Doozy](https://doozy.live/), [Miro](https://miro.com/) , [Slab](https://slab.com/) or [TipiCalls](https://tipicalls.com/) - *Collaboration Platform*
+* [Doozy](https://doozy.live/), [Zulip](https://zulip.com/), [Miro](https://miro.com/),[Mattermost](https://mattermost.org/), [Twake](https://twake.app/), [Slab](https://slab.com/) or [TipiCalls](https://tipicalls.com/) - *Collaboration Platform*
 * [PHPCRM](https://www.phpcrm.com/) - *Company Management Software*
 * [SplitBee](https://splitbee.io/) - *Business Analytics Tool*
 * [Invoicely](https://invoiceto.me/) - *Invoice Generator*
@@ -644,20 +645,20 @@
 * [BrowserParrot](https://www.browserparrot.com/) - *Browser History Search Engine*
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - *Tools / Apps to Run Flash Programs*
 * [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/webcatalog/), [Applicationize](https://applicationize.me/now) or [web2desk](https://appmaker.xyz/web2desk/) - *Turn Sites into Desktop Apps* 
-* [Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Mataroa](https://mataroa.blog/), [write freely](https://writefreely.org/) or [twtxt](https://github.com/buckket/twtxt) - *Blogging Platform*
+* [Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Mataroa](https://mataroa.blog/), [Emanates Docs](https://emanates.deepjyoti30.dev/), [write freely](https://writefreely.org/) or [twtxt](https://github.com/buckket/twtxt) - *Blogging Platform*
 * [Telescope](https://telescope.ac/) - *Publishing Platform*
 * [Odie](http://odie.us/) - *Publish Google Docs to Web*
 * [SpookyX](https://github.com/Fiddlekins/SpookyX) - *Adds Features to Imageboards*
 * [Rambox](https://rambox.pro/) / [GitHub](https://github.com/ramboxapp/download/releases), [Ferdi](https://getferdi.com/), [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [Hamsket](https://github.com/TheGoddessInari/hamsket), [matterbride](https://github.com/42wim/matterbridge) or [Franz](https://meetfranz.com/) - *Combine Web Apps / Chats*
 * [Slapdash](https://slapdash.com/) - *Connect Cloud Apps* 
-* [Automation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - *Automate Internet Tasks*
+* [Browser Automation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - *Automate Internet Tasks*
 * [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - *Communication Software Index*
 * [Discord](https://discordapp.com/), [Guilded](https://www.guilded.gg/) / [Mod](https://github.com/ReGuilded/ReGuilded/) or [Revolt](https://revolt.chat/) - *Messaging Platforms*
 * [Twist](https://twist.com/) - *Collaboration Chat Manager*
 * [Hack.chat](https://hack.chat/) or [tik.io](https://tlk.io/) - *Minimal Account Free Chat* 
 * [Cirlos](https://www.cirlos.net/) or [WeeChat](https://weechat.org/) - *Chat App*
 * [KiwiIRC](https://kiwiirc.com/) - *WebIRC Client*
-* [AdiIRC](https://adiirc.com/) or [Bitchx](http://bitchx.sourceforge.net/) - *IRC Client*
+* [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/) or [Bitchx](http://bitchx.sourceforge.net/) - *IRC Client*
 * [LAN Messenger](https://lanmessenger.github.io/) - *FOSS LAN Messenger / [GitHub](https://github.com/lanmessenger/lanmessenger)*
 * [Cabal](https://cabal.chat/) - *P2P Chat / [GitHub](https://github.com/cabal-club)*
 * [Cinny](https://cinny.in/) - *Matrix Client*
@@ -671,7 +672,7 @@
 * [Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [Whereby](https://whereby.com/), [Videolink2me](https://videolink2me.com/), [TinyChat](https://tinychat.com/), [Noysi Meet](https://meet.noysi.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat*
 * [Zoom Escaper](https://zoomescaper.com/) - *Self-Sabotage Video Calls to Escape Meetings*
 * [Live Curtain](https://livecurtain.com/) - *Countdown Curtain For Online Meeting*
-* [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Nertivia Chat](https://nertivia.net/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
+* [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Nertivia Chat](https://nertivia.net/), [Mumble](https://www.mumble.info/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
 * [IMumble](https://www.imumble.nl/) - *Voice Chat Server*
 * [Gather](https://gather.town/), [OpenSimulator](http://opensimulator.org/) - *Virtual World Server*
 * [FireStorm Viewer](https://www.firestormviewer.org/) - *Virtual World Viewer*
@@ -1174,6 +1175,7 @@ General Reading Sites*
 * [Callmebot](https://www.callmebot.com/) - *Trigger Voice Calls or Chats*
 * [Skeddy](https://skeddy.me/) - *Telegram Reminder Bot*
 * [GDUploadBot](https://t.me/gduploadbot) - *Telegram GDrive Upload Bot*
+* [GoogleDriveManagerBot](https://t.me/GoogleDriveManagerBo) - *Telegram GDrive Manager*
 * [ChecklyBot](https://t.me/checklybot) - *Checklist Telegram Bot*
 * [Shieldy Bot](https://t.me/shieldy_bot) - *Spam Protection Bot*
 * [Telegram Scraper](https://www.telegramscraper.com/) - *Telegram Member / Group Export*
@@ -1821,8 +1823,9 @@ General Reading Sites*
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - *Google Drive Link Encryptor for GD-EFC*
 * [goodls](https://github.com/tanaikech/goodls) - *Google Drive Downloader*
 * [GDirect](https://www.gdirect.link/), [gdurl](https://gdurl.com/) or [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - *Direct GDrive Link Generator*
-* [Folder.GDrive](https://folder.gdrive.vip/) - *GGDrive Folder Link Generator*
-* [GDToT](https://gdtot.eu/), [2](https://new.gdtot.eu/) - *Google Drive Manager*
+* [Folder.GDrive](https://folder.gdrive.vip/) - *GDrive Folder Link Generator*
+* [GDToT](https://gdtot.eu/), [2](https://new.gdtot.eu/) - *GDrive Manager*
+* [GoogleDriveManagerBot](https://t.me/GoogleDriveManagerBo) - *Telegram GDrive Manager*
 * [Backup System](https://github.com/danielpy108/BackUpMySystem) - *Backup Google Drive*
 * [OneDrive CF Index](https://github.com/spencerwooo/onedrive-cf-index) - *OneDrive Index*
 * [OneDrive X](https://t.me/onedrivexbot) - *Remote OneDrive File Upload Bot*
