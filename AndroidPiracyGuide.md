@@ -156,7 +156,7 @@
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) - *Debloat non-rooted Androids*
 * [Smali Patcher](https://forum.xda-developers.com/t/module-smali-patcher-7-4.3680053/ ) - *Android System Patcher*
 * [FDE.AI](https://github.com/feravolt/FDE.AI-docs) - *Android Performance Enhancements*
-* [DarQ](https://www.apkmirror.com/apk/mighty-quinn-apps/darq/) - *Universal Dark Mode*
+* [DarQ](https://www.apkmirror.com/apk/mighty-quinn-apps/darq/) or [Darkmode Guide](https://pastebin.com/cvast4uN) - *Universal Dark Mode*
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - *Android Cleanup Tool*
 * [L3MON](https://github.com/D3VL/L3MON) - *Remote Android Manager*
 * [NetClicker](https://netclicker.tv/) - *Phone Browser Controller*
