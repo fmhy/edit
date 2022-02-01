@@ -88,7 +88,6 @@
 * **[TorrentGalaxy](https://torrentgalaxy.to/)** - *Video / Audio / Games / Software / NSFW / [Mirrors](https://proxygalaxy.pw/), [2](https://torrentgalaxy.org/) / [.onion](http://galaxy2gchufcb3z.onion/)*
 * [Demonoid](https://www.demonoid.is/), [2](https://www.dnoid.to/) - *Video / Audio / Software / Games / Books / Comics*
 * [Pirateiro](http://pirateiro.com) - *Video / Audio / Games / Roms / Software / Android / Books / Comics / NSFW*
-* [ETTV](https://www.ettvcentral.com/) - *Video / Audio / Games / Software / Books / NSFW/ [Proxies](https://ettvproxies.com/)*
 * [GloTorrents](https://glodls.to) - *Video / Audio / Games / Books / Software / Android / NSFW*
 * [MagnetDL](https://www.magnetdl.com/), [2]( https://www.magnetdl.org/) - *Video / Audio / Games / Software / Books / [Onion](http://r5cena7erxpnxomyvoybuxh6fkgs55qqdg7bobf6yjx4j6vmywrqvlid.onion/)*
 * [YggTorrent](https://ww3.yggtorrent.si/) - *Video / Audio / Roms / Software / Books / Android / Comics*
