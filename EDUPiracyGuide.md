@@ -130,6 +130,7 @@
 * [Course Megadrives](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA), [2](https://mega.nz/folder/pAl0wRKK#FIZzbYjkT_09qRT5BS2GXQ), [3](https://mega.nz/folder/4t4hhCTa#zIiMZBRVAibATtHxwQ2b_w), [4](https://mega.nz/folder/F9RSWBaK#Nq6DUyPTk10EdjLQ5CWFcQ), [5](https://mega.nz/folder/shpz0ACQ#tdyaQi9HcVM-oKH9NxVewA), [6](https://mega.nz/folder/Y11ghIRC#LPwRFJESUsZ29ioIYex4hw), [7](https://mega.nz/folder/yawWzAKD#tPy0NFBa38xoNZMhXrXn0g), [8](https://mega.nz/folder/5F9WzJ7a#9UdqphaNXS13TTJAgdN15w), [9](https://mega.nz/folder/iIsEkb4B#4tdNHUYTKTJDeIxI2FZE3A), [10](https://mega.nz/folder/Ab4HnABZ#gLR_-deauS6XBfWyouVf-Q), [11](https://mega.nz/folder/B9B1iIZL#1GYxeVaTj3prxSR8kDyRyQ), [12](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA/folder/cupEDYzQ), [13](https://mega.nz/folder/lm5lgQxT#Qh52YqE0-kwP_-eWohMBbw) - *Courses*
 * [CoursesDaddy](http://coursesdaddy.com/) - *Courses* 
 * [Course Drive](https://coursedrive.org/) - *Courses* 
+* [Course Doc](https://docs.google.com/spreadsheets/d/1vazMlMWnI7NxVZcfgpABzCFFEClMjZYUgDk40pdPpTQ/edit#gid=0) - *Courses*
 * [freetutorials.ca](https://www.freetutorials.ca/) - *Courses*
 * [Super Huge Course Collection](https://babiato.co/threads/%F0%9F%94%A5%F0%9F%94%A5-super-huge-course-collection-700-courses-3tb-data-%F0%9F%94%A5%F0%9F%94%A5.40041/) - *Courses*
 * [Courses](https://pastebin.com/jQB1shJg), [2](https://pastebin.com/Z7L3Ypzd) - *Courses / Drives*
@@ -172,6 +173,7 @@
 * [iTunes U](https://archive.org/details/@kyndigs) - *Lectures*
 * [University of Waterloo](https://student.cs.uwaterloo.ca/~cs247/current/) - *CS Resources / Courses*
 * [Masterclass Courses](https://uploadhub.to/folder/756e9b346a839699b075e9c483991b90/Masterclass) or [Masterclass 63 Pack](https://mega.nz/folder/HxFghIbS#rFqH402PoVDwHW_XEtN1QQ) - *Masterclass Courses*
+* [Mindvalley Courses](https://mega.nz/folder/KahWVI6L#ijlrxMp0x5qaDB71r3mLzg/folder/mfwmiaDZ) - *Mindvalley Courses*
 * [Lynda Courses](https://bin.snopyta.org/?efe32fb96a945857#GQL7q4hyKjCeB6WLbpq94S12BEwh5JWc4apjmb7RE4SU) - *Lynda Courses / Drive / pw: fmhy*
 * [LyndaFree](https://t.me/lyndafree) - *Lynda Courses / Telegram*
 * [BestWSODownload](https://www.bestwsodownload.com/) - *WSO Courses*
@@ -199,7 +201,6 @@
 * [Udemy Free Course](https://t.me/udemy_free_cource) - *Udemy Courses* 
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - *Udemy Downloader*
 * [666GB Devil Web App](https://mega.nz/folder/7HRiUb7Q#xXXnIdhGxuPwxtz99BhPpg) - *Web App Development Courses*
-* [hackingworld.best](https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg) - *IT Courses*
 * [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
 * [ProCrack_Team](https://www.mediafire.com/folder/l4w8gcdcqsqtw/ProCrack_Team) - *Marketing Courses*
 * [Stock Trading Courses](https://mega.nz/folder/RNERkCIS#w0DcWggAasYz8vKl1jHkGw) - *Trading Courses*
@@ -548,6 +549,7 @@
 * [Information Is Beautiful](https://informationisbeautiful.net/) - *Data / Information / Infographics / Visualizations* 
 * [/r/coolguides](https://reddit.com/r/coolguides/), [1001 Tutorials](http://www.fricking.ninja/DIY/index/1001%20Tutorials/), [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - *Guides & Tutorials* 
 * [LitCharts](https://www.litcharts.com/) - *Literature Guides*
+* [Bonsai](https://bonsaibrowser.com/) - *Research Web Browser*
 * [StringMark](https://www.stringmark.com/) - *Save & Mark Research in Browser*
 * [Catma](https://catma.de/) - *Research Markup & Analysis Tool*
 * [Taguette](https://app.taguette.org/) - *Data Analysis Document Tagging*
@@ -601,6 +603,7 @@
 * [CrackJee](https://www.crackjee.xyz/) - *JEE & NEET Study Material + Answers*
 * [JEEBOOKS](https://www.jeebooks.in/) - *JEE, NEET, KVPY & CBSE Study Material*
 * [JeeMain](https://jeemain.guru/) - *JEE Study Material*
+* [CatchaScience](https://catchascience.wordpress.com/) - *IGCSE Study Material*
 * [IELTS69](https://www.ielts69.com/) - *IELTS Cambridge Practice Tests*
 * [GCE Guide](https://gceguide.com/) - *Cambridge Assessment Guide*
 * [ITExams](https://www.itexams.com/) - *IT Exam Collection*
