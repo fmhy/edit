@@ -872,6 +872,7 @@ French / General Torrent Tracker
 * [FileTracker](http://filetracker.pl/) - *Video / Audio / Software / Games / Books / Comics /NSFW*
 * [TorrentCity](http://torrentcity.pl/) - *Video / Audio / Software / Games / Books / Comics / NSFW*
 * [VTorrent](http://vtorrent.pl/) - *Video / Audio / Software / Games / Books / NSFW*
+* [Xtorrenty](https://xtorrenty.org/)
 
 ## ▷ Streaming 
 
