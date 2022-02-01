@@ -102,6 +102,7 @@
 * [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html), [PeerBlock](https://www.peerblock.com/), [Tinywall](https://tinywall.pados.hu/) or [GlassWire](https://www.glasswire.com/) - *Firewall / Network Monitor* 
 * [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/) or [Safing](https://safing.io/portmaster/) - *Network Monitor*
 * [Waircut](https://sourceforge.net/projects/waircut/) - *WPS Network Monitor*
+* [Traffic Leaks Detector](https://github.com/AsenOsen/traffic_leaks_detector) - *Network Leak Protection*
 * [Hard_Configurator](https://hard-configurator.com/) - *Software Restriction Policy Management GUI* 
 * [Hardentools](https://github.com/securitywithoutborders/hardentools) - *Disables Risky Windows Features*
 * [Unchecky](https://unchecky.com/) - *Clears Software Installation Checkboxes*
@@ -166,6 +167,7 @@
 * [StrongPasswordGenerator](https://strongpasswordgenerator.com/), [PassSnip](https://passnip.com/), [ExpressVPN PW Generator](https://www.expressvpn.com/password-generator), [MOAC](https://sr.ht/~seirdy/MOAC/), [Clover](https://cloverleaf.app) or [Bitwarden PW Generator](https://bitwarden.com/password-generator/) - *Password Generators*
 * [PaP](https://trypap.com/) - *Passive Aggressive Password Strength Check*
 * [Privacy / Safety Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_guides) - *Internet Privacy / Safety Guides* 
+* [Open Source Guides](https://opensource.guide/) - *Open Source Guide / [GitHub](https://github.com/github/opensource.guide)*
 * [Privacy.Sexy](https://privacy.sexy/) - *Privacy Scripts* 
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - *Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)*
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) or [Anon Security](https://t.me/anon_server) - *Cybersecurity Resources*
@@ -216,7 +218,7 @@
 * [Eraser](https://eraser.heidi.ie/) - *Remove / Overwrite Hard Drive Data* 
 * [Free Hide Folder](https://www.cleanersoft.com/hidefolder/free_hide_folder.htm) or [Wise Folder Hider](http://www.wisecleaner.com/wise-folder-hider-free.html) - *Hide Folders / Files* 
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - *Run a Oracle VM on TailsOS*
-* [diaspora](https://diasporafoundation.org/), [MissKey](https://join.misskey.page/en/), [Mastodon](https://joinmastodon.org/), [Pleroma](https://pleroma.social/), [Friendi](https://friendi.ca/) or [Zotlabs](https://zotlabs.org/page/hubzilla/hubzilla-project) - *Decentralized Social Network*
+* [diaspora](https://diasporafoundation.org/), [MissKey](https://join.misskey.page/en/), [Mastodon](https://joinmastodon.org/), [Pleroma](https://pleroma.social/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendi](https://friendi.ca/) or [Zotlabs](https://zotlabs.org/page/hubzilla/hubzilla-project) - *Decentralized Social Network*
 * [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/) - *Stop Telemetry Data Leaks*
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - *Track Torrent Download Leaks*
 * [Safing](https://safing.io/) - *Monitor Network / Block Trackers / [GitHub](https://github.com/Safing/portmaster)*
@@ -390,7 +392,8 @@
 * [Pic2Map](https://www.pic2map.com/) - *Image EXIF data viewer with GPS support*
 * [TheExifer](https://www.thexifer.net/index.php) or [Exiv2](https://www.exiv2.org/) - *Image EXIF Data Editor* 
 * [Nameexif](https://us.digicamsoft.com/softnamexif.html) - *Bulk Image EXIF Data Editor*
-* [pdf-redact-tools](https://github.com/firstlookmedia/pdf-redact-tools) - *Strip Metadata from Documents / PDF Files* 
+* [pdf-redact-tools](https://github.com/firstlookmedia/pdf-redact-tools) - *Remove Metadata from Documents / PDF Files* 
+* [Mat2](https://0xacab.org/jvoisin/mat2) / [Web](https://matweb.info/) / [Desktop](https://metadatacleaner.romainvigier.fr/), [2](https://0xacab.org/jvoisin/mat2-web), [metadata-cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - *Remove Metadata from Files*
 * [SecLists](https://seclists.org/) - *Security Mailing List Archive* 
 * [OpenPhish](https://openphish.com/) - *Phishing Threat Data* 
 * [Panopticlick](https://coveryourtracks.eff.org/) - *Test if your Browser Blocks Tracking* 
@@ -504,6 +507,7 @@
 * [Gluetun](https://github.com/qdm12/gluetun) - *Tunnel your Docker containers through a VPN*
 * [PiVPN](https://pivpn.io/) - *Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)* 
 * [Enterprise](https://pritunl.com/) - *VPN Server* 
+* [Algo VPN](https://github.com/trailofbits/algo) - *Cloud VPN*
 * [Amnezia](https://github.com/amnezia-vpn/desktop-client/) - *Self-hosted VPN*
 * [Self-hosted VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/selfhost-vpn) - *Self-hosted VPN guide by /u/Kaxry*
 * [VPNHotspot](https://github.com/Mygod/VPNHotspot) - *Share VPN Connection over Hotspot*
