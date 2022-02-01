@@ -84,7 +84,7 @@
 * [PrivateBrowser](https://play.google.com/store/apps/details?id=com.prism.download.adblock.privacy.flash.player.incognito.private_browser.browser) - *Calculator Disguised Browser*
 * [Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers) - *Encrypted Android Messengers*
 * [Silence](https://silence.im/) - *Encrypt SMS/MMS Messages* 
-* [Wickr](https://play.google.com/store/apps/details?id=com.wickr.pro&amp;hl=en), [MySudo](https://mysudo.com/), [Jami](https://jami.net/), [Berty](https://berty.tech/), [Syphon](https://syphon.org/) or [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app) - *Encrypted Messaging / Video Calls*
+* [Wickr](https://play.google.com/store/apps/details?id=com.wickr.pro&amp;hl=en), [MySudo](https://mysudo.com/), [Jami](https://jami.net/), [Syphon](https://syphon.org/) or [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app) - *Encrypted Messaging / Video Calls*
 * [OVERSEC](https://www.oversec.io/) - *Add Text / Image Encryption to any App* 
 * [DPITunnel](https://github.com/zhenyolka/DPITunnel) - *Bypass Deep Packet Inspection* 
 * [adb-clear-packages](https://gist.github.com/noseratio/e3b136401965289c4aab40fa60f3be41) - *Clear Android Packages Data*
@@ -149,7 +149,7 @@
 * [Serenity Notes](https://www.serenity.re/en/notes) - *Collaborative Notes*
 * [Git Journal](https://gitjournal.io/) - *Mobile Markdown Notes*
 * [How to Root](https://www.xda-developers.com/root/amp/) - *Android Root Guide*
-* [Magisk](https://magiskmanager.com/) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - *Android Root Tool / [Mods](https://t.me/magiskmod_update) / [GitHub](https://github.com/topjohnwu/Magisk/releases) / [Support Layer](https://github.com/axonasif/rusty-magisk)*
+* [Magisk](https://magiskmanager.com/) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - *Android Root Tool / [Mods](https://t.me/magiskmod_update) / [GitHub](https://github.com/topjohnwu/Magisk/releases) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager)*
 * [Root Essentials](https://sites.google.com/view/superthomaslab/root-essentials) - *Multiple Root Tools*
 * [Root Checker](https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck) - *Root Checker*
 * [Android Tool](https://github.com/fast-geek/Android-Tool) - *ABD / Fastboot Command Program*
@@ -176,6 +176,7 @@
 * [xShare](https://github.com/tsudoko/xshare) - *Screenshot Tool*
 * [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - *Audio Recorder*
 * [Voiceliner](https://a9.io/voiceliner/) - *Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)*
+* [Dicio](https://github.com/Stypox/dicio-android) - *Voice Assistant*
 * [openboard](https://github.com/dslul/openboard) - *FOSS Keyboard App*
 * [Grammarly](https://forum.mobilism.org/search.php?keywords=grammarly&sr=topics&sf=titleonly) - *Grammarly Keyboard Premium* 
 * [WiFiman](https://play.google.com/store/apps/details?id=com.ubnt.usurvey) - *Network Scanner*
@@ -212,6 +213,7 @@
 * [JulioverneHYI](https://julio.hackyouriphone.org/) - *Repository for Piracy Tools*
 * [Adebar](https://codeberg.org/izzy/Adebar) or [OAndBackupX](https://github.com/machiav3lli/oandbackupx) - *Device Backup Tool*
 * [Migrate](https://play.google.com/store/apps/details?id=balti.migrate) - *Migration Tool / Root Required*
+* [Unchained for Android](https://github.com/LivingWithHippos/unchained-android) - *App to interact with Real-Debrid API*
 * [Videoder](https://www.videoder.com/), [PowerTube](https://powertube.razar.app/) / [Git](https://github.com/razar-dev/PowerTube) or [DVD](https://github.com/yausername/dvd) - *Video Download Tool* 
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) or [SongTube](https://github.com/SongTube/SongTube-App) - *YouTube Audio / Video Downloader*
 * [Show Youtube Dislikes](https://github.com/jesperbakhandskemager/view-youtube-dislike) - *Return Youtube Dislikes*
@@ -224,6 +226,7 @@
 * [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - *Modded Instagram Client / [Telegram](https://t.me/instander)*
 * [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) - *Feature-rich Facebook Client*
 * [Frost](https://f-droid.org/en/packages/com.pitchedapps.frost/) or [SlimFacebook](https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook/) - *Facebook Webwrapper*
+* [NoFBEventScraper](https://github.com/akaessens/NoFbEventScraper) - *Scrape Facebook for Events without Account*
 * [SlimTwitter](https://f-droid.org/en/packages/it.rignanese.leo.slimtwitter/) - *Twitter Webwrapper*
 * [Shitter](https://github.com/nuclearfog/Shitter) or [Harpy](https://play.google.com/store/apps/details?id=com.robertodoering.harpy.free) - *Twitter Client*
 * [Twiger](https://twiger.launchaco.com/) - *Share Any Tweet on Instagram*
@@ -346,7 +349,7 @@
 * [PhoneAccount Abuse Detector](https://play.google.com/store/apps/details?id=space.linuxct.phoneaccountdetector) - *Android Emergency Calling Bug Check*
 * [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451) - *Custom Recovery Firmware Tool*
 * [TWRP Root](https://t.me/samsung_twrp_root/78379) - *TWRP Recovery Samsung*
-* [SamFirm A.I.O​](https://forum.xda-developers.com/t/tool-samfirm-a-i-o-tools-firmware-downloader-mtp-bypass-frp.4210103/) - *Firmware & FRP Bypass*
+* [SamFirm A.I.O​](https://forum.xda-developers.com/t/tool-samfirm-a-i-o-tools-firmware-downloader-mtp-bypass-frp.4210103/) or [Firmwareland](https://firmwareland.com/) - *Firmware & FRP Bypass*
 * [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) - *Extract OTP Tokens*
 * [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid) - *File Hash Calculator*
 * [SmartPack-Kernel-Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager) - *Kernel Manager*
@@ -395,6 +398,7 @@
 * [APK Award](https://apkaward.com/) - *Untouched*
 * [APK Sonic](https://apksonic.com/) - *Untouched*
 * [App Apks](https://www.appapks.net/) - *Untouched*
+* [APKDL](https://apkdl.in/) - *Untouched*
 * [APKMonk](https://www.apkmonk.com/) - *Untouched*
 * [APK Fab](https://apkfab.com/) - *Untouched*
 * [Android APK](https://android-apk.org/) - *Untouched / Modded* 
@@ -454,7 +458,9 @@
 * [ProSmart](https://prosmart.by/) - *Modded*
 * [King Games](https://ludokinggame.com/) - *Modded*
 * [ApkMagic](https://apkmagic.com.ar/) - *Modded* 
+* [ProAPK](https://proapk.in/) - *Modded*
 * [TheTechNisk](https://thetechnisk.in/) - *Modded*
+* [Modyolo](https://modyolo.com/) - *Modded*
 * [Appdroid](https://appdroid.io/) - *Modded*
 * [ApKGod](https://apkgod.net/) - *Modded* 
 * [p30afzar](https://dl.p30afzar.com/Games/) - *Modded Games*
@@ -731,6 +737,7 @@ RSS Player*
 * [Kayuri](https://github.com/Killerpac/Kayuri)
 * [Yukino](https://github.com/yukino-app/yukino)
 * [Akiyama](https://github.com/Fmaldonado6/Akiyama)
+* [Saikou](https://github.com/saikou-app/saikou) 
 * [OtakuWorld](https://github.com/jakepurple13/OtakuWorld)
 * [animity](https://github.com/kl3jvi/animity)
 * [no](https://github.com/deceptions/no) 
@@ -811,7 +818,6 @@ RSS Player*
 * [KF Panda-Player](https://apps.apple.com/us/app/kfpanda-player/id1460792262) - *Turn any site into a App, without the Ads* 
 * [1Blocker](https://1blocker.com/) - *Ablocker*
 * [Ka-Block!](http://kablock.com/) - *Adblocker*
-* [MYbloXX](https://myxxdev.github.io/depictions/MYbloXXforiOS/MYbloXXforiOS.html) - *Adblocker*
 * [Sanitize](https://apps.apple.com/ca/app/sanitize-ad-blocker/id1048309542) - *Adblocker* 
 * [BlockParty](https://github.com/krishkumar/BlockParty) - *Adblocker* 
 * [Swab](http://swabthe.com/) - *Adblocker* 
@@ -839,7 +845,7 @@ RSS Player*
 * [Lockdown iOS](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) - *iOS Firewall / [GitHub](https://github.com/confirmedcode/Lockdown-iOS)*
 * [PhantomVPN](https://rentry.co/PhantomVPNiOS) - *Free VPN*
 * [Anti-Social](https://apps.apple.com/us/app/faceblock-block-facebook/id1516200820) - *Block Social Media Trackers* 
-* [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669), [surespot](https://www.surespot.me/), [Status](https://status.im/), [Session](https://getsession.org/), [Confide](https://apps.apple.com/ca/app/confide-secret-messenger/id779883419) or [chatsecure](https://chatsecure.org/) - *Encrypted Messaging* 
+* [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669), [surespot](https://www.surespot.me/), [Status](https://status.im/), [Session](https://getsession.org/), [Confide](https://apps.apple.com/ca/app/confide-secret-messenger/id779883419), [Olvid](https://olvid.io/en/) or [chatsecure](https://chatsecure.org/) - *Encrypted Messaging* 
 * [Syphon](https://syphon.org/) - *Privacy Based Matrix Client / [GitHub](https://github.com/syphon-org/syphon)*
 * [Wickr](https://apps.apple.com/us/app/wickr-pro/id1200926568), [Jami](https://jami.net/), [MySudo](https://mysudo.com/) or [Element](https://apps.apple.com/app/vector/id1083446067) - *Encrypted Messaging / Video Calls*
 * [Bluer](https://apps.apple.com/us/app/bluer-for-facebook-messenger/id1490523710) - *Privacy-Based Facebook Client*
