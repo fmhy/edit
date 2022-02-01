@@ -19,10 +19,11 @@
 * **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** - *Device Repair Articles*
 * **[TuboTax Sucks Ass](http://turbotaxsucksass.net/)** or [FreeTaxUSA](https://www.freetaxusa.com/) - *File Taxes for Free*
 * **[BeMyEyes](https://www.bemyeyes.com/)** - *Assist the Visually Impaired* 
-* **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/) or [UN Data](https://data.un.org/) - *World Data & Statistics*
+* **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/) or [UN Data](https://data.un.org/) - *World Data & Statistics*
 * **[Our World in Data](http://ourworldindata.org/)** - *World Problem Database*
 * [Global Consciousness Project](https://gcpdot.com/) - *Real-Time Global Consciousness Data*
 * [Internet Live Stats](https://www.internetlivestats.com/) - *Live Internet Statistics*
+* [Statista](https://www.statista.com/) - *Market Statistics*
 * [OEC](https://oec.world/en) - *International Trade Data Visualization*
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - *World Birth / Death Rates Visualization*
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - *Gun Violence Information Database*
@@ -43,10 +44,10 @@
 * [How Many Days Since](http://howmanydayssince.net/) or [How Many Days Until](https://howmanydaysuntil.co/) - *Calculate Days Since a Date*
 * [e.gg Timer](https://e.ggtimer.com/) - *Timer*
 * [SetAlarmClock](https://setalarmclock.net/) - *Online Alarm Clock*
-* [Dashana](https://dashana.com/) or [ParaView](https://github.com/Kitware/ParaView) - *Data Visualization Tool*
+* [Dashana](https://dashana.com/), [DataWrapper](https://www.datawrapper.de/), [RAWgraphs](https://app.rawgraphs.io/) / [GitHub](https://github.com/rawgraphs/rawgraphs-app) or [ParaView](https://github.com/Kitware/ParaView) - *Data Visualization Tool*
 * [Grocy](https://grocy.info/) - *Grocery / Household Management Tool*
 * [Volmarg](https://volmarg.github.io/) - *Personal Management Tool*
-* [Focalboard](https://www.focalboard.com/), [Wekan](https://wekan.github.io/), [Kanboard](https://kanboard.org/) or [Dendron](https://www.dendron.so/) - *Project Management Tool*
+* [Focalboard](https://www.focalboard.com/), [Wekan](https://wekan.github.io/), [Kanboard](https://kanboard.org/), [Skiff](https://www.skiff.org/) or [Dendron](https://www.dendron.so/) - *Project Management Tool*
 * [GanttProject](https://www.ganttproject.biz/) - *Project Scheduling App*
 * [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - *To-Do List Apps*
 * [Creative Commons](https://creativecommons.org/) - *Creative Commons Licenses*
@@ -78,6 +79,7 @@
 * [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - *Wheel Randomizer*
 * [PollCode](https://pollcode.com/), [YoPolls](https://www.yopolls.com/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/) or [poal.me](https://poal.me/) - *Poll Creator*
 * [sli.do](https://www.sli.do/), [Feedbackr](https://www.feedbackr.io/) or [Trypingo](http://trypingo.com/) - *Live Polling Apps*
+* [Event Rally](https://rallly.co/) - *Collaborate and Vote on a Date to Host / [GitHub](https://github.com/lukevella/Rallly)*
 * [Diff Checker](https://www.diffchecker.com/) - *Check Differences in Text, Images, PDFs or Files*
 * [Find Your Place](https://where-is-this.com/) - *Find Places from Pictures*
 * [IRuler](https://iruler.net/) - *Turn your device into a Ruler*  
@@ -93,7 +95,6 @@
 * [ThistoThat](http://www.thistothat.com/) - *How to Glue Anything to Anything*
 * [My Car Makes Noise](http://mycarmakesnoise.com/) - *Diagnose Car Problems via Sounds* 
 * [Safe Substance](https://safesubstance.com/) - *Drug Combination Info / Harm Reduction* 
-* [HLDMSIYS?](http://howlongdoesmarijuanastayinyoursystem.net/) - *Drug Effect Duration / Testing Information*
 * [Stolen Camera Finder](https://www.stolencamerafinder.com/) - *Find Stolen Cameras* 
 * [Parcelsapp](https://parcelsapp.com/en/) or [17Track ](https://www.17track.net/en) - *International Package Tracking*
 * [Sweet Home 3D](http://www.sweethome3d.com/) - *Interior Design App*
@@ -171,6 +172,7 @@
 * [Translator++](https://dreamsavior.net/translator-the-introduction/) - *Automatic Translator / Editor*
 * [Poedit](https://poedit.net/) - *Translation Editor*
 * [OmegaT](https://omegat.org/) - *Translation Memory Tool*
+* [Project Naptha](https://projectnaptha.com/) - *Image to Text Translator*
 * [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - *Organize / Format Text*
 * [Delim](https://delim.co/) - *Comma Separating Tool*
 * [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - *Create Parallel text Web*
@@ -330,6 +332,7 @@
 * [Unscreen](https://www.unscreen.com/), [Remove Video Background](https://socialbook.io/remove-video-background) or [Remove Video BG](https://bgrem.deelvin.com/remove_video_bg/) - *Remove Video Background* 
 * [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - *Steam Movie-Making Tool*
 * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5) 
+* [Plyr](https://plyr.io/) - *Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)*
 * [zeroTube](http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb) - *Decentralized Video Platform on ZeroNet using WebTorrent + [GitHub](https://github.com/rllola/zeroTube/)*
 * [HoraHora](https://github.com/horahoradev/horahora) - *Self-Hosted Video Host*
 * [MotionMonkey](https://omega.gg/MotionMonkey/) - *Stream Online Videos in Player*
@@ -665,7 +668,7 @@
 * [Slink](https://slink.chat/) - *Aim Inspired Chat Client*
 * [Rocket Chat](https://rocket.chat/) - *Self-Hosted Chat Client*
 * [Delta Chat](https://delta.chat/en/) - *Email Based Messenger* 
-* [Conduit](https://gitlab.com/famedly/conduit) or [publiclist.anchel](https://archive.md/4xZE4) - *Matrix Home Servers* 
+* [Conduit](https://gitlab.com/famedly/conduit), [Matrix Servers](https://joinmatrix.org/servers/) or [publiclist.anchel](https://archive.md/4xZE4) - *Matrix Home Servers* 
 * [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) or [List of Matrix Servers](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html) - *Matrix Server List*
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - *Export Skype Chat Data to Readable Text*
@@ -678,6 +681,7 @@
 * [FireStorm Viewer](https://www.firestormviewer.org/) - *Virtual World Viewer*
 * [Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_sites) - *No Verification Required Email Sites*
 * [Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients) - *Send & Receive Mail*
+* [Postsack](https://github.com/terhechte/postsack) - *Email Visualizer*
 * [.edu Mail Guide](https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview), [Mail.mjj](https://mail.mjj.edu.ge/), [10MinMail](https://10minutesemail.net/) - *EDU Email Address'*
 * [BeFree](https://beefree.io/templates/free/) - *Email Templates*
 * [FreeMail](https://extrassl.actalis.it/portal/uapub/freemail?lang=en) - *Free Mail Certificate*
@@ -692,6 +696,7 @@
 * [Useplaintext](https://useplaintext.email/) - *How-To Use plaintext Email* 
 * [Briskine](https://www.briskine.com/) - *Email Templates*
 * [Signature Maker](https://signature-maker.net/) or [Email Signature Creator](https://kilobytetech.com/tools/email-signature-creator/) - *Email Signature Creator* 
+* [Mail-in a Box](https://mailinabox.email/) - *Self Host a Mail Server / [GitHub](https://github.com/mail-in-a-box/mailinabox)*
 * [Yandex Account Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - *Create Infinite Yandex Accounts*
 * [Gmail Dot Trick Generator](https://thebot.net/api/gmail/) - *Generate Unlimited Gmail Accounts via the Dot Trick*
 * [Delete Junk Email](https://gist.github.com/viperadnan-git/fcb0ecda32de0b9a27ec03829a7c12e8) - *Bulk Gmail Junk Deleter*
@@ -774,6 +779,7 @@
 * [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) - *Firefox Hidden Settings*
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - *Firefox Themes List*
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - *Firefox CSS Guides* 
+* [NightFox](https://github.com/snthcy/nightfox) - *Firefox Mac Theme*
 * [ThemeBeta](https://www.themebeta.com/) - *Change Chrome Theme*
 * [EdgeDeflector](https://github.com/da2x/EdgeDeflector) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect ) - *Force Open Default Browser*
 * [xBrowserSync](https://github.com/xbrowsersync/app) - *Sync Browser Data Browsers / Devices*
@@ -862,6 +868,7 @@ General Reading Sites*
 * [TMHunt](http://www.tmhunt.com/) - *Clothing Trademark Search*
 * [BrownBook](https://www.brownbook.net/) - *Business Listing Search*
 * [googler](https://github.com/jarun/googler) - *Search Google through your Terminal*
+* [txtai](https://neuml.github.io/txtai/) - *Build Semantic Search Apps*
 * [Whoogle](https://benbusby.com/projects/whoogle-search/) - *Self-Hosted Search Engine*
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - *GitHub Fork Search* 
 * [grep.app](https://grep.app/) - *Git Repository Search*
@@ -1088,7 +1095,7 @@ General Reading Sites*
 * [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - *VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)*
 * [Discord.io](https://discord.io/) or [dsc.gg](https://dsc.gg/) - *Create Custom Discord Invites*
 * [1337x-Bot ](https://github.com/brandongallagher1999/1337x-Bot) - *1337x Discord Bot*
-* [Chuu](https://github.com/ishwi/Chuu) - *Last.fm Discord Bot*
+* [Chuu](https://github.com/ishwi/Chuu) or [FMcord](https://discord.bots.gg/bots/521041865999515650) - *Last.fm Discord Bot*
 * [fmbot](https://fmbot.xyz/) - *Discord Voice Chat Scrobbling*
 * [Craig](https://craig.chat/) - *Voice Channel Recorder / [Backup(https://craig.chat/home/giarc)*
 * [Forms](https://gitlab.com/rubellite/engineering/forms ) - *Google Form Responses as Discord Embeds*
@@ -1129,6 +1136,7 @@ General Reading Sites*
 * [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - *Preview Role Colors Role*
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - *Encode videos to <8MB*
 * [Movata](https://movata.cc/) or [Discord Together](https://github.com/RemyK888/discord-together) - *Video Stream Sync / Watch Parties*
+* [MangaCord](https://top.gg/bot/751148743901970622?tab=overview) - *Read Manga on Discord [Disocrd](https://discord.gg/UtTJcWzCRe)*
 * [DiskCord](https://github.com/5ut/DiskCord) - *Host Files on External Sites to share via Discord*
 * [discord-logo](http://nntin.github.io/discord-logo) - *Discord Animated Logo Generator / [Discord](https://discord.gg/gDHs8AV)*
 * [LottieResizer](https://lottieresizer.tech/) - *Lottie Resizer*
@@ -1176,6 +1184,7 @@ General Reading Sites*
 * [Skeddy](https://skeddy.me/) - *Telegram Reminder Bot*
 * [GDUploadBot](https://t.me/gduploadbot) - *Telegram GDrive Upload Bot*
 * [GoogleDriveManagerBot](https://t.me/GoogleDriveManagerBo) - *Telegram GDrive Manager*
+* [clonebot](https://github.com/m4mallu/clonebot) - *Clone Media from Chats*
 * [ChecklyBot](https://t.me/checklybot) - *Checklist Telegram Bot*
 * [Shieldy Bot](https://t.me/shieldy_bot) - *Spam Protection Bot*
 * [Telegram Scraper](https://www.telegramscraper.com/) - *Telegram Member / Group Export*
@@ -1288,6 +1297,7 @@ General Reading Sites*
 * [BetterTTV](https://betterttv.com/) or [FrankerFacez](https://www.frankerfacez.com/) - *Twitch Enhancement Extension*
 * [Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f) - *Twitch Extension Index*
 * [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  *Download Twitch Videos* 
+* [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - *Recover, View & Download Twitch Videos*
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - *Lightweight Twitch Webplayer*
 * [Twitchls](https://twitchls.com/) - *HTML5 Twitch Stream Player* 
 * [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - *Alt Twitch Player* 
@@ -1363,7 +1373,7 @@ General Reading Sites*
 * [TwiMap](https://twimap.com/) - *Find Twitter Users Near You* 
 * [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) or [Invidition](https://codeberg.org/Booteille/Invidition) - *Redirects Twitter to Frontend*
 * [Yotter](https://yotter.kavin.rocks/) or [nitter](https://nitter.net/) - *Twitter Frontend* 
-* [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) or [Forget](https://forget.codl.fr/) - *Twitter Auto Post Delete*
+* [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia), [Semiphemeral](https://semiphemeral.com/) or [Forget](https://forget.codl.fr/) - *Twitter Auto Post Delete*
 * [MegaBlock](https://megablock.xyz/) - *Easily Block Twitter Users & Tweets*
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - *Delete Twitter Likes / Favorites* 
 * [Unfavinator](http://unfavinator.com/) - *Delete Twitter Favorites*
@@ -1409,7 +1419,8 @@ General Reading Sites*
 * [GetHuman](http://gethuman.com/) or [ContactFound](https://contactfound.com/) - *Tech Support Numbers*
 * [Disk Prices](https://diskprices.com/) - *Disk Price Tracker*
 * [Shucks](https://shucks.top/) - *External Drive Price Tracker*
-* [CPU Boss](http://cpuboss.com/) - *CPU Comparison Tool*
+* [Technical City](https://technical.city/) - *Hardware Comparisions*
+* [CPU Boss](http://cpuboss.com/) - *CPU Comparisons*
 * [DeviceTests](https://devicetests.com/) - *Multiple Device Tests*
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - *Mouse Click Latency Chart*
 * [Sensor.fyi](https://sensor.fyi/info/) - *Mouse Guide / Information*
@@ -1548,6 +1559,8 @@ General Reading Sites*
 * [f.lux](https://justgetflux.com/), [LightBulb](https://github.com/Tyrrrz/LightBulb) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - *Adjust Display Color / Temperature*
 * [Twinkle Tray](https://twinkletray.com/) - *System Tray Brightness Slider*
 * [Dimmer](https://www.nelsonpires.com/software/dimmer) - *Multi-Monitor Brightness Control*
+* [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - *Dual Monitor Manager*
+* [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - *Show Desktop For Only One Monitor*
 * [ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - *Desktop Program, Video & Webpage Pins / Program Wallpapers*
 * [Plumb](https://palatialsoftware.com/plumb/), [nog](https://github.com/TimUntersberger/nog), [bug.n](https://github.com/fuhsjr00/bug.n), [GridMove](https://www.dcmembers.com/jgpaiva/), [Amethyst Windows](https://github.com/glsorre/amethystwindows), [yatta](https://github.com/LGUG2Z/yatta), [WorkSpacer](https://www.workspacer.org/), [TileMe](https://gitlab.com/slavoutich/tileme) or [WindowsGrid](http://windowgrid.net/) - *Window Grid / Tiling Program* 
 * [WindowTop](https://windowtop.info/) - *Window Manager*
@@ -1653,7 +1666,6 @@ General Reading Sites*
 * [Bypass Win11 Requirements](https://github.com/osx86-ijb/bypass-windows11-requirements) - *How-To Bypass Windows 11 System Requirements*
 * [Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) - *Windows 11 System Requirements Bypasser*
 * [Win11DevBypass](https://github.com/rushiranpise/win11devbypass) - *Bypass Win 11 Dev Channel Restrictions*
-* [Win11.vercel](https://win11.vercel.app/), [Rajaniraiyn](https://rajaniraiyn.github.io/windows11/) or [Win11 in React](https://win11.blueedge.me/)/ [GitHub](https://github.com/blueedgetechno/win11React) - *Online Windows 11 Simulator*
 * [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - *Windows 11 Powertoys*
 * [ElevenClock](https://github.com/martinet101/ElevenClock) - *Windows 11 Secondary Monitor Clock*
 * [Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - *Windows 11 Drag & Drop Fix*
@@ -1662,7 +1674,7 @@ General Reading Sites*
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) - *Operating System / Software History / [Discord](https://discord.gg/XPz5Zm42tR)*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
 * [GetCID](https://www.getcid.info/) - *Obtain Windows Confirmation ID*
-* [Fliqlo](https://fliqlo.com/screensaver/) - *Clock Screensaver*
+* [Fliqlo](https://fliqlo.com/screensaver/) or [Flipit](https://github.com/phaselden/FlipIt) - *Clock Screensaver*
 * [How-To Make Microsoft Activation Server](https://mananapr.github.io/microsoft_activation.html) 
 * [Technical Documentation](https://docs.microsoft.com/en-us/documentation/) - *Microsoft Technical Documentations*
 * [TeslaMotors](https://github.com/teslamotors) - *Tesla System Repositories*
@@ -1750,7 +1762,7 @@ General Reading Sites*
 * **[PDF Editors / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pdf_editors_.2F_toolkits)**
 * [downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - *Multi-Site Downloaders*
 * [Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools) - *File Tools for Telegram*
-* [FreeOnlineEditor](https://freeonlineeditor.com/) - *Multiple File Tools*
+* [FreeOnlineEditor](https://freeonlineeditor.com/) or [TinyWow](https://tinywow.com/) - *Multiple File Tools*
 * [horsicq](https://horsicq.github.io/) - *Multiple File Programs / [GitHub](https://github.com/horsicq/)*
 * [Pandoc](https://pandoc.org/) or [CometDocs](https://www.cometdocs.com/) - *Document Converter* 
 * [Interior Generator](https://powerkdp.com/interior-generator/) / [2](https://designer.bookbolt.io/interior-generator.php) - *Document Interior Generator*
@@ -1858,6 +1870,7 @@ General Reading Sites*
 * [gDrive-DirectLink](https://github.com/jagrit007/gDrive-DirectLink) or [google-drive-direct-link-generator](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - *GDrive File Direct Link Generator*
 * [Google Drivac](https://github.com/Data-Horde/gdrivac) - *Associate Gdrive Account with URL List*
 * [Attribute Changer](https://www.petges.lu/) - *Edit File & Folder Properties*
+* [TagSpaces](https://www.tagspaces.org/) - *Add Tags to File and Folders*
 * [Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/), [Fast-Duplicate-File-Finder](https://www.mindgems.com/products/Fast-Duplicate-File-Finder/Fast-Duplicate-File-Finder-About.htm), [ashisoft](https://www.ashisoft.com/), [dupscout](https://www.dupscout.com/dupscout_search_duplicate_files.html), [wisecleaner](https://www.wisecleaner.com/wise-duplicate-finder.html), [clonespy](https://www.clonespy.com/), [AllDup](http://www.alldup.info/) or [dupeGuru](https://dupeguru.voltaicideas.net/) - *Duplicate File Finder* 
 * [TMSU](https://github.com/oniony/TMSU) or [SuperTag](https://github.com/amoffat/supertag) - *Tag-Based Filesystem* 
 * [Bulk File Renamers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bulk_file_renamers) - *Easily Rename Multiple Files*
@@ -1891,9 +1904,9 @@ General Reading Sites*
 * [Random Executor](https://sneakysnail.net/random-executor/) - *Random File Executor* 
 * [HeavenTools](http://www.heaventools.net/) - *PE File Editor*
 * [AXEL](https://github.com/axel-download-accelerator/axel) - *Lightweight CLI Download Accelerator* 
-* [HxD](https://mh-nexus.de/en/hxd/) or [Hexinator](https://hexinator.com/) - *Hex Editor*
+* [HxD](https://mh-nexus.de/en/hxd/), [Hex Works](https://hex-works.com/eng) or [Hexinator](https://hexinator.com/) - *Hex Editor*
 * [webhex.net](https://en.webhex.net/) - *Online Hex Viewer*
-* [HexEd.it](https://hexed.it/) - *Online Hex Editor*
+* [HexEd.it](https://hexed.it/) or [Online Hex Editor](https://www.onlinehexeditor.com/) - *Online Hex Editor*
 * [infekt](https://infekt.ws/) or [NFOmation](https://nfomation.net/) - *NFO File Viewer*
 * [text2img](https://master.ayra.ch/text2img/) - *NFO Files to Image Converter*
 * [Linx Server](https://github.com/andreimarcu/linx-server), [FileCream](https://filecream.com/) or [FileStash](http://www.filestash.app/) - *Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)*
