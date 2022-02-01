@@ -213,6 +213,7 @@
 * [Howdy](https://github.com/boltgolt/howdy) - *Linux Facial Authentication*
 * [Tomb](https://www.dyne.org/software/tomb/) - *File Encryption*
 * [SShuttle](https://github.com/sshuttle/sshuttle) - *Proxy Server*
+* [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - *Secure Linux Server Guide*
 * [BhanUpratpys](https://github.com/bhanupratapys/dnswarden) - *DNS Adblocking*
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - *Arch Linux base with Deluge, Privoxy & OpenVPN*
 * [Spotify-Adblock](https://github.com/abba23/spotify-adblock) - *Linux Spotify Adblocker*
@@ -341,6 +342,7 @@
 * [Meeter](https://trymeeter.com/) - *Video Meeting Manager*
 * [Gifski](https://sindresorhus.com/gifski) - *Image to GIF Converter / [GitHub](https://github.com/sindresorhus/Gifski)*
 * [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - *Image & Video Editor*
+* [Kap](https://github.com/wulkano/Kap) - *Screen Recorder*
 * [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - *Audio Editor*
 * [XLD](https://sourceforge.net/projects/xld/) - *Lossless Audio Transcoder*
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - *Image Editor* 
@@ -372,6 +374,7 @@
 # ► Mac Adblock / Privacy
 
 * [macOS Security Tools](https://github.com/ashishb/osx-and-ios-security-awesome) - *Mac Security Tools*
+* [MacOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - *Mac Privacy & Security Guides*
 * [Obsidian](https://obsidianapp.io/) - *Two-Factor Authentication*
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - *Block Ads via Host Files*
 * [Adguard DNS](https://cdn.adguard.com/public/Dns/adguard-dns.mobileconfig/) - *Adblocking Profile*
@@ -405,6 +408,7 @@
 * [MacDownload](https://www.macdownload.org/) 
 * [InsMac](https://www.insmac.org/) 
 * [MacX](https://www.macx.ws/) 
+* [Downmienphi](https://downmienphi.com/)
 * [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 * [WebCatalog](https://webcatalog.io/)
