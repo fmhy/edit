@@ -80,6 +80,7 @@
 * [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) or [Electron](https://www.electronjs.org/apps) - *Web App Index*
 * [CloudTrip](http://cloudtrip.com/) - *Cloud App Index*
 * [State of the DApps](https://www.stateofthedapps.com/) - *Blockchain App Index* 
+* [Open Sustainable Technology](https://opensustain.tech/) - *Sustainable Tech Project Index*
 * [List of Lists](https://l-lists.com/en/) - *List Index*
 * [Pointless Sites](https://www.pointlesssites.com/) - *Pointless Site Index*
 * [Websites From Hell](https://websitesfromhell.net/) - *Shitty Website Index*
@@ -404,7 +405,8 @@
 * [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - *Steer through the Suez Canal*
 * [Moments of Happiness](https://moments.epic.net/) - *Animated WebGL Animals*
 * [Planet](http://oskarstalberg.com/game/planet/planet.html) - *Planet Creator*
-* [What Happened in my Birthyear](http://whathappenedinmybirthyear.com/) - *Find out what happened on your birthyear* 
+* [What Happened in my Birthyear](http://whathappenedinmybirthyear.com/) - *Find out what happened on your Birth Year* 
+* [Pushing Pixels](https://www.pushing-pixels.org/fui/) or [Saji8k](https://www.saji8k.com/kit-fui/) - *Imaginary UI from Movies*
 * [WTM](https://whatthemovie.com/) - *Guess Movie from Screenshot* 
 * [Kittenwar!](http://www.kittenwar.com/) - *Rate Kittens*
 * [FFACE](https://fface.co/) - *Rate Dumb Faces*
@@ -922,6 +924,7 @@
 * [MaisFontes](https://en.maisfontes.com/) 
 * [World of Fonts](https://w.itch.io/world-of-fonts)
 * [BestFonts](https://bestfonts.pro/) 
+* [Font Collection](https://mega.nz/folder/wzYFiYJQ#QGzohLivw1ahdExps1cQWA) 
 * [13000 Fonts](https://drive.google.com/file/d/0B7ONEAEXwPaqc2g4UEdzbmZETG8/edit?resourcekey=0-Yk36oMN7u93Pst1xn5_z8A) 
 * [10k Font Collection](https://drive.google.com/file/d/1YJiuTFPXGyz7WLw_lq08EXgdibZJu7E8/view)
 * [10000+ Fonts Collection ](https://drive.google.com/drive/u/0/mobile/folders/17HgeWGONAjR0U9knsv3qDS3734zOZr9z)
@@ -1164,6 +1167,7 @@
 * [Hover](https://chrome.google.com/webstore/detail/hover/eiiibfemcfcehadokcldlcdljfdlmolj) - *Link Previews*
 * [Multimedia Search](https://multimediasearchapp.com/) - *Browser File Search*
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
+* [Selectable](https://chrome.google.com/webstore/detail/selectable-for-fanfiction/jcidlhgdoojamkbpmhbpgldmajnobefd?ucbcb=1) - *Force Enable Select Text*
 * [Night Shift Redux](https://nightshift.lu/) - *Adapts Display Color to Time of Day*
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
 * [Wheel Smooth Scroller](https://chrome.google.com/webstore/detail/chromium-wheel-smooth-scr/khpcanbeojalbkpgpmjpdkjnkfcgfkhb?hl=en) - *Smooth Scrolling*
@@ -1239,6 +1243,7 @@
 * [Google Cleaner](https://greasyfork.org/en/scripts/33313-google-cleaner) - *Minimalist Google*
 * [altsearch links](https://greasyfork.org/en/scripts/13542-altsearch-links) - *Adds General Search Engines to Results*
 * [Microsoft Store Direct Download](https://greasyfork.org/en/scripts/394420-microsoft-store-direct-download) - *Microsoft Store Direct Downloads*
+* [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5) 
 * [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) - *Imageboards Features / [Themes](https://github.com/KevinParnell/OneeChan) / [GitHub](https://github.com/ccd0/4chan-x)* 
 * [Extra Flags for 4chan](https://gitlab.com/flagtism/Extra-Flags-for-4chan) - *Add More Flags to 4chan*
 * [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - *Google Search Endless Scrolling* 
