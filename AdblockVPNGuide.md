@@ -123,6 +123,7 @@
 * [Phish.ly](https://phish.ly/) - *Scan Suspicious Emails*
 * [Any.Run](https://any.run/) - *Interactive Malware Sandbox*
 * [testsafebrowsing](https://testsafebrowsing.appspot.com/) - *Safe Browsing Testing Links* 
+* [Standaloneinstaller](https://standaloneinstaller.com/) - *Check Software Safety*
 * [Dangerzone](https://dangerzone.rocks/) - *Convert dangerous PDF to safe PDF*
 * [ThreatMap](https://threatmap.checkpoint.com/) - *Live Malware Distribution Map*
 * [VirusShare](https://virusshare.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - *Malware Search*
