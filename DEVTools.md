@@ -24,6 +24,8 @@
 * [RedHat](https://developers.redhat.com/) - *Development Tutorials*
 * [Roadmap](https://roadmap.sh/) - *Developer Roadmaps / Guides* 
 * [DecodingDevOps](https://www.decodingdevops.com/) - *Developer Q&A*
+* [hackingworld.best](https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg) - *IT Courses*
+* [IT Courses Collection](https://mega.nz/folder/TDozVaoD#2qK5YTtpg6dmkqye2C2Kfg) - *IT Courses*
 * [Python Discord](https://pythondiscord.com/resources/) - *Python Learning Resources*
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - *Python Guide*
 * [CodingBat](https://codingbat.com/) - *Python / Java Practice*
@@ -36,6 +38,7 @@
 * [Tea Press](https://greenteapress.com/wp) - *Free Python Learning Books Green*
 * [VSCode.one](https://vscode.one/) - *VS Code Tutorials*
 * [Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - *Programming & Development Learning Channels*
+* [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - *Code Algorithms & Data Structures Tutorials*
 * [Aquent Gymnasium](https://thegymnasium.com/) - *Courses* 
 * [SchoolOfHaskell](https://www.schoolofhaskell.com/) - *Haskell Tutorials* 
 * [QuickRef.ME](https://quickref.me/), [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - *Developer Cheat Sheets*
@@ -46,9 +49,11 @@
 * [GeeksforGeeks](https://www.geeksforgeeks.org/) - *Programming / Coding Tutorials*
 * [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - *Coding Learning Resources*
 * [30 Seconds of Code](https://www.30secondsofcode.org/) - *Coding Snippets / Guides* 
+* [Codexplainer AI](https://chrome.google.com/webstore/detail/codexplainer-ai-beta/mekadgeckpcgideipfhbcapmenbadejp) - *Code Explanations*
 * [RoboMind](https://www.robomind.net/) - *Code Learning Game*
 * [Tuts 4 You](https://forum.tuts4you.com/) - *Coding / Developer Tutorials*
 * [PythonTutor](https://pythontutor.com/) - *Coding Tutorials*
+* [Code With Mosh Courses](https://mega.nz/folder/9ZckiLLJ#jH3CcsgJ1q5StsPC29zP-Q)
 * [DefendTheWeb](https://defendtheweb.net/) - *Cyber Security Challenges*
 * [VSCodeCanDoThat](https://www.vscodecandothat.com/) - *VSCode Tutorial*
 * [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - *Programming Cheat Sheets*
@@ -56,6 +61,7 @@
 * [EbookFoundation Interactive Programming Tuts](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md) - *Interactive Programming Tutorials* 
 * [Exercism](https://exercism.org/) - *Programming Lessons*
 * [Nayuki](https://www.nayuki.io/) - *Programming Tutorials*
+* [W3Schools Offline](https://github.com/Ja7ad/W3Schools) - *Programming Tutorials*
 * [Codings Point](https://www.codingspoint.com/) - *Programming Tutorials*
 * [Hackr.io](https://hackr.io/) - *Programing Tutorials*
 * [Phrozen](https://www.phrozen.io/) - *Programming Guides*
@@ -91,7 +97,7 @@
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) - *Rust Programming  Guidebook*
 * [JavaScript.info](https://javascript.info/) - *JavaScript Guide* 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - *Javascript Learning Books*
-* [EloquentJavascript](https://eloquentjavascript.net/) or [Grasshopper](https://grasshopper.app/) - *Learn Javascript*
+* [EloquentJavascript](https://eloquentjavascript.net/), [FunJavascript](https://fun-javascript-projects.com/) or [Grasshopper](https://grasshopper.app/) - *Learn Javascript*
 * [JavaScriptQuiz](https://javascriptquiz.com/) - *JavaScript Quiz*
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - *Node.js Guide / Tips*
 * [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - *Javascript Query Style Events Guide*
@@ -152,6 +158,7 @@
 * [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/)  - *Developer Forum* 
 * [The Devs Network](https://thedevs.network/) - *Developer Chat*
 * [mark.show](https://mark.show/) or [sli.dev](https://sli.dev/) - *Markdown to Slideshow*
+* [Volume](https://www.volumestories.com/) - *Create Immersive Reading Experiences*
 * [daily.dev](https://daily.dev/) - *Replace New Tab Page with Developer Articles* 
 * [Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites) - *Download Icons for Projects*
 * [The Favicon Finder](https://besticon.herokuapp.com/) - *Find Favicons on Sites*
@@ -182,7 +189,6 @@
 * [Ainize](https://ainize.ai/) - *Launchpad for open-source AI projects*
 * [DBeaver](https://dbeaver.io/) - *Universal Database Tool*
 * [Awesome Big Data](https://github.com/0xnr/awesome-bigdata) - *Big Data Resource Index*
-* [DoIt](https://github.com/dolthub/dolt) - *SQL Database* 
 * [Libraries.io](https://libraries.io/) - *Package, Framework & Tool Search*
 * [Deps.dev](https://deps.dev/) - *Open-Source Package Search*
 * [PackageCloud](https://packagecloud.io/) or [pnpm](http://pnpm.io/) - *Package Manager / Deployment*
@@ -249,9 +255,12 @@
 * [Visual Mind AI](https://myraah.io/index.php/visualmind) - *Site Visual Score*
 * [Carbon Calculator](https://www.websitecarbon.com/) - *Estimate Sites Carbon Footprint*
 * [Rest Test Test](http://resttesttest.com/) - *Test REST/CORS Services*
+* [HeidiSQL](https://www.heidisql.com/) - *SQL Manager*
 * [httpbin](https://httpbin.org/) - *HTTP Request & Response Service*
 * [RemoteMySQL](https://www.remotemysql.com/) - *Remote MySQL Database*
 * [DB4Free](https://db4free.net/) - *MySQL Testing*
+* [DoIt](https://github.com/dolthub/dolt) - *SQL Database* 
+* [NocoDB](https://www.nocodb.com/) - *Turn Database into Smart Spreadsheet / [GitHub](https://github.com/nocodb/nocodb)*
 * [PooShock](https://pooshock.ru/) - *Apache 2 Test Page*
 * [WebAuthn](https://webauthn.io/) - *Data Security Authentication API*
 * [Spiderfoot](https://www.spiderfoot.net/) - *Automate OSINT*
@@ -322,7 +331,7 @@
 * [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - *CSS Shadow Generator*
 * [MapBox](https://www.mapbox.com/) - *Live Maps, Location Search & More*
 * [Maps-Core](https://openmobilemaps.io/) - *Mobile Map SDK*
-* [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [99Inbound](https://www.99inbound.com/), [Form.taxi](https://form.taxi/) or [Formsend](https://formsend.org/) - *Form Creator*
+* [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [99Inbound](https://www.99inbound.com/), [Forms.id](https://forms.id/), [Form.taxi](https://form.taxi/) or [Formsend](https://formsend.org/) - *Form Creator*
 * [Loading.io](https://loading.io/) - *Customizable Loading SVG*
 * [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/) - *Helps Generate Privacy Policies* 
 * [Medusa](https://github.com/medusajs/medusa) - *Digital Commerce Development Tool*
@@ -341,7 +350,6 @@
 * [LightTPD](http://www.lighttpd.net/) or [Caddy](https://caddyserver.com/) - *Web Server*
 * [HTTP Server](https://httpd.apache.org/) - *HTTP Server Apache*
 * [SyAgent](https://syagent.com/) - *Server Monitor*
-* [HeidiSQL](https://www.heidisql.com/) - *SQL Manager*
 * [CodeMyUI](https://codemyui.com/) - *User Interface Code Snippets*
 * [Lepton](https://hackjutsu.com/Lepton/) - *Code Snippet Manager / [GitHub](https://github.com/hackjutsu/Lepton)*
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - *Captcha Systems*
@@ -363,6 +371,7 @@
 * [Amazon S3](https://aws.amazon.com/s3) - *Cloud Object Storage Amazon Simple Service Storage*
 * [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - *Email Verification Service*
 * [Hosts.cx](https://hosts.cx/) - *Website Previews*
+* [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/ospfranco/link-preview-js) - *Create Link Previews*
 * [IP Intelligence](http://getipintel.com/) - *Proxy / VPN / Bad IP Detection*
 * [V2Ray](https://www.v2ray.com/) - *Proxy Software / [Android](https://github.com/eycorsican/kitsunebi-android)*
 * [ipinfo.io](https://ipinfo.io/) - *IP Data API*
@@ -372,6 +381,7 @@
 * [TrackMyBacklink](https://trackmybacklink.com/) - *Backlink Tracker*
 * [Wappalyzer](https://www.wappalyzer.com/) - *Identify Technologies on Websites* 
 * [Bubble](https://bubble.io/), [WeWeb](https://www.weweb.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Create-react-app](https://github.com/facebook/create-react-app) or [Sktch.io](https://sktch.io/) - *Create Web Apps* 
+* [Sandstorm](https://sandstorm.io/) or [CloudRon](https://www.cloudron.io/) - *Web App Host*
 * [PWABuilder](https://www.pwabuilder.com/) - *Turn Site into Progressive Web App*
 * [LightHouse](https://github.com/GoogleChrome/lighthouse) - *Web App Performance Test*
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - *Break Your Web Apps to Improve Them*
@@ -437,11 +447,13 @@
 * [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - *App Development Platform / [GitHub](https://github.com/xamarin)*
 * [Framer](https://www.framer.com/) - *Interactive Site / App Design Tool*
 * [Docker](https://www.docker.com/) - *Build, Manage & Run Apps in Containers / [Images](https://linuxserver.io/)*
+* [Fastlane](https://fastlane.tools/) - *App Development Automation*
 * [I wish there was app](https://iwishtherewas.app/) - *Get App Ideas From Twitter*
 * [Blisk](https://blisk.io/) - *Cross-Device Testing*
 * [Booster](https://github.com/didi/booster) - *Mobile App Optimization*
 * [Mobbin](https://www.mobbin.design/) - *Mobile App Design Reference Library*
 * [Hmanager](https://play.google.com/store/apps/details?id=com.chsappz.hmanager) - *Manage Your Heroku Accounts*
+* [Heroku Duo](https://heroku.viperadnan.gq/duo) - *Run Heroku Apps Forever / [Alternate](https://github.com/tiararosebiezetta/HerokuDynoSwitcher)*
 * [Kaffeine](http://kaffeine.herokuapp.com/) - *Heroku Auto Ping*
 * [Xcode](https://developer.apple.com/xcode/) - *Test and Build iOS / iPadOS Apps*
 * [IconKitchen](https://icon.kitchen/) or [AppIcon](https://appicon.co/)- *App Icon Generator*
@@ -477,7 +489,7 @@
 
 * [Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources), [Magic Tools](https://github.com/ellisonleao/magictools) or [Awesome Gamedev](https://github.com/mbrukman/awesome-gamedev) - *Game Development Resources*
 * [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - *Basic Game Development Concepts*
-* [Godot](https://godotengine.org/), [Defold](https://defold.com/), [Cave Engine](https://unidaystudio.itch.io/cave-engine), [OpenXRay](https://github.com/OpenXRay) or [ursina engine](https://www.ursinaengine.org/) - *Game Engine*
+* [Godot](https://godotengine.org/), [Defold](https://defold.com/), [Cave Engine](https://unidaystudio.itch.io/cave-engine), [Engine Bevy](https://bevyengine.org/), [OpenXRay](https://github.com/OpenXRay) or [ursina engine](https://www.ursinaengine.org/) - *Game Engine*
 * [Playerio](https://playerio.com/) - *Online Game Engine*
 * [RPG Playground](https://rpgplayground.com/) - *Simple RPG Creator*
 * [Game-Editor](http://game-editor.com/Main_Page), [microStudio](https://microstudio.itch.io/microstudio) or [BuildBox](http://buildbox.com/) - *Game Creators*
@@ -538,6 +550,7 @@
 * [HTML Reference](https://htmlreference.io/) - *HTML Guide* 
 * [HTML Compressor](https://htmlcompressor.com/compressor/)
 * [HTML Notepad](https://html-notepad.com/) - *HTML Editor*
+* [Broken Link Checker](https://github.com/stevenvachon/broken-link-checker) - *Find Broken Links in HTML*
 * [Markup Validation Service](https://validator.w3.org/) - *Validate Your Markup Language Structure*
 * [typeset](https://typeset.lllllllllllllllll.com/) - *HTML Typography Pre-Processor*
 * [TryIt HTML](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro), [CodeTester](http://codetester.org/), [HTML-Online](https://html-online.com/editor/), [html.cafe](https://html.cafe/) or [jsTester](https://www.cs.iupui.edu/~ajharris/webprog/jsTester.html) - *Online HTML Editors / Testers* 
@@ -580,9 +593,10 @@
 
 * **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)** - *List Index*
 * [Git Explorer](https://gitexplorer.com/) - *Git Command List*
-* [GitHub Desktop](https://desktop.github.com/) - *GitHub Desktop App*
+* [GitHub Desktop](https://desktop.github.com/) or [Tower](https://www.git-tower.com/) - *GitHub Client*
 * [GitHub.Dev](https://github.dev/) - *GitHub Web App*
 * [refined-github](https://github.com/refined-github/refined-github) or [Ungit](https://github.com/FredrikNoren/ungit) - *Improved GitHub Interface*
+* [Stefan Buck](https://stefanbuck.com/awesome-browser-extensions-for-github) - *GitHub Browser Extensions / [GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github/)*
 * [git.io](https://git.io/) - *GitHub URL Shortener*
 * [up-for-grabs](https://up-for-grabs.net/) - *Curated List of Tasks for New Contributes*
 * [GitHub-Userscripts](https://github.com/Mottie/GitHub-userscripts) - *GitHub Userscripts*
@@ -622,6 +636,7 @@
 * [ReadmeGallery](http://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/) - *GitHub Remdme Gallery Creator*
 * [readme.so](https://readme.so/) - *Readme Markdown Editor*
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - *Dynamically Generated GitHub Readme Stats* 
+* [GitHub Contribution Graph](https://github.com/ez4o/github-contribution-graph) - *Add GitHub ReadMe Contribution / Commit Graph*
 * [GIT Quick Stats](https://git-quick-stats.sh/) - *View Git Statistics / [GitHub](https://github.com/arzzen/git-quick-stats)*
 * [GitHub Release Downloads](https://github.com/addshore/browser-github-release-downloads) - *GitHub Release Download Counter*
 * [Shields.io](https://shields.io/) - *Metadata badges for Github Readmes*
@@ -657,7 +672,7 @@
 * [ColorHexa](https://www.colorhexa.com/) - *Color Hex Encyclopedia*  
 * [Paletton](https://paletton.com/) - *Color Scheme Designer*
 * [Duo](https://duo.alexpate.uk/) - *Color Combinations*
-* [PaletteGenerator](https://palettegenerator.com/) - *Color Palette Extractor*
+* [PaletteGenerator](https://palettegenerator.com/) or [Alwane](https://alwane.io/) - *Color Palette Extractor*
 * [ColorZilla](https://www.colorzilla.com/) - *Color Picker, Gradient Generator & more*
 * [Colordot](http://color.hailpixel.com/) or [Sorted Colors](https://enes.in/sorted-colors/) - *Color Picker*
 * [Webgradients](https://webgradients.com/) - *Gradients*
@@ -711,6 +726,7 @@
 * [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - *Visual Studio Code Extensions* 
 * [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - *Visual Studio Code Python Language Extension / [Performant Language](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)*
 * [Python Mini Projects](https://github.com/Python-World/python-mini-projects) - *Python Scripts*
+* [Pysnake Blog](https://pysnakeblog.blogspot.com/) - *Python Projects*
 * [Python Patterns](https://python-patterns.guide/) - *Python Design Patterns*
 * [Dodgy](https://github.com/landscapeio/dodgy) - *Find PWs & Diffs in Python Code*
 * [Pyright](https://github.com/microsoft/pyright) - *Static Type Checker for Python*
