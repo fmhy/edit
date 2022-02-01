@@ -147,10 +147,12 @@ https://hdaudiobooks.com/
 * [eBook Junkie](https://www.ebookjunkie.com/) - *Books*  
 * [Sharing eBook](https://www.sharingebook.com/) - *Books* 
 * [DigitalBook](https://www.digitalbook.io/) - *Books*
+* [Goodfileshare](https://goodfileshare.com/) - *Books*
 * [FeedBooks](http://m.feedbooks.com/publicdomain) - *Books*
 * [eBook Lobby](http://www.ebooklobby.com/) - *Books*  
 * [1Lib](https://1lib.limited/) - *Books*
 * [Avalon Library](https://avalonlibrary.net/) - *Books*
+* [D-PDF](https://d-pdf.com/) - *Books*
 * [Free eBooks](http://www.freebooks.com) - *Books* 
 * [Read Any Book](https://read-any-book.com/) - *Books*
 * [GrayCity](https://graycity.net/) - *Books*
@@ -387,7 +389,8 @@ https://hdaudiobooks.com/
 * **[MyAnonaMouse](https://www.myanonamouse.net/)** - *[Interviews](https://www.myanonamouse.net/inviteapp.php)*
 * **[Digitalbookindex](http://www.digitalbookindex.org)**
 * **[AcademicTorrents](https://academictorrents.com/)**
-* **[IvyPanda](https://ivypanda.com/blog/1000-open-textbooks-and-learning-resources-for-all-subjects/)** - *List of educational sites*
+* **[IvyPanda](https://ivypanda.com/blog/1000-open-textbooks-and-learning-resources-for-all-subjects/)** - *List of Educational Sites*
+* **[Everything I Know](https://wiki.nikitavoloboev.xyz/)** - *Articles Sorted by Topic*
 * **[Math Resource Guide](https://free-math-resources.netlify.app/)** - *Curated list of math resources by /u/javacoder19*
 * **[Language Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_language_learning)** - *Language Learning Tools, Books & Sites*
 * [Math and Physics Books](https://drive.google.com/drive/folders/1Z30-9EO6B0oEuFHYMKUzzzEO6p82-dYU) - *[Discord](https://discord.gg/v23hTtx)*
@@ -562,6 +565,7 @@ https://hdaudiobooks.com/
 * [EbookFoundation Programming Books](https://github.com/EbookFoundation/free-programming-books/) 
 * [Free-Python-Books](https://github.com/oddsun/Free-Python-Books)
 * [free-python-books](https://github.com/pamoroso/free-python-books)
+* [Go Books](https://github.com/dariubs/GoBooks) - *GoLang Books*
 * [JSBooks](https://jsbooks.revolunet.com/) - *Javascript Books*
 * [DevDocs](https://devdocs.io/) - *API Documentation*
 * [Bzdnbot](https://t.me/Bzdnbot) - *Telegram* 
@@ -715,6 +719,7 @@ https://hdaudiobooks.com/
 * [Thsrs](http://www.ironicsans.com/thsrs/) - *Synonyms*
 * [WikiDiff](https://wikidiff.com/) - *Difference Between Any Words* 
 * [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - *Search for Words Using Their Meanings* 
+* [DoesNotTranslate](https://doesnottranslate.com/) - *Words with No Translation*
 * [Tip of my Tounge](https://chir.ag/projects/tip-of-my-tongue/) - *Find Words you Can't Remember*
 * [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html) - *Philosophy Encyclopedia / [Search](https://www.visualizingsep.com/)*
 * [Focal](http://www.focal.ie/) - *Irish Word Dictionary*
@@ -740,6 +745,7 @@ https://hdaudiobooks.com/
 * [FreeMdict](https://freemdict.com/) - *Dictionary Downloads / [Forum](https://forum.freemdict.com/) / [Archive](https://downloads.freemdict.com/)* 
 * [pdawiki](https://www.pdawiki.com/forum/) - *Dictionary Downloads / Use WeChat for invite* 
 * [Goldendict](http://www.goldendict.org/) - *Dictionary Program*
+* [wikipedia_ql](https://github.com/zverok/wikipedia_ql) - *Wiki Data Extraction*
 
 ***
 
@@ -905,6 +911,7 @@ https://hdaudiobooks.com/
 * [MangaUpdates](https://www.mangaupdates.com/) - *Manga Release Updates*  
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
 * [MangaEditor](https://moeka.me/mangaEditor/) - *Online Manga Editor*
+* [MangaCord](https://top.gg/bot/751148743901970622?tab=overview) - *Read Manga on Discord [Disocrd](https://discord.gg/UtTJcWzCRe)*
 * [Anity](https://redd.it/g372gu), [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en), [manga-translator](https://github.com/cameronkinsella/manga-translator) or [Scanlate](https://scanlate.io/) - *Manga Translator*
 * [Tenma](https://github.com/Tenma-Server/Tenma), [Mango](https://github.com/hkalexling/Mango) or [Komga](https://komga.org/) - *Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)*
 * [Onodera](https://github.com/onoderaproject/onodera) - *Anime & Manga Database*
@@ -950,6 +957,7 @@ https://hdaudiobooks.com/
 * [NovelCool](https://www.novelcool.com/)
 * [Scribblehub](https://www.scribblehub.com/)
 * [All Novel Full](https://allnovelfull.com/)
+* [MTL Nation](https://mtlnation.com/)
 * [Novel Free](https://mnovelfree.com/)
 * [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)  
 * [VolareNovels](https://www.volarenovels.com/) 
@@ -1051,6 +1059,7 @@ https://hdaudiobooks.com/
 * [RecommendMeABook](https://recommendmeabook.com/) - *Book Recommendations*
 * [WhichBook](https://www.whichbook.net/) - *Book Recommendations* 
 * [A Book like foo](https://abooklikefoo.com/) - *Book Recommendations*
+* [Readgeek](https://www.readgeek.com/) - *Book Recommendations*
 * [Shepherd](https://shepherd.com/) - *Book Recommendations*
 * [Literature-Map](https://www.literature-map.com/) - *Book Recommendations*
 * [Litsy](https://www.litsy.com/) - *Book Recommendation / Photo Sharing Community*
@@ -1134,7 +1143,7 @@ https://hdaudiobooks.com/
 * [Cubari](https://cubari.moe/) - *Image Proxy / Reader*
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - *Read Books in Browser*
 * [Kindle to PDF](https://redd.it/bm837l) - *Kindle to PDF Conversion Guide*
-* [Ebook Sender](https://telegram.me/to_kindle_bot), [SendEpubToKindle](https://www.sendepubtokindle.com/) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - *Send Ebooks to Kindle*
+* [Ebook Sender](https://telegram.me/to_kindle_bot), [SendEpubToKindle](https://www.sendepubtokindle.com/), [Kobo ](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - *Send Ebooks to Kindle*
 * [Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading) Ebook Readers - *Mobile Browser Readers*
 * [The Open Book](https://github.com/joeycastillo/The-Open-Book) - *DIY Ebook Reader*
 
