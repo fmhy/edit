@@ -32,6 +32,8 @@
 * [Crohasit](https://crohasit.net/)
 * [Le Fishe Repacks](https://discord.gg/W3MfGDXhAS)
 * [ElAmigos](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
+* [SteamRIP](https://steamrip.com/) - *[Discord](https://discord.gg/hj8dU5BFHE)*
+* [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
 * [GLoad](https://gload.to/)
 * [Ova Games](http://www.ovagames.com/)
 * [SEHS Games](https://www.sehsgames.com/)
@@ -47,10 +49,10 @@
 * [silentycrying's Game Drive](https://drive.google.com/drive/u/0/folders/1K1FdNbEu9-_wy8vn9sE768VojXqu6Fnp) 
 * [Cracked Games](https://drive.google.com/drive/u/0/folders/1923I8RvjiE112Fzca1WshxMIwlL338Ea)
 * [DLFox](https://www.dlfox.com/)
-* [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
+* [Alphagames4u](https://alphagames4u.com/) 
+* [GamesFull](https://gamesfull.app/) 
 * [DarckRepacks](https://darckrepacks.com/) - *[Discord](https://discord.gg/5eRvDvy)*
 * [SPiKY Repacks](https://discord.gg/ZHC6pffMz2) - *[GamesDrive Uploader](https://gamesdrive.co/)*
-* [SteamRIP](https://steamrip.com/) - *[Discord](https://discord.gg/hj8dU5BFHE)*
 * [SteamUnlocked](https://steamunlocked.net/) - *Use Adblocker / [Release Tracker](https://github.com/N-O-E-D/Steamunlocked)*
 * [pc_game_down](https://t.me/pc_game_down) - *Telegram*
 * [g4u](https://g4u.to/) - *Password: 404*
@@ -339,6 +341,7 @@
 * [IOQuake3](https://ioquake3.org/) - *Quake 3 Source Port / [GitHub](https://github.com/ioquake/ioq3)*
 * [Aleph One](https://alephone.lhowon.org/) - *Open-Source Marathon Continuation* 
 * [Powerslave EX](https://drive.google.com/file/d/1VFvOYKyjyFwH5sqSL5mz_jl3SdIUcAOY/view?usp=sharing) - *Powerslave PC Port* 
+* [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) - *Driver 2 PC Port*
 * [EDuke32](https://www.eduke32.com/) - *Duke Nukem 3D Source Port*
 * [Arx Libertatis](https://arx-libertatis.org/) - *Arx Fatalis PC Port*
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - *Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)*
@@ -355,6 +358,8 @@
 * [SnakeGen](https://projects.victormeunier.com/snakegen/index.html) - *Snake Game Generator*
 * [ProAsm](http://www.proasm.com/) - *Retro Game Mods*
 * [Muds](https://muds.fandom.com/wiki/) - *Text Adventure ROM Wiki*
+* [Mudlet](https://www.mudlet.org/) - *Text Adventure Game Platform*
+* [MushClient](http://mushclient.com/) - *Text Adventure Game Tools*
 
 ***
 
