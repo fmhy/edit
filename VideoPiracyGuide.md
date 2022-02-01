@@ -115,11 +115,11 @@
 ## ▷ Multi Hosts
 
 * **[FMovies](https://fmovies.name/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)*
+* **[Movolo](https://movolo.vercel.app/)** - *Movies / TV*
 * **[PrimeWire](https://www.primewire.li/)**, [2](https://www.primewire.vc/) - *Movies / TV / Anime / [Status](https://primewirestatus.org/)*
 * **[HiMovies](https://www3.himovies.to/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)*
 * **[PrettyFlix](https://prettyflix.gq/)** - *Movies / TV / Anime*
 * **[Arthemis](https://releases.arthemis.xyz/)** - *Movies / TV / Anime / Client / [Discord](https://discord.gg/98HxbfjKQV)*
-* [Movolo](https://movolo.vercel.app/) - *Movies / TV*
 * [YourPTFlixMovies](https://yourptflixmovies.com/) - *Movies / TV*
 * [Movie-Forum](https://movie-forum.co/forum.php) - *Movies / TV*
 * [K a p K e y K](https://kpkyk.com/) - *Movies / TV*
@@ -139,7 +139,6 @@
 * [Dutafilm](https://103.194.171.75/) - *Movies / TV / Anime*
 * [YesHD](https://yeshd.net/) - *Movies / TV*
 * [UWatchFree](https://www.uwatchfree.ph/) - *Movies / TV*  
-* [CurtStream](https://curtstream.com/) - *Movies / TV / Anime*
 * [WatchSeriesHD](https://www4.watchserieshd.tv/) - *Movies / TV / Anime* 
 * [DownloadAnyMovie](https://www.downloads-anymovies.com/) - *Movies* 
 * [Vmovee](https://www.vmovee.watch/) - *Movies / TV*
@@ -1089,6 +1088,7 @@
 * **[Release Group List](https://github.com/Cloudbox/Community/wiki/Quality-Release-Groups)** - *Movie / TV Release Group Index*
 * **[/r/animepiracy Wiki](https://wiki.piracy.moe/)** - *Anime Piracy Guides / Tutorials*
 * [/r/SceneReleases](https://www.reddit.com/r/SceneReleases/) - *Untouched Scene Release Tracker*
+* [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - *Web Video Viewer / Manager*
 * [RunPee](https://runpee.com/) - *Best Movie Break Times*
 * [GoGetSpoiled](https://gogetspoiled.com/), [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - *Movie Spoilers* 
 * [Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Covers for Movies, TV ect.* 
