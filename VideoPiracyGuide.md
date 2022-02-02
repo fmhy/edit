@@ -308,6 +308,7 @@
 * [AnimeDao](https://animedao.to/) - *Sub*
 * [AniStream](https://anistream.fun/) - *Sub*
 * [Array Anime](https://www.arrayanime.com/) - *Sub / Dub* 
+* [LMAnime](https://lmanime.com/) - *Sub*
 * [Pantsubase](https://pantsubase.tv/) - *Sub / Dub* 
 * [AnimeLand](https://www.animeland.us/) - *Dub* 
 * [Kissanime](https://kissanime.dev/) - *Sub / Dub*
@@ -678,7 +679,7 @@
 * [LatestMovie4U](https://latestmovie4u.com/) - *Movies / TV / Anime* 
 * [PrivateMoviez](https://privatemoviez.cc/) - *Movies / TV / Anime*
 * [CoolMovieZone](https://coolmoviezone.lat/) - *Movies*
-* [VegaMovies](https://vegamovies.ink/category/english/) - *Movies / [Telegram](https://vegadrive.xyz/join.php) / [2](https://t.me/Vegamoviesgroup2)*
+* [VegaMovies](https://vegamovies.onl/category/english/), [2](https://vegamovies.red/) - *Movies / [Telegram](https://vegadrive.xyz/join.php) / [2](https://t.me/Vegamoviesgroup2)*
 * [Subroz](https://subroz.live/0:/) - *Movies / TV*
 * [Wtfmovies](https://www.wtfmovies.xyz/) - *Movies / TV*
 * [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - *Cartoons* 
@@ -850,6 +851,7 @@
 * [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - *Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)*
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - *Movies*
 * [YTS](https://yts.mx/) - *Movies / [Mirror](https://yify.netlify.app/) / Do [NOT](https://androidrookies.com/top-torrent-website-yts-is-sharing-user-emails-and-ip-addresses-with-anti-piracy-law-firm/) Make Account* 
+* [Yify-Torrent](https://yify-torrent.cc/) - *Movies*
 * [ButchIxanh](https://butchixanh.com/) - *Asian Drama*
 * [xbit](https://xbit.pw/) - *Movie Torrent Release Information*
 * [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all), [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout), [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod), [IMDb Torrent Search](https://github.com/Crecket/imdb-torrent-search) or [TMDB-Torrent-Movie-Database](https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database) - *Torrent Site Results on IMDb*
