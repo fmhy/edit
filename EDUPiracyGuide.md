@@ -45,6 +45,7 @@
 * [Academic Earth](https://academicearth.org/) - *Courses*
 * [Yale.edu](https://oyc.yale.edu/) - *Courses*
 * [Canvas](https://www.canvas.net/) - *Courses*
+* [CourseF](https://www.coursef.com/) - *Courses*
 * [Harvard Online Courses](https://pll.harvard.edu/catalog?keywords=&free[1]=1&max_price) - *Courses*
 * [Open HPI](https://open.hpi.de/) - *Courses*
 * [FindAndSolve](https://www.findandsolve.com/) - *Course Search Engine*
