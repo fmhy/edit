@@ -113,6 +113,7 @@
 * [Learn X in Y minutes](https://learnxinyminutes.com/), [2](https://github.com/adambard/learnxinyminutes-docs) - *Programming Language Rundowns* 
 * [Typing.io](https://typing.io/) - *Typing Practice for Programmers* 
 * [Karel The Robot](https://github.com/fredoverflow/karel) - *Basic Programming Teaching Environment*
+* [HackersFriend](https://www.hackersfriend.com/tutorials/) - *Competitive Programming Tutorials*
 * [Katacoda](https://www.katacoda.com/) - *Software Engineer Tutorials* 
 * [Interview University](https://github.com/jwasham/coding-interview-university) - *Software Engineer Study Guide Coding*
 * [Hacksplaining](https://www.hacksplaining.com/) - *Developer Security Lessons*
