@@ -469,7 +469,7 @@ French / General Torrent Tracker
 * [Bollywood Movie Drive](https://drive.google.com/drive/folders/1dfv0SIMwQGfLlY1-GQY1rA_cXEoekIRH) - *Movies*
 * [KatMovieHD](https://katmoviehd.nz/) - *Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)*
 * [MoviesRush](https://moviesrush.cam/) - *Movies*
-* [VegaMovies](https://vegamovies.ink/) - *Movies / [Telegram](https://vegadrive.xyz/join.php), [2](https://t.me/Vegamoviesgroup2)*
+* [VegaMovies](https://vegamovies.onl/), [2](https://vegamovies.red/) - *Movies / [Telegram](https://vegadrive.xyz/join.php), [2](https://t.me/Vegamoviesgroup2)*
 * [MoviezAddiction](https://moviezaddiction.art/hollywood-movies/) - *Movies / TV / [Telegram](https://t.me/moviezaddiction3)*
 * [MKVHub](https://www.mkvhub.ws/) - *Movies / TV*
 * [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - *Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)*
