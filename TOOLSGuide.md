@@ -388,8 +388,9 @@
 * [Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sfx_.2F_loops) - *SFX & Loops*
 * [Fairusify](https://fairuseify.ml/) - *Make a Copyrighted Song Fair Use*
 * [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://iznaut.itch.io/bfxr), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - *Sounds Effects Creator*
-* [TheAudioScene](https://theaudioscene.net/) - *Daws / VSTi / Samples / Presets* 
-* [Fresh Stuff For You](https://freshstuff4you.com/) - *Daws / Samples / Presets*
+* [TheAudioScene](https://theaudioscene.net/) - *DAWs / VSTi / Samples / Presets* 
+* [Fresh Stuff For You](https://freshstuff4you.com/) - *DAWs / Samples / Presets*
+* [Plugin Clouds Archive](https://t.me/plugincloudsarchive) - *DAW Plugins*
 * [FlsAudio](https://flsaudio.com/en/gb/) - *FLStudio Samples / Presets / Plugins* 
 * [MilkyTracker](https://milkytracker.org/) - *.MOD & .XM Module Creator*
 * [LoopTorrent](https://looptorrent.net/) - *VST Plugins*
@@ -669,7 +670,7 @@
 * [Rocket Chat](https://rocket.chat/) - *Self-Hosted Chat Client*
 * [Delta Chat](https://delta.chat/en/) - *Email Based Messenger* 
 * [Conduit](https://gitlab.com/famedly/conduit), [Matrix Servers](https://joinmatrix.org/servers/) or [publiclist.anchel](https://archive.md/4xZE4) - *Matrix Home Servers* 
-* [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) or [List of Matrix Servers](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html) - *Matrix Server List*
+* [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html), [Public Servers](https://wiki.asra.gr/en:public_servers) or [List of Matrix Servers](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html) - *Matrix Server List*
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - *Export Skype Chat Data to Readable Text*
 * [Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [Whereby](https://whereby.com/), [Videolink2me](https://videolink2me.com/), [TinyChat](https://tinychat.com/), [Noysi Meet](https://meet.noysi.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat*
@@ -711,6 +712,7 @@
 * [InspectContent](https://inspectcontent.com/) - *Site Keyword Inspector*
 * [Ichi](https://ichi.city), [Linktree](https://linktr.ee/), [MyURLs](https://myurls.co/), [Carrd](https://carrd.co/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/), [CreatorSites](https://creatorsites.net/) or [ContactInBio](https://www.contactinbio.com/) - *Personal Link Homepages* 
 * [Integrated Inbox](https://integratedinbox.com/) - *Gmail Google Web App Integration*
+* [EasyMailForGmail](https://easymailforgmail.com/) - *Gmail Desktop Client*
 * [Namechk](https://namechk.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Check Username / Domain Availability*
 * [Pyfunceble](https://pyfunceble.github.io/#/) or [Domainr](https://domainr.com/) - *Check IP / Domain Availability* 
 * [HostsDock](https://eshengsky.github.io/HostsDock/) - *Manage & Switch Hosts* 
@@ -814,7 +816,7 @@ General Reading Sites*
 * [Audiobooks CSE]( https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd) - *Search Audiobook Sites*
 * [Comics CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg) - *Search Comic Sites*
 * [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z), [2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - *Search Manga Sites*
-* [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8), [2](https://cse.google.com/cse?cx=73948689c2c206528) - *Search Android APK Sites*
+* [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8), [2](https://cse.google.com/cse?cx=73948689c2c206528), [3](https://cse.google.com/cse?cx=a805854b6a196d6a6) - *Search Android APK Sites*
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1) - *Search File Hosts*
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) or [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - *Search Pastebins*
 * [Search All](https://www.searchall.net/) or [AIO Search](https://www.aiosearch.com/) - *Multi Site Search*
@@ -1443,6 +1445,7 @@ General Reading Sites*
 * [WSUOffline](https://download.wsusoffline.net/) - *Offline Windows Updates*
 * [WUReset](https://wureset.com/) - *Reset Windows Update Components*
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - *Enable Windows Insider without Account*
+* [XTR Toolbox](https://zeeex.github.io/XTR-Toolbox/) - *Windows Tweaking Tool [GitHub](https://github.com/Zeeex/XTR-Toolbox/)*
 * [Couleur Tweak Tips](http://discord.gg/CTT) or [TweakCentral](https://tweakcentral.net/) - *Windows Tweaks & Tips*
 * [Redwan's Guide to Guides](https://docs.google.com/document/d/1hZeQkyDe-M9-zNy2eB-Koc3iOpN5-5KxkpvjQaNK60g/edit) - *Windows Tweaking Guides*
 * [Awesome Scripts](https://github.com/codePerfectPlus/awesomeScripts), [Batch-Script-Collection](https://github.com/happy05dz/Batch-Script-Collection) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - *Useful System Scripts*
@@ -1670,6 +1673,7 @@ General Reading Sites*
 * [ElevenClock](https://github.com/martinet101/ElevenClock) - *Windows 11 Secondary Monitor Clock*
 * [Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - *Windows 11 Drag & Drop Fix*
 * [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) - *Modify Windows 11 Taskbar*
+* [RemoveEdgeWin11](https://rentry.co/RemoveEdgeWin11) - *Remove Edge on Windows 11*
 * [Boot Failure Troubleshooting Chart](https://i.imgur.com/QsxYtB4.jpg) - *Boot Failure Troubleshooting Guide*
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) - *Operating System / Software History / [Discord](https://discord.gg/XPz5Zm42tR)*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
