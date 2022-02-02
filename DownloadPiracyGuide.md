@@ -336,6 +336,7 @@
 * [Portable Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portable_apps) - *Portable Apps for USB / SD / External Storage*
 * [BelowAverage](https://belowaverage.org/) - *I.T. Software*
 * [Software Giveaway Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) 
+* [Standaloneinstaller](https://standaloneinstaller.com/) - *Check Software Safety*
 
 ***
 
