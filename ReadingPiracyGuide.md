@@ -88,6 +88,7 @@ https://hdaudiobooks.com/
 * [Read Any Book](https://www.readanybook.com/) - *Books*
 * [openlibrary](https://openlibrary.org/) - *Books* 
 * [standardebooks](https://standardebooks.org) - *Books* 
+* [GITenberg](https://www.gitenberg.org/) - *Books / [GitHub](https://github.com/GITenberg)*
 * [Manybooks](https://manybooks.net/)  - *Books*
 * [BooksVooks](https://booksvooks.com/) - *Books*
 * [dpgroup](https://www.dpgroup.org/) - *Books / Magazines*
@@ -905,6 +906,7 @@ https://hdaudiobooks.com/
 * [Tachiyomi](https://github.com/Suwayomi)  - *Manga / Comic Reader / [Web Client](https://github.com/TachiWeb) / [Discord](https://discord.com/invite/tachiyomi)* 
 * [LANraragi](https://github.com/Difegue/LANraragi) - *Manga / Doujin Manager for NAS / [Discord](https://discord.com/invite/aRQxtbg)*
 * [CrossFace](https://crossface.cf/manga-reader/) - *Browser Comic / Manga Reader*
+* [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl) - *Manga Downloader*
 * [manga-py](https://github.com/manga-py/manga-py) - *Python Line Manga Downloader* 
 * [Manga APIs](https://rentry.co/manga-apis) - *Manga Site API's*
 * [Scanlation Sites](https://www.reddit.com/r/mangadex/comments/mafhtl/scanlation_sites_megathread/) - *Manga Scanlation Groups*
