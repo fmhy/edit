@@ -112,6 +112,7 @@
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Linux Photoshop Installer*
 * [FlameGApps](https://github.com/flamegapps/flamegapps) - *Google Apps Installer*
 * [syncthing](https://syncthing.net/) or [maestral](https://maestral.app/) - *File Sharing App*
+* [GNU Social](https://www.gnusocial.rocks/) - *Self-Hosted Social Networking Platform*
 * [Hexchat](https://hexchat.github.io/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/ ) - *IRC Clients*
 * [Ghetto Skype](https://github.com/stanfieldr/ghetto-skype) - *Video / Chat Client*
 * [Whatsdesk](https://zerkc.gitlab.io/whatsdesk/) - *WhatsApp Client*
