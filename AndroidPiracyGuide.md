@@ -25,7 +25,7 @@
 * [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - *Block Spam Calls*
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - *Opt Out of Telemarketing Calls* 
 * [Should I Call Back?](https://should-i-call-back.binary-person.dev/) - *Phone # Lookup*
-* [Slide](https://github.com/ccrama/Slide), [2](https://f-droid.org/en/packages/me.ccrama.redditslide/) or [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - *Ad Free Reddit Client*
+* [Slide](https://github.com/ccrama/Slide), [2](https://f-droid.org/en/packages/me.ccrama.redditslide/), [Redditoria](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria), [RedReader](https://github.com/QuantumBadger/RedReader) or [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - *Ad Free Reddit Client*
 * [TwitchMod](https://t.me/pubTw) or [Twire](https://f-droid.org/packages/com.perflyst.twire/) - *Ad Free Twitch App*
 * [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) - *Remove Sponsored Telegram Messages*
 
@@ -59,6 +59,7 @@
 * [LibreAV](https://www.projectmatris.tech/) or [Hypatia](https://gitlab.com/divested-mobile/hypatia) - *Antivirus*
 * [AFWall+](https://github.com/ukanth/afwall/) or [NoRoot Firewall](https://play.google.com/store/apps/details?id=app.greyshirts.firewall) - *Firewall* 
 * [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - *Network Monitor*
+* [vTunnel](https://github.com/net-byte/vTunnel) - *VPN Tunnel*
 * [Security Addon](https://github.com/huntmix/securityaddon) - *Set Triggers & Measures that protect your Phone*
 * [SuperFreezZ](https://superfreezz.gitlab.io/) - *Freeze App Background Activities / [GitHub](https://gitlab.com/SuperFreezZ/SuperFreezZ)* 
 * [SnoopSnitch](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/) - *Check Mobile Network Security* 
@@ -192,6 +193,7 @@
 * [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2), [ntfy.sh](https://ntfy.sh/) or [BuzzKill](https://filecr.com/?s=buzzkill) - *Custom Push Notifications*
 * [aodNotify](https://play.google.com/store/apps/details?id=com.jamworks.alwaysondisplay) - *Notification LED*
 * [AlwaysOnEdge](http://www.aoeapps.com/) - *Android Customization App*
+* [VirtualXposed](https://virtualxposed.com/) - *Non-Rooted Xposed Framework*
 * [Palette](https://play.google.com/store/apps/details?id=com.ald.devs47.sam.beckman.palettesetups) - *Custom Home Screens*
 * [Codo Dodo](http://www.codododo.com/) - *Navigation Bar Customizer*
 * [Custom Volume Panel](https://play.google.com/store/apps/details?id=com.codingbatch.volumepanelcustomizer) - *Customize Volume Bar*
@@ -362,12 +364,11 @@
 
 # ► Android APKs
 
-* **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) - *Multi-Site APK Search*
+* **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) / [CSE 3](https://cse.google.com/cse?cx=a805854b6a196d6a6) - *Multi-Site APK Search*
 * **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - *Modded / [App](https://forum.mobilism.org/app/)*
 * **[FileCR](https://filecr.com/android/)** - *Modded*
 * **[nsane.down](https://www.nsaneforums.com/)**
 * **[ModdedCentral](https://t.me/ModdedCentral)** or [ModdedPrivate](https://t.me/ModdedPrivate) - *Modded / Telegram*
-* **[ReXdl](https://rexdl.com/)** - *Modded*
 * **[APKMirror](https://www.apkmirror.com/)** - *Untouched / [Playstore Links](https://pastebin.com/TcsAJib6)*
 * **[Lucky Patcher](https://www.luckypatchers.com/download/)** - *Remove Ads / Free In App Purchases / App Patcher / [How to use](https://latestechnews.com/how-to-use-lucky-patcher/)*
 * **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - *Repositories Index*
