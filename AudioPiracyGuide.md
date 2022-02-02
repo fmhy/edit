@@ -185,6 +185,7 @@
 * [Calm](https://app.www.calm.com/) - *Meditation / Sleep Music* 
 * [Tide.fm](https://tide.fm/) or [Sounds4Sleep](https://sounds4sleep.com/) - *Meditation / Sleep Sounds* 
 * [ChillOuts](http://www.chillouts.com/) - *Meditation Aid*
+* [Fractal Panda](http://fractalpanda.com/binaural-beats-generator/) - *Binaural Beats Generator*
 * [August Ambiance](https://augustambience.com/) - *Ambient Summer Sounds / Relaxation* 
 * [VirtCcean](https://virtocean.com/) - *Ambient Ocean Sounds*
 * [ASMRion](https://asmrion.com/), [2](https://defonic.com/vibeasmrion.html) - *Ambient Noise Generator*
