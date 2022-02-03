@@ -447,6 +447,7 @@
 * [PROXX](https://proxx.app/) - *A Game of Proximity* 
 * [Universal paperclips](https://www.decisionproblem.com/paperclips/index2.html) - *A Paperclip Creation Simulator*  
 * [The Founder](https://thefounder.biz/) - *Run a Start-Up* 
+* [PopTropica](https://www.poptropica.com/) - *Browser Adventure Game*
 * [TotalJerkFace](https://totaljerkface.com/) - *Happy Wheels &amp; More*
 * [ConnectTheStars](https://connectthestars.xyz/) - *Connect Stars through Movies*
 * [Blaseball](https://www.blaseball.com/) - *Odd Baseball Simulation Game* 
