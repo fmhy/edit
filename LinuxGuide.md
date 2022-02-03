@@ -78,7 +78,7 @@
 * [ricemood](https://github.com/fhadiel/ricemood) or [wpgtk](https://deviantfero.github.io/wpgtk) - *Fully Customizable Unix Color Schemer*
 * [Akira](https://github.com/akiraux/Akira) - *UI/UX Customization*
 * [Windows-10](https://github.com/B00merang-Project/Windows-10) - *Linux Windows 10 Theme*
-* [HydraPaper](https://hydrapaper.gabmus.org/) - *Linux Wallpaper Manager*
+* [HydraPaper](https://hydrapaper.gabmus.org/) or [Komorebi](https://github.com/cheesecakeufo/komorebi) - *Linux Wallpaper Manager*
 * [Polychromatic](https://polychromatic.app/) - *Linux System Light Control*
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) - *Noise Cancellation Software*
 * [Giara](https://aur.archlinux.org/packages/giara/) - *Reddit Client / [GitHub](https://gitlab.gnome.org/World/giara)*
@@ -112,6 +112,7 @@
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Linux Photoshop Installer*
 * [FlameGApps](https://github.com/flamegapps/flamegapps) - *Google Apps Installer*
 * [syncthing](https://syncthing.net/) or [maestral](https://maestral.app/) - *File Sharing App*
+* [PeerVPN](https://peervpn.net/) - *P2P VPN*
 * [GNU Social](https://www.gnusocial.rocks/) - *Self-Hosted Social Networking Platform*
 * [Hexchat](https://hexchat.github.io/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/ ) - *IRC Clients*
 * [Ghetto Skype](https://github.com/stanfieldr/ghetto-skype) - *Video / Chat Client*
@@ -174,7 +175,8 @@
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - *Generate Bonsai Trees in Terminal*
 * [pipes.sh](https://github.com/pipeseroni/pipes.sh) - *Animated Pipes in Terminal*
 * [Neo Matrix Git](https://aur.archlinux.org/packages/neo-matrix-git/) - *Simulate Matrix Digital Rain*
-* [Terminal Locomotive Train](https://pastebin.com/ayrFjrh6) - *Train Easter Egg*
+* [Terminal Locomotive Train](https://pastebin.com/ayrFjrh6) - *Train Terminal Easter Egg*
+* [ASCIIQuarium](https://robobunny.com/projects/asciiquarium/html/) - *Fish in Terminal*
 * [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - *App Image Launcher*
 * [Remontoire](https://github.com/regolith-linux/remontoire) - *Keybind Viewer for i3*
 * [fzf](https://github.com/junegunn/fzf) - *CLI based Fuzzy Finder*
@@ -319,6 +321,7 @@
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - *Shortcut CheatSheet for Current Application*
 * [MonitorControl](https://monitorcontrol.app/) - *External Monitor Brightness & Volume Control*
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - *Volume Mixer / Auto-Pause*
+* [BatteryBuddy](https://batterybuddy.app/) - *Cute Battery Indicator*
 * [Bunch](https://bunchapp.co/) - *Task Automation*
 * [Itsycal](https://www.mowglii.com/itsycal/) - *Menu Bar Calender*
 * [xbar](https://xbarapp.com/) - *Manage Menu Bar Items / [GitHub](https://github.com/matryer/xbar)*
