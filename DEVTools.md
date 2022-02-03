@@ -35,6 +35,7 @@
 * [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - *Python Lessons*
 * [Real Python](https://realpython.com/) - *Python Tutorials*
 * [FutureCoder](https://futurecoder.io/), [2-Python](https://mega.nz/folder/QgdziAiK#QgEW3PY8P5znFR0mNQ-njQ) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - *Python Course*
+* [Modern Python 3 Bootcamp Courses](https://mega.nz/folder/zfJQyLrT#uvGAaSb7Bs5bggzXXWqosQ)
 * [Tea Press](https://greenteapress.com/wp) - *Free Python Learning Books Green*
 * [VSCode.one](https://vscode.one/) - *VS Code Tutorials*
 * [Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - *Programming & Development Learning Channels*
@@ -57,6 +58,7 @@
 * [DefendTheWeb](https://defendtheweb.net/) - *Cyber Security Challenges*
 * [VSCodeCanDoThat](https://www.vscodecandothat.com/) - *VSCode Tutorial*
 * [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - *Programming Cheat Sheets*
+* [Vim Cheatsheet](https://i.imgur.com/2RsZq6p.png) - *Vim Code Editor Cheat Sheet*
 * [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) or [ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources) - *Programming / Coding Learning Resources*
 * [EbookFoundation Interactive Programming Tuts](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md) - *Interactive Programming Tutorials* 
 * [Exercism](https://exercism.org/) - *Programming Lessons*
@@ -123,6 +125,7 @@
 * [Web Dev Courses](https://drive.google.com/drive/folders/17nOoned_J-RzAlCXaHEcEvdQC3LDOCC0) - *Web Development Courses*
 * [Agernic](https://www.agernic.com/) - *Web Design Courses*
 * [UI & Web Design using Adobe Illustrator C](https://mega.nz/folder/DihiHYYJ#qwDp56twKmwPdDMqGR_kLA) - *UI & Webdesign Course*
+* [Learn UI Design](https://learnui.design/) - *UI Design Course*
 * [UXTools](https://uxtools.co/) or [UXMovement](https://uxmovement.com/) - *Learn UX Design*
 * [SitePoint](https://www.sitepoint.com/) - *UX Design Courses & Books*
 * [FrontEndMentor](https://www.frontendmentor.io/) - *UX Design Challenges*
@@ -151,9 +154,10 @@
 * **[List.community](https://list.community/)** - *Programming / Development GitHub Lists* 
 * [Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources) - *Design Resource Sites*
 * [Image Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools) - *Image & Graphic Design Tools*
-* [Contentdrips](https://contentdrips.com/) - *Brand Design Tools*
+* [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - *Brand Design Tools*
 * [ReverseEagle](https://forge.tedomum.net/groups/ReverseEagle/-/archived), [2](https://web.archive.org/web/20210116205638/https://developers.reverseeagle.org/) - *Privacy Focused Developer Software*
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - *Open Source Development Software*
+* [Awesome Bots](https://github.com/DopplerHQ/awesome-bots) - *Developer Bot Index*
 * [Student Developer Pack](https://education.github.com/pack) - *Free Developer Tools for Students* 
 * [Libera Chat](https://libera.chat/) - *IRC Network for Project Collaboration*
 * [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/)  - *Developer Forum* 
@@ -244,6 +248,7 @@
 * [Web Designer News](https://www.webdesignernews.com/) - *Web Design News*
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
 * [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [BulkLink](http://bulklink.org/), [Cliper](https://www.cliper.site/), [SEO Tools Apps](https://www.seotoolsapps.com/) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization / [Extension](https://chrome.google.com/webstore/detail/ubersuggest-seo-and-keywo/nmpgaoofmjlimabncmnmnopjabbflegf)*
+* [SerPreview](https://serpreviewtool.com/) - *Site Search Results Preview*
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) - *Web Debugging Proxy App*
 * [Tabler](https://tabler.io/) - *Site Admin Dashboard*
 * [Octopus](https://octopus.do/sitemap) - *Site Planning Tool*
@@ -292,6 +297,7 @@
 * [Framer](https://www.framer.com/) - *Interactive Site / App Design Tool*
 * [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - *Webpage Editor* 
 * [Plunker](https://plnkr.co/) - *Prototype / Test Websites Ideas*
+* [P2S](https://p2s.sfsite.me/) - *Turn Powerpoint into Webpage*
 * [WebDesignMuseum](https://www.webdesignmuseum.org/) - *Website Designs Over Time*
 * [Bootstrap](https://getbootstrap.com/) - *Mobile Site Creator / [Icons](https://github.com/twbs/icons) / [Snippets](https://bootsnipp.com/)*
 * [Extension.dev](https://extension.dev/) - *Custom Site Browser Extensions*
@@ -343,6 +349,7 @@
 * [Clone Zone](http://clonezone.link/) - *Tweak / Clone Webpages* 
 * [Appwrite](https://appwrite.io/) - *Open-Source Backend Server / [GitHub](https://github.com/appwrite/appwrite)*
 * [squid](http://www.squid-cache.org/) - *Caching Proxy / [MSI Installer](http://squid.diladele.com/) / [Site Blocking](http://www.thedumbterminal.co.uk/posts/2005/10/blocking_access_to_sites_when_using_squid.html)* 
+* [What Is Googlebot](http://www.googlebot.com/bot.html) - *How-to Block Googlebot*
 * [RandomAPI](https://randomapi.com/) - *Generate Fake Data for Populating Mockups* 
 * [Booster](https://booster.js.org/) - *Website Performance / Speed Optimizer* 
 * [Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare) - *Cloudflare Resource Index*
@@ -380,6 +387,7 @@
 * [Certbot](https://certbot.eff.org/) - *Enable HTTPS Automatically*
 * [MachineID](http://www.ionworx.com/machineid.html) - *Hardware Identifier*
 * [TrackMyBacklink](https://trackmybacklink.com/) - *Backlink Tracker*
+* [Free Backlink Builder](http://www.freebacklinkbuilder.net/) - *Backlink Generator*
 * [Wappalyzer](https://www.wappalyzer.com/) - *Identify Technologies on Websites* 
 * [Bubble](https://bubble.io/), [WeWeb](https://www.weweb.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Create-react-app](https://github.com/facebook/create-react-app) or [Sktch.io](https://sktch.io/) - *Create Web Apps* 
 * [Sandstorm](https://sandstorm.io/) or [CloudRon](https://www.cloudron.io/) - *Web App Host*
@@ -420,7 +428,7 @@
 ## ▷ Software Development
 
 * [Electron](https://www.electronjs.org/) - *Desktop App Builder / [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://electron-app-store.ml/) / [Debugger](https://www.electronjs.org/apps/debugtron)*
-* [raylib technologie](https://raylibtech.itch.io/) - *Software Development Tools *
+* [raylib technologie](https://raylibtech.itch.io/) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - *Software Development Tools*
 * [Theos](https://theos.dev/) - *Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)*
 * [Servo](https://servo.org/) - *Experimental Browser Engine*
 * [Gummy](https://gummyjs.vercel.app/) - *Easily Build Javascript Programs* 
@@ -480,7 +488,7 @@
 * [React95](https://react95.io/) - *Windows 95 React Components*
 * [useAnimations](https://useanimations.com/index.html) - *Animated Icon Pack*
 * [Redex](https://fbredex.com/) - *Android Bytecode Optimizer*
-* [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/) , [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/) or [LS Graphics](https://www.ls.graphics/) - *App & Site Mockups*
+* [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/) or [LS Graphics](https://www.ls.graphics/) - *App & Site Mockups*
 * [UIGarage](https://uigarage.net/) or [LovelyUI](https://lovelyui.com/) - *Mobile UI Designs*
 * [Screen from Traction](https://screen.traction.one/) - *Create App Screenshots*
 
@@ -593,6 +601,7 @@
 ## ▷ Git Tools
 
 * **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)** - *List Index*
+* [GitHubStatus](https://www.githubstatus.com/) - *GitHub Outage Status*
 * [Git Explorer](https://gitexplorer.com/) - *Git Command List*
 * [GitHub Desktop](https://desktop.github.com/) or [Tower](https://www.git-tower.com/) - *GitHub Client*
 * [GitHub.Dev](https://github.dev/) - *GitHub Web App*
