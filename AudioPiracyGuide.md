@@ -78,7 +78,7 @@
 * [KeyGenMusic](http://www.keygenmusic.net/) or [keygenmusic.tk](https://keygenmusic.tk/) - *Keygen Music* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - *East African Recordings* 
-* [Free Music Archive](https://www.freemusicarchive.org/), [freesoundtrackmusic](https://www.freesoundtrackmusic.com/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [StreamBeats](https://www.streambeats.com/), [ccHound](https://cchound.com/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
+* [Free Music Archive](https://www.freemusicarchive.org/), [freesoundtrackmusic](https://www.freesoundtrackmusic.com/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [StreamBeats](https://www.streambeats.com/), [Mubert](https://mubert.com/), [ccHound](https://cchound.com/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
 * [Battle of the Bits](https://battleofthebits.org/) - *User-Made Music Competitions* 
 * [Openwhyd](https://openwhyd.org/) - *Music Sharing Community / [Chrome](https://chrome.google.com/webstore/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)*
 * [Bandcamp New Tab](https://chrome.google.com/webstore/detail/bandcamp-new-tab/nbabnnemlofbllcflfjpjgkgmcdbeemc) - *Random Bandcamp Songs on New Tabs*
@@ -251,7 +251,7 @@
 * **[/r/RIPREQUESTSNew](https://www.reddit.com/r/riprequestsnew/)** - *FLAC / [Discord](https://discord.com/invite/SH7DUfVz46)*
 * **[Mudome](https://mudome.org/)** - *MP3 / FLAC*
 * **[REKULOUS' Music Collection](https://drive.google.com/drive/folders/18uv94liWaRYSu16XY6Njx0SLykmJmczJ?usp=sharing)** - *MP3 / FLAC / AAC / DSD / SACD / Etc.*
-* **[Damon's Game Soundtracks](https://drive.google.com/drive/folders/1TJyPoYEgQjESnwwY-SjWclrPVeXLlV1x?usp=sharing)**, [Squid-Board](https://www.squid-board.ru/) / [2](https://www.squid-board.org/), [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://github.com/TheLastZombie/VGMLoader) / [2](https://github.com/obskyr/khinsider), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
+* **[Damon's Game Soundtracks](https://drive.google.com/drive/folders/1TJyPoYEgQjESnwwY-SjWclrPVeXLlV1x?usp=sharing)**/ [2](https://www.dropbox.com/sh/eik49wcjyapm89v/AAC72Afb1PH00bzoFL1XdYXGa?dl=0), [Squid-Board](https://www.squid-board.ru/) / [2](https://www.squid-board.org/), [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://github.com/TheLastZombie/VGMLoader) / [2](https://github.com/obskyr/khinsider), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
 * [The Last Disaster](https://thelastdisaster.vip/), [2](https://thelastdisaster.org/) - *MP3 / FLAC*
 * [SongsLover](https://songslover.vip/) - *MP3*
 * [FreshRemix](http://freshremix.ru/) - *MP3*
