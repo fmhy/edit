@@ -28,7 +28,7 @@
 * **[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** - *Bypass Redirects*
 * **[SponsorBlock](https://sponsor.ajay.app/)** - *Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)*
 * **[Popup Blockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - *Blocks Malicious Popups & Tabs*
-* **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)**, [f *ck overlays](https://chrome.google.com/webstore/detail/fck-overlays/ppedokobpbdajgiejhnjfbdjlgobcpkp/related) or [Behind The Overlay Revival](https://addons.mozilla.org/en-US/firefox/addon/behind-the-overlay-revival/) - *Hide Website Overlays* 
+* **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)**, [Demodal](https://addons.mozilla.org/firefox/addon/demodal), [f *ck overlays](https://chrome.google.com/webstore/detail/fck-overlays/ppedokobpbdajgiejhnjfbdjlgobcpkp/related) or [Behind The Overlay Revival](https://addons.mozilla.org/en-US/firefox/addon/behind-the-overlay-revival/) - *Hide Website Overlays* 
 * **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - *Plays Videos in Ad-Free Player*
 * **[Fakespot](https://www.fakespot.com/)** - *Identifies Fake Reviews & Counterfeits*
 * [TBlock](https://tblock.codeberg.page/) - *Adblocker*
@@ -170,6 +170,7 @@
 * [Privacy / Safety Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_guides) - *Internet Privacy / Safety Guides* 
 * [Open Source Guides](https://opensource.guide/) - *Open Source Guide / [GitHub](https://github.com/github/opensource.guide)*
 * [Privacy.Sexy](https://privacy.sexy/) - *Privacy Scripts* 
+* [Privacy Settings](https://github.com/the-weird-aquarian/privacy-settings) - *Privacy Setting Guides*
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - *Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)*
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) or [Anon Security](https://t.me/anon_server) - *Cybersecurity Resources*
 * [The White Circle](https://twc1rcle.com/) - *Cyber Security Community*
@@ -313,14 +314,15 @@
 ## ▷ Browser Tools
 
 * **[Tor Browser](https://www.torproject.org/)** or [Lokinet](https://lokinet.org/) - *Onion-Routed Browser*
-* **Tor Tools** - [Wiki](https://gitlab.torproject.org/tpo/team/-/wikis/home ) / [Unblock Tor](https://i.imgur.com/bQStFyI.gifv) / [Anonymity Tips](https://support.torproject.org/#staying-anonymous) / [Leak Scan](https://github.com/s-rah/onionscan) / [IP Test](https://check.torproject.org/) / [Auto IP Switch](https://github.com/seevik2580/tor-ip-changer) / [Access Client](https://dragonfruit.network/onionfruit) / [GitHub](https://github.com/dragonfruitnetwork/onionfruit/) / [Python Controller](http://vt5hknv6sblkgf22.onion/index.html)
+* **Tor Tools** - [Wiki](https://gitlab.torproject.org/tpo/team/-/wikis/home ) / [Unblock Tor](https://i.imgur.com/bQStFyI.gifv) / [Anonymity Tips](https://support.torproject.org/#staying-anonymous) / [Leak Scan](https://github.com/s-rah/onionscan) / [IP Test](https://check.torproject.org/) / [Auto IP Switch](https://github.com/seevik2580/tor-ip-changer) / [Access Client](https://dragonfruit.network/onionfruit) / [GitHub](https://github.com/dragonfruitnetwork/onionfruit/) / [Python Controller](http://vt5hknv6sblkgf22.onion/index.html) / [Default Gateway](https://github.com/htrgouvea/nipe)
 * **[ffprofile](https://ffprofile.com/)**, **[ghacks-user.js](https://github.com/arkenfox/user.js)**, [firefox-debloat](https://github.com/amq/firefox-debloat), [pyllyukko](https://github.com/pyllyukko/user.js/) - *Privacy Hardened Firefox / [Warning](https://i.imgur.com/ZMQJHwC.png) / [Guide](https://brainfucksec.github.io/hardening-firefox-2022)*
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Privacy Focused Browsers* 
 * **[Vytal](https://vytal.io/)** - *See What Your Browser Knows About You*
 * **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
-* **[alternative-front-ends](https://github.com/mendel5/alternative-front-ends)** or [alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - *Frontend Index*
+* **[alternative-front-ends](https://github.com/mendel5/alternative-front-ends)**, [Farside](https://farside.link/) or [alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - *Frontend Index*
 * **[PrivacySpy](https://privacyspy.org/)** - *Grades a Sites Privacy Policies* 
 * **[ACCOUNTKILLER](https://www.accountkiller.com/)** or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - *Find / Terminate Old Accounts* 
+* [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - *Web Security Resource Index*
 * [What every Browser knows about you](https://webkay.robinlinus.com/) - *Browser Data Leak Demonstration*
 * [Anonymous Planet](https://anonymousplanet.org/media/image6.jpeg) - *Browser DNS and Web Privacy Info*
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - *Password Strength Checker*
@@ -499,6 +501,7 @@
 * [TouchVPN](https://touchvpn.net/) - *Free VPN*
 * [HideMe](https://hide.me/) - *Free VPN*
 * [Calyx VPN](https://calyx.net/) - *Free VPN*
+* [Clash](https://github.com/Fndroid/clash_for_windows_pkg) - *Free VPN / [Profiles](https://rentry.co/2q3rn)*
 * [FreePN](https://www.freepn.org/) - *Free Open Source P2P VPN* 
 * [TunnelBear](https://www.tunnelbear.com/) - *Free VPN / 500mb*
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
@@ -515,6 +518,7 @@
 * [Killswitch](https://github.com/nologs-vpn/killswitch) or [KillSwitch](https://github.com/nerfirelia123/KillSwitch) - *Custom VPN Killswitch*
 * [/r/VPN](https://reddit.com/r/VPN) - *VPN Help and Discussion* 
 * [OilAndFish](https://www.oilandfish.com/) - *Firewall Bypass Guide*
+* [Opera "VPN" is a Proxy, Not VPN](https://gist.github.com/spaze/558b7c4cd81afa7c857381254ae7bd10)
 
 ***
 
@@ -525,7 +529,7 @@
 * [Psiphon](https://psiphon.ca/)
 * [Acrylic](http://mayakron.altervista.org/)
 * [Tsunami](https://github.com/FogNetwork/Tsunami) 
-* [Shadowsocks](https://shadowsocks.org/en/index.html) - *[Free Servers](https://github.com/ruanfei/ShadowsocksRRShare)*
+* [Shadowsocks](https://shadowsocks.org/en/index.html) - *[Free Servers](https://github.com/ruanfei/ShadowsocksRRShare), [2](https://github.com/learnhard-cn/free_proxy_ss)*
 * [Lantern](https://lantern.io/en_US/index.html) 
 * [FilterBypass](https://www.filterbypass.me/) 
 * [Privoxy](http://www.privoxy.org/) - *[Docker Build](https://github.com/binhex/arch-privoxyvpn)*
