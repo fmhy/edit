@@ -94,6 +94,7 @@
 * [Delphi](https://delphi.allenai.org/) - *Morality Judgement A.I.*
 * [ThistoThat](http://www.thistothat.com/) - *How to Glue Anything to Anything*
 * [My Car Makes Noise](http://mycarmakesnoise.com/) - *Diagnose Car Problems via Sounds* 
+* [PlateRecognizer](http://platerecognizer.com/) - *License Plate Recognition*
 * [Safe Substance](https://safesubstance.com/) - *Drug Combination Info / Harm Reduction* 
 * [Stolen Camera Finder](https://www.stolencamerafinder.com/) - *Find Stolen Cameras* 
 * [Parcelsapp](https://parcelsapp.com/en/) or [17Track ](https://www.17track.net/en) - *International Package Tracking*
@@ -345,7 +346,7 @@
 * [Rollideo](https://rollideo.com/) - *Text to Speech / Subtitles*
 * [video2x](https://github.com/k4yt3x/video2x) - *Video Upscaler*
 * [Anime4K](https://github.com/bloc97/Anime4K) - *Anime Video Upscaler* 
-* [Video Vault](https://www.bravenewtech.org/) - *Video Preservation Tool* 
+* [Video Vault](https://www.bravenewtech.org/) or [mmhmm](https://www.mmhmm.app/) - *Video Preservation Tool* 
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - *Duplicate Video Finder*
 * [WebcamTests](https://webcamtests.com/) - *Test your Webcam*
 * [Snap Camera](https://snapcamera.snapchat.com/) - *Webcam Chat Lenses*
@@ -402,7 +403,7 @@
 * [Whyp](https://whyp.it/) - *Audio Host*
 * [Aux](https://aux.app/) - *Audio Project Host*
 * [Audiocheck](https://www.audiocheck.net/) - *Audio Tests* 
-* [Online Mic Test](https://onlinemictest.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - *Mic Test* 
+* [Online Mic Test](https://onlinemictest.com/), [Mic Tests](https://mictests.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - *Mic Test* 
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) - *Measure Surrounding Sound Level*
 * [Audio-Router](https://github.com/audiorouterdev/audio-router) - *Route Audio from Programs to Devices*
 * [AAFDCHDriverMod](https://github.com/AlanFinotty/AAFDCHDriverMod) or [Ultimate Realtek HD Audio Driver Mod](https://1drv.ms/f/s!AkGtxiGigudSzVLpSjYdvkAqrejL) - *Realtek Audio Driver*
@@ -626,7 +627,8 @@
 * [CertAlert](https://certalert.net/) - *Alerts you when a TLS/SSL Certificate Expires* 
 * [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - *Check which IPFS Gateways are online* 
 * [lew.la](https://lew.la/) - *Reddit video DL, YT to MP3 & More Tools* 
-* [SocialBlade](https://socialblade.com/) - *Social Media Statistics*
+* [SocialBlade](https://socialblade.com/) - *Social Media Stats*
+* [LiveCounts](https://livecounts.io/) - *Live Social Media Stats*
 * [Post Generator](https://postgenerator.online/) - *Convert Article to Social Media Post*
 * [Cloaking Company](https://www.cloakingcompany.com/) - *Create Alogorith Pleasing Social Media Posts*
 * [4stats](https://4stats.io/) - *4chan Board & Thread Stats*
@@ -722,6 +724,7 @@
 * [DownloadTestr](http://txti.es/downloadtestr) - *Download Test Files to Test Download Speed* 
 * [Hotel WiFi Test](https://www.hotelwifitest.com/) - *Test Hotel WiFi Speeds* 
 * [NeverSSL](http://neverssl.com/) - *Fix Public WiFi Login Pages*
+* [WiFi-Password](https://github.com/sdushantha/wifi-password) - *Fetch WiFi Password / Generate QR Code*
 * [IP2Proxy](https://www.ip2proxy.com/) - *Proxy / VPN IP Detector*
 * [Tripgen](https://orph.link/tripgen) - *Image Board Trip Code Generator* 
 * [4Chan Captcha Solver Script](https://pastebin.com/f6xUjE5s) or [4chan Captcha Solver](https://github.com/AUTOMATIC1111/4chan-captcha-solver/) - *4chan Captcha Solver*
@@ -943,6 +946,7 @@ General Reading Sites*
 * [Site Worth Traffic](https://www.siteworthtraffic.com/) - *Calculate Website Worth*
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - *Sitemap Creator*
 * [CarbonDates](http://carbondate.cs.odu.edu/) - *Check Site Creation Date* 
+* [Hosting Checker](https://hostingchecker.com/) - *Site Host Check*
 * [AtSameIP](https://atsameip.intercode.ca/) - *Find All Sites Hosted by Same IP*
 * [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Search Console](https://search.google.com/search-console/), [subsurface](https://github.com/CellEight/subsurface) or [SubdomainFinder](https://subdomainfinder.c99.nl/) - *Find Hidden Subdomains* 
 * [pyfuzz](https://github.com/AyoobAli/pyfuzz) - *URL Fuzzing Tool* 
@@ -1075,7 +1079,7 @@ General Reading Sites*
 * [Alternatives to MEE6](https://alternativestomee6.com/) - *[Discord](https://discord.gg/WrbMdWHfNd)* 
 * [Titan Embeds](https://titanembeds.com/) - *Create Discord Chat Embeds*
 * [Divider Generator](https://jsfiddle.net/Davri/wf49xnob/159/) - *Create Discord Role Dividers Discord Role*
-* [MonitoRSS](https://monitorss.xyz/) - *RSS Discord Bot*
+* [MonitoRSS](https://monitorss.xyz/), [2](https://github.com/synzen/MonitoRSS-Clone) - *RSS Discord Bot*
 * [Discord Music Bot](https://github.com/SudhanPlayz/Discord-MusicBot), [discord-music-bot](https://github.com/Androz2091/discord-music-bot), [Music-bot](https://github.com/ZerioDev/Music-bot), [MusicBot](https://github.com/jagrosh/MusicBot), [evobot](https://github.com/eritislami/evobot) or [EarTensifier](https://github.com/Tetracyl/EarTensifier) - *Music Bots*
 * [Discord-Music-System](https://github.com/RemyK888/discord-music-system) - *Discord Music Module*
 * [FreeStuff Bot](https://freestuffbot.xyz/) - *Free Games Alert Bot / [GitHub](https://github.com/FreeStuffBot/discord)*
@@ -1177,6 +1181,7 @@ General Reading Sites*
 * [GetMediaBot](https://t.me/getmediabot) - *Social Media Video / Picture Download Bot*
 * [Now Playing](https://t.me/nowplaybot) - *Now Playing Audio Bot*
 * [Telesco.pe](https://telesco.pe/) - *Telegram Round Video Recorder*
+* [YeetMeet](https://github.com/1337w0rm/YeetMeet) - *Meeting Auto Join Bot*
 * [Unigram](https://github.com/UnigramDev/Unigram), [Tok](https://invent.kde.org/network/tok), [TDesktop](https://github.com/Forkgram/tdesktop) or [Kotatogram](https://github.com/kotatogram/kotatogram-desktop) - *Telegram Desktop Client*
 * [Web.Telegram](https://web.telegram.org/), [2](https://webk.telegram.org/), [3](https://webz.telegram.org/) - *Telegram Web Client*
 * [TeleWebGram](https://telewebgram.com/) - *Online Telegram Channel Viewer*
@@ -1256,12 +1261,13 @@ General Reading Sites*
 * [Watch Frame by Frame](http://www.watchframebyframe.com/) - *Watch Videos Frame by Frame* 
 * [Anilyzer](http://anilyzer.com/) - *Watch YouTube Videos in Slow Motion & Frame by Frame* 
 * [YouTube Playlist Search](https://greasyfork.org/en/scripts/14370-youtube-playlist-search) - *Quickly Search YouTube Playlists*
-* [Playlist Creator for YouTube](https://chrome.google.com/webstore/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) - *Drag & Drop Playlist Creator*
+* [Playlist Creator for YouTube](https://chrome.google.com/webstore/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - *Easily Create Playlists*
 * [Bookmark It](https://bookmark-it.happydevelopers.co/) - *Bookmark YouTube Videos*
 * [Blocked](https://watannetwork.com/tools/blocked/) or [YouTube Region Checker](http://polsy.org.uk/stuff/ytrestrict.cgi) - *Youtube Region Restrictions Check*
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - *Shows YouTube File Sizes* 
 * [Auto Quality for YouTube](https://chrome.google.com/webstore/detail/auto-quality-for-youtube/iaddfgegjgjelgkanamleadckkpnjpjc?hl=en) - *Automatically Switch to desired Quality*
 * [h264ify](https://github.com/erkserkserks/h264ify) - *Use H.264 on YouTube* 
+* [YTAPI](https://www.ytapi.com/) - *Alt YouTube Player*
 * [Disable 60fps](https://greasyfork.org/en/scripts/23329-disable-youtube-60-fps-force-30-fps) - *Force 30fps on YouTube*
 * [YouTube CPU Tamer](https://greasyfork.org/en/scripts/431573-youtube-cpu-tamer-by-animationframe) - *YouTube CPU Optimization*
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - *Fix YouTube Aspect Ratio*
@@ -1565,7 +1571,7 @@ General Reading Sites*
 * [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - *Dual Monitor Manager*
 * [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - *Show Desktop For Only One Monitor*
 * [ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - *Desktop Program, Video & Webpage Pins / Program Wallpapers*
-* [Plumb](https://palatialsoftware.com/plumb/), [nog](https://github.com/TimUntersberger/nog), [bug.n](https://github.com/fuhsjr00/bug.n), [GridMove](https://www.dcmembers.com/jgpaiva/), [Amethyst Windows](https://github.com/glsorre/amethystwindows), [yatta](https://github.com/LGUG2Z/yatta), [WorkSpacer](https://www.workspacer.org/), [TileMe](https://gitlab.com/slavoutich/tileme) or [WindowsGrid](http://windowgrid.net/) - *Window Grid / Tiling Program* 
+* [Window Grid / Tiling Programs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_window_tiling_programs) - *Window Managers*
 * [WindowTop](https://windowtop.info/) - *Window Manager*
 * [Windows Sizer](http://www.brianapps.net/sizer4/) - *Resize & Reposition*
 * [DeskPins](https://efotinis.neocities.org/deskpins/) - *Always on Top Windows*
