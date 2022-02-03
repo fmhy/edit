@@ -98,6 +98,7 @@
 * [All Reading World](https://allreadingworld.com/) - *Books*
 * [Only Books](https://onlybooks.org/) - *Books*
 * [All Books](http://all-ebook.info/) - *Books*
+* [nymeriatv](https://nymeriatv.com/Epub/) - *Books*
 * [Repository z0ro](http://index-of.co.uk/) - *Books* 
 * [Ocean of EPUB](https://oceanofepub.com/) - *Books / Manga*
 * [PDFGet](http://www.pdfget.com/) - *Books*
@@ -426,6 +427,7 @@
 * [Penn Libraries](http://digital.library.upenn.edu/) + *[Index](http://digital.library.upenn.edu/books/)*
 * [s2.bitdl.ir](http://s2.bitdl.ir/Ebook/)
 * [114.116.28.83](http://114.116.28.83/)
+* [Non_Fic](https://vk.com/non_fic) 
 * [Uloz Archive](https://uloz.to/folder/8fpAg2rwEcYh/name/Large-Book-Collection) 
 * [FreeBookCentre](http://www.freebookcentre.net/)
 * [Wikiversity](https://www.wikiversity.org/) - *Learning Resources, Guides, Quizzes, Tools & More*
@@ -863,6 +865,7 @@
 * [Tritinia](https://tritinia.com/)
 * [Toomics](https://toomics.com/)
 * [AsuraScans](https://asurascans.com/) - *[Discord](https://discord.com/invite/asurascans1)*
+* [Manga3S](https://manga3s.com/) - *[Discord](https://discord.gg/c3ydbYdYjb)*
 * [MangaJar](https://mangajar.com/)
 * [LilyManga](https://lilymanga.com/) 
 * [ReadManhua](https://readmanhua.net/)
@@ -953,6 +956,7 @@
 * [List Novel](http://www.listnovel.com/)
 * [FreeWebNovel](https://freewebnovel.com/) 
 * [Novel Translations](https://lightnovelstranslations.com/)
+* [WebNovelOnline](https://webnovelonline.com/)
 * [Readwn](https://www.readwn.com/) 
 * [Nakimushitl](https://nakimushitl.wordpress.com/)
 * [NovelCool](https://www.novelcool.com/)
