@@ -19,7 +19,7 @@
 * [TCNO](https://github.com/TcNobo/TcNo-Acc-Switcher) - *Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)*
 * [How-To Make Cracked Games Look Like Official Steam Games](https://www.reddit.com/r/PiratedGames/comments/pmim9t/tutorial_make_your_cracked_games_look_like/)
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?usp=sharing), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - *FPS & Latency Guides*
-* [Fraps](https://rentry.co/frapsfullfree) / [2](https://fraps.com/), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - *FPS Benchmarking Utility*
+* [Fraps](https://rentry.co/frapsfullfree) / [2](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - *FPS Benchmarking Utility*
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner) - *Graphics Card Overclocking Utility / FPS Benchmarking*
 * [MSI Kombustor](https://msikombustor.com/) - *GPU Benchmark Test*
 * [Overclock](https://www.overclock.net/) - *Overclocking Forum*
@@ -321,8 +321,9 @@
 
 *** 
 
-# ► Homebrew 
+# ► Homebrew
 
+* [ConsoleMods.org](https://consolemods.org/) - *Console Modding Wiki / [Discord](https://discord.gg/x5vEnkR4C8)*
 * [Digiex](https://digiex.net/forums/) - *Console Modding / Homebrew Guides*
 * [Homebrew Guides](https://rentry.co/Guides) - *Homebrew Guides & Setups*
 * [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - *Homebrew News & Guides*
