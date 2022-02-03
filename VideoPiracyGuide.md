@@ -76,6 +76,7 @@
 * [OnionPlay](https://onionplay.se/) - *Movies / TV*
 * [Goojara](https://www.goojara.to/) - *Movies / TV / Anime*
 * [SpaceMov](https://spacemov.site/) - *Movies / TV*
+* [NYMeriaTV](https://nymeriatv.com/) - *Movies / TV*
 * [Join4Films](https://www.join4films.net/hollywood/) - *Movies*
 * [OpenloadTV](https://openloadtv.co/) - *Movies*
 * [AllMoviesForYou](https://allmoviesforyou.co/) - *Movies / TV* 
@@ -215,7 +216,8 @@
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - *Japanese Animated Film Archive*
 * [National Film Archive of Japan](https://meiji.filmarchives.jp/) - *Japanese Film Archive*
 * [JP-Films](https://jp-films.com/) - *Japanese Movies / TV / English Subs* 
-* [Watch HK Movies Online](https://vinspirezhk.blogspot.com/) - *Rare Chinese Movies / English Subs* 
+* [Watch HK Movies Online](https://vinspirezhk.blogspot.com/) - *Rare Chinese Movies / English Subs*
+* [TexasArchive](https://texasarchive.org/) - *Texas Film Archive*
 * [Chicago Film Archives](http://www.chicagofilmarchives.org/) - *Chicago Film Archive*
 * [Eastern European Movies](https://easterneuropeanmovies.com/) - *Eastern European Film Archive* 
 * [BFIPlayer](https://player.bfi.org.uk/free) or [BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) - *British Film Archive / UK VPN Required*
@@ -332,6 +334,7 @@
 * [tenshi.moe](https://tenshi.moe/) - *Sub / Dub* 
 * [MasterAnime](https://masteranime.es/) - *Sub / Dub*
 * [AnimeGuru](https://www.animeguru.net/) - *Sub / Dub*
+* [AnimeEpisodes](https://ww6.animesepisodes.com/) - *Sub / Dub*
 * [GoAnimeList](https://goanimelist.me/) - *Sub / Dub*
 * [AnimeFrenzy](https://animefrenzy.org/), [2](https://www.animefrenzy.net/) - *Sub* 
 * [Crimsonfansubs](https://crimsonfansubs.com/) - *Sub*
@@ -503,6 +506,7 @@
 * [Crickfree.tv](http://crickfree.be/) - *Sports*
 * [SportsOnline](https://sportsonline.to/) - *Sports*
 * [VIPBoxTV](https://www.vipboxtv.se/) - *Sports*
+* [BestNHL](https://www.bestnhl.com/) - *Sports*
 * [s365.Live](http://www.s365.live/) - *Sports*
 * [MARKKY](https://markkystreams.com/) - *Sports*
 * [TheHomeSports](https://thehomesport.com/) - *Sports* 
@@ -516,6 +520,7 @@
 * [Volokit](https://community.volokit.com/) - *Sports* 
 * [StrikeOut](https://www.strikeout.nu/) - *Sports*
 * [BestSolaris](http://bestsolaris.com/) - *Sports*
+* [Strumyk](http://strumyk.tv/) - *Sports*
 * [Score808](http://www.score808.vip/) - *Sports*
 * [DudeStream](http://dudestream.com/) - *Sports*
 * [Cricworld](http://cricworld.club/) - *Sports*
@@ -611,6 +616,7 @@
 * [MKVBee](https://mkvbee.com/) - *Movies / TV*
 * [MKVHOUSE](https://mkvhouse.com/) - *Movies / TV*
 * [Minirlss](https://minirlss.com/) - *Movies / TV / Anime* 
+* [NYMeriaTV](https://nymeriatv.com/) - *Movies / TV*
 * [FZMovies](https://fzmovies.net/) - *Movies / [How to Use](https://imgur.com/a/EtLokxO)* 
 * [MP4Mania](https://mp4mania1.net/) - *Movies / [How to Use](https://imgur.com/a/EtLokxO)*
 * [HugeWarez](http://hugewarez.net/movies/) - *Movies / TV*
@@ -630,6 +636,7 @@
 * [TVSeriesNMovies](https://www.tvseriesnmovies.com/) - *Movies / TV*
 * [SeriesVault](https://seriesvault.win/) - *TV / Anime* 
 * [o2tvseries](https://o2tvseries.com/) - *TV*  
+* [TV Shows](https://tvshows.show/) - *TV*
 * [MoviesVerse](https://moviesverse.me/) - *Movies / TV / [Telegram](https://t.me/MoviesHomeOFFICIALS)* 
 * [FreeDriveMovie](https://www.freedrivemovie.com/) - *Movies / TV*
 * [HDMovieArea](https://hdmoviearea.live/genre/dual-audio/) - *Movies / TV*
