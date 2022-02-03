@@ -33,7 +33,7 @@
 
 # ► Android Privacy
 
-* **[Sentinel](https://sentinel.co/)**, [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html), [PandaVPN](https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy), [GoatVPN](https://play.google.com/store/apps/details?id=com.secure.proxy.freevpn) or [Velocity](https://play.google.com/store/apps/details?id=vpn.proxy.velocity) - *Free VPN*
+* **[Sentinel](https://sentinel.co/)**, [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html), [PandaVPN](https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy), [GoatVPN](https://play.google.com/store/apps/details?id=com.secure.proxy.freevpn), [VPNhub](https://www.vpnhub.com/), [Clash](https://github.com/Kr328/ClashForAndroid/) / [Profiles](https://rentry.co/2q3rn) or [Velocity](https://play.google.com/store/apps/details?id=vpn.proxy.velocity) - *Free VPN*
 * **[android-security-awesome](https://github.com/ashishb/android-security-awesome)** - *Android Security Resources* 
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Browsers with a focus on Privacy* 
 * [Guardian Project](https://guardianproject.info/) / [2](https://guardianproject.info/fdroid/repo), [Divestos Apps](https://divestos.org/index.php?page=recommended_apps), [CookieJarApps](https://cookiejarapps.com/) or [InviZible](https://github.com/Gedsh/InviZible) - *Privacy Based Apps / Tools* 
@@ -193,7 +193,7 @@
 * [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2), [ntfy.sh](https://ntfy.sh/) or [BuzzKill](https://filecr.com/?s=buzzkill) - *Custom Push Notifications*
 * [aodNotify](https://play.google.com/store/apps/details?id=com.jamworks.alwaysondisplay) - *Notification LED*
 * [AlwaysOnEdge](http://www.aoeapps.com/) - *Android Customization App*
-* [VirtualXposed](https://virtualxposed.com/) - *Non-Rooted Xposed Framework*
+* [VirtualXposed](https://virtualxposed.com/) - *Rootless Xposed Framework*
 * [Palette](https://play.google.com/store/apps/details?id=com.ald.devs47.sam.beckman.palettesetups) - *Custom Home Screens*
 * [Codo Dodo](http://www.codododo.com/) - *Navigation Bar Customizer*
 * [Custom Volume Panel](https://play.google.com/store/apps/details?id=com.codingbatch.volumepanelcustomizer) - *Customize Volume Bar*
@@ -261,6 +261,7 @@
 * [IRCCloud](https://github.com/irccloud/android) - *IRC Client*
 * [TextFree](https://www.textfree.us/) - *Free Texting App*
 * [TextMeUp](http://www.textmeup.com/) - *Multi-Number App*
+* [TxtEmNow](https://txtemnow.com/) - *Send Anonymous Texts*
 * [Kubool](https://www.gdpd.xyz/) - *Anonymous Confession App*
 * [OpenInWA](https://github.com/SubhamTyagi/openinwa) - *Number Free WhatsApp Chat*
 * [WhatsappWebToGo](https://github.com/92lleo/WhatsappWebToGo) - *Mobile WhatsApp Web Client*
@@ -295,7 +296,7 @@
 * [Red Moon](https://github.com/LibreShift/red-moon) - *Screen Filter*
 * [sh-ort](https://sh-ort.app/) - *URL Shortener*
 * [RClone](https://github.com/x0b/rcx) - *Multi-Site Cloud Storage File Manager*
-* [Omega Launcher](https://github.com/otakuhqz/omega), [Lawnchair](https://lawnchair.app/), [NovaLauncher](https://novalauncher.com/), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [ActivityLauncher](https://github.com/butzist/ActivityLauncher), [Unlauncher](https://github.com/jkuester/unlauncher) or [Ratio](https://blloc.com/) - *App Launcher* 
+* [Omega Launcher](https://github.com/otakuhqz/omega), [SmartLauncher](https://www.smartlauncher.net/) / [Pro](https://filecr.com/?s=smart+launcher), [Lawnchair](https://lawnchair.app/), [NovaLauncher](https://novalauncher.com/), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [ActivityLauncher](https://github.com/butzist/ActivityLauncher), [Unlauncher](https://github.com/jkuester/unlauncher) or [Ratio](https://blloc.com/) - *App Launcher* 
 * [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) / [2](https://www.apkmirror.com/apk/aurora-oss/warden/) - *App Managers*
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - *Android Power Menu Replacement*
 * [iFont](https://play.google.com/store/apps/details?id=com.kapp.ifont) - *Android Font Installer*
@@ -735,6 +736,7 @@ RSS Player*
 * [AnimeBoya](https://github.com/Tu2l/AnimeBoya)
 * [Aniyomi](https://github.com/jmir1/aniyomi)
 * [Animebay](https://animebay.tech/)
+* [AnYme](https://github.com/zunjae/anYme)
 * [Kayuri](https://github.com/Killerpac/Kayuri)
 * [Yukino](https://github.com/yukino-app/yukino)
 * [Akiyama](https://github.com/Fmaldonado6/Akiyama)
@@ -745,7 +747,7 @@ RSS Player*
 * [AnimeFanz Tube](https://apkpure.com/anime-fanz-tube/com.animefanzapp.tube)
 * [KATSU](https://katsu.pw/) - [Discord](https://discord.gg/gjcy6MQ)
 * [Anime-DL](https://github.com/sharn25/Anime-DL-Android-Verison) - *Download Anime / [Discord](https://discord.gg/Ee3fegN)* 
-* [MALClient](https://github.com/Drutol/MALClient), [MyAnimeList Client](https://play.google.com/store/apps/details?id=net.myanimelist.app), [Anidex](https://github.com/rajarsheechatterjee/anidex-app), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Otraku](https://play.google.com/store/apps/details?id=com.otraku.app) or [AniLib](https://anilib.onrender.com/) - *Anime Tracker*
+* [MALClient](https://github.com/Drutol/MALClient), [AnYme](https://github.com/zunjae/anYme), [MyAnimeList Client](https://play.google.com/store/apps/details?id=net.myanimelist.app), [Anidex](https://github.com/rajarsheechatterjee/anidex-app), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Otraku](https://play.google.com/store/apps/details?id=com.otraku.app) or [AniLib](https://anilib.onrender.com/) - *Anime Tracker*
 
 ***
 
@@ -870,6 +872,7 @@ RSS Player*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
 * [Drafts](https://getdrafts.com/) or [Bear](https://apps.apple.com/us/app/bear/id1016366447) - *Note Taking App*
 * [Serenity Notes](https://www.serenity.re/en/notes) - *Collaborative Notes*
+* [BatteryBuddy](https://github.com/schneelittchen/BatteryBuddy) - *Cute Battery Life Indicator*
 * [Powercuff](https://rpetri.ch/cydia/powercuff/) - *Throttle iOS to Increase Battery Life*
 * [The Fucking Weather](https://alcohollick.com/the-fucking-weather) - *Weather App*
 * [CocaoTop](https://github.com/D0m0/CocoaTop) - *iOS Process Viewer*
