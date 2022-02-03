@@ -44,6 +44,7 @@
 * [CourseSity](https://www.coursesity.com/) - *Courses*
 * [Academic Earth](https://academicearth.org/) - *Courses*
 * [Yale.edu](https://oyc.yale.edu/) - *Courses*
+* [Stepik](http://stepik.org/) - *Courses*
 * [Canvas](https://www.canvas.net/) - *Courses*
 * [CourseF](https://www.coursef.com/) - *Courses*
 * [Harvard Online Courses](https://pll.harvard.edu/catalog?keywords=&free[1]=1&max_price) - *Courses*
@@ -524,6 +525,7 @@
 * [Finger Style](https://finger-style.ru/category/lessons) - *Guitar*
 * [coop3rdrumm3r](https://www.drumeo.com/coop3rdrumm3r/) - *Drumming*
 * [Finger Tabs](https://fingertabs.com/) - *Tabs*
+* [Ultimate Guitar](https://www.ultimate-guitar.com/) - *Tabs*
 * [LearningSynths](https://learningsynths.ableton.com/) - *Synthesizers*
 * [A-Complete-UTAU-Tutorial-For-Beginners](https://www.quotev.com/story/9299060/A-Complete-UTAU-Tutorial-For-Beginners) - *UTAU Tutorial*
 * [MusicStaff](https://musicstaff.com/) - *Music Teacher Search*
@@ -628,6 +630,7 @@
 * [AWW](https://awwapp.com/), [OpenBoard](https://openboard.ch/), [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - *Whiteboard*
 * [app.diagrams](https://app.diagrams.net/) / [Git](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/) or [Gephi](https://gephi.org/) - *Graph / Diagram Creator*
 * [Altium](https://www.altium.com/viewer/) - *Schematics Visualizer*
+* [OpenLearning](https://www.openelearning.org/) - *Create Course Presentations*
 * [Quizizz](https://quizizz.com/) - *Create Quizzes, Lessons, Flashcards & Presentations*
 * [Anki](https://apps.ankiweb.net/), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html) or [Flashcard Machine](https://www.flashcardmachine.com/) - *Flash Card Tool*
 * [Wolfram Cloud](https://www.wolframcloud.com/) - *Computational intelligence*
