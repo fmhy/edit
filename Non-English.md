@@ -1458,6 +1458,7 @@ Portuguese
 * [animeblix](https://animeblix.com/) - *Anime* 
 * [Anime Online Sub](https://www.animeonlinesub.com/) - *Anime* 
 * [Monoschinos](https://monoschinos2.com/) - *Anime* 
+* [DangoToons](https://dangotoons.com/) - *Anime / Cartoons*
 * [serieslan](https://serieslan.com/) - *Cartoons*
 * [NoireStyle](https://noirestyle.com/) - *Film Noir* 
 * [LegalMentegratis](http://legalmentegratis.com/) - *YouTube Movies*
@@ -1925,6 +1926,7 @@ Portuguese
 * [DBFree](http://dbfree.me/) - *Books*
 * [FRDownMags](https://fr.downmagaz.net/) - *Magazines*
 * [Abandonware France](https://www.abandonware-france.org/index.php) - *Abandonware*
+* [TousLeDrivers](https://www.touslesdrivers.com/) - *Drivers*
 
 ## ▷ Torrenting
 
@@ -1958,10 +1960,11 @@ French / General Torrent Tracker
 
 ## ▷ Reading
 
+* [BookDDL](http://www.bookddl.com/) - *Books / Magazines / Newspapers / Audiobooks*
 * [Telecharger](https://telecharge-magazines.com/) - *Books / Magazines / NSFW*
-* [french-bookys](https://french-bookys.org/) - *Books / Magazines / Fiction / Nonfiction*
-* [1001ebooks](https://go.1001ebooks.com/accueil/) - *Books / Fiction / Nonfiction* 
-* [pdf-ebookys](https://www.pdf-ebookys.com/) - *Books / Magazines / Fiction / Nonfiction* 
+* [french-bookys](https://french-bookys.org/) - *Books / Magazines*
+* [1001ebooks](https://go.1001ebooks.com/accueil/) - *Books* 
+* [pdf-ebookys](https://www.pdf-ebookys.com/) - *Books / Magazines* 
 * [VK Serial Books & Magazines](https://vk.com/sebomag) - *Books / Magazines*  
 * [1001Ebooks](https://1001ebooks.club/) - *Books*
 * [bookys](https://ww2.bookys-ebooks.com/) - *Books*
@@ -3072,8 +3075,7 @@ Portuguese
 * [Pelispedia](https://www.pelispedia.de/) - *Movies / TV* 
 * [Pelispedia 2](https://www.pelispedia2.vip/) - *Movies / TV* 
 * [PelisFlix](https://pelisflix.io/) - *Movies / TV* 
-* [G Nula](https://gnula.se/) - *Movies / TV / Anime* 
-* [gnula.nu](http://gnula.nu/) - *Movies / TV* 
+* [G Nula](https://gnula.se/), [2](http://gnula.nu/), [3]() - *Movies / TV / Anime* 
 * [Cliver](https://www.cliver.to/) - *Movies*
 * [Repelis24](https://repelis24.co/) - *Movies / TV*
 * [PelisForte](https://pelisforte.co/) - *Movies / TV*
