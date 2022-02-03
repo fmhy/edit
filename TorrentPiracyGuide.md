@@ -34,6 +34,7 @@
 * [NeoLoader](https://neoloader.com/) - *[Screenshot](https://neoloader.com/neo/image1.jpg)*
 * [Tribler](https://www.tribler.org/) - *Tor-inspired Client / [Screenshot](https://i.imgur.com/IzmanCf.png) / [Github](https://github.com/Tribler/tribler)*
 * [aria2](https://aria2.github.io/) - *Terminal Torrent Client / [Screenshot](https://i.imgur.com/KV0pSjt.png) / [Github](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](http://ariang.mayswind.net/)*
+* [XD-Torrent](https://xd-torrent.github.io/) - *Anonymous P2P Torrent Client*
 * [mtorrent](https://github.com/nektro/mtorrent) - *Terminal Torrent Client* 
 * [RakaPublicLeech](https://t.me/RakaPublicLeech) - *Torrent to Telegram Bot*
 * [libtorrent](https://www.libtorrent.org/) - *C++ BitTorrent Client*
@@ -146,6 +147,7 @@
 * [SkyTorrents](http://www.skytorrents.me/) 
 * [BITCQ](https://bitcq.com/)
 * [TorrentMag](https://www.torrentmag.net/) 
+* [Torlook](https://gw1.torlook.info/)
 * [Torrent.nz](https://torrent.nz/) 
 * [Torrenteer](http://torrenteer.ddns.net/)
 * [TorrentProject2](https://torrentproject2.com/)
@@ -218,7 +220,7 @@
 
 * **[PreDB](https://predb.ovh/)** / [2](https://predb.me/) / [3](https://predb.de/) / [4](https://www.predb.pw/), [PreDB Live](https://predb.live/), [M2V](https://m2v.ru/), [srrDB](https://www.srrdb.com/) or [pre.c-burns](http://pre.c-burns.co.uk/pre.php) - *Scene Release Tracker*
 * **[Tracker Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tracker_lists)** - *Updated lists of BitTorrent trackers* 
-* **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.com) / [3](https://www.torrentkitty.net/) / [4](https://www.torrentkitty.lol/) - *Torrent To Magnet Link Conversion*
+* **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.com) / [3](https://www.torrentkitty.net/) / [4](https://www.torrentkitty.lol/) / [5](https://torrentkitty.se/) - *Torrent to Magnet Converter*
 * **[Auto Torrent Tools List](https://redd.it/hbwnb2)**, [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - *Autodownload tools*
 * [Torrent Legality](https://i.imgur.com/eNdboCs.png) - *Torrenting Laws by Country*
 * [Requestrr](https://github.com/darkalfx/requestrr) - *Chatbot for Torrent Autodownload Apps*
