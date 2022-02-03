@@ -117,6 +117,7 @@
 * [ASCII Paint](http://ascii.alienmelon.com/) - *ASCII Art Creator*
 * [dream](https://app.wombo.art/) - *Dream Art Generator*
 * [Uji](https://doersino.github.io/uji/) - *Minimalist Art Generator*
+* [Mosaic](https://github.com/Roman-/mosaic) - *Rubik's Cube Mosaic Generator*
 * [Tabbied](https://tabbied.com/) - *Art Pattern Generator*
 * [Random Art](http://www.random-art.org/) - *Random Art Generator*
 * [Chaos Machine](https://chaosmach.com/) - *Random Graphic Generator*
