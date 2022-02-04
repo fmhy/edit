@@ -1611,7 +1611,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Internet Radio** 
 
-[CoreRadio](https://coreradio.ru/listen), [CMD](https://cmd.to/fm), [lainchan](https://lainchan.org/radio), [JetSetRadio](https://jetsetradio.live/), [LivexLive](https://www.livexlive.com/), [RadioParadise](https://radioparadise.com/), [IndieSHuffle](https://www.indieshuffle.com/), [UpBeat](https://upbeat.pw/), [You42](https://www.you42.com/), [Jango](https://www.jango.com/), [RadioTunes](https://www.radiotunes.com/), [Live365](https://live365.com/), [AccuraRadio](https://www.accuradio.com/), [Radio.dubbeh](https://radio.dubbeh.net/), [lainon.life](https://lainon.life/), [Tilderadio](https://tilderadio.org/), [AnonRadio](https://anonradio.net/), [UpBeat](https://upbeatradio.net/v3/UpBeat.Home) / [Discord](https://upbeat.pw/discord), [Radios.yt](https://radios.yt/), [SomaDM](https://somafm.com/)
+[CoreRadio](https://coreradio.ru/listen), [CMD](https://cmd.to/fm), [lainchan](https://lainchan.org/radio), [JetSetRadio](https://jetsetradio.live/), [LivexLive](https://www.livexlive.com/), [RadioParadise](https://radioparadise.com/), [IndieSHuffle](https://www.indieshuffle.com/), [UpBeat](https://upbeat.pw/), [You42](https://www.you42.com/), [Jango](https://www.jango.com/), [RadioTunes](https://www.radiotunes.com/), [Live365](https://live365.com/), [AccuraRadio](https://www.accuradio.com/), [Radio.dubbeh](https://radio.dubbeh.net/), [lainon.life](https://lainon.life/), [Tilderadio](https://tilderadio.org/), [AnonRadio](https://anonradio.net/), [UpBeat](https://upbeatradio.net/v3/UpBeat.Home) / [Discord](https://upbeat.pw/discord), [Radios.yt](https://radios.yt/), [SomaFM](https://somafm.com/)
 
 ***
 
