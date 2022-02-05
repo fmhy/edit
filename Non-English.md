@@ -484,7 +484,6 @@ French / General Torrent Tracker
 * [ExtraMovies](https://extramovies.town/) - *Movies*
 * [RemaxHD](https://remaxhd.org/) - *Movies / TV*
 * [MoviesVerse](https://moviesverse.me/) - *Movies / TV / [Telegram](https://t.me/MoviesHomeOFFICIALS)* 
-* [Gophie](https://gophie.cam/) - *Movies / TV*
 * [AnimeAcademy](https://animeacademy.in/) - *Anime*
 * [ToonWorld4All](https://www.toonworld4all.me/) - *Cartoons / Anime*
 * [TVToonsIndia](https://tvtoonsindia.com/) - *Cartoons / Anime*
