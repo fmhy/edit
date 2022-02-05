@@ -1588,7 +1588,6 @@ Add the following commands to a search to manually scrape each site.
 * [PS4 bitdl.ir](http://s21.bitdl.ir/), [2](http://s22.bitdl.ir/), [3](http://s23.bitdl.ir/), [4](http://s24.bitdl.ir/), [5](http://s25.bitdl.ir/), [6](http://s26.bitdl.ir/)
 * [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/)
 * [PS4.td](https://ps4.td-index.workers.dev/0:/)
-* [PS4 ISO](https://www.ps4iso.net/)
 * [PKGPS4](https://www.pkgps4.com/)
 * [Auctor](https://auctor.tv/) 
 * [PS4 Repo List](https://docs.google.com/spreadsheets/d/1MxBFis83xtZ8KvWfk3t5BaP8vP8qNan1O59etYjFrws/edit#gid=255294685)
