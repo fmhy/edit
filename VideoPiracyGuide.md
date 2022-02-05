@@ -720,7 +720,7 @@
 
 ## ▷ Drives / Directories 
 
-* **[Rinzry](https://rinzry.stream/)** - *Movies / TV / Anime / [Request](hhttps://discord.gg/h3uM4zQ9QR)*
+* **[Rinzry](https://rinzry.stream/)** - *Movies / TV / Anime / [Request](https://discord.gg/h3uM4zQ9QR)*
 * **[50TB Mega Drive](https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ)**, [2](https://mega.nz/folder/01F2XbgA#u2Si5JL2Vd0hAd7sYU59ig), [3](https://mega.nz/folder/3vB2CTRI#9o_gBVPoFzi4iKtNIQ7rBQ/folder/rqJEDbZJ) - *Movies* 
 * **[The Criterion Collection](https://mega.nz/folder/Jk8RjIBA#_dTNthUX3LL7OwSaauqIpw)** - *Movies*
 * **[Rek's Drive](https://mega.nz/folder/iYQ3SYbA#_o9eO4o1eiCd8QsCTU7iUw)** - *Movies / Anime*
