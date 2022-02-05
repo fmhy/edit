@@ -18,6 +18,7 @@
 * [FunkWhale](https://funkwhale.audio/) - *Streaming*
 * [nuclear](https://nuclear.js.org/) - *Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)*
 * [MP3Jam](https://www.mp3jam.org/) - *Streaming*
+* [Cider](https://cider.sh/) - *Streaming*
 * [Muffon](https://github.com/staniel359/muffon) - *Streaming*
 * [Deezer](https://www.deezer.com/) - *Streaming*
 * [MusicBucket](https://musicbucket.net/) - *Track / Share Music / Telegram* 
