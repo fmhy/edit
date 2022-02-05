@@ -148,8 +148,6 @@
 * [RomToHome](https://romtohome.com/) - *Roms*
 * [Sundby](https://archive.sundby.com/retro/) - *Roms*
 * [EdgeEmulation](https://edgeemu.net/) - *Roms*
-* [RomsForever](https://romsforever.co/) - *Roms* 
-* [Replayers](https://replayers.org/) - *Roms*
 * [Rom Nation](https://www.romnation.net/) - *Roms*
 * [GLoad](https://gload.to/) - *Roms*
 * [WowRoms](https://wowroms.com/en/) - *Roms*
@@ -231,7 +229,6 @@
 * [Stop Spamming ](http://danswer.stopspamming.net/sega/) or [Sega Rom Drive](https://drive.google.com/drive/folders/1iYc2T6wfsSQsgf50VsNuN256prc6tagT) - *Roms / Sega*
 * [Dreamcast Collection](https://archive.org/details/almstcmpltdrmcst) - *Roms / Dreamcast*
 * [Sega Saturn Collection](https://archive.org/details/SgaStrnCmplt) - *Roms / Sega Saturn*
-* [Sega CD Champion Collection](https://archive.org/details/SegaCDCollection) - *Roms / Sega CD*
 * [3DO Roms](https://archive.org/details/3DO_2017_Reference_Set_Redump_Validated_ROMs), [2](https://archive.org/details/Panasonic-3DO-Redump.org-2019-05-14) - *Roms / 3DO*
 * [HiddenPalace](https://hiddenpalace.org/) - *Game Development Media Archive*
 * [Xbox Collection](https://archive.org/details/xboxcds?sort=-downloads) or [Xbox_Eng_Romset](https://archive.org/details/xbox_eng_romset) - *CD Roms / Xbox / DDL / Torrents*
