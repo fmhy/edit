@@ -19,7 +19,6 @@
 * **[Top 1000 Audiobooks](https://mega.nz/folder/h48HGAba#98YOtp3nhgDtKpeSO7PqSQ)** - *Audiobooks / Drive*
 * [Audiobook Gdrive](https://drive.google.com/drive/folders/1IsJTH4ElUg4fjngDNUlM1KPFmpfD_tl9) - *Audiobooks / Drive* 
 * [Audiobook Megadrive](https://mega.nz/folder/h48HGAba#98YOtp3nhgDtKpeSO7PqSQ) - *Audiobooks / Drive*
-* [BlackPhoenix James Durden](https://mega.nz/folder/AZAhjSaL#3wzdEx3nPgzzVdVEqVc8nA) - *Audiobooks / Drive*
 * [HotAudiobooks](https://hotaudiobooks.com) - *Listen Online* 
 * [Audiobooks For Soul](https://audiobookforsoul.net/) - *Listen Online*
 * [HDAudiobooks](https://hdaudiobooks.com/) - *Listen Online*
