@@ -1625,10 +1625,10 @@ Portuguese
 * [0GoMovies](https://0gomovies.io/), [2](https://www.0gomovies.com/) - *Streaming / Movies / TV*
 * [khatrimazafull](https://khatrimazafull.show/) - *Streaming / Download / Movies*
 * [JioRockers](http://www.jiorockers.uk/) - *Streaming / Movies*
+* [7MovieRulz](https://7movierulz.pe/) - *Streaming / Movies*
 * [TamilRockers](https://www.tamilrockermovies.org/) - *Streaming / Torrent / Movies*
 * [HiidudeMoviez](https://ww1.4hiidude.me/) - *Streaming / Torrent / Movies / [Telegram](https://telegram.me/hiidudemoviez)*
 * [v100v.net](https://www.v100v.net/) - *Streaming / Movies*
-* [7MovieRulz](https://7movierulz.pe/) - *Streaming / Movies*
 * [1jalshamoviez](https://www.1jalshamoviez.info/) - *Download / Movies*
 * [MLWBD](https://mlwbd.shop/) - *Download / Movies*
 * [Movies Counter](https://moviescounter.se/) - *Download / Movies*
