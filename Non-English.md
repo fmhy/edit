@@ -632,6 +632,7 @@ French / General Torrent Tracker
 * [Doujin Cafe](https://discord.gg/doujincafe) - *Music / MP3*
 * [Music Fusion World](https://fusion-world-30.blogspot.com/) - *Music / MP3*
 * [J-pop Music Download](https://jpop.xyz/) - *Music / MP3 / FLAC* 
+* [MinimumMusic](https://minimummusic.com/) - *FLAC / MP3*
 * [フリーソフトウェアの倉庫](http://nekomimi.la.coocan.jp/freesoft/index.htm) - *Software*
 * [Qoo-App](https://www.qoo-app.com/en) - *Android Games*
 * [Perfect Dark](http://kasumi.moe/pd/) - *P2P App*
