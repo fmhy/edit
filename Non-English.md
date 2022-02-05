@@ -622,7 +622,6 @@ French / General Torrent Tracker
 * [AnimeTime](https://www.animetime.pw/) - *Anime* 
 * [arearaw](http://arearaw.com/) - *Anime / Use Tor* 
 * [GameCenter CX Archives](https://archive.org/details/@gamecentercx) - *GameCenter CX Archive / [English](https://archive.org/details/game-center-cx-english-subbed-episodes-collection-2021-02-gamecenter-cx)*
-* [MinimumMusic](https://minimummusic.com/) - *Music / MP3 / FLAC*
 * [Sukidesuost](https://sukidesuost.info/) - *Music / MP3 / FLAC*
 * [Hikarinoakariost](https://hikarinoakari.com/) - *Music / MP3*
 * [jpop80ss](https://jpop80ss2.blogspot.com/)- *Music / MP3*
@@ -1339,7 +1338,6 @@ Portuguese
 * [LoveRead.ec](http://loveread.ec/) - *Books / NSFW*
 * [Twirpx](https://www.twirpx.com/) - *Books / Educational* 
 * [studmed](https://www.studmed.ru/) - *Books / Educational*
-* [kodges](https://www.kodges.ru/) - *Books* 
 * [rusneb](https://rusneb.ru/) - *Books*
 * [royallib](https://royallib.com/) - *Books*  
 * [Filibusta](https://flibusta.site/) - *Books*
@@ -1468,7 +1466,6 @@ Portuguese
 
 * [epublibre](https://www.epublibre.org/) - *Books*  
 * [ebiblioteca](https://ebiblioteca.org/) - *Books* 
-* [Libros Gratis](https://descargalibrosxd.com/) - *Books*
 * [Ebookelo](https://www.ebookelo.com/) - *Books*
 * [bajaebooksgratis](https://bajaebooksgratis.com/) - *Books* 
 * [pirateca](https://pirateca.com/) - *Books* 
