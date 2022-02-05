@@ -186,7 +186,6 @@
 * [0123movies](https://watch0123movies.org) - *Movies / TV*
 * [123MoviesGo](https://www.123moviesgo.li/) - *Movies / TV*
 * [123MovieWeb](https://123moviesweb.net/) - *Movies*
-* [Movolo](https://github.com/lem6ns/movolo) - *Movies / TV / Self-Hosted*
 * [Letmewatch](https://letmewatch.app/) - *Movies / TV / Extension / [GitHub](https://github.com/AdvithGopinath/LetMeWatch)*
 * [Watch Movies Free](https://redd.it/rbpag2) - *Streaming Site List*
 
@@ -250,16 +249,15 @@
 # ► TV Streaming
 
 * **[TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)**
-* **[Noxx](https://noxx.is)** - *TV*
-* **[GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search)** - *TV / Anime*
-* **[CouchTuner](https://www.couchtuner.show/)** - *TV* 
+* [Noxx](https://noxx.is) - *TV*
+* [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search)** - *TV / Anime*
+* [CouchTuner](https://www.couchtuner.show/) - *TV* 
 * [FZTVSeries](https://fztvseries.mobi/), [MobileTVShows](https://www.mobiletvshows.net/) or [TVSeries](https://www.tvseries.in/) - *TV / Anime*
 * [SRSOne](https://srsone.top/) - *TV / Anime*
 * [OnlySeries](https://onlyseries.net/) - *TV*
 * [BKWorld](https://bkworldtube.com/) - *TV*
 * [Watch-TvSeries](https://www1.watch-tvseries.net/) - *TV*
 * [MyWatchSeries](https://www5.mywatchseries.stream/) - *TV / Anime* 
-* [KissTVShow](https://kisstvshow.to/) - *Asian TV Shows / Subtitles*   
 * [turkish123](https://turkish123.com/) - *Turkish TV Shows / Subtitles* 
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - *Bay Area TV Archive*  
 * [MyRM](https://myrunningman.com/) - *My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)*
@@ -397,6 +395,7 @@
 * [KDramaHood](https://kdramahood.com/home2/) - *TV / Movies*
 * [movie22](https://mov21.zota.club/) - *TV / Movies*
 * [DramaNice](https://dramanice.so/) - *TV*
+[KissTVShow](https://kisstvshow.to/) - *TV*
 * [MyAsianTV](https://www9.myasiantv.io/) - *TV / Movies*
 * [MKVDrama](https://mkvdrama.com/) - *TV / Movies*
 * [K-Vid](https://k-vid.co/) or [KShows](https://kshows.to/) - *TV / Movies*
