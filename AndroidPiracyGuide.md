@@ -1000,7 +1000,6 @@ RSS Player*
 * [ioshaven](https://ioshaven.com/apps) - *App Store* 
 * [Signulous](https://www.signulous.com/) - *App Store / Sideloading*
 * [Repo Updates](https://www.ios-repo-updates.com/) - *App Repository Updates*
-* [Kiiimo](https://cydia.kiiimo.org/) - *App Repository*
 * [paxcex](https://paxcex.github.io/) - *App Repository*
 * [sarahh12099](https://sarahh12099-mirror.github.io/repo) - *App Repository*
 * [CydiaGeek](https://cydiageek.yourepo.com/) - *App Repository* 
