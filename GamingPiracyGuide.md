@@ -692,7 +692,7 @@
 * [listal](https://www.listal.com/) - *Video Game Database*
 * [HOTU](http://www.homeoftheunderdogs.net/) - *Rare Video Game Database*
 * [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - *Find Similar Games*
-* [Random Game Bookmark Scrip](https://pastebin.com/JtmBQZbL) - *Find Random Games*
+* [Random Game Bookmark Script](https://pastebin.com/JtmBQZbL) - *Find Random Games*
 * [Movie-Censorship](https://www.movie-censorship.com/) - *Compare Alternate Versions of Media* 
 * [50GamesLike](https://www.50gameslike.com/) - *Game Recommendations*
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Top 100 Lists*
