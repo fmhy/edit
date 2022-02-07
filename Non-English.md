@@ -272,7 +272,7 @@
 * [Emuline](http://www.emuline.org/) - *Rom / Emulation Discussion*
 * [SubSynchro](https://www.subsynchro.com/), [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - *French Subtitles* 
 * [BonPatron](https://bonpatron.com/) - *French Spelling and Grammar Check*
-* [GoTo10(https://www.goto10.fr/) - *BBS and Minitel Archives*
+* [GoTo10](https://www.goto10.fr/) - *BBS and Minitel Archives*
 
 ## ▷ Downloading
 
