@@ -1161,7 +1161,6 @@ General Reading Sites*
 * [Discord Previews](https://discord.gg/QMw7gQGMHj) - *New Discord Builds / Changes*
 * [Discord.sale](https://discord.sale/), [2](https://builds.discord.sale/) - *Discord Client Build Info*
 * [discasset](https://github.com/Commandtechno/discasset), [2](https://gitlab.com/derpystuff/discasset) - *Discord Asset Grabber*
-* [Hypesquad](https://cdn.discordapp.com/attachments/668986791797325824/844589771653382194/unknown.png) - *Get a Discord Profile Badge*
 * [Imagine](https://imagine.vanished.rocks/) - *Imagine Discord Branding Image Creator*
 * [BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - *Bot Messaging Panel*
 * [Figma](https://www.figma.com/community/file/992144378612759941/Discord-Resources) - *Discord Resources / [Desktop](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)*
