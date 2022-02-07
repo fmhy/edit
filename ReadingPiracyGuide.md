@@ -66,6 +66,7 @@
 * **[eBookHunter](https://ebook-hunter.org/)**, [2](https://ebookchasseur.com/) - *Books / Comics*
 * **[ebook3000](http://www.ebook3000.com/)** - *Books / Audiobooks / Comics / Magazines / Newspapers*
 * **[Telegram Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - *Telegram Book Channels*
+* irc.irchighway.net/ebooks - *eBook IRC / [Request Guide](https://i.imgur.com/GvyDh0B.png)*
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - *Books*
 * [IRC Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - *Download Ebooks from IRC*
 * IRC Ebook Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/), [2](https://encyclopediadramatica.online/Bookz) - *IRC Ebook Guide*) / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
