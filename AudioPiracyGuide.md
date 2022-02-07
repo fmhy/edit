@@ -249,7 +249,7 @@
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "audio"*
 * **[DoubleNegative](https://doublenegative.io/)** - *TIDAL & Deezer Downloader*
 * **[Free MP3 Download](https://free-mp3-download.net/)** - *Search / MP3 / FLAC*
-* **[/r/RIPREQUESTSNew](https://www.reddit.com/r/riprequestsnew/)** - *FLAC / [Discord](https://discord.com/invite/SH7DUfVz46)*
+* **[/r/RIPREQUESTS](https://www.reddit.com/r/redditdl/)** - *FLAC / [Discord](https://discord.com/invite/SH7DUfVz46)*
 * **[Mudome](https://mudome.org/)** - *MP3 / FLAC*
 * **[REKULOUS' Music Collection](https://drive.google.com/drive/folders/18uv94liWaRYSu16XY6Njx0SLykmJmczJ?usp=sharing)** - *MP3 / FLAC / AAC / DSD / SACD / Etc.*
 * **[Damon's Game Soundtracks](https://drive.google.com/drive/folders/1TJyPoYEgQjESnwwY-SjWclrPVeXLlV1x?usp=sharing)** / [2](https://www.dropbox.com/sh/eik49wcjyapm89v/AAC72Afb1PH00bzoFL1XdYXGa?dl=0), [Squid-Board](https://www.squid-board.ru/) / [2](https://www.squid-board.org/), [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://github.com/TheLastZombie/VGMLoader) / [2](https://github.com/obskyr/khinsider), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
