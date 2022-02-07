@@ -356,8 +356,8 @@
 
 ## ▷ Cartoon Streaming
 
-* **[KimCartoon](https://kimcartoon.li/)**
-* **[KissCartoon](https://kisscartoon.help/)**
+* [KimCartoon](https://kimcartoon.li/)
+* [KissCartoon](https://kisscartoon.help/)
 * [WCO](https://www.wco.tv/)  - *Anime / Cartoons / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wco_clones)* 
 * [TopCartoons](https://www.topcartoons.tv/)
 * [WatchCartoonOnline](https://watchcartoononline.bz/)
