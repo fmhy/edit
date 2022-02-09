@@ -836,6 +836,7 @@ General Reading Sites*
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - *Forum Search Engine* 
 * [Blog Search Engine](http://www.blogsearchengine.org/), [Blog-Search](https://www.blog-search.com/), [BlogErnity](http://www.bloggernity.com/), [BlogSurf](https://blogsurf.io/) or [SearchBlogspot](https://www.searchblogspot.com/) - *Blog Search*
 * [4chanSearch](https://4chansearch.com/) - *4chan Search*
+* [Git Search Engine](https://zzollo.co/) - *Search GitHub, GitLab ect.*
 * [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) - *Tik-Tok Search*
 * [Mibbit](https://search.mibbit.com/) - *IRC Channel Search*
 * [dato.rss](https://datorss.com/) - *RSS Feeds Search Engine*
@@ -1558,6 +1559,7 @@ General Reading Sites*
 * [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Context Menu Shell](https://nilesoft.org/) - *Improved Context Menu*
 * [OpenWith++](https://github.com/stax76/OpenWithPlusPlus) or [Custom Context Menu](https://www.microsoft.com/store/productId/9PC7BZZ28G0X) - *Customize Context Menu*
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - *Re-Map Mouse Buttons & Scroll Wheel*
+* [Mouseable](https://github.com/wirekang/mouseable) - *Replace Mouse with Keyboard*
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [TweakUtility](https://github.com/Craftplacer/TweakUtility), [MagicX Toolbox](https://github.com/Ahsan40/MagicX-Toolbox), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - *Windows Tweaks*
 * [Revertservice](http://revertservice.com/) - *Default configurations of Windows services*
 * [Win10 Widgets](https://win10widgets.com/), [BeWidgets](https://www.microsoft.com/en-us/p/bewidgets/9nq07fg50h2q) or [Gadgets Revived](https://gadgetsrevived.com/) - *Widgets for Windows* 
