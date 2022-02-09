@@ -80,6 +80,7 @@
 * [Windows-10](https://github.com/B00merang-Project/Windows-10) - *Linux Windows 10 Theme*
 * [HydraPaper](https://hydrapaper.gabmus.org/) or [Komorebi](https://github.com/cheesecakeufo/komorebi) - *Linux Wallpaper Manager*
 * [Polychromatic](https://polychromatic.app/) - *Linux System Light Control*
+* [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - *Window Closing Effects*
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) - *Noise Cancellation Software*
 * [Giara](https://aur.archlinux.org/packages/giara/) - *Reddit Client / [GitHub](https://gitlab.gnome.org/World/giara)*
 * [reddio](https://gitlab.com/aaronNG/reddio) - *Reddit CLI*
@@ -271,6 +272,7 @@
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - *Linux Game Package Downloader*
 * [yuzu-ea-updater-for-linux](https://github.com/lem6ns/yuzu-ea-updater-for-linux) - *Linux Yuzu Updater*
 * [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - *Roblox Manager for Linux*
+* [An Anime Game Launcher](https://gitlab.com/KRypt0n_/an-anime-game-launcher), [2](https://notabug.org/loentar/paimon-launcher) - *Run Genshin Impact on Linux / [Discord](https://discord.com/invite/ck37X6UWBp)*
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - *Play Among Us in your Terminal (Recreation)*
 
 ***
