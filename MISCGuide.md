@@ -95,6 +95,7 @@
 * [git:logs](https://www.gitlogs.com/) - *Trending GitHub Repos* 
 * [grep.app](https://grep.app/) - *Git Repository Search*
 * [Active Github Forks](https://techgaun.github.io/active-forks/) - *List of Active GitHub Forks*
+* [Git Search Engine](https://zzollo.co/) - *Search GitHub, GitLab ect.*
 * [sourcehut](https://sr.ht/) - *Public Project Index*
 * [PiracyBank](https://piracybank.org/websites) - *List of sites tagged for copyright, mostly dead* 
 * [Movim](https://movim.eu/) - *Decentralized Social Network* 
