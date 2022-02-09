@@ -735,7 +735,7 @@ RSS Player*
 * [AnimeBoya](https://github.com/Tu2l/AnimeBoya)
 * [Aniyomi](https://github.com/jmir1/aniyomi)
 * [Animebay](https://animebay.tech/)
-* [AnYme](https://github.com/zunjae/anYme)
+* [AnYme](https://github.com/zunjae/anYme) - *[GitHub](https://zunjae.github.io/anymeapp.com/) / [Discord](https://discord.com/invite/JUMvDEP)
 * [Kayuri](https://github.com/Killerpac/Kayuri)
 * [Yukino](https://github.com/yukino-app/yukino)
 * [Akiyama](https://github.com/Fmaldonado6/Akiyama)
@@ -925,6 +925,7 @@ RSS Player*
 * [PicsArt++](https://cokernutx.com/ipa-library/download/PicsArt.html), [2](https://picsart.com/apps) or [PhotoWizard](https://apps.apple.com/us/app/photowizard-photo-editor/id370833324) - *Image Editor*
 * [Tailor](http://www.trytailor.com/) - *Automatic Screenshot Stitching*
 * [ToonMe](https://toonme.com/) - *Turn Photos into Cartoons*
+* [Fimo](https://apps.apple.com/us/app/fimo-analog-camera/id1454219307) - *Vintage Image Filters*
 * [Alderis](https://github.com/hbang/Alderis) - *iOS Color Picker*
 * [Iterm](https://github.com/kaneki07/iterm) - *Terminal Emulator*
 * [Universal Control](https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879) - *Universal Remote*
