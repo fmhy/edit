@@ -1157,7 +1157,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Modded Minecraft Launchers
 
-**[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/) / [Tweaks](https://discord.gg/solartweaks) / [2](https://github.com/RichardDorian/Solar-Tweaks), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [ATLauncher](https://atlauncher.com/)
+**[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/) / [Tweaks](https://discord.gg/solartweaks) / [2](https://github.com/RichardDorian/Solar-Tweaks), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [ATLauncher](https://atlauncher.com/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher)
 
 ***
 
@@ -1284,6 +1284,8 @@ Add the following commands to a search to manually scrape each site.
 * [SSuite](https://www.ssuitesoft.com/software/ssuiteexcalibur.htm) 
 * [OpenOffice](https://www.openoffice.org)
 * [ArcaneOffice](https://arcaneoffice.com/)
+* [WPS](https://www.wps.com/)
+* [Calligra](https://calligra.org/) 
 * [OnlyOffice](https://personal.onlyoffice.com/) - *Online Office Suite*
 * [Office 365 Activators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_onedrive_generators)
 * [OfficeRTool](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/) - *Office 2016 Activation Tool* 
@@ -1685,7 +1687,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Satellite & Street View Maps
 
-**[OrganicMaps](https://organicmaps.app/)**, **[DuckDuckGo](https://duckduckgo.com/?q=maps&ia=web&iaxm=maps)**, [Yandex](https://yandex.com/maps/), [Google](https://www.google.com/maps/), [Satellites.pro](https://satellites.pro/), [Bing](https://www.bing.com/maps), [Wego.Here](https://wego.here.com/), [Terrafly](http://www.terrafly.com/), [EarthExplorer](https://earthexplorer.usgs.gov/), [EarthData](https://search.earthdata.nasa.gov/search), [PortalDeMapas](https://portaldemapas.ibge.gov.br/portal.php#homepage), [Qwant](https://www.qwant.com/maps/), [city2map](https://www.city2map.com/), [Arcane Maps](https://arcanemaps.com/) 
+**[OrganicMaps](https://organicmaps.app/)**, **[DuckDuckGo](https://duckduckgo.com/?q=maps&ia=web&iaxm=maps)**, [Yandex](https://yandex.com/maps/), [Google](https://www.google.com/maps/), [Satellites.pro](https://satellites.pro/), [Bing](https://www.bing.com/maps), [Wego.Here](https://wego.here.com/), [Terrafly](http://www.terrafly.com/), [EarthExplorer](https://earthexplorer.usgs.gov/), [EarthData](https://search.earthdata.nasa.gov/search), [PortalDeMapas](https://portaldemapas.ibge.gov.br/portal.php#homepage), [Qwant](https://www.qwant.com/maps/), [city2map](https://www.city2map.com/), [Arcane Maps](https://arcanemaps.com/), [MapQuest](https://www.mapquest.com/)
 
 ***
 
@@ -2666,7 +2668,7 @@ Good for finding classic, obscure & short films.
 
 #### Windows 10 Debloater
 
-**[QuickBoost](https://github.com/SanGraphic/QuickBoost)**, [Basic Windows (Guide)](https://rentry.co/basic-windows), [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/), [win10script](https://github.com/ChrisTitusTech/win10script) / [2](https://christitus.com/debloat-windows-10-2020/), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [CleanWin](https://github.com/pratyakshm/cleanwin), [Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier), [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script), [Remove-Windows10-Bloat](https://gist.github.com/matthewjberger/2f4295887d6cb5738fa34e597f457b7f)
+**[QuickBoost](https://github.com/SanGraphic/QuickBoost)**, [Basic Windows (Guide)](https://rentry.co/basic-windows), [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/), [win10script](https://github.com/ChrisTitusTech/win10script) / [2](https://christitus.com/debloat-windows-10-2020/), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [CleanWin](https://github.com/pratyakshm/cleanwin), [Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier), [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script), [Remove-Windows10-Bloat](https://gist.github.com/matthewjberger/2f4295887d6cb5738fa34e597f457b7f), [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10)
 
 ***
 
