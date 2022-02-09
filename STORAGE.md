@@ -83,6 +83,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://www.chatnoir.eu/
 * https://felvin.com/
 * https://petalsearch.com/
+* https://okeano.com/ 
 * http://www.seekport.com/
 * https://www.exalead.com/search/
 * http://www.search.tl/
