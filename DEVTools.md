@@ -627,6 +627,7 @@
 * [git:logs](https://www.gitlogs.com/), [RepoHunt](https://repo-hunt.signalnerve.workers.dev/) or [/r/coolgithubprojects](https://reddit.com/r/coolgithubprojects) - *Github Project Indexes*
 * [Active Github Forks](https://techgaun.github.io/active-forks/) - *List of active github forks*
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) - *View a Repositories Forks* 
+* [Git Search Engine](https://zzollo.co/) - *Search GitHub, GitLab ect.*
 * [Git Extensions](https://gitextensions.github.io/) or [Thermal](https://thermal.codecarrot.net/) - *Git Repository Manager*
 * [GitZip](https://gitzip.org/) - *Download GitHub Repository Sub-Folders / Files* 
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - *GitHub Fork Search* 
