@@ -1349,7 +1349,6 @@ General Reading Sites*
 * [Poet.so](https://poet.so/) or [Capture My Tweet](https://capturemytweet.in/) - *Create Twitter Post Images*
 * [Tweetgen](https://www.tweetgen.com/) - *Create Fake Tweets*
 * [Chirr App](https://getchirrapp.com/) - *Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chrome.google.com/webstore/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)*
-* [THS](https://xscoder.com/ths/) - *Twitter Header Maker*
 * [Thread Reader App](https://threadreaderapp.com/) - *Unroll Twitter Threads / Search* 
 * [Treeverse](https://treeverse.app/) - *Twitter Conversation Visualizer* 
 * [Trends Map](https://www.trendsmap.com/), [Twitter Trends](https://twitter-trends.vercel.app/) or [MentionMap](https://mentionmapp.com/) - *Trending Twitter Hashtags / Topics*
