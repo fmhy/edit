@@ -247,7 +247,7 @@
 * [Flux](https://www.runonflux.io/) - *Decentralized Cloud Infrastructure*
 * [Web Designer News](https://www.webdesignernews.com/) - *Web Design News*
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
-* [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [BulkLink](http://bulklink.org/), [Cliper](https://www.cliper.site/), [SEO Tools Apps](https://www.seotoolsapps.com/) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization / [Extension](https://chrome.google.com/webstore/detail/ubersuggest-seo-and-keywo/nmpgaoofmjlimabncmnmnopjabbflegf)*
+* [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [BulkLink](http://bulklink.org/), [Cliper](https://www.cliper.site/), [websiterankpro](https://www.websiterankpro.com/), [SEO Tools Apps](https://www.seotoolsapps.com/) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization / [Extension](https://chrome.google.com/webstore/detail/ubersuggest-seo-and-keywo/nmpgaoofmjlimabncmnmnopjabbflegf)*
 * [SerPreview](https://serpreviewtool.com/) - *Site Search Results Preview*
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) - *Web Debugging Proxy App*
 * [Tabler](https://tabler.io/) - *Site Admin Dashboard*
@@ -371,6 +371,7 @@
 * [Tawk](https://www.tawk.to/) - *Website Chat & Ticketing System*
 * [aftership](https://www.aftership.com/) - *Shipment Tracking API*
 * [Error404](https://error404.fun/) - *Free 404 Pages*
+* [HTTP Cats](https://http.cat/) - *Put Cat Pictures in Your Status Codes*
 * [HandShake](https://handshake.org/) - *Decentralized Certificate Authority & Naming*
 * [Let's Encrypt](https://letsencrypt.org/) - *Free TLS Certificates*
 * [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - *Free SSL Certificates*
@@ -628,6 +629,7 @@
 * [Active Github Forks](https://techgaun.github.io/active-forks/) - *List of active github forks*
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) - *View a Repositories Forks* 
 * [Git Search Engine](https://zzollo.co/) - *Search GitHub, GitLab ect.*
+* [Awesome First PR Oppotunities](https://github.com/MunGell/awesome-for-beginners) - *Beginner Friendly FOSS Project Index*
 * [Git Extensions](https://gitextensions.github.io/) or [Thermal](https://thermal.codecarrot.net/) - *Git Repository Manager*
 * [GitZip](https://gitzip.org/) - *Download GitHub Repository Sub-Folders / Files* 
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - *GitHub Fork Search* 
