@@ -113,6 +113,8 @@
 * [How To Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
 * [AltCtrls](https://altctrls.info/) - *Custom Controller Crafting Resources*
 * [Gamesoft](http://www.gamesoft.com/) - *Gaming News Feed Manager*
+* [Collection Manager](https://github.com/Piotrekol/CollectionManager) - *Osu! Collection Manager*
+* [osu trainer](https://github.com/FunOrange/osu-trainer) - *Osu! Trainer*
 * [GmodContent](https://gmodcontent.com/) - *Garry's Mod Content Packs*
 * [OrignStubDecrypter](https://github.com/PotatoOfDoom/OriginStubDecrypter) - *EA Origins Stub Decrypter*
 * [Tarac](https://sims.tarac.nl/the-sims-4/sims-4-download-update-repair-add-dlcs/) - *Sims 4 Update / Repair Tool*
