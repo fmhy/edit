@@ -159,6 +159,7 @@
 * [Idyll](https://idyll-lang.org/editor) - *Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)*
 * [FocusWriter](https://gottcode.org/focuswriter/) - *Distraction-Free Writing Environment*
 * [NovelWriter](https://novelwriter.io/) - *Markdown Style Novel Editor*
+* [Papyrus Author](https://www.papyrusauthor.com/) - *Creative Writing Suite*
 * [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - *Generate Fantasy Names*
 * [Lorem Ipsum Generator](https://apps.maximelafarie.com/lig/) - *Generate Placeholder Text*
 * [text-regenerator](https://github.com/jddunn/text-regenerator) - *Replace Words with Synonyms*
@@ -283,8 +284,8 @@
 * [real-url](https://github.com/wbt5/real-url) - *Copy Live Stream URLs*
 * [WDFlat](https://www.wdflat.com/) - *Stream Elements*
 * [Streamon](https://getstreamon.com/) - *Stream to Instagram from PC / [GitHub](https://github.com/haxzie/instagram-live-streamer)*
-* [VTuber References](https://docs.google.com/spreadsheets/d/15UpI8GEqv22T45AD3L1EgcPB4l2Tvr64aDgLq7xZfMA/htmlview) - *VTuber Tools*
-* [Kalidoface 3D](https://3d.kalidoface.com/) or [Gazo Tuber](https://ai-risun.itch.io/gazo-tuber) - *VTuber Characters*
+* [VTuber References](https://docs.google.com/spreadsheets/d/15UpI8GEqv22T45AD3L1EgcPB4l2Tvr64aDgLq7xZfMA/htmlview or [Vtube Studio](https://denchisoft.com/) - *VTuber Tools*
+* [Kalidoface 3D](https://3d.kalidoface.com/), [Animaze](https://www.animaze.us/) or [Gazo Tuber](https://ai-risun.itch.io/gazo-tuber) - *VTuber Characters*
 * [avatarify-python](https://github.com/alievk/avatarify-python) or [veadotube](https://olmewe.itch.io/veadotube-mini) - *Video Call Avatars*
 * [screengif](https://github.com/dergachev/screengif), [gifcap](https://gifcap.dev/) / [GitHub](https://github.com/joaomoreno/gifcap) or [licecap](https://www.cockos.com/licecap/) - *Turn Screencasts into GIFs*
 * [Nimbus Capture](https://nimbusweb.me/screenshot.php) - *Screenshot / Video Capture Tool*
@@ -647,6 +648,7 @@
 * [SeeLink](https://www.seelink.app/) or [Axomark](https://www.axomark.xyz/) - *Collaborative Bookmarking*
 * [Instapaper](https://www.instapaper.com/) - *Bookmarking Tool*
 * [Pilgrim](http://pilgrim.are.na/) - *Tree Style Path Bookmarking*
+* [Floccus](https://floccus.org/) - *Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)*
 * [Bort](https://bort.io/) - *Bookmark Manager that Syncs with Dropbox* 
 * [wallabag](https://wallabag.org/) - *Save and Classify Articles*
 * [BrowserParrot](https://www.browserparrot.com/) - *Browser History Search Engine*
@@ -1119,6 +1121,7 @@ General Reading Sites*
 * [Embed Visualizer](https://embed.discord.website/) - *Embed Visualization Tool* 
 * [Chimera](https://github.com/CedArctic/Chimera) - *System Remote Control* 
 * [Discord IRC](https://github.com/reactiflux/discord-irc) - *Connect Discord & IRC Chats* 
+* [The Cleaner](https://cleaner.leodev.xyz/) - *Remove Spam / Phishing Links*
 * [Discord Reputation](https://discordrep.com/) - *Prevent Discord Fraud*
 * [Discord Ban Appeals](https://github.com/patricktechn/discord-ban-appeals) - *Discord Ban Appeal Form*
 * [Discord Auto Upload](https://github.com/tardisx/discord-auto-upload) - *Auto Upload Screenshots*
@@ -1201,6 +1204,7 @@ General Reading Sites*
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - *Telegram Link Shortener Bot* 
 * [TLG.NAME](https://www.tlg.name/) - *Telegram Link Creator*
 * [URL2IMGBot](https://t.me/URL2IMGBot) - *Takes a screenshot for any URL / Telegram* 
+* [Stickers Cloud](https://stickers.cloud/en) - *Sticker Packs*
 
 ***
 
@@ -1230,6 +1234,7 @@ General Reading Sites*
 * [Astronaut.io](http://astronaut.io/), [Incognitube](https://www.incognitube.com/) or [Petit tube](http://www.petittube.com/) - *YouTube Vids with -100 views* 
 * [YouTube-Geofind](https://mattw.io/youtube-geofind/location) - *Find Geotagged Videos* 
 * [Default Filename](https://default-filename-tv.neocities.org/) - *Random Default Filename YouTube Videos*
+* [Tubeup](https://github.com/bibanon/tubeup) - *Archive Youtube Videos and Playlists to Internet Archive*
 * [Unlisted Videos](https://unlistedvideos.com/) - *Watch / Submit Unlisted YouTube Videos*
 * [QuiteAPlaylist](https://quiteaplaylist.com/) - *Find Deleted YouTube Videos*
 * [Hobune](https://hobune.stream/) - *Deleted YouTube Video Archive*
@@ -1436,6 +1441,7 @@ General Reading Sites*
 * [Office License Isn't Genuine](https://web.archive.org/web/20211014003224/https://windowsaddict.ml/office-license-is-not-genuine) - *Fix Office Activation Issues*
 * [Rufus](https://rufus.ie/), [AIO Boot](https://www.aioboot.com/), [UUP](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x), [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - *Create Bootable USB Drives*  
 * [Easy2Boot](https://www.easy2boot.com/) - *Boot Directly from ISO's* 
+* [rEFind](http://www.rodsbooks.com/refind/) - *Boot Manager*
 * [balenaEtcher](https://balena.io/etcher) - *Flash OS Image SD / USB*
 * [InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB) - *Install Windows without USB*
 * [NTLite](https://www.ntlite.com/), [WinReducer](https://www.winreducer.net/) or [MSMG Toolkit](https://msmgtoolkit.in/?i=1) - *Custom ISO Creator*
@@ -1805,7 +1811,7 @@ General Reading Sites*
 * [Adobe Excel to PDF](https://www.adobe.com/acrobat/online/excel-to-pdf.html) - *Convert Excel Files to PDF*
 * [JPG-to-PDF](https://github.com/praneetk2704/JPG-to-PDF) [Images to PDF](https://github.com/Swati4star/Images-to-PDF), [JPG2PDFBot](https://t.me/JPG2PDFBot), [Adobe Converter](https://www.adobe.com/acrobat/online/jpg-to-pdf.html) or [img2pdf](https://pypi.org/project/img2pdf/) - *Image to PDF Converter*
 * [PDFmyURL](https://pdfmyurl.com/) - *Convert Web Page to PDF* 
-* [PDFCrowd](https://pdfcrowd.com/) - *HTML to PDF / Image Converter*
+* [PDFCrowd](https://pdfcrowd.com/) or [wkhtmltopdf](https://wkhtmltopdf.org/) - *HTML to PDF / Image Converter*
 * [ShowPDF](http://showpdf.com/) - *PDF to HTML Converter*
 * [PSTOEdit](http://pstoedit.net/) - *Convert PDF to other Vector Formats* 
 * [Issuu](https://issuu.com/) - *Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/), [3](https://docdownload.net/)* 
