@@ -411,6 +411,8 @@
 * [Andkon](http://andkon.com/arcade/) 
 * [DAN-BALL](http://dan-ball.jp/en/)
 * [Unity3DGames](http://www.unity3dgames.net/)
+* [FreeGames](https://freegames.org/) 
+* [MSM Games](https://zone.msn.com/en-us/home) 
 * [Gamelor](https://www.gamelor.com/)
 * [Super Mario Bros](https://supermariobros.io/) 
 * [itch.io](https://graebor.itch.io/), [2](https://grey2scale.itch.io/), [3](https://ncase.itch.io/), [4](https://capsquared.itch.io/), [5](https://evilobjective.itch.io/)
