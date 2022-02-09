@@ -1184,7 +1184,7 @@
 * [ProjectNaptha](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - *Manipulate Browser Image Text*
 * [A+ Font Size Changer](https://chrome.google.com/webstore/detail/a%20-fontsize-changer-lite/ckihgechpahhpompcinglebkgcdgpkil) - *Change Browser Font Size & Color*
 * [Sticky Notes](https://www.getstickynotes.com/) - *Browser Sticky Notes*
-* [Toby](https://www.gettoby.com/), [Freezetab](https://freezetab.com/) or [Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - *Tab Manager*
+* [Toby](https://www.gettoby.com/), [Prune](https://chrome.google.com/webstore/detail/prune/gblddboefgbljpngfhgekbpoigikbenh), [Freezetab](https://freezetab.com/) or [Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - *Tab Manager*
 * [Dualless](https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd) or [Tab Resize](https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc) - *Split Browser Window* 
 * [Rearrange Tabs](https://chrome.google.com/webstore/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga?hl=en) - *Rearrange Tabs*
 * [chromewm](https://gitlab.com/EduCampi/chromewm) - *Tile Windows / Emulate Workspaces*
