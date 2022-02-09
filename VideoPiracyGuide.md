@@ -74,7 +74,7 @@
 * [StreamLord](http://www.streamlord.com/) - *Movies / TV*
 * [9PM](https://9pm.to/) - *Movies / TV*
 * [OnionPlay](https://onionplay.se/) - *Movies / TV*
-* [Goojara](https://www.goojara.to/) - *Movies / TV / Anime*
+* [Goojara](https://www.goojara.to/), [2](https://goojara.club/) - *Movies / TV / Anime*
 * [SpaceMov](https://spacemov.site/) - *Movies / TV*
 * [NYMeriaTV](https://nymeriatv.com/) - *Movies / TV*
 * [Join4Films](https://www.join4films.net/hollywood/) - *Movies*
@@ -108,6 +108,7 @@
 * [YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - *Youtube streaming subreddits*
 * [YouTube Streaming Channels](https://rentry.co/YT-Movies) - *Channels that host movies or shows*
 * [Official YouTube Movies](https://www.youtube.com/feed/storefront?bp=kgEDCPYDogUCKAU%3D) / [TV](https://www.youtube.com/feed/storefront?bp=kgEDCO8HogUCKAU%3D) - *Free with Ads*
+* [FREEMOVIESNOW](https://www.youtube.com/c/FREEMOVIESNOW/featured) - *YouTube Movies*
 * [JustWatch](https://www.justwatch.com/) or [ReelGood](https://reelgood.com/) - *Search Legal Streaming Hosts*
 * [Manually Scrape Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manually_scrape_sites) - *Search Sites Manually*
 
@@ -935,6 +936,7 @@
 * [MetaCritic](https://www.metacritic.com/) - *Movies / TV / Anime*
 * [rate.house](https://rate.house/) - *Media Tracker*
 * [FlickChart](https://www.flickchart.com/) - *Rank your movies*
+* [Box Office Mojo](https://www.boxofficemojo.com/) - *Box Office Earnings*
 * [Tastoid](https://www.tastoid.com/) - *Mood Based Recommendations* 
 * [BestSimilar](https://bestsimilar.com/) - *Movie Recommendations* 
 * [Movie-Map](https://www.movie-map.com/) - *Movie Recommendations*
