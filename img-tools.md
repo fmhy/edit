@@ -162,7 +162,7 @@
 * **[Awesome GIF](https://github.com/davisonio/awesome-gif)** - *GIF Resource Index*
 * [Online GIF Tools](https://onlinegiftools.com/) - *GIF Tools*
 * [Giphy](https://giphy.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/), [reactiongifs](https://www.reactiongifs.us/), [reactiongifs](https://reactiongifs.me/), [gif-finder](https://gif-finder.com/), [reactiongifs](http://www.reactiongifs.com/), [bestanimations](https://bestanimations.com/), [Animations](https://bleuje.github.io/animationsite/), [gifimage](https://gifimage.net/) or [Animated Images](https://www.animatedimages.org/) - *Download GIFs* 
-* [EZGif](https://ezgif.com/), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFMemes](https://gifmemes.io/), [gifexplosion](https://gifexplosion.com/app.php), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Gif Maker](https://gifmaker.me/) - *GIF Creator / Editor*
+* [EZGif](https://ezgif.com/), [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFMemes](https://gifmemes.io/), [gifexplosion](https://gifexplosion.com/app.php), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Gif Maker](https://gifmaker.me/) - *GIF Creator / Editor*
 * [GIF Explode](https://gif-explode.com/) - *Split GIFs Into Frames*
 * [gifify](https://github.com/vvo/gifify) or [Video-to-GIF](https://hnet.com/video-to-gif/) - *Video to GIF Converter*
 * [GifRun](https://gifrun.com/) - *Make GIFs From Online Videos*
@@ -368,8 +368,9 @@
 * [KSnip](https://github.com/ksnip/ksnip)
 * [LightShot](https://app.prntscr.com/en/index.html)
 * [Nimbus Capture](https://nimbusweb.me/screenshot.php) 
+* [Pika](https://pika.rishimohan.me/) - *Screenshot Editor / [GitHub](https://github.com/rishimohan/pika)*
 * [Screenshot Guru](https://screenshot.guru/), [CleanShot](https://cleanshot.vercel.app/) or [Site-Shot](https://www.site-shot.com/) - *Online Screenshot Tool* 
-* [OnlineScreenshot](https://onlinescreenshot.com/) or [Pikwy](https://pikwy.com/) - *Site Screenshot Tool*
+* [OnlineScreenshot](https://onlinescreenshot.com/), [Screenshot Rocks](https://screenshot.rocks/) / [GitHub](https://github.com/daveearley/screenshot.rocks ) or [Pikwy](https://pikwy.com/) - *Site Screenshot Tool*
 * [puush](https://puush.me/) - *Easily Share Screenshots*
 * [Screenstab](http://screenstab.com/) - *Create Graphics from Screenshots*
 * [Limus](https://limus.netlify.app/) or [Screenstab](https://www.screenstab.com/editor/) - *Change Screenshot Angles*
