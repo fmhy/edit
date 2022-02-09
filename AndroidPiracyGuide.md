@@ -144,7 +144,6 @@
 * [PhoneSized](https://phonesized.com/) - *Phone Size Comparisons*
 * [Don’t kill my app!](https://dontkillmyapp.com/) - *Manufacturer Battery Life vs. App Functionality*
 * [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) - *Battery Health App*
-* [Another Monitor](https://github.com/AntonioRedondo/AnotherMonitor) - *Android Usage Monitor*
 * [FileManager](https://github.com/SimpleMobileTools/Simple-File-Manager) or [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager) / [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager) - *File Manager*
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - *Note Taking Apps*
 * [Serenity Notes](https://www.serenity.re/en/notes) - *Collaborative Notes*
