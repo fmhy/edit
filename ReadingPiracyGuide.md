@@ -782,6 +782,7 @@
 * [Random Comic Generator 3.0](https://explosm.net/rcg) - *Explosm Random Comic Generator*
 * [RichieRichcomicsfanclub](https://richierichcomicsfanclub.wordpress.com/) - *Richie Rich Comics* 
 * [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - *Tor required* 
+* [ComicEater](https://github.com/kanjieater/ComicEater) - *Comic Archiving Tools*
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comics-DL](https://github.com/The-Eye-Team/Comics-DL), [Comic-DL](https://github.com/Xonshiz/comic-dl) or [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md) - *Comic Downloaders*
 * [Dark_Horse_Comics_Converter](https://github.com/GrowAsguard/Dark-Horse-Comics-Converter) - *Dark Horse Comics Downloader*
 * [Tapastic Comic Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - *Tapas Comics Downloader*
@@ -910,6 +911,7 @@
 * [CrossFace](https://crossface.cf/manga-reader/) - *Browser Comic / Manga Reader*
 * [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl) - *Manga Downloader*
 * [manga-py](https://github.com/manga-py/manga-py) - *Python Line Manga Downloader* 
+* [MangaManage](https://github.com/Daedren/MangaManage) - *Tachiyomi Download Manager*
 * [Manga APIs](https://rentry.co/manga-apis) - *Manga Site API's*
 * [Scanlation Sites](https://www.reddit.com/r/mangadex/comments/mafhtl/scanlation_sites_megathread/) - *Manga Scanlation Groups*
 * [MangaUpdates](https://www.mangaupdates.com/) - *Manga Release Updates*  
@@ -919,6 +921,7 @@
 * [Anity](https://redd.it/g372gu), [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en), [manga-translator](https://github.com/cameronkinsella/manga-translator) or [Scanlate](https://scanlate.io/) - *Manga Translator*
 * [Tenma](https://github.com/Tenma-Server/Tenma), [Mango](https://github.com/hkalexling/Mango) or [Komga](https://komga.org/) - *Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)*
 * [Onodera](https://github.com/onoderaproject/onodera) - *Anime & Manga Database*
+* [Manga-Tagger](https://github.com/inpacchi/manga-tagger) - *Managa Manga Metadata*
 
 ***
 
