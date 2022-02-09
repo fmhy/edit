@@ -64,6 +64,7 @@
 * [iBiblio](https://www.ibiblio.org/) - *Site / Tool Index* 
 * [Acme](http://www.acme.com/) - *Site / Tool Index* 
 * [itch.io Tools](https://itch.io/tools/free) - *Site / Tool Index*
+* [Beej's Index](https://www.beej.us/) - *Site / Tool Index*
 * [Nicelist](https://github.com/alamehan/nice-list) - *Site Index*
 * [num's link list](https://web.archive.org/web/20210102182957/https://soda.privatevoid.net/num/lists/web/) - *Site Index*
 * [NYPL Best of the Web](https://www.nypl.org/collections/nypl-recommendations/best-of-web) - *Site Index*
@@ -897,6 +898,7 @@
 * [Font Megadrive](https://mega.nz/file/QUNASIQZ#RDRA-Q0bVrcaw5i7chJXDKYsSm1mjo7IxIVSqNf3edI)
 * [Velvetyne](https://velvetyne.fr/)
 * [FontsHub](https://fontshub.pro/)
+* [CandyFonts](https://candyfonts.com/)
 * [Font Library](https://fontlibrary.org/) 
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/)
 * [Lost Type Co-op](http://losttype.com/)
@@ -1064,7 +1066,7 @@
 * [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - *Archive, Scrape & Crawl Sites* 
 * [WaybackEverywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox) - *Auto Load Archived Versions of Dead Pages*
 * [Wikiwand](https://www.wikiwand.com/) - *Wikipedia web / Mobile Reader* 
-* [Sticky Notes](https://blog.kumabook.tokyo/stickynotes/index.html) - *Browser Sticky Notes* 
+* [Sticky Notes](https://blog.kumabook.tokyo/stickynotes/index.html) or [Insert Learning](https://insertlearning.com/) - *Browser Notes* 
 * [Draw on Page](https://mybrowseraddon.com/draw-on-page.html) - *Draw on Webpages*
 * [Page Edit](https://mybrowseraddon.com/page-edit.html) - *Turn Webpages into Editable Documents*
 * [Save Page WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_save_page_we), [SingleFile](https://github.com/gildas-lormeau/SingleFile) or [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - *Save Webpages as HTML* 
