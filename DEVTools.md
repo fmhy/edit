@@ -369,6 +369,7 @@
 * [GetButton](https://getbutton.io/) - *Get free 'Message Us' Button for your Site*
 * [cssbuttons](https://cssbuttons.io/) - *CSS Buttons*
 * [Tawk](https://www.tawk.to/) - *Website Chat & Ticketing System*
+* [StackWhats](https://stackwhats.com/) - *Add Whatsapp Chat to Your Website*
 * [aftership](https://www.aftership.com/) - *Shipment Tracking API*
 * [Error404](https://error404.fun/) - *Free 404 Pages*
 * [HTTP Cats](https://http.cat/) - *Put Cat Pictures in Your Status Codes*
