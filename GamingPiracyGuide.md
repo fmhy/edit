@@ -593,6 +593,7 @@
 * [Sokoban](https://suppilulemur.neocities.org/) - *Box Moving Puzzle Game / Zelda-Themed*
 * [BestCrosswords](https://www.bestcrosswords.com/), [USAToday](https://games.usatoday.com/games/uclick-crossword), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - *Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)*
 * [Regex Cross­word](https://regexcrossword.com/) - *Regex Cross­words*
+* [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) - *Wordle Like Games*
 * [Game for the Brain](https://www.gamesforthebrain.com/) - *Puzzles & Quizzes*
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - *Online Jigsaw Puzzles*
 * [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - *Solve a Rubix Cube / [Solver](https://rubiksolve.com/), [2](https://bnice.ru/asolver/), [3](https://rubiks-cube-solver.com/)* 
