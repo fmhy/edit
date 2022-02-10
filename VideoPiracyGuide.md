@@ -946,7 +946,6 @@
 * [Suggest Me Movie](https://www.suggestmemovie.com/) - *Movie Recommendations*
 * [agoodmovietowatch](https://agoodmovietowatch.com/) - *Movie Recommendations*
 * [MovieSync](https://movie-sync-app.web.app/) - *Movie Recommendations* 
-* [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - *Netflix TV Show / Movie Recommendations* 
 * [CouchMoney](https://couchmoney.tv/) - *Movie Recommendations for Trakt* 
 * [Cinetrii](https://cinetrii.com/) - *Discover Movies with Similar Themes* 
 * [DateNightMovies](https://datenightmovies.com/) - *Get Recommendations Based on 2 Movies* 
@@ -956,8 +955,10 @@
 * [RatingsGraph](https://www.ratingraph.com/) - *Movie / TV Ratings Graphs*
 * [TV Chart](https://tvchart.benmiz.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - *TV Episode Rating Graphs*
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Greatest 100 Lists*
+* [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - *Netflix TV Show / Movie Recommendations* 
 * [What's on Netflix](https://www.whats-on-netflix.com/library/) - *Browse Netflix Library*
 * [Netflix Top 10](https://top10.netflix.com/) - *Netflix Most-Watched Chart*
+* [Netflix Codes](https://www.netflix-codes.com/) - *Netflix Category Codes*
 * [ReelScary](http://www.reelscary.com/) - *Movies Rated by Scariness* 
 * [Film Genre Wiki](https://en.wikipedia.org/wiki/Template:Film_genres) - *Movie Genre List*
 * [Horror Sub-Genre Guide](https://i.stack.imgur.com/lAEV1.png) - *List of Horror Genres*
