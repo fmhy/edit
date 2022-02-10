@@ -778,7 +778,7 @@
 * [The-Eye Comics](http://the-eye.eu/public/Comics/) - *Comic Archive* 
 * [ComicBookPlus](https://comicbookplus.com/) - *Classic Comics*
 * [GoComics](https://www.gocomics.com/) - *Comics Strips*
-* [Zahard](https://zahard.top/) - *WebToons*
+* [Zahard](https://zahard.xyz/) - *WebToons / [Telegram](https://t.me/fast_pass)*
 * [Random Comic Generator 3.0](https://explosm.net/rcg) - *Explosm Random Comic Generator*
 * [RichieRichcomicsfanclub](https://richierichcomicsfanclub.wordpress.com/) - *Richie Rich Comics* 
 * [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - *Tor required* 
@@ -1152,6 +1152,7 @@
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - *Read Books in Browser*
 * [Kindle to PDF](https://redd.it/bm837l) - *Kindle to PDF Conversion Guide*
 * [Ebook Sender](https://telegram.me/to_kindle_bot), [SendEpubToKindle](https://www.sendepubtokindle.com/), [Kobo ](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - *Send Ebooks to Kindle*
+* [KoboCloud](https://github.com/fsantini/KoboCloud) - *Sync Kobo to Cloud Services*
 * [Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading) Ebook Readers - *Mobile Browser Readers*
 * [The Open Book](https://github.com/joeycastillo/The-Open-Book) - *DIY Ebook Reader*
 
