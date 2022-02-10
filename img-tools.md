@@ -138,7 +138,7 @@
 * [Band-Flyers](https://band-flyers.com/) - *Band Flyer Creator*
 * [Mockupea](https://mockupea.com/) - *Book / Magazine Mockup Cover Creator*
 * [Unsell](https://www.unsell.design/) - *Portfolio / Magazine Templates*
-* [PSDcovers](https://www.psdcovers.com/), [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [medialoot](https://medialoot.com/free-mockups/) or [MockupsForFree](https://mockupsforfree.com/) - *Product Mockups*
+* [PSDcovers](https://www.psdcovers.com/), [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [Mockups](https://mockups.pixeltrue.com/), [medialoot](https://medialoot.com/free-mockups/) or [MockupsForFree](https://mockupsforfree.com/) - *Product Mockups*
 * [Venngage](https://venngage.com/) - *Infographic Maker*
 * [Quote Maker](https://quotescover.com/) - *Quote Picture Generator*
 * [MyNameArt](https://www.mynameart.com/) or [Kisseo](https://www.kisseo.com/) - *Custom Greetings Cards*
@@ -146,7 +146,7 @@
 * [FakeReceipt](http://www.fakereceipt.us/) - *Create Fake Receipts*
 * [The Rasterbator](https://rasterbator.net/) - *Wall Art Generator* 
 * [Flag Maker](https://flagmaker-print.com/pages/flag-maker) - *Flag Creator*
-* [ArmorLab](https://armorlab.org/) or [TextureLab](https://www.texturelab.io/) - *Texture Generator / [GitHub](https://github.com/armory3d/armorlab)*
+* [ArmorLab](https://armorlab.org/), [Kandinsky](https://www.kandinsky.io/) or [TextureLab](https://www.texturelab.io/) - *Texture Generator / [GitHub](https://github.com/armory3d/armorlab)*
 * [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) - *Texture Editor*
 * [NormalMap Online](https://cpetry.github.io/NormalMap-Online/) - *Online NormalMap Generator*
 * [The Wood Workshop](http://spiralgraphics.biz/ww_overview.htm) - *Wood Texture Editor / Creator*
@@ -201,6 +201,7 @@
 * [Picrew](https://picrew.me/) - *Animated Character Maker*  
 * [Ink Workspace](https://www.microsoft.com/store/productId/9P0RP342JZMN) - *Pen App Launcher*
 * [brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](http://wowbrushes.com/), [chezplumeau](https://www.chezplumeau.com/), [brushesdownload](http://www.brushesdownload.com/), [getbrushes](http://getbrushes.com/), [gfxfever](http://gfxfever.com/photoshop-brushes), [fbrushes](https://fbrushes.com/), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/) - *Digital Art Brushes*
+* [PanosFX](https://www.panosfx.com/) or [Fix the Photo](https://fixthephoto.com/free-photoshop-actions) - *Photoshop Actions*
 
 *** 
 
@@ -233,7 +234,7 @@
 * **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)** - *Search by Image*
 * [GFX Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources) - *Graphic Design Resources*
 * [Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)
-* [RipMe](https://github.com/RipMeApp/ripme), [gallery-dl](https://github.com/mikf/gallery-dl) or [Image Extractor](https://extract.pics/) - *Image Download Tools*
+* [RipMe](https://github.com/RipMeApp/ripme), [ImgDownloader](https://imgdownloader.com/), [gallery-dl](https://github.com/mikf/gallery-dl) or [Image Extractor](https://extract.pics/) - *Image Download Tools*
 * [picsearch](https://www.picsearch.com/) - *Image Search*
 * [RootAbout](https://rootabout.com/) - *Archive / OpenlLibrary Reverse Image Search* 
 * [PicTriev](http://www.pictriev.com/) - *Find Look-Alike Images* 
@@ -336,7 +337,7 @@
 * [Watermarkly](https://watermarkly.com/) or [Watermarkup](https://watermarkup.com/watermark.html) - *Image Watermarking*
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - *Scan & Digitize Documents / iOS*
 * [Swapper](https://icons8.com/swapper) - *Face Swapper*
-* [DeepSort](https://github.com/CorentinB/DeepSort/) - *Image Tagger* 
+* [DeepSort](https://github.com/CorentinB/DeepSort/) or [WiseTagger](https://github.com/0xb8/WiseTagger) - *Image Tagger* 
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) or [PhotoPrism](https://photoprism.app/) - *Automatically Organize & Tag Photos*
 * [Photo.net Tutorials](https://www.photo.net/learn/about/tutorials) - *Photography Tutorials*
 
