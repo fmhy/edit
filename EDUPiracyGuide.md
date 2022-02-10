@@ -66,6 +66,7 @@
 * [mathhelp](https://www.mathhelp.com/) - *Math Tutorials*
 * [mathonline](http://mathonline.wikidot.com/) - *Math Tutorials*
 * [NYU-DLSP21](https://atcold.github.io/NYU-DLSP21/) - *Deep Learning Course*
+* [BillNye](https://billnye.com/) - *Bill Nye Science Videos*
 * [brighstorm](https://www.brightstorm.com/) - *Test Prep*
 * [O'Reilly](https://www.oreilly.com/) - *Tech / Programming / infinite free trial by clearing cookies / making new account*
 * [pad.ma](https://pad.ma/) - *Text-annotated Videos* 
@@ -77,6 +78,7 @@
 * [Learn Computer Science in 1k Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/) - *Computer Science Courses*
 * [FreeCourseWebsite](https://freecoursewebsite.com/) - *Udemy Courses*
 * [UdemyFreeCourses](https://udemyfreecourses.org/) - *Udemy Courses*
+* [Study Bullet](https://studybullet.com/) - *Udemy Courses / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw)*
 * [TutsNode](https://tutsnode.net/) - *Udemy Courses*
 * [/r/udemyfreebies](https://reddit.com/r/udemyfreebies) - *Udemy Courses*
 * [Automatic-Udemy-Course-Enroller](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE), [Discounted-Udemy-Course-Enroller](https://github.com/techtanic/Discounted-Udemy-Course-Enroller) or [UdemyEnrollEverywhere](https://github.com/keethesh/UdemyEnrollEverywhere) - *Auto Udemy Course Enrollment*
@@ -404,6 +406,10 @@
 * [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - *Spitfire Mark IX Cockpit Interactve Panorama* 
 * [Explore Pharaoh Ramesses VI Tomb](https://my.matterport.com/show/?m=NeiMEZa9d93) - *Pharaoh Ramesses VI Tomb Virtual Tour*
 * [Virtual Vist Tours](https://www.virtualvisittours.com/) - *Ireland Virtual Tours* 
+* [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [CityWalks](https://citywalks.live/) or [Virtual Vacations](https://virtualvacation.us/) - *Travel Simulator*
+* [Matterport](https://matterport.com/gallery) - *Explore Real Places Digitally*
+* [Outside Simulator](https://outsidesimulator.com/) - *Simulate Being Outside* 
+* [Heygo](https://www.heygo.com/) - *Live Interactive Virtual Tours*
 
 ***
 
@@ -632,7 +638,7 @@
 * [Altium](https://www.altium.com/viewer/) - *Schematics Visualizer*
 * [OpenLearning](https://www.openelearning.org/) - *Create Course Presentations*
 * [Quizizz](https://quizizz.com/) - *Create Quizzes, Lessons, Flashcards & Presentations*
-* [Anki](https://apps.ankiweb.net/), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html) or [Flashcard Machine](https://www.flashcardmachine.com/) - *Flash Card Tool*
+* [Anki](https://apps.ankiweb.net/) / [Addons](https://github.com/tianshanghong/awesome-anki), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html) or [Flashcard Machine](https://www.flashcardmachine.com/) - *Flash Card Tool*
 * [Wolfram Cloud](https://www.wolframcloud.com/) - *Computational intelligence*
 * [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
 *  [Mujoco](https://github.com/deepmind/mujoco), [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - *Physics Simulations / Animations*
