@@ -1647,6 +1647,7 @@ Portuguese
 * [BotAllen](https://botallen.com/) - *Kodi Repo*
 * [PCPriceTracker](https://pcpricetracker.in/) - *Track PC Component Rupee Prices*
 * [IDCARDS.PW](https://www.idcards.pw/) - *Fake Indian ID Card Generator*
+* [TDIL](https://tdil-dc.in/eocr/index.html) - *Indian Languages OCR*
 
 ***
 
