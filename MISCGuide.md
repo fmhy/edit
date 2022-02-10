@@ -88,6 +88,7 @@
 * [National Archives](http://www.nationalarchives.gov.uk/webarchive/) - *UK Government Site Archive*
 * [UKWA](https://www.webarchive.org.uk/ukwa/) - *UK Site Archive*
 * [DeepWebLinks](https://deepweblinks.net/directories/), [dark.fail](https://dark.fail/),  [260+ Dark Web Links](https://ufile.io/pgvxf9jv), [Official Hidden Wiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/) or [Real World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites)
+* [The Hive Index](https://thehiveindex.com/) - *Online Communities Index*
 * [NetSplit](https://netsplit.de/) - *IRC Channel Index*
 * [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) - *API index* 
 * [Cyberlife](https://cyberpunk-life.neocities.org/) - *Cyberpunk-Related Content / Sites Index* 
@@ -110,7 +111,7 @@
 * [Anilinks](https://anilinks.neocities.org/) - *Anime Related Site Index* 
 * [10kb Club](https://10kbclub.com/), [250kb Club](https://250kb.club/), [512kb Club](https://512kb.club/), [1MB Club](https://1mb.club/) - *Websites that don't exceed a certain size*
 * [LowTech Directory](https://emreed.net/LowTech_Directory.html) - *Low Tech Site Index*
-* [The Geocities Gallery](https://geocities.restorativland.org/) - *Old Site Index*
+* [The Geocities Gallery](https://geocities.restorativland.org/) or [404PageFound](https://www.404pagefound.com/) - *Old Site Indexes*
 * [ZoaLink](https://zoalink.com/) - *Korean Sites Index* 
 * [endoflife.date](https://endoflife.date/) - *Tools & Technologies' End of life Index*
 * [KilledByGoogle](https://killedbygoogle.com/) - *Dead Google Project Index*
@@ -263,6 +264,7 @@
 * [Outside Simulator](https://outsidesimulator.com/) - *Simulate Being Outside* 
 * [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [CityWalks](https://citywalks.live/) or [Virtual Vacations](https://virtualvacation.us/) - *Travel Simulator*
 * [Matterport](https://matterport.com/gallery) - *Explore Real Places Digitally*
+* [Heygo](https://www.heygo.com/) - *Live Interactive Virtual Tours*
 * [stringers.live](https://stringers.live/) - *Live Freelance Journalist Streams*
 * [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - *Open Random Windows*
 * [LifeAt](https://lifeat.io/) - *Virtual Video Spaces*
@@ -840,6 +842,7 @@
 * [CellMapper](https://www.cellmapper.net/) - *Cell Tower Map*
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - *Cell Carrier FCC Spectrum Map*
 * [4G LTE Coverage](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b) - *4G LTE Coverage Map*
+* [Wigle](https://wigle.net/) - *802.11 Wireless Network Map*
 * [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - *Web Service Coverage Map*
 * [Broadband Map](https://broadbandmap.fcc.gov/) - *Fixed Broadband Deployment Map*
 * [Waqi.info](http://waqi.info/) - *Air Pollution Map*
@@ -1196,6 +1199,8 @@
 * [Popup Tab Switcher](https://chrome.google.com/webstore/detail/popup-tab-switcher/cehdjppppegalmaffcdffkkpmoflfhkc) - *Improved Tab Switching*
 * [Relative Bookmarks](https://github.com/duiker101/relative_bookmarks) - *Add Relative Bookmarks*
 * [Mercury Reader](https://mercury.postlight.com/reader/) - *Clear Clutter From Articles / [GitHub](https://github.com/postlight/mercury-parser)*
+* [OpenDyslexic](https://chrome.google.com/webstore/detail/opendyslexic-for-chrome/cdnapgfjopgaggbmfgbiinmmbdcglnam) - *Increase Page Readability*
+* [Read Progress](https://chrome.google.com/webstore/detail/website-read-progress/cpmfchlofecflfioofchboebmocaelip) - *Display Read Progress on WebPage*
 * [Go Back in Time](https://chrome.google.com/webstore/detail/go-back-in-time/hgdahcpipmgehmaaankiglanlgljlakj) - *View Archived / Cached Webpages*
 * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en) - *Image / Video Album Downloader / [Script](https://openuserjs.org/scripts/indream/DownAlbum)* 
 * [BetterViewer](https://github.com/Ademking/Betterviewer) - *Improved Image Viewer*
@@ -1205,7 +1210,6 @@
 * [Social Tools](https://chrome.google.com/webstore/detail/facebook-block-read-recei/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) - *Block "Sending" & "Seen" Facebook Chat Indicators* 
 * [Charcoal Dark Mode](https://chrome.google.com/webstore/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - *Facebook Messenger Dark Mode*
 * [Mate Translate](https://gikken.co/mate-translate/chrome/) - *Translator*
-* [OpenDyslexic](https://chrome.google.com/webstore/detail/opendyslexic-for-chrome/cdnapgfjopgaggbmfgbiinmmbdcglnam) - *Increase Page Readability*
 * [SiteScrubber](https://chrome.google.com/webstore/detail/sitescrubber/ffadalgofahhohaciekjchkikcglcpla) - *Hide Offensive/Swear Words on Sites*
 * [Show Keys](https://chrome.google.com/webstore/detail/show-keys/bkcpmidbgmfbbeanejhepkjakagfaaon) - *Show Keys As You Type*
 * [Typio Form Recovery](https://typiorecovery.github.io/), [2](https://chrome.google.com/webstore/detail/typio-form-recovery/djkbihbnjhkjahbhjaadbepppbpoedaa) - *Autosave Input Data in Forms*
