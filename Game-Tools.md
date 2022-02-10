@@ -229,6 +229,7 @@
 * [GTAV-SimpleGangWar](https://github.com/David-Lor/GTAV-SimpleGangWar) - *GTAV Gang War Script*
 * [GTA-V-Suspender](https://github.com/gyfen/GTA-V-Suspender) - *Suspend GTAV*
 * [Wanted-Music-IV](https://github.com/ClonkAndre/Wanted-Music-IV) - *GTAV Wanted Music in GTAIV*
+* [GTA 5 Grand Roleplay](https://gta5grand.com/) - *GTAV Roleplay Server*
 * [D.E.P](https://www.definitive-edition-project.com/) - *Fix GTA PC Port Bugs*
 * [re3](https://github.com/td512/re3) - *GTAIII & Vice City Mods*
 * [gta-city-of-lost-heaven](https://github.com/RadValentin/gta-city-of-lost-heaven) - *GTAVC Mafia Themed Mod*
