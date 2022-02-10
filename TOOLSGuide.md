@@ -420,7 +420,7 @@
 * [Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Download Album Art*
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - *Identify Playing Songs*
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/) - *Soundboard Program*
-* [MyInstants](https://www.myinstants.com/index/us/) or [Soundboard.com](https://www.soundboard.com/) - *Online Soundboard*
+* [MyInstants](https://www.myinstants.com/index/us/), [InternetsFun](https://instantsfun.es/) or [Soundboard.com](https://www.soundboard.com/) - *Online Soundboard*
 * [Soundpad](https://www.leppsoft.com/soundpad/) - *Voicechat Soundboard*
 * [Monash IO](https://monash.io/) or [AudioRelay](https://audiorelay.net/) - *Stream PC Audio to Phone* 
 * [iPod.js](https://tannerv.com/ipod/) - *iPod Themed Web Music Player*
@@ -558,6 +558,7 @@
 * [Crypto Ecosystem 2021](https://docs.google.com/document/d/1RM7AoUKbXEqZ2qATTxGYLMexu3Jxrf3oYiwbsrXOXUQ) - *Beginner's Guide to Crypto Ecosystem*
 * [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - *Crypto Learning Resources*
 * [TryHackMe](https://tryhackme.com/), [AWS Training](https://www.aws.training/), [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html), [UI.com](https://www.ui.com/training/), [CryptoHack](https://cryptohack.org/) - *IT Training & Courses*
+* [NIST](https://www.nist.gov/nice/apprenticeship-finder) - *NICE Apprenticeship Program Finder*
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - *Cloud Career Training*
 * [Failory](https://www.failory.com/graveyard) - *Learn Why Startups & Products Failed*
 * [AngelLIst](https://angel.co/) - *Startup Community*
@@ -670,12 +671,9 @@
 * [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/) or [Bitchx](http://bitchx.sourceforge.net/) - *IRC Client*
 * [LAN Messenger](https://lanmessenger.github.io/) - *FOSS LAN Messenger / [GitHub](https://github.com/lanmessenger/lanmessenger)*
 * [Cabal](https://cabal.chat/) - *P2P Chat / [GitHub](https://github.com/cabal-club)*
-* [Cinny](https://cinny.in/) - *Matrix Client*
 * [Slink](https://slink.chat/) - *Aim Inspired Chat Client*
 * [Rocket Chat](https://rocket.chat/) - *Self-Hosted Chat Client*
 * [Delta Chat](https://delta.chat/en/) - *Email Based Messenger* 
-* [Conduit](https://gitlab.com/famedly/conduit), [Matrix Servers](https://joinmatrix.org/servers/) or [publiclist.anchel](https://archive.md/4xZE4) - *Matrix Home Servers* 
-* [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html), [Public Servers](https://wiki.asra.gr/en:public_servers) or [List of Matrix Servers](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html) - *Matrix Server List*
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - *Export Skype Chat Data to Readable Text*
 * [Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [Whereby](https://whereby.com/), [Videolink2me](https://videolink2me.com/), [TinyChat](https://tinychat.com/), [Noysi Meet](https://meet.noysi.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat*
@@ -1309,6 +1307,7 @@ General Reading Sites*
 
 * [Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers) - *Block Ads on Twitch*
 * [BetterTTV](https://betterttv.com/) or [FrankerFacez](https://www.frankerfacez.com/) - *Twitch Enhancement Extension*
+* [Stream Scheme](https://www.streamscheme.com/) - *Livestreaming Guides & Resources*
 * [Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f) - *Twitch Extension Index*
 * [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  *Download Twitch Videos* 
 * [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - *Recover, View & Download Twitch Videos*
@@ -1369,7 +1368,7 @@ General Reading Sites*
 * [HashTagStack](https://www.hashtagstack.com/) - *Hashtag Engagement Tracker*
 * [Hashait](https://www.hashatit.com/) - *Hashtag Search*
 * [Buhitter](https://buhitter.com/) - *Twitter Illustration Search*
-* [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - *Download Twitter Videos* 
+* [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [Savetweetvideo](https://chrome.google.com/webstore/detail/savetweetvid/mklnanllkbjgnnhammmgfnnbnbhnifme), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - *Download Twitter Videos* 
 * [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/) or [SocialBearing](https://socialbearing.com/) - *Analyze Twitter Accounts* 
 * [TweeterID](https://tweeterid.com/) - *Twitter User ID & Username Converter* 
 * [NoFT](https://noft.gg/) - *Automatically Block all NFT Profile Pictures / [GitHub](https://github.com/ottomated/noft)*
@@ -1591,6 +1590,7 @@ General Reading Sites*
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](http://www.keyefficiency.com/) - *System Task Scheduler*
 * [Nomad](https://www.nomadproject.io/) - *App Deployment Automation / [GitHub](https://github.com/hashicorp/nomad)*
 * [cygwin](http://cygwin.com/) - *Linux Style Windows Tools*
+* [WSL2 Distrod](https://github.com/nullpo-head/wsl-distrod) - *Install Distros with Systemd & Auto-Start On*
 * [Menu11](https://github.com/prateekmedia/Menu11) - *Windows 11 Style Launcher*
 * [DreyMaR's](https://dreymar.colemak.org/) - *Keyboard Tips and Resources*
 * [Keyboard University](https://keyboard.university/) or [KDB](http://xahlee.info/kbd/keyboarding.html) - *Mechanical Keyboard Building Guides*
@@ -1650,6 +1650,7 @@ General Reading Sites*
 * [BIOS-PW](https://bios-pw.org/) - *BIOS Password Recovery for Laptops*
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - *Terminal Frameworks, Plugins & Resources* 
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/) or [MobaXterm](https://mobaxterm.mobatek.net/) - *Alternative Terminal* 
+* [Gradient Terminal](https://github.com/aurora-0025/gradient-terminal) - *Display Terminal Output as Gradient*
 * [ss64](https://ss64.com/) - *Command Line Reference Index*
 * [ZimTools](https://zimtools.xyz/) - *Command Line Tool Configs*
 * [Terminal Icons](https://github.com/devblackops/Terminal-Icons) - *File and Folder Icons in Terminal*
