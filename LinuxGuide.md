@@ -87,6 +87,7 @@
 * [gettit](https://github.com/Solirs/gettit/) - *Reddit CLI Video Downloader*
 * [rainbowstream ](https://github.com/orakaro/rainbowstream) - *Twitter CLI*
 * [ramme](https://github.com/terkelg/ramme) - *Instagram Client*
+* [LiMP](https://git.coom.tech/eternal-coomer/LiMP) - *Local Booru*
 * [Luakit](https://luakit.github.io/) - *Lightweight Linux Browser* 
 * [browsh](https://www.brow.sh/) - *Text based Browser*
 * [Librewolf Linux](https://librewolf-community.gitlab.io/) or [Dot Browser](https://github.com/dothq/browser) - *Privacy-Based Browser*
