@@ -367,6 +367,7 @@
 * [Kpop Stan](https://kpopstan.com/) - *KPop / MP3*
 * [MikuDB](http://mikudb.moe/) - *Vocaloid / MP3*
 * [Все Саундтреки](http://xn--80adhccsnv2afbpk.xn--p1ai/), [DS Soundtrack](https://dsoundtrack.com/), [Soundkino](https://soundkino.biz/), [Download-Soundtracks](http://download-soundtracks.com/), [Audio-Track](https://www.audio-track.com/en), [3ost](https://3ost.ru/) or [tanikal](https://www.tanikal.com/) - *Soundtracks* 
+* [GTA Radio Stations](http://two66.com/mirrors/?dir=GTA-Radio-Stations) - *GTA Radio Station Music*
 * [SittingOnClouds](https://www.sittingonclouds.net/) / [Discord](https://discord.com/invite/x23SFbE) - *Anime / Game Soundtracks*
 * [AniPlaylist](https://aniplaylist.com/), [OSAnime](https://osanime.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - *Anime Soundtracks* 
 * [OtakuOst](https://otakuost.net/) - *Anime Soundtracks & Japanese Music* 
