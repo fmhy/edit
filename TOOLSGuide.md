@@ -1149,7 +1149,6 @@ General Reading Sites*
 * [Movata](https://movata.cc/) or [Discord Together](https://github.com/RemyK888/discord-together) - *Video Stream Sync / Watch Parties*
 * [MangaCord](https://top.gg/bot/751148743901970622?tab=overview) - *Read Manga on Discord [Disocrd](https://discord.gg/UtTJcWzCRe)*
 * [DiskCord](https://github.com/5ut/DiskCord) - *Host Files on External Sites to share via Discord*
-* [discord-logo](http://nntin.github.io/discord-logo) - *Discord Animated Logo Generator / [Discord](https://discord.gg/gDHs8AV)*
 * [LottieResizer](https://lottieresizer.tech/) - *Lottie Resizer*
 * [discordcompressor](https://github.com/vladaad/discordcompressor) - *Video Compressor*
 * [Natron](https://natron.fr/) or [Fusion](https://www.blackmagicdesign.com/ca/products/fusion/) - *Video Compositing*
