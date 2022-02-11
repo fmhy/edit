@@ -256,9 +256,15 @@
 * [WireFlow](https://wireflow.co/) - *Flow Prototype Maker*
 * [Geekflare Tools](https://gf.dev/toolbox) - *Site Testing Tools*
 * [UXTweak](https://www.uxtweak.com/) - *Website Design Usability Improvement Tool*
+* [Stark](https://www.getstark.co/), [deque](https://www.deque.com/axe/), [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [Achecker](https://achecker.ca/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [tota11y](https://khan.github.io/tota11y/) - *Accessibility Evaluation Tools*
+* [Contraste](https://contrasteapp.com/) - *Test Text for Accessibility*
+* [Accessibility Insights](https://accessibilityinsights.io/) - *Fix Accessibility Issues*
+* [Hex Naw](https://hexnaw.com/) or [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable) - *Test Color Contrast for Accessibility*
+* [Color Oracle](https://colororacle.org/) - *Color Blindness Simulator*
 * [Am I Responsive](http://ami.responsivedesign.is/) - *Responsive Design Checker*
 * [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) - *Compare Website Performance*
 * [Visual Mind AI](https://myraah.io/index.php/visualmind) - *Site Visual Score*
+* [Contrast Checker](https://contrast-checker.glitch.me/) - *Contrast Checker*
 * [Carbon Calculator](https://www.websitecarbon.com/) - *Estimate Sites Carbon Footprint*
 * [Rest Test Test](http://resttesttest.com/) - *Test REST/CORS Services*
 * [HeidiSQL](https://www.heidisql.com/) - *SQL Manager*
@@ -303,11 +309,12 @@
 * [Extension.dev](https://extension.dev/) - *Custom Site Browser Extensions*
 * [Brython](https://brython.info/) - *Python 3 Web Scripting Language*
 * [Sketch2Code](https://sketch2code.azurewebsites.net/) - *Convert Hand-Drawn Designs into HTML*
+* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Wave Guide](https://www.waveguide.io/), [ReallyGoodUX](https://www.reallygoodux.io/), [Pageflows](https://pageflows.com/) or [h69.design](https://www.h69.design/) - *UI Design Ideas*
 * [LocalXpose](https://localxpose.io/) - *Reverse Proxy*
 * [BuiltWith](https://builtwith.com/) - *Find Out What Sites are Built With*
 * [Elements Envato](https://qltien.com/elements/getcode/babiato.html) or [PsdRepo](https://psdrepo.com/) - *Templates, Mockups, Logos, Video*
 * [LandingPage](https://landingpage.fyi/index.html) - *Landing Page Tool Index*
-* [Uisual](https://uisual.com/) - *Landing Page Templates*
+* [Uisual](https://uisual.com/), [SaaS Pages](https://saaspages.xyz/), [SaaS Landing Page](https://saaslandingpage.com/) or [lapa](https://www.lapa.ninja/) - *Landing Page Templates / Ideas*
 * [Canva](https://www.canva.com/) or [PikBest](https://pikbest.com/) - *Design Templates / [Premium Apk](https://forum.mobilism.org/search.php?keywords=Canva+&sr=topics&sf=titleonly)* 
 * [Zeplin](https://zeplin.io/) - *Design Templates / Editor*
 * [Boilerplate](https://github.com/h5bp/html5-boilerplate) - *Website Frontend Template HTML5*
@@ -491,7 +498,8 @@
 * [useAnimations](https://useanimations.com/index.html) - *Animated Icon Pack*
 * [Redex](https://fbredex.com/) - *Android Bytecode Optimizer*
 * [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/) or [LS Graphics](https://www.ls.graphics/) - *App & Site Mockups*
-* [UIGarage](https://uigarage.net/) or [LovelyUI](https://lovelyui.com/) - *Mobile UI Designs*
+* [Really Good Emails](https://reallygoodemails.com/) - *Product Email Mobile Designs and Templates*
+* [UIGarage](https://uigarage.net/), [UXArchive](https://uxarchive.com/), [Mobbin](https://mobbin.design/), [UISources](https://www.uisources.com/) or [LovelyUI](https://lovelyui.com/) - *Mobile UI Designs*
 * [Screen from Traction](https://screen.traction.one/) - *Create App Screenshots*
 
 ***
@@ -687,8 +695,9 @@
 * [Paletton](https://paletton.com/) - *Color Scheme Designer*
 * [Duo](https://duo.alexpate.uk/) - *Color Combinations*
 * [PaletteGenerator](https://palettegenerator.com/) or [Alwane](https://alwane.io/) - *Color Palette Extractor*
+* [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) - *Accessible Color Pallette Builder*
 * [ColorZilla](https://www.colorzilla.com/) - *Color Picker, Gradient Generator & more*
-* [Colordot](http://color.hailpixel.com/) or [Sorted Colors](https://enes.in/sorted-colors/) - *Color Picker*
+* [Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers) - *Extract Color from Pictures / Webpages*
 * [Webgradients](https://webgradients.com/) - *Gradients*
 * [uiGradients](https://uigradients.com/) - *Hex Gradients*
 * [ShaderToy](https://www.shadertoy.com/browse) - *User-Made Shaders* 
