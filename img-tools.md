@@ -127,6 +127,7 @@
 * [DoodDad](https://doodad.dev/pattern-generator), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/) or [Haikei](https://app.haikei.app/)  *Pattern Generator*
 * [Noise & Gradient](https://www.noiseandgradient.com/), [BGJar](https://bgjar.com/) or [BGGenerator](https://bggenerator.com/) - *Background Generator*
 * [stripegenerator](http://www.stripegenerator.com/) - *Stripe Generator* 
+* [MakeTintAndShade](https://maketintsandshades.com/) - *Tint and Shade Generator*
 * [Trianglify.io](https://trianglify.io/) - *Generate low-poly Textures*
 * [BannerEasy](https://www.bannereasy.com) - *Create Custom Banners*
 * [SocialBanner](https://www.social-banner.live/) or [Mind Your Banners](https://www.mindyourbanners.com/) - *Social Media Banner Creator*
@@ -289,6 +290,7 @@
 
 * [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_models) - *3D Model Download Sites*
 * [Anaglyph Maker](https://www.stereoeye.jp/software/index_e.html) - *Make 3D Images*
+* [Vectary](https://www.vectary.com/) - *Online 3D Image Editor*
 * [3DThis](https://3dthis.com/) - *3D Animation Tools* 
 * [PaintUp](http://technohippy.github.io/teddyjs/) - *Make 2D Art Into 3D*
 * [Thingiverse](https://www.thingiverse.com/), [Yeggi](https://www.yeggi.com/) or [YouImagine](https://www.youmagine.com/) - *3D Printer Models* 
@@ -321,6 +323,7 @@
 * [WebOasis Editors](https://weboas.is/editors/), [Hotot](https://hotpot.ai/), [RedKetchup](https://redketchup.io/), [VertexShare](https://vertexshare.com/), [ImageConvert](https://imageconvert.org/), [MyPhotoFilter](https://www.myphotofilter.com/), [Img2Go](https://www.img2go.com/), [BrandFolder](https://brandfolder.com/workbench-suite), [fffuel](https://fffuel.co/), [ImgLarger](https://imglarger.com/), [Convertmyimage](https://convert-my-image.com/), [SocialBook](https://socialbook.io/), [Mara](https://mara.photos/), [BatchWatermark](https://batchwatermark.com/) or [FastStone](https://www.faststone.org/index.htm) - *Multiple Image Tools*
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - *Art & Animation Resource Index*
 * [Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes) - *Color Scheme / Palette Tools*
+* [Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers) - *Extract Color from Pictures / Webpages*
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - *Image Color Summarizer*
 * [ImgOps](https://imgops.com/) - *Image Operations Meta-Tool*
 * [FontAwesomePS](http://creativedo.co/FontAwesomePS) - *Photoshop Icon Manager*
