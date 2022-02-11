@@ -6,7 +6,7 @@
 
 ***
 
-**[Table of Contents](https://i.imgur.com/RWmbrbw.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/9EomDae.png)** - *For mobile users*
 
 ***
 ***
@@ -356,6 +356,18 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ***
 
+#### Collaboration Platforms
+
+[Doozy](https://doozy.live/), [Zulip](https://zulip.com/), [Miro](https://miro.com/),[Mattermost](https://mattermost.org/), [Twake](https://twake.app/), [Asana](https://asana.com/), [Freedcamp](https://freedcamp.com/), [Lumeer](https://www.lumeer.io/), [Slab](https://slab.com/), [TipiCalls](https://tipicalls.com/), [Focalboard](https://www.focalboard.com/), [Wekan](https://wekan.github.io/), [Kanboard](https://kanboard.org/), [Skiff](https://www.skiff.org/), [Mural](https://www.mural.co/), [Dendron](https://www.dendron.so/) 
+
+***
+
+#### Color Pickers
+
+[Colordot](http://color.hailpixel.com/), [Sorted Colors](https://enes.in/sorted-colors/), [spencerhamm](https://chroma.spencerhamm.com/), [color.adobe](https://color.adobe.com/explore), [colorhexpicker](https://www.colorhexpicker.com/), [obscuredetour](https://color.obscuredetour.com/), [colorkit](https://colorkit.io/), [colorpicker](https://colorpicker.fr/), [culrs](https://www.culrs.com/), [colorwise](https://colorwise.io/), [geenes](https://geenes.app/welcome), [image-color](https://image-color.com/), [instant-eyedropper](http://instant-eyedropper.com/), [khroma](http://khroma.co/), [colorpicker](https://annystudio.com/software/colorpicker/), [materialpalettes](https://materialpalettes.com/), [picular](https://picular.co/), [react-color](http://casesandberg.github.io/react-color/), [viz-palette](https://projects.susielu.com/viz-palette), [leonardocolor](https://leonardocolor.io/, [Any11](http://clrs.cc/a11y/)
+
+***
+
 #### Cooking YouTube Channels
 
 * [Binging with Babish](https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw)
@@ -674,7 +686,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Cloud Storage** 
 
-**[GDrive](https://drive.google.com/)**, **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz), [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral) / [Free 2TB](https://rentry.co/a7q22), [disk.yandex](https://disk.yandex.com/), [TeledriveApp](https://teledriveapp.com/), [dubox](https://dubox.com/), [mediafire](https://www.mediafire.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [clouddrive](https://www.clouddrive.site/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [gdflix](https://gdflix.bar/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/) 
+**[GDrive](https://drive.google.com/)**, **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz), [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [disk.yandex](https://disk.yandex.com/), [TeledriveApp](https://teledriveapp.com/), [dubox](https://dubox.com/), [mediafire](https://www.mediafire.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [clouddrive](https://www.clouddrive.site/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [gdflix](https://gdflix.bar/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/) 
 
 **Multi Host Uploaders**
 
@@ -1273,7 +1285,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Note Taking / To Do Apps
 
-[Notion](https://www.notion.so/), [AppFlowy](https://www.appflowy.io/), [NoteApps](https://noteapps.info/) (index), [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB), [GoogleKeepClone](https://github.com/anselm94/googlekeepclone), [DecksApp](https://decksapp.com/), [TinyList](https://tinylist.app/), [Simplenote](https://simplenote.com/), [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) / [Github](https://github.com/martinstoeckli/SilentNotes), [Standard Notes](https://standardnotes.com/), [QOwnNotes](https://www.qownnotes.org/), [TiddlyWiki](https://tiddlywiki.com/), [Idaesbasic](https://www.github.com/BenHerbst/idaesbasic), [To-Do_App](https://github.com/BigFloppa404/To-Do_App), [Zim Wiki](https://zim-wiki.org/), [Glory Todo Desktop](https://github.com/yessGlory17/glory_todo_desktop), [TickTick](https://www.ticktick.com/), [OpenToDoList](https://gitlab.com/rpdev/opentodolist), [Laverna](https://laverna.cc/), [wikidPad](http://wikidpad.sourceforge.net/), [Turtl](https://turtlapp.com/), [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng), [FromScratch](https://fromscratch.rocks/), [Taskwarrior](https://taskwarrior.org/), [Super Productivity](https://super-productivity.com/), [Rnote](https://github.com/flxzt/rnote), [Fokus](https://fokus-website.netlify.app/), [Planner](https://useplanner.com/), [ToDo R](https://todo-r.com/), [rebel](https://github.com/kumarasinghe/rebel), [NotesMan](https://github.com/OnlyDeLtA/NotesMan/), [Notesnook](https://notesnook.com/), [Write Solo](https://writesolo.com/, [Wri.pe](https://wri.pe/), [Columns](https://columns.app/), [Nototo](https://www.nototo.app/)
+[Notion](https://www.notion.so/), [AppFlowy](https://www.appflowy.io/), [NoteApps](https://noteapps.info/) (index), [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB), [GoogleKeepClone](https://github.com/anselm94/googlekeepclone), [DecksApp](https://decksapp.com/), [TinyList](https://tinylist.app/), [Simplenote](https://simplenote.com/), [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) / [Github](https://github.com/martinstoeckli/SilentNotes), [Standard Notes](https://standardnotes.com/), [QOwnNotes](https://www.qownnotes.org/), [TiddlyWiki](https://tiddlywiki.com/), [Idaesbasic](https://www.github.com/BenHerbst/idaesbasic), [To-Do_App](https://github.com/BigFloppa404/To-Do_App), [Zim Wiki](https://zim-wiki.org/), [Glory Todo Desktop](https://github.com/yessGlory17/glory_todo_desktop), [TickTick](https://www.ticktick.com/), [OpenToDoList](https://gitlab.com/rpdev/opentodolist), [Laverna](https://laverna.cc/), [wikidPad](http://wikidpad.sourceforge.net/), [Turtl](https://turtlapp.com/), [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng), [FromScratch](https://fromscratch.rocks/), [Taskwarrior](https://taskwarrior.org/), [Super Productivity](https://super-productivity.com/), [Rnote](https://github.com/flxzt/rnote), [Fokus](https://fokus-website.netlify.app/), [Planner](https://useplanner.com/), [ToDo R](https://todo-r.com/), [rebel](https://github.com/kumarasinghe/rebel), [NotesMan](https://github.com/OnlyDeLtA/NotesMan/), [Notesnook](https://notesnook.com/), [Write Solo](https://writesolo.com/, [Wri.pe](https://wri.pe/), [Columns](https://columns.app/), [Nototo](https://www.nototo.app/), [Zenkit](https://zenkit.com/en/suite/)
 
 ***
 
