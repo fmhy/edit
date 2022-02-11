@@ -311,7 +311,7 @@
 * [HolyBooks](https://holybooks.com/) - *Religious Texts* 
 * [The Dead Sea Scrolls](https://www.deadseascrolls.org.il/) - *Dead Sea Scrolls Archive*
 * [DigiVatLib](https://digi.vatlib.it/) - *Digital Vatican Library*
-* [BibleGateway](https://www.biblegateway.com/) - *Christian Bible*
+* [BibleGateway](https://www.biblegateway.com/) or [Bible.com](https://www.bible.com/) - *Christian Bible*
 * [eSword](https://e-sword.net/) - *Christian Bible Desktop App*
 * [Bible](https://apps.apple.com/us/app/bible/id282935706) - *Christian Bible / iOS*
 * [Classics Ethereal Library](https://www.ccel.org/) - *Christian*
