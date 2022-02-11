@@ -72,6 +72,7 @@
 * [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - *Create Bootable USB Windows Drives*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [GParted](https://gparted.org/) - *Partition Manager*
+* [ckb-next](https://github.com/ckb-next/ckb-next) - *Corsair RGB Driver for Linux*
 * [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - *Mac Theme*
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme), [Moka](https://snwh.org/moka), [Numix](https://github.com/numixproject/numix-icon-theme) or [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - *Linux Icon Themes*
 * [Ricepedia](https://rizonrice.club/Main_Page) or [ThatNixGuy Ricing](https://thatnixguy.github.io/posts/ricing/) - *Linux Ricing Tools*
@@ -100,7 +101,7 @@
 * [rcm](https://github.com/thoughtbot/rcm) - *Manage Dotfiles*
 * [Curlew](https://curlew.sourceforge.io/) - *Linux File Converter*
 * [Dolphin](https://userbase.kde.org/Dolphin) or [ranger](https://github.com/ranger/ranger) - *File Manager*
-* [nnn](https://github.com/jarun/nnn) - *Terminal File Manager/Disk Usage Analyzer*
+* [nnn](https://github.com/jarun/nnn) or [NCDU](https://github.com/rofl0r/ncdu) - *Terminal File Manager/Disk Usage Analyzer*
 * [zentile](https://github.com/blrsn/zentile) - *On-demand Window Manager Tiling*
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/jmmaranan/forge) - *GNOME Tiling Extension*
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - *KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)*
@@ -354,6 +355,9 @@
 * [XLD](https://sourceforge.net/projects/xld/) - *Lossless Audio Transcoder*
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - *Image Editor* 
 * [ImageOptim](https://imageoptim.com/mac) - *Image Optimization*
+* [ColorSlurp](https://colorslurp.com/) or [Material-Colors-native](https://github.com/BafS/Material-Colors-native) - *Color Picker*
+* [Use Contrast](https://usecontrast.com/) - *Check Color Contrast Ratios*
+* [Sim Daltoinism](https://michelf.ca/projects/sim-daltonism/) - *Color Blindness Simulator*
 * [AnimeBox](https://www.animebox.es/) - *Booru Client*
 * [Hachidori](https://malupdaterosx.moe/hachidori/) - *Automatically Update MAL/Anilist/Kitsu Lists*
 * [Vim](https://github.com/macvim-dev/macvim) - *Code Editor*
