@@ -456,7 +456,6 @@
 * [123TV](http://123tv.live/) - *TV / Sports*
 * [WatchNewsLive](https://watchnewslive.tv/) - *TV / Sports*
 * [streamlive](https://www.streamlive.to/) - *TV / Sports*
-* [ChannelSurf](https://channelsurf.tv/) - *TV / Sports*
 * [XUMO](https://www.xumo.tv/channels) - *TV*
 * [JokerLiveStream](https://www.jokerlivestream.life/) - *Sports*
 * [First Row Sports](https://firstsrowsports.tv/) - *Sports*
