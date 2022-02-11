@@ -21,7 +21,7 @@
 
 ## ▷ Dedicated Hosts
 
-* **[Movies4Discord](https://discord.gg/UJ9cS2kP3B)** - *Movies / TV / 1080p Only / [Website](https://movies4discord.xyz/)*
+* **[Movies4Discord](https://discord.gg/UJ9cS2kP3B)** - *Movies / TV / 1080p Only / [Website](https://movies4discord.xyz/) / [Revolt](https://revolt.movies4discord.xyz/invite/GMs0de3D)*
 * **[EE3](https://ee3.me/)** - *Movies / Invite Code: mpgh*
 * **[Ask4movies](https://ask4movie.io/)** - *Movies / TV / [Adblock Script](https://pastebin.com/N58Vbyhw)*
 * **[PrivateHD](https://www.privatehd.xyz/)** - *Movies / TV*
@@ -596,7 +596,7 @@
 * [My Duck Is Dead](http://www.myduckisdead.org/) - *Rare Movies / NSFW* 
 * [Choices](https://howlongwillthishydralast.weebly.com/choices.html) - *Movies / TV*
 * [MobileTVShows](https://www.mobiletvshows.net/) - *TV / Anime*
-* [MoviesforDiscord](https://discord.gg/h3uM4zQ9QR) - *Movie Streaming / Download Bot / [Website](https://movies4discord.xyz/)*
+* [MoviesforDiscord](https://discord.gg/h3uM4zQ9QR) - *Movie Streaming / Download Bot / [Website](https://movies4discord.xyz/) / [Revolt](https://revolt.movies4discord.xyz/invite/GMs0de3D)*
 * [Medeberiyaa](https://medeberiyaa.com/) - *Movies / TV / Anime*
 * [PSARips](https://psa.pm/) - *Movies / TV / [GDrive Telegram](https://t.me/PSAonGdrive) / [Scraper](https://github.com/NandiyaLive/PSALinkGrabber)* 
 * [MNF Encode](https://mnfencode.me/) - *Movies / TV / Concerts / [Discord](https://discord.gg/5QTp8cgrjx)*
@@ -992,7 +992,7 @@
 * **[Movie-Forum](https://movie-forum.co/forums/23-Requests)** - *Movies*
 * **[TopNow](https://discord.gg/marBA97)** - *Movies / TV / Anime*
 * **[WorldsCinema](http://worldscinema.org/movie-request/)** - *Movies* 
-* **[MoviesForDiscord](https://discord.gg/h3uM4zQ9QR)** - *Movies / TV / Anime*
+* **[MoviesForDiscord](https://discord.gg/h3uM4zQ9QR)** - *Movies / TV / Anime / [Revolt](https://revolt.movies4discord.xyz/invite/GMs0de3D)*
 * [RareFilmm](http://rarefilmm.com/requests/) - *Rare Movies* 
 * [Sanet.st](https://sanet.st/community/t/requests) - *Movies / TV* 
 * [MegaDDL](https://megaddl.co/tv-request/) - *TV*
