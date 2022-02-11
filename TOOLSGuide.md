@@ -47,7 +47,7 @@
 * [Dashana](https://dashana.com/), [DataWrapper](https://www.datawrapper.de/), [RAWgraphs](https://app.rawgraphs.io/) / [GitHub](https://github.com/rawgraphs/rawgraphs-app) or [ParaView](https://github.com/Kitware/ParaView) - *Data Visualization Tool*
 * [Grocy](https://grocy.info/) - *Grocery / Household Management Tool*
 * [Volmarg](https://volmarg.github.io/) - *Personal Management Tool*
-* [Focalboard](https://www.focalboard.com/), [Wekan](https://wekan.github.io/), [Kanboard](https://kanboard.org/), [Skiff](https://www.skiff.org/) or [Dendron](https://www.dendron.so/) - *Project Management Tool*
+* [Collaboation Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms) - *Project Managment Tools*
 * [GanttProject](https://www.ganttproject.biz/) - *Project Scheduling App*
 * [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - *To-Do List Apps*
 * [Creative Commons](https://creativecommons.org/) - *Creative Commons Licenses*
@@ -565,7 +565,8 @@
 * [learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - *Cloud Computing Fundamentals*
 * [Cyberseek](https://www.cyberseek.org/index.html) - *Cybersecurity Job Market Info*
 * [Candor](https://candor.co/hiring-freezes/) - *Hiring Freezes*
-* [Doozy](https://doozy.live/), [Zulip](https://zulip.com/), [Miro](https://miro.com/),[Mattermost](https://mattermost.org/), [Twake](https://twake.app/), [Slab](https://slab.com/) or [TipiCalls](https://tipicalls.com/) - *Collaboration Platform*
+* [Collaboation Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms) - *Project Managment Tools*
+* [Airtable](https://www.airtable.com/) - *Build Collaborative Apps*
 * [PHPCRM](https://www.phpcrm.com/) - *Company Management Software*
 * [SplitBee](https://splitbee.io/) - *Business Analytics Tool*
 * [Invoicely](https://invoiceto.me/) - *Invoice Generator*
@@ -741,6 +742,7 @@
 * [Gate2Home](https://gate2home.com/) - *Keyboard Emulator* 
 * [PrintFriendly](https://www.printfriendly.com/) or [PrintWhatYouLike](https://www.printwhatyoulike.com/) - *Printer / PDF Version of Webpages*
 * [Textise](https://textise.net/) - *Remove Everything from a Page Except Text* 
+* [Toptal](https://www.toptal.com/designers/colorfilter) - *Colorblind Web Page Filter*
 * [FaxZero](https://faxzero.com/) - *Free Internet Faxing* 
 * [Misc-Download-Scripts](https://github.com/simon987/Misc-Download-Scripts) - *Download Scripts for Multiple Sites*
 * [OutWit](https://www.outwit.com/) - *Scrape / Organize Website Data* 
@@ -1498,6 +1500,7 @@ General Reading Sites*
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) or [Process Lasso](https://bitsum.com/) - *CPU Optimizer* 
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - *Laptop CPU Monitor / Optimizer*
 * [MemTest](https://www.memtest.org/) - *Memory Diagnostic Tool*
+* [Mem Reduct](https://www.henrypp.org/product/memreduct) - *Windows System Memory Cleaner*
 * [CPUid](https://www.cpuid.com/softwares/cpu-z.html), [winfetch](https://github.com/kiedtl/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - *System Information Tool* 
 * [HWiNFO](https://www.hwinfo.com/) - *Hardware Analysis, Monitoring and Reporting*
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - *AMD Processor Power Management*
