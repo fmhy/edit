@@ -937,6 +937,7 @@
 * [FlickChart](https://www.flickchart.com/) - *Rank your movies*
 * [Box Office Mojo](https://www.boxofficemojo.com/) - *Box Office Earnings*
 * [Tastoid](https://www.tastoid.com/) - *Mood Based Recommendations* 
+* [Autum](https://autum.com/) - *Movie / Shows Recommendations*
 * [BestSimilar](https://bestsimilar.com/) - *Movie Recommendations* 
 * [Movie-Map](https://www.movie-map.com/) - *Movie Recommendations*
 * [GNOD](https://www.gnod.com/) - *Movie Recommendations*
