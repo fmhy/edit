@@ -92,6 +92,7 @@
 * [Luakit](https://luakit.github.io/) - *Lightweight Linux Browser* 
 * [browsh](https://www.brow.sh/) - *Text based Browser*
 * [Librewolf Linux](https://librewolf-community.gitlab.io/) or [Dot Browser](https://github.com/dothq/browser) - *Privacy-Based Browser*
+* [Thorium](https://github.com/Alex313031/Thorium) - *Chromium-Based Browser*
 * [pass](https://www.passwordstore.org/) - *Unix Password Manager* 
 * [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) or [GnomeKeyring](https://wiki.gnome.org/Projects/GnomeKeyring) - *GNOME Password Manager* 
 * [gopass](https://www.gopass.pw/) - *CLI Password Manager*
@@ -268,6 +269,7 @@
 * [SamRewritten](https://github.com/PaulCombal/SamRewritten) - *Steam Achievement Manager*
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher*
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - *GOG Client*
+* [proton-gog-install](https://github.com/myyc/proton-gog-install) - *Windows to Linux GOG Game Installer*
 * [NVBurner](https://github.com/iloveichigo/NVBurner) - *Overclocking Tool*
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - *Linux Gaming Kernels*
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - *Linux System Optimizer*
