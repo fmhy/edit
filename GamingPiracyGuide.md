@@ -60,7 +60,8 @@
 * [PCGames-Download Backup](https://1fichier.com/?hy7lsbep6bqtu4loy1j6)
 * [LibreGameWiki](https://libregamewiki.org/List_of_games) - *FOSS Games* 
 * [itch.io](https://itch.io/games/new-and-popular/featured/free) or [Game Jolt](https://gamejolt.com/games?price=free) - *Indie Games* 
-* [Open Source Game Clones](https://osgameclones.com/) - *Game Clones*
+* [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) - *Open Source Games*
+* [Open Source Game Clones](https://osgameclones.com/) - *Open Source Game Clones*
 * [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes) - *Game Remakes* 
 * [Alpha Beta Gamer](https://alphabetagamer.com/) - *Play games in Alpha or Beta Testing* 
 * [Game Top](https://www.gametop.com/) - *Casual PC Games* 
