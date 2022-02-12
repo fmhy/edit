@@ -34,7 +34,6 @@
 * [TBlock](https://tblock.codeberg.page/) - *Adblocker*
 * [Facebook Hide Ads](https://greasyfork.org/en/scripts/404309-facebook-hide-ads-a-k-a-sponsored-posts) - *Remove Sponsored Posts from Facebook* 
 * [LinkedIn Unsponsored](https://greasyfork.org/en/scripts/379003-linkedin-unsponsored) - *Remove Sponsored Posts from LinkedIn* 
-* [Don't Touch My Tabs!](https://addons.mozilla.org/en-US/firefox/user/12781645/) - *Prevent hyperlinks from controlling other window objects* 
 * [WhoTargetsMe](https://whotargets.me/) - *Political Ad Tracker*
 
 ***
