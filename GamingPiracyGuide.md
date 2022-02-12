@@ -363,7 +363,6 @@
 
 # ► Browser Games
 
-* **[Tyrone's Unblocked Games](https://sites.google.com/site/tyronesgameshack)** - *Browser Games / [Discord](https://discord.gg/Z55yjBz)*
 * **[Ninjakiwi](https://ninjakiwi.com/)** - *Browser Games / Bloons / Multiplayer*
 * **[Line Rider](https://www.linerider.com/)** - *Draw Sled Tracks*
 * **[DelugeRPG](https://www.delugerpg.com/)** - *Pokemon RPG Simulation*
