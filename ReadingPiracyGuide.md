@@ -123,6 +123,7 @@
 * [ibookscafe](https://bookscafe.net/) - *Books / NSFW*
 * [celz](https://celz.ru/) - *Books*
 * [FullBooks](http://www.fullbooks.com/) - *Books* 
+* [e-Book Mecca](https://ebook-mecca.com/) - *Books*
 * [eBook4Expert](https://ebook4expert.net/) - *Books* 
 * [Chest of Books](https://chestofbooks.com/) - *Books*
 * [Just Another Library](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/)
@@ -244,7 +245,7 @@
 
 ## ▷ Children's Sites
 
-* [Children's Library](http://en.childrenslibrary.org/)
+* [Children's Library](http://en.childrenslibrary.org/) 
 * [MagicKeys](http://www.magickeys.com/books/) 
 * [byGosh](https://bygosh.com) 
 * [Baldwin Library](https://ufdc.ufl.edu/juv) - *Historical Children’s Literature*
@@ -567,6 +568,7 @@
 * [EbookFoundation Programming Books](https://github.com/EbookFoundation/free-programming-books/) 
 * [Free-Python-Books](https://github.com/oddsun/Free-Python-Books)
 * [free-python-books](https://github.com/pamoroso/free-python-books)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - *Python Data Science / [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)*
 * [Go Books](https://github.com/dariubs/GoBooks) - *GoLang Books*
 * [JSBooks](https://jsbooks.revolunet.com/) - *Javascript Books*
 * [DevDocs](https://devdocs.io/) - *API Documentation*
