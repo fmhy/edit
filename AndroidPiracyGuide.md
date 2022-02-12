@@ -65,7 +65,7 @@
 * [SnoopSnitch](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/) - *Check Mobile Network Security* 
 * [FairEmail](https://play.google.com/store/apps/details?id=eu.faircode.email) - *Open Source, Privacy Oriented Email for Android / [f-Droid](https://f-droid.org/packages/eu.faircode.email/)*
 * [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/) - *Email Forwarding*
-* [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/) - *Temp Mail*
+* [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/) - *Temp Mail / [GitLab](https://gitlab.com/TheOneWithTheBraid/guerrilla_mail)*
 * [Private Location](https://f-droid.org/en/packages/com.wesaphzt.privatelocation/) - *Hide Phone Location Permanently*
 * [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&amp;hl=en_US) - *Tor Proxy*
 * [TorServices](https://f-droid.org/packages/org.torproject.torservices/) - *Tor App Proxy / [GitLab](https://gitlab.com/guardianproject/torservices)*
@@ -163,6 +163,7 @@
 * [L3MON](https://github.com/D3VL/L3MON) - *Remote Android Manager*
 * [NetClicker](https://netclicker.tv/) - *Phone Browser Controller*
 * [Water Resistance Tester](https://play.google.com/store/apps/details?id=com.ray.waterresistancetester) - *Test Phones Water Resistance*
+* [DetoxDroid](https://github.com/flxapps/DetoxDroid) - *Make Your Phone Less Distracting*
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - *Ringtones Directory*
 * [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) or [Substratum](https://www.xda-developers.com/substratum-hub/) - *Theme Manager / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3)*
 * [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) - *App Themed Icons*
@@ -589,7 +590,7 @@
 
 * **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players)** - *Music Players / Libraries*
 * **[Spotify APK](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=Spotify&sf=titleonly)** (No Ads) or [Altas-Notas](https://github.com/polonez-byte-112/Altas-Notas) - *Streaming / [Version Manager](https://github.com/xManager-v2/xManager-Spotify) / [Downloader](https://github.com/sheensantoscapadngan/SpotaFree) / [Friend Activity](https://spotivity.vercel.app/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://f-droid.org/packages/com.rohit2810.spotit/), [3](https://github.com/aghontpi/ad-silence)*
-* [YouTube Music Vanced](https://vancedapp.com/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [HoloPlay](https://holoplay.io/) or [YMusic](https://ymusic.io/) - *YouTube Music Player*
+* [YouTube Music Vanced](https://vancedapp.com/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [HoloPlay](https://holoplay.io/), [Handsfree Player](http://www.handsfreeplayer.com/) or [YMusic](https://ymusic.io/) - *YouTube Music Player*
 * [Spotiflyer](https://f-droid.org/en/packages/com.shabinder.spotiflyer/) - *Spotify Audio Downloader / [GitHub](https://github.com/Shabinder/SpotiFlyer/)*
 * [Finamp](https://github.com/UnicornsOnLSD/finamp) - *Jellyfin Music Player*
 * [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - *Subsonic Client*
@@ -889,6 +890,7 @@ RSS Player*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
 * [Drafts](https://getdrafts.com/) or [Bear](https://apps.apple.com/us/app/bear/id1016366447) - *Note Taking App*
 * [Serenity Notes](https://www.serenity.re/en/notes) - *Collaborative Notes*
+* [Decisions](https://github.com/markusfisch/Libra) - *Decision Making App*
 * [BatteryBuddy](https://github.com/schneelittchen/BatteryBuddy) - *Cute Battery Life Indicator*
 * [Powercuff](https://rpetri.ch/cydia/powercuff/) - *Throttle iOS to Increase Battery Life*
 * [The Fucking Weather](https://alcohollick.com/the-fucking-weather) - *Weather App*
