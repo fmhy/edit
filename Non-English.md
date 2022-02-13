@@ -1444,6 +1444,7 @@ Portuguese
 * [Descarga Cine Clasico](https://descargacineclasico.net/) - *Classical Movies*
 * [Cinemargentino](https://cinemargentino.com/) - *Movies / Documentaries*
 * [Pelis28](https://pelis28.site/) - *Movies*
+* [Cuevana](https://cuevana.nz/) - *Movies / TV*
 * [novelas360](https://novelas360.com/) - *TV*
 * [HindiLover](https://hindilover.biz/) - *TV*
 * [Vix](https://www.vix.com/tv/) - *TV*
