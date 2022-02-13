@@ -807,7 +807,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://aa01.net/
 * https://www6.f2movies.to/
 * https://2kmovie.cc/
-* https://sflix.to/
+* https://www.sflix.pro/
 * https://cineb.net/
 * https://www.divicast.com/
 * https://kk01.net/
