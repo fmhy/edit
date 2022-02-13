@@ -957,6 +957,7 @@ French / General Torrent Tracker
 * [PlayTorrent](https://playtorrent.com.br/) - *Movies / TV*
 * [MegaTorrents](https://megatorrents.co/) - *Movies / TV*
 * [BlurayTorrent](https://bluraytorrent.site/) - *Movies /TV*
+* [TugaFlix](https://tugaflix.me/) - *Movies / TV*
 * [Torrents4k](https://torrents4k.com/) - *Movies / TV*
 * [torrentdosfilmes](https://torrentdosfilmes.to/) - *Movies / TV*
 * [baixarfilmetorrent](https://baixarfilmetorrent.vip/) - *Movies / TV*
@@ -1414,7 +1415,6 @@ Portuguese
 * [zonatorrent](https://zonatorrent.tv/) - *Movies / TV* 
 * [PasateaTorrent](https://pasateatorrent.net/) - *Movies / TV*
 * [divxonline](https://www.divxonline.tv/) - *Movies / TV* 
-* [TugaFlix](https://tugaflix.me/) - *Movies / TV*
 * [Descargas](https://descargas2020.net/) - *Movies / TV*
 * [Cinetorrent](http://mozatimes.com/) - *Movies / TV*
 * [Tomadvix](https://tomadivx.net/) - *Movies / TV*
