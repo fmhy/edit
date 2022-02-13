@@ -247,7 +247,6 @@
 
 * **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) - *Multi-Site Search*
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "audio"*
-* **[DoubleNegative](https://doublenegative.io/)** - *TIDAL & Deezer Downloader*
 * **[Free MP3 Download](https://free-mp3-download.net/)** - *Search / MP3 / FLAC*
 * **[/r/RIPREQUESTS](https://www.reddit.com/r/redditdl/)** - *FLAC / [Discord](https://discord.com/invite/SH7DUfVz46)*
 * **[Mudome](https://mudome.org/)** - *MP3 / FLAC*
