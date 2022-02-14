@@ -454,6 +454,7 @@
 * [Melody Generator](https://dopeloop.ai/melody-generator) - *MIDI Melody Generator*
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- *MIDI Files* 
 * [QueenMusicHall](http://www.queenmusichall.cz/) - *Queen MIDIs, Audio, Photos*
+* [AmazingMIDI](http://www.pluto.dti.ne.jp/araki/amazingmidi/) - *Transcribe WAV to MIDI / [Archive](https://archive.org/details/tucows_327319_AmazingMIDI)*
 * [Orca](https://hundredrabbits.itch.io/orca) - *Live Coding Audio*
 * [madeon](https://adventuremachine.4thfloorcreative.co.uk/) - *Create Music with Madeon Samples*
 * [danielx](https://danielx.net/composer/) - *Mario Paint Audio Editor*
