@@ -16,7 +16,6 @@
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Courses / Infinite trial by clearing cookies & making new account*
 * **[freeCodeCamp](https://www.freecodecamp.org/)** - *Programming / Courses / Interactive [Archive](https://drive.google.com/drive/folders/1M_GDMaRwFDB_UG0y-WQdNqTxLxchlzgl?usp=sharing) / [GitHub](https://github.com/freeCodeCamp/freeCodeCamp)*
 * **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - *Read / Download Programming Books* 
-* [Uncensorable Publishing](https://uncensorablepublishing.com/) or [How-to Host Questionable Websites](https://weboas.is/media/host.png) / [PDF](https://weboas.is/media/host.pdf) - *How-to Create Uncensorable Sites*
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - *Git Learning Game*
 * [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - *Github Cheat Sheet*
 * [Developer.Mozilla](https://developer.mozilla.org/) - *Developer Resources* 
@@ -241,6 +240,7 @@
 * [ZeroNet](https://zeronet.io/) or [Federalist](https://github.com/publiusfederalist/federalist) - *Uncensorable Sites / [/r/Zeronet](https://www.reddit.com/r/zeronet/)*
 * [Freenet Project](https://freenetproject.org/) - *Browse / Publish Freenet Sites* 
 * [GoodBadISPs ](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - *Best ISPs for Tor Hosting*
+* [Uncensorable Publishing](https://uncensorablepublishing.com/) or [How-to Host Questionable Websites](https://weboas.is/media/host.png) / [PDF](https://weboas.is/media/host.pdf) - *How-to Create Uncensorable Sites*
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/) or [CSSAuthor](https://cssauthor.com/) - *Site Development Tools*
 * [Sympli](https://sympli.io/ ) - *Designer / Developer Collaboration Tool*
@@ -321,7 +321,7 @@
 * [Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates) or [Undraw](https://evie.undraw.co/)  - *Site Templates*
 * [Templatemo](https://www.templatemo.com/) or [Tooplate](https://www.tooplate.com/) - *HTML Site Templates*
 * [HTML5 Temp](https://rentry.co/HTML5Temp) - *HTML5 Templates & Themes*
-* [CSS Bed](https://www.cssbed.com/), [free-css-templates](https://www.free-css.com/free-css-templates) or [TenplateMo](https://templatemo.com/) - *CSS Themes / Templates*
+* [CSS Bed](https://www.cssbed.com/) or [free-css-templates](https://www.free-css.com/free-css-templates) - *CSS Themes / Templates*
 * [Hydrogen](https://github.com/Shopify/hydrogen) - *Custom Storefront Template*
 * [Typewolf](https://www.typewolf.com/) - *Trending Website Fonts*
 * [Pattern Monster](https://pattern.monster/) - *SVG Pattern Generator*
