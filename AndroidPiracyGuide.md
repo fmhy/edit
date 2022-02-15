@@ -383,7 +383,8 @@
 * [Haoict Repository](https://haoict.github.io/cydia/) - *App Repository*
 * [DivestOS](https://divestos.org/fdroid/official/) - *App Repository*
 * [TeamOS](https://www.teamos-hkrg.com/) - *Modded / Forum* 
-* [Aurora Store](https://auroraoss.com/), [2](https://f-droid.org/en/packages/com.aurora.store/) / [Geo-Restricted](https://youtu.be/L5RrtxQUtVE) or [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) - *Alt App Store*
+* [Aurora Store](https://auroraoss.com/), [2](https://f-droid.org/en/packages/com.aurora.store/) or [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) - *Alt App Store*
+* [Bypass Aurora Hardware & Geo Restricted Limits](https://youtu.be/L5RrtxQUtVE)
 * [Aptoide](https://aptoide.com/) - *Alt App Store*
 * [AC-Market](https://ac-market.org/) - *Alt App Store*
 * [Fossapps Creator](https://un.pixel-fy.com/) - *Fossapps Package Creator / [GitHub](https://github.com/wacko1805/Fossapps-creator)*
