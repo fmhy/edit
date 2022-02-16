@@ -204,6 +204,7 @@
 * [555电影](https://www.o8tv.com/), [2](https://555dy1.com/) - *Movies / TV / Anime / NSFW*
 * [CText](https://ctext.org/), [ChineseNotes](http://chinesenotes.com/) or [Kanripo](https://www.kanripo.org/) - *Chinese Historic Text Archive*
 * [guoxue](http://www.guoxue.com/) - *History / Journals*
+* [Chinese Programming Books](https://github.com/justjavac/free-programming-books-zh_CN)
 * [Moedict](https://www.moedict.tw/), [dict.cn](https://dict.cn/), [CantoDict](http://www.cantonese.sheik.co.uk/dictionary/) or [ZDic](https://www.zdic.net/) - *Chinese Dictionary*
 * [kangxizidian](https://kangxizidian.com/) - *Chinese Kangxi Dictionary*
 * [CCams](http://www.ccamc.co/) - *Chinese Character Search*
@@ -430,6 +431,7 @@ French / General Torrent Tracker
 ## ▷ Streaming
 
 * [adjaranet](https://www.adjaranet.com/) - *Movies / TV*
+* [AsianDrama](https://asiandrama.ge/) - *Drama*
 
 ***
 
@@ -859,6 +861,12 @@ French / General Torrent Tracker
 
 ## ▷ Downloading
 
+* [BlueWarez](https://www.bluewarez.pl/) - *Video / Audio / Games / Software / Books / Audiobooks / NSFW*
+* [pobieramy24](https://pobieramy24.xyz/) - *Video / Audio / Software / Games / Android / Books / Audiobooks / NSFW*
+* [DarkArea](http://darkarea.pl/) - *Video / Audio / Games / Software / Books / Audiobooks*
+* [Files4You](https://www.files4you.org/) - *Video / Audio / Software / Games / Android / Books / Audiobooks / NSFW*
+* [Warezik](https://www.warezik.eu/) - *Video / Audio / Software / Games / Books*
+* [Dark Machine](https://darkmachine.pl/) - *Video / Audio / Games / Software / Books / Audiobooks / Android / NSFW*
 * [Super Warez](http://super-warez.eu/) - *Video / Audio / Software / Games / Books / NSFW*
 * [animezone](https://www.animezone.pl/) - *Anime*
 * [Portable Info](https://portable.info.pl/) - *Portable Software*
@@ -1296,6 +1304,7 @@ Portuguese
 * [Telik](http://telik.online/) - *TV*
 * [Kino-Dom](http://kino-dom.org/) - *TV*
 * [bigserial.net](http://bigserial.net/) - *TV*
+* [AniLabX](https://github.com/CrazyXacker/anilabx) - *Anime / Cartoons / Drama*
 * [Shiza Project](https://shiza-project.com/) - *Anime*
 * [otakustudio](http://www.otakustudio.tv/) - *Anime* 
 * [DarkLibria](https://darklibria.it/) - *Anime*
@@ -1354,6 +1363,7 @@ Portuguese
 * [saitknigi](https://saitknigi.ru/) - *Books / Audiobooks*
 * [Litgu.ru](https://litgu.ru/) - *Books / Audiobooks*
 * [booktracker](https://booktracker.org/) - *Books / Audiobooks / Comics / Magazines / NSFW* 
+* [AniLabX](https://github.com/CrazyXacker/anilabx) - *Manga / Comics / Light Novels*
 * [readmanga](https://readmanga.live/) - *Manga* 
 * [manga-online.biz](https://manga-online.biz/) - *Manga*
 * [mangalib.me](https://mangalib.me/) - *Manga*
