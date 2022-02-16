@@ -122,6 +122,8 @@
 * [Di.fm](https://www.di.fm/) - *Electronic Radio* 
 * [0x40](https://0x40.mon.im/) - *Electronic Radio w/ Anime Pictures* 
 * [8bit.fm](https://8bit.fm/) - *Chiptune Radio*
+* [Openings Moe](https://openings.moe/) - *Anime Theme Radio*
+* [Ongaku](https://ongaku.js.org/) - *Anime Radio*
 * [Poolside FM](https://poolside.fm/) - *Summer Radio*
 * [latestation](http://radio.late.city/) - *Late-Night Radio*
 * [LISTEN.moe](https://listen.moe/)  - *K-Pop Radio / [Client](https://github.com/LISTEN-moe/windows-app)*
