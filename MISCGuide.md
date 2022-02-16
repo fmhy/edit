@@ -92,12 +92,7 @@
 * [NetSplit](https://netsplit.de/) - *IRC Channel Index*
 * [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) - *API index* 
 * [Cyberlife](https://cyberpunk-life.neocities.org/) - *Cyberpunk-Related Content / Sites Index* 
-* [/r/coolgithubprojects](https://reddit.com/r/coolgithubprojects) - *Cool Projects on Github* 
-* [/r/coolgitlabprojects](https://reddit.com/r/coolgitlabprojects) - *Cool Projects on Gitlab*
-* [git:logs](https://www.gitlogs.com/) - *Trending GitHub Repos* 
-* [grep.app](https://grep.app/) - *Git Repository Search*
-* [Active Github Forks](https://techgaun.github.io/active-forks/) - *List of Active GitHub Forks*
-* [Git Search Engine](https://zzollo.co/) - *Search GitHub, GitLab ect.*
+* [Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects) 
 * [sourcehut](https://sr.ht/) - *Public Project Index*
 * [PiracyBank](https://piracybank.org/websites) - *List of sites tagged for copyright, mostly dead* 
 * [Movim](https://movim.eu/) - *Decentralized Social Network* 
@@ -815,7 +810,7 @@
 * [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - *Global Jetstream Forcast Map*
 * [Cyclocane](https://www.cyclocane.com/) - *Cyclone and Hurricane Tracking*
 * [Air Now](https://gispub.epa.gov/airnow/) or [Breezometer](https://www.breezometer.com/air-quality-map/) - *Air Quality Map*
-* [ClimateCharts](https://climatecharts.net/) - *Climate Map*
+* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps) or [ClimateCharts](https://climatecharts.net/) - *Climate Maps*
 * [Global Hyrdo Data](https://www.esri.com/arcgis-blog/products/product/water/global-hydro-data-its-here-here-here/) - *Global Hydro Data / Mapping*
 * [River Runner](https://river-runner.samlearner.com/) - *River Map*
 * [Gloric](https://www.hydrosheds.org/page/gloric) - *River Type Database / Mapping*
