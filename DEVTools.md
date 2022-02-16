@@ -19,6 +19,7 @@
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - *Git Learning Game*
 * [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - *Github Cheat Sheet*
 * [Developer.Mozilla](https://developer.mozilla.org/) - *Developer Resources* 
+* [Awesome Certificates](https://github.com/PanXProject/awesome-certificates) - *Dev Courses with Certificates*
 * [DZone](https://dzone.com/) - *Developer Tutorials*
 * [RedHat](https://developers.redhat.com/) - *Development Tutorials*
 * [Roadmap](https://roadmap.sh/) - *Developer Roadmaps / Guides* 
@@ -116,6 +117,7 @@
 * [Karel The Robot](https://github.com/fredoverflow/karel) - *Basic Programming Teaching Environment*
 * [HackersFriend](https://www.hackersfriend.com/tutorials/) - *Competitive Programming Tutorials*
 * [Katacoda](https://www.katacoda.com/) - *Software Engineer Tutorials* 
+* [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - *Podcasts for Software Engineers*
 * [Interview University](https://github.com/jwasham/coding-interview-university) - *Software Engineer Study Guide Coding*
 * [Hacksplaining](https://www.hacksplaining.com/) - *Developer Security Lessons*
 * [Publish Something Online](https://publishsomething.online/) - *Site Development Guides*
@@ -156,6 +158,7 @@
 * [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - *Brand Design Tools*
 * [ReverseEagle](https://forge.tedomum.net/groups/ReverseEagle/-/archived), [2](https://web.archive.org/web/20210116205638/https://developers.reverseeagle.org/) - *Privacy Focused Developer Software*
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - *Open Source Development Software*
+* [SuperNova](https://www.supernova.io/) - *Design System Manager*
 * [Awesome Bots](https://github.com/DopplerHQ/awesome-bots) - *Developer Bot Index*
 * [Student Developer Pack](https://education.github.com/pack) - *Free Developer Tools for Students* 
 * [Libera Chat](https://libera.chat/) - *IRC Network for Project Collaboration*
@@ -235,7 +238,7 @@
 
 ## ▷ Site Development 
 
-* **[Website Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_creators)** - *Website Creation Tools*
+* **[Website Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_creators)** - *Design & Create Websites*
 * **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
 * [ZeroNet](https://zeronet.io/) or [Federalist](https://github.com/publiusfederalist/federalist) - *Uncensorable Sites / [/r/Zeronet](https://www.reddit.com/r/zeronet/)*
 * [Freenet Project](https://freenetproject.org/) - *Browse / Publish Freenet Sites* 
@@ -243,7 +246,7 @@
 * [Uncensorable Publishing](https://uncensorablepublishing.com/) or [How-to Host Questionable Websites](https://weboas.is/media/host.png) / [PDF](https://weboas.is/media/host.pdf) - *How-to Create Uncensorable Sites*
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/) or [CSSAuthor](https://cssauthor.com/) - *Site Development Tools*
-* [Sympli](https://sympli.io/ ) - *Designer / Developer Collaboration Tool*
+* [Sympli](https://sympli.io/), [AnimaApp](https://www.animaapp.com/) or [ZeroHeight](https://www.zeroheight.com/) - *Developement Collaboration Tool*
 * [Flux](https://www.runonflux.io/) - *Decentralized Cloud Infrastructure*
 * [Web Designer News](https://www.webdesignernews.com/) - *Web Design News*
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
@@ -310,6 +313,7 @@
 * [Brython](https://brython.info/) - *Python 3 Web Scripting Language*
 * [Sketch2Code](https://sketch2code.azurewebsites.net/) - *Convert Hand-Drawn Designs into HTML*
 * [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Wave Guide](https://www.waveguide.io/), [ReallyGoodUX](https://www.reallygoodux.io/), [Pageflows](https://pageflows.com/) or [h69.design](https://www.h69.design/) - *UI Design Ideas*
+* [StoryBook](https://storybook.js.org/) - *UI Development Tool*
 * [LocalXpose](https://localxpose.io/) - *Reverse Proxy*
 * [BuiltWith](https://builtwith.com/) - *Find Out What Sites are Built With*
 * [Elements Envato](https://qltien.com/elements/getcode/babiato.html) or [PsdRepo](https://psdrepo.com/) - *Templates, Mockups, Logos, Video*
@@ -387,6 +391,7 @@
 * [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - *Cloud Native Object Storage* 
 * [Amazon S3](https://aws.amazon.com/s3) - *Cloud Object Storage Amazon Simple Service Storage*
 * [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - *Email Verification Service*
+* [Improvemx](https://improvmx.com/) - *Domain Email Forwarding*
 * [Hosts.cx](https://hosts.cx/) - *Website Previews*
 * [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/ospfranco/link-preview-js) - *Create Link Previews*
 * [IP Intelligence](http://getipintel.com/) - *Proxy / VPN / Bad IP Detection*
@@ -437,7 +442,7 @@
 ## ▷ Software Development
 
 * [Electron](https://www.electronjs.org/) - *Desktop App Builder / [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://electron-app-store.ml/) / [Debugger](https://www.electronjs.org/apps/debugtron)*
-* [raylib technologie](https://raylibtech.itch.io/) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - *Software Development Tools*
+* [raylib technologie](https://raylibtech.itch.io/), [bookmarks](https://github.com/MorganGeek/bookmarks) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - *Software Development Tools*
 * [Theos](https://theos.dev/) - *Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)*
 * [Servo](https://servo.org/) - *Experimental Browser Engine*
 * [Gummy](https://gummyjs.vercel.app/) - *Easily Build Javascript Programs* 
@@ -453,7 +458,10 @@
 * [Redis](https://redis.io/) - *Key-Value Database*
 * [Read the Docs](https://readthedocs.org/) or [MkDocs](https://www.mkdocs.org/) / [GitHub](https://github.com/mkdocs/mkdocs/)- *Make Documentation for your Software*
 * [Inno Setup](https://jrsoftware.org/isinfo.php), [InstallForge](https://www.installforge.net/) or [ActualInstaller](https://www.actualinstaller.com/) - *Create Installation Programs*
+* [Ink](https://github.com/vadimdemedes/ink) - *Create Interactive CLI Apps*
+* [Enquirer](https://github.com/enquirer/enquirer) - *Create CLI Prompts*
 * [Flatpak](https://flatpak.org/) - *Create & Distribute Linux Applications*
+* [Awesome DOS](https://github.com/balintkissdev/awesome-dos) - *DOS App Development Resources*
 * [WTFPL](http://www.wtfpl.net/) - *Free Software Licenses*
 
 ***
@@ -463,6 +471,7 @@
 * **[Tizen](https://www.tizen.org/)** - *Android TV App Creator*
 * [XDA](https://forum.xda-developers.com/) - *App Development Forum*
 * [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - *App Development Platform / [GitHub](https://github.com/xamarin)*
+* [Awesome iOS](https://github.com/vsouza/awesome-ios) - *iOS App Development Resources*
 * [Framer](https://www.framer.com/) - *Interactive Site / App Design Tool*
 * [Docker](https://www.docker.com/) - *Build, Manage & Run Apps in Containers / [Images](https://linuxserver.io/)*
 * [Fastlane](https://fastlane.tools/) - *App Development Automation*
@@ -486,7 +495,7 @@
 * [namae](https://namae.dev/) - *App Name Availability Check*
 * [Lich](https://github.com/line/lich) - *Android Development Libraries*
 * [androidx](https://github.com/androidx/androidx) - *Android Development Environment for Jetpack Extensions*
-* [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Flutter](https://flutter.dev/) or [Android Studio](https://developer.android.com/studio/index.html) - *App Creators*
+* [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter) or [Android Studio](https://developer.android.com/studio/index.html) - *App Creators*
 * [Python to APK](https://github.com/Spidy20/Python_To_APK) - *Convert Python Code to APK*
 * [GoNative](https://gonative.io/) - *Convert Websites to Mobile Apps*
 * [Shizuku](https://shizuku.rikka.app/) - *Connect Apps to APIs*
@@ -499,14 +508,14 @@
 * [Redex](https://fbredex.com/) - *Android Bytecode Optimizer*
 * [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/) or [LS Graphics](https://www.ls.graphics/) - *App & Site Mockups*
 * [Really Good Emails](https://reallygoodemails.com/) - *Product Email Mobile Designs and Templates*
-* [UIGarage](https://uigarage.net/), [UXArchive](https://uxarchive.com/), [Mobbin](https://mobbin.design/), [UISources](https://www.uisources.com/) or [LovelyUI](https://lovelyui.com/) - *Mobile UI Designs*
+* [UIGarage](https://uigarage.net/), [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui), [UXArchive](https://uxarchive.com/), [Mobbin](https://mobbin.design/), [UISources](https://www.uisources.com/) or [LovelyUI](https://lovelyui.com/) - *Mobile UI Designs*
 * [Screen from Traction](https://screen.traction.one/) - *Create App Screenshots*
 
 ***
 
 ## ▷ Game Development
 
-* [Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources), [Magic Tools](https://github.com/ellisonleao/magictools) or [Awesome Gamedev](https://github.com/mbrukman/awesome-gamedev) - *Game Development Resources*
+* [Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources), [Magic Tools](https://github.com/ellisonleao/magictools), [LibGDX](https://github.com/rafaskb/awesome-libgdx) or [Awesome Gamedev](https://github.com/mbrukman/awesome-gamedev) - *Game Development Resources*
 * [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - *Basic Game Development Concepts*
 * [Godot](https://godotengine.org/), [Defold](https://defold.com/), [Cave Engine](https://unidaystudio.itch.io/cave-engine), [Engine Bevy](https://bevyengine.org/), [OpenXRay](https://github.com/OpenXRay) or [ursina engine](https://www.ursinaengine.org/) - *Game Engine*
 * [Playerio](https://playerio.com/) - *Online Game Engine*
@@ -556,6 +565,7 @@
 * [CraftPix](https://craftpix.net/freebies/), [Kenney](https://www.kenney.nl/), [/r/GameAssets](https://www.reddit.com/r/gameassets/), [UnityAssets4Free](https://unityassets4free.com/), [UnityFreaks](https://www.unityfreaks.com/) or [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free) - *Game Development Assets*
 * [xonotic](https://github.com/xonotic), [Vanguard](https://github.com/VanguardDev/Vanguard) / [2](https://project-vanguard.netlify.app/index.html) or [Warsow](https://github.com/Warsow) - *FPS Game Assets*
 * [Pixel Art Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_pixel_art) - *Tools to Create Sprites & Pixel Art*
+* [awesome-one-person-games](https://github.com/Yonaba/awesome-one-person-games) - *Single Dev Game Examples*
 
 ***
 
@@ -633,11 +643,7 @@
 * [GitList](https://gitlist.org/) - *Elegant Git Repository Viewer / [GitHub](https://github.com/klaussilveira/gitlist)*
 * [Railway](https://railway.app/) - *Code Repository Manager*
 * [git](https://git-scm.com/) - *Version Control System*
-* [MyPDNS](https://mypdns.org/) or [/r/coolgitlabprojects](https://reddit.com/r/coolgitlabprojects) - *GitLab Project Indexes*
-* [git:logs](https://www.gitlogs.com/), [RepoHunt](https://repo-hunt.signalnerve.workers.dev/) or [/r/coolgithubprojects](https://reddit.com/r/coolgithubprojects) - *Github Project Indexes*
-* [Active Github Forks](https://techgaun.github.io/active-forks/) - *List of active github forks*
-* [Lovely Forks](https://github.com/musically-ut/lovely-forks) - *View a Repositories Forks* 
-* [Git Search Engine](https://zzollo.co/) - *Search GitHub, GitLab ect.*
+* [Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects) 
 * [Awesome First PR Oppotunities](https://github.com/MunGell/awesome-for-beginners) - *Beginner Friendly FOSS Project Index*
 * [Git Extensions](https://gitextensions.github.io/) or [Thermal](https://thermal.codecarrot.net/) - *Git Repository Manager*
 * [GitZip](https://gitzip.org/) - *Download GitHub Repository Sub-Folders / Files* 
@@ -756,6 +762,7 @@
 * [JSPyBride](https://github.com/extremeheat/JSPyBridge) - *Interoperate Node.js and Python*
 * [python-adb](https://github.com/google/python-adb) - *Python ADB + Fastboot Implementation*
 * [pipx](https://pypa.github.io/pipx/) - *Execute Python Binaries in Isolated Environments*
+* [Scikit Learn](https://github.com/scikit-learn/scikit-learn) - *Machine Learning Library for Python*
 * [Doppler](https://www.doppler.com/) - *Sync Environment Variables*
 * [AutoCode](https://autocode.com/) - *Instant Endpoints*
 * [Trunk](https://trunk.io/) - *Run Linters/Formatters/Checkers Simultaneously*
