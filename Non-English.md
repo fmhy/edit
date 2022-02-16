@@ -1351,6 +1351,8 @@ Portuguese
 * [sblib](http://sblib3fk2gryb46d.onion/) - *Books / .onion* 
 * [KinoMuzic](https://kinomuzic.ucoz.ru/) - *Books / Soundtracks*
 * [MirKnig.sur ](http://mirknig.su/) - *Books / Fiction / Nonfiction* 
+* [saitknigi](https://saitknigi.ru/) - *Books / Audiobooks*
+* [Litgu.ru](https://litgu.ru/) - *Books / Audiobooks*
 * [booktracker](https://booktracker.org/) - *Books / Audiobooks / Comics / Magazines / NSFW* 
 * [readmanga](https://readmanga.live/) - *Manga* 
 * [manga-online.biz](https://manga-online.biz/) - *Manga*
