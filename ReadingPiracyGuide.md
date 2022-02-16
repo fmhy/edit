@@ -42,6 +42,7 @@
 * [AudioBB](https://audiobb.com/)
 * [Audiobooks For Soul](https://audiobooks4soul.com/)
 * [AppAudiobooks](https://appaudiobooks.com/)
+* [Litgu.ru](https://litgu.ru/)
 * [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - *Classic Audiobooks*
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - *Poetry*
 * [Blinkist Free Daily](https://t.me/blinkistfree) - *Self-Help Audiobooks*
@@ -96,6 +97,7 @@
 * [2020ok](http://2020ok.com/)  - *Books / Comics*
 * [AllBooksWorld](https://allbooksworld.com/)  - *Books*
 * [All Reading World](https://allreadingworld.com/) - *Books*
+* [The Library](https://discord.gg/cgSVDUwZs9) - *Books*
 * [Only Books](https://onlybooks.org/) - *Books*
 * [All Books](http://all-ebook.info/) - *Books*
 * [nymeriatv](https://nymeriatv.com/Epub/) - *Books*
@@ -162,7 +164,7 @@
 * [SNEWD](https://snewd.com/) - *Books* 
 * [Appdroid](https://appdroid.io/c/ebook/) - *Books*
 * [doma.crazycz](http://doma.crazycz.net/ebooks/) - *Books*
-* [Luminist](http://www.luminist.org/archives/) - *Books* 
+* [Litgu.ru](https://litgu.ru/) - *Books*
 * [British Library](https://www.bl.uk/) - *Books*
 * [EbookLobby](http://ebooklobby.com/) - *Books*
 * [KingAuthor](https://kingauthor.net/) - *Books* 
@@ -236,6 +238,7 @@
 * [Balwin of Library](https://ufdc.ufl.edu/baldwin/all/thumbs) 
 * [Read.gov](http://www.read.gov/books/) 
 * [Classic Literature](https://classic-literature.co.uk/) 
+* [Freeditorial](https://freeditorial.com/)
 * [Lit2Go](https://etc.usf.edu/lit2go/)
 * [FullTextArchive](https://www.fulltextarchive.com/)
 * [Classics.mit](http://classics.mit.edu/index.html)
@@ -1103,6 +1106,7 @@
 * [libgen](https://forum.mhut.org/viewtopic.php?f=17&t=6399) - *Books / [Request Form](https://libgen.life/bookreq/)*
 * [EBooksCart](https://ebookscart.com/request-books/) - *Books*
 * [pirates-forum](https://pirates-forum.org/Forum-Requests) - *Books*
+* [The Library](https://discord.gg/cgSVDUwZs9) - *Books*
 * [AllBooksWorld](https://allbooksworld.com/request-a-book/) - *Books*
 * [PDF Drive](https://www.pdfdrive.com/request-a-book) - *Books*
 * [Sanet.st](https://sanet.st/community/t/requests) - *Books*
@@ -1152,6 +1156,7 @@
 * [Raven Reader](https://ravenreader.app/) - *Article Reader / Manager* 
 * [Cubari](https://cubari.moe/) - *Image Proxy / Reader*
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - *Read Books in Browser*
+* [dotepub](https://dotepub.com/) - *Convert Webpages to EBooks*
 * [Kindle to PDF](https://redd.it/bm837l) - *Kindle to PDF Conversion Guide*
 * [Ebook Sender](https://telegram.me/to_kindle_bot), [SendEpubToKindle](https://www.sendepubtokindle.com/), [Kobo ](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - *Send Ebooks to Kindle*
 * [KoboCloud](https://github.com/fsantini/KoboCloud) - *Sync Kobo to Cloud Services*
