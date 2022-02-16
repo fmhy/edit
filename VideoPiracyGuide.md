@@ -752,7 +752,7 @@
 * **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
 * **[AnimeKaizoku](https://animekaizoku.com/)** - *Sub / Dub / [Dual Audio](https://github.com/AnimeKaizoku/KaizokuPatcher)*
 * **[hi10anime](https://hi10anime.com/)** - *Sub*
-* **[AnimeBatchDDL](https://animebatchddl.wordpress.com/)** - *Sub / Dub / [Discord](https://discord.gg/sgqcm2xCtc)*
+* **[AnimeBatchDDL](https://animebatchddl.wordpress.com/)** - *Sub / Dub*
 * **[Judas Discord](https://discord.gg/vbJ7RTn)** - *Sub / Dub / [TeamDrive](https://groups.google.com/d/forum/judasddl)* 
 * **[15TB Anime Collection](https://drive.google.com/drive/folders/1vSdJo_OrJNgVIRYsvTwR-PeLyM8L-V0M)** - *Sub / Dub*
 * **[Erai-Raws](https://www.erai-raws.info/)** - *Sub / [Discord](https://discord.gg/2PfWaar)*
@@ -877,7 +877,7 @@
 * **[SubsPlease](https://subsplease.org/)** - *Sub*
 * **[bakabt](http://bakabt.me/)** - *Sub / Dub / [Interviews](https://wiki.bakabt.me/index.php/Sign_up)*
 * **[SeaDex](https://releases.moe/)** - *Highest Quality Anime Release Guide / [Discord](https://discord.com/invite/jPeeZewWRn)*
-* [KawAnime](https://github.com/Kylart/KawAnime) - *Anime Streaming App / [Discord](https://discord.com/invite/sdArN2Z)* 
+* [KawAnime](https://kawanime.com/) - *Anime Streaming App / [Discord](https://discord.com/invite/sdArN2Z) / [GitHub](https://github.com/Kylart/KawAnime)* 
 * [TokyoTosho](https://www.tokyotosho.info/) - *Sub*
 * [AnimeTosho](https://animetosho.org/) - *Sub / Dub / [Scraper](https://github.com/c032/go-animetosho)*
 * [Anirena](https://www.anirena.com/) - *Sub / Dub*
@@ -1007,7 +1007,6 @@
 * [1movies](https://1movies.life/contact) - *Movies / TV / Anime*
 * [UniqueStream](https://uniquestream.vip/requests/) - *Movies / TV / Anime*
 * [9Anime](https://9anime.to/) - *Anime / Click Request*
-* [AnimeBatchDDL](https://animebatchddl.wordpress.com/) - *Anime / [Discord](https://discord.gg/sgqcm2xCtc)*
 * [GustaTV](https://www2.gustatv.to/requests/) - *Movies / TV* 
 * [TheWebFlix](https://docs.google.com/forms/d/e/1FAIpQLSe1-DTmK9yuAtmO6_pLMO4fR5UF2aWf0QbMME41blXfFWSQBA/viewform) - *Movies / TV* 
 * [anime-sharing](http://www.anime-sharing.com/forum/anime-requests-19/) - *Anime*
