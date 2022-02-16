@@ -326,6 +326,7 @@
 
 # ► Homebrew
 
+* **[3DS Hack Guide](https://3ds.hacks.guide/)** - *Custom Firmware*
 * [ConsoleMods.org](https://consolemods.org/) - *Console Modding Wiki / [Discord](https://discord.gg/x5vEnkR4C8)*
 * [Digiex](https://digiex.net/forums/) - *Console Modding / Homebrew Guides*
 * [Homebrew Guides](https://rentry.co/Guides) - *Homebrew Guides & Setups*
@@ -359,7 +360,6 @@
 * [CTGP Revolution](https://www.chadsoft.co.uk/) or [Wiiki Tockdom](http://wiki.tockdom.com/) - *Mario Kart Wii Mod* 
 * [TTs Online](https://redd.it/ie6gi7) - *MKW Online Time Trials Mod*
 * [Wiimmfi](https://wiimmfi.de/) - *Wii / DS Multiplayer Revival*
-* [3DS Hack Guide](https://3ds.hacks.guide/) - *Custom Firmware*
 * [Theme Plaza](https://themeplaza.art/themes) - *3DS Themes*
 * [DSI Guide](https://dsi.cfw.guide/) - *DSI Modding Guide*
 * [GameBoy Tech Page](https://web.archive.org/web/19990209041732/http://home.hiwaay.net/%7Ejfrohwei/gameboy/home.html) - *Gameboy Tools*
