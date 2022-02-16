@@ -796,8 +796,9 @@
 * [1loc](https://1loc.dev/) - *217 Single Line JavaScript Codes* 
 * [Gummy](https://gummyjs.vercel.app/) - *Easily Build Javascript Programs* 
 * [Beautifier](https://beautifier.io/) - *Online JavaScript Beautifier*
-* [Kaboomjs](https://kaboomjs.com/) - *Quickly Make Games with Javascript*
+* [anime.js](https://animejs.com/) - *JavaScript Animation Library / [GitHub](https://github.com/juliangarnier/anime/)*
 * [randomcolor](https://randomcolor.lllllllllllllllll.com/) - *Random Javascript Color Generator*
+* [Adoptium](https://adoptium.net/) - *Download OpenJDK Binaries*
 * [Bundlephobia](https://bundlephobia.com/) - *Find Cost of Adding npm Package*
 * [Awesome Python](https://github.com/vinta/awesome-python) - *Python Resource Index*
 * [py-modindex](https://docs.python.org/3/py-modindex.html) - *Python Modules List / Tutorials*
