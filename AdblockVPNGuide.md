@@ -187,7 +187,6 @@
 * [Windows 10 Antispy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_antispy_tools)
 * [Privatezilla](https://github.com/builtbybel/privatezilla) - *Find and fix Windows 10 Privacy / Security Issues* 
 * [simplewall](https://www.henrypp.org/product/simplewall) - *Configure Windows Filtering Platform / [GitHub](https://github.com/henrypp/simplewall)* 
-* [TorWall](https://github.com/basil00/TorWall) or [Whonix](https://www.whonix.org/) - *Use Tor to Encrypt Internet Traffic*
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - *List of Data Broker Opt-Out Resources* 
 * [Blur](https://dnt.abine.com/) - *Protect Passwords & Personal Information* 
 * [Plain Text Offenders](https://plaintextoffenders.com/) - *Sites That Don't Securely Store Passwords*
@@ -199,6 +198,7 @@
 * [FakePhoneNumber](https://fakephonenumber.net/) - *Generate Fake Phone Numbers*
 * [Tails](https://tails.boum.org/) or [Qubes](https://www.qubes-os.org/) - *Privacy-Based Operating Systems*
 * [Track This]( https://trackthis.link/) - *Confuse Personal Advertising by opening 100 tabs* 
+* [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) - *Cryptography Resources*
 * [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete) - *Secure File Deletion*
 * [VeraCrypt](https://www.veracrypt.fr/en/Home.html) or [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup) - *Disk Encryption Software*
 * [Cryptomator](https://cryptomator.org/), [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - *Cloud File Encryption*
@@ -217,7 +217,7 @@
 * [PrivNote](https://privnote.com/), [Burn.Link](https://burn.link/) or [IPNote](https://ipnote.io/) - *Send Self-Destructing Messages* 
 * [xcodx.ru](https://xcodx.ru/) - *Send Encrypted Text*
 * [USBKill](https://github.com/hephaest0s/usbkill) - *Anti-Forensic Kill-Switch*
-* [Eraser](https://eraser.heidi.ie/) - *Remove / Overwrite Hard Drive Data* 
+* [Eraser](https://eraser.heidi.ie/) or [Lethe](https://github.com/rafael-santiago/lethe) - *Wipe / Overwrite Hard Drive Data* 
 * [Free Hide Folder](https://www.cleanersoft.com/hidefolder/free_hide_folder.htm) or [Wise Folder Hider](http://www.wisecleaner.com/wise-folder-hider-free.html) - *Hide Folders / Files* 
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - *Run a Oracle VM on TailsOS*
 * [diaspora](https://diasporafoundation.org/), [MissKey](https://join.misskey.page/en/), [Mastodon](https://joinmastodon.org/), [Pleroma](https://pleroma.social/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendi](https://friendi.ca/) or [Zotlabs](https://zotlabs.org/page/hubzilla/hubzilla-project) - *Decentralized Social Network*
@@ -314,7 +314,7 @@
 ## ▷ Browser Tools
 
 * **[Tor Browser](https://www.torproject.org/)** or [Lokinet](https://lokinet.org/) - *Onion-Routed Browser*
-* **Tor Tools** - [Wiki](https://gitlab.torproject.org/tpo/team/-/wikis/home ) / [Unblock Tor](https://i.imgur.com/bQStFyI.gifv) / [Anonymity Tips](https://support.torproject.org/#staying-anonymous) / [Leak Scan](https://github.com/s-rah/onionscan) / [IP Test](https://check.torproject.org/) / [Auto IP Switch](https://github.com/seevik2580/tor-ip-changer) / [Access Client](https://dragonfruit.network/onionfruit) / [GitHub](https://github.com/dragonfruitnetwork/onionfruit/) / [Python Controller](http://vt5hknv6sblkgf22.onion/index.html) / [Default Gateway](https://github.com/htrgouvea/nipe)
+* **Tor Tools** - [Wiki](https://gitlab.torproject.org/tpo/team/-/wikis/home) / [Unblock Tor](https://i.imgur.com/bQStFyI.gifv) / [Anonymity Tips](https://support.torproject.org/#staying-anonymous) / [Leak Scan](https://github.com/s-rah/onionscan) / [IP Test](https://check.torproject.org/) / [Auto IP Switch](https://github.com/seevik2580/tor-ip-changer) / [Access Client](https://dragonfruit.network/onionfruit) / [GitHub](https://github.com/dragonfruitnetwork/onionfruit/) / [Python Controller](http://vt5hknv6sblkgf22.onion/index.html) / [Default Gateway](https://github.com/htrgouvea/nipe) / [Proxy](https://reqrypt.org/tallow.html), [2](https://github.com/basil00/TorWall), [3](https://www.whonix.org/)
 * **[ffprofile](https://ffprofile.com/)**, **[ghacks-user.js](https://github.com/arkenfox/user.js)**, [firefox-debloat](https://github.com/amq/firefox-debloat), [pyllyukko](https://github.com/pyllyukko/user.js/) - *Privacy Hardened Firefox / [Warning](https://i.imgur.com/ZMQJHwC.png) / [Guide](https://brainfucksec.github.io/hardening-firefox-2022)*
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Privacy Focused Browsers* 
 * **[Vytal](https://vytal.io/)** - *See What Your Browser Knows About You*
