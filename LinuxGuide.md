@@ -27,6 +27,7 @@
 * [Linux Difficulty Chart](https://i.imgur.com/H8sw3L4.png) - *Distros Ranked by Difficulty*
 * [BusyBox](https://frippery.org/busybox/) - *Unix Tools*
 * [Awesome-shell](https://github.com/alebcay/awesome-shell) - *List of CLI Tools*
+* [Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome) - *GNOME Distro Resources*
 * [Enlightment](https://www.enlightenment.org/) - *Desktop and Window Manager*
 * [swizzin](https://swizzin.ltd/) - *Seedbox for Ubuntu / Debian* 
 * [rtinst](https://github.com/arakasi72/rtinst) - *Seedbox Installation Script for Ubuntu / Debian* 
@@ -55,6 +56,7 @@
 * [Fix Guild Lag](https://wiki.archlinux.org/title/Discord#Lagging_when_scrolling_through_your_guilds) - *Fix Guild Scrolling Lag*
 * [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - *Hardcoded Tray Icon Fix*
 * [Tunic](https://github.com/mikeslattery/tunic) - *Install Linux Over or Alongside Windows*
+* [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - *Windows Subsystem Resources*
 * [Darling](https://www.darlinghq.org/) - *Run MacOS Programs on Linux*
 * [OSX-KVM](https://github.com/kholia/OSX-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - *MacOS Virtual Machine*
 * [InstantBox](https://github.com/instantbox/instantbox) - *Temporary Linux Systems*
@@ -242,6 +244,7 @@
 * [WSL-Programs](https://github.com/ethanhs/WSL-Programs) - *Windows Subsystem for Linux Programs*
 * [yay](https://github.com/Jguer/yay), [paru](https://github.com/morganamilo/paru) or [aura](https://github.com/aurapm/aura) - *Arch User Repository Helpers*
 * [KDE's Applications](https://apps.kde.org/education) - *Linux Apps* 
+* [Awesome KDE](https://github.com/francoism90/awesome-kde) - *Linux Apps*
 * [apps.gnome](https://apps.gnome.org/en-GB/) - *GNOME Apps*
 * [AppImagePool](https://github.com/prateekmedia/appimagepool) - *Linux App Images*
 * [AppImages](https://www.appimagehub.com/) - *Linux App Images*
@@ -271,6 +274,7 @@
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher*
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - *GOG Client*
 * [proton-gog-install](https://github.com/myyc/proton-gog-install) - *Windows to Linux GOG Game Installer*
+* [Unix ASCII Games](https://github.com/ligurio/awesome-ttygames) - *Unix ASCII Games*
 * [NVBurner](https://github.com/iloveichigo/NVBurner) - *Overclocking Tool*
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - *Linux Gaming Kernels*
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - *Linux System Optimizer*
