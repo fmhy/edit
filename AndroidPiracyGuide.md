@@ -254,7 +254,8 @@
 * [Green Screens](https://play.google.com/store/search?q=green%20screen&c=apps) - *Green Screens for Android*
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/), [Catogram X](https://github.com/CatogramX/CatogramX) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - *Telegram Client*
 * [Uploadgram](https://github.com/Pato05/uploadgram-app) - *Telegram File Upload*
-* [Thimble](https://www.thimbleapp.co/) - *Group Messaging*
+* [icq](https://icq.com/) - *Messaging App*
+* [Thimble](https://www.thimbleapp.co/) - *Group Messaging App*
 * [FluffyChat](https://fluffychat.im/en/) - *Matrix Client*
 * [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Husky](https://git.mentality.rip/FWGS/Husky) or [Tusky](https://tusky.app/) - *Mastodon Client* 
 * [Blabber.im](https://f-droid.org/packages/de.pixart.messenger) - *XMPP / Jabber Messenger*
@@ -567,6 +568,7 @@
 * [eBookit](https://play.google.com/store/apps/details?id=ch.ebookit.reader) - *Ebook Reader*
 * [PDF Viewer](https://f-droid.org/packages/com.gsnathan.pdfviewer) - *PDF Reader*
 * [Readera](https://play.google.com/store/apps/details?id=org.readera) - *PDF Reader*
+* [K2pdfopt](https://willus.com/k2pdfopt/) - *Optimize PDF/DJVU Files for Mobile E-Readers*
 * [Voice](https://f-droid.org/en/packages/de.ph1b.audiobook/) - *Audiobook Player* 
 * [Simple Audiobook Player](https://play.google.com/store/apps/details?id=mdmt.sabp.free) - *Audiobook Player* 
 * [Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) - *Audiobook Player*  
@@ -734,7 +736,6 @@ RSS Player*
 * [AnimeUltima](https://www1.animeultima.to/app) - *[Discord](https://discord.gg/Am89tCjYkY)*
 * [aniryu](https://anime.pokurt.me/)
 * [ZAnime](https://github.com/linkkader/zanime)
-* [AnimeBoya](https://github.com/Tu2l/AnimeBoya)
 * [Aniyomi](https://github.com/jmir1/aniyomi)
 * [Animebay](https://animebay.tech/)
 * [AnYme](https://github.com/zunjae/anYme) - *[GitHub](https://zunjae.github.io/anymeapp.com/) / [Discord](https://discord.com/invite/JUMvDEP)
@@ -950,6 +951,7 @@ RSS Player*
 * [Nicegram](https://nicegram.app/) - *Telegram Client*
 * [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - *XMPP Client*
 * [Thimble](https://www.thimbleapp.co/) - *Group Messaging*
+* [icq](https://icq.com/) - *Messaging App*
 * [Watusi](https://watusi.fouadraheb.com/) - *Modded WhatsApp*
 * [Whatspad++](https://iosninja.io/ipa-library/download-whatspad-ipa-ios) - *iPad WhatsApp*
 * [AppLibraryEnabler](https://github.com/tomaszpoliszuk/AppLibraryEnabler) - *Enable App Library on iPad*
@@ -1145,3 +1147,4 @@ RSS Player*
 * [NovelReader](https://github.com/ppraveentr/NovelReader) - *Light Novels*
 * [NovelLoop](https://apps.apple.com/in/app/novelloop/id1170755867) - *Light Novels*
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books*
+* [K2pdfopt](https://willus.com/k2pdfopt/) - *Optimize PDF/DJVU Files for Mobile E-Readers*
