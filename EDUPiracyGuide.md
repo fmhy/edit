@@ -516,6 +516,7 @@
 
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
 * [OpenSong](http://www.opensong.org/) - *Track Lyrics, Chords, Sheets & more*
+* [Harmony](http://getharmony.net/) - *Chord Detection*
 * [Sound Slice](https://soundslice.com/) - *Sheet Music Learning*
 * [LilyPond](http://lilypond.org/) - *Music Engraving Program*
 * [Learning Music](https://learningmusic.ableton.com/)
