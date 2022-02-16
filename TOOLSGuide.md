@@ -44,6 +44,7 @@
 * [How Many Days Since](http://howmanydayssince.net/) or [How Many Days Until](https://howmanydaysuntil.co/) - *Calculate Days Since a Date*
 * [e.gg Timer](https://e.ggtimer.com/) - *Timer*
 * [SetAlarmClock](https://setalarmclock.net/) - *Online Alarm Clock*
+* [Time.is](https://time.is/) - *Check Accuracy of System Clock*
 * [Dashana](https://dashana.com/), [DataWrapper](https://www.datawrapper.de/), [RAWgraphs](https://app.rawgraphs.io/) / [GitHub](https://github.com/rawgraphs/rawgraphs-app) or [ParaView](https://github.com/Kitware/ParaView) - *Data Visualization Tool*
 * [Grocy](https://grocy.info/) - *Grocery / Household Management Tool*
 * [Volmarg](https://volmarg.github.io/) - *Personal Management Tool*
@@ -77,7 +78,7 @@
 * [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/) or [Random Lists](https://www.randomlists.com/) - *Generate Anything*
 * [Score Count](https://scorecount.com/) - *Online Sports Scoreboards*
 * [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - *Wheel Randomizer*
-* [PollCode](https://pollcode.com/), [YoPolls](https://www.yopolls.com/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/) or [poal.me](https://poal.me/) - *Poll Creator*
+* [PollCode](https://pollcode.com/), [YoPolls](https://www.yopolls.com/), [Polls.fr](https://polls.fr/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/) or [poal.me](https://poal.me/) - *Poll Creator*
 * [sli.do](https://www.sli.do/), [Feedbackr](https://www.feedbackr.io/) or [Trypingo](http://trypingo.com/) - *Live Polling Apps*
 * [Event Rally](https://rallly.co/) - *Collaborate and Vote on a Date to Host / [GitHub](https://github.com/lukevella/Rallly)*
 * [Diff Checker](https://www.diffchecker.com/) - *Check Differences in Text, Images, PDFs or Files*
@@ -561,6 +562,7 @@
 * [TryHackMe](https://tryhackme.com/), [AWS Training](https://www.aws.training/), [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html), [UI.com](https://www.ui.com/training/), [CryptoHack](https://cryptohack.org/) - *IT Training & Courses*
 * [NIST](https://www.nist.gov/nice/apprenticeship-finder) - *NICE Apprenticeship Program Finder*
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - *Cloud Career Training*
+* [BetaList](https://betalist.com/) - *Get Startup Ideas*
 * [Failory](https://www.failory.com/graveyard) - *Learn Why Startups & Products Failed*
 * [AngelLIst](https://angel.co/) - *Startup Community*
 * [learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - *Cloud Computing Fundamentals*
@@ -678,7 +680,7 @@
 * [Delta Chat](https://delta.chat/en/) - *Email Based Messenger* 
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - *Export Skype Chat Data to Readable Text*
-* [Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [Whereby](https://whereby.com/), [Videolink2me](https://videolink2me.com/), [TinyChat](https://tinychat.com/), [Noysi Meet](https://meet.noysi.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat*
+* [Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [Whereby](https://whereby.com/), [Videolink2me](https://videolink2me.com/), [TinyChat](https://tinychat.com/), [Noysi Meet](https://meet.noysi.com/), [iqc](https://icq.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat*
 * [Zoom Escaper](https://zoomescaper.com/) - *Self-Sabotage Video Calls to Escape Meetings*
 * [Live Curtain](https://livecurtain.com/) - *Countdown Curtain For Online Meeting*
 * [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Nertivia Chat](https://nertivia.net/), [Mumble](https://www.mumble.info/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
@@ -979,7 +981,7 @@ General Reading Sites*
 * [lurrker](https://lurrker.com/), [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/) or [Nuxtit](https://nuxtit.netlify.com/) - *Alt Browsers / Web Clients*
 * [xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/) / [2](https://github.com/spikecodes/libreddit), [Saturnus](https://saturnusapp.com/), [Inccogsnoo](https://incogsnoo.com/) or [teddit](https://teddit.net/) / [2](https://codeberg.org/teddit/teddit) - *Reddit Frontends*
 * [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466-unedit-and-undelete-for-reddit) - *See Edited & Deleted Reddit Content*
-* [Reddit-Search](https://camas.github.io/reddit-search/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - *View Deleted Reddit Posts*
+* [Reddit-Search](https://camas.github.io/reddit-search/), [Unddit](https://www.unddit.com/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - *View Deleted Reddit Posts*
 * [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - *View Deleted Reddit Comments* 
 * [The-Eye /r/](https://the-eye.eu/r/) - *Subreddit Backups* 
 * [rareddit](https://www.rareddit.com/), [Archive Reddit](https://www.archivereddit.com/), [PushShift Reddit](http://files.pushshift.io/reddit/) or [Reddit Archive](http://www.redditarchive.com/) - *Reddit Post Archive* 
@@ -1178,7 +1180,7 @@ General Reading Sites*
 
 * **[Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools)** - *File Tools for Telegram*
 * [Telegram Channels](https://telegramchannels.me/), [TG-ME](https://www.tg-me.com/), [tg_indexs](https://t.me/tg_indexs), [telegram-list](https://github.com/goq/telegram-list) or [Telegramic](https://telegramic.org/) - *Telegram Channel Indexes*
-* [BotsArchive](https://t.me/BotsArchive), [2](https://github.com/ebertti/awesome-telegram), [3](https://github.com/DenisIzmaylov/awesome-telegram-bots), [4](https://github.com/abdelhai/awesome-bots), [5](https://github.com/stkw0/awesome-telegram-groups), [6](https://github.com/serhii-londar/awesome-telegram), [7](https://github.com/lorien/awesome-telegram-lists), [8](https://telegramic.org/bots/), [9](https://t.me/botlist), [10](https://danyspin97.github.io/TelegramBotsList/), [11](https://www.qwasap.com/en/bots.php), [12](https://github.com/goq/telegram-list) - *Telegram Bot Indexes* 
+* [Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_bots) - *Telegram Bot Indexes*
 * [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [gramxly](https://gramxly.com/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - *Telegram Channel / Bot Search*
 * [ShellBot](https://github.com/MannyHackers/ShellBot) or [Userge](http://theuserge.tech/) - *Multi-Tool Telegram Bot*
 * [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots) - *Audio Download Bots*
@@ -1229,6 +1231,7 @@ General Reading Sites*
 * [PocketTube](https://yousub.info/) - *YouTube Subscription Manager / Organizer* 
 * [FreshTube](https://porjo.github.io/freshtube/) - *Display Latest Video from Subscriptions* 
 * [Youtube_Subs_Bot](https://t.me/youtube_subs_bot) - *Sub to Channels Without Account* 
+* [TubeBuddy](https://www.tubebuddy.com/) - *YouTube Channel Tools*
 * [Channel Crawler](https://channelcrawler.com/eng) - *YouTube Channel Search*
 * [TubeArchivist](https://www.tubearchivist.com/) - *Archival Youtube Media Server / [GitHub](https://github.com/bbilly1/tubearchivist)*
 * [Astronaut.io](http://astronaut.io/), [Incognitube](https://www.incognitube.com/) or [Petit tube](http://www.petittube.com/) - *YouTube Vids with -100 views* 
@@ -1319,6 +1322,7 @@ General Reading Sites*
 * [Twitch-Desktop](https://github.com/twitch-desktop/twitch-desktop) or [Orion](https://alamminsalo.github.io/orion/) - *Twitch Desktop Client* 
 * [Multi](https://multi.raredrop.co/), [Twitchmultivod](https://www.twitchmultivod.com/) or [TwitchTheater](https://twitchtheater.tv/) - *Watch Multiple Twitch Streams* 
 * [Tenami](https://www.tenami.tv/) - *Twitch Watch Parties*
+* [TwitchQuotes](https://www.twitchquotes.com/) - *Twitch Copypastas*
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - *Fix Twitch Aspect Ratio*
 * [Chatterino](https://chatterino.com/), [Chatsen](https://chatsen.app/), [Chatterino Homies](https://chatterinohomies.com/) or [Chatty](https://chatty.github.io/) - *Twitch Chat Client*
 * [SpeechChat](https://speechchat.com/) - *Twitch Text to Speech Client*
@@ -1440,6 +1444,7 @@ General Reading Sites*
 * [Sensor.fyi](https://sensor.fyi/info/) - *Mouse Guide / Information*
 * [BTOD](https://www.btod.com/blog/category/buying-guides/) - *Office Chair Buying Guides / Reviews*
 * [Office License Isn't Genuine](https://web.archive.org/web/20211014003224/https://windowsaddict.ml/office-license-is-not-genuine) - *Fix Office Activation Issues*
+* [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) - *BSD Operating Systems*
 * [Rufus](https://rufus.ie/), [AIO Boot](https://www.aioboot.com/), [UUP](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x), [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - *Create Bootable USB Drives*  
 * [Easy2Boot](https://www.easy2boot.com/) - *Boot Directly from ISO's* 
 * [rEFind](http://www.rodsbooks.com/refind/) - *Boot Manager*
@@ -1487,6 +1492,7 @@ General Reading Sites*
 * [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - *Modify & View Hidden NVIDIA Settings*
 * [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) or [NVSlimmer](https://majorgeeks.com/files/details/nvslimmer.html) - *Customize NVIDIA Driver Packages*
 * [Nvidia-Patch](https://github.com/keylase/nvidia-patch) - *NVENC & NvFBC Patches*
+* [Parted Magic](https://filecr.com/?s=Parted+magic) - *Disk Management Tool*
 * [Disk Usage Analyzers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_disk_usage_analyzers) - *View & Manage Files on Disk*
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - *Disk Benchmarking Tool*
 * [Macrium Reflect](https://www.macrium.com/reflectfree) - *System Benchmarking*
@@ -1593,6 +1599,7 @@ General Reading Sites*
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](http://www.keyefficiency.com/) - *System Task Scheduler*
 * [Nomad](https://www.nomadproject.io/) - *App Deployment Automation / [GitHub](https://github.com/hashicorp/nomad)*
 * [cygwin](http://cygwin.com/) - *Linux Style Windows Tools*
+* [GWSL-Source](https://github.com/Opticos/GWSL-Source) - *Run Linux Apps on Windows*
 * [WSL2 Distrod](https://github.com/nullpo-head/wsl-distrod) - *Install Distros with Systemd & Auto-Start On*
 * [Menu11](https://github.com/prateekmedia/Menu11) - *Windows 11 Style Launcher*
 * [DreyMaR's](https://dreymar.colemak.org/) - *Keyboard Tips and Resources*
@@ -1665,6 +1672,7 @@ General Reading Sites*
 * [GetDNote](https://www.getdnote.com/) - *Command Line Notebook*
 * [cmder](https://cmder.net/) - *Portable Console Emulator for Windows* 
 * [PowerShell](https://github.com/powershell/powershell) - *PC / Mac / Linux PowerShell*
+* [PowershellMenu](https://github.com/Mike-Branham/PowershellMenu), [Write-Menu](https://github.com/QuietusPlus/Write-Menu) or [ps-menu](https://github.com/chrisseroka/ps-menu) - *PowerShell Console Menu*
 * [PowerShdll](https://github.com/p3nt4/PowerShdll) - *Run PowerShell with rundll32*
 * [SystemNightware](https://github.com/GossiTheDog/SystemNightmare) - *Instant System Command Prompt*
 * [Starship](https://starship.rs/) - *Cross-Shell Prompt*
