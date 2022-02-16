@@ -57,6 +57,7 @@
 * [ImageRemix](http://www.oyonale.com/imagemix.php) - *Image Remixer*
 * [SpiralBetty](https://www.spiralbetty.com/) - *Image Spiralizer*
 * [Caricaturer](https://caricaturer.io/) - *Create Caricature of Your Face*
+* [Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - *Create Sketch from Anime*
 * [Image Splitter](https://ruyili.ca/image-splitter/), [2](http://www.htmlkit.com/services/is/) - *Split Images into Tiles*
 * [Needs More JPEG](http://needsmorejpeg.com/) - *Blur / Pixelize Images* 
 * [PicFont](https://picfont.com/) - *Add Text to Images*
@@ -137,6 +138,7 @@
 * [Meta-Mapper](https://meta-mapper.com/) - *Website Metadata Thumbnails*
 * [Mega creator](https://icons8.com/mega-creator) - *Promo / Poster Creator*
 * [Band-Flyers](https://band-flyers.com/) - *Band Flyer Creator*
+* [Custom Ink](https://www.customink.com/ndx/#/) - *Create T-Shirt Designs*
 * [Mockupea](https://mockupea.com/) - *Book / Magazine Mockup Cover Creator*
 * [Unsell](https://www.unsell.design/) - *Portfolio / Magazine Templates*
 * [PSDcovers](https://www.psdcovers.com/), [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [Mockups](https://mockups.pixeltrue.com/), [medialoot](https://medialoot.com/free-mockups/) or [MockupsForFree](https://mockupsforfree.com/) - *Product Mockups*
@@ -300,7 +302,7 @@
 * [Keygen](https://keygen.co/) - *3D Key Model Generator*
 * [CC0 Textures](https://cc0textures.com/) - *Textures for 3D Models* 
 * [Generated Photos](https://generated.photos/) - *AI Generated Model Photos*
-* [Blender](https://www.blender.org/) - *Open Source 3D Modeler / 2D Animation / Video Editor*
+* [Blender](https://www.blender.org/) - *Open Source 3D Modeler / 2D Animation / Video Editor / [Resources](https://github.com/agmmnn/awesome-blender)*
 * [3D Modeling Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps) - *Free 3D Modeling Apps* 
 * [Armorpaint](https://armorpaint.org/) - *3D Painting*
 * [ZBrush](https://zbrushcore.com/mini/) - *3D Sculpting*
@@ -329,6 +331,7 @@
 * [Photoshop Repeating Action Script](https://gist.github.com/ajazsiddiqui/72bbf376ad387e1f76bfad777f66d7a3) - *Automate Photoshop*
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - *Image Color Scatter Plot* 
 * [resdet](https://github.com/0x09/resdet) - *Detect if an Image is Upscaled*
+* [lbpcascade animeface](https://github.com/nagadomi/lbpcascade_animeface) - *Detect Anime Faces*
 * [VisiPics](http://www.visipics.info/) - *Duplicate Photo Remover* 
 * [behind!](https://github.com/kubuzetto/behind) - *View Background Images*   
 * [Visual Center](https://javier.xyz/visual-center/) - *Find the Visual Center of an Image*
@@ -378,6 +381,7 @@
 * [Screenstab](http://screenstab.com/) - *Create Graphics from Screenshots*
 * [Limus](https://limus.netlify.app/) or [Screenstab](https://www.screenstab.com/editor/) - *Change Screenshot Angles*
 * [Annotate Screen](https://annotatescreen.com/), [ImgReview](https://imgreview.app/) / [GitHub](https://github.com/artemdemo/imgreview) or [Pensela](https://github.com/weiameili/Pensela) - *Annotate Screenshots*
+* [Screenshot Comparison](https://screenshotcomparison.com/) - *Compare Screenshots*
 * [Screenshot Tutorial](https://www.take-a-screenshot.org/) - *Multi Platform Screenshot Guides* 
 
 ***
