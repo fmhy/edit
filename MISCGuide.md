@@ -328,6 +328,7 @@
 * [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - *How well do you recognize hit songs?*
 * [GeekPrank](https://geekprank.com/) - *Windows Pranks*
 * [Update Faker](https://updatefaker.com/) - *Fake System Update Prank*
+* [The Restart Page](http://www.therestartpage.com/) - *Vintage Operating System Reboots*
 * [Hair on Screen](https://chrome.google.com/webstore/detail/hair-on-screen/egkikapjpndmjflbjjoondbihalgdjco) - *Fake Hair on Screen Prank*
 * [Speedtest Faker](https://jkctech.nl/projects/speedtest/) - *Fake Speedtest Results*
 * [Hacktyper](https://hackertyper.net/), [Hoacks](https://hoacks.com/) or [Geektyper](https://geektyper.com/) - *Fake Hacking Screen* 
@@ -558,7 +559,7 @@
 * [TXT Radio](http://beta.txtradio.live/) - *News Text Radio*
 * [PublicAlerts](https://google.org/publicalerts) - *Important News / Disaster Alerts*
 * [Corona Hunt](https://coronahunt.app/) - *Coronavirus Stats*
-* [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Ars Technica](https://arstechnica.com/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
+* [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Ars Technica](https://arstechnica.com/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/), [Toms Hardware](https://www.tomshardware.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
 * [Liliputing](https://liliputing.com/) - *Linux Mobile News*
 * [Latest Privacy](https://latestprivacy.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - *Privacy News*
 * [Talos Blog](https://blog.talosintelligence.com/) - *CyberSecurity News*
