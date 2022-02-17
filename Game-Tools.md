@@ -379,6 +379,7 @@
 * [MegaGames](https://megagames.com/) - *Fixes / Trainers / News*
 * [ChronoCrash](http://www.chronocrash.com/forum/) - *Game Modding Forum*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
+* [Chemax](https://chemax.ru/cheat) - *PC Game Cheats*
 * [CheatEngine](https://cheatengine.org/) - *Single Play Cheat Engine*
 * [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - *Cheat Engine Table for Single Player Games*
 * [Otis_Inf Camera Mods](https://redd.it/hvttbd) - *Game Camera Mods*
