@@ -27,7 +27,7 @@
 * [OEC](https://oec.world/en) - *International Trade Data Visualization*
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - *World Birth / Death Rates Visualization*
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - *Gun Violence Information Database*
-* [RecoRank](https://recorank.com/) - *Tech Review Aggregator*
+* [RecoRank](https://recorank.com/) or [NanoReview](https://nanoreview.net/en) - *Tech Reviews / Comparisons*
 * [Reddit Favorites](https://redditfavorites.com/) - *Product & Service Recommendations*
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - *Open Source Tools* 
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - *Mac-Style Dashboard Widget*
@@ -312,6 +312,8 @@
 * [PlanetSide](https://planetside.co.uk/) - *CG Environment Generator*
 * [AnimeEffects](http://animeeffects.org/en/), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/) or [Synfig](https://www.synfig.org/) - *2D Animation Tool* 
 * [Storyboarder](https://wonderunit.com/storyboarder/) - *Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)* 
+* [Mandelbulber](https://mandelbulber.com/) - *Fractal Rendering Software / [Info](https://www.mandelbulb.com/) / [3D](https://mb3d.overwhale.com/)*
+* [JWildfire](https://jwildfire.overwhale.com/) or [Fractorium](http://fractorium.com/) - *Flame Fractal Rendering Software*
 * [LibreSprite](https://libresprite.github.io/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - *Pixel Art Animation Tools*
 * [BestSnip](https://bestsnip.com/animation/) or [Mulator](https://multator.ru/) - *Online Animation Tool*
 * [Mixamo](https://www.mixamo.com/) - *3D Character Animation Tool*
@@ -1224,7 +1226,7 @@ General Reading Sites*
 * [FreeTube](https://freetubeapp.io/) - *YouTube Frontend / Client*
 * [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube), [ImprovedTube](http://improvedtube.com/), [Iridium](https://github.com/ParticleCore/Iridium)  or [Magic Actions for YouTube](https://www.mycinema.pro/) - *YouTube Enhancement Addons* 
 * [Focused YouTube](https://github.com/makaroni4/focused_youtube) - *Minimalist YouTube*
-* [YouTube Redux](https://redd.it/jvg4mf) or [Classic YouTube Design](https://github.com/Cicero-Interactive/Classic-YouTube-Design/) - *Restore Classic YouTube Layout* 
+* [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux) or [Classic YouTube Design](https://github.com/Cicero-Interactive/Classic-YouTube-Design/) - *Restore Classic YouTube Layout* 
 * [YouTube Real Cinema Mode](https://userstyles.org/styles/122032/youtube-real-cinema-mode) - *Improved YouTube Cinema Mode*
 * [NSFW Youtube](https://www.nsfwyoutube.com) or [Simple YouTube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - *Bypass YouTube Age Restriction*
 * [YouTube RSS Finder](https://github.com/teddy-gustiaux/youtube-rss-finder) - *Create YouTube RSS Feeds* 
@@ -1428,10 +1430,12 @@ General Reading Sites*
 * [Windows 10 Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)
 * [Operating System Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_os_emulators) - *Emulate Alternate OS*
 * [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) / [GitHub](https://github.com/microsoft/PowerToys), [CWCodes](http://cwcodes.net/), [Progress Tools](https://www.progress-tools.x10.mx/), [Guru3D](https://www.guru3d.com/files-categories) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
-* [PCPartPicker](https://pcpartpicker.com/), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), [/r/buildapc](https://reddit.com/r/buildapc) or [NZXTBld](https://www.letsbld.com/) - *PC Building Sites / [Discord](https://discord.gg/buildapc)*
+* [PCPartPicker](https://pcpartpicker.com/), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), [/r/buildapc](https://reddit.com/r/buildapc), [Build Redux](https://buildredux.com/) or [NZXTBld](https://www.letsbld.com/) - *PC Building Sites / [Discord](https://discord.gg/buildapc)*
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - *PC Building Community*
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC)  - *PC Suggestion Community / [Discord](https://discord.gg/TmNgXbwrqJ)*
-* [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - *Laptop Suggestions / [Discord](https://discord.gg/pes68JM)*
+* [/r/PCMasterrace Wiki](https://www.reddit.com/r/pcmasterrace/wiki/builds/), [/r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index
+reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Building Guides*
+* [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Laptop Deals](https://laptopsdeals.net/our-gaming-laptops-guide-list/), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - *Laptop Suggestions / [Discord](https://discord.gg/pes68JM)*
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - *GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)*
 * [r/TechSupport](https://www.reddit.com/r/techsupport/), [Windows 10 Forums](https://www.windowsphoneinfo.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/) or [Notebook Reviews](http://forum.notebookreview.com/) - *Tech Support / [Discord](https://discord.gg/2EDwzWa) / [Wiki](https://rtech.support/books/)* 
 * [GetHuman](http://gethuman.com/) or [ContactFound](https://contactfound.com/) - *Tech Support Numbers*
