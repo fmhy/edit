@@ -83,6 +83,7 @@
 * [Akira](https://github.com/akiraux/Akira) - *UI/UX Customization*
 * [Windows-10](https://github.com/B00merang-Project/Windows-10) - *Linux Windows 10 Theme*
 * [HydraPaper](https://hydrapaper.gabmus.org/) or [Komorebi](https://github.com/cheesecakeufo/komorebi) - *Linux Wallpaper Manager*
+* [Video Wallpaper](https://github.com/ghostlexly/gpu-video-wallpaper) - *Use Videos as Animated Wallpaper*
 * [Polychromatic](https://polychromatic.app/) - *Linux System Light Control*
 * [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - *Window Closing Effects*
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) - *Noise Cancellation Software*
