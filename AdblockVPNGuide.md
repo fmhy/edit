@@ -329,7 +329,7 @@
 * [h8Mail](http://github.com/khast3x/h8mail) - *Multiple Data Breach Checks*
 * [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/) or [leakpeek](https://leakpeek.com/) - *Data Breach Search Engine* 
 * [DataBunker](https://databunker.org/) - *Data Leak Prevention*
-* [LocateJS](https://z0ccc.github.io/LocateJS/) - *Check if a Site can Detect Your Actual Location*
+* [Creepjs](https://abrahamjuliot.github.io/creepjs) or [LocateJS](https://z0ccc.github.io/LocateJS/) - *Check for Browser / Extension Leaks*
 * [RS Lookup](http://rslookup.com/) - *Check if your RuneScape data has been breached* 
 * [Canarytokens](https://canarytokens.org/generate) - *Network Breach Check* 
 * [JustGetMyData](https://justgetmydata.com/) - *Links to Obtain Your Data from Websites* 
