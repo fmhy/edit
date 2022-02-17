@@ -709,6 +709,7 @@
 RSS Player*
 * [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [YetAnotherVideoPlayer](https://github.com/shadow578/YetAnotherVideoPlayer) or [MX Player](https://forum.mobilism.org/search.php?keywords=Mx+player&amp;terms=all&amp;author=Balatan&amp;sc=1&amp;sf=titleonly&amp;sr=topics&amp;sk=t&amp;sd=d&amp;st=0&amp;ch=300&amp;t=0&amp;submit=Search) / [Codec](https://github.com/USBhost/MX_FFmpeg) - *Video Player*
 * [SyncPlayer](https://f-droid.org/en/packages/io.github.powerinside.syncplay/) - *Video Sync App*
+* [LibreTube](https://github.com/libre-tube/libretube) - *Youtube Frontend*
 * [Android TV Mod](https://t.me/androidtvmod) - *Android TV / Fire TV / Fire Stick / Mods / Telegram*
 * [SmartTubeNext](https://smartyoutubetv.github.io/) - *Ad Free Android TV Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)*
 * [Android TV IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) - *IPTV Players for Android TV's*
