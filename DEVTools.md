@@ -263,7 +263,7 @@
 * [Contraste](https://contrasteapp.com/) - *Test Text for Accessibility*
 * [Accessibility Insights](https://accessibilityinsights.io/) - *Fix Accessibility Issues*
 * [Hex Naw](https://hexnaw.com/) or [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable) - *Test Color Contrast for Accessibility*
-* [Color Oracle](https://colororacle.org/) - *Color Blindness Simulator*
+* [Color Oracle](https://colororacle.org/) or [Toptal](https://www.toptal.com/designers/colorfilter) - *Color Blindness Simulator / Test*
 * [Am I Responsive](http://ami.responsivedesign.is/) - *Responsive Design Checker*
 * [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) - *Compare Website Performance*
 * [Visual Mind AI](https://myraah.io/index.php/visualmind) - *Site Visual Score*
