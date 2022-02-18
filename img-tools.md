@@ -306,6 +306,7 @@
 * [3D Modeling Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps) - *Free 3D Modeling Apps* 
 * [Armorpaint](https://armorpaint.org/) - *3D Painting*
 * [ZBrush](https://zbrushcore.com/mini/) - *3D Sculpting*
+* [Assemblr](https://www.assemblrworld.com/) - *Augmented Reality Image Creator*
 * [MeshLab](https://www.meshlab.net/) - *3D Mesh Processing / [GitHub](https://github.com/cnr-isti-vclab/meshlab)*
 * [CadHub](https://cadhub.xyz/) - *Community Hub for CAD Projects*
 * [MakeHuman](http://www.makehumancommunity.org/) - *3D Humanoid Modeler*
