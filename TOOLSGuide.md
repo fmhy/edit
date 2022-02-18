@@ -21,6 +21,7 @@
 * **[BeMyEyes](https://www.bemyeyes.com/)** - *Assist the Visually Impaired* 
 * **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/) or [UN Data](https://data.un.org/) - *World Data & Statistics*
 * **[Our World in Data](http://ourworldindata.org/)** - *World Problem Database*
+* [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) - *Public Datasets*
 * [Global Consciousness Project](https://gcpdot.com/) - *Real-Time Global Consciousness Data*
 * [Internet Live Stats](https://www.internetlivestats.com/) - *Live Internet Statistics*
 * [Statista](https://www.statista.com/) - *Market Statistics*
@@ -429,8 +430,7 @@
 * [iPod.js](https://tannerv.com/ipod/) - *iPod Themed Web Music Player*
 * [Gelli](https://github.com/dkanada/gelli) - *Jellyfin Music Player* 
 * [Sonixd](https://github.com/jeffvli/sonixd) - *Subsonic/Jellyfin Compatible Desktop Music Player*
-* [Butterchurn Visualizer](https://butterchurnviz.com/) - *Audio Visualizer*
-* [MusicVid](https://musicvid.org/), [Vizzy](https://vizzy.io/) or [Specterr](https://specterr.com/) - *Create Audio Visualizers*
+* [Butterchurn Visualizer](https://butterchurnviz.com/), [Sonic Visualizer](https://www.sonicvisualiser.org/), [MusicVid](https://musicvid.org/), [Vizzy](https://vizzy.io/) or [Specterr](https://specterr.com/) - *Audio Visualizers*
 * [yt2pod](https://github.com/frou/yt2pod) - *Create Podcasts from YouTube Channels* 
 * [Deemixrr](https://github.com/TheUltimateC0der/Deemixrr) - *Automated Music Manager* 
 * [FFmpeg](https://ffmpeg.org/) - *Video / Audio Recorder, Converter & Streaming*
@@ -499,6 +499,7 @@
 * [Clash](https://clash.me/) or [FakeYou](https://fakeyou.com/) - *Media Based Text to Speech* 
 * [Audiogrep](http://antiboredom.github.io/audiogrep/) or [mp4grep](https://github.com/o-oconnell/mp4grep) - *Audio Transcribing / [GitHub](https://github.com/antiboredom/audiogrep)*
 * [FastHub](https://fasthub.net/) - *Text to Speech Translation Tool*
+* [Praat](https://www.fon.hum.uva.nl/praat/) - *Analyze, Synthesize & Manipulate Speech / [GitHub](https://github.com/praat/praat)*
 * [Splitter](https://www.splitter.ai/) or [melody ml](https://melody.ml/) - *Separate voice from instrumentals*
 * [VocalRemover](http://vocalremover.org/) / [GUI](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [AIVocalRemover](https://aivocalremover.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb) or [Remove Vocals](https://www.remove-vocals.com/) - *Remove / Isolate Vocal Tracks*
 * [Acapella-Extractor](https://www.acapella-extractor.com/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - *Remove Background Tracks from Songs*
@@ -1255,7 +1256,7 @@ General Reading Sites*
 * [SpeechChat](https://speechchat.com/) - *Twitch Text to Speech Client*
 * [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - *YouTube to GIF* 
 * [VideoGlancer](https://videoglancer.com/) - *YouTube to PDF*
-* [ytcropper](https://ytcropper.com/) or [YTCutter](https://ytcutter.com/) - *YouTube Video Cropper*
+* [ytcropper](https://ytcropper.com/), [YTCutter.net](https://ytcutter.net/) or [YTCutter.com](https://ytcutter.com/) - *YouTube Video Cropper*
 * [Vid Repeat](https://vidrepeat.com/) - *Loop Youtube Videos*
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - *YouTube Note Taking Tool*
 * [yt2pod](https://github.com/frou/yt2pod) - *Create Podcasts from YouTube Channels* 
