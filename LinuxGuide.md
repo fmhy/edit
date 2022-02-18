@@ -401,6 +401,7 @@
 * [LuLu](https://objective-see.com/products/lulu.html) - *Mac Firewall* 
 * [Tracker Zapper](https://rknight.me/apps/tracker-zapper/) - *Remove URL Tracking Elements*
 * [FileVault](https://support.apple.com/en-us/HT204837) - *Mac Disk Encryption* 
+* [Code Signing](https://www.code-signing.app/) - *Validate Code Signature*
 * [OpenVPN](https://tunnelblick.net/) - *VPN Tunnel*
 * [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) - *Privacy-Based Email Client*
 * [spotify-adblock-macos](https://github.com/r1olo/spotify-adblock-macos) - *Mac Spotify Adblocker*
