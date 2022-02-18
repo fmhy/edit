@@ -107,7 +107,7 @@
 * [Recordbate](https://recordbate.com/) - *Chaturbate Recordings*
 * [BeNudes](https://benudes.com/) - *Erotic Stories*
 * [Pinkfire Store](https://store.pinkfire.pw/) - *NSFW Mobile Apps*
-* [FYPTT](https://fyptt.to/), [FikFap](https://fikfap.com/), [xxxtik](https://xxxtik.com/), [Leaque](https://leaque.net/), [TTHOTS](https://ttthots.com/) - *TikTok*
+* [FYPTT](https://fyptt.to/), [FikFap](https://fikfap.com/), [xxxtik](https://xxxtik.com/), [Leaque](https://leaque.net/) or [TTHOTS](https://ttthots.com/) - *TikTok*
 * [Booba.tv](https://booba.tv/) - *Twitch Streamers*
 * [TwerkHeaven](http://www.twerkheaven.com/) - *Twerking*
 * [xHubApp](http://xhubapp.com/) - *AIO Premium Porn Services App*
