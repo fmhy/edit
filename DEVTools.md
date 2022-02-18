@@ -158,6 +158,8 @@
 * [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - *Brand Design Tools*
 * [ReverseEagle](https://forge.tedomum.net/groups/ReverseEagle/-/archived), [2](https://web.archive.org/web/20210116205638/https://developers.reverseeagle.org/) - *Privacy Focused Developer Software*
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - *Open Source Development Software*
+* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) - *Systadmin Resources*
+* [Awesome DataScience](https://github.com/academic/awesome-datascience) - *Data Science Resources*
 * [SuperNova](https://www.supernova.io/) - *Design System Manager*
 * [Awesome Bots](https://github.com/DopplerHQ/awesome-bots) - *Developer Bot Index*
 * [Student Developer Pack](https://education.github.com/pack) - *Free Developer Tools for Students* 
@@ -228,7 +230,7 @@
 * [OpenCV](https://opencv.org/) - *A.I. Vision Library*
 * [AForge.NET](https://github.com/andrewkirillov/AForge.NET) - *A.I. Vision Framework*
 * [OpenCog](https://opencog.org/) - *Artificial Intelligence Framework / [GitHub](https://github.com/opencog)*
-* [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - *Machine Learning Framework*
+* [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - *Machine Learning Framework*
 * [OpenML](https://www.openml.org/) - *Machine Learning Data*
 * [Kobra](https://kobra.dev/) - *Visual Programming Language for Machine Learning*
 * [Cyberbotics](https://cyberbotics.com/) - *Robot Simulator*
@@ -798,6 +800,7 @@
 * [OhMyZSH](https://ohmyz.sh/) - *ZSH Customization*
 * [PowerLevel10k](https://github.com/romkatv/powerlevel10k) - *ZSH Theme*
 * [GNU Octave](https://www.gnu.org/software/octave/) - *Scientific Programming Language*
+* [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - *Javascript Resources*
 * [RunKit](https://runkit.com/) - *Browser Javascript Sandbox* 
 * [JS.ORG](https://js.org/) - *Free subdomain for Javascript Developers* 
 * [1loc](https://1loc.dev/) - *217 Single Line JavaScript Codes* 
@@ -826,6 +829,7 @@
 * [icr](https://github.com/crystal-community/icr) - *REPL for Crystal*
 * [QBasic](https://www.qbasic.net/) - *QBasic / QuickBASIC Programming Language Resources*
 * [CP Editor](https://cpeditor.org/) - *Competitive Programming Code Editor*
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) - *PHP Resources*
 * [PHP Decoder](http://ddecode.com/phpdecoder/) or [UnPHP](https://www.unphp.net/) - *PHP Decoder*
 * [PHP Beautifier](http://phpbeautifier.com/) - *PHP Formatter*
 * [Winddown](https://github.com/schneefux/vscode-winddown) or [Sandman](https://alexanderepstein.github.io/Sandman/) - *Coding Break Reminders*
