@@ -453,7 +453,7 @@
 * [The French Tutorial](http://www.frenchtutorial.com/) - *French Learning Tutorials*
 * [AnimeLon](https://animelon.com/) - *Streaming / Anime / Learn Japanese*
 * [Nihongo](https://nihongo-e-na.com/eng/), [Itzazureneko](https://itazuraneko.neocities.org/learn/guide.html) - *Japanese Learning Resources*
-* [Marshall's Site](https://marshallyin.com/) or [Tofugu](https://www.tofugu.com/) - *Learn Japanese* 
+* [Marshall's Site](https://marshallyin.com/), [jpdb](https://jpdb.io/) or [Tofugu](https://www.tofugu.com/) - *Learn Japanese* 
 * [Minato](https://minato-jf.jp/) - *Japanese Courses*
 * [Memento](https://github.com/ripose-jp/Memento) - *Japanese Learning Video Player*
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - *Japanese Practice Material*
@@ -540,6 +540,7 @@
 * [A-Complete-UTAU-Tutorial-For-Beginners](https://www.quotev.com/story/9299060/A-Complete-UTAU-Tutorial-For-Beginners) - *UTAU Tutorial*
 * [MusicStaff](https://musicstaff.com/) - *Music Teacher Search*
 * [NoteFlight](https://noteflight.com/) or [Trinket](https://trinket.io/) - *Create & Share Music Scores*
+* [Audiveris](https://audiveris.github.io/audiveris/) - *Transcribe Music Scores / [GitHub](https://github.com/Audiveris/audiveris)*
 
 ***
 
