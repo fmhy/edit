@@ -2045,16 +2045,10 @@ Add the following commands to a search to manually scrape each site.
 #### TeamDrive Generators
 
 * Note that these can and do get deleted
-* https://gd.404edu.workers.dev/
 * https://td.crackhub.site/
-* https://white-limit-b897.kfuentes.workers.dev/
-* https://drive.hackgence-com.workers.dev/
-* https://team.hackgence.com/
 * https://td.hackgence.com/
-* https://teamdrive.mfoxx.workers.dev/
 * https://team.gdrive.vip/
 * https://gd.zxd.workers.dev/
-* https://driveflask.herokuapp.com/
 * https://www.apioffice.workers.dev/#form
 * https://ms.jim9527.workers.dev/#form
 * https://free-a1.a1od.workers.dev/
