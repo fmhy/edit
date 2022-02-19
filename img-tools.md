@@ -415,7 +415,7 @@
 * [Instagram-Explorer](https://www.osintcombine.com/instagram-explorer) - *Explore Pictures by Location* 
 * [Save Instagram](https://gist.github.com/g-rohit/f47170c8b3b302bcbe214ba624d636bc) - *Enable right click / save on Instagram* 
 * [InstaJust](https://www.instajust.com/) - *Instagram Photo Editor & Viewer*
-* [StoriesDown](https://storiesdown.com/) or [StoriesIG](https://storiesig.net/) - *Story Downloader*
+* [StoriesDown](https://storiesdown.com/), [anon-instastories](https://anon-instastories.online/), [instasaved](https://instasaved.net/en), [insta-stories-viewer](https://insta-stories-viewer.com/) or [StoriesIG](https://storiesig.net/) - *Story Downloader*
 * [InstaDP](https://www.instadp.com/) or [Instagram-crawler](https://github.com/hehpollon/Instagram-crawler) - *Picture / Story Downloader* 
 * [PixWox](https://www.pixwox.com/) - *Story / Picture / Story Downloader*
 * [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [SocialUnblock](https://socialunblock.com/), [Instagram-Scraper](https://github.com/arc298/instagram-scraper), [DownloadGram](https://downloadgram.com/), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [igram](https://igram.io/), [InstaLooter](https://github.com/althonos/InstaLooter), [instadownloader](https://www.instadownloader.org/), [Instaloader](https://github.com/instaloader/instaloader), [instapick](https://www.instapick.net/), [InstaSave](https://github.com/sameera-madushan/InstaSave) - *Picture / Video Downloader*
