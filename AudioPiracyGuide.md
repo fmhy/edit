@@ -450,6 +450,7 @@
 * [Every Noise at Once](http://everynoise.com/) - *Music Genre Samples*
 * [Listening Together](https://listeningtogether.atspotify.com/) - *Tracks Each Time Two People Play the Same Song*
 * [rate.house](https://rate.house/) - *Media Tracker*
+* [MediaTracker](https://github.com/bonukai/MediaTracker) - *Self Hosted Media Tracker*
 * [libib](https://www.libib.com/) - *Desktop Media Catalog*
 * [Podcatalysts](https://podcatalysts.substack.com/) - *Podcast Recommendation Newsletter*
 
