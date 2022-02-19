@@ -1441,7 +1441,6 @@ Portuguese
 ## ▷ Streaming 
 
 * [HDFull](https://hdfull.lv/) - *Movies / TV / Anime*  
-* [Cuevana3](https://cuevana3.io/) - *Movies / TV* 
 * [Pelisplus](https://pelisplus.me/) - *Movies / TV*
 * [PelisPlus.so](https://pelisplus.so/) - *Movies / TV*
 * [Pelispedia](https://www.pelispedia.de/) - *Movies / TV* 
@@ -1458,7 +1457,7 @@ Portuguese
 * [Descarga Cine Clasico](https://descargacineclasico.net/) - *Classical Movies*
 * [Cinemargentino](https://cinemargentino.com/) - *Movies / Documentaries*
 * [Pelis28](https://pelis28.site/) - *Movies*
-* [Cuevana](https://cuevana.nz/) - *Movies / TV*
+* [Cuevana](https://cuevana.nz/) or [Cuevana3](https://cuevana3.io/) - *Movies / TV*
 * [novelas360](https://novelas360.com/) - *TV*
 * [HindiLover](https://hindilover.biz/) - *TV*
 * [Vix](https://www.vix.com/tv/) - *TV*
