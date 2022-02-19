@@ -131,6 +131,7 @@
 * [AV Linux](http://www.bandshed.net/avlinux/) - *Video / Audio Editor*
 * [Flowblade](https://github.com/jliljebl/flowblade) - *Video Editor*
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Image Editor* 
+* [TextSnatcher](https://github.com/RajSolai/TextSnatcher) - *Image to Text*
 * [Rapid](https://damonlynch.net/rapid/) - *Quick Linux Photo Importer*
 * [Drawing](https://github.com/maoschanz/drawing) - *Drawing App*
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer) - *YouTube Linux Client / [Fork](https://github.com/trizen/pipe-viewer)* 
@@ -143,7 +144,7 @@
 * [utils](https://github.com/Loupeznik/utils) - *Linux Utility Scripts*
 * [Mayfrost Guides](https://github.com/mayfrost/guides) - *Linux / Computing Guides*
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - *Easy Way to Use KVM*
-* [winapps](https://github.com/Fmstrat/winapps), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - *Run Windows Apps in Linux* 
+* [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - *Run Windows Apps in Linux* 
 * [Ulauncher](https://ulauncher.io/) - *Application Launcher*
 * [Q4Wine](https://sourceforge.net/projects/q4wine/) - *Wine GUI*
 * [WineHQ](https://appdb.winehq.org/) - *Wine Compatibility Database*
