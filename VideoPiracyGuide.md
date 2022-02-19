@@ -830,7 +830,7 @@
 * [SickChill](https://sickchill.github.io/) or [CouchPotato](https://couchpota.to/) - *Automatic torrent/nzb searching, downloading & processing / Manager*
 * [Autodownload Tools](https://redd.it/hbwnb2) - *All Autodownload Tools*
 * [NZBHydra](https://github.com/theotherp/nzbhydra) - *Meta search for NZB indexers*
-* [pirateflix](https://github.com/orinocoz/pirateflix), [wt](https://github.com/DegenCoden/wt), [PeerFlix](https://github.com/mafintosh/peerflix) / [MPV](https://github.com/noctuid/mpv-peerflix-hook) or [Clifix](https://github.com/fabiospampinato/cliflix)  - *Torrent Streaming CLI* 
+* [pirateflix](https://github.com/orinocoz/pirateflix), [wt](https://github.com/DegenCoden/wt), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) / [MPV](https://github.com/noctuid/mpv-peerflix-hook) or [Clifix](https://github.com/fabiospampinato/cliflix)  - *Torrent Streaming CLI* 
 * [TorrenTV](https://torrentv.github.io/) - *Stream Torrents to Apple TV, Chromecast & Roku*
 * [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - *Stream Torrents in VLC*
 * [Iceetime](https://github.com/diericx/iceetime) - *Self-Hosted Torrent Streaming* 
@@ -924,6 +924,7 @@
 * [Movieo](https://movieo.me/) - *Movies / TV / Anime*
 * [AllMovie](https://www.allmovie.com/) - *Movies / TV / Anime* 
 * [TVMaze,](https://www.tvmaze.com/) [TrackSeries](https://www.trackseries.tv/) or [watched](https://watched.li/)  - *TV / Anime*
+* [dunno](https://m-dunno.netlify.app/) - *Movies / TV*
 * [showRSS](https://showrss.info/)  - *RSS / TV*
 * [Anime-Planet](https://www.anime-planet.com/) - *Anime* 
 * [All Anime](https://allanime.site/) - *Anime*
@@ -965,6 +966,7 @@
 * [Based on the Book](https://www.mymcpl.org/books-movies-music/read/based-on-the-book) - *List of Movies Based on Books*
 * [What is My Movie?](https://www.whatismymovie.com/) - *Find Films Based on Descriptions*
 * [Ant Movie](https://www.antp.be/software/moviecatalog) or [libib](https://www.libib.com/) - *Desktop Video Media Catalog*
+* [MediaTracker](https://github.com/bonukai/MediaTracker) - *Self Hosted Media Tracker*
 * [AniTrakt](https://anitrakt.huere.net/) - *Trakt / MyAnimeList Sync*
 * [cringeMDb](https://cringemdb.com/) - *Find Movies Safe to Watch with Parents* 
 * [Age Rating JuJu](https://www.ageratingjuju.com/) - *Media Age Ratings*
@@ -1101,6 +1103,7 @@
 * [/r/SceneReleases](https://www.reddit.com/r/SceneReleases/) - *Untouched Scene Release Tracker*
 * [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - *Web Video Viewer / Manager*
 * [RunPee](https://runpee.com/) - *Best Movie Break Times*
+* [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - *Watch, download and Organize public video URLs*
 * [GoGetSpoiled](https://gogetspoiled.com/), [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - *Movie Spoilers* 
 * [Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Covers for Movies, TV ect.* 
 * [IsThisDubbed?](https://isthisdubbed.com/) - *Check if an Anime is Dubbed*
