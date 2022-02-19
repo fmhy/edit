@@ -758,7 +758,7 @@
 
 # ► Visual Media Sites
 
-* [Damon's Collection of Game Artbooks](https://drive.google.com/drive/folders/1ZZmpgg6A47GtlIdnRvaRBbTaf2BrXtdI?usp=sharing), [BestArtbooks](https://t.me/BESTARTBOOKS) or [Artbooks.gala](https://artbooks.gala100.net/) - *Artbooks*
+* [Damon's Collection of Game Artbooks](https://drive.google.com/drive/folders/1ZZmpgg6A47GtlIdnRvaRBbTaf2BrXtdI?usp=sharing) / [2](https://drive.google.com/drive/folders/1uj6b-Q4O67gpPj1ObBQbKfEPVSsP0jfX?usp=sharing), [BestArtbooks](https://t.me/BESTARTBOOKS) or [Artbooks.gala](https://artbooks.gala100.net/) - *Artbooks*
 
 ***
 
