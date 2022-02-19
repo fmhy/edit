@@ -338,6 +338,7 @@ French / General Torrent Tracker
 * [scantrad](https://scantrad.net/) - *Manga* 
 * [scan-fr](https://www.scan-fr.cc/) - *Manga* 
 * [mangascan](https://mangascan.cc/), [2](https://scansmangas.xyz/), [3](https://scanmanga-vf.cc/) - *Manga*
+* [mangacollec](https://www.mangacollec.com/) - *Manga Manager*
 
 ***
 
