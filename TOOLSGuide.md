@@ -286,6 +286,7 @@
 * [LiveRecord](https://github.com/lovezzzxxx/liverecord) - *Automatic Stream Recorder*
 * [LiveMonitor](https://github.com/lovezzzxxx/livemonitor) - *Live Stream Detection*
 * [real-url](https://github.com/wbt5/real-url) - *Copy Live Stream URLs*
+* [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - *Watch, download and Organize public video URLs*
 * [WDFlat](https://www.wdflat.com/) - *Stream Elements*
 * [Streamon](https://getstreamon.com/) - *Stream to Instagram from PC / [GitHub](https://github.com/haxzie/instagram-live-streamer)*
 * [VTuber References](https://docs.google.com/spreadsheets/d/15UpI8GEqv22T45AD3L1EgcPB4l2Tvr64aDgLq7xZfMA/htmlview or [Vtube Studio](https://denchisoft.com/) - *VTuber Tools*
@@ -607,7 +608,8 @@
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - *Self-Hosted Cloud Services*
 * [Nativefier](https://github.com/nativefier/nativefier) - *Turn Sites into Desktop Apps*
 * [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - *Test Internet Speed*
-* [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) or [WLan10](https://github.com/afit/wlan10) - *Network manager*
+* [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) or [WLan10](https://github.com/afit/wlan10) - *Network Manager*
+* [NetBlocks](https://api.webprobe.org/) - *Internet Performance Monitor*
 * [OONI](https://ooni.org/) - *Test Site Blocking / Network Speed*
 * [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) - *OpenSSH Client / Server*
 * [TCP Optimizer](https://www.speedguide.net/downloads.php/) - *Network Optimizer*
@@ -757,7 +759,7 @@
 * [OutWit](https://www.outwit.com/) - *Scrape / Organize Website Data* 
 * [Hosts Files ghosts](https://github.com/StevenBlack/ghosts) - *Evaluate, Compare & Format*
 * [byp4xx](https://github.com/lobuhi/byp4xx) - *Bypass "403 Forbidden" Messages* 
-* [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - *SSH & Telnet Client / [Keygen](https://www.puttygen.com/)* 
+* [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) / [Fork](https://www.9bis.net/kitty/#!index.md), [GitHub](https://github.com/cyd01/KiTTY/) - *SSH & Telnet Client / [Keygen](https://www.puttygen.com/)* 
 * [Dashy](https://dashy.to/) - *Highly Customizable Home Server Homepage / [GitHub](https://github.com/lissy93/dashy)*
 * [FairGame](https://github.com/Hari-Nagarajan/fairgame) - *Automatically Place Orders on Amazon*
 * [rickroll-blocker](https://github.com/hitthemoney/rickroll-blocker/) - *Rick Roll Blocker* 
@@ -1363,7 +1365,7 @@ General Reading Sites*
 * [BackTweets](http://backtweets.com/), [twXplorer](https://twxplorer.knightlab.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - *Search Twitter* 
 * [Twishort](https://twishort.com/) - *Make Longer Tweets*
 * [Poet.so](https://poet.so/) or [Capture My Tweet](https://capturemytweet.in/) - *Create Twitter Post Images*
-* [Tweetgen](https://www.tweetgen.com/) - *Create Fake Tweets*
+* [Tweetgen](https://www.tweetgen.com/) or [FakeTweetMaker](https://www.faketweetmaker.com/) - *Create Fake Tweets*
 * [Chirr App](https://getchirrapp.com/) - *Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chrome.google.com/webstore/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)*
 * [Thread Reader App](https://threadreaderapp.com/) - *Unroll Twitter Threads / Search* 
 * [Treeverse](https://treeverse.app/) - *Twitter Conversation Visualizer* 
@@ -1432,6 +1434,7 @@ General Reading Sites*
 * **[Optimize-Guide](https://rentry.co/mdl-optimize-guide)** - *Optimize Windows / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat)*
 * **[Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png)**, [2](https://i.imgur.com/A36Yd7F.png) / [Course](https://keycombiner.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/) or [CheatKeys](https://cheatkeys.com/CheatSheet) - *Keyboard Shortcuts*
 * [Espanso](https://espanso.org/) - *Typing Shortcuts / [GitHub](https://github.com/federico-terzi/espanso)*
+* [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - *CLI Commands Cheatsheet*
 * [Windows 10 Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)
 * [Operating System Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_os_emulators) - *Emulate Alternate OS*
 * [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) / [GitHub](https://github.com/microsoft/PowerToys), [CWCodes](http://cwcodes.net/), [Progress Tools](https://www.progress-tools.x10.mx/), [Guru3D](https://www.guru3d.com/files-categories) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
@@ -1633,7 +1636,7 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [Netmaker](https://gravitl.com/netmaker) - *Create Virtual Network*
 * [NirLauncher](https://launcher.nirsoft.net/) - *All Nirsoft Utilities in One App*
 * [TopGrade](https://github.com/r-darwish/topgrade) - *Package Manager Update Automation* 
-* [Winget](https://github.com/microsoft/winget-cli) or [bget](https://github.com/jahwi/bget) - *Windows Package Manager / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Tools](https://github.com/jdhitsolutions/WingetTools)* 
+* [Winget](https://github.com/microsoft/winget-cli), [Scoop The Installer](https://github.com/couleur-tweak-tips/the-installer) or [bget](https://github.com/jahwi/bget) - *Windows Package Manager / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Tools](https://github.com/jdhitsolutions/WingetTools)* 
 * [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI) or [Ninite](https://ninite.com/) - *Install / Update Multiple Programs at Once*
 * [Silent Install](https://www.silentinstall.org/) - *Build Multi-Program Installers*
 * [Revo Uninstaller](https://www.revouninstaller.com/), [Soft Organizer](https://www.dropbox.com/s/5k5pm5f2xwbk7gb/soft-organizer-746-setup.exe), [Geek Uninstaller](https://geekuninstaller.com/), [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) or [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - *Software Uninstallation Tool*
