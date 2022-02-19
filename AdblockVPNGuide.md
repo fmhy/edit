@@ -164,7 +164,7 @@
 * **[2FA Directory](https://2fa.directory/)** - *List of Sites with 2FA Support*
 * **[Authy](https://authy.com/)** or [WinAuth](https://winauth.github.io/winauth/) - *Two-Factor Authentication*  
 * [Obsidian](https://obsidianapp.io/) - *OS X / iOS Two-Factor Authentication*
-* [Authenticator](https://authenticator.cc/) or [2FA QR Svelte](https://2fa-qr-svelte.vercel.app/) - *Generate Two-Factor QR Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)* 
+* [Authenticator](https://authenticator.cc/) - *Generate Two-Factor QR Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)* 
 * [StrongPasswordGenerator](https://strongpasswordgenerator.com/), [PassSnip](https://passnip.com/), [ExpressVPN PW Generator](https://www.expressvpn.com/password-generator), [MOAC](https://sr.ht/~seirdy/MOAC/), [Clover](https://cloverleaf.app), [passwrd](https://passwrd.in/#/) or [Bitwarden PW Generator](https://bitwarden.com/password-generator/) - *Password Generators*
 * [PaP](https://trypap.com/) - *Passive Aggressive Password Strength Check*
 * [Privacy / Safety Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_guides) - *Internet Privacy / Safety Guides* 
@@ -192,8 +192,7 @@
 * [Plain Text Offenders](https://plaintextoffenders.com/) - *Sites That Don't Securely Store Passwords*
 * [Gauth](https://github.com/pcarrier/gauth) - *Google Authenticator for Laptops*
 * [F-Secure Identity Theft Checker](https://www.f-secure.com/en/home/free-tools/identity-theft-checker) - *Identity Theft Check*
-* [Name & Identity Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_name_.26amp.3B_identity_generators) - *Generate Fake Names / Identities* 
-* [textreverse](https://www.textreverse.com/fake-address-generator.php), [anytexteditor](https://anytexteditor.com/fake-address-generator), [utilities-online](https://www.utilities-online.info/fake-address-generator) or [thecompleteseo](https://www.thecompleteseo.com/fake-address-generator) - *Fake Address Generators*
+* [Name & Identity Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_name_.26amp.3B_identity_generators) - *Generate Fake Names, Identities & Address'* 
 * [Random User Generator](https://randomuser.me/) - *Generate Fake User Details* 
 * [FakePhoneNumber](https://fakephonenumber.net/) - *Generate Fake Phone Numbers*
 * [Tails](https://tails.boum.org/) or [Qubes](https://www.qubes-os.org/) - *Privacy-Based Operating Systems*
