@@ -52,6 +52,7 @@
 * [susOS](https://github.com/Villagerjj/sus-os) - *Among Us Themed Distro*
 * [Linux x Technology](https://linuxdiscord.com/) or [Discord-Linux](https://discord.gg/discord-linux) - *Linux Chat Communities*
 * [Discover](https://github.com/trigg/Discover) - *Discord Linux Overlay*
+* [dvm](https://github.com/diced/dvm) - *Discord Version Manager*
 * [Polybar](https://github.com/jaagr/polybar) or [lemonbar](https://github.com/LemonBoy/bar) - *Customizable Status Bar*
 * [Fix Guild Lag](https://wiki.archlinux.org/title/Discord#Lagging_when_scrolling_through_your_guilds) - *Fix Guild Scrolling Lag*
 * [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - *Hardcoded Tray Icon Fix*
@@ -364,6 +365,7 @@
 * [XLD](https://sourceforge.net/projects/xld/) - *Lossless Audio Transcoder*
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - *Image Editor* 
 * [ImageOptim](https://imageoptim.com/mac) - *Image Optimization*
+* [Perspec](https://github.com/feramhq/Perspec) - *Correct Perspective of Images*
 * [ColorSlurp](https://colorslurp.com/) or [Material-Colors-native](https://github.com/BafS/Material-Colors-native) - *Color Picker*
 * [Use Contrast](https://usecontrast.com/) - *Check Color Contrast Ratios*
 * [Sim Daltoinism](https://michelf.ca/projects/sim-daltonism/) - *Color Blindness Simulator*
