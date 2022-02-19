@@ -217,7 +217,7 @@
 * **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)*
 * **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - *Telegram audio download channels*
-* **[/r/FreeDeezerARL](https://www.reddit.com/r/freedeezerarl/)** - *Download from Deezer & Soundcloud / [Discord](https://discord.gg/EBm4vK9fdD)*
+* **[/r/FreeDeezerARL](https://www.reddit.com/r/freedeezerarl/)** - *Download from Deezer & Soundcloud*
 * [/r/xTrill](https://reddit.com/r/xTrill) - *MP3 / FLAC / [Discord Bot](https://discord.gg/xtrill) / [Backup](https://reddit.com/r/xTrillBackup)*
 * [streamrip](https://github.com/nathom/streamrip) - *Deezer, TIDAL, Qobuz, YouTube, and SoundCloud Downloader / [Colab](https://github.com/taskylizard/uwustreamrip)*
 * [DeezerToDrive](https://t.me/deezertodrivebot) - *Deezer, Qobuz, TIDAL, Napster & Spotify to GDrive Bot*
@@ -253,7 +253,7 @@
 * **[/r/RIPREQUESTS](https://www.reddit.com/r/redditdl/)** - *FLAC / [Discord](https://discord.com/invite/SH7DUfVz46)*
 * **[Mudome](https://mudome.org/)** - *MP3 / FLAC*
 * **[REKULOUS' Music Collection](https://drive.google.com/drive/folders/18uv94liWaRYSu16XY6Njx0SLykmJmczJ?usp=sharing)** - *MP3 / FLAC / AAC / DSD / SACD / Etc.*
-* **[Damon's Game Soundtracks](https://drive.google.com/drive/folders/1TJyPoYEgQjESnwwY-SjWclrPVeXLlV1x?usp=sharing)** / [2](https://www.dropbox.com/sh/eik49wcjyapm89v/AAC72Afb1PH00bzoFL1XdYXGa?dl=0), [Squid-Board](https://www.squid-board.ru/) / [2](https://www.squid-board.org/), [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://github.com/TheLastZombie/VGMLoader) / [2](https://github.com/obskyr/khinsider), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
+* **[Damon's Game Soundtracks](https://drive.google.com/drive/folders/1TJyPoYEgQjESnwwY-SjWclrPVeXLlV1x?usp=sharing)** / [2](https://drive.google.com/drive/folders/1yvN8EBN0TYj71AKu2A6qhipEo-440uss?usp=sharing), [Squid-Board](https://www.squid-board.ru/) / [2](https://www.squid-board.org/), [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://github.com/TheLastZombie/VGMLoader) / [2](https://github.com/obskyr/khinsider), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
 * [The Last Disaster](https://thelastdisaster.vip/), [2](https://thelastdisaster.org/) - *MP3 / FLAC*
 * [SongsLover](https://songslover.vip/) - *MP3*
 * [FreshRemix](http://freshremix.ru/) - *MP3*
@@ -300,6 +300,7 @@
 * [Losslessma](https://losslessma.net/) - *FLAC*
 * [SearchLossless](https://searchlossless.com/) - *FLAC*
 * [LosslessNews](https://flac1.hd24bit.com/) - *FLAC*
+* [/r/losslessrips](https://www.reddit.com/r/losslessrips/) - *FLAC*
 * [FLAC World](http://flac.world/) - *FLAC*
 * [FlacMusic](https://www.flacmusic.info/) - *FLAC*
 * [Music HiRes](https://music-hires.blogspot.com/) - *FLAC*
