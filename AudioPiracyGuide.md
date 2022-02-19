@@ -304,6 +304,7 @@
 * [FLAC World](http://flac.world/) - *FLAC*
 * [FlacMusic](https://www.flacmusic.info/) - *FLAC*
 * [Music HiRes](https://music-hires.blogspot.com/) - *FLAC*
+* [qobuzrips](https://link.qobuzrips.workers.dev/0:/) - *FLAC*
 * [FLAC.xyz](http://flac.xyz/) - *FLAC*
 * [Sacd](https://sacd.xyz/) - *FLAC*
 * [Lossless-FLAC](https://lossless-flac.com/) - *FLAC*
