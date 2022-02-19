@@ -97,7 +97,7 @@
 * [Before I Play](http://www.beforeiplay.com/) - *Tips for any Game* 
 * [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - *System Gaming Tweak Guide*
 * [ProSettings](https://prosettings.net/) - *In-Game Settings Optimization Guides*
-* [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - *Gaming Optimization Guides*
+* [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/), [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - *Gaming Optimization Guides*
 * [Low Specs Experience](https://ragnotechpowered.com/) - *Game Optimization Program* 
 * [Magpie](https://github.com/Blinue/Magpie) - *Enable AMD FSR on Any Game / [Tutorial](https://youtu.be/gac7llDa18k)*
 * [Moonlight Stream](https://moonlight-stream.org/) or [Rainway](https://rainway.com/gaming) - *PC Remote Play Client / [GitHub](https://github.com/moonlight-stream)*
