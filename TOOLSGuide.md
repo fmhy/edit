@@ -153,6 +153,7 @@
 * [Office Search](http://www.enselsoftware.com/product/OfficeSearch.html) - *Multi-File Text Search*
 * [ConvertText](https://converttext.io/) - *Text Converter*
 * [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - *Rephrase / Paraphrase Text* 
+* [Linguix](https://linguix.com/) - *Writing Assistent*
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - *Detect Plagiarized Content*
 * [Cliche Finder](http://cliche.theinfo.org/) - *Detect Cliches*
 * [phraseup](http://www.phraseup.com/) - *Autocomplete Common Phrases* 
@@ -365,6 +366,7 @@
 * [NVIDIA BROADCAST](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) or [Webcamoid](https://webcamoid.github.io/) - *Webcam Manager*
 * [SimSwap](https://github.com/neuralchen/SimSwap) - *Video Face Swap Tool*
 * [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - *Deepfake Video Creator*
+* [deepware](https://scanner.deepware.ai/) - *Detect Deepfake Videos*
 * [Air Pi Play](https://github.com/rahul-thakoor/air-pi-play) - *Rasberry Pi Screen Sharing*
 * [4K Media](https://4kmedia.org/) - *Free 4K Video Demos*
 * [L3-WEB-DL-Script](https://github.com/parnexcodes/widevine-L3-WEB-DL-Script) or [uwuwvdl](https://github.com/Ori5000/uwuwvdl) - *Widevine L3 DL Script*
@@ -869,6 +871,7 @@ General Reading Sites*
 * [UserSearch](https://usersearch.org/) or [WhatsMyName](https://whatsmyname.app/) - *Username Search*
 * [Graph.tips](https://graph.tips/beta/) - *Advanced Facebook Search Tool* 
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - *Telegram CSE*
+* [ISearchFrom](http://isearchfrom.com/) - *Change Location / Device for Google Search*
 * [Google Search Operator Cheat Sheets](https://moz.com/learn/seo/search-operators), [2](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [3](https://ahrefs.com/blog/google-advanced-search-operators/), [4](https://l-lists.com/en/lists/m1mdwx.html), [5](https://github.com/BushidoUK/OSINT-SearchOperators)
 * [Google Search Guide](https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters) + [Advanced](https://coursebuilder.withgoogle.com/)
 * [Yandex Search Operator Cheat Sheets](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/), [3](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
@@ -921,6 +924,7 @@ General Reading Sites*
 * [3c5](https://3c5.com/) - `3c5.com/jWscV`
 * [Tiny.cc](https://tiny.cc/) - `tiny.cc/akl1mz`
 * [IPKill](https://ipkill.org/) - `ipkill.org/3yw`
+* [Paup](http://paup.ml/) - `paup.ml/H9-R2`
 * [Shrunken](https://www.shrunken.com/) - `shrunken.com/a72de`
 * [Scur](https://scur.link/) - `scur.link/pLyF`
 * [shrtcode](https://app.shrtco.de/) - `shrtco.de/lsoWP`
