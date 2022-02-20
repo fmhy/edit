@@ -170,6 +170,8 @@
 * [WinningPC](https://winningpc.com/) - *Software*
 * [Malwaretips Giveaways](https://malwaretips.com/forums/giveaways-promotions-and-contests.75/) - *Software*
 * [Net-Load](https://net-load.com/) - *Software*
+* [MostIWant](https://www.mostiwant.com/) - *Software*
+* [ShareWareOnSale](https://sharewareonsale.com/) - *Software*
 * [sos-windows2 ](https://groups.google.com/g/sos-windows2) - *Software*
 * [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - *Steam Games* 
 * [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - *Steam Mods*
