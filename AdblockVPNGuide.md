@@ -440,6 +440,7 @@
 * [Email Forwarding Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_forwarding) - *Hide Real Email Address'*
 * [Check-Mail](https://check-mail.org/free-email-validation-api/) or [Validator](https://www.validator.pizza/) - *Check Email Validity* 
 * [OpenPGP](https://www.openpgp.org/) - *Email Encryption* 
+* [MetaClean for Gmail](https://www.adarsus.com/en/remove-metadata-from-gmail-attachments/) - *Remove Metadata from Emails*
 * [Anon Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_send_anonymous_emails) - *Send Anonymous Emails*
 * [Scaremail](https://github.com/bengrosser/scaremail) - *Disrupt NSA Email Surveillance / [Account Gen](https://bengrosser.com/projects/scaremail/scaremail-generator/)*
 * [/r/emailprivacy](https://reddit.com/r/emailprivacy)  - *Discussion of Email Privacy / Security / Anonymity* 
