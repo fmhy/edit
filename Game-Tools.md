@@ -40,7 +40,7 @@
 * [CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - *Cyberpunk 2077 Save Editor*
 * [Koalageddon](https://github.com/acidicoala/Koalageddon/) - *DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)*
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - *Controller Connectivity Testers*
-* [Aim Lab](https://aimlab.gg/), [AimBooster](http://www.aimbooster.com/), [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://store.steampowered.com/app/1600530/3D_Aim_Trainer/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - *Aim Training Tools & Games*
+* [Aim Lab](https://aimlab.gg/), [AimBooster](http://www.aimbooster.com/), [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - *Aim Training Tools & Games*
 * [CrossOver](https://github.com/lacymorrow/crossover) or [HudSight](https://hudsight.com/) - *Crosshair Overlay*
 * [ClickSpeeder](https://clickspeeder.com/) or [CPSCounter](https://cpscounter.org/) - *Click Speed Test / Trainers*
 * [TASVideos](https://tasvideos.org/) - *Watch and Publish Tool Assisted Speedruns*
@@ -151,6 +151,7 @@
 * [Sym.gg](https://sym.gg/) - *Battlefield Info & Weapon Stats*
 * [Tracker.gg](https://tracker.gg/) - *Game Leaderboards & Stats*
 * [TrueGameData](https://truegamedata.com/) - *COD Leaderboards*
+* [Warzone Loadout](https://warzoneloadout.games/) - *Warzone Loadouts and Builds*
 * [u.gg](https://u.gg/), [MobaFire](https://www.mobafire.com/), [ProBuilds](https://www.probuilds.net/) or [LoLalytics](https://lolalytics.com/) - *League of Legends Build Guides & Tiers*
 * [LoL Math](https://lolmath.net/) - *League of Legends Build Calculator*
 * [League of Graphs](https://www.leagueofgraphs.com/) - *Champion Rankings*
