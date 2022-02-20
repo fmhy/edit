@@ -541,7 +541,7 @@
 * [A-Complete-UTAU-Tutorial-For-Beginners](https://www.quotev.com/story/9299060/A-Complete-UTAU-Tutorial-For-Beginners) - *UTAU Tutorial*
 * [MusicStaff](https://musicstaff.com/) - *Music Teacher Search*
 * [NoteFlight](https://noteflight.com/) or [Trinket](https://trinket.io/) - *Create & Share Music Scores*
-* [Audiveris](https://audiveris.github.io/audiveris/) - *Transcribe Music Scores / [GitHub](https://github.com/Audiveris/audiveris)*
+* [Audiveris](https://audiveris.github.io/audiveris/) or [Soundslice](https://www.soundslice.com/transcribe/) - *Transcribe Music Scores / [GitHub](https://github.com/Audiveris/audiveris)*
 
 ***
 
