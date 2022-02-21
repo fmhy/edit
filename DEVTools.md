@@ -246,7 +246,7 @@
 * [ZeroNet](https://zeronet.io/) or [Federalist](https://github.com/publiusfederalist/federalist) - *Uncensorable Sites / [/r/Zeronet](https://www.reddit.com/r/zeronet/)*
 * [Freenet Project](https://freenetproject.org/) - *Browse / Publish Freenet Sites* 
 * [GoodBadISPs ](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - *Best ISPs for Tor Hosting*
-* [Uncensorable Publishing](https://uncensorablepublishing.com/) or [How-to Host Questionable Websites](https://weboas.is/media/host.png) / [PDF](https://weboas.is/media/host.pdf) - *How-to Create Uncensorable Sites*
+* [Uncensorable Publishing](https://uncensorablepublishing.com/) - *How-to Create Uncensorable Sites*
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/) or [CSSAuthor](https://cssauthor.com/) - *Site Development Tools*
 * [Sympli](https://sympli.io/), [AnimaApp](https://www.animaapp.com/) or [ZeroHeight](https://www.zeroheight.com/) - *Developement Collaboration Tool*
