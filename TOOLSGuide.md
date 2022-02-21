@@ -632,7 +632,7 @@
 * [RSS Box](https://rssbox.herokuapp.com/) or [FiveFilters](https://createfeed.fivefilters.org/) - *RSS Feed Creator* 
 * [RSSMail](https://git.panda-roux.dev/rssmail/about/) or [FeedButler](https://feedbutler.app/en) - *RSS to Email*
 * [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - *RSS Feed for Sites Missing It*
-* [Consuming The World](https://weboas.is/forum/index.php?topic=656.0), [All about RSS](https://github.com/AboutRSS/ALL-about-RSS) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - *RSS Feeds & Tools*
+* [All about RSS](https://github.com/AboutRSS/ALL-about-RSS) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - *RSS Feeds & Tools*
 * [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - *GitHub, Reddit, Hacker News & other Feeds*
 * [sheet-posting](https://www.sheet-posting.me/) - *Convert Google Spreadsheets into Blogs & RSS Feeds*
 * [Clovery](https://webcatalog.io/clovery/) - *Multi-Google App Program*
