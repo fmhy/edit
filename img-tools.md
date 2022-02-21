@@ -322,7 +322,7 @@
 
 # ► Image Tools
 
-* [WebOasis Editors](https://weboas.is/editors/), [Hotot](https://hotpot.ai/), [RedKetchup](https://redketchup.io/), [VertexShare](https://vertexshare.com/), [ImageConvert](https://imageconvert.org/), [MyPhotoFilter](https://www.myphotofilter.com/), [Img2Go](https://www.img2go.com/), [BrandFolder](https://brandfolder.com/workbench-suite), [fffuel](https://fffuel.co/), [ImgLarger](https://imglarger.com/), [Convertmyimage](https://convert-my-image.com/), [SocialBook](https://socialbook.io/), [Mara](https://mara.photos/), [BatchWatermark](https://batchwatermark.com/) or [FastStone](https://www.faststone.org/index.htm) - *Multiple Image Tools*
+* [WebOasis Editors](https://weboasis.app/editors/), [Hotot](https://hotpot.ai/), [RedKetchup](https://redketchup.io/), [VertexShare](https://vertexshare.com/), [ImageConvert](https://imageconvert.org/), [MyPhotoFilter](https://www.myphotofilter.com/), [Img2Go](https://www.img2go.com/), [BrandFolder](https://brandfolder.com/workbench-suite), [fffuel](https://fffuel.co/), [ImgLarger](https://imglarger.com/), [Convertmyimage](https://convert-my-image.com/), [SocialBook](https://socialbook.io/), [Mara](https://mara.photos/), [BatchWatermark](https://batchwatermark.com/) or [FastStone](https://www.faststone.org/index.htm) - *Multiple Image Tools*
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - *Art & Animation Resource Index*
 * [Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes) - *Color Scheme / Palette Tools*
 * [Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers) - *Extract Color from Pictures / Webpages*
