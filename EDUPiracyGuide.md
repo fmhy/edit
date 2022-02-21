@@ -327,7 +327,7 @@
 * [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - *Matrix Calculator*
 * [Mathcha](https://www.mathcha.io/) - *Online Math Editor*
 * [EquatIO](https://chrome.google.com/webstore/detail/equatio-math-made-digital/hjngolefdpdnooamgdldlkjgmdcmcjnc) - *Math Equation Creator*
-* [Weboasis Convert](https://weboas.is/convert/) - *Conversion Calculators*
+* [Weboasis Convert](https://weboasis.app/convert/) - *Conversion Calculators*
 * [PecentageTools](https://percentagetools.com/) or [CalcPercentage](https://calcpercentage.com/) - *Percentage Calculators*
 * [FractionCalc](https://fractionscalc.com/) - *Fraction Calculator*
 * [Unit Conversion](https://conversao.net/eng/), [Quick Convert](https://www.microsoft.com/p/app/9wzdncrdm7gt), [UnitConverters](https://www.unitconverters.net/) or [ConvertAll](https://convertall.bellz.org/) - *Unit Converter* 
