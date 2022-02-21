@@ -54,7 +54,6 @@
 
 * **[Seedr](https://www.seedr.cc/)** - *[Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI)*
 * **[webtor](https://webtor.io/)**
-* [WebOasis Client](https://weboas.is/torrent/) 
 * [Instant.io](https://instant.io/)
 * [BTorrent](https://btorrent.xyz/)
 * [Bitport](https://bitport.io/welcome) 
