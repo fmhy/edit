@@ -428,11 +428,13 @@
 * [WatchWrestling24](http://watchwrestling24.net/) - *MMA / Wrestling*
 * [WatchWrestling.in](https://watchwrestling.in/) - *MMA / Wrestling*
 * [WatchWrestling.la](https://watchwrestling.la/) - *MMA / Wrestling* 
+* [MMA High Kick](https://www.mmahighkick.com/) - *MMA / Boxing*
 * [SportsReplay](https://discord.com/invite/2r4pj67gCv) - *[F1](https://f1full.com/) / [MMA](https://mmafull.com/) / [NFL](https://nflfull.com/)*
-* [Bellator](https://www.bellator.com/video) - *Replays / MMA*
-* [/r/MMAFights](https://www.reddit.com/r/mmafights/) - *Videos / MMA*
-* [MMACore](https://www.mma-core.com/videos/home) - *Videos / MMA*
-* [AllTheBestFights](https://www.allthebestfights.com/) - *Videos / MMA / Boxing / K1*
+* [Bellator](https://www.bellator.com/video) - *MMA*
+* [/r/MMAFights](https://www.reddit.com/r/mmafights/) - *MMA*
+* [MMACore](https://www.mma-core.com/videos/home) - *MMA*
+* [BoxingBoxingvideoideo](https://boxingvideo.org/) - *Boxing*
+* [AllTheBestFights](https://www.allthebestfights.com/) - *MMA / Boxing / K1*
 * [HD Matches](https://hdmatches.net/) - *Soccer Replays*
 * [Racing HD](http://www.racinghd.net/) or [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - *Racing Replays* 
 
