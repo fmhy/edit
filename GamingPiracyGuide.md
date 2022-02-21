@@ -376,7 +376,7 @@
 * [Newgrounds](https://www.newgrounds.com/games)
 * [Armor Games](https://armorgames.com/)
 * [Kongregate](https://www.kongregate.com/)
-* [Weboasis Arcade](https://weboas.is/arcade/)
+* [Weboasis Arcade](https://weboasis.app/arcade/)
 * [Addicting Games](https://www.addictinggames.com/)
 * [OneMoreLevel](http://www.onemorelevel.com/)
 * [Miniclip](https://miniclip.com/)
