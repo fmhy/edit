@@ -106,7 +106,6 @@
 * [player.fm](https://player.fm/) - *Podcasts*
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - *Podcasts for Software Engineers*
 * [CPod](https://github.com/z-------------/CPod) - *Podcast App*
-* [WebOasis Radio](http://streamwat.ch/radio/) - *Genre-Based Radio*
 * [Chiru.no](https://chiru.no/) - *Multiple Online Radio Sites* 
 * [Drive & Listen](https://driveandlisten.herokuapp.com/) or [DrivenListen](https://drivenlisten.com/) - *Radio Driving Simulator* 
 * [Archive.org](https://archive.org/details/audio?&sort=-downloads&page=1) - *News / Classic Radio / Podcasts*
