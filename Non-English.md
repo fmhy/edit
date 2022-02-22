@@ -196,6 +196,7 @@
 * [shuge](https://new.shuge.org/) - *Books / Audiobooks / Legal*
 * [pdfzj](http://pdfzj.cn/) - *Books* 
 * [haodoo](http://haodoo.net/) - *Books*  
+* [zhongwen](http://zhongwen.com/gudian.htm) - *Classic Literature*
 * [AC.QQ](https://ac.qq.com/) - *Manga*
 * [BiliBili](https://manga.bilibili.com/) - *Manga*
 * [rzlib](https://www.rzlib.net/) - *Light-Novels* 
@@ -693,8 +694,9 @@ French / General Torrent Tracker
 * [dl-zip](http://dl-zip.com/) - *Manga / NSFW*
 * [CMOA](https://www.cmoa.jp/) - *Manga*  
 * [shobonnexus](https://shobonnexus.com/) - *Novels / Magazines*  
-* [itazuraneko](https://itazuraneko.neocities.org/ ) - *Manga / Anime / Learning*
+* [itazuraneko](https://itazuraneko.neocities.org/) - *Manga / Anime / Learning*
 * [watanoc](http://watanoc.com/) - *Articles / Learn Japanese* 
+* [Nihongo Monash](http://nihongo.monash.edu/onlinejdic.html) - *Dictionaries*
 
 ***
 
@@ -901,6 +903,7 @@ French / General Torrent Tracker
 * [K1n013f0ur's Pastebin](https://pastebin.com/u/k1n013f0ur) - *Audiobooks*
 * [doci.pl](https://doci.pl/) - *Documents* 
 * [docer.pl](https://docer.pl/) - *Documents* 
+* [wolnelektury](https://wolnelektury.pl/) - *Educational*
 
 ***
 
