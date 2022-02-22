@@ -57,7 +57,6 @@
 * [NextDNS](https://nextdns.io) - *DNS Adblocking / [Enhancement](https://greasyfork.org/en/scripts/408934-nx-enhanced) / [Leak Warning](https://redd.it/jt28e8) / [Extension](https://chrome.google.com/webstore/detail/nx-enhanced/ljimbekophocjbnphldoaidgkkaojcfo)*
 * [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/), [FreeMyIP](https://freemyip.com/) or [Desec](https://desec.io/) - *Dynamic DNS Service*
 * [Encrypted DNS Resolvers](https://www.privacytools.io/providers/dns/)
-* [ProxyNation](https://www.proxynation.org/) - *DNS Adblocking*
 * [ControlD](https://controld.com/) or [Hetzner](https://www.hetzner.com/dns-console?country=us) - *DNS Manager*
 * [Spamhaus](https://www.spamhaus.org/) or [1Hosts](https://o0.pages.dev/) / [GitHub](https://github.com/badmojr/1Hosts) - *DNS Blocklists*
 * [Phishing Army](https://phishing.army/) - *DNS Phishing Blocklist*
@@ -370,13 +369,11 @@
 * [uBO-Scope](https://github.com/gorhill/uBO-Scope) - *Measure 3rd Party Exposure* 
 * [Invidious](https://redirect.invidious.io/) / [2](https://tube.cadence.moe/), [FreeTubeApp](https://freetubeapp.io/), [Piped](https://github.com/TeamPiped/Piped) or [Youtube-local](https://github.com/user234683/youtube-local) - *YouTube frontend / Free / No Account Required / [Instances](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)* 
 * [Wikiless](https://wikiless.org/) - *Wikipedia Frontend / [Source](https://codeberg.org/orenom/Wikiless)*
-* [Yotter](https://yotter.kavin.rocks/) - *Youtube / Twitter Frontend* 
 * [nitter](https://nitter.net/) - *Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)*
 * [xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/) / [2](https://github.com/spikecodes/libreddit), [Saturnus](https://saturnusapp.com/), [Inccogsnoo](https://incogsnoo.com/) or [teddit](https://teddit.net/) / [2](https://codeberg.org/teddit/teddit) - *Reddit Frontends*
 * [Metalune](https://translate.metalune.xyz/) / [2](https://gtranslate.metalune.xyz/) - *Google Translate Frontend* 
 * [Cusdis](https://cusdis.com/) - *Privacy-Focused Comment System / [GitHub](https://github.com/djyde/cusdis)*
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - *Reddit / Twitter Auto Post Delete*
-* [Forget](https://forget.codl.fr/) - *Twitter / Mastodon Auto Post Delete*
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - *Delete Twitter Likes / Favorites* 
 * [Unfavinator](http://unfavinator.com/) - *Delete Twitter Favorites*
 * [TweetDelete](https://tweetdelete.net/) or [TweetEraser](https://www.tweeteraser.com/) - *Delete Twitter Posts in Bulk* 
@@ -388,7 +385,7 @@
 * [Make Internet Noise](http://makeinternetnoise.com/) - *Randomize Browser History* 
 * [Vektort13](http://vektort13.space/) - *Website History Test*
 * [Freenet Project](https://freenetproject.org/) - *Browse / Publish Freenet Sites* 
-* [Gopher](https://gopher.floodgap.com/gopher/) or [Gemini ](https://gemini.circumlunar.space/) - *Alternative Internet Protocol*
+* [Gopher](https://gopher.floodgap.com/gopher/) - *Alternative Internet Protocol*
 * [Cache Monkey](https://github.com/jamiepine/cache-monkey) - *Convert, Browse & Clear Cached Images & Files* 
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - *Blur Images / Scrub Metadata*
 * [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif) or [VerExif](https://www.verexif.com/en/) - *Remove Meta / EXIF Data* 
@@ -422,7 +419,6 @@
 * [Snopyta](https://search.snopyta.org/)
 * [peekier](https://peekier.com/)
 * [neeva](https://neeva.com/)
-* [WhaleSlide](https://whaleslide.com/)
 * [Infinity](https://infinitydecentralized.com/)
 * [Kagi](https://kagi.com/) 
 * [ekoru](https://ekoru.org/)
@@ -561,14 +557,12 @@
 * [CroxyProxy](https://www.croxyproxy.com/)
 * [ProxyPx](https://www.proxypx.com/)
 * [Titanium Network](https://www.titaniumnetwork.org/)
-* [Nodecat](https://nodecat.digital/)
 * [ProxySite](https://www.proxysite.cc/) 
 * [Sudoproxy](https://www.sudoproxy.net/) 
 * [Globly.tech](https://globly.tech/) 
 * [immortalproxy](https://immortalproxy.com/) 
 * [ProxyOf2](https://proxyof2.com/)
 * [Proxy-URLs](https://www.proxy-urls.com/)
-* [TurboProxy](https://turboproxy.co/)
 * [Sitenable](http://sitenable.in/) 
 * [UnblockWeb](https://unblockweb.me/)
 * [4EverProxy](https://www.4everproxy.com/)
@@ -579,5 +573,4 @@
 * [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - *Python Library for Retrieving Free Proxies*
 * [Proxy-Checker](https://proxy-checker.net/) - *Proxy Checker*
 * [CheckSocks5](https://checksocks5.com/) - *Socks5 Proxy Checker*
-* [IX Decrypt](https://ixdecrypt.tk/) - *Proxy Decryption*
 * [Proxynova](https://www.proxynova.com/proxy-server-list/country-ir/) - *Iranian Proxies*
