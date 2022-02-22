@@ -108,6 +108,7 @@
 * [ReGeX](https://github.com/phikal/ReGeX) - *ReGeX Learning Game / Android*
 * [ReFrF](https://refrf.dev/) or [Regex.info](http://regex.info/) - *Learn Regex*
 * [FlexBoxFroggy](https://flexboxfroggy.com/) - *CSS Learning Game*
+* [CSS Diner](https://flukeout.github.io/) - *Interactive CSS Learning*
 * [Codecademy](https://www.codecademy.com/) - *Coding Lessons* 
 * [CodinGame](https://www.codingame.com/) - *Games to Practice Coding / Programming* 
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - *Programming Courses*
@@ -172,7 +173,7 @@
 * [daily.dev](https://daily.dev/) - *Replace New Tab Page with Developer Articles* 
 * [Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites) - *Download Icons for Projects*
 * [The Favicon Finder](https://besticon.herokuapp.com/) - *Find Favicons on Sites*
-* [Favicon Maker](https://formito.com/tools/favicon) - *Create Favicons*
+* [Favicon Maker](https://formito.com/tools/favicon) or [react favicon](https://react-favicon.com/) - *Create Favicons*
 * [Laws of UX](https://lawsofux.com/) - *Maxims / Principles for UI Designers* 
 * [UI Coach](https://uicoach.io/) - *UI Design Challenge Generator*
 * [HTML Dog](https://htmldog.com/) - *Front End Tutorials & Examples*
@@ -231,8 +232,9 @@
 * [OpenCV](https://opencv.org/) - *A.I. Vision Library*
 * [AForge.NET](https://github.com/andrewkirillov/AForge.NET) - *A.I. Vision Framework*
 * [OpenCog](https://opencog.org/) - *Artificial Intelligence Framework / [GitHub](https://github.com/opencog)*
+* [awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes) - *Machine Learning Index*
 * [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - *Machine Learning Framework*
-* [OpenML](https://www.openml.org/) - *Machine Learning Data*
+* [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - *Machine Learning Datasets*
 * [Kobra](https://kobra.dev/) - *Visual Programming Language for Machine Learning*
 * [Cyberbotics](https://cyberbotics.com/) - *Robot Simulator*
 * [devSwag](https://devswag.io/) - *Developer Giveaways*
@@ -639,7 +641,7 @@
 * [Git / Github Guide](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
 * [GitBook](https://www.gitbook.com/) - *Document Collaboration*
 * [Refined GitHub](https://github.com/sindresorhus/refined-github) - *Simplifies GitHub Interface & Adds Features* 
-* [Octobox](https://octobox.io/) - *GitHub Notifications Manager*
+* [Octobox](https://octobox.io/) or [Ghostly](https://ghostlyapp.net/) / [GitHub](https://github.com/patriksvensson/ghostly) - *GitHub Notifications*
 * [github1s](https://github1s.com/) - *GitHub Code Viewer / GUI: do `gitk` in repo folder* 
 * [Tara](https://tara.ai/) - *Git Project Manager*
 * [Serctl](https://d.serctl.com/) - *Backup GitHub Projects*
@@ -738,6 +740,7 @@
 * [CarlosAG](https://www.carlosag.net/) - *Coding Tools*
 * [Telosys](http://www.telosys.org/) - *Code Generator*
 * [OneLang IDE](https://ide.onelang.io/) - *Convert Code to Multiple Languages*
+* [Autosaved](https://github.com/nikochiko/autosaved) - *Autosave Code / [GitHub](https://github.com/tkellogg/dura)*
 * [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - *Source Code Converters*
 * [OctoLinker](https://octolinker.vercel.app/) - *Turn Code Statements into Links / [Github](https://github.com/OctoLinker/OctoLinker)*
 * [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - *Emacs Packages*
