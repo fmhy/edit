@@ -195,6 +195,7 @@
 * [AppSumo Freebies](https://appsumo.com/tools/freebies/) - *Apps*
 * [FreeCycle](https://www.freecycle.org/) - *People giving away free stuff*
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - *Books*
+* [Rivetedlit](https://rivetedlit.com/) - *Books*
 * [Dolly Parton’s Imagination Library](https://imaginationlibrary.com/) - *Book Gifting Program (For Children)*
 * [FreeSteamOffers_Bot](https://t.me/FreeSteamOffers_Bot/) - *Telegram*
 * [/r/eFreebies](https://reddit.com/r/eFreebies) 
@@ -207,6 +208,7 @@
 * [/r/bookdownloads](https://reddit.com/r/bookdownloads/)
 * [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
 * [/r/Freegamestuff](https://reddit.com/r/Freegamestuff)
+
 
 ***
 
@@ -738,6 +740,7 @@
 * [My Pacer](https://www.mypacer.com/) - *Fitness App / Pedometer*
 * [MyFitnessPal](https://www.myfitnesspal.com/) - *Fitness / Health App*
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack) - *Fitness Tracker*
+* [Liftosaur](https://www.liftosaur.com/) - *Weight Lifting Tracker / [GitHub](https://github.com/astashov/liftosaur)*
 * [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
 * [SPSS Tutorials ](https://www.spss-tutorials.com/) - *SPSS Practice & Examples*
 * [Fitocracy](https://www.fitocracy.com/) or [Timely-Fitness](https://github.com/Argentable/Timely-Fitness) - *Create Workout Plans*
@@ -762,7 +765,7 @@
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - *Mindfulness / Stress Reduction Tips*
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - *Mental Health Coping Skills*
 * [Zen Habits](https://zenhabits.net/) - *Develop Zen Habits*
-* [MediLog](https://gitlab.com/toz12/medilog) - *Medical Data Log*
+* [MediLog](https://gitlab.com/toz12/medilog) or [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds) - *Medical Data Log*
 * [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - *Insomnia Prevention Tips*
 * [eXHALeR](https://www.xhalr.com/) - *Yoga / Meditation Breathing Tool* 
 * [PixelThoughts](http://www.pixelthoughts.co/) - *60 Second Relaxation Tool*
@@ -986,6 +989,7 @@
 * **[Privacy Pass](https://privacypass.github.io/)** - *Skip Captchas* 
 * **[Dark Reader](https://darkreader.org/)**, [Dark Background and Light Text](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dark_background_and_light_text), [Midnight Lizard](https://midnight-lizard.org/), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) or [222](https://github.com/x08d/222) - *Dark Mode* 
 * [Into The Black Hole](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_into_the_black_hole) - *Dark Mode Browser Theme*
+* [Omni](https://github.com/alyssaxuu/omni) - *Bookmark, Tab & History Manager*
 * [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [VimC](https://github.com/1995eaton/chromium-vim), [Web Search Navigator](https://github.com/infokiller/web-search-navigator) or [Vimium C](https://github.com/gdh1995/vimium-c) - *Keyboard Shortcuts* 
 * [Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/) or [Link Clump](https://github.com/benblack86/linkclump) - *Select & Open Multiple Links at Once* 
 * [Glitter Drag](https://github.com/harytfw/glitterdrag) - *Adds Actions on Dragging* 
