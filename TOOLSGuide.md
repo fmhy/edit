@@ -106,6 +106,7 @@
 * [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Carnac](http://code52.org/carnac/), [Presen](https://presen-vid.com/ ), [mentimeter](https://www.mentimeter.com/), [beautiful.ai](https://www.beautiful.ai/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Deckdeckgo](https://deckdeckgo.com/), [Webslides](https://webslides.tv/), [Desk](https://www.animaker.com/deck) or [Slides](https://slides.com/) - *Presentation Tool*
 * [Slides](http://maaslalani.com/slides/) - *Terminal Presentation Tool / [GitHub](https://github.com/maaslalani/slides)*
 * [SlidesGo](https://slidesgo.com/), [Showeet](https://www.showeet.com/), [Slides Carnival](https://www.slidescarnival.com/), [SlideShareDownloader](https://slidesharedownloader.ngelmat.net/), [PresentationGO](https://www.presentationgo.com/), [ensa.io](https://ensa.io/) or [ThePOPP](https://thepopp.com/) - *Presentation Templates* 
+* [The Slideshow](https://theslideshow.net/) - *Generate Image Slideshow Based on Google Images*
 * [TemplateMaker](https://www.templatemaker.nl/) - *Package & Box Templates*
 * [WebQR](https://www.webqr.com/) - *QR Code Scanner*
 * [QR Tiger](https://www.qrcode-tiger.com/), [QRCodeMonkey](https://www.qrcode-monkey.com/), [Logaster](https://www.logaster.com/qr-code-generator/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - *QR Code Generator* 
@@ -128,7 +129,7 @@
 * **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_office_suites)** - *Office Suite Software*
 * [Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pastebins) - *Paste / Store Text Online*
 * [MarkdownPastebin](https://markdownpastebin.com/) - *Markdown Pastebin*
-* [PrivNote](https://privnote.com/), [Burner Note](https://burnernote.com/) or [IPNote](https://ipnote.io/) - *Self Destructing Text*
+* [PrivNote](https://privnote.com/) or [IPNote](https://ipnote.io/) - *Self Destructing Text*
 * [GhostText](https://ghosttext.fregante.com/) - *Use Text Editor in Browser*
 * [Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - *Note Taking & To-do Apps*
 * [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - *Calendar & Scheduling Tools*
@@ -146,20 +147,18 @@
 * [Nute](https://nute.app/) - *Quickly Make & Save Text Files*
 * [Lyx](https://www.lyx.org/) - *LaTeX Editor / [Guide](https://www.learnlatex.org/)*
 * [Detexify](http://detexify.kirelabs.org/classify.html) - *Handwritten LaTeX Symbol Recognition*
-* [AirPDFtoExcel](https://airpdftoexcel.com/) - *PDF to Excel Converter*
 * [How To Use Excel](https://www.how-use-excel.com/) - *Excel Tutorial*
 * [Plain Text Table](https://plaintexttools.github.io/plain-text-table/) - *Text Tables*
 * [Read File Online](http://www.readfileonline.com/) - *Online Large Text File Viewer*
 * [Office Search](http://www.enselsoftware.com/product/OfficeSearch.html) - *Multi-File Text Search*
 * [ConvertText](https://converttext.io/) - *Text Converter*
 * [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - *Rephrase / Paraphrase Text* 
-* [Linguix](https://linguix.com/) - *Writing Assistent*
+* [Linguix](https://linguix.com/) or [TextCleanr](https://www.textcleanr.com/) - *Writing Assistant*
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - *Detect Plagiarized Content*
 * [Cliche Finder](http://cliche.theinfo.org/) - *Detect Cliches*
 * [phraseup](http://www.phraseup.com/) - *Autocomplete Common Phrases* 
 * [Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en) or [Talk to Transformer](https://app.inferkit.com/demo) - *Text Autocomplete* 
 * [EleutherAI](https://6b.eleuther.ai/) - *Text / Story Autocomplete*
-* [StoryAI](https://storyai.botsociety.io/) - *Story Autocomplete*
 * [Twinery](https://twinery.org/) - *Interactive Non-Linear Story Creator*
 * [Idyll](https://idyll-lang.org/editor) - *Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)*
 * [FocusWriter](https://gottcode.org/focuswriter/) - *Distraction-Free Writing Environment*
@@ -168,7 +167,6 @@
 * [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - *Generate Fantasy Names*
 * [Lorem Ipsum Generator](https://apps.maximelafarie.com/lig/) or [Lorem Ipsum](https://www.lipsum.com/) - *Generate Placeholder Text*
 * [text-regenerator](https://github.com/jddunn/text-regenerator) - *Replace Words with Synonyms*
-* [Honk.moe](https://honk.moe/tools.html) - *Shitposting Text Generators*
 * [Typoer](https://github.com/georgetian3/typoer) - *Types Text with Typos / Corrections*
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - *Annotation Tools / Resources*
 * [Translation Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_translation_sites) - *Online Translators*
@@ -274,7 +272,7 @@
 * [How to Rip Videos from Disney+](https://redd.it/ncyxzx), [2](https://web.archive.org/web/20210516014412/https://old.reddit.com/r/Piracy/comments/ncyxzx/tutorial_how_to_rip_moviesshows_from_disney_plus/) 
 * [PlayPhrase](https://playphrase.me/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/), [2](https://getyarn.io/) - *Clip Quote Search Engine*
 * [FFmpeg](https://ffmpeg.org/) - *Video / Audio Recorder, Converter & Streaming*
-* FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730)
+* FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Builds](https://github.com/BtbN/FFmpeg-Builds) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730)
 * [VideoProc](https://www.videoproc.com/) - *Video Processing Software*
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - *SWF to Video Converter*
 * [MotionFactory](https://www.motionfactory.io/) - *Video Editing Workflow Manager*
@@ -297,6 +295,7 @@
 * [Nimbus Capture](https://nimbusweb.me/screenshot.php) - *Screenshot / Video Capture Tool*
 * [Stream Recorder](https://www.hlsloader.com/) - *Streaming Video Recorder* 
 * [GifW00t](https://github.com/yaronn/GifW00t) - *Javascript Web Recorder*
+* [Jupitrr](https://jupitrr.com/) - *Create Videos from Voice Recordings*
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - *Create TV Channels using Plex Library*
 * [Greety](https://greety.co/) - *Send Video Christmas Cards*
 * [Avidemux](http://fixounet.free.fr/avidemux/) - *Cut / Filter / Encode* 
@@ -314,7 +313,7 @@
 * [OpenToonz](https://opentoonz.github.io/e/), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - *Animation Tools*
 * [Animaker](https://www.animaker.com/) - *Animated Video Creator*
 * [AMV101](https://www.amv101.com/) - *Animated Music Video Making Guides*
-* [Unreal Engine](https://www.unrealengine.com/) - *3D Creation Tool*
+* [Unreal Engine](https://www.unrealengine.com/), [Quixel](https://quixel.com/), [SketchUp](https://www.sketchup.com/) or [Twinmotion](https://www.twinmotion.com/en-US) - *3D Creation Tools*
 * [PlanetSide](https://planetside.co.uk/) - *CG Environment Generator*
 * [AnimeEffects](http://animeeffects.org/en/), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/) or [Synfig](https://www.synfig.org/) - *2D Animation Tool* 
 * [Storyboarder](https://wonderunit.com/storyboarder/) - *Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)* 
@@ -432,7 +431,7 @@
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/) - *Soundboard Program*
 * [MyInstants](https://www.myinstants.com/index/us/), [InternetsFun](https://instantsfun.es/) or [Soundboard.com](https://www.soundboard.com/) - *Online Soundboard*
 * [Soundpad](https://www.leppsoft.com/soundpad/) - *Voicechat Soundboard*
-* [Monash IO](https://monash.io/) or [AudioRelay](https://audiorelay.net/) - *Stream PC Audio to Phone* 
+* [AudioRelay](https://audiorelay.net/) - *Stream PC Audio to Phone* 
 * [iPod.js](https://tannerv.com/ipod/) - *iPod Themed Web Music Player*
 * [Gelli](https://github.com/dkanada/gelli) - *Jellyfin Music Player* 
 * [Sonixd](https://github.com/jeffvli/sonixd) - *Subsonic/Jellyfin Compatible Desktop Music Player*
@@ -454,7 +453,7 @@
 * [Mixxx](https://mixxx.org/), [rekordbox](https://rekordbox.com/en/) or [Serato](https://serato.com/) - *DJ Software* 
 * [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/), [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil) or [Strofe](https://www.strofe.com/) - *Simple Audio Creators*
 * [Moises](https://moises.ai/) - *Live Music Mixer*
-* [WD-1](https://www.worteldrie.com/WD5/), [Citizen DJ](https://citizen-dj.labs.loc.gov/loc-variety-stage/remix/), [YOU.DJ](https://you.dj/), [Until AM](http://mix.until.am/) or [Webx0x Beats](https://webx0x.com/beats/new) - *Online DJ / Beat Creator* 
+* [WD-1](https://www.worteldrie.com/WD5/), [Citizen DJ](https://citizen-dj.labs.loc.gov/loc-variety-stage/remix/), [YOU.DJ](https://you.dj/) or [Until AM](http://mix.until.am/) - *Online DJ / Beat Creator* 
 * [RaveDJ](https://rave.dj/) - *Easily Mix Songs Together* 
 * [EZStems](https://www.ezstems.com/) - *Create Audio STEMS*
 * [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - *Create Songs with Code* 
@@ -660,7 +659,7 @@
 * [Eiverr](https://www.eiverr.com/) - *Premium Account Cookies*
 * [Voice Dictation](https://dictation.io/) - *Type with Voice* 
 * [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - *Manage / Store Bookmarks*
-* [SeeLink](https://www.seelink.app/) or [Axomark](https://www.axomark.xyz/) - *Collaborative Bookmarking*
+* [Axomark](https://www.axomark.xyz/) - *Collaborative Bookmarking*
 * [Instapaper](https://www.instapaper.com/) - *Bookmarking Tool*
 * [Pilgrim](http://pilgrim.are.na/) - *Tree Style Path Bookmarking*
 * [Floccus](https://floccus.org/) - *Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)*
@@ -737,12 +736,11 @@
 * [IP Checkers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_checkers) - *Check Your IP Address*
 * [open-ports](https://www.yougetsignal.com/tools/open-ports/) or [CanYouSeeMe](https://canyouseeme.org/) - *Port Forwarding Tester*
 * [DownloadTestr](http://txti.es/downloadtestr) - *Download Test Files to Test Download Speed* 
-* [Hotel WiFi Test](https://www.hotelwifitest.com/) - *Test Hotel WiFi Speeds* 
 * [NeverSSL](http://neverssl.com/) - *Fix Public WiFi Login Pages*
 * [WiFi-Password](https://github.com/sdushantha/wifi-password) - *Fetch WiFi Password / Generate QR Code*
 * [IP2Proxy](https://www.ip2proxy.com/) - *Proxy / VPN IP Detector*
 * [Tripgen](https://orph.link/tripgen) - *Image Board Trip Code Generator* 
-* [4Chan Captcha Solver Script](https://pastebin.com/f6xUjE5s) or [4chan Captcha Solver](https://github.com/AUTOMATIC1111/4chan-captcha-solver/) - *4chan Captcha Solver*
+* [4chan Captcha Solver](https://github.com/AUTOMATIC1111/4chan-captcha-solver/) - *4chan Captcha Solver*
 * [Slideshow-Deslidefier](http://deslide.clusterfake.net/) - *View Slideshows All At Once* 
 * [divr.it](https://dlvrit.com/) - *Social Media Automation Tool*
 * [tumblr-crawler](https://github.com/ZenulAbidin/tumblr-crawler) - *Download tumblr photos/videos* 
@@ -841,7 +839,7 @@ General Reading Sites*
 * [Search All](https://www.searchall.net/) or [AIO Search](https://www.aiosearch.com/) - *Multi Site Search*
 * [Software CSE](https://cse.google.com/cse?cx=57b3962509047447e), [2](https://cse.google.com/cse?cx=ec7d33ef358ae1b65) - *Search Software Sites*
 * [Rom CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac), [2](https://cse.google.com/cse?cx=744926a50bd7eb010) - *Search Rom Sites*
-* [SearchEnginesIndex](https://www.searchenginesindex.com/), [Fagan Finder](https://www.faganfinder.com/), [DirectSearch.Net](http://www.directsearch.net/) or [Search Engine Colossus](https://www.searchenginecolossus.com/) - *Search Engine Directory*
+* [Fagan Finder](https://www.faganfinder.com/), [DirectSearch.Net](http://www.directsearch.net/) or [Search Engine Colossus](https://www.searchenginecolossus.com/) - *Search Engine Directory*
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - *DuckDuckGo !bang Meta Serarch / [GitHub](https://github.com/MoserMichael/duckduckbang)*
 * [Jumps](https://jumps.io/) - *Site Quick Search*
 * [Soovle](https://soovle.com/), [Keyword.io](http://www.keyword.io/), [SearchEngineReports](https://searchenginereports.net/) or [Keyword Tool](https://keywordtool.io/) - *Popular Keyword Search*
@@ -923,10 +921,9 @@ General Reading Sites*
 * [id](https://home.s.id/) - `s.id/EQBsg`
 * [3c5](https://3c5.com/) - `3c5.com/jWscV`
 * [Tiny.cc](https://tiny.cc/) - `tiny.cc/akl1mz`
-* [IPKill](https://ipkill.org/) - `ipkill.org/3yw`
 * [Paup](http://paup.ml/) - `paup.ml/H9-R2`
-* [Shrunken](https://www.shrunken.com/) - `shrunken.com/a72de`
 * [Scur](https://scur.link/) - `scur.link/pLyF`
+* [1kb](https://1kb.link/) - `1kb.link/acc0a`
 * [shrtcode](https://app.shrtco.de/) - `shrtco.de/lsoWP`
 * [Rebrandly](https://www.rebrandly.com/) - `rb.gy/4m25hq` / [Extension](https://mybrowseraddon.com/g-url-shortener.html)
 * [u.nu](https://u.nu/) - `u.nu/5nhzi`
@@ -1135,10 +1132,9 @@ General Reading Sites*
 * [Discord-Webhook-Delete](https://github.com/fknMega/Discord-Webhook-Delete) - *Webhook Remover*
 * [Embed Visualizer](https://embed.discord.website/) - *Embed Visualization Tool* 
 * [Chimera](https://github.com/CedArctic/Chimera) - *System Remote Control* 
-* [Discord IRC](https://github.com/reactiflux/discord-irc) - *Connect Discord & IRC Chats* 
+* [Discord IRC](https://github.com/reactiflux/discord-tirc) - *Connect Discord & IRC Chats* 
 * [The Cleaner](https://cleaner.leodev.xyz/) - *Remove Spam / Phishing Links*
 * [Discord Reputation](https://discordrep.com/) - *Prevent Discord Fraud*
-* [Discord Ban Appeals](https://github.com/patricktechn/discord-ban-appeals) - *Discord Ban Appeal Form*
 * [Discord Auto Upload](https://github.com/tardisx/discord-auto-upload) - *Auto Upload Screenshots*
 * [Discord Creation Date Check](https://hugo.moe/discord/discord-id-creation-date.html) - *Check Creation Date of User / Channel / Server / [GitHub](https://github.com/hugonun/discordid2date)*
 * [DSC.BIO](https://dsc.bio/) - *Make Awesome Custom Discord Bios* 
@@ -1376,6 +1372,7 @@ General Reading Sites*
 * [Trends Map](https://www.trendsmap.com/), [Twitter Trends](https://twitter-trends.vercel.app/) or [MentionMap](https://mentionmapp.com/) - *Trending Twitter Hashtags / Topics*
 * [Tweeplers](https://www.tweeplers.com/) - *Trending Twitter Users* 
 * [TweetMap](https://www.omnisci.com/demos/tweetmap) - *Trending Tweet Map* 
+* [Twitter Linker](https://twitterlinker.vercel.app/) or [Twitter Images](https://twitter-images.vercel.app/ ) - *Generate Twitter Card for Your Links*
 * [OneMillionTweetMap](https://onemilliontweetmap.com/) or [TwitterNano](https://www.twitternano.com/) - *Real-Time Tweet Map* 
 * [Twitter Matrix](https://konard.github.io/twittermatrix/messages.html) - *Matrix animation, but with live tweets*  
 * [All My Tweets](https://www.allmytweets.net/connect/) - *View tweets, likes, followers or timeline on one page* 
@@ -1403,8 +1400,7 @@ General Reading Sites*
 * [TwiMap](https://twimap.com/) - *Find Twitter Users Near You* 
 * [Twitter Without Logging In](https://addons.mozilla.org/en-US/firefox/addon/twitter-without-logging-in/) - *Twitter Login Wall Bypass*
 * [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) or [Invidition](https://codeberg.org/Booteille/Invidition) - *Redirects Twitter to Frontend*
-* [Yotter](https://yotter.kavin.rocks/) or [nitter](https://nitter.net/) - *Twitter Frontend* 
-* [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia), [Semiphemeral](https://semiphemeral.com/) or [Forget](https://forget.codl.fr/) - *Twitter Auto Post Delete*
+* [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia), [Semiphemeral](https://semiphemeral.com/) - *Twitter Auto Post Delete*
 * [MegaBlock](https://megablock.xyz/) - *Easily Block Twitter Users & Tweets*
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - *Delete Twitter Likes / Favorites* 
 * [Unfavinator](http://unfavinator.com/) - *Delete Twitter Favorites*
@@ -1691,6 +1687,7 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [PowerShell](https://github.com/powershell/powershell) - *PC / Mac / Linux PowerShell*
 * [PowershellMenu](https://github.com/Mike-Branham/PowershellMenu), [Write-Menu](https://github.com/QuietusPlus/Write-Menu) or [ps-menu](https://github.com/chrisseroka/ps-menu) - *PowerShell Console Menu*
 * [PowerShdll](https://github.com/p3nt4/PowerShdll) - *Run PowerShell with rundll32*
+* [LeanandMean](https://github.com/AveYo/LeanAndMean) - *Powershell Snippets / Use with Caution*
 * [SystemNightware](https://github.com/GossiTheDog/SystemNightmare) - *Instant System Command Prompt*
 * [Starship](https://starship.rs/) - *Cross-Shell Prompt*
 * [GNU Parallelel](https://www.gnu.org/software/parallel/) - *Execute Commands / Scripts in Parallel using Multiple Computers* 
