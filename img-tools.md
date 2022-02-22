@@ -38,12 +38,12 @@
 * [distort-grid](https://github.com/snorpey/distort-grid) - *Grid Based Image Distortion*
 * [PaintingLight](https://lllyasviel.github.io/PaintingLight/) - *Digital Lighting Effect Generator*
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - *Turn Simple Art into Photo Realistic Landscapes [Web](http://nvidia-research-mingyuliu.com/gaugan/)*
-* [DeepArt](https://deepart.io/), [AI Gahaku](https://ai-art.tokyo/en/), [Dreamscope](https://dreamscopeapp.com/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own) or [Deep Dream Generator](https://deepdreamgenerator.com/) - *Turn Photos into Artwork* 
+* [DeepArt](https://deepart.io/), [AI Gahaku](https://ai-art.tokyo/en/), [Dreamscope](https://dreamscopeapp.com/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/) or [Deep Dream Generator](https://deepdreamgenerator.com/) - *Turn Photos into Artwork* 
 * [Tinter](https://tinter.uxie.io/) - *Image Hue Editor*
 * [WeGreyScale](https://www.wegrayscale.com/) - *Greyscale Videos / Images*
 * [DuoTones](https://duotones.co/) - *Dual Tone Effect Generator*
 * [ImageGoNord](https://ign.schrodinger-hat.it/) - *Convert Images to NordTheme Palette / [Dracula](https://github.com/bigpick/ImageGoNord-dracula) / [Gruvbox](https://github.com/Schrodinger-Hat/ImageGoNord-gruvbox) / [GitHub](https://github.com/Schrodinger-Hat/ImageGoNord)*
-* [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization), [Image To Cartoon](https://imagetocartoon.com/) or [Cartoonize](https://cartoonize-lkqov62dia-de.a.run.app/cartoonize) - *Turn Photos into Cartoons*
+* [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization), [Image Transformer](https://transformerapp.aifinancials.net/), [Image To Cartoon](https://imagetocartoon.com/) or [Cartoonize](https://cartoonize-lkqov62dia-de.a.run.app/cartoonize) - *Turn Photos into Cartoons*
 * [AIDraw](https://ai-draw.tokyo/en/) - *Turn Photos into Line Drawings* 
 * [primitive.js](https://ondras.github.io/primitive.js/) or [Geometrize](https://www.geometrize.co.uk/) - *Redraw Images with Geometric Shapes* 
 * [PBNify](https://pbnify.com/) - *Paint by Number Tool*
@@ -440,7 +440,7 @@
 * [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [ImSter](https://github.com/armytricks/ImSter) or [stegpy](https://github.com/dhsdshdhk/stegpy) - *Embed & Extract Hidden Data in Images / Steganography* 
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - *Blur Images / Scrub Metadata*
 * [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi), [Exif-Viewer](http://exif-viewer.com/), [metapicz](http://metapicz.com/), [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - *EXIF / Metadata Viewer* 
-* [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif) or [VerExif](https://www.verexif.com/en/) - *Remove Meta / EXIF Data* 
+* [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [MGOnline](https://www.imgonline.com.ua/delete-exif.php), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - *Remove Meta / EXIF Data* 
 * [Pic2Map](https://www.pic2map.com/) - *Image EXIF data viewer with GPS support*
 * [TheExifer](https://www.thexifer.net/index.php) or [Exiv2](https://www.exiv2.org/) - *Image EXIF Data Editor* 
 * [Nameexif](https://us.digicamsoft.com/softnamexif.html) - *Bulk Image EXIF Data Editor*
