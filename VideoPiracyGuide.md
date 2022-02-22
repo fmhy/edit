@@ -77,7 +77,6 @@
 * [Goojara](https://www.goojara.to/), [2](https://goojara.club/) - *Movies / TV / Anime*
 * [SpaceMov](https://spacemov.site/) - *Movies / TV*
 * [NYMeriaTV](https://nymeriatv.com/) - *Movies / TV*
-* [Join4Films](https://www.join4films.net/hollywood/) - *Movies*
 * [OpenloadTV](https://openloadtv.co/) - *Movies*
 * [AllMoviesForYou](https://allmoviesforyou.co/) - *Movies / TV* 
 * [MoviesDownloadHub](https://moviesdownloadhub.com/category/hollywood/) - *Movies / TV*
@@ -264,7 +263,7 @@
 * [MyRM](https://myrunningman.com/) - *My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)*
 * [No-Laughing Batsu Game List](https://redd.it/2fgm9p) 
 * [cytube](https://cytu.be/) - *TV / Chat*
-* [ScrubTV](https://reboot.tube/) - *TV / Chat*
+* [ScrubTV](https://hidden.pm/) - *TV / Chat*
 
 ***
 
@@ -446,7 +445,6 @@
 * **[Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - *TV / Sports*
 * **[Jackal](https://jackal.surge.sh/)** - *TV / Sports*
 * **[LmaoLove](http://lmao.love/)** - *TV / Sports*
-* **[WebOas.is TV](http://streamwat.ch/)** - *TV / Sports*
 * **[LiveOnScore](http://liveonscore.tv/)** - *Sports* 
 * **[StreamEast](https://www.streameast.io/)** - *Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)*
 * **[Black Tie Sports](https://blacktiesports.net/)** - *Sports* 
