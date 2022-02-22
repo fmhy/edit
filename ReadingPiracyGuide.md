@@ -190,6 +190,9 @@
 * [xfmro77i3lixucja](http://xfmro77i3lixucja.onion/) - *Tor Required* 
 * [The Imperial Library of Trantor](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/) - *Tor Required / [Unofficial Mirror](https://trantor.is/)*
 * [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
+* [Rivetedlit](https://rivetedlit.com/) - *Books*
+* [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - *Books*
+* [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
 * [/r/opendirectories](https://reddit.com/r/opendirectories)
 * [/r/EBook_Resources](https://reddit.com/r/EBook_Resources/)
 * [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)
@@ -240,6 +243,7 @@
 * [Classic Literature](https://classic-literature.co.uk/) 
 * [Freeditorial](https://freeditorial.com/)
 * [Lit2Go](https://etc.usf.edu/lit2go/)
+* [Planet Publish](http://www.planetpublish.com/) 
 * [FullTextArchive](https://www.fulltextarchive.com/)
 * [Classics.mit](http://classics.mit.edu/index.html)
 * [sherlock-holm.es](https://sherlock-holm.es/) - *Complete Sherlock Holmes Canon*
