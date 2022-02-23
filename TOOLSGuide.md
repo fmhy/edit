@@ -877,6 +877,7 @@ General Reading Sites*
 * [Cyber](https://cyber.page/) - *Hash Search Engine* 
 * [TruePeopleSearch](https://www.truepeoplesearch.com/) - *Person Search*
 * [CrunchBase](https://www.crunchbase.com/) - *Company Info Search*
+* [judyrecords](https://www.judyrecords.com/) - *US Court Case Search*
 * [Is it big?](https://isitbig.org/) - *Brand Corporation Connection Search*
 * [Matrix](https://matrix.itasoftware.com/) - *Airfare Search*
 * [Hunter.io](https://hunter.io/) - *Business Email Address Search*
@@ -1864,7 +1865,7 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [Torrent2Drive](https://t.me/torrent_2_drive), [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - *DDL to GDrive Tool*
 * [Jybe.gg](https://jybe.gg/) - *GDrive File Sync*
 * [GDriveCLI](https://github.com/prasmussen/gdrive) - *GDrive CLI*
-* [GDriveDL](https://github.com/ariakm25/GDriveDL) - *Google Drive Bulk Downloader*
+* [GDriveDL](https://github.com/ariakm25/GDriveDL) or [gogdl-ng](https://github.com/gogdl-ng/gogdl-ng) - *Google Drive Bulk Downloader*
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - *Google Drive Python Download Script*
 * [GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) - *GoIndex to GDrive Downloader*
 * [GDUploadBot](https://t.me/gduploadbot) - *Telegram GDrive Upload Bot*
