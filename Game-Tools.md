@@ -138,7 +138,7 @@
 * [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - *Hide Player Names to Avoid Stream Sniping*
 * [ElDewrito](https://dewritohub.com/) - *Halo Online Mod Tool / [GitHub](https://github.com/ElDewrito) / [Discord](https://discord.com/invite/0TKY0SDEUHAWL4sG), [2](https://discord.com/invite/gtqM3s5)*
 * [BakkesMod](https://bakkesmod.com/) - *Rocket League Trainer*
-* [Northstar](https://discord.gg/CEszSguY3A) - *Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases / [Guide](https://rentry.org/northstar-guide)*
+* [Northstar](https://northstar.thunderstore.io/), [2](https://northstar.tf/) - *Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases) / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A)*
 * [Titanfall2HudToggle](https://www.mediafire.com/file/q3tld2cm31znu2z/Titanfall2HudToggle.rar/file) - *Toggle Titanfall 2 Hud*
 * [CnCNet](https://cncnet.org/) - *Multiplayer Command & Conquer* 
 * [Rusticaland](https://rusticaland.net/) - *Rust Cracked Client / Servers*
