@@ -66,6 +66,7 @@
 * [xdccget](https://github.com/Fantastic-Dave/xdccget) - *XDCC IRC Downloader*
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - *Search Pastebin Directories*
 * [Data Horde](https://datahorde.org/) - *Data Archivist Group*
+* [Defacto2](https://defacto2.net/home) - *Scene / Sub-Scene Database*
 * [Google Piracy Groups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_piracy_discussion_groups) - *Use these to join TeamDrives* 
 
 ***
