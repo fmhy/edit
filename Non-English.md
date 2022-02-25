@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/o616CQk.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/uXXJpzf.png)** - *For mobile users*
 
 ***
 ***
@@ -1594,29 +1594,28 @@ Portuguese
 
 # ► Vietnamese 
 
-## ▷ Tools
-
-* [CocCoc](https://coccoc.com/search) - *Search*
+* [Coccoc](https://coccoc.com/search) - *Search*
 * [EPhoto360](https://ephoto360.com/) - *Photo Effects*
-
-## ▷ Torrenting
-
-* [NetHD](https://nethd.org/) - *Video / Audio / Software / Games*
   
 ## ▷ Downloading
 
+* [Taiwebs](https://taiwebs.com/) - *Software / Android / Games
 * [Fshare](https://timfshare.com/) - *Video / Audio / Software / Games*
-* [Taiwebs](https://taiwebs.com/) - *Software / Android / Games*
 * [Softonic](https://www.softonic.vn/) - *Software / Android / Games*
-* [TaiMienPhi](https://taimienphi.vn/) - *Software / Android / Games*
-* [DownloadVN](https://download.com.vn/) - *Software / Android / Games*
-* [Downvn](https://down.vn/) - *Software / Android / Games*
 * [SoftBuzz](https://softbuzz.net/) - *Software / Games*
+* [Downvn](https://down.vn/) - *Software / Android / Games*
+* [DownloadVN](https://download.com.vn/) - *Software / Android / Games*
+* [TaiMienPhi](https://taimienphi.vn/) - *Software / Android / Games*
+* [HDVietnam](http://www.hdvietnam.com/forums/) - *Video / Audio / Software*
 * [FreeHD](https://freehd.me/) - *Movies / TV / Anime*
 * [ChiaSeNhac](https://chiasenhac.vn/) - *Music*
 * [ChiaSeAPK](https://www.chiaseapk.com/) - *Modded APKs*
 * [GocMod](https://www.gocmod.com/) - *Modded APKs*
 * [LMHMod](https://lmhmod.com/) - *Modded APKs*
+
+## ▷ Torrenting
+
+* [NetHD](https://nethd.org/) - *Video / Audio / Software / Games*
 
 ## ▷ Streaming
 
@@ -1635,11 +1634,10 @@ Portuguese
 
 * [Cmangaka](https://cmangaka.com/) - *Manga*
 * [TruyenQQ](http://truyenqqvip.com/) - *Manga*
-* [Nettruyengo](http://www.nettruyengo.com/) - *Comics / Manga / Light Novels*
+* [Nettruyengo](http://www.nettruyengo.com/) - *Manga*
 * [TruyenFull](https://truyenfull.vn/) - *Manga / Light Novels*
 * [Hayso1](https://hayso1.net/) - *Manga*
 * [HAKO](https://ln.hako.re/) - *Light Novels*
-
 
 ***
 
