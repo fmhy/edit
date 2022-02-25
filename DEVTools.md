@@ -791,7 +791,7 @@
 * [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://www.code-projects.org/), [Codastro](https://codeastro.com/) or [ItSourceCode](https://www.itsourcecode.com/) - *Source Code Projects*
 * [SciTE](https://www.scintilla.org/SciTE.html) - *Source Code Editor for Win32 and X*
 * [CodeGrepper](https://www.codegrepper.com/) - *Code Search Extension*
-* [ShareScript](https://sharescript.net/), [ShortCode](https://shortcode.dev/), [Google Code Archive](https://code.google.com/archive/), [CodeList](https://www.codelist.cc/) or [bl.ocks](https://bl.ocks.org/) - *Script / Code Indexes*
+* [ShortCode](https://shortcode.dev/), [Google Code Archive](https://code.google.com/archive/), [CodeList](https://www.codelist.cc/) or [bl.ocks](https://bl.ocks.org/) - *Script / Code Indexes*
 * [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/), [2](https://carbon.now.sh/) - *Source Code Screenshot Tool*
 * [ray.so](https://ray.so/) - *Create Code Images*
 * [Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering) - *Reverse Engineering Resource Index*
