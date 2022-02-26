@@ -1596,8 +1596,9 @@ Portuguese
 
 * [Coccoc](https://coccoc.com/search) - *Search*
 * [EPhoto360](https://ephoto360.com/) - *Photo Effects*
-* [HostsVN](https://bigdargon.github.io/hostsVN/) - *Hosts block ads*
-* [IBlockAds](https://iblockads.net/) - *Adblock filter*
+* [hostsVN](https://bigdargon.github.io/hostsVN/) or [iBlockAds](https://iblockads.net/) - *Vietnamese Adblock Filters*
+
+
   
 ## ▷ Downloading
 
