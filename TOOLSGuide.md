@@ -279,6 +279,7 @@
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) or [OBS Ninja](https://obs.ninja/) - *Streaming Tools Indexes*
 * [SteamLabs](https://streamlabs.com/) - *Streaming Tools*
 * [VegasScripts](https://github.com/otomad/VegasScripts) - *MAGIX Vegas Scripts*
+* [VDO.Ninja](https://vdo.ninja/) - *Remote Camera Video Production*
 * [OBS](https://obsproject.com/), [Wigistream](https://wigistream.to/) or [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs) - *Video Recording / Live Streaming / [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT)* 
 * [Stream Elements](https://streamelements.com/) - *Streaming Service Manager*
 * [Restream](https://restream.io/) - *Multi-Site Streaming Tool*
@@ -313,7 +314,8 @@
 * [OpenToonz](https://opentoonz.github.io/e/), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - *Animation Tools*
 * [Animaker](https://www.animaker.com/) - *Animated Video Creator*
 * [AMV101](https://www.amv101.com/) - *Animated Music Video Making Guides*
-* [Unreal Engine](https://www.unrealengine.com/), [Quixel](https://quixel.com/), [SketchUp](https://www.sketchup.com/) or [Twinmotion](https://www.twinmotion.com/en-US) - *3D Creation Tools*
+* [Unreal Engine](https://www.unrealengine.com/), [SketchUp](https://www.sketchup.com/) or [Twinmotion](https://www.twinmotion.com/en-US) - *3D Creation Tools*
+* [Mixer](https://quixel.com/mixer) - *3D Texture Creation Tool*
 * [PlanetSide](https://planetside.co.uk/) - *CG Environment Generator*
 * [AnimeEffects](http://animeeffects.org/en/), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/) or [Synfig](https://www.synfig.org/) - *2D Animation Tool* 
 * [Storyboarder](https://wonderunit.com/storyboarder/) - *Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)* 
@@ -322,6 +324,7 @@
 * [LibreSprite](https://libresprite.github.io/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - *Pixel Art Animation Tools*
 * [BestSnip](https://bestsnip.com/animation/) or [Mulator](https://multator.ru/) - *Online Animation Tool*
 * [Mixamo](https://www.mixamo.com/) - *3D Character Animation Tool*
+* [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - *3D Human Model Creator*
 * [Vinci](https://vinci.surreal-ai.com/home/free-talking-avatar) - *Create Talking AI*
 * [NATRON](https://natrongithub.github.io/) - *Compositing Software*
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - *CGI Assets*
@@ -568,6 +571,7 @@
 * [Crypto Ecosystem 2021](https://docs.google.com/document/d/1RM7AoUKbXEqZ2qATTxGYLMexu3Jxrf3oYiwbsrXOXUQ) - *Beginner's Guide to Crypto Ecosystem*
 * [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - *Crypto Learning Resources*
 * [TryHackMe](https://tryhackme.com/), [AWS Training](https://www.aws.training/), [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html), [UI.com](https://www.ui.com/training/), [CryptoHack](https://cryptohack.org/) - *IT Training & Courses*
+* [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - *IT Certification Courses*
 * [NIST](https://www.nist.gov/nice/apprenticeship-finder) - *NICE Apprenticeship Program Finder*
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - *Cloud Career Training*
 * [BetaList](https://betalist.com/) - *Get Startup Ideas*
@@ -692,7 +696,7 @@
 * [Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [Whereby](https://whereby.com/), [Videolink2me](https://videolink2me.com/), [TinyChat](https://tinychat.com/), [Noysi Meet](https://meet.noysi.com/), [iqc](https://icq.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat*
 * [Zoom Escaper](https://zoomescaper.com/) - *Self-Sabotage Video Calls to Escape Meetings*
 * [Live Curtain](https://livecurtain.com/) - *Countdown Curtain For Online Meeting*
-* [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Nertivia Chat](https://nertivia.net/), [Mumble](https://www.mumble.info/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
+* [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Nertivia Chat](https://nertivia.net/), [Mumble](https://www.mumble.info/), [Zoiper](https://www.zoiper.com/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
 * [IMumble](https://www.imumble.nl/) - *Voice Chat Server*
 * [Gather](https://gather.town/), [OpenSimulator](http://opensimulator.org/) - *Virtual World Server*
 * [FireStorm Viewer](https://www.firestormviewer.org/) - *Virtual World Viewer*
@@ -873,7 +877,7 @@ General Reading Sites*
 * [Google Search Operator Cheat Sheets](https://moz.com/learn/seo/search-operators), [2](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [3](https://ahrefs.com/blog/google-advanced-search-operators/), [4](https://l-lists.com/en/lists/m1mdwx.html), [5](https://github.com/BushidoUK/OSINT-SearchOperators)
 * [Google Search Guide](https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters) + [Advanced](https://coursebuilder.withgoogle.com/)
 * [Yandex Search Operator Cheat Sheets](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/), [3](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
-* [sitedorks](https://github.com/Zarcolio/sitedorks) - *Search Dorks*
+* [sitedorks](https://github.com/Zarcolio/sitedorks) or [DorkSearch](https://www.dorksearch.com/) - *Search Dorks*
 * [Cyber](https://cyber.page/) - *Hash Search Engine* 
 * [TruePeopleSearch](https://www.truepeoplesearch.com/) - *Person Search*
 * [CrunchBase](https://www.crunchbase.com/) - *Company Info Search*
@@ -891,7 +895,6 @@ General Reading Sites*
 * [BrownBook](https://www.brownbook.net/) - *Business Listing Search*
 * [googler](https://github.com/jarun/googler) - *Search Google through your Terminal*
 * [txtai](https://neuml.github.io/txtai/) - *Build Semantic Search Apps*
-* [Whoogle](https://benbusby.com/projects/whoogle-search/) - *Self-Hosted Search Engine*
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - *GitHub Fork Search* 
 * [grep.app](https://grep.app/) - *Git Repository Search*
 * [MyCroftProject](https://mycroftproject.com/) - *Search Engine Plugins*
@@ -1199,6 +1202,7 @@ General Reading Sites*
 * [YeetMeet](https://github.com/1337w0rm/YeetMeet) - *Meeting Auto Join Bot*
 * [Unigram](https://github.com/UnigramDev/Unigram), [Tok](https://invent.kde.org/network/tok), [TDesktop](https://github.com/Forkgram/tdesktop) or [Kotatogram](https://github.com/kotatogram/kotatogram-desktop) - *Telegram Desktop Client*
 * [Web.Telegram](https://web.telegram.org/), [2](https://webk.telegram.org/), [3](https://webz.telegram.org/) - *Telegram Web Client*
+* [Pyrogram](https://docs.pyrogram.org/) - *Telegram API Client*
 * [TeleWebGram](https://telewebgram.com/) - *Online Telegram Channel Viewer*
 * [Rose](https://t.me/MissRose_bot) - *Telegram Group Manager*
 * [TGCF](https://github.com/aahnik/tgcf) - *Telegram Message Forwarding*
@@ -1516,8 +1520,9 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) - *Process Killer*
 * [SpeedFan](http://www.almico.com/speedfan.php) - *Hardware Monitor*
 * [CoreTemp](https://www.alcpu.com/CoreTemp/) - *Processor Temperature Monitor*
-* [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) or [Process Lasso](https://bitsum.com/) - *CPU Optimizer* 
+* [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - *CPU Optimizer* 
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - *Laptop CPU Monitor / Optimizer*
+* [perf-book](https://github.com/dendibakh/perf-book) - *CPU Performance Analysis and Tuning Book*
 * [MemTest](https://www.memtest.org/) - *Memory Diagnostic Tool*
 * [Mem Reduct](https://www.henrypp.org/product/memreduct) - *Windows System Memory Cleaner*
 * [CPUid](https://www.cpuid.com/softwares/cpu-z.html), [winfetch](https://github.com/kiedtl/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - *System Information Tool* 
@@ -1902,6 +1907,7 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [IPFS Cluster](https://cluster.ipfs.io/) - *Automated data availability and redundancy on IPFS*
 * [AutoRclone](https://drive.google.com/file/d/11yrXPUfWEP6bAeIw0fibjr-JxeWa-1Da/) - *Create Google Service Accounts for RClone / [GitHub](https://github.com/xyou365/AutoRclone) / [Colab](https://github.com/Rekulous/AutoRClone-Colab), [2](https://colab.research.google.com/github/Rekulous/AutoRClone-Colab/blob/main/AutoRClone.ipynb)*
 * [rclone-colab](https://github.com/Pavithran-R/rclone-colab) - *Run Rclone in Colab*
+* [RcloneBrowser-Portable](https://github.com/MinorMole/RcloneBrowser-Portable) - *Portable Rclone Browser*
 * [EasyClone](https://github.com/xd003/easyclone) - *Improved RClone Operations Script*
 * [myDrive](https://mydrive-storage.com/) - *Cloud File Storage*
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - *HTTP File System*
