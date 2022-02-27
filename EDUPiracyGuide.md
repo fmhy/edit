@@ -90,6 +90,7 @@
 * [udemyforu](https://t.me/udemyforu) - *Udemy Courses / Telegram*
 * [CGPERS](https://t.me/CGPERS) - *Udemy Courses / Telegram*
 * [Udemy Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons) - *Udemy Coupon Sites*
+* [UdemyBot](https://github.com/gautamajay52/UdemyBot) - *Udemy Course Bot*
 * [GUdemyBot](https://t.me/GUdemyBot) - *Udemy Coupon Bot* 
 * [Fresh Coupons](https://github.com/KajanM/fresh-coupons) - *Automatically Apply Discount Coupons on Udemy Courses / [Chrome](https://chrome.google.com/webstore/detail/fresh-coupons/pbnfeejfjlmmjfgnmmfpalhlpjidlgie)*
 
@@ -570,6 +571,7 @@
 * [Bonsai](https://bonsaibrowser.com/) - *Research Web Browser*
 * [StringMark](https://www.stringmark.com/) - *Save & Mark Research in Browser*
 * [Catma](https://catma.de/) - *Research Markup & Analysis Tool*
+* [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips) - *Latex Research Paper Tips*
 * [Taguette](https://app.taguette.org/) - *Data Analysis Document Tagging*
 * [TimeLY](https://github.com/noahweasley/TimeLY) - *University Activity & Class Tracker*
 * [Stublio](https://stublio.com/) or [Studify](https://github.com/cmcodes1/Studify) - *Keep Track of what you're Studying* 
@@ -701,6 +703,7 @@
 * [YourBiasIs](https://yourbias.is/) - *Learn about Biases* 
 * [LessWrong](https://www.lesswrong.com/) - *Develop Rationality*
 * [Art of Manliness](https://www.artofmanliness.com/) - *Develop Life Skills*
+* [Social Engineers](https://www.socialengineers.net/) - *Social Engineering Guides*
 * [TheChessWebsite](https://www.thechesswebsite.com/) - *Chess Strategy & Analysis*
 * [Chess Tempo](https://chesstempo.com/) - *Play and Learn Chess*
 * [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - *Wood Working Guides & Articles*
@@ -728,6 +731,7 @@
 * [General Index](https://archive.org/details/GeneralIndex) - *Article Metadata Mining Project*
 * [P2PU](https://www.p2pu.org/) - *Join Learning Groups Using Free Courses*
 * [CollegeComendium](https://collegecompendium.goldin.io/) - *Free Computer Science Classes*
+* [Reddit-wiki-programming](https://github.com/antariksh17/Reddit-wiki-programming) - *Computer Science Learning Resources*
 * [Niche](https://www.niche.com/) or [Top Universities](https://www.topuniversities.com/) - *University & School Rankings*
 * [College Map](https://nces.ed.gov/ipeds/collegemap/) - *College Information Map*
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - *Professor Ratings*
