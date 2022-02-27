@@ -27,6 +27,7 @@
 * [HD Audio Books](https://hdaudiobooks.com/) - *Listen Online*
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - *Listen Online*
 * [Audiobooks Lab](https://audiobooklabs.com/) - *Listen Online*
+* [Legamus](https://legamus.eu/blog/) - *Listen Online*
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - *Listen Online / Select Playlists*
 * [Litube](https://litube.net/) - *Listen Online*
 * [AudioBook Reviews](https://audiobookreviews.com/) 
@@ -112,6 +113,7 @@
 * [iBookPile](https://ibookpile.net/) - *Books*
 * [DownLoadBooks](https://downloadbooks.unblockit.dev/) - *Books*
 * [Any Books Free](http://anybooksfree.com/) - *Books*
+* [DPLA](http://dp.la/) - *Books*
 * [Books'Cool](https://www.bookscool.com/en/index.php) - *Books*
 * [Dirzon](https://www.dirzon.com/) - *Books*
 * [Ebookee](https://www.ebookee.com/) - *Books / Magazines*
