@@ -31,7 +31,7 @@
 
 * **[Spotify](https://open.spotify.com/)** or [Spotify One](https://spotfy.one/)  - *Browser Music*
 * **Spotify Tools** - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Listen Together](http://jqbx.fm/) / [Customize](https://github.com/Darkempire78/Spotify-Customizer)
-* **[YouTube Music](https://music.youtube.com/)** - *Browser Music / [Lag Fix](https://greasyfork.org/en/scripts/432304-youtube-music-fix-performance) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo)*
+* **[YouTube Music](https://music.youtube.com/)** - *Browser Music / [Alt Player](https://www.infigroove.com/) / [Lag Fix](https://greasyfork.org/en/scripts/432304-youtube-music-fix-performance) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo)*
 * **[Reddit Music Player](https://reddit.musicplayer.io/)** - *Subreddit Music Player*
 * **[SoundCloud](https://soundcloud.com/)** - *User made songs*
 * [ccMixter](http://ccmixter.org/) or [dig ccMixter](http://dig.ccmixter.org/dig) - *Browser Music*
@@ -71,6 +71,7 @@
 * [Map of Metal](http://mapofmetal.com/) - *Interactive Map of Metal History* 
 * [The Cultural Borders of Songs](https://pudding.cool/2018/06/music-map/?date=202102) - *#1 Songs from 3,000 Countries* 
 * [LostMyspace](http://lostmyspace.com/) - *Lost Myspace Songs* 
+* [Unreleased Goa Project](https://goatrance.xyz/) - *Rare / Unreleased Trance*
 * [Wacht](https://wacht.tv/) - *Music Video Upvoting*
 * [/r/Yedits](https://www.reddit.com/r/Yedits/) - *User-Made Remixes*
 * [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - *User-Made PluggnB Songs*
@@ -344,10 +345,12 @@
 * [EDMBoost](https://edmboost.org/) - *Electronic / MP3*
 * [EDMWaves](https://edmwaves.org/) - *Electronic / MP3*
 * [MusicFans](https://musicfans.space/) - *Electronic / MP3*
+* [PSYFP](https://psyfp.ucoz.ru/) - *Electronic / MP3*
 * [MyPromoSound](https://mypromosound.com/) - *Electronic / MP3*
 * [ElectronicFresh](http://electronicfresh.com/) - *Electronic / MP3*
 * [InEvil](https://www.inevil.com/) - *Electronic / MP3*
 * [DQQD](https://dqqd.org/) - *Electronic / MP3 / FLAC*
+* [Ektoplazm](https://ektoplazm.com/) - *Electronic / MP3 / FLAC*
 * [1Trance](https://1trance.org/) - *Trance / MP3*
 * [1Techno](https://1techno.org/) - *Techno / MP3*
 * [Vaporwave Library Project](https://vaporwave.ivan.moe/) - *Vaporwave*
