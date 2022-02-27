@@ -23,6 +23,7 @@
 * [DZone](https://dzone.com/) - *Developer Tutorials*
 * [RedHat](https://developers.redhat.com/) - *Development Tutorials*
 * [Roadmap](https://roadmap.sh/) - *Developer Roadmaps / Guides* 
+* [Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)
 * [DecodingDevOps](https://www.decodingdevops.com/) - *Developer Q&A*
 * [hackingworld.best](https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg) - *IT Courses*
 * [IT Courses Collection](https://mega.nz/folder/TDozVaoD#2qK5YTtpg6dmkqye2C2Kfg) - *IT Courses*
@@ -71,10 +72,12 @@
 * [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - *Programming Tutorials*
 * [Ultimate Programming](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE) - *Programming Tutorials*
 * [FCS](https://freecoursesite.com/) - *Programing Tutorials*
+* [project-based-learning](https://github.com/practical-tutorials/project-based-learning) - *Programming Tutorials*
 * [w3schools](https://www.w3schools.com/) - *Programing Tutorials*
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - *Programming Courses*
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - *Programming Courses*
 * [Programming Courses Drive](https://drive.google.com/drive/u/0/folders/1rE6r67r1vsDrVxvAd5StXWSNGgsMpH5r), [2](https://drive.google.com/drive/mobile/folders/1wv81EOeEYFqX_Icdm_jvejVxQTqCA7Vd) - *Programming Courses*
+* [FreeCourses](https://freecourses.github.io/) - *Programming Courses*
 * [HelloWorldCollection](http://helloworldcollection.de/) - *Hello World Programming Collection*
 * [VisualGo](https://visualgo.net/) - *Data Structures & Algorithm Animations*
 * [HTMLDog](https://htmldog.com/) - *HTML / CSS / JavaScript Tutorials* 
@@ -147,6 +150,8 @@
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
 * [Discord.js Guide](https://discordjs.guide/) - *Discord.js Bot Guide*
 * [vcokltfre](https://vcokltfre.dev/) - *Discord.py Bot Guide*
+* [free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - *AI Learning Resources*
+* [minitorch](https://github.com/minitorch/minitorch) - *Machine Learning Engineering Course Code*
 
 ***
 
@@ -168,6 +173,7 @@
 * [Libera Chat](https://libera.chat/) - *IRC Network for Project Collaboration*
 * [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/)  - *Developer Forum* 
 * [The Devs Network](https://thedevs.network/) - *Developer Chat*
+* [StackShare](https://stackshare.io/) - *Tech Stack Collaboration*
 * [mark.show](https://mark.show/) or [sli.dev](https://sli.dev/) - *Markdown to Slideshow*
 * [Volume](https://www.volumestories.com/) - *Create Immersive Reading Experiences*
 * [daily.dev](https://daily.dev/) - *Replace New Tab Page with Developer Articles* 
@@ -209,6 +215,7 @@
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - *CTF Resources*
 * [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - *API index* 
 * [Insomnia](https://insomnia.rest/) - *API Client*
+* [APIKit](https://github.com/API-Security/APIKit) - *API Security Tools*
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - *Microservice Architecture Resource Index*
 * [LibreLogos](https://www.librelogos.org/) - *Project Logos*
 * [Lorem.space](https://lorem.space/) - *Placeholder Images*
@@ -255,7 +262,7 @@
 * [Flux](https://www.runonflux.io/) - *Decentralized Cloud Infrastructure*
 * [Web Designer News](https://www.webdesignernews.com/) - *Web Design News*
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
-* [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [BulkLink](http://bulklink.org/), [Cliper](https://www.cliper.site/), [websiterankpro](https://www.websiterankpro.com/), [SEO Tools Apps](https://www.seotoolsapps.com/) or [SEO Tools](https://99webtools.com/) - *Search Engine Optimization / [Extension](https://chrome.google.com/webstore/detail/ubersuggest-seo-and-keywo/nmpgaoofmjlimabncmnmnopjabbflegf)*
+* [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [BulkLink](http://bulklink.org/), [Cliper](https://www.cliper.site/), [websiterankpro](https://www.websiterankpro.com/), [SEO Tools Apps](https://www.seotoolsapps.com/), [SEOCheckFree](https://seocheckfree.com/) or [99WebTools](https://99webtools.com/) - *Search Engine Optimization / [Extension](https://chrome.google.com/webstore/detail/ubersuggest-seo-and-keywo/nmpgaoofmjlimabncmnmnopjabbflegf)*
 * [SerPreview](https://serpreviewtool.com/) - *Site Search Results Preview*
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) - *Web Debugging Proxy App*
 * [Tabler](https://tabler.io/) - *Site Admin Dashboard*
@@ -274,7 +281,7 @@
 * [Visual Mind AI](https://myraah.io/index.php/visualmind) - *Site Visual Score*
 * [Contrast Checker](https://contrast-checker.glitch.me/) - *Contrast Checker*
 * [Carbon Calculator](https://www.websitecarbon.com/) - *Estimate Sites Carbon Footprint*
-* [Rest Test Test](http://resttesttest.com/) - *Test REST/CORS Services*
+* [Rest Test Test](http://resttesttest.com/) - *Test REST / CORS Services*
 * [HeidiSQL](https://www.heidisql.com/) - *SQL Manager*
 * [httpbin](https://httpbin.org/) - *HTTP Request & Response Service*
 * [RemoteMySQL](https://www.remotemysql.com/) - *Remote MySQL Database*
@@ -326,12 +333,13 @@
 * [Uisual](https://uisual.com/), [SaaS Pages](https://saaspages.xyz/), [SaaS Landing Page](https://saaslandingpage.com/) or [lapa](https://www.lapa.ninja/) - *Landing Page Templates / Ideas*
 * [Canva](https://www.canva.com/) or [PikBest](https://pikbest.com/) - *Design Templates / [Premium Apk](https://forum.mobilism.org/search.php?keywords=Canva+&sr=topics&sf=titleonly)* 
 * [Zeplin](https://zeplin.io/) - *Design Templates / Editor*
+* [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - *Frontend Development Resources*
 * [Boilerplate](https://github.com/h5bp/html5-boilerplate) - *Website Frontend Template HTML5*
 * [Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates) or [Undraw](https://evie.undraw.co/)  - *Site Templates*
 * [Templatemo](https://www.templatemo.com/) or [Tooplate](https://www.tooplate.com/) - *HTML Site Templates*
 * [HTML5 Temp](https://rentry.co/HTML5Temp) - *HTML5 Templates & Themes*
 * [CSS Bed](https://www.cssbed.com/) or [free-css-templates](https://www.free-css.com/free-css-templates) - *CSS Themes / Templates*
-* [Hydrogen](https://github.com/Shopify/hydrogen) - *Custom Storefront Template*
+* [Hydrogen](https://github.com/Shopify/hydrogen) or [Fullstack Next.js E-commerce](https://github.com/olafsulich/fullstack-nextjs-ecommerce) - *Online Store Templates*
 * [Typewolf](https://www.typewolf.com/) - *Trending Website Fonts*
 * [Pattern Monster](https://pattern.monster/) - *SVG Pattern Generator*
 * [Broider](https://maxbittker.github.io/broider/) - *Create Border Designs*
@@ -462,7 +470,7 @@
 * [Radare](https://rada.re/r/), [Flare IDA](https://github.com/mandiant/flare-ida), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://github.com/rizinorg/cutter) - *Reverse Engineering* 
 * [Redis](https://redis.io/) - *Key-Value Database*
 * [Read the Docs](https://readthedocs.org/) or [MkDocs](https://www.mkdocs.org/) / [GitHub](https://github.com/mkdocs/mkdocs/)- *Make Documentation for your Software*
-* [Inno Setup](https://jrsoftware.org/isinfo.php), [InstallForge](https://www.installforge.net/) or [ActualInstaller](https://www.actualinstaller.com/) - *Create Installation Programs*
+* [Inno Setup](https://jrsoftware.org/isinfo.php), [Fileforums Premade Installers](https://github.com/LeFishe/fileforums-premade-installers), [InstallForge](https://www.installforge.net/) or [ActualInstaller](https://www.actualinstaller.com/) - *Create Installation Programs*
 * [Ink](https://github.com/vadimdemedes/ink) - *Create Interactive CLI Apps*
 * [Enquirer](https://github.com/enquirer/enquirer) - *Create CLI Prompts*
 * [Flatpak](https://flatpak.org/) - *Create & Distribute Linux Applications*
@@ -769,6 +777,7 @@
 * [python-adb](https://github.com/google/python-adb) - *Python ADB + Fastboot Implementation*
 * [pipx](https://pypa.github.io/pipx/) - *Execute Python Binaries in Isolated Environments*
 * [Scikit Learn](https://github.com/scikit-learn/scikit-learn) - *Machine Learning Library for Python*
+* [Pytrait](https://github.com/xrudelis/pytrait) - *Python Interface Traits*
 * [Doppler](https://www.doppler.com/) - *Sync Environment Variables*
 * [AutoCode](https://autocode.com/) - *Instant Endpoints*
 * [Trunk](https://trunk.io/) - *Run Linters/Formatters/Checkers Simultaneously*
@@ -812,6 +821,7 @@
 * [Beautifier](https://beautifier.io/) - *Online JavaScript Beautifier*
 * [anime.js](https://animejs.com/) - *JavaScript Animation Library / [GitHub](https://github.com/juliangarnier/anime/)*
 * [randomcolor](https://randomcolor.lllllllllllllllll.com/) - *Random Javascript Color Generator*
+* [Microdiff](https://github.com/AsyncBanana/microdiff) - *Object and Array Comparison Library*
 * [Adoptium](https://adoptium.net/) - *Download OpenJDK Binaries*
 * [Bundlephobia](https://bundlephobia.com/) - *Find Cost of Adding npm Package*
 * [Awesome Python](https://github.com/vinta/awesome-python) - *Python Resource Index*
@@ -836,6 +846,7 @@
 * [Awesome PHP](https://github.com/ziadoz/awesome-php) - *PHP Resources*
 * [PHP Decoder](http://ddecode.com/phpdecoder/) or [UnPHP](https://www.unphp.net/) - *PHP Decoder*
 * [PHP Beautifier](http://phpbeautifier.com/) - *PHP Formatter*
+* [Valinor](https://github.com/CuyZ/Valinor) - *PHP Object Mapper*
 * [Winddown](https://github.com/schneefux/vscode-winddown) or [Sandman](https://alexanderepstein.github.io/Sandman/) - *Coding Break Reminders*
 * [ThemesElection](https://themeselection.com/) - *Programming UI Themes*
 * [Dev Fonts](https://devfonts.gafi.dev/) - *Coding Fonts*
