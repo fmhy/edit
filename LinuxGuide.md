@@ -59,6 +59,7 @@
 * [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - *Hardcoded Tray Icon Fix*
 * [Tunic](https://github.com/mikeslattery/tunic) - *Install Linux Over or Alongside Windows*
 * [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - *Windows Subsystem Resources*
+* [RockstarKernel_WSL2](https://github.com/Dhruvgera/RockstarKernel_WSL2) - *Windows Subsystem Kernal*
 * [Darling](https://www.darlinghq.org/) - *Run MacOS Programs on Linux*
 * [OSX-KVM](https://github.com/kholia/OSX-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - *MacOS Virtual Machine*
 * [InstantBox](https://github.com/instantbox/instantbox) - *Temporary Linux Systems*
@@ -109,7 +110,7 @@
 * [Curlew](https://curlew.sourceforge.io/) - *Linux File Converter*
 * [Dolphin](https://userbase.kde.org/Dolphin) or [ranger](https://github.com/ranger/ranger) - *File Manager*
 * [nnn](https://github.com/jarun/nnn) or [NCDU](https://github.com/rofl0r/ncdu) - *Terminal File Manager/Disk Usage Analyzer*
-* [zentile](https://github.com/blrsn/zentile) - *On-demand Window Manager Tiling*
+* [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - *On-demand Window Manager Tiling*
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/jmmaranan/forge) - *GNOME Tiling Extension*
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - *KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)*
 * [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) - *Google Drive Downloader*
@@ -207,7 +208,7 @@
 * [Compix](https://github.com/xeome/compix) - *Xorg Compositor*
 * [river](https://github.com/riverwm/river/), [wayfire](https://github.com/WayfireWM/wayfire/) or [sway](https://github.com/swaywm/sway/) - *Wayland Compositors*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
-* [Learn the Linux Command Line](https://mega.nz/folder/BlRVyArK#84n4ZhYZCRXLjt-KEP6u6g) or[LinuxCommand](https://www.linuxcommand.org/tlcl.php) - *Linux Command Line Lessons*
+* [Learn the Linux Command Line](https://mega.nz/folder/BlRVyArK#84n4ZhYZCRXLjt-KEP6u6g), [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [LinuxCommand](https://www.linuxcommand.org/tlcl.php) - *Linux Command Line Lessons*
 * [shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial) - *Shell Scripting Tutorial*
 * [explainshell.com](https://explainshell.com/) - *Match Command-Line Arguments to Help Text*
 * [ShellCheck](https://www.shellcheck.net/) - *Shell Script Bug Check*
@@ -311,6 +312,7 @@
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - *MacOS Virtualbox Installer*
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - *Windows 11 Desktop Client for macOS*
+* [Subsonic](https://github.com/twostraws/Subsonic) - *SwiftUI Audio Player*
 * [LimaVM](https://github.com/lima-vm/lima) - *Linux VM on MacOS*
 * [CrossOver](https://www.codeweavers.com/crossover) - *Run Windows Programs on Mac / Infinite Free Trials*
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - *Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/) / [Guide](https://dortania.github.io/OpenCore-Install-Guide/)*
