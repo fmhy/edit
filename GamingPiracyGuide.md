@@ -171,6 +171,7 @@
 * [NesFiles](https://www.nesfiles.com/) - *NES Roms / Emulators* 
 * [Eclipse](https://eclipseemu.me/play/) - *Online Mobile Multi-Console Emulator* 
 * [webnofrendo](https://zardam.github.io/webnofrendo/) - *NES Numworks Emulator*
+* [PopStarter](https://www.psx-place.com/threads/popstarter.19139/) - *PS1 Emulator for PS2 / [Converter](https://www.psx-place.com/resources/psxvcd-by-englishl1989.669/) / [Setup](https://github.com/Edvaniojosedasilva1992/Instalador-POPStarter)*
 * [/r/Roms](https://www.reddit.com/r/Roms/) - *Discussion Sub*
 * [RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list) - *Emulator Tool Index*
 * [RomHacking](https://www.romhacking.net/) - *Rom Translations &amp; Hacks*
