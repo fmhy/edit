@@ -37,7 +37,7 @@
 * [CanonOutsideOfAuto](http://www.canonoutsideofauto.ca/play/) - *Interactive Exposure Test* 
 * [distort-grid](https://github.com/snorpey/distort-grid) - *Grid Based Image Distortion*
 * [PaintingLight](https://lllyasviel.github.io/PaintingLight/) - *Digital Lighting Effect Generator*
-* [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - *Turn Simple Art into Photo Realistic Landscapes [Web](http://nvidia-research-mingyuliu.com/gaugan/)*
+* [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - *Turn Simple Art into Photo Realistic Landscapes / [Web](http://nvidia-research-mingyuliu.com/gaugan/)*
 * [DeepArt](https://deepart.io/), [AI Gahaku](https://ai-art.tokyo/en/), [Dreamscope](https://dreamscopeapp.com/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/) or [Deep Dream Generator](https://deepdreamgenerator.com/) - *Turn Photos into Artwork* 
 * [Tinter](https://tinter.uxie.io/) - *Image Hue Editor*
 * [WeGreyScale](https://www.wegrayscale.com/) - *Greyscale Videos / Images*
@@ -64,6 +64,7 @@
 * [Acme Annotator](https://acme.com/annotator/) - *Add Notes to a Picture* 
 * [Face Merging](https://www.faceplusplus.com/face-merging/) or [MorphThing](https://www.morphthing.com/) - *Face Merging Tool* 
 * [WebcamToy](https://webcamtoy.com/) or [HDBooth](https://www.hdbooth.net/) - *Webcam Effects*
+* [Latent Diffusion](https://github.com/CompVis/latent-diffusion) - *Image Synthesis with Latent Diffusion Models*
 
 ***
 
@@ -71,7 +72,7 @@
 
 * [Image Upscalers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_upscalers) - *Upscale Images*
 * [Croppola](https://croppola.com/), [Bulk Image Crop](https://bulkimagecrop.com/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - *Cropping Tool* 
-* [Seopix](https://www.seopix.io/) - *Resize & Compress Images*
+* [Seopix](https://www.seopix.io/) or [Reduce Images](https://www.reduceimages.com/) - *Resize & Compress Images*
 * [Simple Image Resizer](http://www.simpleimageresizer.com/), [fixpicture](https://www.fixpicture.org/), [Birme](https://www.birme.net/), [Online Image Resizer](https://online-image-resizer.com/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - *Resize Images*
 * [Resize App Icon](https://resizeappicon.com/) - *Resize Square Images* 
 * [SSizes](https://ssizes.com/) or [PixelHunter](https://pixelhunter.io/) - *Resize Images for Different Sites*
@@ -129,6 +130,7 @@
 * [Noise & Gradient](https://www.noiseandgradient.com/), [BGJar](https://bgjar.com/) or [BGGenerator](https://bggenerator.com/) - *Background Generator*
 * [stripegenerator](http://www.stripegenerator.com/) - *Stripe Generator* 
 * [MakeTintAndShade](https://maketintsandshades.com/) - *Tint and Shade Generator*
+* [Flow Field](https://github.com/romellogoodman/flow-field.js) - *Flow Field Generator*
 * [Trianglify.io](https://trianglify.io/) - *Generate low-poly Textures*
 * [BannerEasy](https://www.bannereasy.com) - *Create Custom Banners*
 * [SocialBanner](https://www.social-banner.live/) or [Mind Your Banners](https://www.mindyourbanners.com/) - *Social Media Banner Creator*
@@ -197,7 +199,7 @@
 * [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/) or [MediBang](https://medibangpaint.com/en/) - *Painting*
 * [Aggie.io](https://aggie.io/) - *Collaborative Painting*
 * [LizardPaint](https://lizardrive.itch.io/lizardpaint) - *Sega / Megadrive Painting*
-* [inkscape](https://inkscape.org/), [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q), [Sketch Toy](https://www.sketchtoy.com/), [Sketchbook](https://www.sketchbook.com/), [Webchemy](https://webchemy.org/) / [GitHub](https://github.com/bitbof/webchemy), [tldraw](https://www.tldraw.com/) or [Excalidraw](https://excalidraw.com/) - *Drawing / Sketching Tools* 
+* [inkscape](https://inkscape.org/), [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q), [Sketch Toy](https://www.sketchtoy.com/), [Sketchbook](https://www.sketchbook.com/), [Webchemy](https://webchemy.org/) / [GitHub](https://github.com/bitbof/webchemy), [tldraw](https://www.tldraw.com/), [Sketchpad](https://sketchpad.app/) / [2](https://sketch.io/sketchpad) or [Excalidraw](https://excalidraw.com/) - *Drawing / Sketching Tools* 
 * [Noodle](https://hundredrabbits.itch.io/noodle) - *1bit Sketch Tool*
 * [AutoDraw](https://www.autodraw.com/) - *Machine Learning Drawing Tool* 
 * [MonsterMash](https://monstermash.zone/) - *Sketch Based Modeling & Animation Tool*
@@ -341,12 +343,14 @@
 * [Image-to-Image](https://affinelayer.com/pixsrv/) - *Interactive Image Translation*
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - *Find Font from Image*
 * [Watermarkly](https://watermarkly.com/) or [Watermarkup](https://watermarkup.com/watermark.html) - *Image Watermarking*
+* [FPNG](https://github.com/richgel999/fpng) - *PNG Reader / Writer*
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - *Scan & Digitize Documents / iOS*
 * [Swapper](https://icons8.com/swapper) - *Face Swapper*
 * [DeepSort](https://github.com/CorentinB/DeepSort/) or [WiseTagger](https://github.com/0xb8/WiseTagger) - *Image Tagger* 
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) or [PhotoPrism](https://photoprism.app/) - *Automatically Organize & Tag Photos*
 * [Photo.net Tutorials](https://www.photo.net/learn/about/tutorials) - *Photography Tutorials*
 * [TryDraw](https://www.trydraw.com/) - *Improve Drawing Skills*
+* [3D printed mirror array](https://github.com/bencbartlett/3D-printed-mirror-array) - *Sunlight Pattern Mirror Array*
 
 ***
 
@@ -438,6 +442,7 @@
 * [FotoForensics](http://www.fotoforensics.com/), [Forensically](https://29a.ch/photo-forensics/) or [Ghiro](http://www.getghiro.org/) - *Photo Forensics Tool* 
 * [Image Identification Project](https://www.imageidentify.com/) - *Image Identification Tool* 
 * [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [ImSter](https://github.com/armytricks/ImSter) or [stegpy](https://github.com/dhsdshdhk/stegpy) - *Embed & Extract Hidden Data in Images / Steganography* 
+* [Ambiguous PNG Packer](https://github.com/DavidBuchanan314/ambiguous-png-packer) - *Create PNG that looks different on Apple Software*
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - *Blur Images / Scrub Metadata*
 * [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi), [Exif-Viewer](http://exif-viewer.com/), [metapicz](http://metapicz.com/), [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - *EXIF / Metadata Viewer* 
 * [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [MGOnline](https://www.imgonline.com.ua/delete-exif.php), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - *Remove Meta / EXIF Data* 
