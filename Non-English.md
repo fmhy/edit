@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/uXXJpzf.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/DkQkQLf.png)** - *For mobile users*
 
 ***
 ***
@@ -186,6 +186,7 @@
 * [Hifini](https://www.hifini.com/) - *Music*
 * [Huya](https://www.huya.com/) - *Live Streaming*
 * [數學老師張旭](https://space.bilibili.com/521685904) - *Math Lessons*
+* [free-project-course](https://github.com/resumejob/free-project-course) - *Programming Courses*
 * [Baidu SkyDrive Video Player](https://greasyfork.org/en/scripts/426952-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%B0%8A%E4%BA%AB-vip-%E8%A7%A3%E9%94%81%E8%A7%86%E9%A2%91%E5%80%8D%E6%95%B0-%E8%A7%A3%E9%94%81%E5%85%A8%E9%83%A8%E6%B8%85%E6%99%B0%E5%BA%A6) - *Baidu VIP Video Player*
 
 ## ▷ Reading 
@@ -265,6 +266,10 @@
 
 * [Elonet](https://elonet.finna.fi/) - *Movies* 
 * [Areena](https://areena.yle.fi/) - *Movies / TV*
+
+## ▷ Reading
+
+* [Lonnrot](http://www.lonnrot.net/) - *Books*
 
 ***
 
@@ -1391,7 +1396,8 @@ Portuguese
 * [elblogdelnarco](https://elblogdelnarco.com/) - *Drug Trafficking News*
 * [Diccionario RAE en un clic](https://chrome.google.com/webstore/detail/diccionario-rae-en-un-cli/gejdeepcjkfbepfkcfdgiodgoglakiii) - *Dictionary Extension*
 * [GermanDeutsch](https://t.me/GermanDeutsch) - *Learn German*
- 
+* [Bliscop](https://www.bliscop.com/) - *Online Payment Software*
+
 ## ▷ Downloading
 
 * [identi](https://identi.io/) - *Video / Audio / Software / Games* 
@@ -1491,6 +1497,7 @@ Portuguese
 * [Lectulandia](https://www.lectulandia.rocks/) - *Books*
 * [ePub Gratis](https://wvw.epubgratis.org/) - *Books* 
 * [cvillavicencio](https://www.cvillavicencio.com/archivos/?dir=ebooks) - *Books*
+* [El Libro Total](https://www.ellibrototal.com/ltotal/) - *Books / Audiobooks*
 * [librosintinta](https://www.librosintinta.in/) - *PDF Search*
 * [albalearning](https://albalearning.com/) - *Audiobooks* 
 * [mangadoor](http://mangadoor.com/) - *Manga* 
