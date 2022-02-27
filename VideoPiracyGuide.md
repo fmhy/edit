@@ -82,7 +82,7 @@
 * [MoviesDownloadHub](https://moviesdownloadhub.com/category/hollywood/) - *Movies / TV*
 * [FlixGo](https://flixgo.me/) - *Movies / TV*
 * [TheFlix](https://theflix.to/) - *Movies / TV*
-* [1movies](https://1movies.life/), [Real-Primewire](https://real-primewire.club/), [CouchTuner](https://couchtuner.fashion/) or [New-Primewire](https://ww1.new-primewire.com/) - *Movies / TV / Anime*
+* [1movies](https://1movies.life/), [Real-Primewire](https://real-primewire.club/), [CouchTuner](https://couchtuner.fashion/) or [New-Primewire](https://ww2.new-primewire.com/) - *Movies / TV / Anime*
 * [Vmovee HD](https://vmoveehd.com/) - *Movies / TV*
 * [VidStore](https://stream.vidzstore.com/) - *Movies*
 * [Mrswe](https://mrswe.com/) - *Movies / TV / [Discord](https://discord.com/invite/vH98xpmhxM) / [Ad Script](https://pastebin.com/sUkeh9ZH)*
