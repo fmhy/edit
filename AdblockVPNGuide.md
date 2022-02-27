@@ -347,7 +347,7 @@
 * [IP / DNS Leak Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_dns_leak_tests) - *Test for IP & DNS Leaks*
 * [DNSCookie](http://dnscookie.com/) - *Identify Related Network Flows*
 * [Microsoft Security Intelligence](https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest) - *Report Unsafe Sites*
-* [Phish.Report](https://phish.report/) - *Report Phishing Sites*
+* [Phish.Report](https://phish.report/) or [PhishTank](https://phishtank.org/) - *Report Phishing Sites*
 * [How-To Turn off IPv6](https://www.itechguides.com/disable-ipv6-windows-10/) - *Prevent IP Leaks*
 * [IPv6 Leak Test](https://ip6.nl/), [Test-IPv6](https://test-ipv6.com/) or [IPv6 Test](https://ipv6-test.com/) - *IPv6 Leak Test*
 * [Voidsec](https://ip.voidsec.com/) or [WebRTC Leak Test](https://www.expressvpn.com/webrtc-leak-test) - *WebRTC Leak Test*
