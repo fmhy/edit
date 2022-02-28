@@ -629,6 +629,7 @@
 * [Broadband Map](https://broadbandmap.fcc.gov/) - *Fixed Broadband Deployment Map*
 * [WiFiCard](https://wificard.io/) - *WiFi Info QRCode Generator*
 * [Master Networks & Scanning](https://mega.nz/folder/woQFAaLT#Eqvaip0R-kXi-lD8OIch7g) - *Network & Network Scanning Tutorials*
+* [Rang3r](https://github.com/floriankunushevci/rang3r) - *IP / Port Scanner*
 * [.new](https://whats.new/shortcuts) - *New Project Shortcuts*
 * [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - *Follow RSS Feeds*
 * [CTRLQ](https://ctrlq.org/rss/) or [RSS.app](https://rss.app/) - *RSS Feed Search* 
@@ -832,9 +833,9 @@
 * [Anime Torrent CSE]( https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz) - *Search Anime Torrent Sites*
 * [Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55) - *Search Audio Torrent Sites*
 * [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/)  - *Search Game Torrent Sites*
-* [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8), [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu), [3](https://cse.google.com/cse?cx=c46414ccb6a943e39) - *Search 
+* [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8),  [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [Rave Book Search](https://ravebooksearch.com/) - *Search Multiple Sites at once* 
 General Reading Sites*
-* [Audiobooks CSE]( https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd) - *Search Audiobook Sites*
+* [Audiobooks CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd) - *Search Audiobook Sites*
 * [Comics CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg) - *Search Comic Sites*
 * [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z), [2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - *Search Manga Sites*
 * [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8), [2](https://cse.google.com/cse?cx=73948689c2c206528), [3](https://cse.google.com/cse?cx=a805854b6a196d6a6) - *Search Android APK Sites*
@@ -851,7 +852,7 @@ General Reading Sites*
 * [Social-Searcher](https://www.social-searcher.com/), [HashFinder](https://www.hashfinder.xyz/) or [Social Mention](http://socialmention.com/) - *Social Media Search Engine*  
 * [EagleEye](https://github.com/ThoughtfulDev/EagleEye) - *Find Social Media Profiles From Image*
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - *Forum Search Engine* 
-* [Blog Search Engine](http://www.blogsearchengine.org/), [Blog-Search](https://www.blog-search.com/), [BlogErnity](http://www.bloggernity.com/), [BlogSurf](https://blogsurf.io/) or [SearchBlogspot](https://www.searchblogspot.com/) - *Blog Search*
+* [Blog Search Engine](http://www.blogsearchengine.org/), [Blog-Search](https://www.blog-search.com/), [BlogErnity](http://www.bloggernity.com/), [BlogSurf](https://blogsurf.io/), [Twoggle](https://twoggle.com/) or [SearchBlogspot](https://www.searchblogspot.com/) - *Blog Search*
 * [4chanSearch](https://4chansearch.com/) - *4chan Search*
 * [Git Search Engine](https://zzollo.co/) - *Search GitHub, GitLab ect.*
 * [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) - *Tik-Tok Search*
@@ -929,6 +930,15 @@ General Reading Sites*
 * [Scur](https://scur.link/) - `scur.link/pLyF`
 * [1kb](https://1kb.link/) - `1kb.link/acc0a`
 * [shrtcode](https://app.shrtco.de/) - `shrtco.de/lsoWP`
+* [bom.so](https://bom.so/) - `bom.so/VevMJv`
+* [by.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
+* [sum.vn](https://sum.vn/) - `sum.vn/DTrXk`
+* [ref.vn](https://ref.vn/) - `ref.vn/czuqfm`
+* [jii.li](https://jii.li/) - `jii.li/hNFXP`
+* [bitlink.vn](https://bitlink.vn/) - `bitlink.vn/1V61j`
+* [bitby.me](https://bitby.me/) - `bitby.me/IXxbR`
+* [bitty.id](https://bitty.id/) - `bitty.id/42hix6hj`
+* [qrvn.cc](http://qrvn.cc/) - `qrvn.cc/Zzue41i`
 * [Rebrandly](https://www.rebrandly.com/) - `rb.gy/4m25hq` / [Extension](https://mybrowseraddon.com/g-url-shortener.html)
 * [u.nu](https://u.nu/) - `u.nu/5nhzi`
 * [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
@@ -1327,7 +1337,7 @@ General Reading Sites*
 * [BetterTTV](https://betterttv.com/) or [FrankerFacez](https://www.frankerfacez.com/) - *Twitch Enhancement Extension*
 * [Stream Scheme](https://www.streamscheme.com/) - *Livestreaming Guides & Resources*
 * [Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f) - *Twitch Extension Index*
-* [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  *Download Twitch Videos* 
+* [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl), [Windsya](https://www.windsya.com/, [ClipsGameLab](https://clipsgamelab.github.io/) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  *Download Twitch Videos / Clips* 
 * [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - *Recover, View & Download Twitch Videos*
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - *Lightweight Twitch Webplayer*
 * [Twitchls](https://twitchls.com/) - *HTML5 Twitch Stream Player* 
@@ -1843,7 +1853,7 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [Adobe Excel to PDF](https://www.adobe.com/acrobat/online/excel-to-pdf.html) - *Convert Excel Files to PDF*
 * [JPG-to-PDF](https://github.com/praneetk2704/JPG-to-PDF) [Images to PDF](https://github.com/Swati4star/Images-to-PDF), [JPG2PDFBot](https://t.me/JPG2PDFBot), [Adobe Converter](https://www.adobe.com/acrobat/online/jpg-to-pdf.html) or [img2pdf](https://pypi.org/project/img2pdf/) - *Image to PDF Converter*
 * [PDFmyURL](https://pdfmyurl.com/) - *Convert Web Page to PDF* 
-* [PDFCrowd](https://pdfcrowd.com/) or [wkhtmltopdf](https://wkhtmltopdf.org/) - *HTML to PDF / Image Converter*
+* [PDFCrowd](https://pdfcrowd.com/), [HTMLaPDF](https://www.htmlapdf.com/ ) or [wkhtmltopdf](https://wkhtmltopdf.org/) - *HTML to PDF / Image Converter*
 * [ShowPDF](http://showpdf.com/) - *PDF to HTML Converter*
 * [PSTOEdit](http://pstoedit.net/) - *Convert PDF to other Vector Formats* 
 * [Issuu](https://issuu.com/) - *Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/), [3](https://docdownload.net/)* 
