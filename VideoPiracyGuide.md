@@ -669,6 +669,7 @@
 * [TwitchDL](https://dl2.twitchdl.us/) - *Movies / TV / Anime*
 * [O2TVSeriesz](https://o2tvseriesz.com/) - *Movies / TV*
 * [HDWebMovies](https://hdwebmovies.org/) - *Movies / TV*
+* [Privatemoviez](https://privatemoviez.org/ ) - *Movies / TV*
 * [7Moviesrulz](https://7movierulz.se/category/hollywood-movie-2021/) - *Movies*
 * [oKhatrimaza](https://www.okhatrimaza.vin/category/7/hollywood-english-movies/default/1.html) - *Movies*
 * [SD Movies Point](https://1sdmoviespoint.kim/category/hollywooddd/) - *Movies / TV*
@@ -682,7 +683,6 @@
 * [FilmyZilla](https://filmyzilla.fit/category/latest-hollywood-english-movies.html) - *Movies*
 * [7StarHD](https://7starhd.cards/category/hollywood/) - *Movies / TV*
 * [LatestMovie4U](https://latestmovie4u.com/) - *Movies / TV / Anime* 
-* [PrivateMoviez](https://privatemoviez.cc/) - *Movies / TV / Anime*
 * [CoolMovieZone](https://coolmoviezone.lat/) - *Movies*
 * [VegaMovies](https://vegamovies.onl/category/english/), [2](https://vegamovies.red/) - *Movies / [Telegram](https://vegadrive.xyz/join.php) / [2](https://t.me/Vegamoviesgroup2)*
 * [Subroz](https://subroz.live/0:/) - *Movies / TV*
