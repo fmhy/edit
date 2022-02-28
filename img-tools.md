@@ -16,7 +16,7 @@
 * **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/), [4](https://mega.nz/file/E5MwmT5Z#YP-vMSTcm8voKjb72_nHsLYH1AGmliWsbUGXVJhNHDE) - *Design Tool Resource Indexes*   
 * **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [GlitchyImage](https://glitchyimage.com/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - *Glitch Images*
 * [rexpaint](https://www.gridsagegames.com/rexpaint/) or [Playscii](https://jp.itch.io/playscii) - *ASCII Art Editor*
-* [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Canva](http://canva.com/), [Stencil](https://getstencil.com/), [Design Studio](https://designstudio.smallseotools.com/), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/), [ArtBoard](https://artboard.studio/) or [Glitterly](https://glitterly.app/) - *Graphic Design Tools*
+* [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Canva](http://canva.com/), [Stencil](https://getstencil.com/), [Design Studio](https://designstudio.smallseotools.com/), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/), [Scenify](https://editor.scenify.dev/), [ArtBoard](https://artboard.studio/) or [Glitterly](https://glitterly.app/) - *Graphic Design Tools*
 * [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/), [designspiration](https://www.designspiration.net/) or [inspirationde](https://www.inspirationde.com/) - *Graphic Design Inspirations*
 * [IRA Design](https://iradesign.io/) - *Illustration Creator*
 * [Scribus](http://www.scribus.net/) - *Page Layout & Typesetting Program*
@@ -105,7 +105,7 @@
 * [ArtFlow](http://artflow.ai/), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/) or [Avataaars](https://getavataaars.com/) - *Face / Avatar Generator*
 * [Mirro-Ai](https://mirror-ai.com/) - *Get Stickers With Your Face*
 * [EmojiMix](https://tikolu.net/emojimix) - *Combine Emojis*
-* [Emojination](https://www.emojination.io/) - *Emoji Graphic Generator*
+* [Emojination](https://www.emojination.io/) or [Ccclaymoji](https://fffuel.co/ccclaymoji/) - *Emoji Graphic Generator*
 * [imgsli](https://imgsli.com/) - *Before & After Slider Generator*
 * [DCGAN](http://mattya.github.io/chainer-DCGAN/) - *Anime Icon Generator* 
 * [99 Avatars](https://99avatars.com/) - *Create Doodle Avatar*
@@ -117,6 +117,7 @@
 * [Make Photo Gallery](https://makephotogallery.net/) - *Photo Gallery Creator*
 * [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - *Image to ASCII Art Generator*
 * [ASCII Paint](http://ascii.alienmelon.com/) - *ASCII Art Creator*
+* [Text-Image](https://www.text-image.com/) - *Text Image Generator*
 * [dream](https://app.wombo.art/) - *Dream Art Generator*
 * [Uji](https://doersino.github.io/uji/) - *Minimalist Art Generator*
 * [Mosaic](https://github.com/Roman-/mosaic) - *Rubik's Cube Mosaic Generator*
@@ -349,6 +350,7 @@
 * [DeepSort](https://github.com/CorentinB/DeepSort/) or [WiseTagger](https://github.com/0xb8/WiseTagger) - *Image Tagger* 
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) or [PhotoPrism](https://photoprism.app/) - *Automatically Organize & Tag Photos*
 * [Photo.net Tutorials](https://www.photo.net/learn/about/tutorials) - *Photography Tutorials*
+* [3DVKARTS](https://3dvkarts.net/) - *Drawing Tutorials*
 * [TryDraw](https://www.trydraw.com/) - *Improve Drawing Skills*
 * [3D printed mirror array](https://github.com/bencbartlett/3D-printed-mirror-array) - *Sunlight Pattern Mirror Array*
 
