@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/AMLxEQw.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/DkQkQLf.png)** - *For mobile users*
 
 ***
 ***
@@ -595,16 +595,10 @@ French / General Torrent Tracker
 
 ## ▷ Downloading 
 
-* [OverDay](https://overday.info/) - *Software / Games / Android / Courses / Books*
 * [HD4Me](https://hd4me.net/) - *Movies*
 * [xNavigation](https://www.xnavigation.net/) - *Freeware*
 * [GamesReplay](https://www.gamesreplay.net/) - *Retro Roms*
 * [TheDubber](http://www.thedubber.altervista.org/) - *Retroware Archive*
-* [XDCC Mule](https://www.xdccmule.org/) - *IRC Download Search*
-
-## ▷ Torrenting
-
-* [ilCorSaRoNeRo](https://ilcorsaronero.fun/), [2](https://travelpayd.co.uk/), [3](https://www.ilcorsaronero.in/) - *Video / Audio / Software / Games / Roms / Books / Audiobooks*
 
 ## ▷ Streaming
 
@@ -617,7 +611,6 @@ French / General Torrent Tracker
 ## ▷ Reading
 
 * [Solu](https://solu.zone/) - *Textbook Solutions*
-* [Slumberland](http://www.slumberland.it/) - *Comic Encyclopedia*
 
 ***
 
@@ -1610,10 +1603,20 @@ Portuguese
 
 * [Coccoc](https://coccoc.com/search) - *Search*
 * [EPhoto360](https://ephoto360.com/) - *Photo Effects*
+* [Runvn](https://run.vn/) - *Emoji*
 * [hostsVN](https://bigdargon.github.io/hostsVN/) or [iBlockAds](https://iblockads.net/) - *Vietnamese Adblock Filters*
 
+## ▷ URL Tools
+* [bom.so] (https://bom.so/) - bom.so/VevMJv
+* [by.com.vn] (https://by.com.vn/) - by.com.vn/tKYeSo
+* [sum.vn] (https://sum.vn/) - sum.vn/DTrXk
+* [ref.vn] (https://ref.vn/) - ref.vn/czuqfm
+* [jii.li] (https://jii.li/) - jii.li/hNFXP
+* [bitlink.vn] (https://bitlink.vn/) - bitlink.vn/1V61j
+* [bitby.me] (https://bitby.me/) - bitby.me/IXxbR
+* [bitty.id] (https://bitty.id/) - bitty.id/42hix6hj
+* [qrvn.cc] (http://qrvn.cc/) - qrvn.cc/Zzue41i
 
-  
 ## ▷ Downloading
 
 * [Taiwebs](https://taiwebs.com/) - *Software / Android / Games*
@@ -1621,10 +1624,14 @@ Portuguese
 * [Softonic](https://www.softonic.vn/) - *Software / Android / Games*
 * [SoftBuzz](https://softbuzz.net/) - *Software / Games*
 * [Downvn](https://down.vn/) - *Software / Android / Games*
+* [KhiPhach](https://khiphach.vn/) - *Software / Android / Games*
+* [PhuDeViet](http://phudeviet.org/) - *Subtitles*
 * [DownloadVN](https://download.com.vn/) - *Software / Android / Games*
 * [TaiMienPhi](https://taimienphi.vn/) - *Software / Android / Games*
-* [HDVietnam](http://www.hdvietnam.com/forums/) - *Video / Audio / Software*
-* [FreeHD](https://freehd.me/) - *Movies / TV / Anime*
+* [PhimDidibkk](https://phim.didibkk.com/) - *Movies / TV / Anime*
+* [CineTV](https://thuviencine.com/) - *Movies / TV / Anime*
+* [ThuvienHD](https://thuvienhd.com/) - *Movies / TV / Anime*
+* [WebTaiPhim](https://webtaiphim.com/) - *Movies / TV / Anime*
 * [ChiaSeNhac](https://chiasenhac.vn/) - *Music*
 * [ChiaSeAPK](https://www.chiaseapk.com/) - *Modded APKs*
 * [GocMod](https://www.gocmod.com/) - *Modded APKs*
@@ -1637,14 +1644,21 @@ Portuguese
 ## ▷ Streaming
 
 * [TVHai](http://tvhai.org/) - *Movies / TV*
-* [VPHimZZ](https://vphimzz.net/) - *Movies / TV*
-* [PhimTor ](https://phimtor.com/) - *Movies*
+* [VPHim](https://vphimzz.net/) - *Movies / TV*
+* [MotChill](https://motchill.net/) - *Movies / TV*
+* [OPhim](https://ophim.net/) - *Movies / TV*
+* [PhimBo](https://phimbo.tv/) - *Movies / TV*
+* [Phim1080](https://phim1080z.com/) - *Movies / TV*
+* [PhimHD](http://phimhd.xyz/) - *Movies / TV*
+* [PhimGi](https://phimgii.tv/) - *Movies / TV*
+* [PhimTor](https://phimtor.com/) - *Movies*
 * [VuiGhe](https://vuighe.net/) - *Anime*
 * [AnimeHay](https://animehay.club/) - *Anime*
 * [AnimeTVN](https://animetvn.com/) - *Anime*
 * [VietToons](https://viettoons.tv/) - *Cartoons*
 * [TVOnline](http://tvonline.vn/) - *Live TV*
 * [ZingMP3](https://zingmp3.vn/) - *Music*
+* [Nhacvn](https://nhac.vn/) - *Music*
 * [NhacCuaTui](https://www.nhaccuatui.com/) - *Music*
 
 ## ▷ Reading
