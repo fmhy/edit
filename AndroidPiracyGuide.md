@@ -270,6 +270,7 @@
 * [WhatsappWebToGo](https://github.com/92lleo/WhatsappWebToGo) - *Mobile WhatsApp Web Client*
 * [Whatsapp Groups](https://whatsaplinks.com/) - *Whatsapp Group Links*
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - *Read Exported Whatsapp Chats*
+* [FakeWhats](https://www.fakewhats.com/) - *Fake WhatsApp Messages*
 * [Watomatic](https://watomatic.app/) / [Git](https://github.com/adeekshith/watomatic) or [AutoResponder](https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDEhkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDGAA=:S:ANO1ljKlL8g&gsr=CjuKAzgKGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMSGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMYAA==:S:ANO1ljLE-Ks) - *Chat App Auto-Responders*
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - *Article / Link Viewer*
 * [Better Open With](https://play.google.com/store/apps/details?id=com.aboutmycode.betteropenwith) - *Improved Link Handling*
