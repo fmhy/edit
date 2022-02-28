@@ -773,6 +773,7 @@
 * [Python Patterns](https://python-patterns.guide/) - *Python Design Patterns*
 * [Dodgy](https://github.com/landscapeio/dodgy) - *Find PWs & Diffs in Python Code*
 * [Pyright](https://github.com/microsoft/pyright) - *Static Type Checker for Python*
+* [PyRegex](http://www.pyregex.com/) - *Python Regex Test*
 * [JSPyBride](https://github.com/extremeheat/JSPyBridge) - *Interoperate Node.js and Python*
 * [python-adb](https://github.com/google/python-adb) - *Python ADB + Fastboot Implementation*
 * [pipx](https://pypa.github.io/pipx/) - *Execute Python Binaries in Isolated Environments*
