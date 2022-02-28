@@ -217,6 +217,7 @@
 * [Stock Trading Courses](https://mega.nz/folder/RNERkCIS#w0DcWggAasYz8vKl1jHkGw) - *Trading Courses*
 * [Traders Heaven](https://mega.nz/folder/QhYyTRRD#qNNIFuq3YGchXA1qS-Yqow) - *Trading Courses*
 * [Udemy - Cybersecurity Collection](https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD) - *Cyber Security Courses*
+* [@H4CKT3R](https://mega.nz/folder/w8VHhSaY#fsM0AdXn8a3bRljWfJSdVg) - *Cyber Security Courses*
 * [500GB+ Cyber Security](https://mega.nz/folder/ZLB3CSwK#EXp6VnwcAEI1WE8xVwZZuQ) - *Cyber Security Courses*
 * [Skills for All](https://skillsforall.com/) - *Cyber Security Courses*
 * [CISSP Certifications](https://drive.google.com/drive/u/0/folders/1AWJHcWt4KngV2ijEFHmh74-HHMwSR16u) - *Cyber Security Lessons*
@@ -447,6 +448,7 @@
 * [Listening Lab](https://www.esl-lab.com/) - *English Listening Practice*
 * [Podcasts in English](https://www.podcastsinenglish.com/) - *English Learning Podcasts*
 * [Free4Talk](https://www.free4talk.com/) or [Speaking24](http://www.speaking24.com/) - *English Practice Community*
+* [EnglishBanana](https://www.englishbanana.com/) - *English Learning Worksheets*
 * [MyLanguages](http://mylanguages.org/) or [Langeek](https://langeek.co/) - *Grammar / Vocabulary Language Learning*
 * [Vocatra](https://esite.ch/vocatra/) - *Vocabulary Trainer*
 * [EnglishAccentMap](https://www.englishaccentsmap.com/) - *English Accent Videos / Map* 
