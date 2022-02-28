@@ -149,6 +149,7 @@
 * [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - *Malware Search Extension* 
 * [JShelter](https://jshelter.org/) - *Anti-Malware Extension*
 * [Malware Analysis Search](https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu)
+* [CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - *Log4j2 CVE-2021-44228 Vulnerability Scanner*
 
 ***
 
@@ -171,7 +172,7 @@
 * [Privacy.Sexy](https://privacy.sexy/) - *Privacy Scripts* 
 * [Privacy Settings](https://github.com/the-weird-aquarian/privacy-settings) - *Privacy Setting Guides*
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - *Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)*
-* [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) or [Anon Security](https://t.me/anon_server) - *Cybersecurity Resources*
+* [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/), [Infosec Resources](https://github.com/stong/infosec-resources) or [Anon Security](https://t.me/anon_server) - *Cybersecurity Resources*
 * [The White Circle](https://twc1rcle.com/) - *Cyber Security Community*
 * [Att&ck](https://attack.mitre.org/) - *Cybersecurity Defense Database*
 * [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - *Anti-Censorship tool index* 
