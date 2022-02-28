@@ -56,6 +56,7 @@
 * [Vapor Archive](https://vaporarchive.neocities.org/) - *Vaporwave*
 * [hypem](https://hypem.com/popular) - *Rising*
 * [datpiff](https://www.datpiff.com/) - *Mixtapes*
+* [GlobalDJMix](https://globaldjmix.com/) - *DJ Mixes*
 * [pumpyouup](http://www.pumpyouup.com/) - *Indie Dubstep*
 * [musopen](https://musopen.org/music/) - *Classical*
 * [Bandcamp](https://bandcamp.com/tag/free-music?tab=all_releases) or [Hidden Bandcamp Tracks](https://github.com/7x11x13/hidden-bandcamp-tracks) - *Free Bandcamp Music* 
@@ -80,7 +81,7 @@
 * [KeyGenMusic](http://www.keygenmusic.net/) or [keygenmusic.tk](https://keygenmusic.tk/) - *Keygen Music* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - *East African Recordings* 
-* [Free Music Archive](https://www.freemusicarchive.org/), [freesoundtrackmusic](https://www.freesoundtrackmusic.com/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [StreamBeats](https://www.streambeats.com/), [Mubert](https://mubert.com/), [ccHound](https://cchound.com/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
+* [Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music) - *Free Music for Projects*
 * [Battle of the Bits](https://battleofthebits.org/) - *User-Made Music Competitions* 
 * [Openwhyd](https://openwhyd.org/) - *Music Sharing Community / [Chrome](https://chrome.google.com/webstore/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)*
 * [Bandcamp New Tab](https://chrome.google.com/webstore/detail/bandcamp-new-tab/nbabnnemlofbllcflfjpjgkgmcdbeemc) - *Random Bandcamp Songs on New Tabs*
