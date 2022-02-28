@@ -58,7 +58,7 @@
 
 # ► Reading Sites
 
-* **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [4](https://ravebooksearch.com/) - *Search Multiple Sites at once* 
+* **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [5](https://ravebooksearch.com/) - *Search Multiple Sites at once* 
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "Books / Comics / Magazines"*
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "Books / Comics / Magazines"*
 * **[Mobilism](https://forum.mobilism.org)** - *Books / Audiobooks / Magazines / Newspapers / Comics*
@@ -138,6 +138,7 @@
 * [eBook777](https://www.ebooks777.net/) - *Books*
 * [Novels80](https://novels80.com/) - *Books*
 * [myebooksfree](https://www.myebooksfree.com/) - *Books*
+* [English E-Reader](https://english-e-reader.net/) - *Books*
 * [Bibliomania](http://www.bibliomania.com/bibliomania-static/index.html) - *Books*
 * [ReadCentral](https://www.readcentral.com/) - *Books*
 * [Authorama](http://www.authorama.com/) - *Books*
@@ -170,6 +171,7 @@
 * [British Library](https://www.bl.uk/) - *Books*
 * [EbookLobby](http://ebooklobby.com/) - *Books*
 * [KingAuthor](https://kingauthor.net/) - *Books* 
+* [FreeEditorial](https://www.freeditorial.com/) - *Books*
 * [Zoboko](https://zoboko.com/) - *Books*
 * [Standard EBooks](https://standardebooks.org/) - *Books*
 * [Google Play Books](https://play.google.com/store/books/collection/topselling_free) - *Books* 
