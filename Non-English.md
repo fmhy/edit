@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/DkQkQLf.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/AMLxEQw.png)** - *For mobile users*
 
 ***
 ***
@@ -595,10 +595,16 @@ French / General Torrent Tracker
 
 ## ▷ Downloading 
 
+* [OverDay](https://overday.info/) - *Software / Games / Android / Courses / Books*
 * [HD4Me](https://hd4me.net/) - *Movies*
 * [xNavigation](https://www.xnavigation.net/) - *Freeware*
 * [GamesReplay](https://www.gamesreplay.net/) - *Retro Roms*
 * [TheDubber](http://www.thedubber.altervista.org/) - *Retroware Archive*
+* [XDCC Mule](https://www.xdccmule.org/) - *IRC Download Search*
+
+## ▷ Torrenting
+
+* [ilCorSaRoNeRo](https://ilcorsaronero.fun/), [2](https://travelpayd.co.uk/), [3](https://www.ilcorsaronero.in/) - *Video / Audio / Software / Games / Roms / Books / Audiobooks*
 
 ## ▷ Streaming
 
@@ -611,6 +617,7 @@ French / General Torrent Tracker
 ## ▷ Reading
 
 * [Solu](https://solu.zone/) - *Textbook Solutions*
+* [Slumberland](http://www.slumberland.it/) - *Comic Encyclopedia*
 
 ***
 
