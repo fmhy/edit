@@ -1660,6 +1660,7 @@ Portuguese
 * [AnimeHay](https://animehay.club/) - *Anime*
 * [AnimeTVN](https://animetvn.com/) - *Anime*
 * [VietToons](https://viettoons.tv/) - *Cartoons*
+* [TokuVN](https://tokuvn.com/) - *Tokusatsu*
 * [TVOnline](http://tvonline.vn/) - *Live TV*
 * [XemBD](https://xembd.link/) - *Live Soccer*
 * [ZingMP3](https://zingmp3.vn/) - *Music*
@@ -1667,6 +1668,10 @@ Portuguese
 
 ## ▷ Reading
 
+* [VietComic](https://vietcomic.net/) - *Comics*
+* [SachVui](https://sachvui.vn/) - *Books*
+* [WebDocSach](https://webdocsach.net/) - *Books*
+* [MeTaiSach](https://metaisach.com/) - *Books*
 * [Cmangaka](https://cmangaka.com/) - *Manga*
 * [TruyenQQ](http://truyenqqvip.com/) - *Manga*
 * [Nettruyengo](http://www.nettruyengo.com/) - *Manga*
