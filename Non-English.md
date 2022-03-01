@@ -1655,11 +1655,17 @@ Portuguese
 * [PhimHD](http://phimhd.xyz/) - *Movies / TV*
 * [PhimGi](https://phimgii.tv/) - *Movies / TV*
 * [PhimTor](https://phimtor.com/) - *Movies*
+* [HoatHinhTQ](https://www.hhtq.net/) - *Chinese Animation*
+* [HHTQtv](https://hhtq.tv/) - *Chinese Animation*
+* [HHPanda](https://hhpanda.tv/) - *Chinese Animation*
+* [HHNinja](https://www.hhninja.xyz/) - *Chinese Animation*
+* [HHKungfu](https://hhhkungfu.tv/) - *Chinese Animation*
 * [VuiGhe](https://vuighe.net/) - *Anime*
 * [AnimeHay](https://animehay.club/) - *Anime*
 * [AnimeTVN](https://animetvn.com/) - *Anime*
 * [VietToons](https://viettoons.tv/) - *Cartoons*
 * [TVOnline](http://tvonline.vn/) - *Live TV*
+* [XemBD](https://xembd.link/) - *Live Soccer*
 * [ZingMP3](https://zingmp3.vn/) - *Music*
 * [NhacCuaTui](https://www.nhaccuatui.com/) - *Music*
 
