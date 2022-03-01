@@ -9,10 +9,6 @@
 ***
 ***
 
-**Note** - Some of these sites have lots of ads so make sure you have a [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy) enabled
-
-***
-
 # ► Arabic 
 
 * [Wudooh](https://wudooh.app/) - *Make Arabic Text Clearer*
