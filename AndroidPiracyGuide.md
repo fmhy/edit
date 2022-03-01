@@ -386,6 +386,7 @@
 * [IzzyOnDroid](https://android.izzysoft.de/applists.php) - *App Repository / [F-Droid](https://apt.izzysoft.de/fdroid/index.php)* 
 * [Haoict Repository](https://haoict.github.io/cydia/) - *App Repository*
 * [DivestOS](https://divestos.org/fdroid/official/) - *App Repository*
+* [CyPwn](https://repo.cypwn.xyz/) - *App Repository / [Discord](https://discord.gg/cypwn)*
 * [TeamOS](https://www.teamos-hkrg.com/) - *Modded / Forum* 
 * [Aurora Store](https://auroraoss.com/), [2](https://f-droid.org/en/packages/com.aurora.store/) or [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) - *Alt App Store*
 * [Bypass Aurora Hardware & Geo Restricted Limits](https://youtu.be/L5RrtxQUtVE)
