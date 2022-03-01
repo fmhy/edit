@@ -1606,11 +1606,12 @@ Portuguese
 
 ***
 
-# ► Vietnamese
-Use an adblock filters before visiting any of the linked sites.
+# ► Vietnamese 
+
+Note - Vietnamese sites have many ads so use a [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy)
 
 * [Coccoc](https://coccoc.com/search) - *Search*
- * [PhuDeViet](http://phudeviet.org/) - *Subtitles*
+* [PhuDeViet](http://phudeviet.org/) - *Subtitles*
 * [EPhoto360](https://ephoto360.com/) - *Photo Effects*
 * [Run.vn](https://run.vn/ ) - *Emojis*
 * [hostsVN](https://bigdargon.github.io/hostsVN/) or [iBlockAds](https://iblockads.net/) - *Vietnamese Adblock Filters*
