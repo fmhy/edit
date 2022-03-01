@@ -1608,12 +1608,17 @@ Portuguese
 
 # ► Vietnamese 
 
-* [Coccoc](https://coccoc.com/search) - *Search*
+* [CocCoc](https://coccoc.com/) - *Browser / Search*
 * [PhuDeViet](http://phudeviet.org/) - *Subtitles*
+* [Dafontvn](https://www.dafontvn.com/) - *Fonts*
 * [EPhoto360](https://ephoto360.com/) - *Photo Effects*
+* [ThiepMung](https://thiepmung.com/) - *Photo Effects*
+* [AnhSieuViet](https://anhsieuviet.com/) - *Image Hosting*
 * [GameVui](https://gamevui.vn/) - *Browser Games*
 * [Game24h](https://game24h.vn/) - *Browser Games*
-* [Run.vn](https://run.vn/ ) - *Emojis*
+* [Unikey](https://www.unikey.org/) - *Vietnamese Keyboard*
+* [Run.vn](https://run.vn/) - *Emojis*
+* [Babla](https://www.babla.vn/) - *Dictionary*
 * [hostsVN](https://bigdargon.github.io/hostsVN/) or [iBlockAds](https://iblockads.net/) - *Vietnamese Adblock Filters*
 
 ## ▷ Downloading
@@ -1642,7 +1647,7 @@ Portuguese
 
 ## ▷ Streaming
 
-* [TVHai](http://tvhai.org/) - *Movies / TV*
+* [TVHai](http://tvhai.org/) - *Movies / TV / Anime*
 * [VPHim](https://vphimzz.net/) - *Movies / TV*
 * [MotChill](https://motchill.net/) - *Movies / TV*
 * [OPhim](https://ophim.net/) - *Movies / TV*
