@@ -1606,7 +1606,8 @@ Portuguese
 
 ***
 
-# ► Vietnamese 
+# ► Vietnamese
+Use an adblock filters before visiting any of the linked sites.
 
 * [Coccoc](https://coccoc.com/search) - *Search*
  * [PhuDeViet](http://phudeviet.org/) - *Subtitles*
