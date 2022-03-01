@@ -1615,6 +1615,8 @@ Portuguese
 * [Coccoc](https://coccoc.com/search) - *Search*
 * [PhuDeViet](http://phudeviet.org/) - *Subtitles*
 * [EPhoto360](https://ephoto360.com/) - *Photo Effects*
+* [GameVui](https://gamevui.vn/) - *Browser Games*
+* [Game24h](https://game24h.vn/) - *Browser Games*
 * [Run.vn](https://run.vn/ ) - *Emojis*
 * [hostsVN](https://bigdargon.github.io/hostsVN/) or [iBlockAds](https://iblockads.net/) - *Vietnamese Adblock Filters*
 
