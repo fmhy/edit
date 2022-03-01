@@ -286,7 +286,7 @@
 * [WebRTC Control](https://mybrowseraddon.com/webrtc-control.html) or [WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) - *Enable / Disable WebRTC* 
 * [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) - *WebRTC Network Traffic Config* 
 * [GPSDetect](https://github.com/allanlw/gps-detect) - *Alerts user when JPEG contains EXIF GPS coordinates*  
-* [Forget Me Not](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect) - *Only keeps website data for sites you choose*
+* [Forget Me Not](https://addons.mozilla.org/en-US/firefox/addon/forget_me_not/) - *Only keeps website data for sites you choose*
 * [Secure Password Generator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_secure_password_generator) or [Password Generator](https://github.com/XFox111/PasswordGeneratorExtension) - *Password Generator* 
 * [Private Bookmarks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password-protected_bookmarks) - *Password Protected Bookmarks*
 * [Permission Inspector](https://github.com/tsl143/addonManager) - *Extension Permissions Inspector* 
