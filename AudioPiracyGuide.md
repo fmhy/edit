@@ -56,7 +56,6 @@
 * [Vapor Archive](https://vaporarchive.neocities.org/) - *Vaporwave*
 * [hypem](https://hypem.com/popular) - *Rising*
 * [datpiff](https://www.datpiff.com/) - *Mixtapes*
-* [GlobalDJMix](https://globaldjmix.com/) - *DJ Mixes*
 * [pumpyouup](http://www.pumpyouup.com/) - *Indie Dubstep*
 * [musopen](https://musopen.org/music/) - *Classical*
 * [Bandcamp](https://bandcamp.com/tag/free-music?tab=all_releases) or [Hidden Bandcamp Tracks](https://github.com/7x11x13/hidden-bandcamp-tracks) - *Free Bandcamp Music* 
@@ -354,6 +353,7 @@
 * [Ektoplazm](https://ektoplazm.com/) - *Electronic / MP3 / FLAC*
 * [1Trance](https://1trance.org/) - *Trance / MP3*
 * [1Techno](https://1techno.org/) - *Techno / MP3*
+* [GlobalDJMix](https://globaldjmix.com/) - *DJ Mixes / MP3*
 * [Vaporwave Library Project](https://vaporwave.ivan.moe/) - *Vaporwave*
 * [loa2k](https://loa2k.neocities.org/) - *Vaporwave*
 * [nu guide](https://nuvaporwave.neocities.org/mirrors.html) - *Vaporwave*
