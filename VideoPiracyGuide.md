@@ -852,6 +852,7 @@
 * [Vuze](https://www.vuze.com/content/) - *Movies / TV* 
 * [ATORRENTS](https://atorrents.com/) - *Movies*
 * [TorrentCue](http://torrrentcue.cc/Hollywood.html) - *Movies*
+* [EniaHD](https://eniahd.com/) - *Movies / TV*
 * [TorHD](https://torhd.com/) - *Movies*
 * [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - *Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)*
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - *Movies*
