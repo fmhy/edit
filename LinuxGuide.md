@@ -259,7 +259,7 @@
 
 # ► Linux Gaming
 
-* **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** 
+* **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** - *Linux Gaming Guides*
 * **[protondb](https://www.protondb.com/)** or **[Lutris](https://lutris.net/)** - *Play Windows games on Linux*
 * **[Torrminatorr](https://forum.torrminatorr.com/)** - *Linux Games*
 * **[johncena141](https://1337x.to/user/johncena141/)** - *Linux Games*
