@@ -259,16 +259,15 @@
 
 # ► Linux Gaming
 
-* **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/comments/mfnvsl/megathread_how_to_play_on_linux/)** or [FitGirl Guide](https://old.reddit.com/r/Piracy/comments/d8rsvm/a_quick_guide_on_installing_fitgirl_repacks_on/) - *Linux Gaming Guides*
+* **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** 
 * **[protondb](https://www.protondb.com/)** or **[Lutris](https://lutris.net/)** - *Play Windows games on Linux*
 * **[Torrminatorr](https://forum.torrminatorr.com/)** - *Linux Games*
 * **[johncena141](https://1337x.to/user/johncena141/)** - *Linux Games*
 * [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - *Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [GameHub](https://tkashkin.github.io/projects/gamehub/) - *Game Manager*
 * [SCNLOG](https://scnlog.me/) - *Linux Games*
-* [de.linuxgame.cn](https://de.linuxgame.cn/) - *Linux Games* 
-* [The KDE Games Center](https://games.kde.org/) - *Linux Games*
 * [Free Linux PC Games](https://freelinuxpcgames.com/) - *Linux Games*
+* [The KDE Games Center](https://games.kde.org/) - *Linux Games*
 * [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/wiki/) - *Wiki for Linux Gaming*
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - *Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)*
 * [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) - *Install & Manage Proton-GE for Steam / Wine*
