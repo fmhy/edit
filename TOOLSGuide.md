@@ -1087,6 +1087,7 @@ General Reading Sites*
 * [Overlayed](https://overlayed.dev/) - *Alternate Discord Overlay / [Github](https://github.com/Hacksore/overlayed)*
 * [crocodile](https://github.com/tbodt/crocodile) - *Discord Client for TempleOS*
 * [displunger](https://gitlab.com/derpystuff/displunger) - *Run Old Versions of Discord*
+* [DevilNo](https://docs.google.com/spreadsheets/d/1hsSigFjyTaTnvB5XS6ot-msCZS5DR4VWtiD5g1ebH8c/edit?usp=sharing) - *Alternative DevilBro Plugins*
 * [Acrylic](https://github.com/xirreal/Acrylic) - *Glass Discord Theme*
 * [NotQuiteNitro](https://nqn.blue/) - *Discord Nitro Alternative*
 * [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - *Use Discord Emojis without Nitro* 
