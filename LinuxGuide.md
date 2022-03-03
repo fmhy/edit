@@ -135,6 +135,7 @@
 * [Flowblade](https://github.com/jliljebl/flowblade) - *Video Editor*
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Image Editor* 
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) - *Image to Text*
+* [lsix](https://github.com/hackerb9/lsix) - *View Images in Terminal*
 * [Rapid](https://damonlynch.net/rapid/) - *Quick Linux Photo Importer*
 * [Drawing](https://github.com/maoschanz/drawing) - *Drawing App*
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer) - *YouTube Linux Client / [Fork](https://github.com/trizen/pipe-viewer)* 
