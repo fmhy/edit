@@ -329,6 +329,7 @@
 * [LocalXpose](https://localxpose.io/) - *Reverse Proxy*
 * [BuiltWith](https://builtwith.com/) - *Find Out What Sites are Built With*
 * [Elements Envato](https://qltien.com/elements/getcode/babiato.html) or [PsdRepo](https://psdrepo.com/) - *Templates, Mockups, Logos, Video*
+* [Daft Page](https://daftpage.com/) - *Landing Page Creator*
 * [LandingPage](https://landingpage.fyi/index.html) - *Landing Page Tool Index*
 * [Uisual](https://uisual.com/), [SaaS Pages](https://saaspages.xyz/), [SaaS Landing Page](https://saaslandingpage.com/) or [lapa](https://www.lapa.ninja/) - *Landing Page Templates / Ideas*
 * [Canva](https://www.canva.com/) or [PikBest](https://pikbest.com/) - *Design Templates / [Premium Apk](https://forum.mobilism.org/search.php?keywords=Canva+&sr=topics&sf=titleonly)* 
