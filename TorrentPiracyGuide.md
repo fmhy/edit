@@ -139,6 +139,7 @@
 * [Torrends](https://torrends.to/) 
 * [CloudTorrents](https://cloudtorrents.com/)
 * [BTDB](https://btdb.eu/)
+* [Zosho](https://zosho.kryptk.ml/)
 * [BTMET](https://btmet.com/) 
 * [BT4G](https://bt4g.org/)
 * [ExtraTorrent](https://extratorrent.unblockit.kim/) 
