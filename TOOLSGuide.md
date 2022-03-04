@@ -319,8 +319,8 @@
 * [PlanetSide](https://planetside.co.uk/) - *CG Environment Generator*
 * [AnimeEffects](http://animeeffects.org/en/), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/) or [Synfig](https://www.synfig.org/) - *2D Animation Tool* 
 * [Storyboarder](https://wonderunit.com/storyboarder/) - *Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)* 
-* [Mandelbulber](https://mandelbulber.com/) - *Fractal Rendering Software / [Info](https://www.mandelbulb.com/) / [3D](https://mb3d.overwhale.com/)*
-* [JWildfire](https://jwildfire.overwhale.com/) or [Fractorium](http://fractorium.com/) - *Flame Fractal Rendering Software*
+* [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - *Fractal Rendering Software / [Info](https://www.mandelbulb.com/) / [3D](https://mb3d.overwhale.com/)*
+* [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - *Flame Fractal Rendering Software*
 * [LibreSprite](https://libresprite.github.io/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - *Pixel Art Animation Tools*
 * [BestSnip](https://bestsnip.com/animation/) or [Mulator](https://multator.ru/) - *Online Animation Tool*
 * [Mixamo](https://www.mixamo.com/) - *3D Character Animation Tool*
@@ -1068,7 +1068,6 @@ General Reading Sites*
 * **[GooseMod](https://goosemod.com/)** - *Modifiable Discord Client / [Firefox](https://addons.mozilla.org/addon/goosemod-for-web/) / [Chrome](https://chrome.google.com/webstore/detail/goosemod-for-web/clgkdcccmbjmjdbdgcigpocfkkjeaeld)*
 * [Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists) - *Discover Servers / Bots*
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - *Discord Tools*
-* [Ripcord](https://cancel.fm/ripcord/) - *Lighweight Discord & Slack Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ripcord_tools)* 
 * [ArmCord](https://armcord.smartfridge.space/) - *Lightweight Discord Client / [GitHub](https://github.com/ArmCord/ArmCord)*
 * [Powercord](https://powercord.dev/) - *Anti-Telemetry Discord / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_powercord_tools)* 
 * [Dark-Discord](https://github.com/snappercord/Dark-Discord) - *Dark Theme for BetterDiscord & Powercord* 
