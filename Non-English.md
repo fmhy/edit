@@ -1248,7 +1248,7 @@ Portuguese
 
 ## ▷ Torrenting
 
-* **[RuTracker](http://rutracker.org)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - *Video / Audio / Games / Software / Android / Comics / Magazines*
+* **[RuTracker](https://rutracker.nl/)**, [2](http://rutracker.org), [3](https://rutracker.net/) - *Video / Audio / Games / Software / Android / Comics / Magazines*
 * [toptracker](https://toptracker.ru/) - *Torrent Site List*
 * [UpTracker](https://www.uptracker.ru/) - *Torrent Tracker Index*
 * [krasfs](https://krasfs.ru/) - *Torrent Search* 
