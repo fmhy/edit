@@ -1613,6 +1613,7 @@ Portuguese
 * [EPhoto360](https://ephoto360.com/) or [ThiepMung](https://thiepmung.com/) - *Photo Effects*
 * [GameVui](https://gamevui.vn/) - *Browser Games*
 * [Game24h](https://game24h.vn/) - *Browser Games*
+* [KiTuHay](https://kituhay.com/) - *Special Characters*
 * [Run.vn](https://run.vn/) - *Emojis*
 * [Dafontvn](https://www.dafontvn.com/) - *Fonts*
 * [Unikey](https://www.unikey.org/) - *Vietnamese Keyboard*
@@ -1628,6 +1629,8 @@ Portuguese
 * [Downvn](https://down.vn/) - *Software / Android / Games*
 * [DownloadVN](https://download.com.vn/) - *Software / Android / Games*
 * [TaiMienPhi](https://taimienphi.vn/) - *Software / Android / Games*
+* [LinkTaiGame](https://www.linktaigame.com/) - *Games*
+* [TaiNhanh](https://www.tainhanhvn.com/) - *Games*
 * [PhimDidibkk](https://phim.didibkk.com/) - *Movies / TV / Anime*
 * [CineTV](https://thuviencine.com/) - *Movies / TV / Anime*
 * [ThuvienHD](https://thuvienhd.com/) - *Movies / TV / Anime*
@@ -1646,6 +1649,7 @@ Portuguese
 
 * [TVHai](http://tvhai.org/) - *Movies / TV / Anime*
 * [VPHim](https://vphimzz.net/) - *Movies / TV*
+* [XemPhim](https://xemphim.app/) - *Movies / TV*
 * [MotChill](https://motchill.net/) - *Movies / TV*
 * [OPhim](https://ophim.net/) - *Movies / TV*
 * [PhimBo](https://phimbo.tv/) - *Movies / TV*
