@@ -239,6 +239,7 @@
 * [PhotoRoom](https://www.photoroom.com/) - *Background Remover*
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) or [Camator](https://gcamator.com/) - *Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/)*
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - *Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)*
+* [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play) - *Camera App with QR / Barcode Scanning*
 * [Colorize It](https://play.google.com/store/apps/details?id=com.reaimagine.colorizeit) - *Colorize Images*
 * [WOMBO Dream](https://www.wombo.art/) - *Dream Artwork Tool*
 * [Photo Lab](https://ilixa.com/8bitphotolab.php) - *Give Images a Retro Look 8Bit*
