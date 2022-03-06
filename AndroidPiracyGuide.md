@@ -110,6 +110,7 @@
 * [MeMu](https://www.memuplay.com/) - *[Screenshot](https://i.imgur.com/1aZLVvi.png) / [Debloater](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)*
 * [LDPlayer](https://www.ldplayer.net/) - *[Screenshot](https://i.imgur.com/URAJXJ6.png)*
 * [Genymotion](https://www.genymotion.com/fun-zone/) - *[Screenshot](https://i.imgur.com/rIoiob7.jpg)* 
+* [Wakuoo](https://wakuoo.com) - *[Screenshot](https://i.imgur.com/WnuitUI.png)* 
 * [Leapdroid](https://leapdroid.en.softonic.com/) - *[Screenshot](https://i.imgur.com/4RKnNqJ.png)* 
 * [PrimeOS](https://primeos.in/) - *Android Desktop OS*
 * [Android x86](https://www.android-x86.org/) - *Android Desktop OS / [Installer](https://supreme-gamers.com/r/advanced-android-x86-installer-for-windows.61/)*
