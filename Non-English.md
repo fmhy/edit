@@ -1618,6 +1618,7 @@ Portuguese
 * [Unikey](https://www.unikey.org/) - *Vietnamese Keyboard*
 * [Mail1s](https://mail1s.com/) - *Temp Email*
 * [EPhoto360](https://ephoto360.com/) or [ThiepMung](https://thiepmung.com/) - *Photo Effects*
+* [KiemTraIP](https://kiemtraip.com/), [IPCuaToi](https://ipcuatoi.com/), [CheckIP](https://checkip.vip/) - *IP Checkers*
 * [hostsVN](https://bigdargon.github.io/hostsVN/) or [iBlockAds](https://iblockads.net/) - *Vietnamese Adblock Filters*
 
 ## ▷ Downloading
@@ -1688,7 +1689,6 @@ Portuguese
 * [Cmangaka](https://cmangaka.com/) - *Manga*
 * [NetTruyen](http://www.nettruyengo.com/), [2](http://nhattruyenvip.com/) - *Manga*
 * [TruyenFull](https://truyenfull.vn/), [2](https://lnvs.net/) - *Manga / Light Novels*
-* [TruyenFull](https://truyenfull.vn/) - *Manga / Light Novels*
 * [Hayso1](https://hayso1.net/) - *Manga*
 * [Hako](https://ln.hako.re/), [2](https://docln.net/), [3](https://novelvn.net/) - *Light Novels*
 * [ValvrareTeam](http://valvrareteam.com/) - *Light Novels*
