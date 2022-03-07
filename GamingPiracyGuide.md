@@ -306,7 +306,8 @@
 * [OldPCGaming](http://oldpcgaming.net/) - *Retro PC Games*
 * [Japanese PC Compendium](http://japanesepccompendium.blogspot.com/) - *Retro Japanese PC Games*
 * [TOSEC](https://archive.org/details/TOSEC_V2017-04-23), [2](https://archive.org/details/tosec) - *The Old School Emulation Center*
-* [NEC &amp; Turbografx Collection](https://archive.org/details/NEC_PC_Engine_CD-ROM2_System_and_TurboGrafx-CD_2016_Reference_Set_Redump_Validated_ROMs) - *Roms / Nec / Turbo*
+* [Tiny8bit](https://floooh.github.io/tiny8bit/) - *Retro Game Browser Emulators*
+* [NEC & Turbografx Collection](https://archive.org/details/NEC_PC_Engine_CD-ROM2_System_and_TurboGrafx-CD_2016_Reference_Set_Redump_Validated_ROMs) - *Roms / Nec / Turbo*
 * [Neo Kobe Collection](https://archive.org/details/NeoKobe-NecPc-98012017-11-17), [2](https://archive.org/details/Neo_Kobe_NEC_PC-8801_2016-02-25) - *Roms / Neo Kobe*
 * [pc-98](https://mega.nz/folder/F59WkSqQ#quGKSFIswBgv0rxAAaF8Pg) - *PC-98 Games*
 * [Abandonia](http://www.abandonia.com/), [XTCabandonware](http://www.xtcabandonware.com/) or [VETUSWARE](https://vetusware.com/category/Games/?cat=7) - *Abandonware*
@@ -317,7 +318,7 @@
 * [The Interactive Fiction Page](http://www.cs.cmu.edu/~wsr/IF/) - *Interactive Fiction Games*
 * [Necromanthus](https://necromanthus.com/) - *3D Shockwave Games*
 * [FunGame](http://www.fungame.pe.kr/main_eng.htm) - *Java Browser Games*
-* [OpenRA](https://openra.net/) - *Command &amp; Conquer Recreation* 
+* [OpenRA](https://openra.net/) - *Command & Conquer Recreation* 
 * [NolfRevival](http://nolfrevival.tk/) - *NOLF, NOLF 2 &amp; Contract Jack*
 * [DFWorkshop](https://www.dfworkshop.net/) - *Daggerfall Unity Engine Port*
 * [OpenMW](https://openmw.org/en/) - *Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/openmw-tes3mp/) / [Android](https://github.com/xyzz/openmw-android)*
@@ -345,11 +346,12 @@
 * [EDuke32](https://www.eduke32.com/) - *Duke Nukem 3D Source Port*
 * [Arx Libertatis](https://arx-libertatis.org/) - *Arx Fatalis PC Port*
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - *Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)*
-* [Mars 3D](https://mars3d-game.wixsite.com/index) - *Mars 3D Translation &amp; Remake*
+* [Mars 3D](https://mars3d-game.wixsite.com/index) - *Mars 3D Translation & Remake*
 * [Jelly Mario](https://jellymar.io/) - *Jelly Super Mario*
 * [sm64](https://github.com/n64decomp/sm64) - *Super Mario 64 Decompilation / [Guide](https://youtu.be/rQVpfWYT0eg)* 
+* [OpenLara](http://xproger.info/projects/OpenLara/) - *Classic Tomb Raider in Browser / [GitHub](https://github.com/XProger/OpenLara)*
 * [GtkAtlantic](https://gtkatlantic.gradator.net/index.html) or [Monopolie](http://monopolie.sourceforge.net/index.shtml) - *Open Source Monopoly*
-* [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - *Pac-man*
+* [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - *Giant Pac-Man*
 * [Tetris](https://tetris.com/) or [OpenTetris Classic](https://sourceforge.net/projects/opentetrisclassic/) - *Play Tetris*
 * [TETR.IO](https://tetr.io/) - *Multiplayer Tetris / [Plus](https://gitlab.com/UniQMG/tetrio-plus)*
 * [First Person Tetris](https://firstpersontetris.com/) - *Play Tetris in First Person* 
@@ -449,7 +451,7 @@
 * [Universal paperclips](https://www.decisionproblem.com/paperclips/index2.html) - *A Paperclip Creation Simulator*  
 * [The Founder](https://thefounder.biz/) - *Run a Start-Up* 
 * [PopTropica](https://www.poptropica.com/) - *Browser Adventure Game*
-* [TotalJerkFace](https://totaljerkface.com/) - *Happy Wheels &amp; More*
+* [TotalJerkFace](https://totaljerkface.com/) - *Happy Wheels & Other Games*
 * [ConnectTheStars](https://connectthestars.xyz/) - *Connect Stars through Movies*
 * [Blaseball](https://www.blaseball.com/) - *Odd Baseball Simulation Game* 
 * [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) or [Bemuse](https://bemuse.ninja/) - *Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)*
