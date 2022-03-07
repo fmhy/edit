@@ -1203,6 +1203,7 @@ Portuguese
 
 # ► Russian
 
+* **[Russian Internet Blackout Bypass Guide](https://telegra.ph/CHto-delat-pri-otklyuchenii-interneta-02-27), [2](https://www.the-village.ru/situation/howto/otklyuchenie-interneta)**
 * **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_legal_talk](https://t.me/rks_legal_talk) / [rks_org_Bot](https://t.me/rks_org_bot) / [rks_tech_talk](https://t.me/rks_tech_talk) - *Piracy Discussion Telegram*
 * [DXP](https://dxp.ru/) - *Torrent / Subtitles*
 * [TLauncher Legacy](https://tlaun.ch/) - *Minecraft Client / Cracked Minecraft*
@@ -1317,6 +1318,7 @@ Portuguese
 * [rukino.org](https://rukino.org/) - *Movies / TV*
 * [kinocccp.net](https://kinocccp.net/ ) - *Soviet  Movies / TV*
 * [kinoflux.org](https://kinoflux.org/) - *Movies / TV*
+* [CCCP Film](https://cccp-film.ru/ ) - *Movies / TV*
 * [Telik](http://telik.online/) - *TV*
 * [Kino-Dom](http://kino-dom.org/) - *TV*
 * [bigserial.net](http://bigserial.net/) - *TV*
@@ -1618,7 +1620,7 @@ Portuguese
 * [Unikey](https://www.unikey.org/) - *Vietnamese Keyboard*
 * [Mail1s](https://mail1s.com/) - *Temp Email*
 * [EPhoto360](https://ephoto360.com/) or [ThiepMung](https://thiepmung.com/) - *Photo Effects*
-* [KiemTraIP](https://kiemtraip.com/), [IPCuaToi](https://ipcuatoi.com/), [CheckIP](https://checkip.vip/) - *IP Checkers*
+ * [KiemTraIP](https://kiemtraip.com/), [IPCuaToi](https://ipcuatoi.com/), [CheckIP](https://checkip.vip/) - *IP Checkers*
 * [hostsVN](https://bigdargon.github.io/hostsVN/) or [iBlockAds](https://iblockads.net/) - *Vietnamese Adblock Filters*
 
 ## ▷ Downloading
