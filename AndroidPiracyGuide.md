@@ -110,8 +110,8 @@
 * [MeMu](https://www.memuplay.com/) - *[Screenshot](https://i.imgur.com/1aZLVvi.png) / [Debloater](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)*
 * [LDPlayer](https://www.ldplayer.net/) - *[Screenshot](https://i.imgur.com/URAJXJ6.png)*
 * [Genymotion](https://www.genymotion.com/fun-zone/) - *[Screenshot](https://i.imgur.com/rIoiob7.jpg)* 
-* [Wakuoo](https://wakuoo.com) - *[Screenshot](https://i.imgur.com/WnuitUI.png)* 
 * [Leapdroid](https://leapdroid.en.softonic.com/) - *[Screenshot](https://i.imgur.com/4RKnNqJ.png)* 
+* [Wakuoo](https://wakuoo.com) - *[Screenshot](https://i.imgur.com/WnuitUI.png)* 
 * [PrimeOS](https://primeos.in/) - *Android Desktop OS*
 * [Android x86](https://www.android-x86.org/) - *Android Desktop OS / [Installer](https://supreme-gamers.com/r/advanced-android-x86-installer-for-windows.61/)*
 * [BlissOS](https://blissos.org/) - *Android Desktop OS*
@@ -132,6 +132,9 @@
 * **[Aliucord](https://github.com/Aliucord/Aliucord)** - *Modded Discord Client* 
 * **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Mobile Wallpaper Sites & Apps*
 * [XDA](https://forum.xda-developers.com/) - *Android Discussion Forum*
+* [W10M Group](https://w10mgroup.github.io/) - *Mobile Windows Tech Support*
+* [Maemo](https://talk.maemo.org/) - *Maemo OS Discussion / [Wiki](https://wiki.maemo.org/) / [Telegram](https://t.me/maemomeego), [2](https://t.me/meegoosinternational)*
+* [SymbianOS](https://t.me/symbianos) - *Symbian OS Discussion*
 * [Will My Phone Work?](https://willmyphonework.net/) or [FrequencyCheck](https://www.frequencycheck.com/) - *Phone Carrier Support Index* 
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - *Cell Carrier FCC Spectrum Map*
 * [MobileSpectrum](https://mobilespectrum.org/) - *Mobile Network Spectrum by Country*
@@ -350,6 +353,7 @@
 * [Appetize](https://appetize.io/) - *Run Native Mobile Apps in Browser*
 * [Albastuz3d](https://albastuz3d.net/) - *Stock Phone Roms*
 * [ROMphonix](http://162.154.76.208/) - *Old Mobile Firmware / [Discord](https://discord.com/invite/2GKuJjQagp)*
+* [NokiaFIimwareGP](https://t.me/nokiafirmwaregp) or [NokiaOldFirmware](https://t.me/nokiaoldfirmware) - *Nokia Firmware*
 * [How to Install a Custom ROM](https://www.xda-developers.com/how-to-install-custom-rom-android/amp/) - *Custom ROM Installation Guide*
 * [Odin](https://www.odindownload.com/) or [IVTheme](https://www.ivtheme.com/) - *ROM Flashing Tools*
 * [UniPatcher](https://github.com/btimofeev/UniPatcher) - *ROM Patcher*
@@ -526,6 +530,10 @@
 * [How-To Play Free Android Cloud Games](https://rentry.co/66cc9)
 * [KPFireTV](https://www.kpfiretv.com/) - *Amazon Fire APKs*
 * [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - *Android Vehicle Apps*
+* [PalmDB](https://palmdb.net/) - *Palm OS Apps / [Discord](https://discord.gg/YddKPpR)*
+* [Maemo5](http://maemo.org/downloads/list/Maemo5/all/) - *Maemo OS Apps*
+* [OpenRepos](https://openrepos.net/) - *Harmattan / Sailfish OS Apps*
+* [N9Downloads](http://n9downloads.blogspot.com/search/label/Applications) - *Harmattan OS Apps*
 * [App filter](https://appfilter.net/) - *Play Store Advanced Search*
 * [AppAnnie](https://www.appannie.com/en/apps/google-play/top/) - *Top App Downloads*
 * [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - *App Giveaway Sites*
@@ -599,9 +607,10 @@
 
 * **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players)** - *Music Players / Libraries*
 * **[Spotify APK](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=Spotify&sf=titleonly)** (No Ads) or [Altas-Notas](https://github.com/polonez-byte-112/Altas-Notas) - *Streaming / [Version Manager](https://github.com/xManager-v2/xManager-Spotify) / [Downloader](https://github.com/sheensantoscapadngan/SpotaFree) / [Friend Activity](https://spotivity.vercel.app/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://f-droid.org/packages/com.rohit2810.spotit/), [3](https://github.com/aghontpi/ad-silence)*
-* [YouTube Music Vanced](https://vancedapp.com/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [HoloPlay](https://holoplay.io/), [Handsfree Player](http://www.handsfreeplayer.com/) or [YMusic](https://ymusic.io/) - *YouTube Music Player*
+* [YouTube Music Vanced](https://vancedapp.com/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [HoloPlay](https://holoplay.io/) or [YMusic](https://ymusic.io/) - *YouTube Music Player*
 * [Spotiflyer](https://f-droid.org/en/packages/com.shabinder.spotiflyer/) - *Spotify Audio Downloader / [GitHub](https://github.com/Shabinder/SpotiFlyer/)*
 * [Finamp](https://github.com/UnicornsOnLSD/finamp) - *Jellyfin Music Player*
+* [CloudPlayer](https://www.doubletwist.com/cloudplayer) - *Cloud Audio File Player*
 * [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - *Subsonic Client*
 * [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - *Streaming*
 * [Modded Tidal](https://forum.mobilism.org/viewtopic.php?f=1332&t=4594722) - *Steaming / Download*
