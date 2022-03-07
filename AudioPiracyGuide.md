@@ -33,7 +33,7 @@
 * **Spotify Tools** - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Listen Together](http://jqbx.fm/) / [Customize](https://github.com/Darkempire78/Spotify-Customizer)
 * **[YouTube Music](https://music.youtube.com/)** - *Browser Music / [Alt Player](https://www.infigroove.com/) / [Lag Fix](https://greasyfork.org/en/scripts/432304-youtube-music-fix-performance) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo)*
 * **[Reddit Music Player](https://reddit.musicplayer.io/)** - *Subreddit Music Player*
-* **[SoundCloud](https://soundcloud.com/)** - *User made songs*
+* **[SoundCloud](https://soundcloud.com/)** - *User Made Songs / [Info Export](https://soundcloudcsv.com/)*
 * [ccMixter](http://ccmixter.org/) or [dig ccMixter](http://dig.ccmixter.org/dig) - *Browser Music*
 * [Audiomack](https://audiomack.com/) - *Browser Music*
 * [Slider](https://slider.kz/) or [My Free MP3](https://myfreemp3juices.cc/) - *Browser Music*
@@ -105,6 +105,7 @@
 * [Google Podcasts](https://podcasts.google.com/) - *Podcasts*
 * [DigitalBook](https://www.digitalbook.io/) - *Podcasts*
 * [player.fm](https://player.fm/) - *Podcasts*
+* [Relay.fm](https://www.relay.fm/) - *Podcasts*
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - *Podcasts for Software Engineers*
 * [CPod](https://github.com/z-------------/CPod) - *Podcast App*
 * [Chiru.no](https://chiru.no/) - *Multiple Online Radio Sites* 
