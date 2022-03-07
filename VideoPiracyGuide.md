@@ -28,6 +28,7 @@
 * **[M4uFree](https://ww1.m4ufree.com)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)*
 * **[Squeezebox](https://movie.squeezebox.dev/)** - *Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)*
 * **[Soap2Day](https://soapgate.org/)** - *Movies / TV*
+* [SFlix](https://sflix.to/home/) - *Movies / TV*
 * [LookMovie](https://lookmovie.io/) - *Movies / TV*
 * [C1NE](https://c1ne.co/) - *Movies / TV* 
 * [VikV](https://vikv.net/), [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
