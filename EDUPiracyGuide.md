@@ -181,7 +181,7 @@
 * [FreetutsDownload.com](https://freetutsdownload.com/) - *Courses / GDrive Host* 
 * [iTunes U](https://archive.org/details/@kyndigs) - *Lectures*
 * [University of Waterloo](https://student.cs.uwaterloo.ca/~cs247/current/) - *CS Resources / Courses*
-* [Masterclass Courses](https://uploadhub.to/folder/756e9b346a839699b075e9c483991b90/Masterclass) or [Masterclass 63 Pack](https://mega.nz/folder/HxFghIbS#rFqH402PoVDwHW_XEtN1QQ) - *Masterclass Courses*
+* [Masterclass Courses](https://uploadhub.to/folder/756e9b346a839699b075e9c483991b90/Masterclass) or [MasterClass0](https://t.me/MasterClass0) - *Masterclass Courses*
 * [Mindvalley Courses](https://mega.nz/folder/KahWVI6L#ijlrxMp0x5qaDB71r3mLzg/folder/mfwmiaDZ) - *Mindvalley Courses*
 * [Lynda Courses](https://bin.snopyta.org/?efe32fb96a945857#GQL7q4hyKjCeB6WLbpq94S12BEwh5JWc4apjmb7RE4SU) - *Lynda Courses / Drive / pw: fmhy*
 * [LyndaFree](https://t.me/lyndafree) - *Lynda Courses / Telegram*
@@ -241,6 +241,7 @@
 * [Documentary.su](https://documentary.su/)
 * [Docuwiki](https://docuwiki.net/) - *[Emule required](https://www.emule-project.net/)*
 * [Open-Video](https://open-video.org/)
+* [Documentaries & Archive](https://t.me/joinchat/S6gY9zmO5Ubl15CW)
 
 ***
 
@@ -428,7 +429,7 @@
 
 # ► Language Learning 
 
-* **[Awesome-Lang](https://github.com/oyd11/awesome-lang)** or [Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8) - *Language Learning Resources* 
+* **[Awesome-Lang](https://github.com/oyd11/awesome-lang)**, [Many Things](http://www.manythings.org/) or [Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8) - *Language Learning Resources* 
 * **[Languages & Linguistics](https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - *Language Learning Books*
 * [Speechling](https://speechling.com/tools) - *Language Learning Tools*
 * [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [Conversation Exchange](https://www.conversationexchange.com/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - *Language Learning Network*
@@ -459,7 +460,7 @@
 * [StudySpanish](https://studyspanish.com/) - *Spanish Learning Tutorials*
 * [The French Tutorial](http://www.frenchtutorial.com/) - *French Learning Tutorials*
 * [AnimeLon](https://animelon.com/) - *Streaming / Anime / Learn Japanese*
-* [Nihongo](https://nihongo-e-na.com/eng/), [Itzazureneko](https://itazuraneko.neocities.org/learn/guide.html) - *Japanese Learning Resources*
+* [Nihongo](https://nihongo-e-na.com/eng/), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/), [Itzazureneko](https://itazuraneko.neocities.org/learn/guide.html) - *Japanese Learning Resources*
 * [Marshall's Site](https://marshallyin.com/), [jpdb](https://jpdb.io/) or [Tofugu](https://www.tofugu.com/) - *Learn Japanese* 
 * [Minato](https://minato-jf.jp/) - *Japanese Courses*
 * [Memento](https://github.com/ripose-jp/Memento) - *Japanese Learning Video Player*
