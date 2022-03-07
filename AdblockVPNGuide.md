@@ -213,7 +213,7 @@
 * [Pixelfed](https://pixelfed.org/) or [Unsee](https://unsee.cc/) - *Decentralized / Temporary Image Hosts* 
 * [ImgProxify](https://imgproxify.com/) - *Image Proxy Generator*
 * [PeerTube](https://joinpeertube.org/), [2](https://peertube.tv/), [3](https://peer.tube), [4](https://search.joinpeertube.org/) - *Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)*
-* [PrivNote](https://privnote.com/), [Burn.Link](https://burn.link/) or [IPNote](https://ipnote.io/) - *Send Self-Destructing Messages* 
+* [PrivNote](https://privnote.com/), [Burn.Link](https://burn.link/), [OneTimeSecret](https://onetimesecret.com/) or [IPNote](https://ipnote.io/) - *Send Self-Destructing Messages* 
 * [xcodx.ru](https://xcodx.ru/) - *Send Encrypted Text*
 * [USBKill](https://github.com/hephaest0s/usbkill) - *Anti-Forensic Kill-Switch*
 * [Eraser](https://eraser.heidi.ie/) or [Lethe](https://github.com/rafael-santiago/lethe) - *Wipe / Overwrite Hard Drive Data* 
@@ -259,7 +259,7 @@
 * [catgirl.cloud](https://catgirl.cloud/) - *Privacy-Respecting Services*
 * [Invidition](https://codeberg.org/Booteille/Invidition) - *Redirect YouTube / Twitter requests to their alt interfaces*
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - *Redirects all YouTube links to Invidous* 
-* [Anti-Grabify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anti-grabify) - *Block IP Grabbers*
+* [Anti-Grabify](https://github.com/Konnor88/anti-grabify) - *Block IP Grabbers*
 * [Anti-Fp](https://www.cydecplatform.com/antifp.html) - *Disrupt Fingerprint Targeting*
 * [CanvasBlocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_canvasblocker) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - *Prevent Canvas Fingerprinting*
 * [PortAuthority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/) - *Block Javascript Port Scan on Sites*
@@ -500,6 +500,7 @@
 * [HideMe](https://hide.me/) - *Free VPN*
 * [Calyx VPN](https://calyx.net/) - *Free VPN*
 * [Clash](https://github.com/Fndroid/clash_for_windows_pkg) - *Free VPN / [Profiles](https://rentry.co/2q3rn)*
+* [Portals](https://www.portals.network/) - *dVPN*
 * [FreePN](https://www.freepn.org/) - *Free Open Source P2P VPN* 
 * [TunnelBear](https://www.tunnelbear.com/) - *Free VPN / 500mb*
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
@@ -524,11 +525,11 @@
 
 ## ▷ Proxy Apps
 
-* [Psiphon](https://psiphon.ca/)
+* **[Psiphon](https://psiphon.ca/)**
+* **[Lantern](https://lantern.io/en_US/index.html)** 
 * [Acrylic](http://mayakron.altervista.org/)
 * [Tsunami](https://github.com/FogNetwork/Tsunami) 
 * [Shadowsocks](https://shadowsocks.org/en/index.html) - *[Free Servers](https://github.com/ruanfei/ShadowsocksRRShare), [2](https://github.com/learnhard-cn/free_proxy_ss)*
-* [Lantern](https://lantern.io/en_US/index.html) 
 * [FilterBypass](https://www.filterbypass.me/) 
 * [Privoxy](http://www.privoxy.org/) - *[Docker Build](https://github.com/binhex/arch-privoxyvpn)*
 * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - *Proxy Manager*
@@ -572,6 +573,6 @@
 * [Google Translate](https://translate.google.com/) - *[How to use](https://redd.it/fawkjy)*
 * [b.lulu](https://b.lulu.workers.dev/), [3](https://b.jsproxy.workers.dev/), [4](https://noisy-tooth-2ee5.susheng.workers.dev/) - *Cloudflare Workers Proxies* 
 * [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - *Python Library for Retrieving Free Proxies*
-* [Proxy-Checker](https://proxy-checker.net/) - *Proxy Checker*
+* [Proxy-Checker](https://proxy-checker.net/) or [Socker](https://github.com/TheSpeedX/socker) - *Proxy Checker*
 * [CheckSocks5](https://checksocks5.com/) - *Socks5 Proxy Checker*
 * [Proxynova](https://www.proxynova.com/proxy-server-list/country-ir/) - *Iranian Proxies*
