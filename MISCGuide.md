@@ -138,6 +138,7 @@
 * [Piracy Forum](https://pirates-forum.org/) 
 * [Babiato](https://babiato.co/) 
 * [FileSharingTalk](https://filesharingtalk.com/forum.php)
+* [No Thought is a Crime](https://ntc.party/) - *Internet Censorship Discussion*
 * [Sonic Getaway](https://discord.gg/audiophile) - *Music / Audio / Audio Gear Discussion*
 * [GDrive Guides](https://t.me/gdriveguides) - *GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)*
 * [Fileforums](https://fileforums.com/) - *Gaming / Emulator / Data Compression Discussion*
@@ -330,6 +331,7 @@
 * [Skynet](http://pierrepapierciseaux.net/.skynet/?lang=en) - *View Websites like they're from the 90's*
 * [Toonami Remastered](https://www.toonamiremastered.com/) - *Remastered Toonami Content* 
 * [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - *How well do you recognize hit songs?*
+* [Judge My Music](https://pudding.cool/2020/12/judge-my-spotify/) - *AI Music Taste Judge*
 * [GeekPrank](https://geekprank.com/) - *Windows Pranks*
 * [Update Faker](https://updatefaker.com/) - *Fake System Update Prank*
 * [The Restart Page](http://www.therestartpage.com/) - *Vintage Operating System Reboots*
