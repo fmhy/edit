@@ -123,7 +123,7 @@
 
 ## ▷ Text Tools
 
-* **[TextFixer](https://www.textfixer.com/)**, **[OnlineTextTools](https://onlinetexttools.com/)**, [English Tools](https://www.englishtools.org/), [Text Reverse](https://www.textreverse.com/), [Text Mechanic](https://textmechanic.com/), [Smodin](https://smodin.io/) or [Word Hippo](https://www.wordhippo.com/) - *Multiple Text Tools*
+* **[Multiple Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_text_tool_sites)** - *Sites with Multiple Text Tools*
 * **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_editors)** - *Text Editing Tools*
 * **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - *Grammar Checking Tools*
 * **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_office_suites)** - *Office Suite Software*
@@ -561,6 +561,7 @@
 * [JustLanded](https://www.justlanded.com/) - *Working & Living Abroad Guides*
 * [Nomad List](https://nomadlist.com/) - *Remote Work Listings*
 * [web3.career](https://web3.career/) - *Web3 Job Offers*
+* [moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - *Company / Startup Applications*
 * [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - *Online Working Subreddit*
 * [/r/freelance](https://www.reddit.com/r/freelance/) - *Freelance Subreddit*
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - *Design Job Subreddit*
@@ -574,6 +575,7 @@
 * [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - *IT Certification Courses*
 * [NIST](https://www.nist.gov/nice/apprenticeship-finder) - *NICE Apprenticeship Program Finder*
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - *Cloud Career Training*
+* [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list) - *Startup Tools*
 * [BetaList](https://betalist.com/) - *Get Startup Ideas*
 * [Failory](https://www.failory.com/graveyard) - *Learn Why Startups & Products Failed*
 * [AngelLIst](https://angel.co/) - *Startup Community*
@@ -592,6 +594,7 @@
 * [VCEGuide](https://vceguide.com/) - *Tech Certification Practice Tests*
 * [9Tut](https://www.9tut.com/) - *CCNA Certification Training*
 * [GetFreeIMEBooks](https://www.getfreeimebooks.com/) - *Digital Marketing Resources*
+* [Systeme](https://systeme.io/) - *Marketing Tools*
 * [HLDMSIYS?](http://howlongdoesmarijuanastayinyoursystem.net/) - *Drug Effect Duration / Testing Information*
 * [HomeBank](http://homebank.free.fr/), [Money Manager EX](https://www.moneymanagerex.org/), [Ledger](https://www.ledger-cli.org/) or [gnucash](https://www.gnucash.org/) - *Financial Accounting Software*
 * [Stocksera](https://stocksera.pythonanywhere.com/) - *Stock Tracker*
@@ -833,8 +836,7 @@
 * [Anime Torrent CSE]( https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz) - *Search Anime Torrent Sites*
 * [Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55) - *Search Audio Torrent Sites*
 * [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/)  - *Search Game Torrent Sites*
-* [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8),  [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [Rave Book Search](https://ravebooksearch.com/) - *Search Multiple Sites at once* 
-General Reading Sites*
+* [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) /  [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [Rave Book Search](https://ravebooksearch.com/) - *Search Reading Sites*
 * [Audiobooks CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd) - *Search Audiobook Sites*
 * [Comics CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg) - *Search Comic Sites*
 * [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z), [2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - *Search Manga Sites*
@@ -877,8 +879,8 @@ General Reading Sites*
 * [ISearchFrom](http://isearchfrom.com/) - *Change Location / Device for Google Search*
 * [Google Search Operator Cheat Sheets](https://moz.com/learn/seo/search-operators), [2](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [3](https://ahrefs.com/blog/google-advanced-search-operators/), [4](https://l-lists.com/en/lists/m1mdwx.html), [5](https://github.com/BushidoUK/OSINT-SearchOperators)
 * [Google Search Guide](https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters) + [Advanced](https://coursebuilder.withgoogle.com/)
+* [sitedorks](https://github.com/Zarcolio/sitedorks), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list) or [DorkSearch](https://www.dorksearch.com/) - *Google Search Dorks*
 * [Yandex Search Operator Cheat Sheets](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/), [3](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
-* [sitedorks](https://github.com/Zarcolio/sitedorks) or [DorkSearch](https://www.dorksearch.com/) - *Search Dorks*
 * [Cyber](https://cyber.page/) - *Hash Search Engine* 
 * [TruePeopleSearch](https://www.truepeoplesearch.com/) - *Person Search*
 * [CrunchBase](https://www.crunchbase.com/) - *Company Info Search*
@@ -1112,7 +1114,7 @@ General Reading Sites*
 * [MonitoRSS](https://monitorss.xyz/), [2](https://github.com/synzen/MonitoRSS-Clone) - *RSS Discord Bot*
 * [Discord Music Bot](https://github.com/SudhanPlayz/Discord-MusicBot), [discord-music-bot](https://github.com/Androz2091/discord-music-bot), [Music-bot](https://github.com/ZerioDev/Music-bot), [MusicBot](https://github.com/jagrosh/MusicBot), [evobot](https://github.com/eritislami/evobot) or [EarTensifier](https://github.com/Tetracyl/EarTensifier) - *Music Bots*
 * [Discord-Music-System](https://github.com/RemyK888/discord-music-system) - *Discord Music Module*
-* [FreeStuff Bot](https://freestuffbot.xyz/) - *Free Games Alert Bot / [GitHub](https://github.com/FreeStuffBot/discord)*
+* [FreeStuff Bot](https://freestuffbot.xyz/) / [GitHub](https://github.com/FreeStuffBot/discord) or [AutomatiK](https://github.com/Axyss/AutomatiK) / [Discord](https://discord.gg/psDtnwX) - *Free Games Alert Bot*
 * [DiscordChroma](https://github.com/DELUUXE/DiscordChroma) or [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - *Discord System Lighting Control*
 * [Permissions Calculator](https://discordapi.com/permissions.html) - *Generate Discord OAuth Invites*
 * [CloneCord](https://github.com/Rekulous/CloneCord-bot) - *GClone Cloud Storage File Manager in Discord*
@@ -1218,7 +1220,6 @@ General Reading Sites*
 * [TGCF](https://github.com/aahnik/tgcf) - *Telegram Message Forwarding*
 * [Callmebot](https://www.callmebot.com/) - *Trigger Voice Calls or Chats*
 * [Skeddy](https://skeddy.me/) - *Telegram Reminder Bot*
-* [GDUploadBot](https://t.me/gduploadbot) - *Telegram GDrive Upload Bot*
 * [GoogleDriveManagerBot](https://t.me/GoogleDriveManagerBo) - *Telegram GDrive Manager*
 * [clonebot](https://github.com/m4mallu/clonebot) - *Clone Media from Chats*
 * [ChecklyBot](https://t.me/checklybot) - *Checklist Telegram Bot*
@@ -1255,6 +1256,7 @@ General Reading Sites*
 * [FreshTube](https://porjo.github.io/freshtube/) - *Display Latest Video from Subscriptions* 
 * [Youtube_Subs_Bot](https://t.me/youtube_subs_bot) - *Sub to Channels Without Account* 
 * [TubeBuddy](https://www.tubebuddy.com/) - *YouTube Channel Tools*
+* [vidIQ](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl) - *YouTube Viewership Data*
 * [Channel Crawler](https://channelcrawler.com/eng) - *YouTube Channel Search*
 * [TubeArchivist](https://www.tubearchivist.com/) - *Archival Youtube Media Server / [GitHub](https://github.com/bbilly1/tubearchivist)*
 * [Astronaut.io](http://astronaut.io/), [Incognitube](https://www.incognitube.com/) or [Petit tube](http://www.petittube.com/) - *YouTube Vids with -100 views* 
@@ -1375,7 +1377,7 @@ General Reading Sites*
 * [Minimal Twitter](https://www.wang.sh/minimal-twitter) - *Minimal Twitter Themes*
 * [Tweak New Twitter](https://github.com/insin/tweak-new-twitter) - *Twitter Enhancement Extension*
 * [Twitonomy](https://www.twitonomy.com/) or [Affinitweet](https://affinitweet.com/) - *Twitter Dashboard / Analytics* 
-* [TweetDeck](https://tweetdeck.twitter.com/) or [Tweeten](https://tweetenapp.com/) - *Twitter Dashboard*
+* [TweetDeck](https://tweetdeck.twitter.com/) / [Enhance](https://better.tw/) or [Tweeten](https://tweetenapp.com/) - *Twitter Dashboard*
 * [TweetDuck](https://github.com/chylex/TweetDuck) - *Twitter Desktop Client*
 * [BackTweets](http://backtweets.com/), [twXplorer](https://twxplorer.knightlab.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - *Search Twitter* 
 * [Twishort](https://twishort.com/) - *Make Longer Tweets*
@@ -1534,7 +1536,7 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - *Laptop CPU Monitor / Optimizer*
 * [perf-book](https://github.com/dendibakh/perf-book) - *CPU Performance Analysis and Tuning Book*
 * [MemTest](https://www.memtest.org/) - *Memory Diagnostic Tool*
-* [Mem Reduct](https://www.henrypp.org/product/memreduct) - *Windows System Memory Cleaner*
+* [Mem Reduct](https://www.henrypp.org/product/memreduct) - *Windows System Memory Cleaner / [GitHub](https://github.com/henrypp/memreduct)*
 * [CPUid](https://www.cpuid.com/softwares/cpu-z.html), [winfetch](https://github.com/kiedtl/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - *System Information Tool* 
 * [HWiNFO](https://www.hwinfo.com/) - *Hardware Analysis, Monitoring and Reporting*
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - *AMD Processor Power Management*
@@ -1565,8 +1567,10 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [Search Deflector](https://github.com/spikespaz/search-deflector) - *Change Cortana Search Engine / Browser*
 * [Recoll](https://www.lesbonscomptes.com/recoll/) or [AnyTXT](https://anytxt.net/) - *Improved Windows Search / [Site Indexer](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/)* 
 * [Run](https://docs.microsoft.com/en-us/windows/powertoys/run) - *Windows Spotlight Search*
+* [DLL-Hijack-Search-Order-BOF](https://github.com/EspressoCake/DLL-Hijack-Search-Order-BOF) - *DLL File Search*
 * [Killer](https://github.com/ntaraujo/killer) or [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - *Improved Task Manager / [Discord](https://discord.gg/MKG6qgJ964)*
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - *Improved System Menu*
+* [Nsudo](https://nsudo.m2team.org/en-us/) - *System Admin Tools / [GitHub](https://github.com/M2Team/NSudo)*
 * [MIUIShade](https://www.deviantart.com/jaxoriginals/art/MIUI-Shade-v2-0-885183361) - *Windows MIUI Dropdown Menu*
 * [All Tasks Toolbar](https://winaero.com/create-all-tasks-god-mode-toolbar-windows-10/) - *Create All Tasks God Mode Toolbar in Win 10* 
 * [WindowsManager](https://www.eusing.com/WindowManager/WindowManager.htm) or [Compiz Fusion](http://www.compiz-fusion.org/) - *Improved Windows Manager*
@@ -1874,7 +1878,7 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [MegaKeep](https://github.com/xCryptic/MegaKeep) - *Login to Multiple Mega Accounts*
 * [Mega Checker](https://github.com/Titoot/mega-checker) - *Mega Link Checker*
 * [Unlimited Mega Storage](https://redd.it/ffrkf3) - *Unlimited Mega Storage Guide*
-* [MegaBox](https://github.com/ALIILAPRO/megabox) or [GetMega](http://getmega.net/) - *Direct Mega Links* 
+* [GetMega](http://getmega.net/) - *Direct Mega Links* 
 * [MEGA Uploader X](https://t.me/MegaUploadXbot) - *Remote Mega File Upload Bot*
 * [GDrive Guides](https://t.me/gdriveguides) - *GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)*
 * [Torrent2Drive](https://t.me/torrent_2_drive), [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - *DDL to GDrive Tool*
@@ -1883,7 +1887,6 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [GDriveDL](https://github.com/ariakm25/GDriveDL) or [gogdl-ng](https://github.com/gogdl-ng/gogdl-ng) - *Google Drive Bulk Downloader*
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - *Google Drive Python Download Script*
 * [GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) - *GoIndex to GDrive Downloader*
-* [GDUploadBot](https://t.me/gduploadbot) - *Telegram GDrive Upload Bot*
 * [GDriveSearcherBot](https://github.com/TheHamkerCat/GdriveSearcherBot) - *GDrive Search Bot*
 * [gd-utils](https://github.com/roshanconnor123/gd-utils) / [2](https://nenokkadine.github.io/GD-Utils/) or [Bypass-GDrive](https://yuudrive.me/tools/bypass-gdrive) - *Google Drive Limit Bypass* 
 * [G-Index](https://github.com/LeeluPradhan/G-Index), [goindex](https://github.com/alx-xlx/goindex), [GDI](https://github.com/anymeofu/GDI) or [gdrive-index](https://github.com/alx-xlx/gdrive-index) - *Google Drive Index*
