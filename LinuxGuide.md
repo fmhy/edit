@@ -113,7 +113,7 @@
 * [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - *On-demand Window Manager Tiling*
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/jmmaranan/forge) - *GNOME Tiling Extension*
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - *KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)*
-* [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) - *Google Drive Downloader*
+* [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) or [GDown](https://github.com/wkentaro/gdown) - *Google Drive Downloader*
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - *Mount GDrive on Linux*
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) or [Achoz](https://github.com/kcubeterm/achoz) - *File Explorers*
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - *PDF Editor*
@@ -145,7 +145,7 @@
 * [cava](https://github.com/karlstav/cava) - *Console Audio Visualizer*
 * [Peek](https://github.com/phw/peek) - *Simple Video / GIF recorder*
 * [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - *Fake Webcam Background*
-* [utils](https://github.com/Loupeznik/utils) - *Linux Utility Scripts*
+* [utils](https://github.com/Loupeznik/utils) or [UsefulLinuxShellScripts](https://github.com/jackrabbit335/UsefulLinuxShellScripts) - *Linux Shell Tool Scripts*
 * [Mayfrost Guides](https://github.com/mayfrost/guides) - *Linux / Computing Guides*
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - *Easy Way to Use KVM*
 * [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - *Run Windows Apps in Linux* 
