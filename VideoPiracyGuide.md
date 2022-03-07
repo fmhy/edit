@@ -799,7 +799,8 @@
 * [Anime Anime (New & Requests)](https://drive.google.com/drive/folders/1XP7q-vSk0ImaRfLRkJ6-VkL7mLqlIwrw) - *Sub / Dub*
 * [Anime Time Drive](https://atdrive.animetimeserver.workers.dev/0:/) - *Sub / Dub* 
 * [nibl](https://nibl.co.uk/) - *Sub / Dub / Anime Downloads / XDCC*
-* [Golumpa](https://xdcc.golumpa.moe/) - *Dub /Anime / IRC Links*
+* [Golumpa](https://xdcc.golumpa.moe/) - *Dub / IRC Links*
+* [Bubble' Upscale Project](https://discord.gg/7kqqtJ7ArW) - *Upscaled Anime / Requests*
 * [Anime Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anime_download_apps) - *Anime Downloading Tools*
 * [manyame](https://github.com/asakura42/manyame/) - *IRC Anime Download Script* 
 * [Anime DL](https://archive.org/details/animedl4.0_202004) - *Stream & Download Anime in VLC*
