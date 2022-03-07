@@ -142,6 +142,7 @@
 * [Titanfall2HudToggle](https://www.mediafire.com/file/q3tld2cm31znu2z/Titanfall2HudToggle.rar/file) - *Toggle Titanfall 2 Hud*
 * [CnCNet](https://cncnet.org/) - *Multiplayer Command & Conquer* 
 * [Rusticaland](https://rusticaland.net/) - *Rust Cracked Client / Servers*
+* [Factorio.zone](https://factorio.zone/) - *Free Factorio Servers*
 * [NV: Multiplayer](https://nv-mp.com/) - *Fallout New Vegas Multiplayer Project / [Discord](https://discord.com/invite/mKVdhmEDrW)*
 * [FaceItFinder](https://faceitfinder.com/) - *FaceIt Stats Search*
 * [BF2142 Reclamation](https://battlefield2142.co/) - *BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)*
@@ -283,6 +284,7 @@
 * [PVPRP](https://pvprp.com/) - *Minecraft Texture Packs*
 * [IrisShader](https://www.curseforge.com/minecraft/mc-mods/irisshaders) - *Fabric Shadermod for Minecraft*
 * [Nova Skin](https://minecraft.novaskin.me/), [NeedCoolShoes](https://www.needcoolshoes.com/) or [Blockbench](https://www.blockbench.net/)- *Minecraft Skin Editor* 
+* [ChunkBase](https://www.chunkbase.com/apps/) - *Minecraft Map Tools*
 * [Amidst](https://github.com/toolbox4minecraft/amidst) - *Minecraft World Overview Display Tool*
 * [The Minecraft Archive Project](http://map.crummy.com/) - *Minecraft World Archive*
 * [Amulet](https://www.amuletmc.com/) - *Minecraft Map Editor / Viewer*
@@ -322,7 +324,6 @@
 * [TerrariaSoundBar](https://forums.terraria.org/index.php?threads/v0-2-terrariasoundbar-worlds-first-guitar-studio-macro-tool.93551/) - *Terraria In-Game Guitar*
 * [Increased FOV](https://gamebanana.com/tuts/14022) - *Increase Terraria FOV for 21:9 Monitors*
 * [Content Creation Guide](https://forums.terraria.org/index.php?threads/the-ultimate-guide-to-content-creation-and-use-for-the-terraria-workshop.100652/) - *Terraria Content Creation Guide Ultimate*
-
 
 *** 
 
@@ -389,6 +390,7 @@
 * [OpenVR FSR](https://github.com/fholger/openvr_fsr) - *Steam VR FidelityFX Super Resolution Mod*
 * [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - *Unlock Genshin Impact FPS Cap*
 * [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - *Unlock Roblox FPS Cap*
+* [Factorio Mods](https://1488.me/factorio/mods/en) - *Factorio Mods Downloader*
 * [Rekt](http://getrektby.us/) - *Black Ops 1 Mod Project / [Discord](https://discord.com/invite/HqjQFCp)*
 * [Plutonium](https://plutonium.pw/) - *Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)* 
 * [IW4x / IW6x](https://xlabs.dev/) - *COD MW2 Mod Project* 
