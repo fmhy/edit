@@ -1608,34 +1608,35 @@ Portuguese
 
 # ► Vietnamese 
 
-* [Coccoc](https://coccoc.com/search) - *Search*
+* [CocCoc](https://coccoc.com/search) - *Search*
 * [PhuDeViet](http://phudeviet.org/) - *Subtitles*
-* [EPhoto360](https://ephoto360.com/) or [ThiepMung](https://thiepmung.com/) - *Photo Effects*
 * [GameVui](https://gamevui.vn/) - *Browser Games*
 * [Game24h](https://game24h.vn/) - *Browser Games*
 * [KiTuHay](https://kituhay.com/) - *Special Characters*
-* [Run.vn](https://run.vn/) - *Emojis*
+* [Runvn](https://run.vn/) - *Emojis*
 * [Dafontvn](https://www.dafontvn.com/) - *Fonts*
 * [Unikey](https://www.unikey.org/) - *Vietnamese Keyboard*
+* [EPhoto360](https://ephoto360.com/) or [ThiepMung](https://thiepmung.com/) - *Photo Effects*
 * [hostsVN](https://bigdargon.github.io/hostsVN/) or [iBlockAds](https://iblockads.net/) - *Vietnamese Adblock Filters*
 
 ## ▷ Downloading
 
-* [Taiwebs](https://taiwebs.com/) - *Software / Android / Games*
 * [Fshare](https://timfshare.com/) - *Video / Audio / Software / Games*
+* [TaiWebs](https://taiwebs.com/) - *Software / Android / Games*
 * [Softonic](https://www.softonic.vn/) - *Software / Android / Games*
 * [SoftBuzz](https://softbuzz.net/) - *Software / Games*
 * [KhiPhach](https://khiphach.vn/) - *Software / Android / Games*
 * [Downvn](https://down.vn/) - *Software / Android / Games*
-* [DownloadVN](https://download.com.vn/) - *Software / Android / Games*
+* [Downloadvn](https://download.com.vn/) - *Software / Android / Games*
 * [TaiMienPhi](https://taimienphi.vn/) - *Software / Android / Games*
+* [TaiGame247](https://taigame247.net/) - *Games*
+* [BatGioiStudio](https://batgioistudio.com/) - *Games*
 * [LinkTaiGame](https://www.linktaigame.com/) - *Games*
 * [TaiNhanh](https://www.tainhanhvn.com/) - *Games*
 * [PhimDidibkk](https://phim.didibkk.com/) - *Movies / TV / Anime*
 * [CineTV](https://thuviencine.com/) - *Movies / TV / Anime*
 * [ThuvienHD](https://thuvienhd.com/) - *Movies / TV / Anime*
 * [WebTaiPhim](https://webtaiphim.com/) - *Movies / TV / Anime*
-* [FreeHD](https://freehd.me/) - *Movies / TV / Anime*
 * [ChiaSeNhac](https://chiasenhac.vn/) - *Music*
 * [ChiaSeAPK](https://www.chiaseapk.com/) - *Modded APKs*
 * [GocMod](https://www.gocmod.com/) - *Modded APKs*
@@ -1644,11 +1645,14 @@ Portuguese
 ## ▷ Torrenting
 
 * [NetHD](https://nethd.org/) - *Video / Audio / Software / Games*
+* [3ChangTrai](https://3changtrai.com/) - *Video / Audio / Software*
 
 ## ▷ Streaming
 
 * [TVHai](http://tvhai.org/) - *Movies / TV / Anime*
-* [VPHim](https://vphimzz.net/) - *Movies / TV*
+* [VPHim](https://vphimzz.net/) - *Movies / TV / Anime*
+* [BiluTV](https://bilutv.link/) - *Movies / TV / Anime*
+* [Vkool](https://vkoolz.net) - *Movies / TV*
 * [XemPhim](https://xemphim.app/) - *Movies / TV*
 * [MotChill](https://motchill.net/) - *Movies / TV*
 * [OPhim](https://ophim.net/) - *Movies / TV*
@@ -1678,12 +1682,15 @@ Portuguese
 * [SachVui](https://sachvui.vn/) - *Books*
 * [WebDocSach](https://webdocsach.net/) - *Books*
 * [MeTaiSach](https://metaisach.com/) - *Books*
+* [NhaSach](https://nhasachmienphi.com/) - *Books*
+* [MeDocTruyen](https://www.medoctruyentranh.net/), [2](https://www.medoctruyenchu.net/) - *Manga / Light Novels*
 * [Cmangaka](https://cmangaka.com/) - *Manga*
-* [TruyenQQ](http://truyenqqvip.com/) - *Manga*
-* [Nettruyengo](http://www.nettruyengo.com/) - *Manga*
+* [NetTruyen](http://www.nettruyengo.com/), [2](http://nhattruyenvip.com/) - *Manga*
+* [TruyenFull](https://truyenfull.vn/), [2](https://lnvs.net/) - *Manga / Light Novels*
 * [TruyenFull](https://truyenfull.vn/) - *Manga / Light Novels*
 * [Hayso1](https://hayso1.net/) - *Manga*
-* [HAKO](https://ln.hako.re/) - *Light Novels*
+* [Hako](https://ln.hako.re/), [2](https://docln.net/), [3](https://novelvn.net/) - *Light Novels*
+* [ValvrareTeam](http://valvrareteam.com/) - *Light Novels*
 * [Babla](https://www.babla.vn/) - *Dictionary*
 
 ***
