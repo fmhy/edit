@@ -1616,6 +1616,7 @@ Portuguese
 * [Runvn](https://run.vn/) - *Emojis*
 * [Dafontvn](https://www.dafontvn.com/) - *Fonts*
 * [Unikey](https://www.unikey.org/) - *Vietnamese Keyboard*
+* [Mail1s](https://mail1s.com/) - *Temp Email*
 * [EPhoto360](https://ephoto360.com/) or [ThiepMung](https://thiepmung.com/) - *Photo Effects*
 * [hostsVN](https://bigdargon.github.io/hostsVN/) or [iBlockAds](https://iblockads.net/) - *Vietnamese Adblock Filters*
 
