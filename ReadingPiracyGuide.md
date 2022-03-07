@@ -29,6 +29,7 @@
 * [Audiobooks Lab](https://audiobooklabs.com/) - *Listen Online*
 * [Legamus](https://legamus.eu/blog/) - *Listen Online*
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - *Listen Online / Select Playlists*
+* [AudioBooksBeyond](https://odysee.com/@AudioBooksBeyond:1) - *Audiobooks / Listen Online*
 * [Litube](https://litube.net/) - *Listen Online*
 * [AudioBook Reviews](https://audiobookreviews.com/) 
 * [xAudiobooks](https://xaudiobooks.com/)
@@ -625,6 +626,7 @@
 * [Science.gov](https://www.science.gov/) - *Science / Articles / Documents* 
 * [Liebertpub](https://liebertpub.com/) - *Science / Journals / Papers / Books*
 * [DOKU.PUB](https://doku.pub/) - *Science / Articles*
+* [ESJI](http://www.esjindex.org/) - *Science / Journals*
 * [Crossref](https://search.crossref.org/) - *Articles / Documents / Datasets* 
 * [Zenodo](https://zenodo.org/) - *Articles / Documents / Datasets* 
 * [Dataone](https://www.dataone.org/) - *Datasets* 
