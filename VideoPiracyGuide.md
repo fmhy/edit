@@ -263,7 +263,7 @@
 * [MyRM](https://myrunningman.com/) - *My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)*
 * [No-Laughing Batsu Game List](https://redd.it/2fgm9p) 
 * [cytube](https://cytu.be/) - *TV / Chat*
-* [ScrubTV](https://hidden.pm/) - *TV / Chat*
+* [ScrubTV](https://reboot.tube/), [2](https://hidden.pm/) - *TV / Chat*
 
 ***
 
