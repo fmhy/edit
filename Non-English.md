@@ -102,16 +102,17 @@
 # ► Chinese 
 
 * [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - *Chinese Site / Tool Index*
-* [sejie6](https://sejie6.buzz/ ) - *Chinese Site / Tool Index / NSFW*
+* [sejie6](https://sejie6.buzz/) - *Chinese Site / Tool Index / NSFW*
 * [jialezi](https://blog.jialezi.net/) - *Chinese Tutorials*
 * [Kaiheila](https://www.kaiheila.cn/) - *Chinese Discord*
 * [zimuku](http://zimuku.org/), [YYets](https://www.yyets.com/) or [SubHD](https://subhd.tv/) - *Subtitles*
 * [Anti-Ad](https://anti-ad.net/) - *Adblock Filters*
 * [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - *Search Engines*
 * [Dianying](https://dianying.fm/) - *Hash Search*
-* [磁力海](https://cilidog.cc/) - *DHT Search *
+* [磁力海](https://cilidog.cc/) - *DHT Search*
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io) or [OilAndFish](https://www.oilandfish.com/) - *Bypass Chinese Firewall*  
+* [Gridea](https://github.com/getgridea/gridea) - *Blog Writing Client*
 * [Dict.Baidu](https://dict.baidu.com/) - *Chinese Word, Idiom & Poem Search*
 * [SeiWatei](https://www.seiwatei.net/) - *Chinese Learning Tools*
 * [Oh.Taigi](https://oh.taigi.info/) - *Chinese Taiwanese Learning Tools*
@@ -1612,16 +1613,16 @@ Portuguese
 
 * [CocCoc](https://coccoc.com/search) - *Search*
 * [PhuDeViet](http://phudeviet.org/) - *Subtitles*
-* [GameVui](https://gamevui.vn/) - *Browser Games*
-* [Game24h](https://game24h.vn/) - *Browser Games*
-* [KiTuHay](https://kituhay.com/) - *Special Characters*
-* [Runvn](https://run.vn/) - *Emojis*
-* [Dafontvn](https://www.dafontvn.com/) - *Fonts*
+* [GameVui](https://gamevui.vn/), [Game24h](https://game24h.vn/) or [Game247](https://game247.vn/) - *Browser Games*
+* [KiTuHay](https://kituhay.com/), [KTDB](https://ktdb.vn/) or [KiTuAz](https://kituaz.com/) - *Special Characters*
+* [IconDep](https://icondep.com/), [Run](https://run.vn/) or [IconFB](https://iconfb.net/) - *Emojis*
+* [Dafontvn](https://www.dafontvn.com/) or [FontChu](http://fontchu.com/) - *Fonts*
 * [Unikey](https://www.unikey.org/) - *Vietnamese Keyboard*
 * [Mail1s](https://mail1s.com/) - *Temp Email*
-* [EPhoto360](https://ephoto360.com/) or [ThiepMung](https://thiepmung.com/) - *Photo Effects*
- * [KiemTraIP](https://kiemtraip.com/), [IPCuaToi](https://ipcuatoi.com/), [CheckIP](https://checkip.vip/) - *IP Checkers*
-* [hostsVN](https://bigdargon.github.io/hostsVN/) or [iBlockAds](https://iblockads.net/) - *Vietnamese Adblock Filters*
+* [DauDau](https://www.daudau.tk/) - *Text to Speech*
+* [EPhoto360](https://ephoto360.com/), [ThiepMung](https://thiepmung.com/), [HieuUngAnh](https://hieuunganh.com/), [ThiepHay](https://thiephay.com/), [KhungAnh](https://khunganhonline.com/) or [TaoCover](https://taocover.com/) - *Photo Effects*
+* [KiemTraIP](https://kiemtraip.com/), [IPCuaToi](https://ipcuatoi.com/) or [CheckIP](https://checkip.vip/) - *IP Checkers*
+* [hostsVN](https://bigdargon.github.io/hostsVN/), [iBlockAds](https://iblockads.net/) or [FMSF2](https://nmtrung.com/fmsf-2/) - *Vietnamese Adblock Filters*
 
 ## ▷ Downloading
 
