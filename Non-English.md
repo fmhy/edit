@@ -1613,7 +1613,7 @@ Portuguese
 
 * [CocCoc](https://coccoc.com/search) - *Search*
 * [PhuDeViet](http://phudeviet.org/) - *Subtitles*
-* [GameVui](https://gamevui.vn/), [Game24h](https://game24h.vn/) or [Game247](https://game247.vn/) - *Browser Games*
+* [GameVui](https://gamevui.vn/), [Game24h](https://game24h.vn/), [ChoiGame24](https://choigame24.com/) or [Game247](https://game247.vn/) - *Browser Games*
 * [KiTuHay](https://kituhay.com/), [KTDB](https://ktdb.vn/) or [KiTuAz](https://kituaz.com/) - *Special Characters*
 * [IconDep](https://icondep.com/), [Run](https://run.vn/) or [IconFB](https://iconfb.net/) - *Emojis*
 * [Dafontvn](https://www.dafontvn.com/) or [FontChu](http://fontchu.com/) - *Fonts*
@@ -1646,6 +1646,8 @@ Portuguese
 * [ChiaSeAPK](https://www.chiaseapk.com/) - *Modded APKs*
 * [GocMod](https://www.gocmod.com/) - *Modded APKs*
 * [LMHMod](https://lmhmod.com/) - *Modded APKs*
+* [GameHay](https://gamehayvl.io/) - *Modded APKs*
+* [Game4u](https://game4u.mobi/) - *Modded APKs*
 
 ## ▷ Torrenting
 
@@ -1660,9 +1662,11 @@ Portuguese
 * [Vkool](https://vkoolz.net) - *Movies / TV*
 * [XemPhim](https://xemphim.app/) - *Movies / TV*
 * [MotChill](https://motchill.net/) - *Movies / TV*
+* [BiChill](https://bichill.tv/) - *Movies / TV*
 * [OPhim](https://ophim.net/) - *Movies / TV*
 * [PhimBo](https://phimbo.tv/) - *Movies / TV*
-* [Phim1080](https://phim1080z.com/) - *Movies / TV*
+* [DongPhim](https://dongphymtv.com/) - *Movies / TV*
+* [Phim1080](https://phim1080z.com/), [2](https://fim1080.com/) - *Movies / TV*
 * [PhimHD](http://phimhd.xyz/) - *Movies / TV*
 * [PhimGi](https://phimgii.tv/) - *Movies / TV*
 * [PhimTor](https://phimtor.com/) - *Movies*
@@ -1671,12 +1675,14 @@ Portuguese
 * [HHPanda](https://hhpanda.tv/) - *Chinese Animation*
 * [HHNinja](https://www.hhninja.xyz/) - *Chinese Animation*
 * [HHKungfu](https://hhhkungfu.tv/) - *Chinese Animation*
+* [HHTQvip](https://hhtq.vip/) - *Chinese Animation*
 * [VuiGhe](https://vuighe.net/) - *Anime*
 * [AnimeHay](https://animehay.club/) - *Anime*
 * [AnimeTVN](https://animetvn.com/) - *Anime*
 * [VietToons](https://viettoons.tv/) - *Cartoons*
-* [TokuVN](https://tokuvn.com/) - *Tokusatsu*
+* [Tokuvn](https://tokuvn.com/) - *Tokusatsu*
 * [TVOnline](http://tvonline.vn/) - *Live TV*
+* [TVTrucTuyen](http://tvtructuyen.vn/) - *Live TV*
 * [XemBD](https://xembd.link/) - *Live Soccer*
 * [ZingMP3](https://zingmp3.vn/) - *Music*
 * [NhacCuaTui](https://www.nhaccuatui.com/) - *Music*
@@ -1688,6 +1694,11 @@ Portuguese
 * [WebDocSach](https://webdocsach.net/) - *Books*
 * [MeTaiSach](https://metaisach.com/) - *Books*
 * [NhaSach](https://nhasachmienphi.com/) - *Books*
+* [TaiSach](https://taisachmienphi.com/) - *Books*
+* [DocSach24](https://docsach24.co/) - *Books*
+* [GacSach](https://gacsach.club/) - *Books*
+* [SachHay](https://www.sachhayonline.com/) - *Books*
+* [KhoSach](https://khosachonline.com/) - *Books*
 * [MeDocTruyen](https://www.medoctruyentranh.net/), [2](https://www.medoctruyenchu.net/) - *Manga / Light Novels*
 * [Cmangaka](https://cmangaka.com/) - *Manga*
 * [NetTruyen](http://www.nettruyengo.com/), [2](http://nhattruyenvip.com/) - *Manga*
@@ -1696,6 +1707,8 @@ Portuguese
 * [Hako](https://ln.hako.re/), [2](https://docln.net/), [3](https://novelvn.net/) - *Light Novels*
 * [ValvrareTeam](http://valvrareteam.com/) - *Light Novels*
 * [Babla](https://www.babla.vn/) - *Dictionary*
+* [VDict](https://vdict.com/) - *Dictionary*
+* [VTuDien](https://vtudien.com/) - *Dictionary*
 
 ***
 
