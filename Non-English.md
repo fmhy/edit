@@ -1612,16 +1612,17 @@ Portuguese
 
 * [CocCoc](https://coccoc.com/search) - *Search*
 * [PhuDeViet](http://phudeviet.org/) - *Subtitles*
-* [GameVui](https://gamevui.vn/) - *Browser Games*
-* [Game24h](https://game24h.vn/) - *Browser Games*
-* [KiTuHay](https://kituhay.com/) - *Special Characters*
-* [Runvn](https://run.vn/) - *Emojis*
-* [Dafontvn](https://www.dafontvn.com/) - *Fonts*
+* [GameVui](https://gamevui.vn/), [Game24h](https://game24h.vn/), [Game247](https://game247.vn/) - *Browser Games*
+* [KiTuHay](https://kituhay.com/), [KTDB](https://ktdb.vn/), [KiTuAz](https://kituaz.com/) - *Special Characters*
+* [IconDep](https://icondep.com/), [Run](https://run.vn/), [IconFB](https://iconfb.net/) - *Emojis*
+* [Dafontvn](https://www.dafontvn.com/), [FontChu](http://fontchu.com/) - *Fonts*
 * [Unikey](https://www.unikey.org/) - *Vietnamese Keyboard*
 * [Mail1s](https://mail1s.com/) - *Temp Email*
-* [EPhoto360](https://ephoto360.com/) or [ThiepMung](https://thiepmung.com/) - *Photo Effects*
- * [KiemTraIP](https://kiemtraip.com/), [IPCuaToi](https://ipcuatoi.com/), [CheckIP](https://checkip.vip/) - *IP Checkers*
-* [hostsVN](https://bigdargon.github.io/hostsVN/) or [iBlockAds](https://iblockads.net/) - *Vietnamese Adblock Filters*
+* [DauDau](https://www.daudau.tk/) - *Text to Speech*
+* [AnhSieuViet](https://anhsieuviet.com/), [UpHinh](https://uphinh.vn/), [UpAnh](https://upanh.tv/) - *Image Hosting*
+* [EPhoto360](https://ephoto360.com/), [ThiepMung](https://thiepmung.com/), [HieuUngAnh](https://hieuunganh.com/), [ThiepHay](https://thiephay.com/), [KhungAnh](https://khunganhonline.com/), [TaoCover](https://taocover.com/) - *Photo Effects*
+* [KiemTraIP](https://kiemtraip.com/), [IPCuaToi](https://ipcuatoi.com/), [CheckIP](https://checkip.vip/) - *IP Checkers*
+* [hostsVN](https://bigdargon.github.io/hostsVN/), [iBlockAds](https://iblockads.net/), [FMSF2](https://nmtrung.com/fmsf-2/) - *Vietnamese Adblock Filters*
 
 ## ▷ Downloading
 
