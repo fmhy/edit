@@ -351,11 +351,12 @@
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
 * [ChariFree](https://play.google.com/store/apps/details?id=com.charifree) - *Donate by Watching Ads*
 * [Appetize](https://appetize.io/) - *Run Native Mobile Apps in Browser*
-* [Albastuz3d](https://albastuz3d.net/) - *Stock Phone Roms*
+* [Albastuz3d](https://albastuz3d.net/) - *Stock Phone ROMs*
 * [ROMphonix](http://162.154.76.208/) - *Old Mobile Firmware / [Discord](https://discord.com/invite/2GKuJjQagp)*
 * [NokiaFIimwareGP](https://t.me/nokiafirmwaregp) or [NokiaOldFirmware](https://t.me/nokiaoldfirmware) - *Nokia Firmware*
 * [How to Install a Custom ROM](https://www.xda-developers.com/how-to-install-custom-rom-android/amp/) - *Custom ROM Installation Guide*
 * [Odin](https://www.odindownload.com/) or [IVTheme](https://www.ivtheme.com/) - *ROM Flashing Tools*
+* [Anarchy-Droid](https://anarchy-droid.com/) - *Custom Android ROM / [Github](https://github.com/amo13/Anarchy-Droid)*
 * [UniPatcher](https://github.com/btimofeev/UniPatcher) - *ROM Patcher*
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice) - *Device Tracker*
 * [OwnTracks](https://owntracks.org/) or [Hauk](https://github.com/bilde2910/Hauk) - *Track Own Location*
@@ -714,6 +715,7 @@
 * [Syncler](https://syncler.net/) - *Movies / TV / [How-To](https://pastebin.com/VsiKV9rm)*
 * [Rokkr](http://www.rokkr.net/) - *Movies / TV / Add "huhu.to", "bs.to" or "oha.to"* 
 * [Cyberflix TV](https://cyberflix.me/) - *Movies / TV*
+* [MrFTV](https://mrftv.com/) - *Movies / TV*
 * [STBEmu](https://docs.stbemu.com/download/) - *Emulate a STB and Watch IPTV*
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - *YTS Torrents* 
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - *Chinese Drama* 
