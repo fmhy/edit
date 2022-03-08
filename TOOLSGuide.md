@@ -278,6 +278,7 @@
 * [MotionFactory](https://www.motionfactory.io/) - *Video Editing Workflow Manager*
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) or [OBS Ninja](https://obs.ninja/) - *Streaming Tools Indexes*
 * [SteamLabs](https://streamlabs.com/) - *Streaming Tools*
+* [dart_vlc](https://github.com/alexmercerind/dart_vlc) - *Video Recording / Streaming*
 * [VegasScripts](https://github.com/otomad/VegasScripts) - *MAGIX Vegas Scripts*
 * [VDO.Ninja](https://vdo.ninja/) - *Remote Camera Video Production*
 * [OBS](https://obsproject.com/), [Wigistream](https://wigistream.to/) or [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs) - *Video Recording / Live Streaming / [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT)* 
@@ -1499,6 +1500,7 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [SmartWindows](https://smartwindows.app/) - *Create / Restore Windows Profiles* 
 * [VirtualBox](https://www.virtualbox.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - *Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)*
 * [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - *Windows XP Virtual Machine*
+* [windows95](https://github.com/felixrieseberg/windows95) - *Windows 95 in Electron*
 * [Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) - *MacOS Virtual Machine*
 * [Ryzen Hackintosh](https://github.com/mikigal/ryzen-hackintosh) - *MacOS VM for Ryzen*
 * [XiaoMi NoteBook Pro Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - *MacOS VM for XiaoMi NoteBooks*
