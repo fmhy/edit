@@ -441,7 +441,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Developer Tools
 
-[free-for.dev](https://free-for.dev/), [DevToys](https://github.com/veler/DevToys), [JetBrains](https://jetbrains.com/) / [Trial Reset](https://rentry.org/52oyb), [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Dev stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/)
+[free-for.dev](https://free-for.dev/), [DevToys](https://github.com/veler/DevToys), [JetBrains](https://jetbrains.com/) / [Trial Reset](https://rentry.org/52oyb), [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Dev stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [CleanCSS](https://www.cleancss.com/)
 
 ***
 
@@ -991,12 +991,11 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down
 * https://sguru.org/libgen-proxy/
 * https://libgen.me/
-* http://libgen.rs/ 
-* http://libgen.rs/
 * https://libgen.xyz/
 * https://libgen.space/
 * http://libgen.lc/
 * http://libgen.li/
+* https://libgen.fun/
 
 ***
 
