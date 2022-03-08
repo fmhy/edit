@@ -526,7 +526,7 @@
 * [Shizuku](https://shizuku.rikka.app/) - *Connect Apps to APIs*
 * [CollectionConcurrencyKit ](https://github.com/JohnSundell/CollectionConcurrencyKit) - *Async & Concurrent Versions of Swift APIs*
 * [MobileApp-Pentest-Cheatsheet](https://github.com/fuzz-security/MobileApp-Pentest-Cheatsheet) - *Mobile App Penetration Test Index*
-* [Uiautomator2](https://github.com/openatx/uiautomator2) - *Automated App Testing*
+* [Uiautomator2](https://github.com/openatx/uiautomator2) or [Appium](http://appium.io/) / [GitHub](https://github.com/appium/appium) - *Automated App Testing*
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - *Intentionally vulnerable Android application*
 * [PM2](https://pm2.keymetrics.io/) - *Process Manager*
 * [React95](https://react95.io/) - *Windows 95 React Components*
