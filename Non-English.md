@@ -1619,6 +1619,8 @@ Portuguese
 * [Dafontvn](https://www.dafontvn.com/) or [FontChu](http://fontchu.com/) - *Fonts*
 * [Unikey](https://www.unikey.org/) - *Vietnamese Keyboard*
 * [Mail1s](https://mail1s.com/) - *Temp Email*
+* [123Note](https://123note.net/), [Notepad](https://notepad.vn/), [GhiChu](https://ghichu.vn/) - *Notepad Tools*
+* [Random](https://random.com.vn/), [QuaySo](https://quayso.vn/), [NgauNhien](https://ngaunhien.vn/) - *Random Tools*
 * [DauDau](https://www.daudau.tk/) - *Text to Speech*
 * [EPhoto360](https://ephoto360.com/), [ThiepMung](https://thiepmung.com/), [HieuUngAnh](https://hieuunganh.com/), [ThiepHay](https://thiephay.com/), [KhungAnh](https://khunganhonline.com/) or [TaoCover](https://taocover.com/) - *Photo Effects*
 * [KiemTraIP](https://kiemtraip.com/), [IPCuaToi](https://ipcuatoi.com/) or [CheckIP](https://checkip.vip/) - *IP Checkers*
@@ -1643,6 +1645,7 @@ Portuguese
 * [ThuvienHD](https://thuvienhd.com/) - *Movies / TV / Anime*
 * [WebTaiPhim](https://webtaiphim.com/) - *Movies / TV / Anime*
 * [ChiaSeNhac](https://chiasenhac.vn/) - *Music*
+* [NhacPro](https://nhacpro.me/) - *Music*
 * [ChiaSeAPK](https://www.chiaseapk.com/) - *Modded APKs*
 * [GocMod](https://www.gocmod.com/) - *Modded APKs*
 * [LMHMod](https://lmhmod.com/) - *Modded APKs*
@@ -1661,7 +1664,7 @@ Portuguese
 * [BiluTV](https://bilutv.link/) - *Movies / TV / Anime*
 * [Vkool](https://vkoolz.net) - *Movies / TV*
 * [XemPhim](https://xemphim.app/) - *Movies / TV*
-* [MotChill](https://motchill.net/) - *Movies / TV*
+* [MotChill](https://motchill.net/),[2](https://motphimtv.tv/) - *Movies / TV*
 * [BiChill](https://bichill.tv/) - *Movies / TV*
 * [OPhim](https://ophim.net/) - *Movies / TV*
 * [PhimBo](https://phimbo.tv/) - *Movies / TV*
@@ -1669,6 +1672,10 @@ Portuguese
 * [Phim1080](https://phim1080z.com/), [2](https://fim1080.com/) - *Movies / TV*
 * [PhimHD](http://phimhd.xyz/) - *Movies / TV*
 * [PhimGi](https://phimgii.tv/) - *Movies / TV*
+* [MeoPhim](https://meophim.tv/) - *Movies / TV*
+* [PhimHay](https://phimhaytvv.net/) - *Movies / TV*
+* [PhimGi](https://phimgii.tv/) - *Movies / TV*
+* [ZingTV](https://zingvntv.com/) - *Movies / TV*
 * [PhimTor](https://phimtor.com/) - *Movies*
 * [HoatHinhTQ](https://www.hhtq.net/) - *Chinese Animation*
 * [HHTQtv](https://hhtq.tv/) - *Chinese Animation*
