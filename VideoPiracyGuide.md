@@ -118,7 +118,6 @@
 
 * **[FMovies](https://fmovies.name/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)*
 * **[Movolo](https://movolo.vercel.app/)** - *Movies / TV*
-* **[PrimeWire](https://www.primewire.tf/)** - *Movies / TV / Anime*
 * **[HiMovies](https://www3.himovies.to/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)*
 * **[PrettyFlix](https://prettyflix.gq/)** - *Movies / TV / Anime*
 * **[Arthemis](https://releases.arthemis.xyz/)** - *Movies / TV / Anime / Client / [Discord](https://discord.gg/98HxbfjKQV)*
@@ -129,6 +128,7 @@
 * [2Embed](https://www.2embed.ru/library) - *Movies / TV*
 * [Series9](https://series9.me/), [2](https://series9.fun/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_goldmovies_clones)* 
 * [Cloudy](https://cloudy.pk/category/english/) - *Movies / TV*
+* [PrimeWire](https://www.primewire.tf/) - *Movies / TV / Anime*
 * [Levidia](https://www.levidia.ch/) - *Movies / TV / Anime*
 * [Movies123](https://www.movies123.email/) or [123movies](https://ww.123movies.club) - *Movies / TV / Anime* 
 * [TopEuroPix](https://topeuropix.site/) or [europixHD](https://europixhd.pro/) - *Movies / TV / Anime*
