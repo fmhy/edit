@@ -708,6 +708,7 @@
 * [Berg](https://www.funkymuse.dev/p/berg.html) - *Movies / TV / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * [SupaFlix](https://supaflix.1mt.top/) - *Movies / TV* 
 * [GodFather](https://movies.godfather.vip/download.php) - *Movies / TV / Anime*
+* [LokLok](https://loklok.com/download) - *Movies / TV / Anime*
 * [MOTV](http://motv.top/) - *Movies / TV / Chromecast*
 * [ROTV](https://rotv.xyz/) - *Movies / TV*
 * [CyroseHD](https://cyrosehd.com/) - *Movies / TV*
@@ -1110,6 +1111,7 @@ RSS Player*
 * [MovieByImage](https://apps.apple.com/us/app/movie-finder-movie-by-image/id1560301878) - *Movies / Code: 777*
 * [MediaBox](https://mediaboxhd.net/) - *Movies / TV*
 * [Arthemis](https://app.arthemis.xyz/) - *Movies / TV / Anime*
+* [LokLok](https://apps.apple.com/app/id1610640217) - *Movies / TV / Anime*
 * [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756) - *Movies / TV*
 * [ZiniTevi](https://zinitevi.github.io/movieapps/) - *Movies* 
 * [Blackbox](https://apps.apple.com/ca/app/black-box-movie-listing/id958957112) - *Movies* 
