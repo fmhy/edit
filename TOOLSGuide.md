@@ -947,9 +947,16 @@
 * [u.nu](https://u.nu/) - `u.nu/5nhzi`
 * [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
 * [wal.ee](https://wal.ee/) - `wal.ee/zluqo`
+* [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
+* [hoo.gl](http://hoo.gl/) - `hoo.gl/p7YP`
+* [xy2.eu](http://xy2.eu/) - `xy2.eu/p7YP`
+* [goo.su](https://goo.su/) - `goo.su/7pNRjy7`  / [Extension](https://chrome.google.com/webstore/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
+* [tny.im](http://tny.im) - `tny.im/rw-`
+* [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
 * [offf.to](https://offf.to/) - *Short Links via Browser*
 * [Anonymiz](https://anonymiz.com/shorten-url) - *Anonymous URLs* - `anonymiz.com/vwiq`
 * [Anon.to](https://anon.to/) - *Anonymous URLs* - `anon.to/7SWqpG`
+* [sh4re.be](https://sh4re.be/) - *Anonymous URLs* - `sh4re.be/20146`
 * [Thinfi](https://thinfi.com/) - *Password protect a short URL* - `thinfi.com/q8aw`
 * [ShadyURL](http://www.shadyurl.com/) - *Make Suspicious Looking URLs* - `5z8.info/warez_zozu`
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - *Telegram Link Shortener Bot* 
