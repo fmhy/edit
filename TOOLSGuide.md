@@ -950,7 +950,7 @@
 * [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
 * [hoo.gl](http://hoo.gl/) - `hoo.gl/p7YP`
 * [xy2.eu](http://xy2.eu/) - `xy2.eu/p7YP`
-* [goo.su](https://goo.su/) - `goo.su/7pNRjy7`  / [Extension](https://chrome.google.com/webstore/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
+* [goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Extension](https://chrome.google.com/webstore/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
 * [tny.im](http://tny.im) - `tny.im/rw-`
 * [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
 * [offf.to](https://offf.to/) - *Short Links via Browser*
