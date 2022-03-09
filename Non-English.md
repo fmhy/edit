@@ -1644,8 +1644,12 @@ Portuguese
 * [CineTV](https://thuviencine.com/) - *Movies / TV / Anime*
 * [ThuvienHD](https://thuvienhd.com/) - *Movies / TV / Anime*
 * [WebTaiPhim](https://webtaiphim.com/) - *Movies / TV / Anime*
-* [ChiaSeNhac](https://chiasenhac.vn/) - *Music*
+* [TinMp3](https://tinmp3.com/) - *Music*
+* [NhacHay360](https://nhachayvn.net/), [2](https://nhachay360.com/) - *Music*
 * [NhacPro](https://nhacpro.me/) - *Music*
+* [NhacRemix](https://nhacremixs.com/) - *Music*
+* [NgheNhac123](https://nghenhac123.com/) - *Music*
+* [DJ24h](https://dj24h.com/) - *Music*
 * [ChiaSeAPK](https://www.chiaseapk.com/) - *Modded APKs*
 * [GocMod](https://www.gocmod.com/) - *Modded APKs*
 * [LMHMod](https://lmhmod.com/) - *Modded APKs*
@@ -1664,7 +1668,7 @@ Portuguese
 * [BiluTV](https://bilutv.link/) - *Movies / TV / Anime*
 * [Vkool](https://vkoolz.net) - *Movies / TV*
 * [XemPhim](https://xemphim.app/) - *Movies / TV*
-* [MotChill](https://motchill.net/),[2](https://motphimtv.tv/) - *Movies / TV*
+* [MotChill](https://motchill.net/), [2](https://motphimtv.tv/) - *Movies / TV*
 * [BiChill](https://bichill.tv/) - *Movies / TV*
 * [OPhim](https://ophim.net/) - *Movies / TV*
 * [PhimBo](https://phimbo.tv/) - *Movies / TV*
@@ -1691,8 +1695,11 @@ Portuguese
 * [TVOnline](http://tvonline.vn/) - *Live TV*
 * [TVTrucTuyen](http://tvtructuyen.vn/) - *Live TV*
 * [XemBD](https://xembd.link/) - *Live Soccer*
+* [ChiaSeNhac](https://chiasenhac.vn/) - *Music*
 * [ZingMP3](https://zingmp3.vn/) - *Music*
 * [NhacCuaTui](https://www.nhaccuatui.com/) - *Music*
+* [Muvi](https://muvi.vn/) - *Music*
+* [Nhacvn](https://nhac.vn/) - *Music*
 
 ## ▷ Reading
 
