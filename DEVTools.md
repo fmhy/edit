@@ -641,7 +641,7 @@
 * [Table Magic](https://stevecat.net/table-magic/) - *CSV, HTML & Markdown Converter*
 * [Markdown To HTML](https://markdowntohtml.com/) - *Markdown to HTML Converter*
 * [Word2md](https://word2md.com/) - *Word to Markdown Converter*
-* [Obsidian](https://obsidian.md/) - *Markdown File Organizer*  
+* [Obsidian](https://obsidian.md/) - *Markdown File Organizer / [Resources](https://github.com/kmaasrud/awesome-obsidian)*  
 * [MarkdownPastebin](https://markdownpastebin.com/) - *Markdown Pastebin*
 
 ***
