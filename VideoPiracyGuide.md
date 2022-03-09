@@ -117,7 +117,7 @@
 
 * **[FMovies](https://fmovies.name/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)*
 * **[Movolo](https://movolo.vercel.app/)** - *Movies / TV*
-* **[PrimeWire](https://www.primewire.li/)**, [2](https://www.primewire.vc/) - *Movies / TV / Anime / [Status](https://primewirestatus.org/)*
+* **[PrimeWire](https://www.primewire.tf/)** - *Movies / TV / Anime*
 * **[HiMovies](https://www3.himovies.to/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)*
 * **[PrettyFlix](https://prettyflix.gq/)** - *Movies / TV / Anime*
 * **[Arthemis](https://releases.arthemis.xyz/)** - *Movies / TV / Anime / Client / [Discord](https://discord.gg/98HxbfjKQV)*
@@ -346,7 +346,6 @@
 * [Funimation](https://www.funimation.com/shows/free/) - *Sub / Dub* 
 * [Pokemon.com](https://watch.pokemon.com/) - *Full Pokemon Episodes*
 * [Yuna](https://yuna.moe/) - *Anime Streaming App / [GitHub](https://github.com/BeeeQueue/yuna)*
-* [Yukino](https://yukino-app.github.io/) - *Anime Streaming App*
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - *Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/)* 
 * [Crunchyroll iFrame Player](https://greasyfork.org/en/scripts/411391-crunchyroll-iframe-player) - *Crunchyroll Premium Bypass Script / [GitHub](https://github.com/Mateus7G/crp-iframe-player)*
 * [Themes.moe](https://themes.moe/), [2](https://staging.animethemes.moe/wiki/) - *Anime Opening & Ending Themes*
@@ -799,7 +798,6 @@
 * [Anime Anime (New & Requests)](https://drive.google.com/drive/folders/1XP7q-vSk0ImaRfLRkJ6-VkL7mLqlIwrw) - *Sub / Dub*
 * [Anime Time Drive](https://atdrive.animetimeserver.workers.dev/0:/) - *Sub / Dub* 
 * [nibl](https://nibl.co.uk/) - *Sub / Dub / Anime Downloads / XDCC*
-* [Golumpa](https://xdcc.golumpa.moe/) - *Dub / IRC Links*
 * [Bubble' Upscale Project](https://discord.gg/7kqqtJ7ArW) - *Upscaled Anime / Requests*
 * [Anime Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anime_download_apps) - *Anime Downloading Tools*
 * [manyame](https://github.com/asakura42/manyame/) - *IRC Anime Download Script* 
