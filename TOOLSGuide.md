@@ -210,6 +210,7 @@
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - *Recursive Search Tool*
 * [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/), [Unilist](https://unilist.raphaelbastide.com/) or [Cool Symbol](https://coolsymbol.com/) - *Copy & Paste Unicode Characters*
 * [Donger List](http://dongerlist.com/) - *600+ Unicode Emoticons* 
+* [Japanese emoji copy and paste](https://japaneseemojicopyandpaste.com/) - *Lenny Face / Japanese Emoticons*
 * [taag](http://patorjk.com/software/taag/) - *ASCII Text Generator*
 * [Text Smileys](https://lenny-face-generator.textsmilies.com/) - *Create ASCII Face*
 * [ASCII Art Creator](https://github.com/CherryPill/ASCII-art-creator) or [ASCII Today](https://ascii.today/) - *ASCII Art Generator*
@@ -698,7 +699,7 @@
 * [Delta Chat](https://delta.chat/en/) - *Email Based Messenger* 
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - *Export Skype Chat Data to Readable Text*
-* [Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [Whereby](https://whereby.com/), [Videolink2me](https://videolink2me.com/), [TinyChat](https://tinychat.com/), [Noysi Meet](https://meet.noysi.com/), [iqc](https://icq.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat*
+* [Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [Whereby](https://whereby.com/), [Videolink2me](https://videolink2me.com/), [TinyChat](https://tinychat.com/), [Noysi Meet](https://meet.noysi.com/), [Zipcall](https://meet.questo.ai/), [iqc](https://icq.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat*
 * [Zoom Escaper](https://zoomescaper.com/) - *Self-Sabotage Video Calls to Escape Meetings*
 * [Live Curtain](https://livecurtain.com/) - *Countdown Curtain For Online Meeting*
 * [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Nertivia Chat](https://nertivia.net/), [Mumble](https://www.mumble.info/), [Zoiper](https://www.zoiper.com/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
@@ -1066,7 +1067,7 @@
 ***
 
 * **[Aliucord](https://github.com/Aliucord/Aliucord)** - *Modded Discord Client* 
-* **[BetterDiscord](http://betterdiscord.app/)** - *Modifiable Discord Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools) / [Web Client](https://github.com/Strencher/BdBrowser)*
+* **[BetterDiscord](http://betterdiscord.app/)** - *Modifiable Discord Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)*
 * **[Cumcord](https://cumcord.com/)** - *Discord Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)*
 * **[GooseMod](https://goosemod.com/)** - *Modifiable Discord Client / [Firefox](https://addons.mozilla.org/addon/goosemod-for-web/) / [Chrome](https://chrome.google.com/webstore/detail/goosemod-for-web/clgkdcccmbjmjdbdgcigpocfkkjeaeld)*
 * [Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists) - *Discover Servers / Bots*
@@ -1659,7 +1660,8 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [NirLauncher](https://launcher.nirsoft.net/) - *All Nirsoft Utilities in One App*
 * [TopGrade](https://github.com/r-darwish/topgrade) - *Package Manager Update Automation* 
 * [Winget](https://github.com/microsoft/winget-cli), [Scoop The Installer](https://github.com/couleur-tweak-tips/the-installer) or [bget](https://github.com/jahwi/bget) - *Windows Package Manager / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Tools](https://github.com/jdhitsolutions/WingetTools)* 
-* [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI) or [Ninite](https://ninite.com/) - *Install / Update Multiple Programs at Once*
+* [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI), [0Install](
+https://0install.net/) / [GitHub](https://github.com/0install/0install) or [Ninite](https://ninite.com/) - *Install / Update Multiple Programs at Once*
 * [Silent Install](https://www.silentinstall.org/) - *Build Multi-Program Installers*
 * [Revo Uninstaller](https://www.revouninstaller.com/), [Soft Organizer](https://www.dropbox.com/s/5k5pm5f2xwbk7gb/soft-organizer-746-setup.exe), [Geek Uninstaller](https://geekuninstaller.com/), [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) or [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - *Software Uninstallation Tool*
 * [O&O App Buster](https://www.oo-software.com/en/ooappbuster) - *Remove Pre-Installed Microsoft Apps*
