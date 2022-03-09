@@ -716,6 +716,7 @@
 * [Rokkr](http://www.rokkr.net/) - *Movies / TV / Add "huhu.to", "bs.to" or "oha.to"* 
 * [Cyberflix TV](https://cyberflix.me/) - *Movies / TV*
 * [MrFTV](https://mrftv.com/) - *Movies / TV*
+* [LokLok](https://loklok.com/download) - *Movies / TV*
 * [STBEmu](https://docs.stbemu.com/download/) - *Emulate a STB and Watch IPTV*
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - *YTS Torrents* 
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - *Chinese Drama* 
