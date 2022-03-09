@@ -102,6 +102,7 @@
 * [IMDB TV](https://www.imdb.com/tv/) - *Movies / TV*
 * [Playary](https://www.playary.com/) - *Movies / TV*
 * [Fawesome](https://fawesome.tv/) - *Movies / TV*
+* [LokLok](https://loklok.com/) - *Movies / TV*
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - *Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / [Windscribes](https://windscribe.com/) free version works*
 * [StreamDor](https://www.streamdor.com/), [FreeMovies](https://freemovies.ltd/) or [MoviesFoundOnline](https://moviesfoundonline.com/) - *Movies / YouTube*
 * [YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - *Youtube streaming subreddits*
