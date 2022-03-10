@@ -2328,7 +2328,7 @@ Add the following commands to a search to manually scrape each site.
 * [Typora](https://typora.io/)
 * [RemNote](https://www.remnote.io/)
 * [Foam](https://github.com/foambubble/foam)
-* [Xournal++](https://xournalpp.github.io/) - *GitHub](https://github.com/xournalpp/xournalpp)*
+* [Xournal++](https://xournalpp.github.io/) - *[GitHub](https://github.com/xournalpp/xournalpp)*
 * [Notepads](https://www.notepadsapp.com/)
 * [cherrytree](https://www.giuspen.com/cherrytree/)
 * [Xed](https://github.com/linuxmint/xed)
