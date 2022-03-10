@@ -141,7 +141,6 @@
 * [YesHD](https://yeshd.net/) - *Movies / TV*
 * [UWatchFree](https://www.uwatchfree.ph/) - *Movies / TV*  
 * [WatchSeriesHD](https://www4.watchserieshd.tv/) - *Movies / TV / Anime* 
-* [DownloadAnyMovie](https://www.downloads-anymovies.com/) - *Movies* 
 * [Vmovee](https://www.vmovee.watch/) - *Movies / TV*
 * [TinyZoneHD](https://tinyzonehd.net/) - *Movies / TV*
 * [WatchMoviesFree](https://wmoviesfree.com/) - *Movies*
