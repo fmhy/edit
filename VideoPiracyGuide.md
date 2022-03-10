@@ -121,7 +121,6 @@
 * **[HiMovies](https://www3.himovies.to/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)*
 * **[PrettyFlix](https://prettyflix.gq/)** - *Movies / TV / Anime*
 * **[Arthemis](https://releases.arthemis.xyz/)** - *Movies / TV / Anime / Client / [Discord](https://discord.gg/98HxbfjKQV)*
-* [YourPTFlixMovies](https://yourptflixmovies.com/) - *Movies / TV*
 * [Movie-Forum](https://movie-forum.co/forum.php) - *Movies / TV*
 * [K a p K e y K](https://kpkyk.com/) - *Movies / TV*
 * [Movies Ni Pipay](https://moviesnipipay.me/) - *Movies / TV*
@@ -991,7 +990,6 @@
 # ► Request Videos
 
 **[The MegaDrive](https://discord.gg/h2P5zsNMxZ)** - *Movies / TV / Anime*
-* **[YourPTFlix](https://yourptflixmovies.com/)** - *Movies / TV / Sports*
 * **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)** - *Movies / TV* 
 * **[Movie-Forum](https://movie-forum.co/forums/23-Requests)** - *Movies*
 * **[TopNow](https://discord.gg/marBA97)** - *Movies / TV / Anime*
