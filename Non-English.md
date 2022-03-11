@@ -203,6 +203,7 @@
 * [BiliBili](https://manga.bilibili.com/) - *Manga*
 * [rzlib](https://www.rzlib.net/) - *Light-Novels* 
 * [booktxt](https://m.booktxt.net/) - *Light-Novels* 
+* [FFXS](https://www.ffxs.info/) - *Light-Novels*
 * [ishare.iask](https://ishare.iask.sina.com.cn/) - *Documents*  
 * [555电影](https://www.o8tv.com/), [2](https://555dy1.com/) - *Movies / TV / Anime / NSFW*
 * [CText](https://ctext.org/), [ChineseNotes](http://chinesenotes.com/) or [Kanripo](https://www.kanripo.org/) - *Chinese Historic Text Archive*
