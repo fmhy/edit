@@ -1720,11 +1720,18 @@ Portuguese
 * [GacSach](https://gacsach.club/) - *Books*
 * [SachHay](https://www.sachhayonline.com/) - *Books*
 * [KhoSach](https://khosachonline.com/) - *Books*
+* [Fecomic](https://fecomic.com/) - *Manga / Manhwa / Manhua*
+* [Vcomycs](https://vcomycs.com/) - *Manga / Manhwa / Manhua*
+* [OCuMeo](https://www.ocumeo.com/) - *Manga / Manhwa / Manhua*
+* [HanulTruyen](https://hanultruyen.net/) - *Manga / Manhwa / Manhua*
+* [TruyenQQ](http://truyenqqvip.com), [2](http://truyenqqpro.com/), [3](http://truyenqqtop.com/) - *Manga / Manhwa / Manhua*
 * [MeDocTruyen](https://www.medoctruyentranh.net/), [2](https://www.medoctruyenchu.net/) - *Manga / Light Novels*
+* [DichTruyen](https://dichtruyen.org/), [2](https://dichtruyentop.com/), [3](https://dichtruyenvip.com/), [4](https://dichtruyenhot.com/), [5](https://dichtruyenpro.com/), [6](https://dichtruyenhay.com/) [7](https://dichtruyen.info/) - *Manga / Manhwa / Manhua*
+* [DocTruyen3Q](https://doctruyen3qi.com/), [2](https://doctruyen3qz.com/) - *Manga / Manhwa / Manhua*
+* [Mangai](https://mangaii.com/) - *Manga / Manhwa / Manhua*
 * [Cmangaka](https://cmangaka.com/) - *Manga*
-* [NetTruyen](http://www.nettruyengo.com/), [2](http://nhattruyenvip.com/) - *Manga*
+* [NetTruyen](http://www.nettruyengo.com/), [2](http://www.nettruyenmoi.com/), [3](http://www.nettruyenpro.com/) - *Manga / Manhwa / Manhua*
 * [TruyenFull](https://truyenfull.vn/), [2](https://lnvs.net/) - *Manga / Light Novels*
-* [Hayso1](https://hayso1.net/) - *Manga*
 * [Hako](https://ln.hako.re/), [2](https://docln.net/), [3](https://novelvn.net/) - *Light Novels*
 * [ValvrareTeam](http://valvrareteam.com/) - *Light Novels*
 * [Babla](https://www.babla.vn/) - *Dictionary*
