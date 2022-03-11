@@ -1202,3 +1202,4 @@
 * [xMinutesToRead](https://xminutestoread.xyz/) - *Article Time to Read Estimate*
 * [RemoveWatermark](https://github.com/ShadonSniper/RemoveWatermark) - *IT Ebook Watermark Remover*
 * [DeDRM_tools](https://github.com/noDRM/DeDRM_tools) or [Remove Ebook DRM](https://apprenticealf.wordpress.com/) - *Remove Ebook DRM*
+* [RaveBookSearch](https://ravebooksearch.com) - *A search engine for books*
