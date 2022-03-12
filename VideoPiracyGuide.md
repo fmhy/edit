@@ -26,9 +26,8 @@
 * **[Ask4movies](https://ask4movie.io/)** - *Movies / TV / [Adblock Script](https://pastebin.com/N58Vbyhw)*
 * **[PrivateHD](https://www.privatehd.xyz/)** - *Movies / TV*
 * **[M4uFree](https://ww1.m4ufree.com)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)*
-* **[Squeezebox](https://movie.squeezebox.dev/)** - *Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)*
 * **[Soap2Day](https://soapgate.org/)** - *Movies / TV*
-* [LookMovie](https://lookmovie.io/) - *Movies / TV*
+* [LookMovie](https://lookmovie2.la/) - *Movies / TV*
 * [C1NE](https://c1ne.co/) - *Movies / TV* 
 * [VikV](https://vikv.net/), [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
 * [SockShare](http://sockshare.ac/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones)*
@@ -117,6 +116,7 @@
 ## ▷ Multi Hosts
 
 * **[FMovies](https://fmovies.name/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)*
+* **[Squeezebox](https://movie.squeezebox.dev/)** - *Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)*
 * **[Movolo](https://movolo.vercel.app/)** - *Movies / TV*
 * **[HiMovies](https://www3.himovies.to/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)*
 * **[PrettyFlix](https://prettyflix.gq/)** - *Movies / TV / Anime*
@@ -127,10 +127,10 @@
 * [2Embed](https://www.2embed.ru/library) - *Movies / TV*
 * [Series9](https://series9.me/), [2](https://series9.fun/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_goldmovies_clones)* 
 * [Cloudy](https://cloudy.pk/category/english/) - *Movies / TV*
-* [PrimeWire](https://www.primewire.tf/) - *Movies / TV / Anime*
 * [Levidia](https://www.levidia.ch/) - *Movies / TV / Anime*
 * [Movies123](https://www.movies123.email/) or [123movies](https://ww.123movies.club) - *Movies / TV / Anime* 
 * [TopEuroPix](https://topeuropix.site/) or [europixHD](https://europixhd.pro/) - *Movies / TV / Anime*
+* [MovieSee](https://moviesee.live/) - *Movies / TV*
 * [MovieHunters](https://movieshunters.com/) - *Movies / TV*
 * [Dogeflix](https://dogeflix.net/) - *Movies / TV* 
 * [Sauflix](https://www.sauflix.com/) - *Movies / TV*
@@ -163,6 +163,7 @@
 * [Openload Movies](https://openloadmovies.ch/) - *Movies*
 * [GustaTV](https://www2.gustatv.to/) - *Movies / TV Anime*
 * [5Movies](https://5movies.run/) - *Movies / TV / Anime*
+* [PrimeWire](https://www.primewire.tf/) - *Movies / TV / Anime*
 * [CimaClub](https://www.cimaclub.cc/category/%D8%A3%D9%81%D9%84%D8%A7%D9%85-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86) - *Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Shahed4u](https://shahed4u.onl:2053/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a-1/) - *Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [GoMoviesFree](https://www13.gomoviesfree.page/) - *Movies / TV / Anime*
@@ -731,6 +732,7 @@
 * [188.165.227.112](http://188.165.227.112/portail/) - *Movies / TV* 
 * [103.135.208.2](http://103.135.208.2/Data/movies/) - *Movies / TV*
 * [162.12.215.254](http://162.12.215.254/Data/Movies/) - *Movies*
+* [163.172.97.48](http://163.172.97.48/) - *Movies / TV*
 * [Movies, Series... in English](https://redd.it/ns1ejo), [2](https://redd.it/ns1kdi), [3](https://redd.it/nsb38a), [4](https://redd.it/ns2avz), [5](https://redd.it/ns2wcv) - *Movies / TV*
 * [torrenttempdrive 2](https://torrenttempdrive.hashhackers.com/2:/) - *Movies / TV*
 * [sv.dcnm.ir](https://sv.dcnm.ir/Serial/Foreign/) - *TV* 
@@ -1111,3 +1113,5 @@
 * [Anilinks](https://anilinks.neocities.org/) - *Anime Related Site Index*
 * [Spoiler Protection 2.0](https://spoilerprotection.wecdev.com/) - *Keyword / Spoiler Blocker*
 * [Firestick Tricks](https://www.firesticktricks.com/) - *Firestick Jailbreak Guide / [Loader](https://github.com/esc0rtd3w/firestick-loader)*
+* [RootMyTV](https://github.com/RootMyTV/RootMyTV.github.io) - *LG WebOS TV Root*
+* [EtasonATV](https://etasonatv.tihmstar.net/) or [Blackb0x](https://github.com/NSSpiral/Blackb0x) - *Apple TV Jailbreaking*
