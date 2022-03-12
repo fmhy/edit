@@ -174,13 +174,14 @@
 * [PopStarter](https://www.psx-place.com/threads/popstarter.19139/) - *PS1 Emulator for PS2 / [Converter](https://www.psx-place.com/resources/psxvcd-by-englishl1989.669/) / [Setup](https://github.com/Edvaniojosedasilva1992/Instalador-POPStarter)*
 * [/r/Roms](https://www.reddit.com/r/Roms/) - *Discussion Sub*
 * [RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list) - *Emulator Tool Index*
-* [RomHacking](https://www.romhacking.net/) - *Rom Translations &amp; Hacks*
+* [RomHacking](https://www.romhacking.net/) - *Rom Translations & Hacks*
+* [PokeGB](https://github.com/binji/pokegb) - *Pokémon Blue Emulator*
 * [PKHeX](https://github.com/kwsch/PKHeX) - *Pokémon Save File Editor*
 * [GameBanana](https://gamebanana.com/mods/games/14783) - *Pokémon Brilliant Diamond & Shining Pearl Mods*
 * [Dats.site](https://dats.site/) - *Rom .DAT Files*
 * [datcheck](https://github.com/pkos/datcheck) - *Compare No-Intro / Redump .DAT Files to ROM or Disc Collection* 
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - *Gamecube iso.dec to ISO Converter*
-* [Cemu Guide](https://cemu.cfw.guide/) - *Cemu &amp; BOTW Optimization Guide*
+* [Cemu Guide](https://cemu.cfw.guide/) - *Cemu & BOTW Optimization Guide*
 * [Motion Support Bypass](https://redd.it/gobcne) - *Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)*
 * [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) - *Yuzu Emulator Setup Guide*
 * [Pineappleea](https://pineappleea.github.io/), [128Bit Yuzu](https://mostlywhat.github.io/128Bit-Yuzu-Installer/) or [Yuzu-Updater](https://github.com/sinscove/Yuzu-Updater) - *Yuzu Updater*
@@ -306,7 +307,7 @@
 * [OldPCGaming](http://oldpcgaming.net/) - *Retro PC Games*
 * [Japanese PC Compendium](http://japanesepccompendium.blogspot.com/) - *Retro Japanese PC Games*
 * [TOSEC](https://archive.org/details/TOSEC_V2017-04-23), [2](https://archive.org/details/tosec) - *The Old School Emulation Center*
-* [Tiny8bit](https://floooh.github.io/tiny8bit/) - *Retro Game Browser Emulators*
+* [Tiny8bit](https://floooh.github.io/tiny8bit/) or [Piepacker ](https://piepacker.com/) - *Retro Game Browser Emulators*
 * [NEC & Turbografx Collection](https://archive.org/details/NEC_PC_Engine_CD-ROM2_System_and_TurboGrafx-CD_2016_Reference_Set_Redump_Validated_ROMs) - *Roms / Nec / Turbo*
 * [Neo Kobe Collection](https://archive.org/details/NeoKobe-NecPc-98012017-11-17), [2](https://archive.org/details/Neo_Kobe_NEC_PC-8801_2016-02-25) - *Roms / Neo Kobe*
 * [pc-98](https://mega.nz/folder/F59WkSqQ#quGKSFIswBgv0rxAAaF8Pg) - *PC-98 Games*
@@ -319,7 +320,7 @@
 * [Necromanthus](https://necromanthus.com/) - *3D Shockwave Games*
 * [FunGame](http://www.fungame.pe.kr/main_eng.htm) - *Java Browser Games*
 * [OpenRA](https://openra.net/) - *Command & Conquer Recreation* 
-* [NolfRevival](http://nolfrevival.tk/) - *NOLF, NOLF 2 &amp; Contract Jack*
+* [NolfRevival](http://nolfrevival.tk/) - *NOLF, NOLF 2 & Contract Jack*
 * [DFWorkshop](https://www.dfworkshop.net/) - *Daggerfall Unity Engine Port*
 * [OpenMW](https://openmw.org/en/) - *Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/openmw-tes3mp/) / [Android](https://github.com/xyzz/openmw-android)*
 * [WannabeThesis](https://lerppu.net/wannabethesis/) - *Retro Game Ports*
@@ -349,6 +350,7 @@
 * [Mars 3D](https://mars3d-game.wixsite.com/index) - *Mars 3D Translation & Remake*
 * [Jelly Mario](https://jellymar.io/) - *Jelly Super Mario*
 * [sm64](https://github.com/n64decomp/sm64) - *Super Mario 64 Decompilation / [Guide](https://youtu.be/rQVpfWYT0eg)* 
+* [wide-snes](https://github.com/VitorVilela7/wide-snes) - *Widescreen Super Mario World*
 * [OpenLara](http://xproger.info/projects/OpenLara/) - *Classic Tomb Raider in Browser / [GitHub](https://github.com/XProger/OpenLara)*
 * [GtkAtlantic](https://gtkatlantic.gradator.net/index.html) or [Monopolie](http://monopolie.sourceforge.net/index.shtml) - *Open Source Monopoly*
 * [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - *Giant Pac-Man*
@@ -418,6 +420,7 @@
 * [FreeGames](https://freegames.org/) 
 * [MSM Games](https://zone.msn.com/en-us/home) 
 * [Gamelor](https://www.gamelor.com/)
+* [CAMLBOY](https://linoscope.github.io/CAMLBOY/) 
 * [Super Mario Bros](https://supermariobros.io/) 
 * [itch.io](https://graebor.itch.io/), [2](https://grey2scale.itch.io/), [3](https://ncase.itch.io/), [4](https://capsquared.itch.io/), [5](https://evilobjective.itch.io/)
 * [Cartoon Network Games](https://www.cartoonnetwork.com/games/index.html)
@@ -487,6 +490,7 @@
 * [Kingdom of Loathing](https://www.kingdomofloathing.com/) - *Comedy RPG* 
 * [Super Mario Bros Crossover](https://explodingrabbit.com/games/super-mario-bros-crossover/) - *Play SMB as characters from other games*
 * [Bruno-Simon](https://bruno-simon.com/) - *Truck Driving Game*
+* [racing-game](https://racing.pmnd.rs/) - *Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)*
 * [A Leaf on the Wind](http://anism.org/lotw/) - *Leaf Arcade Game* 
 * [Polka Dot Game](https://www.polkadotgame.com/) - *Dodge &amp; Eat Dots*
 * [Spinner](https://hyperspace-wizard.itch.io/spinner) - *Spinner Timing Game*
