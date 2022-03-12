@@ -68,6 +68,7 @@
 * [Linux Live Kit](https://www.linux-live.org/) - *Live Linux Distro Creator*
 * [ArchLinuxGUI](https://archlinuxgui.in/download.html), [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - *Arch Linux Installer*
 * [Free Cloud Linux Server](https://rentry.co/4sx64) - *Free Cloud Server Guide*
+* [Rang3r](https://github.com/floriankunushevci/rang3r) - *IP / Port Scanner*
 * [Brunch](https://github.com/sebanc/brunch) or [Chromefy](https://github.com/imperador/chromefy) - *ChromeOS Installer*
 * [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [FydeOS](https://fydeos.io/download), [NeverWare](https://www.neverware.com/) or [WayneOS](https://wayne-os.com/) - *ChromeOS Based OS*
 * [Chromebrew](https://github.com/skycocker/chromebrew) - *Package manager for Chrome OS*
@@ -85,7 +86,7 @@
 * [ricemood](https://github.com/fhadiel/ricemood) or [wpgtk](https://deviantfero.github.io/wpgtk) - *Fully Customizable Unix Color Schemer*
 * [Akira](https://github.com/akiraux/Akira) - *UI/UX Customization*
 * [Windows-10](https://github.com/B00merang-Project/Windows-10) - *Linux Windows 10 Theme*
-* [HydraPaper](https://hydrapaper.gabmus.org/) or [Komorebi](https://github.com/cheesecakeufo/komorebi) - *Linux Wallpaper Manager*
+* [HydraPaper](https://hydrapaper.gabmus.org/), [styli.sh](https://github.com/thevinter/styli.sh) or [Komorebi](https://github.com/cheesecakeufo/komorebi) - *Wallpaper Manager*
 * [Video Wallpaper](https://github.com/ghostlexly/gpu-video-wallpaper) - *Use Videos as Animated Wallpaper*
 * [Polychromatic](https://polychromatic.app/) - *Linux System Light Control*
 * [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - *Window Closing Effects*
