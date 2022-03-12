@@ -31,8 +31,9 @@
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - *Python Guide*
 * [CodingBat](https://codingbat.com/) - *Python / Java Practice*
 * [Java Beginners](https://drive.google.com/drive/folders/1AKga5F6UzHFhvuMPl9zWf6MGxJZfbhac) - *Java Tutorials*
-* [Python4Everyone](https://py4e.com/) - *Python Lessons*
+* [Python4Everyone](https://py4e.com/) - *Learn Python*
 * [A Byte of Python](https://python.swaroopch.com/) - *Learn Python*
+* [Learn Python](https://github.com/trekhleb/learn-python) - *Learn Python*
 * [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - *Python Lessons*
 * [Real Python](https://realpython.com/) - *Python Tutorials*
 * [FutureCoder](https://futurecoder.io/), [2-Python](https://mega.nz/folder/QgdziAiK#QgEW3PY8P5znFR0mNQ-njQ) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - *Python Course*
@@ -50,7 +51,7 @@
 * [Programiz](https://www.programiz.com/) - *Programming / Coding Tutorials*
 * [GeeksforGeeks](https://www.geeksforgeeks.org/) - *Programming / Coding Tutorials*
 * [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - *Coding Learning Resources*
-* [30 Seconds of Code](https://www.30secondsofcode.org/) - *Coding Snippets / Guides* 
+* [30 Seconds of Code](https://www.30secondsofcode.org/) - *Javascript / CSS/ React / Python / Website-building / [GitHub](https://github.com/30-seconds)*
 * [Codexplainer AI](https://chrome.google.com/webstore/detail/codexplainer-ai-beta/mekadgeckpcgideipfhbcapmenbadejp) - *Code Explanations*
 * [RoboMind](https://www.robomind.net/) - *Code Learning Game*
 * [Tuts 4 You](https://forum.tuts4you.com/) - *Coding / Developer Tutorials*
@@ -101,11 +102,13 @@
 * [LearnGo](https://github.com/inancgumus/learngo) - *Learn Go*
 * [GoLang.org](https://golang.org/doc/tutorial/getting-started) - *Go Tutorial*
 * [HowIStart Go](https://howistart.org/posts/go/1/) - *Go Setup Guide*
+* [Next](https://hendrixer.github.io/nextjs-course/) - *Learn Next.js*
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) - *Rust Programming  Guidebook*
 * [JavaScript.info](https://javascript.info/) - *JavaScript Guide* 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - *Javascript Learning Books*
 * [EloquentJavascript](https://eloquentjavascript.net/), [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript), [FunJavascript](https://fun-javascript-projects.com/) or [Grasshopper](https://grasshopper.app/) - *Learn Javascript*
 * [JavaScriptQuiz](https://javascriptquiz.com/) - *JavaScript Quiz*
+* [Javascript Questions](https://github.com/lydiahallie/javascript-questions) - *Javascript Questions for Practice*
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - *Node.js Guide / Tips*
 * [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - *Javascript Query Style Events Guide*
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - *Airbnb JavaScript Guide*
@@ -125,21 +128,27 @@
 * [Katacoda](https://www.katacoda.com/) - *Software Engineer Tutorials* 
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - *Podcasts for Software Engineers*
 * [Interview University](https://github.com/jwasham/coding-interview-university) - *Software Engineer Study Guide Coding*
+* [Devops Exercises](https://github.com/bregman-arie/devops-exercises) - *DevOps Exercises*
 * [Hacksplaining](https://www.hacksplaining.com/) - *Developer Security Lessons*
 * [Publish Something Online](https://publishsomething.online/) - *Site Development Guides*
 * [LandChad](https://landchad.net/) - *Site Development Guide*
 * [Full Stack Solana Development Guide](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - *[Examples](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)*
 * [The New Boston](https://thenewboston.com/) - *Site Development Courses [Discord](https://discord.com/invite/thenewboston)*
 * [Web Dev Courses](https://drive.google.com/drive/folders/17nOoned_J-RzAlCXaHEcEvdQC3LDOCC0) - *Web Development Courses*
+* [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - *Learn Web Development*
 * [Agernic](https://www.agernic.com/) - *Web Design Courses*
+* [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) - *Interactive Web Design Tutorial*
 * [UI & Web Design using Adobe Illustrator C](https://mega.nz/folder/DihiHYYJ#qwDp56twKmwPdDMqGR_kLA) - *UI & Webdesign Course*
 * [Learn UI Design](https://learnui.design/) - *UI Design Course*
 * [UXTools](https://uxtools.co/) or [UXMovement](https://uxmovement.com/) - *Learn UX Design*
 * [SitePoint](https://www.sitepoint.com/) - *UX Design Courses & Books*
 * [FrontEndMentor](https://www.frontendmentor.io/) - *UX Design Challenges*
+* [Design Pattern for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) - *Guide on Design Patterns*
 * [Web Skills](https://andreasbm.github.io/web-skills/) - *Web Development Guides*
 * [666GB Devil Collection](https://mega.nz/folder/7HRiUb7Q#xXXnIdhGxuPwxtz99BhPpg) - *Web App Development Courses*
+* [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - *Collection of Project-Based Tutorials*
 * [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - *Learn Swift and build iOS App Building*
+* [SwiftDump](https://github.com/neil-wu/SwiftDump) - *Retreive Swift Object info from Mach-O file*
 * [WeCreators](https://www.wecreators.co/creators-tools) - *Site Development / Influencer Courses*
 * [Learn Git Branching](https://learngitbranching.js.org/) - *Interactive Git Branching Guide*
 * [Learn SQL](https://sqlbolt.com/) or [Top Database Bundle](https://drive.google.com/drive/folders/1rxntNcqQPQPOeIfzE0YL4NEtUncUsrJJ) - *SQL Lessons*
@@ -156,6 +165,7 @@
 * [vcokltfre](https://vcokltfre.dev/) - *Discord.py Bot Guide*
 * [free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - *AI Learning Resources*
 * [minitorch](https://github.com/minitorch/minitorch) - *Machine Learning Engineering Course Code*
+* [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - *Machine Learning Courses on YouTube*
 
 ***
 
@@ -187,8 +197,11 @@
 * [Favicon Maker](https://formito.com/tools/favicon) or [react favicon](https://react-favicon.com/) - *Create Favicons*
 * [Laws of UX](https://lawsofux.com/) - *Maxims / Principles for UI Designers* 
 * [UI Coach](https://uicoach.io/) - *UI Design Challenge Generator*
+* [UI Design Daily](https://www.uidesigndaily.com/) - *UI Templates*
+* [Resources Index](https://babiato.co/threads/design-resources-for-developers-800.65591/#post-737335) - *Design Patterns*
 * [HTML Dog](https://htmldog.com/) - *Front End Tutorials & Examples*
 * [Responsively](https://responsively.app/) - *Responsive Dev Design Tool*
+* [the component gallery](https://component.gallery/) - *Design Components Gallery*
 * [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - *README Template* 
 * [codex-readme](https://github.com/tom-doerr/codex-readme) - *Generate README with AI*
 * [ReDoc](https://github.com/Redocly/redoc) - *Generate API Documentation*
@@ -354,7 +367,7 @@
 * [Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates) or [Undraw](https://evie.undraw.co/)  - *Site Templates*
 * [Templatemo](https://www.templatemo.com/) or [Tooplate](https://www.tooplate.com/) - *HTML Site Templates*
 * [HTML5 Temp](https://rentry.co/HTML5Temp) - *HTML5 Templates & Themes*
-* [CSS Bed](https://www.cssbed.com/) or [free-css-templates](https://www.free-css.com/free-css-templates) - *CSS Themes / Templates*
+* [CSS Bed](https://www.cssbed.com/), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss) or [free-css-templates](https://www.free-css.com/free-css-templates) - *CSS Themes / Templates*
 * [Hydrogen](https://github.com/Shopify/hydrogen) or [Fullstack Next.js E-commerce](https://github.com/olafsulich/fullstack-nextjs-ecommerce) - *Online Store Templates*
 * [Typewolf](https://www.typewolf.com/) - *Trending Website Fonts*
 * [Pattern Monster](https://pattern.monster/) - *SVG Pattern Generator*
@@ -506,6 +519,7 @@
 * [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - *App Development Platform / [GitHub](https://github.com/xamarin)*
 * [Awesome iOS](https://github.com/vsouza/awesome-ios) - *iOS App Development Resources*
 * [Framer](https://www.framer.com/) - *Interactive Site / App Design Tool*
+* [App ideas](https://github.com/florinpop17/app-ideas) - *Collection of App Ideas*
 * [Docker](https://www.docker.com/) - *Build, Manage & Run Apps in Containers / [Images](https://linuxserver.io/)*
 * [Fastlane](https://fastlane.tools/) - *App Development Automation / [GitHub](https://github.com/fastlane/fastlane)*
 * [I wish there was app](https://iwishtherewas.app/) - *Get App Ideas From Twitter*
@@ -524,6 +538,7 @@
 * [Ratio Buddy](https://ratiobuddy.com/) - *CSS For Device Ratio*
 * [TV Samples](https://github.com/android/tv-samples) - *Android TV App Samples*
 * [PrivacyFlash-Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - *Generate iOS Privacy Policies*
+* [Appleshouter](https://github.com/kosmigramma/appleshouter) - *iOS notifications for PWAs and Web apps*
 * [MDB GO](https://mdbgo.com/) - *Free App Hosting*
 * [namae](https://namae.dev/) - *App Name Availability Check*
 * [Lich](https://github.com/line/lich) - *Android Development Libraries*
@@ -540,6 +555,7 @@
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - *Intentionally vulnerable Android application*
 * [PM2](https://pm2.keymetrics.io/) - *Process Manager*
 * [React95](https://react95.io/) - *Windows 95 React Components*
+* [React Suite](https://rsuitejs.com/) - *React Components and Templates*
 * [useAnimations](https://useanimations.com/index.html) - *Animated Icon Pack*
 * [Flubber](https://github.com/Appolica/Flubber) - *Android Animation Creator*
 * [Redex](https://fbredex.com/) - *Android Bytecode Optimizer*
@@ -641,6 +657,7 @@
 * [CSSLayout](https://csslayout.io/) - *CSS Layouts*
 * [Gradient Animator](https://www.gradient-animator.com/) - *Animated CSS Gradient Generator*
 * [Animista](https://animista.net/) or [Woah.css](https://www.joerezendes.com/projects/Woah.css/) - *CSS Animations*
+* [Glass UI](https://ui.glass/generator/) - *Glassmorphism CSS Generator*
 * [css2scss](https://sebastianpontow.de/css2compass/) - *CSS to SCSS Converter* 
 * [Tableconvert](https://tableconvert.com/) - *Markdown / Code Converter*
 * [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks), [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/) or [SimpleCSS](https://simplecss.org/) - *CSS Framework*
@@ -715,6 +732,7 @@
 * [github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - *Material Icons*
 * [gist.io](https://gist.io/) or [gistflow](https://github.com/gistflow/gistflow) - *Git Blog Platform*
 * [Github Action for Rclone](https://github.com/marketplace/actions/github-action-for-rclone) - *Rclone GitHub Action Wrapper*
+* [gitignore](https://github.com/github/gitignore) - *Gitignore Templates*
 * [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub), [diohub](https://github.com/NamanShergill/diohub) or [OctoDroid](https://github.com/slapperwan/gh4a) - *Android GitHub Client*
 * [Gitea](https://gitea.io/) - *Self-Hosted Git Service*
 
@@ -730,6 +748,7 @@
 * [Cride](https://github.com/j8r/cride) - *Command Line Editor*
 * [YQ](https://github.com/mikefarah/yq) - *Portable YAML Processor*
 * [yoctocolors](https://github.com/sindresorhus/yoctocolors) - *Command Line Coloring Package*
+* [open](https://github.com/sindresorhus/open) - *Open URLs, Files, Executables in CLI or Scripts*
 
 ***
 
@@ -798,6 +817,7 @@
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - *Vim Code-completion engine*
 * [OpenChakra](https://openchakra.app/ ) - *Visual Editor & Code Generator for React / [GitHub](https://github.com/premieroctet/openchakra)*
 * [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - *Visual Studio Code Extensions* 
+* [Go Recipes](https://github.com/nikolaydubina/go-recipes) - *Collection of handy tools for Go projects*
 * [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - *Visual Studio Code Python Language Extension / [Performant Language](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)*
 * [Python Mini Projects](https://github.com/Python-World/python-mini-projects) - *Python Scripts*
 * [Pysnake Blog](https://pysnakeblog.blogspot.com/) - *Python Projects*
@@ -835,7 +855,7 @@
 * [CodeGrepper](https://www.codegrepper.com/) - *Code Search Extension*
 * [ShortCode](https://shortcode.dev/), [Google Code Archive](https://code.google.com/archive/), [CodeList](https://www.codelist.cc/) or [bl.ocks](https://bl.ocks.org/) - *Script / Code Indexes*
 * [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/), [2](https://carbon.now.sh/) - *Source Code Screenshot Tool*
-* [ray.so](https://ray.so/) - *Create Code Images*
+* [ray.so](https://ray.so/) or [Show Code](https://showcode.app/) - *Create Code Images*
 * [Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering) - *Reverse Engineering Resource Index*
 * [challenges.re](https://challenges.re/) - *Reverse Engineer Code*
 * [thefuck](https://github.com/nvbn/thefuck) - *Corrects Previous Console Command*
@@ -850,6 +870,7 @@
 * [RunKit](https://runkit.com/) - *Browser Javascript Sandbox* 
 * [JS.ORG](https://js.org/) - *Free subdomain for Javascript Developers* 
 * [1loc](https://1loc.dev/) - *217 Single Line JavaScript Codes* 
+* [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) - *Algorithms and Data Structures in Javascript*
 * [Gummy](https://gummyjs.vercel.app/) - *Easily Build Javascript Programs* 
 * [Beautifier](https://beautifier.io/) - *Online JavaScript Beautifier*
 * [JDec](https://jdec.app/) - *Online JavaScript Decompiler*
