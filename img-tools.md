@@ -102,7 +102,7 @@
 * [Rough.js](https://roughjs.com/) - *Create Graphics that look Hand-Drawn*
 * [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [ICO Convert](https://www.icoconvert.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - *Icon Generators*
 * [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/), [Free Logo Maker](https://freelogomaker.net/) or [ACME](https://acme.com/labelmaker/) - *Logo Creator* 
-* [ArtFlow](http://artflow.ai/), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/) or [Avataaars](https://getavataaars.com/) - *Face / Avatar Generator*
+* [ArtFlow](http://artflow.ai/), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [react-nice-avatar](https://github.com/chilllab/react-nice-avatar) or [Avataaars](https://getavataaars.com/) - *Face / Avatar Generator*
 * [Mirro-Ai](https://mirror-ai.com/) - *Get Stickers With Your Face*
 * [EmojiMix](https://tikolu.net/emojimix) - *Combine Emojis*
 * [Emojination](https://www.emojination.io/) or [Ccclaymoji](https://fffuel.co/ccclaymoji/) - *Emoji Graphic Generator*
@@ -314,7 +314,7 @@
 * [CadHub](https://cadhub.xyz/) - *Community Hub for CAD Projects*
 * [MakeHuman](http://www.makehumancommunity.org/) - *3D Humanoid Modeler*
 * [posemy](https://app.posemy.art/), [quickposes](https://quickposes.com/en) or [justsketch](https://app.justsketch.me/) - *Posing Tools*
-* [FaceMaker](http://facemaker.uvrg.org/) - *Face / Avatar Generator* 
+* [FaceMaker](http://facemaker.uvrg.org/) - *3D Face / Avatar Generator* 
 * [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - *AI Art Generation Guide*
 * [vrn](https://cvl-demos.cs.nott.ac.uk/vrn/) - *3D Face Reconstruction* 
 * [3D Transformer](https://www.3dtransformer.com/) - *Rotate 3D Images*
@@ -369,6 +369,8 @@
 * [Pixiv](https://www.pixiv.net/en/) - *User Made Image Host / [Downloader](https://github.com/nonPointer/PixivDownloader), [2](https://chrome.google.com/webstore/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnj?hl=en), [3](https://github.com/Nandaka/PixivUtil2)*
 * [Pixelfed](https://pixelfed.org/) - *Open Source Instagram Alternative*
 * [Librephotos](https://github.com/LibrePhotos/librephotos), [Photoprism](https://github.com/photoprism/photoprism), [Photoview](https://github.com/photoview/photoview) or [Ownphotos](https://github.com/hooram/ownphotos/) - *Self-Hosted Google Photo Manager* 
+* [Pixelfed](https://pixelfed.org/) or [Unsee](https://unsee.cc/) - *Decentralized / Temporary Image Hosts* 
+* [Cryptee](https://crypt.ee/) - *Encrypted Image Storage*
 
 ***
 
@@ -403,7 +405,7 @@
 * [svgco](https://svgco.de/) - *Image to SVG Converter*
 * [AnsiLove](https://www.ansilove.org/downloads.html) - *ANSI /ASCII Art to PNG Converter / [GitHub](https://github.com/ansilove/ansilove)*
 * [Vectorizer](https://www.vectorizer.io/) or [AutoTracer](https://www.autotracer.org/) - *Image Vectorizer* 
-* [text2img](https://master.ayra.ch/text2img/) or [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image) - *Convert Text to Image*
+* [text2img](https://master.ayra.ch/text2img/), [CogView](https://github.com/THUDM/CogView) or [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image) - *Convert Text to Image*
 * [Selfie2Anime](https://selfie2anime.com/), [Animate-Me](https://github.com/Aneureka/animate-me) - *Convert Selfies to Anime* 
 
 ***
@@ -456,6 +458,7 @@
 * [BetaFace](https://www.betaface.com/demo.html) or [Face Recognition](https://github.com/ageitgey/face_recognition) - *Facial Recognition* 
 * [FALdetector](https://github.com/peterwang512/FALdetector) - *Photoshopped Face Detector*
 * [Fawkes](http://sandlab.cs.uchicago.edu/fawkes/) - *Image Cloaking* 
+* [ImgProxify](https://imgproxify.com/) - *Image Proxy Generator*
 * [Redact.Photo](https://redact.photo/) - *Image Redaction Tool*
 * [Squoosh](https://squoosh.app/) - *Image Codec Comparison*
 * [jPhotoDNA](https://github.com/jankais3r/jPhotoDNA) - *Image CSAM Identification Algorithm*
