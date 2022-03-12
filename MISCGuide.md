@@ -78,7 +78,7 @@
 * [Index Mania](https://indexmania.org/) - *Link Search Index*
 * [Wikimedia](https://www.wikimedia.org/) - *All Wikimedia Sources*  
 * [Clone Wars](https://gourav.io/clone-wars) - *Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars)* 
-* [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) or [Electron](https://www.electronjs.org/apps) - *Web App Index*
+* [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - *Web App Index*
 * [CloudTrip](http://cloudtrip.com/) - *Cloud App Index*
 * [State of the DApps](https://www.stateofthedapps.com/) - *Blockchain App Index* 
 * [Open Sustainable Technology](https://opensustain.tech/) - *Sustainable Tech Project Index*
@@ -434,6 +434,7 @@
 * [ColorNames](https://colornames.org/) - *Help Name Colors*
 * [Fontbutts](https://fontbutts.netlify.app/) - *Create Butts with different fonts*
 * [User Inyerface](https://userinyerface.com/) - *The most annoying website*
+* [ThisWebsiteWillSelfDestruct](https://www.thiswebsitewillselfdestruct.com/) - *Self Destructing Website*
 * [Storylocks](https://www.storylocks.com/) - *Write Stories with different authors/friends*
 * [LongestPoemInTheWorld](http://www.longestpoemintheworld.com/) - *Matches Tweets to form Rhymes*
 * [InspiroBot](https://inspirobot.me/) - *Inspirational Quote Generator*
@@ -1106,6 +1107,7 @@
 * [Breeze Duo for KDE Plasma](https://github.com/vfrico/firefox-breeze-duo) - *Breeze Theme for better KDE Integration* 
 * [WhatRuns](https://www.whatruns.com/) - *Discover what makes a site run* 
 * [Tab Session Manager](https://tab-session-manager.sienori.com/) or [Session Buddy](https://sessionbuddy.com/) - *Session Manager* 
+* [User-Agent Switcher](https://mybrowseraddon.com/useragent-switcher.html) - *Easily Switch User-Agent*
 * [X-Forwarded-For Header](https://github.com/MisterPhilip/x-forwarded-for) - *Set X-Forwarded-For HTTP Header*
 * [Peek](https://github.com/corbindavenport/peek) - *Shows Images & Videos Behind Links & Thumbnails* 
 * [Not For You](https://bengrosser.com/projects/not-for-you/) - *Confuse Tik-Toks Recommendation Algorithm*
@@ -1139,7 +1141,7 @@
 * [Profile Switcher](https://addons.mozilla.org/en-US/firefox/addon/profile-switcher/) - *Profile Manager* 
 * [AutoCookieOptout](https://github.com/CodyMcCodington/AutoCookieOptout) - *Auto Delete Cookies*
 * [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) - *Separate Cookies by Profile / [Guide](https://www.thechiefmeat.com/guides/containers.html)* 
-* [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - *Switch and Override User Agent Header on Firefox Easily*
+* [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - *Easily Switch User-Agent*
 * [SoundFixer](https://github.com/myfreeweb/soundfixer) - *Fixes Sites that are too Quiet*
 * [Mute Sites By Default](https://addons.mozilla.org/en-US/firefox/addon/mute-sites-by-default/) - *Mute All Sites by Default* 
 * [Read Aloud](https://readaloud.app/) - *Text to Speech*
