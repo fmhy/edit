@@ -75,6 +75,7 @@
 * [Intra](https://play.google.com/store/apps/details?id=app.intra&amp;hl=en_US) - *System Wide DoH for Android*
 * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) / [Git](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - *Incognito Keyboard*
 * [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) or [Xandroid](https://github.com/XndroidDev/Xndroid) - *Proxy*
+* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android ) - *Shadowsocks Proxy Client*
 * [Sagernet](https://sagernet.org/) - *Proxy Tools*
 * [Privacy Indicator](https://f-droid.org/packages/com.nitish.privacyindicator/), [2](https://play.google.com/store/apps/details?id=com.nitish.privacyindicator), [Vigilante](https://f-droid.org/en/packages/com.crazylegend.vigilante/) or [Access Dots](https://play.google.com/store/apps/details?id=you.in.spark.access.dots) - *Camera / Mic Access Indicator* 
 * [CamWings](https://schiffer.tech/camwings-mobile.html) - *Camera Protection* 
@@ -293,6 +294,7 @@
 * [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) - *Send Files to Android TV*
 * [Apps2Fire](https://play.google.com/store/apps/details?id=mobi.koni.appstofiretv) - *Upload Apps to FireTV*
 * [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://forum.mobilism.org/search.php?keywords=solid+explorer&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [rcx](https://x0b.github.io/) / [GitHub](https://github.com/x0b/rcx), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/), [AmazeFileManager](https://teamamaze.xyz/) / [GitHub](https://github.com/TeamAmaze/AmazeFileManager) or [IrkFM](https://github.com/lfuelling/lrkFM) - *File Explorers / Manager*
+* [Dumpster](https://filecr.com/?s=Dumpster) - *File Recovery Tool*
 * [wsa_pacman](https://github.com/alesimula/wsa_pacman) - *Android Package Manager for Windows*
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - *Download / Torrent Manager* 
 * [Vysor](https://www.vysor.io/), [scrcpy](https://github.com/Genymobile/scrcpy) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - *Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/), [2](https://github.com/Tomotoes/scrcpy-gui)*
@@ -523,8 +525,8 @@
 * [FossDroid](https://fossdroid.com/) - *Open source apps / [/r/fossdroid](https://reddit.com/r/fossdroid)*
 * [Moderse](https://t.me/Moderse) - *Android Apk Telegram Channel by well known modder - Stabiron*
 * [DedoMil](http://dedomil.net/) - *Java Mobile Games*
-* [evozi](https://apps.evozi.com/apk-downloader) or [APK Downloader](https://apk.support/apk-downloader) - *Download Google Play APKs*
-* [Sai](https://f-droid.org/packages/com.aefyr.sai.fdroid/), [2](https://play.google.com/store/apps/details?id=com.aefyr.sai) - *Split Apk Installer*
+* [evozi](https://apps.evozi.com/apk-downloader), [GPlayCLI](https://github.com/matlink/gplaycli) or [APK Downloader](https://apk.support/apk-downloader) - *Download Google Play APKs*
+* [Sai](https://f-droid.org/packages/com.aefyr.sai.fdroid/), [2](https://play.google.com/store/apps/details?id=com.aefyr.sai) - *Split APK Installer*
 * [Raccoon](https://raccoon.onyxbits.de/) - *Private APK Downloader*
 * [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - *CLI APK Download Tool*
 * [Blackmod](https://blackmod.net/) - *Modded Game APKs*
@@ -541,6 +543,7 @@
 * [APK Generator](https://play.google.com/store/apps/details?id=com.aksapps.apkgenerator) or [APK Saver](https://play.google.com/store/apps/details?id=com.sdkdevelopers.apksaver) - *Save APK File for Installed Apps*
 * [Diggy](https://github.com/s0md3v/Diggy) - *Extract APK Endpoints*
 * [APKTool](https://github.com/iBotPeaches/Apktool) - *APK Reverse Engineering Tool*
+* [BlackDex](https://github.com/CodingGay/BlackDex) - *APK Unpacking Tool*
 * [APKUpdater](https://github.com/rumboalla/apkupdater) - *APK Updater*
 * [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) - *Install Google Apps into WSA Image*
 * [How-to Install Play Store Apps from Other Countries](https://rentry.co/29s6v)
@@ -840,7 +843,6 @@ RSS Player*
 * [ReProvision](https://github.com/Matchstic/ReProvision) - *On-device signing utility*
 * [HackYouriPhone Repo](https://repo.hackyouriphone.org/) - *Jailbreak / Tweaks* 
 * [isecureos](https://isecureos.idevicecentral.com/repo/) - *Jailbreak Antivirus Tweak*
-* [EtasonATV](https://etasonatv.tihmstar.net/) - *Apple TV Jailbreaking*
 * [SHSH Host](https://shsh.host/) - *Save SHSH blobs to upgrade/downgrade iOS versions* 
 * [iOS-OTA-Downgrader](https://github.com/LukeZGD/iOS-OTA-Downgrader) - *OTA Downgrade iOS*
 * [Procursus](https://github.com/ProcursusTeam/Procursus) - *OS Bootstrap*
@@ -917,6 +919,7 @@ RSS Player*
 * [The Fucking Weather](https://alcohollick.com/the-fucking-weather) - *Weather App*
 * [CocaoTop](https://github.com/D0m0/CocoaTop) - *iOS Process Viewer*
 * [iSH Shell](https://apps.apple.com/us/app/ish-shell/id1436902243) - *Linux-like iOS Shell*
+* [The OldOS Project](https://github.com/zzanehip/The-OldOS-Project) - *iOS 4 Recreation*
 * [Fantastical](https://apps.apple.com/app/fantastical-2-for-iphone/id718043190?ls=1) - *Calendar & Tasks App*
 * [3uTools](http://www.3u.com/) - *iOS Manager for Windows*
 * [NoMoreSmallApps](https://www.sparkdev.me/package/com.spark.nomoresmallapps) - *Force App Full Screen / [Discord](https://discord.com/invite/tvvJfbD)*
