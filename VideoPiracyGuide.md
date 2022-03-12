@@ -22,12 +22,12 @@
 ## ▷ Dedicated Hosts
 
 * **[Movies4Discord](https://discord.gg/UJ9cS2kP3B)** - *Movies / TV / 1080p Only / [Website](https://movies4discord.xyz/)*
+* **[LookMovie](https://lookmovie2.la/)** - *Movies / TV*
 * **[EE3](https://ee3.me/)** - *Movies / Invite Code: mpgh*
 * **[Ask4movies](https://ask4movie.io/)** - *Movies / TV / [Adblock Script](https://pastebin.com/N58Vbyhw)*
 * **[PrivateHD](https://www.privatehd.xyz/)** - *Movies / TV*
 * **[M4uFree](https://ww1.m4ufree.com)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)*
 * **[Soap2Day](https://soapgate.org/)** - *Movies / TV*
-* [LookMovie](https://lookmovie2.la/) - *Movies / TV*
 * [C1NE](https://c1ne.co/) - *Movies / TV* 
 * [VikV](https://vikv.net/), [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
 * [SockShare](http://sockshare.ac/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones)*
@@ -120,7 +120,6 @@
 * **[Movolo](https://movolo.vercel.app/)** - *Movies / TV*
 * **[HiMovies](https://www3.himovies.to/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)*
 * **[PrettyFlix](https://prettyflix.gq/)** - *Movies / TV / Anime*
-* **[Arthemis](https://releases.arthemis.xyz/)** - *Movies / TV / Anime / Client / [Discord](https://discord.gg/98HxbfjKQV)*
 * [Movie-Forum](https://movie-forum.co/forum.php) - *Movies / TV*
 * [K a p K e y K](https://kpkyk.com/) - *Movies / TV*
 * [Movies Ni Pipay](https://moviesnipipay.me/) - *Movies / TV*
@@ -919,6 +918,7 @@
 * [5000 Best](http://5000best.com/) - *5000 Best Movies*
 * [TVDb](https://www.thetvdb.com/) - *TV / Anime*
 * [GCDb](https://www.grindhousedatabase.com/) - *Grindhouse Cinema*
+* [Class Real](https://www.classreal.com/) - *Weird / Trippy Movies*
 * [FFCritic](http://foundfootagecritic.com/hubs/hub-films/) - *Found Footage*
 * [Spaghetti Western Database](https://www.spaghetti-western.net/index.php/Main_Page) - *Spaghetti Western*
 * [listal](https://www.listal.com/) - *Movies / TV*
