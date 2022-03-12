@@ -469,7 +469,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### DOS Games
 
-[DOSGamesLibrary](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS Haven](http://www.doshaven.eu/), [LiquidDoom](http://dos.liquiddoom.net/), [The Software Library](https://archive.org/details/softwarelibrary_msdos), [Best Old Games](http://www.bestoldgames.net/eng/), [DosGames](https://dosgames.com/), [PlayDOSGames](https://www.playdosgames.com/), [ClassicDOSGames](https://www.classicdosgames.com/), [AbandonwareDOS](https://www.abandonwaredos.com/), [DOSGames](https://www.dosgames.com/), [zczc](https://dos.zczc.cz/) (Chinese)
+[DOSGamesLibrary](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS Haven](http://www.doshaven.eu/), [LiquidDoom](http://dos.liquiddoom.net/), [The Software Library](https://archive.org/details/softwarelibrary_msdos), [Best Old Games](http://www.bestoldgames.net/eng/), [DosGames](https://dosgames.com/), [PlayDOSGames](https://www.playdosgames.com/), [DOS Haven](http://www.doshaven.eu/), [ClassicDOSGames](https://www.classicdosgames.com/), [AbandonwareDOS](https://www.abandonwaredos.com/), [DOSGames](https://www.dosgames.com/), [zczc](https://dos.zczc.cz/) (Chinese)
 
 ***
 
@@ -921,7 +921,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Internet Speed Test
 
-[fast](https://fast.com/), [LibreSpeed](https://librespeed.org/), [Xfinity Speed Test](https://speedtest.xfinity.com/), [DLS Reports](http://www.dslreports.com/tools), [Bandwidth Place](https://www.bandwidthplace.com/), [Cloudflare](https://speed.cloudflare.com/), [Speedtest](https://www.speedtest.net/), [wifiman](http://wifiman.com/), [Net Speed Meter](https://www.microsoft.com/en-gb/p/app/9nmbx01pxz4l), [PeerFast](https://diegorbaquero.github.io/PeerFast/) (P2P), [Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker), [GoogleFiber](http://speedtest.googlefiber.net/)
+[fast](https://fast.com/) / [CLI](https://github.com/sindresorhus/fast-cli), [LibreSpeed](https://librespeed.org/), [Xfinity Speed Test](https://speedtest.xfinity.com/), [DLS Reports](http://www.dslreports.com/tools), [Bandwidth Place](https://www.bandwidthplace.com/), [Cloudflare](https://speed.cloudflare.com/), [Speedtest](https://www.speedtest.net/), [wifiman](http://wifiman.com/), [Net Speed Meter](https://www.microsoft.com/en-gb/p/app/9nmbx01pxz4l), [PeerFast](https://diegorbaquero.github.io/PeerFast/) (P2P), [Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker), [GoogleFiber](http://speedtest.googlefiber.net/)
 
 ***
 
@@ -1472,7 +1472,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Popup Blocker Links
 
-[Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [Popup Blocker Strict](https://add0n.com/popup-blocker.html) / [GitHub](https://github.com/schomery/popup-blocker), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html), [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker)
+[Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [Popup Blocker Strict](https://add0n.com/popup-blocker.html) / [GitHub](https://github.com/schomery/popup-blocker), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html), [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker), [Popup & Script Blocker Ultimate](https://popupblocker.ir/)
 
 ***
 
