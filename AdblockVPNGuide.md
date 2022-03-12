@@ -196,6 +196,7 @@
 * [Name & Identity Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_name_.26amp.3B_identity_generators) - *Generate Fake Names, Identities & Address'* 
 * [Random User Generator](https://randomuser.me/) - *Generate Fake User Details* 
 * [FakePhoneNumber](https://fakephonenumber.net/) - *Generate Fake Phone Numbers*
+* [mr.generator](https://generatormr.com/) - *Generate Fake SSN / Driver License / State ID / Passport*
 * [Tails](https://tails.boum.org/) or [Qubes](https://www.qubes-os.org/) - *Privacy-Based Operating Systems*
 * [Track This]( https://trackthis.link/) - *Confuse Personal Advertising by opening 100 tabs* 
 * [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) - *Cryptography Resources*
