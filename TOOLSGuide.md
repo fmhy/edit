@@ -103,7 +103,7 @@
 * [Stolen Camera Finder](https://www.stolencamerafinder.com/) - *Find Stolen Cameras* 
 * [Parcelsapp](https://parcelsapp.com/en/) or [17Track ](https://www.17track.net/en) - *International Package Tracking*
 * [Sweet Home 3D](http://www.sweethome3d.com/) - *Interior Design App*
-* [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Carnac](http://code52.org/carnac/), [Presen](https://presen-vid.com/ ), [mentimeter](https://www.mentimeter.com/), [beautiful.ai](https://www.beautiful.ai/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Deckdeckgo](https://deckdeckgo.com/), [Webslides](https://webslides.tv/), [Desk](https://www.animaker.com/deck) or [Slides](https://slides.com/) - *Presentation Tool*
+* [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Carnac](http://code52.org/carnac/), [Presen](https://presen-vid.com/ ), [mentimeter](https://www.mentimeter.com/), [beautiful.ai](https://www.beautiful.ai/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Deckdeckgo](https://deckdeckgo.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [Desk](https://www.animaker.com/deck) or [Slides](https://slides.com/) - *Presentation Tool*
 * [Slides](http://maaslalani.com/slides/) - *Terminal Presentation Tool / [GitHub](https://github.com/maaslalani/slides)*
 * [SlidesGo](https://slidesgo.com/), [Showeet](https://www.showeet.com/), [Slides Carnival](https://www.slidescarnival.com/), [SlideShareDownloader](https://slidesharedownloader.ngelmat.net/), [PresentationGO](https://www.presentationgo.com/), [ensa.io](https://ensa.io/) or [ThePOPP](https://thepopp.com/) - *Presentation Templates* 
 * [The Slideshow](https://theslideshow.net/) - *Generate Image Slideshow Based on Google Images*
@@ -321,7 +321,7 @@
 * [PlanetSide](https://planetside.co.uk/) - *CG Environment Generator*
 * [AnimeEffects](http://animeeffects.org/en/), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/) or [Synfig](https://www.synfig.org/) - *2D Animation Tool* 
 * [Storyboarder](https://wonderunit.com/storyboarder/) - *Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)* 
-* [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - *Fractal Rendering Software / [Info](https://www.mandelbulb.com/) / [3D](https://mb3d.overwhale.com/)*
+* [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - *Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)*
 * [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - *Flame Fractal Rendering Software*
 * [LibreSprite](https://libresprite.github.io/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - *Pixel Art Animation Tools*
 * [BestSnip](https://bestsnip.com/animation/) or [Mulator](https://multator.ru/) - *Online Animation Tool*
@@ -403,6 +403,7 @@
 * [Audio Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_plugins) - *VST Plugins* 
 * [Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sfx_.2F_loops) - *SFX & Loops*
 * [Fairusify](https://fairuseify.ml/) - *Make a Copyrighted Song Fair Use*
+* [Songwhip](https://songwhip.com/) - *Find / Share Your Music on All Platforms*
 * [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://iznaut.itch.io/bfxr), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - *Sounds Effects Creator*
 * [TheAudioScene](https://theaudioscene.net/) - *DAWs / VSTi / Samples / Presets* 
 * [Fresh Stuff For You](https://freshstuff4you.com/) - *DAWs / Samples / Presets*
@@ -581,7 +582,7 @@
 * [BetaList](https://betalist.com/) - *Get Startup Ideas*
 * [Failory](https://www.failory.com/graveyard) - *Learn Why Startups & Products Failed*
 * [AngelLIst](https://angel.co/) - *Startup Community*
-* [learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - *Cloud Computing Fundamentals*
+* [learn-to-cloud](https://learntocloud.guide/) - *Cloud Computing Fundamentals / [GitHub](https://github.com/learntocloud/learn-to-cloud)*
 * [Cyberseek](https://www.cyberseek.org/index.html) - *Cybersecurity Job Market Info*
 * [Candor](https://candor.co/hiring-freezes/) - *Hiring Freezes*
 * [Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms) - *Project Management Tools*
@@ -634,7 +635,7 @@
 * [Broadband Map](https://broadbandmap.fcc.gov/) - *Fixed Broadband Deployment Map*
 * [WiFiCard](https://wificard.io/) - *WiFi Info QRCode Generator*
 * [Master Networks & Scanning](https://mega.nz/folder/woQFAaLT#Eqvaip0R-kXi-lD8OIch7g) - *Network & Network Scanning Tutorials*
-* [Rang3r](https://github.com/floriankunushevci/rang3r) - *IP / Port Scanner*
+* [RustCat](https://github.com/robiot/rustcat) - *Port Listener*
 * [.new](https://whats.new/shortcuts) - *New Project Shortcuts*
 * [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - *Follow RSS Feeds*
 * [CTRLQ](https://ctrlq.org/rss/) or [RSS.app](https://rss.app/) - *RSS Feed Search* 
@@ -691,7 +692,7 @@
 * [Hack.chat](https://hack.chat/) or [tik.io](https://tlk.io/) - *Minimal Account Free Chat* 
 * [Cirlos](https://www.cirlos.net/) or [WeeChat](https://weechat.org/) - *Chat App*
 * [KiwiIRC](https://kiwiirc.com/) - *WebIRC Client*
-* [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/) or [Bitchx](http://bitchx.sourceforge.net/) - *IRC Client*
+* [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [PeerLinks](https://peerlinks.io/) or [Bitchx](http://bitchx.sourceforge.net/) - *IRC Client*
 * [LAN Messenger](https://lanmessenger.github.io/) - *FOSS LAN Messenger / [GitHub](https://github.com/lanmessenger/lanmessenger)*
 * [Cabal](https://cabal.chat/) - *P2P Chat / [GitHub](https://github.com/cabal-club)*
 * [Slink](https://slink.chat/) - *Aim Inspired Chat Client*
@@ -943,6 +944,7 @@
 * [bitby.me](https://bitby.me/) - `bitby.me/IXxbR`
 * [bitty.id](https://bitty.id/) - `bitty.id/42hix6hj`
 * [qrvn.cc](http://qrvn.cc/) - `qrvn.cc/Zzue41i`
+* [Shrinke.me](https://shrinke.me/) - `shrinke.me/1OpB2`
 * [Rebrandly](https://www.rebrandly.com/) - `rb.gy/4m25hq` / [Extension](https://mybrowseraddon.com/g-url-shortener.html)
 * [u.nu](https://u.nu/) - `u.nu/5nhzi`
 * [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
@@ -1013,7 +1015,7 @@
 * [Busca](https://github.com/afk-mcz/busca) - *Search Current Tab on Reddit*
 * [KarmaDecay](http://karmadecay.com/) - *Reddit Reverse Image Search* 
 * [Reddit Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_alternatives) - *Alternative Reddit Style Sites*
-* [lurrker](https://lurrker.com/), [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/) or [Nuxtit](https://nuxtit.netlify.com/) - *Alt Browsers / Web Clients*
+* [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/) or [Nuxtit](https://nuxtit.netlify.com/) - *Alt Browsers / Web Clients*
 * [xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/) / [2](https://github.com/spikecodes/libreddit), [Saturnus](https://saturnusapp.com/), [Inccogsnoo](https://incogsnoo.com/) or [teddit](https://teddit.net/) / [2](https://codeberg.org/teddit/teddit) - *Reddit Frontends*
 * [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466-unedit-and-undelete-for-reddit) - *See Edited & Deleted Reddit Content*
 * [Reddit-Search](https://camas.github.io/reddit-search/), [Unddit](https://www.unddit.com/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - *View Deleted Reddit Posts*
@@ -1216,7 +1218,7 @@
 * [Telegram Channels](https://telegramchannels.me/), [TG-ME](https://www.tg-me.com/), [tg_indexs](https://t.me/tg_indexs), [telegram-list](https://github.com/goq/telegram-list) or [Telegramic](https://telegramic.org/) - *Telegram Channel Indexes*
 * [Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_bots) - *Telegram Bot Indexes*
 * [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [gramxly](https://gramxly.com/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - *Telegram Channel / Bot Search*
-* [ShellBot](https://github.com/MannyHackers/ShellBot) or [Userge](http://theuserge.tech/) - *Multi-Tool Telegram Bot*
+* [ShellBot](https://github.com/MannyHackers/ShellBot), [EvaMaria](https://github.com/EvamariaTG/EvaMaria) or [Userge](http://theuserge.tech/) - *Multi-Purpose Telegram Bot*
 * [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots) - *Audio Download Bots*
 * [GetMediaBot](https://t.me/getmediabot) - *Social Media Video / Picture Download Bot*
 * [Now Playing](https://t.me/nowplaybot) - *Now Playing Audio Bot*
@@ -1655,7 +1657,7 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [Deskreen](http://deskreen.com/) - *Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen)* 
 * [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - *Control Multiple PC's via One Mouse / Keyboard*
 * [JumpShare](https://jumpshare.com/) - *File, Screenshot & Video Sharing*
-* [Screego](https://app.screego.net/) / [Github](https://github.com/screego/server/) or [here.fm](https://here.fm/) - *Screen Share*
+* [Screego](https://app.screego.net/) / [Github](https://github.com/screego/server/), [Screensy](https://screensy.marijn.it/) / [GitHub](https://github.com/screensy/screensy) or [here.fm](https://here.fm/) - *Screen Sharing*
 * [Remote Desktop Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remote_desktop_clients) - *Control Desktop Remotely*
 * [InputDirector](http://www.inputdirector.com/), [Synergy](https://symless.com/synergy), [Barrier](https://github.com/debauchee/barrier) or [ShareMouse](https://www.sharemouse.com/) - *Share Mouse & Keyboard w/ Multiple Computers*
 * [Nebula](https://github.com/slackhq/nebula) - *Multi-Computer Networking Tool*
@@ -1668,8 +1670,9 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [NirLauncher](https://launcher.nirsoft.net/) - *All Nirsoft Utilities in One App*
 * [TopGrade](https://github.com/r-darwish/topgrade) - *Package Manager Update Automation* 
 * [Winget](https://github.com/microsoft/winget-cli), [Scoop The Installer](https://github.com/couleur-tweak-tips/the-installer) or [bget](https://github.com/jahwi/bget) - *Windows Package Manager / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Tools](https://github.com/jdhitsolutions/WingetTools)* 
+* [pacaptr](https://github.com/rami3l/pacaptr) - *Pac-Man Package Manager Wrapper*
 * [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI), [0Install](
-https://0install.net/) / [GitHub](https://github.com/0install/0install) or [Ninite](https://ninite.com/) - *Install / Update Multiple Programs at Once*
+https://0install.net/) / [GitHub](https://github.com/0install/0install), [dank.downloader](https://github.com/SirDankenstien/dank.downloader) or [Ninite](https://ninite.com/) - *Install / Update Multiple Programs at Once*
 * [Silent Install](https://www.silentinstall.org/) - *Build Multi-Program Installers*
 * [Revo Uninstaller](https://www.revouninstaller.com/), [Soft Organizer](https://www.dropbox.com/s/5k5pm5f2xwbk7gb/soft-organizer-746-setup.exe), [Geek Uninstaller](https://geekuninstaller.com/), [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) or [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - *Software Uninstallation Tool*
 * [O&O App Buster](https://www.oo-software.com/en/ooappbuster) - *Remove Pre-Installed Microsoft Apps*
@@ -1700,9 +1703,9 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install) or [Nini
 * [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - *Hide Volume Bar*
 * [SuperF4](https://stefansundin.github.io/superf4/) - *Kill programs instantly with Ctrl+Alt+F4*
 * [How-To Crack Windows Passwords](https://samsclass.info/123/proj14/123p12winhash.htm) 
-* [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - *Change Java Version*
 * [Depix](https://github.com/beurtschipper/Depix) - *Recover Passwords from Pixelized Screenshots* 
-* [BIOS-PW](https://bios-pw.org/) - *BIOS Password Recovery for Laptops*
+* [hashcat](https://hashcat.net/hashcat/) or [BIOS-PW](https://bios-pw.org/) - *System Password Recovery Tools*
+* [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - *Change Java Version*
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - *Terminal Frameworks, Plugins & Resources* 
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/) or [MobaXterm](https://mobaxterm.mobatek.net/) - *Alternative Terminal* 
 * [Gradient Terminal](https://github.com/aurora-0025/gradient-terminal) - *Display Terminal Output as Gradient*
@@ -1879,6 +1882,7 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install) or [Nini
 * [watermark-remover](https://github.com/cpappen/watermark-remover), [pdf-remove-watermarks](https://github.com/matthiasbock/pdf-remove-watermarks) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - *PDF Watermark Remover*
 * [Scan Your PDF](https://www.scanyourpdf.com/) - *Make a PDF look like it was Scanned*
 * [PDF Fixer](https://pdffixer.com/) - *Repair Damaged PDFs*
+* [FalsiScan](https://gitlab.com/edouardklein/falsisign) - *PDF Hand Signature Generator*
 * [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - *Download Protected GDrive PDFs*
 * [PDFCoffee](https://pdfcoffee.com/) - *Upload PDF, Word or PowerPoint Files*
 * [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - *Fill & sign a PDF*
