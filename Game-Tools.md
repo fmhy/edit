@@ -395,6 +395,7 @@
 * [Plutonium](https://plutonium.pw/) - *Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)* 
 * [IW4x / IW6x](https://xlabs.dev/) - *COD MW2 Mod Project* 
 * [Cod4X](https://cod4x.me/) - *CoD4 Enhancement Mod*
+* [UGX Mods](https://www.ugx-mods.com/) - *COD Zombies Mods / [Discord](https://discord.gg/g9S2nSp)*
 * [Project Reality](https://www.realitymod.com/about) - *BF2 & ARMA 2 Realism Mod*
 * [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - *Battlefield Mod Projects*
 * [Optimize Dying Light 2](https://rentry.co/opto-dl2) - *DL2 Optimization Mods*
