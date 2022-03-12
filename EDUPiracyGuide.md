@@ -653,6 +653,7 @@
 * [OpenLearning](https://www.openelearning.org/) - *Create Course Presentations*
 * [Quizizz](https://quizizz.com/) - *Create Quizzes, Lessons, Flashcards & Presentations*
 * [Anki](https://apps.ankiweb.net/) / [Addons](https://github.com/tianshanghong/awesome-anki), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html) or [Flashcard Machine](https://www.flashcardmachine.com/) - *Flash Card Tool*
+* [Carden](https://github.com/alyssaxuu/carden) - *Flash Card Extension*
 * [Wolfram Cloud](https://www.wolframcloud.com/) - *Computational intelligence*
 * [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
 *  [Mujoco](https://github.com/deepmind/mujoco), [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - *Physics Simulations / Animations*
@@ -674,6 +675,7 @@
 * [The True Size](https://thetruesize.com/) - *Compare Country Size* 
 * [JoinUS World](https://www.joinusworld.org/) - *Korean Culture Q&A Site*
 * [Seeing Theory](https://seeing-theory.brown.edu/) or [Stat Trek](https://stattrek.com/) - *Statistics & Probability Tutorials* 
+* [GaryChamberlainLectureNotes](https://github.com/paulgp/GaryChamberlainLectureNotes) - *Econometrics Lecture Notes*
 * [The Engineering Toolbox](https://www.engineeringtoolbox.com/) - *Engineering Tools and Resources*
 * [Sanfoundry](https://www.sanfoundry.com/) - *Programming & Engineering Questions & Answers*
 * [CESDB](https://www.cesdb.com/) - *Civil Engineering Software*
