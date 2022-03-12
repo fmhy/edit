@@ -561,6 +561,7 @@
 * [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - *Cover Page Templates*
 * [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) or [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) - *Common Interview Questions & Answers*
 * [LeetFree](https://sksusha8853.github.io/leetcode/index.html) - *Leaked Google, Facebook & Amazon Interview Questions*
+* [Interviews.school](https://interviews.school/) - *Developer Interview Preparation Guide*
 * [JustLanded](https://www.justlanded.com/) - *Working & Living Abroad Guides*
 * [Nomad List](https://nomadlist.com/) - *Remote Work Listings*
 * [web3.career](https://web3.career/) - *Web3 Job Offers*
@@ -582,6 +583,7 @@
 * [BetaList](https://betalist.com/) - *Get Startup Ideas*
 * [Failory](https://www.failory.com/graveyard) - *Learn Why Startups & Products Failed*
 * [AngelLIst](https://angel.co/) - *Startup Community*
+* [namelix](https://namelix.com/) - *Business Name Generator*
 * [learn-to-cloud](https://learntocloud.guide/) - *Cloud Computing Fundamentals / [GitHub](https://github.com/learntocloud/learn-to-cloud)*
 * [Cyberseek](https://www.cyberseek.org/index.html) - *Cybersecurity Job Market Info*
 * [Candor](https://candor.co/hiring-freezes/) - *Hiring Freezes*
@@ -1558,7 +1560,7 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [MinimizeToTray](https://github.com/sandwichdoge/MinimizeToTray) - *Hide Any Windows to Tray*
 * [QDirStat](https://github.com/shundhammer/qdirstat) - *Directory Statistics*
 * [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) - *SMBIOS Generator*
-* [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit ) - *Intel BIOS Settings Explanation*
+* [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit) - *Intel BIOS Settings Explanation*
 * [How-To Reset BIOS Password](https://www.youtube.com/watch?v=GolIjI2HS5w)
 * [x64dbg](https://github.com/x64dbg/x64dbg) - *Windows Debugging Tool*
 * [UptimeFaker](https://github.com/CookiePLMonster/UptimeFaker) - *System Uptime Debugger*
@@ -1763,7 +1765,7 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install), [dank.d
 
 * **[Wallpaper Sites / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Download Wallpapers*
 * **[Rainmeter](https://www.rainmeter.net/)** - *Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter)* 
-* **[Dracula](https://draculatheme.com/)** or [theme.park](https://theme-park.dev/) - *Custom App Themes*
+* **[Dracula](https://draculatheme.com/)**, [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - *Custom App Themes*
 * [PCDesktops](http://pcdesktops.emuunlim.com/applinks.shtml) - *Windows Customization Apps*
 * [ScreenStyler](https://screenstyler.com/) -  *Desktop Customization / [Discord](https://discord.gg/u3thTMp9Cd)*
 * [XDesktopSoft](https://www.xwidget.com/) - *Desktop Customization*
