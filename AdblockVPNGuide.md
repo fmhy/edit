@@ -40,6 +40,7 @@
 
 ## ▷ DNS Adblocking
 
+* **[DNS-Providers](https://kb.adguard.com/en/general/dns-providers)** - *DNS Provider Index*
 * **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - *DNS Adblocking / self-hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Family Filter](https://ammnt.app/) / [Filters](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole)*
 * **[ahadns](https://ahadns.com/)** - *DNS Adblocking*
 * **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - *DNS Adblocking*
@@ -211,6 +212,7 @@
 * [CiphersByRitter](http://ciphersbyritter.com/) - *Cipher / Encryption Articles*
 * [HRef](https://href.li/) - *Hide HTTP Referer*
 * [Pixelfed](https://pixelfed.org/) or [Unsee](https://unsee.cc/) - *Decentralized / Temporary Image Hosts* 
+* [Cryptee](https://crypt.ee/) - *Encrypted Image Storage*
 * [ImgProxify](https://imgproxify.com/) - *Image Proxy Generator*
 * [PeerTube](https://joinpeertube.org/), [2](https://peertube.tv/), [3](https://peer.tube), [4](https://search.joinpeertube.org/) - *Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)*
 * [PrivNote](https://privnote.com/), [Burn.Link](https://burn.link/), [OneTimeSecret](https://onetimesecret.com/) or [IPNote](https://ipnote.io/) - *Send Self-Destructing Messages* 
@@ -529,7 +531,7 @@
 * **[Lantern](https://lantern.io/en_US/index.html)** 
 * [Acrylic](http://mayakron.altervista.org/)
 * [Tsunami](https://github.com/FogNetwork/Tsunami) 
-* [Shadowsocks](https://shadowsocks.org/en/index.html) - *[Free Servers](https://github.com/ruanfei/ShadowsocksRRShare), [2](https://github.com/learnhard-cn/free_proxy_ss)*
+* [Shadowsocks](https://shadowsocks.org/en/index.html) - *[Free Servers](https://github.com/ruanfei/ShadowsocksRRShare), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows)*
 * [FilterBypass](https://www.filterbypass.me/) 
 * [Privoxy](http://www.privoxy.org/) - *[Docker Build](https://github.com/binhex/arch-privoxyvpn)*
 * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - *Proxy Manager*
