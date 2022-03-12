@@ -39,7 +39,7 @@
 * [Modern Python 3 Bootcamp Courses](https://mega.nz/folder/zfJQyLrT#uvGAaSb7Bs5bggzXXWqosQ)
 * [Tea Press](https://greenteapress.com/wp) - *Free Python Learning Books Green*
 * [VSCode.one](https://vscode.one/) - *VS Code Tutorials*
-* [Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - *Programming & Development Learning Channels*
+* [Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) or [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - *Programming & Development Learning Channels*
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - *Code Algorithms & Data Structures Tutorials*
 * [Aquent Gymnasium](https://thegymnasium.com/) - *Courses* 
 * [SchoolOfHaskell](https://www.schoolofhaskell.com/) - *Haskell Tutorials* 
@@ -89,6 +89,7 @@
 * [Learn C++](https://www.learncpp.com/) - *Learn C++*
 * [HowIStart C++](https://howistart.org/posts/cpp/1/) - *C++ Setup Guide*
 * [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) - *C++ Algorithm Collection*
+* [modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) - *C++ Tips*
 * [Quick-R](https://www.statmethods.net/index.html) - *R Tutorials*
 * [Advanced R](https://adv-r.hadley.nz/) - *R Guide / [Solutions](https://advanced-r-solutions.rbind.io/)*
 * [R Packages](https://r-pkgs.org/) - *R Packages Guide*
@@ -150,6 +151,7 @@
 * [FlexBoxFroggy](https://flexboxfroggy.com/) - *CSS Learning Game*
 * [CSS Speedrun](https://css-speedrun.netlify.app/) - *Test Your CSS Skills*
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
+* [PromptPapers](https://github.com/thunlp/PromptPapers) - *Pre-Trained Language Model Tuning Papers*
 * [Discord.js Guide](https://discordjs.guide/) - *Discord.js Bot Guide*
 * [vcokltfre](https://vcokltfre.dev/) - *Discord.py Bot Guide*
 * [free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - *AI Learning Resources*
@@ -169,7 +171,7 @@
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - *Open Source Development Software*
 * [Consul](https://www.consul.io/) - *Development App Network / [GitHub](https://github.com/hashicorp/consul)*
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) - *Systadmin Resources*
-* [Awesome DataScience](https://github.com/academic/awesome-datascience) - *Data Science Resources*
+* [Awesome DataScience](https://github.com/academic/awesome-datascience) or [Best Data Science Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources) - *Data Science Resources*
 * [SuperNova](https://www.supernova.io/) - *Design System Manager*
 * [Awesome Bots](https://github.com/DopplerHQ/awesome-bots) - *Developer Bot Index*
 * [Student Developer Pack](https://education.github.com/pack) - *Free Developer Tools for Students* 
@@ -245,7 +247,7 @@
 * [OpenCV](https://opencv.org/) - *A.I. Vision Library*
 * [AForge.NET](https://github.com/andrewkirillov/AForge.NET) - *A.I. Vision Framework*
 * [OpenCog](https://opencog.org/) - *Artificial Intelligence Framework / [GitHub](https://github.com/opencog)*
-* [awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes) - *Machine Learning Index*
+* [awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes) or [ML_Resources](https://github.com/tunguz/ML_Resources) - *Machine Learning Resources*
 * [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - *Machine Learning Framework*
 * [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - *Machine Learning Datasets*
 * [Kobra](https://kobra.dev/) - *Visual Programming Language for Machine Learning*
@@ -294,11 +296,13 @@
 * [RemoteMySQL](https://www.remotemysql.com/) - *Remote MySQL Database*
 * [DB4Free](https://db4free.net/) - *MySQL Testing*
 * [DoIt](https://github.com/dolthub/dolt) - *SQL Database* 
+* [OceanBase](https://open.oceanbase.com/) - *Relational Database / [GitHub](https://github.com/oceanbase/oceanbase)*
 * [NocoDB](https://www.nocodb.com/) - *Turn Database into Smart Spreadsheet / [GitHub](https://github.com/nocodb/nocodb)*
 * [PooShock](https://pooshock.ru/) - *Apache 2 Test Page*
 * [WebAuthn](https://webauthn.io/) - *Data Security Authentication API*
 * [Hydra](https://github.com/ory/hydra) - *OAuth 2.0 Server / OpenID Connect Provider*
 * [Spiderfoot](https://www.spiderfoot.net/) - *Automate OSINT*
+* [Easegress](https://github.com/megaease/easegress) - *Traffic Orchestration System*
 * [Site Analytics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_analytics) - *Traffic Stats & Info*
 * [HITS](https://hits.seeyoufarm.com/) - *Website Traffic Badges*
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) - *Meta Tag Generator*
@@ -317,10 +321,12 @@
 * [Shisho](https://shisho.dev/) - *Infrastructure Code Security Patcher*
 * [Security Onion Solutions](https://securityonionsolutions.com/), [Wazuh](https://wazuh.com/) or [Snyk](https://snyk.io/) / [GitHub](https://github.com/snyk/snyk) - *Site Security Monitor*
 * [Teler](https://github.com/kitabisa/teler) - *HTTP Intrusion Detection*
+* [GHH](http://ghh.sourceforge.net/) - *Malicious Web Traffic Protection*
 * [VanwaTech](https://vanwa.tech/cdn) - *Smart CDN*
 * [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - *HTTP Sites Leak Information*
 * [DNSDumpster](https://dnsdumpster.com/) - *DNS Lookup / Security*
 * [WebScarab](https://wiki.owasp.org/index.php/Category:OWASP_WebScarab_Project) - *HTTP / HTTPS Protocol Analysis*
+* [Plow](https://github.com/six-ddc/plow) - *HTTP Benchmarking*
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist* 
 * [Flounder](https://flounder.online/) - *Gemini Website Builder / [GitHub](https://github.com/alexwennerberg/flounder)* 
 * [Framer](https://www.framer.com/) - *Interactive Site / App Design Tool*
@@ -402,7 +408,7 @@
 * [Discuzz](https://github.com/discuzz-app/discuzz) - *Open Source Comment System*
 * [GetButton](https://getbutton.io/) - *Get free 'Message Us' Button for your Site*
 * [cssbuttons](https://cssbuttons.io/) - *CSS Buttons*
-* [Tawk](https://www.tawk.to/) - *Website Chat & Ticketing System*
+* [CBox](https://www.cbox.ws/) or [Tawk](https://www.tawk.to/) - *Embedded Chat App*
 * [StackWhats](https://stackwhats.com/) - *Add Whatsapp Chat to Your Website*
 * [aftership](https://www.aftership.com/) - *Shipment Tracking API*
 * [Error404](https://error404.fun/) - *Free 404 Pages*
@@ -431,13 +437,14 @@
 * [PWABuilder](https://www.pwabuilder.com/) - *Turn Site into Progressive Web App*
 * [LightHouse](https://github.com/GoogleChrome/lighthouse) - *Web App Performance Test*
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - *Break Your Web Apps to Improve Them*
+* [w3af](http://w3af.org/) - *Web App Security Scanner*
 * [Form To Chatbot](http://formtochatbot.com/) - *Convert Google Form to Chatbot*
 * [Herosaver](https://github.com/amerrigan/HeroSaver-v2) - *Save Site Configuration and STLs*
 * [Termible](https://termible.io/) - *Docker Powered Site Terminals*
 * [Stackbit](https://www.stackbit.com/) - *JamStack Tools* 
 * [the New Dynamic](https://www.tnd.dev/) - *JamStack Directory*
-* [Arco Design](https://github.com/arco-design/arco-design-vue) - *Vue.js UI Components Library*
-* [Vuejs Dev Tools](https://vuejs.org/) - *Add Vuejs Debugging to Browser* 
+* [Arco Design](https://github.com/arco-design/arco-design-vue) or [Naive-UI](https://www.naiveui.com/) / [GitHub](https://github.com/TuSimple/naive-ui) - *Vue 3 UI Components Library*
+* [Vuejs Dev Tools](https://vuejs.org/) - *Add Vue 3 Debugging to Browser* 
 * [Sight](https://github.com/tsenart/sight) - *Syntax Highlighter for Chrome* 
 * [Inyo](https://inyo.me/inyo-v2-customization-tools) - *Customer Relation Tools*
 * [Sprig](https://sprig.com/) - *Product Research Platform*
@@ -479,6 +486,7 @@
 * [BugSnag](https://www.bugsnag.com/) - *Application Stability Monitor*
 * [98.css](https://jdan.github.io/98.css/) - *Build Windows 98 Themed Interfaces / [GitHub](https://github.com/jdan/98.css)*
 * [Radare](https://rada.re/r/), [Flare IDA](https://github.com/mandiant/flare-ida), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://github.com/rizinorg/cutter) - *Reverse Engineering* 
+* [Kubeorbit](https://github.com/teamcode-inc/kubeorbit) - *Application Testing / Debugging*
 * [Redis](https://redis.io/) - *Key-Value Database*
 * [Read the Docs](https://readthedocs.org/) or [MkDocs](https://www.mkdocs.org/) / [GitHub](https://github.com/mkdocs/mkdocs/)- *Make Documentation for your Software*
 * [Inno Setup](https://jrsoftware.org/isinfo.php), [Fileforums Premade Installers](https://github.com/LeFishe/fileforums-premade-installers), [InstallForge](https://www.installforge.net/) or [ActualInstaller](https://www.actualinstaller.com/) - *Create Installation Programs*
@@ -487,6 +495,7 @@
 * [Flatpak](https://flatpak.org/) - *Create & Distribute Linux Applications*
 * [Awesome DOS](https://github.com/balintkissdev/awesome-dos) - *DOS App Development Resources*
 * [WTFPL](http://www.wtfpl.net/) - *Free Software Licenses*
+* [Advanced Catalyst Example](https://github.com/steventroughtonsmith/advancedcatalystexample) - *Mac Catalyst App Example*
 
 ***
 
@@ -525,6 +534,7 @@
 * [GoNative](https://gonative.io/) - *Convert Websites to Mobile Apps*
 * [Shizuku](https://shizuku.rikka.app/) - *Connect Apps to APIs*
 * [CollectionConcurrencyKit ](https://github.com/JohnSundell/CollectionConcurrencyKit) - *Async & Concurrent Versions of Swift APIs*
+* [NukeUI](https://github.com/kean/NukeUI) - *Lazy Image Loading for Apple Platforms*
 * [MobileApp-Pentest-Cheatsheet](https://github.com/fuzz-security/MobileApp-Pentest-Cheatsheet) - *Mobile App Penetration Test Index*
 * [Uiautomator2](https://github.com/openatx/uiautomator2) or [Appium](http://appium.io/) / [GitHub](https://github.com/appium/appium) - *Automated App Testing*
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - *Intentionally vulnerable Android application*
@@ -678,6 +688,7 @@
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - *GitHub Fork Search* 
 * [Active-Forks](https://techgaun.github.io/active-forks/index.html) - *Find Active GitHub Forks / [GitHub](https://github.com/techgaun/active-forks)*
 * [grep.app](https://grep.app/) - *Git Repository Index*
+* [StarGrab](https://github.com/zekroTJA/stargrab) - *Mirror GitHub Repositories*
 * [OctoLinker](https://octolinker.now.sh/) - *Make GitHub Code References Clickable* 
 * [Ugit](https://github.com/Bhupesh-V/ugit) - *Undo Git Commands*
 * [Octotree](https://www.octotree.io/) - *GitHub Repo File Tree View* 
@@ -694,6 +705,7 @@
 * [readme.so](https://readme.so/) - *Readme Markdown Editor*
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - *Dynamically Generated GitHub Readme Stats* 
 * [GitHub Contribution Graph](https://github.com/ez4o/github-contribution-graph) - *Add GitHub ReadMe Contribution / Commit Graph*
+* [Awesome README](https://github.com/matiassingers/awesome-readme) - *GitHub Readme Examples*
 * [GIT Quick Stats](https://git-quick-stats.sh/) - *View Git Statistics / [GitHub](https://github.com/arzzen/git-quick-stats)*
 * [GitHub Release Downloads](https://github.com/addshore/browser-github-release-downloads) - *GitHub Release Download Counter*
 * [Shields.io](https://shields.io/) - *Metadata badges for Github Readmes*
@@ -766,6 +778,7 @@
 * [Telosys](http://www.telosys.org/) - *Code Generator*
 * [OneLang IDE](https://ide.onelang.io/) - *Convert Code to Multiple Languages*
 * [Autosaved](https://github.com/nikochiko/autosaved) - *Autosave Code / [GitHub](https://github.com/tkellogg/dura)*
+* [Tasuku](https://github.com/privatenumber/tasuku) - *Node.js Task Runner*
 * [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - *Source Code Converters*
 * [OctoLinker](https://octolinker.vercel.app/) - *Turn Code Statements into Links / [Github](https://github.com/OctoLinker/OctoLinker)*
 * [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - *Emacs Packages*
