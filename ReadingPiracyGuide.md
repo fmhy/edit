@@ -45,6 +45,7 @@
 * [Audiobooks For Soul](https://audiobooks4soul.com/)
 * [AppAudiobooks](https://appaudiobooks.com/)
 * [Litgu.ru](https://litgu.ru/)
+* [ListentoEnglishStory](https://www.youtube.com/c/ListentoEnglishStoryandLearnEnglishQuickly/) 
 * [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - *Classic Audiobooks*
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - *Poetry*
 * [Blinkist Free Daily](https://t.me/blinkistfree) - *Self-Help Audiobooks*
@@ -440,6 +441,7 @@
 * [Penn Libraries](http://digital.library.upenn.edu/) + *[Index](http://digital.library.upenn.edu/books/)*
 * [s2.bitdl.ir](http://s2.bitdl.ir/Ebook/)
 * [114.116.28.83](http://114.116.28.83/)
+* [SuperKuh](http://erewhon.superkuh.com/library/) 
 * [Non_Fic](https://vk.com/non_fic) 
 * [Uloz Archive](https://uloz.to/folder/8fpAg2rwEcYh/name/Large-Book-Collection) 
 * [FreeBookCentre](http://www.freebookcentre.net/)
@@ -595,7 +597,7 @@
 
 * **[TheFreeLibrary](https://www.thefreelibrary.com/)** - *Articles*
 * **[Sci-Hub](https://sci-hub.se/)** - *Science article viewer*
-* **Sci-Hub Tools** - *[Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [3](https://sci-hub.tech/), [4](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button) / [PDF Download](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub)*
+* **Sci-Hub Tools** - *[Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [3](https://sci-hub.tech/), [4](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub)*
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - *How to bypass article paywalls*
 * [Wikisource](https://en.wikisource.org) - *Poetry / Text / Documents*
 * [Heystacks](https://heystacks.org/) - *Public Google Docs*
@@ -1201,4 +1203,4 @@
 * [HowLongToRead](https://howlongtoread.com/) - *Average Book Reading Times*
 * [xMinutesToRead](https://xminutestoread.xyz/) - *Article Time to Read Estimate*
 * [RemoveWatermark](https://github.com/ShadonSniper/RemoveWatermark) - *IT Ebook Watermark Remover*
-* [DeDRM_tools](https://github.com/noDRM/DeDRM_tools) or [Remove Ebook DRM](https://apprenticealf.wordpress.com/) - *Remove Ebook DRM*
+* [DeDRM_tools](https://github.com/noDRM/DeDRM_tools) / [2](https://github.com/apprenticeharper/DeDRM_tools) or [Remove Ebook DRM](https://apprenticealf.wordpress.com/) - *Remove Ebook DRM*
