@@ -751,8 +751,10 @@
 * [Hevy](https://www.hevyapp.com/) or [FitHero](https://fithero.app/) - *Workout Tracker*
 * [OpenTrack](https://opentracksapp.com/) - *Sports Tracking App*
 * [GoldenCheetah](https://www.goldencheetah.org/) - *Biking Tracker*
+* [Wandermap](http://www.wandermap.net/) - *Hiking Routes*
 *  [Marcher](https://marcher.app/) or [MapMyWalk](https://www.mapmywalk.com/) - *Walking Tracker*
 * [RunnerUp](https://github.com/jonasoreland/runnerup) - *Run Tracker*
+* [Runmap](http://www.runmap.net/) - *Running Routes*
 * [Charity Miles](https://charitymiles.org/) - *Donate to Charity While Running / Biking*
 * [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - *Zombie Running Adventure Game*
 * [Benefits of Good Posture](https://youtu.be/OyK0oE5rwFY) - *Posture Importance Lesson*
@@ -863,6 +865,8 @@
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - *Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)*
 * [LightningMaps](https://lightningmaps.org/) - *Lightning Maps*
 * [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](http://radarbox24.com/) or [FlightAware](http://flightaware.com/) - *Live Flight Tracker* 
+* [FlightConnections](https://www.flightconnections.com/) - *Interactive Flight Routes*
+* [SkyVector](https://skyvector.com/) - *Flight Planner*
 * [MarineTraffic](https://www.marinetraffic.com/) or [VesselFinder](http://vesselfinder.com/) - *Live Ship Tracker* 
 * [Fishing Watch](https://globalfishingwatch.org/map) - *Fishing Activity Map*
 * [Ocearch](https://www.ocearch.org/tracker/) - *Shark Tracker*
@@ -873,6 +877,8 @@
 * [Cost of Living](https://www.numbeo.com/cost-of-living/) - *Cost of Living Map*
 * [Mapfrappe](http://mapfrappe.com/?show=46142) or [scale-a-tron](https://stamen.github.io/scale-a-tron/) - *Compare True Sizes on Land 
 * [Mikavaa](http://mapmerizer.mikavaa.com/) - *Compare Cities*
+* [Wandermap](http://www.wandermap.net/) - *Hiking Routes*
+* [Runmap](http://www.runmap.net/) - *Running Routes*
 * [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - *Forest Sound Map*
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/), [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) or [AsteroidCollision](https://asteroidcollision.herokuapp.com/) - *Interactive damage effect maps*
 * [convert_lat_long](https://andrew.hedges.name/experiments/convert_lat_long/) - *Convert Latitude/Longitude to Decimal* 
