@@ -79,7 +79,6 @@
 * [English-Bookys](https://english-bookys.com/) - *Books / Magazines / Newspapers / Comics*
 * [The Library](https://discord.gg/mSyFJz9), [The Bookwyrm's Bower](https://discord.gg/wTf7rs77rF) or [The Great E-Library](https://discord.gg/efBxSuz) - *Book Discord Servers* 
 * [EBOOKS SET 2](https://mega.nz/folder/Z1dD2YSA#XRUa1Sj9mXJHU4rh1seykg) - *Books / Drive*
-* [VK Serial Books & Magazines](https://vk.com/sebomag) - *Books / Magazines*
 * [Bookstagram](https://vk.com/bookstagram_eng) - *Books / Magazines* 
 * [ebook3000.co](https://www.ebook3000.co/) - *Books / Magazines / NSFW*
 * [29GB Mega Folder](https://mega.nz/folder/x4VG3DRL#lqecF4q2ywojGLE0O8cu4A) - *Books* 
@@ -875,6 +874,7 @@
 * [Mangaski](https://www.mangasaki.com/)
 * [KissManga](https://kissmanga.in/)
 * [Manhwafull](https://manhwafull.com/)
+* [Free Manga Hub](https://freemangahub.com/)
 * [Mangas.Heoo](https://mangas.heoo.workers.dev/0:/)
 * [247Manga](https://247manga.com/) 
 * [DeathTollScans](https://www.deathtollscans.net/)
