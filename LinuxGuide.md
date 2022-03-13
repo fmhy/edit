@@ -49,6 +49,7 @@
 * [Distrochooser](http://distrochooser.de/?l=2) - *Linux Distro Chooser*
 * [Linux Filesystem Chart](https://cdn.discordapp.com/attachments/670326604261752843/904929766459736124/linux-01c.jpg) - *File System Guide*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old Linux Distro Archive*
+* [Vivek9Patel](https://vivek9patel.github.io/) - *Run Ubuntu on Browser / [GitHub](https://github.com/vivek9patel/vivek9patel.github.io)*
 * [Kvantum](https://github.com/tsujan/Kvantum) - *Linux QT / KDE Theme Engine*
 * [susOS](https://github.com/Villagerjj/sus-os) - *Among Us Themed Distro*
 * [Linux x Technology](https://linuxdiscord.com/) or [Discord-Linux](https://discord.gg/discord-linux) - *Linux Chat Communities*
@@ -359,6 +360,7 @@
 * [Pictogram](https://pictogramapp.com/) or [IconChamp](https://www.macenhance.com/iconchamp.html) - *Custom App Icons*
 * [IconSet](https://github.com/tale/iconset) or [IconChamp](https://www.macenhance.com/iconchamp.html) - *Custom System Icons*
 * [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - *MacOS Dynamic Wallpaper App*
+* [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) - *Automatically Switch System Theme*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old MacOS ISOs*
 * [Bootcamp Drivers](https://bootcampdrivers.com/) - *Mac Bootcamp AMD Drivers*
 * [IINA](https://iina.io/) - *Video Player*
