@@ -288,7 +288,7 @@
 * [ServeIt](https://github.com/many-fac3d-g0d/ServeIt) - *Android HTTP Server*
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - *Easily Open Links in Text via Share Function*
 * [URLApp](https://urlgapp.com/) - *Convert Sites to Android Apps*
-* [Ponydroid](https://forum.mobilism.org/search.php?keywords=ponydroid&amp;sr=topics&amp;sf=titleonly), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - *Download File Manager / [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)*
+* [Ponydroid](https://forum.mobilism.org/search.php?keywords=ponydroid&amp;sr=topics&amp;sf=titleonly), [Jdownloader](https://my.jdownloader.org/), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - *Download File Manager / [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)*
 * [File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools) - *Tools to Share / Sync Files*
 * [FLauncher](https://play.google.com/store/apps/details?id=me.efesser.flauncher) - *Android TV Launcher / [GitLab](https://gitlab.com/etienn01/flauncher)*
 * [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) - *Send Files to Android TV*
@@ -564,7 +564,8 @@
 * [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - *[Screenshot](https://i.imgur.com/OrK3mLu.png)*
 * [WeTorrent](https://play.google.com/store/apps/details?id=co.we.torrent&amp;hl=en_US) - *[Screenshot](https://i.imgur.com/vrCk8Na.png)*
 * [BiglyBT](https://android.biglybt.com/) - *[Screenshot](https://i.imgur.com/WP7xwYK.png)* 
-* [Transdroid](https://f-droid.org/packages/org.transdroid.full/) - *Manage BitTorrent clients* 
+* [Trireme](https://github.com/teal77/trireme) - *Deluge Client*
+* [Transdroid](http://www.transdroid.org/) - *Manage BitTorrent Clients / [F-Droid](https://f-droid.org/packages/org.transdroid.full/)* 
 * [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - *NZB / Torrent Manager* 
 * [TorrHunt](https://torrhunt.pages.dev/) or [TorrSE](https://seedboxs.me/) - *Torrent Search*
 * [Meoko](http://kutt.it/meoko) - *Anime Torrent Search*
