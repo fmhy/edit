@@ -39,6 +39,7 @@
 * [pilssken](https://pilssken.neocities.org/warez/) - *Piracy Index* 
 * [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - *Piracy Index / [Warning](https://i.imgur.com/jtT9GDB.png)*
 * [Ripped Guide](https://ripped.guide/) - *Piracy Index*
+* [The Pirate List](https://thepiratelist.com/) - *Piracy Index*
 * [PiratezParty](https://github.com/SpamVerse/Piratezparty) - *Piracy Index / [Telegram](https://t.me/piratezparty)*
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - *Software / Tool Index*
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software Index* 
@@ -421,6 +422,7 @@
 * [Popcat](https://popcat.click/) - *Worldwide Popcat Clicking Competition*
 * [RPS101](http://www.umop.com/rps101.htm) - *101 Gesture Rock-Paper-Scissors*
 * [Fake Text Message](https://ifaketextmessage.com/) - *Make Fake Text Conversation* 
+* [Tinder for Bananas](https://tinderforbananas.com/) - *Tinder for Bananas*
 * [FutureTimeline](https://www.futuretimeline.net/) - *Timeline of future predictions* 
 * [House creep](https://www.housecreep.com/) - *Homes With A Curious or Criminal History* 
 * [Letters of Note](https://news.lettersofnote.com/) - *Historical Letters*
@@ -440,6 +442,7 @@
 * [InspiroBot](https://inspirobot.me/) - *Inspirational Quote Generator*
 * [RGB](https://www.rrrgggbbb.com/) - *RRRGGGBBB* 
 * [DogeWeather](http://dogeweather.com/) - *Weather with Doge* 
+* [Dial Up Sound](https://www.dialupsound.com/) - *Dial Up Sounds*
 * [Chris Shier](https://www.csh.bz/) - *Canvas Animations / GIFs* 
 * [thisvid2 Web Edition](https://projectlounge.pw/thisvid2) - *(Funny) Twitter Video Downloader*
 * [StaggeringBeauty](http://www.staggeringbeauty.com/) - *Wiggle a Worm, Have a Seizure* 
@@ -821,6 +824,7 @@
 * [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - *Global Jetstream Forcast Map*
 * [Cyclocane](https://www.cyclocane.com/) - *Cyclone and Hurricane Tracking*
 * [Air Now](https://gispub.epa.gov/airnow/) or [Breezometer](https://www.breezometer.com/air-quality-map/) - *Air Quality Map*
+* [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - *Radioactivity / Air Quality Near Ukraine*
 * [Earth Observatory](https://earthobservatory.nasa.gov/global-maps) or [ClimateCharts](https://climatecharts.net/) - *Climate Maps*
 * [Global Hyrdo Data](https://www.esri.com/arcgis-blog/products/product/water/global-hydro-data-its-here-here-here/) - *Global Hydro Data / Mapping*
 * [River Runner](https://river-runner.samlearner.com/) - *River Map*
