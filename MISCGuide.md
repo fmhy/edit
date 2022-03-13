@@ -79,7 +79,7 @@
 * [Index Mania](https://indexmania.org/) - *Link Search Index*
 * [Wikimedia](https://www.wikimedia.org/) - *All Wikimedia Sources*  
 * [Clone Wars](https://gourav.io/clone-wars) - *Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars)* 
-* [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - *Web App Index*
+* [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps), [Awesome oss alternatives](https://github.com/RunaCapital/awesome-oss-alternatives), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - *Web App Index*
 * [CloudTrip](http://cloudtrip.com/) - *Cloud App Index*
 * [State of the DApps](https://www.stateofthedapps.com/) - *Blockchain App Index* 
 * [Open Sustainable Technology](https://opensustain.tech/) - *Sustainable Tech Project Index*
@@ -1159,7 +1159,7 @@
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - *Restores Firefox RSS Features*
 * [Rooster Todo Manager](https://addons.mozilla.org/en-US/firefox/addon/rooster-todos/) - *To-Do Manager* 
 * [Morning Coffee Quantum](https://addons.mozilla.org/en-US/firefox/addon/morning-coffee-quantum/) - *Open Custom Website Lists* 
-* [Wiper](https://github.com/davidahmed/wiper) - *Block Sites*
+* [Wiper](https://github.com/davidahmed/wiper) or [BlockSite](https://blocksite.co/) - *Block Sites*
 * [Resurrect Pages](https://addons.mozilla.org/nl/firefox/addon/resurrect-pages/) - *View Archived / Cached Webpages*
 * [Firefox Voice](https://commonvoice.mozilla.org/en) - *Use Firefox with your Voice* 
 * [Canvas](https://addons.mozilla.org/en-US/firefox/addon/canvas-google-images/) - *View & Edit Google Images* 
