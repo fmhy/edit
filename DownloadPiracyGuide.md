@@ -153,6 +153,7 @@
 * [sarzamindownload](https://www.sarzamindownload.com/) - *Software / Games / Android* 
 * [FrostClick](https://www.frostclick.com/wp/) - *Video / Audio / Software / Games / Books* 
 * [KapitalSin](https://kapitalsin.com/) - *Software / Games*
+* [rsload](https://rsload.net/) - *Software / Android / Games*
 * [Uloz](https://ulozto.net/) - *Video / Audio* 
 * [ShareMania](http://sharemania.us/) - *Video / Audio* 
 * [Heidoc](https://www.heidoc.net/joomla/) - *Software / Books / Android* 
