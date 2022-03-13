@@ -174,7 +174,8 @@
 * [Privacy Settings](https://github.com/the-weird-aquarian/privacy-settings) - *Privacy Setting Guides*
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - *Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)*
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/), [Infosec Resources](https://github.com/stong/infosec-resources) or [Anon Security](https://t.me/anon_server) - *Cybersecurity Resources*
-* [The White Circle](https://twc1rcle.com/) - *Cyber Security Community*
+* [Cyber Talent Kids](https://cybertalentskids.com/) - *Learn About Cybersecurity*
+* [The White Circle](https://twc1rcle.com/) - *Cybersecurity Community*
 * [Att&ck](https://attack.mitre.org/) - *Cybersecurity Defense Database*
 * [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - *Anti-Censorship tool index* 
 * [Element](https://element.io/) / [Themes](https://github.com/aaronraimist/element-themes), [qTox](https://qtox.github.io/), [Utopia](https://u.is/en/), [linphone](https://www.linphone.org/), [Jami](https://jami.net/), [Tox](https://tox.chat/), [Bitmask](https://bitmask.net/) or [Wickr](https://wickr.com/) - *Encrypted Messaging / Video Calls* 
@@ -215,7 +216,7 @@
 * [Pixelfed](https://pixelfed.org/) or [Unsee](https://unsee.cc/) - *Decentralized / Temporary Image Hosts* 
 * [Cryptee](https://crypt.ee/) - *Encrypted Image Storage*
 * [ImgProxify](https://imgproxify.com/) - *Image Proxy Generator*
-* [PeerTube](https://joinpeertube.org/), [2](https://peertube.tv/), [3](https://peer.tube), [4](https://search.joinpeertube.org/) - *Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)*
+* [PeerTube](https://joinpeertube.org/), [2](https://peertube.tv/), [3](https://peer.tube), [4](https://search.joinpeertube.org/), [5](https://sepiasearch.org/) - *Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)*
 * [PrivNote](https://privnote.com/), [Burn.Link](https://burn.link/), [OneTimeSecret](https://onetimesecret.com/) or [IPNote](https://ipnote.io/) - *Send Self-Destructing Messages* 
 * [xcodx.ru](https://xcodx.ru/) - *Send Encrypted Text*
 * [USBKill](https://github.com/hephaest0s/usbkill) - *Anti-Forensic Kill-Switch*
@@ -223,6 +224,7 @@
 * [Free Hide Folder](https://www.cleanersoft.com/hidefolder/free_hide_folder.htm) or [Wise Folder Hider](http://www.wisecleaner.com/wise-folder-hider-free.html) - *Hide Folders / Files* 
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - *Run a Oracle VM on TailsOS*
 * [diaspora](https://diasporafoundation.org/), [MissKey](https://join.misskey.page/en/), [Mastodon](https://joinmastodon.org/), [Pleroma](https://pleroma.social/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendi](https://friendi.ca/) or [Zotlabs](https://zotlabs.org/page/hubzilla/hubzilla-project) - *Decentralized Social Network*
+* Mastodon Tools - [Instances](https://instances.social/) / [Web Client](https://pinafore.social/) / [Desktop Client](https://flathub.org/apps/details/com.github.bleakgrey.tootle), [2](https://github.com/h3poteto/whalebird-desktop) / [Account Link](https://moa.party/) / [Crosspost](https://crossposter.masto.donte.com.br/) / [Schedule](https://scheduler.mastodon.tools/) / [Embedded Feeds](https://www.mastofeed.com/) / [Timelines](https://mastovue.glitch.me/)
 * [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/) - *Stop Telemetry Data Leaks*
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - *Track Torrent Download Leaks*
 * [Safing](https://safing.io/) - *Monitor Network / Block Trackers / [GitHub](https://github.com/Safing/portmaster)*
