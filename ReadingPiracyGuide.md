@@ -711,7 +711,7 @@
 * **[Dictionary Index](https://onelook.com/?d=all_gen)** 
 * **[OneLook](https://onelook.com/)** - *Multi Dictionary Search*
 * **[Merriam-Webster](https://www.merriam-webster.com/)** - *Dictionary / Thesaurus*
-* **[Wikipedia](https://www.wikipedia.org/)** or [WikiFox](https://wikifox.ml/) - *Encyclopedia / [Read Only](http://static.wiki/) / [Text Extractor](https://github.com/attardi/wikiextractor)*
+* **[Wikipedia](https://www.wikipedia.org/)** or [WikiFox](https://wikifox.ml/) - *Encyclopedia / [Read Only](http://static.wiki/) / [Text Extractor](https://github.com/attardi/wikiextractor) / [Deleted Articles](https://deletionpedia.org/en/Main_Page)*
 * **[Wiktionary](https://en.wiktionary.org)** or [EtymOnline](https://www.etymonline.com/) - *Etymologies*
 * **[Wikiquote](https://en.wikiquote.org)** - *Quote database*
 * **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - *Slang Word / Phrase Dictionary*
