@@ -43,6 +43,7 @@
 * [Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) or [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - *Programming & Development Learning Channels*
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - *Code Algorithms & Data Structures Tutorials*
 * [Aquent Gymnasium](https://thegymnasium.com/) - *Courses* 
+* [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) - *Learn Computer Graphics*
 * [SchoolOfHaskell](https://www.schoolofhaskell.com/) - *Haskell Tutorials* 
 * [QuickRef.ME](https://quickref.me/), [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - *Developer Cheat Sheets*
 * [Cheat.sh](https://cheat.sh/) - *Command-Line Cheat Sheet*
@@ -154,6 +155,7 @@
 * [Learn SQL](https://sqlbolt.com/) or [Top Database Bundle](https://drive.google.com/drive/folders/1rxntNcqQPQPOeIfzE0YL4NEtUncUsrJJ) - *SQL Lessons*
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - *PostgreSQL Tutorial*
 * [MySQL Tutorial](https://www.mysqltutorial.org/) - *MySQL Tutorial*
+* [Hasura](https://hasura.io/learn/) - *GraphQL Courses*
 * [SQL Cheat Sheet ](https://i.imgur.com/tHo378Z.jpg)
 * [MongoDB Beginners Guide](https://mega.nz/folder/F5QwxJQa#ruNhz08Cl599MChOBbQeGA) - *MongoDB Tutorials*
 * [LearnCSSGrid](http://learncssgrid.com/) - *CSS Grid Guide*
@@ -231,7 +233,7 @@
 * [PackageCloud](https://packagecloud.io/) or [pnpm](http://pnpm.io/) - *Package Manager / Deployment*
 * [WebInstall](https://webinstall.dev/) - *Easily Install Dev Packages*
 * [Balena](https://www.balena.io/) - *Build / Manage  IoT Groups*
-* [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) - *Bug Bounty Resources*
+* [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) or [Bug Bounty](https://github.com/sehno/Bug-bounty) - *Bug Bounty Resources*
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - *CTF Resources*
 * [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - *API Index* 
 * [Insomnia](https://insomnia.rest/) - *API Client*
@@ -250,6 +252,7 @@
 * [Javacord](https://javacord.org/) - *Discord Bot Creation Library*
 * [Pylon](https://pylon.bot/) or [Bot Designer for Discord](https://apps.apple.com/us/app/bot-designer-for-discord/id1495536477) (Mac) - *Discord Bot Builder*
 * [Telegram Bot API](https://github.com/tdlib/telegram-bot-api) - *Telegram Bot API*
+* [botwiki](https://botwiki.org/) - *Learn How to Make Bots*
 * [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - *C++ Library for Discord*
 * [Twitter (un)official Consumer Key](https://gist.github.com/shobotch/5160017) - *Twitter Consumer Keys*
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - *Toolbox for Reddit Extension Development*
@@ -432,6 +435,7 @@
 * [OpenSSL](https://www.openssl.org/) - *SSL / TLS Toolkit*
 * [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - *Cloud Native Object Storage* 
 * [Amazon S3](https://aws.amazon.com/s3) - *Cloud Object Storage Amazon Simple Service Storage*
+* [howtheyaws](https://github.com/upgundecha/howtheyaws) - *List of How Organizations Use AWS*
 * [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - *Email Verification Service*
 * [Improvemx](https://improvmx.com/) - *Domain Email Forwarding*
 * [Hosts.cx](https://hosts.cx/) - *Website Previews*
@@ -488,6 +492,7 @@
 * [Electron](https://www.electronjs.org/) - *Desktop App Builder / [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://electron-app-store.ml/) / [Debugger](https://www.electronjs.org/apps/debugtron)*
 * [raylib technologie](https://raylibtech.itch.io/), [bookmarks](https://github.com/MorganGeek/bookmarks) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - *Software Development Tools*
 * [Theos](https://theos.dev/) - *Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)*
+* [New Software](https://github.com/ardalis/new-software-project-checklist) - *Project Decision Checklist*
 * [Servo](https://servo.org/) - *Experimental Browser Engine*
 * [Gummy](https://gummyjs.vercel.app/) - *Easily Build Javascript Programs* 
 * [NASM](https://www.nasm.us/) - *Program Assembler*
@@ -677,7 +682,7 @@
 
 * **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)** - *List Index*
 * [GitHubStatus](https://www.githubstatus.com/) - *GitHub Outage Status*
-* [Git Explorer](https://gitexplorer.com/) - *Git Command List*
+* [Git Explorer](https://gitexplorer.com/) or [Git Commands](https://gabrieldejesus.github.io/git-commands/), [2](https://github.com/gabrieldejesus/git-commands) - *Git Command List*
 * [GitHub Desktop](https://desktop.github.com/) or [Tower](https://www.git-tower.com/) - *GitHub Client*
 * [GitHub.Dev](https://github.dev/) - *GitHub Web App*
 * [refined-github](https://github.com/refined-github/refined-github) or [Ungit](https://github.com/FredrikNoren/ungit) - *Improved GitHub Interface*
@@ -722,9 +727,11 @@
 * [readme.so](https://readme.so/) - *Readme Markdown Editor*
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - *Dynamically Generated GitHub Readme Stats* 
 * [GitHub Contribution Graph](https://github.com/ez4o/github-contribution-graph) - *Add GitHub ReadMe Contribution / Commit Graph*
+* [Github Readme Quotes](https://github.com/shravan20/github-readme-quotes) - *GitHub Readme Quote Generator*
 * [Awesome README](https://github.com/matiassingers/awesome-readme) - *GitHub Readme Examples*
 * [GIT Quick Stats](https://git-quick-stats.sh/) - *View Git Statistics / [GitHub](https://github.com/arzzen/git-quick-stats)*
 * [GitHub Release Downloads](https://github.com/addshore/browser-github-release-downloads) - *GitHub Release Download Counter*
+* [Git-notify](https://github.com/jevakallio/git-notify) - *Embed Announcements into Git Commit Messages*
 * [Shields.io](https://shields.io/) - *Metadata badges for Github Readmes*
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - *Enable Snake Game on GitHub ReadMe*
 * [Discord MD Badge](https://github.com/montylion/discord-md-badge) - *Add Discord Badge to GitHub*
