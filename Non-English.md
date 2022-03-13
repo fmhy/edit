@@ -334,7 +334,6 @@ French / General Torrent Tracker
 * [french-bookys](https://french-bookys.org/) - *Books / Magazines*
 * [1001ebooks](https://go.1001ebooks.com/accueil/) - *Books* 
 * [pdf-ebookys](https://www.pdf-ebookys.com/) - *Books / Magazines* 
-* [VK Serial Books & Magazines](https://vk.com/sebomag) - *Books / Magazines*  
 * [1001Ebooks](https://1001ebooks.club/) - *Books*
 * [bookys](https://ww2.bookys-ebooks.com/) - *Books*
 * [Planet-DB](https://planete-bd.org/) - *Comics / Manga*
@@ -1215,6 +1214,9 @@ Portuguese
 * [Yandex Search Operator Cheat Sheet](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
 * [EDA](https://eda.ru/) - *Recipes*
 * [WASM](https://www.wasm.in/) - *Web Assembly Forum*
+* [Ok.ru](https://ok.ru/), [VK](http://vk.com/), [MyMail](https://my.mail.ru/), [TenChat](https://tenchat.ru/) or [RUTube](https://rutube.ru/) - *Russian Social Networks*
+* [GitFlic](https://gitflic.ru/ ) - *Russian Github*
+* [Виртуальный компьютерный музей](https://www.computer-museum.ru/) - *History of Computer Science / Virtual Museum*
 
 ## ▷ Downloading 
 
