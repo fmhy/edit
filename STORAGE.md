@@ -435,7 +435,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Design Resources 
 
-[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [Graphic Design Elements](https://onehack.us/t/get-20-000-graphic-design-elements/155320), [ImCreator](http://www.imcreator.com/free), [DesignBundles](https://designbundles.net/free-design-resources), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [NoDesign](https://nodesign.dev/), [SketchRepo](https://sketchrepo.com/), [Interfaces](https://interfacer.xyz/), [Freebiesbug](http://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/, [Envato Elements Collection](https://mega.nz/folder/j3oEWa6Q#p-maimh5W4WFWOLwTVw0Fg/folder/zqxS0KTY), [CreativeFabrica](https://www.creativefabrica.com/freebies/), [recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos/blob/master/translation/english/README.en.md), [Toools.design](https://www.toools.design/)
+[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [HiddenTools](https://hiddentools.dev/), [Graphic Design Elements](https://onehack.us/t/get-20-000-graphic-design-elements/155320), [ImCreator](http://www.imcreator.com/free), [DesignBundles](https://designbundles.net/free-design-resources), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [NoDesign](https://nodesign.dev/), [SketchRepo](https://sketchrepo.com/), [Interfaces](https://interfacer.xyz/), [Freebiesbug](http://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/, [Envato Elements Collection](https://mega.nz/folder/j3oEWa6Q#p-maimh5W4WFWOLwTVw0Fg/folder/zqxS0KTY), [CreativeFabrica](https://www.creativefabrica.com/freebies/), [recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos/blob/master/translation/english/README.en.md), [Toools.design](https://www.toools.design/), [Evernote.Design](https://www.evernote.design/)
 
 ***
 
@@ -656,6 +656,11 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * [Westbyte](https://www.westbyte.com/ida/) 
 * [Ant Download Manager](https://antdownloadmanager.com/)
 * [Xtreme Downlaod Manager](https://xtremedownloadmanager.com/) 
+* [Chrono Download Manager](https://www.chronodownloader.net/) 
+* [GetGo Download Manager](http://www.getgosoft.com/) 
+* [Down Them All](https://www.downthemall.net/) 
+* [Download Accelerator Manager](http://www.damdownloader.com/) 
+* [FlashGot](https://flashgot.net/) 
 * [massivedl](https://github.com/dimkouv/massivedl)
 * [Neat Download Manager](https://www.neatdownloadmanager.com/)
 * [Free Download Manager](https://www.freedownloadmanager.org/), [2](https://sourceforge.net/projects/freedownload/)
@@ -863,7 +868,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Image Design Resources
 
-[AvaxGFX](https://www.avaxgfx.com/), [Freeject](https://www.freeject.net/), [PDFTree](https://pngtree.com/), [ExtraGFX](http://www.extragfx.top/), [NitroGFX](https://nitrogfx.pro/), [Designer Candies](https://designercandies.net/category/freebies/), [Poliigon](https://www.poliigon.com/), [PolyHaven](https://polyhaven.com/), [GraphicPear](https://www.graphicpear.com/), [FreeDesignResources](https://freedesignresources.net/), [Huge Graphics Pack](https://onehack.us/t/mega-bundle-huge-graphics-pack-450gb/111819), [Design Elements](https://mega.nz/file/xkshVIBJ#ZGG_iGzOjLFFR8mYmpGlGFtcEseYMzj_SIREge-XOlw), [/r/BLKMARKET](https://reddit.com/r/blkmarket), [GraphixTree](https://graphixtree.com/), [PSDLY](https://www.psdly.com/), [CreativeFabrica](https://send.cm/s/1A/Bundles) / [PW](https://pastebin.com/VW1eEdJa), [creaxy](https://www.creaxy.com/), [CGArchives](https://www.cgarchives.com/), [gfxcosy](https://gfxcosy.com/), [555 GB Graphic Collection](https://ufile.io/98tu9sns), [SearchGFX](https://searchgfx.com/), [Freepik Collection](https://drive.google.com/drive/folders/1Bangsi_xicWxpeYIy2oPrvh6DtutvuZC?usp=sharing)
+[AvaxGFX](https://www.avaxgfx.com/), [Freeject](https://www.freeject.net/), [PDFTree](https://pngtree.com/), [ExtraGFX](http://www.extragfx.top/), [NitroGFX](https://nitrogfx.pro/), [Designer Candies](https://designercandies.net/category/freebies/), [Poliigon](https://www.poliigon.com/), [PolyHaven](https://polyhaven.com/), [GraphicPear](https://www.graphicpear.com/), [FreeDesignResources](https://freedesignresources.net/), [Huge Graphics Pack](https://onehack.us/t/mega-bundle-huge-graphics-pack-450gb/111819), [Design Elements](https://mega.nz/file/xkshVIBJ#ZGG_iGzOjLFFR8mYmpGlGFtcEseYMzj_SIREge-XOlw), [/r/BLKMARKET](https://reddit.com/r/blkmarket), [GraphixTree](https://graphixtree.com/), [PSDLY](https://www.psdly.com/), [CreativeFabrica](https://send.cm/s/1A/Bundles) / [PW](https://pastebin.com/VW1eEdJa), [creaxy](https://www.creaxy.com/), [CGArchives](https://www.cgarchives.com/), [gfxcosy](https://gfxcosy.com/), [555 GB Graphic Collection](https://ufile.io/98tu9sns), [SearchGFX](https://searchgfx.com/), [Freepik Collection](https://drive.google.com/drive/folders/1Bangsi_xicWxpeYIy2oPrvh6DtutvuZC?usp=sharing), [Evernote.Design](https://www.evernote.design/), [Design Resources](https://github.com/MohamedYoussouf/Design-Resources)
 
 ***
 
@@ -1472,7 +1477,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Popup Blocker Links
 
-[Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [Popup Blocker Strict](https://add0n.com/popup-blocker.html) / [GitHub](https://github.com/schomery/popup-blocker), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html), [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker), [Popup & Script Blocker Ultimate](https://popupblocker.ir/)
+[Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [Popup Blocker Strict](https://add0n.com/popup-blocker.html) / [GitHub](https://github.com/schomery/popup-blocker), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html), [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker), [Popup & Script Blocker Ultimate](https://popupblocker.ir/), [Poper Blocker](https://poperblocker.com/)
 
 ***
 
@@ -2477,7 +2482,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Translation Sites
 
-[DeepL](https://www.deepl.com/), [Metalune](https://translate.metalune.xyz/) / [2](https://gtranslate.metalune.xyz/), [Papago](https://papago.naver.com/), [Libretranslate](https://libretranslate.com/) / [2](https://github.com/uav4geo/LibreTranslate), [Translate.com](https://www.translate.com/), [MyMemory](https://mymemory.translated.net/), [Lingva](https://lingva.ml/), [Nice Translator](https://nicetranslator.com/), [Yandex.Translate](https://translate.yandex.com/), [Reverso](https://www.reverso.net/), [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate), [SimplyTanslate_Web](https://git.sr.ht/~metalune/simplytranslate_web), [babelfish](https://www.babelfish.com/), [translation2](https://translation2.paralink.com/), [Free Translations](https://www.freetranslations.org/, [Apertium](https://apertium.org/), [collinsdictionary](https://www.collinsdictionary.com/translator), [online-translator](https://www.online-translator.com/translation), [reverso](https://www.reverso.net/text-translation), [translation](https://translation.babylon-software.com/), [translatedict](https://www.translatedict.com/), [QTranslate](https://quest-app.appspot.com/)
+[DeepL](https://www.deepl.com/), [Metalune](https://translate.metalune.xyz/) / [2](https://gtranslate.metalune.xyz/), [Papago](https://papago.naver.com/), [Libretranslate](https://libretranslate.com/) / [2](https://github.com/uav4geo/LibreTranslate), [Translate.com](https://www.translate.com/), [MyMemory](https://mymemory.translated.net/), [Lingva](https://lingva.ml/), [Nice Translator](https://nicetranslator.com/), [Yandex.Translate](https://translate.yandex.com/), [Reverso](https://www.reverso.net/), [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate), [SimplyTanslate_Web](https://git.sr.ht/~metalune/simplytranslate_web), [babelfish](https://www.babelfish.com/), [translation2](https://translation2.paralink.com/), [Free Translations](https://www.freetranslations.org/, [Apertium](https://apertium.org/), [collinsdictionary](https://www.collinsdictionary.com/translator), [online-translator](https://www.online-translator.com/translation), [reverso](https://www.reverso.net/text-translation), [translation](https://translation.babylon-software.com/), [translatedict](https://www.translatedict.com/), [QTranslate](https://quest-app.appspot.com/, [Apertium](https://www.apertium.org/)
 
 ***
 
@@ -2682,7 +2687,7 @@ Good for finding classic, obscure & short films.
 
 **Simple Site Creators**
 
-[Straw.Page](https://straw.page/), [Own Free Website](https://www.own-free-website.com), [itty.bitty](https://itty.bitty.site/), [txti](http://txti.es/), [Sitey](https://www.sitey.com/), [mmm](https://build.mmm.page/), [cargo](https://cargo.site/), [Talium](https://talium.co/), [Jigsy](https://jigsy.com/), [Temper](https://temper.one/) or [Neocities](https://neocities.org/), [Pagely](https://www.pagely.site/)
+[Straw.Page](https://straw.page/), [Own Free Website](https://www.own-free-website.com), [itty.bitty](https://itty.bitty.site/), [txti](http://txti.es/), [Sitey](https://www.sitey.com/), [mmm](https://build.mmm.page/), [cargo](https://cargo.site/), [Talium](https://talium.co/), [Jigsy](https://jigsy.com/), [Temper](https://temper.one/), [Neocities](https://neocities.org/), [Pagely](https://www.pagely.site/), [Mobirise](https://mobirise.com/)
 
 ***
 
