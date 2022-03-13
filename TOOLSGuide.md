@@ -79,7 +79,7 @@
 * [Elevation](https://tikolu.net/elevation/) - *Find Current Elevation*
 * [BreezoMeter](https://www.breezometer.com/) - *Air Quality Reports*
 * [RTL-SDR](https://gist.github.com/fasiha/c123a9c6b6c78df7597bb45e0fed808f) - *DIY FAA & EASA Satellite Feeds / Transponder*
-* [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/) or [Random Lists](https://www.randomlists.com/) - *Generate Anything*
+* [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/), [BestRandoms](https://www.bestrandoms.com/) or [Random Lists](https://www.randomlists.com/) - *Generate Anything*
 * [Score Count](https://scorecount.com/) - *Online Sports Scoreboards*
 * [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - *Wheel Randomizer*
 * [PollCode](https://pollcode.com/), [YoPolls](https://www.yopolls.com/), [Polls.fr](https://polls.fr/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/) or [poal.me](https://poal.me/) - *Poll Creator*
@@ -253,13 +253,14 @@
 * **[Video Hosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_hosting_sites)** - *Upload / Stream Videos* 
 * **[VideoHelp](https://www.videohelp.com/software)** - *Video Software Archive* 
 * **[Video File Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_converters)** - *Video Converters / Encoders* 
-* **[Video Encoding Guides](https://sometimes-archives-things.github.io/archived-things/)** - *Learn how to Encode Videos*
+* **[Video Encoding Guides](https://sometimes-archives-things.github.io/archived-things/)**, [2](https://encoding-guide.neocities.org/) - *Learn how to Encode Videos*
 * **[Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders)** - *Record your Screen*
 * **[Multi-Site Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)**
 * **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)** 
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
 * [VideoTuts](http://videotuts.ru/) - *Video Design Tutorials / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)*
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - *Professional Video, Audio & Adobe Software / Plugins*
+* [Free-Codecs](https://www.free-codecs.com/) - *Codec Packs & Multimedia Tools*
 * [VideoSmaller](https://www.videosmaller.com/) or [MP4Compress](https://www.mp4compress.com/) - *Video Compressor*
 * [youtube-cld](https://github.com/anatolykopyl/youtube-cdl) - *Bulk YouTube Channel Downloader*
 * [SaveVK](https://savevk.com/) - *Download VK videos* 
@@ -402,6 +403,7 @@
 * [Scarbir](https://www.scarbir.com/) or [Crinacle](https://crinacle.com/) - *Headset & Earphone Comparisons*
 * [AccurateRip](http://www.accuraterip.com/) - *Verify Ripped Tracks are Error Free*
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - *Professional Video, Audio & Adobe Software / Plugins*
+* [Free-Codecs](https://www.free-codecs.com/) - *Codec Packs & Multimedia Tools*
 * [Audio Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_plugins) - *VST Plugins* 
 * [Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sfx_.2F_loops) - *SFX & Loops*
 * [Fairusify](https://fairuseify.ml/) - *Make a Copyrighted Song Fair Use*
@@ -596,6 +598,7 @@
 * [Invoicely](https://invoiceto.me/) - *Invoice Generator*
 * [Visuafy](https://visuafy.com/) - *Create Charts From Data*
 * [Kimai](https://www.kimai.org/) - *Working Hours Tracker*
+* [Dataviz](https://github.com/nalgeon/dataviz) - *Design Reports*
 * [Zeoob](https://zeoob.com/) - *Social Media Digital Marketing Post Simulator*
 * [ConvertMenu](https://convertmenu.com/) or [QR Menu Creator](https://qrmenucreator.com/) - *Convert Menu to QR Codes*
 * [VCEGuide](https://vceguide.com/) - *Tech Certification Practice Tests*
@@ -764,6 +767,7 @@
 * [FlagHunter](https://gitlab.com/flagtism/flaghunter) - *Find Rare Imageboard Flags*
 * [Awesome ActivityPub](https://github.com/BasixKOR/awesome-activitypub) - *List of ActivityPub based projects* 
 * [Percollate](https://github.com/danburzo/percollate) - *Format Pages for PDF / EPub / HTML*
+* [Gopher Proxy](https://gopherproxy.meulie.net/) - *View Gopher Content in Browser*
 * [StartOS](https://startos.app/) - *90's Themed Startpage / [Github](https://github.com/Jaredk3nt/startos)* 
 * [Gate2Home](https://gate2home.com/) - *Keyboard Emulator* 
 * [PrintFriendly](https://www.printfriendly.com/) or [PrintWhatYouLike](https://www.printwhatyoulike.com/) - *Printer / PDF Version of Webpages*
@@ -900,6 +904,7 @@
 * [Social-Analyzer](https://github.com/qeeqbox/social-analyzer) - *Profile Search CLI*
 * [SearchAllJunk](https://searchalljunk.com/) - *Multi-Classifieds Search*
 * [carVertical](https://www.carvertical.com/) - *Vehicle History & VIN Search*
+* [NHTSA](https://vpic.nhtsa.dot.gov/api/) - *Vehicle Registration Database*
 * [PartSouq](https://www.partsouq.com/) - *Auto Parts Search*
 * [TMHunt](http://www.tmhunt.com/) - *Clothing Trademark Search*
 * [BrownBook](https://www.brownbook.net/) - *Business Listing Search*
@@ -1373,6 +1378,7 @@
 * [Points Autoclicker](https://github.com/xinitrc-dev/twitch-points-autoclicker) - *Auto Claim Twitch Points*
 * [Twitch Previews](https://github.com/MarkM-dev/Twitch-Previews) - *Twitch Video Previews*
 * [Featured.chat](https://featured.chat/) - *Twitch Chat Manager*
+* [TwitchRSS](https://twitchrss.appspot.com/) - *Twitch RSS Generator*
 * [7TV](https://7tv.app/ ) - *Twitch Emotes Extension*
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - *Twitch Browser for Streamlink* 
 * [PogU.live](https://pogu.live/) - *Watch Twitch Sub-Only Videos*
@@ -1402,6 +1408,7 @@
 * [Tweetgen](https://www.tweetgen.com/) or [FakeTweetMaker](https://www.faketweetmaker.com/) - *Create Fake Tweets*
 * [Chirr App](https://getchirrapp.com/) - *Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chrome.google.com/webstore/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)*
 * [Thread Reader App](https://threadreaderapp.com/) - *Unroll Twitter Threads / Search* 
+* [React Statis Tweets](https://github.com/transitive-bullshit/react-static-tweets) - *Static Tweets Renderer*
 * [Treeverse](https://treeverse.app/) - *Twitter Conversation Visualizer* 
 * [Trends Map](https://www.trendsmap.com/), [Twitter Trends](https://twitter-trends.vercel.app/) or [MentionMap](https://mentionmapp.com/) - *Trending Twitter Hashtags / Topics*
 * [Tweeplers](https://www.tweeplers.com/) - *Trending Twitter Users* 
@@ -1856,6 +1863,7 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install), [dank.d
 * [download](https://github.com/kevva/download) - *File Download Tool / Extractor / [CLI](https://github.com/kevva/download-cli)*
 * [DropIt](http://www.dropitproject.com/) - *Automated File Management*
 * [What](https://github.com/bee-san/pyWhat) - *Text & File Analyzer*
+* [WhoLeaked](https://github.com/utkusen/wholeaked) - *File Leak Tracker*
 * [Download Proxy](https://download-proxy.zhaofengying.com/) - *File Proxy Server Downloader*
 * [Files 2 Folder](https://www.dcmembers.com/skwire/download/files-2-folder/) - *Create / Copy to Folders Created by File Name*
 * [File-Examples](https://file-examples.com/) - *File Examples*
