@@ -17,7 +17,6 @@
 * **[Versus](https://versus.com/)**, [rtings](https://www.rtings.com/), [SocialCompare](https://socialcompare.com/en) or [Diffen](https://www.diffen.com/) - *Compare Anything* 
 * **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - *Organize Ideas & Projects*
 * **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** - *Device Repair Articles*
-* **[TuboTax Sucks Ass](http://turbotaxsucksass.net/)** or [FreeTaxUSA](https://www.freetaxusa.com/) - *File Taxes for Free*
 * **[BeMyEyes](https://www.bemyeyes.com/)** - *Assist the Visually Impaired* 
 * **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/) or [UN Data](https://data.un.org/) - *World Data & Statistics*
 * **[Our World in Data](http://ourworldindata.org/)** - *World Problem Database*
@@ -35,9 +34,10 @@
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - *AI Experiments / Tools* 
 * [Generative Tools](https://docs.google.com/document/d/1N57oAF7j9SuHcy5zg2VZWhttLwR_uEldeMr-VKzlVIQ/) - *Generative Tool Index*
 * [Barcode Reader](https://online-barcode-reader.inliteresearch.com/) or [ZXing Decoder](https://zxing.org/w/decode.jspx) - *Online Barcode Reader*
+* [FreeTaxUSA](https://www.freetaxusa.com/) - *File Taxes for Free*
 * [The Measure Of Things](https://www.bluebulbprojects.com/measureofthings/default.php) - *Comparative / Relative Quantity Measurements* 
 * [Compare Sizes](https://comparesizes.com/) - *Size Comparison Tool* 
-* [hikaku-sitatter](https://hikaku-sitatter.com/en/) - *Height Comparison Tool*
+* [hikaku-sitatter](https://hikaku-sitatter.com/en/) or [Mulmetric](https://multmetric.com/) - *Height Comparison Tool*
 * [Paper Sizes](https://papersizes.io/) - *Common Paper Sizes*
 * [Qlock](http://www.qlock.com/), [TheClockApp](https://theclockapp.vercel.app/), [TimeAndDate](https://www.timeanddate.com/) or [EveryTime Zone](https://everytimezone.com/) - *World Clock*
 * [FlipClockWeb](https://flipclockweb.netlify.app/) - *Fullscreen Clock*
@@ -66,6 +66,7 @@
 * [StockInformer](https://www.stockinformer.com/) - *Product Stock Notifications*
 * [Solving Resources](https://the-unwelcome.github.io/resources/solving_resources.html) - *Code & Puzzle Solving Resources*
 * [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - *Bedtime Calculator* 
+* [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - *Bra Size Calculator*
 * [The Sustainabilitist](https://sustainabilitist.com/) - *Sustainability Resource Hub*
 * [ActivityWatch](https://activitywatch.net/) - *Automatically Track Device Activity / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)* 
 * [Cold Turkey](https://getcoldturkey.com/), [PomoFocus](https://pomofocus.io/) or [Take a Five](http://www.takeafive.com/) - *Site Blocker / Productivity Booster* 
@@ -89,7 +90,7 @@
 * [IRuler](https://iruler.net/) - *Turn your device into a Ruler*  
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) or [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools) - *Digital Forensics Tools*  
 * [Chaotic Shiny](http://chaoticshiny.com/) - *Fantasy Writing Generator* 
-* [GitKraken Timeline](https://timelines.gitkraken.com/), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - *Timeline Creation Tool*
+* [GitKraken Timeline](https://timelines.gitkraken.com/), [Timeline Cascade](https://cascade.page/) / [GitHub](https://github.com/kochrt/cascade.page), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - *Timeline Creation Tool*
 * [SwimLanes](https://swimlanes.io/) or [Diagrams.net](https://www.diagrams.net/) - *Create Diagrams*
 * [WhatDog](https://www.bing.com/visualsearch/Microsoft/WhatDog) - *Dog Breed Identification Tool* 
 * [tusk](https://tusk.page/) - *Give & Receive Anonymous Feedback* 
@@ -277,6 +278,7 @@
 * [VideoProc](https://www.videoproc.com/) - *Video Processing Software*
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - *SWF to Video Converter*
 * [MotionFactory](https://www.motionfactory.io/) - *Video Editing Workflow Manager*
+* [VidGrid](https://vidgrid.tk.gg/) - *View Multiple Streams Simultaneously*
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) or [OBS Ninja](https://obs.ninja/) - *Streaming Tools Indexes*
 * [SteamLabs](https://streamlabs.com/) - *Streaming Tools*
 * [dart_vlc](https://github.com/alexmercerind/dart_vlc) - *Video Recording / Streaming*
@@ -1061,6 +1063,7 @@
 * [Pushshift.io](https://pushshift.io/) - *Reddit Statistics* 
 * [TrendingWordsofReddit](https://trendingwordsofreddit.herokuapp.com/) - *Reddit Trending Words* 
 * [TitleScraper](https://titlescraper.herokuapp.com/) - *See a Subreddits Most Upvoted Words* 
+* [Upvote Stats](https://www.upvotestats.com/) - *Upvote Stats*
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) or [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - *Reddit Auto Post Delete*
 * [Reddit CSE](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30) - *Search Reddit by Topic* 
 * [RedditRaffler](https://www.redditraffler.com/) - *Reddit Raffle System* 
