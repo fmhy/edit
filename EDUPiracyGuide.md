@@ -647,6 +647,7 @@
 * [Citation Generator](https://www.citationgenerator.com/), [CitationMachine](https://citationmachine.net/) or [Cite This For Me](https://www.citethisforme.com/) - *Generate Citations / [Chrome](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)*
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - *Citation Analyzer*
 * [AMCharts](https://live.amcharts.com/), [Charttt](https://editor.charttt.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - *Chart Creator*
+* [flowchart fun](https://flowchart.fun/) - *Generate Flowchart From Text / [GitHub](https://github.com/tone-row/flowchart-fun)*
 * [AWW](https://awwapp.com/), [OpenBoard](https://openboard.ch/), [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - *Whiteboard*
 * [app.diagrams](https://app.diagrams.net/) / [Git](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/) or [Gephi](https://gephi.org/) - *Graph / Diagram Creator*
 * [Altium](https://www.altium.com/viewer/) - *Schematics Visualizer*
