@@ -114,6 +114,7 @@
 * [How To Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
 * [AltCtrls](https://altctrls.info/) - *Custom Controller Crafting Resources*
 * [Gamesoft](http://www.gamesoft.com/) - *Gaming News Feed Manager*
+* [Useful Osu](https://github.com/CarbonUwU/Useful-osu) - *Osu Resources*
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - *Osu! Collection Manager*
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - *Osu! Trainer*
 * [GmodContent](https://gmodcontent.com/) - *Garry's Mod Content Packs*
