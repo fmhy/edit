@@ -271,7 +271,7 @@
 
 * **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
 * **[/r/AnimePiracy Index](https://piracy.moe/)** or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - *Curated List of Anime Sites / [Discord](https://discord.gg/piracy)*
-* **[Zoro](https://zoro.to/)** - *Sub / Dub*
+* **[Zoro](https://zoro.to/)** or [AnimeBee](https://animebee.to/) - *Sub / Dub*
 * **[9Anime](https://www.9anime.to/)** - *Sub / Dub / [Mirrors](https://9anime.me/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)*
 * **[Anime Twist](https://twist.moe/)** - *Sub / [Discord](https://discord.gg/Ea3Mq9n) / [Downloader](https://github.com/aberrier/kurby)*
 * **[Anime8](https://anime8.ru/)** - *Sub / Dub*
@@ -339,6 +339,7 @@
 * [AnimeXin](https://animexin.info/) - *Sub*
 * [Anime Simple](https://ww1.animesimple.com/) - *Sub / Dub*
 * [AniWatcher](https://aniwatcher.com/) - *Sub / Dub*
+* [AniWatch](https://aniwatch.pro/) - *Sub*
 * [StreamAnimeTV](https://streamanimetv.net/) - *Sub / Dub*
 * [Anime60FPS](https://www.anime60fps.com/ ) - *Sub / Dub*
 * [AnimeFreak](https://www.animefreak.vip/) - *Sub / Dub*
