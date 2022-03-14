@@ -217,7 +217,7 @@
 * [Cryptee](https://crypt.ee/) - *Encrypted Image Storage*
 * [ImgProxify](https://imgproxify.com/) - *Image Proxy Generator*
 * [PeerTube](https://joinpeertube.org/), [2](https://peertube.tv/), [3](https://peer.tube), [4](https://search.joinpeertube.org/), [5](https://sepiasearch.org/) - *Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)*
-* [PrivNote](https://privnote.com/), [Burn.Link](https://burn.link/), [OneTimeSecret](https://onetimesecret.com/) or [IPNote](https://ipnote.io/) - *Send Self-Destructing Messages* 
+* [PrivNote](https://privnote.com/), [Burn.Link](https://burn.link/), [Wipenote](https://wipenote.io/), [OneTimeSecret](https://onetimesecret.com/) or [IPNote](https://ipnote.io/) - *Send Self-Destructing Messages* 
 * [xcodx.ru](https://xcodx.ru/) - *Send Encrypted Text*
 * [USBKill](https://github.com/hephaest0s/usbkill) - *Anti-Forensic Kill-Switch*
 * [Eraser](https://eraser.heidi.ie/) or [Lethe](https://github.com/rafael-santiago/lethe) - *Wipe / Overwrite Hard Drive Data* 
