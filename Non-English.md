@@ -1646,6 +1646,7 @@ Portuguese
 * [BatGioiStudio](https://batgioistudio.com/) - *Games*
 * [LinkTaiGame](https://www.linktaigame.com/) - *Games*
 * [TaiNhanh](https://www.tainhanhvn.com/) - *Games*
+* [Game5s](https://game5s.vn/) - *Games*
 * [PhimDidibkk](https://phim.didibkk.com/) - *Movies / TV / Anime*
 * [CineTV](https://thuviencine.com/) - *Movies / TV / Anime*
 * [ThuvienHD](https://thuvienhd.com/) - *Movies / TV / Anime*
@@ -1691,6 +1692,7 @@ Portuguese
 * [PhimHay](https://phimhaytvv.net/) - *Movies / TV*
 * [PhimGi](https://phimgii.tv/) - *Movies / TV*
 * [ZingTV](https://zingvntv.com/) - *Movies / TV*
+* [VPhimMoi](https://vphimmoi.co/) - *Movies / TV*
 * [PhimTor](https://phimtor.com/) - *Movies*
 * [HoatHinhTQ](https://www.hhtq.net/) - *Chinese Animation*
 * [HHTQtv](https://hhtq.tv/) - *Chinese Animation*
@@ -1707,8 +1709,11 @@ Portuguese
 * [Tokuvn](https://tokuvn.com/) - *Tokusatsu*
 * [Mocha](http://mocha.com.vn/) - *Video*
 * [MyClip](http://myclip.vn/) - *Video*
-* [TVOnline](http://tvonline.vn/) - *Live TV*
-* [TVTrucTuyen](http://tvtructuyen.vn/) - *Live TV*
+* [TVOnline](http://tvonline.vn/), [2](http://tvtructuyen.vn/) - *Live TV*
+* [VTVGo](https://vtvgo.vn/) - *Live TV*
+* [HPlus](https://hplus.com.vn/), [2](https://htvc.com.vn/) - *Live TV / TV Show*
+* [THVL](https://www.thvli.vn/), - *Live TV / TV Show*
+* [VTC](https://portal.vtc.gov.vn/live), - *Live TV*
 * [XemBD](https://xembd.link/) - *Live Soccer*
 * [ChiaSeNhac](https://chiasenhac.vn/) - *Music*
 * [ZingMP3](https://zingmp3.vn/) - *Music*
