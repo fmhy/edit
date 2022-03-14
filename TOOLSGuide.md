@@ -23,6 +23,7 @@
 * [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) - *Public Datasets*
 * [Global Consciousness Project](https://gcpdot.com/) - *Real-Time Global Consciousness Data*
 * [Internet Live Stats](https://www.internetlivestats.com/) - *Live Internet Statistics*
+* [US Debt Clock](https://www.usdebtclock.org/) - *US Debt Clock*
 * [Statista](https://www.statista.com/) - *Market Statistics*
 * [OEC](https://oec.world/en) - *International Trade Data Visualization*
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - *World Birth / Death Rates Visualization*
@@ -43,7 +44,7 @@
 * [FlipClockWeb](https://flipclockweb.netlify.app/) - *Fullscreen Clock*
 * [Epoch Converter](https://www.epochconverter.com/) - *Epoch & Unix Timestamp Conversion Tools* 
 * [How Many Days Since](http://howmanydayssince.net/) or [How Many Days Until](https://howmanydaysuntil.co/) - *Calculate Days Since a Date*
-* [e.gg Timer](https://e.ggtimer.com/) - *Timer*
+* [e.gg Timer](https://e.ggtimer.com/) or [Juicy Timer](https://juicytimer.com/) - *Timer*
 * [SetAlarmClock](https://setalarmclock.net/) - *Online Alarm Clock*
 * [Time.is](https://time.is/) - *Check Accuracy of System Clock*
 * [Dashana](https://dashana.com/), [DataWrapper](https://www.datawrapper.de/), [RAWgraphs](https://app.rawgraphs.io/) / [GitHub](https://github.com/rawgraphs/rawgraphs-app) or [ParaView](https://github.com/Kitware/ParaView) - *Data Visualization Tool*
@@ -286,7 +287,7 @@
 * [dart_vlc](https://github.com/alexmercerind/dart_vlc) - *Video Recording / Streaming*
 * [VegasScripts](https://github.com/otomad/VegasScripts) - *MAGIX Vegas Scripts*
 * [VDO.Ninja](https://vdo.ninja/) - *Remote Camera Video Production*
-* [OBS](https://obsproject.com/), [Wigistream](https://wigistream.to/) or [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs) - *Video Recording / Live Streaming / [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT)* 
+* [OBS](https://obsproject.com/), [Wigistream](https://wigistream.to/) or [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs) - *Video Recording / Live Streaming / [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT) / [Effects](https://github.com/Xaymar/obs-StreamFX)* 
 * [Stream Elements](https://streamelements.com/) - *Streaming Service Manager*
 * [Restream](https://restream.io/) - *Multi-Site Streaming Tool*
 * [LiveRecord](https://github.com/lovezzzxxx/liverecord) - *Automatic Stream Recorder*
@@ -584,6 +585,7 @@
 * [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - *IT Certification Courses*
 * [NIST](https://www.nist.gov/nice/apprenticeship-finder) - *NICE Apprenticeship Program Finder*
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - *Cloud Career Training*
+* [Lecture Links for Placement Preparation in Computer Science](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
 * [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list) - *Startup Tools*
 * [BetaList](https://betalist.com/) - *Get Startup Ideas*
 * [Failory](https://www.failory.com/graveyard) - *Learn Why Startups & Products Failed*
@@ -608,7 +610,7 @@
 * [Systeme](https://systeme.io/) - *Marketing Tools*
 * [HLDMSIYS?](http://howlongdoesmarijuanastayinyoursystem.net/) - *Drug Effect Duration / Testing Information*
 * [HomeBank](http://homebank.free.fr/), [Money Manager EX](https://www.moneymanagerex.org/), [Ledger](https://www.ledger-cli.org/) or [gnucash](https://www.gnucash.org/) - *Financial Accounting Software*
-* [Stocksera](https://stocksera.pythonanywhere.com/) - *Stock Tracker*
+* [Stocksera](https://stocksera.pythonanywhere.com/) or [Screener](https://www.screener.in/) - *Stock Tracker*
 
 ***
 
@@ -751,7 +753,7 @@
 * [Namechk](https://namechk.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Check Username / Domain Availability*
 * [Pyfunceble](https://pyfunceble.github.io/#/) or [Domainr](https://domainr.com/) - *Check IP / Domain Availability* 
 * [HostsDock](https://eshengsky.github.io/HostsDock/) - *Manage & Switch Hosts* 
-* [2ip.io](https://2ip.io/) / [2](https://2ip.me/), [IPVoid](https://www.ipvoid.com/), [Hacker Target](https://hackertarget.com/ip-tools/) or [ViewDNS](https://viewdns.info/) - *Multiple Network Tools*
+* [2ip.io](https://2ip.io/) / [2](https://2ip.me/), [IPVoid](https://www.ipvoid.com/), [Hacker Target](https://hackertarget.com/ip-tools/), [2IP](https://2ip.ru/) or [ViewDNS](https://viewdns.info/) - *Multiple Network Tools*
 * [IP Checkers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_checkers) - *Check Your IP Address*
 * [open-ports](https://www.yougetsignal.com/tools/open-ports/) or [CanYouSeeMe](https://canyouseeme.org/) - *Port Forwarding Tester*
 * [DownloadTestr](http://txti.es/downloadtestr) - *Download Test Files to Test Download Speed* 
@@ -1143,6 +1145,7 @@
 * [CloneCord](https://github.com/Rekulous/CloneCord-bot) - *GClone Cloud Storage File Manager in Discord*
 * [Custom Rich Discord Presence](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_custom_rich_discord_presence) - *Customize Discord Rich Presence* 
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - *Discord Rich Presence Manager*
+* [RPC PC Status](https://github.com/Faelayis/RPC-Pc-Status) - *PC Status Rich Presence*
 * [FetchCord](https://github.com/MrPotatoBobx/FetchCord) - *OS Discord Rich Presence*
 * [PlayStationDiscord](https://tustin.dev/PlayStationDiscord/) - *PlayStation Discord Rich Presence*
 * [Rich Presence U](https://ninstars.itch.io/rpc) - *Nintendo Console Rich Presence*
@@ -1374,7 +1377,7 @@
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - *Fix Twitch Aspect Ratio*
 * [Chatterino](https://chatterino.com/), [Chatsen](https://chatsen.app/), [Chatterino Homies](https://chatterinohomies.com/) or [Chatty](https://chatty.github.io/) - *Twitch Chat Client*
 * [SpeechChat](https://speechchat.com/) - *Twitch Text to Speech Client*
-* [Transparent-Twitch-Chat](https://github.com/chylex/Transparent-Twitch-Chat) - *Transparent Twitch Chat*
+* [Transparent-Twitch-Chat](https://github.com/chylex/Transparent-Twitch-Chat) or [Transparent Twitch Chat Overlay](https://github.com/baffler/Transparent-Twitch-Chat-Overlay) - *Transparent Twitch Chat*
 * [Twitch Screen Comment Scroller](https://greasyfork.org/en/scripts/376225-twitch-screen-comment-scroller) - *Auto Scroll Twitch Comments*
 * [Points Autoclicker](https://github.com/xinitrc-dev/twitch-points-autoclicker) - *Auto Claim Twitch Points*
 * [Twitch Previews](https://github.com/MarkM-dev/Twitch-Previews) - *Twitch Video Previews*
@@ -1562,6 +1565,7 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - *Laptop CPU Monitor / Optimizer*
 * [perf-book](https://github.com/dendibakh/perf-book) - *CPU Performance Analysis and Tuning Book*
 * [MemTest](https://www.memtest.org/) - *Memory Diagnostic Tool*
+* [Magic Trace](https://github.com/janestreet/magic-trace) - *Diagnose Performance Issues using Intel Processor Trace*
 * [Mem Reduct](https://www.henrypp.org/product/memreduct) - *Windows System Memory Cleaner / [GitHub](https://github.com/henrypp/memreduct)*
 * [CPUid](https://www.cpuid.com/softwares/cpu-z.html), [winfetch](https://github.com/kiedtl/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - *System Information Tool* 
 * [HWiNFO](https://www.hwinfo.com/) - *Hardware Analysis, Monitoring and Reporting*
@@ -1893,7 +1897,7 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install), [dank.d
 * [WebToPDF](https://webtopdf.com/) - *Webpage to PDF Converter*
 * [PPT To PDF](https://www.adobe.com/acrobat/online/ppt-to-pdf.html) - *Convert PowerPoint to PDF Adobe*
 * [Protect PDF](https://chrome.google.com/webstore/detail/protect-pdf-by-pdfliteco/ehiinfpgjdeejgicaecceplicndinpgb) - *PDF Watermarks*
-* [watermark-remover](https://github.com/cpappen/watermark-remover), [pdf-remove-watermarks](https://github.com/matthiasbock/pdf-remove-watermarks) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - *PDF Watermark Remover*
+* [watermark-remover](https://github.com/cpappen/watermark-remover), [pdf-remove-watermarks](https://github.com/matthiasbock/pdf-remove-watermarks), [Aspose](https://products.aspose.app/pdf/annotation) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - *PDF Watermark Remover*
 * [Scan Your PDF](https://www.scanyourpdf.com/) - *Make a PDF look like it was Scanned*
 * [PDF Fixer](https://pdffixer.com/) - *Repair Damaged PDFs*
 * [FalsiScan](https://gitlab.com/edouardklein/falsisign) - *PDF Hand Signature Generator*
@@ -1967,7 +1971,7 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install), [dank.d
 * [Attribute Changer](https://www.petges.lu/) - *Edit File & Folder Properties*
 * [TagSpaces](https://www.tagspaces.org/) - *Add Tags to File and Folders*
 * [Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/), [Fast-Duplicate-File-Finder](https://www.mindgems.com/products/Fast-Duplicate-File-Finder/Fast-Duplicate-File-Finder-About.htm), [ashisoft](https://www.ashisoft.com/), [dupscout](https://www.dupscout.com/dupscout_search_duplicate_files.html), [wisecleaner](https://www.wisecleaner.com/wise-duplicate-finder.html), [clonespy](https://www.clonespy.com/), [AllDup](http://www.alldup.info/) or [dupeGuru](https://dupeguru.voltaicideas.net/) - *Duplicate File Finder* 
-* [TMSU](https://github.com/oniony/TMSU) or [SuperTag](https://github.com/amoffat/supertag) - *Tag-Based Filesystem* 
+* [TMSU](https://github.com/oniony/TMSU), [Tagging for Windows](https://tagging.connectpaste.com/) or [SuperTag](https://github.com/amoffat/supertag) - *Tag-Based Filesystem* 
 * [Bulk File Renamers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bulk_file_renamers) - *Easily Rename Multiple Files*
 * [MediaMonkey](https://www.mediamonkey.com/), [tinyMediaManager](https://www.tinymediamanager.org/), [Bruji](https://www.bruji.com/) or [MediaInfo](https://mediaarea.net/en/MediaInfo) - *Get Media Info for Video & Audio Files / [Web App](https://overbits.herokuapp.com/mediainfo/)* 
 * [File Juggler](https://www.filejuggler.com/) - *Organize Files Automatically*
