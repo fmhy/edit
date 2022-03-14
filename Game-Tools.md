@@ -123,6 +123,7 @@
 * [Payday 2 Social Safe](https://www.overkillsoftware.com/payday2-social-safe/) - *Free Payday 2 Offers*
 * [PuzzleGraph](https://runevision.itch.io/puzzlegraph) - *Computer Puzzle Visualizer*
 * [WordPlays](https://www.wordplays.com/) - *Cheat at Scrabble, Words with Friends & Crossword Puzzles*
+* [Oculus Quest Piracy Wiki ](https://www.reddit.com/r/QuestPiracy/wiki/ffaio) 
 * [Oculess](https://github.com/basti564/Oculess) - *Remove Oculus Quest Account Requirements & Telemetry*
 * [ALVR](https://github.com/alvr-org/ALVR) - *Stream VR Games from PC to Headset*
 * [Defacto](https://defacto2.net/) - *Retro NFOs*
