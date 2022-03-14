@@ -90,9 +90,9 @@
 ## ▷ Podcasts / Radio
 
 * **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - *Podcasts & Radio*
-* **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - *Podcasts / [RSS](https://github.com/timdorr/spotifeed)*
+* **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - *Podcasts / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/timdorr/spotifeed)*
 * [Radio Streaming Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_radio_streaming_sites) - *Radio Sites*
-* [Listen Notes](https://www.listennotes.com/) - *Podcast Search Engine* 
+* [Podchaser](https://podchaser.com/) or [Listen Notes](https://www.listennotes.com/ ) - *Podcast Databases / Trackers*
 * [iHeartRadio](https://www.iheart.com/) - *Podcasts / Radio*
 * [Mixcloud](https://www.mixcloud.com/) - *Podcasts / Radio*
 * [myTuner](https://mytuner-radio.com/) - *Podcasts / Radio*
@@ -429,7 +429,7 @@
 * [RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/) - *Artist Recommendations by Genre*
 * [45Cat](http://www.45cat.com/) - *Vinyl Ratings / Reviews*
 * [World Spotify](https://www.worldspotify.com/) - *Daily Most Streamed Tracks by Country* 
-* [TapeFear](https://www.tapefear.com/) - *Spotify Song Discovery*
+* [TapeFear](https://www.tapefear.com/) or [Discover Quickly](https://discoverquickly.com/) - *Spotify Song Discovery*
 * [Spotalike](https://spotalike.com/), [MagicPlaylist](https://magicplaylist.co/) or [RadioNewify](https://radionewify.com/) - *Spotify Playlist Generator*
 * [DailyPlaylists](https://www.dailyplaylists.com/) or [TuneMunk](https://www.tunemunk.com/) - *Spotify Playlist Sharing*
 * [MusitcTo](https://www.musicto.com/) - *Musician Curated Playlists*
