@@ -11,12 +11,13 @@
 
 # ► Download Games
 
-* **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)** / **[Rave Search](https://idleendeavor.github.io/gamesearch/)** / [2](https://ravegamesearch.pages.dev/) / [Bonneteer](https://bonneteer.herokuapp.com/) - *Search multiple sites at once*
+* **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)** / **[Rave Search](https://idleendeavor.github.io/gamesearch/)** / [2](https://ravegamesearch.pages.dev/) / **[Bonneteer](https://bonneteer.herokuapp.com/)** - *Search multiple sites at once*
 * **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download &amp; Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)*
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "games" or "roms"*
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - *[Discord](https://discord.gg/Up3YARe4RW)*
 * **[Masquerade Repacks](https://masquerade.site/)** - *[Discord](https://discord.gg/HP5sQ6c)*
 * **[Steam Underground](https://cs.rin.ru/)** - *[Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Status](https://csrinstaff.writeas.com/)*
+* **[SteamRIP](https://steamrip.com/)** - *[Discord](https://discord.gg/hj8dU5BFHE)*
 * **[DyR0t(-_-t)'s Drive](https://valhalla.dyro.me/)** 
 * **[CrackHub](https://crackhub.site/)** - *[Discord](https://discord.gg/T669D6weqt) / [RSS](https://scene.crackhub.site/category/iso/rss)*
 * **[GamesDrive](https://gamesdrive.net/)** - *[Discord](https://discord.gg/RZ274U7Ewy)*
@@ -32,7 +33,6 @@
 * [Crohasit](https://crohasit.net/)
 * [Le Fishe Repacks](https://discord.gg/W3MfGDXhAS)
 * [ElAmigos](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
-* [SteamRIP](https://steamrip.com/) - *[Discord](https://discord.gg/hj8dU5BFHE)*
 * [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
 * [GLoad](https://gload.to/)
 * [Ova Games](http://www.ovagames.com/)
@@ -90,7 +90,7 @@
 
 # ► Torrent Games
 
-* **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** / **[Rave Search](https://idleendeavor.github.io/gamesearch/)** / [2](https://ravegamesearch.pages.dev/) / [Bonneteer](https://bonneteer.herokuapp.com/) - *Search multiple sites at once*
+* **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** / **[Rave Search](https://idleendeavor.github.io/gamesearch/)** / [2](https://ravegamesearch.pages.dev/) / **[Bonneteer](https://bonneteer.herokuapp.com/)** - *Search multiple sites at once*
 * **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download &amp; Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)*
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "games" or "roms"*
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - *[Discord](https://discord.gg/Up3YARe4RW)*
@@ -486,6 +486,7 @@
 * [Neopets](http://www.neopets.com/) or [Marapets](https://www.marapets.com) - *Virtual Pet Game* 
 * [Gaia Online](https://www.gaiaonline.com/) - *Anime Virtual Pet* 
 * [Furvilla](http://www.furvilla.com/) - *Furry Virtual Pet Game* 
+* [Super Auto Pets](https://teamwood.itch.io/super-auto-pets) - *Pet Battle Game*
 * [Forumwarz](http://www.forumwarz.com/) - *Browser RPG*  
 * [Kingdom of Loathing](https://www.kingdomofloathing.com/) - *Comedy RPG* 
 * [Super Mario Bros Crossover](https://explodingrabbit.com/games/super-mario-bros-crossover/) - *Play SMB as characters from other games*
@@ -614,6 +615,7 @@
 * [Game about Squares](http://gameaboutsquares.com/) - *Puzzle Game*
 * [Euclidea](https://www.euclidea.xyz/) - *Geometric Puzzles*
 * [Menneske](https://www.menneske.no/eng/) - *Number Puzzles* 
+* [picture dots](https://www.picturedots.com/) - *Make & Play dot Puzzles*
 * [babble.xyz](https://babbl.xyz/) - *Infinite Scrabble*
 * [WordHub](https://wordhub.com/) - *Scrambled Word Game*
 * [Divergent Association Task](https://www.datcreativity.com/task) - *Unrelated Word Game*
