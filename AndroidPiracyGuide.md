@@ -148,6 +148,7 @@
 * [PhoneDB](https://phonedb.net/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - *Compare Phones & Prices* 
 * [DXOMARK](https://www.dxomark.com/) - *Smartphone Quality Testing*
 * [PhoneSized](https://phonesized.com/) - *Phone Size Comparisons*
+* [Reprice](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno) - *Track Amazon Prices*
 * [Don’t kill my app!](https://dontkillmyapp.com/) - *Manufacturer Battery Life vs. App Functionality*
 * [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) - *Battery Health App*
 * [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - *Save Battery by Turning Off Pixels*
@@ -181,6 +182,7 @@
 * [AndrOBD](https://github.com/fr3ts0n/AndrOBD) - *Android Dashboard Diagnostics*
 * [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app) - *Libgen Mobile App* 
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) or [AndrOpen](https://www.andropenoffice.com/) - *Office Suite* 
+* [Papertag](https://www.papertag.app/) - *Attach Digital Content on Paper*
 * [xShare](https://github.com/tsudoko/xshare) - *Screenshot Tool*
 * [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - *Audio Recorder*
 * [Voiceliner](https://a9.io/voiceliner/) - *Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)*
@@ -217,11 +219,11 @@
 * [Caffeine](https://lab.zhs.moe/caffeine/) - *Keep Screen On*
 * [WaveUp](https://gitlab.com/juanitobananas/wave-up) - *Turn On Display via Waving*
 * [Shelter ](https://cgit.typeblog.net/Shelter/) or [Insular](https://gitlab.com/secure-system/Insular) - *Isolate / Clone Apps*
-* [MacroDroid](http://macrodroid.com/) - *Android Automation* 
+* [MacroDroid](http://macrodroid.com/) or [AutomateIt](https://www.automateitapp.com/) - *Android Automation* 
 * [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) - *Gesture Controls*
 * [Naptime](https://play.google.com/store/apps/details?id=com.franco.doze) - *Accelerates Android Sleep Mode*
 * [JulioverneHYI](https://julio.hackyouriphone.org/) - *Repository for Piracy Tools*
-* [Adebar](https://codeberg.org/izzy/Adebar) or [OAndBackupX](https://github.com/machiav3lli/oandbackupx) - *Device Backup Tool*
+* [Adebar](https://codeberg.org/izzy/Adebar), [Swift Backup](https://swiftapps.org/) or [OAndBackupX](https://github.com/machiav3lli/oandbackupx) - *Device Backup Tool*
 * [Migrate](https://play.google.com/store/apps/details?id=balti.migrate) - *Migration Tool / Root Required*
 * [Unchained for Android](https://github.com/LivingWithHippos/unchained-android) - *App to interact with Real-Debrid API*
 * [Videoder](https://www.videoder.com/), [PowerTube](https://powertube.razar.app/) / [Git](https://github.com/razar-dev/PowerTube) or [DVD](https://github.com/yausername/dvd) - *Video Download Tool* 
@@ -307,7 +309,7 @@
 * [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - *Fix OLED Images*
 * [Red Moon](https://github.com/LibreShift/red-moon) - *Screen Filter*
 * [sh-ort](https://sh-ort.app/) - *URL Shortener*
-* [RClone](https://github.com/x0b/rcx) - *Multi-Site Cloud Storage File Manager*
+* [RClone](https://github.com/x0b/rcx) or [FolderSync](https://www.tacit.dk/) - *Multi-Site Cloud Storage File Manager*
 * [Omega Launcher](https://github.com/otakuhqz/omega), [SmartLauncher](https://www.smartlauncher.net/) / [Pro](https://filecr.com/?s=smart+launcher), [Lawnchair](https://lawnchair.app/), [NovaLauncher](https://novalauncher.com/), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [ActivityLauncher](https://github.com/butzist/ActivityLauncher), [Unlauncher](https://github.com/jkuester/unlauncher) or [Ratio](https://blloc.com/) - *App Launcher* 
 * [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) / [2](https://www.apkmirror.com/apk/aurora-oss/warden/) - *App Managers*
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - *Android Power Menu Replacement*
@@ -364,7 +366,7 @@
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice) - *Device Tracker*
 * [OwnTracks](https://owntracks.org/) or [Hauk](https://github.com/bilde2910/Hauk) - *Track Own Location*
 * [PhoneAccount Abuse Detector](https://play.google.com/store/apps/details?id=space.linuxct.phoneaccountdetector) - *Android Emergency Calling Bug Check*
-* [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451) - *Custom Recovery Firmware Tool*
+* [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451), [PitchBlack](https://pitchblackrecovery.com/) or [OrangeFox](https://wiki.orangefox.tech/en/home) / [GitHub](https://gitlab.com/OrangeFox/misc/appdev/app) - *Custom Recovery Firmware Tool*
 * [TWRP Root](https://t.me/samsung_twrp_root/78379) - *TWRP Recovery Samsung*
 * [SamFirm A.I.O​](https://forum.xda-developers.com/t/tool-samfirm-a-i-o-tools-firmware-downloader-mtp-bypass-frp.4210103/) or [Firmwareland](https://firmwareland.com/) - *Firmware & FRP Bypass*
 * [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) - *Extract OTP Tokens*
@@ -523,6 +525,7 @@
 * [Awesome Android Kotlin Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) - *Kotlin App Index*
 * [Aero Apps](https://t.me/aerolla) - *Modded Social Media Apps*
 * [Rikka Apps](https://rikka.app/) - *Free Apps*
+* [Paget96 Project](https://www.paget96projects.com/) - *Free Apps*
 * [FossDroid](https://fossdroid.com/) - *Open source apps / [/r/fossdroid](https://reddit.com/r/fossdroid)*
 * [Moderse](https://t.me/Moderse) - *Android Apk Telegram Channel by well known modder - Stabiron*
 * [DedoMil](http://dedomil.net/) - *Java Mobile Games*
@@ -915,6 +918,7 @@ RSS Player*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
 * [Drafts](https://getdrafts.com/) or [Bear](https://apps.apple.com/us/app/bear/id1016366447) - *Note Taking App*
 * [Serenity Notes](https://www.serenity.re/en/notes) - *Collaborative Notes*
+* [Papertag](https://www.papertag.app/) - *Attach Digital Content on Paper*
 * [Decisions](https://github.com/markusfisch/Libra) - *Decision Making App*
 * [BatteryBuddy](https://github.com/schneelittchen/BatteryBuddy) - *Cute Battery Life Indicator*
 * [Powercuff](https://rpetri.ch/cydia/powercuff/) - *Throttle iOS to Increase Battery Life*
