@@ -395,6 +395,7 @@
 * [Free Camp Sites](https://freecampsites.net/) - *Go Camping For Free*
 * [Roadside America](https://www.roadsideamerica.com/) - *Roadside Attraction Index*
 * [deardiary](https://deardiary.wtf/) - *Machine Learning Diary / [Concept Video](https://youtu.be/Zc3qayGmYZQ)* 
+* [Bad Licenses](https://github.com/ErikMcClure/bad-licenses) - *Funny Open Source Licenses Index*
 * [Classic GTA Sites](https://classicgtasites.com/) - *Original GTA Site Recreations*
 * [BD Stupidity Archive](https://discord.gg/5qgrj9a3NQ) - *Archive of BetterDiscord Stupidity*
 * [webgbcam](https://maple.pet/webgbcam/) - *Gameboy Camera in Browser*
@@ -571,7 +572,7 @@
 * [Corona Hunt](https://coronahunt.app/) - *Coronavirus Stats*
 * [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Ars Technica](https://arstechnica.com/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/), [Toms Hardware](https://www.tomshardware.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
 * [Liliputing](https://liliputing.com/) - *Linux Mobile News*
-* [Latest Privacy](https://latestprivacy.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - *Privacy News*
+* [Latest Privacy](https://latestprivacy.org/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - *Privacy News*
 * [Talos Blog](https://blog.talosintelligence.com/) - *CyberSecurity News*
 * [We Fight Censorship](http://3kyl4i7bfdgwelmf.onion/) - *Censorship News*
 * [Tudum](https://www.netflix.com/tudum) - *Netflix News*
@@ -1042,6 +1043,7 @@
 * [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Audio Recorder*
 * [Mute Tab](https://mybrowseraddon.com/mute-tab.html) - *Easily Mute All Tabs*
 * [Web-Scrobbler](https://web-scrobbler.com/) - *Scrobble with Last.fm, Libre.fm, ect.*
+* [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - *Play Wii Shop Music on Shopping Sites*
 * [Form History Control](https://stephanmahieu.github.io/fhc-home/) or [Simple Form Fill](https://github.com/sblask/webextension-simple-form-fill) - *Formfiller Manager* 
 * [History Master](https://github.com/jiacai2050/history-master) - *Vizualize & Sync Browser History* 
 * [xBrowserSync](https://www.xbrowsersync.org/) - *Browser Syncing* 
