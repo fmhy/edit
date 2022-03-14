@@ -1078,6 +1078,12 @@
 * **[MyAnimeList](https://myanimelist.net/)** - *Manga*
 * **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - *Comics*
 * **[TasteDive](https://tastedive.com/)** - *Book Recommendations*
+* [BookHype](https://bookhype.com/) - *Books*
+* [Oku](https://oku.club/) - *Books*
+* [StoryGraph](https://www.thestorygraph.com/) - *Books*
+* [Literal](https://literal.club/) - *Books*
+* [BookWyrm](https://joinbookwyrm.com/) - *Books*
+* [Book Tracker UI Comparisons](https://imgur.com/a/CqcJIMv)
 * [Reddit Reads](https://www.redditreads.com/) - *Book Recommendations*
 * [What Should I Read Next?](https://www.whatshouldireadnext.com/) - *Book Recommendations*
 * [GNOD](https://www.gnod.com/) - *Book Recommendations*
