@@ -67,6 +67,7 @@
 * [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/) - *Email Forwarding*
 * [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/) - *Temp Mail / [GitLab](https://gitlab.com/TheOneWithTheBraid/guerrilla_mail)*
 * [Private Location](https://f-droid.org/en/packages/com.wesaphzt.privatelocation/) - *Hide Phone Location Permanently*
+* [Invizible](https://invizible.net/en/) - *Unblock Sites and Encrypt Traffic*
 * [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&amp;hl=en_US) - *Tor Proxy*
 * [TorServices](https://f-droid.org/packages/org.torproject.torservices/) - *Tor App Proxy / [GitLab](https://gitlab.com/guardianproject/torservices)*
 * [Fritter](https://fritter.cc/) - *Privacy Based Twitter Client*
