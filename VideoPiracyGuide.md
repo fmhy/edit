@@ -846,7 +846,7 @@
 * **[TopNow](http://topnow.se/)** - *Movies / [Discord](https://discord.gg/WHYmgeB)*
 * **[EZTV](https://eztv.re/)** - *TV / Anime*
 * [MSearch](https://msearch.now.sh/), [2](https://msearch.vercel.app/) - *Movies / TV*
-* WatchSoMuch - [Streaming](https://watchsomuch.tv/) / [Downloading](https://watchsomuch.org/)
+* WatchSoMuch - [Streaming](https://watchsomuch.tv/) / [Downloading](https://watchsomuch.org/) / [Proxy](https://watchsomuchproxy.com/)
 * [GaoQing](https://gaoqing.fm/) - *Movies / TV / Anime / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Play](http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/) - *[ZeroNet Required](https://zeronet.io/) / Movies / TV*
 * [Baby Torrent](https://babytorrent.fun/) - *Movies / TV*
@@ -894,6 +894,7 @@
 * [Erai-Raws](https://www.erai-raws.info/) - *Sub / [Discord](https://discord.gg/2PfWaar)*
 * [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - *Sub / [ZeroNet Required](https://zeronet.io/)*
 * [nyaamal](https://github.com/laxyapahuja/nyaamal) - *Add torrents DL's to MAL / Anilist*
+* [Miru](https://github.com/ThaUnknown/miru) - *Stream Anime Torrents*
 * [Aniloader](https://github.com/Xanahol/Aniloader) or [AniTorrent](https://github.com/Kajiya-aru/AniTorrent) - *Anime Torrent Autodownloader*
 
 ***
