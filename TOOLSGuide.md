@@ -64,6 +64,7 @@
 * [GasPrices](https://gasprices.aaa.com/) - *Gas Price Calculator*
 * [DiaperGrid](https://diapergrid.com/) - *Compare Diaper Prices*
 * [StockInformer](https://www.stockinformer.com/) - *Product Stock Notifications*
+* [Netblocks](https://netblocks.org/cost/) - *Find Impact of Internet Shutdown on Economy*
 * [Solving Resources](https://the-unwelcome.github.io/resources/solving_resources.html) - *Code & Puzzle Solving Resources*
 * [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - *Bedtime Calculator* 
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - *Bra Size Calculator*
