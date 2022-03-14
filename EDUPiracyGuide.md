@@ -77,6 +77,7 @@
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - *Computer Science Courses*
 * [Learn Computer Science in 1k Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/) - *Computer Science Courses*
 * [FreeCourseWebsite](https://freecoursewebsite.com/) - *Udemy Courses*
+* [HiDevs](https://hidevs.net/) - *Udemy Courses*
 * [UdemyFreeCourses](https://udemyfreecourses.org/) - *Udemy Courses*
 * [Study Bullet](https://studybullet.com/) - *Udemy Courses / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw)*
 * [TutsNode](https://tutsnode.net/) - *Udemy Courses*
