@@ -22,7 +22,7 @@
 ## ▷ Dedicated Hosts
 
 * **[Movies4Discord](https://discord.gg/UJ9cS2kP3B)** - *Movies / TV / 1080p Only / [Website](https://movies4discord.xyz/)*
-* **[LookMovie](https://lookmovie2.la/)** - *Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)*
+* **[LookMovie](https://lookmovie2.to/)** - *Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)*
 * **[EE3](https://ee3.me/)** - *Movies / Invite Code: mpgh or 1hack*
 * **[Ask4movies](https://ask4movie.io/)** - *Movies / TV / [Adblock Script](https://pastebin.com/N58Vbyhw)*
 * **[PrivateHD](https://www.privatehd.xyz/)** - *Movies / TV*
