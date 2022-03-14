@@ -710,7 +710,7 @@
 * **[Dictionary Index](https://onelook.com/?d=all_gen)** 
 * **[OneLook](https://onelook.com/)** - *Multi Dictionary Search*
 * **[Merriam-Webster](https://www.merriam-webster.com/)** - *Dictionary / Thesaurus*
-* **[Wikipedia](https://www.wikipedia.org/)** or [WikiFox](https://wikifox.ml/) - *Encyclopedia / [Read Only](http://static.wiki/) / [Text Extractor](https://github.com/attardi/wikiextractor) / [Deleted Articles](https://deletionpedia.org/en/Main_Page)*
+* **[Wikipedia](https://www.wikipedia.org/)** or [WikiFox](https://wikifox.ml/) - *Encyclopedia / [Read Only](http://static.wiki/) / [Text Extractor](https://github.com/attardi/wikiextractor) / [Deleted Articles](https://deletionpedia.org/en/Main_Page) / [Random Page](http://wikistroll.com/)*
 * **[Wiktionary](https://en.wiktionary.org)** or [EtymOnline](https://www.etymonline.com/) - *Etymologies*
 * **[Wikiquote](https://en.wikiquote.org)** - *Quote database*
 * **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - *Slang Word / Phrase Dictionary*
@@ -802,6 +802,7 @@
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comics-DL](https://github.com/The-Eye-Team/Comics-DL), [Comic-DL](https://github.com/Xonshiz/comic-dl) or [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md) - *Comic Downloaders*
 * [Dark_Horse_Comics_Converter](https://github.com/GrowAsguard/Dark-Horse-Comics-Converter) - *Dark Horse Comics Downloader*
 * [Tapastic Comic Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - *Tapas Comics Downloader*
+* [findxkcd](https://xkcd-search.typesense.org/) - *Browse xkcd Comics*
 * [Cover](http://www.frenchfrysoftware.com/cover/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - *Reader / Manager*
 * [MComix](https://sourceforge.net/p/mcomix/wiki/Home/) - *Reader*
 * [Tachiyomi](https://tachiyomi.org/), [Bubble](https://f-droid.org/en/packages/com.nkanaev.comics/) or [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - *Manager / Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / Android* 
@@ -1083,6 +1084,7 @@
 * [StoryGraph](https://www.thestorygraph.com/) - *Books*
 * [Literal](https://literal.club/) - *Books*
 * [BookWyrm](https://joinbookwyrm.com/) - *Books*
+* [LibraryThings](https://www.librarything.com/) - *Books*
 * [Book Tracker UI Comparisons](https://imgur.com/a/CqcJIMv)
 * [Reddit Reads](https://www.redditreads.com/) - *Book Recommendations*
 * [What Should I Read Next?](https://www.whatshouldireadnext.com/) - *Book Recommendations*
