@@ -15,7 +15,7 @@
 * **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - *Download GFX Design Software*
 * **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/), [4](https://mega.nz/file/E5MwmT5Z#YP-vMSTcm8voKjb72_nHsLYH1AGmliWsbUGXVJhNHDE) - *Design Tool Resource Indexes*   
 * **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [GlitchyImage](https://glitchyimage.com/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - *Glitch Images*
-* [rexpaint](https://www.gridsagegames.com/rexpaint/) or [Playscii](https://jp.itch.io/playscii) - *ASCII Art Editor*
+* [rexpaint](https://www.gridsagegames.com/rexpaint/), [PabloDraw](http://picoe.ca/products/pablodraw/) or [Playscii](https://jp.itch.io/playscii) - *ASCII Art Editor*
 * [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Canva](http://canva.com/), [Stencil](https://getstencil.com/), [Design Studio](https://designstudio.smallseotools.com/), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/), [Scenify](https://editor.scenify.dev/), [ArtBoard](https://artboard.studio/) or [Glitterly](https://glitterly.app/) - *Graphic Design Tools*
 * [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/), [designspiration](https://www.designspiration.net/) or [inspirationde](https://www.inspirationde.com/) - *Graphic Design Inspirations*
 * [IRA Design](https://iradesign.io/) - *Illustration Creator*
@@ -172,6 +172,7 @@
 * [GIF Explode](https://gif-explode.com/) - *Split GIFs Into Frames*
 * [gifify](https://github.com/vvo/gifify) or [Video-to-GIF](https://hnet.com/video-to-gif/) - *Video to GIF Converter*
 * [GifRun](https://gifrun.com/) - *Make GIFs From Online Videos*
+* [UnFREEz](http://www.whitsoftdev.com/unfreez/) - *Make GIFs From Images*
 * [Viphy](https://viphy.typestudio.co/) - *Generate GIF From Text*
 * [ScreenToGif](https://www.screentogif.com/) - *GIF Recording Software* 
 * [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - *Turn Screencasts into GIFs*
@@ -205,6 +206,7 @@
 * [AutoDraw](https://www.autodraw.com/) - *Machine Learning Drawing Tool* 
 * [MonsterMash](https://monstermash.zone/) - *Sketch Based Modeling & Animation Tool*
 * [Perfect Freehand](https://perfect-freehand-example.vercel.app/) - *Draw Free Hand Lines / [GitHub](https://github.com/steveruizok/perfect-freehand)*
+* [minimator](https://minimator.app/) - *Create Grid Based Drawings*
 * [Picrew](https://picrew.me/) - *Animated Character Maker*  
 * [Ink Workspace](https://www.microsoft.com/store/productId/9P0RP342JZMN) - *Pen App Launcher*
 * [brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](http://wowbrushes.com/), [chezplumeau](https://www.chezplumeau.com/), [brushesdownload](http://www.brushesdownload.com/), [getbrushes](http://getbrushes.com/), [gfxfever](http://gfxfever.com/photoshop-brushes), [fbrushes](https://fbrushes.com/), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/) - *Digital Art Brushes*
@@ -352,7 +354,8 @@
 * [DeepSort](https://github.com/CorentinB/DeepSort/) or [WiseTagger](https://github.com/0xb8/WiseTagger) - *Image Tagger* 
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) or [PhotoPrism](https://photoprism.app/) - *Automatically Organize & Tag Photos*
 * [Photo.net Tutorials](https://www.photo.net/learn/about/tutorials) - *Photography Tutorials*
-* [3DVKARTS](https://3dvkarts.net/) - *Drawing Tutorials*
+* [Painting Demos](https://paintingdemos.com/) - *Painting Demonstrations*
+* [3DVKARTS](https://3dvkarts.net/) or [Line of Action](https://line-of-action.com/) - *Drawing Tutorials*
 * [TryDraw](https://www.trydraw.com/) - *Improve Drawing Skills*
 * [3D printed mirror array](https://github.com/bencbartlett/3D-printed-mirror-array) - *Sunlight Pattern Mirror Array*
 
