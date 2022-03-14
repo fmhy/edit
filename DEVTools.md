@@ -163,6 +163,7 @@
 * [CSS Speedrun](https://css-speedrun.netlify.app/) - *Test Your CSS Skills*
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - *Pre-Trained Language Model Tuning Papers*
+* [Learn to Make Netflix Clone](https://github.com/kubowania/netflix-clone-graphql-datastax)
 * [Discord.js Guide](https://discordjs.guide/) - *Discord.js Bot Guide*
 * [vcokltfre](https://vcokltfre.dev/) - *Discord.py Bot Guide*
 * [free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - *AI Learning Resources*
@@ -281,6 +282,7 @@
 * [Freenet Project](https://freenetproject.org/) - *Browse / Publish Freenet Sites* 
 * [GoodBadISPs ](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - *Best ISPs for Tor Hosting*
 * [Uncensorable Publishing](https://uncensorablepublishing.com/) - *How-to Create Uncensorable Sites*
+* [Emanote](https://emanote.srid.ca/) - *Create Sites from Plain-Text Notes / [GitHub](https://github.com/srid/emanote)*
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/) or [CSSAuthor](https://cssauthor.com/) - *Site Development Tools*
 * [Sympli](https://sympli.io/), [AnimaApp](https://www.animaapp.com/) or [ZeroHeight](https://www.zeroheight.com/) - *Developement Collaboration Tool*
@@ -497,6 +499,7 @@
 * [Gummy](https://gummyjs.vercel.app/) - *Easily Build Javascript Programs* 
 * [NASM](https://www.nasm.us/) - *Program Assembler*
 * [Pakkly](https://pakkly.com/) - *Desktop App Deployment*
+* [dotnet releaser](https://github.com/xoofx/dotnet-releaser) - *Automate Release of .NET Applications*
 * [Pencil](http://pencil.evolus.vn/) - *Software Mockup Tool / [GitHub](https://github.com/evolus/pencil)*
 * [GNUnet](https://gnunet.org/en/) - *Software Framework* 
 * [Kuker](https://github.com/krasimir/kuker) - *Debug Applications* 
