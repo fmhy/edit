@@ -407,6 +407,7 @@
 * [Obsidian](https://obsidianapp.io/) - *Two-Factor Authentication*
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - *Block Ads via Host Files*
 * [Adguard DNS](https://cdn.adguard.com/public/Dns/adguard-dns.mobileconfig/) - *Adblocking Profile*
+* [Lockdown Privacy](https://lockdownprivacy.com/) - *Block Trackers / Ads*
 * [Stronghold](https://github.com/alichtman/stronghold) - *Mac Security Settings Terminal*
 * [LuLu](https://objective-see.com/products/lulu.html) - *Mac Firewall* 
 * [Tracker Zapper](https://rknight.me/apps/tracker-zapper/) - *Remove URL Tracking Elements*
