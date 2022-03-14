@@ -1624,6 +1624,7 @@ Portuguese
 * [TestKey](https://keytest.vn/) - *Test Keyboard*
 * [VNTyping](https://vntyping.com/), [VietnameseTyping](https://vietnamesetyping.com/) or [VNKeys](http://www.vnkeys.net/) - *Vietnamese Typing*
 * [Mail1s](https://mail1s.com/) - *Temp Email*
+* [BeeCost](https://beecost.vn/) - *E-commerce Price Tracker*
 * [123Note](https://123note.net/), [Notepad](https://notepad.vn/), [GhiChu](https://ghichu.vn/) - *Notepad Tools*
 * [Random](https://random.com.vn/), [QuaySo](https://quayso.vn/) or [NgauNhien](https://ngaunhien.vn/) - *Random Tools*
 * [FPT.AI](https://fpt.ai/vi/tts) or [DauDau](https://www.daudau.tk/) - *Text to Speech*
