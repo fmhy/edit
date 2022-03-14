@@ -343,7 +343,8 @@
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - *Volume Mixer / Auto-Pause*
 * [BatteryBuddy](https://batterybuddy.app/) - *Cute Battery Indicator*
 * [Bunch](https://bunchapp.co/) - *Task Automation*
-* [Itsycal](https://www.mowglii.com/itsycal/) - *Menu Bar Calender*
+* [Itsycal](https://www.mowglii.com/itsycal/) - *Menu Bar Calendar*
+* [pock](https://pock.app/) - *Touch Bar Widget Manager / [GitHub](https://github.com/pock/pock)*
 * [xbar](https://xbarapp.com/) - *Manage Menu Bar Items / [GitHub](https://github.com/matryer/xbar)*
 * [MacLaunch](http://github.com/hazcod/maclaunch) - *Manage Startup Items*
 * [Sloth](https://github.com/sveinbjornt/Sloth) - *MacOS Process Manager*
