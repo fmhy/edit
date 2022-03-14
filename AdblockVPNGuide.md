@@ -504,6 +504,7 @@
 * [TouchVPN](https://touchvpn.net/) - *Free VPN*
 * [HideMe](https://hide.me/) - *Free VPN*
 * [Calyx VPN](https://calyx.net/) - *Free VPN*
+* [Leap VPN](https://leap.se/) - *Free VPN*
 * [Clash](https://github.com/Fndroid/clash_for_windows_pkg) - *Free VPN / [Profiles](https://rentry.co/2q3rn)*
 * [Portals](https://www.portals.network/) - *dVPN*
 * [FreePN](https://www.freepn.org/) - *Free Open Source P2P VPN* 
@@ -578,6 +579,6 @@
 * [Google Translate](https://translate.google.com/) - *[How to use](https://redd.it/fawkjy)*
 * [b.lulu](https://b.lulu.workers.dev/), [3](https://b.jsproxy.workers.dev/), [4](https://noisy-tooth-2ee5.susheng.workers.dev/) - *Cloudflare Workers Proxies* 
 * [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - *Python Library for Retrieving Free Proxies*
-* [Proxy-Checker](https://proxy-checker.net/) or [Socker](https://github.com/TheSpeedX/socker) - *Proxy Checker*
+* [Proxy-Checker](https://proxy-checker.net/), [What is my Proxy](http://www.whatismyproxy.com/) or [Socker](https://github.com/TheSpeedX/socker) - *Proxy Checker*
 * [CheckSocks5](https://checksocks5.com/) - *Socks5 Proxy Checker*
 * [Proxynova](https://www.proxynova.com/proxy-server-list/country-ir/) - *Iranian Proxies*
