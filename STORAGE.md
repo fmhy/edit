@@ -441,7 +441,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Developer Tools
 
-[free-for.dev](https://free-for.dev/), [DevToys](https://devtoys.app/) / [GitHub](https://github.com/veler/DevToys), [JetBrains](https://jetbrains.com/) / [Trial Reset](https://rentry.org/52oyb), [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Dev stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [CleanCSS](https://www.cleancss.com/)
+[free-for.dev](https://free-for.dev/), [DevToys](https://devtoys.app/) / [GitHub](https://github.com/veler/DevToys), [JetBrains](https://jetbrains.com/), [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Dev stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [CleanCSS](https://www.cleancss.com/)
 
 ***
 
