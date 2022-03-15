@@ -33,6 +33,7 @@
 * **[Fakespot](https://www.fakespot.com/)** - *Identifies Fake Reviews & Counterfeits*
 * [TBlock](https://tblock.codeberg.page/) - *Adblocker*
 * [Facebook Hide Ads](https://greasyfork.org/en/scripts/404309-facebook-hide-ads-a-k-a-sponsored-posts) - *Remove Sponsored Posts from Facebook* 
+* [uBO-YouTube](https://github.com/x0a/uBO-YouTube) - *YouTube Channel Whitelist*
 * [LinkedIn Unsponsored](https://greasyfork.org/en/scripts/379003-linkedin-unsponsored) - *Remove Sponsored Posts from LinkedIn* 
 * [WhoTargetsMe](https://whotargets.me/) - *Political Ad Tracker*
 
