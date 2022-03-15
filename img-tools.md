@@ -311,6 +311,7 @@
 * [Generated Photos](https://generated.photos/) - *AI Generated Model Photos*
 * [Blender](https://www.blender.org/) - *Open Source 3D Modeler / 2D Animation / Video Editor / [Resources](https://github.com/agmmnn/awesome-blender)*
 * [3D Modeling Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps) - *Free 3D Modeling Apps* 
+* [Figurosity](https://figurosity.com/) - *Human 3D Models*
 * [Armorpaint](https://armorpaint.org/) - *3D Painting*
 * [ZBrush](https://zbrushcore.com/mini/) - *3D Sculpting*
 * [Assemblr](https://www.assemblrworld.com/) - *Augmented Reality Image Creator*
