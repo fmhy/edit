@@ -338,6 +338,7 @@ French / General Torrent Tracker
 * [pdf-ebookys](https://www.pdf-ebookys.com/) - *Books / Magazines* 
 * [1001Ebooks](https://1001ebooks.club/) - *Books*
 * [bookys](https://ww2.bookys-ebooks.com/) - *Books*
+* [1001ebooks](https://pdf.1001ebooks.com/) - *Books*
 * [Planet-DB](https://planete-bd.org/) - *Comics / Manga*
 * [Audiocite](https://www.audiocite.net/) - *Audiobooks* 
 * [zone-ebook.com](https://zone-ebook.com/) - *Magazines / Newspapers / Books / Audiobooks / Comics*   
@@ -480,6 +481,8 @@ French / General Torrent Tracker
 * [WorldFree4U](https://worldfree4u.city/) - *Movies / TV*
 * [atishmkv](https://atishmkv.site/) - *Movies / TV*
 * [HDHub4u](https://hdhub4u.bar/) - *Movies*
+* [HDVogo](https://www.hdvogo.com/) - *Movies*
+* [Dudefilms](https://dudefilms.fun/) - *Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)*
 * [The Movies Flix](https://themoviesflix.com.se/) - *Movies / NSFW / [Telegram](https://t.me/themoviesflixcomco)*
 * [Bollywood Movie Drive](https://drive.google.com/drive/folders/1dfv0SIMwQGfLlY1-GQY1rA_cXEoekIRH) - *Movies*
 * [KatMovieHD](https://katmoviehd.nz/) - *Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)*
@@ -512,6 +515,7 @@ French / General Torrent Tracker
 ## ▷ Torrenting
 
 * [bolly4u](https://bolly4u.life/ ) - *Movies / TV*
+* [Vofo Movies](https://ytsyify2020.com/) - *Movies*
 
 ## ▷ Streaming 
 
@@ -532,6 +536,7 @@ French / General Torrent Tracker
 * [DesiTVBox](https://www.desitellybox.me/) - *TV*
 * [Freewatchserialonline](https://freewatchserialonline.com/) - *TV*
 * [UWatchFree](https://www.uwatchfree.do/) - *Movies / TV*
+* [SkymoviesHD](https://skymovieshd.name/) - *Movies / TV / WWE*
 * [OnlineMovies8](https://www.onlinemovies8.com.pk/) - *Movies* 
 * [FilmyBro](https://filmybro.com/) - *Movies*
 * [FilmyHit](https://filmyhit.wine/) - *Movies / TV*
@@ -704,6 +709,7 @@ French / General Torrent Tracker
 * [MangaBox](https://www.mangabox.me/) - *Manga* 
 * [DLRaw](https://dlraw.net/) - *Manga*
 * [Comic Walker](https://comic-walker.com/) - *Manga*
+* [Rawkuma](https://rawkuma.com/) - *Manga*
 * [WeLoMa](https://weloma.net/) - *Manga*
 * [Kissaway](https://kissaway.net/) - *Manga*
 * [dl-raw](https://dl-raw.net/) - *Manga / Novels / NSFW*
@@ -806,6 +812,7 @@ French / General Torrent Tracker
 * [mrmovie](https://mrmovie5.space/) - *Movies / TV* 
 * [PlayStop](https://playstop.ir/) - *Movies / TV* 
 * [SalamDL](https://salamdl.me/) - *Movies / TV* 
+* [FilmBan](https://filmban.top/) - *Movies / TV / Anime*
 * [ValaMovie](https://valamovie.club/) - *Movies / TV* 
 * [Tik-Film](https://tik-film.com/) - *Movies / TV* 
 * [Kartoonet](http://dl.kartoonet.com/) - *Movies*
@@ -1463,6 +1470,7 @@ Portuguese
 * [Cinetorrent](http://mozatimes.com/) - *Movies / TV*
 * [Tomadvix](https://tomadivx.net/) - *Movies / TV*
 * [DIVXTorrent](https://www.divxtorrent.com/) - *Movies / TV*
+* [DivxTotal](https://www.divxtotal.pm/) - *Movies / [Telegram](https://t.me/divxtotal2)*
 * [Grantorrent](https://grantorrent.nl/), [2](https://grantorrent.ch/) - *Movies / TV*
 * [EstrenosDTL](https://www.estrenosdtl.nz/) - *Movies*
 * [MoviesDVDR](https://www.moviesdvdr.co/) - *Movies* 
@@ -1547,13 +1555,14 @@ Portuguese
 
 ## ▷ Streaming 
 
-* [TamilCrow](https://www.1tamilcrow.com/) - *Movies / TV*
+* [TamilCrow](https://www.1tamilcrow.net/) - *Movies / TV*
 * [TamilYogi](http://tamilyogi.cool/), [2](http://tamilyogi.best/) - *Movies*
 * [tamilgun.tw](https://tamilgun.tw/) - *Movies / TV*
 
 ## ▷ Downloading
 
 * [TnHits](https://tnhitsda.xyz/) - *Movies / TV / Music*
+* [Isaimini](http://isaimininet.net/) - *Movies*
 
 ***
 
@@ -1786,6 +1795,7 @@ Portuguese
 * [v100v.net](https://www.v100v.net/) - *Streaming / Movies*
 * [Toroflix](https://freewatchhindimoviesonline.com/) - *Streaming / Movies*
 * [1jalshamoviez](https://www.1jalshamoviez.info/) - *Download / Movies*
+* [7MovieRulz](https://7movierulz.es/) - *Stream / Torrent / Movies / [Telegram](https://t.me/movierulztv)*
 * [MLWBD](https://mlwbd.shop/) - *Download / Movies*
 * [Movies Counter](https://moviescounter.se/) - *Download / Movies*
 * [FilmyGod](https://filmygod7.in/) - *Movies / [Telegram](https://t.me/+TT_cQkr00BnhM2eA)*
@@ -1806,6 +1816,7 @@ Portuguese
 * [indianebooks](https://t.me/indianebooks) - *Books*
 * [Digital Library of India](https://dli.sanskritdictionary.com) - *Books*
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - *Radio*
+* [EPaper](https://todayepaper.co/) - *Indian Newspapers Today*
 * [BotAllen](https://botallen.com/) - *Kodi Repo*
 * [PCPriceTracker](https://pcpricetracker.in/) - *Track PC Component Rupee Prices*
 * [IDCARDS.PW](https://www.idcards.pw/) - *Fake Indian ID Card Generator*
@@ -1838,4 +1849,5 @@ Portuguese
 * [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - *Malaysian / Audio / Telegram*
 * [PDFlibrary](https://t.me/PDFlibrary) - *Malayalam / Books / Telegram*
 * [9jaflaver](https://9jaflaver.com/) - *Nigerian / MP3*
+* [zoom.lk](https://zoom.lk/) - *Sinhalese / Subtitles*
 * [Steamcito](https://emilianog94.github.io/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos/landing/index.html) - *Converts Steam Prices to Argentine Pesos*
