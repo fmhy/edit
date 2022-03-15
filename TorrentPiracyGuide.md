@@ -37,7 +37,7 @@
 * [XD-Torrent](https://xd-torrent.github.io/) - *Anonymous P2P Torrent Client*
 * [mtorrent](https://github.com/nektro/mtorrent) - *Terminal Torrent Client* 
 * [RakaPublicLeech](https://t.me/RakaPublicLeech) - *Torrent to Telegram Bot*
-* [libtorrent](https://www.libtorrent.org/) - *C++ BitTorrent Client*
+* [libtorrent](https://www.libtorrent.org/) - *C++ BitTorrent Client / [GitHub](https://github.com/arvidn/libtorrent)*
 * [TrayTorrent](https://traytorrent.ru/) - *Torrent Tray Client*
 * [exatorrent](https://github.com/varbhat/exatorrent) - *Self-Hosted Client*
 * [Rats Search](https://github.com/DEgITx/rats-search) - *Torrent Search Client / [Screenshot](https://github.com/DEgITx/rats-search#screenshots)* 
