@@ -480,8 +480,10 @@ French / General Torrent Tracker
 * [MKV Mad](https://www.mkvmad.pro/) - *Movies / TV*
 * [WorldFree4U](https://worldfree4u.city/) - *Movies / TV*
 * [atishmkv](https://atishmkv.site/) - *Movies / TV*
+* [1337xHD](https://1337xhd.life/) - *Movies / TV*
 * [HDHub4u](https://hdhub4u.bar/) - *Movies*
 * [HDVogo](https://www.hdvogo.com/) - *Movies*
+* [Movies Flix](https://hdmoviesflix.in/) - *Movies / NSFW / [Telegram](https://t.me/hdmoviesflix_official)*
 * [Dudefilms](https://dudefilms.fun/) - *Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)*
 * [The Movies Flix](https://themoviesflix.com.se/) - *Movies / NSFW / [Telegram](https://t.me/themoviesflixcomco)*
 * [Bollywood Movie Drive](https://drive.google.com/drive/folders/1dfv0SIMwQGfLlY1-GQY1rA_cXEoekIRH) - *Movies*
@@ -693,6 +695,7 @@ French / General Torrent Tracker
 ## ▷ Reading 
 
 * [itazuraneko](https://itazuraneko.neocities.org/library/librarymain.html) - *Manga / Novels / Video Novels / Audiobooks*
+* [Rawmangaz](https://rentry.co/rawmangaz) - *List of Raw Manga Sites*
 * [senmanga](https://raw.senmanga.com/) - *Manga / Novels / NSFW*
 * [manga1000](https://manga1000.com/) or [manga1001](https://manga1001.com/) - *Manga / NSFW* 
 * [rawdevart](https://rawdevart.com/) - *Manga* 
@@ -1512,6 +1515,7 @@ Portuguese
 * [Monoschinos](https://monoschinos2.com/) - *Anime* 
 * [serieslan](https://serieslan.com/) - *Cartoons*
 * [LACartoons](https://www.lacartoons.com/) - *Cartoons*
+* [Eventoshq](https://www.eventoshq.me/) - *WWE*
 * [NoireStyle](https://noirestyle.com/) - *Film Noir* 
 * [LegalMentegratis](http://legalmentegratis.com/) - *YouTube Movies*
 * [UKIKU](https://ukiku.ga/) - *Anime APK*
@@ -1591,6 +1595,7 @@ Portuguese
 
 * [TurkceAltyazi](https://turkcealtyazi.org/index.php) - *Subtitles*
 * [Firmaa](http://www.firmaa.com/) - *Company Directory*
+* [Playstationhaber](https://playstationhaber.com/) - *PlayStation Piracy Forum*
 
 ## ▷ Downloading
 
@@ -1803,6 +1808,7 @@ Portuguese
 * [TamilRockers](https://www.tamilrockermovies.org/) - *Streaming / Torrent / Movies*
 * [HiidudeMoviez](https://ww1.4hiidude.me/) - *Streaming / Torrent / Movies / [Telegram](https://telegram.me/hiidudemoviez)*
 * [v100v.net](https://www.v100v.net/) - *Streaming / Movies*
+* [MovieRulz](https://movierulzlink.art/) - *Streaming / Movies*
 * [Toroflix](https://freewatchhindimoviesonline.com/) - *Streaming / Movies*
 * [1jalshamoviez](https://www.1jalshamoviez.info/) - *Download / Movies*
 * [7MovieRulz](https://7movierulz.es/) - *Stream / Torrent / Movies / [Telegram](https://t.me/movierulztv)*
