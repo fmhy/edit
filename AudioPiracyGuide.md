@@ -140,6 +140,7 @@
 * [morsecode.me](http://morsecode.me/) - *Morse Code Radio / Communication*
 * [Worldwide Radio](http://forums.mozillazine.org/viewtopic.php?t=3039738) - *Radio Extension* 
 * [CaribouLite](https://github.com/cariboulabs/cariboulite) - *Raspberry-Pi Tx/Rx 6GHz SDR*
+* [Audioburst](https://search.audioburst.com/) - *Podcast Clip Search*
 * [castero](https://github.com/xgi/castero) - *TUI Terminal Podcast Client*
 * [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) or [GPodder](http://gpodder.org/) - *Podcast Client*
 * [Spotify Podcast Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders) - *Download Podcasts from Spotify*
