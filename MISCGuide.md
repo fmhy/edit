@@ -42,10 +42,6 @@
 * [The Pirate List](https://thepiratelist.com/) - *Piracy Index*
 * [PiratezParty](https://github.com/SpamVerse/Piratezparty) - *Piracy Index / [Telegram](https://t.me/piratezparty)*
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - *Software / Tool Index*
-* [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software Index* 
-* [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software Index*
-* [Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/), [2](https://github.com/inputsh/awesome-linux), [3](https://github.com/crackerica/Awesome-Linux-Software) 
-* [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - *Self-Hosted Software Index* 
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - *Data Hoarding Tools Index*   
 * [Get Started Into Cracks](https://rentry.org/getstartedintocracks) - *Piracy Starters Guide*
 * [cata-list](https://cata-list.github.io/) - *Site / Tool Index* 
@@ -808,6 +804,7 @@
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
 * [American Panorama](https://dsl.richmond.edu/panorama/) - *Interactive US Historical Maps*
 * [Native-Land.ca](https://native-land.ca/) - *Indigenous Territory Map*
+* [Midgard Map](https://midgardmap.koboldpress.com/) - *Midgard Map*
 * [Map Crunch](https://www.mapcrunch.com/) or [RandomStreetView](https://randomstreetview.com/) - *Random Street View*
 * [1940's.nyc](https://1940s.nyc/) - *Explore 1940's New York* 
 * [Snap Map](https://map.snapchat.com/) - *Snap Chat Map*
@@ -1045,6 +1042,7 @@
 * [Web-Scrobbler](https://web-scrobbler.com/) - *Scrobble with Last.fm, Libre.fm, ect.*
 * [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - *Play Wii Shop Music on Shopping Sites*
 * [Form History Control](https://stephanmahieu.github.io/fhc-home/) or [Simple Form Fill](https://github.com/sblask/webextension-simple-form-fill) - *Formfiller Manager* 
+* [Fake Data](https://www.fakedata.pro/) - *Fill Forms With Fake Data*
 * [History Master](https://github.com/jiacai2050/history-master) - *Vizualize & Sync Browser History* 
 * [xBrowserSync](https://www.xbrowsersync.org/) - *Browser Syncing* 
 * [Stylus](https://add0n.com/stylus.html), [Stylish](https://userstyles.org/) / [2](https://uso.kkx.one/) or [UserStyles](https://userstyles.world/) - *Custom Website Color Schemes*  
@@ -1165,6 +1163,7 @@
 * [Resurrect Pages](https://addons.mozilla.org/nl/firefox/addon/resurrect-pages/) - *View Archived / Cached Webpages*
 * [Firefox Voice](https://commonvoice.mozilla.org/en) - *Use Firefox with your Voice* 
 * [Canvas](https://addons.mozilla.org/en-US/firefox/addon/canvas-google-images/) - *View & Edit Google Images* 
+* [Sitemod](https://sitemod.io/) - *Inspect Element Changes to a Website*
 * [Zoom Redirector](https://addons.mozilla.org/en-US/firefox/addon/zoom-redirector/) - *Redirect Zoom Links to Web Client* 
 * [Plasma Integration](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/) - *Control Browser via Plasma* 
 * [Session Sync](https://addons.mozilla.org/en-US/firefox/addon/session-sync/) - *Session Manager* 
