@@ -227,6 +227,7 @@
 
 ## ▷ GTA Tools
 
+* [GTAAll](https://www.gtaall.com/) - *GTA Mods, Cheats, Walkthroughs & more*
 * [FiveM](https://fivem.net/) - *Modded GTAV Servers*
 * [GTA-V-patcher](https://github.com/NicolasR/GTA-V-patcher) - *Automate GTAV Patches*
 * [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - *GTA5 FidelityFX Super Resolution Mod*
@@ -364,6 +365,7 @@
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) - *Multiplayer Switch Servers*
 * [CTGP Revolution](https://www.chadsoft.co.uk/) or [Wiiki Tockdom](http://wiki.tockdom.com/) - *Mario Kart Wii Mod* 
 * [TTs Online](https://redd.it/ie6gi7) - *MKW Online Time Trials Mod*
+* [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - *MKW Techniques, Glitches, & Exploits*
 * [Wiimmfi](https://wiimmfi.de/) - *Wii / DS Multiplayer Revival*
 * [Theme Plaza](https://themeplaza.art/themes) - *3DS Themes*
 * [DSI Guide](https://dsi.cfw.guide/) - *DSI Modding Guide*
