@@ -1892,12 +1892,11 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install), [dank.d
 * [Scanned PDF to Doc](https://www.scannedpdftoword.com/) - *Scanned PDF to Doc Converter*
 * [Adobe Excel to PDF](https://www.adobe.com/acrobat/online/excel-to-pdf.html) - *Convert Excel Files to PDF*
 * [JPG-to-PDF](https://github.com/praneetk2704/JPG-to-PDF) [Images to PDF](https://github.com/Swati4star/Images-to-PDF), [JPG2PDFBot](https://t.me/JPG2PDFBot), [Adobe Converter](https://www.adobe.com/acrobat/online/jpg-to-pdf.html) or [img2pdf](https://pypi.org/project/img2pdf/) - *Image to PDF Converter*
-* [PDFmyURL](https://pdfmyurl.com/) - *Convert Web Page to PDF* 
 * [PDFCrowd](https://pdfcrowd.com/), [HTMLaPDF](https://www.htmlapdf.com/ ) or [wkhtmltopdf](https://wkhtmltopdf.org/) - *HTML to PDF / Image Converter*
 * [ShowPDF](http://showpdf.com/) - *PDF to HTML Converter*
 * [PSTOEdit](http://pstoedit.net/) - *Convert PDF to other Vector Formats* 
 * [Issuu](https://issuu.com/) - *Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/), [3](https://docdownload.net/)* 
-* [WebToPDF](https://webtopdf.com/) - *Webpage to PDF Converter*
+* [WebToPDF](https://webtopdf.com/) or [PDFmyURL](https://pdfmyurl.com/) - *Webpage to PDF Converter*
 * [PPT To PDF](https://www.adobe.com/acrobat/online/ppt-to-pdf.html) - *Convert PowerPoint to PDF Adobe*
 * [Protect PDF](https://chrome.google.com/webstore/detail/protect-pdf-by-pdfliteco/ehiinfpgjdeejgicaecceplicndinpgb) - *PDF Watermarks*
 * [watermark-remover](https://github.com/cpappen/watermark-remover), [pdf-remove-watermarks](https://github.com/matthiasbock/pdf-remove-watermarks), [Aspose](https://products.aspose.app/pdf/annotation) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - *PDF Watermark Remover*
