@@ -1638,23 +1638,29 @@ Portuguese
 # ► Vietnamese 
 
 * [CocCoc](https://coccoc.com/search) - *Search*
+* [Speedtest](https://speedtest.vn/), [SCTV](http://speedtest.sctv.com.vn/), [Vinahost](https://speedtest.vinahost.vn/) - *Internet Speed Test*
 * [BizTime](https://biztime.com.vn/), [HahaLolo](https://www.hahalolo.com/) or [Lotus](https://lotus.vn/) - *Social Network*
 * [SapTet](https://www.saptet.com/), [DonTet](http://dontet.online/) - *New Year Countdown*
 * [LichAm](https://licham.net/), [XemLichAm](https://www.xemlicham.com/), [LichAmHomNay](https://licham.com.vn/), - *Lunar Calendar*
 * [TraCuuThanSoHoc](https://tracuuthansohoc.com/), [ThanSoHocOnline](http://thansohoconline.com/), [ThanSoVietnam](https://thansovietnam.com/), - *Numerology*
 * [MayTinhOnline](https://maytinhonline.net/), [2](https://maytinhonline.com/), [3](https://may-tinh.online/), - *Calculator*
 * [BusMap](https://busmap.vn/) - *Bus Journey*
+* [BeenLoveMemory](https://beenlovememory.app/) - *Love Days Counter*
 * [PhuDeViet](http://phudeviet.org/) - *Subtitles*
+* [XaBuon](https://xabuon.com/), [Xem](https://xem.vn/) - *Meme*
 * [GameVui](https://gamevui.vn/), [Game24h](https://game24h.vn/), [ChoiGame24](https://choigame24.com/) or [Game247](https://game247.vn/) - *Browser Games*
 * [KiTuHay](https://kituhay.com/), [Symbols](https://symbols.vn/), [KTDB](https://ktdb.vn/) or [KiTuAz](https://kituaz.com/) - *Special Characters*
 * [IconDep](https://icondep.com/), [Run](https://run.vn/) or [IconFB](https://iconfb.net/) - *Emojis*
 * [Dafontvn](https://www.dafontvn.com/) or [FontChu](http://fontchu.com/) - *Fonts*
 * [TestKey](https://keytest.vn/) - *Test Keyboard*
+* [ClickTest](https://clicktest.vn/) - *Mouse Click Test*
+* [TestMic](https://testmic.vn/) - *Test Microphone*
+* [TestCam](https://testcamera.vn/), [CamTest](https://cameratest.vn/) - *Test Camera*
 * [VNTyping](https://vntyping.com/), [VietnameseTyping](https://vietnamesetyping.com/) or [VNKeys](http://www.vnkeys.net/) - *Vietnamese Typing*
 * [Mail1s](https://mail1s.com/) - *Temp Email*
 * [BeeCost](https://beecost.vn/) - *E-commerce Price Tracker*
 * [BangCuuChuong](https://bangcuuchuong.com/) - *Multiplication Table*
-* [FBVN](https://fbvn.org/tien-ich/loc-ban-be-khong-tuong-tac/) - *Friends Filter for Facebook*
+* [FBVN](https://chrome.google.com/webstore/detail/hlnhbiajcpmjpgpedgfdigiccejengbi), [L.O.C](https://chrome.google.com/webstore/detail/eojdckfcadamkapabechhbnkleligand) or [KB2A](https://chrome.google.com/webstore/detail/djfbfhmfeenbkdffimkcagbiimjelgne) - *Friends Filter for Facebook*
 * [123Note](https://123note.net/), [Notepad](https://notepad.vn/), [GhiChu](https://ghichu.vn/) - *Notepad Tools*
 * [Random](https://random.com.vn/), [QuaySo](https://quayso.vn/) or [NgauNhien](https://ngaunhien.vn/) - *Random Tools*
 * [FPT.AI](https://fpt.ai/vi/tts) or [DauDau](https://www.daudau.tk/) - *Text to Speech*
@@ -1760,6 +1766,10 @@ Portuguese
 * [GacSach](https://gacsach.club/) - *Books*
 * [SachHay](https://www.sachhayonline.com/) - *Books*
 * [KhoSach](https://khosachonline.com/) - *Books*
+* [VNDoc](https://vndoc.com/) - *Educational Books / Documents*
+* [LoiGiaiHay](https://loigiaihay.com/) - *Educational Books / Documents*
+* [VietJack](https://vietjack.com/) - *Educational Books / Documents*
+* [DocTaiLieu](https://doctailieu.com/) - *Educational Books / Documents*
 * [Fecomic](https://fecomic.com/) - *Manga / Manhwa / Manhua*
 * [Vcomycs](https://vcomycs.com/) - *Manga / Manhwa / Manhua*
 * [OCuMeo](https://www.ocumeo.com/) - *Manga / Manhwa / Manhua*
