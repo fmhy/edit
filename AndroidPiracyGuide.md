@@ -246,6 +246,7 @@
 * [Gallery](https://www.simplemobiletools.com/gallery) - *Photo Gallery*
 * [PhotoRoom](https://www.photoroom.com/) - *Background Remover*
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) or [Camator](https://gcamator.com/) - *Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/)*
+* [Vision Camera](https://mrousavy.com/react-native-vision-camera/) - *FOSS Camera App / [GitHub](https://github.com/mrousavy/react-native-vision-camera)*
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - *Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)*
 * [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play) - *Camera App with QR / Barcode Scanning*
 * [Colorize It](https://play.google.com/store/apps/details?id=com.reaimagine.colorizeit) - *Colorize Images*
@@ -389,7 +390,7 @@
 * **[APKMirror](https://www.apkmirror.com/)** - *Untouched / [Playstore Links](https://pastebin.com/TcsAJib6)*
 * **[Lucky Patcher](https://www.luckypatchers.com/download/)** - *Remove Ads / Free In App Purchases / App Patcher / [How to use](https://latestechnews.com/how-to-use-lucky-patcher/)*
 * **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - *Repositories Index*
-* **[Android FOSS](https://github.com/offa/android-foss)**, **[Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md)**, **[/r/u_Jackie7610](https://redd.it/jhtvn4)** or **[Cool FOSS](https://albertomosconi.github.io/foss-apps/)** / [GitHub](https://github.com/albertomosconi/foss-apps) - *Free and Open Source Apps for Android*
+* **[Android FOSS](https://github.com/offa/android-foss)**, **[Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md)**, **[Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps)**, **[/r/u_Jackie7610](https://redd.it/jhtvn4)** or **[Cool FOSS](https://albertomosconi.github.io/foss-apps/)** / [GitHub](https://github.com/albertomosconi/foss-apps) - *Free and Open Source Apps for Android*
 * **[/r/ApkApps Megathread](https://apks.me/)** - *Updated list of modded APK's / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)*
 * [/r/SoftwarePiracy APK Index](https://rentry.co/SoftwarePirates-Megathread#apk-android-download-sites) - *List of APK Piracy Sites & Apps*
 * [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - *Add Direct DL Links to Google Play* 
@@ -488,7 +489,7 @@
 * [djjubeemedia](https://www.djjubeemedia.appboxes.co/Apks/) - *Modded Index* 
 * [PlatinMods](https://platinmods.com/) - *Modded / Private Game Servers* 
 * [Streamiza](https://t.me/streamiza) - *Modded / Telegram / [Discord](https://linktr.ee/Streamiza)*
-* [MODZILLA](https://t.me/Modzilla) - *Modded / Telegram*
+* [MODZILLA](https://t.me/Modzilla) - *Modded / Telegram / [Bot](https://t.me/ModzillaAPKBot)*
 * [MixRoot Mods](https://t.me/Mixrootmods) - *Modded / Telegram*
 * [Android Games and Apps](https://t.me/Apps_and_Games_Android) - *Modded / Telegram*
 * [Cracked Apps](https://t.me/crackedapks) - *Modded / Telegram* 
@@ -939,7 +940,7 @@ RSS Player*
 * [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) - *Automation Script Tool*
 * [Winno](https://apps.apple.com/us/app/winno-just-the-facts/id1460212743) - *News*
 * [MAPS.ME](https://maps.me/) - *Offline Maps / [GitHub](https://github.com/mapsme/omim)*
-* [Keepassium](https://keepassium.com/) or [Strongbox](https://strongboxsafe.com/) - *Password Manager*
+* [Keepassium](https://keepassium.com/), [Loccker](https://www.loccker.in/) or [Strongbox](https://strongboxsafe.com/) - *Password Manager*
 * [iSkin](https://iskin.tooliphone.net/), [Anemone](https://www.ios-repo-updates.com/repository/odyssey-repo/package/com.anemonetheming.anemone3/), [/r/iOSsetups](https://www.reddit.com/r/iOSsetups/ ), [/r/iOSthemes](https://www.reddit.com/r/iOSthemes/), [Moloko](https://apps.apple.com/us/app/moloko-themes-icons/id1534741213) or [SnowBoard](https://repo.dynastic.co/package/snowboard) - *iOS Themes* 
 * [Themify](https://apps.apple.com/us/app/themify-icon-themes-widgets/id1534126062) - *Icon Themes & Widgets*
 * [iCustom](https://icustom.tooliphone.net/) - *Make Custom Icons Without Shortcuts* 
