@@ -57,6 +57,7 @@
 * [XEMovies](https://xemovie.com/) - *Movies / TV*
 * [UniqueStream](https://uniquestream.vip/) - *Movies / TV / Anime*
 * [FZMovies](https://fzmovies.net/) - *Movies / [How to Use](https://imgur.com/a/EtLokxO)* 
+* [Videoflicks](https://videoflicks.net/) - *Movies*
 * [MP4Mania](https://mp4mania1.net/) - *Movies / [How to Use](https://imgur.com/a/EtLokxO)*
 * [FlixZone](https://flixzone.ga/) - *Movies / TV*
 * [MoviesForFree](https://movieforfree.co/) - *Movies / TV*
@@ -171,6 +172,7 @@
 * [YMovies](https://ymovies.vip/) - *Movies / TV / Anime*
 * [5Movies.pw](https://5movies.pw/) - *Movies / TV / Anime*
 * [FilarMovies](https://filarmovies.com/) - *Movies / TV*
+* [PubFilm](https://www.pubfilm.nl/) - *Movies / TV*
 * [Put-Locker](https://ww1.put-locker.com/) or [123moviesc](https://www.123moviesc.co/) - *Movies / TV / Anime* 
 * [YesMovies.id](https://yesmovies.id/) - *Movies / TV / Anime*
 * [Cinehub](https://cinehub.wtf/) - *Movies / TV / [Discord](https://discord.com/invite/ZqHsfSEkBE)* 
@@ -206,7 +208,7 @@
 * [LightCone](https://lightcone.org/en) - *Short / Experimental Films*
 * [Rohesia Hamilton Metcalfe](http://www.panix.com/~hamiltro/links/) - *Experimental Films*
 * [The Library of Congress](https://www.loc.gov/film-and-videos/) - *Movies / Short Films* 
-* [Total Short Films](http://www.totalshortfilms.com/), [Viddsee](https://www.viddsee.com/), [MAFF](https://www.maff.tv/), [Short of the Week](https://www.shortoftheweek.com/) or [Audpop](https://audpop.com/) - *Short Films* 
+* [Total Short Films](http://www.totalshortfilms.com/), [Viddsee](https://www.viddsee.com/), [MAFF](https://www.maff.tv/), [Short of the Week](https://www.shortoftheweek.com/), [Shortly](https://watch.shortly.film/) or [Audpop](https://audpop.com/) - *Short Films* 
 * [HuntleyArchives](https://www.huntleyarchives.com/) - *Rare / Forgotten Short Films* 
 * [FootageFarm](https://footagefarm.com/) - *Public Domain Films*
 * [Einthusan](https://einthusan.tv/) - *South Asian Film Archive*
@@ -264,6 +266,7 @@
 * [No-Laughing Batsu Game List](https://redd.it/2fgm9p) 
 * [cytube](https://cytu.be/) - *TV / Chat*
 * [ScrubTV](https://reboot.tube/), [2](https://hidden.pm/) - *TV / Chat*
+* [VaughnLive](https://vaughn.live/browse/all) - *TV / Chat*
 
 ***
 
