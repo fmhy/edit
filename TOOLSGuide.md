@@ -197,6 +197,7 @@
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) or [HandWrittner](https://handwrittner.com/?lang=en) - *Text to Handwriting Converter*
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - *Extract Text From Any Window*
 * [ExtractMailAddress](https://extractemailaddress.com/) - *Extract Email's, URLs & Numbers from Text*
+* [MakeSweet](https://makesweet.com/) - *Send 3D Messages*
 * [Cryptii](https://cryptii.com/) - *Modular Conversion, Encoding & Encryption*
 * [dCode](https://www.dcode.fr/en) - *Message Decoders*
 * [InfoEncrypt](https://www.infoencrypt.com/)  - *Encrypt / Decrypt Text* 
@@ -612,6 +613,11 @@
 * [HomeBank](http://homebank.free.fr/), [Money Manager EX](https://www.moneymanagerex.org/), [Ledger](https://www.ledger-cli.org/) or [gnucash](https://www.gnucash.org/) - *Financial Accounting Software*
 * [Stocksera](https://stocksera.pythonanywhere.com/) or [Screener](https://www.screener.in/) - *Stock Tracker*
 * [neostox](https://neostox.com/) - *Practice Stock Trading*
+* [Trading Talks](https://tradingtalks.org/) - *Business Courses*
+* [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
+* [ProCrack_Team](https://www.mediafire.com/folder/l4w8gcdcqsqtw/ProCrack_Team) - *Marketing Courses*
+* [Stock Trading Courses](https://mega.nz/folder/RNERkCIS#w0DcWggAasYz8vKl1jHkGw) - *Trading Courses*
+* [Traders Heaven](https://mega.nz/folder/QhYyTRRD#qNNIFuq3YGchXA1qS-Yqow) - *Trading Courses*
 
 ***
 
@@ -1097,6 +1103,7 @@
 * **[GooseMod](https://goosemod.com/)** - *Modifiable Discord Client / [Firefox](https://addons.mozilla.org/addon/goosemod-for-web/) / [Chrome](https://chrome.google.com/webstore/detail/goosemod-for-web/clgkdcccmbjmjdbdgcigpocfkkjeaeld)*
 * [Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists) - *Discover Servers / Bots*
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - *Discord Tools*
+* [Client-Modding-Guide](https://github.com/saintwithataint/Client-Modding-Guide/blob/main/PimpMyClient.md) - *Modify Your Discord Client*
 * [ArmCord](https://armcord.smartfridge.space/) - *Lightweight Discord Client / [GitHub](https://github.com/ArmCord/ArmCord)*
 * [Powercord](https://powercord.dev/) - *Anti-Telemetry Discord / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_powercord_tools)* 
 * [Dark-Discord](https://github.com/snappercord/Dark-Discord) - *Dark Theme for BetterDiscord & Powercord* 
@@ -1364,6 +1371,7 @@
 ## ▷ Twitch Tools
 
 * [Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers) - *Block Ads on Twitch*
+* [Twitch Databse](https://twitchdatabase.com/) - *Twitch Tools and Analytics*
 * [BetterTTV](https://betterttv.com/) or [FrankerFacez](https://www.frankerfacez.com/) - *Twitch Enhancement Extension*
 * [Stream Scheme](https://www.streamscheme.com/) - *Livestreaming Guides & Resources*
 * [Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f) - *Twitch Extension Index*
