@@ -172,6 +172,8 @@
 * [Litgu.ru](https://litgu.ru/) - *Books*
 * [British Library](https://www.bl.uk/) - *Books*
 * [EbookLobby](http://ebooklobby.com/) - *Books*
+* [BookFrom.net](https://www.bookfrom.net/) - *Books*
+* [Ebook-dl](https://ebook-dl.com/) - *Books / [Request](https://t.me/ebookdlrequest)*
 * [KingAuthor](https://kingauthor.net/) - *Books* 
 * [FreeEditorial](https://www.freeditorial.com/) - *Books*
 * [Zoboko](https://zoboko.com/) - *Books*
@@ -1137,6 +1139,7 @@
 * [PDF Drive](https://www.pdfdrive.com/request-a-book) - *Books*
 * [Sanet.st](https://sanet.st/community/t/requests) - *Books*
 * [TheMegaDrive](https://discord.gg/h2P5zsNMxZ) - *Books*
+* [ebookdlrequest](https://t.me/ebookdlrequest) - *Books*
 * [ebookhunter](https://www.ebookhunter.net/request-ebooks/) - *Books* 
 * [VK eBook Sharing Group](https://vk.com/club162811046) - *Books* 
 * [Light Novel Archive](https://t.me/lightnovelarchive_bot) - *Light Novels*
