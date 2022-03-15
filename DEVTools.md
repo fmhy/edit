@@ -66,6 +66,7 @@
 * [EbookFoundation Interactive Programming Tuts](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md) - *Interactive Programming Tutorials* 
 * [Exercism](https://exercism.org/) - *Programming Lessons*
 * [Nayuki](https://www.nayuki.io/) - *Programming Tutorials*
+* [ZetCode](https://zetcode.com/) - *Programming Tutorials*
 * [W3Schools Offline](https://github.com/Ja7ad/W3Schools) - *Programming Tutorials*
 * [Codings Point](https://www.codingspoint.com/) - *Programming Tutorials*
 * [Hackr.io](https://hackr.io/) - *Programing Tutorials*
@@ -161,6 +162,7 @@
 * [LearnCSSGrid](http://learncssgrid.com/) - *CSS Grid Guide*
 * [FlexBoxFroggy](https://flexboxfroggy.com/) - *CSS Learning Game*
 * [CSS Speedrun](https://css-speedrun.netlify.app/) - *Test Your CSS Skills*
+* [systemd-by-example](https://systemd-by-example.com/) - *Learn Systemd Interactively*
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - *Pre-Trained Language Model Tuning Papers*
 * [Learn to Make Netflix Clone](https://github.com/kubowania/netflix-clone-graphql-datastax)
@@ -236,7 +238,7 @@
 * [Balena](https://www.balena.io/) - *Build / Manage  IoT Groups*
 * [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) or [Bug Bounty](https://github.com/sehno/Bug-bounty) - *Bug Bounty Resources*
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - *CTF Resources*
-* [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - *API Index* 
+* [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - *API Index* 
 * [Insomnia](https://insomnia.rest/) - *API Client*
 * [APIKit](https://github.com/API-Security/APIKit) - *API Security Tools*
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - *Microservice Architecture Resource Index*
@@ -266,6 +268,7 @@
 * [OpenCog](https://opencog.org/) - *Artificial Intelligence Framework / [GitHub](https://github.com/opencog)*
 * [awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes) or [ML_Resources](https://github.com/tunguz/ML_Resources) - *Machine Learning Resources*
 * [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - *Machine Learning Framework*
+* [Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - *Open Source Data Engineering Projects*
 * [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - *Machine Learning Datasets*
 * [Kobra](https://kobra.dev/) - *Visual Programming Language for Machine Learning*
 * [DVC](https://dvc.org/) - *Machine Learning Version Control*
@@ -308,6 +311,7 @@
 * [Visual Mind AI](https://myraah.io/index.php/visualmind) - *Site Visual Score*
 * [Contrast Checker](https://contrast-checker.glitch.me/) - *Contrast Checker*
 * [Carbon Calculator](https://www.websitecarbon.com/) - *Estimate Sites Carbon Footprint*
+* [Statically](https://statically.io/) - *Load Websites Faster*
 * [Rest Test Test](http://resttesttest.com/) - *Test REST / CORS Services*
 * [HeidiSQL](https://www.heidisql.com/) - *SQL Manager*
 * [httpbin](https://httpbin.org/) - *HTTP Request & Response Service*
@@ -693,6 +697,7 @@
 * [git.io](https://git.io/) - *GitHub URL Shortener*
 * [up-for-grabs](https://up-for-grabs.net/) - *Curated List of Tasks for New Contributes*
 * [GitHub-Userscripts](https://github.com/Mottie/GitHub-userscripts) - *GitHub Userscripts*
+* [Awesome Actions](https://github.com/sdras/awesome-actions) - *Curated List of Github Actions*
 * [GitKraken](https://www.gitkraken.com/) or [Sourcetree](https://www.sourcetreeapp.com/) - *Git GUI*
 * [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - *Git TUI*
 * [Codeberg](https://codeberg.org/), [Giters](https://www.giters.com/) or [GitGud](https://gitgud.io/) - *Git Hosting*
@@ -759,7 +764,8 @@
 * [YQ](https://github.com/mikefarah/yq) - *Portable YAML Processor*
 * [yoctocolors](https://github.com/sindresorhus/yoctocolors) - *Command Line Coloring Package*
 * [open](https://github.com/sindresorhus/open) - *Open URLs, Files, Executables in CLI or Scripts*
-
+* [Hopa](https://github.com/krasimir/hopa) - *Zero config CLI for running JavaScript/TypeScript*
+ 
 ***
 
 ## ▷ Color Schemes
@@ -806,6 +812,7 @@
 * [CarlosAG](https://www.carlosag.net/) - *Coding Tools*
 * [Telosys](http://www.telosys.org/) - *Code Generator*
 * [OneLang IDE](https://ide.onelang.io/) - *Convert Code to Multiple Languages*
+* [Not a Bug](https://notabug.org/) - *Code Hosting*
 * [Autosaved](https://github.com/nikochiko/autosaved) - *Autosave Code / [GitHub](https://github.com/tkellogg/dura)*
 * [Tasuku](https://github.com/privatenumber/tasuku) - *Node.js Task Runner*
 * [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - *Source Code Converters*
@@ -858,7 +865,7 @@
 * [asdf](https://asdf-vm.com/) - *Multi-Runtime Management CLI*
 * [substitute](https://github.com/comex/substitute) - *Free Runtime Modification Library*
 * [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) - *Machine Learning Art Resource Index* 
-* [Sourcegraph](https://sourcegraph.com/) - *Universal Code Search*
+* [Sourcegraph](https://sourcegraph.com/) or [Ag](https://geoff.greer.fm/ag/) / [GitHub](https://github.com/ggreer/the_silver_searcher) - *Code Searching*
 * [searchcode](http://searchcode.com/) or [PublicWWW](http://publicwww.com/) - *Source Code Search*
 * [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://www.code-projects.org/), [Codastro](https://codeastro.com/) or [ItSourceCode](https://www.itsourcecode.com/) - *Source Code Projects*
 * [SciTE](https://www.scintilla.org/SciTE.html) - *Source Code Editor for Win32 and X*
