@@ -1630,6 +1630,11 @@ Portuguese
 
 * [CocCoc](https://coccoc.com/search) - *Search*
 * [BizTime](https://biztime.com.vn/), [HahaLolo](https://www.hahalolo.com/) or [Lotus](https://lotus.vn/) - *Social Network*
+* [SapTet](https://www.saptet.com/), [DonTet](http://dontet.online/) - *New Year Countdown*
+* [LichAm](https://licham.net/), [XemLichAm](https://www.xemlicham.com/), [LichAmHomNay](https://licham.com.vn/), - *Lunar Calendar*
+* [TraCuuThanSoHoc](https://tracuuthansohoc.com/), [ThanSoHocOnline](http://thansohoconline.com/), [ThanSoVietnam](https://thansovietnam.com/), - *Numerology*
+* [MayTinhOnline](https://maytinhonline.net/), [2](https://maytinhonline.com/), [3](https://may-tinh.online/), - *Calculator*
+* [BusMap](https://busmap.vn/) - *Bus Journey*
 * [PhuDeViet](http://phudeviet.org/) - *Subtitles*
 * [GameVui](https://gamevui.vn/), [Game24h](https://game24h.vn/), [ChoiGame24](https://choigame24.com/) or [Game247](https://game247.vn/) - *Browser Games*
 * [KiTuHay](https://kituhay.com/), [Symbols](https://symbols.vn/), [KTDB](https://ktdb.vn/) or [KiTuAz](https://kituaz.com/) - *Special Characters*
@@ -1639,6 +1644,8 @@ Portuguese
 * [VNTyping](https://vntyping.com/), [VietnameseTyping](https://vietnamesetyping.com/) or [VNKeys](http://www.vnkeys.net/) - *Vietnamese Typing*
 * [Mail1s](https://mail1s.com/) - *Temp Email*
 * [BeeCost](https://beecost.vn/) - *E-commerce Price Tracker*
+* [BangCuuChuong](https://bangcuuchuong.com/) - *Multiplication Table*
+* [FBVN](https://fbvn.org/tien-ich/loc-ban-be-khong-tuong-tac/) - *Friends Filter for Facebook*
 * [123Note](https://123note.net/), [Notepad](https://notepad.vn/), [GhiChu](https://ghichu.vn/) - *Notepad Tools*
 * [Random](https://random.com.vn/), [QuaySo](https://quayso.vn/) or [NgauNhien](https://ngaunhien.vn/) - *Random Tools*
 * [FPT.AI](https://fpt.ai/vi/tts) or [DauDau](https://www.daudau.tk/) - *Text to Speech*
