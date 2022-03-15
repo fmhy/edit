@@ -212,11 +212,6 @@
 * [Download Online Tutorials Free](https://download.howtofree.org/) - *Udemy Courses* 
 * [Udemy Free Course](https://t.me/udemy_free_cource) - *Udemy Courses* 
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - *Udemy Downloader*
-* [666GB Devil Web App](https://mega.nz/folder/7HRiUb7Q#xXXnIdhGxuPwxtz99BhPpg) - *Web App Development Courses*
-* [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
-* [ProCrack_Team](https://www.mediafire.com/folder/l4w8gcdcqsqtw/ProCrack_Team) - *Marketing Courses*
-* [Stock Trading Courses](https://mega.nz/folder/RNERkCIS#w0DcWggAasYz8vKl1jHkGw) - *Trading Courses*
-* [Traders Heaven](https://mega.nz/folder/QhYyTRRD#qNNIFuq3YGchXA1qS-Yqow) - *Trading Courses*
 * [Udemy - Cybersecurity Collection](https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD) - *Cyber Security Courses*
 * [@H4CKT3R](https://mega.nz/folder/w8VHhSaY#fsM0AdXn8a3bRljWfJSdVg) - *Cyber Security Courses*
 * [500GB+ Cyber Security](https://mega.nz/folder/ZLB3CSwK#EXp6VnwcAEI1WE8xVwZZuQ) - *Cyber Security Courses*
