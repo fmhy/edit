@@ -47,6 +47,7 @@
 * [Litgu.ru](https://litgu.ru/)
 * [ListentoEnglishStory](https://www.youtube.com/c/ListentoEnglishStoryandLearnEnglishQuickly/) 
 * [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - *Classic Audiobooks*
+* [Storynory](https://www.storynory.com/) - *Children Audio Stories*
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - *Poetry*
 * [Blinkist Free Daily](https://t.me/blinkistfree) - *Self-Help Audiobooks*
 * [Audiobooks Unleashed](https://audiobooksunleashed.com/) - *Audiobook Codes*
@@ -424,6 +425,7 @@
 * [vdoc.pub](https://vdoc.pub/)
 * [Lit GFax](https://lit.gfax.ch/)
 * [EDUBBookPDF](https://edubookpdf.com/)
+* [OpenED](https://open.bccampus.ca/)
 * [Readings](https://drive.google.com/drive/u/0/mobile/folders/0B5KDwL1Qi6zUWFlfbU8yTjU4WUE?usp=drive_open)
 * [StruggleBuddies 4.0](https://mega.nz/folder/A15gybjB#s_vaCKHVR35X704ot2g7LQ)
 * [pdfs - books](https://drive.google.com/drive/u/0/mobile/folders/0B1DQUsG9YxIXflhQejJqcmgwbzgtcjQzbFlFU3BNeVJES1JwTW9hRmEwa0k4dUNVZEJzQzg)
@@ -467,14 +469,13 @@
 * [Clockwise Library](http://clockwise3rldkgu.onion/) - *Art / Science / .onion* 
 * [IntechOpen](https://www.intechopen.com/) - *Science*
 * [Magazines Scientific](http://scientificmagazines.top/) - *Science Magazines*
-* [ApressOpen](https://www.apress.com/us/apress-open/apressopen-titles) - *Computer Science* 
-* [Veed](http://mqala.co.za/veed/) - *Computer Science*
 * [Physics forums](https://www.physicsforums.com/) - *Forum / Physics / Science* 
 * [Naked Scientists](https://www.thenakedscientists.com/) - *Podcasts / Shows / Science* 
 * [Science Forums](https://www.scienceforums.net/) - *Forums / Science* 
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://drive.google.com/drive/folders/0B1ySOrPxOWJmZGlNTkEtQnlEM3M) - *Books / Notes / Astronomy*
 * [phys](https://phys.org/) - *Latest / News / Article / Physics* 
 * [RealNotComplex](https://realnotcomplex.com/) - *Math / Books*
+* [Institute of Mathematics](https://aimath.org/textbooks/) - *Math / Books*
 * [Engineering Books PDF](https://engineeringbookspdf.com/) - *Engineering*
 * [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial) - *Reverse Engineering Course* 
 * [EasyEngineering](https://easyengineering.net/) - *Engineering*
@@ -523,7 +524,6 @@
 * [/r/econbooks](https://reddit.com/r/econbooks)
 * [/r/mathbooks](https://reddit.com/r/mathbooks)
 * [/r/Scholar](https://reddit.com/r/Scholar)
-
 
 ***
 
@@ -581,6 +581,9 @@
 * [EbookFoundation Programming Books](https://github.com/EbookFoundation/free-programming-books/) 
 * [Free-Python-Books](https://github.com/oddsun/Free-Python-Books)
 * [free-python-books](https://github.com/pamoroso/free-python-books)
+* [ApressOpen](https://www.apress.com/us/apress-open/apressopen-titles) - *Computer Science* 
+* [Veed](http://mqala.co.za/veed/) - *Computer Science*
+* [AllITBooks](https://allitbooks.net/) - *Computer Science*
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - *Python Data Science / [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)*
 * [Go Books](https://github.com/dariubs/GoBooks) - *GoLang Books*
 * [JSBooks](https://jsbooks.revolunet.com/) - *Javascript Books*
@@ -643,9 +646,10 @@
 * [OpenMD](https://openmd.com/) - *Medical Journals*
 * [Free Medical Journals](http://www.freemedicaljournals.com/) - *Medical Journals*
 * [SSRN](https://www.ssrn.com/) - *Early Stage Research Papers* 
-* [Open Knowledge Maps](https://openknowledgemaps.org/) - *Research Paper Search* 
-* [Internet Archive Scholar](https://scholar.archive.org/) - *Research Paper Search*
-* [Open Access Library](https://www.oalib.com/) - *Research Paper Search*
+* [Open Knowledge Maps](https://openknowledgemaps.org/) - *Research Papers* 
+* [Internet Archive Scholar](https://scholar.archive.org/) - *Research Papers*
+* [Open Access Library](https://www.oalib.com/) - *Research Papers*
+* [Association for learning Technology](https://repository.alt.ac.uk/view/subjects/) - *Research Papers*
 * [PsyArXiv](https://psyarxiv.com/) - *Articles / Psychological Sciences* 
 * [repo.zenk](https://repo.zenk-security.com/) - *Documents*
 * [docplayer](https://docplayer.net/) - *Documents* 
@@ -871,6 +875,7 @@
 * [MangaEffect](https://mangaeffect.com/)
 * [Manga347](https://manga347.com/)
 * [Manga Home ](http://www.mangahome.com/)
+* [MangaKik](https://mangakik.net/) 
 * [MangaDig](https://mangadig.com/)
 * [Mangaski](https://www.mangasaki.com/)
 * [KissManga](https://kissmanga.in/)
@@ -1085,7 +1090,8 @@
 * [Literal](https://literal.club/) - *Books*
 * [BookWyrm](https://joinbookwyrm.com/) - *Books*
 * [LibraryThings](https://www.librarything.com/) - *Books*
-* [Book Tracker UI Comparisons](https://imgur.com/a/CqcJIMv)
+* [CandlApp](https://www.candlapp.com/) - *Books*
+* [Anobii](https://www.anobii.com/) - *Books*
 * [Reddit Reads](https://www.redditreads.com/) - *Book Recommendations*
 * [What Should I Read Next?](https://www.whatshouldireadnext.com/) - *Book Recommendations*
 * [GNOD](https://www.gnod.com/) - *Book Recommendations*
