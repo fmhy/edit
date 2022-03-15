@@ -359,6 +359,7 @@
 * [This Person Does Not Exist](https://www.thispersondoesnotexist.com/) - *People That Don't Exist*
 * [This Artwork Does Not Exist](https://thisartworkdoesnotexist.com/) - *Art That Doesn't Exist*
 * [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) - *Words That Don't Exist* 
+* [These Lyrics Do Not Exist](https://www.theselyricsdonotexist.com/) - *Lyrics That Don't Exist*
 * [This Wojak Does Not Exist](https://thiswojakdoesnotexist.com/) - *Wojak's That Don't Exist* 
 * [This Cat Does Not Exist](https://thiscatdoesnotexist.com/) or [NotRealCats](https://notrealcats.com/) - *Cats That Don't Exist*
 * [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/) - *Anime Characters That Don't Exist* 
