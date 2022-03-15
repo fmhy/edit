@@ -137,7 +137,7 @@
 * [downloadly](https://downloadly.ir/) - *Courses*
 * [Coursed](https://coursed.co/) - *Courses*
 * [11k+ Courses SpreadSheet](https://docs.google.com/spreadsheets/d/1vazMlMWnI7NxVZcfgpABzCFFEClMjZYUgDk40pdPpTQ/) - *Courses*
-* [Course Megadrives](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA), [2](https://mega.nz/folder/pAl0wRKK#FIZzbYjkT_09qRT5BS2GXQ), [3](https://mega.nz/folder/4t4hhCTa#zIiMZBRVAibATtHxwQ2b_w), [4](https://mega.nz/folder/F9RSWBaK#Nq6DUyPTk10EdjLQ5CWFcQ), [5](https://mega.nz/folder/shpz0ACQ#tdyaQi9HcVM-oKH9NxVewA), [6](https://mega.nz/folder/Y11ghIRC#LPwRFJESUsZ29ioIYex4hw), [7](https://mega.nz/folder/yawWzAKD#tPy0NFBa38xoNZMhXrXn0g), [8](https://mega.nz/folder/5F9WzJ7a#9UdqphaNXS13TTJAgdN15w), [9](https://mega.nz/folder/iIsEkb4B#4tdNHUYTKTJDeIxI2FZE3A), [10](https://mega.nz/folder/Ab4HnABZ#gLR_-deauS6XBfWyouVf-Q), [11](https://mega.nz/folder/B9B1iIZL#1GYxeVaTj3prxSR8kDyRyQ), [12](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA/folder/cupEDYzQ), [13](https://mega.nz/folder/lm5lgQxT#Qh52YqE0-kwP_-eWohMBbw) - *Courses*
+* [Course Megadrives](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA), [2](https://mega.nz/folder/pAl0wRKK#FIZzbYjkT_09qRT5BS2GXQ), [3](https://mega.nz/folder/4t4hhCTa#zIiMZBRVAibATtHxwQ2b_w), [4](https://mega.nz/folder/F9RSWBaK#Nq6DUyPTk10EdjLQ5CWFcQ), [5](https://mega.nz/folder/shpz0ACQ#tdyaQi9HcVM-oKH9NxVewA), [6](https://mega.nz/folder/Y11ghIRC#LPwRFJESUsZ29ioIYex4hw), [7](https://mega.nz/folder/yawWzAKD#tPy0NFBa38xoNZMhXrXn0g), [8](https://mega.nz/folder/5F9WzJ7a#9UdqphaNXS13TTJAgdN15w), [9](https://mega.nz/folder/iIsEkb4B#4tdNHUYTKTJDeIxI2FZE3A), [10](https://mega.nz/folder/Ab4HnABZ#gLR_-deauS6XBfWyouVf-Q), [11](https://mega.nz/folder/B9B1iIZL#1GYxeVaTj3prxSR8kDyRyQ), [12](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA/folder/cupEDYzQ), [13](https://mega.nz/folder/lm5lgQxT#Qh52YqE0-kwP_-eWohMBbw), [14](https://mega.nz/folder/yu4S3BJQ#bhtA-OIeQ2bnuM2bPcU2wQ/folder/Hr4GXT4L) - *Courses*
 * [CoursesDaddy](http://coursesdaddy.com/) - *Courses* 
 * [Course Drive](https://coursedrive.org/) - *Courses* 
 * [Course Doc](https://docs.google.com/spreadsheets/d/1vazMlMWnI7NxVZcfgpABzCFFEClMjZYUgDk40pdPpTQ/edit#gid=0) - *Courses*
@@ -663,14 +663,7 @@
 * [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/) or [Sim Flow](https://sim-flow.com/) - *Fluid Dynamics Simulators*
 * [SimScale](https://www.simscale.com/) or [CFDTool](https://www.cfdtool.com/) - *Fluid Dynamics & Heat Transfer Simulator*
 * [Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php) - *Physics Tools* 
-* [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - *Globe of Ancient Earth*
-* [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
-* [Loc Maps](https://www.loc.gov/collections/general-maps/), [EuraAtlas](https://euratlas.com/), [GeoGarage](http://rumsey.geogarage.com/index.html), [OpenHistoricalMap](https://www.openhistoricalmap.org/), [Digital Collection Maps](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division) or [Cronobook](https://cronobook.com/) - *Historical Maps*
-* [Geacron](http://geacron.com/) - *World History Timeline Map*
-* [Ancestry Images](http://www.ancestryimages.com/) or [Pastvu](https://pastvu.com/) - *Historical Photo & Map Archive*
-* [American Panorama](https://dsl.richmond.edu/panorama/) - *Interactive US Historical Maps*
-* [Theban Mapping Project](https://thebanmappingproject.com/) - *Valley of the Kings Map* 
-* [Historic Borders](https://historicborders.app/) - *Historic Borders Map*
+* [Modern / Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps) - *Map Resources*
 * [Histography](https://histography.io/) - *History Timeline*
 * [Unequal Scenes](https://unequalscenes.com/) - *Scenes of Inequality Around the World*
 * [Eylenburg](https://eylenburg.github.io/) - *Infographs, Maps & Papers*
@@ -680,6 +673,7 @@
 * [Seeing Theory](https://seeing-theory.brown.edu/) or [Stat Trek](https://stattrek.com/) - *Statistics & Probability Tutorials* 
 * [GaryChamberlainLectureNotes](https://github.com/paulgp/GaryChamberlainLectureNotes) - *Econometrics Lecture Notes*
 * [The Engineering Toolbox](https://www.engineeringtoolbox.com/) - *Engineering Tools and Resources*
+* [Awesome Mecheng](https://github.com/m2n037/awesome-mecheng) - *Mechanical Engineering Resources*
 * [Sanfoundry](https://www.sanfoundry.com/) - *Programming & Engineering Questions & Answers*
 * [CESDB](https://www.cesdb.com/) - *Civil Engineering Software*
 * [How a Car Works](https://www.howacarworks.com/) - *Car Mechanics / Automotive Engineering Guides* 
