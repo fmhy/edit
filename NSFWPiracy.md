@@ -309,6 +309,7 @@
 * [NameThatPorn](https://namethatporn.com/) - *Porn Identification Tool*
 * [ZENRA](https://www.zenra.net/free-jav-reverse-image-search) - *Reverse JAV Image Search*
 * [Chaturbate Enhanced](https://openuserjs.org/scripts/stixmaster/Chaturbate_Enhanced) or [Chaturbate Clean](https://openuserjs.org/scripts/ladroop/Chaturbate_Clean) - *Improve Chaturbate Functionality*
+* [Bypass Age Verification](https://greasyfork.org/en/scripts/393525-bypass-age-verification-deviantart-com) - *Bypass Deviantart Age Restriction*
 * [Sleazy Fork](https://sleazyfork.org/) - *Adult User Scripts*
 * [Powrcord Sauce](https://github.com/SammCheese/powercord-sauce) - *Powercord Sauce Plugin*
 * [asciiplayer](https://gist.github.com/girst/5834f8e8ba92b42c2c61) - *PornHub ASCII Player*
