@@ -175,6 +175,7 @@
 * [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) - *Grub Repair Guide for Linux Systems*
 * [GrubCustomizer](https://launchpad.net/grub-customizer) - *Customize Grub*
 * [ss64 Bash](https://ss64.com/bash/) - *Linux Bash Commands*
+* [Helmanual](https://helpmanual.io/) - *Unix Commands*
 * [bashrcgenerator](http://bashrcgenerator.com/) - *.bashrc Generator*
 * [Autokey](https://github.com/autokey/autokey) - *Linux Automation Utility*
 * [The Linux Kernel Archives](https://kernel.org/) - *Linux Kernel Archive*
