@@ -2810,7 +2810,7 @@ Good for finding classic, obscure & short films.
 
 #### Youtube Android Apps
 
-[Vanced](https://vancedapp.com/), [VancedMicroG](https://github.com/YTVanced/VancedMicroG), [Skytube (no login needed)](https://skytube-app.com/) / [GitHub](https://github.com/SkyTubeTeam/SkyTube/), [NewPipe](https://newpipe.net/), [Newpipe w/ Sponsorblock](https://github.com/polymorphicshade/NewPipe)
+[Skytube (no login needed)](https://skytube-app.com/) / [GitHub](https://github.com/SkyTubeTeam/SkyTube/), [NewPipe](https://newpipe.net/), [Newpipe w/ Sponsorblock](https://github.com/polymorphicshade/NewPipe)
 
 ***
 
