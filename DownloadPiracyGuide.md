@@ -323,6 +323,7 @@
 * [PRVSoft](https://www.prvsoft.com/)
 * [WorkinTool](https://www.workintool.com/)
 * [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html) 
+* [Awesome Free Software](https://github.com/johnjago/awesome-free-software)
 * [OldVersion](http://www.oldversion.com/) - *Old Versions of Software* 
 * [Nirsoft](https://www.nirsoft.net/) - *Windows Software* 
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software*  
@@ -335,6 +336,7 @@
 * [MSDN](https://the-eye.eu/public/MSDN/) - *Microsoft Developer Network Software* 
 * [WinWorldPC](https://winworldpc.com/) - *Abandonware / Operating Systems* 
 * [VETUSWARE](https://vetusware.com/) - *Abandonware / Operating Systems / Games*
+* [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - *Self-Hosted Software Index* 
 * [The Vintage Software Collection](https://archive.org/details/vintagesoftware) or [SCiZE's Classic Warez Collection](https://scenelist.org/) - *Retro Software*
 * [Portable Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portable_apps) - *Portable Apps for USB / SD / External Storage*
 * [BelowAverage](https://belowaverage.org/) - *I.T. Software*
