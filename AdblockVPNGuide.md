@@ -361,7 +361,7 @@
 * [WhatsMyUA?](https://www.whatsmyua.info/) or [WhatIsMyBrowser](https://www.whatismybrowser.com/detect/what-is-my-user-agent) - *User-Agent Detection* 
 * [Pribot](https://pribot.org/) - *Automated Analysis for Privacy Policies* 
 * [Google Takeout](https://takeout.google.com/) - *Google Data Request*
-* [de-google](https://www.reddit.com/r/privacy/wiki/de-google), [De-google-ify](https://degooglisons-internet.org/en/), [degoogle](https://degoogle.jmoore.dev/) / [GitHub](https://github.com/tycrek/degoogle) or [No More Google](https://nomoregoogle.com/) - *Google App Alternatives*
+* [de-google](https://www.reddit.com/r/privacy/wiki/de-google), [De-google-ify](https://degooglisons-internet.org/en/), [degoogle](https://degoogle.jmoore.dev/) / [GitHub](https://github.com/tycrek/degoogle), [Google Alt List](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html) or [No More Google](https://nomoregoogle.com/) - *Google App Alternatives*
 * [no-google](https://github.com/nickspaargaren/no-google) - *Block All Google Services* 
 * [Nixory](http://nixory.sourceforge.net/) - *Antispyware Browser Tool* 
 * [Alternative Internet](https://redecentralize.github.io/alternative-internet/) - *Decentralization Networks*
@@ -505,6 +505,7 @@
 * [HideMe](https://hide.me/) - *Free VPN*
 * [Calyx VPN](https://calyx.net/) - *Free VPN*
 * [Leap VPN](https://leap.se/) - *Free VPN*
+* [Atlas VPN](https://atlasvpn.com/free-vpn) - *Free VPN*
 * [Clash](https://github.com/Fndroid/clash_for_windows_pkg) - *Free VPN / [Profiles](https://rentry.co/2q3rn)*
 * [Portals](https://www.portals.network/) - *dVPN*
 * [FreePN](https://www.freepn.org/) - *Free Open Source P2P VPN* 
@@ -537,6 +538,7 @@
 * [Tsunami](https://github.com/FogNetwork/Tsunami) 
 * [Shadowsocks](https://shadowsocks.org/en/index.html) - *[Free Servers](https://github.com/ruanfei/ShadowsocksRRShare), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows)*
 * [FilterBypass](https://www.filterbypass.me/) 
+* [ Hola Proxy](https://github.com/Snawoot/hola-proxy)
 * [Privoxy](http://www.privoxy.org/) - *[Docker Build](https://github.com/binhex/arch-privoxyvpn)*
 * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - *Proxy Manager*
 * [FoxyProxy](https://getfoxyproxy.org/) or [Snowflake](https://snowflake.torproject.org/) - *Proxy browser extension*
