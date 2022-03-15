@@ -514,7 +514,7 @@
 * [YADG](https://yadg.cc/) - *Scrape / Render Music via Templates / [API](https://yadg.cc/api/)*
 * [Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_to_speech) - *Text to Speech Sites / Apps*
 * [Clash](https://clash.me/) or [FakeYou](https://fakeyou.com/) - *Media Based Text to Speech* 
-* [Audiogrep](http://antiboredom.github.io/audiogrep/) or [mp4grep](https://github.com/o-oconnell/mp4grep) - *Audio Transcribing / [GitHub](https://github.com/antiboredom/audiogrep)*
+* [Audiogrep](http://antiboredom.github.io/audiogrep/), [Tune Transcriber](https://www.tunetranscriber.com/) or [mp4grep](https://github.com/o-oconnell/mp4grep) - *Audio Transcribing / [GitHub](https://github.com/antiboredom/audiogrep)*
 * [FastHub](https://fasthub.net/) - *Text to Speech Translation Tool*
 * [Praat](https://www.fon.hum.uva.nl/praat/) - *Analyze, Synthesize & Manipulate Speech / [GitHub](https://github.com/praat/praat)*
 * [Splitter](https://www.splitter.ai/) or [melody ml](https://melody.ml/) - *Separate voice from instrumentals*
@@ -611,6 +611,7 @@
 * [HLDMSIYS?](http://howlongdoesmarijuanastayinyoursystem.net/) - *Drug Effect Duration / Testing Information*
 * [HomeBank](http://homebank.free.fr/), [Money Manager EX](https://www.moneymanagerex.org/), [Ledger](https://www.ledger-cli.org/) or [gnucash](https://www.gnucash.org/) - *Financial Accounting Software*
 * [Stocksera](https://stocksera.pythonanywhere.com/) or [Screener](https://www.screener.in/) - *Stock Tracker*
+* [neostox](https://neostox.com/) - *Practice Stock Trading*
 
 ***
 
@@ -703,6 +704,7 @@
 * [Cirlos](https://www.cirlos.net/) or [WeeChat](https://weechat.org/) - *Chat App*
 * [KiwiIRC](https://kiwiirc.com/) - *WebIRC Client*
 * [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [PeerLinks](https://peerlinks.io/) or [Bitchx](http://bitchx.sourceforge.net/) - *IRC Client*
+* [irc2go](https://en.irc2go.com/) - *Browse IRC Chat Rooms*
 * [LAN Messenger](https://lanmessenger.github.io/) - *FOSS LAN Messenger / [GitHub](https://github.com/lanmessenger/lanmessenger)*
 * [Cabal](https://cabal.chat/) - *P2P Chat / [GitHub](https://github.com/cabal-club)*
 * [Slink](https://slink.chat/) - *Aim Inspired Chat Client*
@@ -1401,8 +1403,8 @@
 * **[TweetBeaver](https://tweetbeaver.com/)** or [TwopCharts](https://twopcharts.com/) - *Multiple Twitter Tools* 
 * [/r/Twitter](https://reddit.com/r/Twitter) - *Twitter Subreddit*
 * [Awesome Twitter Bots](https://github.com/amandeepmittal/awesome-twitter-bots) - *Twitter Bot Index*
-* [Minimal Twitter](https://www.wang.sh/minimal-twitter) - *Minimal Twitter Themes*
-* [Tweak New Twitter](https://github.com/insin/tweak-new-twitter) - *Twitter Enhancement Extension*
+* [Minimal Twitter](https://www.wang.sh/minimal-twitter) - *Minimal Twitter Themes*1
+* [Tweak New Twitter](https://github.com/insin/tweak-new-twitter) or [twttr](https://twttr.sreecha.me/) / [GitHub](https://github.com/sreechar/twttr) - *Twitter Enhancement Extension*
 * [Twitonomy](https://www.twitonomy.com/) or [Affinitweet](https://affinitweet.com/) - *Twitter Dashboard / Analytics* 
 * [TweetDeck](https://tweetdeck.twitter.com/) / [Enhance](https://better.tw/) or [Tweeten](https://tweetenapp.com/) - *Twitter Dashboard*
 * [TweetDuck](https://github.com/chylex/TweetDuck) - *Twitter Desktop Client*
@@ -1521,7 +1523,7 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [WUReset](https://wureset.com/) - *Reset Windows Update Components*
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - *Enable Windows Insider without Account*
 * [XTR Toolbox](https://zeeex.github.io/XTR-Toolbox/) - *Windows Tweaking Tool [GitHub](https://github.com/Zeeex/XTR-Toolbox/)*
-* [Couleur Tweak Tips](http://discord.gg/CTT) or [TweakCentral](https://tweakcentral.net/) - *Windows Tweaks & Tips*
+* [Couleur Tweak Tips](http://discord.gg/CTT), [Redwan Tweaks](https://discord.gg/4RhQurkFBZ) or [TweakCentral](https://tweakcentral.net/) - *Windows Tweaks & Tips*
 * [Redwan's Guide to Guides](https://docs.google.com/document/d/1hZeQkyDe-M9-zNy2eB-Koc3iOpN5-5KxkpvjQaNK60g/edit) - *Windows Tweaking Guides*
 * [Awesome Scripts](https://github.com/codePerfectPlus/awesomeScripts), [Batch-Script-Collection](https://github.com/happy05dz/Batch-Script-Collection) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - *Useful System Scripts*
 * [SmartWindows](https://smartwindows.app/) - *Create / Restore Windows Profiles* 
@@ -1723,6 +1725,7 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install), [dank.d
 * [Depix](https://github.com/beurtschipper/Depix) - *Recover Passwords from Pixelized Screenshots* 
 * [hashcat](https://hashcat.net/hashcat/) or [BIOS-PW](https://bios-pw.org/) - *System Password Recovery Tools*
 * [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - *Change Java Version*
+* [gter](https://github.com/raoofha/gter) - *Embed a GUI app Inside a Terminal Window*
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - *Terminal Frameworks, Plugins & Resources* 
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/) or [MobaXterm](https://mobaxterm.mobatek.net/) - *Alternative Terminal* 
 * [Gradient Terminal](https://github.com/aurora-0025/gradient-terminal) - *Display Terminal Output as Gradient*
