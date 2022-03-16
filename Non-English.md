@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/fMfpo0t.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/bWIJHK3.png)** - *For mobile users*
 
 ***
 ***
@@ -45,6 +45,7 @@
 * [dotCima](https://s2.dotcima.com/) - *Movies / TV*
 * [LODYNET](https://ww.lodynet.cam/) - *Movies / TV*
 * [Fushaar](https://www.fushaar.com/) - *Movies / TV*
+* [Arabseed](https://eg1.arabseed.ink/) - *Movies / TV*
 * [mycima](https://mycima.video/) - *Movies / TV* 
 * [animebdk](https://animebdk.blogspot.com/) - *Anime*
 * [anime4up](https://www.anime4up.com/) - *Anime*
@@ -180,6 +181,7 @@
 * [Fun.tv](http://www.fun.tv/) - *Movies / TV*
 * [MeWatch](https://www.mewatch.sg/) - *Movies / TV*
 * [KokoTV](https://kokotv.me/) - *Drama*
+* [Duboku](https://www.duboku.tv/) - *TV / Cartoons*
 * [qiqi8](http://qiqi8.net/) - *Anime*
 * [AGE動漫](https://agefans.tw/) - *Anime*
 * [music.163](https://music.163.com/) - *Music*
@@ -769,6 +771,16 @@ French / General Torrent Tracker
 
 * [MangaViewAndroid](https://github.com/junheah/MangaViewAndroid) - *Manga / Android*
 * [Dict.Naver](https://dict.naver.com/) - *Korean Dictionary*
+
+***
+
+# ► Malaysian 
+
+* [Lowyat](https://forum.lowyat.net/) - *Tech Forum*
+
+## ▷ Downloading
+
+* [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - *Audio / Telegram*
 
 ***
 
@@ -1570,6 +1582,15 @@ Portuguese
 
 ***
 
+# ► Telugu
+
+## ▷ Downloading
+
+* [EdithSeedbox](https://packs.edithseedbox.com/0:/) - *Movies / TV / [Login](https://pastebin.com/sBLwyM6Z)*
+* [Naadub](https://www.naadub.com/) - *TMovies*
+
+***
+
 # ► Thai 
 
 ## ▷ Downloading
@@ -1853,7 +1874,6 @@ Portuguese
 * [KlikFilm](https://klikfilm.org/) - *Serbian / Streaming / Movies / TV*
 * [filma24](https://www.filma24.ai/) - *Albanian / Streaming / Movies / TV*
 * [Segoideas](https://segoideas.com/) - *Taiwanese / Streaming / TV*
-* [EdithSeedbox](https://packs.edithseedbox.com/0:/) - *Telugu / Download / Movies / TV / [Login](https://pastebin.com/sBLwyM6Z)*
 * [lupiteam](https://lupiteam.net/) - *Corsican / Manga*
 * [ittefaq](https://www.ittefaq.com.bd/), [dainikamadershomoy](https://www.dainikamadershomoy.com/), [kalerkantho](https://www.kalerkantho.com/), [24livenewspaper](https://www.bangla.24livenewspaper.com/), [samakal](https://samakal.com/) or [prothomalo](https://www.prothomalo.com/) - *Bangla Newspapers*
 * [DJPunjab](https://djpunjab.is/ ) - *Punjabi / Download / MP3*
@@ -1862,7 +1882,6 @@ Portuguese
 * [JavaLibre](https://javalibre.com.ua/) - *Ukrainian / Books*
 * [WiiDatabase](https://wiidatabase.de/) - *Deutsch / Nintendo Homebrew*
 * [KannadaCine](https://www.kannadacine.com/) - *Kannada / Streaming / Movies*
-* [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - *Malaysian / Audio / Telegram*
 * [PDFlibrary](https://t.me/PDFlibrary) - *Malayalam / Books / Telegram*
 * [9jaflaver](https://9jaflaver.com/) - *Nigerian / MP3*
 * [zoom.lk](https://zoom.lk/) - *Sinhalese / Subtitles*
