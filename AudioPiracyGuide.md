@@ -360,6 +360,7 @@
 * [Vaporwave Library Project](https://vaporwave.ivan.moe/) - *Vaporwave*
 * [loa2k](https://loa2k.neocities.org/) - *Vaporwave*
 * [nu guide](https://nuvaporwave.neocities.org/mirrors.html) - *Vaporwave*
+* [Vaporware.ivan](https://vaporwave.ivan.moe/list/) - *Vaporwave*
 * [David W. Niven Collection](https://archive.org/details/davidwnivenjazz) - *Jazz / MP3 / [Article](https://www.electronicbeats.net/the-feed/download-650-gigabytes-jazz-free/)*
 * [JazznBlues](https://jazznblues.club/) - *Jazz / MP3*
 * [BOXSET](https://boxset.ru/) - *Classical / FLAC*
