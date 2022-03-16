@@ -382,7 +382,7 @@
 * [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - *Books / Fantasy / TTRPG / [Archives](https://0bin.net/paste/+9z9AyRV#jABs+bWkz9nzCUTVBlyEUVPobNfGXt+4+jQrni-kNAz) / [Torrents](https://mega.nz/folder/xfpEjSRI#Xvt1Snz6X23VawtrDkgFqw)*
 * [Choisey](http://choisey.free.fr/) or [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - *TTRPG Rulebooks*
 * [Cinema EBooks Collection](https://mega.nz/folder/Fc5HjABT#kDNrkB97DPt9L_dysk4jCw) - *Cinema Books*
-* [SimplyScripts](https://www.simplyscripts.com/) or [SubsLikeScript](https://subslikescript.com/) - *Movie / TV Scripts* 
+* [SimplyScripts](https://www.simplyscripts.com/), [MZP](http://www.mzp-tv.co.uk/movie_scripts/) or [SubsLikeScript](https://subslikescript.com/) - *Movie / TV Scripts* 
 * [The Anarchist Library](http://theanarchistlibrary.org/special/index) - *Anarchism*
 * [Anarcho-Copy](https://anarcho-copy.org/) - *Anarchism*
 * [Archive.Leftove.rs](https://archive.leftove.rs/) - *Protest Documents*
