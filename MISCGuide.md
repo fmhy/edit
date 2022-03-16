@@ -207,7 +207,6 @@
 * [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
 * [/r/Freegamestuff](https://reddit.com/r/Freegamestuff)
 
-
 ***
 
 # ► Fun Sites
@@ -309,6 +308,7 @@
 * [MakeAWordSearch](http://www.makeawordsearch.net/) - *Word Search Creator*
 * [JamisBuck](https://www.jamisbuck.org/mazes/) - *Maze Algorithms*
 * [Windows XP Error Worm](https://ybenbihi.github.io/windows-error-worm/) - *Click & Drag Windows Errors* 
+* [Pixelbay](https://pixelbay.netlify.app/) - *Embed Links in Pixels*
 * [Our World of Text](https://ourworldoftext.com/) or [Your World of Text](https://www.yourworldoftext.com/) - *Infinite grid of text editable by anyone*
 * [pixels.land](https://pixels.land/) or [World of Pixels](https://ourworldofpixels.com/) - *Infinite Pixel Art online*  
 * [Genetic Cars 2](https://rednuht.org/genetic_cars_2/) - *Random 2D Car Generator*
@@ -1177,6 +1177,7 @@
 * [WebCRX](https://webcrx.io/) - *Install Chrome CRX Files*
 * [chrome-extensions](https://github.com/learn-anything/chrome-extensions) - *List of Chrome Extensions* 
 * [NooBoss](https://ainoob.com/en/project/nooboss) - *Chrome Extension Manager / Extra Features*
+* [ChromeStats](https://chrome-stats.com/) - *Compare / Analyze Chrome Extensions*
 * [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - *Add Extensions to Ungoogled Chromium* 
 * [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - *Quickly Enable / Disable Chrome Extensions*
 * [CRX Viewer](https://github.com/Rob--W/crxviewer) - *View Extension Source Code* 
