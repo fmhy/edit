@@ -54,6 +54,7 @@
 * [DarckRepacks](https://darckrepacks.com/) - *[Discord](https://discord.gg/5eRvDvy)*
 * [SPiKY Repacks](https://discord.gg/ZHC6pffMz2) - *[GamesDrive Uploader](https://gamesdrive.co/)*
 * [SteamUnlocked](https://steamunlocked.net/) - *Use Adblocker / [Release Tracker](https://github.com/N-O-E-D/Steamunlocked)*
+* [Anongamez](https://anongamez.com/)
 * [pc_game_down](https://t.me/pc_game_down) - *Telegram*
 * [g4u](https://g4u.to/) - *Password: 404*
 * [GoodOldDownloads Backup](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view)
@@ -108,6 +109,7 @@
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win)
 * [Rihno Games](https://rihnogames.com/)
+* [Gtorr](https://gtorr.net/) 
 * [Ali213](https://www.ali213.net/) - *[How-To](https://i.imgur.com/qoZOx3b.png)*
 
 ***
