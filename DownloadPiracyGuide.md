@@ -168,7 +168,7 @@
 
 ## ▷ Search Sites
 
-* **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) / [CSE 3](https://abhishek.wiki/torrentables/) - *Multi-Site Search*
+* **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) / [CSE 3](https://theabhishek.dev/torrentables/) - *Multi-Site Search*
 * **[ZippyShareSearch](https://zippysharesearch.com/)** or [ZippyShareFinder](https://zippysharefinder.com/) - *Search Zippyshare / [DL Script](https://github.com/AvinashReddy3108/zippydl) / [URL Parser](https://github.com/GrowAsguard/zippyshare_url_parser), [2](https://github.com/JrMasterModelBuilder/zs-extract)* 
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
 * [FilePursuit](https://filepursuit.com) - *[Discord](https://discord.gg/xRfFd8h)*
