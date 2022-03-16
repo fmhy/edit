@@ -346,6 +346,7 @@
 * [StreamAnimeTV](https://streamanimetv.net/) - *Sub / Dub*
 * [Anime60FPS](https://www.anime60fps.com/ ) - *Sub / Dub*
 * [AnimeFreak](https://www.animefreak.vip/) - *Sub / Dub*
+* [9AnimeTV](https://9animetv.su/) - *Sub*
 * [WCO](https://www.wco.tv/)  - *Anime / Cartoons / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wco_clones)* 
 * [Funimation](https://www.funimation.com/shows/free/) - *Sub / Dub* 
 * [Pokemon.com](https://watch.pokemon.com/) - *Full Pokemon Episodes*
