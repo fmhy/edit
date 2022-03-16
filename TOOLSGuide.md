@@ -146,7 +146,7 @@
 * [Writemonkey](http://writemonkey.com/) or [WriteNext](https://www.writenext.io/) - *Distraction Free Writing App*
 * [EncryptPad](https://evpo.net/encryptpad/) - *Encrypted Text Editor*
 * [Calculist](https://calculist.io/) - *Note Taking for Problem Solving*
-* [journaltxt](https://journaltxt.github.io/), [App linked](https://uselinked.com/) / [GitHub](https://github.com/lostdesign/linked) or [journal-cli](https://v1.journalcli.app/) - *Journal App*
+* [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [App linked](https://uselinked.com/) / [GitHub](https://github.com/lostdesign/linked) or [journal-cli](https://v1.journalcli.app/) - *Journal App*
 * [Nute](https://nute.app/) - *Quickly Make & Save Text Files*
 * [Lyx](https://www.lyx.org/) - *LaTeX Editor / [Guide](https://www.learnlatex.org/)*
 * [Detexify](http://detexify.kirelabs.org/classify.html) - *Handwritten LaTeX Symbol Recognition*
@@ -525,7 +525,7 @@
 * [Krisp](https://krisp.ai/) - *Noise Cancellation Software*
 * [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Infinite Pro Trial](https://gist.github.com/programminghoch10/b6021e40cc1905d2b01a1571c6c96f17) - *Audio Mixer*
 * [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - *Voice Audio Mixer*
-* [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [VoiceMod](https://filecr.com/?s=VoiceMod+Pro), [MorphVOX](https://filecr.com/?s=MorphVOX+Pro), [MyVoiceMod](https://myvoicemod.com/) or [ClownFish](https://clownfish-translator.com/voicechanger/) - *Voice Changer*
+* [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [VoiceMod](https://filecr.com/?s=VoiceMod+Pro), [MorphVOX](https://filecr.com/?s=MorphVOX+Pro), [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird), [MyVoiceMod](https://myvoicemod.com/) or [ClownFish](https://clownfish-translator.com/voicechanger/) - *Voice Changer*
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) or [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - *Clone Voices*
 * [Sound Branch](https://soundbran.ch/) - *Create / Share / Podcasts / Voice Messages* 
 * [Gibber](https://gibber.cc/) - *Audiovisual Code Composer* 
@@ -618,6 +618,7 @@
 * [ProCrack_Team](https://www.mediafire.com/folder/l4w8gcdcqsqtw/ProCrack_Team) - *Marketing Courses*
 * [Stock Trading Courses](https://mega.nz/folder/RNERkCIS#w0DcWggAasYz8vKl1jHkGw) - *Trading Courses*
 * [Traders Heaven](https://mega.nz/folder/QhYyTRRD#qNNIFuq3YGchXA1qS-Yqow) - *Trading Courses*
+* [Wasabi](https://wasabiwallet.io/) - *FOSS Bitcoin Wallet*
 
 ***
 
@@ -706,7 +707,7 @@
 * [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - *Communication Software Index*
 * [Discord](https://discordapp.com/), [Guilded](https://www.guilded.gg/) / [Mod](https://github.com/ReGuilded/ReGuilded/) or [Revolt](https://revolt.chat/) - *Messaging Platforms*
 * [Twist](https://twist.com/) - *Collaboration Chat Manager*
-* [Hack.chat](https://hack.chat/) or [tik.io](https://tlk.io/) - *Minimal Account Free Chat* 
+* [Hack.chat](https://hack.chat/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - *Minimal Account Free Chat* 
 * [Cirlos](https://www.cirlos.net/) or [WeeChat](https://weechat.org/) - *Chat App*
 * [KiwiIRC](https://kiwiirc.com/) - *WebIRC Client*
 * [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [PeerLinks](https://peerlinks.io/) or [Bitchx](http://bitchx.sourceforge.net/) - *IRC Client*
@@ -848,17 +849,17 @@
 *  [Video Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0) - *Search YouTube Like Video Sites*
 * [Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei), [2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) - *Search Anime Streaming Sites*
 * [TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg) - *Search TV Streaming Sites*
-* [Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z) / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) / [CSE 3](https://theabhishek.dev/torrentables/) - *Multi-Site Download Search*
+* [Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z), [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h), [3](https://theabhishek.dev/torrentables/) - *Multi-Site Download Search*
 * [Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr), [2](https://cse.google.com/cse?cx=89f2dfcea452fc451), [3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * [Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io), [2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) - *Search Audio Download Sites*
 * [Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8) - *Search Anime Download Sites*
-* [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) - *Search Game Download Sites*
+* [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Rave Search](https://idleendeavor.github.io/gamesearch/), [2](https://ravegamesearch.pages.dev/) - *Search Game Download Sites*
 * [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj), [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - *Search General Torrent Sites*
 * [Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j) - *Search Video Torrent Sites*
 * [Anime Torrent CSE]( https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz) - *Search Anime Torrent Sites*
 * [Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55) - *Search Audio Torrent Sites*
 * [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/)  - *Search Game Torrent Sites*
-* [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) /  [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [Rave Book Search](https://ravebooksearch.com/) - *Search Reading Sites*
+* [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8),  [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu), [3](https://cse.google.com/cse?cx=e9657e69c76480cb8), [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [Rave Book Search](https://ravebooksearch.com/) - *Search Reading Sites*
 * [Audiobooks CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd) - *Search Audiobook Sites*
 * [Comics CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg) - *Search Comic Sites*
 * [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z), [2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - *Search Manga Sites*
@@ -1258,7 +1259,7 @@
 * [GoogleDriveManagerBot](https://t.me/GoogleDriveManagerBo) - *Telegram GDrive Manager*
 * [clonebot](https://github.com/m4mallu/clonebot) - *Clone Media from Chats*
 * [ChecklyBot](https://t.me/checklybot) - *Checklist Telegram Bot*
-* [Shieldy Bot](https://t.me/shieldy_bot) - *Spam Protection Bot*
+* [Shieldy Bot](https://t.me/shieldy_bot) - *Spam Protection Bot / [GitHub](https://github.com/1inch/shieldy)*
 * [Telegram Scraper](https://www.telegramscraper.com/) - *Telegram Member / Group Export*
 * [Telegram Email](https://t.me/etlgr_bot) - *Send / Receive Emails via Telegram* 
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - *Telegram CSE*
@@ -1279,8 +1280,7 @@
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge) - *Delete All YouTube Spam Comments*
 * [YouTube Encoding Guide](https://support.google.com/youtube/answer/1722171) - *Recommended YouTube Encoding Settings*
 * [TubeSync](https://github.com/meeb/tubesync) - *Sync YouTube Channels / Playlists to a Media Server*
-* [Invidious](https://tube.cadence.moe/), [ViewTube](https://viewtube.io/) / [GitHub](https://github.com/ViewTube/viewtube-vue), [Piped](https://github.com/TeamPiped/Piped) or [Youtube-local](https://github.com/user234683/youtube-local) - *YouTube Frontend / [Instances](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)* 
-* [FreeTube](https://freetubeapp.io/) - *YouTube Frontend / Client*
+* [YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends) 
 * [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube), [ImprovedTube](http://improvedtube.com/), [Iridium](https://github.com/ParticleCore/Iridium)  or [Magic Actions for YouTube](https://www.mycinema.pro/) - *YouTube Enhancement Addons* 
 * [Focused YouTube](https://github.com/makaroni4/focused_youtube) - *Minimalist YouTube*
 * [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux) or [Classic YouTube Design](https://github.com/Cicero-Interactive/Classic-YouTube-Design/) - *Restore Classic YouTube Layout* 
@@ -1375,6 +1375,7 @@
 * [BetterTTV](https://betterttv.com/) or [FrankerFacez](https://www.frankerfacez.com/) - *Twitch Enhancement Extension*
 * [Stream Scheme](https://www.streamscheme.com/) - *Livestreaming Guides & Resources*
 * [Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f) - *Twitch Extension Index*
+* [Trovo](https://trovo.live/), [dlive](https://dlive.tv/) or [Theta](https://www.theta.tv/) - *Twitch Alternatives*
 * [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl), [Windsya](https://www.windsya.com/, [ClipsGameLab](https://clipsgamelab.github.io/) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  *Download Twitch Videos / Clips* 
 * [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - *Recover, View & Download Twitch Videos*
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - *Lightweight Twitch Webplayer*
@@ -1592,6 +1593,7 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [OllyDbg](https://www.ollydbg.de/) - *Binary Code Analysis Tool*
 * [WhoCrashed](https://www.resplendence.com/whocrashed) - *Windows Crash Analyzer*
 * [WhatPulse](https://whatpulse.org/) - *Mouse / Keyboard Usage Analyzer*
+* [Key Test](https://en.key-test.ru/) - *Test Keyboard Buttons*
 * [BleachBit](https://www.bleachbit.org/) or [GlarySoft](https://www.glarysoft.com/) - *Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect.*  
 * [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - *Startup Program Monitor*
 * [Remove Hidden Startup Programs](https://www.youtube.com/watch?v=sUXcMaP6wRQ) - *How-to Remove Secret Startup Apps*
@@ -1877,6 +1879,7 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install), [dank.d
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - *DataHoarding Tools Index*   
 * [FileInfo](https://fileinfo.com/) or [File-Extensions](https://www.file-extensions.org/) - *File Extension Library*
 * [download](https://github.com/kevva/download) - *File Download Tool / Extractor / [CLI](https://github.com/kevva/download-cli)*
+* [XBackBone](https://xbackbone.app/) - *File Manager / [GitHub](https://github.com/SergiX44/XBackBone)*
 * [DropIt](http://www.dropitproject.com/) - *Automated File Management*
 * [What](https://github.com/bee-san/pyWhat) - *Text & File Analyzer*
 * [WhoLeaked](https://github.com/utkusen/wholeaked) - *File Leak Tracker*
