@@ -69,6 +69,7 @@
 * [Linux Live Kit](https://www.linux-live.org/) - *Live Linux Distro Creator*
 * [ArchLinuxGUI](https://archlinuxgui.in/download.html), [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - *Arch Linux Installer*
 * [Free Cloud Linux Server](https://rentry.co/4sx64) - *Free Cloud Server Guide*
+* [yet another bench script](https://github.com/masonr/yet-another-bench-script) - *Server Performance Script*
 * [Rang3r](https://github.com/floriankunushevci/rang3r) - *IP / Port Scanner*
 * [Brunch](https://github.com/sebanc/brunch) or [Chromefy](https://github.com/imperador/chromefy) - *ChromeOS Installer*
 * [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [FydeOS](https://fydeos.io/download), [NeverWare](https://www.neverware.com/) or [WayneOS](https://wayne-os.com/) - *ChromeOS Based OS*
