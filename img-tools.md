@@ -325,6 +325,7 @@
 * [3D Transformer](https://www.3dtransformer.com/) - *Rotate 3D Images*
 * [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) - *3D Printing Software*
 * [Ameede](https://www.ameede.com/) - *CNC / Laser Design Vectors*
+* [The Blueprints](https://www.the-blueprints.com/) - *Blueprints Database*
 * [ORBION](https://github.com/FaqT0tum/Orbion_Space_Mouse) - *DIY 3D Image Mouse*
 
 ***
