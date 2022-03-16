@@ -931,6 +931,7 @@
 * [Movieo](https://movieo.me/) - *Movies / TV / Anime*
 * [AllMovie](https://www.allmovie.com/) - *Movies / TV / Anime* 
 * [TVMaze,](https://www.tvmaze.com/) [TrackSeries](https://www.trackseries.tv/) or [watched](https://watched.li/)  - *TV / Anime*
+* [Episode Calender](https://episodecalendar.com/) - *TV Calender*
 * [dunno](https://m-dunno.netlify.app/) - *Movies / TV*
 * [showRSS](https://showrss.info/)  - *RSS / TV*
 * [Anime-Planet](https://www.anime-planet.com/) - *Anime* 
