@@ -536,6 +536,7 @@ French / General Torrent Tracker
 * [WatchOnlineMovies](https://www.watchonlinemovies.net.pk/) - *Movies / TV*
 * [HindiLinks4u](https://www.hindilinks4u.to/), [2](https://hindilinks4u.pro/) or [3](https://hindilinks4u.io/)  - *Movies / TV*
 * [Movies4](https://www.movies4.com.pk/) - *Movies / TV* 
+* [UWatchFree](https://www.uwatchfree.so/) - *Movies / TV / [Telegram](https://t.me/uwatchfree1)*
 * [FilmLinks4U](https://filmlinks4u.cc/) - *Movies / TV*
 * [DesiTVBox](https://www.desitellybox.me/) - *TV*
 * [Freewatchserialonline](https://freewatchserialonline.com/) - *TV*
