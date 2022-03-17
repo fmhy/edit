@@ -1667,12 +1667,15 @@ Portuguese
 * [CocCoc](https://coccoc.com/search) - *Search*
 * [Speedtest](https://speedtest.vn/), [SCTV](http://speedtest.sctv.com.vn/), [Vinahost](https://speedtest.vinahost.vn/) - *Internet Speed Test*
 * [BizTime](https://biztime.com.vn/), [HahaLolo](https://www.hahalolo.com/) or [Lotus](https://lotus.vn/) - *Social Network*
+* [Forumvi](https://www.forumvi.com/) - *Create a Forum*
 * [SapTet](https://www.saptet.com/), [DonTet](http://dontet.online/) - *New Year Countdown*
 * [LichAm](https://licham.net/), [XemLichAm](https://www.xemlicham.com/), [LichAmHomNay](https://licham.com.vn/), - *Lunar Calendar*
 * [TraCuuThanSoHoc](https://tracuuthansohoc.com/), [ThanSoHocOnline](http://thansohoconline.com/), [ThanSoVietnam](https://thansovietnam.com/), - *Numerology*
 * [MayTinhOnline](https://maytinhonline.net/), [2](https://maytinhonline.com/), [3](https://may-tinh.online/), - *Calculator*
 * [BusMap](https://busmap.vn/) - *Bus Journey*
 * [BeenLoveMemory](https://beenlovememory.app/) - *Love Days Counter*
+* [CongCuWeb](https://www.congcuweb.net/), [Vuiz](https://proxy.vuiz.net/), [abProxy](https://proxy.abtech.vn/) - *Web Proxy*
+* [VSpell](https://vspell.com/Spell) - *Vietnamese Spell Checker*
 * [PhuDeViet](http://phudeviet.org/) - *Subtitles*
 * [XaBuon](https://xabuon.com/), [Xem](https://xem.vn/) - *Meme*
 * [GameVui](https://gamevui.vn/), [Game24h](https://game24h.vn/), [ChoiGame24](https://choigame24.com/) or [Game247](https://game247.vn/) - *Browser Games*
@@ -1780,6 +1783,7 @@ Portuguese
 * [Muvi](https://muvi.vn/) - *Music*
 * [Nhacvn](https://nhac.vn/) - *Music*
 * [Keeng](http://keeng.vn/) - *Music*
+* [Imuzik](http://imuzik.com.vn/) - *Music*
 
 ## ▷ Reading
 
