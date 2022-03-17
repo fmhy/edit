@@ -269,7 +269,6 @@
 * [SaveVK](https://savevk.com/) - *Download VK videos* 
 * [DMVideo](https://dmvideo.download/) - *DailyMotion Video Downloader* 
 * [VLive Downloads](https://home.soshistagram.com/naver_v/) - *VLive Video Downloader*
-* [GetFVid](https://www.getfvid.com/) or [Facebook DL](https://github.com/sdushantha/facebook-dl) - *Facebook Video Downloader* 
 * [kmttg](https://www.videohelp.com/software/kmttg) - *TivoToGo Download Manager*
 * [TikTok Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tiktok_video_downloaders) - *Download TikTok Videos*
 * [myfaveTT](https://myfavett.com/) - *Download Your Liked TikTok Videos*
@@ -750,7 +749,6 @@
 * [Alive](https://greasyfork.org/en/scripts/418770-colab-alive) - *Bypass Google Colab Limit Colab*
 * [YakYak](https://github.com/yakyak/yakyak) - *Google Hangouts Desktop Client* 
 * [Indirect](https://www.microsoft.com/en-us/p/indirect/9phw4kj8jvnz) - *Instagram Desktop Messenger*
-* [Caprine](https://sindresorhus.com/caprine/) - *Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)* 
 * [SentRanker](https://sentranker.com/) - *Social Media Sentiment Scanner*
 * [Hamachi](https://vpn.net/) - *VPN / LAN Emulator*
 * [rrweb](https://www.rrweb.io/) - *Browser Macro Recorder / [GitHub](https://github.com/rrweb-io/rrweb)*
@@ -893,11 +891,8 @@
 * [Marginalia Search](https://search.marginalia.nu/) - *Text Based Search Engine*
 * [TheOldNet](http://theoldnet.com/) - *Retro Search Engine*
 * [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - *40 Custom Search Engines*
-* [Facebook CSE](https://cse.google.com/cse?cx=65eb7b6b8baf5a5cb) - *Search Facebook*
-* [Facebook Matrix](https://plessas.net/facebookmatrix) - *Facebook Search Formulas* 
 * [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - *Search TikTok*
 * [UserSearch](https://usersearch.org/) or [WhatsMyName](https://whatsmyname.app/) - *Username Search*
-* [Graph.tips](https://graph.tips/beta/) - *Advanced Facebook Search Tool* 
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - *Telegram CSE*
 * [ISearchFrom](http://isearchfrom.com/) - *Change Location / Device for Google Search*
 * [Google Search Operator Cheat Sheets](https://moz.com/learn/seo/search-operators), [2](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [3](https://ahrefs.com/blog/google-advanced-search-operators/), [4](https://l-lists.com/en/lists/m1mdwx.html), [5](https://github.com/BushidoUK/OSINT-SearchOperators)
@@ -1478,6 +1473,33 @@
 * [Cheap Bots, Done Quick](https://cheapbotsdonequick.com/) - *Create Twitter Bots*
 * [Botometer](https://botometer.osome.iu.edu/) or [BotSlayer](https://osome.iu.edu/tools/botslayer) - *Twitter Bot Check*
 * [BlackMagic](https://blackmagic.so/) - *Twitter Growth Tool*
+
+***
+
+## ▷ Facebook Tools
+
+* [Facebook CSE](https://cse.google.com/cse?cx=65eb7b6b8baf5a5cb) - *Search Facebook*
+* [FBPurity](https://www.fbpurity.com/) or [Social Fixer](https://socialfixer.com/) - *Facebook Enhancement Extension*
+* [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) - *Hide All Facebook Metrics*
+* [L.O.C](https://chrome.google.com/webstore/detail/loc/eojdckfcadamkapabechhbnkleligand) - *Facebook Management Extension*
+* [Social Tools](https://chrome.google.com/webstore/detail/facebook-block-read-recei/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) - *Block "Sending" & "Seen" Facebook Chat Indicators* 
+* [Messenger Dark Theme](https://github.com/jerry1100/messenger-dark-theme) or [Charcoal Dark Mode](https://chrome.google.com/webstore/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - *Facebook Messenger Dark Mode*
+* [Facedown](http://www.vincentcheung.ca/facedown/) - *Facebook Image Downloader*
+* [FDown](https://fdown.net/), [GetFVid](https://www.getfvid.com/) or [Facebook DL](https://github.com/sdushantha/facebook-dl) - *Facebook Video Downloader*
+* [Caprine](https://sindresorhus.com/caprine/) - *Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)*
+* [Facebook Matrix](https://plessas.net/facebookmatrix) - *Facebook Search Formulas* 
+* [Graph.tips](https://graph.tips/beta/) - *Advanced Facebook Search Tool*
+* [Color Themes](https://chrome.google.com/webstore/detail/color-themes-for-facebook/oohbdcphbnpnoohnbddhcfplalanfbmm), [Coloreatuface](https://www.coloreatuface.com/), [FB.Zone](https://fb.zone/) or [Color Changer](https://chrome.google.com/webstore/detail/color-changer-for-faceboo/blfkmmfngackeejimehjkmendglnabnm) - *Color Themes for Facebook*
+* [Fix Facebook](https://chrome.google.com/webstore/detail/fix-facebook/khofkolffpncpolmlealilmhajmalfbe) - *Fix Font of Facebook and Messenger*
+* [Kill Fbclid](https://chrome.google.com/webstore/detail/kill-fbclid/jlmdkcaiejonohbmkgickmkgbpceokmn) or [Remove FBclid](https://chrome.google.com/webstore/detail/remove-fbclid-and-utm/ehkdoijaaigomfliimepliikhjkoipob) *Removes fbclid and utm_ query parameters in URLs*
+* [Greenface](https://greenface.site/) or [Delete All Messages](https://chrome.google.com/webstore/detail/delete-all-messages-on-fa/hdigpgnfpockednepfiinhdjebkmpicn) - *Remove All Messages*
+* [Delete My Posts](https://www.deletemyposts.com/), [Social Book Post Manager](https://chrome.google.com/webstore/detail/social-book-post-manager/ljfidlkcmdmmibngdfikhffffdmphjae) or [DeleteFB](https://github.com/weskerfoot/DeleteFB) - *Bulk delete all your old Facebook posts, comments, photos, videos*
+* [Unfollow](https://chrome.google.com/webstore/detail/unfollow-everyone-on-face/pijkodjelolnmbehifeokihlodnajela) - *Unfollow everyone on facebook*
+* [Facebook Hide Ads](https://greasyfork.org/en/scripts/404309-facebook-hide-ads-a-k-a-sponsored-posts) - *Remove Sponsored Posts from Facebook*
+* [News Feed Eradicator](https://west.io/news-feed-eradicator/) - *Hide Facebook News Feed*
+* [Album Downloader](https://chrome.google.com/webstore/detail/album-downloader-for-face/oallcdoceahndjmaalbicbcgpfnajgae) - *Album Downloader for Facebook*
+* [Birthday Calendar Exporter](https://github.com/zagushka/birthday-calendar-extractor) - *Birthday Calendar Extractor for Facebook*
+* [FriendFilter](https://friendfilter.io/) - *Friend Filter for Facebook*
 
 ***
 

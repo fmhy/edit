@@ -1123,8 +1123,6 @@
 * [X-Forwarded-For Header](https://github.com/MisterPhilip/x-forwarded-for) - *Set X-Forwarded-For HTTP Header*
 * [Peek](https://github.com/corbindavenport/peek) - *Shows Images & Videos Behind Links & Thumbnails* 
 * [Not For You](https://bengrosser.com/projects/not-for-you/) - *Confuse Tik-Toks Recommendation Algorithm*
-* [FBPurity](https://www.fbpurity.com/) or [Social Fixer](https://socialfixer.com/) - *Facebook Enhancement Extension*
-* [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) - *Hide All Facebook Metrics*
 * [OctoShop](https://www.instok.org/octoshop) - *In-Stock Alerts*
 
 ## ▷ Firefox
@@ -1226,9 +1224,6 @@
 * [BetterViewer](https://github.com/Ademking/Betterviewer) - *Improved Image Viewer*
 * [Resizing](https://resizing.app/) - *Resize Images*
 * [Vasai](https://chrome.google.com/webstore/detail/vasai-free-screen-recorde/ppbdhdggkcfgcghiaimfknmfemkegleo) - *Screen Recorder*
-* [L.O.C](https://chrome.google.com/webstore/detail/loc/eojdckfcadamkapabechhbnkleligand) - *Facebook Management Extension*
-* [Social Tools](https://chrome.google.com/webstore/detail/facebook-block-read-recei/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) - *Block "Sending" & "Seen" Facebook Chat Indicators* 
-* [Charcoal Dark Mode](https://chrome.google.com/webstore/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - *Facebook Messenger Dark Mode*
 * [Mate Translate](https://gikken.co/mate-translate/chrome/) - *Translator*
 * [SiteScrubber](https://chrome.google.com/webstore/detail/sitescrubber/ffadalgofahhohaciekjchkikcglcpla) - *Hide Offensive/Swear Words on Sites*
 * [Show Keys](https://chrome.google.com/webstore/detail/show-keys/bkcpmidbgmfbbeanejhepkjakagfaaon) - *Show Keys As You Type*
