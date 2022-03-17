@@ -284,7 +284,6 @@
 * [dzi-dl](https://github.com/ryanfb/dzi-dl) - *Deep Zoom Image Downloader* 
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YouTube Screenshot](https://www.youtubescreenshot.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - *Grab YouTube Thumbnails* 
 * [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - *Booru Image Downloader / [Viewer](https://github.com/loadletter/grabber-viewer)* 
-* [Facedown](http://www.vincentcheung.ca/facedown/) - *Facebook Image Downloader*
 * [Flicker-Download](https://github.com/beaufour/flickr-download) - *Flickr Scraper* 
 * [iPack Builder](https://www.deviantart.com/mr-blade/art/iPack-Builder-v2-2-Tool-for-icon-customization-473088895), [2](https://mrbladedesigns.com/ipack-builder/) - *Create Icon Pack Installers*
 
