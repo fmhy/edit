@@ -1481,6 +1481,19 @@
 
 ***
 
+## ▷ Meta Tools
+
+* - Meta products and services include Facebook, Messenger, Instagram, and WhatsApp.
+
+***
+
+* 
+* 
+* 
+* 
+
+***
+
 # ► System Tools
 
 * **[Windows Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/pirate-windows)**, [2](https://rentry.co/fwt), [3](https://rentry.co/windows_for_retards)
