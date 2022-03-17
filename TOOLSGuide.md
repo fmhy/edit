@@ -1476,7 +1476,7 @@
 
 ***
 
-## ▷ Facebook & Messenger Tools
+## ▷ Facebook Tools
 
 * [Facebook CSE](https://cse.google.com/cse?cx=65eb7b6b8baf5a5cb) - *Search Facebook*
 * [FBPurity](https://www.fbpurity.com/) or [Social Fixer](https://socialfixer.com/) - *Facebook Enhancement Extension*
@@ -1493,8 +1493,9 @@
 * [Fix Facebook](https://chrome.google.com/webstore/detail/fix-facebook/khofkolffpncpolmlealilmhajmalfbe) - *Fix Font of Facebook and Messenger*
 * [Kill Fbclid](https://chrome.google.com/webstore/detail/kill-fbclid/jlmdkcaiejonohbmkgickmkgbpceokmn) or [Remove FBclid](https://chrome.google.com/webstore/detail/remove-fbclid-and-utm/ehkdoijaaigomfliimepliikhjkoipob) *Removes fbclid and utm_ query parameters in URLs*
 * [Greenface](https://greenface.site/) or [Delete All Messages](https://chrome.google.com/webstore/detail/delete-all-messages-on-fa/hdigpgnfpockednepfiinhdjebkmpicn) - *Remove All Messages*
-* [Delete My Posts](https://www.deletemyposts.com/) - *Bulk delete all your old Facebook posts, comments, photos, videos*
+* [Delete My Posts](https://www.deletemyposts.com/), [Social Book Post Manager](https://chrome.google.com/webstore/detail/social-book-post-manager/ljfidlkcmdmmibngdfikhffffdmphjae) or [DeleteFB](https://github.com/weskerfoot/DeleteFB) - *Bulk delete all your old Facebook posts, comments, photos, videos*
 * [Unfollow](https://chrome.google.com/webstore/detail/unfollow-everyone-on-face/pijkodjelolnmbehifeokihlodnajela) - *Unfollow everyone on facebook*
+* [Facebook Hide Ads](https://greasyfork.org/en/scripts/404309-facebook-hide-ads-a-k-a-sponsored-posts) - *Remove Sponsored Posts from Facebook*
 * [News Feed Eradicator](https://west.io/news-feed-eradicator/) - *Hide Facebook News Feed*
 * [Album Downloader](https://chrome.google.com/webstore/detail/album-downloader-for-face/oallcdoceahndjmaalbicbcgpfnajgae) - *Album Downloader for Facebook*
 * [Birthday Calendar Exporter](https://github.com/zagushka/birthday-calendar-extractor) - *Birthday Calendar Extractor for Facebook*
