@@ -152,7 +152,6 @@
 * [Don’t kill my app!](https://dontkillmyapp.com/) - *Manufacturer Battery Life vs. App Functionality*
 * [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) - *Battery Health App*
 * [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - *Save Battery by Turning Off Pixels*
-* [FileManager](https://github.com/SimpleMobileTools/Simple-File-Manager) or [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager) / [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager) - *File Manager*
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - *Note Taking Apps*
 * [Serenity Notes](https://www.serenity.re/en/notes) - *Collaborative Notes*
 * [Git Journal](https://gitjournal.io/) - *Mobile Markdown Notes*
@@ -297,7 +296,7 @@
 * [FLauncher](https://play.google.com/store/apps/details?id=me.efesser.flauncher) - *Android TV Launcher / [GitLab](https://gitlab.com/etienn01/flauncher)*
 * [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) - *Send Files to Android TV*
 * [Apps2Fire](https://play.google.com/store/apps/details?id=mobi.koni.appstofiretv) - *Upload Apps to FireTV*
-* [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://forum.mobilism.org/search.php?keywords=solid+explorer&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [rcx](https://x0b.github.io/) / [GitHub](https://github.com/x0b/rcx), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/), [AmazeFileManager](https://teamamaze.xyz/) / [GitHub](https://github.com/TeamAmaze/AmazeFileManager) or [IrkFM](https://github.com/lfuelling/lrkFM) - *File Explorers / Manager*
+* [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://forum.mobilism.org/search.php?keywords=solid+explorer&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [rcx](https://x0b.github.io/) / [GitHub](https://github.com/x0b/rcx), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/), [AmazeFileManager](https://teamamaze.xyz/) / [GitHub](https://github.com/TeamAmaze/AmazeFileManager), [FileManager](https://github.com/SimpleMobileTools/Simple-File-Manager) or [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager) / [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager)  or [IrkFM](https://github.com/lfuelling/lrkFM) - *File Explorers / Managers*
 * [Dumpster](https://filecr.com/?s=Dumpster) - *File Recovery Tool*
 * [wsa_pacman](https://github.com/alesimula/wsa_pacman) - *Android Package Manager for Windows*
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - *Download / Torrent Manager* 
