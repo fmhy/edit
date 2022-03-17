@@ -133,6 +133,7 @@
 * **[Android Web Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)** 
 * **[Aliucord](https://github.com/Aliucord/Aliucord)** - *Modded Discord Client* 
 * **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Mobile Wallpaper Sites & Apps*
+* [File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools) - *Tools to Share / Sync Files*
 * [XDA](https://forum.xda-developers.com/) - *Android Discussion Forum*
 * [W10M Group](https://w10mgroup.github.io/) - *Mobile Windows Tech Support*
 * [Maemo](https://talk.maemo.org/) - *Maemo OS Discussion / [Wiki](https://wiki.maemo.org/) / [Telegram](https://t.me/maemomeego), [2](https://t.me/meegoosinternational)*
@@ -292,7 +293,6 @@
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - *Easily Open Links in Text via Share Function*
 * [URLApp](https://urlgapp.com/) - *Convert Sites to Android Apps*
 * [Ponydroid](https://forum.mobilism.org/search.php?keywords=ponydroid&amp;sr=topics&amp;sf=titleonly), [Jdownloader](https://my.jdownloader.org/), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - *Download File Manager / [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)*
-* [File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools) - *Tools to Share / Sync Files*
 * [FLauncher](https://play.google.com/store/apps/details?id=me.efesser.flauncher) - *Android TV Launcher / [GitLab](https://gitlab.com/etienn01/flauncher)*
 * [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) - *Send Files to Android TV*
 * [Apps2Fire](https://play.google.com/store/apps/details?id=mobi.koni.appstofiretv) - *Upload Apps to FireTV*
@@ -301,7 +301,6 @@
 * [wsa_pacman](https://github.com/alesimula/wsa_pacman) - *Android Package Manager for Windows*
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - *Download / Torrent Manager* 
 * [Vysor](https://www.vysor.io/), [scrcpy](https://github.com/Genymobile/scrcpy) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - *Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/), [2](https://github.com/Tomotoes/scrcpy-gui)*
-* [MyPhoneExplorer](https://www.fjsoft.at/) - *Manage / Sync Your Phone with PC*
 * [BlueLight Filter](https://play.google.com/store/apps/details?id=jp.ne.hardyinfinity.bluelightfilter.free) - *Screen Bluelight Filter*
 * [FAST](https://play.google.com/store/apps/details?id=com.netflix.Speedtest), [Meteor](https://play.google.com/store/apps/details?id=meteor.test.and.grade.internet.connection.speed) or [FCC Speed Test](https://play.google.com/store/apps/details?id=com.samknows.fcc&hl=en_US&gl=US) - *Internet Speed Test*
 * [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - *Use Google Cam Without Google Play* 
