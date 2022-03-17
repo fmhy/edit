@@ -696,7 +696,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Android File Sync**
 
-[croc](https://f-droid.org/packages/com.github.howeyc.crocgui), [Snapdrop Android](https://github.com/fm-sys/snapdrop-android), [TrebleShot](https://trebleshot.monora.org/), [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard)
+[croc](https://f-droid.org/packages/com.github.howeyc.crocgui), [Snapdrop Android](https://github.com/fm-sys/snapdrop-android), [TrebleShot](https://trebleshot.monora.org/), [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard), [MyPhoneExplorer](https://www.fjsoft.at/) 
 
 **SkyNet**
 
