@@ -805,6 +805,7 @@ French / General Torrent Tracker
 * [iranzirnevis](https://iranzirnevis.com/) - *Subtitles* 
 * [Free VPN Telegram Channels](https://bin.disroot.org/?85b66e37980b245e#DRbHouuNMfXGRdqPs68y6nGLULhHdvdXzuPdDmBxsyi2) - *Free VPN / Telegram*
 * [Targoman](http://targoman.ir/) - *Translator / [GitHub](https://github.com/targoman)*
+* [Wiki Censorship](https://wikicensorship.github.io/) - *Internet Censorship Encyclopedia*
 
 ## ▷ Downloading
 
