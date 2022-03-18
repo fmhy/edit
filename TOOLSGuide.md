@@ -1476,11 +1476,14 @@
 * [FBPurity](https://www.fbpurity.com/) or [Social Fixer](https://socialfixer.com/) - *Facebook Enhancement Extension*
 * [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) - *Hide All Facebook Metrics*
 * [L.O.C](https://chrome.google.com/webstore/detail/loc/eojdckfcadamkapabechhbnkleligand) - *Facebook Management Extension*
-* [Social Tools](https://chrome.google.com/webstore/detail/facebook-block-read-recei/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) - *Block "Sending" & "Seen" Facebook Chat Indicators* 
+* [Facebook Ad Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook) - *Facebook Filters*
+* [Social Tools](https://chrome.google.com/webstore/detail/facebook-block-read-recei/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) or [Unseen Message](https://chrome.google.com/webstore/detail/unseen-message/oapcfkclledjbalilncpoimgjgcndhdo) - *Block "Sending" & "Seen" Facebook Chat Indicators* 
 * [Messenger Dark Theme](https://github.com/jerry1100/messenger-dark-theme) or [Charcoal Dark Mode](https://chrome.google.com/webstore/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - *Facebook Messenger Dark Mode*
 * [Facedown](http://www.vincentcheung.ca/facedown/) - *Facebook Image Downloader*
-* [FDown](https://fdown.net/), [GetFVid](https://www.getfvid.com/) or [Facebook DL](https://github.com/sdushantha/facebook-dl) - *Facebook Video Downloader*
+* [FDown](https://fdown.net/), [GetFVid](https://www.getfvid.com/), [Swift Video](https://chrome.google.com/webstore/detail/swift-video-downloader-fo/lfhfpakapoeodnooibncpipemmgbdnng) or [Facebook DL](https://github.com/sdushantha/facebook-dl) - *Facebook Video Downloader*
+* [Story Saver](https://chrome.google.com/webstore/detail/story-saver/mafcolokinicfdmlidhaebadidhdehpk) - *Facebook Story Downloader*
 * [Caprine](https://sindresorhus.com/caprine/) - *Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)*
+ * [ChatSilo](https://chatsilo.com/) - *Mini Facebook Messenger CRM*
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - *Facebook Search Formulas* 
 * [Graph.tips](https://graph.tips/beta/) - *Advanced Facebook Search Tool*
 * [Color Themes](https://chrome.google.com/webstore/detail/color-themes-for-facebook/oohbdcphbnpnoohnbddhcfplalanfbmm), [Coloreatuface](https://www.coloreatuface.com/), [FB.Zone](https://fb.zone/) or [Color Changer](https://chrome.google.com/webstore/detail/color-changer-for-faceboo/blfkmmfngackeejimehjkmendglnabnm) - *Color Themes for Facebook*
