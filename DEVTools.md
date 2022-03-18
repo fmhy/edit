@@ -59,6 +59,7 @@
 * [PythonTutor](https://pythontutor.com/) - *Coding Tutorials*
 * [Code With Mosh Courses](https://mega.nz/folder/9ZckiLLJ#jH3CcsgJ1q5StsPC29zP-Q)
 * [DefendTheWeb](https://defendtheweb.net/) - *Cyber Security Challenges*
+* [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - *Watch LeetCode Solutions as Animations*
 * [VSCodeCanDoThat](https://www.vscodecandothat.com/) - *VSCode Tutorial*
 * [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - *Programming Cheat Sheets*
 * [Vim Cheatsheet](https://i.imgur.com/2RsZq6p.png) - *Vim Code Editor Cheat Sheet*
