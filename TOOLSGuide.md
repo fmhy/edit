@@ -1474,14 +1474,16 @@
 
 * [Facebook CSE](https://cse.google.com/cse?cx=65eb7b6b8baf5a5cb) - *Search Facebook*
 * [FBPurity](https://www.fbpurity.com/) or [Social Fixer](https://socialfixer.com/) - *Facebook Enhancement Extension*
-* [uBlock](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook) - *Facebook Filters*
 * [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) - *Hide All Facebook Metrics*
 * [L.O.C](https://chrome.google.com/webstore/detail/loc/eojdckfcadamkapabechhbnkleligand) - *Facebook Management Extension*
-* [Social Tools](https://chrome.google.com/webstore/detail/facebook-block-read-recei/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) - *Block "Sending" & "Seen" Facebook Chat Indicators* 
+* [Facebook Ad Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook) - *Facebook Filters*
+* [Social Tools](https://chrome.google.com/webstore/detail/facebook-block-read-recei/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) or [Unseen Message](https://chrome.google.com/webstore/detail/unseen-message/oapcfkclledjbalilncpoimgjgcndhdo) - *Block "Sending" & "Seen" Facebook Chat Indicators* 
 * [Messenger Dark Theme](https://github.com/jerry1100/messenger-dark-theme) or [Charcoal Dark Mode](https://chrome.google.com/webstore/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - *Facebook Messenger Dark Mode*
 * [Facedown](http://www.vincentcheung.ca/facedown/) - *Facebook Image Downloader*
-* [FDown](https://fdown.net/), [GetFVid](https://www.getfvid.com/) or [Facebook DL](https://github.com/sdushantha/facebook-dl) - *Facebook Video Downloader*
+* [FDown](https://fdown.net/), [GetFVid](https://www.getfvid.com/), [Swift Video](https://chrome.google.com/webstore/detail/swift-video-downloader-fo/lfhfpakapoeodnooibncpipemmgbdnng) or [Facebook DL](https://github.com/sdushantha/facebook-dl) - *Facebook Video Downloader*
+* [Story Saver](https://chrome.google.com/webstore/detail/story-saver/mafcolokinicfdmlidhaebadidhdehpk) - *Facebook Story Downloader*
 * [Caprine](https://sindresorhus.com/caprine/) - *Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)*
+ * [ChatSilo](https://chatsilo.com/) - *Mini Facebook Messenger CRM*
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - *Facebook Search Formulas* 
 * [Graph.tips](https://graph.tips/beta/) - *Advanced Facebook Search Tool*
 * [Color Themes](https://chrome.google.com/webstore/detail/color-themes-for-facebook/oohbdcphbnpnoohnbddhcfplalanfbmm), [Coloreatuface](https://www.coloreatuface.com/), [FB.Zone](https://fb.zone/) or [Color Changer](https://chrome.google.com/webstore/detail/color-changer-for-faceboo/blfkmmfngackeejimehjkmendglnabnm) - *Color Themes for Facebook*
@@ -1495,11 +1497,6 @@
 * [Album Downloader](https://chrome.google.com/webstore/detail/album-downloader-for-face/oallcdoceahndjmaalbicbcgpfnajgae) - *Album Downloader for Facebook*
 * [Birthday Calendar Exporter](https://github.com/zagushka/birthday-calendar-extractor) - *Birthday Calendar Extractor for Facebook*
 * [FriendFilter](https://friendfilter.io/) - *Friend Filter for Facebook*
-* [Lookup-ID](https://lookup-id.com/) - *Find the Facebook UID*
-* [StalkFace](https://lookup-id.com/) or [ComoStalkear](https://comostalkear.online/) - *Facebook Stalking & Facebook Scanner*
-* [ChatSilo](https://chatsilo.com/) - *Mini Facebook Messenger CRM*
-* [Unseen Message](https://chrome.google.com/webstore/detail/unseen-message/oapcfkclledjbalilncpoimgjgcndhdo) - *Blocking sending "seen" and typing features in Facebook/Messenger*
-* [Story Saver](https://chrome.google.com/webstore/detail/story-saver/mafcolokinicfdmlidhaebadidhdehpk) or [Swift Video](https://chrome.google.com/webstore/detail/swift-video-downloader-fo/lfhfpakapoeodnooibncpipemmgbdnng) - *Save Stories from Facebook*
 
 ***
 
