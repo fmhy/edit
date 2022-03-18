@@ -27,7 +27,7 @@
 * [Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - *Find Software / App Alternatives* 
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - *Open Source Software Indexes*
 * [Awesome Clones](https://github.com/Envoy-VC/awesome-clones) - *Open Source Clones of Popular Sites*
-* [/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful) - *Helpful / Fun Sites Subreddit / [Randomizer](https://therandombutton.com/)*
+* [/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful) - *Helpful / Fun Sites Subreddit*
 * [/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index), [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/ ) - */r/Piracy Index*
 * [/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread) - *Software Piracy Megathread*
 * [Neverland](http://www.neverland.ws/index.html) - *Piracy Index / [Links](https://rentry.co/oo9ri)* 
@@ -84,10 +84,10 @@
 * [Websites From Hell](https://websitesfromhell.net/) - *Shitty Website Index*
 * [National Archives](http://www.nationalarchives.gov.uk/webarchive/) - *UK Government Site Archive*
 * [UKWA](https://www.webarchive.org.uk/ukwa/) - *UK Site Archive*
-* [DeepWebLinks](https://deepweblinks.net/directories/), [dark.fail](https://dark.fail/),  [260+ Dark Web Links](https://ufile.io/pgvxf9jv), [Official Hidden Wiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/) or [Real World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites)
+* [DeepWebLinks](https://deepweblinks.net/directories/), [dark.fail](https://dark.fail/), [260+ Dark Web Links](https://ufile.io/pgvxf9jv), [Official Hidden Wiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/) or [Real World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites)
 * [The Hive Index](https://thehiveindex.com/) - *Online Communities Index*
 * [NetSplit](https://netsplit.de/) - *IRC Channel Index*
-* [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) - *API index* 
+* [API List](https://apilist.fun/) or [Public APIs](https://github.com/public-apis/public-apis) - *API index* 
 * [Cyberlife](https://cyberpunk-life.neocities.org/) - *Cyberpunk-Related Content / Sites Index* 
 * [Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects) 
 * [sourcehut](https://sr.ht/) - *Public Project Index*
@@ -142,7 +142,6 @@
 * [Pirate Haven](https://pirate-haven.github.io/) - *Guides / Discussion / [Discord](https://discord.gg/JWqrdfN9Y8)*
 * [The MegaDrive](https://discord.gg/FQ6EaprXyr) - *Piracy / DataHoarding Discussion*
 * [/r/AnimePiracy Discord](https://discord.gg/piracy)
-* [Pirated Games Discussion](https://github.com/taskylizard/piratedgames-megathread/discussions/3) - *Game Piracy Discussion*
 * [Gamesurge](https://gamesurge.net/) - *Gaming IRC Community*
 * [GenP](https://www.reddit.com/r/GenP) - *Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)*
 * [Torrent Community](https://t.me/TorrentCommunity) - *Telegram*
@@ -339,10 +338,9 @@
 * [Peter Answers](https://www.peteranswers.com/) - *Create Fake Questions & Answers / [Tutorial](https://peteranswers.info/peter-answers-hack)* 
 * [Deep Fried Web](https://deepfriedweb.mschfmag.com/) - *Deep Fry Web Pages*
 * [No Paint](https://nopaint.art/) - *Press "Paint" if you like what you see, "No" if you don't* 
-* [BubblesPop](https://bubblespop.netlify.app/) or [Relax](https://calming.netlify.app/) - *Pop Bubble Wrap* 
+* [BubblesPop](https://bubblespop.netlify.app/) - *Pop Bubble Wrap* 
 * [ClickToRemove](http://www.clicktoremove.com/) - *Click to Remove Text*
 * [Koalas to the Max](http://www.koalastothemax.com/) - *Make Smaller & Smaller Dots*
-* [Mebious](https://mebious.wirechan.org/) - *Upload Random Images / Text to Public Wall*
 * [RolePlayer](https://www.roleplayer.me/) - *Roleplaying Social Network*
 * [Translation Party](https://www.translationparty.com/) - *Translation Parties*
 * [The Editing Room](https://www.the-editing-room.com/) - *Funny abridged movie scripts*
@@ -415,7 +413,6 @@
 * [Pushing Pixels](https://www.pushing-pixels.org/fui/) or [Saji8k](https://www.saji8k.com/kit-fui/) - *Imaginary UI from Movies*
 * [WTM](https://whatthemovie.com/) - *Guess Movie from Screenshot* 
 * [Kittenwar!](http://www.kittenwar.com/) - *Rate Kittens*
-* [FFACE](https://fface.co/) - *Rate Dumb Faces*
 * [Click Brawl](https://clickbrawl.com/eternal-fight) - *Collaborative Click Wars*
 * [Popcat](https://popcat.click/) - *Worldwide Popcat Clicking Competition*
 * [RPS101](http://www.umop.com/rps101.htm) - *101 Gesture Rock-Paper-Scissors*
@@ -516,11 +513,14 @@
 * [Pornolize](https://pornolize.com/) - *Make Inappropriate Versions of Webpages* 
 * [Just a Minute](https://jinay.dev/just-a-minute/) - *Estimate a Minute*
 * [Checkboxes](http://www.jezzamon.com/checkboxes/index.html) - *Check Boxes* 
-* The Nut Button - [Android](https://play.google.com/store/apps/details?id=com.james.nut) / [iOS](https://apps.apple.com/gb/app/the-official-nut-button-meme/id1462124556) - *You press the Button, it says Nut*
+* [The Nut Button](https://apps.apple.com/gb/app/the-official-nut-button-meme/id1462124556) - *You press the Button, it says Nut*
 * [nooooooooooooooo.com](http://www.nooooooooooooooo.com/) - *Vader NO Button*
 * [Make-A-Wish Foundation](https://discord.gg/pZZ3STQZ9Y) - *100% Real Make-A-Wish*
 * [ChrisMckenzie](https://chrismckenzie.com/) - *:D D:*
 * [Is It A Cat?](https://isitacat.com/) - *Cat Image Detector* 
+* [Tabbycats](https://tabbycats.club/) - *New Cat on Every Tab*
+* [kanye.rest](https://kanye.rest/) - *Random Kanye Quote API / [All Quotes](https://github.com/ajzbc/kanye.rest/blob/master/quotes.json)*
+* [oreoreo](https://oreoreo.glitch.me/) - *Generate Perfect Oreos*
 * [Is It Christmas?](https://isitchristmas.com/) or [Is It Halloween Yet?](https://www.isithalloweenyet.com/) - *Find Out if it's a Holiday*
 * [Presence](https://presence.mrarich.com/) - *Unwrap Presents Remotely*
 * [Flat.Social](https://flat.social/f/hn-virtual-xmas) - *Virtual Christmas Party*
@@ -528,6 +528,7 @@
 * [sCandyBars](https://scandybars.com/) - *Candy Bar Photo Blog*
 * [Matchbox Dan](https://matchbox-dan.com/) - *Matchbox Car Picture Archive*
 * [ASCIIMATION](http://www.asciimation.co.nz/) - *Star Wars ASCII Animation*
+* [Vim Cubed](https://github.com/oakes/vim_cubed) - *Generate Cube Vim Text Editor*
 * [Nestflix](https://nestflix.fun/) - *Fictional Media in Media Database*
 * [Vintage Ad Browser](http://www.vintageadbrowser.com/) - *100,000+ Vintage Advertisements* 
 * [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - *Japanese Commercial Archive*
@@ -637,7 +638,6 @@
 * [CookBook](https://github.com/jlinder/cookbook) - *Recipes* 
 * [Wikibook Cookbooks](https://en.wikibooks.org/wiki/Category:Cookbook) - *Recipes*
 * [Culinary](http://www.culinary.net/) - *Recipes*
-* [pwned.space](https://pwned.space/recipes/) - *Recipes*
 * [Cookpad](https://cookpad.com/us) - *Recipes*
 * [FoodGeeks](https://foodgeeks.com/) - *Recipes*
 * [MyRecipeMagic](https://www.myrecipemagic.com/) - *Recipes*
