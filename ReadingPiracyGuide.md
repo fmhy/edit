@@ -167,7 +167,6 @@
 * [GrayCity](https://graycity.net/) - *Books*
 * [CentslessBooks](https://centslessbooks.com/) - *Books* 
 * [SNEWD](https://snewd.com/) - *Books* 
-* [Appdroid](https://appdroid.io/c/ebook/) - *Books*
 * [doma.crazycz](http://doma.crazycz.net/ebooks/) - *Books*
 * [Litgu.ru](https://litgu.ru/) - *Books*
 * [British Library](https://www.bl.uk/) - *Books*
