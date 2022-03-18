@@ -1677,7 +1677,7 @@ Portuguese
 * [BeenLoveMemory](https://beenlovememory.app/) - *Love Days Counter*
 * [CongCuWeb](https://www.congcuweb.net/), [Vuiz](https://proxy.vuiz.net/), [abProxy](https://proxy.abtech.vn/) - *Web Proxy*
 * [VSpell](https://vspell.com/Spell) - *Vietnamese Spell Checker*
-* [NguoiLa](https://nguoila.io/), [CVNL](https://cvnl.app/) - *Random Chat*
+* [NguoiLa](https://nguoila.io/) or [CVNL](https://cvnl.app/) - *Random Chat*
 * [PhuDeViet](http://phudeviet.org/) - *Subtitles*
 * [XaBuon](https://xabuon.com/), [Xem](https://xem.vn/) - *Meme*
 * [GameVui](https://gamevui.vn/), [Game24h](https://game24h.vn/), [ChoiGame24](https://choigame24.com/) or [Game247](https://game247.vn/) - *Browser Games*
