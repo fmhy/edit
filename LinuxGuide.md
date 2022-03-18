@@ -47,7 +47,7 @@
 * [gazee](https://hub.docker.com/r/linuxserver/gazee/) or [Komikku](https://gitlab.com/valos/Komikku) - *Manga & omic Reader / Manager*
 * [wikit](https://github.com/KorySchneider/wikit) - *Wikipedia Summaries from CLI*
 * [Distrochooser](http://distrochooser.de/?l=2) - *Linux Distro Chooser*
-* [Linux Filesystem Chart](https://cdn.discordapp.com/attachments/670326604261752843/904929766459736124/linux-01c.jpg) - *File System Guide*
+* [Linux Filesystem Chart](https://i.imgur.com/02VycVd.png) - *File System Guide*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old Linux Distro Archive*
 * [Vivek9Patel](https://vivek9patel.github.io/) - *Run Ubuntu on Browser / [GitHub](https://github.com/vivek9patel/vivek9patel.github.io)*
 * [Kvantum](https://github.com/tsujan/Kvantum) - *Linux QT / KDE Theme Engine*
@@ -123,7 +123,7 @@
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) or [Achoz](https://github.com/kcubeterm/achoz) - *File Explorers*
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - *PDF Editor*
 * [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - *Text Editor*
-* [Zathura](https://pwmt.org/projects/zathura/), [2](https://git.pwmt.org/pwmt) - *Document Viewer*
+* [Zathura](https://git.pwmt.org/pwmt) - *Document Viewer*
 * [Winfield](http://www.winfield.demon.nl/) - *MS Word for Linux / OS X* 
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Linux Photoshop Installer*
 * [FlameGApps](https://github.com/flamegapps/flamegapps) - *Google Apps Installer*
@@ -279,7 +279,6 @@
 * [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/wiki/) - *Wiki for Linux Gaming*
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - *Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)*
 * [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) - *Install & Manage Proton-GE for Steam / Wine*
-* [Drauger OS](https://draugeros.org/go/) - *Desktop Gaming Distro*
 * [Batocera.linux](https://batocera.org/) or [Lakka](https://lakka.tv/) - *Retro Gaming Distro*
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - *Rust TUI for Steam*
 * [steam-cli](https://github.com/berenm/steam-cli) - *CLI for Steam*
@@ -413,7 +412,7 @@
 * [MacOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - *Mac Privacy & Security Guides*
 * [Obsidian](https://obsidianapp.io/) - *Two-Factor Authentication*
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - *Block Ads via Host Files*
-* [Adguard DNS](https://cdn.adguard.com/public/Dns/adguard-dns.mobileconfig/) - *Adblocking Profile*
+* [Adguard DNS](https://1fichier.com/?ef26ks4abjzct7o1k8os) - *Adblocking Profile*
 * [Lockdown Privacy](https://lockdownprivacy.com/) - *Block Trackers / Ads*
 * [Stronghold](https://github.com/alichtman/stronghold) - *Mac Security Settings Terminal*
 * [LuLu](https://objective-see.com/products/lulu.html) - *Mac Firewall* 
@@ -441,7 +440,6 @@
 * [Macupdate](https://www.macupdate.com/) 
 * [Mac Torrents](https://www.torrentmac.net/) 
 * [MacTorrents](https://mactorrents.io/) 
-* [Download-Mac-Torrent](http://www.download-mac-torrent.ru/) 
 * [HaxMac](https://haxmac.cc/) 
 * [MacDownload](https://www.macdownload.org/) 
 * [InsMac](https://www.insmac.org/) 
@@ -465,6 +463,5 @@
 * [MacDownload](https://www.macdownload.org/) 
 * [Mac Torrents](https://www.torrentmac.net/) 
 * [MacTorrents](https://mactorrents.io/)
-* [Download-Mac-Torrent](http://www.download-mac-torrent.ru/)
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher*
 * [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - *Gamecube iso.dec to ISO Converter*
