@@ -18,12 +18,10 @@
 * **[The MegaDrive](https://discord.gg/h2P5zsNMxZ)** or [No Bucks Given](https://discord.gg/By53hyhUFS) - *Discord Drive Sharing Community* 
 * **[/r/opendirectories](https://www.reddit.com/r/opendirectories/)** - *Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / /u/ODScanner*
 * **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
-* **[300TB Mega](https://mega.nz/folder/6q4XjSjD#n2aMXLlajXC59snzns_ijw)** / [2](https://mega.nz/folder/c5NHnIob#fJc8_lYkfONbByC_X8eJuw/folder/gxs2xLaJ) / [3](https://mega.nz/folder/4l81jAha#ed19dxGXCtd-VWCEd-flxA)
+* **[300TB Mega](https://mega.nz/folder/6q4XjSjD#n2aMXLlajXC59snzns_ijw)**, [2](https://mega.nz/folder/4l81jAha#ed19dxGXCtd-VWCEd-flxA)
 * **[300TB GDrive](https://drive.google.com/drive/folders/1oCMgJeBc55NuEasPcgwjx2FuPdQd8neu)**
 * [Google TeamDrives](https://onehack.us/t/tds-with-tbs-of-movies-web-series-courses-games-etc/77628) 
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28) 
-* [PureXClydey](https://www.purexclydey.com/xdd/uploads/) 
-* [Public.crackhub](https://public.crackhub.site/) 
 * [index-of](http://index-of.es/) 
 * [Manny Hackers](https://apd.msbots.workers.dev/0:/)
 * [Mirror Bot](https://mirrorbot.sarutobi.workers.dev/)
@@ -32,27 +30,17 @@
 * [TorrentLeech Drive](https://torrentleech.torrentleech-gdrive.workers.dev/) 
 * [HB4All](https://happyboy.hb4all.workers.dev/)
 * [BlinkDrive](https://td2.blinkdrive.workers.dev/) 
-* [Loxxi](https://loxxi.somto811.workers.dev/)
-* [MBot](https://mbot.mhub.workers.dev/)
 * [KL Teamdrive](https://groups.google.com/g/kl-teamdrive)
 * [Black Pirate](https://nsfw.blackpirate.workers.dev/0:/)
 * [Lightz Cloud](https://groups.google.com/g/lightz-cloud)
 * [TD Group](https://groups.google.com/g/xtremecloud-tdgroup)
 * [Mark41stark](https://arcrec.mark41stark.workers.dev/)
-* [Gentle Frost]( https://gentle-frost-7788.edwindrive.workers.dev/)
-* [Khun3](https://bot.khun3.workers.dev/)
-* [Garbage Workers](https://index.garbage.workers.dev/)
-* [Uzemalik](https://teamdrivegroup.uzemalik.workers.dev/)
-* [One Public](https://one.publicdrive.workers.dev/0:/)
-* [RoshansMirrorDrive](https://2.roshansmirrordrive.workers.dev/), [2](https://3.roshansmirror.workers.dev/)
-* [Hasibul](https://drive.hasibul.workers.dev/)
-* [Shibainu](https://shibainu-uploads.site/)
 * [smolOD](https://rentry.co/smolOD) - *Small Open Directories*
 * [Open Directory Index](https://docs.google.com/document/d/1xyyplaw8uyHyaq79YEqtBT85vIqWu0wq7RYFEqbQybc/), [2](https://www.google.com/search?q=site:reddit.com/r/opendirectories+odshot+after:2018), [3](https://opndir.com/), [4](https://redd.it/lvdwlm), [5](https://github.com/strawhat-pirates/notes/blob/master/opendirectories.txt), [6](https://bin.disroot.org/?3082f04205be7af6#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34), [7](https://gist.github.com/Chaphasilor/718e13c1f654b7b0e49b3b41e4855f50), [8](https://redd.it/owdvw7) - *Open Directory Indexes*
 * [ODCrawler](https://odcrawler.xyz/), [ODS](https://sites.google.com/view/l33tech/tools/ods), [EyeDex](https://www.eyedex.org/) or [mmnt](https://www.mmnt.net/) - *Open Directory Search Engine*
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - *FTP Search*
 * [dedigger](https://www.dedigger.com/) - *GDrive File Search* 
-* [MegaDownload](http://megadownload.net/) or [Megasearch](http://megasearch.co/) - *Mega File Search* 
+* [MegaDownload](http://megadownload.net/) - *Mega File Search* 
 * [Create Open Directory Search Engine](https://redd.it/d3w2fu)
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) or [AutoIndex](http://autoindex.sourceforge.net/) - *Open Directory Indexer* 
 * [Directory Lister](https://directorylister.com/) or [OpenDirectoryDownloader](https://open-directory-downloader.herokuapp.com/) - *Open Directory Explorer*
@@ -140,7 +128,6 @@
 * [Win7DL](https://win7dl.org/) - *Video / Audio / Software / Games / Books / Magazines / Android*
 * [Apps4All](https://www.apps4all.com/ ) - *Video / Books / Software / Games / Android*
 * [Katz DDL](https://katzddl.net/) - *Video / Audio / Books / Games / Android / NSFW*
-* [HeroTurko2](https://heroturko2.net/) - *Software / Games / Books / Magazines*
 * [BadshahUploads](https://badshahuploads.xyz/) - *Video / Audio / Software / Games / Books / Leech Required* 
 * [de.ddl](https://en.ddl.me//) - *Video / Games / Books*
 * [The Ambassador](https://ambassadorddl.site/) - *Video / Games / Books*
