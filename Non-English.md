@@ -112,7 +112,7 @@
 * [Dianying](https://dianying.fm/) - *Hash Search*
 * [磁力海](https://cilidog.cc/) - *DHT Search*
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
-* [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io) or [OilAndFish](https://www.oilandfish.com/) - *Bypass Chinese Firewall*  
+* [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser) or [OilAndFish](https://www.oilandfish.com/) - *Bypass Chinese Firewall*  
 * [Gridea](https://github.com/getgridea/gridea) - *Blog Writing Client*
 * [Dict.Baidu](https://dict.baidu.com/) - *Chinese Word, Idiom & Poem Search*
 * [SeiWatei](https://www.seiwatei.net/) - *Chinese Learning Tools*
@@ -1235,6 +1235,7 @@ Portuguese
 
 * **[Russian Internet Blackout Bypass Guide](https://telegra.ph/CHto-delat-pri-otklyuchenii-interneta-02-27), [2](https://www.the-village.ru/situation/howto/otklyuchenie-interneta)**
 * **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_legal_talk](https://t.me/rks_legal_talk) / [rks_org_Bot](https://t.me/rks_org_bot) / [rks_tech_talk](https://t.me/rks_tech_talk) - *Piracy Discussion Telegram*
+* [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser) - *Internet Censorship Circumvention*
 * [DXP](https://dxp.ru/) - *Torrent / Subtitles*
 * [TLauncher Legacy](https://tlaun.ch/) - *Minecraft Client / Cracked Minecraft*
 * [Proxy-Checker](https://proxy-checker.net/) - *Proxy Checker*
