@@ -171,6 +171,7 @@
 * [PangzITV](https://pangzitv.com/) - *Movies / TV / Anime* 
 * [ifsp](https://www.ifsp.tv/) - *Movies / TV / Anime* 
 * [tangrenjie](https://www.tangrenjie.tv/) - *Movies / TV / Anime* 
+* [ddrk](https://ddrk.me/) - *Movies / TV / Anime*
 * [v.qq](https://v.qq.com/) - *Movies / TV / Anime*
 * [MoMoVOD](https://momovod.tv/) - *Movies / TV / Anime*
 * [uvod.tv](https://www.uvod.tv/) - *Movies / TV / Anime*
