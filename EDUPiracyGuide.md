@@ -129,19 +129,16 @@
 * **[freesoff](https://freesoff.com/)** - *Courses*
 * **[TutFlix](https://tutflix.org/)** - *Courses / Drives* 
 * **[Large Collection of Useful Mega DL's](https://pastebin.com/ZMtZa2JV)** - *Courses / Drives*
-* [nocourses](https://nocourses.com/) - *Courses* 
 * [Reks Drive](https://mega.nz/folder/iYQ3SYbA#_o9eO4o1eiCd8QsCTU7iUw) - *Courses*
-* [HMDRIVE](https://t.me/HMDRIVE_OFFICIAL) - *Courses / [Drive](https://courses.hm-drive.xyz/0:/) user: hmdrive pw: hmmods*
+* [HMDRIVE](https://t.me/HMDRIVE_OFFICIAL) - *Courses*
 * [BlackPhoenix James Durden](https://mega.nz/folder/AZAhjSaL#3wzdEx3nPgzzVdVEqVc8nA) - *Courses*
 * [Iit jee lectures](https://t.me/Iitjeeinveins2) - *Lectures / Telegram*   
 * [downloadly](https://downloadly.ir/) - *Courses*
-* [Coursed](https://coursed.co/) - *Courses*
 * [11k+ Courses SpreadSheet](https://docs.google.com/spreadsheets/d/1vazMlMWnI7NxVZcfgpABzCFFEClMjZYUgDk40pdPpTQ/) - *Courses*
 * [Course Megadrives](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA), [2](https://mega.nz/folder/pAl0wRKK#FIZzbYjkT_09qRT5BS2GXQ), [3](https://mega.nz/folder/4t4hhCTa#zIiMZBRVAibATtHxwQ2b_w), [4](https://mega.nz/folder/F9RSWBaK#Nq6DUyPTk10EdjLQ5CWFcQ), [5](https://mega.nz/folder/shpz0ACQ#tdyaQi9HcVM-oKH9NxVewA), [6](https://mega.nz/folder/Y11ghIRC#LPwRFJESUsZ29ioIYex4hw), [7](https://mega.nz/folder/yawWzAKD#tPy0NFBa38xoNZMhXrXn0g), [8](https://mega.nz/folder/5F9WzJ7a#9UdqphaNXS13TTJAgdN15w), [9](https://mega.nz/folder/iIsEkb4B#4tdNHUYTKTJDeIxI2FZE3A), [10](https://mega.nz/folder/Ab4HnABZ#gLR_-deauS6XBfWyouVf-Q), [11](https://mega.nz/folder/B9B1iIZL#1GYxeVaTj3prxSR8kDyRyQ), [12](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA/folder/cupEDYzQ), [13](https://mega.nz/folder/lm5lgQxT#Qh52YqE0-kwP_-eWohMBbw), [14](https://mega.nz/folder/yu4S3BJQ#bhtA-OIeQ2bnuM2bPcU2wQ/folder/Hr4GXT4L) - *Courses*
 * [CoursesDaddy](http://coursesdaddy.com/) - *Courses* 
 * [Course Drive](https://coursedrive.org/) - *Courses* 
 * [Course Doc](https://docs.google.com/spreadsheets/d/1vazMlMWnI7NxVZcfgpABzCFFEClMjZYUgDk40pdPpTQ/edit#gid=0) - *Courses*
-* [freetutorials.ca](https://www.freetutorials.ca/) - *Courses*
 * [Super Huge Course Collection](https://babiato.co/threads/%F0%9F%94%A5%F0%9F%94%A5-super-huge-course-collection-700-courses-3tb-data-%F0%9F%94%A5%F0%9F%94%A5.40041/) - *Courses*
 * [Courses](https://pastebin.com/jQB1shJg), [2](https://pastebin.com/Z7L3Ypzd) - *Courses / Drives*
 * [online-courses](https://online-courses.club/) - *Courses*
@@ -200,7 +197,6 @@
 * [Giga Course](https://gigacourse.com/) - *Udemy Courses / Drive* 
 * [s28.bitdl.ir Udemy](http://s28.bitdl.ir/Compresed/Udemy/), [2](http://s28.bitdl.ir/Video/) - *Udemy Courses / Drive / Use VPN / Pass: bitdownloader.ir*
 * [Udemy 24](https://udemy24.com/) - *Udemy Courses* 
-* [Tutorials-eu](https://freetutorials-eu.com/) - *Udemy Courses*
 * [FreeCourseWeb](http://freecourseweb.com/) - *Udemy Courses* 
 * [Udemycourses](https://udemycourses.me/) - *Udemy Courses* 
 * [CoursesForFree](https://courseforfree.net/) - *Udemy Courses*
@@ -221,7 +217,6 @@
 * [Linkedin_Learning](https://t.me/linkedin_learning) - *Linkedin Courses*
 * [CertCommunity](https://www.certcommunity.org/forum/) - *IT Cert Courses*
 * [Top Linux Interview Questions & Answers](https://mega.nz/#F!K1MnlSzJ!fyLhNA7V_m1z9JZfPW0alg) - *Linux Interview Q&A*
-* [FreeCourseSEO](https://freecourseo.com/) - *GFX Design Courses / [Telegram](https://t.me/freecoursessite1)*
 * [Photoshop Courses](https://mega.nz/folder/Y6RXXKbJ#pnAdcdkSXw7wujTIhN5Blw) - *Photoshop Course Drive*
 * [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - *Download videos from Coursera* 
 * [Skillshare DL Guide](https://i.imgur.com/AIENK0K.png) - *Download videos from Skillshare*
@@ -381,7 +376,6 @@
 * [SunCalc](https://www.suncalc.org/), [ShadowCalculator](http://shadowcalculator.eu/), [FindMyShadow](https://www.findmyshadow.com/) or [MoonCalc](https://www.mooncalc.org/) - *Sun & Moon Position / Phase Calculators* 
 * [SDO Dashboard](https://sdo.gsfc.nasa.gov/data/dashboard/) - *Live Sun Feed*
 * [CelesTrack](https://celestrak.com/) - *Earth Orbit Visualization*
-* [Mars Explorer](https://mars-explorer.dhaiwatpandya.com/) - *Curiosity Rover Pictures*
 * [Mars Now](https://mars.nasa.gov/explore/mars-now/) - *Mars Exploration Program Simulator*
 * [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/) - *Interactive Index of Moons* 
 * [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) or [OMG SPACE](http://omgspace.net/) - *Solar System Scale Model*
@@ -410,7 +404,6 @@
 * [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - *Natural History Museum Virtual Tour* 
 * [Chauvet Cave](https://archeologie.culture.fr/chauvet/en/explore-cave/) - *Chauvet-Pont-d'Arc Cave Virtual Tour* 
 * [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - *Spitfire Mark IX Cockpit Interactve Panorama* 
-* [Explore Pharaoh Ramesses VI Tomb](https://my.matterport.com/show/?m=NeiMEZa9d93) - *Pharaoh Ramesses VI Tomb Virtual Tour*
 * [Virtual Vist Tours](https://www.virtualvisittours.com/) - *Ireland Virtual Tours* 
 * [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [CityWalks](https://citywalks.live/) or [Virtual Vacations](https://virtualvacation.us/) - *Travel Simulator*
 * [Matterport](https://matterport.com/gallery) - *Explore Real Places Digitally*
@@ -477,12 +470,10 @@
 * [KoreanKeyboardLearner](https://monikasun88.github.io/KoreanKeyboardLearner/) - *Korean Typing Practice*
 * [Korean Trainer](http://koreantrainer.mloesch.it/) - *Korean Number & Date Practice*
 * [Hangul](https://hangul.cool/) - *Korean Typing Practice*
-* [Bangtan Korean](https://bangtankorean.com/) - *Learn Korean via BTS Songs*
 * [Train Chinese](https://www.trainchinese.com/), [ChineseSkill](https://www.chineseskill.com/) or [HelloChinese](http://hellochinese.cc/) - *Chinese Learning App*
 * [Cantonese sheik](http://www.cantonese.sheik.co.uk/) or [SinoSplice](https://www.sinosplice.com/) - *Chinese Learning Resources*
 * [DigMandarin](https://www.digmandarin.com/) - *Chinese Learning Tools*
 * [KongLongMandarin](https://www.konglongmandarin.com/) - *Chinese Lessons*
-* [LineChinese](https://www.linechinese.com/) - *Chinese Learning Tips & Culture Info*
 * [HackingChinese](https://www.hackingchinese.com/archive-2/) - *Chinese Learning Articles*
 * [Cantonese.ca](https://cantonese.ca/) - *Chinese Vocabulary*
 * [MDBG](https://www.mdbg.net/) - *Chinese Dictionary*
@@ -612,7 +603,7 @@
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - *5-Minute Audio Lessons / iOS*
 * [Lucid](https://apps.apple.com/us/app/lucid-learn-visually/id1482780647) - *Visual Learning Guides / iOS*
 * [Papers.Xtreme](https://papers.xtremepape.rs/) - *Test Revision Notes & Answers*
-* [SAT QAS](https://www.dropbox.com/sh/fl4d7vyv09z0pzi/AAAd7tblEzFZWftbtu3bw1Y-a?dl=0) or [The SAT: Practice Test 3](https://collegereadiness.collegeboard.org/pdf/sat-practice-test-3.pdf) - *SAT Practice Tests*
+* [The SAT: Practice Test 3](https://collegereadiness.collegeboard.org/pdf/sat-practice-test-3.pdf) - *SAT Practice Tests*
 * [Examveda](https://www.examveda.com/) - *Exam Practice*
 * [CrackAP](https://www.crackap.com/) - *Practice AP Exams*
 * [/r/ApStudents Resources](https://drive.google.com/open?id=1mPT8O9Nou4udtUQOl0W8dk5JgeRNZHSI) - *Former AP Exams*
@@ -644,7 +635,7 @@
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - *Citation Analyzer*
 * [AMCharts](https://live.amcharts.com/), [Charttt](https://editor.charttt.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - *Chart Creator*
 * [flowchart fun](https://flowchart.fun/) - *Generate Flowchart From Text / [GitHub](https://github.com/tone-row/flowchart-fun)*
-* [AWW](https://awwapp.com/), [OpenBoard](https://openboard.ch/), [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - *Whiteboard*
+* [OpenBoard](https://openboard.ch/), [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - *Whiteboard*
 * [app.diagrams](https://app.diagrams.net/) / [Git](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/) or [Gephi](https://gephi.org/) - *Graph / Diagram Creator*
 * [Altium](https://www.altium.com/viewer/) - *Schematics Visualizer*
 * [OpenLearning](https://www.openelearning.org/) - *Create Course Presentations*
