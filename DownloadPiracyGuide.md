@@ -27,12 +27,10 @@
 * [index-of](http://index-of.es/) 
 * [Manny Hackers](https://apd.msbots.workers.dev/0:/)
 * [Mirror Bot](https://mirrorbot.sarutobi.workers.dev/)
-* [matrixmirror](https://drive.matrixbots.workers.dev/0:/) - *[Telegram](https://t.me/matrixmirror) / user: matrixbots pw: shit*
 * [Public Drive Bot](https://index.isumit.workers.dev/)
 * [blacklistedbois](https://dl.blacklistedbois.workers.dev/0:/)
 * [TorrentLeech Drive](https://torrentleech.torrentleech-gdrive.workers.dev/) 
 * [HB4All](https://happyboy.hb4all.workers.dev/)
-* [Mooser](https://tr.mooser.workers.dev/0:/)
 * [BlinkDrive](https://td2.blinkdrive.workers.dev/) 
 * [Loxxi](https://loxxi.somto811.workers.dev/)
 * [MBot](https://mbot.mhub.workers.dev/)
@@ -45,16 +43,13 @@
 * [Khun3](https://bot.khun3.workers.dev/)
 * [Garbage Workers](https://index.garbage.workers.dev/)
 * [Uzemalik](https://teamdrivegroup.uzemalik.workers.dev/)
-* [Fullmetal](https://drive.fullmetal.workers.dev/0:/)
 * [One Public](https://one.publicdrive.workers.dev/0:/)
-* [HashHackers](https://web.hashhackers.com/) -*Use Throwaway Google Account*
 * [RoshansMirrorDrive](https://2.roshansmirrordrive.workers.dev/), [2](https://3.roshansmirror.workers.dev/)
 * [Hasibul](https://drive.hasibul.workers.dev/)
 * [Shibainu](https://shibainu-uploads.site/)
 * [smolOD](https://rentry.co/smolOD) - *Small Open Directories*
 * [Open Directory Index](https://docs.google.com/document/d/1xyyplaw8uyHyaq79YEqtBT85vIqWu0wq7RYFEqbQybc/), [2](https://www.google.com/search?q=site:reddit.com/r/opendirectories+odshot+after:2018), [3](https://opndir.com/), [4](https://redd.it/lvdwlm), [5](https://github.com/strawhat-pirates/notes/blob/master/opendirectories.txt), [6](https://bin.disroot.org/?3082f04205be7af6#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34), [7](https://gist.github.com/Chaphasilor/718e13c1f654b7b0e49b3b41e4855f50), [8](https://redd.it/owdvw7) - *Open Directory Indexes*
-* [ODCrawler](https://odcrawler.xyz/), [CatFiles](https://www.catfiles.net/) or [mmnt](https://www.mmnt.net/) - *Open Directory Search Engine*
-* [ODS](https://sites.google.com/view/l33tech/tools/ods) - *Open Directory CSE*
+* [ODCrawler](https://odcrawler.xyz/), [ODS](https://sites.google.com/view/l33tech/tools/ods), [EyeDex](https://www.eyedex.org/) or [mmnt](https://www.mmnt.net/) - *Open Directory Search Engine*
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - *FTP Search*
 * [dedigger](https://www.dedigger.com/) - *GDrive File Search* 
 * [MegaDownload](http://megadownload.net/) or [Megasearch](http://megasearch.co/) - *Mega File Search* 
@@ -126,7 +121,6 @@
 * [ReleaseHive](https://releasehive.com/) - *Video / Audio / Software / Games / Books / NSFW* 
 * [WawaCity](https://www.wawacity.video/) - *Video / Audio / Books / Magazines / Software / Android / Use AdBlocker*
 * [2DDL](https://2ddl.it/) - *Video / Audio / Software / Games / Books / Comics / Magazines* 
-* [MFTWBB](https://mftwbb.org/) - *Video / Software / Games / Books / Android*
 * [SCENE.RLS](http://scene-rls.net/releases/index.php) - *Video / Audio / Games / Software / Books / Magazines* 
 * [DLWarez](http://dlwarez.xyz/) or [WarezLover](https://warezlover.xyz/) - *Video / Audio / Software / Games / Android / Roms / Books / Magazines* 
 * [heroturko.net](https://www.heroturko.net/) - *Video / Audio / Software / Games / Books / Magazines / Android* 
