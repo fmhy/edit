@@ -1474,6 +1474,7 @@
 
 * [Facebook CSE](https://cse.google.com/cse?cx=65eb7b6b8baf5a5cb) - *Search Facebook*
 * [FBPurity](https://www.fbpurity.com/) or [Social Fixer](https://socialfixer.com/) - *Facebook Enhancement Extension*
+* [uBlock](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook) - *Facebook Filters*
 * [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) - *Hide All Facebook Metrics*
 * [L.O.C](https://chrome.google.com/webstore/detail/loc/eojdckfcadamkapabechhbnkleligand) - *Facebook Management Extension*
 * [Social Tools](https://chrome.google.com/webstore/detail/facebook-block-read-recei/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) - *Block "Sending" & "Seen" Facebook Chat Indicators* 
@@ -1494,6 +1495,11 @@
 * [Album Downloader](https://chrome.google.com/webstore/detail/album-downloader-for-face/oallcdoceahndjmaalbicbcgpfnajgae) - *Album Downloader for Facebook*
 * [Birthday Calendar Exporter](https://github.com/zagushka/birthday-calendar-extractor) - *Birthday Calendar Extractor for Facebook*
 * [FriendFilter](https://friendfilter.io/) - *Friend Filter for Facebook*
+* [Lookup-ID](https://lookup-id.com/) - *Find the Facebook UID*
+* [StalkFace](https://lookup-id.com/) or [ComoStalkear](https://comostalkear.online/) - *Facebook Stalking & Facebook Scanner*
+* [ChatSilo](https://chatsilo.com/) - *Mini Facebook Messenger CRM*
+* [Unseen Message](https://chrome.google.com/webstore/detail/unseen-message/oapcfkclledjbalilncpoimgjgcndhdo) - *Blocking sending "seen" and typing features in Facebook/Messenger*
+* [Story Saver](https://chrome.google.com/webstore/detail/story-saver/mafcolokinicfdmlidhaebadidhdehpk) or [Swift Video](https://chrome.google.com/webstore/detail/swift-video-downloader-fo/lfhfpakapoeodnooibncpipemmgbdnng) - *Save Stories from Facebook*
 
 ***
 
