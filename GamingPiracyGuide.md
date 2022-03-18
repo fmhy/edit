@@ -68,11 +68,12 @@
 * [Game Top](https://www.gametop.com/) - *Casual PC Games* 
 * [TeknoParrot](https://teknoparrot.com/) - *Modern Arcade Client / [Games](http://teknoparrot.link.free.fr/), [2](https://www.retroroms.info/forum/topic/Teknoparrot-games.htm)*
 * [awesome-ttygames](https://ligurio.github.io/awesome-ttygames/) - *ASCII Terminal Games* 
-* [Misc Windows](https://drive.google.com/drive/folders/15QKzyr1Oxddh7CLjVWkD06Sxm6E2YGHm) - *Classic Windows XP Games*
+* [Misc Windows](https://drive.google.com/drive/folders/15QKzyr1Oxddh7CLjVWkD06Sxm6E2YGHm) - *Windows XP Games*
+* [Winaero Games](https://drive.google.com/uc?id=1U70PJKUCHnlSdR6pmjza5NyEAjNsMdxk&export=download) - *Windows 7 Games*
 * [RPG Maker Games](https://rpgmaker.net/games/?name_filter=&amp;engine=&amp;status=&amp;rating=&amp;commercial=exclude&amp;sort=&amp;portal=None) - *Games made via RPG Maker*
 * [VGPErson](https://vgperson.com/games/) - *Japanese Translated Freeware Games*
 * [VRPirates](https://t.me/vrpirates) - *VR Games &amp; Guides / [Discord](https://discord.gg/D9rs7TM)*
-* [Leggendaria](https://chuchy.neocities.org/leggendaria.altervista.org/archive.htm) - *Bemani &amp; Touhou Games*
+* [Leggendaria](https://chuchy.neocities.org/leggendaria.altervista.org/archive.htm) - *Bemani & Touhou Games*
 * [JustEmuTarkov](https://justemutarkov.eu/) - *Escape from Tarkov Emulator*
 * [CWA](https://www.cwaemu.com/) - *Clone Wars Adventures Emulator / [Discord](https://discord.gg/a3Ugb9dzzv)*
 * [NR2003](https://wildkustomcars.weebly.com/) - *Modded Nascar 2003*
@@ -163,7 +164,7 @@
 * [Arcade Punks](https://www.arcadepunks.com/) - *Roms*
 * [CDRomance](https://cdromance.com/) - *Roms*
 * [LoveRoms](https://www.loveroms.online/) - *Roms* 
-* [PSXForever](https://psxforever.com/), [2](https://pspgamesland.com/), [3](https://gameboxadvance.com/), [4](https://legendsroms.com/), [5](https://worldcia3ds.com/), [6](https://akamigames.net/), [7]https://fullgamesnx.com/) - *Roms*
+* [PSXForever](https://psxforever.com/), [2](https://pspgamesland.com/), [3](https://gameboxadvance.com/), [4](https://legendsroms.com/), [5](https://worldcia3ds.com/), [6](https://akamigames.net/), [7](https://fullgamesnx.com/) - *Roms*
 * [FantasyAnime](https://fantasyanime.com/) - *Roms* 
 * [Emulanium](http://www.emulanium.com/roms.php) - *Roms*
 * [NesGM](https://nesgm.net/) - *Roms / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)*
@@ -221,7 +222,6 @@
 * [PSP Collection](https://archive.org/details/rr-sony-playstation-portable ) - *Roms / PSP*
 * [psp.hm7.moe](https://psp.hm7.moe/) - *Modded PSP Collection* 
 * [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - *Roms / Wii U / [Required Keys](https://vault.titlekeys.ovh/)*
-* [WiiWare Collection](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) - *Roms / WiiWare*
 * [Wii Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wii_roms) - *Roms / Wii*
 * [Switch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - *Roms / Nintendo Switch / [Release Trakcer](http://www.nswdb.com/)*
 * [Gamecube Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gamecube_roms) - *Roms / GameCube*
@@ -235,7 +235,7 @@
 * [Stop Spamming ](http://danswer.stopspamming.net/sega/) or [Sega Rom Drive](https://drive.google.com/drive/folders/1iYc2T6wfsSQsgf50VsNuN256prc6tagT) - *Roms / Sega*
 * [Dreamcast Collection](https://archive.org/details/almstcmpltdrmcst) - *Roms / Dreamcast*
 * [Sega Saturn Collection](https://archive.org/details/SgaStrnCmplt) - *Roms / Sega Saturn*
-* [3DO Roms](https://archive.org/details/3DO_2017_Reference_Set_Redump_Validated_ROMs), [2](https://archive.org/details/Panasonic-3DO-Redump.org-2019-05-14) - *Roms / 3DO*
+* [3DO Roms](https://archive.org/details/3DO_2017_Reference_Set_Redump_Validated_ROMs) - *Roms / 3DO*
 * [HiddenPalace](https://hiddenpalace.org/) - *Game Development Media Archive*
 * [Xbox Collection](https://archive.org/details/xboxcds?sort=-downloads) or [Xbox_Eng_Romset](https://archive.org/details/xbox_eng_romset) - *CD Roms / Xbox / DDL / Torrents*
 * [PSF3](http://psf3.joshw.info/) - *Ripped &amp; Extracted PS3 Roms / No PKG*
@@ -612,7 +612,6 @@
 * [Flappy 2048](https://www.flappy-2048.com/) - *Flappy Bird Style 2048*
 * [PROXX](https://proxx.app/) - *Space Minesweeper*
 * [Rockbasher](https://www.rockbasher.com/) - *Retro Style Puzzle Game*
-* [Blocks](https://theblocks.netlify.app/) - *Puzzle Game* 
 * [Treksit](https://treksit.com/index.html) - *Puzzle Game*
 * [Game about Squares](http://gameaboutsquares.com/) - *Puzzle Game*
 * [Euclidea](https://www.euclidea.xyz/) - *Geometric Puzzles*
