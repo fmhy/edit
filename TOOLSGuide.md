@@ -66,7 +66,6 @@
 * [DiaperGrid](https://diapergrid.com/) - *Compare Diaper Prices*
 * [StockInformer](https://www.stockinformer.com/) - *Product Stock Notifications*
 * [Netblocks](https://netblocks.org/cost/) - *Find Impact of Internet Shutdown on Economy*
-* [Solving Resources](https://the-unwelcome.github.io/resources/solving_resources.html) - *Code & Puzzle Solving Resources*
 * [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - *Bedtime Calculator* 
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - *Bra Size Calculator*
 * [The Sustainabilitist](https://sustainabilitist.com/) - *Sustainability Resource Hub*
@@ -329,7 +328,7 @@
 * [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - *Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)*
 * [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - *Flame Fractal Rendering Software*
 * [LibreSprite](https://libresprite.github.io/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - *Pixel Art Animation Tools*
-* [BestSnip](https://bestsnip.com/animation/) or [Mulator](https://multator.ru/) - *Online Animation Tool*
+* [BestSnip](https://bestsnip.com/animation/), [Rive](https://rive.app/) or [Mulator](https://multator.ru/) - *Online Animation Tool*
 * [Mixamo](https://www.mixamo.com/) - *3D Character Animation Tool*
 * [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - *3D Human Model Creator*
 * [Vinci](https://vinci.surreal-ai.com/home/free-talking-avatar) - *Create Talking AI*
@@ -360,7 +359,7 @@
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - *Nico Nico Video Player*
 * [polsy.org.uk](http://polsy.org.uk/) - *Alt Players for Video Sites*  
 * [After Effects Templates](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_after_effects_templates) - *Download After Effect Templates*
-* [FootageCrate](https://footagecrate.com/), [MATESFX](https://www.freevideoeffect.com/), [FreeVideoEffect](https://freevideoeffect.com/), [IntroHD](https://www.introhd.net/) or [VFXDownload](https://www.vfxdownload.net/) - *Video Effects*
+* [FootageCrate](https://footagecrate.com/), [MATESFX](https://www.freevideoeffect.com/), [FreeVideoEffect](https://freevideoeffect.com/), [IntroHD](https://www.introhd.net/), [VFXmed](https://www.vfxmed.com/) or [VFXDownload](https://www.vfxdownload.net/) - *Video Effects*
 * [Tyle](https://tyle.io/) - *Photo Slideshow Video Maker*
 * [Rollideo](https://rollideo.com/) - *Text to Speech / Subtitles*
 * [video2x](https://github.com/k4yt3x/video2x) - *Video Upscaler*
@@ -613,7 +612,6 @@
 * [Stocksera](https://stocksera.pythonanywhere.com/) or [Screener](https://www.screener.in/) - *Stock Tracker*
 * [neostox](https://neostox.com/) - *Practice Stock Trading*
 * [Trading Talks](https://tradingtalks.org/) - *Business Courses*
-* [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
 * [ProCrack_Team](https://www.mediafire.com/folder/l4w8gcdcqsqtw/ProCrack_Team) - *Marketing Courses*
 * [Stock Trading Courses](https://mega.nz/folder/RNERkCIS#w0DcWggAasYz8vKl1jHkGw) - *Trading Courses*
 * [Traders Heaven](https://mega.nz/folder/QhYyTRRD#qNNIFuq3YGchXA1qS-Yqow) - *Trading Courses*
@@ -706,7 +704,7 @@
 * [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - *Communication Software Index*
 * [Discord](https://discordapp.com/), [Guilded](https://www.guilded.gg/) / [Mod](https://github.com/ReGuilded/ReGuilded/) or [Revolt](https://revolt.chat/) - *Messaging Platforms*
 * [Twist](https://twist.com/) - *Collaboration Chat Manager*
-* [Hack.chat](https://hack.chat/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - *Minimal Account Free Chat* 
+* [Hack.chat](https://hack.chat/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - *Minimal Account Free Chat* 
 * [Cirlos](https://www.cirlos.net/) or [WeeChat](https://weechat.org/) - *Chat App*
 * [KiwiIRC](https://kiwiirc.com/) - *WebIRC Client*
 * [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [PeerLinks](https://peerlinks.io/) or [Bitchx](http://bitchx.sourceforge.net/) - *IRC Client*
@@ -937,7 +935,6 @@
 * **[t.ly](https://t.ly/)** - `t.ly/qqH6`
 * **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
 * [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
-* [soo.gd](https://soo.gd/) - `soo.gd/YCtV`
 * [gg.gg](http://gg.gg/) - `gg.gg/oggp7`
 * [Teknik](https://shorten.teknik.io/) - `tknk.io/GH5X` 
 * [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
@@ -1032,7 +1029,7 @@
 * [KarmaDecay](http://karmadecay.com/) - *Reddit Reverse Image Search* 
 * [Reddit Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_alternatives) - *Alternative Reddit Style Sites*
 * [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/) or [Nuxtit](https://nuxtit.netlify.com/) - *Alt Browsers / Web Clients*
-* [xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/) / [2](https://github.com/spikecodes/libreddit), [Saturnus](https://saturnusapp.com/), [Inccogsnoo](https://incogsnoo.com/) or [teddit](https://teddit.net/) / [2](https://codeberg.org/teddit/teddit) - *Reddit Frontends*
+* [Reddit Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_frontends)
 * [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466-unedit-and-undelete-for-reddit) - *See Edited & Deleted Reddit Content*
 * [Reddit-Search](https://camas.github.io/reddit-search/), [Unddit](https://www.unddit.com/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - *View Deleted Reddit Posts*
 * [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - *View Deleted Reddit Comments* 
@@ -1169,7 +1166,7 @@
 * [Craig](https://craig.chat/) - *Voice Channel Recorder / [Backup(https://craig.chat/home/giarc)*
 * [Forms](https://gitlab.com/rubellite/engineering/forms ) - *Google Form Responses as Discord Embeds*
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter), [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker), [discord-archiver](https://github.com/nektro/discord-archiver) or [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper) - *Archive / Export Discord Chats* 
-* [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - *Discord Anti Phishing Bot*
+* [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) or [Phish Grabber](https://phishgrabber.dis.tf/) - *Discord Anti Phishing Bot*
 * [pullcord](https://github.com/tsudoko/pullcord) - *Discord Archiver*
 * [discord2sheet-bot](https://github.com/hugonun/discord2sheet-bot) - *Store Messages to Google Sheets*
 * [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion), [discord-delete](https://github.com/adversarialtools/discord-delete), [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) or [QuickDeleteMessages](https://u.nu/9i9jk) - *Delete Discord Messages / [Warning](https://i.imgur.com/Kt8G430.png)* 
@@ -1179,7 +1176,6 @@
 * [Discord-Webhook-Delete](https://github.com/fknMega/Discord-Webhook-Delete) - *Webhook Remover*
 * [Embed Visualizer](https://embed.discord.website/) - *Embed Visualization Tool* 
 * [Chimera](https://github.com/CedArctic/Chimera) - *System Remote Control* 
-* [Discord IRC](https://github.com/reactiflux/discord-tirc) - *Connect Discord & IRC Chats* 
 * [The Cleaner](https://cleaner.leodev.xyz/) - *Remove Spam / Phishing Links*
 * [Discord Reputation](https://discordrep.com/) - *Prevent Discord Fraud*
 * [Discord Auto Upload](https://github.com/tardisx/discord-auto-upload) - *Auto Upload Screenshots*
@@ -1192,7 +1188,6 @@
 * [Discord.ID](https://discord.id/) - *Lookup a Discord User or Bot ID* 
 * [Discord Markdown Cheatsheet](https://pbs.twimg.com/media/EhCUbVnWAAE5tHx?format=png&name=900x900), [2](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-), [3](https://c.r74n.com/discord/formatting) - *Discord Markdown Guide*
 * [Discord Avatar Maker](https://discord-avatar-maker.app/) - *Make Discord Avatars*  
-* [discordzoom](https://discordzoom.com/en/) - *Enlarge and Download Discord Avatars*
 * [usrbg](https://github.com/Discord-Custom-Covers/usrbg) or [Pfps.gg](https://pfps.gg/) - *Discord Custom Profile Backgrounds / [Discord](https://discord.gg/2YcxDChxS5)* 
 * [Auto Creative](https://auto.creavite.co/icons) - *Animated Icon & Banner Generator*
 * [DiscordBannerTester](https://dav1312.github.io/BD/DiscordBannerTester/) - *Test Discord Banners*
@@ -1223,7 +1218,6 @@
 * [Discord Previews](https://discord.gg/QMw7gQGMHj) - *New Discord Builds / Changes*
 * [Discord.sale](https://discord.sale/), [2](https://builds.discord.sale/) - *Discord Client Build Info*
 * [discasset](https://github.com/Commandtechno/discasset), [2](https://gitlab.com/derpystuff/discasset) - *Discord Asset Grabber*
-* [Imagine](https://imagine.vanished.rocks/) - *Imagine Discord Branding Image Creator*
 * [BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - *Bot Messaging Panel*
 * [Figma](https://www.figma.com/community/file/992144378612759941/Discord-Resources) - *Discord Resources / [Desktop](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)*
 * [Mon2Cam](https://github.com/ShayBox/Mon2Cam) - *Multi-Monitor Discord Screenshare Fix*
@@ -1289,7 +1283,7 @@
 * [vidIQ](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl) - *YouTube Viewership Data*
 * [Channel Crawler](https://channelcrawler.com/eng) - *YouTube Channel Search*
 * [TubeArchivist](https://www.tubearchivist.com/) - *Archival Youtube Media Server / [GitHub](https://github.com/bbilly1/tubearchivist)*
-* [Astronaut.io](http://astronaut.io/), [Incognitube](https://www.incognitube.com/) or [Petit tube](http://www.petittube.com/) - *YouTube Vids with -100 views* 
+* [Incognitube](https://www.incognitube.com/) or [Petit tube](http://www.petittube.com/) - *YouTube Vids with -100 views* 
 * [YouTube-Geofind](https://mattw.io/youtube-geofind/location) - *Find Geotagged Videos* 
 * [Default Filename](https://default-filename-tv.neocities.org/) - *Random Default Filename YouTube Videos*
 * [Tubeup](https://github.com/bibanon/tubeup) - *Archive Youtube Videos and Playlists to Internet Archive*
@@ -1335,7 +1329,7 @@
 * [Disable 60fps](https://greasyfork.org/en/scripts/23329-disable-youtube-60-fps-force-30-fps) - *Force 30fps on YouTube*
 * [YouTube CPU Tamer](https://greasyfork.org/en/scripts/431573-youtube-cpu-tamer-by-animationframe) - *YouTube CPU Optimization*
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - *Fix YouTube Aspect Ratio*
-* [YouTube Unlimited](https://gitlab.com/Shub_/youtube-unlimited) or [YoutubeNonStop](https://github.com/lawfx/YoutubeNonStop) - *Removes the YouTube: "Video Paused, Continue Watching?"* 
+* [YoutubeNonStop](https://github.com/lawfx/YoutubeNonStop) - *Removes the YouTube: "Video Paused, Continue Watching?"* 
 * [Video Resumer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_resumer) - *Automatically resumes YouTube videos from where you played them last*
 * [ProgressBar Preserver](https://greasyfork.org/scripts/394512) - *Always Visible Progress Bar YouTube*
 * [Equalizer for YouTube](https://mybrowseraddon.com/equalizer-for-youtube.html) - *Audio Equalizer*
@@ -1434,8 +1428,9 @@
 * [HashTagStack](https://www.hashtagstack.com/) - *Hashtag Engagement Tracker*
 * [Hashait](https://www.hashatit.com/) - *Hashtag Search*
 * [Buhitter](https://buhitter.com/) - *Twitter Illustration Search*
-* [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [Savetweetvideo](https://chrome.google.com/webstore/detail/savetweetvid/mklnanllkbjgnnhammmgfnnbnbhnifme), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - *Download Twitter Videos* 
+* [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [DownloaderBot](https://twitter.com/DownloaderBot), [Savetweetvideo](https://chrome.google.com/webstore/detail/savetweetvid/mklnanllkbjgnnhammmgfnnbnbhnifme), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - *Download Twitter Videos* 
 * [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/) or [SocialBearing](https://socialbearing.com/) - *Analyze Twitter Accounts* 
+* [RedBlock](https://github.com/gaeulbyul/RedBlock) - *Block Multiple Users on Twitter*
 * [TweeterID](https://tweeterid.com/) - *Twitter User ID & Username Converter* 
 * [NoFT](https://noft.gg/) - *Automatically Block all NFT Profile Pictures / [GitHub](https://github.com/ottomated/noft)*
 * [Spoonbill](https://spoonbill.io/) - *Track Profile Changes of People you Follow* 
@@ -1467,7 +1462,6 @@
 * [Twlets](http://twlets.com/) - *Export Twitter Data* 
 * [Twint](https://github.com/twintproject/twint) - *Twitter Scraping / OSINT Tool*
 * [QuestionBox](https://peing.net/en/) - *Anonymous Twitter Question Tool*
-* [RandomTweet](https://randomtweet.com/) - *Get a Random Tweet from any User*
 * [EmojiTracker](http://emojitracker.com/) - *Real-Time Twitter Emoji Use* 
 * [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) - *Remove All Twitter Metrics*
 * [Cheap Bots, Done Quick](https://cheapbotsdonequick.com/) - *Create Twitter Bots*
@@ -1697,7 +1691,6 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [Nomad](https://www.nomadproject.io/) - *App Deployment Automation / [GitHub](https://github.com/hashicorp/nomad)*
 * [cygwin](http://cygwin.com/) - *Linux Style Windows Tools*
 * [GWSL-Source](https://github.com/Opticos/GWSL-Source) - *Run Linux Apps on Windows*
-* [WSL2 Distrod](https://github.com/nullpo-head/wsl-distrod) - *Install Distros with Systemd & Auto-Start On*
 * [Menu11](https://github.com/prateekmedia/Menu11) - *Windows 11 Style Launcher*
 * [DreyMaR's](https://dreymar.colemak.org/) - *Keyboard Tips and Resources*
 * [Keyboard University](https://keyboard.university/) or [KDB](http://xahlee.info/kbd/keyboarding.html) - *Mechanical Keyboard Building Guides*
@@ -1926,7 +1919,6 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install), [dank.d
 * [Adobe Excel to PDF](https://www.adobe.com/acrobat/online/excel-to-pdf.html) - *Convert Excel Files to PDF*
 * [JPG-to-PDF](https://github.com/praneetk2704/JPG-to-PDF) [Images to PDF](https://github.com/Swati4star/Images-to-PDF), [JPG2PDFBot](https://t.me/JPG2PDFBot), [Adobe Converter](https://www.adobe.com/acrobat/online/jpg-to-pdf.html) or [img2pdf](https://pypi.org/project/img2pdf/) - *Image to PDF Converter*
 * [PDFCrowd](https://pdfcrowd.com/), [HTMLaPDF](https://www.htmlapdf.com/ ) or [wkhtmltopdf](https://wkhtmltopdf.org/) - *HTML to PDF / Image Converter*
-* [ShowPDF](http://showpdf.com/) - *PDF to HTML Converter*
 * [PSTOEdit](http://pstoedit.net/) - *Convert PDF to other Vector Formats* 
 * [Issuu](https://issuu.com/) - *Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/), [3](https://docdownload.net/)* 
 * [WebToPDF](https://webtopdf.com/) or [PDFmyURL](https://pdfmyurl.com/) - *Webpage to PDF Converter*
@@ -2024,7 +2016,7 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install), [dank.d
 * [Snap2HTML](https://rlvision.com/snap2html/about.php) - *Take HTML Snapshots of Folder / File Structures*
 * [Corrupt My File](http://www.corruptmyfile.com/) or [Corrupt-A-File](https://corrupt-a-file.net/) - *Intentionally Corrupt your Files*
 * [Minissign](https://jedisct1.github.io/minisign/) - *Sign and Verify Signatures*
-* [HashTab](http://implbits.com/products/hashtab/), [HashCheck](https://github.com/idrassi/HashCheck) or [OpenHashTab](https://github.com/namazso/OpenHashTab) - *Calculate / Check File Hashes* 
+* [HashCheck](https://github.com/idrassi/HashCheck) or [OpenHashTab](https://github.com/namazso/OpenHashTab) - *Calculate / Check File Hashes* 
 * [QuickSFV](https://quicksfv.org/), [RapidCRC](http://rapidcrc.sourceforge.net/) or [QuickDash](https://github.com/AndreVuillemot160/QuickDash/) / [Discord](https://discord.gg/ZuxmMXdGpm) - *File Hashing / Verification Tools*
 * [Hashes](https://hashes.com/) - *Decrypt Hashes*
 * [MD5 Hash Changer](https://github.com/ewwink/MD5-Hash-Changer) - *Change a Files MD5 Hash*
@@ -2041,7 +2033,7 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install), [dank.d
 * [HxD](https://mh-nexus.de/en/hxd/), [Hex Works](https://hex-works.com/eng) or [Hexinator](https://hexinator.com/) - *Hex Editor*
 * [webhex.net](https://en.webhex.net/) - *Online Hex Viewer*
 * [HexEd.it](https://hexed.it/) or [Online Hex Editor](https://www.onlinehexeditor.com/) - *Online Hex Editor*
-* [infekt](https://infekt.ws/) or [NFOmation](https://nfomation.net/) - *NFO File Viewer*
+* [infekt](https://infekt.ws/) / [GitHub](https://github.com/syndicodefront/infekt), [nfoview](https://otsaloma.io/nfoview/) / [GitHub](https://github.com/otsaloma/nfoview) or [NFOmation](https://nfomation.net/) - *NFO File Viewer*
 * [text2img](https://master.ayra.ch/text2img/) - *NFO Files to Image Converter*
 * [Linx Server](https://github.com/andreimarcu/linx-server), [FileCream](https://filecream.com/) or [FileStash](http://www.filestash.app/) - *Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)*
 * [Linux Reader](https://www.diskinternals.com/linux-reader/) - *Access Linux Files on Windows*
