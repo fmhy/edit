@@ -84,7 +84,6 @@
 * [ebook3000.co](https://www.ebook3000.co/) - *Books / Magazines / NSFW*
 * [29GB Mega Folder](https://mega.nz/folder/x4VG3DRL#lqecF4q2ywojGLE0O8cu4A) - *Books* 
 * [just a digital library](https://drive.google.com/drive/folders/1iQMdq5yK0EBqa1fgkmQTfW7EWSeJWYvT) - *Books*
-* [BlackPhoenix James Durden](https://mega.nz/folder/AZAhjSaL#3wzdEx3nPgzzVdVEqVc8nA) - *Books*
 * [Nikola](https://mega.nz/folder/flYQGbzI#p1AFjtMuCLHQqocJqxV7rg) - *Books*
 * [bitdl 1](http://s1.bitdl.ir/), [2](http://s3.bitdl.ir/), [3](http://s5.bitdl.ir/), [4](http://s8.bitdl.ir/), [5](http://s9.bitdl.ir/), [6](http://s10.bitdl.ir/), [7](http://s11.bitdl.ir/), [8](http://s13.bitdl.ir/), [9](http://s14.bitdl.ir/) - *Books*
 * [Books.cat](https://books.cat/) - *Books  / Forum / Requests* 
