@@ -1677,6 +1677,7 @@ Portuguese
 * [BeenLoveMemory](https://beenlovememory.app/) - *Love Days Counter*
 * [CongCuWeb](https://www.congcuweb.net/), [Vuiz](https://proxy.vuiz.net/), [abProxy](https://proxy.abtech.vn/) - *Web Proxy*
 * [VSpell](https://vspell.com/Spell) - *Vietnamese Spell Checker*
+* [NguoiLa](https://nguoila.io/), [CVNL](https://cvnl.app/) - *Random Chat*
 * [PhuDeViet](http://phudeviet.org/) - *Subtitles*
 * [XaBuon](https://xabuon.com/), [Xem](https://xem.vn/) - *Meme*
 * [GameVui](https://gamevui.vn/), [Game24h](https://game24h.vn/), [ChoiGame24](https://choigame24.com/) or [Game247](https://game247.vn/) - *Browser Games*
@@ -1739,6 +1740,7 @@ Portuguese
 * [GhienTV](https://ghientv.net/) - *Movies / TV*
 * [Vkool](https://vkoolz.net) - *Movies / TV*
 * [XemPhim](https://xemphim.app/) - *Movies / TV*
+* [Phim4400](https://xemphimnao.com/) - *Movies / TV*
 * [MotChill](https://motchill.net/), [2](https://motphimtv.tv/) - *Movies / TV*
 * [BiChill](https://bichill.tv/) - *Movies / TV*
 * [PhimChill](https://phimchill.tv/), [2](https://phimmoichill.net/) - *Movies / TV*
@@ -1812,6 +1814,7 @@ Portuguese
 * [DocTruyen3Q](https://doctruyen3qi.com/), [2](https://doctruyen3qz.com/) - *Manga / Manhwa / Manhua*
 * [Mangai](https://mangaii.com/) - *Manga / Manhwa / Manhua*
 * [Cmangaka](https://cmangaka.com/) - *Manga*
+* [Weeboo](https://weeboo.vn/) - *Manga / Manhwa / Manhua*
 * [NetTruyen](http://www.nettruyengo.com/), [2](http://www.nettruyenmoi.com/), [3](http://www.nettruyenpro.com/) - *Manga / Manhwa / Manhua*
 * [TruyenFull](https://truyenfull.vn/), [2](https://lnvs.net/) - *Manga / Light Novels*
 * [Hako](https://ln.hako.re/), [2](https://docln.net/), [3](https://novelvn.net/) - *Light Novels*
