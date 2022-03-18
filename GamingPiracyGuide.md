@@ -49,7 +49,7 @@
 * [silentycrying's Game Drive](https://drive.google.com/drive/u/0/folders/1K1FdNbEu9-_wy8vn9sE768VojXqu6Fnp) 
 * [Cracked Games](https://drive.google.com/drive/u/0/folders/1923I8RvjiE112Fzca1WshxMIwlL338Ea)
 * [DLFox](https://www.dlfox.com/)
-* [Alphagames4u](https://alphagames4u.com/) 
+* [Alphagames4u](https://alphagames4u.com/) - *[Discord](https://discord.gg/QjrJSs7maj)*
 * [GamesFull](https://gamesfull.app/) 
 * [DarckRepacks](https://darckrepacks.com/) - *[Discord](https://discord.gg/5eRvDvy)*
 * [SPiKY Repacks](https://discord.gg/ZHC6pffMz2) - *[GamesDrive Uploader](https://gamesdrive.co/)*
