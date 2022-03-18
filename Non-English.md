@@ -812,7 +812,6 @@ French / General Torrent Tracker
 * **[downloadha](https://www.downloadha.com/)** - *Video / Audio / Software / Games / Android* 
 * [TelFiles_Bot](https://t.me/TelFiles_Bot) - *Persian File to Direct Link Telegram Bot* 
 * [soft98](https://soft98.ir/) - *Software / Courses / eBooks*
-* [Asian Drama Sites (Persian)](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_asian_drama_download) 
 * [Persian Telegram Courses](https://rentry.co/sn66v) 
 * [TeleLeecherbot](https://t.me/TeleLeecherbot) or [kLeechBot](https://t.me/kLeechBot) - *Persian Movie Leech Telegram Bots* 
 * [FilmgramBot](https://t.me/FilmgramBot) or [FileMovieBot](https://t.me/FileMovieBot) - *Persian Movie Search Telegram Bots* 
