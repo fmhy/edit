@@ -29,7 +29,7 @@
 * [BusyBox](https://frippery.org/busybox/) - *Unix Tools*
 * [Awesome-shell](https://github.com/alebcay/awesome-shell) - *List of CLI Tools*
 * [Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome) - *GNOME Distro Resources*
-* [Enlightment](https://www.enlightenment.org/) - *Desktop and Window Manager*
+* [Enlightment](https://www.enlightenment.org/) or [dwm](https://dwm.suckless.org/) - *Window Manager*
 * [swizzin](https://swizzin.ltd/) - *Seedbox for Ubuntu / Debian* 
 * [rtinst](https://github.com/arakasi72/rtinst) - *Seedbox Installation Script for Ubuntu / Debian* 
 * [anime-terminal](https://github.com/YogeshLamichhane/anime-terminal) or [ani-cli](https://github.com/pystardust/ani-cli) - *Anime Streaming Terminal for Linux*
@@ -58,8 +58,7 @@
 * [Polybar](https://github.com/jaagr/polybar) or [lemonbar](https://github.com/LemonBoy/bar) - *Customizable Status Bar*
 * [Fix Guild Lag](https://wiki.archlinux.org/title/Discord#Lagging_when_scrolling_through_your_guilds) - *Fix Guild Scrolling Lag*
 * [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - *Hardcoded Tray Icon Fix*
-* [Tunic](https://github.com/mikeslattery/tunic) - *Install Linux Over or Alongside Windows*
-* [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - *Windows Subsystem Resources*
+* [WSL](https://docs.microsoft.com/en-us/windows/wsl/) or [Tunic](https://github.com/mikeslattery/tunic) - *Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)*
 * [RockstarKernel_WSL2](https://github.com/Dhruvgera/RockstarKernel_WSL2) - *Windows Subsystem Kernal*
 * [Darling](https://www.darlinghq.org/) - *Run MacOS Programs on Linux*
 * [OSX-KVM](https://github.com/kholia/OSX-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - *MacOS Virtual Machine*
@@ -73,7 +72,7 @@
 * [Rang3r](https://github.com/floriankunushevci/rang3r) - *IP / Port Scanner*
 * [Brunch](https://github.com/sebanc/brunch) or [Chromefy](https://github.com/imperador/chromefy) - *ChromeOS Installer*
 * [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [FydeOS](https://fydeos.io/download), [NeverWare](https://www.neverware.com/) or [WayneOS](https://wayne-os.com/) - *ChromeOS Based OS*
-* [Chromebrew](https://github.com/skycocker/chromebrew) - *Package manager for Chrome OS*
+* [Chromebrew](https://github.com/skycocker/chromebrew) - *Package Manager for Chrome OS*
 * [Crouton](https://github.com/dnschneid/crouton) - *Chromebook Linux OS*
 * [Pop!_OS Shell](https://github.com/pop-os/shell) - *Pop-Shell for GNOME*
 * [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - *One-Click Remote Desktop* 
@@ -81,6 +80,7 @@
 * [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - *Create Bootable USB Windows Drives*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
 * [GParted](https://gparted.org/) - *Partition Manager*
+* [howtodebuntu](https://github.com/themagicalmammal/howtodebuntu) - *Tweaks for Debian Based Distros*
 * [ckb-next](https://github.com/ckb-next/ckb-next) - *Corsair RGB Driver for Linux*
 * [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - *Mac Theme*
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme), [Moka](https://snwh.org/moka), [Numix](https://github.com/numixproject/numix-icon-theme) or [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - *Linux Icon Themes*
@@ -88,9 +88,10 @@
 * [ricemood](https://github.com/fhadiel/ricemood) or [wpgtk](https://deviantfero.github.io/wpgtk) - *Fully Customizable Unix Color Schemer*
 * [Akira](https://github.com/akiraux/Akira) - *UI/UX Customization*
 * [Windows-10](https://github.com/B00merang-Project/Windows-10) - *Linux Windows 10 Theme*
-* [HydraPaper](https://hydrapaper.gabmus.org/), [styli.sh](https://github.com/thevinter/styli.sh) or [Komorebi](https://github.com/cheesecakeufo/komorebi) - *Wallpaper Manager*
+* [HydraPaper](https://hydrapaper.gabmus.org/), [Fondo](https://github.com/calo001/fondo), [styli.sh](https://github.com/thevinter/styli.sh) or [Komorebi](https://github.com/cheesecakeufo/komorebi) - *Wallpaper Manager*
 * [Video Wallpaper](https://github.com/ghostlexly/gpu-video-wallpaper) - *Use Videos as Animated Wallpaper*
 * [Polychromatic](https://polychromatic.app/) - *Linux System Light Control*
+* [ly](https://github.com/fairyglade/ly) - *Display Manager with Console UI*
 * [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - *Window Closing Effects*
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) - *Noise Cancellation Software*
 * [Giara](https://aur.archlinux.org/packages/giara/) - *Reddit Client / [GitHub](https://gitlab.gnome.org/World/giara)*
@@ -103,6 +104,7 @@
 * [browsh](https://www.brow.sh/) - *Text based Browser*
 * [Librewolf Linux](https://librewolf-community.gitlab.io/) or [Dot Browser](https://github.com/dothq/browser) - *Privacy-Based Browser*
 * [Thorium](https://github.com/Alex313031/Thorium) - *Chromium-Based Browser*
+* [htop](https://htop.dev/) - *Interactive Process Viewer / [GitHub](https://github.com/htop-dev/htop)*
 * [pass](https://www.passwordstore.org/) - *Unix Password Manager* 
 * [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) or [GnomeKeyring](https://wiki.gnome.org/Projects/GnomeKeyring) - *GNOME Password Manager* 
 * [gopass](https://www.gopass.pw/) - *CLI Password Manager*
@@ -113,7 +115,7 @@
 * [Curlew](https://curlew.sourceforge.io/) - *Linux File Converter*
 * [Dolphin](https://userbase.kde.org/Dolphin) or [ranger](https://github.com/ranger/ranger) - *File Manager*
 * [nnn](https://github.com/jarun/nnn) or [NCDU](https://github.com/rofl0r/ncdu) - *Terminal File Manager/Disk Usage Analyzer*
-* [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - *On-demand Window Manager Tiling*
+* [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - *Tiling Windows Manager / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)*
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/jmmaranan/forge) - *GNOME Tiling Extension*
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - *KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)*
 * [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) or [GDown](https://github.com/wkentaro/gdown) - *Google Drive Downloader*
@@ -138,6 +140,7 @@
 * [Flowblade](https://github.com/jliljebl/flowblade) - *Video Editor*
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Image Editor* 
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) - *Image to Text*
+* [Feh](https://feh.finalrewind.org/) - *Lightweight Image Viewer*
 * [lsix](https://github.com/hackerb9/lsix) - *View Images in Terminal*
 * [Rapid](https://damonlynch.net/rapid/) - *Quick Linux Photo Importer*
 * [Drawing](https://github.com/maoschanz/drawing) - *Drawing App*
@@ -178,6 +181,7 @@
 * [ss64 Bash](https://ss64.com/bash/) - *Linux Bash Commands*
 * [Helmanual](https://helpmanual.io/) - *Unix Commands*
 * [bashrcgenerator](http://bashrcgenerator.com/) - *.bashrc Generator*
+* [dunst](https://dunst-project.org/) - *Customizable Notification Daemon / [GitHub](https://github.com/dunst-project/dunst)*
 * [Autokey](https://github.com/autokey/autokey) - *Linux Automation Utility*
 * [The Linux Kernel Archives](https://kernel.org/) - *Linux Kernel Archive*
 * [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
@@ -252,7 +256,6 @@
 * [App Outlet](https://app-outlet.github.io/)
 * [SnapCraft](https://snapcraft.io/store) 
 * [tlanyan](https://tlanyan.me/)
-* [WSL-Programs](https://github.com/ethanhs/WSL-Programs) - *Windows Subsystem for Linux Programs*
 * [yay](https://github.com/Jguer/yay), [paru](https://github.com/morganamilo/paru) or [aura](https://github.com/aurapm/aura) - *Arch User Repository Helpers*
 * [KDE's Applications](https://apps.kde.org/education) - *Linux Apps* 
 * [Awesome KDE](https://github.com/francoism90/awesome-kde) - *Linux Apps*
@@ -288,6 +291,7 @@
 * [NVBurner](https://github.com/iloveichigo/NVBurner) - *Overclocking Tool*
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - *Linux Gaming Kernels*
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - *Linux System Optimizer*
+* [Ananicy](https://github.com/Nefelim4ag/Ananicy) - *Fix Program Priority / Lag / [C++](https://gitlab.com/ananicy-cpp/ananicy-cpp)*
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - *Linux Game Package Downloader*
 * [yuzu-ea-updater-for-linux](https://github.com/lem6ns/yuzu-ea-updater-for-linux) - *Linux Yuzu Updater*
 * [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - *Roblox Manager for Linux*
