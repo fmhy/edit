@@ -53,6 +53,7 @@
 * [MP4Juice ](https://mp4juice.cc/) - *Browser Music*
 * [Cliggo](https://music.cliggo.com/) - *Browser Music*
 * [Mixupload](https://mixupload.com/) - *Browser Music*
+* [DMO](https://dance-music.org/) - *Electronic*
 * [Vapor Archive](https://vaporarchive.neocities.org/) - *Vaporwave*
 * [hypem](https://hypem.com/popular) - *Rising*
 * [datpiff](https://www.datpiff.com/) - *Mixtapes*
@@ -306,7 +307,6 @@
 * [FLAC World](http://flac.world/) - *FLAC*
 * [FlacMusic](https://www.flacmusic.info/) - *FLAC*
 * [Music HiRes](https://music-hires.blogspot.com/) - *FLAC*
-* [qobuzrips](https://link.qobuzrips.workers.dev/0:/) - *FLAC*
 * [FLAC.xyz](http://flac.xyz/) - *FLAC*
 * [Sacd](https://sacd.xyz/) - *FLAC*
 * [Lossless-FLAC](https://lossless-flac.com/) - *FLAC*
@@ -349,6 +349,7 @@
 * [EDMWaves](https://edmwaves.org/) - *Electronic / MP3*
 * [MusicFans](https://musicfans.space/) - *Electronic / MP3*
 * [PSYFP](https://psyfp.ucoz.ru/) - *Electronic / MP3*
+* [DMO](https://dance-music.org/) - *Electronic / MP3*
 * [MyPromoSound](https://mypromosound.com/) - *Electronic / MP3*
 * [ElectronicFresh](http://electronicfresh.com/) - *Electronic / MP3*
 * [InEvil](https://www.inevil.com/) - *Electronic / MP3*
