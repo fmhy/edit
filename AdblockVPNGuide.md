@@ -324,13 +324,12 @@
 * **Tor Tools** - [Wiki](https://gitlab.torproject.org/tpo/team/-/wikis/home) / [Unblock Tor](https://i.imgur.com/bQStFyI.gifv) / [Anonymity Tips](https://support.torproject.org/#staying-anonymous) / [Leak Scan](https://github.com/s-rah/onionscan) / [IP Test](https://check.torproject.org/) / [Auto IP Switch](https://github.com/seevik2580/tor-ip-changer) / [Access Client](https://dragonfruit.network/onionfruit) / [GitHub](https://github.com/dragonfruitnetwork/onionfruit/) / [Python Controller](http://vt5hknv6sblkgf22.onion/index.html) / [Default Gateway](https://github.com/htrgouvea/nipe) / [Proxy](https://reqrypt.org/tallow.html), [2](https://github.com/basil00/TorWall), [3](https://www.whonix.org/)
 * **[ffprofile](https://ffprofile.com/)**, **[ghacks-user.js](https://github.com/arkenfox/user.js)**, [firefox-debloat](https://github.com/amq/firefox-debloat), [pyllyukko](https://github.com/pyllyukko/user.js/) - *Privacy Hardened Firefox / [Warning](https://i.imgur.com/ZMQJHwC.png) / [Guide](https://brainfucksec.github.io/hardening-firefox-2022)*
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Privacy Focused Browsers* 
-* **[Vytal](https://vytal.io/)** - *See What Your Browser Knows About You*
+* **[Vytal](https://vytal.io/)**, [everysiteknows](http://everysiteknows.ferrucc.io/) or [What every Browser knows about you](https://webkay.robinlinus.com/) - *See What Your Browser Knows About You*
 * **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
 * **[alternative-front-ends](https://github.com/mendel5/alternative-front-ends)**, [Farside](https://farside.link/) or [alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - *Frontend Index*
 * **[PrivacySpy](https://privacyspy.org/)** - *Grades a Sites Privacy Policies* 
 * **[ACCOUNTKILLER](https://www.accountkiller.com/)** or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - *Find / Terminate Old Accounts* 
 * [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - *Web Security Resource Index*
-* [What every Browser knows about you](https://webkay.robinlinus.com/) - *Browser Data Leak Demonstration*
 * [Anonymous Planet](https://anonymousplanet.org/media/image6.jpeg) - *Browser DNS and Web Privacy Info*
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - *Password Strength Checker*
 * [h8Mail](http://github.com/khast3x/h8mail) - *Multiple Data Breach Checks*
@@ -379,7 +378,7 @@
 * [YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends) 
 * [Wikiless](https://wikiless.org/) - *Wikipedia Frontend / [Source](https://codeberg.org/orenom/Wikiless)*
 * [nitter](https://nitter.net/) - *Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)*
-* [xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/) / [2](https://github.com/spikecodes/libreddit), [Saturnus](https://saturnusapp.com/), [Inccogsnoo](https://incogsnoo.com/) or [teddit](https://teddit.net/) / [2](https://codeberg.org/teddit/teddit) - *Reddit Frontends*
+* [Reddit Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_frontends)
 * [Metalune](https://translate.metalune.xyz/) / [2](https://gtranslate.metalune.xyz/) - *Google Translate Frontend* 
 * [Cusdis](https://cusdis.com/) - *Privacy-Focused Comment System / [GitHub](https://github.com/djyde/cusdis)*
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - *Reddit / Twitter Auto Post Delete*
