@@ -205,6 +205,7 @@
 * [AC.QQ](https://ac.qq.com/) - *Manga*
 * [BiliBili](https://manga.bilibili.com/) - *Manga*
 * [manhuagui](https://www.manhuagui.com/) - *Manga*
+* [dmzj](https://www.dmzj.com/) - *Manga*
 * [rzlib](https://www.rzlib.net/) - *Light-Novels* 
 * [booktxt](https://m.booktxt.net/) - *Light-Novels* 
 * [FFXS](https://www.ffxs.info/) - *Light-Novels*
