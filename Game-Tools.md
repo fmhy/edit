@@ -145,6 +145,7 @@
 * [CnCNet](https://cncnet.org/) - *Multiplayer Command & Conquer* 
 * [Rusticaland](https://rusticaland.net/) - *Rust Cracked Client / Servers*
 * [Factorio.zone](https://factorio.zone/) - *Free Factorio Servers*
+* [GDM-Windows](https://github.com/AlizerUncaged/GDM-Windows) - *Play Geometry Dash Multiplayer / [Discord](https://discord.gg/YVUgzuNyuw)*
 * [NV: Multiplayer](https://nv-mp.com/) - *Fallout New Vegas Multiplayer Project / [Discord](https://discord.com/invite/mKVdhmEDrW)*
 * [FaceItFinder](https://faceitfinder.com/) - *FaceIt Stats Search*
 * [BF2142 Reclamation](https://battlefield2142.co/) - *BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)*
@@ -205,6 +206,7 @@
 * [Steam Customizer](https://community.steamcustomizer.com/) or [SteamSkins](http://steamskins.org/) - *Steam Skins*
 * [Backgrounds.Gallery](https://backgrounds.gallery/) - *Steam Backgrounds*
 * [Steam.Design](https://steam.design/) - *Steam Background Cropper*
+* [SteamFriendsPatcher](https://github.com/PhantomGamers/SteamFriendsPatcher) - *Apply Themes to Steam Friends UI*
 * [Center.Steam](https://center.steam.design/) - *Center Steam Text*
 * [Wishlist Removals](https://steamcommunity.com/sharedfiles/filedetails/?id=1746978201) - *Remove Hidden Items from Steam Wishlist*
 * [Steam Ninja!](https://chrome.google.com/webstore/detail/steam-ninja/iafjcapblconlangblamhojmlpbdebhn) - *Steam Market Enhancement Extension*
@@ -359,6 +361,7 @@
 * [PlayStationDiscord-Games](https://github.com/Tustin/PlayStationDiscord-Games) - *PS4 Remote Play* 
 * [DarkSoftware](https://www.darksoftware.xyz/) - *PS4 / PS3 Firmware*
 * [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - *PS3 Homebrew Subreddit*
+* [PS3Themes](http://www.ps3-themes.com/) - *PS3 Themes*
 * [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - *PSCX Development Emulator*
 * [Vita Guide](https://vita.hacks.guide/) - *PS Vita (TV) Custom Firmware*
 * [Tinfoil](https://tinfoil.io/) - *Switch Title Manager / File Browser* 
