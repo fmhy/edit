@@ -33,7 +33,7 @@
 
 # ► Android Privacy
 
-* **[Sentinel](https://sentinel.co/)**, [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html), [PandaVPN](https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy), [GoatVPN](https://play.google.com/store/apps/details?id=com.secure.proxy.freevpn), [VPNhub](https://www.vpnhub.com/), [Clash](https://github.com/Kr328/ClashForAndroid/) / [Profiles](https://rentry.co/2q3rn) or [Velocity](https://play.google.com/store/apps/details?id=vpn.proxy.velocity) - *Free VPN*
+* **[Sentinel](https://sentinel.co/)**, [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html), [PandaVPN](https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy), [GoatVPN](https://play.google.com/store/apps/details?id=com.secure.proxy.freevpn), [VPNhub](https://www.vpnhub.com/) or [Clash](https://github.com/Kr328/ClashForAndroid/) / [Profiles](https://rentry.co/2q3rn) - *Free VPN*
 * **[android-security-awesome](https://github.com/ashishb/android-security-awesome)** - *Android Security Resources* 
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Browsers with a focus on Privacy* 
 * [Guardian Project](https://guardianproject.info/) / [2](https://guardianproject.info/fdroid/repo), [Divestos Apps](https://divestos.org/index.php?page=recommended_apps), [CookieJarApps](https://cookiejarapps.com/) or [InviZible](https://github.com/Gedsh/InviZible) - *Privacy Based Apps / Tools* 
@@ -42,12 +42,13 @@
 * [SelfPrivacy](https://selfprivacy.org/) - *Self-Hosted Privacy Based Services*
 * [Aegis](https://getaegis.app/), [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) or [andOTP](https://github.com/andOTP/andOTP) - *Two-Factor Authentication* 
 * [FaceAct Notes](https://play.google.com/store/apps/details?id=com.brainekt.faceactnotes) - *Face Recognition App*
-* [Divestos](https://divestos.org/) or [CalyXOS](https://calyxos.org/) - *Privacy Based OS*
+* [Divestos](https://divestos.org/), [GrapheneOS](https://grapheneos.org/) or [CalyXOS](https://calyxos.org/) - *Privacy Based OS*
+* [UPX Browser](https://www.upxb.net/) - *VPN Proxy Browser*
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - *App Isolation* 
 * [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - *Encrypted File Explorer*
 * [UntrackMe](https://fedilab.app/wiki/untrackme/) - *Frontend Redirect / Link Unshorten / URL Cleanup*
 * [Stealth](https://gitlab.com/cosmosapps/stealth) - *Privacy-Based Reddit Frontend*
-* [XPrivacyLua](https://github.com/M66B/XPrivacyLua/) or [Xumi](https://xumi.ca/xumi-security/) - *Privacy Manager* 
+* [XPrivacyLua](https://lua.xprivacy.eu/) / [GitHub](https://github.com/M66B/XPrivacyLua/) or [Xumi](https://xumi.ca/xumi-security/) - *Privacy Manager* 
 * [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard&hl=en_US&gl=QA), [AppWarden](https://gitlab.com/AuroraOSS/AppWarden) or [TrackerControl](https://trackercontrol.org/) - *App Permissions Tracker*
 * [Exodus](https://reports.exodus-privacy.eu.org/en/), [TrackerControl](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) or [HideDroid](https://github.com/Mobile-IoT-Security-Lab/HideDroid) - *Android App Tracker & Permission Index / [APK](https://github.com/Exodus-Privacy/exodus-android-app)*  
 * [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard) - *Android 12-like Privacy Dashboard / [GitHub](https://github.com/RushikeshKamewar/PrivacyDashboard)*
@@ -71,12 +72,10 @@
 * [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&amp;hl=en_US) - *Tor Proxy*
 * [TorServices](https://f-droid.org/packages/org.torproject.torservices/) - *Tor App Proxy / [GitLab](https://gitlab.com/guardianproject/torservices)*
 * [Fritter](https://fritter.cc/) - *Privacy Based Twitter Client*
-* [Bluer](https://play.google.com/store/apps/details?id=com.nemorystudios.android.bluer.facebook) - *Privacy-Focused Facebook Client*
-* [GrapheneOS](https://grapheneos.org/) - *Privacy and security focused mobile OS*
 * [Intra](https://play.google.com/store/apps/details?id=app.intra&amp;hl=en_US) - *System Wide DoH for Android*
 * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) / [Git](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - *Incognito Keyboard*
 * [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) or [Xandroid](https://github.com/XndroidDev/Xndroid) - *Proxy*
-* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android ) - *Shadowsocks Proxy Client*
+* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - *Shadowsocks Proxy Client*
 * [Sagernet](https://sagernet.org/) - *Proxy Tools*
 * [Privacy Indicator](https://f-droid.org/packages/com.nitish.privacyindicator/), [2](https://play.google.com/store/apps/details?id=com.nitish.privacyindicator), [Vigilante](https://f-droid.org/en/packages/com.crazylegend.vigilante/) or [Access Dots](https://play.google.com/store/apps/details?id=you.in.spark.access.dots) - *Camera / Mic Access Indicator* 
 * [CamWings](https://schiffer.tech/camwings-mobile.html) - *Camera Protection* 
@@ -268,7 +267,6 @@
 * [Uploadgram](https://github.com/Pato05/uploadgram-app) - *Telegram File Upload*
 * [icq](https://icq.com/) - *Messaging App*
 * [Thimble](https://www.thimbleapp.co/) - *Group Messaging App*
-* [FluffyChat](https://fluffychat.im/en/) - *Matrix Client*
 * [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Husky](https://git.mentality.rip/FWGS/Husky) or [Tusky](https://tusky.app/) - *Mastodon Client* 
 * [Blabber.im](https://f-droid.org/packages/de.pixart.messenger) - *XMPP / Jabber Messenger*
 * [IRCCloud](https://github.com/irccloud/android) - *IRC Client*
@@ -374,7 +372,6 @@
 * [Swappa](https://swappa.com/imei) or [SickW](https://www.sickw.com/) - *IMEI, MEID, ESN Checker*
 * [SWAP](https://forum.mobilism.org/search.php?keywords=swap+no+root&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - *Create SWAP file without Root*
 * [TabletFriend](https://github.com/Martenfur/TabletFriend) - *Custom Tablet Toolbars*
-* [AndroidRank](https://www.androidrank.org/) - *Android Market Data*
 
 ***
 
@@ -480,7 +477,6 @@
 * [ProAPK](https://proapk.in/) - *Modded*
 * [TheTechNisk](https://thetechnisk.in/) - *Modded*
 * [Modyolo](https://modyolo.com/) - *Modded*
-* [Appdroid](https://appdroid.io/) - *Modded*
 * [ApKGod](https://apkgod.net/) - *Modded* 
 * [p30afzar](https://dl.p30afzar.com/Games/) - *Modded Games*
 * [AppValley](https://app.app-valley.vip/) - *Modded / Tweaked*
@@ -712,7 +708,6 @@
 * WiWiCenter - [Movies / TV](https://cinema.wiwicenter.com/) / [Anime](https://anime.wiwicenter.com/) - *Use Adblocker*
 * [Upflix](https://upflix.pro/) - *Movies / TV*
 * [Titanium TV](https://aapks.com/apk/titanium-tv-com-wise-tech-titanium/) - *Movies / TV / Anime / Chromecast*
-* [Berg](https://www.funkymuse.dev/p/berg.html) - *Movies / TV / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * [SupaFlix](https://supaflix.1mt.top/) - *Movies / TV* 
 * [GodFather](https://movies.godfather.vip/download.php) - *Movies / TV / Anime*
 * [MOTV](http://motv.top/) - *Movies / TV / Chromecast*
@@ -727,7 +722,6 @@
 * [STBEmu](https://docs.stbemu.com/download/) - *Emulate a STB and Watch IPTV*
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - *YTS Torrents* 
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - *Chinese Drama* 
-* [Drama Cool](https://play.google.com/store/apps/details?id=com.dramaline) - *Asian Drama*
 * [aDrama](https://adrama.online/) - *Asian Drama / [Addons](https://forum.mobilism.org/search.php?keywords=adrama&sr=topics&sf=titleonly)*
 * [Amnis](https://play.google.com/store/apps/details?id=com.amnis) - *Stream Videos from Torrents*
 * [RSS Player](https://play.google.com/store/apps/details?id=pis.android.rss.rssplayer&amp;hl=en_US) - *KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)
@@ -742,7 +736,6 @@ RSS Player*
 * [Showly 2.0](https://github.com/michaldrabik/showly-2.0) or [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide/) - *Movie / TV Tracker* 
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) or [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - *Bilibili Client*
 * [NicoTap](https://play.google.com/store/apps/details?id=com.yurafuca.nicotap) - *Nico Nico Client*
-* [Anything to PiP](https://play.google.com/store/apps/details?id=com.vitolaminafra.imagetopip) - *Picture in Picture*
 * [SubHub](https://github.com/FunkyMuse/SubHub) - *Subtitle Downloader*
 * [Tunity](https://tunity.com/) - *Hear Any Muted TV*
 * [Stick Around](https://play.google.com/store/apps/details?id=com.stickaround.app) - *Check for Post Credit Scenes*
@@ -757,9 +750,7 @@ RSS Player*
 * [Cunrchyroll Mod](https://forum.mobilism.org/search.php?keywords=crunchyroll&amp;sr=topics&amp;sf=titleonly) - *Anime / Premium Crunchyroll*
 * [FireAnime](https://github.com/XenTeckzX/FireAnime) - *Chromecast*
 * [AnimeXStream](https://github.com/mukul500/AnimeXStream/)
-* [AnimeTwistFlut](https://github.com/simrat39/AnimeTwistFlut/releases)
 * [AnimeDLR](https://cyberneticlifeform.wixsite.com/cylonu87/animedlr) - *[Discord](https://discord.com/invite/wKxRqKc)*
-* [AnimeUltima](https://www1.animeultima.to/app) - *[Discord](https://discord.gg/Am89tCjYkY)*
 * [aniryu](https://anime.pokurt.me/)
 * [ZAnime](https://github.com/linkkader/zanime)
 * [Aniyomi](https://github.com/jmir1/aniyomi)
@@ -897,7 +888,6 @@ RSS Player*
 * [Wickr](https://apps.apple.com/us/app/wickr-pro/id1200926568), [Jami](https://jami.net/), [MySudo](https://mysudo.com/) or [Element](https://apps.apple.com/app/vector/id1083446067) - *Encrypted Messaging / Video Calls*
 * [Bluer](https://apps.apple.com/us/app/bluer-for-facebook-messenger/id1490523710) - *Privacy-Based Facebook Client*
 * [ProtonMail](https://apps.apple.com/us/app/protonmail-encrypted-email/id979659905) - *Encrypted Emailing Service*
-* [Ariane 4](https://oppen.digital/software/ariane4/) - *Gemini Browser*
 
 ***
 
@@ -1044,7 +1034,6 @@ RSS Player*
 * [AppHeaven](https://www.appheaven.vip/) - *App / Tweak Repository* 
 * [iOSGods](https://iosgods.com/) - *App Tweaks / Hacks / Mods*
 * [iPA Host](https://github.com/ipahost) - *App Tweaks / Social Media’s*
-* [Appdroid](https://appdroid.io/) - *Hacked Apps / Tweaks*
 * [EonHub](https://app.eonhubapp.com/) - *Hacked Apps / Tweaks* 
 * [Scarlet](https://usescarlet.com/) - *Hacked apps / Tweaks*
 * [tweakboxapp](https://next.tweakboxapp.com/) or [tweakboxapp (sideloaded)](https://sideload.tweakboxapp.com/) - *App Tweaks*
@@ -1123,6 +1112,7 @@ RSS Player*
 * [ZiniTevi](https://zinitevi.github.io/movieapps/) - *Movies* 
 * [Blackbox](https://apps.apple.com/ca/app/black-box-movie-listing/id958957112) - *Movies* 
 * [Zivcy](https://www.downloader.world/) - *Movies / TV*
+* [Play Diary](https://apps.apple.com/de/app/play-diary-enjoy-your-media/id1611512811) - *Movies / TV*
 * [Movie Finder](https://apps.apple.com/de/app/movie-finder-movie-by-image/id1560301878) - *Movies / TV*
 * [Airy TV](https://airy.tv/) - *Legal / Live TV*  
 * [The CW](https://apps.apple.com/us/app/the-cw/id491730359) - *Free CW Shows*
