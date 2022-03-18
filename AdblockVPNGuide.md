@@ -69,6 +69,7 @@
 * [DNS Party](https://encrypted-dns.party/) - *DNS Config Profiles for Apple Devices Encrypted* 
 * [ZoneWatcher](https://zonewatcher.com/) - *DNS Backup Tool*
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) - *Family DNS Filters*
+* [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 
 ***
 
@@ -331,7 +332,6 @@
 * **[PrivacySpy](https://privacyspy.org/)** - *Grades a Sites Privacy Policies* 
 * **[ACCOUNTKILLER](https://www.accountkiller.com/)** or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - *Find / Terminate Old Accounts* 
 * [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - *Web Security Resource Index*
-* [Anonymous Planet](https://anonymousplanet.org/media/image6.jpeg) - *Browser DNS and Web Privacy Info*
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - *Password Strength Checker*
 * [h8Mail](http://github.com/khast3x/h8mail) - *Multiple Data Breach Checks*
 * [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/) or [leakpeek](https://leakpeek.com/) - *Data Breach Search Engine* 
@@ -541,12 +541,13 @@
 * [Tsunami](https://github.com/FogNetwork/Tsunami) 
 * [Shadowsocks](https://shadowsocks.org/en/index.html) - *[Free Servers](https://github.com/ruanfei/ShadowsocksRRShare), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows)*
 * [FilterBypass](https://www.filterbypass.me/) 
-* [ Hola Proxy](https://github.com/Snawoot/hola-proxy)
+* [Hola Proxy](https://github.com/Snawoot/hola-proxy)
 * [Privoxy](http://www.privoxy.org/) - *[Docker Build](https://github.com/binhex/arch-privoxyvpn)*
 * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - *Proxy Manager*
-* [FoxyProxy](https://getfoxyproxy.org/) or [Snowflake](https://snowflake.torproject.org/) - *Proxy browser extension*
+* [FoxyProxy](https://getfoxyproxy.org/) or [Snowflake](https://snowflake.torproject.org/) - *Proxy Browser Extension*
 * [Fri-Gate](https://fri-gate.org/) - *Advanced Proxy Settings Addon*  
-* [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - *Limit proxy usage by private windows* 
+* [FreeBrowser ](https://freebrowser.org/) - *Internet Censorship Circumvention / [Wiki](https://github.com/greatfire/wiki)*
+* [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - *Limit Proxy Usage by Private Windows* 
 * [Hitch](https://hitch-tls.org/) - *SSL / TLS Proxy*
 * [SSHKit](https://sshkit.com/), [FlySSH](https://www.flyssh.com/), [SSHSSL](https://www.sshssl.com/), [jagoanssh](https://www.jagoanssh.com/) or [FastSSH](https://www.fastssh.com/) - *SSH & SSL Servers*
 
