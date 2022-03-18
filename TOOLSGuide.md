@@ -1810,7 +1810,7 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install), [dank.d
 ## ▷ Customization
 
 * **[Wallpaper Sites / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Download Wallpapers*
-* **[Rainmeter](https://www.rainmeter.net/)** - *Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter)* 
+* **[Rainmeter](https://www.rainmeter.net/)** - *Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals)* 
 * **[Dracula](https://draculatheme.com/)**, [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - *Custom App Themes*
 * [PCDesktops](http://pcdesktops.emuunlim.com/applinks.shtml) - *Windows Customization Apps*
 * [ScreenStyler](https://screenstyler.com/) -  *Desktop Customization / [Discord](https://discord.gg/u3thTMp9Cd)*
