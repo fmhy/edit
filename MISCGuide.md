@@ -1159,7 +1159,7 @@
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - *Restores Firefox RSS Features*
 * [Rooster Todo Manager](https://addons.mozilla.org/en-US/firefox/addon/rooster-todos/) - *To-Do Manager* 
 * [Morning Coffee Quantum](https://addons.mozilla.org/en-US/firefox/addon/morning-coffee-quantum/) - *Open Custom Website Lists* 
-* [Wiper](https://github.com/davidahmed/wiper) or [BlockSite](https://blocksite.co/) - *Block Sites*
+* [Wiper](https://github.com/davidahmed/wiper) - *Block Sites*
 * [Resurrect Pages](https://addons.mozilla.org/nl/firefox/addon/resurrect-pages/) - *View Archived / Cached Webpages*
 * [Firefox Voice](https://commonvoice.mozilla.org/en) - *Use Firefox with your Voice* 
 * [Canvas](https://addons.mozilla.org/en-US/firefox/addon/canvas-google-images/) - *View & Edit Google Images* 
