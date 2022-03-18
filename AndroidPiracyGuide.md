@@ -163,7 +163,7 @@
 * [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot&hl=en_IN) - *Logcat / Dmesg Boot Animation*
 * [Amazing Temp Root](https://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - *MediaTek Temp Root*
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) - *Debloat non-rooted Androids*
-* [Smali Patcher](https://forum.xda-developers.com/t/module-smali-patcher-7-4.3680053/ ) - *Android System Patcher*
+* [Smali Patcher](https://forum.xda-developers.com/t/module-smali-patcher-7-4.3680053/) - *Android System Patcher*
 * [FDE.AI](https://github.com/feravolt/FDE.AI-docs) - *Android Performance Enhancements*
 * [DarQ](https://www.apkmirror.com/apk/mighty-quinn-apps/darq/) or [Darkmode Guide](https://pastebin.com/cvast4uN) - *Universal Dark Mode*
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - *Android Cleanup Tool*
@@ -176,6 +176,7 @@
 * [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) - *App Themed Icons*
 * [VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps) - *File / URL Virus Scanner* 
 * [Pithus](https://beta.pithus.org/) - *APK Virus Scanner*
+* [FreeBrowser ](https://freebrowser.org/) - *Internet Censorship Circumvention / [Wiki](https://github.com/greatfire/wiki)*
 * [InstantBridge](https://instabridge.com/) - *Public WiFi Sharing Community*
 * [Gnirehtet](https://github.com/Genymobile/gnirehtet) - *Reverse Tethering*
 * [AndrOBD](https://github.com/fr3ts0n/AndrOBD) - *Android Dashboard Diagnostics*
@@ -851,7 +852,7 @@ RSS Player*
 
 # ► iOS Adblocking
 
-* **[AdGuard Pro](https://forum.mobilism.org/search.php?keywords=AdGuard+Pro&amp;sr=topics&amp;sf=titleonly)**, [2](https://testflight.apple.com/join/XqF1FkBg) - *Adblocker / [Config](https://cdn.adguard.com/public/Dns/adguard-dns.mobileconfig) / [Remote](https://apps.apple.com/app/apple-store/id1543143740)*
+* **[AdGuard Pro](https://forum.mobilism.org/search.php?keywords=AdGuard+Pro&amp;sr=topics&amp;sf=titleonly)**, [2](https://testflight.apple.com/join/XqF1FkBg) - *Adblocker / [Config](https://1fichier.com/?ef26ks4abjzct7o1k8os) / [Remote](https://apps.apple.com/app/apple-store/id1543143740)*
 * [Hyperweb](https://hyperweb.app/) - *iOS Safari Adblock*
 * [KF Panda-Player](https://apps.apple.com/us/app/kfpanda-player/id1460792262) - *Turn any site into a App, without the Ads* 
 * [1Blocker](https://1blocker.com/) - *Ablocker*
