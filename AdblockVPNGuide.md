@@ -35,6 +35,7 @@
 * [Facebook Hide Ads](https://greasyfork.org/en/scripts/404309-facebook-hide-ads-a-k-a-sponsored-posts) - *Remove Sponsored Posts from Facebook* 
 * [uBO-YouTube](https://github.com/x0a/uBO-YouTube) - *YouTube Channel Whitelist*
 * [LinkedIn Unsponsored](https://greasyfork.org/en/scripts/379003-linkedin-unsponsored) - *Remove Sponsored Posts from LinkedIn* 
+* [Facebook Ad Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook) - *Facebook Filters*
 * [WhoTargetsMe](https://whotargets.me/) - *Political Ad Tracker*
 
 ***
