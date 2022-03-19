@@ -141,7 +141,6 @@
 * [UWatchFree](https://www.uwatchfree.ph/) - *Movies / TV*  
 * [WatchSeriesHD](https://www4.watchserieshd.tv/) - *Movies / TV / Anime* 
 * [Vmovee](https://www.vmovee.watch/) - *Movies / TV*
-* [TinyZoneHD](https://tinyzonehd.net/) - *Movies / TV*
 * [WatchMoviesFree](https://wmoviesfree.com/) - *Movies*
 * [GoWatchSeries](https://www1.gowatchseries.online/) - *Movies / TV / Anime* 
 * [HDO](https://w10.hdonline.eu/) - *Movies / TV / Anime* 
@@ -149,6 +148,7 @@
 * [MoviesXK](https://moviexk.biz/) - *Movies / TV*
 * [KissMovies](https://www.kissmovies.io/) - *Movies / TV*
 * [TamilRockerMovies](https://www.tamilrockermovies.cf/search/label/Hollywood) - *Movies*
+* [Monero](https://monero.ist/) - *Movies / TV*
 * [ConTV](https://www.contv.com/browse-movie/146/free/) - *Movies*
 * [Watch free](https://1watch-free.cc/) - *Movies / TV* 
 * [Pahe.stream](https://pahe.stream/) - *Movies / TV*
@@ -183,7 +183,6 @@
 * [123Moviesd](https://123moviesd.com/) - *Movies / TV*
 * [0123movies](https://watch0123movies.org) - *Movies / TV*
 * [123MoviesGo](https://www.123moviesgo.li/) - *Movies / TV*
-* [123MovieWeb](https://123moviesweb.net/) - *Movies*
 * [Letmewatch](https://letmewatch.app/) - *Movies / TV / Extension / [GitHub](https://github.com/AdvithGopinath/LetMeWatch)*
 * [Watch Movies Free](https://redd.it/rbpag2) - *Streaming Site List*
 
