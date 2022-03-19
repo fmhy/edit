@@ -15,7 +15,6 @@
 * **[How-To Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - *Find Obscure Films*
 * [Video Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_search_sites) - *Search Video Sites / [CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)*
 * [Stream IMDb](https://github.com/4L00/TemperMonkey-Scripts/) - *Add Stream Search Buttons to IMDb*
-* [Streaming Site Ranking](https://dirtywarez.org/cat/streaming) - *Alexa Rankings*
 
 ***
 
@@ -111,6 +110,7 @@
 * [FREEMOVIESNOW](https://www.youtube.com/c/FREEMOVIESNOW/featured) - *YouTube Movies*
 * [JustWatch](https://www.justwatch.com/) or [ReelGood](https://reelgood.com/) - *Search Legal Streaming Hosts*
 * [Manually Scrape Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manually_scrape_sites) - *Search Sites Manually*
+* [Dirtywarez Ranking](https://dirtywarez.org/cat/streaming), [Watch Movies Free](https://redd.it/rbpag2), [StreamingSites](https://streamingsites.com/) or [Movies-Play](https://movies-play.com/) - *Streaming Site Lists*
 
 ***
 
@@ -162,6 +162,7 @@
 * [GustaTV](https://www2.gustatv.to/) - *Movies / TV Anime*
 * [5Movies](https://5movies.run/) - *Movies / TV / Anime*
 * [PrimeWire](https://www.primewire.tf/) - *Movies / TV / Anime*
+* [Lovemovie](https://lovemovie.org/) - *Movies / TV*
 * [CimaClub](https://www.cimaclub.cc/category/%D8%A3%D9%81%D9%84%D8%A7%D9%85-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86) - *Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Shahed4u](https://shahed4u.onl:2053/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a-1/) - *Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [GoMoviesFree](https://www13.gomoviesfree.page/) - *Movies / TV / Anime*
@@ -184,7 +185,6 @@
 * [0123movies](https://watch0123movies.org) - *Movies / TV*
 * [123MoviesGo](https://www.123moviesgo.li/) - *Movies / TV*
 * [Letmewatch](https://letmewatch.app/) - *Movies / TV / Extension / [GitHub](https://github.com/AdvithGopinath/LetMeWatch)*
-* [Watch Movies Free](https://redd.it/rbpag2) - *Streaming Site List*
 
 ***
 
@@ -262,6 +262,7 @@
 * [cytube](https://cytu.be/) - *TV / Chat*
 * [ScrubTV](https://reboot.tube/), [2](https://hidden.pm/) - *TV / Chat*
 * [VaughnLive](https://vaughn.live/browse/all) - *TV / Chat*
+* [Baked](http://baked.live/) - *TV / Chat*
 
 ***
 
@@ -474,7 +475,7 @@
 * [USTVGO](https://ustvgo.tv/) - *TV / Sports*
 * [SamiTVHD](https://samitvhd.com/) - *TV / Sports*
 * [uStream](https://www.ustream.to/index.html) - *TV / Sports* 
-* [Stream2Watch](https://stream2watch.at/), [2](https://zap.stream2watch.sx/) - *TV / Sports*
+* [Stream2Watch](https://hq.stream2watch.sx/), [2](https://stream2watch.at/) - *TV / Sports*
 * [LiveTV.video](https://livetv.video/) - *TV / Sports*
 * [LM Shows](https://lmshows.se/) - *TV*
 * [TVOnline.Liveschauen](https://tvonline.liveschauen.com/) - *TV* 
@@ -526,6 +527,7 @@
 * [EliteGoLTV](https://elitegoltv.es/) - *Sports*
 * [CrackStreams.net](https://crackstreams.net/) - *Sports*
 * [FreeSportsForAll](http://www.freesportsforall.ml/) - *Sports*
+* [Stream on Sport](https://www.streamonsport3.xyz/) - *Sports / [Telegram](https://t.me/s/streamonsport)*
 * [Cr7Soccor](https://cr7soccer.club/) - *Sports*
 * [USAGoals](https://www.usagoals.video/) - *Sports*
 * [Redditz Soccer Stream](https://redditz.soccerstreamlinks.com/) - *Sports*
