@@ -592,6 +592,7 @@
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - *Earthquake Activity Map*
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - *Volcano Activity Map*
 * [InoReader](https://www.inoreader.com/) - *News Feed Manager*
+* [LiveScore](https://www.livescores.com/) - *Live Sports Scores*
 
 ***
 
@@ -896,7 +897,7 @@
 # ►  Fonts
 
 * **[How to Download Fonts](https://redd.it/8tqfg6)**
-* [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [Getfancy](https://getfancy.io/), [Font Generator](https://www.toulr.com/other-tools/font-generator), [DiscordFonts](https://lingojam.com/DiscordFonts), [MessLetters](https://www.messletters.com/), [letrasdiferentes](https://letrasdiferentes.com.br/), [Fancy Text](https://fancy-text.net/), [TextFancy](https://textfancy.com/), [Font-Generator](https://www.font-generator.com/), [Zalgo](http://eeemo.net/), [lingojam](https://lingojam.com/WeirdTextGenerator) or [fSymbols](https://fsymbols.com/generators/) - *Font Generator*
+* [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [Getfancy](https://getfancy.io/), [Font Generator](https://www.toulr.com/other-tools/font-generator), [AB Text Generator](https://www.abtextgenerator.com/), [DiscordFonts](https://lingojam.com/DiscordFonts), [MessLetters](https://www.messletters.com/), [letrasdiferentes](https://letrasdiferentes.com.br/), [Fancy Text](https://fancy-text.net/), [TextFancy](https://textfancy.com/), [Font-Generator](https://www.font-generator.com/), [Zalgo](http://eeemo.net/), [lingojam](https://lingojam.com/WeirdTextGenerator) or [fSymbols](https://fsymbols.com/generators/) - *Font Generator*
 * [Formito](https://formito.com/tools/logo) - *Typography Logo Maker*
 * [Font Map](http://fontmap.ideo.com/) - *Map of Fonts*
 * [DaFont](https://www.dafont.com/)
@@ -970,6 +971,7 @@
 * [Textcraft](https://textcraft.net/) or [TextDrom](https://en.textdrom.com/) - *Styled Font Generator*
 * [Cava's Pixel Resources](https://caveras.net/) - *Pixel Fonts* 
 * [Scanlation School Drive](https://drive.google.com/drive/folders/1hPV4o8fmxY2Ab9tXi84l0vVOUQEgFIbU) - *Comic Fonts*
+* [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - *Oldschool PC Fonts*
 * [Make WordArt](https://www.makewordart.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - *WordArt Generator*
 * [3DText2GIF](https://3dtext2gif.com/) - *Animated 3D Text Generator*
 * [Codeface](https://github.com/chrissimpkins/codeface) - *Fonts for Coding* 
@@ -1198,6 +1200,7 @@
 * [Multimedia Search](https://multimediasearchapp.com/) - *Browser File Search*
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
 * [Selectable](https://chrome.google.com/webstore/detail/selectable-for-fanfiction/jcidlhgdoojamkbpmhbpgldmajnobefd?ucbcb=1) - *Force Enable Select Text*
+* [CF-Purge](https://www.cf-purge.com/) - *Purge CloudFare Cache / [GitHub](https://github.com/cracker4o/purge-cf-cache-chrome-extension)*
 * [Night Shift Redux](https://nightshift.lu/) - *Adapts Display Color to Time of Day*
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
 * [Wheel Smooth Scroller](https://chrome.google.com/webstore/detail/chromium-wheel-smooth-scr/khpcanbeojalbkpgpmjpdkjnkfcgfkhb?hl=en) - *Smooth Scrolling*
