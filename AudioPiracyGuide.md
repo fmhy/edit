@@ -181,6 +181,7 @@
 * [Noises Online](https://noises.online/) - *Ambient*
 * [A Soft Murmur](https://asoftmurmur.com/) - *Ambient* 
 * [Nature Mixer](https://naturemixer.com/) - *Ambient* 
+* [Zen Sounds](https://app.zenflowchart.com/zen-sounds) - *Ambient*
 * [EcoSounds](http://en.ecosounds.net/) - *Ambient*
 * [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - *Ambient*
 * [MoodTurn](http://moodturn.com/) - *Ambient*
@@ -291,6 +292,7 @@
 * [sixousixmusix](https://www.sixousixmusix.org/) - *MP3*
 * [Mixupload](https://mixupload.com/) - *MP3*
 * [Slider](https://slider.kz/) - *MP3*
+* [My Free MP3](https://www.my-free-mp3.cc/) - *MP3*
 * [geedryve](http://jacobsm.com/geedryve/records/mp3s/) - *MP3* 
 * [Music Library](https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7) - *MP3*
 * [90.146.184.46](http://90.146.184.46/) - *MP3*
@@ -376,7 +378,7 @@
 * [JPFlac](https://jpflac.com/) - *Japanese / Korean / MP3 / FLAC*
 * [Kpop Stan](https://kpopstan.com/) - *KPop / MP3*
 * [MikuDB](http://mikudb.moe/) - *Vocaloid / MP3*
-* [Все Саундтреки](http://xn--80adhccsnv2afbpk.xn--p1ai/), [DS Soundtrack](https://dsoundtrack.com/), [Soundkino](https://soundkino.biz/), [Download-Soundtracks](http://download-soundtracks.com/), [Audio-Track](https://www.audio-track.com/en), [3ost](https://3ost.ru/) or [tanikal](https://www.tanikal.com/) - *Soundtracks* 
+* [Все Саундтреки](http://xn--80adhccsnv2afbpk.xn--p1ai/), [DS Soundtrack](https://dsoundtrack.com/), [Soundkino](https://soundkino.biz/), [Download-Soundtracks](http://download-soundtracks.com/), [Audio-Track](https://www.audio-track.com/en), [3ost](https://3ost.ru/), [joshw](https://pc.joshw.info/) or [tanikal](https://www.tanikal.com/) - *Soundtracks* 
 * [GTA Radio Stations](http://two66.com/mirrors/?dir=GTA-Radio-Stations) - *GTA Radio Station Music*
 * [SittingOnClouds](https://www.sittingonclouds.net/) / [Discord](https://discord.com/invite/x23SFbE) - *Anime / Game Soundtracks*
 * [AniPlaylist](https://aniplaylist.com/), [OSAnime](https://osanime.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - *Anime Soundtracks* 
