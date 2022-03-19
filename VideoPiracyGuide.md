@@ -62,6 +62,7 @@
 * [FlixZone](https://flixzone.ga/) - *Movies / TV*
 * [MoviesForFree](https://movieforfree.co/) - *Movies / TV*
 * [AZMovies](https://azm.to) - *Movies*
+* [Oligopoly](https://olgply.com/) - *Movies / TV*
 * [HDMovieBox](https://hdmoviebox.org/) - *Movies*
 * [Moviehdkh](https://www.moviehdkh.com/) - *Movies* 
 * [Tainio-Mania](https://tainio-mania.online/) - *Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)* 
