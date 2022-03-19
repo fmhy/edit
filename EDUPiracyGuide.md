@@ -221,7 +221,7 @@
 * [Skillshare DL Guide](https://i.imgur.com/AIENK0K.png) - *Download videos from Skillshare*
 * [skillsharefree](https://t.me/skillsharefree) - *Skillshare Courses / Telegram* 
 * [SkillShare-DL](https://colab.research.google.com/github/beast1hack/skillshare-1hack/blob/master/Skillshare_DL_%5B1hack%5D.ipynb) - *Skillshare to GDrive Downloader*
-* [udemy-dl](https://github.com/r0oth3x49/udemy-dl), [2](https://github.com/riazXrazor/udemy-dl), [Udeler](https://github.com/FaisalUmair/udemy-downloader-gui) or [avdshare](https://www.avdshare.com/udemy-downloader) - *Download videos from Udemy*
+* [avdshare](https://www.avdshare.com/udemy-downloader) - *Download videos from Udemy*
 * [Udemy Paid Courses Grabber](https://github.com/AmmeySaini/Udemy-Paid-Courses-Grabber) - *Udemy Course Grabber*
 * [UdemyCourseGrabber](https://github.com/keethesh/UdemyCourseGrabber) - *Find Udemy Course Download Links*
 * [Udacimak](https://github.com/udacimak/udacimak) - *Udacity Nanodegree / Course Downloader*
@@ -460,7 +460,6 @@
 * [KR Dict](https://krdict.korean.go.kr/eng/) - *Korean Learning Dictionary*
 * [HowToStudyKorean](https://www.howtostudykorean.com/) - *Korean Lessons & Practice*
 * [OhMyKorean](http://ohmykorean.com/) - *Korean Practice*
-* [Korean Class](http://global.seoul.go.kr/user.do?menu_id=0407000000&site_code=0101) - *Korean Learning Class*
 * [iksi](https://www.iksi.or.kr/) - *Korean Classes*
 * [TalkToMeInKorean](https://talktomeinkorean.com/) - *Korean Learning Courses*
 * [Sogang](http://korean.sogang.ac.kr/) or [90 Day Korean](https://www.90daykorean.com/) - *Korean Learning Lessons*
