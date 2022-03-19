@@ -388,7 +388,6 @@
 * [TweetDelete](https://tweetdelete.net/) or [TweetEraser](https://www.tweeteraser.com/) - *Delete Twitter Posts in Bulk* 
 * [GeoSocial Footprint](http://geosocialfootprint.com/) or [tinfoleak](https://tinfoleak.com/) - *View Your Geosocial Footprint* 
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - *Reddit Auto Post Delete*
-* [DeleteFB](https://github.com/weskerfoot/DeleteFB) - *Facebook Post Remover*
 * [Mine](https://saymineapp.com/) - *View / Manage Digital Footprint*
 * [Redact](https://redact.dev/) - *Delete Entire Online History / [Warning](https://i.imgur.com/Kt8G430.png)*
 * [Make Internet Noise](http://makeinternetnoise.com/) - *Randomize Browser History* 
@@ -475,6 +474,7 @@
 # ► VPN
 
 * **[VPN Comparison Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml)**, [2](https://www.vpntierlist.com/), [3](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/), [4](https://privacymelon.com/stealth-vpn-guide/vpn-comparison-table/), [5](https://techlore.tech/vpnchart) - *Compare VPN Privacy Polices*
+* **[How-to Bind VPN to Client](https://redd.it/ssy8vv)** - *Bind VPN to Client to Avoid ISP Letters*
 * **[Mullvad](https://mullvad.net/)** - *[Pricing](https://i.imgur.com/LfjZ9G3.png) / [NetNS](https://github.com/chutz/mullvad-netns)*
 * **[Proton](https://protonvpn.com)** - *[Pricing](https://i.imgur.com/hkhZGg1.png) / No Torrenting w/ Free Version*
 * **[Windscribe](https://windscribe.com)** - *[Pricing](https://i.imgur.com/D7015rq.png) / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites) / Free Version Available / [Improved App](https://github.com/Windscribe/desktop-v2)*
@@ -508,7 +508,6 @@
 * [HideMe](https://hide.me/) - *Free VPN*
 * [Calyx VPN](https://calyx.net/) - *Free VPN*
 * [Leap VPN](https://leap.se/) - *Free VPN*
-* [Atlas VPN](https://atlasvpn.com/free-vpn) - *Free VPN*
 * [Clash](https://github.com/Fndroid/clash_for_windows_pkg) - *Free VPN / [Profiles](https://rentry.co/2q3rn)*
 * [Portals](https://www.portals.network/) - *dVPN*
 * [FreePN](https://www.freepn.org/) - *Free Open Source P2P VPN* 
