@@ -11,7 +11,6 @@
 
 # ► Learning / Cheat Sheets
 
-* **[Programming Learning Resources](https://rentry.co/ProgrammingLearningResources)**
 * **[The Odin Project](https://www.theodinproject.com/)** - *Web Dev Tutorials / Courses*
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Courses / Infinite trial by clearing cookies & making new account*
 * **[freeCodeCamp](https://www.freecodecamp.org/)** - *Programming / Courses / Interactive [Archive](https://drive.google.com/drive/folders/1M_GDMaRwFDB_UG0y-WQdNqTxLxchlzgl?usp=sharing) / [GitHub](https://github.com/freeCodeCamp/freeCodeCamp)*
@@ -99,7 +98,6 @@
 * [R Packages](https://r-pkgs.org/) - *R Packages Guide*
 * [R for Data Science](https://r4ds.had.co.nz/) - *R Data Science Guide*
 * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) - *ggplot2 Guide*
-* [Learn Crystal in a Day](https://getgood.at/in-a-day/crystal) - *Crystal Programming Tutorial*
 * [RubyMonk](https://rubymonk.com/) - *Ruby Tutorials* 
 * [Learn to Program](https://pine.fm/LearnToProgram/) - *Ruby Tutorials*
 * [LearnGo](https://github.com/inancgumus/learngo) - *Learn Go*
@@ -239,7 +237,7 @@
 * [Balena](https://www.balena.io/) - *Build / Manage  IoT Groups*
 * [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) or [Bug Bounty](https://github.com/sehno/Bug-bounty) - *Bug Bounty Resources*
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - *CTF Resources*
-* [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - *API Index* 
+* [API List](https://apilist.fun/), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - *API Index* 
 * [Insomnia](https://insomnia.rest/) - *API Client*
 * [APIKit](https://github.com/API-Security/APIKit) - *API Security Tools*
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - *Microservice Architecture Resource Index*
@@ -250,7 +248,7 @@
 * [Cumcord](https://cumcord.com/) - *Discord Developer Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)*
 * [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - *Integrate Services with Discord*
 * [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - *Discord Code Blocks*
-* **[discord.py](https://github.com/Rapptz/discord.py)**, [Discord4J](https://discord4j.com/), [enhanced-discord.py](https://github.com/iDevision/enhanced-discord.py) or [Diskord](https://github.com/diskord-dev/diskord) - *Discord API Wrapper*
+* **[discord.py](https://github.com/Rapptz/discord.py)**, [Discord4J](https://discord4j.com/), [enhanced-discord.py](https://github.com/iDevision/enhanced-discord.py) - *Discord API Wrapper*
 * [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - *Community Libraries for Discord API*
 * [Discord-panel](https://github.com/Notavone/discord-panel) - *Discord Bot Server Manager*
 * [Javacord](https://javacord.org/) - *Discord Bot Creation Library*
@@ -329,7 +327,7 @@
 * [Site Analytics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_analytics) - *Traffic Stats & Info*
 * [HITS](https://hits.seeyoufarm.com/) - *Website Traffic Badges*
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) - *Meta Tag Generator*
-* [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/), [IPV4Info](http://ipv4info.com/), [Network Tools](https://network-tools.com/) or [WebsiteScoop](https://websitescoop.com/) - *Domain Info / IP Tools*
+* [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/), [Network Tools](https://network-tools.com/) or [WebsiteScoop](https://websitescoop.com/) - *Domain Info / IP Tools*
 * [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Username Availability Check*
 * [Pyfunceble](https://pyfunceble.github.io/#/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/) or [Domainr](https://domainr.com/) - *Domain Availability Check* 
 * [WorthBuck](https://worthbuck.com/) - *Domain Price Estimations*
@@ -351,11 +349,10 @@
 * [WebScarab](https://wiki.owasp.org/index.php/Category:OWASP_WebScarab_Project) - *HTTP / HTTPS Protocol Analysis*
 * [Plow](https://github.com/six-ddc/plow) - *HTTP Benchmarking*
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *Front-End Checklist* 
-* [Flounder](https://flounder.online/) - *Gemini Website Builder / [GitHub](https://github.com/alexwennerberg/flounder)* 
+* [Flounder](https://flounder.online/) - *Gemini Website Builder* 
 * [Framer](https://www.framer.com/) - *Interactive Site / App Design Tool*
 * [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - *Webpage Editor* 
 * [Plunker](https://plnkr.co/) - *Prototype / Test Websites Ideas*
-* [P2S](https://p2s.sfsite.me/) - *Turn Powerpoint into Webpage*
 * [WebDesignMuseum](https://www.webdesignmuseum.org/) - *Website Designs Over Time*
 * [Bootstrap](https://getbootstrap.com/) - *Mobile Site Creator / [Icons](https://github.com/twbs/icons) / [Snippets](https://bootsnipp.com/)*
 * [Extension.dev](https://extension.dev/) - *Custom Site Browser Extensions*
@@ -363,7 +360,6 @@
 * [Sketch2Code](https://sketch2code.azurewebsites.net/) - *Convert Hand-Drawn Designs into HTML*
 * [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Wave Guide](https://www.waveguide.io/), [ReallyGoodUX](https://www.reallygoodux.io/), [Pageflows](https://pageflows.com/) or [h69.design](https://www.h69.design/) - *UI Design Ideas*
 * [StoryBook](https://storybook.js.org/) - *UI Development Tool*
-* [LocalXpose](https://localxpose.io/) - *Reverse Proxy*
 * [BuiltWith](https://builtwith.com/) - *Find Out What Sites are Built With*
 * [Elements Envato](https://qltien.com/elements/getcode/babiato.html) or [PsdRepo](https://psdrepo.com/) - *Templates, Mockups, Logos, Video*
 * [Daft Page](https://daftpage.com/) - *Landing Page Creator*
@@ -414,7 +410,6 @@
 * [squid](http://www.squid-cache.org/) - *Caching Proxy / [MSI Installer](http://squid.diladele.com/) / [Site Blocking](http://www.thedumbterminal.co.uk/posts/2005/10/blocking_access_to_sites_when_using_squid.html)* 
 * [What Is Googlebot](http://www.googlebot.com/bot.html) - *How-to Block Googlebot*
 * [RandomAPI](https://randomapi.com/) - *Generate Fake Data for Populating Mockups* 
-* [Booster](https://booster.js.org/) - *Website Performance / Speed Optimizer* 
 * [Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare) - *Cloudflare Resource Index*
 * [Bypass Cloudflare](https://github.com/jychp/cloudflare-bypass) - *Bypass Coudflare Bot Protection*
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - *Check Sites for Cloudflare*
@@ -445,12 +440,10 @@
 * [howtheyaws](https://github.com/upgundecha/howtheyaws) - *List of How Organizations Use AWS*
 * [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - *Email Verification Service*
 * [Improvemx](https://improvmx.com/) - *Domain Email Forwarding*
-* [Hosts.cx](https://hosts.cx/) - *Website Previews*
 * [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/ospfranco/link-preview-js) - *Create Link Previews*
 * [IP Intelligence](http://getipintel.com/) - *Proxy / VPN / Bad IP Detection*
-* [V2Ray](https://www.v2ray.com/) - *Proxy Software / [Android](https://github.com/eycorsican/kitsunebi-android)*
+* [V2Ray](https://www.v2ray.com/) - *Proxy Software*
 * [ipinfo.io](https://ipinfo.io/) - *IP Data API*
-* [DnSpy](https://github.com/dnSpy/dnSpy) - *.NET Debugger & Assembly Editor*
 * [Certbot](https://certbot.eff.org/) - *Enable HTTPS Automatically*
 * [MachineID](http://www.ionworx.com/machineid.html) - *Hardware Identifier*
 * [TrackMyBacklink](https://trackmybacklink.com/) - *Backlink Tracker*
@@ -485,7 +478,7 @@
 * [KokoAnalytics](https://www.kokoanalytics.com/) - *Wordpress Analytics*
 * [vichan](https://github.com/vichan-devel/vichan) - *Imageboard Hosting*
 * [ProBoards](https://www.proboards.com/) - *Forum & Imageboard Hosting*
-* [MyBB](http://www.mybb.com/, [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - *Forum Hosting*
+* [MyBB](http://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - *Forum Hosting*
 * [Media Wiki](https://www.mediawiki.org/), [xWiki](http://www.xwiki.org/xwiki/bin/view/Main/), [tWiki ](https://twiki.org/), [DokuWiki](https://www.dokuwiki.org/dokuwiki), [Miraheze](https://miraheze.org/) or [Fandom](https://www.fandom.com/) - *Host Free Wiki*
 * [HumHub](https://www.humhub.org/) or [scuttlebutt](https://scuttlebutt.nz/) - *Self-Hosted Social Network*
 * [Aether](https://getaether.net/) - *P2P Ephemeral Public Communities*
@@ -572,7 +565,7 @@
 * [useAnimations](https://useanimations.com/index.html) - *Animated Icon Pack*
 * [Flubber](https://github.com/Appolica/Flubber) - *Android Animation Creator*
 * [Redex](https://fbredex.com/) - *Android Bytecode Optimizer*
-* [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/) or [LS Graphics](https://www.ls.graphics/) - *App & Site Mockups*
+* [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [RiseShot](https://www.riseshot.com/) or [LS Graphics](https://www.ls.graphics/) - *App & Site Mockups*
 * [Really Good Emails](https://reallygoodemails.com/) - *Product Email Mobile Designs and Templates*
 * [UIGarage](https://uigarage.net/), [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui), [UXArchive](https://uxarchive.com/), [Mobbin](https://mobbin.design/), [UISources](https://www.uisources.com/) or [LovelyUI](https://lovelyui.com/) - *Mobile UI Designs*
 * [Screen from Traction](https://screen.traction.one/) - *Create App Screenshots*
@@ -587,7 +580,7 @@
 * [Playerio](https://playerio.com/) - *Online Game Engine*
 * [RPG Playground](https://rpgplayground.com/) - *Simple RPG Creator*
 * [Game-Editor](http://game-editor.com/Main_Page), [microStudio](https://microstudio.itch.io/microstudio) or [BuildBox](http://buildbox.com/) - *Game Creators*
-* [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://pennie.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - *2D Game Creators*
+* [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://pennie.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop), [Bitsy](http://ledoux.io/bitsy/editor.html) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - *2D Game Creators*
 * [Unreal Engine](https://www.unrealengine.com/) - *3D Creation Tool*
 * [PlanetSide](https://planetside.co.uk/) - *CG Environment Generator*
 * [Faux on 3D](https://gizmo199.itch.io/fauxton3d) - *Sprite Stacking Framework*
@@ -677,7 +670,6 @@
 * [TailBlocks](https://tailblocks.cc/) - *Ready-to-use Tailwind CSS Blocks*
 * [MarkdownGuide](https://www.markdownguide.org/) - *Guide for Markdown (.md)* 
 * [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/) or [Mark Text](https://marktext.app/) / [GitHub](https://github.com/marktext/marktext)- *Markdown Editor* 
-* [Markdown Editor for Firefox](https://addons.mozilla.org/en-US/firefox/addon/markdown-editor-premium/) - *Markdown Editor Extension* 
 * [Table Magic](https://stevecat.net/table-magic/) - *CSV, HTML & Markdown Converter*
 * [Markdown To HTML](https://markdowntohtml.com/) - *Markdown to HTML Converter*
 * [Word2md](https://word2md.com/) - *Word to Markdown Converter*
@@ -746,7 +738,7 @@
 * [Discord MD Badge](https://github.com/montylion/discord-md-badge) - *Add Discord Badge to GitHub*
 * [Github vscode icons](https://github.com/dderevjanik/github-vscode-icons) - *VSCode Icons*
 * [github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - *Material Icons*
-* [gist.io](https://gist.io/) or [gistflow](https://github.com/gistflow/gistflow) - *Git Blog Platform*
+* [gist.io](https://gist.io/) - *Git Blog Platform*
 * [Github Action for Rclone](https://github.com/marketplace/actions/github-action-for-rclone) - *Rclone GitHub Action Wrapper*
 * [gitignore](https://github.com/github/gitignore) - *Gitignore Templates*
 * [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub), [diohub](https://github.com/NamanShergill/diohub) or [OctoDroid](https://github.com/slapperwan/gh4a) - *Android GitHub Client*
@@ -844,7 +836,7 @@
 * [Pyright](https://github.com/microsoft/pyright) - *Static Type Checker for Python*
 * [PyRegex](http://www.pyregex.com/) - *Python Regex Test*
 * [JSPyBride](https://github.com/extremeheat/JSPyBridge) - *Interoperate Node.js and Python*
-* [python-adb](https://github.com/google/python-adb) - *Python ADB + Fastboot Implementation*
+* [adb_shell](https://github.com/JeffLIrion/adb_shell) - *Python ADB + Fastboot Implementation*
 * [pipx](https://pypa.github.io/pipx/) - *Execute Python Binaries in Isolated Environments*
 * [Scikit Learn](https://github.com/scikit-learn/scikit-learn) - *Machine Learning Library for Python*
 * [Pytrait](https://github.com/xrudelis/pytrait) - *Python Interface Traits*
@@ -852,7 +844,7 @@
 * [AutoCode](https://autocode.com/) - *Instant Endpoints*
 * [Trunk](https://trunk.io/) - *Run Linters/Formatters/Checkers Simultaneously*
 * [Mega Linter](https://github.com/nvuillam/mega-linter) or [SonarCloud](https://sonarcloud.io/) - *Code Analyzer* 
-* [tabnine](https://www.tabnine.com/) - *AI Assisted Code Completion*
+* [tabnine](https://www.tabnine.com/) or [Copilot](https://copilot.github.com/) / [Docs](https://github.com/github/copilot-docs) - *AI Assisted Code Completion*
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - *Check for Edge Case Inputs*
 * [editorcornfig](http://editorconfig.org/) - *Maintain consistent code styles across editors*
 * [CodeCapsules](https://codecapsules.io/) - *Code Deployment*
