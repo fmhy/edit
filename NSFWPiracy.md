@@ -119,7 +119,6 @@
 
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "nsfw
 * **[8.50TB Asi@n Folder](https://drive.google.com/drive/mobile/folders/1huOFDiwfxQHGTseh6Dos_oZ45czJYMOL)**, [2](https://drive.google.com/drive/folders/1JEOYU6Acay2Y3mg5pbJJ7kTAiYlxrcQh), [3](https://drive.google.com/drive/folders/16twY9QvFlsuXF2gngRUIEfvgJ3V386Q3) - *Asian Porn Drive*
-* [1TB [P]RON](https://mega.nz/folder/jGJTWShL#bYF2lqReJjlFblroOgGNTw/folder/WC41Gaqb) - *Porn Drive*
 * [NSFW GDrives](https://redd.it/l3ugp6/), [2](https://photos.app.goo.gl/VtK9Aj3Vnbr2Pohc8), [3](https://photos.app.goo.gl/v7PdoDowqDhRRpa47), [4](https://photos.app.goo.gl/M8xBKo6CPtHRCUcC8), [5](https://drive.google.com/drive/folders/1cOAi2Ne4rldowhR5xEMI4Fc0mI-GA8iI?usp=sharing), [6](https://groups.google.com/u/1/g/adult-sic), [7](https://groups.google.com/u/1/g/viperph)
 * [NSFW Megadrives](https://rentry.co/qfen9)
 * [173.249.45.226](http://173.249.45.226/)
