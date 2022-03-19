@@ -15,7 +15,7 @@
 
 # ► Torrent Clients
 
-* **Note** - Make sure you [BIND](https://www.ghacks.net/2016/03/23/qbittorrent-block-transfers-vpn-disconnect/) your VPN to your client to avoid ISP letters.
+* **Note** - Make sure you [BIND](https://redd.it/ssy8vv) your VPN to your client to avoid ISP letters.
 
 ***
 
