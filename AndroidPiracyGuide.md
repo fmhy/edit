@@ -156,7 +156,7 @@
 * [Serenity Notes](https://www.serenity.re/en/notes) - *Collaborative Notes*
 * [Git Journal](https://gitjournal.io/) - *Mobile Markdown Notes*
 * [How to Root](https://www.xda-developers.com/root/amp/) - *Android Root Guide*
-* [Magisk](https://magiskmanager.com/) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - *Android Root Tool / [Mods](https://t.me/magiskmod_update) / [GitHub](https://github.com/topjohnwu/Magisk/releases) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager)*
+* [Magisk](https://magiskmanager.com/) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - *Android Root Tool / [Mods](https://t.me/magiskmod_update) / [GitHub](https://github.com/topjohnwu/Magisk) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager) / [SafteyNet Fix](https://github.com/kdrag0n/safetynet-fix)*
 * [Root Essentials](https://sites.google.com/view/superthomaslab/root-essentials) - *Multiple Root Tools*
 * [Root Checker](https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck) - *Root Checker*
 * [Android Tool](https://github.com/fast-geek/Android-Tool) - *ABD / Fastboot Command Program*
@@ -881,7 +881,7 @@ RSS Player*
 * [SecretPhotoAlbum++](https://apps.apple.com/us/app/secret-photo-album/id1459036428), [Private Photo Vault](https://apps.apple.com/us/app/private-photo-vault-pic-safe/id417571834) or [No See You](https://noseeyou.com/) - *Private Photo Album*
 * [Onion Browser](https://onionbrowser.com/) - *Onion Browser for iOS* 
 * [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - *Privacy Based Browser* 
-* [Lockdown iOS](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) - *iOS Firewall / [GitHub](https://github.com/confirmedcode/Lockdown-iOS)*
+* [Lockdown iOS](https://apps.apple.com/dk/app/lockdown-apps/id1469783711 or [MobiWall](https://apps.apple.com/gb/app/mobiwall/id1486297414) - *iOS Firewall / [GitHub](https://github.com/confirmedcode/Lockdown-iOS)*
 * [PhantomVPN](https://rentry.co/PhantomVPNiOS) - *Free VPN*
 * [Anti-Social](https://apps.apple.com/us/app/faceblock-block-facebook/id1516200820) - *Block Social Media Trackers* 
 * [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669), [surespot](https://www.surespot.me/), [Status](https://status.im/), [Session](https://getsession.org/), [Confide](https://apps.apple.com/ca/app/confide-secret-messenger/id779883419), [Olvid](https://olvid.io/en/) or [chatsecure](https://chatsecure.org/) - *Encrypted Messaging* 
@@ -1112,6 +1112,7 @@ RSS Player*
 * [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756) - *Movies / TV*
 * [ZiniTevi](https://zinitevi.github.io/movieapps/) - *Movies* 
 * [Blackbox](https://apps.apple.com/ca/app/black-box-movie-listing/id958957112) - *Movies* 
+* [Streamer](https://github.com/StreamerApp/Streamer) - *Movies / TV*
 * [Zivcy](https://www.downloader.world/) - *Movies / TV*
 * [Play Diary](https://apps.apple.com/de/app/play-diary-enjoy-your-media/id1611512811) - *Movies / TV*
 * [Movie Finder](https://apps.apple.com/de/app/movie-finder-movie-by-image/id1560301878) - *Movies / TV*
