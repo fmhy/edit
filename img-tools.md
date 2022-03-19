@@ -17,10 +17,9 @@
 * **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [GlitchyImage](https://glitchyimage.com/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - *Glitch Images*
 * [rexpaint](https://www.gridsagegames.com/rexpaint/), [PabloDraw](http://picoe.ca/products/pablodraw/) or [Playscii](https://jp.itch.io/playscii) - *ASCII Art Editor*
 * [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Canva](http://canva.com/), [Stencil](https://getstencil.com/), [Design Studio](https://designstudio.smallseotools.com/), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/), [Scenify](https://editor.scenify.dev/), [ArtBoard](https://artboard.studio/) or [Glitterly](https://glitterly.app/) - *Graphic Design Tools*
-* [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/), [designspiration](https://www.designspiration.net/) or [inspirationde](https://www.inspirationde.com/) - *Graphic Design Inspirations*
+* [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/) or [inspirationde](https://www.inspirationde.com/) - *Graphic Design Inspirations*
 * [IRA Design](https://iradesign.io/) - *Illustration Creator*
 * [Scribus](http://www.scribus.net/) - *Page Layout & Typesetting Program*
-* [FreeCourseSEO](https://freecourseo.com/) - *GFX Design Courses / [Telegram](https://t.me/freecoursessite1)*
 * [1TB Art Courses](https://pastebin.com/hKgJG2Vz) - *Art Courses*
 * [Photoshop Courses](https://mega.nz/folder/Y6RXXKbJ#pnAdcdkSXw7wujTIhN5Blw) - *Photoshop Course Drive*
 * [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - *Photoshop Tutorials*
@@ -37,17 +36,17 @@
 * [CanonOutsideOfAuto](http://www.canonoutsideofauto.ca/play/) - *Interactive Exposure Test* 
 * [distort-grid](https://github.com/snorpey/distort-grid) - *Grid Based Image Distortion*
 * [PaintingLight](https://lllyasviel.github.io/PaintingLight/) - *Digital Lighting Effect Generator*
-* [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - *Turn Simple Art into Photo Realistic Landscapes / [Web](http://nvidia-research-mingyuliu.com/gaugan/)*
+* [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - *Turn Simple Art into Photo Realistic Landscapes*
 * [DeepArt](https://deepart.io/), [AI Gahaku](https://ai-art.tokyo/en/), [Dreamscope](https://dreamscopeapp.com/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/) or [Deep Dream Generator](https://deepdreamgenerator.com/) - *Turn Photos into Artwork* 
 * [Tinter](https://tinter.uxie.io/) - *Image Hue Editor*
 * [WeGreyScale](https://www.wegrayscale.com/) - *Greyscale Videos / Images*
 * [DuoTones](https://duotones.co/) - *Dual Tone Effect Generator*
-* [ImageGoNord](https://ign.schrodinger-hat.it/) - *Convert Images to NordTheme Palette / [Dracula](https://github.com/bigpick/ImageGoNord-dracula) / [Gruvbox](https://github.com/Schrodinger-Hat/ImageGoNord-gruvbox) / [GitHub](https://github.com/Schrodinger-Hat/ImageGoNord)*
+* [ImageGoNord](https://ign.schrodinger-hat.it/) - *Convert Images to NordTheme Palette / [Dracula](https://github.com/bigpick/ImageGoNord-dracula) / [GitHub](https://github.com/Schrodinger-Hat/ImageGoNord)*
 * [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization), [Image Transformer](https://transformerapp.aifinancials.net/), [Image To Cartoon](https://imagetocartoon.com/) or [Cartoonize](https://cartoonize-lkqov62dia-de.a.run.app/cartoonize) - *Turn Photos into Cartoons*
 * [AIDraw](https://ai-draw.tokyo/en/) - *Turn Photos into Line Drawings* 
 * [primitive.js](https://ondras.github.io/primitive.js/) or [Geometrize](https://www.geometrize.co.uk/) - *Redraw Images with Geometric Shapes* 
 * [PBNify](https://pbnify.com/) - *Paint by Number Tool*
-* [Inpaint](https://theinpaint.com/) or [Cleanup.pictures](https://cleanup.pictures/) - *Remove Objects from Photos* 
+* [Inpaint](https://theinpaint.com/), [Magic Eraser](https://www.magiceraser.io/) or [Cleanup.pictures](https://cleanup.pictures/) - *Remove Objects from Photos* 
 * [InsertFace](https://insertface.com/) - *Selfie Frames, Backgrounds & Effects*
 * [Frame360](https://frame360.net/) - *Image Frames*
 * [Supershots](https://superblog.ai/supershots/) - *Add Backgrounds to Images*
@@ -210,7 +209,7 @@
 * [Picrew](https://picrew.me/) - *Animated Character Maker*  
 * [Tiny Sketchbook](https://www.tinysketchbook.com/) - *Create and Share Doodle Art*
 * [Ink Workspace](https://www.microsoft.com/store/productId/9P0RP342JZMN) - *Pen App Launcher*
-* [brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](http://wowbrushes.com/), [chezplumeau](https://www.chezplumeau.com/), [brushesdownload](http://www.brushesdownload.com/), [getbrushes](http://getbrushes.com/), [gfxfever](http://gfxfever.com/photoshop-brushes), [fbrushes](https://fbrushes.com/), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/) - *Digital Art Brushes*
+* [brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](http://wowbrushes.com/), [chezplumeau](https://www.chezplumeau.com/), [getbrushes](http://getbrushes.com/), [gfxfever](http://gfxfever.com/photoshop-brushes), [fbrushes](https://fbrushes.com/), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/) - *Digital Art Brushes*
 * [PanosFX](https://www.panosfx.com/) or [Fix the Photo](https://fixthephoto.com/free-photoshop-actions) - *Photoshop Actions*
 
 *** 
@@ -244,7 +243,7 @@
 * **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)** - *Search by Image*
 * [GFX Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources) - *Graphic Design Resources*
 * [Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)
-* [RipMe](https://github.com/RipMeApp/ripme), [ImgDownloader](https://imgdownloader.com/), [gallery-dl](https://github.com/mikf/gallery-dl) or [Image Extractor](https://extract.pics/) - *Image Download Tools*
+* [RipMe](https://github.com/RipMeApp/ripme), [ImgDownloader](https://imgdownloader.com/), [gallery-dl](https://github.com/mikf/gallery-dl), [SCrawler](https://github.com/AAndyProgram/SCrawler) or [Image Extractor](https://extract.pics/) - *Image Download Tools*
 * [picsearch](https://www.picsearch.com/) - *Image Search*
 * [RootAbout](https://rootabout.com/) - *Archive / OpenlLibrary Reverse Image Search* 
 * [PicTriev](http://www.pictriev.com/) - *Find Look-Alike Images* 
@@ -418,7 +417,7 @@
 
 ## ▷ Instagram Tools
 
-* **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)**, [InstaFollowers](https://www.instafollowers.co/instagram-tools) or [aloinstagram](https://aloinstagram.com/) - *Multiple Tools* 
+* **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** or [InstaFollowers](https://www.instafollowers.co/instagram-tools) - *Multiple Tools* 
 * [Deskgram](https://deskgram.app/) or [GridsApp](https://gridsapp.net/) - *Desktop Client*
 * [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - *Modded Android App*
 * [AeroInsta](https://aeroinsta.com/) - *Improved Android App*
@@ -434,7 +433,7 @@
 * [StoriesDown](https://storiesdown.com/), [anon-instastories](https://anon-instastories.online/), [instasaved](https://instasaved.net/en), [insta-stories-viewer](https://insta-stories-viewer.com/) or [StoriesIG](https://storiesig.net/) - *Story Downloader*
 * [InstaDP](https://www.instadp.com/) or [Instagram-crawler](https://github.com/hehpollon/Instagram-crawler) - *Picture / Story Downloader* 
 * [PixWox](https://www.pixwox.com/) - *Story / Picture / Story Downloader*
-* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [SocialUnblock](https://socialunblock.com/), [Instagram-Scraper](https://github.com/arc298/instagram-scraper), [DownloadGram](https://downloadgram.com/), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [igram](https://igram.io/), [InstaLooter](https://github.com/althonos/InstaLooter), [instadownloader](https://www.instadownloader.org/), [Instaloader](https://github.com/instaloader/instaloader), [instapick](https://www.instapick.net/), [InstaSave](https://github.com/sameera-madushan/InstaSave) - *Picture / Video Downloader*
+* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [SocialUnblock](https://socialunblock.com/), [Instagram-Scraper](https://github.com/arc298/instagram-scraper), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [igram](https://igram.io/), [InstaLooter](https://github.com/althonos/InstaLooter), [instadownloader](https://www.instadownloader.org/), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - *Picture / Video Downloader*
 * [4K Stogram](https://www.4kdownload.com/products/product-stogram) or [InstaLoader](https://instaloader.github.io/) - *Picture Downloader* 
 * [Photo Map](https://levionsoftware.com/) - *Interactive Map For Your Photos*
 * [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - *Video Downloader*
