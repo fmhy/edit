@@ -158,7 +158,6 @@
 * [Torlock](https://www.torlock.com/), [2](https://www.torlock2.com/) 
 * [iBit.to](https://ibit.to) or [iBit.am](https://ibit.am/) 
 * [TorrentFunk](https://www.torrentfunk.com/), [2](https://www.torrentfunk2.com/) 
-* [7Torrent](https://www.7torrents.cc/)
 * [concen](https://www.concen.org/torrents) 
 * [BTSearch](https://www.btsearch.ml/)
 * [Solid Torrents](https://solidtorrents.net/) - *[/r/SolidTorrents](https://reddit.com/r/SolidTorrents)*
