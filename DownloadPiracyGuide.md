@@ -194,7 +194,7 @@
 * **[AppNee](https://appnee.com/)**
 * **[YasDL](https://yasdl.com/)** - *Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [ShareAppCrack](https://shareappscrack.com/) - *Software / Courses*
-* [downloadly](https://downloadly.ir/) - *Software / Courses*
+* [downloadly](https://downloadly.ir/), [2](https://downloadly.net/) - *Software / Courses*
 * [PiratePC](https://piratepc.me/) - *[Discord](https://discord.gg/QhaKfHwWmV)*
 * [SamLab](https://samlab.ws/) - *Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [FTUApps](https://ftuapps.dev/) 
@@ -232,6 +232,7 @@
 * [DoLoad](https://doload.org/) 
 * [Downmienphi](https://downmienphi.com/)
 * [3almalt9nia](https://3almalt9nia.com/) 
+* [FreeSoftwareFiles](https://www.freesoftwarefiles.com/)
 * [AlbasitSoft](https://albasitsoft.com/) 
 * irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ
 * [AIOsetup](https://t.me/aiosetup) - *Telegram* 
