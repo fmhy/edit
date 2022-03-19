@@ -535,10 +535,12 @@ French / General Torrent Tracker
 * [HindiLover](https://hindilover.biz/) - *TV*
 * [Filmywap](https://www.filmywap.com/) - *Movies / TV*
 * [OkJatt](https://okjatt.work/) - *Movies / TV*
+* [Watch Movies Online](https://www.watchonlinemovies15.com.pk/) - *Movies*
 * [Desi Serials](https://www.desiserials.tv/) - *Movies / TV / Live*
 * [WatchOnlineMovies](https://www.watchonlinemovies.net.pk/) - *Movies / TV*
 * [HindiLinks4u](https://www.hindilinks4u.to/), [2](https://hindilinks4u.pro/) or [3](https://hindilinks4u.io/)  - *Movies / TV*
 * [Movies4](https://www.movies4.com.pk/) - *Movies / TV* 
+* [SerialGhar](https://serialghar.net/) - *TV*
 * [UWatchFree](https://www.uwatchfree.so/) - *Movies / TV / [Telegram](https://t.me/uwatchfree1)*
 * [FilmLinks4U](https://filmlinks4u.cc/) - *Movies / TV*
 * [DesiTVBox](https://www.desitellybox.me/) - *TV*
@@ -596,6 +598,8 @@ French / General Torrent Tracker
 * [GigaPurbalingga](https://gigapurbalingga.net/) - *Software / Android / Games*
 * [Yasir252](https://www.yasir252.com/) - *Software / Android / Games*
 * [AnimeBatchs](https://animebatchs.net/) - *Anime* 
+* [AniBatch](https://anibatch.anibatch.moe/) - *Anime*
+* [Drivenime](https://drivenime.com/) - *Anime*
 
 ## ▷ Streaming
 
@@ -1269,6 +1273,7 @@ Portuguese
 * [muzlishko](http://www.muzlishko.ru/) - *MP3*
 * [Tancpol](https://tancpol.net/) - *MP3*
 * [Mixmuz](https://mixmuz.ru/) - *MP3*
+* [z2.fm](https://z2.fm/) - *MP3*
 * [kinosoundtrack](https://www.kinosoundtrack.com/) - *MP3*
 * [MailboxDrive](http://www.mailboxdrive.com/) - *MP3*
 * [Shazam Music](https://t.me/shazam_music_uz) - *MP3* 
@@ -1391,6 +1396,7 @@ Portuguese
 * [Tancpol](https://tancpol.net/) - *Music*
 * [Mixmuz](https://mixmuz.ru/) - *Music*
 * [MP3Hero](https://mp3hero.net/) - *Music*
+* [z2.fm](https://z2.fm/) - *Music*
 * [MDCORE](https://vk.com/mdcore) - *Metal Music*
 * [lovi.fm](https://lovi.fm/) - *Radio*
 * [HDVideoBox](https://forum.mobilism.org/viewtopic.php?f=429&t=4505325) - *Movies / TV / Anime / Android*
@@ -1479,7 +1485,7 @@ Portuguese
 
 ## ▷ Torrenting
 
-* [Mejor Torrent](https://www.mejortorrents.net/), [2](https://www.mejortorrento.net/), [3](https://mejortorrent.one/), [4](http://mejortorrent.com/) - *Video / Audio / Software / Games*  
+* [Mejor Torrent](https://www.mejortorrents.net/), [2](https://www.mejortorrento.net/), [3](https://mejortorrent.one/), [4](http://mejortorrent.com/), [5](https://mejortorrent.nz/) - *Video / Audio / Software / Games*  
 * [DivxTotal](https://www.divxtotal.one/) - *Movies / TV / Software* 
 * [Edvok](https://edvok.com/) - *Video / Games*
 * [EliteTorrent](https://elitetorrent.com/), [2](https://www.elitetorrent.do/) - *Movies / TV / Anime*
@@ -1579,6 +1585,7 @@ Portuguese
 * [TamilCrow](https://www.1tamilcrow.net/) - *Movies / TV*
 * [TamilYogi](http://tamilyogi.cool/), [2](http://tamilyogi.best/) - *Movies*
 * [tamilgun.tw](https://tamilgun.tw/) - *Movies / TV*
+* [SunTamil5](https://www.suntamil5.net/) - *TV*
 
 ## ▷ Downloading
 
@@ -1860,6 +1867,7 @@ Portuguese
 * [DownloadHub](https://downloadhub.plus/) - *Download / Movies / [Telegram](https://t.me/downloadhubcool1)*
 * [Pendujatt](https://www.pendujatt.net/) - *Download / Music*
 * [Indian Flac Songs](https://t.me/indianflacsongs) - *Download / Music*
+* [Cinevez](https://cinevez.ws/) - *Torrent / Download / Streaming / Movies*
 * [TamilBlasters](https://tamilblasters.art/) - *Torrent / Movies*
 * [TamilMV](https://www.1tamilmv.golf/) - *Torrent / Movies*
 * [indianebooks](https://t.me/indianebooks) - *Books*
