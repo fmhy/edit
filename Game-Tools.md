@@ -77,7 +77,7 @@
 * [Tabletopy](https://tabletopy.com/) - *Tabletop RPG Soundboard*
 * [Map Generator](https://emptybuttons.itch.io/map-generator) - *Tabletop Roleplaying Map Generator*
 * [FrontierNav](https://frontiernav.net/) - *JRPG Databases & Interative Maps*
-* [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/), [HexHTML](https://hextml.playest.net/), [Nat Geo Map Maker](https://mapmaker.nationalgeographic.org/) or [MapTool](https://www.rptools.net/?page=maptool) - *Map Making Tools* 
+* [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/), [HexHTML](https://hextml.playest.net/), [Nat Geo Map Maker](https://mapmaker.nationalgeographic.org/) or [MapTool](https://www.rptools.net/toolbox/maptool/) - *Map Making Tools* 
 * [Dungeon Map Doodler](https://dungeonmapdoodler.com/) or [donjon](http://donjon.bin.sh/) - *Draw and Build Dungeons* 
 * [Ethereal Games](https://wiki.etherealgames.com/) - *JRPG Wiki*
 * [Adventurer's Codex](https://adventurerscodex.com) - *Online D&D 5e Campaign Manager / System*
@@ -93,7 +93,9 @@
 * [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) or [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
 * [Pokemon Typechart](https://pokemondb.net/type) - *Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)*
 * [PokeList](https://pokemonlist.netlify.app/) or [Mon](https://github.com/dbednar230/mon) - *Pokedexes*
+* [NYCPokeMap](https://nycpokemap.com/) - *Real-time Pokémon Go map for NYC*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
+* [r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/) - *Find Games from Screenshot or Description*
 * [GameGuides](https://www.gamerguides.com/), [Retro Game Strategy Guides](https://archive.org/details/Tekken3PrimasOfficialStrategyGuide1998), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [GamePressure](https://www.gamepressure.com/) or [Samurai Gamers](https://samurai-gamers.com/) - *Strategy Guides & Walkthroughs*
 * [Before I Play](http://www.beforeiplay.com/) - *Tips for any Game* 
 * [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - *System Gaming Tweak Guide*
@@ -107,7 +109,7 @@
 * [ChimeraOS ](https://chimeraos.org/) - *Gaming Focused OS / [Discord](https://discord.gg/fKsUbrt)*
 * [VibranceGUI](https://vibrancegui.com/) - *Automate Digitial Vibrance Control*
 * [ReShade](https://reshade.me/) - *Generic Post-Processing Injector / [GitHub](https://github.com/crosire/reshade)*
-* [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - *Glide & DirectX Graphics Wrapper / [GutHub](https://github.com/dege-diosg/dgVoodoo2)*
+* [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - *Glide & DirectX Graphics Wrapper*
 * [Achievement Watcher](https://github.com/xan105/Achievement-Watcher) - *Achievement File Parser, Notifications & Playtime Tracker* 
 * [AreWeAntiCheatYet? ](https://areweanticheatyet.com/) - *Check if Games is Anti-Cheat*
 * [fuckigg](https://github.com/Pheeeeenom/fuckigg) - *Remove IGG DRM*
@@ -135,9 +137,8 @@
 
 * [find-PlayDate](https://www.find-playdate.com/) - *Find People to Play Games With* 
 * [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/), [FreeLan](https://www.freelan.org/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/) or [softether](https://www.softether.org/) - *Play Pirated Multiplayer Games*
-* [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) or [Netch](https://github.com/netchx/Netch/) - *Online Game Acceleration Proxy*
+* [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) - *Online Game Acceleration Proxy*
 * [Server.pro](https://server.pro/) or [Orcs](http://orcs.biz/) - *Game Server Hosting*
-* [Nemirtingas Galaxy Emu](https://gitlab.com/Nemirtingas/nemirtingas_galaxy_emu) - *GOG Galaxy Lan Emulator*
 * [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - *Hide Player Names to Avoid Stream Sniping*
 * [ElDewrito](https://dewritohub.com/) - *Halo Online Mod Tool / [GitHub](https://github.com/ElDewrito) / [Discord](https://discord.com/invite/0TKY0SDEUHAWL4sG), [2](https://discord.com/invite/gtqM3s5)*
 * [BakkesMod](https://bakkesmod.com/) - *Rocket League Trainer*
@@ -147,7 +148,6 @@
 * [Rusticaland](https://rusticaland.net/) - *Rust Cracked Client / Servers*
 * [Factorio.zone](https://factorio.zone/) - *Free Factorio Servers*
 * [GDM-Windows](https://github.com/AlizerUncaged/GDM-Windows) - *Play Geometry Dash Multiplayer / [Discord](https://discord.gg/YVUgzuNyuw)*
-* [NV: Multiplayer](https://nv-mp.com/) - *Fallout New Vegas Multiplayer Project / [Discord](https://discord.com/invite/mKVdhmEDrW)*
 * [FaceItFinder](https://faceitfinder.com/) - *FaceIt Stats Search*
 * [BF2142 Reclamation](https://battlefield2142.co/) - *BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)*
 * [BFStatus](https://www.bfstatus.com/) - *Battlefield Game Server Statuses*
@@ -224,7 +224,6 @@
 * [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - *Epic Online Service Emulator*
 * [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - *Epic DLC Unlocker* 
 * [Koalageddon](https://github.com/acidicoala/Koalageddon/) - *DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)*
-* [Epic Account Creator](https://github.com/juzjus10/Epic-Account-Creator) - *Create Infinite Epic Games Accounts*
 
 ***
 
@@ -240,7 +239,6 @@
 * [Wanted-Music-IV](https://github.com/ClonkAndre/Wanted-Music-IV) - *GTAV Wanted Music in GTAIV*
 * [GTA 5 Grand Roleplay](https://gta5grand.com/) - *GTAV Roleplay Server*
 * [D.E.P](https://www.definitive-edition-project.com/) - *Fix GTA PC Port Bugs*
-* [re3](https://github.com/td512/re3) - *GTAIII & Vice City Mods*
 * [gta-city-of-lost-heaven](https://github.com/RadValentin/gta-city-of-lost-heaven) - *GTAVC Mafia Themed Mod*
 * [Vali's City](https://github.com/RadValentin/vali-city) - *GTAVC Matrix Themed Mod*
 * [skin-switcher](https://github.com/PrographerMan/skin-switcher) - *GTAVC Skin Switching Mod*
@@ -276,7 +274,7 @@
 * [ReplayMod](https://replaymod.com/) - *Record Minecraft Game Sessions / [GitHub](https://github.com/ReplayMod/ReplayMod)*
 * [Villager Trading Cheatsheet](https://i.imgur.com/vCpAxmD.png)
 * [Free Minecraft Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_servers) - *Host Free Minecraft Servers*
-* [GeyserMC](https://geysermc.org/) - *Join Minecraft Java Servers with Bedrock Client / [Consoles](https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles)* 
+* [GeyserMC](https://geysermc.org/) - *Join Minecraft Java Servers with Bedrock Client / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)* 
 * [CraftyControl](https://craftycontrol.com/) or [Fork](https://www.fork.gg/) - *Minecraft Server Manager*
 * [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - *Minecraft Server Info*
 * [MCStalker](https://discord.gg/CB78nDfBeQ) - *Minecraft Whitelist Enforcement Tool*
@@ -317,7 +315,7 @@
 * [tModLoader](https://www.tmodloader.net/) - *Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)*
 * [tiberiumfusion](https://www.tiberiumfusion.com/product/tt2/) - *Terraria Tweaker*
 * [N-Terraria](https://forums.terraria.org/index.php?threads/n-terraria-mod-rpg-races-classes-quests-and-other-things.542/) - *Terraria Mod*
-* [TEdit](http://binaryconstruct.com/games/tedit), [terramap](https://terramap.github.io/), [binaryconstruct](https://www.binaryconstruct.com/tedit/), [MoreTerra](https://github.com/mike-mo/MoreTerra/releases), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/tag/3.1.5) or [terraria-map-editor](https://www.terraria-map-editor.com/) - *Map Viewers / Editors*
+* [TEdit](https://www.binaryconstruct.com/tedit), [terramap](https://terramap.github.io/), [MoreTerra](https://github.com/mike-mo/MoreTerra/releases), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/tag/3.1.5) or [terraria-map-editor](https://www.terraria-map-editor.com/) - *Map Viewers / Editors*
 * [Terrasavr](https://yal.cc/r/terrasavr/) - *Terraria Character Editor*
 * [ArmorHelper](https://forums.terraria.org/index.php?threads/armorhelper-sprite-armor-sets-30x-times-faster.68744/) - *Terraria Armor Customization Tool*
 * [TerrColab](https://github.com/AndreVuillemot160/TerrColab) - *Host Collab based Terraria Server / [.ipynb](https://colab.research.google.com/github/AndreVuillemot160/TerrColab/blob/main/TerrColab.ipynb)*
@@ -359,7 +357,6 @@
 * [TheLeecherMan](https://sites.google.com/site/theleecherman/) - *Playstation Modding Tools*
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - *PS4 / PS5 Remote Play Client* 
 * [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - *PS4 Exploit Hosting PS4*
-* [PlayStationDiscord-Games](https://github.com/Tustin/PlayStationDiscord-Games) - *PS4 Remote Play* 
 * [DarkSoftware](https://www.darksoftware.xyz/) - *PS4 / PS3 Firmware*
 * [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - *PS3 Homebrew Subreddit*
 * [PS3Themes](http://www.ps3-themes.com/) - *PS3 Themes*
@@ -390,7 +387,6 @@
 * [MegaGames](https://megagames.com/) - *Fixes / Trainers / News*
 * [ChronoCrash](http://www.chronocrash.com/forum/) - *Game Modding Forum*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
-* [Chemax](https://chemax.ru/cheat) - *PC Game Cheats*
 * [CheatEngine](https://cheatengine.org/) - *Single Play Cheat Engine*
 * [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - *Cheat Engine Table for Single Player Games*
 * [Otis_Inf Camera Mods](https://redd.it/hvttbd) - *Game Camera Mods*
