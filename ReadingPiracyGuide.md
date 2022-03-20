@@ -615,7 +615,7 @@
 * [Share OSF](https://share.osf.io/) - *Document Search*
 * [CiteSeerX](https://citeseerx.ist.psu.edu/index) - *Document Search*
 * [Google Scholar](https://scholar.google.com/) - *Articles*
-* [Mendeley](https://www.mendeley.com/) - *Articles* 
+* [Mendeley](https://www.mendeley.com/) - *Articles / [Data](https://data.mendeley.com/)* 
 * [DOAJ](https://doaj.org/) - *Journals / Articles*
 * [ResearchGate](https://www.researchgate.net/) - *Science Articles*
 * [SciLit](https://www.scilit.net/) - *Science Articles*
