@@ -483,13 +483,11 @@
 * [WorldCupFootball](http://www.worldcupfootball.me/) - *Sports*
 * [6stream](http://6stream.xyz/) - *Sports*
 * [FLS](http://go.freestreams-live1.com/) - *Sports / [Discord](https://discord.gg/UKEjyPEaYG)*
-* [Your Sports Stream](http://yoursports.stream/) - *Sports*
 * [Icelz](https://icelz.newsrade.com/) - *Sports*
 * [livetv](http://livetv.sx) - *Sports*
 * [bilaSport](http://bilasport.net/) - *Sports*
 * [NBAFullMatch](https://nbafullmatch.com/) - *Sports*
 * [FreeStreams](http://fc.freestreams-live1.com/) - *Sports*
-* [SkorLive](https://skorlive.com/) - *Sports*
 * [La Casa Del Tiki Taka](https://www.lacasadeltikitakatv.net/) - *Sports*
 * [StreamsGate](https://streamsgate.tv/) - *Sports*
 * [WatchKobe](http://watchkobe.info/) - *Sports*
@@ -505,7 +503,6 @@
 * [MARKKY](https://markkystreams.com/) - *Sports*
 * [TheHomeSports](https://thehomesport.com/) - *Sports* 
 * [CricHD](https://fc5.crichd.com/) - *Sports* 
-* [Sports24](https://sports24.stream/) - *Sports*
 * [streamHD 24/7](https://streamhd247.live/) - *Sports*
 * [MamaHD](https://mamahd.best/) - *Sports*
 * [Touchcric](https://mob.touchcric.com/) - *Sports*
@@ -517,7 +514,6 @@
 * [Strumyk](http://strumyk.tv/) - *Sports*
 * [Score808](http://www.score808.vip/) - *Sports*
 * [DudeStream](http://dudestream.com/) - *Sports*
-* [Cricworld](http://cricworld.club/) - *Sports*
 * [CricHD.tv](https://web.crichd.tv/) - *Sports*
 * [UFCKhabib](http://ufckhabib.com/) - *Sports*
 * [TotalSportek](https://www.totalsportek.com/) - *Sports*
@@ -980,7 +976,7 @@
 * [Chronology of Animation](http://www.animated-divots.net/chronst.html) - *Animation History / Index*
 * [Behind the Voice Actors](https://www.behindthevoiceactors.com/) - *Voice Actors Database*
 * [Movie-Censorship](https://www.movie-censorship.com/) - *Compare Alternate Versions of Media* 
-* [MovieMap](http://www.themoviemap.com/), [ReelStreets](https://www.reelstreets.com/), [Movie-Locations](http://www.movie-locations.com/), [WhereDidTheyFilmThat](http://www.wheredidtheyfilmthat.co.uk/), [British-Film-Locations](http://www.british-film-locations.com/) - *Film Location Maps*
+* [MovieMap](http://www.themoviemap.com/), [ReelStreets](https://www.reelstreets.com/), [Movie-Locations](http://www.movie-locations.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](http://www.wheredidtheyfilmthat.co.uk/), [British-Film-Locations](http://www.british-film-locations.com/) - *Film Location Maps*
 
 ***
 
