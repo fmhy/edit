@@ -903,7 +903,7 @@
 * **[MyAnimeList](https://myanimelist.net/)** - *Anime* 
 * **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extenstion](https://anime.plus/) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/)
 * **[ICheckMovies](https://www.icheckmovies.com/)** - *Movies / List Database / [Enhanced](https://greasyfork.org/en/scripts/11541-icheckmovies-enhanced)*
-* [Rotten Tomatoes](https://www.rottentomatoes.com/) - *TV / Anime*
+* [Rotten Tomatoes](https://www.rottentomatoes.com/) - *Movies / TV*
 * [IMDb](https://www.imdb.com/) or [TMDb](https://www.themoviedb.org/) - *Movies / TV / Anime*
 * [IMDb Tomatoes](https://greasyfork.org/en/scripts/15222-imdb-tomatoes) - *Rotten Tomatoes Ratings on IMDb*
 * [5000 Best](http://5000best.com/) - *5000 Best Movies*
