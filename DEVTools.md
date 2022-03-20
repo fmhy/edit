@@ -136,7 +136,7 @@
 * [Full Stack Solana Development Guide](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - *[Examples](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)*
 * [The New Boston](https://thenewboston.com/) - *Site Development Courses [Discord](https://discord.com/invite/thenewboston)*
 * [Web Dev Courses](https://drive.google.com/drive/folders/17nOoned_J-RzAlCXaHEcEvdQC3LDOCC0) - *Web Development Courses*
-* [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - *Learn Web Development*
+* [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) or [Interneting is Hard](https://www.internetingishard.com/) - *Learn Web Development*
 * [Agernic](https://www.agernic.com/) - *Web Design Courses*
 * [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) - *Interactive Web Design Tutorial*
 * [UI & Web Design using Adobe Illustrator C](https://mega.nz/folder/DihiHYYJ#qwDp56twKmwPdDMqGR_kLA) - *UI & Webdesign Course*
@@ -243,6 +243,7 @@
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - *Microservice Architecture Resource Index*
 * [LibreLogos](https://www.librelogos.org/) or [LogoTaco](https://www.logotaco.com/) - *Project Logos*
 * [Lorem.space](https://lorem.space/) - *Placeholder Images*
+* [Rejoiner](https://rejoiner.io/) - *Uniform GraphQL Schema from gRPC Microservices / [GitHub](https://github.com/google/rejoiner)*
 * [CFDocs](https://cfdocs.org/) - *CFML Documentation Reference*
 * [CoreFTP](http://www.coreftp.com/) - *FTP Client*
 * [Cumcord](https://cumcord.com/) - *Discord Developer Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)*
@@ -362,6 +363,7 @@
 * [StoryBook](https://storybook.js.org/) - *UI Development Tool*
 * [BuiltWith](https://builtwith.com/) - *Find Out What Sites are Built With*
 * [Elements Envato](https://qltien.com/elements/getcode/babiato.html) or [PsdRepo](https://psdrepo.com/) - *Templates, Mockups, Logos, Video*
+* [Halcyon](https://halcyon.candyrain.org/LAYOUTS/mind/index.html) - *Website Layouts*
 * [Daft Page](https://daftpage.com/) - *Landing Page Creator*
 * [LandingPage](https://landingpage.fyi/index.html) - *Landing Page Tool Index*
 * [Uisual](https://uisual.com/), [SaaS Pages](https://saaspages.xyz/), [SaaS Landing Page](https://saaslandingpage.com/) or [lapa](https://www.lapa.ninja/) - *Landing Page Templates / Ideas*
@@ -489,7 +491,7 @@
 
 ## ▷ Software Development
 
-* [Electron](https://www.electronjs.org/) - *Desktop App Builder / [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://electron-app-store.ml/) / [Debugger](https://www.electronjs.org/apps/debugtron)*
+* [Electron](https://www.electronjs.org/) or [Tauri](https://tauri.studio/) / [GitHub](https://github.com/tauri-apps/tauri) - *Desktop App Builder / [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://electron-app-store.ml/) / [Debugger](https://www.electronjs.org/apps/debugtron)*
 * [raylib technologie](https://raylibtech.itch.io/), [bookmarks](https://github.com/MorganGeek/bookmarks) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - *Software Development Tools*
 * [Theos](https://theos.dev/) - *Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)*
 * [New Software](https://github.com/ardalis/new-software-project-checklist) - *Project Decision Checklist*
