@@ -966,7 +966,7 @@
 * [CommonSenseMedia](https://www.commonsensemedia.org/) - *Age-Based Media Reviews*
 * [BingeClock](https://www.bingeclock.com/) - *TV Show Length Calculator* 
 * [MyDramaList](https://mydramalist.com/) - *Asian Drama Tracker* 
-* [MythBank](https://mythbank.com/) - *Media Timelimes / Watch Orders* 
+* [MythBank](https://mythbank.com/) - *Media Timelines / Watch Orders* 
 * [MCU Precise Chronological Order](https://i.imgur.com/tczG4iI.jpg)
 * [watch_order](https://www.reddit.com/r/anime/wiki/watch_order) - *Anime Watch Orders [/r/anime](https://reddit.com/r/anime)*
 * [Anime Notifier](https://notify.moe/) - *Anime List, Tracker, Database & Notifier* 
