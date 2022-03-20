@@ -27,6 +27,7 @@
 * [Statista](https://www.statista.com/) - *Market Statistics*
 * [OEC](https://oec.world/en) - *International Trade Data Visualization*
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - *World Birth / Death Rates Visualization*
+* [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - *Incarceration Visualization / Facts*
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - *Gun Violence Information Database*
 * [RecoRank](https://recorank.com/) or [NanoReview](https://nanoreview.net/en) - *Tech Reviews / Comparisons*
 * [Reddit Favorites](https://redditfavorites.com/) - *Product & Service Recommendations*
@@ -160,7 +161,7 @@
 * [Cliche Finder](http://cliche.theinfo.org/) - *Detect Cliches*
 * [phraseup](http://www.phraseup.com/) - *Autocomplete Common Phrases* 
 * [Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en) or [Talk to Transformer](https://app.inferkit.com/demo) - *Text Autocomplete* 
-* [EleutherAI](https://6b.eleuther.ai/) - *Text / Story Autocomplete*
+* [EleutherAI](https://6b.eleuther.ai/) or [Essaytyper](http://www.essaytyper.com/) - *Text / Story Autocomplete*
 * [Twinery](https://twinery.org/) - *Interactive Non-Linear Story Creator*
 * [Idyll](https://idyll-lang.org/editor) - *Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)*
 * [FocusWriter](https://gottcode.org/focuswriter/) - *Distraction-Free Writing Environment*
@@ -196,6 +197,7 @@
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) or [HandWrittner](https://handwrittner.com/?lang=en) - *Text to Handwriting Converter*
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - *Extract Text From Any Window*
 * [ExtractMailAddress](https://extractemailaddress.com/) - *Extract Email's, URLs & Numbers from Text*
+* [Scanner](https://simon-knuth.github.io/scanner/index) - *Scanner App / [GitHub](https://github.com/simon-knuth/scanner)*
 * [MakeSweet](https://makesweet.com/) - *Send 3D Messages*
 * [Cryptii](https://cryptii.com/) - *Modular Conversion, Encoding & Encryption*
 * [dCode](https://www.dcode.fr/en) - *Message Decoders*
@@ -310,6 +312,7 @@
 * [vidcutter](https://github.com/ozmartian/vidcutter) - *Cut Videos* 
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts*
 * [WeGreyScale](https://www.wegrayscale.com/) - *Greyscale Videos / Images*
+* [Gyroflow](https://gyroflow.xyz/) - *Video Stabilization / [GitHub](https://github.com/gyroflow/gyroflow)*
 * [Croosfade](https://crossfade.io/) - *Video and Audio Crossfading*
 * [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - *Mux Videos*
 * [blur](https://github.com/f0e/blur) - *Add Motion Blur to Videos / [Tutorial](https://youtu.be/16-KU4r3BcA)* 
@@ -488,6 +491,7 @@
 * [Dot Piano](https://dotpiano.com/) or [Piano Online](https://magicode.me/piano-online) - *Online Piano*
 * [Petaporon](https://pixwlk.itch.io/petaporon) - *Piano Sequencer / [Editor](https://pixwlk.itch.io/petaporon-editor)*
 * [MK-1](https://ericrosenbaum.github.io/MK-1/) - *Online Sampling Keyboard*
+* [Sampulator](http://sampulator.com/) - *Create Music via Keyboard*
 * [Theremin](https://femurdesign.com/theremin/) - *Online Synth / Theremin* 
 * [Audio Synthesizers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_synthesizers) - *Audio Synthesizer Sites & Apps*
 * [Vital](https://vital.audio/) - *Spectral Warping Wavetable Synth*
@@ -810,7 +814,7 @@
 * [Browsh](https://www.brow.sh/) - *Text Based Browser* 
 * [Beaker](https://beakerbrowser.com/) - *P2P Web Browser* 
 * [webbrowser.git](https://git.nuegia.net/webbrowser.git/) - *Lightweight Browser* 
-* [MinBrowser](https://minbrowser.org/) - *Minimalist Browser*
+* [MinBrowser](https://minbrowser.org/) or [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser) - *Minimalist Browser*
 * [Vieb](https://vieb.dev/) - *Vim Inspired Browser*
 * [Netbox](https://netbox.global/) - *Blockchain Backed Browser*
 * [Ghost Browser](https://ghostbrowser.com/) - *Multi-Session Browser*
@@ -863,7 +867,7 @@
 * [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z), [2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - *Search Manga Sites*
 * [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8), [2](https://cse.google.com/cse?cx=73948689c2c206528), [3](https://cse.google.com/cse?cx=a805854b6a196d6a6) - *Search Android APK Sites*
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1) - *Search File Hosts*
-* [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) or [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - *Search Pastebins*
+* [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0), [Pastebin.ga](https://pastebin.ga/) or [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - *Search Pastebins*
 * [Search All](https://www.searchall.net/) or [AIO Search](https://www.aiosearch.com/) - *Multi Site Search*
 * [Software CSE](https://cse.google.com/cse?cx=57b3962509047447e), [2](https://cse.google.com/cse?cx=ec7d33ef358ae1b65) - *Search Software Sites*
 * [Rom CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac), [2](https://cse.google.com/cse?cx=744926a50bd7eb010) - *Search Rom Sites*
@@ -891,6 +895,7 @@
 * [Marginalia Search](https://search.marginalia.nu/) - *Text Based Search Engine*
 * [TheOldNet](http://theoldnet.com/) - *Retro Search Engine*
 * [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - *40 Custom Search Engines*
+* [Social Media CSE](https://cse.google.com/cse?cx=73dda67fd05b4405f#gsc.tab=1&gsc.sort=) - *Search Social Media Sites*
 * [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - *Search TikTok*
 * [UserSearch](https://usersearch.org/) or [WhatsMyName](https://whatsmyname.app/) - *Username Search*
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - *Telegram CSE*
@@ -1110,6 +1115,7 @@
 * [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) or [WebCord](https://github.com/SpacingBat3/WebCord) - *Discord Web Client / [Discord](https://discord.gg/Vm4CwZx)*
 * [discord-PWA](https://github.com/NeverDecaf/discord-PWA) - *Discord PWA Client*
 * [weechat-discord](https://github.com/terminal-discord/weechat-discord) - *WeeChat Discord Plugin*
+* [Atlus](https://github.com/amanharwara/altus) - *Whatsapp Client*
 * [litecord](https://gitlab.com/litecord/litecord) - *Reimplementation of Discord's Backend / [Clients](https://gitlab.com/litecord/litecord/-/blob/master/docs/clients.md)*
 * [Discord-Sandbox](https://github.com/khlam/discord-sandboxed) - *Sandbox Discord Client*
 * [Overlayed](https://overlayed.dev/) - *Alternate Discord Overlay / [Github](https://github.com/Hacksore/overlayed)*
@@ -1808,7 +1814,7 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install) or [Nini
 ## ▷ Customization
 
 * **[Wallpaper Sites / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Download Wallpapers*
-* **[Rainmeter](https://www.rainmeter.net/)** - *Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals)* 
+* **[Rainmeter](https://www.rainmeter.net/)** - *Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter), [2](https://visualskins.com/) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals)* 
 * **[Dracula](https://draculatheme.com/)**, [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - *Custom App Themes*
 * [PCDesktops](http://pcdesktops.emuunlim.com/applinks.shtml) - *Windows Customization Apps*
 * [ScreenStyler](https://screenstyler.com/) -  *Desktop Customization / [Discord](https://discord.gg/u3thTMp9Cd)*
@@ -1891,6 +1897,7 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install) or [Nini
 * [Interior Generator](https://powerkdp.com/interior-generator/) / [2](https://designer.bookbolt.io/interior-generator.php) - *Document Interior Generator*
 * [ConvertCSV](https://www.convertcsv.com/) - *CSV Data Conversion*
 * [Encoding Converter](https://encoding-converter.netlify.app/) - *File Encoding Converter*
+* [UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - *Convert Update Platform Files to Windows Media Files*
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - *DataHoarding Tools Index*   
 * [FileInfo](https://fileinfo.com/) or [File-Extensions](https://www.file-extensions.org/) - *File Extension Library*
 * [download](https://github.com/kevva/download) - *File Download Tool / Extractor / [CLI](https://github.com/kevva/download-cli)*
