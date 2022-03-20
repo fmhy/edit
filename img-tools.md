@@ -72,7 +72,7 @@
 * [Image Upscalers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_upscalers) - *Upscale Images*
 * [Croppola](https://croppola.com/), [Bulk Image Crop](https://bulkimagecrop.com/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - *Cropping Tool* 
 * [Seopix](https://www.seopix.io/) or [Reduce Images](https://www.reduceimages.com/) - *Resize & Compress Images*
-* [Simple Image Resizer](http://www.simpleimageresizer.com/), [fixpicture](https://www.fixpicture.org/), [Birme](https://www.birme.net/), [Online Image Resizer](https://online-image-resizer.com/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - *Resize Images*
+* [Simple Image Resizer](http://www.simpleimageresizer.com/), [toolur](https://compressimage.toolur.com/), [fixpicture](https://www.fixpicture.org/), [Birme](https://www.birme.net/), [Online Image Resizer](https://online-image-resizer.com/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - *Resize Images*
 * [Resize App Icon](https://resizeappicon.com/) - *Resize Square Images* 
 * [SSizes](https://ssizes.com/) or [PixelHunter](https://pixelhunter.io/) - *Resize Images for Different Sites*
 * [RIOT](https://riot-optimizer.com/) or [ImageFoo](https://imagefoo.com/) - *Image Optimization Tool*
@@ -123,6 +123,7 @@
 * [Tabbied](https://tabbied.com/) - *Art Pattern Generator*
 * [Random Art](http://www.random-art.org/) - *Random Art Generator*
 * [Chaos Machine](https://chaosmach.com/) - *Random Graphic Generator*
+* [ruDALL-E](https://rudalle.ru/en/) - *Generate Images from Text Queries / [Telegram](https://t.me/sber_rudalle_xl_bot)*
 * [TierMaker](https://tiermaker.com/) - *Tier List Image Creator*
 * [Hugin](http://hugin.sourceforge.net/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - *Panorama Image Generator* 
 * [Side It](https://sideit.app/) - *Side by Side Image Generator*
@@ -451,7 +452,7 @@
 
 * [FotoForensics](http://www.fotoforensics.com/), [Forensically](https://29a.ch/photo-forensics/) or [Ghiro](http://www.getghiro.org/) - *Photo Forensics Tool* 
 * [Image Identification Project](https://www.imageidentify.com/) - *Image Identification Tool* 
-* [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [ImSter](https://github.com/armytricks/ImSter) or [stegpy](https://github.com/dhsdshdhk/stegpy) - *Embed & Extract Hidden Data in Images / Steganography* 
+* [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [Steganography-PNG](https://pedrooaugusto.github.io/steganography-png/) / [GitHub](https://github.com/pedrooaugusto/steganography-png), [ImSter](https://github.com/armytricks/ImSter) or [stegpy](https://github.com/dhsdshdhk/stegpy) - *Embed & Extract Hidden Data in Images / Steganography* 
 * [Ambiguous PNG Packer](https://github.com/DavidBuchanan314/ambiguous-png-packer) - *Create PNG that looks different on Apple Software*
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - *Blur Images / Scrub Metadata*
 * [BetterCensorship](https://bc.betterrepack.com/) - *Censor and De-censor Images*
