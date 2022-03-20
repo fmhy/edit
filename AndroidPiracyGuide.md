@@ -901,8 +901,7 @@ RSS Player*
 * [Dropbox Premium](https://testflight.apple.com/join/LBZaRq4I) - *Cloud Storage*
 * [iEmulators](https://iemulators.com/) - *Emulator Apps*
 * [Infinity](https://github.com/fullpwn/infinity) - *Run Android 10(Q) on iPhone*
-* [HappyChick](http://www.happychick.hk/download.html) or [8090Games](https://apps.apple.com/us/app/8090games/id1514980629 
-) - *Game Emulator*
+* [HappyChick](http://www.happychick.hk/download.html) or [8090Games](https://apps.apple.com/us/app/8090games/id1514980629) - *Game Emulator*
 * [iDOS](https://iosninja.io/ipa-library/download-idos-ipa-ios) - *DOS Emulator / [GitHub](https://github.com/litchie/dospad)*
 * [iSSB Play](https://iosninja.io/ipa-library/download-issb-ipa-ios) - *Super Smash. Bros on iOS / [GitHub](https://github.com/lufinkey/iSSB)*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
@@ -933,7 +932,7 @@ RSS Player*
 * [iSkin](https://iskin.tooliphone.net/), [Anemone](https://www.ios-repo-updates.com/repository/odyssey-repo/package/com.anemonetheming.anemone3/), [/r/iOSsetups](https://www.reddit.com/r/iOSsetups/ ), [/r/iOSthemes](https://www.reddit.com/r/iOSthemes/), [Moloko](https://apps.apple.com/us/app/moloko-themes-icons/id1534741213) or [SnowBoard](https://repo.dynastic.co/package/snowboard) - *iOS Themes* 
 * [Themify](https://apps.apple.com/us/app/themify-icon-themes-widgets/id1534126062) - *Icon Themes & Widgets*
 * [iCustom](https://icustom.tooliphone.net/) - *Make Custom Icons Without Shortcuts* 
-* [ShortcutsGallery](https://shortcutsgallery.com/) - *Siri Shortcuts*
+* [ShortcutsGallery](https://shortcutsgallery.com/) or [RoutineHub](https://routinehub.co/) - *Siri Shortcuts*
 * [Color Widgets](https://apps.apple.com/us/app/color-widgets/id1531594277), [WidgetSmith](https://apps.apple.com/us/app/widgetsmith/id1523682319) or [widgetopia](https://apps.apple.com/us/app/widgetopia-widgets-weather/id1536432615) - *iOS Widgets*
 * [DownTube](https://github.com/MrAdamBoyd/DownTube) or [YouDown](https://apps.apple.com/sa/app/youdown/id1487658334) - *YouTube Downloader* 
 * [Keynote](https://apps.apple.com/us/app/keynote/id361285480) - *Make Presentations*
