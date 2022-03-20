@@ -432,8 +432,9 @@ French / General Torrent Tracker
 * [Dokumen](https://dokumen.pub/) - *Books*
 * [VK Serial Books & Magazines](https://vk.com/sebomag) - *Books / Magazines* 
 * [EBook Land](http://www.ebook-land.cc/index.php) - *Books / Magazines*
-* [ebook-hell](https://ebook-hell.to/) - *Books / Magazines / NSFW / Use adblocker* 
+* [ebook-hell](https://ebook-hell.to/) - *Books / Magazines / NSFW / Use Adblocker* 
 * [DownMagaz](https://de.downmagaz.net/) - *Magazines / NSFW* 
+* [ComicMafia](https://comicmafia.to/) - *Comics / Manga*
 * [Hoerbuch](https://hoerbuch.us/) - *Audiobooks*
 
 ***
