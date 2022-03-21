@@ -408,7 +408,7 @@
 * [Panopticlick](https://coveryourtracks.eff.org/) - *Test if your Browser Blocks Tracking* 
 * [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) - *Bypass Site Blocking DPI*
 * [Am I FLoCed?](https://amifloced.org/) or [FLoC Demo](https://floc.glitch.me/) - *Check if Chrome Ad-Targeting is Enabled*
-* [Yggdrasil](https://yggdrasil-network.github.io/) - *IPv6 Network*
+* [Yggdrasil](https://yggdrasil-network.github.io/), [2](https://github.com/yggdrasil-network) - *IPv6 Network / [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go/)*
 * [anoNet](http://www.anonet.org/) - *Anonymous IP Network*
 
 ***
