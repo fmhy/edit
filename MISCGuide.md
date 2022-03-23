@@ -566,6 +566,8 @@
 * [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - *News Site Indexes* 
 * [Google Alerts](https://www.google.com/alerts) - *News Alerts by Topics*
 * [Slower News](https://www.slowernews.com/) - *Breaking News*
+* [RIPE](https://www.ripe.net/publications/news/latest-news) - *News*
+* [ICANN](https://www.icann.org/) - *News*
 * [TXT Radio](http://beta.txtradio.live/) - *News Text Radio*
 * [PublicAlerts](https://google.org/publicalerts) - *Important News / Disaster Alerts*
 * [Riot Archive](https://riotarchive.com/) - *Riot / Protest Videos*
@@ -579,6 +581,8 @@
 * [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - *Dark Web News*
 * [Interactive News Map](https://usa.liveuamap.com/) - *Geolocated News Alerts / Headlines U.S* 
 * [Forekast](https://forekast.com/) - *Worldwide Event Calendar* 
+* [Nikkei Asia](https://asia.nikkei.com/) - *Asian News*
+* [MFA](https://www.mfa.gov.cn/eng/) - *Ministry of Foreign Affairs of the People's Republic of China*
 * [SciURLs](https://sciurls.com/) - *Science News*
 * [MathURLs](https://mathurls.com/) - *Math News*
 * [DevURLs](https://devurls.com/) - *Developer News*
