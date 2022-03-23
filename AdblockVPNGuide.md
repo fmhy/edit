@@ -517,6 +517,7 @@
 * [VPNGate](https://www.vpngate.net/en/) - *Free VPN Relay Servers*
 * [OpenVPN](https://openvpn.net/), [TincVPN](http://www.tinc-vpn.org/) or [IPTunnels](https://www.iptunnels.com/) - *VPN Tunnels*
 * [Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs) - *Free VPN Tunnel Configs*
+* [Warp-Unlimited-Advanced](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED) - *Generate Unlimited Data For Warp VPN*
 * [Gluetun](https://github.com/qdm12/gluetun) - *Tunnel your Docker containers through a VPN*
 * [PiVPN](https://pivpn.io/) - *Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)* 
 * [Enterprise](https://pritunl.com/) - *VPN Server* 
@@ -542,6 +543,7 @@
 * [Shadowsocks](https://shadowsocks.org/en/index.html) - *[Free Servers](https://github.com/ruanfei/ShadowsocksRRShare), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows)*
 * [FilterBypass](https://www.filterbypass.me/) 
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy)
+* [Xray](https://github.com/XTLS/Xray-core) - *[Telegram](https://t.me/projectXray)*
 * [Privoxy](http://www.privoxy.org/) - *[Docker Build](https://github.com/binhex/arch-privoxyvpn)*
 * [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - *HTTPS Proxy*
 * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - *Proxy Manager*
