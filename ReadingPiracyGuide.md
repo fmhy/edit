@@ -1115,6 +1115,7 @@
 * [All Anime](https://allanime.site/) - *Manga*
 * [Manga Codex](https://mangacodex.com/) - *Manga Infographics & Sales Stats*
 * [vndb](https://vndb.org/) - *Visual Novel*  
+* [rvisualnovels-recs](https://sites.google.com/view/) - *Visual Novels Recommendations*
 * [rate.house](https://rate.house/) - *Media Tracker*
 * [libib](https://www.libib.com/) - *Desktop Media Catalog*
 * [MythBank](https://mythbank.com/) - *Media Timelines / Watch Orders* 
