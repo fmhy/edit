@@ -553,6 +553,7 @@
 * [MyLiveCricket](http://hd1.mylivecricket.live/), [2](http://my3.mylivecricket.cc/) - *Cricket*
 * [cric7.net ](http://t20.cric7.net/) - *Cricket*
 * [CricStream](https://cricstream.me/) - *Cricket*
+* [jiotv.cf](https://jiotv.cf/) - *Cricket*
 * [Tennis Streams](https://tennisstreams.me/) - *Tennis*
 * [Rugby Streams](https://rugbystreams.me/) - *Rugby*
 * [Golf Streams](https://golfstreams.me/) - *Golf*
