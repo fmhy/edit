@@ -20,6 +20,7 @@
 * **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
 * **[300TB Mega](https://mega.nz/folder/6q4XjSjD#n2aMXLlajXC59snzns_ijw)**, [2](https://mega.nz/folder/4l81jAha#ed19dxGXCtd-VWCEd-flxA)
 * **[300TB GDrive](https://drive.google.com/drive/folders/1oCMgJeBc55NuEasPcgwjx2FuPdQd8neu)**
+* [KOLLECTION](https://mega.nz/folder/gRcXUabB#CyxdMUocD-cKVdaGE8180Q)
 * [Google TeamDrives](https://onehack.us/t/tds-with-tbs-of-movies-web-series-courses-games-etc/77628) 
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28) 
 * [index-of](http://index-of.es/) 
