@@ -502,7 +502,7 @@ French / General Torrent Tracker
 * [SouthFreak](https://southfreak.online/) - *Movies*
 * [Watch Online Movies](https://www.watchonlinemovies77.com.pk/) - *Movies*
 * [UncutHD](https://www.uncuthd.one/) - *Movies*
-* [OlaMovies](https://olamovies.fun/) - *Movies / TV / [Telegram](https://t.me/olamovies_official)* 
+* [OlaMovies](https://olamovies.site/) - *Movies / TV / [Telegram](https://t.me/olamovies_official)* 
 * [HHD Movies](https://hhdmovies.pro/) - *[Telegram](https://t.me/+VozFopt7yyE4Y2Fl)*
 * [Bolly4u](https://bolly4u.ninja/), [2](https://bolly4u.blog/) - *Movies*
 * [9xflix](https://9xflix.one/) - *Movies*
