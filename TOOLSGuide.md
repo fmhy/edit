@@ -461,6 +461,7 @@
 * [CUETools](http://cue.tools/wiki/CUETools) - *Lossless Audio / CUE Sheet Converter*
 * [FLAC Frontend](http://flacfrontend.sourceforge.net/) - *FLAC Tools* 
 * [FLStudio Skins](https://mega.nz/folder/LBA0AB4S#z0QoDfFcJkeh2QXWvynZ2Q) - *Skins for FLStudio*
+* [Ambientbg](https://www.ambientbg.xyz/) - *Create Ambient Background in FL Studio*
 * [Webamp](https://webamp.org/) - *Winamp in Browser* 
 * [Winamp Skin Museum](https://skins.webamp.org/) - *Skins for Winamp / Webamp* 
 * [WACUP](https://getwacup.com/) - *Winamp update project* 
@@ -1250,7 +1251,6 @@
 * [TGCF](https://github.com/aahnik/tgcf) - *Telegram Message Forwarding*
 * [Callmebot](https://www.callmebot.com/) - *Trigger Voice Calls or Chats*
 * [Skeddy](https://skeddy.me/) - *Telegram Reminder Bot*
-* [GoogleDriveManagerBot](https://t.me/GoogleDriveManagerBo) - *Telegram GDrive Manager*
 * [clonebot](https://github.com/m4mallu/clonebot) - *Clone Media from Chats*
 * [ChecklyBot](https://t.me/checklybot) - *Checklist Telegram Bot*
 * [Shieldy Bot](https://t.me/shieldy_bot) - *Spam Protection Bot / [GitHub](https://github.com/1inch/shieldy)*
@@ -1967,7 +1967,6 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install) or [Nini
 * [GDirect](https://www.gdirect.link/), [gdurl](https://gdurl.com/) or [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - *Direct GDrive Link Generator*
 * [Folder.GDrive](https://folder.gdrive.vip/) - *GDrive Folder Link Generator*
 * [GDToT](https://gdtot.eu/), [2](https://new.gdtot.eu/) - *GDrive Manager*
-* [GoogleDriveManagerBot](https://t.me/GoogleDriveManagerBo) - *Telegram GDrive Manager*
 * [Backup System](https://github.com/danielpy108/BackUpMySystem) - *Backup Google Drive*
 * [OneDrive X](https://t.me/onedrivexbot) - *Remote OneDrive File Upload Bot*
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - *Fix OneDrive Zip Files >4gb*
