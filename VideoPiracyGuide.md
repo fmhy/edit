@@ -692,7 +692,7 @@
 * [480p TV Shows](https://www.480ptvshows.com/) - *Movies / TV* 
 * [300MBFilms](https://www.300mbfilms.com/) - *Movies / TV*
 * [TvShows4Mobile](https://tvshows4mobile.com/) - *TV / Anime*
-* [OlaMovies](https://olamovies.fun/) - *HD Movies / TV / [Telegram](https://t.me/olamovies_official)* 
+* [OlaMovies](https://olamovies.site/) - *HD Movies / TV / [Telegram](https://t.me/olamovies_official)* 
 * [UHDMV](https://uhdmv.org/) - *HD Movies / TV*
 * [Bluray.ID](https://www.bluray.id/) - *HD Movies / TV*
 * [Blu-Ray.world](https://blu-ray.world/) - *HD Movies / TV*
