@@ -111,6 +111,7 @@
 * [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - *Search Engines*
 * [Dianying](https://dianying.fm/) - *Hash Search*
 * [磁力海](https://cilidog.cc/) - *DHT Search*
+* [news_pdf](https://t.me/news_pdf) - *News*
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser) or [OilAndFish](https://www.oilandfish.com/) - *Bypass Chinese Firewall*  
 * [Gridea](https://github.com/getgridea/gridea) - *Blog Writing Client*
