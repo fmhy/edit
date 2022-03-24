@@ -177,7 +177,7 @@
 * [ScreenToGif](https://www.screentogif.com/) - *GIF Recording Software* 
 * [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - *Turn Screencasts into GIFs*
 * [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - *Turn YouTube Videos into GIFs* 
-* [petpet](https://benisland.neocities.org/petpet/) - *Headpatting GIF Maker*
+* [petpet](https://benisland.neocities.org/petpet/) / [2](https://zoomerok.app/petpet/) - *Headpatting GIF Maker*
 * [FlagWaver](https://krikienoid.github.io/flagwaver/) - *Create Moving Flag GIFs*
 * [Gifski](https://gif.ski/) - *GIF Encoder*
 * [Among-Us-Dumpy-Gif-Maker](https://dumpy.t1c.dev/) - *Make Dumpy Among us GIFs / [GitHub](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)*
