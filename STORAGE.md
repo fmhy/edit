@@ -401,7 +401,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Covers / Posters
 
-[Film](https://beta.flim.ai/), [The Poster Database](https://theposterdb.com/), [covercentury](https://www.covercentury.com/), [covrik](http://www.covrik.com/), [dvd-covers](https://www.dvd-covers.org/), [cover-addict](https://www.cover-addict.com/), [Gaming Alexandria](https://www.gamingalexandria.com/), [BoxEqualArt](http://boxequalsart.com/), [poster-man](http://www.poster-man.com/), [dlhcollections](https://www.dlhcollections.com/index.html), [postercollector](https://postercollector.co.uk/), [moviepostersgallery](https://www.moviepostersgallery.com/), [filmonpaper](https://www.filmonpaper.com/blog/), [gametdb](https://www.gametdb.com/), [Joblo](https://www.joblo.com/movie-posters/), [MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/), [andydecarli](http://andydecarli.com/Video%20Games/Collection/)
+[The Poster Database](https://theposterdb.com/), [covercentury](https://www.covercentury.com/), [covrik](http://www.covrik.com/), [dvd-covers](https://www.dvd-covers.org/), [cover-addict](https://www.cover-addict.com/), [Gaming Alexandria](https://www.gamingalexandria.com/), [BoxEqualArt](http://boxequalsart.com/), [poster-man](http://www.poster-man.com/), [dlhcollections](https://www.dlhcollections.com/index.html), [postercollector](https://postercollector.co.uk/), [moviepostersgallery](https://www.moviepostersgallery.com/), [filmonpaper](https://www.filmonpaper.com/blog/), [gametdb](https://www.gametdb.com/), [Joblo](https://www.joblo.com/movie-posters/), [MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/), [andydecarli](http://andydecarli.com/Video%20Games/Collection/), [impawards](http://www.impawards.com/), [moviemania](https://www.moviemania.io/)
 
 **Album Art** 
 
@@ -1736,7 +1736,7 @@ Add the following commands to a search to manually scrape each site.
 
 ####  Screen Recorders
 
-**[OBS](https://obsproject.com/)** / [Guide](https://youtu.be/7fuFGDFDzUY), [Bandicam](https://filecr.com/?s=bandicam), [FFmpeg](https://ffmpeg.org/), [Nchsoftware](https://www.nchsoftware.com/capture/), [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php), [Screenpresso](https://www.screenpresso.com/), [LiteCam](https://www.litecam.net/en/), [SRERecorder](https://srecorder.com/), [CamStudio](https://camstudio.org/), [EZVid](https://www.ezvid.com/), [Captura](https://mathewsachin.github.io/Captura/), [ScreenRecorder.2.0](https://github.com/Samuel-dot-cloud/ScreenRecorder.2.0), [Kap](https://getkap.co/), [oCam](https://ohsoft.net/eng/ocam/download.php?cate=1002), [WebMCam](https://github.com/michaelmob/WebMCam), [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/), [Kalmuri](https://global.kilho.net/kalmuri/), [Wink](https://www.debugmode.com/wink/), [RecWide](https://www.recwide.com/recorder/), [Vileo](https://lukasbach.github.io/vileo/), [Shar.ec](https://shar.ec/), [Scre.io](https://scre.io/), [Screen Recorder](https://github.com/akon47/ScreenRecorder), [ScreenREC](https://screen-rec.vercel.app/), [RecordCast](https://www.recordcast.com/), [RecordScreen](https://recordscreen.io/), [RecordJoy](https://shareit.video/)
+**[OBS](https://obsproject.com/)** / [Guide](https://youtu.be/7fuFGDFDzUY), [Bandicam](https://filecr.com/?s=bandicam), [FFmpeg](https://ffmpeg.org/), [Nchsoftware](https://www.nchsoftware.com/capture/), [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php), [Screenpresso](https://www.screenpresso.com/), [LiteCam](https://www.litecam.net/en/), [SRERecorder](https://srecorder.com/), [CamStudio](https://camstudio.org/), [EZVid](https://www.ezvid.com/), [Captura](https://mathewsachin.github.io/Captura/), [ScreenRecorder.2.0](https://github.com/Samuel-dot-cloud/ScreenRecorder.2.0), [Kap](https://getkap.co/), [oCam](https://ohsoft.net/eng/ocam/download.php?cate=1002), [WebMCam](https://github.com/michaelmob/WebMCam), [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/), [Kalmuri](https://global.kilho.net/kalmuri/), [Wink](https://www.debugmode.com/wink/), [RecWide](https://www.recwide.com/recorder/), [Vileo](https://lukasbach.github.io/vileo/), [Shar.ec](https://shar.ec/), [Scre.io](https://scre.io/), [Screen Recorder](https://github.com/akon47/ScreenRecorder), [ScreenREC](https://screen-rec.vercel.app/), [RecordCast](https://www.recordcast.com/), [RecordScreen](https://recordscreen.io/), [RecordJoy](https://shareit.video/), [ScreenApp](https://screenapp.io/)
 
 **Browser Extensions**
 
@@ -1966,7 +1966,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Spotify Tools
 
-[Lyrics](https://versefy.app/) / [Spotify Companion](https://spotifytools.romanello.xyz/) / [Playlist Manager](https://skiley.net/) / [Dedup](https://spotify-dedup.com/) / [Hotkeys](https://github.com/aleab/toastify) / [Backup](http://www.spotmybackup.com/), [2](https://github.com/watsonbox/exportify) / [Library Size](https://opslagify.deruever.nl/) / [Listening Stats](https://www.statsforspotify.com/), [2](https://volt.fm/), [3](https://spotistats.app/), [4](https://github.com/Yooooomi/your_spotify) / [Ad Host Files](https://gist.github.com/teomaragakis/cb187d880c9a3ca2c8a2), [2](https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57) / [Song Country Search](https://kira.vercel.app/) / [Account Gen](https://github.com/HamzaAnis/go-spotify-account-generator), [2](https://github.com/davide-acanfora/spotify-account-generator) / [Sync Accounts](https://github.com/yaronzz/SpotifySync)
+[Lyrics](https://versefy.app/) / [Spotify Companion](https://spotifytools.romanello.xyz/) / [Playlist Manager](https://skiley.net/) / [Dedup](https://spotify-dedup.com/) / [Hotkeys](https://github.com/aleab/toastify) / [Backup](http://www.spotmybackup.com/), [2](https://github.com/watsonbox/exportify) / [Library Size](https://opslagify.deruever.nl/) / [Listening Stats](https://www.statsforspotify.com/), [2](https://volt.fm/), [3](https://spotistats.app/), [4](https://github.com/Yooooomi/your_spotify) / [Ad Host Files](https://gist.github.com/teomaragakis/cb187d880c9a3ca2c8a2), [2](https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57) / [Song Country Search](https://kira.vercel.app/) / [Account Gen](https://github.com/HamzaAnis/go-spotify-account-generator), [2](https://github.com/davide-acanfora/spotify-account-generator) / [Sync Accounts](https://github.com/yaronzz/SpotifySync) / [Canvas Downloader](https://canvastify.delitefully.com/), [GitHub](https://github.com/Delitefully/spotify-canvas-downloader)
 
 **Spotify Adblockers**
 
@@ -2787,13 +2787,13 @@ Good for finding classic, obscure & short films.
 
 #### Worldwide News Sites Index
 
-[ABYZNews](http://www.abyznewslinks.com/), [AllYouCanRead](https://www.allyoucanread.com/), [W3Newspapers.com](https://www.w3newspapers.com/), [World-Newspapers](https://world-newspapers.com/), [OnlineNewspapers](http://www.onlinenewspapers.com/index.shtml)
+[ABYZNews](http://www.abyznewslinks.com/), [AllYouCanRead](https://www.allyoucanread.com/), [W3Newspapers.com](https://www.w3newspapers.com/), [World-Newspapers](https://world-newspapers.com/), [OnlineNewspapers](http://www.onlinenewspapers.com/index.shtml), [4IMN](https://www.4imn.com/)
 
 ***
 
 #### Youtube Android Apps
 
-[Skytube (no login needed)](https://skytube-app.com/) / [GitHub](https://github.com/SkyTubeTeam/SkyTube/), [NewPipe](https://newpipe.net/), [Newpipe w/ Sponsorblock](https://github.com/polymorphicshade/NewPipe)
+[Skytube (no login needed)](https://skytube-app.com/) / [GitHub](https://github.com/SkyTubeTeam/SkyTube/), [NewPipe](https://newpipe.net/), [Newpipe w/ Sponsorblock](https://github.com/polymorphicshade/NewPipe), [VueTube](https://vuetube.app/) / [GitHub](https://github.com/Frontesque/VueTube)
 
 ***
 
