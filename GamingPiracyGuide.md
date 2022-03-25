@@ -47,7 +47,6 @@
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [LiGHT Repack Archive](https://drive.google.com/drive/folders/1q4lRUnwVhMQuakl1yM8OH1Je9_92LpXE)
 * [silentycrying's Game Drive](https://drive.google.com/drive/u/0/folders/1K1FdNbEu9-_wy8vn9sE768VojXqu6Fnp) 
-* [Cracked Games](https://drive.google.com/drive/u/0/folders/1923I8RvjiE112Fzca1WshxMIwlL338Ea)
 * [DLFox](https://www.dlfox.com/)
 * [Alphagames4u](https://alphagames4u.com/) - *[Discord](https://discord.gg/QjrJSs7maj)*
 * [GamesFull](https://gamesfull.app/) 
