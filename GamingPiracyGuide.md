@@ -557,6 +557,7 @@
 * [Multiplayer.golf](https://multiplayer.golf/) or [Manygolf](https://manygolf.club/) - *Multiplayer Golf*
 * [Tanki](https://tankionline.com/) - *Online Team VS Team Tank Game* 
 * [Plink](http://labs.dinahmoe.com/plink/) - *Music Game* 
+* [Make It Meme](https://makeitmeme.com/) - *Meme Party Game*
 * [Fishington](https://fishington.io/) - *Fishing Game*
 * [Too Many Chefs](https://www.toomanychefs.party/) - *Text-Based Coop Cooking Game* 
 * [Haxball](https://www.haxball.com/) - *Physics Based Soccer*
@@ -589,9 +590,10 @@
 * [AllBad.Cards](https://allbad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - *Cards Against Humanity Online* 
 * [Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards) - *Card Games Index*
 * [WorldOfCardGames](https://worldofcardgames.com/), [247Games](https://www.247games.com/) or [World of Solitaire](https://worldofsolitaire.com/) - *Card Games*
-* [Solitaired](https://solitaired.com/) - *Solitaire *
-* [Blackjack Break](https://blackjackbreak.com/) - *Browser Blackjack*
+* [Solitaired](https://solitaired.com/) - *Solitaire*
+* [Free Spider Solitaire](https://freespidersolitaire.io/) - *Spider Solitaire*
 * [Mah-Jongg](https://www.mah-jongg.ch/) - *Mahjongg Solitaire Games*
+* [Blackjack Break](https://blackjackbreak.com/) - *Browser Blackjack*
 * [Poker Now](https://www.pokernow.club/), [LiPoker](https://lipoker.io/) or [247 Free Poker](https://www.247freepoker.com/) - *Multiplayer Poker*
 * [KDice](http://www.kdice.com/) - *Multiplayer Dice War*
 * [Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee) - *Yahtzee Sites Collection*
@@ -689,11 +691,14 @@
 # ► Tracking / Discovery
 
 * **[IMDb Advanced Search](https://www.imdb.com/search/)**
-* **[Grouvee](https://www.grouvee.com/)** - *Video Game Database*
+* **[Grouvee](https://www.grouvee.com/)** - *Video Game Tracker*
 * **[TasteDive](https://tastedive.com/)** - *Recommendations* 
 * [OpenCritic](https://opencritic.com/) - *Critic Game Reviews / Ratings*
 * [IMDb](https://www.imdb.com/) - *Video Game Database*
 * [GiantBomb](https://www.giantbomb.com/games/) - *Video Game Database* 
+* [GameFAQs](https://gamefaqs.gamespot.com/) - *Video Game Database*
+* [GG App](https://ggapp.io/) - *Video Game Tracker*
+* [Gamelib](https://gamelib.app/explore) - *Video Game Tracker*
 * [Backloggd](https://www.backloggd.com/) - *Video Game Database*
 * [Games Database](https://www.gamesdatabase.org/) - *Video Game Database* 
 * [LaunchBox Games Database](https://gamesdb.launchbox-app.com/) - *Video Game Database* 
