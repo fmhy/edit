@@ -344,8 +344,8 @@
 * [PrivacyTests](https://privacytests.org/) - *Web Browser Privacy Tests*
 * [Privacy Score](https://privacyscore.org/) - *Website Privacy Score Rankings*
 * [TrackingTheTrackers](https://trackingthetrackers.com/) - *Check if a website is disguising third-party trackers as first-party trackers*
-* [LMT Anti-Logger ](https://leminhthanh.me/antilogger/) - *Anti-Loggers (e.g. Keyloggers)*
-* [QFX KeyScrambler](https://filecr.com/?s=QFX+KeyScrambler+Professional) - *Scramble Keyboard Inputs*
+* [LMT Anti-Logger](https://leminhthanh.me/antilogger/) - *Anti-Loggers (e.g. Keyloggers)*
+* [QFX KeyScrambler](https://pastebin.com/aJKhuKSB) - *Scramble Keyboard Inputs*
 * [WhoTracksMe](https://whotracks.me/) or [Trackography](https://trackography.org/) - *Site Tracking Info*  
 * [YourAdChoices](https://optout.aboutads.info/?c=2&lang=EN) - *Check Your Current IBA Status*
 * [I2P](https://geti2p.net/en/) - *Encrypted Private Network Layer / [Resource Index](https://github.com/mikalv/awesome-i2p)* 
