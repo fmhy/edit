@@ -29,7 +29,7 @@
 * [BusyBox](https://frippery.org/busybox/) - *Unix Tools*
 * [Awesome-shell](https://github.com/alebcay/awesome-shell) - *List of CLI Tools*
 * [Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome) - *GNOME Distro Resources*
-* [Enlightment](https://www.enlightenment.org/) or [dwm](https://dwm.suckless.org/) - *Window Manager*
+* [Enlightment](https://www.enlightenment.org/), [qpwm](https://github.com/ssleert/qpwm) or [dwm](https://dwm.suckless.org/) - *Window Manager*
 * [swizzin](https://swizzin.ltd/) - *Seedbox for Ubuntu / Debian* 
 * [rtinst](https://github.com/arakasi72/rtinst) - *Seedbox Installation Script for Ubuntu / Debian* 
 * [anime-terminal](https://github.com/YogeshLamichhane/anime-terminal) or [ani-cli](https://github.com/pystardust/ani-cli) - *Anime Streaming Terminal for Linux*
@@ -272,6 +272,7 @@
 * **[Torrminatorr](https://forum.torrminatorr.com/)** - *Linux Games*
 * **[johncena141](https://1337x.to/user/johncena141/)** - *Linux Games*
 * [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - *Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
+* [r/linux_gaming wiki](https://linux-gaming.kwindu.eu/) - *Linux Gaming Wiki*
 * [GameHub](https://tkashkin.github.io/projects/gamehub/) - *Game Manager*
 * [SCNLOG](https://scnlog.me/) - *Linux Games*
 * [Free Linux PC Games](https://freelinuxpcgames.com/) - *Linux Games*
