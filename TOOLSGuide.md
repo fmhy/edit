@@ -896,6 +896,7 @@
 * [Marginalia Search](https://search.marginalia.nu/) - *Text Based Search Engine*
 * [TheOldNet](http://theoldnet.com/) - *Retro Search Engine*
 * [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - *40 Custom Search Engines*
+* [Refseek](https://www.refseek.com/) - *Academic Search Engine *
 * [Social Media CSE](https://cse.google.com/cse?cx=73dda67fd05b4405f#gsc.tab=1&gsc.sort=) - *Search Social Media Sites*
 * [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - *Search TikTok*
 * [UserSearch](https://usersearch.org/) or [WhatsMyName](https://whatsmyname.app/) - *Username Search*
@@ -1288,6 +1289,7 @@
 * [TubeBuddy](https://www.tubebuddy.com/) - *YouTube Channel Tools*
 * [vidIQ](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl) - *YouTube Viewership Data*
 * [Channel Crawler](https://channelcrawler.com/eng) - *YouTube Channel Search*
+* [Comment Viewer](https://commentviewer.com/) - *Search & Sort Youtube Comments*
 * [TubeArchivist](https://www.tubearchivist.com/) - *Archival Youtube Media Server / [GitHub](https://github.com/bbilly1/tubearchivist)*
 * [Incognitube](https://www.incognitube.com/) or [Petit tube](http://www.petittube.com/) - *YouTube Vids with -100 views* 
 * [YouTube-Geofind](https://mattw.io/youtube-geofind/location) - *Find Geotagged Videos* 
