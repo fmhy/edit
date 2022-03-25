@@ -741,6 +741,7 @@
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - *BMR / TDEE Calculator*
 * [BMI Chart](https://i.imgur.com/JHJCmDM.png) - *Healthy BMI Graph*
 * [/r/BodyweightFitness](https://www.reddit.com/r/BodyweightFitness) - *Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)*
+* [Start Bodyweight](http://www.startbodyweight.com/) - *Bodyweight Training*
 * [Bodyweight Fitness Progressions](https://docs.google.com/spreadsheets/d/1a8tlZ-zbF695HA3Lmm20OIYeYYxo1lmUOczUXKLoL4s/)
 * [/r/LoseIt](https://www.reddit.com/r/loseit/) - *Weight Loss Subreddit*
 * [MOVE! Coach](https://mobile.va.gov/app/move-coach) - *Weight Loss Program*
@@ -862,6 +863,7 @@
 * [Wigle](https://wigle.net/) - *802.11 Wireless Network Map*
 * [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - *Web Service Coverage Map*
 * [Broadband Map](https://broadbandmap.fcc.gov/) - *Fixed Broadband Deployment Map*
+* [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/) - *Vegetation and Moisture Map*
 * [Waqi.info](http://waqi.info/) - *Air Pollution Map*
 * [Light Pollution Map](https://lightpollutionmap.info/) - *Light Pollution Map*
 * [NightBlight](https://nightblight.cpre.org.uk/maps/) - *England Light Pollution Map*
