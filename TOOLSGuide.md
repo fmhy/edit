@@ -1189,6 +1189,7 @@
 * [Discord Creation Date Check](https://hugo.moe/discord/discord-id-creation-date.html) - *Check Creation Date of User / Channel / Server / [GitHub](https://github.com/hugonun/discordid2date)*
 * [DSC.BIO](https://dsc.bio/) - *Make Awesome Custom Discord Bios* 
 * [DateTimeCord](https://datetimecord.rauf.wtf/) - *Discord Date & Time Fomatting Tool*
+* [Dank.tools](https://dank.tools/) - *Time Tag Generator*
 * [Discord Text to Emoji](https://jtprince.com/discord/) - *Emoji Discord Text*
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - *Automod Bot Config*
 * [Dyno](https://dyno.gg/) - *Change Discord Discriminator w/o Nitro / [How-To](https://i.imgur.com/lHRD42c.png)* 
@@ -1939,6 +1940,7 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install) or [Nini
 * [PDFCoffee](https://pdfcoffee.com/) - *Upload PDF, Word or PowerPoint Files*
 * [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - *Fill & sign a PDF*
 * [megabasterd](https://github.com/tonikelope/megabasterd) - *MEGA Downloader / Uploader / Streaming / Quota Bypass / [Proxies](https://github.com/tonikelope/megabasterd/blob/proxy_list/proxy.txt)*
+* [Mega Index](https://github.com/TheCaduceus/MEGA-INDEX) - *Bypass MEGA Quota*
 * [megatools](https://megatools.megous.com/) - *Mega.nz CLI*
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - *Mega Download Script*
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) - *Mega to HTTP*
