@@ -582,6 +582,7 @@
 * [Interactive News Map](https://usa.liveuamap.com/) - *Geolocated News Alerts / Headlines U.S* 
 * [Forekast](https://forekast.com/) - *Worldwide Event Calendar* 
 * [Nikkei Asia](https://asia.nikkei.com/) - *Asian News*
+* [China Daily Global](http://www.chinadailyglobal.com/) or [China Daily Asia](https://www.chinadailyasia.com/ ) - *Chinese News*
 * [MFA](https://www.mfa.gov.cn/eng/) - *Ministry of Foreign Affairs of the People's Republic of China*
 * [SciURLs](https://sciurls.com/) - *Science News*
 * [MathURLs](https://mathurls.com/) - *Math News*
@@ -1062,7 +1063,7 @@
 * [Clippings](https://aecreations.sourceforge.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - *Clipboard Manager*
 * [Auto Text Expander](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_auto_text_expander) - *Create Shortcuts to Expand & Replace Text as you Type* 
 * [DontFuckWithPaste](https://github.com/jswanner/DontFuckWithPaste) - *Prevents the Blocking of Pasting into Input Fields*
-* [Absolute Enable Right Click](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_absolute_enable_right_click) - *Force Enable Right Click*
+* [Absolute Enable Right Click](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_absolute_enable_right_click) or [Allow Right Click](https://add0n.com/allow-right-click.html) / [GitHub](https://github.com/lunu-bounir/allow-right-click.html/) - *Force Enable Right Click
 * [Copycat](https://github.com/BlackGlory/Copycat) - *Copy Content in Multiple Formats & Markdowns* 
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - *Copy Text as Markdown* 
 * [Copy Selected Links](https://gitlab.com/Marnes/copy-selected-links) - *Copy Links from Selected Text* 
@@ -1202,6 +1203,7 @@
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - *Download Multiple Links at Once* 
 * [Refgen](https://github.com/reorx/refgen) - *Generate Markdown Style Links*
 * [Hover](https://chrome.google.com/webstore/detail/hover/eiiibfemcfcehadokcldlcdljfdlmolj) - *Link Previews*
+* [Fetcher](https://fetcher.page/) - *Feed Grabber*
 * [Multimedia Search](https://multimediasearchapp.com/) - *Browser File Search*
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
 * [Selectable](https://chrome.google.com/webstore/detail/selectable-for-fanfiction/jcidlhgdoojamkbpmhbpgldmajnobefd?ucbcb=1) - *Force Enable Select Text*
@@ -1228,6 +1230,7 @@
 * [OpenDyslexic](https://chrome.google.com/webstore/detail/opendyslexic-for-chrome/cdnapgfjopgaggbmfgbiinmmbdcglnam) - *Increase Page Readability*
 * [Read Progress](https://chrome.google.com/webstore/detail/website-read-progress/cpmfchlofecflfioofchboebmocaelip) - *Display Read Progress on WebPage*
 * [Go Back in Time](https://chrome.google.com/webstore/detail/go-back-in-time/hgdahcpipmgehmaaankiglanlgljlakj) - *View Archived / Cached Webpages*
+* [Amino](https://aminoeditor.com/) - *Customize Webpage CSS*
 * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en) - *Image / Video Album Downloader / [Script](https://openuserjs.org/scripts/indream/DownAlbum)* 
 * [BetterViewer](https://github.com/Ademking/Betterviewer) - *Improved Image Viewer*
 * [Resizing](https://resizing.app/) - *Resize Images*
