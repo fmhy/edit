@@ -268,7 +268,7 @@
 # ► Linux Gaming
 
 * **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** - *Linux Gaming Guides*
-* **[protondb](https://www.protondb.com/)** or **[Lutris](https://lutris.net/)** - *Play Windows games on Linux*
+* **[protondb](https://www.protondb.com/)**, **[Lutris](https://lutris.net/)** or [Proton](https://github.com/ValveSoftware/Proton) - *Play Windows games on Linux*
 * **[Torrminatorr](https://forum.torrminatorr.com/)** - *Linux Games*
 * **[johncena141](https://1337x.to/user/johncena141/)** - *Linux Games*
 * [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - *Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
@@ -284,6 +284,7 @@
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - *Rust TUI for Steam*
 * [steam-cli](https://github.com/berenm/steam-cli) - *CLI for Steam*
 * [SamRewritten](https://github.com/PaulCombal/SamRewritten) - *Steam Achievement Manager*
+* [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - *Steam Linix Beta Issue Tracker*
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher*
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - *GOG Client*
 * [proton-gog-install](https://github.com/myyc/proton-gog-install) - *Windows to Linux GOG Game Installer*
@@ -436,7 +437,7 @@
 * [AppDB](https://appdb.to/) 
 * [AppsTorrent](https://appstorrent.ru/) 
 * [NXMac](https://nxmac.com/)
-* [Pure Mac](https://www.pure-mac.com/ ) 
+* [Pure Mac](https://www.pure-mac.com/) 
 * [Downloadies](https://www.downloadies.com/) 
 * [Macupdate](https://www.macupdate.com/) 
 * [Mac Torrents](https://www.torrentmac.net/) 
