@@ -168,7 +168,8 @@
 * [Dota2ProTracker](https://www.dota2protracker.com/) or [16-Bits](https://16-bits.org/) - *Dota 2 Stats Tracker*
 * [Project Era](https://erafn.glitch.me/#downloads) - *Play Old Fortnite Seasons*
 * [HaloDotAPI](https://developers.halodotapi.com/) - *Halo Stats, MOTD & UGC API*
-* [Online Fix](https://online-fix.me/) - *Online Game Cracks / [Discord](https://discord.gg/yExgFYncMD)* 
+* [Online Fix](https://online-fix.me/) - *Online Game Cracks / [Discord](https://discord.gg/yExgFYncMD)*
+* [Universal VPN Fixer](https://github.com/samfisherirl/VPNGamingPauser/) - *Auto Pause VPN While Gaming Online*
 * [Slippi](https://slippi.gg/) - *Super Smash Bros Melee Online* 
 * [Among Us Free Chat Unlocker](https://github.com/Vili1/Among-us-Free-Chat-unlocker/releases/) - *Among Us Chat Unlocker*
 * [CrewLink](https://github.com/ottomated/CrewLink) - *Among Us Proximity Chat*
@@ -269,6 +270,7 @@
 * [MCPEDL](https://mcpedl.com/) - *Minecraft PE/Bedrock Mods, Maps & Resources*
 * [Couleur Tweak Tips](http://discord.gg/CTT) - *Minecraft Tweaks & Tips*
 * [OptiFine Alternatives](https://lambdaurora.dev/optifine_alternatives/) - *Minecraft OptiFine Alternatives for Fabric*
+* [modsman](https://github.com/sargunv/modsman) - *Minecraft Mod Manager*
 * [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - *Minecraft Utility Mod*
 * [Cubical](https://www.cubical.xyz/) - *Minecraft Schematic Tool*
 * [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) - *Turn Photos into Minecraft Art*
@@ -340,7 +342,7 @@
 * [Homebrew Guides](https://rentry.co/Guides) - *Homebrew Guides & Setups*
 * [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - *Homebrew News & Guides*
 * [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - *Wii Homebrew Installer / [Find MAC](https://www.nintendo.com/consumer/systems/wii/en_na/includes/rvl-ht-int-find-mac-address.jsp)*
-* [WiiU Exploit](https://wiiuexploit.xyz/) - *WiiU Homebrew Installer*
+* [WiiU Exploit](https://wiiuexploit.xyz/) or [ModMii](https://modmii.github.io/) - *WiiU Homebrew Installer*
 * [Wii U Hacks Guide](https://wiiu.hacks.guide/) - *Wii U Hacking Guide*
 * [Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)
 * [Homebrew Gang](https://thehbg.shop/main.html) - *Switch Homebrew Community*
