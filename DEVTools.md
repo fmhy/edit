@@ -239,6 +239,7 @@
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - *CTF Resources*
 * [API List](https://apilist.fun/), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - *API Index* 
 * [Insomnia](https://insomnia.rest/) - *API Client*
+* [hoppscotch](https://hoppscotch.io/) - *API Development Ecosystem / [GitHub](https://github.com/hoppscotch/hoppscotch)*
 * [APIKit](https://github.com/API-Security/APIKit) - *API Security Tools*
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - *Microservice Architecture Resource Index*
 * [LibreLogos](https://www.librelogos.org/) or [LogoTaco](https://www.logotaco.com/) - *Project Logos*
@@ -618,7 +619,7 @@
 * [Game UI Database](https://www.gameuidatabase.com/) - *Game UI / UX Database*
 * [CharPad](https://subchristsoftware.itch.io/charpad-free-edition) - *Commodore 64 Graphics Editor*
 * [Xelu's Controller Prompts](https://thoseawesomeguys.com/prompts/) - *Free Game Prompts / [Video](https://youtu.be/d6GtGbI-now)*
-* [Tuesday JS](https://kirill-live.itch.io/tuesday-js) - *Visual Novel Editor / [GitHub](https://github.com/Kirilllive/tuesday-js)*
+* [Tuesday JS](https://kirill-live.itch.io/tuesday-js) / [GitHub](https://github.com/Kirilllive/tuesday-js) or [RenPy](https://www.renpy.org/) / [GitHub](https://github.com/renpy/renpy) - *Visual Novel Editor*
 * [Bookshelf](https://github.com/Darkhax-Minecraft/Bookshelf) - *Minecraft Mod Code Support*
 * [plugin-sdk](https://github.com/DK22Pac/plugin-sdk) - *GTA Plugin Development SDK*
 * [v2saconv](https://github.com/DK22Pac/v2saconv) - *GTAV to GTASA Resource Converter*
