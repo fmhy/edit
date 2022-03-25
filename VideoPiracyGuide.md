@@ -531,6 +531,7 @@
 * [Topstreams](http://topstreams.info/) - *Sports* 
 * [VIPLeague](https://vipleague.cc/) / [2](https://vipleague.im/) / [3](https://en.vipleague.tv/) or [VIPBox](https://www.vipbox.lc/) - *Sports* 
 * [FreeStream-Live](http://freestreams-live1.com/) - *Sports* 
+* Reddit Streams - [Soccer](https://redi1.soccerstreams.net/), [NFL](https://reddit.nflbite.com/), [NBA](https://scor.nbabite.com/), [NHL](https://nhlbite.com/), [MLB](https://mlbshow.com/), [F1](https://live1.formula1stream.cc/), [MMA](https://live2.mmastreams.cc/), [Cricket](https://live.cricketstreams.cc/)
 * [UFC Streams](https://live.ufcstream.me/) - *MMA / Wrestling*
 * [BoxingStreams100](https://reddits.boxingstreams100.com/) - *Boxing*
 * [NBA Streams](https://reddit.nbastream.nu/) - *NBA*
