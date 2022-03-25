@@ -26,6 +26,7 @@
 * [Ryzen Master Utility](https://www.amd.com/en/technologies/ryzen-master) - *Overclocking Control for Ryzen Desktop CPU*
 * [Ryzen Controller](https://ryzencontroller.com/) - *Overclocking Software for Ryzen Laptop CPU / [AMD APU Tuning](https://github.com/JamesCJ60/AMD-APU-Tuning-Utility)*
 * [NTCore's 4GB Patch](https://ntcore.com/?page_id=371) - *x86 Executable Memory Patcher*
+* [ISLC](https://www.wagnardsoft.com/ISLCw) - *Remove Windows 10 RAM Stutters / [Tutorial](https://www.reddit.com/r/GlobalOffensive/comments/fca7lw/if_you_have_stutter_ingame_you_can_try_this_tool/fj9yx3h/)*
 * [Piper](https://github.com/libratbag/piper) - *Gaming Mouse Config Tool*
 * [WindowedBorderlessGaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - *Borderless Windows for All Games*
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - *Play Fullscreen Only Games in Window*
@@ -192,6 +193,7 @@
 * [Steam Mover](https://www.traynier.com/software/steammover) - *Store Steam Games on Multiple Drives*
 * [UWPHook](https://briano.dev/UWPHook/) - *Add Windows Store Games to Steam*
 * [Steam Rom Manager](https://github.com/doZennn/steam-rom-manager/) - *Add Roms to Steam*
+* [The Wheelhaus](https://thewheelhaus.com/) - *Find Random Steam Games*
 * [Steamless](https://github.com/atom0s/Steamless) - *DRM Remover*
 * [Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack) - *Auto Apply Goldberg & Steamless*
 * [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - *Steam DLC Unlocker / [Search](https://creamapidb.tech/) / [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521)*
@@ -202,6 +204,7 @@
 * [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - *Steam Card Automation* 
 * [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - *Steam Achievement Manager* 
 * [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) / [2](https://steamid.uk/) or [SteamFinder](https://steamidfinder.com/) - *Steam ID Lookup* 
+* [Steam++](https://steampp.net/) - *Enhance Steam Functionality / [GitHub](https://github.com/BeyondDimension/SteamTools)*
 * [AugmentedSteam](https://augmentedsteam.com/) - *Steam Web Enhancement Extension* 
 * [Steam Database](https://steamdb.info/extension/) - *Adds Steam Database Link to Steam Community & Store* 
 * [Steam Web Filter Bypasser](https://chrome.google.com/webstore/detail/steam-web-filter-bypasser/gohcmgakipmdlpacegcgolafdhdlgifl) - *Bypass "You are leaving Steam" page* 
