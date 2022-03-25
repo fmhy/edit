@@ -615,7 +615,7 @@
 * [Share OSF](https://share.osf.io/) - *Document Search*
 * [CiteSeerX](https://citeseerx.ist.psu.edu/index) - *Document Search*
 * [Google Scholar](https://scholar.google.com/) - *Articles*
-* [Mendeley](https://www.mendeley.com/) - *Articles / [Data](https://data.mendeley.com/)* 
+* [Mendeley](https://www.mendeley.com/) - *Articles / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/)* 
 * [DOAJ](https://doaj.org/) - *Journals / Articles*
 * [ResearchGate](https://www.researchgate.net/) - *Science Articles*
 * [SciLit](https://www.scilit.net/) - *Science Articles*
@@ -645,11 +645,13 @@
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - *Medical Journals*
 * [OpenMD](https://openmd.com/) - *Medical Journals*
 * [Free Medical Journals](http://www.freemedicaljournals.com/) - *Medical Journals*
+* [Bioline](http://www.bioline.org.br/) - *Bioscience Journals*
 * [SSRN](https://www.ssrn.com/) - *Early Stage Research Papers* 
 * [Open Knowledge Maps](https://openknowledgemaps.org/) - *Research Papers* 
 * [Internet Archive Scholar](https://scholar.archive.org/) - *Research Papers*
 * [Open Access Library](https://www.oalib.com/) - *Research Papers*
 * [Association for learning Technology](https://repository.alt.ac.uk/view/subjects/) - *Research Papers*
+* [RePEc](http://repec.org/) - *Economic Research Papers*
 * [PsyArXiv](https://psyarxiv.com/) - *Articles / Psychological Sciences* 
 * [repo.zenk](https://repo.zenk-security.com/) - *Documents*
 * [docplayer](https://docplayer.net/) - *Documents* 
