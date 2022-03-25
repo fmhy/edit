@@ -551,7 +551,7 @@
 * [Spreeder](https://www.spreeder.com/) - *Learn to Read Faster*
 * [Learn Anything](https://learn-anything.xyz/), [Learning Lab](https://learn.uno/) / [Discord](https://discord.com/invite/FCzYt8u) or [Learney](https://app.learney.me/) - *Learning Resources* 
 * [Fact Directory](https://fact.directory/) - *Facts for Every Topic* 
-* [Faqtoids](https://top.faqtoids.com/) - *Fact / Info Search Engine*
+* [Faqtoids](https://top.faqtoids.com/) or [Refseek](https://www.refseek.com/) - *Academic Search Engine*
 * [Explorabl.es](https://explorabl.es/) or [MinuteLabs](https://minutelabs.io/) - *Interactive Learning / Lessons* 
 * [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - *Learn With GIFs* 
 * [Information Is Beautiful](https://informationisbeautiful.net/) - *Data / Information / Infographics / Visualizations* 
