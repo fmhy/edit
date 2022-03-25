@@ -146,6 +146,7 @@
 * [Coursesghar](https://coursesghar.com/) - *Courses* 
 * [CourseUpload](https://courseupload.net/) - *Courses*
 * [FreeEducationWeb](https://freeeducationweb.com/) - *Courses* 
+* [Mega Tech Courses](https://mega.nz/folder/RF4wHQQL#58tVVBGboP4dhR4T2qDVLQ/folder/gAoGWIQJ) - *Courses*
 * [DLECourse](https://dlecourse.com/) - *Courses* 
 * [FreeCourseDL](https://freecoursedl.com/) - *Courses* 
 * [HackNation](https://hacksnation.com/) - *Courses*
