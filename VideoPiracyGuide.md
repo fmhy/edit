@@ -910,6 +910,7 @@
 * [IMDb Tomatoes](https://greasyfork.org/en/scripts/15222-imdb-tomatoes) - *Rotten Tomatoes Ratings on IMDb*
 * [5000 Best](http://5000best.com/) - *5000 Best Movies*
 * [TVDb](https://www.thetvdb.com/) - *TV / Anime*
+* [TVMaze,](https://www.tvmaze.com/), [serializd](https://www.serializd.com/), [TrackSeries](https://www.trackseries.tv/) or [watched](https://watched.li/)  - *TV / Anime*
 * [GCDb](https://www.grindhousedatabase.com/) - *Grindhouse Cinema*
 * [Class Real](https://www.classreal.com/) - *Weird / Trippy Movies*
 * [FFCritic](http://foundfootagecritic.com/hubs/hub-films/) - *Found Footage*
@@ -917,7 +918,6 @@
 * [listal](https://www.listal.com/) - *Movies / TV*
 * [Movieo](https://movieo.me/) - *Movies / TV / Anime*
 * [AllMovie](https://www.allmovie.com/) - *Movies / TV / Anime* 
-* [TVMaze,](https://www.tvmaze.com/) [TrackSeries](https://www.trackseries.tv/) or [watched](https://watched.li/)  - *TV / Anime*
 * [Episode Calender](https://episodecalendar.com/) - *TV Calender*
 * [dunno](https://m-dunno.netlify.app/) - *Movies / TV*
 * [showRSS](https://showrss.info/)  - *RSS / TV*
