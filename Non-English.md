@@ -111,12 +111,12 @@
 * [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - *Search Engines*
 * [Dianying](https://dianying.fm/) - *Hash Search*
 * [磁力海](https://cilidog.cc/) - *DHT Search*
-* [news_pdf](https://t.me/news_pdf) - *News*
+* [news_pdf](https://t.me/news_pdf), [Chinadaily](http://cn.chinadaily.com.cn/) or [China Watch](http://www.chinadaily.com.cn/chinawatch_fr/index.html) - *News*
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser) or [OilAndFish](https://www.oilandfish.com/) - *Bypass Chinese Firewall*  
 * [Gridea](https://github.com/getgridea/gridea) - *Blog Writing Client*
 * [Dict.Baidu](https://dict.baidu.com/) - *Chinese Word, Idiom & Poem Search*
-* [SeiWatei](https://www.seiwatei.net/) - *Chinese Learning Tools*
+* [SeiWatei](https://www.seiwatei.net/) or [chinadaily](https://language.chinadaily.com.cn/news_bilingual/) - *Learn Chinese*
 * [Oh.Taigi](https://oh.taigi.info/) - *Chinese Taiwanese Learning Tools*
 * [taioan](https://ji.taioan.org/) - *Chinese Spell Check*
 * [Baidu Library to Word](https://greasyfork.org/en/scripts/405373-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E8%BD%AC-word-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD%E5%99%A8) - *aidu Library to Word Converter*
@@ -202,6 +202,8 @@
 * [shuge](https://new.shuge.org/) - *Books / Audiobooks / Legal*
 * [pdfzj](http://pdfzj.cn/) - *Books* 
 * [haodoo](http://haodoo.net/) - *Books*  
+* [Pilibook](https://www.pilibook.com/) - *Books*
+* [ixdzs](https://tw.m.ixdzs.com/) - *Books*
 * [zhongwen](http://zhongwen.com/gudian.htm) - *Classic Literature*
 * [AC.QQ](https://ac.qq.com/) - *Manga*
 * [BiliBili](https://manga.bilibili.com/) - *Manga*
