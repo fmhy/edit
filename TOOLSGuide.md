@@ -1975,7 +1975,7 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install) or [Nini
 * [OneDrive X](https://t.me/onedrivexbot) - *Remote OneDrive File Upload Bot*
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - *Fix OneDrive Zip Files >4gb*
 * [mf-dl](https://gitgud.io/Pyxia/mf-dl/) - *Mediafire Bulk File Downloader* 
-* [Baidu Bypass](https://baidu.crackhub.site/) - *Bypass Baidu Links*
+* [Baidu Bypass](https://baidu.crackhub.site/) - *Bypass Baidu Links / [Guide](https://baidu.crackhub.site/help)*
 * [InfiniDrive](https://github.com/nicomda/InfiniDrive) - *Unlimited Cloud Drive using Amazon Prime Photos*
 * [Nextcloud](https://nextcloud.com/) - *Safe data storage / [Unofficial Providers](https://nextcloud.com/signup/)*
 * [Shared Drives Creator Website](https://github.com/MsGsuite/Shared-Drives-Creator-Website) - *Create & host a Shared Drive Generator Website*
