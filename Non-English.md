@@ -1602,7 +1602,7 @@ Portuguese
 
 ## ▷ Downloading
 
-* [EdithSeedbox](https://packs.edithseedbox.com/0:/) - *Movies / TV / [Login](https://pastebin.com/sBLwyM6Z)*
+* [EdithSeedbox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_edithseedbox) - *Movies / TV / [Login](https://pastebin.com/bQkQpee4) / [Telegram](https://t.me/EdithSeedBox)*
 * [Naadub](https://www.naadub.com/) - *TMovies*
 
 ***
