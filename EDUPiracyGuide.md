@@ -129,7 +129,7 @@
 * **[freesoff](https://freesoff.com/)** - *Courses*
 * **[TutFlix](https://tutflix.org/)** - *Courses / Drives* 
 * **[Large Collection of Useful Mega DL's](https://pastebin.com/ZMtZa2JV)** - *Courses / Drives*
-* [Reks Drive](https://pastebin.com/sKn4sYv2) - *Courses*
+* [Reks Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive) - *Courses*
 * [HMDRIVE](https://t.me/HMDRIVE_OFFICIAL) - *Courses*
 * [Iit jee lectures](https://t.me/Iitjeeinveins2) - *Lectures / Telegram*   
 * [downloadly](https://downloadly.ir/) - *Courses*
