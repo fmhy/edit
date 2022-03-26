@@ -18,26 +18,26 @@
 * **[The MegaDrive](https://discord.gg/BnWy4Zm4)** or [No Bucks Given](https://discord.gg/By53hyhUFS) - *Discord Drive Sharing Community* 
 * **[/r/opendirectories](https://www.reddit.com/r/opendirectories/)** - *Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / /u/ODScanner*
 * **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
-* **[300TB Mega](https://mega.nz/folder/6q4XjSjD#n2aMXLlajXC59snzns_ijw)**, [2](https://mega.nz/folder/4l81jAha#ed19dxGXCtd-VWCEd-flxA)
-* **[300TB GDrive](https://drive.google.com/drive/folders/1oCMgJeBc55NuEasPcgwjx2FuPdQd8neu)**
-* [KOLLECTION](https://mega.nz/folder/gRcXUabB#CyxdMUocD-cKVdaGE8180Q)
-* [Google TeamDrives](https://onehack.us/t/tds-with-tbs-of-movies-web-series-courses-games-etc/77628) 
+* **[300TB Mega](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_300tb_mega)**
+* **[300TB GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_300tb_gdrive)**
+* [KOLLECTION](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_kollection)
+* [Google TeamDrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) 
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28) 
-* [index-of](http://index-of.es/) 
-* [Manny Hackers](https://apd.msbots.workers.dev/0:/)
-* [Mirror Bot](https://mirrorbot.sarutobi.workers.dev/)
-* [Public Drive Bot](https://index.isumit.workers.dev/)
-* [blacklistedbois](https://dl.blacklistedbois.workers.dev/0:/)
-* [TorrentLeech Drive](https://torrentleech.torrentleech-gdrive.workers.dev/) 
-* [HB4All](https://happyboy.hb4all.workers.dev/)
-* [BlinkDrive](https://td2.blinkdrive.workers.dev/) 
-* [KL Teamdrive](https://groups.google.com/g/kl-teamdrive)
-* [Black Pirate](https://nsfw.blackpirate.workers.dev/0:/)
-* [Lightz Cloud](https://groups.google.com/g/lightz-cloud)
-* [TD Group](https://groups.google.com/g/xtremecloud-tdgroup)
-* [Mark41stark](https://arcrec.mark41stark.workers.dev/)
-* [smolOD](https://rentry.co/smolOD) - *Small Open Directories*
-* [Open Directory Index](https://docs.google.com/document/d/1xyyplaw8uyHyaq79YEqtBT85vIqWu0wq7RYFEqbQybc/), [2](https://www.google.com/search?q=site:reddit.com/r/opendirectories+odshot+after:2018), [3](https://opndir.com/), [4](https://redd.it/lvdwlm), [5](https://github.com/strawhat-pirates/notes/blob/master/opendirectories.txt), [6](https://bin.disroot.org/?3082f04205be7af6#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34), [7](https://gist.github.com/Chaphasilor/718e13c1f654b7b0e49b3b41e4855f50), [8](https://redd.it/owdvw7) - *Open Directory Indexes*
+* [index-of](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_index-of) 
+* [Manny Hackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_manny_hackers)
+* [Mirror Bot](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mirror_bot)
+* [Public Drive Bot](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_public_drive_bot)
+* [blacklistedbois](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_blacklistedbois)
+* [TorrentLeech Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_torrentleech_drive) 
+* [HB4All](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_happyboy)
+* [BlinkDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_blinkdrive) 
+* [Mark41stark](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mark41stark)
+* [KL Teamdrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_kl-teamdrive)
+* [Black Pirate](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_black_pirate)
+* [Lightz Cloud](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_lightz_cloud)
+* [Xtremecloud](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_xtremecloud)
+* [smolOD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_smolod) - *Small Open Directories*
+* [Open Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_open_directory_indexes) - *Open Directory Indexes*
 * [ODCrawler](https://odcrawler.xyz/), [ODS](https://sites.google.com/view/l33tech/tools/ods), [EyeDex](https://www.eyedex.org/) or [mmnt](https://www.mmnt.net/) - *Open Directory Search Engine*
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - *FTP Search*
 * [dedigger](https://www.dedigger.com/) - *GDrive File Search* 
@@ -249,9 +249,9 @@
 * [CSDb](https://csdb.dk/) - *Commodore 64 Resources*
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - *Professional Video, Audio & Adobe Software / Plugins*
 * [CyberMania](https://www.cybermania.ws/) - *Cracked Windows Software*
-* [WLSetup-All](https://archive.org/details/wlsetup-all_201802) - *Windows Live Essentials 2012 Archive*
+* [WLSetup-All](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wlsetup-all) - *Windows Live Essentials 2012 Archive*
 * [GenP](https://www.reddit.com/r/GenP) - *Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)*
-* [Adobe CC](https://docs.google.com/document/d/1_Me1TQzXqCYASls7P5Zt5mASNsPamyNVnZfu48t_5Yw/) - *Adobe Creative Cloud Piracy Guide*
+* [Adobe CC](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_adobe_cc) - *Adobe Creative Cloud Piracy Guide*
 
 ***
 
@@ -321,7 +321,7 @@
 * [WinWorldPC](https://winworldpc.com/) - *Abandonware / Operating Systems* 
 * [VETUSWARE](https://vetusware.com/) - *Abandonware / Operating Systems / Games*
 * [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - *Self-Hosted Software Index* 
-* [The Vintage Software Collection](https://archive.org/details/vintagesoftware) or [SCiZE's Classic Warez Collection](https://scenelist.org/) - *Retro Software*
+* [The Vintage Software Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_vintage_software_collection) or [SCiZE's Classic Warez Collection](https://scenelist.org/) - *Retro Software*
 * [Portable Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portable_apps) - *Portable Apps for USB / SD / External Storage*
 * [BelowAverage](https://belowaverage.org/) - *I.T. Software*
 * [Software Giveaway Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) 
