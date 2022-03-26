@@ -375,8 +375,8 @@
 * [Audio.Tools](https://audio.tools/) 
 * [AudioLove](https://audiolove.club/) 
 * [jbouchat](http://jbouchat.ucoz.com/)
-* [AudioZ](https://audioz.download/)
 * [adaz3d](https://www.adaz3d.com/) - *Leech Required* 
+* [AudioZ](https://audioz.download/)
 
 ***
 
