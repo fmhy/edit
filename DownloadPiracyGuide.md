@@ -362,7 +362,6 @@
 
 ## ▷ Audio Software
 
-* [AudioZ](https://audioz.download/)
 * [GoAudio](https://goaudio.info/) 
 * [VSTHouse](http://vsthouse.ru/) 
 * [Audio Plugin](https://audioplugin.net/)
@@ -376,6 +375,7 @@
 * [Audio.Tools](https://audio.tools/) 
 * [AudioLove](https://audiolove.club/) 
 * [jbouchat](http://jbouchat.ucoz.com/)
+* [AudioZ](https://audioz.download/)
 * [adaz3d](https://www.adaz3d.com/) - *Leech Required* 
 
 ***
