@@ -6,7 +6,7 @@
 **[Table of Contents](https://i.imgur.com/93ox8w0.png)** - *For mobile users*
 
 ***
-***
+***i
 
 #### 3D Modeling Apps
 
@@ -967,7 +967,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 #### IRC Book Sites
 
 * irc://irc.undernet.org/bookz
-* irc://irc.irchighway.net/ebooks
+* irc://irc.irchighway.net/ebooks / [Request Guide](https://i.imgur.com/GvyDh0B.png)
 
 ***
 
