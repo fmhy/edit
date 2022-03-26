@@ -364,7 +364,6 @@
 * [This Shoe Does Not Exist](https://thisshoedoesnotexist.com/) - *Shoes That Don't Exist*
 * [This Foot Does Not Exist](https://thisfootdoesnotexist.com/) - *Feet That Don't Exist*
 * [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/) - *Waifu's That Don't Exist* 
-* [This Fursona Does Not Exist](https://thisfursonadoesnotexist.com/) - *Fursona That Don't Exist*
 * [Windows93](http://www.windows93.net/) or [RacerTrash](https://racertrash.com/) - *Retro Windows Emulator*
 * [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - *Run Classic Games / Apps In Browser* 
 * [see. hear. party.](http://www.seehearparty.com/) - *List Things You Want to See... Party* 
