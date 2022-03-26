@@ -37,7 +37,7 @@
 * [Ling.online](https://ling.online/en/videos/films/) - *Movies / TV*
 * [OpenloadMovies](https://openloadmov.net/) - *Movies / TV*
 * [111.90.159.132](https://111.90.159.132/hollywood-movies/) - *Movies*
-* [162.12.215.254](http://162.12.215.254/) - *Movies / [Drive](http://162.12.215.254/Data/Movies/)*
+* [162.12.215.254](http://162.12.215.254/) - *Movies*
 * [Rainierland](https://rainierland.to/) - *Movies / TV* 
 * [SuperNova](https://supernova.to/) - *Movies / TV / Anime* 
 * [Vumoo](https://vumoo.to/) - *Movies / TV* 
@@ -104,7 +104,7 @@
 * [LokLok](https://loklok.com/) - *Movies / TV*
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - *Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / [Windscribes](https://windscribe.com/) free version works*
 * [StreamDor](https://www.streamdor.com/), [FreeMovies](https://freemovies.ltd/) or [MoviesFoundOnline](https://moviesfoundonline.com/) - *Movies / YouTube*
-* [YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - *Youtube streaming subreddits*
+* [YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - *Youtube Streaming Subs*
 * [YouTube Streaming Channels](https://rentry.co/YT-Movies) - *Channels that host movies or shows*
 * [Official YouTube Movies](https://www.youtube.com/feed/storefront?bp=kgEDCPYDogUCKAU%3D) / [TV](https://www.youtube.com/feed/storefront?bp=kgEDCO8HogUCKAU%3D) - *Free with Ads*
 * [FREEMOVIESNOW](https://www.youtube.com/c/FREEMOVIESNOW/featured) - *YouTube Movies*
@@ -235,7 +235,7 @@
 * [Unus Annus](https://archive.org/details/unus-annus) - *Unus Annus Archive*
 * [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/), [2](https://github.com/joric/bandersnatch) - *Interactive player for Black Mirror: Bandersnatch*
 * [ListenToAMovie](http://listentoamovie.com/) - *Listen to Movies* 
-* [Descriptive Audio of Movies / Shows](http://www.cheeseheadhosting.us/downloads/Descriptive%20Videos%20For%20The%20Blind/), [2](http://www.cheeseheadhosting.us/downloads.php?link=discriptive%20videos%20for%20the%20blind%20vault%202), [3](http://www.cheeseheadhosting.us/downloads.php?link=discriptive%20movies%20for%20the%20blind%20vault%203%202013%20and%20newer), [4](https://audiovault.net/) - *Descriptive Audio for Blind Users* 
+* [Blind User Audio Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_blind_user_audio_drives), [Audiovault](https://audiovault.net/) - *Descriptive Audio for Blind Users* 
 
 ***
 
@@ -341,7 +341,6 @@
 * [9AnimeTV](https://9animetv.su/) - *Sub*
 * [WCO](https://www.wco.tv/)  - *Anime / Cartoons / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wco_clones)* 
 * [Funimation](https://www.funimation.com/shows/free/) - *Sub / Dub* 
-* [Pokemon.com](https://watch.pokemon.com/) - *Full Pokemon Episodes*
 * [Yuna](https://yuna.moe/) - *Anime Streaming App / [GitHub](https://github.com/BeeeQueue/yuna)*
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - *Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/)* 
 * [Crunchyroll iFrame Player](https://greasyfork.org/en/scripts/411391-crunchyroll-iframe-player) - *Crunchyroll Premium Bypass Script / [GitHub](https://github.com/Mateus7G/crp-iframe-player)*
@@ -364,7 +363,6 @@
 * [Disney Video](https://video.disney.com/series/) - *Disney Series & Shorts*
 * [South Park](https://southpark.cc.com/) - *South Park Episodes* 
 * [ToonamiAftermath](https://www.toonamiaftermath.com/) - *Toonami Stream* 
-
 
 ***
 
@@ -687,8 +685,6 @@
 * [DramaFans](http://www.dramafans.org/) - *Asian Drama*
 * [KingDrakor](https://kingdrakor.one/) - *Asian Drama*
 * [DoraMax264](https://doramax264.com/) - *Asian Drama*
-* [Play Rdp](https://play.rdp.workers.dev/1:/), [2](https://black-theme.rdp.workers.dev/0:/) - *Korean Drama / [Discord](https://discord.com/invite/fpnvKDw)*
-* [Korean Drama Drive](https://drive.google.com/drive/folders/1aVF9hAzRwwyK7mP6xl5Gmm2k-32i2ek-) - *Korean Drama*
 * [Toku.fun](https://toku.fun/) - *Japanese Superhero Movies*
 * [TinyMKV](https://tinymkv.xyz/) - *Movies / TV*
 * [480p TV Shows](https://www.480ptvshows.com/) - *Movies / TV* 
@@ -700,10 +696,7 @@
 * [Blu-Ray.world](https://blu-ray.world/) - *HD Movies / TV*
 * [4K HDR](https://4k-hdr.org/) - *HD Movies / TV*
 * [4k-hd.club](https://4k-hd.club/) - *HD Movies*
-* [4k Movie Collection](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w) - *HD Movies*
 * [IRC Movie Channels](https://pastebin.com/2AeYizZK)
-* [r/MegaLinks Backup](https://mega.nz/folder/fv4lCaZQ#6tS6HpQiWAjx6Ibr1N_D8w), [2](https://www71.zippyshare.com/v/behLhk3F/file.html)
-* [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_indexes) - *Movies / TV*
 * [Gophie](https://github.com/Go-phie/gophie) - *Streaming Site Download CLI*
 * [BaoXinh](https://tool.baoxinh.com/) - *FEmbed / Mixdrop Downloader*
 * [123MoviesRipper](https://github.com/Xonshiz/123MoviesRIpper) - *123Movies Downloader*
@@ -713,28 +706,31 @@
 
 ## ▷ Drives / Directories 
 
-* **[Rinzry](https://rinzry.stream/)** - *Movies / TV / Anime / [Request](https://discord.gg/h3uM4zQ9QR)*
-* **[50TB Mega Drive](https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ)**, [2](https://mega.nz/folder/01F2XbgA#u2Si5JL2Vd0hAd7sYU59ig), [3](https://mega.nz/folder/3vB2CTRI#9o_gBVPoFzi4iKtNIQ7rBQ/folder/rqJEDbZJ) - *Movies* 
-* **[The Criterion Collection](https://mega.nz/folder/Jk8RjIBA#_dTNthUX3LL7OwSaauqIpw)** - *Movies*
-* **[Rek's Drive](https://mega.nz/folder/iYQ3SYbA#_o9eO4o1eiCd8QsCTU7iUw)** - *Movies / Anime*
-* [EdithSeedbox](https://index.edithseedbox.com/:0), [2](https://index.edithseedbox.com/8:/) - *Movies / TV / [Login](https://pastebin.com/bQkQpee4) / [Telegram](https://t.me/EdithSeedBox)*
-* [Torrent2Drive](https://torrent2drive.video/0:/) - *Movies / TV / [Telegram](https://t.me/torrent_2_drive)*
-* [Media](https://drive.google.com/drive/folders/1FEXQWN5szPBTau3EPFaC8PkOgp3v4cve) - *Movies / TV / Anime* 
-* [IMDb Top 250](https://drive.google.com/folderview?id=1RU63d0rIZHZb0BIrXY3dg_JifIzBsVZo), [2](https://drive.google.com/drive/mobile/folders/11kWYR4I18e5bfj-3CvoD-9jztq4zH3ut/1RU63d0rIZHZb0BIrXY3dg_JifIzBsVZo) - *Movies*
-* [dl1.3rver](http://dl1.3rver.org/), [2](http://dl2.3rver.org/), [3](http://dl3.3rver.org/) - *Movies / TV*
-* [188.165.227.112](http://188.165.227.112/portail/) - *Movies / TV* 
-* [103.135.208.2](http://103.135.208.2/Data/movies/) - *Movies / TV*
-* [162.12.215.254](http://162.12.215.254/Data/Movies/) - *Movies*
-* [163.172.97.48](http://163.172.97.48/) - *Movies / TV*
-* [Movies, Series... in English](https://redd.it/ns1ejo), [2](https://redd.it/ns1kdi), [3](https://redd.it/nsb38a), [4](https://redd.it/ns2avz), [5](https://redd.it/ns2wcv) - *Movies / TV*
-* [sv.dcnm.ir](https://sv.dcnm.ir/Serial/Foreign/) - *TV* 
-* [wenubgang](https://groups.google.com/g/wenubgang) - *TV / Anime*
-* [ir2.papionvod.ir](https://ir2.papionvod.ir/Media/) - *TV*
-* [مسلسلات اجنبية‬‎](https://drive.google.com/drive/folders/0B19OoIC31UN0eUE4OERjSXYxcUE) - *TV*
-* [REDBlink](https://rdx98.blinkdrive.workers.dev/) - *Movies / TV*
-* [Fanedits Drive](https://mega.nz/folder/MIkljKjL#sUy2vBbv3ou1BlVSo1oneg) - *Fan Edited Movies*
+* **[Rinzry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rinzry)** - *Movies / TV / Anime / [Request](https://discord.gg/h3uM4zQ9QR)*
+* **[50TB Mega Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_50tb_mega_drive) - *Movies* 
+* **[The Criterion Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_criterion_collection)** - *Movies*
+* **[Rek's Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive)** - *Movies / Anime*
+* [EdithSeedbox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_edithseedbox) - *Movies / TV / [Login](https://pastebin.com/bQkQpee4) / [Telegram](https://t.me/EdithSeedBox)*
+* [Torrent2Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_torrent2drive) - *Movies / TV / [Telegram](https://t.me/torrent_2_drive)*
+* [Media](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_media) - *Movies / TV / Anime* 
+* [IMDb Top 250](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_imdb_top_250) - *Movies*
+* [188.165.227.112](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_188.165.227.112) - *Movies / TV* 
+* [103.135.208.2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_103.135.208.2) - *Movies / TV*
+* [162.12.215.254](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_162.12.215.254) - *Movies*
+* [163.172.97.48](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_163.172.97.48) - *Movies / TV*
+* [Movies, Series... in English](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_movies.2C_series..._in_english) - *Movies / TV*
+* [sv.dcnm.ir](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sv.dcnm.ir) - *TV* 
+* [wenubgang](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wenubgang) - *TV / Anime*
+* [ir2.papionvod.ir](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ir2.papionvod.ir) - *TV*
+* [مسلسلات اجنبية‬‎](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.645.633.644.633.644.627.62A_.627.62C.646.628.64A.629) - *TV*
+* [REDBlink](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_redblink) - *Movies / TV*
+* [4k Movie Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_4k_movie_collection) - *HD Movies*
+* [r/MegaLinks Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_r.2Fmegalinks_backup) / [Search](https://megadb.tweakly.net/)
+* [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_indexes) - *Movies / TV*
+* [Play Rdp](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_play_rdp) - *Korean Drama / [Discord](https://discord.com/invite/fpnvKDw)*
+* [Korean Drama Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_korean_drama_drive) - *Korean Drama*
+* [Fanedits Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_fanedits_drive) - *Fan Edited Movies*
 * [Guide to finding fanedits](https://redd.it/nd8z20) - *How-to Find Fan Edits*
-* [Netflix Open Content](http://download.opencontent.netflix.com/) - *Netflix Raw Footage & Encodes*
 
 ***
 
@@ -745,8 +741,8 @@
 * **[AnimeKaizoku](https://animekaizoku.com/)** - *Sub / Dub / [Dual Audio](https://github.com/AnimeKaizoku/KaizokuPatcher)*
 * **[hi10anime](https://hi10anime.com/)** - *Sub*
 * **[AnimeBatchDDL](https://animebatchddl.wordpress.com/)** - *Sub / Dub*
-* **[Judas Discord](https://discord.gg/vbJ7RTn)** - *Sub / Dub / [TeamDrive](https://groups.google.com/d/forum/judasddl)* 
-* **[15TB Anime Collection](https://drive.google.com/drive/folders/1vSdJo_OrJNgVIRYsvTwR-PeLyM8L-V0M)** - *Sub / Dub*
+* **[Judas Discord](https://discord.gg/vbJ7RTn)** - *Sub / Dub / [TeamDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_judas_teamdrive)* 
+* **[15TB Anime Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_15tb_anime_collection)** - *Sub / Dub*
 * **[Erai-Raws](https://www.erai-raws.info/)** - *Sub / [Discord](https://discord.gg/2PfWaar)*
 * **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)** - *Telegram Anime Download Channels* 
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - *Sub / Dub / Anime / Manga Download Forum*
@@ -757,17 +753,17 @@
 * [Animekayo](https://animekayo.com/) - *Sub / Dub*
 * [Soulreaperzone](https://www.soulreaperzone.com/) - *Sub / Dub*
 * [AniDL](https://anidl.org/) - *Sub / Dub*
-* [NoobSubs](https://noobsubs.com/) - *Sub / Dub / [Drive](https://noobftp1.noobsubs.com/), [2](https://noobftp2.noobsubs.com/)*
+* [NoobSubs](https://noobsubs.com/) - *Sub / Dub / [Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_noobsubs_drives)*
 * [AnimeLand](https://www.animeland.us/) - *Dub*
 * [DarkLegends](https://darklegends60mb.org/) - *Sub*
 * [SSAnime](https://ssanime.ga/) - *Sub*
 * [AnimeKuro](https://animekuro.org/) - *Sub / Dub / [Subreddit](https://www.reddit.com/r/animesub/)*
 * [Kayoanime](https://kayoanime.com/) - *Sub / Dub / [Telegram](https://t.me/Kayoanime)*
-* [Mix Bag of Anime](https://redd.it/nsa8yg) - *Sub / Dub*
-* [MrDeadpool](https://mrdeadpool-encodes.mrdeadpool.workers.dev/0:/) - *Sub / Dub*
-* [ANIME___](https://storage.kanzaki.ru/ANIME___/) - *Sub*
-* [Anime Collection (3Tb)](https://drive.google.com/drive/folders/1nQ73oKeE5b50lzyDeszmdLv6rjYFolk5?usp=sharing) - *Sub / Dub / Drive*
-* [Anime Devil](https://animedevil.com/) - *Sub / Dub / [Telegram](https://groups.google.com/g/animedevil)*
+* [Mix Bag of Anime](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mix_bag_of_anime) - *Sub / Dub*
+* [MrDeadpool](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mrdeadpool) - *Sub / Dub*
+* [ANIME___](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime___) - *Sub*
+* [Anime Collection (3Tb)](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime_collection_.283tb.29) - *Sub / Dub / Drive*
+* [Anime Devil](https://animedevil.com/) - *Sub / Dub*
 * [DameDesuYo](https://damedesuyo.com/) - *Sub*
 * [TokyoInsider](https://www.tokyoinsider.com/) - *Sub*
 * [Animebuzz](https://animebuzz.xyz/) - *Sub / Dub / [Telegram](https://t.me/animebuzzofficial)*
@@ -779,17 +775,17 @@
 * [IndiAnime](https://indianime.com/) - *Sub / Dub*
 * [Anipakku](https://anipakku.blogspot.com/) - *Sub / Dub / [Discord](https://discord.com/invite/ekwtwjwHey)*
 * [anime7.download](http://anime7.download/) - *Sub*
-* [37.187.6.206](http://37.187.6.206/) - *Sub*
-* [176.36.86.211](http://176.36.86.211/video/anime/) - *Sub / Dub*
-* [166.84.7.155](https://166.84.7.155/anime/) - *Sub / Dub*
-* [ns3309227](http://ns3309227.ip-178-32-222.eu/) - *Sub / Dub*
-* [belia](https://belia.fr/evg/) - *Sub / Dub*
+* [37.187.6.206](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_37.187.6.206) - *Sub*
+* [176.36.86.211](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_176.36.86.211) - *Sub / Dub*
+* [166.84.7.155](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_166.84.7.155) - *Sub / Dub*
+* [ns3309227](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ns3309227) - *Sub / Dub*
+* [belia](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_belia) - *Sub / Dub*
 * [AnimeLibr](https://t.me/AnimeLibr) - *Sub*
 * [CartoonsArea](https://www.cartoonsarea.xyz/) - *Sub / Dub*
-* [rbx](http://59.rbx5.ovh.abcd.network/), [2](http://52.rbx5.ovh.abcd.network/), [3](http://511.rbx.abcvg.ovh/), [4](http://508.rbx.abcvg.ovh/), [5](http://510.rbx.abcvg.ovh/), [6](http://58.rbx5.ovh.abcd.network/)  - *Dub*
-* [CopyCat Encodes](https://mega.nz/#folder/jpMFlQLB#QZ0W2OIyko-n2BTouWjHOQ) - *Sub* 
-* [Anime Anime (New & Requests)](https://drive.google.com/drive/folders/1XP7q-vSk0ImaRfLRkJ6-VkL7mLqlIwrw) - *Sub / Dub*
-* [Anime Time Drive](https://atdrive.animetimeserver.workers.dev/0:/) - *Sub / Dub* 
+* [rbx](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rbx)  - *Dub*
+* [CopyCat Encodes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_copycat_encodes) - *Sub* 
+* [Anime (New & Requests)](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime_.28new_.26amp.3B_requests.29) - *Sub / Dub*
+* [Anime Time Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime_time_drive) - *Sub / Dub* 
 * [nibl](https://nibl.co.uk/) - *Sub / Dub / Anime Downloads / XDCC*
 * [Bubble' Upscale Project](https://discord.gg/7kqqtJ7ArW) - *Upscaled Anime / Requests*
 * [Anime Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anime_download_apps) - *Anime Downloading Tools*
