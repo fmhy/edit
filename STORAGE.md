@@ -1756,7 +1756,6 @@ Add the following commands to a search to manually scrape each site.
 * [/r/dailyreleases](https://www.reddit.com/r/dailyreleases/)
 * [/r/RepackWorld](https://reddit.com/r/RepackWorld)
 * [GameStatus](https://gamestatus.info/)
-* [Crackwatch2](https://crackwatch2.com/) - *[GitHub](https://github.com/Trunkelis/crackwatch2)*
 
 ***
 
