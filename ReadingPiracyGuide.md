@@ -118,6 +118,7 @@
 * [EBooksCart](https://ebookscart.com/) - *Books*
 * [Novel12](https://novel12.com/) - *Books* 
 * [Read Print](http://www.readprint.com/) - *Books* 
+* [IsIDore](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_isidore) - *Books*
 * [Global Grey](https://www.globalgreyebooks.com/index.html) - *Books* 
 * [Bookyards](https://www.bookyards.com/en/welcome) - *Books* 
 * [DigiLibraries](https://digilibraries.com/) - *Books* 
