@@ -61,6 +61,7 @@
 * [musopen](https://musopen.org/music/) - *Classical*
 * [Bandcamp](https://bandcamp.com/tag/free-music?tab=all_releases) or [Hidden Bandcamp Tracks](https://github.com/7x11x13/hidden-bandcamp-tracks) - *Free Bandcamp Music* 
 * [Audius](https://audius.co/) - *User Made Music Platform*
+* [/r/Listentothis Shuffle](https://www.cinelens.io/listentothis) - *Shuffle ListenToThis*
 * [AudionautiX](https://audionautix.com/) - *Mood based streaming*
 * [Khinsider](https://downloads.khinsider.com/), [Cirrus Retro](https://cirrusretro.com/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
 * [NSF j](http://nsf.nesbbs.com/) - *NES Game Music*
