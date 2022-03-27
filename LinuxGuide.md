@@ -28,6 +28,7 @@
 * [Linux Difficulty Chart](https://i.imgur.com/H8sw3L4.png) - *Distros Ranked by Difficulty*
 * [BusyBox](https://frippery.org/busybox/) - *Unix Tools*
 * [Awesome-shell](https://github.com/alebcay/awesome-shell) - *List of CLI Tools*
+* [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - *CPU Speed & Power Optimization Automation*
 * [Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome) - *GNOME Distro Resources*
 * [Enlightment](https://www.enlightenment.org/), [qpwm](https://github.com/ssleert/qpwm) or [dwm](https://dwm.suckless.org/) - *Window Manager*
 * [swizzin](https://swizzin.ltd/) - *Seedbox for Ubuntu / Debian* 
@@ -67,7 +68,7 @@
 * [DotShare](http://dotshare.it/) - *Distro Config Index*
 * [Linux Live Kit](https://www.linux-live.org/) - *Live Linux Distro Creator*
 * [ArchLinuxGUI](https://archlinuxgui.in/download.html), [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - *Arch Linux Installer*
-* [Free Cloud Linux Server](https://rentry.co/4sx64) - *Free Cloud Server Guide*
+* [Free Cloud Linux Server](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_free_cloud_linux_server) - *Free Cloud Server Guide*
 * [yet another bench script](https://github.com/masonr/yet-another-bench-script) - *Server Performance Script*
 * [Rang3r](https://github.com/floriankunushevci/rang3r) - *IP / Port Scanner*
 * [Brunch](https://github.com/sebanc/brunch) or [Chromefy](https://github.com/imperador/chromefy) - *ChromeOS Installer*
@@ -217,7 +218,7 @@
 * [Compix](https://github.com/xeome/compix) - *Xorg Compositor*
 * [river](https://github.com/riverwm/river/), [wayfire](https://github.com/WayfireWM/wayfire/) or [sway](https://github.com/swaywm/sway/) - *Wayland Compositors*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
-* [Learn the Linux Command Line](https://mega.nz/folder/BlRVyArK#84n4ZhYZCRXLjt-KEP6u6g), [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [LinuxCommand](https://www.linuxcommand.org/tlcl.php) - *Linux Command Line Lessons*
+* [Learn the Linux Command Line](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_learn_the_linux_command_line), [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [LinuxCommand](https://www.linuxcommand.org/tlcl.php) - *Linux Command Line Lessons*
 * [shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial) - *Shell Scripting Tutorial*
 * [explainshell.com](https://explainshell.com/) - *Match Command-Line Arguments to Help Text*
 * [ShellCheck](https://www.shellcheck.net/) - *Shell Script Bug Check*
@@ -303,7 +304,7 @@
 
 # ► Mac Tools / Apps
 
-* **[Dropzone](https://filecr.com/?s=dropzone)** - *File Manager*
+* **[Dropzone](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dropzone)** or [Readdle](https://readdle.com/documents) - *Multipurpose File Tool*
 * **[The Unarchiver](https://theunarchiver.com/)** or [Keka](https://www.keka.io/) - *File Archiver / Unzipper*
 * **[qBittorrent](https://www.qbittorrent.org/)** - *Torrent Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)*
 * **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
@@ -312,7 +313,7 @@
 * **[Alfred](https://www.alfredapp.com/)** - *Keystroke Launcher* 
 * **[CustomShortcuts](https://www.houdah.com/customShortcuts/)** - *Custom Keyboard Shortcuts*
 * **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - *Alt-Tab for Mac*
-* **[PDF Expert](https://filecr.com/?s=pdf+expert)** - *PDF Viewer*
+* **[PDF Expert](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pdf_expert)** - *PDF Viewer*
 * **[Fantastical](https://flexibits.com/fantastical)** - *Calendar*
 * [DMHY](https://github.com/yaqinking/DMHY) - *Anime Torrent Autodownloader* 
 * [YTMusic](https://ytmusic.app/) - *YouTube Music Client*
@@ -404,7 +405,6 @@
 * [Lilu](https://github.com/acidanthera/Lilu) - *Kext / Process Patcher*
 * [JenV](https://www.jenv.be/) - *Java Environment Manager / [GitHub](https://github.com/jenv/jenv)*
 * [TopNotch](https://topnotch.app/) - *Remove The Notch*
-* [Mac Address Video Archive](https://drive.google.com/drive/folders/1DfLL09ETAY3hQKDq30AlTwjo0MCL7H1u?usp=sharing) 
 
 ***
 
