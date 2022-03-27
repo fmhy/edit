@@ -13,7 +13,7 @@
 
 * **[The Odin Project](https://www.theodinproject.com/)** - *Web Dev Tutorials / Courses*
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Courses / Infinite trial by clearing cookies & making new account*
-* **[freeCodeCamp](https://www.freecodecamp.org/)** - *Programming / Courses / Interactive [Archive](https://drive.google.com/drive/folders/1M_GDMaRwFDB_UG0y-WQdNqTxLxchlzgl?usp=sharing) / [GitHub](https://github.com/freeCodeCamp/freeCodeCamp)*
+* **[freeCodeCamp](https://www.freecodecamp.org/)** - *Programming / Courses / Interactive [Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_freecodechamp_archive) / [GitHub](https://github.com/freeCodeCamp/freeCodeCamp)*
 * **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - *Read / Download Programming Books* 
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - *Git Learning Game*
 * [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - *Github Cheat Sheet*
@@ -28,14 +28,14 @@
 * [Python Discord](https://pythondiscord.com/resources/) - *Python Learning Resources*
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - *Python Guide*
 * [CodingBat](https://codingbat.com/) - *Python / Java Practice*
-* [Java Beginners](https://drive.google.com/drive/folders/1AKga5F6UzHFhvuMPl9zWf6MGxJZfbhac) - *Java Tutorials*
+* [Java Beginners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_java_beginners) - *Java Tutorials*
 * [Python4Everyone](https://py4e.com/) - *Learn Python*
 * [A Byte of Python](https://python.swaroopch.com/) - *Learn Python*
 * [Learn Python](https://github.com/trekhleb/learn-python) - *Learn Python*
 * [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - *Python Lessons*
 * [Real Python](https://realpython.com/) - *Python Tutorials*
-* [FutureCoder](https://futurecoder.io/), [2-Python](https://mega.nz/folder/QgdziAiK#QgEW3PY8P5znFR0mNQ-njQ) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - *Python Course*
-* [Modern Python 3 Bootcamp Courses](https://mega.nz/folder/zfJQyLrT#uvGAaSb7Bs5bggzXXWqosQ)
+* [FutureCoder](https://futurecoder.io/), [2-Python](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_2-python) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - *Python Course*
+* [Modern Python 3 Bootcamp Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modern_python_3_bootcamp_courses)
 * [Tea Press](https://greenteapress.com/wp) - *Free Python Learning Books Green*
 * [VSCode.one](https://vscode.one/) - *VS Code Tutorials*
 * [Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) or [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - *Programming & Development Learning Channels*
@@ -55,13 +55,13 @@
 * [RoboMind](https://www.robomind.net/) - *Code Learning Game*
 * [Tuts 4 You](https://forum.tuts4you.com/) - *Coding / Developer Tutorials*
 * [PythonTutor](https://pythontutor.com/) - *Coding Tutorials*
-* [Code With Mosh Courses](https://mega.nz/folder/9ZckiLLJ#jH3CcsgJ1q5StsPC29zP-Q)
+* [Code With Mosh Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_code_with_mosh_courses)
 * [DefendTheWeb](https://defendtheweb.net/) - *Cyber Security Challenges*
 * [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - *Watch LeetCode Solutions as Animations*
 * [VSCodeCanDoThat](https://www.vscodecandothat.com/) - *VSCode Tutorial*
 * [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - *Programming Cheat Sheets*
 * [Vim Cheatsheet](https://i.imgur.com/2RsZq6p.png) - *Vim Code Editor Cheat Sheet*
-* [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) or [ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources) - *Programming / Coding Learning Resources*
+* [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) - *Programming / Coding Learning Resources*
 * [EbookFoundation Interactive Programming Tuts](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md) - *Interactive Programming Tutorials* 
 * [Exercism](https://exercism.org/) - *Programming Lessons*
 * [Nayuki](https://www.nayuki.io/) - *Programming Tutorials*
@@ -78,7 +78,7 @@
 * [w3schools](https://www.w3schools.com/) - *Programing Tutorials*
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - *Programming Courses*
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - *Programming Courses*
-* [Programming Courses Drive](https://drive.google.com/drive/u/0/folders/1rE6r67r1vsDrVxvAd5StXWSNGgsMpH5r), [2](https://drive.google.com/drive/mobile/folders/1wv81EOeEYFqX_Icdm_jvejVxQTqCA7Vd) - *Programming Courses*
+* [Programming Courses Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_programming_course_drives) - *Programming Courses*
 * [FreeCourses](https://freecourses.github.io/) - *Programming Courses*
 * [educative.io_courses](https://github.com/jeregatong/educative.io_courses) - *Programming Courses*
 * [HelloWorldCollection](http://helloworldcollection.de/) - *Hello World Programming Collection*
@@ -134,29 +134,28 @@
 * [LandChad](https://landchad.net/) - *Site Development Guide*
 * [Full Stack Solana Development Guide](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - *[Examples](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)*
 * [The New Boston](https://thenewboston.com/) - *Site Development Courses [Discord](https://discord.com/invite/thenewboston)*
-* [Web Dev Courses](https://drive.google.com/drive/folders/17nOoned_J-RzAlCXaHEcEvdQC3LDOCC0) - *Web Development Courses*
+* [Web Dev Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_web_dev_courses) - *Web Development Courses*
 * [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) or [Interneting is Hard](https://www.internetingishard.com/) - *Learn Web Development*
 * [Agernic](https://www.agernic.com/) - *Web Design Courses*
 * [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) - *Interactive Web Design Tutorial*
-* [UI & Web Design using Adobe Illustrator C](https://mega.nz/folder/DihiHYYJ#qwDp56twKmwPdDMqGR_kLA) - *UI & Webdesign Course*
+* [UI & Web Design using Adobe Illustrator C](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ui_.26amp.3B_web_design_using_adobe_illustrator_c) - *UI & Webdesign Course*
 * [Learn UI Design](https://learnui.design/) - *UI Design Course*
 * [UXTools](https://uxtools.co/) or [UXMovement](https://uxmovement.com/) - *Learn UX Design*
 * [SitePoint](https://www.sitepoint.com/) - *UX Design Courses & Books*
 * [FrontEndMentor](https://www.frontendmentor.io/) - *UX Design Challenges*
 * [Design Pattern for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) - *Guide on Design Patterns*
 * [Web Skills](https://andreasbm.github.io/web-skills/) - *Web Development Guides*
-* [666GB Devil Collection](https://mega.nz/folder/7HRiUb7Q#xXXnIdhGxuPwxtz99BhPpg) - *Web App Development Courses*
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - *Collection of Project-Based Tutorials*
 * [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - *Learn Swift and build iOS App Building*
 * [SwiftDump](https://github.com/neil-wu/SwiftDump) - *Retreive Swift Object info from Mach-O file*
 * [WeCreators](https://www.wecreators.co/creators-tools) - *Site Development / Influencer Courses*
 * [Learn Git Branching](https://learngitbranching.js.org/) - *Interactive Git Branching Guide*
-* [Learn SQL](https://sqlbolt.com/) or [Top Database Bundle](https://drive.google.com/drive/folders/1rxntNcqQPQPOeIfzE0YL4NEtUncUsrJJ) - *SQL Lessons*
+* [Learn SQL](https://sqlbolt.com/) or [Top Database Bundle](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_top_database_bundle) - *SQL Lessons*
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - *PostgreSQL Tutorial*
 * [MySQL Tutorial](https://www.mysqltutorial.org/) - *MySQL Tutorial*
 * [Hasura](https://hasura.io/learn/) - *GraphQL Courses*
-* [SQL Cheat Sheet ](https://i.imgur.com/tHo378Z.jpg)
-* [MongoDB Beginners Guide](https://mega.nz/folder/F5QwxJQa#ruNhz08Cl599MChOBbQeGA) - *MongoDB Tutorials*
+* [SQL Cheat Sheet](https://i.imgur.com/tHo378Z.jpg)
+* [MongoDB Beginners Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mongodb_beginners_guide) - *MongoDB Tutorials*
 * [LearnCSSGrid](http://learncssgrid.com/) - *CSS Grid Guide*
 * [FlexBoxFroggy](https://flexboxfroggy.com/) - *CSS Learning Game*
 * [CSS Speedrun](https://css-speedrun.netlify.app/) - *Test Your CSS Skills*
@@ -368,7 +367,7 @@
 * [Daft Page](https://daftpage.com/) - *Landing Page Creator*
 * [LandingPage](https://landingpage.fyi/index.html) - *Landing Page Tool Index*
 * [Uisual](https://uisual.com/), [SaaS Pages](https://saaspages.xyz/), [SaaS Landing Page](https://saaslandingpage.com/) or [lapa](https://www.lapa.ninja/) - *Landing Page Templates / Ideas*
-* [Canva](https://www.canva.com/) or [PikBest](https://pikbest.com/) - *Design Templates / [Premium Apk](https://forum.mobilism.org/search.php?keywords=Canva+&sr=topics&sf=titleonly)* 
+* [Canva](https://www.canva.com/) or [PikBest](https://pikbest.com/) - *Design Templates / [Premium Apk](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_canva_premium)* 
 * [Zeplin](https://zeplin.io/) - *Design Templates / Editor*
 * [Codebases](https://github.com/reacttips-dev/codebases) - *ReactJS Project Source Codes*
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - *Frontend Development Resources*
@@ -476,8 +475,8 @@
 * [faustjs](https://github.com/wpengine/faustjs) - *Wordpress Framework*
 * [Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes) - *Themes for Wordpress*
 * [Timber](https://upstatement.com/timber/) - *WordPress Theme Creator / [GitHub](https://github.com/timber/timber)*
-* [Wordpress Plugins](https://mega.nz/folder/OFg2gCKY#fkvmzxtyY-87lx9QCesyiw) or [CodeCanyon](https://codecanyon.download/) - *Wordpress Plugins & Scripts*
-* [Elementor Kit](https://mega.nz/folder/mEkDBSYI#WZVE8ptR90ZH00nBzmDIOw) - *1400+ Elementor Premium Templates*
+* [Wordpress Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wordpress_plugins) or [CodeCanyon](https://codecanyon.download/) - *Wordpress Plugins & Scripts*
+* [Elementor Kit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_elementor_kit) - *1400+ Elementor Premium Templates*
 * [KokoAnalytics](https://www.kokoanalytics.com/) - *Wordpress Analytics*
 * [vichan](https://github.com/vichan-devel/vichan) - *Imageboard Hosting*
 * [ProBoards](https://www.proboards.com/) - *Forum & Imageboard Hosting*
