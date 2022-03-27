@@ -128,9 +128,8 @@
 
 * **[freesoff](https://freesoff.com/)** - *Courses*
 * **[TutFlix](https://tutflix.org/)** - *Courses / Drives* 
-* **[Large Collection of Useful Mega DL's](https://pastebin.com/ZMtZa2JV)** - *Courses / Drives*
+* **[Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_course_megadrives)** or **[Large Collection of Useful Mega DL's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_large_collection_of_useful_mega_dl.27s)**  - *Courses / Drives*
 * [Reks Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive) - *Courses*
-* [Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_course_megadrives) - *Courses*
 * [11k+ Courses SpreadSheet](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_11k.2B_courses_spreadsheet) - *Courses*
 * [Christmas Share](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_christmas_share) - *Courses*
 * [HMDRIVE](https://t.me/HMDRIVE_OFFICIAL) - *Courses*
@@ -306,7 +305,7 @@
 * **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)** - *List of interactive math sites*
 * **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - *Sites with Multiple Calculators* 
 * **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - *Advanced Calculator*
-* **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://forum.mobilism.org/search.php?keywords=photomath&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) / [Pro](https://pastebin.com/wA3QQkCj) - *Math Problem Solver with Steps*
+* **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_symbolab_pro) - *Math Problem Solver with Steps*
 * [TeX](https://www.microsoft.com/en-us/p/flowtex-preview-beta/9nt79075t86l) - *Convert Handwritten Math to LaTeX*
 * [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - *Multi-Calculator App / Android*
 * [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - *Matrix Calculator*
@@ -408,11 +407,11 @@
 # ► Language Learning 
 
 * **[Awesome-Lang](https://github.com/oyd11/awesome-lang)**, [Many Things](http://www.manythings.org/) or [Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8) - *Language Learning Resources* 
-* **[Languages & Linguistics](https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - *Language Learning Books*
+* **[Languages & Linguistics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_languages_.26amp.3B_linguistics)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - *Language Learning Books*
 * [Speechling](https://speechling.com/tools) - *Language Learning Tools*
 * [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [Conversation Exchange](https://www.conversationexchange.com/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - *Language Learning Network*
 * [yTalki](https://ytalki.com/) - *Read Books in Other Languages*
-* [E-books_432](https://archive.org/details/E-books_432) - *Vocabulary & Pronunciation Books*
+* [E-books_432](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_e-books_432) - *Vocabulary & Pronunciation Books*
 * [Xuga](https://eng.ichacha.net/mpr/xuga.html) - *Word Pronunciation Tool*
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - *Multi-Language Dictionary Index*
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - *Translation Dictionary* 
