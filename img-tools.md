@@ -20,8 +20,8 @@
 * [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/) or [inspirationde](https://www.inspirationde.com/) - *Graphic Design Inspirations*
 * [IRA Design](https://iradesign.io/) - *Illustration Creator*
 * [Scribus](http://www.scribus.net/) - *Page Layout & Typesetting Program*
-* [1TB Art Courses](https://pastebin.com/hKgJG2Vz) - *Art Courses*
-* [Photoshop Courses](https://mega.nz/folder/Y6RXXKbJ#pnAdcdkSXw7wujTIhN5Blw) - *Photoshop Course Drive*
+* [1TB Art Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_1tb_art_courses) - *Art Courses*
+* [Photoshop Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photoshop_courses) - *Photoshop Course Drive*
 * [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - *Photoshop Tutorials*
 * [PhotoFunia](https://photofunia.com/) or [Designify](http://designify.com/) - *Photo Effects / Filters*  
 * [MagicaVoxel](https://ephtracy.github.io/) - *Voxel Art Editor / Interactive Path Tracing renderer*
