@@ -47,7 +47,7 @@
 
 ## Porn Sites
 
-* **[Pornhub Premium](https://forum.mobilism.org/search.php?keywords=pornhub&sr=topics&sf=titleonly)** - *Premium Pornhub Apk / Use [Emulator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators) for PC / Mac*
+* **[Pornhub Premium](https://saidit.net/s/freemediafuckyeah/wiki/base64#wiki_pornhub_premium)** - *Premium Pornhub Apk / Use [Emulator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators) for PC / Mac*
 * [Porn App](https://porn-app.com/) - *Android Porn App / [Discord](https://discord.com/invite/XRjPBGa)*
 * [Ceporn](https://www.ceporn.net/) 
 * [sxyprn](https://www.sxyprn.com/) 
@@ -117,11 +117,8 @@
 
 ## Download 
 
+* **[NSFW Drives](https://saidit.net/s/freemediafuckyeah/wiki/base64#wiki_nsfw_drives)**
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "nsfw
-* **[8.50TB Asi@n Folder](https://drive.google.com/drive/mobile/folders/1huOFDiwfxQHGTseh6Dos_oZ45czJYMOL)**, [2](https://drive.google.com/drive/folders/1JEOYU6Acay2Y3mg5pbJJ7kTAiYlxrcQh), [3](https://drive.google.com/drive/folders/16twY9QvFlsuXF2gngRUIEfvgJ3V386Q3) - *Asian Porn Drive*
-* [NSFW GDrives](https://redd.it/l3ugp6/), [2](https://photos.app.goo.gl/VtK9Aj3Vnbr2Pohc8), [3](https://photos.app.goo.gl/v7PdoDowqDhRRpa47), [4](https://photos.app.goo.gl/M8xBKo6CPtHRCUcC8), [5](https://drive.google.com/drive/folders/1cOAi2Ne4rldowhR5xEMI4Fc0mI-GA8iI?usp=sharing), [6](https://groups.google.com/u/1/g/adult-sic), [7](https://groups.google.com/u/1/g/viperph)
-* [NSFW Megadrives](https://rentry.co/qfen9)
-* [173.249.45.226](http://173.249.45.226/)
 * [PornFactors](http://pornfactors.com/) 
 * [RaidForums NSFW](https://raidforums.com/Forum-Not-Safe-For-Work)
 * [Best-MovieZ](https://www.best-moviez.ws/category/porn-18/) 
@@ -139,8 +136,6 @@
 * [xxxFile.org](https://xxxfile.org/) 
 * [ArtsErotica](https://artserotica.com/videos/)
 * [CamVault](https://camvault.xyz/) - *DL Chaturbate, MyFreeCams & CAM4 Recordings*
-* [213.32.1.25](http://213.32.1.25/) - *Japanese Porn*
-* [78.47.246.229](http://78.47.246.229/) - *Japanese Porn*
 * [XXXTelegramBot](https://t.me/XXXTelegramBot) - *Telegram*
 * [altar_of_elders](https://t.me/altar_of_elders) - *Telegram*
 * [AAAAAFfX6Mz1ZiUwM3uWkA](https://t.me/joinchat/AAAAAFfX6Mz1ZiUwM3uWkA) - *Telegram*
@@ -176,7 +171,7 @@
 
 ## Leaks
 
-* **[Jack's Off Mega Collections](https://rentry.co/is5ii)** - *OnlyFans / Patreon*
+* **[Jack's Off Mega Collections](https://saidit.net/s/freemediafuckyeah/wiki/base64#wiki_jack.27s_off_mega_collections)** - *OnlyFans / Patreon*
 * [MissingToofff](https://missingtoofff.com/) - *OnlyFans Leak Site List*
 * [PornDude OnlyFans](https://theporndude.com/snapchat-nudes-sites) - *OnlyFans / Patreon*
 * [LeakMeUp](https://leakemup.com/forums/) - *OnlyFans / Patreon*
@@ -185,7 +180,7 @@
 * [Coomer.Party](https://coomer.party/artists) - *OnlyFans*
 * [NsfwLeak](https://nsfwleak.com/) - *OnlyFans*
 * [PremiumModels](http://reddit.com/r/PremiumModels) - *OnlyFans*
-* [BadGirlsArchive](https://badgirlsarchive.site/) - *OnlyFans / Patreon / [Drive](https://mega.nz/folder/KV5BkYZL#csRmCr-THJeX0NbvukLkLA)*
+* [BadGirlsArchive](https://badgirlsarchive.site/) - *OnlyFans / Patreon*
 * [PornLeaks](https://pornleaks.in/) - *OnlyFans / Patreon*
 * [Pornlyfans](https://ufile.io/d6jdix9i) - *OnlyFans*
 * [Egirls.Wtf](https://egirls.wtf/) - *OnlyFans*
