@@ -130,23 +130,21 @@
 * **[TutFlix](https://tutflix.org/)** - *Courses / Drives* 
 * **[Large Collection of Useful Mega DL's](https://pastebin.com/ZMtZa2JV)** - *Courses / Drives*
 * [Reks Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive) - *Courses*
+* [Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_course_megadrives) - *Courses*
+* [11k+ Courses SpreadSheet](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_11k.2B_courses_spreadsheet) - *Courses*
+* [Christmas Share](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_christmas_share) - *Courses*
 * [HMDRIVE](https://t.me/HMDRIVE_OFFICIAL) - *Courses*
 * [Iit jee lectures](https://t.me/Iitjeeinveins2) - *Lectures / Telegram*   
-* [downloadly](https://downloadly.ir/) - *Courses*
-* [11k+ Courses SpreadSheet](https://docs.google.com/spreadsheets/d/1vazMlMWnI7NxVZcfgpABzCFFEClMjZYUgDk40pdPpTQ/) - *Courses*
-* [Course Megadrives](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA), [2](https://mega.nz/folder/pAl0wRKK#FIZzbYjkT_09qRT5BS2GXQ), [3](https://mega.nz/folder/4t4hhCTa#zIiMZBRVAibATtHxwQ2b_w), [4](https://mega.nz/folder/F9RSWBaK#Nq6DUyPTk10EdjLQ5CWFcQ), [5](https://mega.nz/folder/shpz0ACQ#tdyaQi9HcVM-oKH9NxVewA), [6](https://mega.nz/folder/Y11ghIRC#LPwRFJESUsZ29ioIYex4hw), [7](https://mega.nz/folder/yawWzAKD#tPy0NFBa38xoNZMhXrXn0g), [8](https://mega.nz/folder/5F9WzJ7a#9UdqphaNXS13TTJAgdN15w), [9](https://mega.nz/folder/iIsEkb4B#4tdNHUYTKTJDeIxI2FZE3A), [10](https://mega.nz/folder/Ab4HnABZ#gLR_-deauS6XBfWyouVf-Q), [11](https://mega.nz/folder/B9B1iIZL#1GYxeVaTj3prxSR8kDyRyQ), [12](https://mega.nz/folder/luA2lDBb#CMvWKjBncNUcBmw_bH4UTA/folder/cupEDYzQ), [13](https://mega.nz/folder/lm5lgQxT#Qh52YqE0-kwP_-eWohMBbw), [14](https://mega.nz/folder/yu4S3BJQ#bhtA-OIeQ2bnuM2bPcU2wQ/folder/Hr4GXT4L), [15](https://mega.nz/folder/XfhGDaqQ#MyOBWxBwcKujZ7IoWkhvCA) - *Courses*
 * [CoursesDaddy](http://coursesdaddy.com/) - *Courses* 
 * [Course Drive](https://coursedrive.org/) - *Courses* 
-* [Course Doc](https://docs.google.com/spreadsheets/d/1vazMlMWnI7NxVZcfgpABzCFFEClMjZYUgDk40pdPpTQ/edit#gid=0) - *Courses*
+* [Courses Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_course_pastebins) - *Courses*
+* [Mega Tech Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mega_tech_courses) - *Courses*
 * [Super Huge Course Collection](https://babiato.co/threads/%F0%9F%94%A5%F0%9F%94%A5-super-huge-course-collection-700-courses-3tb-data-%F0%9F%94%A5%F0%9F%94%A5.40041/) - *Courses*
-* [Courses](https://pastebin.com/jQB1shJg), [2](https://pastebin.com/Z7L3Ypzd) - *Courses / Drives*
 * [online-courses](https://online-courses.club/) - *Courses*
 * [Course Upload](https://courseupload.com/) - *Courses* 
-* [Christmas Share](https://mega.nz/folder/mqxiBRTJ#0bnSa35nknxUqOCr-xdGYg) - *Courses*
 * [Coursesghar](https://coursesghar.com/) - *Courses* 
 * [CourseUpload](https://courseupload.net/) - *Courses*
 * [FreeEducationWeb](https://freeeducationweb.com/) - *Courses* 
-* [Mega Tech Courses](https://mega.nz/folder/RF4wHQQL#58tVVBGboP4dhR4T2qDVLQ/folder/gAoGWIQJ) - *Courses*
 * [DLECourse](https://dlecourse.com/) - *Courses* 
 * [FreeCourseDL](https://freecoursedl.com/) - *Courses* 
 * [HackNation](https://hacksnation.com/) - *Courses*
@@ -155,6 +153,7 @@
 * [Google Drive Links](https://googledrivelinks.com/) - *Courses*
 * [CryptoTips](https://www.cryptotips.us/) - *Courses* 
 * [FCS](https://freecoursesites.com/) - *Courses*
+* [downloadly](https://downloadly.ir/) - *Courses*
 * [5G GYAN](https://www.5ggyan.com/) - *Courses* 
 * [GameOfCourses](https://gameofcourses.com/) - *Courses*
 * [WSODownloads](https://www.wsodownloads.in/) - *Courses*
@@ -175,49 +174,39 @@
 * [RedBlueHit](https://t.me/RedBlueHit) - *Courses / Telegram*
 * [learningDL](https://learningdl.net/) - *Courses / Leech required* 
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - *Courses / Tutorials* 
-* [Course Code Drive](https://ddpanda.net/code/) - *Courses / [Codes](https://ufile.io/mvg3nz5t)*
+* [Course Code Drive](https://ddpanda.net/code/) - *Courses / [Codes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_course_codes)*
 * [FreetutsDownload.com](https://freetutsdownload.com/) - *Courses / GDrive Host* 
-* [iTunes U](https://archive.org/details/@kyndigs) - *Lectures*
+* [iTunes U](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_itunesu_lectures) - *Lectures*
 * [University of Waterloo](https://student.cs.uwaterloo.ca/~cs247/current/) - *CS Resources / Courses*
-* [Masterclass Courses](https://uploadhub.to/folder/756e9b346a839699b075e9c483991b90/Masterclass) or [MasterClass0](https://t.me/MasterClass0) - *Masterclass Courses*
-* [Mindvalley Courses](https://mega.nz/folder/KahWVI6L#ijlrxMp0x5qaDB71r3mLzg/folder/mfwmiaDZ) - *Mindvalley Courses*
-* [Lynda Courses](https://bin.snopyta.org/?efe32fb96a945857#GQL7q4hyKjCeB6WLbpq94S12BEwh5JWc4apjmb7RE4SU) - *Lynda Courses / Drive / pw: fmhy*
-* [LyndaFree](https://t.me/lyndafree) - *Lynda Courses / Telegram*
+* [Masterclass Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_masterclass_courses) or [MasterClass0](https://t.me/MasterClass0) - *Masterclass Courses*
+* [Mindvalley Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mindvalley_courses) - *Mindvalley Courses*
+* [Lynda Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_lynda_courses) or [LyndaFree](https://t.me/lyndafree)  - *Lynda Courses / pw: fmhy*
 * [BestWSODownload](https://www.bestwsodownload.com/) - *WSO Courses*
-* [Udemy Course Megadrives](https://mega.nz/folder/efY0AR4T#0jnk5etjz1jfX2kmhvdJYw), [2](https://mega.nz/folder/DUwSWLpT#fbqm6GMSIhB45PZqZv35jA), [3](https://mega.nz/folder/GF5zTIbJ#UcubyKl1B2YW0HiaMmim9Q), [4](https://mega.nz/folder/wt5HGICC#TnMvorTOW_k3hsTHEW4x9w), [5](https://mega.nz/folder/gxIHkQaa#CKCdB3_bO0bKYG36fen4OQ), [6](https://mega.nz/folder/11IDBAgA#aZ0mCPN8EuwX3lP3tBT7Zw), [7](https://mega.nz/folder/FSZHwKBa#iGFBQB78N-gUs4KCl31B9g), [8](https://mega.nz/folder/1DRUUBoR#K1ywmHQSe3SnqjpWkV0o7g)
+* [Udemy Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_udemy_course_drives)
 * [AirVibe](https://www.airvibe.me/) - *Udemy Courses*
-* [Udemy Courses Rentry](https://rentry.co/ecg43) - *Udemy Courses*
-* [UdemyKing](https://t.me/udemyking1 ) - *Udemy Courses*
+* [UdemyKing](https://t.me/udemyking1) - *Udemy Courses*
 * [CourseArray](https://coursearray.xyz/index.html) - *Udemy Courses / [Telegram](https://t.me/udemycoursesfree)*
 * [Tutorial Bar](https://www.tutorialbar.com/) - *Udemy Courses*
 * [Downloadr](https://downloadr.in/) - *Udacity & Udemy Courses*
 * [Free Udemy Vedantu Courses](https://t.me/Udemy_Courses_Vedantu_Free) - *Udemy Courses*
 * [UFC Gdrive Factory!](https://telegram.me/joinchat/SSWKbEf8mVNBvgam) - *Udemy Courses*
 * [EZdemy](https://t.me/ezudemy) - *Udemy Courses*
-* [Giga Course](https://gigacourse.com/) - *Udemy Courses / Drive* 
-* [s28.bitdl.ir Udemy](http://s28.bitdl.ir/Compresed/Udemy/), [2](http://s28.bitdl.ir/Video/) - *Udemy Courses / Drive / Use VPN / Pass: bitdownloader.ir*
+* [Giga Course](https://gigacourse.com/) - *Udemy Courses* 
 * [Udemy 24](https://udemy24.com/) - *Udemy Courses* 
 * [FreeCourseWeb](http://freecourseweb.com/) - *Udemy Courses* 
 * [Udemycourses](https://udemycourses.me/) - *Udemy Courses* 
 * [CoursesForFree](https://courseforfree.net/) - *Udemy Courses*
 * [FreeTutorialsHub](https://www.freetutorialshub.com/) - *Udemy Courses*
 * [FreeCourseUdemy](https://freecourseudemy.com/) - *Udemy Courses*  
-* [Devil Collection](https://mega.nz/folder/wQp0jaSC#cE7-P1fX0FkxU2LXAHm80A) - *Udemy Courses*
 * [CourseForFree](https://courseforfree.com/) - *Udemy Courses*  
-* [New Courses](https://mega.nz/folder/TyhGnIiR#XlHwR6qa4cZ3Tl1bSm2-QA) - *Udemy Courses*
 * [Download Online Tutorials Free](https://download.howtofree.org/) - *Udemy Courses* 
 * [Udemy Free Course](https://t.me/udemy_free_cource) - *Udemy Courses* 
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - *Udemy Downloader*
-* [Udemy - Cybersecurity Collection](https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD) - *Cyber Security Courses*
-* [@H4CKT3R](https://mega.nz/folder/w8VHhSaY#fsM0AdXn8a3bRljWfJSdVg) - *Cyber Security Courses*
-* [500GB+ Cyber Security](https://mega.nz/folder/ZLB3CSwK#EXp6VnwcAEI1WE8xVwZZuQ) - *Cyber Security Courses*
-* [Skills for All](https://skillsforall.com/) - *Cyber Security Courses*
-* [CISSP Certifications](https://drive.google.com/drive/u/0/folders/1AWJHcWt4KngV2ijEFHmh74-HHMwSR16u) - *Cyber Security Lessons*
-* [340GB Linkedin Courses](https://rentry.co/skat9) - *Linkedin Courses*
-* [Linkedin_Learning](https://t.me/linkedin_learning) - *Linkedin Courses*
+* [Cyber Security Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cyber_security_courses) or [Skills for All](https://skillsforall.com/) - *Cyber Security Courses*
+* [340GB Linkedin Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_340gb_linkedin_courses) or [Linkedin_Learning](https://t.me/linkedin_learning) - *Linkedin Courses*
 * [CertCommunity](https://www.certcommunity.org/forum/) - *IT Cert Courses*
-* [Top Linux Interview Questions & Answers](https://mega.nz/#F!K1MnlSzJ!fyLhNA7V_m1z9JZfPW0alg) - *Linux Interview Q&A*
-* [Photoshop Courses](https://mega.nz/folder/Y6RXXKbJ#pnAdcdkSXw7wujTIhN5Blw) - *Photoshop Course Drive*
+* [Top Linux Interview Questions & Answers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_top_linux_interview_q.26amp.3Ba.27s) - *Linux Interview Q&A*
+* [Photoshop Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photoshop_courses) - *Photoshop Course Drive*
 * [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - *Download videos from Coursera* 
 * [Skillshare DL Guide](https://i.imgur.com/AIENK0K.png) - *Download videos from Skillshare*
 * [skillsharefree](https://t.me/skillsharefree) - *Skillshare Courses / Telegram* 
@@ -255,7 +244,7 @@
 * [Paid Courses for Free](https://paidcoursesforfree.com/) - *Udemy Courses* 
 * [Online Free Course](https://www.onlinefreecourse.net/) - *Udemy Courses*   
 * [Giga Course](https://gigacourse.com/) - *Udemy Courses* 
-* [1TB Art Courses](https://pastebin.com/hKgJG2Vz) - *Art Courses*
+* [1TB Art Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_1tb_art_courses) - *Art Courses*
 * [Pimp My Money](https://pimpmymoney.net/) - *Digital Marketing Courses* 
 
 ## ▷ Documentaries
@@ -356,7 +345,7 @@
 * [NASA](https://www.nasa.gov/) - *National Aeronautics and Space Administration Website*
 * [ESA](https://www.esa.int/) - *European Space Agency Website*
 * [Space.com](https://www.space.com/) - *Space News*
-* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://drive.google.com/drive/folders/0B1ySOrPxOWJmZGlNTkEtQnlEM3M) - *Astronomy Books*
+* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Math and Physics Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_math_and_physics_books) - *Astronomy Books*
 * [The Universe Through Time](https://i.imgur.com/A2C6Vpc.jpeg) - *Universe Timeline*
 * [Space Dashboard](https://spacedashboard.com/) - *Space Live Stream Dashboard* 
 * [EarthData](https://worldview.earthdata.nasa.gov/) - *Daily Satellite Replays*
@@ -487,7 +476,7 @@
 * [Pleco](https://www.pleco.com/) - *Chinese Flashcards & Dictionary*
 * [Popup Chinese](http://www.popupchinese.com/tools/adso) - *Chinese Learning Tools*
 * [YellowBridge](https://www.yellowbridge.com/) - *Chinese Learning Tools*
-* [Mandarin Chinese](https://drive.google.com/drive/u/0/mobile/folders/152oeHQoeqvC9RVMk6kJi1irAlSSp7NVk?usp=sharing) - *Mandarin Chinese Learning Books*
+* [Mandarin Chinese](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mandarin_chinese) - *Mandarin Chinese Learning Books*
 * [Chinese Flashcards](http://www.chineseflashcards.io/) - *Chinese Flashcards*
 * [LearningSwedish](https://learningswedish.se/) - *Swedish Learning Course*
 * [youglish](https://youglish.com/) - *YouTube Word Pronunciations* 
@@ -495,7 +484,7 @@
 * [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - *American Sign Language* 
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)  
 * [BSL Dictionary](https://www.signbsl.com/) - *British Sign Language* 
-* [Language Drops](https://languagedrops.com/) or [10,000 Sentences](https://github.com/tkrajina/10000sentences) - *Language Learning App / [Premium](https://forum.mobilism.org/search.php?keywords=drops&sr=topics&sf=titleonly)*
+* [Language Drops](https://languagedrops.com/) or [10,000 Sentences](https://github.com/tkrajina/10000sentences) - *Language Learning App / [Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_language_drops_premium)*
 * [PolyGlot](http://polyglots.free.fr/) - *Linguistic Teaching Software*
 * [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - *Language Identification Test*
 * [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap)- *Listen to Accents*
@@ -605,9 +594,9 @@
 * [The SAT: Practice Test 3](https://collegereadiness.collegeboard.org/pdf/sat-practice-test-3.pdf) - *SAT Practice Tests*
 * [Examveda](https://www.examveda.com/) - *Exam Practice*
 * [CrackAP](https://www.crackap.com/) - *Practice AP Exams*
-* [/r/ApStudents Resources](https://drive.google.com/open?id=1mPT8O9Nou4udtUQOl0W8dk5JgeRNZHSI) - *Former AP Exams*
+* [/r/ApStudents Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fr.2Fapstudents_resources) - *Former AP Exams*
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - *AP Exam Comparison Spreadsheet*
-* [AQA GCSE 2019](https://drive.google.com/drive/folders/1xIaxfQYePlTT2XxRXYMOjXduvZzaYyP7?usp=sharing) - *AQA 2019 GCSE Exams*
+* [AQA GCSE 2019](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_aqa_gcse_2019) - *AQA 2019 GCSE Exams*
 * [Future Vision BIE](https://hemanthrajhemu.github.io/) - *VTU Study Material*
 * [CrackJee](https://www.crackjee.xyz/) - *JEE & NEET Study Material + Answers*
 * [JEEBOOKS](https://www.jeebooks.in/) - *JEE, NEET, KVPY & CBSE Study Material*
@@ -644,7 +633,7 @@
 * [Wolfram Cloud](https://www.wolframcloud.com/) - *Computational intelligence*
 * [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
 * [Matthen](https://blog.matthen.com/) - *Math & Science Animations*
-*  [Mujoco](https://github.com/deepmind/mujoco), [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - *Physics Simulations / Animations*
+*  [Mujoco](https://github.com/deepmind/mujoco), [MyPhysicsLabs](https://myphysicslab.com/), [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - *Physics Simulations / Animations*
 * [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/) or [Sim Flow](https://sim-flow.com/) - *Fluid Dynamics Simulators*
 * [SimScale](https://www.simscale.com/) or [CFDTool](https://www.cfdtool.com/) - *Fluid Dynamics & Heat Transfer Simulator*
 * [Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php) - *Physics Tools* 
@@ -692,10 +681,10 @@
 * [Art of Manliness](https://www.artofmanliness.com/) - *Develop Life Skills*
 * [Social Engineers](https://www.socialengineers.net/) - *Social Engineering Guides*
 * [TheChessWebsite](https://www.thechesswebsite.com/) - *Chess Strategy & Analysis*
-* [Chess Tempo](https://chesstempo.com/) - *Play and Learn Chess*
+* [Chess Tempo](https://chesstempo.com/) - *Play & Learn Chess*
 * [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - *Wood Working Guides & Articles*
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - *Learn to Tie Knots* 
-* [Pol Art Folder](https://mega.nz/folder/rVcExIbB#VN9alzay0OrctggvEn1DUg) - *Historic European Art & Paintings*
+* [Pol Art Folder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pol_art_folder) - *Historic European Art & Paintings*
 * [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio) or [WikiArt](https://www.wikiart.org/) - *Digital Art Collection*
 * [Arachne](https://arachne.dainst.org/) - *Ancient Sculpture Image Archive*
 * [The First World War](https://www.firstworldwar.amdigital.co.uk/) - *WW1 Study Material*
