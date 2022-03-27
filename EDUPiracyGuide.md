@@ -708,6 +708,7 @@
 * [CollegeComendium](https://collegecompendium.goldin.io/) - *Free Computer Science Classes*
 * [Reddit-wiki-programming](https://github.com/antariksh17/Reddit-wiki-programming) - *Computer Science Learning Resources*
 * [Niche](https://www.niche.com/) or [Top Universities](https://www.topuniversities.com/) - *University & School Rankings*
+* [Find Study Now](https://find-study-now.com/) - *School Search*
 * [College Map](https://nces.ed.gov/ipeds/collegemap/) - *College Information Map*
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - *Professor Ratings*
 * [Edu VPN](https://www.eduvpn.org/) - *Institute Access VPN*
