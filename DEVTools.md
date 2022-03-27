@@ -24,8 +24,7 @@
 * [Roadmap](https://roadmap.sh/) - *Developer Roadmaps / Guides* 
 * [Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)
 * [DecodingDevOps](https://www.decodingdevops.com/) - *Developer Q&A*
-* [hackingworld.best](https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg) - *IT Courses*
-* [IT Courses Collection](https://mega.nz/folder/TDozVaoD#2qK5YTtpg6dmkqye2C2Kfg) - *IT Courses*
+* [IT Course Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_it_courses) - *IT Courses*
 * [Python Discord](https://pythondiscord.com/resources/) - *Python Learning Resources*
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - *Python Guide*
 * [CodingBat](https://codingbat.com/) - *Python / Java Practice*
@@ -264,6 +263,7 @@
 * [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - *Sites to Post Your Startup*
 * [500+ Free Tools For Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) 
 * [Wokwi](https://wokwi.com/) - *Arduino / ESP32 Board Simulator*
+* [Tesseract](https://tesseract-ocr.github.io/) - *Open Source OCR Engine / [GitHub](https://github.com/tesseract-ocr/tesseract)*
 * [OpenCV](https://opencv.org/) - *A.I. Vision Library*
 * [AForge.NET](https://github.com/andrewkirillov/AForge.NET) - *A.I. Vision Framework*
 * [OpenCog](https://opencog.org/) - *Artificial Intelligence Framework / [GitHub](https://github.com/opencog)*
