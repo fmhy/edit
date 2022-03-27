@@ -19,7 +19,7 @@
 * [TCNO](https://github.com/TcNobo/TcNo-Acc-Switcher) - *Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)*
 * [How-To Make Cracked Games Look Like Official Steam Games](https://www.reddit.com/r/PiratedGames/comments/pmim9t/tutorial_make_your_cracked_games_look_like/)
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?usp=sharing), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - *FPS & Latency Guides*
-* [Fraps](https://rentry.co/frapsfullfree) / [2](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - *FPS Benchmarking Utility*
+* [Fraps Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_fraps) / [2](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - *FPS Benchmarking Utility*
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner) - *Graphics Card Overclocking Utility / FPS Benchmarking*
 * [MSI Kombustor](https://msikombustor.com/) - *GPU Benchmark Test*
 * [Overclock](https://www.overclock.net/) - *Overclocking Forum*
@@ -37,7 +37,7 @@
 * [GameBurnWorld](http://www.gameburnworld.com/) - *No-CD/No-DVD Patches, Game Fixes, Trainers, Cheats* 
 * [ogg-winmm](https://github.com/bangstk/ogg-winmm) - *CD Audio Emulator*
 * [Ludsavi](https://github.com/mtkennerly/ludusavi) or [GameSave Manager](https://www.gamesave-manager.com/) - *Game Save Manger*
-* [Save Game World](http://www.savegameworld.com/) - *PC Game Save Downloads*
+* [Save Game World](http://www.savegameworld.com/), [savegamedownload](https://www.savegamedownload.com/), [yoursavegames](https://www.yoursavegames.com/), [savesforgames](https://savesforgames.com/), [savegamefiles](https://www.savegamefiles.com/), [savegame-download](https://savegame-download.com/) or [savegame](https://savegame.pro/) - *PC Game Save Downloads*
 * [Save Editor Online](https://www.saveeditonline.com/) - *Game Save Editor*
 * [CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - *Cyberpunk 2077 Save Editor*
 * [Koalageddon](https://github.com/acidicoala/Koalageddon/) - *DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)*
@@ -46,7 +46,7 @@
 * [CrossOver](https://github.com/lacymorrow/crossover) or [HudSight](https://hudsight.com/) - *Crosshair Overlay*
 * [ClickSpeeder](https://clickspeeder.com/) or [CPSCounter](https://cpscounter.org/) - *Click Speed Test / Trainers*
 * [TASVideos](https://tasvideos.org/) - *Watch and Publish Tool Assisted Speedruns*
-* [Skill Capped Downloader](https://ufile.io/kuthw907) - *Skill Capped Video DL Script / [Guide](https://i.imgur.com/lZofxhL.png)*
+* [Skill Capped Downloader](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_skill_capped_downloader) - *Skill Capped Video DL Script / [Guide](https://i.imgur.com/lZofxhL.png)*
 * [MacroGamer](https://www.itoady.com/) - *Game Macro Recorder*
 * [Blitz](https://blitz.gg/) - *Post Match Performance Analyzer / [Adblocker](https://github.com/lulzsun/blitz-app-adblock)* 
 * [Valve Archive](https://valvearchive.com/) - *Rare Valve Data Archive*
@@ -91,13 +91,13 @@
 * [Spud Controller](https://sadwhale-studios.itch.io/) - *Controller / Mouse Input Displays*
 * [Lowkey](https://lowkey.gg/) - *Record / Screenshot Gameplay* 
 * [Moments](https://steelseries.com/gg/moments) - *Game Clip Tool*
-* [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) or [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
+* [FalseKeystrokes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_falsekeystrokes) or [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
 * [Pokemon Typechart](https://pokemondb.net/type) - *Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)*
 * [PokeList](https://pokemonlist.netlify.app/) or [Mon](https://github.com/dbednar230/mon) - *Pokedexes*
 * [NYCPokeMap](https://nycpokemap.com/) - *Real-time Pokémon Go map for NYC*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
 * [r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/) - *Find Games from Screenshot or Description*
-* [GameGuides](https://www.gamerguides.com/), [Retro Game Strategy Guides](https://archive.org/details/Tekken3PrimasOfficialStrategyGuide1998), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [GamePressure](https://www.gamepressure.com/) or [Samurai Gamers](https://samurai-gamers.com/) - *Strategy Guides & Walkthroughs*
+* [GameGuides](https://www.gamerguides.com/), [Retro Game Strategy Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_retro_game_strategy_guides), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [GamePressure](https://www.gamepressure.com/) or [Samurai Gamers](https://samurai-gamers.com/) - *Strategy Guides & Walkthroughs*
 * [Before I Play](http://www.beforeiplay.com/) - *Tips for any Game* 
 * [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - *System Gaming Tweak Guide*
 * [ProSettings](https://prosettings.net/) - *In-Game Settings Optimization Guides*
