@@ -907,6 +907,7 @@
 * [Cyber](https://cyber.page/) - *Hash Search Engine* 
 * [TruePeopleSearch](https://www.truepeoplesearch.com/) - *Person Search*
 * [CrunchBase](https://www.crunchbase.com/) - *Company Info Search*
+* [Employees hunter](https://hunter.io/) - *Company Employee Email Search*
 * [judyrecords](https://www.judyrecords.com/) - *US Court Case Search*
 * [Is it big?](https://isitbig.org/) - *Brand Corporation Connection Search*
 * [Matrix](https://matrix.itasoftware.com/) - *Airfare Search*
@@ -1059,7 +1060,7 @@
 * [Unim.Press](https://unim.press/) - *Newspapers-Style Reddit Viewer*
 * [Unreadit](https://app.mailbrew.com/unreadit) - *Reddit Newsletters*
 * [reddit shell](https://redditshell.com/) - *Linux shell emulator for Reddit*
-* [Random Reddit](https://old.reddit.com/random) - *Get Random Reddit Threads / Possibly NSFW*
+* [Random Reddit](https://old.reddit.com/random or [Random Reddit Post](https://randomredditpost.netlify.app/) - *Get Random Reddit Threads / Possibly NSFW*
 * [Thredd](https://chrome.google.com/webstore/detail/thredd-useful-advice-from/nofhlafikocbioemioehbpadpgjlpeco/related) - *Find Reddit Discussions on WebPage you are Browsing*
 * [FrontPageMetrics](https://frontpagemetrics.com/) - *Metrics For Reddit* 
 * [Subreddit Sentiment](https://sentranker.com/subreddit-sentiment) - *Subreddit Sentiment Check*
