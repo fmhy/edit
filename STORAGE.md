@@ -3,10 +3,10 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/93ox8w0.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/6bNZvbH.png)** - *For mobile users*
 
 ***
-***i
+***
 
 #### 3D Modeling Apps
 
@@ -2706,14 +2706,6 @@ Good for finding classic, obscure & short films.
 
 ***
 
-#### Windows Activation Scripts
-
-**[Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts/)**, [KMS-Auto](https://kms-auto.site/), [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO), [KMS VL ALL](https://github.com/kkkgo/KMS_VL_ALL), [hwid.kms38.gen.mk6](https://web.archive.org/web/20210328020828/https://www.saidit.net/s/sjain_guides)/ [2](https://archive.md/8pdfC), [MyDigitalLife](https://forums.mydigitallife.net/), [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition), [EzWindSLIC](https://github.com/ExeCsrss/EzWindSLIC) (server edition), [HEU_KMS](https://github.com/zbezj/HEU_KMS_Activator), [winactivate](https://github.com/luzeadev/winactivate)
-
-[How Windows Activation Works](https://windowsaddict.ml/readme-activation-faq.html)
-
-***
-
 #### Windows File Explorers
 
 * **[Everything](https://voidtools.com/)**
@@ -2735,41 +2727,6 @@ Good for finding classic, obscure & short films.
 * [Clover](http://en.ejie.me/) or [QTTabBar](http://qttabbar.wikidot.com/) - *Windows Explorer Tabs*
 * [WinFile](https://github.com/microsoft/winfile) or [FileSearchEX](https://goffconcepts.com/products/filesearchex/download.html) - *Original Windows File Manager* 
 * [Multi Commander](http://multicommander.com/) - *Multi-Tabbed File Manager*
-
-***
-
-#### Windows ISO
-
-* **[TechBench](https://tb.rg-adguard.net/)**
-* **[Windows 10 LTSC](https://supreme-gamers.com/t/windows-10-ltsc-the-best-windows-10-version-ever.845/)** - *[/r/Windows10LTSC](https://www.reddit.com/r/Windows10LTSC/)*
-* **[Windows AME](https://ameliorated.info/)**
-* [Massgravel's Pastebin](https://pastebin.com/raw/jduBSazJ)
-* [Bob Pony](https://downloadui.bobpony.com/)
-* [Soft.uclv](https://soft.uclv.edu.cu/Microsoft/)
-* [MSDN](https://the-eye.eu/public/MSDN/)
-* [ReviOS](https://sites.google.com/view/meetrevision)
-* [ISO Files](https://isofiles.bd581e55.workers.dev/0:/). [2](https://stuff.mtt-m1.workers.dev/)
-* [microsoft-download-link-archive](https://github.com/luzeadev/microsoft-download-link-archive)
-* [malwarewatch](https://dl.malwarewatch.org/windows/)
-* [Windows ISO Google Doc](https://docs.google.com/spreadsheets/d/1zTF5uRJKfZ3ziLxAZHh47kF85ja34_OFB5C5bVSPumk/) 
-* [msdn.hackerc](https://msdn.hackerc.at/)
-* [VLSC](http://vlsc.ksu.ac.th/)
-* [geeks4christ](http://www.geeks4christ.org/MS-OS/)
-* [kacabenggala](https://kacabenggala.uny.ac.id/windows/)
-* [Microsoft](https://www.microsoft.com/en-us/software-download/)
-* [jerryching](http://jerryching.spdns.de/Software/ISO%20Backup/)
-* [minerswin](http://root3.minerswin.de/ISO/Windows/)
-* [ISO GDrive](https://docs.google.com/spreadsheets/d/e/2PACX-1vSScnE8yYzjgTlMiTpoGZ4VwDKHDanTld2_BXXliZg_nTyVVJq0ppvDJHiRFuMEoAO9UKHZqCG2o97T/pubhtml#)
-* [AtlasOS](https://atlasos.net/) - *Custom Windows 10 20H2 ISO / [Discord](https://discord.com/invite/xx6S3g3HzE)*
-* [Fido](https://github.com/pbatard/Fido) - *Powershell Script*
-* [ggOS](https://discord.gg/A5BHSQV) - *Custom Windows 10 20H2 ISO*
-* [Windows Sun Valley](https://archive.org/details/windows-sv-pro-v-1) - *Custom Windows 10 21H1 ISO*
-* [XOS](https://discord.gg/Zs4bpVjJyp) - *Custom Windows 10 1803 ISO*
-* [FoxOS](https://discord.gg/A5Y76ymyBY) - *Custom Windows 7 ISO* 
-* [UnicornsOS](https://discord.gg/vFwRBB7XBK) - *Custom Windows 7 ISO*
-* [OldSchoolOS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - *Oldschool ISO's*
-* [MediaCreationTool.bat](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15) - *Media Creation Tool Wrapper*
-* [Windows 10 Building](https://teamos-hkrg.com/threads/windows-10-building-and-modding-and-custom-os-s.129309/) - *How-to Make Custom Windows 10 ISOs*
 
 ***
 
