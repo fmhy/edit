@@ -239,6 +239,7 @@
 * [AIOsetup](https://t.me/aiosetup) - *Telegram* 
 * [Libreware](https://t.me/Libreware) - *Telegram* 
 * [Computer Softwares](https://t.me/Computer_Softwares_Games_Windows) - *Telegram*
+* [PC Cracked Software](https://t.me/pc_cracked_softwares) - *Telegram*
 * [Windows Softwares](https://t.me/Windows_Softwares_Pc_Games), [2](https://t.me/windows_softwares) - *Telegram*
 * [raymondfreesoftware](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g)
 * [Rarewares](https://www.rarewares.org/) - *Rare Software*
@@ -357,6 +358,7 @@
 * [GFXDownload](http://gfxdownload.com/)
 * [Uparchip](https://www.uparchvip.com/category/free-content/)
 * [AwesomeVFX](https://gitlab.com/tds-anonymous/awesome-vfx) 
+* [Vidigraph](https://t.me/vidigraph) 
 
 ***
 
