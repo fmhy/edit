@@ -495,7 +495,7 @@ French / General Torrent Tracker
 * [Movies Flix](https://hdmoviesflix.in/) - *Movies / NSFW / [Telegram](https://t.me/hdmoviesflix_official)*
 * [Dudefilms](https://dudefilms.fun/) - *Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)*
 * [The Movies Flix](https://themoviesflix.com.se/) - *Movies / NSFW / [Telegram](https://t.me/themoviesflixcomco)*
-* [Bollywood Movie Drive](https://drive.google.com/drive/folders/1dfv0SIMwQGfLlY1-GQY1rA_cXEoekIRH) - *Movies*
+* [Bollywood Movie Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bollywood_movie_drive) - *Movies*
 * [KatMovieHD](https://katmoviehd.nz/) - *Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)*
 * [MoviesRush](https://moviesrush.cam/) - *Movies*
 * [VegaMovies](https://vegamovies.ink/) - *Movies / [Telegram](https://vegadrive.xyz/join.php), [2](https://t.me/Vegamoviesgroup2)*
@@ -662,10 +662,10 @@ French / General Torrent Tracker
 * [JPFILES](https://jpfiles.eu/) - *Video / Audio / Books / NSFW*
 * [jpddl](https://jpddl.com/) - *Manga / Anime / Music / Drama*  
 * [JPLearner](http://www.jplearner.to/) - *Video / Manga / Magazines*
-* [剧集](https://drive.google.com/drive/folders/1OuJJg_zr4pG3EW2SYFyV4CaBxlyypZAQ) - *Anime / Drive* 
+* [剧集](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.5267.96C6) - *Anime / Drive* 
 * [AnimeTime](https://www.animetime.pw/) - *Anime* 
 * [arearaw](http://arearaw.com/) - *Anime / Use Tor* 
-* [GameCenter CX Archives](https://archive.org/details/@gamecentercx) - *GameCenter CX Archive / [English](https://archive.org/details/game-center-cx-english-subbed-episodes-collection-2021-02-gamecenter-cx)*
+* [GameCenter CX Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_gamecenter_cx_archives) - *GameCenter CX Archive*
 * [Sukidesuost](https://sukidesuost.info/) - *Music / MP3 / FLAC*
 * [Hikarinoakariost](https://hikarinoakari.com/) - *Music / MP3*
 * [jpop80ss](https://jpop80ss2.blogspot.com/)- *Music / MP3*
@@ -704,7 +704,7 @@ French / General Torrent Tracker
 * [AQ Stream](https://aqstream.com/) - *Live TV* 
 * [GameCenter CX](https://www.twitch.tv/gemcentacxx) - *GameCenter CX Stream*
 * [kuukunen](https://touhou.kuukunen.net/) - *Music*
-* [Live Japanese M3u](https://ufile.io/vh9e2j6h) - *M3u File for VLC*
+* [Live Japanese M3u](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_live_japanse_m3u) - *M3u File for VLC*
 
 ## ▷ Reading 
 
@@ -757,7 +757,7 @@ French / General Torrent Tracker
 * [WeDisk](https://www.wedisk.co.kr/) - *Movies / TV* 
 * [CinEast](https://cineaste.co.kr/) - *Movies* 
 * [Play Rdp](https://play.rdp.workers.dev/1:/), [2](https://black-theme.rdp.workers.dev/0:/) - *Movies / TV / [Discord](https://discord.com/invite/fpnvKDw)*
-* [Korean Drama Drive](https://drive.google.com/drive/folders/1aVF9hAzRwwyK7mP6xl5Gmm2k-32i2ek-) - *Movies / TV*
+* [Korean Drama Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_korean_drama_drive) - *Movies / TV*
 * [Jpapas](https://jpapas.tistory.com/) - *Modded APKs* 
 * [J-pop Music Download](https://jpop.xyz/) - *Music* 
 * [4Sashi](https://4sashi.com/) - *Music*
@@ -952,7 +952,7 @@ French / General Torrent Tracker
 
 * [wolnelektury](https://wolnelektury.pl/) - *Books / Fiction* 
 * [Audiobook PL](https://audiobookpl.tumblr.com/) - *Audiobooks*
-* [K1n013f0ur's Pastebin](https://pastebin.com/u/k1n013f0ur) - *Audiobooks*
+* [K1n013f0ur's Pastebin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_k1n013f0ur.27s_pastebin) - *Audiobooks*
 * [doci.pl](https://doci.pl/) - *Documents* 
 * [docer.pl](https://docer.pl/) - *Documents* 
 * [wolnelektury](https://wolnelektury.pl/) - *Educational*
@@ -1406,6 +1406,7 @@ Portuguese
 * [HDVideoBox](https://forum.mobilism.org/viewtopic.php?f=429&t=4505325) - *Movies / TV / Anime / Android*
 * [OpenEDU](https://openedu.ru/) - *Courses*
 * [Teach.in](https://teach-in.ru/) - *Lectures*
+* [Notalone](https://notalone.tv/) - *Video Sync / Watch Parties*
 
 ## ▷ Reading
 
