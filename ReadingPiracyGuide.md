@@ -373,9 +373,10 @@
 * [UFO Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ufo_books) - *UFOs*
 * [Archive of Our Own](https://archiveofourown.org/) - *Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)*
 * [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - *Books / Fantasy / TTRPG / [Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_trove_archives)*
-* [Choisey](http://choisey.free.fr/) or [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - *TTRPG Rulebooks*
+* [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - *TTRPG Rulebooks*
 * [Cinema EBooks Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cinema_ebooks_collection) - *Cinema Books*
 * [SimplyScripts](https://www.simplyscripts.com/), [MZP](http://www.mzp-tv.co.uk/movie_scripts/) or [SubsLikeScript](https://subslikescript.com/) - *Movie / TV Scripts* 
+* [Wisdom of Chopra](http://www.wisdomofchopra.com/) - *Random Quotes*
 * [The Anarchist Library](http://theanarchistlibrary.org/special/index) - *Anarchism*
 * [Anarcho-Copy](https://anarcho-copy.org/) - *Anarchism*
 * [Archive.Leftove.rs](https://archive.leftove.rs/) - *Protest Documents*
@@ -717,7 +718,7 @@
 * [NinjaWords](http://ninjawords.com/ ) - *Dictionary* 
 * [Wordnik](https://www.wordnik.com/) - *Dictionary*
 * [Cambridge Dictionary](https://dictionary.cambridge.org/) - *Dictionary*
-* [OneLook](https://www.onelook.com/) - *Dictionary*
+* [Wiktionary](https://www.wiktionary.org/) - *Dictionary*
 * [Webopedia](https://www.webopedia.com/) - *Tech Dictionary*
 * [Fandom](https://www.fandom.com/) - *Fan Wikis* 
 * [WordReference](https://www.wordreference.com/) or [Reverso](https://reverso.net/) - *Translation Dictionary* 
@@ -727,7 +728,6 @@
 * [Encyclopedia](https://www.encyclopedia.com/) - *Encyclopedia*
 * [Conze.pt](https://conze.pt/ ) - *Encyclopedia*
 * [Refdesk](https://www.refdesk.com/factency.html) - *Encyclopedias*
-* [20 Encyclopedia Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_20_encyclopedia_books) - *Encyclopedias*
 * [Abbreviations](https://www.abbreviations.com/) - *Abbreviations* 
 * [Chat Words Dictionary](https://chatworddictionary.com/) - *Chat Abbreviations*
 * [lengusa](https://lengusa.com/) or [Fraze.it](https://fraze.it/) - *Sentence Search*
@@ -1107,6 +1107,7 @@
 * [DC Superhero Era Timeline](https://i.imgur.com/Icojkx1.jpg) / [2](https://i.imgur.com/drSEr0j.jpg)
 * [Mangaki](https://mangaki.fr/) - *Manga Recommendations*
 * [Anime-Planet](https://anime-planet.com/) - *Manga* 
+* [kenmei](https://www.kenmei.co/) - *Manga*
 * [All Anime](https://allanime.site/) - *Manga*
 * [Manga Codex](https://mangacodex.com/) - *Manga Infographics & Sales Stats*
 * [vndb](https://vndb.org/) - *Visual Novel*  
@@ -1212,6 +1213,7 @@
 * [SmartStich](https://github.com/MechTechnology/SmartStitch) - *Stitch Together Webtoons*
 * [FanFicFare](https://github.com/JimmXinu/FanFicFare) - *Generate Ebooks from Stories / Fanfiction*
 * [HowLongToRead](https://howlongtoread.com/) - *Average Book Reading Times*
+* [Audiobook Speed Calculator](https://asc.pixelofink.com/) - *Average Audiobook Listening Times*
 * [xMinutesToRead](https://xminutestoread.xyz/) - *Article Time to Read Estimate*
 * [RemoveWatermark](https://github.com/ShadonSniper/RemoveWatermark) - *IT Ebook Watermark Remover*
 * [DeDRM_tools](https://github.com/noDRM/DeDRM_tools) / [2](https://github.com/apprenticeharper/DeDRM_tools) or [Remove Ebook DRM](https://apprenticealf.wordpress.com/) - *Remove Ebook DRM*
