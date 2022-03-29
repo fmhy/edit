@@ -155,6 +155,7 @@
 * [Read File Online](http://www.readfileonline.com/) - *Online Large Text File Viewer*
 * [Office Search](http://www.enselsoftware.com/product/OfficeSearch.html) - *Multi-File Text Search*
 * [ConvertText](https://converttext.io/) - *Text Converter*
+* [Text File Splitter](https://textfilesplitter.com/) - *Text File Splitter*
 * [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - *Rephrase / Paraphrase Text* 
 * [Linguix](https://linguix.com/) or [TextCleanr](https://www.textcleanr.com/) - *Writing Assistant*
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - *Detect Plagiarized Content*
@@ -983,7 +984,7 @@
 * [ShadyURL](http://www.shadyurl.com/) - *Make Suspicious Looking URLs* - `5z8.info/warez_zozu`
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - *Telegram Link Shortener Bot* 
 * [suri](https://github.com/jstayton/suri) or [mpngin](https://github.com/thewalkingtoast/mpngin) - *Self-Deployed Link Shortener*
-* [shrtcode](https://shrtco.de/tools/) - *Multiple URL Tools*
+* [shrtcode](https://shrtco.de/tools/) or [cuttly](https://cutt.ly/) - *Multiple URL Tools*
 * [Open Bulk URL](https://openbulkurl.com/), [RapidLinkr](https://rapidlinkr.com/) or [OpenAllURLs](https://www.openallurls.com/) - *URL Bulk Opener*
 * [ListURLs](https://listurls.com/) - *URL List Generator*
 * [CheckServer](https://check-host.net/), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - *Site Monitoring Tools*
@@ -1590,7 +1591,7 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - *Disk Benchmarking Tool*
 * [Macrium Reflect](https://www.macrium.com/reflectfree) - *System Benchmarking*
 * [poclmembench](https://github.com/kruzer/poclmembench) - *Memory Benchmark Test*
-* [Netdata](https://www.netdata.cloud/), [bottom](https://github.com/ClementTsang/bottom), [btop](https://github.com/aristocratos/btop) or [WinBar](http://www.winbar.nl/) - *System Monitor*
+* [Netdata](https://www.netdata.cloud/), [bottom](https://github.com/ClementTsang/bottom), [OpenHardwareMonitor](https://openhardwaremonitor.org/) / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor), [btop](https://github.com/aristocratos/btop) or [WinBar](http://www.winbar.nl/) - *System Monitor*
 * [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - *Windows System Utilities / [Suite](https://www.microsoft.com/EN-US/p/app/9P7KNL5RWT25)* 
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](http://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - *Process Monitor*
 * [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) - *Process Killer*
