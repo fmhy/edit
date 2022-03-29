@@ -469,6 +469,7 @@
 * [Bouncing DVD Logo](https://www.bouncingdvdlogo.com/) - *DVD Logo Screen* 
 * [Star Wars Intro Creator](https://starwarsintrocreator.kassellabs.io/) - *Create Star Wars intros* 
 * [Waifu Labs](https://waifulabs.com/) - *Meet your Waifu* 
+* [Satania](https://satania.moe/) - *Satania Waifu / [GitHub](https://github.com/Pizzacus/satania.moe)*
 * [Pink Trombone](https://dood.al/pinktrombone/) - *Human Pitch Generator*
 * [Purrli](https://purrli.com/) - *Cat Purr Generator* 
 * [BumpWorthy](https://www.bumpworthy.com/) - *Adult Swim Bumps* 
@@ -572,6 +573,7 @@
 * [Riot Archive](https://riotarchive.com/) - *Riot / Protest Videos*
 * [Corona Hunt](https://coronahunt.app/) - *Coronavirus Stats*
 * [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Ars Technica](https://arstechnica.com/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/), [Toms Hardware](https://www.tomshardware.com/) or [Slashdot](https://slashdot.org/) - *Tech News*
+* [Internet Society](https://pulse.internetsociety.org/blog) - *Internet Infrastructure News*
 * [Liliputing](https://liliputing.com/) - *Linux Mobile News*
 * [Latest Privacy](https://latestprivacy.org/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - *Privacy News*
 * [Talos Blog](https://blog.talosintelligence.com/) - *CyberSecurity News*
@@ -982,6 +984,7 @@
 * [Picas](https://picas.vercel.app/) - *Google Font Logo Generator*
 * [FontJoy](https://fontjoy.com/) - *Font Pairings Generator*
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/), [WhatFont](http://www.chengyinliu.com/whatfont.html) or [What Font Is](https://www.whatfontis.com/) - *Font Identification*
+* [Typerip](http://badnoise.net/TypeRip/) - *Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)*
 * [Nerd Fonts](https://www.nerdfonts.com/) - *Iconic Font Aggregator*
 * [FontEdit](https://github.com/ayoy/fontedit), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/) or [Font Forge](https://fontforge.org/en-US/) - *Font Editor* 
 * [Transfonter](https://transfonter.org/) - *Font Converter*
