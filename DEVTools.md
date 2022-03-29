@@ -922,7 +922,7 @@
 
 ## ▷ Cloud IDEs / Collab
 
-* **[goormIDE](https://ide.goorm.io/)**, [Codeanywhere](https://codeanywhere.com/), [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [Anyfiddle](https://www.anyfiddle.com/) or [Glitch](https://glitch.com/) - *Cloud IDE / [Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) / [Themes](https://oslo-vsc.netlify.app/)* 
+* **[goormIDE](https://ide.goorm.io/)**, [Codeanywhere](https://codeanywhere.com/), [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/) or [Glitch](https://glitch.com/) - *Cloud IDE / [Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) / [Themes](https://oslo-vsc.netlify.app/)* 
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - *Text / Code Collaboration Tools*
 * [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - *Cloud Platform Index*
 * [CodeSandbox](https://codesandbox.io/), [VSCodium](https://vscodium.com/), [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VSCode* 
