@@ -444,7 +444,7 @@
 * [Cable](https://vb-audio.com/Cable/) - *Virtual Audio Cable*
 * [Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Download Album Art*
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - *Identify Playing Songs*
-* [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/) - *Soundboard Program*
+* [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Soundux](https://soundux.rocks/) / [GitHub](https://github.com/Soundux/Soundux) or [Resanance](https://resanance.com/) - *Soundboard Program*
 * [MyInstants](https://www.myinstants.com/index/us/), [InternetsFun](https://instantsfun.es/) or [Soundboard.com](https://www.soundboard.com/) - *Online Soundboard*
 * [Soundpad](https://www.leppsoft.com/soundpad/) - *Voicechat Soundboard*
 * [AudioRelay](https://audiorelay.net/) - *Stream PC Audio to Phone* 
