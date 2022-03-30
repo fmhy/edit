@@ -15,7 +15,6 @@
 * **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
 * **[Audiobook Bay](http://audiobookbay.ws/)**, [2](http://audiobookbay.nl/), [3](http://www.audiobookbayabb.com/) - *Torrents / [Extension](https://addons.mozilla.org/en-US/firefox/addon/audiobookbay-magnet-assistant/)*
 * **[Tokybook](https://tokybook.com/)** - *Listen Online*
-* **[Zero Avenue](https://thezeroavenue.com/)** - *Listen Online*
 * **[Top 1000 Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_top_1000_audiobooks)** - *Audiobooks / Drive*
 * [Audiobook Gdrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_audiobook_gdrive) - *Audiobooks / Drive* 
 * [Audiobook Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_audiobook_megadrive) - *Audiobooks / Drive*
@@ -1028,7 +1027,8 @@
 * [FreePDFMagazine](https://www.freepdfmagazine.com/)
 * [freemagazines](https://freemagazines.top/)
 * [FreeMagazinesPDF](https://freemagazinepdf.com/)
-* [Calameo](https://calameo.com/) - *Magazines*
+* [Calameo](https://calameo.com/) 
+* [MagazinesBB](https://magazinesbb.com/)
 * [PDF Magazines Archive](https://pdf-magazines-archive.com/) 
 * [Magazine Rack](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_magazine_rack)
 * [Computer Magazines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_computer_magazines)
