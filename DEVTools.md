@@ -922,24 +922,19 @@
 
 ## ▷ Cloud IDEs / Collab
 
-* **[goormIDE](https://ide.goorm.io/)**, [Codeanywhere](https://codeanywhere.com/), [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/) or [Glitch](https://glitch.com/) - *Cloud IDE / [Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) / [Themes](https://oslo-vsc.netlify.app/)* 
+* **[goormIDE](https://ide.goorm.io/)**, [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/) or [Glitch](https://glitch.com/) - *Cloud IDE* 
+* **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VSCode*
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - *Text / Code Collaboration Tools*
-* [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - *Cloud Platform Index*
-* [CodeSandbox](https://codesandbox.io/), [VSCodium](https://vscodium.com/), [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VSCode* 
+* [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - *Cloud Platform Index* 
 * [vscode.dev](https://vscode.dev/) - *VSCode in Browser / [Insider Build](https://insiders.vscode.dev/)*
-* [Open VSX Registry](https://open-vsx.org/) - *VSCode Editor Extensions*
-* [VSCodeThemes](https://vscodethemes.com/) - *VSCode Themes*
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - *Colorize VSCode Brackets*
 * [Discord-Tools](https://github.com/Darkempire78/Discord-Tools) - *VSCode Discord Extension*
 * [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) - *Integrate Twitch Chat in VSCode*
 * [Openshift](https://che.openshift.io/) - *Cloud IDE / Eclipse Che* 
 * [TerraForm](https://www.terraform.io/) - *Cloud IDE*
 * [Atheos](https://www.atheos.io/) - *Cloud IDE / [GitHub](https://github.com/Atheos/Atheos)*
-* [Apache NetBeans](https://netbeans.apache.org/) - *Cloud IDE*
 * [m3o](https://m3o.com/) - *Cloud IDE / [GitHub](https://github.com/m3o/m3o)*
-* [Arduino](https://www.arduino.cc/) - *Cloud IDE*
-* [replit](https://replit.com/) or [Gitpod](https://gitpod.io/) - *Browser Based IDE*
-* [KDevelop](https://www.kdevelop.org/) - *Cross Platform IDE*
+* [Arduino](https://cloud.arduino.cc/) - *Cloud IDE for arduino*
 * [bloop](https://bloop.ai/) - *IDE AI Suggestion Extension*
 * [glot.io](https://glot.io/) - *Pastebin with Runnable Snippets, API & Compiler* 
 * [Mystb.in](https://mystb.in/) - *Code Pastebin*
