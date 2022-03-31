@@ -923,9 +923,9 @@
 ## ▷ Cloud IDEs / Collab
 
 * **[goormIDE](https://ide.goorm.io/)**, [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/) or [Glitch](https://glitch.com/) - *Cloud IDE* 
+* **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VSCode*
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - *Text / Code Collaboration Tools*
-* [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - *Cloud Platform Index*
-* [CodeSandbox](https://codesandbox.io/), [VSCodium](https://vscodium.com/), [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VSCode* 
+* [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - *Cloud Platform Index* 
 * [vscode.dev](https://vscode.dev/) - *VSCode in Browser / [Insider Build](https://insiders.vscode.dev/)*
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - *Colorize VSCode Brackets*
 * [Discord-Tools](https://github.com/Darkempire78/Discord-Tools) - *VSCode Discord Extension*
