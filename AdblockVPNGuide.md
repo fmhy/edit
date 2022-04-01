@@ -14,6 +14,7 @@
 * **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/), [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) or [AmIUnique](https://amiunique.org/fp) - *Adblocking Test*
 * [Simple Opt Out](https://simpleoptout.com/) - *Turn off Targeted Ads*
 * [hBlock](https://github.com/hectorm/hblock), [someonewhocares](https://someonewhocares.org/hosts/), [winhelp2002](https://winhelp2002.mvps.org/hosts.htm) or [Hosts](https://github.com/StevenBlack/hosts)   - *Block Ads with Host Files* 
+* [PSTube](https://github.com/prateekmedia/pstube) - *Ad Free YouTube Client*
 
 ***
 
@@ -60,8 +61,10 @@
 * [NextDNS](https://nextdns.io) - *DNS Adblocking / [Enhancement](https://greasyfork.org/en/scripts/408934-nx-enhanced) / [Leak Warning](https://redd.it/jt28e8) / [Extension](https://chrome.google.com/webstore/detail/nx-enhanced/ljimbekophocjbnphldoaidgkkaojcfo)*
 * [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/), [FreeMyIP](https://freemyip.com/) or [Desec](https://desec.io/) - *Dynamic DNS Service*
 * [Encrypted DNS Resolvers](https://www.privacytools.io/providers/dns/)
+* [DNS Resolver Privacy-First](http://doh.tiar.app/) - *DNS Resolver*
 * [ControlD](https://controld.com/) or [Hetzner](https://www.hetzner.com/dns-console?country=us) - *DNS Manager*
 * [Spamhaus](https://www.spamhaus.org/) or [1Hosts](https://o0.pages.dev/) / [GitHub](https://github.com/badmojr/1Hosts) - *DNS Blocklists*
+* [block.js](https://gist.github.com/rtfpessoa/7fdd3d4121ee4acafe56e8425154888a) - *DNS YouTube Blocklists*
 * [Phishing Army](https://phishing.army/) - *DNS Phishing Blocklist*
 * [BIND](https://gitlab.isc.org/isc-projects/bind9) - *Portable DNS Protocol*
 * [Maza](https://maza-ad-blocking.andros.dev/) - *Local DNS Adblocking* 
@@ -182,7 +185,8 @@
 * [Cyber Talent Kids](https://cybertalentskids.com/) - *Learn About Cybersecurity*
 * [The White Circle](https://twc1rcle.com/) - *Cybersecurity Community*
 * [Att&ck](https://attack.mitre.org/) - *Cybersecurity Defense Database*
-* [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - *Anti-Censorship tool index* 
+* [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - *Anti-Censorship Tool Index* 
+* [Your Freedom](https://www.your-freedom.net/) or [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) - *Anti-Censorship Tool*
 * [Element](https://element.io/) / [Themes](https://github.com/aaronraimist/element-themes), [qTox](https://qtox.github.io/), [Utopia](https://u.is/en/), [linphone](https://www.linphone.org/), [Jami](https://jami.net/), [Tox](https://tox.chat/), [Bitmask](https://bitmask.net/) or [Wickr](https://wickr.com/) - *Encrypted Messaging / Video Calls* 
 * [Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - *Discord Message Encryption*
@@ -236,6 +240,7 @@
 * [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion), [discord-delete](https://github.com/adversarialtools/discord-delete), [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) or [QuickDeleteMessages](https://u.nu/9i9jk) - *Delete Discord Messages / [Warning](https://i.imgur.com/Kt8G430.png)* 
 * [Spyware Watchdog](https://spyware.neocities.org/) - *Spyware Program Index*
 * [Blacklight](https://themarkup.org/series/blacklight) - *Website Privacy Inspector*
+* [GreyNoise](https://www.greynoise.io/) - *Internet Noise Analysis*
 * [Terms of Service; Didn't Read](https://tosdr.org/) - *TLDR TOS*
 * [V2Ray](https://v2ray.com/en/), [V2Fly](https://www.v2fly.org/), [V2RayN](https://github.com/freefq/free) or [v2ray-core](https://github.com/v2fly/v2ray-core) - *Build your own Privacy Network / [GUI](https://qv2ray.net/), [v2rayN](https://github.com/2dust/v2rayN)* 
 * [Scout](https://www.scout.tel/phone-number-lookup) - *Phone Number Lookup / Safety Check* 
@@ -332,6 +337,7 @@
 * **[alternative-front-ends](https://github.com/mendel5/alternative-front-ends)**, [Farside](https://farside.link/) or [alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - *Frontend Index*
 * **[PrivacySpy](https://privacyspy.org/)** - *Grades a Sites Privacy Policies* 
 * **[ACCOUNTKILLER](https://www.accountkiller.com/)** or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - *Find / Terminate Old Accounts* 
+* [Awesome Private Browsing](https://github.com/onsitejs/Awesome-Private-Browsing) - *Browser Privacy Index*
 * [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - *Web Security Resource Index*
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - *Password Strength Checker*
 * [h8Mail](http://github.com/khast3x/h8mail) - *Multiple Data Breach Checks*
@@ -509,6 +515,7 @@
 * [HideMe](https://hide.me/) - *Free VPN*
 * [Calyx VPN](https://calyx.net/) - *Free VPN*
 * [Leap VPN](https://leap.se/) - *Free VPN*
+* [PrivadoVPN](https://privadovpn.com/) - *Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)*
 * [Clash](https://github.com/Fndroid/clash_for_windows_pkg) - *Free VPN / [Profiles](https://rentry.co/2q3rn)*
 * [Portals](https://www.portals.network/) - *dVPN*
 * [FreePN](https://www.freepn.org/) - *Free Open Source P2P VPN* 
@@ -549,7 +556,6 @@
 * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - *Proxy Manager*
 * [FoxyProxy](https://getfoxyproxy.org/) or [Snowflake](https://snowflake.torproject.org/) - *Proxy Browser Extension*
 * [Fri-Gate](https://fri-gate.org/) - *Advanced Proxy Settings Addon*  
-* [FreeBrowser ](https://freebrowser.org/) - *Internet Censorship Circumvention / [Wiki](https://github.com/greatfire/wiki)*
 * [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - *Limit Proxy Usage by Private Windows* 
 * [Hitch](https://hitch-tls.org/) - *SSL / TLS Proxy*
 * [SSHKit](https://sshkit.com/), [FlySSH](https://www.flyssh.com/), [SSHSSL](https://www.sshssl.com/), [jagoanssh](https://www.jagoanssh.com/) or [FastSSH](https://www.fastssh.com/) - *SSH & SSL Servers*
