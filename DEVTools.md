@@ -931,7 +931,7 @@
 
 ## ▷ Cloud IDEs / Collab
 
-* **[goormIDE](https://ide.goorm.io/)**, [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) - *Cloud IDE / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/) / [GitHub](https://github.com/m3o/m3o) or [Glitch](https://glitch.com/) - *Cloud IDE* 
+* **[goormIDE](https://ide.goorm.io/)**, [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) - *Cloud IDE / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/) / [GitHub](https://github.com/m3o/m3o) or [Glitch](https://glitch.com/)* 
 * **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VSCode* 
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - *Text / Code Collaboration Tools*
 * [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - *Cloud Platform Index*
@@ -952,6 +952,6 @@
 
 ## ▷ IDEs / Code Editors
 
-* **[VSCodium](https://vscodium.com/)** *[Open VSX Registry](https://open-vsx.org/), [VSCodeThemes](https://vscodethemes.com/), [Awesome VSCode Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/),  [VSCode Theme Generator](https://oslo-vsc.netlify.app/), [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2), [Discord-Tools](https://github.com/Darkempire78/Discord-Tools), [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter)*
-* [Apache NetBeans](https://netbeans.apache.org/)
+* **[VSCodium](https://vscodium.com/)** - *Code Editor / [Open VSX Registry](https://open-vsx.org/) / [VSCodeThemes](https://vscodethemes.com/) / [Awesome VSCode Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) / [VSCode Theme Generator](https://oslo-vsc.netlify.app/) / [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) / [Discord-Tools](https://github.com/Darkempire78/Discord-Tools) / [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter)*  
+* [Apache NetBeans](https://netbeans.apache.org/) - *Cross Platform IDE*  
 * [KDevelop](https://www.kdevelop.org/) - *Cross Platform IDE*
