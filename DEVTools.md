@@ -931,20 +931,13 @@
 
 ## ▷ Cloud IDEs / Collab
 
-* **[goormIDE](https://ide.goorm.io/)**, [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) - *Cloud IDE / [GitHub](https://github.com/Atheos/Atheos), [Apache NetBeans](https://netbeans.apache.org/), [m3o](https://m3o.com/) / [GitHub](https://github.com/m3o/m3o) or [Glitch](https://glitch.com/) - *Cloud IDE / [Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) / [Themes](https://oslo-vsc.netlify.app/)* 
-* **[CodeSandbox](https://codesandbox.io/)**, [VSCodium](https://vscodium.com/), [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VSCode* 
+* **[goormIDE](https://ide.goorm.io/)**, [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) - *Cloud IDE / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/) / [GitHub](https://github.com/m3o/m3o) or [Glitch](https://glitch.com/) - *Cloud IDE* 
+* **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VSCode* 
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - *Text / Code Collaboration Tools*
 * [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - *Cloud Platform Index*
 * [vscode.dev](https://vscode.dev/) - *VSCode in Browser / [Insider Build](https://insiders.vscode.dev/)*
-* [Open VSX Registry](https://open-vsx.org/) - *VSCode Editor Extensions*
-* [VSCodeThemes](https://vscodethemes.com/) - *VSCode Themes*
-* [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - *Colorize VSCode Brackets*
-* [Discord-Tools](https://github.com/Darkempire78/Discord-Tools) - *VSCode Discord Extension*
-* [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) - *Integrate Twitch Chat in VSCode*
 * [Openshift](https://che.openshift.io/) - *Cloud IDE / Eclipse Che* 
 * [Arduino](https://cloud.arduino.cc/) - *Cloud IDE for Arduino*
-* [replit](https://replit.com/) or [Gitpod](https://gitpod.io/) - *Browser Based IDE*
-* [KDevelop](https://www.kdevelop.org/) - *Cross Platform IDE*
 * [bloop](https://bloop.ai/) - *IDE AI Suggestion Extension*
 * [glot.io](https://glot.io/) - *Pastebin with Runnable Snippets, API & Compiler* 
 * [Mystb.in](https://mystb.in/) - *Code Pastebin*
@@ -954,3 +947,11 @@
 * [CodePen](https://codepen.io/), [Web Maker](https://webmaker.app/ ) or [Liveweave](https://liveweave.com/) - *Code Sandbox* 
 * [tio.run](https://tio.run/) - *Programming Language Interpreters* 
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - *Online Python Editor & Tester*
+
+***
+
+## ▷ IDEs / Code Editors
+
+* **[VSCodium](https://vscodium.com/)** *[Open VSX Registry](https://open-vsx.org/), [VSCodeThemes](https://vscodethemes.com/), [Awesome VSCode Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/),  [VSCode Theme Generator](https://oslo-vsc.netlify.app/), [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2), [Discord-Tools](https://github.com/Darkempire78/Discord-Tools), [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter)*
+* [Apache NetBeans](https://netbeans.apache.org/)
+* [KDevelop](https://www.kdevelop.org/) - *Cross Platform IDE*
