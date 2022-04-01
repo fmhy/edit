@@ -82,6 +82,7 @@
 * [Unciv](https://github.com/yairm210/Unciv) - *Civ V Remake*
 * [London 2038](https://london2038.com/) - *London 2038 Multiplayer Revival Project*
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - *Space Cadet Pinball Decompilation*
+* [Visual Pinball](https://github.com/vpinball/vpinball) - *Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)*
 * [PokemonRevolution](https://pokemonrevolution.net/) - *Pokemon MMO*
 * [Clone Hero](https://clonehero.net/) - *Guitar Hero Clone / [Setlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_setlists), [2](https://customsongscentral.com/)*
 * [GrimReaper's Scene ISO Collection](https://archive.org/details/@waffess) - *ISO Collection*
@@ -149,6 +150,7 @@
 * [EasyRoms](https://easyroms.com/) - *Emulators / Roms* 
 * [ROMSPURE](https://romspure.cc/) - *Emulators / Roms*
 * [ROMs Games](https://romsgames.net/) - *Emulators / Roms*
+* [CoolRoms](https://coolrom.com.au/) - *Emulators / Roms / Use ["Alt DL Link"](https://i.imgur.com/KHfeWNX.png)*
 * [SoftCobra](https://www.softcobra.com/) - *Roms / [Block Overlay](https://github.com/NicolaeNMV/BehindTheOverlay)*
 * [All Xbox Game](https://downloadgamexbox.com/) - *Roms*
 * [RomToHome](https://romtohome.com/) - *Roms*
@@ -230,6 +232,7 @@
 * [3DS Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - *Roms / 3DS*
 * [SNES Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_snes_roms) - *Roms / SNES / PW: skwbr*
 * [NES Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nes_roms) - *Roms / NES*
+* [Game & Watch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_game_.26amp.3B_watch_roms) - *Roms / Game & Watch*
 * [Sega Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sega_roms) - *Roms / Sega*
 * [Dreamcast Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dreamcast_roms) - *Roms / Dreamcast*
 * [Sega Saturn Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sega_saturn_roms) - *Roms / Sega Saturn*
@@ -602,6 +605,7 @@
 * [Sokoban](https://suppilulemur.neocities.org/) - *Box Moving Puzzle Game / Zelda-Themed*
 * [BestCrosswords](https://www.bestcrosswords.com/), [USAToday](https://games.usatoday.com/games/uclick-crossword), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - *Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)*
 * [Regex Cross­word](https://regexcrossword.com/) - *Regex Cross­words*
+* [Wordle Unlimited](https://wordleunlimited.org/) - *Wordle*
 * [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) - *Wordle Like Games*
 * [Game for the Brain](https://www.gamesforthebrain.com/) - *Puzzles & Quizzes*
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - *Online Jigsaw Puzzles*
