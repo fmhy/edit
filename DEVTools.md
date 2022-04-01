@@ -952,6 +952,7 @@
 
 ## ▷ IDEs / Code Editors
 
-* **[VSCodium](https://vscodium.com/)** - *Code Editor / [Open VSX Registry](https://open-vsx.org/) / [VSCodeThemes](https://vscodethemes.com/) / [Awesome VSCode Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) / [VSCode Theme Generator](https://oslo-vsc.netlify.app/) / [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) / [Discord-Tools](https://github.com/Darkempire78/Discord-Tools) / [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter)*  
+* **[VSCodium](https://vscodium.com/)** - *Code Editor*  
+* VSCode Tools - [Open VSX Registry](https://open-vsx.org/) / [VSCodeThemes](https://vscodethemes.com/) / [Awesome VSCode Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) / [VSCode Theme Generator](https://oslo-vsc.netlify.app/) / [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) / [Discord-Tools](https://github.com/Darkempire78/Discord-Tools) / [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter)
 * [Apache NetBeans](https://netbeans.apache.org/) - *Cross Platform IDE*  
 * [KDevelop](https://www.kdevelop.org/) - *Cross Platform IDE*
