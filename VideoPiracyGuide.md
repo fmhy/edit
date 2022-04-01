@@ -14,7 +14,7 @@
 * **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** or [Crocovid](http://crocovid.com/) - *Multi-Site Search*
 * **[How-To Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - *Find Obscure Films*
 * [Video Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_search_sites) - *Search Video Sites / [CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)*
-* [Stream IMDb](https://github.com/4L00/TemperMonkey-Scripts/) - *Add Stream Search Buttons to IMDb*
+* [Stream IMDb](https://github.com/4L00/TemperMonkey-Scripts/) or [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) - *Add Stream Search Buttons to IMDb*
 
 ***
 
@@ -29,6 +29,7 @@
 * **[Soap2Day](https://soapgate.org/)** - *Movies / TV*
 * [C1NE](https://c1ne.co/) - *Movies / TV* 
 * [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
+* [Oligopoly](https://olgply.com/) - *Movies / TV*
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - *Movies / TV / Anime*
 * [NetU](https://netu.io/view_page.php?pid=4) - *Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)*
 * [Shoow.in](https://shoow.in/) - *Movies / TV / Anime / [Unlock HD](https://pastebin.com/hxdq1uFi)*
@@ -51,7 +52,7 @@
 * [FlixZone](https://flixzone.ga/) - *Movies / TV*
 * [MoviesForFree](https://movieforfree.co/) - *Movies / TV*
 * [AZMovies](https://azm.to) - *Movies*
-* [Oligopoly](https://olgply.com/) - *Movies / TV*
+* [KissKH](https://kisskh.me/Explore?type=4) - *Movies / TV / Anime*
 * [HDMovieBox](https://hdmoviebox.org/) - *Movies*
 * [Moviehdkh](https://www.moviehdkh.com/) - *Movies* 
 * [Tainio-Mania](https://tainio-mania.online/) - *Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)* 
@@ -277,7 +278,6 @@
 * **[AniMixPlay](https://animixplay.to/)** - *Sub / Dub / [Discord](https://discord.gg/YyQ9cpS)* 
 * **[AnimeKisa](https://animekisa.tv/)** - *Sub / Dub*
 * [AnimePahe](https://animepahe.com/) - *Sub / [Downloader](https://github.com/charathmathew/animepahe_downloader), [2](https://github.com/ed-archer/animepahe-dlr), [3](https://github.com/notmarek/pyheanime), [4](https://github.com/KevCui/animepahe-dl)*
-* [AniKuru](https://anikuru.me/) - *Sub / Dub*
 * [AnimehHub](https://animehub.ac/) - *Sub / Dub*
 * [Animesaga](https://animesa.ga/) - *Sub / Dub*
 * [11Anime](https://11anime.fr/) - *Sub / Dub*
@@ -291,7 +291,7 @@
 * [Genoanime](https://genoanime.com/) - *Sub / Dub* 
 * [Just Dubs](http://justdubs.org/) - *Dub*
 * [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - *Sub*
-* [GoGoAnime](https://gogoanime.pe/), [2](https://streamani.net/), [3](https://www2.gogoanime.cm/), [4](https://animekeyo.com/) - *Sub / Dub / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime)*
+* [GoGoAnime](https://gogoanime.pe/), [2](https://streamani.net/), [3](https://www2.gogoanime.cm/), [4](https://animekeyo.com/), [5](https://gogoanime.film/) - *Sub / Dub / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime)*
 * [AnimeShow](https://www2.animeshow.tv/) - *Sub*
 * [AnimeNana](https://animenana.com/) - *Sub*
 * [AnimeRush](https://www.animerush.tv/) - *Sub / Dub*
@@ -553,6 +553,7 @@
 * [cric7.net ](http://t20.cric7.net/) - *Cricket*
 * [CricStream](https://cricstream.me/) - *Cricket*
 * [jiotv.cf](https://jiotv.cf/) - *Cricket*
+* [LiveCricket.is](https://mob.livecricket.is/) - *Cricket*
 * [Tennis Streams](https://tennisstreams.me/) - *Tennis*
 * [Rugby Streams](https://rugbystreams.me/) - *Rugby*
 * [Golf Streams](https://golfstreams.me/) - *Golf*
@@ -741,7 +742,6 @@
 * **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
 * **[AnimeKaizoku](https://animekaizoku.com/)** - *Sub / Dub / [Dual Audio](https://github.com/AnimeKaizoku/KaizokuPatcher)*
 * **[hi10anime](https://hi10anime.com/)** - *Sub*
-* **[AnimeBatchDDL](https://animebatchddl.wordpress.com/)** - *Sub / Dub*
 * **[Judas Discord](https://discord.gg/vbJ7RTn)** - *Sub / Dub / [TeamDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_judas_teamdrive)* 
 * **[15TB Anime Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_15tb_anime_collection)** - *Sub / Dub*
 * **[Erai-Raws](https://www.erai-raws.info/)** - *Sub / [Discord](https://discord.gg/2PfWaar)*
@@ -751,7 +751,6 @@
 * [MiniEncodes](https://miniencodes.org/), [2](https://miniencodes.netlify.app/) - *Sub / [Discord](https://discordapp.com/invite/yuD8X9p)*
 * [AnimeOut](https://www.animeout.xyz/) - *Sub*
 * [Anime2Enjoy](https://www.anime2enjoy.com/) - *Sub / [Discord](https://discord.gg/PxSmumS)* 
-* [Animekayo](https://animekayo.com/) - *Sub / Dub*
 * [Soulreaperzone](https://www.soulreaperzone.com/) - *Sub / Dub*
 * [AniDL](https://anidl.org/) - *Sub / Dub*
 * [NoobSubs](https://noobsubs.com/) - *Sub / Dub / [Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_noobsubs_drives)*
@@ -789,6 +788,7 @@
 * [Anime Time Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime_time_drive) - *Sub / Dub* 
 * [nibl](https://nibl.co.uk/) - *Sub / Dub / Anime Downloads / XDCC*
 * [Bubble' Upscale Project](https://discord.gg/7kqqtJ7ArW) - *Upscaled Anime / Requests*
+* [CompSquad](https://sites.google.com/view/compilationlist/home) - *Anime Compilations*
 * [Anime Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anime_download_apps) - *Anime Downloading Tools*
 * [manyame](https://github.com/asakura42/manyame/) - *IRC Anime Download Script* 
 * [Anime DL](https://archive.org/details/animedl4.0_202004) - *Stream & Download Anime in VLC*
