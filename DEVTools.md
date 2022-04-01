@@ -75,6 +75,7 @@
 * [Ultimate Programming](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE) - *Programming Tutorials*
 * [FCS](https://freecoursesite.com/) - *Programing Tutorials*
 * [project-based-learning](https://github.com/practical-tutorials/project-based-learning) - *Programming Tutorials*
+* [Javatpoint](https://www.javatpoint.com/) - *Programming Tutorials*
 * [w3schools](https://www.w3schools.com/) - *Programing Tutorials*
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - *Programming Courses*
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - *Programming Courses*
@@ -117,6 +118,7 @@
 * [ReFrF](https://refrf.dev/) or [Regex.info](http://regex.info/) - *Learn Regex*
 * [FlexBoxFroggy](https://flexboxfroggy.com/) - *CSS Learning Game*
 * [CSS Diner](https://flukeout.github.io/) - *Interactive CSS Learning*
+* [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - *CSS Demos*
 * [Codecademy](https://www.codecademy.com/) - *Coding Lessons* 
 * [CodinGame](https://www.codingame.com/) - *Games to Practice Coding / Programming* 
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - *Programming Courses*
@@ -185,6 +187,7 @@
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) - *Systadmin Resources*
 * [Awesome DataScience](https://github.com/academic/awesome-datascience) or [Best Data Science Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources) - *Data Science Resources*
 * [SuperNova](https://www.supernova.io/) - *Design System Manager*
+* [Eco Design System](https://www.eosdesignsystem.com/) or [Interplay](https://interplayapp.com/) - *Product Design Tool*
 * [Awesome Bots](https://github.com/DopplerHQ/awesome-bots) - *Developer Bot Index*
 * [Student Developer Pack](https://education.github.com/pack) - *Free Developer Tools for Students* 
 * [Libera Chat](https://libera.chat/) - *IRC Network for Project Collaboration*
@@ -204,12 +207,14 @@
 * [HTML Dog](https://htmldog.com/) - *Front End Tutorials & Examples*
 * [Responsively](https://responsively.app/) - *Responsive Dev Design Tool*
 * [the component gallery](https://component.gallery/) - *Design Components Gallery*
+* [Media Chrome](https://www.media-chrome.org/) - *Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)*
 * [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - *README Template* 
 * [codex-readme](https://github.com/tom-doerr/codex-readme) - *Generate README with AI*
 * [ReDoc](https://github.com/Redocly/redoc) - *Generate API Documentation*
 * [Changie](https://changie.dev/) - *Automated Changelog / [GitHub](https://github.com/miniscruff/changie)*
 * [ChooseALicense](https://choosealicense.com/) - *List of Open Source License's & Help Choosing Them* 
 * [MKLicense](https://github.com/cezaraugusto/mklicense) - *License Generation CLI*
+* [Know the License](https://knowthelicense.codescoring.com/) - *Detect Open Source Licenses*
 * [Console](https://console.substack.com/) - *Subscribe to a List of Open Source Projects*
 * [RapidAPI](https://rapidapi.com/) - *API Platform*
 * [Mockable](https://www.mockable.io/) - *Mock APIs*
@@ -287,6 +292,7 @@
 * [Uncensorable Publishing](https://uncensorablepublishing.com/) - *How-to Create Uncensorable Sites*
 * [Emanote](https://emanote.srid.ca/) - *Create Sites from Plain-Text Notes / [GitHub](https://github.com/srid/emanote)*
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
+* [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - *DNS Benchmark*
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/) or [CSSAuthor](https://cssauthor.com/) - *Site Development Tools*
 * [Sympli](https://sympli.io/), [AnimaApp](https://www.animaapp.com/) or [ZeroHeight](https://www.zeroheight.com/) - *Developement Collaboration Tool*
 * [Flux](https://www.runonflux.io/) - *Decentralized Cloud Infrastructure*
@@ -331,6 +337,7 @@
 * [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/), [Network Tools](https://network-tools.com/) or [WebsiteScoop](https://websitescoop.com/) - *Domain Info / IP Tools*
 * [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Username Availability Check*
 * [Pyfunceble](https://pyfunceble.github.io/#/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/) or [Domainr](https://domainr.com/) - *Domain Availability Check* 
+* [TinyDomain](https://tinydomain.net/) - *Short Domain Suggestions*
 * [WorthBuck](https://worthbuck.com/) - *Domain Price Estimations*
 * [NetLib.re](http://netlib.re/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - *Free Subdomains* 
 * [TheDev](https://thedev.id/) or [Dev.page](https://dev.page/) - *Free Developer Subdomains*
@@ -386,6 +393,7 @@
 * [PublishThisEmail](https://www.publishthis.email/) - *Email Based Website Builder*
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - *Mobile Friendly Page Test* 
 * [hlsflow](https://github.com/hlsflow/hlsflow) - *Host Video in HLS Stream*
+* [OneLinePlayer](https://onelineplayer.com/) - *Vimeo / Dropbox Video Player*
 * [Testimonial](https://testimonial.to/) - *Easily Add Video Testimonials to Sites*
 * [DriveProxy](http://driveproxy.net/) - *GDrive Video iFrame Code Generator*
 * [StreamYard](https://streamyard.com/) - *Live Stream Creator*
@@ -560,6 +568,7 @@
 * [NukeUI](https://github.com/kean/NukeUI) - *Lazy Image Loading for Apple Platforms*
 * [MobileApp-Pentest-Cheatsheet](https://github.com/fuzz-security/MobileApp-Pentest-Cheatsheet) - *Mobile App Penetration Test Index*
 * [Uiautomator2](https://github.com/openatx/uiautomator2) or [Appium](http://appium.io/) / [GitHub](https://github.com/appium/appium) - *Automated App Testing*
+* [MSTG](https://github.com/OWASP/owasp-mstg) - *App Security Testing / Reverse Engineering*
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - *Intentionally vulnerable Android application*
 * [PM2](https://pm2.keymetrics.io/) - *Process Manager*
 * [React95](https://react95.io/) - *Windows 95 React Components*
@@ -582,7 +591,7 @@
 * [Playerio](https://playerio.com/) - *Online Game Engine*
 * [RPG Playground](https://rpgplayground.com/) - *Simple RPG Creator*
 * [Game-Editor](http://game-editor.com/Main_Page), [microStudio](https://microstudio.itch.io/microstudio) or [BuildBox](http://buildbox.com/) - *Game Creators*
-* [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://pennie.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop), [Bitsy](http://ledoux.io/bitsy/editor.html) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - *2D Game Creators*
+* [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://pennie.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop), [Bitsy](http://ledoux.io/bitsy/editor.html), [LIKO 12](https://github.com/LIKO-12/LIKO-12) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - *2D Game Creators*
 * [Unreal Engine](https://www.unrealengine.com/) - *3D Creation Tool*
 * [PlanetSide](https://planetside.co.uk/) - *CG Environment Generator*
 * [Faux on 3D](https://gizmo199.itch.io/fauxton3d) - *Sprite Stacking Framework*
