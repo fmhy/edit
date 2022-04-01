@@ -1501,7 +1501,7 @@
 * [FDown](https://fdown.net/), [GetFVid](https://www.getfvid.com/), [Swift Video](https://chrome.google.com/webstore/detail/swift-video-downloader-fo/lfhfpakapoeodnooibncpipemmgbdnng) or [Facebook DL](https://github.com/sdushantha/facebook-dl) - *Facebook Video Downloader*
 * [Story Saver](https://chrome.google.com/webstore/detail/story-saver/mafcolokinicfdmlidhaebadidhdehpk) - *Facebook Story Downloader*
 * [Caprine](https://sindresorhus.com/caprine/) - *Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)*
- * [ChatSilo](https://chatsilo.com/) - *Mini Facebook Messenger CRM*
+* [ChatSilo](https://chatsilo.com/) - *Mini Facebook Messenger CRM*
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - *Facebook Search Formulas* 
 * [Graph.tips](https://graph.tips/beta/) - *Advanced Facebook Search Tool*
 * [Color Themes](https://chrome.google.com/webstore/detail/color-themes-for-facebook/oohbdcphbnpnoohnbddhcfplalanfbmm), [Coloreatuface](https://www.coloreatuface.com/), [FB.Zone](https://fb.zone/) or [Color Changer](https://chrome.google.com/webstore/detail/color-changer-for-faceboo/blfkmmfngackeejimehjkmendglnabnm) - *Color Themes for Facebook*
