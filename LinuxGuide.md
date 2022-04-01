@@ -47,8 +47,9 @@
 * [ANoise](http://anoise.tuxfamily.org/) - *Ambient Sounds for Ubuntu* 
 * [gazee](https://hub.docker.com/r/linuxserver/gazee/) or [Komikku](https://gitlab.com/valos/Komikku) - *Manga & omic Reader / Manager*
 * [wikit](https://github.com/KorySchneider/wikit) - *Wikipedia Summaries from CLI*
-* [Distrochooser](http://distrochooser.de/?l=2) - *Linux Distro Chooser*
 * [Linux Filesystem Chart](https://i.imgur.com/02VycVd.png) - *File System Guide*
+* [Distrochooser](http://distrochooser.de/?l=2) - *Linux Distro Chooser*
+* [Apodio](http://www.apodio.org/doku.php) or [io GNU/Linux](http://io.gnu.linux.free.fr/) - *Linux Distro w/ Preinstalled Apps*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old Linux Distro Archive*
 * [Vivek9Patel](https://vivek9patel.github.io/) - *Run Ubuntu on Browser / [GitHub](https://github.com/vivek9patel/vivek9patel.github.io)*
 * [Kvantum](https://github.com/tsujan/Kvantum) - *Linux QT / KDE Theme Engine*
@@ -103,7 +104,7 @@
 * [LiMP](https://git.coom.tech/eternal-coomer/LiMP) - *Local Booru*
 * [Luakit](https://luakit.github.io/) - *Lightweight Linux Browser* 
 * [browsh](https://www.brow.sh/) - *Text based Browser*
-* [Librewolf Linux](https://librewolf-community.gitlab.io/) or [Dot Browser](https://github.com/dothq/browser) - *Privacy-Based Browser*
+* [Librewolf Linux](https://librewolf-community.gitlab.io/)/ [2](https://aur.archlinux.org/packages/firedragon) / [3](https://forum.garudalinux.org/t/firedragon-librewolf-fork/5018) or [Dot Browser](https://github.com/dothq/browser) - *Privacy-Based Browser*
 * [Thorium](https://github.com/Alex313031/Thorium) - *Chromium-Based Browser*
 * [htop](https://htop.dev/) - *Interactive Process Viewer / [GitHub](https://github.com/htop-dev/htop)*
 * [pass](https://www.passwordstore.org/) - *Unix Password Manager* 
@@ -131,7 +132,7 @@
 * [syncthing](https://syncthing.net/) or [maestral](https://maestral.app/) - *File Sharing App*
 * [PeerVPN](https://peervpn.net/) - *P2P VPN*
 * [GNU Social](https://www.gnusocial.rocks/) - *Self-Hosted Social Networking Platform*
-* [Hexchat](https://hexchat.github.io/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/ ) - *IRC Clients*
+* [Hexchat](https://hexchat.github.io/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/) - *IRC Clients*
 * [Ghetto Skype](https://github.com/stanfieldr/ghetto-skype) - *Video / Chat Client*
 * [Whatsdesk](https://zerkc.gitlab.io/whatsdesk/) - *WhatsApp Client*
 * [Linux-dash](https://github.com/afaqurk/linux-dash) - *Web-based System Dashboard*
@@ -141,7 +142,7 @@
 * [Flowblade](https://github.com/jliljebl/flowblade) - *Video Editor*
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Image Editor* 
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) - *Image to Text*
-* [Feh](https://feh.finalrewind.org/) - *Lightweight Image Viewer*
+* [Feh](https://feh.finalrewind.org/) or [NSXIV](https://github.com/nsxiv/nsxiv) - *Image Viewer*
 * [lsix](https://github.com/hackerb9/lsix) - *View Images in Terminal*
 * [Rapid](https://damonlynch.net/rapid/) - *Quick Linux Photo Importer*
 * [Drawing](https://github.com/maoschanz/drawing) - *Drawing App*
@@ -173,6 +174,7 @@
 * [Client Evolution](https://help.gnome.org/users/evolution/stable/) - *Calendar / Mail*
 * [todo](https://github.com/sioodmy/todo/) - *Rust Based To-Do CLI*
 * [aerc](https://aerc-mail.org/), [ElectronMail](https://github.com/vladimiry/ElectronMail) or [Alpine](http://alpine.x10host.com/) - *Email Client*
+* [Link Unshortener](https://underpassapp.com/LinkUnshortener/) - *Unshorten Links*
 * [KTouch](https://apps.kde.org/en/ktouch) - *Typing Practice*
 * [wslu](https://github.com/wslutilities/wslu) - *Utilities for Windows 10 Linux Subsystem* 
 * [Tree](http://mama.indstate.edu/users/ice/tree/) - *Directory Listing Command* 
@@ -258,8 +260,9 @@
 * [SnapCraft](https://snapcraft.io/store) 
 * [tlanyan](https://tlanyan.me/)
 * [yay](https://github.com/Jguer/yay), [paru](https://github.com/morganamilo/paru) or [aura](https://github.com/aurapm/aura) - *Arch User Repository Helpers*
-* [KDE's Applications](https://apps.kde.org/education) - *Linux Apps* 
-* [Awesome KDE](https://github.com/francoism90/awesome-kde) - *Linux Apps*
+* [KDE's Applications](https://apps.kde.org/education) 
+* [IzzySoft Apt Repositories](https://apt.izzysoft.de/) 
+* [Awesome KDE](https://github.com/francoism90/awesome-kde)
 * [apps.gnome](https://apps.gnome.org/en-GB/) - *GNOME Apps*
 * [AppImagePool](https://github.com/prateekmedia/appimagepool) - *Linux App Images*
 * [AppImages](https://www.appimagehub.com/) - *Linux App Images*
@@ -421,7 +424,7 @@
 * [Tracker Zapper](https://rknight.me/apps/tracker-zapper/) - *Remove URL Tracking Elements*
 * [FileVault](https://support.apple.com/en-us/HT204837) - *Mac Disk Encryption* 
 * [Code Signing](https://www.code-signing.app/) - *Validate Code Signature*
-* [OpenVPN](https://tunnelblick.net/) - *VPN Tunnel*
+* [OpenVPN](https://tunnelblick.net/) or [Passepartout](https://passepartoutvpn.app/) - *VPN Tunnel*
 * [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) - *Privacy-Based Email Client*
 * [spotify-adblock-macos](https://github.com/r1olo/spotify-adblock-macos) - *Mac Spotify Adblocker*
 
@@ -467,3 +470,4 @@
 * [MacTorrents](https://mactorrents.io/)
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher*
 * [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - *Gamecube iso.dec to ISO Converter*
+* [rbxfpsunlocker](https://github.com/lanylow/rbxfpsunlocker-osx) - *Roblox FPS Unlocker*
