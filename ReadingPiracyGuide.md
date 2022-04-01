@@ -115,6 +115,7 @@
 * [Ebookee](https://www.ebookee.com/) - *Books / Magazines*
 * [Epub.us](https://www.epub.us/) - *Books*
 * [EBooksCart](https://ebookscart.com/) - *Books*
+* [Index of /Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_index_of_.2Fbooks) - *Books*
 * [Novel12](https://novel12.com/) - *Books* 
 * [Read Print](http://www.readprint.com/) - *Books* 
 * [IsIDore](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_isidore) - *Books*
@@ -1096,6 +1097,7 @@
 * [Readgeek](https://www.readgeek.com/) - *Book Recommendations*
 * [Shepherd](https://shepherd.com/) - *Book Recommendations*
 * [Literature-Map](https://www.literature-map.com/) - *Book Recommendations*
+* [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) - *Book Recommendations*
 * [Litsy](https://www.litsy.com/) - *Book Recommendation / Photo Sharing Community*
 * [5000 Best](http://5000best.com/) - *Top 5000 Books*
 * [listal](https://www.listal.com/) - *Book Database*
