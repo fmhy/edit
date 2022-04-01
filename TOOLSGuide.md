@@ -23,6 +23,7 @@
 * [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) - *Public Datasets*
 * [Global Consciousness Project](https://gcpdot.com/) - *Real-Time Global Consciousness Data*
 * [Internet Live Stats](https://www.internetlivestats.com/) - *Live Internet Statistics*
+* [The Federation](https://the-federation.info/) - *Fediverse Statistics*
 * [US Debt Clock](https://www.usdebtclock.org/) - *US Debt Clock*
 * [Statista](https://www.statista.com/) - *Market Statistics*
 * [OEC](https://oec.world/en) - *International Trade Data Visualization*
@@ -44,7 +45,7 @@
 * [Qlock](http://www.qlock.com/), [TheClockApp](https://theclockapp.vercel.app/), [TimeAndDate](https://www.timeanddate.com/) or [EveryTime Zone](https://everytimezone.com/) - *World Clock*
 * [FlipClockWeb](https://flipclockweb.netlify.app/) - *Fullscreen Clock*
 * [Epoch Converter](https://www.epochconverter.com/) - *Epoch & Unix Timestamp Conversion Tools* 
-* [How Many Days Since](http://howmanydayssince.net/) or [How Many Days Until](https://howmanydaysuntil.co/) - *Calculate Days Since a Date*
+* [How Many Days Since](http://howmanydayssince.net/), [CalcuDater](https://calcudater.com/) or [How Many Days Until](https://howmanydaysuntil.co/) - *Calculate Days Since a Date*
 * [e.gg Timer](https://e.ggtimer.com/) or [Juicy Timer](https://juicytimer.com/) - *Timer*
 * [SetAlarmClock](https://setalarmclock.net/) - *Online Alarm Clock*
 * [Time.is](https://time.is/) - *Check Accuracy of System Clock*
@@ -104,6 +105,7 @@
 * [PlateRecognizer](http://platerecognizer.com/) - *License Plate Recognition*
 * [Safe Substance](https://safesubstance.com/) - *Drug Combination Info / Harm Reduction* 
 * [Stolen Camera Finder](https://www.stolencamerafinder.com/) - *Find Stolen Cameras* 
+* [AFreeSMS](https://www.afreesms.com/freesms/) - *Send Free Texts*
 * [Parcelsapp](https://parcelsapp.com/en/) or [17Track ](https://www.17track.net/en) - *International Package Tracking*
 * [Sweet Home 3D](http://www.sweethome3d.com/) - *Interior Design App*
 * [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Carnac](http://code52.org/carnac/), [Presen](https://presen-vid.com/ ), [mentimeter](https://www.mentimeter.com/), [beautiful.ai](https://www.beautiful.ai/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Deckdeckgo](https://deckdeckgo.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [Desk](https://www.animaker.com/deck) or [Slides](https://slides.com/) - *Presentation Tool*
@@ -469,15 +471,18 @@
 * [Mod Archive](https://modarchive.org/) - *Audio Modules*
 * [Mixxx](https://mixxx.org/), [rekordbox](https://rekordbox.com/en/) or [Serato](https://serato.com/) - *DJ Software* 
 * [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/), [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil) or [Strofe](https://www.strofe.com/) - *Simple Audio Creators*
+* [Cycle Plus One](https://cycle-plus-one.sourceforge.io/) - *Audio Pattern Generator*
 * [Moises](https://moises.ai/) - *Live Music Mixer*
 * [WD-1](https://www.worteldrie.com/WD5/), [Citizen DJ](https://citizen-dj.labs.loc.gov/loc-variety-stage/remix/), [YOU.DJ](https://you.dj/) or [Until AM](http://mix.until.am/) - *Online DJ / Beat Creator* 
 * [RaveDJ](https://rave.dj/) - *Easily Mix Songs Together* 
-* [EZStems](https://www.ezstems.com/) - *Create Audio STEMS*
+* [EZStems](https://www.ezstems.com/) or [mvsep](https://mvsep.com/) - *Create Audio STEMS*
 * [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - *Create Songs with Code* 
 * [WebSynths](http://www.websynths.com/) - *Browser-Based Instruments* 
 * [JummBox](https://jummbus.bitbucket.io/), [Pata Tracker](https://pixwlk.itch.io/pata-tracker) or [Klystrack](https://github.com/kometbomb/klystrack) - *Chiptune Music Creator*
-* [Melody Generator](https://dopeloop.ai/melody-generator) - *MIDI Melody Generator*
+* [Audovia Music](https://songbase.github.io/) - *Classical Music Creator*
+* [Melody Generator](https://dopeloop.ai/melody-generator), [Rosegarden](https://rosegardenmusic.com/) or [Ariamaestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html) - *MIDI Editor*
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- *MIDI Files* 
+* [MidiKlavar](https://midiklavar.sourceforge.io/) - *MIDI File Converter*
 * [QueenMusicHall](http://www.queenmusichall.cz/) - *Queen MIDIs, Audio, Photos*
 * [AmazingMIDI](http://www.pluto.dti.ne.jp/araki/amazingmidi/) - *Transcribe WAV to MIDI / [Archive](https://archive.org/details/tucows_327319_AmazingMIDI)*
 * [Orca](https://hundredrabbits.itch.io/orca) - *Live Coding Audio*
@@ -487,6 +492,7 @@
 * [LittleSoundDJ](https://www.littlesounddj.com/lsd/index.php) - *Gameboy Audio Editor*
 * [Open Note Block Studio](https://opennbs.org/) - *Minecraft Note Block Song Editor*
 * [Acid Machine 2](http://errozero.co.uk/acid-machine/) - *Acid Techno Machine*
+* [AGS](https://audio-file.org/2020/11/25/ags-advanced-gtk-sequencer/) - *Audio Sequencer*
 * [Roland 808303.studio](https://808303.studio/) - *Online Drum Machine / TB-303 Bass Synth* 
 * [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/) or [Hammmerhead](http://www.threechords.com/hammerhead/) - *Online Drum Machine*
 * [orDrumbox](https://www.ordrumbox.com/) - *Drum Machine*
@@ -600,6 +606,7 @@
 * [learn-to-cloud](https://learntocloud.guide/) - *Cloud Computing Fundamentals / [GitHub](https://github.com/learntocloud/learn-to-cloud)*
 * [Cyberseek](https://www.cyberseek.org/index.html) - *Cybersecurity Job Market Info*
 * [Candor](https://candor.co/hiring-freezes/) - *Hiring Freezes*
+* [GoodJobsFirst](https://www.goodjobsfirst.org/) - *Subsidy Tracker*
 * [Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms) - *Project Management Tools*
 * [Airtable](https://www.airtable.com/) - *Build Collaborative Apps*
 * [PHPCRM](https://www.phpcrm.com/) - *Company Management Software*
@@ -609,6 +616,7 @@
 * [Kimai](https://www.kimai.org/) - *Working Hours Tracker*
 * [Dataviz](https://github.com/nalgeon/dataviz) - *Design Reports*
 * [Zeoob](https://zeoob.com/) - *Social Media Digital Marketing Post Simulator*
+* [MedusaJS](https://www.medusajs.com/) - *Open Source Commerce Store*
 * [ConvertMenu](https://convertmenu.com/) or [QR Menu Creator](https://qrmenucreator.com/) - *Convert Menu to QR Codes*
 * [VCEGuide](https://vceguide.com/) - *Tech Certification Practice Tests*
 * [9Tut](https://www.9tut.com/) - *CCNA Certification Training*
@@ -670,7 +678,7 @@
 * [hcaptcha-solver](https://github.com/JimmyLaurent/hcaptcha-solver) - *Bypass hCaptcha* 
 * [Rescan](https://rescan.io/) - *Find Out Technologies Used to Build Any Site*
 * [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - *Archive, Scrape & Crawl Sites* 
-* [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/), [urlwatch](https://thp.io/2008/urlwatch/) or [FollowThatPage](https://followthatpage.com/) - *Page Change Detection / Notification* 
+* [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/), [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/) or [FollowThatPage](https://followthatpage.com/) - *Page Change Detection / Notification* 
 * [CertAlert](https://certalert.net/) - *Alerts you when a TLS/SSL Certificate Expires* 
 * [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - *Check which IPFS Gateways are online* 
 * [lew.la](https://lew.la/) - *Reddit video DL, YT to MP3 & More Tools* 
@@ -720,13 +728,14 @@
 * [Rocket Chat](https://rocket.chat/) - *Self-Hosted Chat Client*
 * [Delta Chat](https://delta.chat/en/) - *Email Based Messenger* 
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - *Snapchat Recovery Tool*
+* [Snapchat Data Extractor](https://gist.github.com/programminghoch10/fa37e0da8b2efc5cb8077e59d000771d) - *Extract Snapchat Photo / Video Details*
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - *Export Skype Chat Data to Readable Text*
-* [Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [Whereby](https://whereby.com/), [Videolink2me](https://videolink2me.com/), [TinyChat](https://tinychat.com/), [Noysi Meet](https://meet.noysi.com/), [Zipcall](https://meet.questo.ai/), [iqc](https://icq.com/), [Crewdle](https://crewdle.com/) or [Briefing](https://brie.fi/ng) - *Video Chat*
+* [Video Chat Apps / Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_chat) - *Video Calls*
 * [Zoom Escaper](https://zoomescaper.com/) - *Self-Sabotage Video Calls to Escape Meetings*
 * [Live Curtain](https://livecurtain.com/) - *Countdown Curtain For Online Meeting*
 * [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Nertivia Chat](https://nertivia.net/), [Mumble](https://www.mumble.info/), [Zoiper](https://www.zoiper.com/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
 * [IMumble](https://www.imumble.nl/) - *Voice Chat Server*
-* [Gather](https://gather.town/), [OpenSimulator](http://opensimulator.org/) - *Virtual World Server*
+* [Gather](https://gather.town/), [Vircadia](https://vircadia.com/) or [OpenSimulator](http://opensimulator.org/) - *Virtual World Server*
 * [FireStorm Viewer](https://www.firestormviewer.org/) - *Virtual World Viewer*
 * [Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_sites) - *No Verification Required Email Sites*
 * [Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients) - *Send & Receive Mail*
@@ -758,7 +767,7 @@
 * [rrweb](https://www.rrweb.io/) - *Browser Macro Recorder / [GitHub](https://github.com/rrweb-io/rrweb)*
 * [WikiStalk](https://github.com/altilunium/wistalk) - *Analyze Wikipedia User's Activity*
 * [InspectContent](https://inspectcontent.com/) - *Site Keyword Inspector*
-* [Ichi](https://ichi.city), [Linktree](https://linktr.ee/), [MyURLs](https://myurls.co/), [Carrd](https://carrd.co/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/), [CreatorSites](https://creatorsites.net/) or [ContactInBio](https://www.contactinbio.com/) - *Personal Link Homepages* 
+* [Ichi](https://ichi.city), [Linktree](https://linktr.ee/), [MyURLs](https://myurls.co/), [Carrd](https://carrd.co/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/), [Ayo.so](https://ayo.so/), [CreatorSites](https://creatorsites.net/) or [ContactInBio](https://www.contactinbio.com/) - *Personal Link Homepages* 
 * [Integrated Inbox](https://integratedinbox.com/) - *Gmail Google Web App Integration*
 * [EasyMailForGmail](https://easymailforgmail.com/) - *Gmail Desktop Client*
 * [Namechk](https://namechk.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Check Username / Domain Availability*
@@ -1248,6 +1257,7 @@
 * [Unigram](https://github.com/UnigramDev/Unigram), [Tok](https://invent.kde.org/network/tok), [TDesktop](https://github.com/Forkgram/tdesktop) or [Kotatogram](https://github.com/kotatogram/kotatogram-desktop) - *Telegram Desktop Client*
 * [Web.Telegram](https://web.telegram.org/), [2](https://webk.telegram.org/), [3](https://webz.telegram.org/) - *Telegram Web Client*
 * [Pyrogram](https://docs.pyrogram.org/) - *Telegram API Client*
+* [Telega.el](https://github.com/zevlg/telega.el) - *Telegram Emacs Client*
 * [TeleWebGram](https://telewebgram.com/) - *Online Telegram Channel Viewer*
 * [Rose](https://t.me/MissRose_bot) - *Telegram Group Manager*
 * [TGCF](https://github.com/aahnik/tgcf) - *Telegram Message Forwarding*
@@ -1272,6 +1282,7 @@
 * **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download Audio from YouTube*
 * **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** or [yt dislikes viewer](https://github.com/pgamerx/yt-dislikes-viewer) - *View YouTube Dislikes / [Discord](https://discord.com/invite/mYnESY4Md5)*
 * **[SponsorBlock](https://sponsor.ajay.app/)** - *Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)*
+* [PSTube](https://github.com/prateekmedia/pstube) - *Ad Free YouTube Client*
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge) - *Delete All YouTube Spam Comments*
 * [YouTube Encoding Guide](https://support.google.com/youtube/answer/1722171) - *Recommended YouTube Encoding Settings*
@@ -1574,6 +1585,7 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [WebCatalog](https://webcatalog.app/) - *Turn Sites into Desktop Apps*
 * [Heimdall](https://heimdall.site/) - *Application Manager*
 * [GParted](https://gparted.org/) or [AOMEI](https://www.diskpart.com/) - *Partition Manager*
+* [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-P) - *Easy GPU Paravirtualization*
 * [Gptgen](https://github.com/xorangekiller/gptgen) - *MBR Partition Table to GPT Converter*
 * [WinCDEmu](https://wincdemu.sysprogs.org/) - *CD/DVD/BD Emulator*  
 * [PC Optimization Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - *PC Optimization Resource Index*
@@ -1599,6 +1611,7 @@ reddit) or [Logical Increments](https://www.logicalincrements.com/) - *PC Buildi
 * [CoreTemp](https://www.alcpu.com/CoreTemp/) - *Processor Temperature Monitor*
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - *CPU Optimizer* 
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - *Laptop CPU Monitor / Optimizer*
+* [Project Hydra](https://www.igorslab.de/en/project-hydra-oc-sandbox-for-zen3-cpus-freeware-download/3/) - *ZEN3 CPU Optimization Sandbox*
 * [perf-book](https://github.com/dendibakh/perf-book) - *CPU Performance Analysis and Tuning Book*
 * [MemTest](https://www.memtest.org/) - *Memory Diagnostic Tool*
 * [Magic Trace](https://github.com/janestreet/magic-trace) - *Diagnose Performance Issues using Intel Processor Trace*
@@ -1805,6 +1818,7 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install) or [Nini
 * [Boot Failure Troubleshooting Chart](https://i.imgur.com/QsxYtB4.jpg) - *Boot Failure Troubleshooting Guide*
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) - *Operating System / Software History / [Discord](https://discord.gg/XPz5Zm42tR)*
 * [ProperTree](https://github.com/corpnewt/ProperTree) - *GUI Plist Editor*
+* [MTKClient](https://github.com/bkerler/mtkclient) - *MTK Reverse Engineering / Flash Tool*
 * [GetCID](https://www.getcid.info/) - *Obtain Windows Confirmation ID*
 * [Fliqlo](https://fliqlo.com/screensaver/) or [Flipit](https://github.com/phaselden/FlipIt) - *Clock Screensaver*
 * [How-To Make Microsoft Activation Server](https://mananapr.github.io/microsoft_activation.html) 
@@ -1947,6 +1961,7 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install) or [Nini
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) - *Mega to HTTP*
 * [Keep Mega Alive](https://github.com/3ncod3/keep-mega-alive) - *Mega Account Auto-Login*
 * [MegaKeep](https://github.com/xCryptic/MegaKeep) - *Login to Multiple Mega Accounts*
+* [mega-account-generator](https://github.com/crackhub-dev/mega-account-generator) - *Mega Account Generator*
 * [Mega Checker](https://github.com/Titoot/mega-checker) - *Mega Link Checker*
 * [Unlimited Mega Storage](https://redd.it/ffrkf3) - *Unlimited Mega Storage Guide*
 * [GetMega](http://getmega.net/) - *Direct Mega Links* 
