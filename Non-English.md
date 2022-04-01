@@ -917,6 +917,7 @@ French / General Torrent Tracker
 
 * [StreamBase](https://thesb.eu/) - *Warez List / [GitHub](https://github.com/RugFlipper/streambase) / [Discord](https://discord.gg/3wQ3WQabEp) / [Request](https://www.wykop.pl/ludzie/RugFlipper/)*
 * [GSM Forum](https://gsmx.pl/) - *Android Forum*
+* [2nr](https://play.google.com/store/apps/details?id=pl.rs.sip.softphone) - *Free Polish Phone Numbers*
 
 ## ▷ Downloading
 
@@ -1450,11 +1451,12 @@ Portuguese
 
 # ► Spanish
 
-* **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - *Spanish Telegram Channel Index*
+* **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - *Telegram Channel Index*
 * [jogos10](http://www.jogos10.com/) or [Minijuegos](https://www.minijuegos.com/) - *Browser Games*
 * [EmojiTool](https://emojitool.com/) - *Emoji Database*
 * [Catflix](https://www.championcat.cl/catflix/) - *Cats!*
-* [Aprender Gratis](https://aprendergratis.es/) - *Spanish / File Tools*
+* [Aprender Gratis](https://aprendergratis.es/) - *File Tools*
+* [ElHacker](https://wiki.elhacker.net/) - *Security Guides*
 * [elblogdelnarco](https://elblogdelnarco.com/) - *Drug Trafficking News*
 * [Diccionario RAE en un clic](https://chrome.google.com/webstore/detail/diccionario-rae-en-un-cli/gejdeepcjkfbepfkcfdgiodgoglakiii) - *Dictionary Extension*
 * [GermanDeutsch](https://t.me/GermanDeutsch) - *Learn German*
@@ -1642,7 +1644,8 @@ Portuguese
 ## ▷ Downloading
 
 * [Mayonez](http://www.mayonez.net/) - *Video / Books / Magazines / Games / Android / GFX Software*
-* [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.com/) - *Movies / Choose Voltran & press "скачать" for DL's*  
+* [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.com/) - *Movies / Choose Voltran & press "скачать" for DL's* 
+* [/r/MEGAlinktr](https://www.reddit.com/r/MEGAlinktr/ ) - *Mega Links*
 * [MP3 Indir](https://www.mp3indirdur.mobi/) - *Music* 
 
 ## ▷ Streaming
