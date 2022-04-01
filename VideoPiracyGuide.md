@@ -37,7 +37,6 @@
 * [SockShare](http://sockshare.ac/) - *Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones)*
 * [Ling.online](https://ling.online/en/videos/films/) - *Movies / TV*
 * [OpenloadMovies](https://openloadmov.net/) - *Movies / TV*
-* [111.90.159.132](https://111.90.159.132/hollywood-movies/) - *Movies*
 * [162.12.215.254](http://162.12.215.254/) - *Movies*
 * [Rainierland](https://rainierland.to/) - *Movies / TV* 
 * [SuperNova](https://supernova.to/) - *Movies / TV / Anime* 
