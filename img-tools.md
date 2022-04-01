@@ -58,6 +58,7 @@
 * [Caricaturer](https://caricaturer.io/) - *Create Caricature of Your Face*
 * [Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - *Create Sketch from Anime*
 * [Image Splitter](https://ruyili.ca/image-splitter/), [2](http://www.htmlkit.com/services/is/) - *Split Images into Tiles*
+* [ComicCompiler](https://github.com/bajuwa/ComicCompiler/) - *Combine / Splice Webtoons*
 * [Needs More JPEG](http://needsmorejpeg.com/) - *Blur / Pixelize Images* 
 * [PicFont](https://picfont.com/) - *Add Text to Images*
 * [Acme Annotator](https://acme.com/annotator/) - *Add Notes to a Picture* 
@@ -421,6 +422,7 @@
 
 * **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** or [InstaFollowers](https://www.instafollowers.co/instagram-tools) - *Multiple Tools* 
 * [Deskgram](https://deskgram.app/) or [GridsApp](https://gridsapp.net/) - *Desktop Client*
+* [InstaKiller](https://github.com/InstaKiller/InstaKiller) - *Instagram CLI*
 * [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - *Modded Android App*
 * [AeroInsta](https://aeroinsta.com/) - *Improved Android App*
 * [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - *Modded iOS App*
@@ -454,6 +456,7 @@
 * [FotoForensics](http://www.fotoforensics.com/), [Forensically](https://29a.ch/photo-forensics/) or [Ghiro](http://www.getghiro.org/) - *Photo Forensics Tool* 
 * [Image Identification Project](https://www.imageidentify.com/) - *Image Identification Tool* 
 * [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [Steganography-PNG](https://pedrooaugusto.github.io/steganography-png/) / [GitHub](https://github.com/pedrooaugusto/steganography-png), [ImSter](https://github.com/armytricks/ImSter) or [stegpy](https://github.com/dhsdshdhk/stegpy) - *Embed & Extract Hidden Data in Images / Steganography* 
+* [Aperisolve](https://aperisolve.fr/) - *Steganography Analysis Tool*
 * [Ambiguous PNG Packer](https://github.com/DavidBuchanan314/ambiguous-png-packer) - *Create PNG that looks different on Apple Software*
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - *Blur Images / Scrub Metadata*
 * [BetterCensorship](https://bc.betterrepack.com/) - *Censor and De-censor Images*
