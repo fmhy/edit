@@ -33,7 +33,7 @@
 
 # ► Android Privacy
 
-* **[Sentinel](https://sentinel.co/)**, [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html), [PandaVPN](https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy), [GoatVPN](https://play.google.com/store/apps/details?id=com.secure.proxy.freevpn), [VPNhub](https://www.vpnhub.com/) or [Clash](https://github.com/Kr328/ClashForAndroid/) / [Profiles](https://rentry.co/2q3rn) - *Free VPN*
+* **[Sentinel](https://sentinel.co/)**, [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html), [PandaVPN](https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy), [GoatVPN](https://play.google.com/store/apps/details?id=com.secure.proxy.freevpn), [Your Freedom VPN](https://play.google.com/store/apps/details?id=de.resolution.yf_android), [VPNhub](https://www.vpnhub.com/) or [Clash](https://github.com/Kr328/ClashForAndroid/) / [Profiles](https://rentry.co/2q3rn) - *Free VPN*
 * **[android-security-awesome](https://github.com/ashishb/android-security-awesome)** - *Android Security Resources* 
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Browsers with a focus on Privacy* 
 * [Guardian Project](https://guardianproject.info/) / [2](https://guardianproject.info/fdroid/repo), [Divestos Apps](https://divestos.org/index.php?page=recommended_apps), [CookieJarApps](https://cookiejarapps.com/) or [InviZible](https://github.com/Gedsh/InviZible) - *Privacy Based Apps / Tools* 
@@ -57,8 +57,11 @@
 * [Fake Contacts](https://github.com/BillDietrich/fake_contacts) - *Generate Fake Contacts*
 * [leon](https://github.com/svenjacobs/leon) - *Remove URL Tracking Parameters*
 * [MaxLock](https://github.com/Maxr1998/MaxLock) - *Lock Apps Behind Passwords*
+* [VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps) - *File / URL Virus Scanner* 
+* [Pithus](https://beta.pithus.org/) - *APK Virus Scanner*
 * [LibreAV](https://www.projectmatris.tech/) or [Hypatia](https://gitlab.com/divested-mobile/hypatia) - *Antivirus*
 * [AFWall+](https://github.com/ukanth/afwall/) or [NoRoot Firewall](https://play.google.com/store/apps/details?id=app.greyshirts.firewall) - *Firewall* 
+* [URL Scanner](https://f-droid.org/en/packages/com.trianguloy.urlchecker/) - *URL Checker*
 * [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - *Network Monitor*
 * [vTunnel](https://github.com/net-byte/vTunnel) - *VPN Tunnel*
 * [Security Addon](https://github.com/huntmix/securityaddon) - *Set Triggers & Measures that protect your Phone*
@@ -174,8 +177,6 @@
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - *Ringtones Directory*
 * [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) or [Substratum](https://www.xda-developers.com/substratum-hub/) - *Theme Manager / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3)*
 * [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) - *App Themed Icons*
-* [VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps) - *File / URL Virus Scanner* 
-* [Pithus](https://beta.pithus.org/) - *APK Virus Scanner*
 * [FreeBrowser ](https://freebrowser.org/) - *Internet Censorship Circumvention / [Wiki](https://github.com/greatfire/wiki)*
 * [InstantBridge](https://instabridge.com/) - *Public WiFi Sharing Community*
 * [Gnirehtet](https://github.com/Genymobile/gnirehtet) - *Reverse Tethering*
@@ -188,6 +189,7 @@
 * [Voiceliner](https://a9.io/voiceliner/) - *Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)*
 * [Dicio](https://github.com/Stypox/dicio-android) - *Voice Assistant*
 * [openboard](https://github.com/dslul/openboard) - *FOSS Keyboard App*
+* [Clipboarded](https://f-droid.org/en/packages/com.trianguloy.clipboardeditor/) - *Clipboard Manager*
 * [Grammarly](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_grammarly_keyboard_premium) - *Grammarly Keyboard Premium* 
 * [WiFiman](https://play.google.com/store/apps/details?id=com.ubnt.usurvey) - *Network Scanner*
 * [Fing](https://www.fing.com/products/fing-app) - *Network Toolkit* 
@@ -259,7 +261,7 @@
 * [Image Searcher](https://play.google.com/store/apps/details?id=sansunsen3.imagesearcher) - *Image Search App*
 * [QuiverVision](https://quivervision.com/) - *Augmented Reality Coloring*
 * [background video recorder](https://play.google.com/store/apps/details?id=com.camera.secretvideorecorder) - *Record Videos in Background*
-* [Jitsi](https://jitsi.org/) - *Video Chat* 
+* [Jitsi](https://jitsi.org/) or [IMO](http://imo.im/) - *Video Chat* 
 * [Walkie-Talkie](https://walkie-talkie.io/) - *Walkie-Talkie App*
 * [1 Second Everyday](http://1se.co/) - *1 Second Video Diary*
 * [Video Watermark](https://play.google.com/store/apps/details?id=com.zmobileapps.videowatermark) - *Add Watermark to Videos*
@@ -275,6 +277,7 @@
 * [TextMeUp](http://www.textmeup.com/) - *Multi-Number App*
 * [TxtEmNow](https://txtemnow.com/) - *Send Anonymous Texts*
 * [Kubool](https://www.gdpd.xyz/) - *Anonymous Confession App*
+* [Encirculo](https://encirculo.org/en/) - *Community Safety Network*
 * [OpenInWA](https://github.com/SubhamTyagi/openinwa) - *Number Free WhatsApp Chat*
 * [WhatsappWebToGo](https://github.com/92lleo/WhatsappWebToGo) - *Mobile WhatsApp Web Client*
 * [Whatsapp Groups](https://whatsaplinks.com/) - *Whatsapp Group Links*
@@ -316,6 +319,7 @@
 * [Andure](https://github.com/leohku/andure) - *Android Chrome Dev Tools*
 * [Termux](https://termux.com/) - *Terminal Emulator / Linux Environment / [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/tareksander/termux-gui)* 
 * [Shelter](https://github.com/PeterCxy/Shelter) - *App Sandbox*
+* [AppBrain](https://www.appbrain.com/) - *Analyze Android App Changes*
 * [Clima](https://f-droid.org/en/packages/co.prestosole.clima/), [The Fucking Weather](https://alcohollick.com/the-fucking-weather) or [GeometricWeather](https://github.com/geometric-weather-foss/GeometricWeather) - *Weather App* 
 * [Aftership](https://play.google.com/store/apps/details?id=com.aftership.AfterShip&hl=en&gl=US) - *Package Tracker*
 * [aiTTS](https://www.milmike.com/aitts-google-wavenet-voices-for-android-tts) - *Text to Speech* 
@@ -854,7 +858,7 @@ RSS Player*
 # ► iOS Adblocking
 
 * **[AdGuard Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_adguard_premium)**, [2](https://testflight.apple.com/join/XqF1FkBg) - *Adblocker / [Config](https://1fichier.com/?ef26ks4abjzct7o1k8os) / [Remote](https://apps.apple.com/app/apple-store/id1543143740)*
-* [Hyperweb](https://hyperweb.app/) - *iOS Safari Adblock*
+* [Hyperweb](https://hyperweb.app/) or [Net Guard](https://apps.apple.com/us/app/net-guard-amp-ad-blocker/id1557627020) - *iOS Safari Adblock*
 * [KF Panda-Player](https://apps.apple.com/us/app/kfpanda-player/id1460792262) - *Turn any site into a App, without the Ads* 
 * [1Blocker](https://1blocker.com/) - *Ablocker*
 * [Ka-Block!](http://kablock.com/) - *Adblocker*
@@ -1059,6 +1063,7 @@ RSS Player*
 * [iMusic](https://apps.apple.com/us/app/imusic-offline-music-player/id1535124961) - *Streaming*
 * [Audiomack](https://apps.apple.com/ca/app/audiomack-download-new-music/id921765888) - *Streaming* 
 * [Quorus](https://quorus.net/) - *Collaborative Playlists* 
+* [SongShift](https://songshift.com/) - *Playlist Sync*
 * [humit](https://www.humit.app/) - *Music Sharing App*
 * [Qello](https://apps.apple.com/us/app/qello-concerts-live-music/id491069819) - *Concerts & Live Music Streaming*
 * [‎TuneStalgia](https://apps.apple.com/us/app/tunestalgia/id1561719773) - *Music Nostalgia App*
@@ -1068,6 +1073,7 @@ RSS Player*
 * [Boom](https://apps.apple.com/us/app/boom-bass-booster-equalizer/id1065511007) - *Audio Equalizer*
 * [VOX](https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494) or [HD Player](https://apps.apple.com/us/app/hs-player-flac-equalizer/id857650606) - *Audio Player*
 * [iRetro](https://apps.apple.com/us/app/iretro/id1557178995) or [ClassicPlayer](https://github.com/guillermo-moran/ClassicPlayer) / [2](https://cydia.saurik.com/package/org.thebigboss.classicplayer/)- *iPod Classic Audio Player*
+* [wInd3x](https://github.com/freemyipod/wInd3x) - *iPod Classic / Nano Bootrom Exploit*
 * [Denim](https://apps.apple.com/us/app/denim-playlist-cover-maker/id1532250420) - *Playlist Cover Maker*
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - *Identify Playing Songs*
 * [GarageBand](https://apps.apple.com/us/app/garageband/id408709785) - *Audio Editor / Creator*
