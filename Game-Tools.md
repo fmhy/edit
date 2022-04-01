@@ -83,7 +83,7 @@
 * [Ethereal Games](https://wiki.etherealgames.com/) - *JRPG Wiki*
 * [Adventurer's Codex](https://adventurerscodex.com) - *Online D&D 5e Campaign Manager / System*
 * [DS4Windows](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX) or [InputMapper](https://inputmapper.com/) - *Gamepad Input Tools*
-* [ViGEmBus](https://github.com/ViGEm/ViGEmBus) or [x360ce](https://github.com/x360ce/x360ce) - *DS4 / 360 Controller Emulator*
+* [ViGEmBus](https://github.com/ViGEm/ViGEmBus) or [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - *DS4 / 360 Controller Emulator*
 * [Xbox for Python](https://github.com/r4dian/Xbox-Controller-for-Python) - *Xbox Controller Xinput Module*
 * [DsHidMini](https://github.com/ViGEm/DsHidMini) - *Use PS3 Controllers on Windows [Guide](https://vigem.org/projects/DsHidMini/How-to-Install/)*
 * [JoyToKey](https://joytokey.net/) - *Controller Emulator*
@@ -118,7 +118,7 @@
 * [How To Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
 * [AltCtrls](https://altctrls.info/) - *Custom Controller Crafting Resources*
 * [Gamesoft](http://www.gamesoft.com/) - *Gaming News Feed Manager*
-* [Useful Osu](https://github.com/CarbonUwU/Useful-osu) - *Osu Resources*
+* [Useful Osu](https://github.com/CarbonUwU/Useful-osu) - *Osu! Resources*
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - *Osu! Collection Manager*
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - *Osu! Trainer*
 * [GmodContent](https://gmodcontent.com/) - *Garry's Mod Content Packs*
@@ -130,6 +130,7 @@
 * [Oculus Quest Piracy Wiki ](https://www.reddit.com/r/QuestPiracy/wiki/ffaio) 
 * [Oculess](https://github.com/basti564/Oculess) - *Remove Oculus Quest Account Requirements & Telemetry*
 * [ALVR](https://github.com/alvr-org/ALVR) - *Stream VR Games from PC to Headset*
+* [Hip Tracking](https://getaughip.com/) - *Augmented Hip Virtual*
 * [Defacto](https://defacto2.net/) - *Retro NFOs*
 
 ***
@@ -275,6 +276,7 @@
 * [OptiFine Alternatives](https://lambdaurora.dev/optifine_alternatives/) - *Minecraft OptiFine Alternatives for Fabric*
 * [modsman](https://github.com/sargunv/modsman) - *Minecraft Mod Manager*
 * [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - *Minecraft Utility Mod*
+* [SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons) - *Addons for Skyblock*
 * [Cubical](https://www.cubical.xyz/) - *Minecraft Schematic Tool*
 * [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) - *Turn Photos into Minecraft Art*
 * [ReplayMod](https://replaymod.com/) - *Record Minecraft Game Sessions / [GitHub](https://github.com/ReplayMod/ReplayMod)*
@@ -299,10 +301,12 @@
 * [The Minecraft Archive Project](http://map.crummy.com/) - *Minecraft World Archive*
 * [Amulet](https://www.amuletmc.com/) - *Minecraft Map Editor / Viewer*
 * [MineAtlas](http://mineatlas.com/) - *Minecraft Seed Map*
+* [SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX) - *Minecraft Seed Cracker*
 * [Terra](https://github.com/PolyhedralDev/Terra) - *Minecraft World Generator*
 * [TerraForged](https://www.curseforge.com/minecraft/mc-mods/terraforged) - *Improved Biomes Mod*
 * [Biomes-O-Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) - *Extra Biomes Mod*
 * [Water-Physics-Overhaul](https://www.curseforge.com/minecraft/mc-mods/water-physics-overhaul) - *Realistic Minecraft Water Physics*
+* [Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - *Minecraft Bedrock Miner*
 * [Outvoted](https://www.curseforge.com/minecraft/mc-mods/outvoted) - *Outvoted Minecraft Live Mobs*
 * [MCrev](https://github.com/MC874/MCrev) - *Windows 10 Minecraft License Bypasser*
 * [Classic Minecraft](https://classic.minecraft.net/) - *Play Classic Minecraft* 
@@ -369,6 +373,7 @@
 * [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - *PSCX Development Emulator*
 * [Vita Guide](https://vita.hacks.guide/) - *PS Vita (TV) Custom Firmware*
 * [Tinfoil](https://tinfoil.io/) - *Switch Title Manager / File Browser* 
+* [ModMyClassic](https://modmyclassic.com/) - *Classic Console Mods*
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) - *Multiplayer Switch Servers*
 * [CTGP Revolution](https://www.chadsoft.co.uk/) or [Wiiki Tockdom](http://wiki.tockdom.com/) - *Mario Kart Wii Mod* 
 * [TTs Online](https://redd.it/ie6gi7) - *MKW Online Time Trials Mod*
@@ -378,6 +383,7 @@
 * [DSI Guide](https://dsi.cfw.guide/) - *DSI Modding Guide*
 * [GameBoy Tech Page](https://web.archive.org/web/19990209041732/http://home.hiwaay.net/%7Ejfrohwei/gameboy/home.html) - *Gameboy Tools*
 * [GameBoy Book Reader](https://www.mqp.com/fun/) - *Gameboy Book Reader*
+* [/r/360Hacks Guide](https://redd.it/8y9jql) - *Xbox 360 Modding Guide*
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - *.XBE to ISO File Converter*
 * [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - *Add More Roms to NES/SNES Classic Mini*
 * [emuiibo](https://github.com/XorTroll/emuiibo) - *Amiibo Emulator*
