@@ -88,7 +88,7 @@
 * [GoMo](https://gomo.to/) - *Movies / TV / Anime*
 * [2Embed](https://www.2embed.ru/) - *Movies / TV / Anime* 
 * [VidSrc](https://vidsrc.me/) - *Movies / TV / Anime* 
-* [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrives_.2F_open_directories) - *Movies / TV / Anime* 
+* [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) - *Movies / TV / Anime* 
 * [Tubi](https://tubitv.com) - *Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)*
 * [Filmzie](https://filmzie.com/) - *Movies / TV*
 * [Kanopy](https://kanopy.com/) - *Movies / TV / Library Card Required* 
