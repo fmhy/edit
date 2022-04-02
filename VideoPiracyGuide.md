@@ -53,6 +53,7 @@
 * [AZMovies](https://azm.to) - *Movies*
 * [KissKH](https://kisskh.me/Explore?type=4) - *Movies / TV / Anime*
 * [HDMovieBox](https://hdmoviebox.org/) - *Movies*
+* [Cinema Shack](https://cinemashack.co/) - *Movies / TV / Anime*
 * [Moviehdkh](https://www.moviehdkh.com/) - *Movies* 
 * [Tainio-Mania](https://tainio-mania.online/) - *Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)* 
 * [IsAiDub](http://isaidubb.co/tamil/hollywood-movies-in-english.html) - *Movies*
@@ -134,7 +135,7 @@
 * [MovieHunters](https://movieshunters.com/) - *Movies / TV*
 * [Dogeflix](https://dogeflix.net/) - *Movies / TV* 
 * [Sauflix](https://www.sauflix.com/) - *Movies / TV*
-* [CMovies](https://cmovies.online/) - *Movies / TV / Anime*
+* [CMovies](https://cmovies.online/), [2](https://cmovies.is/) - *Movies / TV / Anime*
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - *Movies*
 * [Best-Movies](https://best-movies.watch/) - *Movies*
 * [Dutafilm](https://103.194.171.75/) - *Movies / TV / Anime*
@@ -873,7 +874,6 @@
 * [Hakata Ramen](https://discord.gg/4teAREmqdQ) - *Sub*
 * [SSAnime](https://ssanime.ga/) - *Sub*
 * [DameDesuYo](https://damedesuyo.com/) - *Sub* 
-* [HoribbleSubs](https://horriblesubs.cc/) - *Sub*
 * [GoodJobMedia](https://www.goodjobmedia.com/) - *Sub*
 * [Chihiro](https://chihiro-subs.com/) - *Sub*
 * [AnimeRG](https://animereleasegroup.blogspot.com/) - *Sub / Dub*
@@ -1060,7 +1060,7 @@
 * [Subliminal](https://github.com/Diaoul/subliminal), [SubtitleBOX](https://github.com/sameera-madushan/SubtitleBOX) or [Subtitle-Downloader](https://github.com/manojmj92/subtitle-downloader) - *Python Download Script* 
 * [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - *Plex Subtitles* 
 * [Subshifter](https://subshifter.bitsnbites.eu/), [subsync](https://github.com/sc0ty/subsync), [ffsubsync](https://github.com/smacke/ffsubsync), [Alass](https://github.com/kaegi/alass), [autosubsync](https://github.com/oseiskar/autosubsync) or [subslider.js](https://github.com/micheleb/subslider.js) / [2](https://micheleb.github.io/subslider.js/) - *Sync Subtitles* 
-* [SubtitleDLbot](https://t.me/SubtitleDLbot), [TV Sub Bot](https://t.me/Tv_subtitles_bot), [subtitle_dl_bot](https://t.me/subtitle_dl_bot) or [subtitlepoolbot](https://t.me/subtitlepoolbot) - *Telegram Subtitles Bot* 
+* [SubtitleDLbot](https://t.me/SubtitleDLbot) or [subtitle_dl_bot](https://t.me/subtitle_dl_bot) - *Telegram Subtitles Bot* 
 * [MuxedBot](https://t.me/MuxedBot) - *Merge Subtitles / Telegram* 
 * [vlsub](https://github.com/exebetche/vlsub) - *VLC Subtitle Download* 
 * [asstosrt-wasm](https://sorz.github.io/asstosrt-wasm/) - *ASS / SSA to SRT Subtitles Converter* 
