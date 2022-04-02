@@ -2080,7 +2080,7 @@ Add the following commands to a search to manually scrape each site.
 * https://td.hackgence.com/
 * https://team.gdrive.vip/
 * https://azure.starter.workers.dev/
-* https://td.msgsuite.workers.dev/ + [Telegram Chat](https://t.me/msgsuitechat)
+* https://t.me/MSGuite_SD_Creator_Bot + [Telegram Chat](https://t.me/msgsuitechat)
 * https://bdi-generator.hashhackers.com/ (Code Generator)
 * https://pastelink.net/2zw21 (list)
 
