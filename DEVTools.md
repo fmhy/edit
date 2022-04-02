@@ -349,8 +349,9 @@
 * [PageSpeed](https://developers.google.com/speed/pagespeed/insights/), [GTmetrix](https://gtmetrix.com/), [Testmysite](https://testmysite.io/) or [Websu](https://websu.io/) - *Test Webpage Speed*
 * [Shisho](https://shisho.dev/) - *Infrastructure Code Security Patcher*
 * [Security Onion Solutions](https://securityonionsolutions.com/), [Wazuh](https://wazuh.com/) or [Snyk](https://snyk.io/) / [GitHub](https://github.com/snyk/snyk) - *Site Security Monitor*
+* [FingerprintJS](https://fingerprintjs.com/) - *Browser Fingerprinting Library / [GitHub](https://github.com/fingerprintjs/fingerprintjs/)*
 * [Teler](https://github.com/kitabisa/teler) - *HTTP Intrusion Detection*
-* [GHH](http://ghh.sourceforge.net/) - *Malicious Web Traffic Protection*
+* [GHH](http://ghh.sourceforge.net/) or [IP Intelligence](http://getipintel.net/) - *Malicious Web Traffic Protection*
 * [VanwaTech](https://vanwa.tech/cdn) - *Smart CDN*
 * [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - *HTTP Sites Leak Information*
 * [DNSDumpster](https://dnsdumpster.com/) - *DNS Lookup / Security*
