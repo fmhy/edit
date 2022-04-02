@@ -139,7 +139,7 @@
 * [GDrive Guides](https://t.me/gdriveguides) - *GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)*
 * [Fileforums](https://fileforums.com/) - *Gaming / Emulator / Data Compression Discussion*
 * [Pirate Haven](https://pirate-haven.github.io/) - *Guides / Discussion / [Discord](https://discord.gg/JWqrdfN9Y8)*
-* [The MegaDrive](https://discord.gg/FQ6EaprXyr) - *Piracy / DataHoarding Discussion*
+* [The MegaDrive](https://discord.gg/megadrive) - *Piracy / DataHoarding Discussion*
 * [/r/AnimePiracy Discord](https://discord.gg/piracy)
 * [Gamesurge](https://gamesurge.net/) - *Gaming IRC Community*
 * [GenP](https://www.reddit.com/r/GenP) - *Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)*
@@ -348,6 +348,7 @@
 * [Spider 2 Hammertime](http://oos.moxiecode.com/js_webgl/spiders_2_hammertime/) - *Murder Spiders*
 * [DuckDuckRoll](http://duckduckroll.ml/) - *Spinning Duck*
 * [Slap Kirk](https://www.slapkirk.com/) - *Slap Captain Kirk*
+* [Slap Chris](https://slapchris.com/) - *Slap Chris Rock*
 * [Eel Slap](http://www.eelslap.com/) - *Slap Guy with Eel*
 * [pls pet doge](http://plspetdoge.com/) - *Pet Doge* 
 * [Slide Ventura](https://slideventura.com/) - *Ace Ventura Sliding Door Simulator*
