@@ -544,6 +544,7 @@ French / General Torrent Tracker
 * [HindiLover](https://hindilover.biz/) - *TV*
 * [Filmywap](https://www.filmywap.com/) - *Movies / TV*
 * [OkJatt](https://okjatt.work/) - *Movies / TV*
+* [TVBolly](https://www.tvbollypro.com/) - *Movies / TV*
 * [Watch Movies Online](https://www.watchonlinemovies15.com.pk/) - *Movies*
 * [Desi Serials](https://www.desiserials.tv/) - *Movies / TV / Live*
 * [WatchOnlineMovies](https://www.watchonlinemovies.net.pk/) - *Movies / TV*
@@ -1646,7 +1647,6 @@ Portuguese
 
 * [Mayonez](http://www.mayonez.net/) - *Video / Books / Magazines / Games / Android / GFX Software*
 * [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.com/) - *Movies / Choose Voltran & press "скачать" for DL's* 
-* [/r/MEGAlinktr](https://www.reddit.com/r/MEGAlinktr/ ) - *Mega Links*
 * [MP3 Indir](https://www.mp3indirdur.mobi/) - *Music* 
 
 ## ▷ Streaming
