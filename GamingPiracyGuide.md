@@ -169,7 +169,6 @@
 * [LoveRoms](https://www.loveroms.online/) - *Roms* 
 * [PSXForever](https://psxforever.com/), [2](https://pspgamesland.com/), [3](https://gameboxadvance.com/), [4](https://legendsroms.com/), [5](https://worldcia3ds.com/), [6](https://akamigames.net/), [7](https://fullgamesnx.com/) - *Roms*
 * [FantasyAnime](https://fantasyanime.com/) - *Roms* 
-* [Emulanium](http://www.emulanium.com/roms.php) - *Roms*
 * [NesGM](https://nesgm.net/) - *Roms / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)*
 * [ROM World](http://www.romworldonline.com/) - *Roms / [How-to](https://i.imgur.com/Mqab82O.png)*
 * [LegendaryRepacks](https://discord.gg/RUSNHSk)
