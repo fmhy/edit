@@ -171,7 +171,7 @@
 * [CourseInDrive](https://t.me/CourseInDrive) - *Courses / Telegram* 
 * [Download Links Materials](https://t.me/DownloadLinksMaterials) - *Courses / Telegram*
 * [premiumcoursesfree](https://t.me/premiumcoursesfree) - *Courses / Telegram*
-* [Udemy_Courses_Free_Daily](https://t.me/Udemy_Courses_Free_Daily ) - *Courses / Telegram*
+* [Udemy_Courses_Free_Daily](https://t.me/Udemy_Courses_Free_Daily) - *Courses / Telegram*
 * [RedBlueHit](https://t.me/RedBlueHit) - *Courses / Telegram*
 * [learningDL](https://learningdl.net/) - *Courses / Leech required* 
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - *Courses / Tutorials* 
@@ -710,7 +710,7 @@
 * [M-Journal](https://m-journal.org/) - *Turn Wikipedia into a Citeable Academic Paper*
 * [Sideways Dictionary](https://sidewaysdictionary.com/) - *Common Computer Terms Explained Simply*
 * [Symbols](https://www.symbols.com/) - *Symbol Database*
-* [Hate on Display](https://www.adl.org/hate-symbols ) - *Hate Symbol Database*
+* [Hate on Display](https://www.adl.org/hate-symbols) - *Hate Symbol Database*
 * [SciGen](https://pdos.csail.mit.edu/archive/scigen/) - *CS Paper Generator*
 * [pdfparanoia](https://github.com/kanzure/pdfparanoia) - *Academic Paper Watermark Removal*
 * [The Chomsky Index](https://github.com/jasons-gh/the-chomsky-index) - *Noam Chomsky Content Index Tool*
