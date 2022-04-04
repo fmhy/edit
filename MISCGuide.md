@@ -579,6 +579,7 @@
 * [Talos Blog](https://blog.talosintelligence.com/) - *CyberSecurity News*
 * [We Fight Censorship](http://3kyl4i7bfdgwelmf.onion/) - *Censorship News*
 * [Tudum](https://www.netflix.com/tudum) - *Netflix News*
+* [Anime News Network](https://www.animenewsnetwork.com/) - *Anime News*
 * [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - *Dark Web News*
 * [Interactive News Map](https://usa.liveuamap.com/) - *Geolocated News Alerts / Headlines U.S* 
 * [Forekast](https://forekast.com/) - *Worldwide Event Calendar* 
@@ -785,6 +786,7 @@
 * [MediLog](https://gitlab.com/toz12/medilog) or [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds) - *Medical Data Log*
 * [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - *Insomnia Prevention Tips*
 * [eXHALeR](https://www.xhalr.com/) - *Yoga / Meditation Breathing Tool* 
+* [Medito](https://github.com/meditohq/medito-app) - *Meditation App*
 * [PixelThoughts](http://www.pixelthoughts.co/) - *60 Second Relaxation Tool*
 * [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health) - *Mental Health Index*
 * [One Mind PsyberGuide](https://onemindpsyberguide.org/) - *Mental Health App Reviews*
@@ -816,6 +818,7 @@
 * [Historic Borders](https://historicborders.app/) - *Historic Borders Map*
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
 * [American Panorama](https://dsl.richmond.edu/panorama/) - *Interactive US Historical Maps*
+* [Live Action Map](https://www.live-action-map.com/) - *Ukraine Conflict Areas LiveFeed*
 * [Native-Land.ca](https://native-land.ca/) - *Indigenous Territory Map*
 * [Midgard Map](https://midgardmap.koboldpress.com/) - *Midgard Map*
 * [Map Crunch](https://www.mapcrunch.com/) or [RandomStreetView](https://randomstreetview.com/) - *Random Street View*
@@ -1051,6 +1054,7 @@
 * [History Master](https://github.com/jiacai2050/history-master) - *Vizualize & Sync Browser History* 
 * [xBrowserSync](https://www.xbrowsersync.org/) - *Browser Syncing* 
 * [Stylus](https://add0n.com/stylus.html), [Stylish](https://userstyles.org/) / [2](https://uso.kkx.one/) or [UserStyles](https://userstyles.world/) - *Custom Website Color Schemes*  
+* [Stylebot](https://stylebot.dev/) - *Modify Webpages*
 * [Night Mode](https://mybrowseraddon.com/night-mode.html) - *Adapts Display Color to Time of Day*
 * [Screen Color Temperature](https://mybrowseraddon.com/screen-color-temperature.html) - *Adjust Screen Color Temperature*
 * [Font Changer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_webfont_changer) - *WebFont Changer* 
@@ -1068,6 +1072,7 @@
 * [Talkie](https://joelpurra.com/projects/talkie/) or [Offline Text to Speech](https://virejdasani.github.io/OfflineTextToSpeech-Extension/) - *Text to Speech*
 * [Text Link](https://piro.sakura.ne.jp/xul/textlink/index.html.en) - *Make Non-Hyperlinked URL's Clickable* 
 * [Link Alert](https://www.cwesson.net/projects/LinkAlert/) - *Link Type Indicator* 
+* [Mitaka](https://github.com/ninoseki/mitaka) - *Domain Info Lookup Tool*
 * [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) or [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - *Auto Delete Cookies*
 * [Cookie Manager](https://github.com/laktak/vanilla-chrome), [Cookie Quick Manager](https://github.com/ysard/cookie-quick-manager), [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - *Cookie Manager* 
 * [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - *Follow RSS Feeds*
@@ -1114,7 +1119,7 @@
 * [Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders) - *Record your Screen*
 * [Booru Slideshow](https://github.com/Chirmaya/BooruSlideshow) - *Make Slideshows Easier to Navigate*
 * [Textmarker](https://github.com/ufb/Textmarker) - *Text Highlighter* 
-* [Bulk URL Opener](https://bulkurlopener.com/) - *Open Multiple URL's in One Click* 
+* [Bulk URL Opener](https://bulkurlopener.com/) or [Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs/) - *Open Multiple URL's in One Click* 
 * [Forecastfox](http://www.s3blog.org/forecastfox.html) - *Weather Addon* 
 * [Timer](https://eccorem.com/apps/timer.html) - *Timer, Alarm & Stopwatch* 
 * [Dollchan](https://dollchan.net/) - *Imageboard Features*
@@ -1194,6 +1199,8 @@
 * [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn) - *Text Summary Generator*
 * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) or [Volume Master](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - *Increase Browser Volume*
 * [Poster](https://install.get-poster.com/) - *Quick Link Share*
+* [Blackbox](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) - *Copy Text from Videos and Images*
+* [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en) - *Extract Email ID's from Webpages*
 * [Link Klipper](https://chrome.google.com/webstore/detail/link-klipper-extract-all/fahollcgofmpnehocdgofnhkkchiekoo?hl=en) - *Webpage Link Extractor*
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - *Download Multiple Links at Once* 
 * [Refgen](https://github.com/reorx/refgen) - *Generate Markdown Style Links*
@@ -1208,7 +1215,7 @@
 * [Wheel Smooth Scroller](https://chrome.google.com/webstore/detail/chromium-wheel-smooth-scr/khpcanbeojalbkpgpmjpdkjnkfcgfkhb?hl=en) - *Smooth Scrolling*
 * [Headless-Recorder](https://github.com/checkly/headless-recorder) or [automa](https://github.com/kholid060/automa) - *Browser Automation*
 * [NudgeWare](https://nudgeware.io/), [Minto](https://chrome.google.com/webstore/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chrome.google.com/webstore/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia) or [HabitLab](https://habitlab.stanford.edu/) - *Productivity Manager*
-* [Simple Todo](https://chrome.google.com/webstore/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) - *To-Do List*
+* [Simple Todo](https://chrome.google.com/webstore/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) or [Todoist](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh?hl=en) - *To-Do List*
 * [Blueticks](https://chrome.google.com/webstore/detail/blueticks/adgnjhngogijkkppficiiepmjebijinl) - *WhatsApp Scheduler*
 * [Beanote](https://chrome.google.com/webstore/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) or [Page Pad](https://chrome.google.com/webstore/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn) - *Web Page Note Taking*
 * [ProjectNaptha](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - *Manipulate Browser Image Text*
@@ -1231,6 +1238,7 @@
 * [BetterViewer](https://github.com/Ademking/Betterviewer) - *Improved Image Viewer*
 * [Resizing](https://resizing.app/) - *Resize Images*
 * [Vasai](https://chrome.google.com/webstore/detail/vasai-free-screen-recorde/ppbdhdggkcfgcghiaimfknmfemkegleo) - *Screen Recorder*
+* [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en) - *Color Picker*
 * [Mate Translate](https://gikken.co/mate-translate/chrome/) - *Translator*
 * [SiteScrubber](https://chrome.google.com/webstore/detail/sitescrubber/ffadalgofahhohaciekjchkikcglcpla) - *Hide Offensive/Swear Words on Sites*
 * [Show Keys](https://chrome.google.com/webstore/detail/show-keys/bkcpmidbgmfbbeanejhepkjakagfaaon) - *Show Keys As You Type*
