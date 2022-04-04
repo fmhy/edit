@@ -46,7 +46,6 @@
 * [CrossOver](https://github.com/lacymorrow/crossover) or [HudSight](https://hudsight.com/) - *Crosshair Overlay*
 * [ClickSpeeder](https://clickspeeder.com/) or [CPSCounter](https://cpscounter.org/) - *Click Speed Test / Trainers*
 * [TASVideos](https://tasvideos.org/) - *Watch and Publish Tool Assisted Speedruns*
-* [Skill Capped Downloader](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_skill_capped_downloader) - *Skill Capped Video DL Script / [Guide](https://i.imgur.com/lZofxhL.png)*
 * [MacroGamer](https://www.itoady.com/) - *Game Macro Recorder*
 * [Blitz](https://blitz.gg/) - *Post Match Performance Analyzer / [Adblocker](https://github.com/lulzsun/blitz-app-adblock)* 
 * [Valve Archive](https://valvearchive.com/) - *Rare Valve Data Archive*
@@ -69,6 +68,7 @@
 * [The Sounds Resource](https://www.sounds-resource.com/) - *Game Sounds*
 * [The Halo Archive](https://discord.gg/feB7RgAHBh) or [405th](https://www.405th.com/) - *Halo Assets Archive*
 * [The Spriters Resource](https://www.spriters-resource.com/) - *Video Game Sprites*
+* [MiiCharacters](http://www.miicharacters.com/) - *Famous Mii Creation Guides*
 * [MOGG](http://img.mogg.fr/HIRES/) - *Magic The Gathering Card Scans*
 * [Random Dice](http://www.dicesimulator.com/) - *Dice Simulator*
 * [Buzz In](https://buzzin.live/) - *Online Buzzer System*
