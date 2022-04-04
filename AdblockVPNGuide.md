@@ -139,6 +139,7 @@
 * [ThreatLog](https://www.threatlog.com/) - *Malicious Domain Database*
 * [Scamalytics](https://scamalytics.com/ip), [IPSpamList](http://www.ipspamlist.com/) or [IP Address Lookup](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/) - *IP Address Check*
 * [Online Link Scan](http://onlinelinkscan.com/) - *Link Scanner*
+* Vulners - [Chrome](https://chrome.google.com/webstore/detail/vulners-web-scanner/dgdelbjijbkahooafjfnonijppnffhmd) / [Firefox](https://addons.mozilla.org/es/firefox/addon/vulners-web-scanner/) - *Live Website Scanner*
 * [Virus Checker](https://add0n.com/virus-checker.html) - *Virus Check for Downloads* 
 * [Bad Websites](https://github.com/elbkr/bad-websites) - *Phishing Site Index for Bots*
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - *Bypass Ransomware Attacks*
@@ -241,7 +242,7 @@
 * [Blacklight](https://themarkup.org/series/blacklight) - *Website Privacy Inspector*
 * [GreyNoise](https://www.greynoise.io/) - *Internet Noise Analysis*
 * [Terms of Service; Didn't Read](https://tosdr.org/) - *TLDR TOS*
-* [V2Ray](https://v2ray.com/en/), [V2Fly](https://www.v2fly.org/), [V2RayN](https://github.com/freefq/free) or [v2ray-core](https://github.com/v2fly/v2ray-core) - *Build your own Privacy Network / [GUI](https://qv2ray.net/), [v2rayN](https://github.com/2dust/v2rayN)* 
+* [V2Ray](https://v2ray.com/en/), [V2Fly](https://www.v2fly.org/), [V2RayN](https://github.com/freefq/free) or [v2ray-core](https://github.com/v2fly/v2ray-core) - *Build your own Privacy Network / [GUI](https://qv2ray.net/), [2](https://github.com/2dust/v2rayN), [3](https://github.com/Qv2ray/Qv2ray)* 
 * [Scout](https://www.scout.tel/phone-number-lookup) - *Phone Number Lookup / Safety Check* 
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - *Get Telephone Carrier Data* 
 * [/r/Privacy](https://reddit.com/r/privacy),  [/r/TheHatedOne](https://www.reddit.com/r/thehatedone), [/r/PrivacyToolsIO](https://www.reddit.com/r/privacytoolsIO) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - *Privacy Discussion, News & Tools*
