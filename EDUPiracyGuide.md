@@ -47,6 +47,7 @@
 * [Stepik](http://stepik.org/) - *Courses*
 * [Canvas](https://www.canvas.net/) - *Courses*
 * [CourseF](https://www.coursef.com/) - *Courses*
+* [Study is wonderful](https://github.com/xioacd99/study-is-wonderful) - *Courses*
 * [Harvard Online Courses](https://pll.harvard.edu/catalog?keywords=&free[1]=1&max_price) - *Courses*
 * [Open HPI](https://open.hpi.de/) - *Courses*
 * [FindAndSolve](https://www.findandsolve.com/) - *Course Search Engine*
