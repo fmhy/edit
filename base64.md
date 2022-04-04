@@ -1,4 +1,4 @@
-Use a **[Base64 Decoder](https://www.base64decode.org/)** or **[Auto Decoder](https://pastebin.com/raw/HVAWhmG5)** to view these links.
+Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_base64_decode_extensions)** or **[Script(https://pastebin.com/raw/HVAWhmG5)** to view these links.
 
 ***
 
