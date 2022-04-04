@@ -113,7 +113,6 @@
 * [SCENE.RLS](http://scene-rls.net/releases/index.php) - *Video / Audio / Games / Software / Books / Magazines* 
 * [DLWarez](http://dlwarez.xyz/) or [WarezLover](https://warezlover.xyz/) - *Video / Audio / Software / Games / Android / Roms / Books / Magazines* 
 * [heroturko.net](https://www.heroturko.net/) - *Video / Audio / Software / Games / Books / Magazines / Android* 
-* [DownTut](http://downtut.org/) - *Video / Audio / Software / Games / Android / Books / Magazines* 
 * [IRfree](http://irfree.org/) - *Video / Audio / Software / Games / Books / NSFW*
 * [PirateHub](https://piratedhub.com/) - *Software / Android / Books / Games / Courses*  
 * [4Shared](https://www.4shared.com/) - *Video / Audio / Games / Software / Android*
