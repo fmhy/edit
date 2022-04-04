@@ -625,7 +625,6 @@
 * [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - *Subsonic Client*
 * [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - *Streaming*
 * [Modded Tidal](https://forum.mobilism.org/viewtopic.php?f=1332&t=4594722) - *Steaming / Download*
-* [Deezloader Android](https://t.me/deezloaderremixmobile) - *Download / MP3 / [Non Telegram DL](https://redd.it/d3i9fr)* 
 * [Seeker](https://github.com/jackBonadies/SeekerAndroid) - *Download / MP3*
 * [Datmusic](https://github.com/alashow/datmusic-android) - *Download / MP3*
 * [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - *Download / MP3* 
@@ -709,7 +708,6 @@
 * [IsraTV](https://isratv.netlify.app/) - *Movies / TV / Live TV*
 * [MediaBox HD](https://mediaboxhd.net/) - *Movies / TV / Chromecast*
 * [PikaShow](https://pikashow.app/app) - *Movies / TV*
-* [Modded Amazon Prime Video](https://t.me/shooterOfficial1/38314) - *Movies / TV*
 * [Modded Hotstar](https://t.me/shooterOfficial1/38308) - *Movies / TV*
 * [Movie HD](https://moviehdapkdownload.com/moviehd-apk/) - *Movies / TV / Chromecast*
 * WiWiCenter - [Movies / TV](https://cinema.wiwicenter.com/) / [Anime](https://anime.wiwicenter.com/) - *Use Adblocker*
