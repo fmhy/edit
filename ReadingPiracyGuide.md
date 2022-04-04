@@ -117,7 +117,6 @@
 * [EBooksCart](https://ebookscart.com/) - *Books*
 * [Index of /Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_index_of_.2Fbooks) - *Books*
 * [Novel12](https://novel12.com/) - *Books* 
-* [Read Print](http://www.readprint.com/) - *Books* 
 * [IsIDore](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_isidore) - *Books*
 * [Global Grey](https://www.globalgreyebooks.com/index.html) - *Books* 
 * [Bookyards](https://www.bookyards.com/en/welcome) - *Books* 
@@ -838,7 +837,6 @@
 * [ReaperScans](https://reaperscans.com/) 
 * [MangaSee123](https://mangasee123.com/)
 * [Panda Chaika](https://panda.chaika.moe/)
-* [MangaSee](https://mangaseeonline.us/)
 * [Manhuaplus](https://manhuaplus.com/) 
 * [Readmng](https://www.readmng.com/) 
 * [MangaSee](https://www.mangasee.net/) 
@@ -893,7 +891,6 @@
 * [BliBiliComics](https://www.bilibilicomics.com/)
 * [MyReadingManga](https://myreadingmanga.info/)
 * [MangaGo](https://www.mangago.me/)
-* [MangaWWW](http://mangawww.club/)
 * [MangaPlus](https://mangaplus.shueisha.co.jp/updates)
 * [MangaKomi](https://mangakomi.com/)
 * [ISekaiScan](https://isekaiscan.com/) 
