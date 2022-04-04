@@ -27,7 +27,7 @@
 * [IT Course Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_it_courses) - *IT Courses*
 * [Python Discord](https://pythondiscord.com/resources/) - *Python Learning Resources*
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - *Python Guide*
-* [CodingBat](https://codingbat.com/) - *Python / Java Practice*
+* [CodingBat](https://codingbat.com/) or [PyQuickie](https://chrome.google.com/webstore/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - *Python / Java Practice*
 * [Java Beginners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_java_beginners) - *Java Tutorials*
 * [Python4Everyone](https://py4e.com/) - *Learn Python*
 * [A Byte of Python](https://python.swaroopch.com/) - *Learn Python*
@@ -344,6 +344,8 @@
 * [StatPing](https://github.com/statping/statping) or [Better Uptime](https://betteruptime.com/) - *Site Uptime Monitor*
 * [UseMe](https://useme.org/) - *Ping Website*
 * [Measure](https://web.dev/measure/) - *Site Functionality Testing*
+* [UX Check](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) - *Site Heuristic Evaluation*
+* [Responsive Viewer](https://responsiveviewer.org/) - *Test Site on Multiple Screen Types / [Chrome](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en)*
 * [Testmail](https://testmail.app/) - *Site Signup Test*
 * [Responsivize](https://virejdasani.github.io/Responsivize/) - *Website Responsiveness Test*
 * [PageSpeed](https://developers.google.com/speed/pagespeed/insights/), [GTmetrix](https://gtmetrix.com/), [Testmysite](https://testmysite.io/) or [Websu](https://websu.io/) - *Test Webpage Speed*
@@ -661,9 +663,11 @@
 * [Phaser](https://phaser.io/) - *Mobile HTML5 Game Framework* 
 * [PlayCanvas](https://playcanvas.com/) - *Build HTML5 Visualizations / Games* 
 * [pup](https://github.com/ericchiang/pup) - *HTML Processing CLI*
+* [CSS Scan](https://chrome.google.com/webstore/detail/css-scan/gieabiemggnpnminflinemaickipbebg?hl=en) - *CSS Editor*
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips) or [CSS Reference](https://cssreference.io/) - *CSS Guide* 
 * [Awesome CSS](https://github.com/awesome-css-group/awesome-css) - *CSS resources* 
 * [Cssgr](https://cssgr.id/) - *CSS Grid Code Tool* 
+* [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) - *CSS Element Outline Extension*
 * [Water.css](https://watercss.kognise.dev/) - *CSS Styles Collection*
 * [Leon's CSS](https://leonarnott.neocities.org/ ) - *CSS Text Styles*
 * [Hover.CSS](https://ianlunn.github.io/Hover/) - *CSS Hover Effects* 
@@ -802,7 +806,7 @@
 * [Awesome-Discord-Communities](https://github.com/mhxion/awesome-discord-communities) - *Programming / Developer / Discord Communities* 
 * [TechBliss](https://www.techbliss.org/) - *Coding Forum*
 * [iTabCode](https://www.itabcode.net/) - *Programming / Computer Science Forum*
-* [AwesomeTwitterAccounts](https://github.com/yask123/AwesomeTwitterAccounts) - *Curated List of Programming Related Twitter Accounts* 
+* [Awesome Twitter Accounts](https://github.com/yask123/AwesomeTwitterAccounts) or [Awesome Twitter Communities](https://github.com/mattn/awesome-twitter-communities) - *Curated List of Programming Related Twitter Pages* 
 * [Awesome Programming](https://github.com/hardikvasa/awesome-programming) - *Programming Resources* 
 * [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality/wiki) - *Software Quality Testing Tools*
 * [Node-RED](https://nodered.org/) - *Low-code programming for event-driven applications* 
@@ -935,8 +939,8 @@
 * **[goormIDE](https://ide.goorm.io/)**, [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) - *Cloud IDE / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/) or [Glitch](https://glitch.com/) / [GitHub](https://github.com/m3o/m3o) - Cloud IDE*
 * **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VSCode* 
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - *Text / Code Collaboration Tools*
+* [colab alive](https://github.com/sobuj53/colabAlive) - *Keep Colab Open*
 * [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - *Cloud Platform Index*
-* [vscode.dev](https://vscode.dev/) - *VSCode in Browser / [Insider Build](https://insiders.vscode.dev/)*
 * [Openshift](https://che.openshift.io/) - *Cloud IDE / Eclipse Che* 
 * [Arduino](https://cloud.arduino.cc/) - *Cloud IDE for Arduino*
 * [bloop](https://bloop.ai/) - *IDE AI Suggestion Extension*
@@ -954,6 +958,6 @@
 ## ▷ IDEs / Code Editors
 
 * **[VSCodium](https://vscodium.com/)** - *Code Editor*  
-* VSCode Tools - [Open VSX Registry](https://open-vsx.org/) / [VSCodeThemes](https://vscodethemes.com/) / [Awesome VSCode Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) / [VSCode Theme Generator](https://oslo-vsc.netlify.app/) / [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) / [Discord-Tools](https://github.com/Darkempire78/Discord-Tools) / [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter)
+* VSCode Tools - [Open VSX Registry](https://open-vsx.org/) / [VSCodeThemes](https://vscodethemes.com/) / [Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/), [2](https://marketplace.visualstudio.com/) / [VSCode Theme Generator](https://oslo-vsc.netlify.app/) / [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) / [Discord-Tools](https://github.com/Darkempire78/Discord-Tools) / [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) / [VSCode in Browser](https://vscode.dev/), [2](https://code.cs50.io/) / [Insider Build](https://insiders.vscode.dev/)
 * [Apache NetBeans](https://netbeans.apache.org/) - *Cross Platform IDE*  
 * [KDevelop](https://www.kdevelop.org/) - *Cross Platform IDE*
