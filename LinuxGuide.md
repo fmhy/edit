@@ -335,7 +335,7 @@
 * [OpenSourceApple](https://opensource.apple.com/) - *System Tools*
 * [Windows 10 MBR](https://github.com/toru173/Windows-10-MBR-USB-Creation-Tool) or [Create Bootable](https://taig.medium.com/create-a-bootable-windows-10-usb-from-macos-395773d4782e) - *Windows 10 Media Creation Tool*
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - *UEFI Kexts*
-* [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913?mt=12) - *File Download Manager*
+* [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913?mt=12) or [Progressive Downloader](https://macpsd.net/) - *File Download Manager*
 * [maestral](https://maestral.app/) - *File Sharing App*
 * [ss64 OSX](https://ss64.com/osx/) - *MacOS Bash Commands*
 * [Orion](https://browser.kagi.com/downloads/Orion.dmg) - *Webkit Browser with Chrome & Firefox extensions / [Discord](https://discord.gg/E9EKaPZR)*
@@ -454,7 +454,7 @@
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 * [WebCatalog](https://webcatalog.io/)
 * [Awesome macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - *Open Source Software*
-* [Adobe CC 2021 Crack](https://redd.it/ox6rwl) - *Adobe Software*
+* [Adobe Creative Cloud](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mac_adobe_cc) - *Adobe CC Guides*
 * [Adobe Zii](https://www.adobezii.com/) - *Adobe CC Patcher*
 
 ***
