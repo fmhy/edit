@@ -1207,6 +1207,7 @@
 * [Hover](https://chrome.google.com/webstore/detail/hover/eiiibfemcfcehadokcldlcdljfdlmolj) - *Link Previews*
 * [Fetcher](https://fetcher.page/) - *Feed Grabber*
 * [Multimedia Search](https://multimediasearchapp.com/) - *Browser File Search*
+* [SessionBox](https://chrome.google.com/webstore/detail/sessionbox-multi-login-to/megbklhjamjbcafknkgmokldgolkdfig?hl=en) - *Multi-Account Login for any Site*
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
 * [Selectable](https://chrome.google.com/webstore/detail/selectable-for-fanfiction/jcidlhgdoojamkbpmhbpgldmajnobefd?ucbcb=1) - *Force Enable Select Text*
 * [CF-Purge](https://www.cf-purge.com/) - *Purge CloudFare Cache / [GitHub](https://github.com/cracker4o/purge-cf-cache-chrome-extension)*
