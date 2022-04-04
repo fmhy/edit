@@ -604,7 +604,6 @@
 * [FullSeasonsTv](https://fullseasonstv.com/) - *TV*
 * [MoviesWBB](http://movieswbb.com/) - *Movie / TV*
 * [KatMovieHD](https://katmoviehd.nz/category/hollywood-eng/) - *Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)*
-* [Amadei33](https://www.amadei33.com/) - *Movies / TV*  
 * [MKVBee](https://mkvbee.com/) - *Movies / TV*
 * [MKVHOUSE](https://mkvhouse.com/) - *Movies / TV*
 * [Minirlss](https://minirlss.com/) - *Movies / TV / Anime* 
@@ -661,8 +660,7 @@
 * [Moviessss](https://download-moviesss.herokuapp.com/?filter=Hollywood) - *Movies*
 * [TwitchDL](https://dl2.twitchdl.us/) - *Movies / TV / Anime*
 * [O2TVSeriesz](https://o2tvseriesz.com/) - *Movies / TV*
-* [HDWebMovies](https://hdwebmovies.org/) - *Movies / TV*
-* [Privatemoviez](https://privatemoviez.org/ ) - *Movies / TV*
+* [Privatemoviez](https://privatemoviez.org/) - *Movies / TV*
 * [7Moviesrulz](https://7movierulz.se/category/hollywood-movie-2021/) - *Movies*
 * [oKhatrimaza](https://www.okhatrimaza.vin/category/7/hollywood-english-movies/default/1.html) - *Movies*
 * [SD Movies Point](https://1sdmoviespoint.kim/category/hollywooddd/) - *Movies / TV*
