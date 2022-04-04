@@ -1245,7 +1245,7 @@
 ## ▷ Telegram Tools
 
 * **[Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools)** - *File Tools for Telegram*
-* [Telegram Channels](https://telegramchannels.me/), [TG-ME](https://www.tg-me.com/), [tg_indexs](https://t.me/tg_indexs), [telegram-list](https://github.com/goq/telegram-list) or [Telegramic](https://telegramic.org/) - *Telegram Channel Indexes*
+* [Telegram Channels](https://telegramchannels.me/), [TG-ME](https://www.tg-me.com/) or [Telegramic](https://telegramic.org/) - *Telegram Channel Indexes*
 * [Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_bots) - *Telegram Bot Indexes*
 * [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [gramxly](https://gramxly.com/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - *Telegram Channel / Bot Search*
 * [ShellBot](https://github.com/MannyHackers/ShellBot), [EvaMaria](https://github.com/EvamariaTG/EvaMaria) or [Userge](http://theuserge.tech/) - *Multi-Purpose Telegram Bot*
