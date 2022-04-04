@@ -385,7 +385,7 @@
 * [AniPlaylist](https://aniplaylist.com/), [OSAnime](https://osanime.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - *Anime Soundtracks* 
 * [OtakuOst](https://otakuost.net/) - *Anime Soundtracks & Japanese Music* 
 * [DramaOST](https://dramaost.com/) or [KDramaOST](https://kdramaost.com/en) - *Asian Drama Soundtracks*
-* [Doujin Cafe](https://discord.com/invite/doujincafe) or [lolicore](http://lolicore.org/) - *Doujin Music*
+* [Doujin Cafe](https://discord.com/invite/doujincafe) - *Doujin Music*
 * [Keygen Music](http://www.keygenmusic.org/) - *Keygen Music Archive*
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- *MIDI Files* 
 * [QueenMusicHall](http://www.queenmusichall.cz/) - *Queen MIDIs, Audio, Photos*
