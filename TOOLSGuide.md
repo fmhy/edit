@@ -519,7 +519,7 @@
 * [Get Song BPM](https://getsongbpm.com/) - *Song Tempo Database*
 * [MusicSpeedChanger](https://musicspeedchanger.com/) - *Music Speed Changer*
 * [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) - *Musical Chord Progression* 
-* [beets.io](http://beets.io/) / [2](https://github.com/beetbox/beets), [Zortam](https://www.zortam.com/), [MP3Tag](https://www.mp3tag.de/en/), [MusicBee](https://getmusicbee.com/) or [MusicBrainz](https://picard.musicbrainz.org/) - *Music Metadata Organizer*
+* [beets.io](http://beets.io/) / [2](https://github.com/beetbox/beets), [alto](https://github.com/ItsLychee/alto), [Zortam](https://www.zortam.com/), [MP3Tag](https://www.mp3tag.de/en/), [MusicBee](https://getmusicbee.com/) or [MusicBrainz](https://picard.musicbrainz.org/) - *Music Metadata Organizer*
 * [Mooval](https://www.mooval.de/) - *Move Songs to or from Programs / Sites*
 * [Croosfade](https://crossfade.io/) - *Video and Audio Crossfading*
 * [ZzFXM](https://keithclark.github.io/ZzFXM/) - *JavaScript Music Renderer* 
@@ -1322,7 +1322,8 @@
 * [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - *YouTube to GIF* 
 * [VideoGlancer](https://videoglancer.com/) - *YouTube to PDF*
 * [ytcropper](https://ytcropper.com/), [YTCutter.net](https://ytcutter.net/) or [YTCutter.com](https://ytcutter.com/) - *YouTube Video Cropper*
-* [Vid Repeat](https://vidrepeat.com/) - *Loop Youtube Videos*
+* [Vid Repeat](https://vidrepeat.com/) - *Loop YouTube Videos*
+* [AnnotationsRestored](https://github.com/isaackd/AnnotationsRestored) - *Restore YouTube Annotations*
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - *YouTube Note Taking Tool*
 * [yt2pod](https://github.com/frou/yt2pod) - *Create Podcasts from YouTube Channels* 
 * [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - *YouTube Comment Search*
@@ -2025,7 +2026,7 @@ https://0install.net/) / [GitHub](https://github.com/0install/0install) or [Nini
 * [File Juggler](https://www.filejuggler.com/) - *Organize Files Automatically*
 * [Shoko](https://github.com/shokoanime) - *Anime Catalog Automation* 
 * [Phockup](https://github.com/ivandokov/phockup) - *Organize Photo / Video Files by Date* 
-* [WeCompress](https://www.wecompress.com/) or [YouCompress](https://www.youcompress.com/) - *Online File Compressor* 
+* [WeCompress](https://www.wecompress.com/), [Compress.com](https://www.compresss.com/) or [YouCompress](https://www.youcompress.com/) - *Online File Compressor* 
 * [czkawka](https://github.com/qarmin/czkawka) - *Remove Unnecessary Files* 
 * [DBAN](https://dban.org/) or [KillDisk](http://killdisk.com/killdisk-home.htm) - *Data Removal Tool* 
 * [UnLock IT](https://emcosoftware.com/unlock-it/download), [Lock Hunter](https://lockhunter.com/) or [FileExile](https://sourceforge.net/projects/filexile/) - *File Unlocker / Deleter*
