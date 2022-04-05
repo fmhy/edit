@@ -61,7 +61,7 @@
 * [ComicCompiler](https://github.com/bajuwa/ComicCompiler/) - *Combine / Splice Webtoons*
 * [Needs More JPEG](http://needsmorejpeg.com/) - *Blur / Pixelize Images* 
 * [PicFont](https://picfont.com/) - *Add Text to Images*
-* [Acme Annotator](https://acme.com/annotator/) - *Add Notes to a Picture* 
+* [Labellmg](https://github.com/tzutalin/labelImg) or [Acme Annotator](https://acme.com/annotator/) - *Image Annotation* 
 * [Face Merging](https://www.faceplusplus.com/face-merging/) or [MorphThing](https://www.morphthing.com/) - *Face Merging Tool* 
 * [WebcamToy](https://webcamtoy.com/) or [HDBooth](https://www.hdbooth.net/) - *Webcam Effects*
 * [Latent Diffusion](https://github.com/CompVis/latent-diffusion) - *Image Synthesis with Latent Diffusion Models*
@@ -393,7 +393,7 @@
 * [KSnip](https://github.com/ksnip/ksnip)
 * [LightShot](https://app.prntscr.com/en/index.html)
 * [Nimbus Capture](https://nimbusweb.me/screenshot.php) 
-* [Pika](https://pika.rishimohan.me/) - *Screenshot Editor / [GitHub](https://github.com/rishimohan/pika)*
+* [Pika](https://pika.rishimohan.me/) / [GitHub](https://github.com/rishimohan/pika) or [OnPaste](https://onpaste.com/) - *Screenshot Editor*
 * [Screenshot Guru](https://screenshot.guru/), [CleanShot](https://cleanshot.vercel.app/) or [Site-Shot](https://www.site-shot.com/) - *Online Screenshot Tool* 
 * [OnlineScreenshot](https://onlinescreenshot.com/), [Screenshot Rocks](https://screenshot.rocks/) / [GitHub](https://github.com/daveearley/screenshot.rocks ) or [Pikwy](https://pikwy.com/) - *Site Screenshot Tool*
 * [puush](https://puush.me/) - *Easily Share Screenshots*
