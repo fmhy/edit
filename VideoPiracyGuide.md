@@ -140,6 +140,7 @@
 * [Best-Movies](https://best-movies.watch/) - *Movies*
 * [Dutafilm](https://103.194.171.75/) - *Movies / TV / Anime*
 * [YesHD](https://yeshd.net/) - *Movies / TV*
+* [Swatchfree](https://swatchfree.in/) - *Movies / TV*
 * [UWatchFree](https://www.uwatchfree.ph/) - *Movies / TV*  
 * [WatchSeriesHD](https://www4.watchserieshd.tv/) - *Movies / TV / Anime* 
 * [Vmovee](https://www.vmovee.watch/) - *Movies / TV*
@@ -813,7 +814,7 @@
 * [Radarr](https://radarr.video/) - *Movie Torrent Autodownload / [GitHub](https://github.com/Radarr/Radarr)*
 * [Sonarr](https://sonarr.tv/) / [GitHub](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - *TV Torrent Autodownload / [Guide](https://wiki.servarr.com/)*
 * [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - *Movie / TV autodownload / [Discord](https://discord.gg/PFwM4zk)*
-* [SickChill](https://sickchill.github.io/) or [CouchPotato](https://couchpota.to/) - *Automatic torrent/nzb searching, downloading & processing / Manager*
+* [SickChill](https://sickchill.github.io/) / [GitHub](https://github.com/SickChill/SickChill) or [CouchPotato](https://couchpota.to/) - *Automatic torrent/nzb searching, downloading & processing / Manager*
 * [Autodownload Tools](https://redd.it/hbwnb2) - *All Autodownload Tools*
 * [NZBHydra](https://github.com/theotherp/nzbhydra) - *Meta search for NZB indexers*
 * [pirateflix](https://github.com/orinocoz/pirateflix), [wt](https://github.com/DegenCoden/wt), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) / [MPV](https://github.com/noctuid/mpv-peerflix-hook) or [Clifix](https://github.com/fabiospampinato/cliflix)  - *Torrent Streaming CLI* 
