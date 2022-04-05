@@ -291,7 +291,7 @@
 * [Privacy Badger](https://privacybadger.org/) or [Privacy Possum](https://github.com/cowlicks/privacypossum) - *Blocks invisible trackers*
 * [UglyEmail](https://uglyemail.com/) or [PixelBlock](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem/) - *Block Email Trackers* 
 * [FlowCrypt](https://flowcrypt.com/) - *Gmail Encryption*
-* [Chameleon](https://github.com/sereneblue/chameleon), [UA Switcher & Manager](https://add0n.com/useragent-switcher.html) or [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) - *User-Agent Spoofer*
+* [Chameleon](https://sereneblue.github.io/chameleon/), [UA Switcher & Manager](https://add0n.com/useragent-switcher.html) or [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) - *User-Agent Spoofer*
 * [Firefox Privacy Settings](https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/) or [SnowHaze](https://github.com/snowhaze/firefox-extension) - *Firefox Privacy Settings Manager*
 * [Smart Referer](https://gitlab.com/smart-referrer/smart-referer) - *Limit Referer Information Leaks* 
 * [Privacy-Oriented Origin Policy](https://claustromaniac.github.io/poop/) - *Prevents Sending Origin Headers* 
