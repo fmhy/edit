@@ -25,18 +25,20 @@
 * [Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)
 * [DecodingDevOps](https://www.decodingdevops.com/) - *Developer Q&A*
 * [IT Course Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_it_courses) - *IT Courses*
-* [Python Discord](https://pythondiscord.com/resources/) - *Python Learning Resources*
+* [Python Discord](https://pythondiscord.com/resources/) or [Python Reference](https://github.com/rasbt/python_reference) - *Python Learning Resources*
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - *Python Guide*
 * [CodingBat](https://codingbat.com/) or [PyQuickie](https://chrome.google.com/webstore/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - *Python / Java Practice*
 * [Java Beginners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_java_beginners) - *Java Tutorials*
 * [Python4Everyone](https://py4e.com/) - *Learn Python*
 * [A Byte of Python](https://python.swaroopch.com/) - *Learn Python*
 * [Learn Python](https://github.com/trekhleb/learn-python) - *Learn Python*
+* [Magical Universe](https://github.com/zotroneneis/magical_universe) - *Learn Python*
 * [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - *Python Lessons*
 * [Real Python](https://realpython.com/) - *Python Tutorials*
 * [FutureCoder](https://futurecoder.io/), [2-Python](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_2-python) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - *Python Course*
 * [Modern Python 3 Bootcamp Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modern_python_3_bootcamp_courses)
 * [Tea Press](https://greenteapress.com/wp) - *Free Python Learning Books Green*
+* [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) - *Python Cheatsheet*
 * [VSCode.one](https://vscode.one/) - *VS Code Tutorials*
 * [Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) or [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - *Programming & Development Learning Channels*
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - *Code Algorithms & Data Structures Tutorials*
@@ -52,6 +54,7 @@
 * [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - *Coding Learning Resources*
 * [30 Seconds of Code](https://www.30secondsofcode.org/) - *Javascript / CSS/ React / Python / Website-building / [GitHub](https://github.com/30-seconds)*
 * [Codexplainer AI](https://chrome.google.com/webstore/detail/codexplainer-ai-beta/mekadgeckpcgideipfhbcapmenbadejp) - *Code Explanations*
+* [Coding Problems](https://github.com/MTrajK/coding-problems) - *Solutions for Coding Problems*
 * [RoboMind](https://www.robomind.net/) - *Code Learning Game*
 * [Tuts 4 You](https://forum.tuts4you.com/) - *Coding / Developer Tutorials*
 * [PythonTutor](https://pythontutor.com/) - *Coding Tutorials*
@@ -110,12 +113,14 @@
 * [EloquentJavascript](https://eloquentjavascript.net/), [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript), [FunJavascript](https://fun-javascript-projects.com/) or [Grasshopper](https://grasshopper.app/) - *Learn Javascript*
 * [JavaScriptQuiz](https://javascriptquiz.com/) - *JavaScript Quiz*
 * [Javascript Questions](https://github.com/lydiahallie/javascript-questions) - *Javascript Questions for Practice*
+* [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - *Useful JavaScript Concepts*
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - *Node.js Guide / Tips*
 * [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - *Javascript Query Style Events Guide*
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - *Airbnb JavaScript Guide*
 * [Simple Regex](https://simple-regex.com/) - *Regex Tutorial*
 * [ReGeX](https://github.com/phikal/ReGeX) - *ReGeX Learning Game / Android*
 * [ReFrF](https://refrf.dev/) or [Regex.info](http://regex.info/) - *Learn Regex*
+* [Data Science Ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - *Learn DataScience*
 * [FlexBoxFroggy](https://flexboxfroggy.com/) - *CSS Learning Game*
 * [CSS Diner](https://flukeout.github.io/) - *Interactive CSS Learning*
 * [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - *CSS Demos*
@@ -127,10 +132,12 @@
 * [Typing.io](https://typing.io/) - *Typing Practice for Programmers* 
 * [Karel The Robot](https://github.com/fredoverflow/karel) - *Basic Programming Teaching Environment*
 * [HackersFriend](https://www.hackersfriend.com/tutorials/) - *Competitive Programming Tutorials*
+* [High Assurance Rust](https://highassurance.rs/) - *Software Development Guide*
 * [Katacoda](https://www.katacoda.com/) - *Software Engineer Tutorials* 
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - *Podcasts for Software Engineers*
 * [Interview University](https://github.com/jwasham/coding-interview-university) - *Software Engineer Study Guide Coding*
 * [Devops Exercises](https://github.com/bregman-arie/devops-exercises) - *DevOps Exercises*
+* [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - *Learn DevOps*
 * [Hacksplaining](https://www.hacksplaining.com/) - *Developer Security Lessons*
 * [Publish Something Online](https://publishsomething.online/) - *Site Development Guides*
 * [LandChad](https://landchad.net/) - *Site Development Guide*
@@ -152,6 +159,7 @@
 * [SwiftDump](https://github.com/neil-wu/SwiftDump) - *Retreive Swift Object info from Mach-O file*
 * [WeCreators](https://www.wecreators.co/creators-tools) - *Site Development / Influencer Courses*
 * [Learn Git Branching](https://learngitbranching.js.org/) - *Interactive Git Branching Guide*
+* [Flutter Tips and Tricks](https://github.com/vandadnp/flutter-tips-and-tricks) - *Flutter Tips and Tricks*
 * [Learn SQL](https://sqlbolt.com/) or [Top Database Bundle](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_top_database_bundle) - *SQL Lessons*
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - *PostgreSQL Tutorial*
 * [MySQL Tutorial](https://www.mysqltutorial.org/) - *MySQL Tutorial*
@@ -234,6 +242,7 @@
 * [Awesome Big Data](https://github.com/0xnr/awesome-bigdata) - *Big Data Resource Index*
 * [Kubespray](https://github.com/kubernetes-sigs/kubespray) - *Kubernetes Cluster*
 * [Libraries.io](https://libraries.io/) - *Package, Framework & Tool Search*
+* [ToolJet](https://tooljet.com/) - *Internal Tool Framework / Deployment / [GitHub](https://github.com/ToolJet/ToolJet)*
 * [Deps.dev](https://deps.dev/) - *Open-Source Package Search*
 * [PackageCloud](https://packagecloud.io/) or [pnpm](http://pnpm.io/) - *Package Manager / Deployment*
 * [WebInstall](https://webinstall.dev/) - *Easily Install Dev Packages*
@@ -394,6 +403,7 @@
 * [MinimalAvatars](https://minimalavatars.com/) - *Minimal Site Avatars*
 * [GalleryProject](http://galleryproject.org/) - *Manage / Host Photos on Website* 
 * [PublishThisEmail](https://www.publishthis.email/) - *Email Based Website Builder*
+* [PrivateDaddy](https://www.privatedaddy.com/) - *Auto Hide Email Address'*
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - *Mobile Friendly Page Test* 
 * [hlsflow](https://github.com/hlsflow/hlsflow) - *Host Video in HLS Stream*
 * [OneLinePlayer](https://onelineplayer.com/) - *Vimeo / Dropbox Video Player*
@@ -510,6 +520,7 @@
 * [Gummy](https://gummyjs.vercel.app/) - *Easily Build Javascript Programs* 
 * [NASM](https://www.nasm.us/) - *Program Assembler*
 * [Pakkly](https://pakkly.com/) - *Desktop App Deployment*
+* [Dotnet Content Creators](https://github.com/matthiasjost/dotnet-content-creators) - *.NET Content Creators Index*
 * [dotnet releaser](https://github.com/xoofx/dotnet-releaser) - *Automate Release of .NET Applications*
 * [Pencil](http://pencil.evolus.vn/) - *Software Mockup Tool / [GitHub](https://github.com/evolus/pencil)*
 * [GNUnet](https://gnunet.org/en/) - *Software Framework* 
@@ -872,6 +883,7 @@
 * [SharpSystemTriggers](https://github.com/cube0x0/SharpSystemTriggers) - *C# Remote Authentication Triggers*
 * [GCC](https://gcc.gnu.org/) - *GNU Compiler Frontends*
 * [asdf](https://asdf-vm.com/) - *Multi-Runtime Management CLI*
+* [The SHA-256 Project](https://github.com/oconnor663/sha256_project) - *Develop SHA-256 from Scratch*
 * [substitute](https://github.com/comex/substitute) - *Free Runtime Modification Library*
 * [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) - *Machine Learning Art Resource Index* 
 * [Sourcegraph](https://sourcegraph.com/) or [Ag](https://geoff.greer.fm/ag/) / [GitHub](https://github.com/ggreer/the_silver_searcher) - *Code Searching*
