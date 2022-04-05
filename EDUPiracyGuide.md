@@ -78,6 +78,7 @@
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - *Computer Science Courses*
 * [Learn Computer Science in 1k Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/) - *Computer Science Courses*
 * [sha256_project](https://github.com/oconnor663/sha256_project) - *Applied Cryptography Course*
+* [Sapience Institute](https://learn.sapienceinstitute.org/) - *Religious Courses*
 * [FreeCourseWebsite](https://freecoursewebsite.com/) - *Udemy Courses*
 * [HiDevs](https://hidevs.net/) - *Udemy Courses*
 * [UdemyFreeCourses](https://udemyfreecourses.org/) - *Udemy Courses*
@@ -505,6 +506,7 @@
 * [Sound Slice](https://soundslice.com/) or [Nootka](https://nootka.sourceforge.io/) - *Sheet Music Learning*
 * [LilyPond](http://lilypond.org/) - *Music Engraving Program*
 * [Learning Music](https://learningmusic.ableton.com/)
+* [Musica](https://www.musicca.com/)
 * [Teoria](https://www.teoria.com/index.php) - *Music Theory*
 * [LightNote](https://www.lightnote.co/) - *Music Theory*
 * [Music Theory](https://www.musictheory.net/) - *Music Theory*
@@ -629,7 +631,7 @@
 * [PowerInBooks](https://powerinbooks.xyz/temp/) or [LitSolutions](https://www.litsolutions.org/) - *Textbook Solutions* 
 * [LabXchange](https://www.labxchange.org/) - *Science / Interactive*
 * [AskNature](https://asknature.org/) - *Natural Strategies / Solutions* 
-* [Citation Generator](https://www.citationgenerator.com/), [CitationMachine](https://citationmachine.net/) or [Cite This For Me](https://www.citethisforme.com/) - *Generate Citations / [Chrome](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)*
+* [Citation Generator](https://www.citationgenerator.com/), [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/) or [Cite This For Me](https://www.citethisforme.com/) - *Generate Citations / [Chrome](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)*
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - *Citation Analyzer*
 * [AMCharts](https://live.amcharts.com/), [Charttt](https://editor.charttt.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - *Chart Creator*
 * [flowchart fun](https://flowchart.fun/) - *Generate Flowchart From Text / [GitHub](https://github.com/tone-row/flowchart-fun)*
