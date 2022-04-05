@@ -925,6 +925,7 @@ RSS Player*
 * [Kagi](https://apps.apple.com/us/app/kagi/id1484498200) or [Orion](https://testflight.apple.com/join/DeC8ZDnu) - *Browser w/ Firefox & Chrome Extension Support*
 * [iRetro](https://apps.apple.com/us/app/iretro-the-internet-browser/id1015692776) - *Browser w/ Wayback Machine*
 * [Lights Off](https://testflight.apple.com/join/pj7BWqeJ) - *iOS Safari Dark Mode*
+* [Enmity](https://enmity.app/) - *Modded iOS Discord Client / [GitHub](https://github.com/enmity-mod) / [Discord](https://discord.com/invite/rMdzhWUaGT)*
 * [DiscordExtras](https://github.com/NotZoeyDev/DiscordExtras) - *Patch Discord Client*
 * [Local Time Generator](https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94) - *Generate Discord Timestamps*
 * [UTM](https://getutm.app/) - *Virtual Machines* 
