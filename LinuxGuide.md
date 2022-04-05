@@ -320,6 +320,7 @@
 * **[Fantastical](https://flexibits.com/fantastical)** - *Calendar*
 * [DMHY](https://github.com/yaqinking/DMHY) - *Anime Torrent Autodownloader* 
 * [YTMusic](https://ytmusic.app/) - *YouTube Music Client*
+* [Enmity](https://enmity.app/) - *Modded Discord Client / [GitHub](https://github.com/enmity-mod / [Discord](https://discord.com/invite/rMdzhWUaGT)*
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) - *Download MacOS*
 * [Beta Profiles](https://betaprofiles.com/) - *Download Pre-Release Versions MacOS*
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - *Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)*
@@ -403,6 +404,7 @@
 * [Manta](https://github.com/hql287/Manta) - *Invoice Manager*
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - *Grayscale Control*
 * [MacOSIcons](https://macosicons.com/) - *MacOS Icons*
+* [Rayon](https://github.com/Lakr233/Rayon) - *SSH Machine Manager*
 * [Discord M1](https://github.com/yannhodiesne/Discord-M1) - *M1 Mac Discord App*
 * [equinux](https://equinux.github.io/) - *OS X Certificate Fix*
 * [Lilu](https://github.com/acidanthera/Lilu) - *Kext / Process Patcher*
