@@ -389,6 +389,7 @@
 * [Fopnu](https://fopnu.com/) - *File Sharing App* 
 * [MuWire](https://muwire.com/index-nojs.html) - *File Sharing App* 
 * [eMule](https://www.emule-project.net/) - *File Sharing App*
+* [Shareaza P2P](http://shareaza.sourceforge.net/) - *File Sharing App*
 * [WireShare](https://sourceforge.net/projects/wireshare/) - *File Sharing App / LimeWire Fork* 
 * [Telegram Download Channels](https://piracy.now.sh/telegram/) - *Download files from telegram*
 * [TGMoviesBot](https://t.me/TGMoviesBot) - *Telegram File Search Bot* 
