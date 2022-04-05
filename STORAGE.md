@@ -201,7 +201,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Audio Editors 
 
-**[Audacity](https://github.com/cookiengineer/audacity)**, [2](https://archive.org/details/audacity-2.4.2), [3](https://www.audacityteam.org/), [4](https://github.com/temporary-audacity/audacity), [5](https://tenacityaudio.org/) / [DarkAudacity](http://www.darkaudacity.com/), [MusE](https://muse-sequencer.github.io/), [Lexis Audio Editor](https://www.lexisaudioeditor.com/), [mp3DirectCut](https://mpesch3.de/), [Ardour](https://ardour.org/), [LMMS](https://lmms.io/), [AudioMass](https://audiomass.co/), [FamiStudio](https://famistudio.org/), [ocenaudio](https://www.ocenaudio.com/en/startpage), [mp3mymp3](https://mp3mymp3.digitalliquid.com/), [Wavosaur](https://www.wavosaur.com/), [Sneedcity](https://github.com/Sneeds-Feed-and-Seed/sneedacity), [Radium](https://users.notam02.no/~kjetism/radium/), [AudioDope](http://www.audiodope.org/index.htm), [FL Studio](https://www.image-line.com/fl-studio-download/), [OpenMPT](https://openmpt.org/), [Schism](http://schismtracker.org/), [Radium](https://users.notam02.no/~kjetism/radium/index.php), [WaveBots](https://krasse.itch.io/wavebots-editor)
+**[Audacity](https://github.com/cookiengineer/audacity)**, [2](https://archive.org/details/audacity-2.4.2), [3](https://www.audacityteam.org/), [4](https://github.com/temporary-audacity/audacity), [5](https://tenacityaudio.org/) / [DarkAudacity](http://www.darkaudacity.com/), [MusE](https://muse-sequencer.github.io/), [Lexis Audio Editor](https://www.lexisaudioeditor.com/), [mp3DirectCut](https://mpesch3.de/), [Ardour](https://ardour.org/), [LMMS](https://lmms.io/), [AudioMass](https://audiomass.co/), [FamiStudio](https://famistudio.org/), [ocenaudio](https://www.ocenaudio.com/en/startpage), [mp3mymp3](https://mp3mymp3.digitalliquid.com/), [Wavosaur](https://www.wavosaur.com/), [Sneedcity](https://github.com/Sneeds-Feed-and-Seed/sneedacity), [Radium](https://users.notam02.no/~kjetism/radium/), [AudioDope](http://www.audiodope.org/index.htm), [FL Studio](https://www.image-line.com/fl-studio-download/), [OpenMPT](https://openmpt.org/), [Schism](http://schismtracker.org/), [Radium](https://users.notam02.no/~kjetism/radium/index.php), [WaveBots](https://krasse.itch.io/wavebots-editor), [BandLab](https://www.bandlab.com/)
 
 ***
 
@@ -658,6 +658,9 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * [FlashGet](http://www.flashget.com/index_en.html) 
 * [Westbyte](https://www.westbyte.com/ida/) 
 * [Tucan Manager](https://www.tucaneando.com/)
+* [Ninja Download Manager](https://ninjadownloadmanager.com/)
+* [Internet Download Accelerator](https://westbyte.com/ida/) 
+* [Envy](https://sourceforge.net/projects/getenvy/) - *[GitHub](https://github.com/getenvy/envy)*
 * [AWGG](https://sites.google.com/site/awggproject/) / [GitHub](https://github.com/Nenirey/AWGG)
 * [Ant Download Manager](https://antdownloadmanager.com/)
 * [Xtreme Downlaod Manager](https://xtremedownloadmanager.com/) 
@@ -1805,7 +1808,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### SFX / Loops
 
-[Adobe Audition Downloads](https://offers.adobe.com/en/na/audition/offers/audition_dlc.html), [Free-Loops](http://free-loops.com/), [FreeSOundEffects](https://www.freesoundeffects.com/), [Freesound](http://freesound.org/), [soundbible](https://soundbible.com/), [flashkit](http://www.flashkit.com/soundfx), [ZapsPlat](https://www.zapsplat.com/), [FindSounds](https://findsounds.com/), [OrangeFreeSounds](https://orangefreesounds.com/), [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) / [Downloader](https://github.com/FThompson/BBCSoundDownloader), [looperman](https://www.looperman.com/loops), [sonniss2019](http://ftpmirror.your.org/pub/misc/sonniss2019/), [storyblocks](https://www.storyblocks.com/), [LabChirp](http://labbed.net/software/labchirp/), [Bfxr](https://www.bfxr.net/), [Noizable](https://noizable.media/), [sampleswap](https://sampleswap.org/), [samplefocus](https://samplefocus.com/), [soundpacks](https://soundpacks.com/), [Soundfishing](https://www.soundfishing.eu/, [SampleScope](https://samplescope.app/), [FindSounds](https://www.findsounds.com/)
+[Adobe Audition Downloads](https://offers.adobe.com/en/na/audition/offers/audition_dlc.html), [Free-Loops](http://free-loops.com/), [FreeSOundEffects](https://www.freesoundeffects.com/), [Freesound](http://freesound.org/), [soundbible](https://soundbible.com/), [flashkit](http://www.flashkit.com/soundfx), [ZapsPlat](https://www.zapsplat.com/), [FindSounds](https://findsounds.com/), [OrangeFreeSounds](https://orangefreesounds.com/), [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) / [Downloader](https://github.com/FThompson/BBCSoundDownloader), [looperman](https://www.looperman.com/loops), [sonniss2019](http://ftpmirror.your.org/pub/misc/sonniss2019/), [storyblocks](https://www.storyblocks.com/), [LabChirp](http://labbed.net/software/labchirp/), [Bfxr](https://www.bfxr.net/), [Noizable](https://noizable.media/), [sampleswap](https://sampleswap.org/), [samplefocus](https://samplefocus.com/), [soundpacks](https://soundpacks.com/), [Soundfishing](https://www.soundfishing.eu/), [SampleScope](https://samplescope.app/), [FindSounds](https://www.findsounds.com/), [splice](https://splice.com/)
 
 ***
 
@@ -2550,7 +2553,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Online Editors**
 
-[Clideo](https://clideo.com/), [Kapwing](https://www.kapwing.com/), [InVideo](https://invideo.io/), [Biteable](https://biteable.com/), [Mastershot](https://mastershot.app/), [Panzoid](https://panzoid.com/), [KeepVid](https://keepvid.com/), [KeepChangeIt](https://keepchangeit.com/), [Flexclip](https://www.flexclip.com/), [veed.io](https://www.veed.io/tools/video-editor), [FastReel](https://www.fastreel.com/), [Convert2Video](https://convert2video.com/), [Video Cutter](https://video-cutter-js.com/), [FlexClip](https://www.flexclip.com/), [Vididoo](https://vididoo.vercel.app/), [VideoToolbox](http://www.videotoolbox.com/), [VideoCandy](https://videocandy.com/)
+[Clideo](https://clideo.com/), [Kapwing](https://www.kapwing.com/), [InVideo](https://invideo.io/), [Biteable](https://biteable.com/), [Mastershot](https://mastershot.app/), [Panzoid](https://panzoid.com/), [KeepVid](https://keepvid.com/), [KeepChangeIt](https://keepchangeit.com/), [Flexclip](https://www.flexclip.com/), [veed.io](https://www.veed.io/tools/video-editor), [FastReel](https://www.fastreel.com/), [Convert2Video](https://convert2video.com/), [Video Cutter](https://video-cutter-js.com/), [FlexClip](https://www.flexclip.com/), [Vididoo](https://vididoo.vercel.app/), [VideoToolbox](http://www.videotoolbox.com/), [VideoCandy](https://videocandy.com/), [Animoto](https://animoto.com/)
 
 ***
 
