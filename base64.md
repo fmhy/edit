@@ -1344,6 +1344,8 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 `aHR0cHM6Ly9yZW50cnkuY28vV2luLUlTTw==`
 
+`aHR0cHM6Ly9yZW50cnkuY28vQ3VzdG9tLVdpbmRvd3MtQnVpbGQ=`
+
 *** 
 
 #### Windows Activation
