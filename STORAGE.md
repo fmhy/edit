@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/ceMHOxQ.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/RT4rL3T.png)** - *For mobile users*
 
 ***
 ***
@@ -995,6 +995,17 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ***
 
+#### Kodi
+
+* [Kodi](https://kodi.tv/) - *Media Server / Streaming App*
+* [Builds Chart](https://kodiapps.com/builds-chart) - *Kodi Builds*
+* Kodi Addons - [/r/Addons4Kodi](https://reddit.com/r/Addons4Kodi), [Addon Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [2](https://kodiapps.com/addons-chart)
+* [MMA](https://www.bestkoditips.com/best-kodi-addons-to-watch-ufc-online/) - *MMA App*
+* [AZNHusband](https://aznhusband.github.io/) / [2](https://github.com/soraxas/aznhusband.github.io/releases) or [cywteow](https://cywteow.github.io/) - *KDrama Apps*
+* Kodi Tools - [IPTV](https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client) / [Media Tracker](https://simkl.com/) / [Media Manager](https://github.com/komet/mediaelch) / [Plex](https://github.com/plexinc/plex-for-kodi)
+
+***
+
 #### Location Guard
 
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/change-geolocation-locguard/) / [2](https://addons.mozilla.org/en-US/firefox/addon/location-guard/), [Chrome](https://chrome.google.com/webstore/detail/change-geolocation-locati/lejoknkbcogjceoniealiipllomkpioe) / [2](https://chrome.google.com/webstore/detail/location-guard/cfohepagpmnodfdmjliccbbigdkfcgia), [Opera](https://addons.opera.com/en-gb/extensions/details/change-geolocation-location-guard/)
@@ -1147,6 +1158,7 @@ Add the following commands to a search to manually scrape each site.
 * [Rygel](https://wiki.gnome.org/Projects/Rygel)
 * [MiniDLNA](https://sourceforge.net/projects/minidlna/)
 * [SimpleDLNA](https://nmaier.github.io/simpleDLNA/) 
+* [Kodi](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi)
 * [Vigilio](https://vigilio.tugcan.net/) - *[GitHub](https://github.com/tugcanolgun/vigilio)*
 * [ErsatzTV](https://ersatztv.org/) - *Live Channel Media Server*
 * [dizqueTV](https://github.com/vexorian/dizquetv) - *Live Channel Media Server*
@@ -1155,15 +1167,6 @@ Add the following commands to a search to manually scrape each site.
 * [Overseerr](https://overseerr.dev/) - *Plex User Request Management*
 * [TRaSH Guides](https://trash-guides.info/) or [The Complete Guide](https://redd.it/pqsomd) - *Video Server Setup Guides*
 * [Archon Wiki](https://github.com/Protektor-Desura/Archon/wiki/Compare-Media-Servers) - *Media Server Comparisons*
-
-**Kodi**
-
-* [Kodi](https://kodi.tv/) - *Media Server / Streaming App*
-* [Builds Chart](https://kodiapps.com/builds-chart) - *Kodi Builds*
-* Kodi Addons - [/r/Addons4Kodi](https://reddit.com/r/Addons4Kodi), [Addon Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [2](https://kodiapps.com/addons-chart)
-* [MMA](https://www.bestkoditips.com/best-kodi-addons-to-watch-ufc-online/) - *MMA App*
-* [AZNHusband](https://aznhusband.github.io/) / [2](https://github.com/soraxas/aznhusband.github.io/releases) or [cywteow](https://cywteow.github.io/) - *KDrama Apps*
-* Kodi Tools - [IPTV](https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client) / [Media Tracker](https://simkl.com/) / [Media Manager](https://github.com/komet/mediaelch) / [Plex](https://github.com/plexinc/plex-for-kodi)
 
 ***
 
