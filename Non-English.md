@@ -717,13 +717,11 @@ French / General Torrent Tracker
 * [itazuraneko](https://itazuraneko.neocities.org/library/librarymain.html) - *Manga / Novels / Video Novels / Audiobooks*
 * [Rawmangaz](https://rentry.co/rawmangaz) - *List of Raw Manga Sites*
 * [senmanga](https://raw.senmanga.com/) - *Manga / Novels / NSFW*
-* [manga1000](https://manga1000.com/) or [manga1001](https://manga1001.com/) - *Manga / NSFW* 
 * [rawdevart](https://rawdevart.com/) - *Manga* 
 * [mangaraid](https://mangaraid.com/) - *Manga / NSFW* 
 * [MangaZip](https://manga-zip.info/), [2](https://manga-zip.biz/), [3](https://dlraw.net/) - *Manga*
 * [Raw-Zip](http://raw-zip.com/) - *Manga*
 * [DL Raw](https://dl-raw.net/) - *Manga*
-* [CMZip](https://cmczip.com/) - *Manga*
 * [MangaZone](http://www.manga-zone.org/) - *Manga*
 * [RawCans](http://raw-cans.net/) - *Manga*
 * [BSZip](https://bszip.com/) - *Manga*
@@ -736,6 +734,7 @@ French / General Torrent Tracker
 * [WeLoMa](https://weloma.net/) - *Manga*
 * [Kissaway](https://kissaway.net/) - *Manga*
 * [dl-raw](https://dl-raw.net/) - *Manga / Novels / NSFW*
+* [doki1001](https://doki1001.com/) - *Manga / NSFW*
 * [Honto](https://honto.jp/cp/ebook/recent/free.html) - *Manga / NSFW*
 * [manga-zip](https://manga-zip.net/), [2](https://manga-zip.info/) - *Manga / NSFW* 
 * [dl-zip](http://dl-zip.com/) - *Manga / NSFW*
