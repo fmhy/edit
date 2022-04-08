@@ -35,7 +35,7 @@
 * [Magical Universe](https://github.com/zotroneneis/magical_universe) - *Learn Python*
 * [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - *Python Lessons*
 * [Real Python](https://realpython.com/) - *Python Tutorials*
-* [FutureCoder](https://futurecoder.io/), [2-Python](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_2-python) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - *Python Course*
+* [FutureCoder](https://futurecoder.io/), [2-Python](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_2-python), [complete python developer](https://t.me/Udemy_Python_Developer) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - *Python Course*
 * [Modern Python 3 Bootcamp Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modern_python_3_bootcamp_courses)
 * [Tea Press](https://greenteapress.com/wp) - *Free Python Learning Books Green*
 * [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) - *Python Cheatsheet*
