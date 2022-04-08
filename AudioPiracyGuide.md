@@ -69,7 +69,7 @@
 * [MusicDex](https://musicdex.org/) or [OtakuPlay](https://otakuplay.moe/) - *Anime Soundtracks / [Discord](https://discord.gg/yCXJkbdCHt)*
 * [Musicmap](https://musicmap.info/) - *Genealogy / History of Music Genres* 
 * [Random Song](https://randomsong.net/) or [ListenToThis](https://listentothis.nanoshinono.me/) - *Random Songs*
-* [The Nostalgia Machine](http://thenostalgiamachine.com/) or [bops.fm](https://bops.fm/) - *Random Songs by Year* 
+* [The Nostalgia Machine](http://thenostalgiamachine.com/) - *Random Songs by Year* 
 * [Map of Metal](http://mapofmetal.com/) - *Interactive Map of Metal History* 
 * [The Cultural Borders of Songs](https://pudding.cool/2018/06/music-map/?date=202102) - *#1 Songs from 3,000 Countries* 
 * [LostMyspace](http://lostmyspace.com/) - *Lost Myspace Songs* 
