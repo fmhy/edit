@@ -11,9 +11,8 @@
 
 # ► Download Games
 
-* **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)** / **[Rave Search](https://idleendeavor.github.io/gamesearch/)** / [2](https://ravegamesearch.pages.dev/) / **[Bonneteer](https://bonneteer.herokuapp.com/)** - *Search multiple sites at once*
+* **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)** / **[Bonneteer](https://bonneteer.herokuapp.com/)** / **[Rave Search](https://idleendeavor.github.io/gamesearch/)**, [2](https://ravegamesearch.pages.dev/) - *Multi-Site Search*
 * **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)*
-* **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "games" or "roms"*
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - *[Discord](https://discord.gg/Up3YARe4RW)*
 * **[Masquerade Repacks](https://masquerade.site/)** - *[Discord](https://discord.gg/HP5sQ6c)*
 * **[Steam Underground](https://cs.rin.ru/)** - *[Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Status](https://csrinstaff.writeas.com/)*
@@ -26,6 +25,7 @@
 * **[GoG Games](https://gog-games.com/)**
 * **[FreeToGame](https://www.freetogame.com/games)**, [Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) or [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - *F2P Games*
 * **[Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers)** - *Get Scene Release Updates*
+* [DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - *ctrl+f and type "games" or "roms"*
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - *[Discord](https://discord.gg/693hNBdymb)*
 * [CPG](https://cpgrepacks.site/) - *[Discord](https://discord.gg/dtBSZ9N)*
 * [Torrminatorr](https://forum.torrminatorr.com/)
@@ -96,7 +96,6 @@
 
 * **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** / **[Rave Search](https://idleendeavor.github.io/gamesearch/)** / [2](https://ravegamesearch.pages.dev/) / **[Bonneteer](https://bonneteer.herokuapp.com/)** - *Search multiple sites at once*
 * **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download &amp; Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)*
-* **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "games" or "roms"*
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - *[Discord](https://discord.gg/Up3YARe4RW)*
 * **[DODI](http://dodi-repacks.site/)** - *[Discord](https://discord.gg/uE273qJ)*
 * **[ScOOter Repacks](https://scooter-repacks.site/)** - *[Discord](https://discord.gg/BWKyN8SgvM)*
@@ -104,6 +103,7 @@
 * **[Xatab Repack](https://b.otxataba.net/)**, [2](https://s1.otxatabanet.ru/), [3](https://m.byxatab.com/)
 * **[RePack.info](https://repack.info/)**
 * **[Tuttop](https://tuttop.com/)** 
+* [Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - *ctrl+f and type "games" or "roms"*
 * [KaOsKrew](https://www.kaoskrew.org/)
 * [NexusGames](https://nexusgames.to/) - *[Discord](https://discord.gg/8YXGgy4DJj)*
 * [CroTorrents](https://crotorrents.com/)
