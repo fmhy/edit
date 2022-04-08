@@ -94,8 +94,8 @@
 
 # ► Torrent Games
 
-* **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** / **[Rave Search](https://idleendeavor.github.io/gamesearch/)** / [2](https://ravegamesearch.pages.dev/) / **[Bonneteer](https://bonneteer.herokuapp.com/)** - *Search multiple sites at once*
-* **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download &amp; Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)*
+* **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)**  / **[Bonneteer](https://bonneteer.herokuapp.com/)** / **[Rave Search](https://idleendeavor.github.io/gamesearch/)**, [2](https://ravegamesearch.pages.dev/) - *Multi-Site Search*
+* **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)*
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - *[Discord](https://discord.gg/Up3YARe4RW)*
 * **[DODI](http://dodi-repacks.site/)** - *[Discord](https://discord.gg/uE273qJ)*
 * **[ScOOter Repacks](https://scooter-repacks.site/)** - *[Discord](https://discord.gg/BWKyN8SgvM)*
