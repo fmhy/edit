@@ -100,7 +100,7 @@
 * **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** or [Ultra Adware Killer](https://www.carifred.com/ultra_adware_killer/) - *Anti-Adware*
 * **[Virus File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scan_files)** - *Scan Files*
 * **[Hybrid Analysis](https://www.hybrid-analysis.com/)** or [Amnpardaz](https://jevereg.amnpardaz.com/) - *Scan EXE Files*
-* **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)** - *Scan URL's*
+* **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)** - *URL Scanners*
 * [RevealQR](https://revealqr.app/) - *Scan QR Codes*
 * [Security / Antivirus Multireddit](https://old.reddit.com/user/goretsky/m/security/)
 * [VToncolab](https://rentry.org/vtoncolab) - *How-to Scan Files with Google Colab*
@@ -138,7 +138,6 @@
 * [Web Of Trust](https://www.mywot.com/), [Talos](https://talosintelligence.com/) or [ScamRate](https://www.scamrate.com/) - *Check Website Safety* 
 * [ThreatLog](https://www.threatlog.com/) - *Malicious Domain Database*
 * [Scamalytics](https://scamalytics.com/ip), [IPSpamList](http://www.ipspamlist.com/) or [IP Address Lookup](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/) - *IP Address Check*
-* [Online Link Scan](http://onlinelinkscan.com/) - *Link Scanner*
 * Vulners - [Chrome](https://chrome.google.com/webstore/detail/vulners-web-scanner/dgdelbjijbkahooafjfnonijppnffhmd) / [Firefox](https://addons.mozilla.org/es/firefox/addon/vulners-web-scanner/) - *Live Website Scanner*
 * [Virus Checker](https://add0n.com/virus-checker.html) - *Virus Check for Downloads* 
 * [Bad Websites](https://github.com/elbkr/bad-websites) - *Phishing Site Index for Bots*
