@@ -289,7 +289,6 @@
 * [Simplyaweeb](https://simplyaweeb.to/) - *Sub / Dub / [Discord](https://discord.gg/4uGvPUV)* 
 * [AnimeBam](https://www.animebam.se/) - *Sub / Dub*
 * [KickAssAnime](https://www2.kickassanime.ro/) - *Sub / Dub*
-* [RyuAnime](https://ryuani.me/) - *Sub / Dub*
 * [Genoanime](https://genoanime.com/) - *Sub / Dub* 
 * [Just Dubs](http://justdubs.org/) - *Dub*
 * [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - *Sub*
@@ -524,7 +523,6 @@
 * [CrackStreams.net](https://crackstreams.net/) - *Sports*
 * [FreeSportsForAll](http://www.freesportsforall.ml/) - *Sports*
 * [Stream on Sport](https://www.streamonsport3.xyz/) - *Sports / [Telegram](https://t.me/s/streamonsport)*
-* [Cr7Soccor](https://cr7soccer.club/) - *Sports*
 * [USAGoals](https://www.usagoals.video/) - *Sports*
 * [Redditz Soccer Stream](https://redditz.soccerstreamlinks.com/) - *Sports*
 * [NBAStreams](https://nbastreams.to/), [NFL](https://nflstreams.to/), [NHL](https://nhlstreams.to/), [MLB](https://mlbstreams.to/) - *Sports* 
@@ -1035,7 +1033,6 @@
 * [Podnapisi](https://www.podnapisi.net/) - *Subtitles* 
 * [Subsplease](https://subsplease.org/) - *Subtitles* 
 * [opensubtitles.com](https://www.opensubtitles.com/) - *Subtitles* 
-* [iSubtitles](https://isubtitles.org/) - *Subtitles* 
 * [Subs4Free](https://www.subs4free.info/) - *Subtitles* 
 * [English-Subtitles](https://english-subtitles.org/) - *Subtitles* 
 * [SubAsk](https://subask.com/) - *Subtitles*
