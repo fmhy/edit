@@ -2380,6 +2380,7 @@ Add the following commands to a search to manually scrape each site.
 * [Balabolka](http://balabolka.site/bportable.htm) / [2](http://www.cross-plus-a.com/bportable.htm)
 * [15.ai](https://15.ai/)
 * [Text To Speech](https://texttospeech.ca/)
+* [TextReader](https://textreader.pro/) 
 * [ttsMP3](https://ttsmp3.com/)
 * [Spik](https://www.spik.ai/)
 * [TextToMP3](https://www.texttomp3.online/) 
