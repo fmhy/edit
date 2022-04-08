@@ -557,7 +557,6 @@
 * ***[ForCoder,](https://forcoder.su/)*** [ScanLibs](https://scanlibs.com/) or [CoderProg](https://coderprog.com/)
 * [IT eBooks](https://it-ebooks.info/) 
 * [FreeTechBooks](https://www.freetechbooks.com/) 
-* [Programming Books](https://www.programming-book.com/)  
 * [FreeComputerEbooks](https://freecomputerbooks.com/) 
 * [freepdf-books](https://freepdf-books.com/) 
 * [Programming Motherfucker](http://programming-motherfucker.com/)
