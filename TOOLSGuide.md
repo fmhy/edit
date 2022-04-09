@@ -516,6 +516,7 @@
 * [The Trimmer Bot](https://t.me/The_Trimmer_bot) - *Video Trimmer Telegram Bot*
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts* 
 * [lalal.ai](https://www.lalal.ai/), [Flacon](https://flacon.github.io/) or [SongDonkey](https://songdonkey.ai/) - *Audio Track Splitter* 
+* [ISSE](http://isse.sourceforge.net/) - *Source Separation Editor*
 * [Get Song BPM](https://getsongbpm.com/) - *Song Tempo Database*
 * [MusicSpeedChanger](https://musicspeedchanger.com/) - *Music Speed Changer*
 * [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) - *Musical Chord Progression* 
@@ -1213,6 +1214,7 @@
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - *Adds Custom CSS Support* 
 * [Discord Status](https://discordstatus.com/) - *Check Discord Status* 
 * [Status](https://discord.gg/Nnttd7EZV4) - *Followable Site Status Channels*
+* [LilyBot](https://github.com/defensem3ch/LilyBot) - *Play / Render Music Snippets*
 * [Discord Testers](https://discord.gg/discord-testers) - *Test Discord Features*
 * [Guild Counter](https://rauf.wtf/guildcount) - *Check how many servers you're in*
 * [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - *Preview Role Colors Role*
@@ -1250,7 +1252,9 @@
 * [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [gramxly](https://gramxly.com/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - *Telegram Channel / Bot Search*
 * [ShellBot](https://github.com/MannyHackers/ShellBot), [EvaMaria](https://github.com/EvamariaTG/EvaMaria) or [Userge](http://theuserge.tech/) - *Multi-Purpose Telegram Bot*
 * [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots) - *Audio Download Bots*
-* [GetMediaBot](https://t.me/getmediabot) - *Social Media Video / Picture Download Bot*
+* [GetMediaBot](https://t.me/getmediabot) - *Media Download Bot*
+* [Telegram-Media-Downloader](https://github.com/fattynoparents/Telegram-Media-Downloader) - *Media Download Extension*
+* [Bulk download from Telegram](https://zebradil.me/post/2018-04-18-bulk-download-from-telegram/) - *Telegram Media Download Method*
 * [Now Playing](https://t.me/nowplaybot) - *Now Playing Audio Bot*
 * [Telesco.pe](https://telesco.pe/) - *Telegram Round Video Recorder*
 * [YeetMeet](https://github.com/1337w0rm/YeetMeet) - *Meeting Auto Join Bot*
