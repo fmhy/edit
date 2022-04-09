@@ -287,6 +287,7 @@
 * [Batocera.linux](https://batocera.org/) or [Lakka](https://lakka.tv/) - *Retro Gaming Distro*
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - *Rust TUI for Steam*
 * [steam-cli](https://github.com/berenm/steam-cli) - *CLI for Steam*
+* [GameScope](https://github.com/Plagman/gamescope) - *Steam Session Compositing Window Manager*
 * [SamRewritten](https://github.com/PaulCombal/SamRewritten) - *Steam Achievement Manager*
 * [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - *Steam Linix Beta Issue Tracker*
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher*
@@ -294,6 +295,7 @@
 * [proton-gog-install](https://github.com/myyc/proton-gog-install) - *Windows to Linux GOG Game Installer*
 * [Unix ASCII Games](https://github.com/ligurio/awesome-ttygames) - *Unix ASCII Games*
 * [NVBurner](https://github.com/iloveichigo/NVBurner) - *Overclocking Tool*
+* [VKBasAlt](https://github.com/DadSchoorse/vkBasalt) - *Game Post Processing Layer*
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - *Linux Gaming Kernels*
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - *Linux System Optimizer*
 * [Ananicy](https://github.com/Nefelim4ag/Ananicy) - *Fix Program Priority / Lag / [C++](https://gitlab.com/ananicy-cpp/ananicy-cpp)*
@@ -382,6 +384,7 @@
 * [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - *Image & Video Editor*
 * [Kap](https://github.com/wulkano/Kap) - *Screen Recorder*
 * [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - *Audio Editor*
+* [The Levelator](https://apps.apple.com/us/app/the-levelator/id1493326487?mt=12) - *Automatic Audio Level Adjustments / [Archive](https://archive.org/details/conversationsnetwork_org-levelator)*
 * [XLD](https://sourceforge.net/projects/xld/) - *Lossless Audio Transcoder*
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - *Image Editor* 
 * [ImageOptim](https://imageoptim.com/mac) - *Image Optimization*
