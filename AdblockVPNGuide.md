@@ -48,7 +48,7 @@
 * **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - *DNS Adblocking*
 * **[YogaDNS](https://yogadns.com/)** - *DNS Adblocking*
 * [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html) - *DNS Adblocking*
-* [Pi-Hole](https://pi-hole.net/) - *DNS Adblocking / self-hosted / [Filter](https://firebog.net/), [2](https://github.com/hl2guide/Filterlist-for-AdGuard) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine) / [Antitelemetry](https://github.com/MoralCode/pihole-antitelemetry)*
+* [Pi-Hole](https://pi-hole.net/) - *DNS Adblocking / Self-Hosted / [Install Script](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filter](https://firebog.net/), [2](https://github.com/hl2guide/Filterlist-for-AdGuard) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine) / [Antitelemetry](https://github.com/MoralCode/pihole-antitelemetry)*
 * [Blah DNS](https://blahdns.com/) - *DNS Adblocking*
 * [Rethink](https://rethinkdns.com/) - *DNS Adblocking*
 * [AlternateDNS](https://alternate-dns.com/index.php) - *DNS Adblocking*
@@ -386,6 +386,7 @@
 * [Wikiless](https://wikiless.org/) - *Wikipedia Frontend / [Source](https://codeberg.org/orenom/Wikiless)*
 * [nitter](https://nitter.net/) - *Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)*
 * [Reddit Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_frontends)
+* [ProxiTok](https://github.com/pablouser1/ProxiTok) - *TikTok Frontend*
 * [Metalune](https://translate.metalune.xyz/) / [2](https://gtranslate.metalune.xyz/) - *Google Translate Frontend* 
 * [Cusdis](https://cusdis.com/) - *Privacy-Focused Comment System / [GitHub](https://github.com/djyde/cusdis)*
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - *Reddit / Twitter Auto Post Delete*
