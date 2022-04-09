@@ -123,7 +123,7 @@
 * [PhoenixOS](http://www.phoenixos.com/en/) - *Android Desktop OS*
 * [PhoenixOS - BR](https://discord.gg/BQ4td84) - *Android Desktop OS*
 * [PhoenixOS Darkmatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - *Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)*
-* [ApkOnline](https://www.apkonline.net/) - *Online Android Emulator*
+* [ApkOnline](https://www.apkonline.net/) - *Online Android Emulator / [Extension](https://chrome.google.com/webstore/detail/apkonline/lnhnebkkgjmlgomfkkmkoaefbknopmja)*
 * [BlueStacks X](https://x.bluestacks.com/) - *Cloud-Based Android Gaming / [Play Any Game](https://bin.disroot.org/?76603b940782c632#77xYY6mPppQ6jRLnuhQhRwPZ1rgrhGkHLnfNx8YKnz5H)*
 
 ***
@@ -207,7 +207,7 @@
 * [AlwaysOnEdge](http://www.aoeapps.com/) - *Android Customization App*
 * [VirtualXposed](https://virtualxposed.com/) - *Rootless Xposed Framework*
 * [Palette](https://play.google.com/store/apps/details?id=com.ald.devs47.sam.beckman.palettesetups) - *Custom Home Screens*
-* [Codo Dodo](http://www.codododo.com/) - *Navigation Bar Customizer*
+* [Codo Dodo](http://www.codododo.com/) - *Navigation Bar Customization*
 * [Custom Volume Panel](https://play.google.com/store/apps/details?id=com.codingbatch.volumepanelcustomizer) - *Customize Volume Bar*
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - *Dictionary App*
 * [AutomaTag](http://automatag.com/) - *Metadata Organizer*
@@ -221,6 +221,7 @@
 * [Caffeine](https://lab.zhs.moe/caffeine/) - *Keep Screen On*
 * [WaveUp](https://gitlab.com/juanitobananas/wave-up) - *Turn On Display via Waving*
 * [Shelter ](https://cgit.typeblog.net/Shelter/) or [Insular](https://gitlab.com/secure-system/Insular) - *Isolate / Clone Apps*
+* [Warp Plus Cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - *Unlimited Warp+ GB*
 * [MacroDroid](http://macrodroid.com/) or [AutomateIt](https://www.automateitapp.com/) - *Android Automation* 
 * [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) - *Gesture Controls*
 * [Naptime](https://play.google.com/store/apps/details?id=com.franco.doze) - *Accelerates Android Sleep Mode*
@@ -311,7 +312,7 @@
 * [Red Moon](https://github.com/LibreShift/red-moon) - *Screen Filter*
 * [sh-ort](https://sh-ort.app/) - *URL Shortener*
 * [RClone](https://github.com/x0b/rcx) or [FolderSync](https://www.tacit.dk/) - *Multi-Site Cloud Storage File Manager*
-* [Omega Launcher](https://github.com/otakuhqz/omega), [SmartLauncher](https://www.smartlauncher.net/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_smartlauncher_pro), [Lawnchair](https://lawnchair.app/), [NovaLauncher](https://novalauncher.com/), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [ActivityLauncher](https://github.com/butzist/ActivityLauncher), [Unlauncher](https://github.com/jkuester/unlauncher) or [Ratio](https://blloc.com/) - *App Launcher* 
+* [Omega Launcher](https://github.com/otakuhqz/omega), [SmartLauncher](https://www.smartlauncher.net/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_smartlauncher_pro), [Lawnchair](https://lawnchair.app/), [NovaLauncher](https://novalauncher.com/), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [ActivityLauncher](https://github.com/butzist/ActivityLauncher), [Smart Dock](https://github.com/axel358/smartdock), [Unlauncher](https://github.com/jkuester/unlauncher) or [Ratio](https://blloc.com/) - *App Launcher* 
 * [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) / [2](https://www.apkmirror.com/apk/aurora-oss/warden/) - *App Managers*
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - *Android Power Menu Replacement*
 * [iFont](https://play.google.com/store/apps/details?id=com.kapp.ifont) - *Android Font Installer*
@@ -711,7 +712,7 @@
 * [Modded Hotstar](https://t.me/shooterOfficial1/38308) - *Movies / TV*
 * [Movie HD](https://moviehdapkdownload.com/moviehd-apk/) - *Movies / TV / Chromecast*
 * WiWiCenter - [Movies / TV](https://cinema.wiwicenter.com/) / [Anime](https://anime.wiwicenter.com/) - *Use Adblocker*
-* [Upflix](https://upflix.pro/) - *Movies / TV*
+* [Upflix](https://www.upflix.net/) - *Movies / TV*
 * [Titanium TV](https://aapks.com/apk/titanium-tv-com-wise-tech-titanium/) - *Movies / TV / Anime / Chromecast*
 * [SupaFlix](https://supaflix.1mt.top/) - *Movies / TV* 
 * [GodFather](https://movies.godfather.vip/download.php) - *Movies / TV / Anime*
@@ -1112,7 +1113,6 @@ RSS Player*
 * [Wodfix](https://apps.apple.com/us/app/wodfix/id1586971587) - *Movies / TV / Code: 777*
 * [MovieByImage](https://apps.apple.com/us/app/movie-finder-movie-by-image/id1560301878) - *Movies / Code: 777*
 * [MediaBox](https://mediaboxhd.net/) - *Movies / TV*
-* [Arthemis](https://app.arthemis.xyz/) - *Movies / TV / Anime*
 * [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756) - *Movies / TV*
 * [ZiniTevi](https://zinitevi.github.io/movieapps/) - *Movies* 
 * [Blackbox](https://apps.apple.com/ca/app/black-box-movie-listing/id958957112) - *Movies* 
