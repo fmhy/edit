@@ -35,7 +35,7 @@
 * [Magical Universe](https://github.com/zotroneneis/magical_universe) - *Learn Python*
 * [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - *Python Lessons*
 * [Real Python](https://realpython.com/) - *Python Tutorials*
-* [FutureCoder](https://futurecoder.io/), [2-Python](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_2-python), [complete python developer](https://t.me/Udemy_Python_Developer) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - *Python Course*
+* [FutureCoder](https://futurecoder.io/), [2-Python](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_2-python), [complete python developer](https://t.me/Udemy_Python_Developer), [Python Full Course](https://youtu.be/XKHEtdqhLK8) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - *Python Course*
 * [Modern Python 3 Bootcamp Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modern_python_3_bootcamp_courses)
 * [Tea Press](https://greenteapress.com/wp) - *Free Python Learning Books Green*
 * [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) - *Python Cheatsheet*
@@ -315,6 +315,7 @@
 * [Utom Design](https://utom.design/measure) - *Sketch Measure*
 * [WireFlow](https://wireflow.co/) - *Flow Prototype Maker*
 * [Geekflare Tools](https://gf.dev/toolbox) - *Site Testing Tools*
+* [LambDatest](https://www.lambdatest.com/) - *Cross Browser Testing Cloud*
 * [UXTweak](https://www.uxtweak.com/) - *Website Design Usability Improvement Tool*
 * [Stark](https://www.getstark.co/), [deque](https://www.deque.com/axe/), [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [Achecker](https://achecker.ca/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [tota11y](https://khan.github.io/tota11y/) - *Accessibility Evaluation Tools*
 * [Contraste](https://contrasteapp.com/) - *Test Text for Accessibility*
