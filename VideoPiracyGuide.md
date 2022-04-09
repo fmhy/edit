@@ -49,7 +49,6 @@
 * [Videoflicks](https://videoflicks.net/) - *Movies*
 * [MP4Mania](https://mp4mania1.net/) - *Movies / [How to Use](https://imgur.com/a/EtLokxO)*
 * [FlixZone](https://flixzone.ga/) - *Movies / TV*
-* [MoviesForFree](https://movieforfree.co/) - *Movies / TV*
 * [AZMovies](https://azm.to) - *Movies*
 * [KissKH](https://kisskh.me/Explore?type=4) - *Movies / TV / Anime*
 * [HDMovieBox](https://hdmoviebox.org/) - *Movies*
@@ -152,7 +151,6 @@
 * [KissMovies](https://www.kissmovies.io/) - *Movies / TV*
 * [TamilRockerMovies](https://www.tamilrockermovies.cf/search/label/Hollywood) - *Movies*
 * [ConTV](https://www.contv.com/browse-movie/146/free/) - *Movies*
-* [Watch free](https://1watch-free.cc/) - *Movies / TV* 
 * [Pahe.stream](https://pahe.stream/) - *Movies / TV*
 * [Movie4k](https://movie4k.123movies.online/) - *Movies / TV*
 * [VidCloud](https://vidembed.io/) - *Movies / TV*
@@ -180,7 +178,6 @@
 * [Flenix](https://flenix.net/) - *Movies / TV / Anime* 
 * [HDFull](https://hdfull.lv/) - *Movies / TV / Anime* 
 * [VidEmbed](https://vidembed.cc/) - *Movies / TV / Anime* 
-* [4MovieRulz](https://4movierulz.mn/category/hollywood-movie-2020/) - *Movies* 
 * [123Chill](https://123chill.to/) - *Movies / TV / Anime*
 * [123MoviesJR](https://123moviesjr.cc/) - *Movies / TV*
 * [123Moviesd](https://123moviesd.com/) - *Movies / TV*
@@ -301,7 +298,7 @@
 * [YugenAnime](https://yugen.to/) - *Sub / Dub*
 * [Animegg](https://www.animegg.org/) - *Sub / Dub*
 * [Kawaiifu](https://kawaiifu.com/) - *Sub / Dub*
-* [AnimeFox](https://animefox.cc/) / [2](https://animefox.io/) / [3](https://flixani.me/) - *Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)*
+* [AnimeFox](https://animefox.cc/) / [2](https://animefox.io/) / [3](https://flixani.me/) / [4](https://www.animedao.cc/) - *Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)*
 * [AnimeHeaven](https://animeheaven.ru/) - *Sub / Dub* 
 * [AnimeDao](https://animedao.to/) - *Sub*
 * [AniStream](https://anistream.fun/) - *Sub*
