@@ -489,7 +489,7 @@
 * **[Riseup](https://riseup.net/en/vpn)** - *Free VPN* 
 * **[Softether](https://www.softether.org/)** - *Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx) / [Note](https://pastebin.com/TrSw7EpF)*
 * **[WireGuard](https://www.wireguard.com/)** - *VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn)*
-* **[MOAG](https://moag.techtanic.pw/)** - *VPN Trial Generator / [Avoid Zenmate](https://restoreprivacy.com/kape-technologies-owns-expressvpn-cyberghost-pia-zenmate-vpn-review-sites/)*
+* **[MOAG](https://moag.techtanic.pw/)** - *VPN Trial Generator*
 * [Perfect Privacy](https://www.perfect-privacy.com/) - *[Pricing](https://i.imgur.com/Rtfwu2t.png)*
 * [IVPN](https://www.ivpn.net/) - *[Pricing](https://i.imgur.com/Iq92wOO.png) / [Free Trial](https://redd.it/nzjmqa)*
 * [Trust.Zone](https://trust.zone/) - *[Pricing](https://i.imgur.com/PsRa8GD.png)*
