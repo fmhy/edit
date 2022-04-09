@@ -27,6 +27,7 @@
 * [Ryzen Controller](https://ryzencontroller.com/) - *Overclocking Software for Ryzen Laptop CPU / [AMD APU Tuning](https://github.com/JamesCJ60/AMD-APU-Tuning-Utility)*
 * [NTCore's 4GB Patch](https://ntcore.com/?page_id=371) - *x86 Executable Memory Patcher*
 * [ISLC](https://www.wagnardsoft.com/ISLCw) - *Remove Windows 10 RAM Stutters / [Tutorial](https://www.reddit.com/r/GlobalOffensive/comments/fca7lw/if_you_have_stutter_ingame_you_can_try_this_tool/fj9yx3h/)*
+* [Sunshine](https://github.com/loki-47-6F-64/sunshine) - *GPU Streaming Client*
 * [Piper](https://github.com/libratbag/piper) - *Gaming Mouse Config Tool*
 * [WindowedBorderlessGaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - *Borderless Windows for All Games*
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - *Play Fullscreen Only Games in Window*
@@ -119,6 +120,7 @@
 * [How To Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
 * [AltCtrls](https://altctrls.info/) - *Custom Controller Crafting Resources*
 * [Gamesoft](http://www.gamesoft.com/) - *Gaming News Feed Manager*
+* [Doom Wiki](https://doomwiki.org/wiki/Entryway) - *Doom Community Project Documentation*
 * [Useful Osu](https://github.com/CarbonUwU/Useful-osu) - *Osu! Resources*
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - *Osu! Collection Manager*
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - *Osu! Trainer*
@@ -278,7 +280,9 @@
 * [OptiFine Alternatives](https://lambdaurora.dev/optifine_alternatives/) - *Minecraft OptiFine Alternatives for Fabric*
 * [modsman](https://github.com/sargunv/modsman) - *Minecraft Mod Manager*
 * [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - *Minecraft Utility Mod*
+* [Distant Horizons](https://gitlab.com/jeseibel/minecraft-lod-mod) - *Increased Minecraft Render Distance*
 * [SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons) - *Addons for Skyblock*
+* [SkyCrypt](https://sky.shiiyu.moe/) - *SkyBlock Stats*
 * [Cubical](https://www.cubical.xyz/) - *Minecraft Schematic Tool*
 * [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) - *Turn Photos into Minecraft Art*
 * [ReplayMod](https://replaymod.com/) - *Record Minecraft Game Sessions / [GitHub](https://github.com/ReplayMod/ReplayMod)*
