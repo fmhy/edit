@@ -135,7 +135,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Alternative Software / App Sites
 
-[Ethical](https://ethical.net/resources/), [AlternativeTo](https://alternativeto.net/), [Slant](https://www.slant.co/), [SaaSHub](https://www.saashub.com/), [switching.software](https://switching.software/), [GCemetery Alternatives](https://gcemetery.co/google-alternatives/), [ALTERNATIVES](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md), [Alternative.me](https://alternative.me/), [Top Best Alternatives](https://www.topbestalternatives.com/, [GoFOSS](https://gitlab.com/curlycrixus/gofoss)
+[Ethical](https://ethical.net/resources/), [AlternativeTo](https://alternativeto.net/), [Slant](https://www.slant.co/), [SaaSHub](https://www.saashub.com/), [switching.software](https://switching.software/), [GCemetery Alternatives](https://gcemetery.co/google-alternatives/), [ALTERNATIVES](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md), [Alternative.me](https://alternative.me/), [Top Best Alternatives](https://www.topbestalternatives.com/), [GoFOSS](https://gitlab.com/curlycrixus/gofoss)
 
 ***
 
