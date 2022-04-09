@@ -537,7 +537,6 @@ French / General Torrent Tracker
 * [IndianCine](https://indiancine.ma/) - *62k Indian Films / Short Films* 
 * [mxplayer](https://www.mxplayer.in) - *Movies*
 * [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - *Movies* 
-* [4MovieRulz](https://4movierulz.mn/) - *Movies* 
 * [HHDMovies](https://hhdmovies.org/) - *Movies / TV*
 * [OKJatt](https://okjatt.co/) - *Movies / TV*
 * [111.90.159.132](https://111.90.159.132/) - *Movies*
@@ -1262,6 +1261,7 @@ Portuguese
 * [WASM](https://www.wasm.in/) - *Web Assembly Forum*
 * [Ok.ru](https://ok.ru/), [VK](http://vk.com/), [MyMail](https://my.mail.ru/), [TenChat](https://tenchat.ru/) or [RUTube](https://rutube.ru/) - *Russian Social Networks*
 * [GitFlic](https://gitflic.ru/ ) - *Russian Github*
+* [ScreenChat](https://screenchat.live/) - *Create Fake Texts*
 * [Виртуальный компьютерный музей](https://www.computer-museum.ru/) - *History of Computer Science / Virtual Museum*
 
 ## ▷ Downloading 
