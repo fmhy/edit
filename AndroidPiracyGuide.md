@@ -48,7 +48,7 @@
 * [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - *Encrypted File Explorer*
 * [UntrackMe](https://fedilab.app/wiki/untrackme/) - *Frontend Redirect / Link Unshorten / URL Cleanup*
 * [Stealth](https://gitlab.com/cosmosapps/stealth) - *Privacy-Based Reddit Frontend*
-* [XPrivacyLua](https://lua.xprivacy.eu/) / [GitHub](https://github.com/M66B/XPrivacyLua/) or [Xumi](https://xumi.ca/xumi-security/) - *Privacy Manager* 
+* [XPrivacyLua](https://lua.xprivacy.eu/) / [GitHub](https://github.com/M66B/XPrivacyLua/) - *Privacy Manager* 
 * [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard&hl=en_US&gl=QA), [AppWarden](https://gitlab.com/AuroraOSS/AppWarden) or [TrackerControl](https://trackercontrol.org/) - *App Permissions Tracker*
 * [Exodus](https://reports.exodus-privacy.eu.org/en/), [TrackerControl](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) or [HideDroid](https://github.com/Mobile-IoT-Security-Lab/HideDroid) - *Android App Tracker & Permission Index / [APK](https://github.com/Exodus-Privacy/exodus-android-app)*  
 * [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard) - *Android 12-like Privacy Dashboard / [GitHub](https://github.com/RushikeshKamewar/PrivacyDashboard)*
@@ -108,7 +108,6 @@
 
 * **[Nox](https://www.bignox.com/)** - *[Screenshot](https://i.imgur.com/VuFLWbW.jpg) / [Debloater](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29 )*
 * **[Anbox](https://anbox.io/)**, **[WayDroid](https://waydro.id/)** / [Git](https://github.com/waydroid) or  [Andronix](https://andronix.app/) / [Git](https://github.com/AndronixApp) - *Android Linux Emulator*
-* [XePlayer](http://www.xeplayer.com/) - *Fork of Nox / [Screenshot](https://i.imgur.com/qfmmwMB.jpg)* 
 * [GameLoop](https://www.gameloop.com/) - *[Screenshot](https://i.imgur.com/dLrEXCJ.png)*
 * [MuMu](https://www.mumuglobal.com/) - *[Screenshot](https://i.imgur.com/D8BBerb.png)*
 * [MeMu](https://www.memuplay.com/) - *[Screenshot](https://i.imgur.com/1aZLVvi.png) / [Debloater](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)*
@@ -359,7 +358,6 @@
 * [ChariFree](https://play.google.com/store/apps/details?id=com.charifree) - *Donate by Watching Ads*
 * [Appetize](https://appetize.io/) - *Run Native Mobile Apps in Browser*
 * [Albastuz3d](https://albastuz3d.net/) - *Stock Phone ROMs*
-* [ROMphonix](http://162.154.76.208/) - *Old Mobile Firmware / [Discord](https://discord.com/invite/2GKuJjQagp)*
 * [NokiaFIimwareGP](https://t.me/nokiafirmwaregp) or [NokiaOldFirmware](https://t.me/nokiaoldfirmware) - *Nokia Firmware*
 * [How to Install a Custom ROM](https://www.xda-developers.com/how-to-install-custom-rom-android/amp/) - *Custom ROM Installation Guide*
 * [Odin](https://www.odindownload.com/) or [IVTheme](https://www.ivtheme.com/) - *ROM Flashing Tools*
@@ -418,7 +416,6 @@
 * [APKTurbo](https://www.apkturbo.com/) - *Untouched*
 * [APK Award](https://apkaward.com/) - *Untouched*
 * [APK Sonic](https://apksonic.com/) - *Untouched*
-* [App Apks](https://www.appapks.net/) - *Untouched*
 * [APKDL](https://apkdl.in/) - *Untouched*
 * [APKMonk](https://www.apkmonk.com/) - *Untouched*
 * [APK Fab](https://apkfab.com/) - *Untouched*
@@ -441,7 +438,6 @@
 * [DZAPK](https://dzapk.com/) - *Modded* 
 * [Apk4All](https://apk4all.com/) - *Modded*
 * [Androidp1](https://www.androidp1.com/en/) - *Modded*
-* [Source of APK](https://sourceofapk.com/) - *Modded*
 * [5Play](https://5play.ru/en/) - *Modded*
 * [iHackedit](http://ihackedit.com/) - *Modded* 
 * [Modules Repositor](https://t.me/modulesrepo) - *Modded*
@@ -618,7 +614,7 @@
 # ► Android Audio
 
 * **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players)** - *Music Players / Libraries*
-* **[Spotify APK](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=Spotify&sf=titleonly)** (No Ads) or [Altas-Notas](https://github.com/polonez-byte-112/Altas-Notas) - *Streaming / [Version Manager](https://github.com/xManager-v2/xManager-Spotify) / [Downloader](https://github.com/sheensantoscapadngan/SpotaFree) / [Friend Activity](https://spotivity.vercel.app/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://f-droid.org/packages/com.rohit2810.spotit/), [3](https://github.com/aghontpi/ad-silence)*
+* **[Spotify APK](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=Spotify&sf=titleonly)** (No Ads) - *Streaming / [Version Manager](https://github.com/xManager-v2/xManager-Spotify) / [Downloader](https://github.com/sheensantoscapadngan/SpotaFree) / [Friend Activity](https://spotivity.vercel.app/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://f-droid.org/packages/com.rohit2810.spotit/), [3](https://github.com/aghontpi/ad-silence)*
 * [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [HoloPlay](https://holoplay.io/) or [YMusic](https://ymusic.io/) - *YouTube Music Player*
 * [Spotiflyer](https://f-droid.org/en/packages/com.shabinder.spotiflyer/) - *Spotify Audio Downloader / [GitHub](https://github.com/Shabinder/SpotiFlyer/)*
 * [Finamp](https://github.com/UnicornsOnLSD/finamp) - *Jellyfin Music Player*
@@ -694,7 +690,6 @@
 
 * **[Stremio](https://www.stremio.com/)** - *Torrent Streaming / [Addons](https://github.com/danamag/stremio-addons-list/blob/main/README.md) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * **[CloudStream](https://github.com/LagradOst/CloudStream-3)** - *Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM)*
-* **[CucoTV](https://cucotv.github.io/)** - *Movies / TV* 
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - *Ad Free YouTube on Android*
 * **[Movies4Discord TV](https://movies4discord.xyz/download)** - *Movies / TV / Android TV App*
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
@@ -714,8 +709,6 @@
 * WiWiCenter - [Movies / TV](https://cinema.wiwicenter.com/) / [Anime](https://anime.wiwicenter.com/) - *Use Adblocker*
 * [Upflix](https://www.upflix.net/) - *Movies / TV*
 * [Titanium TV](https://aapks.com/apk/titanium-tv-com-wise-tech-titanium/) - *Movies / TV / Anime / Chromecast*
-* [SupaFlix](https://supaflix.1mt.top/) - *Movies / TV* 
-* [GodFather](https://movies.godfather.vip/download.php) - *Movies / TV / Anime*
 * [MOTV](http://motv.top/) - *Movies / TV / Chromecast*
 * [ROTV](https://rotv.xyz/) - *Movies / TV*
 * [CyroseHD](https://cyrosehd.com/) - *Movies / TV*
@@ -797,7 +790,7 @@ RSS Player*
 * [/r/jailbreak](https://reddit.com/r/jailbreak) - *Jailbreaking Subreddit*
 * [Sideloading Beginners Guide](https://redd.it/orqzau) or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - *Sideloading Guide*
 * [/r/sideloaded](https://reddit.com/r/sideloaded) - *Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)*
-* [Sideloadly](https://sideloadly.io/), [ReProvision Reborn](https://repo.packix.com/package/jp.soh.reprovision) / [GitHub](https://github.com/sohsatoh/ReProvision-Reborn) - *Sideloading Tool*
+* [Sideloadly](https://sideloadly.io/) - *Sideloading Tool*
 * [IPSW](https://ipsw.me/) - *Provides Jailbreak firmware*
 * [checkra1n](https://checkra.in/) - *5s - X Jailbreak / [Discord](https://discord.gg/NAxRYvysuc)*
 * [Taurine](https://taurine.app/) - *14-14.3 Semi-Untethered Jailbreak*
@@ -828,7 +821,6 @@ RSS Player*
 * [JailbreakMe](https://www.jailbreakme.com/) - *3.1.2 to iOS 4.0.1 Jailbreak*
 * [redsn0w](https://sites.google.com/a/iphone-dev.com/files/home/) - *3.0 to 3.1 Jailbreak*
 * [IPA Apps](https://ipa-apps.me/) - *Jailbreak Tools & Apps*
-* [ap0110](https://ap0110.cf/) - *Autoexec Jailbreak*
 * [IPACandy](https://ipacandy.com/) - *Jailbreaking Tools*
 * [checkn1x](https://github.com/asineth0/checkn1x) - *Jailbreaking Tool*
 * [Fugu](https://github.com/LinusHenze/Fugu) - *Jailbreaking Tool*
@@ -1154,7 +1146,6 @@ RSS Player*
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - *Get a VPN before torrenting*
 * [iTransmission](https://iosninja.io/ipa-library/download-itransmission-ipa-ios) - *Torrent Client*
 * [iTorrent](https://github.com/XITRIX/iTorrent) or [Torrentula](http://cydia.saurik.com/package/com.ichanti.torrentula/) - *Torrent Client*
-* [nzbUnity](https://nzbunity.dozenzb.com/) - *Torrent Manager*
 * [BarMagnet](https://github.com/Qata/BarMagnet) - *Remote Torrent Interface for Legacy Devices*
 
 ***
