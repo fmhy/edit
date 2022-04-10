@@ -22,7 +22,6 @@
 * **[Get Awesomeness](https://getawesomeness.herokuapp.com/)** - *List Index*
 * **[Curlie](https://curlie.org/)** - *Topic Directory* 
 * **[Esoterica Avenue](https://ori5000.github.io/)** - *Software & Games Megathread / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)* 
-* **[The Scene](https://git.redxen.eu/RepoMirrors/Warez)** - *Piracy Index / [Archive](https://archive.fo/pM65d)*
 * **[Open Source Intelligence Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_source_intelligence_indexes)**
 * [Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - *Find Software / App Alternatives* 
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - *Open Source Software Indexes*
@@ -331,7 +330,6 @@
 * [Update Faker](https://updatefaker.com/) - *Fake System Update Prank*
 * [The Restart Page](http://www.therestartpage.com/) - *Vintage Operating System Reboots*
 * [Hair on Screen](https://chrome.google.com/webstore/detail/hair-on-screen/egkikapjpndmjflbjjoondbihalgdjco) - *Fake Hair on Screen Prank*
-* [Speedtest Faker](https://jkctech.nl/projects/speedtest/) - *Fake Speedtest Results*
 * [Hacktyper](https://hackertyper.net/), [Hoacks](https://hoacks.com/) or [Geektyper](https://geektyper.com/) - *Fake Hacking Screen* 
 * [Busy Simulator](https://busysimulator.com/) - *Pretend You're Busy*
 * [Peter Answers](https://www.peteranswers.com/) - *Create Fake Questions & Answers / [Tutorial](https://peteranswers.info/peter-answers-hack)* 
@@ -412,7 +410,6 @@
 * [Pushing Pixels](https://www.pushing-pixels.org/fui/) or [Saji8k](https://www.saji8k.com/kit-fui/) - *Imaginary UI from Movies*
 * [WTM](https://whatthemovie.com/) - *Guess Movie from Screenshot* 
 * [Kittenwar!](http://www.kittenwar.com/) - *Rate Kittens*
-* [Click Brawl](https://clickbrawl.com/eternal-fight) - *Collaborative Click Wars*
 * [Popcat](https://popcat.click/) - *Worldwide Popcat Clicking Competition*
 * [RPS101](http://www.umop.com/rps101.htm) - *101 Gesture Rock-Paper-Scissors*
 * [Fake Text Message](https://ifaketextmessage.com/) - *Make Fake Text Conversation* 
@@ -515,7 +512,6 @@
 * [Just a Minute](https://jinay.dev/just-a-minute/) - *Estimate a Minute*
 * [Checkboxes](http://www.jezzamon.com/checkboxes/index.html) - *Check Boxes* 
 * [The Nut Button](https://apps.apple.com/gb/app/the-official-nut-button-meme/id1462124556) - *You press the Button, it says Nut*
-* [nooooooooooooooo.com](http://www.nooooooooooooooo.com/) - *Vader NO Button*
 * [Make-A-Wish Foundation](https://discord.gg/pZZ3STQZ9Y) - *100% Real Make-A-Wish*
 * [ChrisMckenzie](https://chrismckenzie.com/) - *:D D:*
 * [Is It A Cat?](https://isitacat.com/) - *Cat Image Detector* 
