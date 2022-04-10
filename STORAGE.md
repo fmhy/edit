@@ -377,7 +377,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Conversational Chatbots
 
-[Replika](https://replika.ai/), [Mitsuku](https://www.pandorabots.com/mitsuku/), [cleverbot](https://www.cleverbot.com/), [eviebot](https://www.eviebot.com/en/), [rose](http://ec2-54-215-197-164.us-west-1.compute.amazonaws.com/speech.php), [jabberwacky](http://www.jabberwacky.com/), [Kajiwoto](https://kajiwoto.com/) (ai builder), [Talk-Bot](http://www.frontiernet.net/~wcowart/index.shtml), [Madam Zena](http://www.madamzena.com/)
+[Replika](https://replika.ai/), [Mitsuku](https://www.pandorabots.com/mitsuku/), [cleverbot](https://www.cleverbot.com/), [eviebot](https://www.eviebot.com/en/), [jabberwacky](http://www.jabberwacky.com/), [Kajiwoto](https://kajiwoto.com/) (ai builder), [Talk-Bot](http://www.frontiernet.net/~wcowart/index.shtml), [Madam Zena](http://www.madamzena.com/)
 
 ***
 
@@ -521,7 +521,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Encrypted Messengers
 
-**[Signal](https://signal.org/)**, [RetroShare](https://retroshare.cc/), [Off-the-Record](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Opensaw](https://www.opensaw.com/), [Demonsaw](https://www.demonsaw.com/), [Bitmessage](https://wiki.bitmessage.org/Main_Page) / [Reference Client](https://github.com/Bitmessage/PyBitmessage), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [Mirage](https://github.com/mirukana/mirage), [Keybase](https://keybase.io/) / [.onion](http://fncuwbiisyh6ak3i.onion/), [CWTCH](https://cwtch.im/), [Bip](https://bip.com/en/), [Simplex](https://simplex.chat/), [Emberclear](https://emberclear.io/, [Matrix](https://matrix.org/) / [Cinny](https://cinny.in/), [Commune](https://commune.chat/, [Mesh](https://mesh.im/), [Utopia](https://utopia-ecosystem.com/), [CoyIM](https://coy.im/) 
+**[Signal](https://signal.org/)**, [RetroShare](https://retroshare.cc/), [Off-the-Record](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Demonsaw](https://www.demonsaw.com/), [Bitmessage](https://wiki.bitmessage.org/Main_Page) / [Reference Client](https://github.com/Bitmessage/PyBitmessage), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [Mirage](https://github.com/mirukana/mirage), [Keybase](https://keybase.io/) / [.onion](http://fncuwbiisyh6ak3i.onion/), [CWTCH](https://cwtch.im/), [Bip](https://bip.com/en/), [Simplex](https://simplex.chat/), [Emberclear](https://emberclear.io/, [Matrix](https://matrix.org/) / [Cinny](https://cinny.in/), [Commune](https://commune.chat/, [Mesh](https://mesh.im/), [Utopia](https://utopia-ecosystem.com/), [CoyIM](https://coy.im/) 
 
 **Matrix Home Servers**
 
@@ -797,7 +797,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 #### GoldMovies Clones
 
 * [CMovies](https://cmovies.ac/)
-* [WWatchSeries](https://wwatchseries.com/)
 * [YesMovies.sx](https://yesmovies.sx/)
 
 ***
@@ -861,7 +860,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://www1.ummagurau.com/
 * https://fmovieshd.vip/
 * https://moviesjoy.to/
-* https://www.ladresstina.com/
 * https://www.redbeltmovie.com/
 * https://fullmoviehd4k.com/
 * https://cataz.net/ 
@@ -1105,7 +1103,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://manhuachill.com/
 * https://manhuabox.net/
 * https://manhuadex.com/am/
-* https://bestmanhua.com/
 * https://manhuaes.com/
 * https://manhuadragon.com/
 * https://manhuafast.com/
@@ -1487,7 +1484,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Piracy Site Proxies
 
-[Unblockit](https://unblockit.tv/) / [2](https://unblockit.pages.dev/) / [3](https://unblock_it.gitlab.io/site/) / [4](https://unblockit.how/), [Knaben's Proxy List](https://knaben.info/), [nocensor](https://nocensor.space/) / [2](https://nocensor.biz/), [TorrentMirror](https://www.torrentmirror.net/#proxy-list-container), [unblockninja](https://unblockninja.com/), [uProxy](https://uproxy.to/), [unblocktorrent](https://unblocktorrent.com/), [TorrentBay](https://torrentbay.to/), [unblock.soy](https://unblock.soy/) / [2](https://en-proxy.com/) / [3](https://unb.how/), [piracyproxy](https://piracyproxy.page/), [unblockedfor](https://unblockedfor.me/), [proxybit](https://proxybit.sbs/) / [2](https://www.unblocknow.surf/) / [3](https://www.unbl4you.cyou/) / [4](https://123unblock.world/) / [5](https://mrunblock.bar/) / [6](https://g3g.fun/), [unblocksource](https://unblocksource.net/), [dirproxy](https://dirproxy.cc/)
+[Unblockit](https://unblockit.tv/) / [2](https://unblockit.pages.dev/) / [3](https://unblock_it.gitlab.io/site/) / [4](https://unblockit.how/), [Knaben's Proxy List](https://knaben.info/), [nocensor](https://nocensor.biz/), [TorrentMirror](https://www.torrentmirror.net/#proxy-list-container), [unblockninja](https://unblockninja.com/), [uProxy](https://uproxy.to/), [unblocktorrent](https://unblocktorrent.com/), [TorrentBay](https://torrentbay.to/), [unblock.soy](https://unblock.soy/) / [2](https://en-proxy.com/) / [3](https://unb.how/), [piracyproxy](https://piracyproxy.page/), [unblockedfor](https://unblockedfor.me/), [proxybit](https://proxybit.sbs/) / [2](https://www.unblocknow.surf/) / [3](https://www.unbl4you.cyou/) / [4](https://123unblock.world/) / [5](https://mrunblock.bar/) / [6](https://g3g.fun/), [unblocksource](https://unblocksource.net/), [dirproxy](https://dirproxy.cc/)
 
 ***
 
@@ -1915,7 +1912,6 @@ Add the following commands to a search to manually scrape each site.
 * https://fmovie.ac/
 * https://123movies.fm
 * https://5movies.fm/
-* https://123putlocker.io/
 * https://fmovies.gy/
 * https://www1.e123movies.com/
 * https://www1.ezlive.tv/
@@ -2075,7 +2071,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Tab Managers 
 
-[OneTab](https://www.one-tab.com/), [tabby](https://www.tabby.us/), [TabMerger](https://lbragile.github.io/TabMerger-Extension/), [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn), [Tabli](https://www.gettabli.com/), [Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups), [Acid Tabs](https://github.com/jdhayford/acid-tabs-extension), [Tab Stash](https://josh-berry.github.io/tab-stash/)
+[OneTab](https://www.one-tab.com/), [tabby](https://www.tabby.us/), [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn), [Tabli](https://www.gettabli.com/), [Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups), [Acid Tabs](https://github.com/jdhayford/acid-tabs-extension), [Tab Stash](https://josh-berry.github.io/tab-stash/)
 
 ***
 
@@ -2406,7 +2402,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### TikTok Video Downloaders
 
-[SnapTik](https://snaptik.app/), [RipTok](https://github.com/adamsatyr/RipTok), [TikMate](https://www.tikmate.online/), [TikTokFull](https://tiktokfull.com/), [TikTokDer](https://tiktokder.com/), [Tik.fail](https://tik.fail/), [OnlineTik](https://www.onlinetik.com/), [tikmate](https://tikmate.app/), [tikrank](https://tikrank.com/)
+[SnapTik](https://snaptik.app/), [RipTok](https://github.com/adamsatyr/RipTok), [TikMate](https://www.tikmate.online/), [TikTokFull](https://tiktokfull.com/), [TikTokDer](https://tiktokder.com/), [Tik.fail](https://tik.fail/), [tikmate](https://tikmate.app/), [tikrank](https://tikrank.com/)
 
 ***
 
