@@ -22,7 +22,6 @@
 * [Muffon](https://github.com/staniel359/muffon) - *Streaming*
 * [Deezer](https://www.deezer.com/) - *Streaming*
 * [MusicBucket](https://musicbucket.net/) - *Track / Share Music / Telegram* 
-* [Music Meal](https://musicmeal.io/) - *Browser Music Extension*
 * [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - *Unlock Unavailable Netease Music*
 
 ***
@@ -49,7 +48,6 @@
 * [MP3Paw](https://mp3paw.wiki/) - *Browser Music*
 * [SoundClick](https://www.soundclick.com/default.cfm) - *Browser Music*
 * [Tancpol](https://tancpol.net/) - *Browser Music*
-* [MP3 Quack](https://mp3quack.lol/) - *Browser Music*
 * [MP4Juice ](https://mp4juice.cc/) - *Browser Music*
 * [Cliggo](https://music.cliggo.com/) - *Browser Music*
 * [Mixupload](https://mixupload.com/) - *Browser Music*
@@ -68,7 +66,7 @@
 * [Exotica](https://www.exotica.org.uk/) - *Retro Gaming Music Wiki*
 * [MusicDex](https://musicdex.org/) or [OtakuPlay](https://otakuplay.moe/) - *Anime Soundtracks / [Discord](https://discord.gg/yCXJkbdCHt)*
 * [Musicmap](https://musicmap.info/) - *Genealogy / History of Music Genres* 
-* [Random Song](https://randomsong.net/) or [ListenToThis](https://listentothis.nanoshinono.me/) - *Random Songs*
+* [ListenToThis](https://listentothis.nanoshinono.me/) - *Random Songs*
 * [The Nostalgia Machine](http://thenostalgiamachine.com/) - *Random Songs by Year* 
 * [Map of Metal](http://mapofmetal.com/) - *Interactive Map of Metal History* 
 * [The Cultural Borders of Songs](https://pudding.cool/2018/06/music-map/?date=202102) - *#1 Songs from 3,000 Countries* 
@@ -168,11 +166,9 @@
 * [Music For Programming](http://musicforprogramming.net/) - *Music for Focus* 
 * [Noizio](https://noiz.io/) - *Ambient* 
 * [Calmsound](https://www.calmsound.com/) - *Ambient* 
-* [Relaxing World](https://relaxing.world/) - *Ambient* 
 * [Moss Garden](https://moss.garden/) - *Ambient*
 * [CalmyLeon](https://calmyleon.com/) - *Ambient*
 * [Moodli](https://www.moodil.com/) - *Ambient*
-* [Audioscape](https://audioscape.netlify.app/) - *Ambient*
 * [Moszen](https://www.moszen.com/) - *Ambient* 
 * [Soundscape](https://soundescape.io/) - *Ambient*
 * [Soundrown](http://soundrown.com/) - *Ambient* 
@@ -265,12 +261,11 @@
 * [nodata](https://nodata.tv/) - *MP3*
 * [Black Organization](https://blackorganizationmp3.wixsite.com/music) - *MP3*
 * [SoundClick](https://www.soundclick.com/default.cfm) - *MP3*
-* [MP3 Quack](https://mp3quack.lol/) - *MP3*
 * [z1.fm](https://z1.fm/) - *MP3*
 * [PandaCD](https://pandacd.io/) - *MP3*
 * [Tancpol](https://tancpol.net/) - *MP3*
 * [ccMixter](http://ccmixter.org/) or [dig ccMixter](http://dig.ccmixter.org/dig) - *DL / Stream / MP3* 
-* [MP3Juices](https://www.mp3juices.cc/), [MP3Juice](https://mp3juice.buzz/) or [MP3Skull](https://mp3skulls.to/) - *DL / Stream / MP3* 
+* [MP3Juices](https://www.mp3juices.cc/), [MP3Juice](https://mp3juice.buzz/) - *DL / Stream / MP3* 
 * [Digital Meltd0wn](http://digitalmeltd0wn.blogspot.com/) - *MP3*
 * [Music Blogtrotter](https://musicblogtrotter.blogspot.com/) - *MP3*
 * [New Album Releases](https://newalbumreleases.net/) - *MP3*
@@ -280,7 +275,6 @@
 * [DeadPulpit](https://www.deadpulpit.com/) - *MP3*
 * [24NaiJamMuzic](https://www10.24naijamuzic.com/) - *MP3*
 * [frkmusic](https://www.frkmusic.site/) - *MP3*
-* [MuzBeat](https://muzbeat.org/) - *MP3*
 * [musify](https://musify.club/) - *MP3*
 * [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - *MP3*
 * [Music for the masses !](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_music_for_the_masses_.21) - *MP3*
@@ -391,7 +385,6 @@
 * [BurntScarr](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_burntscarr) - *STEMS*
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
 * [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [Incompetech](https://incompetech.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/), [free stock music](https://www.free-stock-music.com/) or [Fugue](https://icons8.com/music) - *Royalty Free Music* 
-* [MP3Scene](https://www.mp3scene.info/) - *MP3 Piracy Scene History*
 
 ***
 
