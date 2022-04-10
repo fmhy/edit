@@ -181,7 +181,6 @@
 * [CrewLink](https://github.com/ottomated/CrewLink) - *Among Us Proximity Chat*
 * [Impostor](https://impostor.github.io/Impostor/) - *Among Us Private Server*
 * [RoPro](https://ropro.io/), [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040) or [RoGold](https://discord.gg/XMHn9zV3UA)- *Enhance Roblox Website*
-* [RobloxThemes](https://github.com/christiankek/RobloxThemes) - *Themes for Roblox*
 * [ROBLOX Low Ping Finder](http://low-ping.dino.icu/) - *Find Low Ping Roblox Servers*
 
 ***
@@ -416,14 +415,12 @@
 * [Rekt](http://getrektby.us/) - *Black Ops 1 Mod Project / [Discord](https://discord.com/invite/HqjQFCp)*
 * [Plutonium](https://plutonium.pw/) - *Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)* 
 * [IW4x / IW6x](https://xlabs.dev/) - *COD MW2 Mod Project* 
-* [Cod4X](https://cod4x.me/) - *CoD4 Enhancement Mod*
 * [UGX Mods](https://www.ugx-mods.com/) - *COD Zombies Mods / [Discord](https://discord.gg/g9S2nSp)*
 * [Project Reality](https://www.realitymod.com/about) - *BF2 & ARMA 2 Realism Mod*
 * [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - *Battlefield Mod Projects*
 * [Optimize Dying Light 2](https://rentry.co/opto-dl2) - *DL2 Optimization Mods*
 * [Open Carnage](https://opencarnage.net/) / [Discord](https://discord.com/invite/2pf3Yjb), [Reclaimers](https://reclaimers.net/) / [Discord](https://discord.com/invite/reclaimers) or [Halo Mods](https://discord.com/invite/WuurKwr)  - *Halo Modding Community*
 * [Halo 3](https://store.steampowered.com/app/1695791/Halo_3_Mod_Tools__MCC/), [Halo 2](https://store.steampowered.com/app/1613450/Halo_2_Mod_Tools__MCC/), [Halo CE](https://store.steampowered.com/app/1532190/Halo_CE_Mod_Tools__MCC/) - *Halo Modding Tools*
-* [XboxChaos](https://www.xboxchaos.com/) - *Halo Modding Forum*
 * [Flatout 2 Fan Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2414295888) - *Patch for Flatout 2*
 * [Synergy2k](https://synergy2k.net/) - *NBA 2K MyCareer Mod Tool*
 * [Forza Painter](https://github.com/forza-painter/forza-painter) - *Import Images to Forza*
