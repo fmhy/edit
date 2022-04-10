@@ -518,7 +518,7 @@
 * [TunnelBear](https://www.tunnelbear.com/) - *Free VPN / 500mb*
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
 * [VPNGate](https://www.vpngate.net/en/) - *Free VPN Relay Servers*
-* [OpenVPN](https://openvpn.net/), [TincVPN](http://www.tinc-vpn.org/) or [IPTunnels](https://www.iptunnels.com/) - *VPN Tunnels*
+* [OpenVPN](https://openvpn.net/), [TincVPN](http://www.tinc-vpn.org/) - *VPN Tunnels*
 * [Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs) - *Free VPN Tunnel Configs*
 * [Warp-Unlimited-Advanced](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED) - *Generate Unlimited Data For Warp VPN*
 * [Gluetun](https://github.com/qdm12/gluetun) - *Tunnel your Docker containers through a VPN*
