@@ -86,7 +86,6 @@
 * [Read Any Book](https://www.readanybook.com/) - *Books*
 * [openlibrary](https://openlibrary.org/) - *Books* 
 * [standardebooks](https://standardebooks.org) - *Books* 
-* [GITenberg](https://www.gitenberg.org/) - *Books / [GitHub](https://github.com/GITenberg)*
 * [Manybooks](https://manybooks.net/)  - *Books*
 * [BooksVooks](https://booksvooks.com/) - *Books*
 * [dpgroup](https://www.dpgroup.org/) - *Books / Magazines*
@@ -97,9 +96,7 @@
 * [All Reading World](https://allreadingworld.com/) - *Books*
 * [The Library](https://discord.gg/cgSVDUwZs9) - *Books*
 * [Only Books](https://onlybooks.org/) - *Books*
-* [All Books](http://all-ebook.info/) - *Books*
 * [nymeriatv](https://nymeriatv.com/Epub/) - *Books*
-* [Repository z0ro](http://index-of.co.uk/) - *Books* 
 * [Ocean of EPUB](https://oceanofepub.com/) - *Books / Manga*
 * [PDFGet](http://www.pdfget.com/) - *Books*
 * [LetMeRead](https://www.letmeread.net/) - *Books*
@@ -184,7 +181,7 @@
 * [HundredZeros](http://hundredzeros.com/) or [FreeReadFeed](https://www.freereadfeed.com/) - *Free Kindle Books* 
 * [Wikibooks](https://www.wikibooks.org/) - *Wikimedia community*
 * [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - *ZeroNet Required*
-* [Avxhm](https://avxhm.se/), [2](https://avxhm.is/) - *[Leech Required](https://leechall.com/) / [Mirrors](https://www.avaxhome.online/)*
+* [Avxhm](https://avxhm.se/), [2](https://avxhm.is/) - *[Leech Required](https://leechall.com/)*
 * [AvaxHome](https://www.avaxhome.co/) 
 * [FreeBookSpot](http://www.freebookspot.es/default.aspx) - *Books / [Leech Required](https://filehostlist.miraheze.org/wiki/Main_Page)*
 * [zqktlwi4fecvo6ri](http://zqktlwi4fecvo6ri.onion/wiki/Libraries) - *Tor Required* 
@@ -745,10 +742,8 @@
 * [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/) - *Dictionary of Sorrows* 
 * [TheDevilsDictionary](http://www.thedevilsdictionary.com/) - *Cynical Dictionary*
 * [TagDef](https://tagdef.com/en/) - *Social Media Tag Dictionary* 
-* [EmojiMeans](https://emojimeans.com/) - *Emoji Meanings*
 * [KnowYourMeme](https://knowyourmeme.com/) - *Meme Database*
 * [Forvo](https://forvo.com/) or [HowJSay](https://howjsay.com/) - *Pronunciation Dictionary* 
-* [Unsuck It](http://unsuck-it.com/) - *Less Sucky Definitions* 
 * [OEIS](https://oeis.org/) - *Encyclopedia of Integer Sequences* 
 * [Time Traveler](https://www.merriam-webster.com/time-traveler) - *See when a word was first used in print* 
 * [Omniglot](https://www.omniglot.com/index.htm) - *Writing Systems & Languages Encyclopedia*
@@ -802,10 +797,10 @@
 * [findxkcd](https://xkcd-search.typesense.org/) - *Browse xkcd Comics*
 * [Cover](http://www.frenchfrysoftware.com/cover/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - *Reader / Manager*
 * [MComix](https://sourceforge.net/p/mcomix/wiki/Home/) - *Reader*
-* [Tachiyomi](https://tachiyomi.org/), [Bubble](https://f-droid.org/en/packages/com.nkanaev.comics/) or [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - *Manager / Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / Android* 
+* [Tachiyomi](https://tachiyomi.org/) or [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - *Manager / Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / Android* 
 * [ComicFlow](https://github.com/swisspol/ComicFlow) - *Manager / Reader / iOS*
 * [ComicFury](https://comicfury.com/) - *User-made Webcomics*
-* [CrossFace](https://crossface.cf/manga-reader/) or [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Web Comic Reader*
+* [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Web Comic Reader*
 * [Webcomix](https://github.com/J-CPelletier/webcomix) - *Webcomics Downloader*
 * [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - *Online Reader*
 * [Tenma](https://github.com/Tenma-Server/Tenma) or [Komga](https://komga.org/) - *Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)*
@@ -922,7 +917,6 @@
 * [AllMangasReader](http://allmangasreader.com/), [OpenComic](https://github.com/ollm/OpenComic) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - *Manager / Reader*
 * [Tachiyomi](https://github.com/Suwayomi)  - *Manga / Comic Reader / [Web Client](https://github.com/TachiWeb) / [Discord](https://discord.com/invite/tachiyomi)* 
 * [LANraragi](https://github.com/Difegue/LANraragi) - *Manga / Doujin Manager for NAS / [Discord](https://discord.com/invite/aRQxtbg)*
-* [CrossFace](https://crossface.cf/manga-reader/) - *Browser Comic / Manga Reader*
 * [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl) - *Manga Downloader*
 * [manga-py](https://github.com/manga-py/manga-py) - *Python Line Manga Downloader* 
 * [MangaManage](https://github.com/Daedren/MangaManage) - *Tachiyomi Download Manager*
@@ -960,7 +954,6 @@
 * [Light Novel Pub](https://www.lightnovelpub.com/)
 * [JPMTL](https://jpmtl.com/) 
 * [Novel Ebooks](https://novel-ebook.com/) 
-* [WuxiaWorld](https://www.wuxiaworld.com/)
 * [AsianNovel](https://www.asianovel.com/)
 * [LNWNCentral](https://lnwncentral.wordpress.com/) 
 * [NovelOnlineFull](https://novelonlinefull.com/)
@@ -1045,10 +1038,10 @@
 
 ## ▷ Newspaper Sites
 
-* **[Newspaper Paywall Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser)** or [Burlesco](https://burles.co/en/) - *Bypass the paywall on online newspapers*
 * **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)**
 * **[Google Newspaper Search](https://news.google.com/newspapers)**
 * **[Newspapers Magazines](https://t.me/newspapersmagaziness)** - *Telegram* 
+* [Burlesco](https://burles.co/en/) - *Bypass the paywall on online newspapers*
 * [BookCrush Newsstand](https://t.me/BookCrushNewsstand) - *Telegram*
 * [WhatsNws](https://t.me/whatsnws) - *Telegram*
 * [Sanet.st](https://sanet.st/newspapers/)
@@ -1089,7 +1082,6 @@
 * [GNOD](https://www.gnod.com/) - *Book Recommendations*
 * [RecommendMeABook](https://recommendmeabook.com/) - *Book Recommendations*
 * [WhichBook](https://www.whichbook.net/) - *Book Recommendations* 
-* [A Book like foo](https://abooklikefoo.com/) - *Book Recommendations*
 * [Readgeek](https://www.readgeek.com/) - *Book Recommendations*
 * [Shepherd](https://shepherd.com/) - *Book Recommendations*
 * [Literature-Map](https://www.literature-map.com/) - *Book Recommendations*
