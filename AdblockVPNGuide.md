@@ -112,7 +112,6 @@
 * [Hard_Configurator](https://hard-configurator.com/) - *Software Restriction Policy Management GUI* 
 * [Hardentools](https://github.com/securitywithoutborders/hardentools) - *Disables Risky Windows Features*
 * [Unchecky](https://unchecky.com/) - *Clears Software Installation Checkboxes*
-* [MCShield](https://www.mcshield.net/) - *Removable Drive Antivirus* 
 * [Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) or [DrWeb](https://free.drweb.com/) - *No Install Required Antivirus*
 * [Should I Remove It?](https://www.shouldiremoveit.com/) - *Easily Find & Remove Adware, Spyware ect.* 
 * [Rewind](https://github.com/Neo23x0/Rewind) - *Immediate Virus Infection Counter Measures*
@@ -215,7 +214,7 @@
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - *Encrypt / Decrypt GDrive*
 * [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/), [Skytransfer](https://skytransfer.hns.siasky.net) or [upload-vaa](https://upload.vaa.red/) - *Encrypted File Hosts* 
 * [boom.fyi](https://www.boom.fyi/) - *Temporary File Host*
-* [EncFS MP](https://encfsmp.sourceforge.io/index.html), [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/), [CipherShed](https://www.ciphershed.org/), [GPG4Win](https://www.gpg4win.org/), [Kryptor](https://www.kryptor.co.uk/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - *File Encryption Tool* 
+* [EncFS MP](https://encfsmp.sourceforge.io/index.html), [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/), [GPG4Win](https://www.gpg4win.org/), [Kryptor](https://www.kryptor.co.uk/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - *File Encryption Tool* 
 * [Filecrypt](https://filecrypt.cc/) - *Encrypt File Links*
 * [PDFEncrypt](https://pdfencrypt.net/) - *PDF File Encryption*
 * [GPGTools](https://gpgtools.org/) - *Encrypt & Sign Data / Communications* 
@@ -317,7 +316,6 @@
 * [Redirect AMP to HTML](https://www.daniel.priv.no/web-extensions/amp2html.html) - *Redirects AMP Pages to Regular Web Pages* 
 * [HTTP Header Live](https://github.com/Nitrama/HTTP-Header-Live) - *Display / Edit the HTTP Header*
 * [Open Two Factor Authenticator](https://add0n.com/two-factor-authenticator.html) - *Two-Factor Authentication Addon* 
-* [Social Book Post Manager](https://chrome.google.com/webstore/detail/social-book-post-manager/ljfidlkcmdmmibngdfikhffffdmphjae) - *Delete Facebook Posts in Bulk* 
 * [WAIncognito](https://chrome.google.com/webstore/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil?hl=en) - *Disable WhatsApps Read Receipts & Presence Updates*
 * [Who's Selling My Info?](https://github.com/swow2015/Who-sSellingMyInfo-) - *Detect Pages with "Do Not Sell My Information" Links*
 * [IndicateTLS](https://github.com/jannispinter/indicatetls) - *Display a Sites the TLS Protocol Version* 
@@ -398,7 +396,6 @@
 * [Mine](https://saymineapp.com/) - *View / Manage Digital Footprint*
 * [Redact](https://redact.dev/) - *Delete Entire Online History / [Warning](https://i.imgur.com/Kt8G430.png)*
 * [Make Internet Noise](http://makeinternetnoise.com/) - *Randomize Browser History* 
-* [Vektort13](http://vektort13.space/) - *Website History Test*
 * [Freenet Project](https://freenetproject.org/) - *Browse / Publish Freenet Sites* 
 * [Gopher](https://gopher.floodgap.com/gopher/) - *Alternative Internet Protocol*
 * [Cache Monkey](https://github.com/jamiepine/cache-monkey) - *Convert, Browse & Clear Cached Images & Files* 
@@ -480,7 +477,7 @@
 
 # ► VPN
 
-* **[VPN Comparison Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml)**, [2](https://www.vpntierlist.com/), [3](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/), [4](https://privacymelon.com/stealth-vpn-guide/vpn-comparison-table/), [5](https://techlore.tech/vpnchart) - *Compare VPN Privacy Polices*
+* **[VPN Comparison Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml)**, [2](https://www.vpntierlist.com/), [3](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/), [4](https://privacymelon.com/stealth-vpn-guide/vpn-comparison-table/) - *Compare VPN Privacy Polices*
 * **[How-to Bind VPN to Client](https://redd.it/ssy8vv)** - *Bind VPN to Client to Avoid ISP Letters*
 * **[Mullvad](https://mullvad.net/)** - *[Pricing](https://i.imgur.com/LfjZ9G3.png) / [NetNS](https://github.com/chutz/mullvad-netns)*
 * **[Proton](https://protonvpn.com)** - *[Pricing](https://i.imgur.com/hkhZGg1.png) / No Torrenting w/ Free Version*
@@ -493,7 +490,6 @@
 * [Perfect Privacy](https://www.perfect-privacy.com/) - *[Pricing](https://i.imgur.com/Rtfwu2t.png)*
 * [IVPN](https://www.ivpn.net/) - *[Pricing](https://i.imgur.com/Iq92wOO.png) / [Free Trial](https://redd.it/nzjmqa)*
 * [Trust.Zone](https://trust.zone/) - *[Pricing](https://i.imgur.com/PsRa8GD.png)*
-* [blackVPN](https://www.blackvpn.com/) - *[Pricing](https://i.imgur.com/uqMeG0b.png)*
 * [AirVPN](https://airvpn.org/) - *[Pricing](https://i.imgur.com/TMU1Qtt.png)*
 * [VPNSecure](https://www.vpnsecure.me/) - *[Pricing](https://i.imgur.com/BnuqpBS.png)*
 * [MysteriumVPN](https://www.mysteriumvpn.com/) - *[Pricing](https://i.imgur.com/2un0hjM.png)*
@@ -579,7 +575,6 @@
 * [Zalmos](https://www.zalmos.com/)
 * [CroxyProxy](https://www.croxyproxy.com/)
 * [ProxyPx](https://www.proxypx.com/)
-* [Titanium Network](https://www.titaniumnetwork.org/)
 * [ProxySite](https://www.proxysite.cc/) 
 * [Sudoproxy](https://www.sudoproxy.net/) 
 * [Globly.tech](https://globly.tech/) 
