@@ -13,7 +13,7 @@
 
 * **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** - *Multi-Site Audiobook Search*
 * **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
-* **[Audiobook Bay](http://audiobookbay.ws/)**, [2](http://audiobookbay.nl/), [3](http://www.audiobookbayabb.com/) - *Torrents / [Extension](https://addons.mozilla.org/en-US/firefox/addon/audiobookbay-magnet-assistant/)*
+* **[Audiobook Bay](http://audiobookbay.ws/)**, [2](http://audiobookbay.nl/) - *Torrents / [Extension](https://addons.mozilla.org/en-US/firefox/addon/audiobookbay-magnet-assistant/)*
 * **[Tokybook](https://tokybook.com/)** - *Listen Online*
 * **[Top 1000 Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_top_1000_audiobooks)** - *Audiobooks / Drive*
 * [Audiobook Gdrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_audiobook_gdrive) - *Audiobooks / Drive* 
@@ -603,7 +603,6 @@
 * [base-search](https://www.base-search.net/) - *Document Search*
 * [dimensions](https://app.dimensions.ai/discover/publication) - *Document Search*
 * [Share OSF](https://share.osf.io/) - *Document Search*
-* [CiteSeerX](https://citeseerx.ist.psu.edu/index) - *Document Search*
 * [Google Scholar](https://scholar.google.com/) - *Articles*
 * [Mendeley](https://www.mendeley.com/) - *Articles / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/)* 
 * [DOAJ](https://doaj.org/) - *Journals / Articles*
