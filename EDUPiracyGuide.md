@@ -473,7 +473,6 @@
 * [DU Chinese](https://www.duchinese.net/) - *Chinese Lessons*
 * [Dong Chinese](https://www.dong-chinese.com/) - *Chinese Lessons*
 * [The Chairman's Bao](https://www.thechairmansbao.com/) - *Chinese Reading Practice / News Articles*
-* [TastyMantou](https://www.tastymantou.com/) - *Daily Chinese Practice*
 * [FastChinese](https://fastchinese.org/) - *Chinese Flashcards & Practice*
 * [Pleco](https://www.pleco.com/) - *Chinese Flashcards & Dictionary*
 * [Popup Chinese](http://www.popupchinese.com/tools/adso) - *Chinese Learning Tools*
@@ -551,7 +550,7 @@
 * [Spreeder](https://www.spreeder.com/) - *Learn to Read Faster*
 * [Learn Anything](https://learn-anything.xyz/), [Learning Lab](https://learn.uno/) / [Discord](https://discord.com/invite/FCzYt8u) or [Learney](https://app.learney.me/) - *Learning Resources* 
 * [Fact Directory](https://fact.directory/) - *Facts for Every Topic* 
-* [Faqtoids](https://top.faqtoids.com/) or [Refseek](https://www.refseek.com/) - *Academic Search Engine*
+* [Refseek](https://www.refseek.com/) - *Academic Search Engine*
 * [Explorabl.es](https://explorabl.es/) or [MinuteLabs](https://minutelabs.io/) - *Interactive Learning / Lessons* 
 * [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - *Learn With GIFs* 
 * [Information Is Beautiful](https://informationisbeautiful.net/) - *Data / Information / Infographics / Visualizations* 
