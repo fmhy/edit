@@ -139,7 +139,6 @@
 * [Vmovee](https://www.vmovee.watch/) - *Movies / TV*
 * [WatchMoviesFree](https://wmoviesfree.com/) - *Movies*
 * [GoWatchSeries](https://www1.gowatchseries.online/) - *Movies / TV / Anime* 
-* [HDO](https://w10.hdonline.eu/) - *Movies / TV / Anime* 
 * [Filmxy](https://www.filmxy.pw/) - *Movies*
 * [MoviesXK](https://moviexk.biz/) - *Movies / TV*
 * [KissMovies](https://www.kissmovies.io/) - *Movies / TV*
@@ -158,7 +157,6 @@
 * [Lovemovie](https://lovemovie.org/) - *Movies / TV*
 * [CimaClub](https://www.cimaclub.cc/category/%D8%A3%D9%81%D9%84%D8%A7%D9%85-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86) - *Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Shahed4u](https://shahed4u.onl:2053/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a-1/) - *Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
-* [GoMoviesFree](https://www13.gomoviesfree.page/) - *Movies / TV / Anime*
 * [MovGoTV](https://movgotv.com/) - *Movies / TV / Anime*
 * [HollyMovieHD](https://hollymoviehd.cc/) or [NovaMovie](https://novamovie.net/) - *Movies / TV / Anime*
 * [YMovies](https://ymovies.vip/) - *Movies / TV / Anime*
@@ -618,7 +616,6 @@
 * [HDMovieArea](https://hdmoviearea.live/genre/dual-audio/) - *Movies / TV*
 * [TheMoviesFlix](https://themoviesflix.com.ph/category/english-movies/) - *Movies / TV*
 * [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - *Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)*
-* [UHDMovies](https://uhdmovies.in/movies/dual-audio-movies/) - *Movies*
 * [Movies Mobile](https://mobilemovies.info/index.php?dir=Hollywood%20Movies) - *Movies*
 * [SeriesVault](https://seriesvault.tk/) - *TV* 
 * [TVShows.today](https://tvshows.today/) - *TV*
