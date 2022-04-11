@@ -426,7 +426,7 @@
 * [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - *Modded Android App*
 * [AeroInsta](https://aeroinsta.com/) - *Improved Android App*
 * [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - *Modded iOS App*
-* [imginn](https://imginn.com/), [Picuki](https://www.picuki.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer), [Dumpor](https://dumpor.com/) or [Greatfon](https://greatfon.com/) - *Instagram Viewer*
+* [imginn](https://imginn.com/), [Picuki](https://www.picuki.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer) or [Dumpor](https://dumpor.com/) - *Instagram Viewer*
 * [FeedInABox](https://t.me/FeedinboxBot) - *Telegram Bot*
 * [QIS](https://github.com/propublica/qis/) or [Instagram Search Tool](https://www.aware-online.com/en/osint-tools/instagram-search-tool/) - *Search Tool* 
 * [Osintgram](https://github.com/Datalux/Osintgram) - *Osintgram Analysis*
