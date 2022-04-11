@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/RT4rL3T.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/Ipkvcf5.png)** - *For mobile users*
 
 ***
 ***
@@ -425,12 +425,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 #### Custom Rich Discord Presence
 
 [CustomRP](https://www.customrp.xyz/), [EasyRP](https://github.com/Pizzabelly/EasyRP), [RPCEngine](https://github.com/qoobes/rpcengine), [discord-custom-rich-presence](https://github.com/HyperBeasty/discord-custom-rich-presence), [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC)
-
-*** 
-
-#### Dark Background and Light Text
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text/) / [Chrome](https://chrome.google.com/webstore/detail/dark-background-and-light/cdcoopnlkdlmphjpjggdmhohkiklonkh?hl=en)
 
 ***
 
@@ -1287,7 +1281,6 @@ Add the following commands to a search to manually scrape each site.
 
 * http://www16.0123movies.org/
 * https://123movies.dance/
-* https://ww2.123movierulz.me/
 * http://www13.123moviesfree.com/
 * http://www1.123moviesmovies.com/
 * http://topbestsite.live/
@@ -1307,7 +1300,6 @@ Add the following commands to a search to manually scrape each site.
 * https://links4u.co/
 * https://serijeonline.net/ 
 * https://www.hdsaprevodom.com/ 
-* https://watchseries.ninja/
 * https://topeuropix.site/
 * https://www.peramovies.club/ 
 * https://ww5.1todaypk.live/category/hollywood-featured/page/0
