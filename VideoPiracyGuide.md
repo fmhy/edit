@@ -147,7 +147,7 @@
 * [ConTV](https://www.contv.com/browse-movie/146/free/) - *Movies*
 * [Pahe.stream](https://pahe.stream/) - *Movies / TV*
 * [VidCloud](https://vidembed.io/) - *Movies / TV*
-* [Afdah](https://afdah.video/), [2](https://afdah2.com/) - *Movies*
+* [Afdah](https://afdah2.com/) - *Movies*
 * [SeeHD](https://seehd.nl/) - *Movies / TV / Anime* 
 * [SeeHD.uno](https://www.seehd.uno/) - *Movies / TV / Anime / NSFW* 
 * [Yesmovies.love](https://yesmovies.love/) - *Movies / TV / Anime* 
