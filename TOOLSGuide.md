@@ -507,7 +507,6 @@
 * [Nightcore Maker](https://nightcoremaker.com/) - *Create Nightcore Versions of Songs*
 * [CSound](https://csound.com/) - *Music Computing System*
 * [Helio](https://helio.fm/) - *Music Composition Software*
-* [Melodai.art](https://melodai.art/) - *AI Melody Generator*
 * [AudioAlter](https://audioalter.com/preset/8d-audio) - *Create '8D' Audio*
 * [Karaoke Maker](https://www.edityouraudio.com/karaoke-maker), [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - *Create Karaoke Songs*
 * [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/), [VoiceSpice](https://voicespice.com/) or [Reverb Record](https://record.reverb.chat/) - *Online Audio Recorder* 
@@ -707,12 +706,12 @@
 * [wallabag](https://wallabag.org/) - *Save and Classify Articles*
 * [BrowserParrot](https://www.browserparrot.com/) - *Browser History Search Engine*
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - *Tools / Apps to Run Flash Programs*
-* [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/webcatalog/), [Applicationize](https://applicationize.me/now) or [web2desk](https://appmaker.xyz/web2desk/) - *Turn Sites into Desktop Apps* 
+* [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/webcatalog/) or [web2desk](https://appmaker.xyz/web2desk/) - *Turn Sites into Desktop Apps* 
 * [Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Mataroa](https://mataroa.blog/), [Emanates Docs](https://emanates.deepjyoti30.dev/), [write freely](https://writefreely.org/) or [twtxt](https://github.com/buckket/twtxt) - *Blogging Platform*
 * [Telescope](https://telescope.ac/) - *Publishing Platform*
 * [Odie](http://odie.us/) - *Publish Google Docs to Web*
 * [SpookyX](https://github.com/Fiddlekins/SpookyX) - *Adds Features to Imageboards*
-* [Rambox](https://rambox.pro/) / [GitHub](https://github.com/ramboxapp/download/releases), [Ferdi](https://getferdi.com/), [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [Hamsket](https://github.com/TheGoddessInari/hamsket), [matterbride](https://github.com/42wim/matterbridge) or [Franz](https://meetfranz.com/) - *Combine Web Apps / Chats*
+* [Rambox](https://github.com/ramboxapp/download/releases), [Ferdi](https://getferdi.com/), [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [Hamsket](https://github.com/TheGoddessInari/hamsket), [matterbride](https://github.com/42wim/matterbridge) or [Franz](https://meetfranz.com/) - *Combine Web Apps / Chats*
 * [Slapdash](https://slapdash.com/) - *Connect Cloud Apps* 
 * [Browser Automation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - *Automate Internet Tasks*
 * [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - *Communication Software Index*
@@ -995,7 +994,7 @@
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - *Telegram Link Shortener Bot* 
 * [suri](https://github.com/jstayton/suri) or [mpngin](https://github.com/thewalkingtoast/mpngin) - *Self-Deployed Link Shortener*
 * [shrtcode](https://shrtco.de/tools/) or [cuttly](https://cutt.ly/) - *Multiple URL Tools*
-* [Open Bulk URL](https://openbulkurl.com/), [RapidLinkr](https://rapidlinkr.com/) or [OpenAllURLs](https://www.openallurls.com/) - *URL Bulk Opener*
+* [Open Bulk URL](https://openbulkurl.com/) or [OpenAllURLs](https://www.openallurls.com/) - *URL Bulk Opener*
 * [ListURLs](https://listurls.com/) - *URL List Generator*
 * [CheckServer](https://check-host.net/), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - *Site Monitoring Tools*
 * [CrowdTangle](https://apps.crowdtangle.com/chrome-extension) - *Check Where Links Have Been Shared*
@@ -1050,7 +1049,6 @@
 * [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466-unedit-and-undelete-for-reddit) - *See Edited & Deleted Reddit Content*
 * [Reddit-Search](https://camas.github.io/reddit-search/), [Unddit](https://www.unddit.com/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - *View Deleted Reddit Posts*
 * [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - *View Deleted Reddit Comments* 
-* [The-Eye /r/](https://the-eye.eu/r/) - *Subreddit Backups* 
 * [rareddit](https://www.rareddit.com/), [Archive Reddit](https://www.archivereddit.com/), [PushShift Reddit](http://files.pushshift.io/reddit/) or [Reddit Archive](http://www.redditarchive.com/) - *Reddit Post Archive* 
 * [Reddit (Au) Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - *Highlights New Comments*
 * [rComments](https://github.com/iampueroo/rComments) - *Explore Comments & Replies without Clicking a Post* 
@@ -1210,7 +1208,6 @@
 * [usrbg](https://github.com/Discord-Custom-Covers/usrbg) or [Pfps.gg](https://pfps.gg/) - *Discord Custom Profile Backgrounds / [Discord](https://discord.gg/2YcxDChxS5)* 
 * [Auto Creative](https://auto.creavite.co/icons) - *Animated Icon & Banner Generator*
 * [DiscordBannerTester](https://dav1312.github.io/BD/DiscordBannerTester/) - *Test Discord Banners*
-* [Disgradient](https://disgradient.vanished.rocks/) - *Gradients for Discord Folders, Roles ect.*
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - *Adds Custom CSS Support* 
 * [Discord Status](https://discordstatus.com/) - *Check Discord Status* 
 * [Status](https://discord.gg/Nnttd7EZV4) - *Followable Site Status Channels*
@@ -1451,7 +1448,7 @@
 * [Hashait](https://www.hashatit.com/) - *Hashtag Search*
 * [Twitter 3D](https://twitter.jeffprod.com/) - *View Twitter Connections in 3D*
 * [Buhitter](https://buhitter.com/) - *Twitter Illustration Search*
-* [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [DownloaderBot](https://twitter.com/DownloaderBot), [Savetweetvideo](https://chrome.google.com/webstore/detail/savetweetvid/mklnanllkbjgnnhammmgfnnbnbhnifme), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - *Download Twitter Videos* 
+* [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [DownloaderBot](https://twitter.com/DownloaderBot), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - *Download Twitter Videos* 
 * [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/) or [SocialBearing](https://socialbearing.com/) - *Analyze Twitter Accounts* 
 * [RedBlock](https://github.com/gaeulbyul/RedBlock) - *Block Multiple Users on Twitter*
 * [TweeterID](https://tweeterid.com/) - *Twitter User ID & Username Converter* 
