@@ -100,7 +100,6 @@
 * [0DayDDL](https://0dayddl.com/) - *Video / Audio / Games / Software / Books / Magazines*
 * [MaxRelease](http://max-rls.com/) - *Video / Audio / Software / Games / Magazines*
 * [BoltBB](https://boltbb.me/) - *Video / Software / Games / Books / NSFW*
-* [Volno](https://volno.org) - *Audio / Books / Software / Games / Android / NSFW*
 * [worldsrc](https://www.worldsrc.net/) - *Video / Audio / Games / Software / Android*
 * [Team OS](https://www.teamos-hkrg.com/) - *Software / Games / Books / Android*
 * [WarezBook](https://www.warezbook.org/) - *Video / Audio / Software / Games / Books* 
@@ -272,7 +271,6 @@
 * [FreshCode](https://freshcode.club/) 
 * [Realityripple](https://realityripple.com/) 
 * [Softpedia](https://www.softpedia.com/) 
-* [Enderman's Website](https://malwat.ch/software) 
 * [Software Informer](https://software.informer.com/) 
 * [FreewareWeb](http://www.freewareweb.com/) 
 * [Freeware Directory](http://www.freewaredirectory.net/)
@@ -317,7 +315,6 @@
 * [UWP Community](https://uwpcommunity.com/) - *Universal Windows Programs / [Discord](https://discord.gg/eBHZSKG)*
 * [RaymondFreeSoftware](https://t.me/raymondfreesoftware) - *Telegram / [Index](https://t.me/rfsnotes)*
 * [Suckless](https://suckless.org/) - *Simple Software Archive* 
-* [MSDN](https://the-eye.eu/public/MSDN/) - *Microsoft Developer Network Software* 
 * [WinWorldPC](https://winworldpc.com/) - *Abandonware / Operating Systems* 
 * [VETUSWARE](https://vetusware.com/) - *Abandonware / Operating Systems / Games*
 * [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - *Self-Hosted Software Index* 
@@ -351,7 +348,6 @@
 * [Grafixfather](https://www.grafixfather.com/)
 * [Graphicex](https://graphicex.com/)
 * [PSDKeys](https://psdkeys.com/)
-* [Allday](https://allday1.com/)
 * [GFX-Hub](https://gfx-hub.net/)
 * [GoDownloads](https://godownloads.net/) 
 * [GFXDownload](http://gfxdownload.com/)
