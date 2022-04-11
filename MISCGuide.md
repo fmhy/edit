@@ -1003,7 +1003,7 @@
 * **[add0n](https://add0n.com/) or [MyBrowserAddon](https://mybrowseraddon.com/)** - *Open-Source Extension Index*
 * **[Buster](https://github.com/dessant/buster)** - *Auto Captcha Solver*
 * **[Privacy Pass](https://privacypass.github.io/)** - *Skip Captchas* 
-* **[Dark Reader](https://darkreader.org/)**, [Dark Background and Light Text](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dark_background_and_light_text), [Midnight Lizard](https://midnight-lizard.org/), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) or [222](https://github.com/x08d/222) - *Dark Mode* 
+* **[Dark Reader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) or [222](https://github.com/x08d/222) - *Dark Mode* 
 * [Into The Black Hole](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_into_the_black_hole) - *Dark Mode Browser Theme*
 * [Omni](https://github.com/alyssaxuu/omni) - *Bookmark, Tab & History Manager*
 * [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [VimC](https://github.com/1995eaton/chromium-vim), [Web Search Navigator](https://github.com/infokiller/web-search-navigator) or [Vimium C](https://github.com/gdh1995/vimium-c) - *Keyboard Shortcuts* 
@@ -1139,7 +1139,7 @@
 * [FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/) - *Multiple Tab Related Actions*
 * [Firefox Download Managers](https://addons.mozilla.org/en-US/firefox/search/?category=download-management&recommended=true&sort=recommended%2Cusers&type=extension) - *Download Managers for Firefox*
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - *Download Manager*
-* [ShadowFox](https://overdodactyl.github.io/ShadowFox/) - *Dark Mode*
+* [ShadowFox](https://overdodactyl.github.io/ShadowFox/) or [Dark Background and Light Text](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text/) - *Dark Mode*
 * [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - *Pick Site that Opens in New Tabs* 
 * [Keep or Delete Bookmarks](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) - *Keep Bookmark Folder Clean* 
 * [Default Bookmark Folder](https://addons.mozilla.org/en-US/firefox/addon/default-bookmark-folder/) - *Change Default Bookmark Folder*
