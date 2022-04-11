@@ -135,7 +135,7 @@
 * [TorrentDownload](https://www.torrentdownload.info/) 
 * [Torrent Paradise](https://torrent-paradise.ml/) 
 * [2Torrentz](https://2torrentz.net/torrentz/)
-* [Toros](https://www.toros.co/) or [Toros2](https://www.toros2.com/)
+* [Toros2](https://www.toros2.com/)
 * [Dirty Torrents](https://dirtytorrents.com/) 
 * [TorrentQuest](https://torrentquest.com/) 
 * [TorrentHound](http://torrenthound.ee/)
@@ -219,7 +219,7 @@
 
 # ► Helpful Sites / Apps
 
-* **[PreDB](https://predb.ovh/)** / [2](https://predb.me/) / [3](https://predb.de/) / [4](https://www.predb.pw/), [PreDB Live](https://predb.live/), [M2V](https://m2v.ru/), [srrDB](https://www.srrdb.com/) or [pre.c-burns](http://pre.c-burns.co.uk/pre.php) - *Scene Release Tracker*
+* **[PreDB](https://predb.ovh/)** / [2](https://predb.me/) / [3](https://predb.de/) / [4](https://www.predb.pw/), [PreDB Live](https://predb.live/), [M2V](https://m2v.ru/) or [srrDB](https://www.srrdb.com/) - *Scene Release Tracker*
 * **[Tracker Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tracker_lists)** - *Updated lists of BitTorrent trackers* 
 * **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.com) / [3](https://www.torrentkitty.net/) / [4](https://www.torrentkitty.lol/) / [5](https://torrentkitty.se/) - *Torrent to Magnet Converter*
 * **[Auto Torrent Tools List](https://redd.it/hbwnb2)**, [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - *Autodownload tools*
