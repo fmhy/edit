@@ -84,7 +84,6 @@
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - *Programming Courses*
 * [Programming Courses Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_programming_course_drives) - *Programming Courses*
 * [FreeCourses](https://freecourses.github.io/) - *Programming Courses*
-* [educative.io_courses](https://github.com/jeregatong/educative.io_courses) - *Programming Courses*
 * [HelloWorldCollection](http://helloworldcollection.de/) - *Hello World Programming Collection*
 * [VisualGo](https://visualgo.net/) - *Data Structures & Algorithm Animations*
 * [HTMLDog](https://htmldog.com/) - *HTML / CSS / JavaScript Tutorials* 
@@ -139,7 +138,6 @@
 * [Devops Exercises](https://github.com/bregman-arie/devops-exercises) - *DevOps Exercises*
 * [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - *Learn DevOps*
 * [Hacksplaining](https://www.hacksplaining.com/) - *Developer Security Lessons*
-* [Publish Something Online](https://publishsomething.online/) - *Site Development Guides*
 * [LandChad](https://landchad.net/) - *Site Development Guide*
 * [Full Stack Solana Development Guide](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - *[Examples](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)*
 * [The New Boston](https://thenewboston.com/) - *Site Development Courses [Discord](https://discord.com/invite/thenewboston)*
@@ -697,7 +695,7 @@
 * [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks), [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/) or [SimpleCSS](https://simplecss.org/) - *CSS Framework*
 * [TailBlocks](https://tailblocks.cc/) - *Ready-to-use Tailwind CSS Blocks*
 * [MarkdownGuide](https://www.markdownguide.org/) - *Guide for Markdown (.md)* 
-* [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/) or [Mark Text](https://marktext.app/) / [GitHub](https://github.com/marktext/marktext)- *Markdown Editor* 
+* [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/) or [Mark Text](https://github.com/marktext/marktext)- *Markdown Editor* 
 * [Table Magic](https://stevecat.net/table-magic/) - *CSV, HTML & Markdown Converter*
 * [Markdown To HTML](https://markdowntohtml.com/) - *Markdown to HTML Converter*
 * [Word2md](https://word2md.com/) - *Word to Markdown Converter*
