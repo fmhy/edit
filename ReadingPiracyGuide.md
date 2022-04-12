@@ -13,7 +13,7 @@
 
 * **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** - *Multi-Site Audiobook Search*
 * **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
-* **[Audiobook Bay](http://audiobookbay.ws/)**, [2](http://audiobookbay.nl/) - *Torrents / [Extension](https://addons.mozilla.org/en-US/firefox/addon/audiobookbay-magnet-assistant/)*
+* **[Audiobook Bay](http://audiobookbay.ws/)**, [2](http://audiobookbay.nl/) - *Torrents*
 * **[Tokybook](https://tokybook.com/)** - *Listen Online*
 * **[Top 1000 Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_top_1000_audiobooks)** - *Audiobooks / Drive*
 * [Audiobook Gdrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_audiobook_gdrive) - *Audiobooks / Drive* 
