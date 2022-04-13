@@ -15,11 +15,11 @@
 * **[How-To Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - Find Obscure Films
 * [Video Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_search_sites) - Search Video Sites / [CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)
 * [Stream IMDb](https://github.com/4L00/TemperMonkey-Scripts/) or [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) - Add Stream Search Buttons to IMDb
-* 
+
 * ***
-* 
-* ## ▷ Dedicated Hosts
-* 
+
+## ▷ Dedicated Hosts
+
 * **[Movies4Discord](https://discord.gg/UJ9cS2kP3B)** - Movies / TV / 1080p Only / [Website](https://movies4discord.xyz/)
 * **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
 * **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
