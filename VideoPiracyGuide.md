@@ -869,6 +869,7 @@
 
 # ► Tracking / Discovery
 
+* **[Movie Recs](https://rentry.co/MovieRecs)** - Movie Recommendation Sites / Tools
 * **[IMDb Advanced Search](https://www.imdb.com/search/)** or [pyMDB](https://pymdb.mloesch.it/) - Search Engine
 * **[TasteDive](https://tastedive.com/)** - Recommendations 
 * **[FlixMetrix](https://flickmetrix.com/)** - Combines IMDb, Rotten Tomatoes & Letterbox ratings
