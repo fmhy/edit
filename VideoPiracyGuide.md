@@ -100,11 +100,7 @@
 * [Fawesome](https://fawesome.tv/) - Movies / TV
 * [LokLok](https://loklok.com/) - Movies / TV
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / [Windscribes](https://windscribe.com/) free version works
-* [FreeMovies](https://freemovies.ltd/) or [MoviesFoundOnline](https://moviesfoundonline.com/) - Movies / YouTube
-* [YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - Youtube Streaming Subs
-* [YouTube Streaming Channels](https://rentry.co/YT-Movies) - Channels that host movies or shows
-* [Official YouTube Movies](https://www.youtube.com/feed/storefront?bp=kgEDCPYDogUCKAU%3D) / [TV](https://www.youtube.com/feed/storefront?bp=kgEDCO8HogUCKAU%3D) - Free with Ads
-* [FREEMOVIESNOW](https://www.youtube.com/c/FREEMOVIESNOW/featured) - YouTube Movies
+* [YouTube Movie Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)
 * [JustWatch](https://www.justwatch.com/) or [ReelGood](https://reelgood.com/) - Search Legal Streaming Hosts
 * [Manually Scrape Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manually_scrape_sites) - Search Sites Manually
 * [Dirtywarez Ranking](https://dirtywarez.org/cat/streaming), [Watch Movies Free](https://redd.it/rbpag2), [StreamingSites](https://streamingsites.com/) or [Movies-Play](https://movies-play.com/) - Streaming Site Lists
