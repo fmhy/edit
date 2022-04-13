@@ -212,6 +212,7 @@
 * [yay](https://github.com/Jguer/yay) - *AUR Helper / Package Manager*
 * [Pacstall](https://pacstall.dev/) - *AUR-Inspired Package Manager for Ubuntu*
 * [apt-fast](https://github.com/ilikenwf/apt-fast) - *APT Download Accelerator*
+* [Nala](https://gitlab.com/volian/nala) - *APT Frontend*
 * [Alien](https://wiki.debian.org/Alien) - *Convert .rpm packages to .deb packages*
 * [MPR Packages](https://mpr.hunterwittenborn.com/)
 * [JenV](https://www.jenv.be/) - *Java Environment Manager / [GitHub](https://github.com/jenv/jenv)*
