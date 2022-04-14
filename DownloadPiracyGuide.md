@@ -184,7 +184,7 @@
 # ► Software Sites
 
 * **[/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread)** - Software Piracy Megathread
-* **[Software CSE](https://cse.google.com/cse?cx=57b3962509047447e)** / [CSE 2](https://cse.google.com/cse?cx=ec7d33ef358ae1b65) - Multi-Site Search
+* **[Software CSE](https://cse.google.com/cse?cx=ca4c91f63fa53d51c)** / [CSE 2](https://cse.google.com/cse?cx=ec7d33ef358ae1b65) - Multi-Site Search
 * **[Mobilism](https://forum.mobilism.org/)** - Software / Books / [Mobile App](https://forum.mobilism.org/app/)
 * **[soft98](https://soft98.ir/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * **[FileCR](https://filecr.com/en/)** - Software / Books
