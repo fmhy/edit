@@ -220,7 +220,7 @@
 * [NoPayStation](https://nopaystation.com/) or [PSNDL](https://psndl.net/) - Roms / Sony Consoles
 * [PSP Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_psp_collection) - Roms / PSP
 * [psp.hm7](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_psp.hm7) - Modded PSP Collection 
-* [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - Roms / Wii U / [Required Keys](https://vault.titlekeys.ovh/)
+* [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - Roms / Wii U / [Title Keys](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wiiu_title_keys)
 * [Wii Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wii_roms) - Roms / Wii
 * [Switch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - Roms / Nintendo Switch / [Release Trakcer](http://www.nswdb.com/)
 * [Gamecube Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gamecube_roms) - Roms / GameCube
@@ -617,6 +617,7 @@
 * [Game about Squares](http://gameaboutsquares.com/) - Puzzle Game
 * [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
 * [Menneske](https://www.menneske.no/eng/) - Number Puzzles 
+* [Nerdle](https://nerdlegame.com/) - Number Guessing Game 
 * [picture dots](https://www.picturedots.com/) - Make & Play dot Puzzles
 * [babble.xyz](https://babbl.xyz/) - Infinite Scrabble
 * [WordHub](https://wordhub.com/) - Scrambled Word Game
@@ -654,6 +655,8 @@
 * [GuessMe!](https://cer0zz.itch.io/guessme) - Guess Answers
 * [GeoGuessr](https://www.geoguessr.com/), [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Game / [Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) / [Twitch Chat Bot](https://chatguessr.com/)
 * [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
+* [WTM](https://whatthemovie.com/) - Movie Guessing Game
+* [Heardle](https://www.heardle.app/) - Song Guessing Game 
 * [LanguageGuesser](https://languageguesser.com/) - Guess Music Video Languages 
 * [Emoji Dingbats](https://emoji-dingbats.herokuapp.com/) - Emoji Dingbat Game
 * [The Higher Lower Game](http://www.higherlowergame.com/) - Guess What's Googled More
