@@ -148,7 +148,6 @@
 * [ExtraTorrent](https://extratorrent.unblockit.kim/) 
 * [Torrent Download](http://www.torentdownloads.narod.ru/) 
 * [SkyTorrents](http://www.skytorrents.me/) 
-* [BITCQ](https://bitcq.com/)
 * [TorrentMag](https://www.torrentmag.net/) 
 * [Torlook](https://gw1.torlook.info/)
 * [Torrent.nz](https://torrent.nz/) 
