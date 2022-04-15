@@ -217,6 +217,7 @@
 * [OpenMicroWave](https://omw.xyz.is/) - Morrowind for Android
 * [VMOS](https://www.vmos.com/) - Android Virtual Machine
 * [Media Bar](https://play.google.com/store/apps/details?id=apps.ijp.mediabar) - Status Bar Media Controller
+* [Red Moon](https://github.com/LibreShift/red-moon) or [NightOwl](https://play.google.com/store/apps/details?id=com.evezzon.nightowl) - Screen Brightness Control
 * [Caffeine](https://lab.zhs.moe/caffeine/) - Keep Screen On
 * [WaveUp](https://gitlab.com/juanitobananas/wave-up) - Turn On Display via Waving
 * [Shelter ](https://cgit.typeblog.net/Shelter/) or [Insular](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps
@@ -308,7 +309,6 @@
 * [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - Use Google Cam Without Google Play 
 * [Fix My Speakers](https://fixmyspeakers.com/) - Eject Water from Phones Speakers
 * [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - Fix OLED Images
-* [Red Moon](https://github.com/LibreShift/red-moon) - Screen Filter
 * [sh-ort](https://sh-ort.app/) - URL Shortener
 * [RClone](https://github.com/x0b/rcx) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Manager
 * [Omega Launcher](https://github.com/otakuhqz/omega), [SmartLauncher](https://www.smartlauncher.net/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_smartlauncher_pro), [Lawnchair](https://lawnchair.app/), [NovaLauncher](https://novalauncher.com/), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [ActivityLauncher](https://github.com/butzist/ActivityLauncher), [Smart Dock](https://github.com/axel358/smartdock), [Unlauncher](https://github.com/jkuester/unlauncher) or [Ratio](https://blloc.com/) - App Launcher 
@@ -335,6 +335,7 @@
 * [Tasks](https://tasks.org/), [Any.do](https://www.any.do/), [Simpletask](https://f-droid.org/en/packages/nl.mpcjanssen.simpletask), [Orgzly](https://github.com/orgzly/orgzly-android) or [Dailly](https://github.com/hydroxion/dailly/) - To-Do App
 * [Etar](https://github.com/Etar-Group/Etar-Calendar), [digical](https://digibites.nl/digical), [TimeBlocks](https://timeblocks.com/) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendar
 * [ShiftCal](https://gitlab.com/Nulide/ShiftCal) - Shift Calendar
+* [Sunny Side / TiseRise](https://www.tobianoapps.com/) - UV Index / Minimal Hourglass 
 * [Libra](https://github.com/markusfisch/Libra) - Pros v Cons App
 * [unhabits](https://github.com/iSoron/uhabits) or [MiindLeak](https://www.mindleak.app/) - Bad Habit Tracker
 * [Forest](https://forestapp.cc/), [Time Cop](https://timecop.app/), [minimalist phone](https://www.minimalistphone.com/), [Success](https://eveningkid.com/success/) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - Productivity Booster
@@ -430,7 +431,6 @@
 * [GameDVA](https://gamedva.com/) - Modded
 * [AndroidRepublic](https://androidrepublic.org/) - Modded
 * [APKTops](https://www.apktops.ir/) - Modded
-* [ModDroid](https://moddroid.co/) - Modded
 * [Apk4Free](https://apk4free.org/) - Modded / [Telegram](https://t.me/Apk4Free)
 * [Android1](https://an1.com/) - Modded 
 * [APKBuffet](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_apkbuffet) - Modded / [Requests](https://twitter.com/ipagarage?s=21) 
