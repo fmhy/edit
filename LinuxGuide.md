@@ -48,7 +48,7 @@
 * [gazee](https://hub.docker.com/r/linuxserver/gazee/) or [Komikku](https://gitlab.com/valos/Komikku) - Manga & omic Reader / Manager
 * [wikit](https://github.com/KorySchneider/wikit) - Wikipedia Summaries from CLI
 * [Linux Filesystem Chart](https://i.imgur.com/02VycVd.png) - File System Guide
-* [Distrochooser](http://distrochooser.de/?l=2) - Linux Distro Chooser
+* [Distrochooser](http://distrochooser.de/?l=2) or [Fushra](https://distros.fushra.com/) - Linux Distro Chooser
 * [Apodio](http://www.apodio.org/doku.php) or [io GNU/Linux](http://io.gnu.linux.free.fr/) - Linux Distro w/ Preinstalled Apps
 * [OldSchoolOS](https://www.oldschoolos.com/) - Old Linux Distro Archive
 * [Vivek9Patel](https://vivek9patel.github.io/) - Run Ubuntu on Browser / [GitHub](https://github.com/vivek9patel/vivek9patel.github.io)
@@ -158,6 +158,7 @@
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Easy Way to Use KVM
 * [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - Run Windows Apps in Linux 
 * [Ulauncher](https://ulauncher.io/) - Application Launcher
+* [DeskCut](https://github.com/NayamAmarshe/DeskCut) - Desktop Shortcuts App 
 * [Q4Wine](https://sourceforge.net/projects/q4wine/) - Wine GUI
 * [WineHQ](https://appdb.winehq.org/) - Wine Compatibility Database
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor & Log System Activity
@@ -296,6 +297,7 @@
 * [proton-gog-install](https://github.com/myyc/proton-gog-install) - Windows to Linux GOG Game Installer
 * [Unix ASCII Games](https://github.com/ligurio/awesome-ttygames) - Unix ASCII Games
 * [NVBurner](https://github.com/iloveichigo/NVBurner) - Overclocking Tool
+* [dxvk](https://github.com/doitsujin/dxvk) - D3D9, D3D10 and D3D11 for Linux / Wine 
 * [VKBasAlt](https://github.com/DadSchoorse/vkBasalt) - Game Post Processing Layer
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - Linux Gaming Kernels
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
