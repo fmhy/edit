@@ -360,6 +360,7 @@
 * [Photo.net Tutorials](https://www.photo.net/learn/about/tutorials) - Photography Tutorials
 * [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
 * [3DVKARTS](https://3dvkarts.net/) or [Line of Action](https://line-of-action.com/) - Drawing Tutorials
+* [anidraw](https://www.anidraw.net/?m=1) - Anime Drawing Tutorials
 * [TryDraw](https://www.trydraw.com/) - Improve Drawing Skills
 * [3D printed mirror array](https://github.com/bencbartlett/3D-printed-mirror-array) - Sunlight Pattern Mirror Array
 
