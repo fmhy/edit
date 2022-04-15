@@ -650,6 +650,7 @@
 * [xonotic](https://github.com/xonotic), [Vanguard](https://github.com/VanguardDev/Vanguard) / [2](https://project-vanguard.netlify.app/index.html) or [Warsow](https://github.com/Warsow) - FPS Game Assets
 * [Pixel Art Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_pixel_art) - Tools to Create Sprites & Pixel Art
 * [awesome-one-person-games](https://github.com/Yonaba/awesome-one-person-games) - Single Dev Game Examples
+* [Basic Computer Games](https://github.com/coding-horror/basic-computer-games) - Basic Computer Game Examples 
 
 ***
 
