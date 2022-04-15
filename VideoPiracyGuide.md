@@ -30,6 +30,7 @@
 * [C1NE](https://c1ne.co/) - Movies / TV 
 * [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - Movies / TV
 * [Oligopoly](https://olgply.com/) - Movies / TV
+* [Movies.cf](https://movies.cf/Landing) - Movies 
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime
 * [NetU](https://netu.io/view_page.php?pid=4) - Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)
 * [Shoow.in](https://shoow.in/) - Movies / TV / Anime / [Unlock HD](https://pastebin.com/hxdq1uFi)
@@ -43,7 +44,6 @@
 * [Vumoo](https://vumoo.to/) - Movies / TV 
 * [FshareTV](https://fsharetv.co/) - Movies 
 * [XEMovies](https://xemovie.com/) - Movies / TV
-* [FZMovies](https://fzmovies.net/) - Movies / [How to Use](https://imgur.com/a/EtLokxO)
 * [Trailers.to](https://trailers.to/) - Movies / TV / [Bypass Quota](https://openvideofs.github.io/)
 * [Videoflicks](https://videoflicks.net/) - Movies
 * [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://imgur.com/a/EtLokxO)
@@ -65,7 +65,7 @@
 * [SpaceMov](https://spacemov.site/) - Movies / TV
 * [NYMeriaTV](https://nymeriatv.com/) - Movies / TV
 * [OpenloadTV](https://openloadtv.co/) - Movies
-* [AllMoviesForYou](https://allmoviesforyou.co/) - Movies / TV 
+* [AllMoviesForYou](https://allmoviesforyou.net/) - Movies / TV 
 * [MoviesDownloadHub](https://moviesdownloadhub.com/category/hollywood/) - Movies / TV
 * [FlixGo](https://flixgo.me/) - Movies / TV
 * [TheFlix](https://theflix.to/) - Movies / TV
@@ -117,7 +117,7 @@
 * [Movie-Forum](https://movie-forum.co/forum.php) - Movies / TV
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
 * [2Embed](https://www.2embed.ru/library) - Movies / TV
-* [Series9](https://series9.me/), [2](https://series9.fun/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_goldmovies_clones)
+* [Series9](https://series9.me/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_goldmovies_clones)
 * [Cloudy](https://cloudy.pk/category/english/) - Movies / TV
 * [Levidia](https://www.levidia.ch/) - Movies / TV / Anime
 * [Movies123](https://www.movies123.email/) or [123movies](https://ww.123movies.club) - Movies / TV / Anime 
@@ -141,7 +141,7 @@
 * [TamilRockerMovies](https://www.tamilrockermovies.cf/search/label/Hollywood) - Movies
 * [ConTV](https://www.contv.com/browse-movie/146/free/) - Movies
 * [Pahe.stream](https://pahe.stream/) - Movies / TV
-* [VidCloud](https://vidembed.io/) - Movies / TV
+* [VidCloud](https://membed.net/) - Movies / TV
 * [Afdah](https://afdah2.com/) - Movies
 * [SeeHD](https://seehd.nl/) - Movies / TV / Anime 
 * [SeeHD.uno](https://www.seehd.uno/) - Movies / TV / Anime / NSFW 
@@ -212,6 +212,7 @@
 * [Northern Ireland Screen](https://digitalfilmarchive.net/) - Irish Film Archive
 * [Stiftung imai](https://www.stiftung-imai.de/) - German Video Archive
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
+* [Danish Silent Film](https://www.stumfilm.dk/en/stumfilm) - Silent Danish Film Archive
 * [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
 * [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
 * [Prelinger Archives](http://www.panix.com/~footage/) - Ephemeral Films [Archive](https://archive.org/details/prelinger)
@@ -233,9 +234,10 @@
 
 * **[TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)**
 * **[CouchTuner](https://www.couchtuner.show/)** - TV 
-* **[Best Series](https://bstsrs.one/)** - TV
+* **[Best Series](https://bstsrs.one/)**, [2](https://srsone.click/) - TV
 * [Noxx](https://noxx.is) - TV
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - TV / Anime
+* [Teleisodes](https://www1.telepisodes.org/) - TV 
 * [FZTVSeries](https://fztvseries.mobi/), [MobileTVShows](https://www.mobiletvshows.net/) or [TVSeries](https://www.tvseries.in/) - TV / Anime
 * [OnlySeries](https://onlyseries.net/) - TV
 * [BKWorld](https://bkworldtube.com/) - TV
@@ -275,7 +277,7 @@
 * [Genoanime](https://genoanime.com/) - Sub / Dub 
 * [Just Dubs](http://justdubs.org/) - Dub
 * [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - Sub
-* [GoGoAnime](https://gogoanime.pe/), [2](https://streamani.net/), [3](https://www2.gogoanime.cm/), [4](https://gogoanime.film/) - Sub / Dub / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime)
+* [GoGoAnime](https://gogoanime.pe/), [2](https://streamani.net/), [3](https://www2.gogoanime.cm/), [4](https://gogoanime.film/), [5](https://gogoplay1.com/) - Sub / Dub / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime)
 * [AnimeShow](https://www2.animeshow.tv/) - Sub
 * [AnimeNana](https://animenana.com/) - Sub
 * [AnimeRush](https://www.animerush.tv/) - Sub / Dub
@@ -306,7 +308,9 @@
 * [Anime OWL](https://animeowl.net/home/) - Sub / Dub
 * [AnimeCruzers](https://animecruzers.me/) - Sub / Dub
 * [AnimeMint](https://www.animemint.com/) - Sub
+* [AnimeGo](https://animego.se/) - Sub / Dub 
 * [Chia Anime](https://chia-anime.su/) - Sub / Dub
+* [ChiaAnime.cc](https://chia-anime.cc/) - Sub 
 * [AnimeXin](https://animexin.xyz/) - Sub
 * [AnimeTV](https://animetv.cc/) - Sub / Dub
 * [tenshi.moe](https://tenshi.moe/) - Sub / Dub 
@@ -322,6 +326,7 @@
 * [StreamAnimeTV](https://streamanimetv.net/) - Sub / Dub
 * [Anime60FPS](https://www.anime60fps.com/ ) - Sub / Dub
 * [AnimeFreak](https://www.animefreak.vip/) - Sub / Dub
+* [DubbedAnime](https://dubbedanime.biz/) - Sub / Dub 
 * [9AnimeTV](https://9animetv.su/) - Sub
 * [WCO](https://www.wco.tv/)  - Anime / Cartoons / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wco_clones)
 * [Funimation](https://www.funimation.com/shows/free/) - Sub / Dub 
@@ -502,6 +507,8 @@
 * [EliteGoLTV](https://elitegoltv.es/) - Sports
 * [CrackStreams.net](https://crackstreams.net/) - Sports
 * [FreeSportsForAll](http://www.freesportsforall.ml/) - Sports
+* [Fcstream](https://fcstream.net/) - Sports
+* [Rugbydirect](https://rugbydirect.me/) - Sports
 * [Stream on Sport](https://www.streamonsport3.xyz/) - Sports / [Telegram](https://t.me/s/streamonsport)
 * [USAGoals](https://www.usagoals.video/) - Sports
 * [Redditz Soccer Stream](https://redditz.soccerstreamlinks.com/) - Sports
@@ -587,7 +594,7 @@
 * [MKVHOUSE](https://mkvhouse.com/) - Movies / TV
 * [Minirlss](https://minirlss.com/) - Movies / TV / Anime 
 * [NYMeriaTV](https://nymeriatv.com/) - Movies / TV
-* [FZMovies](https://fzmovies.net/) - Movies / [How to Use](https://imgur.com/a/EtLokxO)
+* [FZMovies](https://fzmovies.net/) - Movies
 * [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://imgur.com/a/EtLokxO)
 * [HugeWarez](http://hugewarez.net/movies/) - Movies / TV
 * [ExtraMovies](https://extramovies.click/) - Movies / TV  
@@ -903,7 +910,8 @@
 * [FlickChart](https://www.flickchart.com/) - Rank your movies
 * [Box Office Mojo](https://www.boxofficemojo.com/) - Box Office Earnings
 * [Tastoid](https://www.tastoid.com/) - Mood Based Recommendations 
-* [Autum](https://autum.com/) - Movie / Shows Recommendations
+* [Autum](https://autum.com/) - Movie / TV Recommendations
+* [Suggestream](https://suggestream.com/) - Movies / TV Recommendations 
 * [BestSimilar](https://bestsimilar.com/) - Movie Recommendations 
 * [Movie-Map](https://www.movie-map.com/) - Movie Recommendations
 * [GNOD](https://www.gnod.com/) - Movie Recommendations
@@ -936,7 +944,7 @@
 * [cringeMDb](https://cringemdb.com/) - Find Movies Safe to Watch with Parents 
 * [Age Rating JuJu](https://www.ageratingjuju.com/) - Media Age Ratings
 * [CommonSenseMedia](https://www.commonsensemedia.org/) - Age-Based Media Reviews
-* [BingeClock](https://www.bingeclock.com/) - TV Show Length Calculator 
+* [BingeClock](https://www.bingeclock.com/) or [tiii.me](http://tiii.me/) - TV Show Length Calculator 
 * [MyDramaList](https://mydramalist.com/) - Asian Drama Tracker 
 * [MythBank](https://mythbank.com/) - Media Timelines / Watch Orders 
 * [MCU Precise Chronological Order](https://i.imgur.com/tczG4iI.jpg)
