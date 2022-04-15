@@ -22,7 +22,7 @@
 * **[Future Learn](https://www.futurelearn.com/)** - Courses
 * **[Udacity](https://www.udacity.com/)** - Courses
 * **[MitOpenCourseWare](https://ocw.mit.edu/index.htm)** - Courses
-* **[CrunchLearn](https://www.crunchlearn.com/)** - Courses 
+* **[CrunchLearn](https://www.crunchlearn.com/)** - Courses / [Telegram](https://t.me/joinchat/AAAAAEvVtydjvhe_w8kyPw)
 * **[Khan Academy](https://www.khanacademy.org/)** - Courses / [Downloader](https://github.com/rand-net/khan-dl)
 * **[Git.ir](https://git.ir/)** - Courses
 * **[PluralSight](https://visualstudio.microsoft.com/dev-essentials/)** - Free for 1 Month
@@ -50,7 +50,7 @@
 * [Study is wonderful](https://github.com/xioacd99/study-is-wonderful) - Courses
 * [Harvard Online Courses](https://pll.harvard.edu/catalog?keywords=&free[1]=1&max_price) - Courses
 * [Open HPI](https://open.hpi.de/) - Courses
-* [FindAndSolve](https://www.findandsolve.com/) - Course Search Engine
+* [FindAndSolve](https://www.findandsolve.com/) or [CourseBuffet](https://www.coursebuffet.com/) - Search Engine
 * [LearnOutLoud](https://www.learnoutloud.com/) - Documentaries / Courses
 * [Class Central](https://www.classcentral.com/) - Search for Courses
 * [cs1000](https://cs1000.vercel.app/) - Educational Video 
@@ -164,6 +164,7 @@
 * [DuForum](https://duforum.in/) - Courses
 * [FreeTutorialsEU](https://www.freetutorialseu.com/) - Courses
 * [DL Course](https://dlcourse.org/) - Courses
+* [btechveda](https://btechveda.in/) - Courses
 * [Free Udacity Skillshare Coursera EDX](https://t.me/Free_Udacity_Skillshare_Coursera) 
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
 * [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - Courses
@@ -179,6 +180,7 @@
 * [Course Code Drive](https://ddpanda.net/code/) - Courses / [Codes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_course_codes)
 * [FreetutsDownload.com](https://freetutsdownload.com/) - Courses / GDrive Host 
 * [iTunes U](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_itunesu_lectures) - Lectures
+* [Gurukul Soft Technology](https://www.gurukulsofttechnology.in/) - Computer Science Courses / [Telegram](https://t.me/gurukulsofttechnology)
 * [University of Waterloo](https://student.cs.uwaterloo.ca/~cs247/current/) - CS Resources / Courses
 * [Masterclass Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_masterclass_courses) or [MasterClass0](https://t.me/MasterClass0) - Masterclass Courses
 * [Mindvalley Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mindvalley_courses) - Mindvalley Courses
@@ -292,6 +294,7 @@
 * [TurtleDiary](https://www.turtlediary.com/)
 * [Edu-Games](https://www.edu-games.org/)
 * [SheppardSoftware](https://www.sheppardsoftware.com/web_games_menu.htm)
+* [TinyTap](https://www.tinytap.com/)
 * [Cool Math Games](https://www.coolmathgames.com/) - Math Games
 * [Math Game Time](https://www.mathgametime.com/) - Math Games
 * [Math is Fun](https://www.mathsisfun.com/games/index.html) - Math Games
@@ -376,7 +379,8 @@
 * [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive 3D Star Visualization
 * [Aladin](https://aladin.u-strasbg.fr/) - Astronomical Image Viewer / [Lite Version](https://aladin.u-strasbg.fr/AladinLite/)
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](http://stellarium.org/) - Virtual Stellarium
-* [ESO](https://www.eso.org/public/images/eso1242a/zoomable/), [Hubble](https://esahubble.org/images/heic1502a/zoomable/), [Hubble 2](https://esahubble.org/images/heic1901a/zoomable/) - Massive Zoomable Telescope Photos
+* [Google Sky](http://www.google.com/sky) - View Stars, The Moon & Mars 
+* [ESO](https://www.eso.org/public/images/eso1242a/zoomable/), [Hubble](https://esahubble.org/images/heic1502a/zoomable/), [Hubble 2](https://esahubble.org/images/heic1901a/zoomable/) - Zoomable Telescope Photos
 * [Space Telescope Live](https://spacetelescopelive.org/) - Live Hubble Image Data
 * [James Webb Space Telescope](https://jwst.nasa.gov/index.html) - Webb Space Telescope Info
 * [APOD](https://apod.nasa.gov/) - Daily NASA Astronomy Pictures
@@ -632,14 +636,15 @@
 * [AskNature](https://asknature.org/) - Natural Strategies / Solutions 
 * [Citation Generator](https://www.citationgenerator.com/), [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/) or [Cite This For Me](https://www.citethisforme.com/) - Generate Citations / [Chrome](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
-* [AMCharts](https://live.amcharts.com/), [Charttt](https://editor.charttt.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - Chart Creator
+* [AMCharts](https://live.amcharts.com/), [Charttt](https://editor.charttt.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - Chart Creators
+* [Data Gif Maker](http://datagifmaker.withgoogle.com/) - Animate Data 
 * [flowchart fun](https://flowchart.fun/) - Generate Flowchart From Text / [GitHub](https://github.com/tone-row/flowchart-fun)
 * [OpenBoard](https://openboard.ch/), [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboard
 * [app.diagrams](https://app.diagrams.net/) / [Git](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/) or [Gephi](https://gephi.org/) - Graph / Diagram Creator
 * [Altium](https://www.altium.com/viewer/) - Schematics Visualizer
 * [OpenLearning](https://www.openelearning.org/) - Create Course Presentations
 * [Quizizz](https://quizizz.com/) - Create Quizzes, Lessons, Flashcards & Presentations
-* [Anki](https://apps.ankiweb.net/) / [Addons](https://github.com/tianshanghong/awesome-anki), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html) or [Flashcard Machine](https://www.flashcardmachine.com/) - Flash Card Tool
+* [Anki](https://apps.ankiweb.net/) / [Addons](https://github.com/tianshanghong/awesome-anki), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html), [StudyLib](https://www.studylib.net/) or [Flashcard Machine](https://www.flashcardmachine.com/) - Flash Card Tool
 * [Carden](https://github.com/alyssaxuu/carden) - Flash Card Extension
 * [Wolfram Cloud](https://www.wolframcloud.com/) - Computational intelligence
 * [Falstad](http://www.falstad.com/) - Math & Physics Apps / Simulations 
@@ -652,7 +657,7 @@
 * [Histography](https://histography.io/) - History Timeline
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [Eylenburg](https://eylenburg.github.io/) - Infographs, Maps & Papers
-* [LizardPoint](https://lizardpoint.com/) or [Map Quiz](https://planemad.github.io/map-quiz/) - Geography Quizzes 
+* [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/) or [Map Quiz](https://planemad.github.io/map-quiz/) - Geography Quizzes 
 * [The True Size](https://thetruesize.com/) - Compare Country Size 
 * [JoinUS World](https://www.joinusworld.org/) - Korean Culture Q&A Site
 * [Seeing Theory](https://seeing-theory.brown.edu/) or [Stat Trek](https://stattrek.com/) - Statistics & Probability Tutorials 
