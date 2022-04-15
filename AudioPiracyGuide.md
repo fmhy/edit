@@ -19,6 +19,7 @@
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
 * [Cider](https://cider.sh/) - Streaming
+* [Resso](https://www.resso.com/in/) - Streaming
 * [Muffon](https://github.com/staniel359/muffon) - Streaming
 * [Deezer](https://www.deezer.com/) - Streaming
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram 
@@ -181,6 +182,7 @@
 * [EcoSounds](http://en.ecosounds.net/) - Ambient
 * [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - Ambient
 * [MoodTurn](http://moodturn.com/) - Ambient
+* [RelaxFrens](https://www.relaxfrens.com/)
 * [Sounds of Maine](https://soundsofmaine.life/) - Ambient Maine Sounds
 * [lofi](https://lofi.co/) - Ambient / Lo-fi
 * [Ambient Mixer](https://www.ambient-mixer.com/) - Ambient / Lo-fi 
@@ -385,7 +387,7 @@
 * [BurntScarr](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_burntscarr) - STEMS
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games 
 * [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [Incompetech](https://incompetech.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/), [free stock music](https://www.free-stock-music.com/) or [Fugue](https://icons8.com/music) - Royalty Free Music 
-* 
+
 ***
 
 # ► Audio Torrenting
@@ -426,6 +428,7 @@
 * **[Muspy](https://muspy.com/)** - Get Album Release Updates
 * **[RateYourMusic](https://rateyourmusic.com/)**, **[Sputnik](https://www.sputnikmusic.com/)**, [Discogs](https://www.discogs.com/), [listnd](https://listnd.com/) or [Musicbranz](https://musicbrainz.org/) - Ratings / Reviews
 * [RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/) - Artist Recommendations by Genre
+* [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Bands Directory 
 * [45Cat](http://www.45cat.com/) - Vinyl Ratings / Reviews
 * [World Spotify](https://www.worldspotify.com/) - Daily Most Streamed Tracks by Country 
 * [TapeFear](https://www.tapefear.com/) or [Discover Quickly](https://discoverquickly.com/) - Spotify Song Discovery
