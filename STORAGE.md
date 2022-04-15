@@ -135,7 +135,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Alternative Software / App Sites
 
-[Ethical](https://ethical.net/resources/), [AlternativeTo](https://alternativeto.net/), [Slant](https://www.slant.co/), [SaaSHub](https://www.saashub.com/), [switching.software](https://switching.software/), [GCemetery Alternatives](https://gcemetery.co/google-alternatives/), [ALTERNATIVES](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md), [Alternative.me](https://alternative.me/), [Top Best Alternatives](https://www.topbestalternatives.com/), [GoFOSS](https://gitlab.com/curlycrixus/gofoss)
+**[AlternativeTo](https://alternativeto.net/)**, [Ethical](https://ethical.net/resources/), [Slant](https://www.slant.co/), [SaaSHub](https://www.saashub.com/), [switching.software](https://switching.software/), [GCemetery Alternatives](https://gcemetery.co/google-alternatives/), [ALTERNATIVES](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md), [Alternative.me](https://alternative.me/), [Top Best Alternatives](https://www.topbestalternatives.com/), [GoFOSS](https://gitlab.com/curlycrixus/gofoss), [osalt](http://osalt.com/)
 
 ***
 
@@ -458,7 +458,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Disk Usage Analyzers
 
-[WizTree](https://wiztreefree.com/), [WinDirStat](https://windirstat.net/), [baobab](https://github.com/GNOME/baobab), [2](https://gitlab.gnome.org/GNOME/baobab), [HDSentinel](https://www.hdsentinel.com/), [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/), [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html), [Disk Space Saver](https://qiplex.com/software/disk-space-saver/)
+[WizTree](https://wiztreefree.com/), [WinDirStat](https://windirstat.net/), [baobab](https://github.com/GNOME/baobab), [2](https://gitlab.gnome.org/GNOME/baobab), [HDSentinel](https://www.hdsentinel.com/), [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/), [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html), [Disk Space Saver](https://qiplex.com/software/disk-space-saver/), [gdu](https://github.com/dundee/gdu), [Dua CLI](https://github.com/Byron/dua-cli)
 
 ***
 
@@ -682,7 +682,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Cloud Storage** 
 
-**[GDrive](https://drive.google.com/)**, **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz), [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [disk.yandex](https://disk.yandex.com/), [TeledriveApp](https://teledriveapp.com/), [dubox](https://dubox.com/), [mediafire](https://www.mediafire.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [gdflix](https://gdflix.bar/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/), [T-Drive](https://www.microsoft.com/en-in/p/t-drive/9mvd1pkdtxsn?rtc=1&activetab=pivot:overviewtab), [PCloud](https://www.pcloud.com/)
+**[GDrive](https://drive.google.com/)**, **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz), [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [disk.yandex](https://disk.yandex.com/), [TeledriveApp](https://teledriveapp.com/), [dubox](https://dubox.com/), [mediafire](https://www.mediafire.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [gdflix](https://gdflix.bar/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/), [T-Drive](https://www.microsoft.com/en-in/p/t-drive/9mvd1pkdtxsn?rtc=1&activetab=pivot:overviewtab), [PCloud](https://www.pcloud.com/), [myDrive](https://mydrive-storage.com/)
 
 **Multi Host Uploaders**
 
@@ -790,6 +790,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### GoldMovies Clones
 
+* [series9.fun](https://series9.fun/)
 * [CMovies](https://cmovies.ac/)
 * [YesMovies.sx](https://yesmovies.sx/)
 
@@ -837,6 +838,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://iomovies.top/
 * https://www3.f2movies.to/
 * https://www1.bemovies.to/
+* https://myflixer.it/
 * https://ev01.to/
 * https://www3.watchserieshd.ru/
 * https://flixhd.cc/
@@ -895,7 +897,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Online Editors**
 
-**[Photopea](https://www.photopea.com/)** / [Adblocker](https://greasyfork.org/en/scripts/426936-cleanphotopea), [Pixlr](https://pixlr.com/), [BeFunky](https://www.befunky.com/), [Resize Pixel](https://www.resizepixel.com/), [FotoFlexer](https://fotoflexer.com/), [Sumopaint](https://www.sumopaint.com/), [Lunapic](https://lunapic.com/), [Polotno Studio](https://studio.polotno.dev/), [OIE](https://www.online-image-editor.com/), [ResizeImage](https://resizeimage.net/), [IMG online](https://www.imgonline.com.ua/eng/), [BitMappery](https://www.igorski.nl/application/bitmappery/), [Kapwing](https://www.kapwing.com/), [Photoshop.adobe](https://photoshop.adobe.com/), [ILoveImg](https://www.iloveimg.com/photo-editor), [Panzoid](https://panzoid.com/), [Stet](https://stet.io/), [GifGit](https://www.gifgit.com/), [Polarr](https://photoeditor.polarr.co/), [UpperPix](https://upperpix.com/), [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/), [Picverse](https://www.picverse.com/), [Image Online](https://pencilsketch.imageonline.co/), [Fotor](https://www.fotor.com/), [PictureEditor](https://www.pictureeditor.com/), [PhotoStack](https://edit.photostack.app/), [Facet](https://facet.ai/)
+**[Photopea](https://www.photopea.com/)** / [Adblocker](https://greasyfork.org/en/scripts/426936-cleanphotopea), [Pixlr](https://pixlr.com/), [BeFunky](https://www.befunky.com/), [Resize Pixel](https://www.resizepixel.com/), [FotoFlexer](https://fotoflexer.com/), [Sumopaint](https://www.sumopaint.com/), [Lunapic](https://lunapic.com/), [Polotno Studio](https://studio.polotno.dev/), [OIE](https://www.online-image-editor.com/), [ResizeImage](https://resizeimage.net/), [IMG online](https://www.imgonline.com.ua/eng/), [BitMappery](https://www.igorski.nl/application/bitmappery/), [Kapwing](https://www.kapwing.com/), [Photoshop.adobe](https://photoshop.adobe.com/), [ILoveImg](https://www.iloveimg.com/photo-editor), [Panzoid](https://panzoid.com/), [Stet](https://stet.io/), [GifGit](https://www.gifgit.com/), [Polarr](https://photoeditor.polarr.co/), [UpperPix](https://upperpix.com/), [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/), [Picverse](https://www.picverse.com/), [Image Online](https://pencilsketch.imageonline.co/), [Fotor](https://www.fotor.com/), [PictureEditor](https://www.pictureeditor.com/), [PhotoStack](https://edit.photostack.app/), [Facet](https://facet.ai/), [Peko-Step](https://www.peko-step.com/en/tool/imageeditor.html)
 
 ***
 
@@ -913,11 +915,16 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Image Upscalers 
 
-[Waifu2x](https://github.com/nagadomi/waifu2x), [ESRGAN Models](https://icedrive.net/1/43GNBihZyi), [Upscale Model Database](https://upscale.wiki/wiki/Model_Database), [ESRGAN](https://github.com/JoeyBallentine/ESRGAN), [GigaPixel](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [Resizer](https://resizer.in/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [Img.Upscaler](https://pdf-ocr.com/), [Upscaler Stockphotos](https://upscaler.stockphotos.com/), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/), [image upscaler](https://image-upscaler.com/), [CupScale](https://github.com/n00mkrad/cupscale), [Upscale Media](https://www.upscale.media/)
+[Waifu2x](https://github.com/nagadomi/waifu2x), [GigaPixel](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [Resizer](https://resizer.in/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [Img.Upscaler](https://pdf-ocr.com/), [Upscaler Stockphotos](https://upscaler.stockphotos.com/), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/), [image upscaler](https://image-upscaler.com/), [CupScale](https://github.com/n00mkrad/cupscale), [Upscale Media](https://www.upscale.media/), [Zyro Upscaler](https://zyro.com/tools/image-upscaler)
 
 **Waifu2x Tools**
 
 [Guide](https://i.imgur.com/55s8sU5.png) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/DeadSix27/waifu2x-converter-cpp), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/), [5](https://waifu2x.me/), [6](http://waifu2x.udp.jp/), [7](https://waifu2x.org/), [8](https://github.com/AaronFeng753/Waifu2x-Extension-GUI), [9](https://github.com/nihui/waifu2x-ncnn-vulkan)
+
+
+**ESRGAN Models**
+
+[ESRGAN Models](https://icedrive.net/1/43GNBihZyi), [Upscale Model Database](https://upscale.wiki/wiki/Model_Database), [ESRGAN](https://github.com/JoeyBallentine/ESRGAN)
 
 ***
 
@@ -1273,7 +1280,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### News Feed Aggregators
 
-**[WebOasis News](https://weboasis.app/news/)**, **[QotNews](https://news.t0.vc/)**, [spidr](https://spidr.today/), [All Sides](https://www.allsides.com/), [NewsLookup](http://www.newslookup.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/), [freepo.st](https://freepo.st/), [TechMeme](https://www.techmeme.com/m/), [Unfeeder](https://unfeeder.com/), [RealClearPolitics](https://www.realclearpolitics.com/), [Their News](https://www.their.news/), [Twuko](https://www.twuko.com/), [Lobsters](https://lobste.rs/​), [Blazing News](https://blazing-news.herokuapp.com/), [68k News](http://68k.news/), [Readspike](https://readspike.com/), [Popurls](http://popurls.com/)
+**[WebOasis News](https://weboasis.app/news/)**, **[QotNews](https://news.t0.vc/)**, [spidr](https://spidr.today/), [All Sides](https://www.allsides.com/), [NewsLookup](http://www.newslookup.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/), [freepo.st](https://freepo.st/), [TechMeme](https://www.techmeme.com/m/), [Unfeeder](https://unfeeder.com/), [RealClearPolitics](https://www.realclearpolitics.com/), [Their News](https://www.their.news/), [Twuko](https://www.twuko.com/), [Lobsters](https://lobste.rs/​), [Blazing News](https://blazing-news.herokuapp.com/), [68k News](http://68k.news/), [Readspike](https://readspike.com/), [Popurls](http://popurls.com/), [sumi.news](https://sumi.news/), [Ground News](https://ground.news/)
 
 ***
 
@@ -1441,7 +1448,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Pastebins
 
-**[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**, **[Paste.FMHY](https://paste.fmhy.tk/)**, **[disroot](https://bin.disroot.org/)**, **[rentry](https://rentry.co/)**, [TextBin](https://textbin.xyz/), [PrivateBin](https://privatebin.info/directory/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [0bin](https://0bin.net/), [pst.moe](https://pst.moe/), [ZeroBin](http://www.zerobinqmdqd236y.onion/), [Hastebin](https://hastebin.com/), [paste2](https://paste2.org/), [pastelink](https://pastelink.net/), [anonpaste](https://anonpaste.org/), [bin.idrix](https://bin.idrix.fr/), [zerobin](https://zerobin.net/), [teknik](https://paste.teknik.io/), [ghostbin](https://ghostbin.com/), [cryptobin](https://cryptobin.co/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [codepasta](https://codepasta.app/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [crossface](https://crossface.cf/pastebin/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [cyberdrop bin](https://bin.cyberdrop.me/), [fssquad](https://share.fssquad.com/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [katb](https://katb.in/), [paaster](https://paaster.io/)
+**[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**, **[Paste.FMHY](https://paste.fmhy.tk/)**, **[disroot](https://bin.disroot.org/)**, **[rentry](https://rentry.co/)**, [TextBin](https://textbin.xyz/), [PrivateBin](https://privatebin.info/directory/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [0bin](https://0bin.net/), [pst.moe](https://pst.moe/), [ZeroBin](http://www.zerobinqmdqd236y.onion/), [Hastebin](https://hastebin.com/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [anonpaste](https://anonpaste.org/), [paste.shitpost](https://paste.shitpost.to/), [bin.idrix](https://bin.idrix.fr/), [zerobin](https://zerobin.net/), [teknik](https://paste.teknik.io/), [ghostbin](https://ghostbin.com/), [cryptobin](https://cryptobin.co/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [codepasta](https://codepasta.app/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [crossface](https://crossface.cf/pastebin/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [cyberdrop bin](https://bin.cyberdrop.me/), [fssquad](https://share.fssquad.com/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [katb](https://katb.in/), [paaster](https://paaster.io/), [trushbin](https://trushbin.com/)
 
 ***
 
@@ -1711,13 +1718,13 @@ Add the following commands to a search to manually scrape each site.
 
 #### Reverse Image Search
 
-**[Search by Image](https://github.com/dessant/search-by-image)**, [TinEye](https://tineye.com/) / [Extension](https://tineye.com/extensions), [Duplichecker](https://www.duplichecker.com/reverse-image-search.php), [Image Raider](https://infringement.report/api/raider-reverse-image-search/), [ascii2d](https://ascii2d.net/), [iqdb](http://iqdb.org/), [Reverse Image Analyser](https://www.osintcombine.com/reverse-image-analyzer), [same.energy](https://same.energy/), [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/), [Yandex Images](https://yandex.com/images/), [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/), [SmartImage](https://github.com/Decimation/SmartImage), [berify](https://www.berify.com/), [Reverse Image Search](https://www.reverse-image-search.org/), [RevEye](https://github.com/steven2358/reveye)
+**[Search by Image](https://github.com/dessant/search-by-image)**, [TinEye](https://tineye.com/) / [Extension](https://tineye.com/extensions), [Duplichecker](https://www.duplichecker.com/reverse-image-search.php), [Image Raider](https://infringement.report/api/raider-reverse-image-search/), [ascii2d](https://ascii2d.net/), [iqdb](http://iqdb.org/), [Reverse Image Analyser](https://www.osintcombine.com/reverse-image-analyzer), [same.energy](https://same.energy/), [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/), [Yandex Images](https://yandex.com/images/), [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/), [SmartImage](https://github.com/Decimation/SmartImage), [berify](https://www.berify.com/), [Reverse Image Search](https://www.reverse-image-search.org/), [RevEye](https://github.com/steven2358/reveye), [immerse](https://www.immerse.zone/)
 
 ***
 
 #### Royalty Free Music
 
-[Free Music Archive](https://www.freemusicarchive.org/), [freesoundtrackmusic](https://www.freesoundtrackmusic.com/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [Starfrosch](https://starfrosch.com/), [StreamBeats](https://www.streambeats.com/), [Mubert](https://mubert.com/), [ccHound](https://cchound.com/), [MusicScreen](https://www.musicscreen.org/), [FilmMusic](https://www.filmmusic.io/), [FreePD](https://www.freepd.com/), [Fugue](https://icons8.com/music) 
+[Free Music Archive](https://www.freemusicarchive.org/), [freesoundtrackmusic](https://www.freesoundtrackmusic.com/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [Starfrosch](https://starfrosch.com/), [StreamBeats](https://www.streambeats.com/), [Mubert](https://mubert.com/), [ccHound](https://cchound.com/), [MusicScreen](https://www.musicscreen.org/), [FilmMusic](https://www.filmmusic.io/), [FreePD](https://www.freepd.com/), [Fugue](https://icons8.com/music), [EDMRF](https://edmroyaltyfree.net/) 
 
 ***
 
@@ -2495,13 +2502,16 @@ Add the following commands to a search to manually scrape each site.
 
 #### uBlock Filters
 
-**[FilterStalker](https://rentry.co/FilterStalker)**, [dbl.oisd.nl](https://oisd.nl/) / [2](https://hosts.oisd.nl/), [FilterLists](https://filterlists.com/), [webannoyances](https://github.com/yourduskquibbles/webannoyances), [fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/), [The Block List Project](https://blocklistproject.github.io/Lists/), [ADFILT](https://github.com/DandelionSprout/adfilt), [EasyList](https://easylist.to/) / [Forum](https://forums.lanik.us/), [urlhaus-filter](https://gitlab.com/curben/urlhaus-filter), [iBlocklist](https://www.iblocklist.com/), [Energized Protection](https://github.com/EnergizedProtection/block), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [Noads](https://github.com/deletescape/noads), [PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection), [my_filter_list](https://github.com/Serdar006/my_filter_list), [fanboy](https://www.fanboy.co.nz/), [CoinBlockerLists (Cryptomining)](https://gitlab.com/ZeroDot1/CoinBlockerLists), [CoinBlockerLists](https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt), [NoTracking blocklist](https://github.com/notracking/hosts-blocklists), [d3ward](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt), [notracking](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt), [lan-block](https://raw.githubusercontent.com/gwarser/filter-lists/master/lan-block.txt), [developerdan](https://www.github.developerdan.com/hosts/), [scamblocklist](https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt), [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt), [iploggerfilter](https://github.com/piperun/iploggerfilter), [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs), [GoodbyeAds](https://goodbyeads.weebly.com/), [neodevhost](https://github.com/neodevpro/neodevhost), [jmdugan/blocklists](https://github.com/jmdugan/blocklists), [referrer-spam-list)](https://github.com/matomo-org/referrer-spam-list), [black-mirror](https://github.com/T145/black-mirror), [CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists), [hblock](https://hblock.molinero.dev/), [spam404](https://www.spam404.com/), [blacklist](https://github.com/anudeepND/blacklist), [blocklist](https://blocklist.site/), [energized](https://energized.pro/), [Clear URLs](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt), [TheFuckingList](https://github.com/eded333/TheFuckingList), [youtube_ad_blocklist](https://github.com/Ewpratten/youtube_ad_blocklist), [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook) 
+**[FilterStalker](https://rentry.co/FilterStalker)**, [dbl.oisd.nl](https://oisd.nl/) / [2](https://hosts.oisd.nl/), [FilterLists](https://filterlists.com/), [webannoyances](https://github.com/yourduskquibbles/webannoyances), [fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/), [The Block List Project](https://blocklistproject.github.io/Lists/), [ADFILT](https://github.com/DandelionSprout/adfilt), [EasyList](https://easylist.to/) / [Forum](https://forums.lanik.us/), [urlhaus-filter](https://gitlab.com/curben/urlhaus-filter), [iBlocklist](https://www.iblocklist.com/), [LetBlock.it](https://letsblock.it/), [Energized Protection](https://github.com/EnergizedProtection/block), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [Noads](https://github.com/deletescape/noads), [PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection), [my_filter_list](https://github.com/Serdar006/my_filter_list), [fanboy](https://www.fanboy.co.nz/), [CoinBlockerLists (Cryptomining)](https://gitlab.com/ZeroDot1/CoinBlockerLists), [CoinBlockerLists](https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt), [NoTracking blocklist](https://github.com/notracking/hosts-blocklists), [d3ward](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt), [notracking](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt), [lan-block](https://raw.githubusercontent.com/gwarser/filter-lists/master/lan-block.txt), [developerdan](https://www.github.developerdan.com/hosts/), [scamblocklist](https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt), [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt), [iploggerfilter](https://github.com/piperun/iploggerfilter), [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs), [GoodbyeAds](https://goodbyeads.weebly.com/), [neodevhost](https://github.com/neodevpro/neodevhost), [jmdugan/blocklists](https://github.com/jmdugan/blocklists), [referrer-spam-list)](https://github.com/matomo-org/referrer-spam-list), [black-mirror](https://github.com/T145/black-mirror), [CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists), [hblock](https://hblock.molinero.dev/), [spam404](https://www.spam404.com/), [blacklist](https://github.com/anudeepND/blacklist), [blocklist](https://blocklist.site/), [energized](https://energized.pro/), [Clear URLs](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt), [TheFuckingList](https://github.com/eded333/TheFuckingList)
+
+* [YouTube Filters](https://github.com/Ewpratten/youtube_ad_blocklist)
+* [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook) 
 
 ***
 
 #### Udemy Coupons
 
-**[CouponScorpion](https://couponscorpion.com/)**, [discudemy](https://www.discudemy.com/), [bestcouponhunter](https://bestcouponhunter.com/), [Coursevania](https://coursevania.com/), [Learn Viral](https://udemycoupon.learnviral.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [Course Time](https://coursetime.net/), [iDownloadCoupon](http://idownloadcoupon.com/), [freeudemycoupondaily](https://t.me/freeudemycoupondaily)
+**[CouponScorpion](https://couponscorpion.com/)**, [discudemy](https://www.discudemy.com/), [bestcouponhunter](https://bestcouponhunter.com/), [Coursevania](https://coursevania.com/), [Learn Viral](https://udemycoupon.learnviral.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [Course Time](https://coursetime.net/), [iDownloadCoupon](http://idownloadcoupon.com/), [freeudemycoupondaily](https://t.me/freeudemycoupondaily), [udemycoupons](https://udemycoupons.me/)
 
 ***
 
@@ -2578,7 +2588,7 @@ Add the following commands to a search to manually scrape each site.
 
 ####  Video Stream Sync
 
-[Giggl](https://giggl.app/), [neko](https://neko.m1k1o.net/) / [GitHub](https://github.com/m1k1o/neko), [SyncPlay](https://syncplay.pl/), [CyTube](https://cytu.be/), [HyperBeam](https://hyperbeam.com/), [Kast](https://kast.gg/), [Gaze](https://letsgaze.com/), [twoseven](https://twoseven.xyz/), [Metastream](https://getmetastream.com/), [Trast](https://trast.live/), [togethertube](https://togethertube.com/), [Watch2Gether](https://w2g.tv/), [Vynchronize](https://vynchronize.herokuapp.com/), [SyncTube](https://sync-tube.de/), [Kosmi](https://kosmi.io/), [Invited.tv](https://invited.tv/), [Caracal Club](https://caracal.club/), [Primewire](https://www.primewire.li/watch-parties), [baked.live](http://baked.live/), [Surge](https://surge.live/), [Screen Share Party](https://ba.net/screen/), [WatchParty](https://www.watchparty.me/), [Stream New](https://stream.new/) / [GitHub](https://github.com/muxinc/stream.new), [bear.cat](https://bear.cat/), [TurtleTV](https://turtletv.app/), [OpenTogetherTube](https://opentogethertube.com/), [WatchPubs](https://watchpubs.com/), [WillShare](https://www.willshare.live/)
+[Giggl](https://giggl.app/), [neko](https://neko.m1k1o.net/) / [GitHub](https://github.com/m1k1o/neko), [SyncPlay](https://syncplay.pl/), [CyTube](https://cytu.be/), [HyperBeam](https://hyperbeam.com/), [Kast](https://kast.gg/), [Gaze](https://letsgaze.com/), [twoseven](https://twoseven.xyz/), [Metastream](https://getmetastream.com/), [Trast](https://trast.live/), [togethertube](https://togethertube.com/), [Watch2Gether](https://w2g.tv/), [Vynchronize](https://vynchronize.herokuapp.com/), [SyncTube](https://sync-tube.de/), [Kosmi](https://kosmi.io/), [Invited.tv](https://invited.tv/), [Caracal Club](https://caracal.club/), [baked.live](http://baked.live/), [Surge](https://surge.live/), [Screen Share Party](https://ba.net/screen/), [WatchParty](https://www.watchparty.me/), [Stream New](https://stream.new/) / [GitHub](https://github.com/muxinc/stream.new), [bear.cat](https://bear.cat/), [TurtleTV](https://turtletv.app/), [OpenTogetherTube](https://opentogethertube.com/), [WatchPubs](https://watchpubs.com/), [WillShare](https://www.willshare.live/)
 
 ***
 
@@ -2779,8 +2789,9 @@ Good for finding classic, obscure & short films.
 * [Official YouTube Movies](https://www.youtube.com/feed/storefront?bp=kgEDCPYDogUCKAU%3D) / [TV](https://www.youtube.com/feed/storefront?bp=kgEDCO8HogUCKAU%3D)
 * [YouTube Streaming Channels](https://rentry.co/YT-Movies)
 * [FreeMovies](https://freemovies.ltd/)
-* [FREEMOVIESNOW](https://www.youtube.com/c/FREEMOVIESNOW/featured)
+* [LampLight](https://www.lamplight.tv/)
 * [MoviesFoundOnline](https://moviesfoundonline.com/) 
+* [FREEMOVIESNOW](https://www.youtube.com/c/FREEMOVIESNOW/featured)
 * [YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - Youtube Streaming Subs
 
 ***
