@@ -51,7 +51,7 @@
 * [Audiobooks Unleashed](https://audiobooksunleashed.com/) - Audiobook Codes
 * [/r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
 * [Telegram Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audiobook_downloads) - Telegram Audiobook Channels
-* [audiobook-dl](https://github.com/jo1gi/audiobook-dl) - Audiobook Download Tool
+* [audiobook-dl](https://github.com/jo1gi/audiobook-dl) or [Audiobook Downloader](https://github.com/ipriyam26/Audiobook) - Audiobook Download Tool
 * [Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) - Plex Audiobook Metadata Scraper 
 * [OverDrive](https://github.com/chbrown/overdrive) - OverDrive Audiobook Download Script
 
@@ -93,7 +93,6 @@
 * [eBookBB](https://ebookbb.com/)  - Books
 * [2020ok](http://2020ok.com/)  - Books / Comics
 * [AllBooksWorld](https://allbooksworld.com/)  - Books
-* [All Reading World](https://allreadingworld.com/) - Books
 * [The Library](https://discord.gg/cgSVDUwZs9) - Books
 * [Only Books](https://onlybooks.org/) - Books
 * [nymeriatv](https://nymeriatv.com/Epub/) - Books
@@ -124,7 +123,7 @@
 * [e-Book Mecca](https://ebook-mecca.com/) - Books
 * [eBook4Expert](https://ebook4expert.net/) - Books 
 * [Chest of Books](https://chestofbooks.com/) - Books
-* [Just Another Library](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/)
+* [The Imperial Library of Trantor](https://trantor.is/) - Books / [.onion](https://trantor.is/http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/)
 * [All Books Hub](https://allbookshub.com/) - Books
 * [8ebooks](https://8ebooks.net/) - Books / Magazines
 * [ebooksz](https://www.ebooksz.net/) - Books
@@ -185,8 +184,8 @@
 * [AvaxHome](https://www.avaxhome.co/) 
 * [FreeBookSpot](http://www.freebookspot.es/default.aspx) - Books / [Leech Required](https://filehostlist.miraheze.org/wiki/Main_Page)
 * [zqktlwi4fecvo6ri](http://zqktlwi4fecvo6ri.onion/wiki/Libraries) - Tor Required 
+* [Just Another Library](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/) - Tor Required 
 * [xfmro77i3lixucja](http://xfmro77i3lixucja.onion/) - Tor Required 
-* [The Imperial Library of Trantor](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/) - Tor Required / [Unofficial Mirror](https://trantor.is/)
 * [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
 * [Rivetedlit](https://rivetedlit.com/) - Books
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
@@ -430,7 +429,7 @@
 * [Ed_Books](https://t.me/Ed_Books) 
 * [Libribook](https://libribook.com/) 
 * [BookGoldMine](https://www.bookgoldmine.com/)
-* [Educational Archive](http://s2.bitdownload.ir/)
+* [ImSoLost](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_imsolost) - 
 * [Penn Libraries](http://digital.library.upenn.edu/) + [Index](http://digital.library.upenn.edu/books/)
 * [BitDL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bitdl)
 * [114.116.28.83](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_114.116.28.83)
@@ -543,6 +542,7 @@
 * [Europeana](https://www.europeana.eu/) - European Historical Documents
 * [The National Archives](https://nationalarchives.gov.uk/) - UK Historical Documents
 * [History Newsboys of 1899](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_history_newsboys_of_1899) - Books / Documents
+* [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive 
 * [Carti](https://enryo.ro/carti/) - Japanese Martial Arts History Books
 * [Van Gogh Letters](http://vangoghletters.org/vg/) or [VGGallery](http://vggallery.com/) - Vincent van Gogh Letters
 
@@ -603,6 +603,12 @@
 * [base-search](https://www.base-search.net/) - Document Search
 * [dimensions](https://app.dimensions.ai/discover/publication) - Document Search
 * [Share OSF](https://share.osf.io/) - Document Search
+* [VDocuments ](https://vdocuments.site/) - Document Search 
+* [repo.zenk](https://repo.zenk-security.com/) - Document Search 
+* [docplayer](https://docplayer.net/) - Document Search 
+* [DocDroid](https://www.google.com/search?q=site%3Adocdroid.net) - Document Search 
+* [Higher Intellect](https://preterhuman.net/) - Document Search 
+* [qDoc](https://qdoc.tips/) - Document Search
 * [Google Scholar](https://scholar.google.com/) - Articles
 * [Mendeley](https://www.mendeley.com/) - Articles / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/)
 * [DOAJ](https://doaj.org/) - Journals / Articles
@@ -642,16 +648,11 @@
 * [Association for learning Technology](https://repository.alt.ac.uk/view/subjects/) - Research Papers
 * [RePEc](http://repec.org/) - Economic Research Papers
 * [PsyArXiv](https://psyarxiv.com/) - Articles / Psychological Sciences 
-* [repo.zenk](https://repo.zenk-security.com/) - Documents
-* [docplayer](https://docplayer.net/) - Documents 
-* [DocDroid](https://www.google.com/search?q=site%3Adocdroid.net) - Document Search 
-* [Higher Intellect](https://preterhuman.net/) - Document Search 
 * [SkillCommons](https://www.skillscommons.org/) - Work Training Documents 
 * [Institute of Education Sciences](https://eric.ed.gov/) - Documents / Texts / Papers 
 * [LAC](https://www.bac-lac.gc.ca/eng/Pages/home.aspx) - Canadian Document Archive
 * [Pandora](http://pandora.nla.gov.au/) - Australian Document Archive
 * [Parliament Archives](https://archives.parliament.uk/) - UK Parliamentary Documents
-* [qDoc](https://qdoc.tips/)- Document Search
 * [EThOS](https://ethos.bl.uk/SearchResults.do) - Doctoral Theses 
 * [ndltd](http://search.ndltd.org/) - Search theses and dissertations 
 * [UBIRA eTheses](https://etheses.bham.ac.uk/) - Theses 
