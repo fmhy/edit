@@ -51,6 +51,7 @@
 * [alt3rnative](https://github.com/machiav3lli/alt3rnative) - Site / Tool Index
 * [Peelopaalu](https://peelopaalu.neocities.org/) - Site / Tool Index
 * [RefDesk](https://www.refdesk.com/facts.html) - Site / Tool Index
+* [/g/'s good sites](https://rentry.co/sites) - Site / Tool Index
 * [Illegal Services](https://git.teknik.io/Illegal-Services/Illegal_Services) - Site / Tool Index App / [Discord](https://discord.gg/577AWghYtx)
 * [Product Hunt](https://www.producthunt.com/) - Site / Tool Index
 * [Useful Interweb](https://usefulinterweb.com/) or [Daily Useful Links](https://t.me/DailyUsefulLINKS) - Daily Websites
@@ -225,6 +226,7 @@
 * **[The GIF Pronunciation Page](http://www.olsenhome.com/gif/)** - How to Pronouce "GIF"
 * **[PointerPointer](https://pointerpointer.com/)** - Get Your Pointer Pointed At 
 * **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - Realistic-Looking Fake Versions of Things 
+* [TheOnion](https://theonion.com/) - Fake New Articles 
 * [KongouCheats](https://kongoucheats.com/) or [Wimp.com](https://www.wimp.com/) - Watch Random Memes / Videos 
 * [Funnyjunk](https://funnyjunk.com//), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [iFunny](https://ifunny.co/) or [Imageboard Scraper](https://nik.bot.nu/) - Images, Videos, Memes & GIFs / Some NSFW
 * [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
@@ -328,6 +330,7 @@
 * [Judge My Music](https://pudding.cool/2020/12/judge-my-spotify/) - AI Music Taste Judge
 * [GeekPrank](https://geekprank.com/) - Windows Pranks
 * [Update Faker](https://updatefaker.com/) - Fake System Update Prank
+* [DownloadHardware](https://downloadhardware.com/) - Download Computer Hardware 
 * [The Restart Page](http://www.therestartpage.com/) - Vintage Operating System Reboots
 * [Hair on Screen](https://chrome.google.com/webstore/detail/hair-on-screen/egkikapjpndmjflbjjoondbihalgdjco) - Fake Hair on Screen Prank
 * [Hacktyper](https://hackertyper.net/), [Hoacks](https://hoacks.com/) or [Geektyper](https://geektyper.com/) - Fake Hacking Screen 
@@ -339,6 +342,7 @@
 * [ClickToRemove](http://www.clicktoremove.com/) - Click to Remove Text
 * [Koalas to the Max](http://www.koalastothemax.com/) - Make Smaller & Smaller Dots
 * [RolePlayer](https://www.roleplayer.me/) - Roleplaying Social Network
+* [Myth Weavers](https://www.myth-weavers.com/) - Roleplaying Forum 
 * [Translation Party](https://www.translationparty.com/) - Translation Parties
 * [The Editing Room](https://www.the-editing-room.com/) - Funny abridged movie scripts
 * [Smash The Walls](https://smashthewalls.com/) - Smash Walls
@@ -366,6 +370,7 @@
 * [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - Run Classic Games / Apps In Browser 
 * [see. hear. party.](http://www.seehearparty.com/) - List Things You Want to See... Party 
 * [procatinator](https://procatinator.com/) - Cat GIFs & Music
+* [AwesomeCars](https://awesomecars.neocities.org/) - Drip Car Memes
 * [FutureMe](https://www.futureme.org/) - Send Messages to Future Self
 * [Are You You?](https://www.areyouyou.eu/) - Try to Fool Face Recognition Software
 * [Useless Certifications](https://uselesscertifications.com/) - Useless Certifications
@@ -374,6 +379,7 @@
 * [openScope](https://www.openscope.co/) - Air Traffic Control Simulator 
 * [Game a-b-street](https://github.com/a-b-street/abstreet) - Traffic Simulation
 * [Quarter Maester](https://quartermaester.info/) - Interactive Game of Thrones Map 
+* [Park My Spaceship](https://parkmyspaceship.com/) - Park Spaceships on Map 
 * [Wikiverse](http://wikiverse.io/) - 3D visualization of Wikipedia 
 * [Judgey](http://playjudgey.com/) - Judge A Book By Its Cover 
 * [Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/) - Things you didn't know you wanted
@@ -408,7 +414,7 @@
 * [Planet](http://oskarstalberg.com/game/planet/planet.html) - Planet Creator
 * [What Happened in my Birthyear](http://whathappenedinmybirthyear.com/) - Find out what happened on your Birth Year 
 * [Pushing Pixels](https://www.pushing-pixels.org/fui/) or [Saji8k](https://www.saji8k.com/kit-fui/) - Imaginary UI from Movies
-* [WTM](https://whatthemovie.com/) - Guess Movie from Screenshot 
+* [IsItNormal](https://isitnormal.com/) - Ask if Things are Normal 
 * [Kittenwar!](http://www.kittenwar.com/) - Rate Kittens
 * [Popcat](https://popcat.click/) - Worldwide Popcat Clicking Competition
 * [RPS101](http://www.umop.com/rps101.htm) - 101 Gesture Rock-Paper-Scissors
@@ -477,7 +483,7 @@
 * [Screentoys](https://www.screentoys.com/) - Photo Morphing Toy
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge A.I.
 * [Word Blanks](https://www.wordblanks.com/) or [Plot Generator](https://www.plot-generator.org.uk/) - Online Mad Libs
-* [Fun Trivia](https://www.funtrivia.com/), [BeanBeanBean](https://beanbeanbean.com/) or [Sporcle](https://www.sporcle.com/) - Trivia
+* [Fun Trivia](https://www.funtrivia.com/), [Factle](https://factle.app/), [BeanBeanBean](https://beanbeanbean.com/) or [Sporcle](https://www.sporcle.com/) - Trivia
 * [ARealMe](https://www.arealme.com/) - Quiz Collection
 * [OpenPsychometrics](https://openpsychometrics.org/) or [16 Personalities](https://www.16personalities.com/) - Personality Tests
 * [1000 Seconds](https://mattround.com/usvsth3m/1000-seconds/) - Test of Patience
@@ -564,6 +570,8 @@
 * [Slower News](https://www.slowernews.com/) - Breaking News
 * [RIPE](https://www.ripe.net/publications/news/latest-news) - News
 * [ICANN](https://www.icann.org/) - News
+* [TheConversation](https://theconversation.com/) - News
+* [Reuters](https://www.reuters.com/) - News 
 * [TXT Radio](http://beta.txtradio.live/) - News Text Radio
 * [PublicAlerts](https://google.org/publicalerts) - Important News / Disaster Alerts
 * [Riot Archive](https://riotarchive.com/) - Riot / Protest Videos
@@ -571,6 +579,7 @@
 * [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Ars Technica](https://arstechnica.com/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/), [Toms Hardware](https://www.tomshardware.com/) or [Slashdot](https://slashdot.org/) - Tech News
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
 * [Liliputing](https://liliputing.com/) - Linux Mobile News
+* [BestHackerNews](http://besthackernews.herokuapp.com/) - Hacker News Aggregator 
 * [Latest Privacy](https://latestprivacy.org/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - Privacy News
 * [Talos Blog](https://blog.talosintelligence.com/) - CyberSecurity News
 * [We Fight Censorship](http://3kyl4i7bfdgwelmf.onion/) - Censorship News
@@ -814,7 +823,7 @@
 * [Historic Borders](https://historicborders.app/) - Historic Borders Map
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - World History Map with Visual Notes 
 * [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US Historical Maps
-* [Live Action Map](https://www.live-action-map.com/) - Ukraine Conflict Areas LiveFeed
+* [Live Action Map](https://www.live-action-map.com/) or [LiveUAMap](https://liveuamap.com/) - Ukraine Conflict Areas LiveFeed
 * [Native-Land.ca](https://native-land.ca/) - Indigenous Territory Map
 * [Midgard Map](https://midgardmap.koboldpress.com/) - Midgard Map
 * [Map Crunch](https://www.mapcrunch.com/) or [RandomStreetView](https://randomstreetview.com/) - Random Street View
@@ -1021,7 +1030,7 @@
 * [WebMemex](https://blog.webmemex.org/) - Organize & Store Webpages 
 * [Bandwidth Hero](https://bandwidth-hero.com/) - Reduce Browsing Data Usage
 * [Save-Data: On](https://www.daniel.priv.no/web-extensions/save-data.html) - Auto-Enable Data Savings Mode
-* [Auto Tab Discard](https://add0n.com/tab-discard.html), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs), [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) or [The Great Suspender](https://github.com/aciidic/thegreatsuspender-notrack) - Discard Inactive Tabs to Reduce Memory / CPU Usage
+* [Auto Tab Discard](https://add0n.com/tab-discard.html), [Tab Wrangler](https://github.com/tabwrangler/tabwrangler), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs), [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) or [The Great Suspender](https://github.com/aciidic/thegreatsuspender-notrack) - Discard Inactive Tabs to Reduce Memory / CPU Usage
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs 
 * [Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers) - Group & Manage Browser Tabs
 * [Tab for a Cause](https://tab.gladly.io/) - New Tabs = Charity Donation
