@@ -1422,6 +1422,7 @@
 ## ▷ Twitter Tools
 
 * **[TweetBeaver](https://tweetbeaver.com/)** or [TwopCharts](https://twopcharts.com/) - Multiple Twitter Tools 
+* **[NoFT](https://noft.gg/)** - Automatically Block all NFT Profile Pictures / [GitHub](https://github.com/ottomated/noft)
 * [/r/Twitter](https://reddit.com/r/Twitter) - Twitter Subreddit
 * [Awesome Twitter Bots](https://github.com/amandeepmittal/awesome-twitter-bots) - Twitter Bot Index
 * [Minimal Twitter](https://www.wang.sh/minimal-twitter) - Minimal Twitter Themes1
@@ -1456,7 +1457,6 @@
 * [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/) or [SocialBearing](https://socialbearing.com/) - Analyze Twitter Accounts 
 * [RedBlock](https://github.com/gaeulbyul/RedBlock) - Block Multiple Users on Twitter
 * [TweeterID](https://tweeterid.com/) - Twitter User ID & Username Converter 
-* [NoFT](https://noft.gg/) - Automatically Block all NFT Profile Pictures / [GitHub](https://github.com/ottomated/noft)
 * [Spoonbill](https://spoonbill.io/) - Track Profile Changes of People you Follow 
 * [SocialRank](https://socialrank.com/) - Find Your Most Valuable Followers 
 * [Twitual](http://twitual.com/) or [DoesFollow](https://doesfollow.com/) - Follower / Following Analysis 
