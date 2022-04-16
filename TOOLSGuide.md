@@ -134,7 +134,7 @@
 * **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_office_suites)** - Office Suite Software
 * [Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pastebins) - Paste / Store Text Online
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
-* [PrivNote](https://privnote.com/) or [IPNote](https://ipnote.io/) - Self Destructing Text
+* [PrivNote](https://privnote.com/) - Self Destructing Text
 * [GhostText](https://ghosttext.fregante.com/) - Use Text Editor in Browser
 * [Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - Note Taking & To-do Apps
 * [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - Calendar & Scheduling Tools
@@ -187,12 +187,12 @@
 * [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
 * [Delim](https://delim.co/) - Comma Separating Tool
 * [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - Create Parallel text Web
-* [Count Duplicates](https://www.somacon.com/p568.php) or [MyNikko](http://www.mynikko.com/tools/tool_duplicateremover.html)- Count / Remove Duplicates in a List
+* [Count Duplicates](https://www.somacon.com/p568.php) or [MyNikko](http://www.mynikko.com/tools/tool_duplicateremover.html) - Count / Remove Duplicates in a List
 * [Count Wordsworth](http://countwordsworth.com/) - Count Words in a List 
 * [OfficeDocs](https://www.offidocs.com/) - Runs Desktop / Mobile Apps Online
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
 * [Buffered.link](https://buffered.link/) - Share Text Between Devices
-* [Ethercalc](https://ethercalc.snopyta.org/), [Baserow](https://gitlab.com/bramw/baserow), [Framacalc](https://accueil.framacalc.org/en/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheet
+* [Baserow](https://gitlab.com/bramw/baserow), [Framacalc](https://accueil.framacalc.org/en/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheet
 * [TinySheet](https://tinysheet.com/) or [LuckysheetDocs](https://mengshukeji.github.io/LuckysheetDocs/) - Online Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
 * [Diagram.codes](https://www.diagram.codes/) - Convert Text to Diagrams
@@ -417,7 +417,6 @@
 * [Fairusify](https://fairuseify.ml/) - Make a Copyrighted Song Fair Use
 * [Songwhip](https://songwhip.com/) - Find / Share Your Music on All Platforms
 * [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://iznaut.itch.io/bfxr), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - Sounds Effects Creator
-* [TheAudioScene](https://theaudioscene.net/) - DAWs / VSTi / Samples / Presets 
 * [Fresh Stuff For You](https://freshstuff4you.com/) - DAWs / Samples / Presets
 * [Plugin Clouds Archive](https://t.me/plugincloudsarchive) - DAW Plugins
 * [FlsAudio](https://flsaudio.com/en/gb/) - FLStudio Samples / Presets / Plugins 
@@ -434,7 +433,7 @@
 * [Online Mic Test](https://onlinemictest.com/), [Mic Tests](https://mictests.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test 
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) - Measure Surrounding Sound Level
 * [Audio-Router](https://github.com/audiorouterdev/audio-router) - Route Audio from Programs to Devices
-* [AAFDCHDriverMod](https://github.com/AlanFinotty/AAFDCHDriverMod) or [Ultimate Realtek HD Audio Driver Mod](https://1drv.ms/f/s!AkGtxiGigudSzVLpSjYdvkAqrejL) - Realtek Audio Driver
+* [Ultimate Realtek HD Audio Driver Mod](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ultimate_realtek_hd_audio_driver_mod) - Realtek Audio Driver
 * [ASIO4ALL](https://www.asio4all.org/) - ASIO Audio Driver
 * [FXSound](https://www.fxsound.com/) - Sound Booster & Equalizer
 * [HeSuVi](https://sourceforge.net/projects/hesuvi/) - Headphone Surround Virtualizations
@@ -1189,7 +1188,7 @@
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) or [Phish Grabber](https://phishgrabber.dis.tf/) - Discord Anti Phishing Bot
 * [pullcord](https://github.com/tsudoko/pullcord) - Discord Archiver
 * [discord2sheet-bot](https://github.com/hugonun/discord2sheet-bot) - Store Messages to Google Sheets
-* [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion), [discord-delete](https://github.com/adversarialtools/discord-delete), [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) or [QuickDeleteMessages](https://u.nu/9i9jk) - Delete Discord Messages / [Warning](https://i.imgur.com/Kt8G430.png) 
+* [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion), [discord-delete](https://github.com/adversarialtools/discord-delete) or [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) - Delete Discord Messages / [Warning](https://i.imgur.com/Kt8G430.png) 
 * [Discord Style](https://www.discord.style/) - Discord Server Templates
 * [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/)
 * [Discord Embed Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_embed_generators) - Generate Embeds via Webhooks
