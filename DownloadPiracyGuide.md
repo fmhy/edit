@@ -242,6 +242,7 @@
 * [raymondfreesoftware](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g)
 * [Rarewares](https://www.rarewares.org/) - Rare Software
 * [PLC4Me](https://plc4me.com/) - Automation Software
+* [civileng_soft](https://t.me/civileng_soft) - Civil Engineering Software
 * [Radixx11](https://radixx11rce3.blogspot.com/), [Izofile](https://izofile.com/), [Soft2Ev](https://www.soft2ev.com/), [Keygen Fortress](https://t.me/keygen_fortress), [SmartSerials](https://smartserials.com/) or [SerialReactor](https://serialreactor.com/) - Software Keys / Patches
 * [Software Heritage](https://www.softwareheritage.org/) - Software Source Code Archive 
 * [balenaHub](https://hub.balena.io/) - Raspberry Pi Software 
