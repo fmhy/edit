@@ -16,7 +16,6 @@
 * [One Porn List](https://onepornlist.com/)
 * [BigPornList](http://bigpornlist.net/)
 * [MrPornGeek](https://www.mrporngeek.com/)
-* [PornGrade](https://porngrader.com/)
 * [The Big List of Porn](https://www.tblop.com/) 
 * [Porn Sites XXX](https://pornsites.xxx/) 
 * [Top Porn Sites](https://toppornsites.com/)
@@ -121,7 +120,7 @@
 * [PornFactors](http://pornfactors.com/) 
 * [RaidForums NSFW](https://raidforums.com/Forum-Not-Safe-For-Work)
 * [Best-MovieZ](https://www.best-moviez.ws/category/porn-18/) 
-* [HugeWarez](http://hugewarez.net/porn/) 
+* [HugeWarez](http://hugewarez.net/xxx-full-movies/) 
 * [Uploadgig](https://ugmovies.org/porn-movies/) 
 * [PornFile](https://pornfile.cz/) 
 * [0xxx](https://0xxx.ws/) 
@@ -153,10 +152,8 @@
 ## Torrent
 
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - ctrl+f and type "nsfw"
-* [Porn Time](https://porntime.ws/) - *Torrent Streaming App*
 * [PornLeech](http://pornleech.ch/)
 * [Sexy-Pics](https://www.sexy-pics.us/)
-* [relizer](http://relizer.net/) 
 * [色花堂-98堂](https://www.sehuatang.net/)
 * [6Mag](https://6mag.net/)
 * [PornRips](https://pornrips.to/) - *HEVC Porn Rips*
