@@ -208,7 +208,6 @@
 * [Favicon Maker](https://formito.com/tools/favicon) or [react favicon](https://react-favicon.com/) - Create Favicons
 * [Laws of UX](https://lawsofux.com/) - Maxims / Principles for UI Designers 
 * [UI Coach](https://uicoach.io/) - UI Design Challenge Generator
-* [UI Design Daily](https://www.uidesigndaily.com/) - UI Templates
 * [Resources Index](https://babiato.co/threads/design-resources-for-developers-800.65591/#post-737335) - Design Patterns
 * [HTML Dog](https://htmldog.com/) - Front End Tutorials & Examples
 * [Responsively](https://responsively.app/) - Responsive Dev Design Tool
@@ -296,7 +295,6 @@
 * [ZeroNet](https://zeronet.io/) or [Federalist](https://github.com/publiusfederalist/federalist) - Uncensorable Sites / [/r/Zeronet](https://www.reddit.com/r/zeronet/)
 * [Freenet Project](https://freenetproject.org/) - Browse / Publish Freenet Sites 
 * [GoodBadISPs ](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
-* [Uncensorable Publishing](https://uncensorablepublishing.com/) - How-to Create Uncensorable Sites
 * [Emanote](https://emanote.srid.ca/) - Create Sites from Plain-Text Notes / [GitHub](https://github.com/srid/emanote)
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 * [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - DNS Benchmark
