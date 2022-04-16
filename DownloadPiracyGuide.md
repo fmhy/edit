@@ -64,7 +64,7 @@
 * **[DownloadHa](https://www.downloadha.com)** - Video / Software / Games / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * **[SoftArchive](https://sanet.st)** or [Sanet.lc](https://sanet.lc/) - Video / Audio / Games / Software / Android / Books / Comics / Newspapers / Magazines / [Status](https://sastatus.com/)
 * **[DirtyWarez](https://forum.dirtywarez.com/)** - Forum / Video / Audio / Games / Software / Books / Comics 
-* **[patoghu](https://patoghu.com/)** - Video / Audio / Software / Android / Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
+* **[patoghu](https://patoghu.com/)** - Video / Audio / Software / Android / Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * **[Bitdownload](http://bitdownload.ir/)** - Video / Audio / Software / Games / Android / Courses / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * **[The-Eye](https://the-eye.eu/)** - Audio / Roms / Books / Comics / Magazines / Software / [Discord](https://discord.com/invite/6hr2Xsm)
 * **[BlackPearl](https://blackpearl.biz/)** - Video / Audio / Books / Games / [Interview](https://blackpearl.biz/interview/)
