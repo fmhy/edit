@@ -1381,7 +1381,7 @@
 
 ## ▷ Twitch Tools
 
-* [Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers) - Block Ads on Twitch
+* **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers)** - Block Ads on Twitch
 * [Twitch Databse](https://twitchdatabase.com/) - Twitch Tools and Analytics
 * [BetterTTV](https://betterttv.com/) or [FrankerFacez](https://www.frankerfacez.com/) - Twitch Enhancement Extension
 * [Stream Scheme](https://www.streamscheme.com/) - Livestreaming Guides & Resources
