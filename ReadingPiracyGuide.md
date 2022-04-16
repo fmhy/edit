@@ -427,6 +427,7 @@
 * [Tradepub](https://knowfree.tradepub.com/)
 * [PupilGarage](http://www.pupilgarage.com/)
 * [Ed_Books](https://t.me/Ed_Books) 
+* [eBookRoom](https://t.me/eBookRoom)
 * [Libribook](https://libribook.com/) 
 * [BookGoldMine](https://www.bookgoldmine.com/)
 * [ImSoLost](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_imsolost) - 
