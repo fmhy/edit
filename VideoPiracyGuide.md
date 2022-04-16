@@ -240,7 +240,6 @@
 * [Teleisodes](https://www1.telepisodes.org/) - TV 
 * [FZTVSeries](https://fztvseries.mobi/), [MobileTVShows](https://www.mobiletvshows.net/) or [TVSeries](https://www.tvseries.in/) - TV / Anime
 * [OnlySeries](https://onlyseries.net/) - TV
-* [BKWorld](https://bkworldtube.com/) - TV
 * [Watch-TvSeries](https://www1.watch-tvseries.net/) - TV
 * [MyWatchSeries](https://www5.mywatchseries.stream/) - TV / Anime 
 * [turkish123](https://turkish123.com/) - Turkish TV Shows / Subtitles 
@@ -289,6 +288,7 @@
 * [AnimeFox](https://animefox.cc/) / [2](https://animefox.io/) / [3](https://www.animedao.cc/) - Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)
 * [AnimeHeaven](https://animeheaven.ru/) - Sub / Dub 
 * [AnimeDao](https://animedao.to/) - Sub
+* [AnimeSanka](https://animesanka.com/) - Sub / Dub 
 * [AniStream](https://anistream.fun/) - Sub
 * [Array Anime](https://www.arrayanime.com/) - Sub / Dub 
 * [LMAnime](https://lmanime.com/) - Sub
@@ -669,7 +669,6 @@
 * [DoraMax264](https://doramax264.com/) - Asian Drama
 * [Toku.fun](https://toku.fun/) - Japanese Superhero Movies
 * [TinyMKV](https://tinymkv.xyz/) - Movies / TV
-* [480p TV Shows](https://www.480ptvshows.com/) - Movies / TV 
 * [300MBFilms](https://www.300mbfilms.com/) - Movies / TV
 * [TvShows4Mobile](https://tvshows4mobile.com/) - TV / Anime
 * [OlaMovies](https://olamovies.pro/) - HD Movies / TV / [Telegram](https://t.me/olamovies_official)
