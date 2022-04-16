@@ -33,7 +33,7 @@
 * **Spotify Tools** - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Listen Together](http://jqbx.fm/) / [Customize](https://github.com/Darkempire78/Spotify-Customizer)
 * **[YouTube Music](https://music.youtube.com/)** - Browser Music / [Alt Player](https://www.infigroove.com/) / [Lag Fix](https://greasyfork.org/en/scripts/432304-youtube-music-fix-performance) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo)
 * **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
-* **[SoundCloud](https://soundcloud.com/)** - User Made Songs / [Info Export](https://soundcloudcsv.com/)
+* **[SoundCloud](https://soundcloud.com/)** - User Made Songs
 * [ccMixter](http://ccmixter.org/) or [dig ccMixter](http://dig.ccmixter.org/dig) - Browser Music
 * [Audiomack](https://audiomack.com/) - Browser Music
 * [Slider](https://slider.kz/) or [My Free MP3](https://myfreemp3juices.cc/) - Browser Music
@@ -55,6 +55,7 @@
 * [DMO](https://dance-music.org/) - Electronic
 * [Vapor Archive](https://vaporarchive.neocities.org/) - Vaporwave
 * [hypem](https://hypem.com/popular) - Rising
+* [Daytrotter](https://www.pastemagazine.com/daytrotter#!/) - Rising
 * [datpiff](https://www.datpiff.com/) - Mixtapes
 * [pumpyouup](http://www.pumpyouup.com/) - Indie Dubstep
 * [musopen](https://musopen.org/music/) - Classical
@@ -205,7 +206,6 @@
 * [Noisli](https://www.noisli.com/) - Background Sounds for Productivity & Focus 
 * [Ambient-Mixer](https://movies.ambient-mixer.com/) - Ambient Media Inspired Sounds 
 * [Listen to Wikipedia](http://listen.hatnote.com/) - Listen to the sound of Wikipedia's recent changes feed 
-* [My Secret Garden](https://insecretgarden.com/) - Ambient Sound Garden 
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games 
 
 ***
