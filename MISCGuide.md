@@ -426,7 +426,7 @@
 * [Hypochondriapp](http://hypochondriapp.io/) - Get a terrible diagnosis for your symptoms
 * [Cube Rule](https://cuberule.com/) - The Cube Rule of Food 
 * [EverySecond](https://everysecond.io/) - Visualize Per Second Data
-* [DeathDate.info](http://deathdate.info/), [DeathDate.org](https://www.deathdate.org/), [Fortunteller Deathdate](https://www.free-fortuneteller.com/deathdate), [DeathClock.com](http://deathclock.com/), [DeathClock.cc](https://deathclock.cc/) or [Death-Clock](https://www.death-clock.org/) - Calculate your day of death 
+* [DeathDate.info](http://deathdate.info/), [DeathDate.org](https://www.deathdate.org/), [Fortunteller Deathdate](https://www.free-fortuneteller.com/deathdate), [DeathClock.com](http://deathclock.com/) or [Death-Clock](https://www.death-clock.org/) - Calculate your day of death 
 * [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - Dollar Tracking 
 * [ThatsTheFinger](https://thatsthefinger.com/) - Send Someone The Finger
 * [RandomColour](http://www.randomcolour.com/) - Random Color
