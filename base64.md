@@ -28,7 +28,7 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 #### Rek's Drive
 
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9KazhSaklCQSNfZFROdGhVWDNMTDdPd1NhYXVxSXB3`
+`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9pWVEzU1liQSNfbzllTzRvMWVpQ2Q4UXNDVFU3aVV3`
 
 ***
 
@@ -1664,12 +1664,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 ***
 
-#### 2-Python
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9RZ2R6aUFpSyNRZ0VXM1BZOFA1em5GUjBtTlEtbmpR`
-
-***
-
 #### Modern Python 3 Bootcamp Courses
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci96ZkpReUxyVCN1dkdBYVNiN0JzNWJnZ3pYWFdxb3NR`
@@ -1834,7 +1828,7 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 #### PS4 Rom Drives
 
-`aHR0cDovL3MyMS5iaXRkbC5pci8KaHR0cDovL3MyMi5iaXRkbC5pci8KaHR0cDovL3MyMy5iaXRkbC5pci8KaHR0cDovL3MyNC5iaXRkbC5pci8KaHR0cDovL3MyNS5iaXRkbC5pci8KaHR0cDovL3MyNi5iaXRkbC5pci8KaHR0cHM6Ly9wczQudGQtaW5kZXgud29ya2Vycy5kZXYvMDovCmh0dHBzOi8vZG9jcy5nb29nbGUuY29tL3NwcmVhZHNoZWV0cy9kLzFNeEJGaXM4M3h0WjhLdldmazN0NUJhUDh2UDhxTmFuMU81OWV0WWpGcndzL2VkaXQjZ2lkPTI1NTI5NDY4NQ==`
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMV8wS052cUxEdGx4WVBsSk92TlgzdEVXcVlIN2p6MlVyP3VzcD1zaGFyaW5nCmh0dHA6Ly9zMjEuYml0ZGwuaXIvCmh0dHA6Ly9zMjIuYml0ZGwuaXIvCmh0dHA6Ly9zMjMuYml0ZGwuaXIvCmh0dHA6Ly9zMjQuYml0ZGwuaXIvCmh0dHA6Ly9zMjUuYml0ZGwuaXIvCmh0dHA6Ly9zMjYuYml0ZGwuaXIvCmh0dHBzOi8vcHM0LnRkLWluZGV4LndvcmtlcnMuZGV2LzA6LwpodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9zcHJlYWRzaGVldHMvZC8xTXhCRmlzODN4dFo4S3ZXZmszdDVCYVA4dlA4cU5hbjFPNTlldFlqRnJ3cy9lZGl0I2dpZD0yNTUyOTQ2ODU=`
 
 ***
 
@@ -1846,7 +1840,7 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 #### Switch Rom Drives
 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWN2bVlpdnptanNiVndNYjc5ZWRQMncwUUt2RlBmS0ZKCmh0dHBzOi8vZG9jcy5nb29nbGUuY29tL3NwcmVhZHNoZWV0cy9kLzFsUk1UeFNBSmlBU09kVDFabEN5WXJVblhrVnQ1OGpnNDZZLTJ3M1JyTXRBL2VkaXQ=`
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWN2bVlpdnptanNiVndNYjc5ZWRQMncwUUt2RlBmS0ZK`
 
 ***
 
@@ -1896,3 +1890,33 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 #### Mac Adobe CC
 
 `aHR0cHM6Ly90ZWxlZ3JhLnBoL01hY09TLUFkb2JlLUNDLUd1aWRlLTExLTI5Cmh0dHBzOi8vcmVkZC5pdC9veDZyd2w=`
+
+***
+
+#### Modded Spotify APK
+
+`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9zdD0wJnNrPXQmc2Q9ZCZzcj10b3BpY3Mma2V5d29yZHM9U3BvdGlmeSZzZj10aXRsZW9ubHk=`
+
+***
+
+#### Spotify++
+
+`aHR0cHM6Ly9yZWRkLml0L3B0NXV2OQpodHRwczovL2FwcGRiLnRvL2FwcC9jeWRpYS8xOTAwMDAwNTQwCmh0dHBzOi8vaXBhc3BvdC5hcHAvY2F0ZWdvcmllcy90d2Vha2VkYXBwcy5odG1sCmh0dHBzOi8vcmVwby5oYWNreW91cmlwaG9uZS5vcmcvc3BvdGlsaWZl`
+
+***
+
+#### ImSoLost
+
+`aHR0cDovL2ltc29sb3N0LmNvbS9ib29rcy8=`
+
+***
+
+#### WiiU Title Keys
+
+`aHR0cHM6Ly92YXVsdC50aXRsZWtleXMub3ZoLwpodHRwczovL3dpaWtleXMud2ViLmFwcC8=`
+
+***
+
+#### Ultimate Realtek HD Audio Driver Mod
+
+`aHR0cHM6Ly8xZHJ2Lm1zL2YvcyFBa0d0eGlHaWd1ZFN6VkxwU2pZZHZrQXFyZWpM`
