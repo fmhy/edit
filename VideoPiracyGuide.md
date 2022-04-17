@@ -248,7 +248,7 @@
 * [No-Laughing Batsu Game List](https://redd.it/2fgm9p) 
 * [cytube](https://cytu.be/) - TV / Chat
 * [ScrubTV](https://reboot.tube/), [2](https://hidden.pm/) - TV / Chat
-* [VaughnLive](https://vaughn.live/browse/all) - TV / Chat
+* [VaughnLive](https://vaughn.live/browse/misc) - TV / Chat
 * [Baked](http://baked.live/) - TV / Chat
 
 ***
