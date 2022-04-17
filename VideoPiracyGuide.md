@@ -31,6 +31,7 @@
 * [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - Movies / TV
 * [Oligopoly](https://olgply.com/) - Movies / TV
 * [Movies.cf](https://movies.cf/Landing) - Movies 
+* [Tubi](https://tubitv.com) - Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime
 * [NetU](https://netu.io/view_page.php?pid=4) - Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)
 * [Shoow.in](https://shoow.in/) - Movies / TV / Anime / [Unlock HD](https://pastebin.com/hxdq1uFi)
@@ -85,7 +86,6 @@
 * [2Embed](https://www.2embed.ru/) - Movies / TV / Anime 
 * [VidSrc](https://vidsrc.me/) - Movies / TV / Anime 
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) - Movies / TV / Anime 
-* [Tubi](https://tubitv.com) - Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
 * [Filmzie](https://filmzie.com/) - Movies / TV
 * [Kanopy](https://kanopy.com/) - Movies / TV / Library Card Required 
 * [PopcornFlix](https://www.popcornflix.com/) - Movies / TV
