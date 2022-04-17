@@ -95,12 +95,12 @@
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV
 * [Pluto](http://pluto.tv/on-demand) - Movies / TV
 * [Vudu](https://www.vudu.com/) - Movies / TV
-* [IMDB TV](https://www.imdb.com/tv/) - Movies / TV
 * [Playary](https://www.playary.com/) - Movies / TV
 * [Fawesome](https://fawesome.tv/) - Movies / TV
 * [LokLok](https://loklok.com/) - Movies / TV
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / [Windscribes](https://windscribe.com/) free version works
 * [YouTube Movie Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)
+* [Amazon Free w/ Ads](https://www.amazon.com/free-ads/s?k=free+with+ads) - Movies / TV
 * [JustWatch](https://www.justwatch.com/) or [ReelGood](https://reelgood.com/) - Search Legal Streaming Hosts
 * [Manually Scrape Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manually_scrape_sites) - Search Sites Manually
 * [Dirtywarez Ranking](https://dirtywarez.org/cat/streaming), [Watch Movies Free](https://redd.it/rbpag2), [StreamingSites](https://streamingsites.com/) or [Movies-Play](https://movies-play.com/) - Streaming Site Lists
