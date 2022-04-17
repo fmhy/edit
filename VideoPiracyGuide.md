@@ -961,7 +961,7 @@
 
 # ► Request Videos
 
-* **[The MegaDrive](https://discord.gg/h2P5zsNMxZ)** - Movies / TV / Anime
+* **[The MegaDrive](https://discord.gg/megadrive)** - Movies / TV / Anime
 * **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)** - Movies / TV 
 * **[Movie-Forum](https://movie-forum.co/forums/23-Requests)** - Movies
 * **[TopNow](https://discord.gg/marBA97)** - Movies / TV / Anime
@@ -975,7 +975,6 @@
 * [TehParadox](https://www.tehparadox.net/requests/) - Movies / TV 
 * [SuperNova](https://supernova.to/sn/requests) - Movies / TV / Anime 
 * [WorldSrc](https://t.me/WorldsrcOfficial) - Movies / TV / Telegram
-* [TheMegaDrive](https://discord.gg/h2P5zsNMxZ) - Movies / TV / Anime 
 * [Fmovies](https://fmovies.co/) - Movies / TV / Anime
 * [1movies](https://1movies.life/contact) - Movies / TV / Anime
 * [9Anime](https://9anime.to/) - Anime / Click Request
