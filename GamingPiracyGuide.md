@@ -208,7 +208,6 @@
 * [@Storage_Manager](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.40storage_manager) - Roms / Zip 
 * [FinalBurn Neo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_finalburn_neo) - Roms / Zip 
 * [Everdrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_everdrive) - Roms / Zip
-* [Retro Gaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_retro_gaming) - Roms / 3GB
 * [Many Dumped Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_many_dumped_games) - Roms
 * [nwifiresticks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nwifiresticks) - Roms
 * [Rom Pack](https://www.romspack.com/) - Roms
