@@ -226,6 +226,7 @@
 * [Steam Popularity Filter](https://chrome.google.com/webstore/detail/steam-popularity-filter/icflgpakhkkjeaefoedcbdbahmjopbdc) - Steam Market Popularity Filter
 * [CheapShark Deal Search](https://chrome.google.com/webstore/detail/cheapshark-deal-search/ahdfdhcljjiogoabcemgldinhgoemmjc) - Steam Market Sales Search
 * [Steam Inventory Helper](https://steaminventoryhelper.com/) - Steam Inventory Enhancement Extension
+* [ArchiFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - Farm Steam Trading Cards 
 
 ***
 
