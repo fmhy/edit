@@ -445,13 +445,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 `aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL2xhdGVzdC1ldmVyZHJpdmUtcGFjay0yMDIwLTA0LTE2`
 
-
-***
-
-#### Retro Gaming
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9adVJpZ0N3QSM1ZF9LOWxSS1VYZGVhRE1vZzg0TUdn`
-
 ***
 
 #### Many Dumped Games
