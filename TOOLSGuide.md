@@ -1199,7 +1199,7 @@
 * [Discord Reputation](https://discordrep.com/) - Prevent Discord Fraud
 * [Discord Auto Upload](https://github.com/tardisx/discord-auto-upload) - Auto Upload Screenshots
 * [Discord Creation Date Check](https://hugo.moe/discord/discord-id-creation-date.html) - Check Creation Date of User / Channel / Server / [GitHub](https://github.com/hugonun/discordid2date)
-* [DSC.BIO](https://dsc.bio/) - Make Awesome Custom Discord Bios 
+* [DSC.BIO](https://discords.com/bio) - Make Custom Discord Bios 
 * [DateTimeCord](https://datetimecord.rauf.wtf/) - Discord Date & Time Fomatting Tool
 * [Dank.tools](https://dank.tools/) - Time Tag Generator
 * [Discord Text to Emoji](https://jtprince.com/discord/) - Emoji Discord Text
