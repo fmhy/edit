@@ -1,4 +1,4 @@
-Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_base64_decode_extensions)** or **[Script](https://pastebin.com/raw/HVAWhmG5)** to view these links. If it won't let you copy on mobile try [libreddit](https://libredd.it/r/FREEMEDIAHECKYEAH/wiki/base64)
+Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_base64_decode_extensions)** or **[Script](https://pastebin.com/raw/HVAWhmG5)** to view these links. If it won't let you copy on mobile try [libreddit](https://libredd.it/r/FREEMEDIAHECKYEAH/wiki/base64).
 
 ***
 
