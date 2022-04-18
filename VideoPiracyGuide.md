@@ -27,6 +27,7 @@
 * **[PrivateHD](https://www.privatehd.xyz/)** - Movies / TV
 * **[M4uFree](https://ww1.m4ufree.com)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * **[Soap2Day](https://soapgate.org/)** - Movies / TV
+* **[arthemis](https://releases.arthemis.xyz/)** - Movies / TV / Anime App / [Discord](https://discord.gg/98HxbfjKQV)
 * [C1NE](https://c1ne.co/) - Movies / TV 
 * [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - Movies / TV
 * [Oligopoly](https://olgply.com/) - Movies / TV
