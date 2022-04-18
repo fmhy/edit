@@ -420,8 +420,7 @@
 ## ▷ Search Engines
 
 * **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons
-* **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bang)
-* [searx](https://asciimoo.github.io/searx/) - [Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_searx_instances) / [Desktop](https://notabug.org/CYBERDEViL/searx-qt)
+* **[searx](https://asciimoo.github.io/searx/)** - [Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_searx_instances) / [Desktop](https://notabug.org/CYBERDEViL/searx-qt)
 * [Qwant](https://www.qwant.com/)
 * [Swisscows](https://swisscows.com/)
 * [Metager](https://metager.org/)
