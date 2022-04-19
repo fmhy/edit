@@ -85,12 +85,12 @@
 * [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/), [BestRandoms](https://www.bestrandoms.com/) or [Random Lists](https://www.randomlists.com/) - Generate Anything
 * [Score Count](https://scorecount.com/) - Online Sports Scoreboards
 * [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizer
-* [PollCode](https://pollcode.com/), [YoPolls](https://www.yopolls.com/), [Polls.fr](https://polls.fr/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/) or [poal.me](https://poal.me/) - Poll Creator
+* [PollCode](https://pollcode.com/), [YoPolls](https://www.yopolls.com/), [Polls.fr](https://polls.fr/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/), [framadate](https://framadate.org/) or [poal.me](https://poal.me/) - Poll Creator
 * [sli.do](https://www.sli.do/), [Feedbackr](https://www.feedbackr.io/) or [Trypingo](http://trypingo.com/) - Live Polling Apps
 * [Event Rally](https://rallly.co/) - Collaborate and Vote on a Date to Host / [GitHub](https://github.com/lukevella/Rallly)
 * [Diff Checker](https://www.diffchecker.com/) - Check Differences in Text, Images, PDFs or Files
 * [Find Your Place](https://where-is-this.com/) - Find Places from Pictures
-* [IRuler](https://iruler.net/) - Turn your device into a Ruler  
+* [IRuler](https://iruler.net/) - Turn Device into Ruler
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) or [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools) - Digital Forensics Tools  
 * [Chaotic Shiny](http://chaoticshiny.com/) - Fantasy Writing Generator 
 * [GitKraken Timeline](https://timelines.gitkraken.com/), [Timeline Cascade](https://cascade.page/) / [GitHub](https://github.com/kochrt/cascade.page), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Timeline Creation Tool
@@ -406,7 +406,7 @@
 * **[Equalizer APO](https://equalizerapo.com/)** - Audio Equalizer / [Noise Suppression](https://github.com/werman/noise-suppression-for-voice)
 * **[AutoEq](https://github.com/jaakkopasanen/AutoEq)** - Auto Headphone Equalizer
 * **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - Audio Visualization Resource Index 
-* **[Determine Audio File Quality](https://redd.it/3l0yxp)**, [Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](http://spek.cc/) or [Spectro](http://spectro.enpts.com/) - Determine Quality of Audio Files
+* **[Determine Audio File Quality](https://redd.it/3l0yxp)**, [Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](http://spek.cc/), [FakinTheFunk](https://rentry.co/FakinTheFunk) or [Spectro](http://spectro.enpts.com/) - Determine Quality of Audio Files
 * **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)** - Audio Compression Examples
 * [Scarbir](https://www.scarbir.com/) or [Crinacle](https://crinacle.com/) - Headset & Earphone Comparisons
 * [AccurateRip](http://www.accuraterip.com/) - Verify Ripped Tracks are Error Free
@@ -529,7 +529,7 @@
 * [Audiogrep](http://antiboredom.github.io/audiogrep/), [Tune Transcriber](https://www.tunetranscriber.com/) or [mp4grep](https://github.com/o-oconnell/mp4grep) - Audio Transcribing / [GitHub](https://github.com/antiboredom/audiogrep)
 * [FastHub](https://fasthub.net/) - Text to Speech Translation Tool
 * [Praat](https://www.fon.hum.uva.nl/praat/) - Analyze, Synthesize & Manipulate Speech / [GitHub](https://github.com/praat/praat)
-* [Splitter](https://www.splitter.ai/) or [melody ml](https://melody.ml/) - Separate voice from instrumentals
+* [Splitter](https://www.splitter.ai/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate voice from instrumentals
 * [VocalRemover](http://vocalremover.org/) / [GUI](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [AIVocalRemover](https://aivocalremover.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb) or [Remove Vocals](https://www.remove-vocals.com/) - Remove / Isolate Vocal Tracks
 * [Acapella-Extractor](https://www.acapella-extractor.com/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Remove Background Tracks from Songs
 * [VoiceFX](https://blog.xaymar.com/projects/voicefx/) - Remove Background Noise from Voice Recordings
@@ -544,7 +544,7 @@
 * [inAudible](https://github.com/rmcrackan/inAudible) - Audible to MP3 converter
 * [Soundiiz](https://soundiiz.com/) - Transfer Playlists Between Streaming Platforms 
 * [Exact Audio Copy](https://www.exactaudiocopy.de/) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper 
-* [OnlineToneGenerator](https://onlinetonegenerator.com/) - Multiple Audio Tools
+* [OnlineToneGenerator](https://onlinetonegenerator.com/) or [AFreeStudio](https://www.afreestudio.com/ ) - Multiple Audio Tools
 * [#fretflip](https://fretflip.com/) - Create / Print Guitar Scales & Chord Charts 
 * [HookTheory](https://www.hooktheory.com/trends) - Chord Progression Library 
 * [MusicKit](https://musickit.jull.dev/) - Metronome, Tuner & Tone Generator 
@@ -1407,6 +1407,7 @@
 * [TwitchRSS](https://twitchrss.appspot.com/) - Twitch RSS Generator
 * [7TV](https://7tv.app/ ) - Twitch Emotes Extension
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink 
+* [get stream](https://pwn.sh/tools/getstream.html) - Extract Twitch URLs
 * [PogU.live](https://pogu.live/) - Watch Twitch Sub-Only Videos
 * [nobody.live](https://nobody.live/) or [Twitch Roulette](https://twitchroulette.net/) - Random Stream Roulette
 * [Stream Clicker](https://streamclicker.io/) - Random Twitch Streamers 
@@ -1449,6 +1450,7 @@
 * [Klear](https://klear.com/free-tools/find-twitter-influencers) - Find Influencers 
 * [Twiangulate](http://twiangulate.com/search/) - Compare Twitter User Followers 
 * [FollowerWonk](https://followerwonk.com/) - Find, Analyze & Optimize Followers 
+* [audiense](https://audiense.com/) - Identify Relevant Audiences 
 * [HashTagStack](https://www.hashtagstack.com/) or [Hashtagify](https://hashtagify.me/) - Hashtag Engagement Tracker
 * [Hashait](https://www.hashatit.com/) - Hashtag Search
 * [Twitter 3D](https://twitter.jeffprod.com/) - View Twitter Connections in 3D
@@ -1602,6 +1604,7 @@
 * [NBFC](https://github.com/hirschmann/nbfc) - Laptop Fan Control
 * [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - Manage & Control NVIDIA Cards
 * [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify & View Hidden NVIDIA Settings
+* [NVIDIA Control Panel](https://rentry.co/gaydia) - NVIDIA Control Panel Without MS Store
 * [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) or [NVSlimmer](https://majorgeeks.com/files/details/nvslimmer.html) - Customize NVIDIA Driver Packages
 * [Nvidia-Patch](https://github.com/keylase/nvidia-patch) - NVENC & NvFBC Patches
 * [Parted Magic](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_parted_magic) - Disk Management Tool
@@ -1810,8 +1813,9 @@
 * [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) - Add Microsoft Store to Windows
 * [Edgeuninstaller](https://rentry.org/uninstalledge) - Completely Uninstall Microsoft Edge
 * [Windows on Raspberry](https://www.worproject.ml/) - Windows for Raspberry Pi
-* [amogOS](https://github.com/jostroOS/amogOS) - Raspberry Pi OS
+* [amogOS](https://github.com/jostroOS/amogOS) - Rasberry Pi OS
 * [Raspberry Pi 4 Bootloader USB Mass Storage Boot Guide](https://jamesachambers.com/new-raspberry-pi-4-bootloader-usb-network-boot-guide/) - How-to Boot Raspberry Pi from USB
+* [Awesome Raspberry Pi](https://rpi.thibmaek.com/) - Rasberry Pi Resources / [GitHub](https://github.com/thibmaek/awesome-raspberry-pi)
 * [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Windows 11 ready
 * [Awesome Windows 11](https://github.com/awesome-windows11/windows11) - Windows 11 Resource Index
 * [Windows 11 Fixer](https://github.com/99natmar99/Windows-11-Fixer) - Win 11 Improvement Tool
