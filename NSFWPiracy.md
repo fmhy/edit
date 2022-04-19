@@ -171,7 +171,6 @@
 * [MissingToofff](https://missingtoofff.com/) - *OnlyFans Leak Site List*
 * [PornDude OnlyFans](https://theporndude.com/snapchat-nudes-sites) - *OnlyFans / Patreon*
 * [LeakMeUp](https://leakemup.com/forums/) - *OnlyFans / Patreon*
-* [Thots.tv](https://thots.tv/) - *Onlyfans / Patreon*
 * [OnlyNudes](https://onlynudes.tv/) - *OnlyFans*
 * [Coomer.Party](https://coomer.party/artists) - *OnlyFans*
 * [NsfwLeak](https://nsfwleak.com/) - *OnlyFans*
