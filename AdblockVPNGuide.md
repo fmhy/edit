@@ -106,7 +106,7 @@
 * [VToncolab](https://rentry.org/vtoncolab) - How-to Scan Files with Google Colab
 * MSRT - [x64](https://www.microsoft.com/en-us/download/details.aspx?id=9905) / [x86](https://www.microsoft.com/en-us/download/details.aspx?id=16) - Malicious Software Removal Tool
 * [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html), [PeerBlock](https://www.peerblock.com/), [Tinywall](https://tinywall.pados.hu/) or [GlassWire](https://www.glasswire.com/) - Firewall / Network Monitor 
-* [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/) or [Safing](https://safing.io/portmaster/) - Network Monitor
+* [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/), [Rotty](https://github.com/RoseSecurity/Rotty.py) or [Safing](https://safing.io/portmaster/) - Network Monitor
 * [Waircut](https://sourceforge.net/projects/waircut/) - WPS Network Monitor
 * [Traffic Leaks Detector](https://github.com/AsenOsen/traffic_leaks_detector) - Network Leak Protection
 * [Hard_Configurator](https://hard-configurator.com/) - Software Restriction Policy Management GUI 
@@ -226,7 +226,7 @@
 * [Cryptee](https://crypt.ee/) - Encrypted Image Storage
 * [ImgProxify](https://imgproxify.com/) - Image Proxy Generator
 * [PeerTube](https://joinpeertube.org/), [2](https://peertube.tv/), [3](https://peer.tube), [4](https://search.joinpeertube.org/), [5](https://sepiasearch.org/) - Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)
-* [PrivNote](https://privnote.com/), [Burn.Link](https://burn.link/), [Wipenote](https://wipenote.io/), [OneTimeSecret](https://onetimesecret.com/) or [IPNote](https://ipnote.io/) - Send Self-Destructing Messages 
+* [PrivNote](https://privnote.com/), [Burn.Link](https://burn.link/), [Wipenote](https://wipenote.io/) or [OneTimeSecret](https://onetimesecret.com/) - Send Self-Destructing Messages 
 * [xcodx.ru](https://xcodx.ru/), [Steg Cloak](https://stegcloak.surge.sh/) or [spam mimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
 * [USBKill](https://github.com/hephaest0s/usbkill) - Anti-Forensic Kill-Switch
 * [Eraser](https://eraser.heidi.ie/) or [Lethe](https://github.com/rafael-santiago/lethe) - Wipe / Overwrite Hard Drive Data 
@@ -357,7 +357,7 @@
 * [I2Pd Browser](https://i2pd.website/) - I2P Browser / [GitHub](https://github.com/PurpleI2P/i2pd)
 * [NotBob](https://www.notbob.i2p/) - I2P Site Index / I2P Browser Required
 * [CookieStatus](https://www.cookiestatus.com/) - Browser Tracking Protection Comparisons
-* [NothingPrivate](https://www.nothingprivate.ml/), [Device Info](https://www.deviceinfo.me/), [Privacy Test](https://privacy.net/analyzer/), [IPX](https://ipx.ac/run) , [Sploit](https://sploit.io/test.php) or [BrowserAudit](https://browseraudit.com/) - Browser Data Leak Test
+* [NothingPrivate](https://www.nothingprivate.ml/), [Device Info](https://www.deviceinfo.me/), [Privacy Test](https://privacy.net/analyzer/), [IPX](https://ipx.ac/run) or [Sploit](https://sploit.io/test.php) - Browser Data Leak Test
 * [SSL Labs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html) - SSL/TLS Browser Capabilities Test
 * [IP / DNS Leak Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_dns_leak_tests) - Test for IP & DNS Leaks
 * [DNSCookie](http://dnscookie.com/) - Identify Related Network Flows
@@ -529,6 +529,7 @@
 * [Amnezia](https://github.com/amnezia-vpn/desktop-client/) - Self-hosted VPN
 * [Self-hosted VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/selfhost-vpn) - Self-hosted VPN guide by /u/Kaxry
 * [VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share VPN Connection over Hotspot
+* [raspberrypiwireguard](https://github.com/adrianmihalko/raspberrypiwireguard) - Install WireGuard on Raspberry Pi
 * [Killswitch](https://github.com/nologs-vpn/killswitch) or [KillSwitch](https://github.com/nerfirelia123/KillSwitch) - Custom VPN Killswitch
 * [/r/VPN](https://reddit.com/r/VPN) - VPN Help and Discussion 
 * [OilAndFish](https://www.oilandfish.com/) - Firewall Bypass Guide
@@ -590,5 +591,6 @@
 * [b.lulu](https://b.lulu.workers.dev/), [3](https://b.jsproxy.workers.dev/), [4](https://noisy-tooth-2ee5.susheng.workers.dev/) - Cloudflare Workers Proxies 
 * [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - Python Library for Retrieving Free Proxies
 * [Proxy-Checker](https://proxy-checker.net/), [What is my Proxy](http://www.whatismyproxy.com/) or [Socker](https://github.com/TheSpeedX/socker) - Proxy Checker
+* [apiproxyfree](https://apiproxyfree.com/) - Proxy List API
 * [CheckSocks5](https://checksocks5.com/) - Socks5 Proxy Checker
 * [Proxynova](https://www.proxynova.com/proxy-server-list/country-ir/) - Iranian Proxies
