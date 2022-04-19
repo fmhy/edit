@@ -147,7 +147,6 @@
 * [BT4G](https://bt4g.org/)
 * [ExtraTorrent](https://extratorrent.unblockit.kim/) 
 * [Torrent Download](http://www.torentdownloads.narod.ru/) 
-* [SkyTorrents](http://www.skytorrents.me/) 
 * [TorrentMag](https://www.torrentmag.net/) 
 * [Torlook](https://gw1.torlook.info/)
 * [Torrent.nz](https://torrent.nz/) 
