@@ -45,7 +45,6 @@
 * [SuperNova](https://supernova.to/) - Movies / TV / Anime 
 * [Vumoo](https://vumoo.to/) - Movies / TV 
 * [FshareTV](https://fsharetv.co/) - Movies 
-* [XEMovies](https://xemovie.com/) - Movies / TV
 * [Trailers.to](https://trailers.to/) - Movies / TV / [Bypass Quota](https://openvideofs.github.io/)
 * [Videoflicks](https://videoflicks.net/) - Movies
 * [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://imgur.com/a/EtLokxO)
@@ -127,7 +126,7 @@
 * [MovieHunters](https://movieshunters.com/) - Movies / TV
 * [Dogeflix](https://dogeflix.net/) - Movies / TV 
 * [Sauflix](https://www.sauflix.com/) - Movies / TV
-* [CMovies](https://cmovies.online/), [2](https://cmovies.is/) - Movies / TV / Anime
+* [CMovies](https://cmovies.is/) - Movies / TV / Anime
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
 * [YesHD](https://yeshd.net/) - Movies / TV
 * [Swatchfree](https://swatchfree.in/) - Movies / TV
@@ -135,7 +134,6 @@
 * [WatchSeriesHD](https://www4.watchserieshd.tv/) - Movies / TV / Anime 
 * [Vmovee](https://www.vmovee.watch/) - Movies / TV
 * [WatchMoviesFree](https://wmoviesfree.com/) - Movies
-* [GoWatchSeries](https://www1.gowatchseries.online/) - Movies / TV / Anime 
 * [Filmxy](https://www.filmxy.pw/) - Movies
 * [MoviesXK](https://moviexk.biz/) - Movies / TV
 * [KissMovies](https://www.kissmovies.io/) - Movies / TV
@@ -319,7 +317,7 @@
 * [AnimeGuru](https://www.animeguru.net/) - Sub / Dub
 * [AnimeEpisodes](https://ww6.animesepisodes.com/) - Sub / Dub
 * [GoAnimeList](https://goanimelist.me/) - Sub / Dub
-* [AnimeFrenzy](https://animefrenzy.org/), [2](https://www.animefrenzy.net/) - Sub 
+* [AnimeFrenzy](https://animefrenzy.org/) - Sub 
 * [Crimsonfansubs](https://crimsonfansubs.com/) - Sub
 * [AnimeXin](https://animexin.info/) - Sub
 * [AniWatcher](https://aniwatcher.com/) - Sub / Dub
@@ -382,7 +380,6 @@
 * [MKVDrama](https://mkvdrama.com/) - TV / Movies
 * [K-Vid](https://k-vid.co/) or [KShows](https://kshows.to/) - TV / Movies
 * [viewasian](https://viewasian.co/) - TV / Movies 
-* [ICDrama](http://icdrama.video/) - TV / Movies
 * [AsianEmbed](https://asianembed.io/) - TV / Movies
 * [DramaNice](https://dramanice.cx/) - TV
 * [DramaGO](https://dramago.su/) - TV
@@ -747,7 +744,6 @@
 * [Anime Devil](https://animedevil.com/) - Sub / Dub
 * [DameDesuYo](https://damedesuyo.com/) - Sub
 * [TokyoInsider](https://www.tokyoinsider.com/) - Sub
-* [Animebuzz](https://animebuzz.xyz/) - Sub / Dub / [Telegram](https://t.me/animebuzzofficial)
 * [Chiby](http://www.animechiby.com/) - Sub
 * [Kainime](https://kainime.com/) - Sub
 * [AnimeTV4U](https://animetv4u.com/) - Sub / Dub / [Telegram](https://t.me/Anim3TV4u)
