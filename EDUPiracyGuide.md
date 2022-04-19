@@ -25,12 +25,11 @@
 * **[CrunchLearn](https://www.crunchlearn.com/)** - Courses / [Telegram](https://t.me/joinchat/AAAAAEvVtydjvhe_w8kyPw)
 * **[Khan Academy](https://www.khanacademy.org/)** - Courses / [Downloader](https://github.com/rand-net/khan-dl)
 * **[Git.ir](https://git.ir/)** - Courses
-* **[PluralSight](https://visualstudio.microsoft.com/dev-essentials/)** - Free for 1 Month
+* **[PluralSight](https://visualstudio.microsoft.com/dev-essentials/)** - Free for 1 Month / [Decrypt Videos](https://github.com/phuonghd/Decrypt-PluralSight-Videos-GUI)
 * [Awesome CS](https://github.com/prakhar1989/awesome-courses/) - Courses
 * [OpenLearn](https://www.open.edu/openlearn/) - Courses
 * [Alison](https://alison.com/) - Courses
 * [EbookFoundation Courses](https://github.com/EbookFoundation/free-programming-books#free-online-courses) - Courses
-* [CertByte](https://certbyte.com/) - Courses 
 * [OpenCulture](https://www.openculture.com/freeonlinecourses) - Courses 
 * [DigitalGarage](https://learndigital.withgoogle.com/digitalgarage/courses) - Courses 
 * [Lagunita](https://online.stanford.edu/lagunita-learning-platform) - Courses 
@@ -132,6 +131,7 @@
 * **[freesoff](https://freesoff.com/)** - Courses
 * **[TutFlix](https://tutflix.org/)** - Courses / Drives 
 * **[Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_course_megadrives)** or **[Large Collection of Useful Mega DL's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_large_collection_of_useful_mega_dl.27s)**  - Courses / Drives
+* [Course Search Engine](https://cse.google.com/cse?cx=a02efb0346a176b46) - Search for Courses
 * [Reks Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive) - Courses
 * [11k+ Courses SpreadSheet](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_11k.2B_courses_spreadsheet) - Courses
 * [Christmas Share](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_christmas_share) - Courses
@@ -159,12 +159,21 @@
 * [5G GYAN](https://www.5ggyan.com/) - Courses 
 * [GameOfCourses](https://gameofcourses.com/) - Courses
 * [WSODownloads](https://www.wsodownloads.in/) - Courses
-* [HackingWorld](https://in.hackingworld.best/) - Courses
 * [Primetechie](https://forum.primetechie.com/) - Courses
 * [DuForum](https://duforum.in/) - Courses
 * [FreeTutorialsEU](https://www.freetutorialseu.com/) - Courses
 * [DL Course](https://dlcourse.org/) - Courses
 * [btechveda](https://btechveda.in/) - Courses
+* [onlinecoursebay](https://onlinecoursebay.com/) - Courses
+* [freecoursesonline](https://www.freecoursesonline.me/?1) - Courses
+* [freecourseslab](https://www.freecourseslab.com/category/course/) - Courses
+* [freecoursessites](https://www.freecoursessites.com/course/) - Courses
+* [tut4dl](https://tut4dl.com/) - Courses
+* [galaxytuts](https://galaxytuts.blogspot.com/) - Courses
+* [technet24](https://technet24.ir/category/videos) - Courses
+* [coursedown](https://coursedown.com/) - Courses
+* [cgpersia](https://cgpersia.com/category/download/learning) - Courses
+* [downloadpirate](https://www.downloadpirate.com/tutorials/) - Courses
 * [Free Udacity Skillshare Coursera EDX](https://t.me/Free_Udacity_Skillshare_Coursera) 
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
 * [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - Courses
@@ -417,7 +426,6 @@
 * **[Languages & Linguistics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_languages_.26amp.3B_linguistics)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - Language Learning Books
 * [Speechling](https://speechling.com/tools) - Language Learning Tools
 * [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [Conversation Exchange](https://www.conversationexchange.com/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - Language Learning Network
-* [yTalki](https://ytalki.com/) - Read Books in Other Languages
 * [E-books_432](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_e-books_432) - Vocabulary & Pronunciation Books
 * [Xuga](https://eng.ichacha.net/mpr/xuga.html) - Word Pronunciation Tool
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi-Language Dictionary Index
@@ -477,7 +485,6 @@
 * [DU Chinese](https://www.duchinese.net/) - Chinese Lessons
 * [Dong Chinese](https://www.dong-chinese.com/) - Chinese Lessons
 * [The Chairman's Bao](https://www.thechairmansbao.com/) - Chinese Reading Practice / News Articles
-* [FastChinese](https://fastchinese.org/) - Chinese Flashcards & Practice
 * [Pleco](https://www.pleco.com/) - Chinese Flashcards & Dictionary
 * [Popup Chinese](http://www.popupchinese.com/tools/adso) - Chinese Learning Tools
 * [YellowBridge](https://www.yellowbridge.com/) - Chinese Learning Tools
@@ -504,7 +511,7 @@
 
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
 * [OpenSong](http://www.opensong.org/) - Track Lyrics, Chords, Sheets & more
-* [Harmony](http://getharmony.net/), [ScoreCloud](https://scorecloud.com/) or [Chordify](https://chordify.net/) - Chord Detection / Transcriber
+* [ScoreCloud](https://scorecloud.com/) or [Chordify](https://chordify.net/) - Chord Detection / Transcriber
 * [Piano Scribe](https://piano-scribe.glitch.me/) - Piano Transcriber
 * [Sound Slice](https://soundslice.com/) or [Nootka](https://nootka.sourceforge.io/) - Sheet Music Learning
 * [LilyPond](http://lilypond.org/) - Music Engraving Program
@@ -590,7 +597,7 @@
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets 
 * [Answers Exchange](https://discord.gg/GFp9Rvr), [Toppr](https://www.toppr.com/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
-* [Chegg Answers](https://discord.gg/pV9UYRQBub), [2](https://www.istaunch.com/how-to-get-chegg-answers-for-free/#2_Free_Chegg_Answers_by_iStaunch), [3](https://creativesavantz.com/how-to-access-chegg-solutions-for-free/), [4](https://litanswers.net/get-free-chegg-answers/), [5](https://techpanga.com/free-chegg-answer/), [6](https://trickswire.com/free-chegg-answers/), [7](https://www.rootupdate.com/free-chegg-answers/) - Chegg Answer Tools
+* [Chegg Answers](https://www.istaunch.com/how-to-get-chegg-answers-for-free/#2_Free_Chegg_Answers_by_iStaunch), [2](https://creativesavantz.com/how-to-access-chegg-solutions-for-free/), [3](https://litanswers.net/get-free-chegg-answers/), [4](https://techpanga.com/free-chegg-answer/), [5](https://trickswire.com/free-chegg-answers/), [6](https://www.rootupdate.com/free-chegg-answers/) - Chegg Answer Tools
 * [Quizizz Cheat](https://github.com/gbaranski/quizizz-cheat) - Quizizz Answers Tool
 * [PXTrez](https://pxtrez.com/) - Kahoot Answers Tool
 * [ITExamAnswers.net](https://www.itexamanswers.net/) - IT Exam Answers
@@ -636,7 +643,7 @@
 * [AskNature](https://asknature.org/) - Natural Strategies / Solutions 
 * [Citation Generator](https://www.citationgenerator.com/), [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/) or [Cite This For Me](https://www.citethisforme.com/) - Generate Citations / [Chrome](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
-* [AMCharts](https://live.amcharts.com/), [Charttt](https://editor.charttt.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - Chart Creators
+* [AMCharts](https://live.amcharts.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - Chart Creators
 * [Data Gif Maker](http://datagifmaker.withgoogle.com/) - Animate Data 
 * [flowchart fun](https://flowchart.fun/) - Generate Flowchart From Text / [GitHub](https://github.com/tone-row/flowchart-fun)
 * [OpenBoard](https://openboard.ch/), [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboard
