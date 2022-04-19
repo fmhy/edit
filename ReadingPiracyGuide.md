@@ -169,7 +169,7 @@
 * [Zoboko](https://zoboko.com/) - Books
 * [Standard EBooks](https://standardebooks.org/) - Books
 * [Google Play Books](https://play.google.com/store/books/collection/topselling_free) - Books 
-* [Smashwords](https://www.smashwords.com/shelves/home/1/free/any) - Books 
+* [Smashwords](https://www.smashwords.com/shelves/home/1/free/any), [2(https://www.smashwords.com/books/category/1/newest/0/free/any) - Books 
 * [lesatkins](http://www.lesatkins.com/books/epubfiles/) - Books
 * [Flibusta](https://flibusta.is/) - Books / [Onion](http://flibustahezeous3.onion/) / [I2P](http://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / Requires account
 * [The Free Book Library](http://ebooks.i2p/) - Books / I2P Required
@@ -220,7 +220,6 @@
 * [EDoc](https://www.edoc.site/) - Books
 * [PDFDuck](https://pdfduck.com/) - Books 
 * [pdforigin](https://www.pdforigin.info/) - Books 
-* [LargePDF](https://largepdf.com/) - Books
 * [PDF Stop](https://pdfstop.com/) - Books
 * [freepdfbook](http://www.freepdfbook.com/) - Books 
 * [PDF Search Engine](http://www.pdfsearchengine.info/) - PDF Search Engine 
@@ -241,7 +240,6 @@
 * [Freeditorial](https://freeditorial.com/)
 * [Lit2Go](https://etc.usf.edu/lit2go/)
 * [Planet Publish](http://www.planetpublish.com/) 
-* [FullTextArchive](https://www.fulltextarchive.com/)
 * [Classics.mit](http://classics.mit.edu/index.html)
 * [sherlock-holm.es](https://sherlock-holm.es/) - Complete Sherlock Holmes Canon
 
@@ -355,7 +353,7 @@
 * [PublicBookShelf](http://www.publicbookshelf.com/) - Romance
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
 * [do_k_ument](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_do_k_ument) - Survival, Forging, Smithing, Weapons Training, Field Manuals
-* [Survivor Library](http://www.survivorlibrary.com/), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/), [Free Survival eBooks](https://www.defiel.com/free-survival-ebooks/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - Survival
+* [Survivor Library](http://www.survivorlibrary.com/), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - Survival
 * [SurvivalManual](https://ligi.de/) - Offline Survival Guide / [GitHub](https://github.com/ligi/SurvivalManual)
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
 * [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U), [PimpMyMind](https://pimpmymind.net/), [selfhelpbooklab](https://t.me/selfhelpbooklab), [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - Self-Help Books
@@ -417,6 +415,7 @@
 * [Lit GFax](https://lit.gfax.ch/)
 * [EDUBBookPDF](https://edubookpdf.com/)
 * [OpenED](https://open.bccampus.ca/)
+* [doabooks](https://doabooks.org/)
 * [Readings](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_readings)
 * [StruggleBuddies 4.0](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_strugglebuddies_4.0)
 * [pdfs - books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pdfs_-_books)
@@ -440,8 +439,10 @@
 * [FreeBookCentre](http://www.freebookcentre.net/)
 * [Wikiversity](https://www.wikiversity.org/) - Learning Resources, Guides, Quizzes, Tools & More
 * [OpenEdition](https://www.openedition.org/) - Educational Books / Journals 
+* [Dummies Store](https://t.me/dummiesbook) - Books for Dummies Collection 
 * [Saylor Academy](https://learn.saylor.org/) - Courses 
 * [eBookers](https://t.me/ebookers) - Telegram  
+* [Textbook Search Engine](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers), [2](https://cse.google.com/cse?cx=001639227550064093264:dznewka3cca) - Search for Textbooks
 * [Open Textbook Library](https://open.umn.edu/opentextbooks/) - Textbooks
 * [grade12books](https://t.me/grade12books) - Textbooks  
 * [TextBookGo](http://textbookgo.com/) - TextBooks
@@ -496,6 +497,7 @@
 * [Medical_Book_Bot](https://t.me/Medical_Book_Bot) - Medical / Telegram
 * [medrxiv](https://www.medrxiv.org/) - Medicine Preprints
 * [AllTradersLibrary](https://t.me/alltradersLibrary) - Market Trading Books
+* [businessbookmall](http://www.businessbookmall.com/), [2](http://www.textbooksfree.org/) - Accounting, Economics & Business 
 * [Brill](https://brill.com/) - International Law Books
 * [Lee B. Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_lee_b._drive) - Books / Black History / Educational
 * [RationalWiki](https://rationalwiki.org/) - Pseudoscience Refutation Wiki
@@ -785,7 +787,8 @@
 * [BookGN](http://www.bookgn.com/) - Downloads
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
 * [BookDL Comic & Manga](http://booksdl.org/comics0/) - Comics / Manga / Drive
-* [ComicBookPlus](https://comicbookplus.com/) - Classic Comics
+* [ComicBookPlus](https://comicbookplus.com/) - Golden Age Comics
+* [Comic Museum](https://digitalcomicmuseum.com/index.php) - Golden Age Comics
 * [GoComics](https://www.gocomics.com/) - Comics Strips
 * [Zahard](https://zahard.xyz/) - WebToons / [Telegram](https://t.me/fast_pass)
 * [Random Comic Generator 3.0](https://explosm.net/rcg) - Explosm Random Comic Generator
@@ -900,7 +903,6 @@
 * [CMReader](https://www.cmreader.info/)
 * [NiAdd](https://niadd.com/) 
 * [1stKissManga](https://1stkissmanga.com/), [2](https://1stkissmanga.io/), [3](https://1stkissmanga.love/)
-* [Mangazuki](https://mangazuki.me/) 
 * [mangaowls](https://mangaowls.com/) 
 * [mangapill](https://mangapill.com/) 
 * [projectsuki](https://projectsuki.com/) 
