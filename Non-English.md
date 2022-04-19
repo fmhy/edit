@@ -179,7 +179,7 @@
 * [uvod.tv](https://www.uvod.tv/) - Movies / TV / Anime
 * [2Tucc](http://www.2tu.cc/) - Movies / TV / Anime
 * [IcDrama](http://icdrama.video/) - Movies / TV
-* [Meiju](https://www.meiju11.com/) or [iMeiju](https://www.imeiju.net/) - Movies / TV
+* [iMeiju](https://www.imeiju.net/) - Movies / TV
 * [Nunu Cinema](https://www.nunuyy.com/) - Movies / TV
 * [Fun.tv](http://www.fun.tv/) - Movies / TV
 * [MeWatch](https://www.mewatch.sg/) - Movies / TV
@@ -317,7 +317,7 @@
 
 * [WawaCity](https://www.wawacity.video/), [2](https://www.wawacity.vip/) - Video / Audio / Books / Magazines / Software / Android / Use AdBlocker
 * [VK Streaming](https://vkstreaming.one/) - Movies / TV / Anime 
-* [DU Cine](https://www.ducine.co/) - Movies / TV
+* [DU Cine](https://www.ducine.site/) - Movies / TV
 * [French-Stream](https://french-stream.re/) - Movies / TV / Anime
 * [justseries](https://www.justseries.info/) - Movies / TV
 * [HDSS](https://hdss.la/) - Movies / TV / Anime 
@@ -404,7 +404,6 @@
 * [Burning Series](https://www.burning-series.net/) - Movies / TV / Anime / Needs VPN
 * [filmpalast](https://filmpalast.to/) - Movies / TV 
 * [movieking](https://movieking.cc/) - Movies
-* [Serien](https://serien.life/) - Movies / TV
 * [Film Palast](https://filmpalast.club/) - Movies / TV
 * [Kinox](https://www2.kinox.to/) - Movies / TV
 * [TopStreamFilm](https://www.topstreamfilm.com/) - Movies / TV
@@ -544,7 +543,6 @@
 * [HindiLinks4u](https://www.hindilinks4u.to/), [2](https://hindilinks4u.pro/) or [3](https://hindilinks4u.io/)  - Movies / TV
 * [Movies4](https://www.movies4.com.pk/) - Movies / TV 
 * [SerialGhar](https://serialghar.net/) - TV
-* [UWatchFree](https://www.uwatchfree.so/) - Movies / TV / [Telegram](https://t.me/uwatchfree1)
 * [FilmLinks4U](https://filmlinks4u.cc/) - Movies / TV
 * [DesiTVBox](https://www.desitellybox.me/) - TV
 * [Freewatchserialonline](https://freewatchserialonline.com/) - TV
@@ -607,7 +605,6 @@
 
 * [Bioskopkeren](https://bioskopkeren.black/) - Movies / TV 
 * [Fl1x](https://fl1x.com/) - Movies / TV 
-* [Filmapik](http://103.194.171.18/) - Movies / TV
 * [Dramamu](https://45.141.56.103/), [2](https://185.224.83.128/) - Movies / TV
 * [Neonime](https://neonime.site/) - Anime
 * [AnimeIndo](https://animeindo.link/) - Anime
@@ -838,7 +835,6 @@
 * [FilmBan](https://filmban.top/) - Movies / TV / Anime
 * [ValaMovie](https://valamovie.club/) - Movies / TV 
 * [Tik-Film](https://tik-film.com/) - Movies / TV 
-* [parsmovies](http://dl3.parsmovies.net/Movie/) - Movies
 * [NamaDL](http://namadl.ir/) - Movies / TV 
 * [GanjDL](http://www.ganjdl.ir/) - Movies / TV 
 * [KaranMovie](https://karanmovie.org/) - Movies / TV
@@ -899,14 +895,14 @@
 
 * [parsbook.com](https://www.parsbook.com/) - Educational / Programming / Engineering 
 * [iranpaper](https://iranpaper.ir/) - Documents 
+* [Afghanistandl](http://afghanistandl.nyu.edu/) - Historical Books
 * [Motamem](https://motamem.org/) - Courses / Iran ip required
 
 ***
 
 # ► Polish 
 
-* [StreamBase](https://thesb.eu/) - Warez List / [GitHub](https://github.com/RugFlipper/streambase) / [Discord](https://discord.gg/3wQ3WQabEp) / [Request](https://www.wykop.pl/ludzie/RugFlipper/)
-* [GSM Forum](https://gsmx.pl/) - Android Forum
+* [StreamBase](https://thesb.eu/) - Warez List / [GitHub](https://github.com/RugFlipper/streambase) / [Discord](https://discord.gg/3wQ3WQabEp)
 * [2nr](https://play.google.com/store/apps/details?id=pl.rs.sip.softphone) - Free Polish Phone Numbers
 
 ## ▷ Downloading
@@ -1037,7 +1033,6 @@
 * [DarkMahou](https://darkmahou.com/) - Anime
 * [AnskTracker](https://www.ansktracker.net/) - Anime WebIRC Tracker
 * [Torrent Jogos](https://torrentjogos.net/) - Games
-* [SuperGamesTorrent](https://supergamestorrents.net/) - Games
 * [thepiratejogos](https://thepiratejogos.tk/) - Games
 * [torrentgames](https://www.torrentgames.info/) - Games
 * [SuperGamesTorrent](https://supergamestorrent.net/) - Games
@@ -1045,7 +1040,6 @@
 * [RomGamesTorrent](https://romsgamestorrent.blogspot.com/) - Games
 * [MusicasTorrent](https://www.musicastorrent.com/) - MP3
 * [MusicaTorrents](http://musicatorrents.com/) - MP3
-* [baixarmusicabr](https://www.baixarmusicabr.com/) - MP3
 * [SuaMusica](https://www.suamusica.com.br/) - MP3
 * [CursoTorrent](https://www.cursostorrent.com/) - Courses
 * [Download Cursos](https://downloadcursos.top/) - Courses
@@ -1138,9 +1132,7 @@
 * [mundopodcast](https://mundopodcast.com.br/) - Podcasts
 * [kboingfm](https://www.kboingfm.com.br/podcast/) - Podcasts
 * [topflixapk](https://topflixapk.com/) - Streaming APK
-* [MegaFilmsHD](https://play.google.com/store/apps/details?id=me.filmeshd.mega) - Streaming APK
 * [TV Aberta](https://apkpure.com/br/tv-aberta-lite/tv.aberta.lite) - Live TV APK
-* [TV Online](https://play.google.com/store/apps/details?id=com.tvonline.master) - Live TV APK
 * [megafilmesbr](https://megafilmesbr.xyz/) - Movies / TV / Anime
 * [filmesonlinehdgratis](https://www.filmesonlinehdgratis.com.br/) - Movies / TV
 * [TasteMade](https://www.tastemade.com.br/) - Recipe Videos
@@ -1326,7 +1318,6 @@
 * [Torrent Igruha](https://torrent-igruha.ru/) - Games
 * [туттоп](https://tuttop.com/) - Games
 * [Small-Games](https://small-games.info/) - Games
-* [hit-muzik](https://hit-muzik.ru/) - MP3 
 * [opamuzika](http://www.opamuzika.ru/) - MP3  
 * [Muzick](https://muzick.ru/) - MP3
 * [Flactor](https://flactor.ru/) - FLAC
@@ -1382,7 +1373,6 @@
 * [livetv](http://livetv.sx/) - Live Sports  
 * [VIP-TV](https://vip-tv.club/) - IPTV Playlists
 * [myzuka](https://myzuka.club/) - Music
-* [muzlishko](http://www.muzlishko.ru/) - Music
 * [Tancpol](https://tancpol.net/) - Music
 * [Mixmuz](https://mixmuz.ru/) - Music
 * [MP3Hero](https://mp3hero.net/) - Music
@@ -1417,7 +1407,6 @@
 * [Litgu.ru](https://litgu.ru/) - Books / Audiobooks
 * [booktracker](https://booktracker.org/) - Books / Audiobooks / Comics / Magazines / NSFW 
 * [AniLabX](https://github.com/CrazyXacker/anilabx) - Manga / Comics / Light Novels
-* [readmanga](https://readmanga.live/) - Manga 
 * [mangalib.me](https://mangalib.me/) - Manga
 * [TwirPX](https://www.twirpx.com/) - Educational Books / Documents
 * [mmnt](https://www.mmnt.ru/) - Document Search 
@@ -1450,7 +1439,6 @@
 * [ZonaLeRoS](https://www.zona-leros.net/) - Video / Games
 * [GamesMega](https://gamesmega.net/) - Games / Roms 
 * [BajarJuegosPCgratis](https://bajarjuegospcgratis.com/) - Games
-* [divxonline](https://www.divxonline.tv/) - Movies / TV 
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - Movies
 * [SomosMovies](https://somosmovies.com/) - Movies 
 * [Mega MKV](https://mega-mkv.com/) - Movies
@@ -1848,7 +1836,6 @@
 * [MkvMoviesPoint](https://mkvmoviespoint.cc/) - Download / Movies / [Telegram](https://telegram.me/mkvpoint)
 * [4MovieRulz](https://4movierulz.gg/) - Download / Movies
 * [1xCinema](https://1xcinema.com/) - Download / Movies
-* [AltMovies](https://altmovies.org/) - Download / Movies / [Telegram](https://tttttt.me/bollyflixapp)
 * [DownloadHub](https://downloadhub.plus/) - Download / Movies / [Telegram](https://t.me/downloadhubcool1)
 * [Pendujatt](https://www.pendujatt.net/) - Download / Music
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Download / Music
