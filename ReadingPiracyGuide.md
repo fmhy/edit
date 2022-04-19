@@ -123,7 +123,7 @@
 * [e-Book Mecca](https://ebook-mecca.com/) - Books
 * [eBook4Expert](https://ebook4expert.net/) - Books 
 * [Chest of Books](https://chestofbooks.com/) - Books
-* [The Imperial Library of Trantor](https://trantor.is/) - Books / [.onion](https://trantor.is/http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/)
+* [The Imperial Library of Trantor](https://trantor.is/) - Books / [.onion](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/)
 * [All Books Hub](https://allbookshub.com/) - Books
 * [8ebooks](https://8ebooks.net/) - Books / Magazines
 * [ebooksz](https://www.ebooksz.net/) - Books
