@@ -712,6 +712,7 @@
 * [MOTV](http://motv.top/) - Movies / TV / Chromecast
 * [ROTV](https://rotv.xyz/) - Movies / TV
 * [CyroseHD](https://cyrosehd.com/) - Movies / TV
+* [Movies Cave](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_movies_cave_app) - Movies / TV
 * [Tuner Radio](https://www.downloader.world/) - Movies / TV
 * [Syncler](https://syncler.net/) - Movies / TV / [How-To](https://pastebin.com/VsiKV9rm)
 * [Rokkr](http://www.rokkr.net/) - Movies / TV / Add "huhu.to", "bs.to" or "oha.to"
