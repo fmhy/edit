@@ -433,7 +433,6 @@
 * [ColorNames](https://colornames.org/) - Help Name Colors
 * [Fontbutts](https://fontbutts.netlify.app/) - Create Butts with different fonts
 * [User Inyerface](https://userinyerface.com/) - The most annoying website
-* [ThisWebsiteWillSelfDestruct](https://www.thiswebsitewillselfdestruct.com/) - Self Destructing Website
 * [Storylocks](https://www.storylocks.com/) - Write Stories with different authors/friends
 * [LongestPoemInTheWorld](http://www.longestpoemintheworld.com/) - Matches Tweets to form Rhymes
 * [InspiroBot](https://inspirobot.me/) - Inspirational Quote Generator
@@ -442,7 +441,7 @@
 * [Dial Up Sound](https://www.dialupsound.com/) - Dial Up Sounds
 * [Chris Shier](https://www.csh.bz/) - Canvas Animations / GIFs 
 * [thisvid2 Web Edition](https://projectlounge.pw/thisvid2) - (Funny) Twitter Video Downloader
-* [StaggeringBeauty](http://www.staggeringbeauty.com/) - Wiggle a Worm, Have a Seizure 
+* [StaggeringBeauty](http://www.staggeringbeauty.com/) - Wiggle a Worm, Have a Seizure / Contains Flashing Images
 * [Keep calm and poke me.](https://calm.ovh/) - Poke & Pull 
 * [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en) - Lead a Blob Opera
 * [Incredibox](https://www.incredibox.com/demo/) - Make Beatboxing Beats
@@ -482,6 +481,7 @@
 * [Internet Map](http://internet-map.net/) - Map of the Internet
 * [Screentoys](https://www.screentoys.com/) - Photo Morphing Toy
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge A.I.
+* [Moral Machine](https://www.moralmachine.net/) - Machine Intelligence Moral Decisions
 * [Word Blanks](https://www.wordblanks.com/) or [Plot Generator](https://www.plot-generator.org.uk/) - Online Mad Libs
 * [Fun Trivia](https://www.funtrivia.com/), [Factle](https://factle.app/), [BeanBeanBean](https://beanbeanbean.com/) or [Sporcle](https://www.sporcle.com/) - Trivia
 * [ARealMe](https://www.arealme.com/) - Quiz Collection
@@ -851,6 +851,8 @@
 * [Global Wetlands](https://www2.cifor.org/global-wetlands/) - Wetlands Map
 * [Mindat](https://www.mindat.org/countrylist.php) - Mineral Deposits Map
 * [Terrain Party](https://terrain.party/) - Terrain Height Map
+* [topo maps](http://www.onlinetopomaps.net/) - Topographic Maps
+* [OpenRailwayMap](https://www.openrailwaymap.org/) - Railway Map
 * [Earth](https://earth.nullschool.net/) - Global Map of Wind, Weather, Ocean & Pollution Conditions
 * [SunCalc](https://www.suncalc.org/) or [MoonCalc](https://www.mooncalc.org/) - Sun & Moon Position / Phase Calculators 
 * [Shadowmap](https://app.shadowmap.org/) or [ShadeMap](https://shademap.app/) - Solar Shadow Map
@@ -1282,7 +1284,7 @@
 
 * **[Userscript Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_userscript_managers)**
 * **[Greasy Fork](https://greasyfork.org/en)**, [Userscripts](https://userscripts-mirror.org/) or [OpenUserJS](https://openuserjs.org/) - Install Userscripts / [Change Theme](https://greasyfork.org/en/scripts/4336) / [Remove Crap](https://greasyfork.org/en/scripts/12179-greasyfork-bull-filter)
-* [Userscript.zone](https://www.userscript.zone/) - Userscript Search 
+* [Awesome Userscripts](https://github.com/bvolpato/awesome-userscripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Index
 * [darkmode.js](https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c) - Dark Mode Script
 * [Hcaptcha Solver](https://greasyfork.org/en/scripts/425854) or [Recaptcha Solver](https://greasyfork.org/en/scripts/430593) - Captcha Solvers
 * [Solved Media Plus](https://greasyfork.org/en/scripts/422074-solved-media-plus) - Image Captcha Solver
