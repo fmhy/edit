@@ -429,7 +429,6 @@
 * [Flatout 2 Fan Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2414295888) - Patch for Flatout 2
 * [Synergy2k](https://synergy2k.net/) - NBA 2K MyCareer Mod Tool
 * [Forza Painter](https://github.com/forza-painter/forza-painter) - Import Images to Forza
-* [Paydaymods](http://paydaymods.com/) - Payday 2 Mods
 * [Superblt](https://superblt.znix.xyz/) - Payday 2 Modding Tool
 * [Payday 2 FPS Boost](https://steamcommunity.com/sharedfiles/filedetails/?id=1933473710) - Payday 2 FPS Boost Mod List
 * [NFSMods](https://nfsmods.xyz/home) or [Project Unite](https://discord.com/invite/3F6vEyp) - Need for Speed Mods
