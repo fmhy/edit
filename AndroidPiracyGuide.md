@@ -579,7 +579,7 @@
 
 * **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Modded / [App](https://forum.mobilism.org/app/)
 * **[Libera](http://librera.mobi/)**  - Ebook Reader
-* **[Tachiyomi](https://tachiyomi.org/)** - Manga Reader
+* **[Tachiyomi](https://tachiyomi.org/)** - Manga / Comic Reader
 * Tachiyomi Tools - [Github Releases](https://github.com/tachiyomiorg/tachiyomi) / [Forks](https://tachiyomi.org/forks/#forks) / [Discord](https://discord.com/invite/tachiyomi) / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/)
 * [MoonDownload](http://www.moondownload.com/) - Ebook Reader
 * [CoolReader](https://apt.izzysoft.de/fdroid/index/apk/org.coolreader) - Ebook Reader
@@ -603,6 +603,7 @@
 * [Neko](https://github.com/CarlosEsco/Neko) - Manga Reader
 * [Manga Tag](https://www.mangatag.com/) - Manga Reader
 * [Meow](https://github.com/neverfelly/Meow) - Manga Reader
+* [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - Comic Reader
 * [Shosetsu](https://shosetsu.app/) - Light Novels / [GitHub](https://github.com/ShosetsuOrg/android-app) / [Dev Builds](https://github.com/shosetsuorg/shosetsu-preview) / [Discord](https://discord.gg/ttSX7gB) 
 * [NovelLibrary](https://github.com/gmathi/NovelLibrary) - Light Novel Reader / [Discord](https://discord.gg/qFZX4vdEdF)
 * [LNReader](https://github.com/LNReader/lnreader) - Light Novel Reader
@@ -1159,6 +1160,7 @@
 * [Paperback](https://paperback.moe/) - Manga Reader / [Discord](https://discord.gg/Ny83JV3)
 * [Manga Max](https://apps.apple.com/us/app/apple-store/id1558957618) - Manga Reader
 * [Manga Bird](https://apps.apple.com/us/app/manga-bird-best-manga-reader/id834760417) - Manga Reader
+* [ComicFlow](https://github.com/swisspol/ComicFlow) - Comic Reader
 * [NovelReader](https://github.com/ppraveentr/NovelReader) - Light Novels
 * [NovelLoop](https://apps.apple.com/in/app/novelloop/id1170755867) - Light Novels
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - Borrow Digital Library Books
