@@ -257,7 +257,7 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 #### Damon's Game Soundtracks
 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVRKeVBvWUVnUWpFU253d1ktU2pXY2xyUFZlWExsVjF4P3VzcD1zaGFyaW5nCmh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzF5dk44RUJOMFRZajcxQUt1MkE2cWhpcEVvLTQ0MHVzcz91c3A9c2hhcmluZw==`
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU5KME5BYlNYbm5kVHZ5NEdnUmJkdTdIMnBOWHZrdTZpP3VzcD1zaGFyaW5n`
 
 ***
 
@@ -963,7 +963,7 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 #### Damon's Collection of Game Artbooks
 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVpabXBnZzZBNDdHdGxJZG5SdmFSQmJUYWYyQnJYdGRJP3VzcD1zaGFyaW5nCmh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzF1ajZiLVE0TzY3Z3BQajFPYkJRYktmRVBWU3NQMGpmWD91c3A9c2hhcmluZw==`
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW5TTklmVHo4TjFQTDBmeDlxQWhjQ2hsbWNCa2tiYkQzP3VzcD1zaGFyaW5n`
 
 *** 
 
