@@ -289,6 +289,7 @@
 * [AnimeDao](https://animedao.to/) - Sub
 * [AnimeSanka](https://animesanka.com/) - Sub / Dub 
 * [AniStream](https://anistream.fun/) - Sub
+* [MasterAni](https://www.masterani.one/) - Sub / Dub 
 * [Array Anime](https://www.arrayanime.com/) - Sub / Dub 
 * [LMAnime](https://lmanime.com/) - Sub
 * [Pantsubase](https://pantsubase.tv/) - Sub / Dub 
