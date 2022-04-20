@@ -1925,3 +1925,9 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 #### FL Studio
 
 `aHR0cHM6Ly93d3cuZG93bmxvYWRoYS5jb20vP3M9Zmwrc3R1ZGlv`
+
+*** 
+
+#### 672GB Comic Drive
+
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVRfbEJiUWxIM0RPQU9kelBhQk9aanZBNFZFSGdoR2Z0`
