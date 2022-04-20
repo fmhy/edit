@@ -1283,6 +1283,7 @@
 ## ▷ Userscripts
 
 * **[Userscript Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_userscript_managers)**
+* **[Userscripts Guide](https://rentry.co/userscript-guide)**
 * **[Greasy Fork](https://greasyfork.org/en)**, [Userscripts](https://userscripts-mirror.org/) or [OpenUserJS](https://openuserjs.org/) - Install Userscripts / [Change Theme](https://greasyfork.org/en/scripts/4336) / [Remove Crap](https://greasyfork.org/en/scripts/12179-greasyfork-bull-filter)
 * [Awesome Userscripts](https://github.com/bvolpato/awesome-userscripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Index
 * [darkmode.js](https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c) - Dark Mode Script
