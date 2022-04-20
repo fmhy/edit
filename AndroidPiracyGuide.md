@@ -766,7 +766,7 @@
 * [AnimeFanz Tube](https://apkpure.com/anime-fanz-tube/com.animefanzapp.tube)
 * [KATSU](https://katsu.pw/) - [Discord](https://discord.gg/gjcy6MQ)
 * [Anime-DL](https://github.com/sharn25/Anime-DL-Android-Verison) - Download Anime / [Discord](https://discord.gg/Ee3fegN) 
-* [MALClient](https://github.com/Drutol/MALClient), [AnYme](https://github.com/zunjae/anYme), [MyAnimeList Client](https://play.google.com/store/apps/details?id=net.myanimelist.app), [Anidex](https://github.com/rajarsheechatterjee/anidex-app), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Otraku](https://play.google.com/store/apps/details?id=com.otraku.app) or [AniLib](https://anilib.onrender.com/) - Anime Tracker
+* [MALClient](https://github.com/Drutol/MALClient), [AnYme](https://github.com/zunjae/anYme), [MyAnimeList Client](https://play.google.com/store/apps/details?id=net.myanimelist.app), [Anidex](https://github.com/rajarsheechatterjee/anidex-app), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Otraku](https://play.google.com/store/apps/details?id=com.otraku.app), [AniTrend](https://anitrend.co/) / [GitHub](https://github.com/AniTrend/anitrend-app ) or [AniLib](https://anilib.onrender.com/) - Anime Tracker
 
 ***
 
