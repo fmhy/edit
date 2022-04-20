@@ -1919,3 +1919,9 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 #### Movies Cave App
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQXF5U3BjUXlRQXJWVXV3YUkzNDB4WEtvcmdaa0V1TVMvdmlldz91c3A9ZHJpdmVzZGsK`
+
+***
+
+#### FL Studio
+
+`aHR0cHM6Ly93d3cuZG93bmxvYWRoYS5jb20vP3M9Zmwrc3R1ZGlv`
