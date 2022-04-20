@@ -776,6 +776,7 @@
 
 * [MangaViewAndroid](https://github.com/junheah/MangaViewAndroid) - Manga / Android
 * [Dict.Naver](https://dict.naver.com/) - Korean Dictionary
+* [Namu Wiki](https://namu.wiki/) - Korean Wiki 
 
 ***
 
