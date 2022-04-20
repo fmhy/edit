@@ -801,8 +801,6 @@
 * [findxkcd](https://xkcd-search.typesense.org/) - Browse xkcd Comics
 * [Cover](http://www.frenchfrysoftware.com/cover/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Reader / Manager
 * [MComix](https://sourceforge.net/p/mcomix/wiki/Home/) - Reader
-* [Tachiyomi](https://tachiyomi.org/) or [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - Manager / Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / Android 
-* [ComicFlow](https://github.com/swisspol/ComicFlow) - Manager / Reader / iOS
 * [ComicFury](https://comicfury.com/) - User-made Webcomics
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Web Comic Reader
 * [Webcomix](https://github.com/J-CPelletier/webcomix) - Webcomics Downloader
