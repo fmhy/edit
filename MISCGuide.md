@@ -1204,8 +1204,9 @@
 * [Audio Channel](https://chrome.google.com/webstore/detail/audio-channel/hafdgamhnmiioimpcdhhbhgcjndgmphd) - Tab Audio Manager
 * [Smart Mute](https://chrome.google.com/webstore/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh) - Tab Mute Manager
 * [Audio Capture](https://github.com/arblast/Chrome-Audio-Capturer) - Audio Recorder
-* [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn) - Text Summary Generator
 * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) or [Volume Master](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - Increase Browser Volume
+* [Audion](https://github.com/GoogleChrome/audion) - Web Audio Graph Visualizer
+* [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn) - Text Summary Generator
 * [Poster](https://install.get-poster.com/) - Quick Link Share
 * [Blackbox](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) - Copy Text from Videos and Images
 * [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en) - Extract Email ID's from Webpages
