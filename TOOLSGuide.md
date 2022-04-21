@@ -188,6 +188,7 @@
 * [Delim](https://delim.co/) - Comma Separating Tool
 * [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - Create Parallel text Web
 * [Count Duplicates](https://www.somacon.com/p568.php) or [MyNikko](http://www.mynikko.com/tools/tool_duplicateremover.html) - Count / Remove Duplicates in a List
+* [TextCompare](https://www.textcompare.org/) - Compare Text
 * [Count Wordsworth](http://countwordsworth.com/) - Count Words in a List 
 * [OfficeDocs](https://www.offidocs.com/) - Runs Desktop / Mobile Apps Online
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
@@ -351,6 +352,7 @@
 * [MakeMKV](https://www.makemkv.com/) - Create MKV From Blu-Ray / DVD 
 * [ImgBurn](https://www.imgburn.com/), [DeepBurner](http://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
 * [VidCoder](https://vidcoder.net/) - DVD / Blu-Ray Ripping
+* [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-Ray Ripping
 * [DVDFab](https://www.dvdfab.cn/free.htm) - Free DVD Related Programs 
 * [h265ize](https://github.com/FallingSnow/h265ize) - HEVC Encoder / [Enhanced](https://github.com/alextrv/enhanced-h264ify) 
 * [Monzoom](https://www.monzoom.com/) - Video Assets
@@ -458,6 +460,7 @@
 * [Deemixrr](https://github.com/TheUltimateC0der/Deemixrr) - Automated Music Manager 
 * [FFmpeg](https://ffmpeg.org/) - Video / Audio Recorder, Converter & Streaming
 * FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom), [3](https://jeanslack.github.io/Videomass/) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite)
+* [Arduino Audio Tools](https://github.com/pschatzmann/arduino-audio-tools) - Audio Recorder
 * [SonoBus](https://sonobus.net/) - Audio Server for Streaming
 * [Audio Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_converters) - Audio Conversion Sites & Programs
 * [Faasoft FLAC Converter](https://www.faasoft.com/articles/flac-converter-mac-and-windows.html) - FLAC Converter
@@ -506,6 +509,7 @@
 * [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - Pop Song Sample Mixer
 * [Nightcore Maker](https://nightcoremaker.com/) - Create Nightcore Versions of Songs
 * [CSound](https://csound.com/) - Music Computing System
+* [GoAudio](https://github.com/DylanMeeus/GoAudio) - Audio Processing Library 
 * [Helio](https://helio.fm/) - Music Composition Software
 * [AudioAlter](https://audioalter.com/preset/8d-audio) - Create '8D' Audio
 * [Karaoke Maker](https://www.edityouraudio.com/karaoke-maker), [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - Create Karaoke Songs
