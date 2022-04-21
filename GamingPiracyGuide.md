@@ -677,7 +677,6 @@
 * [The Flash Emulation Repair Shop](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_flash_emulation_repair_shop) - Flash Games Under Repair
 * [Arcade Prehacks](http://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
 * [How-To Play Flash Games](https://rentry.co/oc4wc) - Browser Flash Game Tutorial
-* To Play Shockwave Games Install [Adobe Shockwave](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html) & [K-Meleon Browser](http://kmeleonbrowser.org/)
 
 ***
 
