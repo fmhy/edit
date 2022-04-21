@@ -212,7 +212,6 @@
 * [KuPDF](https://kupdf.net/) - Books 
 * [ePDF](https://epdf.pub/) - Books 
 * [PDFCookie](https://pdfcookie.com/) - Books
-* [SoPDF](http://www.sopdf.com/) - Books 
 * [PDFSearches](https://pdfsearches.com/) - Books
 * [OiiPDF](https://oiipdf.com/) - Books
 * [FindPDFDoc](http://www.findpdfdoc.com/) - Books 
@@ -1146,11 +1145,11 @@
 * **[eBoox](https://eboox.ru/en/)** - Ebook Reader / Android / iOS
 * **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader.html)** - PDF Reader
 * **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
-* [Mobile Read](https://www.mobileread.com/) - E-Book / Reader Discussion Forum
+* [Mobile Read](https://www.mobileread.com/) - EBook / Reader Discussion Forum
 * [Ubooquity](http://vaemendis.net/ubooquity/) - Manager / Reader / PC / Android / iOS
 * [KoReader](http://koreader.rocks/) - Ebook Reader / PC / Android
 * [FBReader](https://fbreader.org/) - Ebook Reader / PC / Android / iOS
-* [Koodo](https://koodo.960960.xyz/) - Ebook Reader / PC / Mac / Linux
+* [Koodo](https://koodo.960960.xyz/) - Ebook Reader / PC / Mac / Linux / [GitHub](https://github.com/troyeguo/koodo-reader)
 * [Thorium](https://www.edrlab.org/software/thorium-reader/) - Ebook Reader / PC / Mac / Linux 
 * [CoolReader](https://github.com/buggins/coolreader) - Ebook Reader / PC / Linux
 * [Icecream eBook Reader](https://icecreamapps.com/Ebook-Reader/) - Ebook Reader / PC
