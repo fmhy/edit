@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/bWIJHK3.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/n0IbkOa.png)** - For mobile users
 
 ***
 ***
@@ -1066,7 +1066,6 @@
 * [SuperFlixHD](https://superflixhd.net/) - Movies / TV
 * [animevibe](https://animevibe.top/) - Anime
 * [animeszone](https://animeszone.net/) - Anime
-* [anicdn](https://www.anicdn.net/) - Anime
 * [NewZect](https://newzect.com/) - Asian Drama
 * [99 Media](https://www.99.media/pt/) - Documentaries
 * [verfutebol](https://verfutebol.tv/) - Live Sports
@@ -1157,16 +1156,13 @@
 * [ArteHQs](http://www.artehqs.com.br/) - Comics
 * [TropaBRScans](https://tropabrscans.blogspot.com/) - Comics
 * [MegaMeeya](https://megameeya.wordpress.com/) - Manga
-* [MuitoManga](https://muitomanga.com/) - Manga
 * [TsukiMangas](https://www.tsukimangas.com/) - Manga
-* [MangaLivre](https://mangalivre.net/) - Manga
 * [Global.Toomics](https://global.toomics.com/br) - Manga
 * [brmangas](https://www.brmangas.com/) - Manga
 * [mangahost4](https://mangahost4.com/) - Manga
 * [mangayabu](https://mangayabu.top/) - Manga
 * [NeoxScans](https://neoxscans.net/) - Manga
 * [meusmangas](https://meusmangas.net/) - Manga
-* [YabuToons](https://yabutoons.com/) - Manga
 * [instintomangaka](https://www.instintomangaka.com/baixar-mangas/) - Manga
 * [Kiniga](https://kiniga.com/) - Light Novels
 * [NovelMania](https://novelmania.com.br/) - Light Novels
@@ -1531,7 +1527,6 @@
 * [lelibros](https://lelibros.online/) - Books 
 * [Lectulandia](https://www.lectulandia.rocks/) - Books
 * [ePub Gratis](https://wvw.epubgratis.org/) - Books 
-* [cvillavicencio](https://www.cvillavicencio.com/archivos/?dir=ebooks) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
 * [librosintinta](https://www.librosintinta.in/) - PDF Search
 * [albalearning](https://albalearning.com/) - Audiobooks 
@@ -1582,17 +1577,12 @@
 
 # ► Thai 
 
-## ▷ Downloading
-
-* [anime-sugoi](https://anime-sugoi.com/) - Anime / [Proxy](http://free-proxy.cz/en/proxylist/country/TH/all/ping/all)
-
 ## ▷ Streaming 
 
 * [movie222hd](https://movie222hd.com/) - Movies / TV 
 * [doomovie-hd](https://www.doomovie-hd.com/) - Movies / TV 
 * [037hdmovie](https://www.037hdmovie.com/) - Movies 
 * [movie11](https://movie11.com/) - Movies 
-* [anime-sugoi](https://anime-sugoi.com/) - Anime / [Proxy](http://free-proxy.cz/en/proxylist/country/TH/all/ping/all)
 
 ## ▷ Reading
 
