@@ -344,6 +344,7 @@
 * [Photoshop Repeating Action Script](https://gist.github.com/ajazsiddiqui/72bbf376ad387e1f76bfad777f66d7a3) - Automate Photoshop
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - Image Color Scatter Plot 
 * [resdet](https://github.com/0x09/resdet) - Detect if an Image is Upscaled
+* [detectron2](https://github.com/facebookresearch/detectron2) - Object / Human Detection
 * [lbpcascade animeface](https://github.com/nagadomi/lbpcascade_animeface) - Detect Anime Faces
 * [VisiPics](http://www.visipics.info/) - Duplicate Photo Remover 
 * [behind!](https://github.com/kubuzetto/behind) - View Background Images   
