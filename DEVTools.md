@@ -154,9 +154,10 @@
 * [Web Skills](https://andreasbm.github.io/web-skills/) - Web Development Guides
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Collection of Project-Based Tutorials
 * [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn Swift and build iOS App Building
-* [SwiftDump](https://github.com/neil-wu/SwiftDump) - Retreive Swift Object info from Mach-O file
+* [SwiftDump](https://github.com/neil-wu/SwiftDump) - Retrieve Swift Object info from Mach-O file
 * [WeCreators](https://www.wecreators.co/creators-tools) - Site Development / Influencer Courses
 * [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git Branching Guide
+* [Awesome Microservices DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - .Net Microservice Guides
 * [Flutter Tips and Tricks](https://github.com/vandadnp/flutter-tips-and-tricks) - Flutter Tips and Tricks
 * [Learn SQL](https://sqlbolt.com/) or [Top Database Bundle](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_top_database_bundle) - SQL Lessons
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - PostgreSQL Tutorial
@@ -250,6 +251,7 @@
 * [Insomnia](https://insomnia.rest/) - API Client
 * [hoppscotch](https://hoppscotch.io/) - API Development Ecosystem / [GitHub](https://github.com/hoppscotch/hoppscotch)
 * [APIKit](https://github.com/API-Security/APIKit) - API Security Tools
+* [Kubescape](https://github.com/armosec/kubescape) - Kubernetes Tool
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - Microservice Architecture Resource Index
 * [LibreLogos](https://www.librelogos.org/) or [LogoTaco](https://www.logotaco.com/) - Project Logos
 * [Lorem.space](https://lorem.space/) - Placeholder Images
