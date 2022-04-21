@@ -42,6 +42,7 @@
 * [Librespot-Python](https://github.com/kokarare1212/librespot-python) - Spotify TUI
 * [Deezer Linux](https://github.com/aunetx/deezer-linux) - Deezer Client
 * [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader
+* [bookworm](https://github.com/babluboy/bookworm) - Elementary OS Ebook Reader 
 * [Evince](https://wiki.gnome.org/Apps/Evince) - PDF / DjVu Reader
 * [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - Free Ubuntu VNC
 * [ANoise](http://anoise.tuxfamily.org/) - Ambient Sounds for Ubuntu 
