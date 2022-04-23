@@ -914,6 +914,7 @@
 * [JDec](https://jdec.app/) - Online JavaScript Decompiler
 * [anime.js](https://animejs.com/) - JavaScript Animation Library / [GitHub](https://github.com/juliangarnier/anime/)
 * [randomcolor](https://randomcolor.lllllllllllllllll.com/) - Random Javascript Color Generator
+* [recognizer](https://github.com/equiet/recognizer) - Semantic Highlighting for JavaScript Development
 * [Microdiff](https://github.com/AsyncBanana/microdiff) - Object and Array Comparison Library
 * [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
 * [Bundlephobia](https://bundlephobia.com/) - Find Cost of Adding npm Package
