@@ -23,7 +23,7 @@
 * **[Movies4Discord](https://discord.gg/UJ9cS2kP3B)** - Movies / TV / 1080p Only / [Website](https://movies4discord.xyz/)
 * **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
 * **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
-* **[Ask4movies](https://ask4movie.io/)** - Movies / TV / [Adblock Script](https://pastebin.com/N58Vbyhw)
+* **[Ask4movies](https://ask4movie.io/)** - Movies / TV / / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
 * **[PrivateHD](https://www.privatehd.xyz/)** - Movies / TV
 * **[M4uFree](https://ww1.m4ufree.com)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * **[Soap2Day](https://soapgate.org/)** - Movies / TV
@@ -37,7 +37,7 @@
 * [NetU](https://netu.io/view_page.php?pid=4) - Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)
 * [Shoow.in](https://shoow.in/) - Movies / TV / Anime / [Unlock HD](https://pastebin.com/hxdq1uFi)
 * [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime
-* [SockShare](http://sockshare.ac/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones)
+* [SockShare](http://sockshare.ac/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones) / Use Adblock
 * [Ling.online](https://ling.online/en/videos/films/) - Movies / TV
 * [OpenloadMovies](https://openloadmov.net/) - Movies / TV
 * [162.12.215.254](http://162.12.215.254/) - Movies
