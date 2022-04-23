@@ -105,6 +105,7 @@
 * [Podbean](https://www.podbean.com/) - Podcasts
 * [Podbay](https://podbay.fm/) - Podcasts
 * [Google Podcasts](https://podcasts.google.com/) - Podcasts
+* [podcastindex](https://podcastindex.org/) - Podcasts
 * [DigitalBook](https://www.digitalbook.io/) - Podcasts
 * [player.fm](https://player.fm/) - Podcasts
 * [Relay.fm](https://www.relay.fm/) - Podcasts
