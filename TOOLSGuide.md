@@ -253,6 +253,7 @@
 
 ## ▷ Video Tools
 
+* **[Awesome Video](https://github.com/krzemienski/awesome-video)** - Video Tool Index
 * **[Video Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_players)** - Video Players & Tools
 * **[Media Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_servers)** - Servers to Host / Play Media 
 * **[Video Stream Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_stream_sync)** - Video Streaming Sync / Watch Parties
@@ -584,6 +585,7 @@
 * [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) or [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) - Common Interview Questions & Answers
 * [LeetFree](https://sksusha8853.github.io/leetcode/index.html) - Leaked Google, Facebook & Amazon Interview Questions
 * [Interviews.school](https://interviews.school/) - Developer Interview Preparation Guide
+* [yangshun](https://github.com/yangshun/tech-interview-handbook) - Tech Interview Handbook 
 * [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
 * [Nomad List](https://nomadlist.com/) - Remote Work Listings
 * [web3.career](https://web3.career/) - Web3 Job Offers
@@ -858,7 +860,7 @@
 
 * **[Alternative Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_search_engines)** or **[Search-Engine](https://start.me/p/wM7y15/search-engine)** - Search Engine Indexes
 * **[Privacy Based Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
-* **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)** - Custom Search Engine Index
+* **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)** or [awesome-custom-search-engines](https://github.com/davzoku/awesome-custom-search-engines) - Custom Search Engine Index
 * [100 Search Engines](https://www.100searchengines.com/) - Search With 100 Search Engines
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g#gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea#gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Search General Streaming Sites
 * [Video Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0) - Search YouTube Like Video Sites
@@ -1412,7 +1414,6 @@
 * [7TV](https://7tv.app/ ) - Twitch Emotes Extension
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink 
 * [get stream](https://pwn.sh/tools/getstream.html) - Extract Twitch URLs
-* [PogU.live](https://pogu.live/) - Watch Twitch Sub-Only Videos
 * [nobody.live](https://nobody.live/) or [Twitch Roulette](https://twitchroulette.net/) - Random Stream Roulette
 * [Stream Clicker](https://streamclicker.io/) - Random Twitch Streamers 
 * [Pogged](https://pogged.tv/) - Twitch Highlights Stream
@@ -1815,6 +1816,7 @@
 * [DependecyWalker](https://www.dependencywalker.com/) or [Dependencies](https://github.com/lucasg/Dependencies) - View Application Dependencies 
 * [store.rg](https://store.rg-adguard.net/) - Microsoft Store Link Generator 
 * [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) - Add Microsoft Store to Windows
+* [Vantage](https://rentry.co/lenbian) - Lenovo Vantage Without MS Store
 * [Edgeuninstaller](https://rentry.org/uninstalledge) - Completely Uninstall Microsoft Edge
 * [Windows on Raspberry](https://www.worproject.ml/) - Windows for Raspberry Pi
 * [amogOS](https://github.com/jostroOS/amogOS) - Rasberry Pi OS
