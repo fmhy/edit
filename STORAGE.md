@@ -1195,7 +1195,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Modded Minecraft Launchers
 
-**[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/) / [Tweaks](https://github.com/RichardDorian/Solar-Tweaks) / [Colors](https://github.com/couleur-tweak-tips/Moony), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [ATLauncher](https://atlauncher.com/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/)
+**[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/) / [Colors](https://github.com/couleur-tweak-tips/Moony), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [ATLauncher](https://atlauncher.com/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/)
 
 ***
 
