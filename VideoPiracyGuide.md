@@ -464,6 +464,7 @@
 * [LM Shows](https://lmshows.se/) - TV
 * [TVOnline.Liveschauen](https://tvonline.liveschauen.com/) - TV 
 * [WwiTv](https://wwitv.com/) - TV
+* [puffer](https://puffer.stanford.edu/) - TV 
 * [WorldCupFootball](http://www.worldcupfootball.me/) - Sports
 * [6stream](http://6stream.xyz/) - Sports
 * [FLS](http://go.freestreams-live1.com/) - Sports / [Discord](https://discord.gg/UKEjyPEaYG)
