@@ -622,6 +622,7 @@
 * [Connected Papers](https://www.connectedpapers.com/) or [LitMaps](https://app.litmaps.co/) - Find Connected Academic Papers 
 * [FreeFullPDF](https://freefullpdf.com/) - Science / Articles
 * [KUNDOC](https://coek.info/) - Science / Articles
+* [Papers We Love](https://paperswelove.org/) - Science / Articles / [GitHub](https://github.com/papers-we-love/papers-we-love)
 * [Springer](https://link.springer.com/) - Science / Articles
 * [Science.gov](https://www.science.gov/) - Science / Articles / Documents 
 * [Liebertpub](https://liebertpub.com/) - Science / Journals / Papers / Books
