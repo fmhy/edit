@@ -582,12 +582,13 @@
 * [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) - Successful Resume Samples
 * [CoFolios](https://cofolios.com/) - Portfolio Sharing
 * [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - Cover Page Templates
-* [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) or [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) - Common Interview Questions & Answers
+* [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) or [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) or [30-seconds-of-interviews](https://30secondsofinterviews.org/) / [GitHub](https://github.com/30-seconds/30-seconds-of-interviews) - Common Interview Questions & Answers
 * [LeetFree](https://sksusha8853.github.io/leetcode/index.html) - Leaked Google, Facebook & Amazon Interview Questions
 * [Interviews.school](https://interviews.school/) - Developer Interview Preparation Guide
 * [yangshun](https://github.com/yangshun/tech-interview-handbook) - Tech Interview Handbook 
 * [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
 * [Nomad List](https://nomadlist.com/) - Remote Work Listings
+* [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - Remote Job Resources
 * [web3.career](https://web3.career/) - Web3 Job Offers
 * [moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - Company / Startup Applications
 * [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - Online Working Subreddit
@@ -1349,6 +1350,7 @@
 * [Anilyzer](http://anilyzer.com/) - Watch YouTube Videos in Slow Motion & Frame by Frame 
 * [YouTube Playlist Search](https://greasyfork.org/en/scripts/14370-youtube-playlist-search) - Quickly Search YouTube Playlists
 * [Playlist Creator for YouTube](https://chrome.google.com/webstore/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - Easily Create Playlists
+* [ytcc](https://github.com/woefe/ytcc) - Playlist Manager
 * [Bookmark It](https://bookmark-it.happydevelopers.co/) - Bookmark YouTube Videos
 * [Blocked](https://watannetwork.com/tools/blocked/) or [YouTube Region Checker](http://polsy.org.uk/stuff/ytrestrict.cgi) - Youtube Region Restrictions Check
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Shows YouTube File Sizes 
