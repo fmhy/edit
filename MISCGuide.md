@@ -17,7 +17,7 @@
 * **[Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)** - List Index 
 * **[Awesome](https://github.com/sindresorhus/awesome)** - List Index  / [Search](https://awesomelists.top/), [2](https://awesome-indexed.mathew-davies.co.uk/) / [Stumble](https://github.com/basharovV/StumbleUponAwesome) / [CLI](https://github.com/umutphp/awesome-cli)
 * **[Awesome List Index](https://github.com/topics/awesome)** - List Index 
-* **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)** or [awesome-github](https://github.com/fffaraz/awesome-github) - List Indexes
+* **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [awesome-lis](https://github.com/topics/awesome-list) or [awesome-github](https://github.com/fffaraz/awesome-github) - List Indexes
 * **[lists](https://github.com/jnv/lists)** - List Index 
 * **[Get Awesomeness](https://getawesomeness.herokuapp.com/)** - List Index
 * **[Curlie](https://curlie.org/)** - Topic Directory 
