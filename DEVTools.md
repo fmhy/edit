@@ -305,6 +305,7 @@
 * [Flux](https://www.runonflux.io/) - Decentralized Cloud Infrastructure
 * [Web Designer News](https://www.webdesignernews.com/) - Web Design News
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - Web Developer Multireddit
+* [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
 * [Search Engine Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_seo_tools) - SEO Tools
 * [SerPreview](https://serpreviewtool.com/) - Site Search Results Preview
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) - Web Debugging Proxy App
@@ -707,7 +708,7 @@
 
 ## ▷ Git Tools
 
-* **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)** - List Index
+* **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)** or [awesome-github](https://github.com/fffaraz/awesome-github) - List Indexes
 * [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
 * [Git Explorer](https://gitexplorer.com/) or [Git Commands](https://gabrieldejesus.github.io/git-commands/), [2](https://github.com/gabrieldejesus/git-commands) - Git Command List
 * [GitHub Desktop](https://desktop.github.com/) or [Tower](https://www.git-tower.com/) - GitHub Client
@@ -812,7 +813,8 @@
 
 * **[Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_code_editors)** - Code Editing Apps & Sites
 * **[List.community](https://list.community/)** - Programming / Development GitHub Lists 
-* [WebdevHome](https://webdevhome.github.io/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming / Developer Tools
+* [WebdevHome](https://webdevhome.github.io/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming Tool Indexes
+* [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit ) - Programming Site Index 
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Web Scraping Tool Index
 * [Awesome-Discord-Communities](https://github.com/mhxion/awesome-discord-communities) - Programming / Developer / Discord Communities 
 * [TechBliss](https://www.techbliss.org/) - Coding Forum
@@ -852,8 +854,9 @@
 * [nvim](https://github.com/neoclide/coc.nvim) - Neovim LSP Autocompletion coc.
 * [Markdown Preview](https://github.com/iamcco/markdown-preview.nvim) - NeoVim Markdown Preview
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - Vim Code-completion engine
-* [OpenChakra](https://openchakra.app/ ) - Visual Editor & Code Generator for React / [GitHub](https://github.com/premieroctet/openchakra)
+* [OpenChakra](https://openchakra.app/) - Visual Editor & Code Generator for React / [GitHub](https://github.com/premieroctet/openchakra)
 * [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - Visual Studio Code Extensions 
+* [awesome-kotlin](https://kotlin.link/) - Kotlin Resource Index / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
 * [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Collection of handy tools for Go projects
 * [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Visual Studio Code Python Language Extension / [Performant Language](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
 * [Python Mini Projects](https://github.com/Python-World/python-mini-projects) - Python Scripts
