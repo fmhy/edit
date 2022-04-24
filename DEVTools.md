@@ -708,7 +708,7 @@
 
 ## ▷ Git Tools
 
-* **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)** or [awesome-github](https://github.com/fffaraz/awesome-github) - List Indexes
+* **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [awesome-lis](https://github.com/topics/awesome-list) or [awesome-github](https://github.com/fffaraz/awesome-github) - List Indexes
 * [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
 * [Git Explorer](https://gitexplorer.com/) or [Git Commands](https://gabrieldejesus.github.io/git-commands/), [2](https://github.com/gabrieldejesus/git-commands) - Git Command List
 * [GitHub Desktop](https://desktop.github.com/) or [Tower](https://www.git-tower.com/) - GitHub Client
@@ -832,6 +832,7 @@
 * [UMLet](https://www.umlet.com/) - Create UML Diagrams
 * [Vim Latex](http://vim-latex.sourceforge.net/) - Latex Style Vim Editor
 * [CarlosAG](https://www.carlosag.net/) - Coding Tools
+* [awesome-livecoding](https://github.com/toplap/awesome-livecoding) - Livecoding Resources
 * [Telosys](http://www.telosys.org/) - Code Generator
 * [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
 * [Not a Bug](https://notabug.org/) - Code Hosting
