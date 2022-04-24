@@ -21,16 +21,16 @@
 ## ▷ Dedicated Hosts
 
 * **[Movies4Discord](https://discord.gg/UJ9cS2kP3B)** - Movies / TV / 1080p Only / [Website](https://movies4discord.xyz/)
-* **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
+* **[Soap2Day](https://soapgate.org/)** - Movies / TV
 * **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
 * **[Ask4movies](https://ask4movie.io/)** - Movies / TV / / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
 * **[PrivateHD](https://www.privatehd.xyz/)** - Movies / TV
-* **[M4uFree](https://ww1.m4ufree.com)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
-* **[Soap2Day](https://soapgate.org/)** - Movies / TV
+* **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
+* **[Oligopoly](https://olgply.com/)** - Movies / TV
 * **[arthemis](https://releases.arthemis.xyz/)** - Movies / TV / Anime / App / [Discord](https://discord.gg/98HxbfjKQV)
+* [M4uFree](https://ww1.m4ufree.com) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [C1NE](https://c1ne.co/) - Movies / TV 
 * [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - Movies / TV
-* [Oligopoly](https://olgply.com/) - Movies / TV
 * [Movies.cf](https://movies.cf/Landing) - Movies 
 * [Tubi](https://tubitv.com) - Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime
