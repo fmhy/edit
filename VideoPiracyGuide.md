@@ -427,7 +427,6 @@
 * **[LmaoLove](http://lmao.love/)** - TV / Sports
 * **[LiveOnScore](http://liveonscore.tv/)** - Sports 
 * **[StreamEast](https://www.streameast.io/)** - Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)
-* **[Black Tie Sports](https://blacktiesports.net/)** - Sports 
 * **[StreamLinks](https://reddits.soccerstreamlinks.com/)**, [2](https://red.soccerstreams.net/), [3](https://footybite.cc/) - Sports
 * **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - NBA / NFL
 * **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [2](https://github.com/iptv-org/iptv) - IPTV Resources / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists)
