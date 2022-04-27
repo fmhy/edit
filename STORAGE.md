@@ -2017,7 +2017,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Downloaders** 
 
-**[GetPaidStock](https://getpaidstock.com/)**, **[Downloader.la](https://downloader.la/)**, [downloaders](https://downloaders.beatsnoop.com/), [Tomato](https://www.tomato.to/), [sharedvn](https://www.sharedvn.net/), [shutterscrape](https://github.com/chuanenlin/shutterscrape), [visualhunt](https://visualhunt.com/)
+**[GetPaidStock](https://getpaidstock.com/)**, **[Downloader.la](https://downloader.la/)**, [downloaders](https://downloaders.beatsnoop.com/), [Tomato](https://www.tomato.to/), [sharedvn](https://www.sharedvn.net/), [shutterscrape](https://github.com/chuanenlin/shutterscrape), [visualhunt](https://visualhunt.com/), [shutterstock-photo-downloader](https://mytoolz.net/tools/shutterstock-photo-downloader)
 
 ***
 
