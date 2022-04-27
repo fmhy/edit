@@ -407,7 +407,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Album Art** 
 
-[iTunes Artwork Grabber](https://artwork.themoshcrypt.net/) or [Album Art Downloader](https://sourceforge.net/projects/album-art/) 
+**[MH Covers](https://covers.musichoarders.xy), [AMOGUS](https://github.com/RPAP3/amogus)**, [iTunes Artwork Grabber](https://artwork.themoshcrypt.net/) or [Album Art Downloader](https://sourceforge.net/projects/album-art/) 
 
 ***
 
