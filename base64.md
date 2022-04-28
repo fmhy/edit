@@ -622,6 +622,8 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xeWxIazQ2dmRWMWRaY2ZVVVNOREFUN0YyUlZvaThGRlMv`
 
+pass: paluch
+
 
 ***
 
@@ -1931,3 +1933,15 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 #### 672GB Comic Drive
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVRfbEJiUWxIM0RPQU9kelBhQk9aanZBNFZFSGdoR2Z0`
+
+***
+
+#### Vanced Manager
+
+`aHR0cHM6Ly93d3cuYXBrbWlycm9yLmNvbS8/cG9zdF90eXBlPWFwcF9yZWxlYXNlJnNlYXJjaHR5cGU9YXBrJnM9dmFuY2VkK21hbmFnZXI=`
+
+***
+
+#### booksdl
+
+`aHR0cDovL2Jvb2tzZGwub3JnL2NvbWljczAv`
