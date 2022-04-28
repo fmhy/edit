@@ -452,7 +452,7 @@
 * [StudySpanish](https://studyspanish.com/) - Spanish Learning Tutorials
 * [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
 * [AnimeLon](https://animelon.com/) - Streaming / Anime / Learn Japanese
-* [Nihongo](https://nihongo-e-na.com/eng/), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/), [Itzazureneko](https://itazuraneko.neocities.org/learn/guide.html) - Japanese Learning Resources
+* [Nihongo](https://nihongo-e-na.com/eng/), [Jim Breen's Japanese Page](http://nihongo.monash.edu/japanese.html), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/), [Itzazureneko](https://itazuraneko.neocities.org/learn/guide.html) - Japanese Learning Resources
 * [Marshall's Site](https://marshallyin.com/), [jpdb](https://jpdb.io/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese 
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [Memento](https://github.com/ripose-jp/Memento) - Japanese Learning Video Player
@@ -588,6 +588,7 @@
 * [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - Grade School Educational Tools
 * [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - UPSC Telegram Channels 
 * [AuthorStream](http://www.authorstream.com/) or [Slideshare](https://www.slideshare.net/) - Watch / Share Slideshows & Presentations 
+* [SlideShare Downloader](https://slideshare.theteacoder.tech/), [2](https://www.slidesharedownloader.com/) - Download Slideshow Presentations 
 * [Periodic Stats](https://periodicstats.com/), [The Periodic Table Of Elements](https://periodictableofchemicalelements.com/), [Periodic Table](https://periodic-table.io/), [Images-Of-Elements](https://images-of-elements.com/), [Graph Overflow](https://graphoverflow.com/graphs/3d-periodic-table.html), [3D Periodic Table](https://artsexperiments.withgoogle.com/periodic-table/) or [Ptable](https://ptable.com/) - Periodic Tables 
 * [ChemicalAid](https://en.intl.chemicalaid.com/) - Chemistry Calculators & Element Tables
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
