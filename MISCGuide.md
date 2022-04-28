@@ -84,7 +84,7 @@
 * [Websites From Hell](https://websitesfromhell.net/) - Shitty Website Index
 * [National Archives](http://www.nationalarchives.gov.uk/webarchive/) - UK Government Site Archive
 * [UKWA](https://www.webarchive.org.uk/ukwa/) - UK Site Archive
-* [DeepWebLinks](https://deepweblinks.net/directories/), [dark.fail](https://dark.fail/), [260+ Dark Web Links](https://ufile.io/pgvxf9jv), [Official Hidden Wiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/) or [Real World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites)
+* [DeepWebLinks](https://deepweblinks.net/directories/), [dark.fail](https://dark.fail/), [Official Hidden Wiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/), [DeepOnionWeb](https://www.deeponionweb.com/), [DarkWebWiki](https://darkwebwiki.org/), [DarkWebTalk](https://www.darkwebtalk.com/) or [Real World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites) - .Onion Directories
 * [The Hive Index](https://thehiveindex.com/) - Online Communities Index
 * [NetSplit](https://netsplit.de/) - IRC Channel Index
 * [API List](https://apilist.fun/) or [Public APIs](https://github.com/public-apis/public-apis) - API index 
@@ -591,6 +591,8 @@
 * [Nikkei Asia](https://asia.nikkei.com/) - Asian News
 * [China Daily Global](http://www.chinadailyglobal.com/) or [China Daily Asia](https://www.chinadailyasia.com/ ) - Chinese News
 * [MFA](https://www.mfa.gov.cn/eng/) - Ministry of Foreign Affairs of the People's Republic of China
+* [Legislation.gov](https://www.legislation.gov.uk/) - British Law News
+* [RT News](https://t.me/rtnews ) - Russian News
 * [SciURLs](https://sciurls.com/) - Science News
 * [MathURLs](https://mathurls.com/) - Math News
 * [DevURLs](https://devurls.com/) - Developer News
