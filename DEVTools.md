@@ -245,14 +245,16 @@
 * [PackageCloud](https://packagecloud.io/) or [pnpm](http://pnpm.io/) - Package Manager / Deployment
 * [WebInstall](https://webinstall.dev/) - Easily Install Dev Packages
 * [Balena](https://www.balena.io/) - Build / Manage  IoT Groups
-* [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) or [Bug Bounty](https://github.com/sehno/Bug-bounty) - Bug Bounty Resources
+* [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty), [Awesome Bug Bounty Builder](https://github.com/0xJin/awesome-bugbounty-builder) or [Bug Bounty](https://github.com/sehno/Bug-bounty) - Bug Bounty Resources
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - CTF Resources
 * [API List](https://apilist.fun/), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - API Index 
 * [Insomnia](https://insomnia.rest/) - API Client
 * [hoppscotch](https://hoppscotch.io/) - API Development Ecosystem / [GitHub](https://github.com/hoppscotch/hoppscotch)
 * [APIKit](https://github.com/API-Security/APIKit) - API Security Tools
+* [OpenSCA-CLI](https://github.com/XmirrorSecurity/OpenSCA-cli) - Composition Analysis for Third Party Components 
 * [Kubescape](https://github.com/armosec/kubescape) - Kubernetes Tool
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - Microservice Architecture Resource Index
+* [MMDeploy](https://github.com/open-mmlab/mmdeploy) - Deep Learning Model Deployment Toolset 
 * [LibreLogos](https://www.librelogos.org/) or [LogoTaco](https://www.logotaco.com/) - Project Logos
 * [Lorem.space](https://lorem.space/) - Placeholder Images
 * [Rejoiner](https://rejoiner.io/) - Uniform GraphQL Schema from gRPC Microservices / [GitHub](https://github.com/google/rejoiner)
@@ -261,12 +263,12 @@
 * [Cumcord](https://cumcord.com/) - Discord Developer Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)
 * [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - Integrate Services with Discord
 * [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - Discord Code Blocks
-* **[discord.py](https://github.com/Rapptz/discord.py)**, [Discord4J](https://discord4j.com/), [enhanced-discord.py](https://github.com/iDevision/enhanced-discord.py) - Discord API Wrapper
+* **[discord.py](https://github.com/Rapptz/discord.py)**, [Kord](https://github.com/kordlib/kord), [Discord4J](https://discord4j.com/), [enhanced-discord.py](https://github.com/iDevision/enhanced-discord.py) - Discord API Wrapper
 * [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
 * [Discord-panel](https://github.com/Notavone/discord-panel) - Discord Bot Server Manager
 * [Javacord](https://javacord.org/) - Discord Bot Creation Library
 * [Pylon](https://pylon.bot/) or [Bot Designer for Discord](https://apps.apple.com/us/app/bot-designer-for-discord/id1495536477) (Mac) - Discord Bot Builder
-* [Telegram Bot API](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API
+* [Telegram Bot API](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
 * [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - C++ Library for Discord
 * [Twitter (un)official Consumer Key](https://gist.github.com/shobotch/5160017) - Twitter Consumer Keys
@@ -282,6 +284,8 @@
 * [awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
 * [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
 * [Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - Open Source Data Engineering Projects
+* [data-dockerfiles](https://github.com/irbigdata/data-dockerfiles) - Docker Compose Files for Data Engineering 
+* [Auto-Portforward](https://github.com/ruoshan/autoportforward) - Auto Port-Forwarding for Docker, Podman & Kubernetes  
 * [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - Machine Learning Datasets
 * [Kobra](https://kobra.dev/) - Visual Programming Language for Machine Learning
 * [DVC](https://dvc.org/) - Machine Learning Version Control
@@ -333,10 +337,12 @@
 * [RemoteMySQL](https://www.remotemysql.com/) - Remote MySQL Database
 * [DB4Free](https://db4free.net/) - MySQL Testing
 * [DoIt](https://github.com/dolthub/dolt) - SQL Database 
+* [Illegal Analytics Scanner](https://illegal.analyticsscanner.com/) - Check if your Analytics Break Laws 
 * [OceanBase](https://open.oceanbase.com/) - Relational Database / [GitHub](https://github.com/oceanbase/oceanbase)
 * [NocoDB](https://www.nocodb.com/) - Turn Database into Smart Spreadsheet / [GitHub](https://github.com/nocodb/nocodb)
 * [PooShock](https://pooshock.ru/) - Apache 2 Test Page
 * [WebAuthn](https://webauthn.io/) - Data Security Authentication API
+* [Awesome list of secrets in environment variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) - List of Secrets in Environment Variables 
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
 * [Spiderfoot](https://www.spiderfoot.net/) - Automate OSINT
 * [Easegress](https://github.com/megaease/easegress) - Traffic Orchestration System
@@ -437,6 +443,7 @@
 * [Bypass Cloudflare](https://github.com/jychp/cloudflare-bypass) - Bypass Coudflare Bot Protection
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
 * [LightTPD](http://www.lighttpd.net/) or [Caddy](https://caddyserver.com/) - Web Server
+* [Bash-web-server](https://github.com/dzove855/Bash-web-server) - Bash Web Server 
 * [HTTP Server](https://httpd.apache.org/) - HTTP Server Apache
 * [SyAgent](https://syagent.com/) - Server Monitor
 * [CodeMyUI](https://codemyui.com/) - User Interface Code Snippets
@@ -472,7 +479,7 @@
 * [TrackMyBacklink](https://trackmybacklink.com/) - Backlink Tracker
 * [Free Backlink Builder](http://www.freebacklinkbuilder.net/) - Backlink Generator
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites 
-* [Bubble](https://bubble.io/), [WeWeb](https://www.weweb.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Create-react-app](https://github.com/facebook/create-react-app) or [Sktch.io](https://sktch.io/) - Create Web Apps 
+* [Bubble](https://bubble.io/), [WeWeb](https://www.weweb.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Symfony](https://symfony.com/) / [CLI](https://github.com/symfony-cli/symfony-cli), [Create-react-app](https://github.com/facebook/create-react-app) or [Sktch.io](https://sktch.io/) - Create Web Apps 
 * [Sandstorm](https://sandstorm.io/) or [CloudRon](https://www.cloudron.io/) - Web App Host
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
 * [LightHouse](https://github.com/GoogleChrome/lighthouse) - Web App Performance Test
@@ -579,6 +586,7 @@
 * [GoNative](https://gonative.io/) - Convert Websites to Mobile Apps
 * [Shizuku](https://shizuku.rikka.app/) - Connect Apps to APIs
 * [CollectionConcurrencyKit ](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async & Concurrent Versions of Swift APIs
+* [Shizuku](https://github.com/RikkaApps/Shizuku) - Use System APIs Directly with ABD / Root 
 * [NukeUI](https://github.com/kean/NukeUI) - Lazy Image Loading for Apple Platforms
 * [MobileApp-Pentest-Cheatsheet](https://github.com/fuzz-security/MobileApp-Pentest-Cheatsheet) - Mobile App Penetration Test Index
 * [Uiautomator2](https://github.com/openatx/uiautomator2) or [Appium](http://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
@@ -590,6 +598,7 @@
 * [useAnimations](https://useanimations.com/index.html) - Animated Icon Pack
 * [Flubber](https://github.com/Appolica/Flubber) - Android Animation Creator
 * [Redex](https://fbredex.com/) - Android Bytecode Optimizer
+* [Capturable](https://github.com/PatilShreyas/Capturable) - Transform Composable Content to Bitmap Images 
 * [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [RiseShot](https://www.riseshot.com/) or [LS Graphics](https://www.ls.graphics/) - App & Site Mockups
 * [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
 * [UIGarage](https://uigarage.net/), [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui), [UXArchive](https://uxarchive.com/), [Mobbin](https://mobbin.design/), [UISources](https://www.uisources.com/) or [LovelyUI](https://lovelyui.com/) - Mobile UI Designs
@@ -694,6 +703,7 @@
 * [Glass UI](https://ui.glass/generator/) - Glassmorphism CSS Generator
 * [css2scss](https://sebastianpontow.de/css2compass/) - CSS to SCSS Converter 
 * [Tableconvert](https://tableconvert.com/) - Markdown / Code Converter
+* [Markdown Link Check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check Markdown Files for Dead Links 
 * [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks), [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/) or [SimpleCSS](https://simplecss.org/) - CSS Framework
 * [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks
 * [MarkdownGuide](https://www.markdownguide.org/) - Guide for Markdown (.md) 
@@ -873,8 +883,9 @@
 * [Pytrait](https://github.com/xrudelis/pytrait) - Python Interface Traits
 * [Doppler](https://www.doppler.com/) - Sync Environment Variables
 * [AutoCode](https://autocode.com/) - Instant Endpoints
+* [typejuice](https://github.com/galvez/typejuice) - Documentation Generator for TypeScript Declaration Files 
 * [Trunk](https://trunk.io/) - Run Linters/Formatters/Checkers Simultaneously
-* [Mega Linter](https://github.com/nvuillam/mega-linter) or [SonarCloud](https://sonarcloud.io/) - Code Analyzer 
+* [Mega Linter](https://github.com/nvuillam/mega-linter), [TCA](https://github.com/Tencent/CodeAnalysis) or [SonarCloud](https://sonarcloud.io/) - Code Analyzer 
 * [tabnine](https://www.tabnine.com/) or [Copilot](https://copilot.github.com/) / [Docs](https://github.com/github/copilot-docs) - AI Assisted Code Completion
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Check for Edge Case Inputs
 * [editorcornfig](http://editorconfig.org/) - Maintain consistent code styles across editors
