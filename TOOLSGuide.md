@@ -300,6 +300,7 @@
 * [LiveRecord](https://github.com/lovezzzxxx/liverecord) - Automatic Stream Recorder
 * [LiveMonitor](https://github.com/lovezzzxxx/livemonitor) - Live Stream Detection
 * [real-url](https://github.com/wbt5/real-url) - Copy Live Stream URLs
+* [Owncast](https://owncast.online/) - Self-Hosted Live Streaming 
 * [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - Watch, download and Organize public video URLs
 * [WDFlat](https://www.wdflat.com/) - Stream Elements
 * [Streamon](https://getstreamon.com/) - Stream to Instagram from PC / [GitHub](https://github.com/haxzie/instagram-live-streamer)
@@ -420,7 +421,7 @@
 * [Fairusify](https://fairuseify.ml/) - Make a Copyrighted Song Fair Use
 * [Songwhip](https://songwhip.com/) - Find / Share Your Music on All Platforms
 * [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://iznaut.itch.io/bfxr), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - Sounds Effects Creator
-* [Fresh Stuff For You](https://freshstuff4you.com/) - DAWs / Samples / Presets
+* [Fresh Stuff For You](https://freshstuff4you.com/) or [All4Daw](https://all4daw.com/) - DAWs / Samples / Presets
 * [Plugin Clouds Archive](https://t.me/plugincloudsarchive) - DAW Plugins
 * [FlsAudio](https://flsaudio.com/en/gb/) - FLStudio Samples / Presets / Plugins 
 * [MilkyTracker](https://milkytracker.org/) - .MOD & .XM Module Creator
@@ -457,6 +458,7 @@
 * [Sonixd](https://github.com/jeffvli/sonixd) - Subsonic/Jellyfin Compatible Desktop Music Player
 * [Butterchurn Visualizer](https://butterchurnviz.com/), [Sonic Visualizer](https://www.sonicvisualiser.org/), [MusicVid](https://musicvid.org/), [Vizzy](https://vizzy.io/) or [Specterr](https://specterr.com/) - Audio Visualizers
 * [PartyEngine](https://aggrocrab.itch.io/partyengine) - Audio Party Visualizer 
+* [brahms](https://github.com/Wulfheart/brahms) - MIDI Audio Visualizer 
 * [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels 
 * [Deemixrr](https://github.com/TheUltimateC0der/Deemixrr) - Automated Music Manager 
 * [FFmpeg](https://ffmpeg.org/) - Video / Audio Recorder, Converter & Streaming
@@ -511,7 +513,7 @@
 * [Nightcore Maker](https://nightcoremaker.com/) - Create Nightcore Versions of Songs
 * [CSound](https://csound.com/) - Music Computing System
 * [GoAudio](https://github.com/DylanMeeus/GoAudio) - Audio Processing Library 
-* [Helio](https://helio.fm/) - Music Composition Software
+* [Helio](https://helio.fm/) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
 * [AudioAlter](https://audioalter.com/preset/8d-audio) - Create '8D' Audio
 * [Karaoke Maker](https://www.edityouraudio.com/karaoke-maker), [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - Create Karaoke Songs
 * [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/), [VoiceSpice](https://voicespice.com/) or [Reverb Record](https://record.reverb.chat/) - Online Audio Recorder 
@@ -600,6 +602,7 @@
 * [Levels.fyi](https://www.levels.fyi/) - Tech Career Salaries
 * [Crypto Ecosystem 2021](https://docs.google.com/document/d/1RM7AoUKbXEqZ2qATTxGYLMexu3Jxrf3oYiwbsrXOXUQ) - Beginner's Guide to Crypto Ecosystem
 * [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - Crypto Learning Resources
+* [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide 
 * [TryHackMe](https://tryhackme.com/), [AWS Training](https://www.aws.training/), [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html), [UI.com](https://www.ui.com/training/), [CryptoHack](https://cryptohack.org/) - IT Training & Courses
 * [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - IT Certification Courses
 * [NIST](https://www.nist.gov/nice/apprenticeship-finder) - NICE Apprenticeship Program Finder
@@ -739,6 +742,7 @@
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - Export Skype Chat Data to Readable Text
 * [Video Chat Apps / Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_chat) - Video Calls
 * [Zoom Escaper](https://zoomescaper.com/) - Self-Sabotage Video Calls to Escape Meetings
+* [Pyrite](https://github.com/garage44/pyrite) - Self-Hosted Video Calls 
 * [Live Curtain](https://livecurtain.com/) - Countdown Curtain For Online Meeting
 * [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Nertivia Chat](https://nertivia.net/), [Mumble](https://www.mumble.info/), [Zoiper](https://www.zoiper.com/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - Voice Chat 
 * [IMumble](https://www.imumble.nl/) - Voice Chat Server
@@ -770,6 +774,8 @@
 * [YakYak](https://github.com/yakyak/yakyak) - Google Hangouts Desktop Client 
 * [Indirect](https://www.microsoft.com/en-us/p/indirect/9phw4kj8jvnz) - Instagram Desktop Messenger
 * [SentRanker](https://sentranker.com/) - Social Media Sentiment Scanner
+* [ExportComments](https://exportcomments.com/) - Export Social Media Comments 
+* [divr.it](https://dlvrit.com/) - Social Media Automation Tool
 * [Hamachi](https://vpn.net/) - VPN / LAN Emulator
 * [rrweb](https://www.rrweb.io/) - Browser Macro Recorder / [GitHub](https://github.com/rrweb-io/rrweb)
 * [WikiStalk](https://github.com/altilunium/wistalk) - Analyze Wikipedia User's Activity
@@ -790,7 +796,6 @@
 * [Tripgen](https://orph.link/tripgen) - Image Board Trip Code Generator 
 * [4chan Captcha Solver](https://github.com/AUTOMATIC1111/4chan-captcha-solver/) - 4chan Captcha Solver
 * [Slideshow-Deslidefier](http://deslide.clusterfake.net/) - View Slideshows All At Once 
-* [divr.it](https://dlvrit.com/) - Social Media Automation Tool
 * [tumblr-crawler](https://github.com/ZenulAbidin/tumblr-crawler) - Download tumblr photos/videos 
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities 
 * [ChanThreadWatch](https://github.com/SuperGouge/ChanThreadWatch) - Imageboard Thread Watcher 
@@ -809,7 +814,7 @@
 * [Hosts Files ghosts](https://github.com/StevenBlack/ghosts) - Evaluate, Compare & Format
 * [byp4xx](https://github.com/lobuhi/byp4xx) - Bypass "403 Forbidden" Messages 
 * [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) / [Fork](https://www.9bis.net/kitty/#!index.md), [GitHub](https://github.com/cyd01/KiTTY/) - SSH & Telnet Client / [Keygen](https://www.puttygen.com/)
-* [Dashy](https://dashy.to/) - Highly Customizable Home Server Homepage / [GitHub](https://github.com/lissy93/dashy)
+* [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy) or [Homer](https://github.com/bastienwirtz/homer) - Home Server Homepage 
 * [FairGame](https://github.com/Hari-Nagarajan/fairgame) - Automatically Place Orders on Amazon
 * [rickroll-blocker](https://github.com/hitthemoney/rickroll-blocker/) - Rick Roll Blocker 
 
@@ -1196,6 +1201,7 @@
 * [pullcord](https://github.com/tsudoko/pullcord) - Discord Archiver
 * [discord2sheet-bot](https://github.com/hugonun/discord2sheet-bot) - Store Messages to Google Sheets
 * [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion), [discord-delete](https://github.com/adversarialtools/discord-delete) or [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) - Delete Discord Messages / [Warning](https://i.imgur.com/Kt8G430.png) 
+* [ansi-colors-discord.md](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06) - Discord Colored Messages 
 * [Discord Style](https://www.discord.style/) - Discord Server Templates
 * [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/)
 * [Discord Embed Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_embed_generators) - Generate Embeds via Webhooks
@@ -1744,8 +1750,6 @@
 * [InputDirector](http://www.inputdirector.com/), [Synergy](https://symless.com/synergy), [Barrier](https://github.com/debauchee/barrier) or [ShareMouse](https://www.sharemouse.com/) - Share Mouse & Keyboard w/ Multiple Computers
 * [Nebula](https://github.com/slackhq/nebula) - Multi-Computer Networking Tool
 * [TigerVNC](https://tigervnc.org/) - VNC Client
-* [RDP](https://github.com/yahya-ait-talb/RDP) or [NeverInstall](https://neverinstall.com/en-IN) - Windows RDP
-* [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - Google RDP
 * [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) - Free Google Colab VPS on 25GB RAM
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager 
 * [Netmaker](https://gravitl.com/netmaker) - Create Virtual Network
@@ -1816,6 +1820,7 @@
 * [ngrep](https://github.com/jpr5/ngrep) - Specify Expressions to match against Data Payloads of Packets 
 * [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) or [LogDissect](https://github.com/dogoncouch/logdissect/) - Log Analyzation Utility
 * [DependecyWalker](https://www.dependencywalker.com/) or [Dependencies](https://github.com/lucasg/Dependencies) - View Application Dependencies 
+* [FluentStore](https://github.com/yoshiask/FluentStore) - Microsoft Store Frontend
 * [store.rg](https://store.rg-adguard.net/) - Microsoft Store Link Generator 
 * [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) - Add Microsoft Store to Windows
 * [Vantage](https://rentry.co/lenbian) - Lenovo Vantage Without MS Store
@@ -1988,7 +1993,7 @@
 * [GetMega](http://getmega.net/) - Direct Mega Links 
 * [MEGA Uploader X](https://t.me/MegaUploadXbot) - Remote Mega File Upload Bot
 * [GDrive Guides](https://t.me/gdriveguides) - GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)
-* [Torrent2Drive](https://t.me/torrent_2_drive), [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - DDL to GDrive Tool
+* [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - DDL to GDrive Tool
 * [Jybe.gg](https://jybe.gg/) - GDrive File Sync
 * [GDriveCLI](https://github.com/prasmussen/gdrive) - GDrive CLI
 * [gogdl-ng](https://github.com/gogdl-ng/gogdl-ng) - Google Drive Bulk Downloader
@@ -2049,6 +2054,7 @@
 * [czkawka](https://github.com/qarmin/czkawka) - Remove Unnecessary Files 
 * [DBAN](https://dban.org/) or [KillDisk](http://killdisk.com/killdisk-home.htm) - Data Removal Tool 
 * [UnLock IT](https://emcosoftware.com/unlock-it/download), [Lock Hunter](https://lockhunter.com/) or [FileExile](https://sourceforge.net/projects/filexile/) - File Unlocker / Deleter
+* [Turbo Delete](https://github.com/XtremeDevX/turbo-delete) - Delete Files Faster 
 * [rm_empty_subdir](https://gist.github.com/simon987/f5c2cd7602898615ac9bc8c762d9fe1d) - Remove Empty Sub Directories
 * [BZSHUT](https://github.com/arunkumartdr/BZSHUT) - Temp File Deletion Script
 * [WinMerge](https://winmerge.org/) - Compare / Merge Files & Folders 
@@ -2076,6 +2082,7 @@
 * [HexEd.it](https://hexed.it/) or [Online Hex Editor](https://www.onlinehexeditor.com/) - Online Hex Editor
 * [infekt](https://infekt.ws/) / [GitHub](https://github.com/syndicodefront/infekt), [nfoview](https://otsaloma.io/nfoview/) / [GitHub](https://github.com/otsaloma/nfoview) or [NFOmation](https://nfomation.net/) - NFO File Viewer
 * [text2img](https://master.ayra.ch/text2img/) - NFO Files to Image Converter
+* [TrueNAS](https://www.truenas.com/) - Storage System 
 * [Linx Server](https://github.com/andreimarcu/linx-server), [FileCream](https://filecream.com/) or [FileStash](http://www.filestash.app/) - Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)
 * [Linux Reader](https://www.diskinternals.com/linux-reader/) - Access Linux Files on Windows
 
