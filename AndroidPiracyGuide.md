@@ -12,7 +12,7 @@
 
 * **[APK Adblocking Guide](https://redd.it/oyfmr1)**
 * **[Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)**, [NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid) or [WebApps](https://github.com/tobykurien/WebApps/) - App Containers 
-* **[Bromite](https://www.bromite.org/)** - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite)
+* **[Bromite](https://www.bromite.org/)** or [Monument](https://play.google.com/store/apps/details?id=br.marcelo.monumentbrowser) - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite)
 * **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_adguard_premium)** - Adblocking App
 * **uBlock Origin** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Yandex](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) & [Kiwi](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 
 * [Blokada](https://blokada.org/) - Adblocking App
@@ -174,7 +174,7 @@
 * [Water Resistance Tester](https://play.google.com/store/apps/details?id=com.ray.waterresistancetester) - Test Phones Water Resistance
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Make Your Phone Less Distracting
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - Ringtones Directory
-* [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Manager / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3)
+* [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Manager
 * [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) - App Themed Icons
 * [FreeBrowser ](https://freebrowser.org/) - Internet Censorship Circumvention / [Wiki](https://github.com/greatfire/wiki)
 * [InstantBridge](https://instabridge.com/) - Public WiFi Sharing Community
@@ -248,7 +248,7 @@
 * [Google Lens](https://lens.google/) - Multiple Camera Tools
 * [Gallery](https://www.simplemobiletools.com/gallery) - Photo Gallery
 * [PhotoRoom](https://www.photoroom.com/) - Background Remover
-* [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) or [Camator](https://gcamator.com/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/)
+* [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera), [DMGC](https://thedise.me/dmgc/) or [Camator](https://gcamator.com/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/)
 * [Vision Camera](https://mrousavy.com/react-native-vision-camera/) - FOSS Camera App / [GitHub](https://github.com/mrousavy/react-native-vision-camera)
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)
 * [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play) - Camera App with QR / Barcode Scanning
@@ -312,6 +312,7 @@
 * [sh-ort](https://sh-ort.app/) - URL Shortener
 * [RClone](https://github.com/x0b/rcx) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Manager
 * [Omega Launcher](https://github.com/otakuhqz/omega), [SmartLauncher](https://www.smartlauncher.net/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_smartlauncher_pro), [Lawnchair](https://lawnchair.app/), [NovaLauncher](https://novalauncher.com/), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [ActivityLauncher](https://github.com/butzist/ActivityLauncher), [Smart Dock](https://github.com/axel358/smartdock), [Unlauncher](https://github.com/jkuester/unlauncher) or [Ratio](https://blloc.com/) - App Launcher 
+* [QuickSwitch](https://github.com/skittles9823/QuickSwitch) - Enable Quickstep in Launchers 
 * [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) / [2](https://www.apkmirror.com/apk/aurora-oss/warden/) - App Managers
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement
 * [iFont](https://play.google.com/store/apps/details?id=com.kapp.ifont) - Android Font Installer
@@ -320,7 +321,7 @@
 * [Termux](https://termux.com/) - Terminal Emulator / Linux Environment / [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/tareksander/termux-gui) 
 * [Shelter](https://github.com/PeterCxy/Shelter) - App Sandbox
 * [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
-* [Clima](https://f-droid.org/en/packages/co.prestosole.clima/), [The Fucking Weather](https://alcohollick.com/the-fucking-weather) or [GeometricWeather](https://github.com/geometric-weather-foss/GeometricWeather) - Weather App 
+* [Clima](https://f-droid.org/en/packages/co.prestosole.clima/), [The Fucking Weather](https://alcohollick.com/the-fucking-weather), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux) or [GeometricWeather](https://github.com/geometric-weather-foss/GeometricWeather) - Weather App 
 * [Aftership](https://play.google.com/store/apps/details?id=com.aftership.AfterShip&hl=en&gl=US) - Package Tracker
 * [aiTTS](https://www.milmike.com/aitts-google-wavenet-voices-for-android-tts) - Text to Speech 
 * [Microsoft Edge Read Aloud](https://redd.it/l1fdh9) - How to use Microsoft Read Aloud TTS on Android 
@@ -603,6 +604,7 @@
 * [Neko](https://github.com/CarlosEsco/Neko) - Manga Reader
 * [Manga Tag](https://www.mangatag.com/) - Manga Reader
 * [Meow](https://github.com/neverfelly/Meow) - Manga Reader
+* [IsManga Translator](https://ismanga.com/) - Manga Translator 
 * [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - Comic Reader
 * [Shosetsu](https://shosetsu.app/) - Light Novels / [GitHub](https://github.com/ShosetsuOrg/android-app) / [Dev Builds](https://github.com/shosetsuorg/shosetsu-preview) / [Discord](https://discord.gg/ttSX7gB) 
 * [NovelLibrary](https://github.com/gmathi/NovelLibrary) - Light Novel Reader / [Discord](https://discord.gg/qFZX4vdEdF)
@@ -616,7 +618,7 @@
 
 * **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players)** - Music Players / Libraries
 * **[Spotify APK](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modded_spotify_apk)** (No Ads) - Streaming / [Version Manager](https://github.com/xManager-v2/xManager-Spotify) / [Downloader](https://github.com/sheensantoscapadngan/SpotaFree) / [Friend Activity](https://spotivity.vercel.app/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://f-droid.org/packages/com.rohit2810.spotit/), [3](https://github.com/aghontpi/ad-silence)
-* [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [HoloPlay](https://holoplay.io/) or [YMusic](https://ymusic.io/) - YouTube Music Player
+* [YouTube Music Apps](https://redd.it/tiqzon/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [YTM Wrapped](https://github.com/4v3ngR/ytm-wrapped), [HoloPlay](https://holoplay.io/), [Harmonoid](https://github.com/alexmercerind/harmonoid) or [YMusic](https://ymusic.io/) - YouTube Music Player
 * [Spotiflyer](https://f-droid.org/en/packages/com.shabinder.spotiflyer/) - Spotify Audio Downloader / [GitHub](https://github.com/Shabinder/SpotiFlyer/)
 * [Finamp](https://github.com/UnicornsOnLSD/finamp) - Jellyfin Music Player
 * [CloudPlayer](https://www.doubletwist.com/cloudplayer) - Cloud Audio File Player
@@ -646,10 +648,12 @@
 * [Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler) - Android Scrobbler
 * [MP3 Tagger](https://play.google.com/store/apps/details?id=com.fillobotto.mp3tagger) - Automatic Audio ID3 Tagging
 * [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer) - Audio Equalizer
+* [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) - Headphone Audio Equalizer 
 * [Voleq](https://play.google.com/store/apps/details?id=com.veryclevernamecompany.voleq) - Volume Equalizer
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - Identify Playing Songs
 * [skipTrackLongPressVolume](https://github.com/Cilenco/skipTrackLongPressVolume) or [Volumee](https://maslanka.app/volumee/) - Volume Button Track Control
 * [MImport](https://julioverne.github.io/description.html?id=com.julioverne.mimport ) - Audio Import Tool
+* [Dolby Atmos ZTE A2019 Pro Magisk Module](https://github.com/reiryuki/Dolby-Atmos-ZTE-A2019-Pro-Magisk-Module)
 
 ***
 
@@ -971,9 +975,7 @@
 * [Watusi](https://watusi.fouadraheb.com/) - Modded WhatsApp
 * [Whatspad++](https://iosninja.io/ipa-library/download-whatspad-ipa-ios) - iPad WhatsApp
 * [AppLibraryEnabler](https://github.com/tomaszpoliszuk/AppLibraryEnabler) - Enable App Library on iPad
-* [1 Click iCloud Bypass](https://frpfile.com/one-click-bypass-icloud/), [All in One iCloud Tool](https://frpfile.com/ifrpfile-all-in-one-icloud-tool/) or [iCloudBypass](https://appletech752.com/icloudbypass.html) - Bypass iCloud
 * [GeekBench](https://apps.apple.com/us/app/geekbench-5/id1435082259) - iOS Benchmark Tests
-* [AppleTech752](https://www.appletech752.com/downloads.html) - iCloud and MDM Bypass
 * [GoodLinks](https://goodlinks.app/) or [DoMarks](https://www.domarks.app/) - Bookmark Manager
 * [Flarify](http://www.flairify.com/) - Touchscreen Typing Practice 
 * [Selvy PenScript](https://apps.apple.com/us/app/selvy-penscript/id1027637212) - Handwriting to Text Keyboard
@@ -1028,7 +1030,6 @@
 * [paxcex](https://paxcex.github.io/) - App Repository
 * [sarahh12099](https://sarahh12099-mirror.github.io/repo) - App Repository
 * [CydiaGeek](https://cydiageek.yourepo.com/) - App Repository 
-* [ReJail Repo](https://rejail.ru/) - App / Tweak Repository 
 * [AppHeaven](https://www.appheaven.vip/) - App / Tweak Repository 
 * [iOSGods](https://iosgods.com/) - App Tweaks / Hacks / Mods
 * [iPA Host](https://github.com/ipahost) - App Tweaks / Social Media’s
