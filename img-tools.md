@@ -76,7 +76,7 @@
 * [Simple Image Resizer](http://www.simpleimageresizer.com/), [toolur](https://compressimage.toolur.com/), [fixpicture](https://www.fixpicture.org/), [Birme](https://www.birme.net/), [Online Image Resizer](https://online-image-resizer.com/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - Resize Images
 * [Resize App Icon](https://resizeappicon.com/) - Resize Square Images 
 * [SSizes](https://ssizes.com/) or [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
-* [RIOT](https://riot-optimizer.com/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tool
+* [RIOT](https://riot-optimizer.com/), [imageoptimizer](http://www.imageoptimizer.net/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tool
 * [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [CompressHere](https://compresshere.com/), [ImageDiamond](https://www.imagediamond.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Compressor](https://compressor.io/) or [Batch Compress](https://batchcompress.com/en) - Image Compressor 
 * [TinyPNG](https://tinypng.com/) or [PNGQuant](https://pngquant.org/) - PNG Compressor 
 * [JPEG.rocks](https://jpeg.rocks/) - JPEG Re-Encoder 
@@ -354,6 +354,7 @@
 * [Image-to-Image](https://affinelayer.com/pixsrv/) - Interactive Image Translation
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - Find Font from Image
 * [Watermarkly](https://watermarkly.com/) or [Watermarkup](https://watermarkup.com/watermark.html) - Image Watermarking
+* [Watermark Remover Online](https://www.aiseesoft.com/watermark-remover-online/) - Watermark Removal
 * [FPNG](https://github.com/richgel999/fpng) - PNG Reader / Writer
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - Scan & Digitize Documents / iOS
 * [Swapper](https://icons8.com/swapper) - Face Swapper
