@@ -126,6 +126,7 @@
 ## Download 
 
 * **[NSFW Drives](https://saidit.net/s/freemediafuckyeah/wiki/base64#wiki_nsfw_drives)**
+* **[FapNationBot](https://discord.gg/MxyvAV22cE)** - Premium Porn Download Bot
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "nsfw
 * [PornFactors](http://pornfactors.com/) 
 * [RaidForums NSFW](https://raidforums.com/Forum-Not-Safe-For-Work)
@@ -157,6 +158,10 @@
 * @PornMirror - Telegram
 * [KinkBot](https://kinkbot.me/) - Porn Image Bot
 * [Boob Bot](https://www.boobbot.us/) - Porn Image Bot
+* [NSFWDownloader](https://github.com/h110m/NSFWDownloader) - Porn Downloader
+* [Pornhub DL Script](https://redd.it/ks5sba), [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) or [Savido Pornhub](https://www.savido.net/sites/pornhub) - Pornhub Downloader
+* [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - FC2 Image Scraper
+* [TheYNC Download Guide](https://pastebin.com/JiKgRE4M)
 
 ***
 
@@ -277,6 +282,8 @@
 * [Violet](https://github.com/project-violet/violet) - Android Hentai/ [Discord](https://discord.com/invite/fqrtRxC)
 * [Hentoid](https://github.com/avluis/Hentoid) or [Hendroid](https://www.f-droid.org/en/packages/org.nonononoki.hendroid/) - Android Hentai
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - Booru Client / [Telegram](https://t.me/Flexbooru/161)
+* [pandaforever](https://gitlab.com/squishydreams/pandaforever), [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) or [Panda Chaika](https://panda.chaika.moe/) [nhentai](https://github.com/RicterZ/nhentai) - Hentai Downloader
+* [/cumg/](https://rentry.co/coom) - Hentai Tools
 
 ***
 
@@ -304,18 +311,11 @@
 
 # Tools
 
-* **[FapNationBot](https://discord.gg/MxyvAV22cE)** - Premium Porn Download Bot
 * **[Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button)** - Quickly Close All Tabs
 * [Internet Adult Film Database](https://www.iafd.com/) - Adult Film Database / Reviews
 * [Porn-Vault](https://github.com/porn-vault/porn-vault), [Fapflix2.0](https://github.com/EinAeffchen/Fapflix2.0), [StashApp](https://stashapp.cc/) or [Stash](https://github.com/stashapp/stash) - Porn File Manager
 * [TheLeakNetwork](https://theleaknetwork.com/) or [UploadingPorn](https://uploadingporn.com/) - NSFW File Host
 * [Javinizer](https://github.com/jvlflame/Javinizer) - JAV File Organizer
-* [NSFWDownloader](https://github.com/h110m/NSFWDownloader) - Porn Downloader
-* [Pornhub DL Script](https://redd.it/ks5sba), [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) or [Savido Pornhub](https://www.savido.net/sites/pornhub) - Pornhub Downloader
-* [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - FC2 Image Scraper
-* [TheYNC Download Guide](https://pastebin.com/JiKgRE4M)
-* [pandaforever](https://gitlab.com/squishydreams/pandaforever), [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) or [Panda Chaika](https://panda.chaika.moe/) [nhentai](https://github.com/RicterZ/nhentai) - Hentai Downloader
-* [/cumg/](https://rentry.co/coom) - Hentai Tools
 * [DeepMosaics](https://github.com/HypoX64/DeepMosaics) or [DeepCreamPy](https://github.com/styler00dollar/Colab-DeepCreamPy/blob/master/Colab-DeepCreamPy-2.2.ipynb)
 * [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/) - NSFW Reverse Image Search
 * [NameThatPorn](https://namethatporn.com/) - Porn Identification Tool
