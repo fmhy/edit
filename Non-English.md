@@ -11,6 +11,7 @@
 
 # ► Arabic 
 
+* [Dawin](https://www.dawin.io/) - Markdown Editor 
 * [Wudooh](https://wudooh.app/) - Make Arabic Text Clearer
 * [At4RE](https://www.at4re.net/) - Reverse Engineering Forum
 
@@ -130,6 +131,8 @@
 ## ▷ Downloading
 
 * [ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - Chinese Download Manager
+* [baidu-pan-downloader](https://github.com/dotennin/baidu-pan-downloader) - Baidu Yun Download Manager 
+* [Baidu Yun Download Methods](https://gist.github.com/mfiro/b0bdf5f4054a34c36bf3a8e6d9bf5397) 
 * [BD2020](https://www.bd2020.com/) - Movies
 * [shinybbs](https://sub.shinybbs.vip/) - TV 
 * [3dmgame](https://www.3dmgame.com/) - Games / Geolocked / Baidu Required 
@@ -962,6 +965,7 @@
 * [Dieta Emagrece](https://dietaemagrece.com.br/), [DicasPara](https://www.dicasparaperderpeso.com.br/) or [Beleza e Saude](https://belezaesaude.com/) - Health
 * [Educa Mais Brasil](https://www.educamaisbrasil.com.br/enem/guia-enem) - ENEM Study Material
 * [Universia](https://www.universia.net/) - Portuguese University Search
+* [Flutterando](https://github.com/Flutterando/roadmap) - Flutter Guides 
 * [Uol](https://escolakids.uol.com.br/) - Kids Learning
 * [Portuguese Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_browser_games) 
 * [Atari2600](http://www.atari2600.com.br/) - Browser Emulator
@@ -1236,6 +1240,12 @@
 * [GitFlic](https://gitflic.ru/ ) - Russian Github
 * [ScreenChat](https://screenchat.live/) - Create Fake Texts
 * [Виртуальный компьютерный музей](https://www.computer-museum.ru/) - History of Computer Science / Virtual Museum
+* [RG.RU](https://rg.ru/) - Russian News / [Telegram](https://t.me/rgrunews)
+* [Kremlin News](https://t.me/news_kremlin) - Russian Government News
+* [Ovd-info](https://t.me/ovdinfolive) - Protestor Prosecution News / [Telegram](https://t.me/ovdinfo)
+* [government_rus](https://t.me/government_rus) - Official Russian Government Telegram
+* [zakupki_time](https://t.me/zakupki_time) -  Government Procurement Watch
+* [zakonrf](https://www.zakonrf.info/) or [Pravo](http://pravo.gov.ru/) - Russian Laws
 
 ## ▷ Downloading 
 
@@ -1489,6 +1499,7 @@
 * [Cliver](https://www.cliver.to/) - Movies
 * [Repelis24](https://repelis24.co/) - Movies / TV
 * [PelisForte](https://pelisforte.co/) - Movies / TV
+* [Cine.Arplay](https://play.cine.ar/) - Movies / TV 
 * [locopelis](https://www.locopelis.com/) - Movies / NSFW
 * [enlineahd](https://enlineahd.com/) - Movies / TV
 * [tekilaz](https://tekilaz.co/) - Movies / TV
