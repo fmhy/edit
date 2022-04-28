@@ -433,6 +433,7 @@
 * [114.116.28.83](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_114.116.28.83)
 * [SuperKuh](http://erewhon.superkuh.com/library/) 
 * [Non_Fic](https://vk.com/non_fic) 
+* [FreePLRDownloads](https://freeplrdownloads.com/)
 * [Uloz Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_uloz_archive) 
 * [FreeBookCentre](http://www.freebookcentre.net/)
 * [Wikiversity](https://www.wikiversity.org/) - Learning Resources, Guides, Quizzes, Tools & More
@@ -546,6 +547,7 @@
 * [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive 
 * [Carti](https://enryo.ro/carti/) - Japanese Martial Arts History Books
 * [Van Gogh Letters](http://vangoghletters.org/vg/) or [VGGallery](http://vggallery.com/) - Vincent van Gogh Letters
+* [DigitalTransgenderArchive](https://www.digitaltransgenderarchive.net/) - Transgender History Archive 
 
 ***
 
@@ -786,7 +788,7 @@
 * [UnofficialCBR](https://unofficialcbr.home.blog/) - Downloads
 * [BookGN](http://www.bookgn.com/) - Downloads
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
-* [BookDL Comic & Manga](http://booksdl.org/comics0/) - Comics / Manga / Drive
+* [BookDL Comic & Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_booksdl) - Comics / Manga / Drive
 * [ComicBookPlus](https://comicbookplus.com/) - Golden Age Comics
 * [Comic Museum](https://digitalcomicmuseum.com/index.php) - Golden Age Comics
 * [GoComics](https://www.gocomics.com/) - Comics Strips
@@ -821,6 +823,9 @@
 * [Manga Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_download_bots) - Bots that Download Manga
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - Anime / Manga Download Forum
 * [Madokami Manga Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_madokami)
+* [The Manga Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_manga_library)
+* [Mangas.Heoo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mangas.heoo)
+* [BookDL Comic & Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_booksdl)
 * [bato](https://bato.to/) - [Discord](https://discord.gg/7NBwcBsDph)
 * [MangaHere](http://www.mangahere.cc)
 * [MangaNelo](https://manganelo.com/) or [Mangakakalot](https://mangakakalot.com/)
@@ -838,7 +843,6 @@
 * [MangaSee](https://www.mangasee.net/) 
 * [Disaster Scans](https://disasterscans.com/) - [Discord](https://discord.gg/JbcJCpv)
 * [ZinManga](https://zinmanga.com/)
-* [The Manga Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_manga_library)
 * [SenseScans](https://sensescans.com/)
 * [Mangasy](https://www.mangasy.com/)
 * [Manga Toon](https://mangatoon.mobi/)
@@ -870,7 +874,6 @@
 * [KissManga](https://kissmanga.in/)
 * [Manhwafull](https://manhwafull.com/)
 * [Free Manga Hub](https://freemangahub.com/)
-* [Mangas.Heoo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mangas.heoo)
 * [247Manga](https://247manga.com/) 
 * [DeathTollScans](https://www.deathtollscans.net/)
 * [Manga Rock](https://mangarock.to/)
@@ -908,7 +911,6 @@
 * [NineAnime](https://www.nineanime.com/category/)
 * [WuxiaWorld](https://wuxiaworld.site/) - Manga / Novels 
 * [MANGAen](https://t.me/MANGAen) - Manga / Telegram 
-* [BookDL Comic & Manga](http://booksdl.org/comics0/) - Comics / Manga / Drive
 * [Manhua / Manhwa Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manhua_.2F_manhwa_manga) - Manhua & Manhwa Manga Sites
 * [Dynasty Scans](https://dynasty-scans.com/) - Yuri
 * [BoysLove](https://boyslove.me/) - Yaoi 
@@ -918,8 +920,6 @@
 * [AllMangasReader](http://allmangasreader.com/), [OpenComic](https://github.com/ollm/OpenComic) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - Manager / Reader
 * [Tachiyomi](https://github.com/Suwayomi)  - Manga / Comic Reader / [Web Client](https://github.com/TachiWeb) / [Discord](https://discord.com/invite/tachiyomi) 
 * [LANraragi](https://github.com/Difegue/LANraragi) - Manga / Doujin Manager for NAS / [Discord](https://discord.com/invite/aRQxtbg)
-* [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl) - Manga Downloader
-* [manga-py](https://github.com/manga-py/manga-py) - Python Line Manga Downloader 
 * [MangaManage](https://github.com/Daedren/MangaManage) - Tachiyomi Download Manager
 * [Manga APIs](https://rentry.co/manga-apis) - Manga Site API's
 * [Scanlation Sites](https://www.reddit.com/r/mangadex/comments/mafhtl/scanlation_sites_megathread/) - Manga Scanlation Groups
