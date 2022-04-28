@@ -36,6 +36,7 @@
 * [anime-terminal](https://github.com/YogeshLamichhane/anime-terminal) or [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal for Linux
 * [Trackma](https://github.com/z411/trackma/) - Anime Tracking App
 * [Knapsu](https://knapsu.eu/plex/) or [Cloudbox](https://cloudbox.works/) - Media Server
+* [ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) - Automated Media Server Setup 
 * [Docket-Jacket](https://github.com/linuxserver/docker-jackett) - Docker Jacket Container
 * [Spot](https://github.com/xou816/spot) - Spotify Desktop Client for Gnome 
 * [spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify Client
@@ -84,6 +85,7 @@
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [GParted](https://gparted.org/) - Partition Manager
 * [howtodebuntu](https://github.com/themagicalmammal/howtodebuntu) - Tweaks for Debian Based Distros
+* [Extension Manager](https://github.com/mjakeman/extension-manager) - GNOME Shell Extensions 
 * [ckb-next](https://github.com/ckb-next/ckb-next) - Corsair RGB Driver for Linux
 * [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - Mac Theme
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme), [Moka](https://snwh.org/moka), [Numix](https://github.com/numixproject/numix-icon-theme) or [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Linux Icon Themes
