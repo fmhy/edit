@@ -316,7 +316,7 @@
 * [Porn-Vault](https://github.com/porn-vault/porn-vault), [Fapflix2.0](https://github.com/EinAeffchen/Fapflix2.0), [StashApp](https://stashapp.cc/) or [Stash](https://github.com/stashapp/stash) - Porn File Manager
 * [TheLeakNetwork](https://theleaknetwork.com/) or [UploadingPorn](https://uploadingporn.com/) - NSFW File Host
 * [Javinizer](https://github.com/jvlflame/Javinizer) - JAV File Organizer
-* [DeepMosaics](https://github.com/HypoX64/DeepMosaics) or [DeepCreamPy](https://github.com/styler00dollar/Colab-DeepCreamPy/blob/master/Colab-DeepCreamPy-2.2.ipynb)
+* [DeepMosaics](https://github.com/HypoX64/DeepMosaics) or [DeepCreamPy](https://github.com/styler00dollar/Colab-DeepCreamPy/blob/master/Colab-DeepCreamPy-2.2.ipynb) - Remove Mosaics from Porn
 * [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/) - NSFW Reverse Image Search
 * [NameThatPorn](https://namethatporn.com/) - Porn Identification Tool
 * [ThePornDB](https://metadataapi.net/) - Porn Metadata
