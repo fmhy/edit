@@ -731,7 +731,6 @@
 * [dl-zip](http://dl-zip.com/) - Manga / NSFW
 * [CMOA](https://www.cmoa.jp/) - Manga  
 * [shobonnexus](https://shobonnexus.com/) - Novels / Magazines  
-* [itazuraneko](https://itazuraneko.neocities.org/) - Manga / Anime / Learning
 * [watanoc](http://watanoc.com/) - Articles / Learn Japanese 
 * [Nihongo Monash](http://nihongo.monash.edu/onlinejdic.html) - Dictionaries
 
