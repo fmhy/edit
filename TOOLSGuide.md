@@ -1542,7 +1542,7 @@
 # ► System Tools
 
 * **[Windows Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/pirate-windows)**
-* **[Windows ISO's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_windows_isos)** - Download Windows
+* **[Windows ISO's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
 * **[Windows Activation Guides / Scripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_windows_activation)** - Active Windows
 * **[Optimize-Guide](https://rentry.co/mdl-optimize-guide)** - Optimize Windows / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat)
 * **[Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png)**, [2](https://i.imgur.com/A36Yd7F.png) / [Course](https://keycombiner.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/) or [CheatKeys](https://cheatkeys.com/CheatSheet) - Keyboard Shortcuts
