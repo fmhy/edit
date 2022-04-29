@@ -2777,7 +2777,6 @@ Good for finding classic, obscure & short films.
 * [Fido](https://github.com/pbatard/Fido) - *Powershell Script*
 * [ggOS](https://discord.gg/A5BHSQV) - *Custom Windows 10 20H2*
 * [Windows Sun Valley](https://archive.org/details/windows-sv-pro-v-1) - *Custom Windows 10 21H1*
-* [XOS](https://discord.gg/Zs4bpVjJyp) - *Custom Windows 10 1803*
 * [ReviOS](https://www.revi.cc/) - *Custom Windows 10*
 * [Ghost Spectre](https://youtube.com/playlist?list=PLLP5vMyczsRwwyDQQBRJQfQtxozNkEWwk) - *Custom Windows 10*
 * [Phoenix LiteOS](https://phoenixliteos.com/)  - *Custom Windows 10*
