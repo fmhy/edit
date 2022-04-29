@@ -1335,12 +1335,6 @@ pass: paluch
 
 *** 
 
-#### Windows ISOs
-
-`aHR0cHM6Ly9yZW50cnkuY28vV2luLUlTTw==`
-
-*** 
-
 #### Windows Activation
 
 `aHR0cHM6Ly9yZW50cnkuY28vV2luLUFjdGl2YXRl`
