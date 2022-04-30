@@ -811,7 +811,8 @@
 * [doubleH3lix](https://doubleh3lix.tihmstar.net/) - 10.0 up to 10.3.3 Jailbreak / [GitHub](https://github.com/tihmstar/doubleH3lix)
 * [kok3shi](https://dora2ios.web.app/kokeshiJB.html) - 9.3-9.3.5 Semi-tethered Jailbreak
 * [Phoenix](https://phoenixpwn.com/) - 9.3.5-9.3.6 32-bit Jailbreak
-* [Kok3shi](https://dora2ios.web.app/kokeshiJB.html) - 9.3 - 9.3.5Jailbreak
+* [Kok3shi](https://dora2ios.web.app/kokeshiJB.html) - 9.3 - 9.3.5 Jailbreak
+* [p0laris](https://p0laris.dev/) - 9.x Untethered Jailbreak / [GitHub](https://github.com/p0larisdev/app)
 * [Pangu933](https://web.archive.org/web/20170214021020/http://dl.pangu.25pp.com/jb/NvwaStone_1.1.ipa) - 9.2 up to 9.3.3 Jailbreak
 * [HomeDepot](http://wall.supplies/) - 9.1 up to 9.3.4 Jailbreak
 * [Pangu9](https://web.archive.org/web/20170702115349/http://en.9.pangu.io/) - 9.0 to 9.0.2 Jailbreak
@@ -928,6 +929,7 @@
 * [DiscordExtras](https://github.com/NotZoeyDev/DiscordExtras) - Patch Discord Client
 * [Local Time Generator](https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94) - Generate Discord Timestamps
 * [UTM](https://getutm.app/) - Virtual Machines 
+* [AppManager](https://github.com/kawaiizenbo/AppManager) - iOS App Manager for Windows 
 * [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) - Automation Script Tool
 * [Winno](https://apps.apple.com/us/app/winno-just-the-facts/id1460212743) - News
 * [MAPS.ME](https://maps.me/) - Offline Maps / [GitHub](https://github.com/mapsme/omim)
