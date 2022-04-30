@@ -542,6 +542,8 @@
 * [Inno Setup](https://jrsoftware.org/isinfo.php), [Fileforums Premade Installers](https://github.com/LeFishe/fileforums-premade-installers), [InstallForge](https://www.installforge.net/) or [ActualInstaller](https://www.actualinstaller.com/) - Create Installation Programs
 * [Ink](https://github.com/vadimdemedes/ink) - Create Interactive CLI Apps
 * [Enquirer](https://github.com/enquirer/enquirer) - Create CLI Prompts
+* [UWP](https://www.telerik.com/uwp/) - Telerik UI for UWP / [Github](https://github.com/telerik/UI-For-UWP)
+* [FluentWPF](https://github.com/sourcechord/FluentWPF) - Fluent Design System for WPF
 * [Flatpak](https://flatpak.org/) - Create & Distribute Linux Applications
 * [Awesome DOS](https://github.com/balintkissdev/awesome-dos) - DOS App Development Resources
 * [WTFPL](http://www.wtfpl.net/) - Free Software Licenses
