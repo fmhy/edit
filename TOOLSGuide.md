@@ -916,6 +916,7 @@
 * [Marginalia Search](https://search.marginalia.nu/) - Text Based Search Engine
 * [TheOldNet](http://theoldnet.com/) - Retro Search Engine
 * [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - 40 Custom Search Engines
+* [LumenDatabase](https://lumendatabase.org/) - Search DMCA Takedown Requests
 * [Refseek](https://www.refseek.com/) - Academic Search Engine 
 * [Social Media CSE](https://cse.google.com/cse?cx=73dda67fd05b4405f#gsc.tab=1&gsc.sort=) - Search Social Media Sites
 * [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - Search TikTok
