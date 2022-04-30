@@ -327,6 +327,7 @@
 * [cpasmieux](https://wwv.cpasmieux.site/) - Movies / TV / Anime
 * [kinoger](https://kinoger.com/) - Movies / TV / Anime
 * [Streamay](https://www.streamay.to/) - Movies / TV 
+* [streamcenter](https://wwv.streamcenter.cc/) - Movies / TV 
 * [WiFlix](https://wiflix.site/) - Movies / TV / Anime 
 * [Cinematheque](https://www.cinematheque-bretagne.bzh/) - Movies
 * [voirseries](https://voirseries.io/) - TV / Anime
