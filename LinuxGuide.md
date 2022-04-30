@@ -35,6 +35,7 @@
 * [rtinst](https://github.com/arakasi72/rtinst) - Seedbox Installation Script for Ubuntu / Debian 
 * [anime-terminal](https://github.com/YogeshLamichhane/anime-terminal) or [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal for Linux
 * [Trackma](https://github.com/z411/trackma/) - Anime Tracking App
+* [fmedia](https://github.com/stsaz/fmedia) - Media Player and Converter 
 * [Knapsu](https://knapsu.eu/plex/) or [Cloudbox](https://cloudbox.works/) - Media Server
 * [ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) - Automated Media Server Setup 
 * [Docket-Jacket](https://github.com/linuxserver/docker-jackett) - Docker Jacket Container
@@ -98,6 +99,7 @@
 * [Polychromatic](https://polychromatic.app/) - Linux System Light Control
 * [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
 * [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - Window Closing Effects
+* [Junction](https://github.com/sonnyp/Junction) - App Launcher
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) - Noise Cancellation Software
 * [Giara](https://aur.archlinux.org/packages/giara/) - Reddit Client / [GitHub](https://gitlab.gnome.org/World/giara)
 * [reddio](https://gitlab.com/aaronNG/reddio) - Reddit CLI
