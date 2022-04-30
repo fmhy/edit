@@ -929,7 +929,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Image Viewers
 
-**[IrfanView](https://www.irfanview.com/)**, [qimgv](https://github.com/easymodo/qimgv), [XnView](https://www.xnview.com/en/), [nomacs](https://nomacs.org/), [ImageGlass](https://imageglass.org/), [PhotoQt](https://github.com/luspi/photoqt), [Win 7 Photos](https://mega.nz/file/94AwRBiZ#ySswvrH88PlmNrLcbmrIZROWVcmLum-N0tAZS31l72U), [PicView](https://github.com/Ruben2776/PicView), [JPEGView](https://github.com/sylikc/jpegview), [Image Eye](https://www.fmjsoft.com/imageeye.html), [qView](https://interversehq.com/qview/), [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/) / [Git](https://github.com/ModuleArt/quick-picture-viewer), [Fragment](https://www.fragmentapp.info/)
+**[IrfanView](https://www.irfanview.com/)**, [qimgv](https://github.com/easymodo/qimgv), [XnView](https://www.xnview.com/en/), [nomacs](https://nomacs.org/), [ImageGlass](https://imageglass.org/), [PhotoQt](https://github.com/luspi/photoqt), [Win 7 Photos](https://mega.nz/file/94AwRBiZ#ySswvrH88PlmNrLcbmrIZROWVcmLum-N0tAZS31l72U), [PicView](https://github.com/Ruben2776/PicView), [JPEGView](https://github.com/sylikc/jpegview), [Image Eye](https://www.fmjsoft.com/imageeye.html), [qView](https://interversehq.com/qview/), [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/) / [Git](https://github.com/ModuleArt/quick-picture-viewer), [Fragment](https://www.fragmentapp.info/), [qView](https://github.com/jurplel/qView)
 
 ***
 
@@ -1751,7 +1751,7 @@ Add the following commands to a search to manually scrape each site.
 
 ####  Screen Recorders
 
-**[OBS](https://obsproject.com/)** / [Guide](https://youtu.be/7fuFGDFDzUY), [Bandicam](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bandicam), [FFmpeg](https://ffmpeg.org/), [Nchsoftware](https://www.nchsoftware.com/capture/), [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php), [Screenpresso](https://www.screenpresso.com/), [LiteCam](https://www.litecam.net/en/), [SRERecorder](https://srecorder.com/), [CamStudio](https://camstudio.org/), [EZVid](https://www.ezvid.com/), [Captura](https://mathewsachin.github.io/Captura/), [ScreenRecorder.2.0](https://github.com/Samuel-dot-cloud/ScreenRecorder.2.0), [Kap](https://getkap.co/), [oCam](https://ohsoft.net/eng/ocam/download.php?cate=1002), [WebMCam](https://github.com/michaelmob/WebMCam), [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/), [Kalmuri](https://global.kilho.net/kalmuri/), [Wink](https://www.debugmode.com/wink/), [RecWide](https://www.recwide.com/recorder/), [Vileo](https://lukasbach.github.io/vileo/), [Shar.ec](https://shar.ec/), [Scre.io](https://scre.io/), [Screen Recorder](https://github.com/akon47/ScreenRecorder), [ScreenREC](https://screen-rec.vercel.app/), [RecordCast](https://www.recordcast.com/), [RecordScreen](https://recordscreen.io/), [RecordJoy](https://shareit.video/), [ScreenApp](https://screenapp.io/), [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG)
+**[OBS](https://obsproject.com/)** / [Guide](https://youtu.be/7fuFGDFDzUY), [Bandicam](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bandicam), [FFmpeg](https://ffmpeg.org/), [Nchsoftware](https://www.nchsoftware.com/capture/), [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php), [Screenpresso](https://www.screenpresso.com/), [LiteCam](https://www.litecam.net/en/), [SRERecorder](https://srecorder.com/), [CamStudio](https://camstudio.org/), [EZVid](https://www.ezvid.com/), [Captura](https://mathewsachin.github.io/Captura/), [ScreenRecorder.2.0](https://github.com/Samuel-dot-cloud/ScreenRecorder.2.0), [Kap](https://getkap.co/), [oCam](https://ohsoft.net/eng/ocam/download.php?cate=1002), [WebMCam](https://github.com/michaelmob/WebMCam), [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/), [Kalmuri](https://global.kilho.net/kalmuri/), [Wink](https://www.debugmode.com/wink/), [RecWide](https://www.recwide.com/recorder/), [Vileo](https://lukasbach.github.io/vileo/), [Shar.ec](https://shar.ec/), [Scre.io](https://scre.io/), [Screen Recorder](https://github.com/akon47/ScreenRecorder), [ScreenREC](https://screen-rec.vercel.app/), [RecordCast](https://www.recordcast.com/), [RecordScreen](https://recordscreen.io/), [RecordJoy](https://shareit.video/), [ScreenApp](https://screenapp.io/), [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG), [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder)
 
 **Browser Extensions**
 
@@ -2738,6 +2738,7 @@ Good for finding classic, obscure & short films.
 * [Xplorer](https://github.com/kimlimjustin/xplorer)
 * [One Commander](https://www.onecommander.com/) 
 * [Free Commander](https://freecommander.com/)
+* [ExplorerEx](https://github.com/DearVa/ExplorerEx) 
 * [Files](https://files.community/)
 * [MUCommander](https://www.mucommander.com/) 
 * [TablacusExplorer](https://tablacus.github.io/explorer_en.html) - [GitHub](https://github.com/tablacus/TablacusExplorer)
