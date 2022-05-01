@@ -156,8 +156,7 @@
 * [aesthetic_dvite](https://t.me/aesthetic_dvite) - Telegram
 * [destructiveaddiction](https://t.me/destructiveaddiction) - Telegram
 * @PornMirror - Telegram
-* [KinkBot](https://kinkbot.me/) - Porn Image Bot
-* [Boob Bot](https://www.boobbot.us/) - Porn Image Bot
+* [KinkBot](https://kinkbot.me/), [Boob Bot](https://www.boobbot.us/) or [multporn-image-downloader-v2](https://github.com/Official-Husko/multporn-image-downloader-v2) - Porn Image Downloader
 * [NSFWDownloader](https://github.com/h110m/NSFWDownloader) - Porn Downloader
 * [Pornhub DL Script](https://redd.it/ks5sba), [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) or [Savido Pornhub](https://www.savido.net/sites/pornhub) - Pornhub Downloader
 * [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - FC2 Image Scraper
@@ -199,8 +198,6 @@
 * [Memory Hole](https://memoryhole.cc/) - OnlyFans / Patreon
 * [Pornlyfans](https://ufile.io/d6jdix9i) - OnlyFans
 * [thotupload](https://thotupload.com/) - OnlyFans
-* [Egirls.Wtf](https://egirls.wtf/) - OnlyFans
- [multporn-image-downloader-v2](https://github.com/Official-Husko/multporn-image-downloader-v2)
 * Add `site:cyberdrop.me` to search onlyfans leaks
 * [Only Fans CSE](https://cse.google.com/cse?cx=230603009f774dff1) - OnlyFans Custom Search
 * [realthothub](https://realthothub.com/) - Leak Storage
