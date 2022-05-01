@@ -367,6 +367,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * [You Suck At Cooking](https://youtube.com/c/yousuckatcooking)
 * [Aragusea](https://youtube.com/user/aragusea) 
 * [Jocondesbaking](https://m.youtube.com/c/%EC%A1%B0%EA%BD%81%EB%93%9CJocondesbaking) 
+* [Ruby Ka Kitchen](https://www.youtube.com/channel/UCMhx-uS3O-G_6_lTrYmDKLw)
 
 ***
 
