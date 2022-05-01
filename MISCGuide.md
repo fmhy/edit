@@ -52,6 +52,7 @@
 * [Peelopaalu](https://peelopaalu.neocities.org/) - Site / Tool Index
 * [RefDesk](https://www.refdesk.com/facts.html) - Site / Tool Index
 * [/g/'s good sites](https://rentry.co/sites) - Site / Tool Index
+* [Index.Normie](https://index.normie.cc/) - Site / Tool Index
 * [Illegal Services](https://git.teknik.io/Illegal-Services/Illegal_Services) - Site / Tool Index App / [Discord](https://discord.gg/577AWghYtx)
 * [Product Hunt](https://www.producthunt.com/) - Site / Tool Index
 * [Useful Interweb](https://usefulinterweb.com/) or [Daily Useful Links](https://t.me/DailyUsefulLINKS) - Daily Websites
