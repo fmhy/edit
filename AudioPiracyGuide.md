@@ -184,7 +184,7 @@
 * [EcoSounds](http://en.ecosounds.net/) - Ambient
 * [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - Ambient
 * [MoodTurn](http://moodturn.com/) - Ambient
-* [RelaxFrens](https://www.relaxfrens.com/)
+* [RelaxFrens](https://www.relaxfrens.com/) - Ambient
 * [Sounds of Maine](https://soundsofmaine.life/) - Ambient Maine Sounds
 * [lofi](https://lofi.co/) - Ambient / Lo-fi
 * [Ambient Mixer](https://www.ambient-mixer.com/) - Ambient / Lo-fi 
