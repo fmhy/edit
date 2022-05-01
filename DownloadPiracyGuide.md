@@ -57,10 +57,6 @@
 
 # ► Download Sites
 
-**Note** - It's best to avoid sites that allow anyone to upload without consequence when getting both software and games.
-
-***
-
 * **[DownloadHa](https://www.downloadha.com)** - Video / Software / Games / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * **[SoftArchive](https://sanet.st)** or [Sanet.lc](https://sanet.lc/) - Video / Audio / Games / Software / Android / Books / Comics / Newspapers / Magazines / [Status](https://sastatus.com/)
 * **[DirtyWarez](https://forum.dirtywarez.com/)** - Forum / Video / Audio / Games / Software / Books / Comics 
