@@ -57,7 +57,6 @@
 * [Product Hunt](https://www.producthunt.com/) - Site / Tool Index
 * [Useful Interweb](https://usefulinterweb.com/) or [Daily Useful Links](https://t.me/DailyUsefulLINKS) - Daily Websites
 * [Mostly Free](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - Site / Tool Index
-* [List of Websites to Know Anything about Everything!](https://babiato.co/threads/great-list-of-websites-to-know-anything-about-everything.69611/) - Site / Tool Index
 * [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - Chinese Site / Tool Index
 * [iBiblio](https://www.ibiblio.org/) - Site / Tool Index 
 * [Acme](http://www.acme.com/) - Site / Tool Index 
