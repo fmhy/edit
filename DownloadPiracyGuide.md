@@ -138,9 +138,8 @@
 * [ShareMania](http://sharemania.us/) - Video / Audio 
 * [Heidoc](https://www.heidoc.net/joomla/) - Software / Books / Android 
 * [Pouet](https://www.pouet.net/prodlist.php) - Demos / Cracktros
-* [scene.org](https://files.scene.org/ - Demoscene Archive 
 * [Redump](http://redump.org/) - Disc Preservation Project
-* [DemoZoo](https://demozoo.org/) - Demoscene Archive / [Wiki](https://en.wikipedia.org/wiki/Demoscene)
+* [DemoZoo](https://demozoo.org/) or [scene.org](https://files.scene.org/) - Demoscene Archive / [Wiki](https://en.wikipedia.org/wiki/Demoscene)
 * [Ubu](https://ubuweb.com/) - Avant-Garde Artifacts
 * Alexa Rankings - [Sites](https://dirtywarez.org/cat/blog) / [Forums](https://dirtywarez.org/cat/forum) 
 
