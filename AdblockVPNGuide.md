@@ -14,7 +14,7 @@
 * **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/), [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) or [AmIUnique](https://amiunique.org/fp) - Adblocking Test
 * [Simple Opt Out](https://simpleoptout.com/) - Turn off Targeted Ads
 * [hBlock](https://github.com/hectorm/hblock), [someonewhocares](https://someonewhocares.org/hosts/), [winhelp2002](https://winhelp2002.mvps.org/hosts.htm) or [Hosts](https://github.com/StevenBlack/hosts)   - Block Ads with Host Files 
-* [PSTube](https://github.com/prateekmedia/pstube) - Ad Free YouTube Client
+* [Invidious](https://invidious.io/) / [GitHub](https://github.com/iv-org/invidious) or [PSTube](https://github.com/prateekmedia/pstube) - Ad Free YouTube Client
 
 ***
 
@@ -155,6 +155,7 @@
 * [Defeat Defender](https://github.com/swagkarna/Defeat-Defender-V1.2) - Disable Windows Defender
 * [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - Malware Search Extension 
 * [JShelter](https://jshelter.org/) - Anti-Malware Extension
+* [VirusTotalAV_bot](https://t.me/VirusTotalAV_bot) - Telegram File Scanner
 * [Malware Analysis Search](https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu)
 * [CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Log4j2 CVE-2021-44228 Vulnerability Scanner
 
