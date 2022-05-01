@@ -143,6 +143,7 @@
 * [The New Boston](https://thenewboston.com/) - Site Development Courses [Discord](https://discord.com/invite/thenewboston)
 * [Web Dev Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_web_dev_courses) - Web Development Courses
 * [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) or [Interneting is Hard](https://www.internetingishard.com/) - Learn Web Development
+* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Web Dev Roadmap
 * [Agernic](https://www.agernic.com/) - Web Design Courses
 * [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) - Interactive Web Design Tutorial
 * [UI & Web Design using Adobe Illustrator C](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ui_.26amp.3B_web_design_using_adobe_illustrator_c) - UI & Webdesign Course
@@ -536,6 +537,7 @@
 * [BugSnag](https://www.bugsnag.com/) - Application Stability Monitor
 * [98.css](https://jdan.github.io/98.css/) - Build Windows 98 Themed Interfaces / [GitHub](https://github.com/jdan/98.css)
 * [Radare](https://rada.re/r/), [Flare IDA](https://github.com/mandiant/flare-ida), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://github.com/rizinorg/cutter) - Reverse Engineering 
+* [aarch64-sysreg-ida](https://github.com/TrungNguyen1909/aarch64-sysreg-ida) - IDA Plugin to View Armv8 MSRs
 * [Kubeorbit](https://github.com/teamcode-inc/kubeorbit) - Application Testing / Debugging
 * [Redis](https://redis.io/) - Key-Value Database
 * [Read the Docs](https://readthedocs.org/) or [MkDocs](https://www.mkdocs.org/) / [GitHub](https://github.com/mkdocs/mkdocs/)- Make Documentation for your Software
@@ -569,6 +571,7 @@
 * [Heroku Duo](https://heroku.viperadnan.gq/duo) - Run Heroku Apps Forever / [Alternate](https://github.com/tiararosebiezetta/HerokuDynoSwitcher)
 * [Kaffeine](http://kaffeine.herokuapp.com/) - Heroku Auto Ping
 * [Xcode](https://developer.apple.com/xcode/) - Test and Build iOS / iPadOS Apps
+* [Xcodes App](https://github.com/RobotsAndPencils/XcodesApp) - Xcode Manager
 * [IconKitchen](https://icon.kitchen/) or [AppIcon](https://appicon.co/)- App Icon Generator
 * [iOS Icon Gallery](https://www.iosicongallery.com/) - iOS Icon Examples
 * [Plank](https://launchpad.net/plank) - Simple Dock / [GitHub](https://github.com/ricotz/plank)
