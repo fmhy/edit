@@ -1254,7 +1254,7 @@
 * [BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - Bot Messaging Panel
 * [Figma](https://www.figma.com/community/file/992144378612759941/Discord-Resources) - Discord Resources / [Desktop](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)
 * [Mon2Cam](https://github.com/ShayBox/Mon2Cam) - Multi-Monitor Discord Screenshare Fix
-* [OpenAsar](https://github.com/GooseMod/OpenAsar) - Alternative app.asar
+* [OpenAsar](https://openasar.dev/) - Improved app.asar / [GitHub](https://github.com/GooseMod/OpenAsar)
 
 ***
 
@@ -1265,6 +1265,7 @@
 * [Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_bots) - Telegram Bot Indexes
 * [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [gramxly](https://gramxly.com/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - Telegram Channel / Bot Search
 * [ShellBot](https://github.com/MannyHackers/ShellBot), [EvaMaria](https://github.com/EvamariaTG/EvaMaria) or [Userge](http://theuserge.tech/) - Multi-Purpose Telegram Bot
+* [VirusTotalAV_bot](https://t.me/VirusTotalAV_bot) - Telegram File Scanner
 * [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots) - Audio Download Bots
 * [GetMediaBot](https://t.me/getmediabot) - Media Download Bot
 * [Telegram-Media-Downloader](https://github.com/fattynoparents/Telegram-Media-Downloader) - Media Download Extension
@@ -1300,7 +1301,7 @@
 * **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download Audio from YouTube
 * **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** or [yt dislikes viewer](https://github.com/pgamerx/yt-dislikes-viewer) - View YouTube Dislikes / [Discord](https://discord.com/invite/mYnESY4Md5)
 * **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)
-* [PSTube](https://github.com/prateekmedia/pstube) - Ad Free YouTube Client
+* [Invidious](https://invidious.io/) / [GitHub](https://github.com/iv-org/invidious) or [PSTube](https://github.com/prateekmedia/pstube) - Ad Free YouTube Client
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge) - Delete All YouTube Spam Comments
 * [YouTube Encoding Guide](https://support.google.com/youtube/answer/1722171) - Recommended YouTube Encoding Settings
@@ -1897,7 +1898,7 @@
 * [ValliStart](https://www.deviantart.com/jaxoriginals/art/ValliStart-Start-menu-replacement-893506095) - Windows Start Menu Skin
 * [FolderMarker](https://foldermarker.com/) or [CustomFolder](https://www.gdzsoft.com/) - Custom Folders & Markers
 * [Win98Icons](https://win98icons.alexmeub.com/) - Classic Win98 Icons
-* [Cursors 4U](https://www.cursors-4u.com/) - Cursors
+* [Cursors 4U](https://www.cursors-4u.com/) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
 * [Windows Sounds](https://winsounds.com/) or [Win11 Sounds](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_win11_sounds) - Windows Sound Schemes
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - MacOS Cursors for Windows
 * [terminal.sexy](https://terminal.sexy/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Color Schemes
