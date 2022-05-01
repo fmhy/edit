@@ -219,6 +219,7 @@
 * [Media Bar](https://play.google.com/store/apps/details?id=apps.ijp.mediabar) - Status Bar Media Controller
 * [Red Moon](https://github.com/LibreShift/red-moon) or [NightOwl](https://play.google.com/store/apps/details?id=com.evezzon.nightowl) - Screen Brightness Control
 * [Caffeine](https://lab.zhs.moe/caffeine/) - Keep Screen On
+* [Black Screen](https://play.google.com/store/apps/details?id=io.japp.blackscreen) - Turn Off Display While Audio is Playing
 * [WaveUp](https://gitlab.com/juanitobananas/wave-up) - Turn On Display via Waving
 * [Shelter ](https://cgit.typeblog.net/Shelter/) or [Insular](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps
 * [Warp Plus Cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Unlimited Warp+ GB
