@@ -413,6 +413,7 @@
 * [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) - Typing Practice
 * [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) - Reddit Dekstop Client
 * [Manta](https://github.com/hql287/Manta) - Invoice Manager
+* [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) - Manage Multiple Versions of Xcode 
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - Grayscale Control
 * [MacOSIcons](https://macosicons.com/) - MacOS Icons
 * [Rayon](https://github.com/Lakr233/Rayon) - SSH Machine Manager
