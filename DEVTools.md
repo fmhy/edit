@@ -341,7 +341,7 @@
 * [Illegal Analytics Scanner](https://illegal.analyticsscanner.com/) - Check if your Analytics Break Laws 
 * [OceanBase](https://open.oceanbase.com/) - Relational Database / [GitHub](https://github.com/oceanbase/oceanbase)
 * [NocoDB](https://www.nocodb.com/) - Turn Database into Smart Spreadsheet / [GitHub](https://github.com/nocodb/nocodb)
-* [PooShock](https://pooshock.ru/) - Apache 2 Test Page
+* [PooShock](http://pooshock.ru/) - Apache 2 Test Page
 * [WebAuthn](https://webauthn.io/) - Data Security Authentication API
 * [Awesome list of secrets in environment variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) - List of Secrets in Environment Variables 
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
