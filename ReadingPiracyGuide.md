@@ -169,7 +169,7 @@
 * [Zoboko](https://zoboko.com/) - Books
 * [Standard EBooks](https://standardebooks.org/) - Books
 * [Google Play Books](https://play.google.com/store/books/collection/topselling_free) - Books 
-* [Smashwords](https://www.smashwords.com/shelves/home/1/free/any), [2(https://www.smashwords.com/books/category/1/newest/0/free/any) - Books 
+* [Smashwords](https://www.smashwords.com/shelves/home/1/free/any), [2](https://www.smashwords.com/books/category/1/newest/0/free/any) - Books 
 * [lesatkins](http://www.lesatkins.com/books/epubfiles/) - Books
 * [Flibusta](https://flibusta.is/) - Books / [Onion](http://flibustahezeous3.onion/) / [I2P](http://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / Requires account
 * [The Free Book Library](http://ebooks.i2p/) - Books / I2P Required
