@@ -885,7 +885,7 @@
 * [SecretPhotoAlbum++](https://apps.apple.com/us/app/secret-photo-album/id1459036428), [Private Photo Vault](https://apps.apple.com/us/app/private-photo-vault-pic-safe/id417571834) or [No See You](https://noseeyou.com/) - Private Photo Album
 * [Onion Browser](https://onionbrowser.com/) - Onion Browser for iOS 
 * [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Privacy Based Browser 
-* [Lockdown iOS](https://apps.apple.com/dk/app/lockdown-apps/id1469783711 or [MobiWall](https://apps.apple.com/gb/app/mobiwall/id1486297414) - iOS Firewall / [GitHub](https://github.com/confirmedcode/Lockdown-iOS)
+* [Lockdown iOS](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) or [MobiWall](https://apps.apple.com/gb/app/mobiwall/id1486297414) - iOS Firewall / [GitHub](https://github.com/confirmedcode/Lockdown-iOS)
 * [PhantomVPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_phantomvpn) - Free VPN
 * [Anti-Social](https://apps.apple.com/us/app/faceblock-block-facebook/id1516200820) - Block Social Media Trackers 
 * [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669), [surespot](https://www.surespot.me/), [Status](https://status.im/), [Session](https://getsession.org/), [Confide](https://apps.apple.com/ca/app/confide-secret-messenger/id779883419), [Olvid](https://olvid.io/en/) or [chatsecure](https://chatsecure.org/) - Encrypted Messaging 
