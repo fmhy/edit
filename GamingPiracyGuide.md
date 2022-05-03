@@ -374,7 +374,6 @@
 * **[Cookie Consent Speed.Run](https://cookieconsentspeed.run/)** - Cookie Disabling Game
 * **[AirConsole](https://www.airconsole.com/)** or [AnsStream](https://www.antstream.com/ ) - Control TV Games with Phone 
 * **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme, turn off adblocker
-* [DiscordActivities](https://betterdiscord.app/plugin/DiscordActivities) - Voice Chat Games
 * [Discord Games Lab](https://discord.gg/discordgameslab)
 * [/r/WebGames](https://reddit.com/r/WebGames)
 * [Newgrounds](https://www.newgrounds.com/games)
