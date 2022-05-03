@@ -330,7 +330,7 @@
 * **[Fantastical](https://flexibits.com/fantastical)** - Calendar
 * [DMHY](https://github.com/yaqinking/DMHY) - Anime Torrent Autodownloader 
 * [YTMusic](https://ytmusic.app/) - YouTube Music Client
-* [Enmity](https://enmity.app/) - Modded Discord Client / [GitHub](https://github.com/enmity-mod / [Discord](https://discord.com/invite/rMdzhWUaGT)
+* [Enmity](https://enmity.app/) - Modded Discord Client / [GitHub](https://github.com/enmity-mod) / [Discord](https://discord.com/invite/rMdzhWUaGT)
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) - Download MacOS
 * [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions MacOS
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
