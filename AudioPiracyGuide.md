@@ -24,6 +24,7 @@
 * [Deezer](https://www.deezer.com/) - Streaming
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram 
 * [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Unlock Unavailable Netease Music
+* [stemplayerplayer](https://github.com/nn9dev/stemplayerplayer) or [stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator) - Kanye West STEM Player Emulators
 
 ***
 
@@ -150,6 +151,7 @@
 * [ListenBox](https://listenbox.app/) - Turn YouTube Video into Podcasts
 * [Anchor](https://anchor.fm/) - Podcast Creator
 * [Spotify Podcasters](https://podcasters.spotify.com/) - Podcaster Dashboard
+* [Spodcast](https://github.com/Yetangitu/Spodcast) - Spotify Podcast RSS Proxy 
 
 ***
 
