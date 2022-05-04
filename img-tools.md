@@ -16,7 +16,7 @@
 * **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/), [4](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_design_tool_zip) - Design Tool Resource Indexes   
 * **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [GlitchyImage](https://glitchyimage.com/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - Glitch Images
 * [rexpaint](https://www.gridsagegames.com/rexpaint/), [PabloDraw](http://picoe.ca/products/pablodraw/) or [Playscii](https://jp.itch.io/playscii) - ASCII Art Editor
-* [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Canva](http://canva.com/), [Stencil](https://getstencil.com/), [Design Studio](https://designstudio.smallseotools.com/), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/), [Scenify](https://editor.scenify.dev/), [ArtBoard](https://artboard.studio/) or [Glitterly](https://glitterly.app/) - Graphic Design Tools
+* [Graphic Design Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_graphic_design_tools) - Online Graphic Design Tools 
 * [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/) or [inspirationde](https://www.inspirationde.com/) - Graphic Design Inspirations
 * [IRA Design](https://iradesign.io/) - Illustration Creator
 * [Scribus](http://www.scribus.net/) - Page Layout & Typesetting Program
@@ -264,7 +264,7 @@
 * [Buhitter](https://buhitter.com/) - Twitter Illustration Search
 * [Footyrenders](https://www.footyrenders.com/) - Football Related Images
 * [PSDGraphics](https://www.psdgraphics.com/) - PSD Files
-* [The NFT Bay](https://thenftbay.org/) - NFT Collection
+* [The NFT Bay](https://thenftbay.org/) or [Extremely Fungible Tokens](https://www.extremelyfungible.com/) - Free NFTs
 * [16colors](https://16colo.rs/) or [RoySAC](http://www.roysac.com/sitemap.html) - ASCII / ANSI Art
 * [Artbreeder](https://artbreeder.com/) - Image Discovery / Combining
 * [Artvee](https://artvee.com/) - Public Domain Artwork 
