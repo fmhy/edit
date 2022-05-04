@@ -43,7 +43,7 @@
 * [Aegis](https://getaegis.app/), [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) or [andOTP](https://github.com/andOTP/andOTP) - Two-Factor Authentication 
 * [FaceAct Notes](https://play.google.com/store/apps/details?id=com.brainekt.faceactnotes) - Face Recognition App
 * [Divestos](https://divestos.org/), [GrapheneOS](https://grapheneos.org/) or [CalyXOS](https://calyxos.org/) - Privacy Based OS
-* [UPX Browser](https://www.upxb.net/) - VPN Proxy Browser
+* [UPX Browser](https://www.upxb.net/) or [ceno-browser](https://censorship.no/en/index.html) / [GitHub](https://github.com/censorship-no/ceno-browser) - Proxy Browser
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - App Isolation 
 * [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Explorer
 * [UntrackMe](https://fedilab.app/wiki/untrackme/) - Frontend Redirect / Link Unshorten / URL Cleanup
@@ -1051,7 +1051,7 @@
 
 # ► iOS Audio
 
-* **[Spotify++](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_spotify.2B.2B)**, **[Spotilife](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_spotilife)** / [2](https://repo.hackyouriphone.org/spotilife), [Tweaked Spotify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_tweaked_spotify) or [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580) - Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392)
+* **[Spotify++](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_spotify.2B.2B)**, **[Spotilife](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_spotilife)**, [Tweaked Spotify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_tweaked_spotify) or [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580) - Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392)
 * [YTMusilife](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ytmusilife) / [2](https://repo.hackyouriphone.org/ytmusilife) or [YouTube Music Patched](https://appdb.to/app/cydia/1900000831) - Streaming
 * [DeezeLife](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_deezelife) / [2](https://repo.hackyouriphone.org/deezelife) or [Deezer](https://apps.apple.com/app/deezer/id292738169) - Streaming
 * [Trebel](https://home.trebel.io/) - Streaming
