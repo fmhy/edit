@@ -281,7 +281,7 @@
 * [MCPEDL](https://mcpedl.com/) - Minecraft PE/Bedrock Mods, Maps & Resources
 * [Couleur Tweak Tips](http://discord.gg/CTT) - Minecraft Tweaks & Tips
 * [OptiFine Alternatives](https://lambdaurora.dev/optifine_alternatives/) - Minecraft OptiFine Alternatives for Fabric
-* [modsman](https://github.com/sargunv/modsman) - Minecraft Mod Manager
+* [modsman](https://github.com/sargunv/modsman) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Manager
 * [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - Minecraft Utility Mod
 * [Distant Horizons](https://gitlab.com/jeseibel/minecraft-lod-mod) - Increased Minecraft Render Distance
 * [SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons) - Addons for Skyblock
