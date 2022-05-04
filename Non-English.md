@@ -109,6 +109,7 @@
 * [Diaosi Forum](https://assbbs.com/) or [WangChao](https://www.wangchao.info/) - Piracy Discussion
 * [zimuku](http://zimuku.org/), [YYets](https://www.yyets.com/), [SubHD](https://www.subhdtw.com/sub/tv) or [SubHD](https://subhd.tv/) - Subtitles
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
+* [GameLoop](https://syzs.qq.com/) - Android Emulator 
 * [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
 * [Dianying](https://dianying.fm/) - Hash Search
 * [磁力海](https://cilidog.cc/) - DHT Search
@@ -565,7 +566,6 @@
 * [gaana](https://gaana.com/) - Music
 * [hungama](https://www.hungama.com/music/) - Music
 * [jiosaavn](https://www.jiosaavn.com/) - Music
-* [PikaShow](https://shinchan.pages.dev/) - Android / Movies / TV
 
 ## ▷ Reading
 
@@ -932,6 +932,7 @@
 * [FileTracker](http://filetracker.pl/) - Video / Audio / Software / Games / Books / Comics /NSFW
 * [TorrentCity](http://torrentcity.pl/) - Video / Audio / Software / Games / Books / Comics / NSFW
 * [VTorrent](http://vtorrent.pl/) - Video / Audio / Software / Games / Books / NSFW
+* [PolishSource](https://polishsource.cz/) 
 
 ## ▷ Streaming 
 
