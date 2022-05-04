@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/3pvx7dR.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/LiYmsJk.png)** - For mobile users
 
 ***
 ***
@@ -505,7 +505,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Encrypted Android Messengers
 
-[Threema](https://mirrorace.com/m/3DIja), [Status](https://status.im/), [Signal](https://github.com/mollyim/mollyim-android) / [2](https://langis.cloudfrancois.fr/) / [3](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) / [4](https://getsession.org/), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [Anonymous Messenger](https://f-droid.org/en/packages/com.dx.anonymousmessenger/), [ChatSecure](https://ballinger.io/apps/chatsecure/), [surespot](https://www.surespot.me/), [Snikket](https://www.f-droid.org/en/packages/org.snikket.android/), [RetroShare](https://f-droid.org/en/packages/org.retroshare.android.qml_app/), [BiP](https://bip.com/en/), [Olvid](https://olvid.io/en/), [Berty](https://berty.tech/), [OpenKeyChain](https://www.openkeychain.org/), [Dust](https://www.usedust.com/)
+[Threema](https://mirrorace.com/m/3DIja), [Status](https://status.im/), [Signal](https://github.com/mollyim/mollyim-android) / [2](https://langis.cloudfrancois.fr/) / [3](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) / [4](https://getsession.org/), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [Anonymous Messenger](https://f-droid.org/en/packages/com.dx.anonymousmessenger/), [ChatSecure](https://ballinger.io/apps/chatsecure/), [surespot](https://www.surespot.me/), [Snikket](https://www.f-droid.org/en/packages/org.snikket.android/), [RetroShare](https://f-droid.org/en/packages/org.retroshare.android.qml_app/), [BiP](https://bip.com/en/), [Olvid](https://olvid.io/en/), [Berty](https://berty.tech/), [OpenKeyChain](https://www.openkeychain.org/), [Dust](https://www.usedust.com/), [Fireside Messenger](https://newnode.com/)
 
 *** 
 
@@ -517,7 +517,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Encrypted Messengers
 
-**[Signal](https://signal.org/)**, [RetroShare](https://retroshare.cc/), [Off-the-Record](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Demonsaw](https://www.demonsaw.com/), [Bitmessage](https://wiki.bitmessage.org/Main_Page) / [Reference Client](https://github.com/Bitmessage/PyBitmessage), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [Mirage](https://github.com/mirukana/mirage), [Keybase](https://keybase.io/) / [.onion](http://fncuwbiisyh6ak3i.onion/), [CWTCH](https://cwtch.im/), [Bip](https://bip.com/en/), [Simplex](https://simplex.chat/), [Emberclear](https://emberclear.io/), [Matrix](https://matrix.org/) / [Cinny](https://cinny.in/), [Commune](https://commune.chat/), [Mesh](https://mesh.im/), [Utopia](https://utopia-ecosystem.com/), [CoyIM](https://coy.im/) 
+**[Signal](https://signal.org/)**, [RetroShare](https://retroshare.cc/), [Off-the-Record](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Demonsaw](https://www.demonsaw.com/), [Bitmessage](https://wiki.bitmessage.org/Main_Page) / [Reference Client](https://github.com/Bitmessage/PyBitmessage), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [Mirage](https://github.com/mirukana/mirage), [Keybase](https://keybase.io/) / [.onion](http://fncuwbiisyh6ak3i.onion/), [CWTCH](https://cwtch.im/), [Bip](https://bip.com/en/), [Simplex](https://simplex.chat/), [Emberclear](https://emberclear.io/), [Matrix](https://matrix.org/) / [Cinny](https://cinny.in/), [Commune](https://commune.chat/), [Mesh](https://mesh.im/), [Utopia](https://utopia-ecosystem.com/), [CoyIM](https://coy.im/), [Shad0w](https://www.shad0w.io/) 
 
 **Matrix Home Servers**
 
@@ -683,7 +683,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Cloud Storage** 
 
-**[GDrive](https://drive.google.com/)**, **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz), [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [disk.yandex](https://disk.yandex.com/), [TeledriveApp](https://teledriveapp.com/), [dubox](https://dubox.com/), [mediafire](https://www.mediafire.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [gdflix](https://gdflix.bar/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/), [T-Drive](https://www.microsoft.com/en-in/p/t-drive/9mvd1pkdtxsn?rtc=1&activetab=pivot:overviewtab), [PCloud](https://www.pcloud.com/), [myDrive](https://mydrive-storage.com/)
+**[GDrive](https://drive.google.com/)**, **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz), [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [disk.yandex](https://disk.yandex.com/), [TeledriveApp](https://teledriveapp.com/), [mediafire](https://www.mediafire.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [gdflix](https://gdflix.bar/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/), [T-Drive](https://www.microsoft.com/en-in/p/t-drive/9mvd1pkdtxsn?rtc=1&activetab=pivot:overviewtab), [PCloud](https://www.pcloud.com/), [myDrive](https://mydrive-storage.com/)
 
 **Multi Host Uploaders**
 
@@ -803,6 +803,12 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ***
 
+#### Graphic Design Tools
+
+[Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Canva](http://canva.com/), [Stencil](https://getstencil.com/), [Design Studio](https://designstudio.smallseotools.com/), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/), [Emaze](https://www.emaze.com/), [Scenify](https://editor.scenify.dev/), [ArtBoard](https://artboard.studio/), [Glitterly](https://glitterly.app/)
+
+***
+
 #### HiMovies Clones
 
 * https://theshit.me/ 
@@ -818,6 +824,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://movies2watch.tv/
 * https://www3.hdseries.cc/ 
 * https://fmoviesgo.to/
+* https://hdtoday.cc/
 * https://tinyzonetv.to/
 * https://aa01.net/
 * https://www6.f2movies.to/
@@ -1197,7 +1204,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Modded Minecraft Launchers
 
-**[Lunar Client](https://www.lunarclient.com/)** / [Colors](https://github.com/couleur-tweak-tips/Moony), **[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [ATLauncher](https://atlauncher.com/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [PolyMC](https://polymc.github.io/) / [GitHub](https://github.com/polymc/polymc)
+**[Lunar Client](https://www.lunarclient.com/)** / [Colors](https://github.com/couleur-tweak-tips/Moony), **[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [ATLauncher](https://atlauncher.com/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [PolyMC](https://polymc.github.io/) / [GitHub](https://github.com/polymc/polymc), [Crystal Launcher](https://crystal-launcher.net/)
 
 ***
 
@@ -1377,7 +1384,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Open Source Intelligence Indexes
 
-**[Awesome OSINT](https://github.com/jivoi/awesome-osint)**, **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)**, [OSINT Framework](https://osintframework.com/), [OSINT Essentials](https://www.osintessentials.com/), [OSINT Collection](https://github.com/Ph055a/OSINT_Collection), [OSINT Sources](https://github.com/imuledx/OSINT_sources), [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools), [OSINT Recherche](https://atlas.mindmup.com/digintel/digital_intelligence_training/index.html), [Open Source Intelligence](https://start.me/p/gy0NXp/open-source-intelligence-osint), [geoint](https://start.me/p/W1kDAj/geoint), [OSINT Tools](https://start.me/p/wMdQMQ/tools), [Sector035](https://sector035.nl/links), [Nixintel's OSINT](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list), [datajournalism-resources](https://github.com/r3mlab/datajournalism-resources/blob/master/README.md), [UK-OSINT](https://www.uk-osint.net/index.html), [OSINTGeek](https://osintgeek.de/tools), [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT), [Hackers Arise OSINT](https://www.hackers-arise.com/osint), [osint.link](https://osint.link/), [osinttechniques](https://www.osinttechniques.com/osint-tools.html), [Ressources](https://github.com/tzkuat/Ressources/blob/master/OSINT.md), [whatisosint](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it), [osintdojo](https://www.osintdojo.com/resources/), [netbootcamp](https://netbootcamp.org/osinttools/), [300m](https://300m.com/osint/), [einvestigator](https://www.einvestigator.com/open-source-intelligence-tools/), [researchclinic](http://researchclinic.net/), [toddington](https://www.toddington.com/resources/tii-free-resources-knowledge-base/), [reuser](http://rr.reuser.biz/), [booleanstrings](https://booleanstrings.com/tools/), [coreysdigs](https://www.coreysdigs.com/take-action/must-have-tools-for-digging-videos-podcasts/), [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/), [Project Owl](https://discord.gg/projectowl)
+**[Awesome OSINT](https://github.com/jivoi/awesome-osint)**, **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)**, [OSINT Framework](https://osintframework.com/), [OSINT Essentials](https://www.osintessentials.com/), [OSINT Collection](https://github.com/Ph055a/OSINT_Collection), [OSINT Sources](https://github.com/imuledx/OSINT_sources), [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools), [OSINT Recherche](https://atlas.mindmup.com/digintel/digital_intelligence_training/index.html), [Open Source Intelligence](https://start.me/p/gy0NXp/open-source-intelligence-osint), [geoint](https://start.me/p/W1kDAj/geoint), [OSINT Tools](https://start.me/p/wMdQMQ/tools), [Sector035](https://sector035.nl/links), [Nixintel's OSINT](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list), [datajournalism-resources](https://github.com/r3mlab/datajournalism-resources/blob/master/README.md), [UK-OSINT](https://www.uk-osint.net/index.html), [OSINTGeek](https://osintgeek.de/tools), [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT), [Hackers Arise OSINT](https://www.hackers-arise.com/osint), [osint.link](https://osint.link/), [osinttechniques](https://www.osinttechniques.com/osint-tools.html), [Ressources](https://github.com/tzkuat/Ressources/blob/master/OSINT.md), [whatisosint](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it), [osintdojo](https://www.osintdojo.com/resources/), [netbootcamp](https://netbootcamp.org/osinttools/), [300m](https://300m.com/osint/), [einvestigator](https://www.einvestigator.com/open-source-intelligence-tools/), [researchclinic](http://researchclinic.net/), [toddington](https://www.toddington.com/resources/tii-free-resources-knowledge-base/), [reuser](http://rr.reuser.biz/), [booleanstrings](https://booleanstrings.com/tools/), [coreysdigs](https://www.coreysdigs.com/take-action/must-have-tools-for-digging-videos-podcasts/), [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/), [Project Owl](https://discord.gg/projectowl), [RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources)
 
 ***
 
@@ -1694,7 +1701,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Remote Desktop Clients
 
-[Parsec](https://parsec.app/), [RustDesk](https://rustdesk.com/), [RemoteDesktop](https://remotedesktop.google.com/), [AnyDesk](https://anydesk.com/en), [TeamViewer](https://www.teamviewer.com/en-us/), [NoMachine](https://www.nomachine.com/), [Remmina](https://remmina.org/), [UltraViewer](https://ultraviewer.net/), [SplashTop](https://www.splashtop.com/personal), [MSP360](https://www.msp360.com/remote-desktop/), [Ammyy](https://www.ammyy.com/en/), [Apache Guacamole](https://guacamole.apache.org/), [FreeRDP](https://www.freerdp.com/), [SimpleHelp](https://simple-help.com/), [Myrtille](https://cedrozor.github.io/myrtille/), [Aspia](https://aspia.org/doku.php), [TightVNC](https://www.tightvnc.com/), [getscreen](https://getscreen.me/), [remoteutilities](https://www.remoteutilities.com/), [p2p](https://github.com/miroslavpejic85/p2p), [Pop](https://pop.com/), [UVNC](https://uvnc.com/), [DistantDesktop](https://www.distantdesktop.com/), [RDP](https://github.com/yahya-ait-talb/RDP), [NeverInstall](https://neverinstall.com/en-IN), [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks), [ChimeraDesk](https://github.com/morrolinux/ChimeraDesk), [PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop)
+[Parsec](https://parsec.app/), [RustDesk](https://rustdesk.com/) / [GitHub](https://github.com/rustdesk/rustdesk), [RemoteDesktop](https://remotedesktop.google.com/), [AnyDesk](https://anydesk.com/en), [TeamViewer](https://www.teamviewer.com/en-us/), [NoMachine](https://www.nomachine.com/), [Remmina](https://remmina.org/), [UltraViewer](https://ultraviewer.net/), [SplashTop](https://www.splashtop.com/personal), [MSP360](https://www.msp360.com/remote-desktop/), [Ammyy](https://www.ammyy.com/en/), [Apache Guacamole](https://guacamole.apache.org/), [FreeRDP](https://www.freerdp.com/), [SimpleHelp](https://simple-help.com/), [Myrtille](https://cedrozor.github.io/myrtille/), [Aspia](https://aspia.org/doku.php), [TightVNC](https://www.tightvnc.com/), [getscreen](https://getscreen.me/), [remoteutilities](https://www.remoteutilities.com/), [p2p](https://github.com/miroslavpejic85/p2p), [Pop](https://pop.com/), [UVNC](https://uvnc.com/), [DistantDesktop](https://www.distantdesktop.com/), [RDP](https://github.com/yahya-ait-talb/RDP), [NeverInstall](https://neverinstall.com/en-IN), [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks), [ChimeraDesk](https://github.com/morrolinux/ChimeraDesk), [PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop)
 
 ***
 
@@ -1998,10 +2005,10 @@ Add the following commands to a search to manually scrape each site.
 
 #### Streaming Site CSE
 
-[Streaming Sites Search](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g#gsc.tab=0)
-[Streaming Sites Search 2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea#gsc.tab=0)
-[Streaming Sites Search 3](https://cse.google.com/cse?cx=98916addbaef8b4b6)
-[Streaming Sites Search 4](https://cse.google.com/cse?cx=0199ade0b25835f2e)
+* [Streaming Sites Search](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g#gsc.tab=0)
+* [Streaming Sites Search 2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea#gsc.tab=0)
+* [Streaming Sites Search 3](https://cse.google.com/cse?cx=98916addbaef8b4b6)
+* [Streaming Sites Search 4](https://cse.google.com/cse?cx=0199ade0b25835f2e)
 
 ***
 
@@ -2242,9 +2249,12 @@ Add the following commands to a search to manually scrape each site.
 * [SearchX](https://github.com/iamLiquidX/SearchX) - Telegram GDrive Search Bot
 * [UploadBots](https://t.me/UploadBots), [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot), [UploadURL](https://t.me/UploadsRobot) or [UploadDxbot](https://t.me/UploadDxbot) - Upload Files to Telegram  
 * [Teledrive](https://github.com/mgilangjanuar/teledrive) - Telegram File Storage
-* [Public Link Bot](https://t.me/Tg2extbot), [AIO Uploader](https://t.me/aiouploaderbot) or [GetPublicLinkBot](https://t.me/GetPublicLinkBot), [FileUploaderBot](https://t.me/FileUploaderBot), [filestolinksbot](https://t.me/filestolinksbot), [highspeedlinksbot](https://t.me/highspeedlinksbot), [LinkForFilebot](https://t.me/LinkForFilebot), [KL_GetPublicUrlBot](https://t.me/KL_GetPublicUrlBot) - Telegram to File Host Upload Bot   
+* [Uploader x Bot](https://t.me/uploader_x_bot ) - Telegram Video Upload Bot 
+* [Public Link Bot](https://t.me/Tg2extbot), [AIO Uploader](https://t.me/aiouploaderbot) or [GetPublicLinkBot](https://t.me/GetPublicLinkBot), [FileUploaderBot](https://t.me/FileUploaderBot), [filestolinksbot](https://t.me/filestolinksbot), [highspeedlinksbot](https://t.me/highspeedlinksbot), [LinkForFilebot](https://t.me/LinkForFilebot), [MultiUpload-Bot](https://github.com/oVoIndia/MultiUpload-Bot) or [KL_GetPublicUrlBot](https://t.me/KL_GetPublicUrlBot) - Telegram to File Host Upload Bot   
 * [mediainforobot](https://t.me/mediainforobot) - Media File Info
 * [MediaDownBot](https://t.me/mediadownbot) - Social Media Downloader
+* [ILovePDF](https://github.com/nabilanavab/ilovepdf) - Telegram File to PDF Converter 
+* [ConvertVideoTGBot](https://t.me/ConvertVideoTGBot), [FileConvertRobot](https://t.me/FileConvertRobot) or [File2videoconvbot](https://t.me/File2videoconvbot) - Video File Converters
 
 ***
 
@@ -2510,7 +2520,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Udemy Coupons
 
-**[CouponScorpion](https://couponscorpion.com/)**, [discudemy](https://www.discudemy.com/), [bestcouponhunter](https://bestcouponhunter.com/), [Coursevania](https://coursevania.com/), [Learn Viral](https://udemycoupon.learnviral.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [Course Time](https://coursetime.net/), [iDownloadCoupon](http://idownloadcoupon.com/), [freeudemycoupondaily](https://t.me/freeudemycoupondaily), [udemycoupons](https://udemycoupons.me/), [lorebeam](https://www.lorebeam.com/), [coursecouponclub](https://coursecouponclub.com/), [coursekingdom](https://coursekingdom.xyz/), [freebiesglobal](https://freebiesglobal.com/), [real.discount](https://www.real.discount/), [onlinecourses](https://www.onlinecourses.ooo/), [cursosdev](https://cursosdev.com/), [100offdeal](https://100offdeal.online/), [freshercooker](https://www.freshercooker.com/category/courses/)
+**[CouponScorpion](https://couponscorpion.com/)**, [discudemy](https://www.discudemy.com/), [bestcouponhunter](https://bestcouponhunter.com/), [Coursevania](https://coursevania.com/), [Learn Viral](https://udemycoupon.learnviral.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [Course Time](https://coursetime.net/), [iDownloadCoupon](http://idownloadcoupon.com/), [freeudemycoupondaily](https://t.me/freeudemycoupondaily), [udemycoupons](https://udemycoupons.me/), [lorebeam](https://www.lorebeam.com/), [coursecouponclub](https://coursecouponclub.com/), [coursekingdom](https://coursekingdom.xyz/), [freebiesglobal](https://freebiesglobal.com/), [real.discount](https://www.real.discount/), [onlinecourses](https://www.onlinecourses.ooo/), [cursosdev](https://cursosdev.com/), [100offdeal](https://100offdeal.online/), [freshercooker](https://www.freshercooker.com/category/courses/), [dailycoursereviews](https://dailycoursereviews.com/)
 
 ***
 
@@ -2535,10 +2545,6 @@ Add the following commands to a search to manually scrape each site.
 #### Video Converters
 
 **[HandBrake](https://handbrake.fr/)** / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake), [XMedia Recode](https://www.xmedia-recode.de/en/), [staxrip](https://github.com/staxrip/staxrip/) / [Guide](https://telegra.ph/HEVC-Encoding-with-StaxRip-Settings-for-best-compression-included-05-12 ), [FastFlix](https://fastflix.org/), [AVC](https://www.any-video-converter.com/), [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes), [MP4.to](https://mp4.to/), [Evano](https://evano.com/online-video-converter), [mp4 Video Converter](https://github.com/mebsic/mp4), [OnlineVideoConverter](https://onlinevideoconverter.party/), [WebmtoMP4](https://webmtomp4.com/), [WebM.to](https://webm.to/), [MakeMKV](https://www.makemkv.com/), [Video2Edit](https://www.video2edit.com/), [Winnydows](https://winnydows.com/en/), [RipBot264](https://www.videohelp.com/software/RipBot264), [MeGUI](https://www.videohelp.com/software/MeGUI), [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator), [automatic-ripping-machine](https://b3n.org/automatic-ripping-machine/), [FastFlix](https://github.com/cdgriffith/FastFlix), [avisynth](http://avisynth.nl/index.php/Main_Page), [ShutterEncode](https://www.shutterencoder.com/en/), [Video Express Converter](https://vc.germanov.dev/), [SafeVideoConverter](https://safevideoconverter.com/), [Av1an](https://github.com/master-of-zen/Av1an), [MediaCoderHQ](http://www.mediacoderhq.com/), [Modfy](https://app.modfy.video/) / [GitHub](https://github.com/modfy), [Seven Converter](http://converter.sevenbytes.com/) / [GitHub](https://github.com/SevenbytesSoftware/SevenConverter), [JS Video Converter](https://js-video-converter.com/), [nmkoder](https://github.com/n00mkrad/nmkoder), [AVS4YOU](https://www.avs4you.com/)
-
-**Telegram Bots**
-
-[ConvertVideoTGBot](https://t.me/ConvertVideoTGBot), [FileConvertRobot](https://t.me/FileConvertRobot), [File2videoconvbot](https://t.me/File2videoconvbot)
 
 ***
 
