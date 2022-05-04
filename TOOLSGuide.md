@@ -635,6 +635,7 @@
 * [Systeme](https://systeme.io/) - Marketing Tools
 * [HLDMSIYS?](http://howlongdoesmarijuanastayinyoursystem.net/) - Drug Effect Duration / Testing Information
 * [HomeBank](http://homebank.free.fr/), [Money Manager EX](https://www.moneymanagerex.org/), [Ledger](https://www.ledger-cli.org/) or [gnucash](https://www.gnucash.org/) - Financial Accounting Software
+* [financial_advice](https://github.com/emilepetrone/financial_advice) - Financial Lessons
 * [Stocksera](https://stocksera.pythonanywhere.com/) or [Screener](https://www.screener.in/) - Stock Tracker
 * [neostox](https://neostox.com/) - Practice Stock Trading
 * [Trading Talks](https://tradingtalks.org/) - Business Courses
@@ -729,7 +730,7 @@
 * [Discord](https://discordapp.com/), [Guilded](https://www.guilded.gg/) / [Mod](https://github.com/ReGuilded/ReGuilded/) or [Revolt](https://revolt.chat/) - Messaging Platforms
 * [Twist](https://twist.com/) - Collaboration Chat Manager
 * [Hack.chat](https://hack.chat/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chat 
-* [Cirlos](https://www.cirlos.net/) or [WeeChat](https://weechat.org/) - Chat App
+* [Cirlos](https://www.cirlos.net/), [Miranda NG](https://www.miranda-ng.org/en/) or [WeeChat](https://weechat.org/) - Chat App
 * [KiwiIRC](https://kiwiirc.com/) - WebIRC Client
 * [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [PeerLinks](https://peerlinks.io/) or [Bitchx](http://bitchx.sourceforge.net/) - IRC Client
 * [irc2go](https://en.irc2go.com/) - Browse IRC Chat Rooms
@@ -1124,7 +1125,7 @@
 ***
 
 * **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client 
-* **[BetterDiscord](http://betterdiscord.app/)** - Modifiable Discord Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)
+* **[BetterDiscord](http://betterdiscord.app/)** - Modifiable Discord Client / [GitHub](https://github.com/BetterDiscord/BetterDiscord) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)
 * **[Cumcord](https://cumcord.com/)** - Discord Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)
 * **[GooseMod](https://goosemod.com/)** - Modifiable Discord Client / [Firefox](https://addons.mozilla.org/addon/goosemod-for-web/) / [Chrome](https://chrome.google.com/webstore/detail/goosemod-for-web/clgkdcccmbjmjdbdgcigpocfkkjeaeld)
 * [Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists) - Discover Servers / Bots
@@ -1178,6 +1179,7 @@
 * [FreeStuff Bot](https://freestuffbot.xyz/) / [GitHub](https://github.com/FreeStuffBot/discord), [game-deals-discord-bot](https://github.com/lipowskm/game-deals-discord-bot) or [AutomatiK](https://github.com/Axyss/AutomatiK) / [Discord](https://discord.gg/psDtnwX) - Free Games Alert Bot
 * [DiscordChroma](https://github.com/DELUUXE/DiscordChroma) or [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Discord System Lighting Control
 * [Permissions Calculator](https://discordapi.com/permissions.html) - Generate Discord OAuth Invites
+* [Modmail](https://github.com/kyb3r/modmail) - Discord Modmail Bot 
 * [CloneCord](https://github.com/Rekulous/CloneCord-bot) - GClone Cloud Storage File Manager in Discord
 * [Custom Rich Discord Presence](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_custom_rich_discord_presence) - Customize Discord Rich Presence 
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - Discord Rich Presence Manager
@@ -1274,6 +1276,7 @@
 * [Bulk download from Telegram](https://zebradil.me/post/2018-04-18-bulk-download-from-telegram/) - Telegram Media Download Method
 * [Now Playing](https://t.me/nowplaybot) - Now Playing Audio Bot
 * [Telesco.pe](https://telesco.pe/) - Telegram Round Video Recorder
+* [Video Stream](https://github.com/lntechnical2/videostream) - Telegram Video Player 
 * [YeetMeet](https://github.com/1337w0rm/YeetMeet) - Meeting Auto Join Bot
 * [Unigram](https://github.com/UnigramDev/Unigram), [Tok](https://invent.kde.org/network/tok), [TDesktop](https://github.com/Forkgram/tdesktop) or [Kotatogram](https://github.com/kotatogram/kotatogram-desktop) - Telegram Desktop Client
 * [Web.Telegram](https://web.telegram.org/), [2](https://webk.telegram.org/), [3](https://webz.telegram.org/) - Telegram Web Client
@@ -2026,7 +2029,7 @@
 * [Nextcloud](https://nextcloud.com/) - Safe data storage / [Unofficial Providers](https://nextcloud.com/signup/)
 * [Shared Drives Creator Website](https://github.com/MsGsuite/Shared-Drives-Creator-Website) - Create & host a Shared Drive Generator Website
 * [File Recovery Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_recovery_tools) - Data Recovery Tools
-* [EXIFTool](https://exiftool.org/), [ExtractMetadata](https://www.extractmetadata.com/), [Metadata2Go](https://www.metadata2go.com/) or [Metashield](https://metashieldclean-up.elevenpaths.com/) - Metadata Viewer / Editor
+* [Metadata Editor](https://metaeditor.services.picvario.com/), [EXIFTool](https://exiftool.org/), [ExtractMetadata](https://www.extractmetadata.com/), [Metadata2Go](https://www.metadata2go.com/) or [Metashield](https://metashieldclean-up.elevenpaths.com/) - Metadata Viewer / Editor
 * [SKTimeStamp](https://tools.stefankueng.com/SKTimeStamp.html) - Change File Created / Modified Time
 * [lessmsi](https://lessmsi.activescott.com/) - .msi Content Extractor / [GitHub](https://github.com/activescott/lessmsi)
 * [IPFS](https://ipfs.io/) - P2P Hypermedia Protocol / [Extension](https://github.com/ipfs-shipyard/ipfs-companion) 
