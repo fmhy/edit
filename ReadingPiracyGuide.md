@@ -648,6 +648,7 @@
 * [SSRN](https://www.ssrn.com/) - Early Stage Research Papers 
 * [Open Knowledge Maps](https://openknowledgemaps.org/) - Research Papers 
 * [Internet Archive Scholar](https://scholar.archive.org/) - Research Papers
+* [Paper Panda](https://paperpanda.app/) - Research Papers
 * [Open Access Library](https://www.oalib.com/) - Research Papers
 * [Association for learning Technology](https://repository.alt.ac.uk/view/subjects/) - Research Papers
 * [RePEc](http://repec.org/) - Economic Research Papers
