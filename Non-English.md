@@ -565,7 +565,7 @@
 * [kukufm.com](https://kukufm.com/) - Podcasts / Radio / Audiobooks 
 * [gaana](https://gaana.com/) - Music
 * [hungama](https://www.hungama.com/music/) - Music
-* [jiosaavn](https://www.jiosaavn.com/) - Music
+* [jiosaavn](https://www.jiosaavn.com/) - Music / [API](https://github.com/cyberboysumanjay/JioSaavnAPI)
 
 ## ▷ Reading
 
@@ -1817,6 +1817,7 @@
 * **[SkyMoviesHD](https://skymovieshd.news/)** - Movies / TV
 * **[Einthusan](https://einthusan.tv/)** - Streaming / Movies / Music
 * [Indian Piracy Index](https://github.com/anymeofu/Indian-Piracy-Index) - Piracy Site / Tool Index
+* [JioTV](https://github.com/avipatilpro/JioTV) - Live TV Streaming Script 
 * [0GoMovies](https://www.0gomovies.com/) - Streaming / Movies / TV
 * [khatrimazafull](https://khatrimazafull.show/) - Streaming / Download / Movies
 * [7MovieRulz](https://7movierulz.pe/) - Streaming / Movies
