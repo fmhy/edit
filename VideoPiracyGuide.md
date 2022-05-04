@@ -103,7 +103,7 @@
 * [Amazon Free w/ Ads](https://www.amazon.com/free-ads/s?k=free+with+ads) - Movies / TV
 * [JustWatch](https://www.justwatch.com/) or [ReelGood](https://reelgood.com/) - Search Legal Streaming Hosts
 * [Manually Scrape Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manually_scrape_sites) - Search Sites Manually
-* [Dirtywarez Ranking](https://dirtywarez.org/cat/streaming), [Watch Movies Free](https://redd.it/rbpag2), [StreamingSites](https://streamingsites.com/) or [Movies-Play](https://movies-play.com/) - Streaming Site Lists
+* [Dirtywarez Ranking](https://dirtywarez.org/cat/streaming), [Watch Movies Free](https://redd.it/rbpag2), [StreamingSites](https://streamingsites.com/), [3db7](https://3db7.xyz/stream/website) or [Movies-Play](https://movies-play.com/) - Streaming Site Lists
 
 ***
 
@@ -333,6 +333,7 @@
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/)
 * [Crunchyroll iFrame Player](https://greasyfork.org/en/scripts/411391-crunchyroll-iframe-player) - Crunchyroll Premium Bypass Script / [GitHub](https://github.com/Mateus7G/crp-iframe-player)
 * [Themes.moe](https://themes.moe/), [2](https://staging.animethemes.moe/wiki/) - Anime Opening & Ending Themes
+* [Clip Tori](https://cliptori.com/) - Anime Clips
 * [Animeflix](https://github.com/chirag-droid/animeflix) - Sub / Dub / Self-Hosted
 
 ***
