@@ -304,6 +304,7 @@
 * [Zombs-Lair](https://www.zombs-lair.com/) - Retro Games
 * [RetroSpec](http://retrospec.sgn.net/) - Retro Games
 * [OldPCGaming](http://oldpcgaming.net/) - Retro PC Games
+* [The Outdated Arcade](https://discord.gg/SPZpMpntj9) - Game Preservation Server 
 * [Japanese PC Compendium](http://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
 * [TOSEC](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_tosec) - The Old School Emulation Center
 * [Tiny8bit](https://floooh.github.io/tiny8bit/) or [Piepacker](https://piepacker.com/) - Retro Game Browser Emulators
