@@ -558,7 +558,7 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 #### PS3 Roms
 
-`aHR0cDovL3BzZjMuam9zaHcuaW5mby8=`
+`aHR0cHM6Ly9wczNyLmNvbS8gCmh0dHA6Ly9wc2YzLmpvc2h3LmluZm8v`
 
 ***
 
