@@ -131,6 +131,7 @@
 * [Typing.io](https://typing.io/) - Typing Practice for Programmers 
 * [Karel The Robot](https://github.com/fredoverflow/karel) - Basic Programming Teaching Environment
 * [HackersFriend](https://www.hackersfriend.com/tutorials/) - Competitive Programming Tutorials
+* [Data Engineering Practice Problems](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice 
 * [High Assurance Rust](https://highassurance.rs/) - Software Development Guide
 * [Katacoda](https://www.katacoda.com/) - Software Engineer Tutorials 
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Podcasts for Software Engineers
@@ -218,14 +219,15 @@
 * [Media Chrome](https://www.media-chrome.org/) - Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)
 * [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - README Template 
 * [codex-readme](https://github.com/tom-doerr/codex-readme) - Generate README with AI
-* [ReDoc](https://github.com/Redocly/redoc) - Generate API Documentation
 * [Changie](https://changie.dev/) - Automated Changelog / [GitHub](https://github.com/miniscruff/changie)
 * [ChooseALicense](https://choosealicense.com/) - List of Open Source License's & Help Choosing Them 
 * [MKLicense](https://github.com/cezaraugusto/mklicense) - License Generation CLI
 * [Know the License](https://knowthelicense.codescoring.com/) - Detect Open Source Licenses
 * [Console](https://console.substack.com/) - Subscribe to a List of Open Source Projects
+* [ReDoc](https://github.com/Redocly/redoc) - Generate API Documentation
 * [RapidAPI](https://rapidapi.com/) - API Platform
 * [Mockable](https://www.mockable.io/) - Mock APIs
+* [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator 
 * [Pipedream](https://pipedream.com/) - Connect APIs / [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)
 * [Perspective API](https://www.perspectiveapi.com/) - Toxicity Reduction API
 * [Stein](https://steinhq.com/) - Turn Google Sheets into Database API / [GitHub](https://github.com/SteinHQ)
@@ -253,6 +255,7 @@
 * [Insomnia](https://insomnia.rest/) - API Client
 * [hoppscotch](https://hoppscotch.io/) - API Development Ecosystem / [GitHub](https://github.com/hoppscotch/hoppscotch)
 * [APIKit](https://github.com/API-Security/APIKit) - API Security Tools
+* [CI/CD Security](https://github.com/myugan/awesome-cicd-security) - CI/CD Security Resources Awesome 
 * [OpenSCA-CLI](https://github.com/XmirrorSecurity/OpenSCA-cli) - Composition Analysis for Third Party Components 
 * [Kubescape](https://github.com/armosec/kubescape) - Kubernetes Tool
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - Microservice Architecture Resource Index
@@ -405,6 +408,7 @@
 * [CSS Bed](https://www.cssbed.com/), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss) or [free-css-templates](https://www.free-css.com/free-css-templates) - CSS Themes / Templates
 * [Hydrogen](https://github.com/Shopify/hydrogen) or [Fullstack Next.js E-commerce](https://github.com/olafsulich/fullstack-nextjs-ecommerce) - Online Store Templates
 * [Typewolf](https://www.typewolf.com/) - Trending Website Fonts
+* [Dark Patterns](https://www.darkpatterns.org/) - Deceptive User Experience Examples 
 * [Pattern Monster](https://pattern.monster/) - SVG Pattern Generator
 * [Broider](https://maxbittker.github.io/broider/) - Create Border Designs
 * [ShapeDivider](https://www.shapedivider.app/) or [blobbb ](https://www.blobbb.fun/)- Make SVG Shape Divider
@@ -414,6 +418,7 @@
 * [PrivateDaddy](https://www.privatedaddy.com/) - Auto Hide Email Address'
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - Mobile Friendly Page Test 
 * [hlsflow](https://github.com/hlsflow/hlsflow) - Host Video in HLS Stream
+* [MxPlayer-RestApi](https://github.com/KapilYadav-dev/MxPlayer-RestApi) - MxPlayer API 
 * [OneLinePlayer](https://onelineplayer.com/) - Vimeo / Dropbox Video Player
 * [Testimonial](https://testimonial.to/) - Easily Add Video Testimonials to Sites
 * [DriveProxy](http://driveproxy.net/) - GDrive Video iFrame Code Generator
@@ -447,6 +452,7 @@
 * [LightTPD](http://www.lighttpd.net/) or [Caddy](https://caddyserver.com/) - Web Server
 * [Bash-web-server](https://github.com/dzove855/Bash-web-server) - Bash Web Server 
 * [HTTP Server](https://httpd.apache.org/) - HTTP Server Apache
+* [h5ai](https://larsjung.de/h5ai/) - HTTP Web Server Index / [GitHub](https://github.com/lrsjng/h5ai)
 * [SyAgent](https://syagent.com/) - Server Monitor
 * [CodeMyUI](https://codemyui.com/) - User Interface Code Snippets
 * [Lepton](https://hackjutsu.com/Lepton/) - Code Snippet Manager / [GitHub](https://github.com/hackjutsu/Lepton)
@@ -494,6 +500,7 @@
 * [the New Dynamic](https://www.tnd.dev/) - JamStack Directory
 * [Arco Design](https://github.com/arco-design/arco-design-vue) or [Naive-UI](https://www.naiveui.com/) / [GitHub](https://github.com/TuSimple/naive-ui) - Vue 3 UI Components Library
 * [Vuejs Dev Tools](https://vuejs.org/) - Add Vue 3 Debugging to Browser 
+* [Vue vben admin](https://github.com/vbenjs/vue-vben-admin) - Vue Admin 
 * [Sight](https://github.com/tsenart/sight) - Syntax Highlighter for Chrome 
 * [Inyo](https://inyo.me/inyo-v2-customization-tools) - Customer Relation Tools
 * [Sprig](https://sprig.com/) - Product Research Platform
@@ -533,6 +540,7 @@
 * [dotnet releaser](https://github.com/xoofx/dotnet-releaser) - Automate Release of .NET Applications
 * [Pencil](http://pencil.evolus.vn/) - Software Mockup Tool / [GitHub](https://github.com/evolus/pencil)
 * [GNUnet](https://gnunet.org/en/) - Software Framework 
+* [Slint](https://github.com/slint-ui/slint) - GUI Development Tool 
 * [Kuker](https://github.com/krasimir/kuker) - Debug Applications 
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - HTTP Proxy
 * [BugSnag](https://www.bugsnag.com/) - Application Stability Monitor
@@ -705,7 +713,7 @@
 * [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds), [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://gradienta.io/), [GradientMagic](https://www.gradientmagic.com/), [heropatterns](https://heropatterns.com/), [thepatternlibrary](http://thepatternlibrary.com/), [CSSGradient](https://cssgradient.io/) or [uigradients](https://uigradients.com/) - CSS Patterns / Gradients 
 * [CSSLayout](https://csslayout.io/) - CSS Layouts
 * [Gradient Animator](https://www.gradient-animator.com/) - Animated CSS Gradient Generator
-* [Animista](https://animista.net/) or [Woah.css](https://www.joerezendes.com/projects/Woah.css/) - CSS Animations
+* [Animista](https://animista.net/), [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) or [Woah.css](https://www.joerezendes.com/projects/Woah.css/) - CSS Animations
 * [Glass UI](https://ui.glass/generator/) - Glassmorphism CSS Generator
 * [css2scss](https://sebastianpontow.de/css2compass/) - CSS to SCSS Converter 
 * [Tableconvert](https://tableconvert.com/) - Markdown / Code Converter
@@ -860,6 +868,7 @@
 * [WebDen](https://webden.dev/) or [CodeEval](https://www.codeeval.dev/) - Code Playground
 * [I run code](https://github.com/engineer-man/piston-bot) - Evaluate Code Snippets via Discord
 * [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
+* [ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate) - Modifiable Shellcode Template 
 * [Spork](https://spork.sh/) - P2P Sockets CLI / [GitHub](https://github.com/atek-cloud/spork) / [Discord](https://discord.gg/UUCVrFYksv)
 * Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Config](https://github.com/ChristianChiarulli/LunarVim) 
 * [Vim Plug](https://github.com/junegunn/vim-plug), [Vim Pathogen](https://github.com/tpope/vim-pathogen), [Vundle](https://github.com/VundleVim/Vundle.vim ), [Dein](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
@@ -880,7 +889,7 @@
 * [Pysnake Blog](https://pysnakeblog.blogspot.com/) - Python Projects
 * [Python Patterns](https://python-patterns.guide/) - Python Design Patterns
 * [Dodgy](https://github.com/landscapeio/dodgy) - Find PWs & Diffs in Python Code
-* [Pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
+* [Pyright](https://github.com/microsoft/pyright) or [mypy](https://github.com/python/mypy) - Python Static Type Checker
 * [PyRegex](http://www.pyregex.com/) - Python Regex Test
 * [JSPyBride](https://github.com/extremeheat/JSPyBridge) - Interoperate Node.js and Python
 * [adb_shell](https://github.com/JeffLIrion/adb_shell) - Python ADB + Fastboot Implementation
