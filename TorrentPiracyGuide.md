@@ -65,6 +65,7 @@
 * [FileStream](https://filestream.me/)
 * [ZBIGZ](https://zbigz.com/)
 * [PeerSM](https://www.peersm.com/)
+* [Torrent Web](https://github.com/mccxiv/torrent-web) 
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
 * [JSTorrent](https://www.jstorrent.com/) - Chrome
 * [BitFord](https://github.com/astro/bitford) - Chrome
