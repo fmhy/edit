@@ -138,6 +138,7 @@
 * [Devops Exercises](https://github.com/bregman-arie/devops-exercises) - DevOps Exercises
 * [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - Learn DevOps
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
+* [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn Pentesting 
 * [LandChad](https://landchad.net/) - Site Development Guide
 * [Full Stack Solana Development Guide](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - [Examples](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)
 * [The New Boston](https://thenewboston.com/) - Site Development Courses [Discord](https://discord.com/invite/thenewboston)
