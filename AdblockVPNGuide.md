@@ -229,6 +229,7 @@
 * [PeerTube](https://joinpeertube.org/), [2](https://peertube.tv/), [3](https://peer.tube), [4](https://search.joinpeertube.org/), [5](https://sepiasearch.org/) - Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)
 * [PrivNote](https://privnote.com/), [Burn.Link](https://burn.link/), [Wipenote](https://wipenote.io/), [tlwsd](https://tlwsd.com/) or [OneTimeSecret](https://onetimesecret.com/) - Send Self-Destructing Messages 
 * [xcodx.ru](https://xcodx.ru/), [Steg Cloak](https://stegcloak.surge.sh/) or [spam mimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
+* [Anonymouth](https://github.com/psal/anonymouth) - Document Anonymization Tool 
 * [USBKill](https://github.com/hephaest0s/usbkill) - Anti-Forensic Kill-Switch
 * [Eraser](https://eraser.heidi.ie/) or [Lethe](https://github.com/rafael-santiago/lethe) - Wipe / Overwrite Hard Drive Data 
 * [Free Hide Folder](https://www.cleanersoft.com/hidefolder/free_hide_folder.htm) or [Wise Folder Hider](http://www.wisecleaner.com/wise-folder-hider-free.html) - Hide Folders / Files 
