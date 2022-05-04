@@ -231,11 +231,11 @@
 * [Funnyjunk](https://funnyjunk.com//), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [iFunny](https://ifunny.co/) or [Imageboard Scraper](https://nik.bot.nu/) - Images, Videos, Memes & GIFs / Some NSFW
 * [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
 * [SfwChan](http://boards.swfchan.net/) - SFW Archive
-* [The NFT Bay](https://thenftbay.org/) - NFT Collection
 * [SakugaBooru](https://www.sakugabooru.com/) - Image Booru
 * [IndieGameBooru](https://indiegame.booru.org/) - Indie Game Image Booru
 * [Random Screenshot](https://randomscreenshot.com/) or [Random Prnt.sc](https://chrishannah.me/prntsc/) - Random Screenshots
 * [DreamWidth](https://www.dreamwidth.org/) - User-Made Images & Stories
+* [Fandom](https://www.fandom.com/) - Media Wikis / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com)
 * [Kamogo](https://www.kamogo.com/faq/) - Useless Web Apps
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - Turn Screen into Strobe / Mood Light
 * [Drinking Game Zone](https://drinkinggamezone.com/) - Drinking Games Encyclopedia 
@@ -582,7 +582,7 @@
 * [BestHackerNews](http://besthackernews.herokuapp.com/) - Hacker News Aggregator 
 * [Latest Privacy](https://latestprivacy.org/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - Privacy News
 * [Talos Blog](https://blog.talosintelligence.com/) - CyberSecurity News
-* [We Fight Censorship](http://3kyl4i7bfdgwelmf.onion/) - Censorship News
+* [We Fight Censorship](http://3kyl4i7bfdgwelmf.onion/) or [Netblocks](https://netblocks.org/) - Censorship News
 * [Tudum](https://www.netflix.com/tudum) - Netflix News
 * [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
 * [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - Dark Web News
@@ -628,6 +628,7 @@
 * [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search 
 * [RecipeRadar](https://www.reciperadar.com/) - Recipe Search
 * [Recipe Retrieve](https://reciperetrieve.com/) - Recipe Search
+* [Stovetop](https://stovetop.app/) - Recipe Search 
 * [DotNom](http://www.dotnom.com/) - Recipe Search
 * [SuperCook](https://supercook.com/) - Recipe Search
 * [Yummly](https://www.yummly.com/) - Recipe Search
@@ -718,6 +719,7 @@
 
 # ►  Health
 
+* **[6TB Fitness Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_6tb_fitness_courses)**
 * **[JamanNetwork](https://jamanetwork.com/)**, [medicinenet](https://www.medicinenet.com/), [medpagetoday](https://www.medpagetoday.com/), [everydayhealth](https://www.everydayhealth.com/), [medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/), [webmd](https://www.webmd.com/) - Health News
 * [Awesome Health](https://github.com/lalaithan/awesome-health) - Health Resources Index
 * [healthgrades](https://www.healthgrades.com/right-care/health-content-a-z), [epocrates](https://online.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
