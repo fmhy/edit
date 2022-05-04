@@ -259,8 +259,7 @@
 * **[Zoro](https://zoro.to/)** or [AnimeBee](https://animebee.to/) - Sub / Dub
 * **[9Anime](https://www.9anime.to/)** - Sub / Dub / [Mirrors](https://9anime.me/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) / [Ad Scripts](https://redd.it/c330dx)
 * **[Anime8](https://anime8.ru/)** - Sub / Dub
-* **[AniMixPlay](https://animixplay.to/)** - Sub / Dub / [Discord](https://discord.gg/YyQ9cpS)
-* **[AnimeKisa](https://animekisa.tv/)** - Sub / Dub
+* **[AniMixPlay](https://animixplay.to/)** - Sub / Dub / [Discord](https://discord.gg/X3CPwyefHz)
 * [AnimePahe](https://animepahe.com/) - Sub / [Downloader](https://github.com/charathmathew/animepahe_downloader), [2](https://github.com/ed-archer/animepahe-dlr), [3](https://github.com/notmarek/pyheanime), [4](https://github.com/KevCui/animepahe-dl)
 * [AnimehHub](https://animehub.ac/) - Sub / Dub
 * [Animesaga](https://animesa.ga/) - Sub / Dub
