@@ -403,7 +403,7 @@
 * [puush](https://puush.me/) - Easily Share Screenshots
 * [Screenstab](http://screenstab.com/) - Create Graphics from Screenshots
 * [Limus](https://limus.netlify.app/) or [Screenstab](https://www.screenstab.com/editor/) - Change Screenshot Angles
-* [Annotate Screen](https://annotatescreen.com/), [ImgReview](https://imgreview.app/) / [GitHub](https://github.com/artemdemo/imgreview) or [Pensela](https://github.com/weiameili/Pensela) - Annotate Screenshots
+* [ImgReview](https://imgreview.app/) / [GitHub](https://github.com/artemdemo/imgreview) - Annotate Screenshots
 * [Screenshot Comparison](https://screenshotcomparison.com/) - Compare Screenshots
 * [Screenshot Tutorial](https://www.take-a-screenshot.org/) - Multi Platform Screenshot Guides 
 
