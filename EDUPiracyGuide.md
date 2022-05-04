@@ -65,7 +65,6 @@
 * [SchoolYourself](http://schoolyourself.org/) - Math Tutorials
 * [mathhelp](https://www.mathhelp.com/) - Math Tutorials
 * [mathonline](http://mathonline.wikidot.com/) - Math Tutorials
-* [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) - Math Lessons 
 * [NYU-DLSP21](https://atcold.github.io/NYU-DLSP21/) - Deep Learning Course
 * [BillNye](https://billnye.com/) - Bill Nye Science Videos
 * [brighstorm](https://www.brightstorm.com/) - Test Prep
@@ -338,6 +337,7 @@
 * [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
 * [Online Math Tools](https://onlinemathtools.com/) - Multiple Math Tools
 * [Falstad](http://www.falstad.com/) - Math & Physics Apps / Simulations 
+* [3b1b](https://github.com/3b1b/videos) / [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos 
 * [MathOnline](http://mathonline.wikidot.com/) - Math / Courses
 * [Mathigon](https://mathigon.org/) - Math / Courses 
 * [BetterExplained](https://betterexplained.com/) - Math / Guides / Courses 
@@ -662,7 +662,6 @@
 * [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/) or [Sim Flow](https://sim-flow.com/) - Fluid Dynamics Simulators
 * [SimScale](https://www.simscale.com/) or [CFDTool](https://www.cfdtool.com/) - Fluid Dynamics & Heat Transfer Simulator
 * [Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php) - Physics Tools 
-* [quantum](https://play.google.com/store/apps/details?id=brychta.stepan.quantum_en) - Quantum Physics Learning App 
 * [Modern / Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps) - Map Resources
 * [Histography](https://histography.io/) - History Timeline
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
