@@ -288,6 +288,7 @@
 * [VideoProc](https://www.videoproc.com/) - Video Processing Software
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - SWF to Video Converter
 * [MotionFactory](https://www.motionfactory.io/) - Video Editing Workflow Manager
+* [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/) or [Pensela](https://github.com/weiameili/Pensela) - Screen Annotation 
 * [VidGrid](https://vidgrid.tk.gg/) - View Multiple Streams Simultaneously
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) or [OBS Ninja](https://obs.ninja/) - Streaming Tools Indexes
 * [SteamLabs](https://streamlabs.com/) - Streaming Tools
@@ -814,6 +815,7 @@
 * [Hosts Files ghosts](https://github.com/StevenBlack/ghosts) - Evaluate, Compare & Format
 * [byp4xx](https://github.com/lobuhi/byp4xx) - Bypass "403 Forbidden" Messages 
 * [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) / [Fork](https://www.9bis.net/kitty/#!index.md), [GitHub](https://github.com/cyd01/KiTTY/) - SSH & Telnet Client / [Keygen](https://www.puttygen.com/)
+* [Server Hunter](https://www.serverhunter.com/) - Search / Compare Servers 
 * [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy) or [Homer](https://github.com/bastienwirtz/homer) - Home Server Homepage 
 * [FairGame](https://github.com/Hari-Nagarajan/fairgame) - Automatically Place Orders on Amazon
 * [rickroll-blocker](https://github.com/hitthemoney/rickroll-blocker/) - Rick Roll Blocker 
@@ -1051,7 +1053,7 @@
 * **[redditlist](http://redditlist.com/)**, [sayit](https://anvaka.github.io/sayit/), [Vizit](http://redditstuff.github.io/sna/vizit/), [Map of Reddit](https://anvaka.github.io/map-of-reddit), [Subbed](https://www.subbed.org/), [RedditViz](https://rhiever.github.io/redditviz/) or [subreddits](http://subreddits.org/) - Subreddit Indexes
 * [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/) - Related Subreddit Calculator
 * /u/SaveVideo, [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://www.redditsave.com/), [redv.co](https://redv.co/) or [Reddit.tube](https://reddit.tube/) - Download Reddit Videos 
-* [saveddit](https://github.com/p-ranav/saveddit) - Reddit Bulk Media Downloader
+* [saveddit](https://github.com/p-ranav/saveddit) or [SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader) - Reddit Bulk Media Downloader
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown)
 * [Subreddit Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_subreddit_discovery) - Explore & Discover Subreddits
 * [/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all) - Explore Multireddits
@@ -1173,7 +1175,7 @@
 * [MonitoRSS](https://monitorss.xyz/), [2](https://github.com/synzen/MonitoRSS-Clone) - RSS Discord Bot
 * [Discord Music Bot](https://github.com/SudhanPlayz/Discord-MusicBot), [discord-music-bot](https://github.com/Androz2091/discord-music-bot), [Music-bot](https://github.com/ZerioDev/Music-bot), [MusicBot](https://github.com/jagrosh/MusicBot), [evobot](https://github.com/eritislami/evobot) or [EarTensifier](https://github.com/Tetracyl/EarTensifier) - Music Bots
 * [Discord-Music-System](https://github.com/RemyK888/discord-music-system) - Discord Music Module
-* [FreeStuff Bot](https://freestuffbot.xyz/) / [GitHub](https://github.com/FreeStuffBot/discord) or [AutomatiK](https://github.com/Axyss/AutomatiK) / [Discord](https://discord.gg/psDtnwX) - Free Games Alert Bot
+* [FreeStuff Bot](https://freestuffbot.xyz/) / [GitHub](https://github.com/FreeStuffBot/discord), [game-deals-discord-bot](https://github.com/lipowskm/game-deals-discord-bot) or [AutomatiK](https://github.com/Axyss/AutomatiK) / [Discord](https://discord.gg/psDtnwX) - Free Games Alert Bot
 * [DiscordChroma](https://github.com/DELUUXE/DiscordChroma) or [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Discord System Lighting Control
 * [Permissions Calculator](https://discordapi.com/permissions.html) - Generate Discord OAuth Invites
 * [CloneCord](https://github.com/Rekulous/CloneCord-bot) - GClone Cloud Storage File Manager in Discord
@@ -1595,7 +1597,8 @@
 * [Redwan's Guide to Guides](https://docs.google.com/document/d/1hZeQkyDe-M9-zNy2eB-Koc3iOpN5-5KxkpvjQaNK60g/edit) - Windows Tweaking Guides
 * [Awesome Scripts](https://github.com/codePerfectPlus/awesomeScripts), [Batch-Script-Collection](https://github.com/happy05dz/Batch-Script-Collection), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - Useful System Scripts
 * [SmartWindows](https://smartwindows.app/) - Create / Restore Windows Profiles 
-* [VirtualBox](https://www.virtualbox.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)
+* [VirtualBox](https://www.virtualbox.org/), [Qemu](http://www.qemu-project.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)
+* [Virt Machine](https://virt-manager.org/) - Virtual Machine Manager 
 * [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - Windows XP Virtual Machine
 * [windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in Electron
 * [Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) - MacOS Virtual Machine
@@ -1627,6 +1630,7 @@
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - Disk Benchmarking Tool
 * [Macrium Reflect](https://www.macrium.com/reflectfree) - System Benchmarking
 * [poclmembench](https://github.com/kruzer/poclmembench) - Memory Benchmark Test
+* [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking 
 * [Netdata](https://www.netdata.cloud/), [bottom](https://github.com/ClementTsang/bottom), [OpenHardwareMonitor](https://openhardwaremonitor.org/) / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor), [btop](https://github.com/aristocratos/btop) or [WinBar](http://www.winbar.nl/) - System Monitor
 * [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - Windows System Utilities / [Suite](https://www.microsoft.com/EN-US/p/app/9P7KNL5RWT25) 
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](http://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - Process Monitor
