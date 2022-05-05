@@ -655,7 +655,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * [Tucan Manager](https://www.tucaneando.com/)
 * [Ninja Download Manager](https://ninjadownloadmanager.com/)
 * [Internet Download Accelerator](https://westbyte.com/ida/) 
-* [Envy](https://sourceforge.net/projects/getenvy/) - [GitHub](https://github.com/getenvy/envy
+* [Envy](https://sourceforge.net/projects/getenvy/) - [GitHub](https://github.com/getenvy/envy)
 * [AWGG](https://sites.google.com/site/awggproject/) / [GitHub](https://github.com/Nenirey/AWGG)
 * [Ant Download Manager](https://antdownloadmanager.com/)
 * [Xtreme Downlaod Manager](https://xtremedownloadmanager.com/) 
