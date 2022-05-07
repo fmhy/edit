@@ -426,6 +426,7 @@
 * [Ed_Books](https://t.me/Ed_Books) 
 * [eBookRoom](https://t.me/eBookRoom)
 * [Libribook](https://libribook.com/) 
+* [Directory of Open Access Books](https://www.doabooks.org/)
 * [BookGoldMine](https://www.bookgoldmine.com/)
 * [ImSoLost](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_imsolost) - 
 * [Penn Libraries](http://digital.library.upenn.edu/) + [Index](http://digital.library.upenn.edu/books/)
@@ -570,6 +571,7 @@
 * [free-programming-books](https://github.com/chrislgarry/free-programming-books) 
 * [Free eBooks](https://books-pdf.blogspot.com/) 
 * [goalkicker](https://goalkicker.com/)
+* [ebooks](https://github.com/XWHQSJ/ebooks)
 * [Flavio Copes](https://flaviocopes.com/page/ebooks/) 
 * [Free Ebooks Download List](https://free-ebook-download-links.blogspot.com/) 
 * [EbookFoundation Programming Books](https://github.com/EbookFoundation/free-programming-books/) 
@@ -636,10 +638,11 @@
 * [Kaggle](https://www.kaggle.com/datasets) - Datasets
 * [Data Catalog](https://datacatalog.worldbank.org/) - Datasets 
 * [mdpi](https://www.mdpi.com/) - Articles 
+* [longdom](https://www.longdom.org/) - Articles 
 * [DOAJ](https://www.doaj.org/) - Journals / Articles
-* [CyberLeninka](https://cyberleninka.org/) - Science / Articles / Legal Documents
 * [Typewriter](https://tetw.org/) - Educational Articles & Essays The Electric
 * [Docracy](https://www.docracy.com/ ) - Legal Documents
+* [E-International Relations](https://www.e-ir.info/) - International Relation Articles
 * [Legal Core](https://core.ac.uk/) - Papers / Academic
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Medical Journals
 * [OpenMD](https://openmd.com/) - Medical Journals
