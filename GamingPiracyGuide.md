@@ -604,6 +604,7 @@
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
 * [Wordle Unlimited](https://wordleunlimited.org/) - Wordle
 * [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) - Wordle Like Games
+* [Wordle Analyzer](https://wordle-analyzer.com/) - Wordle Analyzer 
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles & Quizzes
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - Online Jigsaw Puzzles
 * [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - Solve a Rubix Cube / [Solver](https://rubiksolve.com/), [2](https://bnice.ru/asolver/), [3](https://rubiks-cube-solver.com/)
