@@ -103,6 +103,7 @@
 * [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [ICO Convert](https://www.icoconvert.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - Icon Generators
 * [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/), [Free Logo Maker](https://freelogomaker.net/) or [ACME](https://acme.com/labelmaker/) - Logo Creator 
 * [ArtFlow](http://artflow.ai/), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [react-nice-avatar](https://github.com/chilllab/react-nice-avatar) or [Avataaars](https://getavataaars.com/) - Face / Avatar Generator
+* [Random-Face-Generator](https://github.com/adityar224/Random-Face-Generator) - Face Generator 
 * [Mirro-Ai](https://mirror-ai.com/) - Get Stickers With Your Face
 * [EmojiMix](https://tikolu.net/emojimix) - Combine Emojis
 * [Emojination](https://www.emojination.io/) or [Ccclaymoji](https://fffuel.co/ccclaymoji/) - Emoji Graphic Generator
@@ -115,7 +116,8 @@
 * [Mimi](https://mimi-panda.com/) - Create Coloring Pages from Photos
 * [Photovisi](https://www.photovisi.com/) - Photo Collage Generator 
 * [Make Photo Gallery](https://makephotogallery.net/) - Photo Gallery Creator
-* [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art Generator
+* [ascii-art-generator](https://www.ascii-art-generator.org/), [ascii-generator](https://ascii-generator.site/), [asciiart](https://asciiart.club/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art Generator
+* [convert-ascii-to-image](https://onlineasciitools.com/convert-ascii-to-image) - ASCII to Image Generator
 * [ASCII Paint](http://ascii.alienmelon.com/) - ASCII Art Creator
 * [Text-Image](https://www.text-image.com/) - Text Image Generator
 * [dream](https://app.wombo.art/) - Dream Art Generator
@@ -192,8 +194,9 @@
 * [MemeAtlas](https://www.memeatlas.com/) - Meme Database 
 * [Memegine](https://memegine.com/) - Meme Search Engine
 * [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh) - Meme Templates
-* [Frinkiac](https://frinkiac.com/) - Simpsons Meme Maker
-* [Morbotron](https://morbotron.com/) - Futurama Meme Maker
+* [Frinkiac](https://frinkiac.com/) - Simpsons Meme Generator 
+* [Morbotron](https://morbotron.com/) - Futurama Meme Generator 
+* [BreakYourOwnNews](https://www.breakyourownnews.com/) - Breaking News Meme Generator 
 
 ***
 
