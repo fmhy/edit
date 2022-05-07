@@ -65,6 +65,7 @@
 * [SchoolYourself](http://schoolyourself.org/) - Math Tutorials
 * [mathhelp](https://www.mathhelp.com/) - Math Tutorials
 * [mathonline](http://mathonline.wikidot.com/) - Math Tutorials
+* [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) - Math Lessons 
 * [NYU-DLSP21](https://atcold.github.io/NYU-DLSP21/) - Deep Learning Course
 * [BillNye](https://billnye.com/) - Bill Nye Science Videos
 * [brighstorm](https://www.brightstorm.com/) - Test Prep
@@ -335,6 +336,7 @@
 * [Desmos](https://www.desmos.com/) - Graphing Calculator 
 * [fxSolver](https://www.fxsolver.com/), [Kalker](https://kalker.xyz/) / [GitHub](https://github.com/PaddiM8/kalker) or [The Engineering ToolBox](https://www.engineeringtoolbox.com/) - Engineering & Scientific Calculator
 * [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
+* [Approach0](https://approach0.xyz/search/) - Math Formula Search 
 * [Online Math Tools](https://onlinemathtools.com/) - Multiple Math Tools
 * [Falstad](http://www.falstad.com/) - Math & Physics Apps / Simulations 
 * [3b1b](https://github.com/3b1b/videos) / [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos 
@@ -556,6 +558,7 @@
 * **[PhET](https://phet.colorado.edu/)** - STEM / Interactive
 * **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Infinite trial by clearing cookies & making new account
 * **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - Grammar Checking Tools
+* **[Untools](https://untools.co/)** - Better Thinking Tools & Frameworks
 * **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)** - Learn to Type Faster
 * [MyAssignmentHelp](https://myassignmenthelp.com/free-tools.php) - Academic Tools
 * [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - Touch Typing Tutorial
@@ -617,6 +620,7 @@
 * [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
 * [The SAT: Practice Test 3](https://collegereadiness.collegeboard.org/pdf/sat-practice-test-3.pdf) - SAT Practice Tests
 * [Examveda](https://www.examveda.com/) - Exam Practice
+* [MajorTests](https://www.majortests.com/) - Practice Tests 
 * [CrackAP](https://www.crackap.com/) - Practice AP Exams
 * [/r/ApStudents Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fr.2Fapstudents_resources) - Former AP Exams
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
@@ -635,7 +639,6 @@
 * [LateralPuzzles](http://www.lateralpuzzles.com/) - Lateral Thinking Puzzles
 * [Highbrow](https://gohighbrow.com/) - Daily Lessons
 * [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - The Trolley Problem
-* [Untools](https://untools.co/) - Better Thinking Tools & Frameworks
 * [GCFGlobal](https://edu.gcfglobal.org/) - Tech Tutorials
 * [CS 182 Deep learning](https://cs182sp21.github.io/) - Deep Neural Network Lesson Slides
 * [OpenSyllabus](https://opensyllabus.org/) or [LanguageDrops](https://languagedrops.com/) - Syllabus Search / Info
@@ -662,6 +665,7 @@
 * [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/) or [Sim Flow](https://sim-flow.com/) - Fluid Dynamics Simulators
 * [SimScale](https://www.simscale.com/) or [CFDTool](https://www.cfdtool.com/) - Fluid Dynamics & Heat Transfer Simulator
 * [Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php) - Physics Tools 
+* [quantum](https://play.google.com/store/apps/details?id=brychta.stepan.quantum_en) - Quantum Physics Learning App 
 * [Modern / Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps) - Map Resources
 * [Histography](https://histography.io/) - History Timeline
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
