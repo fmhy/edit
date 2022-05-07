@@ -213,6 +213,7 @@
 * [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) - Cryptography Resources
 * [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete) - Secure File Deletion
 * [VeraCrypt](https://www.veracrypt.fr/en/Home.html) or [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup) - Disk Encryption Software
+* [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition 
 * [Cryptomator](https://cryptomator.org/), [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
 * [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/), [Skytransfer](https://skytransfer.hns.siasky.net) or [upload-vaa](https://upload.vaa.red/) - Encrypted File Hosts 
@@ -273,10 +274,9 @@
 * [File Guard](https://mybrowseraddon.com/file-encryptor.html) - File Encryption / Decryption
 * [Trace](https://absolutedouble.co.uk/trace/) - Privacy Toolkit 
 * [Site Bleacher](https://github.com/wooque/site-bleacher) - Auto Remove Cookies, Local Storages, ect.
-* [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - Redirects Twitter, YouTube, Instagram & Google Maps to alt interfaces
+* [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect), [Invidition](https://codeberg.org/Booteille/Invidition) or [LibreDirect](https://github.com/libredirect/libredirect) - Frontend Redirect
+* [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
 * [catgirl.cloud](https://catgirl.cloud/) - Privacy-Respecting Services
-* [Invidition](https://codeberg.org/Booteille/Invidition) - Redirect YouTube / Twitter requests to their alt interfaces
-* [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - Redirects all YouTube links to Invidous 
 * [Anti-Grabify](https://github.com/Konnor88/anti-grabify) - Block IP Grabbers
 * [Anti-Fp](https://www.cydecplatform.com/antifp.html) - Disrupt Fingerprint Targeting
 * [CanvasBlocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_canvasblocker) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - Prevent Canvas Fingerprinting
