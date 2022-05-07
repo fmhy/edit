@@ -262,7 +262,6 @@
 * [Heygo](https://www.heygo.com/) - Live Interactive Virtual Tours
 * [stringers.live](https://stringers.live/) - Live Freelance Journalist Streams
 * [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - Open Random Windows
-* [LifeAt](https://lifeat.io/) - Virtual Video Spaces
 * [BigPixel](http://en.bigpixel.cn/) - Giant Zoomable Photos
 * [larsberg](http://www.larsberg.net/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - Trippy 3D Experiments
 * [Just Type Stuff ](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - Type Things into Existence
@@ -441,7 +440,7 @@
 * [Dial Up Sound](https://www.dialupsound.com/) - Dial Up Sounds
 * [Chris Shier](https://www.csh.bz/) - Canvas Animations / GIFs 
 * [thisvid2 Web Edition](https://projectlounge.pw/thisvid2) - (Funny) Twitter Video Downloader
-* [StaggeringBeauty](http://www.staggeringbeauty.com/) - Wiggle a Worm, Have a Seizure / Contains Flashing Images
+* [StaggeringBeauty](http://www.staggeringbeauty.com/) - Party Worm / Contains Flashing Images
 * [Keep calm and poke me.](https://calm.ovh/) - Poke & Pull 
 * [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en) - Lead a Blob Opera
 * [Incredibox](https://www.incredibox.com/demo/) - Make Beatboxing Beats
@@ -750,6 +749,7 @@
 * [openScale](https://f-droid.org/packages/com.health.openscale/) - Weight & Body Metrics Tracker
 * [Simple Science Fitness](https://ss.fitness/calculators) - Fitness Calculators 
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
+* [Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm) - BMI Calculator
 * [BMI Chart](https://i.imgur.com/JHJCmDM.png) - Healthy BMI Graph
 * [/r/BodyweightFitness](https://www.reddit.com/r/BodyweightFitness) - Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)
 * [Start Bodyweight](http://www.startbodyweight.com/) - Bodyweight Training
@@ -930,6 +930,7 @@
 * [graphicex](https://graphicex.com/font/)
 * [FontSpace](https://www.fontspace.com/)
 * [Google Fonts](https://fonts.google.com/)
+* [Coollabs](https://fonts.coollabs.io/) - Google Font Alternative / [GitHub](https://github.com/coollabsio/fonts)
 * [Font Store](https://t.me/fontsstore)
 * [Dafont Free](https://www.dafontfree.net/) 
 * [NetFontes](https://www.netfontes.com.br/)
@@ -1156,6 +1157,7 @@
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
 * [ShadowFox](https://overdodactyl.github.io/ShadowFox/) or [Dark Background and Light Text](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text/) - Dark Mode
 * [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - Pick Site that Opens in New Tabs 
+* [Sidebery](https://github.com/mbnuqw/sidebery) - Bookmark / Tab Manager 
 * [Keep or Delete Bookmarks](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) - Keep Bookmark Folder Clean 
 * [Default Bookmark Folder](https://addons.mozilla.org/en-US/firefox/addon/default-bookmark-folder/) - Change Default Bookmark Folder
 * [SaveForReadLater](https://addons.mozilla.org/en-US/firefox/addon/saveforreadlater/) - Save Pages to Read Later 
@@ -1243,6 +1245,7 @@
 * [Better OneTab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg) - Merge & Organize Tabs
 * [Popup Tab Switcher](https://chrome.google.com/webstore/detail/popup-tab-switcher/cehdjppppegalmaffcdffkkpmoflfhkc) - Improved Tab Switching
 * [Relative Bookmarks](https://github.com/duiker101/relative_bookmarks) - Add Relative Bookmarks
+* [Remarkable](https://github.com/samueldobbie/remarkable-extension) - Remove Dead Bookmarks / Refresh Icons 
 * [Mercury Reader](https://mercury.postlight.com/reader/) - Clear Clutter From Articles / [GitHub](https://github.com/postlight/mercury-parser)
 * [OpenDyslexic](https://chrome.google.com/webstore/detail/opendyslexic-for-chrome/cdnapgfjopgaggbmfgbiinmmbdcglnam) - Increase Page Readability
 * [Read Progress](https://chrome.google.com/webstore/detail/website-read-progress/cpmfchlofecflfioofchboebmocaelip) - Display Read Progress on WebPage
