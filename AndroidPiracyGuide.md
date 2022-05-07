@@ -187,6 +187,7 @@
 * [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - Audio Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
 * [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistant
+* [KeyMapper](https://github.com/keymapperorg/KeyMapper) - Key Mapper 
 * [openboard](https://github.com/dslul/openboard) - FOSS Keyboard App
 * [Clipboarded](https://f-droid.org/en/packages/com.trianguloy.clipboardeditor/) - Clipboard Manager
 * [Grammarly](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_grammarly_keyboard_premium) - Grammarly Keyboard Premium 
