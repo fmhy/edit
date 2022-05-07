@@ -217,7 +217,7 @@
 * [booktxt](https://m.booktxt.net/) - Light-Novels 
 * [FFXS](https://www.ffxs.info/) - Light-Novels
 * [Baozimh](https://www.baozimh.com/) - Webtoons
-* [Doujin Fiction Network](https://www.trxs.org/) - Fan Fiction
+* [Doujin Fiction Network](https://www.trxs.org/) or [Readfine](https://t.me/Readfine) / [Discussion](https://t.me/ReadfineChat) - FanFiction
 * [ishare.iask](https://ishare.iask.sina.com.cn/) - Documents  
 * [555电影](https://www.o8tv.com/), [2](https://555dy1.com/) - Movies / TV / Anime / NSFW
 * [CText](https://ctext.org/), [ChineseNotes](http://chinesenotes.com/) or [Kanripo](https://www.kanripo.org/) - Chinese Historic Text Archive
@@ -908,6 +908,7 @@
 
 * [StreamBase](https://thesb.eu/) - Warez List / [GitHub](https://github.com/RugFlipper/streambase) / [Discord](https://discord.gg/3wQ3WQabEp)
 * [2nr](https://play.google.com/store/apps/details?id=pl.rs.sip.softphone) - Free Polish Phone Numbers
+* [StreamBase](https://thesb.eu/) - Warez List / [Discord](https://discord.gg/ZmUTrX6axg)
 
 ## ▷ Downloading
 
