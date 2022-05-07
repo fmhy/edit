@@ -23,10 +23,10 @@
 * **[Movies4Discord](https://discord.gg/UJ9cS2kP3B)** - Movies / TV / 1080p Only / [Website](https://movies4discord.xyz/)
 * **[Soap2Day](https://soapgate.org/)** - Movies / TV
 * **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
-* **[Ask4movies](https://ask4movie.io/)** - Movies / TV / / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
+* **[Oligopoly](https://olgply.com/)** - Movies / TV
 * **[PrivateHD](https://www.privatehd.xyz/)** - Movies / TV
 * **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
-* **[Oligopoly](https://olgply.com/)** - Movies / TV
+* **[Ask4movies](https://ask4movie.io/)** - Movies / TV / / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
 * **[arthemis](https://releases.arthemis.xyz/)** - Movies / TV / Anime / App / [Discord](https://discord.gg/98HxbfjKQV)
 * [M4uFree](https://ww1.m4ufree.com) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [C1NE](https://c1ne.co/) - Movies / TV 
@@ -130,7 +130,6 @@
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
 * [YesHD](https://yeshd.net/) - Movies / TV
 * [Swatchfree](https://swatchfree.in/) - Movies / TV
-* [UWatchFree](https://www.uwatchfree.ph/) - Movies / TV  
 * [WatchSeriesHD](https://www4.watchserieshd.tv/) - Movies / TV / Anime 
 * [Vmovee](https://www.vmovee.watch/) - Movies / TV
 * [WatchMoviesFree](https://wmoviesfree.com/) - Movies
@@ -424,6 +423,7 @@
 * **[Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - TV / Sports
 * **[Jackal](https://jackal.surge.sh/)** - TV / Sports
 * **[LmaoLove](http://lmao.love/)** - TV / Sports
+* **[USTVGO](https://ustvgo.tv/)** - TV / Sports
 * **[LiveOnScore](http://liveonscore.tv/)** - Sports 
 * **[StreamEast](https://www.streameast.io/)** - Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)
 * **[StreamLinks](https://reddits.soccerstreamlinks.com/)**, [2](https://red.soccerstreams.net/), [3](https://footybite.cc/) - Sports
@@ -453,7 +453,6 @@
 * [FreeInterTV](http://www.freeintertv.com/) - TV / Sports
 * [Stream4Free Live](https://www.stream4free.live/) - TV / Sports
 * [vipotv](http://vipotv.com/) - TV / Sports
-* [USTVGO](https://ustvgo.tv/) - TV / Sports
 * [SamiTVHD](https://samitvhd.com/) - TV / Sports
 * [uStream](https://www.ustream.to/index.html) - TV / Sports 
 * [Stream2Watch](https://hq.stream2watch.sx/), [2](https://stream2watch.at/) - TV / Sports
