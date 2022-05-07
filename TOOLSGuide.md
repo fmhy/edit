@@ -167,7 +167,7 @@
 * [EleutherAI](https://6b.eleuther.ai/) or [Essaytyper](http://www.essaytyper.com/) - Text / Story Autocomplete
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)
-* [FocusWriter](https://gottcode.org/focuswriter/) - Distraction-Free Writing Environment
+* [FocusWriter](https://gottcode.org/focuswriter/) or [Writer](https://www.gibney.org/writer) / [GitHub](https://github.com/no-gravity/writer) - Distraction-Free Writing Tool
 * [NovelWriter](https://novelwriter.io/) - Markdown Style Novel Editor
 * [Papyrus Author](https://www.papyrusauthor.com/) - Creative Writing Suite
 * [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Generate Fantasy Names
@@ -271,10 +271,11 @@
 * [VideoTuts](http://videotuts.ru/) - Video Design Tutorials / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - Professional Video, Audio & Adobe Software / Plugins
 * [Free-Codecs](https://www.free-codecs.com/) - Codec Packs & Multimedia Tools
-* [VideoSmaller](https://www.videosmaller.com/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressor
+* [VideoSmaller](https://www.videosmaller.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressor
 * [youtube-cld](https://github.com/anatolykopyl/youtube-cdl) - Bulk YouTube Channel Downloader
 * [SaveVK](https://savevk.com/) - Download VK videos 
 * [DMVideo](https://dmvideo.download/) - DailyMotion Video Downloader 
+* [Pincase](https://pincase.xyz/) - Pinterest Video Downloader 
 * [VLive Downloads](https://home.soshistagram.com/naver_v/) - VLive Video Downloader
 * [kmttg](https://www.videohelp.com/software/kmttg) - TivoToGo Download Manager
 * [TikTok Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tiktok_video_downloaders) - Download TikTok Videos
@@ -544,7 +545,7 @@
 * [Krisp](https://krisp.ai/) - Noise Cancellation Software
 * [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Infinite Pro Trial](https://gist.github.com/programminghoch10/b6021e40cc1905d2b01a1571c6c96f17) - Audio Mixer
 * [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Voice Audio Mixer
-* [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [VoiceMod](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_voicemod), [MorphVOX](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_morphvox), [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird), [MyVoiceMod](https://myvoicemod.com/) or [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changer
+* [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [MorphVOX](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_morphvox), [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird), [MyVoiceMod](https://myvoicemod.com/) or [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changer
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) or [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone Voices
 * [Sound Branch](https://soundbran.ch/) - Create / Share / Podcasts / Voice Messages 
 * [Gibber](https://gibber.cc/) - Audiovisual Code Composer 
@@ -556,6 +557,7 @@
 * [#fretflip](https://fretflip.com/) - Create / Print Guitar Scales & Chord Charts 
 * [HookTheory](https://www.hooktheory.com/trends) - Chord Progression Library 
 * [MusicKit](https://musickit.jull.dev/) - Metronome, Tuner & Tone Generator 
+* [HyperSpeaker](https://github.com/solvencino/hyperspeaker) - Speaker Proxy 
 * [REW](http://www.roomeqwizard.com/) - Room Acoustic, Loudspeaker and audio device measurement
 * [Tuner Ninja](https://tuner.ninja/) - Instrument Tuner 
 * [PIXELSYNTH](https://ojack.xyz/PIXELSYNTH/) - Image to Sound Synthesizer
@@ -788,9 +790,9 @@
 * [Namechk](https://namechk.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - Check Username / Domain Availability
 * [Pyfunceble](https://pyfunceble.github.io/#/) or [Domainr](https://domainr.com/) - Check IP / Domain Availability 
 * [HostsDock](https://eshengsky.github.io/HostsDock/) - Manage & Switch Hosts 
-* [2ip.io](https://2ip.io/) / [2](https://2ip.me/) / [3](https://2ip.ru/), [IPVoid](https://www.ipvoid.com/), [Hacker Target](https://hackertarget.com/ip-tools/), [ipinfo](https://ipinfo.info/) or [ViewDNS](https://viewdns.info/) - Multiple Network Tools
+* [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools) 
 * [IP Checkers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_checkers) - Check Your IP Address
-* [open-ports](https://www.yougetsignal.com/tools/open-ports/) or [CanYouSeeMe](https://canyouseeme.org/) - Port Forwarding Tester
+* [open-ports](https://www.yougetsignal.com/tools/open-ports/), [Networkappers](https://networkappers.com/ ), [PortCheckTool](https://www.portchecktool.com/), [PortChecker](https://www.portchecker.co/), [PortCheckers](https://www.portcheckers.com/) or [CanYouSeeMe](https://canyouseeme.org/) - Open Port Checkers
 * [DownloadTestr](http://txti.es/downloadtestr) - Download Test Files to Test Download Speed 
 * [NeverSSL](http://neverssl.com/) - Fix Public WiFi Login Pages
 * [WiFi-Password](https://github.com/sdushantha/wifi-password) - Fetch WiFi Password / Generate QR Code
@@ -1370,6 +1372,7 @@
 * [Auto Quality for YouTube](https://chrome.google.com/webstore/detail/auto-quality-for-youtube/iaddfgegjgjelgkanamleadckkpnjpjc?hl=en) - Automatically Switch to desired Quality
 * [h264ify](https://github.com/erkserkserks/h264ify) - Use H.264 on YouTube 
 * [YTAPI](https://www.ytapi.com/) - Alt YouTube Player
+* [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV 
 * [Disable 60fps](https://greasyfork.org/en/scripts/23329-disable-youtube-60-fps-force-30-fps) - Force 30fps on YouTube
 * [YouTube CPU Tamer](https://greasyfork.org/en/scripts/431573-youtube-cpu-tamer-by-animationframe) - YouTube CPU Optimization
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix YouTube Aspect Ratio
@@ -1583,6 +1586,7 @@
 * [InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB) - Install Windows without USB
 * [NTLite](https://www.ntlite.com/), [WinReducer](https://www.winreducer.net/) or [MSMG Toolkit](https://msmgtoolkit.in/?i=1) - Custom ISO Creator
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloader / [Config](https://mackie100projects.altervista.org/)
+* [zfsBootMenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS Bootloader 
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - Preinstallation Environment 
 * [Microsoft Downloads Dump](https://www.heidoc.net/php/myvsdump.php) - Verify ISO Legitimacy
 * [CD Key Reader](http://www.cathonian.com/software/cd-keyreader/) - Find Key used to Install Windows
@@ -1884,6 +1888,7 @@
 * [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - Audio Visualizer / FX Engine for Keyboards, Mice & Accessories
 * [Mechvibes](https://mechvibes.com/) or [MechaKeys](https://mechakeys.robolab.io/) - Keyboard Soundpacks
 * [Darker](https://github.com/angelwzr/darker) - Dark / Light Mode Theme Switcher
+* [ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fix Excel on Themed Windows 
 * [Accent Applicator](https://github.com/mcdenis/AccentApplicator) - Applies Win 10 Accent Color to OS
 * [ModernWinver](https://github.com/torchgm/ModernWinver) - Modernize the About Windows Screen
 * [pyWinContext](https://github.com/VodBox/pyWinContext) or [WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Custom Context Menu Manager 
