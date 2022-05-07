@@ -158,11 +158,12 @@
 ## ▷ Ambient / Relaxation 
 
 * **[Chillhop](https://chillhop.com/)** - Lo-fi Radio
+* **[lofi.cafe](https://www.lofi.cafe/)** - Lo-Fi Radio
 * **[Ambient Rain Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ambient_rain_sounds)** - Ambient Rain
+* **[LifeAt](https://lifeat.io/)** - Virtual Study / Work Spaces
 * **[Coding Cat](https://hostrider.com/)** - Nyan Cat's Cousin / Lo-Fi Radio
 * **[HaloMe.nu](https://halome.nu/)** - Halo Menu Screens
 * **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_relaxation) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_relaxation)** - Ambient Mobile Apps 
-* [lofi.cafe](https://www.lofi.cafe/) - Lo-Fi Radio
 * [Ambicular](https://ambicular.com/) - Lo-Fi Radio
 * [DevTunes FM](https://radio.madza.dev/) - Lo-Fi Radio
 * [Lofi Music](https://lofimusic.app/) - Lo-Fi Radio
@@ -430,7 +431,7 @@
 * **[Has it leaked](https://hasitleaked.com/)** or [LEAKED](https://leaked.cx/) - Album Leak Tracker
 * **[Muspy](https://muspy.com/)** - Get Album Release Updates
 * **[RateYourMusic](https://rateyourmusic.com/)**, **[Sputnik](https://www.sputnikmusic.com/)**, [Discogs](https://www.discogs.com/), [listnd](https://listnd.com/) or [Musicbranz](https://musicbrainz.org/) - Ratings / Reviews
-* [RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/) - Artist Recommendations by Genre
+* **[RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/)** - Artist Recommendations by Genre
 * [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Bands Directory 
 * [45Cat](http://www.45cat.com/) - Vinyl Ratings / Reviews
 * [World Spotify](https://www.worldspotify.com/) - Daily Most Streamed Tracks by Country 
