@@ -65,6 +65,7 @@
 * [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
 * [WSL](https://docs.microsoft.com/en-us/windows/wsl/) or [Tunic](https://github.com/mikeslattery/tunic) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
 * [RockstarKernel_WSL2](https://github.com/Dhruvgera/RockstarKernel_WSL2) - Windows Subsystem Kernal
+* [sbupdate](https://github.com/andreyv/sbupdate) - Generate & Sign kernel images for UEFI Secure Boot Arch Linux 
 * [Darling](https://www.darlinghq.org/) - Run MacOS Programs on Linux
 * [OSX-KVM](https://github.com/kholia/OSX-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - MacOS Virtual Machine
 * [InstantBox](https://github.com/instantbox/instantbox) - Temporary Linux Systems
@@ -84,6 +85,7 @@
 * [MultiBoot USB](https://github.com/hackerncoder/multibootusb) - Create Bootable USB Linux Drives
 * [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - Create Bootable USB Windows Drives
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
+* [Linux Heads](https://osresearch.net/) - Minimal CoreBoot / [GitHub](https://github.com/osresearch/heads)
 * [GParted](https://gparted.org/) - Partition Manager
 * [howtodebuntu](https://github.com/themagicalmammal/howtodebuntu) - Tweaks for Debian Based Distros
 * [Extension Manager](https://github.com/mjakeman/extension-manager) - GNOME Shell Extensions 
@@ -127,7 +129,7 @@
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
 * [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) or [GDown](https://github.com/wkentaro/gdown) - Google Drive Downloader
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - Mount GDrive on Linux
-* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
+* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - PDF Editor
 * [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor
 * [Zathura](https://git.pwmt.org/pwmt) - Document Viewer
@@ -247,6 +249,7 @@
 * [Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
 * [Tomb](https://www.dyne.org/software/tomb/) - File Encryption
+* [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition 
 * [SShuttle](https://github.com/sshuttle/sshuttle) - Proxy Server
 * [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Secure Linux Server Guide
 * [BhanUpratpys](https://github.com/bhanupratapys/dnswarden) - DNS Adblocking
