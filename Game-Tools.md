@@ -143,7 +143,7 @@
 ## ▷ Multiplayer 
 
 * [find-PlayDate](https://www.find-playdate.com/) - Find People to Play Games With 
-* [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/), [FreeLan](https://www.freelan.org/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/) or [softether](https://www.softether.org/) - Play Pirated Multiplayer Games
+* [Online Fix](https://online-fix.me/) / [Discord](https://discord.gg/yExgFYncMD), [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/), [FreeLan](https://www.freelan.org/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/) or [softether](https://www.softether.org/) - Play Pirated Multiplayer Games
 * [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) - Online Game Acceleration Proxy
 * [Server.pro](https://server.pro/) or [Orcs](http://orcs.biz/) - Game Server Hosting
 * [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - Hide Player Names to Avoid Stream Sniping
@@ -177,7 +177,6 @@
 * [Dota2ProTracker](https://www.dota2protracker.com/) or [16-Bits](https://16-bits.org/) - Dota 2 Stats Tracker
 * [Project Era](https://erafn.glitch.me/#downloads) - Play Old Fortnite Seasons
 * [HaloDotAPI](https://developers.halodotapi.com/) - Halo Stats, MOTD & UGC API
-* [Online Fix](https://online-fix.me/) - Online Game Cracks / [Discord](https://discord.gg/yExgFYncMD)
 * [Universal VPN Fixer](https://github.com/samfisherirl/VPNGamingPauser/) - Auto Pause VPN While Gaming Online
 * [Slippi](https://slippi.gg/) - Super Smash Bros Melee Online 
 * [Among Us Free Chat Unlocker](https://github.com/Vili1/Among-us-Free-Chat-unlocker/releases/) - Among Us Chat Unlocker
@@ -195,7 +194,7 @@
 * [SteamDB](https://steamdb.info/) - Steam Insights Tool
 * [GetDLCInfoFromSteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Find SteamDB DLC Data
 * [SteamCleaner](https://github.com/Codeusa/SteamCleaner) - Remove Data Left Behind by Game Clients 
-* [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) / [GitHub](https://github.com/MAXBURAOT/SmartSteamEmu), [Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator) / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg), [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Steam Client Emulator 
+* [Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator) / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg), [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) / [GitHub](https://github.com/MAXBURAOT/SmartSteamEmu), [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Steam Client Emulator 
 * [ColdAPI](https://github.com/Rat431/ColdAPI_Steam) - Offline Steam Emulator
 * [Steam Mover](https://www.traynier.com/software/steammover) - Store Steam Games on Multiple Drives
 * [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
