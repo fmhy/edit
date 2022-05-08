@@ -65,7 +65,6 @@
 * **[patoghu](https://patoghu.com/)** - Video / Audio / Software / Android / Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * **[Bitdownload](http://bitdownload.ir/)** - Video / Audio / Software / Games / Android / Courses / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * **[The-Eye](https://the-eye.eu/)** - Audio / Roms / Books / Comics / Magazines / Software / [Discord](https://discord.com/invite/6hr2Xsm)
-* **[BlackPearl](https://blackpearl.biz/)** - Video / Audio / Books / Games / [Interview](https://blackpearl.biz/interview/)
 * [DDLValley](https://www.ddlvalley.me/) - Video / Audio / Games / Roms / Software / Android / Books / Comics / Magazines
 * [Archive.org](https://archive.org/) - Video / Audio / Magazines / Newspapers / Roms / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader)
 * [WarezForums](https://warezforums.com/) - Video / Audio / Games / Roms / Software / Books / Comics / Android / [Account Application](https://t.me/joinchat/AAAAAFRH5fns4IiE-T2TcA)
