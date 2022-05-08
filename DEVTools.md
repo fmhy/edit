@@ -875,6 +875,7 @@
 * [vim-markdown](https://github.com/plasticboy/vim-markdown) - Vim Markdown Plugin
 * [VimAwesome](https://vimawesome.com/) - Vim Plugins
 * [NeovimCraft](https://neovimcraft.com/) - Neovim Plugins
+* [NvChad](https://github.com/NvChad/NvChad) - NeoVIM CLI 
 * [Bootstrap Editor](https://vim-bootstrap.com/) - Vim / Neovim Config Generator Bootstrap Editor
 * [Goyo.vim](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim
 * [nvim](https://github.com/neoclide/coc.nvim) - Neovim LSP Autocompletion coc.
