@@ -264,7 +264,7 @@
 * **[VideoHelp](https://www.videohelp.com/software)** - Video Software Archive 
 * **[Video File Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_converters)** - Video Converters / Encoders 
 * **[Video Encoding Guides](https://sometimes-archives-things.github.io/archived-things/)**, [2](https://encoding-guide.neocities.org/) - Learn how to Encode Videos
-* **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** - *Learn how to Remux Videos*
+* **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** - Learn how to Remux Videos
 * **[Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders)** - Record your Screen
 * **[Multi-Site Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)**
 * **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)** 
