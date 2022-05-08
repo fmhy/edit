@@ -806,7 +806,7 @@
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
 * **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)**
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - ctrl+f and type "video"
-* **[EZTV](https://eztv.re/)** - TV / Anime
+* **[EZTV](https://eztv.re/)** - TV / Anime / Do [NOT](https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) Make Account 
 * [MSearch](https://msearch.now.sh/), [2](https://msearch.vercel.app/) - Movies / TV
 * [WatchSoMuch](https://watchsomuch.tv/) -  - Movies / TV / [Proxy](https://watchsomuchproxy.com/)
 * [GaoQing](https://gaoqing.fm/) - Movies / TV / Anime / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -819,7 +819,7 @@
 * [TorHD](https://torhd.com/) - Movies
 * [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - Movies
-* [YTS](https://yts.mx/) - Movies / [Mirror](https://yify.netlify.app/) / Do [NOT](https://androidrookies.com/top-torrent-website-yts-is-sharing-user-emails-and-ip-addresses-with-anti-piracy-law-firm/) Make Account 
+* [YTS](https://yts.mx/) - Movies / [Mirror](https://yify.netlify.app/) / Do [NOT](https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) Make Account 
 * [Yify-Torrent](https://yify-torrent.cc/) - Movies
 * [ButchIxanh](https://butchixanh.com/) - Asian Drama
 * [xbit](https://xbit.pw/) - Movie Torrent Release Information
