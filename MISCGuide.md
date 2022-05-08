@@ -560,7 +560,7 @@
 
 * **[News Feed Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_news_feed_aggregators)** - Multiple News Site Feeds
 * **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - News Multireddit
-* **[TorrentFreak](https://torrentfreak.com/)** or [TechGiga](https://www.techgiga.net/) - Piracy News
+* **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) or [TechGiga](https://www.techgiga.net/) - Piracy News
 * [RavenReader](https://ravenreader.app/) - News Article Manager
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - How to bypass article paywalls
 * [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - Generate Article Summaries
