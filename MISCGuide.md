@@ -20,8 +20,9 @@
 * **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [awesome-lis](https://github.com/topics/awesome-list) or [awesome-github](https://github.com/fffaraz/awesome-github) - List Indexes
 * **[lists](https://github.com/jnv/lists)** - List Index 
 * **[Get Awesomeness](https://getawesomeness.herokuapp.com/)** - List Index
-* **[Curlie](https://curlie.org/)** - Topic Directory 
+* **[Index.Normie](https://index.normie.cc/)** - Site / Tool Index
 * **[Esoterica Avenue](https://ori5000.github.io/)** - Software & Games Megathread / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn) 
+* **[Curlie](https://curlie.org/)** - Topic Directory 
 * **[Open Source Intelligence Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_source_intelligence_indexes)**
 * [Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - Find Software / App Alternatives 
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - Open Source Software Indexes
@@ -52,7 +53,6 @@
 * [Peelopaalu](https://peelopaalu.neocities.org/) - Site / Tool Index
 * [RefDesk](https://www.refdesk.com/facts.html) - Site / Tool Index
 * [/g/'s good sites](https://rentry.co/sites) - Site / Tool Index
-* [Index.Normie](https://index.normie.cc/) - Site / Tool Index
 * [Illegal Services](https://git.teknik.io/Illegal-Services/Illegal_Services) - Site / Tool Index App / [Discord](https://discord.gg/577AWghYtx)
 * [Product Hunt](https://www.producthunt.com/) - Site / Tool Index
 * [Useful Interweb](https://usefulinterweb.com/) or [Daily Useful Links](https://t.me/DailyUsefulLINKS) - Daily Websites
