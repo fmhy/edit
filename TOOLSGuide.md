@@ -688,6 +688,7 @@
 * [All about RSS](https://github.com/AboutRSS/ALL-about-RSS) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds & Tools
 * [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - GitHub, Reddit, Hacker News & other Feeds
 * [sheet-posting](https://www.sheet-posting.me/) - Convert Google Spreadsheets into Blogs & RSS Feeds
+* [Kill the Newsletter](https://kill-the-newsletter.com/) - Convert email newsletters into Atom Feeds 
 * [Clovery](https://webcatalog.io/clovery/) - Multi-Google App Program
 * [PyPasser](https://github.com/xHossein/PyPasser) - Bypass ReCaptcha v3 & v2
 * [hcaptcha-solver](https://github.com/JimmyLaurent/hcaptcha-solver) - Bypass hCaptcha 
@@ -793,6 +794,7 @@
 * [HostsDock](https://eshengsky.github.io/HostsDock/) - Manage & Switch Hosts 
 * [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools) 
 * [IP Checkers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_checkers) - Check Your IP Address
+* [IP Rotator](https://github.com/Ge0rg3/requests-ip-rotator) - Bypass IP-based Rate-Limits Requests 
 * [open-ports](https://www.yougetsignal.com/tools/open-ports/), [Networkappers](https://networkappers.com/ ), [PortCheckTool](https://www.portchecktool.com/), [PortChecker](https://www.portchecker.co/), [PortCheckers](https://www.portcheckers.com/) or [CanYouSeeMe](https://canyouseeme.org/) - Open Port Checkers
 * [DownloadTestr](http://txti.es/downloadtestr) - Download Test Files to Test Download Speed 
 * [NeverSSL](http://neverssl.com/) - Fix Public WiFi Login Pages
