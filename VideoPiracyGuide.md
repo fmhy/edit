@@ -46,7 +46,6 @@
 * [Vumoo](https://vumoo.to/) - Movies / TV 
 * [FshareTV](https://fsharetv.co/) - Movies 
 * [Trailers.to](https://trailers.to/) - Movies / TV / [Bypass Quota](https://openvideofs.github.io/)
-* [Videoflicks](https://videoflicks.net/) - Movies
 * [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://imgur.com/a/EtLokxO)
 * [FlixZone](https://flixzone.ga/) - Movies / TV
 * [AZMovies](https://azm.to) - Movies
