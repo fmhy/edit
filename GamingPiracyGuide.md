@@ -228,10 +228,6 @@
 * [DS Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ds_roms) - Roms / DS
 * [DSi Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dsi_roms) - Roms / DSi
 * [3DS Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - Roms / 3DS
-* [SNES Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_snes_roms) - Roms / SNES / PW: skwbr
-* [NES Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nes_roms) - Roms / NES
-* [Game & Watch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_game_.26amp.3B_watch_roms) - Roms / Game & Watch
-* [Sega Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sega_roms) - Roms / Sega
 * [Dreamcast Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dreamcast_roms) - Roms / Dreamcast
 * [Sega Saturn Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sega_saturn_roms) - Roms / Sega Saturn
 * [3DO Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_3do_roms) - Roms / 3DO
@@ -297,7 +293,12 @@
 * [RocketLauncer2](https://github.com/Hypnotoad90/RocketLauncher2) - Doom Source Port Frontend
 * [ScummVM](https://www.scummvm.org/) - Classic Graphical Adventure Game Engines
 * [Classic Game Roms](https://sites.google.com/site/classicgameroms/) - Roms
+* [SNES Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_snes_roms) - Roms / SNES / PW: skwbr
+* [NES Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nes_roms) - Roms / NES
+* [Game & Watch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_game_.26amp.3B_watch_roms) - Roms / Game & Watch
+* [Sega Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sega_roms) - Roms / Sega
 * [Old-Games.com](https://www.old-games.com/) - Roms / PC / Amiga
+* [lemon64](https://www.lemon64.com/), [whdload](https://www.whdload.de/), lemonamigahttps://www.lemonamiga.com/), [exotica](http://www.exotica.org.uk/) or [hol abime](https://hol.abime.net/) - Amiga / Commodore64 Roms
 * [AtariMania](http://www.atarimania.com/index.html) - Emulators / Roms / Atari Consoles
 * [MagiPack](https://www.magipack.games/) - Retro Games 
 * [/1CC/](https://8kun.top/1cc/index.html) - Retro Games / [Discord](https://discord.com/invite/Y4dSzbXNau)
