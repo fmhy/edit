@@ -249,6 +249,7 @@
 * [Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
 * [Tomb](https://www.dyne.org/software/tomb/) - File Encryption
+* [WhoAmI Project](https://whoamiproject.tech/) - Privacy / Anonymity Tool / [GitHub](https://github.com/owerdogan/whoami-project)
 * [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition 
 * [SShuttle](https://github.com/sshuttle/sshuttle) - Proxy Server
 * [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Secure Linux Server Guide
@@ -351,6 +352,9 @@
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - UEFI Kexts
 * [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913?mt=12) or [Progressive Downloader](https://macpsd.net/) - File Download Manager
 * [maestral](https://maestral.app/) - File Sharing App
+* [Adobe Creative Cloud](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mac_adobe_cc) - Adobe CC Guides
+* [Adobe Zii](https://www.adobezii.com/) - Adobe CC Patcher / [Subreddit](https://www.reddit.com/r/AdobeZii/)
+* [Adobe Packager](https://github.com/Drovosek01/adobe-packager) - Adobe Portable Installer Script
 * [ss64 OSX](https://ss64.com/osx/) - MacOS Bash Commands
 * [Orion](https://browser.kagi.com/downloads/Orion.dmg) - Webkit Browser with Chrome & Firefox extensions / [Discord](https://discord.gg/E9EKaPZR)
 * [Strongbox](https://strongboxsafe.com/) Password Manager
@@ -472,8 +476,6 @@
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 * [WebCatalog](https://webcatalog.io/)
 * [Awesome macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Open Source Software
-* [Adobe Creative Cloud](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mac_adobe_cc) - Adobe CC Guides
-* [Adobe Zii](https://www.adobezii.com/) - Adobe CC Patcher
 
 ***
 
