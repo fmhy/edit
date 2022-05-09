@@ -241,6 +241,7 @@
 * [Thanos](https://thanos.io/) - Open Source Prometheus Setup / [GitHub](https://github.com/thanos-io/thanos) 
 * [Ainize](https://ainize.ai/) - Launchpad for open-source AI projects
 * [DBeaver](https://dbeaver.io/) - Universal Database Tool
+* Generate Fake Data - [Ruby](https://github.com/faker-ruby/faker) / [Swift](https://github.com/vadymmarkov/Fakery)
 * [Awesome Big Data](https://github.com/0xnr/awesome-bigdata) - Big Data Resource Index
 * [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Kubernetes Cluster
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
@@ -571,6 +572,7 @@
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
 * [App ideas](https://github.com/florinpop17/app-ideas) - Collection of App Ideas
 * [Docker](https://www.docker.com/) - Build, Manage & Run Apps in Containers / [Images](https://linuxserver.io/)
+* [Dive](https://github.com/wagoodman/dive) - Analyze Docker Images
 * [Fastlane](https://fastlane.tools/) - App Development Automation / [GitHub](https://github.com/fastlane/fastlane)
 * [I wish there was app](https://iwishtherewas.app/) - Get App Ideas From Twitter
 * [Blisk](https://blisk.io/) - Cross-Device Testing
