@@ -388,7 +388,7 @@
 * [Keygen Music](http://www.keygenmusic.org/) - Keygen Music Archive
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- MIDI Files 
 * [QueenMusicHall](http://www.queenmusichall.cz/) - Queen MIDIs, Audio, Photos
-* [BurntScarr](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_burntscarr) - STEMS
+* [BurntScarr](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_burntscarr) or [/r/MusicStems](https://www.reddit.com/r/MusicStems/) - STEMS
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games 
 * [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [Incompetech](https://incompetech.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/), [free stock music](https://www.free-stock-music.com/) or [Fugue](https://icons8.com/music) - Royalty Free Music 
 
@@ -427,7 +427,7 @@
 # ► Tracking / Discovery
 
 * **[Last.fm](https://www.last.fm/home)**, [Music Board](https://musicboard.app/) or [Libre](https://libre.fm/) - Track Music you Listen to 
-* **Last.fm Tools** - [Manual Scrobble](https://openscrobbler.com/) / [Web Scrobble](https://web-scrobbler.com/) / [Album Collages](https://www.nsfcd.com/lastfm/) / [Tag Cloud](https://tagcloud.joshuarainbow.co.uk/) / [Now Playing Display](https://descent.live/now)
+* **Last.fm Tools** - [Manual Scrobble](https://openscrobbler.com/) / [Web Scrobble](https://web-scrobbler.com/) / [Album Collages](https://www.nsfcd.com/lastfm/) / [Tag Cloud](https://tagcloud.joshuarainbow.co.uk/) / [Now Playing Display](https://descent.live/now) / [Taste Overlap](https://7x11x13.xyz/last-fm-overlap/)
 * **[Has it leaked](https://hasitleaked.com/)** or [LEAKED](https://leaked.cx/) - Album Leak Tracker
 * **[Muspy](https://muspy.com/)** - Get Album Release Updates
 * **[RateYourMusic](https://rateyourmusic.com/)**, **[Sputnik](https://www.sputnikmusic.com/)**, [Discogs](https://www.discogs.com/), [listnd](https://listnd.com/) or [Musicbranz](https://musicbrainz.org/) - Ratings / Reviews
