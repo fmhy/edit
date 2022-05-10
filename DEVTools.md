@@ -58,9 +58,11 @@
 * [RoboMind](https://www.robomind.net/) - Code Learning Game
 * [Tuts 4 You](https://forum.tuts4you.com/) - Coding / Developer Tutorials
 * [PythonTutor](https://pythontutor.com/) - Coding Tutorials
+* [LintCode](https://www.lintcode.com/) - Coding Practice 
+* [Coding Questions](https://platform.stratascratch.com/coding) - Coding Interview Questions 
 * [Code With Mosh Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_code_with_mosh_courses)
 * [DefendTheWeb](https://defendtheweb.net/) - Cyber Security Challenges
-* [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Watch LeetCode Solutions as Animations
+* [Leetcode](https://leetcode.ca/) - Code Solutions / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation)
 * [VSCodeCanDoThat](https://www.vscodecandothat.com/) - VSCode Tutorial
 * [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
 * [Vim Cheatsheet](https://i.imgur.com/2RsZq6p.png) - Vim Code Editor Cheat Sheet
@@ -178,6 +180,7 @@
 * [Discord.js Guide](https://discordjs.guide/) - Discord.js Bot Guide
 * [vcokltfre](https://vcokltfre.dev/) - Discord.py Bot Guide
 * [free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - AI Learning Resources
+* [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - Machine Learning Coding Lessons 
 * [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
 
@@ -225,7 +228,7 @@
 * [Know the License](https://knowthelicense.codescoring.com/) - Detect Open Source Licenses
 * [Console](https://console.substack.com/) - Subscribe to a List of Open Source Projects
 * [ReDoc](https://github.com/Redocly/redoc) - Generate API Documentation
-* [RapidAPI](https://rapidapi.com/) - API Platform
+* [RapidAPI](https://rapidapi.com/) or [FastAPI](https://github.com/tiangolo/fastapi) - API Framework 
 * [Mockable](https://www.mockable.io/) - Mock APIs
 * [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator 
 * [Pipedream](https://pipedream.com/) - Connect APIs / [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)
@@ -401,6 +404,7 @@
 * [Canva](https://www.canva.com/) or [PikBest](https://pikbest.com/) - Design Templates / [Premium Apk](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_canva_premium) 
 * [Zeplin](https://zeplin.io/) - Design Templates / Editor
 * [Codebases](https://github.com/reacttips-dev/codebases) - ReactJS Project Source Codes
+* [vite](https://vitejs.dev/) - Frontend Development Tool / [GitHub](https://github.com/vitejs/vite)
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Development Resources
 * [Boilerplate](https://github.com/h5bp/html5-boilerplate) - Website Frontend Template HTML5
 * [Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates) or [Undraw](https://evie.undraw.co/)  - Site Templates
@@ -415,6 +419,7 @@
 * [ShapeDivider](https://www.shapedivider.app/) or [blobbb ](https://www.blobbb.fun/)- Make SVG Shape Divider
 * [MinimalAvatars](https://minimalavatars.com/) - Minimal Site Avatars
 * [GalleryProject](http://galleryproject.org/) - Manage / Host Photos on Website 
+* [Lanyard](https://github.com/Phineas/lanyard) - Export Discord Rich Presence to API Endpoint / Websocket 
 * [PublishThisEmail](https://www.publishthis.email/) - Email Based Website Builder
 * [PrivateDaddy](https://www.privatedaddy.com/) - Auto Hide Email Address'
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - Mobile Friendly Page Test 
@@ -494,6 +499,7 @@
 * [LightHouse](https://github.com/GoogleChrome/lighthouse) - Web App Performance Test
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
 * [w3af](http://w3af.org/) - Web App Security Scanner
+* [egui](https://github.com/emilk/egui) - Rust GUI 
 * [Form To Chatbot](http://formtochatbot.com/) - Convert Google Form to Chatbot
 * [Herosaver](https://github.com/amerrigan/HeroSaver-v2) - Save Site Configuration and STLs
 * [Termible](https://termible.io/) - Docker Powered Site Terminals
@@ -615,7 +621,7 @@
 * [Flubber](https://github.com/Appolica/Flubber) - Android Animation Creator
 * [Redex](https://fbredex.com/) - Android Bytecode Optimizer
 * [Capturable](https://github.com/PatilShreyas/Capturable) - Transform Composable Content to Bitmap Images 
-* [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [RiseShot](https://www.riseshot.com/) or [LS Graphics](https://www.ls.graphics/) - App & Site Mockups
+* [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Hishoot2i](https://github.com/hishoot2i/Hishoot2i) / [Templates](https://t.me/hishoot2imaterial), [RiseShot](https://www.riseshot.com/) or [LS Graphics](https://www.ls.graphics/) - App & Site Mockups
 * [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
 * [UIGarage](https://uigarage.net/), [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui), [UXArchive](https://uxarchive.com/), [Mobbin](https://mobbin.design/), [UISources](https://www.uisources.com/) or [LovelyUI](https://lovelyui.com/) - Mobile UI Designs
 * [Screen from Traction](https://screen.traction.one/) - Create App Screenshots
@@ -721,6 +727,7 @@
 * [Tableconvert](https://tableconvert.com/) - Markdown / Code Converter
 * [Markdown Link Check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check Markdown Files for Dead Links 
 * [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks), [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/) or [SimpleCSS](https://simplecss.org/) - CSS Framework
+* [DaisyUI](https://daisyui.com/) - Tailwind Component Library / [GitHub](https://github.com/saadeghi/daisyui )
 * [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks
 * [MarkdownGuide](https://www.markdownguide.org/) - Guide for Markdown (.md) 
 * [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/) or [Mark Text](https://github.com/marktext/marktext)- Markdown Editor 
@@ -808,6 +815,7 @@
 * [Sift](https://sift-tool.org/) - grep Alternative
 * [Edbrowse](http://edbrowse.org/) - Command Line Editor / Browser / Mail Client
 * [Cride](https://github.com/j8r/cride) - Command Line Editor
+* [Zoxide](https://github.com/ajeetdsouza/zoxide) - Improved CD Command 
 * [YQ](https://github.com/mikefarah/yq) - Portable YAML Processor
 * [yoctocolors](https://github.com/sindresorhus/yoctocolors) - Command Line Coloring Package
 * [open](https://github.com/sindresorhus/open) - Open URLs, Files, Executables in CLI or Scripts
@@ -950,12 +958,14 @@
 * [recognizer](https://github.com/equiet/recognizer) - Semantic Highlighting for JavaScript Development
 * [Microdiff](https://github.com/AsyncBanana/microdiff) - Object and Array Comparison Library
 * [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
+* [trzsz](https://github.com/trzsz/trzsz.js) - Make trzsz Compatible with tmux in Terminal
 * [Bundlephobia](https://bundlephobia.com/) - Find Cost of Adding npm Package
 * [Awesome Python](https://github.com/vinta/awesome-python) - Python Resource Index
 * [py-modindex](https://docs.python.org/3/py-modindex.html) - Python Modules List / Tutorials
 * [JSONView](https://jsonview.com/) - JSON Viewer 
 * [JSON Formatter](https://jsonformatter.curiousconcept.com/) or [json-formatter](https://github.com/callumlocke/json-formatter) - JSON Formatter 
 * [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) - JSON Viewer & Editor
+* [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
 * [PlantText](https://www.planttext.com/) - UML Editor
 * [glogg](https://glogg.bonnefon.org/) - Log File Explorer
 * [Code::Stats](https://codestats.net/) - Programmer Stat Tracking
