@@ -19,7 +19,7 @@
 * **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
 * **[300TB Mega](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_300tb_mega)**
 * **[300TB GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_300tb_gdrive)**
-* [mega.archive](https://discord.gg/R3zEZUPp3Q) / [Chat](https://discord.gg/ZRhpUtzvkC), [No Bucks Given](https://discord.gg/By53hyhUFS) - Discord Drive Sharing Community 
+* **[mega.archive](https://discord.gg/R3zEZUPp3Q)** / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
 * [KOLLECTION](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_kollection)
 * [Alive Data Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_alive_data_indexes)
 * [Google TeamDrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) 
@@ -43,6 +43,7 @@
 * [ODCrawler](https://odcrawler.xyz/), [ODS](https://sites.google.com/view/l33tech/tools/ods), [EyeDex](https://www.eyedex.org/) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engine
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
 * [dedigger](https://www.dedigger.com/) - GDrive File Search 
+* [No Bucks Given](https://discord.gg/By53hyhUFS) - Discord Drive Sharing Community 
 * [MegaDownload](http://megadownload.net/) - Mega File Search 
 * [Create Open Directory Search Engine](https://redd.it/d3w2fu)
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) or [AutoIndex](http://autoindex.sourceforge.net/) - Open Directory Indexer 
@@ -88,6 +89,7 @@
 * [Akiba-Online](https://www.akiba-online.com/) - Japanese Media / Video / Audio / Games / Comics / NSFW
 * [CyberPhoenix](http://www.cyberphoenix.org/forum/) - Video / Audio / Software / Games / Roms / Books / Magazines / Comics
 * [dreamteamdownloads1](https://www.dreamteamdownloads1.com/index.php) - Video / Audio / Software / Games / Roms / Books / Magazines
+* [Cracked Resources](https://crackedresources.com/) - Video / Audio / Books / Audiobooks / Games / Software / NSFW 
 * [AllYouLike](https://allyoulike.org/) - Video / Audio Books / Magazines / Games / Roms / Software / Android / Comics / NSFW
 * [ReleaseHive](https://www.releasehive.com/) - Video / Audio / Software / Games / Books / NSFW 
 * [rlsbb](http://rlsbb.ru/), [2](https://rlsbb.to/) - Video / Audio / Games / Software / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker) / [Proxy](https://www.proxybb.com/)
