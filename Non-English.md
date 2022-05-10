@@ -69,6 +69,7 @@
 ## ▷ Reading
 
 * [dopdfwn](https://www.dopdfwn.com/) - PDF Search Engine 
+* [Noor Book](https://www.noor-book.com/en/)
 * [books-library](https://books-library.online/) - Books 
 * [kutub](https://www.kutub-pdf.net/) - Books 
 * [EbookSar](https://www.ebooksar.com/) - Books
@@ -835,6 +836,7 @@
 * [Movibox](https://movibox.in/) - Movies / Geo Restricted 
 * [mrmovie](https://mrmovie5.space/) - Movies / TV 
 * [PlayStop](https://playstop.ir/) - Movies / TV 
+* [ZarFilm](https://zarfilm.com/) - Movies / TV 
 * [SalamDL](https://salamdl.me/) - Movies / TV 
 * [FilmBan](https://filmban.top/) - Movies / TV / Anime
 * [ValaMovie](https://valamovie.club/) - Movies / TV 
@@ -1498,6 +1500,7 @@
 * [Pelispedia 2](https://www.pelispedia2.vip/) - Movies / TV 
 * [G Nula](https://gnula.se/) - Movies / TV / Anime 
 * [gnula.nu](http://gnula.nu/) - Movies / TV 
+* [CineHDPlus](https://cinehdplus.net/) - Movies / TV 
 * [Cliver](https://www.cliver.to/) - Movies
 * [Repelis24](https://repelis24.co/) - Movies / TV
 * [PelisForte](https://pelisforte.co/) - Movies / TV
@@ -1516,6 +1519,7 @@
 * [JKAnime](https://jkanime.net/) - Anime 
 * [AnimeFénix](https://animefenix.com/) - Anime
 * [TioAnime](https://tioanime.com/) - Anime
+* [HenaoJara](https://henaojara.com/) - Anime 
 * [Animadas](https://seriesanimadas.org/) - Anime
 * [Animeflv](https://www3.animeflv.net/) - Anime
 * [Anitube](https://www.anitube.site/) - Anime 
@@ -1704,6 +1708,7 @@
 * [CineTV](https://thuviencine.com/) - Movies / TV / Anime
 * [ThuvienHD](https://thuvienhd.com/) - Movies / TV / Anime
 * [WebTaiPhim](https://webtaiphim.com/) - Movies / TV / Anime
+* [HDVietnam](https://hdvietnam.org/forums/) - Video / Audio 
 * [TinMp3](https://tinmp3.com/) - Music
 * [NhacHay360](https://nhachayvn.net/), [2](https://nhachay360.com/) - Music
 * [NhacPro](https://nhacpro.me/) - Music
@@ -1720,6 +1725,8 @@
 
 * [NetHD](https://nethd.org/) - Video / Audio / Software / Games
 * [3ChangTrai](https://3changtrai.com/) - Video / Audio / Software
+
+
 
 ## ▷ Streaming
 
