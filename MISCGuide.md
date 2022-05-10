@@ -54,6 +54,7 @@
 * [Peelopaalu](https://peelopaalu.neocities.org/) - Site / Tool Index
 * [RefDesk](https://www.refdesk.com/facts.html) - Site / Tool Index
 * [/g/'s good sites](https://rentry.co/sites) - Site / Tool Index
+* [The Scene](https://lkrjangid1.github.io/Awesome-Warez/) - Site / Tool Index 
 * [Illegal Services](https://git.teknik.io/Illegal-Services/Illegal_Services) - Site / Tool Index App / [Discord](https://discord.gg/577AWghYtx)
 * [Product Hunt](https://www.producthunt.com/) - Site / Tool Index
 * [Useful Interweb](https://usefulinterweb.com/) or [Daily Useful Links](https://t.me/DailyUsefulLINKS) - Daily Websites
@@ -436,6 +437,7 @@
 * [Storylocks](https://www.storylocks.com/) - Write Stories with different authors/friends
 * [LongestPoemInTheWorld](http://www.longestpoemintheworld.com/) - Matches Tweets to form Rhymes
 * [InspiroBot](https://inspirobot.me/) - Inspirational Quote Generator
+* [D-E-F-I-N-I-T-E-L-Y](https://d-e-f-i-n-i-t-e-l-y.com/) - How to Spell Definitely
 * [RGB](https://www.rrrgggbbb.com/) - RRRGGGBBB 
 * [DogeWeather](http://dogeweather.com/) - Weather with Doge 
 * [Dial Up Sound](https://www.dialupsound.com/) - Dial Up Sounds
@@ -572,6 +574,7 @@
 * [ICANN](https://www.icann.org/) - News
 * [TheConversation](https://theconversation.com/) - News
 * [Reuters](https://www.reuters.com/) - News 
+* [Top Stories](https://murmel.social/top) - Top Twitter News  
 * [TXT Radio](http://beta.txtradio.live/) - News Text Radio
 * [PublicAlerts](https://google.org/publicalerts) - Important News / Disaster Alerts
 * [Riot Archive](https://riotarchive.com/) - Riot / Protest Videos
@@ -608,6 +611,7 @@
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
 * [InoReader](https://www.inoreader.com/) - News Feed Manager
 * [LiveScore](https://www.livescores.com/) - Live Sports Scores
+* [Scribe](https://scribe.bus-hit.me/) - Medium Frontend 
 
 ***
 
@@ -1197,7 +1201,7 @@
 * [Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=en)
 * [Crx4Chrome](https://www.crx4chrome.com/) - Alt Google App Store
 * [WebCRX](https://webcrx.io/) - Install Chrome CRX Files
-* [chrome-extensions](https://github.com/learn-anything/chrome-extensions) - List of Chrome Extensions 
+* [chrome-extensions](https://github.com/learn-anything/chrome-extensions) or [Chrome-Extension](https://github.com/harshita214/Chrome-Extension) - Chrome Extensions 
 * [NooBoss](https://ainoob.com/en/project/nooboss) - Chrome Extension Manager / Extra Features
 * [ChromeStats](https://chrome-stats.com/) - Compare / Analyze Chrome Extensions
 * [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Add Extensions to Ungoogled Chromium 
@@ -1216,6 +1220,7 @@
 * [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn) - Text Summary Generator
 * [Poster](https://install.get-poster.com/) - Quick Link Share
 * [Blackbox](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) - Copy Text from Videos and Images
+* [Copy Text Easily](https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo) - Simple Text Copy 
 * [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en) - Extract Email ID's from Webpages
 * [Link Klipper](https://chrome.google.com/webstore/detail/link-klipper-extract-all/fahollcgofmpnehocdgofnhkkchiekoo?hl=en) - Webpage Link Extractor
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - Download Multiple Links at Once 
