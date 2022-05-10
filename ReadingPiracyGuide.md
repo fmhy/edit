@@ -1099,7 +1099,7 @@
 * [ISFDB](http://www.isfdb.org/cgi-bin/index.cgi) - Speculative Fiction
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Glimbay](https://glimbay.netlify.app/) - Book Summaries
-* [/r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) or [DC-Comics](https://rentry.co/dc-comics) - DC Comic Recommendations 
+* [/r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) - DC Comic Recommendations 
 * [Comic Book Reading Orders](https://comicbookreadingorders.com/) - Comic Book Reading Orders
 * [DC Superhero Era Timeline](https://i.imgur.com/Icojkx1.jpg) / [2](https://i.imgur.com/drSEr0j.jpg)
 * [Mangaki](https://mangaki.fr/) - Manga Recommendations
