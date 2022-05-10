@@ -319,7 +319,9 @@
 * [TheBrickBible](https://thebrickbible.com/) - The Bible Recreated with Lego
 * [BibleEmoji](http://www.bibleemoji.com/) - Convert Bible Verses to Emojis
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
-* [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) - Quran Translation
+* [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) / [2](https://beta.quran.com/en) - Quran Translation
+* [TheIslam360](https://theislam360.com/) - Islamic Research App 
+* [Muslim Scholars](http://muslimscholars.info/) - Muslim Scholar Database 
 * [English Torah](http://englishtorah.com/) - Torah Translation
 * [Halakhah](https://www.halakhah.com/) - Talmud Translation
 * [Targum](http://targum.info/targumic-texts/) - Targum Translation
@@ -613,6 +615,7 @@
 * [DocDroid](https://www.google.com/search?q=site%3Adocdroid.net) - Document Search 
 * [Higher Intellect](https://preterhuman.net/) - Document Search 
 * [qDoc](https://qdoc.tips/) - Document Search
+* [ReadSomethingGreat](https://www.readsomethinggreat.com/) - Internet Articles 
 * [Google Scholar](https://scholar.google.com/) - Articles
 * [Mendeley](https://www.mendeley.com/) - Articles / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/)
 * [DOAJ](https://doaj.org/) - Journals / Articles
@@ -829,6 +832,7 @@
 * [The Manga Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_manga_library)
 * [Mangas.Heoo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mangas.heoo)
 * [BookDL Comic & Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_booksdl)
+* [pptenshi](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pptenshi)
 * [bato](https://bato.to/) - [Discord](https://discord.gg/7NBwcBsDph)
 * [MangaHere](http://www.mangahere.cc)
 * [MangaNelo](https://manganelo.com/) or [Mangakakalot](https://mangakakalot.com/)
@@ -1009,7 +1013,6 @@
 * [ENMagazine](https://t.me/enmagazine) - Telegram
 * [Magazines4U](https://t.me/Magazines4U) - Telegram 
 * [newspaper_archive](https://t.me/newspaper_archive) - Telegram
-* [BookCrush Newsstand](https://t.me/BookCrushNewsstand) - Telegram
 * [WhatsNws](https://t.me/whatsnws) - Telegram
 * [World Mags](https://www.worldmags.net/)
 * [PDF Dude](https://pdfdude.com/) 
@@ -1046,7 +1049,6 @@
 * **[Google Newspaper Search](https://news.google.com/newspapers)**
 * **[Newspapers Magazines](https://t.me/newspapersmagaziness)** - Telegram 
 * [Burlesco](https://burles.co/en/) - Bypass the paywall on online newspapers
-* [BookCrush Newsstand](https://t.me/BookCrushNewsstand) - Telegram
 * [WhatsNws](https://t.me/whatsnws) - Telegram
 * [Sanet.st](https://sanet.st/newspapers/)
 * [Elephind](https://www.elephind.com/) - Historical Newspaper Search
@@ -1097,6 +1099,7 @@
 * [ISFDB](http://www.isfdb.org/cgi-bin/index.cgi) - Speculative Fiction
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Glimbay](https://glimbay.netlify.app/) - Book Summaries
+* [/r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) or [DC-Comics](https://rentry.co/dc-comics) - DC Comic Recommendations 
 * [Comic Book Reading Orders](https://comicbookreadingorders.com/) - Comic Book Reading Orders
 * [DC Superhero Era Timeline](https://i.imgur.com/Icojkx1.jpg) / [2](https://i.imgur.com/drSEr0j.jpg)
 * [Mangaki](https://mangaki.fr/) - Manga Recommendations
