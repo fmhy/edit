@@ -29,9 +29,9 @@
 * [ISLC](https://www.wagnardsoft.com/ISLCw) - Remove Windows 10 RAM Stutters / [Tutorial](https://www.reddit.com/r/GlobalOffensive/comments/fca7lw/if_you_have_stutter_ingame_you_can_try_this_tool/fj9yx3h/)
 * [Sunshine](https://github.com/loki-47-6F-64/sunshine) - GPU Streaming Client
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
-* [WindowedBorderlessGaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games
+* [WindowedBorderlessGaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming), [Borderless-Gaming-Tool](https://github.com/r57zone/Borderless-Gaming-Tool) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window
-* [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) - Widescreen Fixes / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack)
+* [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack) or [Flawless Widescreen](http://www.flawlesswidescreen.org/) - Widescreen Fixes
 * [DisplayMagician](https://github.com/terrymacdonald/DisplayMagician) - Per-Game Display Profiles
 * [LinkRunner](https://github.com/romjacket/rj_linkrunner) - Per-Game Settings Manager
 * [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - Game Fixes and Patches
@@ -190,6 +190,7 @@
 ## ▷ Steam Tools
 
 * **[A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)** or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tools Index
+* [Steam Deck Mods](https://steamdeckmods.com/) - Steam Deck Mods / [Discord](https://discord.gg/T9FEJ5aUNv)
 * [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
 * [SteamDB](https://steamdb.info/) - Steam Insights Tool
 * [GetDLCInfoFromSteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Find SteamDB DLC Data
@@ -272,6 +273,7 @@
 ## ▷ Minecraft Tools
 
 * **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** 
+* **[MCModdingGuide](https://rentry.org/MCModdingGuide)** - Minecraft Modding Guide 
 * [Awesome Minecraft](https://github.com/bs-community/awesome-minecraft) - Minecraft Resource Index  
 * [Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods) - Minecraft Mod Collections 
 * [Minecraft Optimization Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_optimization_mods) - Improve Minecrafts Performance
@@ -299,7 +301,7 @@
 * [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization:zap:.283181/), [paper-optimization](https://eternity.community/index.php/paper-optimization/) or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Minecraft Server Optimization Guides
 * [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
 * [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server
-* [Salwyrr Launcher](https://www.salwyrr.com/) or [MultiMC5-Cracked](https://github.com/AfoninZ/MultiMC5-Cracked) - Free Premium Minecraft Launchers
+* [Salwyrr Launcher](https://www.salwyrr.com/) or [MultiMC5-Cracked](https://github.com/AfoninZ/UltimMC) - Free Premium Minecraft Launchers
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Minecraft Modding API 
 * [PVPRP](https://pvprp.com/) - Minecraft Texture Packs
 * [IrisShader](https://www.curseforge.com/minecraft/mc-mods/irisshaders) - Fabric Shadermod for Minecraft
