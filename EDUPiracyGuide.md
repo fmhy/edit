@@ -15,9 +15,11 @@
 
 # ► Streaming
 
+* [CommSpeeches](https://commspeeches.softr.app/) - Famous Graduation Speeches 
+
 ## ▷ Courses
 
-* **[Coursera](https://www.coursera.org/)** - Courses
+* **[Coursera](https://www.coursera.org/)** - Courses / [Financial Aid](https://github.com/abdelrahmaan/Financial-aid-on-coursera-) / [Download](https://github.com/coursera-dl/coursera-dl)
 * **[edX](https://www.edx.org/)** - Courses
 * **[Future Learn](https://www.futurelearn.com/)** - Courses
 * **[Udacity](https://www.udacity.com/)** - Courses
@@ -37,6 +39,7 @@
 * [SelfSchool](https://selfschool.me/) - Courses
 * [Cursa](https://cursa.app/) - Courses
 * [NPTEL](https://nptel.ac.in/course.html) - Courses
+* [InternetisAwesome](https://www.internetisawesome.xyz/) - Courses 
 * [Real.Discount](https://app.real.discount/) - Courses
 * [Kadenze](https://www.kadenze.com/) - Courses
 * [OnlineTutorials](https://www.onlinetutorials.org/) - Courses
@@ -224,7 +227,6 @@
 * [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - Download videos from Coursera 
 * [Skillshare DL Guide](https://i.imgur.com/AIENK0K.png) - Download videos from Skillshare
 * [skillsharefree](https://t.me/skillsharefree) - Skillshare Courses / Telegram 
-* [SkillShare-DL](https://colab.research.google.com/github/beast1hack/skillshare-1hack/blob/master/Skillshare_DL_%5B1hack%5D.ipynb) - Skillshare to GDrive Downloader
 * [avdshare](https://www.avdshare.com/udemy-downloader) - Download videos from Udemy
 * [Udemy Paid Courses Grabber](https://github.com/AmmeySaini/Udemy-Paid-Courses-Grabber) - Udemy Course Grabber
 * [UdemyCourseGrabber](https://github.com/keethesh/UdemyCourseGrabber) - Find Udemy Course Download Links
@@ -321,7 +323,7 @@
 * **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)** - List of interactive math sites
 * **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - Sites with Multiple Calculators 
 * **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
-* **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_symbolab_pro) - Math Problem Solver with Steps
+* **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) / [Paywall Bypass](https://greasyfork.org/en/scripts/437041-symbolab-pro-fixed) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_symbolab_pro) - Math Problem Solver with Steps
 * [TeX](https://www.microsoft.com/en-us/p/flowtex-preview-beta/9nt79075t86l) - Convert Handwritten Math to LaTeX
 * [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - Multi-Calculator App / Android
 * [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - Matrix Calculator
@@ -345,7 +347,7 @@
 * [BetterExplained](https://betterexplained.com/) - Math / Guides / Courses 
 * [IXL Learning](https://au.ixl.com/math/) - Math Practice / Quizzes
 * [ParkMath](https://parkmath.github.io/) - Math Guides
-* [Math Exercises](http://www.math-exercises.com/) - Math Practice
+* [Math Exercises](http://www.math-exercises.com/) or [MathBitsNotebook](http://mathbitsnotebook.com/) - Math Practice
 * [Pauls Online Math Notes](https://tutorial.math.lamar.edu/) - Math Practice / Guides
 * [Math2.org](http://math2.org/) - Math Guides
 * [Terence Tao Research](https://terrytao.wordpress.com/) - Mathematical Research
@@ -456,7 +458,7 @@
 * [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
 * [AnimeLon](https://animelon.com/) - Streaming / Anime / Learn Japanese
 * [Nihongo](https://nihongo-e-na.com/eng/), [Jim Breen's Japanese Page](http://nihongo.monash.edu/japanese.html), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/), [Itzazureneko](https://itazuraneko.neocities.org/learn/guide.html) - Japanese Learning Resources
-* [Marshall's Site](https://marshallyin.com/), [jpdb](https://jpdb.io/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese 
+* [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [jpdb](https://jpdb.io/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese 
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [Memento](https://github.com/ripose-jp/Memento) - Japanese Learning Video Player
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - Japanese Practice Material
@@ -534,8 +536,9 @@
 * [Guitarsix](https://guitarsix.com/) - Guitar
 * [Finger Style](https://finger-style.ru/category/lessons) - Guitar
 * [coop3rdrumm3r](https://www.drumeo.com/coop3rdrumm3r/) - Drumming
+* [911tabs](https://www.911tabs.com/) - Tab
 * [Finger Tabs](https://fingertabs.com/) - Tabs
-* [Ultimate Guitar](https://www.ultimate-guitar.com/) - Tabs
+* [Ultimate Guitar](https://www.ultimate-guitar.com/) - Guitar Tabs
 * [Jazz Improvisor](http://www.cs.hmc.edu/~keller/jazz/improvisor) - Improvised Jazz
 * [LearningSynths](https://learningsynths.ableton.com/) - Synthesizers
 * [Sight Singing Factory](https://www.sightreadingfactory.com/) - Sight Singing Practice
@@ -547,7 +550,7 @@
 * [Access Music](http://accessmusic.sourceforge.net/) - Create Music Score for Blind Users
 * [The ABC Music Project](http://abc.sourceforge.net/) - Plain Text Music Notation / [Editor](https://toadflax.sourceforge.io/), [2](https://runabc.sourceforge.io/), [3](http://easyabc.sourceforge.net/) / [PNG Convert](https://abccairo.sourceforge.io/) / [MIDI Convert](https://abcmidi.sourceforge.io/) / [Webpages](https://netabc.sourceforge.io/) / [Random](https://sourceforge.net/projects/randomabc/)
 * [Audiveris](https://audiveris.github.io/audiveris/), [Oemer](https://github.com/BreezeWhite/oemer) / [Colab](https://colab.research.google.com/github/BreezeWhite/oemer/blob/main/colab.ipynb), [transcription](https://github.com/superfonic/transcription), [omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart), [AutoAudio](https://github.com/EricaNguyen/AutoAudio), [notetrainerpro](https://sourceforge.net/projects/notetrainerpro/) or [Soundslice](https://www.soundslice.com/transcribe/) - Transcribe Music Sheets / [GitHub](https://github.com/Audiveris/audiveris)
-* [Partitura Magica](https://partituramagica.sourceforge.io/) Display Scanned Music Sheets
+* [Partitura Magica](https://partituramagica.sourceforge.io/) or [SheetMusicScanner](https://sheetmusicscanner.com/) - Display Scanned Music Sheets
 
 ***
 
@@ -564,7 +567,7 @@
 * [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - Touch Typing Tutorial
 * [Spreeder](https://www.spreeder.com/) - Learn to Read Faster
 * [Learn Anything](https://learn-anything.xyz/), [Learning Lab](https://learn.uno/) / [Discord](https://discord.com/invite/FCzYt8u) or [Learney](https://app.learney.me/) - Learning Resources 
-* [Fact Directory](https://fact.directory/) - Facts for Every Topic 
+* [Fact Directory](https://fact.directory/) or [RDoK](http://rdok.net/) - Fact / Knowledge Databases
 * [Refseek](https://www.refseek.com/) - Academic Search Engine
 * [Explorabl.es](https://explorabl.es/) or [MinuteLabs](https://minutelabs.io/) - Interactive Learning / Lessons 
 * [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - Learn With GIFs 
@@ -603,6 +606,7 @@
 * [Answers Exchange](https://discord.gg/GFp9Rvr), [Toppr](https://www.toppr.com/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
 * [Chegg Answers](https://www.istaunch.com/how-to-get-chegg-answers-for-free/#2_Free_Chegg_Answers_by_iStaunch), [2](https://creativesavantz.com/how-to-access-chegg-solutions-for-free/), [3](https://litanswers.net/get-free-chegg-answers/), [4](https://techpanga.com/free-chegg-answer/), [5](https://trickswire.com/free-chegg-answers/), [6](https://www.rootupdate.com/free-chegg-answers/) - Chegg Answer Tools
+* [School Cheats](https://schoolcheats.net/) - School Platform Answers 
 * [Quizizz Cheat](https://github.com/gbaranski/quizizz-cheat) - Quizizz Answers Tool
 * [PXTrez](https://pxtrez.com/) - Kahoot Answers Tool
 * [ITExamAnswers.net](https://www.itexamanswers.net/) - IT Exam Answers
@@ -718,6 +722,7 @@
 * [Arachne](https://arachne.dainst.org/) - Ancient Sculpture Image Archive
 * [The First World War](https://www.firstworldwar.amdigital.co.uk/) - WW1 Study Material
 * [Earth 2050](https://2050.earth/) - Future Predictions
+* [Nuclear Risk Calculator](https://app.hex.tech/399c4a29-5b7f-4f70-8b53-afa8da38dd72/app/def94910-d017-4508-847c-e1189d3b6042/latest) - Calculate Risk of Nuclear War 
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
 * [Economics of The Office](http://economicsoftheoffice.com/) - Learn Economics via The Office
 * [Morse Typing Trainer](https://morse.withgoogle.com/learn/) - Morse Code Trainer 
@@ -739,6 +744,7 @@
 * [Reddit-wiki-programming](https://github.com/antariksh17/Reddit-wiki-programming) - Computer Science Learning Resources
 * [Niche](https://www.niche.com/) or [Top Universities](https://www.topuniversities.com/) - University & School Rankings
 * [Find Study Now](https://find-study-now.com/) - School Search
+* [BachelorStudies](https://bachelorstudies.com/) - Bachelor Degree Search 
 * [College Map](https://nces.ed.gov/ipeds/collegemap/) - College Information Map
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - Professor Ratings
 * [Edu VPN](https://www.eduvpn.org/) - Institute Access VPN
