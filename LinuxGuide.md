@@ -243,6 +243,7 @@
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) or [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) - Linux Privacy Guide 
 * [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
 * [Twilio Authy](https://snapcraft.io/authy) - Linux Two-Factor Authentication
+* [Menu Searx](https://github.com/MossyMossMoss/menu-searx) - SearX Search Tool 
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) or [Gufw](http://gufw.org/) - Linux Firewall 
 * [Mofolinux](https://mofolinux.com/), [Tails](https://tails.boum.org/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - Privacy-Based Linux Operating System
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - VPN Tunnel
@@ -286,6 +287,7 @@
 * **[protondb](https://www.protondb.com/)**, **[Lutris](https://lutris.net/)** or [Proton](https://github.com/ValveSoftware/Proton) - Play Windows games on Linux
 * **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
 * **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games
+* [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices 
 * [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [r/linux_gaming wiki](https://linux-gaming.kwindu.eu/) - Linux Gaming Wiki
 * [GameHub](https://tkashkin.github.io/projects/gamehub/) - Game Manager
@@ -305,6 +307,7 @@
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - GOG Client
 * [proton-gog-install](https://github.com/myyc/proton-gog-install) - Windows to Linux GOG Game Installer
 * [Unix ASCII Games](https://github.com/ligurio/awesome-ttygames) - Unix ASCII Games
+* [CWordle](https://github.com/velorek1/cwordle) - Wordle in Unix Terminal 
 * [NVBurner](https://github.com/iloveichigo/NVBurner) - Overclocking Tool
 * [dxvk](https://github.com/doitsujin/dxvk) - D3D9, D3D10 and D3D11 for Linux / Wine 
 * [VKBasAlt](https://github.com/DadSchoorse/vkBasalt) - Game Post Processing Layer
@@ -366,6 +369,7 @@
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) or [Spark](https://sparkmailapp.com/) - Email Client
 * [Microsoft Mac Downloads](https://macadmins.software/) or [Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Office Suite
 * [Winfield](http://www.winfield.demon.nl/) - MS Word for Linux / OS X 
+* [kbdlight](https://github.com/WhyNotHugo/kbdlight) - Change MacBook Keyboard Backlight Level 
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - Connect Mac Keyboard to Mobile Devices
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - Shortcut CheatSheet for Current Application
 * [MonitorControl](https://monitorcontrol.app/) - External Monitor Brightness & Volume Control
