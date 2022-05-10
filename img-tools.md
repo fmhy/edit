@@ -161,6 +161,7 @@
 * [The Wood Workshop](http://spiralgraphics.biz/ww_overview.htm) - Wood Texture Editor / Creator
 * [PlantStudio](https://www.kurtz-fernhout.com/summary_plantstudio.html) - Plant Model / Illustration Creator 
 * [Dummy Image](https://dummyimage.com/) - Dynamic Dummy Image Generator 
+* [instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant Neural Graphics Primitives 
 * [CLIP-GLaSS](https://colab.research.google.com/drive/1fWka_U56NhCegbbrQPt4PWpHPtNRdU49?usp=sharing#scrollTo=zvZFRZtcv8Mp) - Image Generation Tool 
 * [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) - Chimera Generator 
 
@@ -177,7 +178,7 @@
 * [GifRun](https://gifrun.com/) - Make GIFs From Online Videos
 * [UnFREEz](http://www.whitsoftdev.com/unfreez/) - Make GIFs From Images
 * [Viphy](https://viphy.typestudio.co/) - Generate GIF From Text
-* [ScreenToGif](https://www.screentogif.com/) - GIF Recording Software 
+* [ScreenToGif](https://www.screentogif.com/) or [Peek](https://github.com/phw/peek) - GIF Recorder
 * [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - Turn Screencasts into GIFs
 * [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - Turn YouTube Videos into GIFs 
 * [petpet](https://benisland.neocities.org/petpet/) / [2](https://zoomerok.app/petpet/) - Headpatting GIF Maker
@@ -337,7 +338,7 @@
 
 # ► Image Tools
 
-* [WebOasis Editors](https://weboasis.app/editors/), [Hotot](https://hotpot.ai/), [RedKetchup](https://redketchup.io/), [VertexShare](https://vertexshare.com/), [ImageConvert](https://imageconvert.org/), [MyPhotoFilter](https://www.myphotofilter.com/), [Img2Go](https://www.img2go.com/), [BrandFolder](https://brandfolder.com/workbench-suite), [fffuel](https://fffuel.co/), [ImgLarger](https://imglarger.com/), [Convertmyimage](https://convert-my-image.com/), [SocialBook](https://socialbook.io/), [Mara](https://mara.photos/), [StitchTool](https://www.jdeploy.com/~stitchtool) / [GitHub](https://github.com/Aeonss/StitchTool/), [BatchWatermark](https://batchwatermark.com/) or [FastStone](https://www.faststone.org/index.htm) - Multiple Image Tools
+* [Multi-Tool Image Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_image_tool_sites) - Multiple Image Tools
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
 * [Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes) - Color Scheme / Palette Tools
 * [Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers) - Extract Color from Pictures / Webpages
@@ -465,6 +466,7 @@
 * [Image Identification Project](https://www.imageidentify.com/) - Image Identification Tool 
 * [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [Steganography-PNG](https://pedrooaugusto.github.io/steganography-png/) / [GitHub](https://github.com/pedrooaugusto/steganography-png), [ImSter](https://github.com/armytricks/ImSter) or [stegpy](https://github.com/dhsdshdhk/stegpy) - Embed & Extract Hidden Data in Images / Steganography 
 * [Aperisolve](https://aperisolve.fr/) - Steganography Analysis Tool
+* [Unredacter](https://github.com/BishopFox/unredacter) - Crack Pixelated Images 
 * [Ambiguous PNG Packer](https://github.com/DavidBuchanan314/ambiguous-png-packer) - Create PNG that looks different on Apple Software
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - Blur Images / Scrub Metadata
 * [BetterCensorship](https://bc.betterrepack.com/) - Censor and De-censor Images
