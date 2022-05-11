@@ -72,10 +72,10 @@
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - Bra Size Calculator
 * [The Sustainabilitist](https://sustainabilitist.com/) - Sustainability Resource Hub
 * [ActivityWatch](https://activitywatch.net/) - Automatically Track Device Activity / [Extensions](https://github.com/ActivityWatch/aw-watcher-web) 
-* [Cold Turkey](https://getcoldturkey.com/), [PomoFocus](https://pomofocus.io/) or [Take a Five](http://www.takeafive.com/) - Site Blocker / Productivity Booster 
-* [Tempus](https://tempus.keziahmoselle.fr/), [ManicTime](https://www.manictime.com/), [Clockify](https://clockify.me/), [Pro Modoro](https://pro-modoro.xyz/) or [Super-Productivity](https://github.com/johannesjo/super-productivity)  - Productivity Managers
+* [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity Booster / [Premium Unlock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cold_turkey_premium)
+* [Tempus](https://tempus.keziahmoselle.fr/), [ManicTime](https://www.manictime.com/), [Clockify](https://clockify.me/), [Pro Modoro](https://pro-modoro.xyz/) / [2](https://pomofocus.io/) or [Super-Productivity](https://github.com/johannesjo/super-productivity)  - Productivity Managers
 * [DogSheep](https://dogsheep.github.io/) - Personal Analytics Tools 
-* [Stretchly](https://hovancik.net/stretchly), [WorkRave](https://workrave.org/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - Break Reminders
+* [Stretchly](https://hovancik.net/stretchly), [WorkRave](https://workrave.org/), [Take a Five](http://www.takeafive.com/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - Break Reminders / Trackers
 * [DoINeedAJacket](https://doineedajacket.com/weather/), [DogeWeather](http://dogeweather.com/), [ForcastAdvisor](https://www.forecastadvisor.com/) or [wttr](https://wttr.in/) - Simple Weather Reports
 * [World Weather Online](https://www.worldweatheronline.com/) - Historical Weather Reports
 * [Cricket Convert](https://www.weather.gov/epz/wxcalc_cricketconvert) - Estimate Temperature via Cricket Chirps
@@ -165,7 +165,7 @@
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
 * [Cliche Finder](http://cliche.theinfo.org/) - Detect Cliches
 * [phraseup](http://www.phraseup.com/) - Autocomplete Common Phrases 
-* [Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en) or [Talk to Transformer](https://app.inferkit.com/demo) - Text Autocomplete 
+* [Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en), [TextSynth](https://textsynth.com/playground.html) or [Talk to Transformer](https://app.inferkit.com/demo) - Text Autocomplete 
 * [EleutherAI](https://6b.eleuther.ai/) or [Essaytyper](http://www.essaytyper.com/) - Text / Story Autocomplete
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)
@@ -443,6 +443,7 @@
 * [Online Mic Test](https://onlinemictest.com/), [Mic Tests](https://mictests.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test 
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) - Measure Surrounding Sound Level
 * [Audio-Router](https://github.com/audiorouterdev/audio-router) - Route Audio from Programs to Devices
+* [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Playback or Recording Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
 * [Ultimate Realtek HD Audio Driver Mod](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ultimate_realtek_hd_audio_driver_mod) or [Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic) - Realtek Audio Driver
 * [ASIO4ALL](https://www.asio4all.org/) - ASIO Audio Driver
 * [FXSound](https://www.fxsound.com/) - Sound Booster & Equalizer
@@ -938,7 +939,7 @@
 * [ISearchFrom](http://isearchfrom.com/) - Change Location / Device for Google Search
 * [Google Search Operator Cheat Sheets](https://moz.com/learn/seo/search-operators), [2](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [3](https://ahrefs.com/blog/google-advanced-search-operators/), [4](https://l-lists.com/en/lists/m1mdwx.html), [5](https://github.com/BushidoUK/OSINT-SearchOperators)
 * [Google Search Guide](https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters) + [Advanced](https://coursebuilder.withgoogle.com/)
-* [sitedorks](https://github.com/Zarcolio/sitedorks), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list) or [DorkSearch](https://www.dorksearch.com/) - Google Search Dorks
+* [sitedorks](https://github.com/Zarcolio/sitedorks), [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list/), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list) or [DorkSearch](https://www.dorksearch.com/) - Google Search Dorks
 * [Yandex Search Operator Cheat Sheets](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/), [3](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
 * [Cyber](https://cyber.page/) - Hash Search Engine 
 * [TruePeopleSearch](https://www.truepeoplesearch.com/) - Person Search
