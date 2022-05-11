@@ -249,12 +249,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 ***
 
-#### REKULOUS' Music Collection
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTh1djk0bGlXYVJZU3UxNlhZNk5qeDBTTHlrbUptY3pKP3VzcD1zaGFyaW5n`
-
-***
-
 #### Damon's Game Soundtracks
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU5KME5BYlNYbm5kVHZ5NEdnUmJkdTdIMnBOWHZrdTZpP3VzcD1zaGFyaW5n`
@@ -1951,3 +1945,9 @@ pass: paluch
 #### pptenshi
 
 `aHR0cHM6Ly9mdHAucHB0ZW5zaGkubGl2ZS9NYW5nYS8=`
+
+***
+
+#### Cold Turkey Premium 
+
+`aHR0cHM6Ly9wYXN0ZWJpbi5jb20vaGltQkVBeHM=`
