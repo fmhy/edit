@@ -335,6 +335,7 @@
 * [The Restart Page](http://www.therestartpage.com/) - Vintage Operating System Reboots
 * [Hair on Screen](https://chrome.google.com/webstore/detail/hair-on-screen/egkikapjpndmjflbjjoondbihalgdjco) - Fake Hair on Screen Prank
 * [Hacktyper](https://hackertyper.net/), [Hoacks](https://hoacks.com/) or [Geektyper](https://geektyper.com/) - Fake Hacking Screen 
+* [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](http://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking
 * [Busy Simulator](https://busysimulator.com/) - Pretend You're Busy
 * [Peter Answers](https://www.peteranswers.com/) - Create Fake Questions & Answers / [Tutorial](https://peteranswers.info/peter-answers-hack) 
 * [Deep Fried Web](https://deepfriedweb.mschfmag.com/) - Deep Fry Web Pages
@@ -582,7 +583,7 @@
 * [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Ars Technica](https://arstechnica.com/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/), [Toms Hardware](https://www.tomshardware.com/) or [Slashdot](https://slashdot.org/) - Tech News
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
 * [Liliputing](https://liliputing.com/) - Linux Mobile News
-* [BestHackerNews](http://besthackernews.herokuapp.com/) - Hacker News Aggregator 
+* [BestHackerNews](http://besthackernews.herokuapp.com/) or [YCombinator](https://news.ycombinator.com/) / [Mobile](https://hackerwebapp.com/) - Hacker News 
 * [Latest Privacy](https://latestprivacy.org/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - Privacy News
 * [Talos Blog](https://blog.talosintelligence.com/) - CyberSecurity News
 * [We Fight Censorship](http://3kyl4i7bfdgwelmf.onion/) or [Netblocks](https://netblocks.org/) - Censorship News
@@ -636,6 +637,7 @@
 * [DotNom](http://www.dotnom.com/) - Recipe Search
 * [SuperCook](https://supercook.com/) - Recipe Search
 * [Yummly](https://www.yummly.com/) - Recipe Search
+* [Recipeeper](https://www.recipeeper.com/) - Dietary Based Recipes 
 * [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - Food Image to Recipe Tool 
 * [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map 
 * [Cooking YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cooking_youtube_channels)
@@ -833,6 +835,7 @@
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - World History Map with Visual Notes 
 * [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US Historical Maps
 * [Live Action Map](https://www.live-action-map.com/) or [LiveUAMap](https://liveuamap.com/) - Ukraine Conflict Areas LiveFeed
+* [Sirens In UA](https://sirens.in.ua/) - Ukraine Air Raid Siren Map
 * [Native-Land.ca](https://native-land.ca/) - Indigenous Territory Map
 * [Midgard Map](https://midgardmap.koboldpress.com/) - Midgard Map
 * [Map Crunch](https://www.mapcrunch.com/) or [RandomStreetView](https://randomstreetview.com/) - Random Street View
@@ -845,8 +848,8 @@
 * [Map It Up](https://map-it-up.netlify.app/) - HQ Printable Maps
 * [Human Terrain](https://pudding.cool/2018/10/city_3d/) - Human Population Map
 * [Flags of the World](https://i.redd.it/lxtu47hf5ll51.jpg) - Worldwide Flag Map
-* [US & CA License Plates](https://i.redd.it/ue2r7cdb2s861.png) - US & CA License Map
-* [European License Plates](https://i.redd.it/wcazzhjir8941.png) - European License Map
+* [License Plates Map](https://i.redd.it/ue2r7cdb2s861.png) - License Plate Map
+* [European License Plate Map](https://i.redd.it/wcazzhjir8941.png) - European License Plate Map
 * [DarkSky](https://maps.darksky.net/), [satellite-map.gosur](https://satellite-map.gosur.com/), [MSN Weather Map](http://www.msn.com/en-us/weather/maps) or [Ventusky](https://www.ventusky.com/) - Weather Maps
 * [Windy](https://www.windy.com/) or [WebGL-Wind](https://mapbox.github.io/webgl-wind/demo/) - Wind Map 
 * [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
