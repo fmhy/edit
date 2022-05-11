@@ -367,12 +367,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 ***
 
-#### Winaero Games
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL3VjP2lkPTFVNzBQSktVQ0hubFNkUjZwbWp6YTVOeUVBak5zTWR4ayZleHBvcnQ9ZG93bmxvYWQ=`
-
-***
-
 #### Setlists
 
 `aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMTNCODIzdWt4ZFZNb2Nvd28xczVYblQzdHpjaU9mcnVoVVZlUEVOS2MwMW8v`
@@ -1951,3 +1945,9 @@ pass: paluch
 #### Cold Turkey Premium 
 
 `aHR0cHM6Ly9wYXN0ZWJpbi5jb20vaGltQkVBeHM=`
+
+***
+
+#### castlevania.cf
+
+`aHR0cHM6Ly9jYXN0bGV2YW5pYS5jZi8wOi9NZS8=`
