@@ -387,6 +387,7 @@
 * [ModMyClassic](https://modmyclassic.com/) - Classic Console Mods
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) - Multiplayer Switch Servers
 * [CTGP Revolution](https://www.chadsoft.co.uk/) or [Wiiki Tockdom](http://wiki.tockdom.com/) - Mario Kart Wii Mod 
+* [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - Mario Kart Wii Rebalanced Mod / [Discord](https://discord.gg/YZxyK4f3EU) 
 * [TTs Online](https://redd.it/ie6gi7) - MKW Online Time Trials Mod
 * [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
 * [Wiimmfi](https://wiimmfi.de/) - Wii / DS Multiplayer Revival
@@ -434,6 +435,7 @@
 * [Payday 2 FPS Boost](https://steamcommunity.com/sharedfiles/filedetails/?id=1933473710) - Payday 2 FPS Boost Mod List
 * [NFSMods](https://nfsmods.xyz/home) or [Project Unite](https://discord.com/invite/3F6vEyp) - Need for Speed Mods
 * [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)
+* [Project ECLISE & Grind Thousand](https://discord.gg/PtfwpAznUB) - Plants vs. Zombies 2 Rebalance Mods / [YouTube](https://www.youtube.com/c/goodpea2)
 * [Thunderstore](https://northstar.thunderstore.io/) - Northstar Mods
 * [Modding-OpenMW](https://modding-openmw.com/) - Morrowind Mods
 * [CT3Tweaks](https://ct3tweaks.stashy.dev/) - Crazy Taxi 3 Tweak Tool / [GitHub](https://github.com/stashymane/ct3tweaks)
