@@ -621,6 +621,7 @@
 * [React95](https://react95.io/) - Windows 95 React Components
 * [React Suite](https://rsuitejs.com/) - React Components and Templates
 * [React Query](https://react-query.tanstack.com/) - Fetch, Cache and Update React Data / [GitHub](https://github.com/tannerlinsley/react-query)
+* [Vision Camera](https://mrousavy.com/react-native-vision-camera/) - React Camera Support / [GitHub](https://github.com/mrousavy/react-native-vision-camera)
 * [useAnimations](https://useanimations.com/index.html) - Animated Icon Pack
 * [Flubber](https://github.com/Appolica/Flubber) - Android Animation Creator
 * [Redex](https://fbredex.com/) - Android Bytecode Optimizer
