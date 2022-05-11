@@ -336,6 +336,7 @@
 * [Vedanta Shastras](https://www.shastras.com/) - Hinduism
 * [Jainism Library of Jain Literature](http://www.atmadharma.com/index.html) - Sacred Texts / Religion / Multi Language
 * [Vedabase](https://vedabase.io/en/) - Bhaktivedanta Swami / Books / Transcripts / Letters 
+* [Sounding Spirit](https://library.soundingspirit.org/) - Religious Songbooks 
 
 ***
 
@@ -528,6 +529,7 @@
 * [/HIS/STORY Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fhis.2Fstory_collection) - Drive 
 * [Historical Audiobooks Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_historical_audiobooks_collection) - Audiobooks / Drive
 * [Media History](https://mediahistoryproject.org/) - Books / Magazines
+* [Duke University Library](https://repository.duke.edu/catalog?utf8=%E2%9C%93&search_scope=https%3A%2F%2Frepository.duke.edu%2Fcatalog&q=&search_field=all_fields) - Historical Books 
 * [corpus scriptorum latinorum](https://www.forumromanum.org/literature/authors_a.html) - Latin Literature
 * [EarlyModernTexts](http://www.earlymoderntexts.com) - Historical Texts
 * [Early English Books](https://quod.lib.umich.edu/e/eebogroup/) - Historical Texts / Books
@@ -547,6 +549,7 @@
 * [The National Archives](https://nationalarchives.gov.uk/) - UK Historical Documents
 * [History Newsboys of 1899](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_history_newsboys_of_1899) - Books / Documents
 * [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive 
+* [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts 
 * [Carti](https://enryo.ro/carti/) - Japanese Martial Arts History Books
 * [Van Gogh Letters](http://vangoghletters.org/vg/) or [VGGallery](http://vggallery.com/) - Vincent van Gogh Letters
 * [DigitalTransgenderArchive](https://www.digitaltransgenderarchive.net/) - Transgender History Archive 
