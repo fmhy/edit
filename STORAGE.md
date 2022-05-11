@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/JnzlSnv.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/5oy9Pkm.png)** - For mobile users
 
 ***
 ***
@@ -884,6 +884,12 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 ####  Icon Download Sites
 
 **[Awesome Icons](https://github.com/notlmn/awesome-icons), [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources), [Icon Repositories](https://github.com/search?q=icon)**, [IconFinder](https://www.iconfinder.com/), [IconSeeker](http://www.iconseeker.com/), [Flaticon](https://www.flaticon.com/), [SVG Repo](https://www.svgrepo.com/), [SimpleIcons](https://simpleicons.org/), [Noun Project](https://thenounproject.com/), [tablericons](https://tablericons.com/), [Gumroad](https://www.google.com/search?q=site%3Agumroad.com+%240+icons), [IconPacks](https://www.iconpacks.net/), [Streamline Icons](https://streamlineicons.com/download/), [game-icons](https://game-icons.net/), [icons8](https://icons8.com/icons), [ikonate](https://ikonate.com/), [iconmonstr](https://iconmonstr.com/), [styled-icons](https://styled-icons.js.org/), [glitter-graphics](http://www.glitter-graphics.com/), [Icon Archive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [HeroIcons](https://heroicons.com/), [fontawesome](https://fontawesome.com/), [css.gg](https://css.gg/), [EvaIcons](https://akveo.github.io/eva-icons/), [publicicons](https://publicicons.lllllllllllllllll.com/), [getbootstrap](https://icons.getbootstrap.com/), [remixicon](https://remixicon.com/), [IconSets](http://www.iconsets.com/), [coolarchive](http://www.coolarchive.com/), [flexiple](https://2.flexiple.com/scale/all-illustrations), [uispace](https://uispace.net/free-icons), [freeicons](http://freeicons.io/), [Quick Feather Icons](https://quick-feather-icons.vercel.app/), [illlustrations](https://illlustrations.co/), [vector.toolxox](https://vector.toolxox.com/), [icon icons](https://icon-icons.com/), [fontawesome icons](https://fontawesome.com/v5.15/icons), [100 Awesome Icon Sets](https://www.designwall.com/blog/100-awesome-free-icons-sets/), [feathericons](https://feathericons.com/), [IconHub](https://iconhub.io/), [icons-for-free](https://icons-for-free.com/), [RealFaviconGenerator](https://realfavicongenerator.net/), [Material Icons](https://material.io/icons/), [TheForgeSmith](https://icons.theforgesmith.com/), [Basic Icons](https://basicons.xyz/), [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [entypo](http://www.entypo.com/), [mapsicon](https://github.com/djaiss/mapsicon), [materialui](https://materialui.co/icons/), [iconoir](https://iconoir.com/), [weloveiconfonts](https://weloveiconfonts.com/), [weather-icons](https://erikflowers.github.io/weather-icons/), [typicons](https://www.s-ings.com/typicons/), [topcoat](https://github.com/topcoat/icons), [toicon](https://www.toicon.com/), [standart](https://standart.io/), [stackicons](http://stackicons.com/), [pathlove](https://pathlove.com/icons/), [useiconic](https://useiconic.com/open), [primer](https://primer.style/octicons/), [kudakurage](http://kudakurage.com/ligature_symbols/), [ionic](https://ionic.io/ionicons), [iconstore](https://iconstore.co/), [icomoon](https://icomoon.io/), [zurb](https://zurb.com/playground/foundation-icon-fonts-3), [fontello](https://fontello.com/), [devicons](https://vorillaz.github.io/devicons), [grommet](https://icons.grommet.io/), [ant.design](https://ant.design/components/icon/), [icons modulz](https://icons.modulz.app/), [tabler icons](https://tabler-icons.io/), [iconshock](https://www.iconshock.com/freeicons/), [eos-icons](https://eos-icons.com/), [1001freedownloads](https://www.1001freedownloads.com/), [iconsvg](https://iconsvg.xyz/), [polaris](https://polaris-icons.shopify.com/), [ionicons](https://ionicons.com/), [SuperTinyIcons](https://github.com/edent/SuperTinyIcons), [systemuicons](https://systemuicons.com/), [healthicons](https://healthicons.org/), [iconsplace](https://iconsplace.com/), [emblemicons](https://emblemicons.in/), [icofont](https://icofont.com/icons), [Phosphor Icons](https://phosphoricons.com/) / [Github](https://github.com/phosphor-icons/phosphor-home), [lineicons](https://lineicons.com/), [Icon Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_icon_drives), [streamlinehq](https://app.streamlinehq.com/icons), [iconify](https://iconify.design/)
+
+***
+
+#### Image Colorization 
+
+[Petalica Paint](https://petalica-paint.pixiv.dev/index_en.html), [Algorithmia](https://demos.algorithmia.com/colorize-photos), [MyHeritage In Color](https://www.myheritage.com/incolor), [9Mail Restoration](https://9may.mail.ru/restoration/?lang=en), [DeOldify](https://github.com/jantic/DeOldify), [playback](https://playback.fm/colorize-photo), [cutout](https://www.cutout.pro/photo-colorizer-black-and-white), [colorize.cc](https://colorize.cc/), [hotpot](https://hotpot.ai/colorize-picture), [Colorizer](https://deepai.org/machine-learning-model/colorizer)
 
 ***
 
@@ -1852,6 +1858,22 @@ Add the following commands to a search to manually scrape each site.
 * [bateristaspt](https://www.bateristaspt.com/membros/drumscores/) 
 * [tchunes](https://www.daev.ca/tchunes/)
 * [Sheets Piano](https://sheets-piano.ru/) 
+* [urresearch](https://urresearch.rochester.edu/viewInstitutionalCollection.action?collectionId=63) 
+* [sscm-wlscm](https://www.sscm-wlscm.org/main-catalogue/full-catalogue-list)
+* [escholarship](https://escholarship.org/uc/uclamusicscores) 
+* [dlib](https://dlib.indiana.edu/variations/scores/) 
+* [sscm-wlscm](https://www.sscm-wlscm.org/main-catalogue/full-catalogue-list) 
+* [urresearch](https://urresearch.rochester.edu/viewInstitutionalCollection.action?collectionId=63) 
+* [diamm](https://www.diamm.ac.uk/) 
+* [themorgan](https://www.themorgan.org/music)  
+* [unc](https://dc.lib.unc.edu/cdm/landingpage/collection/sheetmusic) 
+* [ucla](https://digital.library.ucla.edu/sheetmusic/) 
+* [brown](https://library.brown.edu/cds/sheetmusic/afam/about.html) 
+* [mozarteum](https://dme.mozarteum.at/DME/nma/nmapub_srch.php?l=2) 
+* [sfsma](http://www.sfsma.org/) 
+* [digital.library](https://digital.library.unt.edu/explore/collections/VRBR/browse/) 
+* [chopin](http://chopin.lib.uchicago.edu/) 
+* [indiana](https://dlib.indiana.edu/variations/scores/) 
 * [partdav](http://partdav.free.fr/partitions/)
 * [PianoSheets](https://github.com/mstty/PianoSheets)
 * [rocm](http://www.rocm.org/scores/) 
@@ -2325,6 +2347,7 @@ Add the following commands to a search to manually scrape each site.
 
 * [Remux_2160P](https://t.me/Remux_2160P) - 4K Movies
 * [Rare Films](https://t.me/rarefilms) - Movies 
+* [SearchMoviesBot](https://t.me/SearchMoviesBot) - Movies 
 * [MoviesVerse](https://t.me/MoviesHomeOFFICIALS) - Movies / TV 
 * [SeriesArchiveX](https://t.me/SeriesArchiveX) - Movies / TV
 * [TVSeriesArchive](https://t.me/TvSeriesArchive) - TV
