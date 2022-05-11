@@ -68,7 +68,6 @@
 * [awesome-ttygames](https://ligurio.github.io/awesome-ttygames/) - ASCII Terminal Games 
 * [Win98 / XP Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_win98_.2F_xp_games) - Windows 98 / XP Games
 * [WinXP Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_misc_windows) - Windows XP Games
-* [Win7 Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_winaero_games) - Windows 7 Games
 * [RPG Maker Games](https://rpgmaker.net/games/?name_filter=&amp;engine=&amp;status=&amp;rating=&amp;commercial=exclude&amp;sort=&amp;portal=None) - Games made via RPG Maker
 * [VGPErson](https://vgperson.com/games/) - Japanese Translated Freeware Games
 * [VRPirates](https://t.me/vrpirates) - VR Games & Guides / [Discord](https://discord.gg/D9rs7TM)
