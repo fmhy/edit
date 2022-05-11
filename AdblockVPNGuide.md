@@ -294,7 +294,6 @@
 * [SocialSharePrivacy](https://panzi.github.io/SocialSharePrivacy/) - Turn Off Social Sharing Buttons
 * [Spoof Timezone](https://add0n.com/spoof-timezone.html) - Hide Real Timezone
 * [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) - Browser Firewall
-* [Privacy Badger](https://privacybadger.org/) or [Privacy Possum](https://github.com/cowlicks/privacypossum) - Blocks invisible trackers
 * [UglyEmail](https://uglyemail.com/) or [PixelBlock](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem/) - Block Email Trackers 
 * [FlowCrypt](https://flowcrypt.com/) - Gmail Encryption
 * [Chameleon](https://sereneblue.github.io/chameleon/), [UA Switcher & Manager](https://add0n.com/useragent-switcher.html) or [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) - User-Agent Spoofer
@@ -484,7 +483,7 @@
 
 # ► VPN
 
-* **[VPN Comparison Chart](https://www.vpntierlist.com/)**, [2](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml), [3](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/), [4](https://privacymelon.com/stealth-vpn-guide/vpn-comparison-table/) - Compare VPN Privacy Polices
+* **[VPN Comparison Chart](https://privacymelon.com/stealth-vpn-guide/vpn-comparison-table/)** - Compare VPN Privacy Polices
 * **[How-to Bind VPN to Client](https://redd.it/ssy8vv)** - Bind VPN to Client to Avoid ISP Letters
 * **[Mullvad](https://mullvad.net/)** - [Pricing](https://i.imgur.com/LfjZ9G3.png) / [NetNS](https://github.com/chutz/mullvad-netns)
 * **[Proton](https://protonvpn.com)** - [Pricing](https://i.imgur.com/hkhZGg1.png) / No Torrenting w/ Free Version
