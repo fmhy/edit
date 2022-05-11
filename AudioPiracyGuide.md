@@ -32,7 +32,7 @@
 
 * **[Spotify](https://open.spotify.com/)** or [Spotify One](https://spotfy.one/)  - Browser Music
 * **Spotify Tools** - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Listen Together](http://jqbx.fm/) / [Customize](https://github.com/Darkempire78/Spotify-Customizer)
-* **[YouTube Music](https://music.youtube.com/)** - Browser Music / [Alt Player](https://www.infigroove.com/) / [Lag Fix](https://greasyfork.org/en/scripts/432304-youtube-music-fix-performance) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo)
+* **[YouTube Music](https://music.youtube.com/)**, [InfiGroove](https://www.infigroove.com/) or [Beatbump](https://beatbump.ml/home) / [GitHub](https://github.com/snuffyDev/Beatbump) - Browser Music / [Lag Fix](https://greasyfork.org/en/scripts/432304-youtube-music-fix-performance) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo)
 * **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * **[SoundCloud](https://soundcloud.com/)** - User Made Songs
 * [ccMixter](http://ccmixter.org/) or [dig ccMixter](http://dig.ccmixter.org/dig) - Browser Music
@@ -81,6 +81,8 @@
 * [BitMidi](https://bitmidi.com/) - Stream / Download MIDI Files 
 * [RemixPacks](https://remixpacks.club/) - STEMS
 * [KeyGenMusic](http://www.keygenmusic.net/) or [keygenmusic.tk](https://keygenmusic.tk/) - Keygen Music 
+* [Tasso Music](https://www.tassomusic.org/) - Early Modern Music
+* [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medeival Music 
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games 
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - East African Recordings 
 * [Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music) - Free Music for Projects
@@ -258,7 +260,6 @@
 * **[Free MP3 Download](https://free-mp3-download.net/)** - Search / MP3 / FLAC
 * **[/r/RIPREQUESTS](https://discord.com/invite/SH7DUfVz46)** - FLAC
 * **[Mudome](https://mudome.org/)** - MP3 / FLAC
-* **[REKULOUS' Music Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rekulous.27_music_collection)** - MP3 / FLAC / AAC / DSD / SACD / Etc.
 * **[Damon's Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_damon.27s_game_soundtracks)**, [Squid-Board](https://www.squid-board.ru/) / [2](https://www.squid-board.org/), [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://github.com/TheLastZombie/VGMLoader) / [2](https://github.com/obskyr/khinsider), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - Video Game Soundtracks
 * [The Last Disaster](https://thelastdisaster.vip/), [2](https://thelastdisaster.org/) - MP3 / FLAC
 * [SongsLover](https://songslover.vip/) - MP3
