@@ -22,7 +22,7 @@
 * [Daedalus](https://play.google.com/store/apps/details?id=org.itxtech.daedalus), [Smokescreen](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen) or [Nebulo](https://git.frostnerd.com/PublicAndroidApps/smokescreen/-/blob/master/README.md) - DNS Modifier
 * [Twidere](https://github.com/TwidereProject/Twidere-Android) or [Twidere-X](https://github.com/TwidereProject/TwidereX-Android) - Ad-Free Twitter App
 * [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - Adblock Filters 
-* [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - Block Spam Calls
+* [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - Block Spam Calls
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls 
 * [Should I Call Back?](https://should-i-call-back.binary-person.dev/) or [Scammer.Info](https://scammer.info/) / [Discord](https://discord.com/invite/nUThJjK) - Scam Numbers Database
 * [Slide](https://github.com/ccrama/Slide), [2](https://f-droid.org/en/packages/me.ccrama.redditslide/), [Redditoria](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria), [RedReader](https://github.com/QuantumBadger/RedReader) or [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - Ad Free Reddit Client
@@ -103,6 +103,7 @@
 * [Catch the Man-in-the-Middle](https://play.google.com/store/apps/details?id=me.brax.certchecker) - Check if HTTPS Traffic is being Monitored 
 * [JustUseApp](https://justuseapp.com/) - Hide App Payments
 * [Gadget Bridge](https://gadgetbridge.org/) - Connect to Smartwatches without Vendor Apps / Accounts
+* [PrivacyBlur](https://privacyblur.app/) - Blur Sensitive Parts of Photos / [GitHub](https://github.com/MATHEMA-GmbH/privacyblur)
 * [Scrambled Exif](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif) - Remove Image Metadata
 
 ***
@@ -241,7 +242,7 @@
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - Reddit Video Downloader
 * [Boost](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_boost), [Joey](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_joey), [Dawn](https://github.com/Tunous/Dawn), [BaconReader](https://baconreader.com/) or [Relay](https://relayforreddit.com/index.html) - Reddit Client
 * [reveddit](https://play.google.com/store/apps/details?id=com.agreenbhm.reveddit) - View Deleted Reddit Posts
-* [Lemmur](https://github.com/krawieck/lemmur) - Lemmy Client
+* [Lemmur](https://github.com/krawieck/lemmur) or [Jerboa](https://github.com/dessalines/jerboa) - Lemmy Client
 * [Uploadgram App](https://github.com/pato05/uploadgram-app) - Uploadgram Frontend
 * [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - Modded Instagram Client / [Telegram](https://t.me/instander)
 * [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) - Feature-rich Facebook Client
@@ -257,7 +258,7 @@
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera), [DMGC](https://thedise.me/dmgc/) or [Camator](https://gcamator.com/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/)
 * [Vision Camera](https://mrousavy.com/react-native-vision-camera/) - FOSS Camera App / [GitHub](https://github.com/mrousavy/react-native-vision-camera)
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)
-* [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play) - Camera App with QR / Barcode Scanning
+* [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play) or [Code Scanner](https://github.com/czlucius/code-scanner) - QR / Barcode Scanner
 * [Colorize It](https://play.google.com/store/apps/details?id=com.reaimagine.colorizeit) - Colorize Images
 * [WOMBO Dream](https://www.wombo.art/) - Dream Artwork Tool
 * [Photo Lab](https://ilixa.com/8bitphotolab.php) - Give Images a Retro Look 8Bit
@@ -903,6 +904,7 @@
 * [Wickr](https://apps.apple.com/us/app/wickr-pro/id1200926568), [Jami](https://jami.net/), [MySudo](https://mysudo.com/) or [Element](https://apps.apple.com/app/vector/id1083446067) - Encrypted Messaging / Video Calls
 * [Bluer](https://apps.apple.com/us/app/bluer-for-facebook-messenger/id1490523710) - Privacy-Based Facebook Client
 * [ProtonMail](https://apps.apple.com/us/app/protonmail-encrypted-email/id979659905) - Encrypted Emailing Service
+* [PrivacyBlur](https://privacyblur.app/) - Blur Sensitive Parts of Photos / [GitHub](https://github.com/MATHEMA-GmbH/privacyblur)
 
 ***
 
