@@ -1177,6 +1177,7 @@
 * [CentralNovel](https://centralnovel.com/) - Light Novels
 * [EmpireNovels](https://empirenovels.com.br/) - Light Novels
 * [MyLightNovel](http://www.mylightnovel.com.br/) - Light Novels
+* [1412.rest](https://www.1412.rest/) - Web Novels 
 * [Revista Programar](https://www.revista-programar.info/) - Programming Magazine
 * [DND5ED](http://dnd5ed.github.io/) - Dungeons & Dragons Guides
 * [Escritas](https://www.escritas.org/) - Poetry & Quotes
