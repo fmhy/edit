@@ -24,7 +24,7 @@
 * [Deezer](https://www.deezer.com/) - Streaming
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram 
 * [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Unlock Unavailable Netease Music
-* [stemplayerplayer](https://github.com/nn9dev/stemplayerplayer) or [stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator) - Kanye West STEM Player Emulators
+* [stemplayerplayer](https://github.com/nn9dev/stemplayerplayer), [StemPlayer](https://stemplayer.io/) or [stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator) - Kanye West STEM Player Emulators
 
 ***
 
@@ -225,7 +225,7 @@
 * **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Download from Spotify
 * **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)
-* **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - Telegram audio download channels
+* **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - Telegram Audio Download Channels
 * [/r/xTrill](https://reddit.com/r/xTrill) - MP3 / FLAC / [Discord Bot](https://discord.gg/xtrill) / [Backup](https://reddit.com/r/xTrillBackup)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer, TIDAL, Qobuz, YouTube, and SoundCloud Downloader / [Colab](https://github.com/taskylizard/rip)
 * [DeezerToDrive](https://t.me/deezertodrivebot) - Deezer, Qobuz, TIDAL, Napster & Spotify to GDrive Bot
@@ -385,7 +385,7 @@
 * [AniPlaylist](https://aniplaylist.com/), [OSAnime](https://osanime.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - Anime Soundtracks 
 * [OtakuOst](https://otakuost.net/) - Anime Soundtracks & Japanese Music 
 * [DramaOST](https://dramaost.com/) or [KDramaOST](https://kdramaost.com/en) - Asian Drama Soundtracks
-* [Doujin Cafe](https://discord.com/invite/doujincafe) - Doujin Music
+* [Doujin Cafe](https://discord.com/invite/doujincafe) or [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Music
 * [Keygen Music](http://www.keygenmusic.org/) - Keygen Music Archive
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- MIDI Files 
 * [QueenMusicHall](http://www.queenmusichall.cz/) - Queen MIDIs, Audio, Photos
