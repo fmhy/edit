@@ -175,6 +175,7 @@
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - Android Cleanup Tool
 * [L3MON](https://github.com/D3VL/L3MON) - Remote Android Manager
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
+* [Pluma](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader&hl=en) - RSS Reader 
 * [Water Resistance Tester](https://play.google.com/store/apps/details?id=com.ray.waterresistancetester) - Test Phones Water Resistance
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Make Your Phone Less Distracting
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - Ringtones Directory
@@ -218,6 +219,7 @@
 * [Aves](https://github.com/deckerst/aves) - Metadata Explorer
 * [GameGuardian](https://gameguardian.net/) - Game Hack / Alteration Tool
 * [NeonRom3r](https://github.com/Gr3gorywolf/NeonRom3r) - Download Roms 
+* [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App 
 * [OpenMicroWave](https://omw.xyz.is/) - Morrowind for Android
 * [VMOS](https://www.vmos.com/) - Android Virtual Machine
 * [Media Bar](https://play.google.com/store/apps/details?id=apps.ijp.mediabar) - Status Bar Media Controller
@@ -256,6 +258,7 @@
 * [Widgetshare](https://play.google.com/store/apps/details?id=com.galew.widgetshare) - Photo Sharing App 
 * [PhotoRoom](https://www.photoroom.com/) - Background Remover
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera), [DMGC](https://thedise.me/dmgc/) or [Camator](https://gcamator.com/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/)
+* [ANXCamera](https://camera.aeonax.com/) - Miui Camera Port 
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)
 * [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play) or [Code Scanner](https://github.com/czlucius/code-scanner) - QR / Barcode Scanner
 * [Colorize It](https://play.google.com/store/apps/details?id=com.reaimagine.colorizeit) - Colorize Images
