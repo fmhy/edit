@@ -244,6 +244,7 @@
 * [OnlySeries](https://onlyseries.net/) - TV
 * [Watch-TvSeries](https://www1.watch-tvseries.net/) - TV
 * [MyWatchSeries](https://www5.mywatchseries.stream/) - TV / Anime 
+* [WatchTVSeries](https://www2.watchtvseries.video/) - TV 
 * [turkish123](https://turkish123.com/) - Turkish TV Shows / Subtitles 
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - Bay Area TV Archive  
 * [MyRM](https://myrunningman.com/) - My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)
@@ -409,6 +410,7 @@
 * [WatchWrestling24](http://watchwrestling24.net/) - MMA / Wrestling
 * [WatchWrestling.in](https://watchwrestling.in/) - MMA / Wrestling
 * [WatchWrestling.la](https://watchwrestling.la/) - MMA / Wrestling 
+* [WatchProWrestling](http://watchprowrestling.live/) - MMA / Wrestling 
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing
 * [SportsReplay](https://discord.com/invite/2r4pj67gCv) - [F1](https://f1full.com/) / [MMA](https://mmafull.com/) / [NFL](https://nflfull.com/)
 * [Bellator](https://www.bellator.com/video) - MMA
@@ -592,27 +594,28 @@
 * [KatMovieHD](https://katmoviehd.nz/category/hollywood-eng/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [MKVBee](https://mkvbee.com/) - Movies / TV
 * [MKVHOUSE](https://mkvhouse.com/) - Movies / TV
-* [Minirlss](https://minirlss.com/) - Movies / TV / Anime 
+* [Minirlss](https://minirlss.com/) - Movies / TV / Anime
 * [NYMeriaTV](https://nymeriatv.com/) - Movies / TV
 * [FZMovies](https://fzmovies.net/) - Movies
+* [FilmDuty](http://filmduty.com/) - Movies / TV / Anime
 * [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://imgur.com/a/EtLokxO)
 * [HugeWarez](http://hugewarez.net/movies/) - Movies / TV
-* [ExtraMovies](https://extramovies.click/) - Movies / TV  
+* [ExtraMovies](https://extramovies.click/) - Movies / TV
 * [KimoiTV](https://www.kimoitv.com/) - Movies / TV / Anime
 * [Movies Counter](https://moviescounter.se/category/english-movies/) - Movies / TV
 * [MeloMovie](https://melomovie.com/) - Movies / TV
-* [Best-Movies](http://best-movies.info/) - Movies / TV   
+* [Best-Movies](http://best-movies.info/) - Movies / TV
 * [Happy2Hub](https://happy2hub.net/) - Movies / TV   
 * [FilmsZilla](https://filmszilla.com/) - Movies / TV
 * [Movies Downloader](https://movie.unlimitdownloads.com/) - Movies / TV
 * [MoviesMore](https://moviesmore.info/) - Movies / TV
 * [StreamCraze](https://streamcraze.com/) - Movies / TV
 * [MovieExplit](https://moviexplit.pw/) - Movies / TV / Anime / [Telegram](https://t.me/moviexplit)
-* [MovieFire](https://moviefire.net/) - Movies 
-* [SomosMovies](https://somosmovies.com/) - Movies 
+* [MovieFire](https://moviefire.net/) - Movies
+* [SomosMovies](https://somosmovies.com/) - Movies
 * [TVSeriesNMovies](https://www.tvseriesnmovies.com/) - Movies / TV
-* [SeriesVault](https://seriesvault.win/) - TV / Anime 
-* [o2tvseries](https://o2tvseries.com/) - TV  
+* [SeriesVault](https://seriesvault.win/) - TV / Anime
+* [o2tvseries](https://o2tvseries.com/) - TV
 * [TV Shows](https://tvshows.show/) - TV
 * [MoviesVerse](https://moviesverse.me/) - Movies / TV / [Telegram](https://t.me/MoviesHomeOFFICIALS)
 * [FreeDriveMovie](https://www.freedrivemovie.com/) - Movies / TV
@@ -620,13 +623,13 @@
 * [TheMoviesFlix](https://themoviesflix.com.ph/category/english-movies/) - Movies / TV
 * [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)
 * [Movies Mobile](https://mobilemovies.info/index.php?dir=Hollywood%20Movies) - Movies
-* [SeriesVault](https://seriesvault.tk/) - TV 
+* [SeriesVault](https://seriesvault.tk/) - TV
 * [TVShows.today](https://tvshows.today/) - TV
 * [FilmyZilla](https://filmyzilla.directory/category/202/Hollywood-english-movies/default/1.html) - Movies
 * [10StarHD](https://10starhd.run/category/hollywood-movies/) - Movies
 * [HDHub4U](https://hdhub4u.bar/category/hollywood-movies/) - Movies / TV
 * [MoviezAddiction](https://moviezaddiction.work/) - Movies / TV / [Telegram](https://t.me/moviezaddiction3)
-* [WorldFree4u](https://worldfree4u.download/) - Movies 
+* [WorldFree4u](https://worldfree4u.download/) - Movies
 * [MP4Moviez](https://mp4moviez.pw/5/hollywood-english-movies.html) - Movies / TV
 * [Downloadhub](https://downloadhub.plus/category/hollywood-movies/) - Movies / [Telegram](https://t.me/downloadhubcool1)
 * [SSR Movies](https://www.ssrmovies.city/category/hollywood-movies-hd) - Movies / TV / [Telegram](https://t.me/SSRmovies2022) / [2](https://telegram3.xyz/)
@@ -788,13 +791,14 @@
 * [WatchIt](http://watchitapp.site/) - Torrent Streaming App / [GitHub](https://github.com/ZorrillosDev/watchit-desktop)
 * [Powder](https://powder.media/) - Torrent Streaming App
 * [Filminator](http://filminator.net/) - Torrent Streaming App
+* [Ace Stream](https://acestream.org/) - Torrent Streaming App 
 * [NotFlix](https://github.com/Bugswriter/notflix) - Torrent Streaming Script
 * [Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) - Stream Torrents via Clients
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
 * [Radarr](https://radarr.video/) - Movie Torrent Autodownload / [GitHub](https://github.com/Radarr/Radarr)
 * [Sonarr](https://sonarr.tv/) / [GitHub](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - TV Torrent Autodownload / [Guide](https://wiki.servarr.com/)
 * [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - Movie / TV autodownload / [Discord](https://discord.gg/PFwM4zk)
-* [SickChill](https://sickchill.github.io/) / [GitHub](https://github.com/SickChill/SickChill) or [CouchPotato](https://couchpota.to/) - Automatic torrent/nzb searching, downloading & processing / Manager
+* [SickChill](https://sickchill.github.io/) / [GitHub](https://github.com/SickChill/SickChill) or [CouchPotato](https://couchpota.to/) - Automatic Torrent / NZB Searching, Downloading & Processing
 * [Autodownload Tools](https://redd.it/hbwnb2) - All Autodownload Tools
 * [NZBHydra](https://github.com/theotherp/nzbhydra) - Meta search for NZB indexers
 * [pirateflix](https://github.com/orinocoz/pirateflix), [wt](https://github.com/DegenCoden/wt), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) / [MPV](https://github.com/noctuid/mpv-peerflix-hook) or [Clifix](https://github.com/fabiospampinato/cliflix)  - Torrent Streaming CLI 
@@ -1071,6 +1075,7 @@
 * **[/r/animepiracy Wiki](https://wiki.piracy.moe/)** - Anime Piracy Guides / Tutorials
 * [/r/SceneReleases](https://www.reddit.com/r/SceneReleases/) - Untouched Scene Release Tracker
 * [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - Web Video Viewer / Manager
+* [CastNow](https://github.com/xat/castnow) - Chromecast Command Line Player
 * [RunPee](https://runpee.com/) - Best Movie Break Times
 * [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - Watch, download and Organize public video URLs
 * [GoGetSpoiled](https://gogetspoiled.com/), [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - Movie Spoilers 
