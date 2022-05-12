@@ -386,6 +386,7 @@
 * [MuWire](https://muwire.com/index-nojs.html) - File Sharing App 
 * [eMule](https://www.emule-project.net/) - File Sharing App
 * [Shareaza P2P](http://shareaza.sourceforge.net/) - File Sharing App
+* [AirDC++](https://www.airdcpp.net/) - File Sharing App / [GUI](https://www.flylinkdc.com/), [2](https://github.com/eiskaltdcpp/eiskaltdcpp)
 * [WireShare](https://sourceforge.net/projects/wireshare/) - File Sharing App / LimeWire Fork 
 * [Telegram Download Channels](https://piracy.now.sh/telegram/) - Download files from telegram
 * [TGMoviesBot](https://t.me/TGMoviesBot) - Telegram File Search Bot 
