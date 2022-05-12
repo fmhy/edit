@@ -28,6 +28,7 @@
 * [NTCore's 4GB Patch](https://ntcore.com/?page_id=371) - x86 Executable Memory Patcher
 * [ISLC](https://www.wagnardsoft.com/ISLCw) - Remove Windows 10 RAM Stutters / [Tutorial](https://www.reddit.com/r/GlobalOffensive/comments/fca7lw/if_you_have_stutter_ingame_you_can_try_this_tool/fj9yx3h/)
 * [Sunshine](https://github.com/loki-47-6F-64/sunshine) - GPU Streaming Client
+* [Cloud Morph](https://github.com/giongto35/cloud-morph) - Self-Hosted Cloud Gaming 
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
 * [WindowedBorderlessGaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming), [Borderless-Gaming-Tool](https://github.com/r57zone/Borderless-Gaming-Tool) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window
@@ -75,8 +76,8 @@
 * [Random Dice](http://www.dicesimulator.com/) - Dice Simulator
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
 * [Score7](https://score7.io/) - Tournament Creator / Manager
-* [5ETools](https://5e.tools/) or [DragonsFoot](https://www.dragonsfoot.org/ 
-) - Dungeons & Dragons Tools
+* [KeepTheScore](https://keepthescore.co/) - Leaderboard Creator
+* [5ETools](https://5e.tools/) or [DragonsFoot](https://www.dragonsfoot.org/) - Dungeons & Dragons Tools
 * [Roll20](https://roll20.net/), [Rolisteam](https://rolisteam.org/) or [Astral](https://www.astraltabletop.com/) - Tabletop RPG Streaming
 * [Tabletopy](https://tabletopy.com/) - Tabletop RPG Soundboard
 * [Map Generator](https://emptybuttons.itch.io/map-generator) - Tabletop Roleplaying Map Generator
@@ -94,6 +95,7 @@
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
 * [Lowkey](https://lowkey.gg/) - Record / Screenshot Gameplay 
 * [Moments](https://steelseries.com/gg/moments) - Game Clip Tool
+* [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
 * [FalseKeystrokes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_falsekeystrokes) or [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)
 * [Pokemon Typechart](https://pokemondb.net/type) - Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)
 * [PokeList](https://pokemonlist.netlify.app/) or [Mon](https://github.com/dbednar230/mon) - Pokedexes
@@ -274,16 +276,20 @@
 
 * **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** 
 * **[MCModdingGuide](https://rentry.org/MCModdingGuide)** - Minecraft Modding Guide 
-* [Awesome Minecraft](https://github.com/bs-community/awesome-minecraft) - Minecraft Resource Index  
+* [Awesome Minecraft](https://github.com/bs-community/awesome-minecraft) - Minecraft Resource Index
+* [Minecraft Tools](https://minecraft.tools/en/) - Minecraft Tools 
 * [Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods) - Minecraft Mod Collections 
 * [Minecraft Optimization Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_optimization_mods) - Improve Minecrafts Performance
 * [Charm](https://svenhjol.github.io/Charm/), [Vanillatweaks](https://www.vanillatweaks.net/) or [Quark](https://quarkmod.net/) - Mincraft Quality of Life Mod
 * [Minecraft QOL Mods](https://rentry.co/mc-qol) or [sk1er.club](https://sk1er.club/) - Minecraft Quality of Life Mod List
 * [MCPEDL](https://mcpedl.com/) - Minecraft PE/Bedrock Mods, Maps & Resources
+* [Minecraft Command Science](https://minecraftcommand.science/) - Minecraft Command Generator
+* [DigiMinecraft](https://www.digminecraft.com/) - Minecraft Guides
 * [Couleur Tweak Tips](http://discord.gg/CTT) - Minecraft Tweaks & Tips
 * [OptiFine Alternatives](https://lambdaurora.dev/optifine_alternatives/) - Minecraft OptiFine Alternatives for Fabric
 * [modsman](https://github.com/sargunv/modsman) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Manager
 * [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - Minecraft Utility Mod
+* [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators 
 * [Distant Horizons](https://gitlab.com/jeseibel/minecraft-lod-mod) - Increased Minecraft Render Distance
 * [SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons) - Addons for Skyblock
 * [SkyCrypt](https://sky.shiiyu.moe/) - SkyBlock Stats
@@ -310,8 +316,9 @@
 * [ChunkBase](https://www.chunkbase.com/apps/) - Minecraft Map Tools
 * [Amidst](https://github.com/toolbox4minecraft/amidst) - Minecraft World Overview Display Tool
 * [The Minecraft Archive Project](http://map.crummy.com/) - Minecraft World Archive
-* [Amulet](https://www.amuletmc.com/) - Minecraft Map Editor / Viewer
-* [MineAtlas](http://mineatlas.com/) - Minecraft Seed Map
+* [Amulet](https://www.amuletmc.com/) or [uNmINeD](https://unmined.net/) - Minecraft Map Editor / Viewer
+* [MinecraftSeeds](https://minecraftseeds.io/) - Minecraft Seeds
+* [MineAtlas](http://mineatlas.com/) or [MCSeeder](https://mcseeder.com/) - Minecraft Seed Maps
 * [SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX) - Minecraft Seed Cracker
 * [Terra](https://github.com/PolyhedralDev/Terra) - Minecraft World Generator
 * [TerraForged](https://www.curseforge.com/minecraft/mc-mods/terraforged) - Improved Biomes Mod
@@ -411,6 +418,7 @@
 * [MegaGames](https://megagames.com/) - Fixes / Trainers / News
 * [ChronoCrash](http://www.chronocrash.com/forum/) - Game Modding Forum
 * [Playground](https://www.playground.ru/) - Mods, Artbooks, Soundtracks, Cheats & more
+* [SweetFX](https://sfx.thelazy.net/) or [ENBSeries](http://enbdev.com/) - Game Graphic Mods 
 * [CheatEngine](https://cheatengine.org/) - Single Play Cheat Engine
 * [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - Cheat Engine Table for Single Player Games
 * [Otis_Inf Camera Mods](https://redd.it/hvttbd) - Game Camera Mods
