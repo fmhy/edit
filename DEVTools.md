@@ -120,7 +120,7 @@
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - Airbnb JavaScript Guide
 * [Simple Regex](https://simple-regex.com/) - Regex Tutorial
 * [ReGeX](https://github.com/phikal/ReGeX) - ReGeX Learning Game / Android
-* [ReFrF](https://refrf.dev/) or [Regex.info](http://regex.info/) - Learn Regex
+* [ReFrF](https://refrf.dev/), [Regex.info](http://regex.info/), [RegExr](https://regexr.com/) or [RegexLearn](https://regexlearn.com/) - Learn Regex
 * [Data Science Ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Learn DataScience
 * [FlexBoxFroggy](https://flexboxfroggy.com/) - CSS Learning Game
 * [CSS Diner](https://flukeout.github.io/) - Interactive CSS Learning
@@ -182,6 +182,7 @@
 * [free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - AI Learning Resources
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - Machine Learning Coding Lessons 
 * [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
+* [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book 
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
 
 ***
@@ -456,6 +457,7 @@
 * [Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare) - Cloudflare Resource Index
 * [Bypass Cloudflare](https://github.com/jychp/cloudflare-bypass) - Bypass Coudflare Bot Protection
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
+* [VPN Un-Blocking](https://medium.com/@innovativehazard/vpn-un-blocking-e0374b9c4d35 ) - Unblock Cloudflare Warp VPN Services 
 * [LightTPD](http://www.lighttpd.net/) or [Caddy](https://caddyserver.com/) - Web Server
 * [Bash-web-server](https://github.com/dzove855/Bash-web-server) - Bash Web Server 
 * [HTTP Server](https://httpd.apache.org/) - HTTP Server Apache
@@ -610,6 +612,7 @@
 * [GoNative](https://gonative.io/) - Convert Websites to Mobile Apps
 * [Shizuku](https://shizuku.rikka.app/) - Connect Apps to APIs
 * [CollectionConcurrencyKit ](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async & Concurrent Versions of Swift APIs
+* [TextNow API](https://github.com/leogomezz4t/PyTextNow_API) - Python Texting API 
 * [Shizuku](https://github.com/RikkaApps/Shizuku) - Use System APIs Directly with ABD / Root 
 * [NukeUI](https://github.com/kean/NukeUI) - Lazy Image Loading for Apple Platforms
 * [MobileApp-Pentest-Cheatsheet](https://github.com/fuzz-security/MobileApp-Pentest-Cheatsheet) - Mobile App Penetration Test Index
@@ -619,6 +622,7 @@
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally vulnerable Android application
 * [PM2](https://pm2.keymetrics.io/) - Process Manager
 * [React95](https://react95.io/) - Windows 95 React Components
+* [React Use](https://github.com/streamich/react-use) - React Hooks 
 * [React Suite](https://rsuitejs.com/) - React Components and Templates
 * [React Query](https://react-query.tanstack.com/) - Fetch, Cache and Update React Data / [GitHub](https://github.com/tannerlinsley/react-query)
 * [Vision Camera](https://mrousavy.com/react-native-vision-camera/) - React Camera Support / [GitHub](https://github.com/mrousavy/react-native-vision-camera)
@@ -626,6 +630,7 @@
 * [Flubber](https://github.com/Appolica/Flubber) - Android Animation Creator
 * [Redex](https://fbredex.com/) - Android Bytecode Optimizer
 * [Capturable](https://github.com/PatilShreyas/Capturable) - Transform Composable Content to Bitmap Images 
+* [Firetable](https://github.com/Antler-VC/firetable) - View Firebase / Firestore in Excel 
 * [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Hishoot2i](https://github.com/hishoot2i/Hishoot2i) / [Templates](https://t.me/hishoot2imaterial), [RiseShot](https://www.riseshot.com/) or [LS Graphics](https://www.ls.graphics/) - App & Site Mockups
 * [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
 * [UIGarage](https://uigarage.net/), [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui), [UXArchive](https://uxarchive.com/), [Mobbin](https://mobbin.design/), [UISources](https://www.uisources.com/) or [LovelyUI](https://lovelyui.com/) - Mobile UI Designs
@@ -853,7 +858,7 @@
 * **[Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_code_editors)** - Code Editing Apps & Sites
 * **[List.community](https://list.community/)** - Programming / Development GitHub Lists 
 * [WebdevHome](https://webdevhome.github.io/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming Tool Indexes
-* [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit ) - Programming Site Index 
+* [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Programming Site Index 
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Web Scraping Tool Index
 * [Awesome-Discord-Communities](https://github.com/mhxion/awesome-discord-communities) - Programming / Developer / Discord Communities 
 * [TechBliss](https://www.techbliss.org/) - Coding Forum
@@ -863,7 +868,7 @@
 * [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality/wiki) - Software Quality Testing Tools
 * [Node-RED](https://nodered.org/) - Low-code programming for event-driven applications 
 * [Package Control](https://packagecontrol.io/) - Code Editor Package Manager
-* [RegExr](https://regexr.com/) or [RegexLearn](https://regexlearn.com/) - Learn Regex
+* [Commands.dev](https://www.commands.dev/) - Terminal Commands
 * [Regex101](https://regex101.com/) - Regex Editor / Debugger 
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding Resource Index 
 * [Algorithm Visualizer](https://algorithm-visualizer.org/), [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/sorting-visualizer/dist/) / [GitHub](https://github.com/sadanandpai/sorting-visualizer) or [mermaid](https://mermaid-js.github.io/mermaid/) - Visualize Code Algorithms 
@@ -895,7 +900,8 @@
 * [Goyo.vim](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim
 * [nvim](https://github.com/neoclide/coc.nvim) - Neovim LSP Autocompletion coc.
 * [Markdown Preview](https://github.com/iamcco/markdown-preview.nvim) - NeoVim Markdown Preview
-* [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - Vim Code-completion engine
+* [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - Vim Code-Completion Engine
+* [VimColorSchemes](https://vimcolorschemes.com/) - Vim Color Schemes 
 * [OpenChakra](https://openchakra.app/) - Visual Editor & Code Generator for React / [GitHub](https://github.com/premieroctet/openchakra)
 * [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - Visual Studio Code Extensions 
 * [awesome-kotlin](https://kotlin.link/) - Kotlin Resource Index / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
@@ -989,6 +995,7 @@
 * [PHP Decoder](http://ddecode.com/phpdecoder/) or [UnPHP](https://www.unphp.net/) - PHP Decoder
 * [PHP Beautifier](http://phpbeautifier.com/) - PHP Formatter
 * [Valinor](https://github.com/CuyZ/Valinor) - PHP Object Mapper
+* [Spatie](https://github.com/spatie/fork) - Run PHP Concurrently 
 * [Winddown](https://github.com/schneefux/vscode-winddown) or [Sandman](https://alexanderepstein.github.io/Sandman/) - Coding Break Reminders
 * [ThemesElection](https://themeselection.com/) - Programming UI Themes
 * [Dev Fonts](https://devfonts.gafi.dev/) - Coding Fonts
