@@ -63,8 +63,10 @@
 * [tuxi](https://github.com/Bugswriter/tuxi) - Question & Answer CLI
 * [Valuta EX](https://valuta.exchange/) - Currency Converter
 * [CamelCamelCamel](https://camelcamelcamel.com/) - Amazon Price Tracker
+* [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker 
 * [WorldTaxiMeter](https://www.worldtaximeter.com/) - Taxi Fare Calculator
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Calculator
+* [Carbon Independent](https://www.carbonindependent.org/) - Carbon Footprint Calculator 
 * [DiaperGrid](https://diapergrid.com/) - Compare Diaper Prices
 * [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
 * [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
@@ -221,6 +223,7 @@
 * [I or l?](https://iorl.info/) - Is it an uppercase "i", or is it a lowercase "L"?
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursive Search Tool
 * [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/), [Unilist](https://unilist.raphaelbastide.com/) or [Cool Symbol](https://coolsymbol.com/) - Copy & Paste Unicode Characters
+* [Copy-Paste-Space](https://copy-paste-space.com/) - Copy / Paste Blank Spaces 
 * [Donger List](http://dongerlist.com/) - 600+ Unicode Emoticons 
 * [Japanese emoji copy and paste](https://japaneseemojicopyandpaste.com/) - Lenny Face / Japanese Emoticons
 * [taag](http://patorjk.com/software/taag/) - ASCII Text Generator
@@ -344,7 +347,7 @@
 * [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)
 * [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
 * [LibreSprite](https://libresprite.github.io/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
-* [BestSnip](https://bestsnip.com/animation/), [Rive](https://rive.app/) or [Mulator](https://multator.ru/) - Online Animation Tool
+* [BestSnip](https://bestsnip.com/animation/), [Plask](https://plask.ai/), [Rive](https://rive.app/) or [Mulator](https://multator.ru/) - Online Animation Tool
 * [Mixamo](https://www.mixamo.com/) - 3D Character Animation Tool
 * [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - 3D Human Model Creator
 * [Vinci](https://vinci.surreal-ai.com/home/free-talking-avatar) - Create Talking AI
@@ -396,6 +399,7 @@
 * [4K Media](https://4kmedia.org/) - Free 4K Video Demos
 * [L3-WEB-DL-Script](https://github.com/parnexcodes/widevine-L3-WEB-DL-Script) or [uwuwvdl](https://github.com/Ori5000/uwuwvdl) - Widevine L3 DL Script
 * [Video Decrypter](https://github.com/CrackerCat/video_decrypter) - Widevine DRM Decrypter
+* [GetWVKeys](http://getwvkeys.cc/) - Send Widevine Requests 
 * [Custom NVIDIA Shield TV](https://www.reddit.com/r/ShieldAndroidTV/comments/o6o5dz/new_guide_use_a_custom_launcher_shield_tv_with/) - Custom NVIDIA Shield TV Launcher
 
 ***
@@ -589,6 +593,7 @@
 * **[Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)** - Create Resumes for Free
 * [LoopCV](https://www.loopcv.pro/) - Automated Job Search Tool
 * [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) - Successful Resume Samples
+* [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator 
 * [CoFolios](https://cofolios.com/) - Portfolio Sharing
 * [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - Cover Page Templates
 * [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) or [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) or [30-seconds-of-interviews](https://30secondsofinterviews.org/) / [GitHub](https://github.com/30-seconds/30-seconds-of-interviews) - Common Interview Questions & Answers
@@ -601,6 +606,7 @@
 * [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform Based Side Work 
 * [web3.career](https://web3.career/) - Web3 Job Offers
 * [moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - Company / Startup Applications
+* [Nerdy Grads](https://nerdygrads.com/) - Grad School Research Job Search 
 * [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - Online Working Subreddit
 * [/r/freelance](https://www.reddit.com/r/freelance/) - Freelance Subreddit
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Design Job Subreddit
@@ -620,6 +626,7 @@
 * [BetaList](https://betalist.com/) - Get Startup Ideas
 * [Failory](https://www.failory.com/graveyard) - Learn Why Startups & Products Failed
 * [AngelLIst](https://angel.co/) - Startup Community
+* [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) - Startup Submission Sites  
 * [namelix](https://namelix.com/) - Business Name Generator
 * [learn-to-cloud](https://learntocloud.guide/) - Cloud Computing Fundamentals / [GitHub](https://github.com/learntocloud/learn-to-cloud)
 * [Cyberseek](https://www.cyberseek.org/index.html) - Cybersecurity Job Market Info
@@ -1204,7 +1211,7 @@
 * [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) - MPV Rich Presence 
 * [MPC-DiscordRPC](https://github.com/angeloanan/MPC-DiscordRPC) - MPC Rich Presence
 * [qbittorrent-rp](https://github.com/LockBlock-dev/qbittorrent-rp) - qBittorrent Rich Presence
-* [Discord RPC Client](https://github.com/Metalloriff/discord-rpc-client) - Create Discord RPCs
+* [Discord RPC Client](https://github.com/Metalloriff/discord-rpc-client) or [DiscordRPCMaker](https://drpcm.t1c.dev/) - Create Discord RPCs
 * [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)
 * [Discord-Linux](https://discord-linux.com/) - Linux Container Bot 
 * [Discord.io](https://discord.io/) or [dsc.gg](https://dsc.gg/) - Create Custom Discord Invites
@@ -1470,6 +1477,7 @@ Twitch Stream Tracker
 * [TweetDuck](https://github.com/chylex/TweetDuck) - Twitter Desktop Client
 * [BackTweets](http://backtweets.com/), [twXplorer](https://twxplorer.knightlab.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - Search Twitter 
 * [Twishort](https://twishort.com/) - Make Longer Tweets
+* [Screamer](https://chrome.google.com/webstore/detail/screamer-twitter-improvem/mpeifaboppaofofdbmhoaeolnibaljof) - Tweet Only Twitter 
 * [Poet.so](https://poet.so/), [Twimage](https://twimage.vercel.app/) / [GitHub](https://github.com/drkPrince/tweet-to-image) or [Capture My Tweet](https://capturemytweet.in/) - Create Twitter Post Images
 * [Tweetgen](https://www.tweetgen.com/) or [FakeTweetMaker](https://www.faketweetmaker.com/) - Create Fake Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chrome.google.com/webstore/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
@@ -1594,6 +1602,7 @@ Twitch Stream Tracker
 * [Office License Isn't Genuine](https://web.archive.org/web/20211014003224/https://windowsaddict.ml/office-license-is-not-genuine) - Fix Office Activation Issues
 * [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) - BSD Operating Systems
 * [Rufus](https://rufus.ie/), [AIO Boot](https://www.aioboot.com/), [UUP](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x), [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - Create Bootable USB Drives  
+* [SARDU](https://www.sarducd.it/) - Create Recovery USB Flash Drive or Disk 
 * [Easy2Boot](https://www.easy2boot.com/) - Boot Directly from ISO's 
 * [rEFind](http://www.rodsbooks.com/refind/) - Boot Manager
 * [balenaEtcher](https://balena.io/etcher) - Flash OS Image SD / USB
@@ -1847,7 +1856,7 @@ Twitch Stream Tracker
 * [DependecyWalker](https://www.dependencywalker.com/) or [Dependencies](https://github.com/lucasg/Dependencies) - View Application Dependencies 
 * [FluentStore](https://github.com/yoshiask/FluentStore) - Microsoft Store Frontend
 * [store.rg](https://store.rg-adguard.net/) - Microsoft Store Link Generator 
-* [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) - Add Microsoft Store to Windows
+* [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) or [Reinstall PReinstalled](http%3A%2F%2Fgo.microsoft.com%2Ffwlink%2F%3FLinkId%3D619547&v=EQo53hvWy8Q) / [Guide](Guide: https://youtu.be/EQo53hvWy8Q) - Add Microsoft Store to Windows
 * [Vantage](https://rentry.co/lenbian) - Lenovo Vantage Without MS Store
 * [Edgeuninstaller](https://rentry.org/uninstalledge) - Completely Uninstall Microsoft Edge
 * [Windows on Raspberry](https://www.worproject.ml/) - Windows for Raspberry Pi
