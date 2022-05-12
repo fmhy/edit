@@ -388,7 +388,6 @@
 * [byte.to](https://byte.to/) - Video / Audio / Software / Android / Books / NSFW 
 * [ngb](https://ngb.to/) - Video / Software / Audio / Books / Android 
 * [warez.to](https://warez.to/) - Movies / TV / Games / Software / NSFW 
-* [DirectLoad](https://directload.org/) - Video / Games / Software / NSFW
 * [HD Direct](http://hd-direct.net/) - Video / Games / NSFW
 * [hd-source](https://hd-source.to/) - Video / NSFW 
 * [MLCBoard](https://mlcboard.com/) - Movies 
@@ -483,8 +482,6 @@
 ***
 
 # ► Hindi 
-
-* [Quillpad](https://www.quillpad.in/) - Text editor
 
 ## ▷ Downloading
 
@@ -831,7 +828,6 @@
 * [nikidaily](https://www.nikidaily.info/) - Video / Audio 
 * [dl1.3rver](https://dl1.3rver.org/), [2](https://dl2.3rver.org/ ), [3](https://dl3.3rver.org/) - Movies / TV
 * [dlfars](https://dlfars.pw/) - Movies / TV / Anime 
-* [FilmBin](https://filmbin1.com/) - Movies / TV
 * [RooDL](https://roozdl.com/) - Movies / TV / Anime / [Drive](http://dl.roozdl.com/)
 * [Movibox](https://movibox.in/) - Movies / Geo Restricted 
 * [mrmovie](https://mrmovie5.space/) - Movies / TV 
