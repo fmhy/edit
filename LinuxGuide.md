@@ -35,9 +35,11 @@
 * [rtinst](https://github.com/arakasi72/rtinst) - Seedbox Installation Script for Ubuntu / Debian 
 * [anime-terminal](https://github.com/YogeshLamichhane/anime-terminal) or [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal for Linux
 * [Trackma](https://github.com/z411/trackma/) - Anime Tracking App
+* [Netflix Proxy](https://github.com/ab77/netflix-proxy/) - Streaming Service Proxy 
 * [fmedia](https://github.com/stsaz/fmedia) - Media Player and Converter 
 * [Knapsu](https://knapsu.eu/plex/) or [Cloudbox](https://cloudbox.works/) - Media Server
-* [ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) - Automated Media Server Setup 
+* [ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) - Automated Media Server Setup
+* [Tvheadend](https://tvheadend.org/) - TV Streaming Server / [GitHub](https://github.com/tvheadend/tvheadend)
 * [Docket-Jacket](https://github.com/linuxserver/docker-jackett) - Docker Jacket Container
 * [Spot](https://github.com/xou816/spot) - Spotify Desktop Client for Gnome 
 * [spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify Client
