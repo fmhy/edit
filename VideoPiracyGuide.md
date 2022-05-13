@@ -20,7 +20,6 @@
 
 ## ▷ Dedicated Hosts
 
-* **[Movies4Discord](https://discord.gg/UJ9cS2kP3B)** - Movies / TV / 1080p Only / [Website](https://movies4discord.xyz/)
 * **[Soap2Day](https://soapgate.org/)** - Movies / TV
 * **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
 * **[Oligopoly](https://olgply.com/)** - Movies / TV
