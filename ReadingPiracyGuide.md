@@ -16,7 +16,6 @@
 * **[Audiobook Bay](http://audiobookbay.ws/)**, [2](http://audiobookbay.nl/) - Torrents
 * **[Tokybook](https://tokybook.com/)** - Listen Online
 * **[Top 1000 Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_top_1000_audiobooks)** - Audiobooks / Drive
-* [Audiobook Gdrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_audiobook_gdrive) - Audiobooks / Drive 
 * [Audiobook Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_audiobook_megadrive) - Audiobooks / Drive
 * [HotAudiobooks](https://hotaudiobooks.com) - Listen Online 
 * [Audiobooks For Soul](https://audiobookforsoul.net/) - Listen Online
