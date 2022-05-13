@@ -627,12 +627,6 @@ pass: paluch
 
 ***
 
-#### Audiobook Gdrive
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUlzSlRINEVsVWc0ZmpuZ0ROVWxNMUtQRm1wZkRfdGw5`
-
-***
-
 #### Audiobook Megadrive
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9oNDhIR0FiYSM5OFlPdHAzbmhnRHRLcGVTTzdQcVNRCmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvRzVNUURiNUsjbEo5RjNjbG1sUFZ0U2FhYTctNWw2Zw==`
