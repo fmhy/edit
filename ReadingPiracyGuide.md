@@ -947,7 +947,6 @@
 
 * **[Just Light Novels](https://www.justlightnovels.com/)**
 * **[ThatNovelCorner](https://thatnovelcorner.com/)**
-* **[KonoSuba!](https://xyz.iamzlnk.xyz/0:/)**
 * [Light Novel World](https://www.lightnovelworld.com/)
 * [Ranobes](https://ranobes.net/)
 * [Baka-Tsuki](https://www.baka-tsuki.org)
