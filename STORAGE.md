@@ -2,7 +2,7 @@
 ***
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
-t
+
 **[Table of Contents](https://i.imgur.com/5oy9Pkm.png)** - For mobile users
 
 ***
