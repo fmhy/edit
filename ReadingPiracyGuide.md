@@ -393,7 +393,7 @@
 * **[Digitalbookindex](http://www.digitalbookindex.org)**
 * **[AcademicTorrents](https://academictorrents.com/)**
 * **[IvyPanda](https://ivypanda.com/blog/1000-open-textbooks-and-learning-resources-for-all-subjects/)** - List of Educational Sites
-* **[Everything I Know](https://wiki.nikitavoloboev.xyz/)** - Articles Sorted by Topic
+* **[Everything I Know](https://wiki.nikiv.dev/)** - Articles Sorted by Topic
 * **[Math Resource Guide](https://free-math-resources.netlify.app/)** - Curated list of math resources by /u/javacoder19
 * **[Language Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_language_learning)** - Language Learning Tools, Books & Sites
 * [Math and Physics Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_math_and_physics_books) - [Discord](https://discord.gg/v23hTtx)
