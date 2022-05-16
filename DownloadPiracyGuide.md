@@ -20,7 +20,6 @@
 * **[300TB Mega](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_300tb_mega)**
 * **[300TB GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_300tb_gdrive)**
 * **[mega.archive](https://discord.gg/R3zEZUPp3Q)** / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
-* [KOLLECTION](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_kollection)
 * [Castlevania.cf](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_castlevania.cf)
 * [Alive Data Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_alive_data_indexes)
 * [Google TeamDrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) 
