@@ -262,7 +262,7 @@
 * [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2) - Occult
 * [GodChecker](https://www.godchecker.com/) - Religion / Mythology
 * [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Alchemy / Astrology / Freemasonry / Gnosticism / Hermetic / Kabbalah / Philosophy
-* [Temple of Solomon the King](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_temple_of_solomon_the_king) - Occult / Gnosticism / Esoterism. / Drive 
+* [Temple of Solomon the King](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_temple_of_solomon_the_king) - Occult / Gnosticism / Esoterica / Drive 
 * [Abundant Hope](https://krishnamurti.abundanthope.org/) - Sacred Texts / Religion / Christianity / Buddhism / Alchemy / Hinduism / Islam / Theosophy / Judaism / Taoism
 * [Hermetics](http://www.hermetics.org/library.html) - Ancient Texts / Mythology / Occult
 * [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - Religion / Esoterica / Occult
