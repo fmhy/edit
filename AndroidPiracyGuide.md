@@ -188,7 +188,6 @@
 * [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app) - Libgen Mobile App 
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) or [AndrOpen](https://www.andropenoffice.com/) - Office Suite 
 * [Papertag](https://www.papertag.app/) - Attach Digital Content on Paper
-* [xShare](https://github.com/tsudoko/xshare) - Screenshot Tool
 * [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - Audio Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
 * [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistant
