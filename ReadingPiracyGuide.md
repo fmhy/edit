@@ -547,7 +547,7 @@
 ## ▷ Programming Sites
 
 * **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / [Downloader](https://github.com/lorenzodifuccia/safaribooks) / Infinite trial by clearing cookies & making new account
-* **[ForCoder,](https://forcoder.su/)**, [ScanLibs](https://scanlibs.com/) or [CoderProg](https://coderprog.com/)
+* **[ForCoder](https://forcoder.su/)**, [ScanLibs](https://scanlibs.com/) or [CoderProg](https://coderprog.com/)
 * [IT eBooks](https://it-ebooks.info/) 
 * [FreeTechBooks](https://www.freetechbooks.com/) 
 * [FreeComputerEbooks](https://freecomputerbooks.com/) 
