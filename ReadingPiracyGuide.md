@@ -749,7 +749,6 @@
 * [Time Traveler](https://www.merriam-webster.com/time-traveler) - See when a word was first used in print 
 * [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
 * [swear-words](https://github.com/chucknorris-io/swear-words) - Swear Word Index 
-* [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi Language Dictionary Index
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary 
 * [SpanishDict](https://www.spanishdict.com/) - Spanish Translation Dictionary
 * [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - American Sign Language 
