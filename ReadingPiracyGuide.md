@@ -333,6 +333,7 @@
 * [Short Stories](https://short-stories.co/) - Short Stories 
 * [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
 * [Poetry Foundation](https://www.poetryfoundation.org/), [PoemHunter](https://www.poemhunter.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
+* [Wisdom of Chopra](http://www.wisdomofchopra.com/) or [Glimbay](https://www.glimbay.com/) - Quotes
 * [FreeSFOnline](https://www.freesfonline.net/) - Sci-Fi / Fantasy 
 * [EpubPuB](https://www.epub.pub/) - Romance / Fantasy  
 * [SF Site](https://www.sfsite.com/) - Science Fiction
@@ -359,7 +360,6 @@
 * [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - TTRPG Rulebooks
 * [Cinema EBooks Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cinema_ebooks_collection) - Cinema Books
 * [SimplyScripts](https://www.simplyscripts.com/), [MZP](http://www.mzp-tv.co.uk/movie_scripts/) or [SubsLikeScript](https://subslikescript.com/) - Movie / TV Scripts 
-* [Wisdom of Chopra](http://www.wisdomofchopra.com/) or [Glimbay](https://www.glimbay.com/) - Quotes
 * [The Anarchist Library](http://theanarchistlibrary.org/special/index) - Anarchism
 * [Anarcho-Copy](https://anarcho-copy.org/) - Anarchism
 * [Archive.Leftove.rs](https://archive.leftove.rs/) - Protest Documents
