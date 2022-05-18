@@ -13,7 +13,7 @@
 
 * **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/), [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) or [AmIUnique](https://amiunique.org/fp) - Adblocking Test
 * [Simple Opt Out](https://simpleoptout.com/) - Turn off Targeted Ads
-* [hBlock](https://github.com/hectorm/hblock), [someonewhocares](https://someonewhocares.org/hosts/), [winhelp2002](https://winhelp2002.mvps.org/hosts.htm) or [Hosts](https://github.com/StevenBlack/hosts)   - Block Ads with Host Files 
+* [hBlock](https://github.com/hectorm/hblock), [someonewhocares](https://someonewhocares.org/hosts/), [winhelp2002](https://winhelp2002.mvps.org/hosts.htm) or [Hosts](https://github.com/StevenBlack/hosts) - Block Ads with Host Files 
 * [Invidious](https://invidious.io/) / [GitHub](https://github.com/iv-org/invidious) or [PSTube](https://github.com/prateekmedia/pstube) - Ad Free YouTube Client
 
 ***
