@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/wwfizRR.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/irhNLlx.png)** - For mobile users
 
 ***
 ***
@@ -242,17 +242,6 @@
 
 ***
 
-## ▷ Children's Sites
-
-* [Children's Library](http://en.childrenslibrary.org/) 
-* [MagicKeys](http://www.magickeys.com/books/) 
-* [byGosh](https://bygosh.com) 
-* [Baldwin Library](https://ufdc.ufl.edu/juv) - Historical Children’s Literature
-* [Borrowing Picture Books](https://redd.it/fm1xpw) - Save Borrowed Picture Books from Archive.org
-* [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's Book App
-
-***
-
 ## ▷ Religion / Esoterica
 
 * **[Sacred Text Archive](https://www.sacred-texts.com/index.htm)** - Religion / Mythology / Folklore / Esoterica
@@ -348,15 +337,16 @@
 * [EpubPuB](https://www.epub.pub/) - Romance / Fantasy  
 * [SF Site](https://www.sfsite.com/) - Science Fiction
 * [TopMystery](http://www.topmystery.com/onlinebooks) - Mystery
+* [PublicBookShelf](http://www.publicbookshelf.com/) - Romance
 * [HourWolf](https://www.hourwolf.com/sfbooks/) - Fantasy
 * [Doyleand](https://doyleandmacdonald.com/lit.htm) - Fantasy
-* [PublicBookShelf](http://www.publicbookshelf.com/) - Romance
+* [Children's Library](http://en.childrenslibrary.org/),  [MagicKeys](http://www.magickeys.com/books/), [byGosh](https://bygosh.com),  [Baldwin Library](https://ufdc.ufl.edu/juv) or [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's 
+* [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U), [PimpMyMind](https://pimpmymind.net/), [selfhelpbooklab](https://t.me/selfhelpbooklab), [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - Self-Help
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
 * [do_k_ument](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_do_k_ument) - Survival, Forging, Smithing, Weapons Training, Field Manuals
 * [Survivor Library](http://www.survivorlibrary.com/), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - Survival
 * [SurvivalManual](https://ligi.de/) - Offline Survival Guide / [GitHub](https://github.com/ligi/SurvivalManual)
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
-* [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U), [PimpMyMind](https://pimpmymind.net/), [selfhelpbooklab](https://t.me/selfhelpbooklab), [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - Self-Help Books
 * [Websleuths](https://www.websleuths.com/) - Crime Solving Forum
 * [QSL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_qsl) - Ham Radio & Antenna Books 
 * [Erowid](https://www.erowid.org/) - Psychoactive Information Index
@@ -1201,6 +1191,7 @@
 * [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)
 * [BookCut](https://github.com/costis94/bookcut) - Ebook Download Tool 
 * [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - Google Book Downloader w/ Proxy Support
+* [Borrowing Picture Books](https://redd.it/fm1xpw) - Save Borrowed Picture Books from Archive.org
 * [DocDownloader](https://docdownloader.com/), [SCFull](https://scfull.com/), [DownScribd](https://downscribd.com/), [docdownload](https://docdownload.net/), [guIHelp](https://discord.gg/rgF9jY8CpH) or [ScribdDown](https://scribddown.com/) - [Scribd](https://www.scribd.com/) Document Downloader 
 * [Scribd Download Guide](https://redd.it/kfv1c6) 
 * [GROBID](https://github.com/kermitt2/grobid) - Extract / Organize Scientific Document Info
