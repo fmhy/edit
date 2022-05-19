@@ -266,7 +266,6 @@
 * [WriteAPrisoner](https://writeaprisoner.com/) - Pen Pals for Inmates
 * [PenPal World](https://www.penpalworld.com/) or [GlobalPenFriends](https://www.globalpenfriends.com/) - Pen Pal Community
 * [PostSecret](https://postsecret.com/) - Share Secrets via Postcard
-* [MessageToTheFuture](https://messagetothefutu.re/) - Write a Message to Future You
 * [This Is Sand](https://thisissand.com/) - Make Sand Art 
 * [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem 
 * [MarbleRun](https://www.marblerun.at/) - Create Marble Courses
@@ -368,7 +367,7 @@
 * [see. hear. party.](http://www.seehearparty.com/) - List Things You Want to See... Party 
 * [procatinator](https://procatinator.com/) - Cat GIFs & Music
 * [AwesomeCars](https://awesomecars.neocities.org/) - Drip Car Memes
-* [FutureMe](https://www.futureme.org/) - Send Messages to Future Self
+* [FutureMe](https://www.futureme.org/) or [MessageToTheFuture](https://messagetothefutu.re/) - Send Messages to Future Self
 * [Are You You?](https://www.areyouyou.eu/) - Try to Fool Face Recognition Software
 * [Useless Certifications](https://uselesscertifications.com/) - Useless Certifications
 * [You're Getting Old](http://you.regettingold.com/) - Age Perspective 
