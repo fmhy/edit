@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/gkPWgT9.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/et1ZXka.png)** - For mobile users
 
 *** 
 ***
@@ -558,6 +558,10 @@
 ***
 
 # ► [Android Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_streaming)
+
+***
+
+# ► [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)
 
 ***
 
