@@ -708,7 +708,6 @@
 * **[OneLook](https://onelook.com/)** - Multi Dictionary Search
 * **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus
 * **[Wikipedia](https://www.wikipedia.org/)** or [WikiFox](https://wikifox.ml/) - Encyclopedia / [Read Only](http://static.wiki/) / [Text Extractor](https://github.com/attardi/wikiextractor) / [Deleted Articles](https://deletionpedia.org/en/Main_Page) / [Random Page](http://wikistroll.com/)
-* **[Wiktionary](https://en.wiktionary.org)** or [EtymOnline](https://www.etymonline.com/) - Etymologies
 * **[Wikiquote](https://en.wikiquote.org)** - Quote database
 * **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - Slang Word / Phrase Dictionary
 * [NinjaWords](http://ninjawords.com/ ) - Dictionary 
@@ -716,6 +715,7 @@
 * [Cambridge Dictionary](https://dictionary.cambridge.org/) - Dictionary
 * [Wiktionary](https://www.wiktionary.org/) - Dictionary
 * [Webopedia](https://www.webopedia.com/) - Tech Dictionary
+* [EtymOnline](https://www.etymonline.com/) - Etymologies
 * [Fandom](https://www.fandom.com/) - Fan Wikis 
 * [WordReference](https://www.wordreference.com/) or [Reverso](https://reverso.net/) - Translation Dictionary 
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi Language Dictionary Index
