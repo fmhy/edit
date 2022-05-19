@@ -1129,9 +1129,7 @@
 * [Zivcy](https://www.downloader.world/) - Movies / TV
 * [Play Diary](https://apps.apple.com/de/app/play-diary-enjoy-your-media/id1611512811) - Movies / TV
 * [Movie Finder](https://apps.apple.com/de/app/movie-finder-movie-by-image/id1560301878) - Movies / TV
-* [Airy TV](https://airy.tv/) - Legal / Live TV  
 * [The CW](https://apps.apple.com/us/app/the-cw/id491730359) - Free CW Shows
-* [STBEmu](https://apps.apple.com/app/stbemutv/id1567306197) - Emulate a STB and watch IPTV
 * [Viki](https://apps.apple.com/us/app/viki-asian-tv-dramas-movies/id445553058) - Asian Drama
 * [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - Chinese Drama
 * [RSS Player](https://apps.apple.com/us/app/rss-video-player/id885311320) - KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)
@@ -1154,6 +1152,8 @@
 
 ## ▷ iOS Live TV
 
+* [Airy TV](https://airy.tv/) - Legal / Live TV  
+* [STBEmu](https://apps.apple.com/app/stbemutv/id1567306197) - Emulate a STB and watch IPTV
 * [Strym](https://apps.apple.com/ca/app/strymtv/id1497450933) - M3U Sports 
 
 ***
