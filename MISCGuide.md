@@ -116,7 +116,6 @@
 
 # ► Piracy Discussion
 
-* **[OneHack](https://onehack.us/)**
 * **[/m/piracy](https://www.reddit.com/user/nbatman/m/piracy/)**, [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) - Piracy Multireddit
 * [/r/piracy](https://reddit.com/r/piracy) - [Backup](https://github.com/nid666/PiracyArchive)
 * [/r/piratedgames](https://reddit.com/r/piratedgames) - [Discord](https://discord.gg/Da2akf2)
