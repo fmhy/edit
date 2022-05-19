@@ -472,7 +472,6 @@
 # ► Request Music
 
 * **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)** 
-* **[TheMegaDrive](https://discord.gg/h2P5zsNMxZ)** - Megadrive Discord 
 * [WorldSrc](https://t.me/WorldsrcOfficial)
 * [TehParadox](https://www.tehparadox.net/requests/)
 * [Sanet.st](https://sanet.st/community/t/requests) 
