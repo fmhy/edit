@@ -184,7 +184,7 @@
 * [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - Paid apps
 * [AppsFree](https://play.google.com/store/apps/details?id=com.appsfree.android) - Paid apps
 * [InstlApp](https://apps.apple.com/us/app/instlapp/id1502777382) - Free App Giveaways
-* [OneHack Freebie Thread](https://onehack.us/c/free-give-away/6), [spamverse](https://t.me/spamverse) or [FreemiumBox](https://t.me/freemiumbox) - Giveaways and Freebies
+* [spamverse](https://t.me/spamverse) or [FreemiumBox](https://t.me/freemiumbox) - Giveaways and Freebies
 * [AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) - Products / Services
 * [AppSumo Freebies](https://appsumo.com/tools/freebies/) - Apps
 * [FreeCycle](https://www.freecycle.org/) - People giving away free stuff
