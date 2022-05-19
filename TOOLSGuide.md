@@ -622,11 +622,11 @@
 * [NIST](https://www.nist.gov/nice/apprenticeship-finder) - NICE Apprenticeship Program Finder
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - Cloud Career Training
 * [Lecture Links for Placement Preparation in Computer Science](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
-* [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list) - Startup Tools
+* [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list) or [500+ Free Tools For Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Tools
 * [BetaList](https://betalist.com/) - Get Startup Ideas
 * [Failory](https://www.failory.com/graveyard) - Learn Why Startups & Products Failed
 * [AngelLIst](https://angel.co/) - Startup Community
-* [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) - Startup Submission Sites  
+* [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites  
 * [namelix](https://namelix.com/) - Business Name Generator
 * [learn-to-cloud](https://learntocloud.guide/) - Cloud Computing Fundamentals / [GitHub](https://github.com/learntocloud/learn-to-cloud)
 * [Cyberseek](https://www.cyberseek.org/index.html) - Cybersecurity Job Market Info
