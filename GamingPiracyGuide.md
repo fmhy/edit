@@ -730,7 +730,6 @@
 * [cyberphoenix](http://www.cyberphoenix.org/forum/forum/54-requests/)
 * [TehParadox](https://www.tehparadox.net/requests/)
 * [pirates-forum](https://pirates-forum.org/Forum-Requests) 
-* [TheMegaDrive](https://discord.gg/h2P5zsNMxZ) - Megadrive Discord 
 
 ***
 
