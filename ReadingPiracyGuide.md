@@ -1118,7 +1118,6 @@
 * [AllBooksWorld](https://allbooksworld.com/request-a-book/) - Books
 * [PDF Drive](https://www.pdfdrive.com/request-a-book) - Books
 * [Sanet.st](https://sanet.st/community/t/requests) - Books
-* [TheMegaDrive](https://discord.gg/h2P5zsNMxZ) - Books
 * [ebookdlrequest](https://t.me/ebookdlrequest) - Books
 * [ebookhunter](https://www.ebookhunter.net/request-ebooks/) - Books 
 * [VK eBook Sharing Group](https://vk.com/club162811046) - Books 
