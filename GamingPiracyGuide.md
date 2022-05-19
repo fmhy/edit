@@ -299,7 +299,7 @@
 * [Game & Watch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_game_.26amp.3B_watch_roms) - Roms / Game & Watch
 * [Sega Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sega_roms) - Roms / Sega
 * [Old-Games.com](https://www.old-games.com/) - Roms / PC / Amiga
-* [lemon64](https://www.lemon64.com/), [whdload](https://www.whdload.de/), lemonamigahttps://www.lemonamiga.com/), [exotica](http://www.exotica.org.uk/) or [hol abime](https://hol.abime.net/) - Amiga / Commodore64 Roms
+* [lemon64](https://www.lemon64.com/), [whdload](https://www.whdload.de/), [lemonamiga](https://www.lemonamiga.com/), [exotica](http://www.exotica.org.uk/) or [hol abime](https://hol.abime.net/) - Amiga / Commodore64 Roms
 * [AtariMania](http://www.atarimania.com/index.html) - Emulators / Roms / Atari Consoles
 * [MagiPack](https://www.magipack.games/) - Retro Games 
 * [/1CC/](https://8kun.top/1cc/index.html) - Retro Games / [Discord](https://discord.com/invite/Y4dSzbXNau)
