@@ -1010,8 +1010,8 @@
 * [qrvn.cc](http://qrvn.cc/) - `qrvn.cc/Zzue41i`
 * [Shrinke.me](https://shrinke.me/) - `shrinke.me/1OpB2`
 * [Rebrandly](https://www.rebrandly.com/) - `rb.gy/4m25hq` / [Extension](https://mybrowseraddon.com/g-url-shortener.html)
-[bhyi](https://bhyi.tk/) - `bhyi.tk/fmhy`
-[lnks.tools](https://lnks.tools/) - `lnks.tools/wEASMD`
+* [bhyi](https://bhyi.tk/) - `bhyi.tk/fmhy`
+* [lnks.tools](https://lnks.tools/) - `lnks.tools/wEASMD`
 * [zws](https://zws.im/) - `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
 * [u.nu](https://u.nu/) - `u.nu/5nhzi`
 * [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
