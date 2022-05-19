@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/AxhAU0o.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/xySJe02.png)** - For mobile users
 
 ***
 ***
@@ -73,6 +73,10 @@
 ***
 
 ## ▷ [Android Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_torrenting)
+
+***
+
+## ▷ [iOS Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_torrenting)
 
 ***
 
