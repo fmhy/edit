@@ -140,8 +140,6 @@
 * [GDrive Guides](https://t.me/gdriveguides) - GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)
 * [Fileforums](https://fileforums.com/) - Gaming / Emulator / Data Compression Discussion
 * [Pirate Haven](https://pirate-haven.github.io/) - Guides / Discussion / [Discord](https://discord.gg/JWqrdfN9Y8)
-* [The MegaDrive](https://discord.gg/megadrive) - Piracy / DataHoarding Discussion
-* [/r/AnimePiracy Discord](https://discord.gg/piracy)
 * [Gamesurge](https://gamesurge.net/) - Gaming IRC Community
 * [GenP](https://www.reddit.com/r/GenP) - Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)
 * [Torrent Community](https://t.me/TorrentCommunity) - Telegram
