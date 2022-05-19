@@ -1000,10 +1000,6 @@
 * [request_movies_group](https://t.me/request_movies_group) - Movies / Telegram 
 * [KimCartoon.to](https://www.facebook.com/messages/t/kimcartoonfp) - Cartoons
 * [KissAsian.sh](https://kissasian.sh/RequestDrama) - KDrama
-* [Free Course Site](https://freecoursesite.com/request-course/) - Courses
-* [Gigcourse](https://gigacourse.com/request-course/) - Courses
-* [TutFlix](https://www.tutflix.org/forums/request-section.12/) - Courses / account required 
-* [GetFreeCourses.co](https://getfreecourses.co/request-course/) - Udemy Courses
 
 ***
 
