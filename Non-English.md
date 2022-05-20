@@ -1124,7 +1124,6 @@
 * [CXRadio](https://www.cxradio.com.br/) - Radio
 * [HarpaCrista](https://harpacrista.org/) - Christian Music
 * [Christian Harp](https://www.microsoft.com/store/productId/9WZDNCRDPDWC) - Christian Music
-* Portuguese / Streaming / Christian Music 
 * [HarpaCrista](https://play.google.com/store/apps/details?id=br.com.masterapps.harpacristagratis&hl=en_US&gl=US) - Christian Music
 * [flowpodcast](https://flowpodcast.com.br/) - Political Podcast
 * [99Vidas](http://99vidas.com.br/) - Gaming Podcast
