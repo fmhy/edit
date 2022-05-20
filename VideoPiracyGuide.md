@@ -969,7 +969,6 @@
 
 # ► Request Videos
 
-* **[The MegaDrive](https://discord.gg/megadrive)** - Movies / TV / Anime
 * **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)** - Movies / TV 
 * **[Movie-Forum](https://movie-forum.co/forums/23-Requests)** - Movies
 * **[TopNow](https://discord.gg/marBA97)** - Movies / TV / Anime
