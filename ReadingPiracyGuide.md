@@ -1182,7 +1182,6 @@
 * [txtpaper](https://txtpaper.com/) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to Ebook Converter
 * [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - Generate Text & Article Summaries
 * [FiveFilters](https://www.fivefilters.org/) - Multiple Article Accessibility Tools
-* [Bypass Quora login](https://onehack.us/t/bypass-quora-login-for-unlimited-reading-new-method-legal/92786)
 * [Ebook-Converter](https://ebook-converter.com/) - Ebook Converter
 * [Bookfeed.io](https://cran.r-project.org/) - Book RSS Feed
 * [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)
