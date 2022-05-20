@@ -1190,7 +1190,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Mind Mapping
 
-**[Logseq](https://logseq.com/)**, [MindMup](https://www.mindmup.com/), [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page), [Kinopio](https://kinopio.club/), [Mindomo](https://www.mindomo.com/), [Yuque](https://www.yuque.com/), [MindMapp](https://mindmapp.cedoor.dev/app), [are.na](https://www.are.na/, [Domino](https://kool.tools/domino), [GitMind](https://gitmind.com/), [Coggle](https://coggle.it/) (Collaborative)
+**[Logseq](https://logseq.com/)**, [MindMup](https://www.mindmup.com/), [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page), [Kinopio](https://kinopio.club/), [Mindomo](https://www.mindomo.com/), [Yuque](https://www.yuque.com/), [MindMapp](https://mindmapp.cedoor.dev/app), [are.na](https://www.are.na/), [Domino](https://kool.tools/domino), [GitMind](https://gitmind.com/), [Coggle](https://coggle.it/) (Collaborative)
 
 ***
 
