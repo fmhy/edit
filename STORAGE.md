@@ -1388,7 +1388,6 @@ Add the following commands to a search to manually scrape each site.
 * https://freems.1ove.club/ceo/
 * https://ms.jim9527.workers.dev/#form
 * [90 Day Trial](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
-* [Onedrive Generator List](https://onehack.us/t/mega-collection-of-free-onedrive-office365/200671)
 
 ***
 
