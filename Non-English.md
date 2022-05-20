@@ -1202,9 +1202,7 @@
 * [NomesBiblicos](https://www.nomesbiblicos.com/) - Biblical Name History
 * [estudos-biblicos](http://estudos-biblicos.net/), [2](https://estudos-biblicos.blogspot.com/) - Bible Studies
 * [apologeta](https://www.apologeta.com.br/) - Bible Commentary
-* Portuguese 
 * [Biblia](https://biblia.com.br/) or [iguga](https://www.iguga.org/) - Biblical Dictionary
-* Portuguese 
 * [Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_recipes)
 
 ***
