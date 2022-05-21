@@ -303,6 +303,7 @@
 * [NextWarez](http://nextwarez.com/) - Warez Lists  
 * [mega-p2p](https://www.mega-p2p.net/) - Warez Lists  
 * [Seekr](https://w1w.files-seekr.com/) - Download Search Files
+* [Pixel Downloader](https://github.com/valentintintin/pixel-downloader) - French / Download Search Tool
 * [Zone Telechargement](https://www.zone-telechargement.work/) - Video / Audio / Software / Games / Books / Magazines / Newpapers / Android
 * [WawaCity](https://www.wawacity.video/), [2](https://www.wawacity.vip/) - Video / Audio / Books / Magazines / Software / Android / Use AdBlocker
 * [Tirexo](https://www.tirexo.com/), [2](https://www2.tirexo.lol/), [3](https://www2.tirexo.work/) - Video / Audio / Books / Roms / Software / Android
@@ -413,6 +414,7 @@
 * [Kinox](https://www2.kinox.to/) - Movies / TV
 * [TopStreamFilm](https://www.topstreamfilm.com/) - Movies / TV
 * [KinoX](https://www.kinox.sx/) - Movies / TV
+* [StreamCloud](https://streamcloud.cx/) - Movies / TV
 * [BS.TO](https://www.bs.to/) - TV / Anime
 * [StreamCloud](https://www1.streamcloud.club/) - Movies / TV
 * [MovieTown](https://movietown.org/) - Movies / TV
@@ -1439,7 +1441,6 @@
 ## ▷ Downloading
 
 * [identi](https://identi.io/) - Video / Audio / Software / Games 
-* [ChileComparte](http://www.chilecomparte.cl/) - Video / Audio / Software / Books / Magazines / Comics / Android 
 * [CompucaliTV](https://www.compucalitv.com/) - Video / Software / Games
 * [ZonaLeRoS](https://www.zona-leros.net/) - Video / Games
 * [GamesMega](https://gamesmega.net/) - Games / Roms 
