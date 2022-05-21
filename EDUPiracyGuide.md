@@ -116,6 +116,7 @@
 * [Documentary Mania](https://www.documentarymania.com/) 
 * [Documentary Storm](https://www.documentarystorm.com/) 
 * [Documentary Tube](https://www.documentarytube.com/)
+* [Rocumentaries](https://rocumentaries.com/)
 * [WatchDocumentaries](https://watchdocumentaries.com/) 
 * [Docur](https://docur.co/) 
 * [PBS Frontline](https://www.pbs.org/wgbh/frontline/films/)
@@ -403,6 +404,8 @@
 * [SpaceEngine](http://spaceengine.org/) - Universe Simulator
 * [astro.sfasu](http://astro.sfasu.edu/courses/ast305/homework/) - Astronomy Homework
 * [CDS](https://cds.u-strasbg.fr/) - Astronomical Database
+* [UFO Discovery](https://app.polymersearch.com/polymerexamples/UFO_Sightings) - UFO Sightings Tracker
+* [UFO Sighting Chart](https://i.redd.it/0l9ugv9kz4091.jpg) - Common UFO Sighting Locations
 
 ***
 
@@ -749,6 +752,7 @@
 * [Find Study Now](https://find-study-now.com/) - School Search
 * [BachelorStudies](https://bachelorstudies.com/) - Bachelor Degree Search 
 * [College Map](https://nces.ed.gov/ipeds/collegemap/) - College Information Map
+* [RateMyDorm](https://ratemydorm.com) - College Dorm Reviews
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - Professor Ratings
 * [Edu VPN](https://www.eduvpn.org/) - Institute Access VPN
 * [.edu Mail Guide](https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview), [Mail.mjj](https://mail.mjj.edu.ge/), [10MinMail](https://10minutesemail.net/) - EDU Email Address'
