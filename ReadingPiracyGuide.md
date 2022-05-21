@@ -764,8 +764,6 @@
 
 # ► Visual Media Sites
 
-***
-
 ## ▷ Comic Sites
 
 * **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-Site Comic Search
