@@ -415,7 +415,7 @@
 * **[Audio Editors / Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_editors)** - Edit, Record & Create Audio
 * **[Online Audio Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_online_audio_editors)** - Edit Audio / Create Music Online
 * **[Audio Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_download_apps)** - Download Audio from Various Sites 
-* **[Spotify Tools / Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders) ** - Tools & Downloaders for Spotify
+* **[Spotify Tools / Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Tools & Downloaders for Spotify
 * **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
 * **[Equalizer APO](https://equalizerapo.com/)** - Audio Equalizer / [Noise Suppression](https://github.com/werman/noise-suppression-for-voice)
 * **[AutoEq](https://github.com/jaakkopasanen/AutoEq)** - Auto Headphone Equalizer
