@@ -532,7 +532,6 @@
 * [Nestflix](https://nestflix.fun/) - Fictional Media in Media Database
 * [Vintage Ad Browser](http://www.vintageadbrowser.com/) - 100,000+ Vintage Advertisements 
 * [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - Japanese Commercial Archive
-* [UFO Discovery](https://app.polymersearch.com/polymerexamples/UFO_Sightings) - UFO Sightings Tracker
 * [info.cern](http://info.cern.ch/) - First Website on the Internet 
 * [Worlds Highest Website](https://worlds-highest-website.com/) - Worlds Longest Website
 * [Long Doge Challenge](https://longdogechallenge.com/) - Worlds Longest Doge
@@ -557,6 +556,7 @@
 # ► News
 
 * **[News Feed Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_news_feed_aggregators)** - Multiple News Site Feeds
+* **[5000 Best News Sites](http://5000best.com/websites/News/)** - New Site Index
 * **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - News Multireddit
 * **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) or [TechGiga](https://www.techgiga.net/) - Piracy News
 * [RavenReader](https://ravenreader.app/) - News Article Manager
@@ -583,6 +583,7 @@
 * [We Fight Censorship](http://3kyl4i7bfdgwelmf.onion/) or [Netblocks](https://netblocks.org/) - Censorship News
 * [Tudum](https://www.netflix.com/tudum) - Netflix News
 * [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
+* [Anime Corner](https://animecorner.me/) - Anime / Manga News
 * [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - Dark Web News
 * [Interactive News Map](https://usa.liveuamap.com/) - Geolocated News Alerts / Headlines U.S 
 * [Forekast](https://forekast.com/) - Worldwide Event Calendar 
@@ -705,6 +706,7 @@
 * [Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_recipes)
 * [Mealime](https://www.mealime.com/) - Meal Planning App
 * [Still Tasty](https://www.stilltasty.com/) or [EatByDate](http://www.eatbydate.com/) - Shelf Life Guides 
+* [Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png)
 * [Baking Calculators](https://bakingcalculators.com/) - Measurement System Conversion Calculators
 * [TasteJury](https://tastejury.com/) - Find Specific Dishes
 * [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - SF Food Truck App 
