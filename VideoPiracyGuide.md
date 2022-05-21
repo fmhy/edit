@@ -92,6 +92,7 @@
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / [Windscribes](https://windscribe.com/) free version works
 * [YouTube Movie Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)
 * [Amazon Free w/ Ads](https://www.amazon.com/free-ads/s?k=free+with+ads) - Movies / TV
+* [Free Netflix](https://rentry.co/Free-Netflix) - Free Netflix Method
 * [JustWatch](https://www.justwatch.com/) or [ReelGood](https://reelgood.com/) - Search Legal Streaming Hosts
 * [Manually Scrape Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manually_scrape_sites) - Search Sites Manually
 * [Dirtywarez Ranking](https://dirtywarez.org/cat/streaming), [Watch Movies Free](https://redd.it/rbpag2), [StreamingSites](https://streamingsites.com/), [3db7](https://3db7.xyz/stream/website) or [Movies-Play](https://movies-play.com/) - Streaming Site Lists
