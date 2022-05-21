@@ -521,6 +521,7 @@
 * [Duke University Library](https://repository.duke.edu/catalog?utf8=%E2%9C%93&search_scope=https%3A%2F%2Frepository.duke.edu%2Fcatalog&q=&search_field=all_fields) - Historical Books 
 * [corpus scriptorum latinorum](https://www.forumromanum.org/literature/authors_a.html) - Latin Literature
 * [EarlyModernTexts](http://www.earlymoderntexts.com) - Historical Texts
+* [World History](https://www.worldhistory.org/) - History Encyclopedia
 * [Early English Books](https://quod.lib.umich.edu/e/eebogroup/) - Historical Texts / Books
 * [Making of America](https://quod.lib.umich.edu/m/moa/ ) - American History
 * [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) - Classic / Greek / Roman / Arabic / Germanic
