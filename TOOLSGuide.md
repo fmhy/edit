@@ -355,13 +355,13 @@
 * [Motion Den](https://motionden.com/), [Lumen5](https://lumen5.com/) or [VideoCreek](https://videocreek.com/) - Video Template Editor
 * [Vidlogo](https://vidlogo.com/) - Add Watermark to Video
 * [Beatflyer](https://beatflyer.com/) - Video Flyer Generator
-* [Footage](https://footage.app/) - Create Advertisment Videos
+* [Footage](https://footage.app/) - Create Advertisement Videos
 * [MKVToolNix](https://www.matroska.org/downloads/mkvtoolnix.html) - MKV Editing Tools 
 * [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/) - MKVExtract GUI 
 * [MKV-Optimizer](https://www.videohelp.com/software/MKV-Optimizer) - Remove Audio Tracks from MKV Files 
 * [MakeMKV](https://www.makemkv.com/) - Create MKV From Blu-Ray / DVD 
 * [ImgBurn](https://www.imgburn.com/), [DeepBurner](http://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
-* [VidCoder](https://vidcoder.net/) - DVD / Blu-Ray Ripping
+* [VidCoder](https://vidcoder.net/) or [DVDDecrypter](http://dvddecrypter.org.uk/) - DVD / Blu-Ray Ripping
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-Ray Ripping
 * [DVDFab](https://www.dvdfab.cn/free.htm) - Free DVD Related Programs 
 * [h265ize](https://github.com/FallingSnow/h265ize) - HEVC Encoder / [Enhanced](https://github.com/alextrv/enhanced-h264ify) 
@@ -740,7 +740,7 @@
 * [Rambox](https://github.com/ramboxapp/download/releases), [Ferdi](https://getferdi.com/), [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [Hamsket](https://github.com/TheGoddessInari/hamsket), [matterbride](https://github.com/42wim/matterbridge) or [Franz](https://meetfranz.com/) - Combine Web Apps / Chats
 * [Slapdash](https://slapdash.com/) - Connect Cloud Apps 
 * [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - Communication Software Index
-* [Discord](https://discordapp.com/), [Guilded](https://www.guilded.gg/) / [Mod](https://github.com/ReGuilded/ReGuilded/) or [Revolt](https://revolt.chat/) / [Resources](https://github.com/insertish/awesome-revolt) - Messaging Platforms
+* [Discord](https://discordapp.com/), [Guilded](https://www.guilded.gg/) / [Mod](https://github.com/ReGuilded/ReGuilded/) or [Revolt](https://revolt.chat/) / * [Bots]( https://rvlt.gg/discover/bots)  / [Resources](https://github.com/insertish/awesome-revolt) - Messaging Platforms
 * [Twist](https://twist.com/) - Collaboration Chat Manager
 * [Hack.chat](https://hack.chat/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chat 
 * [Cirlos](https://www.cirlos.net/), [Miranda NG](https://www.miranda-ng.org/en/) or [WeeChat](https://weechat.org/) - Chat App
@@ -752,6 +752,7 @@
 * [Slink](https://slink.chat/) - Aim Inspired Chat Client
 * [Rocket Chat](https://rocket.chat/) - Self-Hosted Chat Client
 * [Delta Chat](https://delta.chat/en/) - Email Based Messenger 
+* [PingMe](https://github.com/kha7iq/pingme) - Multi-App Notifications
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - Snapchat Recovery Tool
 * [Snapchat Data Extractor](https://gist.github.com/programminghoch10/fa37e0da8b2efc5cb8077e59d000771d) - Extract Snapchat Photo / Video Details
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - Export Skype Chat Data to Readable Text
@@ -867,6 +868,7 @@
 * [Safari Windows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_safari_windows) - Safari for Windows
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) - Prevent Firefox Memory Leaks 
 * [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) - Firefox Hidden Settings
+* [Firefox Access](https://www.accessfirefox.org/) - Firefox Accessibility Tools for the Visually Impaired
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - Firefox CSS Guides 
 * [NightFox](https://github.com/snthcy/nightfox) - Firefox Mac Theme
