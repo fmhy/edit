@@ -426,7 +426,7 @@
 * [AccurateRip](http://www.accuraterip.com/) - Verify Ripped Tracks are Error Free
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - Professional Video, Audio & Adobe Software / Plugins
 * [Free-Codecs](https://www.free-codecs.com/) - Codec Packs & Multimedia Tools
-* [Audio Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_plugins) - VST Plugins 
+* [Audio Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_plugins) or [LoopTorrent](https://looptorrent.net/) - VST Plugins 
 * [Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sfx_.2F_loops) - SFX & Loops
 * [Fairusify](https://fairuseify.ml/) - Make a Copyrighted Song Fair Use
 * [Songwhip](https://songwhip.com/) - Find / Share Your Music on All Platforms
@@ -435,7 +435,6 @@
 * [Plugin Clouds Archive](https://t.me/plugincloudsarchive) - DAW Plugins
 * [FlsAudio](https://flsaudio.com/en/gb/) - FLStudio Samples / Presets / Plugins 
 * [MilkyTracker](https://milkytracker.org/) - .MOD & .XM Module Creator
-* [LoopTorrent](https://looptorrent.net/) - VST Plugins
 * [CrackCartel Vault](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_crackcartel_vault), [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [Baomay01](https://baomay01.info/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
 * [AirWindows](http://www.airwindows.com/) - Reverbs / Equalizers / Plugins
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - Learn How to Play Music
