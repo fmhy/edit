@@ -273,8 +273,8 @@
 * [Pinoymoviepedia](https://pinoymoviepedia.ru/) - Movies
 * [Pinoy5Movies](https://pinoy5movies.net/) - Movies
 * [MoviesniPipay](https://moviesnipipay.me/) - Movies / TV
-* [Pinoyflix](https://pinoyflix.to/) - Stream / Movies / TV
-* [PinoyHD](https://www.pinoy-hd.xyz/) - Stream / Movies / TV
+* [Pinoyflix](https://pinoyflix.to/) -  Movies / TV
+* [PinoyHD](https://www.pinoy-hd.xyz/) -  Movies / TV
 
 ***
 
