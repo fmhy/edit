@@ -32,12 +32,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 ***
 
-#### EdithSeedbox
-
-`aHR0cHM6Ly9pbmRleC5lZGl0aHNlZWRib3guY29tLzowCmh0dHBzOi8vaW5kZXguZWRpdGhzZWVkYm94LmNvbS84Oi8=`
-
-***
-
 #### The Criterion Collection 
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9KazhSaklCQSNfZFROdGhVWDNMTDdPd1NhYXVxSXB3`
@@ -144,12 +138,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 #### Korean Drama Drive
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWFWRjloQXpSd3d5SzdtUDZ4bDVHbW0yay0zMmkyZWst`
-
-***
-
-#### Fanedits Drive
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9NSWtsaktqTCNzVXkydkJidjNvdTFCbFZTbzFvbmVn`
 
 ***
 
@@ -509,7 +497,7 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 #### NES Roms
 
-`aHR0cDovL3Nvam91cm5lci5tZS9mYXN0ZGwvTkVTLwpodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZHJpdmUvZm9sZGVycy8xamJnQzZZQTN0aV9BaUVHR1hEQVBvQzg0N28yZ3hXRDYKaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMEI0ZHpodUVvdkRPTVgycDRlV0ZNTWs5Nk9GVT9yZXNvdXJjZWtleT0wLXR0MVNoRlR6d19ZQUJLMzVZeV8xRmc=`
+`aHR0cDovL3Nvam91cm5lci5tZS9mYXN0ZGwvTkVTLwpodHRwOi8vd3d3Lm11c2VvOGJpdHMuZXMvbmVzL1JPTVMvCmh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzFqYmdDNllBM3RpX0FpRUdHWERBUG9DODQ3bzJneFdENgpodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZHJpdmUvZm9sZGVycy8wQjRkemh1RW92RE9NWDJwNGVXRk1Nazk2T0ZVP3Jlc291cmNla2V5PTAtdHQxU2hGVHp3X1lBQkszNVl5XzFGZw==`
 
 ***
 
