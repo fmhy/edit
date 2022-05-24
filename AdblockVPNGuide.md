@@ -109,7 +109,6 @@
 * [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/), [Rotty](https://github.com/RoseSecurity/Rotty.py) or [Safing](https://safing.io/portmaster/) - Network Monitor
 * [Waircut](https://sourceforge.net/projects/waircut/) - WPS Network Monitor
 * [Traffic Leaks Detector](https://github.com/AsenOsen/traffic_leaks_detector) - Network Leak Protection
-* [Hard_Configurator](https://hard-configurator.com/) - Software Restriction Policy Management GUI 
 * [Hardentools](https://github.com/securitywithoutborders/hardentools) - Disables Risky Windows Features
 * [Unchecky](https://unchecky.com/) - Clears Software Installation Checkboxes
 * [Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) or [DrWeb](https://free.drweb.com/) - No Install Required Antivirus
