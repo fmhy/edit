@@ -67,7 +67,6 @@
 * [Security Addon](https://github.com/huntmix/securityaddon) - Set Triggers & Measures that protect your Phone
 * [SuperFreezZ](https://superfreezz.gitlab.io/) - Freeze App Background Activities / [GitHub](https://gitlab.com/SuperFreezZ/SuperFreezZ) 
 * [SnoopSnitch](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/) - Check Mobile Network Security 
-* [FairEmail](https://play.google.com/store/apps/details?id=eu.faircode.email) - Open Source, Privacy Oriented Email for Android / [f-Droid](https://f-droid.org/packages/eu.faircode.email/)
 * [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/) - Email Forwarding
 * [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/) - Temp Mail / [GitLab](https://gitlab.com/TheOneWithTheBraid/guerrilla_mail)
 * [Private Location](https://f-droid.org/en/packages/com.wesaphzt.privatelocation/) - Hide Phone Location Permanently
@@ -127,7 +126,7 @@
 * [PhoenixOS - BR](https://discord.gg/BQ4td84) - Android Desktop OS
 * [PhoenixOS Darkmatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)
 * [ApkOnline](https://www.apkonline.net/) - Online Android Emulator / [Extension](https://chrome.google.com/webstore/detail/apkonline/lnhnebkkgjmlgomfkkmkoaefbknopmja)
-* [BlueStacks X](https://x.bluestacks.com/) - Cloud-Based Android Gaming / [Play Any Game](https://bin.disroot.org/?76603b940782c632#77xYY6mPppQ6jRLnuhQhRwPZ1rgrhGkHLnfNx8YKnz5H)
+* [BlueStacks X](https://x.bluestacks.com/) - Cloud-Based Android Gaming
 
 ***
 
@@ -150,7 +149,6 @@
 * [4G LTE Coverage](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b) - 4G LTE Coverage Map
 * [OpenStreetMap](https://github.com/westnordost/StreetComplete) - Custom Street Maps
 * [MAPS.ME](https://maps.me/) - Offline Maps / [GitHub](https://github.com/mapsme/omim)
-* [Transportr](https://transportr.app/) - Public Transport Assistant / [Github](https://github.com/grote/Transportr)
 * [AntennaSearch](http://www.antennasearch.com/) - Cell Tower & Antenna Search
 * [PhoneDB](https://phonedb.net/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones & Prices 
 * [DXOMARK](https://www.dxomark.com/) - Smartphone Quality Testing
@@ -235,7 +233,7 @@
 * [Adebar](https://codeberg.org/izzy/Adebar), [Swift Backup](https://swiftapps.org/) or [OAndBackupX](https://github.com/machiav3lli/oandbackupx) - Device Backup Tool
 * [Migrate](https://play.google.com/store/apps/details?id=balti.migrate) - Migration Tool / Root Required
 * [Unchained for Android](https://github.com/LivingWithHippos/unchained-android) - App to interact with Real-Debrid API
-* [Videoder](https://www.videoder.com/), [PowerTube](https://powertube.razar.app/) / [Git](https://github.com/razar-dev/PowerTube) or [DVD](https://github.com/yausername/dvd) - Video Download Tool 
+* [PowerTube](https://powertube.razar.app/) / [Git](https://github.com/razar-dev/PowerTube) or [DVD](https://github.com/yausername/dvd) - Video Download Tool 
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloader
 * [Show Youtube Dislikes](https://github.com/jesperbakhandskemager/view-youtube-dislike) - Return Youtube Dislikes
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
@@ -278,7 +276,6 @@
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/), [Catogram X](https://github.com/CatogramX/CatogramX) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - Telegram Client
 * [Uploadgram](https://github.com/Pato05/uploadgram-app) - Telegram File Upload
 * [icq](https://icq.com/) - Messaging App
-* [Thimble](https://www.thimbleapp.co/) - Group Messaging App
 * [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Husky](https://git.mentality.rip/FWGS/Husky) or [Tusky](https://tusky.app/) - Mastodon Client 
 * [Blabber.im](https://f-droid.org/packages/de.pixart.messenger) - XMPP / Jabber Messenger
 * [IRCCloud](https://github.com/irccloud/android) - IRC Client
@@ -984,7 +981,6 @@
 * [Guardic](https://apps.apple.com/us/app/guardic-msx/id905921949) or [ZanacMSX](https://apps.apple.com/us/app/zanac-msx/id834098690 ) - MSX Emulator
 * [Nicegram](https://nicegram.app/) - Telegram Client
 * [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - XMPP Client
-* [Thimble](https://www.thimbleapp.co/) - Group Messaging
 * [icq](https://icq.com/) - Messaging App
 * [Watusi](https://watusi.fouadraheb.com/) - Modded WhatsApp
 * [Whatspad++](https://iosninja.io/ipa-library/download-whatspad-ipa-ios) - iPad WhatsApp
@@ -1034,7 +1030,7 @@
 * [Tutubox](https://tutubox.io/) - Tweaked Apps Store 
 * [TweakBox](https://www.tweakboxapp.com/) - Alt App Store
 * [iPAGarage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ipagarage) - Community Based Tweaked/Hacked iOS App Library / [Twitter](https://twitter.com/ipagarage/)
-* [Cydia](https://cydia.saurik.com/) - App Store / [Paid Apps](https://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown) / [Updates](https://t.me/cydiaupdate) / [Share](https://sharerepo.stkc.win/)
+* [Cydia](https://cydia.saurik.com/) - App Store / [Paid Apps](https://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown) / [Updates](https://t.me/cydiaupdate)
 * [BuildStore](https://builds.io/) - App Store
 * [AppStore](https://t.me/iOSAppsFree) - Tweaked Apps
 * [AltStore](https://altstore.io/) - App Store / [Repo View](https://altsource.by.lao.sb/browse/) / [Alt Daeomon](https://repo.dynastic.co/package/altdaemon) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux)
@@ -1049,7 +1045,7 @@
 * [iPA Host](https://github.com/ipahost) - App Tweaks / Social Media’s
 * [EonHub](https://app.eonhubapp.com/) - Hacked Apps / Tweaks 
 * [Scarlet](https://usescarlet.com/) - Hacked apps / Tweaks
-* [tweakboxapp](https://next.tweakboxapp.com/) or [tweakboxapp (sideloaded)](https://sideload.tweakboxapp.com/) - App Tweaks
+* [tweakboxapp](https://next.tweakboxapp.com/) - App Tweaks
 * [iPASpot](https://ipaspot.app/) - Hacked / Tweaked iOS Apps 
 * [LocalAPStore](https://repo.hackyouriphone.org/localiapstore), [Satella](https://paisseon.github.io/) / [2](https://github.com/Paisseon/Satella/) or [My iAP Cracker](https://repo.hackyouriphone.org/myiapcracker) - In-App Purchase Mods
 * [AppSync Unified](https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified) - IPA Installation Tweak
