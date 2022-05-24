@@ -357,7 +357,6 @@
 * [MyPromoSound](https://mypromosound.com/) - Electronic / MP3
 * [ElectronicFresh](http://electronicfresh.com/) - Electronic / MP3
 * [InEvil](https://www.inevil.com/) - Electronic / MP3
-* [DQQD](https://dqqd.org/) - Electronic / MP3 / FLAC
 * [Ektoplazm](https://ektoplazm.com/) - Electronic / MP3 / FLAC
 * [1Trance](https://1trance.org/) - Trance / MP3
 * [1Techno](https://1techno.org/) - Techno / MP3
