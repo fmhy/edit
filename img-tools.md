@@ -111,7 +111,6 @@
 * [DCGAN](http://mattya.github.io/chainer-DCGAN/) - Anime Icon Generator 
 * [99 Avatars](https://99avatars.com/) - Create Doodle Avatar
 * [Girl Friend Factory](https://hiroshiba.github.io/girl_friend_factory/) or [MakeGirlsMoe](https://make.girls.moe/) - Female Anime Icon Generator 
-* [Mr. Squiggles](http://www.mrsquiggles.com/) - Animated Doodle Maker
 * [FontSVG](https://fontsvg.com/) - Convert Font, Icon, Glyph to SVG
 * [Mimi](https://mimi-panda.com/) - Create Coloring Pages from Photos
 * [Photovisi](https://www.photovisi.com/) - Photo Collage Generator 
@@ -258,7 +257,7 @@
 * [Multicolr](https://labs.tineye.com/multicolr/) - Color Based Reverse Image Search
 * [icon_finder](https://codeberg.org/cauf/icon_finder) - Search for Icons via Patterns
 * [pfps.gg](https://pfps.gg/) - Profile Picture Index
-* [OpenMoji](https://openmoji.org/) or [Sensa](https://sensa.co/emoji/) - Emojis
+* [OpenMoji](https://openmoji.org/) - Emojis
 * [PimpMyDrawing](https://pimpmydrawing.com/) - Human Silhouettes
 * [OldBookIllustrations](https://www.oldbookillustrations.com/) - Illustrations from Old Books
 * [Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Movie / TV Covers & Posters
@@ -439,10 +438,8 @@
 * [FeedInABox](https://t.me/FeedinboxBot) - Telegram Bot
 * [QIS](https://github.com/propublica/qis/) or [Instagram Search Tool](https://www.aware-online.com/en/osint-tools/instagram-search-tool/) - Search Tool 
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram Analysis
-* [SearchMy.bio](https://www.searchmy.bio/) - Bio Search
 * [Instagram-Explorer](https://www.osintcombine.com/instagram-explorer) - Explore Pictures by Location 
 * [Save Instagram](https://gist.github.com/g-rohit/f47170c8b3b302bcbe214ba624d636bc) - Enable right click / save on Instagram 
-* [InstaJust](https://www.instajust.com/) - Instagram Photo Editor & Viewer
 * [StoriesDown](https://storiesdown.com/), [anon-instastories](https://anon-instastories.online/), [instasaved](https://instasaved.net/en), [insta-stories-viewer](https://insta-stories-viewer.com/) or [StoriesIG](https://storiesig.net/) - Story Downloader
 * [InstaDP](https://www.instadp.com/) or [Instagram-crawler](https://github.com/hehpollon/Instagram-crawler) - Picture / Story Downloader 
 * [PixWox](https://www.pixwox.com/) - Story / Picture / Story Downloader
@@ -470,7 +467,7 @@
 * [Ambiguous PNG Packer](https://github.com/DavidBuchanan314/ambiguous-png-packer) - Create PNG that looks different on Apple Software
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - Blur Images / Scrub Metadata
 * [BetterCensorship](https://bc.betterrepack.com/) - Censor and De-censor Images
-* [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi), [Exif-Viewer](http://exif-viewer.com/), [metapicz](http://metapicz.com/), [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - EXIF / Metadata Viewer 
+* [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi), [Exif-Viewer](http://exif-viewer.com/), [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - EXIF / Metadata Viewer 
 * [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [MGOnline](https://www.imgonline.com.ua/delete-exif.php), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data 
 * [Pic2Map](https://www.pic2map.com/) - Image EXIF data viewer with GPS support
 * [TheExifer](https://www.thexifer.net/index.php) or [Exiv2](https://www.exiv2.org/) - Image EXIF Data Editor 
