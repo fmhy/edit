@@ -171,7 +171,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Android Operating Systems
 
-**[Android Rom List](https://github.com/musabcel/android_rom_list)**, [LineageOS](https://www.lineageos.org/), [Replicant](https://www.replicant.us/), [potatoproject](https://potatoproject.co/), [ArrowOS](https://arrowos.net/download), [CDroid](https://crdroid.net/), [HavocOS](https://sourceforge.net/projects/havoc-os/), [Corvusrom](https://www.corvusrom.com/), [BlissRoms](https://downloads.blissroms.org/), [ParanoidAndroid](https://paranoidandroid.co/), [PixelExperience](https://download.pixelexperience.org/), [Evolution-x](https://evolution-x.org/), [e.foundation](https://e.foundation/), [BeyondROM_S20](https://t.me/BeyondROM_S20), [Anarchy Droid](https://anarchy-droid.com/) / [GitHub](https://github.com/amo13/Anarchy-Droid), [ProtonAOSP](https://protonaosp.org/) / [GitHub](https://github.com/ProtonAOSP)
+**[Android Rom List](https://github.com/musabcel/android_rom_list)**, [LineageOS](https://www.lineageos.org/), [Replicant](https://www.replicant.us/), [potatoproject](https://potatoproject.co/), [ArrowOS](https://arrowos.net/download), [CDroid](https://crdroid.net/), [HavocOS](https://sourceforge.net/projects/havoc-os/), [Corvusrom](https://www.corvusrom.com/), [BlissRoms](https://downloads.blissroms.org/), [ParanoidAndroid](https://paranoidandroid.co/), [PixelExperience](https://download.pixelexperience.org/), [Evolution-x](https://evolution-x.org/), [e.foundation](https://e.foundation/), [BeyondROM_S20](https://t.me/BeyondROM_S20), [ProtonAOSP](https://protonaosp.org/) / [GitHub](https://github.com/ProtonAOSP)
 
 ***
 
@@ -282,7 +282,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Calculator Sites
 
-**[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)**, **[Omni Calculator](https://www.omnicalculator.com/)**, [RapidTables](https://www.rapidtables.com/),  [Calculator.net](https://www.calculator.net/sitemap.html), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [NumberEmpire](https://www.numberempire.com/), [Easy Calculation](https://www.easycalculation.com/), [Calculatorhut](https://www.calculatorhut.com/), [Calculation Calculators](https://calculationcalculator.com/), [calculator.net](https://www.calculator.net/)
+**[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)**, **[WolframAlpha Math](https://www.wolframalpha.com/examples/mathematics)**, **[Omni Calculator](https://www.omnicalculator.com/)**, [RapidTables](https://www.rapidtables.com/),  [Calculator.net](https://www.calculator.net/sitemap.html), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [NumberEmpire](https://www.numberempire.com/), [Easy Calculation](https://www.easycalculation.com/), [Calculatorhut](https://www.calculatorhut.com/), [Calculation Calculators](https://calculationcalculator.com/), [calculator.net](https://www.calculator.net/)
 
 ***
 
@@ -1074,7 +1074,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### M4UFree Clones
 
-[M4uFree](http://m4ufree.tv), [Streamm4u](http://streamm4u.com), [m4ufree.to](https://m4ufree.to/), [m4uhd.tv](https://m4uhd.tv/)
+[M4uFree](http://m4ufree.tv), [Streamm4u](http://streamm4u.com) / [2](https://streamm4u.ws/), [m4ufree.to](https://m4ufree.to/), [m4uhd.tv](https://m4uhd.tv/) 
 
 ***
 
