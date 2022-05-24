@@ -24,7 +24,6 @@
 * **[Future Learn](https://www.futurelearn.com/)** - Courses
 * **[Udacity](https://www.udacity.com/)** - Courses
 * **[MitOpenCourseWare](https://ocw.mit.edu/index.htm)** - Courses
-* **[CrunchLearn](https://www.crunchlearn.com/)** - Courses / [Telegram](https://t.me/joinchat/AAAAAEvVtydjvhe_w8kyPw)
 * **[Khan Academy](https://www.khanacademy.org/)** - Courses / [Downloader](https://github.com/rand-net/khan-dl)
 * **[Git.ir](https://git.ir/)** - Courses
 * **[PluralSight](https://visualstudio.microsoft.com/dev-essentials/)** - Free for 1 Month / [Decrypt Videos](https://github.com/phuonghd/Decrypt-PluralSight-Videos-GUI)
@@ -170,7 +169,6 @@
 * [DL Course](https://dlcourse.org/) - Courses
 * [btechveda](https://btechveda.in/) - Courses
 * [onlinecoursebay](https://onlinecoursebay.com/) - Courses
-* [freecoursesonline](https://www.freecoursesonline.me/?1) - Courses
 * [freecourseslab](https://www.freecourseslab.com/category/course/) - Courses
 * [freecoursessites](https://www.freecoursessites.com/course/) - Courses
 * [tut4dl](https://tut4dl.com/) - Courses
@@ -178,7 +176,7 @@
 * [technet24](https://technet24.ir/category/videos) - Courses
 * [coursedown](https://coursedown.com/) - Courses
 * [cgpersia](https://cgpersia.com/category/download/learning) - Courses
-* [downloadpirate](https://www.downloadpirate.com/tutorials/) - Courses
+* [downloadpirate](https://www.downloadpirate.com/tutorial/) - Courses
 * [Free Udacity Skillshare Coursera EDX](https://t.me/Free_Udacity_Skillshare_Coursera) 
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
 * [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - Courses
@@ -195,7 +193,6 @@
 * [FreetutsDownload.com](https://freetutsdownload.com/) - Courses / GDrive Host 
 * [iTunes U](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_itunesu_lectures) - Lectures
 * [Gurukul Soft Technology](https://www.gurukulsofttechnology.in/) - Computer Science Courses / [Telegram](https://t.me/gurukulsofttechnology)
-* [University of Waterloo](https://student.cs.uwaterloo.ca/~cs247/current/) - CS Resources / Courses
 * [Masterclass Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_masterclass_courses) or [MasterClass0](https://t.me/MasterClass0) - Masterclass Courses
 * [Mindvalley Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mindvalley_courses) - Mindvalley Courses
 * [Lynda Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_lynda_courses) or [LyndaFree](https://t.me/lyndafree)  - Lynda Courses / pw: fmhy
@@ -212,7 +209,6 @@
 * [Giga Course](https://gigacourse.com/) - Udemy Courses 
 * [Udemy 24](https://udemy24.com/) - Udemy Courses 
 * [FreeCourseWeb](http://freecourseweb.com/) - Udemy Courses 
-* [Udemycourses](https://udemycourses.me/) - Udemy Courses 
 * [CoursesForFree](https://courseforfree.net/) - Udemy Courses
 * [FreeTutorialsHub](https://www.freetutorialshub.com/) - Udemy Courses
 * [FreeCourseUdemy](https://freecourseudemy.com/) - Udemy Courses  
@@ -256,7 +252,6 @@
 * [TutsGalaxy](https://tutsgalaxy.net/) - Udemy Courses
 * [UdemyTuts](https://udemytuts.com/) - Udemy Courses 
 * [My Free Courses](http://myfreecourses.com/) - Udemy Courses   
-* [UdemyDownload](https://udemydownload.com/) - Udemy Courses
 * [TutCourse](https://tutcourse.com/) - Udemy Courses
 * [Paid Courses for Free](https://paidcoursesforfree.com/) - Udemy Courses 
 * [Online Free Course](https://www.onlinefreecourse.net/) - Udemy Courses   
@@ -320,8 +315,8 @@
 
 # ► Math
 
-* **[Awesome Math](https://github.com/rossant/awesome-math)** or [Math Resources](https://docs.google.com/document/d/1rtokzhpvkUPnymudl_ZVmfAA7H33VIyLQUpujNGwrTo/) - Math Resource Index
-* **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)** - List of interactive math sites
+* **[Awesome Math](https://github.com/rossant/awesome-math)** or [Math Resources](https://docs.google.com/document/d/1rtokzhpvkUPnymudl_ZVmfAA7H33VIyLQUpujNGwrTo/) - Math Resources
+* **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)** - List of Interactive Math Sites
 * **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - Sites with Multiple Calculators 
 * **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
 * **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) / [Paywall Bypass](https://greasyfork.org/en/scripts/437041-symbolab-pro-fixed) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_symbolab_pro) - Math Problem Solver with Steps
@@ -333,6 +328,7 @@
 * [Weboasis Convert](https://weboasis.app/convert/) - Conversion Calculators
 * [PecentageTools](https://percentagetools.com/) or [CalcPercentage](https://calcpercentage.com/) - Percentage Calculators
 * [FractionCalc](https://fractionscalc.com/) - Fraction Calculator
+* [Matrix Multiplication](http://matrixmultiplication.xyz/) - Matrix Multiplication Calculator
 * [Unit Conversion](https://conversao.net/eng/), [Quick Convert](https://www.microsoft.com/p/app/9wzdncrdm7gt), [UnitConverters](https://www.unitconverters.net/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converter 
 * [Derivative Calculator](https://www.derivative-calculator.net/) - Derivative Calculator
 * [Integral Calculator](https://www.integral-calculator.com/) - Integral Calculator
@@ -494,7 +490,6 @@
 * [Dong Chinese](https://www.dong-chinese.com/) - Chinese Lessons
 * [The Chairman's Bao](https://www.thechairmansbao.com/) - Chinese Reading Practice / News Articles
 * [Pleco](https://www.pleco.com/) - Chinese Flashcards & Dictionary
-* [Popup Chinese](http://www.popupchinese.com/tools/adso) - Chinese Learning Tools
 * [YellowBridge](https://www.yellowbridge.com/) - Chinese Learning Tools
 * [Mandarin Chinese](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mandarin_chinese) - Mandarin Chinese Learning Books
 * [Chinese Flashcards](http://www.chineseflashcards.io/) - Chinese Flashcards
@@ -584,7 +579,6 @@
 * [Catma](https://catma.de/) - Research Markup & Analysis Tool
 * [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips) - Latex Research Paper Tips
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
-* [TimeLY](https://github.com/noahweasley/TimeLY) - University Activity & Class Tracker
 * [Stublio](https://stublio.com/) or [Studify](https://github.com/cmcodes1/Studify) - Keep Track of what you're Studying 
 * [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - Educational Communication / iOS
 * [Note Garden](https://notegarden.web.app/), [2](https://notegarden.io/) - Note Taking & Auto Courses
@@ -676,6 +670,7 @@
 * [quantum](https://play.google.com/store/apps/details?id=brychta.stepan.quantum_en) - Quantum Physics Learning App 
 * [Modern / Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps) - Map Resources
 * [Histography](https://histography.io/) - History Timeline
+* [The Food Timeline](https://www.foodtimeline.org/) - Food History Timeline
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [Eylenburg](https://eylenburg.github.io/) - Infographs, Maps & Papers
 * [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/) or [Map Quiz](https://planemad.github.io/map-quiz/) - Geography Quizzes 
