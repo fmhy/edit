@@ -47,7 +47,6 @@
 
 ## Porn Sites
 
-* **[Pornhub Premium](https://saidit.net/s/freemediafuckyeah/wiki/base64#wiki_pornhub_premium)** - Premium Pornhub Apk / Use [Emulator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators) for PC / Mac
 * [Porn App](https://porn-app.com/) - Android Porn App / [Discord](https://discord.com/invite/XRjPBGa)
 * [Ceporn](https://www.ceporn.net/) 
 * [sxyprn](https://www.sxyprn.com/) 
