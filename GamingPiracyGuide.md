@@ -43,7 +43,6 @@
 * [DarkSoftware](https://darksoftware.net/)
 * [SohaibXtreme](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sohaibxtreme) 
 * [LegendaryRepacks](https://discord.gg/RUSNHSk) - Universal Bypass Required
-* [ABrokeGamer](https://www.abrokegamer.com/)
 * [LiGHT Repack Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_light_repack_archive)
 * [silentycrying's Game Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_silentycrying.27s_game_drive) 
 * [DLFox](https://www.dlfox.com/)
@@ -162,7 +161,6 @@
 * [RomsFun](https://romsfun.com/) - Roms
 * [FreeRoms](https://www.freeroms.com/) - Roms
 * [/1CC/](https://8kun.top/1cc/index.html) - Roms / [Discord](https://discord.com/invite/Y4dSzbXNau)
-* [NanoRoms](https://nanoroms.com/) - Roms
 * [DaRoms](http://daroms.com/) - Roms 
 * [Arcade Punks](https://www.arcadepunks.com/) - Roms
 * [CDRomance](https://cdromance.com/) - Roms
@@ -300,7 +298,8 @@
 * [Sega Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sega_roms) - Roms / Sega
 * [Old-Games.com](https://www.old-games.com/) - Roms / PC / Amiga
 * [lemon64](https://www.lemon64.com/), [whdload](https://www.whdload.de/), [lemonamiga](https://www.lemonamiga.com/), [exotica](http://www.exotica.org.uk/) or [hol abime](https://hol.abime.net/) - Amiga / Commodore64 Roms
-* [AtariMania](http://www.atarimania.com/index.html) - Emulators / Roms / Atari Consoles
+* [AtariMania](http://www.atarimania.com/index.html) - Roms / Emulators  / Atari Consoles
+* [World of Spectrum](https://worldofspectrum.org/) - Roms / Emulators / Sinclair ZX Spectrum
 * [MagiPack](https://www.magipack.games/) - Retro Games 
 * [/1CC/](https://8kun.top/1cc/index.html) - Retro Games / [Discord](https://discord.com/invite/Y4dSzbXNau)
 * [Zombs-Lair](https://www.zombs-lair.com/) - Retro Games
@@ -404,7 +403,6 @@
 * [FOG](https://www.freeonlinegames.com/) 
 * [RoundGames](https://www.roundgames.com/)
 * [Radon Games](https://radon-games.glitch.me/)
-* [NotFlash](http://notflash.com/)
 * [2amGames](http://www.2amgames.com/)
 * [Untly](https://www.untly.com/)
 * [N-Arcade](https://n-arcade.io/) 
@@ -563,7 +561,6 @@
 * [Haxball](https://www.haxball.com/) - Physics Based Soccer
 * [Powerline.io](http://powerline.io/) or [Games 1729](https://www.games1729.com/serpentron/) - Snake
 * [Bonk](https://bonk.io/) - Multiplayer Physics Game
-* [RoboStorm](https://robostorm.io/) - Robot Battle Game 
 * [GPRO](https://www.gpro.net/gb/gpro.asp) - F1 Manager Game
 * [Miniconomy](https://www.miniconomy.com/) - Economy Game
 * [eWordChallenge](https://www.ewordchallenge.net/) - Boggle
