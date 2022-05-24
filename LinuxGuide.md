@@ -397,6 +397,7 @@
 * [Pictogram](https://pictogramapp.com/) or [IconChamp](https://www.macenhance.com/iconchamp.html) - Custom App Icons
 * [IconSet](https://github.com/tale/iconset) or [IconChamp](https://www.macenhance.com/iconchamp.html) - Custom System Icons
 * [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - MacOS Dynamic Wallpaper App
+* [wallpapper](https://github.com/mczachurski/wallpapper) - Dynamic Wallpaper Creator
 * [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) - Automatically Switch System Theme
 * [OldSchoolOS](https://www.oldschoolos.com/) - Old MacOS ISOs
 * [Bootcamp Drivers](https://bootcampdrivers.com/) - Mac Bootcamp AMD Drivers
