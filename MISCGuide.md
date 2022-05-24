@@ -243,8 +243,9 @@
 * [Human Benchmark](https://humanbenchmark.com/) - Brain Games & Cognitive Tests 
 * [David.li](http://david.li/) - Physics Games
 * [DriveMeInsane](http://drivemeinsane.com/) - Control a Home Automation System 
+* [Status.Cafe](https://status.cafe/) - Share Current Status
 * [LooksLikeYouNeedIceland](https://lookslikeyouneediceland.com/) or [JUST SCREAM!](https://justscream.baby/) - Scream Into the Universe 
-* [VentScape](https://www.ventscape.life/) - Speak into a Void 
+* [VentScape](https://www.ventscape.life/) - Speak into a Void
 * [The Nicest Place](https://thenicestplace.net/) - Internet Hugs
 * [Dazzle](https://workingbuild.herokuapp.com/) - Virtual Chat, Video & Drawing World
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
@@ -297,6 +298,7 @@
 * [Super Forumula](https://superformula.club/) - Shape Creation Tool 
 * [Flame Reactor](https://flamereactor.com/) - Fractal Flame Collaborative Generator
 * [JacksonPollock](https://www.jacksonpollock.org/) - Splatter Painting / Click to Change Color
+* [HotGlue](https://hotglue.me/) - Emoji Painting
 * [paint.wtf](https://paint.wtf/) - Have an AI Judge your Art 
 * [ArtVote](https://artvote.net/) - Judge Art
 * [MakePrintPlay](https://makeprintplay.com/) or [XWords](https://www.xwords-generator.de/en) - Crossword Puzzle Creator
@@ -526,6 +528,7 @@
 * [Flat.Social](https://flat.social/f/hn-virtual-xmas) - Virtual Christmas Party
 * [The.Matrix-ASCII](http://takeovertheworld.org/matrix/) - The Matrix Encoded in Text
 * [sCandyBars](https://scandybars.com/) - Candy Bar Photo Blog
+* [SnackData](https://snackdata.com/) - Snack Info Database
 * [Matchbox Dan](https://matchbox-dan.com/) - Matchbox Car Picture Archive
 * [ASCIIMATION](http://www.asciimation.co.nz/) - Star Wars ASCII Animation
 * [Vim Cubed](https://github.com/oakes/vim_cubed) - Generate Cube Vim Text Editor
