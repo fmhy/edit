@@ -151,7 +151,7 @@
 * [Writemonkey](http://writemonkey.com/) or [WriteNext](https://www.writenext.io/) - Distraction Free Writing App
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
 * [Calculist](https://calculist.io/) - Note Taking for Problem Solving
-* [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [App linked](https://uselinked.com/) / [GitHub](https://github.com/lostdesign/linked) or [journal-cli](https://v1.journalcli.app/) - Journal App
+* [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [App linked](https://uselinked.com/) / [GitHub](https://github.com/lostdesign/linked), [Gemlog](https://gemlog.blue/) or [journal-cli](https://v1.journalcli.app/) - Journal App
 * [Nute](https://nute.app/) - Quickly Make & Save Text Files
 * [Lyx](https://www.lyx.org/) - LaTeX Editor / [Guide](https://www.learnlatex.org/)
 * [Detexify](http://detexify.kirelabs.org/classify.html) - Handwritten LaTeX Symbol Recognition
@@ -209,7 +209,6 @@
 * [MakeSweet](https://makesweet.com/) - Send 3D Messages
 * [Cryptii](https://cryptii.com/) - Modular Conversion, Encoding & Encryption
 * [dCode](https://www.dcode.fr/en) - Message Decoders
-* [InfoEncrypt](https://www.infoencrypt.com/)  - Encrypt / Decrypt Text 
 * [StegCloak](https://stegcloak.surge.sh/) - Hide Messages in Text
 * [telescopictext](https://www.telescopictext.org/) - Write Text Within Text
 * [Universal Online Cyrillic Decoder](https://2cyr.com/decode/?lang=en) - Decode / Recover Scrambled Text into Cyrillic
@@ -353,7 +352,6 @@
 * [NATRON](https://natrongithub.github.io/) - Compositing Software
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets
 * [Motion Den](https://motionden.com/), [Lumen5](https://lumen5.com/) or [VideoCreek](https://videocreek.com/) - Video Template Editor
-* [Vidlogo](https://vidlogo.com/) - Add Watermark to Video
 * [Beatflyer](https://beatflyer.com/) - Video Flyer Generator
 * [Footage](https://footage.app/) - Create Advertisement Videos
 * [MKVToolNix](https://www.matroska.org/downloads/mkvtoolnix.html) - MKV Editing Tools 
@@ -627,6 +625,7 @@
 * [AngelLIst](https://angel.co/) - Startup Community
 * [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites  
 * [namelix](https://namelix.com/) - Business Name Generator
+* [Business Card Generator](https://business-card-generator.vercel.app/) - Generate Business Cards 
 * [learn-to-cloud](https://learntocloud.guide/) - Cloud Computing Fundamentals / [GitHub](https://github.com/learntocloud/learn-to-cloud)
 * [Cyberseek](https://www.cyberseek.org/index.html) - Cybersecurity Job Market Info
 * [Candor](https://candor.co/hiring-freezes/) - Hiring Freezes
@@ -1011,7 +1010,6 @@
 * [qrvn.cc](http://qrvn.cc/) - `qrvn.cc/Zzue41i`
 * [Shrinke.me](https://shrinke.me/) - `shrinke.me/1OpB2`
 * [Rebrandly](https://www.rebrandly.com/) - `rb.gy/4m25hq` / [Extension](https://mybrowseraddon.com/g-url-shortener.html)
-* [bhyi](https://bhyi.tk/) - `bhyi.tk/fmhy`
 * [lnks.tools](https://lnks.tools/) - `lnks.tools/wEASMD`
 * [zws](https://zws.im/) - `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
 * [u.nu](https://u.nu/) - `u.nu/5nhzi`
@@ -1085,7 +1083,7 @@
 * [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/) or [Nuxtit](https://nuxtit.netlify.com/) - Alt Browsers / Web Clients
 * [Reddit Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_frontends)
 * [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466-unedit-and-undelete-for-reddit) - See Edited & Deleted Reddit Content
-* [Reddit-Search](https://camas.github.io/reddit-search/), [Unddit](https://www.unddit.com/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - View Deleted Reddit Posts
+* [Unddit](https://www.unddit.com/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - View Deleted Reddit Posts
 * [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - View Deleted Reddit Comments 
 * [rareddit](https://www.rareddit.com/), [Archive Reddit](https://www.archivereddit.com/), [PushShift Reddit](http://files.pushshift.io/reddit/) or [Reddit Archive](http://www.redditarchive.com/) - Reddit Post Archive 
 * [Reddit (Au) Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlights New Comments
@@ -1186,7 +1184,7 @@
 * [LAN Party VPN](https://github.com/gyf304/lpvpn) - Run VPN on top of Discord
 * [DiscordFS](https://github.com/dhrumilp15/discordfs) - Discord File Search
 * [DeepL](https://github.com/aisuzuki/dd-bot) - Discord Chat Auto Translator
-* [TwitFix](https://fxtwitter.com/) or [discord-twitter-bot](https://github.com/NNTin/discord-twitter-bot) - Fix Discord Twitter Embeds / [GitHub](https://github.com/robinuniverse/twitfix)
+* [discord-twitter-bot](https://github.com/NNTin/discord-twitter-bot) - Fix Discord Twitter Embeds
 * [Get Discord Token](https://greasyfork.org/en/scripts/395741-get-discord-token) - Retrieve Discord user token
 * [PreMiD](https://premid.app/) - Display internet activity in Discord status / [Github](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.gg/WvfVZ8T) 
 * [Alternatives to MEE6](https://alternativestomee6.com/) - [Discord](https://discord.gg/WrbMdWHfNd) 
@@ -1198,6 +1196,7 @@
 * [FreeStuff Bot](https://freestuffbot.xyz/) / [GitHub](https://github.com/FreeStuffBot/discord), [game-deals-discord-bot](https://github.com/lipowskm/game-deals-discord-bot) or [AutomatiK](https://github.com/Axyss/AutomatiK) / [Discord](https://discord.gg/psDtnwX) - Free Games Alert Bot
 * [DiscordChroma](https://github.com/DELUUXE/DiscordChroma) or [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Discord System Lighting Control
 * [Permissions Calculator](https://discordapi.com/permissions.html) - Generate Discord OAuth Invites
+* [Wickbot](https://wickbot.com/) - Discord Security Bot
 * [Modmail](https://github.com/kyb3r/modmail) - Discord Modmail Bot 
 * [CloneCord](https://github.com/Rekulous/CloneCord-bot) - GClone Cloud Storage File Manager in Discord
 * [Custom Rich Discord Presence](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_custom_rich_discord_presence) - Customize Discord Rich Presence 
@@ -1273,7 +1272,7 @@
 * [ddpe](https://ddpe.androz2091.fr/) - Discord Data Package Explorer / [GitHub](https://github.com/Androz2091/discord-data-package-explorer)
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the JS files
 * [Discord Previews](https://discord.gg/QMw7gQGMHj) - New Discord Builds / Changes
-* [Discord.sale](https://discord.sale/), [2](https://builds.discord.sale/) - Discord Client Build Info
+* [Discord.sale](https://discord.sale/) - Discord Client Build Info
 * [discasset](https://github.com/Commandtechno/discasset), [2](https://gitlab.com/derpystuff/discasset) - Discord Asset Grabber
 * [BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - Bot Messaging Panel
 * [Figma](https://www.figma.com/community/file/992144378612759941/Discord-Resources) - Discord Resources / [Desktop](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)
@@ -1363,7 +1362,6 @@
 * [myTube](https://github.com/keitharm/mytube) - Bloat Free YouTube Client
 * [YouTube_RSS](https://github.com/SimonDaNinja/youtube_rss) - YouTube RSS Client
 * [Ytfzf](https://github.com/pystardust/ytfzf) - Watch YouTube via the Terminal 
-* [YouTube Skip Intro](https://chrome.google.com/webstore/detail/youtube-skip-intro/pkfnooichbjhhoajcoffiggbckfbflbg) - Skip YouTube Intros
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
 * [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - YouTube to GIF 
 * [VideoGlancer](https://videoglancer.com/) - YouTube to PDF
@@ -1405,7 +1403,6 @@
 * [YouTube Watch Time Counter](https://chrome.google.com/webstore/detail/youtube-watch-time-counte/fpoooibdndpjcnoodfionoeakeojdjaj) - Track Time Spent on YouTube
 * [BlockTube](https://github.com/amitbl/blocktube) - YouTube Content Blocker
 * [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Remove YouTube Thumbnails / Title Capitalization
-* [Trash Youtube Recommendations](https://chrome.google.com/webstore/detail/trash-youtube-recommendat/dkomodiphnbnnfaokdokdjejjgafoffi) - Removes YT Recommendations
 * [RegretsReporter](https://foundation.mozilla.org/en/campaigns/regrets-reporter/) - Report Regrettable YouTube Recommendations 
 * [YT Not Interested Button on Hover](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Easily Display Not Interested Button
 * [RapidTags](https://www.rapidtags.io/) or [CommunityTags](https://www.communitytags.app/) - YouTube Tag Generator
@@ -1552,7 +1549,7 @@ Twitch Stream Tracker
 * [Social Tools](https://chrome.google.com/webstore/detail/facebook-block-read-recei/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) or [Unseen Message](https://chrome.google.com/webstore/detail/unseen-message/oapcfkclledjbalilncpoimgjgcndhdo) - Block "Sending" & "Seen" Facebook Chat Indicators 
 * [Messenger Dark Theme](https://github.com/jerry1100/messenger-dark-theme) or [Charcoal Dark Mode](https://chrome.google.com/webstore/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - Facebook Messenger Dark Mode
 * [Facedown](http://www.vincentcheung.ca/facedown/) - Facebook Image Downloader
-* [FDown](https://fdown.net/), [GetFVid](https://www.getfvid.com/), [Swift Video](https://chrome.google.com/webstore/detail/swift-video-downloader-fo/lfhfpakapoeodnooibncpipemmgbdnng) or [Facebook DL](https://github.com/sdushantha/facebook-dl) - Facebook Video Downloader
+* [FDown](https://fdown.net/), [GetFVid](https://www.getfvid.com/) or [Facebook DL](https://github.com/sdushantha/facebook-dl) - Facebook Video Downloader
 * [Story Saver](https://chrome.google.com/webstore/detail/story-saver/mafcolokinicfdmlidhaebadidhdehpk) - Facebook Story Downloader
 * [Caprine](https://sindresorhus.com/caprine/) - Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)
 * [ChatSilo](https://chatsilo.com/) - Mini Facebook Messenger CRM
@@ -1860,7 +1857,6 @@ Twitch Stream Tracker
 * [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) or [Reinstall PReinstalled](http%3A%2F%2Fgo.microsoft.com%2Ffwlink%2F%3FLinkId%3D619547&v=EQo53hvWy8Q) / [Guide](Guide: https://youtu.be/EQo53hvWy8Q) - Add Microsoft Store to Windows
 * [Vantage](https://rentry.co/lenbian) - Lenovo Vantage Without MS Store
 * [Edgeuninstaller](https://rentry.org/uninstalledge) - Completely Uninstall Microsoft Edge
-* [Windows on Raspberry](https://www.worproject.ml/) - Windows for Raspberry Pi
 * [amogOS](https://github.com/jostroOS/amogOS) - Rasberry Pi OS
 * [Raspberry Pi 4 Bootloader USB Mass Storage Boot Guide](https://jamesachambers.com/new-raspberry-pi-4-bootloader-usb-network-boot-guide/) - How-to Boot Raspberry Pi from USB
 * [Awesome Raspberry Pi](https://rpi.thibmaek.com/) - Rasberry Pi Resources / [GitHub](https://github.com/thibmaek/awesome-raspberry-pi)
@@ -2063,7 +2059,7 @@ Twitch Stream Tracker
 * [Awesome-IPFS](https://github.com/ipfs/awesome-ipfs) - IPFS Resource Index 
 * [IPFS Desktop](https://github.com/ipfs/ipfs-desktop) or [Orion](https://orion.qm64.tech/) - IPFS Desktop Client
 * [IPFS Cluster](https://cluster.ipfs.io/) - Automated data availability and redundancy on IPFS
-* [AutoRclone](https://drive.google.com/file/d/11yrXPUfWEP6bAeIw0fibjr-JxeWa-1Da/) - Create Google Service Accounts for RClone / [GitHub](https://github.com/xyou365/AutoRclone) / [Colab](https://github.com/Rekulous/AutoRClone-Colab), [2](https://colab.research.google.com/github/Rekulous/AutoRClone-Colab/blob/main/AutoRClone.ipynb)
+* [AutoRclone](https://github.com/Rekulous/AutoRClone-Colab), [2](https://colab.research.google.com/github/Rekulous/AutoRClone-Colab/blob/main/AutoRClone.ipynb) - Create Google Service Accounts for RClone / [GitHub](https://github.com/xyou365/AutoRclone)
 * [RcloneBrowser-Portable](https://github.com/MinorMole/RcloneBrowser-Portable) - Portable Rclone Browser
 * [EasyClone](https://github.com/xd003/easyclone) - Improved RClone Operations Script
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - HTTP File System
