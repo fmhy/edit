@@ -206,9 +206,10 @@
 * [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students 
 * [Libera Chat](https://libera.chat/) - IRC Network for Project Collaboration
 * [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/)  - Developer Forum 
+* [Tech-Blogs](https://tech-blogs.dev/) - Blogs for Developers
 * [The Devs Network](https://thedevs.network/) - Developer Chat
 * [StackShare](https://stackshare.io/) - Tech Stack Collaboration
-* [mark.show](https://mark.show/) or [sli.dev](https://sli.dev/) - Markdown to Slideshow
+* [sli.dev](https://sli.dev/) - Markdown to Slideshow
 * [Volume](https://www.volumestories.com/) - Create Immersive Reading Experiences
 * [daily.dev](https://daily.dev/) - Replace New Tab Page with Developer Articles 
 * [Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites) - Download Icons for Projects
@@ -216,7 +217,6 @@
 * [Favicon Maker](https://formito.com/tools/favicon) or [react favicon](https://react-favicon.com/) - Create Favicons
 * [Laws of UX](https://lawsofux.com/) - Maxims / Principles for UI Designers 
 * [UI Coach](https://uicoach.io/) - UI Design Challenge Generator
-* [Resources Index](https://babiato.co/threads/design-resources-for-developers-800.65591/#post-737335) - Design Patterns
 * [HTML Dog](https://htmldog.com/) - Front End Tutorials & Examples
 * [Responsively](https://responsively.app/) - Responsive Dev Design Tool
 * [the component gallery](https://component.gallery/) - Design Components Gallery
