@@ -127,7 +127,6 @@
 * [Apps4All](https://www.apps4all.com/ ) - Video / Books / Software / Games / Android
 * [Katz DDL](https://katzddl.net/) - Video / Audio / Books / Games / Android / NSFW
 * [BadshahUploads](https://badshahuploads.xyz/) - Video / Audio / Software / Games / Books / Leech Required 
-* [de.ddl](https://en.ddl.me//) - Video / Games / Books
 * [The Ambassador](https://ambassadorddl.site/) - Video / Games / Books
 * [sarzamindownload](https://www.sarzamindownload.com/) - Software / Games / Android 
 * [FrostClick](https://www.frostclick.com/wp/) - Video / Audio / Software / Games / Books 
@@ -205,7 +204,6 @@
 * [msdn.hackerc](https://msdn.hackerc.at/)  
 * [Cyberspace](https://cyberspace.world/)
 * [4Download](https://www.4download.net/) 
-* [Softwares 2 U](https://www.softwares2u.com/) 
 * [SoftFamous](https://softfamous.com/) 
 * [onHax](https://onhax.io/)
 * [MAZTERIZE](https://www.mazterize.com/) 
