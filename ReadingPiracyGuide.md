@@ -74,7 +74,7 @@
 * [Project Gutenberg](https://www.gutenberg.org/) - Historical / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html)
 * [Archive.org](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Borrow Only Bypass](https://i.imgur.com/y7Vl9rd.png)
 * [English-Bookys](https://english-bookys.com/) - Books / Magazines / Newspapers / Comics
-* [The Library](https://discord.gg/mSyFJz9), [The Bookwyrm's Bower](https://discord.gg/wTf7rs77rF) or [The Great E-Library](https://discord.gg/efBxSuz) - Book Discord Servers 
+* [The Library](https://discord.gg/mSyFJz9) or [The Great E-Library](https://discord.gg/efBxSuz) - Book Discord Servers 
 * [EBOOKS SET 2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ebooks_set_2) - Books / Drive
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines 
 * [ebook3000.co](https://www.ebook3000.co/) - Books / Magazines / NSFW
@@ -868,7 +868,6 @@
 * [Mangaski](https://www.mangasaki.com/)
 * [KissManga](https://kissmanga.in/)
 * [Manhwafull](https://manhwafull.com/)
-* [Free Manga Hub](https://freemangahub.com/)
 * [247Manga](https://247manga.com/) 
 * [DeathTollScans](https://www.deathtollscans.net/)
 * [Manga Rock](https://mangarock.to/)
