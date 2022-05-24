@@ -118,7 +118,6 @@
 * [MovieHunters](https://movieshunters.com/) - Movies / TV
 * [Dogeflix](https://dogeflix.net/) - Movies / TV 
 * [Sauflix](https://www.sauflix.com/) - Movies / TV
-* [CMovies](https://cmovies.is/) - Movies / TV / Anime
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
 * [YesHD](https://yeshd.net/) - Movies / TV
 * [Swatchfree](https://swatchfree.in/) - Movies / TV
@@ -250,7 +249,7 @@
 * [MyRM](https://myrunningman.com/) - My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)
 * [No-Laughing Batsu Game List](https://redd.it/2fgm9p) 
 * [cytube](https://cytu.be/) - TV / Chat
-* [ScrubTV](https://reboot.tube/), [2](https://hidden.pm/) - TV / Chat
+* [ScrubTV](https://reboot.tube/) - TV / Chat
 * [VaughnLive](https://vaughn.live/browse/misc) - TV / Chat
 * [Baked](http://baked.live/) - TV / Chat
 
@@ -484,7 +483,6 @@
 * [Cricfree](https://cricfree.pw/), [2](https://cricfree.io/) - Sports
 * [Crickfree.tv](http://crickfree.be/) - Sports
 * [SportsOnline](https://sportsonline.to/) - Sports
-* [VIPBoxTV](https://www.vipboxtv.se/) - Sports
 * [BestNHL](https://www.bestnhl.com/) - Sports
 * [MARKKY](https://markkystreams.com/) - Sports
 * [TheHomeSports](https://thehomesport.com/) - Sports 
@@ -624,7 +622,6 @@
 * [MoviesVerse](https://moviesverse.me/) - Movies / TV / [Telegram](https://t.me/MoviesHomeOFFICIALS)
 * [FreeDriveMovie](https://www.freedrivemovie.com/) - Movies / TV
 * [HDMovieArea](https://hdmoviearea.live/genre/dual-audio/) - Movies / TV
-* [TheMoviesFlix](https://themoviesflix.com.ph/category/english-movies/) - Movies / TV
 * [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)
 * [Movies Mobile](https://mobilemovies.info/index.php?dir=Hollywood%20Movies) - Movies
 * [SeriesVault](https://seriesvault.tk/) - TV
@@ -680,7 +677,6 @@
 * [TvShows4Mobile](https://tvshows4mobile.com/) - TV / Anime
 * [OlaMovies](https://olamovies.pro/) - HD Movies / TV / [Telegram](https://t.me/olamovies_official)
 * [UHDMV](https://uhdmv.org/) - HD Movies / TV
-* [Bluray.ID](https://www.bluray.id/) - HD Movies / TV
 * [Blu-Ray.world](https://blu-ray.world/) - HD Movies / TV
 * [4K HDR](https://4k-hdr.org/) - HD Movies / TV
 * [4k-hd.club](https://4k-hd.club/) - HD Movies
@@ -698,7 +694,6 @@
 * **[50TB Mega Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_50tb_mega_drive)** - Movies 
 * **[The Criterion Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_criterion_collection)** - Movies
 * **[Rek's Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive)** - Movies / Anime
-* [EdithSeedbox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_edithseedbox) - Movies / TV / [Login](https://pastebin.com/bQkQpee4) / [Telegram](https://t.me/EdithSeedBox)
 * [Torrent2Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_torrent2drive) - Movies / TV / [Telegram](https://t.me/torrent_2_drive)
 * [Media](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_media) - Movies / TV / Anime 
 * [IMDb Top 250](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_imdb_top_250) - Movies
@@ -718,7 +713,6 @@
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_indexes) - Movies / TV
 * [Play Rdp](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_play_rdp) - Korean Drama / [Discord](https://discord.com/invite/fpnvKDw)
 * [Korean Drama Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_korean_drama_drive) - Korean Drama
-* [Fanedits Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_fanedits_drive) - Fan Edited Movies
 * [Guide to finding fanedits](https://redd.it/nd8z20) - How-to Find Fan Edits
 
 ***
