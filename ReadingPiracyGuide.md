@@ -999,6 +999,7 @@
 * [ENMagazine](https://t.me/enmagazine) - Telegram
 * [Magazines4U](https://t.me/Magazines4U) - Telegram 
 * [newspaper_archive](https://t.me/newspaper_archive) - Telegram
+* [BookCrushNewsstand](https://t.me/BookCrushNewsstand) - Telegram / [Bot](https://t.me/BookCrushNewsstandBot)
 * [WhatsNws](https://t.me/whatsnws) - Telegram
 * [World Mags](https://www.worldmags.net/)
 * [PDF Dude](https://pdfdude.com/) 
@@ -1036,6 +1037,7 @@
 * **[Newspapers Magazines](https://t.me/newspapersmagaziness)** - Telegram 
 * [Burlesco](https://burles.co/en/) - Bypass the paywall on online newspapers
 * [WhatsNws](https://t.me/whatsnws) - Telegram
+* [BookCrushNewsstand](https://t.me/BookCrushNewsstand) - Telegram / [Bot](https://t.me/BookCrushNewsstandBot)
 * [Sanet.st](https://sanet.st/newspapers/)
 * [Elephind](https://www.elephind.com/) - Historical Newspaper Search
 * [EngNewspapers](https://vk.com/engnewspapers) - Telegram
