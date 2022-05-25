@@ -62,10 +62,10 @@
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "Books / Comics / Magazines"
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - ctrl+f and type "Books / Comics / Magazines"
 * **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics
-* **[Calibre](https://calibre-ebook.com/)** - E-Book Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools)
+* **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools)
 * **[Library Genesis](http://libgen.rs/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools)
 * **[Z-Library](https://z-lib.org/)** - Books / Comics / Educational / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_tools) / [Removed Books](https://t.me/firstlibrarybot)
-* **[eBookHunter](https://ebook-hunter.org/)**, [2](https://ebookchasseur.com/) - Books / Comics
+* **[eBookHunter](https://ebook-hunter.org/)** - Books / Comics
 * **[ebook3000](http://www.ebook3000.com/)** - Books / Audiobooks / Comics / Magazines / Newspapers
 * **[Telegram Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - Telegram Book Channels
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - Books
@@ -439,7 +439,7 @@
 * [TextBookGo](http://textbookgo.com/) - TextBooks
 * [Saylor](https://www.saylor.org/books/) - Textbooks
 * [Wikibooks](https://en.wikibooks.org/) - Open-Content Texbooks
-* [PowerInBooks](https://powerinbooks.xyz/temp/) or [ch36650lut10n5](https://www.ch36650lut10n5.com/) - Textbook Solutions 
+* [PowerInBooks](https://powerinbooks.xyz/temp/) - Textbook Solutions 
 * [LearnCreative](https://learncreative.net/) - IIT, JEE, NEET & AIIMS Material 
 * [JEENEETBooks](https://www.jeeneetbooks.in/) - IIT, JEE & NEET Material
 * [ck12](https://www.ck12.org/)- Interactive CK-12
@@ -569,7 +569,7 @@
 * [Flavio Copes](https://flaviocopes.com/page/ebooks/) 
 * [Free Ebooks Download List](https://free-ebook-download-links.blogspot.com/) 
 * [EbookFoundation Programming Books](https://github.com/EbookFoundation/free-programming-books/) 
-* [Free-Python-Books](https://github.com/oddsun/Free-Python-Books) or [free-python-books](https://github.com/pamoroso/free-python-books)
+* [free-python-books](https://github.com/pamoroso/free-python-books)
 * [ApressOpen](https://www.apress.com/us/apress-open/apressopen-titles) - Computer Science 
 * [Veed](http://mqala.co.za/veed/) - Computer Science
 * [AllITBooks](https://allitbooks.net/) - Computer Science
