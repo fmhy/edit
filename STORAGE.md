@@ -740,7 +740,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Game Engines
 
-[Godot](https://godotengine.org/), [Defold](https://defold.com/), [Cave Engine](https://unidaystudio.itch.io/cave-engine), [Engine Bevy](https://bevyengine.org/), [OpenXRay](https://github.com/OpenXRay), [ursina engine](https://www.ursinaengine.org/), [cryengine](https://www.cryengine.com/) / [GitHub](https://github.com/CRYTEK/CRYENGINE), [stride3d](https://www.stride3d.net/) / [GitHub](https://github.com/stride3d/stride), [armory3d](https://armory3d.org/) / [GitHub](https://github.com/armory3d/armory), [torque3d](https://torque3d.org/) / [GitHub](https://github.com/TorqueGameEngines/Torque3D), [Torque2D](https://github.com/TorqueGameEngines/Torque2D), [cocos](https://www.cocos.com/en/) / [GitHub](https://github.com/cocos2d/cocos2d-x), [starling](https://gamua.com/starling/) / [GitHub](https://github.com/Gamua/Starling-Framework), [AtomicGameEngine ](https://github.com/AtomicGameEngine/AtomicGameEngine)
+[Godot](https://godotengine.org/), [Defold](https://defold.com/), [Cave Engine](https://unidaystudio.itch.io/cave-engine), [Engine Bevy](https://bevyengine.org/), [OpenXRay](https://github.com/OpenXRay), [ursina engine](https://www.ursinaengine.org/), [cryengine](https://www.cryengine.com/), [stride3d](https://www.stride3d.net/) / [GitHub](https://github.com/stride3d/stride), [armory3d](https://armory3d.org/) / [GitHub](https://github.com/armory3d/armory), [torque3d](https://torque3d.org/) / [GitHub](https://github.com/TorqueGameEngines/Torque3D), [Torque2D](https://github.com/TorqueGameEngines/Torque2D), [cocos](https://www.cocos.com/en/) / [GitHub](https://github.com/cocos2d/cocos2d-x), [starling](https://gamua.com/starling/) / [GitHub](https://github.com/Gamua/Starling-Framework), [AtomicGameEngine ](https://github.com/AtomicGameEngine/AtomicGameEngine)
 
 ***
 
@@ -1558,7 +1558,6 @@ Add the following commands to a search to manually scrape each site.
 * https://aulete.com.br/
 * https://www.lexico.pt/
 * https://www.dicio.com.br/
-* https://www.dicionarioweb.com.br/
 * https://dicionariocriativo.com.br/
 * https://www.significados.com.br/
 * https://www.significadosesinonimos.com.br/
