@@ -211,6 +211,7 @@
 * [Rom Pack](https://www.ROMspack.com/) - ROMs
 * [NoPayStation](https://nopaystation.com/) or [PSNDL](https://psndl.net/) - ROMs / Sony Consoles
 * [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
+* [NSWDB](http://www.nswdb.com) - Switch Release Tracker
 * [HiddenPalace](https://hiddenpalace.org/) - Game Development Media Archive
 * [Dat-O-Matic](https://datomatic.no-intro.org/index.php) - ROM Datasets
 * [pret](https://github.com/orgs/pret/repositories) - Pokemon Disassembly / Decompilation Projects
