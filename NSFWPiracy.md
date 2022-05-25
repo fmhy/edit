@@ -184,7 +184,6 @@
 
 * [MissingToofff](https://missingtoofff.com/) - OnlyFans Leak Site List
 * [PornDude OnlyFans](https://theporndude.com/snapchat-nudes-sites) - OnlyFans / Patreon
-* [LeakMeUp](https://leakemup.com/forums/) - OnlyFans / Patreon
 * [OnlyNudes](https://onlynudes.tv/) - OnlyFans
 * [Coomer.Party](https://coomer.party/artists) - OnlyFans
 * [NsfwLeak](https://nsfwleak.com/) - OnlyFans
@@ -308,7 +307,7 @@
 * **[Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button)** - Quickly Close All Tabs
 * [Internet Adult Film Database](https://www.iafd.com/) - Adult Film Database / Reviews
 * [Porn-Vault](https://github.com/porn-vault/porn-vault), [Fapflix2.0](https://github.com/EinAeffchen/Fapflix2.0), [StashApp](https://stashapp.cc/) or [Stash](https://github.com/stashapp/stash) - Porn File Manager
-* [TheLeakNetwork](https://theleaknetwork.com/) or [UploadingPorn](https://uploadingporn.com/) - NSFW File Host
+* [UploadingPorn](https://uploadingporn.com/) - NSFW File Host
 * [Javinizer](https://github.com/jvlflame/Javinizer) - JAV File Organizer
 * [DeepMosaics](https://github.com/HypoX64/DeepMosaics) or [DeepCreamPy](https://github.com/styler00dollar/Colab-DeepCreamPy/blob/master/Colab-DeepCreamPy-2.2.ipynb) - Remove Mosaics from Porn
 * [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/) - NSFW Reverse Image Search
