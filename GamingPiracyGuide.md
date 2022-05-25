@@ -199,6 +199,7 @@
 * **[No-Intro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_no-intro)** - Roms
 * **[AlvRo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_alvro)** - Roms
 * **[RomCenter](https://r-roms.github.io/)** - Roms / [Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_romcenter)
+* **[ROM-Collections](https://rentry.co/ROM-Collections)** - Roms
 * [TheRomDepot](https://theromdepot.com/) - Roms
 * [Squid Proxy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_squid_proxy) - Roms
 * [Rom GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rom_gdrive) - Roms
@@ -208,29 +209,9 @@
 * [Many Dumped Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_many_dumped_games) - Roms
 * [nwifiresticks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nwifiresticks) - Roms
 * [Rom Pack](https://www.romspack.com/) - Roms
-* [Nintendo Retro Mega-Pack](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nintendo_retro_mega-pack) - Roms / Nintendo
-* [PS1 Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ps1_collection) - Roms / PS1
-* [PS2 Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ps2_collection) - Roms / PS2
-* [ps2pressprotos](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ps2pressprotos) - PS2 Press Discs & Prototypes
-* [PS4 Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ps4_roms) - Roms / PS4
 * [NoPayStation](https://nopaystation.com/) or [PSNDL](https://psndl.net/) - Roms / Sony Consoles
-* [PSP Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_psp_collection) - Roms / PSP
-* [psp.hm7](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_psp.hm7) - Modded PSP Collection 
-* [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - Roms / Wii U / [Title Keys](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wiiu_title_keys)
-* [Wii Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wii_roms) - Roms / Wii
-* [Switch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - Roms / Nintendo Switch / [Release Tracker](http://www.nswdb.com/)
-* [Gamecube Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gamecube_roms) - Roms / GameCube
-* [N64 Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_n64_roms) - Roms / N64
-* [Gameboy Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gameboy_roms) - Roms / Gameboy
-* [DS Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ds_roms) - Roms / DS
-* [DSi Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dsi_roms) - Roms / DSi
-* [3DS Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - Roms / 3DS
-* [Dreamcast Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dreamcast_roms) - Roms / Dreamcast
-* [Sega Saturn Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sega_saturn_roms) - Roms / Sega Saturn
-* [3DO Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_3do_roms) - Roms / 3DO
-* [Xbox Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_xbox_roms) - CD Roms / Xbox / DDL / Torrents
+* [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - Roms / Wii U
 * [HiddenPalace](https://hiddenpalace.org/) - Game Development Media Archive
-* [PS3 Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ps3_roms) - Roms / No PKG
 * [Dat-O-Matic](https://datomatic.no-intro.org/index.php) - ROM Datasets
 * [pret](https://github.com/orgs/pret/repositories) - Pokemon Disassembly / Decompilation Projects
 
@@ -290,11 +271,7 @@
 * [RocketLauncer2](https://github.com/Hypnotoad90/RocketLauncher2) - Doom Source Port Frontend
 * [ScummVM](https://www.scummvm.org/) - Classic Graphical Adventure Game Engines
 * [Classic Game Roms](https://sites.google.com/site/classicgameroms/) - Roms
-* [SNES Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_snes_roms) - Roms / SNES / PW: skwbr
-* [NES Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nes_roms) or [NesFiles](https://www.nesfiles.com/) - NES Roms / Emulators 
 * [webnofrendo](https://zardam.github.io/webnofrendo/) - NES Numworks Emulator
-* [Game & Watch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_game_.26amp.3B_watch_roms) - Roms / Game & Watch
-* [Sega Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sega_roms) - Roms / Sega
 * [Old-Games.com](https://www.old-games.com/) - Roms / PC / Amiga
 * [lemon64](https://www.lemon64.com/), [whdload](https://www.whdload.de/), [lemonamiga](https://www.lemonamiga.com/), [exotica](http://www.exotica.org.uk/) or [hol abime](https://hol.abime.net/) - Amiga / Commodore64 Roms
 * [AtariMania](http://www.atarimania.com/index.html) - Roms / Emulators  / Atari Consoles
@@ -309,8 +286,6 @@
 * [Japanese PC Compendium](http://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
 * [TOSEC](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_tosec) - The Old School Emulation Center
 * [Tiny8bit](https://floooh.github.io/tiny8bit/) or [Piepacker](https://piepacker.com/) - Retro Game Browser Emulators
-* [NEC & Turbografx Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nec_.26amp.3B_turbografx_collection) - Roms / Nec / Turbo
-* [Neo Kobe Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_neo_kobe_roms) - Roms / Neo Kobe
 * [pc-98](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pc-98) - PC-98 Games
 * [Abandonia](http://www.abandonia.com/), [XTCabandonware](http://www.xtcabandonware.com/) or [VETUSWARE](https://vetusware.com/category/Games/?cat=7) - Abandonware
 * [Remakes Reloaded](http://www.reloaded.org/) - Remakes of Classics
