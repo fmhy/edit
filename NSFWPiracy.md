@@ -88,7 +88,6 @@
 * [mcb3id.onion](http://ik4kzum3ocg6dhx4jhzteko4jzijmxnwsbkcqenf33as3i74i3mcb3id.onion/) 
 * [The Asenheim Project](https://www.asenheim.org/)
 * [NetU Search](https://netu.tv/view_page.php?pid=4) - Click [blue box](https://i.imgur.com/c19hKLw.png)
-* [Boob Critic](http://www.boobcritic.com/) - Rate Titties
 * [GalleryCherry](https://github.com/RobbWatershed/GalleryCherry) - Gallery Archiving Android App
 * [fap.bar](https://fap.bar/) - NSFW Reddit Video Browser
 * [nsfw.xxx](https://nsfw.xxx/), [Scroller](https://scrolller.com/), [RedditBetterNSFW](https://redditbetternsfw.com/) or [reddnight](https://reddnight.com/) - NSFW Reddit Image & Video Browser
@@ -111,6 +110,7 @@
 * [aagmaals](https://aagmaals.net/) - Indian Porn
 * [sexfullmovies](https://www.sexfullmovies.com/) - Indian Porn
 * [Recordbate](https://recordbate.com/) - Chaturbate Recordings
+* [Boob Critic](http://www.boobcritic.com/) - Rate Tits
 * [ComicsArmy](https://comicsarmy.com/) - Comics
 * [BeNudes](https://benudes.com/) - Erotic Stories
 * [Pinkfire Store](https://store.pinkfire.pw/) - NSFW Mobile Apps
@@ -125,7 +125,7 @@
 ## Download 
 
 * **[FapNationBot](https://discord.gg/MxyvAV22cE)** - Premium Porn Download Bot
-* **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "nsfw
+* [Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "nsfw
 * [PornFactors](http://pornfactors.com/) 
 * [RaidForums NSFW](https://raidforums.com/Forum-Not-Safe-For-Work)
 * [Best-MovieZ](https://www.best-moviez.ws/category/porn-18/) 
@@ -142,6 +142,7 @@
 * [SweetPorn](https://sweetporn.org/) 
 * [xxxFile.org](https://xxxfile.org/) 
 * [ArtsErotica](https://artserotica.com/videos/)
+* [Jack's Off Mega Collections](https://rentry.co/is5ii)
 * [CamVault](https://camvault.xyz/) - DL Chaturbate, MyFreeCams & CAM4 Recordings
 * [jdc](https://discord.gg/jdc) - Asian Porn Discord
 * [XXXTelegramBot](https://t.me/XXXTelegramBot) - Telegram
