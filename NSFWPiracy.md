@@ -124,7 +124,6 @@
 
 ## Download 
 
-* **[Jack's Off Mega Collections](https://saidit.net/s/freemediafuckyeah/wiki/base64#wiki_jack.27s_off_mega_collections)** - NSFW Drives
 * **[FapNationBot](https://discord.gg/MxyvAV22cE)** - Premium Porn Download Bot
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "nsfw
 * [PornFactors](http://pornfactors.com/) 
