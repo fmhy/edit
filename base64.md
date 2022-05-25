@@ -435,109 +435,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 ***
 
-#### Nintendo Retro Mega-Pack
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9BZFJWQ2FCWiNidmFPUHlOYWU4TjI0bHF1Q05lbjRR`
-
-
-***
-
-#### PS1 Collection
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL3JlZHVtcFNvbnlQbGF5c3RhdGlvbkFtZXJpY2FHYW1lczAyT2N0b2JlcjIwMTcKaHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL0Bqb2huX21yX3NtaXRo`
-
-***
-
-#### PS2 Collection
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL1JlZHVtcFNvbnlQUzJOVFNDVQpodHRwczovL2FyY2hpdmUub3JnL2RldGFpbHMvUmVkdW1wU29ueVBTMk5UU0NVUGFydDIKaHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL3JlZHVtcFNvbnlQbGF5c3RhdGlvbjJVc2FHYW1lczIwMThBdWcwMQpodHRwczovL2FyY2hpdmUub3JnL2RldGFpbHMvcmVkdW1wU29ueVBsYXlzdGF0aW9uMlVzYUdhbWVzMjAxOEF1ZzAxUGFydDIKaHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL3JlZHVtcFNvbnlQbGF5c3RhdGlvbjJVc2FHYW1lczIwMThBdWcwMVBhcnQzCmh0dHBzOi8vYXJjaGl2ZS5vcmcvZGV0YWlscy9yZWR1bXBTb255UGxheXN0YXRpb24yVXNhR2FtZXMyMDE4QXVnMDFQYXJ0NA==`
-
-***
-
-#### ps2pressprotos
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL3BzMnByZXNzcHJvdG9z`
-
-***
-
-#### PSP Collection
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL3JyLXNvbnktcGxheXN0YXRpb24tcG9ydGFibGU=`
-
-***
-
-#### psp.hm7
-
-`aHR0cHM6Ly9wc3AuaG03Lm1vZS8=`
-
-***
-
-#### N64 Roms 
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUN2MTBKMnJjOEdrNEdOUWxySEZpdnJ6ZzB3NUpQREVT`
-
-***
-
-#### DS Roms
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL25vSW50cm9OaW50ZW5kb0RzRGVjcnlwdGVkMjAxOUp1bjMwCmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvMzNBaERhNFQjYXdPcXI3bGhaWUZnalhvTU11Nl84dw==`
-
-
-***
-
-#### DSi Roms
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL05vLUludHJvX05pbnRlbmRvX0RTaV8yMDE4LTA2LTMwCmh0dHBzOi8vYXJjaGl2ZS5vcmcvZGV0YWlscy9OaW50ZW5kb0RTaURMQzIwMTk=`
-
-***
-
-#### SNES Roms
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL0N5bGVzU05FU1JvbVBhY2sKaHR0cHM6Ly9tZWdhLm56L2ZpbGUvOWtkVzFRWUkjOVZ1TE9GSkdEYkE2TklnOEQzM3c4UFl6UFoxRV9Xb3A1QmFzZDlrTVdUZwpodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZHJpdmUvZm9sZGVycy8xSVFfYm1yTHIxSVZ0SE1NRGxCb3ZMNzV2U1ozYXhLTm4KUFc6IHNrd2Jy`
-
-#### NES Roms
-
-`aHR0cDovL3Nvam91cm5lci5tZS9mYXN0ZGwvTkVTLwpodHRwOi8vd3d3Lm11c2VvOGJpdHMuZXMvbmVzL1JPTVMvCmh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzFqYmdDNllBM3RpX0FpRUdHWERBUG9DODQ3bzJneFdENgpodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZHJpdmUvZm9sZGVycy8wQjRkemh1RW92RE9NWDJwNGVXRk1Nazk2T0ZVP3Jlc291cmNla2V5PTAtdHQxU2hGVHp3X1lBQkszNVl5XzFGZw==`
-
-***
-
-#### Sega Roms
-
-`aHR0cDovL2RhbnN3ZXIuc3RvcHNwYW1taW5nLm5ldC9zZWdhLwpodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZHJpdmUvZm9sZGVycy8xaVljMlQ2d2ZzU1FzZ2Y1MFZzTnVOMjU2cHJjNnRhZ1Q=`
-
-***
-
-#### Dreamcast Roms
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL2FsbXN0Y21wbHRkcm1jc3Q=`
-
-
-***
-
-#### Sega Saturn Roms
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL1NnYVN0cm5DbXBsdA==`
-
-***
-
-#### 3DO Roms 
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzLzNET18yMDE3X1JlZmVyZW5jZV9TZXRfUmVkdW1wX1ZhbGlkYXRlZF9ST01z`
-
-***
-
-#### Xbox Roms
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL3hib3hjZHM/c29ydD0tZG93bmxvYWRzCmh0dHBzOi8vYXJjaGl2ZS5vcmcvZGV0YWlscy94Ym94X2VuZ19yb21zZXQ=`
-
-***
-
-#### PS3 Roms
-
-`aHR0cHM6Ly9wczNyLmNvbS8gCmh0dHA6Ly9wc2YzLmpvc2h3LmluZm8v`
-
-***
-
 #### Win98 / XP Games
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTVBM2o4WDBJRHhOeUpDN3RQakowZ3ZLSVBLUGFLeWxP`
@@ -547,18 +444,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 #### TOSEC
 
 `aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL1RPU0VDX1YyMDE3LTA0LTIzCmh0dHBzOi8vYXJjaGl2ZS5vcmcvZGV0YWlscy90b3NlYw==`
-
-***
-
-#### NEC & Turbografx Collection
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL05FQ19QQ19FbmdpbmVfQ0QtUk9NMl9TeXN0ZW1fYW5kX1R1cmJvR3JhZngtQ0RfMjAxNl9SZWZlcmVuY2VfU2V0X1JlZHVtcF9WYWxpZGF0ZWRfUk9Ncw==`
-
-***
-
-#### Neo Kobe Roms
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL05lb0tvYmUtTmVjUGMtOTgwMTIwMTctMTEtMTcKaHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL05lb19Lb2JlX05FQ19QQy04ODAxXzIwMTYtMDItMjU=`
 
 ***
 
@@ -703,7 +588,6 @@ pass: paluch
 #### LeftHandPath
 
 `aHR0cHM6Ly9tZWdhLm56LyNGIUU0Y1N6WUJaIVNQZVFBMFd1U01WaF9vUXRwWW5ONXc=`
-
 
 ***
 
@@ -1671,12 +1555,6 @@ pass: paluch
 
 ***
 
-#### 3DS Rom Drives
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL3UvMC9mb2xkZXJzLzFhMVUxOEltUHYtVnVuU0hhbkhCRFRMaHQ2a1ZmNUFQNgpodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZHJpdmUvZm9sZGVycy8xUjVjNi1uWTVtTW5zOEcxdTJ0Y2JZdW1mVENHWERRNXcKaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWE5QlliRmxoUTk2emFLdHVMOTltOE5fcjRxdjhMX0ZLCmh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzF2RElsSWZKTDFJOE56djYxNllCSVgtUVhtdWRveEt4TT91c3A9c2hhcmluZwpodHRwczovL2FyY2hpdmUub3JnL2Rvd25sb2FkLzNEU0NJQV90ZXN0aXRlbTEKaHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL25pbnRlbmRvLTNkcy1jb21wbGV0ZS1jb2xsZWN0aW9uCmh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS91LzAvZm9sZGVycy8xYTlCWWJGbGhROTZ6YUt0dUw5OW04Tl9yNHF2OExfRksK`
-
-***
-
 #### Adobe After Effects Collection
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTctcUZLMjZ0VnhmZHMyUy1xNXpqTVZ3YTRvODFCbV9l`
@@ -1719,18 +1597,6 @@ pass: paluch
 
 ***
 
-#### Gameboy Roms
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXBDWGFFanVrSDBOc1RzU0NiMUYwaE5ianM4Xy1MTVhmCmh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzFWeGpJTllNRHZ2VVNSS0FfazJhSnFxNkp6bVJRQ0kxcwpodHRwczovL2FyY2hpdmUub3JnL2RldGFpbHMvQ3lsZXNfR2FtZWJveV9yb21z`
-
-***
-
-#### Gamecube Roms
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL2dhbWVjdWJlbmFpc28KaHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL1JlZHVtcE5pbnRlbmRvR2FtZUN1YmVBbWVyaWNhCmh0dHBzOi8vYXJjaGl2ZS5vcmcvZGV0YWlscy9SZWR1bXBOaW50ZW5kb0dhbWVDdWJlQW1lcmljYVBhcnQyCmh0dHBzOi8vYXJjaGl2ZS5vcmcvZGV0YWlscy9SZWR1bXBOaW50ZW5kb0dhbWVDdWJlQW1lcmljYVBhcnQzCmh0dHBzOi8vYXJjaGl2ZS5vcmcvZGV0YWlscy9SZWR1bXBOaW50ZW5kb0dhbWVDdWJlMjAxOEF1ZzI1QW1lcmljYUdhbWVzUmVVcGxvYWQ=`
-
-***
-
 #### Icon Drives
 
 `aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZG9jdW1lbnQvZC8xMVZTbDhEWjdueG1Dcy1BdlVpdkNfVzA0N192ODBGMk1jTVBXREhpcE1VMC9lZGl0Cmh0dHBzOi8vbWVnYS5uei9maWxlL1E1QXpFUVlCI2MySDRnYVZ6VkhBT3dvNDVEYWZkbERzZDM0MFNoTnhkY19DelN3ZEJNR0UKaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMEJfVm1iVnlENGVUM04xVlViR040V2pkNU9WRT9yZXNvdXJjZWtleT0wLVY1bkNUSDlldEEweUI3YTRYWk9oOXcKaHR0cHM6Ly9tZWdhLm56L2ZpbGUvVjFObWlSeUsja0xXZVN3UDN0eDhnenVYcEp5dlZQREVYeWlzT0ljc0JtT0UzcHZkVTB5RQ==`
@@ -1759,11 +1625,7 @@ pass: paluch
 
 `aHR0cHM6Ly9maWxlY3IuY29tLz9zPUFkb2JlK0Fjcm9iYXQrUFJPK0RDCmh0dHBzOi8vcmVudHJ5LmNvL0Fjcm9iYXQtUHJv`
 
-***
 
-#### PS4 Rom Drives
-
-`aHR0cDovL3MyMS5iaXRkbC5pci8KaHR0cDovL3MyMi5iaXRkbC5pci8KaHR0cDovL3MyMy5iaXRkbC5pci8KaHR0cDovL3MyNC5iaXRkbC5pci8KaHR0cDovL3MyNS5iaXRkbC5pci8KaHR0cDovL3MyNi5iaXRkbC5pci8KaHR0cHM6Ly9wczQudGQtaW5kZXgud29ya2Vycy5kZXYvMDovCmh0dHBzOi8vZG9jcy5nb29nbGUuY29tL3NwcmVhZHNoZWV0cy9kLzFNeEJGaXM4M3h0WjhLdldmazN0NUJhUDh2UDhxTmFuMU81OWV0WWpGcndzL2VkaXQjZ2lkPTI1NTI5NDY4NQ==`
 
 ***
 
@@ -1773,21 +1635,9 @@ pass: paluch
 
 ***
 
-#### Switch Rom Drives
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWN2bVlpdnptanNiVndNYjc5ZWRQMncwUUt2RlBmS0ZK`
-
-***
-
 #### Wallpaper Engine
 
 `aHR0cHM6Ly9zdGVhbXVubG9ja2VkLm5ldC8/cz13YWxscGFwZXIrZW5naW5l`
-
-***
-
-#### Wii Rom Drives
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL1JlZHVtcE5pbnRlbmRvV2lpQW1lcmljYVBhcnQxCmh0dHBzOi8vYXJjaGl2ZS5vcmcvZGV0YWlscy9SZWR1bXBOaW50ZW5kb1dpaUFtZXJpY2FQYXJ0MgpodHRwczovL2FyY2hpdmUub3JnL2RldGFpbHMvUmVkdW1wTmludGVuZG9XaWlBbWVyaWNhUGFydDMKaHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL1JlZHVtcE5pbnRlbmRvV2lpQW1lcmljYVBhcnQzXzIwMTgwMgpodHRwczovL2FyY2hpdmUub3JnL2RldGFpbHMvUmVkdW1wTmludGVuZG9XaWlBbWVyaWNhUGFydDUKaHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL0h0dHBzYXJjaGl2ZS5vcmdkZXRhaWxzUmVkdW1wTmludGVuZG9XaWlBbWVyaWNhUGFydDY=`
 
 ***
 
@@ -1806,13 +1656,6 @@ pass: paluch
 #### Game Drive
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL3UvMC9mb2xkZXJzLzFWWjUzbF9HM1BwUXJpRDh4dnFIMjZnTDBoMG9IUTA4Zg== `
-
-***
-
-#### Game & Watch Roms
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xb3VBQndoYUZnWEVPMDNIZkk4MGxIazIxb1N2ODZya28vdmlldw==
-`
 
 ***
 
@@ -1843,12 +1686,6 @@ pass: paluch
 #### ImSoLost
 
 `aHR0cDovL2ltc29sb3N0LmNvbS9ib29rcy8=`
-
-***
-
-#### WiiU Title Keys
-
-`aHR0cHM6Ly92YXVsdC50aXRsZWtleXMub3ZoLwpodHRwczovL3dpaWtleXMud2ViLmFwcC8=`
 
 ***
 
