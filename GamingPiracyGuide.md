@@ -292,7 +292,7 @@
 * [Classic Game Roms](https://sites.google.com/site/classicgameroms/) - Roms
 * [SNES Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_snes_roms) - Roms / SNES / PW: skwbr
 * [NES Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nes_roms) or [NesFiles](https://www.nesfiles.com/) - NES Roms / Emulators 
-* [webnofrendo](https://zardam.github.io/webnofrendo/) - NES Numworks Emulator - Roms / NES
+* [webnofrendo](https://zardam.github.io/webnofrendo/) - NES Numworks Emulator
 * [Game & Watch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_game_.26amp.3B_watch_roms) - Roms / Game & Watch
 * [Sega Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sega_roms) - Roms / Sega
 * [Old-Games.com](https://www.old-games.com/) - Roms / PC / Amiga
