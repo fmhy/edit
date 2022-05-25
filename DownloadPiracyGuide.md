@@ -190,7 +190,7 @@
 * **[AppNee](https://appnee.com/)**
 * **[YasDL](https://yasdl.com/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [ShareAppCrack](https://shareappscrack.com/) - Software / Courses
-* [downloadly](https://downloadly.ir/), [2](https://downloadly.net/) - Software / Courses (Note - it doesn't work with US IP)
+* [downloadly](https://downloadly.ir/), [2](https://downloadly.net/) - Software / Courses / Persian VPN Required
 * [PiratePC](https://piratepc.me/) - [Discord](https://discord.gg/QhaKfHwWmV)
 * [SamLab](https://samlab.ws/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [FTUApps](https://ftuapps.dev/) 
