@@ -51,7 +51,6 @@
 * [SPiKY Repacks](https://discord.gg/ZHC6pffMz2) - [GamesDrive Uploader](https://gamesdrive.co/)
 * [Game Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_game_drive) 
 * [SteamUnlocked](https://steamunlocked.net/) - Use Adblocker / [IGG Warning](https://pastebin.com/s8dBLc4k) / [Poll Results](https://web.archive.org/web/20220329205507/https://www.reddit.com/poll/tp6695) / [Release Tracker](https://github.com/N-O-E-D/Steamunlocked)
-* [Anongamez](https://anongamez.com/)
 * [pc_game_down](https://t.me/pc_game_down) - Telegram
 * [g4u](https://g4u.to/) - Password: 404
 * [GoodOldDownloads Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_goodolddownloads_backup)
@@ -509,7 +508,6 @@
 * [Playok](https://www.playok.com/)
 * [PaperGames](https://papergames.io/)
 * [Venge](https://venge.io/) - PvP FPS
-* [RoboFight](https://robofight.io/) - PvP FPS
 * [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) - Top Down Battle Royal 
 * [ZombsRoyale.io](https://zombsroyale.io/) - Zombie Battle Royale 
 * [Yohoho.io](https://www.yohoho.io/) - Pirate Battle Royale
