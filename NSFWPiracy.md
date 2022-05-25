@@ -125,7 +125,7 @@
 ## Download 
 
 * **[FapNationBot](https://discord.gg/MxyvAV22cE)** - Premium Porn Download Bot
-* [Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "nsfw
+* [Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "nsfw"
 * [PornFactors](http://pornfactors.com/) 
 * [RaidForums NSFW](https://raidforums.com/Forum-Not-Safe-For-Work)
 * [Best-MovieZ](https://www.best-moviez.ws/category/porn-18/) 
