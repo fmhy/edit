@@ -25,7 +25,7 @@
 * **[GoG Games](https://gog-games.com/)**
 * **[FreeToGame](https://www.freetogame.com/games)**, [Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) or [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - F2P Games
 * **[Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers)** - Get Scene Release Updates
-* [DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "games" or "roms"
+* [DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "games" or "ROMs"
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - [Discord](https://discord.gg/693hNBdymb)
 * [CPG](https://cpgrepacks.site/) - [Discord](https://discord.gg/dtBSZ9N)
 * [Torrminatorr](https://forum.torrminatorr.com/)
@@ -63,7 +63,7 @@
 * [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes) - Game Remakes 
 * [Alpha Beta Gamer](https://alphabetagamer.com/) - Play games in Alpha or Beta Testing 
 * [Game Top](https://www.gametop.com/) - Casual PC Games 
-* [TeknoParrot](https://teknoparrot.com/) - Modern Arcade Client / [Games](http://teknoparrot.link.free.fr/), [2](https://www.retroroms.info/forum/topic/Teknoparrot-games.htm)
+* [TeknoParrot](https://teknoparrot.com/) - Modern Arcade Client / [Games](http://teknoparrot.link.free.fr/), [2](https://www.retroROMs.info/forum/topic/Teknoparrot-games.htm)
 * [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Games 
 * [awesome-ttygames](https://ligurio.github.io/awesome-ttygames/) - ASCII Terminal Games 
 * [Win98 / XP Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_win98_.2F_xp_games) - Windows 98 / XP Games
@@ -102,7 +102,7 @@
 * **[Xatab Repack](https://b.otxataba.net/)**, [2](https://s1.otxatabanet.ru/), [3](https://m.byxatab.com/)
 * **[RePack.info](https://repack.info/)**
 * **[Tuttop](https://tuttop.com/)** 
-* [Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f and type "games" or "roms"
+* [Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f and type "games" or "ROMs"
 * [KaOsKrew](https://www.kaoskrew.org/)
 * [NexusGames](https://nexusgames.to/) - [Discord](https://discord.gg/8YXGgy4DJj)
 * [CroTorrents](https://crotorrents.com/)
@@ -116,64 +116,64 @@
 
 ***
 
-# ► Emulation / Roms
+# ► Emulation / ROMs
 
 * **[Recommended Emulator Specs](https://emulation.gametechwiki.com/index.php/Computer_specs)**
 * **[Emulator Index](https://emulation.gametechwiki.com/)** or [The Emulator Zone](https://www.emulator-zone.com/)
 * **[Rom Site Index](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)**
-* **[Emuparadise](https://www.emuparadise.me/)** - Emulators / Roms / [DL Script](https://redd.it/968sm6), [2](https://openuserjs.org/scripts/tommyoxox/EmuParadise_Download_Workaround_-_1.1.2), [3](https://gist.github.com/Eptun/3fdcc84552e75e452731cd4621c535e9) / [Forum](https://www.epforums.org/)
-* **[Vimms Lair](https://vimm.net/)** - Emulators / Roms
+* **[Emuparadise](https://www.emuparadise.me/)** - Emulators / ROMs / [DL Script](https://redd.it/968sm6), [2](https://openuserjs.org/scripts/tommyoxox/EmuParadise_Download_Workaround_-_1.1.2), [3](https://gist.github.com/Eptun/3fdcc84552e75e452731cd4621c535e9) / [Forum](https://www.epforums.org/)
+* **[Vimms Lair](https://vimm.net/)** - Emulators / ROMs
 * [Rom CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Search Rom Sites
 * [Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators) 
 * [Rom Managers](http://emulation.gametechwiki.com/index.php/ROM_managers) - List of Rom Managers
 * [Emulator Netplay Tools](http://emulation.gametechwiki.com/index.php/Netplay) - Multiplayer Emulation
-* [Ziperto](https://ziperto.com/) - Roms
-* [Gnarly Repacks](https://www.gnarly-repacks.site/) - Roms / [Discord](https://discord.gg/rH9wRpu2vh) 
+* [Ziperto](https://ziperto.com/) - ROMs
+* [Gnarly Repacks](https://www.gnarly-repacks.site/) - ROMs / [Discord](https://discord.gg/rH9wRpu2vh) 
 * [PlanetEmu](http://www.planetemu.net/) - Emulators
 * [Zophar's Domain](https://www.zophar.net/) - Emulator / Rom Hacks
 * [EmuCR](https://www.emucr.com/) - Emulators
-* [Retrostic](https://www.retrostic.com/) - Emulators / Roms
-* [Emulanium](https://emulanium.com/) - Emulators / Roms 
-* [RomsUniverse](https://www.romsuniverse.com/) - Emulators / Roms 
-* [Romsie](https://romsie.com/) - Emulators / Roms
-* [ROMs Games](https://www.romsgames.net/) - Emulators / Roms
-* [ConsoleRoms](https://www.consoleroms.com/) - Emulators / Roms
-* [HexRom](https://hexrom.com/) - Emulators / Roms
-* [Rom Hustler](https://romhustler.org/) - Emulators / Roms
-* [80s](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_80s) - Emulators / Roms 
-* [RomsDownload](https://romsdownload.net/) - Emulators / Roms
-* [The Old Computer](https://www.theoldcomputer.com/) - Emulators / Roms
-* [Emulator Games](https://www.emulatorgames.net/) - Emulators / Roms
-* [Roms Download](https://roms-download.com/) - Emulators / Roms 
-* [RomsGet](https://www.romsget.io/) - Emulators / Roms
-* [EasyRoms](https://easyroms.com/) - Emulators / Roms 
-* [ROMSPURE](https://romspure.cc/) - Emulators / Roms
-* [ROMs Games](https://romsgames.net/) - Emulators / Roms
-* [CoolRoms](https://coolrom.com.au/) - Emulators / Roms / Use ["Alt DL Link"](https://i.imgur.com/KHfeWNX.png)
-* [SoftCobra](https://www.softcobra.com/) - Roms / [Block Overlay](https://github.com/NicolaeNMV/BehindTheOverlay)
-* [All Xbox Game](https://downloadgamexbox.com/) - Roms
-* [RomToHome](https://romtohome.com/) - Roms
-* [Sundby](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sundby) - Roms
-* [EdgeEmulation](https://edgeemu.net/) - Roms
-* [Rom Nation](https://www.romnation.net/) - Roms
-* [GLoad](https://gload.to/) - Roms
-* [WowRoms](https://wowroms.com/en/) - Roms
-* [RomsFun](https://romsfun.com/) - Roms
-* [FreeRoms](https://www.freeroms.com/) - Roms
-* [/1CC/](https://8kun.top/1cc/index.html) - Roms / [Discord](https://discord.com/invite/Y4dSzbXNau)
-* [DaRoms](http://daroms.com/) - Roms 
-* [Arcade Punks](https://www.arcadepunks.com/) - Roms
-* [CDRomance](https://cdromance.com/) - Roms
-* [LoveRoms](https://www.loveroms.online/) - Roms 
-* [PSXForever](https://psxforever.com/), [2](https://pspgamesland.com/), [3](https://gameboxadvance.com/), [4](https://legendsroms.com/), [5](https://worldcia3ds.com/), [6](https://akamigames.net/), [7](https://fullgamesnx.com/) - Roms
-* [FantasyAnime](https://fantasyanime.com/) - Roms 
-* [NesGM](https://nesgm.net/) - Roms / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
-* [ROM World](http://www.romworldonline.com/) - Roms / [How-to](https://i.imgur.com/Mqab82O.png)
+* [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
+* [Emulanium](https://emulanium.com/) - Emulators / ROMs 
+* [ROMsUniverse](https://www.ROMsuniverse.com/) - Emulators / ROMs 
+* [ROMsie](https://ROMsie.com/) - Emulators / ROMs
+* [ROMs Games](https://www.ROMsgames.net/) - Emulators / ROMs
+* [ConsoleROMs](https://www.consoleROMs.com/) - Emulators / ROMs
+* [HexRom](https://hexrom.com/) - Emulators / ROMs
+* [Rom Hustler](https://romhustler.org/) - Emulators / ROMs
+* [80s](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_80s) - Emulators / ROMs 
+* [ROMsDownload](https://ROMsdownload.net/) - Emulators / ROMs
+* [The Old Computer](https://www.theoldcomputer.com/) - Emulators / ROMs
+* [Emulator Games](https://www.emulatorgames.net/) - Emulators / ROMs
+* [ROMs Download](https://ROMs-download.com/) - Emulators / ROMs 
+* [ROMsGet](https://www.ROMsget.io/) - Emulators / ROMs
+* [EasyROMs](https://easyROMs.com/) - Emulators / ROMs 
+* [ROMsPURE](https://ROMspure.cc/) - Emulators / ROMs
+* [ROMs Games](https://ROMsgames.net/) - Emulators / ROMs
+* [CoolROMs](https://coolrom.com.au/) - Emulators / ROMs / Use ["Alt DL Link"](https://i.imgur.com/KHfeWNX.png)
+* [SoftCobra](https://www.softcobra.com/) - ROMs / [Block Overlay](https://github.com/NicolaeNMV/BehindTheOverlay)
+* [All Xbox Game](https://downloadgamexbox.com/) - ROMs
+* [RomToHome](https://romtohome.com/) - ROMs
+* [Sundby](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sundby) - ROMs
+* [EdgeEmulation](https://edgeemu.net/) - ROMs
+* [Rom Nation](https://www.romnation.net/) - ROMs
+* [GLoad](https://gload.to/) - ROMs
+* [WowROMs](https://wowROMs.com/en/) - ROMs
+* [ROMsFun](https://ROMsfun.com/) - ROMs
+* [FreeROMs](https://www.freeROMs.com/) - ROMs
+* [/1CC/](https://8kun.top/1cc/index.html) - ROMs / [Discord](https://discord.com/invite/Y4dSzbXNau)
+* [DaROMs](http://daROMs.com/) - ROMs 
+* [Arcade Punks](https://www.arcadepunks.com/) - ROMs
+* [CDRomance](https://cdromance.com/) - ROMs
+* [LoveROMs](https://www.loveROMs.online/) - ROMs 
+* [PSXForever](https://psxforever.com/), [2](https://pspgamesland.com/), [3](https://gameboxadvance.com/), [4](https://legendsROMs.com/), [5](https://worldcia3ds.com/), [6](https://akamigames.net/), [7](https://fullgamesnx.com/) - ROMs
+* [FantasyAnime](https://fantasyanime.com/) - ROMs 
+* [NesGM](https://nesgm.net/) - ROMs / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
+* [ROM World](http://www.romworldonline.com/) - ROMs / [How-to](https://i.imgur.com/Mqab82O.png)
 * [LegendaryRepacks](https://discord.gg/RUSNHSk)
-* [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - Roms / Torrent
+* [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - ROMs / Torrent
 * [Eclipse](https://eclipseemu.me/play/) - Online Mobile Multi-Console Emulator 
 * [PopStarter](https://www.psx-place.com/threads/popstarter.19139/) - PS1 Emulator for PS2 / [Converter](https://www.psx-place.com/resources/psxvcd-by-englishl1989.669/) / [Setup](https://github.com/Edvaniojosedasilva1992/Instalador-POPStarter)
-* [/r/Roms](https://www.reddit.com/r/Roms/) - Discussion Sub
+* [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
 * [RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list) - Emulator Tool Index
 * [RomHacking](https://www.romhacking.net/) - Rom Translations & Hacks
 * [SMWCentral](https://smwcentral.net/) - Super Mario World Hacking 
@@ -196,21 +196,21 @@
 
 ## ▷ Rom Archives
 
-* **[No-Intro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_no-intro)** - Roms
-* **[AlvRo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_alvro)** - Roms
-* **[RomCenter](https://r-roms.github.io/)** - Roms / [Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_romcenter)
-* **[ROM-Collections](https://rentry.co/ROM-Collections)** - Roms
-* [TheRomDepot](https://theromdepot.com/) - Roms
-* [Squid Proxy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_squid_proxy) - Roms
-* [Rom GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rom_gdrive) - Roms
-* [@Storage_Manager](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.40storage_manager) - Roms / Zip 
-* [FinalBurn Neo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_finalburn_neo) - Roms / Zip 
-* [Everdrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_everdrive) - Roms / Zip
-* [Many Dumped Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_many_dumped_games) - Roms
-* [nwifiresticks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nwifiresticks) - Roms
-* [Rom Pack](https://www.romspack.com/) - Roms
-* [NoPayStation](https://nopaystation.com/) or [PSNDL](https://psndl.net/) - Roms / Sony Consoles
-* [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - Roms / Wii U
+* **[No-Intro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_no-intro)** - ROMs
+* **[AlvRo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_alvro)** - ROMs
+* **[RomCenter](https://r-ROMs.github.io/)** - ROMs / [Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_romcenter)
+* **[ROM-Collections](https://rentry.co/ROM-Collections)** - ROMs
+* [TheRomDepot](https://theromdepot.com/) - ROMs
+* [Squid Proxy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_squid_proxy) - ROMs
+* [Rom GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rom_gdrive) - ROMs
+* [@Storage_Manager](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.40storage_manager) - ROMs / Zip 
+* [FinalBurn Neo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_finalburn_neo) - ROMs / Zip 
+* [Everdrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_everdrive) - ROMs / Zip
+* [Many Dumped Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_many_dumped_games) - ROMs
+* [nwifiresticks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nwifiresticks) - ROMs
+* [Rom Pack](https://www.ROMspack.com/) - ROMs
+* [NoPayStation](https://nopaystation.com/) or [PSNDL](https://psndl.net/) - ROMs / Sony Consoles
+* [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
 * [HiddenPalace](https://hiddenpalace.org/) - Game Development Media Archive
 * [Dat-O-Matic](https://datomatic.no-intro.org/index.php) - ROM Datasets
 * [pret](https://github.com/orgs/pret/repositories) - Pokemon Disassembly / Decompilation Projects
@@ -231,7 +231,7 @@
 * [Retro Uprising](http://www.retrouprising.com/) 
 * [Play Classic Games](https://playclassic.games/) 
 * [Emulator.Games](https://emulator.games/) 
-* [GamulatoR](https://www.gamulator.com/roms)
+* [GamulatoR](https://www.gamulator.com/ROMs)
 * [Aurora](https://skitty.xyz/aurora/) 
 * [Emulator.online](http://emulator.online/) 
 * [Online.OldGames](https://online.oldgames.sk/)
@@ -260,8 +260,8 @@
 
 ## ▷ Arcade / Retro
 
-* **[My Abandonware](https://www.myabandonware.com/)** - Roms
-* **[GamesNostalgia](https://gamesnostalgia.com/)** - Roms / Amiga
+* **[My Abandonware](https://www.myabandonware.com/)** - ROMs
+* **[GamesNostalgia](https://gamesnostalgia.com/)** - ROMs / Amiga
 * **[DOS Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dos_games)** - DOS Game Sites
 * **[Wad Archive](https://wad-archive.com/)** - 83k WAD Files
 * **[RAZE](https://github.com/coelckers/Raze/)** or [BuildGDX](https://m210.duke4.net/) - Oldschool Shooter Engine / [Discord](https://discord.gg/zZw2eq3n7G) 
@@ -270,13 +270,13 @@
 * **[ZDemon](https://www.zdaemon.org/)**, **[Doomseeker](http://doomseeker.drdteam.org/)**, [oDamex](https://odamex.net/) or [Zandoronum](https://zandronum.com/) - Online-Multiplayer Doom Source Ports
 * [RocketLauncer2](https://github.com/Hypnotoad90/RocketLauncher2) - Doom Source Port Frontend
 * [ScummVM](https://www.scummvm.org/) - Classic Graphical Adventure Game Engines
-* [Classic Game Roms](https://sites.google.com/site/classicgameroms/) - Roms
-* [NesFiles](https://www.nesfiles.com/) - Roms / NES
+* [Classic Game ROMs](https://sites.google.com/site/classicgameROMs/) - ROMs
+* [NesFiles](https://www.nesfiles.com/) - ROMs / NES
 * [webnofrendo](https://zardam.github.io/webnofrendo/) - NES Numworks Emulator
-* [Old-Games.com](https://www.old-games.com/) - Roms / PC / Amiga
-* [lemon64](https://www.lemon64.com/), [whdload](https://www.whdload.de/), [lemonamiga](https://www.lemonamiga.com/), [exotica](http://www.exotica.org.uk/) or [hol abime](https://hol.abime.net/) - Amiga / Commodore64 Roms
-* [AtariMania](http://www.atarimania.com/index.html) - Roms / Emulators  / Atari Consoles
-* [World of Spectrum](https://worldofspectrum.org/) - Roms / Emulators / Sinclair ZX Spectrum
+* [Old-Games.com](https://www.old-games.com/) - ROMs / PC / Amiga
+* [lemon64](https://www.lemon64.com/), [whdload](https://www.whdload.de/), [lemonamiga](https://www.lemonamiga.com/), [exotica](http://www.exotica.org.uk/) or [hol abime](https://hol.abime.net/) - Amiga / Commodore64 ROMs
+* [AtariMania](http://www.atarimania.com/index.html) - ROMs / Emulators  / Atari Consoles
+* [World of Spectrum](https://worldofspectrum.org/) - ROMs / Emulators / Sinclair ZX Spectrum
 * [MagiPack](https://www.magipack.games/) - Retro Games 
 * [/1CC/](https://8kun.top/1cc/index.html) - Retro Games / [Discord](https://discord.com/invite/Y4dSzbXNau)
 * [Zombs-Lair](https://www.zombs-lair.com/) - Retro Games
@@ -290,7 +290,7 @@
 * [pc-98](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pc-98) - PC-98 Games
 * [Abandonia](http://www.abandonia.com/), [XTCabandonware](http://www.xtcabandonware.com/) or [VETUSWARE](https://vetusware.com/category/Games/?cat=7) - Abandonware
 * [Remakes Reloaded](http://www.reloaded.org/) - Remakes of Classics
-* [Gnarly Repacks](https://www.gnarly-repacks.site/) - Roms / Arcade / Retro / [Discord](https://discord.gg/rH9wRpu2vh) 
+* [Gnarly Repacks](https://www.gnarly-repacks.site/) - ROMs / Arcade / Retro / [Discord](https://discord.gg/rH9wRpu2vh) 
 * [Classic Games](https://classicdosgames.com/) - Classic & Retro Game Archive
 * [Old Game Finer](http://www.oldgamesfinder.com/?) - Classic Game Search Engine
 * [The Interactive Fiction Page](http://www.cs.cmu.edu/~wsr/IF/) - Interactive Fiction Games
