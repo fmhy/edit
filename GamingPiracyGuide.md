@@ -218,7 +218,7 @@
 * [psp.hm7](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_psp.hm7) - Modded PSP Collection 
 * [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - Roms / Wii U / [Title Keys](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wiiu_title_keys)
 * [Wii Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wii_roms) - Roms / Wii
-* [Switch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - Roms / Nintendo Switch / [Release Trakcer](http://www.nswdb.com/)
+* [Switch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - Roms / Nintendo Switch / [Release Tracker](http://www.nswdb.com/)
 * [Gamecube Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gamecube_roms) - Roms / GameCube
 * [N64 Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_n64_roms) - Roms / N64
 * [Gameboy Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gameboy_roms) - Roms / Gameboy
