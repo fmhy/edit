@@ -120,17 +120,17 @@
 
 * **[Recommended Emulator Specs](https://emulation.gametechwiki.com/index.php/Computer_specs)**
 * **[Emulator Index](https://emulation.gametechwiki.com/)** or [The Emulator Zone](https://www.emulator-zone.com/)
-* **[Rom Site Index](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)**
+* **[ROM Site Index](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)**
 * **[Emuparadise](https://www.emuparadise.me/)** - Emulators / ROMs / [DL Script](https://redd.it/968sm6), [2](https://openuserjs.org/scripts/tommyoxox/EmuParadise_Download_Workaround_-_1.1.2), [3](https://gist.github.com/Eptun/3fdcc84552e75e452731cd4621c535e9) / [Forum](https://www.epforums.org/)
 * **[Vimms Lair](https://vimm.net/)** - Emulators / ROMs
-* [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Search Rom Sites
+* [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Search ROM Sites
 * [Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators) 
-* [Rom Managers](http://emulation.gametechwiki.com/index.php/ROM_managers) - List of Rom Managers
+* [ROM Managers](http://emulation.gametechwiki.com/index.php/ROM_managers) - List of ROM Managers
 * [Emulator Netplay Tools](http://emulation.gametechwiki.com/index.php/Netplay) - Multiplayer Emulation
 * [Ziperto](https://ziperto.com/) - ROMs
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - ROMs / [Discord](https://discord.gg/rH9wRpu2vh) 
 * [PlanetEmu](http://www.planetemu.net/) - Emulators
-* [Zophar's Domain](https://www.zophar.net/) - Emulator / Rom Hacks
+* [Zophar's Domain](https://www.zophar.net/) - Emulator / ROM Hacks
 * [EmuCR](https://www.emucr.com/) - Emulators
 * [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
 * [Emulanium](https://emulanium.com/) - Emulators / ROMs 
@@ -175,12 +175,12 @@
 * [PopStarter](https://www.psx-place.com/threads/popstarter.19139/) - PS1 Emulator for PS2 / [Converter](https://www.psx-place.com/resources/psxvcd-by-englishl1989.669/) / [Setup](https://github.com/Edvaniojosedasilva1992/Instalador-POPStarter)
 * [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
 * [RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list) - Emulator Tool Index
-* [RomHacking](https://www.romhacking.net/) - Rom Translations & Hacks
+* [RomHacking](https://www.romhacking.net/) - ROM Translations & Hacks
 * [SMWCentral](https://smwcentral.net/) - Super Mario World Hacking 
 * [PokeGB](https://github.com/binji/pokegb) - Pokémon Blue Emulator
 * [PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
 * [GameBanana](https://gamebanana.com/mods/games/14783) - Pokémon Brilliant Diamond & Shining Pearl Mods
-* [Dats.site](https://dats.site/) - Rom .DAT Files
+* [Dats.site](https://dats.site/) - ROM .DAT Files
 * [datcheck](https://github.com/pkos/datcheck) - Compare No-Intro / Redump .DAT Files to ROM or Disc Collection 
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
 * [Cemu Guide](https://cemu.cfw.guide/) - Cemu & BOTW Optimization Guide
