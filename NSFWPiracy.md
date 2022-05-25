@@ -142,7 +142,6 @@
 * [SweetPorn](https://sweetporn.org/) 
 * [xxxFile.org](https://xxxfile.org/) 
 * [ArtsErotica](https://artserotica.com/videos/)
-* [Jack's Off Mega Collections](https://rentry.co/is5ii)
 * [CamVault](https://camvault.xyz/) - DL Chaturbate, MyFreeCams & CAM4 Recordings
 * [jdc](https://discord.gg/jdc) - Asian Porn Discord
 * [XXXTelegramBot](https://t.me/XXXTelegramBot) - Telegram
