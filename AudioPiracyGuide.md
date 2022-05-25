@@ -435,7 +435,6 @@
 * **[RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/)** - Artist Recommendations by Genre
 * [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Bands Directory 
 * [45Cat](http://www.45cat.com/) - Vinyl Ratings / Reviews
-* [World Spotify](https://www.worldspotify.com/) - Daily Most Streamed Tracks by Country 
 * [TapeFear](https://www.tapefear.com/) or [Discover Quickly](https://discoverquickly.com/) - Spotify Song Discovery
 * [Spotalike](https://spotalike.com/), [MagicPlaylist](https://magicplaylist.co/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generator
 * [DailyPlaylists](https://www.dailyplaylists.com/) or [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
