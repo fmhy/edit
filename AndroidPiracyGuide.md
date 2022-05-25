@@ -594,7 +594,6 @@
 * [MoonDownload](http://www.moondownload.com/) - Ebook Reader
 * [CoolReader](https://apt.izzysoft.de/fdroid/index/apk/org.coolreader) - Ebook Reader
 * [BookReader](https://f-droid.org/en/packages/com.github.axet.bookreader/) - Ebook Reader
-* [PocketBook](https://play.google.com/store/apps/details?id=com.obreey.reader) - Ebook Reader
 * [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Reader
 * [android-book-reader](https://gitlab.com/axet/android-book-reader/) - Ebook Reader
 * [eBookit](https://play.google.com/store/apps/details?id=ch.ebookit.reader) - Ebook Reader
@@ -713,7 +712,6 @@
 * [PopcornTime](http://popcorn-ru.tk/build/) - Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * [BeeTV](https://beetvapp.me/) or [NovaTV](https://novatv.app/) - Movies / TV / Anime / Chromecast
 * [VivaTV](https://www.vivatv.io/) or [TeaTV](https://teatv.net/) - Movies / TV / Anime / Chromecast
-* [ZiniTevi](https://zinitevi.github.io/movieapps/) - Movies
 * [Bouncy](https://github.com/WeeklyProblem/Bouncy) - Movies / TV / Anime / Chromecast
 * [IsraTV](https://isratv.netlify.app/) - Movies / TV / Live TV
 * [MediaBox HD](https://mediaboxhd.net/) - Movies / TV / Chromecast
@@ -1119,7 +1117,6 @@
 * [MovieByImage](https://apps.apple.com/us/app/movie-finder-movie-by-image/id1560301878) - Movies / Code: 777
 * [MediaBox](https://mediaboxhd.net/) - Movies / TV
 * [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756) - Movies / TV
-* [ZiniTevi](https://zinitevi.github.io/movieapps/) - Movies 
 * [Blackbox](https://apps.apple.com/ca/app/black-box-movie-listing/id958957112) - Movies 
 * [Streamer](https://github.com/StreamerApp/Streamer) - Movies / TV
 * [Zivcy](https://www.downloader.world/) - Movies / TV
