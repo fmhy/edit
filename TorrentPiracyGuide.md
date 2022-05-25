@@ -138,7 +138,6 @@
 * [pwned.space](https://pwned.space/)
 * [TorrentDownload](https://www.torrentdownload.info/) 
 * [Torrent Paradise](https://torrent-paradise.ml/) 
-* [2Torrentz](https://2torrentz.net/torrentz/)
 * [Toros2](https://www.toros2.com/)
 * [Dirty Torrents](https://dirtytorrents.com/) 
 * [TorrentQuest](https://torrentquest.com/) 
