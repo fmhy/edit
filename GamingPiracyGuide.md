@@ -171,9 +171,7 @@
 * [ROM World](http://www.romworldonline.com/) - Roms / [How-to](https://i.imgur.com/Mqab82O.png)
 * [LegendaryRepacks](https://discord.gg/RUSNHSk)
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - Roms / Torrent
-* [NesFiles](https://www.nesfiles.com/) - NES Roms / Emulators 
 * [Eclipse](https://eclipseemu.me/play/) - Online Mobile Multi-Console Emulator 
-* [webnofrendo](https://zardam.github.io/webnofrendo/) - NES Numworks Emulator
 * [PopStarter](https://www.psx-place.com/threads/popstarter.19139/) - PS1 Emulator for PS2 / [Converter](https://www.psx-place.com/resources/psxvcd-by-englishl1989.669/) / [Setup](https://github.com/Edvaniojosedasilva1992/Instalador-POPStarter)
 * [/r/Roms](https://www.reddit.com/r/Roms/) - Discussion Sub
 * [RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list) - Emulator Tool Index
@@ -293,7 +291,8 @@
 * [ScummVM](https://www.scummvm.org/) - Classic Graphical Adventure Game Engines
 * [Classic Game Roms](https://sites.google.com/site/classicgameroms/) - Roms
 * [SNES Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_snes_roms) - Roms / SNES / PW: skwbr
-* [NES Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nes_roms) - Roms / NES
+* [NES Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nes_roms) or [NesFiles](https://www.nesfiles.com/) - NES Roms / Emulators 
+* [webnofrendo](https://zardam.github.io/webnofrendo/) - NES Numworks Emulator - Roms / NES
 * [Game & Watch Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_game_.26amp.3B_watch_roms) - Roms / Game & Watch
 * [Sega Roms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sega_roms) - Roms / Sega
 * [Old-Games.com](https://www.old-games.com/) - Roms / PC / Amiga
