@@ -282,7 +282,7 @@
 
 # Games
 
-* [PornDude Games](https://theporndude.com/best-porn-games)
+* [PornDude Games](https://theporndude.com/best-porn-games), [2](https://theporndude.com/free-sex-games)
 * [Nyaa Sukebei](https://sukebei.nyaa.si/)
 * [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46) 
 * [GGBases](https://www.ggbases.com/)
