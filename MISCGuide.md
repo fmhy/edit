@@ -387,7 +387,6 @@
 * [Paper Plotter](https://felixboiii.github.io/paper-plotter/) - Create 3D plots out of paper 
 * [Instructables](https://www.instructables.com/) - Free Projects / Crafts 
 * [Toys from Trash](http://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys 
-* [Free Camp Sites](https://freecampsites.net/) - Go Camping For Free
 * [Roadside America](https://www.roadsideamerica.com/) - Roadside Attraction Index
 * [deardiary](https://deardiary.wtf/) - Machine Learning Diary / [Concept Video](https://youtu.be/Zc3qayGmYZQ) 
 * [Bad Licenses](https://github.com/ErikMcClure/bad-licenses) - Funny Open Source Licenses Index
@@ -911,6 +910,7 @@
 * [Cost of Living](https://www.numbeo.com/cost-of-living/) - Cost of Living Map
 * [Mapfrappe](http://mapfrappe.com/?show=46142) or [scale-a-tron](https://stamen.github.io/scale-a-tron/) - Compare True Sizes on Land 
 * [Mikavaa](http://mapmerizer.mikavaa.com/) - Compare Cities
+* [Free Camp Sites](https://freecampsites.net/) - Free Camp Sites
 * [Wandermap](http://www.wandermap.net/) - Hiking Routes
 * [Runmap](http://www.runmap.net/) - Running Routes
 * [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sound Map
