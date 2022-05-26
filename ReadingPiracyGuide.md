@@ -690,8 +690,8 @@
 * [ManualLib](https://www.manuallib.com/) - Manual Search
 * [Floss Manuals](https://www.flossmanuals.net/) - Software Manuals 
 * [iFixIt](https://www.ifixit.com/Guide) - Repair Manuals 
-* [WonderHowTo](https://www.wonderhowto.com/) - Tech How-To's
 * [RepairWiki](https://repair.wiki/w/Repair_Wiki) - Repair Articles
+* [WonderHowTo](https://www.wonderhowto.com/) - Tech How-To's
 * [manned.org](https://manned.org/) - Operating System Manuals
 * [Manuals Online](http://office.manualsonline.com/) - Computer Equipment Manuals
 * [JDMFSM](http://jdmfsm.info/Auto/), [CarPDFManual](https://www.carpdfmanual.com/renault/) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals 
