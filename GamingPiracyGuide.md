@@ -81,7 +81,7 @@
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball Decompilation
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
 * [PokemonRevolution](https://pokemonrevolution.net/) - Pokemon MMO
-* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_setlists), [2](https://customsongscentral.com/)
+* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_setlists), [2](https://customsongscentral.com/) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing)
 * [Roblox Archive](https://archive.roblonium.com/) - Roblox Client Archive 
 * [GrimReaper's Scene ISO Collection](https://archive.org/details/@waffess) - ISO Collection
 * [Redump Forum](http://forum.redump.org/) - Disc Preservation Project
@@ -209,6 +209,7 @@
 * [nwifiresticks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nwifiresticks) - ROMs
 * [Rom Pack](https://www.ROMspack.com/) - ROMs
 * [NoPayStation](https://nopaystation.com/) or [PSNDL](https://psndl.net/) - ROMs / Sony Consoles
+* [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
 * [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
 * [NSWDB](http://www.nswdb.com) - Switch Release Tracker
 * [HiddenPalace](https://hiddenpalace.org/) - Game Development Media Archive
