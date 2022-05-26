@@ -150,6 +150,7 @@
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Web Dev Roadmap
 * [Agernic](https://www.agernic.com/) - Web Design Courses
 * [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) - Interactive Web Design Tutorial
+* [backendlore](https://github.com/fpereiro/backendlore) - Backend Coding Guide
 * [UI & Web Design using Adobe Illustrator C](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ui_.26amp.3B_web_design_using_adobe_illustrator_c) - UI & Webdesign Course
 * [Learn UI Design](https://learnui.design/) - UI Design Course
 * [UXTools](https://uxtools.co/) or [UXMovement](https://uxmovement.com/) - Learn UX Design
@@ -283,6 +284,8 @@
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
 * [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - C++ Library for Discord
 * [Twitter (un)official Consumer Key](https://gist.github.com/shobotch/5160017) - Twitter Consumer Keys
+* [Birdsite](https://birdsite.slashdev.space/) - Twitter to ActivityPub Bridge
+* [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
 * [XunLei](https://www.xunlei.com/) - Shared Computing / Blockchain
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulator
@@ -360,7 +363,7 @@
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) - Meta Tag Generator
 * [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/), [Network Tools](https://network-tools.com/) or [WebsiteScoop](https://websitescoop.com/) - Domain Info / IP Tools
 * [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - Username Availability Check
-* [Pyfunceble](https://pyfunceble.github.io/#/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/) or [Domainr](https://domainr.com/) - Domain Availability Check 
+* [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/) or [Domainr](https://domainr.com/) - Domain Availability Check 
 * [TinyDomain](https://tinydomain.net/) - Short Domain Suggestions
 * [WorthBuck](https://worthbuck.com/) - Domain Price Estimations
 * [NetLib.re](http://netlib.re/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains 
@@ -385,6 +388,7 @@
 * [Plow](https://github.com/six-ddc/plow) - HTTP Benchmarking
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - Front-End Checklist 
 * [Flounder](https://flounder.online/) - Gemini Website Builder 
+* [Docker2SaaS](https://github.com/easychen/docker2saas) - Convert Docker Images to SaaS Websites
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
 * [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - Webpage Editor 
 * [Plunker](https://plnkr.co/) - Prototype / Test Websites Ideas
@@ -517,6 +521,8 @@
 * [NConfig](https://www.digitalocean.com/community/tools/nginx) - [NGINX](https://nginx.org/) Server Config
 * [tengine](https://github.com/alibaba/tengine) - NGINX with Extra Features
 * [Visual CSS Editor](https://chrome.google.com/webstore/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - WordPress Site Designer
+* [Mantiq](https://wpmantiq.com/) - Wordpress Visual Backend
+* [WPSQLite](https://github.com/hasinhayder/wpsqlite) - Wordpress Site Deployment Tool
 * [Nulled Scripts](https://www.nullscripts.net/), [NullJungle](https://nulljungle.com/), [Null PHP Script](https://nullphpscript.com/) or [WPFIC](https://www.wpfic.com/) - Nulled Scripts
 * [faustjs](https://github.com/wpengine/faustjs) - Wordpress Framework
 * [Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes) - Themes for Wordpress
@@ -578,6 +584,7 @@
 * [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - App Development Platform / [GitHub](https://github.com/xamarin)
 * [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS App Development Resources
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
+* [MemberPrism](http://r.ftqq.com/MemberPrism2/) - Member-Only App Builder
 * [App ideas](https://github.com/florinpop17/app-ideas) - Collection of App Ideas
 * [Docker](https://www.docker.com/) - Build, Manage & Run Apps in Containers / [Images](https://linuxserver.io/)
 * [Dive](https://github.com/wagoodman/dive) - Analyze Docker Images
@@ -623,6 +630,7 @@
 * [React Use](https://github.com/streamich/react-use) - React Hooks 
 * [React Suite](https://rsuitejs.com/) - React Components and Templates
 * [React Query](https://react-query.tanstack.com/) - Fetch, Cache and Update React Data / [GitHub](https://github.com/tannerlinsley/react-query)
+* [MMKV](https://github.com/mrousavy/react-native-mmkv) - React Key / Value Storage
 * [Vision Camera](https://mrousavy.com/react-native-vision-camera/) - React Camera Support / [GitHub](https://github.com/mrousavy/react-native-vision-camera)
 * [useAnimations](https://useanimations.com/index.html) - Animated Icon Pack
 * [Flubber](https://github.com/Appolica/Flubber) - Android Animation Creator
@@ -760,6 +768,7 @@
 * [up-for-grabs](https://up-for-grabs.net/) - Curated List of Tasks for New Contributes
 * [GitHub-Userscripts](https://github.com/Mottie/GitHub-userscripts) - GitHub Userscripts
 * [Awesome Actions](https://github.com/sdras/awesome-actions) - Curated List of Github Actions
+* [ActionServerless](https://github.com/gitx-io/ActionServerless) - Create Serverless Service
 * [GitKraken](https://www.gitkraken.com/) or [Sourcetree](https://www.sourcetreeapp.com/) - Git GUI
 * [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - Git TUI
 * [Codeberg](https://codeberg.org/), [Giters](https://www.giters.com/) or [GitGud](https://gitgud.io/) - Git Hosting
@@ -1009,6 +1018,7 @@
 * [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - Cloud Platform Index
 * [Openshift](https://che.openshift.io/) - Cloud IDE / Eclipse Che 
 * [Arduino](https://cloud.arduino.cc/) - Cloud IDE for Arduino
+* [Blazepack](https://github.com/ameerthehacker/blazepack) - Self-Hosted Development Environment
 * [bloop](https://bloop.ai/) - IDE AI Suggestion Extension
 * [glot.io](https://glot.io/) - Pastebin with Runnable Snippets, API & Compiler 
 * [Mystb.in](https://mystb.in/) - Code Pastebin
