@@ -1015,24 +1015,6 @@ pass: paluch
 
 *** 
 
-#### Masterclass Courses
-
-`aHR0cHM6Ly91cGxvYWRodWIudG8vZm9sZGVyLzc1NmU5YjM0NmE4Mzk2OTliMDc1ZTljNDgzOTkxYjkwL01hc3RlcmNsYXNz`
-
-*** 
-
-#### Mindvalley Courses
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9LYWhXVkk2TCNpamxyeE1wMHg1cWFEQjcxcjNtTHpnL2ZvbGRlci9tZndtaWFEWg==`
-
-*** 
-
-#### Lynda Courses
-
-`aHR0cHM6Ly9iaW4uc25vcHl0YS5vcmcvP2VmZTMyZmI5NmE5NDU4NTcjR1FMN3E0aHlLakNlQjZXTGJwcTk0UzEyQkV3aDVKV2M0YXBqbWI3UkU0U1U=`
-
-*** 
-
 #### Udemy Course Drives
 
 `aHR0cHM6Ly9yZW50cnkuY28vdG9hOHM=`
