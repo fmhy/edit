@@ -73,6 +73,7 @@
 * [brighstorm](https://www.brightstorm.com/) - Test Prep
 * [O'Reilly](https://www.oreilly.com/) - Tech / Programming / infinite free trial by clearing cookies / making new account
 * [pad.ma](https://pad.ma/) - Text-annotated Videos 
+* [Code.org](https://code.org/) - Computer Science Courses 
 * [How to Become a Computer Science Engineer](https://laconicml.com/computer-science-engineer-mit-university/) - Computer Science Courses 
 * [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree) - Computer Science Courses
 * [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - Computer Science Courses
@@ -177,6 +178,7 @@
 * [coursedown](https://coursedown.com/) - Courses
 * [cgpersia](https://cgpersia.com/category/download/learning) - Courses
 * [downloadpirate](https://www.downloadpirate.com/tutorial/) - Courses
+* [course-collections](https://rentry.co/course-collections) - Courses
 * [Free Udacity Skillshare Coursera EDX](https://t.me/Free_Udacity_Skillshare_Coursera) 
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
 * [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - Courses
@@ -192,10 +194,9 @@
 * [Course Code Drive](https://ddpanda.net/code/) - Courses / [Codes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_course_codes)
 * [FreetutsDownload.com](https://freetutsdownload.com/) - Courses / GDrive Host 
 * [iTunes U](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_itunesu_lectures) - Lectures
-* [Gurukul Soft Technology](https://www.gurukulsofttechnology.in/) - Computer Science Courses / [Telegram](https://t.me/gurukulsofttechnology)
-* [Masterclass Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_masterclass_courses) or [MasterClass0](https://t.me/MasterClass0) - Masterclass Courses
-* [Mindvalley Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mindvalley_courses) - Mindvalley Courses
-* [Lynda Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_lynda_courses) or [LyndaFree](https://t.me/lyndafree)  - Lynda Courses / pw: fmhy
+* [Gurukul Soft Technology](https://www.gurukulsofttechnology.in/) / [Telegram](https://t.me/gurukulsofttechnology) - Computer Science Courses
+* [MasterClass0](https://t.me/MasterClass0) - Masterclass Courses
+* [LyndaFree](https://t.me/lyndafree)  - Lynda Courses / pw: fmhy
 * [BestWSODownload](https://www.bestwsodownload.com/) - WSO Courses
 * [Udemy Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_udemy_course_drives)
 * [AirVibe](https://www.airvibe.me/) - Udemy Courses
@@ -626,6 +627,7 @@
 * [CrackAP](https://www.crackap.com/) - Practice AP Exams
 * [/r/ApStudents Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fr.2Fapstudents_resources) - Former AP Exams
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
+* [/r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
 * [AQA GCSE 2019](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_aqa_gcse_2019) - AQA 2019 GCSE Exams
 * [Future Vision BIE](https://hemanthrajhemu.github.io/) - VTU Study Material
 * [CrackJee](https://www.crackjee.xyz/) - JEE & NEET Study Material + Answers
