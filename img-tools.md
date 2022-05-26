@@ -275,9 +275,7 @@
 * [Behance](https://behance.net/) - Design Projects
 * [Placeit](https://placeit.net/) - Image Templates
 * [Crello](https://crello.com/) - Image Templates / Editor
-* [Bendodson](https://bendodson.com/projects/itunes-artwork-finder/), [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) - Find Multimedia Artwork
 * [Kemono](https://kemono.party/) - Patreon Content / Some NSFW
-* [FanArt](https://fanart.tv/) - Fan Made Posters / Logos 
 * [Worldvectorlogo](https://worldvectorlogo.com/), [PNGGrid](https://pnggrid.com/), [Logos & Badges Bundle](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_logos_.26amp.3B_badges_bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [logospire](http://logospire.com/), [logotalkz](http://www.logotalkz.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles
 * [Replacement Sky](https://replacement-sky.com/) - Skies for Photoshop
@@ -380,9 +378,9 @@
 * [Piwigo](https://piwigo.org/) or [Photonix](https://photonix.org/) - Photo Manager / Viewer
 * [PiGallery2](https://bpatrik.github.io/pigallery2/) - Self-Hosted Image Gallery
 * [FEMBOY](https://github.com/k1rak1ra/FEMBOY) - Anime Image Manager
-* [Pinry](https://docs.getpinry.com/ ) - Image Tiling Board
-* [Lychee](https://lycheeorg.github.io/) or [Chevereto](https://chevereto.com/) - Self-Hosted Image Host 
-* [Pixiv](https://www.pixiv.net/en/) - User Made Image Host / [Downloader](https://github.com/nonPointer/PixivDownloader), [2](https://chrome.google.com/webstore/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnj?hl=en), [3](https://github.com/Nandaka/PixivUtil2)
+* [Pinry](https://docs.getpinry.com/) - Image Tiling Board
+* [Lychee](https://lycheeorg.github.io/), [Up1](https://github.com/Upload/Up1) or [Chevereto](https://chevereto.com/) - Self-Hosted Image Host 
+* [Pixiv](https://www.pixiv.net/en/) - User-Made Image Host / [Downloader](https://github.com/nonPointer/PixivDownloader), [2](https://chrome.google.com/webstore/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnj?hl=en), [3](https://github.com/Nandaka/PixivUtil2)
 * [Pixelfed](https://pixelfed.org/) - Open Source Instagram Alternative
 * [Librephotos](https://github.com/LibrePhotos/librephotos), [Photoprism](https://github.com/photoprism/photoprism), [Photoview](https://github.com/photoview/photoview) or [Ownphotos](https://github.com/hooram/ownphotos/) - Self-Hosted Google Photo Manager 
 * [Pixelfed](https://pixelfed.org/) or [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts 
