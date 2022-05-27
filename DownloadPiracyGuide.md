@@ -40,7 +40,7 @@
 * [Xtremecloud](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_xtremecloud)
 * [smolOD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_smolod) - Small Open Directories
 * [Open Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_open_directory_indexes) - Open Directory Indexes
-* [ODCrawler](https://odcrawler.xyz/), [ODS](https://sites.google.com/view/l33tech/tools/ods), [EyeDex](https://www.eyedex.org/) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engine
+* [ODCrawler](https://odcrawler.xyz/), [ODS](https://sites.google.com/view/l33tech/tools/ods) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engine
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
 * [dedigger](https://www.dedigger.com/) - GDrive File Search 
 * [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) / [Discord](https://discord.gg/ZRhpUtzvkC) or [No Bucks Given](https://discord.gg/By53hyhUFS) - Drive Sharing Communities
@@ -74,7 +74,6 @@
 * [Warez-Serbia](https://www.warez-serbia.com/) - Video / Audio / Games / Software / Android / Books / Magazines / NSFW 
 * [DownArchive](http://downarchive.org/) - Video / Audio / Software / Games / Roms / Android / Books / Magazines
 * [SceneP2P](https://www.scenep2p.com) - Video / Audio / Games / Roms / Software / Android / Books / Magazines
-* [PuZo](https://www.puzo.org/) - Video / Audio / Software / Android / Games / Books / NSFW
 * [Adit-HD](https://www.adit-hd.com/) - Video / Audio / Games / Books 
 * [Novanon](https://novanon.net/) - Video / Audio / Software / Games / Magazines / Comics / Android / Books / Courses
 * [psychodownloads](http://psychodownloads.com/forum.php) - Video / Audio / Software / Android / Games / Roms / Books / Magazines / NSFW
@@ -189,7 +188,6 @@
 * **[LRepacks](https://lrepacks.net/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * **[AppNee](https://appnee.com/)**
 * **[YasDL](https://yasdl.com/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [ShareAppCrack](https://shareappscrack.com/) - Software / Courses
 * [downloadly](https://downloadly.ir/), [2](https://downloadly.net/) - Software / Courses / Persian VPN Required
 * [PiratePC](https://piratepc.me/) - [Discord](https://discord.gg/QhaKfHwWmV)
 * [SamLab](https://samlab.ws/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -208,7 +206,6 @@
 * [onHax](https://onhax.io/)
 * [MAZTERIZE](https://www.mazterize.com/) 
 * [Full Version Download](https://www.fullversiondl.com/)
-* [VectorItalia](https://www.vectoritalia.com/)
 * [FileOur](https://www.fileour.com/)
 * [Soft House](https://softhouse.cc/) 
 * [Mirror.una](http://mirror.una.ac.cr/) 
@@ -370,7 +367,6 @@
 * [Audio.Tools](https://audio.tools/) 
 * [AudioLove](https://audiolove.club/) 
 * [jbouchat](http://jbouchat.ucoz.com/)
-* [adaz3d](https://www.adaz3d.com/) - Leech Required 
 * [AudioZ](https://audioz.download/)
 
 ***
