@@ -203,7 +203,6 @@
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources 
 * [Blur](https://dnt.abine.com/) - Protect Passwords & Personal Information 
 * [Plain Text Offenders](https://plaintextoffenders.com/) - Sites That Don't Securely Store Passwords
-* [Send Password](https://horuspass.com/send/) - Encrypted Password Sharing 
 * [Gauth](https://github.com/pcarrier/gauth) - Google Authenticator for Laptops
 * [F-Secure Identity Theft Checker](https://www.f-secure.com/en/home/free-tools/identity-theft-checker) - Identity Theft Check
 * [Name & Identity Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_name_.26amp.3B_identity_generators) - Generate Fake Names, Identities & Address'
