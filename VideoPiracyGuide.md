@@ -197,7 +197,6 @@
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animated Film Archive
 * [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Film Archive
 * [JP-Films](https://jp-films.com/) - Japanese Movies / TV / English Subs 
-* [Watch HK Movies Online](https://vinspirezhk.blogspot.com/) - Rare Chinese Movies / English Subs
 * [TexasArchive](https://texasarchive.org/) - Texas Film Archive
 * [Chicago Film Archives](http://www.chicagofilmarchives.org/) - Chicago Film Archive
 * [Eastern European Movies](https://easterneuropeanmovies.com/) - Eastern European Film Archive 
