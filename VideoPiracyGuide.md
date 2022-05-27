@@ -123,7 +123,6 @@
 * [Swatchfree](https://swatchfree.in/) - Movies / TV
 * [WatchSeriesHD](https://www4.watchserieshd.tv/) - Movies / TV / Anime 
 * [Vmovee](https://www.vmovee.watch/) - Movies / TV
-* [WatchMoviesFree](https://wmoviesfree.com/) - Movies
 * [Filmxy](https://www.filmxy.pw/) - Movies
 * [MoviesXK](https://moviexk.biz/) - Movies / TV
 * [KissMovies](https://www.kissmovies.io/) - Movies / TV
@@ -384,7 +383,6 @@
 * [viewasian](https://viewasian.co/) - TV / Movies 
 * [AsianEmbed](https://asianembed.io/) - TV / Movies
 * [DramaNice](https://dramanice.cx/) - TV
-* [DramaGO](https://dramago.su/) - TV
 * [GoodDrama](https://gooddrama.live/) - TV / Movies
 * [MyAsianTV](https://myasiantv.cc/) - TV / Movies
 * [NewAsianTV](https://www2.newasiantv.pro/) - TV / Movies
@@ -594,7 +592,6 @@
 * [MoviesWBB](http://movieswbb.com/) - Movie / TV
 * [KatMovieHD](https://katmoviehd.nz/category/hollywood-eng/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [MKVBee](https://mkvbee.com/) - Movies / TV
-* [MKVHOUSE](https://mkvhouse.com/) - Movies / TV
 * [Minirlss](https://minirlss.com/) - Movies / TV / Anime
 * [NYMeriaTV](https://nymeriatv.com/) - Movies / TV
 * [FZMovies](https://fzmovies.net/) - Movies
@@ -609,7 +606,6 @@
 * [Happy2Hub](https://happy2hub.net/) - Movies / TV   
 * [FilmsZilla](https://filmszilla.com/) - Movies / TV
 * [Movies Downloader](https://movie.unlimitdownloads.com/) - Movies / TV
-* [MoviesMore](https://moviesmore.info/) - Movies / TV
 * [StreamCraze](https://streamcraze.com/) - Movies / TV
 * [MovieExplit](https://moviexplit.pw/) - Movies / TV / Anime / [Telegram](https://t.me/moviexplit)
 * [MovieFire](https://moviefire.net/) - Movies
@@ -630,7 +626,6 @@
 * [HDHub4U](https://hdhub4u.bar/category/hollywood-movies/) - Movies / TV
 * [MoviezAddiction](https://moviezaddiction.work/) - Movies / TV / [Telegram](https://t.me/moviezaddiction3)
 * [WorldFree4u](https://worldfree4u.download/) - Movies
-* [MP4Moviez](https://mp4moviez.pw/5/hollywood-english-movies.html) - Movies / TV
 * [Downloadhub](https://downloadhub.plus/category/hollywood-movies/) - Movies / [Telegram](https://t.me/downloadhubcool1)
 * [SSR Movies](https://www.ssrmovies.city/category/hollywood-movies-hd) - Movies / TV / [Telegram](https://t.me/SSRmovies2022) / [2](https://telegram3.xyz/)
 * [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV
@@ -649,8 +644,6 @@
 * [O2TVSeriesz](https://o2tvseriesz.com/) - Movies / TV
 * [Privatemoviez](https://privatemoviez.org/) - Movies / TV
 * [7Moviesrulz](https://7movierulz.se/category/hollywood-movie-2021/) - Movies
-* [oKhatrimaza](https://www.okhatrimaza.vin/category/7/hollywood-english-movies/default/1.html) - Movies
-* [SD Movies Point](https://1sdmoviespoint.kim/category/hollywooddd/) - Movies / TV
 * [SkyMoviesHD](https://skymovieshd.news/category/Hollywood-English-Movies.html) - Movies
 * [HDFriday](https://hdfriday.com/category/download-hollywood-movies/) - Movies
 * [MoviesDownloadHub](https://moviesdownloadhub.com/category/hollywood/) - Movies / TV
@@ -660,7 +653,6 @@
 * [Warez Lover](https://warezlover.org/) - Movies / TV 
 * [7StarHD](https://7starhd.cards/category/hollywood/) - Movies / TV
 * [LatestMovie4U](https://latestmovie4u.com/) - Movies / TV / Anime 
-* [CoolMovieZone](https://coolmoviezone.lat/) - Movies
 * [VegaMovies](https://vegamovies.onl/category/english/), [2](https://vegamovies.red/) - Movies / [Telegram](https://t.me/Vegamoviesgroup2)
 * [Subroz](https://subroz.live/0:/) - Movies / TV
 * [Wtfmovies](https://www.wtfmovies.xyz/) - Movies / TV
@@ -743,7 +735,6 @@
 * [MrDeadpool](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mrdeadpool) - Sub / Dub
 * [ANIME___](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime___) - Sub
 * [Anime Collection (3Tb)](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime_collection_.283tb.29) - Sub / Dub / Drive
-* [Anime Devil](https://animedevil.com/) - Sub / Dub
 * [DameDesuYo](https://damedesuyo.com/) - Sub
 * [TokyoInsider](https://www.tokyoinsider.com/) - Sub
 * [Chiby](http://www.animechiby.com/) - Sub
@@ -1022,7 +1013,6 @@
 * [Subtitlist](https://subtitlist.com/) - Subtitles 
 * [SubtitlesHub](https://subtitleshub.net/) - Subtitles 
 * [English-Subtitles](https://www.english-subtitles.me/) - Subtitles
-* [subf2m](https://subf2m.ir/) - Subtitles
 * [TVSubtitles](http://www.tvsubtitles.net/) or [TVSubs](http://www.tvsubs.net/) - TV Subtitles 
 * [kitsuneko](https://kitsunekko.net/) - Anime Subtitles 
 * [DownSub](https://downsub.com/) - Download Subs from Video Sites 
