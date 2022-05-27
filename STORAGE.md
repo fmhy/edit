@@ -2345,7 +2345,6 @@ Add the following commands to a search to manually scrape each site.
 
 * [Remux_2160P](https://t.me/Remux_2160P) - 4K Movies
 * [Rare Films](https://t.me/rarefilms) - Movies 
-* [SearchMoviesBot](https://t.me/SearchMoviesBot) - Movies 
 * [MoviesVerse](https://t.me/MoviesHomeOFFICIALS) - Movies / TV 
 * [SeriesArchiveX](https://t.me/SeriesArchiveX) - Movies / TV
 * [TVSeriesArchive](https://t.me/TvSeriesArchive) - TV
