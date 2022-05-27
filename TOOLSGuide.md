@@ -1559,7 +1559,6 @@ Twitch Stream Tracker
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - Facebook Search Formulas 
 * [Graph.tips](https://graph.tips/beta/) - Advanced Facebook Search Tool
 * [Color Themes](https://chrome.google.com/webstore/detail/color-themes-for-facebook/oohbdcphbnpnoohnbddhcfplalanfbmm), [Coloreatuface](https://www.coloreatuface.com/), [FB.Zone](https://fb.zone/) or [Color Changer](https://chrome.google.com/webstore/detail/color-changer-for-faceboo/blfkmmfngackeejimehjkmendglnabnm) - Color Themes for Facebook
-* [Fix Facebook](https://chrome.google.com/webstore/detail/fix-facebook/khofkolffpncpolmlealilmhajmalfbe) - Fix Font of Facebook and Messenger
 * [Kill Fbclid](https://chrome.google.com/webstore/detail/kill-fbclid/jlmdkcaiejonohbmkgickmkgbpceokmn) or [Remove FBclid](https://chrome.google.com/webstore/detail/remove-fbclid-and-utm/ehkdoijaaigomfliimepliikhjkoipob) Removes fbclid and utm_ query parameters in URLs
 * [Greenface](https://greenface.site/) or [Delete All Messages](https://chrome.google.com/webstore/detail/delete-all-messages-on-fa/hdigpgnfpockednepfiinhdjebkmpicn) - Remove All Messages
 * [Delete My Posts](https://www.deletemyposts.com/) - Bulk delete all your old Facebook posts, comments, photos, videos
@@ -1604,7 +1603,6 @@ Twitch Stream Tracker
 * [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) - BSD Operating Systems
 * [Rufus](https://rufus.ie/), [AIO Boot](https://www.aioboot.com/), [UUP](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x), [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - Create Bootable USB Drives  
 * [SARDU](https://www.sarducd.it/) - Create Recovery USB Flash Drive or Disk 
-* [Easy2Boot](https://www.easy2boot.com/) - Boot Directly from ISO's 
 * [rEFind](http://www.rodsbooks.com/refind/) - Boot Manager
 * [balenaEtcher](https://balena.io/etcher) - Flash OS Image SD / USB
 * [InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB) - Install Windows without USB
