@@ -980,9 +980,7 @@
 * [Read Light Novel ](https://www.readlightnovel.org/)
 * [Moon Bunny Cafe](https://moonbunnycafe.com/)  
 * [Book Smelting Bot](https://t.me/epub_smelter_bot) - Telegram / Bot
-* [WuxiaWorld](https://wuxiaworld.site/) - Manga / Novels 
 * [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - Novels / Audio Recordings  
-* [Wuxiaworld](https://www.wuxiaworld.co/) - Chinese Novels  
 * [NovelReader](https://github.com/Kevin-Umali/NovelReader) - Light Novel Reader
 * [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [QuickNovel](https://github.com/LagradOst/QuickNovel), [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl) or [Novel-Grabber](https://github.com/Flameish/Novel-Grabber) - Light Novel Downloader
 * [WebToEpub](https://github.com/dteviot/WebToEpub) - Novel to EPUB Converter
