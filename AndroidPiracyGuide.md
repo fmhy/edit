@@ -26,7 +26,7 @@
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls 
 * [Should I Call Back?](https://should-i-call-back.binary-person.dev/) or [Scammer.Info](https://scammer.info/) / [Discord](https://discord.com/invite/nUThJjK) - Scam Numbers Database
 * [Slide](https://github.com/ccrama/Slide), [2](https://f-droid.org/en/packages/me.ccrama.redditslide/), [Redditoria](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria), [RedReader](https://github.com/QuantumBadger/RedReader) or [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - Ad Free Reddit Client
-* [TwitchMod](https://t.me/pubTw) or [Twire](https://f-droid.org/packages/com.perflyst.twire/) - Ad Free Twitch App
+* [TwitchMod](https://t.me/pubTw), [Xtra](https://github.com/AndreyAsadchy/Xtra) or [Twire](https://f-droid.org/packages/com.perflyst.twire/) - Ad Free Twitch App
 * [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) - Remove Sponsored Telegram Messages
 
 ***
