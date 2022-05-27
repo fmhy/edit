@@ -120,7 +120,7 @@
 * **[Recommended Emulator Specs](https://emulation.gametechwiki.com/index.php/Computer_specs)**
 * **[Emulator Index](https://emulation.gametechwiki.com/)** or [The Emulator Zone](https://www.emulator-zone.com/)
 * **[ROM Site Index](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)**
-* **[Emuparadise](https://www.emuparadise.me/)** - Emulators / ROMs / [DL Script](https://redd.it/968sm6), [2](https://openuserjs.org/scripts/tommyoxox/EmuParadise_Download_Workaround_-_1.1.2), [3](https://gist.github.com/Eptun/3fdcc84552e75e452731cd4621c535e9) / [Forum](https://www.epforums.org/)
+* **[Emuparadise](https://www.emuparadise.me/)** - Emulators / ROMs / [DL Script](https://redd.it/968sm6) / [Forum](https://www.epforums.org/)
 * **[Vimms Lair](https://vimm.net/)** - Emulators / ROMs
 * [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Search ROM Sites
 * [Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators) 
