@@ -83,7 +83,6 @@
 * [sha256_project](https://github.com/oconnor663/sha256_project) - Applied Cryptography Course
 * [Sapience Institute](https://learn.sapienceinstitute.org/) - Religious Courses
 * [FreeCourseWebsite](https://freecoursewebsite.com/) - Udemy Courses
-* [HiDevs](https://hidevs.net/) - Udemy Courses
 * [UdemyFreeCourses](https://udemyfreecourses.org/) - Udemy Courses
 * [Study Bullet](https://studybullet.com/) - Udemy Courses / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw)
 * [TutsNode](https://tutsnode.net/) - Udemy Courses
