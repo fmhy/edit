@@ -27,7 +27,6 @@
 * **[FMHY Guides](https://fmhy.tk/guides)** - List of Guides
 * [Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - Find Software / App Alternatives 
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - Open Source Software Indexes
-* [Awesome Clones](https://github.com/Envoy-VC/awesome-clones) - Open Source Clones of Popular Sites
 * [/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful) - Helpful / Fun Sites Subreddit
 * [/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index), [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/ ) - /r/Piracy Index
 * [/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread) - Software Piracy Megathread
@@ -269,7 +268,6 @@
 * [PostSecret](https://postsecret.com/) - Share Secrets via Postcard
 * [This Is Sand](https://thisissand.com/) - Make Sand Art 
 * [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem 
-* [MarbleRun](https://www.marblerun.at/) - Create Marble Courses
 * [Bouncy Balls](https://bouncyballs.org/) or [Balls Simulation](http://ricktu288.github.io/balls-simulation/) - Ball Physics Simulator
 * [Fluid Simulation WebGL](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) or [WebGL Fluid Experiment](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/) - Fluid Simulation
 * [WebGL Water](http://madebyevan.com/webgl-water/) - Water Simulation 
@@ -774,7 +772,7 @@
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
 * [GoldenCheetah](https://www.goldencheetah.org/) - Biking Tracker
 * [Wandermap](http://www.wandermap.net/) - Hiking Routes
-* [Marcher](https://marcher.app/) or [MapMyWalk](https://www.mapmywalk.com/) - Walking Tracker
+* [MapMyWalk](https://www.mapmywalk.com/) - Walking Tracker
 * [RunnerUp](https://github.com/jonasoreland/runnerup) - Run Tracker
 * [Runmap](http://www.runmap.net/) - Running Routes
 * [Charity Miles](https://charitymiles.org/) - Donate to Charity While Running / Biking
@@ -1299,7 +1297,6 @@
 * **[Greasy Fork](https://greasyfork.org/en)**, [Userscripts](https://userscripts-mirror.org/) or [OpenUserJS](https://openuserjs.org/) - Install Userscripts / [Change Theme](https://greasyfork.org/en/scripts/4336) / [Remove Crap](https://greasyfork.org/en/scripts/12179-greasyfork-bull-filter)
 * [Awesome Userscripts](https://github.com/bvolpato/awesome-userscripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Index
 * [darkmode.js](https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c) - Dark Mode Script
-* [Hcaptcha Solver](https://greasyfork.org/en/scripts/425854) - Captcha Solvers
 * [Solved Media Plus](https://greasyfork.org/en/scripts/422074-solved-media-plus) - Image Captcha Solver
 * [Remove Web Limits](https://greasyfork.org/en/scripts/28497-remove-web-limits-modified), [2](https://greasyfork.org/en/scripts/386908-remove-web-limits-re-modified) - Force Enable Right Click
 * [anti-anti-copy](https://greasyfork.org/en/scripts/7197) - Copy Text from Any Site
