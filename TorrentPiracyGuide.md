@@ -154,7 +154,7 @@
 * [Torlook](https://gw1.torlook.info/)
 * [Torrent.nz](https://torrent.nz/) 
 * [Torrenteer](http://torrenteer.ddns.net/)
-* [TorrentProject2](https://torrentproject2.com/)
+* [TorrentProject2](https://torrentproject2.com/) / [Script](https://gist.github.com/byzantium225/7cd2287548c81f00dcca923617dcc69e) (click "Raw" to install)
 * [ciligou0](http://ciligou0.com/) 
 * [TorrentDB](https://torrentdb.li/)
 * [0Mag](https://www.0mag.net/), [2](https://9mag.net/), [3](https://3mag.net/) 
