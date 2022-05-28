@@ -1043,7 +1043,6 @@
 * [iPA Host](https://github.com/ipahost) - App Tweaks / Social Media’s
 * [EonHub](https://app.eonhubapp.com/) - Hacked Apps / Tweaks 
 * [Scarlet](https://usescarlet.com/) - Hacked apps / Tweaks
-* [tweakboxapp](https://next.tweakboxapp.com/) - App Tweaks
 * [iPASpot](https://ipaspot.app/) - Hacked / Tweaked iOS Apps 
 * [LocalAPStore](https://repo.hackyouriphone.org/localiapstore), [Satella](https://paisseon.github.io/) / [2](https://github.com/Paisseon/Satella/) or [My iAP Cracker](https://repo.hackyouriphone.org/myiapcracker) - In-App Purchase Mods
 * [AppSync Unified](https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified) - IPA Installation Tweak
