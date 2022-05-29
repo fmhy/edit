@@ -1808,6 +1808,7 @@ Twitch Stream Tracker
 * [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
 * [UUP dump](https://uupdump.net/) - Download Windows UUP files   
 * [DLL Downloader](http://www.dlldownloader.com/), [dll-hub](https://dll-hub.com/), [dlldump](https://dlldump.com/), [dllfile](https://dllfile.net/), [windll](https://windll.com/), [dll4free](https://dll4free.com/), [dllme](https://dllme.com/dll/files/steam_api32_dll.html), [wikidll](https://wikidll.com/) or [DLL-Files](https://www.dll-files.com/) - Windows DLL Files
+* [OcxDump](https://ocxdump.com/) - .ocx Files
 * [sven dpi](https://www.sven.de/dpi/) - DPI Calculator 
 * [Screen Sizes](https://screensiz.es/) - Screen Size Database
 * [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
@@ -1968,18 +1969,19 @@ Twitch Stream Tracker
 * [Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools) - File Tools for Telegram
 * [FreeOnlineEditor](https://freeonlineeditor.com/) or [TinyWow](https://tinywow.com/) - Multiple File Tools
 * [horsicq](https://horsicq.github.io/) - Multiple File Programs / [GitHub](https://github.com/horsicq/)
-* [Pandoc](https://pandoc.org/) or [CometDocs](https://www.cometdocs.com/) - Document Converter 
+* [Pandoc](https://pandoc.org/) or [CometDocs](https://www.cometdocs.com/) - Document Converter
 * [Interior Generator](https://powerkdp.com/interior-generator/) / [2](https://designer.bookbolt.io/interior-generator.php) - Document Interior Generator
 * [ConvertCSV](https://www.convertcsv.com/) - CSV Data Conversion
 * [Encoding Converter](https://encoding-converter.netlify.app/) - File Encoding Converter
 * [UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - Convert Update Platform Files to Windows Media Files
-* [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - DataHoarding Tools Index   
+* [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - DataHoarding Tools Index
 * [FileInfo](https://fileinfo.com/) or [File-Extensions](https://www.file-extensions.org/) - File Extension Library
 * [download](https://github.com/kevva/download) - File Download Tool / Extractor / [CLI](https://github.com/kevva/download-cli)
 * [XBackBone](https://xbackbone.app/) - File Manager / [GitHub](https://github.com/SergiX44/XBackBone)
 * [DropIt](http://www.dropitproject.com/) - Automated File Management
 * [What](https://github.com/bee-san/pyWhat) - Text & File Analyzer
 * [WhoLeaked](https://github.com/utkusen/wholeaked) - File Leak Tracker
+* [DownloadTimeCalculator](https://downloadtimecalculator.com/) - Calculate Time to Download Files
 * [Download Proxy](https://download-proxy.zhaofengying.com/) - File Proxy Server Downloader
 * [Files 2 Folder](https://www.dcmembers.com/skwire/download/files-2-folder/) - Create / Copy to Folders Created by File Name
 * [File-Examples](https://file-examples.com/) - File Examples
