@@ -591,6 +591,7 @@
 * [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - Rephrase / Paraphrase Text 
 * [cb2bib](https://www.molspaces.com/cb2bib/) - Reference Extractor / Manager
 * [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - Grade School Educational Tools
+* [ScienceTrek](https://sciencetrek.org/) - Teaching Resources
 * [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - UPSC Telegram Channels 
 * [AuthorStream](http://www.authorstream.com/) or [Slideshare](https://www.slideshare.net/) - Watch / Share Slideshows & Presentations 
 * [SlideShare Downloader](https://slideshare.theteacoder.tech/), [2](https://www.slidesharedownloader.com/) - Download Slideshow Presentations 
