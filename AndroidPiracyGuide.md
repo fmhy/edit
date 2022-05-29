@@ -250,7 +250,6 @@
 * [Shitter](https://github.com/nuclearfog/Shitter) or [Harpy](https://play.google.com/store/apps/details?id=com.robertodoering.harpy.free) - Twitter Client
 * [Twiger](https://twiger.launchaco.com/) - Share Any Tweet on Instagram
 * [Google Lens](https://lens.google/) - Multiple Camera Tools
-* [Gallery](https://www.simplemobiletools.com/gallery) - Photo Gallery
 * [Widgetshare](https://play.google.com/store/apps/details?id=com.galew.widgetshare) - Photo Sharing App 
 * [PhotoRoom](https://www.photoroom.com/) - Background Remover
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera), [DMGC](https://thedise.me/dmgc/) or [Camator](https://gcamator.com/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/)
