@@ -93,7 +93,7 @@
 * **RarBG Tools** - [Python Interface](https://github.com/verybada/rarbgapi) / [Advanced Filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) / [Add Links](https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links) / [Thumbnails](https://github.com/keyboardslayer/rarbg-thumbnails) / [IMDb Ratings](https://greasyfork.org/en/scripts/36751-rarbg) / [IMDb Ratings](https://greasyfork.org/en/scripts/36751-rarbg)
 * **[RuTracker](http://rutracker.org)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - Video / Audio / Games / Software / Android / Comics / Magazines
 * **RuTracker Tools** - [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Onion](http://rutrackerripnext.onion/) / [Search API](https://github.com/nikityy/rutracker-api)
-* **[TorrentGalaxy](https://torrentgalaxy.to/)** - Video / Audio / Games / Software / NSFW / [Mirrors](https://proxygalaxy.pw/), [2](https://torrentgalaxy.org/) / [.onion](http://galaxy2gchufcb3z.onion/)
+* **[TorrentGalaxy](https://torrentgalaxy.to/)** - Video / Audio / Games / Software / NSFW / [Mirrors](https://proxygalaxy.pw/)
 * [Demonoid](https://www.demonoid.is/), [2](https://www.dnoid.to/) - Video / Audio / Software / Games / Books / Comics
 * [Pirateiro](http://pirateiro.com) - Video / Audio / Games / Roms / Software / Android / Books / Comics / NSFW
 * [GloTorrents](https://glodls.to) - Video / Audio / Games / Books / Software / Android / NSFW
