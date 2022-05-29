@@ -103,7 +103,6 @@
 * [NovelLibrary](http://novellibrary.com/) - Books / [Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_novel_library_drive) 
 * [iBookPile](https://ibookpile.net/) - Books
 * [DownLoadBooks](https://downloadbooks.unblockit.dev/) - Books
-* [Any Books Free](http://anybooksfree.com/) - Books
 * [DPLA](http://dp.la/) - Books
 * [Books'Cool](https://www.bookscool.com/en/index.php) - Books
 * [Dirzon](https://www.dirzon.com/) - Books
@@ -226,7 +225,6 @@
 
 ## ▷ Classic Sites
 
-* [GRTBooks](http://grtbooks.com/)
 * [Classic Bookshelf](http://www.classicbookshelf.com/library/)
 * [Page by Page Books](https://www.pagebypagebooks.com/) 
 * [Luminarium](http://www.luminarium.org/) 
@@ -964,6 +962,7 @@
 * [Readwn](https://www.readwn.com/) 
 * [Nakimushitl](https://nakimushitl.wordpress.com/)
 * [NovelCool](https://www.novelcool.com/)
+* [Novels.pl](https://www.novels.pl/)
 * [Scribblehub](https://www.scribblehub.com/)
 * [All Novel Full](https://allnovelfull.com/)
 * [MTL Nation](https://mtlnation.com/)
