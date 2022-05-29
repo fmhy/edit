@@ -130,6 +130,7 @@
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Osu! Collection Manager
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer
 * [GmodContent](https://gmodcontent.com/) - Garry's Mod Content Packs
+* [GMOD Textures Fix](https://fragboss.com/gmod-textures-fix-css-textures/) - Fix Garry's Mod Textures
 * [OrignStubDecrypter](https://github.com/PotatoOfDoom/OriginStubDecrypter) - EA Origins Stub Decrypter
 * [Tarac](https://sims.tarac.nl/the-sims-4/sims-4-download-update-repair-add-dlcs/) - Sims 4 Update / Repair Tool
 * [Payday 2 Social Safe](https://www.overkillsoftware.com/payday2-social-safe/) - Free Payday 2 Offers
