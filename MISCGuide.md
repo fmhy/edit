@@ -225,7 +225,7 @@
 * **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - Realistic-Looking Fake Versions of Things 
 * [TheOnion](https://theonion.com/) - Fake New Articles 
 * [KongouCheats](https://kongoucheats.com/) or [Wimp.com](https://www.wimp.com/) - Watch Random Memes / Videos 
-* [Funnyjunk](https://funnyjunk.com//), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [iFunny](https://ifunny.co/) or [Imageboard Scraper](https://nik.bot.nu/) - Images, Videos, Memes & GIFs / Some NSFW
+* [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [iFunny](https://ifunny.co/) or [Imageboard Scraper](https://nik.bot.nu/) - Images, Videos, Memes & GIFs / Some NSFW
 * [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
 * [SfwChan](http://boards.swfchan.net/) - SFW Archive
 * [SakugaBooru](https://www.sakugabooru.com/) - Image Booru
