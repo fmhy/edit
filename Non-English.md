@@ -1829,7 +1829,6 @@
 * [indianebooks](https://t.me/indianebooks) - Books
 * [Digital Library of India](https://dli.sanskritdictionary.com) - Books
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - Radio
-* [EPaper](https://todayepaper.co/) - Indian Newspapers Today
 * [BotAllen](https://botallen.com/) - Kodi Repo
 * [PCPriceTracker](https://pcpricetracker.in/) - Track PC Component Rupee Prices
 * [IDCARDS.PW](https://www.idcards.pw/) - Fake Indian ID Card Generator
