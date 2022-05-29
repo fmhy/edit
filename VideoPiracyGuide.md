@@ -145,6 +145,7 @@
 * [CimaClub](https://www.cimaclub.cc/category/%D8%A3%D9%81%D9%84%D8%A7%D9%85-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Shahed4u](https://shahed4u.onl:2053/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a-1/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [MovGoTV](https://movgotv.com/) - Movies / TV / Anime
+* [TorrentKingNow](https://torrentkingnow.co/) - Movies
 * [HollyMovieHD](https://hollymoviehd.cc/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime
 * [YMovies](https://ymovies.vip/) - Movies / TV / Anime
 * [5Movies.pw](https://5movies.pw/) - Movies / TV / Anime
@@ -461,6 +462,7 @@
 * [LM Shows](https://lmshows.se/) - TV
 * [TVOnline.Liveschauen](https://tvonline.liveschauen.com/) - TV 
 * [WwiTv](https://wwitv.com/) - TV
+* [PhotoCall](https://photocall.tv/) - TV
 * [puffer](https://puffer.stanford.edu/) - TV 
 * [WorldCupFootball](http://www.worldcupfootball.me/) - Sports
 * [6stream](http://6stream.xyz/) - Sports
@@ -489,7 +491,7 @@
 * [fromHOT](http://www.fromhots.com/) - Sports
 * [DaddyLive](https://daddylive.me/) - Sports
 * [Volokit](https://community.volokit.com/) - Sports 
-* [StrikeOut](https://www.strikeout.nu/) - Sports
+* [StrikeOut](https://ko.strikeout.cc/) - Sports
 * [BestSolaris](http://bestsolaris.com/) - Sports
 * [Strumyk](http://strumyk.tv/) - Sports
 * [Score808](http://www.score808.vip/) - Sports
@@ -812,6 +814,7 @@
 * [EniaHD](https://eniahd.com/) - Movies / TV
 * [TorHD](https://torhd.com/) - Movies
 * [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)
+* [TorrentKingNow](https://torrentkingnow.co/) - Movies
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - Movies
 * [YTS](https://yts.mx/) - Movies / [Mirror](https://yify.netlify.app/) / Do [NOT](https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) Make Account 
 * [Yify-Torrent](https://yify-torrent.cc/) - Movies
