@@ -294,6 +294,7 @@
 * [PDF Maker](https://play.google.com/store/apps/details?id=opofficial.pdfmaker) - PDF Creator
 * [Fasthub-Libre](https://github.com/thermatk/FastHub-Libre) - Github Client
 * [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - Track Github User Activity
+* [Lagrange](https://skyjake.github.io/fdroid/repo/) - Gemini Browser
 * [BlueClover](https://github.com/nnuudev/BlueClover) - 4Chan Browser
 * [LoliSnatcher Droid](https://github.com/NO-ob/LoliSnatcher_Droid) - Booru Client
 * [ServeIt](https://github.com/many-fac3d-g0d/ServeIt) - Android HTTP Server
