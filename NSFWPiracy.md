@@ -114,7 +114,7 @@
 * [ComicsArmy](https://comicsarmy.com/) - Comics
 * [BeNudes](https://benudes.com/) - Erotic Stories
 * [Pinkfire Store](https://store.pinkfire.pw/) - NSFW Mobile Apps
-* [FYPTT](https://fyptt.to/), [FikFap](https://fikfap.com/), [xxxtik](https://xxxtik.com/), [Leaque](https://leaque.net/) or [TTHOTS](https://ttthots.com/) - TikTok Style Browsing 
+* [FYPTT](https://fyptt.to/), [FikFap](https://fikfap.com/), [xxxtik](https://xxxtik.com/) or [TTHOTS](https://ttthots.com/) - TikTok Style Browsing 
 * [Booba.tv](https://booba.tv/) - Twitch Streamers
 * [PhoenixAdult](https://github.com/DirtyRacer1337/Jellyfin.Plugin.PhoenixAdult) - Jellyfin Porn Plugin
 * [xHubApp](http://xhubapp.com/) - AIO Premium Porn Services App
