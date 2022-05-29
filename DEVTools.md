@@ -38,7 +38,7 @@
 * [FutureCoder](https://futurecoder.io/), [complete python developer](https://t.me/Udemy_Python_Developer), [Python Full Course](https://youtu.be/XKHEtdqhLK8) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - Python Course
 * [Modern Python 3 Bootcamp Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modern_python_3_bootcamp_courses)
 * [Tea Press](https://greenteapress.com/wp) - Free Python Learning Books Green
-* [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) - Python Cheatsheet
+* [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheet
 * [VSCode.one](https://vscode.one/) - VS Code Tutorials
 * [Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) or [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - Programming & Development Learning Channels
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - Code Algorithms & Data Structures Tutorials
