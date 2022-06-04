@@ -276,7 +276,7 @@
 * [File Guard](https://mybrowseraddon.com/file-encryptor.html) - File Encryption / Decryption
 * [Trace](https://absolutedouble.co.uk/trace/) - Privacy Toolkit 
 * [Site Bleacher](https://github.com/wooque/site-bleacher) - Auto Remove Cookies, Local Storages, ect.
-* [LibRedirect](https://github.com/libredirect/libredirect), [Invidition](https://codeberg.org/Booteille/Invidition) - Frontend Redirect
+* [Invidition](https://codeberg.org/Booteille/Invidition) or [LibreDirect](https://github.com/libredirect/libredirect) - Frontend Redirect
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
 * [catgirl.cloud](https://catgirl.cloud/) - Privacy-Respecting Services
 * [Anti-Grabify](https://github.com/Konnor88/anti-grabify) - Block IP Grabbers
