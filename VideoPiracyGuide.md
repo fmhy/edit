@@ -577,7 +577,6 @@
 * [My Duck Is Dead](http://www.myduckisdead.org/) - Rare Movies / NSFW 
 * [Choices](https://howlongwillthishydralast.weebly.com/choices.html) - Movies / TV
 * [MobileTVShows](https://www.mobiletvshows.net/) - TV / Anime
-* [MoviesforDiscord](https://discord.gg/h3uM4zQ9QR) - Movie Streaming / Download Bot / [Website](https://movies4discord.xyz/)
 * [Medeberiyaa](https://medeberiyaa.com/) - Movies / TV / Anime
 * [PSARips](https://psa.pm/) - Movies / TV / [GDrive Telegram](https://t.me/PSAonGdrive) / [Scraper](https://github.com/NandiyaLive/PSALinkGrabber)
 * [MNF Encode](https://mnfencode.me/) - Movies / TV / Concerts / [Discord](https://discord.gg/5QTp8cgrjx)
