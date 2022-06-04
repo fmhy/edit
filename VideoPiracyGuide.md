@@ -958,7 +958,6 @@
 * **[Movie-Forum](https://movie-forum.co/forums/23-Requests)** - Movies
 * **[TopNow](https://discord.gg/marBA97)** - Movies / TV / Anime
 * **[WorldsCinema](http://worldscinema.org/movie-request/)** - Movies 
-* **[MoviesForDiscord](https://discord.gg/h3uM4zQ9QR)** - Movies / TV / Anime
 * [RareFilmm](http://rarefilmm.com/requests/) - Rare Movies 
 * [Sanet.st](https://sanet.st/community/t/requests) - Movies / TV 
 * [MegaDDL](https://megaddl.co/tv-request/) - TV
