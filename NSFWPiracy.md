@@ -2,10 +2,6 @@
 
 ***
 
-**This list only contains sites that aren't found on [PornDude](https://theporndude.com/), so make sure to check out their list as well.**
-
-***
-
 # Porn
 
 ## Site Lists
