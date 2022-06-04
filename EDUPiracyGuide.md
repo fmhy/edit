@@ -599,7 +599,6 @@
 * [ChemicalAid](https://en.intl.chemicalaid.com/) - Chemistry Calculators & Element Tables
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
 * [Retrosynthesis](http://retrosynthesis.com/) - Organic Retrosynthesis Engine / [GitHub](https://github.com/sudo-rushil/odachi)
-* [amrita olabs](https://amrita.olabs.edu.in/) - Science Practicals / Theory / Animations / Simulations 
 * [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) - Homework Help 
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets 
 * [Answers Exchange](https://discord.gg/GFp9Rvr), [Toppr](https://www.toppr.com/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
