@@ -273,8 +273,8 @@
 * [MoviesniPipay](https://moviesnipipay.me/) - Movies / TV
 * [Pinoyflix](https://pinoyflix.to/) -  Movies / TV
 * [PinoyHD](https://www.pinoy-hd.xyz/) -  Movies / TV
-* [Pinoy Albums](https://pinoyalbums.com/) - Stream / Music
-* [Pinoy TV](https://opaua.com/) - TV Series / Replays
+* [Pinoy TV](https://opaua.com/) - TV 
+* [Pinoy Albums](https://pinoyalbums.com/) - Music
 
 ***
 
