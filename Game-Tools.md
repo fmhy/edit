@@ -278,10 +278,10 @@
 
 * **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** 
 * **[MCModdingGuide](https://rentry.org/MCModdingGuide)** - Minecraft Modding Guide 
+* [**Minecraft Optimization Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_optimization_mods)** - Improve Minecrafts Performance
 * [Awesome Minecraft](https://github.com/bs-community/awesome-minecraft) - Minecraft Resource Index
 * [Minecraft Tools](https://minecraft.tools/en/) - Minecraft Tools 
 * [Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods) - Minecraft Mod Collections 
-* [Minecraft Optimization Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_optimization_mods) - Improve Minecrafts Performance
 * [Charm](https://svenhjol.github.io/Charm/), [Vanillatweaks](https://www.vanillatweaks.net/) or [Quark](https://quarkmod.net/) - Mincraft Quality of Life Mod
 * [Minecraft QOL Mods](https://rentry.co/mc-qol) or [sk1er.club](https://sk1er.club/) - Minecraft Quality of Life Mod List
 * [MCPEDL](https://mcpedl.com/) - Minecraft PE/Bedrock Mods, Maps & Resources
