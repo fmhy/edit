@@ -1594,7 +1594,6 @@ Twitch Stream Tracker
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [Shucks](https://shucks.top/) - External Drive Price Tracker
 * [Technical City](https://technical.city/) - Hardware Comparisions
-* [CPU Boss](http://cpuboss.com/) - CPU Comparisons
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - Mouse Click Latency Chart
 * [Sensor.fyi](https://sensor.fyi/info/) - Mouse Guide / Information
