@@ -157,7 +157,6 @@
 * [NSFWDownloader](https://github.com/h110m/NSFWDownloader) - Porn Downloader
 * [Pornhub DL Script](https://redd.it/ks5sba), [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) or [Savido Pornhub](https://www.savido.net/sites/pornhub) - Pornhub Downloader
 * [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - FC2 Image Scraper
-* [TheYNC Download Guide](https://pastebin.com/JiKgRE4M)
 
 ***
 
