@@ -782,7 +782,7 @@
 * [Email Valid](https://ivit.pro/services/email-valid/) or [Ychecker](https://ychecker.com/) - Check Email Validity & Usage
 * [Useplaintext](https://useplaintext.email/) - How-To Use plaintext Email 
 * [Briskine](https://www.briskine.com/) - Email Templates
-* [Signature Maker](https://signature-maker.net/) or [Email Signature Creator](https://kilobytetech.com/tools/email-signature-creator/) - Email Signature Creator 
+* [Signature Maker](https://signature-maker.net/) - Email Signature Creator 
 * [Mail-in a Box](https://mailinabox.email/) - Self Host a Mail Server / [GitHub](https://github.com/mail-in-a-box/mailinabox)
 * [Yandex Account Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - Create Infinite Yandex Accounts
 * [Gmail Dot Trick Generator](https://thebot.net/api/gmail/) - Generate Unlimited Gmail Accounts via the Dot Trick
