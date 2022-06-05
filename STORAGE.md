@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/5oy9Pkm.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/WDr59GD.png)** - For mobile users
 
 ***
 ***
@@ -658,7 +658,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * [Xtreme Downlaod Manager](https://xtremedownloadmanager.com/) 
 * [Chrono Download Manager](https://www.chronodownloader.net/) 
 * [GetGo Download Manager](http://www.getgosoft.com/) 
-* [Down Them All](https://www.downthemall.net/) 
 * [Download Accelerator Manager](http://www.damdownloader.com/) 
 * [FlashGot](https://flashgot.net/) 
 * [massivedl](https://github.com/dimkouv/massivedl)
@@ -1100,7 +1099,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://manhwakool.com/
 * https://manhwatop.com/
 * https://www.instamanhwa.com/
-* https://manhwa.biz/
 * https://manhwa365.com/
 * https://manhwa68.com/
 * https://zinmanga.com/
@@ -1466,7 +1464,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Pastebins
 
-**[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**, **[Paste.FMHY](https://paste.fmhy.tk/)**, **[disroot](https://bin.disroot.org/)**, **[rentry](https://rentry.co/)**, [TextBin](https://textbin.xyz/), [PrivateBin](https://privatebin.info/directory/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [0bin](https://0bin.net/), [pst.moe](https://pst.moe/), [ZeroBin](http://www.zerobinqmdqd236y.onion/), [Hastebin](https://hastebin.com/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [anonpaste](https://anonpaste.org/), [paste.shitpost](https://paste.shitpost.to/), [bin.idrix](https://bin.idrix.fr/), [zerobin](https://zerobin.net/), [teknik](https://paste.teknik.io/), [ghostbin](https://ghostbin.com/), [cryptobin](https://cryptobin.co/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [cyberdrop bin](https://bin.cyberdrop.me/), [fssquad](https://share.fssquad.com/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [katb](https://katb.in/), [paaster](https://paaster.io/), [trushbin](https://trushbin.com/), [nopaste](https://nopaste.ml/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](https://pastebin.pl/)
+**[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**, **[Paste.FMHY](https://paste.fmhy.tk/)**, **[disroot](https://bin.disroot.org/)**, **[rentry](https://rentry.co/)**, [TextBin](https://textbin.xyz/), [PrivateBin](https://privatebin.info/directory/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [pst.moe](https://pst.moe/), [ZeroBin](http://www.zerobinqmdqd236y.onion/), [Hastebin](https://hastebin.com/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [anonpaste](https://anonpaste.org/), [paste.shitpost](https://paste.shitpost.to/), [bin.idrix](https://bin.idrix.fr/), [zerobin](https://zerobin.net/), [teknik](https://paste.teknik.io/), [ghostbin](https://ghostbin.com/), [cryptobin](https://cryptobin.co/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [cyberdrop bin](https://bin.cyberdrop.me/), [fssquad](https://share.fssquad.com/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [katb](https://katb.in/), [paaster](https://paaster.io/), [trushbin](https://trushbin.com/), [nopaste](https://nopaste.ml/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](https://pastebin.pl/)
 
 ***
 
@@ -2029,6 +2027,12 @@ Add the following commands to a search to manually scrape each site.
 **Spotify Themes**
 
 [Colorize](https://colorify.live/) / [Spicetify](https://spicetify.app/) / [CLI](https://github.com/khanhas/spicetify-cli) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Discord](https://discord.gg/VnevqPp2Rr) / [Easy Install](https://github.com/OhItsTom/spicetify-easyinstall/), [Fluent](https://github.com/williamckha/spicetify-fluent)
+
+***
+
+#### SSH & SSL Servers
+
+[SSHKit](https://sshkit.com/), [FlySSH](https://www.flyssh.com/), [SSHSSL](https://www.sshssl.com/), [jagoanssh](https://www.jagoanssh.com/), [spotssh](https://spotssh.com/), [criarssh](http://criarssh.com/), [dewassh](https://dewassh.net/), [ciscossh](https://ciscossh.com/), [skyssh](https://skyssh.com/), [digitalssh](https://digitalssh.net/), [sshaccess](https://sshaccess.com/), [interssh](https://interssh.com/), [speedssh](https://www.speedssh.com/), [sshudp](http://www.sshudp.com/), [FastSSH](https://www.fastssh.com/), [createssh](https://createssh.com/), [freesslvpn](https://freesslvpn.us/)
 
 ***
 
