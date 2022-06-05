@@ -208,7 +208,7 @@
 * [Steamless](https://github.com/atom0s/Steamless) - DRM Remover
 * [Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack) - Auto Apply Goldberg & Steamless
 * [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Steam DLC Unlocker / [Search](https://creamapidb.tech/) / [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
-* [Koalageddon](https://github.com/acidicoala/Koalageddon/) - DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)
+* [Koalageddon](https://github.com/acidicoala/Koalageddon/) - DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay
 * [Get DLC from SteamDB](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837)
 * [Steamworkshop.download](http://steamworkshop.download/) - Download files from the Steam workshop 
 * [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop Implementation of Steam's Mobile Authenticator 
@@ -240,7 +240,7 @@
 * [EpicAuth-Loader](https://gitlab.com/TheTank3753/EpicAuth-Loader) - Cracked Epic Games Launcher
 * [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - Epic Online Service Emulator
 * [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker 
-* [Koalageddon](https://github.com/acidicoala/Koalageddon/) - DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)
+* [Koalageddon](https://github.com/acidicoala/Koalageddon/) - DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay
 
 ***
 
