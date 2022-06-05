@@ -287,7 +287,7 @@
 * [TikTok Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tiktok_video_downloaders) - Download TikTok Videos
 * [myfaveTT](https://myfavett.com/) - Download Your Liked TikTok Videos
 * [TikUp](https://github.com/Coloradohusky/TikUp) - TikTok Auto Download / Upload
-* [How to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/), [3](https://0bin.net/paste/cYxSEPRq#w7i1vJSMVKTRKgGmdURaXdvNpimP2p9IxgF38I75NUQ)
+* [How to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/)
 * [How to Rip Videos from Disney+](https://redd.it/ncyxzx), [2](https://web.archive.org/web/20210516014412/https://old.reddit.com/r/Piracy/comments/ncyxzx/tutorial_how_to_rip_moviesshows_from_disney_plus/) 
 * [PlayPhrase](https://playphrase.me/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/), [2](https://getyarn.io/) - Clip Quote Search Engine
 * [FFmpeg](https://ffmpeg.org/) - Video / Audio Recorder, Converter & Streaming
@@ -637,7 +637,6 @@
 * [PHPCRM](https://www.phpcrm.com/) - Company Management Software
 * [SplitBee](https://splitbee.io/) - Business Analytics Tool
 * [Invoicely](https://invoiceto.me/) - Invoice Generator
-* [Visuafy](https://visuafy.com/) - Create Charts From Data
 * [Kimai](https://www.kimai.org/) - Working Hours Tracker
 * [Dataviz](https://github.com/nalgeon/dataviz) - Design Reports
 * [Zeoob](https://zeoob.com/) - Social Media Digital Marketing Post Simulator
@@ -896,7 +895,7 @@
 * [Video Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0) - Search YouTube-Like Video Sites
 * [Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei), [2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) - Search Anime Streaming Sites
 * [TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg) - Search TV Streaming Sites
-* [Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z), [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h), [3](https://theabhishek.dev/torrentables/) - Multi-Site Download Search
+* [Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z), [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Multi-Site Download Search
 * [Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr), [2](https://cse.google.com/cse?cx=89f2dfcea452fc451), [3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * [Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io), [2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) - Search Audio Download Sites
 * [Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8) - Search Anime Download Sites
@@ -1368,7 +1367,7 @@
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
 * [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - YouTube to GIF 
 * [VideoGlancer](https://videoglancer.com/) - YouTube to PDF
-* [ytcropper](https://ytcropper.com/), [YTCutter.net](https://ytcutter.net/) or [YTCutter.com](https://ytcutter.com/) - YouTube Video Cropper
+* [ytcropper](https://ytcropper.com/) or [YTCutter.com](https://ytcutter.com/) - YouTube Video Cropper
 * [Vid Repeat](https://vidrepeat.com/) - Loop YouTube Videos
 * [AnnotationsRestored](https://github.com/isaackd/AnnotationsRestored) - Restore YouTube Annotations
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note Taking Tool
