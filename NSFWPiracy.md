@@ -130,7 +130,6 @@
 * [PornFile](https://pornfile.cz/) 
 * [0xxx](https://0xxx.ws/) 
 * [Pornoslon](http://pornoslon.me/) 
-* [MangoVideo](https://45.mangovideo.pw/contents/videos/)
 * [PornBBS](http://pornbbs.org/) 
 * [Kimochi](https://kimochi.tv/) 
 * [Anix.moe](https://www.anix.moe/)
