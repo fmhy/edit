@@ -173,7 +173,6 @@
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor & Log System Activity
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
 * [FSLint](http://www.pixelbeat.org/fslint/) - Duplicate File Finder
-* [XClicker](https://xclicker.pages.dev/) - Autoclicker
 * [CoreELEC](https://github.com/CoreELEC/CoreELEC) - Kodi Based Operating System
 * [Asus-Linux](https://asus-linux.org/) - Linux ASUS Notebook Guide
 * [Breathing](https://github.com/SeaDve/Breathing) - Relaxation / Breathing Tool
@@ -474,7 +473,6 @@
 * [Mac Torrents](https://www.torrentmac.net/) 
 * [MacTorrents](https://mactorrents.io/) 
 * [HaxMac](https://haxmac.cc/) 
-* [MacDownload](https://www.macdownload.org/) 
 * [InsMac](https://www.insmac.org/) 
 * [MacX](https://www.macx.ws/) 
 * [Downmienphi](https://downmienphi.com/)
@@ -491,7 +489,6 @@
 * [SCNLOG](https://scnlog.me/) 
 * [Macgamefiles](http://www.macgamefiles.com/)
 * [NXMac](https://nxmac.com/) 
-* [MacDownload](https://www.macdownload.org/) 
 * [Mac Torrents](https://www.torrentmac.net/) 
 * [MacTorrents](https://mactorrents.io/)
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Epic Games Launcher
