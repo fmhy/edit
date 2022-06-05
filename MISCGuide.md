@@ -879,7 +879,6 @@
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
 * [4G LTE Coverage](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b) - 4G LTE Coverage Map
 * [Wigle](https://wigle.net/) - 802.11 Wireless Network Map
-* [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - Web Service Coverage Map
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
 * [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/) - Vegetation and Moisture Map
 * [Waqi.info](http://waqi.info/) - Air Pollution Map
