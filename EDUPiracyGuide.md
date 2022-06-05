@@ -147,7 +147,6 @@
 * [Mega Tech Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mega_tech_courses) - Courses
 * [Super Huge Course Collection](https://babiato.co/threads/%F0%9F%94%A5%F0%9F%94%A5-super-huge-course-collection-700-courses-3tb-data-%F0%9F%94%A5%F0%9F%94%A5.40041/) - Courses
 * [online-courses](https://online-courses.club/) - Courses
-* [Course Upload](https://courseupload.com/) - Courses 
 * [Coursesghar](https://coursesghar.com/) - Courses 
 * [CourseUpload](https://courseupload.net/) - Courses
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses 
