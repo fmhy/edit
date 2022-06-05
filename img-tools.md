@@ -427,7 +427,7 @@
 ## ▷ Instagram Tools
 
 * **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** or [InstaFollowers](https://www.instafollowers.co/instagram-tools) - Multiple Tools 
-* [Deskgram](https://deskgram.app/) or [GridsApp](https://gridsapp.net/) - Desktop Client
+* [GridsApp](https://gridsapp.net/) - Desktop Client
 * [InstaKiller](https://github.com/InstaKiller/InstaKiller) - Instagram CLI
 * [AeroInsta](https://aeroinsta.com/), [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - Modded Android App
 * [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - Modded iOS App
