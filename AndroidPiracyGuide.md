@@ -122,7 +122,6 @@
 * [Android x86](https://www.android-x86.org/) - Android Desktop OS / [Installer](https://supreme-gamers.com/r/advanced-android-x86-installer-for-windows.61/)
 * [BlissOS](https://blissos.org/) - Android Desktop OS
 * [RemixOS](https://www.fosshub.com/Remix-OS.html) - Android Desktop OS
-* [PhoenixOS](http://www.phoenixos.com/en/) - Android Desktop OS
 * [PhoenixOS - BR](https://discord.gg/BQ4td84) - Android Desktop OS
 * [PhoenixOS Darkmatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)
 * [ApkOnline](https://www.apkonline.net/) - Online Android Emulator / [Extension](https://chrome.google.com/webstore/detail/apkonline/lnhnebkkgjmlgomfkkmkoaefbknopmja)
@@ -460,7 +459,6 @@
 * [Host Apk](https://www.hostapk.com/) - Modded
 * [APK Google](https://apkgoogle.org/) - Modded
 * [ytricks](https://www.ytricks.net/) - Modded
-* [APK Whale](https://www.apkwhale.com/) - Modded
 * [LetsCrackOn](https://letscrackon.org/downloads/) - Modded
 * [APK Folks](https://apkfolks.com/) - Modded
 * [Thinkkers](https://thinkkers.com/) - Modded / [Discord](https://t.me/thinkkers)
@@ -715,7 +713,6 @@
 * [Bouncy](https://github.com/WeeklyProblem/Bouncy) - Movies / TV / Anime / Chromecast
 * [IsraTV](https://isratv.netlify.app/) - Movies / TV / Live TV
 * [MediaBox HD](https://mediaboxhd.net/) - Movies / TV / Chromecast
-* [PikaShow](https://pikashow.app/app) - Movies / TV
 * [Modded Hotstar](https://t.me/shooterOfficial1/38308) - Movies / TV
 * [Movie HD](https://moviehdapkdownload.com/moviehd-apk/) - Movies / TV / Chromecast
 * WiWiCenter - [Movies / TV](https://cinema.wiwicenter.com/) / [Anime](https://anime.wiwicenter.com/) - Use Adblocker
