@@ -411,7 +411,7 @@
 * [TheExifer](https://www.thexifer.net/index.php) or [Exiv2](https://www.exiv2.org/) - Image EXIF Data Editor 
 * [Nameexif](https://us.digicamsoft.com/softnamexif.html) - Bulk Image EXIF Data Editor
 * [pdf-redact-tools](https://github.com/firstlookmedia/pdf-redact-tools) - Remove Metadata from Documents / PDF Files 
-* [Mat2](https://0xacab.org/jvoisin/mat2) / [Web](https://matweb.info/) / [Desktop](https://metadatacleaner.romainvigier.fr/), [2](https://0xacab.org/jvoisin/mat2-web), [metadata-cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - Remove Metadata from Files
+* [Mat2](https://0xacab.org/jvoisin/mat2) / [Desktop](https://metadatacleaner.romainvigier.fr/), [2](https://0xacab.org/jvoisin/mat2-web), [metadata-cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - Remove Metadata from Files
 * [SecLists](https://seclists.org/) - Security Mailing List Archive 
 * [OpenPhish](https://openphish.com/) - Phishing Threat Data 
 * [Panopticlick](https://coveryourtracks.eff.org/) - Test if your Browser Blocks Tracking 
@@ -559,7 +559,7 @@
 * [Fri-Gate](https://fri-gate.org/) - Advanced Proxy Settings Addon  
 * [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - Limit Proxy Usage by Private Windows 
 * [Hitch](https://hitch-tls.org/) - SSL / TLS Proxy
-* [SSHKit](https://sshkit.com/), [FlySSH](https://www.flyssh.com/), [SSHSSL](https://www.sshssl.com/), [jagoanssh](https://www.jagoanssh.com/) or [FastSSH](https://www.fastssh.com/) - SSH & SSL Servers
+* [SSH & SSL Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ssh_.26amp.3B_ssl_servers) - SSH & SSL Proxy Servers
 * [frp](https://github.com/fatedier/frp) or [reverse-proxy](https://github.com/microsoft/reverse-proxy) - Reverse Proxy 
 
 ***
