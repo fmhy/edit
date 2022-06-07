@@ -188,7 +188,7 @@
 * [Crowdsec](https://crowdsec.net/) - Crowd-Sourced Intrusion Detection / Prevention / [GitHub](https://github.com/crowdsecurity/crowdsec)
 * [Fail2Ban](https://www.fail2ban.org/wiki/index.php/Main_Page) - Protect Servers from Brute Force Attacks / [GitHub](https://github.com/fail2ban/fail2ban)
 * [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - Anti-Censorship Tool Index 
-* [Your Freedom](https://www.your-freedom.net/) or [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) - Anti-Censorship Tool
+* [Your Freedom](https://www.your-freedom.net/), [Geneva](https://geneva.cs.umd.edu/) / [GitHub](https://github.com/kkevsterrr/geneva) or [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) - Anti-Censorship Tool
 * [Element](https://element.io/) / [Themes](https://github.com/aaronraimist/element-themes), [qTox](https://qtox.github.io/), [Utopia](https://u.is/en/), [linphone](https://www.linphone.org/), [Jami](https://jami.net/), [Tox](https://tox.chat/), [Bitmask](https://bitmask.net/) or [Wickr](https://wickr.com/) - Encrypted Messaging / Video Calls 
 * [Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
