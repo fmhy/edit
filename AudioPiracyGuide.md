@@ -12,7 +12,7 @@
 
 ## ▷ Streaming Apps
 
-* **[Spotify Client](https://www.spotify.com/us/download/)**, [SpotifyD](https://github.com/Spotifyd/spotifyd), [ncspot](https://github.com/hrkfdn/ncspot), [SpoTube](https://github.com/KRTirtho/spotube) or [XpoMusic](https://xpomusic.com/) - Streaming
+* **[Spotify Client](https://www.spotify.com/us/download/)**, [SpotifyD](https://github.com/Spotifyd/spotifyd), [ncspot](https://github.com/hrkfdn/ncspot) or [SpoTube](https://github.com/KRTirtho/spotube) - Streaming
 * **[Spotify Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Spotify Tools, Adblockers, Customization & More
 * [YouTube Music Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_music_players) - Streaming
 * [FunkWhale](https://funkwhale.audio/) - Streaming
