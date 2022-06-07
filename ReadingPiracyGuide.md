@@ -667,7 +667,7 @@
 * [NSA Archive](https://nsarchive.gwu.edu/) - Reports
 * [NAP](https://www.nap.edu/) - Reports
 * [WikiLeaks](https://wikileaks.org/) - Leaked Documents 
-* [CensorBib](https://censorbib.nymity.ch/) - Internet Censorship Research Papers
+* [CensorBib](https://censorbib.nymity.ch/) or [censoredplanet.org](https://censoredplanet.org/) - Internet Censorship Research Papers
 * [Constitute Project](https://www.constituteproject.org/) - World Constitutions Database
 * [ArmyPubs](https://armypubs.army.mil/) - Military Documents & Manuals
 * [NASA NTRS](https://ntrs.nasa.gov/search.jsp) - NASA Documents
