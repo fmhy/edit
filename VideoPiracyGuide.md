@@ -575,7 +575,6 @@
 * [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
 * [RareLust](https://rarelust.com/) - Rare Movies / NSFW 
 * [My Duck Is Dead](http://www.myduckisdead.org/) - Rare Movies / NSFW 
-* [Choices](https://howlongwillthishydralast.weebly.com/choices.html) - Movies / TV
 * [MobileTVShows](https://www.mobiletvshows.net/) - TV / Anime
 * [Medeberiyaa](https://medeberiyaa.com/) - Movies / TV / Anime
 * [PSARips](https://psa.pm/) - Movies / TV / [GDrive Telegram](https://t.me/PSAonGdrive) / [Scraper](https://github.com/NandiyaLive/PSALinkGrabber)
@@ -808,7 +807,6 @@
 * [Baby Torrent](https://babytorrent.fun/) - Movies / TV
 * [Vuze](https://www.vuze.com/content/) - Movies / TV 
 * [ATORRENTS](https://atorrents.com/) - Movies
-* [TorrentCue](http://torrrentcue.cc/Hollywood.html) - Movies
 * [EniaHD](https://eniahd.com/) - Movies / TV
 * [TorHD](https://torhd.com/) - Movies
 * [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)
