@@ -191,7 +191,7 @@
 
 ***
 
-## ▷ Rom Archives
+## ▷ ROM Archives
 
 * **[No-Intro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_no-intro)** - ROMs
 * **[AlvRo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_alvro)** - ROMs
