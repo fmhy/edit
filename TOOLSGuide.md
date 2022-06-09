@@ -1794,7 +1794,6 @@ Twitch Stream Tracker
 * [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
 * [Revo Uninstaller](https://www.revouninstaller.com/), [Soft Organizer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_soft_organizer), [Geek Uninstaller](https://geekuninstaller.com/), [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) or [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Software Uninstallation Tool
 * [O&O App Buster](https://www.oo-software.com/en/ooappbuster) - Remove Pre-Installed Microsoft Apps
-* [How to Disable Microsoft Edge](https://ibb.co/dkJ4Tb4)
 * [Update Notifier](http://cleansofts.org/view/update-notifier.html) - Scan Computer for Software Updates 
 * [SnappyDrivers](https://www.snappy-driver-installer.org/) - Update / Install Missing Drivers 
 * [Downloadkar](https://downloadkar.ir/) or [Drivers Collection](https://driverscollection.com/) - Device Drivers / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -1856,7 +1855,7 @@ Twitch Stream Tracker
 * [store.rg](https://store.rg-adguard.net/) - Microsoft Store Link Generator 
 * [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) or [Reinstall Preinstalled](https://pastebin.com/5NnBEqnm) / [Guide](https://youtu.be/EQo53hvWy8Q) - Add Microsoft Store to Windows
 * [Vantage](https://rentry.co/lenbian) - Lenovo Vantage Without MS Store
-* [Edgeuninstaller](https://rentry.org/uninstalledge) - Completely Uninstall Microsoft Edge
+* [Edgeuninstaller](https://rentry.org/uninstalledge) or [Disable Edge](https://ibb.co/dkJ4Tb4) - Remove Microsoft Edge
 * [amogOS](https://github.com/jostroOS/amogOS) - Rasberry Pi OS
 * [Raspberry Pi 4 Bootloader USB Mass Storage Boot Guide](https://jamesachambers.com/new-raspberry-pi-4-bootloader-usb-network-boot-guide/) - How-to Boot Raspberry Pi from USB
 * [Awesome Raspberry Pi](https://rpi.thibmaek.com/) - Rasberry Pi Resources / [GitHub](https://github.com/thibmaek/awesome-raspberry-pi)
