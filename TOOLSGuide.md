@@ -1854,7 +1854,7 @@ Twitch Stream Tracker
 * [DependecyWalker](https://www.dependencywalker.com/) or [Dependencies](https://github.com/lucasg/Dependencies) - View Application Dependencies 
 * [FluentStore](https://github.com/yoshiask/FluentStore) - Microsoft Store Frontend
 * [store.rg](https://store.rg-adguard.net/) - Microsoft Store Link Generator 
-* [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) or [Reinstall PReinstalled](http%3A%2F%2Fgo.microsoft.com%2Ffwlink%2F%3FLinkId%3D619547&v=EQo53hvWy8Q) / [Guide](Guide: https://youtu.be/EQo53hvWy8Q) - Add Microsoft Store to Windows
+* [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) or [Reinstall Preinstalled](https://pastebin.com/5NnBEqnm) / [Guide](https://youtu.be/EQo53hvWy8Q) - Add Microsoft Store to Windows
 * [Vantage](https://rentry.co/lenbian) - Lenovo Vantage Without MS Store
 * [Edgeuninstaller](https://rentry.org/uninstalledge) - Completely Uninstall Microsoft Edge
 * [amogOS](https://github.com/jostroOS/amogOS) - Rasberry Pi OS
