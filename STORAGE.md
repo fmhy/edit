@@ -2801,13 +2801,11 @@ Good for finding classic, obscure & short films.
 * **[Windows AME](https://ameliorated.info/)**
 * [Massgravel's Pastebin](https://pastebin.com/raw/jduBSazJ)
 * [Bob Pony](https://downloadui.bobpony.com/)
-* [Soft.uclv](https://soft.uclv.edu.cu/Microsoft/)
 * [ReviOS](https://sites.google.com/view/meetrevision)
 * [ISO Files](https://isofiles.bd581e55.workers.dev/0:/). [2](https://stuff.mtt-m1.workers.dev/)
 * [microsoft-download-link-archive](https://github.com/luzeadev/microsoft-download-link-archive)
 * [malwarewatch](https://dl.malwarewatch.org/windows/)
 * [Windows ISO Google Doc](https://docs.google.com/spreadsheets/d/1zTF5uRJKfZ3ziLxAZHh47kF85ja34_OFB5C5bVSPumk/) 
-* [msdn.hackerc](https://msdn.hackerc.at/)
 * [VLSC](http://vlsc.ksu.ac.th/)
 * [geeks4christ](http://www.geeks4christ.org/MS-OS/)
 * [kacabenggala](https://kacabenggala.uny.ac.id/windows/)
