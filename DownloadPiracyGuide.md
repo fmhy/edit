@@ -199,7 +199,6 @@
 * [Pesktop](https://pesktop.com/en/) 
 * [TheMicroTech](https://programs.themicrotech.net/) 
 * [TeamOS](https://www.teamos-hkrg.com/)
-* [msdn.hackerc](https://msdn.hackerc.at/)  
 * [Cyberspace](https://cyberspace.world/)
 * [4Download](https://www.4download.net/) 
 * [SoftFamous](https://softfamous.com/) 
