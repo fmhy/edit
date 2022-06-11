@@ -62,6 +62,7 @@
 * [Forgehub](https://www.forgehub.com/) - Halo Maps
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - Breath of The Wild Map
 * [Hallownest](https://www.hallownest.net/) - Hollow Knight Map
+* [Hoyolab Teyvat Interactive Map] (https://act.hoyolab.com/ys/app/interactive-map/index.html), [Map Of Genshin] (https://mapofgenshin.com/), [Mapgenie Teyvat Interactive Map] (https://mapgenie.io/genshin-impact) or [Genshin Impact Map] (https://genshin-impact-map.appsample.com/) - Genshin Impact Interactive Maps
 * [Daedalus](http://www.astrolog.org/labyrnth/daedalus.htm) - Maze Creation / Solving Program
 * [Library of Codexes](http://libraryofcodexes.com/) - Game Codex Library
 * [Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Covers for Games 
