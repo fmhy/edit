@@ -135,12 +135,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 ***
 
-#### 15TB Anime Collection
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXZTZEpvX09ySk5nVklSWXN2VHdSLVBlTHlNOEwtVjBN`
-
-***
-
 #### Judas TeamDrive
 
 `aHR0cHM6Ly9ncm91cHMuZ29vZ2xlLmNvbS9kL2ZvcnVtL2p1ZGFzZGRsIA==`
