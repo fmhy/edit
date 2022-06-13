@@ -714,7 +714,6 @@
 * **[AnimeKaizoku](https://animekaizoku.com/)** - Sub / Dub / [Dual Audio](https://github.com/AnimeKaizoku/KaizokuPatcher)
 * **[hi10anime](https://hi10anime.com/)** - Sub
 * **[Judas Discord](https://discord.gg/vbJ7RTn)** - Sub / Dub / [TeamDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_judas_teamdrive)
-* **[15TB Anime Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_15tb_anime_collection)** - Sub / Dub
 * **[Erai-Raws](https://www.erai-raws.info/)** - Sub / [Discord](https://discord.gg/2PfWaar)
 * **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)** - Telegram Anime Download Channels 
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - Sub / Dub / Anime / Manga Download Forum
