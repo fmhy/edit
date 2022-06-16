@@ -363,14 +363,13 @@
 
 # ► Homebrew
 
-* **[3DS Hack Guide](https://3ds.hacks.guide/)** - Custom Firmware
+* **[Hacks.Guide](https://hacks.guide/)** - 3DS / Wii U / PS Vita Homebrew Guides
 * [ConsoleMods.org](https://consolemods.org/) - Console Modding Wiki / [Discord](https://discord.gg/x5vEnkR4C8)
 * [Digiex](https://digiex.net/forums/) - Console Modding / Homebrew Guides
 * [Homebrew Guides](https://rentry.co/Guides) - Homebrew Guides & Setups
 * [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - Homebrew News & Guides
 * [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - Wii Homebrew Installer / [Find MAC](https://www.nintendo.com/consumer/systems/wii/en_na/includes/rvl-ht-int-find-mac-address.jsp)
 * [WiiU Exploit](https://wiiuexploit.xyz/) or [ModMii](https://modmii.github.io/) - WiiU Homebrew Installer
-* [Wii U Hacks Guide](https://wiiu.hacks.guide/) - Wii U Hacking Guide
 * [Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)
 * [Homebrew Gang](https://thehbg.shop/main.html) - Switch Homebrew Community
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - Switch Homebrew Subreddit
@@ -391,7 +390,6 @@
 * [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - PS3 Homebrew Subreddit
 * [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
 * [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PSCX Development Emulator
-* [Vita Guide](https://vita.hacks.guide/) - PS Vita (TV) Custom Firmware
 * [Tinfoil](https://tinfoil.io/) - Switch Title Manager / File Browser 
 * [ModMyClassic](https://modmyclassic.com/) - Classic Console Mods
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) - Multiplayer Switch Servers
