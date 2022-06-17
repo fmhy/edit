@@ -1706,31 +1706,10 @@
 
 
 ## ▷ Streaming
-
-* [TVHai](http://tvhai.org/) - Movies / TV / Anime
-* [VPHim](https://vphimzz.net/) - Movies / TV / Anime
-* [BiluTV](https://bilutv.link/) - Movies / TV / Anime
-* [GhienTV](https://ghientv.net/) - Movies / TV
-* [Vkool](https://vkoolz.net) - Movies / TV
-* [XemPhim](https://xemphim.app/) - Movies / TV
+* [LokLok](https://loklok.com/vi) - Movies / TV / Anime
 * [Phim4400](https://xemphimnao.com/) - Movies / TV
-* [MotChill](https://motchill.net/), [2](https://motphimtv.tv/) - Movies / TV
-* [BiChill](https://bichill.tv/) - Movies / TV
-* [PhimChill](https://phimchill.tv/), [2](https://phimmoichill.net/) - Movies / TV
-* [OPhim](https://ophim.net/) - Movies / TV
-* [PhimBo](https://phimbo.tv/) - Movies / TV
-* [PhimMoi](https://phimmoi.link/) - Movies / TV
-* [LuotPhim](https://luotphim.cc/), [2](https://luotphim.fun/), - Movies / TV
-* [NguonPhim](http://nguonphim.org/), [2](http://nguonhd.com/), - Movies / TV
-* [DongPhim](https://dongphymtv.com/) - Movies / TV
-* [Phim1080](https://phim1080z.com/), [2](https://fim1080.com/) - Movies / TV
-* [PhimHD](http://phimhd.xyz/) - Movies / TV
-* [PhimGi](https://phimgii.tv/) - Movies / TV
-* [MeoPhim](https://meophim.tv/) - Movies / TV
-* [PhimHay](https://phimhaytvv.net/) - Movies / TV
-* [VPhimMoi](https://vphimmoi.co/) - Movies / TV
-* [PhimGi](https://phimgii.tv/) - Movies / TV
-* [ZingTV](https://zingvntv.com/) - Movies / TV
+* [XemPhim](https://xemphim.app/) - Movies / TV
+* [XemPhimPlus](https://xemphim.fun/) - Movies / TV
 * [PhimTor](https://phimtor.com/) - Movies
 * [HoatHinhTQ](https://www.hhtq.net/) - Chinese Animation
 * [HHTQtv](https://hhtq.tv/) - Chinese Animation
