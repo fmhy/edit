@@ -123,7 +123,6 @@
 * **[FapNationBot](https://discord.gg/MxyvAV22cE)** - Premium Porn Download Bot
 * [Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "nsfw"
 * [PornFactors](http://pornfactors.com/) 
-* [RaidForums NSFW](https://raidforums.com/Forum-Not-Safe-For-Work)
 * [Best-MovieZ](https://www.best-moviez.ws/category/porn-18/) 
 * [HugeWarez](http://hugewarez.net/xxx-full-movies/) 
 * [Uploadgig](https://ugmovies.org/porn-movies/) 
@@ -241,7 +240,6 @@
 * [Haho](https://haho.moe/)
 * [HentaiStream](https://hentaistream.moe/) 
 * [HentaiDude](https://hentaidude.com/)
-* [RaidForums NSFW](https://raidforums.com/Forum-Not-Safe-For-Work)
 * [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46) 
 * [sakuracircle](https://sakuracircle.com/) 
 * [MyReadingManga](https://myreadingmanga.info/)
