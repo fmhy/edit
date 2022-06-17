@@ -1024,7 +1024,6 @@
 * [AppValley](https://www.appvalley.vip/) - Tweaked App Store
 * [Tutubox](https://tutubox.io/) - Tweaked Apps Store 
 * [TweakBox](https://www.tweakboxapp.com/) - Alt App Store
-* [iPAGarage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ipagarage) - Community Based Tweaked/Hacked iOS App Library / [Twitter](https://twitter.com/ipagarage/)
 * [Cydia](https://cydia.saurik.com/) - App Store / [Paid Apps](https://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown) / [Updates](https://t.me/cydiaupdate)
 * [BuildStore](https://builds.io/) - App Store
 * [AppStore](https://t.me/iOSAppsFree) - Tweaked Apps
