@@ -51,7 +51,7 @@
 * [ClickSpeeder](https://clickspeeder.com/) or [CPSCounter](https://cpscounter.org/) - Click Speed Test / Trainers
 * [TASVideos](https://tasvideos.org/) - Watch and Publish Tool Assisted Speedruns
 * [MacroGamer](https://www.itoady.com/) - Game Macro Recorder
-* [Blitz](https://blitz.gg/) - Post Match Performance Analyzer / [Adblocker](https://github.com/lulzsun/blitz-app-adblock) 
+* [Blitz](https://blitz.gg/) - Post Match Performance Analyzer
 * [Valve Archive](https://valvearchive.com/) - Rare Valve Data Archive
 * [Previously on Halo](https://previouslyonhalo.com/) - Halo Franchise History
 * [Map Genie](https://mapgenie.io/) or [VGMaps](http://www.vgmaps.com/)  - Game Maps 
