@@ -227,6 +227,7 @@
 * [CCams](http://www.ccamc.co/) - Chinese Character Search
 * [CBeta](http://www.cbeta.org/) - Chinese Buddhist Scriptures
 * [21dzk](https://21dzk.l.u-tokyo.ac.jp/SAT/index.html) - Chinese Buddhist Scriptures
+* [Legado](https://github.com/gedoor/legado) - Android Ebook Reader
 
 ***
 
