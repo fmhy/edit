@@ -430,7 +430,6 @@
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - Grayscale Control
 * [MacOSIcons](https://macosicons.com/) - MacOS Icons
 * [Rayon](https://github.com/Lakr233/Rayon) - SSH Machine Manager
-* [Discord M1](https://github.com/yannhodiesne/Discord-M1) - M1 Mac Discord App
 * [equinux](https://equinux.github.io/) - OS X Certificate Fix
 * [Lilu](https://github.com/acidanthera/Lilu) - Kext / Process Patcher
 * [JenV](https://www.jenv.be/) - Java Environment Manager / [GitHub](https://github.com/jenv/jenv)
