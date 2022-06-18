@@ -1703,8 +1703,6 @@
 * [NetHD](https://nethd.org/) - Video / Audio / Software / Games
 * [3ChangTrai](https://3changtrai.com/) - Video / Audio / Software
 
-
-
 ## ▷ Streaming
 
 * [TVHai](http://tvhai.org/) - Movies / TV / Anime
@@ -1720,6 +1718,9 @@
 * [OPhim](https://ophim.net/) - Movies / TV
 * [PhimBo](https://phimbo.tv/) - Movies / TV
 * [PhimMoi](https://phimmoi.link/) - Movies / TV
+* [XemPhim](https://xemphim.app/) - Movies / TV
+* [XemPhimPlus](https://xemphim.fun/) - Movies / TV
+* [LokLok](https://loklok.com/vi) - Movies / TV / Anime
 * [LuotPhim](https://luotphim.cc/), [2](https://luotphim.fun/), - Movies / TV
 * [NguonPhim](http://nguonphim.org/), [2](http://nguonhd.com/), - Movies / TV
 * [DongPhim](https://dongphymtv.com/) - Movies / TV
