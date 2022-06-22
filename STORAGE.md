@@ -1491,7 +1491,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Plagiarism Detection
 
-[Plagiarism Checker](https://www.grammarly.com/plagiarism-checker), [PaperRater](https://www.paperrater.com/), [Quetext](https://www.quetext.com/), [PlagiarismDetector](http://www.plagiarismdetector.net/), [CopyScape](https://www.copyscape.com/), [PLText](https://pltext.com/), [plagscan](https://www.plagscan.com/), [plagiarismchecker](https://www.plagiarismchecker.co/), [grammarly](https://www.grammarly.com/plagiarism-checker), [duplichecker](https://www.duplichecker.com/), [writer](https://writer.com/plagiarism-checker/), [unicheck](https://unicheck.com/), [plagiarismsearch](https://plagiarismsearch.com/), [plagiarismcheckerx](https://plagiarismcheckerx.com/), [onlineplagiarismchecker](https://onlineplagiarismchecker.net/), [copyleaks](https://copyleaks.com/), [plagiarismchecker](https://1text.com/plagiarismchecker) 
+[Grammarly Plagiarism Checker](https://www.grammarly.com/plagiarism-checker), [PaperRater](https://www.paperrater.com/), [Quetext](https://www.quetext.com/), [PlagiarismDetector](http://www.plagiarismdetector.net/), [CopyScape](https://www.copyscape.com/), [PLText](https://pltext.com/), [plagscan](https://www.plagscan.com/), [plagiarismchecker](https://www.plagiarismchecker.co/), [duplichecker](https://www.duplichecker.com/), [writer](https://writer.com/plagiarism-checker/), [unicheck](https://unicheck.com/), [plagiarismsearch](https://plagiarismsearch.com/), [plagiarismcheckerx](https://plagiarismcheckerx.com/), [onlineplagiarismchecker](https://onlineplagiarismchecker.net/), [copyleaks](https://copyleaks.com/), [plagiarismchecker](https://1text.com/plagiarismchecker) 
 
 ***
 
