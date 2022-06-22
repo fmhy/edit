@@ -106,7 +106,6 @@
 * [Monero](https://monero.ist/) - Movies / TV
 * [Movie-Forum](https://movie-forum.co/forum.php) - Movies / TV
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
-* [2Embed](https://www.2embed.ru/library) - Movies / TV
 * [Series9](https://series9.me/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_goldmovies_clones)
 * [Cloudy](https://cloudy.pk/category/english/) - Movies / TV
 * [Levidia](https://www.levidia.ch/) - Movies / TV / Anime
@@ -133,13 +132,11 @@
 * [Afdah](https://afdah2.com/) - Movies
 * [XMovies](https://ww.xmovies.is/) - Movies / TV / Anime 
 * [SeeHD](https://seehd.nl/), [StreamCR](https://streamcr.vip/) or [5Movies](https://5movies.run/) - Movies / TV / Anime
-* [SeeHD.uno](https://www.seehd.uno/) - Movies / TV / Anime / NSFW 
 * [XXIKU](https://xxiku.com/) - Movies 
 * [Yesmovies.love](https://yesmovies.love/) - Movies / TV / Anime 
 * [Openload Movies](https://openloadmovies.ch/) - Movies
 * [GustaTV](https://www2.gustatv.to/) - Movies / TV Anime
 * [Vexmovies.space](http://vexmovies.space/) - Movies 
-* [PrimeWire](https://www.primewire.tf/) - Movies / TV / Anime
 * [Lovemovie](https://lovemovie.org/) - Movies / TV
 * [CimaClub](https://www.cimaclub.cc/category/%D8%A3%D9%81%D9%84%D8%A7%D9%85-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Shahed4u](https://shahed4u.onl:2053/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a-1/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -165,7 +162,6 @@
 * [ApiMDB](https://apimdb.net/) - Movies / TV / Anime / API
 * [123movies](https://api.123movie.cc/) - Movies / TV / Anime / API
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / Anime / [Search](https://pastebin.com/ExB4ksvT) / API
-* [1movietv](https://1movietv.com/) - Movies / TV / Anime / API
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [2Embed](https://www.2embed.ru/) - Movies / TV / Anime / API
 * [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API
