@@ -582,7 +582,6 @@
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
 * [EE3](https://ee3.me/) - Movies / Invite Code: mpgh
 * [Reqzone](https://reqzone.com/) - Movies / TV
-* [FullSeasonsTv](https://fullseasonstv.com/) - TV
 * [MoviesWBB](http://movieswbb.com/) - Movie / TV
 * [KatMovieHD](https://katmoviehd.nz/category/hollywood-eng/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [MKVBee](https://mkvbee.com/) - Movies / TV
