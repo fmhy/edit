@@ -725,7 +725,6 @@
 * [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-based Research
 * [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - Harvard University Health Website
 * [MyPlate](https://www.myplate.gov/) - Food Pyramid
-* [tellspecopedia](http://www.tellspecopedia.com/) - List of Food Ingredients & Effects on Body
 * [/r/Nutrition](https://www.reddit.com/r/nutrition/) - Nutrition Subreddit
 * [Liam Rosen's Fitness Guide](http://liamrosen.com/fitness.html) - Beginners Health & Fitness Guide
 * [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) - Fitness / Nutrition Info 
