@@ -318,7 +318,7 @@
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
 * [yuzu-ea-updater-for-linux](https://github.com/lem6ns/yuzu-ea-updater-for-linux) - Linux Yuzu Updater
 * [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - Roblox Manager for Linux
-* [An Anime Game Launcher](https://gitlab.com/KRypt0n_/an-anime-game-launcher), [2](https://notabug.org/loentar/paimon-launcher) - Run Genshin Impact on Linux / [Discord](https://discord.com/invite/ck37X6UWBp)
+* [Paimon Launcher](https://notabug.org/loentar/paimon-launcher) - Run Genshin Impact on Linux
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (Recreation)
 
 ***
