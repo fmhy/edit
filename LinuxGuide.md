@@ -303,7 +303,7 @@
 * [steam-cli](https://github.com/berenm/steam-cli) - CLI for Steam
 * [GameScope](https://github.com/Plagman/gamescope) - Steam Session Compositing Window Manager
 * [SamRewritten](https://github.com/PaulCombal/SamRewritten) - Steam Achievement Manager
-* [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - Steam Linix Beta Issue Tracker
+* [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - Steam Linux Beta Issue Tracker
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Epic Games Launcher
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - GOG Client
 * [proton-gog-install](https://github.com/myyc/proton-gog-install) - Windows to Linux GOG Game Installer
