@@ -152,7 +152,6 @@
 * [DefenderUI](https://www.defenderui.com/) - Improved Microsoft Defender UI
 * [wideredist](https://gitlab.com/urbanware-org/wideredist) - Update Windows Defender Definitions Locally
 * [Antivirus Removal Tool](https://antivirus-removal-tool.com/) - Antivirus Software Removal Tool
-* [Defeat Defender](https://github.com/swagkarna/Defeat-Defender-V1.2) - Disable Windows Defender
 * [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - Malware Search Extension 
 * [JShelter](https://jshelter.org/) - Anti-Malware Extension
 * [VirusTotalAV_bot](https://t.me/VirusTotalAV_bot) - Telegram File Scanner
