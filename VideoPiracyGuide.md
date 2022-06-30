@@ -686,11 +686,9 @@
 * [162.12.215.254](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_162.12.215.254) - Movies
 * [163.172.97.48](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_163.172.97.48) - Movies / TV
 * [Movies, Series... in English](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_movies.2C_series..._in_english) - Movies / TV
-* [sv.dcnm.ir](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sv.dcnm.ir) - TV 
 * [wenubgang](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wenubgang) - TV / Anime
 * [ir2.papionvod.ir](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ir2.papionvod.ir) - TV
 * [مسلسلات اجنبية‬‎](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.645.633.644.633.644.627.62A_.627.62C.646.628.64A.629) - TV
-* [REDBlink](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_redblink) - Movies / TV
 * [Remux Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_17tb_mega_drive) - HD Movies
 * [4K Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_4k_movie_collection) - HD Movies
 * [r/MegaLinks Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_r.2Fmegalinks_backup) / [Search](https://megadb.tweakly.net/)
@@ -725,7 +723,6 @@
 * [Mix Bag of Anime](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mix_bag_of_anime) - Sub / Dub
 * [MrDeadpool](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mrdeadpool) - Sub / Dub
 * [ANIME___](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime___) - Sub
-* [Anime Collection (3Tb)](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime_collection_.283tb.29) - Sub / Dub / Drive
 * [DameDesuYo](https://damedesuyo.com/) - Sub
 * [TokyoInsider](https://www.tokyoinsider.com/) - Sub
 * [Chiby](http://www.animechiby.com/) - Sub
@@ -744,8 +741,6 @@
 * [AnimeLibr](https://t.me/AnimeLibr) - Sub
 * [CartoonsArea](https://www.cartoonsarea.xyz/) - Sub / Dub
 * [rbx](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rbx)  - Dub
-* [CopyCat Encodes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_copycat_encodes) - Sub 
-* [Anime (New & Requests)](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime_.28new_.26amp.3B_requests.29) - Sub / Dub
 * [Anime Time Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime_time_drive) - Sub / Dub 
 * [nibl](https://nibl.co.uk/) - Sub / Dub / Anime Downloads / XDCC
 * [Bubble' Upscale Project](https://discord.gg/7kqqtJ7ArW) - Upscaled Anime / Requests
