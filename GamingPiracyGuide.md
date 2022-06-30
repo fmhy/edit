@@ -14,7 +14,7 @@
 * **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)** / **[Bonneteer](https://bonneteer.herokuapp.com/)** / **[Rave Search](https://idleendeavor.github.io/gamesearch/)**, [2](https://ravegamesearch.pages.dev/) - Multi-Site Search
 * **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - [Discord](https://discord.gg/Up3YARe4RW)
-* **[Masquerade Repacks](https://masquerade.site/)** - [Discord](https://discord.gg/HP5sQ6c)
+* **[Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/)** - [Discord](https://discord.gg/HP5sQ6c)
 * **[Steam Underground](https://cs.rin.ru/)** - [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Status](https://csrinstaff.writeas.com/)
 * **[SteamRIP](https://steamrip.com/)** - [Discord](https://discord.gg/hj8dU5BFHE) / Password: 1234
 * **[DyR0t(-_-t)'s Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dyr0t.28-_-t)** 
