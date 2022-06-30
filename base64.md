@@ -36,13 +36,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9KazhSaklCQSNfZFROdGhVWDNMTDdPd1NhYXVxSXB3`
 
-
-***
-
-#### Torrent2Drive 
-
-`aHR0cHM6Ly90b3JyZW50MmRyaXZlLnZpZGVvLzA6Lw==`
-
 ***
 
 #### Media
@@ -87,12 +80,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 ***
 
-#### sv.dcnm.ir
-
-`aHR0cHM6Ly9zdi5kY25tLmlyL1NlcmlhbC9Gb3JlaWduLw==`
-
-***
-
 #### wenubgang
 
 `aHR0cHM6Ly9ncm91cHMuZ29vZ2xlLmNvbS9nL3dlbnViZ2FuZw==`
@@ -108,12 +95,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 #### مسلسلات اجنبية
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMEIxOU9vSUMzMVVOMGVVRTRPRVJqU1hZeGNVRQ==`
-
-***
-
-#### REDBlink
-
-`aHR0cHM6Ly9yZHg5OC5ibGlua2RyaXZlLndvcmtlcnMuZGV2Lw==`
 
 ***
 
@@ -165,12 +146,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 ***
 
-#### Anime Collection (3Tb)
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW5RNzNvS2VFNWI1MGx6eURlc3ptZEx2NnJqWUZvbGs1P3VzcD1zaGFyaW5n`
-
-***
-
 #### 37.187.6.206
 
 `aHR0cDovLzM3LjE4Ny42LjIwNi8=`
@@ -207,18 +182,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 ***
 
-#### CopyCat Encodes
-
-`aHR0cHM6Ly9tZWdhLm56LyNmb2xkZXIvanBNRmxRTEIjUVowVzJPSXlrby1uMkJUb3VXakhPUQ==`
-
-***
-
-#### Anime (New & Requests)
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVhQN3EtdlNrMEltYVJmTFJrSjYtVmtMN21McWxJd3J3Cg==`
-
-***
-
 #### Anime Time Drive
 
 `aHR0cHM6Ly9hdGRyaXZlLmFuaW1ldGltZXNlcnZlci53b3JrZXJzLmRldi8wOi8K`
@@ -240,12 +203,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 #### geedryve
 
 `aHR0cHM6Ly9qYWNvYnNtLmNvbS9nZWVkcnl2ZS9yZWNvcmRzL21wM3Mv`
-
-***
-
-#### Music Library
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXFKOUNUMzZGekdkN180MDQ4X19MTFM0WmljVjFxWWw3`
 
 ***
 
