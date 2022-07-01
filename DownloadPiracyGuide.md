@@ -217,7 +217,6 @@
 * [PC Wonderland](https://pcwonderland.com/) 
 * [SoftProber](https://softprober.com/) 
 * [SCloud](https://scloud.ws/) 
-* [MHKTricks](https://mhktricks.org/)
 * [AllPCWorlds](https://allpcworlds.com/) 
 * [MR9Soft](https://mr9soft.com/) 
 * [DoLoad](https://doload.org/) 
