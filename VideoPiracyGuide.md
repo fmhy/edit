@@ -163,7 +163,6 @@
 * [123movies](https://api.123movie.cc/) - Movies / TV / Anime / API
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / Anime / [Search](https://pastebin.com/ExB4ksvT) / API
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
-* [2Embed](https://www.2embed.ru/) - Movies / TV / Anime / API
 * [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API
 * [Kodi](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi) - Streaming App
 * [Letmewatch](https://letmewatch.app/) - Movies / TV / Extension / [GitHub](https://github.com/AdvithGopinath/LetMeWatch)
