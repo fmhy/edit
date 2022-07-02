@@ -510,7 +510,7 @@
 * [SouthFreak](https://southfreak.click/) - Movies
 * [Watch Online Movies](https://www.movies-watch.com.pk/) - Movies
 * [UncutHD](https://www.uncuthd.guru/) - Movies
-* [PrMovies](https://prmovies.pics/) - [Telegram](https://t.me/+VozFopt7yyE4Y2Fl)
+* [PrMovies](https://prmovies.pics/) - Movies / TV / [Telegram](https://t.me/+VozFopt7yyE4Y2Fl)
 * [Bolly4u](https://bolly4u.onl/) - Movies
 * [9xflix](https://9xflix.skin/) - Movies
 * [ExtraMovies](https://extramovies.onl/) - Movies
