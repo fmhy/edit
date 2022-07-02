@@ -487,7 +487,11 @@
 
 ## ▷ Downloading
 
+* [Mkv Cinemas](https://www.mkvcinemas.fi/) - Movies / TV 
 * [9xMovies](https://9xmovies.wang/) - Movies / TV 
+* [OlaMovies](https://olamovies.lol/) - Movies / TV / [Telegram](https://t.me/olamovies_official_v2) 
+* [VegaMovies](https://m.vegamovies.lol/) - Movies / [Telegram](https://t.me/Vegamoviesgroup2)
+* [MoviesVerse](https://moviezverse.com/) - Movies / TV / [Telegram](https://t.me/moviesflixverse) 
 * [MKV Mad](https://www.mkvmad.shop/) - Movies / TV
 * [WorldFree4U](https://worldfree4u.onl/) - Movies / TV
 * [atishmkv](https://atishmkv.cyou/) - Movies / TV
@@ -500,26 +504,22 @@
 * [Bollywood Movie Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bollywood_movie_drive) - Movies
 * [KatMovieHD](https://katmoviehd.cx/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [MoviesRush](https://moviesrush.quest/) - Movies
-* [VegaMovies](https://vegamovies.ink/) - Movies / [Telegram](https://t.me/Vegamoviesgroup2)
-* [MoviezAddiction](https://moviezaddiction.art/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/moviezaddiction3)
-* [MKVHub](https://www.mkvhub.ws/) - Movies / TV
-* [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)
-* [SouthFreak](https://southfreak.online/) - Movies
-* [Watch Online Movies](https://www.watchonlinemovies77.com.pk/) - Movies
-* [UncutHD](https://www.uncuthd.one/) - Movies
-* [OlaMovies](https://olamovies.site/) - Movies / TV / [Telegram](https://t.me/olamovies_official) 
-* [HHD Movies](https://hhdmovies.pro/) - [Telegram](https://t.me/+VozFopt7yyE4Y2Fl)
-* [Bolly4u](https://bolly4u.ninja/), [2](https://bolly4u.blog/) - Movies
-* [9xflix](https://9xflix.one/) - Movies
-* [ExtraMovies](https://extramovies.town/) - Movies
-* [RemaxHD](https://remaxhd.org/) - Movies / TV
-* [MoviesVerse](https://moviesverse.me/) - Movies / TV / [Telegram](https://t.me/MoviesHomeOFFICIALS) 
+* [MoviezAddiction](https://moviezaddiction.lol/) - Movies / TV / [Telegram](https://t.me/moviezaddiction3)
+* [MKVHub](https://www.mkvhub.town/) - Movies / TV
+* [Full4Movies](https://www.full4movies.wiki/) - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
+* [SouthFreak](https://southfreak.click/) - Movies
+* [Watch Online Movies](https://www.movies-watch.com.pk/) - Movies
+* [UncutHD](https://www.uncuthd.guru/) - Movies
+* [PrMovies](https://prmovies.pics/) - [Telegram](https://t.me/+VozFopt7yyE4Y2Fl)
+* [Bolly4u](https://bolly4u.onl/) - Movies
+* [9xflix](https://9xflix.skin/) - Movies
+* [ExtraMovies](https://extramovies.onl/) - Movies
+* [RemaxHD](https://remaxhd.live/) - Movies / TV
 * [AnimeAcademy](https://animeacademy.in/) - Anime
 * [ToonWorld4All](https://www.toonworld4all.me/) - Cartoons / Anime
 * [TVToonsIndia](https://tvtoonsindia.com/) - Cartoons / Anime
 * [Hindi Cartoons](https://telegra.ph/All-of-my-Channels-List-02-18) - Cartoons
 * [DesiRulez](https://www.desirulez.cc/) - Video / Audio
-* [Tomato.to](https://saavn.tomato.to/) - Music
 * [WapKing](https://wapking.name/) - Music
 * [Pagalworld](https://www.pagalworld.pw/) - Music
 * [Original iTunes](https://originalitunes.blogspot.com/) - Music
@@ -570,7 +570,7 @@
 ## ▷ Reading
 
 * [BDEBooks](https://bdebooks.com/) - Books
-* [Hindiebooks](https://t.me/Hindiebooks), [2](https://t.me/EbookzStuff) - Books
+* [Hindiebooks](https://t.me/Hindiebooks) - Books
 * [Book-Drive](https://www.book-drive.com/) - Books
 * [English_Hindi_Novels_Magazine](https://t.me/English_Hindi_Novels_Magazine) - Books / Magazines
 * [ENewspaperEarly](https://t.me/EnewsPaperEarly) - Newspapers
