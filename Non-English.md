@@ -487,19 +487,19 @@
 
 ## ▷ Downloading
 
-* [9xMovies](https://9xmovies.plus/) - Movies / TV 
-* [MKV Mad](https://www.mkvmad.pro/) - Movies / TV
-* [WorldFree4U](https://worldfree4u.city/) - Movies / TV
-* [atishmkv](https://atishmkv.site/) - Movies / TV
-* [1337xHD](https://1337xhd.life/) - Movies / TV
-* [HDHub4u](https://hdhub4u.bar/) - Movies
-* [HDVogo](https://www.hdvogo.com/) - Movies
-* [Movies Flix](https://hdmoviesflix.in/) - Movies / NSFW / [Telegram](https://t.me/hdmoviesflix_official)
-* [Dudefilms](https://dudefilms.fun/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
-* [The Movies Flix](https://themoviesflix.com.se/) - Movies / NSFW / [Telegram](https://t.me/themoviesflixcomco)
+* [9xMovies](https://9xmovies.wang/) - Movies / TV 
+* [MKV Mad](https://www.mkvmad.shop/) - Movies / TV
+* [WorldFree4U](https://worldfree4u.onl/) - Movies / TV
+* [atishmkv](https://atishmkv.cyou/) - Movies / TV
+* [1337xHD](https://1337xhd.shop/) - Movies / TV
+* [HDHub4u](https://hdhub4u.onl/) - Movies
+* [HDVogo](https://www.hdvogo.cyou/) - Movies
+* [Movies Flix](https://hdmoviesflix.shop/) - Movies / NSFW
+* [Dudefilms](https://dudefilms.cyou/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
+* [The Movies Flix](https://themoviesflix.ac/) - Movies / NSFW / [Telegram](https://t.me/themoviesflixcomco)
 * [Bollywood Movie Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bollywood_movie_drive) - Movies
-* [KatMovieHD](https://katmoviehd.nz/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
-* [MoviesRush](https://moviesrush.cam/) - Movies
+* [KatMovieHD](https://katmoviehd.cx/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
+* [MoviesRush](https://moviesrush.quest/) - Movies
 * [VegaMovies](https://vegamovies.ink/) - Movies / [Telegram](https://t.me/Vegamoviesgroup2)
 * [MoviezAddiction](https://moviezaddiction.art/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/moviezaddiction3)
 * [MKVHub](https://www.mkvhub.ws/) - Movies / TV
