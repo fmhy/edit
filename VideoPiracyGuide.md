@@ -80,6 +80,7 @@
 * [PopcornFlix](https://www.popcornflix.com/) - Movies / TV
 * [Crackle](https://www.crackle.com/) - Movies / TV
 * Peacock - [Movies](https://www.peacocktv.com/stream/movies) / [TV](https://www.peacocktv.com/stream/tv) / [Kids](https://www.peacocktv.com/stream/kids)
+* [Freevee](https://www.amazon.com/adlp/freevee-about) - Movies / TV
 * [ShoutFactoryTV](https://www.shoutfactorytv.com/) - Movies / TV 
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV
 * [Pluto](http://pluto.tv/on-demand) - Movies / TV
