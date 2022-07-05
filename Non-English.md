@@ -116,7 +116,7 @@
 * [news_pdf](https://t.me/news_pdf), [Chinadaily](http://cn.chinadaily.com.cn/) or [China Watch](http://www.chinadaily.com.cn/chinawatch_fr/index.html) - News
 * [Fonts Free Chinese](https://www.freechinesefont.com/) or [Fonts.net](https://www.fonts.net.cn/) - Fonts
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - Lift Emby Restrictions
-* [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser) or [OilAndFish](https://www.oilandfish.com/) - Bypass Chinese Firewall  
+* [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [XX-Net](https://github.com/XX-net/XX-Net), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser) or [OilAndFish](https://www.oilandfish.com/) - Bypass Chinese Firewall  
 * [Gitee](https://gitee.com/) - GitHub Alternative
 * [Gridea](https://github.com/getgridea/gridea) - Blog Writing Client
 * [Dict.Baidu](https://dict.baidu.com/) - Chinese Word, Idiom & Poem Search
