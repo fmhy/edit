@@ -7,7 +7,7 @@
 
 ***
 ***
-
+s
 #### 3D Modeling Apps
 
 [Blender](https://www.blender.org/), [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketch.Me](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [Chakoku](https://github.com/itta611/ChokokuCAD), [PovRay](http://www.povray.org/), [FreeCAD](https://www.freecadweb.org/), [PicoCad](https://johanpeitz.itch.io/picocad), [Vectary](https://www.vectary.com/), [LibreCAD](https://librecad.org/), [Art of Illusion](http://aoi.sourceforge.net/), [BRL-CAD](https://brlcad.org/) 
@@ -206,7 +206,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Audio Plugins 
 
-[OpenAudio](https://github.com/webprofusion/OpenAudio), [/r/CrackedPlugins2](https://www.reddit.com/r/CrackedPlugins2/), [/u/BitterApple69 Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fu.2Fbitterapple69_plugins), [FreeVSTPlugins](https://freevstplugins.net/), [KVRAudio](https://www.kvraudio.com/), [PLUGINS4FREE](https://plugins4free.com/), [dskmusic](https://www.dskmusic.com/), [landr](https://blog.landr.com/best-free-vst-plugins/), [vstpirate](https://www.vstpirate.com/), [native-instruments](https://www.native-instruments.com/en/specials/free-vst-plugins/), [sparta](https://leomccormack.github.io/sparta-site/), [IEM](https://plugins.iem.at/), [PluginTorrent](https://plugintorrent.com/), [/r/PluggnB/](https://www.reddit.com/r/PluggnB/), [Free VST Spreadsheet](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8#gid=0)
+[OpenAudio](https://github.com/webprofusion/OpenAudio), [/r/CrackedPlugins2](https://www.reddit.com/r/CrackedPlugins2/), [/u/BitterApple69 Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fu.2Fbitterapple69_plugins), [FreeVSTPlugins](https://freevstplugins.net/), [KVRAudio](https://www.kvraudio.com/), [PLUGINS4FREE](https://plugins4free.com/), [dskmusic](https://www.dskmusic.com/), [landr](https://blog.landr.com/best-free-vst-plugins/), [vstpirate](https://www.vstpirate.com/), [native-instruments](https://www.native-instruments.com/en/specials/free-vst-plugins/), [sparta](https://leomccormack.github.io/sparta-site/), [IEM](https://plugins.iem.at/), [PluginTorrent](https://plugintorrent.com/), [/r/PluggnB/](https://www.reddit.com/r/PluggnB/), [Free VST Spreadsheet](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8#gid=0), [Plugins Cloud](https://t.me/joinchat/eBPFLPGucTU5YjQ9), [PluginsCloudArchive](https://t.me/plugincloudsarchive), [PluginCloudArchive_docs](https://t.me/pluginclouds_docs)
 
 ***
 
@@ -612,6 +612,30 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://www.ssh-free.com/ 
 * https://cloudssh.net/ 
 * https://www.contassh.com/ 
+* https://sshkit.com/
+* https://www.flyssh.com/
+* https://www.sshssl.com/
+* https://www.jagoanssh.com/
+* https://spotssh.com/
+* http://criarssh.com/
+* https://dewassh.net/
+* https://ciscossh.co
+* https://skyssh.com/
+* https://digitalssh.net/
+* https://sshaccess.com/
+* https://interssh.com/
+* https://www.speedssh.com/
+* http://www.sshudp.com/
+* https://www.fastssh.com/
+* https://createssh.com/
+* https://freesslvpn.us/
+* https://sharevpn.org/
+* https://www.mytunneling.com/
+* https://www.squid-proxy.net/
+* https://www.jrtunnel.com/
+* https://opentunnel.net/
+* https://howdy.id/
+* https://openinternetaccess.com/
 
 ***
 
@@ -710,7 +734,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * [HuruWatch](https://hurawatch.com/), [2](https://hurawatch.ru/), [3](https://hurawatch.at/)
 * [Movies7](https://movies7.to/)
 * [Flixtor](https://flixtor.one/)
-* [BFlix](https://www1.bflix.to/)
+* [BFlix](https://bflix.ru/)
 * [SWatchseries.ru](https://swatchseries.ru/) 
 * [watchmovieshd](https://watchmovieshd.ru/)
 
@@ -761,7 +785,8 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * [git:logs](https://www.gitlogs.com/), [Awesome Made by Russians](https://github.com/igoradamenko/awesome-made-by-russians), [Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians), [awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps), [opensauced](https://hot.opensauced.pizza/), [Awesome Stars](https://githubmemory.com/repo/abhijithvijayan/awesome-stars), [LibHunt](https://www.libhunt.com/), [RepoHunt](https://repo-hunt.signalnerve.workers.dev/), [/r/coolgithubprojects](https://reddit.com/r/coolgithubprojects) - Github Project Indexes
 * [Active Github Forks](https://techgaun.github.io/active-forks/) - List of active github forks
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) - View a Repositories Forks 
-* [Git Search Engine](https://zzollo.co/) - Search GitHub, GitLab ect.*
+* [Git Search Engine](https://zzollo.co/) - Search GitHub, GitLab ect.
+* [OSAlternative](http://www.osalternative.com/) - Git Project Search
 
 ***
 
@@ -1213,7 +1238,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Modded Minecraft Launchers
 
-**[Lunar Client](https://www.lunarclient.com/)** / [Colors](https://github.com/couleur-tweak-tips/Moony), **[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [ATLauncher](https://atlauncher.com/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [PolyMC](https://polymc.github.io/) / [GitHub](https://github.com/polymc/polymc), [Crystal Launcher](https://crystal-launcher.net/)
+**[Lunar Client](https://www.lunarclient.com/)** / [Lite](https://github.com/Aetopia/Lunar-Client-Lite-Launcher) / [Colors](https://github.com/couleur-tweak-tips/Moony), **[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [ATLauncher](https://atlauncher.com/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [PolyMC](https://polymc.github.io/) / [GitHub](https://github.com/polymc/polymc), [Crystal Launcher](https://crystal-launcher.net/)
 
 ***
 
@@ -1225,7 +1250,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Multireddits 
 
-[Explore All Multireddits](https://www.reddit.com/r/multihub/top/?sort=top&t=all), [Piracy](https://www.reddit.com/user/nbatman/m/piracy/) / [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) / [3](https://www.reddit.com/user/nanomuto/m/piracyhub/) / [4](https://www.reddit.com/user/goretsky/m/piracy_counterfeit_goods/), [Random](https://www.reddit.com/user/nbatman/m/random/), [Weird YouTube](https://www.reddit.com/user/jarod47/m/wierdpartofyoutube/), [Streaming](https://www.reddit.com/user/nbatman/m/streaming/) / [2](https://www.reddit.com/user/asmailes/m/fullmoviesandtv/), [Cord Free TV](https://www.reddit.com/user/efidol/m/cordfreetv/). [Piracy Leaks](https://www.reddit.com/user/nbatman/m/leaks/), [News](https://www.reddit.com/user/nbatman/m/news/), [Tech](https://old.reddit.com/user/goretsky/m/win_itpro/), [Left](https://www.reddit.com/user/nbatman/m/left/) / [2](https://www.reddit.com/user/nbatman/m/left_2/), [Conspiracy](https://www.reddit.com/user/nbatman/m/conspiracy/), [Aliens](https://www.reddit.com/user/nbatman/m/aliens/), [Paranormal](https://www.reddit.com/user/nbatman/m/paranormal/), [Metaphysics](https://www.reddit.com/user/nbatman/m/metaphysics/), [Countries](https://www.reddit.com/user/sneaky5erpent/m/countries/) / [2](https://www.reddit.com/user/sneaky5erpent/m/countries2/), [International AskARedditor](https://www.reddit.com/user/sneaky5erpent/m/ask_people_nationality/), [Text Only](https://www.reddit.com/user/aokaga/m/stories)
+[Explore All Multireddits](https://www.reddit.com/r/multihub/top/?sort=top&t=all), [Piracy](https://www.reddit.com/user/nbatman/m/piracy/) / [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) / [3](https://www.reddit.com/user/nanomuto/m/piracyhub/) / [4](https://www.reddit.com/user/goretsky/m/piracy_counterfeit_goods/), [Random](https://www.reddit.com/user/nbatman/m/random/), [Weird YouTube](https://www.reddit.com/user/jarod47/m/wierdpartofyoutube/), [Streaming](https://www.reddit.com/user/nbatman/m/streaming/) / [2](https://www.reddit.com/user/asmailes/m/fullmoviesandtv/), [Cord Free TV](https://www.reddit.com/user/efidol/m/cordfreetv/), [Piracy Leaks](https://www.reddit.com/user/nbatman/m/leaks/), [News](https://www.reddit.com/user/nbatman/m/news/), [Tech](https://old.reddit.com/user/goretsky/m/win_itpro/), [Left](https://www.reddit.com/user/nbatman/m/left/) / [2](https://www.reddit.com/user/nbatman/m/left_2/), [Conspiracy](https://www.reddit.com/user/nbatman/m/conspiracy/), [Aliens](https://www.reddit.com/user/nbatman/m/aliens/), [Paranormal](https://www.reddit.com/user/nbatman/m/paranormal/), [Metaphysics](https://www.reddit.com/user/nbatman/m/metaphysics/), [Countries](https://www.reddit.com/user/sneaky5erpent/m/countries/) / [2](https://www.reddit.com/user/sneaky5erpent/m/countries2/), [International AskARedditor](https://www.reddit.com/user/sneaky5erpent/m/ask_people_nationality/), [Text Only](https://www.reddit.com/user/aokaga/m/stories)
 
 ***
 
@@ -1614,7 +1639,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Proxy Lists
 
-**[PROXY List](https://github.com/TheSpeedX/PROXY-List)**, [Free-Proxy-List](https://free-proxy-list.net/), [Proxy-Daily](https://proxy-daily.com/), [Cool-Proxy](https://www.cool-proxy.net/), [Proxy-List](https://github.com/Volodichev/proxy-list) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://github.com/roosterkid/openproxylist), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hidemy.name/en/proxy-list/), [FreeProxyLists](https://www.freeproxylists.net/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [premproxy](https://www.premproxy.com/list/)
+**[PROXY List](https://github.com/TheSpeedX/PROXY-List)**, [Free-Proxy-List](https://free-proxy-list.net/), [Proxy-Daily](https://proxy-daily.com/), [Cool-Proxy](https://www.cool-proxy.net/), [Proxy-List](https://github.com/Volodichev/proxy-list) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://github.com/roosterkid/openproxylist), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hidemy.name/en/proxy-list/), [FreeProxyLists](https://www.freeproxylists.net/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [premproxy](https://www.premproxy.com/list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy)
 
 ***
 
@@ -2000,7 +2025,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Legit Downloaders**
 
-[Soggfy](https://github.com/Rafiuth/Soggfy) / [Discord](https://discord.gg/gjqrP5PB8g), [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot), [CLSpotify](https://agent255.github.io/clspotifyweb/) / [GitHub](https://github.com/agent255/clspotify)
+[Soggfy](https://github.com/Rafiuth/Soggfy) / [Discord](https://discord.gg/gjqrP5PB8g), [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot), [CLSpotify](https://agent255.github.io/clspotifyweb/) / [GitHub](https://github.com/agent255/clspotify), [spotify_sync)](https://github.com/jbh-cloud/spotify_sync)
 
 **Spotify YouTube Downloaders** 
 
@@ -2018,21 +2043,19 @@ Add the following commands to a search to manually scrape each site.
 
 #### Spotify Tools
 
-[Lyrics](https://versefy.app/) / [Spotify Companion](https://spotifytools.romanello.xyz/) / [Playlist Manager](https://skiley.net/) / [Dedup](https://spotify-dedup.com/) / [Hotkeys](https://github.com/aleab/toastify) / [Backup](http://www.spotmybackup.com/), [2](https://github.com/watsonbox/exportify) / [Library Size](https://opslagify.deruever.nl/) / [Listening Stats](https://www.statsforspotify.com/), [2](https://volt.fm/), [3](https://spotistats.app/), [4](https://github.com/Yooooomi/your_spotify) / [Ad Host Files](https://gist.github.com/teomaragakis/cb187d880c9a3ca2c8a2), [2](https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57) / [Song Country Search](https://kira.vercel.app/) / [Account Gen](https://github.com/HamzaAnis/go-spotify-account-generator), [2](https://github.com/davide-acanfora/spotify-account-generator) / [Sync Accounts](https://github.com/yaronzz/SpotifySync) / [Canvas Downloader](https://canvastify.delitefully.com/), [GitHub](https://github.com/Delitefully/spotify-canvas-downloader), [Export Tracks as Deezer Playlists](https://github.com/XDGFX/spotr)
+[Lyrics](https://versefy.app/) / [Spotify Companion](https://spotifytools.romanello.xyz/) / [Playlist Manager](https://skiley.net/) / [Dedup](https://spotify-dedup.com/) / [Hotkeys](https://github.com/aleab/toastify) / [Backup](http://www.spotmybackup.com/), [2](https://github.com/watsonbox/exportify) / [Library Size](https://opslagify.deruever.nl/) / [Listening Stats](https://www.statsforspotify.com/), [2](https://volt.fm/), [3](https://spotistats.app/), [4](https://github.com/Yooooomi/your_spotify) / [Song Country Search](https://kira.vercel.app/) / [Account Gen](https://github.com/HamzaAnis/go-spotify-account-generator), [2](https://github.com/davide-acanfora/spotify-account-generator) / [Sync Accounts](https://github.com/yaronzz/SpotifySync) / [Canvas Downloader](https://canvastify.delitefully.com/), [GitHub](https://github.com/Delitefully/spotify-canvas-downloader) / [Export Tracks as Deezer Playlists](https://github.com/XDGFX/spotr)
 
 **Spotify Adblockers**
 
-[Block Ads](https://github.com/amd64fox/SpotX), [2](https://github.com/mrpond/BlockTheSpot), [3](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/), [4](https://git.tcp.direct/dg/Unspotify) / [Linux Adblock](https://github.com/abba23/spotify-adblock), [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)
+* **[SpotX](https://github.com/amd64fox/SpotX)**
+* [BlockTheSpot](https://github.com/mrpond/BlockTheSpot)
+* [spotify-ad-blocker-ezblocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/)
+* [Unspotify](https://git.tcp.direct/dg/Unspotify) 
+* [Block Ad Host Files](https://gist.github.com/teomaragakis/cb187d880c9a3ca2c8a2), [2](https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57), [3](https://github.com/AlfonsoVergara-github/Host-to-block-ads-for-spotify)
 
 **Spotify Themes**
 
 [Colorize](https://colorify.live/) / [Spicetify](https://spicetify.app/) / [CLI](https://github.com/khanhas/spicetify-cli) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Discord](https://discord.gg/VnevqPp2Rr) / [Easy Install](https://github.com/OhItsTom/spicetify-easyinstall/), [Fluent](https://github.com/williamckha/spicetify-fluent)
-
-***
-
-#### SSH & SSL Servers
-
-[SSHKit](https://sshkit.com/), [FlySSH](https://www.flyssh.com/), [SSHSSL](https://www.sshssl.com/), [jagoanssh](https://www.jagoanssh.com/), [spotssh](https://spotssh.com/), [criarssh](http://criarssh.com/), [dewassh](https://dewassh.net/), [ciscossh](https://ciscossh.com/), [skyssh](https://skyssh.com/), [digitalssh](https://digitalssh.net/), [sshaccess](https://sshaccess.com/), [interssh](https://interssh.com/), [speedssh](https://www.speedssh.com/), [sshudp](http://www.sshudp.com/), [FastSSH](https://www.fastssh.com/), [createssh](https://createssh.com/), [freesslvpn](https://freesslvpn.us/)
 
 ***
 
@@ -2284,7 +2307,8 @@ Add the following commands to a search to manually scrape each site.
 * [GdriveXbot](https://t.me/GdriveXbot), [HK_upload_bot](https://t.me/HK_driveupload_bot), [gdrive_upload_bot](https://t.me/gdrive_upload_bot), [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot), [driveuploadbot](https://t.me/driveuploadbot) or [gdriveupme_bot](https://t.me/gdriveupme_bot) - Google Drive Telegram upload bots 
 * [Google Drive Bot](https://t.me/Gdriveit_bot) - Google Drive Client in Telegram
 * [SearchX](https://github.com/iamLiquidX/SearchX) - Telegram GDrive Search Bot
-* [UploadBots](https://t.me/UploadBots), [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot), [UploadURL](https://t.me/UploadsRobot) or [UploadDxbot](https://t.me/UploadDxbot) - Upload Files to Telegram  
+* [UploadBots](https://t.me/UploadBots), [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot), [UploadURL](https://t.me/UploadsRobot) or [UploadDxbot](https://t.me/UploadDxbot) - Upload Files to Telegram
+* [OneDrive X](https://t.me/onedrivexbot) - Remote OneDrive File Upload Bot
 * [Teledrive](https://github.com/mgilangjanuar/teledrive) - Telegram File Storage
 * [Uploader x Bot](https://t.me/uploader_x_bot ) - Telegram Video Upload Bot 
 * [Public Link Bot](https://t.me/Tg2extbot), [AIO Uploader](https://t.me/aiouploaderbot) or [GetPublicLinkBot](https://t.me/GetPublicLinkBot), [FileUploaderBot](https://t.me/FileUploaderBot), [filestolinksbot](https://t.me/filestolinksbot), [highspeedlinksbot](https://t.me/highspeedlinksbot), [LinkForFilebot](https://t.me/LinkForFilebot), [MultiUpload-Bot](https://github.com/oVoIndia/MultiUpload-Bot) or [KL_GetPublicUrlBot](https://t.me/KL_GetPublicUrlBot) - Telegram to File Host Upload Bot   
@@ -2451,7 +2475,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Tor Search Engines
 
-[Search-Darkweb](https://iaca-darkweb-tools.com/search-darkweb/), [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/), [Onions Search](https://onionsearchengine.com/), [OnionLandSearch](https://onionlandsearchengine.com/), [Ahmia](https://ahmia.fi/) / [Git](https://github.com/ahmia/ahmia-site ), [Onion.live](https://onion.live/), [Darkdump](https://github.com/josh0xA/darkdump), [doku](http://ujnkg4uirpaiqejr.onion/doku.php), [VisiTOR](http://visitorfi5kl7q7i.onion/), [Tornet](http://tgs5dkeqkg5hrjjk.onion/), [Torgle](http://torglejzid2cyoqt.onion/), [Tordex](http://tordex7iie7z2wcg.onion/), [Torch](http://xmh57jrzrnw6insl.onion/) / [2](http://26ozf35d2rwtmqbk.onion/), [Tor Search Engine](http://searchcoaupi3csb.onion/) / [2](http://searcherc3uwk535.onion/), [Tor Search](http://torsearchruby56z.onion/), [Torrentz 2](http://torrentzwealmisr.onion/), [Tormax](http://tormaxunodsbvtgo.onion/), [Tor77](http://tor77orrbgejplwp.onion/), [Tor66](http://tor66sezptuu2nta.onion/), [Start](http://kaarvixjxfdy2wv2.onion/), [SearX](http://5plvrsgydwy2sgce.onion/), [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/), [OnionLand Search Engine](http://3bbaaaccczcbdddz.onion/), [Onion Search Service](http://oss7wrm7xvoub77o.onion/), [Onion Search Engine](http://5u56fjmxu63xcmbk.onion/) / [2](http://onionf4j3fwqpeo5.onion/), [Onion Center](http://oikgfwfqmqkph4rl.onion/), [Onion Bag](http://onionbagy25be2bg.onion/), [Not Evil](http://hss3uro2hsxfogfq.onion/), [MultiVAC](http://multivacigqzqqon.onion/), [I2P Search](http://i2psesltivefcujc.onion/), [Haystak](http://haystakvxad7wbk5.onion/), [Grams](http://grams7ebnju7gwjl.onion/), [Google.Onion](http://ggonionvhfq7brmj.onion/), [Excavator](http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/), [Evo Search](http://evo7no6twwwrm63c.onion/), [DDG](http://3g2upl4pq6kufc4m.onion/), [Dark Web Links](http://jdpskjmgy6kk4urv.onion/), [Candle](http://gjobqjj7wyczbqie.onion/), [BTDigg](http://btdiggwzoyrwwbiv.onion/), [Ahmia](http://msydqstlz2kzerdg.onion/)
+[Search-Darkweb](https://iaca-darkweb-tools.com/search-darkweb/), [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/), [Onions Search](https://onionsearchengine.com/), [OnionLandSearch](https://onionlandsearchengine.com/), [Ahmia](https://ahmia.fi/) / [Git](https://github.com/ahmia/ahmia-site ), [Onion.live](https://onion.live/), [Darkdump](https://github.com/josh0xA/darkdump), [doku](http://ujnkg4uirpaiqejr.onion/doku.php), [VisiTOR](http://visitorfi5kl7q7i.onion/), [Tornet](http://tgs5dkeqkg5hrjjk.onion/), [Torgle](http://torglejzid2cyoqt.onion/), [Tordex](http://tordex7iie7z2wcg.onion/), [Torch](http://xmh57jrzrnw6insl.onion/) / [2](http://26ozf35d2rwtmqbk.onion/), [Tor Search Engine](http://searchcoaupi3csb.onion/) / [2](http://searcherc3uwk535.onion/), [Tor Search](http://torsearchruby56z.onion/), [Torrentz 2](http://torrentzwealmisr.onion/), [Tormax](http://tormaxunodsbvtgo.onion/), [Tor77](http://tor77orrbgejplwp.onion/), [Tor66](http://tor66sezptuu2nta.onion/), [Start](http://kaarvixjxfdy2wv2.onion/), [SearX](http://5plvrsgydwy2sgce.onion/), [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/), [OnionLand Search Engine](http://3bbaaaccczcbdddz.onion/), [Onion Search Service](http://oss7wrm7xvoub77o.onion/), [Onion Search Engine](http://5u56fjmxu63xcmbk.onion/) / [2](http://onionf4j3fwqpeo5.onion/), [Onion Center](http://oikgfwfqmqkph4rl.onion/), [Onion Bag](http://onionbagy25be2bg.onion/), [Not Evil](http://hss3uro2hsxfogfq.onion/), [MultiVAC](http://multivacigqzqqon.onion/), [I2P Search](http://i2psesltivefcujc.onion/), [Haystak](http://haystakvxad7wbk5.onion/), [Grams](http://grams7ebnju7gwjl.onion/), [Google.Onion](http://ggonionvhfq7brmj.onion/), [Excavator](http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/), [Evo Search](http://evo7no6twwwrm63c.onion/), [DDG](http://3g2upl4pq6kufc4m.onion/), [Dark Web Links](http://jdpskjmgy6kk4urv.onion/), [Candle](http://gjobqjj7wyczbqie.onion/), [BTDigg](http://btdiggwzoyrwwbiv.onion/), [Ahmia](http://msydqstlz2kzerdg.onion/), [Tor.Link](https://tor.link/)
 
 ***
 
@@ -2603,7 +2627,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Video Hosting Sites
 
-[mixdrop](https://mixdrop.co/), [vudeo (8tb)](https://vudeo.net/), [vidyard](https://www.vidyard.com/), [streamzz](http://streamzz.to/), [streamtape](https://streamtape.com/), [doodstream](https://doodstream.com/), [aparat](https://aparat.cam/), [supervideo](https://supervideo.tv/), [ninjastream](https://ninjastream.to/), [youdbox](https://youdbox.com/), [cloudvideo](https://cloudvideo.tv/),  [powvideo](http://powvideo.net/), [upstream](https://upstream.to/), [videobin](https://videobin.co/), [streamable](https://streamable.com/), [abyss](https://abyss.to/), [NetU](https://netu.io/view_page.php?pid=4), [voe.sx](https://voe.sx/), [videy](https://videy.co/), [wolfstream](https://wolfstream.tv/), [flashx](https://flashx.pw/), [userload](https://userload.co/), [vidcloud](https://vidcloud.co/), [vidoza](https://vidoza.net/), [youdbox](https://youdbox.net/), [fileone](https://fileone.tv/), [streamlare](https://streamlare.com/), [videovard](https://videovard.to/), [streamsb](https://www.streamsb.com/), [HighStream](https://highstream.tv/), [uqload](https://uqload.com/), [anavidz](https://anavidz.com/), [vupload](https://vupload.com/), [speedostream](https://www.speedostream.com/), [sendvid](https://sendvid.com/), [videovard](https://videovard.sx/), [HighLoad](https://highload.to/)
+[mixdrop](https://mixdrop.co/), [vudeo (8tb)](https://vudeo.net/), [vidyard](https://www.vidyard.com/), [streamzz](http://streamzz.to/), [streamtape](https://streamtape.com/), [doodstream](https://doodstream.com/), [aparat](https://aparat.cam/), [supervideo](https://supervideo.tv/), [ninjastream](https://ninjastream.to/), [youdbox](https://youdbox.com/), [cloudvideo](https://cloudvideo.tv/),  [powvideo](http://powvideo.net/), [upstream](https://upstream.to/), [videobin](https://videobin.co/), [streamable](https://streamable.com/), [abyss](https://abyss.to/), [NetU](https://netu.io/view_page.php?pid=4), [voe.sx](https://voe.sx/), [videy](https://videy.co/), [wolfstream](https://wolfstream.tv/), [flashx](https://flashx.pw/), [userload](https://userload.co/), [vidcloud](https://vidcloud.co/) / [2](https://streamrapid.ru/), [vidoza](https://vidoza.net/), [youdbox](https://youdbox.net/), [fileone](https://fileone.tv/), [streamlare](https://streamlare.com/), [videovard](https://videovard.to/), [streamsb](https://www.streamsb.com/), [HighStream](https://highstream.tv/), [uqload](https://uqload.com/), [anavidz](https://anavidz.com/), [vupload](https://vupload.com/), [speedostream](https://www.speedostream.com/), [sendvid](https://sendvid.com/), [videovard](https://videovard.sx/), [HighLoad](https://highload.to/)
 
 ***
 
@@ -2776,20 +2800,22 @@ Good for finding classic, obscure & short films.
 * [OldNewExplorer](https://m.majorgeeks.com/files/details/oldnewexplorer.html)
 * [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir)
 * [Sigma](https://github.com/aleksey-hoffman/sigma-file-manager)
-* [Quick Access Popup](https://www.quickaccesspopup.com/) 
+* [Quick Access Popup](https://www.quickaccesspopup.com/)
 * [Xplorer](https://github.com/kimlimjustin/xplorer)
-* [One Commander](https://www.onecommander.com/) 
+* [One Commander](https://www.onecommander.com/)
 * [Free Commander](https://freecommander.com/)
-* [ExplorerEx](https://github.com/DearVa/ExplorerEx) 
+* [ExplorerEx](https://github.com/DearVa/ExplorerEx)
+* [Orange](https://github.com/naaive/orange)
 * [Files](https://files.community/)
-* [MUCommander](https://www.mucommander.com/) 
+* [MUCommander](https://www.mucommander.com/)
 * [TablacusExplorer](https://tablacus.github.io/explorer_en.html) - [GitHub](https://github.com/tablacus/TablacusExplorer)
 * [AlTap](https://www.altap.cz/)
+* [AstroGrep](https://sourceforge.net/projects/astrogrep/)
 * [DoubleCMD](https://github.com/doublecmd/doublecmd)
 * [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
 * [Files](https://www.microsoft.com/en-us/p/files/9nghp3dx8hdx#activetab=pivot:overviewtab) - [Themes](https://www.microsoft.com/en-us/p/themes-for-files/9n20kq61lsfq?activetab=pivot:overviewtab)
 * [Clover](http://en.ejie.me/) or [QTTabBar](http://qttabbar.wikidot.com/) - Windows Explorer Tabs
-* [WinFile](https://github.com/microsoft/winfile) or [FileSearchEX](https://goffconcepts.com/products/filesearchex)/download.html) - Original Windows File Manager 
+* [WinFile](https://github.com/microsoft/winfile) or [FileSearchEX](https://goffconcepts.com/products/filesearchex)/download.html) - Original Windows File Manager
 * [Multi Commander](http://multicommander.com/) - Multi-Tabbed File Manager
 
 ***
@@ -2797,7 +2823,7 @@ Good for finding classic, obscure & short films.
 #### Windows ISO
 
 * **[TechBench](https://tb.rg-adguard.net/)**
-* **[Windows 10 LTSC](https://supreme-gamers.com/t/windows-10-ltsc-the-best-windows-10-version-ever.845/)** - *[/r/Windows10LTSC](https://www.reddit.com/r/Windows10LTSC/)*
+* **[Windows 10 LTSC](https://supreme-gamers.com/t/windows-10-ltsc-the-best-windows-10-version-ever.845/)** - [/r/Windows10LTSC](https://www.reddit.com/r/Windows10LTSC/)
 * **[Windows AME](https://ameliorated.info/)**
 * [Massgravel's Pastebin](https://pastebin.com/raw/jduBSazJ)
 * [Bob Pony](https://downloadui.bobpony.com/)
@@ -2813,20 +2839,20 @@ Good for finding classic, obscure & short films.
 * [jerryching](http://jerryching.spdns.de/Software/ISO%20Backup/)
 * [minerswin](http://root3.minerswin.de/ISO/Windows/)
 * [ISO GDrive](https://docs.google.com/spreadsheets/d/e/2PACX-1vSScnE8yYzjgTlMiTpoGZ4VwDKHDanTld2_BXXliZg_nTyVVJq0ppvDJHiRFuMEoAO9UKHZqCG2o97T/pubhtml#)
-* [AtlasOS](https://atlasos.net/) - *Custom Windows 10 20H2 / [Discord](https://discord.com/invite/xx6S3g3HzE)*
-* [Fido](https://github.com/pbatard/Fido) - *Powershell Script*
-* [ggOS](https://discord.gg/A5BHSQV) - *Custom Windows 10 20H2*
-* [Windows Sun Valley](https://archive.org/details/windows-sv-pro-v-1) - *Custom Windows 10 21H1*
-* [ReviOS](https://www.revi.cc/) - *Custom Windows 10*
-* [Ghost Spectre](https://youtube.com/playlist?list=PLLP5vMyczsRwwyDQQBRJQfQtxozNkEWwk) - *Custom Windows 10*
-* [Phoenix LiteOS](https://phoenixliteos.com/)  - *Custom Windows 10*
-* [RekOS](https://discord.com/invite/YNFFN4W52y)  - *Custom Windows 10*
-* [KernelOS](https://discord.gg/GYmNPtfwfs)  - *Custom Windows 10*
-* [TheWorldofPC](https://nexusliteos.blogspot.com/)  - *Custom Windows 10*
-* [FoxOS](https://discord.gg/A5Y76ymyBY) - *Custom Windows 7* 
-* [OldSchoolOS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - *Oldschool ISO's*
-* [MediaCreationTool.bat](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15) - *Media Creation Tool Wrapper*
-* [Windows 10 Building](https://teamos-hkrg.com/threads/windows-10-building-and-modding-and-custom-os-s.129309/) - *How-to Make Custom Windows 10 ISOs*
+* [AtlasOS](https://atlasos.net/) - Custom Windows 10 20H2 / [Discord](https://discord.com/invite/xx6S3g3HzE)
+* [Fido](https://github.com/pbatard/Fido) - Powershell Script
+* [ggOS](https://discord.gg/A5BHSQV) - Custom Windows 10 20H2
+* [Windows Sun Valley](https://archive.org/details/windows-sv-pro-v-1) - Custom Windows 10 21H1
+* [ReviOS](https://www.revi.cc/) - Custom Windows 10
+* [Ghost Spectre](https://youtube.com/playlist?list=PLLP5vMyczsRwwyDQQBRJQfQtxozNkEWwk) - Custom Windows 10
+* [Phoenix LiteOS](https://phoenixliteos.com/)  - Custom Windows 10
+* [RekOS](https://discord.com/invite/YNFFN4W52y)  - Custom Windows 10
+* [KernelOS](https://discord.gg/GYmNPtfwfs)  - Custom Windows 10
+* [TheWorldofPC](https://nexusliteos.blogspot.com/)  - *Custom Windows 10
+* [FoxOS](https://discord.gg/A5Y76ymyBY) - Custom Windows 7
+* [OldSchoolOS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISO's
+* [MediaCreationTool.bat](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15) - Media Creation Tool Wrapper
+* [Windows 10 Building](https://teamos-hkrg.com/threads/windows-10-building-and-modding-and-custom-os-s.129309/) - How-to Make Custom Windows 10 ISOs
 
 ***
 
