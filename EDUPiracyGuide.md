@@ -59,7 +59,7 @@
 * [media.ccc.de](https://media.ccc.de/) - Educational Presentations
 * UC Berkeley Webcast project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://lbry.tv/@UCBerkeley:d?) - Lectures
 * [iTunes U](https://wiki.archiveteam.org/index.php/ITunes_U) - Lectures
-* [Ted](https://www.ted.com/) - Inspiring and Educational Talks
+* [Ted Talks](https://www.ted.com/) or [Adobe 99U](https://99u.adobe.com/talks) - Inspiring and Educational Talks
 * [WatchKnowLearn](http://www.watchknowlearn.org/) - Educational Videos
 * [FreeMedTube](https://freemedtube.net/) - Medical Courses
 * [Mathispower4u](http://www.mathispower4u.com/) - Math Tutorials
@@ -565,7 +565,7 @@
 * [Spreeder](https://www.spreeder.com/) - Learn to Read Faster
 * [Learn Anything](https://learn-anything.xyz/), [Learning Lab](https://learn.uno/) / [Discord](https://discord.com/invite/FCzYt8u) or [Learney](https://app.learney.me/) - Learning Resources 
 * [Fact Directory](https://fact.directory/) or [RDoK](http://rdok.net/) - Fact / Knowledge Databases
-* [Refseek](https://www.refseek.com/) - Academic Search Engine
+* [Refseek](https://www.refseek.com/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engine
 * [Explorabl.es](https://explorabl.es/) or [MinuteLabs](https://minutelabs.io/) - Interactive Learning / Lessons 
 * [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - Learn With GIFs 
 * [Information Is Beautiful](https://informationisbeautiful.net/) - Data / Information / Infographics / Visualizations 
@@ -598,6 +598,7 @@
 * [ChemicalAid](https://en.intl.chemicalaid.com/) - Chemistry Calculators & Element Tables
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
 * [Retrosynthesis](http://retrosynthesis.com/) - Organic Retrosynthesis Engine / [GitHub](https://github.com/sudo-rushil/odachi)
+* [Answers.com](https://www.answers.com/) - Q&A Community
 * [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) - Homework Help 
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets 
 * [Answers Exchange](https://discord.gg/GFp9Rvr), [Toppr](https://www.toppr.com/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
@@ -680,7 +681,7 @@
 * [Seeing Theory](https://seeing-theory.brown.edu/) or [Stat Trek](https://stattrek.com/) - Statistics & Probability Tutorials 
 * [GaryChamberlainLectureNotes](https://github.com/paulgp/GaryChamberlainLectureNotes) - Econometrics Lecture Notes
 * [The Engineering Toolbox](https://www.engineeringtoolbox.com/) - Engineering Tools and Resources
-* [Awesome Mecheng](https://github.com/m2n037/awesome-mecheng) - Mechanical Engineering Resources
+* [Awesome Mecheng](https://github.com/m2n037/awesome-mecheng) or [design-data-list](https://github.com/IDEALLab/design-data-list) - Mechanical Engineering Resources
 * [Sanfoundry](https://www.sanfoundry.com/) - Programming & Engineering Questions & Answers
 * [CESDB](https://www.cesdb.com/) - Civil Engineering Software
 * [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides 
