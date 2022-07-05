@@ -85,7 +85,7 @@
 * [Websites From Hell](https://websitesfromhell.net/) - Shitty Website Index
 * [National Archives](http://www.nationalarchives.gov.uk/webarchive/) - UK Government Site Archive
 * [UKWA](https://www.webarchive.org.uk/ukwa/) - UK Site Archive
-* [DeepWebLinks](https://deepweblinks.net/directories/), [dark.fail](https://dark.fail/), [Official Hidden Wiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/), [DeepOnionWeb](https://www.deeponionweb.com/), [DarkWebWiki](https://darkwebwiki.org/), [DarkWebTalk](https://www.darkwebtalk.com/) or [Real World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites) - .Onion Directories
+* [DeepWebLinks](https://deepweblinks.net/directories/), [dark.fail](https://dark.fail/), [Official Hidden Wiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/), [DeepOnionWeb](https://www.deeponionweb.com/), [DarkWebWiki](https://darkwebwiki.org/), [DarkWebTalk](https://www.darkwebtalk.com/), [Tor.Taxi](https://tor.taxi/) or [Real World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites) - .Onion Directories
 * [The Hive Index](https://thehiveindex.com/) - Online Communities Index
 * [NetSplit](https://netsplit.de/) - IRC Channel Index
 * [API List](https://apilist.fun/) or [Public APIs](https://github.com/public-apis/public-apis) - API index 
@@ -227,10 +227,12 @@
 * [KongouCheats](https://kongoucheats.com/) or [Wimp.com](https://www.wimp.com/) - Watch Random Memes / Videos 
 * [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [iFunny](https://ifunny.co/) or [Imageboard Scraper](https://nik.bot.nu/) - Images, Videos, Memes & GIFs / Some NSFW
 * [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
+* [DeviantArt](https://www.deviantart.com/) or [ArtStation](https://www.artstation.com/) - User-Made Art
 * [SfwChan](http://boards.swfchan.net/) - SFW Archive
 * [SakugaBooru](https://www.sakugabooru.com/) - Image Booru
 * [IndieGameBooru](https://indiegame.booru.org/) - Indie Game Image Booru
 * [Random Screenshot](https://randomscreenshot.com/) or [Random Prnt.sc](https://chrishannah.me/prntsc/) - Random Screenshots
+* [Archillect](https://archillect.com/archive) - Image Posting Bot
 * [DreamWidth](https://www.dreamwidth.org/) - User-Made Images & Stories
 * [Fandom](https://www.fandom.com/) - Media Wikis / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com)
 * [Kamogo](https://www.kamogo.com/faq/) - Useless Web Apps
@@ -478,6 +480,7 @@
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge A.I.
 * [Moral Machine](https://www.moralmachine.net/) - Machine Intelligence Moral Decisions
 * [Word Blanks](https://www.wordblanks.com/) or [Plot Generator](https://www.plot-generator.org.uk/) - Online Mad Libs
+* [Magnet Poetry](https://sadgrl.online/magnet-poetry) - Magnet Poetry
 * [Fun Trivia](https://www.funtrivia.com/), [Factle](https://factle.app/), [BeanBeanBean](https://beanbeanbean.com/) or [Sporcle](https://www.sporcle.com/) - Trivia
 * [ARealMe](https://www.arealme.com/) - Quiz Collection
 * [OpenPsychometrics](https://openpsychometrics.org/) or [16 Personalities](https://www.16personalities.com/) - Personality Tests
@@ -590,7 +593,7 @@
 * [MFA](https://www.mfa.gov.cn/eng/) - Ministry of Foreign Affairs of the People's Republic of China
 * [Legislation.gov](https://www.legislation.gov.uk/) - British Law News
 * [RT News](https://t.me/rtnews ) - Russian News
-* [SciURLs](https://sciurls.com/) - Science News
+* [SciURLs](https://sciurls.com/) or [LiveScience](https://livescience.com/) - Science News
 * [MathURLs](https://mathurls.com/) - Math News
 * [DevURLs](https://devurls.com/) - Developer News
 * [TuxURLs](https://tuxurls.com/) - Linux News
@@ -895,6 +898,7 @@
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)
 * [LightningMaps](https://lightningmaps.org/) - Lightning Maps
 * [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](http://radarbox24.com/) or [FlightAware](http://flightaware.com/) - Live Flight Tracker 
+* [plane-notify](https://github.com/Jxck-S/plane-notify) - Plane Takeoff Notifications
 * [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
 * [SkyVector](https://skyvector.com/) - Flight Planner
 * [MarineTraffic](https://www.marinetraffic.com/) or [VesselFinder](http://vesselfinder.com/) - Live Ship Tracker 
@@ -951,20 +955,21 @@
 * [Fonts Brick](https://brick.im/fonts/) 
 * [d_fonts](https://t.me/d_fonts) 
 * [FreeFontss](https://t.me/freefontss) 
-* [iFonts](https://ifonts.xyz/) 
+* [iFonts](https://ifonts.xyz/)
 * [Cufon Fonts](https://www.cufonfonts.com/)
 * [FontsArena](https://fontsarena.com/)
 * [fonteseletras](https://www.fonteseletras.com/)
-* [LostType](http://www.losttype.com/) 
-* [UrbanFonts](https://www.urbanfonts.com/) 
+* [LostType](http://www.losttype.com/)
+* [UrbanFonts](https://www.urbanfonts.com/)
 * [AbstractFonts](https://www.abstractfonts.com/)
+* [FontGet](https://www.fontget.com/)
 * [FontCubes](http://www.fontcubes.com/) 
-* [AllFreeFont](http://www.allfreefont.com/) 
-* [BigFontSite](https://bigfontsite.com/) 
-* [FontCab](http://www.fontcab.com/) 
+* [AllFreeFont](http://www.allfreefont.com/)
+* [BigFontSite](https://bigfontsite.com/)
+* [FontCab](http://www.fontcab.com/)
 * [Martian Mono](https://github.com/evilmartians/mono)
-* [Dribbble](https://dribbble.com/search/free%20font) 
-* [Fonts2u](https://fonts2u.com/) 
+* [Dribbble](https://dribbble.com/search/free%20font)
+* [Fonts2u](https://fonts2u.com/)
 * [KevinandAmanda](https://www.kevinandamanda.com/lifestyle/crafts-projects/free-fonts/)
 * [GlukFonts](http://www.glukfonts.pl/fonts.php)
 * [Iconian](http://www.iconian.com/) 
