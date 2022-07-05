@@ -790,7 +790,7 @@
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - ctrl+f and type "video"
 * **[EZTV](https://eztv.re/)** - TV / Anime / Do [NOT](https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) Make Account 
 * [MSearch](https://msearch.now.sh/), [2](https://msearch.vercel.app/) - Movies / TV
-* [WatchSoMuch](https://watchsomuch.tv/) -  - Movies / TV / [Proxy](https://watchsomuchproxy.com/)
+* [WatchSoMuch](https://watchsomuch.com/) - Movies / TV / Anime / [Proxy](https://watchsomuchproxy.com/)
 * [GaoQing](https://gaoqing.fm/) - Movies / TV / Anime / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Play](http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/) - [ZeroNet Required](https://zeronet.io/) / Movies / TV
 * [Baby Torrent](https://babytorrent.fun/) - Movies / TV
