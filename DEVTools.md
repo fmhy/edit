@@ -242,7 +242,6 @@
 * [Scoop](https://www.scoop.it/) - Content Curation Tool
 * [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams 
 * [ASCII Flow](https://asciiflow.com/) - Draw ASCII Diagrams
-* [Thanos](https://thanos.io/) - Open Source Prometheus Setup / [GitHub](https://github.com/thanos-io/thanos) 
 * [Ainize](https://ainize.ai/) - Launchpad for open-source AI projects
 * [DBeaver](https://dbeaver.io/) - Universal Database Tool
 * Generate Fake Data - [Ruby](https://github.com/faker-ruby/faker) / [Swift](https://github.com/vadymmarkov/Fakery)
@@ -339,6 +338,7 @@
 * [Am I Responsive](http://ami.responsivedesign.is/) - Responsive Design Checker
 * [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) - Compare Website Performance
 * [Visual Mind AI](https://myraah.io/index.php/visualmind) - Site Visual Score
+* [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
 * [Contrast Checker](https://contrast-checker.glitch.me/) - Contrast Checker
 * [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
 * [Statically](https://statically.io/) - Load Websites Faster
@@ -431,6 +431,7 @@
 * [OneLinePlayer](https://onelineplayer.com/) - Vimeo / Dropbox Video Player
 * [Testimonial](https://testimonial.to/) - Easily Add Video Testimonials to Sites
 * [DriveProxy](http://driveproxy.net/) - GDrive Video iFrame Code Generator
+* [Stream Defence](https://www.streamdefence.com/) - Website Video Backup System
 * [StreamYard](https://streamyard.com/) - Live Stream Creator
 * [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
 * [Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation) - Web Animation Index
@@ -482,6 +483,7 @@
 * [HandShake](https://handshake.org/) - Decentralized Certificate Authority & Naming
 * [Let's Encrypt](https://letsencrypt.org/) - Free TLS Certificates
 * [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
+* [mkcert](https://github.com/FiloSottile/mkcert) - Locally Trusted Development Certificates
 * [OpenSSL](https://www.openssl.org/) - SSL / TLS Toolkit
 * [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - Cloud Native Object Storage 
 * [Amazon S3](https://aws.amazon.com/s3) - Cloud Object Storage Amazon Simple Service Storage
@@ -513,9 +515,10 @@
 * [Vuejs Dev Tools](https://vuejs.org/) - Add Vue 3 Debugging to Browser 
 * [Vue vben admin](https://github.com/vbenjs/vue-vben-admin) - Vue Admin 
 * [Sight](https://github.com/tsenart/sight) - Syntax Highlighter for Chrome 
-* [Inyo](https://inyo.me/inyo-v2-customization-tools) - Customer Relation Tools
+* [Inyo](https://inyo.me/inyo-v2-customization-tools) or [mnm](https://mnmnotmail.org/) - Member Messaging Tools
 * [Sprig](https://sprig.com/) - Product Research Platform
 * [Website Grader](https://website.grader.com/) - Website Grading Tool
+* [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - Tunneling Software & Services
 * [ngrok](https://ngrok.com/) - Introspectable Tunnels to Localhost Tools
 * [NConfig](https://www.digitalocean.com/community/tools/nginx) - [NGINX](https://nginx.org/) Server Config
 * [tengine](https://github.com/alibaba/tengine) - NGINX with Extra Features
@@ -549,6 +552,7 @@
 * [Servo](https://servo.org/) - Experimental Browser Engine
 * [Gummy](https://gummyjs.vercel.app/) - Easily Build Javascript Programs 
 * [NASM](https://www.nasm.us/) - Program Assembler
+* [Radicle](https://radicle.xyz/) - P2P Software Development
 * [Pakkly](https://pakkly.com/) - Desktop App Deployment
 * [Dotnet Content Creators](https://github.com/matthiasjost/dotnet-content-creators) - .NET Content Creators Index
 * [dotnet releaser](https://github.com/xoofx/dotnet-releaser) - Automate Release of .NET Applications
@@ -584,6 +588,7 @@
 * [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS App Development Resources
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
 * [MemberPrism](http://r.ftqq.com/MemberPrism2/) - Member-Only App Builder
+* [butterfly](https://github.com/GetStream/butterfly) - Android UI Builder 
 * [App ideas](https://github.com/florinpop17/app-ideas) - Collection of App Ideas
 * [Docker](https://www.docker.com/) - Build, Manage & Run Apps in Containers / [Images](https://linuxserver.io/)
 * [Dive](https://github.com/wagoodman/dive) - Analyze Docker Images
@@ -892,6 +897,7 @@
 * [OctoLinker](https://octolinker.vercel.app/) - Turn Code Statements into Links / [Github](https://github.com/OctoLinker/OctoLinker)
 * [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - Emacs Packages
 * [WebDen](https://webden.dev/) or [CodeEval](https://www.codeeval.dev/) - Code Playground
+* [Qovery](https://www.qovery.com/) - AWS Development Platform
 * [I run code](https://github.com/engineer-man/piston-bot) - Evaluate Code Snippets via Discord
 * [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
 * [ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate) - Modifiable Shellcode Template 
@@ -901,7 +907,8 @@
 * [vim-markdown](https://github.com/plasticboy/vim-markdown) - Vim Markdown Plugin
 * [VimAwesome](https://vimawesome.com/) - Vim Plugins
 * [NeovimCraft](https://neovimcraft.com/) - Neovim Plugins
-* [NvChad](https://github.com/NvChad/NvChad) - NeoVIM CLI 
+* [NvChad](https://github.com/NvChad/NvChad) - Neovim CLI 
+* [NeoVide](https://github.com/neovide/neovide) - Neovim Client
 * [Bootstrap Editor](https://vim-bootstrap.com/) - Vim / Neovim Config Generator Bootstrap Editor
 * [Goyo.vim](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim
 * [nvim](https://github.com/neoclide/coc.nvim) - Neovim LSP Autocompletion coc.
@@ -1010,7 +1017,7 @@
 
 ## ▷ Cloud IDEs / Collab
 
-* **[goormIDE](https://ide.goorm.io/)**, [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) - Cloud IDE / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/) or [Glitch](https://glitch.com/) / [GitHub](https://github.com/m3o/m3o) - Cloud IDE
+* **[goormIDE](https://ide.goorm.io/)**, [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/), [FireMonkeyX](http://www.firemonkeyx.com/) or [Glitch](https://glitch.com/) / [GitHub](https://github.com/m3o/m3o) - Cloud IDE
 * **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - Cloud IDE / VSCode 
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
 * [colab alive](https://github.com/sobuj53/colabAlive) - Keep Colab Open
