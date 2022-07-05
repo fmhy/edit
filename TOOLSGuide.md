@@ -157,6 +157,7 @@
 * [Lyx](https://www.lyx.org/) - LaTeX Editor / [Guide](https://www.learnlatex.org/)
 * [Detexify](http://detexify.kirelabs.org/classify.html) - Handwritten LaTeX Symbol Recognition
 * [How To Use Excel](https://www.how-use-excel.com/) - Excel Tutorial
+* [Vertex42](https://www.vertex42.com/) - Excel Templates
 * [Plain Text Table](https://plaintexttools.github.io/plain-text-table/) - Text Tables
 * [EditCSVOnline](https://www.editcsvonline.com/) - Online CSV Editor 
 * [Read File Online](http://www.readfileonline.com/) - Online Large Text File Viewer
@@ -308,7 +309,7 @@
 * [LiveRecord](https://github.com/lovezzzxxx/liverecord) - Automatic Stream Recorder
 * [LiveMonitor](https://github.com/lovezzzxxx/livemonitor) - Live Stream Detection
 * [real-url](https://github.com/wbt5/real-url) - Copy Live Stream URLs
-* [Owncast](https://owncast.online/) - Self-Hosted Live Streaming 
+* [Owncast](https://owncast.online/) or [OpenStreamingPlatform](https://openstreamingplatform.com/) - Self-Hosted Live Streaming 
 * [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - Watch, download and Organize public video URLs
 * [WDFlat](https://www.wdflat.com/) - Stream Elements
 * [Streamon](https://getstreamon.com/) - Stream to Instagram from PC / [GitHub](https://github.com/haxzie/instagram-live-streamer)
@@ -397,6 +398,7 @@
 * [4K Media](https://4kmedia.org/) - Free 4K Video Demos
 * [L3-WEB-DL-Script](https://github.com/parnexcodes/widevine-L3-WEB-DL-Script) or [uwuwvdl](https://github.com/Ori5000/uwuwvdl) - Widevine L3 DL Script
 * [Video Decrypter](https://github.com/CrackerCat/video_decrypter) - Widevine DRM Decrypter
+* [WV-AMZN-4K-RIPPER](https://github.com/docgonzo2015/widevinedump-1) - Amazon 4k SDR HDR 1080 Download Tool
 * [GetWVKeys](http://getwvkeys.cc/) - Send Widevine Requests 
 * [Custom NVIDIA Shield TV](https://www.reddit.com/r/ShieldAndroidTV/comments/o6o5dz/new_guide_use_a_custom_launcher_shield_tv_with/) - Custom NVIDIA Shield TV Launcher
 
@@ -868,7 +870,7 @@
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
 * [Safari Windows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_safari_windows) - Safari for Windows
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) - Prevent Firefox Memory Leaks 
-* [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) - Firefox Hidden Settings
+* [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) or [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Firefox Hidden Settings
 * [Firefox Access](https://www.accessfirefox.org/) - Firefox Accessibility Tools for the Visually Impaired
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - Firefox CSS Guides 
@@ -950,7 +952,8 @@
 * [Google Search Guide](https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters) + [Advanced](https://coursebuilder.withgoogle.com/)
 * [sitedorks](https://github.com/Zarcolio/sitedorks), [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list/), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list) or [DorkSearch](https://www.dorksearch.com/) - Google Search Dorks
 * [Yandex Search Operator Cheat Sheets](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/), [3](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
-* [Cyber](https://cyber.page/) - Hash Search Engine 
+* [Cyber](https://cyber.page/) - Hash Search
+* [rfc.fyi](https://rfc.fyi/) - RFC Search
 * [TruePeopleSearch](https://www.truepeoplesearch.com/) - Person Search
 * [CrunchBase](https://www.crunchbase.com/) - Company Info Search
 * [Employees hunter](https://hunter.io/) - Company Employee Email Search
@@ -1040,6 +1043,7 @@
 * [Redirect Detective](https://redirectdetective.com/) - URL Redirect Checker 
 * [Dereferer](https://dereferer.me/) - Derefer / Anonymize Links
 * [Link-Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
+* [dcrypt.it](http://dcrypt.it/) - Decrypt Link Containers
 * [Linkify Plus Plus](https://greasyfork.org/en/scripts/4255-linkify-plus-plus) - [Core](https://github.com/eight04/linkify-plus-plus-core) / Turn Plain txt URL's into Links
 * [Perma](https://perma.cc/) - Permanent URLs 
 * [Temporary-Url](https://www.temporary-url.com/) - Temporary URLs / QR Codes 
@@ -1082,7 +1086,7 @@
 * [Busca](https://github.com/afk-mcz/busca) - Search Current Tab on Reddit
 * [KarmaDecay](http://karmadecay.com/) - Reddit Reverse Image Search 
 * [Reddit Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_alternatives) - Alternative Reddit Style Sites
-* [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/) or [Nuxtit](https://nuxtit.netlify.com/) - Alt Browsers / Web Clients
+* [Simpleddit](http://www.simpleddit.com/), [Legere](https://www.microsoft.com/en-us/p/legere-for-reddit/9phjrvcskvjz), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/) or [Nuxtit](https://nuxtit.netlify.com/) - Alt Browsers / Web Clients
 * [Reddit Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_frontends)
 * [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466-unedit-and-undelete-for-reddit) - See Edited & Deleted Reddit Content
 * [Unddit](https://www.unddit.com/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - View Deleted Reddit Posts
@@ -1286,6 +1290,7 @@
 ## ▷ Telegram Tools
 
 * **[Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools)** - File Tools for Telegram
+* [borodutch.eth](https://borodutch.com/) - Telegram Tools
 * [Telegram Channels](https://telegramchannels.me/), [TG-ME](https://www.tg-me.com/) or [Telegramic](https://telegramic.org/) - Telegram Channel Indexes
 * [Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_bots) - Telegram Bot Indexes
 * [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [gramxly](https://gramxly.com/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - Telegram Channel / Bot Search
@@ -1588,7 +1593,7 @@ Twitch Stream Tracker
 * [/r/PCMasterrace Wiki](https://www.reddit.com/r/pcmasterrace/wiki/builds/), [/r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [Logical Increments](https://www.logicalincrements.com/) - PC Building Guides
 * [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Laptop Deals](https://laptopsdeals.net/our-gaming-laptops-guide-list/), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
-* [r/TechSupport](https://www.reddit.com/r/techsupport/), [Windows 10 Forums](https://www.windowsphoneinfo.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/) or [Notebook Reviews](http://forum.notebookreview.com/) - Tech Support / [Discord](https://discord.gg/2EDwzWa) / [Wiki](https://rtech.support/books/)
+* [r/TechSupport](https://www.reddit.com/r/techsupport/), [Windows 10 Forums](https://www.windowsphoneinfo.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/) or [Notebook Reviews](http://forum.notebookreview.com/) - Tech Support / [Discord](https://discord.gg/2EDwzWa) / [Wiki](https://rtech.support/books/)
 * [GetHuman](http://gethuman.com/) or [ContactFound](https://contactfound.com/) - Tech Support Numbers
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [Shucks](https://shucks.top/) - External Drive Price Tracker
@@ -1599,6 +1604,7 @@ Twitch Stream Tracker
 * [BTOD](https://www.btod.com/blog/category/buying-guides/) - Office Chair Buying Guides / Reviews
 * [Office License Isn't Genuine](https://web.archive.org/web/20211014003224/https://windowsaddict.ml/office-license-is-not-genuine) - Fix Office Activation Issues
 * [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) - BSD Operating Systems
+* [Medicat USB](https://medicatusb.com/) - USB Toolkit
 * [Rufus](https://rufus.ie/), [AIO Boot](https://www.aioboot.com/), [UUP](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x), [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - Create Bootable USB Drives  
 * [SARDU](https://www.sarducd.it/) - Create Recovery USB Flash Drive or Disk 
 * [rEFind](http://www.rodsbooks.com/refind/) - Boot Manager
@@ -2033,7 +2039,7 @@ Twitch Stream Tracker
 * [GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) - GoIndex to GDrive Downloader
 * [GDriveSearcherBot](https://github.com/TheHamkerCat/GdriveSearcherBot) - GDrive Search Bot
 * [gd-utils](https://github.com/roshanconnor123/gd-utils) / [2](https://nenokkadine.github.io/GD-Utils/) or [Bypass-GDrive](https://yuudrive.me/tools/bypass-gdrive) - Google Drive Limit Bypass 
-* [G-Index](https://github.com/LeeluPradhan/G-Index), [goindex](https://github.com/alx-xlx/goindex), [GDI](https://github.com/anymeofu/GDI) or [gdrive-index](https://github.com/alx-xlx/gdrive-index) - Google Drive Index
+* [G-Index](https://github.com/LeeluPradhan/G-Index), [Zyndex](https://zyndex.tk/), [goindex](https://github.com/alx-xlx/goindex), [GDI](https://github.com/anymeofu/GDI) or [gdrive-index](https://github.com/alx-xlx/gdrive-index) - Google Drive Index
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
 * [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive 
 * [Copy Google Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_copy_google_drives) - Make GDrive Copies 
@@ -2044,7 +2050,6 @@ Twitch Stream Tracker
 * [Folder.GDrive](https://folder.gdrive.vip/) - GDrive Folder Link Generator
 * [GDToT](https://gdtot.eu/), [2](https://new.gdtot.eu/) - GDrive Manager
 * [Backup System](https://github.com/danielpy108/BackUpMySystem) - Backup Google Drive
-* [OneDrive X](https://t.me/onedrivexbot) - Remote OneDrive File Upload Bot
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4gb
 * [mf-dl](https://gitgud.io/Pyxia/mf-dl/) - Mediafire Bulk File Downloader 
 * [Baidu Bypass](https://baidu.crackhub.site/) - Bypass Baidu Links / [Guide](https://baidu.crackhub.site/help)
