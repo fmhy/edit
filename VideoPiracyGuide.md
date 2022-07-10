@@ -563,7 +563,7 @@
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "video"
 * **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - Download videos from streaming sites
 * **[Movies Cave](https://moviescaveofficial.web.app/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/5GqPYpWmkx)
-* **[MovieParadise](https://movieparadise.org/)** - Movies / TV / Account Required
+* **[MovieParadise](https://movieparadise.org/)** - Movies / TV / Account Required for 1fichier
 * **[Pahe](https://pahe.li/)** - Movies / TV / Anime / [Discord](https://discord.gg/4AvaCsd2J4) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper) / [Rips](https://mkvking.net/), [2](https://mkvking.me/)
 * **[Worlds Cinema](http://worldscinema.org/)** - Old / Classic / Cult Films
 * **[Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download)** - Many of these sites have single click downloads
