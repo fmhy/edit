@@ -224,7 +224,7 @@
 ## ▷ Download Apps
 
 * **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)**
-* **[GamesDrive / SlavDoge](https://discord.gg/skTQB7YC3D)** - Deezer, Qobuz, TIDAL, and SoundCloud Download Bot / [Site](https://slavart.gamesdrive.net/), [2](https://gamesdrive.net/) / [Upload Backup](https://s3.gamesdrive.net/)
+* **[GamesDrive / SlavDoge](https://discord.com/invite/YVZeB5PA)** - Deezer, Qobuz, TIDAL, and SoundCloud Download Bot / [Site](https://slavart.gamesdrive.net/), [2](https://gamesdrive.net/) / [Upload Backup](https://s3.gamesdrive.net/)
 * **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Download from Spotify
 * **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)
