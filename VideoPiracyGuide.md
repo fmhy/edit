@@ -233,8 +233,8 @@
 # ► TV Streaming
 
 * **[TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)**
-* **[CouchTuner](https://www.couchtuner.show/)** - TV 
-* **[Best Series](https://bstsrs.one/)**, [2](https://srsone.click/) - TV
+* **[CouchTuner](https://www.couchtuner.show/)** - TV / Anime
+* **[Best Series](https://bstsrs.one/)**, [2](https://srsone.click/) - TV / Anime
 * [Noxx](https://noxx.is) - TV
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - TV / Anime
 * [Teleisodes](https://www1.telepisodes.org/) - TV 
