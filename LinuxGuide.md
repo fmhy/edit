@@ -290,12 +290,11 @@
 * **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games
 * [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices 
 * [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [r/linux_gaming wiki](https://linux-gaming.kwindu.eu/) - Linux Gaming Wiki
 * [GameHub](https://tkashkin.github.io/projects/gamehub/) - Game Manager
 * [SCNLOG](https://scnlog.me/) - Linux Games
 * [Free Linux PC Games](https://freelinuxpcgames.com/) - Linux Games
 * [The KDE Games Center](https://games.kde.org/) - Linux Games
-* [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/wiki/) - Wiki for Linux Gaming
+* [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/wiki/) - Wiki for Linux Gaming / [Subredditi](https://linux-gaming.kwindu.eu/)
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)
 * [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) - Install & Manage Proton-GE for Steam / Wine
 * [Batocera.linux](https://batocera.org/) or [Lakka](https://lakka.tv/) - Retro Gaming Distro
