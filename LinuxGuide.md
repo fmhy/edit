@@ -294,7 +294,7 @@
 * [SCNLOG](https://scnlog.me/) - Linux Games
 * [Free Linux PC Games](https://freelinuxpcgames.com/) - Linux Games
 * [The KDE Games Center](https://games.kde.org/) - Linux Games
-* [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/wiki/) - Wiki for Linux Gaming / [Subreddit](https://linux-gaming.kwindu.eu/)
+* [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/wiki/) - Wiki for Linux Gaming / [Sub Wiki](https://linux-gaming.kwindu.eu/)
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)
 * [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) - Install & Manage Proton-GE for Steam / Wine
 * [Batocera.linux](https://batocera.org/) or [Lakka](https://lakka.tv/) - Retro Gaming Distro
