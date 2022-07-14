@@ -518,6 +518,7 @@
 * [AnimeAcademy](https://animeacademy.in/) - Anime
 * [ToonWorld4All](https://www.toonworld4all.me/) - Cartoons / Anime
 * [TVToonsIndia](https://tvtoonsindia.com/) - Cartoons / Anime
+* [PureToons](https://puretoons.org/) - Cartoons / Anime
 * [Hindi Cartoons](https://telegra.ph/All-of-my-Channels-List-02-18) - Cartoons
 * [DesiRulez](https://www.desirulez.cc/) - Video / Audio
 * [WapKing](https://wapking.name/) - Music
