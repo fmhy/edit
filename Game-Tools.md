@@ -154,6 +154,7 @@
 * [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - Hide Player Names to Avoid Stream Sniping
 * [ElDewrito](https://dewritohub.com/) - Halo Online Mod Tool / [GitHub](https://github.com/ElDewrito) / [Discord](https://discord.com/invite/0TKY0SDEUHAWL4sG), [2](https://discord.com/invite/gtqM3s5)
 * [BakkesMod](https://bakkesmod.com/) - Rocket League Trainer
+* [Tilted Online](https://github.com/tiltedphoques/TiltedEvolution) - Multiplayer Skyrim & Fallout 4 / [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)
 * [Northstar](https://northstar.thunderstore.io/), [2](https://northstar.tf/) - Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases) / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A)
 * [Titanfall2HudToggle](https://www.mediafire.com/file/q3tld2cm31znu2z/Titanfall2HudToggle.rar/file) - Toggle Titanfall 2 Hud
 * [CnCNet](https://cncnet.org/) - Multiplayer Command & Conquer 
@@ -180,6 +181,7 @@
 * [OP.GG](https://www.op.gg/) - League of Legends Leaderboards & Stats
 * [Porofessor](https://porofessor.gg/) - Live League of Legends Game Stats
 * [Dota2ProTracker](https://www.dota2protracker.com/) or [16-Bits](https://16-bits.org/) - Dota 2 Stats Tracker
+* [WoWProgress](https://www.wowprogress.com) - WoW Leaderboards
 * [Project Era](https://erafn.glitch.me/#downloads) - Play Old Fortnite Seasons
 * [HaloDotAPI](https://developers.halodotapi.com/) - Halo Stats, MOTD & UGC API
 * [Universal VPN Fixer](https://github.com/samfisherirl/VPNGamingPauser/) - Auto Pause VPN While Gaming Online
@@ -416,7 +418,7 @@
 * **[ModDB](https://moddb.com/)**, [Nexus Mods](https://www.nexusmods.com/), [ZagruzkaMods](https://zagruzkamods.com/), [NextGenUpdate](https://www.nextgenupdate.com/), [ModWorkshop](https://modworkshop.net/), [Video Game Mods](https://videogamemods.com/), [Silent's Blog](https://cookieplmonster.github.io/mods/index/) or [CurseForge](https://www.curseforge.com/) - Game Mods 
 * [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers
 * [MegaGames](https://megagames.com/) - Fixes / Trainers / News
-* [ChronoCrash](http://www.chronocrash.com/forum/) - Game Modding Forum
+* [ChronoCrash](http://www.chronocrash.com/forum/) or [TheTechGame](https://www.thetechgame.com/) / [Discord](https://discord.com/invite/TyH853Sr) - Game Modding Forum
 * [Playground](https://www.playground.ru/) - Mods, Artbooks, Soundtracks, Cheats & more
 * [SweetFX](https://sfx.thelazy.net/) or [ENBSeries](http://enbdev.com/) - Game Graphic Mods 
 * [CheatEngine](https://cheatengine.org/) - Single Play Cheat Engine
