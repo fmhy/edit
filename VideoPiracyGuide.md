@@ -28,6 +28,7 @@
 * **[Ask4movies](https://ask4movie.io/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
 * **[arthemis](https://releases.arthemis.xyz/)** - Movies / TV / Anime / App / [Discord](https://discord.gg/98HxbfjKQV)
 * [M4uFree](https://ww1.m4ufree.com) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones) / Auto DL
+* [PtFlixMovies](https://ptflixmovies.xyz/) - Movies / TV / Anime
 * [C1NE](https://c1ne.co/) - Movies / TV 
 * [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - Movies / TV
 * [Movies.cf](https://movies.cf/Landing) - Movies 
@@ -54,6 +55,7 @@
 * [Moviehdkh](https://www.moviehdkh.com/) - Movies 
 * [Tainio-Mania](https://tainio-mania.online/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [YesMovies.sh](https://yesmovies.sh/) - Movie / TV / Anime 
+* [123MoviesGoTo](https://123moviesgoto.com/) -  Movies / TV
 * [123MoviesFree](https://123moviesfree.net/) - Movies / TV / Anime 
 * [Gophie](https://gophie.cam/) - Movies / TV
 * [KollaFilm](https://kollafilm.com/) - Movies / TV
@@ -88,6 +90,7 @@
 * [Playary](https://www.playary.com/) - Movies / TV
 * [Fawesome](https://fawesome.tv/) - Movies / TV
 * [LokLok](https://loklok.com/) - Movies / TV
+* [ARTE](https://www.arte.tv/en) - Movies / TV
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / [Windscribes](https://windscribe.com/) free version works
 * [YouTube Movie Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)
 * [Amazon Free w/ Ads](https://www.amazon.com/free-ads/s?k=free+with+ads) - Movies / TV
@@ -118,7 +121,7 @@
 * [Sauflix](https://www.sauflix.com/) - Movies / TV
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
 * [YesHD](https://yeshd.net/) - Movies / TV
-* [OnionPlay](https://onionplay.se/) - Movies / TV
+* [OnionPlay](https://onionplay.se/) - Movies / TV / [Mirrors](https://onionplay.network/)
 * [Swatchfree](https://swatchfree.in/) - Movies / TV
 * [WatchSeriesHD](https://www4.watchserieshd.tv/) - Movies / TV / Anime 
 * [Vmovee](https://www.vmovee.watch/) - Movies / TV
@@ -154,6 +157,7 @@
 * [Flenix](https://flenix.net/) - Movies / TV / Anime 
 * [HDFull](https://hdfull.lv/) - Movies / TV / Anime 
 * [VidEmbed](https://vidembed.cc/) - Movies / TV / Anime 
+* [FreeGreatMovies](https://www.freegreatmovies.com/)
 * [123Chill](https://123chill.to/) - Movies / TV / Anime
 * [123MoviesJR](https://123moviesjr.cc/) - Movies / TV
 * [123Moviesd](https://123moviesd.com/) - Movies / TV
@@ -179,6 +183,7 @@
 * [RetroVision Media](http://www.retrovisionmedia.com/) - Retro / Classic Films 
 * [horror.watch](https://horror.watch/) - Classic Horror Films
 * [Wu Tang Collection](https://www.thewutangcollection.com/) - Martial Arts Films
+* [GizmoPlex](https://www.gizmoplex.com/mst3k) - MST3K Movies
 * [Rifftrax Twitch](https://www.twitch.tv/rifftrax) or [RiffTrax Pluto](https://pluto.tv/live-tv/rifftrax) - RiffTrax Live Streams
 * [Ubu](https://ubu.com/film/) - Short Films / Avant-Garde
 * [LIMA](https://www.li-ma.nl/) - Short / Experimental Films
@@ -188,6 +193,7 @@
 * [Total Short Films](http://www.totalshortfilms.com/), [Viddsee](https://www.viddsee.com/), [MAFF](https://www.maff.tv/), [Short of the Week](https://www.shortoftheweek.com/), [Argo](https://web.watchargo.com/), [Shortly](https://watch.shortly.film/) or [Audpop](https://audpop.com/) - Short Films 
 * [HuntleyArchives](https://www.huntleyarchives.com/) - Rare / Forgotten Short Films 
 * [FootageFarm](https://footagefarm.com/) - Public Domain Films
+* [The Travel Film Archive](https://travelfilmarchive.com/) - Public Domain Stock Footage
 * [Einthusan](https://einthusan.tv/) - South Asian Film Archive
 * [IndianCine](https://indiancine.ma/) - Indian Film Archive
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animated Film Archive
@@ -578,6 +584,7 @@
 * [My9JARocks](https://my9jarocks.com/category/videodownload/hollywood-movie) - Movies / TV
 * [HDMP4Mania](https://hdmp4mania1.net/showcat.php?catid=2) - Movies
 * [DDLBase](https://ddlbase.net/) - Movies / TV
+* [PtFlixMovies](https://ptflixmovies.xyz/) - Movies / TV / Anime
 * [megaDDL](https://megaddl.co/) - Movies / TV
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
 * [EE3](https://ee3.me/) - Movies / Invite Code: mpgh
@@ -875,9 +882,10 @@
 * [Episode Calender](https://episodecalendar.com/) - TV Calender
 * [dunno](https://m-dunno.netlify.app/) - Movies / TV
 * [showRSS](https://showrss.info/)  - RSS / TV
+* [AniChart](https://anichart.net) - Seasonal Anime Charts
 * [Anime-Planet](https://www.anime-planet.com/) - Anime 
 * [All Anime](https://allanime.site/) - Anime
-* [Kitsu](https://kitsu.io/) - Anime 
+* [Kitsu](https://kitsu.io/) - Anime
 * [AniDB](https://anidb.net/) - Anime
 * [AniList](https://anilist.co/) - Anime / [Wrapper](https://github.com/butterstroke/Anilist-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
 * [Animender](https://discord.gg/h6nTTprMKd), [Mangaki](https://mangaki.fr/) or [AniBrain](https://anibrain.ai/) - Anime Recommendation Tool
