@@ -224,6 +224,7 @@
 * **[PointerPointer](https://pointerpointer.com/)** - Get Your Pointer Pointed At 
 * **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - Realistic-Looking Fake Versions of Things 
 * [TheOnion](https://theonion.com/) - Fake New Articles 
+* [Tapology](https://www.tapology.com/) - Make MMA Fight Picks
 * [KongouCheats](https://kongoucheats.com/) or [Wimp.com](https://www.wimp.com/) - Watch Random Memes / Videos 
 * [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [iFunny](https://ifunny.co/) or [Imageboard Scraper](https://nik.bot.nu/) - Images, Videos, Memes & GIFs / Some NSFW
 * [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
@@ -239,7 +240,7 @@
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - Turn Screen into Strobe / Mood Light
 * [Drinking Game Zone](https://drinkinggamezone.com/) - Drinking Games Encyclopedia 
 * [MakeMyCocktail](http://makemycocktail.com/) - Create Custom Cocktails
-* [Drinkify](http://drinkify.org/) - Picks Drinks Based on Songs 
+* [Drinkify](http://drinkify.org/) - Picks Drinks Based on Songs
 * [Activity Suggestion](https://www.activitysuggestion.com/), [Things to Do](https://randomthingstodo.com/), [TheZen](https://thezen.zone/) or [bored.solutions](https://bored.solutions/) - Activity Suggestions
 * [Human Benchmark](https://humanbenchmark.com/) - Brain Games & Cognitive Tests 
 * [David.li](http://david.li/) - Physics Games
@@ -251,7 +252,7 @@
 * [Dazzle](https://workingbuild.herokuapp.com/) - Virtual Chat, Video & Drawing World
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
 * [Aggie.io](https://aggie.io/) or [malmal](https://malmal.io/) - Draw with Friends or Strangers 
-* [Monsterland](https://www.monsterland.net/) - Collabortive Monster Drawing 
+* [Monsterland](https://www.monsterland.net/) - Collaborative Monster Drawing 
 * [Awesome Lego](https://github.com/ad-si/awesome-lego) - Lego Resource Index 
 * [BrickLink Studio](https://www.bricklink.com/v2/build/studio.page) - Lego Building Software
 * [Brickit](https://brickit.app/) - Scan Lego Collection for Build Ideas
@@ -308,8 +309,8 @@
 * [Our World of Text](https://ourworldoftext.com/) or [Your World of Text](https://www.yourworldoftext.com/) - Infinite grid of text editable by anyone
 * [pixels.land](https://pixels.land/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Pixel Art online  
 * [Genetic Cars 2](https://rednuht.org/genetic_cars_2/) - Random 2D Car Generator
-* [cachemonet](http://cachemonet.com/) - Randomly Generated GIFs/ Backgrounds 
-* [FootballShirtMaker](https://footballshirtmaker.com/en-us/) - Create Custom Football TShirts
+* [cachemonet](http://cachemonet.com/) - Randomly Generated GIFs / Backgrounds 
+* [FootballShirtMaker](https://footballshirtmaker.com/en-us/) - Create Custom Football T-Shirts
 * [Wonder of Wonder Art](https://aidn.jp/wowa/) - Create a Dancing Character 
 * [Robotics.ovh](https://robotics.ovh/) - Robotics Dance
 * [CAT BOUNCE!](https://cat-bounce.com/) - Bounce Cats
@@ -802,6 +803,7 @@
 * [One Mind PsyberGuide](https://onemindpsyberguide.org/) - Mental Health App Reviews
 * [7 Cups](https://www.7cups.com/) or [OnlineCounselling4u](https://www.onlinecounselling4u.com/) - Free Counseling & Therapy
 * [BlahTherapy](https://blahtherapy.com/) - Vent to Strangers
+* [Online Psych Services](https://redd.it/nryig4) - Centers Offering Free Online Psych Services
 * [babycenter](https://www.babycenter.com/) - Pregnancy and Parenting Resources
 * [/u/elkatiuskas' Resource List](https://redd.it/phrcrn) - Abortion Resource Index
 * [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics
