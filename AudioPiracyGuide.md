@@ -12,7 +12,7 @@
 
 ## ▷ Streaming Apps
 
-* **[Spotify Client](https://www.spotify.com/us/download/)**, [SpotifyD](https://github.com/Spotifyd/spotifyd), [ncspot](https://github.com/hrkfdn/ncspot) or [SpoTube](https://github.com/KRTirtho/spotube) - Streaming
+* **[Spotify Client](https://www.spotify.com/us/download/)**, [SpotifyD](https://github.com/Spotifyd/spotifyd), [Lofi Rocks](https://www.lofi.rocks/), [ncspot](https://github.com/hrkfdn/ncspot) or [SpoTube](https://github.com/KRTirtho/spotube) - Streaming
 * **[Spotify Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Spotify Tools, Adblockers, Customization & More
 * [YouTube Music Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_music_players) - Streaming
 * [FunkWhale](https://funkwhale.audio/) - Streaming
@@ -434,7 +434,8 @@
 * **[Muspy](https://muspy.com/)** - Get Album Release Updates
 * **[RateYourMusic](https://rateyourmusic.com/)**, **[Sputnik](https://www.sputnikmusic.com/)**, [Discogs](https://www.discogs.com/), [listnd](https://listnd.com/) or [Musicbranz](https://musicbrainz.org/) - Ratings / Reviews
 * **[RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/)** - Artist Recommendations by Genre
-* [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Bands Directory 
+* [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Band Archive
+* [Metal Archives](https://www.metal-archives.com/) - Metal Band Archive
 * [45Cat](http://www.45cat.com/) - Vinyl Ratings / Reviews
 * [TapeFear](https://www.tapefear.com/) or [Discover Quickly](https://discoverquickly.com/) - Spotify Song Discovery
 * [Spotalike](https://spotalike.com/), [MagicPlaylist](https://magicplaylist.co/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generator
