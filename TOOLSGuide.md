@@ -592,6 +592,7 @@
 
 * **[Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)** - Create Resumes for Free
 * [LoopCV](https://www.loopcv.pro/) - Automated Job Search Tool
+* [5000 Best Job Sites](http://5000best.com/websites/Jobs/) - Job Search Sites
 * [Toby Tools](https://rentry.co/qnu6x) - Job Search Tools
 * [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) - Successful Resume Samples
 * [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator 
@@ -608,6 +609,7 @@
 * [web3.career](https://web3.career/) - Web3 Job Offers
 * [moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - Company / Startup Applications
 * [Nerdy Grads](https://nerdygrads.com/) - Grad School Research Job Search 
+* [MTurk](https://www.mturk.com/) - Online Task Work
 * [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - Online Working Subreddit
 * [/r/freelance](https://www.reddit.com/r/freelance/) - Freelance Subreddit
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Design Job Subreddit
@@ -1891,7 +1893,7 @@ Twitch Stream Tracker
 
 * **[Wallpaper Sites / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Download Wallpapers
 * **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter), [2](https://visualskins.com/) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) 
-* **[Dracula](https://draculatheme.com/)**, [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - Custom App Themes
+* **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9), [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - Custom App Themes
 * [PCDesktops](http://pcdesktops.emuunlim.com/applinks.shtml) - Windows Customization Apps
 * [ScreenStyler](https://screenstyler.com/) -  Desktop Customization / [Discord](https://discord.gg/u3thTMp9Cd)
 * [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization
