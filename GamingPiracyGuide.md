@@ -378,6 +378,8 @@
 * [RoundGames](https://www.roundgames.com/)
 * [Radon Games](https://radon-games.glitch.me/)
 * [2amGames](http://www.2amgames.com/)
+* [Game Game](https://game-game.com/)
+* [ArcadeSpot](https://arcadespot.com/)
 * [Untly](https://www.untly.com/)
 * [N-Arcade](https://n-arcade.io/) 
 * [watabou](https://watabou.itch.io/)
