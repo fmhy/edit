@@ -372,6 +372,7 @@
 * [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/) - Satellite Imagery
 * [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery API
 * [Open Access Hub](https://scihub.copernicus.eu/) - Copernicus Satellite Data Copernicus
+* [Satellite Map](https://satellitemap.space/) - Satellite Orbit Map
 * [Space Weather News](https://spaceweathernews.com/) - Space Weather Updates / [Videos](https://www.youtube.com/user/Suspicious0bservers)
 * [Andegraf Rockets](http://rockets.andegraf.com/) - Rocket Diagrams
 * [Interactive Apollo Missions](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - Apollo in Realtime 
@@ -703,7 +704,7 @@
 * [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
 * [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) - Mountain Visualizations & Info
 * [Xeno-Canto](https://www.xeno-canto.org/) or [Birdnet](https://birdnet.cornell.edu/) - Bird Sound Identifier 
-* [Candide](https://candide.com/GB/identify-plants) - Plant Identifier
+* [Candide](https://candide.com/GB/identify-plants) or [Pl@ntNet](https://identify.plantnet.org/) - Plant Identifier
 * [Algodoo](http://www.algodoo.com/) - Interactive Physics Tool
 * [nanoHUB](https://nanohub.org/) - Nanotechnology Tool Index
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
