@@ -96,6 +96,7 @@
 * [Joystick Curves](https://www.xedocproject.com/joystickcurves.html) - Virtual Joystick Emulator
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
 * [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
+* [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes
 * [Lowkey](https://lowkey.gg/) - Record / Screenshot Gameplay 
 * [Moments](https://steelseries.com/gg/moments) - Game Clip Tool
 * [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
@@ -158,6 +159,9 @@
 * [Server.pro](https://server.pro/) or [Orcs](http://orcs.biz/) - Game Server Hosting
 * [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - Hide Player Names to Avoid Stream Sniping
 * [ElDewrito](https://dewritohub.com/) - Halo Online Mod Tool / [GitHub](https://github.com/ElDewrito) / [Discord](https://discord.com/invite/0TKY0SDEUHAWL4sG), [2](https://discord.com/invite/gtqM3s5)
+* [CTGP Revolution](https://www.chadsoft.co.uk/) or [Wiiki Tockdom](http://wiki.tockdom.com/) - Mario Kart Wii Mod / Multiplayer
+* [Wiimmfi](https://wiimmfi.de/) - Wii / DS Multiplayer Revival
+* [TTs Online](https://redd.it/ie6gi7) - MKW Online Time Trials Mod
 * [BakkesMod](https://bakkesmod.com/) - Rocket League Trainer
 * [Tilted Online](https://github.com/tiltedphoques/TiltedEvolution) - Multiplayer Skyrim & Fallout 4 / [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)
 * [Northstar](https://northstar.thunderstore.io/), [2](https://northstar.tf/) - Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases) / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A)
@@ -395,11 +399,6 @@
 * [Tinfoil](https://tinfoil.io/) - Switch Title Manager / File Browser 
 * [ModMyClassic](https://modmyclassic.com/) - Classic Console Mods
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) - Multiplayer Switch Servers
-* [CTGP Revolution](https://www.chadsoft.co.uk/) or [Wiiki Tockdom](http://wiki.tockdom.com/) - Mario Kart Wii Mod 
-* [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - Mario Kart Wii Rebalanced Mod / [Discord](https://discord.gg/YZxyK4f3EU) 
-* [TTs Online](https://redd.it/ie6gi7) - MKW Online Time Trials Mod
-* [Wiimmfi](https://wiimmfi.de/) - Wii / DS Multiplayer Revival
-* [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes
 * [GameBoy Tech Page](https://web.archive.org/web/19990209041732/http://home.hiwaay.net/%7Ejfrohwei/gameboy/home.html) - Gameboy Tools
 * [GameBoy Book Reader](https://www.mqp.com/fun/) - Gameboy Book Reader
 * [/r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
@@ -427,6 +426,7 @@
 * [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - Unlock Genshin Impact FPS Cap
 * [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap
 * [Factorio Mods](https://1488.me/factorio/mods/en) - Factorio Mods Downloader
+* [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - Mario Kart Wii Rebalanced Mod / [Discord](https://discord.gg/YZxyK4f3EU) 
 * [Rekt](https://discord.com/invite/HqjQFCp) - Black Ops 1 Mod Project
 * [Plutonium](https://plutonium.pw/) - Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah) 
 * [IW4x / IW6x](https://xlabs.dev/) - COD MW2 Mod Project 
