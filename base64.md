@@ -1646,12 +1646,6 @@ pass: paluch
 
 ***
 
-#### 6TB Fitness Courses 
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9LNjVua1lDQSNhbGs4UXN1ZHhIT3hDQ1JGTWxEQ0pnPQ==`
-
-***
-
 #### Alive Data Indexes
 
 `aHR0cHM6Ly9wYXN0ZWJpbi5jb20vWnViQUNpako=`
