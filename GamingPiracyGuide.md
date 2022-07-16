@@ -185,8 +185,9 @@
 * [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) - Yuzu Emulator Setup Guide
 * [Pineappleea](https://pineappleea.github.io/), [128Bit Yuzu](https://mostlywhat.github.io/128Bit-Yuzu-Installer/) or [Yuzu-Updater](https://github.com/sinscove/Yuzu-Updater) - Yuzu Updater
 * [YuzuModDownloader](https://github.com/amakvana/YuzuModDownloader) - Yuzu Mod Downloader
-* [EmuSAK UI](https://github.com/CapitaineJSparrow/emusak-ui) - Download Switch Firmware &amp; Keys
+* [EmuSAK UI](https://github.com/CapitaineJSparrow/emusak-ui) - Download Switch Firmware & Keys
 * [Switch Army Knife](https://github.com/dezem/SAK) - Switch Emulator Multi-Tool
+* [EeveeSaves](https://discord.io/eeveesaves) - Switch Saves
 * [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PSCX Development Emulator
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://ps3.aldostools.org/updates.html) - Update PS3 Games
 
