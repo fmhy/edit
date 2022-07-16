@@ -172,8 +172,8 @@
 * [PopStarter](https://www.psx-place.com/threads/popstarter.19139/) - PS1 Emulator for PS2 / [Converter](https://www.psx-place.com/resources/psxvcd-by-englishl1989.669/) / [Setup](https://github.com/Edvaniojosedasilva1992/Instalador-POPStarter)
 * [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
 * [RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list) - Emulator Tool Index
-* [RomHacking](https://www.romhacking.net/) - ROM Translations & Hacks
-* [SMWCentral](https://smwcentral.net/) - Super Mario World Hacking 
+* [RomHacking](https://www.romhacking.net/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Translations & Hacks
+* [SMWCentral](https://smwcentral.net/) - Super Mario World Hacking
 * [PokeGB](https://github.com/binji/pokegb) - Pokémon Blue Emulator
 * [PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
 * [GameBanana](https://gamebanana.com/mods/games/14783) - Pokémon Brilliant Diamond & Shining Pearl Mods
@@ -187,6 +187,7 @@
 * [YuzuModDownloader](https://github.com/amakvana/YuzuModDownloader) - Yuzu Mod Downloader
 * [EmuSAK UI](https://github.com/CapitaineJSparrow/emusak-ui) - Download Switch Firmware &amp; Keys
 * [Switch Army Knife](https://github.com/dezem/SAK) - Switch Emulator Multi-Tool
+* [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PSCX Development Emulator
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://ps3.aldostools.org/updates.html) - Update PS3 Games
 
 ***
@@ -347,9 +348,9 @@
 
 * **[Ninjakiwi](https://ninjakiwi.com/)** - Browser Games / Bloons / Multiplayer
 * **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
-* **[DelugeRPG](https://www.delugerpg.com/)** - Pokemon RPG Simulation
+* **[DelugeRPG](https://www.delugerpg.com/)** or [Pokemon Legends](https://www.pokemongods.com/) - Pokemon MMO
 * **[Cookie Consent Speed.Run](https://cookieconsentspeed.run/)** - Cookie Disabling Game
-* **[AirConsole](https://www.airconsole.com/)** or [AnsStream](https://www.antstream.com/ ) - Control TV Games with Phone 
+* **[AirConsole](https://www.airconsole.com/)** or [AnsStream](https://www.antstream.com/) - Control TV Games with Phone 
 * **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme, turn off adblocker
 * [Discord Games Lab](https://discord.gg/discordgameslab)
 * [/r/WebGames](https://reddit.com/r/WebGames)
@@ -393,6 +394,7 @@
 * [ClassicGame](https://www.classicgame.com/)
 * [Andkon](http://andkon.com/arcade/) 
 * [DAN-BALL](http://dan-ball.jp/en/)
+* [KBHGames](https://kbhgames.com/)
 * [Unity3DGames](http://www.unity3dgames.net/)
 * [FreeGames](https://freegames.org/) 
 * [MSM Games](https://zone.msn.com/en-us/home) 
