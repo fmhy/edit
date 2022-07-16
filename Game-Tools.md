@@ -95,6 +95,7 @@
 * [JoyToKey](https://joytokey.net/) - Controller Emulator
 * [Joystick Curves](https://www.xedocproject.com/joystickcurves.html) - Virtual Joystick Emulator
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
+* [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
 * [Lowkey](https://lowkey.gg/) - Record / Screenshot Gameplay 
 * [Moments](https://steelseries.com/gg/moments) - Game Clip Tool
 * [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
@@ -107,6 +108,7 @@
 * [r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/) - Find Games from Screenshot or Description
 * [GameGuides](https://www.gamerguides.com/), [Retro Game Strategy Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_retro_game_strategy_guides), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [GamePressure](https://www.gamepressure.com/) or [Samurai Gamers](https://samurai-gamers.com/) - Strategy Guides & Walkthroughs
 * [Before I Play](http://www.beforeiplay.com/) - Tips for any Game 
+* [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
 * [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - System Gaming Tweak Guide
 * [ProSettings](https://prosettings.net/) - In-Game Settings Optimization Guides
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/), [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - Gaming Optimization Guides
@@ -132,6 +134,9 @@
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer
 * [GmodContent](https://gmodcontent.com/) - Garry's Mod Content Packs
 * [GMOD Textures Fix](https://fragboss.com/gmod-textures-fix-css-textures/) - Fix Garry's Mod Textures
+* [EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore) - Elden Ring Fixes
+* [Peter Jackson's King Kong Fix](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix) - Peter Jackson's King Kong Signature Edition Fix
+* [FtG UI Mod](https://www.nexusmods.com/dragonage/mods/73) - Make Dragon Age Text Readable
 * [OrignStubDecrypter](https://github.com/PotatoOfDoom/OriginStubDecrypter) - EA Origins Stub Decrypter
 * [Tarac](https://sims.tarac.nl/the-sims-4/sims-4-download-update-repair-add-dlcs/) - Sims 4 Update / Repair Tool
 * [Payday 2 Social Safe](https://www.overkillsoftware.com/payday2-social-safe/) - Free Payday 2 Offers
@@ -249,7 +254,7 @@
 
 ## ▷ GTA Tools
 
-* [GTAAll](https://www.gtaall.com/) - GTA Mods, Cheats, Walkthroughs & more
+* [GTAAll](https://www.gtaall.com/), [GTAInside](https://gtainside.com/), [GameModding](https://gamemodding.com/), [GTAGarage](https://gtagarage.com/) or [LibertyCity](https://libertycity.net/) - GTA Mods, Cheats, Walkthroughs & more
 * [FiveM](https://fivem.net/) - Modded GTAV Servers
 * [GTA-V-patcher](https://github.com/NicolasR/GTA-V-patcher) - Automate GTAV Patches
 * [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - GTA5 FidelityFX Super Resolution Mod
@@ -273,6 +278,7 @@
 * [VehFuncs](https://www.mixmods.com.br/2020/12/vehfuncs-v2-2-beta/) - GTASA Vehicle Mods
 * [mobile-hud](https://github.com/DK22Pac/mobile-hud) - GTASA Mobile HUD Mod
 * [Driver](https://github.com/CT83/Driver) or [GTASA-Driving](https://github.com/ParmuSingh/gtasa-driving) - GTASA A.I. Driving Mod
+* [SA Mission Maker](https://libertycity.net/files/gta-san-andreas/175089-sa-mission-maker-v1-45.html) - GTASA Mission Creator
 * [Grand-Theft-Auto-1-Renderware-Edition](https://github.com/wakka387/Grand-Theft-Auto-1-Renderware-Edition) - Port GTA 1 & London 69/61 to GTA III/VC/SA
 
 ***
@@ -390,15 +396,12 @@
 * [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - PS4 Exploit Hosting PS4
 * [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
 * [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - PS3 Homebrew Subreddit
-* [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
-* [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PSCX Development Emulator
 * [Tinfoil](https://tinfoil.io/) - Switch Title Manager / File Browser 
 * [ModMyClassic](https://modmyclassic.com/) - Classic Console Mods
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) - Multiplayer Switch Servers
 * [CTGP Revolution](https://www.chadsoft.co.uk/) or [Wiiki Tockdom](http://wiki.tockdom.com/) - Mario Kart Wii Mod 
 * [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - Mario Kart Wii Rebalanced Mod / [Discord](https://discord.gg/YZxyK4f3EU) 
 * [TTs Online](https://redd.it/ie6gi7) - MKW Online Time Trials Mod
-* [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
 * [Wiimmfi](https://wiimmfi.de/) - Wii / DS Multiplayer Revival
 * [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes
 * [DSI Guide](https://dsi.cfw.guide/) - DSI Modding Guide
@@ -418,7 +421,7 @@
 * **[ModDB](https://moddb.com/)**, [Nexus Mods](https://www.nexusmods.com/), [ZagruzkaMods](https://zagruzkamods.com/), [NextGenUpdate](https://www.nextgenupdate.com/), [ModWorkshop](https://modworkshop.net/), [Video Game Mods](https://videogamemods.com/), [Silent's Blog](https://cookieplmonster.github.io/mods/index/) or [CurseForge](https://www.curseforge.com/) - Game Mods 
 * [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers
 * [MegaGames](https://megagames.com/) - Fixes / Trainers / News
-* [ChronoCrash](http://www.chronocrash.com/forum/) or [TheTechGame](https://www.thetechgame.com/) / [Discord](https://discord.com/invite/TyH853Sr) - Game Modding Forum
+* [ChronoCrash](http://www.chronocrash.com/forum/) or [TheTechGame](https://www.thetechgame.com/) - Game Modding Forum
 * [Playground](https://www.playground.ru/) - Mods, Artbooks, Soundtracks, Cheats & more
 * [SweetFX](https://sfx.thelazy.net/) or [ENBSeries](http://enbdev.com/) - Game Graphic Mods 
 * [CheatEngine](https://cheatengine.org/) - Single Play Cheat Engine
@@ -449,5 +452,3 @@
 * [Thunderstore](https://northstar.thunderstore.io/) - Northstar Mods
 * [Modding-OpenMW](https://modding-openmw.com/) - Morrowind Mods
 * [CT3Tweaks](https://ct3tweaks.stashy.dev/) - Crazy Taxi 3 Tweak Tool / [GitHub](https://github.com/stashymane/ct3tweaks)
-* [FtG UI Mod](https://www.nexusmods.com/dragonage/mods/73) - Make Dragon Age Text Readable
-* [Peter Jackson's King Kong Signature Edition Fix](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix) - Peter Jackson's King Kong Signature Edition Patcher
