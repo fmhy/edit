@@ -254,7 +254,6 @@
 * [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - Religion / Esoterica / Occult
 * [Summa Theologiae](http://summa-theologiae.org/) - Religion / Sacred Doctrine / Christianity
 * [Esoteric Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_esoteric_library) - Esoterica / Occult 
-* [Conspiracy Theory Iceberg](https://ipfs.io/ipfs/QmWszAAzXjaD6hQZXbfhF9qBFWpnPwZVWU131HVf42WZej) - Conspiracies / Occult / Mythology / [Video Playlist](https://www.youtube.com/watch?v=7I2KJL-gJPU&list=PLfeWBGty_481haNoS_ozOVdIyOpyXMjUC)
 * [Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm) - Mythology / Conspiracy / Esoterica
 * [Magic / Esoteric Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks) - Magic / Esoterica
 * [Dhamma Talks](https://www.dhammatalks.org/) - Sacred Texts / Religion / Buddhism
@@ -267,6 +266,7 @@
 * [766 Occult Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_766_occult_books) - Occult 
 * [Messy occult library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_messy_occult_library) - Occult / Esoterica / Gnosticism 
 * [BeyondWeird](https://beyondweird.com/) - Occult / Witchcraft / Esoterica
+* [ObscUrban Legend Wiki](https://obscurban-legend.fandom.com/) - Mythology / Urban Legends
 * [LeftHandPath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_lefthandpath) - Luciferianism 
 * [mr.taco9's library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mr.taco9.27s_library) - Occult / Luciferianism 
 * [The Law of One](https://www.lawofone.info/) - The Law of One Sessions
@@ -327,6 +327,8 @@
 
 ## ▷ Special Interest
 
+* [Cookbooks / Recipes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_cooking) - Cookbook and Recipes Sites
+* [FoodTimeLine](https://www.foodtimeline.org/) - Food History
 * [Short Stories](https://short-stories.co/) - Short Stories 
 * [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
 * [Poetry Foundation](https://www.poetryfoundation.org/), [PoemHunter](https://www.poemhunter.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
@@ -344,7 +346,7 @@
 * [Optimize ](https://www.heroic.us/optimize) - Self-Improvement Notes / Lessons
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
 * [do_k_ument](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_do_k_ument) - Survival, Forging, Smithing, Weapons Training, Field Manuals
-* [Survivor Library](http://www.survivorlibrary.com/), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - Survival
+* [Survivor Library](http://www.survivorlibrary.com/), [PrepperCollective](https://t.me/PrepperCollective) / [Index](https://t.me/PrepperCollectiveIndex), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - Survival
 * [SurvivalManual](https://ligi.de/) - Offline Survival Guide / [GitHub](https://github.com/ligi/SurvivalManual)
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
 * [Websleuths](https://www.websleuths.com/) - Crime Solving Forum
@@ -715,7 +717,7 @@
 * [Wordnik](https://www.wordnik.com/) - Dictionary
 * [Cambridge Dictionary](https://dictionary.cambridge.org/) - Dictionary
 * [Wiktionary](https://www.wiktionary.org/) - Dictionary
-* [Webopedia](https://www.webopedia.com/) - Tech Dictionary
+* [Webopedia](https://www.webopedia.com/) or [TechTerms](https://techterms.com/) - Tech Dictionary
 * [EtymOnline](https://www.etymonline.com/) - Etymologies
 * [Fandom](https://www.fandom.com/) - Fan Wikis 
 * [WordReference](https://www.wordreference.com/) or [Reverso](https://reverso.net/) - Translation Dictionary 
@@ -895,6 +897,7 @@
 * [MangaKatana](https://mangakatana.com/) 
 * [Manga.Fanscans](https://manga.fascans.com/)
 * [CMReader](https://www.cmreader.info/)
+* [Manga Weebs](https://mangaweebs.in/) 
 * [NiAdd](https://niadd.com/) 
 * [1stKissManga](https://1stkissmanga.com/), [2](https://1stkissmanga.io/), [3](https://1stkissmanga.love/)
 * [mangaowls](https://mangaowls.com/) 
