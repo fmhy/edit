@@ -460,6 +460,7 @@
 * [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [jpdb](https://jpdb.io/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese 
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [Memento](https://github.com/ripose-jp/Memento) - Japanese Learning Video Player
+* [JapaneseWithAnime](https://www.japanesewithanime.com/) - Learn Japanese with Examples from Anime
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - Japanese Practice Material
 * [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - Japanese Accent Dictionary 
 * [GetKanda](https://getkana.com/app/) - Learn Kana 
