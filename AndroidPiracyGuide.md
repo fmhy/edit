@@ -348,6 +348,7 @@
 * [unhabits](https://github.com/iSoron/uhabits) or [MiindLeak](https://www.mindleak.app/) - Bad Habit Tracker
 * [Forest](https://forestapp.cc/), [Time Cop](https://timecop.app/), [minimalist phone](https://www.minimalistphone.com/), [Success](https://eveningkid.com/success/) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - Productivity Booster
 * [AnyTracker](https://sites.google.com/view/anytracker), [2](https://anytracker.org/) - Track Anything
+* [AllAboutBirds](https://merlin.allaboutbirds.org/) - Bird Identifier
 * [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - Food Product Ingredient Scanner
 * [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html) - Scan & Digitize Documents
 * [IRuin](https://iriun.com/), [Reincubate Camo](https://reincubate.com/camo/) or [Dev47Apps](https://www.dev47apps.com/) - Use Android as Webcam 
