@@ -160,7 +160,7 @@
 * [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - Hide Player Names to Avoid Stream Sniping
 * [ElDewrito](https://dewritohub.com/) - Halo Online Mod Tool / [GitHub](https://github.com/ElDewrito) / [Discord](https://discord.com/invite/0TKY0SDEUHAWL4sG), [2](https://discord.com/invite/gtqM3s5)
 * [CTGP Revolution](https://www.chadsoft.co.uk/) or [Wiiki Tockdom](http://wiki.tockdom.com/) - Mario Kart Wii Mod / Multiplayer
-* [Wiimmfi](https://wiimmfi.de/) - Wii / DS Multiplayer Revival
+* [Wiimmfi](https://wiimmfi.de/) or [Kaeru Team](https://kaeru.world/) - Wii / DS Multiplayer Servers
 * [TTs Online](https://redd.it/ie6gi7) - MKW Online Time Trials Mod
 * [BakkesMod](https://bakkesmod.com/) - Rocket League Trainer
 * [Tilted Online](https://github.com/tiltedphoques/TiltedEvolution) - Multiplayer Skyrim & Fallout 4 / [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)
@@ -382,8 +382,6 @@
 * [Homebrew Gang](https://thehbg.shop/main.html) - Switch Homebrew Community
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - Switch Homebrew Subreddit
 * [Switch Guide](https://nh-server.github.io/switch-guide/) or [SWITCHWAY](https://switchway.xyz/) - Switch Homebrew Guide
-* [EeveeSaves](https://discord.io/eeveesaves) - Switch Saves
-* [Kaeru Team](https://kaeru.world/) - Nintendo Replacement Servers
 * [Nintendo Homebrew](https://discord.com/invite/C29hYvh) - 3DS / Switch Homebrew Community
 * [SDSetup](https://github.com/noahc3/SDSetup) - Nintendo Switch SD Setup
 * [WiiBrew](https://wiibrew.org/) or [Wii Guide](https://wii.guide/) - Wii Homebrew Guides
