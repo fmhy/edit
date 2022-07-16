@@ -163,6 +163,7 @@
 * [123Moviesd](https://123moviesd.com/) - Movies / TV
 * [0123movies](https://watch0123movies.org) - Movies / TV
 * [FSAPI](https://fsapi.xyz/) - Movies / TV / Anime / API
+* [2embed](https://www.2embed.to/) - Movies / TV / Anime / API
 * [DBGO](https://dbgo.fun/) - Movies / TV / Anime / [Content List](https://dbgo.fun/list.php) / API
 * [ApiMDB](https://apimdb.net/) - Movies / TV / Anime / API
 * [123movies](https://api.123movie.cc/) - Movies / TV / Anime / API
@@ -425,7 +426,6 @@
 * **[Sportsurge](https://sportsurge.net/)**, [2](https://sportsurge.club/) - Sports / Stream Locator
 * **[Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - TV / Sports
 * **[Jackal](https://jackal.surge.sh/)** - TV / Sports
-* **[LmaoLove](http://lmao.love/)** - TV / Sports
 * **[USTVGO](https://ustvgo.tv/)** - TV / Sports
 * **[LiveOnScore](http://liveonscore.tv/)** - Sports 
 * **[StreamEast](https://www.streameast.io/)** - Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)
