@@ -371,11 +371,7 @@
 
 # ► Homebrew
 
-* **[Hacks.Guide](https://hacks.guide/)** - 3DS / Wii U / PS Vita Homebrew Guides
-* [ConsoleMods.org](https://consolemods.org/) - Console Modding Wiki / [Discord](https://discord.gg/x5vEnkR4C8)
-* [Digiex](https://digiex.net/forums/) - Console Modding / Homebrew Guides
-* [Homebrew Guides](https://rentry.co/Guides) - Homebrew Guides & Setups
-* [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - Homebrew News & Guides
+* **[Hacks.Guide](https://hacks.guide/)**, **[CFW Guide](https://cfw.guide/)**, [ConsoleMods.org](https://consolemods.org/) / [Discord](https://discord.gg/x5vEnkR4C8), [Digiex](https://digiex.net/forums/), [Homebrew Guides](https://rentry.co/Guides), [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - Homebrew Guides
 * [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - Wii Homebrew Installer / [Find MAC](https://www.nintendo.com/consumer/systems/wii/en_na/includes/rvl-ht-int-find-mac-address.jsp)
 * [WiiU Exploit](https://wiiuexploit.xyz/) or [ModMii](https://modmii.github.io/) - WiiU Homebrew Installer
 * [Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)
@@ -404,7 +400,6 @@
 * [TTs Online](https://redd.it/ie6gi7) - MKW Online Time Trials Mod
 * [Wiimmfi](https://wiimmfi.de/) - Wii / DS Multiplayer Revival
 * [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes
-* [DSI Guide](https://dsi.cfw.guide/) - DSI Modding Guide
 * [GameBoy Tech Page](https://web.archive.org/web/19990209041732/http://home.hiwaay.net/%7Ejfrohwei/gameboy/home.html) - Gameboy Tools
 * [GameBoy Book Reader](https://www.mqp.com/fun/) - Gameboy Book Reader
 * [/r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
