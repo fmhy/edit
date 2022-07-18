@@ -721,7 +721,6 @@
 * [13DL](http://13dl.net/) - Manga
 * [DLZip](http://dl-zip.com/) - Manga
 * [MangaBox](https://www.mangabox.me/) - Manga 
-* [DLRaw](https://dlraw.net/) - Manga
 * [Comic Walker](https://comic-walker.com/) - Manga
 * [Rawkuma](https://rawkuma.com/) - Manga
 * [WeLoMa](https://weloma.net/) - Manga
