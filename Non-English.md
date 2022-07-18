@@ -728,7 +728,6 @@
 * [WeLoMa](https://weloma.net/) - Manga
 * [Kissaway](https://kissaway.net/) - Manga
 * [dl-raw](https://dl-raw.net/) - Manga / Novels / NSFW
-* [doki1001](https://doki1001.com/) - Manga / NSFW
 * [Honto](https://honto.jp/cp/ebook/recent/free.html) - Manga / NSFW
 * [manga-zip](https://manga-zip.net/), [2](https://manga-zip.info/) - Manga / NSFW 
 * [dl-zip](http://dl-zip.com/) - Manga / NSFW
