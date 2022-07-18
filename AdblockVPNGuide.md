@@ -327,6 +327,7 @@
 * [Who's Selling My Info?](https://github.com/swow2015/Who-sSellingMyInfo-) - Detect Pages with "Do Not Sell My Information" Links
 * [IndicateTLS](https://github.com/jannispinter/indicatetls) - Display a Sites the TLS Protocol Version 
 * [Lightbeam](https://github.com/princiya/lightbeam-we) - Tracker Visualization 
+* [Vytal](https://chrome.google.com/webstore/detail/vytal/ncbknoohfjmcfneopnfkapmkblaenokb) - Change geolocation to match VPN IP address
 
 ***
 
