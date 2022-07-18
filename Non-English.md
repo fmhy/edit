@@ -713,9 +713,8 @@
 * [senmanga](https://raw.senmanga.com/) - Manga / Novels / NSFW
 * [rawdevart](https://rawdevart.com/) - Manga 
 * [mangaraid](https://mangaraid.com/) - Manga / NSFW 
-* [MangaZip](https://manga-zip.info/), [2](https://manga-zip.biz/), [3](https://dlraw.net/) - Manga
+* [DLRaw](https://dlraw.net/), [2](https://manga-zip.is/), [3](https://manga-zip.biz/) - Manga
 * [Raw-Zip](http://raw-zip.com/) - Manga
-* [DL Raw](https://dl-raw.net/) - Manga
 * [MangaZone](http://www.manga-zone.org/) - Manga
 * [RawCans](http://raw-cans.net/) - Manga
 * [BSZip](https://bszip.com/) - Manga
@@ -726,10 +725,8 @@
 * [Comic Walker](https://comic-walker.com/) - Manga
 * [Rawkuma](https://rawkuma.com/) - Manga
 * [WeLoMa](https://weloma.net/) - Manga
-* [Kissaway](https://kissaway.net/) - Manga
-* [dl-raw](https://dl-raw.net/) - Manga / Novels / NSFW
+* [KLManga](https://klmanga.com/) - Manga
 * [Honto](https://honto.jp/cp/ebook/recent/free.html) - Manga / NSFW
-* [manga-zip](https://manga-zip.net/), [2](https://manga-zip.info/) - Manga / NSFW 
 * [dl-zip](http://dl-zip.com/) - Manga / NSFW
 * [CMOA](https://www.cmoa.jp/) - Manga  
 * [shobonnexus](https://shobonnexus.com/) - Novels / Magazines  
