@@ -775,7 +775,6 @@
 * [View-Comic](https://view-comic.com/)
 * [View Comics](https://viewcomics.me/)
 * [Read Comics Online](https://readcomicsonline.ru/) 
-* [672GB Comic Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_672gb_comic_drive) - Downloads
 * [Marvel Comicbooks](https://t.me/Marvel_comicbooks) or [DC Comicbooks](https://t.me/DC_Comicbooks) - Downloads
 * [Comix-Load](https://comix-load.in/) - Downloads
 * [Zip Comic](https://www.zipcomic.com/) - Downloads
