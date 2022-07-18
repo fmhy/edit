@@ -49,7 +49,6 @@
 * [SpreadsheetUI](https://github.com/JohnDoee/spreadsheetui) - Speadsheet Torrent webUI 
 * [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jfurrow/flood)
 * [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client 
-* [Demagnetize](http://demagnetize.link/) - Turn Magnets into Direct Downloads / 200mb or less only
 
 ***
 
