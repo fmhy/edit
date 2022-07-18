@@ -775,7 +775,7 @@
 * [View-Comic](https://view-comic.com/)
 * [View Comics](https://viewcomics.me/)
 * [Read Comics Online](https://readcomicsonline.ru/) 
-* [Marvel Comicbooks](https://t.me/Marvel_comicbooks) or [DC Comicbooks](https://t.me/DC_Comicbooks) - Downloads
+* [Marvel_Comicbooks](https://t.me/Marvel_comicbooks) or [DC_Comicbooks](https://t.me/DC_Comicbooks) - Downloads
 * [Comix-Load](https://comix-load.in/) - Downloads
 * [Zip Comic](https://www.zipcomic.com/) - Downloads
 * [ComicCodes](http://www.comicscodes.com/) - Downloads
