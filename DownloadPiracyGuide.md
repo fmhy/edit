@@ -430,7 +430,7 @@
 
 # ► File Leeches 
 
-* **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)**, [leechlisting](https://www.leechlisting.com/) or [LeechVIP](http://leechvip.net/) - Leech Lists
+* **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)** or [leechlisting](https://www.leechlisting.com/) - Leech Lists
 * [@Transload (telegram)](https://t.me/transload)
 * [@deltaleechbot (telgram)](https://t.me/deltaleechbot) 
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Send Premium Files to Leeches
