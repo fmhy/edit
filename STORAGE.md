@@ -549,7 +549,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * [Flash Browser](https://flash.pm/) / [Git](https://github.com/radubirsan/FlashBrowser) / [Discord](https://discord.com/invite/aeaq4Vbqr6) or [Basilisk](https://archive.org/details/basilisk-portable-with-flash) - Flash Player Browser
 * [SuperNova](https://www.getsupernova.com/) or [VidKidz](https://vidkidz.github.io/) - Browser Flash Player
 * [Lightspark](https://lightspark.github.io/) - Open-Source Flash Player
-* [CleanFlash](https://web.archive.org/web/20210923173709/https://github.com/CleanFlash/installer/releases/tag/v1.5) - Open-Source Flash Player
+* [CleanFlash](https://gitlab.com/cleanflash/installer), [Archive](https://web.archive.org/web/20210923173709/https://github.com/CleanFlash/installer/releases/tag/v1.5) - Open-Source Flash Player
 * [FlashPatch](https://github.com/darktohka/FlashPatch) - Adobe Flash Fix
 * [Animate Archive](https://animatearchive.neocities.org/), [Clean Flash Builds](https://github.com/darktohka/clean-flash-builds) or [FlashPlayerArchive](https://archive.org/details/flashplayerarchive) - Flash Player Archive
 * [JPEXS Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Flash Decompiler
@@ -1238,7 +1238,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Modded Minecraft Launchers
 
-**[Lunar Client](https://www.lunarclient.com/)** / [Lite](https://github.com/Aetopia/Lunar-Client-Lite-Launcher) / [Colors](https://github.com/couleur-tweak-tips/Moony), **[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [ATLauncher](https://atlauncher.com/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [PolyMC](https://polymc.github.io/) / [GitHub](https://github.com/polymc/polymc), [Crystal Launcher](https://crystal-launcher.net/)
+**[PolyMC](https://polymc.github.io/)** / [GitHub](https://github.com/polymc/polymc), **[Lunar Client](https://www.lunarclient.com/)** / [Lite](https://github.com/Aetopia/Lunar-Client-Lite-Launcher) / [Colors](https://github.com/couleur-tweak-tips/Moony), **[UltimMC](https://github.com/AfoninZ/UltimMC)**, **[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [ATLauncher](https://atlauncher.com/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/)
 
 ***
 
