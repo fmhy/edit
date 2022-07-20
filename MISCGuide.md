@@ -29,6 +29,7 @@
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - Open Source Software Indexes
 * [/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful) - Helpful / Fun Sites Subreddit
 * [/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index), [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/ ) - /r/Piracy Index
+* [/r/CrackedPlugins2 Mega](https://www.reddit.com/r/CrackedPlugins2/wiki/megathread) - CrackedPlugins2 Megathread
 * [/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread) - Software Piracy Megathread
 * [Neverland](http://www.neverland.ws/index.html) - Piracy Index / [Links](https://rentry.co/oo9ri) 
 * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
@@ -123,6 +124,7 @@
 * [/r/trackers](https://reddit.com/r/trackers)
 * [/r/usenet](https://reddit.com/r/usenet) 
 * [/r/CrackSupport](https://reddit.com/r/CrackSupport) - Piracy / Gaming / Cracking Discussion / [Revolt](https://revolt.movies4discord.xyz/invite/H2bh1Zjb) / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch) / [FAQ](https://rentry.co/cracksupport)
+* [/r/CrackedPlugins2](https://www.reddit.com/r/CrackedPlugins2/) - Cracked Audio Software Disccusion 
 * [Weboas.is Forum](https://weboasis.app/forum/)
 * [SuperBay](https://forum.suprbay.org/) - Piracy Discussion
 * [Esoterica Avenue](https://discord.gg/enMG8bXUbn) - Guides / Piracy / Software / Gaming / Chat
