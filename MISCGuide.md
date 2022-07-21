@@ -233,7 +233,7 @@
 * **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_conversational_chatbots)** - Chat with AI
 * **[Live Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)** - Watch Live Webcams
 * **[HeyFromTheFuture](https://heyfromthefuture.com/)** - What People Wish they knew at your Age
-* **[LMGTFY](http://www.lmgtfy.com/)**, [Just Google](https://www.just-google.it/), [Just Fucking Google](https://www.just-fucking-google.it/), [LetMeGoogleThat](https://letmegooglethat.com/) or [GIYBF](http://giybf.com/) - Remind People that Google Exists 
+* **[LMGTFY](http://www.lmgtfy.com/)**, [LetMeGoogleThat](https://letmegooglethat.com/) or [GIYBF](http://giybf.com/) - Remind People that Google Exists 
 * **[Fucking Homepage](https://fuckinghomepage.com/)** - Daily Interesting Stuff Homepage
 * **[The GIF Pronunciation Page](http://www.olsenhome.com/gif/)** - How to Pronouce "GIF"
 * **[PointerPointer](https://pointerpointer.com/)** - Get Your Pointer Pointed At 
