@@ -211,6 +211,7 @@
 * [NGA Taonga](https://ngataonga.org.nz/search-landing) or [NZOnScreen](https://www.nzonscreen.com/) - New Zealand Video Archive 
 * [NLS](https://www.nls.uk/), [2](https://movingimage.nls.uk/) - Scottish Film Archive 
 * [Northern Ireland Screen](https://digitalfilmarchive.net/) - Irish Film Archive
+* [Cinematheque](https://www.cinematheque.fr/henri/english/) - Rare French Film Archive
 * [Stiftung imai](https://www.stiftung-imai.de/) - German Video Archive
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 * [Danish Silent Film](https://www.stumfilm.dk/en/stumfilm) - Silent Danish Film Archive
