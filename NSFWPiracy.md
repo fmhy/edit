@@ -1,7 +1,3 @@
-[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)
-
-***
-
 # Porn
 
 ## Site Lists
