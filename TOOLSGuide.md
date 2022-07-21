@@ -14,6 +14,7 @@
 * **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_tool_sites)** - Sites with Multiple Tools
 * **[MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb)** - Multi-Tool Google Colab
 * **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - Multi-Calculator Sites 
+* **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)** - Presentation Tools & Templates
 * **[Versus](https://versus.com/)**, [rtings](https://www.rtings.com/), [SocialCompare](https://socialcompare.com/en) or [Diffen](https://www.diffen.com/) - Compare Anything 
 * **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - Organize Ideas & Projects
 * **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** - Device Repair Articles
@@ -26,7 +27,8 @@
 * [The Federation](https://the-federation.info/) - Fediverse Statistics
 * [US Debt Clock](https://www.usdebtclock.org/) - US Debt Clock
 * [Statista](https://www.statista.com/) - Market Statistics
-* [OEC](https://oec.world/en) - International Trade Data Visualization
+* [OEC](https://oec.world/en) - International Trade Data
+* [LittleSis](https://littlesis.org/) - Business / Government Connections Data 
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
 * [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Information Database
@@ -62,13 +64,8 @@
 * [Free-lookup](https://www.free-lookup.net/) - Phone # Lookup
 * [tuxi](https://github.com/Bugswriter/tuxi) - Question & Answer CLI
 * [Valuta EX](https://valuta.exchange/) - Currency Converter
-* [CamelCamelCamel](https://camelcamelcamel.com/) - Amazon Price Tracker
-* [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker 
 * [WorldTaxiMeter](https://www.worldtaximeter.com/) - Taxi Fare Calculator
-* [GasPrices](https://gasprices.aaa.com/) - Gas Price Calculator
 * [Carbon Independent](https://www.carbonindependent.org/) - Carbon Footprint Calculator 
-* [DiaperGrid](https://diapergrid.com/) - Compare Diaper Prices
-* [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
 * [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
 * [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - Bedtime Calculator 
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - Bra Size Calculator
@@ -103,7 +100,8 @@
 * [DreamForth](http://www.dreamforth.com/) - Dream Interpretations
 * [Delphi](https://delphi.allenai.org/) - Morality Judgement A.I.
 * [ThistoThat](http://www.thistothat.com/) - How to Glue Anything to Anything
-* [My Car Makes Noise](http://mycarmakesnoise.com/) - Diagnose Car Problems via Sounds 
+* [My Car Makes Noise](http://mycarmakesnoise.com/) - Diagnose Car Problems via Sounds
+* [CarComplaints](https://www.carcomplaints.com/) - Car Problems, Car Complaints, & Repair
 * [PlateRecognizer](http://platerecognizer.com/) - License Plate Recognition
 * [Safe Substance](https://safesubstance.com/) - Drug Combination Info / Harm Reduction 
 * [Stolen Camera Finder](https://www.stolencamerafinder.com/) - Find Stolen Cameras 
@@ -111,10 +109,6 @@
 * [Parcelsapp](https://parcelsapp.com/en/) or [17Track ](https://www.17track.net/en) - International Package Tracking
 * [Sweet Home 3D](http://www.sweethome3d.com/) - Interior Design App
 * [EasyEDA](https://easyeda.com/editor) - Electronic Circuit Design Tool
-* [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Carnac](http://code52.org/carnac/), [Presen](https://presen-vid.com/ ), [mentimeter](https://www.mentimeter.com/), [beautiful.ai](https://www.beautiful.ai/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Deckdeckgo](https://deckdeckgo.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [Desk](https://www.animaker.com/deck) or [Slides](https://slides.com/) - Presentation Tool
-* [Slides](http://maaslalani.com/slides/) - Terminal Presentation Tool / [GitHub](https://github.com/maaslalani/slides)
-* [SlidesGo](https://slidesgo.com/), [Showeet](https://www.showeet.com/), [Slides Carnival](https://www.slidescarnival.com/), [SlideShareDownloader](https://slidesharedownloader.ngelmat.net/), [PresentationGO](https://www.presentationgo.com/), [ensa.io](https://ensa.io/) or [ThePOPP](https://thepopp.com/) - Presentation Templates 
-* [The Slideshow](https://theslideshow.net/) - Generate Image Slideshow Based on Google Images
 * [TemplateMaker](https://www.templatemaker.nl/) - Package & Box Templates
 * [WebQR](https://www.webqr.com/) - QR Code Scanner
 * [QR Tiger](https://www.qrcode-tiger.com/), [QRCodeMonkey](https://www.qrcode-monkey.com/), [Logaster](https://www.logaster.com/qr-code-generator/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - QR Code Creator
@@ -150,6 +144,8 @@
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
 * [Calculist](https://calculist.io/) - Note Taking for Problem Solving
 * [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [App linked](https://uselinked.com/) / [GitHub](https://github.com/lostdesign/linked), [Gemlog](https://gemlog.blue/) or [journal-cli](https://v1.journalcli.app/) - Journal App
+* [Here and Now](https://here-and-now.glitch.me/) - Daily Reflections Journal
+* [Listography](https://listography.com/) - Create Lists of Anything
 * [Nute](https://nute.app/) - Quickly Make & Save Text Files
 * [Lyx](https://www.lyx.org/) - LaTeX Editor / [Guide](https://www.learnlatex.org/)
 * [Detexify](http://detexify.kirelabs.org/classify.html) - Handwritten LaTeX Symbol Recognition
@@ -173,7 +169,8 @@
 * [FocusWriter](https://gottcode.org/focuswriter/) or [Writer](https://www.gibney.org/writer) / [GitHub](https://github.com/no-gravity/writer) - Distraction-Free Writing Tool
 * [NovelWriter](https://novelwriter.io/) - Markdown Style Novel Editor
 * [Papyrus Author](https://www.papyrusauthor.com/) - Creative Writing Suite
-* [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Generate Fantasy Names
+* [Seventh Sanctum](https://www.seventhsanctum.com/) - Fantasy Writing Generators
+* [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Fantasy Name Generators
 * [Lorem Ipsum Generator](https://apps.maximelafarie.com/lig/) or [Lorem Ipsum](https://www.lipsum.com/) - Generate Placeholder Text
 * [text-regenerator](https://github.com/jddunn/text-regenerator) - Replace Words with Synonyms
 * [Typoer](https://github.com/georgetian3/typoer) - Types Text with Typos / Corrections
@@ -348,6 +345,7 @@
 * [Mixamo](https://www.mixamo.com/) - 3D Character Animation Tool
 * [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - 3D Human Model Creator
 * [Vinci](https://vinci.surreal-ai.com/home/free-talking-avatar) - Create Talking AI
+* [Video Ascii Art](http://www.kickjs.org/example/video_ascii_art/Video_Ascii_Art.html) - Video to Ascii Art
 * [NATRON](https://natrongithub.github.io/) - Compositing Software
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets
 * [Motion Den](https://motionden.com/), [Lumen5](https://lumen5.com/) or [VideoCreek](https://videocreek.com/) - Video Template Editor
@@ -611,7 +609,7 @@
 * [/r/freelance](https://www.reddit.com/r/freelance/) - Freelance Subreddit
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Design Job Subreddit
 * [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
-* [ReallyConfused](https://reallyconfused.co/) - Career Roadmaps
+* [ReallyConfused](https://reallyconfused.co/) or [WTF should I do with my life?](https://www.wtfshouldidowithmylife.com/) - Career Roadmaps
 * [The Dots](https://the-dots.com/events/search) - Online Workshops, Courses & Meetups
 * [Levels.fyi](https://www.levels.fyi/) - Tech Career Salaries
 * [Crypto Ecosystem 2021](https://docs.google.com/document/d/1RM7AoUKbXEqZ2qATTxGYLMexu3Jxrf3oYiwbsrXOXUQ) - Beginner's Guide to Crypto Ecosystem
@@ -619,6 +617,7 @@
 * [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide 
 * [TryHackMe](https://tryhackme.com/), [AWS Training](https://www.aws.training/), [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html), [UI.com](https://www.ui.com/training/), [CryptoHack](https://cryptohack.org/) - IT Training & Courses
 * [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - IT Certification Courses
+* [Data.gov Resources](https://resources.data.gov/) - Data Management Tools & Training
 * [NIST](https://www.nist.gov/nice/apprenticeship-finder) - NICE Apprenticeship Program Finder
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - Cloud Career Training
 * [Lecture Links for Placement Preparation in Computer Science](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
@@ -626,7 +625,7 @@
 * [BetaList](https://betalist.com/) - Get Startup Ideas
 * [Failory](https://www.failory.com/graveyard) - Learn Why Startups & Products Failed
 * [AngelLIst](https://angel.co/) - Startup Community
-* [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites  
+* [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites 
 * [namelix](https://namelix.com/) - Business Name Generator
 * [Business Card Generator](https://business-card-generator.vercel.app/) - Generate Business Cards 
 * [learn-to-cloud](https://learntocloud.guide/) - Cloud Computing Fundamentals / [GitHub](https://github.com/learntocloud/learn-to-cloud)
@@ -723,7 +722,7 @@
 * [you-get](https://github.com/soimort/you-get) - Download Media Contents from Webpages 
 * [Got Your Back](https://github.com/jay0lee/got-your-back) - Backup Gmail Messages 
 * [Login Reminder Remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - Remove Login Popup from Sites
-* [BugMeNot](http://bugmenot.com/), [Parolja](http://en.parolja.net/), [FreeAccount](https://freeaccount.biz/) or [Password Login](http://password-login.com/) - Access & Share Throwaway Accounts 
+* [BugMeNot](http://bugmenot.com/), [Parolja](http://en.parolja.net/), [Login2.me](https://login2.me/), [FreeAccount](https://freeaccount.biz/) or [Password Login](http://password-login.com/) - Access & Share Throwaway Accounts 
 * [Eiverr](https://www.eiverr.com/) - Premium Account Cookies
 * [Voice Dictation](https://dictation.io/) - Type with Voice 
 * [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - Manage / Store Bookmarks
@@ -793,6 +792,8 @@
 * [SentRanker](https://sentranker.com/) - Social Media Sentiment Scanner
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments 
 * [divr.it](https://dlvrit.com/) - Social Media Automation Tool
+* [EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Find Social Media Profiles From Image
+* [socid_extractor](https://github.com/soxoj/socid_extractor) - Extract Social Media User Info from Pages
 * [Hamachi](https://vpn.net/) - VPN / LAN Emulator
 * [WikiStalk](https://github.com/altilunium/wistalk) - Analyze Wikipedia User's Activity
 * [InspectContent](https://inspectcontent.com/) - Site Keyword Inspector
@@ -890,7 +891,7 @@
 
 * **[Alternative Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_search_engines)** or **[Search-Engine](https://start.me/p/wM7y15/search-engine)** - Search Engine Indexes
 * **[Privacy Based Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
-* **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)** or [awesome-custom-search-engines](https://github.com/davzoku/awesome-custom-search-engines) - Custom Search Engine Index
+* **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) or [awesome-custom-search-engines](https://github.com/davzoku/awesome-custom-search-engines) - Custom Search Engine Index
 * [100 Search Engines](https://www.100searchengines.com/) - Search With 100 Search Engines
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g#gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea#gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Search General Streaming Sites
 * [Video Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0) - Search YouTube-Like Video Sites
@@ -921,8 +922,7 @@
 * [Jumps](https://jumps.io/) - Site Quick Search
 * [Soovle](https://soovle.com/), [Keyword.io](http://www.keyword.io/), [SearchEngineReports](https://searchenginereports.net/) or [Keyword Tool](https://keywordtool.io/) - Popular Keyword Search
 * [Esteroids](https://esteroids.eth.limo/#) - Decentralized Web Search Engine
-* [Social-Searcher](https://www.social-searcher.com/), [HashFinder](https://www.hashfinder.xyz/), [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap) or [Social Mention](http://socialmention.com/) - Social Media Search Engine  
-* [EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Find Social Media Profiles From Image
+* [Social-Searcher](https://www.social-searcher.com/), [HashFinder](https://www.hashfinder.xyz/), [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap), [Social Media CSE](https://cse.google.com/cse?cx=73dda67fd05b4405f#gsc.tab=1&gsc.sort=) or [Social Mention](http://socialmention.com/) - Social Media Search Engine  
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - Forum Search Engine 
 * [Blog Search Engine](http://www.blogsearchengine.org/), [Blog-Search](https://www.blog-search.com/), [BlogErnity](http://www.bloggernity.com/), [BlogSurf](https://blogsurf.io/), [Twoggle](https://twoggle.com/) or [SearchBlogspot](https://www.searchblogspot.com/) - Blog Search
 * [4chanSearch](https://4chansearch.com/) - 4chan Search
@@ -939,10 +939,9 @@
 * [Intelligence X](https://intelx.io/tools) or [Aware-Online](https://www.aware-online.com/en/osint-tools/) - Multiple Search Tools 
 * [Marginalia Search](https://search.marginalia.nu/) - Text Based Search Engine
 * [TheOldNet](http://theoldnet.com/) - Retro Search Engine
-* [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - 40 Custom Search Engines
 * [LumenDatabase](https://lumendatabase.org/) - Search DMCA Takedown Requests
 * [Refseek](https://www.refseek.com/) - Academic Search Engine 
-* [Social Media CSE](https://cse.google.com/cse?cx=73dda67fd05b4405f#gsc.tab=1&gsc.sort=) - Search Social Media Sites
+* [GrayHatWarfare](http://buckets.grayhatwarfare.com/) - Amazon s3 Buckets Search
 * [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - Search TikTok
 * [UserSearch](https://usersearch.org/) or [WhatsMyName](https://whatsmyname.app/) - Username Search
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - Telegram CSE
@@ -1473,7 +1472,7 @@ Twitch Stream Tracker
 * **[NoFT](https://noft.gg/)** - Automatically Block all NFT Profile Pictures / [GitHub](https://github.com/ottomated/noft)
 * [/r/Twitter](https://reddit.com/r/Twitter) - Twitter Subreddit
 * [Awesome Twitter Bots](https://github.com/amandeepmittal/awesome-twitter-bots) - Twitter Bot Index
-* [Minimal Twitter](https://www.wang.sh/minimal-twitter) - Minimal Twitter Themes1
+* [Minimal Twitter](https://www.wang.sh/minimal-twitter) - Minimal Twitter Themes
 * [Tweak New Twitter](https://github.com/insin/tweak-new-twitter) or [twttr](https://twttr.sreecha.me/) / [GitHub](https://github.com/sreechar/twttr) - Twitter Enhancement Extension
 * [Twitonomy](https://www.twitonomy.com/) or [Affinitweet](https://affinitweet.com/) - Twitter Dashboard / Analytics 
 * [TweetDeck](https://tweetdeck.twitter.com/) / [Enhance](https://better.tw/) or [Tweeten](https://tweetenapp.com/) - Twitter Dashboard
@@ -1497,7 +1496,8 @@ Twitch Stream Tracker
 * [TwikTwok](https://twiktwok.github.io/) - Swipe through Twitter videos
 * [Klear](https://klear.com/free-tools/find-twitter-influencers) - Find Influencers 
 * [Twiangulate](http://twiangulate.com/search/) - Compare Twitter User Followers 
-* [FollowerWonk](https://followerwonk.com/) - Find, Analyze & Optimize Followers 
+* [FollowerWonk](https://followerwonk.com/) - Find, Analyze & Optimize Followers
+* [Foller](https://foller.me/) - Twitter Profile Analytics
 * [audiense](https://audiense.com/) - Identify Relevant Audiences 
 * [HashTagStack](https://www.hashtagstack.com/) or [Hashtagify](https://hashtagify.me/) - Hashtag Engagement Tracker
 * [Hashait](https://www.hashatit.com/) - Hashtag Search
@@ -1590,11 +1590,8 @@ Twitch Stream Tracker
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC)  - PC Suggestion Community
 * [/r/PCMasterrace Wiki](https://www.reddit.com/r/pcmasterrace/wiki/builds/), [/r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [Logical Increments](https://www.logicalincrements.com/) - PC Building Guides
 * [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Laptop Deals](https://laptopsdeals.net/our-gaming-laptops-guide-list/), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
-* [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
 * [r/TechSupport](https://www.reddit.com/r/techsupport/), [Windows 10 Forums](https://www.windowsphoneinfo.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/) or [Notebook Reviews](http://forum.notebookreview.com/) - Tech Support / [Discord](https://discord.gg/2EDwzWa) / [Wiki](https://rtech.support/books/)
 * [GetHuman](http://gethuman.com/) or [ContactFound](https://contactfound.com/) - Tech Support Numbers
-* [Disk Prices](https://diskprices.com/) - Disk Price Tracker
-* [Shucks](https://shucks.top/) - External Drive Price Tracker
 * [Technical City](https://technical.city/) - Hardware Comparisions
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - Mouse Click Latency Chart
@@ -1689,6 +1686,7 @@ Twitch Stream Tracker
 * [WhoCrashed](https://www.resplendence.com/whocrashed) - Windows Crash Analyzer
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
 * [Key Test](https://en.key-test.ru/) or [KeyboardTester](https://www.keyboardtester.com/) - Test Keyboard Buttons
+* [Keytap2](https://keytap2.ggerganov.com/) - Acoustic Keyboard Eavesdropping
 * [BleachBit](https://www.bleachbit.org/) or [GlarySoft](https://www.glarysoft.com/) - Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect.  
 * [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - Startup Program Monitor
 * [Remove Hidden Startup Programs](https://www.youtube.com/watch?v=sUXcMaP6wRQ) - How-to Remove Secret Startup Apps
@@ -1882,6 +1880,8 @@ Twitch Stream Tracker
 * [Fliqlo](https://fliqlo.com/screensaver/) or [Flipit](https://github.com/phaselden/FlipIt) - Clock Screensaver
 * [How-To Make Microsoft Activation Server](https://mananapr.github.io/microsoft_activation.html) 
 * [Technical Documentation](https://docs.microsoft.com/en-us/documentation/) - Microsoft Technical Documentations
+* [DIY Laptop](https://www.olimex.com/Products/DIY-Laptop/) - Build a Laptop
+
 * [TeslaMotors](https://github.com/teslamotors) - Tesla System Repositories
 
 ***
@@ -1990,6 +1990,7 @@ Twitch Stream Tracker
 * [RollMyFile](https://rollmyfile.com/) - Open Files Online
 * [Tmp.Ninja](https://tmp.ninja/) - Temp File Host (48hrs)
 * [ozzillate](https://www.ozzillate.com/) - Transfer Files via Sound
+* [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How-to Safely Archive Files on Cloud Storage Sites
 * [TCPDF](https://tcpdf.org/) / [Git](https://github.com/tecnickcom/tcpdf) or [CrownPDF](https://www.crownpdf.com/) - PDF Creator 
 * [PDF Host](https://pdfhost.io/) - Upload, Store and Share PDF Files 
@@ -2045,7 +2046,7 @@ Twitch Stream Tracker
 * [goodls](https://github.com/tanaikech/goodls) - Google Drive Downloader
 * [GDirect](https://www.gdirect.link/), [gdurl](https://gdurl.com/) or [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - Direct GDrive Link Generator
 * [Folder.GDrive](https://folder.gdrive.vip/) - GDrive Folder Link Generator
-* [GDToT](https://gdtot.eu/), [2](https://new.gdtot.eu/) - GDrive Manager
+* [GDToT](https://gdtot.eu/), [2](https://new1.gdtot.sbs/) - GDrive Manager
 * [Backup System](https://github.com/danielpy108/BackUpMySystem) - Backup Google Drive
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4gb
 * [mf-dl](https://gitgud.io/Pyxia/mf-dl/) - Mediafire Bulk File Downloader 
