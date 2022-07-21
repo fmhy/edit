@@ -530,7 +530,6 @@
 ## ▷ Torrenting
 
 * [bolly4u](https://bolly4u.life/ ) - Movies / TV
-* [Vofo Movies](https://ytsyify2020.com/) - Movies
 
 ## ▷ Streaming 
 
