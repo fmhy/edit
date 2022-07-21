@@ -343,7 +343,7 @@
 * [Children's Library](http://en.childrenslibrary.org/),  [MagicKeys](http://www.magickeys.com/books/), [byGosh](https://bygosh.com),  [Baldwin Library](https://ufdc.ufl.edu/juv) or [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's 
 * [Damon's Collection of Game Artbooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_damon.27s_collection_of_game_artbooks), [BestArtbooks](https://t.me/BESTARTBOOKS) or [Artbooks.gala](https://artbooks.gala100.net/) - Artbooks
 * [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U), [PimpMyMind](https://pimpmymind.net/), [selfhelpbooklab](https://t.me/selfhelpbooklab), [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - Self-Help
-* [Optimize ](https://www.heroic.us/optimize) - Self-Improvement Notes / Lessons
+* [Optimize](https://www.heroic.us/optimize) - Self-Improvement Notes / Lessons
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
 * [do_k_ument](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_do_k_ument) - Survival, Forging, Smithing, Weapons Training, Field Manuals
 * [Survivor Library](http://www.survivorlibrary.com/), [PrepperCollective](https://t.me/PrepperCollective) / [Index](https://t.me/PrepperCollectiveIndex), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - Survival
@@ -727,13 +727,14 @@
 * [Encyclopedia](https://www.encyclopedia.com/) - Encyclopedia
 * [Conze.pt](https://conze.pt/ ) - Encyclopedia
 * [Refdesk](https://www.refdesk.com/factency.html) - Encyclopedias
-* [Abbreviations](https://www.abbreviations.com/) - Abbreviations 
+* [Abbreviations](https://www.abbreviations.com/) - Abbreviations
 * [Chat Words Dictionary](https://chatworddictionary.com/) - Chat Abbreviations
 * [lengusa](https://lengusa.com/) or [Fraze.it](https://fraze.it/) - Sentence Search
 * [Wolfram Alpha](https://www.wolframalpha.com/) - Searchable Knowledgebase / [Pro](https://wolfreealpha.github.io/)
 * [Dictionary](https://www.dictionary.com/) - Dictionary / Thesaurus
 * [DescribingWords](https://www.describingwords.io/) - Adjectives
 * [Thsrs](http://www.ironicsans.com/thsrs/) - Synonyms
+* [Feeels](https://feelu.now.sh/) - Emotion Synonym Chart
 * [WikiDiff](https://wikidiff.com/) - Difference Between Any Words 
 * [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - Search for Words Using Their Meanings 
 * [DoesNotTranslate](https://doesnottranslate.com/) - Words with No Translation
@@ -1133,6 +1134,7 @@
 # ► Ebook Readers
 
 * **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** - List of Ebook Readers
+* **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading) Readers** - Mobile Browser Readers
 * **[Google Play Books](https://play.google.com/books)** - Store Pirated Books / Get Meta Data Automatically
 * **[Foxit](https://www.foxitsoftware.com/pdf-reader/)** - PDF Reader / PC / Android / iOS / Linux / Mac
 * **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - Ebook Reader / Android
@@ -1169,7 +1171,6 @@
 * [Ebook Sender](https://telegram.me/to_kindle_bot), [SendEpubToKindle](https://www.sendepubtokindle.com/), [Kobo ](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - Send Ebooks to Kindle
 * [Kindle Software Jailbreak](https://www.mobileread.com/forums/showthread.php?t=346037&highlight=Jailbreak) - Jailbreak Kindle
 * [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services
-* [Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading) Ebook Readers - Mobile Browser Readers
 * [The Open Book](https://github.com/joeycastillo/The-Open-Book) - DIY Ebook Reader
 
 ***
