@@ -39,7 +39,7 @@
 * [Modern Python 3 Bootcamp Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modern_python_3_bootcamp_courses)
 * [Tea Press](https://greenteapress.com/wp) - Free Python Learning Books Green
 * [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheet
-* [VSCode.one](https://vscode.one/) - VS Code Tutorials
+* [VSCode.one](https://vscode.one/) or [VSCodeCanDoThat](https://www.vscodecandothat.com/) - VS Code Tutorials
 * [Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) or [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - Programming & Development Learning Channels
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - Code Algorithms & Data Structures Tutorials
 * [Aquent Gymnasium](https://thegymnasium.com/) - Courses 
@@ -63,7 +63,6 @@
 * [Code With Mosh Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_code_with_mosh_courses)
 * [DefendTheWeb](https://defendtheweb.net/) - Cyber Security Challenges
 * [Leetcode](https://leetcode.ca/) - Code Solutions / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation)
-* [VSCodeCanDoThat](https://www.vscodecandothat.com/) - VSCode Tutorial
 * [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
 * [Vim Cheatsheet](https://i.imgur.com/2RsZq6p.png) - Vim Code Editor Cheat Sheet
 * [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) - Programming / Coding Learning Resources
@@ -135,6 +134,7 @@
 * [HackersFriend](https://www.hackersfriend.com/tutorials/) - Competitive Programming Tutorials
 * [Data Engineering Practice Problems](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice 
 * [High Assurance Rust](https://highassurance.rs/) - Software Development Guide
+* [The Linux Kernel](https://www.kernel.org/doc/html/latest/) - Linux Kernel Development Guides / [Archives](https://kernel.org/)
 * [Katacoda](https://www.katacoda.com/) - Software Engineer Tutorials 
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Podcasts for Software Engineers
 * [Interview University](https://github.com/jwasham/coding-interview-university) - Software Engineer Study Guide Coding
@@ -246,7 +246,6 @@
 * [DBeaver](https://dbeaver.io/) - Universal Database Tool
 * Generate Fake Data - [Ruby](https://github.com/faker-ruby/faker) / [Swift](https://github.com/vadymmarkov/Fakery)
 * [Awesome Big Data](https://github.com/0xnr/awesome-bigdata) - Big Data Resource Index
-* [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Kubernetes Cluster
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
 * [ToolJet](https://tooljet.com/) - Internal Tool Framework / Deployment / [GitHub](https://github.com/ToolJet/ToolJet)
 * [Deps.dev](https://deps.dev/) - Open-Source Package Search
@@ -263,6 +262,8 @@
 * [CI/CD Security](https://github.com/myugan/awesome-cicd-security) - CI/CD Security Resources Awesome 
 * [OpenSCA-CLI](https://github.com/XmirrorSecurity/OpenSCA-cli) - Composition Analysis for Third Party Components 
 * [Kubescape](https://github.com/armosec/kubescape) - Kubernetes Tool
+* [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Kubernetes Cluster
+* [Devtron](https://devtron.ai/) - Kubernetes Tool Integration
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - Microservice Architecture Resource Index
 * [MMDeploy](https://github.com/open-mmlab/mmdeploy) - Deep Learning Model Deployment Toolset 
 * [LibreLogos](https://www.librelogos.org/) or [LogoTaco](https://www.logotaco.com/) - Project Logos
@@ -281,6 +282,7 @@
 * [Telegram Bot API](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
 * [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - C++ Library for Discord
+* [Fetchip](https://www.fetchip.software/) - Chrome Extension Creator
 * [Twitter (un)official Consumer Key](https://gist.github.com/shobotch/5160017) - Twitter Consumer Keys
 * [Birdsite](https://birdsite.slashdev.space/) - Twitter to ActivityPub Bridge
 * [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter
@@ -310,6 +312,7 @@
 * **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
 * [ZeroNet](https://zeronet.io/) or [Federalist](https://github.com/publiusfederalist/federalist) - Uncensorable Sites / [/r/Zeronet](https://www.reddit.com/r/zeronet/)
 * [Freenet Project](https://freenetproject.org/) - Browse / Publish Freenet Sites 
+* [Screenshot to Code](https://github.com/emilwallner/Screenshot-to-code) - Turn Mockups into Static Sites
 * [GoodBadISPs ](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
 * [Emanote](https://emanote.srid.ca/) - Create Sites from Plain-Text Notes / [GitHub](https://github.com/srid/emanote)
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
@@ -404,7 +407,7 @@
 * [Daft Page](https://daftpage.com/) - Landing Page Creator
 * [LandingPage](https://landingpage.fyi/index.html) - Landing Page Tool Index
 * [Uisual](https://uisual.com/), [SaaS Pages](https://saaspages.xyz/), [SaaS Landing Page](https://saaslandingpage.com/) or [lapa](https://www.lapa.ninja/) - Landing Page Templates / Ideas
-* [Canva](https://www.canva.com/) or [PikBest](https://pikbest.com/) - Design Templates / [Premium Apk](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_canva_premium) 
+* [Canva](https://www.canva.com/), [ThemeKings](http://themekings.net/) or [PikBest](https://pikbest.com/) - Design Templates / [Premium Apk](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_canva_premium) 
 * [Zeplin](https://zeplin.io/) - Design Templates / Editor
 * [Codebases](https://github.com/reacttips-dev/codebases) - ReactJS Project Source Codes
 * [vite](https://vitejs.dev/) - Frontend Development Tool / [GitHub](https://github.com/vitejs/vite)
@@ -569,8 +572,10 @@
 * [Redis](https://redis.io/) - Key-Value Database
 * [Read the Docs](https://readthedocs.org/) or [MkDocs](https://www.mkdocs.org/) / [GitHub](https://github.com/mkdocs/mkdocs/)- Make Documentation for your Software
 * [Inno Setup](https://jrsoftware.org/isinfo.php), [Fileforums Premade Installers](https://github.com/LeFishe/fileforums-premade-installers), [InstallForge](https://www.installforge.net/) or [ActualInstaller](https://www.actualinstaller.com/) - Create Installation Programs
+* [7.css](https://khang-nd.github.io/7.css/) - Create Windows 7 Style UI's
 * [Ink](https://github.com/vadimdemedes/ink) - Create Interactive CLI Apps
 * [Enquirer](https://github.com/enquirer/enquirer) - Create CLI Prompts
+* [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Create Terminal Applications
 * [UWP](https://www.telerik.com/uwp/) - Telerik UI for UWP / [Github](https://github.com/telerik/UI-For-UWP)
 * [FluentWPF](https://github.com/sourcechord/FluentWPF) - Fluent Design System for WPF
 * [Flatpak](https://flatpak.org/) - Create & Distribute Linux Applications
@@ -729,12 +734,13 @@
 * [CSS Scan](https://chrome.google.com/webstore/detail/css-scan/gieabiemggnpnminflinemaickipbebg?hl=en) - CSS Editor
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips) or [CSS Reference](https://cssreference.io/) - CSS Guide 
 * [Awesome CSS](https://github.com/awesome-css-group/awesome-css) - CSS resources 
-* [Cssgr](https://cssgr.id/) - CSS Grid Code Tool 
+* [Cssgr](https://cssgr.id/) or [Layoutit Grid](https://grid.layoutit.com/) - CSS Grid Generators
 * [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) - CSS Element Outline Extension
 * [Water.css](https://watercss.kognise.dev/) - CSS Styles Collection
-* [Leon's CSS](https://leonarnott.neocities.org/ ) - CSS Text Styles
+* [Leon's CSS](https://leonarnott.neocities.org/) or [Wordart](https://codepen.io/kathykato/details/omxPap) - CSS Text Styles
 * [Hover.CSS](https://ianlunn.github.io/Hover/) - CSS Hover Effects 
 * [Clippy](https://bennettfeely.com/clippy/) - CSS Clip Maker
+* [PixelArtCSS](https://www.pixelartcss.com/) - Pixel Art to CSS
 * [Separator Generator](https://wweb.dev/resources/css-separator-generator/) - CSS Separator Generator CSS
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - Organic CSS Shape Generator
 * [BestCSSButtonGenerator](https://www.bestcssbuttongenerator.com/) - CSS Button Generator
@@ -775,7 +781,7 @@
 * [ActionServerless](https://github.com/gitx-io/ActionServerless) - Create Serverless Service
 * [GitKraken](https://www.gitkraken.com/) or [Sourcetree](https://www.sourcetreeapp.com/) - Git GUI
 * [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - Git TUI
-* [Codeberg](https://codeberg.org/), [Giters](https://www.giters.com/) or [GitGud](https://gitgud.io/) - Git Hosting
+* [Codeberg](https://codeberg.org/), [git.sr.ht](https://git.sr.ht/), [Giters](https://www.giters.com/) or [GitGud](https://gitgud.io/) - Git Hosting
 * [Git / Github Guide](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
 * [GitBook](https://www.gitbook.com/) - Document Collaboration
 * [Refined GitHub](https://github.com/sindresorhus/refined-github) - Simplifies GitHub Interface & Adds Features 
@@ -1040,6 +1046,6 @@
 ## ▷ IDEs / Code Editors
 
 * **[VSCodium](https://vscodium.com/)** - Code Editor  
-* VSCode Tools - [Open VSX Registry](https://open-vsx.org/) / [VSCodeThemes](https://vscodethemes.com/) / [Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/), [2](https://marketplace.visualstudio.com/) / [VSCode Theme Generator](https://oslo-vsc.netlify.app/) / [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) / [Discord-Tools](https://github.com/Darkempire78/Discord-Tools) / [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) / [VSCode in Browser](https://vscode.dev/), [2](https://code.cs50.io/) / [Insider Build](https://insiders.vscode.dev/) / [Logo Extension](https://github.com/tale/logos-vscode)
+* **[VS Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vscode_tools)** - Tools & Themes for VS Code
 * [Apache NetBeans](https://netbeans.apache.org/) - Cross Platform IDE  
 * [KDevelop](https://www.kdevelop.org/) - Cross Platform IDE
