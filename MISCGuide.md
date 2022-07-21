@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/rCRoRll.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/tuFZAJK.png)** - For mobile users
 
 ***
 *** 
@@ -204,6 +204,20 @@
 
 ***
 
+# ► Price Tracking
+
+* [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
+* [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
+* [CamelCamelCamel](https://camelcamelcamel.com/) - Amazon Price Tracker / [App](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno)
+* [Disk Prices](https://diskprices.com/) - Disk Price Tracker
+* [Shucks](https://shucks.top/) - External Drive Price Tracker
+* [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker 
+* [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
+* [DiaperGrid](https://diapergrid.com/) - Compare Diaper Prices
+* [Type Hound](https://typohound.com/) - eBay Typo Search
+
+***
+
 # ► Fun Sites
 
 * **[Fun Stuff Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fun_indexes)** - Toy, Game & Experiment Indexes
@@ -237,6 +251,8 @@
 * [Archillect](https://archillect.com/archive) - Image Posting Bot
 * [DreamWidth](https://www.dreamwidth.org/) - User-Made Images & Stories
 * [Posting.Cool](https://posting.cool/) - Random Topic Forum
+* [4chan](https://4chan.org/), [Afternoon](https://afternoon.dynu.com/), [Crystal.cafe](https://crystal.cafe/) or [Bus Stop](https://bus-stop.net/) - Anonymous Text / Image Boards
+* [TwoCansAndAString](https://twocansandstring.com/ ) - Anonymous Q&A
 * [Fandom](https://www.fandom.com/) - Media Wikis / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com)
 * [Conspiracy Theory Iceberg](https://ipfs.io/ipfs/QmWszAAzXjaD6hQZXbfhF9qBFWpnPwZVWU131HVf42WZej) - Conspiracies / Occult / Mythology / [Video Playlist](https://www.youtube.com/watch?v=7I2KJL-gJPU&list=PLfeWBGty_481haNoS_ozOVdIyOpyXMjUC)
 * [Kamogo](https://www.kamogo.com/faq/) - Useless Web Apps
@@ -302,7 +318,7 @@
 * [Chaos Equations](https://chaos-equations.glitch.me/?p=LBMRMS) - Chaos Equation Visualizations
 * [Flame Reactor](https://flamereactor.com/) - Fractal Flame Collaborative Generator
 * [JacksonPollock](https://www.jacksonpollock.org/) - Splatter Painting / Click to Change Color
-* [HotGlue](https://hotglue.me/) - Emoji Painting
+* [HotGlue](https://hotglue.me/) or [Remoji](https://remoji.com/) - Emoji Painting
 * [paint.wtf](https://paint.wtf/) - Have an AI Judge your Art 
 * [ArtVote](https://artvote.net/) - Judge Art
 * [MakePrintPlay](https://makeprintplay.com/) or [XWords](https://www.xwords-generator.de/en) - Crossword Puzzle Creator
@@ -319,6 +335,7 @@
 * [Wonder of Wonder Art](https://aidn.jp/wowa/) - Create a Dancing Character 
 * [Robotics.ovh](https://robotics.ovh/) - Robotics Dance
 * [CAT BOUNCE!](https://cat-bounce.com/) - Bounce Cats
+* [Web Neko](https://webneko.net/) - Nekos on the Web
 * [Open Puppies](https://openpuppies.com/) - Random Dog GIFs
 * [Tamajoji](https://flixflox.itch.io/tamajoji) - Browser Tamagotchi
 * [Gifypet](https://gifypet.neocities.org/) - Create Your Own Cute Pet 
@@ -486,6 +503,7 @@
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge A.I.
 * [Moral Machine](https://www.moralmachine.net/) - Machine Intelligence Moral Decisions
 * [Word Blanks](https://www.wordblanks.com/) or [Plot Generator](https://www.plot-generator.org.uk/) - Online Mad Libs
+* [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
 * [Magnet Poetry](https://sadgrl.online/magnet-poetry) - Magnet Poetry
 * [Fun Trivia](https://www.funtrivia.com/), [Factle](https://factle.app/), [BeanBeanBean](https://beanbeanbean.com/) or [Sporcle](https://www.sporcle.com/) - Trivia
 * [ARealMe](https://www.arealme.com/) - Quiz Collection
@@ -806,6 +824,7 @@
 * [eXHALeR](https://www.xhalr.com/) - Yoga / Meditation Breathing Tool 
 * [Medito](https://github.com/meditohq/medito-app) - Meditation App
 * [PixelThoughts](http://www.pixelthoughts.co/) - 60 Second Relaxation Tool
+* [Relax Online](http://www.relaxonline.me.uk/sa1/index.html) - Stress Analyst Tool
 * [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health) - Mental Health Index
 * [One Mind PsyberGuide](https://onemindpsyberguide.org/) - Mental Health App Reviews
 * [7 Cups](https://www.7cups.com/) or [OnlineCounselling4u](https://www.onlinecounselling4u.com/) - Free Counseling & Therapy
@@ -930,6 +949,7 @@
 * [Helpmap](https://helpmap.io/) - Nonprofit Donation Map 
 * [Hate Map](http://splcenter.org/hate-map) - Hate Group Map
 * [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Maps / Satellite View
+* [CAD Mapper](https://cadmapper.com/) - Free CAD Files
 
 ***
 
@@ -979,6 +999,7 @@
 * [Martian Mono](https://github.com/evilmartians/mono)
 * [Dribbble](https://dribbble.com/search/free%20font)
 * [Fonts2u](https://fonts2u.com/)
+* [dsg4](http://www.dsg4.com/04/extra/bitmap/index.html)
 * [KevinandAmanda](https://www.kevinandamanda.com/lifestyle/crafts-projects/free-fonts/)
 * [GlukFonts](http://www.glukfonts.pl/fonts.php)
 * [Iconian](http://www.iconian.com/) 
