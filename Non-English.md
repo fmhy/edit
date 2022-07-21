@@ -568,6 +568,7 @@
 * [gaana](https://gaana.com/) - Music
 * [hungama](https://www.hungama.com/music/) - Music
 * [jiosaavn](https://www.jiosaavn.com/) - Music / [API](https://github.com/cyberboysumanjay/JioSaavnAPI)
+* [PhysicsWallah](https://www.youtube.com/c/PhysicsWallah/) - Physics Lessons
 
 ## ▷ Reading
 
