@@ -556,7 +556,6 @@
 * [SkymoviesHD](https://skymovieshd.name/) - Movies / TV / WWE
 * [OnlineMovies8](https://www.onlinemovies8.com.pk/) - Movies 
 * [FilmyBro](https://filmybro.com/) - Movies
-* [FilmyHit](https://filmyhit.wine/) - Movies / TV
 * [PakBcn](http://www.pakbcn.live/) - TV / Live
 * [asiankdrama](https://asiankdrama.com/) - Asian Drama
 * [Dead Toons India](https://deadtoonsindia.net/) - Cartoons / Anime 
