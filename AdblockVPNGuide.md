@@ -48,7 +48,7 @@
 * **[ahadns](https://ahadns.com/)** - DNS Adblocking
 * **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking
 * **[YogaDNS](https://yogadns.com/)** - DNS Adblocking
-* [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html) - DNS Adblocking
+* [Adguard DNS](https://adguard-dns.io/) - DNS Adblocking
 * [Pi-Hole](https://pi-hole.net/) - DNS Adblocking / Self-Hosted / [Install Script](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filter](https://firebog.net/), [2](https://github.com/hl2guide/Filterlist-for-AdGuard) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine) / [Antitelemetry](https://github.com/MoralCode/pihole-antitelemetry)
 * [Blah DNS](https://blahdns.com/) - DNS Adblocking
 * [Rethink](https://rethinkdns.com/) - DNS Adblocking
@@ -147,6 +147,7 @@
 * [YARA](https://virustotal.github.io/yara/) - Malware Identification Tool
 * [Winitor](https://www.winitor.com/) - EXE Malware Assessment
 * [WhatsApp Media Decrypt](https://github.com/ddz/whatsapp-media-decrypt) - Decrypt WhatsApp Media Files
+* [Manalyzer](https://manalyzer.org/) - PE File Scanner
 * [PyWhat](https://github.com/bee-san/pyWhat) - .pcap File Scanner
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - Penetration Testing Index
 * [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Configure Windows Defender Settings
@@ -247,7 +248,8 @@
 * [Blacklight](https://themarkup.org/series/blacklight) - Website Privacy Inspector
 * [GreyNoise](https://www.greynoise.io/) - Internet Noise Analysis
 * [Terms of Service; Didn't Read](https://tosdr.org/) - TLDR TOS
-* [V2Ray](https://v2ray.com/en/), [V2Fly](https://www.v2fly.org/), [V2RayN](https://github.com/freefq/free) or [v2ray-core](https://github.com/v2fly/v2ray-core) - Build your own Privacy Network / [GUI](https://qv2ray.net/), [2](https://github.com/2dust/v2rayN), [3](https://github.com/Qv2ray/Qv2ray) / [GeoIP](https://github.com/Loyalsoldier/geoip)
+* [V2Ray](https://v2ray.com/en/), [V2Fly](https://www.v2fly.org/), [V2RayN](https://github.com/freefq/free) or [v2ray-core](https://github.com/v2fly/v2ray-core) - DIY Privacy Network
+* V2Ray Tools - [GUI](https://qv2ray.net/), [2](https://github.com/2dust/v2rayN), [3](https://github.com/Qv2ray/Qv2ray) / [GeoIP](https://github.com/Loyalsoldier/geoip) / [Tutorial](https://github.com/freefq/tutorials)
 * [Scout](https://www.scout.tel/phone-number-lookup) - Phone Number Lookup / Safety Check 
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - Get Telephone Carrier Data 
 * [/r/Privacy](https://reddit.com/r/privacy),  [/r/TheHatedOne](https://www.reddit.com/r/thehatedone), [/r/PrivacyToolsIO](https://www.reddit.com/r/privacytoolsIO) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - Privacy Discussion, News & Tools
