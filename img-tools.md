@@ -18,12 +18,13 @@
 * [rexpaint](https://www.gridsagegames.com/rexpaint/), [PabloDraw](http://picoe.ca/products/pablodraw/) or [Playscii](https://jp.itch.io/playscii) - ASCII Art Editor
 * [Graphic Design Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_graphic_design_tools) - Online Graphic Design Tools 
 * [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/) or [inspirationde](https://www.inspirationde.com/) - Graphic Design Inspirations
+* [archives.design](https://archives.design/) - Graphic Design Books
 * [IRA Design](https://iradesign.io/) - Illustration Creator
 * [Scribus](http://www.scribus.net/) - Page Layout & Typesetting Program
 * [1TB Art Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_1tb_art_courses) - Art Courses
 * [Photoshop Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photoshop_courses) - Photoshop Course Drive
 * [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
-* [PhotoFunia](https://photofunia.com/) or [Designify](http://designify.com/) - Photo Effects / Filters  
+* [PhotoFunia](https://photofunia.com/), [AIBlockchainArt](https://aiblockchain.art/) or [Designify](http://designify.com/) - Photo Effects / Filters  
 * [MagicaVoxel](https://ephtracy.github.io/) - Voxel Art Editor / Interactive Path Tracing renderer
 * [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Text Driven Image Manipulation / [Video](https://youtu.be/5icI0NgALnQ)
 * [Vectr](https://vectr.com/) or [VectorInk](https://vectorink.io/) - Vector Graphics Editor 
@@ -94,6 +95,7 @@
 * [style2paints](https://github.com/lllyasviel/style2paints) - AI Lineart Colorization Tool 
 * [depixel](https://github.com/jerith/depixel) - De-pixelization Tool 
 * [Face-Depixelizer](https://github.com/tg-bomze/Face-Depixelizer) - Face De-pixelization Tool 
+* [Deep Nostalgia](http://myheritage.com/deep-nostalgia) - Animate Family Photos
 
 ***
 
@@ -315,6 +317,7 @@
 * [Generated Photos](https://generated.photos/) - AI Generated Model Photos
 * [Blender](https://www.blender.org/) - Open Source 3D Modeler / 2D Animation / Video Editor / [Resources](https://github.com/agmmnn/awesome-blender)
 * [3D Modeling Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps) - Free 3D Modeling Apps 
+* [BLoom3D](https://bloom3d.com/) - Online 3D Modeling Tool
 * [Figurosity](https://figurosity.com/) - Human 3D Models
 * [Armorpaint](https://armorpaint.org/) - 3D Painting
 * [ZBrush](https://zbrushcore.com/mini/) - 3D Sculpting
@@ -378,6 +381,7 @@
 * **[Image Viewers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_viewers)** - Image Viewing Programs
 * [Piwigo](https://piwigo.org/) or [Photonix](https://photonix.org/) - Photo Manager / Viewer
 * [PiGallery2](https://bpatrik.github.io/pigallery2/) - Self-Hosted Image Gallery
+* [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
 * [FEMBOY](https://github.com/k1rak1ra/FEMBOY) - Anime Image Manager
 * [Pinry](https://docs.getpinry.com/) - Image Tiling Board
 * [Lychee](https://lycheeorg.github.io/), [Up1](https://github.com/Upload/Up1) or [Chevereto](https://chevereto.com/) - Self-Hosted Image Host 
