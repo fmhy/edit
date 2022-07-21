@@ -45,6 +45,7 @@
 * [CourseSity](https://www.coursesity.com/) - Courses
 * [Academic Earth](https://academicearth.org/) - Courses
 * [Yale.edu](https://oyc.yale.edu/) - Courses
+* [My Great Learning](https://www.mygreatlearning.com/academy) - Courses
 * [Stepik](http://stepik.org/) - Courses
 * [Canvas](https://www.canvas.net/) - Courses
 * [CourseF](https://www.coursef.com/) - Courses
@@ -610,8 +611,7 @@
 * [Quizizz Cheat](https://github.com/gbaranski/quizizz-cheat) - Quizizz Answers Tool
 * [PXTrez](https://pxtrez.com/) - Kahoot Answers Tool
 * [ITExamAnswers.net](https://www.itexamanswers.net/) - IT Exam Answers
-* [Oak National Academy](https://teachers.thenational.academy/) - Lessons / Quizzes
-* [Runestone Interactive](https://runestone.academy/) - Interactive Lessons
+* [Oak National Academy](https://teachers.thenational.academy/), [OLI](https://oli.cmu.edu/independent-learner-courses/) or [Runestone Interactive](https://runestone.academy/) - Lessons
 * [Quizlet](https://quizlet.com/) - Quizzes / Study Material
 * [guIHelp](https://discord.gg/rgF9jY8CpH) - Bartleby, Quizlet, Coursehero & Scribd Bot
 * [Wikiversity](https://www.wikiversity.org/) - Learning Resources, Guides, Quizzes, Tools & More
