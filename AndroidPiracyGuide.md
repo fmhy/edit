@@ -148,6 +148,7 @@
 * [MobileSpectrum](https://mobilespectrum.org/) - Mobile Network Spectrum by Country
 * [4G LTE Coverage](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b) - 4G LTE Coverage Map
 * [OpenStreetMap](https://github.com/westnordost/StreetComplete) - Custom Street Maps
+* [Floom](https://floom.withgoogle.com/) - Explore Earth 
 * [MAPS.ME](https://maps.me/) - Offline Maps / [GitHub](https://github.com/mapsme/omim)
 * [AntennaSearch](http://www.antennasearch.com/) - Cell Tower & Antenna Search
 * [PhoneDB](https://phonedb.net/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones & Prices 
@@ -187,7 +188,7 @@
 * [Papertag](https://www.papertag.app/) - Attach Digital Content on Paper
 * [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - Audio Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
-* [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistant
+* [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistant  
 * [KeyMapper](https://github.com/keymapperorg/KeyMapper) - Key Mapper 
 * [openboard](https://github.com/dslul/openboard) - FOSS Keyboard App
 * [KeePassDX](https://www.keepassdx.com/), [AuthPass](https://authpass.app/) or [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - Password Managers
@@ -894,6 +895,7 @@
 * [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Privacy Based Browser 
 * [Lockdown iOS](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) or [MobiWall](https://apps.apple.com/gb/app/mobiwall/id1486297414) - iOS Firewall / [GitHub](https://github.com/confirmedcode/Lockdown-iOS)
 * [PhantomVPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_phantomvpn) or [Ultrasurf](https://apps.apple.com/us/app/ultrasurf-vpn/id1563051300) - Free VPN
+* [Potatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606) - Proxy App
 * [Anti-Social](https://apps.apple.com/us/app/faceblock-block-facebook/id1516200820) - Block Social Media Trackers 
 * [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669), [surespot](https://www.surespot.me/), [Status](https://status.im/), [Session](https://getsession.org/), [Confide](https://apps.apple.com/ca/app/confide-secret-messenger/id779883419), [Olvid](https://olvid.io/en/) or [chatsecure](https://chatsecure.org/) - Encrypted Messaging 
 * [Syphon](https://syphon.org/) - Privacy Based Matrix Client / [GitHub](https://github.com/syphon-org/syphon)
