@@ -55,7 +55,7 @@
 * [GoodOldDownloads Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_goodolddownloads_backup)
 * [PCGames-Download Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pcgames-download_backup)
 * [LibreGameWiki](https://libregamewiki.org/List_of_games) - FOSS Games 
-* [itch.io](https://itch.io/games/new-and-popular/featured/free) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games 
+* [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Downloader](https://github.com/Emersont1/itchio) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games 
 * [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) - Open Source Games
 * [Open Source Game Clones](https://osgameclones.com/) - Open Source Game Clones
 * [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes) - Game Remakes 
@@ -462,7 +462,7 @@
 * [FSHistory](https://s-macke.github.io/FSHistory/) - Play Classic Flight Simulator 
 * [Magnetic Scripts](https://msmemorial.if-legends.org/msa2/msa2.html) - Magnetic Scrolls 
 * [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
-* [Neopets](http://www.neopets.com/) or [Marapets](https://www.marapets.com) - Virtual Pet Game 
+* [Neopets](http://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Game 
 * [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet 
 * [Super Auto Pets](https://teamwood.itch.io/super-auto-pets) - Pet Battle Game
 * [Forumwarz](http://www.forumwarz.com/) - Browser RPG  
