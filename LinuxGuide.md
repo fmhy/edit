@@ -15,7 +15,7 @@
 * **[Linux Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_themes)** - Themes for Linux
 * **[Linux Piracy](https://rentry.co/LinuxPiracy)** - Linux Piracy Guide
 * **[Archwiki](https://wiki.archlinux.org/)** - Linux Wiki
-* **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, [CPU-X](https://github.com/X0rg/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch) or [Stacer](https://github.com/oguzhaninan/Stacer) - System Info / Resource Monitors
+* **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, [CPU-X](https://github.com/X0rg/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch), [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [Stacer](https://github.com/oguzhaninan/Stacer) - System Info / Resource Monitors
 * **[Alacritty](https://github.com/alacritty/alacritty)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, [Simple Terminal](https://st.suckless.org/), [yakuake](https://apps.kde.org/yakuake/) or [tabby](https://tabby.sh/) - Terminal Emulator
 * **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
 * **[mpv](https://mpv.io/)** - Video Player / [Frontend](https://github.com/celluloid-player/celluloid)
@@ -195,7 +195,6 @@
 * [bashrcgenerator](http://bashrcgenerator.com/) - .bashrc Generator
 * [dunst](https://dunst-project.org/) - Customizable Notification Daemon / [GitHub](https://github.com/dunst-project/dunst)
 * [Autokey](https://github.com/autokey/autokey) - Linux Automation Utility
-* [The Linux Kernel Archives](https://kernel.org/) - Linux Kernel Archive
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
 * [tldr](https://github.com/tldr-pages/tldr/) - Tl;dr'd man pages
 * [Ghostwriter](http://wereturtle.github.io/ghostwriter/) or [Remarkable](http://remarkableapp.github.io/) - Markdown Editor
