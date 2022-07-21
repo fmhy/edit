@@ -428,7 +428,7 @@
 * **[Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - TV / Sports
 * **[Jackal](https://jackal.surge.sh/)** - TV / Sports
 * **[USTVGO](https://ustvgo.tv/)** - TV / Sports
-* **[LiveOnScore](http://liveonscore.tv/)** - Sports 
+* **[WeakStream](http://weakstreams.com/)** - Sports 
 * **[StreamEast](https://www.streameast.io/)** - Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)
 * **[StreamLinks](https://reddits.soccerstreamlinks.com/)**, [2](https://red.soccerstreams.net/), [3](https://footybite.cc/) - Sports
 * **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - NBA / NFL
