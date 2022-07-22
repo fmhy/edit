@@ -37,7 +37,6 @@
 * [GLoad](https://gload.to/)
 * [Ova Games](http://www.ovagames.com/)
 * [SEHS Games](https://www.sehsgames.com/)
-* [AimHaven](https://www.aimhaven.com/)
 * [Leeching Hell](http://leechinghell.pw/)
 * [DarkSoftware](https://darksoftware.net/)
 * [SohaibXtreme](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sohaibxtreme) 
