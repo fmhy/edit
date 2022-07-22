@@ -546,8 +546,7 @@
 * [Acapella-Extractor](https://www.acapella-extractor.com/) - Remove Background Tracks from Songs
 * [VoiceFX](https://blog.xaymar.com/projects/voicefx/) - Remove Background Noise from Voice Recordings
 * [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) / [CLI](https://github.com/IniasP/rnnoise-cli) - Noise Suppression Tools
-* [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Infinite Pro Trial](https://gist.github.com/programminghoch10/b6021e40cc1905d2b01a1571c6c96f17) - Audio Mixer
-* [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Voice Audio Mixer
+* [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixer
 * [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [MorphVOX](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_morphvox), [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird), [MyVoiceMod](https://myvoicemod.com/) or [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changer
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) or [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone Voices
 * [Sound Branch](https://soundbran.ch/) - Create / Share / Podcasts / Voice Messages 
