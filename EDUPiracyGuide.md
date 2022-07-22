@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/flBSPQG.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/1kuZGLN.png)** - For mobile users
 
 ***
 ***
@@ -352,6 +352,27 @@
 * [Math is Fun](https://www.mathsisfun.com/) - Math Tutorials / Puzzles / Games
 * [Project Euler](https://projecteuler.net/) - Math / Programming Problems
 * [MathWords](http://www.mathwords.com/) - Math Term Dictionary
+
+***
+
+# ► World Data
+
+* **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/) or [UN Data](https://data.un.org/) - World Data & Statistics
+* **[Our World in Data](http://ourworldindata.org/)** - World Problem Database
+* [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) - Public Datasets
+* [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
+* [If It Were My Home](https://www.ifitweremyhome.com/) - Country Data Comparisons
+* [Internet Live Stats](https://www.internetlivestats.com/) - Live Internet Statistics
+* [The Federation](https://the-federation.info/) - Fediverse Statistics
+* [US Debt Clock](https://www.usdebtclock.org/) - US Debt Clock
+* [Statista](https://www.statista.com/) - Market Statistics
+* [OEC](https://oec.world/en) - International Trade Data
+* [LittleSis](https://littlesis.org/) - Business / Government Connections Data 
+* [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
+* [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
+* [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Information Database
+* [us_hate_crimes](https://github.com/dessalines/essays/blob/master/us_hate_crimes.md) - US Hate Crime Databsase
+
 
 ***
 
