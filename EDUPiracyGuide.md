@@ -167,7 +167,6 @@
 * [DuForum](https://duforum.in/) - Courses
 * [FreeTutorialsEU](https://www.freetutorialseu.com/) - Courses
 * [DL Course](https://dlcourse.org/) - Courses
-* [btechveda](https://btechveda.in/) - Courses
 * [onlinecoursebay](https://onlinecoursebay.com/) - Courses
 * [freecourseslab](https://www.freecourseslab.com/category/course/) - Courses
 * [freecoursessites](https://www.freecoursessites.com/course/) - Courses
