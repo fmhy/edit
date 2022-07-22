@@ -26,7 +26,7 @@
 * **[MitOpenCourseWare](https://ocw.mit.edu/index.htm)** - Courses
 * **[Khan Academy](https://www.khanacademy.org/)** - Courses / [Downloader](https://github.com/rand-net/khan-dl)
 * **[Git.ir](https://git.ir/)** - Courses
-* **[PluralSight](https://visualstudio.microsoft.com/dev-essentials/)** - Free for 1 Month / [Decrypt Videos](https://github.com/phuonghd/Decrypt-PluralSight-Videos-GUI)
+* **[PluralSight](https://visualstudio.microsoft.com/dev-essentials/)** - Free for 1 Month
 * [Awesome CS](https://github.com/prakhar1989/awesome-courses/) - Courses
 * [OpenLearn](https://www.open.edu/openlearn/) - Courses
 * [Alison](https://alison.com/) - Courses
