@@ -1258,10 +1258,9 @@
 * [Guild Counter](https://rauf.wtf/guildcount) - Check how many servers you're in
 * [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - Preview Role Colors Role
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - Encode videos to <8MB
-* [Movata](https://movata.cc/) or [Discord Together](https://github.com/RemyK888/discord-together) - Video Stream Sync / Watch Parties
+* [Discord Together](https://github.com/RemyK888/discord-together) - Video Stream Sync / Watch Parties
 * [MangaCord](https://top.gg/bot/751148743901970622?tab=overview) - Read Manga on Discord [Disocrd](https://discord.gg/UtTJcWzCRe)
 * [DiskCord](https://github.com/5ut/DiskCord) - Host Files on External Sites to share via Discord
-* [LottieResizer](https://lottieresizer.tech/) - Lottie Resizer
 * [discordcompressor](https://github.com/vladaad/discordcompressor) - Video Compressor
 * [Natron](https://natron.fr/) or [Fusion](https://www.blackmagicdesign.com/ca/products/fusion/) - Video Compositing
 * [Discord Branding](https://discord.com/branding) - Discord Branding Information Page / [Archive](https://web.archive.org/web/20210513004910/https://discord.com/branding)
