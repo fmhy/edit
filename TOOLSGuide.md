@@ -350,7 +350,6 @@
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets
 * [Motion Den](https://motionden.com/), [Lumen5](https://lumen5.com/) or [VideoCreek](https://videocreek.com/) - Video Template Editor
 * [Beatflyer](https://beatflyer.com/) - Video Flyer Generator
-* [Footage](https://footage.app/) - Create Advertisement Videos
 * [MKVToolNix](https://www.matroska.org/downloads/mkvtoolnix.html) - MKV Editing Tools 
 * [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/) - MKVExtract GUI 
 * [MKV-Optimizer](https://www.videohelp.com/software/MKV-Optimizer) - Remove Audio Tracks from MKV Files 
