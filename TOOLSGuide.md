@@ -2071,8 +2071,7 @@ Twitch Stream Tracker
 * [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/) or [Securedrop](https://securedrop.org/) - Document File Sharing
 * [OpenPaper](https://openpaper.work/en/) or [DataShare](https://datashare.icij.org/) - Document Manager
 * [Browsemonkey](https://github.com/shukriadams/browsemonkey) - Take Snapshots of File Systems 
-* [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - GDrive Guide 
-* [Save to Drive](https://savetogoogledrive.herokuapp.com/) - Save Files to GDrive without account   
+* [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - GDrive Guide  
 * [gDrive-DirectLink](https://github.com/jagrit007/gDrive-DirectLink) or [google-drive-direct-link-generator](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - GDrive File Direct Link Generator
 * [Google Drivac](https://github.com/Data-Horde/gdrivac) - Associate Gdrive Account with URL List
 * [Attribute Changer](https://www.petges.lu/) - Edit File & Folder Properties
