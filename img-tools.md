@@ -92,7 +92,8 @@
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
 * [GPEN-Colab](https://github.com/bycloudai/GPEN-colab) - Face Restoration / Colorization Tool
 * [Color-Dragon](https://www.color-dragon.tk/) - Add more Color to Images
-* [style2paints](https://github.com/lllyasviel/style2paints) - AI Lineart Colorization Tool 
+* [style2paints](https://github.com/lllyasviel/style2paints) - AI Lineart Colorization Tool
+* [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/) - Image Dithering
 * [depixel](https://github.com/jerith/depixel) - De-pixelization Tool 
 * [Face-Depixelizer](https://github.com/tg-bomze/Face-Depixelizer) - Face De-pixelization Tool 
 * [Deep Nostalgia](http://myheritage.com/deep-nostalgia) - Animate Family Photos
@@ -132,7 +133,7 @@
 * [TierMaker](https://tiermaker.com/) - Tier List Image Creator
 * [Hugin](http://hugin.sourceforge.net/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - Panorama Image Generator 
 * [Side It](https://sideit.app/) - Side by Side Image Generator
-* [DoodDad](https://doodad.dev/pattern-generator), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/) or [Haikei](https://app.haikei.app/)  Pattern Generator
+* [DoodDad](https://doodad.dev/pattern-generator), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/) or [Haikei](https://app.haikei.app/) - Pattern Generator
 * [Noise & Gradient](https://www.noiseandgradient.com/), [BGJar](https://bgjar.com/) or [BGGenerator](https://bggenerator.com/) - Background Generator
 * [stripegenerator](http://www.stripegenerator.com/) - Stripe Generator 
 * [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
@@ -206,7 +207,7 @@
 ## ▷ Painting / Drawing
 
 * [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/) or [MediBang](https://medibangpaint.com/en/) - Painting
-* [Aggie.io](https://aggie.io/) - Collaborative Painting
+* [Aggie.io](https://aggie.io/) or [Magma](https://magmastudio.io/) - Collaborative Drawing / Painting
 * [LizardPaint](https://lizardrive.itch.io/lizardpaint) - Sega / Megadrive Painting
 * [inkscape](https://inkscape.org/), [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q), [Sketch Toy](https://www.sketchtoy.com/), [Sketchbook](https://www.sketchbook.com/), [Webchemy](https://webchemy.org/) / [GitHub](https://github.com/bitbof/webchemy), [tldraw](https://www.tldraw.com/), [Sketchpad](https://sketchpad.app/) / [2](https://sketch.io/sketchpad) or [Excalidraw](https://excalidraw.com/) - Drawing / Sketching Tools 
 * [Noodle](https://hundredrabbits.itch.io/noodle) - 1bit Sketch Tool
