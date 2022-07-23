@@ -247,6 +247,7 @@
 * [WatchTVSeries](https://www2.watchtvseries.video/) - TV 
 * [turkish123](https://turkish123.com/) - Turkish TV Shows / Subtitles 
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - Bay Area TV Archive  
+* [Ninja Warrior](https://rentry.co/NinjaWarrior) - Full Sasuke Episodes
 * [MyRM](https://myrunningman.com/) - My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)
 * [No-Laughing Batsu Game List](https://redd.it/2fgm9p) 
 * [cytube](https://cytu.be/) - TV / Chat
