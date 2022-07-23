@@ -28,6 +28,7 @@
 * [NTCore's 4GB Patch](https://ntcore.com/?page_id=371) - x86 Executable Memory Patcher
 * [ISLC](https://www.wagnardsoft.com/ISLCw) - Remove Windows 10 RAM Stutters / [Tutorial](https://www.reddit.com/r/GlobalOffensive/comments/fca7lw/if_you_have_stutter_ingame_you_can_try_this_tool/fj9yx3h/)
 * [Sunshine](https://github.com/loki-47-6F-64/sunshine) - GPU Streaming Client
+* [Geforce Now](https://www.nvidia.com/en-gb/geforce-now/) - Game Streaming / [Web App](https://play.geforcenow.com/mall/)
 * [Cloud Morph](https://github.com/giongto35/cloud-morph) - Self-Hosted Cloud Gaming 
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
 * [GamingSmart](https://gamingsmart.com/) - Game Sensitivity Converters
@@ -88,7 +89,7 @@
 * [Dungeon Map Doodler](https://dungeonmapdoodler.com/) or [donjon](http://donjon.bin.sh/) - Draw and Build Dungeons 
 * [Ethereal Games](https://wiki.etherealgames.com/) - JRPG Wiki
 * [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager / System
-* [DS4Windows](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
+* [DS4Windows](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [Input Remapper](https://github.com/sezanzeb/input-remapper) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
 * [ViGEmBus](https://github.com/ViGEm/ViGEmBus) or [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
 * [Xbox for Python](https://github.com/r4dian/Xbox-Controller-for-Python) - Xbox Controller Xinput Module
 * [DsHidMini](https://github.com/ViGEm/DsHidMini) - Use PS3 Controllers on Windows [Guide](https://vigem.org/projects/DsHidMini/How-to-Install/)
