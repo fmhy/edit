@@ -110,7 +110,8 @@
 
 # ► Android Emulators 
 
-* **[Nox](https://www.bignox.com/)** - [Screenshot](https://i.imgur.com/VuFLWbW.jpg) / [Debloater](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29 )
+* **[Nox](https://www.bignox.com/)** - [Screenshot](https://i.imgur.com/VuFLWbW.jpg) / [Debloater](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29)
+* **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
 * **[Anbox](https://anbox.io/)**, **[WayDroid](https://waydro.id/)** / [Git](https://github.com/waydroid) or  [Andronix](https://andronix.app/) / [Git](https://github.com/AndronixApp) - Android Linux Emulator
 * [GameLoop](https://www.gameloop.com/) - [Screenshot](https://i.imgur.com/dLrEXCJ.png)
 * [MuMu](https://www.mumuglobal.com/) - [Screenshot](https://i.imgur.com/D8BBerb.png)
@@ -238,6 +239,7 @@
 * [PowerTube](https://powertube.razar.app/) / [Git](https://github.com/razar-dev/PowerTube) or [DVD](https://github.com/yausername/dvd) - Video Download Tool 
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloader
 * [Show Youtube Dislikes](https://github.com/jesperbakhandskemager/view-youtube-dislike) - Return Youtube Dislikes
+* [BBTV](https://github.com/bttv-android/bttv) - Modded Twitch App
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - Reddit Video Downloader
 * [Boost](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_boost), [Joey](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_joey), [Dawn](https://github.com/Tunous/Dawn), [BaconReader](https://baconreader.com/) or [Relay](https://relayforreddit.com/index.html) - Reddit Client
@@ -373,7 +375,6 @@
 * [NokiaFIimwareGP](https://t.me/nokiafirmwaregp) or [NokiaOldFirmware](https://t.me/nokiaoldfirmware) - Nokia Firmware
 * [How to Install a Custom ROM](https://www.xda-developers.com/how-to-install-custom-rom-android/amp/) - Custom ROM Installation Guide
 * [Odin](https://www.odindownload.com/) or [IVTheme](https://www.ivtheme.com/) - ROM Flashing Tools
-* [Anarchy-Droid](https://anarchy-droid.com/) - Custom Android ROM / [Github](https://github.com/amo13/Anarchy-Droid)
 * [UniPatcher](https://github.com/btimofeev/UniPatcher) - ROM Patcher
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice) - Device Tracker
 * [OwnTracks](https://owntracks.org/) or [Hauk](https://github.com/bilde2910/Hauk) - Track Own Location
@@ -733,6 +734,7 @@
 * [Cyberflix TV](https://cyberflix.me/) - Movies / TV
 * [MrFTV](https://mrftv.com/) - Movies / TV
 * [LokLok](https://loklok.com/download) - Movies / TV
+* [ScrubTV](https://reboot.tube/ScrubTV.apk) - Movies / TV / [Forum](https://scru.bz/index.php)
 * [WatchCartoonsOnline App](https://watchcartoononline.bz/watchcartoononline-app-for-android-devices/) - Cartoons / Anime
 * [STBEmu](https://docs.stbemu.com/download/) - Emulate a STB and Watch IPTV
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - YTS Torrents 
