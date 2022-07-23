@@ -636,6 +636,7 @@
 * [Emoji Dingbats](https://emoji-dingbats.herokuapp.com/) - Emoji Dingbat Game
 * [The Higher Lower Game](http://www.higherlowergame.com/) - Guess What's Googled More
 * [Guess The Price](https://guesstheprice.net/) - Price Guessing Game 
+* [Approved, or Not Approved?](https://approvednotapproved.com/) - Approved Advertising Guessing Game
 * [damn.dog](https://damn.dog/) - wikiHow Guessing Game
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
 * [Gearoid Pokemon](https://gearoid.me/pokemon/) - Pokemon Guessing Game
