@@ -26,13 +26,13 @@
 * **[PrivateHD](https://www.privatehd.xyz/)** - Movies / TV
 * **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
 * **[Ask4movies](https://ask4movie.io/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
-* **[arthemis](https://web.arthemis.xyz/)** - Movies / TV / Anime / App / [Discord](https://discord.gg/98HxbfjKQV)
 * [M4uFree](https://ww1.m4ufree.com) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones) / Auto DL
 * [PtFlixMovies](https://ptflixmovies.xyz/) - Movies / TV / Anime
 * [C1NE](https://c1ne.co/) - Movies / TV 
 * [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - Movies / TV
 * [Movies.cf](https://movies.cf/Landing) - Movies 
 * [Tubi](https://tubitv.com) - Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
+* [arthemis](https://web.arthemis.xyz/) - Movies / TV / Anime / App / [Discord](https://discord.gg/98HxbfjKQV)
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime
 * [NetU](https://netu.io/view_page.php?pid=4) - Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)
 * [oSee](https://osee.in) - Movies / TV / Anime / [Unlock HD](https://pastebin.com/hxdq1uFi)
@@ -325,6 +325,7 @@
 * [AnimeXin](https://animexin.info/) - Sub
 * [AniWatcher](https://aniwatcher.com/) - Sub / Dub
 * [AniWatch](https://aniwatch.pro/) - Sub
+* [Anime5s](https://anime5s.com/) - Sub / Dub
 * [StreamAnimeTV](https://streamanimetv.net/) - Sub / Dub
 * [Anime60FPS](https://www.anime60fps.com/ ) - Sub / Dub
 * [AnimeFreak](https://www.animefreak.vip/) - Sub / Dub
@@ -574,7 +575,6 @@
 * **[Pahe](https://pahe.li/)** - Movies / TV / Anime / [Discord](https://discord.gg/4AvaCsd2J4) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper) / [Rips](https://mkvking.net/), [2](https://mkvking.me/)
 * **[Worlds Cinema](http://worldscinema.org/)** - Old / Classic / Cult Films
 * **[Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download)** - Many of these sites have single click downloads
-* [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
 * [RareLust](https://rarelust.com/) - Rare Movies / NSFW 
 * [My Duck Is Dead](http://www.myduckisdead.org/) - Rare Movies / NSFW 
 * [MobileTVShows](https://www.mobiletvshows.net/) - TV / Anime
@@ -686,6 +686,7 @@
 * **[Rinzry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rinzry)** - Movies / TV / Anime
 * **[50TB](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_50tb_mega_drive)** - Movies 
 * **[Rek's Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive)** - Movies / Anime
+* [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
 * [Torrent2Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_torrent2drive) - Movies / TV / [Telegram](https://t.me/torrent_2_drive)
 * [Media](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_media) - Movies / TV / Anime 
 * [IMDb Top 250](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_imdb_top_250) - Movies
@@ -846,7 +847,7 @@
 * [Erai-Raws](https://www.erai-raws.info/) - Sub / [Discord](https://discord.gg/2PfWaar)
 * [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - Sub / [ZeroNet Required](https://zeronet.io/)
 * [nyaamal](https://github.com/laxyapahuja/nyaamal) - Add torrents DL's to MAL / Anilist
-* [Miru](https://github.com/ThaUnknown/miru) - Stream Anime Torrents
+* [Miru](https://github.com/ThaUnknown/miru) or [anitor-stream](https://github.com/gan-of-culture/anitor-stream) - Stream Anime Torrents
 * [Aniloader](https://github.com/Xanahol/Aniloader) or [AniTorrent](https://github.com/Kajiya-aru/AniTorrent) - Anime Torrent Autodownloader
 
 ***
@@ -898,6 +899,7 @@
 * [Tastoid](https://www.tastoid.com/) - Mood Based Recommendations 
 * [Autum](https://autum.com/) - Movie / TV Recommendations
 * [Suggestream](https://suggestream.com/) - Movies / TV Recommendations 
+* [/r/MovieSuggestions](https://www.reddit.com/r/MovieSuggestions/) - Movie Recommendations 
 * [BestSimilar](https://bestsimilar.com/) - Movie Recommendations 
 * [Movie-Map](https://www.movie-map.com/) - Movie Recommendations
 * [GNOD](https://www.gnod.com/) - Movie Recommendations
