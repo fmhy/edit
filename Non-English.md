@@ -118,6 +118,7 @@
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - Lift Emby Restrictions
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [XX-Net](https://github.com/XX-net/XX-Net), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser) or [OilAndFish](https://www.oilandfish.com/) - Bypass Chinese Firewall  
 * [Gitee](https://gitee.com/) - GitHub Alternative
+* [BookStack](https://www.bookstack.cn/) - Developer / Programming Guides
 * [Gridea](https://github.com/getgridea/gridea) - Blog Writing Client
 * [Dict.Baidu](https://dict.baidu.com/) - Chinese Word, Idiom & Poem Search
 * [SeiWatei](https://www.seiwatei.net/) or [chinadaily](https://language.chinadaily.com.cn/news_bilingual/) - Learn Chinese
@@ -207,6 +208,7 @@
 * [haodoo](http://haodoo.net/) - Books  
 * [Pilibook](https://www.pilibook.com/) - Books
 * [ixdzs](https://tw.m.ixdzs.com/) - Books
+* [LoreFree](https://lorefree.com/) - Books
 * [zhongwen](http://zhongwen.com/gudian.htm) - Classic Literature
 * [AC.QQ](https://ac.qq.com/) - Manga
 * [BiliBili](https://manga.bilibili.com/) - Manga
@@ -1498,6 +1500,7 @@
 * [HenaoJara](https://henaojara.com/) - Anime 
 * [Animadas](https://seriesanimadas.org/) - Anime
 * [Animeflv](https://www3.animeflv.net/) - Anime
+* [AnimeID](https://www.animeid.tv/) - Anime
 * [Anitube](https://www.anitube.site/) - Anime 
 * [animeblix](https://animeblix.com/) - Anime 
 * [Anime Online Sub](https://www.animeonlinesub.com/) - Anime 
