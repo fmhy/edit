@@ -379,6 +379,8 @@
 # ► History 
 
 * [History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_history_sites)
+* [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
+* [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
 * [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
 * [Modern / Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps) - Map Resources
 * [Letters of Note](https://news.lettersofnote.com/) - Historical Letters
