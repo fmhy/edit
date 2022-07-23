@@ -133,7 +133,6 @@
 * [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [App linked](https://uselinked.com/) / [GitHub](https://github.com/lostdesign/linked), [Gemlog](https://gemlog.blue/) or [journal-cli](https://v1.journalcli.app/) - Journal App
 * [Here and Now](https://here-and-now.glitch.me/) - Daily Reflections Journal
 * [Listography](https://listography.com/) - Create Lists of Anything
-* [Nute](https://nute.app/) - Quickly Make & Save Text Files
 * [Lyx](https://www.lyx.org/) - LaTeX Editor / [Guide](https://www.learnlatex.org/)
 * [Detexify](http://detexify.kirelabs.org/classify.html) - Handwritten LaTeX Symbol Recognition
 * [How To Use Excel](https://www.how-use-excel.com/) - Excel Tutorial
@@ -1823,7 +1822,7 @@ Twitch Stream Tracker
 * [eDEX-UI](https://github.com/GitSquared/edex-ui) - Sci-Fi Terminal Emulator / System Monitor
 * [termbin](http://termbin.com/) - Terminal Output Pastebin
 * [GetDNote](https://www.getdnote.com/) - Command Line Notebook
-* [cmder](https://cmder.net/) - Portable Console Emulator for Windows 
+* [cmder](https://cmder.app) / [Github](https://github.com/cmderdev/cmder)
 * [PowerShell](https://github.com/powershell/powershell) - PC / Mac / Linux PowerShell
 * [PowershellMenu](https://github.com/Mike-Branham/PowershellMenu), [Write-Menu](https://github.com/QuietusPlus/Write-Menu) or [ps-menu](https://github.com/chrisseroka/ps-menu) - PowerShell Console Menu
 * [PowerShdll](https://github.com/p3nt4/PowerShdll) - Run PowerShell with rundll32
