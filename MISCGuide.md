@@ -81,6 +81,7 @@
 * [State of the DApps](https://www.stateofthedapps.com/) - Blockchain App Index 
 * [Open Sustainable Technology](https://opensustain.tech/) - Sustainable Tech Project Index
 * [List of Lists](https://l-lists.com/en/) - List Index
+* [href.cool](https://href.cool/) - List of Old / Weird Sites
 * [Pointless Sites](https://www.pointlesssites.com/) - Pointless Site Index
 * [Websites From Hell](https://websitesfromhell.net/) - Shitty Website Index
 * [National Archives](http://www.nationalarchives.gov.uk/webarchive/) - UK Government Site Archive
@@ -116,6 +117,7 @@
 # ► Piracy Discussion
 
 * **[/m/piracy](https://www.reddit.com/user/nbatman/m/piracy/)**, [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) - Piracy Multireddit
+* **[OneHack](https://onehack.us/)** - Piracy Discussion / Sharing
 * [/r/piracy](https://reddit.com/r/piracy) - [Backup](https://github.com/nid666/PiracyArchive)
 * [/r/piratedgames](https://reddit.com/r/piratedgames) - [Discord](https://discord.gg/Da2akf2)
 * [/r/SoftwarePirates](https://reddit.com/r/SoftwarePirates) - Software Piracy Discussion
@@ -252,7 +254,8 @@
 * [DreamWidth](https://www.dreamwidth.org/) - User-Made Images & Stories
 * [Posting.Cool](https://posting.cool/) - Random Topic Forum
 * [4chan](https://4chan.org/), [Afternoon](https://afternoon.dynu.com/), [Crystal.cafe](https://crystal.cafe/) or [Bus Stop](https://bus-stop.net/) - Anonymous Text / Image Boards
-* [TwoCansAndAString](https://twocansandstring.com/ ) - Anonymous Q&A
+* [Gossip’s Café](https://gossips.cafe/) - Text / Music Board 
+* [TwoCansAndAString](https://twocansandstring.com/) - Anonymous Q&A
 * [Fandom](https://www.fandom.com/) - Media Wikis / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com)
 * [Conspiracy Theory Iceberg](https://ipfs.io/ipfs/QmWszAAzXjaD6hQZXbfhF9qBFWpnPwZVWU131HVf42WZej) - Conspiracies / Occult / Mythology / [Video Playlist](https://www.youtube.com/watch?v=7I2KJL-gJPU&list=PLfeWBGty_481haNoS_ozOVdIyOpyXMjUC)
 * [Kamogo](https://www.kamogo.com/faq/) - Useless Web Apps
@@ -532,6 +535,7 @@
 * [iFake](https://ifaketextmessage.com/) - Make Fake Text Conversation 
 * [SecretRickRoll](https://www.secretrickroll.com/) - Custom Rick Roll Generator 
 * [rroll.to](https://rroll.to/) - Rick Roll Link Shortener
+* [Hi, Mom!](https://github.com/tsivinsky/hi-mom) - Automate Saying Hi to your Mom
 * [FOAAS](https://github.com/tomdionysus/foaas) - Automate Telling People to Fuck Off
 * [The Fed](https://thefed.app/) - Central Banking Game 
 * [Money printer go BRRR](https://brrr.money/) - Print it, baby!
@@ -826,7 +830,7 @@
 * [Medito](https://github.com/meditohq/medito-app) - Meditation App
 * [PixelThoughts](http://www.pixelthoughts.co/) - 60 Second Relaxation Tool
 * [Relax Online](http://www.relaxonline.me.uk/sa1/index.html) - Stress Analyst Tool
-* [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health) - Mental Health Index
+* [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health) or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Index
 * [One Mind PsyberGuide](https://onemindpsyberguide.org/) - Mental Health App Reviews
 * [7 Cups](https://www.7cups.com/) or [OnlineCounselling4u](https://www.onlinecounselling4u.com/) - Free Counseling & Therapy
 * [BlahTherapy](https://blahtherapy.com/) - Vent to Strangers
@@ -1037,6 +1041,7 @@
 * [MeeshDesigns](http://www.meeshdesigns.com/Western%20Fonts/) - Font Index 
 * [MacType](https://github.com/snowie2000/mactype/releases) - Use Mac fonts on Windows
 * [Picas](https://picas.vercel.app/) - Google Font Logo Generator
+* [Bitfontmaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitFont Creator
 * [FontJoy](https://fontjoy.com/) - Font Pairings Generator
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/), [WhatFont](http://www.chengyinliu.com/whatfont.html) or [What Font Is](https://www.whatfontis.com/) - Font Identification
 * [Typerip](http://badnoise.net/TypeRip/) - Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)
