@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/1kuZGLN.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/jav6fIx.png)** - For mobile users
 
 ***
 ***
@@ -135,6 +135,8 @@
 
 * **[freesoff](https://freesoff.com/)** - Courses
 * **[TutFlix](https://tutflix.org/)** - Courses / Drives 
+* **[OneHack](https://onehack.us/)** - Courses
+* **[HackNation](https://hacksnation.com/)** - Courses
 * **[Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_course_megadrives)** or **[Large Collection of Useful Mega DL's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_large_collection_of_useful_mega_dl.27s)**  - Courses / Drives
 * [Course Search Engine](https://cse.google.com/cse?cx=a02efb0346a176b46) - Search for Courses
 * [Reks Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive) - Courses
@@ -153,7 +155,6 @@
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses 
 * [DLECourse](https://dlecourse.com/) - Courses 
 * [FreeCourseDL](https://freecoursedl.com/) - Courses 
-* [HackNation](https://hacksnation.com/) - Courses
 * [TutsNode](https://tutsnode.com/) - Courses
 * [FreeStudyWeb](https://freestudyweb.com/) - Courses 
 * [Google Drive Links](https://googledrivelinks.com/) - Courses
@@ -361,6 +362,7 @@
 * [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) - Public Datasets
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
 * [If It Were My Home](https://www.ifitweremyhome.com/) - Country Data Comparisons
+* [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [Internet Live Stats](https://www.internetlivestats.com/) - Live Internet Statistics
 * [The Federation](https://the-federation.info/) - Fediverse Statistics
 * [US Debt Clock](https://www.usdebtclock.org/) - US Debt Clock
@@ -372,6 +374,24 @@
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Information Database
 * [us_hate_crimes](https://github.com/dessalines/essays/blob/master/us_hate_crimes.md) - US Hate Crime Databsase
 
+***
+
+# ► History 
+
+* [History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_history_sites)
+* [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
+* [Modern / Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps) - Map Resources
+* [Letters of Note](https://news.lettersofnote.com/) - Historical Letters
+* [Histography](https://histography.io/) - History Timeline
+* [The Food Timeline](https://www.foodtimeline.org/) - Food History Timeline
+* [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes Site Index
+* [CARI](https://cari.institute/) - Design Aesthetics History
+* [Pol Art Folder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pol_art_folder) - Historic European Art & Paintings
+* [BetaWiki](https://betawiki.net/wiki/Main_Page) - Operating System / Software History / [Discord](https://discord.gg/XPz5Zm42tR)
+* [Old Computer Museum](http://oldcomputers.net/) - Computer History / Info 
+* [The HP 9845 Project](https://www.hp9845.net/) - HP 9845 Computer History
+* [House creep](https://www.housecreep.com/) - Homes With A Curious or Criminal History 
+* [World Weather Online](https://www.worldweatheronline.com/) - Historical Weather Reports
 
 ***
 
@@ -691,10 +711,6 @@
 * [SimScale](https://www.simscale.com/) or [CFDTool](https://www.cfdtool.com/) - Fluid Dynamics & Heat Transfer Simulator
 * [Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php) - Physics Tools 
 * [quantum](https://play.google.com/store/apps/details?id=brychta.stepan.quantum_en) - Quantum Physics Learning App 
-* [Modern / Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps) - Map Resources
-* [Histography](https://histography.io/) - History Timeline
-* [The Food Timeline](https://www.foodtimeline.org/) - Food History Timeline
-* [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [Eylenburg](https://eylenburg.github.io/) - Infographs, Maps & Papers
 * [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/) or [Map Quiz](https://planemad.github.io/map-quiz/) - Geography Quizzes 
 * [The True Size](https://thetruesize.com/) - Compare Country Size 
@@ -741,7 +757,6 @@
 * [Chess Tempo](https://chesstempo.com/) - Play & Learn Chess
 * [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - Wood Working Guides & Articles
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots 
-* [Pol Art Folder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pol_art_folder) - Historic European Art & Paintings
 * [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio) or [WikiArt](https://www.wikiart.org/) - Digital Art Collection
 * [Arachne](https://arachne.dainst.org/) - Ancient Sculpture Image Archive
 * [The First World War](https://www.firstworldwar.amdigital.co.uk/) - WW1 Study Material
@@ -750,8 +765,6 @@
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
 * [Economics of The Office](http://economicsoftheoffice.com/) - Learn Economics via The Office
 * [Morse Typing Trainer](https://morse.withgoogle.com/learn/) - Morse Code Trainer 
-* [Old Computer Museum](http://oldcomputers.net/) - Computer History / Info 
-* [The HP 9845 Project](https://www.hp9845.net/) - HP 9845 Computer History
 * [RSOE](http://hisz.rsoe.hu/) - Emergency and Disaster Information Service 
 * [911 Realtime](https://911realtime.org/) - 9/11 in Realtime
 * [Awful-A.I.](https://github.com/daviddao/awful-ai) - Negative A.I. Usage Examples
