@@ -53,6 +53,7 @@
 * [gazee](https://hub.docker.com/r/linuxserver/gazee/) or [Komikku](https://gitlab.com/valos/Komikku) - Manga & omic Reader / Manager
 * [wikit](https://github.com/KorySchneider/wikit) - Wikipedia Summaries from CLI
 * [Linux Filesystem Chart](https://i.imgur.com/02VycVd.png) - File System Guide
+* [Wget_Linux_Guide](https://web.archive.org/web/20210225201811/https://the-eye.eu/public/Wget_Linux_Guide.pdf) - Wget Guide
 * [Distrochooser](http://distrochooser.de/?l=2) or [Fushra](https://distros.fushra.com/) - Linux Distro Chooser
 * [Apodio](http://www.apodio.org/doku.php) or [io GNU/Linux](http://io.gnu.linux.free.fr/) - Linux Distro w/ Preinstalled Apps
 * [OldSchoolOS](https://www.oldschoolos.com/) - Old Linux Distro Archive
@@ -160,6 +161,7 @@
 * [Qtractor](https://qtractor.org/) - Audio Editor
 * [Ecasound](http://nosignal.fi/ecasound/) - Multitrack Audio-Processor / Linux
 * [cava](https://github.com/karlstav/cava) - Console Audio Visualizer
+* [CasterSoundboard](https://github.com/JupiterBroadcasting/CasterSoundboard) - Soundboard
 * [Peek](https://github.com/phw/peek) - Simple Video / GIF recorder
 * [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
 * [utils](https://github.com/Loupeznik/utils) or [UsefulLinuxShellScripts](https://github.com/jackrabbit335/UsefulLinuxShellScripts) - Linux Shell Tool Scripts
@@ -272,7 +274,8 @@
 * [SnapCraft](https://snapcraft.io/store) 
 * [tlanyan](https://tlanyan.me/)
 * [yay](https://github.com/Jguer/yay), [paru](https://github.com/morganamilo/paru) or [aura](https://github.com/aurapm/aura) - Arch User Repository Helpers
-* [KDE's Applications](https://apps.kde.org/education) 
+* [KDE's Applications](https://apps.kde.org/education)
+* [Pling](https://www.pling.com/)
 * [IzzySoft Apt Repositories](https://apt.izzysoft.de/) 
 * [Awesome KDE](https://github.com/francoism90/awesome-kde)
 * [apps.gnome](https://apps.gnome.org/en-GB/) - GNOME Apps
@@ -405,6 +408,7 @@
 * [Kap](https://github.com/wulkano/Kap) - Screen Recorder
 * [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - Audio Editor
 * [The Levelator](https://apps.apple.com/us/app/the-levelator/id1493326487?mt=12) - Automatic Audio Level Adjustments / [Archive](https://archive.org/details/conversationsnetwork_org-levelator)
+* [CasterSoundboard](https://github.com/JupiterBroadcasting/CasterSoundboard) - Soundboard
 * [XLD](https://sourceforge.net/projects/xld/) - Lossless Audio Transcoder
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - Image Editor 
 * [ImageOptim](https://imageoptim.com/mac) - Image Optimization
