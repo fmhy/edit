@@ -327,7 +327,7 @@
 * [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)
 * [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
 * [LibreSprite](https://libresprite.github.io/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
-* [BestSnip](https://bestsnip.com/animation/), [Plask](https://plask.ai/), [Rive](https://rive.app/) or [Mulator](https://multator.ru/) - Online Animation Tool
+* [BestSnip](https://bestsnip.com/animation/), [Plask](https://plask.ai/), [Rive](https://rive.app/) or [Toonator](https://toonator.com) - Online Animation Tool
 * [Mixamo](https://www.mixamo.com/) - 3D Character Animation Tool
 * [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - 3D Human Model Creator
 * [Vinci](https://vinci.surreal-ai.com/home/free-talking-avatar) - Create Talking AI
@@ -410,7 +410,6 @@
 * [Audio Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_plugins) or [LoopTorrent](https://looptorrent.net/) - VST Plugins 
 * [Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sfx_.2F_loops) - SFX & Loops
 * [SNES Soundfonts](https://www.williamkage.com/snes_soundfonts/) - SNES Soundfonts
-* [Fairusify](https://fairuseify.ml/) - Make a Copyrighted Song Fair Use
 * [Songwhip](https://songwhip.com/) - Find / Share Your Music on All Platforms
 * [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://iznaut.itch.io/bfxr), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - Sounds Effects Creator
 * [Fresh Stuff For You](https://freshstuff4you.com/) or [All4Daw](https://all4daw.com/) - DAWs / Samples / Presets
@@ -2013,7 +2012,6 @@ Twitch Stream Tracker
 * [MEGA Uploader X](https://t.me/MegaUploadXbot) - Remote Mega File Upload Bot
 * [GDrive Guides](https://t.me/gdriveguides) - GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)
 * [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - DDL to GDrive Tool
-* [Jybe.gg](https://jybe.gg/) - GDrive File Sync
 * [GDriveCLI](https://github.com/prasmussen/gdrive) - GDrive CLI
 * [gogdl-ng](https://github.com/gogdl-ng/gogdl-ng) - Google Drive Bulk Downloader
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
