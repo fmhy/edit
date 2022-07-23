@@ -410,6 +410,7 @@
 * [Free-Codecs](https://www.free-codecs.com/) - Codec Packs & Multimedia Tools
 * [Audio Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_plugins) or [LoopTorrent](https://looptorrent.net/) - VST Plugins 
 * [Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sfx_.2F_loops) - SFX & Loops
+* [SNES Soundfonts](https://www.williamkage.com/snes_soundfonts/) - SNES Soundfonts
 * [Fairusify](https://fairuseify.ml/) - Make a Copyrighted Song Fair Use
 * [Songwhip](https://songwhip.com/) - Find / Share Your Music on All Platforms
 * [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://iznaut.itch.io/bfxr), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - Sounds Effects Creator
@@ -517,7 +518,6 @@
 * [ISSE](http://isse.sourceforge.net/) - Source Separation Editor
 * [Get Song BPM](https://getsongbpm.com/) - Song Tempo Database
 * [MusicSpeedChanger](https://musicspeedchanger.com/) - Music Speed Changer
-* [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) - Musical Chord Progression 
 * [beets.io](http://beets.io/) / [2](https://github.com/beetbox/beets), [alto](https://github.com/ItsLychee/alto), [Zortam](https://www.zortam.com/), [MP3Tag](https://www.mp3tag.de/en/), [MusicBee](https://getmusicbee.com/) or [MusicBrainz](https://picard.musicbrainz.org/) - Music Metadata Organizer
 * [Mooval](https://www.mooval.de/) - Move Songs to or from Programs / Sites
 * [Croosfade](https://crossfade.io/) - Video and Audio Crossfading
@@ -541,8 +541,9 @@
 * [inAudible](https://github.com/rmcrackan/inAudible) - Audible to MP3 converter
 * [Soundiiz](https://soundiiz.com/) - Transfer Playlists Between Streaming Platforms 
 * [Exact Audio Copy](https://www.exactaudiocopy.de/) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper 
-* [#fretflip](https://fretflip.com/) - Create / Print Guitar Scales & Chord Charts 
+* [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) or [AutoChords](https://autochords.com/) - Chord Progression Generators
 * [HookTheory](https://www.hooktheory.com/trends) - Chord Progression Library 
+* [#fretflip](https://fretflip.com/) - Create / Print Guitar Scales & Chord Charts 
 * [MusicKit](https://musickit.jull.dev/) - Metronome, Tuner & Tone Generator 
 * [HyperSpeaker](https://github.com/solvencino/hyperspeaker) - Speaker Proxy 
 * [REW](http://www.roomeqwizard.com/) - Room Acoustic, Loudspeaker and audio device measurement
@@ -578,6 +579,7 @@
 * [CoFolios](https://cofolios.com/) - Portfolio Sharing
 * [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - Cover Page Templates
 * [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) or [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) or [30-seconds-of-interviews](https://30secondsofinterviews.org/) / [GitHub](https://github.com/30-seconds/30-seconds-of-interviews) - Common Interview Questions & Answers
+* [Reverse Interview](https://github.com/viraptor/reverse-interview) - Questions to ask Potential Employers
 * [LeetFree](https://sksusha8853.github.io/leetcode/index.html) - Leaked Google, Facebook & Amazon Interview Questions
 * [Interviews.school](https://interviews.school/) - Developer Interview Preparation Guide
 * [yangshun](https://github.com/yangshun/tech-interview-handbook) - Tech Interview Handbook 
@@ -717,7 +719,7 @@
 * [wallabag](https://wallabag.org/) - Save and Classify Articles
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - Tools / Apps to Run Flash Programs
 * [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/webcatalog/) or [web2desk](https://appmaker.xyz/web2desk/) - Turn Sites into Desktop Apps 
-* [Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Mataroa](https://mataroa.blog/), [Emanates Docs](https://emanates.deepjyoti30.dev/), [write freely](https://writefreely.org/) or [twtxt](https://github.com/buckket/twtxt) - Blogging Platform
+* [Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Multiverse](https://multiverse.plus/), [Mataroa](https://mataroa.blog/), [Emanates Docs](https://emanates.deepjyoti30.dev/), [write freely](https://writefreely.org/) or [twtxt](https://github.com/buckket/twtxt) - Blogging Platform
 * [Telescope](https://telescope.ac/) - Publishing Platform
 * [Odie](http://odie.us/) - Publish Google Docs to Web
 * [SpookyX](https://github.com/Fiddlekins/SpookyX) - Adds Features to Imageboards
@@ -728,7 +730,7 @@
 * [Twist](https://twist.com/) - Collaboration Chat Manager
 * [Hack.chat](https://hack.chat/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chat 
 * [Cirlos](https://www.cirlos.net/), [Miranda NG](https://www.miranda-ng.org/en/) or [WeeChat](https://weechat.org/) - Chat App
-* [KiwiIRC](https://kiwiirc.com/) - WebIRC Client
+* [KiwiIRC](https://kiwiirc.com/) or [TheLounge](https://thelounge.chat/) - WebIRC Client
 * [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [PeerLinks](https://peerlinks.io/) or [Bitchx](http://bitchx.sourceforge.net/) - IRC Client
 * [irc2go](https://en.irc2go.com/) - Browse IRC Chat Rooms
 * [LAN Messenger](https://lanmessenger.github.io/) - FOSS LAN Messenger / [GitHub](https://github.com/lanmessenger/lanmessenger)
@@ -1626,6 +1628,7 @@ Twitch Stream Tracker
 * [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Debloat Adobe Apps
 * [AATU](https://amdaputuningutility.com/) - Ryzen Mobile Laptop Tuning Utility
 * [NBFC](https://github.com/hirschmann/nbfc) - Laptop Fan Control
+* [FanControl](https://github.com/Rem0o/FanControl.Releases) - Fan Control
 * [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - Manage & Control NVIDIA Cards
 * [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify & View Hidden NVIDIA Settings
 * [NVIDIA Control Panel](https://rentry.co/gaydia) - NVIDIA Control Panel Without MS Store
@@ -1641,7 +1644,7 @@ Twitch Stream Tracker
 * [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - Windows System Utilities / [Suite](https://www.microsoft.com/EN-US/p/app/9P7KNL5RWT25) 
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](http://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - Process Monitor
 * [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) - Process Killer
-* [SpeedFan](http://www.almico.com/speedfan.php) - Hardware Monitor
+* [SpeedFan](http://www.almico.com/speedfan.php) or [SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - Hardware Monitor
 * [CoreTemp](https://www.alcpu.com/CoreTemp/) - Processor Temperature Monitor
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer 
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
@@ -1731,7 +1734,7 @@ Twitch Stream Tracker
 * [f.lux](https://justgetflux.com/), [LightBulb](https://github.com/Tyrrrz/LightBulb) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - Adjust Display Color / Temperature
 * [Twinkle Tray](https://twinkletray.com/) - System Tray Brightness Slider
 * [Dimmer](https://www.nelsonpires.com/software/dimmer) - Multi-Monitor Brightness Control
-* [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Manager
+* [DisplayFusion](https://www.displayfusion.com/) or [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Tools
 * [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - Show Desktop For Only One Monitor
 * [ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - Desktop Program, Video & Webpage Pins / Program Wallpapers
 * [Window Grid / Tiling Programs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_window_tiling_programs) - Window Managers
@@ -1777,6 +1780,7 @@ Twitch Stream Tracker
 * [Revo Uninstaller](https://www.revouninstaller.com/), [Soft Organizer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_soft_organizer), [Geek Uninstaller](https://geekuninstaller.com/), [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) or [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Software Uninstallation Tool
 * [O&O App Buster](https://www.oo-software.com/en/ooappbuster) - Remove Pre-Installed Microsoft Apps
 * [Update Notifier](http://cleansofts.org/view/update-notifier.html) - Scan Computer for Software Updates 
+* [Nemesis](https://forums.guru3d.com/threads/3rd-party-driver-amernime-zone-radeon-release-nemesis-22-6-1-whql-driverpack.436611/) - Custom Drivers for Discontinued GPUs
 * [SnappyDrivers](https://www.snappy-driver-installer.org/) - Update / Install Missing Drivers 
 * [Downloadkar](https://downloadkar.ir/) or [Drivers Collection](https://driverscollection.com/) - Device Drivers / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
@@ -1853,7 +1857,6 @@ Twitch Stream Tracker
 * [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) - Modify Windows 11 Taskbar
 * [RemoveEdgeWin11](https://rentry.co/RemoveEdgeWin11) - Remove Edge on Windows 11
 * [Boot Failure Troubleshooting Chart](https://i.imgur.com/QsxYtB4.jpg) - Boot Failure Troubleshooting Guide
-* [BetaWiki](https://betawiki.net/wiki/Main_Page) - Operating System / Software History / [Discord](https://discord.gg/XPz5Zm42tR)
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
 * [MTKClient](https://github.com/bkerler/mtkclient) - MTK Reverse Engineering / Flash Tool
 * [GetCID](https://www.getcid.info/) - Obtain Windows Confirmation ID
@@ -1969,6 +1972,7 @@ Twitch Stream Tracker
 * [MyPhoneExplorer](https://www.fjsoft.at/) - Manage / Sync Your Phone with PC
 * [RollMyFile](https://rollmyfile.com/) - Open Files Online
 * [Tmp.Ninja](https://tmp.ninja/) - Temp File Host (48hrs)
+* [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
 * [ozzillate](https://www.ozzillate.com/) - Transfer Files via Sound
 * [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How-to Safely Archive Files on Cloud Storage Sites
@@ -2028,6 +2032,7 @@ Twitch Stream Tracker
 * [Folder.GDrive](https://folder.gdrive.vip/) - GDrive Folder Link Generator
 * [GDToT](https://gdtot.eu/), [2](https://new1.gdtot.sbs/) - GDrive Manager
 * [Backup System](https://github.com/danielpy108/BackUpMySystem) - Backup Google Drive
+* [onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Self-Hosted OneDrive Directory
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4gb
 * [mf-dl](https://gitgud.io/Pyxia/mf-dl/) - Mediafire Bulk File Downloader 
 * [Baidu Bypass](https://baidu.crackhub.site/) - Bypass Baidu Links / [Guide](https://baidu.crackhub.site/help)
@@ -2064,7 +2069,7 @@ Twitch Stream Tracker
 * [File Juggler](https://www.filejuggler.com/) - Organize Files Automatically
 * [Shoko](https://github.com/shokoanime) - Anime Catalog Automation 
 * [Phockup](https://github.com/ivandokov/phockup) - Organize Photo / Video Files by Date 
-* [WeCompress](https://www.wecompress.com/), [Compress.com](https://www.compresss.com/) or [YouCompress](https://www.youcompress.com/) - Online File Compressor 
+* [WeCompress](https://www.wecompress.com/), [Compress.com](https://www.compresss.com/) or [YouCompress](https://www.youcompress.com/) - Online File Compressor
 * [czkawka](https://github.com/qarmin/czkawka) - Remove Unnecessary Files 
 * [DBAN](https://dban.org/) or [KillDisk](http://killdisk.com/killdisk-home.htm) - Data Removal Tool 
 * [UnLock IT](https://emcosoftware.com/unlock-it/download), [Lock Hunter](https://lockhunter.com/) or [FileExile](https://sourceforge.net/projects/filexile/) - File Unlocker / Deleter
