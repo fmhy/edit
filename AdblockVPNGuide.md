@@ -73,6 +73,7 @@
 * [ZoneWatcher](https://zonewatcher.com/) - DNS Backup Tool
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
+* [Technitium](https://technitium.com/dns) - Self-Hosted DNS Server
 
 ***
 
@@ -188,8 +189,7 @@
 * [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Database
 * [Crowdsec](https://crowdsec.net/) - Crowd-Sourced Intrusion Detection / Prevention / [GitHub](https://github.com/crowdsecurity/crowdsec)
 * [Fail2Ban](https://www.fail2ban.org/wiki/index.php/Main_Page) - Protect Servers from Brute Force Attacks / [GitHub](https://github.com/fail2ban/fail2ban)
-* [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - Anti-Censorship Tool Index 
-* [Your Freedom](https://www.your-freedom.net/), [Geneva](https://geneva.cs.umd.edu/) / [GitHub](https://github.com/kkevsterrr/geneva) or [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) - Anti-Censorship Tool
+* [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship), [Your Freedom](https://www.your-freedom.net/), [Geneva](https://geneva.cs.umd.edu/) / [GitHub](https://github.com/kkevsterrr/geneva), [Cloak](https://github.com/cbeuw/Cloak) or [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) - Anti-Censorship Tools
 * [Element](https://element.io/) / [Themes](https://github.com/aaronraimist/element-themes), [qTox](https://qtox.github.io/), [Utopia](https://u.is/en/), [linphone](https://www.linphone.org/), [Jami](https://jami.net/), [Tox](https://tox.chat/), [Bitmask](https://bitmask.net/) or [Wickr](https://wickr.com/) - Encrypted Messaging / Video Calls 
 * [Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
@@ -220,8 +220,9 @@
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
 * [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/), [Skytransfer](https://skytransfer.hns.siasky.net) or [upload-vaa](https://upload.vaa.red/) - Encrypted File Hosts 
 * [boom.fyi](https://www.boom.fyi/) - Temporary File Host
-* [EncFS MP](https://encfsmp.sourceforge.io/index.html), [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/), [GPG4Win](https://www.gpg4win.org/), [Kryptor](https://www.kryptor.co.uk/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - File Encryption Tool 
+* [EncFS MP](https://encfsmp.sourceforge.io/index.html), [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/), [GPG4Win](https://www.gpg4win.org/), [Encrypto](https://macpaw.com/encrypto), [Kryptor](https://www.kryptor.co.uk/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - File Encryption Tool 
 * [Filecrypt](https://filecrypt.cc/) - Encrypt File Links
+* [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
 * [PDFEncrypt](https://pdfencrypt.net/) - PDF File Encryption
 * [GPGTools](https://gpgtools.org/) - Encrypt & Sign Data / Communications 
 * [CiphersByRitter](http://ciphersbyritter.com/) - Cipher / Encryption Articles
@@ -454,6 +455,7 @@
 * **[Have I been Pwned?](https://haveibeenpwned.com/)** or [GhostProject](https://ghostproject.fr/) - Monitor Email Breaches
 * [EmailPrivacyTester](https://www.emailprivacytester.com/) - Email Privacy Tests 
 * [Email Forwarding Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_forwarding) - Hide Real Email Address'
+* [Duck Manager](https://github.com/weebi/duck-manager) or [ddgmail](https://github.com/lem6ns/ddgmail) - Manage @duck Aliases
 * [Check-Mail](https://check-mail.org/free-email-validation-api/) or [Validator](https://www.validator.pizza/) - Check Email Validity 
 * [OpenPGP](https://www.openpgp.org/) - Email Encryption 
 * [MetaClean for Gmail](https://www.adarsus.com/en/remove-metadata-from-gmail-attachments/) - Remove Metadata from Emails
@@ -489,7 +491,7 @@
 * **[How-to Bind VPN to Client](https://redd.it/ssy8vv)** - Bind VPN to Client to Avoid ISP Letters
 * **[Mullvad](https://mullvad.net/)** - [Pricing](https://i.imgur.com/LfjZ9G3.png) / [NetNS](https://github.com/chutz/mullvad-netns)
 * **[Proton](https://protonvpn.com)** - [Pricing](https://i.imgur.com/hkhZGg1.png) / No Torrenting w/ Free Version
-* **[Windscribe](https://windscribe.com)** - [Pricing](https://i.imgur.com/D7015rq.png) / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites) / Free Version Available / [Improved App](https://github.com/Windscribe/desktop-v2)
+* **[Windscribe](https://windscribe.com)** - [Pricing](https://i.imgur.com/D7015rq.png) / Free Version Available / [Improved App](https://github.com/Windscribe/desktop-v2) / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)
 * **[Surfshark](https://surfshark.com/)** - [Pricing](https://i.imgur.com/YaiKjpX.png)
 * **[Riseup](https://riseup.net/en/vpn)** - Free VPN 
 * **[Softether](https://www.softether.org/)** - Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx) / [Note](https://pastebin.com/TrSw7EpF)
@@ -512,7 +514,7 @@
 * [Syntropy](https://www.syntropystack.com/vpn), [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [n2n](https://github.com/ntop/n2n), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
 * [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)
 * [Kaspersky](https://www.kaspersky.co.uk/vpn-secure-connection) - Free VPN / 200 MB per day / No Account Required
-* [OpenConnect](https://www.infradead.org/openconnect/) - SSL VPN
+* [OpenConnect](https://www.infradead.org/openconnect/) - SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/)
 * [TurboVPN](https://turbovpn.com/) - Free VPN
 * [Free VPN Online](http://freevpnonline.com/) - Free VPN
 * [TouchVPN](https://touchvpn.net/) - Free VPN
