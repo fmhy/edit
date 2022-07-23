@@ -14,7 +14,6 @@
 * **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** or [Crocovid](http://crocovid.com/) - Multi-Site Search
 * **[How-to Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - Find Obscure Films
 * [Video Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_search_sites) - Search Video Sites / [CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)
-* [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) or [Stream IMDb](https://github.com/4L00/TemperMonkey-Scripts/) - Add Stream Search Buttons to IMDb
 
 * ***
 
@@ -171,6 +170,7 @@
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API
 * [Kodi](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi) - Streaming App
+* [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) or [Stream IMDb](https://github.com/4L00/TemperMonkey-Scripts/) - Add Stream Search Buttons to IMDb
 * [Letmewatch](https://letmewatch.app/) - Movies / TV / Extension / [GitHub](https://github.com/AdvithGopinath/LetMeWatch)
 
 ***
