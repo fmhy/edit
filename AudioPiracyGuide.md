@@ -139,6 +139,7 @@
 * [BakaRadio](https://www.bakaradio.net/app-bakaradio-player/) - Anime Radio
 * [Rainwave](https://rainwave.cc/), [Squid Radio](https://www.squid-radio.net/), [RPGGamers Radio](http://www.rpgamers.net/radio/), [VGMRadio](https://vgmradio.com/) or [Sitting On Clouds Radio](https://www.sittingonclouds.ru/) - Video Game Music Radio
 * [Nectarine](https://www.scenestream.net/demovibes/streams/) - Demo Scene Music Radio
+* [Yesterweb Live Radio](https://yesterweb.org/radio) - Independent Music Radio
 * [Radio Garden](https://radio.garden/) - Worldwide Radio
 * [Radiooooo](https://radiooooo.com/) - Radio / Time Machine
 * [420.moe](https://420.moe/) - 420 Radio 
@@ -388,7 +389,7 @@
 * [DramaOST](https://dramaost.com/) or [KDramaOST](https://kdramaost.com/en) - Asian Drama Soundtracks
 * [Doujin Cafe](https://discord.com/invite/doujincafe) or [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Music
 * [Keygen Music](http://www.keygenmusic.org/) - Keygen Music Archive
-* [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- MIDI Files 
+* [BitMidi](https://bitmidi.com/), [Geocities Midi's](https://archive.org/details/archiveteam-geocities-midi-collection-2009) or [VGMusic](http://www.vgmusic.com/)- MIDI Files 
 * [QueenMusicHall](http://www.queenmusichall.cz/) - Queen MIDIs, Audio, Photos
 * [BurntScarr](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_burntscarr) or [/r/MusicStems](https://www.reddit.com/r/MusicStems/) - STEMS
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games 
@@ -437,6 +438,7 @@
 * **[RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/)** - Artist Recommendations by Genre
 * [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Band Archive
 * [Metal Archives](https://www.metal-archives.com/) - Metal Band Archive
+* [Music-Map](https://www.music-map.com/), [Panther](http://panther.audio/), [Musicroamer](https://www.musicroamer.com/), [Gnoosic](https://www.gnoosic.com/), [GNOD](https://www.gnod.com/) or [What The Fuck Should I Listen To Right Now?](https://www.whatthefuckshouldilistentorightnow.com/) - Artist Discovery Tools
 * [45Cat](http://www.45cat.com/) - Vinyl Ratings / Reviews
 * [TapeFear](https://www.tapefear.com/) or [Discover Quickly](https://discoverquickly.com/) - Spotify Song Discovery
 * [Spotalike](https://spotalike.com/), [MagicPlaylist](https://magicplaylist.co/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generator
@@ -446,10 +448,8 @@
 * [Chosic](https://www.chosic.com/) - Song Discovery Tools
 * [UnknownMusicBot](https://t.me/UnknownMusicBot) - Play a Random Rare Song from YouTube 
 * [Random Album Bookmark Script](https://pastebin.com/rR4qrvnX) - Find Random Albums
-* [Music-Map](https://www.music-map.com/) or [Musicroamer](https://www.musicroamer.com/) - Similar Artist Discovery 
 * [BoilTheFrog](http://boilthefrog.playlistmachinery.com/) - Create Playlists From 2 Artists 
 * [WeirdSpot](https://www.weirdspot.fyi/) - Generate Playlists from Sentences
-* [Gnoosic](https://www.gnoosic.com/), [GNOD](https://www.gnod.com/) or [What The Fuck Should I Listen To Right Now?](https://www.whatthefuckshouldilistentorightnow.com/) - Artist Discovery Tool 
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - Generates Random Album Each Weekday 
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - Greatest 100 Lists
 * [Acclaimed Music](http://www.acclaimedmusic.net/) - Discover Acclaimed Music of the Times
