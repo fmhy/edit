@@ -1944,7 +1944,7 @@ Twitch Stream Tracker
 * [downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site Downloaders
 * [Awesome Storage](https://github.com/okhosting/awesome-storage) - File Storage Tools
 * [Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools) - File Tools for Telegram
-* [FreeOnlineEditor](https://freeonlineeditor.com/) or [TinyWow](https://tinywow.com/) - Multiple File Tools
+* [FreeOnlineEditor](https://freeonlineeditor.com/), [FileConverto](https://fileconverto.com/), [AiseeSoft](https://aiseesoft.com/) or [TinyWow](https://tinywow.com/) - Multiple File Tools
 * [horsicq](https://horsicq.github.io/) - Multiple File Programs / [GitHub](https://github.com/horsicq/)
 * [Pandoc](https://pandoc.org/) or [CometDocs](https://www.cometdocs.com/) - Document Converter
 * [Interior Generator](https://powerkdp.com/interior-generator/) / [2](https://designer.bookbolt.io/interior-generator.php) - Document Interior Generator
@@ -2061,7 +2061,7 @@ Twitch Stream Tracker
 * [File Juggler](https://www.filejuggler.com/) - Organize Files Automatically
 * [Shoko](https://github.com/shokoanime) - Anime Catalog Automation 
 * [Phockup](https://github.com/ivandokov/phockup) - Organize Photo / Video Files by Date 
-* [WeCompress](https://www.wecompress.com/), [Compress.com](https://www.compresss.com/) or [YouCompress](https://www.youcompress.com/) - Online File Compressor
+* [WeCompress](https://www.wecompress.com/), [Compress2Go](https://www.compress2go.com/), [Compress.com](https://www.compresss.com/), [Cloudpresso](https://cloudpresso.com/) or [YouCompress](https://www.youcompress.com/) - Online File Compressor
 * [czkawka](https://github.com/qarmin/czkawka) - Remove Unnecessary Files 
 * [DBAN](https://dban.org/) or [KillDisk](http://killdisk.com/killdisk-home.htm) - Data Removal Tool 
 * [UnLock IT](https://emcosoftware.com/unlock-it/download), [Lock Hunter](https://lockhunter.com/) or [FileExile](https://sourceforge.net/projects/filexile/) - File Unlocker / Deleter
