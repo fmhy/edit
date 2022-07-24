@@ -822,12 +822,6 @@ pass: paluch
 
 *** 
 
-#### Mirror Bot
-
-`aHR0cHM6Ly9taXJyb3Jib3Quc2FydXRvYmkud29ya2Vycy5kZXYv`
-
-*** 
-
 #### Public Drive Bot
 
 `aHR0cHM6Ly9pbmRleC5pc3VtaXQud29ya2Vycy5kZXYv`
@@ -837,12 +831,6 @@ pass: paluch
 #### blacklistedbois
 
 `aHR0cHM6Ly9kbC5ibGFja2xpc3RlZGJvaXMud29ya2Vycy5kZXYvMDov`
-
-*** 
-
-#### TorrentLeech Drive
-
-`aHR0cHM6Ly90b3JyZW50bGVlY2gudG9ycmVudGxlZWNoLWdkcml2ZS53b3JrZXJzLmRldi8=`
 
 *** 
 
@@ -1601,12 +1589,6 @@ pass: paluch
 #### Spotify++
 
 `aHR0cHM6Ly9yZWRkLml0L3B0NXV2OQpodHRwczovL2FwcGRiLnRvL2FwcC9jeWRpYS8xOTAwMDAwNTQwCmh0dHBzOi8vaXBhc3BvdC5hcHAvY2F0ZWdvcmllcy90d2Vha2VkYXBwcy5odG1sCmh0dHBzOi8vcmVwby5oYWNreW91cmlwaG9uZS5vcmcvc3BvdGlsaWZl`
-
-***
-
-#### ImSoLost
-
-`aHR0cDovL2ltc29sb3N0LmNvbS9ib29rcy8=`
 
 ***
 
