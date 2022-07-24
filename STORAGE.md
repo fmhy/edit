@@ -2692,7 +2692,7 @@ Good for finding classic, obscure & short films.
 * [cda.pl](https://www.cda.pl/)
 * [tilvids](https://tilvids.com/)
 * [bitchute](https://www.bitchute.com/)
-* [PeerTube](https://joinpeertube.org/), [2](https://peertube.tv/), [3](https://peer.tube), [4](https://search.joinpeertube.org/) / [Instances](https://instances.joinpeertube.org/instances)
+* [PeerTube](https://joinpeertube.org/), [2](https://search.joinpeertube.org/) / [Instances](https://instances.joinpeertube.org/instances)
 * [V-S Mobi](https://v-s.mobi/) 
 * [Videa](https://videa.hu/)
 * [youku](https://www.youku.com/)
