@@ -419,7 +419,6 @@
 * [Libribook](https://libribook.com/) 
 * [Directory of Open Access Books](https://www.doabooks.org/)
 * [BookGoldMine](https://www.bookgoldmine.com/)
-* [ImSoLost](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_imsolost) - 
 * [Penn Libraries](http://digital.library.upenn.edu/) + [Index](http://digital.library.upenn.edu/books/)
 * [BitDL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bitdl)
 * [114.116.28.83](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_114.116.28.83)
