@@ -21,7 +21,7 @@
 * [Cider](https://cider.sh/) - Streaming
 * [Resso](https://www.resso.com/in/) - Streaming
 * [Muffon](https://github.com/staniel359/muffon) - Streaming
-* [Deezer](https://www.deezer.com/) - Streaming
+* [Deezer](https://www.deezer.com/) - Streaming / [Unlock HiFi](https://git.freezerapp.xyz/uhwot/dzunlock)
 * [OdesliBot](https://t.me/odesli_bot) - Audio Stream Search Bot
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram 
 * [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Unlock Unavailable Netease Music
