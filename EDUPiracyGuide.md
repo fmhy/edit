@@ -50,7 +50,6 @@
 * [Canvas](https://www.canvas.net/) - Courses
 * [CourseF](https://www.coursef.com/) - Courses
 * [Study is wonderful](https://github.com/xioacd99/study-is-wonderful) - Courses
-* [Harvard Online Courses](https://pll.harvard.edu/catalog?keywords=&free[1]=1&max_price) - Courses
 * [Open HPI](https://open.hpi.de/) - Courses
 * [FindAndSolve](https://www.findandsolve.com/) or [CourseBuffet](https://www.coursebuffet.com/) - Search Engine
 * [LearnOutLoud](https://www.learnoutloud.com/) - Documentaries / Courses
@@ -129,8 +128,6 @@
 
 # ► Downloading
 
-* [Martin Luther King Complete](https://cryptostream.tech/audio/EDU_Martin_Luther_King_Complete_3GB/?DD) - MLK Speeches
-
 ## ▷ Courses
 
 * **[freesoff](https://freesoff.com/)** - Courses
@@ -151,7 +148,6 @@
 * [Super Huge Course Collection](https://babiato.co/threads/%F0%9F%94%A5%F0%9F%94%A5-super-huge-course-collection-700-courses-3tb-data-%F0%9F%94%A5%F0%9F%94%A5.40041/) - Courses
 * [online-courses](https://online-courses.club/) - Courses
 * [Coursesghar](https://coursesghar.com/) - Courses 
-* [CourseUpload](https://courseupload.net/) - Courses
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses 
 * [DLECourse](https://dlecourse.com/) - Courses 
 * [FreeCourseDL](https://freecoursedl.com/) - Courses 
@@ -176,7 +172,6 @@
 * [technet24](https://technet24.ir/category/videos) - Courses
 * [coursedown](https://coursedown.com/) - Courses
 * [cgpersia](https://cgpersia.com/category/download/learning) - Courses
-* [downloadpirate](https://www.downloadpirate.com/tutorial/) - Courses
 * [course-collections](https://rentry.co/course-collections) - Courses
 * [Free Udacity Skillshare Coursera EDX](https://t.me/Free_Udacity_Skillshare_Coursera) 
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
@@ -453,7 +448,6 @@
 * [Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/) - Online Learning Collections / Tours 
 * [Gez.la](https://gez.la/) - Virtual Tours Map
 * [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour 
-* [Chauvet Cave](https://archeologie.culture.fr/chauvet/en/explore-cave/) - Chauvet-Pont-d'Arc Cave Virtual Tour 
 * [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - Spitfire Mark IX Cockpit Interactve Panorama 
 * [Virtual Vist Tours](https://www.virtualvisittours.com/) - Ireland Virtual Tours 
 * [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [CityWalks](https://citywalks.live/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulator
@@ -689,7 +683,6 @@
 * [GCFGlobal](https://edu.gcfglobal.org/) - Tech Tutorials
 * [CS 182 Deep learning](https://cs182sp21.github.io/) - Deep Neural Network Lesson Slides
 * [OpenSyllabus](https://opensyllabus.org/) or [LanguageDrops](https://languagedrops.com/) - Syllabus Search / Info
-* [Edpuzz Ninja](https://edpuzz.ninja/) - Educational Puzzle Solving Tool 
 * [PowerInBooks](https://powerinbooks.xyz/temp/) or [LitSolutions](https://www.litsolutions.org/) - Textbook Solutions 
 * [LabXchange](https://www.labxchange.org/) - Science / Interactive
 * [AskNature](https://asknature.org/) - Natural Strategies / Solutions 
