@@ -710,7 +710,6 @@
 * [Eiverr](https://www.eiverr.com/) - Premium Account Cookies
 * [Voice Dictation](https://dictation.io/) - Type with Voice 
 * [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - Manage / Store Bookmarks
-* [Axomark](https://www.axomark.xyz/) - Collaborative Bookmarking
 * [Instapaper](https://www.instapaper.com/) - Bookmarking Tool
 * [Pilgrim](http://pilgrim.are.na/) - Tree Style Path Bookmarking
 * [Bort](https://bort.io/) - Bookmark Manager that Syncs with Dropbox 
@@ -849,7 +848,7 @@
 * [Gemini Portal](https://portal.mozz.us/gemini/gemini.circumlunar.space/), [2](https://yesterweb.org/gemini.html) - Gemini to https Web Proxy Service
 * [StockBrowser](https://stackbrowser.com/), [Rambox](https://rambox.app/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browser
 * [Browserling](https://www.browserling.com/) - Browser Emulators
-* [n.eko](https://n.eko.moe/) - Self-Hosted Virtual Browser
+* [n.eko](https://neko.m1k1o.net) / [Github](https://github.com/m1k1o/neko) - Self-Hosted Virtual Browser
 * [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chrome without Google
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
 * [Safari Windows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_safari_windows) - Safari for Windows
@@ -991,7 +990,6 @@
 * [jii.li](https://jii.li/) - `jii.li/hNFXP`
 * [bitlink.vn](https://bitlink.vn/) - `bitlink.vn/1V61j`
 * [bitby.me](https://bitby.me/) - `bitby.me/IXxbR`
-* [bitty.id](https://bitty.id/) - `bitty.id/42hix6hj`
 * [qrvn.cc](http://qrvn.cc/) - `qrvn.cc/Zzue41i`
 * [Shrinke.me](https://shrinke.me/) - `shrinke.me/1OpB2`
 * [Rebrandly](https://www.rebrandly.com/) - `rb.gy/4m25hq` / [Extension](https://mybrowseraddon.com/g-url-shortener.html)
@@ -1215,7 +1213,7 @@
 * [Discord-Webhook-Delete](https://github.com/fknMega/Discord-Webhook-Delete) - Webhook Remover
 * [Embed Visualizer](https://embed.discord.website/) - Embed Visualization Tool 
 * [Chimera](https://github.com/CedArctic/Chimera) - System Remote Control 
-* [The Cleaner](https://cleaner.leodev.xyz/) - Remove Spam / Phishing Links
+* [The Cleaner](https://cleanerbot.xyz/) - Remove Spam / Phishing Links
 * [Discord Reputation](https://discordrep.com/) - Prevent Discord Fraud
 * [Discord Auto Upload](https://github.com/tardisx/discord-auto-upload) - Auto Upload Screenshots
 * [Discord Creation Date Check](https://hugo.moe/discord/discord-id-creation-date.html) - Check Creation Date of User / Channel / Server / [GitHub](https://github.com/hugonun/discordid2date)
