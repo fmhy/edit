@@ -1009,7 +1009,6 @@
 * [offf.to](https://offf.to/) - Short Links via Browser
 * [Anonymiz](https://anonymiz.com/shorten-url) - Anonymous URLs - `anonymiz.com/vwiq`
 * [Anon.to](https://anon.to/) - Anonymous URLs - `anon.to/7SWqpG`
-* [sh4re.be](https://sh4re.be/) - Anonymous URLs - `sh4re.be/20146`
 * [Thinfi](https://thinfi.com/) - Password protect a short URL - `thinfi.com/q8aw`
 * [ShadyURL](http://www.shadyurl.com/) - Make Suspicious Looking URLs - `5z8.info/warez_zozu`
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot 
@@ -1164,7 +1163,6 @@
 * [Distok](http://distok.top/stickers/), [DiscordFreeStickers](https://github.com/An00nymushun/DiscordFreeStickers) or [FreeCommunityStickers](https://github.com/discord-stickers/FreeCommunityStickers)  - Free Discord Stickers 
 * [Discord Sticker Viewer](https://sticker-view.vercel.app/) - View Discord Stickers
 * [Discord Image Downloader Go](https://github.com/Seklfreak/discord-image-downloader-go) - Discord Image Downloader
-* [Dispatch](https://www.dispatchbot.ml/) - Group Discord DMs
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
 * [LAN Party VPN](https://github.com/gyf304/lpvpn) - Run VPN on top of Discord
 * [DiscordFS](https://github.com/dhrumilp15/discordfs) - Discord File Search
@@ -1357,7 +1355,6 @@
 * [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels 
 * [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
 * [Reddit Comments for YouTube](https://github.com/tayloroneill/Reddit-Comments-for-YouTube), [Upvote Anywhere](https://github.com/z0ccc/Upvote-Anywhere) or [Karamel](https://chrome.google.com/webstore/detail/karamel-view-reddit-comme/halllmdjninjohpckldgkaolbhgkfnpe?hl=en) - Replace YouTube Comments with Reddit Comments
-* [YouTube Live Comments](https://addons.mozilla.org/en-US/firefox/addon/ytlc/) - Show YouTube Live Comments during Playback 
 * [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix Youtube Search & Declutter Homepage 
 * [youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Video Like / Dislike Hotkeys
 * [YouTube Chronological Order](https://github.com/SleekPanther/youtube-chronological-order) - Watch YouTube Videos in Chronological Order 
@@ -1780,7 +1777,7 @@ Twitch Stream Tracker
 * [Update Notifier](http://cleansofts.org/view/update-notifier.html) - Scan Computer for Software Updates 
 * [Nemesis](https://forums.guru3d.com/threads/3rd-party-driver-amernime-zone-radeon-release-nemesis-22-6-1-whql-driverpack.436611/) - Custom Drivers for Discontinued GPUs
 * [SnappyDrivers](https://www.snappy-driver-installer.org/) - Update / Install Missing Drivers 
-* [Downloadkar](https://downloadkar.ir/) or [Drivers Collection](https://driverscollection.com/) - Device Drivers / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [Drivers Collection](https://driverscollection.com/) - Device Drivers / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
 * [NotMyFault](https://docs.microsoft.com/en-us/sysinternals/downloads/notmyfault) - Driver & Hardware Problem Identification Tool
 * [Scoop](https://scoop.sh/) - Command-Line Installer / [GitHub](https://github.com/ScoopInstaller/Scoop)
