@@ -47,12 +47,10 @@
 * [Kainet](https://kainet.rocks/) - Browser Music
 * [Mp3Deer](https://mp3deer.com/) - Browser Music
 * [Last.fm](https://www.last.fm/) - Browser Music
-* [Just Hear It](http://justhearit.com/hear/Iv) - Browser Music
 * [YesPlayMusic](https://music.qier222.com/) - Browser Music
 * [MP3Paw](https://mp3paw.wiki/) - Browser Music
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
 * [Tancpol](https://tancpol.net/) - Browser Music
-* [MP4Juice ](https://mp4juice.cc/) - Browser Music
 * [Cliggo](https://music.cliggo.com/) - Browser Music
 * [Mixupload](https://mixupload.com/) - Browser Music
 * [DMO](https://dance-music.org/) - Electronic
@@ -267,7 +265,6 @@
 * **[Damon's Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_damon.27s_game_soundtracks)**, [Squid-Board](https://www.squid-board.ru/) / [2](https://www.squid-board.org/), [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://codeberg.org/sun/VGMLoader) / [2](https://github.com/obskyr/khinsider), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - Video Game Soundtracks
 * [The Last Disaster](https://thelastdisaster.vip/), [2](https://thelastdisaster.org/) - MP3 / FLAC
 * [SongsLover](https://songslover.vip/) - MP3
-* [FreshRemix](http://freshremix.ru/) - MP3
 * [VKMusic](https://denr01.com/vkm/) - MP3 / User: anon / pass: 12345
 * [nodata](https://nodata.tv/) - MP3
 * [Black Organization](https://blackorganizationmp3.wixsite.com/music) - MP3
@@ -285,7 +282,6 @@
 * [RockDownload](https://www.rockdownload.org/) - MP3
 * [DeadPulpit](https://www.deadpulpit.com/) - MP3
 * [24NaiJamMuzic](https://www10.24naijamuzic.com/) - MP3
-* [frkmusic](https://www.frkmusic.site/) - MP3
 * [musify](https://musify.club/) - MP3
 * [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - MP3
 * [Music for the masses !](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_music_for_the_masses_.21) - MP3
@@ -305,7 +301,7 @@
 * [Tyler](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_tyler) - MP3
 * [24naijamuzic](https://www11.24naijamuzic.com/album/) - MP3
 * [FLAC Attack](https://flacattack.net/) - FLAC
-* [Lossless-Music](https://lossless-music.org/) or [Flaccat](https://flaccat.com/) - FLAC
+* [Lossless-Music](https://lossless-music.org/) - FLAC
 * [Losslessma](https://losslessma.net/) - FLAC
 * [SearchLossless](https://searchlossless.com/) - FLAC
 * [LosslessNews](https://flac1.hd24bit.com/) - FLAC
