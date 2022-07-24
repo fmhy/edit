@@ -166,6 +166,11 @@
 * [ROM World](http://www.romworldonline.com/) - ROMs / [How-to](https://i.imgur.com/Mqab82O.png)
 * [LegendaryRepacks](https://discord.gg/RUSNHSk)
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - ROMs / Torrent
+* [Switch ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - ROMs / Switch
+* [MarioCube](https://mariocube.com/) - ROMs / Wii / Gamecube
+* [3DS ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - ROMs / 3DS
+* [Gameboy ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gameboy_roms) - ROMs / Gameboy
+* [PS4 ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ps4_roms) - ROMs / PS4
 * [Eclipse](https://eclipseemu.me/play/) - Online Mobile Multi-Console Emulator 
 * [PopStarter](https://www.psx-place.com/threads/popstarter.19139/) - PS1 Emulator for PS2 / [Converter](https://www.psx-place.com/resources/psxvcd-by-englishl1989.669/) / [Setup](https://github.com/Edvaniojosedasilva1992/Instalador-POPStarter)
 * [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
