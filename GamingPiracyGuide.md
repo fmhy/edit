@@ -146,7 +146,6 @@
 * [ROMsPURE](https://ROMspure.cc/) - Emulators / ROMs
 * [ROMs Games](https://ROMsgames.net/) - Emulators / ROMs
 * [CoolROMs](https://coolrom.com.au/) - Emulators / ROMs / Use ["Alt DL Link"](https://i.imgur.com/KHfeWNX.png)
-* [SoftCobra](https://www.softcobra.com/) - ROMs / [Block Overlay](https://github.com/NicolaeNMV/BehindTheOverlay)
 * [All Xbox Game](https://downloadgamexbox.com/) - ROMs
 * [RomToHome](https://romtohome.com/) - ROMs
 * [Sundby](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sundby) - ROMs
