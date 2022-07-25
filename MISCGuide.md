@@ -1289,6 +1289,7 @@
 * [Rearrange Tabs](https://chrome.google.com/webstore/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga?hl=en) - Rearrange Tabs
 * [chromewm](https://gitlab.com/EduCampi/chromewm) - Tile Windows / Emulate Workspaces
 * [Better OneTab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg) - Merge & Organize Tabs
+* [Share Tabs](https://chrome.google.com/webstore/detail/share-tabs/dneibnomihlihbnibiblbmeppafmeacg) - Share Tabs Other Browser
 * [Popup Tab Switcher](https://chrome.google.com/webstore/detail/popup-tab-switcher/cehdjppppegalmaffcdffkkpmoflfhkc) - Improved Tab Switching
 * [Relative Bookmarks](https://github.com/duiker101/relative_bookmarks) - Add Relative Bookmarks
 * [Remarkable](https://github.com/samueldobbie/remarkable-extension) - Remove Dead Bookmarks / Refresh Icons 
