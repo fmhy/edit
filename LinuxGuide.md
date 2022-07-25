@@ -69,6 +69,8 @@
 * [WSL](https://docs.microsoft.com/en-us/windows/wsl/) or [Tunic](https://github.com/mikeslattery/tunic) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
 * [RockstarKernel_WSL2](https://github.com/Dhruvgera/RockstarKernel_WSL2) - Windows Subsystem Kernal
 * [sbupdate](https://github.com/andreyv/sbupdate) - Generate & Sign kernel images for UEFI Secure Boot Arch Linux 
+* [Boxes](https://wiki.gnome.org/Apps/Boxes) - Virtual Machine Manager
+* [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Kernel-Based Virtual Machine
 * [Darling](https://www.darlinghq.org/) - Run MacOS Programs on Linux
 * [OSX-KVM](https://github.com/kholia/OSX-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - MacOS Virtual Machine
 * [InstantBox](https://github.com/instantbox/instantbox) - Temporary Linux Systems
@@ -166,7 +168,6 @@
 * [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
 * [utils](https://github.com/Loupeznik/utils) or [UsefulLinuxShellScripts](https://github.com/jackrabbit335/UsefulLinuxShellScripts) - Linux Shell Tool Scripts
 * [Mayfrost Guides](https://github.com/mayfrost/guides) - Linux / Computing Guides
-* [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Easy Way to Use KVM
 * [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - Run Windows Apps in Linux 
 * [Ulauncher](https://ulauncher.io/) - Application Launcher
 * [DeskCut](https://github.com/NayamAmarshe/DeskCut) - Desktop Shortcuts App 
@@ -343,6 +344,8 @@
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) - Download MacOS
 * [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions MacOS
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
+* [Boot Camp](https://support.apple.com/boot-camp) - Windows Bootloader 
+* [Docker OSX](https://github.com/sickcodes/Docker-OSX) - Mac VM in Docker
 * [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - MacOS Virtualbox Installer
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 Desktop Client for macOS
 * [Subsonic](https://github.com/twostraws/Subsonic) - SwiftUI Audio Player
@@ -418,8 +421,8 @@
 * [Sim Daltoinism](https://michelf.ca/projects/sim-daltonism/) - Color Blindness Simulator
 * [AnimeBox](https://www.animebox.es/) - Booru Client
 * [Hachidori](https://malupdaterosx.moe/hachidori/) - Automatically Update MAL/Anilist/Kitsu Lists
-* [Vim](https://github.com/macvim-dev/macvim) - Code Editor
 * [Magit!](https://magit.vc/) - Git Text-Based UI
+* [Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_code_editors) - Code Editing Apps
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
 * [NHCalc](https://github.com/KhaosT/nhcalc) - Compute Image NeuralHash
 * [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert NeuralHash for CSAM Detection to ONNX / [Collision Finder](https://github.com/anishathalye/neural-hash-collider)
