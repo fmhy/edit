@@ -62,18 +62,19 @@
 * [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/), [FreeMyIP](https://freemyip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
 * [Encrypted DNS Resolvers](https://www.privacytools.io/providers/dns/)
 * [DNS Resolver Privacy-First](http://doh.tiar.app/) - DNS Resolver
-* [ControlD](https://controld.com/) or [Hetzner](https://www.hetzner.com/dns-console?country=us) - DNS Manager
+* [ControlD](https://controld.com/), [DNS Jumper](https://sordum.org/7952/dns-jumper-v2-1/) or [Hetzner](https://www.hetzner.com/dns-console?country=us) - DNS Manager
 * [Spamhaus](https://www.spamhaus.org/) or [1Hosts](https://o0.pages.dev/) / [GitHub](https://github.com/badmojr/1Hosts) - DNS Blocklists
 * [block.js](https://gist.github.com/rtfpessoa/7fdd3d4121ee4acafe56e8425154888a) - DNS YouTube Blocklists
 * [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist
 * [BIND](https://gitlab.isc.org/isc-projects/bind9) - Portable DNS Protocol
 * [Maza](https://maza-ad-blocking.andros.dev/) - Local DNS Adblocking 
-* [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter/) - DNS filter proxy
+* [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter/) - DNS Filter Proxy
 * [DNS Party](https://encrypted-dns.party/) - DNS Config Profiles for Apple Devices Encrypted 
 * [ZoneWatcher](https://zonewatcher.com/) - DNS Backup Tool
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 * [Technitium](https://technitium.com/dns) - Self-Hosted DNS Server
+* [DNS Perf](https://dnsperf.com/dns-speed-benchmark) or [NameBench](https://code.google.com/archive/p/namebench/) - DNS Speed Tests
 
 ***
 
@@ -239,8 +240,8 @@
 * [Eraser](https://eraser.heidi.ie/) or [Lethe](https://github.com/rafael-santiago/lethe) - Wipe / Overwrite Hard Drive Data 
 * [Free Hide Folder](https://www.cleanersoft.com/hidefolder/free_hide_folder.htm) or [Wise Folder Hider](http://www.wisecleaner.com/wise-folder-hider-free.html) - Hide Folders / Files 
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - Run a Oracle VM on TailsOS
-* [Mastodon](https://joinmastodon.org/), [diaspora](https://diasporafoundation.org/), [MissKey](https://join.misskey.page/en/), [Pleroma](https://pleroma.social/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendi](https://friendi.ca/) or [Zotlabs](https://zotlabs.org/page/hubzilla/hubzilla-project) - Decentralized Social Network
-* Mastodon Tools - [Instances](https://instances.social/) / [Web Client](https://pinafore.social/) / [Desktop Client](https://flathub.org/apps/details/com.github.bleakgrey.tootle), [2](https://github.com/h3poteto/whalebird-desktop) / [Account Link](https://moa.party/) / [Crosspost](https://crossposter.masto.donte.com.br/) / [Schedule](https://scheduler.mastodon.tools/), [2](https://plan.fedilab.app/) / [Embedded Feeds](https://www.mastofeed.com/) / [Timelines](https://mastovue.glitch.me/)
+* [Mastodon](https://joinmastodon.org/), [diaspora](https://diasporafoundation.org/) / [2](https://diasp.org/), [MissKey](https://join.misskey.page/en/), [Pleroma](https://pleroma.social/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendi](https://friendi.ca/) or [Zotlabs](https://zotlabs.org/page/hubzilla/hubzilla-project) - Decentralized Social Network
+* Mastodon Tools - [Instances](https://instances.social/) / [Web Client](https://pinafore.social/) / [2](https://mastodon.social/) / [Desktop Client](https://flathub.org/apps/details/com.github.bleakgrey.tootle), [2](https://github.com/h3poteto/whalebird-desktop) / [Account Link](https://moa.party/) / [Crosspost](https://crossposter.masto.donte.com.br/) / [Schedule](https://scheduler.mastodon.tools/), [2](https://plan.fedilab.app/) / [Embedded Feeds](https://www.mastofeed.com/) / [Timelines](https://mastovue.glitch.me/)
 * [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/) - Stop Telemetry Data Leaks
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - Track Torrent Download Leaks
 * [Safing](https://safing.io/) - Monitor Network / Block Trackers / [GitHub](https://github.com/Safing/portmaster)
@@ -250,7 +251,7 @@
 * [GreyNoise](https://www.greynoise.io/) - Internet Noise Analysis
 * [Terms of Service; Didn't Read](https://tosdr.org/) - TLDR TOS
 * [V2Ray](https://v2ray.com/en/), [V2Fly](https://www.v2fly.org/), [V2RayN](https://github.com/freefq/free) or [v2ray-core](https://github.com/v2fly/v2ray-core) - DIY Privacy Network
-* V2Ray Tools - [GUI](https://qv2ray.net/), [2](https://github.com/2dust/v2rayN), [3](https://github.com/Qv2ray/Qv2ray) / [GeoIP](https://github.com/Loyalsoldier/geoip) / [Tutorial](https://github.com/freefq/tutorials)
+* V2Ray Tools - [GUI](https://qv2ray.net/), [2](https://github.com/2dust/v2rayN), [3](https://github.com/Qv2ray/Qv2ray) / [GeoIP](https://github.com/Loyalsoldier/geoip) / [Free Server](https://fanqiang.network/) / [Tutorial](https://github.com/freefq/tutorials)
 * [Scout](https://www.scout.tel/phone-number-lookup) - Phone Number Lookup / Safety Check 
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - Get Telephone Carrier Data 
 * [/r/Privacy](https://reddit.com/r/privacy),  [/r/TheHatedOne](https://www.reddit.com/r/thehatedone), [/r/PrivacyToolsIO](https://www.reddit.com/r/privacytoolsIO) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - Privacy Discussion, News & Tools
@@ -336,7 +337,7 @@
 ## ▷ Browser Tools
 
 * **[Tor Browser](https://www.torproject.org/)** or [Lokinet](https://lokinet.org/) - Onion-Routed Browser
-* **Tor Tools** - [Wiki](https://gitlab.torproject.org/tpo/team/-/wikis/home) / [Unblock Tor](https://i.imgur.com/bQStFyI.gifv) / [Anonymity Tips](https://support.torproject.org/#staying-anonymous) / [Leak Scan](https://github.com/s-rah/onionscan) / [IP Test](https://check.torproject.org/) / [Auto IP Switch](https://github.com/seevik2580/tor-ip-changer) / [Access Client](https://dragonfruit.network/onionfruit) / [GitHub](https://github.com/dragonfruitnetwork/onionfruit/) / [Python Controller](http://vt5hknv6sblkgf22.onion/index.html) / [Default Gateway](https://github.com/htrgouvea/nipe) / [Proxy](https://reqrypt.org/tallow.html), [2](https://github.com/basil00/TorWall), [3](https://www.whonix.org/)
+* **[Tor Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tor_tools)** - Tor Tools / Guides
 * **[ffprofile](https://ffprofile.com/)**, **[ghacks-user.js](https://github.com/arkenfox/user.js)**, [firefox-debloat](https://github.com/amq/firefox-debloat), [pyllyukko](https://github.com/pyllyukko/user.js/) - Privacy Hardened Firefox / [Warning](https://i.imgur.com/ZMQJHwC.png) / [Guide](https://brainfucksec.github.io/firefox-hardening-guide)
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - Privacy Focused Browsers 
 * **[Vytal.io](https://vytal.io/)**, [everysiteknows](http://everysiteknows.ferrucc.io/) or [What every Browser knows about you](https://webkay.robinlinus.com/) - See What Your Browser Knows About You
@@ -392,7 +393,7 @@
 * [uBO-Scope](https://github.com/gorhill/uBO-Scope) - Measure 3rd Party Exposure 
 * [YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends) 
 * [Wikiless](https://wikiless.org/) - Wikipedia Frontend / [Source](https://codeberg.org/orenom/Wikiless)
-* [nitter](https://nitter.net/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
+* [Nitter](https://nitter.net/) or [NitterDV](https://nitter.usethetools.org/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
 * [Reddit Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_frontends)
 * [ProxiTok](https://proxitok.herokuapp.com/) - TikTok Frontend / [GitHub](https://github.com/pablouser1/ProxiTok)
 * [Cusdis](https://cusdis.com/) - Privacy-Focused Comment System / [GitHub](https://github.com/djyde/cusdis)
