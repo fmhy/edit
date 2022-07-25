@@ -79,7 +79,8 @@
 * [IRuler](https://iruler.net/) - Turn Device into Ruler
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) or [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools) - Digital Forensics Tools  
 * [Chaotic Shiny](http://chaoticshiny.com/) - Fantasy Writing Generator 
-* [GitKraken Timeline](https://timelines.gitkraken.com/), [Timeline Cascade](https://cascade.page/) / [GitHub](https://github.com/kochrt/cascade.page), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Timeline Creation Tool
+* [GitKraken Timeline](https://timelines.gitkraken.com/), [Timeline Cascade](https://cascade.page/) / [GitHub](https://github.com/kochrt/cascade.page), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
+* [Timeliner](https://github.com/mholt/timeliner) - Create Personal Digital Timeline
 * [SwimLanes](https://swimlanes.io/) or [Diagrams.net](https://www.diagrams.net/) - Create Diagrams
 * [WhatDog](https://www.bing.com/visualsearch/Microsoft/WhatDog) - Dog Breed Identification Tool 
 * [tusk](https://tusk.page/) - Give & Receive Anonymous Feedback 
@@ -293,7 +294,7 @@
 * [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - Watch, download and Organize public video URLs
 * [WDFlat](https://www.wdflat.com/) - Stream Elements
 * [Streamon](https://getstreamon.com/) - Stream to Instagram from PC / [GitHub](https://github.com/haxzie/instagram-live-streamer)
-* [VTuber References](https://docs.google.com/spreadsheets/d/15UpI8GEqv22T45AD3L1EgcPB4l2Tvr64aDgLq7xZfMA/htmlview) or [Vtube Studio](https://denchisoft.com/) - VTuber Tools
+* [VTuber References](https://docs.google.com/spreadsheets/d/15UpI8GEqv22T45AD3L1EgcPB4l2Tvr64aDgLq7xZfMA/htmlview), [Vignette](https://vignetteapp.org/) or [Vtube Studio](https://denchisoft.com/) - VTuber Tools
 * [Kalidoface 3D](https://3d.kalidoface.com/), [Animaze](https://www.animaze.us/) or [Gazo Tuber](https://ai-risun.itch.io/gazo-tuber) - VTuber Characters
 * [avatarify-python](https://github.com/alievk/avatarify-python) or [veadotube](https://olmewe.itch.io/veadotube-mini) - Video Call Avatars
 * [screengif](https://github.com/dergachev/screengif), [gifcap](https://gifcap.dev/) / [GitHub](https://github.com/joaomoreno/gifcap) or [licecap](https://www.cockos.com/licecap/) - Turn Screencasts into GIFs
@@ -744,7 +745,7 @@
 * [Pyrite](https://github.com/garage44/pyrite) - Self-Hosted Video Calls 
 * [Live Curtain](https://livecurtain.com/) - Countdown Curtain For Online Meeting
 * [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Nertivia Chat](https://nertivia.net/), [Mumble](https://www.mumble.info/), [Zoiper](https://www.zoiper.com/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - Voice Chat 
-* [IMumble](https://www.imumble.nl/) - Voice Chat Server
+* [IMumble](https://www.imumble.nl/), [VoicePacket](https://www.voicepacket.net/) or [Guildbit](https://guildbit.com/) - Voice Chat Servers
 * [Gather](https://gather.town/), [Vircadia](https://vircadia.com/) or [OpenSimulator](http://opensimulator.org/) - Virtual World Server
 * [FireStorm Viewer](https://www.firestormviewer.org/) - Virtual World Viewer
 * [Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_sites) - No Verification Required Email Sites
@@ -1131,7 +1132,6 @@
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - Discord Tools
 * [Client-Modding-Guide](https://github.com/saintwithataint/Client-Modding-Guide/blob/main/PimpMyClient.md) - Modify Your Discord Client
 * [ArmCord](https://armcord.smartfridge.space/) - Lightweight Discord Client / [GitHub](https://github.com/ArmCord/ArmCord)
-* [Powercord](https://powercord.dev/) - Anti-Telemetry Discord / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_powercord_tools) 
 * [Dark-Discord](https://github.com/snappercord/Dark-Discord) - Dark Theme for BetterDiscord & Powercord 
 * [Powerconvert](https://convert.creatable.cafe/) - Convert BetterDiscord themes to Powercord
 * [bdCompat](https://github.com/Juby210/bdCompat) - Use BD Plugins in Powercord
@@ -1445,6 +1445,7 @@ Twitch Stream Tracker
 
 * **[TweetBeaver](https://tweetbeaver.com/)** or [TwopCharts](https://twopcharts.com/) - Multiple Twitter Tools 
 * **[NoFT](https://noft.gg/)** - Automatically Block all NFT Profile Pictures / [GitHub](https://github.com/ottomated/noft)
+* [Nitter](https://nitter.net/) or [NitterDV](https://nitter.usethetools.org/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
 * [/r/Twitter](https://reddit.com/r/Twitter) - Twitter Subreddit
 * [Awesome Twitter Bots](https://github.com/amandeepmittal/awesome-twitter-bots) - Twitter Bot Index
 * [TumblThree](https://github.com/TumblThreeApp/TumblThree) - Twitter / Tumbl Backup Tool
@@ -1719,7 +1720,7 @@ Twitch Stream Tracker
 * [Mouseable](https://github.com/wirekang/mouseable) - Replace Mouse with Keyboard
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [TweakUtility](https://github.com/Craftplacer/TweakUtility), [MagicX Toolbox](https://github.com/Ahsan40/MagicX-Toolbox), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - Windows Tweaks
 * [Revertservice](http://revertservice.com/) - Default configurations of Windows services
-* [Win10 Widgets](https://win10widgets.com/), [BeWidgets](https://www.microsoft.com/en-us/p/bewidgets/9nq07fg50h2q) or [Gadgets Revived](https://gadgetsrevived.com/) - Widgets for Windows 
+* [Win10 Widgets](https://win10widgets.com/), [BeWidgets](https://www.microsoft.com/en-us/p/bewidgets/9nq07fg50h2q), [Eww](https://github.com/elkowar/eww) or [Gadgets Revived](https://gadgetsrevived.com/) - Widgets for Windows 
 * [Übersicht](https://tracesof.net/uebersicht/) - System Command Widgets
 * [Command Not Found](https://command-not-found.com/) - Install Missing Commands
 * [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Windows API Tricks
