@@ -33,6 +33,7 @@
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
 * [GamingSmart](https://gamingsmart.com/) - Game Sensitivity Converters
 * [WindowedBorderlessGaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming), [Borderless-Gaming-Tool](https://github.com/r57zone/Borderless-Gaming-Tool) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games
+* [Lossless Scaling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_lossless_scaling) - Windowed Game Scaling
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window
 * [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack) or [Flawless Widescreen](http://www.flawlesswidescreen.org/) - Widescreen Fixes
 * [DisplayMagician](https://github.com/terrymacdonald/DisplayMagician) - Per-Game Display Profiles
@@ -45,7 +46,9 @@
 * [Save Game World](http://www.savegameworld.com/), [savegamedownload](https://www.savegamedownload.com/), [yoursavegames](https://www.yoursavegames.com/), [savesforgames](https://savesforgames.com/), [savegamefiles](https://www.savegamefiles.com/), [savegame-download](https://savegame-download.com/) or [savegame](https://savegame.pro/) - PC Game Save Downloads
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
 * [CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - Cyberpunk 2077 Save Editor
-* [Koalageddon](https://github.com/acidicoala/Koalageddon/) - DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay
+* [Koalageddon](https://github.com/acidicoala/Koalageddon/) - DLC Unlocker for Steam, Epic, Origin, EA & Uplay
+* [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin & EA
+* [DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=104412) - DLC Unlocker for EA & Origin
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - Controller Connectivity Testers
 * [Aim Lab](https://aimlab.gg/), [AimBooster](http://www.aimbooster.com/), [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training Tools & Games
 * [CrossOver](https://github.com/lacymorrow/crossover) or [HudSight](https://hudsight.com/) - Crosshair Overlay
@@ -220,7 +223,7 @@
 * [The Wheelhaus](https://thewheelhaus.com/) - Find Random Steam Games
 * [Steamless](https://github.com/atom0s/Steamless) - DRM Remover
 * [Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack) - Auto Apply Goldberg & Steamless
-* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Steam DLC Unlocker / [Search](https://creamapidb.tech/) / [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
+* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Steam DLC Unlocker / [Search](https://creamapidb.herokuapp.com/) / [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
 * [Koalageddon](https://github.com/acidicoala/Koalageddon/) - DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay
 * [Get DLC from SteamDB](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837)
 * [Steamworkshop.download](http://steamworkshop.download/) - Download files from the Steam workshop 
@@ -328,6 +331,7 @@
 * [PVPRP](https://pvprp.com/) - Minecraft Texture Packs
 * [IrisShader](https://www.curseforge.com/minecraft/mc-mods/irisshaders) - Fabric Shadermod for Minecraft
 * [Nova Skin](https://minecraft.novaskin.me/), [NeedCoolShoes](https://www.needcoolshoes.com/) or [Blockbench](https://www.blockbench.net/)- Minecraft Skin Editor 
+* [VoxelSphereGenerator](http://oranj.io/blog/VoxelSphereGenerator) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools
 * [ChunkBase](https://www.chunkbase.com/apps/) - Minecraft Map Tools
 * [Amidst](https://github.com/toolbox4minecraft/amidst) - Minecraft World Overview Display Tool
 * [The Minecraft Archive Project](http://map.crummy.com/) - Minecraft World Archive
