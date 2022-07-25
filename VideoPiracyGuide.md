@@ -631,7 +631,6 @@
 * [Downloadhub](https://downloadhub.plus/category/hollywood-movies/) - Movies / [Telegram](https://t.me/downloadhubcool1)
 * [SSR Movies](https://www.ssrmovies.city/category/hollywood-movies-hd) - Movies / TV / [Telegram](https://t.me/SSRmovies2022) / [2](https://telegram3.xyz/)
 * [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV
-* [MKVHub](https://www.mkvhub.co/) - Movies / TV
 * [MovieLegacy](https://movieslegacy.com/category/hollywood/) - Movies
 * [MoviesYug](http://www.moviesyug.net/cat/hollywood-series-movies-24.html) - Movies
 * [Go-Movie](http://go-movie.ru/) - Movies
