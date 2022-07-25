@@ -44,6 +44,7 @@
 * [DuoTones](https://duotones.co/) - Dual Tone Effect Generator
 * [ImageGoNord](https://ign.schrodinger-hat.it/) - Convert Images to NordTheme Palette / [Dracula](https://github.com/bigpick/ImageGoNord-dracula) / [GitHub](https://github.com/Schrodinger-Hat/ImageGoNord)
 * [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization), [Image Transformer](https://transformerapp.aifinancials.net/), [Image To Cartoon](https://imagetocartoon.com/) or [Cartoonize](https://cartoonize-lkqov62dia-de.a.run.app/cartoonize) - Turn Photos into Cartoons
+* [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) / [2](https://github.com/TachibanaYoshino/AnimeGANv2) / [3](https://github.com/TachibanaYoshino/AnimeGANv3) - Turn Photos into Anime
 * [AIDraw](https://ai-draw.tokyo/en/) - Turn Photos into Line Drawings 
 * [primitive.js](https://ondras.github.io/primitive.js/) or [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes 
 * [PBNify](https://pbnify.com/) - Paint by Number Tool
@@ -92,7 +93,7 @@
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
 * [GPEN-Colab](https://github.com/bycloudai/GPEN-colab) - Face Restoration / Colorization Tool
 * [Color-Dragon](https://www.color-dragon.tk/) - Add more Color to Images
-* [style2paints](https://github.com/lllyasviel/style2paints) - AI Lineart Colorization Tool
+* [style2paints](https://github.com/lllyasviel/style2paints) or [PaintsChainer](https://github.com/pfnet/PaintsChainer) - Lineart Colorization Tool
 * [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/) - Image Dithering
 * [depixel](https://github.com/jerith/depixel) - De-pixelization Tool 
 * [Face-Depixelizer](https://github.com/tg-bomze/Face-Depixelizer) - Face De-pixelization Tool 
@@ -239,6 +240,7 @@
 * [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) , [Pixel Sprite](https://deep-fold.itch.io/pixel-sprite-generator) or [Creature Mixer](https://kenney.itch.io/creature-mixer) - Sprite Generator
 * [Nasu](https://hundredrabbits.itch.io/nasu) - Spritesheet Editor
 * [LibreSprite](https://libresprite.github.io/), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
+* [Curve](https://iseenbaas.nl/curve/) - Create Pixelated Curve
 * [Petmate](https://nurpax.github.io/petmate/) - C64 PETSCII Image Editor
 * [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - Scale Pixel Art w/o Quality Loss
 
@@ -447,9 +449,10 @@
 * [InstaDP](https://www.instadp.com/) or [Instagram-crawler](https://github.com/hehpollon/Instagram-crawler) - Picture / Story Downloader 
 * [PixWox](https://www.pixwox.com/) - Story / Picture / Story Downloader
 * [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [SocialUnblock](https://socialunblock.com/), [Instagram-Scraper](https://github.com/arc298/instagram-scraper), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [igram](https://igram.io/), [InstaLooter](https://github.com/althonos/InstaLooter), [instadownloader](https://www.instadownloader.org/), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - Picture / Video Downloader
-* [4K Stogram](https://www.4kdownload.com/products/product-stogram) or [InstaLoader](https://instaloader.github.io/) - Picture Downloader 
+* [4K Stogram](https://www.4kdownload.com/products/product-stogram) or [InstaLoader](https://instaloader.github.io/) - Picture Downloader
 * [Photo Map](https://levionsoftware.com/) - Interactive Map For Your Photos
 * [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - Video Downloader
+* [Resizegram](https://resizegram.com/) - Resize Videos
 * [PyInstaLive](https://github.com/dvingerh/PyInstaLive) - Download Instagram Livestreams / Replays 
 * [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
 * [SearchMyBio](http://searchmy.bio/) - Bio Search
