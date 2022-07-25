@@ -284,6 +284,7 @@
 * [Beyond Weird](https://www.beyondweird.com/) - Witchcraft / Conspiracies
 * [Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_archive) - Conspiracy / Occult / Metaphysics
 * [Dhushara Research](http://www.dhushara.com/index.htm) - Metaphysics / Conspiracies / Psychedelics
+* [oneness](https://rentry.co/oneness) - Metaphysics Quotes
 * [chadnet](https://wiki.chadnet.org/) - Conspiracies
 * [CraftStuff](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_craftstuff) - Witchcraft
 * [Witchcraft Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_witchcraft_library) - Witchcraft / Paganism
@@ -363,6 +364,7 @@
 * [SimplyScripts](https://www.simplyscripts.com/), [MZP](http://www.mzp-tv.co.uk/movie_scripts/) or [SubsLikeScript](https://subslikescript.com/) - Movie / TV Scripts 
 * [The Anarchist Library](http://theanarchistlibrary.org/special/index) - Anarchism
 * [Anarcho-Copy](https://anarcho-copy.org/) - Anarchism
+* [anarchism_](https://rentry.co/anarchism_) - Anarchist Quotes
 * [Archive.Leftove.rs](https://archive.leftove.rs/) - Protest Documents
 * [Marxists Internet Archive](https://www.marxists.org/) - Socialism / Communism
 * [Liberation School](https://liberationschool.org/) - Communism
