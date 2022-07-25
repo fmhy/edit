@@ -95,7 +95,7 @@
 * [sourcehut](https://sr.ht/) - Public Project Index
 * [PiracyBank](https://piracybank.org/websites) - List of sites tagged for copyright, mostly dead 
 * [Movim](https://movim.eu/) - Decentralized Social Network 
-* [Fediverse](https://fediverse.party/) or [Fediverse Observer](https://mastodon.fediverse.observer/) - Federated Social Networks
+* [Fediverse](https://fediverse.party/), [Libranet](https://libranet.de/) or [Fediverse Observer](https://mastodon.fediverse.observer/) - Federated Social Networks
 * [Creamy's Homemade List](https://docs.google.com/document/d/1t10VI-sccy1CfAeMZHwmCS_7agIHFo_B5ipMjzsMtTg/edit) / [2](https://web.archive.org/web/20191130224152/https://pastebin.com/3e2RddP5), [ImageBoards](https://imageboards.net/), [Chan List](https://archive.is/Npzwl) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - Imageboard Index
 * [imageboards.json](https://gitgud.io/iblist/imageboards.json) or [textboards.json](https://gitgud.io/iblist/textboards.json) - Image / Textboard .json
 * [DeepAI](https://deepai.org/) - AI Tools Index 
@@ -208,12 +208,16 @@
 
 # ► Price Tracking
 
-* [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
-* [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
 * [CamelCamelCamel](https://camelcamelcamel.com/) - Amazon Price Tracker / [App](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno)
+* [GG.deals](https://gg.deals/) or [PSPrices](https://psprices.com/) - Game Price Trackers
+* [EpicGamesDC](https://epicgamesdb.info/) - Epic Store Price Tracker
+* [DekuDeals](https://www.dekudeals.com/) or [NTDeals](https://ntdeals.net/) - Switch Game Price Trackers
+* [PS Deals](https://psdeals.net/) - PlayStation Game Price Tracker
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [Shucks](https://shucks.top/) - External Drive Price Tracker
 * [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker 
+* [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
+* [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
 * [DiaperGrid](https://diapergrid.com/) - Compare Diaper Prices
 * [Type Hound](https://typohound.com/) - eBay Typo Search
