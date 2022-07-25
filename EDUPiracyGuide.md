@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/jav6fIx.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/yIPDO6j.png)** - For mobile users
 
 ***
 ***
@@ -350,6 +350,24 @@
 
 ***
 
+# ► Physics 
+
+* [Math and Physics Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_math_and_physics_books)
+* [Falstad](http://www.falstad.com/) - Math & Physics Apps / Simulations 
+* [Mujoco](https://github.com/deepmind/mujoco), [MyPhysicsLabs](https://myphysicslab.com/), [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
+* [PhysicsClassroom](https://www.physicsclassroom.com/) - Physics Lessons
+* [Physics and Maths Tutor](https://www.physicsandmathstutor.com/) - UK High School Notes & Papers
+* [Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php) - Physics Tools
+* [Algodoo](http://www.algodoo.com/) - Interactive Physics Tool
+* [quantum](https://play.google.com/store/apps/details?id=brychta.stepan.quantum_en) - Quantum Physics Learning App 
+* [arXiv](https://arxiv.org/) - Science / Math / Physics
+* [Physics forums](https://www.physicsforums.com/) - Forum / Physics / Science 
+* [phys](https://phys.org/) - Latest / News / Article / Physics 
+* [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - Science / Tech / Math / Physics
+* [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - Pendulum Simulator
+
+***
+
 # ► World Data
 
 * **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/) or [UN Data](https://data.un.org/) - World Data & Statistics
@@ -536,11 +554,12 @@
 * [ASL Resources](https://t.me/ASLresources) - American Sign Language Resources / Telegram 
 * [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - American Sign Language 
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)  
-* [BSL Dictionary](https://www.signbsl.com/) - British Sign Language 
+* [BSL Dictionary](https://www.signbsl.com/) - British Sign Language
 * [Language Drops](https://languagedrops.com/) or [10,000 Sentences](https://github.com/tkrajina/10000sentences) - Language Learning App / [Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_language_drops_premium)
 * [PolyGlot](http://polyglots.free.fr/) - Linguistic Teaching Software
 * [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - Language Identification Test
 * [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap)- Listen to Accents
+* [Interactive IPA Chart](https://www.ipachart.com/) - Learn Phonetic Alphabet Symbols
 * [Asian Script Differentiation Guide](https://i.imgur.com/yJPGS97.png) 
 * [Omniglot](https://omniglot.com/) - Writing System & Language Encyclopedia
 * [nimi mute](https://tp.lcp.su/nimi/) - Toki Pona Dictionary
@@ -674,7 +693,6 @@
 * [IELTS69](https://www.ielts69.com/) - IELTS Cambridge Practice Tests
 * [GCE Guide](https://gceguide.com/) - Cambridge Assessment Guide
 * [ITExams](https://www.itexams.com/) - IT Exam Collection
-* [Physics and Maths Tutor](https://www.physicsandmathstutor.com/) - UK High School Notes & Papers
 * [The Problem Site](https://www.theproblemsite.com/) - Problems / Puzzles / Games
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
 * [LateralPuzzles](http://www.lateralpuzzles.com/) - Lateral Thinking Puzzles
@@ -699,13 +717,9 @@
 * [Anki](https://apps.ankiweb.net/) / [Addons](https://github.com/tianshanghong/awesome-anki), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html), [StudyLib](https://www.studylib.net/) or [Flashcard Machine](https://www.flashcardmachine.com/) - Flash Card Tool
 * [Carden](https://github.com/alyssaxuu/carden) - Flash Card Extension
 * [Wolfram Cloud](https://www.wolframcloud.com/) - Computational intelligence
-* [Falstad](http://www.falstad.com/) - Math & Physics Apps / Simulations 
 * [Matthen](https://blog.matthen.com/) - Math & Science Animations
-* [Mujoco](https://github.com/deepmind/mujoco), [MyPhysicsLabs](https://myphysicslab.com/), [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
 * [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/) or [Sim Flow](https://sim-flow.com/) - Fluid Dynamics Simulators
 * [SimScale](https://www.simscale.com/) or [CFDTool](https://www.cfdtool.com/) - Fluid Dynamics & Heat Transfer Simulator
-* [Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php) - Physics Tools 
-* [quantum](https://play.google.com/store/apps/details?id=brychta.stepan.quantum_en) - Quantum Physics Learning App 
 * [Eylenburg](https://eylenburg.github.io/) - Infographs, Maps & Papers
 * [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/) or [Map Quiz](https://planemad.github.io/map-quiz/) - Geography Quizzes 
 * [The True Size](https://thetruesize.com/) - Compare Country Size 
@@ -719,7 +733,6 @@
 * [CESDB](https://www.cesdb.com/) - Civil Engineering Software
 * [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides 
 * [Neptune](https://youtu.be/gTNVxHSemxA) or [ERS3D](http://www.ers3d.com/home/moduleInfo.do?moduleId=11&listId=92) - Marine Engineering Room Simulator
-* [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - Pendulum Simulator
 * [Traffic Simulation](https://traffic-simulation.de/) - Traffic Flow Simulation 
 * [Bridge Command](https://www.bridgecommand.co.uk/) - Bridge Command Ship Simulator
 * [Sectional Anatomy](https://www.sectional-anatomy.org/) - Cross Sectional Educational MRI / CT Scans
@@ -737,7 +750,6 @@
 * [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) - Mountain Visualizations & Info
 * [Xeno-Canto](https://www.xeno-canto.org/) or [Birdnet](https://birdnet.cornell.edu/) - Bird Sound Identifier 
 * [Candide](https://candide.com/GB/identify-plants) or [Pl@ntNet](https://identify.plantnet.org/) - Plant Identifier
-* [Algodoo](http://www.algodoo.com/) - Interactive Physics Tool
 * [nanoHUB](https://nanohub.org/) - Nanotechnology Tool Index
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
 * [NandGame](https://nandgame.com/) - Computer Building Puzzle
