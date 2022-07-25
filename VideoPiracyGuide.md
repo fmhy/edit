@@ -65,6 +65,7 @@
 * [SpaceMov](https://spacemov.site/) - Movies / TV
 * [NYMeriaTV](https://nymeriatv.com/) - Movies / TV
 * [OpenloadTV](https://openloadtv.co/) - Movies
+* [Voody](https://voody-online.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Dulu](https://www.dulu.to/) - Movies / TV / Anime 
 * [AllMoviesForYou](https://allmoviesforyou.net/) - Movies / TV 
 * [MoviesDownloadHub](https://moviesdownloadhub.com/category/hollywood/) - Movies / TV
@@ -523,6 +524,7 @@
 * [UFC Streams](https://live.ufcstream.me/) - MMA / Wrestling
 * [BoxingStreams100](https://reddits.boxingstreams100.com/) - Boxing
 * [NBA Streams](https://reddit.nbastream.nu/) - NBA
+* [NBA3000](https://nba3000.ir/) - NBA
 * [9Live](https://www.9live.club/) - NFL
 * [NFLStream](https://reddit.nflstream.io/) - NFL
 * [MLB66](https://mlb66.ir/) - MLB 
@@ -575,7 +577,7 @@
 * **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - Download videos from streaming sites
 * **[Movies Cave](https://moviescaveofficial.web.app/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/5GqPYpWmkx)
 * **[MovieParadise](https://movieparadise.org/)** - Movies / TV / Account Required for 1fichier
-* **[Pahe](https://pahe.li/)** - Movies / TV / Anime / [Discord](https://discord.gg/4AvaCsd2J4) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper) / [Rips](https://mkvking.net/), [2](https://mkvking.me/)
+* **[Pahe](https://pahe.li/)** - Movies / TV / Anime / [Discord](https://discord.gg/4AvaCsd2J4) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper) / [Rips](https://176.123.8.15/)
 * **[Worlds Cinema](http://worldscinema.org/)** - Old / Classic / Cult Films
 * **[Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download)** - Many of these sites have single click downloads
 * [RareLust](https://rarelust.com/) - Rare Movies / NSFW 
