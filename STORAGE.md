@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/WDr59GD.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/XOCEeSN.png)** - For mobile users
 
 ***
 ***
@@ -23,6 +23,7 @@
 #### 3DS Roms
 
 * [CIA-3DS](https://www.cia-3ds.com/)
+* [ciaspara3ds](https://ciaspara3ds.blogspot.com/)
 * [HShop](https://hshop.erista.me/)
 
 ***
@@ -330,6 +331,10 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 [SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/) / [Frontend](https://github.com/rohit-px2/nvui) / [Motions](https://github.com/ggandor/lightspeed.nvim), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/) / [Docs](https://www.emacsdocs.org/), [Lite XL](https://lite-xl.github.io/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [BlueFish](http://bluefish.openoffice.nl/index.html), [KomodoEdit](https://github.com/Komodo/KomodoEdit), [TextAdept](https://foicica.com/textadept), [SpaceMacs](http://spacemacs.org/), [Notepad2](https://www.flos-freeware.ch/notepad2.html), [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), [CudaText](https://cudatext.github.io/) / [Git](https://github.com/Alexey-T/CudaText), [Light Table](http://lighttable.com/), [4coder](https://4coder.itch.io/4coder), [lapce](https://lapce.dev/) / [GitHub](https://github.com/lapce/lapce)
 
+**Mac Code Editors**
+
+[Vim](https://github.com/macvim-dev/macvim), [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+
 **Online Code Editors**
 
 [JDFiddle](https://jsfiddle.net/), [W3Schools](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python), [CollabEdit](http://collabedit.com/), [Portacode](https://portacode.com/), [IDE One](https://www.ideone.com/), [SoloLearn](https://www.sololearn.com/) / [Playground](https://code.sololearn.com/), [JSFiddle](https://jsfiddle.net/), [PlayCode](https://playcode.io/) 
@@ -430,7 +435,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Design Resources 
 
-[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [ImCreator](http://www.imcreator.com/free), [DesignBundles](https://designbundles.net/free-design-resources), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [SketchRepo](https://sketchrepo.com/), [Interfaces](https://interfacer.xyz/), [Freebiesbug](http://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Envato Elements Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_envato_elements_collection), [CreativeFabrica](https://www.creativefabrica.com/freebies/), [recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos/blob/master/translation/english/README.en.md), [Toools.design](https://www.toools.design/), [Evernote.Design](https://www.evernote.design/)
+[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [ImCreator](http://www.imcreator.com/free), [DesignBundles](https://designbundles.net/free-design-resources), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [SketchRepo](https://sketchrepo.com/), [Interfaces](https://interfacer.xyz/), [Freebiesbug](http://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Envato Elements Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_envato_elements_collection), [CreativeFabrica](https://www.creativefabrica.com/freebies/), [recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos/blob/master/translation/english/README.en.md), [Toools.design](https://www.toools.design/), [Evernote.Design](https://www.evernote.design/), [gfxtra31](https://www.gfxtra31.com/)
 
 ***
 
@@ -559,7 +564,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Fun Indexes
 
-[Neal.fun](https://neal.fun/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](http://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](http://www.thisismywebsitenow.com/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](http://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://www.chromeexperiments.com/)
+[Neal.fun](https://neal.fun/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](http://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](http://www.thisismywebsitenow.com/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](http://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://www.chromeexperiments.com/), [0x2a](https://0x2a.re/)
 
 ***
 
@@ -579,6 +584,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://dns.sb/
 * https://github.com/dns-sb/dns.sb
 * https://public-dns.info/
+* http://bestdns.org/
 
 ***
 
@@ -755,7 +761,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Game Engines
 
-[Godot](https://godotengine.org/), [Defold](https://defold.com/), [Cave Engine](https://unidaystudio.itch.io/cave-engine), [Engine Bevy](https://bevyengine.org/), [OpenXRay](https://github.com/OpenXRay), [ursina engine](https://www.ursinaengine.org/), [cryengine](https://www.cryengine.com/), [stride3d](https://www.stride3d.net/) / [GitHub](https://github.com/stride3d/stride), [armory3d](https://armory3d.org/) / [GitHub](https://github.com/armory3d/armory), [torque3d](https://torque3d.org/) / [GitHub](https://github.com/TorqueGameEngines/Torque3D), [Torque2D](https://github.com/TorqueGameEngines/Torque2D), [cocos](https://www.cocos.com/en/) / [GitHub](https://github.com/cocos2d/cocos2d-x), [starling](https://gamua.com/starling/) / [GitHub](https://github.com/Gamua/Starling-Framework), [AtomicGameEngine ](https://github.com/AtomicGameEngine/AtomicGameEngine)
+**[Game Engine Collection](https://github.com/collections/game-engines)**, [Godot](https://godotengine.org/), [Defold](https://defold.com/), [Cave Engine](https://unidaystudio.itch.io/cave-engine), [Engine Bevy](https://bevyengine.org/), [OpenXRay](https://github.com/OpenXRay), [ursina engine](https://www.ursinaengine.org/), [cryengine](https://www.cryengine.com/), [stride3d](https://www.stride3d.net/) / [GitHub](https://github.com/stride3d/stride), [armory3d](https://armory3d.org/) / [GitHub](https://github.com/armory3d/armory), [torque3d](https://torque3d.org/) / [GitHub](https://github.com/TorqueGameEngines/Torque3D), [Torque2D](https://github.com/TorqueGameEngines/Torque2D), [cocos](https://www.cocos.com/en/) / [GitHub](https://github.com/cocos2d/cocos2d-x), [starling](https://gamua.com/starling/) / [GitHub](https://github.com/Gamua/Starling-Framework), [AtomicGameEngine ](https://github.com/AtomicGameEngine/AtomicGameEngine)
 
 ***
 
@@ -932,7 +938,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Hosting** 
 
-[WebOasis IPFS](https://weboasis.app/ipfs/), [IMGrPost](https://imgrpost.com/), [ImgBB](https://imgbb.com/), [Shutterfly](https://www.shutterfly.com/), [Imgur](https://imgur.com/) / [Proxy](https://imgin.voidnet.tech/) / [Frontend](https://rimgo.bus-hit.me/), [FreeImage.Host](https://freeimage.host/), [snipboard](https://snipboard.io/), [vaa.red](https://upload.vaa.red/), [Postimages](https://postimages.org/), [imgbox](https://imgbox.com/), [pasteboard](http://www.pasteboard.co/), [vgy](https://vgy.me/), [i](https://tikolu.net/i/), [tixte](https://tixte.com/), [gpic](https://gpic.site/), [linkpicture](https://www.linkpicture.com/), [imagebam](https://www.imagebam.com/), [imagevenue](https://www.imagevenue.com/), [ipfs pics](http://ipfs.pics/), [imageserver](https://imageserver.link/), [pixelfed](https://pixelfed.org/), [talaikis](https://ipfs.talaikis.com/upload), [imgchest](https://imgchest.com/), [anhsieuviet](https://anhsieuviet.com/), [ụphinh](https://uphinh.vn/), [upanhtv](https://upanh.tv/), [upanhme](https://upanh.me/), [sendpic](http://sendpic.org/)
+[WebOasis IPFS](https://weboasis.app/ipfs/), [IMGrPost](https://imgrpost.com/), [ImgBB](https://imgbb.com/), [Shutterfly](https://www.shutterfly.com/), [Imgur](https://imgur.com/) / [Proxy](https://imgin.voidnet.tech/) / [Frontend](https://rimgo.bus-hit.me/), [FreeImage.Host](https://freeimage.host/), [snipboard](https://snipboard.io/), [vaa.red](https://upload.vaa.red/), [Postimages](https://postimages.org/), [imgbox](https://imgbox.com/), [pasteboard](http://www.pasteboard.co/), [vgy](https://vgy.me/), [i](https://tikolu.net/i/), [tixte](https://tixte.com/), [gpic](https://gpic.site/), [linkpicture](https://www.linkpicture.com/), [imagebam](https://www.imagebam.com/), [imagevenue](https://www.imagevenue.com/), [ipfs pics](http://ipfs.pics/), [imageserver](https://imageserver.link/), [pixelfed](https://pixelfed.org/), [talaikis](https://ipfs.talaikis.com/upload), [imgchest](https://imgchest.com/), [anhsieuviet](https://anhsieuviet.com/), [ụphinh](https://uphinh.vn/), [upanhtv](https://upanh.tv/), [upanhme](https://upanh.me/), [sendpic](http://sendpic.org/), [pixelfed](https://pixelfed.social/)
 
 **Processing**
 
@@ -998,9 +1004,9 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### IP / Network Tools
 
-[2ip.io](https://2ip.io/) / [2](https://2ip.me/) / [3](https://2ip.ru/), [IPVoid](https://www.ipvoid.com/), [Hacker Target](https://hackertarget.com/ip-tools/), [ipaddressguide](https://www.ipaddressguide.com/), [ipfingerprints](https://www.ipfingerprints.com/), [centralops](https://centralops.net/), [networkappers](https://www.networkappers.com/), [dnstools](http://www.dnstools.ch/), [intodns](https://www.intodns.com/), [networkappers](https://networkappers.com/), [ipinfo](https://ipinfo.info), [ViewDNS](https://viewdns.info/)
+[2ip.io](https://2ip.io/) / [2](https://2ip.me/) / [3](https://2ip.ru/), [IPVoid](https://www.ipvoid.com/), [Hacker Target](https://hackertarget.com/ip-tools/), [ipaddressguide](https://www.ipaddressguide.com/), [ipfingerprints](https://www.ipfingerprints.com/), [centralops](https://centralops.net/), [networkappers](https://www.networkappers.com/), [dnstools](http://www.dnstools.ch/), [intodns](https://www.intodns.com/), [networkappers](https://networkappers.com/), [ipinfo](https://ipinfo.info), [ViewDNS](https://viewdns.info/), [DNSChecker](https://dnschecker.org/all-tools.php), [Dotcom Tools](https://www.dotcom-tools.com/), [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/), [Network Tools](https://network-tools.com/), [WebsiteScoop](https://websitescoop.com/) 
 
-***
+***f
 
 #### IPTV Tools
 
@@ -1080,7 +1086,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### M3U Players
 
-[hlsplayer](https://www.hlsplayer.net/), [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV), [m3u8player](https://m3u8player.net/)
+[hlsplayer](https://www.hlsplayer.net/), [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV)
 
 ***
 
@@ -1286,7 +1292,11 @@ Add the following commands to a search to manually scrape each site.
 
 **Multi-System**
 
-**[Foobar2000](https://www.foobar2000.org/)**, [AIMP](http://www.aimp.ru/?do=lang&lng=en), [Roon](https://rutracker.org/forum/tracker.php?nm=roon), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/) / [Updates](https://getwacup.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [VOX](https://vox.rocks/windows-music-player), [Hysolid](https://www.hysolid.com/), [aidoru](https://github.com/ffwff/aidoru), [Melodie](https://feugy.github.io/melodie/), [Modular Player](https://www.deviantart.com/jaxoriginals/art/ModularPlayers-v1-3-886577256), [goMP](https://github.com/aditya-K2/goMP), [hyperchroma](https://hyperchroma.app/), [Music Player Daemon](https://www.musicpd.org/) (Server-Side), [NCurses](https://github.com/ncmpcpp/ncmpcpp), [XMPlay](https://www.un4seen.com/) (Chiptune-Friendly), [guayadeque](https://github.com/anonbeat/guayadeque), [musique](http://flavio.tordini.org/musique), [sonata](https://github.com/multani/sonata), [exaile](http://www.exaile.org/), [quodlibet](https://github.com/quodlibet/quodlibet/), [ario](http://ario-player.sourceforge.net/), [deadbeef](https://deadbeef.sourceforge.io/), [groovebasin](https://github.com/andrewrk/groovebasin), [destroyer](https://github.com/mashaal/destroyer), [Ampache](https://ampache.org/) / [GitHub](https://github.com/ampache/ampache), [Harmanoid](https://harmonoid.com/)
+**[Foobar2000](https://www.foobar2000.org/)**, [AIMP](http://www.aimp.ru/?do=lang&lng=en), [Roon](https://rutracker.org/forum/tracker.php?nm=roon), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/) / [Updates](https://getwacup.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [VOX](https://vox.rocks/windows-music-player), [Hysolid](https://www.hysolid.com/), [aidoru](https://github.com/ffwff/aidoru), [Melodie](https://feugy.github.io/melodie/), [Modular Player](https://www.deviantart.com/jaxoriginals/art/ModularPlayers-v1-3-886577256), [goMP](https://github.com/aditya-K2/goMP), [hyperchroma](https://hyperchroma.app/), [NCurses](https://github.com/ncmpcpp/ncmpcpp), [XMPlay](https://www.un4seen.com/) (Chiptune-Friendly), [guayadeque](https://github.com/anonbeat/guayadeque), [musique](http://flavio.tordini.org/musique), [sonata](https://github.com/multani/sonata), [exaile](http://www.exaile.org/), [quodlibet](https://github.com/quodlibet/quodlibet/), [ario](http://ario-player.sourceforge.net/), [deadbeef](https://deadbeef.sourceforge.io/), [groovebasin](https://github.com/andrewrk/groovebasin), [destroyer](https://github.com/mashaal/destroyer), [Ampache](https://ampache.org/) / [GitHub](https://github.com/ampache/ampache), [Harmanoid](https://harmonoid.com/)
+
+**Self-Hosted**
+
+[Auddly](https://auddly.app/) or [Music Player Daemon](https://www.musicpd.org/)
 
 **Foobar2000 Tools** 
 
@@ -1421,7 +1431,7 @@ Add the following commands to a search to manually scrape each site.
 #### OS Emulators
 
 * [Qemu](http://www.qemu-project.org/) - OS Emulator & Virtualization
-* [copy.sh](https://copy.sh/v86/), [OnWorks](https://www.onworks.net/), [simone.computer](https://simone.computer/#/webdesktops) or [Virtual Desktop](http://www.virtualdesktop.org/) - Multiple OS Emulators
+* [copy.sh](https://copy.sh/v86/), [OnWorks](https://www.onworks.net/), [simone.computer](https://simone.computer/#/webdesktops), [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/) or [Virtual Desktop](http://www.virtualdesktop.org/) - Multiple OS Emulators
 * [WinXP.now](https://winxp.now.sh/ or [WinXP](https://winxp.vercel.app/) - Windows XP Browser Emulator
 * [EmuOS](https://emupedia.org/beta/emuos/), [2](https://emupedia.net/beta/emuos/), [3](https://emuos.net/beta/emuos/), [4](https://emuos.org/beta/emuos/) - Windows 95, 98 & ME Emulator
 * [98.js](https://98.js.org/), [Rahul](https://rahul.io/) or [Packard Belle](https://packard-belle.netlify.com/) - Windows 98 Emulator
@@ -1623,12 +1633,6 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-#### Powercord Tools
-
-[CSS](https://discord.gg/QfGXuvy6Qn) / [Plugins](https://github.com/topics/powercord-plugin) / [Embed Generator](https://github.com/TheShadowGamer/safe-embed-generator) / [Theme Converter](https://cr3atable.github.io/Powerconvert) / [Premid](https://github.com/MulverineX/premid-powercord) / [Dark Theme](https://github.com/zespire/dark-theme) / [Pronouns](https://github.com/cyyynthia/pronoundb-powercord) / [Automated Powercord Installer](https://github.com/Ryah/Powercord-Utilities)
-
-***
-
 #### Presentation Tools
 
 [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Carnac](http://code52.org/carnac/), [Presen](https://presen-vid.com/ ), [mentimeter](https://www.mentimeter.com/), [beautiful.ai](https://www.beautiful.ai/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Deckdeckgo](https://deckdeckgo.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [Desk](https://www.animaker.com/deck), [Slides](https://slides.com/)
@@ -1674,7 +1678,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Privacy Tools
 
-**[privacyguides](https://www.privacyguides.org/)**, [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting), [Privacy Tools](https://www.privacytools.io/), [Awesome Privacy](https://github.com/pluja/awesome-privacy), [online-tools-for-the-pandemic](https://etherpad.wikimedia.org/p/online-tools-for-the-pandemic), [Privacy Tools List](https://privacytoolslist.com/), [Snopyta](https://snopyta.org/), [Hostux](https://hostux.network/), [Awesome Security](https://github.com/sbilly/awesome-security), [Security List](https://security-list.js.org/), [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy), [Thunix](https://thunix.net/), [Zero Data App](https://0data.app/), [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/), [Alternative Internet](https://github.com/redecentralize/alternative-internet), [silkky.cloud](https://silkky.cloud/), [EPIC](https://www.epic.org/privacy/tools.html), [Awesome Windows Security](https://github.com/chryzsh/awesome-windows-security), [Tzkuat Ressources](https://gitlab.com/tzkuat/Ressources), [Privacy Tools List](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/), [PrivacySavvy](https://privacysavvy.com/), [The New Oil](https://thenewoil.org/index.html)
+**[privacyguides](https://www.privacyguides.org/)**, [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting), [Privacy Tools](https://www.privacytools.io/), [Awesome Privacy](https://github.com/pluja/awesome-privacy), [online-tools-for-the-pandemic](https://etherpad.wikimedia.org/p/online-tools-for-the-pandemic), [Privacy Tools List](https://privacytoolslist.com/), [Snopyta](https://snopyta.org/), [Hostux](https://hostux.network/), [Awesome Security](https://github.com/sbilly/awesome-security), [Security List](https://security-list.js.org/), [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy), [Thunix](https://thunix.net/), [Zero Data App](https://0data.app/), [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/), [Alternative Internet](https://github.com/redecentralize/alternative-internet), [silkky.cloud](https://silkky.cloud/), [EPIC](https://www.epic.org/privacy/tools.html), [Awesome Windows Security](https://github.com/chryzsh/awesome-windows-security), [Tzkuat Ressources](https://gitlab.com/tzkuat/Ressources), [Privacy Tools List](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/), [PrivacySavvy](https://privacysavvy.com/), [The New Oil](https://thenewoil.org/index.html), [awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech)
 
 *** 
 
@@ -2485,6 +2489,12 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
+#### Tor Tools
+
+[Wiki](https://gitlab.torproject.org/tpo/team/-/wikis/home) / [Unblock Tor](https://i.imgur.com/bQStFyI.gifv) / [Anonymity Tips](https://support.torproject.org/#staying-anonymous) / [Leak Scan](https://github.com/s-rah/onionscan) / [IP Test](https://check.torproject.org/) / [Auto IP Switch](https://github.com/seevik2580/tor-ip-changer) / [Access Client](https://dragonfruit.network/onionfruit) / [GitHub](https://github.com/dragonfruitnetwork/onionfruit/) / [Python Controller](http://vt5hknv6sblkgf22.onion/index.html) / [Default Gateway](https://github.com/htrgouvea/nipe) / [Network Script](https://github.com/ruped24/toriptables2) / [Proxy](https://reqrypt.org/tallow.html), [2](https://github.com/basil00/TorWall), [3](https://www.whonix.org/)
+
+***
+
 #### Torrent to GDrive
 
 **Note** - Use throwaway accounts with these
@@ -2941,6 +2951,7 @@ Good for finding classic, obscure & short films.
 
 * https://b-ok.org/
 * https://b-ok.cc/
+* https://b-ok.xyz/
 * https://b-ok.asia/
 * https://booksc.org/
 * https://b-ok.global/
