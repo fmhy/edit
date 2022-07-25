@@ -67,7 +67,8 @@
 * [WinXP Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_misc_windows) - Windows XP Games
 * [RPG Maker Games](https://rpgmaker.net/games/?name_filter=&amp;engine=&amp;status=&amp;rating=&amp;commercial=exclude&amp;sort=&amp;portal=None) - Games made via RPG Maker
 * [VGPErson](https://vgperson.com/games/) - Japanese Translated Freeware Games
-* [VRPirates](https://t.me/vrpirates) - VR Games & Guides / [Discord](https://discord.gg/D9rs7TM)
+* [VRPirates](https://t.me/vrpirates) or [SidequestVR](https://sidequestvr.com/) - VR Games & Guides / [Discord](https://discord.gg/D9rs7TM)
+* [VRC Arena](https://www.vrcarena.com/) - VR Resources
 * [Leggendaria](https://chuchy.neocities.org/leggendaria.altervista.org/archive.htm) - Bemani & Touhou Games
 * [JustEmuTarkov](https://justemutarkov.eu/) - Escape from Tarkov Emulator
 * [CWA](https://www.cwaemu.com/) - Clone Wars Adventures Emulator / [Discord](https://discord.gg/a3Ugb9dzzv)
@@ -145,7 +146,7 @@
 * [EasyROMs](https://easyROMs.com/) - Emulators / ROMs 
 * [ROMsPURE](https://ROMspure.cc/) - Emulators / ROMs
 * [ROMs Games](https://ROMsgames.net/) - Emulators / ROMs
-* [CoolROMs](https://coolrom.com.au/) - Emulators / ROMs / Use ["Alt DL Link"](https://i.imgur.com/KHfeWNX.png)
+* [CoolROMs](https://coolrom.com.au/) - Emulators / ROMs / Use ["Alt DL Link"](https://i.imgur.com/FgHvrPK.png)
 * [All Xbox Game](https://downloadgamexbox.com/) - ROMs
 * [RomToHome](https://romtohome.com/) - ROMs
 * [Sundby](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sundby) - ROMs
@@ -424,7 +425,7 @@
 * [Dynast](https://dynast.io/) - Survival Browser Game
 * [Mexican Train](https://mexicantrain.online/) - Domino Train Game
 * [Gridland](http://gridland.doublespeakgames.com/) - Grid Matching RPG
-* [SlaveHack2](http://slavehack2.com/) - Hacking Game
+* [Hacker Wars](https://hackerwars.io/) or [SlaveHack2](http://slavehack2.com/) - Hacking Game
 * [2020 Game](https://2020game.io/) - Play through 2020 
 * [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
 * [QWOP](http://www.foddy.net/Athletics.html) - Ragdoll Running Game
