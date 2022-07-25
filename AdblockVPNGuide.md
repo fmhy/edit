@@ -128,6 +128,7 @@
 * [should-i-trust](https://github.com/ericalexanderorg/should-i-trust) - Evaluates OSINT Signals for a Domain 
 * [SecurityHeaders](https://securityheaders.com/) - Security Header Scan
 * [Phish.ly](https://phish.ly/) - Scan Suspicious Emails
+* [TokenSniffer](https://tokensniffer.com/) - DEX Trading Scan 
 * [Any.Run](https://any.run/) - Interactive Malware Sandbox
 * [testsafebrowsing](https://testsafebrowsing.appspot.com/) - Safe Browsing Testing Links 
 * [Standaloneinstaller](https://standaloneinstaller.com/) - Check Software Safety
