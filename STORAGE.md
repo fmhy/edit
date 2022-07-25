@@ -740,7 +740,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * [Movies7](https://movies7.to/)
 * [Flixtor](https://flixtor.one/)
 * [BFlix](https://bflix.ru/)
-* [SWatchseries.ru](https://swatchseries.ru/) 
+* [SWatchseries.ru](https://www2.swatchseries.ru/) 
 * [watchmovieshd](https://watchmovieshd.ru/)
 
 ***
@@ -2479,7 +2479,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### TikTok Video Downloaders
 
-[SnapTik](https://snaptik.app/), [RipTok](https://github.com/adamsatyr/RipTok), [TikMate](https://www.tikmate.online/), [TikTokFull](https://tiktokfull.com/), [TikTokDer](https://tiktokder.com/), [Tik.fail](https://tik.fail/), [tikmate](https://tikmate.app/), [tikfast](https://tikfast.net/)
+[SnapTik](https://snaptik.app/), [RipTok](https://github.com/adamsatyr/RipTok), [TikMate](https://www.tikmate.online/), [TikTokFull](https://tiktokfull.com/), [TikTokDer](https://tiktokder.com/), [Tik.fail](https://tik.fail/), [tikmate](https://tikmate.app/), [tikfast](https://tikfast.net/), [SaveTT](https://savett.cc/), [ssstikvideo](https://www.ssstikvideo.com/)
 
 ***
 
