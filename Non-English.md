@@ -107,7 +107,7 @@
 * [jialezi](https://blog.jialezi.net/) - Chinese Tutorials
 * [Kaiheila](https://www.kaiheila.cn/) - Chinese Discord
 * [Diaosi Forum](https://assbbs.com/) or [WangChao](https://www.wangchao.info/) - Piracy Discussion
-* [zimuku](http://zimuku.org/), [YYets](https://www.yyets.com/), [SubHD](https://www.subhdtw.com/sub/tv) or [SubHD](https://subhd.tv/) - Subtitles
+* [zimuku](http://zimuku.org/), [assrt](https://assrt.net/), [YYets](https://www.yyets.com/), [SubHD](https://www.subhdtw.com/sub/tv) or [SubHD](https://subhd.tv/) - Subtitles
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
 * [GameLoop](https://syzs.qq.com/) - Android Emulator 
 * [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
