@@ -409,7 +409,7 @@
 ## ▷ Streaming
 
 * [StartSeite](https://startseite.to/) - Movies / TV / NSFW / List
-* [streamkiste](https://streamkiste.tv/) - Movies / TV  
+* [streamkiste](https://streamkiste.tv/) / [2](https://streamkiste.cx/) - Movies / TV  
 * [Burning Series](https://www.burning-series.net/) - Movies / TV / Anime / Needs VPN
 * [filmpalast](https://filmpalast.to/) - Movies / TV 
 * [movieking](https://movieking.cc/) - Movies
@@ -541,6 +541,7 @@
 * [HHDMovies](https://hhdmovies.org/) - Movies / TV
 * [OKJatt](https://okjatt.co/) - Movies / TV
 * [111.90.159.132](https://111.90.159.132/) - Movies
+* [Watch-Movies](https://www.watch-movies.com.pk/) - Movies
 * [HindiLover](https://hindilover.biz/) - TV
 * [Filmywap](https://www.filmywap.com/) - Movies / TV
 * [OkJatt](https://okjatt.work/) - Movies / TV
