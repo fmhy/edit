@@ -452,11 +452,9 @@
 * [Clockwise Library](http://clockwise3rldkgu.onion/) - Art / Science / .onion 
 * [IntechOpen](https://www.intechopen.com/) - Science
 * [Magazines Scientific](http://scientificmagazines.top/) - Science Magazines
-* [Physics forums](https://www.physicsforums.com/) - Forum / Physics / Science 
 * [Naked Scientists](https://www.thenakedscientists.com/) - Podcasts / Shows / Science 
 * [Science Forums](https://www.scienceforums.net/) - Forums / Science 
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_astronomy_.26amp.3B_physics) - Books / Notes / Astronomy
-* [phys](https://phys.org/) - Latest / News / Article / Physics 
 * [RealNotComplex](https://realnotcomplex.com/) - Math / Books
 * [Institute of Mathematics](https://aimath.org/textbooks/) - Math / Books
 * [Engineering Books PDF](https://engineeringbookspdf.com/) - Engineering
