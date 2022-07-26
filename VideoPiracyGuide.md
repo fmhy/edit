@@ -144,6 +144,7 @@
 * [Lovemovie](https://lovemovie.org/) - Movies / TV
 * [CimaClub](https://www.cimaclub.cc/category/%D8%A3%D9%81%D9%84%D8%A7%D9%85-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Shahed4u](https://shahed4u.onl:2053/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a-1/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [EntrePeliculasySeries](https://entrepeliculasyseries.nu/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)  
 * [MovGoTV](https://movgotv.com/) - Movies / TV / Anime
 * [TorrentKingNow](https://torrentkingnow.co/) - Movies
 * [HollyMovieHD](https://hollymoviehd.cc/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime
@@ -170,7 +171,7 @@
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / Anime / [Search](https://pastebin.com/ExB4ksvT) / API
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API
-* [Kodi](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi) - Streaming App
+* [Kodi](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi) or [FileStreamBot](https://github.com/adarsh-goel/filestreambot) - Streaming App
 * [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) or [Stream IMDb](https://github.com/4L00/TemperMonkey-Scripts/) - Add Stream Search Buttons to IMDb
 * [Letmewatch](https://letmewatch.app/) - Movies / TV / Extension / [GitHub](https://github.com/AdvithGopinath/LetMeWatch)
 
@@ -222,6 +223,7 @@
 * [StageDork](http://stagedork.com/) - Broadway Show Recordings 
 * [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) - Broadway Musicals
 * [Rental Media](https://rentalmedia.neocities.org/index.html) - Free DVD Rentals
+* [SoMuchContent](https://somuchcontent.com/) - Sidemen Content / [Ad Script](https://greasyfork.org/en/scripts/448419-somuchqol)
 * [Unus Annus](https://archive.org/details/unus-annus) - Unus Annus Archive
 * [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/), [2](https://github.com/joric/bandersnatch) - Interactive player for Black Mirror: Bandersnatch
 * [ListenToAMovie](http://listentoamovie.com/) - Listen to Movies 
@@ -248,7 +250,7 @@
 * [WatchTVSeries](https://www2.watchtvseries.video/) - TV 
 * [turkish123](https://turkish123.com/) - Turkish TV Shows / Subtitles 
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - Bay Area TV Archive  
-* [Ninja Warrior](https://rentry.co/NinjaWarrior) - Sasuke Episodes
+* [Ninja Warrior](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ninja_warrior) - Sasuke Episodes
 * [MyRM](https://myrunningman.com/) - My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)
 * [No-Laughing Batsu Game List](https://redd.it/2fgm9p) 
 * [cytube](https://cytu.be/) - TV / Chat
