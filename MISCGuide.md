@@ -67,6 +67,7 @@
 * [num's link list](https://web.archive.org/web/20210102182957/https://soda.privatevoid.net/num/lists/web/) - Site Index
 * [NYPL Best of the Web](https://www.nypl.org/collections/nypl-recommendations/best-of-web) - Site Index
 * [Awesome Lite Websites](https://github.com/mdibaiee/awesome-lite-websites) - Lightweight Site Index
+* [TopMillion](http://www.topmillion.net/) - Alexa Site Rankings
 * [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public Domain Resource Index Awesome
 * [LinkLonk](https://linklonk.com/) - Link Aggregator & Voting
 * [Simple Tools](https://simpletools.info/doku.php) - Simple Programs Index 
@@ -523,7 +524,6 @@
 * [Three.js](https://threejs.org/) - JavaScript 3D library 
 * [Pokémon Fusion](https://pokemon.alexonsager.net/) - Fuse Pokémon
 * [Poke Palettes](https://pokepalettes.com/) - Pokemon Color Palettes 
-* [Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - Pokemon Resource Index 
 * [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) - Terminal Pokemon Sprites
 * [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - Terminal Color Scripts
 * [Awesome Chess](https://github.com/hkirat/awesome-chess) - Chess Resource Index  
@@ -597,6 +597,7 @@
 * **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) or [TechGiga](https://www.techgiga.net/) - Piracy News
 * [RavenReader](https://ravenreader.app/) - News Article Manager
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - How to bypass article paywalls
+* [JustRead](https://justread.link/) - Ad-Free Article Viewer
 * [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - Generate Article Summaries
 * [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - News Site Indexes 
 * [Google Alerts](https://www.google.com/alerts) - News Alerts by Topics
@@ -860,7 +861,8 @@
 * [FixPhrase](https://fixphrase.com/) - Phrase Based Map Search
 * [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - Earth Viewer
 * [Snazzy Maps](https://snazzymaps.com/) - Google Maps Themes
-* [MapChannels](https://www.mapchannels.com/) - Mapping / Navigation Tools 
+* [MapChannels](https://www.mapchannels.com/) - Mapping / Navigation Tools
+* [GeoVisual Search](https://search.descarteslabs.com/) - Object Recognition Map 
 * [OldMapsOnline](https://www.oldmapsonline.org/) - Historical Maps Tool 
 * [Loc Maps](https://www.loc.gov/collections/general-maps/), [EuraAtlas](https://euratlas.com/),  [GeoGarage](http://rumsey.geogarage.com/index.html), [OpenHistoricalMap](https://www.openhistoricalmap.org/), [Digital Collection Maps](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division) or [Cronobook](https://cronobook.com/) - Historical Maps
 * [Historic Borders](https://historicborders.app/) - Historic Borders Map
@@ -895,6 +897,7 @@
 * [Global Wetlands](https://www2.cifor.org/global-wetlands/) - Wetlands Map
 * [Mindat](https://www.mindat.org/countrylist.php) - Mineral Deposits Map
 * [Terrain Party](https://terrain.party/) - Terrain Height Map
+* [PeakFinder](https://www.peakfinder.org/) - Mountain Peak Map / Locator
 * [topo maps](http://www.onlinetopomaps.net/) - Topographic Maps
 * [OpenRailwayMap](https://www.openrailwaymap.org/) - Railway Map
 * [Earth](https://earth.nullschool.net/) - Global Map of Wind, Weather, Ocean & Pollution Conditions
@@ -995,6 +998,7 @@
 * [FreeFontss](https://t.me/freefontss) 
 * [iFonts](https://ifonts.xyz/)
 * [Cufon Fonts](https://www.cufonfonts.com/)
+* [Fontsly](https://fontsly.com/)
 * [FontsArena](https://fontsarena.com/)
 * [fonteseletras](https://www.fonteseletras.com/)
 * [LostType](http://www.losttype.com/)
