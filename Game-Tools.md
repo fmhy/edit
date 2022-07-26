@@ -106,12 +106,13 @@
 * [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
 * [FalseKeystrokes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_falsekeystrokes) or [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)
 * [Pokemon Typechart](https://pokemondb.net/type) - Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)
-* [PokeList](https://pokemonlist.netlify.app/) - Pokedex
+* [PokeList](https://pokemonlist.netlify.app/) - Pokedex / [App](https://github.com/skydoves/Pokedex)
 * [NYCPokeMap](https://nycpokemap.com/) - Real-time Pokémon Go map for NYC
 * [Playground](https://www.playground.ru/) - Mods, Artbooks, Soundtracks, Cheats & more
 * [Game Currency Conversion Rates](https://docs.google.com/spreadsheets/d/1tcxiGbCIktMDqxGZleHDC5s100tsY7VCTpXUSIkoNFQ/edit) - Convert In-Game Currency to Real Currency
 * [r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/) - Find Games from Screenshot or Description
 * [GameGuides](https://www.gamerguides.com/), [Retro Game Strategy Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_retro_game_strategy_guides), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [GamePressure](https://www.gamepressure.com/) or [Samurai Gamers](https://samurai-gamers.com/) - Strategy Guides & Walkthroughs
+* [LP Archives](https://lparchive.org/) - Let's Play Archive
 * [Before I Play](http://www.beforeiplay.com/) - Tips for any Game 
 * [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
 * [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - System Gaming Tweak Guide
@@ -137,6 +138,7 @@
 * [Useful Osu](https://github.com/CarbonUwU/Useful-osu) - Osu! Resources
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Osu! Collection Manager
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer
+* [ValStretch](https://github.com/lem6ns/valstretch) - Stretched Resolution Valorant Script
 * [GmodContent](https://gmodcontent.com/) - Garry's Mod Content Packs
 * [GMOD Textures Fix](https://fragboss.com/gmod-textures-fix-css-textures/) - Fix Garry's Mod Textures
 * [EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore) - Elden Ring Fixes
