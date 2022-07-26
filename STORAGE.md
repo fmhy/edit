@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/XOCEeSN.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/4eTKIZt.png)** - For mobile users
 
 ***
 ***
@@ -95,6 +95,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://www.yahoo.com/
 * http://frogfind.com/
 * https://search.visymo.com/
+* https://entfer.com/
 * https://presearch.org/ + [GitHub](https://github.com/presearchofficial)
 * https://search.aol.com/
 * https://www.bing.com/
@@ -153,13 +154,13 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Android Audio Players
 
-[VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer), [BlackHole](https://github.com/Sangwan5688/BlackHole), [RAAG](https://github.com/raag-music/raag/), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Pulse Music](https://f-droid.org/en/packages/com.hardcodecoder.pulsemusic/), [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet&hl=en_US&gl=US), [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer), [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/), [RetroPad](https://jamesob.com/apps/retropod.html), [Apollo-Music](https://github.com/nuclearfog/Apollo-Music), [audacium](https://audacium.xyz/), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx](https://play.google.com/store/apps/details?id=com.awedea.nyx), [Serenity](https://github.com/YajanaRao/Serenity), [SoundSpice-mobile](https://github.com/farshed/SoundSpice-mobile)
+[VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer), [BlackHole](https://github.com/Sangwan5688/BlackHole), [RAAG](https://github.com/raag-music/raag/), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Pulse Music](https://f-droid.org/en/packages/com.hardcodecoder.pulsemusic/), [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet&hl=en_US&gl=US), [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer), [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/), [RetroPad](https://jamesob.com/apps/retropod.html), [Apollo-Music](https://github.com/nuclearfog/Apollo-Music), [audacium](https://audacium.xyz/), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx](https://play.google.com/store/apps/details?id=com.awedea.nyx), [Serenity](https://github.com/YajanaRao/Serenity), [SoundSpice-mobile](https://github.com/farshed/rSoundSpice-mobile), [ExoPlayer](https://github.com/google/ExoPlayer)
 
 ***
 
 #### Android Browsers
 
-**[Browsers Wiki](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers), [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Berry Browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser), [Ecoasia](https://play.google.com/store/apps/details?id=com.ecosia.android), [AlohaBrowser](https://alohabrowser.com/), [Naked Browser](https://play.google.com/store/apps/details?id=com.fevdev.nakedbrowser), [Via](https://play.google.com/store/apps/details?id=mark.via.gp), [Lynket](https://github.com/arunkumar9t2/lynket-browser), [Lightning](https://github.com/anthonycr/Lightning-Browser), [Dot Browser](https://github.com/dothq/browser-android) , [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) (Debloated Firefox)
+**[Browsers Wiki](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers), [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Berry Browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser), [Ecoasia](https://play.google.com/store/apps/details?id=com.ecosia.android), [AlohaBrowser](https://alohabrowser.com/), [Naked Browser](https://play.google.com/store/apps/details?id=com.fevdev.nakedbrowser), [Via](https://play.google.com/store/apps/details?id=mark.via.gp), [Lynket](https://github.com/arunkumar9t2/lynket-browser), [Lightning](https://github.com/anthonycr/Lightning-Browser), [Dot Browser](https://github.com/dothq/browser-android) , [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) (Debloated Firefox), [Float](https://play.google.com/store/apps/details?id=com.xpp.floatbrowser)
 
 ***
 
@@ -236,7 +237,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Background Removers 
 
-[Remove.bg](https://www.remove.bg/) / [Gimp](https://github.com/manu12121999/RemoveBG-GIMP), [Remove Background](https://pixlr.com/remove-background/), [Rembg](https://github.com/danielgatis/rembg), [Adobe BG Remover](https://www.adobe.com/express/feature/image/remove-background), [bgremover](https://icons8.com/bgremover), [Removal.ai](https://removal.ai/upload/), [Trace](https://www.stickermule.com/trace), [BackgroundCut](https://backgroundcut.co/), [Retoucher](https://retoucher.online/), [Erase-BG](https://www.erase.bg/en/upload), [FocoClippings](https://www.fococlipping.com/), [fotor](https://www.fotor.com/features/background-remover)
+[Remove.bg](https://www.remove.bg/) / [Gimp](https://github.com/manu12121999/RemoveBG-GIMP), [Remove Background](https://pixlr.com/remove-background/), [Rembg](https://github.com/danielgatis/rembg), [Adobe BG Remover](https://www.adobe.com/express/feature/image/remove-background), [bgremover](https://icons8.com/bgremover), [Removal.ai](https://removal.ai/upload/), [Trace](https://www.stickermule.com/trace), [BackgroundCut](https://backgroundcut.co/), [Retoucher](https://retoucher.online/), [Erase-BG](https://www.erase.bg/en/upload), [FocoClippings](https://www.fococlipping.com/), [fotor](https://www.fotor.com/features/background-remover), [ClippingsMagic](https://clippingmagic.com/)
 
 ***
 
@@ -270,7 +271,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Extensions** 
 
-[MyMark](https://www.mymark.me/), [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/), [Bookmarkify](https://addons.mozilla.org/en-US/firefox/addon/bookmarkos/), [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer), [Qlearly](https://qlearly.com/), [Omni](https://github.com/alyssaxuu/omni)
+[MyMark](https://www.mymark.me/), [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/), [Bookmarkify](https://addons.mozilla.org/en-US/firefox/addon/bookmarkos/), [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer), [Qlearly](https://qlearly.com/), [Omni](https://github.com/alyssaxuu/omni), [Centroly](https://centroly.com/)
 
 ***
 
@@ -288,7 +289,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Calendars
 
-[calendso](https://calendso.com/) / [2](https://github.com/calendso/calendso), [Calendly](https://calendly.com/), [Zoho](https://www.zoho.com/calendar/), [Outlook Calendar](https://outlook.office.com/calendar/), [Agenda](https://agenda.edo.io/), [Calendar.com](https://www.calendar.com/), [Tweek](https://tweek.so/), [TinyMonth](https://tinymonth.com/), [arlim](https://arl.im/), [Reclaim](https://reclaim.ai/) 
+[calendso](https://calendso.com/) / [2](https://github.com/calendso/calendso), [Calendly](https://calendly.com/), [Zoho](https://www.zoho.com/calendar/), [Outlook Calendar](https://outlook.office.com/calendar/), [Agenda](https://agenda.edo.io/), [Calendar.com](https://www.calendar.com/), [Tweek](https://tweek.so/), [TinyMonth](https://tinymonth.com/), [arlim](https://arl.im/), [Reclaim](https://reclaim.ai/), [Tui.Calendar](https://github.com/nhn/tui.calendar), [Gantt](https://github.com/neuronetio/gantt-schedule-timeline-calendar)
 
 ***
 
@@ -402,7 +403,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Compression Programs
 
-**[Conversion Tutorial Index](https://fileforums.com/showthread.php?t=96782)**, **[7-zip](https://www.7-zip.org/)** / [Fork](https://github.com/M2Team/NanaZip) / [Dark](https://github.com/huanrenfeng/7zipDarkmode) / [Benchmarks](https://s1.hoffart.de/7zip-bench/), [win-rar](https://www.win-rar.com/) / [Licenses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_winrar_licenses) / [Remove Popup](http://cooltricksb.blogspot.com/2015/03/how-to-remove-40-days-trial-period.html?m=1), [SuperCompression](https://supercompression.ru/), [peazip](https://peazip.github.io/), [hamstersoft](https://hamstersoft.com/), [Unzip Online](https://unzip-online.com/en), [kgbarchiver](https://github.com/RandallFlagg/kgbarchiver), [Pigz](https://zlib.net/pigz/), [GNU Gzip](http://www.gnu.org/software/gzip/), [ezyZip](https://www.ezyzip.com/), [FreeARC](https://sourceforge.net/projects/freearc/) / [FreeARC 0.666](https://www68.zippyshare.com/v/qZUpSdVT/file.html), [UltraARC](https://www.fileforums.com/showpost.php?p=476660&postcount=1135), [p7zip](https://github.com/jinfeihan57/p7zip), [Razorx](https://fileforums.com/showthread.php?t=103577&highlight=Razorx), [DZip](http://speeddemosarchive.com/dzip/), [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer), [bzip2](http://sourceware.org/bzip2/), [bandizip](http://www.bandisoft.com/bandizip/), [tugzip](http://www.tugzip.com/), [objectfixzip](https://www.essentialdatatools.com/products/objectfixzip/) (repair zip), [Benchmark](https://github.com/powturbo/TurboBench), [7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd), [Unrar.online](https://unrar.online/), [izarc](https://www.izarc.org/), [zipextractor](https://zipextractor.app/), [zipware](https://www.zipware.org/), [winzip](https://www.winzip.com/)
+**[Conversion Tutorial Index](https://fileforums.com/showthread.php?t=96782)**, **[7-zip](https://www.7-zip.org/)** / [Fork](https://github.com/M2Team/NanaZip) / [Colab](https://github.com/dropcreations/7zip-in-Google-Colab) / [Dark](https://github.com/huanrenfeng/7zipDarkmode) / [Benchmarks](https://s1.hoffart.de/7zip-bench/), [win-rar](https://www.win-rar.com/) / [Licenses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_winrar_licenses) / [Remove Popup](http://cooltricksb.blogspot.com/2015/03/how-to-remove-40-days-trial-period.html?m=1), [SuperCompression](https://supercompression.ru/), [peazip](https://peazip.github.io/), [hamstersoft](https://hamstersoft.com/), [Unzip Online](https://unzip-online.com/en), [kgbarchiver](https://github.com/RandallFlagg/kgbarchiver), [Pigz](https://zlib.net/pigz/), [GNU Gzip](http://www.gnu.org/software/gzip/), [ezyZip](https://www.ezyzip.com/), [FreeARC](https://sourceforge.net/projects/freearc/) / [FreeARC 0.666](https://www68.zippyshare.com/v/qZUpSdVT/file.html), [UltraARC](https://www.fileforums.com/showpost.php?p=476660&postcount=1135), [p7zip](https://github.com/jinfeihan57/p7zip), [Razorx](https://fileforums.com/showthread.php?t=103577&highlight=Razorx), [DZip](http://speeddemosarchive.com/dzip/), [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer), [bzip2](http://sourceware.org/bzip2/), [bandizip](http://www.bandisoft.com/bandizip/), [tugzip](http://www.tugzip.com/), [objectfixzip](https://www.essentialdatatools.com/products/objectfixzip/) (repair zip), [Benchmark](https://github.com/powturbo/TurboBench), [7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd), [Unrar.online](https://unrar.online/), [izarc](https://www.izarc.org/), [zipextractor](https://zipextractor.app/), [zipware](https://www.zipware.org/), [winzip](https://www.winzip.com/)
 
 ***
 
@@ -520,7 +521,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Encrypted Messengers
 
-**[Signal](https://signal.org/)**, [RetroShare](https://retroshare.cc/), [Off-the-Record](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Demonsaw](https://www.demonsaw.com/), [Bitmessage](https://wiki.bitmessage.org/Main_Page) / [Reference Client](https://github.com/Bitmessage/PyBitmessage), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [Mirage](https://github.com/mirukana/mirage), [Keybase](https://keybase.io/) / [.onion](http://fncuwbiisyh6ak3i.onion/), [CWTCH](https://cwtch.im/), [Bip](https://bip.com/en/), [Simplex](https://simplex.chat/), [Emberclear](https://emberclear.io/), [Matrix](https://matrix.org/) / [Cinny](https://cinny.in/), [Commune](https://commune.chat/), [Mesh](https://mesh.im/), [Utopia](https://utopia-ecosystem.com/), [CoyIM](https://coy.im/), [Shad0w](https://www.shad0w.io/) 
+**[Signal](https://signal.org/)**, [RetroShare](https://retroshare.cc/), [Off-the-Record](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Demonsaw](https://www.demonsaw.com/), [Bitmessage](https://wiki.bitmessage.org/Main_Page) / [Reference Client](https://github.com/Bitmessage/PyBitmessage), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [Mirage](https://github.com/mirukana/mirage), [Keybase](https://keybase.io/) / [.onion](http://fncuwbiisyh6ak3i.onion/), [CWTCH](https://cwtch.im/), [Bip](https://bip.com/en/), [Simplex](https://simplex.chat/), [Emberclear](https://emberclear.io/), [Matrix](https://matrix.org/) / [Cinny](https://cinny.in/), [Commune](https://commune.chat/), [Mesh](https://mesh.im/), [Utopia](https://utopia-ecosystem.com/), [CoyIM](https://coy.im/), [Shad0w](https://www.shad0w.io/), [Speek](https://speek.network/) / [Github](https://github.com/speek-app/speek)
 
 **Matrix Home Servers**
 
@@ -564,7 +565,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Fun Indexes
 
-[Neal.fun](https://neal.fun/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](http://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](http://www.thisismywebsitenow.com/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](http://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://www.chromeexperiments.com/), [0x2a](https://0x2a.re/)
+[Neal.fun](https://neal.fun/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](http://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](http://www.thisismywebsitenow.com/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](http://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://www.chromeexperiments.com/), [0x2a](https://0x2a.re/), [yezi](https://yezi.itch.io/)
 
 ***
 
@@ -829,7 +830,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### HiMovies Clones
 
-* https://theshit.me/ 
+* https://www2.theshit.me/
 * https://www2.6movies.net/
 * https://www1.movieorca.com/
 * https://www1.movierot.com/
@@ -1359,6 +1360,10 @@ Add the following commands to a search to manually scrape each site.
 
 [Notion](https://www.notion.so/) / [Themes](https://notionthemes.yudax.me/), [AppFlowy](https://www.appflowy.io/) / [GitHub](https://github.com/AppFlowy-IO/AppFlowy), [NoteApps](https://noteapps.info/) (index), [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB), [GoogleKeepClone](https://github.com/anselm94/googlekeepclone), [DecksApp](https://decksapp.com/), [TinyList](https://tinylist.app/), [Simplenote](https://simplenote.com/), [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) / [Github](https://github.com/martinstoeckli/SilentNotes), [Standard Notes](https://standardnotes.com/), [QOwnNotes](https://www.qownnotes.org/), [TiddlyWiki](https://tiddlywiki.com/), [Idaesbasic](https://www.github.com/BenHerbst/idaesbasic), [To-Do_App](https://github.com/BigFloppa404/To-Do_App), [Zim Wiki](https://zim-wiki.org/), [Glory Todo Desktop](https://github.com/yessGlory17/glory_todo_desktop), [TickTick](https://www.ticktick.com/), [OpenToDoList](https://gitlab.com/rpdev/opentodolist), [Laverna](https://laverna.cc/), [wikidPad](http://wikidpad.sourceforge.net/), [Turtl](https://turtlapp.com/), [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng), [FromScratch](https://fromscratch.rocks/), [Taskwarrior](https://taskwarrior.org/), [Super Productivity](https://super-productivity.com/), [Rnote](https://github.com/flxzt/rnote), [Fokus](https://fokus-website.netlify.app/), [Planner](https://useplanner.com/), [ToDo R](https://todo-r.com/), [rebel](https://github.com/kumarasinghe/rebel), [NotesMan](https://github.com/OnlyDeLtA/NotesMan/), [Notesnook](https://notesnook.com/), [Write Solo](https://writesolo.com/), [Wri.pe](https://wri.pe/), [Columns](https://columns.app/), [Nototo](https://www.nototo.app/), [Zenkit](https://zenkit.com/en/suite/), [Vikunja](https://vikunja.io/), [Lorien](https://github.com/mbrlabs/Lorien), [tuxBoard](https://gitlab.com/graele84/tuxboard), [Google keep](https://www.google.com/keep/), [PrimePad](https://primapad.com/), [ZippyJot](https://www.zippyjot.com/), [MemOnNotepad](https://www.memonotepad.com/), [Skiff](https://skiff.org/)
 
+**Android To-Do Apps**
+
+[Tasks](https://tasks.org/), [Any.do](https://www.any.do/), [Simpletask](https://f-droid.org/en/packages/nl.mpcjanssen.simpletask), [Orgzly](https://github.com/orgzly/orgzly-android), [Dailly](https://github.com/hydroxion/dailly/)
+
 ***
 
 #### Nuke Anything
@@ -1424,7 +1429,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Open Source Intelligence Indexes
 
-**[Awesome OSINT](https://github.com/jivoi/awesome-osint)**, **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)**, [OSINT Framework](https://osintframework.com/), [OSINT Essentials](https://www.osintessentials.com/), [OSINT Collection](https://github.com/Ph055a/OSINT_Collection), [OSINT Sources](https://github.com/imuledx/OSINT_sources), [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools), [OSINT Recherche](https://atlas.mindmup.com/digintel/digital_intelligence_training/index.html), [Open Source Intelligence](https://start.me/p/gy0NXp/open-source-intelligence-osint), [geoint](https://start.me/p/W1kDAj/geoint), [OSINT Tools](https://start.me/p/wMdQMQ/tools), [Sector035](https://sector035.nl/links), [Nixintel's OSINT](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list), [datajournalism-resources](https://github.com/r3mlab/datajournalism-resources/blob/master/README.md), [UK-OSINT](https://www.uk-osint.net/index.html), [OSINTGeek](https://osintgeek.de/tools), [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT), [Hackers Arise OSINT](https://www.hackers-arise.com/osint), [osint.link](https://osint.link/), [osinttechniques](https://www.osinttechniques.com/osint-tools.html), [Ressources](https://github.com/tzkuat/Ressources/blob/master/OSINT.md), [whatisosint](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it), [osintdojo](https://www.osintdojo.com/resources/), [netbootcamp](https://netbootcamp.org/osinttools/), [300m](https://300m.com/osint/), [einvestigator](https://www.einvestigator.com/open-source-intelligence-tools/), [researchclinic](http://researchclinic.net/), [toddington](https://www.toddington.com/resources/tii-free-resources-knowledge-base/), [reuser](http://rr.reuser.biz/), [booleanstrings](https://booleanstrings.com/tools/), [coreysdigs](https://www.coreysdigs.com/take-action/must-have-tools-for-digging-videos-podcasts/), [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/), [Project Owl](https://discord.gg/projectowl), [RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources), [Quick_OSINT_bot](https://t.me/Quick_OSINT_bot)
+**[Awesome OSINT](https://github.com/jivoi/awesome-osint)**, **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)**, [OSINT Framework](https://osintframework.com/), [OSINT Essentials](https://www.osintessentials.com/), [OSINT Collection](https://github.com/Ph055a/OSINT_Collection), [OSINT Sources](https://github.com/imuledx/OSINT_sources), [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools), [OSINT Recherche](https://atlas.mindmup.com/digintel/digital_intelligence_training/index.html), [Open Source Intelligence](https://start.me/p/gy0NXp/open-source-intelligence-osint), [geoint](https://start.me/p/W1kDAj/geoint), [OSINT Tools](https://start.me/p/wMdQMQ/tools), [Sector035](https://sector035.nl/links), [Nixintel's OSINT](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list), [datajournalism-resources](https://github.com/r3mlab/datajournalism-resources/blob/master/README.md), [UK-OSINT](https://www.uk-osint.net/index.html), [OSINTGeek](https://osintgeek.de/tools), [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT), [Hackers Arise OSINT](https://www.hackers-arise.com/osint), [osint.link](https://osint.link/), [osinttechniques](https://www.osinttechniques.com/osint-tools.html), [Ressources](https://github.com/tzkuat/Ressources/blob/master/OSINT.md), [whatisosint](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it), [osintdojo](https://www.osintdojo.com/resources/), [netbootcamp](https://netbootcamp.org/osinttools/), [300m](https://300m.com/osint/), [einvestigator](https://www.einvestigator.com/open-source-intelligence-tools/), [researchclinic](http://researchclinic.net/), [toddington](https://www.toddington.com/resources/tii-free-resources-knowledge-base/), [reuser](http://rr.reuser.biz/), [booleanstrings](https://booleanstrings.com/tools/), [coreysdigs](https://www.coreysdigs.com/take-action/must-have-tools-for-digging-videos-podcasts/), [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/), [Project Owl](https://discord.gg/projectowl), [RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources), [Quick_OSINT_bot](https://t.me/Quick_OSINT_bot), [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools)
 
 ***
 
@@ -1504,6 +1509,12 @@ Add the following commands to a search to manually scrape each site.
 **Programs** 
 
 **[Acrobat Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_acrobat_pro)**, [PDFTK](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/), [xPDFReader](http://www.xpdfreader.com/), [PDFBox](https://pdfbox.apache.org/), [PDFescape](https://www.pdfescape.com/), [OpenPDF](https://github.com/LibrePDF/OpenPDF), [PDFedit](http://pdfedit.cz/en/index.html), [PDFSharp](http://www.pdfsharp.net/), [PDFSam](https://pdfsam.org/), [Poppler](https://blog.alivate.com.au/poppler-windows/), [PDFCore](https://www.pdfcore.com/), [PDFEraser](https://www.pdferaser.net/), [PDFShaper](https://www.pdfshaper.com/), [PoDoFo](https://sourceforge.net/projects/podofo/), [pdftkb](http://www.angusj.com/pdftkb/), [xodo](https://www.xodo.com/app/), [pdf-analyzer](https://pdf-analyzer.com/mdownloads.html), [PDF Forge](https://www.pdfforge.org/), [PDFInsider](https://pdfinsider.com/), [PDFChef](https://pdfchef.com/online-pdf-tools.html), [Didier Stevens PDF Tools](https://blog.didierstevens.com/programs/pdf-tools/) (CLI)
+
+***
+
+#### Periodic Tables
+
+[Periodic Stats](https://periodicstats.com/), [The Periodic Table Of Elements](https://periodictableofchemicalelements.com/), [Periodic Table](https://periodic-table.io/), [Images-Of-Elements](https://images-of-elements.com/), [Graph Overflow](https://graphoverflow.com/graphs/3d-periodic-table.html), [3D Periodic Table](https://artsexperiments.withgoogle.com/periodic-table/), [PeriodicTableApp](https://periodictableapp.com/), [Periodic Table](https://www.periodic-table.org/), [Ptable](https://ptable.com/)
 
 ***
 
@@ -1648,7 +1659,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Proxy Lists
 
-**[PROXY List](https://github.com/TheSpeedX/PROXY-List)**, [Free-Proxy-List](https://free-proxy-list.net/), [Proxy-Daily](https://proxy-daily.com/), [Cool-Proxy](https://www.cool-proxy.net/), [Proxy-List](https://github.com/Volodichev/proxy-list) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://github.com/roosterkid/openproxylist), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hidemy.name/en/proxy-list/), [FreeProxyLists](https://www.freeproxylists.net/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [premproxy](https://www.premproxy.com/list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy)
+**[PROXY List](https://github.com/TheSpeedX/PROXY-List)**, [Free-Proxy-List](https://free-proxy-list.net/), [Proxy-Daily](https://proxy-daily.com/), [Cool-Proxy](https://www.cool-proxy.net/), [Proxy-List](https://github.com/Volodichev/proxy-list) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://github.com/roosterkid/openproxylist), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hidemy.name/en/proxy-list/), [FreeProxyLists](https://www.freeproxylists.net/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [premproxy](https://www.premproxy.com/list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [free-proxy](http://free-proxy.cz/en/web-proxylist/), [geonode](https://geonode.com/free-proxy-list/)
 
 ***
 
@@ -1770,13 +1781,13 @@ Add the following commands to a search to manually scrape each site.
 
 #### Royalty Free Music
 
-[Free Music Archive](https://www.freemusicarchive.org/), [freesoundtrackmusic](https://www.freesoundtrackmusic.com/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [Starfrosch](https://starfrosch.com/), [StreamBeats](https://www.streambeats.com/), [Mubert](https://mubert.com/), [ccHound](https://cchound.com/), [MusicScreen](https://www.musicscreen.org/), [FilmMusic](https://www.filmmusic.io/), [FreePD](https://www.freepd.com/), [Fugue](https://icons8.com/music), [EDMRF](https://edmroyaltyfree.net/), [chosic](https://www.chosic.com/free-music/all/), [Anttis Instrumentals](https://www.gamedev.net/news/2000-instrumental-pieces-released-by-anttis-instrumentals-r1135/) / [Torrent](https://drive.google.com/open?id=0ByvAPNATAYsBR0FUczYzWHk3NEU )
+[Free Music Archive](https://www.freemusicarchive.org/), [freesoundtrackmusic](https://www.freesoundtrackmusic.com/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [Starfrosch](https://starfrosch.com/), [StreamBeats](https://www.streambeats.com/), [Mubert](https://mubert.com/), [ccHound](https://cchound.com/), [MusicScreen](https://www.musicscreen.org/), [FilmMusic](https://www.filmmusic.io/), [FreePD](https://www.freepd.com/), [Fugue](https://icons8.com/music), [EDMRF](https://edmroyaltyfree.net/), [chosic](https://www.chosic.com/free-music/all/), [Anttis Instrumentals](https://www.gamedev.net/news/2000-instrumental-pieces-released-by-anttis-instrumentals-r1135/) / [Torrent](https://drive.google.com/open?id=0ByvAPNATAYsBR0FUczYzWHk3NEU), [Sampld](https://open.sampld.app/)
 
 ***
 
 #### RSS Feed Readers
 
-[FeedReader](http://www.feedreader.com/), [QuiteRSS](https://quiterss.org/), [RSSOwl](http://www.rssowl.org/), [CommaFeed](https://www.commafeed.com/#/welcome), [RSSHub](https://github.com/DIYgod/RSSHub), [spaRSS](https://github.com/Etuldan/spaRSS), [FreshRSS](https://freshrss.org/), [Fluent Reader](https://hyliu.me/fluent-reader/), [Feeder](https://feeder.co/), [The Old Reader](https://theoldreader.com/), [NewsBoat](https://newsboat.org/), [tt-rss](https://tt-rss.org/), [TheFeedReaderBot](https://thefeedreaderbot.com/) (Console), [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk), [Miniflux](https://miniflux.app/), [Photon](https://git.sr.ht/~ghost08/photon), [selfoss](https://selfoss.aditu.de/), [gorss](https://github.com/Lallassu/gorss), [RSS Guard](https://github.com/martinrotter/rssguard) 
+[FeedReader](http://www.feedreader.com/), [QuiteRSS](https://quiterss.org/), [RSSOwl](http://www.rssowl.org/), [CommaFeed](https://www.commafeed.com/#/welcome), [RSSHub](https://github.com/DIYgod/RSSHub), [spaRSS](https://github.com/Etuldan/spaRSS), [FreshRSS](https://freshrss.org/), [Fluent Reader](https://hyliu.me/fluent-reader/), [Feeder](https://feeder.co/), [The Old Reader](https://theoldreader.com/), [NewsBoat](https://newsboat.org/), [tt-rss](https://tt-rss.org/), [TheFeedReaderBot](https://thefeedreaderbot.com/) (Console), [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk), [Miniflux](https://miniflux.app/), [Photon](https://git.sr.ht/~ghost08/photon), [selfoss](https://selfoss.aditu.de/), [gorss](https://github.com/Lallassu/gorss), [RSS Guard](https://github.com/martinrotter/rssguard), [BringRSS](https://github.com/voussoir/bringrss), [NewsBlur](https://github.com/samuelclay/NewsBlur)
 
 **Extensions**
 
@@ -1878,8 +1889,11 @@ Add the following commands to a search to manually scrape each site.
 * [1230james](https://1230james.xyz/music/) 
 * [CosandScores](http://waltercosand.com/CosandScores/)
 * [librescore](https://demo.librescore.org/) 
+* [Free Scores](https://m.free-scores.com/)
 * [torbybrand](https://torbybrand.com/sheet-music/)
-* [78.108.108.201](http://78.108.108.201/) 
+* [SheetMusicInternational](https://sheetmusicinternational.com/)
+* [78.108.108.201](http://78.108.108.201/)
+* [SheetMusicForFree](https://sheetmusicforfree.com/)
 * [bateristaspt](https://www.bateristaspt.com/membros/drumscores/) 
 * [tchunes](https://www.daev.ca/tchunes/)
 * [Sheets Piano](https://sheets-piano.ru/) 
@@ -1905,7 +1919,7 @@ Add the following commands to a search to manually scrape each site.
 * [Piano Sheet Music Drive](https://drive.google.com/drive/folders/0BxkQJMTuId4dfkxiM01GYnFBUFdDVmRHMGREM1JKYVdBajJtV2pVSExrS2txT1BOdXlfMUE?resourcekey=0-4uwizkHnsGLakmC-cA173A) / [2](https://drive.google.com/drive/folders/1-hieArroBCq1x6z4GQ_gdFuyEz_Ftvxg)
 * [Anime Sheet Music Drive](https://drive.google.com/drive/folders/0B2k9HIXzBEfMVlgxTlhNWThzZkk?resourcekey=0-q0RdwD55Az5S3NigaliZEA)
 * [sniff](http://sniff.numachi.com/)
-* [FluteTunes](https://www.flutetunes.com/)
+* [FluteTunes](https://www.flutetunes.com/) or [Flue Music](https://drive.google.com/drive/folders/1WMtVRNqLFdEQ4X39Dpof9o5aWGJsdtFe?usp=sharing)
 * [cpdl](https://www.cpdl.org/wiki/index.php/Main_Page)
 * [Ichigos](https://ichigos.com/)
 * [free-scores](https://www.free-scores.com/free-sheet-music.php)
@@ -1989,7 +2003,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Sites / Programs**
 
-[Midomi](https://www.midomi.com/), [AcrCloud](https://www.acrcloud.com/identify-songs-music-recognition-online/), [/r/NameThatSong](https://reddit.com/r/NameThatSong), [Dejavu](https://github.com/worldveil/dejavu) (python), [Audd](https://audd.io/) (api), [MusicRecognizer](https://github.com/NerdSmith/MusicRecognizer), [Mousai](https://github.com/SeaDve/Mousai)
+[Midomi](https://www.midomi.com/), [AcrCloud](https://www.acrcloud.com/identify-songs-music-recognition-online/), [/r/NameThatSong](https://reddit.com/r/NameThatSong), [Dejavu](https://github.com/worldveil/dejavu) (python), [Audd](https://audd.io/) (api), [MusicRecognizer](https://github.com/NerdSmith/MusicRecognizer), [Mousai](https://github.com/SeaDve/Mousai), [AudioTag](https://audiotag.info/)
 
 **Mobile Apps**
 
@@ -2446,7 +2460,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Text Rephrashing
 
-[QuillBot AI](https://quillbot.com/), [Rewrite Tool](https://www.rewritetool.net/), [Paraphraz](https://paraphraz.it/), [Rewriter](https://rewriter.tools/), [Spinbot](https://spinbot.com/), [Paraphrasing Tool](https://paraphrasetool.com/), [ArticleReword](https://www.articlereword.com/rewriter/), [Rephrasely](https://rephrasely.com/), [Paraphraser](https://www.paraphraser.io/), [SmartArticleWriter](https://smartarticlerewriter.com/), [Paraphrase-Online](https://paraphrase-online.com/), [articlerewritertool](https://articlerewritertool.com/), [Trubo Spinner](http://script4.prothemes.biz/), [rephraser](https://www.rephraser.net/rewording-tool/), [summarizetool](https://www.summarizetool.com/), [caligonia](http://caligonia.com/a2/rewrite.php), [paraphrasing-tool](http://paraphrasing-tool.com/), [freearticlespinning](http://www.freearticlespinning.com/), [article-spinner](http://free-article-spinner.com/)
+[QuillBot AI](https://quillbot.com/) / [Premium Unlock](https://github.com/blueagler/QuillBot-Premium-Crack), [Rewrite Tool](https://www.rewritetool.net/), [Paraphraz](https://paraphraz.it/), [Rewriter](https://rewriter.tools/), [Spinbot](https://spinbot.com/), [Paraphrasing Tool](https://paraphrasetool.com/), [ArticleReword](https://www.articlereword.com/rewriter/), [Rephrasely](https://rephrasely.com/), [Paraphraser](https://www.paraphraser.io/), [SmartArticleWriter](https://smartarticlerewriter.com/), [Paraphrase-Online](https://paraphrase-online.com/), [articlerewritertool](https://articlerewritertool.com/), [Trubo Spinner](http://script4.prothemes.biz/), [rephraser](https://www.rephraser.net/rewording-tool/), [summarizetool](https://www.summarizetool.com/), [caligonia](http://caligonia.com/a2/rewrite.php), [paraphrasing-tool](http://paraphrasing-tool.com/), [freearticlespinning](http://www.freearticlespinning.com/), [article-spinner](http://free-article-spinner.com/)
 
 ***
 
@@ -2479,7 +2493,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### TikTok Video Downloaders
 
-[SnapTik](https://snaptik.app/), [RipTok](https://github.com/adamsatyr/RipTok), [TikMate](https://www.tikmate.online/), [TikTokFull](https://tiktokfull.com/), [TikTokDer](https://tiktokder.com/), [Tik.fail](https://tik.fail/), [tikmate](https://tikmate.app/), [tikfast](https://tikfast.net/), [SaveTT](https://savett.cc/), [ssstikvideo](https://www.ssstikvideo.com/)
+[SnapTik](https://snaptik.app/), [RipTok](https://github.com/adamsatyr/RipTok), [TikMate](https://www.tikmate.online/), [TikTokFull](https://tiktokfull.com/), [TokDer](https://tokder.org/), [Tik.fail](https://tik.fail/), [tikmate](https://tikmate.app/), [tikfast](https://tikfast.net/), [SaveTT](https://savett.cc/), [ssstikvideo](https://www.ssstikvideo.com/)
 
 ***
 
@@ -2722,7 +2736,7 @@ Good for finding classic, obscure & short films.
 
 #### VSCode Tools
 
-[Open VSX Registry](https://open-vsx.org/) / [Discord Tools](https://github.com/Darkempire78/Discord-Tools) / [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) / [Browser](https://vscode.dev/), [2](https://code.cs50.io/) / [Insider Build](https://insiders.vscode.dev/) / [Logo Extension](https://github.com/tale/logos-vscode) / [Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
+[Open VSX Registry](https://open-vsx.org/) / [Discord Tools](https://github.com/Darkempire78/Discord-Tools) / [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) / [Smart Clics](https://github.com/antfu/vscode-smart-clicks) / [Browser](https://vscode.dev/), [2](https://code.cs50.io/) / [Insider Build](https://insiders.vscode.dev/) / [Logo Extension](https://github.com/tale/logos-vscode) / [Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
 
 **VSCode Themes** 
 
@@ -2792,7 +2806,7 @@ Good for finding classic, obscure & short films.
 
 **Extensions** 
 
-[SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ), [archiveror](https://github.com/rahiel/archiveror), [archiveweb](https://archiveweb.page/), [Wayback Machine](https://github.com/internetarchive/wayback-machine-webextension), [Web Archives](https://github.com/dessant/web-archives), [Vandal](https://vegetableman.github.io/vandal/) / [Git](https://github.com/vegetableman/vandal), [simplescraper](https://simplescraper.io/)
+[SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ), [archiveror](https://github.com/rahiel/archiveror), [archiveweb](https://archiveweb.page/), [Wayback Machine](https://github.com/internetarchive/wayback-machine-webextension), [Web Archives](https://github.com/dessant/web-archives), [Vandal](https://vegetableman.github.io/vandal/) / [Git](https://github.com/vegetableman/vandal), [simplescraper](https://simplescraper.io/), [markdownload](https://github.com/deathau/MarkDownload)
 
 ***
 
