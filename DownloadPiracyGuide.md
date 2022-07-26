@@ -307,7 +307,8 @@
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Windows Software Index 
 * [UWP Community](https://uwpcommunity.com/) - Universal Windows Programs / [Discord](https://discord.gg/eBHZSKG)
 * [RaymondFreeSoftware](https://t.me/raymondfreesoftware) - Telegram / [Index](https://t.me/rfsnotes)
-* [Suckless](https://suckless.org/) - Simple Software Archive 
+* [Suckless](https://suckless.org/) - Simple Software Archive
+* [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications) - Python Apps
 * [WinWorldPC](https://winworldpc.com/) - Abandonware / Operating Systems 
 * [VETUSWARE](https://vetusware.com/) - Abandonware / Operating Systems / Games
 * [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Self-Hosted Software Index 
