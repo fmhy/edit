@@ -737,6 +737,7 @@
 * [CESDB](https://www.cesdb.com/) - Civil Engineering Software
 * [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides 
 * [Neptune](https://youtu.be/gTNVxHSemxA) or [ERS3D](http://www.ers3d.com/home/moduleInfo.do?moduleId=11&listId=92) - Marine Engineering Room Simulator
+* [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
 * [Traffic Simulation](https://traffic-simulation.de/) - Traffic Flow Simulation 
 * [Bridge Command](https://www.bridgecommand.co.uk/) - Bridge Command Ship Simulator
 * [Sectional Anatomy](https://www.sectional-anatomy.org/) - Cross Sectional Educational MRI / CT Scans
