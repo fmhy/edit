@@ -2905,7 +2905,7 @@ Good for finding classic, obscure & short films.
 
 #### Youtube Android Apps
 
-[Vanced Manager](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_vanced_manager), [Vanced Mirrors](https://mirror.codebucket.de/vanced/api/) / [2](https://vanced.esherloon.com/), [Skytube (no login needed)](https://skytube-app.com/) / [GitHub](https://github.com/SkyTubeTeam/SkyTube/), [NewPipe](https://newpipe.net/), [Newpipe w/ Sponsorblock](https://github.com/polymorphicshade/NewPipe), [VueTube](https://vuetube.app/) / [GitHub](https://github.com/Frontesque/VueTube), [uYouPlus](https://github.com/qnblackcat/uYouPlus), [AfterVanced](https://www.reddit.com/r/AfterVanced/)
+[Vanced Manager](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_vanced_manager), [Vanced Mirrors](https://mirror.codebucket.de/vanced/api/) / [2](https://vanced.esherloon.com/) / [3](https://github.com/cuynu/ytvanced), [Skytube (no login needed)](https://skytube-app.com/) / [GitHub](https://github.com/SkyTubeTeam/SkyTube/), [NewPipe](https://newpipe.net/), [Newpipe w/ Sponsorblock](https://github.com/polymorphicshade/NewPipe), [VueTube](https://vuetube.app/) / [GitHub](https://github.com/Frontesque/VueTube), [uYouPlus](https://github.com/qnblackcat/uYouPlus), [AfterVanced](https://www.reddit.com/r/AfterVanced/)
 
 ***
 
