@@ -243,7 +243,8 @@
 
 # ► Linux Adblock / Privacy
 
-* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) or [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) - Linux Privacy Guide 
+* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) or [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) - Linux Privacy Guide
+* [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
 * [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
 * [Twilio Authy](https://snapcraft.io/authy) - Linux Two-Factor Authentication
 * [Menu Searx](https://github.com/MossyMossMoss/menu-searx) - SearX Search Tool 
@@ -288,7 +289,7 @@
 # ► Linux Gaming
 
 * **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** - Linux Gaming Guides
-* **[protondb](https://www.protondb.com/)**, **[Lutris](https://lutris.net/)** or [Proton](https://github.com/ValveSoftware/Proton) - Play Windows games on Linux
+* **[protondb](https://www.protondb.com/)**, **[Lutris](https://lutris.net/)**, [PortWine](https://portwine-linux.ru/portwine-faq/) or [Proton](https://github.com/ValveSoftware/Proton) - Play Windows games on Linux
 * **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
 * **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games
 * [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices 
@@ -343,11 +344,13 @@
 * [Enmity](https://enmity.app/) - Modded Discord Client / [GitHub](https://github.com/enmity-mod) / [Discord](https://discord.com/invite/rMdzhWUaGT)
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) - Download MacOS
 * [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions MacOS
+* [ravynOS](https://airyx.org/) - FreeBSD style MacOS
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [Boot Camp](https://support.apple.com/boot-camp) - Windows Bootloader 
 * [Docker OSX](https://github.com/sickcodes/Docker-OSX) - Mac VM in Docker
 * [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - MacOS Virtualbox Installer
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 Desktop Client for macOS
+* [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player
 * [Subsonic](https://github.com/twostraws/Subsonic) - SwiftUI Audio Player
 * [LimaVM](https://github.com/lima-vm/lima) - Linux VM on MacOS
 * [CrossOver](https://www.codeweavers.com/crossover) - Run Windows Programs on Mac / Infinite Free Trials
