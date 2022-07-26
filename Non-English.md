@@ -119,6 +119,7 @@
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [XX-Net](https://github.com/XX-net/XX-Net), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser) or [OilAndFish](https://www.oilandfish.com/) - Bypass Chinese Firewall  
 * [Gitee](https://gitee.com/) - GitHub Alternative
 * [BookStack](https://www.bookstack.cn/) - Developer / Programming Guides
+* [FE Hunter](https://github.com/BetaSu/fe-hunter) - Programming Question Bounties
 * [Gridea](https://github.com/getgridea/gridea) - Blog Writing Client
 * [Dict.Baidu](https://dict.baidu.com/) - Chinese Word, Idiom & Poem Search
 * [SeiWatei](https://www.seiwatei.net/) or [chinadaily](https://language.chinadaily.com.cn/news_bilingual/) - Learn Chinese
@@ -222,8 +223,10 @@
 * [ishare.iask](https://ishare.iask.sina.com.cn/) - Documents  
 * [555电影](https://www.o8tv.com/), [2](https://555dy1.com/) - Movies / TV / Anime / NSFW
 * [CText](https://ctext.org/), [ChineseNotes](http://chinesenotes.com/) or [Kanripo](https://www.kanripo.org/) - Chinese Historic Text Archive
+* [awesome-wiki-books](https://github.com/awesome-wiki/awesome-wiki-books) - Programming Books
 * [guoxue](http://www.guoxue.com/) - History / Journals
 * [Chinese Programming Books](https://github.com/justjavac/free-programming-books-zh_CN)
+* [TTS PDF](https://github.com/cnlinxi/book-text-to-speech/blob/main/text_to_speech.pdf) - Text to Speech Book
 * [Moedict](https://www.moedict.tw/), [dict.cn](https://dict.cn/), [CantoDict](http://www.cantonese.sheik.co.uk/dictionary/) or [ZDic](https://www.zdic.net/) - Chinese Dictionary
 * [kangxizidian](https://kangxizidian.com/) - Chinese Kangxi Dictionary
 * [CCams](http://www.ccamc.co/) - Chinese Character Search
@@ -472,6 +475,7 @@
 * [Tainio-Mania](https://tainio-mania.online/) , [2](https://tenies-online.best/) - Movies / TV / Anime 
 * [ELTube](https://www.eltube.gr/) - Movies / TV
 * [Greek-Movies](https://greek-movies.com/) - Movies / TV / Live / Courses
+* [Voody](https://voody-online.com/) - Movies / TV / Anime 
 
 ***
 
@@ -491,7 +495,7 @@
 ## ▷ Downloading
 
 * [Mkv Cinemas](https://www.mkvcinemas.fi/) - Movies / TV 
-* [9xMovies](https://9xmovies.wang/) - Movies / TV 
+* [9xMovies](https://9xmovies.yoga/), [2](https://9xmovies.farm/) - Movies / TV 
 * [OlaMovies](https://olamovies.lol/) - Movies / TV / [Telegram](https://t.me/olamovies_official_v2) 
 * [VegaMovies](https://m.vegamovies.lol/) - Movies / [Telegram](https://t.me/Vegamoviesgroup2)
 * [MoviesVerse](https://moviezverse.com/) - Movies / TV / [Telegram](https://t.me/moviesflixverse) 
@@ -1179,6 +1183,7 @@
 * [Revista Do Linux](http://augustocampos.net/revista-do-linux/index.html) - Linux Magazine
 * [jornaisbrasileiros](http://www.jornaisbrasileiros.net.br/) - News App
 * [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/) - Development Tutorials
+* [guiadofrontend](https://github.com/arthurspk/guiadofrontend) - Front-End Development Guide
 * [Toda Materia](https://www.todamateria.com.br/) - Learning Material
 * [Brasil Escola](https://brasilescola.uol.com.br/) - Learning Material
 * [Mundo Educacao](https://mundoeducacao.uol.com.br/) - Math / History
@@ -1484,6 +1489,7 @@
 * [Cliver](https://www.cliver.to/) - Movies
 * [Repelis24](https://repelis24.co/) - Movies / TV
 * [PelisForte](https://pelisforte.co/) - Movies / TV
+* [EntrePeliculasySeries](https://entrepeliculasyseries.nz/capitulos-en-sub-espanol/) - Movies / TV / Anime  
 * [Cine.Arplay](https://play.cine.ar/) - Movies / TV 
 * [locopelis](https://www.locopelis.com/) - Movies / NSFW
 * [tekilaz](https://tekilaz.co/) - Movies / TV
@@ -1808,14 +1814,14 @@
 * [0GoMovies](https://www.0gomovies.com/) - Streaming / Movies / TV
 * [khatrimazafull](https://khatrimazafull.show/) - Streaming / Download / Movies
 * [7MovieRulz](https://7movierulz.pe/) - Streaming / Movies
+* [7MovieRulz.es](https://7movierulz.es/) - Stream / Torrent / Movies / [Telegram](https://t.me/movierulztv)
 * [Movierulz](https://movierulzhd.bar/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
+* [MovieRulz.art](https://movierulzlink.art/) - Streaming / Movies
 * [TamilRockers](https://www.tamilrockermovies.org/) - Streaming / Torrent / Movies
 * [HiidudeMoviez](https://ww1.4hiidude.me/) - Streaming / Torrent / Movies / [Telegram](https://telegram.me/hiidudemoviez)
 * [v100v.net](https://www.v100v.net/) - Streaming / Movies
-* [MovieRulz](https://movierulzlink.art/) - Streaming / Movies
 * [Toroflix](https://freewatchhindimoviesonline.com/) - Streaming / Movies
 * [1jalshamoviez](https://www.1jalshamoviez.info/) - Download / Movies
-* [7MovieRulz](https://7movierulz.es/) - Stream / Torrent / Movies / [Telegram](https://t.me/movierulztv)
 * [Movies Counter](https://moviescounter.se/) - Download / Movies
 * [FilmyGod](https://filmygod7.in/) - Movies / [Telegram](https://t.me/+TT_cQkr00BnhM2eA)
 * [CineVood](https://cinevood.sbs/) - Download / Movies
