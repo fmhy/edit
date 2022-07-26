@@ -1661,3 +1661,9 @@ pass: paluch
 #### Lossless Scaling
 
 `aHR0cHM6Ly9jcy5yaW4ucnUvZm9ydW0vc2VhcmNoLnBocD9rZXl3b3Jkcz1Mb3NzbGVzcytTY2FsaW5nJnRlcm1zPWFueSZhdXRob3I9JnNjPTEmc2Y9dGl0bGVvbmx5JnNrPXQmc2Q9ZCZzcj10b3BpY3Mmc3Q9MCZjaD0zMDAmdD0wJnN1Ym1pdD1TZWFyY2g=`
+
+***
+
+#### Ninja Warrior
+
+`aHR0cHM6Ly9yZW50cnkuY28vTmluamFXYXJyaW9y`
