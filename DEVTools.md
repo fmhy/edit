@@ -88,9 +88,10 @@
 * [FreeCourses](https://freecourses.github.io/) - Programming Courses
 * [HelloWorldCollection](http://helloworldcollection.de/) - Hello World Programming Collection
 * [VisualGo](https://visualgo.net/) - Data Structures & Algorithm Animations
-* [HTMLDog](https://htmldog.com/) - HTML / CSS / JavaScript Tutorials 
+* [HTMLDog](https://htmldog.com/) - HTML / CSS / JavaScript Tutorials
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/) - HTML & CSS Tutorials
 * [VIM Adventures](https://vim-adventures.com/) - VIM Learning Game
+* [VIM University](https://github.com/wincent/vim-university) - VIM Tips
 * [Learn C](https://www.learn-c.org/) - C Tutorial
 * [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - C++ Best Practices Guidelines / [Github](https://github.com/isocpp/CppCoreGuidelines)
 * [Learn C++](https://www.learncpp.com/) - Learn C++
@@ -474,6 +475,8 @@
 * [Discuzz](https://github.com/discuzz-app/discuzz) - Open Source Comment System
 * [DaButtonFactory](http://dabuttonfactory.com/) or [ButtonOptimizer](http://buttonoptimizer.com/) - Button Generator
 * [GetButton](https://getbutton.io/) - Get free 'Message Us' Button for your Site
+* [Automated Incident Response](https://github.com/awslabs/aws-automated-incident-response-and-forensics) - Automated Incident Response and Forensics Framework
+Automated Incident Response and Forensics Framework
 * [cssbuttons](https://cssbuttons.io/) - CSS Buttons
 * [CBox](https://www.cbox.ws/) or [Tawk](https://www.tawk.to/) - Embedded Chat App
 * [StackWhats](https://stackwhats.com/) - Add Whatsapp Chat to Your Website
@@ -647,6 +650,7 @@
 * [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Hishoot2i](https://github.com/hishoot2i/Hishoot2i) / [Templates](https://t.me/hishoot2imaterial), [RiseShot](https://www.riseshot.com/) or [LS Graphics](https://www.ls.graphics/) - App & Site Mockups
 * [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
 * [UIGarage](https://uigarage.net/), [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui), [UXArchive](https://uxarchive.com/), [Mobbin](https://mobbin.design/), [UISources](https://www.uisources.com/) or [LovelyUI](https://lovelyui.com/) - Mobile UI Designs
+* [Revanced Patcher](https://github.com/ReVancedTeam/revanced-patcher) - Patcher Used by Revanced
 * [Screen from Traction](https://screen.traction.one/) - Create App Screenshots
 
 ***
@@ -808,10 +812,11 @@
 * [Nightly.link](https://nightly.link/) - GitHub Sharable Nightly Links
 * [Sourcegraph](https://about.sourcegraph.com/) - GitHub Repository Sourcegraph Editor 
 * [onefetch](https://github.com/o2sh/onefetch) - Git Information Terminal
+* [shot-scraper-template](https://github.com/simonw/shot-scraper-template) -  Take Automated Screenshots of Web Pages
 * [PR Monitor](https://github.com/fwouts/prmonitor)or [advanced-github-notifier](https://github.com/freaktechnik/advanced-github-notifier) - Pull Request Notifier  
 * [Gidget](https://github.com/GDGVIT/gidget) - Pull Request Notifier / Android
 * [Whats New GitHub](https://github.com/flawyte/whats-new-github) - Repository Change Feed 
-* [Conventional Commits](https://www.conventionalcommits.org/) - Commit message specification
+* [Conventional Commits](https://www.conventionalcommits.org/) - Commit Message Specification
 * [Git Cliff](https://github.com/orhun/git-cliff) - Changelog Generator
 * [ReadmeGallery](http://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/) - GitHub Remdme Gallery Creator
 * [readme.so](https://readme.so/) - Readme Markdown Editor
