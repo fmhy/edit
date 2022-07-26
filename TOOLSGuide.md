@@ -71,20 +71,19 @@
 * [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/), [BestRandoms](https://www.bestrandoms.com/), [Randommer](https://randommer.io/), [GeneratorFun](https://generatorfun.com/) or [Random Lists](https://www.randomlists.com/) - Random Generators
 * [Score Count](https://scorecount.com/) - Online Sports Scoreboards
 * [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizer
-* [PollCode](https://pollcode.com/), [YoPolls](https://www.yopolls.com/), [Polls.fr](https://polls.fr/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/), [framadate](https://framadate.org/) or [poal.me](https://poal.me/) - Poll Creator
+* [PollCode](https://pollcode.com/), [YoPolls](https://www.yopolls.com/), [Polls.fr](https://polls.fr/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/), [StrawPoll](https://strawpoll.com/), [framadate](https://framadate.org/) or [poal.me](https://poal.me/) - Poll Creator
 * [sli.do](https://www.sli.do/), [Feedbackr](https://www.feedbackr.io/) or [Trypingo](http://trypingo.com/) - Live Polling Apps
 * [Event Rally](https://rallly.co/) - Collaborate and Vote on a Date to Host / [GitHub](https://github.com/lukevella/Rallly)
 * [Diff Checker](https://www.diffchecker.com/) - Check Differences in Text, Images, PDFs or Files
 * [Find Your Place](https://where-is-this.com/) - Find Places from Pictures
 * [IRuler](https://iruler.net/) - Turn Device into Ruler
-* [Awesome Forensics](https://github.com/cugu/awesome-forensics) or [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools) - Digital Forensics Tools  
 * [Chaotic Shiny](http://chaoticshiny.com/) - Fantasy Writing Generator 
 * [GitKraken Timeline](https://timelines.gitkraken.com/), [Timeline Cascade](https://cascade.page/) / [GitHub](https://github.com/kochrt/cascade.page), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
 * [Timeliner](https://github.com/mholt/timeliner) - Create Personal Digital Timeline
 * [SwimLanes](https://swimlanes.io/) or [Diagrams.net](https://www.diagrams.net/) - Create Diagrams
 * [WhatDog](https://www.bing.com/visualsearch/Microsoft/WhatDog) - Dog Breed Identification Tool 
 * [tusk](https://tusk.page/) - Give & Receive Anonymous Feedback 
-* [Gramps](https://gramps-project.org/blog/) - Genealogy Research Tool
+* [Familypedia](https://familypedia.fandom.com/), [Gramps](https://gramps-project.org/blog/) or [WikiTree](https://wikitree.com/) - Family Trees
 * [DreamForth](http://www.dreamforth.com/) - Dream Interpretations
 * [Delphi](https://delphi.allenai.org/) - Morality Judgement A.I.
 * [ThistoThat](http://www.thistothat.com/) - How to Glue Anything to Anything
@@ -165,7 +164,8 @@
 * [Translation Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_translation_sites) - Online Translators
 * [Crow Translate](https://github.com/crow-translate/crow-translate) or [Argos](https://github.com/argosopentech/argos-translate) - Translation App
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
-* [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator 
+* [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
+* [LyricsTranslate](https://lyricstranslate.com/) - Lyric Translator
 * [LingoJam](https://lingojam.com/) - Create Translator
 * [Translator++](https://dreamsavior.net/translator-the-introduction/) - Automatic Translator / Editor
 * [Poedit](https://poedit.net/) - Translation Editor
@@ -173,7 +173,8 @@
 * [Project Naptha](https://projectnaptha.com/) - Image to Text Translator
 * [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
 * [Delim](https://delim.co/) - Comma Separating Tool
-* [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - Create Parallel text Web
+* [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - Create Parallel Text Web
+* [TextRepeater](https://textrepeater.com/) - Repeat Text
 * [Count Duplicates](https://www.somacon.com/p568.php) or [MyNikko](http://www.mynikko.com/tools/tool_duplicateremover.html) - Count / Remove Duplicates in a List
 * [TextCompare](https://www.textcompare.org/) - Compare Text
 * [Count Wordsworth](http://countwordsworth.com/) - Count Words in a List 
@@ -307,6 +308,7 @@
 * [Avidemux](http://fixounet.free.fr/avidemux/) - Cut / Filter / Encode 
 * [vidcutter](https://github.com/ozmartian/vidcutter) - Cut Videos 
 * [ShortApp](https://shortsapp.com/) - Cut Video / Audio into Shorts
+* [Crop Video](https://crop-video.com/) - Crop Videos
 * [WeGreyScale](https://www.wegrayscale.com/) - Greyscale Videos / Images
 * [Gyroflow](https://gyroflow.xyz/) - Video Stabilization / [GitHub](https://github.com/gyroflow/gyroflow)
 * [Croosfade](https://crossfade.io/) - Video and Audio Crossfading
@@ -494,7 +496,7 @@
 * [Roland 808303.studio](https://808303.studio/) - Online Drum Machine / TB-303 Bass Synth 
 * [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/) or [Hammmerhead](http://www.threechords.com/hammerhead/) - Online Drum Machine
 * [orDrumbox](https://www.ordrumbox.com/) - Drum Machine
-* [Dot Piano](https://dotpiano.com/) or [Piano Online](https://magicode.me/piano-online) - Online Piano
+* [Dot Piano](https://dotpiano.com/), [VirtualPiano](https://virtualpiano.net/) or [Piano Online](https://magicode.me/piano-online) - Online Piano
 * [Petaporon](https://pixwlk.itch.io/petaporon) - Piano Sequencer / [Editor](https://pixwlk.itch.io/petaporon-editor)
 * [MK-1](https://ericrosenbaum.github.io/MK-1/) - Online Sampling Keyboard
 * [Sampulator](http://sampulator.com/) - Create Music via Keyboard
@@ -538,7 +540,8 @@
 * [Gibber](https://gibber.cc/) - Audiovisual Code Composer 
 * [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - Convert AAX to MP3 / FLAC / M4A / OPUS 
 * [inAudible](https://github.com/rmcrackan/inAudible) - Audible to MP3 converter
-* [Soundiiz](https://soundiiz.com/) - Transfer Playlists Between Streaming Platforms 
+* [Soundiiz](https://soundiiz.com/) - Transfer Playlists Between Streaming Platforms
+* [Suda](https://github.com/yaronzz/Suda) - Playlist Manager
 * [Exact Audio Copy](https://www.exactaudiocopy.de/) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper 
 * [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) or [AutoChords](https://autochords.com/) - Chord Progression Generators
 * [HookTheory](https://www.hooktheory.com/trends) - Chord Progression Library 
@@ -724,7 +727,7 @@
 * [Rambox](https://github.com/ramboxapp/download/releases), [Ferdi](https://getferdi.com/), [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [Hamsket](https://github.com/TheGoddessInari/hamsket), [matterbride](https://github.com/42wim/matterbridge) or [Franz](https://meetfranz.com/) - Combine Web Apps / Chats
 * [Slapdash](https://slapdash.com/) - Connect Cloud Apps 
 * [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - Communication Software Index
-* [Discord](https://discordapp.com/), [Guilded](https://www.guilded.gg/) / [Mod](https://github.com/ReGuilded/ReGuilded/) or [Revolt](https://revolt.chat/) / * [Bots]( https://rvlt.gg/discover/bots)  / [Resources](https://github.com/insertish/awesome-revolt) - Messaging Platforms
+* [Discord](https://discordapp.com/), [Guilded](https://www.guilded.gg/) / [Mod](https://github.com/ReGuilded/ReGuilded/) or [Revolt](https://revolt.chat/) / [Bots]( https://rvlt.gg/discover/bots)  / [Resources](https://github.com/insertish/awesome-revolt) - Messaging Platforms
 * [Twist](https://twist.com/) - Collaboration Chat Manager
 * [Hack.chat](https://hack.chat/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chat 
 * [Cirlos](https://www.cirlos.net/), [Miranda NG](https://www.miranda-ng.org/en/) or [WeeChat](https://weechat.org/) - Chat App
@@ -734,6 +737,7 @@
 * [LAN Messenger](https://lanmessenger.github.io/) - FOSS LAN Messenger / [GitHub](https://github.com/lanmessenger/lanmessenger)
 * [Cabal](https://cabal.chat/) - P2P Chat / [GitHub](https://github.com/cabal-club)
 * [Slink](https://slink.chat/) - Aim Inspired Chat Client
+* [ARP Chat](https://github.com/kognise/arpchat) - ARP Chat Client
 * [Rocket Chat](https://rocket.chat/) - Self-Hosted Chat Client
 * [Delta Chat](https://delta.chat/en/) - Email Based Messenger 
 * [PingMe](https://github.com/kha7iq/pingme) - Multi-App Notifications
@@ -986,6 +990,7 @@
 * [shrtcode](https://app.shrtco.de/) - `shrtco.de/lsoWP`
 * [bom.so](https://bom.so/) - `bom.so/VevMJv`
 * [by.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
+* [Poda Me](https://poda.me/) - `poda.me/e3129e`
 * [sum.vn](https://sum.vn/) - `sum.vn/DTrXk`
 * [ref.vn](https://ref.vn/) - `ref.vn/czuqfm`
 * [jii.li](https://jii.li/) - `jii.li/hNFXP`
@@ -1177,6 +1182,7 @@
 * [FreeStuff Bot](https://freestuffbot.xyz/) / [GitHub](https://github.com/FreeStuffBot/discord), [game-deals-discord-bot](https://github.com/lipowskm/game-deals-discord-bot) or [AutomatiK](https://github.com/Axyss/AutomatiK) / [Discord](https://discord.gg/psDtnwX) - Free Games Alert Bot
 * [DiscordChroma](https://github.com/DELUUXE/DiscordChroma) or [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Discord System Lighting Control
 * [Permissions Calculator](https://discordapi.com/permissions.html) - Generate Discord OAuth Invites
+* [Red Discordbot](https://github.com/Cog-Creators/Red-DiscordBot) or [Loritta](https://github.com/LorittaBot/Loritta) - Discord Moderation Bots
 * [Wickbot](https://wickbot.com/) - Discord Security Bot
 * [Modmail](https://github.com/kyb3r/modmail) - Discord Modmail Bot 
 * [CloneCord](https://github.com/Rekulous/CloneCord-bot) - GClone Cloud Storage File Manager in Discord
@@ -1289,13 +1295,14 @@
 * [Skeddy](https://skeddy.me/) - Telegram Reminder Bot
 * [clonebot](https://github.com/m4mallu/clonebot) - Clone Media from Chats
 * [ChecklyBot](https://t.me/checklybot) - Checklist Telegram Bot
+* [Reddit2Telegram](https://github.com/Fillll/reddit2telegram) - Reddit Post Bot
 * [Shieldy Bot](https://t.me/shieldy_bot) - Spam Protection Bot / [GitHub](https://github.com/1inch/shieldy)
 * [Telegram Scraper](https://www.telegramscraper.com/) - Telegram Member / Group Export
 * [Telegram Email](https://t.me/etlgr_bot) - Send / Receive Emails via Telegram 
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - Telegram CSE
-* [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot 
+* [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Link Shortener Bot 
 * [TLG.NAME](https://www.tlg.name/) - Telegram Link Creator
-* [URL2IMGBot](https://t.me/URL2IMGBot) - Takes a screenshot for any URL / Telegram 
+* [URL2IMGBot](https://t.me/URL2IMGBot) - Take URL Screenshots / Telegram 
 * [Stickers Cloud](https://stickers.cloud/en) - Sticker Packs
 * [ProxyBot](https://t.me/vamproxy_bot), [proxytelebot](https://t.me/proxytelebot), [yadda_proxybot](https://t.me/yadda_proxybot), [tproxies_bot](https://t.me/tproxies_bot), [proxy_socks5_bot](https://t.me/proxy_socks5_bot), [socksy_bot](https://t.me/socksy_bot), [ShadowSocks_bot](https://t.me/ShadowSocks_bot) or [logicpleaseproxybot](https://t.me/logicpleaseproxybot) - Telegram Proxy Bots
 * [TgVPNbot](https://t.me/TgVPNbot), [tgfreebot](https://t.me/tgfreebot) or [FCK_RKN_bot](https://t.me/FCK_RKN_bot) - Telegram VPN Bots
@@ -1408,7 +1415,7 @@
 * [Stream Scheme](https://www.streamscheme.com/) - Livestreaming Guides & Resources
 * [Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f) - Twitch Extension Index
 * [Trovo](https://trovo.live/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
-* [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl), [Windsya](https://www.windsya.com/), [ClipsGameLab](https://clipsgamelab.github.io/) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  Download Twitch Videos / Clips 
+* [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl), [Windsya](https://www.windsya.com/), [ClipsGameLab](https://clipsgamelab.github.io/), [Clipr](https://clipr.xyz/) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  Download Twitch Videos / Clips 
 * [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Recover, View & Download Twitch Videos
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - Lightweight Twitch Webplayer
 * [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player 
@@ -1640,7 +1647,8 @@ Twitch Stream Tracker
 * [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) - Process Killer
 * [SpeedFan](http://www.almico.com/speedfan.php) or [SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - Hardware Monitor
 * [CoreTemp](https://www.alcpu.com/CoreTemp/) - Processor Temperature Monitor
-* [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer 
+* [RunWithAffinity](https://www.majorgeeks.com/files/details/runwithaffinity.html) - Run Programs on Selected Core
+* [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
 * [Project Hydra](https://www.igorslab.de/en/project-hydra-oc-sandbox-for-zen3-cpus-freeware-download/3/) - ZEN3 CPU Optimization Sandbox
 * [perf-book](https://github.com/dendibakh/perf-book) - CPU Performance Analysis and Tuning Book
@@ -1649,7 +1657,6 @@ Twitch Stream Tracker
 * [Mem Reduct](https://www.henrypp.org/product/memreduct) - Windows System Memory Cleaner / [GitHub](https://github.com/henrypp/memreduct)
 * [CPUid](https://www.cpuid.com/softwares/cpu-z.html), [winfetch](https://github.com/kiedtl/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tool 
 * [HWiNFO](https://www.hwinfo.com/) - Hardware Analysis, Monitoring and Reporting
-* [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
 * [phwmon](https://gitlab.com/o9000/phwmon) - System Tray Hardware Monitor
 * [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
 * [MinimizeToTray](https://github.com/sandwichdoge/MinimizeToTray) - Hide Any Windows to Tray
@@ -1661,9 +1668,13 @@ Twitch Stream Tracker
 * [UptimeFaker](https://github.com/CookiePLMonster/UptimeFaker) - System Uptime Debugger
 * [OllyDbg](https://www.ollydbg.de/) - Binary Code Analysis Tool
 * [WhoCrashed](https://www.resplendence.com/whocrashed) - Windows Crash Analyzer
+* [PSU Calculator](https://www.newegg.com/tools/power-supply-calculator/) or [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Find Compatible Power Supplies
+* [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
+* [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
 * [Key Test](https://en.key-test.ru/) or [KeyboardTester](https://www.keyboardtester.com/) - Test Keyboard Buttons
 * [Keytap2](https://keytap2.ggerganov.com/) - Acoustic Keyboard Eavesdropping
+* [Awesome Forensics](https://github.com/cugu/awesome-forensics) - System Forensic Tools
 * [BleachBit](https://www.bleachbit.org/) or [GlarySoft](https://www.glarysoft.com/) - Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect.  
 * [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - Startup Program Monitor
 * [Remove Hidden Startup Programs](https://www.youtube.com/watch?v=sUXcMaP6wRQ) - How-to Remove Secret Startup Apps
@@ -1696,7 +1707,6 @@ Twitch Stream Tracker
 * [MediaFlyout](https://github.com/krlvm/MediaFlyout) - Media Control Taskbar
 * [OneLaunch](https://onelaunch.com/) - Customizable Windows Dock
 * [CircleDock](http://circledock.wikidot.com/) - Circular Dock
-* [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
 * [Wox](http://www.wox.one/) / [GitHub](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [ChaseApp](https://www.chaseapp.io/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke Launcher
 * [Closemul](https://www.lustark.com/closemul) - Multi-Purpose Program Frontend
 * [rofi](https://github.com/davatorium/rofi) - Window Switcher & App Launcher
