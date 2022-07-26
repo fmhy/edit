@@ -34,9 +34,10 @@
 * [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker / [Guide](https://rentry.co/adblock) / [Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt)
 * [AdNauseam](https://adnauseam.io/) - Adblocker / Fake Clicks to Mess up Tracking Profiles
 * [TBlock](https://tblock.codeberg.page/) - Adblocker
-* [Facebook Hide Ads](https://greasyfork.org/en/scripts/404309-facebook-hide-ads-a-k-a-sponsored-posts) - Remove Sponsored Posts from Facebook 
+* [Facebook Hide Ads](https://greasyfork.org/en/scripts/404309-facebook-hide-ads-a-k-a-sponsored-posts) - Remove Sponsored Posts from Facebook
 * [uBO-YouTube](https://github.com/x0a/uBO-YouTube) - YouTube Channel Whitelist
 * [LinkedIn Unsponsored](https://greasyfork.org/en/scripts/379003-linkedin-unsponsored) - Remove Sponsored Posts from LinkedIn 
+* [JustRead](https://justread.link/) - Ad-Free Article Viewer
 * [WhoTargetsMe](https://whotargets.me/) - Political Ad Tracker
 
 ***
@@ -63,6 +64,7 @@
 * [Encrypted DNS Resolvers](https://www.privacytools.io/providers/dns/)
 * [DNS Resolver Privacy-First](http://doh.tiar.app/) - DNS Resolver
 * [ControlD](https://controld.com/), [DNS Jumper](https://sordum.org/7952/dns-jumper-v2-1/) or [Hetzner](https://www.hetzner.com/dns-console?country=us) - DNS Manager
+* [DNS for Family](https://dnsforfamily.com/) - Family DNS Filters
 * [Spamhaus](https://www.spamhaus.org/) or [1Hosts](https://o0.pages.dev/) / [GitHub](https://github.com/badmojr/1Hosts) - DNS Blocklists
 * [block.js](https://gist.github.com/rtfpessoa/7fdd3d4121ee4acafe56e8425154888a) - DNS YouTube Blocklists
 * [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist
@@ -593,6 +595,7 @@
 * [ProxyOf2](https://proxyof2.com/)
 * [Proxy-URLs](https://www.proxy-urls.com/)
 * [Sitenable](http://sitenable.in/) 
+* [UnblockSites](https://unblocksites.online/) 
 * [4EverProxy](https://www.4everproxy.com/)
 * [Proxy Site](https://proxysite.cloud/)
 * [Open Proxy Space](https://openproxy.space/)
