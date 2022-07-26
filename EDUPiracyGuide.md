@@ -397,6 +397,7 @@
 * [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
 * [Modern / Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps) - Map Resources
 * [Letters of Note](https://news.lettersofnote.com/) - Historical Letters
+* [Shorpy](http://shorpy.com/) - Historical Photos
 * [Histography](https://histography.io/) - History Timeline
 * [The Food Timeline](https://www.foodtimeline.org/) - Food History Timeline
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes Site Index
@@ -510,6 +511,7 @@
 * [South Asian Languages](https://discord.gg/TrdqTDdMba) - South Asian Language Learning
 * [StudySpanish](https://studyspanish.com/) - Spanish Learning Tutorials
 * [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
+* [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
 * [AnimeLon](https://animelon.com/) - Streaming / Anime / Learn Japanese
 * [Nihongo](https://nihongo-e-na.com/eng/), [Jim Breen's Japanese Page](http://nihongo.monash.edu/japanese.html), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/), [Itzazureneko](https://itazuraneko.neocities.org/learn/guide.html) - Japanese Learning Resources
 * [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [jpdb](https://jpdb.io/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese 
@@ -652,7 +654,7 @@
 * [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - UPSC Telegram Channels 
 * [AuthorStream](http://www.authorstream.com/) or [Slideshare](https://www.slideshare.net/) - Watch / Share Slideshows & Presentations 
 * [SlideShare Downloader](https://slideshare.theteacoder.tech/), [2](https://www.slidesharedownloader.com/) - Download Slideshow Presentations 
-* [Periodic Stats](https://periodicstats.com/), [The Periodic Table Of Elements](https://periodictableofchemicalelements.com/), [Periodic Table](https://periodic-table.io/), [Images-Of-Elements](https://images-of-elements.com/), [Graph Overflow](https://graphoverflow.com/graphs/3d-periodic-table.html), [3D Periodic Table](https://artsexperiments.withgoogle.com/periodic-table/) or [Ptable](https://ptable.com/) - Periodic Tables 
+* [Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables) - Online Periodic Tables / [App](https://jlindemann.se/homepage/atomic/)
 * [ChemicalAid](https://en.intl.chemicalaid.com/) - Chemistry Calculators & Element Tables
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
 * [Retrosynthesis](http://retrosynthesis.com/) - Organic Retrosynthesis Engine / [GitHub](https://github.com/sudo-rushil/odachi)
@@ -693,6 +695,7 @@
 * [IELTS69](https://www.ielts69.com/) - IELTS Cambridge Practice Tests
 * [GCE Guide](https://gceguide.com/) - Cambridge Assessment Guide
 * [ITExams](https://www.itexams.com/) - IT Exam Collection
+* [StudyStream](https://www.studystream.live/) - Online Study Groups
 * [The Problem Site](https://www.theproblemsite.com/) - Problems / Puzzles / Games
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
 * [LateralPuzzles](http://www.lateralpuzzles.com/) - Lateral Thinking Puzzles
@@ -710,12 +713,13 @@
 * [Data Gif Maker](http://datagifmaker.withgoogle.com/) - Animate Data 
 * [flowchart fun](https://flowchart.fun/) - Generate Flowchart From Text / [GitHub](https://github.com/tone-row/flowchart-fun)
 * [OpenBoard](https://openboard.ch/), [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboard
-* [app.diagrams](https://app.diagrams.net/) / [Git](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/) or [Gephi](https://gephi.org/) - Graph / Diagram Creator
+* [app.diagrams](https://app.diagrams.net/) / [Git](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [LineGraphMaker](https://linegraphmaker.co/) or [Gephi](https://gephi.org/) - Graph / Diagram Creator
 * [Altium](https://www.altium.com/viewer/) - Schematics Visualizer
 * [OpenLearning](https://www.openelearning.org/) - Create Course Presentations
 * [Quizizz](https://quizizz.com/) - Create Quizzes, Lessons, Flashcards & Presentations
-* [Anki](https://apps.ankiweb.net/) / [Addons](https://github.com/tianshanghong/awesome-anki), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html), [StudyLib](https://www.studylib.net/) or [Flashcard Machine](https://www.flashcardmachine.com/) - Flash Card Tool
-* [Carden](https://github.com/alyssaxuu/carden) - Flash Card Extension
+* [Anki](https://apps.ankiweb.net/), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html), [StudyLib](https://www.studylib.net/) or [Flashcard Machine](https://www.flashcardmachine.com/) - Flash Card Tools
+* [Carden](https://github.com/alyssaxuu/carden) or [Awesome Anki](https://github.com/tianshanghong/awesome-anki) - Flash Card Extensions
+* [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flash Card Mobile App
 * [Wolfram Cloud](https://www.wolframcloud.com/) - Computational intelligence
 * [Matthen](https://blog.matthen.com/) - Math & Science Animations
 * [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/) or [Sim Flow](https://sim-flow.com/) - Fluid Dynamics Simulators
