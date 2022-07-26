@@ -120,7 +120,7 @@
 * [Mimi](https://mimi-panda.com/) - Create Coloring Pages from Photos
 * [Photovisi](https://www.photovisi.com/) - Photo Collage Generator 
 * [Make Photo Gallery](https://makephotogallery.net/) - Photo Gallery Creator
-* [ascii-art-generator](https://www.ascii-art-generator.org/), [ascii-generator](https://ascii-generator.site/), [asciiart](https://asciiart.club/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art Generator
+* [ascii-art-generator](https://www.ascii-art-generator.org/), [ascii-generator](https://ascii-generator.site/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art Generator
 * [convert-ascii-to-image](https://onlineasciitools.com/convert-ascii-to-image) - ASCII to Image Generator
 * [ASCII Paint](http://ascii.alienmelon.com/) - ASCII Art Creator
 * [Text-Image](https://www.text-image.com/) - Text Image Generator
@@ -140,7 +140,7 @@
 * [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
 * [Flow Field](https://github.com/romellogoodman/flow-field.js) - Flow Field Generator
 * [Trianglify.io](https://trianglify.io/) - Generate low-poly Textures
-* [BannerEasy](https://www.bannereasy.com) - Create Custom Banners
+* [BannerEasy](https://www.bannereasy.com) or [Bannery](https://bannery.app/) - Create Custom Banners
 * [SocialBanner](https://www.social-banner.live/) or [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Creator
 * [Thumbnail.ai](https://thumbnail.ai/) - Create Social Media Images from Blog Posts
 * [ImageFu](https://www.imagefu.com/) - Button / Badge Creator
@@ -195,7 +195,7 @@
 
 ## ▷  Meme Makers
 
-* [Meme Generator](https://imgflip.com/memegenerator), [Meme Town](https://meme.town/), [DrMemes](https://www.drmemes.com/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Maker 
+* [Meme Generator](https://imgflip.com/memegenerator), [Meme Town](https://meme.town/), [DrMemes](https://www.drmemes.com/), [MemeBetter](https://memebetter.com/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
 * [MemeAtlas](https://www.memeatlas.com/) - Meme Database 
 * [Memegine](https://memegine.com/) - Meme Search Engine
 * [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh) - Meme Templates
@@ -255,7 +255,7 @@
 * [GFX Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources) - Graphic Design Resources
 * [Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)
 * [RipMe](https://github.com/RipMeApp/ripme), [ImgDownloader](https://imgdownloader.com/), [gallery-dl](https://github.com/mikf/gallery-dl), [SCrawler](https://github.com/AAndyProgram/SCrawler) or [Image Extractor](https://extract.pics/) - Image Download Tools
-* [picsearch](https://www.picsearch.com/) - Image Search
+* [picsearch](https://www.picsearch.com/), [Yandex Images](https://yandex.ru/images) or [Google Images](https://images.google.com/) - Image Search
 * [RootAbout](https://rootabout.com/) - Archive / OpenlLibrary Reverse Image Search 
 * [PicTriev](http://www.pictriev.com/) - Find Look-Alike Images 
 * [PimEyes](https://pimeyes.com/en/) - Reverse Face Image Search 
@@ -465,8 +465,9 @@
 
 ## ▷ Photo Forensics
 
-* [FotoForensics](http://www.fotoforensics.com/), [Forensically](https://29a.ch/photo-forensics/) or [Ghiro](http://www.getghiro.org/) - Photo Forensics Tool 
-* [Image Identification Project](https://www.imageidentify.com/) - Image Identification Tool 
+* [FotoForensics](http://www.fotoforensics.com/), [Forensically](https://29a.ch/photo-forensics/) or [Ghiro](http://www.getghiro.org/) - Photo Forensics Tool
+* [GeoEstimation](https://labs.tib.eu/geoestimation) - Estimate Image Geolocation 
+* [Image Identification Project](https://www.imageidentify.com/) - Image Identification Tool
 * [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [Steganography-PNG](https://pedrooaugusto.github.io/steganography-png/) / [GitHub](https://github.com/pedrooaugusto/steganography-png), [ImSter](https://github.com/armytricks/ImSter) or [stegpy](https://github.com/dhsdshdhk/stegpy) - Embed & Extract Hidden Data in Images / Steganography 
 * [Aperisolve](https://aperisolve.fr/) - Steganography Analysis Tool
 * [Unredacter](https://github.com/BishopFox/unredacter) - Crack Pixelated Images 
