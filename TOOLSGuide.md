@@ -1674,6 +1674,7 @@ Twitch Stream Tracker
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
 * [Key Test](https://en.key-test.ru/) or [KeyboardTester](https://www.keyboardtester.com/) - Test Keyboard Buttons
 * [Keytap2](https://keytap2.ggerganov.com/) - Acoustic Keyboard Eavesdropping
+* [CustomKeyboardLayoutPersistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layout
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) - System Forensic Tools
 * [BleachBit](https://www.bleachbit.org/) or [GlarySoft](https://www.glarysoft.com/) - Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect.  
 * [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - Startup Program Monitor
