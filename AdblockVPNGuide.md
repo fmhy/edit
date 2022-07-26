@@ -141,6 +141,7 @@
 * [CVE Details](https://www.cvedetails.com/) - CVE Details
 * [Web Of Trust](https://www.mywot.com/), [Talos](https://talosintelligence.com/) or [ScamRate](https://www.scamrate.com/) - Check Website Safety 
 * [ThreatLog](https://www.threatlog.com/) - Malicious Domain Database
+* [Toxic Repos](https://github.com/stravnik/toxic-repos) - Malicious Git Repos
 * [Scamalytics](https://scamalytics.com/ip), [IPSpamList](http://www.ipspamlist.com/) or [IP Address Lookup](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/) - IP Address Check
 * Vulners - [Chrome](https://chrome.google.com/webstore/detail/vulners-web-scanner/dgdelbjijbkahooafjfnonijppnffhmd) / [Firefox](https://addons.mozilla.org/es/firefox/addon/vulners-web-scanner/) - Live Website Scanner
 * [Virus Checker](https://add0n.com/virus-checker.html) - Virus Check for Downloads 
