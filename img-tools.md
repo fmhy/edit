@@ -337,6 +337,7 @@
 * [Ameede](https://www.ameede.com/) - CNC / Laser Design Vectors
 * [The Blueprints](https://www.the-blueprints.com/) - Blueprints Database
 * [ORBION](https://github.com/FaqT0tum/Orbion_Space_Mouse) - DIY 3D Image Mouse
+* [TensoRF](https://github.com/apchenstu/TensoRF) - Model / Reconstruct Radiance Fields
 
 ***
 
