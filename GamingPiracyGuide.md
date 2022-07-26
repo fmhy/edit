@@ -333,6 +333,7 @@
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
 * [sm64](https://github.com/n64decomp/sm64) - Super Mario 64 Decompilation / [Guide](https://youtu.be/rQVpfWYT0eg) 
 * [wide-snes](https://github.com/VitorVilela7/wide-snes) - Widescreen Super Mario World
+* [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) - Ocarina of Time PC Port
 * [OpenLara](http://xproger.info/projects/OpenLara/) - Classic Tomb Raider in Browser / [GitHub](https://github.com/XProger/OpenLara)
 * [GtkAtlantic](https://gtkatlantic.gradator.net/index.html) or [Monopolie](http://monopolie.sourceforge.net/index.shtml) - Open Source Monopoly
 * [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - Giant Pac-Man
@@ -507,6 +508,7 @@
 * **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS / [Market Ping](https://yee.how/market-ping/) / [Client](https://client.cuffuffles.dev/) / [Optimal Settings](https://rentry.co/krunkersettings)
 * **[Pokemon Showdown](https://pokemonshowdown.com/)** - Online Pokemon Battles 
 * **[GarticPhone](https://garticphone.com/)** - Telephone Game
+* [Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - PokemonGO Resources
 * [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * [PlayingCards](https://playingcards.io/) 
 * [FlyOrDie](http://www.flyordie.com/) 
