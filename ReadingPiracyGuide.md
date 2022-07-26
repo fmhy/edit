@@ -428,7 +428,8 @@
 * [Uloz Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_uloz_archive) 
 * [FreeBookCentre](http://www.freebookcentre.net/)
 * [Wikiversity](https://www.wikiversity.org/) - Learning Resources, Guides, Quizzes, Tools & More
-* [OpenEdition](https://www.openedition.org/) - Educational Books / Journals 
+* [OpenEdition](https://www.openedition.org/) - Books / Journals 
+* [JSTor](https://www.jstor.org/) - Books / Journals
 * [Dummies Store](https://t.me/dummiesbook) - Books for Dummies Collection 
 * [Saylor Academy](https://learn.saylor.org/) - Courses 
 * [eBookers](https://t.me/ebookers) - Telegram  
@@ -626,11 +627,13 @@
 * [Liebertpub](https://liebertpub.com/) - Science / Journals / Papers / Books
 * [DOKU.PUB](https://doku.pub/) - Science / Articles
 * [ESJI](http://www.esjindex.org/) - Science / Journals
+* [Clarivate](https://mjl.clarivate.com/) - Science / Journals
 * [Crossref](https://search.crossref.org/) - Articles / Documents / Datasets 
 * [Zenodo](https://zenodo.org/) - Articles / Documents / Datasets 
 * [Dataone](https://www.dataone.org/) - Datasets 
 * [Kaggle](https://www.kaggle.com/datasets) - Datasets
-* [Data Catalog](https://datacatalog.worldbank.org/) - Datasets 
+* [Data Catalog](https://datacatalog.worldbank.org/) - Datasets
+* [DBpedia](https://www.dbpedia.org/) - Datasets 
 * [mdpi](https://www.mdpi.com/) - Articles 
 * [longdom](https://www.longdom.org/) - Articles 
 * [DOAJ](https://www.doaj.org/) - Journals / Articles
@@ -711,10 +714,14 @@
 * **[Wikipedia](https://www.wikipedia.org/)** or [WikiFox](https://wikifox.ml/) - Encyclopedia / [Read Only](http://static.wiki/) / [Text Extractor](https://github.com/attardi/wikiextractor) / [Deleted Articles](https://deletionpedia.org/en/Main_Page) / [Random Page](http://wikistroll.com/)
 * **[Wikiquote](https://en.wikiquote.org)** - Quote database
 * **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - Slang Word / Phrase Dictionary
-* [NinjaWords](http://ninjawords.com/ ) - Dictionary 
+* [NinjaWords](http://ninjawords.com/) - Dictionary
 * [Wordnik](https://www.wordnik.com/) - Dictionary
+* [OxfordLearnersDictionaries](https://www.oxfordlearnersdictionaries.com/) - Dictionary
+* [Lexico](https://www.lexico.com/) - Dictionary
 * [Cambridge Dictionary](https://dictionary.cambridge.org/) - Dictionary
+* [LDOCE](https://www.ldoceonline.com/) - Dictionary
 * [Wiktionary](https://www.wiktionary.org/) - Dictionary
+* [Vocabulary](https://www.vocabulary.com/) - Dictionary
 * [Webopedia](https://www.webopedia.com/) or [TechTerms](https://techterms.com/) - Tech Dictionary
 * [EtymOnline](https://www.etymonline.com/) - Etymologies
 * [Fandom](https://www.fandom.com/) - Fan Wikis 
@@ -858,7 +865,7 @@
 * [ReadKomik](https://readkomik.com/)
 * [MangaBob](https://mangabob.com/)
 * [KumaScans](https://kumascans.com/) 
-* [MangaBat](https://m.mangabat.com/m)
+* [MangaBat](https://m.mangabat.com/)
 * [MangaEffect](https://mangaeffect.com/)
 * [Manga347](https://manga347.com/)
 * [Manga Home ](http://www.mangahome.com/)
@@ -911,8 +918,8 @@
 * [WhereCanIReadManga?](https://wherecanireadmanga.com/) - Legal
 * [OtakuGallery](http://www.otakugallery.com/) - Manga Artbooks
 * [WebToons](https://www.webtoons.com/en/) - Manga Webtoons  
-* [AllMangasReader](http://allmangasreader.com/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - Manga Reader / Manager
-* [Tachiyomi](https://github.com/Suwayomi)  - Manga / Comic Reader / [Web Client](https://github.com/TachiWeb) / [Discord](https://discord.com/invite/tachiyomi) 
+* [Tachiyomi](https://github.com/Suwayomi) / [Web Client](https://github.com/TachiWeb) / [Discord](https://discord.com/invite/tachiyomi), [AllMangasReader](http://allmangasreader.com/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - Manga Reader / Manager
+* [Tenma](https://github.com/Tenma-Server/Tenma), [KavitaReader](https://www.kavitareader.com/), [Mango](https://github.com/hkalexling/Mango) or [Komga](https://komga.org/) / [GitHub](https://github.com/gotson/komga) / [Discord](https://discord.gg/TdRpkDu) - Self-Hosted Manga Reader / Manager
 * [LANraragi](https://github.com/Difegue/LANraragi) - Manga / Doujin Manager for NAS / [Discord](https://discord.com/invite/aRQxtbg)
 * [MangaManage](https://github.com/Daedren/MangaManage) - Tachiyomi Download Manager
 * [Manga APIs](https://rentry.co/manga-apis) - Manga Site API's
@@ -922,7 +929,6 @@
 * [MangaEditor](https://moeka.me/mangaEditor/) - Online Manga Editor
 * [MangaCord](https://top.gg/bot/751148743901970622?tab=overview) - Read Manga on Discord [Disocrd](https://discord.gg/UtTJcWzCRe)
 * [Anity](https://redd.it/g372gu), [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en), [manga-translator](https://github.com/cameronkinsella/manga-translator) or [Scanlate](https://scanlate.io/) - Manga Translator
-* [Tenma](https://github.com/Tenma-Server/Tenma), [Mango](https://github.com/hkalexling/Mango) or [Komga](https://komga.org/) - Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)
 * [Onodera](https://github.com/onoderaproject/onodera) - Anime & Manga Database
 * [Manga-Tagger](https://github.com/inpacchi/manga-tagger) - Manga Metadata
 
@@ -968,6 +974,7 @@
 * [Scribblehub](https://www.scribblehub.com/)
 * [All Novel Full](https://allnovelfull.com/)
 * [MTL Nation](https://mtlnation.com/)
+* [Novel Hall](https://www.novelhall.com/)
 * [Novel Free](https://mnovelfree.com/)
 * [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)  
 * [VolareNovels](https://www.volarenovels.com/) 
@@ -1180,6 +1187,7 @@
 * **[Kindle Comic Converter](https://kcc.iosphe.re/)** - Convert EBooks to EPUB
 * [Knock](https://github.com/BentonEdmondson/knock) - Convert ACSM files to DRM-Free EPUB files
 * [txtpaper](https://txtpaper.com/) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to Ebook Converter
+* [CrowBook](https://github.com/lise-henry/crowbook) - Markdown to EPUB Converter
 * [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - Generate Text & Article Summaries
 * [FiveFilters](https://www.fivefilters.org/) - Multiple Article Accessibility Tools
 * [Ebook-Converter](https://ebook-converter.com/) - Ebook Converter
