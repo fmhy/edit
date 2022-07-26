@@ -163,15 +163,17 @@
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - Note Taking Apps
 * [Serenity Notes](https://www.serenity.re/en/notes) - Collaborative Notes
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
+* [Adaptive Controls](https://play.google.com/store/apps/details?id=com.nxet.adaptivecontrols) - Per App Settings
 * [How to Root](https://www.xda-developers.com/root/amp/) - Android Root Guide
 * [Root Essentials](https://sites.google.com/view/superthomaslab/root-essentials) - Multiple Root Tools
 * [Root Checker](https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck) - Root Checker
+* [DirtyPipe](https://github.com/polygraphene/DirtyPipe-Android) - Temporary root PoC 
 * [Android Tool](https://github.com/fast-geek/Android-Tool) - ABD / Fastboot Command Program
 * [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot&hl=en_IN) - Logcat / Dmesg Boot Animation
 * [Amazing Temp Root](https://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - MediaTek Temp Root
-* [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) - Debloat non-rooted Androids
+* [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) - Debloat non-rooted Androids / [GUI](https://github.com/0x192/universal-android-debloater)
 * [Smali Patcher](https://forum.xda-developers.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
-* [DarQ](https://www.apkmirror.com/apk/mighty-quinn-apps/darq/) or [Darkmode Guide](https://pastebin.com/cvast4uN) - Universal Dark Mode
+* [DarQ](https://www.apkmirror.com/apk/mighty-quinn-apps/darq/), [Dark Mode](https://play.google.com/store/apps/details?id=com.dotdat.darkmodeapp) or [Darkmode Guide](https://pastebin.com/cvast4uN) - Universal Dark Mode
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - Android Cleanup Tool
 * [L3MON](https://github.com/D3VL/L3MON) - Remote Android Manager
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
@@ -202,6 +204,7 @@
 * [AlmightyVolumeKeys](https://play.google.com/store/apps/details?id=com.masel.almightyvolumekeys) - Remap Volume Keys
 * [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - Text Font Generator
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) or [SimplyTranslate Flutter](https://github.com/ManeraKai/simplytranslate-flutter-client) - Translator
+* [NativeAlpha](https://play.google.com/store/apps/details?id=com.cylonid.nativealpha) - Run Websites in Borderland Window
 * [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) - Create App Shortcuts
 * [Surfable](https://surfable.app/) - Install Any Website as App / [GitHub](https://github.com/sandoche/Surfable-app)
 * [Panels](https://play.google.com/store/apps/details?id=com.fossor.panels&hl=en_US&gl=QA) - Android Sidebar Panel
@@ -218,6 +221,7 @@
 * [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - Auto Clicker
 * [Aves](https://github.com/deckerst/aves) - Metadata Explorer
 * [GameGuardian](https://gameguardian.net/) - Game Hack / Alteration Tool
+* [Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - PokemonGO Resources
 * [NeonRom3r](https://github.com/Gr3gorywolf/NeonRom3r) - Download Roms 
 * [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App 
 * [OpenMicroWave](https://omw.xyz.is/) - Morrowind for Android
@@ -272,12 +276,12 @@
 * [QuiverVision](https://quivervision.com/) - Augmented Reality Coloring
 * [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix ) - Combine Emojis
 * [background video recorder](https://play.google.com/store/apps/details?id=com.camera.secretvideorecorder) - Record Videos in Background
-* [Jitsi](https://jitsi.org/) or [IMO](http://imo.im/) - Video Chat 
+* [Jitsi](https://jitsi.org/) or [IMO](http://imo.im/) - Video Chat
 * [Walkie-Talkie](https://walkie-talkie.io/) - Walkie-Talkie App
 * [1 Second Everyday](http://1se.co/) - 1 Second Video Diary
 * [Video Watermark](https://play.google.com/store/apps/details?id=com.zmobileapps.videowatermark) - Add Watermark to Videos
 * [Green Screens](https://play.google.com/store/search?q=green%20screen&c=apps) - Green Screens for Android
-* [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/), [OwlGram](https://www.owlgram.org/), [Catogram X](https://github.com/CatogramX/CatogramX) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - Telegram Client
+* [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/), [OwlGram](https://www.owlgram.org/), [Catogram X](https://github.com/CatogramX/CatogramX), [Telegraher](https://github.com/nikitasius/Telegraher/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - Telegram Client
 * [Uploadgram](https://github.com/Pato05/uploadgram-app) - Telegram File Upload
 * [icq](https://icq.com/) - Messaging App
 * [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Husky](https://git.mentality.rip/FWGS/Husky) or [Tusky](https://tusky.app/) - Mastodon Client 
@@ -344,9 +348,10 @@
 * [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957) - Disposable Email Client
 * [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - Multi-Calculator App
 * [Get Unstuck](https://socratic.org/) - Homework Answers / Help 
-* [Tasks](https://tasks.org/), [Any.do](https://www.any.do/), [Simpletask](https://f-droid.org/en/packages/nl.mpcjanssen.simpletask), [Orgzly](https://github.com/orgzly/orgzly-android) or [Dailly](https://github.com/hydroxion/dailly/) - To-Do App
-* [Etar](https://github.com/Etar-Group/Etar-Calendar), [digical](https://digibites.nl/digical), [TimeBlocks](https://timeblocks.com/) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendar
+* [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - To-Do List Apps
+* [Etar](https://github.com/Etar-Group/Etar-Calendar), [digical](https://digibites.nl/digical), [TimeBlocks](https://timeblocks.com/) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendars
 * [ShiftCal](https://gitlab.com/Nulide/ShiftCal) - Shift Calendar
+* [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock) - Daily Planner 
 * [Sunny Side / TiseRise](https://www.tobianoapps.com/) - UV Index / Minimal Hourglass 
 * [Libra](https://github.com/markusfisch/Libra) - Pros v Cons App
 * [unhabits](https://github.com/iSoron/uhabits) or [MiindLeak](https://www.mindleak.app/) - Bad Habit Tracker
@@ -407,7 +412,8 @@
 * **[/r/ApkApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** - Updated list of modded APK's / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)
 * [/r/SoftwarePiracy APK Index](https://rentry.co/SoftwarePirates-Megathread#apk-android-download-sites) - List of APK Piracy Sites & Apps
 * [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Add Direct DL Links to Google Play 
-* [F-Droid](https://f-droid.org/) or [Simple Mobile Tools](https://simplemobiletools.com/) - FOSS App Repository / [Desktop](https://github.com/mvdan/fdroidcl) / [Alt Client](https://github.com/Iamlooker/Droid-ify), [2](https://gitlab.com/gdroid/gdroidclient) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status) 
+* [F-Droid](https://f-droid.org/) or [Simple Mobile Tools](https://simplemobiletools.com/) - FOSS App Repository / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
+* [Droid-ify](https://github.com/Iamlooker/Droid-ify), [gdroidclient](https://gitlab.com/gdroid/gdroidclient) or [Neo Store](https://github.com/NeoApplications/Neo-Store) - Alt F-Droid Clients
 * [F-Droid Repositories](https://t.me/fdroidrepos) - List of F-Droid Repositories
 * [IzzyOnDroid](https://android.izzysoft.de/applists.php) - App Repository / [F-Droid](https://apt.izzysoft.de/fdroid/index.php) 
 * [Haoict Repository](https://haoict.github.io/cydia/) - App Repository
@@ -562,6 +568,7 @@
 * [Diggy](https://github.com/s0md3v/Diggy) - Extract APK Endpoints
 * [APKTool](https://github.com/iBotPeaches/Apktool) - APK Reverse Engineering Tool
 * [BlackDex](https://github.com/CodingGay/BlackDex) - APK Unpacking Tool
+* [Apk Extractor](https://play.google.com/store/apps/details?id=com.ext.ui) - Extract APKs to SD Card
 * [APKUpdater](https://github.com/rumboalla/apkupdater) or [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - APK Updater
 * [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) - Install Google Apps into WSA Image
 * [How-to Install Play Store Apps from Other Countries](https://rentry.co/29s6v)
@@ -666,6 +673,7 @@
 * [Voleq](https://play.google.com/store/apps/details?id=com.veryclevernamecompany.voleq) - Volume Equalizer
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - Identify Playing Songs
 * [skipTrackLongPressVolume](https://github.com/Cilenco/skipTrackLongPressVolume) or [Volumee](https://maslanka.app/volumee/) - Volume Button Track Control
+* [CAPod](https://play.google.com/store/apps/details?id=eu.darken.capod) - Extra AirPod Features
 * [MImport](https://julioverne.github.io/description.html?id=com.julioverne.mimport ) - Audio Import Tool
 * [Dolby Atmos ZTE A2019 Pro Magisk Module](https://github.com/reiryuki/Dolby-Atmos-ZTE-A2019-Pro-Magisk-Module)
 
@@ -745,7 +753,7 @@
 * [Amnis](https://play.google.com/store/apps/details?id=com.amnis) - Stream Videos from Torrents
 * [RSS Player](https://play.google.com/store/apps/details?id=pis.android.rss.rssplayer&amp;hl=en_US) - KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)
 * RSS Player
-* [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [YetAnotherVideoPlayer](https://github.com/shadow578/YetAnotherVideoPlayer), [Nova Video Player](https://github.com/nova-video-player), [Just Player](https://github.com/moneytoo/Player), [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata) or [MX Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mx_player) / [Codec](https://github.com/USBhost/MX_FFmpeg) - Video Player
+* [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [YetAnotherVideoPlayer](https://github.com/shadow578/YetAnotherVideoPlayer), [Nova Video Player](https://github.com/nova-video-player), [Just Player](https://github.com/moneytoo/Player), [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata), [ExoPlayer](https://github.com/google/ExoPlayer) or [MX Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mx_player) / [Codec](https://github.com/USBhost/MX_FFmpeg) - Video Player
 * [SyncPlayer](https://f-droid.org/en/packages/io.github.powerinside.syncplay/) - Video Sync App
 * [LibreTube](https://github.com/libre-tube/libretube) - Youtube Frontend
 * [Android TV Mod](https://t.me/androidtvmod) - Android TV / Fire TV / Fire Stick / Mods / Telegram
