@@ -622,6 +622,7 @@
 * [FreeFullPDF](https://freefullpdf.com/) - Science / Articles
 * [KUNDOC](https://coek.info/) - Science / Articles
 * [Papers We Love](https://paperswelove.org/) - Science / Articles / [GitHub](https://github.com/papers-we-love/papers-we-love)
+* [Awesome Detection Transformer](https://github.com/IDEACVR/awesome-detection-transformer) - Transformer for Detection and Segmentation Papers
 * [Springer](https://link.springer.com/) - Science / Articles
 * [Science.gov](https://www.science.gov/) - Science / Articles / Documents 
 * [Liebertpub](https://liebertpub.com/) - Science / Journals / Papers / Books
@@ -1175,6 +1176,7 @@
 * [dotepub](https://dotepub.com/) - Convert Webpages to EBooks
 * [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
 * [Ebook Sender](https://telegram.me/to_kindle_bot), [SendEpubToKindle](https://www.sendepubtokindle.com/), [Kobo ](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - Send Ebooks to Kindle
+* [Kindle Server](https://github.com/edgartaor/kindleServer) - Send HTML to Kindle
 * [Kindle Software Jailbreak](https://www.mobileread.com/forums/showthread.php?t=346037&highlight=Jailbreak) - Jailbreak Kindle
 * [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services
 * [The Open Book](https://github.com/joeycastillo/The-Open-Book) - DIY Ebook Reader
