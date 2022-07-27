@@ -2736,7 +2736,7 @@ Good for finding classic, obscure & short films.
 
 #### VSCode Tools
 
-[Open VSX Registry](https://open-vsx.org/) / [Discord Tools](https://github.com/Darkempire78/Discord-Tools) / [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) / [Smart Clics](https://github.com/antfu/vscode-smart-clicks) / [Browser](https://vscode.dev/), [2](https://code.cs50.io/) / [Insider Build](https://insiders.vscode.dev/) / [Logo Extension](https://github.com/tale/logos-vscode) / [Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
+[Open VSX Registry](https://open-vsx.org/) / [Discord Tools](https://github.com/Darkempire78/Discord-Tools) / [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) / [Smart Clicks](https://github.com/antfu/vscode-smart-clicks) / [Browser](https://vscode.dev/), [2](https://code.cs50.io/) / [Settings](https://github.com/antfu/vscode-settings) / [Insider Build](https://insiders.vscode.dev/) / [Logo Extension](https://github.com/tale/logos-vscode) / [Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
 
 **VSCode Themes** 
 
