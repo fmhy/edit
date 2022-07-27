@@ -264,6 +264,7 @@
 * [Lorem.space](https://lorem.space/) - Placeholder Images
 * [Rejoiner](https://rejoiner.io/) - Uniform GraphQL Schema from gRPC Microservices / [GitHub](https://github.com/google/rejoiner)
 * [CFDocs](https://cfdocs.org/) - CFML Documentation Reference
+* [Asynchronous Messaging](https://github.com/clemensv/messaging) - Asynchronous Messaging Resources
 * [CoreFTP](http://www.coreftp.com/) - FTP Client
 * [Cumcord](https://cumcord.com/) - Discord Developer Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)
 * [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - Integrate Services with Discord
@@ -614,6 +615,7 @@ Automated Incident Response and Forensics Framework
 * [Plank](https://launchpad.net/plank) - Simple Dock / [GitHub](https://github.com/ricotz/plank)
 * [Portainer](https://portainer.io/) - Build / Manage Docker Containers / [Templates](https://github.com/SelfhostedPro/selfhosted_templates) / [GitHub](https://github.com/portainer/portainer)
 * [Compose Samples](https://github.com/android/compose-samples) - App Samples
+* [swipe](https://github.com/saket/swipe) - Swipe Gesture Actions for Compose UI  
 * [Ratio Buddy](https://ratiobuddy.com/) - CSS For Device Ratio
 * [TV Samples](https://github.com/android/tv-samples) - Android TV App Samples
 * [PrivacyFlash-Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate iOS Privacy Policies
@@ -851,6 +853,7 @@ Automated Incident Response and Forensics Framework
 * [Cride](https://github.com/j8r/cride) - Command Line Editor
 * [Zoxide](https://github.com/ajeetdsouza/zoxide) - Improved CD Command 
 * [YQ](https://github.com/mikefarah/yq) - Portable YAML Processor
+* [Dockerized](https://github.com/datastack-net/dockerized) - Docker Command-Line
 * [yoctocolors](https://github.com/sindresorhus/yoctocolors) - Command Line Coloring Package
 * [open](https://github.com/sindresorhus/open) - Open URLs, Files, Executables in CLI or Scripts
 * [Hopa](https://github.com/krasimir/hopa) - Zero config CLI for running JavaScript / TypeScript
@@ -868,6 +871,7 @@ Automated Incident Response and Forensics Framework
 * [Duo](https://duo.alexpate.uk/) - Color Combinations
 * [PaletteGenerator](https://palettegenerator.com/) or [Alwane](https://alwane.io/) - Color Palette Extractor
 * [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) - Accessible Color Pallette Builder
+* [Simpler Color](https://github.com/arnelenero/simpler-color) - Create Web Color System
 * [ColorZilla](https://www.colorzilla.com/) - Color Picker, Gradient Generator & more
 * [Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers) - Extract Color from Pictures / Webpages
 * [Webgradients](https://webgradients.com/) - Gradients
@@ -932,12 +936,14 @@ Automated Incident Response and Forensics Framework
 * [OpenChakra](https://openchakra.app/) - Visual Editor & Code Generator for React / [GitHub](https://github.com/premieroctet/openchakra)
 * [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - Visual Studio Code Extensions 
 * [awesome-kotlin](https://kotlin.link/) - Kotlin Resource Index / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
-* [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Collection of handy tools for Go projects
+* [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Go Project Tools
+* [lo](https://github.com/samber/lo) - Go Library
 * [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Visual Studio Code Python Language Extension / [Performant Language](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
 * [Python Mini Projects](https://github.com/Python-World/python-mini-projects) - Python Scripts
 * [Pysnake Blog](https://pysnakeblog.blogspot.com/) - Python Projects
 * [Python Patterns](https://python-patterns.guide/) - Python Design Patterns
 * [Dodgy](https://github.com/landscapeio/dodgy) - Find PWs & Diffs in Python Code
+* [pointers.py](https://github.com/ZeroIntensity/pointers.py) - Python Pointers
 * [Pyright](https://github.com/microsoft/pyright) or [mypy](https://github.com/python/mypy) - Python Static Type Checker
 * [PyRegex](http://www.pyregex.com/) - Python Regex Test
 * [JSPyBride](https://github.com/extremeheat/JSPyBridge) - Interoperate Node.js and Python
@@ -969,6 +975,7 @@ Automated Incident Response and Forensics Framework
 * [Sourcegraph](https://sourcegraph.com/) or [Ag](https://geoff.greer.fm/ag/) / [GitHub](https://github.com/ggreer/the_silver_searcher) - Code Searching
 * [searchcode](http://searchcode.com/) or [PublicWWW](http://publicwww.com/) - Source Code Search
 * [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://www.code-projects.org/), [Codastro](https://codeastro.com/), [Kashipara](https://www.kashipara.com/) or [ItSourceCode](https://www.itsourcecode.com/) - Source Code Projects
+* [magic-string](https://github.com/Rich-Harris/magic-string) - String Editor
 * [SciTE](https://www.scintilla.org/SciTE.html) - Source Code Editor for Win32 and X
 * [CodeGrepper](https://www.codegrepper.com/) - Code Search Extension
 * [ShortCode](https://shortcode.dev/), [Google Code Archive](https://code.google.com/archive/), [CodeList](https://www.codelist.cc/) or [bl.ocks](https://bl.ocks.org/) - Script / Code Indexes
@@ -976,6 +983,7 @@ Automated Incident Response and Forensics Framework
 * [ray.so](https://ray.so/) or [Show Code](https://showcode.app/) - Create Code Images
 * [Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering) - Reverse Engineering Resource Index
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code
+* [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Compare Decompiler Outputs
 * [thefuck](https://github.com/nvbn/thefuck) - Corrects Previous Console Command
 * [DelphiTools](https://www.delphitools.info/) - Code Profiler / Delphi Tools
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engine
@@ -983,6 +991,7 @@ Automated Incident Response and Forensics Framework
 * [Zero Dark Matrix](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - Chrome Devtools Dark Theme 
 * [OhMyZSH](https://ohmyz.sh/) - ZSH Customization
 * [PowerLevel10k](https://github.com/romkatv/powerlevel10k) - ZSH Theme
+* [Tantiny](https://github.com/baygeldin/tantiny) - Full-Text Ruby Search
 * [GNU Octave](https://www.gnu.org/software/octave/) - Scientific Programming Language
 * [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - Javascript Resources
 * [Danfo.js](https://github.com/javascriptdata/danfojs) - Javascript Library
