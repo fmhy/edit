@@ -744,13 +744,14 @@
 * [Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png)
 * [Baking Calculators](https://bakingcalculators.com/) - Measurement System Conversion Calculators
 * [TasteJury](https://tastejury.com/) - Find Specific Dishes
-* [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - SF Food Truck App 
-* [node-ubereats](https://github.com/jzarca01/node-ubereats) - WIP API for Uber Eats 
-* [node-deliveroo](https://github.com/jzarca01/node-deliveroo) - API for Deliveroo 
-* [PizzaDash](https://github.com/mynamebrody/pizzadash) - Turn Amazon Dash Button into Pizza Delivery Button 
-* [is-vegan](https://github.com/hmontazeri/is-vegan) - Vegan Food App 
+* [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - SF Food Truck App
+* [node-ubereats](https://github.com/jzarca01/node-ubereats) - WIP API for Uber Eats
+* [node-deliveroo](https://github.com/jzarca01/node-deliveroo) - API for Deliveroo
+* [PizzaDash](https://github.com/mynamebrody/pizzadash) - Turn Amazon Dash Button into Pizza Delivery Button
+* [is-vegan](https://github.com/hmontazeri/is-vegan) - Vegan Food App
 * [McBroken](https://mcbroken.com/) - Check if McDonalds Ice Cream Machines are Broken
-* [HackTheMenu](http://hackthemenu.com/) - Fast Food Secret Menu Items 
+* [HackTheMenu](http://hackthemenu.com/) - Fast Food Secret Menu Items
+* [Awesome Cafe](https://github.com/utilForever/awesome-cafe) - Korean Cafe List / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 
 ***
 
@@ -1039,6 +1040,7 @@
 * [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
 * [Make WordArt](https://www.makewordart.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generator
 * [3DText2GIF](https://3dtext2gif.com/) - Animated 3D Text Generator
+* [Batname](https://batname.vercel.app/) - Batman (2022) Font Generator
 * [Codeface](https://github.com/chrissimpkins/codeface) - Fonts for Coding 
 * [Metropolis](https://github.com/dw5/Metropolis) - Modern Typeface
 * [FiraCode](https://github.com/tonsky/FiraCode) - Monospace Fonts 
