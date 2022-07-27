@@ -492,6 +492,8 @@
 
 # ► Hindi 
 
+* [WFH Companies India](https://github.com/abhagsain/WFH-Companies-India) - Work from Home Job Offerings in India
+
 ## ▷ Downloading
 
 * [Mkv Cinemas](https://www.mkvcinemas.fi/) - Movies / TV 
@@ -746,6 +748,7 @@
 * [dic.daum](https://dic.daum.net/) or [Speller](http://speller.cs.pusan.ac.kr/) - Korean Translator, Spellchecker & more
 * [TakakTadak](https://tadaktadak.co.kr/) - Korean Practice & English Learning
 * [EBS](https://www.ebs.co.kr/) - Korean Courses the Visually / Hearing Impaired
+* [Awesome Cafe](https://github.com/utilForever/awesome-cafe) - Korean Cafe List 
 
 ## ▷ Downloading
 
@@ -1222,6 +1225,7 @@
 * **[Russian Internet Blackout Bypass Guide](https://telegra.ph/CHto-delat-pri-otklyuchenii-interneta-02-27), [2](https://www.the-village.ru/situation/howto/otklyuchenie-interneta)**
 * **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_legal_talk](https://t.me/rks_legal_talk) / [rks_org_Bot](https://t.me/rks_org_bot) / [rks_tech_talk](https://t.me/rks_tech_talk) - Piracy Discussion Telegram
 * [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser) - Internet Censorship Circumvention
+* [new-russia-keyboard-flag](https://github.com/ManeFunction/new-russia-keyboard-flag) - JZUKEN Keyboard Layout for macOS
 * [DXP](https://dxp.ru/) - Torrent / Subtitles
 * [TLauncher Legacy](https://tlaun.ch/) - Minecraft Client / Cracked Minecraft
 * [Proxy-Checker](https://proxy-checker.net/) - Proxy Checker
@@ -1231,7 +1235,7 @@
 * [EDA](https://eda.ru/) - Recipes
 * [WASM](https://www.wasm.in/) - Web Assembly Forum
 * [Ok.ru](https://ok.ru/), [VK](http://vk.com/), [MyMail](https://my.mail.ru/), [TenChat](https://tenchat.ru/) or [RUTube](https://rutube.ru/) - Russian Social Networks
-* [GitFlic](https://gitflic.ru/ ) - Russian Github
+* [GitFlic](https://gitflic.ru/) - Russian Github
 * [ScreenChat](https://screenchat.live/) - Create Fake Texts
 * [Виртуальный компьютерный музей](https://www.computer-museum.ru/) - History of Computer Science / Virtual Museum
 * [RG.RU](https://rg.ru/) - Russian News / [Telegram](https://t.me/rgrunews)
@@ -1864,6 +1868,7 @@
 * [RÚV](https://www.ruv.is/ruv) - Icelandic / Live TV
 * [Ethio Terka](https://t.me/ethio_terka) - Amharic / Books
 * [JavaLibre](https://javalibre.com.ua/) - Ukrainian / Books
+* [Machine Learning ka Chilla](https://www.youtube.com/playlist?list=PL9XvIvvVL50HHzaLPtFBOuikAWa0JdhMW) - Urdu / Machine Learning Course 
 * [WiiDatabase](https://wiidatabase.de/) - Deutsch / Nintendo Homebrew
 * [KannadaCine](https://www.kannadacine.com/) - Kannada / Streaming / Movies
 * [PDFlibrary](https://t.me/PDFlibrary) - Malayalam / Books / Telegram
