@@ -25,9 +25,10 @@
 * [Photoshop Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photoshop_courses) - Photoshop Course Drive
 * [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
 * [PhotoFunia](https://photofunia.com/), [AIBlockchainArt](https://aiblockchain.art/) or [Designify](http://designify.com/) - Photo Effects / Filters  
-* [MagicaVoxel](https://ephtracy.github.io/) - Voxel Art Editor / Interactive Path Tracing renderer
+* [MagicaVoxel](https://ephtracy.github.io/) - Voxel Art Editor / Interactive Path Tracing Renderer
 * [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Text Driven Image Manipulation / [Video](https://youtu.be/5icI0NgALnQ)
-* [Vectr](https://vectr.com/) or [VectorInk](https://vectorink.io/) - Vector Graphics Editor 
+* [Vectr](https://vectr.com/) or [VectorInk](https://vectorink.io/) - Vector Graphics Editor
+* [JPEG Sandbox](https://github.com/OmarShehata/jpeg-sandbox) - DCT Coefficient Editor
 * [Images.weserv.nl](https://images.weserv.nl/) - Image Editing Server
 * [darktable](https://www.darktable.org/) - Virtual Lighttable & Darkroom
 * [FreePSDvn](https://freepsdvn.com/) - Photoshop Presets, Mockups, Templates & more
