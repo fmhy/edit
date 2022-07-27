@@ -196,6 +196,7 @@
 * [ss64 Bash](https://ss64.com/bash/) - Linux Bash Commands
 * [Helmanual](https://helpmanual.io/) - Unix Commands
 * [bashrcgenerator](http://bashrcgenerator.com/) - .bashrc Generator
+* [bash_loading_animations](https://github.com/Silejonu/bash_loading_animations) - Bash Loading Animations
 * [dunst](https://dunst-project.org/) - Customizable Notification Daemon / [GitHub](https://github.com/dunst-project/dunst)
 * [Autokey](https://github.com/autokey/autokey) - Linux Automation Utility
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
