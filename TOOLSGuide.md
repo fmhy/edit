@@ -27,6 +27,7 @@
 * [Generative Tools](https://docs.google.com/document/d/1N57oAF7j9SuHcy5zg2VZWhttLwR_uEldeMr-VKzlVIQ/) - Generative Tool Index
 * [Barcode Reader](https://online-barcode-reader.inliteresearch.com/) or [ZXing Decoder](https://zxing.org/w/decode.jspx) - Online Barcode Reader
 * [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free
+* [Contract-Templates](https://github.com/Oak-Harbor-Kits/Contract-Templates) - Digital Contracts
 * [The Measure Of Things](https://www.bluebulbprojects.com/measureofthings/default.php) - Comparative / Relative Quantity Measurements 
 * [Compare Sizes](https://comparesizes.com/) - Size Comparison Tool 
 * [hikaku-sitatter](https://hikaku-sitatter.com/en/) or [Mulmetric](https://multmetric.com/) - Height Comparison Tool
@@ -529,14 +530,16 @@
 * [Audiogrep](http://antiboredom.github.io/audiogrep/), [Tune Transcriber](https://www.tunetranscriber.com/) or [mp4grep](https://github.com/o-oconnell/mp4grep) - Audio Transcribing / [GitHub](https://github.com/antiboredom/audiogrep)
 * [FastHub](https://fasthub.net/) - Text to Speech Translation Tool
 * [Praat](https://www.fon.hum.uva.nl/praat/) - Analyze, Synthesize & Manipulate Speech / [GitHub](https://github.com/praat/praat)
-* [Splitter](https://www.splitter.ai/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate voice from instrumentals
+* [Splitter](https://www.splitter.ai/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
 * [VocalRemover](http://vocalremover.org/) / [GUI](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [AIVocalRemover](https://aivocalremover.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb), [VocalRemoverPro](https://vocalremoverpro.com/) or [Remove Vocals](https://www.remove-vocals.com/) - Remove / Isolate Vocal Tracks
 * [Acapella-Extractor](https://www.acapella-extractor.com/) - Remove Background Tracks from Songs
 * [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) / [CLI](https://github.com/IniasP/rnnoise-cli) - Noise Suppression Tools
 * [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10)or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixer
+* [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB) - Singing Voice Enhancer
 * [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [MorphVOX](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_morphvox), [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird), [MyVoiceMod](https://myvoicemod.com/) or [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changer
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) or [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone Voices
-* [Sound Branch](https://soundbran.ch/) - Create / Share / Podcasts / Voice Messages 
+* [Sound Branch](https://soundbran.ch/) - Create / Share / Podcasts / Voice Messages
+* [blamscamp](https://github.com/blackle/blamscamp) - Bandcamp Style Player for Selling Albums on Itch.io
 * [Gibber](https://gibber.cc/) - Audiovisual Code Composer 
 * [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - Convert AAX to MP3 / FLAC / M4A / OPUS 
 * [inAudible](https://github.com/rmcrackan/inAudible) - Audible to MP3 converter
@@ -593,6 +596,7 @@
 * [moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - Company / Startup Applications
 * [Nerdy Grads](https://nerdygrads.com/) - Grad School Research Job Search 
 * [MTurk](https://www.mturk.com/) - Online Task Work
+* [WFH Companies India](https://github.com/abhagsain/WFH-Companies-India) - Work from Home Job Offerings in India
 * [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - Online Working Subreddit
 * [/r/freelance](https://www.reddit.com/r/freelance/) - Freelance Subreddit
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Design Job Subreddit
