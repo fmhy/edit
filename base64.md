@@ -1136,7 +1136,7 @@ pass: paluch
 
 #### AdGuard Premium
 
-`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1hZGd1YXJkKyZzcj10b3BpY3Mmc2Y9dGl0bGVvbmx5`
+`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9zdD0wJnNrPXQmc2Q9ZCZzcj10b3BpY3Mma2V5d29yZHM9YWRndWFyZCZzZj10aXRsZW9ubHk=`
 
 *** 
 
