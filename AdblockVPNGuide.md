@@ -186,6 +186,7 @@
 * [Open Source Guides](https://opensource.guide/) - Open Source Guide / [GitHub](https://github.com/github/opensource.guide)
 * [Privacy.Sexy](https://privacy.sexy/) - Privacy Scripts 
 * [Privacy Settings](https://github.com/the-weird-aquarian/privacy-settings) - Privacy Setting Guides
+* [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) - Security Camera System
 * [Vault](https://www.vaultproject.io/) - Data Security Service / [GitHub](https://github.com/hashicorp/vault)
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/), [Infosec Resources](https://github.com/stong/infosec-resources) or [Anon Security](https://t.me/anon_server) - Cybersecurity Resources
@@ -225,12 +226,14 @@
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
 * [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/), [Skytransfer](https://skytransfer.hns.siasky.net) or [upload-vaa](https://upload.vaa.red/) - Encrypted File Hosts 
 * [boom.fyi](https://www.boom.fyi/) - Temporary File Host
-* [EncFS MP](https://encfsmp.sourceforge.io/index.html), [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/), [GPG4Win](https://www.gpg4win.org/), [Encrypto](https://macpaw.com/encrypto), [Kryptor](https://www.kryptor.co.uk/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - File Encryption Tool 
+* [EncFS MP](https://encfsmp.sourceforge.io/index.html), [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/), [GPG4Win](https://www.gpg4win.org/), [Encrypto](https://macpaw.com/encrypto), [FreeCrypt](https://freecrypt.org/
+), [Vmola](https://vmola.com/), [Kryptor](https://www.kryptor.co.uk/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - File Encryption Tool 
 * [Filecrypt](https://filecrypt.cc/) - Encrypt File Links
 * [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
 * [PDFEncrypt](https://pdfencrypt.net/) - PDF File Encryption
 * [GPGTools](https://gpgtools.org/) - Encrypt & Sign Data / Communications 
 * [CiphersByRitter](http://ciphersbyritter.com/) - Cipher / Encryption Articles
+* [CacheMonkey](https://www.cachemonkey.app/) - Browse / Clear Cached Images
 * [HRef](https://href.li/) - Hide HTTP Referer
 * [Pixelfed](https://pixelfed.org/) or [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts 
 * [Cryptee](https://crypt.ee/) - Encrypted Image Storage
@@ -564,7 +567,7 @@
 * [Privoxy](http://www.privoxy.org/) - [Docker Build](https://github.com/binhex/arch-privoxyvpn)
 * [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - HTTPS Proxy
 * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Proxy Manager
-* [FoxyProxy](https://getfoxyproxy.org/) or [Snowflake](https://snowflake.torproject.org/) - Proxy Browser Extension
+* [FoxyProxy](https://getfoxyproxy.org/), [Ambrose](https://play.google.com/store/apps/details?id=com.ambrose.overwall&gl=US) or [Snowflake](https://snowflake.torproject.org/) - Proxy Browser Extension
 * [Fri-Gate](https://fri-gate.org/) - Advanced Proxy Settings Addon  
 * [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - Limit Proxy Usage by Private Windows 
 * [Hitch](https://hitch-tls.org/) - SSL / TLS Proxy
