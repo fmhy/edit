@@ -42,6 +42,7 @@
 * [libtorrent](https://www.libtorrent.org/) - C++ BitTorrent Client / [GitHub](https://github.com/arvidn/libtorrent)
 * [TrayTorrent](https://traytorrent.ru/) - Torrent Tray Client
 * [CloudTorrent](https://github.com/tofuliang/Google-Colab-CloudTorrent) - Google Colab Torrent Client
+* [BitSwarm](https://github.com/SuRGeoNix/BitSwarm/) - Bittorrent Client Library
 * [exatorrent](https://github.com/varbhat/exatorrent) - Self-Hosted Client
 * [Rats Search](https://github.com/DEgITx/rats-search) - Torrent Search Client / [Screenshot](https://github.com/DEgITx/rats-search#screenshots) 
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
