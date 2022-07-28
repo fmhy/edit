@@ -629,6 +629,7 @@
 * [DOKU.PUB](https://doku.pub/) - Science / Articles
 * [ESJI](http://www.esjindex.org/) - Science / Journals
 * [Clarivate](https://mjl.clarivate.com/) - Science / Journals
+* [SciAlert](https://scialert.net/) - Science / Journals
 * [Crossref](https://search.crossref.org/) - Articles / Documents / Datasets 
 * [Zenodo](https://zenodo.org/) - Articles / Documents / Datasets 
 * [Dataone](https://www.dataone.org/) - Datasets 
@@ -723,10 +724,10 @@
 * [LDOCE](https://www.ldoceonline.com/) - Dictionary
 * [Wiktionary](https://www.wiktionary.org/) - Dictionary
 * [Vocabulary](https://www.vocabulary.com/) - Dictionary
+* [WordSense](https://www.wordsense.eu/) - Dictionary
 * [Webopedia](https://www.webopedia.com/) or [TechTerms](https://techterms.com/) - Tech Dictionary
 * [EtymOnline](https://www.etymonline.com/) - Etymologies
 * [Fandom](https://www.fandom.com/) - Fan Wikis 
-* [WordReference](https://www.wordreference.com/) or [Reverso](https://reverso.net/) - Translation Dictionary 
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi Language Dictionary Index
 * [Everpidia](https://everipedia.org/) - Encyclopedia
 * [Britannica](https://www.britannica.com/) - Encyclopedia
