@@ -239,13 +239,14 @@
 * [Scoop](https://www.scoop.it/) - Content Curation Tool
 * [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams 
 * [ASCII Flow](https://asciiflow.com/) - Draw ASCII Diagrams
-* [Ainize](https://ainize.ai/) - Launchpad for open-source AI projects
+* [Ainize](https://ainize.ai/) - Launchpad for Open-Source AI projects
 * [DBeaver](https://dbeaver.io/) - Universal Database Tool
+* [Egui Node Graph](https://github.com/setzer22/egui_node_graph) - Build Node Graph Apps in Rust
 * Generate Fake Data - [Ruby](https://github.com/faker-ruby/faker) / [Swift](https://github.com/vadymmarkov/Fakery)
 * [Awesome Big Data](https://github.com/0xnr/awesome-bigdata) - Big Data Resource Index
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
 * [ToolJet](https://tooljet.com/) - Internal Tool Framework / Deployment / [GitHub](https://github.com/ToolJet/ToolJet)
-* [Deps.dev](https://deps.dev/) - Open-Source Package Search
+* [Deps.dev](https://deps.dev/) - Open Source Package Search
 * [PackageCloud](https://packagecloud.io/) or [pnpm](http://pnpm.io/) - Package Manager / Deployment
 * [WebInstall](https://webinstall.dev/) - Easily Install Dev Packages
 * [Balena](https://www.balena.io/) - Build / Manage  IoT Groups
@@ -298,6 +299,7 @@
 * [DVC](https://dvc.org/) - Machine Learning Version Control
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
 * [devSwag](https://devswag.io/) - Developer Giveaways
+* [is-a.dev](https://www.is-a.dev/) - Developer Homepages
 
 ***
 
@@ -313,11 +315,12 @@
 * [Emanote](https://emanote.srid.ca/) - Create Sites from Plain-Text Notes / [GitHub](https://github.com/srid/emanote)
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 * [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - DNS Benchmark
-* [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries 
+* [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
 * [Sympli](https://sympli.io/), [AnimaApp](https://www.animaapp.com/) or [ZeroHeight](https://www.zeroheight.com/) - Developement Collaboration Tool
 * [Grav](https://getgrav.org/) - Flat-File CMS
 * [Flux](https://www.runonflux.io/) - Decentralized Cloud Infrastructure
+* [Package Web](https://github.com/rsc/web) - Basic Site Serving Framework
 * [Web Designer News](https://www.webdesignernews.com/) - Web Design News
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - Web Developer Multireddit
 * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
@@ -623,6 +626,7 @@ Automated Incident Response and Forensics Framework
 * [MDB GO](https://mdbgo.com/) - Free App Hosting
 * [namae](https://namae.dev/) - App Name Availability Check
 * [Lich](https://github.com/line/lich) - Android Development Libraries
+* [Sketchbook Compose](https://github.com/GetStream/sketchbook-compose) - Jetpack Sketchbook
 * [androidx](https://github.com/androidx/androidx) - Android Development Environment for Jetpack Extensions
 * [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators
 * [XDGuru](https://www.xdguru.com/) - Adobe XD Resources
@@ -766,6 +770,7 @@ Automated Incident Response and Forensics Framework
 * [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/) or [Mark Text](https://github.com/marktext/marktext)- Markdown Editor 
 * [Table Magic](https://stevecat.net/table-magic/) - CSV, HTML & Markdown Converter
 * [Markdown To HTML](https://markdowntohtml.com/) - Markdown to HTML Converter
+* [AiToHTML](http://ai2html.org/) - Illustrator to HTML Converter
 * [Word2md](https://word2md.com/) - Word to Markdown Converter
 * [Obsidian](https://obsidian.md/) - Markdown File Organizer / [Resources](https://github.com/kmaasrud/awesome-obsidian)  
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
@@ -894,7 +899,7 @@ Automated Incident Response and Forensics Framework
 * [Awesome Twitter Accounts](https://github.com/yask123/AwesomeTwitterAccounts) or [Awesome Twitter Communities](https://github.com/mattn/awesome-twitter-communities) - Curated List of Programming Related Twitter Pages 
 * [Awesome Programming](https://github.com/hardikvasa/awesome-programming) - Programming Resources 
 * [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality/wiki) - Software Quality Testing Tools
-* [Node-RED](https://nodered.org/) - Low-code programming for event-driven applications 
+* [Node-RED](https://nodered.org/) - Low-Code Programming for Event-Driven Apps
 * [Package Control](https://packagecontrol.io/) - Code Editor Package Manager
 * [Commands.dev](https://www.commands.dev/) - Terminal Commands
 * [Regex101](https://regex101.com/) - Regex Editor / Debugger 
@@ -995,7 +1000,8 @@ Automated Incident Response and Forensics Framework
 * [GNU Octave](https://www.gnu.org/software/octave/) - Scientific Programming Language
 * [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - Javascript Resources
 * [Danfo.js](https://github.com/javascriptdata/danfojs) - Javascript Library
-* [RunKit](https://runkit.com/) - Browser Javascript Sandbox 
+* [RunKit](https://runkit.com/) - Browser Javascript Sandbox
+* [GPU.js](https://gpu.rocks/) - GPU Accelerated JavaScript
 * [JS.ORG](https://js.org/) - Free subdomain for Javascript Developers 
 * [1loc](https://1loc.dev/) - 217 Single Line JavaScript Codes 
 * [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in Javascript
