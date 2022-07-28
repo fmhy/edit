@@ -354,7 +354,6 @@
 
 * **[Ninjakiwi](https://ninjakiwi.com/)** - Browser Games / Bloons / Multiplayer
 * **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
-* **[DelugeRPG](https://www.delugerpg.com/)** or [Pokemon Legends](https://www.pokemongods.com/) - Pokemon MMO
 * **[Cookie Consent Speed.Run](https://cookieconsentspeed.run/)** - Cookie Disabling Game
 * **[AirConsole](https://www.airconsole.com/)** or [AnsStream](https://www.antstream.com/) - Control TV Games with Phone 
 * **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme, turn off adblocker
@@ -444,7 +443,6 @@
 * [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) or [Bemuse](https://bemuse.ninja/) - Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)
 * [Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures) - Interactive Text Adventures
 * [Prosperity](http://www.playprosperity.ca/) - Civilization Building RPG
-* [BrainChef](http://brainchef.com/) - Browser MMORPG
 * [Amazeworld](http://www.amazeworld.com/) - Interactive Webmazes
 * [Little Alchemy](https://littlealchemy.com/) or [Little Alchemy 2](https://littlealchemy2.com/) - Alchemy Game
 * [Short Trip](https://alexanderperrin.com.au/paper/shorttrip/) - Relaxing Cat Game 
@@ -506,6 +504,7 @@
 ## ▷ Multiplayer
 
 * **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS / [Market Ping](https://yee.how/market-ping/) / [Client](https://client.cuffuffles.dev/) / [Optimal Settings](https://rentry.co/krunkersettings)
+* **[DelugeRPG](https://www.delugerpg.com/)** or [Pokemon Legends](https://www.pokemongods.com/) - Pokemon MMO
 * **[Pokemon Showdown](https://pokemonshowdown.com/)** - Online Pokemon Battles 
 * **[GarticPhone](https://garticphone.com/)** - Telephone Game
 * [Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - PokemonGO Resources
@@ -527,9 +526,11 @@
 * [Curve Fever](https://curvefever.pro/) - Line Battles
 * [LOLBeans](https://lolbeans.io/) - "Fall guys" like game
 * [Betrayal](https://betrayal.io/) - "Among Us" like game
+* [BrainChef](http://brainchef.com/) - Browser MMORPG
 * [TownOfSalem](https://blankmediagames.com/TownOfSalem/) - Role Based Mystery Solving MMO
-* [Slither.io](http://slither.io/) or [worm.is](http://play.worm.is/) - Grow the longest worm
-* [diep.io](https://diep.io/) or [Scenexe.io](https://scenexe.io/) - Become the strongest tank 
+* [Pirate101](https://www.pirate101.com/) - Pirate MMO
+* [Slither.io](http://slither.io/) or [worm.is](http://play.worm.is/) - Grow the Longest Worm
+* [diep.io](https://diep.io/) or [Scenexe.io](https://scenexe.io/) - Become the Strongest Tank 
 * [Hexar.io](http://www.hexar.io/), [splix.io](https://splix.io/) or [paper-io](https://paper-io.com/) - Control the Map   
 * [mitos.is](http://play.mitos.is/) - Become the Biggest Cell 
 * [agar.io](https://agar.io/) - Become the Biggest Circle 
@@ -563,6 +564,7 @@
 * [Board Game Online](https://www.boardgame-online.com/), [Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games), [Board Game Arena](https://en.boardgamearena.com/) or [FunNode](https://www.funnode.com/) - Board Games 
 * [The Bafflement Fires](http://www.dpoetry.com/fires/) - 1950's Freemasonic Board Game
 * [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
+* [Richup](https://richup.io/) - Monopoly-Style Board Game
 * [GameKnot Chess](https://gameknot.com/) - Multiplayer Chess
 * [Chesses](https://pippinbarr.github.io/chesses/) - Multiple Styles of Chess 
 * [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game 
@@ -608,6 +610,7 @@
 * [Oh, My Dots!](https://www.ohmydots.com/) - Connect the Dots Game
 * [eWordChallenge](https://www.ewordchallenge.net/) - Multiplayer Boggle
 * [Click Click Click](https://clickclickclick.click/) - Browser Based Clicking Puzzle
+* [WordPlays](https://www.wordplays.com/) or [WorduUnscrambler](https://www.wordunscrambler.net/) - Cheat at Scrabble, Words with Friends & Crossword Puzzles
 
 ***
 
@@ -696,6 +699,7 @@
 * [Backloggery](https://backloggery.com/) - Video Game Database
 * [listal](https://www.listal.com/) - Video Game Database
 * [HOTU](http://www.homeoftheunderdogs.net/) - Rare Video Game Database
+* [GameClassification](https://gameclassification.com/) - Search Games by Classifications
 * [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - Find Similar Games
 * [Random Game Bookmark Script](https://pastebin.com/JtmBQZbL) - Find Random Games
 * [Movie-Censorship](https://www.movie-censorship.com/) - Compare Alternate Versions of Media 
