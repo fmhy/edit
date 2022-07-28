@@ -759,7 +759,8 @@
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
 * [NandGame](https://nandgame.com/) - Computer Building Puzzle
 * [Vocabulary.ugent](http://vocabulary.ugent.be/) - Vocabulary Test 
-* [Kialo](https://www.kialo.com/) or [Level Point](https://levelpoint.app/) - Debates / Discussion 
+* [Kialo](https://www.kialo.com/) or [Level Point](https://levelpoint.app/) - Debates / Discussion
+* [Tabby Cat](https://github.com/TabbycatDebate/tabbycat) - Debate Tournament Tabulation Software
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/) - Learn about Logical Fallacies 
 * [YourBiasIs](https://yourbias.is/) - Learn about Biases 
 * [LessWrong](https://www.lesswrong.com/) - Develop Rationality
