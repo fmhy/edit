@@ -81,6 +81,7 @@
 * [Free Cloud Linux Server](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_free_cloud_linux_server) - Free Cloud Server Guide
 * [yet another bench script](https://github.com/masonr/yet-another-bench-script) - Server Performance Script
 * [Rang3r](https://github.com/floriankunushevci/rang3r) - IP / Port Scanner
+* [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
 * [Brunch](https://github.com/sebanc/brunch) or [Chromefy](https://github.com/imperador/chromefy) - ChromeOS Installer
 * [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [FydeOS](https://fydeos.io/download), [NeverWare](https://www.neverware.com/) or [WayneOS](https://wayne-os.com/) - ChromeOS Based OS
 * [Chromebrew](https://github.com/skycocker/chromebrew) - Package Manager for Chrome OS
@@ -156,6 +157,7 @@
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) - Image to Text
 * [Feh](https://feh.finalrewind.org/) or [NSXIV](https://github.com/nsxiv/nsxiv) - Image Viewer
 * [lsix](https://github.com/hackerb9/lsix) - View Images in Terminal
+* [MkPosters](https://github.com/patrick-kidger/mkposters) - Turn Markdown Files into Posters
 * [Rapid](https://damonlynch.net/rapid/) - Quick Linux Photo Importer
 * [Drawing](https://github.com/maoschanz/drawing) - Drawing App
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer) - YouTube Linux Client / [Fork](https://github.com/trizen/pipe-viewer) 
@@ -183,6 +185,7 @@
 * [SafeEyes](http://slgobinath.github.io/SafeEyes/) - Break Reminders
 * [Dijo](https://github.com/NerdyPepper/dijo) - Activity Tracker
 * [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
+* [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
 * [Client Evolution](https://help.gnome.org/users/evolution/stable/) - Calendar / Mail
 * [todo](https://github.com/sioodmy/todo/) - Rust Based To-Do CLI
 * [aerc](https://aerc-mail.org/), [ElectronMail](https://github.com/vladimiry/ElectronMail) or [Alpine](http://alpine.x10host.com/) - Email Client
@@ -390,6 +393,7 @@
 * [pock](https://pock.app/) - Touch Bar Widget Manager / [GitHub](https://github.com/pock/pock)
 * [xbar](https://xbarapp.com/) - Manage Menu Bar Items / [GitHub](https://github.com/matryer/xbar)
 * [MacLaunch](http://github.com/hazcod/maclaunch) - Manage Startup Items
+* [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - Menu Bar Toggle Switches
 * [Sloth](https://github.com/sveinbjornt/Sloth) - MacOS Process Manager
 * [pongoOS](https://github.com/checkra1n/pongoOS) - Mac Pre-Boot Executor
 * [Magnet Pro](https://haxmac.cc/?s=magnet+pro) or [Rectangle](https://rectangleapp.com/) - Mac Window Tiling
@@ -406,6 +410,7 @@
 * [Manila](https://github.com/neilsardesai/Manila) - Change Folder Colors
 * [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - MacOS Dynamic Wallpaper App
 * [wallpapper](https://github.com/mczachurski/wallpapper) - Dynamic Wallpaper Creator
+* [Plash](https://github.com/sindresorhus/Plash) - Use Website as Wallpaper
 * [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) - Automatically Switch System Theme
 * [OldSchoolOS](https://www.oldschoolos.com/) - Old MacOS ISOs
 * [Bootcamp Drivers](https://bootcampdrivers.com/) - Mac Bootcamp AMD Drivers
@@ -418,6 +423,7 @@
 * [The Levelator](https://apps.apple.com/us/app/the-levelator/id1493326487?mt=12) - Automatic Audio Level Adjustments / [Archive](https://archive.org/details/conversationsnetwork_org-levelator)
 * [CasterSoundboard](https://github.com/JupiterBroadcasting/CasterSoundboard) - Soundboard
 * [XLD](https://sourceforge.net/projects/xld/) - Lossless Audio Transcoder
+* [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Pass Audio to Apps
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - Image Editor 
 * [ImageOptim](https://imageoptim.com/mac) - Image Optimization
 * [Perspec](https://github.com/feramhq/Perspec) - Correct Perspective of Images
@@ -434,7 +440,7 @@
 * [Is Apple Silicon ready?](https://isapplesiliconready.com/) - M1 App Compatibility Chart
 * [SelfControlApp](https://selfcontrolapp.com/) - Website Blocker
 * [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) - Typing Practice
-* [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) - Reddit Dekstop Client
+* [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) or [RedditOS](https://github.com/Dimillian/RedditOS) - Reddit Client
 * [Manta](https://github.com/hql287/Manta) - Invoice Manager
 * [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) - Manage Multiple Versions of Xcode 
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - Grayscale Control
