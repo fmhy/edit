@@ -25,7 +25,7 @@
 * **[PrivateHD](https://www.privatehd.xyz/)** - Movies / TV
 * **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
 * **[Ask4movies](https://ask4movie.io/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
-* [M4uFree](https://ww1.m4ufree.com) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
+* [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [PtFlixMovies](https://ptflixmovies.xyz/) - Movies / TV / Anime
 * [C1NE](https://c1ne.co/) - Movies / TV 
 * [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - Movies / TV
