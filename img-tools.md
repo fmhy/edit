@@ -156,6 +156,7 @@
 * [Venngage](https://venngage.com/) - Infographic Maker
 * [Quote Maker](https://quotescover.com/) - Quote Picture Generator
 * [MyNameArt](https://www.mynameart.com/) or [Kisseo](https://www.kisseo.com/) - Custom Greetings Cards
+* [SponsorKit](https://github.com/antfu/sponsorkit) - Patreon Sponsor Image Generator
 * [Verbex](https://www.vedbex.com/fakeproof) - Fake "Proof" Generator
 * [FakeReceipt](http://www.fakereceipt.us/) - Create Fake Receipts
 * [The Rasterbator](https://rasterbator.net/) - Wall Art Generator 
@@ -359,7 +360,7 @@
 * [VisiPics](http://www.visipics.info/) - Duplicate Photo Remover 
 * [behind!](https://github.com/kubuzetto/behind) - View Background Images   
 * [Visual Center](https://javier.xyz/visual-center/) - Find the Visual Center of an Image
-* [Capture2Text](http://capture2text.sourceforge.net/), [Text Grab](https://github.com/TheJoeFin/Text-Grab), [TextShot](https://github.com/ianzhao05/textshot), [Online OCR](https://www.onlineocr.net/), [IMG2TXT](http://img2txt.com/), [NewOCR](https://www.newocr.com/), [OCR.SPACE](https://ocr.space/) or [OnlineOCR](https://www.onlineocr.net/) - Image to Text  
+* [Capture2Text](http://capture2text.sourceforge.net/), [Text Grab](https://github.com/TheJoeFin/Text-Grab), [TextShot](https://github.com/ianzhao05/textshot), [Online OCR](https://www.onlineocr.net/), [IMG2TXT](http://img2txt.com/), [NewOCR](https://www.newocr.com/), [OCR.SPACE](https://ocr.space/), [ImageToText](https://www.imagetotext.info/) or [OnlineOCR](https://www.onlineocr.net/) - Image to Text  
 * [Handwriting-OCR](https://github.com/Breta01/handwriting-ocr) - Handwriting Image to Text
 * [Image-to-Image](https://affinelayer.com/pixsrv/) - Interactive Image Translation
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - Find Font from Image
@@ -395,6 +396,7 @@
 * [Librephotos](https://github.com/LibrePhotos/librephotos), [Photoprism](https://github.com/photoprism/photoprism), [Photoview](https://github.com/photoview/photoview) or [Ownphotos](https://github.com/hooram/ownphotos/) - Self-Hosted Google Photo Manager 
 * [Pixelfed](https://pixelfed.org/) or [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts 
 * [Cryptee](https://crypt.ee/) - Encrypted Image Storage
+* [CacheMonkey](https://www.cachemonkey.app/) - Browse / Clear Cached Images
 
 ***
 
