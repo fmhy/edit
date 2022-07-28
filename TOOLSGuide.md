@@ -64,6 +64,7 @@
 * [DogSheep](https://dogsheep.github.io/) - Personal Analytics Tools 
 * [Stretchly](https://hovancik.net/stretchly), [WorkRave](https://workrave.org/), [Take a Five](http://www.takeafive.com/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - Break Reminders / Trackers
 * [DoINeedAJacket](https://doineedajacket.com/weather/), [DogeWeather](http://dogeweather.com/), [ForcastAdvisor](https://www.forecastadvisor.com/) or [wttr](https://wttr.in/) - Simple Weather Reports
+* [IEMBot](https://weather.im/iembot/) - Weather Bot Monitor
 * [World Weather Online](https://www.worldweatheronline.com/) - Historical Weather Reports
 * [Cricket Convert](https://www.weather.gov/epz/wxcalc_cricketconvert) - Estimate Temperature via Cricket Chirps
 * [Elevation](https://tikolu.net/elevation/) - Find Current Elevation
@@ -74,6 +75,7 @@
 * [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizer
 * [PollCode](https://pollcode.com/), [YoPolls](https://www.yopolls.com/), [Polls.fr](https://polls.fr/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/), [StrawPoll](https://strawpoll.com/), [framadate](https://framadate.org/) or [poal.me](https://poal.me/) - Poll Creator
 * [sli.do](https://www.sli.do/), [Feedbackr](https://www.feedbackr.io/) or [Trypingo](http://trypingo.com/) - Live Polling Apps
+* [Evote](https://github.com/IBM/evote), [SimpleVote](https://github.com/dessalines/simple-vote), [CryptoBallot](https://cryptoballot.com/) or [BlockVotes](https://github.com/yfgeek/BlockVotes) - Online Voting Platform
 * [Event Rally](https://rallly.co/) - Collaborate and Vote on a Date to Host / [GitHub](https://github.com/lukevella/Rallly)
 * [Diff Checker](https://www.diffchecker.com/) - Check Differences in Text, Images, PDFs or Files
 * [Find Your Place](https://where-is-this.com/) - Find Places from Pictures
@@ -186,7 +188,7 @@
 * [TinySheet](https://tinysheet.com/) or [LuckysheetDocs](https://mengshukeji.github.io/LuckysheetDocs/) - Online Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
 * [Diagram.codes](https://www.diagram.codes/) - Convert Text to Diagrams
-* [Watson](https://speech-to-text-demo.ng.bluemix.net/), [Dictation](https://dictation.io/speech), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
+* [Watson](https://speech-to-text-demo.ng.bluemix.net/), [Dictation](https://dictation.io/speech), [SpeechTexter](https://www.speechtexter.com/), [ConvertSpeech](https://www.convertspeech.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) or [HandWrittner](https://handwrittner.com/?lang=en) - Text to Handwriting Converter
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Extract Text From Any Window
 * [ExtractMailAddress](https://extractemailaddress.com/) - Extract Email's, URLs & Numbers from Text
@@ -277,9 +279,10 @@
 * [FFmpeg](https://ffmpeg.org/) - Video / Audio Recorder, Converter & Streaming
 * FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Builds](https://github.com/BtbN/FFmpeg-Builds) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730)
 * [VideoProc](https://www.videoproc.com/) - Video Processing Software
+* [DJV](https://darbyjohnston.github.io/DJV/) - Professional Video Review Player
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - SWF to Video Converter
 * [MotionFactory](https://www.motionfactory.io/) - Video Editing Workflow Manager
-* [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/) or [Pensela](https://github.com/weiameili/Pensela) - Screen Annotation 
+* [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/), [Live Draw](https://github.com/antfu/live-draw) or [Pensela](https://github.com/weiameili/Pensela) - Screen Annotation 
 * [VidGrid](https://vidgrid.tk.gg/) - View Multiple Streams Simultaneously
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) or [OBS Ninja](https://obs.ninja/) - Streaming Tools Indexes
 * [SteamLabs](https://streamlabs.com/) - Streaming Tools
@@ -478,7 +481,7 @@
 * [RaveDJ](https://rave.dj/) - Easily Mix Songs Together 
 * [EZStems](https://www.ezstems.com/) or [mvsep](https://mvsep.com/) - Create Audio STEMS
 * [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - Create Songs with Code 
-* [WebSynths](http://www.websynths.com/) - Browser-Based Instruments 
+* [WebSynths](http://www.websynths.com/) or [Roland50](https://roland50.studio/) - Browser-Based Instruments 
 * [JummBox](https://jummbus.bitbucket.io/), [Pata Tracker](https://pixwlk.itch.io/pata-tracker) or [Klystrack](https://github.com/kometbomb/klystrack) - Chiptune Music Creator
 * [Audovia Music](https://songbase.github.io/) - Classical Music Creator
 * [Melody Generator](https://dopeloop.ai/melody-generator), [Rosegarden](https://rosegardenmusic.com/) or [Ariamaestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html) - MIDI Editor
@@ -647,6 +650,7 @@
 * [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Investment Research CLI 
 * [Trading Talks](https://tradingtalks.org/) - Business Courses
 * [Marketing / Trading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_marketing_.2F_trading_courses) - Marketing / Trading Courses
+* [protocol-reading-list](https://github.com/bryanhpchiang/protocol-reading-list) - Crypto Protocols
 * [Wasabi](https://wasabiwallet.io/) - FOSS Bitcoin Wallet
 
 ***
@@ -975,7 +979,7 @@
 * **[Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Wiki URL Shortener
 * **[Check if Sites are Down](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_down_site_checkers)** - Check if a site is down for just you or everyone 
 * **[Universal Encoding Tool](https://unenc.com/)** - Encoding / Decoding Tools
-* **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)**, [Base64 E/D](https://apps.maximelafarie.com/base64/) or [URL Encode/Decode](https://www.url-encode-decode.com/) - Base64 Encode and Decode / [Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_base64_decode_extensions)
+* **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)**, [Base64 E/D](https://apps.maximelafarie.com/base64/), [Encode/Decode](https://toolbox.googleapps.com/apps/encode_decode/) or [URL Encode/Decode](https://www.url-encode-decode.com/) - Base64 Encode and Decode / [Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_base64_decode_extensions) / [AES-256](https://secretmessages.online/), [2](https://encipher.it/)
 * **[t.ly](https://t.ly/)** - `t.ly/qqH6`
 * **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
 * [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
@@ -1160,6 +1164,7 @@
 * [displunger](https://gitlab.com/derpystuff/displunger) - Run Old Versions of Discord
 * [DevilNo](https://docs.google.com/spreadsheets/d/1hsSigFjyTaTnvB5XS6ot-msCZS5DR4VWtiD5g1ebH8c/edit?usp=sharing) - Alternative DevilBro Plugins
 * [Acrylic](https://github.com/xirreal/Acrylic) - Glass Discord Theme
+* [Nitro Sniper](https://github.com/localip/nitro-sniper) - Discord Nitro Giveaway Sniper
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
 * [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - Use Discord Emojis without Nitro 
 * [Slackmoji](https://github.com/seanprashad/slackmoji), [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis), [NitroEmoji](https://github.com/D3JF/NitroEmoji) or [emoji.gg](https://emoji.gg/) - Discord Emojis
@@ -1237,6 +1242,7 @@
 * [Discord Markdown Cheatsheet](https://pbs.twimg.com/media/EhCUbVnWAAE5tHx?format=png&name=900x900), [2](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-), [3](https://c.r74n.com/discord/formatting) - Discord Markdown Guide
 * [Discord Avatar Maker](https://discord-avatar-maker.app/) - Make Discord Avatars  
 * [usrbg](https://github.com/Discord-Custom-Covers/usrbg) or [Pfps.gg](https://pfps.gg/) - Discord Custom Profile Backgrounds / [Discord](https://discord.gg/2YcxDChxS5) 
+* [Discord Icon](https://icon.en-zo.dev/) - Create Custom Discord Role Icons
 * [Auto Creative](https://auto.creavite.co/icons) - Animated Icon & Banner Generator
 * [DiscordBannerTester](https://dav1312.github.io/BD/DiscordBannerTester/) - Test Discord Banners
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Adds Custom CSS Support 
@@ -1947,15 +1953,15 @@ Twitch Stream Tracker
 * **[Multi-Site Cloud Storage Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_cloud_storage_managers)** - Manage Cloud Files on Multiple Sites
 * **[File Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_download_managers)**, **[2](https://en.wikipedia.org/wiki/Comparison_of_download_managers)** - Programs to Help Manage Downloads
 * **[Windows File Explorers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_file_explorers)** - Improved Windows File Explorers
-* **[File Conversion Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_conversion_tools)** - Tools to convert files
+* **[File Conversion Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_conversion_tools)** - Tools to Convert Files
 * **[Unzip / Compress Files](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_compression_programs)** - File Unzippers / Compression Programs
 * **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** or [MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb) - Google Drive Tools Colab / [GitHub](https://github.com/biplobsd/OneClickRun) / [Features](https://i.imgur.com/hEHM7Vy.png)
 * **[Mega-to-Google-Drive](https://github.com/cheems/Mega-to-Google-Drive)** - Transfer Files from Mega to GDrive
 * **[OpenWith](https://www.openwith.org/)** or [File.org](https://file.org/) - Programs to Open any File Extension 
 * **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser
-* **[TeamDrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_generators)** - Create google teamdrives
-* **[Onedrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_onedrive_generators)** - Generate Microsoft 1tb Onedrives / Free Office 365 
-* **[UDS](https://github.com/stewartmcgown/uds)** - Unlimited Google Drive storage
+* **[TeamDrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_generators)** - Create Google TeamDrives
+* **[Onedrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_onedrive_generators)** - Generate Microsoft 1tb OneDrives / Free Office 365 
+* **[UDS](https://github.com/stewartmcgown/uds)** - Unlimited Google Drive Storage
 * **[PDF Editors / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pdf_editors_.2F_toolkits)**
 * [downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site Downloaders
 * [Awesome Storage](https://github.com/okhosting/awesome-storage) - File Storage Tools
@@ -1980,6 +1986,7 @@ Twitch Stream Tracker
 * [File-Examples](https://file-examples.com/) - File Examples
 * [MyPhoneExplorer](https://www.fjsoft.at/) - Manage / Sync Your Phone with PC
 * [RollMyFile](https://rollmyfile.com/) - Open Files Online
+* [AList](https://github.com/Xhofe/alist) - File Listing Program
 * [Tmp.Ninja](https://tmp.ninja/) - Temp File Host (48hrs)
 * [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
 * [ozzillate](https://www.ozzillate.com/) - Transfer Files via Sound
@@ -2029,9 +2036,10 @@ Twitch Stream Tracker
 * [GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) - GoIndex to GDrive Downloader
 * [GDriveSearcherBot](https://github.com/TheHamkerCat/GdriveSearcherBot) - GDrive Search Bot
 * [gd-utils](https://github.com/roshanconnor123/gd-utils) / [2](https://nenokkadine.github.io/GD-Utils/) or [Bypass-GDrive](https://yuudrive.me/tools/bypass-gdrive) - Google Drive Limit Bypass 
-* [G-Index](https://github.com/LeeluPradhan/G-Index), [Zyndex](https://zyndex.tk/), [goindex](https://github.com/alx-xlx/goindex), [GDI](https://github.com/anymeofu/GDI) or [gdrive-index](https://github.com/alx-xlx/gdrive-index) - Google Drive Index
+* [G-Index](https://github.com/LeeluPradhan/G-Index), [Zyndex](https://zyndex.tk/), [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/cheems/goindex-extended) / [Themes](https://install.kenci.workers.dev/), [GDI](https://github.com/anymeofu/GDI), [GDIndex](https://github.com/maple3142/GDIndex), [libDrive](https://github.com/libDrive/heroku) or [gdrive-index](https://github.com/alx-xlx/gdrive-index) - Google Drive Index
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
 * [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive 
+* [CloneBot](https://github.com/MsGsuite/CloneBot_Heroku) - Copy GDrive to TeamDrive
 * [Copy Google Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_copy_google_drives) - Make GDrive Copies 
 * [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive 
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
@@ -2040,7 +2048,8 @@ Twitch Stream Tracker
 * [Folder.GDrive](https://folder.gdrive.vip/) - GDrive Folder Link Generator
 * [GDToT](https://gdtot.eu/), [2](https://new1.gdtot.sbs/) - GDrive Manager
 * [Backup System](https://github.com/danielpy108/BackUpMySystem) - Backup Google Drive
-* [onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Self-Hosted OneDrive Directory
+* [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) - OneDrive Index
+* [onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Self-Hosted Directory
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4gb
 * [mf-dl](https://gitgud.io/Pyxia/mf-dl/) - Mediafire Bulk File Downloader 
 * [Baidu Bypass](https://baidu.crackhub.site/) - Bypass Baidu Links / [Guide](https://baidu.crackhub.site/help)
