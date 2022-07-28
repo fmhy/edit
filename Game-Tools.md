@@ -127,8 +127,12 @@
 * [VibranceGUI](https://vibrancegui.com/) - Automate Digitial Vibrance Control
 * [ReShade](https://reshade.me/) - Generic Post-Processing Injector / [GitHub](https://github.com/crosire/reshade)
 * [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - Glide & DirectX Graphics Wrapper
-* [Achievement Watcher](https://github.com/xan105/Achievement-Watcher) - Achievement File Parser, Notifications & Playtime Tracker 
-* [AreWeAntiCheatYet? ](https://areweanticheatyet.com/) - Check if Games is Anti-Cheat
+* [Achievement Watcher](https://github.com/xan105/Achievement-Watcher) - Achievement File Parser, Notifications & Playtime Tracker
+* [MegaGames](https://megagames.com/) or [GTrainers](https://gtrainers.com/) - Fixes / Trainers / Saves
+* [CheatEngine](https://cheatengine.org/) or [WeMod](https://wemod.com/) / [Forum](https://mrantifun.net/) - Cheat Engine
+* [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - Cheat Engine Table
+* [CheatCodes](https://cheatcodes.com/), [SuperCheats](https://www.supercheats.com/), [CheatBook](http://www.cheatbook.de/) or [Cheat Happens](https://cheathappens.com/) - Cheat Codes
+* [AreWeAntiCheatYet?](https://areweanticheatyet.com/) - Check if Games is Anti-Cheat
 * [fuckigg](https://github.com/Pheeeeenom/fuckigg) - Remove IGG DRM
 * [UE4 Console Unlocker](https://framedsc.github.io/GeneralGuides/universal_ue4_consoleunlocker.htm) - Unreal Engine 4 Console Unlocker
 * [How To Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
@@ -148,7 +152,7 @@
 * [Tarac](https://sims.tarac.nl/the-sims-4/sims-4-download-update-repair-add-dlcs/) - Sims 4 Update / Repair Tool
 * [Payday 2 Social Safe](https://www.overkillsoftware.com/payday2-social-safe/) - Free Payday 2 Offers
 * [PuzzleGraph](https://runevision.itch.io/puzzlegraph) - Computer Puzzle Visualizer
-* [WordPlays](https://www.wordplays.com/) - Cheat at Scrabble, Words with Friends & Crossword Puzzles
+* [WordPlays](https://www.wordplays.com/) or [WorduUnscrambler](https://www.wordunscrambler.net/) - Cheat at Scrabble, Words with Friends & Crossword Puzzles
 * [Oculus Quest Piracy Wiki ](https://www.reddit.com/r/QuestPiracy/wiki/ffaio) 
 * [Oculess](https://github.com/basti564/Oculess) - Remove Oculus Quest Account Requirements & Telemetry
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
@@ -419,12 +423,9 @@
 
 * **[ModDB](https://moddb.com/)**, [Nexus Mods](https://www.nexusmods.com/), [ZagruzkaMods](https://zagruzkamods.com/), [NextGenUpdate](https://www.nextgenupdate.com/), [ModWorkshop](https://modworkshop.net/), [Video Game Mods](https://videogamemods.com/), [Silent's Blog](https://cookieplmonster.github.io/mods/index/) or [CurseForge](https://www.curseforge.com/) - Game Mods 
 * [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers
-* [MegaGames](https://megagames.com/) - Fixes / Trainers / News
 * [ChronoCrash](http://www.chronocrash.com/forum/) or [TheTechGame](https://www.thetechgame.com/) - Game Modding Forum
 * [Playground](https://www.playground.ru/) - Mods, Artbooks, Soundtracks, Cheats & more
 * [SweetFX](https://sfx.thelazy.net/) or [ENBSeries](http://enbdev.com/) - Game Graphic Mods 
-* [CheatEngine](https://cheatengine.org/) - Single Play Cheat Engine
-* [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - Cheat Engine Table for Single Player Games
 * [Otis_Inf Camera Mods](https://redd.it/hvttbd) - Game Camera Mods
 * [injectSMAA](http://mrhaandi.blogspot.com/p/injectsmaa.html) - SMAA Injection Tool
 * [OpenVR FSR](https://github.com/fholger/openvr_fsr) - Steam VR FidelityFX Super Resolution Mod
