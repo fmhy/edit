@@ -216,7 +216,8 @@
 * [PS Deals](https://psdeals.net/) - PlayStation Game Price Tracker
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [Shucks](https://shucks.top/) - External Drive Price Tracker
-* [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker 
+* [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
+* [PhoneDB](https://phonedb.net/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones & Prices 
 * [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
@@ -249,6 +250,7 @@
 * [Tapology](https://www.tapology.com/) - Make MMA Fight Picks
 * [KongouCheats](https://kongoucheats.com/) or [Wimp.com](https://www.wimp.com/) - Watch Random Memes / Videos 
 * [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [iFunny](https://ifunny.co/) or [Imageboard Scraper](https://nik.bot.nu/) - Images, Videos, Memes & GIFs / Some NSFW
+* [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
 * [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
 * [DeviantArt](https://www.deviantart.com/) or [ArtStation](https://www.artstation.com/) - User-Made Art
 * [SfwChan](http://boards.swfchan.net/) - SFW Archive
@@ -261,6 +263,7 @@
 * [4chan](https://4chan.org/), [Afternoon](https://afternoon.dynu.com/), [Crystal.cafe](https://crystal.cafe/) or [Bus Stop](https://bus-stop.net/) - Anonymous Text / Image Boards
 * [Gossip’s Café](https://gossips.cafe/) - Text / Music Board 
 * [TwoCansAndAString](https://twocansandstring.com/) - Anonymous Q&A
+* [/r/Place Atlas](https://place-atlas.stefanocoding.me/) - /r/Place Info
 * [Fandom](https://www.fandom.com/) - Media Wikis / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com)
 * [Conspiracy Theory Iceberg](https://ipfs.io/ipfs/QmWszAAzXjaD6hQZXbfhF9qBFWpnPwZVWU131HVf42WZej) - Conspiracies / Occult / Mythology / [Video Playlist](https://www.youtube.com/watch?v=7I2KJL-gJPU&list=PLfeWBGty_481haNoS_ozOVdIyOpyXMjUC)
 * [Kamogo](https://www.kamogo.com/faq/) - Useless Web Apps
@@ -573,6 +576,7 @@
 * [Long Doge Challenge](https://longdogechallenge.com/) - Worlds Longest Doge
 * [Endless Horse](http://endless.horse/) - Worlds Longest Horse
 * [You wouldn't steal a website](https://youwouldntsteala.website/) - Steal a Website
+* [Terminal Video Player](https://github.com/TheRealOrange/terminalvideoplayer) - Cursed Terminal Video Player
 * [Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator) - Pretend You Have Macbook Pro
 * [ILoveJarJarBinks](https://ilovejarjarbinks.tripod.com/) - Jar Jar Binks Fansite
 * [IdiotProofWebsite](http://idiotproofwebsite.com/)
@@ -1309,6 +1313,7 @@
 * [BetterViewer](https://github.com/Ademking/Betterviewer) - Improved Image Viewer
 * [Resizing](https://resizing.app/) - Resize Images
 * [Vasai](https://chrome.google.com/webstore/detail/vasai-free-screen-recorde/ppbdhdggkcfgcghiaimfknmfemkegleo) - Screen Recorder
+* [SmartShot](https://chrome.google.com/webstore/detail/smartshot/edjbamdongkhmagbpppagfjbcojajeae/related?hl=en) - Take Screenshots
 * [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en) - Color Picker
 * [Mate Translate](https://gikken.co/mate-translate/chrome/) - Translator
 * [SiteScrubber](https://chrome.google.com/webstore/detail/sitescrubber/ffadalgofahhohaciekjchkikcglcpla) - Hide Offensive/Swear Words on Sites
