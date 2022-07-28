@@ -164,6 +164,7 @@
 * [Serenity Notes](https://www.serenity.re/en/notes) - Collaborative Notes
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
 * [Adaptive Controls](https://play.google.com/store/apps/details?id=com.nxet.adaptivecontrols) - Per App Settings
+* [Plexus](https://plexus.techlore.tech/) - De-googled Device Compatibility List
 * [How to Root](https://www.xda-developers.com/root/amp/) - Android Root Guide
 * [Root Essentials](https://sites.google.com/view/superthomaslab/root-essentials) - Multiple Root Tools
 * [Root Checker](https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck) - Root Checker
@@ -817,7 +818,7 @@
 * [/r/jailbreak](https://reddit.com/r/jailbreak) - Jailbreaking Subreddit
 * [Sideloading Beginners Guide](https://redd.it/orqzau) or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - Sideloading Guide
 * [/r/sideloaded](https://reddit.com/r/sideloaded) - Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)
-* [Sideloadly](https://sideloadly.io/) - Sideloading Tool
+* [Sideloadly](https://sideloadly.io/) or [SignTools](https://github.com/SignTools/SignTools) - Sideloading Tool
 * [IPSW](https://ipsw.me/) - Provides Jailbreak firmware
 * [checkra1n](https://checkra.in/) - 5s - X Jailbreak / [Discord](https://discord.gg/NAxRYvysuc)
 * [Taurine](https://taurine.app/) - 14-14.3 Semi-Untethered Jailbreak
