@@ -332,6 +332,7 @@
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/)
 * [Crunchyroll iFrame Player](https://greasyfork.org/en/scripts/411391-crunchyroll-iframe-player) - Crunchyroll Premium Bypass Script / [GitHub](https://github.com/Mateus7G/crp-iframe-player)
 * [Themes.moe](https://themes.moe/), [2](https://staging.animethemes.moe/wiki/) - Anime Opening & Ending Themes
+* [AnimeMusicVideos](https://www.animemusicvideos.org/) - Fan-Made Anime Music Videos
 * [Clip Tori](https://cliptori.com/) - Anime Clips
 * [Animeflix](https://github.com/chirag-droid/animeflix) - Sub / Dub / Self-Hosted
 
@@ -764,7 +765,7 @@
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
 * **[Stremio](https://www.stremio.com/)** - Torrent Streaming App
 * **Stremio Tools** - [Addons](https://github.com/danamag/stremio-addons-list/blob/main/README.md) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg)
-* **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents
+* **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents / [Heroku](https://github.com/l3v11/Jackett-heroku)
 * [WatchIt](http://watchitapp.site/) - Torrent Streaming App / [GitHub](https://github.com/ZorrillosDev/watchit-desktop)
 * [Powder](https://powder.media/) - Torrent Streaming App
 * [Filminator](http://filminator.net/) - Torrent Streaming App
@@ -877,7 +878,7 @@
 * [Episode Calender](https://episodecalendar.com/) - TV Calender
 * [dunno](https://m-dunno.netlify.app/) - Movies / TV
 * [showRSS](https://showrss.info/)  - RSS / TV
-* [AniChart](https://anichart.net) - Seasonal Anime Charts
+* [AniChart](https://anichart.net) or [LiveChart](https://www.livechart.me/) - Seasonal Anime Charts
 * [Anime-Planet](https://www.anime-planet.com/) - Anime 
 * [All Anime](https://allanime.site/) - Anime
 * [Kitsu](https://kitsu.io/) - Anime
