@@ -321,7 +321,6 @@
 * [Grav](https://getgrav.org/) - Flat-File CMS
 * [Flux](https://www.runonflux.io/) - Decentralized Cloud Infrastructure
 * [Package Web](https://github.com/rsc/web) - Basic Site Serving Framework
-* [Web Designer News](https://www.webdesignernews.com/) - Web Design News
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - Web Developer Multireddit
 * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - Search & Analytics Engine
@@ -670,7 +669,7 @@ Automated Incident Response and Forensics Framework
 * [RPG Playground](https://rpgplayground.com/) - Simple RPG Creator
 * [Game-Editor](http://game-editor.com/Main_Page), [microStudio](https://microstudio.itch.io/microstudio) or [BuildBox](http://buildbox.com/) - Game Creators
 * [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://pennie.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop), [Bitsy](http://ledoux.io/bitsy/editor.html), [LIKO 12](https://github.com/LIKO-12/LIKO-12) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - 2D Game Creators
-* [Unreal Engine](https://www.unrealengine.com/) - 3D Creation Tool
+* [Unreal Engine](https://www.unrealengine.com/) - 3D Creation Tool / [Python](https://github.com/20tab/UnrealEnginePython)
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
 * [Faux on 3D](https://gizmo199.itch.io/fauxton3d) - Sprite Stacking Framework
 * [MapEditor](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - Level Editor
@@ -771,7 +770,6 @@ Automated Incident Response and Forensics Framework
 * [Table Magic](https://stevecat.net/table-magic/) - CSV, HTML & Markdown Converter
 * [Markdown To HTML](https://markdowntohtml.com/) - Markdown to HTML Converter
 * [AiToHTML](http://ai2html.org/) - Illustrator to HTML Converter
-* [Word2md](https://word2md.com/) - Word to Markdown Converter
 * [Obsidian](https://obsidian.md/) - Markdown File Organizer / [Resources](https://github.com/kmaasrud/awesome-obsidian)  
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
 
@@ -856,7 +854,8 @@ Automated Incident Response and Forensics Framework
 * [Sift](https://sift-tool.org/) - grep Alternative
 * [Edbrowse](http://edbrowse.org/) - Command Line Editor / Browser / Mail Client
 * [Cride](https://github.com/j8r/cride) - Command Line Editor
-* [Zoxide](https://github.com/ajeetdsouza/zoxide) - Improved CD Command 
+* [tldr++](https://isacikgoz.me/tldr/) - Interactive TLDR Client
+* [Zoxide](https://github.com/ajeetdsouza/zoxide) - Improved CD Command
 * [YQ](https://github.com/mikefarah/yq) - Portable YAML Processor
 * [Dockerized](https://github.com/datastack-net/dockerized) - Docker Command-Line
 * [yoctocolors](https://github.com/sindresorhus/yoctocolors) - Command Line Coloring Package
