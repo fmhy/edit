@@ -177,7 +177,7 @@
 * [AvaxHome](https://www.avaxhome.co/) 
 * [FreeBookSpot](http://www.freebookspot.es/default.aspx) - Books / [Leech Required](https://filehostlist.miraheze.org/wiki/Main_Page)
 * [zqktlwi4fecvo6ri](http://zqktlwi4fecvo6ri.onion/wiki/Libraries) - Tor Required 
-* [Just Another Library](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/) - Tor Required 
+* [Just Another Library](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/) - Tor Required / NSFW
 * [xfmro77i3lixucja](http://xfmro77i3lixucja.onion/) - Tor Required 
 * [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
 * [Rivetedlit](https://rivetedlit.com/) - Books
@@ -207,7 +207,6 @@
 * [PDFCookie](https://pdfcookie.com/) - Books
 * [PDFSearches](https://pdfsearches.com/) - Books
 * [OiiPDF](https://oiipdf.com/) - Books
-* [FindPDFDoc](http://www.findpdfdoc.com/) - Books 
 * [PDFSlide](https://pdfslide.net/) - Books 
 * [EDoc](https://www.edoc.site/) - Books
 * [PDFDuck](https://pdfduck.com/) - Books 
