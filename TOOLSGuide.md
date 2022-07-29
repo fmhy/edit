@@ -63,7 +63,7 @@
 * [Tempus](https://tempus.keziahmoselle.fr/), [ManicTime](https://www.manictime.com/), [Clockify](https://clockify.me/), [Pro Modoro](https://pro-modoro.xyz/) / [2](https://pomofocus.io/) or [Super-Productivity](https://github.com/johannesjo/super-productivity)  - Productivity Managers
 * [DogSheep](https://dogsheep.github.io/) - Personal Analytics Tools 
 * [Stretchly](https://hovancik.net/stretchly), [WorkRave](https://workrave.org/), [Take a Five](http://www.takeafive.com/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - Break Reminders / Trackers
-* [DoINeedAJacket](https://doineedajacket.com/weather/), [DogeWeather](http://dogeweather.com/), [ForcastAdvisor](https://www.forecastadvisor.com/) or [wttr](https://wttr.in/) - Simple Weather Reports
+* [DoINeedAJacket](https://doineedajacket.com/weather/), [Weather.com](https://weather.com/), [DogeWeather](http://dogeweather.com/), [ForcastAdvisor](https://www.forecastadvisor.com/) or [wttr](https://wttr.in/) - Weather Reports
 * [IEMBot](https://weather.im/iembot/) - Weather Bot Monitor
 * [World Weather Online](https://www.worldweatheronline.com/) - Historical Weather Reports
 * [Cricket Convert](https://www.weather.gov/epz/wxcalc_cricketconvert) - Estimate Temperature via Cricket Chirps
@@ -454,6 +454,7 @@
 * [iPod.js](https://tannerv.com/ipod/) - iPod Themed Web Music Player
 * [Gelli](https://github.com/dkanada/gelli) - Jellyfin Music Player 
 * [Sonixd](https://github.com/jeffvli/sonixd) - Subsonic/Jellyfin Compatible Desktop Music Player
+* [HZP](https://hzplayer.com/) - Solfeggio Frequency Player
 * [Butterchurn Visualizer](https://butterchurnviz.com/), [Sonic Visualizer](https://www.sonicvisualiser.org/), [MusicVid](https://musicvid.org/), [Project M](https://github.com/projectM-visualizer/projectm), [Vizzy](https://vizzy.io/) or [Specterr](https://specterr.com/) - Audio Visualizers
 * [PartyEngine](https://aggrocrab.itch.io/partyengine) - Audio Party Visualizer 
 * [brahms](https://github.com/Wulfheart/brahms) - MIDI Audio Visualizer 
@@ -898,7 +899,7 @@
 * [Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io), [2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) - Search Audio Download Sites
 * [Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8) - Search Anime Download Sites
 * [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Rave Search](https://idleendeavor.github.io/gamesearch/), [2](https://ravegamesearch.pages.dev/) - Search Game Download Sites
-* [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj), [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Search General Torrent Sites
+* [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj), [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) / [librex](https://github.com/hnhx/librex) - Search General Torrent Sites
 * [Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j) - Search Video Torrent Sites
 * [Anime Torrent CSE]( https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz) - Search Anime Torrent Sites
 * [Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55) - Search Audio Torrent Sites
@@ -1411,7 +1412,8 @@
 * [YouTube Data Calc](https://dlogic.lk/projects/youtubedatacalc.php) - YouTube Data Usage Calculator
 * [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/) or [ytwrk](https://github.com/terorie/ytwrk) - YouTube Data Extraction 
 * [Youtube DataViewer](https://citizenevidence.amnestyusa.org/) or [YouTube-MA](https://github.com/CorentinB/YouTube-MA) - YouTube Video Data Viewer 
-* [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YouTube Screenshot](https://www.youtubescreenshot.com/), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [thumbnail-download](https://thumbnail-download.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - Download YouTube Thumbnails 
+* [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YouTube Screenshot](https://www.youtubescreenshot.com/), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [thumbnail-download](https://thumbnail-download.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - Download YouTube Thumbnails
+* [Screenshot YouTube](https://chrome.google.com/webstore/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk) - YouTube Screenshot Extension
 * [YouTube-Grab](https://github.com/ArchiveTeam/youtube-grab) or [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Metadata
 * [RadiTube](https://extension.raditube.com/) - View MetaData & Transcripts of Deleted YouTube Videos
 
@@ -1805,7 +1807,7 @@ Twitch Stream Tracker
 * [Device Cleanup Tool](https://m.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
 * [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
 * [UUP dump](https://uupdump.net/) - Download Windows UUP files   
-* [DLL Downloader](http://www.dlldownloader.com/), [dll-hub](https://dll-hub.com/), [dlldump](https://dlldump.com/), [dllfile](https://dllfile.net/), [windll](https://windll.com/), [dll4free](https://dll4free.com/), [dllme](https://dllme.com/dll/files/steam_api32_dll.html), [wikidll](https://wikidll.com/) or [DLL-Files](https://www.dll-files.com/) - Windows DLL Files
+* [DLL Downloader](http://www.dlldownloader.com/), [dll-hub](https://dll-hub.com/), [dlldump](https://dlldump.com/), [dllfile](https://dllfile.net/), [dll4free](https://dll4free.com/), [dllme](https://dllme.com/dll/files/steam_api32_dll.html) or [DLL-Files](https://www.dll-files.com/) - Windows DLL Files
 * [OcxDump](https://ocxdump.com/) - .ocx Files
 * [sven dpi](https://www.sven.de/dpi/) - DPI Calculator 
 * [Screen Sizes](https://screensiz.es/) - Screen Size Database
@@ -1989,6 +1991,7 @@ Twitch Stream Tracker
 * [AList](https://github.com/Xhofe/alist) - File Listing Program
 * [Tmp.Ninja](https://tmp.ninja/) - Temp File Host (48hrs)
 * [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
+* [1fichier-DL](https://github.com/manuGMG/1fichier-dl) - 1Fichier Download Manager
 * [ozzillate](https://www.ozzillate.com/) - Transfer Files via Sound
 * [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How-to Safely Archive Files on Cloud Storage Sites
@@ -2018,7 +2021,7 @@ Twitch Stream Tracker
 * [PDFCoffee](https://pdfcoffee.com/) - Upload PDF, Word or PowerPoint Files
 * [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - Fill & sign a PDF
 * [megabasterd](https://github.com/tonikelope/megabasterd) or [Mega Index](https://github.com/TheCaduceus/MEGA-INDEX) - MEGA Quota Bypass / [Proxies](https://github.com/tonikelope/megabasterd/blob/proxy_list/proxy.txt), [2](https://rentry.co/mega-proxies)
-* [megatools](https://megatools.megous.com/) - Mega.nz CLI
+* [megatools](https://megatools.megous.com/) - Mega CLI
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - Mega Download Script
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) - Mega to HTTP
 * [Keep Mega Alive](https://github.com/3ncod3/keep-mega-alive) - Mega Account Auto-Login
@@ -2027,13 +2030,14 @@ Twitch Stream Tracker
 * [Mega Checker](https://github.com/Titoot/mega-checker) - Mega Link Checker
 * [Unlimited Mega Storage](https://redd.it/ffrkf3) - Unlimited Mega Storage Guide
 * [GetMega](http://getmega.net/) - Direct Mega Links 
+* [Mega-index-heroku](https://github.com/developeranaz/Mega-index-heroku) - Serve Mega to HTTP via Heroku
 * [MEGA Uploader X](https://t.me/MegaUploadXbot) - Remote Mega File Upload Bot
 * [GDrive Guides](https://t.me/gdriveguides) - GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)
 * [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - DDL to GDrive Tool
 * [GDriveCLI](https://github.com/prasmussen/gdrive) - GDrive CLI
 * [gogdl-ng](https://github.com/gogdl-ng/gogdl-ng) - Google Drive Bulk Downloader
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
-* [GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) - GoIndex to GDrive Downloader
+* [Recursive GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) or [GoIndex-Downloader](https://github.com/piyush2947/) - GoIndex to GDrive Downloader
 * [GDriveSearcherBot](https://github.com/TheHamkerCat/GdriveSearcherBot) - GDrive Search Bot
 * [gd-utils](https://github.com/roshanconnor123/gd-utils) / [2](https://nenokkadine.github.io/GD-Utils/) or [Bypass-GDrive](https://yuudrive.me/tools/bypass-gdrive) - Google Drive Limit Bypass 
 * [G-Index](https://github.com/LeeluPradhan/G-Index), [Zyndex](https://zyndex.tk/), [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/cheems/goindex-extended) / [Themes](https://install.kenci.workers.dev/), [GDI](https://github.com/anymeofu/GDI), [GDIndex](https://github.com/maple3142/GDIndex), [libDrive](https://github.com/libDrive/heroku) or [gdrive-index](https://github.com/alx-xlx/gdrive-index) - Google Drive Index
