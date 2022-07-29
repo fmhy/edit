@@ -161,9 +161,9 @@
 * [Rapid](https://damonlynch.net/rapid/) - Quick Linux Photo Importer
 * [Drawing](https://github.com/maoschanz/drawing) - Drawing App
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer) - YouTube Linux Client / [Fork](https://github.com/trizen/pipe-viewer) 
-* [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - GNU / Linux Twitch Desktop Client 
+* [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - Twitch Desktop Client
 * [Qtractor](https://qtractor.org/) - Audio Editor
-* [Ecasound](http://nosignal.fi/ecasound/) - Multitrack Audio-Processor / Linux
+* [Ecasound](http://nosignal.fi/ecasound/), [Viper4Linux](https://github.com/Audio4Linux/Viper4Linux) / [GUI](https://github.com/Audio4Linux/Viper4Linux-GUI) or [JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - Audio Processors 
 * [cava](https://github.com/karlstav/cava) - Console Audio Visualizer
 * [CasterSoundboard](https://github.com/JupiterBroadcasting/CasterSoundboard) - Soundboard
 * [Peek](https://github.com/phw/peek) - Simple Video / GIF recorder
@@ -339,7 +339,7 @@
 * **[shottr](https://shottr.cc/)** or [MagicCap](https://magiccap.me/) - Screenshot Tool
 * **[Aptonic](https://aptonic.com/)** - Mac Productivity App
 * **[Alfred](https://www.alfredapp.com/)** - Keystroke Launcher 
-* **[CustomShortcuts](https://www.houdah.com/customShortcuts/)** - Custom Keyboard Shortcuts
+* **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
 * **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - Alt-Tab for Mac
 * **[PDF Expert](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pdf_expert)** - PDF Viewer
 * **[Fantastical](https://flexibits.com/fantastical)** - Calendar
@@ -411,6 +411,7 @@
 * [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - MacOS Dynamic Wallpaper App
 * [wallpapper](https://github.com/mczachurski/wallpapper) - Dynamic Wallpaper Creator
 * [Plash](https://github.com/sindresorhus/Plash) - Use Website as Wallpaper
+* [100 macOS Screensavers](https://github.com/bjdehang/100-macos-screensavers) - Minimalist Screensavers
 * [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) - Automatically Switch System Theme
 * [OldSchoolOS](https://www.oldschoolos.com/) - Old MacOS ISOs
 * [Bootcamp Drivers](https://bootcampdrivers.com/) - Mac Bootcamp AMD Drivers
