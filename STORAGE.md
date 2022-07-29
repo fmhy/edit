@@ -1098,7 +1098,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Magic / Esoteric Telegram Ebooks
 
-* https://t.me/magickaris
 * https://t.me/magZtore
 * https://t.me/ocultarias
 * https://t.me/WonderlandLibraryOfMagicBooks
@@ -2403,7 +2402,6 @@ Add the following commands to a search to manually scrape each site.
 * [StommeFilms](https://t.me/StommeFilms) - Classic
 * [ZwartwitFilms](https://t.me/ZwartwitFilms) - Classic
 * [CartoonLibrary](https://t.me/CartoonLibrary) - Cartoons
-* [Cartoon Kingdom](https://t.me/CartoonKingdom) - Cartoons
 * [Cartoon_Index](https://t.me/Cartoon_Index) - Cartoons
 
 ***
@@ -2611,7 +2609,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Udemy Coupons
 
-**[CouponScorpion](https://couponscorpion.com/)**, [discudemy](https://www.discudemy.com/), [bestcouponhunter](https://bestcouponhunter.com/), [Coursevania](https://coursevania.com/), [Learn Viral](https://udemycoupon.learnviral.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [Course Time](https://coursetime.net/), [iDownloadCoupon](http://idownloadcoupon.com/), [freeudemycoupondaily](https://t.me/freeudemycoupondaily), [udemycoupons](https://udemycoupons.me/), [lorebeam](https://www.lorebeam.com/), [coursecouponclub](https://coursecouponclub.com/), [coursekingdom](https://coursekingdom.xyz/), [freebiesglobal](https://freebiesglobal.com/), [real.discount](https://www.real.discount/), [onlinecourses](https://www.onlinecourses.ooo/), [cursosdev](https://cursosdev.com/), [100offdeal](https://100offdeal.online/), [freshercooker](https://www.freshercooker.com/category/courses/), [dailycoursereviews](https://dailycoursereviews.com/)
+**[CouponScorpion](https://couponscorpion.com/)**, [discudemy](https://www.discudemy.com/), [bestcouponhunter](https://bestcouponhunter.com/), [Coursevania](https://coursevania.com/), [Learn Viral](https://udemycoupon.learnviral.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [Course Time](https://coursetime.net/), [iDownloadCoupon](http://idownloadcoupon.com/), [udemycoupons](https://udemycoupons.me/), [lorebeam](https://www.lorebeam.com/), [coursecouponclub](https://coursecouponclub.com/), [coursekingdom](https://coursekingdom.xyz/), [freebiesglobal](https://freebiesglobal.com/), [real.discount](https://www.real.discount/), [onlinecourses](https://www.onlinecourses.ooo/), [cursosdev](https://cursosdev.com/), [100offdeal](https://100offdeal.online/), [freshercooker](https://www.freshercooker.com/category/courses/), [dailycoursereviews](https://dailycoursereviews.com/)
 
 ***
 
