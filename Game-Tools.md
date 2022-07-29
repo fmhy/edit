@@ -58,7 +58,7 @@
 * [Blitz](https://blitz.gg/) - Post Match Performance Analyzer
 * [Valve Archive](https://valvearchive.com/) - Rare Valve Data Archive
 * [Previously on Halo](https://previouslyonhalo.com/) - Halo Franchise History
-* [Map Genie](https://mapgenie.io/) or [VGMaps](http://www.vgmaps.com/)  - Game Maps 
+* [Map Genie](https://mapgenie.io/), [GameMaps](https://www.gamemaps.com/) or [VGMaps](http://www.vgmaps.com/)  - Game Maps 
 * [noclip](https://noclip.website/) - Explore Game Maps 
 * [bspview](https://devanbuggay.com/bspview/) - Explore Quake & GoldSRC Maps / [Github](https://github.com/sbuggay/bspview) 
 * [NES Maps](https://www.nesmaps.com/) - NES Game Maps 
@@ -232,7 +232,7 @@
 * [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Steam DLC Unlocker / [Search](https://creamapidb.herokuapp.com/) / [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
 * [Koalageddon](https://github.com/acidicoala/Koalageddon/) - DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay
 * [Get DLC from SteamDB](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837)
-* [Steamworkshop.download](http://steamworkshop.download/) - Download files from the Steam workshop 
+* [Steamworkshop.download](http://steamworkshop.download/), [Workshop Downloader](https://4hub.info/workshop-downloader/) or [steam-workshop-downloader](https://gramvio.com/steam-workshop-downloader/) - Steam Workshop File Downloaders
 * [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop Implementation of Steam's Mobile Authenticator 
 * [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - Steam Card Automation 
 * [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager 
