@@ -371,6 +371,8 @@
 
 * **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/) or [UN Data](https://data.un.org/) - World Data & Statistics
 * **[Our World in Data](http://ourworldindata.org/)** - World Problem Database
+* [Nextstrain](https://nextstrain.org/) - Pathogen Evolution Tracking 
+* [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - 
 * [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) - Public Datasets
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
 * [If It Were My Home](https://www.ifitweremyhome.com/) - Country Data Comparisons
@@ -413,7 +415,7 @@
 # ► Space
 
 * [/r/Space](https://reddit.com/r/Space) - Space Subreddit
-* [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration Website
+* [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration Website / [Images](https://images.nasa.gov/)
 * [ESA](https://www.esa.int/) - European Space Agency Website
 * [Space.com](https://www.space.com/) - Space News
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Math and Physics Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_math_and_physics_books) - Astronomy Books
@@ -447,12 +449,14 @@
 * [Aladin](https://aladin.u-strasbg.fr/) - Astronomical Image Viewer / [Lite Version](https://aladin.u-strasbg.fr/AladinLite/)
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](http://stellarium.org/) - Virtual Stellarium
 * [Google Sky](http://www.google.com/sky) - View Stars, The Moon & Mars 
-* [ESO](https://www.eso.org/public/images/eso1242a/zoomable/), [Hubble](https://esahubble.org/images/heic1502a/zoomable/), [Hubble 2](https://esahubble.org/images/heic1901a/zoomable/) - Zoomable Telescope Photos
+* [ESO Zoomable](https://www.eso.org/public/images/eso1242a/zoomable/) or [Hubble Zoomable](https://esahubble.org/images/archive/zoomable/) - Zoomable Telescope Photos
 * [Space Telescope Live](https://spacetelescopelive.org/) - Live Hubble Image Data
-* [James Webb Space Telescope](https://jwst.nasa.gov/index.html) - Webb Space Telescope Info
+* [James Webb Space Telescope](https://jwst.nasa.gov/index.html) - Webb Space Telescope Site
+* [HubbleSite](https://hubblesite.org/) - Hubble Telescope Site
 * [APOD](https://apod.nasa.gov/) - Daily NASA Astronomy Pictures
 * [Clear Dark Sky](https://cleardarksky.com/) - Star Gazing Weather Forecasts
 * [Dark Site Finder](https://darksitefinder.com/), [DarkSkyMap](https://darkskymap.com/) or [GoStarGazing](https://gostargazing.co.uk/) - Star Gazing Site Locators
+* [DeepSkyCamera](https://play.google.com/store/apps/details?id=de.seebi.deepskycamera&gl=US) - Astrophotography App
 * [SpaceEngine](http://spaceengine.org/) - Universe Simulator
 * [astro.sfasu](http://astro.sfasu.edu/courses/ast305/homework/) - Astronomy Homework
 * [CDS](https://cds.u-strasbg.fr/) - Astronomical Database
@@ -747,6 +751,7 @@
 * [OneZoom](http://www.onezoom.org/) - Tree of Life Explorer 
 * [Wikispecies](https://species.wikimedia.org/) or [The Catalogue of Life](https://www.catalogueoflife.org/) - Species Directory 
 * [Lost and Found Nature](https://www.lostandfoundnature.com/) - Re-Discovered Animals & Plants
+* [A-Z Animal](https://a-z-animals.com/) - Animal Encyclopedia
 * [Ocearch](https://www.ocearch.org/?list) - Track Marine Life
 * [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide 
 * [Life Under the Ice](https://lifeundertheice.org/) - View Antarctic Microbes
