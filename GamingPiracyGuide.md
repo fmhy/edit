@@ -341,6 +341,7 @@
 * [TETR.IO](https://tetr.io/) - Multiplayer Tetris / [Plus](https://gitlab.com/UniQMG/tetrio-plus)
 * [First Person Tetris](https://firstpersontetris.com/) - Play Tetris in First Person 
 * [Play Snake](https://playsnake.org/) - Retro Snake 
+* [Google Maps Snake](https://snake.googlemaps.com/) - Google Snake
 * [Snake-Game](https://www.onemotion.com/snake-game/) - 3D Snake
 * [SnakeGen](https://projects.victormeunier.com/snakegen/index.html) - Snake Game Generator
 * [ProAsm](http://www.proasm.com/) - Retro Game Mods
@@ -588,7 +589,7 @@
 * [Sokoban](https://suppilulemur.neocities.org/) - Box Moving Puzzle Game / Zelda-Themed
 * [BestCrosswords](https://www.bestcrosswords.com/), [USAToday](https://games.usatoday.com/games/uclick-crossword), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
-* [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/), [Wordle Unlimited](https://wordleunlimited.org/), [Huedle](https://huedle.com/), [Chessle](https://jackli.gg/chessle), [BoxOfficeGA](https://boxofficega.me/), [Wordversary](https://wordversary.com/), [Py-DLE](https://py-dle.herokuapp.com/) or [Wordlevs](https://wordlevs.com/) - Wordle Games / [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
+* [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/), [Wordle Unlimited](https://wordleunlimited.org/), [Huedle](https://huedle.com/), [Chessle](https://jackli.gg/chessle), [BoxOfficeGA](https://boxofficega.me/), [Wordversary](https://wordversary.com/), [Wordle.nyc](https://wordle.nyc/), [WordleGame](https://wordlegame.org/), [Py-DLE](https://py-dle.herokuapp.com/) or [Wordlevs](https://wordlevs.com/) - Wordle Games / [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles & Quizzes
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - Online Jigsaw Puzzles
 * [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - Solve a Rubix Cube / [Solver](https://rubiksolve.com/), [2](https://bnice.ru/asolver/), [3](https://rubiks-cube-solver.com/)
