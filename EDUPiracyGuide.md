@@ -189,7 +189,6 @@
 * [FreetutsDownload.com](https://freetutsdownload.com/) - Courses / GDrive Host 
 * [iTunes U](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_itunesu_lectures) - Lectures
 * [Gurukul Soft Technology](https://www.gurukulsofttechnology.in/) / [Telegram](https://t.me/gurukulsofttechnology) - Computer Science Courses
-* [MasterClass0](https://t.me/MasterClass0) - Masterclass Courses
 * [LyndaFree](https://t.me/lyndafree)  - Lynda Courses / pw: fmhy
 * [BestWSODownload](https://www.bestwsodownload.com/) - WSO Courses
 * [Udemy Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_udemy_course_drives)
