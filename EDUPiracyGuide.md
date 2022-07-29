@@ -208,7 +208,6 @@
 * [FreeCourseUdemy](https://freecourseudemy.com/) - Udemy Courses  
 * [CourseForFree](https://courseforfree.com/) - Udemy Courses  
 * [Download Online Tutorials Free](https://download.howtofree.org/) - Udemy Courses 
-* [Udemy Free Course](https://t.me/udemy_free_cource) - Udemy Courses 
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Cyber Security Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cyber_security_courses) or [Skills for All](https://skillsforall.com/) - Cyber Security Courses
 * [340GB Linkedin Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_340gb_linkedin_courses) or [Linkedin_Learning](https://t.me/linkedin_learning) - Linkedin Courses
