@@ -164,7 +164,7 @@
 * [Google Play Books](https://play.google.com/store/books/collection/topselling_free) - Books 
 * [Smashwords](https://www.smashwords.com/shelves/home/1/free/any), [2](https://www.smashwords.com/books/category/1/newest/0/free/any) - Books 
 * [lesatkins](http://www.lesatkins.com/books/epubfiles/) - Books
-* [Flibusta](https://flibusta.is/) - Books / [Onion](http://flibustahezeous3.onion/) / [I2P](http://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / Requires account
+* [Flibusta](https://flibusta.is/) - Books / [I2P](http://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / Requires account
 * [The Free Book Library](http://ebooks.i2p/) - Books / I2P Required
 * [DailyLit](https://dailylit.com/) - Books  
 * [Ebooks Searcher](https://ebook-searcher.com/) - Multi-Site Book Search 
@@ -176,9 +176,7 @@
 * [Avxhm](https://avxhm.se/), [2](https://avxhm.is/) - [Leech Required](https://leechall.com/)
 * [AvaxHome](https://www.avaxhome.co/) 
 * [FreeBookSpot](http://www.freebookspot.es/default.aspx) - Books / [Leech Required](https://filehostlist.miraheze.org/wiki/Main_Page)
-* [zqktlwi4fecvo6ri](http://zqktlwi4fecvo6ri.onion/wiki/Libraries) - Tor Required 
 * [Just Another Library](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/) - Tor Required / NSFW
-* [xfmro77i3lixucja](http://xfmro77i3lixucja.onion/) - Tor Required 
 * [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
 * [Rivetedlit](https://rivetedlit.com/) - Books
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
@@ -444,7 +442,6 @@
 * [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) - Academic Repository Search  
 * [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - Science / Tech / Math / Physics 
 * [arXiv](https://arxiv.org/) - Science / Math / Physics
-* [Clockwise Library](http://clockwise3rldkgu.onion/) - Art / Science / .onion 
 * [IntechOpen](https://www.intechopen.com/) - Science
 * [Magazines Scientific](http://scientificmagazines.top/) - Science Magazines
 * [Naked Scientists](https://www.thenakedscientists.com/) - Podcasts / Shows / Science 
