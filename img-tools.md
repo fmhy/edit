@@ -76,7 +76,7 @@
 * [Image Upscalers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_upscalers) - Upscale Images
 * [Croppola](https://croppola.com/), [Bulk Image Crop](https://bulkimagecrop.com/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tool 
 * [Seopix](https://www.seopix.io/) or [Reduce Images](https://www.reduceimages.com/) - Resize & Compress Images
-* [Simple Image Resizer](http://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [toolur](https://compressimage.toolur.com/), [fixpicture](https://www.fixpicture.org/), [Birme](https://www.birme.net/), [Online Image Resizer](https://online-image-resizer.com/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - Resize Images
+* [Simple Image Resizer](http://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [fixpicture](https://www.fixpicture.org/), [Birme](https://www.birme.net/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - Resize Images
 * [Resize App Icon](https://resizeappicon.com/) - Resize Square Images 
 * [SSizes](https://ssizes.com/) or [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
 * [RIOT](https://riot-optimizer.com/), [imageoptimizer](http://www.imageoptimizer.net/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tool
@@ -180,7 +180,7 @@
 * [Giphy](https://giphy.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/), [reactiongifs](https://www.reactiongifs.us/), [reactiongifs](https://reactiongifs.me/), [gif-finder](https://gif-finder.com/), [reactiongifs](http://www.reactiongifs.com/), [bestanimations](https://bestanimations.com/), [Animations](https://bleuje.github.io/animationsite/), [gifimage](https://gifimage.net/) or [Animated Images](https://www.animatedimages.org/) - Download GIFs 
 * [EZGif](https://ezgif.com/), [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFMemes](https://gifmemes.io/), [gifexplosion](https://gifexplosion.com/app.php), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/), [Pixteller](http://pixteller.com/) or [Gif Maker](https://gifmaker.me/) - GIF Creator / Editor
 * [GIF Explode](https://gif-explode.com/) - Split GIFs Into Frames
-* [gifify](https://github.com/vvo/gifify) or [Video-to-GIF](https://hnet.com/video-to-gif/) - Video to GIF Converter
+* [gifify](https://github.com/vvo/gifify) - Video to GIF Converter
 * [GifRun](https://gifrun.com/) - Make GIFs From Online Videos
 * [UnFREEz](http://www.whitsoftdev.com/unfreez/) - Make GIFs From Images
 * [Viphy](https://viphy.typestudio.co/) - Generate GIF From Text
@@ -445,7 +445,7 @@
 * [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - Modded iOS App
 * [imginn](https://imginn.com/), [Picuki](https://www.picuki.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer) or [Dumpor](https://dumpor.com/) - Instagram Viewer
 * [FeedInABox](https://t.me/FeedinboxBot) - Telegram Bot
-* [QIS](https://github.com/propublica/qis/) or [Instagram Search Tool](https://www.aware-online.com/en/osint-tools/instagram-search-tool/) - Search Tool 
+* [Instagram Search Tool](https://www.aware-online.com/en/osint-tools/instagram-search-tool/) - Search Tool 
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram Analysis
 * [Instagram-Explorer](https://www.osintcombine.com/instagram-explorer) - Explore Pictures by Location 
 * [Save Instagram](https://gist.github.com/g-rohit/f47170c8b3b302bcbe214ba624d636bc) - Enable right click / save on Instagram 
