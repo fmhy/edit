@@ -708,7 +708,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Cloud Storage** 
 
-**[GDrive](https://drive.google.com/)**, **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz), [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [disk.yandex](https://disk.yandex.com/), [TeledriveApp](https://teledriveapp.com/), [mediafire](https://www.mediafire.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [gdflix](https://gdflix.bar/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/), [T-Drive](https://www.microsoft.com/en-in/p/t-drive/9mvd1pkdtxsn?rtc=1&activetab=pivot:overviewtab), [PCloud](https://www.pcloud.com/), [myDrive](https://mydrive-storage.com/)
+**[GDrive](https://drive.google.com/)**, **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz), [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [disk.yandex](https://disk.yandex.com/), [TeledriveApp](https://teledriveapp.com/), [mediafire](https://www.mediafire.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [gdflix](https://gdflix.bar/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/), [T-Drive](https://www.microsoft.com/en-in/p/t-drive/9mvd1pkdtxsn?rtc=1&activetab=pivot:overviewtab), [PCloud](https://www.pcloud.com/), [myDrive](https://mydrive-storage.com/), [KodCloud](https://kodcloud.com/p)
 
 **Multi Host Uploaders**
 
@@ -2327,10 +2327,10 @@ Add the following commands to a search to manually scrape each site.
 
 #### Telegram File Tools
 
-* [GdriveXbot](https://t.me/GdriveXbot), [HK_upload_bot](https://t.me/HK_driveupload_bot), [gdrive_upload_bot](https://t.me/gdrive_upload_bot), [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot), [driveuploadbot](https://t.me/driveuploadbot) or [gdriveupme_bot](https://t.me/gdriveupme_bot) - Google Drive Telegram upload bots 
+* [GdriveXbot](https://t.me/GdriveXbot), [google-drive-telegram-bot](https://github.com/viperadnan-git/), [HK_upload_bot](https://t.me/HK_driveupload_bot), [gdrive_upload_bot](https://t.me/gdrive_upload_bot), [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot), [driveuploadbot](https://t.me/driveuploadbot) or [gdriveupme_bot](https://t.me/gdriveupme_bot) - Google Drive Telegram upload bots 
 * [Google Drive Bot](https://t.me/Gdriveit_bot) - Google Drive Client in Telegram
 * [SearchX](https://github.com/iamLiquidX/SearchX) - Telegram GDrive Search Bot
-* [UploadBots](https://t.me/UploadBots), [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot), [UploadURL](https://t.me/UploadsRobot) or [UploadDxbot](https://t.me/UploadDxbot) - Upload Files to Telegram
+* [UploadBots](https://t.me/UploadBots, [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot), [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot), [UploadURL](https://t.me/UploadsRobot) or [UploadDxbot](https://t.me/UploadDxbot) - Upload Files to Telegram
 * [OneDrive X](https://t.me/onedrivexbot) - Remote OneDrive File Upload Bot
 * [Teledrive](https://github.com/mgilangjanuar/teledrive) - Telegram File Storage
 * [Uploader x Bot](https://t.me/uploader_x_bot ) - Telegram Video Upload Bot 
@@ -2432,6 +2432,7 @@ Add the following commands to a search to manually scrape each site.
 * [Xed](https://github.com/linuxmint/xed)
 * [Left](https://hundredrabbits.itch.io/left) - [GitHub](https://github.com/hundredrabbits/Left)
 * [Nano](https://www.nano-editor.org/)
+* [BeefText](https://beeftext.org/)
 * [Quill](https://quilljs.com/) 
 * [Helix](https://helix-editor.com/) - [GitHub](https://github.com/helix-editor/helix)
 * [Fluent](https://www.microsoft.com/en-us/p/fluentpad/9pdcqcb06s91)
@@ -2488,6 +2489,7 @@ Add the following commands to a search to manually scrape each site.
 * [SoundofText](https://soundoftext.com/)
 * [FreeTTS](https://freetts.com/) 
 * [zvukogram](https://zvukogram.com/)
+* [Nuance](https://www.nuance.com/de-de/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html)
 * [VoiceMaker](https://www.voicemaker.in/)
 * [Uberduck](https://uberduck.ai/) / [Discord](https://discord.gg/ATYWnMu)
 * [readloud](https://readloud.net/)
@@ -2594,7 +2596,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Twitch Adblockers
 
-**[Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/)**, [Twitch Ad-Blocker-2](https://greasyfork.org/en/scripts/419066-twitch-ad-blocker-2), [TTV LOL](https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm), [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions), [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch), [Adblocker for Twitch - Edge](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn)
+**[Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/)**, [Twitch AdBlock](https://greasyfork.org/en/scripts/446694-twitch-adblock), [TTV LOL](https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm), [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions), [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch), [Adblocker for Twitch - Edge](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn)
 
 ***
 
@@ -2744,7 +2746,7 @@ Good for finding classic, obscure & short films.
 
 **VSCode Themes** 
 
-[VSCodeThemes](https://vscodethemes.com/) / [Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/), [2](https://marketplace.visualstudio.com/) / [Theme Generator](https://oslo-vsc.netlify.app/) / [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+[VSCodeThemes](https://vscodethemes.com/) / [Dark Theme](https://github.com/whiplashoo/dartcula-theme) / [Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/), [2](https://marketplace.visualstudio.com/) / [Theme Generator](https://oslo-vsc.netlify.app/) / [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
 ***
 
