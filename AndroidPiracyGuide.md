@@ -569,7 +569,7 @@
 * [APKTool](https://github.com/iBotPeaches/Apktool) - APK Reverse Engineering Tool
 * [BlackDex](https://github.com/CodingGay/BlackDex) - APK Unpacking Tool
 * [Apk Extractor](https://play.google.com/store/apps/details?id=com.ext.ui) - Extract APKs to SD Card
-* [APKUpdater](https://github.com/rumboalla/apkupdater) or [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - APK Updater
+* [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - APK Updater
 * [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) - Install Google Apps into WSA Image
 * [How-to Install Play Store Apps from Other Countries](https://rentry.co/29s6v)
 * [APKAdmin](https://apkadmin.com/) - APK Hosting Site
