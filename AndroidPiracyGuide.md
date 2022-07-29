@@ -279,6 +279,7 @@
 * [Jitsi](https://jitsi.org/) or [IMO](http://imo.im/) - Video Chat
 * [Walkie-Talkie](https://walkie-talkie.io/) - Walkie-Talkie App
 * [1 Second Everyday](http://1se.co/) - 1 Second Video Diary
+* [EasyWatermark](https://github.com/rosuH/EasyWatermark) - Add Watermark to Images
 * [Video Watermark](https://play.google.com/store/apps/details?id=com.zmobileapps.videowatermark) - Add Watermark to Videos
 * [Green Screens](https://play.google.com/store/search?q=green%20screen&c=apps) - Green Screens for Android
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/), [OwlGram](https://www.owlgram.org/), [Catogram X](https://github.com/CatogramX/CatogramX), [Telegraher](https://github.com/nikitasius/Telegraher/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - Telegram Client
@@ -418,7 +419,7 @@
 * [IzzyOnDroid](https://android.izzysoft.de/applists.php) - App Repository / [F-Droid](https://apt.izzysoft.de/fdroid/index.php) 
 * [Haoict Repository](https://haoict.github.io/cydia/) - App Repository
 * [DivestOS](https://divestos.org/fdroid/official/) - App Repository
-* [CyPwn](https://repo.cypwn.xyz/) - App Repository / [Discord](https://discord.gg/cypwn)
+* [CyPwn](https://repo.cypwn.xyz/), [2](https://ipa.cypwn.xyz/) - App Repository / [Discord](https://discord.gg/cypwn)
 * [TeamOS](https://www.teamos-hkrg.com/) - Modded / Forum 
 * [Aurora Store](https://auroraoss.com/), [2](https://f-droid.org/en/packages/com.aurora.store/) or [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) - Alt App Store
 * [Bypass Aurora Hardware & Geo Restricted Limits](https://youtu.be/L5RrtxQUtVE)
@@ -660,6 +661,7 @@
 * [Rezonance](https://www.rezonanceindia.tech/) - Streaming / [GitHub](https://github.com/rezonance-india)
 * [Cliggo](https://play.google.com/store/apps/details?id=com.cliggo.cliggo_music) - Streaming / Downloading
 * [Otter](https://github.com/apognu/otter) or [humit](https://www.humit.app/) - Music Sharing App
+* [HZP](https://hzplayer.com/) - Solfeggio Frequency Player
 * [Quorus](https://quorus.net/) - Collaborative Playlists 
 * [SplitCloud](http://www.splitcloud-app.com/) - Audio Splitter
 * [MusicSpeedChanger](https://musicspeedchanger.com/) - Music Speed Changer
