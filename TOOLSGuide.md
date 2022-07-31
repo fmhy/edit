@@ -20,7 +20,7 @@
 * **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** - Device Repair Articles
 * **[BeMyEyes](https://www.bemyeyes.com/)** - Assist the Visually Impaired 
 * [RecoRank](https://recorank.com/) or [NanoReview](https://nanoreview.net/en) - Tech Reviews / Comparisons
-* [Reddit Favorites](https://redditfavorites.com/) or [Consumer Reports](https://consumerreports.org/) - Product & Service Reviews
+* [Reddit Favorites](https://redditfavorites.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product & Service Reviews
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - Open Source Tools 
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - AI Experiments / Tools 
@@ -80,7 +80,8 @@
 * [Diff Checker](https://www.diffchecker.com/) - Check Differences in Text, Images, PDFs or Files
 * [Find Your Place](https://where-is-this.com/) - Find Places from Pictures
 * [IRuler](https://iruler.net/) - Turn Device into Ruler
-* [Chaotic Shiny](http://chaoticshiny.com/) - Fantasy Writing Generator 
+* [Chaotic Shiny](http://chaoticshiny.com/) - Fantasy Writing Generator
+* [MixedName](https://mixedname.com/) - Find Bilingual Baby Names
 * [GitKraken Timeline](https://timelines.gitkraken.com/), [Timeline Cascade](https://cascade.page/) / [GitHub](https://github.com/kochrt/cascade.page), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
 * [Timeliner](https://github.com/mholt/timeliner) - Create Personal Digital Timeline
 * [SwimLanes](https://swimlanes.io/) or [Diagrams.net](https://www.diagrams.net/) - Create Diagrams
@@ -144,6 +145,7 @@
 * [EditCSVOnline](https://www.editcsvonline.com/) - Online CSV Editor 
 * [Read File Online](http://www.readfileonline.com/) - Online Large Text File Viewer
 * [Office Search](http://www.enselsoftware.com/product/OfficeSearch.html) - Multi-File Text Search
+* [PDF Keywords Extractor](https://github.com/bendersej/pdf-keywords-extractor) - PDF File Text Search
 * [ConvertText](https://converttext.io/) - Text Converter
 * [Text File Splitter](https://textfilesplitter.com/) - Text File Splitter
 * [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - Rephrase / Paraphrase Text 
@@ -475,7 +477,8 @@
 * [WACUP](https://getwacup.com/) - Winamp update project 
 * [Mod Archive](https://modarchive.org/) - Audio Modules
 * [Mixxx](https://mixxx.org/), [rekordbox](https://rekordbox.com/en/) or [Serato](https://serato.com/) - DJ Software 
-* [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/), [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil) or [Strofe](https://www.strofe.com/) - Simple Audio Creators
+* [Repetito](http://www.repetito.com/) - Multichannel Looper
+* [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/), [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil), [AdventureMachine](https://madeon.fr/adventuremachine/) or [Strofe](https://www.strofe.com/) - Simple Audio Creators
 * [Cycle Plus One](https://cycle-plus-one.sourceforge.io/) - Audio Pattern Generator
 * [Moises](https://moises.ai/) - Live Music Mixer
 * [WD-1](https://www.worteldrie.com/WD5/), [Citizen DJ](https://citizen-dj.labs.loc.gov/loc-variety-stage/remix/), [YOU.DJ](https://you.dj/) or [Until AM](http://mix.until.am/) - Online DJ / Beat Creator 
@@ -510,6 +513,7 @@
 * [Vital](https://vital.audio/) - Spectral Warping Wavetable Synth
 * [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - Pop Song Sample Mixer
 * [Nightcore Maker](https://nightcoremaker.com/) - Create Nightcore Versions of Songs
+* [WubMachine](https://the.wubmachine.com/) - Create DubstepVersions of Songs
 * [CSound](https://csound.com/) - Music Computing System
 * [GoAudio](https://github.com/DylanMeeus/GoAudio) - Audio Processing Library 
 * [Helio](https://helio.fm/) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
@@ -522,6 +526,7 @@
 * [ShortApp](https://shortsapp.com/) - Cut Video / Audio into Shorts 
 * [lalal.ai](https://www.lalal.ai/), [Flacon](https://flacon.github.io/) or [SongDonkey](https://songdonkey.ai/) - Audio Track Splitter 
 * [ISSE](http://isse.sourceforge.net/) - Source Separation Editor
+* [BeatMachine](https://beatmachine.branchpanic.me/) - Tempo Editor
 * [Get Song BPM](https://getsongbpm.com/) - Song Tempo Database
 * [MusicSpeedChanger](https://musicspeedchanger.com/) - Music Speed Changer
 * [beets.io](http://beets.io/) / [2](https://github.com/beetbox/beets), [alto](https://github.com/ItsLychee/alto), [Zortam](https://www.zortam.com/), [MP3Tag](https://www.mp3tag.de/en/), [MusicBee](https://getmusicbee.com/) or [MusicBrainz](https://picard.musicbrainz.org/) - Music Metadata Organizer
@@ -648,6 +653,7 @@
 * [financial_advice](https://github.com/emilepetrone/financial_advice) - Financial Lessons
 * [Stocksera](https://stocksera.pythonanywhere.com/) or [Screener](https://www.screener.in/) - Stock Tracker
 * [neostox](https://neostox.com/) - Practice Stock Trading
+* [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
 * [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Investment Research CLI 
 * [Trading Talks](https://tradingtalks.org/) - Business Courses
 * [Marketing / Trading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_marketing_.2F_trading_courses) - Marketing / Trading Courses
@@ -898,7 +904,7 @@
 * [Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr), [2](https://cse.google.com/cse?cx=89f2dfcea452fc451), [3](https://cse.google.com/cse?cx=aab218d0aa53e3578) - Search Video Download Sites
 * [Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io), [2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) - Search Audio Download Sites
 * [Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8) - Search Anime Download Sites
-* [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Rave Search](https://idleendeavor.github.io/gamesearch/), [2](https://ravegamesearch.pages.dev/) - Search Game Download Sites
+* [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) - Search Game Download Sites
 * [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj), [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) / [librex](https://github.com/hnhx/librex) - Search General Torrent Sites
 * [Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j) - Search Video Torrent Sites
 * [Anime Torrent CSE]( https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz) - Search Anime Torrent Sites
@@ -1231,6 +1237,7 @@
 * [Chimera](https://github.com/CedArctic/Chimera) - System Remote Control 
 * [The Cleaner](https://cleanerbot.xyz/) - Remove Spam / Phishing Links
 * [Discord Reputation](https://discordrep.com/) - Prevent Discord Fraud
+* [Discord Base64 Decode](https://extpose.com/ext/185137/en) - Discord Base64 Decode Buttons
 * [Discord Auto Upload](https://github.com/tardisx/discord-auto-upload) - Auto Upload Screenshots
 * [Discord Creation Date Check](https://hugo.moe/discord/discord-id-creation-date.html) - Check Creation Date of User / Channel / Server / [GitHub](https://github.com/hugonun/discordid2date)
 * [DSC.BIO](https://discords.com/bio) - Make Custom Discord Bios 
@@ -1579,7 +1586,7 @@ Twitch Stream Tracker
 * [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI Commands Cheatsheet
 * [Windows 10 Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)
 * [Operating System Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_os_emulators) - Emulate Alternate OS
-* [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) / [GitHub](https://github.com/microsoft/PowerToys), [CWCodes](http://cwcodes.net/), [Progress Tools](https://www.progress-tools.x10.mx/), [Guru3D](https://www.guru3d.com/files-categories) or [JoeWare](https://www.joeware.net/freetools/index.htm) - System Tools 
+* [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) / [GitHub](https://github.com/microsoft/PowerToys), [CWCodes](http://cwcodes.net/), [Progress Tools](https://www.progress-tools.x10.mx/), [Guru3D](https://www.guru3d.com/files-categories), [JaxCore](https://jax-core.github.io/) or [JoeWare](https://www.joeware.net/freetools/index.htm) - System Tools 
 * [PCPartPicker](https://pcpartpicker.com/), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), [/r/buildapc](https://reddit.com/r/buildapc) / [Discord](https://discord.gg/TmNgXbwrqJ), [Build Redux](https://buildredux.com/), [CGDirector](https://www.cgdirector.com/pc-builder/) or [NZXTBld](https://www.letsbld.com/) - PC Building Sites / [Discord](https://discord.gg/buildapc)
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC)  - PC Suggestion Community
@@ -1976,7 +1983,7 @@ Twitch Stream Tracker
 * [Encoding Converter](https://encoding-converter.netlify.app/) - File Encoding Converter
 * [UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - Convert Update Platform Files to Windows Media Files
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - DataHoarding Tools Index
-* [FileInfo](https://fileinfo.com/) or [File-Extensions](https://www.file-extensions.org/) - File Extension Library
+* [FileInfo](https://fileinfo.com/), [File-Extensions.info](https://file-extensions.info/) or [File-Extensions](https://www.file-extensions.org/) - File Extension Library
 * [download](https://github.com/kevva/download) - File Download Tool / Extractor / [CLI](https://github.com/kevva/download-cli)
 * [XBackBone](https://xbackbone.app/) - File Manager / [GitHub](https://github.com/SergiX44/XBackBone)
 * [DropIt](http://www.dropitproject.com/) - Automated File Management
@@ -2003,6 +2010,7 @@ Twitch Stream Tracker
 * [Adobe Compress PDF](https://www.adobe.com/acrobat/online/compress-pdf.html) - PDF Compressor
 * [PDF Mergy](https://pdfmerge.w69b.com/) - Merge PDF Files
 * [Adobe Word Converter](https://www.adobe.com/acrobat/online/word-to-pdf.html) - Word to PDF Converter
+* [PDFLayoutTextStripper](https://github.com/JonathanLink/PDFLayoutTextStripper) - PDF to Text Converter
 * [VancedPDF](https://vancepdf.com/) or [PDFtoWordConverter](https://www.pdftowordconverter.org/) - PDF to Word Converter
 * [Scanned PDF to Doc](https://www.scannedpdftoword.com/) - Scanned PDF to Doc Converter
 * [Adobe Excel to PDF](https://www.adobe.com/acrobat/online/excel-to-pdf.html) - Convert Excel Files to PDF
