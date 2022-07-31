@@ -32,7 +32,7 @@
 * **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Plays Videos in Ad-Free Player
 * **[Fakespot](https://www.fakespot.com/)** - Identifies Fake Reviews & Counterfeits
 * [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker / [Guide](https://rentry.co/adblock) / [Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt)
-* [AdNauseam](https://adnauseam.io/) - Adblocker / Fake Clicks to Mess up Tracking Profiles
+* [AdNauseam](https://adnauseam.io/) - Adblocker / Fakes Clicks to Confuse Tracking
 * [TBlock](https://tblock.codeberg.page/) - Adblocker
 * [Facebook Hide Ads](https://greasyfork.org/en/scripts/404309-facebook-hide-ads-a-k-a-sponsored-posts) - Remove Sponsored Posts from Facebook
 * [uBO-YouTube](https://github.com/x0a/uBO-YouTube) - YouTube Channel Whitelist
@@ -62,7 +62,7 @@
 * [NextDNS](https://nextdns.io) - DNS Adblocking / [Enhancement](https://greasyfork.org/en/scripts/408934-nx-enhanced) / [Leak Warning](https://redd.it/jt28e8) / [Extension](https://chrome.google.com/webstore/detail/nx-enhanced/ljimbekophocjbnphldoaidgkkaojcfo)
 * [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/), [FreeMyIP](https://freemyip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
 * [Encrypted DNS Resolvers](https://www.privacytools.io/providers/dns/)
-* [DNS Resolver Privacy-First](http://doh.tiar.app/) - DNS Resolver
+* [DNS Resolver Privacy-First](http://doh.tiar.app/) or [1.1.1.1](https://1.1.1.1/) - DNS Resolver
 * [ControlD](https://controld.com/), [DNS Jumper](https://sordum.org/7952/dns-jumper-v2-1/) or [Hetzner](https://www.hetzner.com/dns-console?country=us) - DNS Manager
 * [DNS for Family](https://dnsforfamily.com/) - Family DNS Filters
 * [Spamhaus](https://www.spamhaus.org/) or [1Hosts](https://o0.pages.dev/) / [GitHub](https://github.com/badmojr/1Hosts) - DNS Blocklists
@@ -571,7 +571,8 @@
 * [Fri-Gate](https://fri-gate.org/) - Advanced Proxy Settings Addon  
 * [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - Limit Proxy Usage by Private Windows 
 * [Hitch](https://hitch-tls.org/) - SSL / TLS Proxy
-* [frp](https://github.com/fatedier/frp) or [reverse-proxy](https://github.com/microsoft/reverse-proxy) - Reverse Proxy 
+* [frp](https://github.com/fatedier/frp) or [reverse-proxy](https://github.com/microsoft/reverse-proxy) - Reverse Proxy
+* [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
 
 ***
 
