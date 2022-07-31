@@ -118,6 +118,7 @@
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - Lift Emby Restrictions
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [XX-Net](https://github.com/XX-net/XX-Net), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser), [New Pac](https://github.com/Alvin9999/new-pac) or [OilAndFish](https://www.oilandfish.com/) - Bypass Chinese Firewall  
 * [Gitee](https://gitee.com/) - GitHub Alternative
+* [V2Rex](https://v2ex.com/) - Programming Forum
 * [BookStack](https://www.bookstack.cn/) - Developer / Programming Guides
 * [FE Hunter](https://github.com/BetaSu/fe-hunter) - Programming Question Bounties
 * [Gridea](https://github.com/getgridea/gridea) - Blog Writing Client
@@ -402,7 +403,7 @@
 * [Boerse](https://myboerse.bz/) - Video / Audio / Software / Android / NSFW
 * [Animes.so](https://www.animes.so/) - Anime 
 * [37.187.112](http://37.187.112.153/) - Anime
-* [serienjunkies](https://serienjunkies.org/) - TV 
+* [serienjunkies](https://serienjunkies.org/) - TV
 * [uu.canna.to](http://uu.canna.to/) - Music / Audiobooks 
 * [ddl-albums](https://ddl-albums.net/) - MP3
 * [CasualGamers](https://casualgamers.club/) - Games
@@ -419,6 +420,7 @@
 * [Film Palast](https://filmpalast.club/) - Movies / TV
 * [Kinox](https://www2.kinox.to/) - Movies / TV
 * [TopStreamFilm](https://www.topstreamfilm.com/) - Movies / TV
+* [Megakino](https://megakino.co/) - Movies / TV
 * [KinoX](https://www.kinox.sx/) - Movies / TV
 * [StreamCloud](https://streamcloud.cx/) - Movies / TV
 * [BS.TO](https://www.bs.to/) - TV / Anime
@@ -511,7 +513,7 @@
 * [Dudefilms](https://dudefilms.cyou/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
 * [The Movies Flix](https://themoviesflix.ac/) - Movies / NSFW / [Telegram](https://t.me/themoviesflixcomco)
 * [Bollywood Movie Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bollywood_movie_drive) - Movies
-* [KatMovieHD](https://katmoviehd.cx/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
+* [KatMovieHD](https://katmoviehd.tw/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [MoviesRush](https://moviesrush.quest/) - Movies
 * [MoviezAddiction](https://moviezaddiction.lol/) - Movies / TV / [Telegram](https://t.me/moviezaddiction3)
 * [MKVHub](https://www.mkvhub.town/) - Movies / TV
@@ -661,6 +663,7 @@
 * [lit.link](https://lit.link/) - Link All Your Sites on One Page
 * [Poipiku](https://poipiku.com/) - User-Made Images
 * [Marshmallow](https://marshmallow-qa.com/) - Send & Receive Positive Messages
+* [Annict](https://annict.com/) - Anime Tracker
 
 ## ▷ Downloading
 
@@ -1864,7 +1867,7 @@
 * [Segoideas](https://segoideas.com/) - Taiwanese / Streaming / TV
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
 * [ittefaq](https://www.ittefaq.com.bd/), [dainikamadershomoy](https://www.dainikamadershomoy.com/), [kalerkantho](https://www.kalerkantho.com/), [24livenewspaper](https://www.bangla.24livenewspaper.com/), [samakal](https://samakal.com/) or [prothomalo](https://www.prothomalo.com/) - Bangla Newspapers
-* [DJPunjab](https://djpunjab.is/ ) - Punjabi / Download / MP3
+* [DJPunjab](https://djpunjab.is/) - Punjabi / Download / MP3
 * [RÚV](https://www.ruv.is/ruv) - Icelandic / Live TV
 * [Ethio Terka](https://t.me/ethio_terka) - Amharic / Books
 * [JavaLibre](https://javalibre.com.ua/) - Ukrainian / Books
@@ -1872,6 +1875,7 @@
 * [WiiDatabase](https://wiidatabase.de/) - Deutsch / Nintendo Homebrew
 * [KannadaCine](https://www.kannadacine.com/) - Kannada / Streaming / Movies
 * [PDFlibrary](https://t.me/PDFlibrary) - Malayalam / Books / Telegram
+* [EclipseVPN](https://eclipsevpn.com/) - Iranian / VPN
 * [9jaflaver](https://9jaflaver.com/) - Nigerian / MP3
 * [zoom.lk](https://zoom.lk/) - Sinhalese / Subtitles
 * [Steamcito](https://emilianog94.github.io/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos/landing/index.html) - Converts Steam Prices to Argentine Pesos
