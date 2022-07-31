@@ -586,7 +586,7 @@
 * [EE3](https://ee3.me/) - Movies / Invite Code: mpgh
 * [Reqzone](https://reqzone.com/) - Movies / TV
 * [MoviesWBB](http://movieswbb.com/) - Movie / TV
-* [KatMovieHD](https://katmoviehd.nz/category/hollywood-eng/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
+* [KatMovieHD](https://katmoviehd.tw/category/hollywood-eng/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [MKVBee](https://mkvbee.com/) - Movies / TV
 * [Minirlss](https://minirlss.com/) - Movies / TV / Anime
 * [NYMeriaTV](https://nymeriatv.com/) - Movies / TV
@@ -594,7 +594,7 @@
 * [FilmDuty](http://filmduty.com/) - Movies / TV / Anime
 * [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://imgur.com/a/EtLokxO)
 * [HugeWarez](http://hugewarez.net/movies/) - Movies / TV
-* [ExtraMovies](https://extramovies.click/) - Movies / TV
+* [ExtraMovies](https://extramovies.date/) - Movies / TV
 * [KimoiTV](https://www.kimoitv.com/) - Movies / TV / Anime
 * [Movies Counter](https://moviescounter.se/category/english-movies/) - Movies / TV
 * [MeloMovie](https://melomovie.com/) - Movies / TV
