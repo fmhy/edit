@@ -188,7 +188,7 @@
 * [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
 * [Client Evolution](https://help.gnome.org/users/evolution/stable/) - Calendar / Mail
 * [todo](https://github.com/sioodmy/todo/) - Rust Based To-Do CLI
-* [aerc](https://aerc-mail.org/), [ElectronMail](https://github.com/vladimiry/ElectronMail) or [Alpine](http://alpine.x10host.com/) - Email Client
+* [aerc](https://aerc-mail.org/), [ElectronMail](https://github.com/vladimiry/ElectronMail) - Email Client
 * [Link Unshortener](https://underpassapp.com/LinkUnshortener/) - Unshorten Links
 * [KTouch](https://apps.kde.org/en/ktouch) - Typing Practice
 * [wslu](https://github.com/wslutilities/wslu) - Utilities for Windows 10 Linux Subsystem 
@@ -299,7 +299,6 @@
 * [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices 
 * [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [GameHub](https://tkashkin.github.io/projects/gamehub/) - Game Manager
-* [SCNLOG](https://scnlog.me/) - Linux Games
 * [Free Linux PC Games](https://freelinuxpcgames.com/) - Linux Games
 * [The KDE Games Center](https://games.kde.org/) - Linux Games
 * [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/wiki/) - Wiki for Linux Gaming / [Sub Wiki](https://linux-gaming.kwindu.eu/)
