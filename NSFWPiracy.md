@@ -255,6 +255,7 @@
 * [ToonKor](https://tkor.dog/) - [Twitter](https://twitter.com/tkor_info)
 * [Anime-Sharing Hentai](http://www.anime-sharing.com/forum/hentai-ovas-36/)
 * [Porndude Hentai](https://theporndude.com/hentai-porn-sites)
+* [Fakku Search Script](https://redd.it/u0fnpf)
 * [Manhwas](https://www.manhwas.net/) - Spanish
 * [NClientV2](https://github.com/Dar9586/NClientV2) - Android NHentai
 * [TachiyomiSY](https://tachiyomi.org/forks/TachiyomiSY/) - Android Hentai
