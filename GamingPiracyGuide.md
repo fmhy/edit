@@ -74,8 +74,9 @@
 * [CWA](https://www.cwaemu.com/) - Clone Wars Adventures Emulator / [Discord](https://discord.gg/a3Ugb9dzzv)
 * [NR2003](https://wildkustomcars.weebly.com/) - Modded Nascar 2003
 * [CsWarzOnE](https://www.cswarzone.com/) - Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)
-* [Minetest](https://www.minetest.net/) - F2P Minecraft Alternative 
+* [Minetest](https://www.minetest.net/) - F2P Minecraft Alternative
 * [Unciv](https://github.com/yairm210/Unciv) - Civ V Remake
+* [OpenNox](https://github.com/noxworld-dev/opennox) - Nox Revival Project
 * [London 2038](https://london2038.com/) - London 2038 Multiplayer Revival Project
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball Decompilation
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
@@ -589,7 +590,7 @@
 * [Sokoban](https://suppilulemur.neocities.org/) - Box Moving Puzzle Game / Zelda-Themed
 * [BestCrosswords](https://www.bestcrosswords.com/), [USAToday](https://games.usatoday.com/games/uclick-crossword), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
-* [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/), [Wordle Unlimited](https://wordleunlimited.org/), [Huedle](https://huedle.com/), [Chessle](https://jackli.gg/chessle), [BoxOfficeGA](https://boxofficega.me/), [Wordversary](https://wordversary.com/), [Wordle.nyc](https://wordle.nyc/), [WordleGame](https://wordlegame.org/), [Py-DLE](https://py-dle.herokuapp.com/) or [Wordlevs](https://wordlevs.com/) - Wordle Games / [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
+* [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/), [Wordle Unlimited](https://wordleunlimited.org/), [Huedle](https://huedle.com/), [Chessle](https://jackli.gg/chessle), [BoxOfficeGA](https://boxofficega.me/), [Wordversary](https://wordversary.com/), [Wordle.nyc](https://wordle.nyc/), [WordleGame](https://wordlegame.org/), [Py-DLE](https://py-dle.herokuapp.com/), [Tweakdle](https://tweakdle.chariz.com/) or [Wordlevs](https://wordlevs.com/) - Wordle Games / [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles & Quizzes
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - Online Jigsaw Puzzles
 * [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - Solve a Rubix Cube / [Solver](https://rubiksolve.com/), [2](https://bnice.ru/asolver/), [3](https://rubiks-cube-solver.com/)
