@@ -371,7 +371,7 @@
 * [Fire Toolbox](https://forum.xda-developers.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - Fire Tablet Tools
 * [Pojav](https://pojavlauncherteam.github.io/) - Mobile Minecraft Launcher
 * [Mematic](https://www.mematic.net/) - Meme Creator 
-* [LRC Editor](https://play.google.com/store/apps/details?id=com.cg.lrceditor) - Lyric Text Editor
+* [LRC Editor](https://play.google.com/store/apps/details?id=com.cg.lrceditor) or [Audoir](https://audoir.com/) - Lyric Text Editor
 * [Reface](https://reface.app/) - Create Face Swap Videos 
 * [PGS](https://www.pgsharp.com/) - Modded Pokémon GO
 * [schakal](https://www.schakal.ru/) - Amazfit Bip Watchfaces
@@ -1006,6 +1006,7 @@
 * [Flarify](http://www.flairify.com/) - Touchscreen Typing Practice 
 * [Selvy PenScript](https://apps.apple.com/us/app/selvy-penscript/id1027637212) - Handwriting to Text Keyboard
 * [VoxRec](https://apps.apple.com/us/app/voxrec-voice-to-text-dictation/id1366603987) - Voice to Text
+* [Audoir](https://audoir.com/) - Lyric Text Editor
 * [TranslatedLabs](https://translatedlabs.com/) - Translation Apps
 * [Scan Thing](https://apps.apple.com/us/app/scan-thing-scan-anything/id1542730895) - Scan & Digitize Anything
 * [magicplan](https://apps.apple.com/us/app/magicplan/id427424432) - AR & LiDAR Scanning
@@ -1096,6 +1097,7 @@
 * [Denim](https://apps.apple.com/us/app/denim-playlist-cover-maker/id1532250420) - Playlist Cover Maker
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - Identify Playing Songs
 * [GarageBand](https://apps.apple.com/us/app/garageband/id408709785) - Audio Editor / Creator
+* [GroupTheLoop](http://www.grouptheloop.com/) - Multichannel Looper
 
 ***
 
