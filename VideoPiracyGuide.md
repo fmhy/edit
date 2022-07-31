@@ -59,7 +59,6 @@
 * [KollaFilm](https://kollafilm.com/) - Movies / TV
 * [StreamLord](http://www.streamlord.com/) - Movies / TV
 * [9PM](https://9pm.to/) - Movies / TV
-* [247Movie](https://247movie.net/) - Movies / TV 
 * [Goojara](https://www.goojara.to/), [2](https://goojara.club/) - Movies / TV / Anime
 * [SpaceMov](https://spacemov.site/) - Movies / TV
 * [NYMeriaTV](https://nymeriatv.com/) - Movies / TV
@@ -180,7 +179,7 @@
 
 * [RareFilmm](https://rarefilmm.com/) - Rare Movies 
 * [3D Online Films](https://www.documentarymania.org/) - 3D Movies
-* [Classic Cinema Online](https://classiccinemaonline.com/), [PublicDomainFlix](https://publicdomainflix.com/), [BnWMovies](https://bnwmovies.com/) or [Dumb Classic Movies](http://www.dumb.com/movies/) - Classic Films
+* [Classic Cinema Online](https://classiccinemaonline.com/), [BnWMovies](https://bnwmovies.com/) or [Dumb Classic Movies](http://www.dumb.com/movies/) - Classic Films
 * [TheFilmDetective](https://thefilmdetective.tv/) - Classic Films / TV
 * [RetroVision Media](http://www.retrovisionmedia.com/) - Retro / Classic Films 
 * [horror.watch](https://horror.watch/) - Classic Horror Films
@@ -246,7 +245,6 @@
 * [OnlySeries](https://onlyseries.net/) - TV
 * [Watch-TvSeries](https://www1.watch-tvseries.net/) - TV
 * [MyWatchSeries](https://www5.mywatchseries.stream/) - TV / Anime 
-* [WatchTVSeries](https://www2.watchtvseries.video/) - TV 
 * [turkish123](https://turkish123.com/) - Turkish TV Shows / Subtitles 
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - Bay Area TV Archive  
 * [Ninja Warrior](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ninja_warrior) - Sasuke Episodes
@@ -406,13 +404,12 @@
 * [WatchWrestling.la](https://watchwrestling.la/) - MMA / Wrestling 
 * [WatchProWrestling](http://watchprowrestling.live/) - MMA / Wrestling 
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing
-* [SportsReplay](https://discord.com/invite/2r4pj67gCv) - [F1](https://f1full.com/) / [MMA](https://mmafull.com/) / [NFL](https://nflfull.com/)
+* [SportsReplay](https://discord.com/invite/2r4pj67gCv) - [F1](https://f1full.com/) / [MMA](https://mmafull.com/)
 * [Bellator](https://www.bellator.com/video) - MMA
 * [/r/MMAFights](https://www.reddit.com/r/mmafights/) - MMA
 * [MMACore](https://www.mma-core.com/videos/home) - MMA
 * [BoxingBoxingvideoideo](https://boxingvideo.org/) - Boxing
 * [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / K1
-* [HD Matches](https://hdmatches.net/) - Soccer Replays
 * [Racing HD](http://www.racinghd.net/) or [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Racing Replays 
 
 ***
@@ -466,7 +463,6 @@
 * [Icelz](https://icelz.newsrade.com/) - Sports
 * [livetv](http://livetv.sx) - Sports
 * [bilaSport](http://bilasport.net/) - Sports
-* [NBAFullMatch](https://nbafullmatch.com/) - Sports
 * [FreeStreams](http://fc.freestreams-live1.com/) - Sports
 * [StreamsGate](https://streamsgate.tv/) - Sports
 * [WatchKobe](http://watchkobe.info/) - Sports
@@ -481,7 +477,6 @@
 * [MARKKY](https://markkystreams.com/) - Sports
 * [TheHomeSports](https://thehomesport.com/) - Sports 
 * [CricHD](https://fc5.crichd.com/) - Sports 
-* [streamHD 24/7](https://streamhd247.live/) - Sports
 * [MamaHD](https://mamahd.best/) - Sports
 * [Touchcric](https://mob.touchcric.com/) - Sports
 * [fromHOT](http://www.fromhots.com/) - Sports
@@ -585,7 +580,6 @@
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
 * [EE3](https://ee3.me/) - Movies / Invite Code: mpgh
 * [Reqzone](https://reqzone.com/) - Movies / TV
-* [MoviesWBB](http://movieswbb.com/) - Movie / TV
 * [KatMovieHD](https://katmoviehd.tw/category/hollywood-eng/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [MKVBee](https://mkvbee.com/) - Movies / TV
 * [Minirlss](https://minirlss.com/) - Movies / TV / Anime
@@ -599,7 +593,6 @@
 * [Movies Counter](https://moviescounter.se/category/english-movies/) - Movies / TV
 * [MeloMovie](https://melomovie.com/) - Movies / TV
 * [Best-Movies](http://best-movies.info/) - Movies / TV
-* [Happy2Hub](https://happy2hub.net/) - Movies / TV   
 * [FilmsZilla](https://filmszilla.com/) - Movies / TV
 * [Movies Downloader](https://movie.unlimitdownloads.com/) - Movies / TV
 * [StreamCraze](https://streamcraze.com/) - Movies / TV
@@ -637,7 +630,6 @@
 * [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime
 * [O2TVSeriesz](https://o2tvseriesz.com/) - Movies / TV
 * [Privatemoviez](https://privatemoviez.org/) - Movies / TV
-* [7Moviesrulz](https://7movierulz.se/category/hollywood-movie-2021/) - Movies
 * [SkyMoviesHD](https://skymovieshd.news/category/Hollywood-English-Movies.html) - Movies
 * [HDFriday](https://hdfriday.com/category/download-hollywood-movies/) - Movies
 * [MoviesDownloadHub](https://moviesdownloadhub.com/category/hollywood/) - Movies / TV
@@ -646,7 +638,6 @@
 * [Top100](https://top100.to/) - Movies / TV
 * [Nine9ja](https://nine9ja.com/) - Movies
 * [Warez Lover](https://warezlover.org/) - Movies / TV 
-* [7StarHD](https://7starhd.cards/category/hollywood/) - Movies / TV
 * [LatestMovie4U](https://latestmovie4u.com/) - Movies / TV / Anime 
 * [VegaMovies](https://vegamovies.onl/category/english/), [2](https://vegamovies.red/) - Movies / [Telegram](https://t.me/Vegamoviesgroup2)
 * [Subroz](https://subroz.live/0:/) - Movies / TV
@@ -766,7 +757,6 @@
 * **[Stremio](https://www.stremio.com/)** - Torrent Streaming App
 * **Stremio Tools** - [Addons](https://github.com/danamag/stremio-addons-list/blob/main/README.md) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg)
 * **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents / [Heroku](https://github.com/l3v11/Jackett-heroku)
-* [WatchIt](http://watchitapp.site/) - Torrent Streaming App / [GitHub](https://github.com/ZorrillosDev/watchit-desktop)
 * [Powder](https://powder.media/) - Torrent Streaming App
 * [Filminator](http://filminator.net/) - Torrent Streaming App
 * [Ace Stream](https://acestream.org/) - Torrent Streaming App 
@@ -801,7 +791,6 @@
 * [Vuze](https://www.vuze.com/content/) - Movies / TV 
 * [ATORRENTS](https://atorrents.com/) - Movies
 * [EniaHD](https://eniahd.com/) - Movies / TV
-* [TorHD](https://torhd.com/) - Movies
 * [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)
 * [TorrentKingNow](https://torrentkingnow.co/) - Movies
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - Movies
