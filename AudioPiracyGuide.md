@@ -23,7 +23,8 @@
 * [Muffon](https://github.com/staniel359/muffon) - Streaming
 * [Deezer](https://www.deezer.com/) - Streaming / [Unlock HiFi](https://git.freezerapp.xyz/uhwot/dzunlock)
 * [OdesliBot](https://t.me/odesli_bot) - Audio Stream Search Bot
-* [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram 
+* [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
+* [JukeboxStar](https://jukeboxstar.com/) - Collaborative Playlist Streaming
 * [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Unlock Unavailable Netease Music
 * [stemplayerplayer](https://github.com/nn9dev/stemplayerplayer), [StemPlayer](https://stemplayer.io/) or [stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator) - Kanye West STEM Player Emulators
 
@@ -78,15 +79,16 @@
 * [Wacht](https://wacht.tv/) - Music Video Upvoting
 * [/r/Yedits](https://www.reddit.com/r/Yedits/) - User-Made Remixes
 * [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - User-Made PluggnB Songs
-* [BitMidi](https://bitmidi.com/) - Stream / Download MIDI Files 
+* [BitMidi](https://bitmidi.com/) - Stream / Download MIDI Files
 * [RemixPacks](https://remixpacks.club/) - STEMS
 * [KeyGenMusic](http://www.keygenmusic.net/) or [keygenmusic.tk](https://keygenmusic.tk/) - Keygen Music 
 * [Tasso Music](https://www.tassomusic.org/) - Early Modern Music
 * [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medeival Music 
-* [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games 
-* [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - East African Recordings 
+* [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games
+* [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - East African Recordings
 * [Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music) - Free Music for Projects
-* [Battle of the Bits](https://battleofthebits.org/) - User-Made Music Competitions 
+* [The Eternal Jukebox](https://eternalbox.dev/) - Never-Ending Versions of Songs
+* [Battle of the Bits](https://battleofthebits.org/) - User-Made Music Competitions
 * [Openwhyd](https://openwhyd.org/) - Music Sharing Community / [Chrome](https://chrome.google.com/webstore/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)
 * [Bandcamp New Tab](https://chrome.google.com/webstore/detail/bandcamp-new-tab/nbabnnemlofbllcflfjpjgkgmcdbeemc) - Random Bandcamp Songs on New Tabs
 
@@ -120,7 +122,7 @@
 * [Old Time Radio Downloads](https://www.oldtimeradiodownloads.com/) - Classic Radio Downloads
 * [adblock radio](https://www.adblockradio.com/en/) - Ad Free Podcasts / Radio Player / [GitHub](https://github.com/adblockradio/adblockradio)
 * [radiobot](https://t.me/radiobot) - Radio / Telegram 
-* [Curseradio](https://github.com/chronitis/curseradio) - Internet radio in the terminal
+* [Curseradio](https://github.com/chronitis/curseradio) or [Remixatron](https://github.com/drensin/Remixatron) - Radio CLI
 * [Rekt FM](https://rekt.network/) - Chill / Space / Dark / Horror Synth / EBSM / EDM Radio
 * [Nightwave Plaza](https://plaza.one/) or [vapor.fm](https://vapor.fm/) - Vaporwave Radio
 * [Retrowave](https://retrowave.ru/) - Synthwave / Retrowave Radio 
