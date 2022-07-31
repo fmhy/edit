@@ -74,6 +74,7 @@
 * [W3Schools Offline](https://github.com/Ja7ad/W3Schools) - Programming Tutorials
 * [Codings Point](https://www.codingspoint.com/) - Programming Tutorials
 * [Hackr.io](https://hackr.io/) - Programing Tutorials
+* [Guru99](https://www.guru99.com/) - Programing Tutorials
 * [Phrozen](https://www.phrozen.io/) - Programming Guides
 * [Use My Notes](https://usemynotes.com/) - Programming Tutorials
 * [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - Programming Tutorials
@@ -431,11 +432,12 @@
 * [GalleryProject](http://galleryproject.org/) - Manage / Host Photos on Website 
 * [PublishThisEmail](https://www.publishthis.email/) - Email Based Website Builder
 * [PrivateDaddy](https://www.privatedaddy.com/) - Auto Hide Email Address'
-* [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - Mobile Friendly Page Test 
+* [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - Mobile Friendly Page Test
+* [Shaka Player](https://github.com/shaka-project/shaka-player) - JavaScript Library for Adaptive Media
 * [hlsflow](https://github.com/hlsflow/hlsflow) - Host Video in HLS Stream
 * [OneLinePlayer](https://onelineplayer.com/) - Vimeo / Dropbox Video Player
 * [Testimonial](https://testimonial.to/) - Easily Add Video Testimonials to Sites
-* [SCM Music Player](https://www.scmplayer.net/) - Website Audio Player
+* [SCM Music Player](https://www.scmplayer.net/) or [TrinityAudio](https://www.trinityaudio.ai/) - Site Audio Players
 * [DriveProxy](http://driveproxy.net/) - GDrive Video iFrame Code Generator
 * [Stream Defence](https://www.streamdefence.com/) - Website Video Backup System
 * [StreamYard](https://streamyard.com/) - Live Stream Creator
@@ -670,6 +672,7 @@ Automated Incident Response and Forensics Framework
 * [Game-Editor](http://game-editor.com/Main_Page), [microStudio](https://microstudio.itch.io/microstudio) or [BuildBox](http://buildbox.com/) - Game Creators
 * [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://pennie.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop), [Bitsy](http://ledoux.io/bitsy/editor.html), [LIKO 12](https://github.com/LIKO-12/LIKO-12) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - 2D Game Creators
 * [Unreal Engine](https://www.unrealengine.com/) - 3D Creation Tool / [Python](https://github.com/20tab/UnrealEnginePython)
+* [Serpent.ai](http://serpent.ai/) - Game Agent Framework
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
 * [Faux on 3D](https://gizmo199.itch.io/fauxton3d) - Sprite Stacking Framework
 * [MapEditor](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - Level Editor
@@ -778,6 +781,7 @@ Automated Incident Response and Forensics Framework
 ## ▷ Git Tools
 
 * **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [awesome-lis](https://github.com/topics/awesome-list) or [awesome-github](https://github.com/fffaraz/awesome-github) - List Indexes
+* [GitLab](https://about.gitlab.com/), [FSFE](https://git.fsfe.org/) or [NotABug](https://notabug.org/) - GitHub Alternatives
 * [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
 * [Git Explorer](https://gitexplorer.com/) or [Git Commands](https://gabrieldejesus.github.io/git-commands/), [2](https://github.com/gabrieldejesus/git-commands) - Git Command List
 * [GitHub Desktop](https://desktop.github.com/) or [Tower](https://www.git-tower.com/) - GitHub Client
@@ -796,11 +800,12 @@ Automated Incident Response and Forensics Framework
 * [GitBook](https://www.gitbook.com/) - Document Collaboration
 * [Refined GitHub](https://github.com/sindresorhus/refined-github) - Simplifies GitHub Interface & Adds Features 
 * [Octobox](https://octobox.io/) or [Ghostly](https://ghostlyapp.net/) / [GitHub](https://github.com/patriksvensson/ghostly) - GitHub Notifications
-* [github1s](https://github1s.com/) - GitHub Code Viewer / GUI: do `gitk` in repo folder 
+* [github1s](https://github1s.com/) - GitHub Code Viewer / GUI: do `gitk` in Repo Folder 
 * [Tara](https://tara.ai/) - Git Project Manager
 * [Serctl](https://d.serctl.com/) - Backup GitHub Projects
 * [GitList](https://gitlist.org/) - Elegant Git Repository Viewer / [GitHub](https://github.com/klaussilveira/gitlist)
 * [Railway](https://railway.app/) - Code Repository Manager
+* [Pew Pew](https://adrianmato.com/pewpew) - Cleanup Unused Repos
 * [git](https://git-scm.com/) - Version Control System
 * [Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects) 
 * [Awesome First PR Oppotunities](https://github.com/MunGell/awesome-for-beginners) - Beginner Friendly FOSS Project Index
@@ -840,9 +845,8 @@ Automated Incident Response and Forensics Framework
 * [gist.io](https://gist.io/) - Git Blog Platform
 * [Github Action for Rclone](https://github.com/marketplace/actions/github-action-for-rclone) - Rclone GitHub Action Wrapper
 * [gitignore](https://github.com/github/gitignore) - Gitignore Templates
-* [Drift](https://www.drift.lol/) - Self-Hosted Gist
 * [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub), [diohub](https://github.com/NamanShergill/diohub) or [OctoDroid](https://github.com/slapperwan/gh4a) - Android GitHub Client
-* [Gitea](https://gitea.io/) - Self-Hosted Git Service
+* [Gitea](https://gitea.io/), [2](https://gittea.dev/) or [Drift](https://www.drift.lol/) - Self-Hosted Git Service
 
 ***
 
@@ -889,7 +893,7 @@ Automated Incident Response and Forensics Framework
 
 * **[Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_code_editors)** - Code Editing Apps & Sites
 * **[List.community](https://list.community/)** - Programming / Development GitHub Lists 
-* [WebdevHome](https://webdevhome.github.io/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming Tool Indexes
+* [WebdevHome](https://webdevhome.github.io/), [Charm](https://charm.sh/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming Tool Indexes
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Programming Site Index 
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Web Scraping Tool Index
 * [Awesome-Discord-Communities](https://github.com/mhxion/awesome-discord-communities) - Programming / Developer / Discord Communities 
@@ -911,7 +915,6 @@ Automated Incident Response and Forensics Framework
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) - Livecoding Resources
 * [Telosys](http://www.telosys.org/) - Code Generator
 * [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
-* [Not a Bug](https://notabug.org/) - Code Hosting
 * [Autosaved](https://github.com/nikochiko/autosaved) - Autosave Code / [GitHub](https://github.com/tkellogg/dura)
 * [Tasuku](https://github.com/privatenumber/tasuku) - Node.js Task Runner
 * [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - Source Code Converters
@@ -1027,6 +1030,7 @@ Automated Incident Response and Forensics Framework
 * [Tables Generator](https://www.tablesgenerator.com/) - Generates Tables in Various Languages
 * [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
 * [pueue](https://github.com/Nukesor/pueue) - Shell Command Manager
+* [V](https://vlang.io/) - Programming Language
 * [Emojicode](https://www.emojicode.org/) - Emoji Based Programming Language
 * [CrystalShards](https://crystalshards.org/) - Crystal Programming Shards
 * [Crystalline](https://github.com/elbywan/crystalline) - Crystal Language Server
