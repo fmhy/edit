@@ -356,7 +356,7 @@
 
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming) 
 * [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
-* [KissAsian](https://kissasian.li/), [2](https://kissasian.ac/), [3](https://kissasian.es/) - TV
+* [KissAsian](https://kissasian.li/), [2](https://kissasian.ac/), [3](https://kissasian.es/), [4](https://kissasian.pe/) - TV
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
 * [DramaCool](https://www5.dramacool.sk/), [dramacool9](https://www.dramacool9.co/) or [WatchAsian](https://watchasian.sh/) - TV / Movies
 * [DramaDay](https://dramaday.net/) - TV 
@@ -604,7 +604,7 @@
 * [TV Shows](https://tvshows.show/) - TV
 * [MoviesVerse](https://moviesverse.me/) - Movies / TV / [Telegram](https://t.me/MoviesHomeOFFICIALS)
 * [FreeDriveMovie](https://www.freedrivemovie.com/) - Movies / TV
-* [HDMovieArea](https://hdmoviearea.live/genre/dual-audio/) - Movies / TV
+* [HDMovieArea](https://hdmoviarea.com/genre/dual-audio/) - Movies / TV
 * [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)
 * [Movies Mobile](https://mobilemovies.info/index.php?dir=Hollywood%20Movies) - Movies
 * [SeriesVault](https://seriesvault.tk/) - TV
