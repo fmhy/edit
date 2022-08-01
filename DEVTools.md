@@ -468,7 +468,8 @@
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
 * [VPN Un-Blocking](https://medium.com/@innovativehazard/vpn-un-blocking-e0374b9c4d35 ) - Unblock Cloudflare Warp VPN Services 
 * [LightTPD](http://www.lighttpd.net/) or [Caddy](https://caddyserver.com/) - Web Server
-* [Bash-web-server](https://github.com/dzove855/Bash-web-server) - Bash Web Server 
+* [Bash-web-server](https://github.com/dzove855/Bash-web-server) - Bash Web Server
+* [Oracle](https://www.oracle.com/cloud/free/) - Free Server Tools
 * [HTTP Server](https://httpd.apache.org/) - HTTP Server Apache
 * [h5ai](https://larsjung.de/h5ai/) - HTTP Web Server Index / [GitHub](https://github.com/lrsjng/h5ai)
 * [SyAgent](https://syagent.com/) - Server Monitor
@@ -649,6 +650,7 @@ Automated Incident Response and Forensics Framework
 * [Vision Camera](https://mrousavy.com/react-native-vision-camera/) - React Camera Support / [GitHub](https://github.com/mrousavy/react-native-vision-camera)
 * [react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) - React Image Cropper
 * [React PDF](https://react-pdf.org/) - Create PDFs in React
+* [react-spring](https://react-spring.io/) - React Spring Animations
 * [useAnimations](https://useanimations.com/index.html) - Animated Icon Pack
 * [Flubber](https://github.com/Appolica/Flubber) - Android Animation Creator
 * [Redex](https://fbredex.com/) - Android Bytecode Optimizer
