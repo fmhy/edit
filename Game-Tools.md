@@ -85,6 +85,8 @@
 * [Score7](https://score7.io/) - Tournament Creator / Manager
 * [KeepTheScore](https://keepthescore.co/) - Leaderboard Creator
 * [5ETools](https://5e.tools/) or [DragonsFoot](https://www.dragonsfoot.org/) - Dungeons & Dragons Tools
+* [The Acaeum](https://www.acaeum.com/) - Dungeons & Dragons Database
+* [Archives of Nethys](https://aonprd.com/) - Pathfinder Database
 * [Roll20](https://roll20.net/), [Rolisteam](https://rolisteam.org/) or [Astral](https://www.astraltabletop.com/) - Tabletop RPG Streaming
 * [Tabletopy](https://tabletopy.com/) - Tabletop RPG Soundboard
 * [Map Generator](https://emptybuttons.itch.io/map-generator) - Tabletop Roleplaying Map Generator
@@ -426,7 +428,8 @@
 * [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers
 * [ChronoCrash](http://www.chronocrash.com/forum/) or [TheTechGame](https://www.thetechgame.com/) - Game Modding Forum
 * [Playground](https://www.playground.ru/) - Mods, Artbooks, Soundtracks, Cheats & more
-* [SweetFX](https://sfx.thelazy.net/) or [ENBSeries](http://enbdev.com/) - Game Graphic Mods 
+* [SweetFX](https://sfx.thelazy.net/) or [ENBSeries](http://enbdev.com/) - Game Graphic Mods
+* [ModsBase](https://modsbase.com/) or [ModsFire](https://modsfire.com/) - Mod Hosts
 * [Otis_Inf Camera Mods](https://redd.it/hvttbd) - Game Camera Mods
 * [injectSMAA](http://mrhaandi.blogspot.com/p/injectsmaa.html) - SMAA Injection Tool
 * [OpenVR FSR](https://github.com/fholger/openvr_fsr) - Steam VR FidelityFX Super Resolution Mod
