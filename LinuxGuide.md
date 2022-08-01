@@ -154,7 +154,7 @@
 * [AV Linux](http://www.bandshed.net/avlinux/) - Video / Audio Editor
 * [Flowblade](https://github.com/jliljebl/flowblade) - Video Editor
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Image Editor 
-* [TextSnatcher](https://github.com/RajSolai/TextSnatcher) - Image to Text
+* [TextSnatcher](https://github.com/RajSolai/TextSnatcher) or [Frog](https://tenderowl.com/work/frog/) - Image to Text
 * [Feh](https://feh.finalrewind.org/) or [NSXIV](https://github.com/nsxiv/nsxiv) - Image Viewer
 * [lsix](https://github.com/hackerb9/lsix) - View Images in Terminal
 * [MkPosters](https://github.com/patrick-kidger/mkposters) - Turn Markdown Files into Posters
@@ -236,6 +236,7 @@
 * [Compix](https://github.com/xeome/compix) - Xorg Compositor
 * [river](https://github.com/riverwm/river/), [wayfire](https://github.com/WayfireWM/wayfire/) or [sway](https://github.com/swaywm/sway/) - Wayland Compositors
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
+* [Arronax](https://www.florian-diesch.de/software/arronax/) - .desktop File Editor
 * [Learn the Linux Command Line](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_learn_the_linux_command_line), [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [LinuxCommand](https://www.linuxcommand.org/tlcl.php) - Linux Command Line Lessons
 * [shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial) - Shell Scripting Tutorial
 * [explainshell.com](https://explainshell.com/) - Match Command-Line Arguments to Help Text
@@ -316,7 +317,8 @@
 * [Unix ASCII Games](https://github.com/ligurio/awesome-ttygames) - Unix ASCII Games
 * [CWordle](https://github.com/velorek1/cwordle) - Wordle in Unix Terminal 
 * [NVBurner](https://github.com/iloveichigo/NVBurner) - Overclocking Tool
-* [dxvk](https://github.com/doitsujin/dxvk) - D3D9, D3D10 and D3D11 for Linux / Wine 
+* [dxvk](https://github.com/doitsujin/dxvk) - D3D9, D3D10 and D3D11 for Linux / Wine
+* [DXVKache](https://github.com/NastyGamer/DXVKache) - DXVK Cache Files
 * [VKBasAlt](https://github.com/DadSchoorse/vkBasalt) - Game Post Processing Layer
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - Linux Gaming Kernels
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
