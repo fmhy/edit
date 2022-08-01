@@ -513,6 +513,7 @@
 * [WeVPN](https://wevpn.com/) - [Pricing](https://i.imgur.com/a6XWraf.png)
 * [PandaVPN](https://pandavpnpro.com/) - [Pricing](https://i.imgur.com/nm2CVhX.png)
 * [Hidemy.name](https://hidemy.name/en/) - [Pricing](https://i.imgur.com/wE4WonU.png)
+* [Malwarebytes VPN](https://malwarebytes.com/vpn) - [Pricing](https://i.imgur.com/wgt7gE0.png)
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - VPN Extension / 3GB Free / [Pricing](https://i.imgur.com/ZdDexDa.png)
 * [Mozilla FPN](https://fpn.firefox.com/) - VPN Extension / [Pricing](https://i.imgur.com/wW5rVO2.png) / Mullvad Servers
 * [StrongSwan](https://www.strongswan.org/) - IPsec VPN
@@ -527,6 +528,7 @@
 * [HideMe](https://hide.me/) - Free VPN
 * [Calyx VPN](https://calyx.net/) - Free VPN
 * [Leap VPN](https://leap.se/) - Free VPN
+* [GreenHub](https://greenhubtx.ga/) - Free VPN
 * [Clash](https://github.com/Fndroid/clash_for_windows_pkg) - Free VPN / [Profiles](https://rentry.co/2q3rn)
 * [Portals](https://www.portals.network/) - dVPN
 * [FreePN](https://www.freepn.org/) - Free Open Source P2P VPN 
