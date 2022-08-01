@@ -276,7 +276,7 @@
 * [PandaCD](https://pandacd.io/) - MP3
 * [Tancpol](https://tancpol.net/) - MP3
 * [ccMixter](http://ccmixter.org/) or [dig ccMixter](http://dig.ccmixter.org/dig) - DL / Stream / MP3 
-* [MP3Juices](https://www.mp3juices.cc/), [MP3Juice](https://mp3juice.buzz/) - DL / Stream / MP3 
+* [MP3Juices](https://www.mp3juices.cc/) or [MP3Juice](https://mp3juice.buzz/) - DL / Stream / MP3 
 * [Digital Meltd0wn](http://digitalmeltd0wn.blogspot.com/) - MP3
 * [Music Blogtrotter](https://musicblogtrotter.blogspot.com/) - MP3
 * [New Album Releases](https://newalbumreleases.net/) - MP3
