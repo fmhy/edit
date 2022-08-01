@@ -75,6 +75,7 @@
 * [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizer
 * [PollCode](https://pollcode.com/), [YoPolls](https://www.yopolls.com/), [Polls.fr](https://polls.fr/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/), [StrawPoll](https://strawpoll.com/), [framadate](https://framadate.org/) or [poal.me](https://poal.me/) - Poll Creator
 * [sli.do](https://www.sli.do/), [Feedbackr](https://www.feedbackr.io/) or [Trypingo](http://trypingo.com/) - Live Polling Apps
+* [Kukkee](https://www.kukkee.com/) - Meeting Time Polls
 * [Evote](https://github.com/IBM/evote), [SimpleVote](https://github.com/dessalines/simple-vote), [CryptoBallot](https://cryptoballot.com/) or [BlockVotes](https://github.com/yfgeek/BlockVotes) - Online Voting Platform
 * [Event Rally](https://rallly.co/) - Collaborate and Vote on a Date to Host / [GitHub](https://github.com/lukevella/Rallly)
 * [Diff Checker](https://www.diffchecker.com/) - Check Differences in Text, Images, PDFs or Files
@@ -429,7 +430,7 @@
 * [AirWindows](http://www.airwindows.com/) - Reverbs / Equalizers / Plugins
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - Learn How to Play Music
 * [Jukebox](https://jukebox.today/) or [jqbx](http://jqbx.fm/) - Music Sync / Listening Parties
-* [Versefy](https://versefy.app/) - Lyrics Finder for Spotify, Tidal & VLC
+* [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyrics Finder for Spotify, Tidal & VLC
 * [Whyp](https://whyp.it/) - Audio Host
 * [Aux](https://aux.app/) - Audio Project Host
 * [Audiocheck](https://www.audiocheck.net/) - Audio Tests 
@@ -808,6 +809,7 @@
 * [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools) 
 * [IP Checkers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_checkers) - Check Your IP Address
 * [IP Location](https://iplocation.net/) - IP Location Check 
+* [IP List](http://magic-cookie.co.uk/iplist.html) - Convert CIDR Notation to UP Range
 * [IP Rotator](https://github.com/Ge0rg3/requests-ip-rotator) - Bypass IP-based Rate-Limits Requests 
 * [open-ports](https://www.yougetsignal.com/tools/open-ports/), [Networkappers](https://networkappers.com/ ), [PortCheckTool](https://www.portchecktool.com/), [PortChecker](https://www.portchecker.co/), [PortCheckers](https://www.portcheckers.com/) or [CanYouSeeMe](https://canyouseeme.org/) - Open Port Checkers
 * [DownloadTestr](http://txti.es/downloadtestr) - Download Test Files to Test Download Speed 
@@ -986,7 +988,7 @@
 * **[Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Wiki URL Shortener
 * **[Check if Sites are Down](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_down_site_checkers)** - Check if a site is down for just you or everyone 
 * **[Universal Encoding Tool](https://unenc.com/)** - Encoding / Decoding Tools
-* **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)**, [Base64 E/D](https://apps.maximelafarie.com/base64/), [Encode/Decode](https://toolbox.googleapps.com/apps/encode_decode/) or [URL Encode/Decode](https://www.url-encode-decode.com/) - Base64 Encode and Decode / [Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_base64_decode_extensions) / [AES-256](https://secretmessages.online/), [2](https://encipher.it/)
+* **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)**, [Base64 E/D](https://apps.maximelafarie.com/base64/), [Encode/Decode](https://toolbox.googleapps.com/apps/encode_decode/) or [URL Encode/Decode](https://www.url-encode-decode.com/) - Base64 Encode and Decode / [Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_base64_decode_extensions) / [AES-256](https://secretmessages.online/), [2](https://encipher.it/) / [UTF8](https://onlineutf8tools.com/)
 * **[t.ly](https://t.ly/)** - `t.ly/qqH6`
 * **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
 * [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
@@ -1052,7 +1054,7 @@
 * [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - Custom URL Handler
 * [Xenu-Link](http://home.snafu.de/tilman/xenulink.html), [Lychee](https://github.com/lycheeverse/lychee), [Cyotek-Webcopy](https://www.cyotek.com/cyotek-webcopy), [Dead Link Checker](https://www.deadlinkchecker.com/) or [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php) - Broken Link Checker
 * [W.A.R. Links Checker Premium](http://usa.x10host.com/mybb/showthread.php?tid=88) - Checks If File Links are Alive or Not
-* [SafeLinking](https://safelinking.net/), [Gdrivez](https://www.gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [TSU.one](https://tsu.one/), [externallink](https://externallink.xyz/), [linkspop](https://linkspop.info/), [BrBushare](https://brbushare.xyz/) or [ShortLinkto](https://shortlinkto.top/) - Link Protectors 
+* [SafeLinking](https://safelinking.net/), [Gdrivez](https://www.gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [TSU.one](https://tsu.one/), [externallink](https://externallink.xyz/), [linkspop](https://linkspop.info/), [BrBushare](https://brbushare.xyz/), [KeepLinks](https://www.keeplinks.org/) or [ShortLinkto](https://shortlinkto.top/) - Link Protectors 
 * [WhoIsRequest](https://whoisrequest.com/) or [Securrity Whoiz](http://www.securrity.ru/whoiz.html) - Domain Information Lookup
 * [Awesome Piracy Bot](https://github.com/Igglybuff/awesome-piracy-bot) - URL Scraping Tool
 * [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - DNS Information Tool
@@ -1079,7 +1081,7 @@
 * [Subreddit Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_subreddit_discovery) - Explore & Discover Subreddits
 * [/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all) - Explore Multireddits
 * [FMHY Curated Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits) - Multireddits curated by FMHY members
-* [Pushshift Reddit Search](https://www.redditsearch.io/) / [2](https://redditsearch.io/), [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0 ) or [Better Reddit Search](https://betterredditsearch.web.app/) - Reddit Search  
+* [Pushshift Reddit Search](https://www.redditsearch.io/) / [2](https://redditsearch.io/), [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0) / [2](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30), [Redditle](https://redditle.com/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Reddit Search Engines
 * [Busca](https://github.com/afk-mcz/busca) - Search Current Tab on Reddit
 * [KarmaDecay](http://karmadecay.com/) - Reddit Reverse Image Search 
 * [Reddit Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_alternatives) - Alternative Reddit Style Sites
@@ -1128,9 +1130,8 @@
 * [TitleScraper](https://titlescraper.herokuapp.com/) - See a Subreddits Most Upvoted Words 
 * [Upvote Stats](https://www.upvotestats.com/) - Upvote Stats
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) or [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
-* [Reddit CSE](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30) - Search Reddit by Topic 
 * [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System 
-* [Base64 Decoder](https://openuserjs.org/scripts/DanielBlaze/Reddit_Base64_Decoder) - Auto Decode Base64 Links in Reddit Reddit 
+* [Base64 Decoder](https://openuserjs.org/scripts/DanielBlaze/Reddit_Base64_Decoder) - Auto Decode Base64 Links in Reddit
 * [Reddit Status](https://www.redditstatus.com/) - Check Reddit Status 
 * [RedditOldRedesignedDark](https://github.com/Jorengarenar/RedditOldRedesignedDark) - Reddit Stylus Dark Theme
 * [Reddit Poetry](https://f-a-r-a-z.github.io/reddit-poetry/) - Reddit Title Poetry Generator
@@ -1536,7 +1537,7 @@ Twitch Stream Tracker
 * [ReSync](https://revsync.io/) - Sync Newletter Subs to Existing Tool
 * [ListCopy](http://projects.noahliebman.net/listcopy/connect.php) - Copy Twitter Lists 
 * [Twlets](http://twlets.com/) - Export Twitter Data 
-* [Twint](https://github.com/twintproject/twint) - Twitter Scraping / OSINT Tool
+* [Twint](https://github.com/twintproject/twint) or [TwitterScraper](https://github.com/taspinar/twitterscraper) - Twitter Scraping / OSINT Tool
 * [QuestionBox](https://peing.net/en/) - Anonymous Twitter Question Tool
 * [EmojiTracker](http://emojitracker.com/) - Real-Time Twitter Emoji Use 
 * [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) - Remove All Twitter Metrics
@@ -1555,6 +1556,7 @@ Twitch Stream Tracker
 * [Facebook Ad Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook) - Facebook Filters
 * [Social Tools](https://chrome.google.com/webstore/detail/facebook-block-read-recei/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) or [Unseen Message](https://chrome.google.com/webstore/detail/unseen-message/oapcfkclledjbalilncpoimgjgcndhdo) - Block "Sending" & "Seen" Facebook Chat Indicators 
 * [Messenger Dark Theme](https://github.com/jerry1100/messenger-dark-theme) or [Charcoal Dark Mode](https://chrome.google.com/webstore/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - Facebook Messenger Dark Mode
+* [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - Facebook Media Scraper
 * [Facedown](http://www.vincentcheung.ca/facedown/) - Facebook Image Downloader
 * [FDown](https://fdown.net/), [GetFVid](https://www.getfvid.com/) or [Facebook DL](https://github.com/sdushantha/facebook-dl) - Facebook Video Downloader
 * [Story Saver](https://chrome.google.com/webstore/detail/story-saver/mafcolokinicfdmlidhaebadidhdehpk) - Facebook Story Downloader
@@ -2123,7 +2125,7 @@ Twitch Stream Tracker
 * [filetree](https://github.com/roboyoshi/datacurator-filetree) - Data Filetree 
 * [Fucking weeb](https://github.com/cosarara/fucking-weeb) - Anime / TV File Library Manager
 * [Random Executor](https://sneakysnail.net/random-executor/) - Random File Executor 
-* [HeavenTools](http://www.heaventools.net/) - PE File Editor
+* [HeavenTools](http://www.heaventools.net/) or [XPEViewer](https://horsicq.github.iohttps://github.com/horsicq/XPEViewer) - PE File Editor
 * [AXEL](https://github.com/axel-download-accelerator/axel) - Lightweight CLI Download Accelerator 
 * [HxD](https://mh-nexus.de/en/hxd/), [Hex Works](https://hex-works.com/eng) or [Hexinator](https://hexinator.com/) - Hex Editor
 * [webhex.net](https://en.webhex.net/) - Online Hex Viewer
