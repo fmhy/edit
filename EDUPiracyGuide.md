@@ -56,7 +56,7 @@
 * [Class Central](https://www.classcentral.com/) - Search for Courses
 * [cs1000](https://cs1000.vercel.app/) - Educational Video 
 * [Topic Play](https://topicplay.com/) - Educational Videos
-* [media.ccc.de](https://media.ccc.de/) - Educational Presentations
+* [media.ccc.de](https://media.ccc.de/) or [SlidePlayer](https://slideplayer.com/) - Educational Presentations
 * UC Berkeley Webcast project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://lbry.tv/@UCBerkeley:d?) - Lectures
 * [iTunes U](https://wiki.archiveteam.org/index.php/ITunes_U) - Lectures
 * [Ted Talks](https://www.ted.com/) or [Adobe 99U](https://99u.adobe.com/talks) - Inspiring and Educational Talks
