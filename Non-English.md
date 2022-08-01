@@ -1822,7 +1822,7 @@
 * [khatrimazafull](https://khatrimazafull.show/) - Streaming / Download / Movies
 * [7MovieRulz](https://7movierulz.pe/) - Streaming / Movies
 * [7MovieRulz.es](https://7movierulz.es/) - Stream / Torrent / Movies / [Telegram](https://t.me/movierulztv)
-* [Movierulz](https://movierulzhd.bar/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
+* [Movierulz](https://movierulzhd.lol/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
 * [MovieRulz.art](https://movierulzlink.art/) - Streaming / Movies
 * [TamilRockers](https://www.tamilrockermovies.org/) - Streaming / Torrent / Movies
 * [HiidudeMoviez](https://ww1.4hiidude.me/) - Streaming / Torrent / Movies / [Telegram](https://telegram.me/hiidudemoviez)
