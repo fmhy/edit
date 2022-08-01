@@ -889,6 +889,7 @@
 * [Flags of the World](https://i.redd.it/lxtu47hf5ll51.jpg) - Worldwide Flag Map
 * [License Plates Map](https://i.redd.it/ue2r7cdb2s861.png) - License Plate Map
 * [European License Plate Map](https://i.redd.it/wcazzhjir8941.png) - European License Plate Map
+* [aprs.fi](https://aprs.fi/) - Google Maps APRS
 * [DarkSky](https://maps.darksky.net/), [satellite-map.gosur](https://satellite-map.gosur.com/), [MSN Weather Map](http://www.msn.com/en-us/weather/maps) or [Ventusky](https://www.ventusky.com/) - Weather Maps
 * [Windy](https://www.windy.com/) or [WebGL-Wind](https://mapbox.github.io/webgl-wind/demo/) - Wind Map 
 * [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
