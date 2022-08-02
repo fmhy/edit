@@ -209,7 +209,7 @@
 * [asciinema](https://asciinema.org/) - Terminal Recorder
 * [Electerm](https://electerm.github.io/electerm) - Terminal / SSH / STP Client
 * [Yakuake](https://apps.kde.org/yakuake/) - Quake Style Terminal Emulator
-* [theme.sh](https://github.com/lemnos/theme.sh) or [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - Custom Terminal Themes
+* [theme.sh](https://github.com/lemnos/theme.sh) or [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) / [2](https://github.com/stark/Color-Scripts) - Custom Terminal Themes
 * [atuin](https://github.com/ellie/atuin) - Shell History Management
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - Generate Bonsai Trees in Terminal
 * [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated Pipes in Terminal
@@ -464,13 +464,14 @@
 * [Adguard DNS](https://1fichier.com/?ef26ks4abjzct7o1k8os) - Adblocking Profile
 * [Lockdown Privacy](https://lockdownprivacy.com/) - Block Trackers / Ads
 * [Stronghold](https://github.com/alichtman/stronghold) - Mac Security Settings Terminal
-* [LuLu](https://objective-see.com/products/lulu.html) - Mac Firewall 
+* [LuLu](https://objective-see.com/products/lulu.html) - Mac Firewall
 * [Tracker Zapper](https://rknight.me/apps/tracker-zapper/) - Remove URL Tracking Elements
 * [FileVault](https://support.apple.com/en-us/HT204837) - Mac Disk Encryption 
 * [Code Signing](https://www.code-signing.app/) - Validate Code Signature
 * [OpenVPN](https://tunnelblick.net/) or [Passepartout](https://passepartoutvpn.app/) - VPN Tunnel
+* [V2rayU](https://github.com/yanue/V2rayU) - DIY Privacy Network
 * [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) - Privacy-Based Email Client
-* [spotify-adblock-macos](https://github.com/r1olo/spotify-adblock-macos) - Mac Spotify Adblocker
+* [spotify-adblock-macos](https://github.com/r1olo/spotify-adblock-macos) or [Mac_Spotify_Adblock](https://github.com/RDE3/Mac_Spotify_Adblock) - Mac Spotify Adblocker
 
 ***
 
