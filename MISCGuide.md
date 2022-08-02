@@ -249,6 +249,7 @@
 * [TheOnion](https://theonion.com/) - Fake New Articles 
 * [Tapology](https://www.tapology.com/) - Make MMA Fight Picks
 * [KongouCheats](https://kongoucheats.com/) or [Wimp.com](https://www.wimp.com/) - Watch Random Memes / Videos 
+* [GIFs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_gif_tools) - View / Download GIFs
 * [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [iFunny](https://ifunny.co/) or [Imageboard Scraper](https://nik.bot.nu/) - Images, Videos, Memes & GIFs / Some NSFW
 * [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
 * [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
@@ -373,7 +374,8 @@
 * [ClickToRemove](http://www.clicktoremove.com/) - Click to Remove Text
 * [Koalas to the Max](http://www.koalastothemax.com/) - Make Smaller & Smaller Dots
 * [RolePlayer](https://www.roleplayer.me/) - Roleplaying Social Network
-* [Myth Weavers](https://www.myth-weavers.com/) - Roleplaying Forum 
+* [Myth Weavers](https://www.myth-weavers.com/) - Roleplaying Forum
+* [Kalmany](https://www.kalmany.org/) - Mock Elections
 * [Websleuths](https://www.websleuths.com/) - Crime Solving Forum
 * [Translation Party](https://www.translationparty.com/) - Translation Parties
 * [The Editing Room](https://www.the-editing-room.com/) - Funny abridged movie scripts
@@ -528,6 +530,7 @@
 * [Pokémon Fusion](https://pokemon.alexonsager.net/) - Fuse Pokémon
 * [Poke Palettes](https://pokepalettes.com/) - Pokemon Color Palettes 
 * [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) - Terminal Pokemon Sprites
+* [PokeSmash](https://pokesmash.xyz/) - Pokemon Smash or Pass
 * [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - Terminal Color Scripts
 * [Awesome Chess](https://github.com/hkirat/awesome-chess) - Chess Resource Index  
 * [Awesome Go/Baduk/Weiqi](https://github.com/yanchick/awesome-GoBadukWeiqi) - Go/Baduk/Weiqi Resource Index 
@@ -615,7 +618,7 @@
 * [PublicAlerts](https://google.org/publicalerts) - Important News / Disaster Alerts
 * [Riot Archive](https://riotarchive.com/) - Riot / Protest Videos
 * [Corona Hunt](https://coronahunt.app/) - Coronavirus Stats
-* [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Ars Technica](https://arstechnica.com/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/), [Toms Hardware](https://www.tomshardware.com/) or [Slashdot](https://slashdot.org/) - Tech News
+* [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Ars Technica](https://arstechnica.com/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/), [Toms Hardware](https://www.tomshardware.com/), [Overclock3d](https://overclock3d.net/) or [Slashdot](https://slashdot.org/) - Tech News
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
 * [Liliputing](https://liliputing.com/) - Linux Mobile News
 * [BestHackerNews](http://besthackernews.herokuapp.com/) or [YCombinator](https://news.ycombinator.com/) / [Mobile](https://hackerwebapp.com/) - Hacker News 
@@ -857,7 +860,7 @@
 
 * **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Index
 * **[Satellite / Street View Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_satellite_.26amp.3B_street_view_maps)**
-* **[OpenStreetMap](https://www.openstreetmap.org/)**, [KartaView](https://kartaview.org/landing), [MapMania](https://www.mapmania.info/) or [Mapillary](https://www.mapillary.com/) - Street View Maps 
+* **[OpenStreetMap](https://www.openstreetmap.org/)** / [Search](https://nominatim.openstreetmap.org/ui/search.html ), [KartaView](https://kartaview.org/landing), [MapMania](https://www.mapmania.info/) or [Mapillary](https://www.mapillary.com/) - Street View Maps 
 * [Atlas Obscura](https://www.atlasobscura.com/) - Travel Maps & Guides
 * [Borderless](https://borderless.safetywing.com/) - Travel Restriction Map
 * [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Site Maps
@@ -1045,7 +1048,7 @@
 * [Cava's Pixel Resources](https://caveras.net/) - Pixel Fonts 
 * [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
 * [Make WordArt](https://www.makewordart.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generator
-* [3DText2GIF](https://3dtext2gif.com/) - Animated 3D Text Generator
+* [3DText2GIF](https://3dtext2gif.com/) or [TextsStudio](https://textstudio.co/) - Animated 3D Text Generator
 * [Batname](https://batname.vercel.app/) - Batman (2022) Font Generator
 * [Codeface](https://github.com/chrissimpkins/codeface) - Fonts for Coding 
 * [Metropolis](https://github.com/dw5/Metropolis) - Modern Typeface
@@ -1255,13 +1258,13 @@
 * [Crx4Chrome](https://www.crx4chrome.com/) - Alt Google App Store
 * [WebCRX](https://webcrx.io/) - Install Chrome CRX Files
 * [chrome-extensions](https://github.com/learn-anything/chrome-extensions) or [Chrome-Extension](https://github.com/harshita214/Chrome-Extension) - Chrome Extensions 
-* [NooBoss](https://ainoob.com/en/project/nooboss) - Chrome Extension Manager / Extra Features
+* [NooBoss](https://ainoob.com/en/project/nooboss) or [Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/cjghohmpcbkfadlcldfcjlnoacgggnoi) - Chrome Extension Manager / Extra Features
 * [ChromeStats](https://chrome-stats.com/) - Compare / Analyze Chrome Extensions
 * [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Add Extensions to Ungoogled Chromium 
 * [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - Quickly Enable / Disable Chrome Extensions
 * [CRX Viewer](https://github.com/Rob--W/crxviewer) - View Extension Source Code 
 * [Tabji](https://tabji.link/) or [MarvellousSuspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - Tab Suspender
-* [Darkness](https://chrome.google.com/webstore/detail/darkness-beautiful-dark-t/imilbobhamcfahccagbncamhpnbkaenm) - Dark Mode
+* [Darkness](https://chrome.google.com/webstore/detail/darkness-beautiful-dark-t/imilbobhamcfahccagbncamhpnbkaenm) or [Dark Mode Chrome](https://chrome.google.com/webstore/detail/dark-mode-chrome/pdhdailechlgicdgnmdbenhnappgobpp) - Dark Mode
 * [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - Picture-in-Picture Mode
 * [OVC](https://chrome.google.com/webstore/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - Video Controller
 * [Say Play](https://thanesh.dev/say-play) - Video Control Voice Commands
