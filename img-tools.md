@@ -62,7 +62,8 @@
 * [Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - Create Sketch from Anime
 * [Image Splitter](https://ruyili.ca/image-splitter/), [2](http://www.htmlkit.com/services/is/) - Split Images into Tiles
 * [ComicCompiler](https://github.com/bajuwa/ComicCompiler/) - Combine / Splice Webtoons
-* [Needs More JPEG](http://needsmorejpeg.com/) - Blur / Pixelize Images 
+* [Needs More JPEG](http://needsmorejpeg.com/) - Blur / Pixelize Images
+* [Color Transfer](https://www.dustfreesolutions.com/CT/CT.html) - Transfer Color Between Images
 * [PicFont](https://picfont.com/) - Add Text to Images
 * [Labellmg](https://github.com/tzutalin/labelImg) or [Acme Annotator](https://acme.com/annotator/) - Image Annotation 
 * [Face Merging](https://www.faceplusplus.com/face-merging/) or [MorphThing](https://www.morphthing.com/) - Face Merging Tool 
@@ -108,8 +109,9 @@
 * [Rough.js](https://roughjs.com/) - Create Graphics that look Hand-Drawn
 * [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [ICO Convert](https://www.icoconvert.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - Icon Generators
 * [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/), [Free Logo Maker](https://freelogomaker.net/) or [ACME](https://acme.com/labelmaker/) - Logo Creator 
-* [ArtFlow](http://artflow.ai/), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [react-nice-avatar](https://github.com/chilllab/react-nice-avatar) or [Avataaars](https://getavataaars.com/) - Face / Avatar Generator
-* [Random-Face-Generator](https://github.com/adityar224/Random-Face-Generator) - Face Generator 
+* [ArtFlow](http://artflow.ai/), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [react-nice-avatar](https://github.com/chilllab/react-nice-avatar) or [Avataaars](https://getavataaars.com/) - Face / Avatar Creator
+* [PixelMe](https://xsgames.co/pixelme/) - 8bit Avatar Creator
+* [Random-Face-Generator](https://github.com/adityar224/Random-Face-Generator) - Face Generator
 * [Mirro-Ai](https://mirror-ai.com/) - Get Stickers With Your Face
 * [EmojiMix](https://tikolu.net/emojimix) - Combine Emojis
 * [Emojination](https://www.emojination.io/) or [Ccclaymoji](https://fffuel.co/ccclaymoji/) - Emoji Graphic Generator
@@ -144,6 +146,8 @@
 * [BannerEasy](https://www.bannereasy.com) or [Bannery](https://bannery.app/) - Create Custom Banners
 * [SocialBanner](https://www.social-banner.live/) or [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Creator
 * [Thumbnail.ai](https://thumbnail.ai/) - Create Social Media Images from Blog Posts
+* [Postr](https://postr.me/) - Create Images from Social Media Posts
+* [Promoshot](https://promoshot.io/) - Create Images of Products
 * [ImageFu](https://www.imagefu.com/) - Button / Badge Creator
 * [Get Waves](https://getwaves.io/), [Wavelry](https://wavelry.vercel.app/), [SVGWave](https://svgwave.in/) / [GitHub](https://github.com/anup-a/svgwave) or [SVG Wave](https://www.softr.io/tools/svg-wave-generator) - Wave Generator
 * [Meta-Mapper](https://meta-mapper.com/) - Website Metadata Thumbnails
@@ -176,12 +180,13 @@
 ## ▷ GIF Tools
 
 * **[Awesome GIF](https://github.com/davisonio/awesome-gif)** - GIF Resource Index
+* [Giphy](https://giphy.com/), [gfycat](https://gfycat.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/), [reactiongifs](https://www.reactiongifs.us/), [reactiongifs](https://reactiongifs.me/), [gif-finder](https://gif-finder.com/), [reactiongifs](http://www.reactiongifs.com/), [bestanimations](https://bestanimations.com/), [Animations](https://bleuje.github.io/animationsite/), [gifimage](https://gifimage.net/) or [Animated Images](https://www.animatedimages.org/) - View / Download GIFs 
 * [Online GIF Tools](https://onlinegiftools.com/) - GIF Tools
-* [Giphy](https://giphy.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/), [reactiongifs](https://www.reactiongifs.us/), [reactiongifs](https://reactiongifs.me/), [gif-finder](https://gif-finder.com/), [reactiongifs](http://www.reactiongifs.com/), [bestanimations](https://bestanimations.com/), [Animations](https://bleuje.github.io/animationsite/), [gifimage](https://gifimage.net/) or [Animated Images](https://www.animatedimages.org/) - Download GIFs 
 * [EZGif](https://ezgif.com/), [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFMemes](https://gifmemes.io/), [gifexplosion](https://gifexplosion.com/app.php), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/), [Pixteller](http://pixteller.com/) or [Gif Maker](https://gifmaker.me/) - GIF Creator / Editor
 * [GIF Explode](https://gif-explode.com/) - Split GIFs Into Frames
 * [gifify](https://github.com/vvo/gifify) - Video to GIF Converter
-* [GifRun](https://gifrun.com/) - Make GIFs From Online Videos
+* [GifRun](https://gifrun.com/) - Make GIFs from Online Videos
+* [Sergif](https://sergif.ultirequiem.com/) - Make GIFs from Webcam Videos
 * [UnFREEz](http://www.whitsoftdev.com/unfreez/) - Make GIFs From Images
 * [Viphy](https://viphy.typestudio.co/) - Generate GIF From Text
 * [ScreenToGif](https://www.screentogif.com/) or [Peek](https://github.com/phw/peek) - GIF Recorder
@@ -284,7 +289,7 @@
 * [Placeit](https://placeit.net/) - Image Templates
 * [Crello](https://crello.com/) - Image Templates / Editor
 * [Kemono](https://kemono.party/) - Patreon Content / Some NSFW / Use Adblock
-* [Worldvectorlogo](https://worldvectorlogo.com/), [PNGGrid](https://pnggrid.com/), [Logos & Badges Bundle](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_logos_.26amp.3B_badges_bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [logospire](http://logospire.com/), [logotalkz](http://www.logotalkz.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
+* [Worldvectorlogo](https://worldvectorlogo.com/), [PNGGrid](https://pnggrid.com/), [Logos & Badges Bundle](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_logos_.26amp.3B_badges_bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [logospire](http://logospire.com/), [logotalkz](http://www.logotalkz.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logotouse](https://www.logotouse.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles
 * [Replacement Sky](https://replacement-sky.com/) - Skies for Photoshop
 * [AmbientCG](https://ambientcg.com/), [Lost and Taken](https://lostandtaken.com/), [3D textures](https://icons8.com/l/3d-textures/), [Textureking](https://www.textureking.com/), [Texture Labs](https://texturelabs.org/), [Transparent Textures](https://www.transparenttextures.com/), [Texture Club](https://www.sketchuptextureclub.com/) or [Texture Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_texture_collection) - Download Textures
@@ -310,6 +315,7 @@
 * [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_models) - 3D Model Download Sites
 * [Anaglyph Maker](https://www.stereoeye.jp/software/index_e.html) - Make 3D Images
 * [Vectary](https://www.vectary.com/) - Online 3D Image Editor
+* [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
 * [3DThis](https://3dthis.com/) - 3D Animation Tools 
 * [PaintUp](http://technohippy.github.io/teddyjs/) - Make 2D Art Into 3D
 * [Thingiverse](https://www.thingiverse.com/), [Yeggi](https://www.yeggi.com/) or [YouImagine](https://www.youmagine.com/) - 3D Printer Models 
@@ -326,6 +332,7 @@
 * [Figurosity](https://figurosity.com/) - Human 3D Models
 * [Armorpaint](https://armorpaint.org/) - 3D Painting
 * [ZBrush](https://zbrushcore.com/mini/) - 3D Sculpting
+* [ModelViewer](https://modelviewer.dev/) - 3D Model Viewer
 * [Assemblr](https://www.assemblrworld.com/) - Augmented Reality Image Creator
 * [MeshLab](https://www.meshlab.net/) - 3D Mesh Processing / [GitHub](https://github.com/cnr-isti-vclab/meshlab)
 * [CadHub](https://cadhub.xyz/) - Community Hub for CAD Projects
@@ -340,6 +347,7 @@
 * [The Blueprints](https://www.the-blueprints.com/) - Blueprints Database
 * [ORBION](https://github.com/FaqT0tum/Orbion_Space_Mouse) - DIY 3D Image Mouse
 * [TensoRF](https://github.com/apchenstu/TensoRF) - Model / Reconstruct Radiance Fields
+* [Ninja Ripper](https://kemono.party/patreon/user/45591569) / [2](https://gamebanana.com/tools/5638) / [3](https://0curtain0.github.io/ninja_ripper.html) - Extract 3D Models from Games
 
 ***
 
