@@ -142,6 +142,7 @@
 * **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites & Apps
 * [File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools) - Tools to Share / Sync Files
 * [XDA](https://forum.xda-developers.com/) - Android Discussion Forum
+* [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
 * [W10M Group](https://w10mgroup.github.io/) - Mobile Windows Tech Support
 * [Maemo](https://talk.maemo.org/) - Maemo OS Discussion / [Wiki](https://wiki.maemo.org/) / [Telegram](https://t.me/maemomeego), [2](https://t.me/meegoosinternational)
 * [SymbianOS](https://t.me/symbianos) - Symbian OS Discussion
@@ -425,6 +426,7 @@
 * [Bypass Aurora Hardware & Geo Restricted Limits](https://youtu.be/L5RrtxQUtVE)
 * [Aptoide](https://aptoide.com/) - Alt App Store
 * [AC-Market](https://ac-market.org/) - Alt App Store
+* [Skydroid](https://github.com/redsolver/skydroid) - Alt App Store
 * [Fossapps Creator](https://un.pixel-fy.com/) - Fossapps Package Creator / [GitHub](https://github.com/wacko1805/Fossapps-creator)
 * [Android Zone](https://android-zone.ws/) - Forum
 * [Android App](https://techy-transistor.notion.site/5359aca6d9494ed893e57823f55499e5?v=4a68e3958c1b443fa61e25c87f96d384) - Untouched
