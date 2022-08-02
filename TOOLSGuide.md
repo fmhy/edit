@@ -104,7 +104,7 @@
 * [TemplateMaker](https://www.templatemaker.nl/) - Package & Box Templates
 * [WebQR](https://www.webqr.com/) - QR Code Scanner
 * [QR Tiger](https://www.qrcode-tiger.com/), [QRCodeMonkey](https://www.qrcode-monkey.com/), [Logaster](https://www.logaster.com/qr-code-generator/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - QR Code Creator
-* [My-Qr.art](https://my-qr.art/) - Custom QR Code Creator 
+* [My-Qr.art](https://my-qr.art/) or [qrcode-generator](https://www.logodesign.net/qrcode-generator) - Custom QR Code Creator 
 * [QRpicture](https://www.qrpicture.com/) - Picture to QR Code Converter 
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
 * [findhelp.org](https://www.findhelp.org/) - Find Assistive Programs
@@ -121,7 +121,7 @@
 * **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_office_suites)** - Office Suite Software
 * [Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pastebins) - Paste / Store Text Online
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
-* [PrivNote](https://privnote.com/) - Self Destructing Text
+* [WriteURL](https://www.writeurl.com/) - Collaborative Text Editor
 * [GhostText](https://ghosttext.fregante.com/) - Use Text Editor in Browser
 * [Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - Note Taking & To-do Apps
 * [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - Calendar & Scheduling Tools
@@ -188,7 +188,7 @@
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
 * [Buffered.link](https://buffered.link/) - Share Text Between Devices
 * [Baserow](https://gitlab.com/bramw/baserow), [Framacalc](https://accueil.framacalc.org/en/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheet
-* [TinySheet](https://tinysheet.com/) or [LuckysheetDocs](https://mengshukeji.github.io/LuckysheetDocs/) - Online Spreadsheets
+* [TinySheet](https://tinysheet.com/), [Gnumeric](http://www.gnumeric.org/), [EtherCalc](https://ethercalc.net/) or [LuckysheetDocs](https://mengshukeji.github.io/LuckysheetDocs/) - Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
 * [Diagram.codes](https://www.diagram.codes/) - Convert Text to Diagrams
 * [Watson](https://speech-to-text-demo.ng.bluemix.net/), [Dictation](https://dictation.io/speech), [SpeechTexter](https://www.speechtexter.com/), [ConvertSpeech](https://www.convertspeech.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
@@ -328,6 +328,7 @@
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
 * [OpenToonz](https://opentoonz.github.io/e/), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - Animation Tools
 * [Animaker](https://www.animaker.com/) - Animated Video Creator
+* [Reaktr](https://reaktr.vercel.app/) - Music Video Creator
 * [AMV101](https://www.amv101.com/) - Animated Music Video Making Guides
 * [Unreal Engine](https://www.unrealengine.com/), [SketchUp](https://www.sketchup.com/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
@@ -355,6 +356,7 @@
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-Ray Ripping
 * [DVDFab](https://www.dvdfab.cn/free.htm) - Free DVD Related Programs 
 * [h265ize](https://github.com/FallingSnow/h265ize) - HEVC Encoder / [Enhanced](https://github.com/alextrv/enhanced-h264ify) 
+* [hdr10plus_tool](https://github.com/quietvoid/hdr10plus_tool) - HDR10+ CLI Utility
 * [Monzoom](https://www.monzoom.com/) - Video Assets
 * [MovieTools](https://movietools.info/) - Video Backgrounds
 * [Unscreen](https://www.unscreen.com/), [Remove Video Background](https://socialbook.io/remove-video-background) or [Remove Video BG](https://bgrem.deelvin.com/remove_video_bg/) - Remove Video Background 
@@ -368,7 +370,7 @@
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - Nico Nico Video Player
 * [polsy.org.uk](http://polsy.org.uk/) - Alt Players for Video Sites  
 * [After Effects Templates](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_after_effects_templates) - Download After Effect Templates
-* [FootageCrate](https://footagecrate.com/), [MATESFX](https://www.freevideoeffect.com/), [FreeVideoEffect](https://freevideoeffect.com/), [IntroHD](https://www.introhd.net/), [VFXmed](https://www.vfxmed.com/) or [VFXDownload](https://www.vfxdownload.net/) - Video Effects
+* [FootageCrate](https://footagecrate.com/), [MATESFX](https://www.freevideoeffect.com/), [FreeVideoEffect](https://freevideoeffect.com/), [VideoCoPilot](https://www.videocopilot.net/), [IntroHD](https://www.introhd.net/), [VFXmed](https://www.vfxmed.com/) or [VFXDownload](https://www.vfxdownload.net/) - Video Effects
 * [Tyle](https://tyle.io/) - Photo Slideshow Video Maker
 * [Rollideo](https://rollideo.com/) - Text to Speech / Subtitles
 * [video2x](https://github.com/k4yt3x/video2x) - Video Upscaler
@@ -458,7 +460,7 @@
 * [Gelli](https://github.com/dkanada/gelli) - Jellyfin Music Player 
 * [Sonixd](https://github.com/jeffvli/sonixd) - Subsonic/Jellyfin Compatible Desktop Music Player
 * [HZP](https://hzplayer.com/) - Solfeggio Frequency Player
-* [Butterchurn Visualizer](https://butterchurnviz.com/), [Sonic Visualizer](https://www.sonicvisualiser.org/), [MusicVid](https://musicvid.org/), [Project M](https://github.com/projectM-visualizer/projectm), [Vizzy](https://vizzy.io/) or [Specterr](https://specterr.com/) - Audio Visualizers
+* [Butterchurn Visualizer](https://butterchurnviz.com/), [Sonic Visualizer](https://www.sonicvisualiser.org/), [MusicVid](https://musicvid.org/), [Project M](https://github.com/projectM-visualizer/projectm), [Vizzy](https://vizzy.io/), [CatNip](https://github.com/noriah/catnip) or [Specterr](https://specterr.com/) - Audio Visualizers
 * [PartyEngine](https://aggrocrab.itch.io/partyengine) - Audio Party Visualizer 
 * [brahms](https://github.com/Wulfheart/brahms) - MIDI Audio Visualizer 
 * [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels 
@@ -525,7 +527,7 @@
 * [MP3Food](https://mp3food.com/) - Online Audio Cutter / Merger
 * [The Trimmer Bot](https://t.me/The_Trimmer_bot) - Video Trimmer Telegram Bot
 * [ShortApp](https://shortsapp.com/) - Cut Video / Audio into Shorts 
-* [lalal.ai](https://www.lalal.ai/), [Flacon](https://flacon.github.io/) or [SongDonkey](https://songdonkey.ai/) - Audio Track Splitter 
+* [lalal.ai](https://www.lalal.ai/), [MP3CutterPro](https://mp3cutterpro.com/), [Flacon](https://flacon.github.io/) or [SongDonkey](https://songdonkey.ai/) - Audio Track Splitter 
 * [ISSE](http://isse.sourceforge.net/) - Source Separation Editor
 * [BeatMachine](https://beatmachine.branchpanic.me/) - Tempo Editor
 * [Get Song BPM](https://getsongbpm.com/) - Song Tempo Database
@@ -712,14 +714,13 @@
 * [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - Archive, Scrape & Crawl Sites 
 * [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/), [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/) or [FollowThatPage](https://followthatpage.com/) - Page Change Detection / Notification 
 * [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires 
-* [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - Check which IPFS Gateways are online 
-* [lew.la](https://lew.la/) - Reddit video DL, YT to MP3 & More Tools 
+* [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - Check which IPFS Gateways are Online 
 * [SocialBlade](https://socialblade.com/) - Social Media Stats
 * [LiveCounts](https://livecounts.io/) - Live Social Media Stats
 * [Post Generator](https://postgenerator.online/) - Convert Article to Social Media Post
 * [Cloaking Company](https://www.cloakingcompany.com/) - Create Alogorith Pleasing Social Media Posts
 * [4stats](https://4stats.io/) - 4chan Board & Thread Stats
-* [Emotes Everywhere](https://kellphy.com/projects/kee.html), [GenieEmoji](https://github.com/virejdasani/Geniemoji) or [Geniemoji](https://virejdasani.github.io/Geniemoji/) - Emoji Manager
+* [Emotes Everywhere](https://kellphy.com/projects/kee.html), [GenieEmoji](https://github.com/virejdasani/Geniemoji), [winMoji](https://www.winmoji.com/) or [Geniemoji](https://virejdasani.github.io/Geniemoji/) - Emoji Manager
 * [Emojipedia](https://emojipedia.org/) or [GetEmoji](https://getemoji.com/) - Emoji Index
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
@@ -983,12 +984,11 @@
 
 ## ▷ URL Tools
 
+* **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)** - URL Encoding / Decoding Tools
 * **[Flagfox](https://flagfox.wordpress.com/)** - Displays Country's Flag on Sites / [Adds Many URL Tools](https://i.imgur.com/zDaLZxC.png)
-* **[URL Unshorteners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_url_unshorteners)** - Check where a shortened URL leads to
+* **[Check if Sites are Down](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_down_site_checkers)** - Site Availability Checkers
+* **[URL Unshorteners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_url_unshorteners)** - Unmask Shortened URLs
 * **[Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Wiki URL Shortener
-* **[Check if Sites are Down](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_down_site_checkers)** - Check if a site is down for just you or everyone 
-* **[Universal Encoding Tool](https://unenc.com/)** - Encoding / Decoding Tools
-* **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)**, [Base64 E/D](https://apps.maximelafarie.com/base64/), [Encode/Decode](https://toolbox.googleapps.com/apps/encode_decode/) or [URL Encode/Decode](https://www.url-encode-decode.com/) - Base64 Encode and Decode / [Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_base64_decode_extensions) / [AES-256](https://secretmessages.online/), [2](https://encipher.it/) / [UTF8](https://onlineutf8tools.com/)
 * **[t.ly](https://t.ly/)** - `t.ly/qqH6`
 * **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
 * [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
@@ -1454,6 +1454,7 @@ Twitch Stream Tracker
 * [Points Autoclicker](https://github.com/xinitrc-dev/twitch-points-autoclicker) - Auto Claim Twitch Points
 * [Twitch Previews](https://github.com/MarkM-dev/Twitch-Previews) - Twitch Video Previews
 * [Featured.chat](https://featured.chat/) - Twitch Chat Manager
+* [JChat](https://www.giambaj.it/twitch/jchat/) - Show Twitch Chat on Screen
 * [TwitchRSS](https://twitchrss.appspot.com/) - Twitch RSS Generator
 * [7TV](https://7tv.app/ ) - Twitch Emotes Extension
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink 
@@ -1592,7 +1593,7 @@ Twitch Stream Tracker
 * [PCPartPicker](https://pcpartpicker.com/), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), [/r/buildapc](https://reddit.com/r/buildapc) / [Discord](https://discord.gg/TmNgXbwrqJ), [Build Redux](https://buildredux.com/), [CGDirector](https://www.cgdirector.com/pc-builder/) or [NZXTBld](https://www.letsbld.com/) - PC Building Sites / [Discord](https://discord.gg/buildapc)
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC)  - PC Suggestion Community
-* [/r/PCMasterrace Wiki](https://www.reddit.com/r/pcmasterrace/wiki/builds/), [/r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [Logical Increments](https://www.logicalincrements.com/) - PC Building Guides
+* [/r/PCMasterrace Wiki](https://www.reddit.com/r/pcmasterrace/wiki/builds/), [/r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [Logical Increments](https://www.logicalincrements.com/) - PC Building Guides / [Video](https://youtu.be/BL4DCEp7blY)
 * [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Laptop Deals](https://laptopsdeals.net/our-gaming-laptops-guide-list/), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
 * [r/TechSupport](https://www.reddit.com/r/techsupport/), [Windows 10 Forums](https://www.windowsphoneinfo.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/) or [Notebook Reviews](http://forum.notebookreview.com/) - Tech Support / [Discord](https://discord.gg/2EDwzWa) / [Wiki](https://rtech.support/books/)
 * [GetHuman](http://gethuman.com/) or [ContactFound](https://contactfound.com/) - Tech Support Numbers
@@ -1890,7 +1891,6 @@ Twitch Stream Tracker
 * [How-To Make Microsoft Activation Server](https://mananapr.github.io/microsoft_activation.html) 
 * [Technical Documentation](https://docs.microsoft.com/en-us/documentation/) - Microsoft Technical Documentations
 * [DIY Laptop](https://www.olimex.com/Products/DIY-Laptop/) - Build a Laptop
-
 * [TeslaMotors](https://github.com/teslamotors) - Tesla System Repositories
 
 ***
@@ -2052,6 +2052,7 @@ Twitch Stream Tracker
 * [gd-utils](https://github.com/roshanconnor123/gd-utils) / [2](https://nenokkadine.github.io/GD-Utils/) or [Bypass-GDrive](https://yuudrive.me/tools/bypass-gdrive) - Google Drive Limit Bypass 
 * [G-Index](https://github.com/LeeluPradhan/G-Index), [Zyndex](https://zyndex.tk/), [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/cheems/goindex-extended) / [Themes](https://install.kenci.workers.dev/), [GDI](https://github.com/anymeofu/GDI), [GDIndex](https://github.com/maple3142/GDIndex), [libDrive](https://github.com/libDrive/heroku) or [gdrive-index](https://github.com/alx-xlx/gdrive-index) - Google Drive Index
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
+* [Extract_Zip](https://colab.research.google.com/drive/1L74g3bsV0YEMbDSUj4Kxrwi26mgjxVpp?usp=sharing) - Extract Zip Files in GDrive
 * [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive 
 * [CloneBot](https://github.com/MsGsuite/CloneBot_Heroku) - Copy GDrive to TeamDrive
 * [Copy Google Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_copy_google_drives) - Make GDrive Copies 
@@ -2085,7 +2086,7 @@ Twitch Stream Tracker
 * [FolderClone](http://www.folderclone.com/) - Clone / Backup Folders
 * [File Backup Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_backup_tools) - File / Data Backup Tools
 * [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) or [filebrowser](https://github.com/filebrowser/filebrowser/) - Web File Browser
-* [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/) or [Securedrop](https://securedrop.org/) - Document File Sharing
+* [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/), [iStockFile](http://istockfile.com/ ) or [Securedrop](https://securedrop.org/) - Document File Sharing
 * [OpenPaper](https://openpaper.work/en/) or [DataShare](https://datashare.icij.org/) - Document Manager
 * [Browsemonkey](https://github.com/shukriadams/browsemonkey) - Take Snapshots of File Systems 
 * [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - GDrive Guide 
