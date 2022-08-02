@@ -31,6 +31,7 @@
 * [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - Movies / TV
 * [Movies.cf](https://movies.cf/Landing) - Movies 
 * [Tubi](https://tubitv.com) - Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
+* [Plex](https://watch.plex.tv/) - Movies / TV
 * [arthemis](https://web.arthemis.xyz/) - Movies / TV / Anime / App / [Discord](https://discord.gg/98HxbfjKQV)
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime
 * [NetU](https://netu.io/view_page.php?pid=4) - Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)
@@ -78,11 +79,11 @@
 * [Kanopy](https://kanopy.com/) - Movies / TV / Library Card Required 
 * [PopcornFlix](https://www.popcornflix.com/) - Movies / TV
 * [Crackle](https://www.crackle.com/) - Movies / TV
-* Peacock - [Movies](https://www.peacocktv.com/stream/movies) / [TV](https://www.peacocktv.com/stream/tv) / [Kids](https://www.peacocktv.com/stream/kids)
 * [Freevee](https://www.amazon.com/adlp/freevee-about) - Movies / TV
 * [ShoutFactoryTV](https://www.shoutfactorytv.com/) - Movies / TV 
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV
 * [Pluto](http://pluto.tv/on-demand) - Movies / TV
+* Peacock - [Movies](https://www.peacocktv.com/stream/movies) / [TV](https://www.peacocktv.com/stream/tv) / [Kids](https://www.peacocktv.com/stream/kids)
 * [Vudu](https://www.vudu.com/) - Movies / TV
 * [Playary](https://www.playary.com/) - Movies / TV
 * [Fawesome](https://fawesome.tv/) - Movies / TV
@@ -480,7 +481,8 @@
 * [Touchcric](https://mob.touchcric.com/) - Sports
 * [fromHOT](http://www.fromhots.com/) - Sports
 * [DaddyLive](https://daddylive.me/) - Sports
-* [Volokit](https://community.volokit.com/) - Sports 
+* [Volokit](https://community.volokit.com/) - Sports
+* [StreamOnFoot](https://streamonfoot.xyz/) - Sports
 * [StrikeOut](https://ko.strikeout.cc/) - Sports
 * [BestSolaris](http://bestsolaris.com/) - Sports
 * [Strumyk](http://strumyk.tv/) - Sports
@@ -1005,15 +1007,16 @@
 * [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - Plex Subtitles 
 * [Subshifter](https://subshifter.bitsnbites.eu/), [subsync](https://github.com/sc0ty/subsync), [ffsubsync](https://github.com/smacke/ffsubsync), [Alass](https://github.com/kaegi/alass), [autosubsync](https://github.com/oseiskar/autosubsync) or [subslider.js](https://github.com/micheleb/subslider.js) / [2](https://micheleb.github.io/subslider.js/) - Sync Subtitles 
 * [SubtitleDLbot](https://t.me/SubtitleDLbot) or [subtitle_dl_bot](https://t.me/subtitle_dl_bot) - Telegram Subtitles Bot 
-* [MuxedBot](https://t.me/MuxedBot) - Merge Subtitles / Telegram 
+* [MuxedBot](https://t.me/MuxedBot) - Merge Subtitles / Telegram
 * [vlsub](https://github.com/exebetche/vlsub) - VLC Subtitle Download 
 * [asstosrt-wasm](https://sorz.github.io/asstosrt-wasm/) - ASS / SSA to SRT Subtitles Converter 
 * [RenameThemSubs](https://github.com/Eshaan7/RenameThemSubs) - Rename Sub Files to match Video 
 * [pyTranscriber](https://github.com/raryelcostasouza/pyTranscriber), [Auto-Subtitle](https://www.veed.io/auto-subtitle) or [autosub](https://github.com/agermanidis/autosub), [2](https://github.com/BingLingGroup/autosub) - Subtitle Generator 
 * [CCaptioner](https://github.com/gorhill/ccaptioner) - Add Subtitles to Videos / Extension 
 * [subtitle.js](https://github.com/gsantiago/subtitle.js) - Parse and manipulate SRT (SubRip)
-* [TranslatesSubtitles](https://translatesubtitles.com/) or [SubtitleTranslate](https://github.com/mepeichun/SubtitleTranslate) - Translate Subtitles 
-* [DualSub](https://github.com/bonigarcia/dualsub) - Bilingual subtitles maker  
+* [TranslatesSubtitles](https://translatesubtitles.com/) or [SubtitleTranslate](https://github.com/mepeichun/SubtitleTranslate) - Translate Subtitles
+* [subtitle_tonemap](https://github.com/quietvoid/subtitle_tonemap) - Map PGS Subs to Different Color / Brightness
+* [DualSub](https://github.com/bonigarcia/dualsub) - Bilingual Subtitles Maker  
 * [SaveSubs](https://www.savesubs.com/) - Extract Subtitles from Online Videos 
 * [PlayPhrase](https://github.com/kelciour/playphrase) - Subtitle Phrase Search
 * [Sushi](https://github.com/tp7/Sushi) - Automatic Subtitle Shifter Based on Audio 
