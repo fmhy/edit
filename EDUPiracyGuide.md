@@ -337,6 +337,7 @@
 * [BetterExplained](https://betterexplained.com/) - Math / Guides / Courses 
 * [IXL Learning](https://au.ixl.com/math/) - Math Practice / Quizzes
 * [ParkMath](https://parkmath.github.io/) - Math Guides
+* [FreeMathHelp](https://freemathhelp.com/) - Math Guides
 * [Math Exercises](http://www.math-exercises.com/) or [MathBitsNotebook](http://mathbitsnotebook.com/) - Math Practice
 * [Pauls Online Math Notes](https://tutorial.math.lamar.edu/) - Math Practice / Guides
 * [Math2.org](http://math2.org/) - Math Guides
