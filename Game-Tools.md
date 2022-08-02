@@ -80,7 +80,7 @@
 * [The Spriters Resource](https://www.spriters-resource.com/) - Video Game Sprites
 * [MiiCharacters](http://www.miicharacters.com/) - Famous Mii Creation Guides
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic The Gathering Card Scans
-* [Random Dice](http://www.dicesimulator.com/) - Dice Simulator
+* [Random Dice](http://www.dicesimulator.com/) or [Google Dice](https://g.co/kgs/fVJuzq) - Dice Simulator
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
 * [Score7](https://score7.io/) - Tournament Creator / Manager
 * [KeepTheScore](https://keepthescore.co/) - Leaderboard Creator
@@ -237,6 +237,7 @@
 * [Get DLC from SteamDB](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837)
 * [Steamworkshop.download](http://steamworkshop.download/), [Workshop Downloader](https://4hub.info/workshop-downloader/) or [steam-workshop-downloader](https://gramvio.com/steam-workshop-downloader/) - Steam Workshop File Downloaders
 * [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop Implementation of Steam's Mobile Authenticator 
+* [Steam Python](https://github.com/ValvePython/steam) - Interact with Steam via Python
 * [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - Steam Card Automation 
 * [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager 
 * [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) / [2](https://steamid.uk/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup 
@@ -330,11 +331,13 @@
 * [CraftyControl](https://craftycontrol.com/) or [Fork](https://www.fork.gg/) - Minecraft Server Manager
 * [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - Minecraft Server Info
 * [MCStalker](https://discord.gg/CB78nDfBeQ) - Minecraft Whitelist Enforcement Tool
+* [NameMC](https://namemc.com/) - Minecraft Name Availability Tracker
 * [GeyserConnect](https://www.geyserconnect.net/) - Connect Minecraft Bedrock to Java Servers
 * [2Bored2Wait](https://github.com/themoonisacheese/2bored2wait) - 2B2T Queue Proxy
 * [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization:zap:.283181/), [paper-optimization](https://eternity.community/index.php/paper-optimization/) or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Minecraft Server Optimization Guides
 * [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
-* [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server
+* [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server 
+* [TopMinecraftServers](https://topminecraftservers.org/) - List of Minecraft Servers
 * [Salwyrr Launcher](https://www.salwyrr.com/) or [MultiMC5-Cracked](https://github.com/AfoninZ/UltimMC) - Free Premium Minecraft Launchers
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Minecraft Modding API 
 * [PVPRP](https://pvprp.com/) - Minecraft Texture Packs
