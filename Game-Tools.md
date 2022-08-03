@@ -334,7 +334,7 @@
 * [NameMC](https://namemc.com/) - Minecraft Name Availability Tracker
 * [GeyserConnect](https://www.geyserconnect.net/) - Connect Minecraft Bedrock to Java Servers
 * [2Bored2Wait](https://github.com/themoonisacheese/2bored2wait) - 2B2T Queue Proxy
-* [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization:zap:.283181/), [paper-optimization](https://eternity.community/index.php/paper-optimization/) or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Minecraft Server Optimization Guides
+* [paper-optimization](https://eternity.community/index.php/paper-optimization/) or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Minecraft Server Optimization Guides
 * [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
 * [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server 
 * [TopMinecraftServers](https://topminecraftservers.org/) - List of Minecraft Servers
