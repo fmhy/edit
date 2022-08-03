@@ -2506,7 +2506,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### TikTok Video Downloaders
 
-[SnapTik](https://snaptik.app/), [RipTok](https://github.com/adamsatyr/RipTok), [TikMate](https://www.tikmate.online/), [TikTokFull](https://tiktokfull.com/), [TokDer](https://tokder.org/), [Tik.fail](https://tik.fail/), [tikmate](https://tikmate.app/), [tikfast](https://tikfast.net/), [SaveTT](https://savett.cc/), [ssstikvideo](https://www.ssstikvideo.com/, [tiktok-scrape](https://github.com/drawrowfly/tiktok-scrape)
+[SnapTik](https://snaptik.app/), [RipTok](https://github.com/adamsatyr/RipTok), [TikMate](https://www.tikmate.online/), [TokDer](https://tokder.org/), [tikmate](https://tikmate.app/), [tikfast](https://tikfast.net/), [SaveTT](https://savett.cc/), [ssstikvideo](https://www.ssstikvideo.com/, [tiktok-scrape](https://github.com/drawrowfly/tiktok-scrape)
 
 ***
 
