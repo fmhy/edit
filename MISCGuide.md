@@ -34,7 +34,7 @@
 * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
 * [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - Piracy Index
 * [Similar Sites](https://www.similarsites.com/), [SimilarWeb](https://www.similarweb.com/), [xRanks](https://xranks.com/), [similarsitesearch](https://www.similarsitesearch.com/), [TopSimilarSites](https://www.topsimilarsites.com/), [SuchSites](https://suchsites.com/), [MoreOfIt](http://www.moreofit.com/), [Sitelike.org](https://www.sitelike.org/) or [SitesLike](https://www.siteslike.com/) - Find Similar Sites
-* [DirtyWarez](https://dirtywarez.org/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
+* [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
 * [10 Words](https://discover.10words.io/) - App / Tool Discovery
 * [pilssken](https://pilssken.neocities.org/warez/) - Piracy Index 
 * [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - Piracy Index / [Warning](https://i.imgur.com/jtT9GDB.png)
