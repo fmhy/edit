@@ -82,7 +82,7 @@
 * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) / [Git](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - Incognito Keyboard
 * [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) or [Xandroid](https://github.com/XndroidDev/Xndroid) - Proxy
 * [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - Shadowsocks Proxy Client
-* [Sagernet](https://sagernet.org/) - Proxy Tools
+* [Sagernet](https://sagernet.org/) or [Matsuri](https://github.com/MatsuriDayo/Matsuri) / [2](https://f-droid.org/packages/moe.matsuri.lite/) - Proxy Toolchains
 * [Privacy Indicator](https://f-droid.org/packages/com.nitish.privacyindicator/), [2](https://play.google.com/store/apps/details?id=com.nitish.privacyindicator), [AntiStalker](https://www.mallocprivacy.com/), [Vigilante](https://f-droid.org/en/packages/com.crazylegend.vigilante/) or [Access Dots](https://play.google.com/store/apps/details?id=you.in.spark.access.dots) - Camera / Mic Access Indicator 
 * [CamWings](https://schiffer.tech/camwings-mobile.html) - Camera Protection 
 * [PubPhoto](https://github.com/stuartlangridge/pubphoto) - Share Photos without Sharing Number
@@ -328,7 +328,7 @@
 * [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - Fix OLED Images
 * [sh-ort](https://sh-ort.app/) - URL Shortener
 * [RClone](https://github.com/x0b/rcx) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Manager
-* [Omega Launcher](https://github.com/otakuhqz/omega), [SmartLauncher](https://www.smartlauncher.net/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_smartlauncher_pro), [Lawnchair](https://lawnchair.app/), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [ActivityLauncher](https://github.com/butzist/ActivityLauncher), [Smart Dock](https://github.com/axel358/smartdock), [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher), [Unlauncher](https://github.com/jkuester/unlauncher) or [Ratio](https://blloc.com/) - App Launcher 
+* [App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers) - Android App Launchers
 * [QuickSwitch](https://github.com/skittles9823/QuickSwitch) - Enable Quickstep in Launchers 
 * [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) / [2](https://www.apkmirror.com/apk/aurora-oss/warden/) - App Managers
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement
@@ -549,7 +549,7 @@
 * [Aero Apps](https://t.me/aerolla) - Modded Social Media Apps
 * [Rikka Apps](https://rikka.app/) - Free Apps
 * [Paget96 Project](https://www.paget96projects.com/) - Free Apps
-* [FossDroid](https://fossdroid.com/) - Open source apps / [/r/fossdroid](https://reddit.com/r/fossdroid)
+* [FossDroid](https://fossdroid.com/) - Open Source Apps / [/r/fossdroid](https://reddit.com/r/fossdroid)
 * [Moderse](https://t.me/Moderse) - Android Apk Telegram Channel by well known modder - Stabiron
 * [DedoMil](http://dedomil.net/) - Java Mobile Games
 * [evozi](https://apps.evozi.com/apk-downloader), [GPlayCLI](https://github.com/matlink/gplaycli) or [APK Downloader](https://apk.support/apk-downloader) - Download Google Play APKs
@@ -565,6 +565,7 @@
 * [OpenRepos](https://openrepos.net/) - Harmattan / Sailfish OS Apps
 * [N9Downloads](http://n9downloads.blogspot.com/search/label/Applications) - Harmattan OS Apps
 * [App filter](https://appfilter.net/) - Play Store Advanced Search
+* [Show Apps Like](https://showappslike.com/) - Similar App Search
 * [AppAnnie](https://www.appannie.com/en/apps/google-play/top/) - Top App Downloads
 * [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - App Giveaway Sites
 * [APK Generator](https://play.google.com/store/apps/details?id=com.aksapps.apkgenerator) or [APK Saver](https://play.google.com/store/apps/details?id=com.sdkdevelopers.apksaver) - Save APK File for Installed Apps
@@ -628,6 +629,7 @@
 * [Neko](https://github.com/CarlosEsco/Neko) - Manga Reader
 * [Manga Tag](https://www.mangatag.com/) - Manga Reader
 * [Meow](https://github.com/neverfelly/Meow) - Manga Reader
+* [Kinoko](https://github.com/gsioteam/kinoko) - Manga Reader
 * [IsManga Translator](https://ismanga.com/) - Manga Translator 
 * [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - Comic Reader
 * [Shosetsu](https://shosetsu.app/) - Light Novels / [GitHub](https://github.com/ShosetsuOrg/android-app) / [Dev Builds](https://github.com/shosetsuorg/shosetsu-preview) / [Discord](https://discord.gg/ttSX7gB) 
@@ -719,9 +721,10 @@
 
 # ► Android Streaming
 
+* **[CloudStream](https://github.com/LagradOst/CloudStream-2)** - Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM)
 * **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Addons](https://github.com/danamag/stremio-addons-list/blob/main/README.md) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * **[Kodi](https://kodi.tv/)** - /r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) / [Real-Debrid](https://real-debrid.com/)
-* **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - Ad Free YouTube on Android
+* **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - Ad-Free YouTube on Android
 * **[Movies4Discord TV](https://movies4discord.xyz/download)** - Movies / TV / Android TV App
 * [Arthemis](https://app.arthemis.xyz/) - Movies / TV / Anime
 * [HDO](https://hdo.app/) - Movies / TV
