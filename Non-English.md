@@ -1619,7 +1619,9 @@
 * [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.com/) - Movies / Choose Voltran & press "скачать" for DL's 
 * [JetFilmizle](https://jetfilmizle.live/) - Movies / TV 
 * [hdfilmcehennemi](https://www.hdfilmcehennemi.net/) - Movies / TV
+* [serial4u](https://serial4u.tv/) - Movies / TV
 * [turkish123](https://turkish123.com/) - TV 
+* [yoturkish](https://www.yoturkish.com) - TV
 * [HindiLover](https://hindilover.biz/) - TV
 * [TurkAnime](https://www.turkanime.net/) - Anime 
 
