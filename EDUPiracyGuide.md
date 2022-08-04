@@ -318,6 +318,7 @@
 * [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - Matrix Calculator
 * [Mathcha](https://www.mathcha.io/) - Online Math Editor
 * [EquatIO](https://chrome.google.com/webstore/detail/equatio-math-made-digital/hjngolefdpdnooamgdldlkjgmdcmcjnc) - Math Equation Creator
+* [SequenceDB](http://sequencedb.net/) - Sequence Machine
 * [Weboasis Convert](https://weboasis.app/convert/) - Conversion Calculators
 * [PecentageTools](https://percentagetools.com/) or [CalcPercentage](https://calcpercentage.com/) - Percentage Calculators
 * [FractionCalc](https://fractionscalc.com/) - Fraction Calculator
@@ -555,6 +556,9 @@
 * [Mandarin Chinese](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mandarin_chinese) - Mandarin Chinese Learning Books
 * [Chinese Flashcards](http://www.chineseflashcards.io/) - Chinese Flashcards
 * [LearningSwedish](https://learningswedish.se/) - Swedish Learning Course
+* [Urdu Resource List](https://docs.google.com/document/d/1GRTK_E0YGybMNYZjFToM40sOHNkR1NJXc_dL8HW2Q_0/) or [UrduNotes](https://urdunotes.com/) - Urdu Learning Resources
+* [Urdupod101](ttps://www.urdupod101.com/blog/2021/03/18/urdu-grammar-overview/) - Urdu Grammar Overview / [Video](https://youtu.be/X5J_kXigPWE)
+* [Urdu Grammar](http://ilovelanguages.org/urdu_grammar.php) - Urdu Grammar Lessons
 * [youglish](https://youglish.com/) - YouTube Word Pronunciations 
 * [ASL Resources](https://t.me/ASLresources) - American Sign Language Resources / Telegram 
 * [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - American Sign Language 
@@ -643,8 +647,9 @@
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
 * [Stublio](https://stublio.com/) or [Studify](https://github.com/cmcodes1/Studify) - Keep Track of what you're Studying 
 * [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - Educational Communication / iOS
+* [Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - Note Taking / To-Do Apps
 * [Note Garden](https://notegarden.web.app/), [2](https://notegarden.io/) - Note Taking & Auto Courses
-* [Mochi Cards](https://mochi.cards/) - Note Taking & Flash Cards
+* [Mochi Cards](https://mochi.cards/) or [MidTerm](https://midterm.app/) - Note Taking / Study Tool
 * [BookStack](https://www.bookstackapp.com/) - Self-Hosted Information Manager
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
 * [Wordwall](https://wordwall.net/) - Lesson Creator
@@ -674,7 +679,7 @@
 * [Oak National Academy](https://teachers.thenational.academy/), [OLI](https://oli.cmu.edu/independent-learner-courses/) or [Runestone Interactive](https://runestone.academy/) - Lessons
 * [Quizlet](https://quizlet.com/) - Quizzes / Study Material
 * [guIHelp](https://discord.gg/rgF9jY8CpH) - Bartleby, Quizlet, Coursehero & Scribd Bot
-* [Wikiversity](https://www.wikiversity.org/) - Learning Resources, Guides, Quizzes, Tools & More
+* [Wikiversity](https://www.wikiversity.org/) or [Learnamic](https://www.learnamic.com/) - Learning Resources, Guides, Quizzes, Tools & More
 * [TurtleDiary](https://www.turtlediary.com/) - Quizzes / Lessons / Games
 * [SoftSchools](https://www.softschools.com/) - Worksheets / Games / Quizzes
 * [FactMonster](https://www.factmonster.com/) - Exercises / Flashcards
