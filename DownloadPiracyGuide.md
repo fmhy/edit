@@ -384,7 +384,8 @@
 * [Telegram Download Channels](https://piracy.now.sh/telegram/) - Download files from telegram
 * [TGMoviesBot](https://t.me/TGMoviesBot) - Telegram File Search Bot 
 * [Direct Links](https://t.me/direct_llinks) - Telegram / Video / Software / Games 
-* [VK Files Bot](https://t.me/VKFiles_Bot) - VK File DL Telegram Bot 
+* [VK Files Bot](https://t.me/VKFiles_Bot) - VK File DL Telegram Bot
+* [Real-Debrid](https://real-debrid.com/) - File Download App / Paid
 
 ***
 
