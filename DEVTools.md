@@ -59,6 +59,7 @@
 * [RoboMind](https://www.robomind.net/) - Code Learning Game
 * [Tuts 4 You](https://forum.tuts4you.com/) - Coding / Developer Tutorials
 * [PythonTutor](https://pythontutor.com/) - Coding Tutorials
+* [mimo](https://getmimo.com/) - Coding Tutorial App
 * [LintCode](https://www.lintcode.com/) - Coding Practice 
 * [Coding Questions](https://platform.stratascratch.com/coding) - Coding Interview Questions 
 * [Code With Mosh Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_code_with_mosh_courses)
@@ -338,6 +339,7 @@
 * [Stark](https://www.getstark.co/), [deque](https://www.deque.com/axe/), [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [Achecker](https://achecker.ca/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [tota11y](https://khan.github.io/tota11y/) - Accessibility Evaluation Tools
 * [Contraste](https://contrasteapp.com/) - Test Text for Accessibility
 * [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
+* [CookieMetrix](https://www.cookiemetrix.com/) - EU Cookie Law Test
 * [Hex Naw](https://hexnaw.com/) or [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable) - Test Color Contrast for Accessibility
 * [Color Oracle](https://colororacle.org/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Test
 * [Am I Responsive](http://ami.responsivedesign.is/) - Responsive Design Checker
@@ -468,7 +470,8 @@
 * [Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare) - Cloudflare Resource Index
 * [Bypass Cloudflare](https://github.com/jychp/cloudflare-bypass) - Bypass Coudflare Bot Protection
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
-* [VPN Un-Blocking](https://medium.com/@innovativehazard/vpn-un-blocking-e0374b9c4d35 ) - Unblock Cloudflare Warp VPN Services 
+* [VPN Un-Blocking](https://medium.com/@innovativehazard/vpn-un-blocking-e0374b9c4d35 ) - Unblock Cloudflare Warp VPN Services
+* [console.watch](https://console.watch/) - Remote Console Polyfill for Cloudflare Workers
 * [LightTPD](http://www.lighttpd.net/) or [Caddy](https://caddyserver.com/) - Web Server
 * [Bash-web-server](https://github.com/dzove855/Bash-web-server) - Bash Web Server
 * [Oracle](https://www.oracle.com/cloud/free/) - Free Server Tools
@@ -522,6 +525,7 @@ Automated Incident Response and Forensics Framework
 * [Termible](https://termible.io/) - Docker Powered Site Terminals
 * [Stackbit](https://www.stackbit.com/) - JamStack Tools 
 * [the New Dynamic](https://www.tnd.dev/) - JamStack Directory
+* [NuxtJS](https://nuxtjs.org/) - Vue Framework
 * [Arco Design](https://github.com/arco-design/arco-design-vue) or [Naive-UI](https://www.naiveui.com/) / [GitHub](https://github.com/TuSimple/naive-ui) - Vue 3 UI Components Library
 * [Vuejs Dev Tools](https://vuejs.org/) - Add Vue 3 Debugging to Browser 
 * [Vue vben admin](https://github.com/vbenjs/vue-vben-admin) - Vue Admin 
@@ -776,7 +780,7 @@ Automated Incident Response and Forensics Framework
 * [DaisyUI](https://daisyui.com/) - Tailwind Component Library / [GitHub](https://github.com/saadeghi/daisyui )
 * [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks
 * [MarkdownGuide](https://www.markdownguide.org/) - Guide for Markdown (.md) 
-* [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/) or [Mark Text](https://github.com/marktext/marktext)- Markdown Editor 
+* [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/), [Glow](https://github.com/charmbracelet/glow) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editor
 * [Table Magic](https://stevecat.net/table-magic/) - CSV, HTML & Markdown Converter
 * [Markdown To HTML](https://markdowntohtml.com/) - Markdown to HTML Converter
 * [AiToHTML](http://ai2html.org/) - Illustrator to HTML Converter
@@ -817,7 +821,7 @@ Automated Incident Response and Forensics Framework
 * [Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects) 
 * [Awesome First PR Oppotunities](https://github.com/MunGell/awesome-for-beginners) - Beginner Friendly FOSS Project Index
 * [Git Extensions](https://gitextensions.github.io/) or [Thermal](https://thermal.codecarrot.net/) - Git Repository Manager
-* [GitZip](https://gitzip.org/) - Download GitHub Repository Sub-Folders / Files 
+* [GitZip](https://gitzip.org/) or [DownGit](https://minhaskamal.github.io/DownGit) - Download GitHub Repository Sub-Folders / Files 
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - GitHub Fork Search 
 * [Active-Forks](https://techgaun.github.io/active-forks/index.html) - Find Active GitHub Forks / [GitHub](https://github.com/techgaun/active-forks)
 * [grep.app](https://grep.app/) - Git Repository Index
@@ -1040,6 +1044,7 @@ Automated Incident Response and Forensics Framework
 * [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
 * [pueue](https://github.com/Nukesor/pueue) - Shell Command Manager
 * [V](https://vlang.io/) - Programming Language
+* [Melody](https://yoav-lavi.github.io/melody/book/) - Programming Language / [GitHub](https://github.com/yoav-lavi/melody)
 * [Emojicode](https://www.emojicode.org/) - Emoji Based Programming Language
 * [CrystalShards](https://crystalshards.org/) - Crystal Programming Shards
 * [Crystalline](https://github.com/elbywan/crystalline) - Crystal Language Server
