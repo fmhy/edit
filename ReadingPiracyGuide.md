@@ -629,7 +629,8 @@
 * [Data Catalog](https://datacatalog.worldbank.org/) - Datasets
 * [DBpedia](https://www.dbpedia.org/) - Datasets 
 * [mdpi](https://www.mdpi.com/) - Articles 
-* [longdom](https://www.longdom.org/) - Articles 
+* [longdom](https://www.longdom.org/) - Articles
+* [Scholarpedia](http://www.scholarpedia.org/) - Articles
 * [DOAJ](https://www.doaj.org/) - Journals / Articles
 * [Typewriter](https://tetw.org/) - Educational Articles & Essays The Electric
 * [Docracy](https://www.docracy.com/ ) - Legal Documents
@@ -1167,6 +1168,7 @@
 * [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
 * [Ebook Sender](https://telegram.me/to_kindle_bot), [SendEpubToKindle](https://www.sendepubtokindle.com/), [Kobo ](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - Send Ebooks to Kindle
 * [Kindle Server](https://github.com/edgartaor/kindleServer) - Send HTML to Kindle
+* [md2mobi](https://md2mobi.lapw.at/) - HTML to Kindle Converter
 * [Kindle Software Jailbreak](https://www.mobileread.com/forums/showthread.php?t=346037&highlight=Jailbreak) - Jailbreak Kindle
 * [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services
 * [The Open Book](https://github.com/joeycastillo/The-Open-Book) - DIY Ebook Reader
@@ -1176,7 +1178,7 @@
 # ► Helpful Sites / Apps
 
 * **[EBook Converters](https://wiki.mobileread.com/wiki/E-book_conversion)** - List of Ebook Converters
-* **[Kindle Comic Converter](https://kcc.iosphe.re/)** - Convert EBooks to EPUB
+* **[Kindle Comic Converter](https://kcc.iosphe.re/)** - Convert Ebooks to EPUB
 * [Knock](https://github.com/BentonEdmondson/knock) - Convert ACSM files to DRM-Free EPUB files
 * [txtpaper](https://txtpaper.com/) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to Ebook Converter
 * [CrowBook](https://github.com/lise-henry/crowbook) - Markdown to EPUB Converter
