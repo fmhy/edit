@@ -143,6 +143,7 @@
 * [Toxic Repos](https://github.com/stravnik/toxic-repos) - Malicious Git Repos
 * [Scamalytics](https://scamalytics.com/ip), [IPSpamList](http://www.ipspamlist.com/) or [IP Address Lookup](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/) - IP Address Check
 * Vulners - [Chrome](https://chrome.google.com/webstore/detail/vulners-web-scanner/dgdelbjijbkahooafjfnonijppnffhmd) / [Firefox](https://addons.mozilla.org/es/firefox/addon/vulners-web-scanner/) - Live Website Scanner
+* [SpyOffers](https://www.spyoffers.com/) - Affiliate Link Checker
 * [Virus Checker](https://add0n.com/virus-checker.html) - Virus Check for Downloads 
 * [Bad Websites](https://github.com/elbkr/bad-websites) - Phishing Site Index for Bots
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Bypass Ransomware Attacks
@@ -281,7 +282,7 @@
 ## ▷ Privacy Extensions
 
 * **[ClearURLs](https://github.com/ClearURLs/Addon/releases)** / [2](https://gitlab.com/KevinRoebert/ClearUrls), [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - Removes tracking elements from URLs
-* **[LocalCDN](https://www.localcdn.org/)**, [WhatCampaign](https://addons.mozilla.org/en-US/firefox/addon/whatcampaign/), [OptMeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) or [TrackMeNot](http://trackmenot.io/) - Tracking Protection
+* **[LocalCDN](https://www.localcdn.org/)**, [WhatCampaign](https://addons.mozilla.org/en-US/firefox/addon/whatcampaign/), [Decentraleyes](https://decentraleyes.org/), [OptMeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) or [TrackMeNot](http://trackmenot.io/) - Tracking Protection
 * [CRXcavator](https://crxcavator.io/) - Check Browser Extension Security
 * [File Guard](https://mybrowseraddon.com/file-encryptor.html) - File Encryption / Decryption
 * [Trace](https://absolutedouble.co.uk/trace/) - Privacy Toolkit 
@@ -363,7 +364,7 @@
 * [JustGetMyData](https://justgetmydata.com/) - Links to Obtain Your Data from Websites 
 * [PrivacyTests](https://privacytests.org/) - Web Browser Privacy Tests
 * [Privacy Score](https://privacyscore.org/) - Website Privacy Score Rankings
-* [TrackingTheTrackers](https://trackingthetrackers.com/) - Check if a website is disguising third-party trackers as first-party trackers
+* [TrackingTheTrackers](https://trackingthetrackers.com/) - Check if Site is Disguising Trackers
 * [LMT Anti-Logger](https://leminhthanh.me/antilogger/) - Anti-Loggers (e.g. Keyloggers)
 * [QFX KeyScrambler](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_qfx_keyscrambler) - Scramble Keyboard Inputs
 * [WhoTracksMe](https://whotracks.me/) or [Trackography](https://trackography.org/) - Site Tracking Info  
@@ -391,7 +392,7 @@
 * [Alternative Internet](https://redecentralize.github.io/alternative-internet/) - Decentralization Networks
 * [Dark Launch Referer Test](https://www.darklaunch.com/tools/test-referer) - Check Link Referrer
 * [Anonymizer](https://www.lolinez.com/ ) - Anonymize Links
-* [Link Cleaner](https://linkcleaner.app/) - Remove Tracking Elements / Extra Garbage from URLs
+* [Link Cleaner](https://linkcleaner.app/) - Remove Tracking Elements / Extra Garbage from URLs / [Script](https://gist.github.com/htsign/455bd76d107be1f810c5caa4072c8275)
 * [whoer](https://whoer.net/), [encrypted-sni](https://www.cloudflare.com/ssl/encrypted-sni/) or [f.vision](http://www.f.vision/) - Check Network / Browser Security
 * [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [PixelScan](https://pixelscan.net/), [Unique Machine](https://uniquemachine.org/) or [AmIUnique](https://amiunique.org/) / [Timeline](https://amiunique.org/timeline) - Browser Fingerprinting Test
 * [fluxfonts](https://github.com/da2x/fluxfonts) - Hide Unique Font Fingerprint
@@ -501,7 +502,7 @@
 * **[Surfshark](https://surfshark.com/)** - [Pricing](https://i.imgur.com/YaiKjpX.png)
 * **[Riseup](https://riseup.net/en/vpn)** - Free VPN 
 * **[Softether](https://www.softether.org/)** - Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx) / [Note](https://pastebin.com/TrSw7EpF)
-* **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn)
+* **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/)
 * [Perfect Privacy](https://www.perfect-privacy.com/) - [Pricing](https://i.imgur.com/Rtfwu2t.png)
 * [IVPN](https://www.ivpn.net/) - [Pricing](https://i.imgur.com/Iq92wOO.png) / [Free Trial](https://redd.it/nzjmqa)
 * [Trust.Zone](https://trust.zone/) - [Pricing](https://i.imgur.com/PsRa8GD.png)
