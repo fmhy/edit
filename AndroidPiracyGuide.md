@@ -667,13 +667,14 @@
 * [Cliggo](https://play.google.com/store/apps/details?id=com.cliggo.cliggo_music) - Streaming / Downloading
 * [Otter](https://github.com/apognu/otter) or [humit](https://www.humit.app/) - Music Sharing App
 * [HZP](https://hzplayer.com/) - Solfeggio Frequency Player
-* [Quorus](https://quorus.net/) - Collaborative Playlists 
+* [Quorus](https://quorus.net/) - Collaborative Playlists
 * [SplitCloud](http://www.splitcloud-app.com/) - Audio Splitter
 * [MusicSpeedChanger](https://musicspeedchanger.com/) - Music Speed Changer
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - Download / FLAC / MP3
 * [Video to MP3 Converter](https://play.google.com/store/apps/details?id=mp3videoconverter.videotomp3.videotomp3converter) - Video to MP3
 * [AudioSwitch](https://play.google.com/store/apps/details?id=com.nordskog.LesserAudioSwitch) - Switch Audio to Different Outputs Lesser
 * [Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler) - Android Scrobbler
+* [Soundiiz](https://play.google.com/store/apps/details?id=fr.brickoft.soundiiz) - Transfer Playlists Between Streaming Platforms
 * [MP3 Tagger](https://play.google.com/store/apps/details?id=com.fillobotto.mp3tagger) - Automatic Audio ID3 Tagging
 * [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizer
 * [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) - Headphone Audio Equalizer 
@@ -681,7 +682,7 @@
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - Identify Playing Songs
 * [skipTrackLongPressVolume](https://github.com/Cilenco/skipTrackLongPressVolume) or [Volumee](https://maslanka.app/volumee/) - Volume Button Track Control
 * [CAPod](https://play.google.com/store/apps/details?id=eu.darken.capod) - Extra AirPod Features
-* [MImport](https://julioverne.github.io/description.html?id=com.julioverne.mimport ) - Audio Import Tool
+* [MImport](https://julioverne.github.io/description.html?id=com.julioverne.mimport) - Audio Import Tool
 * [Dolby Atmos ZTE A2019 Pro Magisk Module](https://github.com/reiryuki/Dolby-Atmos-ZTE-A2019-Pro-Magisk-Module)
 
 ***
@@ -723,7 +724,7 @@
 # ► Android Streaming
 
 * **[CloudStream-2](https://github.com/LagradOst/CloudStream-2)** - Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM)
-* **[HDO](https://hdo.app/)** - Movies / TV
+* **[HDO Box](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hdo+hdo+box&sf=titleonly)** - Movies / TV
 * **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Addons](https://github.com/danamag/stremio-addons-list/blob/main/README.md) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * **[Kodi](https://kodi.tv/)** - /r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) / [Real-Debrid](https://real-debrid.com/)
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - Ad-Free YouTube on Android
