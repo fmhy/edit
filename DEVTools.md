@@ -302,7 +302,7 @@
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
 * [devSwag](https://devswag.io/) - Developer Giveaways
 * [is-a.dev](https://www.is-a.dev/) - Developer Homepages
-* [instagrapi](https://github.com/adw0rd/instagrapi) - Unofficial Instagram API for Python
+
 ***
 
 ## ▷ Site Development 
@@ -1086,6 +1086,7 @@ Automated Incident Response and Forensics Framework
 * [Shizuku](https://github.com/RikkaApps/Shizuku) - Use System APIs Directly with ABD / Root 
 * [Algolia](https://www.algolia.com/), [TypeSense](https://typesense.org/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/), [Sphinx](http://sphinxsearch.com/) or [FusionBot](https://www.fusionbot.com/) - Search API
 * [Reacher](https://reacher.email/) - Email Verification API
+* [instagrapi](https://github.com/adw0rd/instagrapi) - Unofficial Instagram API for Python
 * [TextNow API](https://github.com/leogomezz4t/PyTextNow_API) - Python Texting API 
 * [Perspective API](https://www.perspectiveapi.com/) - Toxicity Reduction API
 * [Plaid](https://plaid.com/) - Financial Account API / [GitHub](https://github.com/plaid)
