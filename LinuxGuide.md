@@ -78,13 +78,15 @@
 * [DotShare](http://dotshare.it/) - Distro Config Index
 * [Linux Live Kit](https://www.linux-live.org/) - Live Linux Distro Creator
 * [ArchLinuxGUI](https://archlinuxgui.in/download.html), [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - Arch Linux Installer
+* [/r/linuxupskillchallenge](https://www.reddit.com/r/linuxupskillchallenge/) - How-to Sysadmin a Remote Server 
 * [Free Cloud Linux Server](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_free_cloud_linux_server) - Free Cloud Server Guide
 * [yet another bench script](https://github.com/masonr/yet-another-bench-script) - Server Performance Script
 * [Rang3r](https://github.com/floriankunushevci/rang3r) - IP / Port Scanner
 * [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
 * [Brunch](https://github.com/sebanc/brunch) or [Chromefy](https://github.com/imperador/chromefy) - ChromeOS Installer
 * [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [FydeOS](https://fydeos.io/download), [NeverWare](https://www.neverware.com/) or [WayneOS](https://wayne-os.com/) - ChromeOS Based OS
-* [Chromebrew](https://github.com/skycocker/chromebrew) - Package Manager for Chrome OS
+* [Chromebrew](https://github.com/skycocker/chromebrew) - Package Manager for ChromeOS
+* [Chrome100](https://chrome100.dev/) - ChromeOS Recovery Images
 * [Crouton](https://github.com/dnschneid/crouton) - Chromebook Linux OS
 * [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
 * [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - One-Click Remote Desktop 
@@ -137,14 +139,14 @@
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - Mount GDrive on Linux
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - PDF Editor
-* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor
+* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://flathub.org/apps/details/com.github.dail8859.NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor
 * [Zathura](https://git.pwmt.org/pwmt) - Document Viewer
 * [Winfield](http://www.winfield.demon.nl/) - MS Word for Linux / OS X 
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
 * [FlameGApps](https://github.com/flamegapps/flamegapps) - Google Apps Installer
 * [syncthing](https://syncthing.net/) or [maestral](https://maestral.app/) - File Sharing App
 * [PeerVPN](https://peervpn.net/) - P2P VPN
-* [GNU Social](https://www.gnusocial.rocks/) - Self-Hosted Social Networking Platform
+* [GNU Social](https://www.gnusocial.rocks/) / [2](https://gnusocial.network/) - Self-Hosted Social Networking Platform
 * [Hexchat](https://hexchat.github.io/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/) - IRC Clients
 * [Ghetto Skype](https://github.com/stanfieldr/ghetto-skype) - Video / Chat Client
 * [Whatsdesk](https://zerkc.gitlab.io/whatsdesk/) - WhatsApp Client
@@ -178,7 +180,7 @@
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor & Log System Activity
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
 * [FSLint](http://www.pixelbeat.org/fslint/) - Duplicate File Finder
-* [CoreELEC](https://github.com/CoreELEC/CoreELEC) - Kodi Based Operating System
+* [CoreELEC](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) - Kodi-Based Operating System
 * [Asus-Linux](https://asus-linux.org/) - Linux ASUS Notebook Guide
 * [Breathing](https://github.com/SeaDve/Breathing) - Relaxation / Breathing Tool
 * [List of Backup Software](https://github.com/restic/others) - Linux Backup Solutions
@@ -212,7 +214,7 @@
 * [theme.sh](https://github.com/lemnos/theme.sh) or [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) / [2](https://github.com/stark/Color-Scripts) - Custom Terminal Themes
 * [atuin](https://github.com/ellie/atuin) - Shell History Management
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - Generate Bonsai Trees in Terminal
-* [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated Pipes in Terminal
+* [pipes.sh](https://github.com/pipeseroni/pipes.sh) or [pipes-rs](https://github.com/lhvy/pipes-rs) - Animated Pipes in Terminal
 * [Neo Matrix Git](https://aur.archlinux.org/packages/neo-matrix-git/) - Simulate Matrix Digital Rain
 * [Terminal Locomotive Train](https://pastebin.com/ayrFjrh6) - Train Terminal Easter Egg
 * [ASCIIQuarium](https://robobunny.com/projects/asciiquarium/html/) - Fish in Terminal
@@ -268,6 +270,7 @@
 * [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)  - Spotify Adblockers
 * [Anon-SMS](https://github.com/HACK3RY2J/Anon-SMS) - Send Anonymous SMS Messages
 * [Firejail](https://firejail.wordpress.com/) - Security Sandbox
+* [Bubblewrap](https://github.com/containers/bubblewrap) -  Unprivileged Sandboxing Tool 
 
 ***
 
@@ -293,7 +296,7 @@
 
 # ► Linux Gaming
 
-* **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** - Linux Gaming Guides
+* **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** / [2](https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?utm_source=share&utm_medium=web2x&context=3) - Linux Gaming Guides
 * **[protondb](https://www.protondb.com/)**, **[Lutris](https://lutris.net/)**, [PortWine](https://portwine-linux.ru/portwine-faq/) or [Proton](https://github.com/ValveSoftware/Proton) - Play Windows games on Linux
 * **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
 * **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games
@@ -325,6 +328,7 @@
 * [Ananicy](https://github.com/Nefelim4ag/Ananicy) - Fix Program Priority / Lag / [C++](https://gitlab.com/ananicy-cpp/ananicy-cpp)
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
 * [yuzu-ea-updater-for-linux](https://github.com/lem6ns/yuzu-ea-updater-for-linux) - Linux Yuzu Updater
+* [mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft Android Bedrock Edition Launcher for Linux
 * [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - Roblox Manager for Linux
 * [Paimon Launcher](https://notabug.org/loentar/paimon-launcher) - Run Genshin Impact on Linux
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (Recreation)
@@ -361,7 +365,7 @@
 * [CrossOver](https://www.codeweavers.com/crossover) - Run Windows Programs on Mac / Infinite Free Trials
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/) / [Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 * [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/) - Install New macOS on Unsupported Devices
-* [Conky](https://github.com/brndnmtthws/conky) - System Monitor / [Colors](https://github.com/helmuthdu/conky_colors)
+* [Conky](https://github.com/brndnmtthws/conky) / [Colors](https://github.com/helmuthdu/conky_colors) or [MacFetch](https://github.com/gantoreno/macfetch) - System Info / Resource Monitor
 * [Clean-Me](https://kevin-de-koninck.github.io/Clean-Me/) - MacOS System Cleanup
 * [OpenSourceApple](https://opensource.apple.com/) - System Tools
 * [Windows 10 MBR](https://github.com/toru173/Windows-10-MBR-USB-Creation-Tool) or [Create Bootable](https://taig.medium.com/create-a-bootable-windows-10-usb-from-macos-395773d4782e) - Windows 10 Media Creation Tool
