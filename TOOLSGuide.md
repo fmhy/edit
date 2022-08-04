@@ -267,7 +267,7 @@
 * [VideoTuts](http://videotuts.ru/) - Video Design Tutorials / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - Professional Video, Audio & Adobe Software / Plugins
 * [Free-Codecs](https://www.free-codecs.com/) - Codec Packs & Multimedia Tools
-* [VideoSmaller](https://www.videosmaller.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressor
+* [VideoSmaller](https://www.videosmaller.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
 * [youtube-cld](https://github.com/anatolykopyl/youtube-cdl) - Bulk YouTube Channel Downloader
 * [SaveVK](https://savevk.com/) - Download VK videos 
 * [DMVideo](https://dmvideo.download/) - DailyMotion Video Downloader 
