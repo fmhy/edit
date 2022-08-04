@@ -458,8 +458,8 @@
 * [Instagram-Explorer](https://www.osintcombine.com/instagram-explorer) - Explore Pictures by Location 
 * [Save Instagram](https://gist.github.com/g-rohit/f47170c8b3b302bcbe214ba624d636bc) - Enable Right Click / Save on Instagram 
 * [StoriesDown](https://storiesdown.com/), [anon-instastories](https://anon-instastories.online/), [instasaved](https://instasaved.net/en), [insta-stories-viewer](https://insta-stories-viewer.com/) or [StoriesIG](https://storiesig.net/) - Story Downloader
-* [InstaDP](https://www.instadp.com/) or [Instagram-crawler](https://github.com/hehpollon/Instagram-crawler) - Picture / Story Downloader 
-* [PixWox](https://www.pixwox.com/) or [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper) - Story / Picture / Story Downloader
+* [InstaDP](https://www.instadp.com/), [SaveFromWeb](https://www.savefromweb.com/), [Downloadgram](https://downloadgram.org/) or [Instagram-crawler](https://github.com/hehpollon/Instagram-crawler) - Video / Picture / Story Downloader 
+* [PixWox](https://www.pixwox.com/) or [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper) - Picture / Story Downloader
 * [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [SocialUnblock](https://socialunblock.com/), [Instagram-Scraper](https://github.com/arc298/instagram-scraper), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [igram](https://igram.io/), [InstaLooter](https://github.com/althonos/InstaLooter), [instadownloader](https://www.instadownloader.org/), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - Picture / Video Downloader
 * [4K Stogram](https://www.4kdownload.com/products/product-stogram) or [InstaLoader](https://instaloader.github.io/) - Picture Downloader
 * [Photo Map](https://levionsoftware.com/) - Interactive Map For Your Photos
