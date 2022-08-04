@@ -174,6 +174,7 @@
 * [DevTunes FM](https://radio.madza.dev/) - Lo-Fi Radio
 * [Lofi Music](https://lofimusic.app/) - Lo-Fi Radio
 * [Lo-Fi Player](https://lofi-players.netlify.app/) - Lo-Fi Radio
+* [Lofi Club](https://loficlub.vercel.app/) - Lo-Fi Radio
 * [Viberoom](https://viberoom.audio/) - Lo-Fi Hip-Hop Radio
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - Create Room / Lo-Fi Player
 * [Music For Programming](http://musicforprogramming.net/) - Music for Focus 
