@@ -17,7 +17,7 @@
 * **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)**, [Game Debate](https://game-debate.com/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Test 
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
 * [TCNO](https://github.com/TcNobo/TcNo-Acc-Switcher) - Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)
-* [How-To Make Cracked Games Look Like Official Steam Games](https://www.reddit.com/r/PiratedGames/comments/pmim9t/tutorial_make_your_cracked_games_look_like/)
+* [Andy's Steam Crack Guide](https://rentry.org/steamcrackguidebyanddy) / [2](https://redd.it/pmim9t) - How-to Add Cracked Games to Steam / [Client](https://mega.nz/file/mpdAXKTZ#3CVjRZG1i8K_Zn8b9IIARbIZZE73KdzazVHMDcaWZJc)
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?usp=sharing), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS & Latency Guides
 * [Fraps Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_fraps) / [2](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner) - Graphics Card Overclocking / FPS Benchmarking
@@ -53,7 +53,7 @@
 * [Momentum](https://momentum-mod.org/) - Movement Training
 * [Aim Lab](https://aimlab.gg/), [AimBooster](http://www.aimbooster.com/), [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training Tools & Games
 * [CrossOver](https://github.com/lacymorrow/crossover) or [HudSight](https://hudsight.com/) - Crosshair Overlay
-* [ClickSpeeder](https://clickspeeder.com/) or [CPSCounter](https://cpscounter.org/) - Click Speed Test / Trainers
+* [ClickSpeeder](https://clickspeeder.com/), [ClickSpeedTester](https://www.clickspeedtester.com/) or [CPSCounter](https://cpscounter.org/) - Click Speed Test / Trainers
 * [TASVideos](https://tasvideos.org/) - Watch and Publish Tool Assisted Speedruns
 * [MacroGamer](https://www.itoady.com/) - Game Macro Recorder
 * [Blitz](https://blitz.gg/) - Post Match Performance Analyzer
@@ -146,6 +146,7 @@
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Osu! Collection Manager
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer
 * [ValStretch](https://github.com/lem6ns/valstretch) - Stretched Resolution Valorant Script
+* [Half Life Project Beta](https://hl2-beta.ru/) - Unreleased / Cut Half-Life Content
 * [GmodContent](https://gmodcontent.com/) - Garry's Mod Content Packs
 * [GMOD Textures Fix](https://fragboss.com/gmod-textures-fix-css-textures/) - Fix Garry's Mod Textures
 * [EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore) - Elden Ring Fixes
@@ -323,7 +324,7 @@
 * [SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons) - Addons for Skyblock
 * [SkyCrypt](https://sky.shiiyu.moe/) - SkyBlock Stats
 * [Cubical](https://www.cubical.xyz/) - Minecraft Schematic Tool
-* [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) - Turn Photos into Minecraft Art
+* [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US), [PixelStacker](https://taylorlove.info/pixelstacker/) or [SpriteCraft](https://spritecraft.en.softonic.com/) - Turn Photos into Minecraft Art
 * [ReplayMod](https://replaymod.com/) - Record Minecraft Game Sessions / [GitHub](https://github.com/ReplayMod/ReplayMod)
 * [Villager Trading Cheatsheet](https://i.imgur.com/vCpAxmD.png)
 * [Free Minecraft Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_servers) - Host Free Minecraft Servers
