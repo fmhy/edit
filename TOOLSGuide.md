@@ -742,7 +742,7 @@
 * [wallabag](https://wallabag.org/) - Save and Classify Articles
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - Tools / Apps to Run Flash Programs
 * [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/webcatalog/) or [web2desk](https://appmaker.xyz/web2desk/) - Turn Sites into Desktop Apps 
-* [Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Multiverse](https://multiverse.plus/), [Mataroa](https://mataroa.blog/), [Emanates Docs](https://emanates.deepjyoti30.dev/), [write freely](https://writefreely.org/) or [twtxt](https://github.com/buckket/twtxt) - Blogging Platform
+* [Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Multiverse](https://multiverse.plus/), [Letterpad](https://letterpad.app/), [Mataroa](https://mataroa.blog/), [Emanates Docs](https://emanates.deepjyoti30.dev/), [write freely](https://writefreely.org/) or [twtxt](https://github.com/buckket/twtxt) - Blogging Platform
 * [Telescope](https://telescope.ac/) - Publishing Platform
 * [Odie](http://odie.us/) - Publish Google Docs to Web
 * [SpookyX](https://github.com/Fiddlekins/SpookyX) - Adds Features to Imageboards
@@ -807,7 +807,7 @@
 * [Hamachi](https://vpn.net/) - VPN / LAN Emulator
 * [WikiStalk](https://github.com/altilunium/wistalk) - Analyze Wikipedia User's Activity
 * [InspectContent](https://inspectcontent.com/) - Site Keyword Inspector
-* [Ichi](https://ichi.city), [Linktree](https://linktr.ee/), [Beacon](https://beacons.ai/), [MyURLs](https://myurls.co/), [Carrd](https://carrd.co/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/), [Ayo.so](https://ayo.so/), [CreatorSites](https://creatorsites.net/) or [ContactInBio](https://www.contactinbio.com/) - Personal Link Homepages 
+* [Personal Link Hompages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_personal_link_homepages) - Display Your Links / Sites
 * [Integrated Inbox](https://integratedinbox.com/) - Gmail Google Web App Integration
 * [EasyMailForGmail](https://easymailforgmail.com/) - Gmail Desktop Client
 * [Namechk](https://namechk.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - Check Username / Domain Availability
@@ -1441,7 +1441,7 @@
 * [Stream Scheme](https://www.streamscheme.com/) - Livestreaming Guides & Resources
 * [Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f) - Twitch Extension Index
 * [Trovo](https://trovo.live/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
-* [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl), [Windsya](https://www.windsya.com/), [ClipsGameLab](https://clipsgamelab.github.io/), [Clipr](https://clipr.xyz/) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  Download Twitch Videos / Clips 
+* [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl), [Windsya](https://www.windsya.com/), [ClipsGameLab](https://clipsgamelab.github.io/), [Clipr](https://clipr.xyz/), [Twiclips](https://twiclips.com/) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  Download Twitch Videos / Clips 
 * [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Recover, View & Download Twitch Videos
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - Lightweight Twitch Webplayer
 * [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player 

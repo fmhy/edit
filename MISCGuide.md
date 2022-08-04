@@ -387,6 +387,7 @@
 * [Petting](http://oos.moxiecode.com/js_webgl/fur/index_petting.html) - Fur Simulator
 * [Spider 2 Hammertime](http://oos.moxiecode.com/js_webgl/spiders_2_hammertime/) - Murder Spiders
 * [DuckDuckRoll](http://duckduckroll.ml/) - Spinning Duck
+* [FidgetPage](https://www.fidgetpage.com/) - Online Fidget Spinner
 * [Slap Kirk](https://www.slapkirk.com/) - Slap Captain Kirk
 * [Slap Chris](https://slapchris.com/) - Slap Chris Rock
 * [Eel Slap](http://www.eelslap.com/) - Slap Guy with Eel

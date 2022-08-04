@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/CXNK6Xo.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/xkGHjp4.png)** - For mobile users
 
 ***
 ***
@@ -1551,6 +1551,12 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
+#### Personal Link Homepages 
+
+[Ichi](https://ichi.city), [Linktree](https://linktr.ee/), [Beacon](https://beacons.ai/), [MyURLs](https://myurls.co/), [Carrd](https://carrd.co/), [Bio.link](https://bio.link/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/), [Ayo.so](https://ayo.so/), [CreatorSites](https://creatorsites.net/), [ContactInBio](https://www.contactinbio.com/)
+
+***
+
 #### Plagiarism Detection
 
 [Grammarly Plagiarism Checker](https://www.grammarly.com/plagiarism-checker), [PaperRater](https://www.paperrater.com/), [Quetext](https://www.quetext.com/), [PlagiarismDetector](http://www.plagiarismdetector.net/), [CopyScape](https://www.copyscape.com/), [PLText](https://pltext.com/), [plagscan](https://www.plagscan.com/), [plagiarismchecker](https://www.plagiarismchecker.co/), [duplichecker](https://www.duplichecker.com/), [writer](https://writer.com/plagiarism-checker/), [unicheck](https://unicheck.com/), [plagiarismsearch](https://plagiarismsearch.com/), [plagiarismcheckerx](https://plagiarismcheckerx.com/), [onlineplagiarismchecker](https://onlineplagiarismchecker.net/), [copyleaks](https://copyleaks.com/), [plagiarismchecker](https://1text.com/plagiarismchecker) 
@@ -1565,7 +1571,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Poll Sites 
 
-[PollCode](https://pollcode.com/), [YoPolls](https://www.yopolls.com/), [Polls.fr](https://polls.fr/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/), [StrawPoll](https://strawpoll.com/), [framadate](https://framadate.org/), [mobpoll](https://quick.mobpoll.org/), [polltab](https://www.polltab.com/), [voteupapp](https://voteupapp.com/), [polling-app](https://xoyondo.com/polling-app), [star.vote](https://star.vote/), [poal.me](https://poal.me/)
+[PollCode](https://pollcode.com/), [YoPolls](https://www.yopolls.com/), [Polls.fr](https://polls.fr/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/), [StrawPoll](https://strawpoll.com/), [framadate](https://framadate.org/), [mobpoll](https://quick.mobpoll.org/), [polltab](https://www.polltab.com/), [voteupapp](https://voteupapp.com/), [polling-app](https://xoyondo.com/polling-app), [star.vote](https://star.vote/), [poal.me](https://poal.me/), [poll.ly](https://poll.ly/), [matepoll](https://www.matepoll.com/index.html), [typeform](https://typeform.com/examples/polls/)
 
 **Live Polling Apps**
 
