@@ -31,8 +31,9 @@
 * [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization Automation
 * [Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome) - GNOME Distro Resources
 * [Enlightment](https://www.enlightenment.org/), [qpwm](https://github.com/ssleert/qpwm) or [dwm](https://dwm.suckless.org/) - Window Manager
-* [swizzin](https://swizzin.ltd/) - Seedbox for Ubuntu / Debian 
-* [rtinst](https://github.com/arakasi72/rtinst) - Seedbox Installation Script for Ubuntu / Debian 
+* [swizzin](https://swizzin.ltd/) - Seedbox for Ubuntu / Debian
+* [rtinst](https://github.com/arakasi72/rtinst) - Seedbox Installation Script for Ubuntu / Debian
+* [Arthemis](https://releases.arthemis.xyz/download/osx) - Movie / TV / Anime Streaming App
 * [anime-terminal](https://github.com/YogeshLamichhane/anime-terminal) or [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal for Linux
 * [Trackma](https://github.com/z411/trackma/) - Anime Tracking App
 * [Netflix Proxy](https://github.com/ab77/netflix-proxy/) - Streaming Service Proxy 
