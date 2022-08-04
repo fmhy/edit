@@ -20,13 +20,13 @@
 ## ▷ Dedicated Hosts
 
 * **[Soap2Day](https://soapgate.org/)** - Movies / TV
-* **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
 * **[Oligopoly](https://olgply.com/)** - Movies / TV
+* **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
 * **[PrivateHD](https://www.privatehd.xyz/)** - Movies / TV
-* **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
 * **[Ask4movies](https://ask4movie.io/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
-* [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
+* **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
 * [PtFlixMovies](https://ptflixmovies.xyz/) - Movies / TV / Anime
+* [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [C1NE](https://c1ne.co/) - Movies / TV 
 * [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - Movies / TV
 * [Movies.cf](https://movies.cf/Landing) - Movies 
@@ -34,7 +34,7 @@
 * [Plex](https://watch.plex.tv/) - Movies / TV
 * [arthemis](https://web.arthemis.xyz/) - Movies / TV / Anime / App / [Discord](https://discord.gg/98HxbfjKQV)
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime
-* [NetU](https://netu.io/view_page.php?pid=4) - Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)
+* [NetU](https://netu.io/view_page.php?pid=4) - Movies / TV / / Anime / [Search](https://i.imgur.com/SiYyosZ.mp4) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)
 * [oSee](https://osee.in) - Movies / TV / Anime / [Unlock HD](https://pastebin.com/hxdq1uFi)
 * [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime
 * [SockShare](http://sockshare.ac/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones) / Use Adblock
@@ -46,7 +46,7 @@
 * [Vumoo](https://vumoo.to/) - Movies / TV 
 * [FshareTV](https://fsharetv.co/) - Movies 
 * [Trailers.to](https://trailers.to/) - Movies / TV / [Bypass Quota](https://openvideofs.github.io/)
-* [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://imgur.com/a/EtLokxO)
+* [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://i.imgur.com/Ij8muns.mp4)
 * [AZMovies](https://azm.to) - Movies
 * [KissKH](https://kisskh.me/Explore?type=4) - Movies / TV / Anime
 * [HDMovieBox](https://hdmoviebox.org/) - Movies
@@ -523,6 +523,7 @@
 * [HesGoal](http://www.hesgoal.tv/) - Soccer
 * [Soccer Streams](https://socceronline.me/) - Soccer
 * [Vebo](https://vebotv.top/) - Soccer
+* [Egylive](https://egylive.online/) - Soccer / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Cyfo Streams](http://www.cyfostreams.com/) - Cycling & Soccer
 * [NHLstream](https://www.nhlstream.net/) - NHL
 * [NHL Streams](https://reddit.nhlstream.nu/) - NHL
@@ -587,7 +588,6 @@
 * [NYMeriaTV](https://nymeriatv.com/) - Movies / TV
 * [FZMovies](https://fzmovies.net/) - Movies
 * [FilmDuty](http://filmduty.com/) - Movies / TV / Anime
-* [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://imgur.com/a/EtLokxO)
 * [HugeWarez](http://hugewarez.net/movies/) - Movies / TV
 * [ExtraMovies](https://extramovies.date/) - Movies / TV
 * [KimoiTV](https://www.kimoitv.com/) - Movies / TV / Anime
@@ -1005,7 +1005,7 @@
 * [HandySub](https://github.com/HandyOrg/HandySub), [SubDownloader](https://subdownloader.net/) or [Subscene-Subtitle-Grabber](https://github.com/RafayGhafoor/Subscene-Subtitle-Grabber) - Subtitle Downloader
 * [Subliminal](https://github.com/Diaoul/subliminal), [SubtitleBOX](https://github.com/sameera-madushan/SubtitleBOX) or [Subtitle-Downloader](https://github.com/manojmj92/subtitle-downloader) - Python Download Script 
 * [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - Plex Subtitles 
-* [Subshifter](https://subshifter.bitsnbites.eu/), [subsync](https://github.com/sc0ty/subsync), [ffsubsync](https://github.com/smacke/ffsubsync), [Alass](https://github.com/kaegi/alass), [autosubsync](https://github.com/oseiskar/autosubsync) or [subslider.js](https://github.com/micheleb/subslider.js) / [2](https://micheleb.github.io/subslider.js/) - Sync Subtitles 
+* [Subshifter](https://subshifter.bitsnbites.eu/), [subsync](https://github.com/sc0ty/subsync), [ffsubsync](https://github.com/smacke/ffsubsync), [autosubsync-mpv](https://github.com/joaquintorres/autosubsync-mpv), [Alass](https://github.com/kaegi/alass), [autosubsync](https://github.com/oseiskar/autosubsync) or [subslider.js](https://github.com/micheleb/subslider.js) / [2](https://micheleb.github.io/subslider.js/) - Sync Subtitles 
 * [SubtitleDLbot](https://t.me/SubtitleDLbot) or [subtitle_dl_bot](https://t.me/subtitle_dl_bot) - Telegram Subtitles Bot 
 * [MuxedBot](https://t.me/MuxedBot) - Merge Subtitles / Telegram
 * [vlsub](https://github.com/exebetche/vlsub) - VLC Subtitle Download 
