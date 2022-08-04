@@ -18,15 +18,16 @@
 * **[Versus](https://versus.com/)**, [rtings](https://www.rtings.com/), [SocialCompare](https://socialcompare.com/en) or [Diffen](https://www.diffen.com/) - Compare Anything 
 * **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - Organize Ideas & Projects
 * **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** - Device Repair Articles
+* **[TurboTaxSucksAss](http://turbotaxsucksass.net/)** or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free
 * **[BeMyEyes](https://www.bemyeyes.com/)** - Assist the Visually Impaired 
 * [RecoRank](https://recorank.com/) or [NanoReview](https://nanoreview.net/en) - Tech Reviews / Comparisons
 * [Reddit Favorites](https://redditfavorites.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product & Service Reviews
-* [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - Open Source Tools 
+* [GiftWhale](https://giftwhale.com/) - Wishlist Creator
+* [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - Open Source Tools
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - AI Experiments / Tools 
 * [Generative Tools](https://docs.google.com/document/d/1N57oAF7j9SuHcy5zg2VZWhttLwR_uEldeMr-VKzlVIQ/) - Generative Tool Index
 * [Barcode Reader](https://online-barcode-reader.inliteresearch.com/) or [ZXing Decoder](https://zxing.org/w/decode.jspx) - Online Barcode Reader
-* [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free
 * [Contract-Templates](https://github.com/Oak-Harbor-Kits/Contract-Templates) - Digital Contracts
 * [The Measure Of Things](https://www.bluebulbprojects.com/measureofthings/default.php) - Comparative / Relative Quantity Measurements 
 * [Compare Sizes](https://comparesizes.com/) - Size Comparison Tool 
@@ -73,11 +74,10 @@
 * [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/), [BestRandoms](https://www.bestrandoms.com/), [Randommer](https://randommer.io/), [GeneratorFun](https://generatorfun.com/) or [Random Lists](https://www.randomlists.com/) - Random Generators
 * [Score Count](https://scorecount.com/) - Online Sports Scoreboards
 * [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizer
-* [PollCode](https://pollcode.com/), [YoPolls](https://www.yopolls.com/), [Polls.fr](https://polls.fr/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/), [StrawPoll](https://strawpoll.com/), [framadate](https://framadate.org/) or [poal.me](https://poal.me/) - Poll Creator
-* [sli.do](https://www.sli.do/), [Feedbackr](https://www.feedbackr.io/) or [Trypingo](http://trypingo.com/) - Live Polling Apps
+* [Poll Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_poll_sites) - Create Polls
 * [Kukkee](https://www.kukkee.com/) - Meeting Time Polls
 * [Evote](https://github.com/IBM/evote), [SimpleVote](https://github.com/dessalines/simple-vote), [CryptoBallot](https://cryptoballot.com/) or [BlockVotes](https://github.com/yfgeek/BlockVotes) - Online Voting Platform
-* [Event Rally](https://rallly.co/) - Collaborate and Vote on a Date to Host / [GitHub](https://github.com/lukevella/Rallly)
+* [Event Rally](https://rallly.co/) / [GitHub](https://github.com/lukevella/Rallly), [Mobilizon](https://joinmobilizon.org/) or [Gancio](https://gancio.org/) - Event Organizing
 * [Diff Checker](https://www.diffchecker.com/) - Check Differences in Text, Images, PDFs or Files
 * [Find Your Place](https://where-is-this.com/) - Find Places from Pictures
 * [IRuler](https://iruler.net/) - Turn Device into Ruler
@@ -105,7 +105,8 @@
 * [WebQR](https://www.webqr.com/) - QR Code Scanner
 * [QR Tiger](https://www.qrcode-tiger.com/), [QRCodeMonkey](https://www.qrcode-monkey.com/), [Logaster](https://www.logaster.com/qr-code-generator/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - QR Code Creator
 * [My-Qr.art](https://my-qr.art/) or [qrcode-generator](https://www.logodesign.net/qrcode-generator) - Custom QR Code Creator 
-* [QRpicture](https://www.qrpicture.com/) - Picture to QR Code Converter 
+* [QRpicture](https://www.qrpicture.com/) - Picture to QR Code Converter
+* [SongKick](https://www.songkick.com/) - Find Local Concerts
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
 * [findhelp.org](https://www.findhelp.org/) - Find Assistive Programs
 * [/r/Assistance](https://www.reddit.com/r/Assistance/), [/r/borrow](https://www.reddit.com/r/borrow/), [/r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) or [/r/Homeless](https://www.reddit.com/r/homeless/) - Assistance & Donation Subreddits
@@ -135,7 +136,7 @@
 * [Writemonkey](http://writemonkey.com/) or [WriteNext](https://www.writenext.io/) - Distraction Free Writing App
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
 * [Calculist](https://calculist.io/) - Note Taking for Problem Solving
-* [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [App linked](https://uselinked.com/) / [GitHub](https://github.com/lostdesign/linked), [Gemlog](https://gemlog.blue/) or [journal-cli](https://v1.journalcli.app/) - Journal App
+* [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [App linked](https://uselinked.com/) / [GitHub](https://github.com/lostdesign/linked), [Gemlog](https://gemlog.blue/), [jrnl.sh](https://jrnl.sh/) or [journal-cli](https://v1.journalcli.app/) - Journal App
 * [Here and Now](https://here-and-now.glitch.me/) - Daily Reflections Journal
 * [Listography](https://listography.com/) - Create Lists of Anything
 * [Lyx](https://www.lyx.org/) - LaTeX Editor / [Guide](https://www.learnlatex.org/)
@@ -276,8 +277,9 @@
 * [TikTok Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tiktok_video_downloaders) - Download TikTok Videos
 * [myfaveTT](https://myfavett.com/) - Download Your Liked TikTok Videos
 * [TikUp](https://github.com/Coloradohusky/TikUp) - TikTok Auto Download / Upload
-* [How to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/)
-* [How to Rip Videos from Disney+](https://redd.it/ncyxzx), [2](https://web.archive.org/web/20210516014412/https://old.reddit.com/r/Piracy/comments/ncyxzx/tutorial_how_to_rip_moviesshows_from_disney_plus/) 
+* [How-to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/)
+* [How to Rip Videos from Disney+](https://redd.it/ncyxzx), [2](https://web.archive.org/web/20210516014412/https://old.reddit.com/r/Piracy/comments/ncyxzx/tutorial_how_to_rip_moviesshows_from_disney_plus/)
+* [Chat-Downloader](https://github.com/xenova/chat-downloader) - Retrieve Chat Messages from Livestreams
 * [PlayPhrase](https://playphrase.me/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/), [2](https://getyarn.io/) - Clip Quote Search Engine
 * [FFmpeg](https://ffmpeg.org/) - Video / Audio Recorder, Converter & Streaming
 * FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Builds](https://github.com/BtbN/FFmpeg-Builds) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730)
@@ -330,6 +332,7 @@
 * [Animaker](https://www.animaker.com/) - Animated Video Creator
 * [Reaktr](https://reaktr.vercel.app/) - Music Video Creator
 * [AMV101](https://www.amv101.com/) - Animated Music Video Making Guides
+* [Blaine's Movie Maker Blog](https://movies.blainesville.com/p/wmm-60-on-windows-7.html) - Windows Movie Maker Tutorials
 * [Unreal Engine](https://www.unrealengine.com/), [SketchUp](https://www.sketchup.com/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
@@ -436,7 +439,7 @@
 * [Whyp](https://whyp.it/) - Audio Host
 * [Aux](https://aux.app/) - Audio Project Host
 * [Audiocheck](https://www.audiocheck.net/) - Audio Tests 
-* [Online Mic Test](https://onlinemictest.com/), [Mic Tests](https://mictests.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test 
+* [Online Mic Test](https://onlinemictest.com/), [Mic Tests](https://mictests.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test  
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) - Measure Surrounding Sound Level
 * [Audio-Router](https://github.com/audiorouterdev/audio-router) - Route Audio from Programs to Devices
 * [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Playback or Recording Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
@@ -711,7 +714,9 @@
 * [PyPasser](https://github.com/xHossein/PyPasser) - Bypass ReCaptcha v3 & v2
 * [hcaptcha-solver](https://github.com/JimmyLaurent/hcaptcha-solver) - Bypass hCaptcha 
 * [Rescan](https://rescan.io/) - Find Out Technologies Used to Build Any Site
-* [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - Archive, Scrape & Crawl Sites 
+* [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - Archive, Scrape & Crawl Sites
+* [OutWit](https://www.outwit.com/) - Scrape / Organize Website Data
+* [WebMailExtractor](https://www.webemailextractor.com/#trynow) - Extract Emails / Phone #s from Webpages
 * [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/), [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/) or [FollowThatPage](https://followthatpage.com/) - Page Change Detection / Notification 
 * [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires 
 * [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - Check which IPFS Gateways are Online 
@@ -833,7 +838,6 @@
 * [Toptal](https://www.toptal.com/designers/colorfilter) - Colorblind Web Page Filter
 * [FaxZero](https://faxzero.com/) - Free Internet Faxing 
 * [Misc-Download-Scripts](https://github.com/simon987/Misc-Download-Scripts) - Download Scripts for Multiple Sites
-* [OutWit](https://www.outwit.com/) - Scrape / Organize Website Data 
 * [Hosts Files ghosts](https://github.com/StevenBlack/ghosts) - Evaluate, Compare & Format
 * [byp4xx](https://github.com/lobuhi/byp4xx) - Bypass "403 Forbidden" Messages 
 * [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) / [Fork](https://www.9bis.net/kitty/#!index.md), [GitHub](https://github.com/cyd01/KiTTY/) - SSH & Telnet Client / [Keygen](https://www.puttygen.com/)
@@ -881,6 +885,7 @@
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - Firefox CSS Guides 
 * [NightFox](https://github.com/snthcy/nightfox) - Firefox Mac Theme
+* [Firefox UWP Style](https://github.com/Guerra24/Firefox-UWP-Style) - Firefox UWP Theme
 * [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
 * [BrowserParrot](https://www.browserparrot.com/) - Browser History Search Engine
 * [EdgeDeflector](https://github.com/da2x/EdgeDeflector) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect ) - Force Open Default Browser
@@ -999,6 +1004,7 @@
 * [TinyUrl](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://i.imgur.com/DklVFU7.png)
 * [bit.do](https://bit.do/) - `bit.do/fNj7S`
 * [id](https://home.s.id/) - `s.id/EQBsg`
+* [v.ht](https://v.ht/) - `v.ht/rM7Q`
 * [3c5](https://3c5.com/) - `3c5.com/jWscV`
 * [Tiny.cc](https://tiny.cc/) - `tiny.cc/akl1mz`
 * [Paup](http://paup.ml/) - `paup.ml/H9-R2`
@@ -1040,7 +1046,7 @@
 * [CheckServer](https://check-host.net/), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Monitoring Tools
 * [CrowdTangle](https://apps.crowdtangle.com/chrome-extension) - Check Where Links Have Been Shared
 * [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MxToolbox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/) or [BillCipher](https://github.com/84KaliPleXon3/BillCipher) - Domain Info Lookup Tool
-* [Redirect Detective](https://redirectdetective.com/) - URL Redirect Checker 
+* [SpyOffers](https://www.spyoffers.com/) - Affiliate Link Checker
 * [Dereferer](https://dereferer.me/) - Derefer / Anonymize Links
 * [Link-Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
 * [dcrypt.it](http://dcrypt.it/) - Decrypt Link Containers
@@ -1075,7 +1081,7 @@
 * **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)** or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Browser Extension /  [Feature List](https://redditenhancementsuite.com/features/)
 * **[redditlist](http://redditlist.com/)**, [sayit](https://anvaka.github.io/sayit/), [Vizit](http://redditstuff.github.io/sna/vizit/), [Map of Reddit](https://anvaka.github.io/map-of-reddit), [Subbed](https://www.subbed.org/), [RedditViz](https://rhiever.github.io/redditviz/) or [subreddits](http://subreddits.org/) - Subreddit Indexes
 * [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/) - Related Subreddit Calculator
-* /u/SaveVideo, [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://www.redditsave.com/), [redv.co](https://redv.co/) or [Reddit.tube](https://reddit.tube/) - Download Reddit Videos 
+* /u/SaveVideo, [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://www.redditsave.com/), [redv.co](https://redv.co/), [lew.la](https://lew.la/) or [Reddit.tube](https://reddit.tube/) - Download Reddit Videos 
 * [saveddit](https://github.com/p-ranav/saveddit) or [SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader) - Reddit Bulk Media Downloader
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown)
 * [Subreddit Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_subreddit_discovery) - Explore & Discover Subreddits
@@ -1377,7 +1383,7 @@
 * [AnnotationsRestored](https://github.com/isaackd/AnnotationsRestored) - Restore YouTube Annotations
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note Taking Tool
 * [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels 
-* [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
+* [Hadzy](https://hadzy.com/), [YCS](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa?hl=en) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
 * [Reddit Comments for YouTube](https://github.com/tayloroneill/Reddit-Comments-for-YouTube), [Upvote Anywhere](https://github.com/z0ccc/Upvote-Anywhere) or [Karamel](https://chrome.google.com/webstore/detail/karamel-view-reddit-comme/halllmdjninjohpckldgkaolbhgkfnpe?hl=en) - Replace YouTube Comments with Reddit Comments
 * [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix Youtube Search & Declutter Homepage 
 * [youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Video Like / Dislike Hotkeys
@@ -1421,7 +1427,7 @@
 * [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/) or [ytwrk](https://github.com/terorie/ytwrk) - YouTube Data Extraction 
 * [Youtube DataViewer](https://citizenevidence.amnestyusa.org/) or [YouTube-MA](https://github.com/CorentinB/YouTube-MA) - YouTube Video Data Viewer 
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YouTube Screenshot](https://www.youtubescreenshot.com/), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [thumbnail-download](https://thumbnail-download.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - Download YouTube Thumbnails
-* [Screenshot YouTube](https://chrome.google.com/webstore/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk) - YouTube Screenshot Extension
+* [Screenshot YouTube](https://chrome.google.com/webstore/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk), [YouTube Screenshot](https://chrome.google.com/webstore/detail/youtube-screenshot/admjdaoijfccdllogfnddnllkghmkpfb?hl=en) or [YouTube Screenshot Button](https://chrome.google.com/webstore/detail/youtube-screenshot-button/ehehmcocpegbmagfhajbmeofolnpdfla?hl=en) - YouTube Screenshot Extension
 * [YouTube-Grab](https://github.com/ArchiveTeam/youtube-grab) or [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Metadata
 * [RadiTube](https://extension.raditube.com/) - View MetaData & Transcripts of Deleted YouTube Videos
 
@@ -1628,7 +1634,7 @@ Twitch Stream Tracker
 * [Redwan's Guide to Guides](https://docs.google.com/document/d/1hZeQkyDe-M9-zNy2eB-Koc3iOpN5-5KxkpvjQaNK60g/edit) - Windows Tweaking Guides
 * [Awesome Scripts](https://github.com/codePerfectPlus/awesomeScripts), [Batch-Script-Collection](https://github.com/happy05dz/Batch-Script-Collection), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - Useful System Scripts
 * [SmartWindows](https://smartwindows.app/) - Create / Restore Windows Profiles 
-* [VirtualBox](https://www.virtualbox.org/), [Qemu](http://www.qemu-project.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)
+* [VirtualBox](https://www.virtualbox.org/), [Looking Glass](https://looking-glass.io/), [Qemu](http://www.qemu-project.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)
 * [Virt Machine](https://virt-manager.org/) - Virtual Machine Manager 
 * [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - Windows XP Virtual Machine
 * [windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in Electron
@@ -1686,6 +1692,7 @@ Twitch Stream Tracker
 * [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) - SMBIOS Generator
 * [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit) - Intel BIOS Settings Explanation
 * [BiOSBug](https://www.biosbug.com/) - Remove / Reset BiOS Password / [Tutorial](https://www.youtube.com/watch?v=GolIjI2HS5w)
+* [](https://www.win-raid.com/t9926f16-TOOL-Lenovo-H-Bios-Unlocker-and-Locker.html) - Lenovo (H20) Bios Unlocker / Locker
 * [x64dbg](https://github.com/x64dbg/x64dbg) - Windows Debugging Tool
 * [UptimeFaker](https://github.com/CookiePLMonster/UptimeFaker) - System Uptime Debugger
 * [OllyDbg](https://www.ollydbg.de/) - Binary Code Analysis Tool
@@ -1694,7 +1701,7 @@ Twitch Stream Tracker
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
-* [Key Test](https://en.key-test.ru/) or [KeyboardTester](https://www.keyboardtester.com/) - Test Keyboard Buttons
+* [Keyboard Testers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_keyboard_testers) - Test Keyboard Buttons
 * [Keytap2](https://keytap2.ggerganov.com/) - Acoustic Keyboard Eavesdropping
 * [CustomKeyboardLayoutPersistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layout
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) - System Forensic Tools
@@ -1885,6 +1892,7 @@ Twitch Stream Tracker
 * [RemoveEdgeWin11](https://rentry.co/RemoveEdgeWin11) - Remove Edge on Windows 11
 * [Boot Failure Troubleshooting Chart](https://i.imgur.com/QsxYtB4.jpg) - Boot Failure Troubleshooting Guide
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
+* [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor 
 * [MTKClient](https://github.com/bkerler/mtkclient) - MTK Reverse Engineering / Flash Tool
 * [GetCID](https://www.getcid.info/) - Obtain Windows Confirmation ID
 * [Fliqlo](https://fliqlo.com/screensaver/) or [Flipit](https://github.com/phaselden/FlipIt) - Clock Screensaver
@@ -1907,7 +1915,7 @@ Twitch Stream Tracker
 * [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Community
 * [WindowsCustomization](https://windowscustomization.com/), [VirtualCustoms](https://virtualcustoms.net/), [WinCustomize](https://www.wincustomize.com/), [Win10 DeviantArt](https://www.deviantart.com/tag/windows10), [WinClassic](https://winclassic.boards.net/) or [7Themes](https://7themes.su/) - Desktop Customization / Themes / Wallpapers ect.
 * [msstyleEditor](https://github.com/nptr/msstyleEditor) - Windows Visual Style Editor
-* [DynaWin](https://github.com/Apollo199999999/DynaWin) - Dynamic Desktop Themes
+* [DynaWin](https://github.com/Apollo199999999/DynaWin) or [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Dynamic Desktop Themes
 * [SecuredUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - Ux Theme Patcher
 * [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) - Theme Source Patcher
 * [Ricing Guide](http://www.ricing.chloechantelle.com/) - Windows Ricing Guide
@@ -1943,6 +1951,7 @@ Twitch Stream Tracker
 * [Cursors 4U](https://www.cursors-4u.com/) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
 * [Windows Sounds](https://winsounds.com/) or [Win11 Sounds](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_win11_sounds) - Windows Sound Schemes
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - MacOS Cursors for Windows
+* [Win7BootUpdater](https://mega.nz/file/T5ZDmIaK#jdiomK79q1CYzwFcbzkzJ1ceLsWlnAHLvofsjHIq39g) - Customize Windows 7 Boot Animation / [Guide](https://youtu.be/IdwcWIKuVG8)
 * [terminal.sexy](https://terminal.sexy/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Color Schemes
 * [Tabby](https://tabby.sh/) - Modern Style Terminal
 * [linux-like-windows-terminal](https://github.com/Kyza/linux-like-windows-terminal) - Linux Style Windows Terminal
@@ -1988,7 +1997,7 @@ Twitch Stream Tracker
 * [FileInfo](https://fileinfo.com/), [File-Extensions.info](https://file-extensions.info/) or [File-Extensions](https://www.file-extensions.org/) - File Extension Library
 * [download](https://github.com/kevva/download) - File Download Tool / Extractor / [CLI](https://github.com/kevva/download-cli)
 * [XBackBone](https://xbackbone.app/) - File Manager / [GitHub](https://github.com/SergiX44/XBackBone)
-* [DropIt](http://www.dropitproject.com/) - Automated File Management
+* [DropIt](http://www.dropitproject.com/) or [Organize](https://github.com/tfeldmann/organize) - Automated File Manager
 * [What](https://github.com/bee-san/pyWhat) - Text & File Analyzer
 * [WhoLeaked](https://github.com/utkusen/wholeaked) - File Leak Tracker
 * [DownloadTimeCalculator](https://downloadtimecalculator.com/) - Calculate Time to Download Files
@@ -2118,6 +2127,7 @@ Twitch Stream Tracker
 * [QuickSFV](https://quicksfv.org/), [RapidCRC](http://rapidcrc.sourceforge.net/) or [QuickDash](https://github.com/AndreVuillemot160/QuickDash/) / [Discord](https://discord.gg/ZuxmMXdGpm) - File Hashing / Verification Tools
 * [Hashes](https://hashes.com/) - Decrypt Hashes
 * [MD5 Hash Changer](https://github.com/ewwink/MD5-Hash-Changer) - Change a Files MD5 Hash
+* [Hasher](https://www.igorware.com/hasher) - Hash Generator
 * [SQLite Viewer](https://inloop.github.io/sqlite-viewer/) - View SQLite Files Online 
 * [MediaInfoOnline](https://mediaarea.net/MediaInfoOnline) - Media File Info
 * [Xartifex](http://xartifex.com/) - Word & Excel File Unlocker
