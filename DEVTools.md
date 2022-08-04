@@ -302,7 +302,7 @@
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
 * [devSwag](https://devswag.io/) - Developer Giveaways
 * [is-a.dev](https://www.is-a.dev/) - Developer Homepages
-
+* [instagrapi](https://github.com/adw0rd/instagrapi) - Unofficial Instagram API for Python
 ***
 
 ## ▷ Site Development 
