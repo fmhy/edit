@@ -21,13 +21,13 @@
 * **[lists](https://github.com/jnv/lists)** - List Index 
 * **[Get Awesomeness](https://getawesomeness.herokuapp.com/)** - List Index
 * **[Index.Normie](https://index.normie.cc/)** - Site / Tool Index
-* **[Esoterica Avenue](https://ori5000.github.io/)** - Software & Games Megathread / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn) 
-* **[Curlie](https://curlie.org/)** - Topic Directory 
+* **[Esoterica Avenue](https://ori5000.github.io/)** - Software & Games Megathread / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
+* **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** or [/r/Stumbledon](https://www.reddit.com/r/Stumbledon/) - Helpful / Fun Sites
+* **[Curlie](https://curlie.org/)** - Topic Directory
 * **[Open Source Intelligence Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_source_intelligence_indexes)**
 * **[FMHY Guides](https://fmhy.tk/guides)** - List of Guides
 * [Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - Find Software / App Alternatives 
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - Open Source Software Indexes
-* [/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful) or [/r/Stumbledon](https://www.reddit.com/r/Stumbledon/) - Helpful / Fun Sites
 * [/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index), [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/ ) - /r/Piracy Index
 * [/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread) - Software Piracy Megathread
 * [Neverland](http://www.neverland.ws/index.html) - Piracy Index / [Links](https://rentry.co/oo9ri) 
