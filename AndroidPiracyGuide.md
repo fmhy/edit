@@ -723,12 +723,13 @@
 
 # ► Android Streaming
 
-* **[CloudStream-3](https://github.com/reduplicated/Cloudstream)** / [2](https://github.com/LagradOst/CloudStream-2) - Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM)
+* **[CloudStream](https://github.com/reduplicated/Cloudstream)** / [2](https://github.com/LagradOst/CloudStream-2) - Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM)
 * **[HDO Box](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hdo+box&sf=titleonly)** - Movies / TV
 * **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Addons](https://github.com/danamag/stremio-addons-list/blob/main/README.md) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * **[Kodi](https://kodi.tv/)** - /r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) / [Real-Debrid](https://real-debrid.com/)
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - Ad-Free YouTube on Android
 * **[Movies4Discord TV](https://movies4discord.xyz/download)** - Movies / TV / Android TV App
+* [Movie HD](https://moviehdapkdownload.com/moviehd-apk/) - Movies / TV / Chromecast
 * [Arthemis](https://app.arthemis.xyz/) - Movies / TV / Anime
 * [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - Movies / TV / Anime 
 * [PopcornTime](http://popcorn-time.ga/) - Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
@@ -738,7 +739,6 @@
 * [IsraTV](https://isratv.netlify.app/) - Movies / TV / Live TV
 * [MediaBox HD](https://mediaboxhd.net/) - Movies / TV / Chromecast
 * [Modded Hotstar](https://t.me/shooterOfficial1/38308) - Movies / TV
-* [Movie HD](https://moviehdapkdownload.com/moviehd-apk/) - Movies / TV / Chromecast
 * WiWiCenter - [Movies / TV](https://cinema.wiwicenter.com/) / [Anime](https://anime.wiwicenter.com/) - Use Adblocker
 * [Upflix](https://www.upflix.net/) - Movies / TV
 * [Titanium TV](https://aapks.com/apk/titanium-tv-com-wise-tech-titanium/) - Movies / TV / Anime / Chromecast
