@@ -235,6 +235,7 @@
 * [CBeta](http://www.cbeta.org/) - Chinese Buddhist Scriptures
 * [21dzk](https://21dzk.l.u-tokyo.ac.jp/SAT/index.html) - Chinese Buddhist Scriptures
 * [Legado](https://github.com/gedoor/legado) - Android Ebook Reader
+* [wenku](https://pypi.org/project/wenku/) - Baidu Wenku Downloader
 
 ***
 
@@ -1235,6 +1236,7 @@
 * [Proxy-Checker](https://proxy-checker.net/) - Proxy Checker
 * [RKN Dump Check](https://t.me/u2ckbot) - Russian Censorship Check
 * [Поиск](https://poshukach.com/) - Search Engine
+* [Kribrum](https://kribrum.io/search) - Social Media Search Engine
 * [topsites](https://topsites.name/) - Russian Site Index
 * [EDA](https://eda.ru/) - Recipes
 * [WASM](https://www.wasm.in/) - Web Assembly Forum
@@ -1825,7 +1827,7 @@
 * [7MovieRulz.es](https://7movierulz.es/) - Stream / Torrent / Movies / [Telegram](https://t.me/movierulztv)
 * [Movierulz](https://movierulzhd.lol/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
 * [MovieRulz.art](https://movierulzlink.art/) - Streaming / Movies
-* [TamilRockers](https://www.tamilrockermovies.org/) - Streaming / Torrent / Movies
+* [TamilRockers](https://www.tamilrockermovies.org/), [2](https://www.tamilrockermovies.ca/) - Streaming / Torrent / Movies
 * [HiidudeMoviez](https://ww1.4hiidude.me/) - Streaming / Torrent / Movies / [Telegram](https://telegram.me/hiidudemoviez)
 * [v100v.net](https://www.v100v.net/) - Streaming / Movies
 * [Toroflix](https://freewatchhindimoviesonline.com/) - Streaming / Movies
@@ -1872,6 +1874,7 @@
 * [RÚV](https://www.ruv.is/ruv) - Icelandic / Live TV
 * [Ethio Terka](https://t.me/ethio_terka) - Amharic / Books
 * [JavaLibre](https://javalibre.com.ua/) - Ukrainian / Books
+* [Redzidzirdilatviju](http://www.redzidzirdilatviju.lv/en/) - Latvian / Documents
 * [Machine Learning ka Chilla](https://www.youtube.com/playlist?list=PL9XvIvvVL50HHzaLPtFBOuikAWa0JdhMW) - Urdu / Machine Learning Course 
 * [WiiDatabase](https://wiidatabase.de/) - Deutsch / Nintendo Homebrew
 * [KannadaCine](https://www.kannadacine.com/) - Kannada / Streaming / Movies
