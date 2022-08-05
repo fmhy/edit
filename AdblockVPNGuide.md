@@ -385,7 +385,7 @@
 * [WhatsMyUA?](https://www.whatsmyua.info/) or [WhatIsMyBrowser](https://www.whatismybrowser.com/detect/what-is-my-user-agent) - User-Agent Detection 
 * [Pribot](https://pribot.org/) - Automated Analysis for Privacy Policies 
 * [Google Takeout](https://takeout.google.com/) - Google Data Request
-* [de-google](https://www.reddit.com/r/privacy/wiki/de-google), [De-google-ify](https://degooglisons-internet.org/en/) / [GitHub](https://github.com/tycrek/degoogle), [Google Alt List](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
+* [de-google](https://www.reddit.com/r/privacy/wiki/de-google), [De-google-ify](https://degooglisons-internet.org/en/), [Degoogle](https://github.com/tycrek/degoogle), [Google Alt List](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
 * [no-google](https://github.com/nickspaargaren/no-google) - Block All Google Services 
 * [Nixory](http://nixory.sourceforge.net/) - Antispyware Browser Tool 
 * [Alternative Internet](https://redecentralize.github.io/alternative-internet/) - Decentralization Networks
