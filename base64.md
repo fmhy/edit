@@ -1667,3 +1667,9 @@ pass: paluch
 #### Ninja Warrior
 
 `aHR0cHM6Ly9yZW50cnkuY28vTmluamFXYXJyaW9y`
+
+***
+
+#### Scrivener
+
+`aHR0cHM6Ly93d3cuZHJvcGJveC5jb20vcy9ibnN5c2p1YnN5cTQ1dWQvU2NyaXZlbmVyLTEuOS4wLjFiZXRhLXg4Nl82NF9sYW5ndWFnZV9wYWNrLkFwcEltYWdlLnRhci5neg==`
