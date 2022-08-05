@@ -236,7 +236,8 @@
 * [WaveUp](https://gitlab.com/juanitobananas/wave-up) - Turn On Display via Waving
 * [Shelter ](https://cgit.typeblog.net/Shelter/) or [Insular](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps
 * [Warp Plus Cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Unlimited Warp+ GB
-* [MacroDroid](http://macrodroid.com/) or [AutomateIt](https://www.automateitapp.com/) - Android Automation 
+* [MacroDroid](http://macrodroid.com/) or [AutomateIt](https://www.automateitapp.com/) - Android Automation
+* [DoForMe](https://play.google.com/store/apps/details?id=com.aj.dfm) - Location Based Automation
 * [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) - Gesture Controls
 * [Naptime](https://play.google.com/store/apps/details?id=com.franco.doze) - Accelerates Android Sleep Mode
 * [JulioverneHYI](https://julio.hackyouriphone.org/) - Repository for Piracy Tools
@@ -261,8 +262,9 @@
 * [Shitter](https://github.com/nuclearfog/Shitter) or [Harpy](https://play.google.com/store/apps/details?id=com.robertodoering.harpy.free) - Twitter Client
 * [Twiger](https://twiger.launchaco.com/) - Share Any Tweet on Instagram
 * [Google Lens](https://lens.google/) - Multiple Camera Tools
-* [Widgetshare](https://play.google.com/store/apps/details?id=com.galew.widgetshare) - Photo Sharing App 
+* [Widgetshare](https://play.google.com/store/apps/details?id=com.galew.widgetshare) - Photo Sharing App
 * [PhotoRoom](https://www.photoroom.com/) - Background Remover
+* [Dittoed](https://dittoed.app/) - Improve Image Composition
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera), [DMGC](https://thedise.me/dmgc/) or [Camator](https://gcamator.com/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/)
 * [ANXCamera](https://camera.aeonax.com/) - Miui Camera Port 
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)
@@ -275,6 +277,7 @@
 * [Upscaler](https://play.google.com/store/apps/details?id=com.ethanzone.upscaler&hl=en_US&gl=QA) - Image Upscaler
 * [LosesslessJpgCrop](https://github.com/k3b/LosslessJpgCrop) - Lossless Image Cropper
 * [Image Searcher](https://play.google.com/store/apps/details?id=sansunsen3.imagesearcher) - Image Search App
+* [ScreenshotFlow](https://screenshotflow.com/) - Create App Diagrams
 * [QuiverVision](https://quivervision.com/) - Augmented Reality Coloring
 * [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix ) - Combine Emojis
 * [background video recorder](https://play.google.com/store/apps/details?id=com.camera.secretvideorecorder) - Record Videos in Background
@@ -591,6 +594,8 @@
 * [tTorrent](https://play.google.com/store/apps/details?id=hu.tagsoft.ttorrent.lite) - [Screenshot](https://i.imgur.com/S61JgNg.png)
 * [Frostwire](https://play.google.com/store/apps/details?id=com.frostwire.android) - [Screenshot](https://i.imgur.com/EoB3DED.png)
 * [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) - [Screenshot](https://i.imgur.com/rZ2JeCO.png)
+* [Red Torrent](https://sourceforge.net/projects/redtorrent/) - [Screenshot](https://i.imgur.com/uVKVVLg.png)
+* [Android-A](http://android-a.com/) - [Screenshot](https://i.imgur.com/khlurm7.png)
 * [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - [Screenshot](https://i.imgur.com/OrK3mLu.png)
 * [WeTorrent](https://play.google.com/store/apps/details?id=co.we.torrent&amp;hl=en_US) - [Screenshot](https://i.imgur.com/vrCk8Na.png)
 * [BiglyBT](https://android.biglybt.com/) - [Screenshot](https://i.imgur.com/WP7xwYK.png) 
@@ -934,6 +939,7 @@
 * [iEmulators](https://iemulators.com/) - Emulator Apps
 * [Infinity](https://github.com/fullpwn/infinity) - Run Android 10(Q) on iPhone
 * [HappyChick](http://www.happychick.hk/download.html) or [8090Games](https://apps.apple.com/us/app/8090games/id1514980629) - Game Emulator
+* [Downgrade Apps](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy/) - How-to Downgrade Apps
 * [iDOS](https://iosninja.io/ipa-library/download-idos-ipa-ios) - DOS Emulator / [GitHub](https://github.com/litchie/dospad)
 * [iSSB Play](https://iosninja.io/ipa-library/download-issb-ipa-ios) - Super Smash. Bros on iOS / [GitHub](https://github.com/lufinkey/iSSB)
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - Office Suite 
