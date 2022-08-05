@@ -170,7 +170,7 @@
 
 * [find-PlayDate](https://www.find-playdate.com/) - Find People to Play Games With 
 * [Online Fix](https://online-fix.me/) / [Discord](https://discord.gg/yExgFYncMD), [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/), [FreeLan](https://www.freelan.org/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/) or [softether](https://www.softether.org/) - Play Pirated Multiplayer Games
-* [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) - Online Game Acceleration Proxy
+* [Ping Enhancer](https://www.wowinterface.com/downloads/info16336-PingEnhancer.html) or [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) - Decrease Ping
 * [Server.pro](https://server.pro/) or [Orcs](http://orcs.biz/) - Game Server Hosting
 * [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - Hide Player Names to Avoid Stream Sniping
 * [ElDewrito](https://dewritohub.com/) - Halo Online Mod Tool / [GitHub](https://github.com/ElDewrito) / [Discord](https://discord.com/invite/0TKY0SDEUHAWL4sG), [2](https://discord.com/invite/gtqM3s5)
@@ -400,7 +400,7 @@
 * [Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)
 * [Homebrew Gang](https://thehbg.shop/main.html) - Switch Homebrew Community
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - Switch Homebrew Subreddit
-* [Switch Guide](https://nh-server.github.io/switch-guide/) or [SWITCHWAY](https://switchway.xyz/) - Switch Homebrew Guide
+* [Switch Guide](https://nh-server.github.io/switch-guide/), [Switch.Homebrew](https://switch.homebrew.guide/) or [SWITCHWAY](https://switchway.xyz/) - Switch Homebrew Guide
 * [Nintendo Homebrew](https://discord.com/invite/C29hYvh) - 3DS / Switch Homebrew Community
 * [SDSetup](https://github.com/noahc3/SDSetup) - Nintendo Switch SD Setup
 * [WiiBrew](https://wiibrew.org/) or [Wii Guide](https://wii.guide/) - Wii Homebrew Guides
@@ -420,6 +420,7 @@
 * [GameBoy Book Reader](https://www.mqp.com/fun/) - Gameboy Book Reader
 * [/r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
+* [RetroArch Xbox Retail Mode](https://youtu.be/dV9GyKicrAg) - RetroArch Xbox Retail Mode Guide
 * [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - Add More Roms to NES/SNES Classic Mini
 * [emuiibo](https://github.com/XorTroll/emuiibo) - Amiibo Emulator
 * [All Amiibo Bin Files](https://redd.it/mlvfak) - Amiibo Bin Files
@@ -429,7 +430,7 @@
 
 # ► Game Mods
 
-* **[ModDB](https://moddb.com/)**, [Nexus Mods](https://www.nexusmods.com/), [ZagruzkaMods](https://zagruzkamods.com/), [NextGenUpdate](https://www.nextgenupdate.com/), [ModWorkshop](https://modworkshop.net/), [Video Game Mods](https://videogamemods.com/), [Silent's Blog](https://cookieplmonster.github.io/mods/index/), [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack) or [CurseForge](https://www.curseforge.com/) - Game Mods 
+* **[ModDB](https://moddb.com/)**, [Nexus Mods](https://www.nexusmods.com/), [ZagruzkaMods](https://zagruzkamods.com/), [NextGenUpdate](https://www.nextgenupdate.com/), [ModWorkshop](https://modworkshop.net/), [Video Game Mods](https://videogamemods.com/), [Silent's Blog](https://cookieplmonster.github.io/mods/index/), [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack), [GameFront](https://gamefront.com/) or [CurseForge](https://www.curseforge.com/) - Game Mods 
 * [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers
 * [ChronoCrash](http://www.chronocrash.com/forum/) or [TheTechGame](https://www.thetechgame.com/) - Game Modding Forum
 * [Playground](https://www.playground.ru/) - Mods, Artbooks, Soundtracks, Cheats & more
