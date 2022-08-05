@@ -780,7 +780,7 @@ Automated Incident Response and Forensics Framework
 * [DaisyUI](https://daisyui.com/) - Tailwind Component Library / [GitHub](https://github.com/saadeghi/daisyui )
 * [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks
 * [MarkdownGuide](https://www.markdownguide.org/) - Guide for Markdown (.md) 
-* [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/), [Glow](https://github.com/charmbracelet/glow) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editor
+* [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editor
 * [Table Magic](https://stevecat.net/table-magic/) - CSV, HTML & Markdown Converter
 * [Markdown To HTML](https://markdowntohtml.com/) - Markdown to HTML Converter
 * [AiToHTML](http://ai2html.org/) - Illustrator to HTML Converter
@@ -799,7 +799,7 @@ Automated Incident Response and Forensics Framework
 * [GitHub.Dev](https://github.dev/) - GitHub Web App
 * [refined-github](https://github.com/refined-github/refined-github) or [Ungit](https://github.com/FredrikNoren/ungit) - Improved GitHub Interface
 * [Stefan Buck](https://stefanbuck.com/awesome-browser-extensions-for-github) - GitHub Browser Extensions / [GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github/)
-* [git.io](https://git.io/) - GitHub URL Shortener
+* [Imgbot](https://github.com/imgbot/Imgbot) - GitHub Image Compression
 * [up-for-grabs](https://up-for-grabs.net/) - Curated List of Tasks for New Contributes
 * [GitHub-Userscripts](https://github.com/Mottie/GitHub-userscripts) - GitHub Userscripts
 * [Awesome Actions](https://github.com/sdras/awesome-actions) - Curated List of Github Actions
@@ -849,7 +849,8 @@ Automated Incident Response and Forensics Framework
 * [GitHub Release Downloads](https://github.com/addshore/browser-github-release-downloads) - GitHub Release Download Counter
 * [Git-notify](https://github.com/jevakallio/git-notify) - Embed Announcements into Git Commit Messages
 * [Shields.io](https://shields.io/) - Metadata badges for Github Readmes
-* [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - Enable Snake Game on GitHub ReadMe
+* [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - Enable Snake Game on GitHub Readme
+* [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Generate Git Profile Readme
 * [Discord MD Badge](https://github.com/montylion/discord-md-badge) - Add Discord Badge to GitHub
 * [Github vscode icons](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
 * [github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - Material Icons
@@ -1008,8 +1009,6 @@ Automated Incident Response and Forensics Framework
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engine
 * [Dracula](https://draculatheme.com/) - Dark Theme for Code Editors / Terminal Emulators 
 * [Zero Dark Matrix](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - Chrome Devtools Dark Theme 
-* [OhMyZSH](https://ohmyz.sh/) - ZSH Customization
-* [PowerLevel10k](https://github.com/romkatv/powerlevel10k) - ZSH Theme
 * [Tantiny](https://github.com/baygeldin/tantiny) - Full-Text Ruby Search
 * [GNU Octave](https://www.gnu.org/software/octave/) - Scientific Programming Language
 * [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - Javascript Resources
@@ -1113,7 +1112,8 @@ Automated Incident Response and Forensics Framework
 * [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [IDE One](https://www.ideone.com/) or [Wandbox](https://wandbox.org/) - Online Compiler 
 * [Notebooks.azure](https://notebooks.azure.com/) - Access Jupyter notebooks 
 * [CoCalc](https://cocalc.com/) - Virtual online workspace
-* [CodePen](https://codepen.io/), [Web Maker](https://webmaker.app/ ) or [Liveweave](https://liveweave.com/) - Code Sandbox 
+* [CodePen](https://codepen.io/), [Web Maker](https://webmaker.app/) or [Liveweave](https://liveweave.com/) - Code Sandbox
+* [Platform.uno](https://platform.uno/) - App Framework
 * [tio.run](https://tio.run/) - Programming Language Interpreters 
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
 
