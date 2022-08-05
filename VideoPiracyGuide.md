@@ -245,7 +245,8 @@
 * [OnlySeries](https://onlyseries.net/) - TV
 * [Watch-TvSeries](https://www1.watch-tvseries.net/) - TV
 * [MyWatchSeries](https://www5.mywatchseries.stream/) - TV / Anime 
-* [turkish123](https://turkish123.com/) - Turkish TV Shows / Subtitles 
+* [turkish123](https://turkish123.com/) - Turkish TV Shows / Subtitles
+* [Adult Swim](https://www.adultswim.com/videos/) - Full Adult Swim Episodes
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - Bay Area TV Archive  
 * [Ninja Warrior](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ninja_warrior) - Sasuke Episodes
 * [MyRM](https://myrunningman.com/) - My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)
@@ -773,7 +774,7 @@
 * [pirateflix](https://github.com/orinocoz/pirateflix), [wt](https://github.com/DegenCoden/wt), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) / [MPV](https://github.com/noctuid/mpv-peerflix-hook) or [Clifix](https://github.com/fabiospampinato/cliflix)  - Torrent Streaming CLI 
 * [TorrenTV](https://torrentv.github.io/) - Stream Torrents to Apple TV, Chromecast & Roku
 * [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - Stream Torrents in VLC
-* [Iceetime](https://github.com/diericx/iceetime) - Self-Hosted Torrent Streaming 
+* [Iceetime](https://github.com/diericx/iceetime) or [RapidBay](https://github.com/hauxir/rapidbay) - Self-Hosted Torrent Streaming 
 * [DuckieTV](http://duckietv.github.io/DuckieTV/) - TV Tracker / Torrent Downloader 
 
 ***
@@ -1016,7 +1017,8 @@
 * [subtitle.js](https://github.com/gsantiago/subtitle.js) - Parse and manipulate SRT (SubRip)
 * [TranslatesSubtitles](https://translatesubtitles.com/) or [SubtitleTranslate](https://github.com/mepeichun/SubtitleTranslate) - Translate Subtitles
 * [subtitle_tonemap](https://github.com/quietvoid/subtitle_tonemap) - Map PGS Subs to Different Color / Brightness
-* [DualSub](https://github.com/bonigarcia/dualsub) - Bilingual Subtitles Maker  
+* [DualSub](https://github.com/bonigarcia/dualsub) - Bilingual Subtitles Maker
+* [asbplayer](https://killergerbah.github.io/asbplayer/) - Subtitle Sentence Mining
 * [SaveSubs](https://www.savesubs.com/) - Extract Subtitles from Online Videos 
 * [PlayPhrase](https://github.com/kelciour/playphrase) - Subtitle Phrase Search
 * [Sushi](https://github.com/tp7/Sushi) - Automatic Subtitle Shifter Based on Audio 
