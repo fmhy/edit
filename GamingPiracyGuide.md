@@ -146,7 +146,10 @@
 * [ROMsGet](https://www.ROMsget.io/) - Emulators / ROMs
 * [EasyROMs](https://easyROMs.com/) - Emulators / ROMs 
 * [ROMsPURE](https://ROMspure.cc/) - Emulators / ROMs
+* [Romspedia](https://www.romspedia.com/) - Emulators / ROMs
 * [ROMs Games](https://ROMsgames.net/) - Emulators / ROMs
+* [ROMs DL](https://romsdl.com/) - Emulators / ROMs
+* [DownloadArea81](https://www.downarea51.com/) - Emulators / ROMs
 * [CoolROMs](https://coolrom.com.au/) - Emulators / ROMs / Use ["Alt DL Link"](https://i.imgur.com/FgHvrPK.png)
 * [All Xbox Game](https://downloadgamexbox.com/) - ROMs
 * [RomToHome](https://romtohome.com/) - ROMs
@@ -170,6 +173,7 @@
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - ROMs / Torrent
 * [Switch ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - ROMs / Switch
 * [MarioCube](https://mariocube.com/) - ROMs / Wii / Gamecube
+* [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [3DS ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - ROMs / 3DS
 * [Gameboy ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gameboy_roms) - ROMs / Gameboy
 * [PS4 ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ps4_roms) - ROMs / PS4
@@ -327,6 +331,7 @@
 * [Aleph One](https://alephone.lhowon.org/) - Open-Source Marathon Continuation 
 * [Powerslave EX](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_powerslave_ex) - Powerslave PC Port 
 * [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) - Driver 2 PC Port
+* [Megaman 2.5D](http://petersjostrand.com/) - Multiplayer Megaman
 * [EDuke32](https://www.eduke32.com/) - Duke Nukem 3D Source Port
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)
@@ -423,6 +428,7 @@
 * [RobotStreamer](https://robotstreamer.com/) - Live Control Robots 
 * [Free Rider HD](https://www.freeriderhd.com/) - Draw / Race Bike Tracks
 * [Merc.zone](https://merc.zone/) - Browser FPS
+* [Superhot](https://superhotgame.com/superhot-prototype) - Browser FPS
 * [BananaBread](https://kripken.github.io/misc-js-benchmarks/banana/index.html) - Browser Bot FPS 
 * [Dynast](https://dynast.io/) - Survival Browser Game
 * [Mexican Train](https://mexicantrain.online/) - Domino Train Game
