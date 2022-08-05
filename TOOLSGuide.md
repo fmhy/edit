@@ -64,7 +64,7 @@
 * [Tempus](https://tempus.keziahmoselle.fr/), [ManicTime](https://www.manictime.com/), [Clockify](https://clockify.me/), [Pro Modoro](https://pro-modoro.xyz/) / [2](https://pomofocus.io/) or [Super-Productivity](https://github.com/johannesjo/super-productivity)  - Productivity Managers
 * [DogSheep](https://dogsheep.github.io/) - Personal Analytics Tools 
 * [Stretchly](https://hovancik.net/stretchly), [WorkRave](https://workrave.org/), [Take a Five](http://www.takeafive.com/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - Break Reminders / Trackers
-* [DoINeedAJacket](https://doineedajacket.com/weather/), [Weather.com](https://weather.com/), [DogeWeather](http://dogeweather.com/), [ForcastAdvisor](https://www.forecastadvisor.com/) or [wttr](https://wttr.in/) - Weather Reports
+* [DoINeedAJacket](https://doineedajacket.com/weather/), [Weather.com](https://weather.com/), [DogeWeather](http://dogeweather.com/), [ClearOutside](https://clearoutside.com/), [ForcastAdvisor](https://www.forecastadvisor.com/) or [wttr](https://wttr.in/) - Weather Reports
 * [IEMBot](https://weather.im/iembot/) - Weather Bot Monitor
 * [World Weather Online](https://www.worldweatheronline.com/) - Historical Weather Reports
 * [Cricket Convert](https://www.weather.gov/epz/wxcalc_cricketconvert) - Estimate Temperature via Cricket Chirps
@@ -122,6 +122,7 @@
 * **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_office_suites)** - Office Suite Software
 * [Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pastebins) - Paste / Store Text Online
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
+* [Scrivener](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_scrivener) - Book Writing App
 * [WriteURL](https://www.writeurl.com/) - Collaborative Text Editor
 * [GhostText](https://ghosttext.fregante.com/) - Use Text Editor in Browser
 * [Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - Note Taking & To-do Apps
@@ -151,7 +152,7 @@
 * [ConvertText](https://converttext.io/) - Text Converter
 * [Text File Splitter](https://textfilesplitter.com/) - Text File Splitter
 * [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - Rephrase / Paraphrase Text 
-* [Linguix](https://linguix.com/) or [TextCleanr](https://www.textcleanr.com/) - Writing Assistant
+* [Linguix](https://linguix.com/), [HyperWrite](https://hyperwriteai.com/) or [TextCleanr](https://www.textcleanr.com/) - Writing Assistant
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
 * [Cliche Finder](http://cliche.theinfo.org/) - Detect Cliches
 * [phraseup](http://www.phraseup.com/) - Autocomplete Common Phrases 
@@ -229,6 +230,7 @@
 * [Textanim](https://textanim.com/) or [Space Type Generator](https://spacetypegenerator.com/) - Animated Text Generator 
 * [Text Color Fader](http://patorjk.com/text-color-fader) - Rainbow Text Generator
 * [Podpis](https://podpis-online.ru/) - Signature Generator
+* [Signaturely](https://signaturely.com/) - Get Documents Digitally Signed
 * [TextGiraffe](http://www.textgiraffe.com/) - Text / Logo Generator 
 * [Polona Typo](http://typo.polona.pl/en/) - Create Text out of Book, Poster & Map Letters 
 * [The Death Generator](https://deathgenerator.com/) - Video Game Text Generator 
@@ -1278,7 +1280,7 @@
 * [Displace](https://discord.gg/6zEbZeg) or [OwnersHub](https://ownershub.xyz/) - Discord Community Management Chat
 * [Discordia-Development Wiki](https://github.com/Discordia-Development/wiki) - Discord Moderation Wiki
 * [Discord Moderator Academy](https://discord.com/moderation) - Discord Moderator Guide / [Exam](https://discord.com/moderation/exam)
-* [Hammertime](https://hammertime.djdavid98.art/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Generate Timestamps
+* [Hammertime](https://hammertime.djdavid98.art/, [Discord Timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Generate Timestamps
 * [SnowStamp](https://pixelatomy.com/snow-stamp/) - Convert Discord Snowflakes to Timestamps
 * [ddpe](https://ddpe.androz2091.fr/) - Discord Data Package Explorer / [GitHub](https://github.com/Androz2091/discord-data-package-explorer)
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the JS files
@@ -1706,7 +1708,7 @@ Twitch Stream Tracker
 * [CustomKeyboardLayoutPersistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layout
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) - System Forensic Tools
 * [BleachBit](https://www.bleachbit.org/) or [GlarySoft](https://www.glarysoft.com/) - Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect.  
-* [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - Startup Program Monitor
+* [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) or [Autostart](https://github.com/snail007/autostart) - Change Startup Programs
 * [Remove Hidden Startup Programs](https://www.youtube.com/watch?v=sUXcMaP6wRQ) - How-to Remove Secret Startup Apps
 * [DefaultProgramsEditor](https://defaultprogramseditor.com/) - File Association Editor
 * [RegExp](https://github.com/zodiacon/RegExp) or [Registry-Finder](https://registry-finder.com/) - Improved Registry Explorer
@@ -1877,6 +1879,7 @@ Twitch Stream Tracker
 * [Vantage](https://rentry.co/lenbian) - Lenovo Vantage Without MS Store
 * [Edgeuninstaller](https://rentry.org/uninstalledge) or [Disable Edge](https://ibb.co/dkJ4Tb4) - Remove Microsoft Edge
 * [amogOS](https://github.com/jostroOS/amogOS) - Rasberry Pi OS
+* [Pinn](https://github.com/procount/pinn) - Rasberry Pi OS Installer
 * [Raspberry Pi 4 Bootloader USB Mass Storage Boot Guide](https://jamesachambers.com/new-raspberry-pi-4-bootloader-usb-network-boot-guide/) - How-to Boot Raspberry Pi from USB
 * [Awesome Raspberry Pi](https://rpi.thibmaek.com/) - Rasberry Pi Resources / [GitHub](https://github.com/thibmaek/awesome-raspberry-pi)
 * [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Windows 11 ready
