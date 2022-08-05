@@ -314,6 +314,7 @@
 * **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - Sites with Multiple Calculators 
 * **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
 * **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) / [Paywall Bypass](https://greasyfork.org/en/scripts/437041-symbolab-pro-fixed) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_symbolab_pro) - Math Problem Solver with Steps
+* [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [TeX](https://www.microsoft.com/en-us/p/flowtex-preview-beta/9nt79075t86l) - Convert Handwritten Math to LaTeX
 * [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - Multi-Calculator App / Android
 * [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - Matrix Calculator
@@ -519,7 +520,7 @@
 * [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
 * [AnimeLon](https://animelon.com/) - Streaming / Anime / Learn Japanese
 * [Nihongo](https://nihongo-e-na.com/eng/), [Jim Breen's Japanese Page](http://nihongo.monash.edu/japanese.html), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/), [Itzazureneko](https://itazuraneko.neocities.org/learn/guide.html) - Japanese Learning Resources
-* [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [jpdb](https://jpdb.io/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese 
+* [TheMoeWay](https://learnjapanese.moe/) / [Discord](https://discord.gg/nhqjydaR8j), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [jpdb](https://jpdb.io/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [Memento](https://github.com/ripose-jp/Memento) - Japanese Learning Video Player
 * [JapaneseWithAnime](https://www.japanesewithanime.com/) - Learn Japanese with Examples from Anime
