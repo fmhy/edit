@@ -608,7 +608,8 @@
 * [ResearchGate](https://www.researchgate.net/) - Science Articles
 * [SciLit](https://www.scilit.net/) - Science Articles
 * [MyScienceWork](https://www.mysciencework.com/) - Science Articles
-* [Academia](https://www.academia.edu/) - Academic papers
+* [BiologyOnline](https://www.biologyonline.com/) - Biology Articles
+* [Academia](https://www.academia.edu/) - Academic Papers
 * [Scinapse](https://scinapse.io/) - Academic Paper Search 
 * [Semantic Scholar](https://www.semanticscholar.org/) - Scientific Paper Search 
 * [Connected Papers](https://www.connectedpapers.com/) or [LitMaps](https://app.litmaps.co/) - Find Connected Academic Papers 
@@ -646,6 +647,8 @@
 * [Internet Archive Scholar](https://scholar.archive.org/) - Research Papers
 * [Paper Panda](https://paperpanda.app/) - Research Papers
 * [Open Access Library](https://www.oalib.com/) - Research Papers
+* [Paperity](https://paperity.org/) - Research Papers
+* [OpenAire](https://explore.openaire.eu/) - Research Papers
 * [Association for learning Technology](https://repository.alt.ac.uk/view/subjects/) - Research Papers
 * [RePEc](http://repec.org/) - Economic Research Papers
 * [PsyArXiv](https://psyarxiv.com/) - Articles / Psychological Sciences 
@@ -1154,7 +1157,7 @@
 * [qPDFview](https://launchpad.net/qpdfview) - PDF Reader / PC
 * [PDFLite](http://www.pdflite.com/) - PDF Reader / PC
 * [mupdf](https://mupdf.com/) - PDF Reader / PC
-* [XODO](https://www.xodo.com/) - PDF Reader / PC / Android / iOS
+* [PDF Online](https://pdf.online/) - PDF Reader / PC / Android / iOS
 * [gonitro](https://www.gonitro.com/pdf-reader) - PDF Reader / PC
 * [PdfPreviewbot](https://t.me/PdfPreviewbot) - Telegram PDF Reader
 * [WinDjView](https://windjview.sourceforge.io/) - DjVu Reader / PC
