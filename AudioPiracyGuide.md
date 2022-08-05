@@ -12,7 +12,7 @@
 
 ## ▷ Streaming Apps
 
-* **[Spotify Client](https://www.spotify.com/us/download/)**, [SpotifyD](https://github.com/Spotifyd/spotifyd), [Lofi Rocks](https://www.lofi.rocks/), [ncspot](https://github.com/hrkfdn/ncspot) or [SpoTube](https://github.com/KRTirtho/spotube) - Streaming
+* **[Spotify Client](https://www.spotify.com/us/download/)**, [SpotifyD](https://github.com/Spotifyd/spotifyd), [Lofi Rocks](https://www.lofi.rocks/), [ncspot](https://github.com/hrkfdn/ncspot), [Strix](https://arlo.site/strixmusic/install/) or [SpoTube](https://github.com/KRTirtho/spotube) - Streaming
 * **[Spotify Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Spotify Tools, Adblockers, Customization & More
 * [YouTube Music Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_music_players) - Streaming
 * [FunkWhale](https://funkwhale.audio/) - Streaming
@@ -43,6 +43,7 @@
 * [Slider](https://slider.kz/) or [My Free MP3](https://myfreemp3juices.cc/) - Browser Music
 * [xprm](https://xprm.net/) - Browser Music
 * [Pandora](https://www.pandora.com/) - Browser Music
+* [Jango](https://jango.com/) - Browser Music
 * [musify](https://musify.club/) - Browser Music
 * [Jamendo](https://www.jamendo.com/) - Browser Music
 * [Kainet](https://kainet.rocks/) - Browser Music
