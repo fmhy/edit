@@ -323,6 +323,7 @@
 * [DBFree](http://dbfree.me/) - Books
 * [FRDownMags](https://fr.downmagaz.net/) - Magazines
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
+* [GameTronik](http://www.gametronik.com/site/index.php) - Abandonware / Emulators
 * [TousLeDrivers](https://www.touslesdrivers.com/) - Drivers
 
 ## ▷ Torrenting
@@ -417,7 +418,7 @@
 * [StartSeite](https://startseite.to/) - Movies / TV / NSFW / List
 * [streamkiste](https://streamkiste.tv/) / [2](https://streamkiste.cx/) - Movies / TV  
 * [Burning Series](https://www.burning-series.net/) - Movies / TV / Anime / Needs VPN
-* [filmpalast](https://filmpalast.to/) - Movies / TV 
+* [filmpalast](https://filmpalast.to/) - Movies / TV
 * [movieking](https://movieking.cc/) - Movies
 * [Film Palast](https://filmpalast.club/) - Movies / TV
 * [Kinox](https://www2.kinox.to/) - Movies / TV
@@ -426,13 +427,14 @@
 * [KinoX](https://www.kinox.sx/) - Movies / TV
 * [StreamCloud](https://streamcloud.cx/) - Movies / TV
 * [BS.TO](https://www.bs.to/) - TV / Anime
+* [HDFilme](https://hdfilme.cx/) - Movies
 * [StreamCloud](https://www1.streamcloud.club/) - Movies / TV
-* [KinoZ](https://kinoz.to/) - Movies / TV / Anime / NSFW 
+* [KinoZ](https://kinoz.to/) - Movies / TV / Anime / NSFW
 * [S.TO](https://s.to/) - TV / Anime
 * [SRF.CH](https://www.srf.ch/) - TV / Sports / Live
 * [Anime-Loads](https://www.anime-loads.org/) - Anime
 * [Anicloud](https://anicloud.io/) - Anime
-* [Aniflix](https://www.aniflix.cc/) - Anime 
+* [Aniflix](https://www.aniflix.cc/) - Anime
 * [dokustreams](https://dokustreams.de/) - Documentaries
 * [Doku-Streams](http://doku-streams.com/) - Documentaries
 * [dctp.tv](https://www.dctp.tv/) - Documentaries
@@ -666,6 +668,7 @@
 * [Poipiku](https://poipiku.com/) - User-Made Images
 * [Marshmallow](https://marshmallow-qa.com/) - Send & Receive Positive Messages
 * [Annict](https://annict.com/) - Anime Tracker
+* [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Anime Subtitles
 
 ## ▷ Downloading
 
@@ -693,6 +696,7 @@
 * [フリーソフトウェアの倉庫](http://nekomimi.la.coocan.jp/freesoft/index.htm) - Software
 * [Qoo-App](https://www.qoo-app.com/en) - Android Games
 * [Perfect Dark](http://kasumi.moe/pd/) - P2P App
+* [Eagleforces](https://eagleforces.tistory.com/) - ROMs
 
 ## ▷ Torrenting
 
@@ -1176,6 +1180,7 @@
 * [CentralNovel](https://centralnovel.com/) - Light Novels
 * [EmpireNovels](https://empirenovels.com.br/) - Light Novels
 * [MyLightNovel](http://www.mylightnovel.com.br/) - Light Novels
+* [itazuraneko](https://itazuraneko.neocities.org/shousetu/index.html) - Light Novels
 * [1412.rest](https://www.1412.rest/) - Web Novels 
 * [Revista Programar](https://www.revista-programar.info/) - Programming Magazine
 * [DND5ED](http://dnd5ed.github.io/) - Dungeons & Dragons Guides
@@ -1551,6 +1556,7 @@
 * [MangasEnPdf](https://t.me/MangasEnPdf) - Manga / Telegram 
 * [tupropiaaventura_bot](https://t.me/tupropiaaventura_bot) - Books / Telegram 
 * [Recetas Vegetarianas](https://recetasvegetarianas.netlify.app/) -  Vegan Recipes
+* [CDPedia](http://cdpedia.python.org.ar/) - Offline Wikipedia
 
 ***
 
@@ -1824,6 +1830,7 @@
 * [Indian Piracy Index](https://github.com/anymeofu/Indian-Piracy-Index) - Piracy Site / Tool Index
 * [JioTV](https://github.com/avipatilpro/JioTV) - Live TV Streaming Script 
 * [0GoMovies](https://www.0gomovies.com/) - Streaming / Movies / TV
+* [uWatchFree](https://uwatchfree.be/ ) - Streaming / Movies / TV
 * [khatrimazafull](https://khatrimazafull.show/) - Streaming / Download / Movies
 * [7MovieRulz](https://7movierulz.pe/) - Streaming / Movies
 * [7MovieRulz.es](https://7movierulz.es/) - Stream / Torrent / Movies / [Telegram](https://t.me/movierulztv)
