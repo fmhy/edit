@@ -33,11 +33,13 @@
 * [BiglyBT](https://www.biglybt.com/) - [Screenshot](https://i.imgur.com/Gopf4tZ.png) 
 * [NeoLoader](https://neoloader.com/) - [Screenshot](https://neoloader.com/neo/image1.jpg)
 * [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html) - [Screenshot](https://i.imgur.com/8zZHjKq.png)
+* [BitTornado](http://bittornado.com/) - [Screenshot](https://i.imgur.com/jVJVmZs.png)
 * [Distribyted](https://distribyted.com/) - [Screenshot](https://i.imgur.com/LX8n8su.png) / [GitHub](https://github.com/distribyted/distribyted)
 * [Tribler](https://www.tribler.org/) - Tor-inspired Client / [Screenshot](https://i.imgur.com/IzmanCf.png) / [Github](https://github.com/Tribler/tribler)
 * [aria2](https://aria2.github.io/) - Terminal Torrent Client / [Screenshot](https://i.imgur.com/KV0pSjt.png) / [Github](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](http://ariang.mayswind.net/) / [WebUI](https://github.com/ziahamza/webui-aria2)
 * [XD-Torrent](https://xd-torrent.github.io/) - Anonymous P2P Torrent Client
 * [mtorrent](https://github.com/nektro/mtorrent) - Terminal Torrent Client 
+* [Mariner](https://gitlab.com/radek-sprta/mariner) - Navigate Torrents via CLI
 * [RakaPublicLeech](https://t.me/RakaPublicLeech) - Torrent to Telegram Bot
 * [libtorrent](https://www.libtorrent.org/) - C++ BitTorrent Client / [GitHub](https://github.com/arvidn/libtorrent)
 * [TrayTorrent](https://traytorrent.ru/) - Torrent Tray Client
