@@ -19,7 +19,7 @@
 * **[Alacritty](https://github.com/alacritty/alacritty)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, [Simple Terminal](https://st.suckless.org/), [yakuake](https://apps.kde.org/yakuake/) or [tabby](https://tabby.sh/) - Terminal Emulator
 * **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
 * **[mpv](https://mpv.io/)** - Video Player / [Frontend](https://github.com/celluloid-player/celluloid)
-* **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)**, **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](http://bitflu.workaround.ch/) or [kTorrent](https://apps.kde.org/en/ktorrent) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Client 
+* **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)**, **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](http://bitflu.workaround.ch/), [Torrentor](https://github.com/Prodito/Torrentor) or [kTorrent](https://apps.kde.org/en/ktorrent) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Client 
 * [qBittorrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools) 
 * rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [All Seeders Column](https://github.com/AkdM/rutorrent-all-seeders) / [Docker Build](https://github.com/binhex/arch-rtorrentvpn)
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - RTorrent Web Frontend / [Themes](https://github.com/InAnimaTe/rutorrent-themes), [2](https://github.com/artyuum/3rd-party-ruTorrent-Themes)
@@ -30,7 +30,7 @@
 * [Awesome-shell](https://github.com/alebcay/awesome-shell) - List of CLI Tools
 * [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization Automation
 * [Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome) - GNOME Distro Resources
-* [Enlightment](https://www.enlightenment.org/), [qpwm](https://github.com/ssleert/qpwm) or [dwm](https://dwm.suckless.org/) - Window Manager
+* [Enlightment](https://www.enlightenment.org/), [worm](https://github.com/codic12/worm), [qpwm](https://github.com/ssleert/qpwm) or [dwm](https://dwm.suckless.org/) - Window Manager
 * [swizzin](https://swizzin.ltd/) - Seedbox for Ubuntu / Debian
 * [rtinst](https://github.com/arakasi72/rtinst) - Seedbox Installation Script for Ubuntu / Debian
 * [Arthemis](https://releases.arthemis.xyz/download/osx) - Movie / TV / Anime Streaming App
@@ -68,6 +68,8 @@
 * [Fix Guild Lag](https://wiki.archlinux.org/title/Discord#Lagging_when_scrolling_through_your_guilds) - Fix Guild Scrolling Lag
 * [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
 * [WSL](https://docs.microsoft.com/en-us/windows/wsl/) or [Tunic](https://github.com/mikeslattery/tunic) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
+* [Startup Settings](https://github.com/hant0508-zz/startup-settings) - Manage Startup Items
+* [node-startup](https://github.com/ralyodio/node-startup) - Startup Script
 * [RockstarKernel_WSL2](https://github.com/Dhruvgera/RockstarKernel_WSL2) - Windows Subsystem Kernal
 * [sbupdate](https://github.com/andreyv/sbupdate) - Generate & Sign kernel images for UEFI Secure Boot Arch Linux 
 * [Boxes](https://wiki.gnome.org/Apps/Boxes) - Virtual Machine Manager
@@ -110,7 +112,7 @@
 * [Polychromatic](https://polychromatic.app/) - Linux System Light Control
 * [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
 * [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - Window Closing Effects
-* [Junction](https://github.com/sonnyp/Junction) - App Launcher
+* [Junction](https://github.com/sonnyp/Junction) - Change File Associations 
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) - Noise Cancellation Software
 * [Giara](https://aur.archlinux.org/packages/giara/) - Reddit Client / [GitHub](https://gitlab.gnome.org/World/giara)
 * [reddio](https://gitlab.com/aaronNG/reddio) - Reddit CLI
@@ -153,6 +155,7 @@
 * [Whatsdesk](https://zerkc.gitlab.io/whatsdesk/) - WhatsApp Client
 * [Linux-dash](https://github.com/afaqurk/linux-dash) - Web-based System Dashboard
 * [Sharenix](https://github.com/Francesco149/sharenix) or [MagicCap](https://magiccap.me/) - Screenshot Tool
+* [Plumber](https://github.com/keshavbhatt/plumber) - Screen Recorder / Clipping
 * [SongRec](https://github.com/marin-m/SongRec) - Song Identifier
 * [AV Linux](http://www.bandshed.net/avlinux/) - Video / Audio Editor
 * [Flowblade](https://github.com/jliljebl/flowblade) - Video Editor
@@ -172,6 +175,7 @@
 * [Peek](https://github.com/phw/peek) - Simple Video / GIF recorder
 * [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
 * [utils](https://github.com/Loupeznik/utils) or [UsefulLinuxShellScripts](https://github.com/jackrabbit335/UsefulLinuxShellScripts) - Linux Shell Tool Scripts
+* [hush](https://github.com/hush-shell/hush) - Unix Shell
 * [Mayfrost Guides](https://github.com/mayfrost/guides) - Linux / Computing Guides
 * [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - Run Windows Apps in Linux 
 * [Ulauncher](https://ulauncher.io/) - Application Launcher
@@ -189,24 +193,25 @@
 * [Dijo](https://github.com/NerdyPepper/dijo) - Activity Tracker
 * [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
 * [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
-* [Client Evolution](https://help.gnome.org/users/evolution/stable/) - Calendar / Mail
+* [Client Evolution](https://help.gnome.org/users/evolution/stable/) or [When](https://github.com/bcrowell/when) - Calendar
 * [todo](https://github.com/sioodmy/todo/) - Rust Based To-Do CLI
 * [aerc](https://aerc-mail.org/), [ElectronMail](https://github.com/vladimiry/ElectronMail) - Email Client
 * [Link Unshortener](https://underpassapp.com/LinkUnshortener/) - Unshorten Links
-* [KTouch](https://apps.kde.org/en/ktouch) - Typing Practice
+* [KTouch](https://apps.kde.org/en/ktouch) or [Toipe](https://github.com/Samyak2/toipe) - Typing Practice
 * [wslu](https://github.com/wslutilities/wslu) - Utilities for Windows 10 Linux Subsystem 
 * [Tree](http://mama.indstate.edu/users/ice/tree/) - Directory Listing Command 
 * [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Easily clean Ubuntu(-based) Systems
 * [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) - Grub Repair Guide for Linux Systems
 * [GrubCustomizer](https://launchpad.net/grub-customizer) - Customize Grub
 * [ss64 Bash](https://ss64.com/bash/) - Linux Bash Commands
+* [zx](https://github.com/google/zx) - Javascript Bash
 * [Helmanual](https://helpmanual.io/) - Unix Commands
 * [bashrcgenerator](http://bashrcgenerator.com/) - .bashrc Generator
 * [bash_loading_animations](https://github.com/Silejonu/bash_loading_animations) - Bash Loading Animations
 * [dunst](https://dunst-project.org/) - Customizable Notification Daemon / [GitHub](https://github.com/dunst-project/dunst)
 * [Autokey](https://github.com/autokey/autokey) - Linux Automation Utility
+* [create-autorun](https://github.com/OneCDOnly/create-autorun) - Create QNAP NAS Autorun Environment
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
-* [tldr](https://github.com/tldr-pages/tldr/) - Tl;dr'd man pages
 * [Ghostwriter](http://wereturtle.github.io/ghostwriter/) or [Remarkable](http://remarkableapp.github.io/) - Markdown Editor
 * [Whatever](https://github.com/CellarD0-0r/whatever) - Evernote Client
 * [asciinema](https://asciinema.org/) - Terminal Recorder
@@ -240,7 +245,8 @@
 * [river](https://github.com/riverwm/river/), [wayfire](https://github.com/WayfireWM/wayfire/) or [sway](https://github.com/swaywm/sway/) - Wayland Compositors
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
 * [Arronax](https://www.florian-diesch.de/software/arronax/) - .desktop File Editor
-* [Learn the Linux Command Line](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_learn_the_linux_command_line), [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [LinuxCommand](https://www.linuxcommand.org/tlcl.php) - Linux Command Line Lessons
+* [Learn the Linux Command-Line](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_learn_the_linux_command_line), [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [LinuxCommand](https://www.linuxcommand.org/tlcl.php) - Linux Command-Line Lessons
+* [tldr](https://github.com/tldr-pages/tldr/) - Command-Line Tools
 * [shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial) - Shell Scripting Tutorial
 * [explainshell.com](https://explainshell.com/) - Match Command-Line Arguments to Help Text
 * [ShellCheck](https://www.shellcheck.net/) - Shell Script Bug Check
@@ -476,7 +482,7 @@
 * [OpenVPN](https://tunnelblick.net/) or [Passepartout](https://passepartoutvpn.app/) - VPN Tunnel
 * [V2rayU](https://github.com/yanue/V2rayU) - DIY Privacy Network
 * [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) - Privacy-Based Email Client
-* [spotify-adblock-macos](https://github.com/r1olo/spotify-adblock-macos) or [Mac_Spotify_Adblock](https://github.com/RDE3/Mac_Spotify_Adblock) - Mac Spotify Adblocker
+* [spotify-adblock-macos](https://github.com/r1olo/spotify-adblock-macos), [SpotifyAdBlocker-macOS](https://github.com/amgxv/SpotifyAdBlocker-macOS) or [Mac_Spotify_Adblock](https://github.com/RDE3/Mac_Spotify_Adblock) - Spotify Adblockers
 
 ***
 
