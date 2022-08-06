@@ -30,7 +30,7 @@
 * [Awesome CS](https://github.com/prakhar1989/awesome-courses/) - Courses
 * [OpenLearn](https://www.open.edu/openlearn/) - Courses
 * [Alison](https://alison.com/) - Courses
-* [EbookFoundation Courses](https://github.com/EbookFoundation/free-programming-books#free-online-courses) - Courses
+* [EbookFoundation Courses](https://github.com/EbookFoundation/free-programming-books/#free-online-courses) - Courses
 * [OpenCulture](https://www.openculture.com/freeonlinecourses) - Courses 
 * [DigitalGarage](https://learndigital.withgoogle.com/digitalgarage/courses) - Courses 
 * [Lagunita](https://online.stanford.edu/lagunita-learning-platform) - Courses 
@@ -91,7 +91,7 @@
 * [freecourseweb](https://t.me/freecourseweb) - Udemy Courses / Telegram
 * [udemyforu](https://t.me/udemyforu) - Udemy Courses / Telegram
 * [CGPERS](https://t.me/CGPERS) - Udemy Courses / Telegram
-* [Udemy Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons) - Udemy Coupon Sites
+* [Udemy Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_udemy_coupons) - Udemy Coupon Sites
 * [UdemyBot](https://github.com/gautamajay52/UdemyBot) - Udemy Course Bot
 * [GUdemyBot](https://t.me/GUdemyBot) - Udemy Coupon Bot 
 * [Fresh Coupons](https://github.com/KajanM/fresh-coupons) - Automatically Apply Discount Coupons on Udemy Courses / [Chrome](https://chrome.google.com/webstore/detail/fresh-coupons/pbnfeejfjlmmjfgnmmfpalhlpjidlgie)
@@ -131,17 +131,17 @@
 * **[TutFlix](https://tutflix.org/)** - Courses / Drives 
 * **[OneHack](https://onehack.us/)** - Courses
 * **[HackNation](https://hacksnation.com/)** - Courses
-* **[Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_course_megadrives)** or **[Large Collection of Useful Mega DL's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_large_collection_of_useful_mega_dl.27s)**  - Courses / Drives
+* **[Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_course_megadrives)** or **[Large Collection of Useful Mega DL's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_large_collection_of_useful_mega_dl.27s)**  - Courses / Drives
 * [Course Search Engine](https://cse.google.com/cse?cx=a02efb0346a176b46) - Search for Courses
-* [Reks Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive) - Courses
-* [11k+ Courses SpreadSheet](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_11k.2B_courses_spreadsheet) - Courses
-* [Christmas Share](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_christmas_share) - Courses
+* [Reks Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_rek.27s_drive) - Courses
+* [11k+ Courses SpreadSheet](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_11k.2B_courses_spreadsheet) - Courses
+* [Christmas Share](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_christmas_share) - Courses
 * [HMDRIVE](https://t.me/HMDRIVE_OFFICIAL) - Courses
 * [Iit jee lectures](https://t.me/Iitjeeinveins2) - Lectures / Telegram   
 * [CoursesDaddy](http://coursesdaddy.com/) - Courses 
 * [Course Drive](https://coursedrive.org/) - Courses 
-* [Courses Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_course_pastebins) - Courses
-* [Mega Tech Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mega_tech_courses) - Courses
+* [Courses Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_course_pastebins) - Courses
+* [Mega Tech Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_mega_tech_courses) - Courses
 * [Super Huge Course Collection](https://babiato.co/threads/%F0%9F%94%A5%F0%9F%94%A5-super-huge-course-collection-700-courses-3tb-data-%F0%9F%94%A5%F0%9F%94%A5.40041/) - Courses
 * [online-courses](https://online-courses.club/) - Courses
 * [Coursesghar](https://coursesghar.com/) - Courses 
@@ -182,13 +182,13 @@
 * [RedBlueHit](https://t.me/RedBlueHit) - Courses / Telegram
 * [learningDL](https://learningdl.net/) - Courses / Leech required 
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - Courses / Tutorials 
-* [Course Code Drive](https://ddpanda.net/code/) - Courses / [Codes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_course_codes)
+* [Course Code Drive](https://ddpanda.net/code/) - Courses / [Codes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_course_codes)
 * [FreetutsDownload.com](https://freetutsdownload.com/) - Courses / GDrive Host 
-* [iTunes U](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_itunesu_lectures) - Lectures
+* [iTunes U](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_itunesu_lectures) - Lectures
 * [Gurukul Soft Technology](https://www.gurukulsofttechnology.in/) / [Telegram](https://t.me/gurukulsofttechnology) - Computer Science Courses
 * [LyndaFree](https://t.me/lyndafree)  - Lynda Courses / pw: fmhy
 * [BestWSODownload](https://www.bestwsodownload.com/) - WSO Courses
-* [Udemy Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_udemy_course_drives)
+* [Udemy Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_udemy_course_drives)
 * [AirVibe](https://www.airvibe.me/) - Udemy Courses
 * [UdemyKing](https://t.me/udemyking1) - Udemy Courses
 * [CourseArray](https://coursearray.xyz/index.html) - Udemy Courses / [Telegram](https://t.me/udemycoursesfree)
@@ -206,11 +206,11 @@
 * [CourseForFree](https://courseforfree.com/) - Udemy Courses  
 * [Download Online Tutorials Free](https://download.howtofree.org/) - Udemy Courses 
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
-* [Cyber Security Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cyber_security_courses) or [Skills for All](https://skillsforall.com/) - Cyber Security Courses
-* [340GB Linkedin Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_340gb_linkedin_courses) or [Linkedin_Learning](https://t.me/linkedin_learning) - Linkedin Courses
+* [Cyber Security Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_cyber_security_courses) or [Skills for All](https://skillsforall.com/) - Cyber Security Courses
+* [340GB Linkedin Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_340gb_linkedin_courses) or [Linkedin_Learning](https://t.me/linkedin_learning) - Linkedin Courses
 * [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
-* [Top Linux Interview Questions & Answers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_top_linux_interview_q.26amp.3Ba.27s) - Linux Interview Q&A
-* [Photoshop Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photoshop_courses) - Photoshop Course Drive
+* [Top Linux Interview Questions & Answers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_top_linux_interview_q.26amp.3Ba.27s) - Linux Interview Q&A
+* [Photoshop Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_photoshop_courses) - Photoshop Course Drive
 * [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - Download videos from Coursera 
 * [Skillshare DL Guide](https://i.imgur.com/AIENK0K.png) - Download videos from Skillshare
 * [skillsharefree](https://t.me/skillsharefree) - Skillshare Courses / Telegram 
@@ -232,7 +232,7 @@
 
 ## ▷ Courses
 
-* **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
+* **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)** - Get a VPN before torrenting
 * [Course Club](https://courseclub.me/) - Courses
 * [FreeCourseSite](http://freecoursesite.com/) - Courses
 * [GetFreeCourses](https://getfreecourses.co/) - Courses
@@ -246,7 +246,7 @@
 * [Paid Courses for Free](https://paidcoursesforfree.com/) - Udemy Courses 
 * [Online Free Course](https://www.onlinefreecourse.net/) - Udemy Courses   
 * [Giga Course](https://gigacourse.com/) - Udemy Courses 
-* [1TB Art Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_1tb_art_courses) - Art Courses
+* [1TB Art Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_1tb_art_courses) - Art Courses
 * [Pimp My Money](https://pimpmymoney.net/) - Digital Marketing Courses 
 
 ## ▷ Documentaries
@@ -256,34 +256,34 @@
 
 ***
 
-# ► [Reading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_educational_sites)
+# ► [Reading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25BA_educational_sites)
 
 ***
 
-## ▷ [History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_history_sites)
+## ▷ [History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_history_sites)
 
 ***
 
-## ▷ [Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)
+## ▷ [Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_programming_sites)
 
 ***
 
-## ▷ [Documents / Articles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_documents_.2F_articles)
+## ▷ [Documents / Articles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_documents_.2F_articles)
 
 ***
 
-## ▷ [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manual_sites)
+## ▷ [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_manual_sites)
 
 ***
 
-## ▷ [Reference Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_reference_sites)
+## ▷ [Reference Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_reference_sites)
 
 ***
 
 # ► Games
 
 * **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
-* **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
+* **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_typing_lessons)**
 * [Starfall](https://www.starfall.com/)
 * [ABCya!](https://www.abcya.com/)
 * [Funbrain](https://www.funbrain.com/games)
@@ -306,10 +306,10 @@
 # ► Math
 
 * **[Awesome Math](https://github.com/rossant/awesome-math)** or [Math Resources](https://docs.google.com/document/d/1rtokzhpvkUPnymudl_ZVmfAA7H33VIyLQUpujNGwrTo/) - Math Resources
-* **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)** - List of Interactive Math Sites
-* **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - Sites with Multiple Calculators 
+* **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_interactive_math_sites)** - List of Interactive Math Sites
+* **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_calculator_sites)** - Sites with Multiple Calculators 
 * **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
-* **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) / [Paywall Bypass](https://greasyfork.org/en/scripts/437041-symbolab-pro-fixed) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_symbolab_pro) - Math Problem Solver with Steps
+* **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) / [Paywall Bypass](https://greasyfork.org/en/scripts/437041-symbolab-pro-fixed) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_symbolab_pro) - Math Problem Solver with Steps
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [TeX](https://www.microsoft.com/en-us/p/flowtex-preview-beta/9nt79075t86l) - Convert Handwritten Math to LaTeX
 * [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - Multi-Calculator App / Android
@@ -350,7 +350,7 @@
 
 # ► Physics 
 
-* [Math and Physics Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_math_and_physics_books)
+* [Math and Physics Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_math_and_physics_books)
 * [Falstad](http://www.falstad.com/) - Math & Physics Apps / Simulations 
 * [Mujoco](https://github.com/deepmind/mujoco), [MyPhysicsLabs](https://myphysicslab.com/), [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
 * [PhysicsClassroom](https://www.physicsclassroom.com/) - Physics Lessons
@@ -393,19 +393,19 @@
 
 # ► History 
 
-* [History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_history_sites)
+* [History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_history_sites)
 * [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
 * [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
 * [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
 * [Persepolis Reimagined](https://persepolis.getty.edu/) - Explore Persepolis Recreation
-* [Modern / Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps) - Map Resources
+* [Modern / Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25BA_maps) - Map Resources
 * [Letters of Note](https://news.lettersofnote.com/) - Historical Letters
 * [Shorpy](http://shorpy.com/) - Historical Photos
 * [Histography](https://histography.io/) - History Timeline
 * [The Food Timeline](https://www.foodtimeline.org/) - Food History Timeline
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes Site Index
 * [CARI](https://cari.institute/) - Design Aesthetics History
-* [Pol Art Folder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pol_art_folder) - Historic European Art & Paintings
+* [Pol Art Folder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_pol_art_folder) - Historic European Art & Paintings
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) - Operating System / Software History / [Discord](https://discord.gg/XPz5Zm42tR)
 * [Old Computer Museum](http://oldcomputers.net/) - Computer History / Info 
 * [The HP 9845 Project](https://www.hp9845.net/) - HP 9845 Computer History
@@ -420,7 +420,7 @@
 * [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration Website / [Images](https://images.nasa.gov/) / [Audio](https://www.nasa.gov/connect/sounds/index.html)
 * [ESA](https://www.esa.int/) - European Space Agency Website
 * [Space.com](https://www.space.com/) - Space News
-* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Math and Physics Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_math_and_physics_books) - Astronomy Books
+* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Math and Physics Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_math_and_physics_books) - Astronomy Books
 * [The Universe Through Time](https://i.imgur.com/A2C6Vpc.jpeg) - Universe Timeline
 * [Space Dashboard](https://spacedashboard.com/) - Space Live Stream Dashboard 
 * [EarthData](https://worldview.earthdata.nasa.gov/) - Daily Satellite Replays
@@ -483,17 +483,17 @@
 
 ***
 
-# ► [Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_learning_.2F_cheat_sheets)
+# ► [Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25BA_learning_.2F_cheat_sheets)
 
 ***
 
 # ► Language Learning 
 
 * **[Awesome-Lang](https://github.com/oyd11/awesome-lang)**, [Many Things](http://www.manythings.org/) or [Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8) - Language Learning Resources 
-* **[Languages & Linguistics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_languages_.26amp.3B_linguistics)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - Language Learning Books
+* **[Languages & Linguistics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_languages_.26amp.3B_linguistics)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - Language Learning Books
 * [Speechling](https://speechling.com/tools) - Language Learning Tools
 * [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [Conversation Exchange](https://www.conversationexchange.com/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - Language Learning Network
-* [E-books_432](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_e-books_432) - Vocabulary & Pronunciation Books
+* [E-books_432](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_e-books_432) - Vocabulary & Pronunciation Books
 * [Xuga](https://eng.ichacha.net/mpr/xuga.html) - Word Pronunciation Tool
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi-Language Dictionary Index
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary 
@@ -558,7 +558,7 @@
 * [The Chairman's Bao](https://www.thechairmansbao.com/) - Chinese Reading Practice / News Articles
 * [Pleco](https://www.pleco.com/) - Chinese Flashcards & Dictionary
 * [YellowBridge](https://www.yellowbridge.com/) - Chinese Learning Tools
-* [Mandarin Chinese](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mandarin_chinese) - Mandarin Chinese Learning Books
+* [Mandarin Chinese](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_mandarin_chinese) - Mandarin Chinese Learning Books
 * [Chinese Flashcards](http://www.chineseflashcards.io/) - Chinese Flashcards
 * [LearningSwedish](https://learningswedish.se/) - Swedish Learning Course
 * [Urdu Resource List](https://docs.google.com/document/d/1GRTK_E0YGybMNYZjFToM40sOHNkR1NJXc_dL8HW2Q_0/) or [UrduNotes](https://urdunotes.com/) - Urdu Learning Resources
@@ -569,7 +569,7 @@
 * [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - American Sign Language 
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)  
 * [BSL Dictionary](https://www.signbsl.com/) - British Sign Language
-* [Language Drops](https://languagedrops.com/) or [10,000 Sentences](https://github.com/tkrajina/10000sentences) - Language Learning App / [Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_language_drops_premium)
+* [Language Drops](https://languagedrops.com/) or [10,000 Sentences](https://github.com/tkrajina/10000sentences) - Language Learning App / [Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_language_drops_premium)
 * [PolyGlot](http://polyglots.free.fr/) - Linguistic Teaching Software
 * [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - Language Identification Test
 * [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap)- Listen to Accents
@@ -583,7 +583,7 @@
 
 # ► Music Learning
 
-* [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
+* [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_sheet_music_sites)
 * [OpenSong](http://www.opensong.org/) - Track Lyrics, Chords, Sheets & more
 * [ScoreCloud](https://scorecloud.com/) or [Chordify](https://chordify.net/) - Chord Detection / Transcriber
 * [Piano Scribe](https://piano-scribe.glitch.me/) - Piano Transcriber
@@ -630,9 +630,9 @@
 * **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [KausalFlow](https://tools.kausalflow.com/), [Zotero](https://www.zotero.org/) or [Scrible](https://www.scrible.com/)  - Research Tools 
 * **[PhET](https://phet.colorado.edu/)** - STEM / Interactive
 * **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Infinite trial by clearing cookies & making new account
-* **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - Grammar Checking Tools
+* **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_grammar_check)** - Grammar Checking Tools
 * **[Untools](https://untools.co/)** - Better Thinking Tools & Frameworks
-* **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)** - Learn to Type Faster
+* **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_typing_lessons)** - Learn to Type Faster
 * [MyAssignmentHelp](https://myassignmenthelp.com/free-tools.php) - Academic Tools
 * [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - Touch Typing Tutorial
 * [Spreeder](https://www.spreeder.com/) - Learn to Read Faster
@@ -653,22 +653,22 @@
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
 * [Stublio](https://stublio.com/) or [Studify](https://github.com/cmcodes1/Studify) - Keep Track of what you're Studying 
 * [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - Educational Communication / iOS
-* [Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - Note Taking / To-Do Apps
+* [Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_note_taking_.2F_to_do_apps) - Note Taking / To-Do Apps
 * [Note Garden](https://notegarden.web.app/), [2](https://notegarden.io/) - Note Taking & Auto Courses
 * [Mochi Cards](https://mochi.cards/) or [MidTerm](https://midterm.app/) - Note Taking / Study Tool
 * [BookStack](https://www.bookstackapp.com/) - Self-Hosted Information Manager
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
 * [Wordwall](https://wordwall.net/) - Lesson Creator
 * [ClassroomScreen](https://www.classroomscreen.com/) - Digital Teaching Widgets
-* [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
-* [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - Rephrase / Paraphrase Text 
+* [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_plagiarism_detection) - Detect Plagiarized Content
+* [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_text_rephrashing) - Rephrase / Paraphrase Text 
 * [cb2bib](https://www.molspaces.com/cb2bib/) - Reference Extractor / Manager
 * [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - Grade School Educational Tools
 * [ScienceTrek](https://sciencetrek.org/) - Teaching Resources
 * [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - UPSC Telegram Channels 
 * [AuthorStream](http://www.authorstream.com/) or [Slideshare](https://www.slideshare.net/) - Watch / Share Slideshows & Presentations 
 * [SlideShare Downloader](https://slideshare.theteacoder.tech/), [2](https://www.slidesharedownloader.com/) - Download Slideshow Presentations 
-* [Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables) - Online Periodic Tables / [App](https://jlindemann.se/homepage/atomic/)
+* [Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_periodic_tables) - Online Periodic Tables / [App](https://jlindemann.se/homepage/atomic/)
 * [ChemicalAid](https://en.intl.chemicalaid.com/) - Chemistry Calculators & Element Tables
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
 * [Retrosynthesis](http://retrosynthesis.com/) - Organic Retrosynthesis Engine / [GitHub](https://github.com/sudo-rushil/odachi)
@@ -697,10 +697,10 @@
 * [Examveda](https://www.examveda.com/) - Exam Practice
 * [MajorTests](https://www.majortests.com/) - Practice Tests 
 * [CrackAP](https://www.crackap.com/) - Practice AP Exams
-* [/r/ApStudents Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fr.2Fapstudents_resources) - Former AP Exams
+* [/r/ApStudents Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_.2Fr.2Fapstudents_resources) - Former AP Exams
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
 * [/r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
-* [AQA GCSE 2019](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_aqa_gcse_2019) - AQA 2019 GCSE Exams
+* [AQA GCSE 2019](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_aqa_gcse_2019) - AQA 2019 GCSE Exams
 * [Future Vision BIE](https://hemanthrajhemu.github.io/) - VTU Study Material
 * [CrackJee](https://www.crackjee.xyz/) - JEE & NEET Study Material + Answers
 * [JEEBOOKS](https://www.jeebooks.in/) - JEE, NEET, KVPY & CBSE Study Material

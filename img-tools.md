@@ -11,18 +11,18 @@
 
 # ► Image Editing
 
-* **[Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_editing)** - Image Editing Software & Sites
-* **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - Download GFX Design Software
-* **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/), [4](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_design_tool_zip) - Design Tool Resource Indexes   
+* **[Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_image_editing)** - Image Editing Software & Sites
+* **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download/#wiki_.25B7_gfx_design_software)** - Download GFX Design Software
+* **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/), [4](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_design_tool_zip) - Design Tool Resource Indexes   
 * **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [GlitchyImage](https://glitchyimage.com/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - Glitch Images
 * [rexpaint](https://www.gridsagegames.com/rexpaint/), [PabloDraw](http://picoe.ca/products/pablodraw/) or [Playscii](https://jp.itch.io/playscii) - ASCII Art Editor
-* [Graphic Design Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_graphic_design_tools) - Online Graphic Design Tools 
+* [Graphic Design Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_graphic_design_tools) - Online Graphic Design Tools 
 * [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/) or [inspirationde](https://www.inspirationde.com/) - Graphic Design Inspirations
 * [archives.design](https://archives.design/) - Graphic Design Books
 * [IRA Design](https://iradesign.io/) - Illustration Creator
 * [Scribus](http://www.scribus.net/) - Page Layout & Typesetting Program
-* [1TB Art Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_1tb_art_courses) - Art Courses
-* [Photoshop Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photoshop_courses) - Photoshop Course Drive
+* [1TB Art Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_1tb_art_courses) - Art Courses
+* [Photoshop Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_photoshop_courses) - Photoshop Course Drive
 * [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
 * [PhotoFunia](https://photofunia.com/), [AIBlockchainArt](https://aiblockchain.art/) or [Designify](http://designify.com/) - Photo Effects / Filters  
 * [MagicaVoxel](https://ephtracy.github.io/) - Voxel Art Editor / Interactive Path Tracing Renderer
@@ -53,7 +53,7 @@
 * [InsertFace](https://insertface.com/) - Selfie Frames, Backgrounds & Effects
 * [Frame360](https://frame360.net/) - Image Frames
 * [Supershots](https://superblog.ai/supershots/) - Add Backgrounds to Images
-* [Background Removers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_background_removers) - Remove Image Backgrounds
+* [Background Removers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_background_removers) - Remove Image Backgrounds
 * [Party-ify](https://nathanielw.github.io/party-ify/) - Party-ify Images
 * [PFP.LGBT](https://pfp.lgbt/) - LGBTQ+fy Images
 * [ImageRemix](http://www.oyonale.com/imagemix.php) - Image Remixer
@@ -74,7 +74,7 @@
 
 ## ▷ Resize / Compress
 
-* [Image Upscalers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_upscalers) - Upscale Images
+* [Image Upscalers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_image_upscalers) - Upscale Images
 * [Croppola](https://croppola.com/), [Bulk Image Crop](https://bulkimagecrop.com/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tool 
 * [Seopix](https://www.seopix.io/) or [Reduce Images](https://www.reduceimages.com/) - Resize & Compress Images
 * [Simple Image Resizer](http://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [fixpicture](https://www.fixpicture.org/), [Birme](https://www.birme.net/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - Resize Images
@@ -91,7 +91,7 @@
 
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms
 * [Fenophoto](https://www.fenophoto.com/) - Automatic Photo Enhancer
-* [Colorize Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_colorization) - Image Colorization Tools
+* [Colorize Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_image_colorization) - Image Colorization Tools
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
 * [GPEN-Colab](https://github.com/bycloudai/GPEN-colab) - Face Restoration / Colorization Tool
 * [Color-Dragon](https://www.color-dragon.tk/) - Add more Color to Images
@@ -258,11 +258,11 @@
 # ► Download Images
 
 * **[Image Download Site Index](https://start.me/p/jj0JAp/designer)** - Download Images, Illustrations, Icons & more
-* **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - Download Stock Photos / Vectors
-* **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)** - Download Icons
-* **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)** - Search by Image
-* [GFX Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources) - Graphic Design Resources
-* [Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)
+* **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_stock_photo_sites)** - Download Stock Photos / Vectors
+* **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_icon_download_sites)** - Download Icons
+* **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_reverse_image_search)** - Search by Image
+* [GFX Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_image_design_resources) - Graphic Design Resources
+* [Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_image_download_extensions)
 * [RipMe](https://github.com/RipMeApp/ripme), [ImgDownloader](https://imgdownloader.com/), [gallery-dl](https://github.com/mikf/gallery-dl), [SCrawler](https://github.com/AAndyProgram/SCrawler) or [Image Extractor](https://extract.pics/) - Image Download Tools
 * [picsearch](https://www.picsearch.com/), [Yandex Images](https://yandex.ru/images) or [Google Images](https://images.google.com/) - Image Search
 * [RootAbout](https://rootabout.com/) - Archive / OpenlLibrary Reverse Image Search 
@@ -275,7 +275,7 @@
 * [OpenMoji](https://openmoji.org/) - Emojis
 * [PimpMyDrawing](https://pimpmydrawing.com/) - Human Silhouettes
 * [OldBookIllustrations](https://www.oldbookillustrations.com/) - Illustrations from Old Books
-* [Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Movie / TV Covers & Posters
+* [Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_covers_.2F_posters) - Movie / TV Covers & Posters
 * [Film.ai](https://beta.flim.ai/) - Movie Screenshots
 * [CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](http://www.pngmart.com/), [freepngs](https://www.freepngs.com/), [pngall](http://www.pngall.com/), [pngplay](http://www.pngplay.com/), [pngfly](https://www.pngfly.com/), [freepngimg](https://www.freepngimg.com/), [kisspng](https://www.kisspng.com/), [maxpixel](https://www.maxpixel.net/) or [OpenClipart](https://openclipart.org/) - PNG Images / Clipart 
 * [Sankaku](https://sankaku.app/), [Pixiviz](https://pixiviz.pwp.app/) or [ZeroChan](https://zerochan.net/) - Anime Images / Some NSFW / [Chrome](https://github.com/Disrc/SankakuComplexAddon)
@@ -291,12 +291,12 @@
 * [Placeit](https://placeit.net/) - Image Templates
 * [Crello](https://crello.com/) - Image Templates / Editor
 * [Kemono](https://kemono.party/) - Patreon Content / Some NSFW / Use Adblock
-* [Worldvectorlogo](https://worldvectorlogo.com/), [PNGGrid](https://pnggrid.com/), [Logos & Badges Bundle](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_logos_.26amp.3B_badges_bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [logospire](http://logospire.com/), [logotalkz](http://www.logotalkz.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logotouse](https://www.logotouse.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
+* [Worldvectorlogo](https://worldvectorlogo.com/), [PNGGrid](https://pnggrid.com/), [Logos & Badges Bundle](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_logos_.26amp.3B_badges_bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [logospire](http://logospire.com/), [logotalkz](http://www.logotalkz.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logotouse](https://www.logotouse.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles
 * [Replacement Sky](https://replacement-sky.com/) - Skies for Photoshop
-* [AmbientCG](https://ambientcg.com/), [Lost and Taken](https://lostandtaken.com/), [3D textures](https://icons8.com/l/3d-textures/), [Textureking](https://www.textureking.com/), [Texture Labs](https://texturelabs.org/), [Transparent Textures](https://www.transparenttextures.com/), [Texture Club](https://www.sketchuptextureclub.com/) or [Texture Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_texture_collection) - Download Textures
-* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) or [Pattern Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pattern_collection) - Download Patterns
-* [Watercolor Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_watercolor_collection) - Download Watercolor Pictures
+* [AmbientCG](https://ambientcg.com/), [Lost and Taken](https://lostandtaken.com/), [3D textures](https://icons8.com/l/3d-textures/), [Textureking](https://www.textureking.com/), [Texture Labs](https://texturelabs.org/), [Transparent Textures](https://www.transparenttextures.com/), [Texture Club](https://www.sketchuptextureclub.com/) or [Texture Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_texture_collection) - Download Textures
+* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) or [Pattern Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_pattern_collection) - Download Patterns
+* [Watercolor Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_watercolor_collection) - Download Watercolor Pictures
 * [Google Photos Plus](https://github.com/anamritraj/google-photos-plus) - Download Google Photos in Better Quality
 * [google-images-download](https://github.com/hardikvasa/google-images-download) - Download Images from Google Images 
 * [googleimagerestored](https://github.com/fanfare/googleimagesrestored) - Old Google Image Search 
@@ -308,13 +308,13 @@
 
 ***
 
-## ▷ [Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)
+## ▷ [Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_wallpapers)
 
 ***
 
 ## ▷ 3D Models
 
-* [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_models) - 3D Model Download Sites
+* [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_3d_models) - 3D Model Download Sites
 * [Anaglyph Maker](https://www.stereoeye.jp/software/index_e.html) - Make 3D Images
 * [Vectary](https://www.vectary.com/) - Online 3D Image Editor
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
@@ -329,7 +329,7 @@
 * [CC0 Textures](https://cc0textures.com/) - Textures for 3D Models 
 * [Generated Photos](https://generated.photos/) - AI Generated Model Photos
 * [Blender](https://www.blender.org/) - Open Source 3D Modeler / 2D Animation / Video Editor / [Resources](https://github.com/agmmnn/awesome-blender)
-* [3D Modeling Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps) - Free 3D Modeling Apps 
+* [3D Modeling Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_3d_modeling_apps) - Free 3D Modeling Apps 
 * [BLoom3D](https://bloom3d.com/) - Online 3D Modeling Tool
 * [Figurosity](https://figurosity.com/) - Human 3D Models
 * [Armorpaint](https://armorpaint.org/) - 3D Painting
@@ -355,10 +355,10 @@
 
 # ► Image Tools
 
-* **[Multi-Tool Image Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_image_tool_sites)** - Multiple Image Tools
+* **[Multi-Tool Image Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_multi_image_tool_sites)** - Multiple Image Tools
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
-* [Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes) - Color Scheme / Palette Tools
-* [Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers) - Extract Color from Pictures / Webpages
+* [Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_color_schemes) - Color Scheme / Palette Tools
+* [Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_color_pickers) - Extract Color from Pictures / Webpages
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - Image Color Summarizer
 * [ImgOps](https://imgops.com/) - Image Operations Meta-Tool
 * [FontAwesomePS](http://creativedo.co/FontAwesomePS) - Photoshop Icon Manager
@@ -394,8 +394,8 @@
 
 ## ▷  Hosting / Viewing 
 
-* **[Image Hosting / Processing Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosting_.2F_processing)** - Host / Process Images
-* **[Image Viewers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_viewers)** - Image Viewing Programs
+* **[Image Hosting / Processing Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_image_hosting_.2F_processing)** - Host / Process Images
+* **[Image Viewers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_image_viewers)** - Image Viewing Programs
 * [Piwigo](https://piwigo.org/) or [Photonix](https://photonix.org/) - Photo Manager / Viewer
 * [PiGallery2](https://bpatrik.github.io/pigallery2/) - Self-Hosted Image Gallery
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow

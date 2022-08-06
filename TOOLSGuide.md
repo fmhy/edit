@@ -11,12 +11,12 @@
 
 # ► General Tools
 
-* **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_tool_sites)** - Sites with Multiple Tools
+* **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_multi_tool_sites)** - Sites with Multiple Tools
 * **[MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb)** - Multi-Tool Google Colab
-* **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - Multi-Calculator Sites 
-* **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)** - Presentation Tools & Templates
+* **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_calculator_sites)** - Multi-Calculator Sites 
+* **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_presentation_tools)** - Presentation Tools & Templates
 * **[Versus](https://versus.com/)**, [rtings](https://www.rtings.com/), [SocialCompare](https://socialcompare.com/en) or [Diffen](https://www.diffen.com/) - Compare Anything 
-* **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - Organize Ideas & Projects
+* **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_mind_mapping)** - Organize Ideas & Projects
 * **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** - Device Repair Articles
 * **[TurboTaxSucksAss](http://turbotaxsucksass.net/)** or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free
 * **[BeMyEyes](https://www.bemyeyes.com/)** - Assist the Visually Impaired 
@@ -44,24 +44,24 @@
 * [Grocy](https://grocy.info/) - Grocery / Household Management Tool
 * [Volmarg](https://volmarg.github.io/) - Personal Management Tool
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
-* [Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms) - Project Management Tools
+* [Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_collaboration_platforms) - Project Management Tools
 * [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
-* [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - Calendar & Scheduling Tools
+* [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_calendars) - Calendar & Scheduling Tools
 * [wnr](https://getwnr.com/) - Time Management App / [GitHub](https://github.com/RoderickQiu/wnr)
-* [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - To-Do List Apps
+* [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_note_taking_.2F_to_do_apps) - To-Do List Apps
 * [Creative Commons](https://creativecommons.org/) - Creative Commons Licenses
 * [ievaphone](https://ievaphone.com/), [blacktel](https://www.blacktel.io/), [Citrustel](https://www.citrustel.com/) or [PopTox](https://www.poptox.com/) - Make Free Phone Calls
 * [Free-lookup](https://www.free-lookup.net/) - Phone # Lookup
 * [tuxi](https://github.com/Bugswriter/tuxi) - Question & Answer CLI
 * [Carbon Independent](https://www.carbonindependent.org/) - Carbon Footprint Calculator
-* [Price Tracking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_price_tracking) - Price Tracking Sites / Apps
+* [Price Tracking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25BA_price_tracking) - Price Tracking Sites / Apps
 * [OpenTable](https://www.opentable.com/) - Restaurant Reservation Search
 * [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Concerts / Music Festival Search
 * [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - Bedtime Calculator 
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - Bra Size Calculator
 * [The Sustainabilitist](https://sustainabilitist.com/) - Sustainability Resource Hub
 * [ActivityWatch](https://activitywatch.net/) - Automatically Track Device Activity / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)
-* [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity Booster / [Premium Unlock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cold_turkey_premium)
+* [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity Booster / [Premium Unlock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_cold_turkey_premium)
 * [Tempus](https://tempus.keziahmoselle.fr/), [ManicTime](https://www.manictime.com/), [Clockify](https://clockify.me/), [Pro Modoro](https://pro-modoro.xyz/) / [2](https://pomofocus.io/) or [Super-Productivity](https://github.com/johannesjo/super-productivity)  - Productivity Managers
 * [DogSheep](https://dogsheep.github.io/) - Personal Analytics Tools 
 * [Stretchly](https://hovancik.net/stretchly), [WorkRave](https://workrave.org/), [Take a Five](http://www.takeafive.com/), [BreakMessage](https://breakmessage.com/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - Break Reminders / Trackers
@@ -75,7 +75,7 @@
 * [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/), [BestRandoms](https://www.bestrandoms.com/), [Randommer](https://randommer.io/), [GeneratorFun](https://generatorfun.com/) or [Random Lists](https://www.randomlists.com/) - Random Generators
 * [Score Count](https://scorecount.com/) - Online Sports Scoreboards
 * [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizer
-* [Poll Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_poll_sites) - Create Polls
+* [Poll Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_poll_sites) - Create Polls
 * [Kukkee](https://www.kukkee.com/) - Meeting Time Polls
 * [Evote](https://github.com/IBM/evote), [SimpleVote](https://github.com/dessalines/simple-vote), [CryptoBallot](https://cryptoballot.com/) or [BlockVotes](https://github.com/yfgeek/BlockVotes) - Online Voting Platform
 * [Event Rally](https://rallly.co/) / [GitHub](https://github.com/lukevella/Rallly), [Mobilizon](https://joinmobilizon.org/) or [Gancio](https://gancio.org/) - Event Organizing
@@ -115,17 +115,17 @@
 
 ## ▷ Text Tools
 
-* **[Multiple Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_text_tool_sites)** - Sites with Multiple Text Tools
-* **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_editors)** - Text Editing Tools
-* **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - Grammar Checking Tools
-* **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_office_suites)** - Office Suite Software
-* [Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pastebins) - Paste / Store Text Online
+* **[Multiple Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_multi_text_tool_sites)** - Sites with Multiple Text Tools
+* **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_text_editors)** - Text Editing Tools
+* **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_grammar_check)** - Grammar Checking Tools
+* **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_office_suites)** - Office Suite Software
+* [Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_pastebins) - Paste / Store Text Online
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
-* [Scrivener](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_scrivener) - Book Writing App
+* [Scrivener](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_scrivener) - Book Writing App
 * [WriteURL](https://www.writeurl.com/) - Collaborative Text Editor
 * [GhostText](https://ghosttext.fregante.com/) - Use Text Editor in Browser
-* [Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - Note Taking & To-do Apps
-* [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - Calendar & Scheduling Tools
+* [Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_note_taking_.2F_to_do_apps) - Note Taking & To-do Apps
+* [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_calendars) - Calendar & Scheduling Tools
 * [ChecklistGenerator](https://checklistgenerator.co/) - Checklist Generator
 * [Wonder](https://wonder-bot.com/) - Remember Things Easily
 * [Scrapbox](https://scrapbox.io/) - Write & link Notes, Docs & Pages
@@ -149,9 +149,9 @@
 * [PDF Keywords Extractor](https://github.com/bendersej/pdf-keywords-extractor) - PDF File Text Search
 * [ConvertText](https://converttext.io/) - Text Converter
 * [Text File Splitter](https://textfilesplitter.com/) - Text File Splitter
-* [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - Rephrase / Paraphrase Text 
+* [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_text_rephrashing) - Rephrase / Paraphrase Text 
 * [Linguix](https://linguix.com/), [HyperWrite](https://hyperwriteai.com/) or [TextCleanr](https://www.textcleanr.com/) - Writing Assistant
-* [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
+* [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_plagiarism_detection) - Detect Plagiarized Content
 * [Cliche Finder](http://cliche.theinfo.org/) - Detect Cliches
 * [phraseup](http://www.phraseup.com/) - Autocomplete Common Phrases 
 * [Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en), [TextSynth](https://textsynth.com/playground.html) or [Talk to Transformer](https://app.inferkit.com/demo) - Text Autocomplete 
@@ -167,7 +167,7 @@
 * [text-regenerator](https://github.com/jddunn/text-regenerator) - Replace Words with Synonyms
 * [Typoer](https://github.com/georgetian3/typoer) - Types Text with Typos / Corrections
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - Annotation Tools / Resources
-* [Translation Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_translation_sites) - Online Translators
+* [Translation Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_translation_sites) - Online Translators
 * [Crow Translate](https://github.com/crow-translate/crow-translate) or [Argos](https://github.com/argosopentech/argos-translate) - Translation App
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
@@ -186,7 +186,7 @@
 * [TextCompare](https://www.textcompare.org/) - Compare Text
 * [Count Wordsworth](http://countwordsworth.com/) - Count Words in a List 
 * [OfficeDocs](https://www.offidocs.com/) - Runs Desktop / Mobile Apps Online
-* [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
+* [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
 * [Buffered.link](https://buffered.link/) - Share Text Between Devices
 * [Baserow](https://gitlab.com/bramw/baserow), [Framacalc](https://accueil.framacalc.org/en/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheet
 * [TinySheet](https://tinysheet.com/), [Gnumeric](http://www.gnumeric.org/), [EtherCalc](https://ethercalc.net/) or [LuckysheetDocs](https://mengshukeji.github.io/LuckysheetDocs/) - Spreadsheets
@@ -206,7 +206,7 @@
 * [AnagramAssistant](https://keitharm.me/projects/anagramAssistant/) - Anagram Tool 
 * [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - Text Tone Detection 
 * [Just Not Sorry](https://chrome.google.com/webstore/detail/just-not-sorry-the-gmail/fmegmibednnlgojepmidhlhpjbppmlci) - Undermining Word Detection
-* [Character / Word Counters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_character_.2F_word_counters) - Character / Word Counters
+* [Character / Word Counters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_character_.2F_word_counters) - Character / Word Counters
 * [Gramma](https://caderek.github.io/gramma/) - Command Line Grammar Checker
 * [R2bEEaton's Phonetic Reverser](https://spea.cc/backwards/) or [TextReverse](https://www.textreverse.com/) - Reverse Text 
 * [UpsideDown Text](https://www.upsidedowntext.com/) - Generate Upside Down Text
@@ -251,23 +251,23 @@
 ## ▷ Video Tools
 
 * **[Awesome Video](https://github.com/krzemienski/awesome-video)** - Video Tool Index
-* **[Video Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_players)** - Video Players & Tools
-* **[Media Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_servers)** - Servers to Host / Play Media 
-* **[Video Stream Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_stream_sync)** - Video Streaming Sync / Watch Parties
-* **[Video Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_editors)** - Video Editing Software & Sites
-* **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - Download GFX Design Software
-* **[Stock Videos](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_video_sites)** - Free Stock Video Footage
-* **[Video Hosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_hosting_sites)** - Upload / Stream Videos 
+* **[Video Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_video_players)** - Video Players & Tools
+* **[Media Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_media_servers)** - Servers to Host / Play Media 
+* **[Video Stream Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_video_stream_sync)** - Video Streaming Sync / Watch Parties
+* **[Video Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_video_editors)** - Video Editing Software & Sites
+* **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download/#wiki_.25B7_gfx_design_software)** - Download GFX Design Software
+* **[Stock Videos](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_stock_video_sites)** - Free Stock Video Footage
+* **[Video Hosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_video_hosting_sites)** - Upload / Stream Videos 
 * **[VideoHelp](https://www.videohelp.com/software)** - Video Software Archive 
-* **[Video File Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_converters)** - Video Converters / Encoders 
+* **[Video File Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_video_converters)** - Video Converters / Encoders 
 * **[Video Encoding Guides](https://sometimes-archives-things.github.io/archived-things/)**, [2](https://encoding-guide.neocities.org/) - Learn how to Encode Videos
 * **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** - Learn how to Remux Videos
-* **[Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders)** - Record your Screen
-* **[Multi-Site Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)**
-* **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)**  
+* **[Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_screen_recorders)** - Record your Screen
+* **[Multi-Site Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_multi_site_video_downloaders)**
+* **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_youtube_video_downloaders)**  
 * [VideoTuts](http://videotuts.ru/) - Video Design Tutorials / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - Professional Video, Audio & Adobe Software / Plugins
-* [VFX Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vfx_sites) - Download Video Effects
+* [VFX Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_vfx_sites) - Download Video Effects
 * [Free-Codecs](https://www.free-codecs.com/) - Codec Packs & Multimedia Tools
 * [VideoSmaller](https://www.videosmaller.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
 * [youtube-cld](https://github.com/anatolykopyl/youtube-cdl) - Bulk YouTube Channel Downloader
@@ -276,7 +276,7 @@
 * [Pincase](https://pincase.xyz/) - Pinterest Video Downloader 
 * [VLive Downloads](https://home.soshistagram.com/naver_v/) - VLive Video Downloader
 * [kmttg](https://www.videohelp.com/software/kmttg) - TivoToGo Download Manager
-* [TikTok Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tiktok_video_downloaders) - Download TikTok Videos
+* [TikTok Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_tiktok_video_downloaders) - Download TikTok Videos
 * [myfaveTT](https://myfavett.com/) - Download Your Liked TikTok Videos
 * [TikUp](https://github.com/Coloradohusky/TikUp) - TikTok Auto Download / Upload
 * [How-to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/)
@@ -404,15 +404,15 @@
 * **[Awesome Music](https://github.com/ciconia/awesome-music)** - Music Resource Index 
 * **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)** - Music Production Index 
 * **[Hitsquad](http://www.hitsquad.com/smm/)** - Audio Tools / Software Index 
-* **[Audio Players / Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)** - Organize & Play Audio Files
-* **[Audio Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_servers)** - Host & Play Audio Files via Server
+* **[Audio Players / Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_music_libraries_.2F_players)** - Organize & Play Audio Files
+* **[Audio Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_audio_servers)** - Host & Play Audio Files via Server
 * **[Tune My Music](https://www.tunemymusic.com/)** - Transfer Music Library Between Services
-* **[Audio Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_audio_software)** - Audio Software Downloads
-* **[Audio Editors / Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_editors)** - Edit, Record & Create Audio
-* **[Online Audio Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_online_audio_editors)** - Edit Audio / Create Music Online
-* **[Audio Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_download_apps)** - Download Audio from Various Sites 
-* **[Spotify Tools / Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Tools & Downloaders for Spotify
-* **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
+* **[Audio Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download/#wiki_.25B7_audio_software)** - Audio Software Downloads
+* **[Audio Editors / Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_audio_editors)** - Edit, Record & Create Audio
+* **[Online Audio Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_online_audio_editors)** - Edit Audio / Create Music Online
+* **[Audio Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_download_apps)** - Download Audio from Various Sites 
+* **[Spotify Tools / Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_spotify_downloaders)** - Tools & Downloaders for Spotify
+* **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_youtube_to_mp3)** - Download from YouTube
 * **[Equalizer APO](https://equalizerapo.com/)** - Audio Equalizer / [Noise Suppression](https://github.com/werman/noise-suppression-for-voice)
 * **[AutoEq](https://github.com/jaakkopasanen/AutoEq)** - Auto Headphone Equalizer
 * **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - Audio Visualization Resource Index 
@@ -422,8 +422,8 @@
 * [AccurateRip](http://www.accuraterip.com/) - Verify Ripped Tracks are Error Free
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - Professional Video, Audio & Adobe Software / Plugins
 * [Free-Codecs](https://www.free-codecs.com/) - Codec Packs & Multimedia Tools
-* [Audio Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_plugins) or [LoopTorrent](https://looptorrent.net/) - VST Plugins 
-* [Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sfx_.2F_loops) - SFX & Loops
+* [Audio Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_audio_plugins) or [LoopTorrent](https://looptorrent.net/) - VST Plugins 
+* [Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_sfx_.2F_loops) - SFX & Loops
 * [SNES Soundfonts](https://www.williamkage.com/snes_soundfonts/) - SNES Soundfonts
 * [Songwhip](https://songwhip.com/) - Find / Share Your Music on All Platforms
 * [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://iznaut.itch.io/bfxr), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - Sounds Effects Creator
@@ -431,9 +431,9 @@
 * [Plugin Clouds Archive](https://t.me/plugincloudsarchive) - DAW Plugins
 * [FlsAudio](https://flsaudio.com/en/gb/) - FLStudio Samples / Presets / Plugins 
 * [MilkyTracker](https://milkytracker.org/) - .MOD & .XM Module Creator
-* [CrackCartel Vault](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_crackcartel_vault), [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [Baomay01](https://baomay01.info/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
+* [CrackCartel Vault](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_crackcartel_vault), [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [Baomay01](https://baomay01.info/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
 * [AirWindows](http://www.airwindows.com/) - Reverbs / Equalizers / Plugins
-* [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - Learn How to Play Music
+* [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_music_learning) - Learn How to Play Music
 * [Jukebox](https://jukebox.today/) or [jqbx](http://jqbx.fm/) - Music Sync / Listening Parties
 * [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyrics Finder for Spotify, Tidal & VLC
 * [Whyp](https://whyp.it/) - Audio Host
@@ -443,7 +443,7 @@
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) - Measure Surrounding Sound Level
 * [Audio-Router](https://github.com/audiorouterdev/audio-router) - Route Audio from Programs to Devices
 * [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Playback or Recording Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
-* [Ultimate Realtek HD Audio Driver Mod](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ultimate_realtek_hd_audio_driver_mod) or [Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic) - Realtek Audio Driver
+* [Ultimate Realtek HD Audio Driver Mod](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_ultimate_realtek_hd_audio_driver_mod) or [Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic) - Realtek Audio Driver
 * [ASIO4ALL](https://www.asio4all.org/) - ASIO Audio Driver
 * [FXSound](https://www.fxsound.com/) - Sound Booster & Equalizer
 * [HeSuVi](https://sourceforge.net/projects/hesuvi/) - Headphone Surround Virtualizations
@@ -453,8 +453,8 @@
 * [SoundSync](https://soundsync.app/) - Sound System Sync
 * [VCV Rack](https://vcvrack.com/) - Eurorack Simulator
 * [Cable](https://vb-audio.com/Cable/) - Virtual Audio Cable
-* [Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Download Album Art
-* [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - Identify Playing Songs
+* [Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_covers_.2F_posters) - Download Album Art
+* [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_song_identification) - Identify Playing Songs
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Soundux](https://soundux.rocks/) / [GitHub](https://github.com/Soundux/Soundux) or [Resanance](https://resanance.com/) - Soundboard Program
 * [MyInstants](https://www.myinstants.com/index/us/), [InternetsFun](https://instantsfun.es/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboard
 * [Soundpad](https://www.leppsoft.com/soundpad/) - Voicechat Soundboard
@@ -472,11 +472,11 @@
 * FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom), [3](https://jeanslack.github.io/Videomass/) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite)
 * [Arduino Audio Tools](https://github.com/pschatzmann/arduino-audio-tools) - Audio Recorder
 * [SonoBus](https://sonobus.net/) - Audio Server for Streaming
-* [Audio Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_converters) - Audio Conversion Sites & Programs
+* [Audio Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_audio_converters) - Audio Conversion Sites & Programs
 * [Faasoft FLAC Converter](https://www.faasoft.com/articles/flac-converter-mac-and-windows.html) - FLAC Converter
 * [CUETools](http://cue.tools/wiki/CUETools) - Lossless Audio / CUE Sheet Converter
 * [FLAC Frontend](http://flacfrontend.sourceforge.net/) - FLAC Tools 
-* [FLStudio Skins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_flstudio_skins) - Skins for FLStudio
+* [FLStudio Skins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_flstudio_skins) - Skins for FLStudio
 * [Ambientbg](https://www.ambientbg.xyz/) - Create Ambient Background in FL Studio
 * [Webamp](https://webamp.org/) - Winamp in Browser 
 * [Winamp Skin Museum](https://skins.webamp.org/) - Skins for Winamp / Webamp 
@@ -515,7 +515,7 @@
 * [MK-1](https://ericrosenbaum.github.io/MK-1/) - Online Sampling Keyboard
 * [Sampulator](http://sampulator.com/) - Create Music via Keyboard
 * [Theremin](https://femurdesign.com/theremin/) - Online Synth / Theremin 
-* [Audio Synthesizers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_synthesizers) - Audio Synthesizer Sites & Apps
+* [Audio Synthesizers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_audio_synthesizers) - Audio Synthesizer Sites & Apps
 * [Vital](https://vital.audio/) - Spectral Warping Wavetable Synth
 * [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - Pop Song Sample Mixer
 * [Nightcore Maker](https://nightcoremaker.com/) - Create Nightcore Versions of Songs
@@ -540,7 +540,7 @@
 * [Croosfade](https://crossfade.io/) - Video and Audio Crossfading
 * [ZzFXM](https://keithclark.github.io/ZzFXM/) - JavaScript Music Renderer 
 * [YADG](https://yadg.cc/) - Scrape / Render Music via Templates / [API](https://yadg.cc/api/)
-* [Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_to_speech) - Text to Speech Sites / Apps
+* [Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_text_to_speech) - Text to Speech Sites / Apps
 * [Clash](https://clash.me/) or [FakeYou](https://fakeyou.com/) - Media Based Text to Speech 
 * [Audiogrep](http://antiboredom.github.io/audiogrep/), [Tune Transcriber](https://www.tunetranscriber.com/) or [mp4grep](https://github.com/o-oconnell/mp4grep) - Audio Transcribing / [GitHub](https://github.com/antiboredom/audiogrep)
 * [FastHub](https://fasthub.net/) - Text to Speech Translation Tool
@@ -551,7 +551,7 @@
 * [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) / [CLI](https://github.com/IniasP/rnnoise-cli) - Noise Suppression Tools
 * [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10)or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixer
 * [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB) - Singing Voice Enhancer
-* [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [MorphVOX](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_morphvox), [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird), [MyVoiceMod](https://myvoicemod.com/) or [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changer
+* [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [MorphVOX](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_morphvox), [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird), [MyVoiceMod](https://myvoicemod.com/) or [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changer
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) or [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone Voices
 * [Sound Branch](https://soundbran.ch/) - Create / Share / Podcasts / Voice Messages
 * [blamscamp](https://github.com/blackle/blamscamp) - Bandcamp Style Player for Selling Albums on Itch.io
@@ -584,14 +584,14 @@
 
 ***
 
-## ▷ [Educational Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_educational_tools)
+## ▷ [Educational Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_educational_tools)
 
 ***
 
 ## ▷ Career Tools
 
 * **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
-* **[Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)** - Create Resumes for Free
+* **[Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_resume_makers)** - Create Resumes for Free
 * [LoopCV](https://www.loopcv.pro/) - Automated Job Search Tool
 * [Toby Tools](https://rentry.co/qnu6x) - Job Search Tools
 * [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) - Successful Resume Samples
@@ -640,7 +640,7 @@
 * [Cyberseek](https://www.cyberseek.org/index.html) - Cybersecurity Job Market Info
 * [Candor](https://candor.co/hiring-freezes/) - Hiring Freezes
 * [GoodJobsFirst](https://www.goodjobsfirst.org/) - Subsidy Tracker
-* [Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms) - Project Management Tools
+* [Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_collaboration_platforms) - Project Management Tools
 * [Airtable](https://www.airtable.com/) - Build Collaborative Apps
 * [PHPCRM](https://www.phpcrm.com/) - Company Management Software
 * [SplitBee](https://splitbee.io/) - Business Analytics Tool
@@ -663,7 +663,7 @@
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
 * [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Investment Research CLI 
 * [Trading Talks](https://tradingtalks.org/) - Business Courses
-* [Marketing / Trading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_marketing_.2F_trading_courses) - Marketing / Trading Courses
+* [Marketing / Trading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_marketing_.2F_trading_courses) - Marketing / Trading Courses
 * [protocol-reading-list](https://github.com/bryanhpchiang/protocol-reading-list) - Crypto Protocols
 * [Wasabi](https://wasabiwallet.io/) - FOSS Bitcoin Wallet
 
@@ -676,14 +676,14 @@
 # ► Internet Tools
 
 * **[Internet Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_browser_tools)** - Internet & Browser Privacy Tools 
-* **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_managers)** - Manage / Save Passwords
+* **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_password_managers)** - Manage / Save Passwords
 * **[Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_services)** - Email Sites with a Focus on Privacy
-* **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - Create Temporary Email Addresses
+* **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_temp_email_sites)** - Create Temporary Email Addresses
 * **[Site Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_site_development)** - Site Development & Hosting Tools
 * [Yandex Disk](https://disk.yandex.com/), [VK WorkSpace](https://biz.mail.ru/) or [OpenDesktop](https://www.opendesktop.org/) - Multiple Cloud Services 
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
 * [Nativefier](https://github.com/nativefier/nativefier) - Turn Sites into Desktop Apps
-* [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - Test Internet Speed
+* [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_speed_test) - Test Internet Speed
 * [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) or [WLan10](https://github.com/afit/wlan10) - Network Manager
 * [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
 * [OONI](https://ooni.org/) - Test Site Blocking / Network Speed
@@ -699,10 +699,10 @@
 * [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - Web Service Coverage Map
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
 * [WiFiCard](https://wificard.io/) - WiFi Info QRCode Generator
-* [Master Networks & Scanning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_master_networks_.26amp.3B_scanning) - Network & Network Scanning Tutorials
+* [Master Networks & Scanning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_master_networks_.26amp.3B_scanning) - Network & Network Scanning Tutorials
 * [RustCat](https://github.com/robiot/rustcat) - Port Listener
 * [.new](https://whats.new/shortcuts) - New Project Shortcuts
-* [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - Follow RSS Feeds
+* [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_rss_feed_readers) - Follow RSS Feeds
 * [CTRLQ](https://ctrlq.org/rss/) or [RSS.app](https://rss.app/) - RSS Feed Search 
 * [RSS Box](https://rssbox.herokuapp.com/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Creator 
 * [RSSMail](https://git.panda-roux.dev/rssmail/about/) or [FeedButler](https://feedbutler.app/en) - RSS to Email
@@ -715,7 +715,7 @@
 * [PyPasser](https://github.com/xHossein/PyPasser) - Bypass ReCaptcha v3 & v2
 * [hcaptcha-solver](https://github.com/JimmyLaurent/hcaptcha-solver) - Bypass hCaptcha 
 * [Rescan](https://rescan.io/) - Find Out Technologies Used to Build Any Site
-* [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - Archive, Scrape & Crawl Sites
+* [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_web_scraping_.2F_archiving_tools) - Archive, Scrape & Crawl Sites
 * [OutWit](https://www.outwit.com/) - Scrape / Organize Website Data
 * [WebMailExtractor](https://www.webemailextractor.com/#trynow) - Extract Emails / Phone #s from Webpages
 * [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/), [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/) or [FollowThatPage](https://followthatpage.com/) - Page Change Detection / Notification 
@@ -736,12 +736,12 @@
 * [BugMeNot](http://bugmenot.com/), [Parolja](http://en.parolja.net/), [Login2.me](https://login2.me/), [FreeAccount](https://freeaccount.biz/) or [Password Login](http://password-login.com/) - Access & Share Throwaway Accounts 
 * [Eiverr](https://www.eiverr.com/) - Premium Account Cookies
 * [Voice Dictation](https://dictation.io/) - Type with Voice 
-* [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - Manage / Store Bookmarks
+* [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_bookmark_managers) - Manage / Store Bookmarks
 * [Instapaper](https://www.instapaper.com/) - Bookmarking Tool
 * [Pilgrim](http://pilgrim.are.na/) - Tree Style Path Bookmarking
 * [Bort](https://bort.io/) - Bookmark Manager that Syncs with Dropbox 
 * [wallabag](https://wallabag.org/) - Save and Classify Articles
-* [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - Tools / Apps to Run Flash Programs
+* [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_flash_player_tools) - Tools / Apps to Run Flash Programs
 * [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/webcatalog/) or [web2desk](https://appmaker.xyz/web2desk/) - Turn Sites into Desktop Apps 
 * [Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Multiverse](https://multiverse.plus/), [Letterpad](https://letterpad.app/), [Mataroa](https://mataroa.blog/), [Emanates Docs](https://emanates.deepjyoti30.dev/), [write freely](https://writefreely.org/) or [twtxt](https://github.com/buckket/twtxt) - Blogging Platform
 * [Telescope](https://telescope.ac/) - Publishing Platform
@@ -767,7 +767,7 @@
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - Snapchat Recovery Tool
 * [Snapchat Data Extractor](https://gist.github.com/programminghoch10/fa37e0da8b2efc5cb8077e59d000771d) - Extract Snapchat Photo / Video Details
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - Export Skype Chat Data to Readable Text
-* [Video Chat Apps / Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_chat) - Video Calls
+* [Video Chat Apps / Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_video_chat) - Video Calls
 * [Zoom Escaper](https://zoomescaper.com/) - Self-Sabotage Video Calls to Escape Meetings
 * [Pyrite](https://github.com/garage44/pyrite) - Self-Hosted Video Calls 
 * [Live Curtain](https://livecurtain.com/) - Countdown Curtain For Online Meeting
@@ -775,8 +775,8 @@
 * [IMumble](https://www.imumble.nl/), [VoicePacket](https://www.voicepacket.net/) or [Guildbit](https://guildbit.com/) - Voice Chat Servers
 * [Gather](https://gather.town/), [Vircadia](https://vircadia.com/) or [OpenSimulator](http://opensimulator.org/) - Virtual World Server
 * [FireStorm Viewer](https://www.firestormviewer.org/) - Virtual World Viewer
-* [Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_sites) - No Verification Required Email Sites
-* [Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients) - Send & Receive Mail
+* [Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_email_sites) - No Verification Required Email Sites
+* [Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_email_clients) - Send & Receive Mail
 * [Postsack](https://github.com/terhechte/postsack) - Email Visualizer
 * [.edu Mail Guide](https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview), [Mail.mjj](https://mail.mjj.edu.ge/), [10MinMail](https://10minutesemail.net/) - EDU Email Address'
 * [BeFree](https://beefree.io/templates/free/) - Email Templates
@@ -808,13 +808,13 @@
 * [Hamachi](https://vpn.net/) - VPN / LAN Emulator
 * [WikiStalk](https://github.com/altilunium/wistalk) - Analyze Wikipedia User's Activity
 * [InspectContent](https://inspectcontent.com/) - Site Keyword Inspector
-* [Personal Link Hompages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_personal_link_homepages) - Display Your Links / Sites
+* [Personal Link Hompages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_personal_link_homepages) - Display Your Links / Sites
 * [Integrated Inbox](https://integratedinbox.com/) - Gmail Google Web App Integration
 * [EasyMailForGmail](https://easymailforgmail.com/) - Gmail Desktop Client
 * [Namechk](https://namechk.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - Check Username / Domain Availability
 * [HostsDock](https://eshengsky.github.io/HostsDock/) - Manage & Switch Hosts 
-* [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools) 
-* [IP Checkers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_checkers) - Check Your IP Address
+* [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_ip_.2F_network_tools) 
+* [IP Checkers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_ip_checkers) - Check Your IP Address
 * [IP Location](https://iplocation.net/) - IP Location Check 
 * [IP List](http://magic-cookie.co.uk/iplist.html) - Convert CIDR Notation to UP Range
 * [IP Rotator](https://github.com/Ge0rg3/requests-ip-rotator) - Bypass IP-based Rate-Limits Requests 
@@ -852,11 +852,11 @@
 ## ▷ Browsers
 
 * **[Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers) - Normal Web Browsers
-* **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - Privacy Focused Browsers 
+* **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_privacy_based_browsers)** - Privacy Focused Browsers 
 * **[Lightweight Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_lightweight_web_browsers)** - Lightweight Web Browsers
-* **[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_extensions) / [UserScripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_userscripts)** 
-* **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)** - Custom Browser Homepages 
-* [Browser Automation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - Automate Internet Tasks
+* **[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25BA_extensions) / [UserScripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7_userscripts)** 
+* **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_browser_startpages)** - Custom Browser Homepages 
+* [Browser Automation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_automation_tools) - Automate Internet Tasks
 * [Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly) 
 * [Chrome Keyboard Shortcuts](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop) 
 * [browserbench](https://browserbench.org/) - Multiple Browser Benchmark Tests
@@ -879,7 +879,7 @@
 * [n.eko](https://neko.m1k1o.net) / [Github](https://github.com/m1k1o/neko) - Self-Hosted Virtual Browser
 * [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chrome without Google
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
-* [Safari Windows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_safari_windows) - Safari for Windows
+* [Safari Windows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_safari_windows) - Safari for Windows
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) - Prevent Firefox Memory Leaks 
 * [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) or [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Firefox Hidden Settings
 * [Firefox Access](https://www.accessfirefox.org/) - Firefox Accessibility Tools for the Visually Impaired
@@ -901,7 +901,7 @@
 
 ## ▷ Search Tools
 
-* **[Alternative Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_search_engines)** or **[Search-Engine](https://start.me/p/wM7y15/search-engine)** - Search Engine Indexes
+* **[Alternative Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_alternative_search_engines)** or **[Search-Engine](https://start.me/p/wM7y15/search-engine)** - Search Engine Indexes
 * **[Privacy Based Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) or [awesome-custom-search-engines](https://github.com/davzoku/awesome-custom-search-engines) - Custom Search Engine Index
 * [100 Search Engines](https://www.100searchengines.com/) - Search With 100 Search Engines
@@ -946,7 +946,7 @@
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - Search Engine for Lightweight Web Pages
 * [Search My Site](https://searchmysite.net/) - Search Engine for Independent and Personal websites / Open Source
 * [algolia](https://hn.algolia.com/) - Hacker News Search 
-* [Tor Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tor_search_engines) - Search Tor
+* [Tor Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_tor_search_engines) - Search Tor
 * [TorBot](https://github.com/DedSecInside/TorBot), [TorCrawl](https://github.com/james04gr/TorCrawl.py), [OnionIngestor](https://github.com/danieleperera/OnionIngestor), [OnionSearch](https://github.com/megadose/OnionSearch) or [VigilantOnion](https://github.com/andreyglauzer/VigilantOnion) - TOR Network Crawlers
 * [Intelligence X](https://intelx.io/tools) or [Aware-Online](https://www.aware-online.com/en/osint-tools/) - Multiple Search Tools 
 * [Marginalia Search](https://search.marginalia.nu/) - Text Based Search Engine
@@ -990,10 +990,10 @@
 
 ## ▷ URL Tools
 
-* **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)** - URL Encoding / Decoding Tools
+* **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_encode_.2F_decode_urls)** - URL Encoding / Decoding Tools
 * **[Flagfox](https://flagfox.wordpress.com/)** - Displays Country's Flag on Sites / [Adds Many URL Tools](https://i.imgur.com/zDaLZxC.png)
-* **[Check if Sites are Down](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_down_site_checkers)** - Site Availability Checkers
-* **[URL Unshorteners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_url_unshorteners)** - Unmask Shortened URLs
+* **[Check if Sites are Down](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_down_site_checkers)** - Site Availability Checkers
+* **[URL Unshorteners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_url_unshorteners)** - Unmask Shortened URLs
 * **[Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Wiki URL Shortener
 * **[t.ly](https://t.ly/)** - `t.ly/qqH6`
 * **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
@@ -1085,15 +1085,15 @@
 * /u/SaveVideo, [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://www.redditsave.com/), [redv.co](https://redv.co/), [lew.la](https://lew.la/) or [Reddit.tube](https://reddit.tube/) - Download Reddit Videos 
 * [saveddit](https://github.com/p-ranav/saveddit) or [SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader) - Reddit Bulk Media Downloader
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown)
-* [Subreddit Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_subreddit_discovery) - Explore & Discover Subreddits
+* [Subreddit Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_subreddit_discovery) - Explore & Discover Subreddits
 * [/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all) - Explore Multireddits
-* [FMHY Curated Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits) - Multireddits curated by FMHY members
+* [FMHY Curated Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_multireddits) - Multireddits curated by FMHY members
 * [Pushshift Reddit Search](https://www.redditsearch.io/) / [2](https://redditsearch.io/), [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0) / [2](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30), [Redditle](https://redditle.com/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Reddit Search Engines
 * [Busca](https://github.com/afk-mcz/busca) - Search Current Tab on Reddit
 * [KarmaDecay](http://karmadecay.com/) - Reddit Reverse Image Search 
-* [Reddit Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_alternatives) - Alternative Reddit Style Sites
+* [Reddit Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_reddit_alternatives) - Alternative Reddit Style Sites
 * [Simpleddit](http://www.simpleddit.com/), [Legere](https://www.microsoft.com/en-us/p/legere-for-reddit/9phjrvcskvjz), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/) or [Nuxtit](https://nuxtit.netlify.com/) - Alt Browsers / Web Clients
-* [Reddit Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_frontends)
+* [Reddit Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_reddit_frontends)
 * [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466-unedit-and-undelete-for-reddit) - See Edited & Deleted Reddit Content
 * [Unddit](https://www.unddit.com/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - View Deleted Reddit Posts
 * [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - View Deleted Reddit Comments 
@@ -1129,7 +1129,7 @@
 * [RedditRepostSleuth](https://github.com/barrycarey/RedditRepostSleuth) - Repost Detection Bot
 * [DelayForReddit](https://www.delayforreddit.com/) - Reddit Post Scheduler
 * [subreddit-scraper](https://github.com/naftulikay/subreddit-scraper) - Backup Entire Subreddits 
-* [Reddit Desktop Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_desktop_apps) 
+* [Reddit Desktop Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_reddit_desktop_apps) 
 * [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader) - Download Media from Reddit 
 * [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Reddit Bulk Submission Downloader
 * [Pushshift.io](https://pushshift.io/) - Reddit Statistics 
@@ -1153,10 +1153,10 @@
 ***
 
 * **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client 
-* **[BetterDiscord](http://betterdiscord.app/)** - Modifiable Discord Client / [GitHub](https://github.com/BetterDiscord/BetterDiscord) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)
+* **[BetterDiscord](http://betterdiscord.app/)** - Modifiable Discord Client / [GitHub](https://github.com/BetterDiscord/BetterDiscord) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_betterdiscord_tools)
 * **[Cumcord](https://cumcord.com/)** - Discord Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)
 * **[GooseMod](https://goosemod.com/)** - Modifiable Discord Client / [Firefox](https://addons.mozilla.org/addon/goosemod-for-web/) / [Chrome](https://chrome.google.com/webstore/detail/goosemod-for-web/clgkdcccmbjmjdbdgcigpocfkkjeaeld)
-* [Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists) - Discover Servers / Bots
+* [Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_discord_server_.2F_bot_lists) - Discover Servers / Bots
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - Discord Tools
 * [Client-Modding-Guide](https://github.com/saintwithataint/Client-Modding-Guide/blob/main/PimpMyClient.md) - Modify Your Discord Client
 * [ArmCord](https://armcord.smartfridge.space/) - Lightweight Discord Client / [GitHub](https://github.com/ArmCord/ArmCord)
@@ -1210,7 +1210,7 @@
 * [Wickbot](https://wickbot.com/) - Discord Security Bot
 * [Modmail](https://github.com/kyb3r/modmail) - Discord Modmail Bot 
 * [CloneCord](https://github.com/Rekulous/CloneCord-bot) - GClone Cloud Storage File Manager in Discord
-* [Custom Rich Discord Presence](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_custom_rich_discord_presence) - Customize Discord Rich Presence 
+* [Custom Rich Discord Presence](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_custom_rich_discord_presence) - Customize Discord Rich Presence 
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - Discord Rich Presence Manager
 * [RPC PC Status](https://github.com/Faelayis/RPC-Pc-Status) - PC Status Rich Presence
 * [FetchCord](https://github.com/MrPotatoBobx/FetchCord) - OS Discord Rich Presence
@@ -1239,7 +1239,7 @@
 * [ansi-colors-discord.md](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06) - Discord Colored Messages 
 * [Discord Style](https://www.discord.style/) - Discord Server Templates
 * [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/)
-* [Discord Embed Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_embed_generators) - Generate Embeds via Webhooks
+* [Discord Embed Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_discord_embed_generators) - Generate Embeds via Webhooks
 * [Discord-Webhook-Delete](https://github.com/fknMega/Discord-Webhook-Delete) - Webhook Remover
 * [Embed Visualizer](https://embed.discord.website/) - Embed Visualization Tool 
 * [Chimera](https://github.com/CedArctic/Chimera) - System Remote Control 
@@ -1295,14 +1295,14 @@
 
 ## ▷ Telegram Tools
 
-* **[Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools)** - File Tools for Telegram
+* **[Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_telegram_file_tools)** - File Tools for Telegram
 * [borodutch.eth](https://borodutch.com/) - Telegram Tools
 * [Telegram Channels](https://telegramchannels.me/), [TG-ME](https://www.tg-me.com/) or [Telegramic](https://telegramic.org/) - Telegram Channel Indexes
-* [Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_bots) - Telegram Bot Indexes
+* [Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_telegram_bots) - Telegram Bot Indexes
 * [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [gramxly](https://gramxly.com/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - Telegram Channel / Bot Search
 * [ShellBot](https://github.com/MannyHackers/ShellBot), [EvaMaria](https://github.com/EvamariaTG/EvaMaria) - Multi-Purpose Telegram Bot
 * [VirusTotalAV_bot](https://t.me/VirusTotalAV_bot) - Telegram File Scanner
-* [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots) - Audio Download Bots
+* [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_telegram_audio_download_bots) - Audio Download Bots
 * [GetMediaBot](https://t.me/getmediabot) - Media Download Bot
 * [Telegram-Media-Downloader](https://github.com/fattynoparents/Telegram-Media-Downloader) - Media Download Extension
 * [Bulk download from Telegram](https://zebradil.me/post/2018-04-18-bulk-download-from-telegram/) - Telegram Media Download Method
@@ -1337,8 +1337,8 @@
 
 ## ▷ YouTube Tools
 
-* **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)** - Download Videos from YouTube
-* **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download Audio from YouTube
+* **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_youtube_video_downloaders)** - Download Videos from YouTube
+* **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_youtube_to_mp3)** - Download Audio from YouTube
 * **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** or [yt dislikes viewer](https://github.com/pgamerx/yt-dislikes-viewer) - View YouTube Dislikes / [Discord](https://discord.com/invite/mYnESY4Md5)
 * **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)
 * [Invidious](https://invidious.io/) / [GitHub](https://github.com/iv-org/invidious) or [PSTube](https://github.com/prateekmedia/pstube) - Ad Free YouTube Client
@@ -1346,7 +1346,7 @@
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge) - Delete All YouTube Spam Comments
 * [YouTube Encoding Guide](https://support.google.com/youtube/answer/1722171) - Recommended YouTube Encoding Settings
 * [TubeSync](https://github.com/meeb/tubesync) - Sync YouTube Channels / Playlists to a Media Server
-* [YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends) 
+* [YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_youtube_frontends) 
 * [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube), [ImprovedTube](http://improvedtube.com/), [Iridium](https://github.com/ParticleCore/Iridium), [Improve YouTube!](https://github.com/code-for-charity/YouTube-Extension) or [Magic Actions for YouTube](https://www.mycinema.pro/) - YouTube Enhancement Addons 
 * [Focused YouTube](https://github.com/makaroni4/focused_youtube) - Minimalist YouTube
 * [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux) or [Classic YouTube Design](https://github.com/Cicero-Interactive/Classic-YouTube-Design/) - Restore Classic YouTube Layout 
@@ -1408,7 +1408,7 @@
 * [YouTube CPU Tamer](https://greasyfork.org/en/scripts/431573-youtube-cpu-tamer-by-animationframe) - YouTube CPU Optimization
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix YouTube Aspect Ratio
 * [YoutubeNonStop](https://github.com/lawfx/YoutubeNonStop) - Removes the YouTube: "Video Paused, Continue Watching?"
-* [Video Resumer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_resumer) - Automatically resumes YouTube videos from where you played them last
+* [Video Resumer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_video_resumer) - Automatically resumes YouTube videos from where you played them last
 * [ProgressBar Preserver](https://greasyfork.org/scripts/394512) - Always Visible Progress Bar YouTube
 * [Equalizer for YouTube](https://mybrowseraddon.com/equalizer-for-youtube.html) - Audio Equalizer
 * [songs-to-youtube](https://github.com/7x11x13/songs-to-youtube) - Upload Audio to Youtube Automatically
@@ -1436,7 +1436,7 @@
 
 ## ▷ Twitch Tools
 
-* **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers)** - Block Ads on Twitch
+* **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_twitch_adblockers)** - Block Ads on Twitch
 * [Twitch Databse](https://twitchdatabase.com/) - Twitch Tools and Analytics
 * [BetterTTV](https://betterttv.com/) or [FrankerFacez](https://www.frankerfacez.com/) - Twitch Enhancement Extension
 * [Stream Scheme](https://www.streamscheme.com/) - Livestreaming Guides & Resources
@@ -1446,7 +1446,7 @@
 * [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Recover, View & Download Twitch Videos
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - Lightweight Twitch Webplayer
 * [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player 
-* [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - Alt Twitch Player 
+* [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_alternative_twitch_player) - Alt Twitch Player 
 * [Orion](https://alamminsalo.github.io/orion/) - Twitch Desktop Client 
 * [Twitch Now](https://addons.mozilla.org/en-US/firefox/addon/twitch-now_/) or [Gumbo](https://github.com/seldszar/gumbo) - 
 Twitch Stream Tracker
@@ -1588,14 +1588,14 @@ Twitch Stream Tracker
 # ► System Tools
 
 * **[Windows Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/pirate-windows)**
-* **[Windows ISO's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
-* **[Windows Activation Guides / Scripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_windows_activation)** - Active Windows
+* **[Windows ISO's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_windows_iso)** - Download Windows
+* **[Windows Activation Guides / Scripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_windows_activation)** - Active Windows
 * **[Optimize-Guide](https://rentry.co/mdl-optimize-guide)** - Optimize Windows / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat)
 * **[Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png)**, [2](https://i.imgur.com/A36Yd7F.png) / [Course](https://keycombiner.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/) or [CheatKeys](https://cheatkeys.com/CheatSheet) - Keyboard Shortcuts
 * [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/federico-terzi/espanso)
 * [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI Commands Cheatsheet
-* [Windows 10 Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)
-* [Operating System Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_os_emulators) - Emulate Alternate OS
+* [Windows 10 Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_windows_10_debloater)
+* [Operating System Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_os_emulators) - Emulate Alternate OS
 * [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) / [GitHub](https://github.com/microsoft/PowerToys), [CWCodes](http://cwcodes.net/), [Progress Tools](https://www.progress-tools.x10.mx/), [Guru3D](https://www.guru3d.com/files-categories), [JaxCore](https://jax-core.github.io/) or [JoeWare](https://www.joeware.net/freetools/index.htm) - System Tools 
 * [PCPartPicker](https://pcpartpicker.com/), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), [/r/buildapc](https://reddit.com/r/buildapc) / [Discord](https://discord.gg/TmNgXbwrqJ), [Build Redux](https://buildredux.com/), [CGDirector](https://www.cgdirector.com/pc-builder/) or [NZXTBld](https://www.letsbld.com/) - PC Building Sites / [Discord](https://discord.gg/buildapc)
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
@@ -1623,7 +1623,7 @@ Twitch Stream Tracker
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - Preinstallation Environment 
 * [Microsoft Downloads Dump](https://www.heidoc.net/php/myvsdump.php) - Verify ISO Legitimacy
 * [CD Key Reader](http://www.cathonian.com/software/cd-keyreader/) - Find Key used to Install Windows
-* [WinXP Service Pack 4](https://www.majorgeeks.com/files/details/windows_xp_service_pack_4_unofficial.html) - Windows XP Unofficial Service Pack 4 / [Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_winxp_service_pack_4)
+* [WinXP Service Pack 4](https://www.majorgeeks.com/files/details/windows_xp_service_pack_4_unofficial.html) - Windows XP Unofficial Service Pack 4 / [Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_winxp_service_pack_4)
 * [ChangeWindows](https://www.changewindows.org/timeline) - Latest Windows Update Info
 * [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) or [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - Extended Windows 7 Updates 
 * [WSUOffline](https://download.wsusoffline.net/) - Offline Windows Updates
@@ -1664,8 +1664,8 @@ Twitch Stream Tracker
 * [NVIDIA Control Panel](https://rentry.co/gaydia) - NVIDIA Control Panel Without MS Store
 * [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) or [NVSlimmer](https://majorgeeks.com/files/details/nvslimmer.html) - Customize NVIDIA Driver Packages
 * [Nvidia-Patch](https://github.com/keylase/nvidia-patch) - NVENC & NvFBC Patches
-* [Parted Magic](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_parted_magic) - Disk Management Tool
-* [Disk Usage Analyzers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_disk_usage_analyzers) - View & Manage Files on Disk
+* [Parted Magic](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_parted_magic) - Disk Management Tool
+* [Disk Usage Analyzers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_disk_usage_analyzers) - View & Manage Files on Disk
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - Disk Benchmarking Tool
 * [Macrium Reflect](https://www.macrium.com/reflectfree) - System Benchmarking
 * [poclmembench](https://github.com/kruzer/poclmembench) - Memory Benchmark Test
@@ -1702,7 +1702,7 @@ Twitch Stream Tracker
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
-* [Keyboard Testers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_keyboard_testers) - Test Keyboard Buttons
+* [Keyboard Testers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_keyboard_testers) - Test Keyboard Buttons
 * [Keytap2](https://keytap2.ggerganov.com/) - Acoustic Keyboard Eavesdropping
 * [CustomKeyboardLayoutPersistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layout
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) - System Forensic Tools
@@ -1741,7 +1741,7 @@ Twitch Stream Tracker
 * [Wox](http://www.wox.one/) / [GitHub](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [ChaseApp](https://www.chaseapp.io/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke Launcher
 * [Closemul](https://www.lustark.com/closemul) - Multi-Purpose Program Frontend
 * [rofi](https://github.com/davatorium/rofi) - Window Switcher & App Launcher
-* [Clipboard Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_clipboard_managers) - Manage Copied Text
+* [Clipboard Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_clipboard_managers) - Manage Copied Text
 * [clip](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/clip) - Redirects Command Output from Command Line to Clipboard
 * [The Printliminator](https://github.com/CSS-Tricks/The-Printliminator) - Print Formatting Tool
 * [Cronos](https://crono.app/) - Desktop Mobile Notifications
@@ -1772,7 +1772,7 @@ Twitch Stream Tracker
 * [DisplayFusion](https://www.displayfusion.com/) or [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Tools
 * [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - Show Desktop For Only One Monitor
 * [ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - Desktop Program, Video & Webpage Pins / Program Wallpapers
-* [Window Grid / Tiling Programs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_window_tiling_programs) - Window Managers
+* [Window Grid / Tiling Programs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_window_tiling_programs) - Window Managers
 * [WindowTop](https://windowtop.info/) - Window Manager
 * [Windows Sizer](http://www.brianapps.net/sizer4/) - Resize & Reposition
 * [DeskPins](https://efotinis.neocities.org/deskpins/) - Always on Top Windows
@@ -1797,7 +1797,7 @@ Twitch Stream Tracker
 * [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - Control Multiple PC's via One Mouse / Keyboard
 * [JumpShare](https://jumpshare.com/) - File, Screenshot & Video Sharing
 * [Screego](https://app.screego.net/) / [Github](https://github.com/screego/server/), [Screensy](https://screensy.marijn.it/) / [GitHub](https://github.com/screensy/screensy) or [here.fm](https://here.fm/) - Screen Sharing
-* [Remote Desktop Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remote_desktop_clients) - Control Desktop Remotely
+* [Remote Desktop Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_remote_desktop_clients) - Control Desktop Remotely
 * [InputDirector](http://www.inputdirector.com/), [Synergy](https://symless.com/synergy), [Barrier](https://github.com/debauchee/barrier) or [ShareMouse](https://www.sharemouse.com/) - Share Mouse & Keyboard w/ Multiple Computers
 * [Nebula](https://github.com/slackhq/nebula) - Multi-Computer Networking Tool
 * [TigerVNC](https://tigervnc.org/) - VNC Client
@@ -1812,7 +1812,7 @@ Twitch Stream Tracker
 * [CouleursToolbox](https://github.com/couleurm/couleurstoolbox) - Installs Multiple Programs / Tweaks 
 * [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator 
 * [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
-* [Revo Uninstaller](https://www.revouninstaller.com/), [Soft Organizer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_soft_organizer), [Geek Uninstaller](https://geekuninstaller.com/), [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) or [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Software Uninstallation Tool
+* [Revo Uninstaller](https://www.revouninstaller.com/), [Soft Organizer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_soft_organizer), [Geek Uninstaller](https://geekuninstaller.com/), [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) or [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Software Uninstallation Tool
 * [O&O App Buster](https://www.oo-software.com/en/ooappbuster) - Remove Pre-Installed Microsoft Apps
 * [Update Notifier](http://cleansofts.org/view/update-notifier.html) - Scan Computer for Software Updates 
 * [Nemesis](https://forums.guru3d.com/threads/3rd-party-driver-amernime-zone-radeon-release-nemesis-22-6-1-whql-driverpack.436611/) - Custom Drivers for Discontinued GPUs
@@ -1908,7 +1908,7 @@ Twitch Stream Tracker
 
 ## ▷ Customization
 
-* **[Wallpaper Sites / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Download Wallpapers
+* **[Wallpaper Sites / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_wallpapers)** - Download Wallpapers
 * **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter), [2](https://visualskins.com/) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) 
 * **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9), [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - Custom App Themes
 * [PCDesktops](http://pcdesktops.emuunlim.com/applinks.shtml) - Windows Customization Apps
@@ -1935,7 +1935,7 @@ Twitch Stream Tracker
 * [ModernWinver](https://github.com/torchgm/NewModernWinver) - Modernize the About Windows Screen
 * [pyWinContext](https://github.com/VodBox/pyWinContext) or [WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Custom Context Menu Manager 
 * [Modern Flyouts](https://www.microsoft.com/en-gb/p/modernflyouts-preview/9mt60qv066rp?activetab=pivot:overviewtab) - Modern & Fluent Flyouts for Windows / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
-* [WindowFX](https://www.stardock.com/products/windowfx/) - System Animation Effects / [Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_windowfx_premium)
+* [WindowFX](https://www.stardock.com/products/windowfx/) - System Animation Effects / [Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_windowfx_premium)
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10 Search Appearance Tweaker
 * [Windows 11 for Windows 10](https://www.deviantart.com/niivu/art/Windows-11-for-Windows-10-882819383) - Windows 11 Theme / [Icons](https://www.deviantart.com/niivu/art/Windows-11-Icon-Themes-874289797)
 * [Taskbar Tweaker](https://tweaker.rammichael.com/), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) or [Valaut](http://www.valaut.phpnet.us/) - Taskbar Customization Tools
@@ -1952,7 +1952,7 @@ Twitch Stream Tracker
 * [FolderMarker](https://foldermarker.com/) or [CustomFolder](https://www.gdzsoft.com/) - Custom Folders & Markers
 * [Win98Icons](https://win98icons.alexmeub.com/) - Classic Win98 Icons
 * [Cursors 4U](https://www.cursors-4u.com/) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
-* [Windows Sounds](https://winsounds.com/) or [Win11 Sounds](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_win11_sounds) - Windows Sound Schemes
+* [Windows Sounds](https://winsounds.com/) or [Win11 Sounds](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_win11_sounds) - Windows Sound Schemes
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - MacOS Cursors for Windows
 * [Win7BootUpdater](https://mega.nz/file/T5ZDmIaK#jdiomK79q1CYzwFcbzkzJ1ceLsWlnAHLvofsjHIq39g) - Customize Windows 7 Boot Animation / [Guide](https://youtu.be/IdwcWIKuVG8)
 * [terminal.sexy](https://terminal.sexy/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Color Schemes
@@ -1972,23 +1972,23 @@ Twitch Stream Tracker
 
 ## ▷ File Tools
 
-* **[File Hosting / Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - Share, Store & Sync Files
-* **[Multi-Site Cloud Storage Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_cloud_storage_managers)** - Manage Cloud Files on Multiple Sites
-* **[File Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_download_managers)**, **[2](https://en.wikipedia.org/wiki/Comparison_of_download_managers)** - Programs to Help Manage Downloads
-* **[Windows File Explorers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_file_explorers)** - Improved Windows File Explorers
-* **[File Conversion Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_conversion_tools)** - Tools to Convert Files
-* **[Unzip / Compress Files](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_compression_programs)** - File Unzippers / Compression Programs
+* **[File Hosting / Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_file_sharing_tools)** - Share, Store & Sync Files
+* **[Multi-Site Cloud Storage Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_multi_site_cloud_storage_managers)** - Manage Cloud Files on Multiple Sites
+* **[File Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_file_download_managers)**, **[2](https://en.wikipedia.org/wiki/Comparison_of_download_managers)** - Programs to Help Manage Downloads
+* **[Windows File Explorers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_windows_file_explorers)** - Improved Windows File Explorers
+* **[File Conversion Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_file_conversion_tools)** - Tools to Convert Files
+* **[Unzip / Compress Files](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_compression_programs)** - File Unzippers / Compression Programs
 * **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** or [MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb) - Google Drive Tools Colab / [GitHub](https://github.com/biplobsd/OneClickRun) / [Features](https://i.imgur.com/hEHM7Vy.png)
 * **[Mega-to-Google-Drive](https://github.com/cheems/Mega-to-Google-Drive)** - Transfer Files from Mega to GDrive
 * **[OpenWith](https://www.openwith.org/)** or [File.org](https://file.org/) - Programs to Open any File Extension 
 * **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser
-* **[TeamDrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_generators)** - Create Google TeamDrives
-* **[Onedrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_onedrive_generators)** - Generate Microsoft 1tb OneDrives / Free Office 365 
+* **[TeamDrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_teamdrive_generators)** - Create Google TeamDrives
+* **[Onedrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_onedrive_generators)** - Generate Microsoft 1tb OneDrives / Free Office 365 
 * **[UDS](https://github.com/stewartmcgown/uds)** - Unlimited Google Drive Storage
-* **[PDF Editors / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pdf_editors_.2F_toolkits)**
+* **[PDF Editors / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_pdf_editors_.2F_toolkits)**
 * [downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site Downloaders
 * [Awesome Storage](https://github.com/okhosting/awesome-storage) - File Storage Tools
-* [Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools) - File Tools for Telegram
+* [Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_telegram_file_tools) - File Tools for Telegram
 * [FreeOnlineEditor](https://freeonlineeditor.com/), [FileConverto](https://fileconverto.com/), [AiseeSoft](https://aiseesoft.com/) or [TinyWow](https://tinywow.com/) - Multiple File Tools
 * [horsicq](https://horsicq.github.io/) - Multiple File Programs / [GitHub](https://github.com/horsicq/)
 * [Pandoc](https://pandoc.org/) or [CometDocs](https://www.cometdocs.com/) - Document Converter
@@ -2067,7 +2067,7 @@ Twitch Stream Tracker
 * [Extract_Zip](https://colab.research.google.com/drive/1L74g3bsV0YEMbDSUj4Kxrwi26mgjxVpp?usp=sharing) - Extract Zip Files in GDrive
 * [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive 
 * [CloneBot](https://github.com/MsGsuite/CloneBot_Heroku) - Copy GDrive to TeamDrive
-* [Copy Google Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_copy_google_drives) - Make GDrive Copies 
+* [Copy Google Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_copy_google_drives) - Make GDrive Copies 
 * [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive 
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
 * [goodls](https://github.com/tanaikech/goodls) - Google Drive Downloader
@@ -2083,7 +2083,7 @@ Twitch Stream Tracker
 * [InfiniDrive](https://github.com/nicomda/InfiniDrive) - Unlimited Cloud Drive using Amazon Prime Photos
 * [Nextcloud](https://nextcloud.com/) - Safe data storage / [Unofficial Providers](https://nextcloud.com/signup/)
 * [Shared Drives Creator Website](https://github.com/MsGsuite/Shared-Drives-Creator-Website) - Create & host a Shared Drive Generator Website
-* [File Recovery Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_recovery_tools) - Data Recovery Tools
+* [File Recovery Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_file_recovery_tools) - Data Recovery Tools
 * [Metadata Editor](https://metaeditor.services.picvario.com/), [EXIFTool](https://exiftool.org/), [ExtractMetadata](https://www.extractmetadata.com/), [Metadata2Go](https://www.metadata2go.com/) or [Metashield](https://metashieldclean-up.elevenpaths.com/) - Metadata Viewer / Editor
 * [SKTimeStamp](https://tools.stefankueng.com/SKTimeStamp.html) - Change File Created / Modified Time
 * [lessmsi](https://lessmsi.activescott.com/) - .msi Content Extractor / [GitHub](https://github.com/activescott/lessmsi)
@@ -2096,7 +2096,7 @@ Twitch Stream Tracker
 * [EasyClone](https://github.com/xd003/easyclone) - Improved RClone Operations Script
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - HTTP File System
 * [FolderClone](http://www.folderclone.com/) - Clone / Backup Folders
-* [File Backup Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_backup_tools) - File / Data Backup Tools
+* [File Backup Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_file_backup_tools) - File / Data Backup Tools
 * [ShadowExplorer](https://www.shadowexplorer.com/) or [ShadowCopyView](https://www.nirsoft.net/utils/shadow_copy_view.html/) - Shadow Copy Explorers
 * [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) or [filebrowser](https://github.com/filebrowser/filebrowser/) - Web File Browser
 * [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/), [iStockFile](http://istockfile.com/ ) or [Securedrop](https://securedrop.org/) - Document File Sharing
@@ -2109,7 +2109,7 @@ Twitch Stream Tracker
 * [TagSpaces](https://www.tagspaces.org/) - Add Tags to File and Folders
 * [Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/), [Fast-Duplicate-File-Finder](https://www.mindgems.com/products/Fast-Duplicate-File-Finder/Fast-Duplicate-File-Finder-About.htm), [ashisoft](https://www.ashisoft.com/), [dupscout](https://www.dupscout.com/dupscout_search_duplicate_files.html), [wisecleaner](https://www.wisecleaner.com/wise-duplicate-finder.html), [clonespy](https://www.clonespy.com/), [AllDup](http://www.alldup.info/) or [dupeGuru](https://dupeguru.voltaicideas.net/) - Duplicate File Finder 
 * [TMSU](https://github.com/oniony/TMSU), [Tagging for Windows](https://tagging.connectpaste.com/) or [SuperTag](https://github.com/amoffat/supertag) - Tag-Based Filesystem 
-* [Bulk File Renamers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bulk_file_renamers) - Easily Rename Multiple Files
+* [Bulk File Renamers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_bulk_file_renamers) - Easily Rename Multiple Files
 * [MediaMonkey](https://www.mediamonkey.com/), [tinyMediaManager](https://www.tinymediamanager.org/), [Bruji](https://www.bruji.com/) or [MediaInfo](https://mediaarea.net/en/MediaInfo) - Get Media Info for Video & Audio Files / [Web App](https://overbits.herokuapp.com/mediainfo/)
 * [File Juggler](https://www.filejuggler.com/) - Organize Files Automatically
 * [Shoko](https://github.com/shokoanime) - Anime Catalog Automation 
@@ -2153,16 +2153,16 @@ Twitch Stream Tracker
 
 ***
 
-## ▷ [Linux Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_tools_.2F_apps)
+## ▷ [Linux Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux/#wiki_.25BA_linux_tools_.2F_apps)
 
 ***
 
-## ▷ [Mac Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_tools_.2F_apps)
+## ▷ [Mac Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux/#wiki_.25BA_mac_tools_.2F_apps)
 
 ***
 
-## ▷ [Android Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_tools)
+## ▷ [Android Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_tools)
 
 ***
 
-## ▷ [iOS Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_tools)
+## ▷ [iOS Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_tools)

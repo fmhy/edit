@@ -20,9 +20,9 @@
 ***
 
 * **[qBittorrent](https://www.qbittorrent.org/)** - [Screenshot](https://i.imgur.com/B9KBUXs.png)
-* **[qBittorrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)**
+* **[qBittorrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_qbitorrent_tools)**
 * **[Transmission](https://transmissionbt.com/)** - [Screenshot](https://i.imgur.com/BnoGitA.png)
-* **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)** - Download Torrents to Google Drive
+* **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_torrent_to_gdrive)** - Download Torrents to Google Drive
 * [from-torrent](https://multiup.org/en/upload/from-torrent) - Torrent to DDL Sites / [Bypass 10GB Limit](https://i.imgur.com/ChMcdq8.png)
 * [Deluge](https://www.deluge-torrent.org/) - [Screenshot](https://i.imgur.com/RbQUHpF.png)
 * Deluge Tools - [Plugins](https://dev.deluge-torrent.org/wiki/Plugins) / [Auto-Remove](https://github.com/omaralvarez/deluge-autoremoveplus) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
@@ -74,11 +74,11 @@
 
 ***
 
-## ▷ [Android Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_torrenting)
+## ▷ [Android Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_torrenting)
 
 ***
 
-## ▷ [iOS Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_torrenting)
+## ▷ [iOS Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_torrenting)
 
 ***
 
@@ -129,7 +129,7 @@
 
 ## ▷ Aggregators
 
-* **[Torrentz2](https://torrentz2eu.me/)** - [Beta](https://torrentzeu.org/beta/) / [Magnet Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrentz2_magnet_links)
+* **[Torrentz2](https://torrentz2eu.me/)** - [Beta](https://torrentzeu.org/beta/) / [Magnet Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_torrentz2_magnet_links)
 * **[FileListing](https://filelisting.com)** 
 * **[snowfl](https://snowfl.com/)** 
 * **[Knaben](https://knaben.eu/)**
@@ -180,23 +180,23 @@
 
 ***
 
-## ▷ [Video Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_sites)
+## ▷ [Video Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25BA_torrent_sites)
 
 ***
 
-## ▷ [Anime Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_torrenting)
+## ▷ [Anime Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_anime_torrenting)
 
 ***
 
-## ▷ [Educational Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_educational_torrenting)
+## ▷ [Educational Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_educational_torrenting)
 
 ***
 
-## ▷ [Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_torrent_games)
+## ▷ [Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_torrent_games)
 
 ***
 
-## ▷ [Audio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_audio_torrenting)
+## ▷ [Audio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_audio_torrenting)
 
 ***
 
@@ -223,7 +223,7 @@
 # ► Helpful Sites / Apps
 
 * **[PreDB](https://predb.ovh/)** / [2](https://predb.me/) / [3](https://predb.de/) / [4](https://www.predb.pw/) / [5](https://predb.xyz/), [PreDB Live](https://predb.live/), [M2V](https://m2v.ru/), [Xrel](https://www.xrel.to/) or [srrDB](https://www.srrdb.com/) - Scene Release Tracker
-* **[Tracker Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tracker_lists)** - Updated lists of BitTorrent trackers 
+* **[Tracker Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_tracker_lists)** - Updated lists of BitTorrent trackers 
 * **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.com) / [3](https://www.torrentkitty.net/) / [4](https://www.torrentkitty.lol/) / [5](https://torrentkitty.se/) - Torrent to Magnet Converter
 * **[Auto Torrent Tools List](https://redd.it/hbwnb2)**, [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - Autodownload tools
 * [Torrent Legality](https://i.imgur.com/eNdboCs.png) - Torrenting Laws by Country

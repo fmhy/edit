@@ -402,7 +402,7 @@
 * [warez.to](https://warez.to/) - Movies / TV / Games / Software / NSFW 
 * [hd-source](https://hd-source.to/) - Video / NSFW 
 * [MLCBoard](https://mlcboard.com/) - Movies 
-* [German Telegram Movie Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_german_telegram_movie_downloads) - Movies 
+* [German Telegram Movie Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_german_telegram_movie_downloads) - Movies 
 * [Boerse](https://myboerse.bz/) - Video / Audio / Software / Android / NSFW
 * [Animes.so](https://www.animes.so/) - Anime 
 * [37.187.112](http://37.187.112.153/) - Anime
@@ -516,7 +516,7 @@
 * [Movies Flix](https://hdmoviesflix.shop/) - Movies / NSFW
 * [Dudefilms](https://dudefilms.cyou/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
 * [The Movies Flix](https://themoviesflix.ac/) - Movies / NSFW / [Telegram](https://t.me/themoviesflixcomco)
-* [Bollywood Movie Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bollywood_movie_drive) - Movies
+* [Bollywood Movie Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_bollywood_movie_drive) - Movies
 * [KatMovieHD](https://katmoviehd.tw/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [MoviesRush](https://moviesrush.quest/) - Movies
 * [MoviezAddiction](https://moviezaddiction.lol/) - Movies / TV / [Telegram](https://t.me/moviezaddiction3)
@@ -679,10 +679,10 @@
 * [JPFILES](https://jpfiles.eu/) - Video / Audio / Books / NSFW
 * [jpddl](https://jpddl.com/) - Manga / Anime / Music / Drama  
 * [JPLearner](http://www.jplearner.to/) - Video / Manga / Magazines
-* [剧集](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.5267.96C6) - Anime / Drive 
+* [剧集](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_.5267.96C6) - Anime / Drive 
 * [AnimeTime](https://www.animetime.pw/) - Anime 
 * [arearaw](http://arearaw.com/) - Anime / Use Tor 
-* [GameCenter CX Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_gamecenter_cx_archives) - GameCenter CX Archive
+* [GameCenter CX Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_gamecenter_cx_archives) - GameCenter CX Archive
 * [Sukidesuost](https://sukidesuost.info/) - Music / MP3 / FLAC
 * [Hikarinoakariost](https://hikarinoakari.com/) - Music / MP3
 * [jpop80ss](https://jpop80ss2.blogspot.com/)- Music / MP3
@@ -722,7 +722,7 @@
 * [AQ Stream](https://aqstream.com/) - Live TV 
 * [GameCenter CX](https://www.twitch.tv/gemcentacxx) - GameCenter CX Stream
 * [kuukunen](https://touhou.kuukunen.net/) - Music
-* [Live Japanese M3u](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_live_japanse_m3u) - M3u File for VLC
+* [Live Japanese M3u](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_live_japanse_m3u) - M3u File for VLC
 
 ## ▷ Reading 
 
@@ -768,7 +768,7 @@
 * [PDPop](https://www.pdpop.com/) - Video / Games / Books / NSFW 
 * [WeDisk](https://www.wedisk.co.kr/) - Movies / TV 
 * [CinEast](https://cineaste.co.kr/) - Movies 
-* [Korean Drama Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_korean_drama_drive) - Movies / TV
+* [Korean Drama Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_korean_drama_drive) - Movies / TV
 * [Jpapas](https://jpapas.tistory.com/) - Modded APKs 
 * [J-pop Music Download](https://jpop.xyz/) - Music 
 * [4Sashi](https://4sashi.com/) - Music
@@ -961,7 +961,7 @@
 
 * [wolnelektury](https://wolnelektury.pl/) - Books / Fiction 
 * [Audiobook PL](https://audiobookpl.tumblr.com/) - Audiobooks
-* [K1n013f0ur's Pastebin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_k1n013f0ur.27s_pastebin) - Audiobooks
+* [K1n013f0ur's Pastebin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_k1n013f0ur.27s_pastebin) - Audiobooks
 * [doci.pl](https://doci.pl/) - Documents 
 * [docer.pl](https://docer.pl/) - Documents 
 * [wolnelektury](https://wolnelektury.pl/) - Educational
@@ -981,7 +981,7 @@
 * [Universia](https://www.universia.net/) - Portuguese University Search
 * [Flutterando](https://github.com/Flutterando/roadmap) - Flutter Guides 
 * [Uol](https://escolakids.uol.com.br/) - Kids Learning
-* [Portuguese Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_browser_games) 
+* [Portuguese Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_portuguese_browser_games) 
 * [Atari2600](http://www.atari2600.com.br/) - Browser Emulator
 * [Racha Cuca](https://rachacuca.com.br/) - Puzzles & Trivia
 * [cacapalavras](http://www.cacapalavras.com.br/) - Crossword Puzzles
@@ -1207,14 +1207,14 @@
 * [de-comunicacao-para](https://catracalivre.com.br/criatividade/285-livros-de-comunicacao-para-download/) - Communication & Culture Books
 * [Apocalipse2000](http://apocalipse2000.com.br/) - Paranormal / UFO / Scary Short Stories
 * [recantodasletras](https://www.recantodasletras.com.br/) - Text Archive
-* [Portuguese Dictionaries / Thesaurus' / Symbols](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_dictionaries_.2F_thesaurus) 
-* [Portuguese Grammar Tips & Lessons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_grammar_tips_.26amp.3B_lessons) 
-* [Portuguese Bibles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_bibles)
+* [Portuguese Dictionaries / Thesaurus' / Symbols](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_portuguese_dictionaries_.2F_thesaurus) 
+* [Portuguese Grammar Tips & Lessons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_portuguese_grammar_tips_.26amp.3B_lessons) 
+* [Portuguese Bibles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_portuguese_bibles)
 * [NomesBiblicos](https://www.nomesbiblicos.com/) - Biblical Name History
 * [estudos-biblicos](http://estudos-biblicos.net/), [2](https://estudos-biblicos.blogspot.com/) - Bible Studies
 * [apologeta](https://www.apologeta.com.br/) - Bible Commentary
 * [Biblia](https://biblia.com.br/) or [iguga](https://www.iguga.org/) - Biblical Dictionary
-* [Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_recipes)
+* [Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_portuguese_recipes)
 
 ***
 
@@ -1469,7 +1469,7 @@
 * [Anime-ESP](https://anime-esp.com/) - Anime
 * [ddl.ice](https://ddl.ice-blue.workers.dev/0:/) - Anime
 * [DownloadsMega](https://t.me/DownloadsMega) - Video / Audio / Telegram 
-* [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
+* [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_spanish_anime_telegram)
 * [RedVirtual](https://www.redvirtual.bid/) - Courses
 * [Tododescargas](https://tododescargas.net/) - Software 
 * [Artistapirata](https://www.artistapirata.com/) - Software
@@ -1590,7 +1590,7 @@
 
 ## ▷ Downloading
 
-* [EdithSeedbox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_edithseedbox) - Movies / TV / [Login](https://pastebin.com/bQkQpee4) / [Telegram](https://t.me/EdithSeedBox)
+* [EdithSeedbox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_edithseedbox) - Movies / TV / [Login](https://pastebin.com/bQkQpee4) / [Telegram](https://t.me/EdithSeedBox)
 * [Naadub](https://www.naadub.com/) - TMovies
 
 ***
@@ -1872,7 +1872,7 @@
 * [Keyman](https://keyman.com/) - Multi-Language Keyboard Files
 * [Non-English Ebook & Audiobook Sites](https://redd.it/gehkl0)
 * [Zoro.to](https://zoro.to/) - Multiple Language Subtitles / Anime
-* [Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drama_streaming)
+* [Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_drama_streaming)
 * [Einthusan](https://einthusan.tv/intro/) - South Asian Films Archive
 * [Jainism Library of Jain Literature](http://www.atmadharma.com/index.html) - Sacred Texts / Religion / Multi Language
 * [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Software / Games / Books / Comics

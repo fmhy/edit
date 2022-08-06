@@ -292,7 +292,7 @@
 
 # Tools
 
-* **[Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button)** - Quickly Close All Tabs
+* **[Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_panic_button)** - Quickly Close All Tabs
 * [Internet Adult Film Database](https://www.iafd.com/) - Adult Film Database / Reviews
 * [Porn-Vault](https://github.com/porn-vault/porn-vault), [Fapflix2.0](https://github.com/EinAeffchen/Fapflix2.0), [StashApp](https://stashapp.cc/) or [Stash](https://github.com/stashapp/stash) - Porn File Manager
 * [UploadingPorn](https://uploadingporn.com/) - NSFW File Host

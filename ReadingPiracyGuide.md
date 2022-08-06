@@ -15,7 +15,7 @@
 * **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
 * **[Audiobook Bay](http://audiobookbay.fi/)** - Torrents
 * **[Tokybook](https://tokybook.com/)** - Listen Online
-* **[Top 1000 Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_audiobook_megadrive)** - Audiobooks / Drive
+* **[Top 1000 Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_audiobook_megadrive)** - Audiobooks / Drive
 * [HotAudiobooks](https://hotaudiobooks.com) - Listen Online 
 * [Audiobooks For Soul](https://audiobookforsoul.net/) - Listen Online
 * [HDAudiobooks](https://hdaudiobooks.com/) - Listen Online
@@ -47,7 +47,7 @@
 * [Blinkist Free Daily](https://t.me/blinkistfree) - Self-Help Audiobooks
 * [Audiobooks Unleashed](https://audiobooksunleashed.com/) - Audiobook Codes
 * [/r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
-* [Telegram Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audiobook_downloads) - Telegram Audiobook Channels
+* [Telegram Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_telegram_audiobook_downloads) - Telegram Audiobook Channels
 * [audiobook-dl](https://github.com/jo1gi/audiobook-dl) or [Audiobook Downloader](https://github.com/ipriyam26/Audiobook) - Audiobook Download Tool
 * [Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) - Plex Audiobook Metadata Scraper 
 * [OverDrive](https://github.com/chbrown/overdrive) - OverDrive Audiobook Download Script
@@ -60,25 +60,25 @@
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "Books / Comics / Magazines"
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - ctrl+f and type "Books / Comics / Magazines"
 * **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics
-* **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools)
-* **[Library Genesis](http://libgen.rs/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools)
-* **[Z-Library](https://z-lib.org/)** - Books / Comics / Educational / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_tools) / [Removed Books](https://t.me/firstlibrarybot)
+* **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_calibre_tools)
+* **[Library Genesis](http://libgen.rs/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_tools)
+* **[Z-Library](https://z-lib.org/)** - Books / Comics / Educational / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_z-library_tools) / [Removed Books](https://t.me/firstlibrarybot)
 * **[eBookHunter](https://ebook-hunter.org/)** - Books / Comics
 * **[ebook3000](http://www.ebook3000.com/)** - Books / Audiobooks / Comics / Magazines / Newspapers
-* **[Telegram Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - Telegram Book Channels
+* **[Telegram Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_telegram_ebook_download)** - Telegram Book Channels
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - Books
-* [IRC Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - Download Ebooks from IRC
+* [IRC Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_irc_book_sites) - Download Ebooks from IRC
 * IRC Ebook Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/), [2](https://encyclopediadramatica.online/Bookz) - IRC Ebook Guide / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
 * [Project Gutenberg](https://www.gutenberg.org/) - Historical / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html)
 * [Archive.org](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Borrow Only Bypass](https://i.imgur.com/y7Vl9rd.png)
 * [English-Bookys](https://english-bookys.com/) - Books / Magazines / Newspapers / Comics
 * [The Library](https://discord.gg/mSyFJz9) or [The Great E-Library](https://discord.gg/efBxSuz) - Book Discord Servers 
-* [EBOOKS SET 2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ebooks_set_2) - Books / Drive
+* [EBOOKS SET 2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_ebooks_set_2) - Books / Drive
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines 
 * [ebook3000.co](https://www.ebook3000.co/) - Books / Magazines / NSFW
-* [29GB Mega Folder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_29gb_mega_folder) - Books 
-* [just a digital library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_just_a_digital_library) - Books
-* [Nikola](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nikola) - Books
+* [29GB Mega Folder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_29gb_mega_folder) - Books 
+* [just a digital library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_just_a_digital_library) - Books
+* [Nikola](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_nikola) - Books
 * [Books.cat](https://books.cat/) - Books  / Forum / Requests 
 * [Read Any Book](https://www.readanybook.com/) - Books
 * [openlibrary](https://openlibrary.org/) - Books 
@@ -96,7 +96,7 @@
 * [PDFGet](http://pdfget.com/) - Books
 * [LetMeRead](https://www.letmeread.net/) - Books
 * [BooksToLearn](https://www.booktolearn.com) - Books
-* [NovelLibrary](http://novellibrary.com/) - Books / [Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_novel_library_drive) 
+* [NovelLibrary](http://novellibrary.com/) - Books / [Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_novel_library_drive) 
 * [iBookPile](https://ibookpile.net/) - Books
 * [DownLoadBooks](https://downloadbooks.unblockit.dev/) - Books
 * [DPLA](http://dp.la/) - Books
@@ -105,9 +105,9 @@
 * [Ebookee](https://www.ebookee.com/) - Books / Magazines
 * [Epub.us](https://www.epub.us/) - Books
 * [EBooksCart](https://ebookscart.com/) - Books
-* [Index of /Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_index_of_.2Fbooks) - Books
+* [Index of /Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_index_of_.2Fbooks) - Books
 * [Novel12](https://novel12.com/) - Books 
-* [IsIDore](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_isidore) - Books
+* [IsIDore](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_isidore) - Books
 * [Global Grey](https://www.globalgreyebooks.com/index.html) - Books 
 * [Bookyards](https://www.bookyards.com/en/welcome) - Books 
 * [DigiLibraries](https://digilibraries.com/) - Books 
@@ -237,56 +237,56 @@
 
 * **[Sacred Text Archive](https://www.sacred-texts.com/index.htm)** - Religion / Mythology / Folklore / Esoterica
 * **[ARCHIVES](https://discord.gg/occult)** - Occult / Witchcraft / Religion
-* **[/r/Echerdex](https://www.reddit.com/r/Echerdex/)** - Esoterica / [Repository](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_echerdex_repository) / [Discord](https://discord.gg/dS5X3d7ype)
-* **[WiLd's Occult Ebook Sources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wild.27s_occult_ebook_sources)** - Occult / Esoterica
+* **[/r/Echerdex](https://www.reddit.com/r/Echerdex/)** - Esoterica / [Repository](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_echerdex_repository) / [Discord](https://discord.gg/dS5X3d7ype)
+* **[WiLd's Occult Ebook Sources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_wild.27s_occult_ebook_sources)** - Occult / Esoterica
 * [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2) - Occult
 * [GodChecker](https://www.godchecker.com/) - Religion / Mythology
 * [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Alchemy / Astrology / Freemasonry / Gnosticism / Hermetic / Kabbalah / Philosophy
-* [Temple of Solomon the King](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_temple_of_solomon_the_king) - Occult / Gnosticism / Esoterica / Drive 
+* [Temple of Solomon the King](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_temple_of_solomon_the_king) - Occult / Gnosticism / Esoterica / Drive 
 * [Abundant Hope](https://krishnamurti.abundanthope.org/) - Sacred Texts / Religion / Christianity / Buddhism / Alchemy / Hinduism / Islam / Theosophy / Judaism / Taoism
 * [Hermetics](http://www.hermetics.org/library.html) - Ancient Texts / Mythology / Occult
 * [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - Religion / Esoterica / Occult
 * [Summa Theologiae](http://summa-theologiae.org/) - Religion / Sacred Doctrine / Christianity
-* [Esoteric Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_esoteric_library) - Esoterica / Occult 
+* [Esoteric Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_esoteric_library) - Esoterica / Occult 
 * [Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm) - Mythology / Conspiracy / Esoterica
-* [Magic / Esoteric Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks) - Magic / Esoterica
+* [Magic / Esoteric Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_magic_.2F_esoteric_telegram_ebooks) - Magic / Esoterica
 * [Dhamma Talks](https://www.dhammatalks.org/) - Sacred Texts / Religion / Buddhism
 * [Sutta Central](https://suttacentral.net/) - Sacred Texts / Religion / Buddhism 
-* [NTSLibrary](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ntslibrary) - Religion / Philosophy
+* [NTSLibrary](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_ntslibrary) - Religion / Philosophy
 * [Gnostic Society Library](http://www.gnosis.org/library.html) - Gnosticism
-* [Kenorb's New Age library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_kenorb.27s_new_age_library) - Esoterica / Mythology / Gnosticism 
-* [Esoterica](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_esoterica) - Esoterica / Philosophy / Gnosticism 
+* [Kenorb's New Age library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_kenorb.27s_new_age_library) - Esoterica / Mythology / Gnosticism 
+* [Esoterica](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_esoterica) - Esoterica / Philosophy / Gnosticism 
 * [Logoi Library](http://logoilibrary.com/) - Gnosticism / Hermeticism 
-* [766 Occult Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_766_occult_books) - Occult 
-* [Messy occult library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_messy_occult_library) - Occult / Esoterica / Gnosticism 
+* [766 Occult Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_766_occult_books) - Occult 
+* [Messy occult library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_messy_occult_library) - Occult / Esoterica / Gnosticism 
 * [BeyondWeird](https://beyondweird.com/) - Occult / Witchcraft / Esoterica
 * [ObscUrban Legend Wiki](https://obscurban-legend.fandom.com/) - Mythology / Urban Legends
-* [LeftHandPath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_lefthandpath) - Luciferianism 
-* [mr.taco9's library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mr.taco9.27s_library) - Occult / Luciferianism 
+* [LeftHandPath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_lefthandpath) - Luciferianism 
+* [mr.taco9's library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_mr.taco9.27s_library) - Occult / Luciferianism 
 * [The Law of One](https://www.lawofone.info/) - The Law of One Sessions
 * [Esoteric Archive](http://esotericarchives.com/) - Esoterica
 * [Masonic Library](https://masonicshop.com/masonic-library/) - Esoterica / Freemasonry
 * [Golden Dawn](https://golden-dawn.com/nl/library.aspx) - Alchemy / Esoterica
 * [Darkbooks](https://darkbooks.org/collection/top250.html) - Occult
 * [Astrum Argenteum](http://www.astrumargenteum.org/en/library/) - Occult
-* [Occult and Magick Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_occult_and_magick_guides) - Occult 
-* [Azrk's library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_azrk.27s_library) - Occult / Esoterica / Satanism / Religion / Ect.
+* [Occult and Magick Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_occult_and_magick_guides) - Occult 
+* [Azrk's library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_azrk.27s_library) - Occult / Esoterica / Satanism / Religion / Ect.
 * [Rosicrucian Esotericism Lecture](https://wn.rsarchive.org/GA/GA0109/19090603p01.html) - Rosicrucian Esotericism
-* [Spirituality Megadrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_spirituality_megadrive) 
+* [Spirituality Megadrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_spirituality_megadrive) 
 * [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals 
 * [Mythology.net](https://mythology.net/) - Mythology / Religion
 * [Beyond Weird](https://www.beyondweird.com/) - Witchcraft / Conspiracies
-* [Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_archive) - Conspiracy / Occult / Metaphysics
+* [Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_archive) - Conspiracy / Occult / Metaphysics
 * [Dhushara Research](http://www.dhushara.com/index.htm) - Metaphysics / Conspiracies / Psychedelics
 * [chadnet](https://wiki.chadnet.org/) - Conspiracies
-* [CraftStuff](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_craftstuff) - Witchcraft
-* [Witchcraft Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_witchcraft_library) - Witchcraft / Paganism
-* [Public Witchcraft Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_public_witchcraft_library) - Witchcraft / Paganism / Satanism
+* [CraftStuff](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_craftstuff) - Witchcraft
+* [Witchcraft Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_witchcraft_library) - Witchcraft / Paganism
+* [Public Witchcraft Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_public_witchcraft_library) - Witchcraft / Paganism / Satanism
 * [SpellsOfMagic](https://www.spellsofmagic.com/) - Witchcraft / Magic
-* [Alchemy Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_alchemy_drive) - Alchemy
-* [Hellenistic Theism Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_hellenistic_theism)  - Hellenistic Theism
+* [Alchemy Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_alchemy_drive) - Alchemy
+* [Hellenistic Theism Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_hellenistic_theism)  - Hellenistic Theism
 * [The Theosophical Society](https://www.theosociety.org/) - Theosophy 
-* [Grimoire Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_grimoires) - Grimoires
+* [Grimoire Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_grimoires) - Grimoires
 * [Early Christian Writings](http://www.earlychristianwritings.com/index.html) - Christianity / Gnosticism
 * [HolyBooks](https://holybooks.com/) - Religious Texts 
 * [The Dead Sea Scrolls](https://www.deadseascrolls.org.il/) - Dead Sea Scrolls Archive
@@ -322,7 +322,7 @@
 ## ▷ Special Interest
 
 *  **[Wikiquote](https://en.wikiquote.org)**, [Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [ThinkExist](http://thinkexist.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [QuoteGarden](https://www.quotegarden.com/) or [Glimbay](https://www.glimbay.com/) - Quotes
-* **[Cookbooks / Recipes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_cooking)** - Cookbook and Recipes Sites
+* **[Cookbooks / Recipes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25BA_cooking)** - Cookbook and Recipes Sites
 * [FoodTimeLine](https://www.foodtimeline.org/) - Food History
 * [Short Stories](https://short-stories.co/) or [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
 * [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
@@ -335,25 +335,25 @@
 * [HourWolf](https://www.hourwolf.com/sfbooks/) - Fantasy
 * [Doyleand](https://doyleandmacdonald.com/lit.htm) - Fantasy
 * [Children's Library](http://en.childrenslibrary.org/),  [MagicKeys](http://www.magickeys.com/books/), [byGosh](https://bygosh.com),  [Baldwin Library](https://ufdc.ufl.edu/juv) or [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's 
-* [Damon's Collection of Game Artbooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_damon.27s_collection_of_game_artbooks), [BestArtbooks](https://t.me/BESTARTBOOKS) or [Artbooks.gala](https://artbooks.gala100.net/) - Artbooks
+* [Damon's Collection of Game Artbooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_damon.27s_collection_of_game_artbooks), [BestArtbooks](https://t.me/BESTARTBOOKS) or [Artbooks.gala](https://artbooks.gala100.net/) - Artbooks
 * [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U), [PimpMyMind](https://pimpmymind.net/), [selfhelpbooklab](https://t.me/selfhelpbooklab), [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - Self-Help
 * [Optimize](https://www.heroic.us/optimize) - Self-Improvement Notes / Lessons
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
-* [do_k_ument](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_do_k_ument) - Survival, Forging, Smithing, Weapons Training, Field Manuals
+* [do_k_ument](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_do_k_ument) - Survival, Forging, Smithing, Weapons Training, Field Manuals
 * [Survivor Library](http://www.survivorlibrary.com/), [PrepperCollective](https://t.me/PrepperCollective) / [Index](https://t.me/PrepperCollectiveIndex), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - Survival
 * [SurvivalManual](https://ligi.de/) - Offline Survival Guide / [GitHub](https://github.com/ligi/SurvivalManual)
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
-* [QSL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_qsl) - Ham Radio & Antenna Books
+* [QSL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_qsl) - Ham Radio & Antenna Books
 * [How Many Plants](https://howmanyplants.com/) - House Plant Information
 * [Erowid](https://www.erowid.org/) - Psychoactive Information
 * [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - Phychonauts Wiki
 * [HerbologyY](https://t.me/HerbologyY) - Herbology / Telegram
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
-* [UFO Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ufo_books) - UFOs
+* [UFO Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_ufo_books) - UFOs
 * [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
-* [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG / [Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_trove_archives)
+* [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG / [Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_the_trove_archives)
 * [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - TTRPG Rulebooks
-* [Cinema EBooks Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cinema_ebooks_collection) - Cinema Books
+* [Cinema EBooks Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_cinema_ebooks_collection) - Cinema Books
 * [SimplyScripts](https://www.simplyscripts.com/), [MZP](http://www.mzp-tv.co.uk/movie_scripts/) or [SubsLikeScript](https://subslikescript.com/) - Movie / TV Scripts 
 * [The Anarchist Library](http://theanarchistlibrary.org/special/index) - Anarchism
 * [Anarcho-Copy](https://anarcho-copy.org/) - Anarchism
@@ -367,7 +367,7 @@
 * [Third World Traveler](https://thirdworldtraveler.com/) - Human Rights / Conspiracies / Anti-War
 * [China-Dictatorship](https://github.com/cirosantilli/china-dictatorship) - Anti-Chinese Authoritarianism
 * [Rookie Road]( https://www.rookieroad.com/) - Sports Guides
-* [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
+* [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_sheet_music_sites)
 
 ***
 
@@ -380,8 +380,8 @@
 * **[Everything I Know](https://wiki.nikiv.dev/)** - Articles Sorted by Topic
 * **[Math Resource Guide](https://free-math-resources.netlify.app/)** - Curated list of math resources by /u/javacoder19
 * **[Language Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_language_learning)** - Language Learning Tools, Books & Sites
-* [Math and Physics Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_math_and_physics_books) - [Discord](https://discord.gg/v23hTtx)
-* [Library Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_library_drive)
+* [Math and Physics Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_math_and_physics_books) - [Discord](https://discord.gg/v23hTtx)
+* [Library Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_library_drive)
 * [Openstax](https://openstax.org/) 
 * [Online Books Page](https://onlinebooks.library.upenn.edu/) 
 * [The Literature Network](http://www.online-literature.com/) 
@@ -399,9 +399,9 @@
 * [EDUBBookPDF](https://edubookpdf.com/)
 * [OpenED](https://open.bccampus.ca/)
 * [doabooks](https://doabooks.org/)
-* [Readings](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_readings)
-* [StruggleBuddies 4.0](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_strugglebuddies_4.0)
-* [pdfs - books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pdfs_-_books)
+* [Readings](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_readings)
+* [StruggleBuddies 4.0](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_strugglebuddies_4.0)
+* [pdfs - books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_pdfs_-_books)
 * [De Gruyter](https://www.degruyter.com/browse?submittedFilterId=by-type&access_4=open&pageSize=10&sort=datedescending&type_5=book), [2](https://www.degruyter.com/page/2045)
 * [The Online Books Page](https://onlinebooks.library.upenn.edu/search.html)
 * [Springer](https://link.springer.com/search?showAll=false&query=&facet-content-type=%22Book%22)
@@ -414,12 +414,12 @@
 * [Directory of Open Access Books](https://www.doabooks.org/)
 * [BookGoldMine](https://www.bookgoldmine.com/)
 * [Penn Libraries](http://digital.library.upenn.edu/) + [Index](http://digital.library.upenn.edu/books/)
-* [BitDL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bitdl)
-* [114.116.28.83](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_114.116.28.83)
+* [BitDL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_bitdl)
+* [114.116.28.83](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_114.116.28.83)
 * [SuperKuh](http://erewhon.superkuh.com/library/) 
 * [Non_Fic](https://vk.com/non_fic) 
 * [FreePLRDownloads](https://freeplrdownloads.com/)
-* [Uloz Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_uloz_archive) 
+* [Uloz Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_uloz_archive) 
 * [FreeBookCentre](http://www.freebookcentre.net/)
 * [Wikiversity](https://www.wikiversity.org/) - Learning Resources, Guides, Quizzes, Tools & More
 * [OpenEdition](https://www.openedition.org/) - Books / Journals 
@@ -448,7 +448,7 @@
 * [Magazines Scientific](http://scientificmagazines.top/) - Science Magazines
 * [Naked Scientists](https://www.thenakedscientists.com/) - Podcasts / Shows / Science 
 * [Science Forums](https://www.scienceforums.net/) - Forums / Science 
-* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_astronomy_.26amp.3B_physics) - Books / Notes / Astronomy
+* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_astronomy_.26amp.3B_physics) - Books / Notes / Astronomy
 * [RealNotComplex](https://realnotcomplex.com/) - Math / Books
 * [Institute of Mathematics](https://aimath.org/textbooks/) - Math / Books
 * [Engineering Books PDF](https://engineeringbookspdf.com/) - Engineering
@@ -459,31 +459,31 @@
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#free-content) - Artificial Intelligence
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - Electronics 
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - Electronics Schematics & Simulations
-* [159.69.3.96](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_159.69.3.96) - IT Books
+* [159.69.3.96](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_159.69.3.96) - IT Books
 * [PDFiles](https://www.pdfiles.net/) - IT Books
 * [AllITEBooks](https://allitebook.xyz/) - IT Books
-* [IT Book Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_it_books_drive) - IT Books
+* [IT Book Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_it_books_drive) - IT Books
 * [Explanations](https://magcius.github.io/xplain/article/) - Advanced Computer Explanations
 * [The Ergonomic Development of Video Game Controllers](https://www.longdom.org/open-access/the-ergonomic-development-of-video-game-controllers-2165-7556-1000209.pdf) 
 * [Bash Academy](https://guide.bash.academy/) - Bash Shell Guide
-* [Cyber Security & IT](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cyber_security_.26amp.3B_it) - Cyber Security / IT Books & Courses
+* [Cyber Security & IT](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_cyber_security_.26amp.3B_it) - Cyber Security / IT Books & Courses
 * [biorxiv](https://www.biorxiv.org/) - Biology Preprints
 * [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - Philosophy 
 * [APAOnline](https://www.apaonline.org/) - Philosophy 
-* [Philosophy Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_philosophy_drive) - Philosophy 
+* [Philosophy Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_philosophy_drive) - Philosophy 
 * [Access Medicine](https://accessmedicine.mhmedical.com/books.aspx?view=library) - Medical
 * [Am Medicine](https://am-medicine.com/) - Medical
 * [PickPDF](https://pickpdfs.com/) - Medical 
 * [FreeBooks4Doctors](http://freebooks4doctors.com/) - Medical
 * [MedicalStudyZone](https://medicalstudyzone.com/) - Medical 
-* [Medical Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_medical_drive) - Medical
+* [Medical Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_medical_drive) - Medical
 * [Medical_Book_Bot](https://t.me/Medical_Book_Bot) - Medical / Telegram
 * [medrxiv](https://www.medrxiv.org/) - Medicine Preprints
 
 * [AllTradersLibrary](https://t.me/alltradersLibrary) - Market Trading Books
 * [businessbookmall](http://www.businessbookmall.com/), [2](http://www.textbooksfree.org/) - Accounting, Economics & Business 
 * [Brill](https://brill.com/) - International Law Books
-* [Lee B. Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_lee_b._drive) - Books / Black History / Educational
+* [Lee B. Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_lee_b._drive) - Books / Black History / Educational
 * [RationalWiki](https://rationalwiki.org/) - Pseudoscience Refutation Wiki
 * [Snopes](https://www.snopes.com/) - Urban Legends, Folklore, Misinformation & more
 * [Butterick’s Practical Typography](https://practicaltypography.com/) - Typography Guide Book
@@ -492,7 +492,7 @@
 * [Open Educational Resources](https://cdn-infographic.pressidium.com/wp-content/uploads/How-to-Search-for-Open-Educational-Resources-Infographic.jpg) - How to search for Open Educational Resources
 * [HowStuffWorks](https://www.howstuffworks.com/) - Learn How Things Work
 * [masterWiki](https://masterwiki.how/) - MasterClass Classes Republished as wikiHow Articles 
-* [Critical Thinking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_critical_thinking) - Books / Guides / Pictures 
+* [Critical Thinking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_critical_thinking) - Books / Guides / Pictures 
 * [lolmythesis](https://lolmythesis.com/) - Summarized Thesis'
 * [/r/textbook_piracy](https://reddit.com/r/textbook_piracy)
 * [/r/textbookrequest](https://reddit.com/r/textbookrequest)
@@ -508,8 +508,8 @@
 ## ▷ History Sites
 
 * **[Project Gutenberg](https://www.gutenberg.org/)** - Historical Fiction / Nonfiction / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)
-* [/HIS/STORY Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fhis.2Fstory_collection) - Drive 
-* [Historical Audiobooks Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_historical_audiobooks_collection) - Audiobooks / Drive
+* [/HIS/STORY Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_.2Fhis.2Fstory_collection) - Drive 
+* [Historical Audiobooks Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_historical_audiobooks_collection) - Audiobooks / Drive
 * [Media History](https://mediahistoryproject.org/) - Books / Magazines
 * [Duke University Library](https://repository.duke.edu/catalog?utf8=%E2%9C%93&search_scope=https%3A%2F%2Frepository.duke.edu%2Fcatalog&q=&search_field=all_fields) - Historical Books 
 * [corpus scriptorum latinorum](https://www.forumromanum.org/literature/authors_a.html) - Latin Literature
@@ -530,7 +530,7 @@
 * [Archives.gov](https://archives.gov/) - US Historical Documents
 * [Europeana](https://www.europeana.eu/) - European Historical Documents
 * [The National Archives](https://nationalarchives.gov.uk/) - UK Historical Documents
-* [History Newsboys of 1899](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_history_newsboys_of_1899) - Books / Documents
+* [History Newsboys of 1899](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_history_newsboys_of_1899) - Books / Documents
 * [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive 
 * [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts 
 * [Carti](https://enryo.ro/carti/) - Japanese Martial Arts History Books
@@ -582,7 +582,7 @@
 * **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
 * **[Sci-Hub](https://sci-hub.se/)** - Science article viewer
 * **Sci-Hub Tools** - [Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [3](https://sci-hub.tech/), [4](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub)
-* [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - How to bypass article paywalls
+* [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_read_paywalled_articles) - How to bypass article paywalls
 * [Wikisource](https://en.wikisource.org) - Poetry / Text / Documents
 * [Heystacks](https://heystacks.org/) - Public Google Docs
 * [Alex Catalogue](http://www.infomotions.com/alex/) - English / Philosophy Documents  
@@ -791,7 +791,7 @@
 * [UnofficialCBR](https://unofficialcbr.home.blog/) - Downloads
 * [BookGN](http://www.bookgn.com/) - Downloads
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
-* [BookDL Comic & Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_booksdl) - Comics / Manga / Drive
+* [BookDL Comic & Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_booksdl) - Comics / Manga / Drive
 * [ComicBookPlus](https://comicbookplus.com/) - Golden Age Comics
 * [Comic Museum](https://digitalcomicmuseum.com/index.php) - Golden Age Comics
 * [GoComics](https://www.gocomics.com/) - Comics Strips
@@ -823,13 +823,13 @@
 * **[Manga4Life](https://manga4life.com/)**
 * **[MangaReader](https://mangareader.to/)**
 * [/r/MangaPiracy](https://reddit.com/r/MangaPiracy) - Manga Piracy Subreddit / [Discord](https://discord.gg/ZgMtAyxFSU)
-* [Manga Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_download_bots) - Bots that Download Manga
+* [Manga Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_manga_download_bots) - Bots that Download Manga
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - Anime / Manga Download Forum
-* [Madokami Manga Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_madokami)
-* [The Manga Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_manga_library)
-* [Mangas.Heoo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mangas.heoo)
-* [BookDL Comic & Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_booksdl)
-* [pptenshi](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pptenshi)
+* [Madokami Manga Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_madokami)
+* [The Manga Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_the_manga_library)
+* [Mangas.Heoo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_mangas.heoo)
+* [BookDL Comic & Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_booksdl)
+* [pptenshi](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_pptenshi)
 * [bato](https://bato.to/) - [Discord](https://discord.gg/7NBwcBsDph)
 * [MangaHere](http://www.mangahere.cc)
 * [MangaNelo](https://manganelo.com/) or [Mangakakalot](https://mangakakalot.com/)
@@ -913,7 +913,7 @@
 * [NineAnime](https://www.nineanime.com/category/)
 * [WuxiaWorld](https://wuxiaworld.site/) - Manga / Novels 
 * [MANGAen](https://t.me/MANGAen) - Manga / Telegram 
-* [Manhua / Manhwa Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manhua_.2F_manhwa_manga) - Manhua & Manhwa Manga Sites
+* [Manhua / Manhwa Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_manhua_.2F_manhwa_manga) - Manhua & Manhwa Manga Sites
 * [Dynasty Scans](https://dynasty-scans.com/) - Yuri
 * [BoysLove](https://boyslove.me/) - Yaoi 
 * [WhereCanIReadManga?](https://wherecanireadmanga.com/) - Legal
@@ -1021,8 +1021,8 @@
 * [Calameo](https://calameo.com/) 
 * [MagazinesBB](https://magazinesbb.com/)
 * [PDF Magazines Archive](https://pdf-magazines-archive.com/) 
-* [Magazine Rack](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_magazine_rack)
-* [Computer Magazines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_computer_magazines)
+* [Magazine Rack](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_magazine_rack)
+* [Computer Magazines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_computer_magazines)
 * [Aeon](https://aeon.co/) 
 * [Magzter](https://www.magzter.com/top-free-magazines)
 * [FlipHTML5](https://fliphtml5.com/exploring)
@@ -1053,13 +1053,13 @@
 * [Newspapers com](https://newspapers.com/)
 * [ThoughtCo](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
 * [Library of Congress Newspapers](https://www.loc.gov/rr/news/oltitles.html)
-* [Archive.org Newspapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_archive.org_newspapers)
+* [Archive.org Newspapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_archive.org_newspapers)
 * [World-Newspapers](https://world-newspapers.com/) or [Paperboy](https://www.thepaperboy.com/) - Online Newspaper Index
 * [LA Times](https://latimes.newspapers.com/)
 * [NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - NY Times Top Story App
 * [Europeana Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers) - European Historical Newspapers
 * [abc-dl](https://github.com/king-millez/abc-dl) - Australian Broadcasting Corporation News Archive
-* [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - News Site Indexes 
+* [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_worldwide_news_sites_index) - News Site Indexes 
 * [Newspaper Map](https://newspapermap.com/) - Find / Translate Worldwide Newspapers
 
 ***
@@ -1140,7 +1140,7 @@
 # ► Ebook Readers
 
 * **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** - List of Ebook Readers
-* **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading) Readers** - Mobile Browser Readers
+* **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_reading) Readers** - Mobile Browser Readers
 * **[Google Play Books](https://play.google.com/books)** - Store Pirated Books / Get Meta Data Automatically
 * **[Foxit](https://www.foxitsoftware.com/pdf-reader/)** - PDF Reader / PC / Android / iOS / Linux / Mac
 * **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - Ebook Reader / Android
@@ -1171,7 +1171,7 @@
 * [Open Media Library](https://openmedialibrary.com/) - Online Book Manager
 * [Raven Reader](https://ravenreader.app/) - Article Reader / Manager 
 * [Cubari](https://cubari.moe/) - Image Proxy / Reader
-* [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - Read Books in Browser
+* [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_browser_ebook_readers) - Read Books in Browser
 * [dotepub](https://dotepub.com/) - Convert Webpages to EBooks
 * [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
 * [Ebook Sender](https://telegram.me/to_kindle_bot), [SendEpubToKindle](https://www.sendepubtokindle.com/), [Kobo ](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - Send Ebooks to Kindle
@@ -1190,7 +1190,7 @@
 * [Knock](https://github.com/BentonEdmondson/knock) - Convert ACSM files to DRM-Free EPUB files
 * [txtpaper](https://txtpaper.com/) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to Ebook Converter
 * [CrowBook](https://github.com/lise-henry/crowbook) - Markdown to EPUB Converter
-* [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - Generate Text & Article Summaries
+* [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_summary_generator) - Generate Text & Article Summaries
 * [FiveFilters](https://www.fivefilters.org/) - Multiple Article Accessibility Tools
 * [Ebook-Converter](https://ebook-converter.com/) - Ebook Converter
 * [Bookfeed.io](https://cran.r-project.org/) - Book RSS Feed
