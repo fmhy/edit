@@ -20,11 +20,11 @@
 ## ▷ Dedicated Hosts
 
 * **[Soap2Day](https://soapgate.org/)** - Movies / TV
-* **[Oligopoly](https://olgply.com/)** - Movies / TV
 * **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
-* **[PrivateHD](https://www.privatehd.xyz/)** - Movies / TV
+* **[Oligopoly](https://olgply.com/)** - Movies / TV
 * **[Ask4movies](https://ask4movie.io/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
 * **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
+* **[PrivateHD](https://www.privatehd.xyz/)** - Movies / TV
 * [PtFlixMovies](https://ptflixmovies.xyz/) - Movies / TV / Anime
 * [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [C1NE](https://c1ne.co/) - Movies / TV 
