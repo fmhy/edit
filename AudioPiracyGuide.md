@@ -13,8 +13,8 @@
 ## ▷ Streaming Apps
 
 * **[Spotify Client](https://www.spotify.com/us/download/)**, [SpotifyD](https://github.com/Spotifyd/spotifyd), [Lofi Rocks](https://www.lofi.rocks/), [ncspot](https://github.com/hrkfdn/ncspot), [Strix](https://arlo.site/strixmusic/install/) or [SpoTube](https://github.com/KRTirtho/spotube) - Streaming
-* **[Spotify Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Spotify Tools, Adblockers, Customization & More
-* [YouTube Music Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_music_players) - Streaming
+* **[Spotify Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_spotify_tools)** - Spotify Tools, Adblockers, Customization & More
+* [YouTube Music Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_youtube_music_players) - Streaming
 * [FunkWhale](https://funkwhale.audio/) - Streaming
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
@@ -58,7 +58,7 @@
 * [DMO](https://dance-music.org/) - Electronic
 * [Vapor Archive](https://vaporarchive.neocities.org/) - Vaporwave
 * [hypem](https://hypem.com/popular) - Rising
-* [Daytrotter](https://www.pastemagazine.com/daytrotter#!/) - Rising
+* [Daytrotter](https://www.pastemagazine.com/daytrotter/#!/) - Rising
 * [datpiff](https://www.datpiff.com/) - Mixtapes
 * [pumpyouup](http://www.pumpyouup.com/) - Indie Dubstep
 * [musopen](https://musopen.org/music/) - Classical
@@ -74,7 +74,7 @@
 * [ListenToThis](https://listentothis.nanoshinono.me/) - Random Songs
 * [The Nostalgia Machine](http://thenostalgiamachine.com/) - Random Songs by Year 
 * [Map of Metal](http://mapofmetal.com/) - Interactive Map of Metal History 
-* [The Cultural Borders of Songs](https://pudding.cool/2018/06/music-map/?date=202102) - #1 Songs from 3,000 Countries 
+* [The Cultural Borders of Songs](https://pudding.cool/2018/06/music-map/?date=202102) - /#1 Songs from 3,000 Countries 
 * [LostMyspace](http://lostmyspace.com/) - Lost Myspace Songs 
 * [Unreleased Goa Project](https://goatrance.xyz/) - Rare / Unreleased Trance
 * [Wacht](https://wacht.tv/) - Music Video Upvoting
@@ -87,7 +87,7 @@
 * [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medeival Music 
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - East African Recordings
-* [Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music) - Free Music for Projects
+* [Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_royalty_free_music) - Free Music for Projects
 * [The Eternal Jukebox](https://eternalbox.dev/) - Never-Ending Versions of Songs
 * [Battle of the Bits](https://battleofthebits.org/) - User-Made Music Competitions
 * [Openwhyd](https://openwhyd.org/) - Music Sharing Community / [Chrome](https://chrome.google.com/webstore/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)
@@ -97,9 +97,9 @@
 
 ## ▷ Podcasts / Radio
 
-* **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcasts & Radio
+* **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcasts & Radio
 * **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/timdorr/spotifeed)
-* [Radio Streaming Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_radio_streaming_sites) - Radio Sites
+* [Radio Streaming Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_radio_streaming_sites) - Radio Sites
 * [Podchaser](https://podchaser.com/) or [Listen Notes](https://www.listennotes.com/) - Podcast Databases / Trackers
 * [iHeartRadio](https://www.iheart.com/) - Podcasts / Radio
 * [Mixcloud](https://www.mixcloud.com/) - Podcasts / Radio
@@ -154,7 +154,7 @@
 * [Audioburst](https://search.audioburst.com/) - Podcast Clip Search
 * [castero](https://github.com/xgi/castero) - TUI Terminal Podcast Client
 * [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) or [GPodder](http://gpodder.org/) - Podcast Client
-* [Spotify Podcast Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders) - Download Podcasts from Spotify
+* [Spotify Podcast Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_spotify_downloaders) - Download Podcasts from Spotify
 * [ListenLater](https://www.listenlater.fm/) - Turn Articles into Podcasts 
 * [ListenBox](https://listenbox.app/) - Turn YouTube Video into Podcasts
 * [Anchor](https://anchor.fm/) - Podcast Creator
@@ -167,11 +167,11 @@
 
 * **[Chillhop](https://chillhop.com/)** - Lo-fi Radio
 * **[lofi.cafe](https://www.lofi.cafe/)** - Lo-Fi Radio
-* **[Ambient Rain Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ambient_rain_sounds)** - Ambient Rain
+* **[Ambient Rain Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_ambient_rain_sounds)** - Ambient Rain
 * **[LifeAt](https://lifeat.io/)** - Virtual Study / Work Spaces
 * **[Coding Cat](https://hostrider.com/)** - Nyan Cat's Cousin / Lo-Fi Radio
 * **[HaloMe.nu](https://halome.nu/)** - Halo Menu Screens
-* **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_relaxation) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_relaxation)** - Ambient Mobile Apps 
+* **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_relaxation) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_ios_relaxation)** - Ambient Mobile Apps 
 * [Ambicular](https://ambicular.com/) - Lo-Fi Radio
 * [DevTunes FM](https://radio.madza.dev/) - Lo-Fi Radio
 * [Lofi Music](https://lofimusic.app/) - Lo-Fi Radio
@@ -230,10 +230,10 @@
 
 * **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)**
 * **[GamesDrive / SlavDoge](https://slavart.divolt.xyz/)** - Deezer, Spotify, Apple Music, YouTube, Qobuz, TIDAL & SoundCloud Download Bot / [Site](https://slavart.gamesdrive.net/), [2](https://gamesdrive.net/) / [Upload Backup](https://s3.gamesdrive.net/)
-* **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Download from Spotify
-* **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
+* **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_spotify_downloaders)** - Download from Spotify
+* **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_youtube_to_mp3)** - Download from YouTube
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)
-* **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - Telegram Audio Download Channels
+* **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_telegram_audio_download)** - Telegram Audio Download Channels
 * [/r/xTrill](https://reddit.com/r/xTrill) - MP3 / FLAC / [Discord Bot](https://discord.gg/xtrill) / [Backup](https://reddit.com/r/xTrillBackup)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer, TIDAL, Qobuz, YouTube, and SoundCloud Downloader / [Colab](https://github.com/taskylizard/rip)
 * [DeezerToDrive](https://t.me/deezertodrivebot) - Deezer, Qobuz, TIDAL, Napster & Spotify to GDrive Bot
@@ -243,12 +243,12 @@
 * [OFFMP3](https://offmp3.com/), [Anything2MP3](https://anything2mp3.cc/) or [conversormp3](https://conversormp3.com.br/) - Video to MP3 Converter
 * [SMLoadr](https://t.me/SMLoadrNews) - FLAC / MP3 / [Desktop GUI](https://github.com/thelucifermorningstar/SMLoadr-AUX/releases)
 * [RedSea](https://github.com/Dniel97/RedSea) - Tidal Music Downloader 
-* [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - FLAC / MP3
-* [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots)
+* [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_telegram_deezer_bots) - FLAC / MP3
+* [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_telegram_audio_download_bots)
 * [MP3Jam](https://www.mp3jam.org/) - MP3
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - Music Download Tool 
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Free BandCamp Downloader](https://github.com/7x11x13/free-bandcamp-downloader), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloader
-* [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - Soundcloud Download Tools
+* [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_soundcloud_downloaders) - Soundcloud Download Tools
 * [KeepTube](https://jaymoulin.me/me/keeptune/) - Soundcloud & Bandcamp Downloader
 * [GetFVid](https://www.getfvid.com/) - Facebook Video / Audio Downloader 
 * [Musescore-downloader](https://github.com/Xmader/musescore-downloader) - Musescore Downloader
@@ -268,7 +268,7 @@
 * **[Free MP3 Download](https://free-mp3-download.net/)** - Search / MP3 / FLAC
 * **[/r/RIPREQUESTS](https://discord.com/invite/SH7DUfVz46)** - FLAC
 * **[Mudome](https://mudome.org/)** - MP3 / FLAC
-* **[Damon's Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_damon.27s_game_soundtracks)**, [Squid-Board](https://www.squid-board.ru/) / [2](https://www.squid-board.org/), [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://codeberg.org/sun/VGMLoader) / [2](https://github.com/obskyr/khinsider), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - Video Game Soundtracks
+* **[Damon's Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_damon.27s_game_soundtracks)**, [Squid-Board](https://www.squid-board.ru/) / [2](https://www.squid-board.org/), [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://codeberg.org/sun/VGMLoader) / [2](https://github.com/obskyr/khinsider), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - Video Game Soundtracks
 * [The Last Disaster](https://thelastdisaster.vip/), [2](https://thelastdisaster.org/) - MP3 / FLAC
 * [SongsLover](https://songslover.vip/) - MP3
 * [VKMusic](https://denr01.com/vkm/) - MP3 / User: anon / pass: 12345
@@ -290,7 +290,7 @@
 * [24NaiJamMuzic](https://www10.24naijamuzic.com/) - MP3
 * [musify](https://musify.club/) - MP3
 * [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - MP3
-* [Music for the masses !](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_music_for_the_masses_.21) - MP3
+* [Music for the masses !](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_music_for_the_masses_.21) - MP3
 * [MP4Juice](https://mp4juice.cc/) - MP3
 * [Cliggo](https://music.cliggo.com/) - MP3
 * [RabbitMP3](https://www.rabbitmp3.com/) - MP3
@@ -300,11 +300,11 @@
 * [Mixupload](https://mixupload.com/) - MP3
 * [Slider](https://slider.kz/) - MP3
 * [My Free MP3](https://www.my-free-mp3.cc/) - MP3
-* [geedryve](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_geedryve) - MP3 
-* [90.146.184.46](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_90.146.184.46) - MP3
-* [212.159.121.149:85](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_212.159.121.149.3A85) - MP3
-* [Rhapsody](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rhapsody)- MP3
-* [Tyler](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_tyler) - MP3
+* [geedryve](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_geedryve) - MP3 
+* [90.146.184.46](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_90.146.184.46) - MP3
+* [212.159.121.149:85](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_212.159.121.149.3A85) - MP3
+* [Rhapsody](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_rhapsody)- MP3
+* [Tyler](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_tyler) - MP3
 * [24naijamuzic](https://www11.24naijamuzic.com/album/) - MP3
 * [FLAC Attack](https://flacattack.net/) - FLAC
 * [Lossless-Music](https://lossless-music.org/) - FLAC
@@ -328,7 +328,7 @@
 * [GetRockMusic](https://getrockmusic.net/) - MP3 / FLAC
 * [Core Radio](https://coreradio.ru/) - MP3 / FLAC 
 * [AlterPortal](https://alterportal.net/) - MP3 / FLAC
-* [Moe:81](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_moe.3A81) - MP3 / FLAC
+* [Moe:81](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_moe.3A81) - MP3 / FLAC
 * [Plastinka](http://plastinka.org/) - MP3 / FLAC
 * [Exystence](http://exystence.net/) - MP3 / FLAC  
 * [FindFlac](http://findflac.com/) - FLAC / MP3 / MP4 
@@ -384,7 +384,7 @@
 * [Kpop Stan](https://kpopstan.com/) - KPop / MP3
 * [MikuDB](http://mikudb.moe/) - Vocaloid / MP3
 * [Все Саундтреки](http://xn--80adhccsnv2afbpk.xn--p1ai/), [DS Soundtrack](https://dsoundtrack.com/), [Soundkino](https://soundkino.biz/), [Download-Soundtracks](http://download-soundtracks.com/), [3ost](https://3ost.ru/), [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) or [tanikal](https://www.tanikal.com/) - Soundtracks 
-* [GTA Radio Stations Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_gta_radio_stations) - GTA Radio Stations
+* [GTA Radio Stations Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_gta_radio_stations) - GTA Radio Stations
 * [SittingOnClouds](https://www.sittingonclouds.net/) / [Discord](https://discord.com/invite/x23SFbE) - Anime / Game Soundtracks
 * [AniPlaylist](https://aniplaylist.com/), [OSAnime](https://osanime.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - Anime Soundtracks 
 * [OtakuOst](https://otakuost.net/) - Anime Soundtracks & Japanese Music 
@@ -393,7 +393,7 @@
 * [Keygen Music](http://www.keygenmusic.org/) - Keygen Music Archive
 * [BitMidi](https://bitmidi.com/), [Geocities Midi's](https://archive.org/details/archiveteam-geocities-midi-collection-2009) or [VGMusic](http://www.vgmusic.com/)- MIDI Files 
 * [QueenMusicHall](http://www.queenmusichall.cz/) - Queen MIDIs, Audio, Photos
-* [BurntScarr](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_burntscarr) or [/r/MusicStems](https://www.reddit.com/r/MusicStems/) - STEMS
+* [BurntScarr](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_burntscarr) or [/r/MusicStems](https://www.reddit.com/r/MusicStems/) - STEMS
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games 
 * [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [Incompetech](https://incompetech.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/), [free stock music](https://www.free-stock-music.com/) or [Fugue](https://icons8.com/music) - Royalty Free Music 
 
@@ -401,12 +401,12 @@
 
 # ► Audio Torrenting
 
-* **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
+* **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)** - Get a VPN before torrenting
 * **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Multi-Site Search
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - ctrl+f and type "audio"
 * **[Redacted](https://interviewfor.red/)** - MP3 / FLAC
 * **[Orpheus](https://orpheus.network/)** - MP3 / FLAC / [Interviews](https://interview.orpheus.network/)
-* **[Redtopia](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_redtopia)** - Redtopia Repository / FLAC
+* **[Redtopia](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_redtopia)** - Redtopia Repository / FLAC
 * **[Solid Torrents](https://solidtorrents.net/)** - MP3 / FLAC
 * **[Lidarr](https://github.com/Lidarr/Lidarr)** or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
 * [Flactor](https://flactor.ru/) - FLAC
@@ -421,11 +421,11 @@
 
 *** 
 
-# ► [Android Audio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_audio)
+# ► [Android Audio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_audio)
 
 ***
 
-# ► [iOS Audio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_audio)
+# ► [iOS Audio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_audio)
 
 ***
 
@@ -485,4 +485,4 @@
 
 ***
 
-# ► [Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_audio_tools)
+# ► [Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc/#wiki_.25B7_audio_tools)

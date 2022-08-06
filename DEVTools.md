@@ -14,7 +14,7 @@
 * **[StackOverflow](https://stackoverflow.com/)**, [DecodingDevOps](https://www.decodingdevops.com/) or [Stack Roboflow](https://stackroboflow.com/) - Developer Q&A
 * **[The Odin Project](https://www.theodinproject.com/)** - Web Dev Tutorials / Courses
 * **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Courses / Infinite trial by clearing cookies & making new account
-* **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive [Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_freecodechamp_archive) / [GitHub](https://github.com/freeCodeCamp/freeCodeCamp)
+* **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive [Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_freecodechamp_archive) / [GitHub](https://github.com/freeCodeCamp/freeCodeCamp)
 * **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books 
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - Git Learning Game
 * [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Github Cheat Sheet
@@ -24,7 +24,7 @@
 * [RedHat](https://developers.redhat.com/) - Development Tutorials
 * [Roadmap](https://roadmap.sh/) - Developer Roadmaps / Guides 
 * [Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)
-* [IT Course Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_it_courses) - IT Courses
+* [IT Course Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_it_courses) - IT Courses
 * [Python Discord](https://pythondiscord.com/resources/) or [Python Reference](https://github.com/rasbt/python_reference) - Python Learning Resources
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - Python Guide
 * [CodingBat](https://codingbat.com/) or [PyQuickie](https://chrome.google.com/webstore/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - Python / Java Practice
@@ -36,7 +36,7 @@
 * [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - Python Lessons
 * [Real Python](https://realpython.com/) - Python Tutorials
 * [FutureCoder](https://futurecoder.io/), [complete python developer](https://t.me/Udemy_Python_Developer), [Python Full Course](https://youtu.be/XKHEtdqhLK8) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - Python Course
-* [Modern Python 3 Bootcamp Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modern_python_3_bootcamp_courses)
+* [Modern Python 3 Bootcamp Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_modern_python_3_bootcamp_courses)
 * [Tea Press](https://greenteapress.com/wp) - Free Python Learning Books Green
 * [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheet
 * [VSCode.one](https://vscode.one/) or [VSCodeCanDoThat](https://www.vscodecandothat.com/) - VS Code Tutorials
@@ -86,7 +86,7 @@
 * [w3schools](https://www.w3schools.com/) - Programing Tutorials
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - Programming Courses
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - Programming Courses
-* [Programming Courses Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_programming_course_drives) - Programming Courses
+* [Programming Courses Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_programming_course_drives) - Programming Courses
 * [FreeCourses](https://freecourses.github.io/) - Programming Courses
 * [HelloWorldCollection](http://helloworldcollection.de/) - Hello World Programming Collection
 * [VisualGo](https://visualgo.net/) - Data Structures & Algorithm Animations
@@ -152,13 +152,13 @@
 * [LandChad](https://landchad.net/) or [learn.sadgrl.online](https://learn.sadgrl.online/) - Site Development Guides
 * [Full Stack Solana Development Guide](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - [Examples](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)
 * [The New Boston](https://thenewboston.com/) - Site Development Courses / [Discord](https://discord.com/invite/thenewboston)
-* [Web Dev Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_web_dev_courses) - Web Development Courses
+* [Web Dev Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_web_dev_courses) - Web Development Courses
 * [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) or [Interneting is Hard](https://www.internetingishard.com/) - Learn Web Development
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Web Dev Roadmap
 * [Agernic](https://www.agernic.com/) - Web Design Courses
 * [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) - Interactive Web Design Tutorial
 * [backendlore](https://github.com/fpereiro/backendlore) - Backend Coding Guide
-* [UI & Web Design using Adobe Illustrator C](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ui_.26amp.3B_web_design_using_adobe_illustrator_c) - UI & Webdesign Course
+* [UI & Web Design using Adobe Illustrator C](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_ui_.26amp.3B_web_design_using_adobe_illustrator_c) - UI & Webdesign Course
 * [Learn UI Design](https://learnui.design/) - UI Design Course
 * [UXTools](https://uxtools.co/) or [UXMovement](https://uxmovement.com/) - Learn UX Design
 * [SitePoint](https://www.sitepoint.com/) - UX Design Courses & Books
@@ -171,12 +171,12 @@
 * [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git Branching Guide
 * [Awesome Microservices DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - .Net Microservice Guides
 * [Flutter Tips and Tricks](https://github.com/vandadnp/flutter-tips-and-tricks) - Flutter Tips and Tricks
-* [Learn SQL](https://sqlbolt.com/) or [Top Database Bundle](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_top_database_bundle) - SQL Lessons
+* [Learn SQL](https://sqlbolt.com/) or [Top Database Bundle](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_top_database_bundle) - SQL Lessons
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - PostgreSQL Tutorial
 * [MySQL Tutorial](https://www.mysqltutorial.org/) - MySQL Tutorial
 * [Hasura](https://hasura.io/learn/) - GraphQL Courses
 * [SQL Cheat Sheet](https://i.imgur.com/tHo378Z.jpg)
-* [MongoDB Beginners Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mongodb_beginners_guide) - MongoDB Tutorials
+* [MongoDB Beginners Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_mongodb_beginners_guide) - MongoDB Tutorials
 * [systemd-by-example](https://systemd-by-example.com/) - Learn Systemd Interactively
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
@@ -193,10 +193,10 @@
 
 # ► Developer Tools
 
-* **[Developer Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_developer_tools)** - Dev Tool Sites
+* **[Developer Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_developer_tools)** - Dev Tool Sites
 * **[List.community](https://list.community/)** - Programming / Development GitHub Lists 
 * [DevToys](https://github.com/ObuchiYuki/DevToysMac) or [DevUtils](https://devutils.app/) - Mac Dev Tools
-* [Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources) - Design Resource Sites
+* [Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_design_resources) - Design Resource Sites
 * [Image Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools) - Image & Graphic Design Tools
 * [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - Brand Design Tools
 * [ReverseEagle](https://forge.tedomum.net/groups/ReverseEagle/-/archived), [2](https://web.archive.org/web/20210116205638/https://developers.reverseeagle.org/) - Privacy Focused Developer Software
@@ -217,7 +217,7 @@
 * [sli.dev](https://sli.dev/) - Markdown to Slideshow
 * [Volume](https://www.volumestories.com/) - Create Immersive Reading Experiences
 * [daily.dev](https://daily.dev/) - Replace New Tab Page with Developer Articles 
-* [Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites) - Download Icons for Projects
+* [Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_icon_download_sites) - Download Icons for Projects
 * [The Favicon Finder](https://besticon.herokuapp.com/) - Find Favicons on Sites
 * [Favicon Maker](https://formito.com/tools/favicon) or [react favicon](https://react-favicon.com/) - Create Favicons
 * [Laws of UX](https://lawsofux.com/) - Maxims / Principles for UI Designers 
@@ -307,15 +307,15 @@
 
 ## ▷ Site Development 
 
-* **[Website Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_creators)** - Design & Create Websites
-* **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
+* **[Website Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_website_creators)** - Design & Create Websites
+* **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_free_webhosting_sites)**
 * [ZeroNet](https://zeronet.io/) or [Federalist](https://github.com/publiusfederalist/federalist) - Uncensorable Sites / [/r/Zeronet](https://www.reddit.com/r/zeronet/)
 * [Freenet Project](https://freenetproject.org/) - Browse / Publish Freenet Sites
 * [Locutus](https://github.com/freenet/locutus) - Create Decentralized Site Apps
 * [Screenshot to Code](https://github.com/emilwallner/Screenshot-to-code) - Turn Mockups into Static Sites
 * [GoodBadISPs ](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
 * [Emanote](https://emanote.srid.ca/) - Create Sites from Plain-Text Notes / [GitHub](https://github.com/srid/emanote)
-* [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
+* [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_free_dns_servers)
 * [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - DNS Benchmark
 * [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
@@ -326,7 +326,7 @@
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - Web Developer Multireddit
 * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - Search & Analytics Engine
-* [Search Engine Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_seo_tools) - SEO Tools
+* [Search Engine Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_seo_tools) - SEO Tools
 * [SerPreview](https://serpreviewtool.com/) - Site Search Results Preview
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) - Web Debugging Proxy App
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
@@ -363,12 +363,12 @@
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
 * [Spiderfoot](https://www.spiderfoot.net/) - Automate OSINT
 * [Easegress](https://github.com/megaease/easegress) - Traffic Orchestration System
-* [Site Analytics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_analytics) - Traffic Stats & Info
+* [Site Analytics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_site_analytics) - Traffic Stats & Info
 * [HITS](https://hits.seeyoufarm.com/) - Website Traffic Badges
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) or [MetaTags](https://metatags.io/) - Meta Tag Generator
-* [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools) 
+* [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_ip_.2F_network_tools) 
 * [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - Username Availability Check
-* [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/) or [Domainr](https://domainr.com/) - Domain Availability Check 
+* [Pyfunceble](https://pyfunceble.github.io//#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/) or [Domainr](https://domainr.com/) - Domain Availability Check 
 * [TinyDomain](https://tinydomain.net/) - Short Domain Suggestions
 * [WorthBuck](https://worthbuck.com/) - Domain Price Estimations
 * [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites 
@@ -415,7 +415,7 @@
 * [Daft Page](https://daftpage.com/) - Landing Page Creator
 * [LandingPage](https://landingpage.fyi/index.html) - Landing Page Tool Index
 * [Uisual](https://uisual.com/), [SaaS Pages](https://saaspages.xyz/), [SaaS Landing Page](https://saaslandingpage.com/) or [lapa](https://www.lapa.ninja/) - Landing Page Templates / Ideas
-* [Canva](https://www.canva.com/), [ThemeKings](http://themekings.net/) or [PikBest](https://pikbest.com/) - Design Templates / [Premium Apk](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_canva_premium) 
+* [Canva](https://www.canva.com/), [ThemeKings](http://themekings.net/) or [PikBest](https://pikbest.com/) - Design Templates / [Premium Apk](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_canva_premium) 
 * [Zeplin](https://zeplin.io/) - Design Templates / Editor
 * [Codebases](https://github.com/reacttips-dev/codebases) - ReactJS Project Source Codes
 * [vite](https://vitejs.dev/) - Frontend Development Tool / [GitHub](https://github.com/vitejs/vite)
@@ -463,7 +463,7 @@
 * [Medusa](https://github.com/medusajs/medusa) - Digital Commerce Development Tool
 * [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)- Penetration Testing Resources
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
-* [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - Archive, Scrape & Crawl Sites 
+* [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_web_scraping_.2F_archiving_tools) - Archive, Scrape & Crawl Sites 
 * [Clone Zone](http://clonezone.link/) - Tweak / Clone Webpages 
 * [Appwrite](https://appwrite.io/) - Open-Source Backend Server / [GitHub](https://github.com/appwrite/appwrite)
 * [squid](http://www.squid-cache.org/) - Caching Proxy / [MSI Installer](http://squid.diladele.com/) / [Site Blocking](http://www.thedumbterminal.co.uk/posts/2005/10/blocking_access_to_sites_when_using_squid.html) 
@@ -543,10 +543,10 @@ Automated Incident Response and Forensics Framework
 * [WPSQLite](https://github.com/hasinhayder/wpsqlite) - Wordpress Site Deployment Tool
 * [Nulled Scripts](https://www.nullscripts.net/), [NullJungle](https://nulljungle.com/), [Null PHP Script](https://nullphpscript.com/) or [WPFIC](https://www.wpfic.com/) - Nulled Scripts
 * [faustjs](https://github.com/wpengine/faustjs) - Wordpress Framework
-* [Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes) - Themes for Wordpress
+* [Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_wordpress_themes) - Themes for Wordpress
 * [Timber](https://upstatement.com/timber/) - WordPress Theme Creator / [GitHub](https://github.com/timber/timber)
-* [Wordpress Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wordpress_plugins) or [CodeCanyon](https://codecanyon.download/) - Wordpress Plugins & Scripts
-* [Elementor Kit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_elementor_kit) - 1400+ Elementor Premium Templates
+* [Wordpress Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_wordpress_plugins) or [CodeCanyon](https://codecanyon.download/) - Wordpress Plugins & Scripts
+* [Elementor Kit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64/#wiki_elementor_kit) - 1400+ Elementor Premium Templates
 * [KokoAnalytics](https://www.kokoanalytics.com/) - Wordpress Analytics
 * [vichan](https://github.com/vichan-devel/vichan) - Imageboard Hosting
 * [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
@@ -676,12 +676,12 @@ Automated Incident Response and Forensics Framework
 
 * [Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources), [Magic Tools](https://github.com/ellisonleao/magictools), [LibGDX](https://github.com/rafaskb/awesome-libgdx) or [Awesome Gamedev](https://github.com/mbrukman/awesome-gamedev) - Game Development Resources
 * [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - Basic Game Development Concepts
-* [Free Game Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_engines)
+* [Free Game Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_game_engines)
 * [Playerio](https://playerio.com/) - Online Game Engine
 * [RPG Playground](https://rpgplayground.com/) - Simple RPG Creator
 * [Game-Editor](http://game-editor.com/Main_Page), [microStudio](https://microstudio.itch.io/microstudio) or [BuildBox](http://buildbox.com/) - Game Creators
 * [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://pennie.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop), [Bitsy](http://ledoux.io/bitsy/editor.html), [LIKO 12](https://github.com/LIKO-12/LIKO-12) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - 2D Game Creators
-* [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models) - 3D Models / Tools
+* [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/#wiki_.25B7_3d_models) - 3D Models / Tools
 * [Unreal Engine](https://www.unrealengine.com/) - 3D Creation Tool / [Python](https://github.com/20tab/UnrealEnginePython)
 * [Tommti Systems](http://www.tommti-systems.de/go.html?http://www.tommti-systems.de/main-Dateien/files.html) - 3D Benchmark Tools
 * [Serpent.ai](http://serpent.ai/) - Game Agent Framework
@@ -730,7 +730,7 @@ Automated Incident Response and Forensics Framework
 * [VEEDI](https://www.veedi.com/) - Create Game Walkthrough Videos
 * [CraftPix](https://craftpix.net/freebies/), [Kenney](https://www.kenney.nl/), [/r/GameAssets](https://www.reddit.com/r/gameassets/), [UnityAssets4Free](https://unityassets4free.com/), [UnityFreaks](https://www.unityfreaks.com/) or [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free) - Game Development Assets
 * [xonotic](https://github.com/xonotic), [Vanguard](https://github.com/VanguardDev/Vanguard) / [2](https://project-vanguard.netlify.app/index.html) or [Warsow](https://github.com/Warsow) - FPS Game Assets
-* [Pixel Art Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_pixel_art) - Tools to Create Sprites & Pixel Art
+* [Pixel Art Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/#wiki_.25B7_pixel_art) - Tools to Create Sprites & Pixel Art
 * [awesome-one-person-games](https://github.com/Yonaba/awesome-one-person-games) - Single Dev Game Examples
 * [Basic Computer Games](https://github.com/coding-horror/basic-computer-games) - Basic Computer Game Examples 
 
@@ -820,7 +820,7 @@ Automated Incident Response and Forensics Framework
 * [Railway](https://railway.app/) - Code Repository Manager
 * [Pew Pew](https://adrianmato.com/pewpew) - Cleanup Unused Repos
 * [git](https://git-scm.com/) - Version Control System
-* [Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects) 
+* [Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_git_projects) 
 * [Awesome First PR Oppotunities](https://github.com/MunGell/awesome-for-beginners) - Beginner Friendly FOSS Project Index
 * [Git Extensions](https://gitextensions.github.io/) or [Thermal](https://thermal.codecarrot.net/) - Git Repository Manager
 * [GitZip](https://gitzip.org/) or [DownGit](https://minhaskamal.github.io/DownGit) - Download GitHub Repository Sub-Folders / Files 
@@ -884,7 +884,7 @@ Automated Incident Response and Forensics Framework
 
 ## ▷ Color Schemes
 
-* **[Color Palette Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_palette_generators)** - Generate Color Palettes
+* **[Color Palette Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_color_palette_generators)** - Generate Color Palettes
 * [SpyColor](https://www.spycolor.com/) - Color Model Conversions
 * [Colorful](https://github.com/Siddharth11/Colorful) - Curated List of Color Scheme Resources 
 * [ColorsAndFonts](https://www.colorsandfonts.com/) - Quickly Copy Colors & Typography Combinations 
@@ -895,7 +895,7 @@ Automated Incident Response and Forensics Framework
 * [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) - Accessible Color Pallette Builder
 * [Simpler Color](https://github.com/arnelenero/simpler-color) - Create Web Color System
 * [ColorZilla](https://www.colorzilla.com/) - Color Picker, Gradient Generator & more
-* [Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers) - Extract Color from Pictures / Webpages
+* [Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_color_pickers) - Extract Color from Pictures / Webpages
 * [Webgradients](https://webgradients.com/) - Gradients
 * [uiGradients](https://uigradients.com/) - Hex Gradients
 * [ShaderToy](https://www.shadertoy.com/browse) - User-Made Shaders 
@@ -905,7 +905,7 @@ Automated Incident Response and Forensics Framework
 
 # ► Programming / Coding 
 
-* **[Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_code_editors)** - Code Editing Apps & Sites
+* **[Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_code_editors)** - Code Editing Apps & Sites
 * **[List.community](https://list.community/)** - Programming / Development GitHub Lists 
 * [WebdevHome](https://webdevhome.github.io/), [Charm](https://charm.sh/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming Tool Indexes
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Programming Site Index 
@@ -1102,9 +1102,9 @@ Automated Incident Response and Forensics Framework
 
 * **[goormIDE](https://ide.goorm.io/)**, [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [Deta](https://www.deta.sh/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [FireMonkeyX](http://www.firemonkeyx.com/) or [Glitch](https://glitch.com/) / [GitHub](https://github.com/m3o/m3o) - Cloud IDE
 * **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - Cloud IDE / VSCode 
-* [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
+* [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
 * [colab alive](https://github.com/sobuj53/colabAlive) - Keep Colab Open
-* [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - Cloud Platform Index
+* [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76/#file-cloud-md) - Cloud Platform Index
 * [Openshift](https://che.openshift.io/) - Cloud IDE / Eclipse Che 
 * [Arduino](https://cloud.arduino.cc/) - Cloud IDE for Arduino
 * [Blazepack](https://github.com/ameerthehacker/blazepack) - Self-Hosted Development Environment
@@ -1124,6 +1124,6 @@ Automated Incident Response and Forensics Framework
 ## ▷ IDEs / Code Editors
 
 * **[VSCodium](https://vscodium.com/)** - Code Editor  
-* **[VS Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vscode_tools)** - Tools & Themes for VS Code
+* **[VS Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_vscode_tools)** - Tools & Themes for VS Code
 * [Apache NetBeans](https://netbeans.apache.org/) - Cross Platform IDE  
 * [KDevelop](https://www.kdevelop.org/) - Cross Platform IDE
