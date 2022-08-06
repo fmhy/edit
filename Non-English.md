@@ -669,6 +669,7 @@
 * [Marshmallow](https://marshmallow-qa.com/) - Send & Receive Positive Messages
 * [Annict](https://annict.com/) - Anime Tracker
 * [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Anime Subtitles
+* [Japan Reference](https://jref.com/) - Japanese Culture Forum
 
 ## ▷ Downloading
 
@@ -747,7 +748,7 @@
 * [CMOA](https://www.cmoa.jp/) - Manga  
 * [shobonnexus](https://shobonnexus.com/) - Novels / Magazines  
 * [watanoc](http://watanoc.com/) - Articles / Learn Japanese 
-* [Nihongo Monash](http://nihongo.monash.edu/onlinejdic.html) - Dictionaries
+* [Nihongo Monash](http://nihongo.monash.edu/onlinejdic.html) or [Weblio](https://www.weblio.jp/) - Dictionaries
 
 ***
 
@@ -1436,6 +1437,7 @@
 
 * **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - Telegram Channel Index
 * [jogos10](http://www.jogos10.com/) or [Minijuegos](https://www.minijuegos.com/) - Browser Games
+* [Emudesc](https://www.emudesc.com/) - Gaming Forum
 * [EmojiTool](https://emojitool.com/) - Emoji Database
 * [Catflix](https://www.championcat.cl/catflix/) - Cats!
 * [Aprender Gratis](https://aprendergratis.es/) - File Tools
