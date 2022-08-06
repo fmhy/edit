@@ -160,13 +160,14 @@
 * [WowROMs](https://wowROMs.com/en/) - ROMs
 * [ROMsFun](https://ROMsfun.com/) - ROMs
 * [FreeROMs](https://www.freeROMs.com/) - ROMs
+* [RetroZone](https://retrozone.co/) - ROMs
 * [/1CC/](https://8kun.top/1cc/index.html) - ROMs / [Discord](https://discord.com/invite/Y4dSzbXNau)
-* [DaROMs](http://daROMs.com/) - ROMs 
+* [DaROMs](http://daROMs.com/) - ROMs
 * [Arcade Punks](https://www.arcadepunks.com/) - ROMs
 * [CDRomance](https://cdromance.com/) - ROMs
-* [LoveROMs](https://www.loveROMs.online/) - ROMs 
+* [LoveROMs](https://www.loveROMs.online/) - ROMs
 * [PSXForever](https://psxforever.com/), [2](https://pspgamesland.com/), [3](https://gameboxadvance.com/), [4](https://legendsROMs.com/), [5](https://worldcia3ds.com/), [6](https://akamigames.net/), [7](https://fullgamesnx.com/) - ROMs
-* [FantasyAnime](https://fantasyanime.com/) - ROMs 
+* [FantasyAnime](https://fantasyanime.com/) - ROMs
 * [NesGM](https://nesgm.net/) - ROMs / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [ROM World](http://www.romworldonline.com/) - ROMs / [How-to](https://i.imgur.com/Mqab82O.png)
 * [LegendaryRepacks](https://discord.gg/RUSNHSk)
@@ -239,7 +240,8 @@
 * [Vizzed](https://www.vizzed.com/)
 * [Free80sArcade](http://www.free80sarcade.com/)
 * [Retro Uprising](http://www.retrouprising.com/) 
-* [Play Classic Games](https://playclassic.games/) 
+* [Play Classic Games](https://playclassic.games/)
+* [ClassicGames](https://www.classicgames.me/)
 * [Emulator.Games](https://emulator.games/) 
 * [GamulatoR](https://www.gamulator.com/ROMs)
 * [Aurora](https://skitty.xyz/aurora/) 
@@ -255,6 +257,7 @@
 * [PS1FUN](http://www.ps1fun.com/) - PS1 Browser Emulator 
 * [LYR9C](https://lyr9c.weebly.com/gba-games.html) - GBA Browser Emulator 
 * [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy Browser Emulator
+* [SNESFun](http://www.snesfun.com/) - SNES Browser Emulator
 * [QAOP](http://torinak.com/qaop/games) - Arcade Games
 * [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator
 * [Mega Drive Emulator](https://megadrive-emulator.com/) - Sega Megadrive Browser Emulator
@@ -332,6 +335,7 @@
 * [Powerslave EX](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_powerslave_ex) - Powerslave PC Port 
 * [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) - Driver 2 PC Port
 * [Megaman 2.5D](http://petersjostrand.com/) - Multiplayer Megaman
+* [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
 * [EDuke32](https://www.eduke32.com/) - Duke Nukem 3D Source Port
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)
@@ -433,6 +437,7 @@
 * [Dynast](https://dynast.io/) - Survival Browser Game
 * [Mexican Train](https://mexicantrain.online/) - Domino Train Game
 * [Gridland](http://gridland.doublespeakgames.com/) - Grid Matching RPG
+* [Backpack Hero](https://thejaspel.itch.io/backpack-hero) - Turn-Based RPG
 * [Hacker Wars](https://hackerwars.io/) or [SlaveHack2](http://slavehack2.com/) - Hacking Game
 * [2020 Game](https://2020game.io/) - Play through 2020 
 * [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
@@ -524,6 +529,7 @@
 * [Playok](https://www.playok.com/)
 * [PaperGames](https://papergames.io/)
 * [Venge](https://venge.io/) - PvP FPS
+* [LolShot](https://lolshot.io/) - PvP FPS
 * [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) - Top Down Battle Royal 
 * [ZombsRoyale.io](https://zombsroyale.io/) - Zombie Battle Royale 
 * [Yohoho.io](https://www.yohoho.io/) - Pirate Battle Royale
@@ -613,7 +619,7 @@
 * [Nerdle](https://nerdlegame.com/) - Number Guessing Game 
 * [picture dots](https://www.picturedots.com/) - Make & Play dot Puzzles
 * [babble.xyz](https://babbl.xyz/) - Infinite Scrabble
-* [WordHub](https://wordhub.com/) - Scrambled Word Game
+* [MoreWords](https://www.morewords.com/) or [WordHub](https://wordhub.com/) - Scrabble
 * [Divergent Association Task](https://www.datcreativity.com/task) - Unrelated Word Game
 * [Oh, My Dots!](https://www.ohmydots.com/) - Connect the Dots Game
 * [eWordChallenge](https://www.ewordchallenge.net/) - Multiplayer Boggle
@@ -673,7 +679,7 @@
 * [Flash by Night](http://flashbynight.com/) - Browser Games
 * [The Flash Emulation Repair Shop](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_flash_emulation_repair_shop) - Flash Games Under Repair
 * [Arcade Prehacks](http://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
-* [How-To Play Flash Games](https://rentry.co/oc4wc) - Browser Flash Game Tutorial
+* [How-to Play Flash Games](https://rentry.co/oc4wc) - Browser Flash Game Tutorial
 
 ***
 
