@@ -321,12 +321,12 @@
 
 ## ▷ Special Interest
 
-* [Cookbooks / Recipes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_cooking) - Cookbook and Recipes Sites
+*  **[Wikiquote](https://en.wikiquote.org)**, [Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [ThinkExist](http://thinkexist.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [QuoteGarden](https://www.quotegarden.com/) or [Glimbay](https://www.glimbay.com/) - Quotes
+* **[Cookbooks / Recipes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_cooking)** - Cookbook and Recipes Sites
 * [FoodTimeLine](https://www.foodtimeline.org/) - Food History
-* [Short Stories](https://short-stories.co/) - Short Stories 
+* [Short Stories](https://short-stories.co/) or [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
 * [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
 * [Poetry Foundation](https://www.poetryfoundation.org/), [PoemHunter](https://www.poemhunter.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
-* [Wisdom of Chopra](http://www.wisdomofchopra.com/) or [Glimbay](https://www.glimbay.com/) - Quotes
 * [FreeSFOnline](https://www.freesfonline.net/) - Sci-Fi / Fantasy 
 * [EpubPuB](https://www.epub.pub/) - Romance / Fantasy  
 * [SF Site](https://www.sfsite.com/) - Science Fiction
@@ -711,8 +711,8 @@
 * **[OneLook](https://onelook.com/)** - Multi Dictionary Search
 * **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus
 * **[Wikipedia](https://www.wikipedia.org/)** or [WikiFox](https://wikifox.ml/) - Encyclopedia / [Read Only](http://static.wiki/) / [Text Extractor](https://github.com/attardi/wikiextractor) / [Deleted Articles](https://deletionpedia.org/en/Main_Page)
-* **[Wikiquote](https://en.wikiquote.org)** - Quote database
 * **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - Slang Word / Phrase Dictionary
+* [Phrases.org](https://phrases.org.uk/) - Phrase Dictionary
 * [NinjaWords](http://ninjawords.com/) - Dictionary
 * [Wordnik](https://www.wordnik.com/) - Dictionary
 * [OxfordLearnersDictionaries](https://www.oxfordlearnersdictionaries.com/) - Dictionary
@@ -722,6 +722,7 @@
 * [Wiktionary](https://www.wiktionary.org/) - Dictionary
 * [Vocabulary](https://www.vocabulary.com/) - Dictionary
 * [WordSense](https://www.wordsense.eu/) - Dictionary
+* [MacmillanDictionary](https://www.macmillandictionary.com/) - Dictionary
 * [Webopedia](https://www.webopedia.com/) or [TechTerms](https://techterms.com/) - Tech Dictionary
 * [EtymOnline](https://www.etymonline.com/) - Etymologies
 * [Fandom](https://www.fandom.com/) - Fan Wikis 
@@ -730,14 +731,17 @@
 * [Britannica](https://www.britannica.com/) - Encyclopedia
 * [Encyclopedia](https://www.encyclopedia.com/) - Encyclopedia
 * [Conze.pt](https://conze.pt/ ) - Encyclopedia
+* [InfoPlease](https://www.infoplease.com/) - Encyclopedia
 * [Refdesk](https://www.refdesk.com/factency.html) - Encyclopedias
 * [Abbreviations](https://www.abbreviations.com/) - Abbreviations
+* [AcronymFinder](https://www.acronymfinder.com/) - Abbreviations / Acronyms
 * [Chat Words Dictionary](https://chatworddictionary.com/) - Chat Abbreviations
 * [lengusa](https://lengusa.com/) or [Fraze.it](https://fraze.it/) - Sentence Search
 * [Wolfram Alpha](https://www.wolframalpha.com/) - Searchable Knowledgebase / [Pro](https://wolfreealpha.github.io/)
 * [Dictionary](https://www.dictionary.com/) - Dictionary / Thesaurus
 * [DescribingWords](https://www.describingwords.io/) - Adjectives
 * [Thsrs](http://www.ironicsans.com/thsrs/) - Synonyms
+* [Synonym.com](https://www.synonym.com/) - Synonyms
 * [Feeels](https://feelu.now.sh/) - Emotion Synonym Chart
 * [WikiDiff](https://wikidiff.com/) - Difference Between Any Words 
 * [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - Search for Words Using Their Meanings 
@@ -747,7 +751,7 @@
 * [Focal](http://www.focal.ie/) - Irish Word Dictionary
 * [TheIdioms](https://www.theidioms.com/) - Idiom Dictionary 
 * [Lexipedia](http://www.lexipedia.com/) - Word Connections
-* [RhymeZones](https://www.rhymezone.com/) or [RhymeIt](https://www.rhymit.com/) - Rhyme Dictionary
+* [RhymeZones](https://www.rhymezone.com/), [Rhymer](https://rhymer.com/) or [RhymeIt](https://www.rhymit.com/) - Rhyme Dictionary
 * [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/) - Dictionary of Sorrows 
 * [TheDevilsDictionary](http://www.thedevilsdictionary.com/) - Cynical Dictionary
 * [TagDef](https://tagdef.com/en/) - Social Media Tag Dictionary 
@@ -802,7 +806,7 @@
 * [findxkcd](https://xkcd-search.typesense.org/) - Browse xkcd Comics
 * [Cover](http://www.frenchfrysoftware.com/cover/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Reader / Manager
 * [MComix](https://sourceforge.net/p/mcomix/wiki/Home/) - Reader
-* [ComicFury](https://comicfury.com/) - User-made Webcomics
+* [ComicFury](https://comicfury.com/) or [StripCreator](http://www.stripcreator.com/) - User-Made Comics
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Web Comic Reader
 * [Webcomix](https://github.com/J-CPelletier/webcomix) - Webcomics Downloader
 * [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - Online Reader
