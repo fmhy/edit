@@ -134,7 +134,7 @@
 * [rcm](https://github.com/thoughtbot/rcm) - Manage Dotfiles
 * [Curlew](https://curlew.sourceforge.io/) - Linux File Converter
 * [Dolphin](https://userbase.kde.org/Dolphin) or [ranger](https://github.com/ranger/ranger) - File Manager
-* [nnn](https://github.com/jarun/nnn) or [NCDU](https://github.com/rofl0r/ncdu) - Terminal File Manager/Disk Usage Analyzer
+* [nnn](https://github.com/jarun/nnn), [Joshuto](https://github.com/kamiyaa/joshuto) or [NCDU](https://github.com/rofl0r/ncdu) - Terminal File Manager / Disk Usage Analyzer
 * [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Tiling Windows Manager / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/jmmaranan/forge) - GNOME Tiling Extension
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
@@ -144,7 +144,9 @@
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - PDF Editor
 * [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://flathub.org/apps/details/com.github.dail8859.NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor
 * [Zathura](https://git.pwmt.org/pwmt) - Document Viewer
-* [Winfield](http://www.winfield.demon.nl/) - MS Word for Linux / OS X 
+* [Winfield](http://www.winfield.demon.nl/) - MS Word for Linux / OS X
+* [Got](https://github.com/fedeztk/got) - Translator
+* [DidYouMean](https://github.com/hisbaan/didyoumean) - Grammar Check
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
 * [FlameGApps](https://github.com/flamegapps/flamegapps) - Google Apps Installer
 * [syncthing](https://syncthing.net/) or [maestral](https://maestral.app/) - File Sharing App
