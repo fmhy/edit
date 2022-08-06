@@ -270,6 +270,7 @@
 * [LO4D](https://www.lo4d.com/) 
 * [ListOfFreeWare](https://listoffreeware.com/) 
 * [Downloadastro](https://en.downloadastro.com/)
+* [FileGuru](https://www.fileguru.com/)
 * [SnapFiles](https://www.snapfiles.com/freeware/) 
 * [apponic](https://www.apponic.com/) 
 * [Sordum](https://www.sordum.org/) 
