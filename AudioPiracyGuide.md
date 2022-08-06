@@ -115,6 +115,7 @@
 * [DigitalBook](https://www.digitalbook.io/) - Podcasts
 * [player.fm](https://player.fm/) - Podcasts
 * [Relay.fm](https://www.relay.fm/) - Podcasts
+* [BlogTalkRadio](https://www.blogtalkradio.com/popular) - Podcasts
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Podcasts for Software Engineers
 * [CPod](https://github.com/z-------------/CPod) - Podcast App
 * [Drive & Listen](https://driveandlisten.herokuapp.com/) or [DrivenListen](https://drivenlisten.com/) - Radio Driving Simulator 
@@ -463,6 +464,7 @@
 * [Stage48](http://stage48.net/wiki/index.php) - Stage48 Idol Group Database
 * [Music.ishkur](http://music.ishkur.com/) - Electronic Music Guide 
 * [Every Noise at Once](http://everynoise.com/) - Music Genre Samples
+* [SpotiFictional](https://spotifictional.com/) - Music from Fictional Artists
 * [Listening Together](https://listeningtogether.atspotify.com/) - Tracks Each Time Two People Play the Same Song
 * [Loudness War](https://dr.loudness-war.info/) - Albums Dynamic Range Database
 * [rate.house](https://rate.house/) - Media Tracker
