@@ -108,7 +108,8 @@
 * **[Craiyon](https://www.craiyon.com/)** - AI Image Generator
 * [Rough.js](https://roughjs.com/) - Create Graphics that look Hand-Drawn
 * [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [ICO Convert](https://www.icoconvert.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - Icon Generators
-* [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/), [Free Logo Maker](https://freelogomaker.net/) or [ACME](https://acme.com/labelmaker/) - Logo Creator 
+* [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/), [Free Logo Maker](https://freelogomaker.net/) or [ACME](https://acme.com/labelmaker/) - Logo Creator
+* [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
 * [ArtFlow](http://artflow.ai/), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [react-nice-avatar](https://github.com/chilllab/react-nice-avatar) or [Avataaars](https://getavataaars.com/) - Face / Avatar Creator
 * [PixelMe](https://xsgames.co/pixelme/) - 8bit Avatar Creator
 * [Random-Face-Generator](https://github.com/adityar224/Random-Face-Generator) - Face Generator
@@ -180,9 +181,10 @@
 ## ▷ GIF Tools
 
 * **[Awesome GIF](https://github.com/davisonio/awesome-gif)** - GIF Resource Index
-* [Giphy](https://giphy.com/), [gfycat](https://gfycat.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/), [reactiongifs](https://www.reactiongifs.us/), [reactiongifs](https://reactiongifs.me/), [gif-finder](https://gif-finder.com/), [reactiongifs](http://www.reactiongifs.com/), [bestanimations](https://bestanimations.com/), [Animations](https://bleuje.github.io/animationsite/), [gifimage](https://gifimage.net/) or [Animated Images](https://www.animatedimages.org/) - View / Download GIFs 
+* [Giphy](https://giphy.com/), [gfycat](https://gfycat.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/), [reactiongifs](https://www.reactiongifs.us/), [reactiongifs](https://reactiongifs.me/), [gif-finder](https://gif-finder.com/), [reactiongifs](http://www.reactiongifs.com/), [bestanimations](https://bestanimations.com/), [Animations](https://bleuje.github.io/animationsite/), [GIFBin](https://www.gifbin.com/), [ForGIFs](http://forgifs.com/), [gifimage](https://gifimage.net/) or [Animated Images](https://www.animatedimages.org/) - View / Download GIFs 
 * [Online GIF Tools](https://onlinegiftools.com/) - GIF Tools
 * [EZGif](https://ezgif.com/), [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFMemes](https://gifmemes.io/), [gifexplosion](https://gifexplosion.com/app.php), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/), [Pixteller](http://pixteller.com/) or [Gif Maker](https://gifmaker.me/) - GIF Creator / Editor
+* [EatMyArt](https://www.eatmy.art/) - Create GIFs from Drawings
 * [GIF Explode](https://gif-explode.com/) - Split GIFs Into Frames
 * [gifify](https://github.com/vvo/gifify) - Video to GIF Converter
 * [GifRun](https://gifrun.com/) - Make GIFs from Online Videos
@@ -202,7 +204,7 @@
 
 ## ▷  Meme Makers
 
-* [Meme Generator](https://imgflip.com/memegenerator), [Meme Town](https://meme.town/), [DrMemes](https://www.drmemes.com/), [MemeBetter](https://memebetter.com/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
+* [Meme Generator](https://imgflip.com/memegenerator), [Meme Town](https://meme.town/), [DrMemes](https://www.drmemes.com/), [Meme Generator](http://memegenerator.net/), [MemeBetter](https://memebetter.com/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
 * [MemeAtlas](https://www.memeatlas.com/) - Meme Database 
 * [Memegine](https://memegine.com/) - Meme Search Engine
 * [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh) - Meme Templates
@@ -381,6 +383,7 @@
 * [DeepSort](https://github.com/CorentinB/DeepSort/) or [WiseTagger](https://github.com/0xb8/WiseTagger) - Image Tagger 
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) or [PhotoPrism](https://photoprism.app/) - Automatically Organize & Tag Photos
 * [Photo.net Tutorials](https://www.photo.net/learn/about/tutorials) - Photography Tutorials
+* [Canon Camera Museum](https://global.canon/en/c-museum/camera-series.html) - History of Canon Cameras
 * [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
 * [3DVKARTS](https://3dvkarts.net/) or [Line of Action](https://line-of-action.com/) - Drawing Tutorials
 * [anidraw](https://www.anidraw.net/?m=1) - Anime Drawing Tutorials
