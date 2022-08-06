@@ -71,6 +71,7 @@
 * [TheFlix](https://theflix.to/) - Movies / TV
 * [1movies](https://1movies.life/), [2](https://real-primewire.club/), [3](https://couchtuner.fashion/), [4](https://ww2.new-primewire.com/) - Movies / TV / Anime
 * [Vmovee HD](https://vmoveehd.com/) - Movies / TV
+* [MoviesJoy](https://moviesjoy.best/) - Movies / TV
 * [VidStore](https://stream.vidzstore.com/) - Movies
 * [Mrswe](https://mrswe.com/) - Movies / TV / [Discord](https://discord.com/invite/vH98xpmhxM) / [Ad Script](https://pastebin.com/sUkeh9ZH)
 * [Flixtor](https://flixtor.to) or [Filme21](https://filme21.com/) - Movies / TV / Movies Older Than 6 Months For Premium Only
