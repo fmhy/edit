@@ -29,7 +29,8 @@
 * [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [C1NE](https://c1ne.co/) - Movies / TV 
 * [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - Movies / TV
-* [Movies.cf](https://movies.cf/Landing) - Movies 
+* [Movies.cf](https://movies.cf/Landing) - Movies
+* [OpenloadMovies](https://openloadmov.net/) or [Yify TV](https://yify.plus/ ) - Movies / TV
 * [Tubi](https://tubitv.com) - Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
 * [Plex](https://watch.plex.tv/) - Movies / TV
 * [arthemis](https://web.arthemis.xyz/) - Movies / TV / Anime / App / [Discord](https://discord.gg/98HxbfjKQV)
@@ -38,8 +39,6 @@
 * [oSee](https://osee.in) - Movies / TV / Anime / [Unlock HD](https://pastebin.com/hxdq1uFi)
 * [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime
 * [SockShare](http://sockshare.ac/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones) / Use Adblock
-* [Ling.online](https://ling.online/en/videos/films/) - Movies / TV
-* [OpenloadMovies](https://openloadmov.net/) or [Yify TV](https://yify.plus/ ) - Movies / TV
 * [162.12.215.254](http://162.12.215.254/) - Movies
 * [Rainierland](https://rainierland.to/) - Movies / TV 
 * [SuperNova](https://supernova.to/) - Movies / TV / Anime 
