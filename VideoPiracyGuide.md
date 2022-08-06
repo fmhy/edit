@@ -49,6 +49,7 @@
 * [AZMovies](https://azm.to) - Movies
 * [KissKH](https://kisskh.me/Explore?type=4) - Movies / TV / Anime
 * [HDMovieBox](https://hdmoviebox.org/) - Movies
+* [Ling.online](https://ling.online/en/videos/films/) - Movies / TV
 * [Cinema Shack](https://cinemashack.co/) - Movies / TV / Anime
 * [Moviehdkh](https://www.moviehdkh.com/) - Movies 
 * [Tainio-Mania](https://tainio-mania.online/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
