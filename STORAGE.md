@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/xkGHjp4.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/EHgSDik.png)** - For mobile users
 
 ***
 ***
@@ -42,12 +42,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 **[AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra)** / [Script](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js), **[fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/)**, [BlockAdblock Blocker](https://greasyfork.org/en/scripts/406036-blockadblock-blocker), [Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt), [Assassinate Ad Block Blockers](https://greasyfork.org/en/scripts/382482-assassinate-ad-block-blockers)
 
 [Test Adblock Defender](https://blockads.fivefilters.org/)
-
-***
-
-#### After Effects Templates
-
-[ShareAE](https://www.shareae.com/), [HunterAE](https://hunterae.com/), [AEShares](https://aeshares.com/), [AEDownload](https://aedownload.com/), [AERiver](https://aeriver.com/), [CGNullded](https://cgnulled.com/), [Intro HD](https://intro-hd.net/), [AEDownloadPro](https://www.aedownloadpro.com/) [DownAE](https://downae.com/), [Adobe After Effects Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_adobe_after_effects_collection)
 
 ***
 
@@ -136,7 +130,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Alternative Software / App Sites
 
-**[AlternativeTo](https://alternativeto.net/)**, [Ethical](https://ethical.net/resources/), [Slant](https://www.slant.co/), [SaaSHub](https://www.saashub.com/), [switching.software](https://switching.software/), [GCemetery Alternatives](https://gcemetery.co/google-alternatives/), [ALTERNATIVES](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md), [Alternative.me](https://alternative.me/), [Top Best Alternatives](https://www.topbestalternatives.com/), [GoFOSS](https://gitlab.com/curlycrixus/gofoss), [osalt](http://osalt.com/), [Open Source Alternatives](https://www.opensourcealternative.to/, [Alternatives.app](https://alternatives.app/), [AlternativeBK](https://alternativebk.com/), [TopAlter](https://topalter.com/)
+**[AlternativeTo](https://alternativeto.net/)**, [Ethical](https://ethical.net/resources/), [Slant](https://www.slant.co/), [SaaSHub](https://www.saashub.com/), [switching.software](https://switching.software/), [ALTERNATIVES](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md), [Alternative.me](https://alternative.me/), [Top Best Alternatives](https://www.topbestalternatives.com/), [GoFOSS](https://gitlab.com/curlycrixus/gofoss), [osalt](http://osalt.com/), [Open Source Alternatives](https://www.opensourcealternative.to/), [Alternatives.app](https://alternatives.app/), [AlternativeBK](https://alternativebk.com/), [TopAlter](https://topalter.com/)
 
 ***
 
@@ -154,7 +148,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Android Audio Players
 
-[VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer), [BlackHole](https://github.com/Sangwan5688/BlackHole), [RAAG](https://github.com/raag-music/raag/), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Pulse Music](https://f-droid.org/en/packages/com.hardcodecoder.pulsemusic/), [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet&hl=en_US&gl=US), [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer), [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/), [RetroPad](https://jamesob.com/apps/retropod.html), [Apollo-Music](https://github.com/nuclearfog/Apollo-Music), [audacium](https://audacium.xyz/), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx](https://play.google.com/store/apps/details?id=com.awedea.nyx), [Serenity](https://github.com/YajanaRao/Serenity), [SoundSpice-mobile](https://github.com/farshed/rSoundSpice-mobile), [ExoPlayer](https://github.com/google/ExoPlayer), [Timber](https://github.com/naman14/Timber), [TimberX](https://github.com/naman14/TimberX)
+[VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer), [BlackHole](https://github.com/Sangwan5688/BlackHole), [RAAG](https://github.com/raag-music/raag/), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Pulse Music](https://f-droid.org/en/packages/com.hardcodecoder.pulsemusic/), [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet&hl=en_US&gl=US), [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer), [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/), [RetroPad](https://jamesob.com/apps/retropod.html), [Apollo-Music](https://github.com/nuclearfog/Apollo-Music), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx](https://play.google.com/store/apps/details?id=com.awedea.nyx), [Serenity](https://github.com/YajanaRao/Serenity), [ExoPlayer](https://github.com/google/ExoPlayer), [Timber](https://github.com/naman14/Timber), [TimberX](https://github.com/naman14/TimberX)
 
 ***
 
@@ -213,7 +207,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Audio Plugins 
 
-[OpenAudio](https://github.com/webprofusion/OpenAudio), [/r/CrackedPlugins2](https://www.reddit.com/r/CrackedPlugins2/) / [Mega](https://www.reddit.com/r/CrackedPlugins2/wiki/megathread), [/u/BitterApple69 Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fu.2Fbitterapple69_plugins), [FreeVSTPlugins](https://freevstplugins.net/), [KVRAudio](https://www.kvraudio.com/), [PLUGINS4FREE](https://plugins4free.com/), [dskmusic](https://www.dskmusic.com/), [landr](https://blog.landr.com/best-free-vst-plugins/), [vstpirate](https://www.vstpirate.com/), [native-instruments](https://www.native-instruments.com/en/specials/free-vst-plugins/), [sparta](https://leomccormack.github.io/sparta-site/), [IEM](https://plugins.iem.at/), [PluginTorrent](https://plugintorrent.com/), [/r/PluggnB/](https://www.reddit.com/r/PluggnB/), [Free VST Spreadsheet](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8#gid=0), [Plugins Cloud](https://t.me/joinchat/eBPFLPGucTU5YjQ9), [PluginsCloudArchive](https://t.me/plugincloudsarchive), [PluginCloudArchive_docs](https://t.me/pluginclouds_docs)
+[OpenAudio](https://github.com/webprofusion/OpenAudio), [/r/CrackedPlugins2](https://www.reddit.com/r/CrackedPlugins2/) / [Mega](https://www.reddit.com/r/CrackedPlugins2/wiki/megathread), [/u/BitterApple69 Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fu.2Fbitterapple69_plugins), [FreeVSTPlugins](https://freevstplugins.net/), [KVRAudio](https://www.kvraudio.com/), [PLUGINS4FREE](https://plugins4free.com/), [dskmusic](https://www.dskmusic.com/), [landr](https://blog.landr.com/best-free-vst-plugins/), [native-instruments](https://www.native-instruments.com/en/specials/free-vst-plugins/), [sparta](https://leomccormack.github.io/sparta-site/), [IEM](https://plugins.iem.at/), [PluginTorrent](https://plugintorrent.com/), [/r/PluggnB/](https://www.reddit.com/r/PluggnB/), [Free VST Spreadsheet](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8#gid=0), [Plugins Cloud](https://t.me/joinchat/eBPFLPGucTU5YjQ9), [PluginsCloudArchive](https://t.me/plugincloudsarchive), [PluginCloudArchive_docs](https://t.me/pluginclouds_docs)
 
 ***
 
@@ -261,13 +255,13 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Browser Startpages
 
-* **[WebOas.is](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) / [Source Code](https://pastebin.com/CczqreS4), monknow](https://www.monknow.com/)**, [8bitdash](https://www.8bitdash.com/), [8Bitdashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [StartTree](https://github.com/Paul-Houser/StartTree), [New Tab Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page), [clippingmini](https://www.clippingmini.com/), [klepit](https://www.klepit.com/), [draggo](http://draggo.com/), [atavi](https://atavi.com/), [homepage](https://homepage.ninja/), [bookmarkee](https://www.bookmarkee.com/), [pearltrees](https://www.pearltrees.com/), [lasso](https://www.lasso.net/), [nextcloud](https://apps.nextcloud.com/apps/bookmarks), [cling](https://cling.com/), [symbaloo](https://www.symbaloo.com/), [tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [psty](https://psty.io/) / [GitHub](https://github.com/psty-io/psty-api), [nightly](https://github.com/Harshit-T/nightly), [Protopage](https://www.protopage.com/)
+* **[WebOas.is](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) / [Source Code](https://pastebin.com/CczqreS4), monknow](https://www.monknow.com/)**, [8bitdash](https://www.8bitdash.com/), [8Bitdashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [StartTree](https://github.com/Paul-Houser/StartTree), [New Tab Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page), [clippingmini](https://www.clippingmini.com/), [klepit](https://www.klepit.com/), [draggo](http://draggo.com/), [atavi](https://atavi.com/), [homepage](https://homepage.ninja/), [bookmarkee](https://www.bookmarkee.com/), [pearltrees](https://www.pearltrees.com/), [lasso](https://www.lasso.net/), [nextcloud](https://apps.nextcloud.com/apps/bookmarks), [cling](https://cling.com/), [symbaloo](https://www.symbaloo.com/), [tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/Harshit-T/nightly), [Protopage](https://www.protopage.com/)
 
 ***
 
 #### Bookmark Managers
 
-[saved.io](https://saved.io/), [BookmarkOS](https://bookmarkos.com/), [Bookmarkify](https://bookmarkify.it/), [Patchwork](http://patchworkapp.com/), [start.me](https://start.me/start/int/startpage), [buku](https://github.com/jarun/buku), [Booky](https://booky.io/), [Raindrop](https://raindrop.io/), [WebCrate](https://webcrate.app/), [Unmark](https://unmark.it/), [Diigo](https://diigo.com/), [Papaly](https://papaly.com/), [linkding](https://github.com/sissbruecker/linkding), [linkace](https://www.linkace.org/), [tagpacker](https://tagpacker.com/), [yabs](https://www.yabs.io/), [readthedocs](https://shaarli.readthedocs.io/en/master/), [mission-control](https://mission-control.app/), [histre](https://histre.com/), [brainytab](https://brainytab.com/), [saveforlater](http://saveforlater.com/), [tryzulu](https://tryzulu.com/), [contentle](https://contentle.com/), [clipix](https://www.clipix.com/), [webcull](https://webcull.com/), [colllect](https://colllect.io/), [sqworl](https://sqworl.com/), [trovenow](https://trovenow.com/), [ggather](https://web.ggather.com/), [openoox](https://openoox.com/), [dropmark](https://www.dropmark.com/), [moodboard](https://moodboard-mvp.web.app/), [bookmarkme](https://bookmarkme.io/), [bublup](https://www.bublup.com/), [bkmark](https://bkmark.io/)    
+[saved.io](https://saved.io/), [BookmarkOS](https://bookmarkos.com/), [Bookmarkify](https://bookmarkify.it/), [Patchwork](http://patchworkapp.com/), [start.me](https://start.me/start/int/startpage), [buku](https://github.com/jarun/buku), [Booky](https://booky.io/), [Raindrop](https://raindrop.io/), [WebCrate](https://webcrate.app/), [Unmark](https://unmark.it/), [Diigo](https://diigo.com/), [Papaly](https://papaly.com/), [linkding](https://github.com/sissbruecker/linkding), [linkace](https://www.linkace.org/), [tagpacker](https://tagpacker.com/), [yabs](https://www.yabs.io/), [readthedocs](https://shaarli.readthedocs.io/en/master/), [mission-control](https://mission-control.app/), [histre](https://histre.com/), [brainytab](https://brainytab.com/), [saveforlater](http://saveforlater.com/), [tryzulu](https://tryzulu.com/), [contentle](https://contentle.com/), [clipix](https://www.clipix.com/), [webcull](https://webcull.com/), [colllect](https://colllect.io/), [sqworl](https://sqworl.com/), [trovenow](https://trovenow.com/), [ggather](https://web.ggather.com/), [openoox](https://openoox.com/), [dropmark](https://www.dropmark.com/), [bookmarkme](https://bookmarkme.io/), [bublup](https://www.bublup.com/), [bkmark](https://bkmark.io/)    
 
 **Extensions** 
 
@@ -283,7 +277,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Calculator Sites
 
-**[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)**, **[WolframAlpha Math](https://www.wolframalpha.com/examples/mathematics)**, **[Omni Calculator](https://www.omnicalculator.com/)**, [RapidTables](https://www.rapidtables.com/),  [Calculator.net](https://www.calculator.net/sitemap.html), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [NumberEmpire](https://www.numberempire.com/), [Easy Calculation](https://www.easycalculation.com/), [Calculatorhut](https://www.calculatorhut.com/), [Calculation Calculators](https://calculationcalculator.com/), [calculator.net](https://www.calculator.net/, [JustFreeTools](https://www.justfreetools.com/en/all-calculators), [Calculat.io](https://calculat.io/)
+**[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)**, **[WolframAlpha Math](https://www.wolframalpha.com/examples/mathematics)**, **[Omni Calculator](https://www.omnicalculator.com/)**, [RapidTables](https://www.rapidtables.com/),  [Calculator.net](https://www.calculator.net/sitemap.html), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [NumberEmpire](https://www.numberempire.com/), [Easy Calculation](https://www.easycalculation.com/), [Calculatorhut](https://www.calculatorhut.com/), [Calculation Calculators](https://calculationcalculator.com/), [calculator.net](https://www.calculator.net/), [JustFreeTools](https://www.justfreetools.com/en/all-calculators), [Calculat.io](https://calculat.io/)
 
 ***
 
@@ -459,7 +453,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Bots** 
 
-[BotBlock](https://botblock.org/), [Top.gg](https://top.gg/), [Bots on Discord](https://bots.ondiscord.xyz/), [Discord Bots Labs](https://bots.discordlabs.org/), [Discord Bots](https://discord.bots.gg/), [Top Bots](https://s.advaith.io/topbots), [motiondevelopment](https://www.motiondevelopment.top/), [infinitybotlist](https://infinitybotlist.com/), [fateslist](https://fateslist.xyz/), [discordservices](https://discordservices.net/), [discordlistology](https://discordlistology.com/), [discordlist](https://discordlist.space/), [discordbots](https://discordbots.co/), [discordbots](https://discordbots.app/), [discordbotlist](https://discordbotlist.com/), [discord.boats](https://discord.boats/), [discord-botlist](https://discord-botlist.eu/), [carbonitex](https://www.carbonitex.net/), [botlist](https://botlist.me/), [blist](https://blist.xyz/), [bladelist](https://bladelist.gg/), [topcord](https://topcord.xyz/), [radarbotdirectory](https://radarbotdirectory.xyz/), [yabl](https://yabl.xyz/), [wonderbotlist](https://wonderbotlist.com/), [voidbots](https://voidbots.net/), [void.yt](https://void.yt/)
+[BotBlock](https://botblock.org/), [Top.gg](https://top.gg/), [Bots on Discord](https://bots.ondiscord.xyz/), [Discord Bots Labs](https://bots.discordlabs.org/), [Discord Bots](https://discord.bots.gg/), [Top Bots](https://s.advaith.io/topbots), [motiondevelopment](https://www.motiondevelopment.top/), [infinitybotlist](https://infinitybotlist.com/), [fateslist](https://fateslist.xyz/), [discordservices](https://discordservices.net/), [discordlist](https://discordlist.space/), [discordbots](https://discordbots.co/), [discordbots](https://discordbots.app/), [discordbotlist](https://discordbotlist.com/), [discord.boats](https://discord.boats/), [discord-botlist](https://discord-botlist.eu/), [carbonitex](https://www.carbonitex.net/), [botlist](https://botlist.me/), [blist](https://blist.xyz/), [bladelist](https://bladelist.gg/), [topcord](https://topcord.xyz/), [radarbotdirectory](https://radarbotdirectory.xyz/), [yabl](https://yabl.xyz/), [wonderbotlist](https://wonderbotlist.com/), [voidbots](https://voidbots.net/), [void.yt](https://void.yt/)
 
 ***
 
@@ -523,7 +517,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Encrypted Android Messengers
 
-[Threema](https://mirrorace.com/m/3DIja), [Status](https://status.im/), [Signal](https://github.com/mollyim/mollyim-android) / [2](https://langis.cloudfrancois.fr/) / [3](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) / [4](https://getsession.org/), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [Anonymous Messenger](https://f-droid.org/en/packages/com.dx.anonymousmessenger/), [ChatSecure](https://ballinger.io/apps/chatsecure/), [surespot](https://www.surespot.me/), [Snikket](https://www.f-droid.org/en/packages/org.snikket.android/), [RetroShare](https://f-droid.org/en/packages/org.retroshare.android.qml_app/), [BiP](https://bip.com/en/), [Olvid](https://olvid.io/en/), [Berty](https://berty.tech/), [OpenKeyChain](https://www.openkeychain.org/), [Dust](https://www.usedust.com/), [Fireside Messenger](https://newnode.com/), [Kontalk](https://www.kontalk.org/)
+[Threema](https://mirrorace.com/m/3DIja), [Status](https://status.im/), [Signal](https://github.com/mollyim/mollyim-android) / [2](https://langis.cloudfrancois.fr/) / [3](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) / [4](https://getsession.org/), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [Anonymous Messenger](https://f-droid.org/en/packages/com.dx.anonymousmessenger/), [ChatSecure](https://ballinger.io/apps/chatsecure/), [Snikket](https://www.f-droid.org/en/packages/org.snikket.android/), [RetroShare](https://f-droid.org/en/packages/org.retroshare.android.qml_app/), [BiP](https://bip.com/en/), [Olvid](https://olvid.io/en/), [Berty](https://berty.tech/), [OpenKeyChain](https://www.openkeychain.org/), [Dust](https://www.usedust.com/), [Fireside Messenger](https://newnode.com/), [Kontalk](https://www.kontalk.org/)
 
 *** 
 
@@ -2665,6 +2659,16 @@ Add the following commands to a search to manually scrape each site.
 #### Userscript Managers
 
 **[Greasymonkey](https://www.greasespot.net/)**, [Tampermonkey](https://www.tampermonkey.net/), [Violentmonkey](https://violentmonkey.github.io/), [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) 
+
+***
+
+#### VFX Sites
+
+[FootageCrate](https://footagecrate.com/), [MATESFX](https://www.freevideoeffect.com/), [FreeVideoEffect](https://freevideoeffect.com/), [VideoCoPilot](https://www.videocopilot.net/), [IntroHD](https://www.introhd.net/), [VFXmed](https://www.vfxmed.com/), [VFXDownload](https://www.vfxdownload.net/)
+
+**After Effects**
+
+[ShareAE](https://www.shareae.com/), [HunterAE](https://hunterae.com/), [AEShares](https://aeshares.com/), [AEDownload](https://aedownload.com/), [AERiver](https://aeriver.com/), [CGNullded](https://cgnulled.com/), [Intro HD](https://intro-hd.net/), [AEDownloadPro](https://www.aedownloadpro.com/) [DownAE](https://downae.com/), [Adobe After Effects Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_adobe_after_effects_collection)
 
 ***
 
