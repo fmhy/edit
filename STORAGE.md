@@ -633,7 +633,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://spotssh.com/
 * http://criarssh.com/
 * https://dewassh.net/
-* https://ciscossh.co
+* https://ciscossh.com/
 * https://skyssh.com/
 * https://digitalssh.net/
 * https://sshaccess.com/
