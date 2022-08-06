@@ -223,8 +223,12 @@
 * [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
-* [DiaperGrid](https://diapergrid.com/) - Compare Diaper Prices
+* [DiaperGrid](https://diapergrid.com/) - Diaper Price Tracker
+* [WorldTaxiMeter](https://www.worldtaximeter.com/) - Taxi Fare Calculator
+* [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
 * [Type Hound](https://typohound.com/) - eBay Typo Search
+* [Valuta EX](https://valuta.exchange/) - Currency Converter
+* [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
 
 ***
 
@@ -235,6 +239,7 @@
 * **[Iceberg Charts](https://icebergcharts.com/)** - Explore Obscure Topics / [/r/IcebergCharts](https://www.reddit.com/r/IcebergCharts/)
 * **[/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/wiki/listofsubreddits/)** - List of Subreddits
 * **[Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - List of Multireddits
+* **[TheOnion](https://theonion.com/)** - Fake New Articles 
 * **[r.sine.com](https://r.sine.com/index)**, [Pretty Flix](https://cvines528.github.io/Pretty-Flix/) or [Cameron.Red](https://cameron.red/imgur/) - Random Images
 * **[Random Comic Generator 3.0](https://explosm.net/rcg)** - Explosm Random Comic Generator
 * **[Talk Obama To Me](http://talkobamato.me/)** - Make Obama Say Stuff
@@ -248,19 +253,18 @@
 * **[The GIF Pronunciation Page](http://www.olsenhome.com/gif/)** - How to Pronouce "GIF"
 * **[PointerPointer](https://pointerpointer.com/)** - Get Your Pointer Pointed At 
 * **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - Realistic-Looking Fake Versions of Things 
-* [TheOnion](https://theonion.com/) - Fake New Articles 
-* [Tapology](https://www.tapology.com/) - Make MMA Fight Picks
-* [KongouCheats](https://kongoucheats.com/) or [Wimp.com](https://www.wimp.com/) - Watch Random Memes / Videos 
 * [GIFs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_gif_tools) - View / Download GIFs
-* [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [iFunny](https://ifunny.co/) or [Imageboard Scraper](https://nik.bot.nu/) - Images, Videos, Memes & GIFs / Some NSFW
+* [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/, [IWasteSoMuchTime](https://www.iwastesomuchtime.com/), [iFunny](https://ifunny.co/), [Imageboard Scraper](https://nik.bot.nu/), [KongouCheats](https://kongoucheats.com/) or [Wimp.com](https://www.wimp.com/) - Images, Videos, Memes & GIFs / Some NSFW
 * [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
 * [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
 * [DeviantArt](https://www.deviantart.com/) or [ArtStation](https://www.artstation.com/) - User-Made Art
+* [](https://swsteffes.itch.io/different-strokes) - Online User-Made Art Gallery
 * [SfwChan](http://boards.swfchan.net/) - SFW Archive
 * [SakugaBooru](https://www.sakugabooru.com/) - Image Booru
 * [IndieGameBooru](https://indiegame.booru.org/) - Indie Game Image Booru
 * [Random Screenshot](https://randomscreenshot.com/) or [Random Prnt.sc](https://chrishannah.me/prntsc/) - Random Screenshots
 * [Archillect](https://archillect.com/archive) - Image Posting Bot
+* [Listography](https://listography.com/), [Ranker](https://www.ranker.com/), [TheTopsTens](https://www.thetoptens.com/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
 * [DreamWidth](https://www.dreamwidth.org/) - User-Made Images & Stories
 * [Posting.Cool](https://posting.cool/) - Random Topic Forum
 * [4chan](https://4chan.org/), [Afternoon](https://afternoon.dynu.com/), [Crystal.cafe](https://crystal.cafe/) or [Bus Stop](https://bus-stop.net/) - Anonymous Text / Image Boards
@@ -276,6 +280,7 @@
 * [MakeMyCocktail](http://makemycocktail.com/) - Create Custom Cocktails
 * [Drinkify](http://drinkify.org/) - Picks Drinks Based on Songs
 * [Activity Suggestion](https://www.activitysuggestion.com/), [Things to Do](https://randomthingstodo.com/), [TheZen](https://thezen.zone/) or [bored.solutions](https://bored.solutions/) - Activity Suggestions
+* [Tapology](https://www.tapology.com/) - Make MMA Fight Picks
 * [Human Benchmark](https://humanbenchmark.com/) - Brain Games & Cognitive Tests 
 * [David.li](http://david.li/) - Physics Games
 * [DriveMeInsane](http://drivemeinsane.com/) - Control a Home Automation System
@@ -293,7 +298,7 @@
 * [Brickit](https://brickit.app/) - Scan Lego Collection for Build Ideas
 * [Building Instructions](https://www.lego.com/en-us/service/buildinginstructions) - Download Lego Instructions
 * [Outside Simulator](https://outsidesimulator.com/) - Simulate Being Outside 
-* [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [CityWalks](https://citywalks.live/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulator
+* [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [CityWalks](https://citywalks.live/), [Explordle](https://www.explordle.com/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulator
 * [Matterport](https://matterport.com/gallery) - Explore Real Places Digitally
 * [Heygo](https://www.heygo.com/) - Live Interactive Virtual Tours
 * [stringers.live](https://stringers.live/) - Live Freelance Journalist Streams
@@ -360,7 +365,8 @@
 * [The Office Stare Machine](http://theofficestaremachine.com/) - The Office Video Emotions 
 * [Endless Summer Times](https://times.endlessvmmer.com/) - Retro Summer Vibe News Archive
 * [Skynet](http://pierrepapierciseaux.net/.skynet/?lang=en) - View Websites like they're from the 90's
-* [Toonami Remastered](https://www.toonamiremastered.com/) - Remastered Toonami Content 
+* [Toonami Remastered](https://www.toonamiremastered.com/) - Remastered Toonami Content
+* [SongMeanings](https://songmeanings.com/) - Discover Song Meanings
 * [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - Pop Song Recognition Test
 * [Are you the asshole?](https://areyoutheasshole.com/) - Have an AI Judge Your Decisions
 * [Judge My Music](https://pudding.cool/2020/12/judge-my-spotify/) - Have an AI Judge Your Taste in Music
@@ -494,7 +500,7 @@
 * [AfterTheTone](https://afterthetone.com/) - Random Answering Machine Messages
 * [Gravity Points](https://codepen.io/akm2/full/rHIsa) or [dmilin1](https://dmilin1.github.io/PrincipiaJS/build/index.html) - Play with Gravity 
 * [bongo.cat](https://bongo.cat/) - Become Bongo Cat 
-* [Plink](http://dinahmoelabs.com/plink/) - Multiplayer Music Maker
+* [Plink](https://plink.in/) / [2](http://dinahmoelabs.com/plink/) - Multiplayer Music Maker
 * [The Endless Acid Banger](http://www.vitling.com/toys/acid-banger/) - Endless Autogenerated Song
 * [Typatone](https://www.typatone.com/) - Play Music by Typing 
 * [Drawing Garden](https://drawing.garden/) - Create Sounds from Mouse Movement
@@ -516,6 +522,7 @@
 * [Purrli](https://purrli.com/) - Cat Purr Generator 
 * [BumpWorthy](https://www.bumpworthy.com/) - Adult Swim Bumps 
 * [BirdSounds](https://experiments.withgoogle.com/ai/bird-sounds/view/) - Thousands of Bird Sounds Visualized 
+* [SaveTheSounds](http://savethesounds.info/) - Museum of Endangered Sounds
 * [Google Doodles](https://www.google.com/doodles?q=interactive) - Interactive Google Doodles
 * [elgooG](https://elgoog.im/) - Google Easter Egg Archive
 * [Internet Map](http://internet-map.net/) - Map of the Internet
@@ -561,7 +568,8 @@
 * [Cursor Car](https://papercookies.itch.io/cursor-car) - Play with Car Cursor 
 * [Pornolize](https://pornolize.com/) - Make Inappropriate Versions of Webpages 
 * [Just a Minute](https://jinay.dev/just-a-minute/) - Estimate a Minute
-* [Checkboxes](http://www.jezzamon.com/checkboxes/index.html) - Check Boxes 
+* [Checkboxes](http://www.jezzamon.com/checkboxes/index.html) - Check Boxes
+* [The Owen Wilson Wow API](https://owen-wilson-wow-api.herokuapp.com/) - Owen Wilsons "wow" API
 * [The Nut Button](https://apps.apple.com/gb/app/the-official-nut-button-meme/id1462124556) - You press the Button, it says Nut
 * [Make-A-Wish Foundation](https://discord.gg/pZZ3STQZ9Y) - 100% Real Make-A-Wish
 * [ChrisMckenzie](https://chrismckenzie.com/) - :D D:
@@ -580,7 +588,7 @@
 * [Nestflix](https://nestflix.fun/) - Fictional Media in Media Database
 * [Vintage Ad Browser](http://www.vintageadbrowser.com/) - 100,000+ Vintage Advertisements 
 * [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - Japanese Commercial Archive
-* [info.cern](http://info.cern.ch/) - First Website on the Internet 
+* [info.cern](http://info.cern.ch/) - First Website on the Internet
 * [Worlds Highest Website](https://worlds-highest-website.com/) - Worlds Longest Website
 * [Long Doge Challenge](https://longdogechallenge.com/) - Worlds Longest Doge
 * [Endless Horse](http://endless.horse/) - Worlds Longest Horse
@@ -591,12 +599,12 @@
 * [IdiotProofWebsite](http://idiotproofwebsite.com/)
 * [TheMostAmazingWebsiteOnTheInternet](http://www.themostamazingwebsiteontheinternet.com/) - The Internets Best Website
 * [MotherFuckingWebsite](http://motherfuckingwebsite.com/), [BetterMotherFuckingWebsite](http://bettermotherfuckingwebsite.com/), [EvenBetterMotherFuckingWebsite](https://evenbettermotherfucking.website/) or [TheBestMotherFuckingWebsite](https://thebestmotherfuckingwebsite.co/)
-* [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/) 
-* [isitnight](https://www.isitnight.com/) - Determine if it is night 
-* [ThisSiteSaysOtherwise](https://thissaysotherwise.org/) - Otherwise.
+* [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/)
+* [isitnight](https://www.isitnight.com/) - Determine if its Night
+* [ThisSiteSaysOtherwise](https://thissaysotherwise.org/) - Otherwise
 * [The Pug in the Rug](https://puginarug.com/) - Watch the Pug be in the Rug
 * [DownloadMoreRam](https://downloadmoreram.com/) - Download More Ram
-* [Watching Grass Grow](https://www.watching-grass-grow.com/) - Watch Grass Grow.
+* [Watching Grass Grow](https://www.watching-grass-grow.com/) - Watch Grass Grow
 * [aaaaa](https://github.com/dkter/aaaaa) - "a" only keyboard
 * [aaaaaa.....](http://aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/) - Make URL's longer
 
@@ -631,18 +639,19 @@
 * [Latest Privacy](https://latestprivacy.org/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - Privacy News
 * [Talos Blog](https://blog.talosintelligence.com/) - CyberSecurity News
 * [We Fight Censorship](http://3kyl4i7bfdgwelmf.onion/) or [Netblocks](https://netblocks.org/) - Censorship News
+* [CBM](https://comicbookmovie.com/) - Comic, Movie & TV News
 * [Tudum](https://www.netflix.com/tudum) - Netflix News
 * [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
 * [Anime Corner](https://animecorner.me/) - Anime / Manga News
 * [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - Dark Web News
 * [Interactive News Map](https://usa.liveuamap.com/) - Geolocated News Alerts / Headlines U.S 
-* [Forekast](https://forekast.com/) - Worldwide Event Calendar 
+* [Forekast](https://forekast.com/) or [Progress](https://neal.fun/progress/) - Worldwide Event Calendars
 * [Nikkei Asia](https://asia.nikkei.com/) - Asian News
-* [China Daily Global](http://www.chinadailyglobal.com/) or [China Daily Asia](https://www.chinadailyasia.com/ ) - Chinese News
+* [China Daily Global](http://www.chinadailyglobal.com/) or [China Daily Asia](https://www.chinadailyasia.com/) - Chinese News
 * [MFA](https://www.mfa.gov.cn/eng/) - Ministry of Foreign Affairs of the People's Republic of China
 * [Legislation.gov](https://www.legislation.gov.uk/) - British Law News
-* [RT News](https://t.me/rtnews ) - Russian News
-* [SciURLs](https://sciurls.com/) or [LiveScience](https://livescience.com/) - Science News
+* [RT News](https://t.me/rtnews) - Russian News
+* [SciURLs](https://sciurls.com/), [NewScientist](https://www.newscientist.com/), [Nature.com](https://www.nature.com/), [Science.org](https://www.science.org/), [PopSci](https://www.popsci.com/) or [LiveScience](https://livescience.com/) - Science News
 * [MathURLs](https://mathurls.com/) - Math News
 * [DevURLs](https://devurls.com/) - Developer News
 * [TuxURLs](https://tuxurls.com/) - Linux News
@@ -672,35 +681,42 @@
 * [Cook Bookshelf](https://t.me/cook_bookshelf) - Cookbooks / Telegram
 * [Southern Cookbook](https://archive.org/details/southerncookbook00lustrich/) - Cookbook Southern
 * [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
-* [SuperCook](https://www.supercook.com/) - Recipe Search 
-* [MyFridgeFood](https://www.myfridgefood.com/) - Recipe Search 
-* [Epicurious](https://www.epicurious.com/) - Recipe Search 
-* [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search 
+* [SuperCook](https://www.supercook.com/) - Recipe Search
+* [MyFridgeFood](https://www.myfridgefood.com/) - Recipe Search
+* [Epicurious](https://www.epicurious.com/) - Recipe Search
+* [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search
 * [RecipeRadar](https://www.reciperadar.com/) - Recipe Search
 * [Recipe Retrieve](https://reciperetrieve.com/) - Recipe Search
-* [Stovetop](https://stovetop.app/) - Recipe Search 
+* [Stovetop](https://stovetop.app/) - Recipe Search
 * [DotNom](http://www.dotnom.com/) - Recipe Search
 * [SuperCook](https://supercook.com/) - Recipe Search
 * [Yummly](https://www.yummly.com/) - Recipe Search
-* [Recipeeper](https://www.recipeeper.com/) - Dietary Based Recipes 
-* [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - Food Image to Recipe Tool 
-* [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map 
+* [Recipeeper](https://www.recipeeper.com/) - Dietary Based Recipes
+* [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - Food Image to Recipe Tool
+* [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
 * [Cooking YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cooking_youtube_channels)
-* [GrowStuff](https://www.growstuff.org/) - Food Growing Info / Tools 
-* [Awesome Food](https://github.com/jzarca01/awesome-food) - Cooking Tools Index 
-* [CookingForEngineers](http://www.cookingforengineers.com/) - Recipes / Cooking Tests 
-* [ReluctantGourmet](https://www.reluctantgourmet.com/) - Recipes / Tutorials 
-* [How2Heroes](http://how2heroes.com/) - Recipes 
-* [All Recipes](https://www.allrecipes.com/) - Recipes 
-* [Just the Darn Recipe](https://justthedarnrecipe.com/) - Recipes 
-* [theSkullery](https://theskullery.net/) - Recipes 
+* [GrowStuff](https://www.growstuff.org/) - Food Growing Info / Tools
+* [Awesome Food](https://github.com/jzarca01/awesome-food) - Cooking Tools Index
+* [CookingForEngineers](http://www.cookingforengineers.com/) - Recipes / Cooking Tests
+* [ReluctantGourmet](https://www.reluctantgourmet.com/) - Recipes / Tutorials
+* [How2Heroes](http://how2heroes.com/) - Recipes
+* [All Recipes](https://www.allrecipes.com/) - Recipes
+* [Just the Darn Recipe](https://justthedarnrecipe.com/) - Recipes
+* [theSkullery](https://theskullery.net/) - Recipes
 * [Curlie Cooking](https://curlie.org/en/Home/Cooking/) - Recipes 
 * [PunchFork](https://www.punchfork.com/) - Recipes
 * [Based Cooking](https://based.cooking/) - Recipes
 * [BHG](https://www.bhg.com/recipes/) - Recipes
 * [TheCookingGinn](http://www.thecookinginn.com/) - Recipes
 * [Bon Appétit](https://www.bonappetit.com/) - Recipes
+* [FoodGawker](https://foodgawker.com/) - Recipes
 * [101Cookbooks](https://www.101cookbooks.com/) - Recipes
+* [SimplyRecipes](https://www.simplyrecipes.com/) - Recipes
+* [MyRecipes](https://www.myrecipes.com/) - Recipes
+* [JustAPinch](https://www.justapinch.com/) - Recipes
+* [Cooks](https://www.cooks.com/) - Recipes
+* [Food.com](https://www.food.com/recipe) - Recipes
+* [BBC Good Food](https://www.bbcgoodfood.com/recipes) - Recipes
 * [Food Network Recipes](https://www.foodnetwork.com/recipes) - Recipes
 * [1337-Noms-The-Hacker-Cookbook](https://hacker-cookbook.herokuapp.com/) - Recipes 
 * [CookBook](https://github.com/jlinder/cookbook) - Recipes 
@@ -721,12 +737,12 @@
 * [FarmlandFoods](https://www.farmlandfoods.com/recipes/) - Recipes
 * [RecipeLand](https://recipeland.com/) - Recipes
 * [Budget Bytes](https://www.budgetbytes.com/) - Cheap Recipes
-* [What the Fuck Should I Make for Dinner?](http://www.whatthefuckshouldimakefordinner.com/) - Random Recipes 
-* [Dish Dragon AI](https://www.dishdragon.ai/) - Find Ingredients That Go Well Together 
-* [Edamam](https://developer.edamam.com/) - Food-Related APIs 
-* [Recipe Puppy](http://www.recipepuppy.com/about/api/) - Recipe API 
-* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course 
-* [tacofancy](https://github.com/sinker/tacofancy) - Taco Recipes 
+* [What the Fuck Should I Make for Dinner?](http://www.whatthefuckshouldimakefordinner.com/) - Random Recipes
+* [Dish Dragon AI](https://www.dishdragon.ai/) - Find Ingredients That Go Well Together
+* [Edamam](https://developer.edamam.com/) - Food-Related APIs
+* [Recipe Puppy](http://www.recipepuppy.com/about/api/) - Recipe API
+* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course
+* [tacofancy](https://github.com/sinker/tacofancy) - Taco Recipes
 * [AmazingRibs](https://amazingribs.com/) - Rib Recipes
 * [Bakerella](http://www.bakerella.com/) - Baking Recipes
 * [KingArthurBaking](https://www.kingarthurbaking.com/recipes) - Baking Recipes
@@ -747,13 +763,13 @@
 * [/r/Cooking](https://reddit.com/r/Cooking) - Cooking Discussion / Tips
 * [/r/GifRecipes](https://reddit.com/r/GifRecipes) - Recipes in GIF Format
 * [/r/recipes](https://reddit.com/r/recipes) - Share recipes
-* [/r/AskCulinary](https://reddit.com/r/AskCulinary) - Get Cooking Advice 
+* [/r/AskCulinary](https://reddit.com/r/AskCulinary) - Get Cooking Advice
 * [/r/IndianFood](https://reddit.com/r/IndianFood) - Indian Food Recipes / Tips
 * [Eat Jamacian](https://eatjamaican.com/recipes.html) - Jamaican Recipes
 * [Jamacian Recipe Rundown](http://worldstogethertravel.com/jamaica/recipe-rundown.htm) - Jamaican Recipes
 * [Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_recipes)
 * [Mealime](https://www.mealime.com/) - Meal Planning App
-* [Still Tasty](https://www.stilltasty.com/) or [EatByDate](http://www.eatbydate.com/) - Shelf Life Guides 
+* [Still Tasty](https://www.stilltasty.com/) or [EatByDate](http://www.eatbydate.com/) - Shelf Life Guides
 * [Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png)
 * [Baking Calculators](https://bakingcalculators.com/) - Measurement System Conversion Calculators
 * [TasteJury](https://tastejury.com/) - Find Specific Dishes
@@ -774,6 +790,7 @@
 * [Awesome Health](https://github.com/lalaithan/awesome-health) - Health Resources Index
 * [healthgrades](https://www.healthgrades.com/right-care/health-content-a-z), [epocrates](https://online.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
 * [osh](https://www.osh.net/) - Occupational Health and Safety Resources
+* [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
 * [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-based Research
 * [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - Harvard University Health Website
 * [MyPlate](https://www.myplate.gov/) - Food Pyramid
@@ -823,6 +840,7 @@
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
 * [GoldenCheetah](https://www.goldencheetah.org/) - Biking Tracker
 * [Wandermap](http://www.wandermap.net/) - Hiking Routes
+* [HikerHerd](https://www.hikerherd.com/) - Hiking Gear Weight Manager
 * [MapMyWalk](https://www.mapmywalk.com/) - Walking Tracker
 * [RunnerUp](https://github.com/jonasoreland/runnerup) - Run Tracker
 * [Runmap](http://www.runmap.net/) - Running Routes
@@ -830,6 +848,7 @@
 * [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - Zombie Running Adventure Game
 * [Benefits of Good Posture](https://youtu.be/OyK0oE5rwFY) - Posture Importance Lesson
 * [StuffThatWorks](https://www.stuffthatworks.health/) - Chronic Condition Info / Treatments
+* [Tone-Deafness Test](https://www.themusiclab.org/quizzes/td) - Pitch Perception Test
 * [PainSpot](https://www.painspot.com/) - Pain Cause Identifier
 * [INCIDecoder](https://incidecoder.com/) - Skincare Ingredient Lists
 * [Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine) - Caffeine Calculator
@@ -859,6 +878,7 @@
 * [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics
 * [AS Resources](https://www.everydaybattle.com/resources/) - Ankylosing Spondylitis Resources
 * [Drip](https://bloodyhealth.gitlab.io) - Open Source E2EE Period Tracking App
+* [What Dogs Can Eat](https://www.pawmenow.com/what-dogs-can-eat/) - Search Safe Human Food for Dogs
 
 ***
 
@@ -915,6 +935,7 @@
 * [PeakFinder](https://www.peakfinder.org/) - Mountain Peak Map / Locator
 * [topo maps](http://www.onlinetopomaps.net/) - Topographic Maps
 * [OpenRailwayMap](https://www.openrailwaymap.org/) - Railway Map
+* [AbandonedRails](https://www.abandonedrails.com/) - Abandoned Railway Map
 * [Earth](https://earth.nullschool.net/) - Global Map of Wind, Weather, Ocean & Pollution Conditions
 * [Blitzortung](https://www.blitzortung.org/en/live_lightning_maps.php) - Thunderstorm and Lightning Maps
 * [SunCalc](https://www.suncalc.org/) or [MoonCalc](https://www.mooncalc.org/) - Sun & Moon Position / Phase Calculators 
