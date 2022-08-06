@@ -43,6 +43,7 @@
 * [Dashana](https://dashana.com/), [DataWrapper](https://www.datawrapper.de/), [RAWgraphs](https://app.rawgraphs.io/) / [GitHub](https://github.com/rawgraphs/rawgraphs-app) or [ParaView](https://github.com/Kitware/ParaView) - Data Visualization Tool
 * [Grocy](https://grocy.info/) - Grocery / Household Management Tool
 * [Volmarg](https://volmarg.github.io/) - Personal Management Tool
+* [WhoBrings](https://whobrings.com/) - Party Item Management Tool
 * [Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms) - Project Management Tools
 * [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
 * [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - Calendar & Scheduling Tools
@@ -52,19 +53,19 @@
 * [ievaphone](https://ievaphone.com/), [blacktel](https://www.blacktel.io/), [Citrustel](https://www.citrustel.com/) or [PopTox](https://www.poptox.com/) - Make Free Phone Calls
 * [Free-lookup](https://www.free-lookup.net/) - Phone # Lookup
 * [tuxi](https://github.com/Bugswriter/tuxi) - Question & Answer CLI
-* [Valuta EX](https://valuta.exchange/) - Currency Converter
-* [WorldTaxiMeter](https://www.worldtaximeter.com/) - Taxi Fare Calculator
-* [Carbon Independent](https://www.carbonindependent.org/) - Carbon Footprint Calculator 
-* [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
+* [Carbon Independent](https://www.carbonindependent.org/) - Carbon Footprint Calculator
+* [Price Tracking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_price_tracking) - Price Tracking Sites / Apps
+* [OpenTable](https://www.opentable.com/) - Restaurant Reservation Search
+* [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Concerts / Music Festival Search
 * [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - Bedtime Calculator 
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - Bra Size Calculator
 * [The Sustainabilitist](https://sustainabilitist.com/) - Sustainability Resource Hub
-* [ActivityWatch](https://activitywatch.net/) - Automatically Track Device Activity / [Extensions](https://github.com/ActivityWatch/aw-watcher-web) 
+* [ActivityWatch](https://activitywatch.net/) - Automatically Track Device Activity / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)
 * [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity Booster / [Premium Unlock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cold_turkey_premium)
 * [Tempus](https://tempus.keziahmoselle.fr/), [ManicTime](https://www.manictime.com/), [Clockify](https://clockify.me/), [Pro Modoro](https://pro-modoro.xyz/) / [2](https://pomofocus.io/) or [Super-Productivity](https://github.com/johannesjo/super-productivity)  - Productivity Managers
 * [DogSheep](https://dogsheep.github.io/) - Personal Analytics Tools 
-* [Stretchly](https://hovancik.net/stretchly), [WorkRave](https://workrave.org/), [Take a Five](http://www.takeafive.com/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - Break Reminders / Trackers
-* [DoINeedAJacket](https://doineedajacket.com/weather/), [Weather.com](https://weather.com/), [DogeWeather](http://dogeweather.com/), [ClearOutside](https://clearoutside.com/), [ForcastAdvisor](https://www.forecastadvisor.com/) or [wttr](https://wttr.in/) - Weather Reports
+* [Stretchly](https://hovancik.net/stretchly), [WorkRave](https://workrave.org/), [Take a Five](http://www.takeafive.com/), [BreakMessage](https://breakmessage.com/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - Break Reminders / Trackers
+* [DoINeedAJacket](https://doineedajacket.com/weather/), [Weather.com](https://weather.com/), [DogeWeather](http://dogeweather.com/), [National Weather Service](https://www.weather.gov/), [ClearOutside](https://clearoutside.com/), [ForcastAdvisor](https://www.forecastadvisor.com/) or [wttr](https://wttr.in/) - Weather Reports
 * [IEMBot](https://weather.im/iembot/) - Weather Bot Monitor
 * [World Weather Online](https://www.worldweatheronline.com/) - Historical Weather Reports
 * [Cricket Convert](https://www.weather.gov/epz/wxcalc_cricketconvert) - Estimate Temperature via Cricket Chirps
@@ -106,8 +107,6 @@
 * [QR Tiger](https://www.qrcode-tiger.com/), [QRCodeMonkey](https://www.qrcode-monkey.com/), [Logaster](https://www.logaster.com/qr-code-generator/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - QR Code Creator
 * [My-Qr.art](https://my-qr.art/) or [qrcode-generator](https://www.logodesign.net/qrcode-generator) - Custom QR Code Creator 
 * [QRpicture](https://www.qrpicture.com/) - Picture to QR Code Converter
-* [SongKick](https://www.songkick.com/) - Find Local Concerts
-* [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
 * [findhelp.org](https://www.findhelp.org/) - Find Assistive Programs
 * [/r/Assistance](https://www.reddit.com/r/Assistance/), [/r/borrow](https://www.reddit.com/r/borrow/), [/r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) or [/r/Homeless](https://www.reddit.com/r/homeless/) - Assistance & Donation Subreddits
 * [Helpmap](https://helpmap.io/) - Nonprofit Donation Map 
@@ -139,7 +138,6 @@
 * [Calculist](https://calculist.io/) - Note Taking for Problem Solving
 * [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [App linked](https://uselinked.com/) / [GitHub](https://github.com/lostdesign/linked), [Gemlog](https://gemlog.blue/), [jrnl.sh](https://jrnl.sh/) or [journal-cli](https://v1.journalcli.app/) - Journal App
 * [Here and Now](https://here-and-now.glitch.me/) - Daily Reflections Journal
-* [Listography](https://listography.com/) - Create Lists of Anything
 * [Lyx](https://www.lyx.org/) - LaTeX Editor / [Guide](https://www.learnlatex.org/)
 * [Detexify](http://detexify.kirelabs.org/classify.html) - Handwritten LaTeX Symbol Recognition
 * [How To Use Excel](https://www.how-use-excel.com/) - Excel Tutorial
@@ -165,7 +163,7 @@
 * [Papyrus Author](https://www.papyrusauthor.com/) - Creative Writing Suite
 * [Seventh Sanctum](https://www.seventhsanctum.com/) - Fantasy Writing Generators
 * [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Fantasy Name Generators
-* [Lorem Ipsum Generator](https://apps.maximelafarie.com/lig/) or [Lorem Ipsum](https://www.lipsum.com/) - Generate Placeholder Text
+* [Lorem Ipsum Generator](https://apps.maximelafarie.com/lig/), [DevLorem](https://github.com/Kovah/DevLorem) or [Lorem Ipsum](https://www.lipsum.com/) - Generate Placeholder Text
 * [text-regenerator](https://github.com/jddunn/text-regenerator) - Replace Words with Synonyms
 * [Typoer](https://github.com/georgetian3/typoer) - Types Text with Typos / Corrections
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - Annotation Tools / Resources
@@ -179,6 +177,7 @@
 * [Poedit](https://poedit.net/) - Translation Editor
 * [OmegaT](https://omegat.org/) - Translation Memory Tool
 * [Project Naptha](https://projectnaptha.com/) - Image to Text Translator
+* [Lonliness Translate](https://loneliness.one/translate) - Re-translate Phrases
 * [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
 * [Delim](https://delim.co/) - Comma Separating Tool
 * [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - Create Parallel Text Web
@@ -268,6 +267,7 @@
 * **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)**  
 * [VideoTuts](http://videotuts.ru/) - Video Design Tutorials / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - Professional Video, Audio & Adobe Software / Plugins
+* [VFX Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vfx_sites) - Download Video Effects
 * [Free-Codecs](https://www.free-codecs.com/) - Codec Packs & Multimedia Tools
 * [VideoSmaller](https://www.videosmaller.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
 * [youtube-cld](https://github.com/anatolykopyl/youtube-cdl) - Bulk YouTube Channel Downloader
@@ -374,8 +374,6 @@
 * [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players 
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - Nico Nico Video Player
 * [polsy.org.uk](http://polsy.org.uk/) - Alt Players for Video Sites  
-* [After Effects Templates](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_after_effects_templates) - Download After Effect Templates
-* [FootageCrate](https://footagecrate.com/), [MATESFX](https://www.freevideoeffect.com/), [FreeVideoEffect](https://freevideoeffect.com/), [VideoCoPilot](https://www.videocopilot.net/), [IntroHD](https://www.introhd.net/), [VFXmed](https://www.vfxmed.com/) or [VFXDownload](https://www.vfxdownload.net/) - Video Effects
 * [Tyle](https://tyle.io/) - Photo Slideshow Video Maker
 * [Rollideo](https://rollideo.com/) - Text to Speech / Subtitles
 * [video2x](https://github.com/k4yt3x/video2x) - Video Upscaler
@@ -592,9 +590,9 @@
 
 ## ▷ Career Tools
 
+* **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
 * **[Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)** - Create Resumes for Free
 * [LoopCV](https://www.loopcv.pro/) - Automated Job Search Tool
-* [5000 Best Job Sites](http://5000best.com/websites/Jobs/) - Job Search Sites
 * [Toby Tools](https://rentry.co/qnu6x) - Job Search Tools
 * [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) - Successful Resume Samples
 * [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator 
@@ -606,7 +604,8 @@
 * [Interviews.school](https://interviews.school/) - Developer Interview Preparation Guide
 * [yangshun](https://github.com/yangshun/tech-interview-handbook) - Tech Interview Handbook 
 * [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
-* [Nomad List](https://nomadlist.com/) - Remote Work Listings
+* [Nomad List](https://nomadlist.com/) - Remote Job Listings
+* [RemoteWide](https://remotewide.co/) - Remote Job Notifications
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - Remote Job Resources
 * [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform Based Side Work 
 * [web3.career](https://web3.career/) - Web3 Job Offers
@@ -1603,7 +1602,7 @@ Twitch Stream Tracker
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC)  - PC Suggestion Community
 * [/r/PCMasterrace Wiki](https://www.reddit.com/r/pcmasterrace/wiki/builds/), [/r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [Logical Increments](https://www.logicalincrements.com/) - PC Building Guides / [Video](https://youtu.be/BL4DCEp7blY)
 * [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Laptop Deals](https://laptopsdeals.net/our-gaming-laptops-guide-list/), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
-* [r/TechSupport](https://www.reddit.com/r/techsupport/), [Windows 10 Forums](https://www.windowsphoneinfo.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/) or [Notebook Reviews](http://forum.notebookreview.com/) - Tech Support / [Discord](https://discord.gg/2EDwzWa) / [Wiki](https://rtech.support/books/)
+* [r/TechSupport](https://www.reddit.com/r/techsupport/), [Windows 10 Forums](https://www.windowsphoneinfo.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/), [TechSupportForum](https://www.techsupportforum.com/) or [Notebook Reviews](http://forum.notebookreview.com/) - Tech Support / [Discord](https://discord.gg/2EDwzWa) / [Wiki](https://rtech.support/books/)
 * [GetHuman](http://gethuman.com/) or [ContactFound](https://contactfound.com/) - Tech Support Numbers
 * [Technical City](https://technical.city/) - Hardware Comparisions
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
@@ -1674,7 +1673,7 @@ Twitch Stream Tracker
 * [Netdata](https://www.netdata.cloud/), [bottom](https://github.com/ClementTsang/bottom), [OpenHardwareMonitor](https://openhardwaremonitor.org/) / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor), [btop](https://github.com/aristocratos/btop) or [WinBar](http://www.winbar.nl/) - System Monitor
 * [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - Windows System Utilities / [Suite](https://www.microsoft.com/EN-US/p/app/9P7KNL5RWT25) 
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](http://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - Process Monitor
-* [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) - Process Killer
+* [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killer
 * [SpeedFan](http://www.almico.com/speedfan.php) or [SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - Hardware Monitor
 * [CoreTemp](https://www.alcpu.com/CoreTemp/) - Processor Temperature Monitor
 * [RunWithAffinity](https://www.majorgeeks.com/files/details/runwithaffinity.html) - Run Programs on Selected Core
@@ -1865,6 +1864,7 @@ Twitch Stream Tracker
 * [PowerShdll](https://github.com/p3nt4/PowerShdll) - Run PowerShell with rundll32
 * [LeanandMean](https://github.com/AveYo/LeanAndMean) - Powershell Snippets / Use with Caution
 * [PowerShell Scripts](https://github.com/fleschutz/PowerShell) - PowerShell Scripts
+* [PSReadLine](https://github.com/PowerShell/PSReadLine) - PowerShell Readline Implementation 
 * [SystemNightware](https://github.com/GossiTheDog/SystemNightmare) - Instant System Command Prompt
 * [Starship](https://starship.rs/) - Cross-Shell Prompt
 * [GNU Parallelel](https://www.gnu.org/software/parallel/) - Execute Commands / Scripts in Parallel using Multiple Computers 
@@ -2097,6 +2097,7 @@ Twitch Stream Tracker
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - HTTP File System
 * [FolderClone](http://www.folderclone.com/) - Clone / Backup Folders
 * [File Backup Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_backup_tools) - File / Data Backup Tools
+* [ShadowExplorer](https://www.shadowexplorer.com/) or [ShadowCopyView](https://www.nirsoft.net/utils/shadow_copy_view.html/) - Shadow Copy Explorers
 * [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) or [filebrowser](https://github.com/filebrowser/filebrowser/) - Web File Browser
 * [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/), [iStockFile](http://istockfile.com/ ) or [Securedrop](https://securedrop.org/) - Document File Sharing
 * [OpenPaper](https://openpaper.work/en/) or [DataShare](https://datashare.icij.org/) - Document Manager
