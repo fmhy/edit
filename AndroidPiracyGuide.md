@@ -146,7 +146,7 @@
 * [W10M Group](https://w10mgroup.github.io/) - Mobile Windows Tech Support
 * [Maemo](https://talk.maemo.org/) - Maemo OS Discussion / [Wiki](https://wiki.maemo.org/) / [Telegram](https://t.me/maemomeego), [2](https://t.me/meegoosinternational)
 * [SymbianOS](https://t.me/symbianos) - Symbian OS Discussion
-* [Will My Phone Work?](https://willmyphonework.net/) or [FrequencyCheck](https://www.frequencycheck.com/) - Phone Carrier Support Index 
+* [Will My Phone Work?](https://willmyphonework.net/) or [FrequencyCheck](https://www.frequencycheck.com/) - Phone Carrier Support Index
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
 * [MobileSpectrum](https://mobilespectrum.org/) - Mobile Network Spectrum by Country
 * [4G LTE Coverage](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b) - 4G LTE Coverage Map
@@ -172,6 +172,7 @@
 * [Root Checker](https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck) - Root Checker
 * [Android Tool](https://github.com/fast-geek/Android-Tool) - ABD / Fastboot Command Program
 * [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot&hl=en_IN) - Logcat / Dmesg Boot Animation
+* [PotatoNV](https://github.com/mashed-potatoes/PotatoNV) - Huawei Device Bootloader
 * [Amazing Temp Root](https://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - MediaTek Temp Root
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) - Debloat non-rooted Androids / [GUI](https://github.com/0x192/universal-android-debloater)
 * [Smali Patcher](https://forum.xda-developers.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
@@ -185,6 +186,7 @@
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - Ringtones Directory
 * [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Manager
 * [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) - App Themed Icons
+* [Arcticons](https://arcticons.onnno.nl/) - Monotone Icon Pack
 * [FreeBrowser ](https://freebrowser.org/) - Internet Censorship Circumvention / [Wiki](https://github.com/greatfire/wiki)
 * [InstantBridge](https://instabridge.com/) - Public WiFi Sharing Community
 * [Gnirehtet](https://github.com/Genymobile/gnirehtet) - Reverse Tethering
@@ -289,6 +291,7 @@
 * [Green Screens](https://play.google.com/store/search?q=green%20screen&c=apps) - Green Screens for Android
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/), [OwlGram](https://www.owlgram.org/), [Catogram X](https://github.com/CatogramX/CatogramX), [Telegraher](https://github.com/nikitasius/Telegraher/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - Telegram Client
 * [Uploadgram](https://github.com/Pato05/uploadgram-app) - Telegram File Upload
+* [Magic ToolFlash](https://www.xda-developers.com/magic-toolflash-magisk-module/) - ZIP Packages from Android
 * [icq](https://icq.com/) - Messaging App
 * [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Husky](https://git.mentality.rip/FWGS/Husky) or [Tusky](https://tusky.app/) - Mastodon Client 
 * [Blabber.im](https://f-droid.org/packages/de.pixart.messenger) - XMPP / Jabber Messenger
@@ -344,7 +347,7 @@
 * [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
 * [Clima](https://f-droid.org/en/packages/co.prestosole.clima/), [The Fucking Weather](https://alcohollick.com/the-fucking-weather), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux) or [GeometricWeather](https://github.com/geometric-weather-foss/GeometricWeather) - Weather App 
 * [Aftership](https://play.google.com/store/apps/details?id=com.aftership.AfterShip&hl=en&gl=US) - Package Tracker
-* [aiTTS](https://www.milmike.com/aitts-google-wavenet-voices-for-android-tts) - Text to Speech 
+* [aiTTS](https://www.milmike.com/aitts-google-wavenet-voices-for-android-tts) or [Madhur](https://madhur-ai.com/) - Text to Speech 
 * [Microsoft Edge Read Aloud](https://redd.it/l1fdh9) - How to use Microsoft Read Aloud TTS on Android 
 * [Copyhat](https://copyhat.com/) - AI Writing Tool
 * [Koler](https://github.com/Chooloo/koler) - Dialer App
@@ -447,6 +450,7 @@
 * [APKDL](https://apkdl.in/) - Untouched
 * [APKMonk](https://www.apkmonk.com/) - Untouched
 * [APK Fab](https://apkfab.com/) - Untouched
+* [Dreamsroom](https://dreamsroom.applinzi.com/) - Untouched
 * [Android APK](https://android-apk.org/) - Untouched / Modded 
 * [APKSum](https://www.apksum.com/) - Untouched / Modded 
 * [A2Z APK](https://a2zapk.com/) - Untouched / Modded  
