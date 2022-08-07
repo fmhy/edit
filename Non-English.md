@@ -503,7 +503,7 @@
 ## ▷ Downloading
 
 * [Mkv Cinemas](https://www.mkvcinemas.fi/) - Movies / TV 
-* [9xMovies](https://9xmovies.yoga/), [2](https://9xmovies.farm/) - Movies / TV 
+* [9xMovies](https://9xmovies.yoga/), [2](https://9xmovies.horse/) - Movies / TV 
 * [OlaMovies](https://olamovies.lol/) - Movies / TV / [Telegram](https://t.me/olamovies_official_v2) 
 * [VegaMovies](https://m.vegamovies.lol/) - Movies / [Telegram](https://t.me/Vegamoviesgroup2)
 * [MoviesVerse](https://moviezverse.com/) - Movies / TV / [Telegram](https://t.me/moviesflixverse) 
@@ -557,6 +557,7 @@
 * [HindiLover](https://hindilover.biz/) - TV
 * [Filmywap](https://www.filmywap.com/) - Movies / TV
 * [OkJatt](https://okjatt.work/) - Movies / TV
+* [WatchOnlineMovies88](https://watchonlinemovies88.com.pk/) - Movies
 * [TVBolly](https://www.tvbollypro.com/) - Movies / TV
 * [Watch Movies Online](https://www.watchonlinemovies15.com.pk/) - Movies
 * [Desi Serials](https://www.desiserials.tv/) - Movies / TV / Live
@@ -1855,7 +1856,7 @@
 * [Pendujatt](https://www.pendujatt.net/) - Download / Music
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Download / Music
 * [Cinevez](https://cinevez.ws/) - Torrent / Download / Streaming / Movies
-* [TamilBlasters](https://tamilblasters.art/) - Torrent / Movies
+* [TamilBlasters](https://tamilblasters.cloud/) - Torrent / Movies
 * [TamilMV](https://www.1tamilmv.golf/) - Torrent / Movies
 * [indianebooks](https://t.me/indianebooks) - Books
 * [Digital Library of India](https://dli.sanskritdictionary.com) - Books
