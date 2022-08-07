@@ -339,8 +339,8 @@
 * [Stark](https://www.getstark.co/), [deque](https://www.deque.com/axe/), [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [Achecker](https://achecker.ca/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [tota11y](https://khan.github.io/tota11y/) - Accessibility Evaluation Tools
 * [Contraste](https://contrasteapp.com/) - Test Text for Accessibility
 * [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
+* [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) - Site Accessibility Guidelines
 * [CookieMetrix](https://www.cookiemetrix.com/) - EU Cookie Law Test
-* [Hex Naw](https://hexnaw.com/) or [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable) - Test Color Contrast for Accessibility
 * [Color Oracle](https://colororacle.org/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Test
 * [Am I Responsive](http://ami.responsivedesign.is/) - Responsive Design Checker
 * [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) - Compare Website Performance
@@ -484,6 +484,7 @@
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - Captcha Systems
 * [Democaptcha](http://democaptcha.com/demo-form-eng/hcaptcha.html) or [ReCAPTCHA Demo](https://www.google.com/recaptcha/api2/demo) / [GitHub](https://patrickhlauke.github.io/recaptcha/) - Captcha Demo's
 * [SuperTokens](https://supertokens.com/) - User Authentication
+* [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
 * [Discuzz](https://github.com/discuzz-app/discuzz) - Open Source Comment System
 * [DaButtonFactory](http://dabuttonfactory.com/) or [ButtonOptimizer](http://buttonoptimizer.com/) - Button Generator
 * [GetButton](https://getbutton.io/) - Get free 'Message Us' Button for your Site
@@ -580,7 +581,7 @@ Automated Incident Response and Forensics Framework
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - HTTP Proxy
 * [BugSnag](https://www.bugsnag.com/) - Application Stability Monitor
 * [98.css](https://jdan.github.io/98.css/) - Build Windows 98 Themed Interfaces / [GitHub](https://github.com/jdan/98.css)
-* [Radare](https://rada.re/r/), [Flare IDA](https://github.com/mandiant/flare-ida), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://github.com/rizinorg/cutter) - Reverse Engineering 
+* [Radare](https://rada.re/r/), [Flare IDA](https://github.com/mandiant/flare-ida), [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://github.com/rizinorg/cutter) - Reverse Engineering 
 * [aarch64-sysreg-ida](https://github.com/TrungNguyen1909/aarch64-sysreg-ida) - IDA Plugin to View Armv8 MSRs
 * [Kubeorbit](https://github.com/teamcode-inc/kubeorbit) - Application Testing / Debugging
 * [Redis](https://redis.io/) - Key-Value Database
@@ -769,9 +770,10 @@ Automated Incident Response and Forensics Framework
 * [Separator Generator](https://wweb.dev/resources/css-separator-generator/) - CSS Separator Generator CSS
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - Organic CSS Shape Generator
 * [BestCSSButtonGenerator](https://www.bestcssbuttongenerator.com/) - CSS Button Generator
-* [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds), [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://gradienta.io/), [GradientMagic](https://www.gradientmagic.com/), [heropatterns](https://heropatterns.com/), [thepatternlibrary](http://thepatternlibrary.com/), [CSSGradient](https://cssgradient.io/) or [uigradients](https://uigradients.com/) - CSS Patterns / Gradients 
+* [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds), [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://gradienta.io/), [GradientMagic](https://www.gradientmagic.com/), [heropatterns](https://heropatterns.com/), [thepatternlibrary](http://thepatternlibrary.com/), [Color Morph](https://www.color-morph.com/), [CSSGradient](https://cssgradient.io/) or [uigradients](https://uigradients.com/) - CSS Patterns / Gradients
 * [CSSLayout](https://csslayout.io/) - CSS Layouts
 * [Gradient Animator](https://www.gradient-animator.com/) - Animated CSS Gradient Generator
+* [LCH Colour Picker](https://css.land/lch/) - CSS Color Picker
 * [Animista](https://animista.net/), [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) or [Woah.css](https://www.joerezendes.com/projects/Woah.css/) - CSS Animations
 * [Glass UI](https://ui.glass/generator/) - Glassmorphism CSS Generator
 * [css2scss](https://sebastianpontow.de/css2compass/) - CSS to SCSS Converter 
@@ -892,7 +894,7 @@ Automated Incident Response and Forensics Framework
 * [Paletton](https://paletton.com/) - Color Scheme Designer
 * [Duo](https://duo.alexpate.uk/) - Color Combinations
 * [PaletteGenerator](https://palettegenerator.com/) or [Alwane](https://alwane.io/) - Color Palette Extractor
-* [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) - Accessible Color Pallette Builder
+* [Hex Naw](https://hexnaw.com/), [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable), [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) or [Accessible Brand Colors](https://abc.useallfive.com/) - Accessible Color Pallette Builders
 * [Simpler Color](https://github.com/arnelenero/simpler-color) - Create Web Color System
 * [ColorZilla](https://www.colorzilla.com/) - Color Picker, Gradient Generator & more
 * [Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers) - Extract Color from Pictures / Webpages
@@ -1111,6 +1113,7 @@ Automated Incident Response and Forensics Framework
 * [bloop](https://bloop.ai/) - IDE AI Suggestion Extension
 * [glot.io](https://glot.io/) - Pastebin with Runnable Snippets, API & Compiler 
 * [Mystb.in](https://mystb.in/) - Code Pastebin
+* [Fig](https://fig.io/) - IDE-Style Autocomplete for Terminal
 * [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [IDE One](https://www.ideone.com/) or [Wandbox](https://wandbox.org/) - Online Compiler 
 * [Notebooks.azure](https://notebooks.azure.com/) - Access Jupyter notebooks 
 * [CoCalc](https://cocalc.com/) - Virtual online workspace
