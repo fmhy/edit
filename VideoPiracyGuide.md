@@ -27,16 +27,18 @@
 * **[PrivateHD](https://www.privatehd.xyz/)** - Movies / TV
 * [PtFlixMovies](https://ptflixmovies.xyz/) - Movies / TV / Anime
 * [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
-* [C1NE](https://c1ne.co/) - Movies / TV 
+* [C1NE](https://c1ne.co/) - Movies / TV
 * [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - Movies / TV
-* [Movies.cf](https://movies.cf/Landing) - Movies
 * [OpenloadMovies](https://openloadmov.net/) or [Yify TV](https://yify.plus/ ) - Movies / TV
+* [Movies.cf](https://movies.cf/Landing) - Movies
+* [Mov.onl](https://www.mov.onl/) - Movies / TV
 * [Tubi](https://tubitv.com) - Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
 * [Plex](https://watch.plex.tv/) - Movies / TV
 * [arthemis](https://web.arthemis.xyz/) - Movies / TV / Anime / App / [Discord](https://discord.gg/98HxbfjKQV)
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime
 * [NetU](https://netu.io/view_page.php?pid=4) - Movies / TV / / Anime / [Search](https://i.imgur.com/SiYyosZ.mp4) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)
 * [oSee](https://osee.in) - Movies / TV / Anime / [Unlock HD](https://pastebin.com/hxdq1uFi)
+* [FreeTubeSpot](https://www.freetubespot.com/) - Movies
 * [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime
 * [SockShare](http://sockshare.ac/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones) / Use Adblock
 * [162.12.215.254](http://162.12.215.254/) - Movies
@@ -155,9 +157,10 @@
 * [YesMovies.id](https://yesmovies.id/) - Movies / TV / Anime
 * [Cinehub](https://cinehub.wtf/) - Movies / TV / [Discord](https://discord.com/invite/ZqHsfSEkBE)
 * [Flenix](https://flenix.net/) - Movies / TV / Anime 
-* [HDFull](https://hdfull.lv/) - Movies / TV / Anime 
+* [HDFull](https://hdfull.lv/) - Movies / TV / Anime
 * [VidEmbed](https://vidembed.cc/) - Movies / TV / Anime 
 * [FreeGreatMovies](https://www.freegreatmovies.com/)
+* [StreamPredator](https://www.streampredator.online/) - Movies / TV / Anime
 * [123Chill](https://123chill.to/) - Movies / TV / Anime
 * [123MoviesJR](https://123moviesjr.cc/) - Movies / TV
 * [123Moviesd](https://123moviesd.com/) - Movies / TV
@@ -361,7 +364,7 @@
 * [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
 * [KissAsian](https://kissasian.li/), [2](https://kissasian.ac/), [3](https://kissasian.es/), [4](https://kissasian.pe/) - TV
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
-* [DramaCool](https://www5.dramacool.sk/), [dramacool9](https://www.dramacool9.co/) or [WatchAsian](https://watchasian.sh/) - TV / Movies
+* [DramaCool](https://www5.dramacool.sk/), [dramacool9](https://www.dramacool9.co/) or [WatchAsian](https://watchasian.pe/) - TV / Movies
 * [DramaDay](https://dramaday.net/) - TV 
 * [icdrama](http://www1.hkdrama.to/) - TV / Movies 
 * [FastDrama](http://fdrama.net/) - TV / Movies
@@ -370,6 +373,7 @@
 * [ODrama](http://odrama.net/) - TV / Movies
 * [NewTVDrama](https://www.newtvdrama.com/) - TV / Movies
 * [ADrama](http://www1.adrama.to/) - TV / Movies
+* [AsiaFlix](https://asiaflix.app/) - TV / Movies
 * [asianload](https://asianload.cc/) - TV / Movies
 * [Viki](https://www.viki.com/) - TV / Movies
 * [KDramaHood](https://kdramahood.com/home2/) - TV / Movies
@@ -526,7 +530,8 @@
 * [Soccer Streams](https://socceronline.me/) - Soccer
 * [Vebo](https://vebotv.top/) - Soccer
 * [Egylive](https://egylive.online/) - Soccer / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [Cyfo Streams](http://www.cyfostreams.com/) - Cycling & Soccer
+* [LaCasadelTikiTaka](https://www.lacasadeltikitaka.tv/) - Soccer / MMA
+* [Cyfo Streams](http://www.cyfostreams.com/) - Soccer / Cycling
 * [NHLstream](https://www.nhlstream.net/) - NHL
 * [NHL Streams](https://reddit.nhlstream.nu/) - NHL
 * [NHL66](https://nhl66.ir/) - NHL
@@ -632,7 +637,7 @@
 * [Moviessss](https://download-moviesss.herokuapp.com/?filter=Hollywood) - Movies
 * [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime
 * [O2TVSeriesz](https://o2tvseriesz.com/) - Movies / TV
-* [Privatemoviez](https://privatemoviez.org/) - Movies / TV
+* [Privatemoviez](https://privatemoviez.co/) - Movies / TV
 * [SkyMoviesHD](https://skymovieshd.news/category/Hollywood-English-Movies.html) - Movies
 * [HDFriday](https://hdfriday.com/category/download-hollywood-movies/) - Movies
 * [MoviesDownloadHub](https://moviesdownloadhub.com/category/hollywood/) - Movies / TV
