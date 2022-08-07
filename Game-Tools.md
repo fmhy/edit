@@ -407,7 +407,7 @@
 * [Switch Guide](https://nh-server.github.io/switch-guide/), [Switch.Homebrew](https://switch.homebrew.guide/) or [SWITCHWAY](https://switchway.xyz/) - Switch Homebrew Guide
 * [Nintendo Homebrew](https://discord.com/invite/C29hYvh) - 3DS / Switch Homebrew Community
 * [SDSetup](https://github.com/noahc3/SDSetup) - Nintendo Switch SD Setup
-* [WiiBrew](https://wiibrew.org/) or [Wii Guide](https://wii.guide/) - Wii Homebrew Guides
+* [WiiBrew](https://wiibrew.org/),  [Wii Softmod Guide](https://sites.google.com/site/completesg) or [Wii Guide](https://wii.guide/) - Wii Homebrew Guides
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
 * [RiiConnect24](https://rc24.xyz/) - WiiConnect24 Replacement
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - NES, SNES & Playstation Mods
@@ -429,7 +429,6 @@
 * [emuiibo](https://github.com/XorTroll/emuiibo) - Amiibo Emulator
 * [All Amiibo Bin Files](https://redd.it/mlvfak) - Amiibo Bin Files
 * [Easy Guide to Making Amiibo](https://redd.it/5ywlol) - How-to Make Your Own Amiibo
-* [Wii Softmod Guide](https://sites.google.com/site/completesg) - How to softmod your Wii
 
 *** 
 
