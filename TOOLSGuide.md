@@ -104,7 +104,7 @@
 * [EasyEDA](https://easyeda.com/editor) - Electronic Circuit Design Tool
 * [TemplateMaker](https://www.templatemaker.nl/) - Package & Box Templates
 * [WebQR](https://www.webqr.com/) - QR Code Scanner
-* [QR Tiger](https://www.qrcode-tiger.com/), [QRCodeMonkey](https://www.qrcode-monkey.com/), [Logaster](https://www.logaster.com/qr-code-generator/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - QR Code Creator
+* [QR Tiger](https://www.qrcode-tiger.com/), [QRCodeMonkey](https://www.qrcode-monkey.com/), [Logaster](https://www.logaster.com/qr-code-generator/), [editorgapp](https://editorgapp.com/html), [qr-code-generator](https://mention.com/en/qr-code-generator/), [qr_code_generator](https://www.nirsoft.net/utils/qr_code_generator.html) or [QR Code Generator](https://www.the-qrcode-generator.com/) - QR Code Generators
 * [My-Qr.art](https://my-qr.art/) or [qrcode-generator](https://www.logodesign.net/qrcode-generator) - Custom QR Code Creator 
 * [QRpicture](https://www.qrpicture.com/) - Picture to QR Code Converter
 * [findhelp.org](https://www.findhelp.org/) - Find Assistive Programs
@@ -226,11 +226,8 @@
 * [xeuledoc](https://github.com/Malfrats/xeuledoc) - Fetch Information about Public Google Documents
 * [Useless-Translator](https://vcjhwebdev.github.io/useless-translator/) - Morse Code / Binary Translator 
 * [Infinite Story](https://infinite-story.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Story Writing
-* [Textanim](https://textanim.com/) or [Space Type Generator](https://spacetypegenerator.com/) - Animated Text Generator 
-* [Text Color Fader](http://patorjk.com/text-color-fader) - Rainbow Text Generator
 * [Podpis](https://podpis-online.ru/) - Signature Generator
-* [Signaturely](https://signaturely.com/) - Get Documents Digitally Signed
-* [TextGiraffe](http://www.textgiraffe.com/) - Text / Logo Generator 
+* [Signaturely](https://signaturely.com/) or [SignFree](https://signfree.io/) - Get Documents Digitally Signed
 * [Polona Typo](http://typo.polona.pl/en/) - Create Text out of Book, Poster & Map Letters 
 * [The Death Generator](https://deathgenerator.com/) - Video Game Text Generator 
 * [Pixel Speech Bubble](https://pixelspeechbubble.com/) - Create Pixel Speech Bubbles 
@@ -374,7 +371,7 @@
 * [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players 
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - Nico Nico Video Player
 * [polsy.org.uk](http://polsy.org.uk/) - Alt Players for Video Sites  
-* [Tyle](https://tyle.io/) - Photo Slideshow Video Maker
+* [Tyle](https://tyle.io/) or [Phideo](https://www.phideo.co.uk/) - Photo Slideshow Video Maker
 * [Rollideo](https://rollideo.com/) - Text to Speech / Subtitles
 * [video2x](https://github.com/k4yt3x/video2x) - Video Upscaler
 * [Anime4K](https://github.com/bloc97/Anime4K) - Anime Video Upscaler 
@@ -680,6 +677,7 @@
 * **[Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_services)** - Email Sites with a Focus on Privacy
 * **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - Create Temporary Email Addresses
 * **[Site Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_site_development)** - Site Development & Hosting Tools
+* **[Emojipedia](https://emojipedia.org/)**, [EmojiBatch](https://www.emojibatch.com/) or [GetEmoji](https://getemoji.com/) - Emoji Index
 * [Yandex Disk](https://disk.yandex.com/), [VK WorkSpace](https://biz.mail.ru/) or [OpenDesktop](https://www.opendesktop.org/) - Multiple Cloud Services 
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
 * [Nativefier](https://github.com/nativefier/nativefier) - Turn Sites into Desktop Apps
@@ -727,7 +725,6 @@
 * [Cloaking Company](https://www.cloakingcompany.com/) - Create Alogorith Pleasing Social Media Posts
 * [4stats](https://4stats.io/) - 4chan Board & Thread Stats
 * [Emotes Everywhere](https://kellphy.com/projects/kee.html), [GenieEmoji](https://github.com/virejdasani/Geniemoji), [winMoji](https://www.winmoji.com/) or [Geniemoji](https://virejdasani.github.io/Geniemoji/) - Emoji Manager
-* [Emojipedia](https://emojipedia.org/) or [GetEmoji](https://getemoji.com/) - Emoji Index
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
 * [you-get](https://github.com/soimort/you-get) - Download Media Contents from Webpages 
@@ -1035,6 +1032,7 @@
 * [tny.im](http://tny.im) - `tny.im/rw-`
 * [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
 * [offf.to](https://offf.to/) - Short Links via Browser
+* [ThisDay](https://thisday.link/) - Temporary Short Links
 * [Anonymiz](https://anonymiz.com/shorten-url) - Anonymous URLs - `anonymiz.com/vwiq`
 * [Anon.to](https://anon.to/) - Anonymous URLs - `anon.to/7SWqpG`
 * [Thinfi](https://thinfi.com/) - Password protect a short URL - `thinfi.com/q8aw`
@@ -1056,7 +1054,7 @@
 * [Temporary-Url](https://www.temporary-url.com/) - Temporary URLs / QR Codes 
 * [scrt.link](http://scrt.link/) - Single Use Links
 * [noAMP](https://noamp.link/) - Non-AMP version of any page
-* [QR Code Generator](https://www.qr-code-generator.com/) or [link-to-qr](https://link-to-qr.com/) - QR Code Generator For URLs / Text 
+* [QR Code Generator](https://www.qr-code-generator.com/), [2qr](https://2qr.info/) or [link-to-qr](https://link-to-qr.com/) - QR Code Generator For URLs / Text 
 * [AnyImage](https://anyimage.io/) - Create Social Card Links
 * [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - Custom URL Handler
 * [Xenu-Link](http://home.snafu.de/tilman/xenulink.html), [Lychee](https://github.com/lycheeverse/lychee), [Cyotek-Webcopy](https://www.cyotek.com/cyotek-webcopy), [Dead Link Checker](https://www.deadlinkchecker.com/) or [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php) - Broken Link Checker
@@ -1176,6 +1174,7 @@
 * [Discord-Sandbox](https://github.com/khlam/discord-sandboxed) - Sandbox Discord Client
 * [Overlayed](https://overlayed.dev/) - Alternate Discord Overlay / [Github](https://github.com/Hacksore/overlayed)
 * [crocodile](https://github.com/tbodt/crocodile) - Discord Client for TempleOS
+* [GTKCord4](https://github.com/diamondburned/gtkcord4) - GTK4 Discord Client
 * [displunger](https://gitlab.com/derpystuff/displunger) - Run Old Versions of Discord
 * [DevilNo](https://docs.google.com/spreadsheets/d/1hsSigFjyTaTnvB5XS6ot-msCZS5DR4VWtiD5g1ebH8c/edit?usp=sharing) - Alternative DevilBro Plugins
 * [Acrylic](https://github.com/xirreal/Acrylic) - Glass Discord Theme
@@ -1407,8 +1406,9 @@
 * [Disable 60fps](https://greasyfork.org/en/scripts/23329-disable-youtube-60-fps-force-30-fps) - Force 30fps on YouTube
 * [YouTube CPU Tamer](https://greasyfork.org/en/scripts/431573-youtube-cpu-tamer-by-animationframe) - YouTube CPU Optimization
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix YouTube Aspect Ratio
+* [FREEZE](https://chrome.google.com/webstore/detail/freeze/bejbbhcoefpmeejcnknjfepoocehopii) - Control YouTube via Webcam
 * [YoutubeNonStop](https://github.com/lawfx/YoutubeNonStop) - Removes the YouTube: "Video Paused, Continue Watching?"
-* [Video Resumer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_resumer) - Automatically resumes YouTube videos from where you played them last
+* [Video Resumer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_resumer) - Resume Videos Where You Left Off
 * [ProgressBar Preserver](https://greasyfork.org/scripts/394512) - Always Visible Progress Bar YouTube
 * [Equalizer for YouTube](https://mybrowseraddon.com/equalizer-for-youtube.html) - Audio Equalizer
 * [songs-to-youtube](https://github.com/7x11x13/songs-to-youtube) - Upload Audio to Youtube Automatically
@@ -1492,7 +1492,7 @@ Twitch Stream Tracker
 * [BackTweets](http://backtweets.com/), [twXplorer](https://twxplorer.knightlab.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - Search Twitter 
 * [Twishort](https://twishort.com/) - Make Longer Tweets
 * [Screamer](https://chrome.google.com/webstore/detail/screamer-twitter-improvem/mpeifaboppaofofdbmhoaeolnibaljof) - Tweet Only Twitter 
-* [Poet.so](https://poet.so/), [Twimage](https://twimage.vercel.app/) / [GitHub](https://github.com/drkPrince/tweet-to-image) or [Capture My Tweet](https://capturemytweet.in/) - Create Twitter Post Images
+* [Poet.so](https://poet.so/), [Twimage](https://twimage.vercel.app/) / [GitHub](https://github.com/drkPrince/tweet-to-image), [Tweetlet](https://tweetlet.net/) or [Capture My Tweet](https://capturemytweet.in/) - Create Twitter Post Images
 * [Tweetgen](https://www.tweetgen.com/) or [FakeTweetMaker](https://www.faketweetmaker.com/) - Create Fake Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chrome.google.com/webstore/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [Thread Reader App](https://threadreaderapp.com/) - Unroll Twitter Threads / Search 
@@ -2029,7 +2029,7 @@ Twitch Stream Tracker
 * [Scanned PDF to Doc](https://www.scannedpdftoword.com/) - Scanned PDF to Doc Converter
 * [Adobe Excel to PDF](https://www.adobe.com/acrobat/online/excel-to-pdf.html) - Convert Excel Files to PDF
 * [JPG-to-PDF](https://github.com/praneetk2704/JPG-to-PDF) [Images to PDF](https://github.com/Swati4star/Images-to-PDF), [JPG2PDFBot](https://t.me/JPG2PDFBot), [Adobe Converter](https://www.adobe.com/acrobat/online/jpg-to-pdf.html) or [img2pdf](https://pypi.org/project/img2pdf/) - Image to PDF Converter
-* [PDFCrowd](https://pdfcrowd.com/), [HTMLaPDF](https://www.htmlapdf.com/ ) or [wkhtmltopdf](https://wkhtmltopdf.org/) - HTML to PDF / Image Converter
+* [PDFCrowd](https://pdfcrowd.com/), [HTMLaPDF](https://www.htmlapdf.com/), [TailWindPDF](https://tailwindpdf.com/) or [wkhtmltopdf](https://wkhtmltopdf.org/) - HTML to PDF / Image Converter
 * [PSTOEdit](http://pstoedit.net/) - Convert PDF to other Vector Formats 
 * [Issuu](https://issuu.com/) - Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/), [3](https://docdownload.net/)
 * [WebToPDF](https://webtopdf.com/) or [PDFmyURL](https://pdfmyurl.com/) - Webpage to PDF Converter
@@ -2100,7 +2100,7 @@ Twitch Stream Tracker
 * [ShadowExplorer](https://www.shadowexplorer.com/) or [ShadowCopyView](https://www.nirsoft.net/utils/shadow_copy_view.html/) - Shadow Copy Explorers
 * [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) or [filebrowser](https://github.com/filebrowser/filebrowser/) - Web File Browser
 * [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/), [iStockFile](http://istockfile.com/ ) or [Securedrop](https://securedrop.org/) - Document File Sharing
-* [OpenPaper](https://openpaper.work/en/) or [DataShare](https://datashare.icij.org/) - Document Manager
+* [OpenPaper](https://openpaper.work/en/), [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) or [DataShare](https://datashare.icij.org/) - Document Manager
 * [Browsemonkey](https://github.com/shukriadams/browsemonkey) - Take Snapshots of File Systems 
 * [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - GDrive Guide 
 * [gDrive-DirectLink](https://github.com/jagrit007/gDrive-DirectLink) or [google-drive-direct-link-generator](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - GDrive File Direct Link Generator
