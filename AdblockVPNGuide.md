@@ -153,6 +153,7 @@
 * [YARA](https://virustotal.github.io/yara/) - Malware Identification Tool
 * [Winitor](https://www.winitor.com/) - EXE Malware Assessment
 * [WhatsApp Media Decrypt](https://github.com/ddz/whatsapp-media-decrypt) - Decrypt WhatsApp Media Files
+* [Package Analysis](https://github.com/ossf/package-analysis) -  Open Source Package Analysis
 * [Manalyzer](https://manalyzer.org/) - PE File Scanner
 * [PyWhat](https://github.com/bee-san/pyWhat) - .pcap File Scanner
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - Penetration Testing Index
@@ -298,6 +299,7 @@
 * [Location Guard](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_location_guard) - Hide Browsers Geolocation
 * [SafeToOpen](https://safetoopen.com/) - Protect Yourself From Phishing Attacks
 * [Language Switch](https://addons.mozilla.org/en-US/firefox/addon/languageswitch/) - Change Language Identifier
+* [HTTP Tracker](https://github.com/venukbh/http-tracker) - Track Network on Browser
 * [chrome-utm-stripper](https://github.com/jparise/chrome-utm-stripper) - Remove Tracking Tokens
 * [Re-Consent](https://cliqz.com/en/magazine/re-consent) - Opt Out of Data Collection
 * [SocialSharePrivacy](https://panzi.github.io/SocialSharePrivacy/) - Turn Off Social Sharing Buttons
@@ -568,7 +570,7 @@
 * [Xray](https://github.com/XTLS/Xray-core) - [Telegram](https://t.me/projectXray)
 * [Privoxy](http://www.privoxy.org/) - [Docker Build](https://github.com/binhex/arch-privoxyvpn)
 * [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - HTTPS Proxy
-* [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Proxy Manager
+* [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) or [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Proxy Manager
 * [FoxyProxy](https://getfoxyproxy.org/), [Ambrose](https://play.google.com/store/apps/details?id=com.ambrose.overwall&gl=US) or [Snowflake](https://snowflake.torproject.org/) - Proxy Browser Extension
 * [Fri-Gate](https://fri-gate.org/) - Advanced Proxy Settings Addon  
 * [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - Limit Proxy Usage by Private Windows 
