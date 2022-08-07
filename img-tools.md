@@ -39,7 +39,7 @@
 * [distort-grid](https://github.com/snorpey/distort-grid) - Grid Based Image Distortion
 * [PaintingLight](https://lllyasviel.github.io/PaintingLight/) - Digital Lighting Effect Generator
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn Simple Art into Photo Realistic Landscapes
-* [DeepArt](https://deepart.io/), [AI Gahaku](https://ai-art.tokyo/en/), [Dreamscope](https://dreamscopeapp.com/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/) or [Deep Dream Generator](https://deepdreamgenerator.com/) - Turn Photos into Artwork 
+* [DeepArt](https://deepart.io/), [AI Gahaku](https://ai-art.tokyo/en/), [Dreamscope](https://dreamscopeapp.com/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/), [InstaPainting](https://www.instapainting.com/assets/) or [Deep Dream Generator](https://deepdreamgenerator.com/) - Turn Photos into Artwork 
 * [Tinter](https://tinter.uxie.io/) - Image Hue Editor
 * [WeGreyScale](https://www.wegrayscale.com/) - Greyscale Videos / Images
 * [DuoTones](https://duotones.co/) - Dual Tone Effect Generator
@@ -49,7 +49,7 @@
 * [AIDraw](https://ai-draw.tokyo/en/) - Turn Photos into Line Drawings 
 * [primitive.js](https://ondras.github.io/primitive.js/) or [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes 
 * [PBNify](https://pbnify.com/) - Paint by Number Tool
-* [Inpaint](https://theinpaint.com/), [Magic Eraser](https://www.magiceraser.io/) or [Cleanup.pictures](https://cleanup.pictures/) - Remove Objects from Photos 
+* [Inpaint](https://theinpaint.com/), [Magic Eraser](https://www.magiceraser.io/), [Hama](https://www.hama.app/) or [Cleanup.pictures](https://cleanup.pictures/) - Remove Objects from Photos 
 * [InsertFace](https://insertface.com/) - Selfie Frames, Backgrounds & Effects
 * [Frame360](https://frame360.net/) - Image Frames
 * [Supershots](https://superblog.ai/supershots/) - Add Backgrounds to Images
@@ -105,8 +105,10 @@
 
 # ► Image Generation
 
-* **[Craiyon](https://www.craiyon.com/)** - AI Image Generator
-* [Rough.js](https://roughjs.com/) - Create Graphics that look Hand-Drawn
+* **[Craiyon](https://www.craiyon.com/)**, [Generative Engine](https://experiments.runwayml.com/generative_engine/) or [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot) - AI Image Generator
+* [Random Art](http://www.random-art.org/) - Random Art Generator
+* [Chaos Machine](https://chaosmach.com/) - Random Graphic Generator
+* [Rough.js](https://roughjs.com/) - Hand Drawn Graphic Generator
 * [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [ICO Convert](https://www.icoconvert.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - Icon Generators
 * [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/), [Free Logo Maker](https://freelogomaker.net/) or [ACME](https://acme.com/labelmaker/) - Logo Creator
 * [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
@@ -132,9 +134,17 @@
 * [Uji](https://doersino.github.io/uji/) - Minimalist Art Generator
 * [Mosaic](https://github.com/Roman-/mosaic) - Rubik's Cube Mosaic Generator
 * [Tabbied](https://tabbied.com/) - Art Pattern Generator
-* [Random Art](http://www.random-art.org/) - Random Art Generator
-* [Chaos Machine](https://chaosmach.com/) - Random Graphic Generator
-* [ruDALL-E](https://rudalle.ru/en/) - Generate Images from Text Queries / [Telegram](https://t.me/sber_rudalle_xl_bot)
+* [MandalaGaba](https://www.mandalagaba.com/) / [Pro Version](https://pro.mandalagaba.com/), [Mandala App](https://mandala-app.com/) or [DigitalDoily](https://codymoose.github.io/web-applications/DigitalDoily/index.html) - Zen Geometry Tool
+* [Silk](http://weavesilk.com/) - Create Geometric Silk Art
+* [WaveEQ](https://quazikb.github.io/WaveEq/index.html) - Real-Time Wave Tracing
+* [Inspirograph](https://nathanfriend.io/inspirograph/) - Inspirograph Tool
+* [SpirographN](http://seedcode.com/SpirographN/sgn.html) - Spirograph Tool
+* [myMrLx](https://codepen.io/davidpanik/full/myMrLx/) - Spiral Art Generator 
+* [Mondrian And Me](https://mondrianandme.com/) - Mondrian Art Creator
+* [Periodicity](https://williamhoza.com/periodicity/) - Harmonic Motion Patterns
+* [Cubes.io](http://cubes.io/) - Cellular Automata
+* [05x5](https://csh.bz/line/05x5.html) - Rainbow Pattern Generator
+* [Flame Reactor](https://flamereactor.com/) - Fractal Flame Collaborative Generator
 * [TierMaker](https://tiermaker.com/) - Tier List Image Creator
 * [Hugin](http://hugin.sourceforge.net/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - Panorama Image Generator 
 * [Side It](https://sideit.app/) - Side by Side Image Generator
@@ -146,9 +156,11 @@
 * [Trianglify.io](https://trianglify.io/) - Generate low-poly Textures
 * [BannerEasy](https://www.bannereasy.com) or [Bannery](https://bannery.app/) - Create Custom Banners
 * [SocialBanner](https://www.social-banner.live/) or [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Creator
+* [CoverView](https://coverview.vercel.app/) - Blog Banner Creator
 * [Thumbnail.ai](https://thumbnail.ai/) - Create Social Media Images from Blog Posts
 * [Postr](https://postr.me/) - Create Images from Social Media Posts
 * [Promoshot](https://promoshot.io/) - Create Images of Products
+* [3D Book](https://3dbook.xyz/) - 3D Book Image
 * [ImageFu](https://www.imagefu.com/) - Button / Badge Creator
 * [Get Waves](https://getwaves.io/), [Wavelry](https://wavelry.vercel.app/), [SVGWave](https://svgwave.in/) / [GitHub](https://github.com/anup-a/svgwave) or [SVG Wave](https://www.softr.io/tools/svg-wave-generator) - Wave Generator
 * [Meta-Mapper](https://meta-mapper.com/) - Website Metadata Thumbnails
@@ -204,7 +216,7 @@
 
 ## ▷  Meme Makers
 
-* [Meme Generator](https://imgflip.com/memegenerator), [Meme Town](https://meme.town/), [DrMemes](https://www.drmemes.com/), [Meme Generator](http://memegenerator.net/), [MemeBetter](https://memebetter.com/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
+* [Meme Generator](https://imgflip.com/memegenerator), [RocketMeme](https://www.rocketmeme.com/create), [Meme Town](https://meme.town/), [DrMemes](https://www.drmemes.com/), [Meme Generator](http://memegenerator.net/), [MemeBetter](https://memebetter.com/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
 * [MemeAtlas](https://www.memeatlas.com/) - Meme Database 
 * [Memegine](https://memegine.com/) - Meme Search Engine
 * [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh) - Meme Templates
@@ -217,7 +229,11 @@
 ## ▷ Painting / Drawing
 
 * [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/) or [MediBang](https://medibangpaint.com/en/) - Painting
-* [Aggie.io](https://aggie.io/) or [Magma](https://magmastudio.io/) - Collaborative Drawing / Painting
+* [bomomo](https://bomomo.com/) - Multi-Brush Painting
+* [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art
+* [Aggie.io](https://aggie.io/), [Magma](https://magmastudio.io/) or [malmal](https://malmal.io/) - Draw with Friends or Strangers 
+* [World Draw](https://world-draw.appspot.com/draw) - Draw the World Together
+* [Monsterland](https://www.monsterland.net/) - Collaborative Monster Drawing 
 * [LizardPaint](https://lizardrive.itch.io/lizardpaint) - Sega / Megadrive Painting
 * [inkscape](https://inkscape.org/), [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q), [Sketch Toy](https://www.sketchtoy.com/), [Sketchbook](https://www.sketchbook.com/), [Webchemy](https://webchemy.org/) / [GitHub](https://github.com/bitbof/webchemy), [tldraw](https://www.tldraw.com/), [Sketchpad](https://sketchpad.app/) / [2](https://sketch.io/sketchpad) or [Excalidraw](https://excalidraw.com/) - Drawing / Sketching Tools 
 * [Noodle](https://hundredrabbits.itch.io/noodle) - 1bit Sketch Tool
@@ -225,11 +241,15 @@
 * [MonsterMash](https://monstermash.zone/) - Sketch Based Modeling & Animation Tool
 * [Perfect Freehand](https://perfect-freehand-example.vercel.app/) - Draw Free Hand Lines / [GitHub](https://github.com/steveruizok/perfect-freehand)
 * [minimator](https://minimator.app/) - Create Grid Based Drawings
-* [Picrew](https://picrew.me/) - Animated Character Maker  
+* [JacksonPollock](https://www.jacksonpollock.org/) - Splatter Painting / Click to Change Color
+* [Picrew](https://picrew.me/) - Animated Character Maker
+* [Animated Drawings](https://sketch.metademolab.com/) or [Scratch](https://scratch.mit.edu/) - Animate Drawings
 * [Tiny Sketchbook](https://www.tinysketchbook.com/) - Create and Share Doodle Art
 * [Ink Workspace](https://www.microsoft.com/store/productId/9P0RP342JZMN) - Pen App Launcher
 * [brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](http://wowbrushes.com/), [chezplumeau](https://www.chezplumeau.com/), [getbrushes](http://getbrushes.com/), [gfxfever](http://gfxfever.com/photoshop-brushes), [fbrushes](https://fbrushes.com/), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/) - Digital Art Brushes
+* [HotGlue](https://hotglue.me/) or [Remoji](https://remoji.com/) - Emoji Painting
 * [PanosFX](https://www.panosfx.com/) or [Fix the Photo](https://fixthephoto.com/free-photoshop-actions) - Photoshop Actions
+* [paint.wtf](https://paint.wtf/) - Have an AI Judge your Art
 
 *** 
 
@@ -333,14 +353,15 @@
 * [BLoom3D](https://bloom3d.com/) - Online 3D Modeling Tool
 * [Figurosity](https://figurosity.com/) - Human 3D Models
 * [Armorpaint](https://armorpaint.org/) - 3D Painting
-* [ZBrush](https://zbrushcore.com/mini/) - 3D Sculpting
+* [ZBrush](https://zbrushcore.com/mini/) or [SculptGL](https://stephaneginier.com/sculptgl/) - 3D Sculpting
 * [ModelViewer](https://modelviewer.dev/) - 3D Model Viewer
 * [Assemblr](https://www.assemblrworld.com/) - Augmented Reality Image Creator
 * [MeshLab](https://www.meshlab.net/) - 3D Mesh Processing / [GitHub](https://github.com/cnr-isti-vclab/meshlab)
 * [CadHub](https://cadhub.xyz/) - Community Hub for CAD Projects
 * [MakeHuman](http://www.makehumancommunity.org/) - 3D Humanoid Modeler
 * [posemy](https://app.posemy.art/), [quickposes](https://quickposes.com/en) or [justsketch](https://app.justsketch.me/) - Posing Tools
-* [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator 
+* [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator
+* [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator 
 * [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - AI Art Generation Guide
 * [vrn](https://cvl-demos.cs.nott.ac.uk/vrn/) - 3D Face Reconstruction 
 * [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
@@ -374,7 +395,7 @@
 * [Handwriting-OCR](https://github.com/Breta01/handwriting-ocr) - Handwriting Image to Text
 * [Image-to-Image](https://affinelayer.com/pixsrv/) - Interactive Image Translation
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - Find Font from Image
-* [Watermarkly](https://watermarkly.com/) or [Watermarkup](https://watermarkup.com/watermark.html) - Image Watermarking
+* [Watermarkly](https://watermarkly.com/), [We Watermark](https://wewatermark.com/) or [Watermarkup](https://watermarkup.com/watermark.html) - Image Watermarking
 * [Watermark Remover Online](https://www.aiseesoft.com/watermark-remover-online/) or [Watermark Remover](https://www.watermarkremover.io/) - Watermark Removal
 * [FPNG](https://github.com/richgel999/fpng) - PNG Reader / Writer
 * [JPEGMedic ARWE](https://www.jpegmedic.com/tools/jpegmedic-arwe/) - Recover Ransomware-Encrypted Images
@@ -422,7 +443,7 @@
 * [KSnip](https://github.com/ksnip/ksnip)
 * [LightShot](https://app.prntscr.com/en/index.html)
 * [Nimbus Capture](https://nimbusweb.me/screenshot.php) 
-* [Pika](https://pika.rishimohan.me/) / [GitHub](https://github.com/rishimohan/pika) or [OnPaste](https://onpaste.com/) - Screenshot Editor
+* [Pika](https://pika.rishimohan.me/) / [GitHub](https://github.com/rishimohan/pika), [FabPic](https://www.fabpic.app/) or [OnPaste](https://onpaste.com/) - Screenshot Editor
 * [Screenshot Guru](https://screenshot.guru/), [CleanShot](https://cleanshot.vercel.app/) or [Site-Shot](https://www.site-shot.com/) - Online Screenshot Tool 
 * [OnlineScreenshot](https://onlinescreenshot.com/), [Screenshot Rocks](https://screenshot.rocks/) / [GitHub](https://github.com/daveearley/screenshot.rocks), [screenshots.cloud](https://screenshots.cloud/), [screenshot.guru](https://screenshot.guru/), [shrinktheweb](https://shrinktheweb.com/ ) or [Pikwy](https://pikwy.com/) - Site Screenshot Tool
 * [puush](https://puush.me/) - Easily Share Screenshots
