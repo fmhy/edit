@@ -429,6 +429,7 @@
 * [emuiibo](https://github.com/XorTroll/emuiibo) - Amiibo Emulator
 * [All Amiibo Bin Files](https://redd.it/mlvfak) - Amiibo Bin Files
 * [Easy Guide to Making Amiibo](https://redd.it/5ywlol) - How-to Make Your Own Amiibo
+* [Wii Softmod Guide](https://sites.google.com/site/completesg) - How to softmod your Wii
 
 *** 
 
