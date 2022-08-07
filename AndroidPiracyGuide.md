@@ -72,7 +72,8 @@
 * [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/) - Temp Mail / [GitLab](https://gitlab.com/TheOneWithTheBraid/guerrilla_mail)
 * [Private Location](https://f-droid.org/en/packages/com.wesaphzt.privatelocation/) - Hide Phone Location Permanently
 * [Fake GPS Location](https://play.google.com/store/apps/details?id=com.evezzon.fakegps) or [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) - Fake GPS Location 
-* [RadiusLocker](https://www.radiuslocker.co/) - Lock Phone When its not Near You 
+* [RadiusLocker](https://www.radiuslocker.co/) - Lock Phone When its not Near You
+* [WPS](https://gitlab.com/nuntius35/wps) - Lock Phone After Multiple Failed Logins
 * [Intruder Detector](https://play.google.com/store/apps/details?id=com.evezzon.intruderdetector) - Find Who and Where Someone Used Your Phone 
 * [Invizible](https://invizible.net/en/) - Unblock Sites and Encrypt Traffic
 * [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&amp;hl=en_US) - Tor Proxy
@@ -400,6 +401,7 @@
 * [Frida-Mobile-Scripts](https://github.com/m0bilesecurity/Frida-Mobile-Scripts) - FRIDA Mobile Scripts
 * [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) - Extract OTP Tokens
 * [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid) - File Hash Calculator
+* [ClassyShark](https://github.com/google/android-classyshark) - Android /Java Bytecode Viewer
 * [SmartPack-Kernel-Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager) - Kernel Manager
 * [Swappa](https://swappa.com/imei) or [SickW](https://www.sickw.com/) - IMEI, MEID, ESN Checker
 * [SWAP](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_swap) - Create SWAP file without Root
