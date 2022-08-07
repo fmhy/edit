@@ -70,7 +70,7 @@
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - Breath of The Wild Map
 * [Hallownest](https://www.hallownest.net/) - Hollow Knight Map
 * [Hoyolab Teyvat Interactive Map] (https://act.hoyolab.com/ys/app/interactive-map/index.html), [Map Of Genshin] (https://mapofgenshin.com/), [Mapgenie Teyvat Interactive Map] (https://mapgenie.io/genshin-impact) or [Genshin Impact Map] (https://genshin-impact-map.appsample.com/) - Genshin Impact Interactive Maps
-* [Daedalus](http://www.astrolog.org/labyrnth/daedalus.htm) - Maze Creation / Solving Program
+* [Daedalus](http://www.astrolog.org/labyrnth/daedalus.htm) or [Amaze(https://sourceforge.net/projects/qtamaze/files/) - Maze Generators
 * [Library of Codexes](http://libraryofcodexes.com/) - Game Codex Library
 * [Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Covers for Games 
 * [SreamGridDB](https://www.steamgriddb.com/) - Custom Video Game Assets / [Discord](https://discord.com/invite/bnSVJrz)
@@ -322,6 +322,7 @@
 * [OptiFine Alternatives](https://lambdaurora.dev/optifine_alternatives/) - Minecraft OptiFine Alternatives for Fabric
 * [modsman](https://github.com/sargunv/modsman) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Manager
 * [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - Minecraft Utility Mod
+* [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Telemetry Data
 * [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators 
 * [Distant Horizons](https://gitlab.com/jeseibel/minecraft-lod-mod) - Increased Minecraft Render Distance
 * [SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons) - Addons for Skyblock
@@ -346,7 +347,8 @@
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Minecraft Modding API 
 * [PVPRP](https://pvprp.com/) - Minecraft Texture Packs
 * [IrisShader](https://www.curseforge.com/minecraft/mc-mods/irisshaders) - Fabric Shadermod for Minecraft
-* [Nova Skin](https://minecraft.novaskin.me/), [NeedCoolShoes](https://www.needcoolshoes.com/) or [Blockbench](https://www.blockbench.net/)- Minecraft Skin Editor 
+* [Nova Skin](https://minecraft.novaskin.me/), [NeedCoolShoes](https://www.needcoolshoes.com/) or [Blockbench](https://www.blockbench.net/)- Minecraft Skin Editor
+* [MinecraftCapes](https://minecraftcapes.net/) or [Capes](https://modrinth.com/mod/capes) - Minecraft Capes
 * [VoxelSphereGenerator](http://oranj.io/blog/VoxelSphereGenerator) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools
 * [ChunkBase](https://www.chunkbase.com/apps/) - Minecraft Map Tools
 * [Amidst](https://github.com/toolbox4minecraft/amidst) - Minecraft World Overview Display Tool
