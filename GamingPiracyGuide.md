@@ -284,6 +284,7 @@
 * [RocketLauncer2](https://github.com/Hypnotoad90/RocketLauncher2) - Doom Source Port Frontend
 * [ScummVM](https://www.scummvm.org/) - Classic Graphical Adventure Game Engines
 * [Classic Game ROMs](https://sites.google.com/site/classicgameROMs/) - ROMs
+* [OldGamesDownload](https://oldgamesdownload.com/) - ROMs
 * [NesFiles](https://www.nesfiles.com/) - ROMs / NES
 * [webnofrendo](https://zardam.github.io/webnofrendo/) - NES Numworks Emulator
 * [Old-Games.com](https://www.old-games.com/) - ROMs / PC / Amiga
@@ -615,7 +616,8 @@
 * [Treksit](https://treksit.com/index.html) - Puzzle Game
 * [Game about Squares](http://gameaboutsquares.com/) - Puzzle Game
 * [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
-* [Menneske](https://www.menneske.no/eng/) - Number Puzzles 
+* [Menneske](https://www.menneske.no/eng/) - Number Puzzles
+* [Emozle](https://emozle.com/) - Emoji Puzzle
 * [Nerdle](https://nerdlegame.com/) - Number Guessing Game 
 * [picture dots](https://www.picturedots.com/) - Make & Play dot Puzzles
 * [babble.xyz](https://babbl.xyz/) - Infinite Scrabble
