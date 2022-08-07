@@ -774,7 +774,6 @@
 * [J-pop Music Download](https://jpop.xyz/) - Music 
 * [4Sashi](https://4sashi.com/) - Music
 * [KPopExplorer](https://kpopexplorer.net/) - Music
-* [k2nblog](https://k2nblog.com/) - Music
 * [ilKPOP](https://ilkpop.com/) - Music
 * [KPopSea](https://kpopsea.com/) - Soundtracks
 * [VTH88](http://vth88.blogspot.com/) - Music Videos
