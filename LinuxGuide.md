@@ -51,7 +51,7 @@
 * [Evince](https://wiki.gnome.org/Apps/Evince) - PDF / DjVu Reader
 * [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - Free Ubuntu VNC
 * [ANoise](http://anoise.tuxfamily.org/) - Ambient Sounds for Ubuntu 
-* [gazee](https://hub.docker.com/r/linuxserver/gazee/) or [Komikku](https://gitlab.com/valos/Komikku) - Manga & omic Reader / Manager
+* [gazee](https://hub.docker.com/r/linuxserver/gazee/) or [Komikku](https://gitlab.com/valos/Komikku) - Manga & Comic Reader / Manager
 * [wikit](https://github.com/KorySchneider/wikit) - Wikipedia Summaries from CLI
 * [Linux Filesystem Chart](https://i.imgur.com/02VycVd.png) - File System Guide
 * [Wget_Linux_Guide](https://web.archive.org/web/20210225201811/https://the-eye.eu/public/Wget_Linux_Guide.pdf) - Wget Guide
@@ -66,6 +66,7 @@
 * [dvm](https://github.com/diced/dvm) - Discord Version Manager
 * [Polybar](https://github.com/jaagr/polybar) or [lemonbar](https://github.com/LemonBoy/bar) - Customizable Status Bar
 * [Fix Guild Lag](https://wiki.archlinux.org/title/Discord#Lagging_when_scrolling_through_your_guilds) - Fix Guild Scrolling Lag
+* [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
 * [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
 * [WSL](https://docs.microsoft.com/en-us/windows/wsl/) or [Tunic](https://github.com/mikeslattery/tunic) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
 * [Startup Settings](https://github.com/hant0508-zz/startup-settings) - Manage Startup Items
@@ -145,6 +146,7 @@
 * [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://flathub.org/apps/details/com.github.dail8859.NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor
 * [Zathura](https://git.pwmt.org/pwmt) - Document Viewer
 * [Winfield](http://www.winfield.demon.nl/) - MS Word for Linux / OS X
+* [TextPieces](https://github.com/liferooter/textpieces) - Quick Text Transformations
 * [Got](https://github.com/fedeztk/got) - Translator
 * [DidYouMean](https://github.com/hisbaan/didyoumean) - Grammar Check
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
@@ -205,11 +207,12 @@
 * [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Easily clean Ubuntu(-based) Systems
 * [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) - Grub Repair Guide for Linux Systems
 * [GrubCustomizer](https://launchpad.net/grub-customizer) - Customize Grub
-* [ss64 Bash](https://ss64.com/bash/) - Linux Bash Commands
+* [ss64 Bash](https://ss64.com/bash/) or [Bash Oneliner](https://github.com/onceupon/Bash-Oneliner) - Linux Bash Commands
 * [zx](https://github.com/google/zx) - Javascript Bash
 * [Helmanual](https://helpmanual.io/) - Unix Commands
 * [bashrcgenerator](http://bashrcgenerator.com/) - .bashrc Generator
 * [bash_loading_animations](https://github.com/Silejonu/bash_loading_animations) - Bash Loading Animations
+* [Bashly](https://bashly.dannyb.co/) - Bash CLI Framework
 * [dunst](https://dunst-project.org/) - Customizable Notification Daemon / [GitHub](https://github.com/dunst-project/dunst)
 * [Autokey](https://github.com/autokey/autokey) - Linux Automation Utility
 * [create-autorun](https://github.com/OneCDOnly/create-autorun) - Create QNAP NAS Autorun Environment
@@ -234,6 +237,7 @@
 * [Timeshift](https://github.com/teejee2008/timeshift) - Create System Snapshots & Restore
 * [AppImageHub](https://appimage.github.io/) or [get-appimate](https://g.srev.in/get-appimage/) - Download AppImages / [CLI](https://zap.srev.in/)
 * [Homebrew](https://brew.sh/) - Package Manager
+* [Basher](https://www.basher.it/) - Bash Script Package Manager
 * [yay](https://github.com/Jguer/yay) - AUR Helper / Package Manager
 * [Pacstall](https://pacstall.dev/) - AUR-Inspired Package Manager for Ubuntu
 * [apt-fast](https://github.com/ilikenwf/apt-fast) - APT Download Accelerator
@@ -252,7 +256,7 @@
 * [shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial) - Shell Scripting Tutorial
 * [explainshell.com](https://explainshell.com/) - Match Command-Line Arguments to Help Text
 * [ShellCheck](https://www.shellcheck.net/) - Shell Script Bug Check
-* [Command Line Shells](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_command_line_shells)
+* [Command Line Shells](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_command_line_shells) or [Modern Unix](https://github.com/ibraheemdev/modern-unix) - Alternative Command Line Shells
 * [nosystemd](https://nosystemd.org/) - Reasons Why Systemd is Disliked
 
 ***
@@ -264,7 +268,8 @@
 * [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
 * [Twilio Authy](https://snapcraft.io/authy) - Linux Two-Factor Authentication
 * [Menu Searx](https://github.com/MossyMossMoss/menu-searx) - SearX Search Tool 
-* [OpenSnitch](https://github.com/evilsocket/opensnitch) or [Gufw](http://gufw.org/) - Linux Firewall 
+* [OpenSnitch](https://github.com/evilsocket/opensnitch) or [Gufw](http://gufw.org/) - Linux Firewall
+* [Tracee](https://github.com/aquasecurity/tracee) - Runtime Security and Forensics
 * [Mofolinux](https://mofolinux.com/), [Tails](https://tails.boum.org/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - Privacy-Based Linux Operating System
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - VPN Tunnel
 * [Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
