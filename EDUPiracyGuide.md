@@ -68,7 +68,8 @@
 * [BillNye](https://billnye.com/) - Bill Nye Science Videos
 * [brighstorm](https://www.brightstorm.com/) - Test Prep
 * [O'Reilly](https://www.oreilly.com/) - Tech / Programming / infinite free trial by clearing cookies / making new account
-* [pad.ma](https://pad.ma/) - Text-annotated Videos 
+* [pad.ma](https://pad.ma/) - Text-annotated Videos
+* [Tyler DeWitt](https://www.youtube.com/user/tdewitt451) or [TheOrganicChemistryTutor](https://www.youtube.com/c/TheOrganicChemistryTutor) - Chemistry Lessons
 * [Code.org](https://code.org/) - Computer Science Courses 
 * [How to Become a Computer Science Engineer](https://laconicml.com/computer-science-engineer-mit-university/) - Computer Science Courses 
 * [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree) - Computer Science Courses
@@ -444,7 +445,7 @@
 * [Mars Now](https://mars.nasa.gov/explore/mars-now/) - Mars Exploration Program Simulator
 * [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/) - Interactive Index of Moons 
 * [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html), [LightYear](https://www.lightyear.fm/) or [OMG SPACE](http://omgspace.net/) - Solar System Scale Model
-* [3DSolarSystem](https://theskylive.com/3dsolarsystem) - Solar System Simulator 
+* [3DSolarSystem](https://theskylive.com/3dsolarsystem) or [SpaceInBrowser](https://spaceinbrowser.com/) - Solar System Simulator 
 * [The Planets](https://planets-facts-website.netlify.app/) - Learn About Planets
 * [Space Object Comparison](https://mr21.github.io/space-object-comparison/) - Compare Sizes Of Celestial Objects
 * [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive 3D Star Visualization
@@ -627,6 +628,7 @@
 # ► Educational Tools
 
 * **[The Free Learning List](https://freelearninglist.org/)** or  [/sci/ guide](https://sites.google.com/site/scienceandmathguide/) - Free Educational Sites / Tool Index 
+* **[LearnAwesome](https://learnawesome.org/)**, [Learn Anything](https://learn-anything.xyz/), [Learning Lab](https://learn.uno/) / [Discord](https://discord.com/invite/FCzYt8u) or [Learney](https://app.learney.me/) - Learning Resources 
 * **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [KausalFlow](https://tools.kausalflow.com/), [Zotero](https://www.zotero.org/) or [Scrible](https://www.scrible.com/)  - Research Tools 
 * **[PhET](https://phet.colorado.edu/)** - STEM / Interactive
 * **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Infinite trial by clearing cookies & making new account
@@ -636,7 +638,6 @@
 * [MyAssignmentHelp](https://myassignmenthelp.com/free-tools.php) - Academic Tools
 * [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - Touch Typing Tutorial
 * [Spreeder](https://www.spreeder.com/) - Learn to Read Faster
-* [Learn Anything](https://learn-anything.xyz/), [Learning Lab](https://learn.uno/) / [Discord](https://discord.com/invite/FCzYt8u) or [Learney](https://app.learney.me/) - Learning Resources 
 * [Fact Directory](https://fact.directory/) or [RDoK](http://rdok.net/) - Fact / Knowledge Databases
 * [Refseek](https://www.refseek.com/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engine
 * [Explorabl.es](https://explorabl.es/) or [MinuteLabs](https://minutelabs.io/) - Interactive Learning / Lessons 
