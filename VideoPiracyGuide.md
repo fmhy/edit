@@ -459,7 +459,6 @@
 * [Stream2Watch](https://hq.stream2watch.sx/), [2](https://stream2watch.at/) - TV / Sports
 * [LiveTV.video](https://livetv.video/) - TV / Sports
 * [LM Shows](https://lmshows.se/) - TV
-* [TVOnline.Liveschauen](https://tvonline.liveschauen.com/) - TV 
 * [WwiTv](https://wwitv.com/) - TV
 * [PhotoCall](https://photocall.tv/) - TV
 * [puffer](https://puffer.stanford.edu/) - TV 
