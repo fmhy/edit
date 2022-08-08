@@ -795,6 +795,14 @@
 * [ComicBookPlus](https://comicbookplus.com/) - Golden Age Comics
 * [Comic Museum](https://digitalcomicmuseum.com/index.php) - Golden Age Comics
 * [GoComics](https://www.gocomics.com/) - Comics Strips
+* [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
+* [readcomicsfree](https://readcomicsfree.com/)
+* [Comics Online](http://www.comicsonline.io/)
+* [Asterix Comics](https://asterixonline.info/) - Asterix Comics
+* [ReadAllComics](http://readallcomics.com/)
+* [Read Full Comic](https://readfullcomic.com/) / [2](https://read-comic.com/) / [3](https://viewcomiconline.com/)
+* [comicbookpdf](https://www1.comicbookpdf.com/) 
+* [comiconline](https://comiconline.org/)
 * [Zahard](https://zahard.xyz/) - WebToons / [Telegram](https://t.me/fast_pass)
 * [Random Comic Generator 3.0](https://explosm.net/rcg) - Explosm Random Comic Generator
 * [RichieRichcomicsfanclub](https://richierichcomicsfanclub.wordpress.com/) - Richie Rich Comics 
@@ -812,6 +820,8 @@
 * [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - Online Reader
 * [Tenma](https://github.com/Tenma-Server/Tenma) or [Komga](https://komga.org/) - Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)
 * [Webtoons Downloader](http://www.mediafire.com/file/7243pcp72ttzisk/Webtoons_Downloader_by_RieqyNS13.zip/file) - Webtoons Downloader
+* [Free Dark Horse Digital Comics](https://digital.darkhorse.com/pages/free)
+
 
 ***
 
@@ -842,6 +852,7 @@
 * [ReaperScans](https://reaperscans.com/) 
 * [MangaSee123](https://mangasee123.com/)
 * [Panda Chaika](https://panda.chaika.moe/)
+* [ReadFreeComics](https://readfreecomics.com/)
 * [Manhuaplus](https://manhuaplus.com/) 
 * [Readmng](https://www.readmng.com/) 
 * [MangaSee](https://www.mangasee.net/) 
@@ -974,6 +985,7 @@
 * [Novels.pl](https://www.novels.pl/)
 * [Scribblehub](https://www.scribblehub.com/)
 * [All Novel Full](https://allnovelfull.com/)
+* [NovelFull](https://novelfull.me/)
 * [MTL Nation](https://mtlnation.com/)
 * [Novel Hall](https://www.novelhall.com/)
 * [Novel Free](https://mnovelfree.com/)
