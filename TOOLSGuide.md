@@ -827,6 +827,7 @@
 * [Slideshow-Deslidefier](http://deslide.clusterfake.net/) - View Slideshows All At Once 
 * [tumblr-crawler](https://github.com/ZenulAbidin/tumblr-crawler) - Download tumblr photos/videos 
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities 
+* [tumbex](https://www.tumbex.com/) - Tumblr Search Engine
 * [ChanThreadWatch](https://github.com/SuperGouge/ChanThreadWatch) - Imageboard Thread Watcher 
 * [FlagHunter](https://gitlab.com/flagtism/flaghunter) - Find Rare Imageboard Flags
 * [Awesome ActivityPub](https://github.com/BasixKOR/awesome-activitypub) - List of ActivityPub based projects 
