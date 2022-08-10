@@ -156,6 +156,7 @@
 * [phraseup](http://www.phraseup.com/) - Autocomplete Common Phrases 
 * [Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en), [TextSynth](https://textsynth.com/playground.html) or [Talk to Transformer](https://app.inferkit.com/demo) - Text Autocomplete 
 * [EleutherAI](https://6b.eleuther.ai/) or [Essaytyper](http://www.essaytyper.com/) - Text / Story Autocomplete
+* [SongLyricsGenerator](http://www.songlyricsgenerator.com/) - Generate Fake Song Lyrics
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)
 * [FocusWriter](https://gottcode.org/focuswriter/) or [Writer](https://www.gibney.org/writer) / [GitHub](https://github.com/no-gravity/writer) - Distraction-Free Writing Tool
@@ -517,6 +518,7 @@
 * [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - Pop Song Sample Mixer
 * [Nightcore Maker](https://nightcoremaker.com/) - Create Nightcore Versions of Songs
 * [WubMachine](https://the.wubmachine.com/) - Create DubstepVersions of Songs
+* [Wolfram Tones](https://tones.wolfram.com/) - Song Generator
 * [CSound](https://csound.com/) - Music Computing System
 * [GoAudio](https://github.com/DylanMeeus/GoAudio) - Audio Processing Library 
 * [Helio](https://helio.fm/) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
@@ -530,7 +532,7 @@
 * [lalal.ai](https://www.lalal.ai/), [MP3CutterPro](https://mp3cutterpro.com/), [Flacon](https://flacon.github.io/) or [SongDonkey](https://songdonkey.ai/) - Audio Track Splitter 
 * [ISSE](http://isse.sourceforge.net/) - Source Separation Editor
 * [BeatMachine](https://beatmachine.branchpanic.me/) - Tempo Editor
-* [Get Song BPM](https://getsongbpm.com/) - Song Tempo Database
+* [Get Song BPM](https://getsongbpm.com/) or [MusicStax](https://musicstax.com/) - Song Tempo Database
 * [MusicSpeedChanger](https://musicspeedchanger.com/) - Music Speed Changer
 * [beets.io](http://beets.io/) / [2](https://github.com/beetbox/beets), [alto](https://github.com/ItsLychee/alto), [Zortam](https://www.zortam.com/), [MP3Tag](https://www.mp3tag.de/en/), [MusicBee](https://getmusicbee.com/) or [MusicBrainz](https://picard.musicbrainz.org/) - Music Metadata Organizer
 * [Mooval](https://www.mooval.de/) - Move Songs to or from Programs / Sites
@@ -658,7 +660,7 @@
 * [Stocksera](https://stocksera.pythonanywhere.com/) or [Screener](https://www.screener.in/) - Stock Tracker
 * [neostox](https://neostox.com/) - Practice Stock Trading
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
-* [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Investment Research CLI 
+* [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) or [OpenBB Terminal](https://openbb.co/) - Investment Research CLI
 * [Trading Talks](https://tradingtalks.org/) - Business Courses
 * [Marketing / Trading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_marketing_.2F_trading_courses) - Marketing / Trading Courses
 * [protocol-reading-list](https://github.com/bryanhpchiang/protocol-reading-list) - Crypto Protocols
@@ -1284,6 +1286,7 @@
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the JS files
 * [Discord Previews](https://discord.gg/QMw7gQGMHj) - New Discord Builds / Changes
 * [Discord.sale](https://discord.sale/) - Discord Client Build Info
+* [discord-mutual-friends](https://github.com/fr3fou/discord-mutual-friends) - Visualize Mutual Discord Friends
 * [discasset](https://github.com/Commandtechno/discasset), [2](https://gitlab.com/derpystuff/discasset) - Discord Asset Grabber
 * [BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - Bot Messaging Panel
 * [Figma](https://www.figma.com/community/file/992144378612759941/Discord-Resources) - Discord Resources / [Desktop](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)
@@ -1350,7 +1353,8 @@
 * [Focused YouTube](https://github.com/makaroni4/focused_youtube) - Minimalist YouTube
 * [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux) or [Classic YouTube Design](https://github.com/Cicero-Interactive/Classic-YouTube-Design/) - Restore Classic YouTube Layout 
 * [YouTube Real Cinema Mode](https://userstyles.org/styles/122032/youtube-real-cinema-mode) - Improved YouTube Cinema Mode
-* [NSFW Youtube](https://www.nsfwyoutube.com) or [Simple YouTube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - Bypass YouTube Age Restriction
+* [NSFW Youtube](https://www.nsfwyoutube.com) or [Simple YouTube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - Bypass YouTube Age Restrictions
+* [YTUnblock](https://ytunblock.weebly.com/) or [Unblocker](http://www.unblocker.yt/) - Bypass YouTube Geo-Restrictions
 * [YouTube RSS Finder](https://github.com/teddy-gustiaux/youtube-rss-finder) - Create YouTube RSS Feeds 
 * [PocketTube](https://yousub.info/) - YouTube Subscription Manager / Organizer 
 * [FreshTube](https://porjo.github.io/freshtube/) - Display Latest Video from Subscriptions 
