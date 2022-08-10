@@ -175,7 +175,7 @@
 
 * **[Privacy Tools / Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_tools)** - Indexes of Privacy Tools / Services
 * **[Privacy Matters](https://www.securemessagingapps.com/)** - Privacy Based Messaging App Comparisons
-* **[Encrypted Messangers](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers)  - Encrypted Messaging App Index 
+* **[Encrypted Messangers](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers) - Encrypted Messaging Apps
 * **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)** - Anonymous Text Verification
 * **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support 
 * **[Authy](https://authy.com/)** or [WinAuth](https://winauth.github.io/winauth/) - Two-Factor Authentication 
@@ -607,6 +607,7 @@
 * [UnblockSites](https://unblocksites.online/) 
 * [4EverProxy](https://www.4everproxy.com/)
 * [Proxy Site](https://proxysite.cloud/)
+* [AtozProxy](https://www.atozproxy.com/)
 * [Open Proxy Space](https://openproxy.space/)
 * [Google Translate](https://translate.google.com/) - [How to use](https://redd.it/fawkjy) 
 * [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - Python Library for Retrieving Free Proxies
