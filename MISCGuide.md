@@ -842,7 +842,7 @@
 * [MediLog](https://gitlab.com/toz12/medilog) or [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds) - Medical Data Log
 * [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - Insomnia Prevention Tips
 * [eXHALeR](https://www.xhalr.com/) - Yoga / Meditation Breathing Tool 
-* [Medito](https://github.com/meditohq/medito-app) - Meditation App
+* [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartintune.org/) - Meditation App
 * [PixelThoughts](http://www.pixelthoughts.co/) - 60 Second Relaxation Tool
 * [Relax Online](http://www.relaxonline.me.uk/sa1/index.html) - Stress Analyst Tool
 * [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health) or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Index
