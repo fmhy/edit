@@ -222,7 +222,8 @@
 * [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh) - Meme Templates
 * [Frinkiac](https://frinkiac.com/) - Simpsons Meme Generator 
 * [Morbotron](https://morbotron.com/) - Futurama Meme Generator 
-* [BreakYourOwnNews](https://www.breakyourownnews.com/) - Breaking News Meme Generator 
+* [BreakYourOwnNews](https://www.breakyourownnews.com/) - Breaking News Meme Generator
+* [WashYourLyrics](https://www.washyourlyrics.com/) - Hand Washing Meme Generator
 
 ***
 
@@ -360,6 +361,7 @@
 * [CadHub](https://cadhub.xyz/) - Community Hub for CAD Projects
 * [MakeHuman](http://www.makehumancommunity.org/) - 3D Humanoid Modeler
 * [posemy](https://app.posemy.art/), [quickposes](https://quickposes.com/en) or [justsketch](https://app.justsketch.me/) - Posing Tools
+* [PoseManiacs](https://www.posemaniacs.com/) - Pose References
 * [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator
 * [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator 
 * [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - AI Art Generation Guide
