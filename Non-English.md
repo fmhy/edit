@@ -319,7 +319,8 @@
 * [Zone Telechargement](https://www.zone-telechargement.work/) - Video / Audio / Software / Games / Books / Magazines / Newpapers / Android
 * [WawaCity](https://www.wawacity.video/), [2](https://www.wawacity.vip/) - Video / Audio / Books / Magazines / Software / Android / Use AdBlocker
 * [Tirexo](https://www.tirexo.com/), [2](https://www2.tirexo.lol/), [3](https://www2.tirexo.work/) - Video / Audio / Books / Roms / Software / Android
-* [Free-Telecharger](https://ww2.free-telecharger.org/) - Movies / TV  
+* [Free-Telecharger](https://ww2.free-telecharger.org/) - Movies / TV
+* [9docu](https://www.9docu.net/) - Documentaries
 * [DBFree](http://dbfree.me/) - Books
 * [FRDownMags](https://fr.downmagaz.net/) - Magazines
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
@@ -562,10 +563,11 @@
 * [Watch Movies Online](https://www.watchonlinemovies15.com.pk/) - Movies
 * [Desi Serials](https://www.desiserials.tv/) - Movies / TV / Live
 * [WatchOnlineMovies](https://www.watchonlinemovies.net.pk/) - Movies / TV
-* [HindiLinks4u](https://www.hindilinks4u.to/), [2](https://hindilinks4u.pro/) or [3](https://hindilinks4u.io/)  - Movies / TV
+* [HindiLinks4u](https://www.hindilinks4u.to/), [2](https://hindilinks4u.pro/) or [3](https://hindilinks4u.io/) - Movies / TV
 * [Movies4](https://www.movies4.com.pk/) - Movies / TV 
 * [SerialGhar](https://serialghar.net/) - TV
 * [FilmLinks4U](https://filmlinks4u.cc/) - Movies / TV
+* [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies 
 * [DesiTVBox](https://www.desitellybox.me/) - TV
 * [Freewatchserialonline](https://freewatchserialonline.com/) - TV
 * [SkymoviesHD](https://skymovieshd.name/) - Movies / TV / WWE
@@ -1449,29 +1451,29 @@
 
 ## ▷ Downloading
 
-* [identi](https://identi.io/) - Video / Audio / Software / Games 
+* [identi](https://identi.io/) - Video / Audio / Software / Games
 * [CompucaliTV](https://www.compucalitv.com/) - Video / Software / Games
 * [ZonaLeRoS](https://www.zona-leros.net/) - Video / Games
-* [GamesMega](https://gamesmega.net/) - Games / Roms 
+* [GamesMega](https://gamesmega.net/) - Games / Roms
 * [BajarJuegosPCgratis](https://bajarjuegospcgratis.com/) - Games
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - Movies
-* [SomosMovies](https://somosmovies.com/) - Movies 
+* [SomosMovies](https://somosmovies.com/) - Movies
 * [Mega MKV](https://mega-mkv.com/) - Movies
 * [Descargas](https://descargas2020.net/) - Movies / TV
 * [DLShared](https://dlshareds.blogspot.com/?m=1) - Movies
-* [DescargasDD](https://descargasdd.net/) - Movies / TV 
+* [DescargasDD](https://descargasdd.net/) - Movies / TV
 * [mirandopeliculas](https://mirandopeliculas.com/) - Movies / TV
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [Movies, Series ... in Spanish](https://redd.it/ns0y6c) - Movies / TV
-* [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram 
-* [dyndns](http://fina.dyndns.tv/) - TV  
+* [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram
+* [dyndns](http://fina.dyndns.tv/) - TV
 * [Descarga Cine Clasico](https://descargacineclasico.net/) - Classical Movies
 * [Anime-ESP](https://anime-esp.com/) - Anime
 * [ddl.ice](https://ddl.ice-blue.workers.dev/0:/) - Anime
-* [DownloadsMega](https://t.me/DownloadsMega) - Video / Audio / Telegram 
+* [DownloadsMega](https://t.me/DownloadsMega) - Video / Audio / Telegram
 * [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
 * [RedVirtual](https://www.redvirtual.bid/) - Courses
-* [Tododescargas](https://tododescargas.net/) - Software 
+* [Tododescargas](https://tododescargas.net/) - Software
 * [Artistapirata](https://www.artistapirata.com/) - Software
 * [ProgramsVirtualePC](https://www.programasvirtualespc.net/) - Software
 * [MuchosPortables](https://www.muchosportables.com/) - Portable Software
@@ -1479,10 +1481,10 @@
 
 ## ▷ Torrenting
 
-* [Mejor Torrent](https://www.mejortorrents.net/), [2](https://mejortorrent.one/), [3](https://mejortorrent.nz/) - Video / Audio / Software / Games  
-* [DivxTotal](https://www.divxtotal.one/) - Movies / TV / Software 
+* [Mejor Torrent](https://www.mejortorrents.net/), [2](https://mejortorrent.one/), [3](https://mejortorrent.nz/) - Video / Audio / Software / Games
+* [DivxTotal](https://www.divxtotal.one/) - Movies / TV / Software
 * [EliteTorrent](https://elitetorrent.com/), [2](https://www.elitetorrent.do/) - Movies / TV / Anime
-* [zonatorrent](https://zonatorrent.tv/) - Movies / TV 
+* [zonatorrent](https://zonatorrent.tv/) - Movies / TV
 * [PasateaTorrent](https://pasateatorrent.net/) - Movies / TV
 * [Descargas](https://descargas2020.net/) - Movies / TV
 * [Cinetorrent](http://mozatimes.com/) - Movies / TV
@@ -1491,23 +1493,23 @@
 * [DivxTotal](https://www.divxtotal.pm/) - Movies / [Telegram](https://t.me/divxtotal2)
 * [Grantorrent](https://grantorrent.nl/), [2](https://grantorrent.ch/) - Movies / TV
 * [EstrenosDTL](https://www.estrenosdtl.nz/) - Movies
-* [MoviesDVDR](https://www.moviesdvdr.co/) - Movies 
-* [Animextremist](http://animextremist.com/) - Anime / Manga 
+* [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
+* [Animextremist](http://animextremist.com/) - Anime / Manga
 
 ## ▷ Streaming 
 
-* [HDFull](https://hdfull.lv/) - Movies / TV / Anime  
+* [HDFull](https://hdfull.lv/) - Movies / TV / Anime
 * [PelisPlus.so](https://pelisplus.so/) - Movies / TV
-* [Pelispedia](https://www.pelispedia.de/) - Movies / TV 
-* [Pelispedia 2](https://www.pelispedia2.vip/) - Movies / TV 
-* [G Nula](https://gnula.se/) - Movies / TV / Anime 
-* [gnula.nu](http://gnula.nu/) - Movies / TV 
-* [CineHDPlus](https://cinehdplus.net/) - Movies / TV 
+* [Pelispedia](https://www.pelispedia.de/) - Movies / TV
+* [Pelispedia 2](https://www.pelispedia2.vip/) - Movies / TV
+* [G Nula](https://gnula.se/) - Movies / TV / Anime
+* [gnula.nu](http://gnula.nu/) - Movies / TV
+* [CineHDPlus](https://cinehdplus.net/) - Movies / TV
 * [Cliver](https://www.cliver.to/) - Movies
 * [Repelis24](https://repelis24.co/) - Movies / TV
 * [PelisForte](https://pelisforte.co/) - Movies / TV
-* [EntrePeliculasySeries](https://entrepeliculasyseries.nz/capitulos-en-sub-espanol/) - Movies / TV / Anime  
-* [Cine.Arplay](https://play.cine.ar/) - Movies / TV 
+* [EntrePeliculasySeries](https://entrepeliculasyseries.nz/capitulos-en-sub-espanol/) - Movies / TV / Anime
+* [Cine.Arplay](https://play.cine.ar/) - Movies / TV
 * [locopelis](https://www.locopelis.com/) - Movies / NSFW
 * [tekilaz](https://tekilaz.co/) - Movies / TV
 * [Descarga Cine Clasico](https://descargacineclasico.net/) - Classical Movies
@@ -1517,7 +1519,8 @@
 * [novelas360](https://novelas360.com/) - TV
 * [HindiLover](https://hindilover.biz/) - TV
 * [Vix](https://www.vix.com/tv/) - TV
-* [Dilo](https://www.dilo.nu/) - TV / Anime 
+* [Dilo](https://www.dilo.nu/) - TV / Anime
+* [TeleBunker](https://www.telebunker.com/) - Live TV
 * [JKAnime](https://jkanime.net/) - Anime 
 * [AnimeFénix](https://animefenix.com/) - Anime
 * [TioAnime](https://tioanime.com/) - Anime
@@ -1525,14 +1528,14 @@
 * [Animadas](https://seriesanimadas.org/) - Anime
 * [Animeflv](https://www3.animeflv.net/) - Anime
 * [AnimeID](https://www.animeid.tv/) - Anime
-* [Anitube](https://www.anitube.site/) - Anime 
-* [animeblix](https://animeblix.com/) - Anime 
-* [Anime Online Sub](https://www.animeonlinesub.com/) - Anime 
-* [Monoschinos](https://monoschinos2.com/) - Anime 
+* [Anitube](https://www.anitube.site/) - Anime
+* [animeblix](https://animeblix.com/) - Anime
+* [Anime Online Sub](https://www.animeonlinesub.com/) - Anime
+* [Monoschinos](https://monoschinos2.com/) - Anime
 * [serieslan](https://serieslan.com/) - Cartoons
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
 * [Eventoshq](https://www.eventoshq.me/) - WWE
-* [NoireStyle](https://noirestyle.com/) - Film Noir 
+* [NoireStyle](https://noirestyle.com/) - Film Noir
 * [LegalMentegratis](http://legalmentegratis.com/) - YouTube Movies
 * [UKIKU](https://ukiku.ga/) - Anime APK
 * [Edutin Academy](https://edutin.com/) - Courses
@@ -1760,6 +1763,7 @@
 * [PhimGi](https://phimgii.tv/) - Movies / TV
 * [ZingTV](https://zingvntv.com/) - Movies / TV
 * [PhimTor](https://phimtor.com/) - Movies
+* [DramaSee](https://www.dramasee.com/) - Movies / TV
 * [HoatHinhTQ](https://www.hhtq.net/) - Chinese Animation
 * [HHTQtv](https://hhtq.tv/) - Chinese Animation
 * [HHPanda](https://hhpanda.tv/) - Chinese Animation
