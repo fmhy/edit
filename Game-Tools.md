@@ -22,7 +22,7 @@
 * [LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) - Latency Reduction
 * [Fraps Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_fraps) / [2](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
 * [Nvidia Overclocking](https://github.com/LunarPSD/NvidiaOverclocking/blob/main/Nvidia%20Overclocking.md) - Nvidia Overclocking Resources
-* [MSI Afterburner](https://www.msi.com/Landing/afterburner) - Graphics Card Overclocking / FPS Benchmarking
+* [MSI Afterburner](https://www.msi.com/Landing/afterburner), [GPU Tweak lll](https://www.asus.com/campaign/GPU-Tweak-III/index.php) or [EVGA Precision X1](https://www.evga.com/precisionx1/) - Graphics Card Overclocking Tools
 * [MSI Kombustor](https://msikombustor.com/) - GPU Benchmark Test
 * [Overclock](https://www.overclock.net/) - Overclocking Forum
 * [Ryzen Master Utility](https://www.amd.com/en/technologies/ryzen-master) - Overclocking Control for Ryzen Desktop CPU
@@ -147,6 +147,7 @@
 * [Useful Osu](https://github.com/CarbonUwU/Useful-osu) - Osu! Resources
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Osu! Collection Manager
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer
+* [Assist](https://github.com/HeyM1ke/Assist) - Valorant Launcher
 * [ValStretch](https://github.com/lem6ns/valstretch) - Stretched Resolution Valorant Script
 * [Half Life Project Beta](https://hl2-beta.ru/) - Unreleased / Cut Half-Life Content
 * [GmodContent](https://gmodcontent.com/) - Garry's Mod Content Packs
@@ -206,7 +207,7 @@
 * [OP.GG](https://www.op.gg/) - League of Legends Leaderboards & Stats
 * [Porofessor](https://porofessor.gg/) - Live League of Legends Game Stats
 * [Dota2ProTracker](https://www.dota2protracker.com/) or [16-Bits](https://16-bits.org/) - Dota 2 Stats Tracker
-* [WoWProgress](https://www.wowprogress.com) - WoW Leaderboards
+* [WoWProgress](https://www.wowprogress.com) or [CheckPVP](https://www.check-pvp.fr/) - WoW Rankings
 * [Project Era](https://erafn.glitch.me/#downloads) - Play Old Fortnite Seasons
 * [HaloDotAPI](https://developers.halodotapi.com/) - Halo Stats, MOTD & UGC API
 * [Universal VPN Fixer](https://github.com/samfisherirl/VPNGamingPauser/) - Auto Pause VPN While Gaming Online
@@ -251,6 +252,7 @@
 * [Steam Web Filter Bypasser](https://chrome.google.com/webstore/detail/steam-web-filter-bypasser/gohcmgakipmdlpacegcgolafdhdlgifl) - Bypass "You are leaving Steam" page 
 * [Steam Account Manager](https://www.unknowncheats.me/forum/pc-software/117141-steam-account-manager.html) - Steam Account Switcher / Manager
 * [Steam Customizer](https://community.steamcustomizer.com/) or [SteamSkins](http://steamskins.org/) - Steam Skins
+* [SteamDarkMode](https://github.com/SleepDaemon/SteamDarkMode) - Steam Dark Mode Skin
 * [Backgrounds.Gallery](https://backgrounds.gallery/) - Steam Backgrounds
 * [Steam.Design](https://steam.design/) - Steam Background Cropper
 * [SteamFriendsPatcher](https://github.com/PhantomGamers/SteamFriendsPatcher) - Apply Themes to Steam Friends UI
