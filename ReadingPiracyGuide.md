@@ -479,7 +479,6 @@
 * [Medical Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_medical_drive) - Medical
 * [Medical_Book_Bot](https://t.me/Medical_Book_Bot) - Medical / Telegram
 * [medrxiv](https://www.medrxiv.org/) - Medicine Preprints
-
 * [AllTradersLibrary](https://t.me/alltradersLibrary) - Market Trading Books
 * [businessbookmall](http://www.businessbookmall.com/), [2](http://www.textbooksfree.org/) - Accounting, Economics & Business 
 * [Brill](https://brill.com/) - International Law Books
