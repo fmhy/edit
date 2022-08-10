@@ -12,7 +12,7 @@
 # ► Download Games
 
 * **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)** / **[Bonneteer](https://bonneteer.herokuapp.com/)** / **[Rave Search](https://idleendeavor.github.io/gamesearch/)**, [2](https://ravegamesearch.pages.dev/) - Multi-Site Search
-* **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)
+* **[/r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - Trusted Game Download Sites / [Discord](https://discord.gg/5AsChT2WCd)
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - [Discord](https://discord.gg/Up3YARe4RW)
 * **[Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/)** - [Discord](https://discord.gg/HP5sQ6c)
 * **[Steam Underground](https://cs.rin.ru/)** - [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Status](https://csrinstaff.writeas.com/)
@@ -34,6 +34,7 @@
 * [Le Fishe Repacks](https://discord.gg/W3MfGDXhAS)
 * [ElAmigos](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
 * [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
+* [-tARA Repacks](https://t4x4.github.io/)
 * [GLoad](https://gload.to/)
 * [Ova Games](http://www.ovagames.com/)
 * [SEHS Games](https://www.sehsgames.com/)
@@ -93,7 +94,7 @@
 # ► Torrent Games
 
 * **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)**  / **[Bonneteer](https://bonneteer.herokuapp.com/)** / **[Rave Search](https://idleendeavor.github.io/gamesearch/)**, [2](https://ravegamesearch.pages.dev/) - Multi-Site Search
-* **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)
+* **[/r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - Trusted Game Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - [Discord](https://discord.gg/Up3YARe4RW)
 * **[DODI](http://dodi-repacks.site/)** - [Discord](https://discord.gg/uE273qJ)
 * **[ScOOter Repacks](https://scooter-repacks.site/)** - [Discord](https://discord.gg/BWKyN8SgvM)
@@ -531,6 +532,7 @@
 * [PaperGames](https://papergames.io/)
 * [Venge](https://venge.io/) - PvP FPS
 * [LolShot](https://lolshot.io/) - PvP FPS
+* [ShellShock](https://www.shellshock.io/) - PvP FPS
 * [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) - Top Down Battle Royal 
 * [ZombsRoyale.io](https://zombsroyale.io/) - Zombie Battle Royale 
 * [Yohoho.io](https://www.yohoho.io/) - Pirate Battle Royale
