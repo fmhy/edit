@@ -526,7 +526,8 @@
 * [FairyTalez](https://fairytalez.com/) - Historical Folklore / Fairy Tales
 * [CELT](https://celt.ucc.ie/) - Irish / History / Literature / Politics
 * [textfiles.com](http://textfiles.com/) - 1980's Text File Index
-* [Digital Archive](https://digitalarchive.wilsoncenter.org/collections) - Historical Documents  
+* [Digital Archive](https://digitalarchive.wilsoncenter.org/collections) - Historical Documents
+* [Smithsonian Institution Archives](https://siarchives.si.edu/) - Historical Documents
 * [Archives.gov](https://archives.gov/) - US Historical Documents
 * [Europeana](https://www.europeana.eu/) - European Historical Documents
 * [The National Archives](https://nationalarchives.gov.uk/) - UK Historical Documents
@@ -667,6 +668,7 @@
 * [CIA Publications](https://www.cia.gov/resources/publications/) - History / Reports
 * [The Black Vault](https://www.theblackvault.com/) - Declassified Documents
 * [DDOS](https://ddosecrets.com/) - Transparency Collective
+* [Open Payments](https://openpaymentsdata.cms.gov/) - Medical Device Company Payment Reports
 * [NSA Archive](https://nsarchive.gwu.edu/) - Reports
 * [NAP](https://www.nap.edu/) - Reports
 * [WikiLeaks](https://wikileaks.org/) - Leaked Documents 
@@ -710,7 +712,7 @@
 * **[Dictionary Index](https://onelook.com/?d=all_gen)** 
 * **[OneLook](https://onelook.com/)** - Multi Dictionary Search
 * **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus
-* **[Wikipedia](https://www.wikipedia.org/)** or [WikiFox](https://wikifox.ml/) - Encyclopedia / [Read Only](http://static.wiki/) / [Text Extractor](https://github.com/attardi/wikiextractor) / [Deleted Articles](https://deletionpedia.org/en/Main_Page)
+* **[Wikipedia](https://www.wikipedia.org/)** or [WikiFox](https://wikifox.ml/) - Encyclopedia / [Read Only](http://static.wiki/) / [Text Extractor](https://github.com/attardi/wikiextractor) / [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page)
 * **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - Slang Word / Phrase Dictionary
 * [Phrases.org](https://phrases.org.uk/) - Phrase Dictionary
 * [NinjaWords](http://ninjawords.com/) - Dictionary
@@ -739,6 +741,7 @@
 * [lengusa](https://lengusa.com/) or [Fraze.it](https://fraze.it/) - Sentence Search
 * [Wolfram Alpha](https://www.wolframalpha.com/) - Searchable Knowledgebase / [Pro](https://wolfreealpha.github.io/)
 * [Dictionary](https://www.dictionary.com/) - Dictionary / Thesaurus
+* [VisualThesaurus](https://www.visualthesaurus.com/) - Thesaurus
 * [DescribingWords](https://www.describingwords.io/) - Adjectives
 * [Thsrs](http://www.ironicsans.com/thsrs/) - Synonyms
 * [Synonym.com](https://www.synonym.com/) - Synonyms
@@ -790,6 +793,7 @@
 * [ComicCodes](http://www.comicscodes.com/) - Downloads
 * [UnofficialCBR](https://unofficialcbr.home.blog/) - Downloads
 * [BookGN](http://www.bookgn.com/) - Downloads
+* [NewComic](https://www.newcomic.info/) - Downloads
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
 * [BookDL Comic & Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_booksdl) - Comics / Manga / Drive
 * [ComicBookPlus](https://comicbookplus.com/) - Golden Age Comics
