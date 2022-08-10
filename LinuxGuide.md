@@ -156,7 +156,7 @@
 * [GNU Social](https://www.gnusocial.rocks/) / [2](https://gnusocial.network/) - Self-Hosted Social Networking Platform
 * [Hexchat](https://hexchat.github.io/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/) - IRC Clients
 * [Ghetto Skype](https://github.com/stanfieldr/ghetto-skype) - Video / Chat Client
-* [Whatsdesk](https://zerkc.gitlab.io/whatsdesk/) - WhatsApp Client
+* [Whatsdesk](https://zerkc.gitlab.io/whatsdesk/) or [ZapZap](https://github.com/rafatosta/zapzap) - WhatsApp Client
 * [Linux-dash](https://github.com/afaqurk/linux-dash) - Web-based System Dashboard
 * [Sharenix](https://github.com/Francesco149/sharenix) or [MagicCap](https://magiccap.me/) - Screenshot Tool
 * [Plumber](https://github.com/keshavbhatt/plumber) - Screen Recorder / Clipping
@@ -267,6 +267,7 @@
 * [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
 * [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
 * [Twilio Authy](https://snapcraft.io/authy) - Linux Two-Factor Authentication
+* [Lockigest](https://github.com/elmsec/lockigest) - Screen Locker
 * [Menu Searx](https://github.com/MossyMossMoss/menu-searx) - SearX Search Tool 
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) or [Gufw](http://gufw.org/) - Linux Firewall
 * [Tracee](https://github.com/aquasecurity/tracee) - Runtime Security and Forensics
@@ -275,6 +276,7 @@
 * [Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
 * [Tomb](https://www.dyne.org/software/tomb/) - File Encryption
+* [Collision](https://flathub.org/apps/details/dev.geopjr.Collision) - Check File Hashes
 * [WhoAmI Project](https://whoamiproject.tech/) - Privacy / Anonymity Tool / [GitHub](https://github.com/owerdogan/whoami-project)
 * [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition 
 * [SShuttle](https://github.com/sshuttle/sshuttle) - Proxy Server
@@ -333,7 +335,7 @@
 * [proton-gog-install](https://github.com/myyc/proton-gog-install) - Windows to Linux GOG Game Installer
 * [Unix ASCII Games](https://github.com/ligurio/awesome-ttygames) - Unix ASCII Games
 * [CWordle](https://github.com/velorek1/cwordle) - Wordle in Unix Terminal 
-* [NVBurner](https://github.com/iloveichigo/NVBurner) - Overclocking Tool
+* [NVBurner](https://github.com/iloveichigo/NVBurner) or [CoreCTRL](https://gitlab.com/corectrl/corectrl) - Overclocking Tool
 * [dxvk](https://github.com/doitsujin/dxvk) - D3D9, D3D10 and D3D11 for Linux / Wine
 * [DXVKache](https://github.com/NastyGamer/DXVKache) - DXVK Cache Files
 * [VKBasAlt](https://github.com/DadSchoorse/vkBasalt) - Game Post Processing Layer
@@ -364,7 +366,7 @@
 * **[Fantastical](https://flexibits.com/fantastical)** - Calendar
 * [DMHY](https://github.com/yaqinking/DMHY) - Anime Torrent Autodownloader 
 * [YTMusic](https://ytmusic.app/) - YouTube Music Client
-* [Enmity](https://enmity.app/) - Modded Discord Client / [GitHub](https://github.com/enmity-mod) / [Discord](https://discord.com/invite/rMdzhWUaGT)
+* [Enmity](https://enmity.app/) / [Discord](https://discord.com/invite/rMdzhWUaGT) or [Accord](https://github.com/evelyneee/accord) - Discord Client
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) - Download MacOS
 * [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions MacOS
 * [ravynOS](https://airyx.org/) - FreeBSD style MacOS
