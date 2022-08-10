@@ -396,6 +396,7 @@
 
 * [History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_history_sites)
 * [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
+* [Smithsonian Institution Archives](https://siarchives.si.edu/) - Historical Photos / Documents
 * [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
 * [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
 * [Persepolis Reimagined](https://persepolis.getty.edu/) - Explore Persepolis Recreation
@@ -584,6 +585,7 @@
 
 # ► Music Learning
 
+* [Music Outfitters](https://musicoutfitters.com/) - Music Services / Information
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
 * [OpenSong](http://www.opensong.org/) - Track Lyrics, Chords, Sheets & more
 * [ScoreCloud](https://scorecloud.com/) or [Chordify](https://chordify.net/) - Chord Detection / Transcriber
@@ -790,7 +792,7 @@
 * [Chess Tempo](https://chesstempo.com/) - Play & Learn Chess
 * [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - Wood Working Guides & Articles
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots 
-* [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio) or [WikiArt](https://www.wikiart.org/) - Digital Art Collection
+* [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Art cyclopedia](http://www.artcyclopedia.com/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collection
 * [Arachne](https://arachne.dainst.org/) - Ancient Sculpture Image Archive
 * [The First World War](https://www.firstworldwar.amdigital.co.uk/) - WW1 Study Material
 * [Earth 2050](https://2050.earth/) - Future Predictions
