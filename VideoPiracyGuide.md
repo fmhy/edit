@@ -118,7 +118,8 @@
 * [TopEuroPix](https://topeuropix.site/) or [europixHD](https://europixhd.pro/) - Movies / TV / Anime
 * [MovieSee](https://moviesee.live/) - Movies / TV
 * [MovieHunters](https://movieshunters.com/) - Movies / TV
-* [Dogeflix](https://dogeflix.net/) - Movies / TV 
+* [Dogeflix](https://dogeflix.net/) - Movies / TV
+* [eSubMovies](https://www.esubmovie.com/) - Movies
 * [Sauflix](https://www.sauflix.com/) - Movies / TV
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
 * [YesHD](https://yeshd.net/) - Movies / TV
@@ -507,10 +508,11 @@
 * [Rugbydirect](https://rugbydirect.me/) - Sports
 * [USAGoals](https://www.usagoals.video/) - Sports
 * [Redditz Soccer Stream](https://redditz.soccerstreamlinks.com/) - Sports
-* [NBAStreams](https://nbastreams.to/), [NFL](https://nflstreams.to/), [NHL](https://nhlstreams.to/), [MLB](https://mlbstreams.to/) - Sports 
+* [NBAStreams](https://nbastreams.to/), [NFL](https://nflstreams.to/), [NHL](https://nhlstreams.to/), [MLB](https://mlbstreams.to/) - Sports
 * [VIPLeague](https://vipleague.cc/) / [2](https://vipleague.im/) / [3](https://en.vipleague.tv/) or [VIPBox](https://www.vipbox.lc/) - Sports 
-* [FreeStream-Live](http://freestreams-live1.com/) - Sports 
-* [SoccerStreams](https://new.soccerstreams-100.tv/) - Sports 
+* [FreeStream-Live](http://freestreams-live1.com/) - Sports
+* [MyP2P](https://www.myp2p.at/) - Sports
+* [SoccerStreams](https://new.soccerstreams-100.tv/) - Sports
 * Reddit Streams - [Soccer](https://redi1.soccerstreams.net/), [NFL](https://reddit.nflbite.com/), [NBA](https://scor.nbabite.com/), [NHL](https://nhlbite.com/), [MLB](https://mlbshow.com/), [F1](https://live1.formula1stream.cc/), [MMA](https://live2.mmastreams.cc/), [Cricket](https://live.cricketstreams.cc/)
 * [UFC Streams](https://live.ufcstream.me/) - MMA / Wrestling
 * [BoxingStreams100](https://reddits.boxingstreams100.com/) - Boxing
@@ -518,16 +520,17 @@
 * [NBA3000](https://nba3000.ir/) - NBA
 * [9Live](https://www.9live.club/) - NFL
 * [NFLStream](https://reddit.nflstream.io/) - NFL
-* [MLB66](https://mlb66.ir/) - MLB 
+* [MLB66](https://mlb66.ir/) - MLB
 * [MLBStream](https://mlbstream.me/) - MLB
 * [BoxingStreams.cc](https://boxingstreams.cc/) - Boxing
 * [Boxing Streams](https://live.boxingstreams.me/) - Boxing
 * [LiveSoccer TV](https://www.livesoccertv.com/) - Soccer
 * [FootEM](https://www.footem.site/) - Soccer
-* [footybite](https://live.footybite.cc/) - Soccer 
+* [footybite](https://live.footybite.cc/) - Soccer
 * [HesGoal](http://www.hesgoal.tv/) - Soccer
 * [Soccer Streams](https://socceronline.me/) - Soccer
 * [Vebo](https://vebotv.top/) - Soccer
+* [StreamBuddy](https://www.streambuddy.live/) - Soccer
 * [Egylive](https://egylive.online/) - Soccer / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.tv/) - Soccer / MMA
 * [Cyfo Streams](http://www.cyfostreams.com/) - Soccer / Cycling
@@ -766,7 +769,8 @@
 * **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents / [Heroku](https://github.com/l3v11/Jackett-heroku)
 * [Powder](https://powder.media/) - Torrent Streaming App
 * [Filminator](http://filminator.net/) - Torrent Streaming App
-* [Ace Stream](https://acestream.org/) - Torrent Streaming App 
+* [Ace Stream](https://acestream.org/) - Torrent Streaming App
+* [PopcornTime](http://popcorn-time.ga/) -  Torrent Streaming App / [Fix](https://youtu.be/OMoAwNW-DDo)
 * [NotFlix](https://github.com/Bugswriter/notflix) - Torrent Streaming Script
 * [Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) - Stream Torrents via Clients
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
@@ -779,6 +783,7 @@
 * [pirateflix](https://github.com/orinocoz/pirateflix), [wt](https://github.com/DegenCoden/wt), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) / [MPV](https://github.com/noctuid/mpv-peerflix-hook) or [Clifix](https://github.com/fabiospampinato/cliflix)  - Torrent Streaming CLI 
 * [TorrenTV](https://torrentv.github.io/) - Stream Torrents to Apple TV, Chromecast & Roku
 * [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - Stream Torrents in VLC
+* [webtorrent-mpv-hook](https://github.com/mrxdst/webtorrent-mpv-hook) - Stream Torrents in MPV
 * [Iceetime](https://github.com/diericx/iceetime) or [RapidBay](https://github.com/hauxir/rapidbay) - Self-Hosted Torrent Streaming 
 * [DuckieTV](http://duckietv.github.io/DuckieTV/) - TV Tracker / Torrent Downloader 
 
