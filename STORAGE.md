@@ -539,7 +539,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Encrypted Messengers
 
-**[Signal](https://signal.org/)**, [RetroShare](https://retroshare.cc/), [Off-the-Record](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Demonsaw](https://www.demonsaw.com/), [Bitmessage](https://wiki.bitmessage.org/Main_Page) / [Reference Client](https://github.com/Bitmessage/PyBitmessage), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [Mirage](https://github.com/mirukana/mirage), [Keybase](https://keybase.io/) / [.onion](http://fncuwbiisyh6ak3i.onion/), [CWTCH](https://cwtch.im/), [Bip](https://bip.com/en/), [Simplex](https://simplex.chat/), [Emberclear](https://emberclear.io/), [Matrix](https://matrix.org/) / [Cinny](https://cinny.in/), [Commune](https://commune.chat/), [Mesh](https://mesh.im/), [Utopia](https://utopia-ecosystem.com/), [CoyIM](https://coy.im/), [Shad0w](https://www.shad0w.io/), [Speek](https://speek.network/) / [Github](https://github.com/speek-app/speek)
+**[Signal](https://signal.org/)**, [RetroShare](https://retroshare.cc/), [Off-the-Record](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Demonsaw](https://www.demonsaw.com/), [Bitmessage](https://wiki.bitmessage.org/Main_Page) / [Reference Client](https://github.com/Bitmessage/PyBitmessage), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [Mirage](https://github.com/mirukana/mirage), [Keybase](https://keybase.io/) / [.onion](http://fncuwbiisyh6ak3i.onion/), [CWTCH](https://cwtch.im/), [Bip](https://bip.com/en/), [Simplex](https://simplex.chat/), [Emberclear](https://emberclear.io/), [Matrix](https://matrix.org/) / [Cinny](https://cinny.in/), [Commune](https://commune.chat/), [Mesh](https://mesh.im/), [Utopia](https://utopia-ecosystem.com/), [CoyIM](https://coy.im/), [Shad0w](https://www.shad0w.io/), [Speek](https://speek.network/) / [Github](https://github.com/speek-app/speek), [Anonymous Messenger](https://www.anonymousmessenger.ly/)
 
 **Matrix Home Servers**
 
@@ -738,7 +738,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **File Sync / Network Share**
 
-[dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [keybase](https://book.keybase.io/docs/files), [syncthing](https://syncthing.net/), [onionshare](https://onionshare.org/), [OwnCloud](https://owncloud.com/), [MLDonkey](https://github.com/ygrek/mldonkey), [Slate](https://slate.host/), [etesync](https://www.etesync.com/), [WinSCP](https://winscp.net/eng/index.php), [freefilesync](https://freefilesync.org/), [allwaysync](https://allwaysync.com/), [sharik](https://github.com/marchellodev/sharik), [Simple.Savr](https://www.ssavr.com/), [FileBrowser](https://filebrowser.org/), [Snapdrop](https://snapdrop.net/), [KDEConnect](https://kdeconnect.kde.org/), [Resilio](https://www.resilio.com/individuals/), [croc](https://f-droid.org/packages/com.github.howeyc.crocgui), [Ziggs](https://ziggs.io/), [dsynchronize](http://www.dimio.altervista.org/eng/dsynchronize/dsynchronize.html), [landrop](https://landrop.app/), [uploadtransfer](https://uploadtransfer.com/), [Surge](https://getsurge.io/), [odin](https://github.com/odinapp/odin), [dcplusplus](https://dcplusplus.sourceforge.io/index.html), [brig](https://github.com/sahib/brig), [saladroom](https://saladroom.net/), [passfile](https://passfile.me/), [blymp.io](https://blymp.io/) / [GitHub](https://github.com/vantezzen/blymp-io), [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop-web), [sendfiles](https://sendfiles.online/), [Blaze](https://blaze.vercel.app/) / [GitHub](https://github.com/blenderskool/blaze), [XD-Torrent](https://xd-torrent.github.io/), [lightning](https://lightning-share.vercel.app/), [croc](https://github.com/schollz/croc), [Simple-Storage](https://github.com/ducheng0/Simple-Storage), [RDrop](https://rdrop.link/), [webdrop](https://webdrop.space/), [MyAirBridge](https://www.myairbridge.com/), [Sprend](https://sprend.com/), [JumboMail](https://www.jumbomail.me/), [PlusTransfer](https://www.plustransfer.com/)
+[dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [keybase](https://book.keybase.io/docs/files), [syncthing](https://syncthing.net/), [onionshare](https://onionshare.org/), [OwnCloud](https://owncloud.com/), [MLDonkey](https://github.com/ygrek/mldonkey), [Slate](https://slate.host/), [etesync](https://www.etesync.com/), [WinSCP](https://winscp.net/eng/index.php), [freefilesync](https://freefilesync.org/), [allwaysync](https://allwaysync.com/), [sharik](https://github.com/marchellodev/sharik), [Simple.Savr](https://www.ssavr.com/), [FileBrowser](https://filebrowser.org/), [Snapdrop](https://snapdrop.net/), [KDEConnect](https://kdeconnect.kde.org/), [Resilio](https://www.resilio.com/individuals/), [croc](https://f-droid.org/packages/com.github.howeyc.crocgui), [Ziggs](https://ziggs.io/), [dsynchronize](http://www.dimio.altervista.org/eng/dsynchronize/dsynchronize.html), [landrop](https://landrop.app/), [uploadtransfer](https://uploadtransfer.com/), [Surge](https://getsurge.io/), [odin](https://github.com/odinapp/odin), [dcplusplus](https://dcplusplus.sourceforge.io/index.html), [brig](https://github.com/sahib/brig), [saladroom](https://saladroom.net/), [passfile](https://passfile.me/), [blymp.io](https://blymp.io/) / [GitHub](https://github.com/vantezzen/blymp-io), [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop-web), [sendfiles](https://sendfiles.online/), [Blaze](https://blaze.vercel.app/) / [GitHub](https://github.com/blenderskool/blaze), [XD-Torrent](https://xd-torrent.github.io/), [lightning](https://lightning-share.vercel.app/), [croc](https://github.com/schollz/croc), [Simple-Storage](https://github.com/ducheng0/Simple-Storage), [RDrop](https://rdrop.link/), [webdrop](https://webdrop.space/), [MyAirBridge](https://www.myairbridge.com/), [Sprend](https://sprend.com/), [JumboMail](https://www.jumbomail.me/), [PlusTransfer](https://www.plustransfer.com/), [SmartFTP](https://www.smartftp.com/), [Wing FTP](https://www.wftpserver.com/), [Xlight](https://xlightftpd.com/)
 
 **Android File Sync**
 
@@ -753,7 +753,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 #### FMovies Clones
 
 * [FlixHQ](https://flixhq.net/), [2](https://flixhq.ru/)
-* [FBox](https://www1.fbox.to/), [2](https://www3.fbox.to/)
+* [FBox](https://www1.fbox.to/), [2](https://www3.fbox.to/), [3](https://www4.fbox.to/)
 * [HuruWatch](https://hurawatch.com/), [2](https://hurawatch.ru/), [3](https://hurawatch.at/)
 * [Movies7](https://movies7.to/)
 * [Flixtor](https://flixtor.one/)
@@ -877,6 +877,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://tvshows88.com/
 * https://myflixer.link/
 * https://myflixer.to/
+* https://myflixer.pw/
 * https://myflixer.com/
 * https://myflixertv.to/
 * https://ainiesta.com/
@@ -1033,7 +1034,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### IPTV Playlists
 
-[HLS Cat](https://hlscat.com/), [IPTVCat](https://iptvcat.net/), [DailyIPTVList](https://www.dailyiptvlist.com/ip-tv/), [AllIPTV](https://www.alliptvlinks.com/), [CCcam](https://cccamiptv.cc/), [TVLab](https://t.me/tvlab), [IPTV_Sport](https://t.me/iptv_sport), [Leaksat](https://leaksat.com/category/free-iptv/), [GratisIPTV](http://www.gratisiptv.com/), [iptvmate](https://iptvmate.net/), [IPTV](https://www.iptvsource.com/free-ip-tv/), [iptvm3ulist](https://www.iptvm3ulist.com/), [dailym3uiptv](https://dailym3uiptv.com/), [iptv-gratuits](https://iptv-gratuits.com/), [iptvsat](https://iptvsat.info/), [eja.tv](https://eja.tv/), [iptv4sat](https://www.iptv4sat.com/), [iptv-work](https://iptv-work.at.ua/), [xtemus](https://xtemus.com/), [Hacxx-Free-IPTV](http://bit.ly/Hacxx-Free-IPTV)
+[HLS Cat](https://hlscat.com/), [IPTVCat](https://iptvcat.net/), [DailyIPTVList](https://www.dailyiptvlist.com/ip-tv/), [AllIPTV](https://www.alliptvlinks.com/), [CCcam](https://cccamiptv.cc/), [TVLab](https://t.me/tvlab), [IPTV_Sport](https://t.me/iptv_sport), [Leaksat](https://leaksat.com/category/free-iptv/), [GratisIPTV](http://www.gratisiptv.com/), [iptvmate](https://iptvmate.net/), [IPTV](https://www.iptvsource.com/free-ip-tv/), [iptvm3ulist](https://www.iptvm3ulist.com/), [dailym3uiptv](https://dailym3uiptv.com/), [iptv-gratuits](https://iptv-gratuits.com/), [iptvsat](https://iptvsat.info/), [eja.tv](https://eja.tv/), [iptv4sat](https://www.iptv4sat.com/), [iptv-work](https://iptv-work.at.ua/), [xtemus](https://xtemus.com/), [Hacxx-Free-IPTV](http://bit.ly/Hacxx-Free-IPTV), [best.freeiptv](https://best.freeiptv.life/)
 
 ****
 
@@ -1315,7 +1316,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Multi-System**
 
-**[Foobar2000](https://www.foobar2000.org/)**, [AIMP](http://www.aimp.ru/?do=lang&lng=en), [Roon](https://rutracker.org/forum/tracker.php?nm=roon), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/) / [Updates](https://getwacup.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [VOX](https://vox.rocks/windows-music-player), [Hysolid](https://www.hysolid.com/), [aidoru](https://github.com/ffwff/aidoru), [Melodie](https://feugy.github.io/melodie/), [Modular Player](https://www.deviantart.com/jaxoriginals/art/ModularPlayers-v1-3-886577256), [goMP](https://github.com/aditya-K2/goMP), [hyperchroma](https://hyperchroma.app/), [NCurses](https://github.com/ncmpcpp/ncmpcpp), [XMPlay](https://www.un4seen.com/) (Chiptune-Friendly), [guayadeque](https://github.com/anonbeat/guayadeque), [musique](http://flavio.tordini.org/musique), [sonata](https://github.com/multani/sonata), [exaile](http://www.exaile.org/), [quodlibet](https://github.com/quodlibet/quodlibet/), [ario](http://ario-player.sourceforge.net/), [deadbeef](https://deadbeef.sourceforge.io/), [groovebasin](https://github.com/andrewrk/groovebasin), [destroyer](https://github.com/mashaal/destroyer), [Ampache](https://ampache.org/) / [GitHub](https://github.com/ampache/ampache), [Harmanoid](https://harmonoid.com/), [MusikCube](https://musikcube.com/)
+**[Foobar2000](https://www.foobar2000.org/)**, [AIMP](http://www.aimp.ru/?do=lang&lng=en), [Roon](https://rutracker.org/forum/tracker.php?nm=roon), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/) / [2](https://www.majorgeeks.com/files/details/winamp_5_full.html) / [Updates](https://getwacup.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [VOX](https://vox.rocks/windows-music-player), [Hysolid](https://www.hysolid.com/), [aidoru](https://github.com/ffwff/aidoru), [Melodie](https://feugy.github.io/melodie/), [Modular Player](https://www.deviantart.com/jaxoriginals/art/ModularPlayers-v1-3-886577256), [goMP](https://github.com/aditya-K2/goMP), [hyperchroma](https://hyperchroma.app/), [NCurses](https://github.com/ncmpcpp/ncmpcpp), [XMPlay](https://www.un4seen.com/) (Chiptune-Friendly), [guayadeque](https://github.com/anonbeat/guayadeque), [musique](http://flavio.tordini.org/musique), [sonata](https://github.com/multani/sonata), [exaile](http://www.exaile.org/), [quodlibet](https://github.com/quodlibet/quodlibet/), [ario](http://ario-player.sourceforge.net/), [deadbeef](https://deadbeef.sourceforge.io/), [groovebasin](https://github.com/andrewrk/groovebasin), [destroyer](https://github.com/mashaal/destroyer), [Ampache](https://ampache.org/) / [GitHub](https://github.com/ampache/ampache), [Harmanoid](https://harmonoid.com/), [MusikCube](https://musikcube.com/)
 
 **Self-Hosted**
 
@@ -1445,7 +1446,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Open Directory Search String Builder
 
-[strixx](https://strixx.now.sh/), [lendx](http://lendx.org/), [eyeofjustice](https://www.eyeofjustice.com/od/), [lumpysoft](https://lumpysoft.com/), [opendirsearch](https://opendirsearch.abifog.com/), [Ewasion](https://ewasion.github.io/opendirectory-finder/), [Palined](http://palined.com/search/), [filechef](https://www.filechef.com/), [doyouneedmorehdd](https://doyou.needmorehdd.space/#), [FonetAsk](http://www.fonetask.com/), [Reecemercer](https://open-directories.reecemercer.dev/), [giitit](http://www.giitit.com/), [odfinder](https://odfinder.github.io/)
+[strixx](https://strixx.now.sh/), [lendx](http://lendx.org/), [eyeofjustice](https://www.eyeofjustice.com/od/), [lumpysoft](https://lumpysoft.com/), [opendirsearch](https://opendirsearch.abifog.com/), [Ewasion](https://ewasion.github.io/opendirectory-finder/), [Palined](http://palined.com/search/), [filechef](https://www.filechef.com/), [doyouneedmorehdd](https://doyou.needmorehdd.space/#), [FonetAsk](http://www.fonetask.com/), [Reecemercer](https://open-directories.reecemercer.dev/), [giitit](http://www.giitit.com/), [odfinder](https://odfinder.github.io/), [thuvien](https://thuvien.com/)
 
 ***
 
@@ -1551,7 +1552,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Personal Link Homepages 
 
-[Ichi](https://ichi.city), [Linktree](https://linktr.ee/), [Beacon](https://beacons.ai/), [MyURLs](https://myurls.co/), [Carrd](https://carrd.co/), [Bio.link](https://bio.link/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/), [Ayo.so](https://ayo.so/), [CreatorSites](https://creatorsites.net/), [ContactInBio](https://www.contactinbio.com/), [Campsite](https://campsite.bio/)
+[Ichi](https://ichi.city), [Linktree](https://linktr.ee/), [Beacon](https://beacons.ai/), [MyURLs](https://myurls.co/), [Carrd](https://carrd.co/), [Bio.link](https://bio.link/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/), [Ayo.so](https://ayo.so/), [CreatorSites](https://creatorsites.net/), [ContactInBio](https://www.contactinbio.com/), [Campsite](https://campsite.bio/, [bizzl.ink](https://bizzl.ink/)
 
 ***
 
@@ -1813,13 +1814,13 @@ Add the following commands to a search to manually scrape each site.
 
 #### Reverse Image Search
 
-**[Search by Image](https://github.com/dessant/search-by-image)**, [TinEye](https://tineye.com/) / [Extension](https://tineye.com/extensions), [Duplichecker](https://www.duplichecker.com/reverse-image-search.php), [Image Raider](https://infringement.report/api/raider-reverse-image-search/), [ascii2d](https://ascii2d.net/), [iqdb](http://iqdb.org/), [Reverse Image Analyser](https://www.osintcombine.com/reverse-image-analyzer), [same.energy](https://same.energy/), [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/), [Yandex Images](https://yandex.com/images/), [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/), [SmartImage](https://github.com/Decimation/SmartImage), [berify](https://www.berify.com/), [Reverse Image Search](https://www.reverse-image-search.org/), [RevEye](https://github.com/steven2358/reveye), [immerse](https://www.immerse.zone/)
+**[Search by Image](https://github.com/dessant/search-by-image)**, [TinEye](https://tineye.com/) / [Extension](https://tineye.com/extensions), [Duplichecker](https://www.duplichecker.com/reverse-image-search.php), [Image Raider](https://infringement.report/api/raider-reverse-image-search/), [ascii2d](https://ascii2d.net/), [iqdb](http://iqdb.org/), [Reverse Image Analyser](https://www.osintcombine.com/reverse-image-analyzer), [same.energy](https://same.energy/), [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/), [Yandex Images](https://yandex.com/images/), [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/), [SmartImage](https://github.com/Decimation/SmartImage), [berify](https://www.berify.com/), [Reverse Image Search](https://www.reverse-image-search.org/), [RevEye](https://github.com/steven2358/reveye), [immerse](https://www.immerse.zone/), [ReverseImageSearch](https://www.reverseimagesearch.com/)
 
 ***
 
 #### Royalty Free Music
 
-[Free Music Archive](https://www.freemusicarchive.org/), [freesoundtrackmusic](https://www.freesoundtrackmusic.com/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [Starfrosch](https://starfrosch.com/), [StreamBeats](https://www.streambeats.com/), [Mubert](https://mubert.com/), [ccHound](https://cchound.com/), [MusicScreen](https://www.musicscreen.org/), [FilmMusic](https://www.filmmusic.io/), [FreePD](https://www.freepd.com/), [Fugue](https://icons8.com/music), [EDMRF](https://edmroyaltyfree.net/), [chosic](https://www.chosic.com/free-music/all/), [Anttis Instrumentals](https://www.gamedev.net/news/2000-instrumental-pieces-released-by-anttis-instrumentals-r1135/) / [Torrent](https://drive.google.com/open?id=0ByvAPNATAYsBR0FUczYzWHk3NEU), [Sampld](https://open.sampld.app/)
+[Free Music Archive](https://www.freemusicarchive.org/), [freesoundtrackmusic](https://www.freesoundtrackmusic.com/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [Starfrosch](https://starfrosch.com/), [StreamBeats](https://www.streambeats.com/), [Mubert](https://mubert.com/), [ccHound](https://cchound.com/), [MusicScreen](https://www.musicscreen.org/), [FilmMusic](https://www.filmmusic.io/), [FreePD](https://www.freepd.com/), [Fugue](https://icons8.com/music), [EDMRF](https://edmroyaltyfree.net/), [chosic](https://www.chosic.com/free-music/all/), [Anttis Instrumentals](https://www.gamedev.net/news/2000-instrumental-pieces-released-by-anttis-instrumentals-r1135/) / [Torrent](https://drive.google.com/open?id=0ByvAPNATAYsBR0FUczYzWHk3NEU), [Sampld](https://open.sampld.app/), [BLueFoxMusic](https://bluefoxmusic.com/)
 
 ***
 
@@ -1908,7 +1909,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### SFX / Loops
 
-[Adobe Audition Downloads](https://offers.adobe.com/en/na/audition/offers/audition_dlc.html), [Free-Loops](http://free-loops.com/), [FreeSOundEffects](https://www.freesoundeffects.com/), [Freesound](http://freesound.org/), [soundbible](https://soundbible.com/), [flashkit](http://www.flashkit.com/soundfx), [ZapsPlat](https://www.zapsplat.com/), [FindSounds](https://findsounds.com/), [OrangeFreeSounds](https://orangefreesounds.com/), [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) / [Downloader](https://github.com/FThompson/BBCSoundDownloader), [looperman](https://www.looperman.com/loops), [sonniss2019](http://ftpmirror.your.org/pub/misc/sonniss2019/), [storyblocks](https://www.storyblocks.com/), [LabChirp](http://labbed.net/software/labchirp/), [Bfxr](https://www.bfxr.net/), [Noizable](https://noizable.media/), [sampleswap](https://sampleswap.org/), [samplefocus](https://samplefocus.com/), [soundpacks](https://soundpacks.com/), [Soundfishing](https://www.soundfishing.eu/), [SampleScope](https://samplescope.app/), [FindSounds](https://www.findsounds.com/), [splice](https://splice.com/)
+[Adobe Audition Downloads](https://offers.adobe.com/en/na/audition/offers/audition_dlc.html), [Free-Loops](http://free-loops.com/), [FreeSOundEffects](https://www.freesoundeffects.com/), [Freesound](http://freesound.org/), [soundbible](https://soundbible.com/), [flashkit](http://www.flashkit.com/soundfx), [ZapsPlat](https://www.zapsplat.com/), [FindSounds](https://findsounds.com/), [OrangeFreeSounds](https://orangefreesounds.com/), [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) / [Downloader](https://github.com/FThompson/BBCSoundDownloader), [looperman](https://www.looperman.com/loops), [sonniss2019](http://ftpmirror.your.org/pub/misc/sonniss2019/), [storyblocks](https://www.storyblocks.com/), [LabChirp](http://labbed.net/software/labchirp/), [Bfxr](https://www.bfxr.net/), [Noizable](https://noizable.media/), [sampleswap](https://sampleswap.org/), [samplefocus](https://samplefocus.com/), [soundpacks](https://soundpacks.com/), [Soundfishing](https://www.soundfishing.eu/), [SampleScope](https://samplescope.app/), [FindSounds](https://www.findsounds.com/), [splice](https://splice.com/), [MeowPad](https://meowpad.me/)
 
 ***
 
@@ -2638,6 +2639,8 @@ Add the following commands to a search to manually scrape each site.
 
 **[Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/)**, [TTV LOL](https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm), [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions), [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch), [Adblocker for Twitch - Edge](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn)
 
+note - You can also enable "Peter Lowe’s Ad and tracking server list" to block twitch ads
+
 ***
 
 #### uBlock Filters
@@ -2968,7 +2971,7 @@ Good for finding classic, obscure & short films.
 
 #### YouTube Frontends
 
-[Invidious](https://tube.cadence.moe/), [2](https://redirect.invidious.io/), [FreeTubeApp](https://freetubeapp.io/), [ViewTube](https://viewtube.io/) / [GitHub](https://github.com/ViewTube/viewtube-vue), [Piped](https://github.com/TeamPiped/Piped), [2](https://piped.kavin.rocks/), [Youtube-local](https://github.com/user234683/youtube-local), [tube.cadence](https://tube.cadence.moe/), [invuedious](https://github.com/bocchilorenzo/invuedious)
+[Invidious](https://tube.cadence.moe/), [2](https://redirect.invidious.io/), [FreeTubeApp](https://freetubeapp.io/), [ViewTube](https://viewtube.io/) / [GitHub](https://github.com/ViewTube/viewtube-vue), [Piped](https://github.com/TeamPiped/Piped), [2](https://piped.kavin.rocks/), [Youtube-local](https://github.com/user234683/youtube-local), [tube.cadence](https://tube.cadence.moe/), [invuedious](https://github.com/bocchilorenzo/invuedious), [YTB](https://ytb.trom.tf/)
 
 ***
 
