@@ -142,6 +142,7 @@
 * [Data Engineering Practice Problems](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice 
 * [High Assurance Rust](https://highassurance.rs/) - Software Development Guide
 * [The Linux Kernel](https://www.kernel.org/doc/html/latest/) - Linux Kernel Development Guides / [Archives](https://kernel.org/)
+* [Workbench](https://github.com/sonnyp/Workbench) - Learn / Experiment with Gnome
 * [Katacoda](https://www.katacoda.com/) - Software Engineer Tutorials 
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Podcasts for Software Engineers
 * [Interview University](https://github.com/jwasham/coding-interview-university) - Software Engineer Study Guide Coding
@@ -336,7 +337,7 @@
 * [Geekflare Tools](https://gf.dev/toolbox) - Site Testing Tools
 * [LambDatest](https://www.lambdatest.com/) - Cross Browser Testing Cloud
 * [UXTweak](https://www.uxtweak.com/) - Website Design Usability Improvement Tool
-* [Stark](https://www.getstark.co/), [deque](https://www.deque.com/axe/), [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [Achecker](https://achecker.ca/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [tota11y](https://khan.github.io/tota11y/) - Accessibility Evaluation Tools
+* [Stark](https://www.getstark.co/), [deque](https://www.deque.com/axe/), [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [Achecker](https://achecker.ca/), [MagentaA11y](https://www.magentaa11y.com/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [tota11y](https://khan.github.io/tota11y/) - Accessibility Evaluation Tools
 * [Contraste](https://contrasteapp.com/) - Test Text for Accessibility
 * [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
 * [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) - Site Accessibility Guidelines
@@ -384,6 +385,7 @@
 * [Responsivize](https://virejdasani.github.io/Responsivize/) - Website Responsiveness Test
 * [PageSpeed](https://developers.google.com/speed/pagespeed/insights/), [GTmetrix](https://gtmetrix.com/), [Testmysite](https://testmysite.io/) or [Websu](https://websu.io/) - Test Webpage Speed
 * [Partytown](https://github.com/BuilderIO/partytown) - Relocate Scripts to Web Worker
+* [Tempesta FW](https://github.com/tempesta-tech/tempesta) - DDoS / Web Attack Protection
 * [Shisho](https://shisho.dev/) - Infrastructure Code Security Patcher
 * [Security Onion Solutions](https://securityonionsolutions.com/), [Wazuh](https://wazuh.com/) or [Snyk](https://snyk.io/) / [GitHub](https://github.com/snyk/snyk) - Site Security Monitor
 * [securitytxt](https://securitytxt.org/) - Create security.txt Files
@@ -562,7 +564,7 @@ Automated Incident Response and Forensics Framework
 
 ## ▷ Software Development
 
-* [Electron](https://www.electronjs.org/) or [Tauri](https://tauri.studio/) / [GitHub](https://github.com/tauri-apps/tauri) - Desktop App Builder / [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://electron-app-store.ml/) / [Debugger](https://www.electronjs.org/apps/debugtron)
+* [Electron](https://www.electronjs.org/), [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/) or [Tauri](https://tauri.studio/) / [GitHub](https://github.com/tauri-apps/tauri) - Desktop App Builder / [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://electron-app-store.ml/) / [Debugger](https://www.electronjs.org/apps/debugtron)
 * [Budibase](https://budibase.com/) - Internal App Builder / [GitHub](https://github.com/Budibase/budibase)
 * [raylib technologie](https://raylibtech.itch.io/), [bookmarks](https://github.com/MorganGeek/bookmarks) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - Software Development Tools
 * [Theos](https://theos.dev/) - Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
@@ -1039,6 +1041,7 @@ Automated Incident Response and Forensics Framework
 * [JSON Formatter](https://jsonformatter.curiousconcept.com/) or [json-formatter](https://github.com/callumlocke/json-formatter) - JSON Formatter 
 * [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) - JSON Viewer & Editor
 * [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
+* [zio-json](https://github.com/zio/zio-json) - JSON Library
 * [PlantText](https://www.planttext.com/) - UML Editor
 * [glogg](https://glogg.bonnefon.org/) - Log File Explorer
 * [Code::Stats](https://codestats.net/) - Programmer Stat Tracking
