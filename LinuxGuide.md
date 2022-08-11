@@ -219,6 +219,7 @@
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
 * [Ghostwriter](http://wereturtle.github.io/ghostwriter/) or [Remarkable](http://remarkableapp.github.io/) - Markdown Editor
 * [Whatever](https://github.com/CellarD0-0r/whatever) - Evernote Client
+* [Tmux](https://github.com/tmux/tmux) - Terminal Multiplexer
 * [asciinema](https://asciinema.org/) - Terminal Recorder
 * [Electerm](https://electerm.github.io/electerm) - Terminal / SSH / STP Client
 * [Yakuake](https://apps.kde.org/yakuake/) - Quake Style Terminal Emulator
@@ -517,6 +518,7 @@
 * [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 * [WebCatalog](https://webcatalog.io/)
+* [AppleDB](https://appledb.dev/) - Official Apple Software
 * [Awesome macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Open Source Software
 
 ***
