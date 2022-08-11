@@ -223,8 +223,7 @@
 * [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
 * [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
 * [Prelinger Archives](http://www.panix.com/~footage/) - Ephemeral Films [Archive](https://archive.org/details/prelinger)
-* [StageDork](http://stagedork.com/) - Broadway Show Recordings 
-* [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) - Broadway Musicals
+* [StageDork](http://stagedork.com/), [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
 * [Rental Media](https://rentalmedia.neocities.org/index.html) - Free DVD Rentals
 * [SoMuchContent](https://somuchcontent.com/) - Sidemen Content / [Ad Script](https://greasyfork.org/en/scripts/448419-somuchqol)
 * [Unus Annus](https://archive.org/details/unus-annus) - Unus Annus Archive
