@@ -424,7 +424,7 @@
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
 * [FEMBOY](https://github.com/k1rak1ra/FEMBOY) - Anime Image Manager
 * [Pinry](https://docs.getpinry.com/) - Image Tiling Board
-* [Lychee](https://lycheeorg.github.io/), [Up1](https://github.com/Upload/Up1) or [Chevereto](https://chevereto.com/) - Self-Hosted Image Host 
+* [Lychee](https://lycheeorg.github.io/), [PicoShare](https://github.com/mtlynch/picoshare), [Up1](https://github.com/Upload/Up1) or [Chevereto](https://chevereto.com/) - Self-Hosted Image Host 
 * [Pixiv](https://www.pixiv.net/en/) - User-Made Image Host / [Downloader](https://github.com/nonPointer/PixivDownloader), [2](https://chrome.google.com/webstore/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnj?hl=en), [3](https://github.com/Nandaka/PixivUtil2)
 * [Pixelfed](https://pixelfed.org/) - Open Source Instagram Alternative
 * [Librephotos](https://github.com/LibrePhotos/librephotos), [Photoprism](https://github.com/photoprism/photoprism), [Photoview](https://github.com/photoview/photoview) or [Ownphotos](https://github.com/hooram/ownphotos/) - Self-Hosted Google Photo Manager 
