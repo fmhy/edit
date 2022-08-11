@@ -364,6 +364,7 @@
 * [Ektoplazm](https://ektoplazm.com/) - Electronic / MP3 / FLAC
 * [1Trance](https://1trance.org/) - Trance / MP3
 * [1Techno](https://1techno.org/) - Techno / MP3
+* [HardcoreVinylCollection](https://archive.org/details/HardcoreVinylCollection78GB) - Hardcore Techno / MP3
 * [GlobalDJMix](https://globaldjmix.com/) - DJ Mixes / MP3
 * [Vaporwave Library Project](https://vaporwave.ivan.moe/) - Vaporwave
 * [loa2k](https://loa2k.neocities.org/) - Vaporwave
