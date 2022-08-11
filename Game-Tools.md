@@ -37,7 +37,7 @@
 * [WindowedBorderlessGaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming), [Borderless-Gaming-Tool](https://github.com/r57zone/Borderless-Gaming-Tool) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games
 * [Lossless Scaling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_lossless_scaling) - Windowed Game Scaling
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window
-* [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack) or [Flawless Widescreen](http://www.flawlesswidescreen.org/) - Widescreen Fixes
+* [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack), [Widescreen Fixer v3.4](https://community.pcgamingwiki.com/files/file/1754-widescreen-fixer-v34-r737/) or [Flawless Widescreen](http://www.flawlesswidescreen.org/) - Widescreen Fixes
 * [DisplayMagician](https://github.com/terrymacdonald/DisplayMagician) - Per-Game Display Profiles
 * [LinkRunner](https://github.com/romjacket/rj_linkrunner) - Per-Game Settings Manager
 * [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - Game Fixes and Patches
@@ -104,6 +104,7 @@
 * [JoyToKey](https://joytokey.net/) - Controller Emulator
 * [Joystick Curves](https://www.xedocproject.com/joystickcurves.html) - Virtual Joystick Emulator
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
+* [PSN Update Finder](https://pandorah.org/psn/) - PS3 / PS4 Update Finder
 * [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
 * [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes
 * [Lowkey](https://lowkey.gg/) - Record / Screenshot Gameplay 
