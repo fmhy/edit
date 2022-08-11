@@ -1018,7 +1018,8 @@
 ## ▷ Torrenting
 
 * [ReidOSTorrents](https://reidostorrents.com/) - Video / Audio / Software / Games / Books
-* [Onde Baixa](https://ondebaixa.com/) - Movies / TV / Anime 
+* [Onde Baixa](https://ondebaixa.com/) - Movies / TV / Anime
+* [Onde Baixo](https://ondebaixo.com/) - Movies / TV / Anime 
 * [SeriesFIlmesTorrent](https://seriesfilmestorrent.net/) - Movies / TV / Anime 
 * [TorrentToon](https://torrentoon.org/) - Movies / TV
 * [torrentpirata](https://torrentpirata.com/) - Movies / TV
@@ -1477,6 +1478,7 @@
 * [Artistapirata](https://www.artistapirata.com/) - Software
 * [ProgramsVirtualePC](https://www.programasvirtualespc.net/) - Software
 * [MuchosPortables](https://www.muchosportables.com/) - Portable Software
+* [NashStore](https://nashstore.ru/) - App Store
 * [VictorRaulRR](https://victorraulrr.info/) - Modded APKs
 
 ## ▷ Torrenting
@@ -1840,7 +1842,7 @@
 * [khatrimazafull](https://khatrimazafull.show/) - Streaming / Download / Movies
 * [7MovieRulz](https://7movierulz.pe/) - Streaming / Movies
 * [7MovieRulz.es](https://7movierulz.es/) - Stream / Torrent / Movies / [Telegram](https://t.me/movierulztv)
-* [Movierulz](https://movierulzhd.lol/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
+* [Movierulz](https://movierulzhd.wtf/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
 * [MovieRulz.art](https://movierulzlink.art/) - Streaming / Movies
 * [TamilRockers](https://www.tamilrockermovies.org/), [2](https://www.tamilrockermovies.ca/) - Streaming / Torrent / Movies
 * [HiidudeMoviez](https://ww1.4hiidude.me/) - Streaming / Torrent / Movies / [Telegram](https://telegram.me/hiidudemoviez)
