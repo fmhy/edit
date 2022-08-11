@@ -295,8 +295,9 @@
 * [awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
 * [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
 * [Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - Open Source Data Engineering Projects
-* [data-dockerfiles](https://github.com/irbigdata/data-dockerfiles) - Docker Compose Files for Data Engineering 
-* [Auto-Portforward](https://github.com/ruoshan/autoportforward) - Auto Port-Forwarding for Docker, Podman & Kubernetes  
+* [data-dockerfiles](https://github.com/irbigdata/data-dockerfiles) - Docker Compose Files for Data Engineering
+* [Auto-Portforward](https://github.com/ruoshan/autoportforward) - Auto Port-Forwarding for Docker, Podman & Kubernetes
+* [Watchtower](https://github.com/containrrr/watchtower) - Automate Docker Container Image Updates
 * [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - Machine Learning Datasets
 * [Kobra](https://kobra.dev/) - Visual Programming Language for Machine Learning
 * [DVC](https://dvc.org/) - Machine Learning Version Control
@@ -337,7 +338,7 @@
 * [Geekflare Tools](https://gf.dev/toolbox) - Site Testing Tools
 * [LambDatest](https://www.lambdatest.com/) - Cross Browser Testing Cloud
 * [UXTweak](https://www.uxtweak.com/) - Website Design Usability Improvement Tool
-* [Stark](https://www.getstark.co/), [deque](https://www.deque.com/axe/), [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [Achecker](https://achecker.ca/), [MagentaA11y](https://www.magentaa11y.com/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [tota11y](https://khan.github.io/tota11y/) - Accessibility Evaluation Tools
+* [Stark](https://www.getstark.co/), [deque](https://www.deque.com/axe/), [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [Achecker](https://achecker.ca/), [MagentaA11y](https://www.magentaa11y.com/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html), [A11ygator](https://a11ygator.chialab.io/) or [tota11y](https://khan.github.io/tota11y/) - Accessibility Evaluation Tools
 * [Contraste](https://contrasteapp.com/) - Test Text for Accessibility
 * [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
 * [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) - Site Accessibility Guidelines
@@ -378,7 +379,7 @@
 * [StatPing](https://github.com/statping/statping) or [Better Uptime](https://betteruptime.com/) - Site Uptime Monitor
 * [UseMe](https://useme.org/) - Ping Website
 * [Measure](https://web.dev/measure/) - Site Functionality Test
-* [A11ygator](https://a11ygator.chialab.io/) - Site Accessibility Test
+* [Site Inspector](https://www.getsiteinspector.com/) - Check Site for Spelling / Grammatical Errors
 * [UX Check](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) - Site Heuristic Evaluation
 * [Responsive Viewer](https://responsiveviewer.org/) - Test Site on Multiple Screen Types / [Chrome](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en)
 * [Testmail](https://testmail.app/) - Site Signup Test
@@ -402,7 +403,7 @@
 * [Docker2SaaS](https://github.com/easychen/docker2saas) - Convert Docker Images to SaaS Websites
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
 * [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - Webpage Editor 
-* [Plunker](https://plnkr.co/) - Prototype / Test Websites Ideas
+* [Plunker](https://plnkr.co/) or [Bloo](https://bloouikit.com/) - Prototype / Test Websites Ideas
 * [WebDesignMuseum](https://www.webdesignmuseum.org/) - Website Designs Over Time
 * [Bootstrap](https://getbootstrap.com/) - Mobile Site Creator / [Icons](https://github.com/twbs/icons) / [Snippets](https://bootsnipp.com/)
 * [Extension.dev](https://extension.dev/) - Custom Site Browser Extensions
@@ -429,7 +430,7 @@
 * [CSS Bed](https://www.cssbed.com/), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss) or [free-css-templates](https://www.free-css.com/free-css-templates) - CSS Themes / Templates
 * [Hydrogen](https://github.com/Shopify/hydrogen) or [Fullstack Next.js E-commerce](https://github.com/olafsulich/fullstack-nextjs-ecommerce) - Online Store Templates
 * [VidJet](https://www.vidjet.io/) - Publish Videos to Online Stores
-* [Typewolf](https://www.typewolf.com/) - Trending Website Fonts
+* [Typewolf](https://www.typewolf.com/) or [Typ.io](https://typ.io/) - Trending Website Fonts
 * [Dark Patterns](https://www.darkpatterns.org/) - Deceptive User Experience Examples 
 * [Pattern Monster](https://pattern.monster/) - SVG Pattern Generator
 * [Broider](https://maxbittker.github.io/broider/) - Create Border Designs
@@ -1117,8 +1118,9 @@ Automated Incident Response and Forensics Framework
 * [glot.io](https://glot.io/) - Pastebin with Runnable Snippets, API & Compiler 
 * [Mystb.in](https://mystb.in/) - Code Pastebin
 * [Fig](https://fig.io/) - IDE-Style Autocomplete for Terminal
-* [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [IDE One](https://www.ideone.com/) or [Wandbox](https://wandbox.org/) - Online Compiler 
-* [Notebooks.azure](https://notebooks.azure.com/) - Access Jupyter notebooks 
+* [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [IDE One](https://www.ideone.com/) or [Wandbox](https://wandbox.org/) - Online Compiler
+* [Notebooks.azure](https://notebooks.azure.com/) - Access Jupyter Notebooks
+* [Jupyter Server](https://github.com/jupyter-server/jupyter_server) - Jupyter Services / APIs
 * [CoCalc](https://cocalc.com/) - Virtual online workspace
 * [CodePen](https://codepen.io/), [Web Maker](https://webmaker.app/) or [Liveweave](https://liveweave.com/) - Code Sandbox
 * [Platform.uno](https://platform.uno/) - App Framework
