@@ -62,7 +62,7 @@
 * [NextDNS](https://nextdns.io) - DNS Adblocking / [Enhancement](https://greasyfork.org/en/scripts/408934-nx-enhanced) / [Leak Warning](https://redd.it/jt28e8) / [Extension](https://chrome.google.com/webstore/detail/nx-enhanced/ljimbekophocjbnphldoaidgkkaojcfo)
 * [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/), [FreeMyIP](https://freemyip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
 * [Encrypted DNS Resolvers](https://www.privacytools.io/providers/dns/)
-* [DNS Resolver Privacy-First](http://doh.tiar.app/) or [1.1.1.1](https://1.1.1.1/) - DNS Resolver
+* [DNS Resolver Privacy-First](http://doh.tiar.app/) or [1.1.1.1](https://1.1.1.1/) / [Unlimited Data](https://rentry.co/WarpKeyGen) - DNS Resolver
 * [ControlD](https://controld.com/), [DNS Jumper](https://sordum.org/7952/dns-jumper-v2-1/) or [Hetzner](https://www.hetzner.com/dns-console?country=us) - DNS Manager
 * [DNS for Family](https://dnsforfamily.com/), [CleanBrowsing](https://cleanbrowsing.org/filters/), [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter/) or [NXFilter](https://nxfilter.org/) - DNS Filters
 * [Spamhaus](https://www.spamhaus.org/) or [1Hosts](https://o0.pages.dev/) / [GitHub](https://github.com/badmojr/1Hosts) - DNS Blocklists
