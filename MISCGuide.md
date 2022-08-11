@@ -648,7 +648,7 @@
 
 # ► Cooking
 
-* [Copy Me That](https://www.copymethat.com/), [Reciperr](https://reciperr.com/) or [Spoonacular](https://spoonacular.com/food-api) - Recipe Manager
+* [Copy Me That](https://www.copymethat.com/), [Reciperr](https://reciperr.com/), [Tandoor Recipes](https://docs.tandoor.dev/) or [Spoonacular](https://spoonacular.com/food-api) - Recipe Manager
 * [Just the Recipe](https://www.justtherecipe.com/), [PlainOldRecipe](https://www.plainoldrecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - Extract Ingredients & Directions from Recipe Pages 
 * [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - Food Product Ingredient Scanner
 * [cookEbooks](http://cookebooks.info/) - Cookbooks
@@ -1223,6 +1223,7 @@
 * [FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/) - Multiple Tab Related Actions
 * [Firefox Download Managers](https://addons.mozilla.org/en-US/firefox/search/?category=download-management&recommended=true&sort=recommended%2Cusers&type=extension) - Download Managers for Firefox
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
+* [Clipboard2File](https://addons.mozilla.org/en-US/firefox/addon/clipboard2file/) - Upload Images from Clipboard
 * [ShadowFox](https://overdodactyl.github.io/ShadowFox/) or [Dark Background and Light Text](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text/) - Dark Mode
 * [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - Pick Site that Opens in New Tabs 
 * [Keep or Delete Bookmarks](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) - Keep Bookmark Folder Clean 
