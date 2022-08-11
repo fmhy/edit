@@ -724,6 +724,7 @@
 * [50GamesLike](https://www.50gameslike.com/) - Game Recommendations
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - Top 100 Lists
 * [5000 Best](http://5000best.com/) - Top 5000 List
+* [Unseen64](https://www.unseen64.net/) - Cancelled / Lost Games
 * [libib](https://www.libib.com/) - Desktop Media Catalog
 * [MediaTracker](https://github.com/bonukai/MediaTracker) - Self Hosted Media Tracker
 
