@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/9hrNxBy.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/04Lu7Wu.png)** - For mobile users
 
 ***
 ***
@@ -1116,7 +1116,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### M4UFree Clones
 
-[M4uFree](http://m4ufree.tv), [Streamm4u](http://streamm4u.com) / [2](https://streamm4u.ws/), [m4ufree.to](https://m4ufree.to/), [m4uhd.tv](https://m4uhd.tv/) 
+[M4uFree](http://m4ufree.tv), [Streamm4u](http://streamm4u.com) / [2](https://streamm4u.ws/), [m4ufree.to](https://m4ufree.to/), [m4uhd](https://m4uhd.tv/) / [2](https://m4uhd.cc/)
 
 ***
 
@@ -1192,7 +1192,7 @@ Add the following commands to a search to manually scrape each site.
 #### Media Servers
 
 * **[Plex](https://www.plex.tv/)** 
-* **Plex Tools** - /r/plexshares / [Media Sync](https://synclounge.tv/) / [Mount GDrive](https://github.com/plexdrive/plexdrive) / [Setup Guide](https://redd.it/ma1hlm), [2](https://hoarding.me/) / [Plex Pass](https://github.com/binhex/arch-plexpass) / [User Requests](https://overseerr.dev/)
+* **Plex Tools** - /r/plexshares / [Media Sync](https://synclounge.tv/) / [Mount GDrive](https://github.com/plexdrive/plexdrive) / [Setup Guide](https://redd.it/ma1hlm), [2](https://hoarding.me/) / [Plex Pass](https://github.com/binhex/arch-plexpass) / [User Requests](https://overseerr.dev/) / [Monitor](https://tautulli.com/)
 * **[Jellyfin](https://jellyfin.org/)**
 * **Jellyfin Tools** - /r/JellyfinShares / [Anime Plugin](https://github.com/jellyfin-archive/jellyfin-plugin-anime) / [Live Sports](https://github.com/axelmierczuk/sportyfin) / [Desktop Client](https://github.com/jellyfin/jellyfin-media-player) / [Android](https://github.com/jarnedemeulemeester/findroid) / [Last.fm](https://github.com/jesseward/jellyfin-plugin-lastfm) / [Playlist Export](https://github.com/pyluyten/jellyfin_playlist_exporter) / [Customization Guide](https://youtu.be/F85qMyBeiDI) / [Themes](https://jellyfin.org/docs/general/clients/css-customization.html#community-themes) / [Minimal Skin](https://github.com/prayag17/JellySkin) 
 * [Emby](https://emby.media/) + /r/EmbyShares
@@ -1242,7 +1242,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Minecraft Optimization Mods
 
-**[Fabulously Optimised](https://github.com/Fabulously-Optimized/fabulously-optimized)**, [OptiFine](https://optifine.net/), [Sodium](https://modrinth.com/mod/sodium) / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra), [Phosphor](https://modrinth.com/mod/phosphor), [Ferrite Core](https://modrinth.com/mod/ferrite-core), [Caffeine](https://github.com/CaffeineMC), [Lithium](https://modrinth.com/mod/lithium), [Ares](https://www.aresclient.com/), [MinecraftTweaker](https://minecrafttweaker.net/)
+**[Fabulously Optimised](https://github.com/Fabulously-Optimized/fabulously-optimized)**, [OptiFine](https://optifine.net/), [Sodium](https://modrinth.com/mod/sodium) / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra), [Phosphor](https://modrinth.com/mod/phosphor), [Ferrite Core](https://modrinth.com/mod/ferrite-core), [Caffeine](https://github.com/CaffeineMC), [Lithium](https://modrinth.com/mod/lithium), [Ares](https://www.aresclient.com/), [MinecraftTweaker](https://minecrafttweaker.net/), [VulkanMod](https://github.com/xCollateral/VulkanMod)
 
 ***
 
@@ -1564,7 +1564,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Piracy Site Proxies
 
-[Unblockit](https://unblockit.tv/) / [2](https://unblockit.pages.dev/) / [3](https://unblock_it.gitlab.io/site/) / [4](https://unblockit.how/) / [5](https://unblockit.llc/), [6](https://unblockit.how/) , [7](https://unblockit.blue/) / [/r/Unblockit](https://www.reddit.com/r/Unblockit/), [Knaben's Proxy List](https://knaben.info/), [nocensor](https://nocensor.biz/), [TorrentMirror](https://www.torrentmirror.net/#proxy-list-container), [unblockninja](https://unblockninja.com/), [uProxy](https://uproxy.to/), [unblocktorrent](https://unblocktorrent.com/), [TorrentBay](https://torrentbay.to/), [unblock.soy](https://unblock.soy/) / [2](https://en-proxy.com/) / [3](https://unb.how/), [piracyproxy](https://piracyproxy.page/), [unblockedfor](https://unblockedfor.me/), [proxybit](https://proxybit.sbs/) / [2](https://www.unblocknow.surf/) / [3](https://www.unbl4you.cyou/) / [4](https://123unblock.world/) / [5](https://mrunblock.bar/) / [6](https://g3g.fun/), [unblocksource](https://unblocksource.net/), [dirproxy](https://dirproxy.cc/), [unblockproject](https://unblockproject.org/)
+[Unblockit](https://unblockit.tv/) / [2](https://unblockit.pages.dev/) / [3](https://unblock_it.gitlab.io/site/) / [4](https://unblockit.how/) / [5](https://unblockit.llc/) / [6](https://unblockit.how/) / [7](https://unblockit.blue/) / [8](https://unblockit.dev/) / [/r/Unblockit](https://www.reddit.com/r/Unblockit/), [Knaben's Proxy List](https://knaben.info/), [nocensor](https://nocensor.biz/), [TorrentMirror](https://www.torrentmirror.net/#proxy-list-container), [unblockninja](https://unblockninja.com/), [uProxy](https://uproxy.to/), [unblocktorrent](https://unblocktorrent.com/), [TorrentBay](https://torrentbay.to/), [unblock.soy](https://unblock.soy/) / [2](https://en-proxy.com/) / [3](https://unb.how/), [piracyproxy](https://piracyproxy.page/), [unblockedfor](https://unblockedfor.me/), [proxybit](https://proxybit.sbs/) / [2](https://www.unblocknow.surf/) / [3](https://www.unbl4you.cyou/) / [4](https://123unblock.world/) / [5](https://mrunblock.bar/) / [6](https://g3g.fun/), [unblocksource](https://unblocksource.net/), [dirproxy](https://dirproxy.cc/), [unblockproject](https://unblockproject.org/)
 
 ***
 
@@ -1746,6 +1746,16 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
+#### QR Code Generators
+
+[QR Tiger](https://www.qrcode-tiger.com/), [QRCodeMonkey](https://www.qrcode-monkey.com/), [Logaster](https://www.logaster.com/qr-code-generator/), [editorgapp](https://editorgapp.com/html), [qr-code-generator](https://mention.com/en/qr-code-generator/), [amazing-qr](https://github.com/x-hw/amazing-qr), [qr_code_generator](https://www.nirsoft.net/utils/qr_code_generator.html), [QR Code Generator](https://www.the-qrcode-generator.com/)
+
+**Custom QR Code Generators**
+
+[My-Qr.art](https://my-qr.art/), [QRpicture](https://www.qrpicture.com/), [qrcode-generator](https://www.logodesign.net/qrcode-generator)
+
+***
+
 #### Radio Streaming Sites
 
 **[List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)**
@@ -1854,7 +1864,7 @@ Add the following commands to a search to manually scrape each site.
 
 ####  Screen Recorders
 
-**[OBS](https://obsproject.com/)** / [Guide](https://youtu.be/7fuFGDFDzUY), [Bandicam](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bandicam), [FFmpeg](https://ffmpeg.org/), [Nchsoftware](https://www.nchsoftware.com/capture/), [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php), [Screenpresso](https://www.screenpresso.com/), [LiteCam](https://www.litecam.net/en/), [SRERecorder](https://srecorder.com/), [CamStudio](https://camstudio.org/), [EZVid](https://www.ezvid.com/), [Captura](https://mathewsachin.github.io/Captura/), [ScreenRecorder.2.0](https://github.com/Samuel-dot-cloud/ScreenRecorder.2.0), [Kap](https://getkap.co/), [oCam](https://ohsoft.net/eng/ocam/download.php?cate=1002), [WebMCam](https://github.com/michaelmob/WebMCam), [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/), [Kalmuri](https://global.kilho.net/kalmuri/), [Wink](https://www.debugmode.com/wink/), [RecWide](https://www.recwide.com/recorder/), [Vileo](https://lukasbach.github.io/vileo/), [Shar.ec](https://shar.ec/), [Scre.io](https://scre.io/), [Screen Recorder](https://github.com/akon47/ScreenRecorder), [ScreenREC](https://screen-rec.vercel.app/), [RecordCast](https://www.recordcast.com/), [RecordScreen](https://recordscreen.io/), [RecordJoy](https://shareit.video/), [ScreenApp](https://screenapp.io/), [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG), [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder), [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/)
+**[OBS](https://obsproject.com/)** / [Guide](https://youtu.be/7fuFGDFDzUY), [Bandicam](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bandicam), [FFmpeg](https://ffmpeg.org/), [Nchsoftware](https://www.nchsoftware.com/capture/), [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php), [Screenpresso](https://www.screenpresso.com/), [LiteCam](https://www.litecam.net/en/), [SRERecorder](https://srecorder.com/), [CamStudio](https://camstudio.org/), [EZVid](https://www.ezvid.com/), [Captura](https://mathewsachin.github.io/Captura/), [ScreenRecorder.2.0](https://github.com/Samuel-dot-cloud/ScreenRecorder.2.0), [Kap](https://getkap.co/), [oCam](https://ohsoft.net/eng/ocam/download.php?cate=1002), [WebMCam](https://github.com/michaelmob/WebMCam), [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/), [Kalmuri](https://global.kilho.net/kalmuri/), [Wink](https://www.debugmode.com/wink/), [RecWide](https://www.recwide.com/recorder/), [Vileo](https://lukasbach.github.io/vileo/), [Shar.ec](https://shar.ec/), [Scre.io](https://scre.io/), [Screen Recorder](https://github.com/akon47/ScreenRecorder), [ScreenREC](https://screen-rec.vercel.app/), [RecordCast](https://www.recordcast.com/), [RecordScreen](https://recordscreen.io/), [RecordJoy](https://shareit.video/), [ScreenApp](https://screenapp.io/), [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG), [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder), [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/), [Mirillis Action! 4](https://allpcworld.com/mirillis-action-4-12-free-download/)
 
 **Browser Extensions**
 
@@ -2106,7 +2116,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Spotify Tools
 
-[Lyrics](https://versefy.app/) / [Spotify Companion](https://spotifytools.romanello.xyz/) / [Playlist Manager](https://skiley.net/) / [Dedup](https://spotify-dedup.com/) / [Hotkeys](https://github.com/aleab/toastify) / [Backup](http://www.spotmybackup.com/), [2](https://github.com/watsonbox/exportify) / [Library Size](https://opslagify.deruever.nl/) / [Listening Stats](https://www.statsforspotify.com/), [2](https://volt.fm/), [3](https://spotistats.app/), [4](https://github.com/Yooooomi/your_spotify) / [Song Country Search](https://kira.vercel.app/) / [Account Gen](https://github.com/HamzaAnis/go-spotify-account-generator), [2](https://github.com/davide-acanfora/spotify-account-generator) / [Sync Accounts](https://github.com/yaronzz/SpotifySync) / [Canvas Downloader](https://canvastify.delitefully.com/), [GitHub](https://github.com/Delitefully/spotify-canvas-downloader) / [Export Tracks as Deezer Playlists](https://github.com/XDGFX/spotr)
+[Lyrics](https://versefy.app/) / [Spotify Companion](https://spotifytools.romanello.xyz/) / [Playlist Manager](https://skiley.net/) / [Playlist Words](https://spotifycloud.zamar-roura.com/) / [Dedup](https://spotify-dedup.com/) / [Hotkeys](https://github.com/aleab/toastify) / [Backup](http://www.spotmybackup.com/), [2](https://github.com/watsonbox/exportify) / [Library Size](https://opslagify.deruever.nl/) / [Listening Stats](https://www.statsforspotify.com/), [2](https://volt.fm/), [3](https://spotistats.app/), [4](https://github.com/Yooooomi/your_spotify) / [Song Country Search](https://kira.vercel.app/) / [Account Gen](https://github.com/HamzaAnis/go-spotify-account-generator), [2](https://github.com/davide-acanfora/spotify-account-generator) / [Sync Accounts](https://github.com/yaronzz/SpotifySync) / [Canvas Downloader](https://canvastify.delitefully.com/), [GitHub](https://github.com/Delitefully/spotify-canvas-downloader) / [Export Tracks as Deezer Playlists](https://github.com/XDGFX/spotr)
 
 **Spotify Adblockers**
 
@@ -2877,7 +2887,7 @@ Good for finding classic, obscure & short films.
 
 #### Windows 10 Debloater
 
-**[Better Windows (Guide)](https://rentry.co/better-windows)**, **[QuickBoost](https://github.com/SanGraphic/QuickBoost)**, [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/) / [DL](https://www.reddit.com/r/TronScript/wiki/downloads), [win10script](https://github.com/ChrisTitusTech/win10script) / [2](https://christitus.com/debloat-windows-10-2020/), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [CleanWin](https://github.com/pratyakshm/cleanwin), [Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier), [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script), [Remove-Windows10-Bloat](https://gist.github.com/matthewjberger/2f4295887d6cb5738fa34e597f457b7f), [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10), [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat), [SophiApp](https://github.com/Sophia-Community/SophiApp), [WinRice](https://github.com/pratyakshm/WinRice)
+**[Better Windows (Guide)](https://rentry.co/better-windows)**, **[QuickBoost](https://github.com/SanGraphic/QuickBoost)**, [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/) / [DL](https://www.reddit.com/r/TronScript/wiki/downloads), [win10script](https://github.com/ChrisTitusTech/win10script) / [2](https://christitus.com/debloat-windows-10-2020/), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [CleanWin](https://github.com/pratyakshm/cleanwin), [Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier), [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script), [Remove-Windows10-Bloat](https://gist.github.com/matthewjberger/2f4295887d6cb5738fa34e597f457b7f), [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10), [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat), [SophiApp](https://github.com/Sophia-Community/SophiApp), [WinRice](https://github.com/pratyakshm/WinRice), [TweakList](https://github.com/couleur-tweak-tips/TweakList)
 
 ***
 
