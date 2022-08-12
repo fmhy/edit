@@ -15,9 +15,11 @@
 * **[The Odin Project](https://www.theodinproject.com/)** - Web Dev Tutorials / Courses
 * **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Courses / Infinite trial by clearing cookies & making new account
 * **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive [Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_freecodechamp_archive) / [GitHub](https://github.com/freeCodeCamp/freeCodeCamp)
+*  **[Free Courses by Xemu](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_free_courses_by_xemu)** or [Programming Course Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_programming_course_drives) - Programming Course Drives
 * **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books 
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - Git Learning Game
 * [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Github Cheat Sheet
+* [First Timers Only](https://www.firsttimersonly.com/) - Git Code Contribution Guides
 * [Developer.Mozilla](https://developer.mozilla.org/) - Developer Resources 
 * [Awesome Certificates](https://github.com/PanXProject/awesome-certificates) - Dev Courses with Certificates
 * [DZone](https://dzone.com/) - Developer Tutorials
@@ -86,7 +88,6 @@
 * [w3schools](https://www.w3schools.com/) - Programing Tutorials
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - Programming Courses
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - Programming Courses
-* [Programming Courses Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_programming_course_drives) - Programming Courses
 * [FreeCourses](https://freecourses.github.io/) - Programming Courses
 * [HelloWorldCollection](http://helloworldcollection.de/) - Hello World Programming Collection
 * [VisualGo](https://visualgo.net/) - Data Structures & Algorithm Animations
@@ -318,6 +319,7 @@
 * [GoodBadISPs ](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
 * [Emanote](https://emanote.srid.ca/) - Create Sites from Plain-Text Notes / [GitHub](https://github.com/srid/emanote)
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
+* [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
 * [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - DNS Benchmark
 * [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
@@ -495,7 +497,8 @@
 Automated Incident Response and Forensics Framework
 * [cssbuttons](https://cssbuttons.io/) - CSS Buttons
 * [CBox](https://www.cbox.ws/) or [Tawk](https://www.tawk.to/) - Embedded Chat App
-* [StackWhats](https://stackwhats.com/) - Add Whatsapp Chat to Your Website
+* [StackWhats](https://stackwhats.com/) - Add Whatsapp Chat to Your Site
+* [Twitcker](https://twitcker.com/) - Add Twitter Feed Ticker to Site
 * [Error404](https://error404.fun/) - Free 404 Pages
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
 * [HandShake](https://handshake.org/) - Decentralized Certificate Authority & Naming
@@ -594,7 +597,7 @@ Automated Incident Response and Forensics Framework
 * [Amplication](https://amplication.com/) - Create Node.js Apps
 * [Ink](https://github.com/vadimdemedes/ink) - Create Interactive CLI Apps
 * [Enquirer](https://github.com/enquirer/enquirer) - Create CLI Prompts
-* [blessed-contrib](https://github.com/yaronn/blessed-contrib) or [tui-rs](https://github.com/fdehau/tui-rs) - Create Terminal Applications
+* [blessed-contrib](https://github.com/yaronn/blessed-contrib), [BubbleTea](https://github.com/charmbracelet/bubbletea) or [tui-rs](https://github.com/fdehau/tui-rs) - Create Terminal Applications
 * [UWP](https://www.telerik.com/uwp/) - Telerik UI for UWP / [Github](https://github.com/telerik/UI-For-UWP)
 * [FluentWPF](https://github.com/sourcechord/FluentWPF) - Fluent Design System for WPF
 * [Flatpak](https://flatpak.org/) - Create & Distribute Linux Applications
