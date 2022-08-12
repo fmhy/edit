@@ -1673,3 +1673,9 @@ pass: paluch
 #### Scrivener
 
 `aHR0cHM6Ly93d3cuZHJvcGJveC5jb20vcy9ibnN5c2p1YnN5cTQ1dWQvU2NyaXZlbmVyLTEuOS4wLjFiZXRhLXg4Nl82NF9sYW5ndWFnZV9wYWNrLkFwcEltYWdlLnRhci5neg==`
+
+***
+
+#### Free Courses By Xemu
+
+`aHR0cHM6Ly9yZW50cnkub3JnL0ZyZWVDb3Vyc2VzQnlYZW0g`
