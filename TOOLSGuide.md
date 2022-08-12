@@ -176,7 +176,8 @@
 * [Translator++](https://dreamsavior.net/translator-the-introduction/) - Automatic Translator / Editor
 * [Poedit](https://poedit.net/) - Translation Editor
 * [OmegaT](https://omegat.org/) - Translation Memory Tool
-* [Project Naptha](https://projectnaptha.com/) - Image to Text Translator
+* [Project Naptha](https://projectnaptha.com/) - Image to Text Tool
+* [TranslateImages](https://translateimages.site/) - Translate Image Text
 * [Lonliness Translate](https://loneliness.one/translate) - Re-translate Phrases
 * [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
 * [Delim](https://delim.co/) - Comma Separating Tool
@@ -1383,8 +1384,8 @@
 * [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) - Video Web Player
 * [HookTube](https://hooktube.com/) - View YouTube Videos on Lightweight Page / [Redirect Script](https://greasyfork.org/en/scripts/24163-youtube-unblocker) 
 * [myTube](https://github.com/keitharm/mytube) - Bloat Free YouTube Client
+* [Ytfzf](https://github.com/pystardust/ytfzf) or [YewTube](https://github.com/iamtalhaasghar/yewtube) - Terminal YouTube Players
 * [YouTube_RSS](https://github.com/SimonDaNinja/youtube_rss) - YouTube RSS Client
-* [Ytfzf](https://github.com/pystardust/ytfzf) - Watch YouTube via the Terminal 
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
 * [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - YouTube to GIF 
 * [VideoGlancer](https://videoglancer.com/) - YouTube to PDF
