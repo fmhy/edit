@@ -193,12 +193,15 @@
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
 * [Cemu Guide](https://cemu.cfw.guide/) - Cemu & BOTW Optimization Guide
 * [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
-* [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) - Yuzu Emulator Setup Guide
+* [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) / [2](https://docs.google.com/document/d/1weVLWey3RePzn8LubFRFHRVkoczCbLkvSf8fNfp1yZ0/edit) / [3](https://github.com/PrincessAkira/road-to-yuzu-without-switch) - Yuzu Emulator Setup Guide
+* [Ryujinx Setup Guide](https://docs.google.com/document/d/1prxOJaE4WhPeYNHW17W5UaWZxDgB8e5wNHxt2O4FKvs/edit) - Ryujinx Emulator Setup Guide
 * [Pineappleea](https://pineappleea.github.io/), [128Bit Yuzu](https://mostlywhat.github.io/128Bit-Yuzu-Installer/) or [Yuzu-Updater](https://github.com/sinscove/Yuzu-Updater) - Yuzu Updater
 * [YuzuModDownloader](https://github.com/amakvana/YuzuModDownloader) - Yuzu Mod Downloader
+* [LiftInstall](https://github.com/pineappleEA/liftinstall) - Yuzu App Installer
 * [EmuSAK UI](https://github.com/CapitaineJSparrow/emusak-ui) - Download Switch Firmware & Keys
 * [Switch Army Knife](https://github.com/dezem/SAK) - Switch Emulator Multi-Tool
 * [EeveeSaves](https://discord.io/eeveesaves) - Switch Saves
+* [RPCS3 Setup Guide](https://docs.google.com/document/d/1gdjNab-CtVS97jH2diPPP5tCrpBeof9-qPIRRB9-BrU/edit) - RPCS3 Emulator Setup Guide
 * [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PSCX Development Emulator
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://ps3.aldostools.org/updates.html) - Update PS3 Games
 
@@ -233,37 +236,45 @@
 
 * **[My Abandonware](https://www.myabandonware.com/)**
 * **[RetroGames](https://www.retrogames.cz/)**
-* **[Console Living Room](https://archive.org/details/consolelivingroom)** 
+* **[Console Living Room](https://archive.org/details/consolelivingroom)**
 * **[retrogames.cc](https://www.retrogames.cc/)** - [Download Guide](https://i.imgur.com/jSAsSb6.png)
-* [ClassicReload](https://classicreload.com/) 
+* [ClassicReload](https://classicreload.com/)
 * [Retro Games Bot](https://retrogamesbot.com/)
+* [EmuBrowser](https://emubrowser.com/)
 * [AtariMania](http://www.atarimania.com/index.html)
 * [Vizzed](https://www.vizzed.com/)
 * [Free80sArcade](http://www.free80sarcade.com/)
 * [Retro Uprising](http://www.retrouprising.com/) 
 * [Play Classic Games](https://playclassic.games/)
 * [ClassicGames](https://www.classicgames.me/)
-* [Emulator.Games](https://emulator.games/) 
+* [Emulator.Games](https://emulator.games/)
 * [GamulatoR](https://www.gamulator.com/ROMs)
-* [Aurora](https://skitty.xyz/aurora/) 
-* [Emulator.online](http://emulator.online/) 
+* [Aurora](https://skitty.xyz/aurora/)
+* [Emulator.online](http://emulator.online/)
 * [Online.OldGames](https://online.oldgames.sk/)
-* [Emulator Games Online](https://emulatorgames.online/) 
-* [Virtual Consoles](https://virtualconsoles.com/) 
+* [Retro Games Online Online](https://retrogamesonline.co/)
+* [PlayEmulator](https://playemulator.online/)
+* [Emulator Games Online](https://emulatorgames.online/)
+* [Virtual Consoles](https://virtualconsoles.com/)
 * [OldGameShelf](https://oldgameshelf.com/)
 * [Emulator Online](https://emulatoronline.com/)
-* [MyEmulator](https://myemulator.online/) 
+* [PlayRetroGames](https://playretrogames.net/)
+* [MyEmulator](https://myemulator.online/)
+* [NESNinja](https://nesninja.com/)
 * [Telemelt](https://telemelt.com/) - Multiplayer Browser Emulator
 * [PSX Party](https://psxparty.kosmi.io/) - Multiplayer Playstation Browser Emulator
-* [PS1FUN](http://www.ps1fun.com/) - PS1 Browser Emulator 
-* [LYR9C](https://lyr9c.weebly.com/gba-games.html) - GBA Browser Emulator 
+* [PS1FUN](http://www.ps1fun.com/) - PS1 Browser Emulator
+* [LYR9C](https://lyr9c.weebly.com/gba-games.html) - GBA Browser Emulator
 * [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy Browser Emulator
 * [SNESFun](http://www.snesfun.com/) - SNES Browser Emulator
+* [8bbit](http://www.8bbit.com/) - NES Browser Emulator
 * [QAOP](http://torinak.com/qaop/games) - Arcade Games
+* [SSega](https://www.ssega.com/) - Sega Browser Emulator
 * [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator
 * [Mega Drive Emulator](https://megadrive-emulator.com/) - Sega Megadrive Browser Emulator
 * [DosGames](https://dosgames.com/), [MSDOSGames](https://msdosgames.com/) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulator
-* [LCD Games](http://bdrgames.nl/lcdgames/) - Retro LCD Game Emulator 
+* [NeoGeoFun](http://www.neogeofun.com/) - Neo Geo Browser Emulator
+* [LCD Games](http://bdrgames.nl/lcdgames/) - Retro LCD Game Emulator
 * [File-Hunter](https://www.file-hunter.com/) - MSX / Amiga Browser Emulator
 * [MSXGamesWorld](https://www.msxgamesworld.com/) - MSX Browser Emulator
 * [C64Online](https://c64online.com/) - C64 Browser Emulator
@@ -309,6 +320,9 @@
 * [Classic Games](https://classicdosgames.com/) - Classic & Retro Game Archive
 * [Old Game Finer](http://www.oldgamesfinder.com/?) - Classic Game Search Engine
 * [The Interactive Fiction Page](http://www.cs.cmu.edu/~wsr/IF/) - Interactive Fiction Games
+* [ClassicGame](https://www.classicgame.com/) - Browser Games
+* [ClassicGamesArcade](https://classicgamesarcade.com/) - Browser Games
+* [Radyolojinet](https://www.radyolojinet.com/retro/) - Browser Games
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [FunGame](http://www.fungame.pe.kr/main_eng.htm) - Java Browser Games
 * [OpenRA](https://openra.net/) - Command & Conquer Recreation 
@@ -324,6 +338,7 @@
 * [Doom64 EX](https://doom64ex.wordpress.com/downloads/) - Doom 64 PC Port 
 * [dhewm3](https://dhewm3.org/) - Doom 3 Source Port
 * [DOOM FX](https://github.com/RandalLinden/DOOM-FX) - Doom SNES Source Code
+* [psdoom-ng](https://github.com/ChrisTitusTech/psdoom-ng) - Close Processes by Killing Demons
 * [Unreal Archive](https://unrealarchive.org/index.html) - Unreal Tournament Mods, Maps, Skins ect.
 * [Q1K3](https://js13kgames.com/games/q1k3/index.html) - Quake Inspired Browser Game
 * [rottexpr](https://github.com/LTCHIPS/rottexpr) - Rise of the Triad Source Port
@@ -342,6 +357,8 @@
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)
 * [Mars 3D](https://mars3d-game.wixsite.com/index) - Mars 3D Translation & Remake
+* [Super Mario Bros](https://supermariobros.io/)
+* [Super Mario Bros Crossover](https://explodingrabbit.com/games/super-mario-bros-crossover/) - Play SMB with Alternative Characters
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
 * [sm64](https://github.com/n64decomp/sm64) - Super Mario 64 Decompilation / [Guide](https://youtu.be/rQVpfWYT0eg) 
 * [wide-snes](https://github.com/VitorVilela7/wide-snes) - Widescreen Super Mario World
@@ -409,7 +426,6 @@
 * [Foddy](http://www.foddy.net/category/games/browser/)
 * [ALFY](https://www.alfy.com/)
 * [GameKB](https://www.gamekb.com/)
-* [ClassicGame](https://www.classicgame.com/)
 * [Andkon](http://andkon.com/arcade/) 
 * [DAN-BALL](http://dan-ball.jp/en/)
 * [KBHGames](https://kbhgames.com/)
@@ -417,7 +433,6 @@
 * [FreeGames](https://freegames.org/) 
 * [MSM Games](https://zone.msn.com/en-us/home) 
 * [CAMLBOY](https://linoscope.github.io/CAMLBOY/) 
-* [Super Mario Bros](https://supermariobros.io/) 
 * [itch.io](https://graebor.itch.io/), [2](https://grey2scale.itch.io/), [3](https://ncase.itch.io/), [4](https://capsquared.itch.io/), [5](https://evilobjective.itch.io/)
 * [Cartoon Network Games](https://www.cartoonnetwork.com/games/index.html)
 * [Disney Games](https://disneynow.com/all-games)
@@ -485,7 +500,6 @@
 * [Super Auto Pets](https://teamwood.itch.io/super-auto-pets) - Pet Battle Game
 * [Forumwarz](http://www.forumwarz.com/) - Browser RPG  
 * [Kingdom of Loathing](https://www.kingdomofloathing.com/) - Comedy RPG 
-* [Super Mario Bros Crossover](https://explodingrabbit.com/games/super-mario-bros-crossover/) - Play SMB as characters from other games
 * [Bruno-Simon](https://bruno-simon.com/) - Truck Driving Game
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
 * [A Leaf on the Wind](http://anism.org/lotw/) - Leaf Arcade Game 
@@ -585,7 +599,8 @@
 * [GameKnot Chess](https://gameknot.com/) - Multiplayer Chess
 * [Chesses](https://pippinbarr.github.io/chesses/) - Multiple Styles of Chess 
 * [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game 
-* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess w/o Turns 
+* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess w/o Turns
+* [Gambit](https://github.com/maaslalani/gambit) - Terminal Chess
 * [AllBad.Cards](https://allbad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - Cards Against Humanity Online 
 * [Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards) - Card Games Index
 * [WorldOfCardGames](https://worldofcardgames.com/), [247Games](https://www.247games.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Card Games
