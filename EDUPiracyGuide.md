@@ -376,7 +376,7 @@
 * [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - 
 * [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) - Public Datasets
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
-* [If It Were My Home](https://www.ifitweremyhome.com/) - Country Data Comparisons
+* [If It Were My Home](https://www.ifitweremyhome.com/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [Internet Live Stats](https://www.internetlivestats.com/) - Live Internet Statistics
 * [The Federation](https://the-federation.info/) - Fediverse Statistics
@@ -455,7 +455,7 @@
 * [Google Sky](http://www.google.com/sky) - View Stars, The Moon & Mars 
 * [ESO Zoomable](https://www.eso.org/public/images/eso1242a/zoomable/) or [Hubble Zoomable](https://esahubble.org/images/archive/zoomable/) - Zoomable Telescope Photos
 * [Space Telescope Live](https://spacetelescopelive.org/) - Live Hubble Image Data
-* [James Webb Space Telescope](https://jwst.nasa.gov/index.html) - Webb Space Telescope Site
+* [James Webb Space Telescope](https://jwst.nasa.gov/index.html) or [ESAWebb](https://esawebb.org/) - Webb Space Telescope Site
 * [HubbleSite](https://hubblesite.org/) - Hubble Telescope Site
 * [APOD](https://apod.nasa.gov/) - Daily NASA Astronomy Pictures
 * [Clear Dark Sky](https://cleardarksky.com/) - Star Gazing Weather Forecasts
@@ -725,7 +725,7 @@
 * [PowerInBooks](https://powerinbooks.xyz/temp/) or [LitSolutions](https://www.litsolutions.org/) - Textbook Solutions 
 * [LabXchange](https://www.labxchange.org/) - Science / Interactive
 * [AskNature](https://asknature.org/) - Natural Strategies / Solutions 
-* [Citation Generator](https://www.citationgenerator.com/), [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/) or [Cite This For Me](https://www.citethisforme.com/) - Generate Citations / [Chrome](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
+* [Citation Generator](https://www.citationgenerator.com/), [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Generate Citations / [Chrome](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
 * [AMCharts](https://live.amcharts.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - Chart Creators
 * [Data Gif Maker](http://datagifmaker.withgoogle.com/) - Animate Data 
