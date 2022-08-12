@@ -17,8 +17,7 @@
 * **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)**, [Game Debate](https://game-debate.com/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Test 
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
 * [TCNO](https://github.com/TcNobo/TcNo-Acc-Switcher) - Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)
-* [Andy's Steam Crack Guide](https://rentry.org/steamcrackguidebyanddy) / [2](https://redd.it/pmim9t) - How-to Add Cracked Games to Steam / [Client](https://mega.nz/file/mpdAXKTZ#3CVjRZG1i8K_Zn8b9IIARbIZZE73KdzazVHMDcaWZJc)
-* [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?usp=sharing), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS & Latency Guides
+* [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?usp=sharing), [MoreFPS](https://morefps.net/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) - Latency Reduction
 * [Fraps Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_fraps) / [2](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
 * [Nvidia Overclocking](https://github.com/LunarPSD/NvidiaOverclocking/blob/main/Nvidia%20Overclocking.md) - Nvidia Overclocking Resources
@@ -51,11 +50,13 @@
 * [Koalageddon](https://github.com/acidicoala/Koalageddon/) - DLC Unlocker for Steam, Epic, Origin, EA & Uplay
 * [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin & EA
 * [DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=104412) - DLC Unlocker for EA & Origin
+* [DLC Unlocker Payday2](https://github.com/8fn/DLC-Unlocker-PD2) - DLC Unlocker for Payday 2
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - Controller Connectivity Testers
 * [Momentum](https://momentum-mod.org/) - Movement Training
 * [Aim Lab](https://aimlab.gg/), [AimBooster](http://www.aimbooster.com/), [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training Tools & Games
 * [CrossOver](https://github.com/lacymorrow/crossover) or [HudSight](https://hudsight.com/) - Crosshair Overlay
 * [ClickSpeeder](https://clickspeeder.com/), [ClickSpeedTester](https://www.clickspeedtester.com/) or [CPSCounter](https://cpscounter.org/) - Click Speed Test / Trainers
+* [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
 * [TASVideos](https://tasvideos.org/) - Watch and Publish Tool Assisted Speedruns
 * [MacroGamer](https://www.itoady.com/) - Game Macro Recorder
 * [Blitz](https://blitz.gg/) - Post Match Performance Analyzer
@@ -104,6 +105,7 @@
 * [JoyToKey](https://joytokey.net/) - Controller Emulator
 * [Joystick Curves](https://www.xedocproject.com/joystickcurves.html) - Virtual Joystick Emulator
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
+* [Mobile Gamepad](https://play.google.com/store/apps/details?id=com.mmh.mobilegamepad&hl=en&gl=US), [Ultimate Gamepad](https://m.apkpure.com/ultimate-gamepad/com.negusoft.ugamepad), [PC Remote](https://play.google.com/store/apps/details?id=com.monect.portable), [Max Joypad](http://maxjoypad.com/) or [BT Controller](https://play.google.com/store/apps/details?id=softigloo.btcontroller&hl=en&gl=US) - Use Phone as Controller
 * [PSN Update Finder](https://pandorah.org/psn/) - PS3 / PS4 Update Finder
 * [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
 * [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes
@@ -131,7 +133,7 @@
 * [dlss-swap](https://github.com/beeradmoore/dlss-swapper) - Download, Manage & Swap DLSS
 * [ChimeraOS ](https://chimeraos.org/) - Gaming Focused OS / [Discord](https://discord.gg/fKsUbrt)
 * [VibranceGUI](https://vibrancegui.com/) - Automate Digital Vibrance Control
-* [ReShade](https://reshade.me/) - Generic Post-Processing Injector / [GitHub](https://github.com/crosire/reshade)
+* [ReShade](https://reshade.me/) - Generic Post-Processing Injector / [GitHub](https://github.com/crosire/reshade) / [Shaders](https://github.com/BlueSkyDefender/Depth3D)
 * [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - Glide & DirectX Graphics Wrapper
 * [Achievement Watcher](https://github.com/xan105/Achievement-Watcher) - Achievement File Parser, Notifications & Playtime Tracker
 * [MegaGames](https://megagames.com/) or [GTrainers](https://gtrainers.com/) - Fixes / Trainers / Saves
@@ -148,6 +150,7 @@
 * [Useful Osu](https://github.com/CarbonUwU/Useful-osu) - Osu! Resources
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Osu! Collection Manager
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer
+* [H1-Mod](https://h1.gg/) - Call of Duty: Modern Warfare Remastered Client
 * [Assist](https://github.com/HeyM1ke/Assist) - Valorant Launcher
 * [ValStretch](https://github.com/lem6ns/valstretch) - Stretched Resolution Valorant Script
 * [Half Life Project Beta](https://hl2-beta.ru/) - Unreleased / Cut Half-Life Content
@@ -223,6 +226,7 @@
 
 ## ▷ Steam Tools
 
+* [Andy's Steam Crack Guide](https://rentry.org/steamcrackguidebyanddy) / [2](https://redd.it/pmim9t) - How-to Add Cracked Games to Steam / [Client](https://mega.nz/file/mpdAXKTZ#3CVjRZG1i8K_Zn8b9IIARbIZZE73KdzazVHMDcaWZJc)
 * **[A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)** or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tools Index
 * [Steam Deck Mods](https://steamdeckmods.com/) - Steam Deck Mods / [Discord](https://discord.gg/T9FEJ5aUNv)
 * [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
@@ -236,12 +240,13 @@
 * [Steam Rom Manager](https://github.com/doZennn/steam-rom-manager/) - Add Roms to Steam
 * [The Wheelhaus](https://thewheelhaus.com/) - Find Random Steam Games
 * [Steamless](https://github.com/atom0s/Steamless) - DRM Remover
+* [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8 )
 * [Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack) - Auto Apply Goldberg & Steamless
 * [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Steam DLC Unlocker / [Search](https://creamapidb.herokuapp.com/) / [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
 * [Koalageddon](https://github.com/acidicoala/Koalageddon/) - DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay
 * [Get DLC from SteamDB](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837)
-* [Steamworkshop.download](http://steamworkshop.download/), [Workshop Downloader](https://4hub.info/workshop-downloader/) or [steam-workshop-downloader](https://gramvio.com/steam-workshop-downloader/) - Steam Workshop File Downloaders
-* [DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam Depot Downloader
+* [Steamworkshop.download](http://steamworkshop.download/), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader), [Workshop Downloader](https://4hub.info/workshop-downloader/) or [steam-workshop-downloader](https://gramvio.com/steam-workshop-downloader/) - Steam Workshop File Downloaders
+* [DepotDownloader](https://github.com/SteamRE/DepotDownloader) or [SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) - Steam Depot Downloaders
 * [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop Implementation of Steam's Mobile Authenticator 
 * [Steam Python](https://github.com/ValvePython/steam) - Interact with Steam via Python
 * [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - Steam Card Automation 
@@ -303,7 +308,7 @@
 * [VehFuncs](https://www.mixmods.com.br/2020/12/vehfuncs-v2-2-beta/) - GTASA Vehicle Mods
 * [mobile-hud](https://github.com/DK22Pac/mobile-hud) - GTASA Mobile HUD Mod
 * [Driver](https://github.com/CT83/Driver) or [GTASA-Driving](https://github.com/ParmuSingh/gtasa-driving) - GTASA A.I. Driving Mod
-* [SA Mission Maker](https://libertycity.net/files/gta-san-andreas/175089-sa-mission-maker-v1-45.html) - GTASA Mission Creator
+* [SA Mission Maker](https://libertycity.net/files/gta-san-andreas/175089-sa-mission-maker-v1-45.html) or [DYOM](https://dyom.gtagames.nl/) - GTASA Mission Creator
 * [Grand-Theft-Auto-1-Renderware-Edition](https://github.com/wakka387/Grand-Theft-Auto-1-Renderware-Edition) - Port GTA 1 & London 69/61 to GTA III/VC/SA
 
 ***
@@ -402,6 +407,7 @@
 # ► Homebrew
 
 * **[Hacks.Guide](https://hacks.guide/)**, **[CFW Guide](https://cfw.guide/)**, [ConsoleMods.org](https://consolemods.org/) / [Discord](https://discord.gg/x5vEnkR4C8), [Digiex](https://digiex.net/forums/), [Homebrew Guides](https://rentry.co/Guides), [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - Homebrew Guides
+* [Darthsternie](https://darthsternie.net/) - Console Firmware / Exploits Archive
 * [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - Wii Homebrew Installer / [Find MAC](https://www.nintendo.com/consumer/systems/wii/en_na/includes/rvl-ht-int-find-mac-address.jsp)
 * [WiiU Exploit](https://wiiuexploit.xyz/) or [ModMii](https://modmii.github.io/) - WiiU Homebrew Installer
 * [Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)
@@ -445,16 +451,20 @@
 * [ModsBase](https://modsbase.com/) or [ModsFire](https://modsfire.com/) - Mod Hosts
 * [Otis_Inf Camera Mods](https://redd.it/hvttbd) - Game Camera Mods
 * [injectSMAA](http://mrhaandi.blogspot.com/p/injectsmaa.html) - SMAA Injection Tool
-* [OpenVR FSR](https://github.com/fholger/openvr_fsr) - Steam VR FidelityFX Super Resolution Mod
+* [FSR](https://rentry.co/FSR) - FidelityFX Super Resolution Mods
+* [OpenVR FSR](https://github.com/fholger/openvr_fsr) - Steam VR FidelityFX Super Resolution Mods
+* [RDRFSR2](https://github.com/RealIndica/RDRFSR2) - RDR2 FidelityFX Super Resolution Mod
 * [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - Unlock Genshin Impact FPS Cap
+* [HedgeModManager](https://github.com/thesupersonic16/HedgeModManager) - Sonic Game Mod Manager
 * [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap
 * [Factorio Mods](https://1488.me/factorio/mods/en) - Factorio Mods Downloader
-* [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - Mario Kart Wii Rebalanced Mod / [Discord](https://discord.gg/YZxyK4f3EU) 
+* [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - Mario Kart Wii Rebalanced Mod / [Discord](https://discord.gg/YZxyK4f3EU)
 * [Rekt](https://discord.com/invite/HqjQFCp) - Black Ops 1 Mod Project
 * [Plutonium](https://plutonium.pw/) - Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah) 
 * [IW4x / IW6x](https://xlabs.dev/) - COD MW2 Mod Project 
 * [UGX Mods](https://www.ugx-mods.com/) - COD Zombies Mods / [Discord](https://discord.gg/g9S2nSp)
 * [Project Reality](https://www.realitymod.com/about) - BF2 & ARMA 2 Realism Mod
+* [BF3Reality](https://bf3reality.com/) - BF3 Realism Mod
 * [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - Battlefield Mod Projects
 * [Optimize Dying Light 2](https://rentry.co/opto-dl2) - DL2 Optimization Mods
 * [Open Carnage](https://opencarnage.net/) / [Discord](https://discord.com/invite/2pf3Yjb), [Reclaimers](https://reclaimers.net/) / [Discord](https://discord.com/invite/reclaimers) or [Halo Mods](https://discord.com/invite/WuurKwr)  - Halo Modding Community
@@ -462,6 +472,7 @@
 * [Flatout 2 Fan Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2414295888) - Patch for Flatout 2
 * [Synergy2k](https://synergy2k.net/) - NBA 2K MyCareer Mod Tool
 * [Forza Painter](https://github.com/forza-painter/forza-painter) - Import Images to Forza
+* [Silent Hill 2: Enhanced Edition](http://enhanced.townofsilenthill.com/SH2/) - Silent Hill 2 Mod Project
 * [Superblt](https://superblt.znix.xyz/) - Payday 2 Modding Tool
 * [Payday 2 FPS Boost](https://steamcommunity.com/sharedfiles/filedetails/?id=1933473710) - Payday 2 FPS Boost Mod List
 * [NFSMods](https://nfsmods.xyz/home) or [Project Unite](https://discord.com/invite/3F6vEyp) - Need for Speed Mods
