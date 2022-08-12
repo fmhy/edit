@@ -28,7 +28,7 @@
 * **[Open Source Intelligence Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_source_intelligence_indexes)**
 * [Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - Find Software / App Alternatives 
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - Open Source Software Indexes
-* [/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index), [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/ ) - /r/Piracy Index
+* [/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index), [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/) - /r/Piracy Index / [Lemmy Backup](https://lemmy.ml/c/piracy)
 * [/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread) - Software Piracy Megathread
 * [Neverland](http://www.neverland.ws/index.html) - Piracy Index / [Links](https://rentry.co/oo9ri) 
 * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
@@ -158,6 +158,7 @@
 
 # ► Free Stuff
 
+* [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8 )
 * [Giveaway Radar](https://giveawayradar.weebly.com/) - Software
 * [Tick Coupon](https://giveaway.tickcoupon.com/windows-giveaway/) - Software
 * [Techno360](https://www.techno360.in/category/free-stuff/) - Software
@@ -255,7 +256,7 @@
 * **[PointerPointer](https://pointerpointer.com/)** - Get Your Pointer Pointed At 
 * **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - Realistic-Looking Fake Versions of Things 
 * [GIFs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_gif_tools) - View / Download GIFs
-* [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/, [IWasteSoMuchTime](https://www.iwastesomuchtime.com/), [iFunny](https://ifunny.co/), [Imageboard Scraper](https://nik.bot.nu/), [KongouCheats](https://kongoucheats.com/) or [Wimp.com](https://www.wimp.com/) - Images, Videos, Memes & GIFs / Some NSFW
+* [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [ImgFlip](https://imgflip.com/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/, [IWasteSoMuchTime](https://www.iwastesomuchtime.com/), [iFunny](https://ifunny.co/), [Imageboard Scraper](https://nik.bot.nu/), [KongouCheats](https://kongoucheats.com/) or [Wimp.com](https://www.wimp.com/) - Images, Videos, Memes & GIFs / Some NSFW
 * [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
 * [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
 * [DeviantArt](https://www.deviantart.com/) or [ArtStation](https://www.artstation.com/) - User-Made Art
@@ -1098,15 +1099,16 @@
 * [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - Quickly Switch between Current & Recently Closed Tabs 
 * [Always Right](https://github.com/autonome/Always-Right/) - Always Open New Tabs to the Right
 * [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - Manage & Organize Bookmarks 
-* [Saka](https://saka.io/) - Tab, History & Bookmark Search 
+* [Saka](https://saka.io/) - Tab, History & Bookmark Search
 * [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Sort Bookmarks by Multiple Criteria 
 * [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - Search Bookmarks 
 * [WebMemex](https://blog.webmemex.org/) - Organize & Store Webpages 
 * [Bandwidth Hero](https://bandwidth-hero.com/) - Reduce Browsing Data Usage
 * [Save-Data: On](https://www.daniel.priv.no/web-extensions/save-data.html) - Auto-Enable Data Savings Mode
 * [Auto Tab Discard](https://add0n.com/tab-discard.html), [Tab Wrangler](https://github.com/tabwrangler/tabwrangler), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs), [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) or [The Great Suspender](https://github.com/aciidic/thegreatsuspender-notrack) - Discard Inactive Tabs to Reduce Memory / CPU Usage
-* [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs 
+* [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
 * [Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers) - Group & Manage Browser Tabs
+* [AutoRefresh](https://autorefresh.io/) or [Tab Auto Refresh](https://mybrowseraddon.com/tab-auto-refresh.html) - Refresh Tabs
 * [Tab for a Cause](https://tab.gladly.io/) - New Tabs = Charity Donation
 * [Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button) - Quickly Close All Tabs
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - Read Books in Browser
@@ -1121,6 +1123,7 @@
 * [Mouse Gestures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mouse_gestures) - Control Browser via Gestures
 * [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/) - Merges a Sites "Next" Pages
 * [Redirector](https://einaregilsson.com/redirector/) - Page Redirector
+* [Don't Bug Me](https://github.com/vantezzen/dontbugme) - Find / Share Site Logins
 * [DownThemAll](https://www.downthemall.org/) or [Turbo Download Manager](https://add0n.com/turbo-download-manager-v2.html) / [GitHub](https://github.com/inbasic/turbo-download-manager-v2/) - File Download Managers
 * [Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - Video Download Managers
 * [Vimeomate](https://vimeomate.com/) - Vimeo Video Downloader
@@ -1141,6 +1144,7 @@
 * [Font Changer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_webfont_changer) - WebFont Changer 
 * [ColorZilla](https://www.colorzilla.com/), [ColorFish](https://ui.vision/colorfish) or [ColorPick](https://vidsbee.com/ColorPick/) - Color Picker 
 * [Clippings](https://aecreations.sourceforge.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - Clipboard Manager
+* [Emoji](https://github.com/Sav22999/emoji) - Quickly Copy / Paste Emojis
 * [Auto Text Expander](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_auto_text_expander) - Create Shortcuts to Expand & Replace Text as you Type 
 * [DontFuckWithPaste](https://github.com/jswanner/DontFuckWithPaste) - Prevents the Blocking of Pasting into Input Fields
 * [Absolute Enable Right Click](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_absolute_enable_right_click) or [Allow Right Click](https://add0n.com/allow-right-click.html) / [GitHub](https://github.com/lunu-bounir/allow-right-click.html/) - Force Enable Right Click
