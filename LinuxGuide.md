@@ -93,7 +93,7 @@
 * [Chrome100](https://chrome100.dev/) - ChromeOS Recovery Images
 * [Crouton](https://github.com/dnschneid/crouton) - Chromebook Linux OS
 * [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
-* [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - One-Click Remote Desktop 
+* [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - One-Click Remote Desktop
 * [MultiBoot USB](https://github.com/hackerncoder/multibootusb) - Create Bootable USB Linux Drives
 * [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - Create Bootable USB Windows Drives
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
@@ -102,6 +102,7 @@
 * [howtodebuntu](https://github.com/themagicalmammal/howtodebuntu) - Tweaks for Debian Based Distros
 * [Extension Manager](https://github.com/mjakeman/extension-manager) - GNOME Shell Extensions 
 * [ckb-next](https://github.com/ckb-next/ckb-next) - Corsair RGB Driver for Linux
+* [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux Open GPU Kernel Module
 * [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - Mac Theme
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme), [Moka](https://snwh.org/moka), [Numix](https://github.com/numixproject/numix-icon-theme) or [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Linux Icon Themes
 * [Ricepedia](https://rizonrice.club/Main_Page) or [ThatNixGuy Ricing](https://thatnixguy.github.io/posts/ricing/) - Linux Ricing Tools
@@ -135,7 +136,7 @@
 * [rcm](https://github.com/thoughtbot/rcm) - Manage Dotfiles
 * [Curlew](https://curlew.sourceforge.io/) - Linux File Converter
 * [Dolphin](https://userbase.kde.org/Dolphin) or [ranger](https://github.com/ranger/ranger) - File Manager
-* [nnn](https://github.com/jarun/nnn), [Joshuto](https://github.com/kamiyaa/joshuto) or [NCDU](https://github.com/rofl0r/ncdu) - Terminal File Manager / Disk Usage Analyzer
+* [nnn](https://github.com/jarun/nnn), [fm](https://github.com/knipferrc/fm), [Joshuto](https://github.com/kamiyaa/joshuto) or [NCDU](https://github.com/rofl0r/ncdu) - Terminal File Manager / Disk Usage Analyzer
 * [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Tiling Windows Manager / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/jmmaranan/forge) - GNOME Tiling Extension
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
@@ -151,7 +152,9 @@
 * [DidYouMean](https://github.com/hisbaan/didyoumean) - Grammar Check
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
 * [FlameGApps](https://github.com/flamegapps/flamegapps) - Google Apps Installer
-* [syncthing](https://syncthing.net/) or [maestral](https://maestral.app/) - File Sharing App
+* [Soulseek](https://www.slsknet.org/SoulseekQt/Linux/SoulseekQt-2018-1-30-64bit-appimage.tgz) - File Sharing App
+* [portal](https://github.com/SpatiumPortae/portal) or  [syncthing](https://syncthing.net/) - File Sync
+* [maestral](https://maestral.app/) - Dropbox Client
 * [PeerVPN](https://peervpn.net/) - P2P VPN
 * [GNU Social](https://www.gnusocial.rocks/) / [2](https://gnusocial.network/) - Self-Hosted Social Networking Platform
 * [Hexchat](https://hexchat.github.io/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/) - IRC Clients
@@ -201,7 +204,8 @@
 * [todo](https://github.com/sioodmy/todo/) - Rust Based To-Do CLI
 * [aerc](https://aerc-mail.org/), [ElectronMail](https://github.com/vladimiry/ElectronMail) - Email Client
 * [Link Unshortener](https://underpassapp.com/LinkUnshortener/) - Unshorten Links
-* [KTouch](https://apps.kde.org/en/ktouch) or [Toipe](https://github.com/Samyak2/toipe) - Typing Practice
+* [sttr](https://github.com/abhimanyu003/sttr) - Base64 Encryption / Decryption CLI
+* [KTouch](https://apps.kde.org/en/ktouch), [typer](https://github.com/maaslalani/typer) or [Toipe](https://github.com/Samyak2/toipe) - Typing Practice
 * [wslu](https://github.com/wslutilities/wslu) - Utilities for Windows 10 Linux Subsystem 
 * [Tree](http://mama.indstate.edu/users/ice/tree/) - Directory Listing Command 
 * [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Easily clean Ubuntu(-based) Systems
@@ -233,11 +237,11 @@
 * [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - App Image Launcher
 * [Remontoire](https://github.com/regolith-linux/remontoire) - Keybind Viewer for i3
 * [fzf](https://github.com/junegunn/fzf) - CLI based Fuzzy Finder
-* [bat](https://github.com/sharkdp/bat) - Modern cat clone with Wings
-* [dust](https://github.com/bootandy/dust) - Intuitive version of du
-* [Timeshift](https://github.com/teejee2008/timeshift) - Create System Snapshots & Restore
+* [bat](https://github.com/sharkdp/bat) - Modern Cat Clone with Wings
+* [dust](https://github.com/bootandy/dust) - Intuitive Version of du
+* [Timeshift](https://github.com/teejee2008/timeshift) - Create System Snapshots / Restore Points
 * [AppImageHub](https://appimage.github.io/) or [get-appimate](https://g.srev.in/get-appimage/) - Download AppImages / [CLI](https://zap.srev.in/)
-* [Homebrew](https://brew.sh/) - Package Manager
+* [Homebrew](https://brew.sh/) or [NixOS](https://nixos.org/) / [Manager](https://github.com/nix-community/home-manager) - Package Manager
 * [Basher](https://www.basher.it/) - Bash Script Package Manager
 * [yay](https://github.com/Jguer/yay) - AUR Helper / Package Manager
 * [Pacstall](https://pacstall.dev/) - AUR-Inspired Package Manager for Ubuntu
@@ -349,6 +353,8 @@
 * [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - Roblox Manager for Linux
 * [Paimon Launcher](https://notabug.org/loentar/paimon-launcher) - Run Genshin Impact on Linux
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (Recreation)
+* [Gambit](https://github.com/maaslalani/gambit) - Terminal Chess
+* [Defuse Division](https://github.com/lelandbatey/defuse_division) - Multiplayer Terminal Minesweeper
 
 ***
 
@@ -376,6 +382,7 @@
 * [Docker OSX](https://github.com/sickcodes/Docker-OSX) - Mac VM in Docker
 * [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - MacOS Virtualbox Installer
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 Desktop Client for macOS
+* [Psst](https://github.com/jpochyla/psst) - Spotify Client
 * [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player
 * [Subsonic](https://github.com/twostraws/Subsonic) - SwiftUI Audio Player
 * [LimaVM](https://github.com/lima-vm/lima) - Linux VM on MacOS
@@ -388,6 +395,7 @@
 * [Windows 10 MBR](https://github.com/toru173/Windows-10-MBR-USB-Creation-Tool) or [Create Bootable](https://taig.medium.com/create-a-bootable-windows-10-usb-from-macos-395773d4782e) - Windows 10 Media Creation Tool
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - UEFI Kexts
 * [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913?mt=12) or [Progressive Downloader](https://macpsd.net/) - File Download Manager
+* [AirDrop to Windows](https://redd.it/vthltc) - AirDrop to Windows Guide
 * [maestral](https://maestral.app/) - File Sharing App
 * [Adobe Creative Cloud](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mac_adobe_cc) - Adobe CC Guides
 * [Adobe Zii](https://www.adobezii.com/) - Adobe CC Patcher / [Subreddit](https://www.reddit.com/r/AdobeZii/)
