@@ -107,7 +107,8 @@
 * [QR Code Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qr_code_generators) - Generate QR Codes
 * [findhelp.org](https://www.findhelp.org/) - Find Assistive Programs
 * [/r/Assistance](https://www.reddit.com/r/Assistance/), [/r/borrow](https://www.reddit.com/r/borrow/), [/r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) or [/r/Homeless](https://www.reddit.com/r/homeless/) - Assistance & Donation Subreddits
-* [Helpmap](https://helpmap.io/) - Nonprofit Donation Map 
+* [Homeless](https://discord.gg/6RT7RBqUNX) - Homeless Assistance / Support Community
+* [Helpmap](https://helpmap.io/) - Nonprofit Donation Map
 
 ***
 
@@ -486,10 +487,10 @@
 * [Moises](https://moises.ai/) - Live Music Mixer
 * [WD-1](https://www.worteldrie.com/WD5/), [Citizen DJ](https://citizen-dj.labs.loc.gov/loc-variety-stage/remix/), [YOU.DJ](https://you.dj/) or [Until AM](http://mix.until.am/) - Online DJ / Beat Creator 
 * [RaveDJ](https://rave.dj/) - Easily Mix Songs Together 
-* [EZStems](https://www.ezstems.com/) or [mvsep](https://mvsep.com/) - Create Audio STEMS
+* [EZStems](https://www.ezstems.com/) - Create Audio STEMS
 * [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - Create Songs with Code 
 * [WebSynths](http://www.websynths.com/) or [Roland50](https://roland50.studio/) - Browser-Based Instruments 
-* [JummBox](https://jummbus.bitbucket.io/), [Pata Tracker](https://pixwlk.itch.io/pata-tracker) or [Klystrack](https://github.com/kometbomb/klystrack) - Chiptune Music Creator
+* [JummBox](https://jummbus.bitbucket.io/), [Pata Tracker](https://pixwlk.itch.io/pata-tracker), [JummBus](https://jummbus.bitbucket.io/) or [Klystrack](https://github.com/kometbomb/klystrack) - Chiptune Music Creator
 * [Audovia Music](https://songbase.github.io/) - Classical Music Creator
 * [Melody Generator](https://dopeloop.ai/melody-generator), [Rosegarden](https://rosegardenmusic.com/) or [Ariamaestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html) - MIDI Editor
 * [MIDI Recorder](https://midi-recorder.web.app/) - MIDI Keyboard Recorder
@@ -534,7 +535,7 @@
 * [BeatMachine](https://beatmachine.branchpanic.me/) - Tempo Editor
 * [Get Song BPM](https://getsongbpm.com/) or [MusicStax](https://musicstax.com/) - Song Tempo Database
 * [MusicSpeedChanger](https://musicspeedchanger.com/) - Music Speed Changer
-* [beets.io](http://beets.io/) / [2](https://github.com/beetbox/beets), [alto](https://github.com/ItsLychee/alto), [Zortam](https://www.zortam.com/), [MP3Tag](https://www.mp3tag.de/en/), [MusicBee](https://getmusicbee.com/) or [MusicBrainz](https://picard.musicbrainz.org/) - Music Metadata Organizer
+* [beets.io](http://beets.io/) / [2](https://github.com/beetbox/beets), [alto](https://github.com/ItsLychee/alto), [Zortam](https://www.zortam.com/), [MP3Tag](https://www.mp3tag.de/en/), [TagEditor](https://github.com/Martchus/tageditor), [MusicBee](https://getmusicbee.com/) or [MusicBrainz](https://picard.musicbrainz.org/) - Music Metadata Organizer
 * [Mooval](https://www.mooval.de/) - Move Songs to or from Programs / Sites
 * [Croosfade](https://crossfade.io/) - Video and Audio Crossfading
 * [ZzFXM](https://keithclark.github.io/ZzFXM/) - JavaScript Music Renderer 
@@ -545,7 +546,7 @@
 * [FastHub](https://fasthub.net/) - Text to Speech Translation Tool
 * [Praat](https://www.fon.hum.uva.nl/praat/) - Analyze, Synthesize & Manipulate Speech / [GitHub](https://github.com/praat/praat)
 * [Splitter](https://www.splitter.ai/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
-* [VocalRemover](http://vocalremover.org/) / [GUI](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [AIVocalRemover](https://aivocalremover.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb), [VocalRemoverPro](https://vocalremoverpro.com/) or [Remove Vocals](https://www.remove-vocals.com/) - Remove / Isolate Vocal Tracks
+* [Remove Vocals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remove_vocals) - Remove Vocal Tracks
 * [Acapella-Extractor](https://www.acapella-extractor.com/) - Remove Background Tracks from Songs
 * [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) / [CLI](https://github.com/IniasP/rnnoise-cli) - Noise Suppression Tools
 * [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10)or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixer
@@ -591,6 +592,7 @@
 
 * **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
 * **[Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)** - Create Resumes for Free
+* [GitHub Résumé](https://github.com/resume/resume.github.com) - Generate Resume from GitHub Activity
 * [LoopCV](https://www.loopcv.pro/) - Automated Job Search Tool
 * [Toby Tools](https://rentry.co/qnu6x) - Job Search Tools
 * [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) - Successful Resume Samples
@@ -1423,6 +1425,7 @@
 * [Unhook](https://unhook.app/), [Less Addictive Youtube](https://github.com/AlexisDrain/Less-Addictive-YouTube) or [YourTube](https://github.com/gurrrung/YourTube) - Distraction Free YouTube
 * [YouTube Watch Time Counter](https://chrome.google.com/webstore/detail/youtube-watch-time-counte/fpoooibdndpjcnoodfionoeakeojdjaj) - Track Time Spent on YouTube
 * [BlockTube](https://github.com/amitbl/blocktube) - YouTube Content Blocker
+* [Hide YouTube Shorts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_hide_youtube_shorts) - Extensions / Scripts to Block YouTube Shorts
 * [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Remove YouTube Thumbnails / Title Capitalization
 * [RegretsReporter](https://foundation.mozilla.org/en/campaigns/regrets-reporter/) - Report Regrettable YouTube Recommendations 
 * [YT Not Interested Button on Hover](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Easily Display Not Interested Button
@@ -1497,21 +1500,21 @@ Twitch Stream Tracker
 * [Twitonomy](https://www.twitonomy.com/) or [Affinitweet](https://affinitweet.com/) - Twitter Dashboard / Analytics 
 * [TweetDeck](https://tweetdeck.twitter.com/) / [Enhance](https://better.tw/) or [Tweeten](https://tweetenapp.com/) - Twitter Dashboard
 * [TweetDuck](https://github.com/chylex/TweetDuck) - Twitter Desktop Client
-* [BackTweets](http://backtweets.com/), [twXplorer](https://twxplorer.knightlab.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - Search Twitter 
+* [BackTweets](http://backtweets.com/), [twXplorer](https://twxplorer.knightlab.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - Search Twitter
 * [Twishort](https://twishort.com/) - Make Longer Tweets
-* [Screamer](https://chrome.google.com/webstore/detail/screamer-twitter-improvem/mpeifaboppaofofdbmhoaeolnibaljof) - Tweet Only Twitter 
-* [Poet.so](https://poet.so/), [Twimage](https://twimage.vercel.app/) / [GitHub](https://github.com/drkPrince/tweet-to-image), [Tweetlet](https://tweetlet.net/) or [Capture My Tweet](https://capturemytweet.in/) - Create Twitter Post Images
+* [Screamer](https://chrome.google.com/webstore/detail/screamer-twitter-improvem/mpeifaboppaofofdbmhoaeolnibaljof) - Tweet Only Twitter
+* [Poet.so](https://poet.so/), [Twimage](https://twimage.vercel.app/) / [GitHub](https://github.com/drkPrince/tweet-to-image), [Tweetlet](https://tweetlet.net/), [Tweets Beauty](https://api.tweets.beauty/docs) or [Capture My Tweet](https://capturemytweet.in/) - Create Twitter Post Images
 * [Tweetgen](https://www.tweetgen.com/) or [FakeTweetMaker](https://www.faketweetmaker.com/) - Create Fake Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chrome.google.com/webstore/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
-* [Thread Reader App](https://threadreaderapp.com/) - Unroll Twitter Threads / Search 
+* [Thread Reader App](https://threadreaderapp.com/) - Unroll Twitter Threads / Search
 * [React Statis Tweets](https://github.com/transitive-bullshit/react-static-tweets) - Static Tweets Renderer
-* [Treeverse](https://treeverse.app/) - Twitter Conversation Visualizer 
+* [Treeverse](https://treeverse.app/) - Twitter Conversation Visualizer
 * [Trends Map](https://www.trendsmap.com/), [Twitter Trends](https://twitter-trends.vercel.app/) or [MentionMap](https://mentionmapp.com/) - Trending Twitter Hashtags / Topics
-* [Tweeplers](https://www.tweeplers.com/) - Trending Twitter Users 
-* [TweetMap](https://www.omnisci.com/demos/tweetmap) - Trending Tweet Map 
+* [Tweeplers](https://www.tweeplers.com/) - Trending Twitter Users
+* [TweetMap](https://www.omnisci.com/demos/tweetmap) - Trending Tweet Map
 * [Twitter Linker](https://twitterlinker.vercel.app/) or [Twitter Images](https://twitter-images.vercel.app/ ) - Generate Twitter Card for Your Links
 * [OneMillionTweetMap](https://onemilliontweetmap.com/) or [TwitterNano](https://www.twitternano.com/) - Real-Time Tweet Map 
-* [Twitter Matrix](https://konard.github.io/twittermatrix/messages.html) - Matrix animation, but with live tweets  
+* [Twitter Matrix](https://konard.github.io/twittermatrix/messages.html) - Matrix animation, but with live tweets 
 * [All My Tweets](https://www.allmytweets.net/connect/) - View tweets, likes, followers or timeline on one page 
 * [TwikTwok](https://twiktwok.github.io/) - Swipe through Twitter videos
 * [Klear](https://klear.com/free-tools/find-twitter-influencers) - Find Influencers 
@@ -1668,10 +1671,11 @@ Twitch Stream Tracker
 * [NBFC](https://github.com/hirschmann/nbfc) - Laptop Fan Control
 * [FanControl](https://github.com/Rem0o/FanControl.Releases) - Fan Control
 * [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - Manage & Control NVIDIA Cards
-* [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify & View Hidden NVIDIA Settings
+* [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify & View Hidden NVIDIA Settings / [Guide](https://youtu.be/XncmeD8khKY)
 * [NVIDIA Control Panel](https://rentry.co/gaydia) - NVIDIA Control Panel Without MS Store
 * [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) or [NVSlimmer](https://majorgeeks.com/files/details/nvslimmer.html) - Customize NVIDIA Driver Packages
 * [Nvidia-Patch](https://github.com/keylase/nvidia-patch) - NVENC & NvFBC Patches
+* [AMDDebloat](https://rentry.co/AMDDebloat) or [RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Debloat AMD GPU Drivers
 * [Parted Magic](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_parted_magic) - Disk Management Tool
 * [Disk Usage Analyzers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_disk_usage_analyzers) - View & Manage Files on Disk
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - Disk Benchmarking Tool
@@ -1718,6 +1722,7 @@ Twitch Stream Tracker
 * [BleachBit](https://www.bleachbit.org/) or [GlarySoft](https://www.glarysoft.com/) - Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect.  
 * [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) or [Autostart](https://github.com/snail007/autostart) - Change Startup Programs
 * [Remove Hidden Startup Programs](https://www.youtube.com/watch?v=sUXcMaP6wRQ) - How-to Remove Secret Startup Apps
+* [LaunchLater](https://github.com/jeffcox111/LaunchLater) - Deferred Automatic  App Startup
 * [DefaultProgramsEditor](https://defaultprogramseditor.com/) - File Association Editor
 * [RegExp](https://github.com/zodiacon/RegExp) or [Registry-Finder](https://registry-finder.com/) - Improved Registry Explorer
 * [Awesome Regex](https://github.com/aloisdg/awesome-regex) - Regex Resource Index
@@ -1747,7 +1752,7 @@ Twitch Stream Tracker
 * [MediaFlyout](https://github.com/krlvm/MediaFlyout) - Media Control Taskbar
 * [OneLaunch](https://onelaunch.com/) - Customizable Windows Dock
 * [CircleDock](http://circledock.wikidot.com/) - Circular Dock
-* [Wox](http://www.wox.one/) / [GitHub](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [ChaseApp](https://www.chaseapp.io/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke Launcher
+* [Wox](http://www.wox.one/) / [GitHub](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [ChaseApp](https://www.chaseapp.io/), [FlowLauncher](https://www.flowlauncher.com/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke Launcher
 * [Closemul](https://www.lustark.com/closemul) - Multi-Purpose Program Frontend
 * [rofi](https://github.com/davatorium/rofi) - Window Switcher & App Launcher
 * [Clipboard Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_clipboard_managers) - Manage Copied Text
@@ -2020,7 +2025,7 @@ Twitch Stream Tracker
 * [MyPhoneExplorer](https://www.fjsoft.at/) - Manage / Sync Your Phone with PC
 * [RollMyFile](https://rollmyfile.com/) - Open Files Online
 * [AList](https://github.com/Xhofe/alist) - File Listing Program
-* [Tmp.Ninja](https://tmp.ninja/) - Temp File Host (48hrs)
+* [Tmp.Ninja](https://tmp.ninja/) or [leteckaposta](http://leteckaposta.cz/) - Temp File Hosts
 * [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
 * [1fichier-DL](https://github.com/manuGMG/1fichier-dl) - 1Fichier Download Manager
 * [ozzillate](https://www.ozzillate.com/) - Transfer Files via Sound
@@ -2052,7 +2057,7 @@ Twitch Stream Tracker
 * [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - Download Protected GDrive PDFs
 * [PDFCoffee](https://pdfcoffee.com/) - Upload PDF, Word or PowerPoint Files
 * [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - Fill & sign a PDF
-* [megabasterd](https://github.com/tonikelope/megabasterd) or [Mega Index](https://github.com/TheCaduceus/MEGA-INDEX) - MEGA Quota Bypass / [Proxies](https://github.com/tonikelope/megabasterd/blob/proxy_list/proxy.txt), [2](https://rentry.co/mega-proxies)
+* [megabasterd](https://github.com/tonikelope/megabasterd) - MEGA Quota Bypass / [Proxies](https://github.com/tonikelope/megabasterd/blob/proxy_list/proxy.txt), [2](https://rentry.co/mega-proxies)
 * [megatools](https://megatools.megous.com/) - Mega CLI
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - Mega Download Script
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) - Mega to HTTP
