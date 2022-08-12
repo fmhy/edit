@@ -87,7 +87,7 @@
 * [Privacy Indicator](https://f-droid.org/packages/com.nitish.privacyindicator/), [2](https://play.google.com/store/apps/details?id=com.nitish.privacyindicator), [AntiStalker](https://www.mallocprivacy.com/), [Vigilante](https://f-droid.org/en/packages/com.crazylegend.vigilante/) or [Access Dots](https://play.google.com/store/apps/details?id=you.in.spark.access.dots) - Camera / Mic Access Indicator 
 * [CamWings](https://schiffer.tech/camwings-mobile.html) - Camera Protection 
 * [PubPhoto](https://github.com/stuartlangridge/pubphoto) - Share Photos without Sharing Number
-* [ScreenWings](https://schiffer.tech/screenwings-mobile.html) - Screen Protection 
+* [ScreenWings](https://schiffer.tech/screenwings-mobile.html) - Screen Protection
 * [Stingle Photos](https://stingle.org/) or [No See You](https://baixarapk.gratis/en/app/1186829987/photo-vault-noseeyou) - Private Photo / Video Gallery 
 * [Secure If](https://github.com/iternull/secure-if/) - USB Controller
 * [PrivateBrowser](https://play.google.com/store/apps/details?id=com.prism.download.adblock.privacy.flash.player.incognito.private_browser.browser) - Calculator Disguised Browser
@@ -161,7 +161,7 @@
 * [PhoneSized](https://phonesized.com/) - Phone Size Comparisons
 * [Reprice](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno) - Track Amazon Prices
 * [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
-* [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) - Battery Health App
+* [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Health App
 * [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - Note Taking Apps
 * [Serenity Notes](https://www.serenity.re/en/notes) - Collaborative Notes
@@ -179,6 +179,7 @@
 * [Smali Patcher](https://forum.xda-developers.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
 * [DarQ](https://www.apkmirror.com/apk/mighty-quinn-apps/darq/), [Dark Mode](https://play.google.com/store/apps/details?id=com.dotdat.darkmodeapp) or [Darkmode Guide](https://pastebin.com/cvast4uN) - Universal Dark Mode
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - Android Cleanup Tool
+* [Hail](https://github.com/aistra0528/Hail) - Auto-Deactivate Unused Apps
 * [L3MON](https://github.com/D3VL/L3MON) - Remote Android Manager
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
 * [Pluma](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader&hl=en) - RSS Reader 
@@ -230,18 +231,19 @@
 * [NeonRom3r](https://github.com/Gr3gorywolf/NeonRom3r) - Download Roms 
 * [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App 
 * [OpenMicroWave](https://omw.xyz.is/) - Morrowind for Android
-* [VMOS](https://www.vmos.com/) - Android Virtual Machine
+* [VMOS](https://www.vmos.com/) or [x8sb](https://x8sb.com/) - Android Virtual Machine
 * [Media Bar](https://play.google.com/store/apps/details?id=apps.ijp.mediabar) - Status Bar Media Controller
 * [Statusbar Icon Hider](https://play.google.com/store/apps/details?id=com.cooliehat.statusbariconhider) - Hide Status Bar Items 
 * [Red Moon](https://github.com/LibreShift/red-moon) or [NightOwl](https://play.google.com/store/apps/details?id=com.evezzon.nightowl) - Screen Brightness Control
 * [Caffeine](https://lab.zhs.moe/caffeine/) - Keep Screen On
+* [FakeStandby](https://fakestandby.jonasbernard.de/) - Turn Off Screen While App is Running
 * [Black Screen](https://play.google.com/store/apps/details?id=io.japp.blackscreen) - Turn Off Display While Audio is Playing
 * [WaveUp](https://gitlab.com/juanitobananas/wave-up) - Turn On Display via Waving
 * [Shelter ](https://cgit.typeblog.net/Shelter/) or [Insular](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps
 * [Warp Plus Cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Unlimited Warp+ GB
 * [MacroDroid](http://macrodroid.com/) or [AutomateIt](https://www.automateitapp.com/) - Android Automation
 * [DoForMe](https://play.google.com/store/apps/details?id=com.aj.dfm) - Location Based Automation
-* [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) - Gesture Controls
+* [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) or [TapTap](https://github.com/KieronQuinn/TapTap) - Android Back Gesture Controls
 * [Naptime](https://play.google.com/store/apps/details?id=com.franco.doze) - Accelerates Android Sleep Mode
 * [JulioverneHYI](https://julio.hackyouriphone.org/) - Repository for Piracy Tools
 * [Adebar](https://codeberg.org/izzy/Adebar), [Swift Backup](https://swiftapps.org/) or [OAndBackupX](https://github.com/machiav3lli/oandbackupx) - Device Backup Tool
@@ -266,8 +268,10 @@
 * [Twiger](https://twiger.launchaco.com/) - Share Any Tweet on Instagram
 * [Google Lens](https://lens.google/) - Multiple Camera Tools
 * [Widgetshare](https://play.google.com/store/apps/details?id=com.galew.widgetshare) - Photo Sharing App
+* [Pixomatic](https://pixomatic.us/) - Image Editor
 * [PhotoRoom](https://www.photoroom.com/) - Background Remover
 * [Dittoed](https://dittoed.app/) - Improve Image Composition
+* [Pixelify-Google-Photos](https://github.com/BaltiApps/Pixelify-Google-Photos) - Add Google Pixel Features to Google Photos
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera), [DMGC](https://thedise.me/dmgc/) or [Camator](https://gcamator.com/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/)
 * [ANXCamera](https://camera.aeonax.com/) - Miui Camera Port 
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)
@@ -353,7 +357,7 @@
 * [Copyhat](https://copyhat.com/) - AI Writing Tool
 * [Koler](https://github.com/Chooloo/koler) - Dialer App
 * [KONTXT](https://kontxt.com/kontxt-for-voice/). [2](https://play.google.com/store/apps/details?id=com.realnetworks.kontxt.voice&hl=en&gl=US) - Preview Calls
-* [SimpleMail](https://framagit.org/dystopia-project/simple-email) - Email App 
+* [SimpleMail](https://framagit.org/dystopia-project/simple-email) or [FairCode](https://email.faircode.eu/) - Email App 
 * [BlitzMail](https://github.com/grote/BlitzMail) - One Click Email App
 * [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957) - Disposable Email Client
 * [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - Multi-Calculator App
@@ -361,7 +365,8 @@
 * [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - To-Do List Apps
 * [Etar](https://github.com/Etar-Group/Etar-Calendar), [digical](https://digibites.nl/digical), [TimeBlocks](https://timeblocks.com/) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendars
 * [ShiftCal](https://gitlab.com/Nulide/ShiftCal) - Shift Calendar
-* [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock) - Daily Planner 
+* [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock) - Daily Planner
+* [Listy](https://listy.is/) - Create Lists of Anything
 * [Sunny Side / TiseRise](https://www.tobianoapps.com/) - UV Index / Minimal Hourglass 
 * [Libra](https://github.com/markusfisch/Libra) - Pros v Cons App
 * [unhabits](https://github.com/iSoron/uhabits) or [MiindLeak](https://www.mindleak.app/) - Bad Habit Tracker
@@ -680,6 +685,7 @@
 * [HZP](https://hzplayer.com/) - Solfeggio Frequency Player
 * [Quorus](https://quorus.net/) - Collaborative Playlists
 * [SplitCloud](http://www.splitcloud-app.com/) - Audio Splitter
+* [unMix](https://unmix.ru/) - Remove Vocal Tracks
 * [MusicSpeedChanger](https://musicspeedchanger.com/) - Music Speed Changer
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - Download / FLAC / MP3
 * [Video to MP3 Converter](https://play.google.com/store/apps/details?id=mp3videoconverter.videotomp3.videotomp3converter) - Video to MP3
@@ -701,21 +707,22 @@
 ## ▷ Android Podcasts / Radio
 
 * **[Spotify APK](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modded_spotify_apk)** (No Ads) or [Altas-Notas](https://github.com/polonez-byte-112/Altas-Notas) - Podcasts
-* [Escapepod](https://f-droid.org/en/packages/org.y20k.escapepod/) - Podcasts 
+* [Escapepod](https://f-droid.org/en/packages/org.y20k.escapepod/) - Podcasts
 * [IHeartRadio](https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller) - Podcasts / Radio
 * [MixCloud](https://play.google.com/store/apps/details?id=com.mixcloud.player&amp;hl=en) - Podcasts / Radio
 * [TuneIn](https://play.google.com/store/apps/details?id=tunein.player&amp;hl=en) - Podcasts / Radio
 * [Podbean](https://play.google.com/store/apps/details?id=com.podbean.app.podcast) - Podcasts
-* [PocketCasts](https://www.pocketcasts.com/) - Podcasts 
+* [PocketCasts](https://www.pocketcasts.com/) - Podcasts
 * [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict ) - Podcasts 
 * [Tsacdop](https://play.google.com/store/apps/details?id=com.stonegate.tsacdop) - Podcasts
-* [RadioDroid](https://f-droid.org/en/packages/net.programmierecke.radiodroid2/) - Radio 
-* [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/) - Radio 
-* [DisasterRadio](https://f-droid.org/en/packages/tk.giesecke.disaster_radio/) - Radio 
+* [RadioDroid](https://f-droid.org/en/packages/net.programmierecke.radiodroid2/) - Radio
+* [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/) - Radio
+* [DisasterRadio](https://f-droid.org/en/packages/tk.giesecke.disaster_radio/) - Radio
+* [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp) - Radio
 * [HaveRadiosion](https://f-droid.org/en/packages/click.dummer.have_radiosion/) - Radio 
 * [SpiritF](https://www.apkmirror.com/apk/xiaomi-inc/miui-fm-radio/miui-fm-radio-1-0-478-release/) or [Next Radio](https://play.google.com/store/apps/details?id=com.nextradioapp.nextradio) - FM Radio / [F-Droid](https://f-droid.org/packages/fm.a2d.sf/)
 * [DI.FM](https://play.google.com/store/apps/details?id=com.audioaddict.di) - Electronic Radio
-* [LISTEN.moe](https://play.google.com/store/apps/details?id=me.echeung.moemoekyun) - K-Pop Radio 
+* [LISTEN.moe](https://play.google.com/store/apps/details?id=me.echeung.moemoekyun) - K-Pop Radio
 * [AntennaPod](https://antennapod.org/) / [2](https://f-droid.org/en/packages/de.danoeh.antennapod/), [Tsacdop](https://f-droid.org/en/packages/com.stonegate.tsacdop/) or [AudioAnchor](https://f-droid.org/en/packages/com.prangesoftwaresolutions.audioanchor/) - Podcast Player 
 * [AntennaPod](https://github.com/AntennaPod/AntennaPod) - Podcast Manager
 * [Muviz](https://www.sparkine.com/muviz/) - Navbar Audio Visualizer
@@ -728,7 +735,7 @@
 * [Noizio](https://play.google.com/store/apps/details?id=com.noizio&amp;hl=en_US) - Nature Sounds / Relaxation 
 * [A Soft Murmur](https://play.google.com/store/apps/details?id=com.gabemart.asoftmurmur) - Mix ambient sounds
 * [Tide.fm](https://pics.tide.moreless.io/site/tide.apk) - Meditation / Sleep Sounds 
-* [myNoise](https://play.google.com/store/apps/details?id=com.mynoise.mynoise&amp;hl=en) - Background Noises &amp; Interactive Soundscapes 
+* [myNoise](https://play.google.com/store/apps/details?id=com.mynoise.mynoise&amp;hl=en) - Background Noises &amp; Interactive Soundscapes
 
 ***
 
@@ -743,7 +750,7 @@
 * [Movie HD](https://moviehdapkdownload.com/moviehd-apk/) - Movies / TV / Chromecast
 * [Arthemis](https://app.arthemis.xyz/) - Movies / TV / Anime
 * [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - Movies / TV / Anime 
-* [PopcornTime](http://popcorn-time.ga/) - Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
+* [PopcornTime](http://popcorn-time.ga/) / [2](https://github.com/popcorn-official/popcorn-android) - Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * [BeeTV](https://beetvapp.me/) or [NovaTV](https://novatv.app/) - Movies / TV / Anime / Chromecast
 * [VivaTV](https://www.vivatv.io/) or [TeaTV](https://teatv.net/) - Movies / TV / Anime / Chromecast
 * [Bouncy](https://github.com/WeeklyProblem/Bouncy) - Movies / TV / Anime / Chromecast
@@ -808,7 +815,8 @@
 * [Saikou](https://github.com/saikou-app/saikou) 
 * [OtakuWorld](https://github.com/jakepurple13/OtakuWorld)
 * [animity](https://github.com/kl3jvi/animity)
-* [no](https://github.com/deceptions/no) 
+* [no](https://github.com/deceptions/no)
+* [amaze](https://play.google.com/store/apps/details?id=com.iridiumgames.animeapp&hl=en_IN&gl=US)
 * [AnimeFanz Tube](https://apkpure.com/anime-fanz-tube/com.animefanzapp.tube)
 * [KATSU](https://katsu.pw/) - [Discord](https://discord.gg/gjcy6MQ)
 * [Anime-DL](https://github.com/sharn25/Anime-DL-Android-Verison) - Download Anime / [Discord](https://discord.gg/Ee3fegN) 
@@ -1107,7 +1115,7 @@
 * [MP3 Converter](https://apps.apple.com/us/app/mp3-converter-audio-extractor/id1305099161) or [MyMP3](https://apps.apple.com/us/app/mymp3-convert-videos-to-mp3-and-best-music-player/id834818663) - Video to MP3 Converter
 * [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - Spotify Release Tracker / Metrics 
 * [Boom](https://apps.apple.com/us/app/boom-bass-booster-equalizer/id1065511007) - Audio Equalizer
-* [VOX](https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494) or [HD Player](https://apps.apple.com/us/app/hs-player-flac-equalizer/id857650606) - Audio Player
+* [VOX](https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494), [Melodista](https://apps.apple.com/us/app/melodista-music-offline-player/id1293175325) or [HD Player](https://apps.apple.com/us/app/hs-player-flac-equalizer/id857650606) - Audio Player
 * [iRetro](https://apps.apple.com/us/app/iretro/id1557178995) or [ClassicPlayer](https://github.com/guillermo-moran/ClassicPlayer) / [2](https://cydia.saurik.com/package/org.thebigboss.classicplayer/)- iPod Classic Audio Player
 * [wInd3x](https://github.com/freemyipod/wInd3x) - iPod Classic / Nano Bootrom Exploit
 * [Denim](https://apps.apple.com/us/app/denim-playlist-cover-maker/id1532250420) - Playlist Cover Maker
