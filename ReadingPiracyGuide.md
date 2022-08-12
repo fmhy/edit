@@ -321,9 +321,8 @@
 
 ## ▷ Special Interest
 
-*  **[Wikiquote](https://en.wikiquote.org)**, [Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [ThinkExist](http://thinkexist.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [QuoteGarden](https://www.quotegarden.com/) or [Glimbay](https://www.glimbay.com/) - Quotes
 * **[Cookbooks / Recipes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_cooking)** - Cookbook and Recipes Sites
-* [FoodTimeLine](https://www.foodtimeline.org/) - Food History
+*  **[Wikiquote](https://en.wikiquote.org)**, [Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [ThinkExist](http://thinkexist.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [BrainyQuote](https://www.brainyquote.com/), [QuoteGarden](https://www.quotegarden.com/) or [Glimbay](https://www.glimbay.com/) - Quotes
 * [Short Stories](https://short-stories.co/) or [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
 * [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
 * [Poetry Foundation](https://www.poetryfoundation.org/), [PoemHunter](https://www.poemhunter.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
@@ -344,6 +343,7 @@
 * [SurvivalManual](https://ligi.de/) - Offline Survival Guide / [GitHub](https://github.com/ligi/SurvivalManual)
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
 * [QSL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_qsl) - Ham Radio & Antenna Books
+* [FoodTimeLine](https://www.foodtimeline.org/) - Food History
 * [How Many Plants](https://howmanyplants.com/) - House Plant Information
 * [Erowid](https://www.erowid.org/) - Psychoactive Information
 * [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - Phychonauts Wiki
@@ -434,8 +434,9 @@
 * [Saylor](https://www.saylor.org/books/) - Textbooks
 * [Wikibooks](https://en.wikibooks.org/) - Open-Content Texbooks
 * [PowerInBooks](https://powerinbooks.xyz/temp/) - Textbook Solutions 
-* [LearnCreative](https://learncreative.net/) - IIT, JEE, NEET & AIIMS Material 
+* [LearnCreative](https://learncreative.net/) - IIT, JEE, NEET & AIIMS Material
 * [JEENEETBooks](https://www.jeeneetbooks.in/) - IIT, JEE & NEET Material
+* [JEEBooksPDF](https://m.youtube.com/c/JEEBooksPDF) - JEE Material / [Telegram](https://telegram.me/jeebookspdf) / DL's in Descriptions
 * [ck12](https://www.ck12.org/)- Interactive CK-12
 * [premium_ebooks](https://t.me/premium_ebooks) - Exam Books
 * [MetPublications](https://www.metmuseum.org/art/metpublications/titles-with-full-text-online) - Art Books
@@ -559,6 +560,7 @@
 * [Free eBooks](https://books-pdf.blogspot.com/) 
 * [goalkicker](https://goalkicker.com/)
 * [ebooks](https://github.com/XWHQSJ/ebooks)
+* [pilhadosaber](https://www.kgay4all.com/seioqueseiporleroqueleio/Books/)
 * [Flavio Copes](https://flaviocopes.com/page/ebooks/) 
 * [Free Ebooks Download List](https://free-ebook-download-links.blogspot.com/) 
 * [EbookFoundation Programming Books](https://github.com/EbookFoundation/free-programming-books/) 
@@ -724,6 +726,7 @@
 * [Vocabulary](https://www.vocabulary.com/) - Dictionary
 * [WordSense](https://www.wordsense.eu/) - Dictionary
 * [MacmillanDictionary](https://www.macmillandictionary.com/) - Dictionary
+* [Spellorg](http://www.spellorg.com/) - Dictionary / Spell Check
 * [Webopedia](https://www.webopedia.com/) or [TechTerms](https://techterms.com/) - Tech Dictionary
 * [EtymOnline](https://www.etymonline.com/) - Etymologies
 * [Fandom](https://www.fandom.com/) - Fan Wikis 
@@ -932,7 +935,7 @@
 * [WhereCanIReadManga?](https://wherecanireadmanga.com/) - Legal
 * [OtakuGallery](http://www.otakugallery.com/) - Manga Artbooks
 * [WebToons](https://www.webtoons.com/en/) - Manga Webtoons  
-* [Tachiyomi](https://github.com/Suwayomi) / [Web Client](https://github.com/TachiWeb) / [Discord](https://discord.com/invite/tachiyomi), [AllMangasReader](http://allmangasreader.com/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - Manga Reader / Manager
+* [Tachiyomi](https://github.com/Suwayomi) / [Web Client](https://github.com/TachiWeb) / [Discord](https://discord.com/invite/tachiyomi), [AllMangasReader](http://allmangasreader.com/), [Houdoku](https://houdoku.org/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - Manga Reader / Manager
 * [Tenma](https://github.com/Tenma-Server/Tenma), [KavitaReader](https://www.kavitareader.com/), [Mango](https://github.com/hkalexling/Mango) or [Komga](https://komga.org/) / [GitHub](https://github.com/gotson/komga) / [Discord](https://discord.gg/TdRpkDu) - Self-Hosted Manga Reader / Manager
 * [LANraragi](https://github.com/Difegue/LANraragi) - Manga / Doujin Manager for NAS / [Discord](https://discord.com/invite/aRQxtbg)
 * [MangaManage](https://github.com/Daedren/MangaManage) - Tachiyomi Download Manager
