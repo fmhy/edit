@@ -109,7 +109,8 @@
 * [Diaosi Forum](https://assbbs.com/) or [WangChao](https://www.wangchao.info/) - Piracy Discussion
 * [zimuku](http://zimuku.org/), [assrt](https://assrt.net/), [YYets](https://www.yyets.com/), [SubHD](https://www.subhdtw.com/sub/tv) or [SubHD](https://subhd.tv/) - Subtitles
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
-* [GameLoop](https://syzs.qq.com/) - Android Emulator 
+* [GameLoop](https://syzs.qq.com/) - Android Emulator
+* [Thanox](https://github.com/Tornaco/Thanox) - Android System Manager
 * [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
 * [Dianying](https://dianying.fm/) - Hash Search
 * [磁力海](https://cilidog.cc/) - DHT Search
@@ -241,7 +242,7 @@
 
 # ► Czech 
 
-* [Seznam](https://www.seznam.cz/) - Search Engine
+* [Seznam](https://www.seznam.cz/), [Atlas](https://searchatlas.centrum.cz/) or [Centrum](https://search.centrum.cz/) - Search Engines
 
 ## ▷ Downloading
 
@@ -1225,7 +1226,8 @@
 
 ## ▷ Streaming
 
-* [FSOline](http://www.filmeserialeonline.org/) -  Movies / TV 
+* [FSOline](http://www.filmeserialeonline.org/) - Movies / TV
+* [Namaste Serials](https://namasteserials.com/) - Movies / TV
 * [Cool Tv Online](https://www.cool-etv.net/) - Live TV / Sports
 
 ## ▷ Download
@@ -1838,7 +1840,7 @@
 * [Indian Piracy Index](https://github.com/anymeofu/Indian-Piracy-Index) - Piracy Site / Tool Index
 * [JioTV](https://github.com/avipatilpro/JioTV) - Live TV Streaming Script 
 * [0GoMovies](https://www.0gomovies.com/) - Streaming / Movies / TV
-* [uWatchFree](https://uwatchfree.be/ ) - Streaming / Movies / TV
+* [uWatchFree](https://uwatchfree.be/) - Streaming / Movies / TV
 * [khatrimazafull](https://khatrimazafull.show/) - Streaming / Download / Movies
 * [7MovieRulz](https://7movierulz.pe/) - Streaming / Movies
 * [7MovieRulz.es](https://7movierulz.es/) - Stream / Torrent / Movies / [Telegram](https://t.me/movierulztv)
