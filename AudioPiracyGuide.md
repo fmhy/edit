@@ -293,6 +293,7 @@
 * [Music for the masses !](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_music_for_the_masses_.21) - MP3
 * [MP4Juice](https://mp4juice.cc/) - MP3
 * [Cliggo](https://music.cliggo.com/) - MP3
+* [rildi](https://rilds.com/) - MP3
 * [RabbitMP3](https://www.rabbitmp3.com/) - MP3
 * [Freemp3cloud](https://freemp3cloud.com/en/) - MP3
 * [Mp3Deer](https://mp3deer.com/) - MP3
@@ -305,6 +306,7 @@
 * [212.159.121.149:85](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_212.159.121.149.3A85) - MP3
 * [Rhapsody](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rhapsody)- MP3
 * [Tyler](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_tyler) - MP3
+* [MP3 Clan](http://mp3clan.mobi/) - MP3
 * [24naijamuzic](https://www11.24naijamuzic.com/album/) - MP3
 * [FLAC Attack](https://flacattack.net/) - FLAC
 * [Lossless-Music](https://lossless-music.org/) - FLAC
