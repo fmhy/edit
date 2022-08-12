@@ -244,7 +244,8 @@
 * [AtariMania](http://www.atarimania.com/index.html)
 * [Vizzed](https://www.vizzed.com/)
 * [Free80sArcade](http://www.free80sarcade.com/)
-* [Retro Uprising](http://www.retrouprising.com/) 
+* [Retro Uprising](http://www.retrouprising.com/)
+* [Retro Games](https://www.retrogames.onl/)
 * [Play Classic Games](https://playclassic.games/)
 * [ClassicGames](https://www.classicgames.me/)
 * [Emulator.Games](https://emulator.games/)
@@ -252,7 +253,7 @@
 * [Aurora](https://skitty.xyz/aurora/)
 * [Emulator.online](http://emulator.online/)
 * [Online.OldGames](https://online.oldgames.sk/)
-* [Retro Games Online Online](https://retrogamesonline.co/)
+* [Retro Games Online](https://retrogamesonline.co/)
 * [PlayEmulator](https://playemulator.online/)
 * [Emulator Games Online](https://emulatorgames.online/)
 * [Virtual Consoles](https://virtualconsoles.com/)
@@ -261,6 +262,7 @@
 * [PlayRetroGames](https://playretrogames.net/)
 * [MyEmulator](https://myemulator.online/)
 * [NESNinja](https://nesninja.com/)
+* [Retro Games Free](https://retrogamesfree.com/)
 * [Telemelt](https://telemelt.com/) - Multiplayer Browser Emulator
 * [PSX Party](https://psxparty.kosmi.io/) - Multiplayer Playstation Browser Emulator
 * [PS1FUN](http://www.ps1fun.com/) - PS1 Browser Emulator
@@ -600,7 +602,6 @@
 * [Chesses](https://pippinbarr.github.io/chesses/) - Multiple Styles of Chess 
 * [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game 
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess w/o Turns
-* [Gambit](https://github.com/maaslalani/gambit) - Terminal Chess
 * [AllBad.Cards](https://allbad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - Cards Against Humanity Online 
 * [Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards) - Card Games Index
 * [WorldOfCardGames](https://worldofcardgames.com/), [247Games](https://www.247games.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Card Games
@@ -620,7 +621,7 @@
 * [Sokoban](https://suppilulemur.neocities.org/) - Box Moving Puzzle Game / Zelda-Themed
 * [BestCrosswords](https://www.bestcrosswords.com/), [USAToday](https://games.usatoday.com/games/uclick-crossword), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
-* [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/), [Wordle Unlimited](https://wordleunlimited.org/), [Huedle](https://huedle.com/), [Chessle](https://jackli.gg/chessle), [BoxOfficeGA](https://boxofficega.me/), [Wordversary](https://wordversary.com/), [Wordle.nyc](https://wordle.nyc/), [WordleGame](https://wordlegame.org/), [Py-DLE](https://py-dle.herokuapp.com/), [Tweakdle](https://tweakdle.chariz.com/) or [Wordlevs](https://wordlevs.com/) - Wordle Games / [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
+* [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/), [Wordle Unlimited](https://wordleunlimited.org/), [Huedle](https://huedle.com/), [Chessle](https://jackli.gg/chessle), [BoxOfficeGA](https://boxofficega.me/), [Wordversary](https://wordversary.com/), [Wordle.nyc](https://wordle.nyc/), [Clidle](https://github.com/ajeetdsouza/clidle), [WordleGame](https://wordlegame.org/), [Py-DLE](https://py-dle.herokuapp.com/), [Tweakdle](https://tweakdle.chariz.com/) or [Wordlevs](https://wordlevs.com/) - Wordle Games / [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles & Quizzes
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - Online Jigsaw Puzzles
 * [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - Solve a Rubix Cube / [Solver](https://rubiksolve.com/), [2](https://bnice.ru/asolver/), [3](https://rubiks-cube-solver.com/)
