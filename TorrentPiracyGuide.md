@@ -35,6 +35,7 @@
 * [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html) - [Screenshot](https://i.imgur.com/8zZHjKq.png)
 * [BitTornado](http://bittornado.com/) - [Screenshot](https://i.imgur.com/jVJVmZs.png)
 * [Distribyted](https://distribyted.com/) - [Screenshot](https://i.imgur.com/LX8n8su.png) / [GitHub](https://github.com/distribyted/distribyted)
+* [Crawfish](https://github.com/drakonkat/Crawfish) - [Screenshot](https://i.imgur.com/3oOskVd.png)
 * [Tribler](https://www.tribler.org/) - Tor-inspired Client / [Screenshot](https://i.imgur.com/IzmanCf.png) / [Github](https://github.com/Tribler/tribler)
 * [aria2](https://aria2.github.io/) - Terminal Torrent Client / [Screenshot](https://i.imgur.com/KV0pSjt.png) / [Github](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](http://ariang.mayswind.net/) / [WebUI](https://github.com/ziahamza/webui-aria2)
 * [XD-Torrent](https://xd-torrent.github.io/) - Anonymous P2P Torrent Client
