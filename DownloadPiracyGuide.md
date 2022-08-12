@@ -378,9 +378,11 @@
 * [Shareaza](http://shareaza.sourceforge.net/) - File Sharing App 
 * [MLDonkey](http://mldonkey.sourceforge.net/Main_Page) - File Sharing App 
 * [Fopnu](https://fopnu.com/) - File Sharing App 
-* [MuWire](https://muwire.com/index-nojs.html) - File Sharing App 
-* [eMule](https://www.emule-project.net/) - File Sharing App
+* [MuWire](https://muwire.com/index-nojs.html) - File Sharing App
+* [DC++](https://dcplusplus.sourceforge.io/index.html) - File Sharing App / [Clients](https://dchublists.com/clients/) / [Hubs](https://dchublists.com/), [2](https://dchublist.org/), [3](https://dchublist.biz/)
+* [eMule](https://www.emule-project.net/) or [eMule Plus](https://sourceforge.net/projects/emuleplus/) - File Sharing App
 * [Shareaza P2P](http://shareaza.sourceforge.net/) - File Sharing App
+* [WinMX](https://patch.winmxconex.com/) - File Sharing App / [Forum](https://forum.winmxworld.com/)
 * [AirDC++](https://www.airdcpp.net/) - File Sharing App / [GUI](https://www.flylinkdc.com/), [2](https://github.com/eiskaltdcpp/eiskaltdcpp)
 * [WireShare](https://sourceforge.net/projects/wireshare/) - File Sharing App / LimeWire Fork 
 * [Telegram Download Channels](https://piracy.now.sh/telegram/) - Download files from telegram
@@ -418,11 +420,12 @@
 
 ## ▷ Providers
 
-* **[Nero's Black Book](https://nerosbb.com/)** - Provider List
+* **[Nero's Black Book](https://nerosbb.com/)** or [/r/usenet Providers](https://www.reddit.com/r/usenet/wiki/providers) - Provider Lists
 * [usenetmax](https://www.usenetmax.com/)
 * [xsusenet](https://xsusenet.com/)
 * [usenet.farm](https://usenet.farm/#trial)
 * [Free Trials](https://www.ngprovider.com/free-usenet-trials.php)
+* [/r/usenet Deals](https://www.reddit.com/r/usenet/wiki/providerdeals)
 
 ## ▷ Downloaders
 
