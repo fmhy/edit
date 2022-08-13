@@ -74,7 +74,6 @@
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Hacking / Pentesting Index
 * [Internet Curated](https://internetcurated.com/) - Directory Index
 * [DMOZ](http://www.dmoztools.net/) or [SmartLinks](https://smartlinks.org/index.html) - Website Directory
-* [Index Mania](https://indexmania.org/) - Link Search Index
 * [Wikimedia](https://www.wikimedia.org/) - All Wikimedia Sources  
 * [Clone Wars](https://gourav.io/clone-wars) - Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars) 
 * [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps), [Awesome oss alternatives](https://github.com/RunaCapital/awesome-oss-alternatives), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Index
@@ -107,7 +106,6 @@
 * [10kb Club](https://10kbclub.com/), [250kb Club](https://250kb.club/), [512kb Club](https://512kb.club/), [1MB Club](https://1mb.club/) - Websites that don't exceed a certain size
 * [LowTech Directory](https://emreed.net/LowTech_Directory.html) - Low Tech Site Index
 * [The Geocities Gallery](https://geocities.restorativland.org/) or [404PageFound](https://www.404pagefound.com/) - Old Site Indexes
-* [ZoaLink](https://zoalink.com/) - Korean Sites Index 
 * [endoflife.date](https://endoflife.date/) - Tools & Technologies' End of life Index
 * [KilledByGoogle](https://killedbygoogle.com/) - Dead Google Project Index
 * [KilledByMicrosoft](https://killedbymicrosoft.info/) - Dead Microsoft Project Index
@@ -281,7 +279,7 @@
 * [Drinking Game Zone](https://drinkinggamezone.com/) - Drinking Games Encyclopedia 
 * [MakeMyCocktail](http://makemycocktail.com/) - Create Custom Cocktails
 * [Drinkify](http://drinkify.org/) - Picks Drinks Based on Songs
-* [Activity Suggestion](https://www.activitysuggestion.com/), [Things to Do](https://randomthingstodo.com/), [TheZen](https://thezen.zone/) or [bored.solutions](https://bored.solutions/) - Activity Suggestions
+* [Things to Do](https://randomthingstodo.com/), [TheZen](https://thezen.zone/) or [bored.solutions](https://bored.solutions/) - Activity Suggestions
 * [Human Benchmark](https://humanbenchmark.com/) - Brain Games & Cognitive Tests 
 * [David.li](http://david.li/) - Physics Games
 * [DriveMeInsane](http://drivemeinsane.com/) - Control a Home Automation System
@@ -374,7 +372,6 @@
 * [Petting](http://oos.moxiecode.com/js_webgl/fur/index_petting.html) - Fur Simulator
 * [Spider 2 Hammertime](http://oos.moxiecode.com/js_webgl/spiders_2_hammertime/) - Murder Spiders
 * [DuckDuckRoll](http://duckduckroll.ml/) - Spinning Duck
-* [FidgetPage](https://www.fidgetpage.com/) - Online Fidget Spinner
 * [Slap Kirk](https://www.slapkirk.com/) - Slap Captain Kirk
 * [Slap Chris](https://slapchris.com/) - Slap Chris Rock
 * [Eel Slap](http://www.eelslap.com/) - Slap Guy with Eel
@@ -557,7 +554,6 @@
 * [Presence](https://presence.mrarich.com/) - Unwrap Presents Remotely
 * [Flat.Social](https://flat.social/f/hn-virtual-xmas) - Virtual Christmas Party
 * [The.Matrix-ASCII](http://takeovertheworld.org/matrix/) - The Matrix Encoded in Text
-* [sCandyBars](https://scandybars.com/) - Candy Bar Photo Blog
 * [SnackData](https://snackdata.com/) - Snack Info Database
 * [Matchbox Dan](https://matchbox-dan.com/) - Matchbox Car Picture Archive
 * [ASCIIMATION](http://www.asciimation.co.nz/) - Star Wars ASCII Animation
@@ -615,7 +611,7 @@
 * [BestHackerNews](http://besthackernews.herokuapp.com/) or [YCombinator](https://news.ycombinator.com/) / [Mobile](https://hackerwebapp.com/) - Hacker News 
 * [Latest Privacy](https://latestprivacy.org/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - Privacy News
 * [Talos Blog](https://blog.talosintelligence.com/) - CyberSecurity News
-* [We Fight Censorship](http://3kyl4i7bfdgwelmf.onion/) or [Netblocks](https://netblocks.org/) - Censorship News
+* [Netblocks](https://netblocks.org/) - Censorship News
 * [CBM](https://comicbookmovie.com/) - Comic, Movie & TV News
 * [Tudum](https://www.netflix.com/tudum) - Netflix News
 * [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
@@ -776,7 +772,6 @@
 * [Liam Rosen's Fitness Guide](http://liamrosen.com/fitness.html) - Beginners Health & Fitness Guide
 * [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) - Fitness / Nutrition Info 
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
-* [paulogentil](https://paulogentil.com/pdf/?ND) - Fitness Books
 * [Google Fit](https://www.google.com/fit/) - Activity Coach
 * [/u/KNightNox Diagram](https://i.imgur.com/ipBxg5p.jpg) - Zoomable Exercise Diagram
 * [fastnfitness](https://github.com/brodeurlv/fastnfitness) - Track Your Exercise Progress
@@ -864,7 +859,7 @@
 
 * **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Index
 * **[Satellite / Street View Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_satellite_.26amp.3B_street_view_maps)**
-* **[OpenStreetMap](https://www.openstreetmap.org/)** / [Search](https://nominatim.openstreetmap.org/ui/search.html ), [KartaView](https://kartaview.org/landing), [MapMania](https://www.mapmania.info/) or [Mapillary](https://www.mapillary.com/) - Street View Maps 
+* **[OpenStreetMap](https://www.openstreetmap.org/)** / [Search](https://nominatim.openstreetmap.org/ui/search.html ), [KartaView](https://kartaview.org/landing) or [Mapillary](https://www.mapillary.com/) - Street View Maps 
 * [Atlas Obscura](https://www.atlasobscura.com/) - Travel Maps & Guides
 * [Borderless](https://borderless.safetywing.com/) - Travel Restriction Map
 * [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Site Maps
@@ -880,7 +875,7 @@
 * [Historic Borders](https://historicborders.app/) - Historic Borders Map
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - World History Map with Visual Notes 
 * [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US Historical Maps
-* [Live Action Map](https://www.live-action-map.com/) or [LiveUAMap](https://liveuamap.com/) - Ukraine Conflict Areas LiveFeed
+* [LiveUAMap](https://liveuamap.com/) - Ukraine Conflict Areas LiveFeed
 * [Sirens In UA](https://sirens.in.ua/) - Ukraine Air Raid Siren Map
 * [Native-Land.ca](https://native-land.ca/) - Indigenous Territory Map
 * [Midgard Map](https://midgardmap.koboldpress.com/) - Midgard Map
@@ -984,7 +979,7 @@
 
 * **[How to Download Fonts](https://redd.it/8tqfg6)**
 * **[Font Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_font_collections)** - Font Drives
-* [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [Getfancy](https://getfancy.io/), [Font Generator](https://www.toulr.com/other-tools/font-generator), [AB Text Generator](https://www.abtextgenerator.com/), [DiscordFonts](https://lingojam.com/DiscordFonts), [MessLetters](https://www.messletters.com/), [letrasdiferentes](https://letrasdiferentes.com.br/), [Fancy Text](https://fancy-text.net/), [TextFancy](https://textfancy.com/), [Font-Generator](https://www.font-generator.com/), [Zalgo](http://eeemo.net/), [lingojam](https://lingojam.com/WeirdTextGenerator) or [fSymbols](https://fsymbols.com/generators/) - Font Generator
+* [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [Getfancy](https://getfancy.io/), [Font Generator](https://www.toulr.com/other-tools/font-generator), [AB Text Generator](https://www.abtextgenerator.com/), [DiscordFonts](https://lingojam.com/DiscordFonts), [MessLetters](https://www.messletters.com/), [letrasdiferentes](https://letrasdiferentes.com.br/), [Fancy Text](https://fancy-text.net/), [TextFancy](https://textfancy.com/), [Font-Generator](https://www.font-generator.com/), [lingojam](https://lingojam.com/WeirdTextGenerator) or [fSymbols](https://fsymbols.com/generators/) - Font Generator
 * [Formito](https://formito.com/tools/logo) - Typography Logo Maker
 * [Font Map](http://fontmap.ideo.com/) - Map of Fonts
 * [DaFont](https://www.dafont.com/)
@@ -1285,7 +1280,6 @@
 * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) or [Volume Master](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - Increase Browser Volume
 * [Audion](https://github.com/GoogleChrome/audion) - Web Audio Graph Visualizer
 * [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn) - Text Summary Generator
-* [Poster](https://install.get-poster.com/) - Quick Link Share
 * [Blackbox](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) - Copy Text from Videos and Images
 * [Copy Text Easily](https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo) - Simple Text Copy 
 * [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en) - Extract Email ID's from Webpages
@@ -1325,7 +1319,6 @@
 * [Mercury Reader](https://mercury.postlight.com/reader/) - Clear Clutter From Articles / [GitHub](https://github.com/postlight/mercury-parser)
 * [OpenDyslexic](https://chrome.google.com/webstore/detail/opendyslexic-for-chrome/cdnapgfjopgaggbmfgbiinmmbdcglnam) - Increase Page Readability
 * [Read Progress](https://chrome.google.com/webstore/detail/website-read-progress/cpmfchlofecflfioofchboebmocaelip) - Display Read Progress on WebPage
-* [Go Back in Time](https://chrome.google.com/webstore/detail/go-back-in-time/hgdahcpipmgehmaaankiglanlgljlakj) - View Archived / Cached Webpages
 * [Amino](https://aminoeditor.com/) - Customize Webpage CSS
 * [NFT to Silly JPEG](https://github.com/k-wong/nft-to-silly-jpeg) - Replace NFT Images
 * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en) - Image / Video Album Downloader / [Script](https://openuserjs.org/scripts/indream/DownAlbum) 
