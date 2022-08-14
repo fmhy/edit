@@ -20,6 +20,7 @@
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
 * [Cider](https://cider.sh/) - Streaming
 * [Resso](https://www.resso.com/in/) - Streaming
+* [Musify](https://github.com/gokadzev/Musify) - Streaming
 * [Muffon](https://github.com/staniel359/muffon) - Streaming
 * [Deezer](https://www.deezer.com/) - Streaming / [Unlock HiFi](https://git.freezerapp.xyz/uhwot/dzunlock)
 * [OdesliBot](https://t.me/odesli_bot) - Audio Stream Search Bot
@@ -34,7 +35,7 @@
 
 * **[Spotify](https://open.spotify.com/)** or [Spotify One](https://spotfy.one/)  - Browser Music
 * **Spotify Tools** - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Listen Together](http://jqbx.fm/) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
-* **[YouTube Music](https://music.youtube.com/)**, [InfiGroove](https://www.infigroove.com/) or [Beatbump](https://beatbump.ml/home) / [GitHub](https://github.com/snuffyDev/Beatbump) - Browser Music
+* **[YouTube Music](https://music.youtube.com/)**, **[YTMP](https://ytmp.itsvg.in/)**, [InfiGroove](https://www.infigroove.com/) or [Beatbump](https://beatbump.ml/home) / [GitHub](https://github.com/snuffyDev/Beatbump) - Browser Music
 * **YouTube Music Tools** - [Lag Fix](https://greasyfork.org/en/scripts/432304-youtube-music-fix-performance) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo)
 * **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * **[SoundCloud](https://soundcloud.com/)** - User Made Songs
@@ -146,7 +147,8 @@
 * [Radiooooo](https://radiooooo.com/) - Radio / Time Machine
 * [420.moe](https://420.moe/) - 420 Radio 
 * [Listen To The Clouds](http://listentothe.cloud/) or [LiveATC](https://www.liveatc.net/) - Air Traffic Radio Chatter 
-* [Broadcastify](https://www.broadcastify.com/) - Live Emergency, Aircraft & Rail Feeds 
+* [Broadcastify](https://www.broadcastify.com/) - Live Emergency, Aircraft & Rail Radio
+* [OpenMHz](https://openmhz.com/) - Live Police Radio
 * [morsecode.me](http://morsecode.me/) - Morse Code Radio / Communication
 * [Worldwide Radio](http://forums.mozillazine.org/viewtopic.php?t=3039738) - Radio Extension
 * [CaribouLite](https://github.com/cariboulabs/cariboulite) - Raspberry-Pi Tx/Rx 6GHz SDR
@@ -242,10 +244,11 @@
 * [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - Deezer Downloaders
 * [OFFMP3](https://offmp3.com/), [Anything2MP3](https://anything2mp3.cc/) or [conversormp3](https://conversormp3.com.br/) - Video to MP3 Converter
 * [SMLoadr](https://t.me/SMLoadrNews) - FLAC / MP3 / [Desktop GUI](https://github.com/thelucifermorningstar/SMLoadr-AUX/releases)
+* [Musify](https://github.com/gokadzev/Musify) - MP3
+* [MP3Jam](https://www.mp3jam.org/) - MP3
 * [RedSea](https://github.com/Dniel97/RedSea) - Tidal Music Downloader 
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - FLAC / MP3
 * [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots)
-* [MP3Jam](https://www.mp3jam.org/) - MP3
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - Music Download Tool 
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Free BandCamp Downloader](https://github.com/7x11x13/free-bandcamp-downloader), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloader
 * [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - Soundcloud Download Tools
@@ -439,7 +442,7 @@
 * **Last.fm Tools** - [Manual Scrobble](https://openscrobbler.com/) / [Web Scrobble](https://web-scrobbler.com/) / [Album Collages](https://www.nsfcd.com/lastfm/) / [Tag Cloud](https://tagcloud.joshuarainbow.co.uk/) / [Now Playing Display](https://descent.live/now) / [Taste Overlap](https://7x11x13.xyz/last-fm-overlap/)
 * **[Has it leaked](https://hasitleaked.com/)** or [LEAKED](https://leaked.cx/) - Album Leak Tracker
 * **[Muspy](https://muspy.com/)** - Get Album Release Updates
-* **[RateYourMusic](https://rateyourmusic.com/)**, **[Sputnik](https://www.sputnikmusic.com/)**, [Discogs](https://www.discogs.com/), [listnd](https://listnd.com/), [AlbumOfTheYear](https://www.albumoftheyear.org/), [AllMusic](https://www.allmusic.com/) or [Musicbranz](https://musicbrainz.org/) - Ratings / Reviews
+* **[RateYourMusic](https://rateyourmusic.com/)**, **[Sputnik](https://www.sputnikmusic.com/)**, [Discogs](https://www.discogs.com/) / [Scout](https://greasyfork.org/en/scripts/439452-discogs-scout), [listnd](https://listnd.com/), [AlbumOfTheYear](https://www.albumoftheyear.org/), [AllMusic](https://www.allmusic.com/) or [Musicbranz](https://musicbrainz.org/) - Ratings / Reviews
 * **[RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/)** - Artist Recommendations by Genre
 * [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Band Archive
 * [Metal Archives](https://www.metal-archives.com/) - Metal Band Archive
