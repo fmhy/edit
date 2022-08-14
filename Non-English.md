@@ -832,6 +832,7 @@
 * [Free VPN Telegram Channels](https://bin.disroot.org/?85b66e37980b245e#DRbHouuNMfXGRdqPs68y6nGLULhHdvdXzuPdDmBxsyi2) - Free VPN / Telegram
 * [Targoman](http://targoman.ir/) - Translator / [GitHub](https://github.com/targoman)
 * [Wiki Censorship](https://wikicensorship.github.io/) - Internet Censorship Encyclopedia
+* [Persian Calendar](https://f-droid.org/packages/com.byagowi.persiancalendar) - Android Persian Calendar
 
 ## ▷ Downloading
 
@@ -909,9 +910,11 @@
 * [ParsaTV](https://www.parsatv.com/) - Live TV
 * [MusicGeek](https://musicgeek.ir/) - Music
 * [VMusic](https://vmusic.ir/) - Music
+* [Awesome Persian Podcasts](http://github.com/ashkanRmk/awesome-persian-podcasts) - Podcasts
 
 ## ▷ Reading
 
+* [TakBook](https://www.takbook.com/)
 * [parsbook.com](https://www.parsbook.com/) - Educational / Programming / Engineering 
 * [iranpaper](https://iranpaper.ir/) - Documents 
 * [Afghanistandl](http://afghanistandl.nyu.edu/) - Historical Books
@@ -1351,10 +1354,10 @@
 * [Kinogo](https://kinogo.la/), [2](https://kinogo-net.org/) - Movies / TV / Anime / [Telegram](https://t.me/kinogoby)
 * [Kinotochka](https://kinotochka.co/) - Movies / TV / Anime
 * [NotAlone](https://www.notalone.tv/) - Movies / TV
-* [kinokong](https://kinokong.org/) - Movies / TV 
-* [Zetflix](https://zetflix.pro/), [2](https://zetflix.to/) - Movies / TV
+* [kinokong](https://kinokong.org/) - Movies / TV
+* [Zetflix](https://zetflix.pro/), [2](https://zetflix.to/), [3](https://zetflix.zone/ ) - Movies / TV
 * [RussianFilmHub](https://russianfilmhub.com/) - Movies / TV
-* [viho.live](https://viho.live/) - Movies / TV / Anime 
+* [viho.live](https://viho.live/) - Movies / TV / Anime
 * [EX-FS](https://ex-fs.net/ ) - Movies / TV / Anime
 * [hdzo](https://hdzo.tv/) - Movies / TV
 * [kinobase](https://kinobase.org/) - Movies / TV
@@ -1435,6 +1438,7 @@
 * [Arzamas](https://arzamas.academy/) - Cultural History
 * [Playing Soviet](https://commons.princeton.edu/soviet/) - Children's Books
 * [Baza Knig](https://baza-knig.ru/), [Flibusta_Anglysky](https://t.me/flibusta_anglysky), [Аудиокниги Клуб](https://akniga.org/), [A-Book](https://a-book.info/), [Bibl](https://m.bibl.us/), [Knizhkin](https://knizhkin.net/), [Aknigi Online](https://aknigionline.ru/), [A Book Club](http://abook-club.ru/), [Bibl.us](https://bibl.us/) - Audiobooks
+* [Science Lab](https://fantlab.ru/) - Sci-Fi Book Discussion
 
 ***
 
