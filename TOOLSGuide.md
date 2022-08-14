@@ -156,7 +156,7 @@
 * [phraseup](http://www.phraseup.com/) - Autocomplete Common Phrases 
 * [Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en), [TextSynth](https://textsynth.com/playground.html) or [Talk to Transformer](https://app.inferkit.com/demo) - Text Autocomplete 
 * [EleutherAI](https://6b.eleuther.ai/) or [Essaytyper](http://www.essaytyper.com/) - Text / Story Autocomplete
-* [SongLyricsGenerator](http://www.songlyricsgenerator.com/) - Generate Fake Song Lyrics
+* [SongLyricsGenerator](http://www.songlyricsgenerator.com/) or [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) - Generate Fake Song Lyrics
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)
 * [FocusWriter](https://gottcode.org/focuswriter/) or [Writer](https://www.gibney.org/writer) / [GitHub](https://github.com/no-gravity/writer) - Distraction-Free Writing Tool
@@ -176,9 +176,10 @@
 * [Translator++](https://dreamsavior.net/translator-the-introduction/) - Automatic Translator / Editor
 * [Poedit](https://poedit.net/) - Translation Editor
 * [OmegaT](https://omegat.org/) - Translation Memory Tool
-* [Project Naptha](https://projectnaptha.com/) - Image to Text Tool
 * [TranslateImages](https://translateimages.site/) - Translate Image Text
+* [Image to Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_to_text) - Extract Text from Images
 * [Lonliness Translate](https://loneliness.one/translate) - Re-translate Phrases
+* [InternetSlangTranslator](https://lingojam.com/InternetSlangTranslator2-0) - Translate Text to Slang
 * [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
 * [Delim](https://delim.co/) - Comma Separating Tool
 * [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - Create Parallel Text Web
@@ -368,6 +369,7 @@
 * [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
 * [zeroTube](http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb) - Decentralized Video Platform on ZeroNet using WebTorrent + [GitHub](https://github.com/rllola/zeroTube/)
 * [HoraHora](https://github.com/horahoradev/horahora) - Self-Hosted Video Host
+* [Marauder](https://github.com/Makeshift/Marauder) - GDrive Video Player
 * [MotionMonkey](https://omega.gg/MotionMonkey/) - Stream Online Videos in Player
 * [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players 
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - Nico Nico Video Player
@@ -427,9 +429,10 @@
 * [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://iznaut.itch.io/bfxr), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - Sounds Effects Creator
 * [Fresh Stuff For You](https://freshstuff4you.com/) or [All4Daw](https://all4daw.com/) - DAWs / Samples / Presets
 * [Plugin Clouds Archive](https://t.me/plugincloudsarchive) - DAW Plugins
-* [FlsAudio](https://flsaudio.com/en/gb/) - FLStudio Samples / Presets / Plugins 
+* [FlsAudio](https://flsaudio.com/en/gb/) - FLStudio Samples / Presets / Plugins
+* [/r/findthepreset](https://www.reddit.com/r/findthepreset) - Find Presets from Songs
 * [MilkyTracker](https://milkytracker.org/) - .MOD & .XM Module Creator
-* [CrackCartel Vault](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_crackcartel_vault), [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [Baomay01](https://baomay01.info/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
+* [CrackCartel Vault](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_crackcartel_vault), [/r/samplesforall](https://www.reddit.com/r/samplesforall/), [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [Baomay01](https://baomay01.info/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
 * [AirWindows](http://www.airwindows.com/) - Reverbs / Equalizers / Plugins
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - Learn How to Play Music
 * [Jukebox](https://jukebox.today/) or [jqbx](http://jqbx.fm/) - Music Sync / Listening Parties
@@ -884,6 +887,7 @@
 * [Safari Windows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_safari_windows) - Safari for Windows
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) - Prevent Firefox Memory Leaks 
 * [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) or [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Firefox Hidden Settings
+* [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - Firefox UI Enhancements
 * [Firefox Access](https://www.accessfirefox.org/) - Firefox Accessibility Tools for the Visually Impaired
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - Firefox CSS Guides 
@@ -1168,13 +1172,14 @@
 * [Dark-Discord](https://github.com/snappercord/Dark-Discord) - Dark Theme for BetterDiscord & Powercord 
 * [Powerconvert](https://convert.creatable.cafe/) - Convert BetterDiscord themes to Powercord
 * [bdCompat](https://github.com/Juby210/bdCompat) - Use BD Plugins in Powercord
-* [Revert Rebrand](https://betterdiscord.app/theme/Revert%20Rebrand) - Revert Discord’s Rebrand on BetterDiscord / Powercord / [GitHub](https://github.com/Goose-Nest/GT-RevertRebrand)
+* [Revert Rebrand](https://betterdiscord.app/theme/Revert%20Rebrand) - Revert Discord’s Rebrand on BetterDiscord & Powercord / [GitHub](https://github.com/Goose-Nest/GT-RevertRebrand)
 * [Discord Portable](https://portapps.io/app/discord-portable/) - Portable Discord Stable & [PTB PortApps](https://portapps.io/app/discord-ptb-portable/)
 * [Unicord](https://github.com/WamWooWam/Unicord) - Open Source Discord Client / [Discord](https://discord.gg/64g7M5Y) 
 * [Fosscord](https://github.com/fosscord/fosscord) - FOSS Discord Client
 * [Quarrel](https://github.com/UWPCommunity/Quarrel) - Universal Windows Platform Discord Client
 * [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) or [WebCord](https://github.com/SpacingBat3/WebCord) - Discord Web Client / [Discord](https://discord.gg/Vm4CwZx)
 * [discord-PWA](https://github.com/NeverDecaf/discord-PWA) - Discord PWA Client
+* [Discord Tauri](https://github.com/DiscordTauri/discord-tauri) - Discord Wrapper
 * [weechat-discord](https://github.com/terminal-discord/weechat-discord) - WeeChat Discord Plugin
 * [Atlus](https://github.com/amanharwara/altus) - Whatsapp Client
 * [litecord](https://gitlab.com/litecord/litecord) - Reimplementation of Discord's Backend / [Clients](https://gitlab.com/litecord/litecord/-/blob/master/docs/clients.md)
@@ -1256,7 +1261,7 @@
 * [Discord Auto Upload](https://github.com/tardisx/discord-auto-upload) - Auto Upload Screenshots
 * [Discord Creation Date Check](https://hugo.moe/discord/discord-id-creation-date.html) - Check Creation Date of User / Channel / Server / [GitHub](https://github.com/hugonun/discordid2date)
 * [DSC.BIO](https://discords.com/bio) - Make Custom Discord Bios 
-* [DateTimeCord](https://datetimecord.rauf.wtf/) - Discord Date & Time Fomatting Tool
+* [DateTimeCord](https://datetimecord.rauf.wtf/) - Discord Date & Time Formatting Tool
 * [Dank.tools](https://dank.tools/) - Time Tag Generator
 * [Discord Text to Emoji](https://jtprince.com/discord/) - Emoji Discord Text
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - Automod Bot Config
@@ -1333,12 +1338,13 @@
 * [Reddit2Telegram](https://github.com/Fillll/reddit2telegram) - Reddit Post Bot
 * [Shieldy Bot](https://t.me/shieldy_bot) - Spam Protection Bot / [GitHub](https://github.com/1inch/shieldy)
 * [Telegram Scraper](https://www.telegramscraper.com/) - Telegram Member / Group Export
-* [Telegram Email](https://t.me/etlgr_bot) - Send / Receive Emails via Telegram 
+* [Telegram Email](https://t.me/etlgr_bot) - Send / Receive Emails via Telegram
+* [rss2tg_bot ](https://t.me/rss2tg_bot) - RSS Feed Bot
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - Telegram CSE
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Link Shortener Bot 
 * [TLG.NAME](https://www.tlg.name/) - Telegram Link Creator
 * [URL2IMGBot](https://t.me/URL2IMGBot) - Take URL Screenshots / Telegram 
-* [Stickers Cloud](https://stickers.cloud/en) - Sticker Packs
+* [Stickers Cloud](https://stickers.cloud/en) or [moe_sticker_bot](https://t.me/moe_sticker_bot) - Sticker Packs
 * [ProxyBot](https://t.me/vamproxy_bot), [proxytelebot](https://t.me/proxytelebot), [yadda_proxybot](https://t.me/yadda_proxybot), [tproxies_bot](https://t.me/tproxies_bot), [proxy_socks5_bot](https://t.me/proxy_socks5_bot), [socksy_bot](https://t.me/socksy_bot), [ShadowSocks_bot](https://t.me/ShadowSocks_bot) or [logicpleaseproxybot](https://t.me/logicpleaseproxybot) - Telegram Proxy Bots
 * [TgVPNbot](https://t.me/TgVPNbot), [tgfreebot](https://t.me/tgfreebot) or [FCK_RKN_bot](https://t.me/FCK_RKN_bot) - Telegram VPN Bots
 
@@ -1865,6 +1871,7 @@ Twitch Stream Tracker
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - Terminal Frameworks, Plugins & Resources 
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/) or [MobaXterm](https://mobaxterm.mobatek.net/) - Alternative Terminal 
 * [Gradient Terminal](https://github.com/aurora-0025/gradient-terminal) - Display Terminal Output as Gradient
+* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) or [command-line-tools](https://github.com/learn-anything/command-line-tools) - Command Line Apps
 * [ss64](https://ss64.com/) - Command Line Reference Index
 * [ZimTools](https://zimtools.xyz/) - Command Line Tool Configs
 * [Terminal Icons](https://github.com/devblackops/Terminal-Icons) - File and Folder Icons in Terminal
