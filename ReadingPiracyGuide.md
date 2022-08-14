@@ -713,7 +713,7 @@
 * **[Dictionary Index](https://onelook.com/?d=all_gen)** 
 * **[OneLook](https://onelook.com/)** - Multi Dictionary Search
 * **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus
-* **[Wikipedia](https://www.wikipedia.org/)** or [WikiFox](https://wikifox.ml/) - Encyclopedia / [Read Only](http://static.wiki/) / [Text Extractor](https://github.com/attardi/wikiextractor) / [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page)
+* **[Wikipedia](https://www.wikipedia.org/)** or [WikiFox](https://wikifox.ml/) - Encyclopedia / [Read Only](http://static.wiki/) / [Text Extractor](https://github.com/attardi/wikiextractor) / [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Galaxy View](https://wiki.polyfra.me/)
 * **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - Slang Word / Phrase Dictionary
 * [Phrases.org](https://phrases.org.uk/) - Phrase Dictionary
 * [NinjaWords](http://ninjawords.com/) - Dictionary
@@ -723,6 +723,7 @@
 * [Cambridge Dictionary](https://dictionary.cambridge.org/) - Dictionary
 * [LDOCE](https://www.ldoceonline.com/) - Dictionary
 * [Wiktionary](https://www.wiktionary.org/) - Dictionary
+* [Lexicool](https://www.lexicool.com/) - Dictionary
 * [Vocabulary](https://www.vocabulary.com/) - Dictionary
 * [WordSense](https://www.wordsense.eu/) - Dictionary
 * [MacmillanDictionary](https://www.macmillandictionary.com/) - Dictionary
@@ -847,6 +848,7 @@
 * [pptenshi](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pptenshi)
 * [bato](https://bato.to/) - [Discord](https://discord.gg/7NBwcBsDph)
 * [MangaHere](http://www.mangahere.cc)
+* [Atsumaru](https://atsu.moe/) - [Discord](https://discord.gg/Tj4QmEF4uV)
 * [MangaNelo](https://manganelo.com/) or [Mangakakalot](https://mangakakalot.com/)
 * [MangaHub](https://mangahub.io/)
 * [MP4DIRECTS](https://mp4directs.com/) 
@@ -1222,6 +1224,7 @@
 * [FicHub](https://fichub.net/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - Fanfiction Downloader 
 * [ExtractBookz](https://hub.darcs.net/JasonJAyalaP/ExtractBookz) - Extract & Rename Ebook Files / [GitHub](https://github.com/JasonJAyalaP/ExtractBookz)
 * [Sigil Ebook](https://sigil-ebook.com/) - EPUB Editor
+* [Audiobook Splitter](https://gist.github.com/izderadicka/0efc16bd150d70b7c504ab15f95c11ab) - Split Audiobooks in Smaller Files
 * [SmartStich](https://github.com/MechTechnology/SmartStitch) - Stitch Together Webtoons
 * [FanFicFare](https://github.com/JimmXinu/FanFicFare) - Generate Ebooks from Stories / Fanfiction
 * [HowLongToRead](https://howlongtoread.com/) - Average Book Reading Times
