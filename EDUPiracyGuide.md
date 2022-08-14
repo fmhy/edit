@@ -372,6 +372,7 @@
 
 * **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/) or [UN Data](https://data.un.org/) - World Data & Statistics
 * **[Our World in Data](http://ourworldindata.org/)** - World Problem Database
+* [Climate Data](https://climate-data.org/) - Climate Change Data
 * [Nextstrain](https://nextstrain.org/) - Pathogen Evolution Tracking 
 * [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - 
 * [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) - Public Datasets
@@ -435,6 +436,7 @@
 * [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery API
 * [Open Access Hub](https://scihub.copernicus.eu/) - Copernicus Satellite Data Copernicus
 * [Satellite Map](https://satellitemap.space/) - Satellite Orbit Map
+* [Find Starlink](https://findstarlink.com/) - Starlink Satellite Tracker
 * [Space Weather News](https://spaceweathernews.com/) or [SpaceWeather](https://spaceweather.com/) - Space Weather Updates / [Videos](https://www.youtube.com/user/Suspicious0bservers)
 * [Andegraf Rockets](http://rockets.andegraf.com/) - Rocket Diagrams
 * [Interactive Apollo Missions](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - Apollo in Realtime 
@@ -530,7 +532,8 @@
 * [Memento](https://github.com/ripose-jp/Memento) - Japanese Learning Video Player
 * [JapaneseWithAnime](https://www.japanesewithanime.com/) - Learn Japanese with Examples from Anime
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - Japanese Practice Material
-* [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - Japanese Accent Dictionary 
+* [Jotoba](https://jotoba.de/) - Japanese Dictionary
+* [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - Japanese Accent Dictionary
 * [GetKanda](https://getkana.com/app/) - Learn Kana 
 * [WaniKani](https://www.wanikani.com/) or [Manji](https://github.com/Livinglist/Manji) - Learn Kanji
 * [Read Korean Letters](https://readkoreanletters.com/) - Learn Korean Characters 
@@ -676,7 +679,7 @@
 * [ChemicalAid](https://en.intl.chemicalaid.com/) - Chemistry Calculators & Element Tables
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
 * [Retrosynthesis](http://retrosynthesis.com/) - Organic Retrosynthesis Engine / [GitHub](https://github.com/sudo-rushil/odachi)
-* [Answers.com](https://www.answers.com/) - Q&A Community
+* [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://github.com/VoidlessVoid7/quora-plus-bypass) - Q&A Communities
 * [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) - Homework Help 
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets 
 * [Answers Exchange](https://discord.gg/GFp9Rvr), [Toppr](https://www.toppr.com/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
@@ -819,7 +822,7 @@
 * [Find Study Now](https://find-study-now.com/) - School Search
 * [BachelorStudies](https://bachelorstudies.com/) - Bachelor Degree Search 
 * [College Map](https://nces.ed.gov/ipeds/collegemap/) - College Information Map
-* [RateMyDorm](https://ratemydorm.com) - College Dorm Reviews
+* [RateMyDorm](https://ratemydorm.com) or [:)](https://docs.google.com/document/d/14Mn1CrA-CV5YZAkOZtrMKTmn2O4oL-2EhIXhzXZbO0A/edit#) - College Dorm Reviews
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - Professor Ratings
 * [Edu VPN](https://www.eduvpn.org/) - Institute Access VPN
 * [.edu Mail Guide](https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview), [Mail.mjj](https://mail.mjj.edu.ge/), [10MinMail](https://10minutesemail.net/) - EDU Email Address'
