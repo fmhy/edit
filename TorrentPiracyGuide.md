@@ -36,6 +36,7 @@
 * [BitTornado](http://bittornado.com/) - [Screenshot](https://i.imgur.com/jVJVmZs.png)
 * [Distribyted](https://distribyted.com/) - [Screenshot](https://i.imgur.com/LX8n8su.png) / [GitHub](https://github.com/distribyted/distribyted)
 * [Crawfish](https://github.com/drakonkat/Crawfish) - [Screenshot](https://i.imgur.com/3oOskVd.png)
+* [uTorrent 2.2.1](https://archive.org/details/utorrent_2.2.1_build_25302) - [Screenshot](https://i.imgur.com/No0WuIZ.png) / Pre-Adware Version
 * [Tribler](https://www.tribler.org/) - Tor-inspired Client / [Screenshot](https://i.imgur.com/IzmanCf.png) / [Github](https://github.com/Tribler/tribler)
 * [aria2](https://aria2.github.io/) - Terminal Torrent Client / [Screenshot](https://i.imgur.com/KV0pSjt.png) / [Github](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](http://ariang.mayswind.net/) / [WebUI](https://github.com/ziahamza/webui-aria2)
 * [XD-Torrent](https://xd-torrent.github.io/) - Anonymous P2P Torrent Client
@@ -163,7 +164,7 @@
 * [0Mag](https://www.0mag.net/), [2](https://9mag.net/), [3](https://3mag.net/) 
 * [TorrentDownloads](https://www.torrentdownloads.pro/) 
 * [Torlock](https://www.torlock.com/), [2](https://www.torlock2.com/) 
-* [iBit.to](https://ibit.to) or [iBit.am](https://ibit.am/) 
+* [iBit.to](https://ibit.to), [2](https://ibit.am/), [3](https://ibit.uno/)
 * [TorrentFunk](https://www.torrentfunk.com/), [2](https://www.torrentfunk2.com/) 
 * [concen](https://www.concen.org/torrents) 
 * [BTSearch](https://www.btsearch.ml/)
