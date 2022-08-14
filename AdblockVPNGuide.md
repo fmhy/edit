@@ -247,7 +247,7 @@
 * [Eraser](https://eraser.heidi.ie/) or [Lethe](https://github.com/rafael-santiago/lethe) - Wipe / Overwrite Hard Drive Data 
 * [Free Hide Folder](https://www.cleanersoft.com/hidefolder/free_hide_folder.htm) or [Wise Folder Hider](http://www.wisecleaner.com/wise-folder-hider-free.html) - Hide Folders / Files 
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - Run a Oracle VM on TailsOS
-* [Mastodon](https://joinmastodon.org/), [diaspora](https://diasporafoundation.org/) / [2](https://diasp.org/), [MissKey](https://join.misskey.page/en/), [Pleroma](https://pleroma.social/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendi](https://friendi.ca/) or [Zotlabs](https://zotlabs.org/page/hubzilla/hubzilla-project) - Decentralized Social Network
+* [Mastodon](https://joinmastodon.org/), [diaspora](https://diasporafoundation.org/) / [2](https://diasp.org/), [MissKey](https://join.misskey.page/en/), [Pleroma](https://pleroma.social/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendi](https://friendi.ca/) or [Zotlabs](https://zotlabs.org/page/hubzilla/hubzilla-project) - Decentralized Social Networks
 * Mastodon Tools - [Instances](https://instances.social/) / [Web Client](https://pinafore.social/) / [2](https://mastodon.social/) / [Desktop Client](https://flathub.org/apps/details/com.github.bleakgrey.tootle), [2](https://github.com/h3poteto/whalebird-desktop) / [Account Link](https://moa.party/) / [Crosspost](https://crossposter.masto.donte.com.br/) / [Schedule](https://scheduler.mastodon.tools/), [2](https://plan.fedilab.app/) / [Embedded Feeds](https://www.mastofeed.com/) / [Timelines](https://mastovue.glitch.me/)
 * [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/) - Stop Telemetry Data Leaks
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - Track Torrent Download Leaks
@@ -355,6 +355,7 @@
 * **[ACCOUNTKILLER](https://www.accountkiller.com/)** or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - Find / Terminate Old Accounts 
 * [Awesome Private Browsing](https://github.com/onsitejs/Awesome-Private-Browsing) - Browser Privacy Index
 * [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - Web Security Resource Index
+* [Brave Browser Hardening](https://gitlab.com/CHEF-KOCH/brave-browser-hardening) -  Privacy Hardened Brave
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - Password Strength Checker
 * [h8Mail](http://github.com/khast3x/h8mail) - Multiple Data Breach Checks
 * [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/), [Trufflehog](https://github.com/trufflesecurity/trufflehog) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engine
