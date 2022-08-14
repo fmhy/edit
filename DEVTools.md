@@ -42,9 +42,9 @@
 * [Tea Press](https://greenteapress.com/wp) - Free Python Learning Books Green
 * [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheet
 * [VSCode.one](https://vscode.one/) or [VSCodeCanDoThat](https://www.vscodecandothat.com/) - VS Code Tutorials
-* [Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) or [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - Programming & Development Learning Channels
+* [Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers), [andrew--r/channels](https://github.com/andrew--r/channels), [Awesome-Youtube-Channels](https://github.com/epoyraz/) or [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - Programming & Development Learning Channels
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - Code Algorithms & Data Structures Tutorials
-* [Aquent Gymnasium](https://thegymnasium.com/) - Courses 
+* [Aquent Gymnasium](https://thegymnasium.com/) - Courses
 * [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) - Learn Computer Graphics
 * [SchoolOfHaskell](https://www.schoolofhaskell.com/) - Haskell Tutorials 
 * [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Haskell Guide
@@ -99,7 +99,7 @@
 * [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - C++ Best Practices Guidelines / [Github](https://github.com/isocpp/CppCoreGuidelines)
 * [Learn C++](https://www.learncpp.com/) - Learn C++
 * [HowIStart C++](https://howistart.org/posts/cpp/1/) - C++ Setup Guide
-* [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) - C++ Algorithm Collection
+* [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) or [cppreference](https://en.cppreference.com/w/) - C++ Cheatsheets
 * [modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) - C++ Tips
 * [Quick-R](https://www.statmethods.net/index.html) - R Tutorials
 * [Advanced R](https://adv-r.hadley.nz/) - R Guide / [Solutions](https://advanced-r-solutions.rbind.io/)
@@ -166,7 +166,7 @@
 * [SitePoint](https://www.sitepoint.com/) - UX Design Courses & Books
 * [FrontEndMentor](https://www.frontendmentor.io/) - UX Design Challenges
 * [Design Pattern for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Guide on Design Patterns
-* [Web Skills](https://andreasbm.github.io/web-skills/) - Web Development Guides
+* [Web Skills](https://andreasbm.github.io/web-skills/) or [Encodedna](https://www.encodedna.com/) - Web Development Guides
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Collection of Project-Based Tutorials
 * [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn Swift and build iOS App Building
 * [SwiftDump](https://github.com/neil-wu/SwiftDump) - Retrieve Swift Object info from Mach-O file
@@ -258,6 +258,7 @@
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - CTF Resources
 * [Advisory Database](https://github.com/github/advisory-database) - Security Vulnerability Database 
 * [Pentest Contracts](https://github.com/cure53/Contracts) - Security Contract Templates
+* [Earthly](https://earthly.dev/) - CD/CD Framework Pipeline
 * [CI/CD Security](https://github.com/myugan/awesome-cicd-security) - CI/CD Security Resources Awesome 
 * [OpenSCA-CLI](https://github.com/XmirrorSecurity/OpenSCA-cli) - Composition Analysis for Third Party Components 
 * [Kubescape](https://github.com/armosec/kubescape) - Kubernetes Tool
@@ -352,18 +353,19 @@
 * [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
 * [Contrast Checker](https://contrast-checker.glitch.me/) - Contrast Checker
 * [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
+* [free-website-translation](http://free-website-translation.com/), [transdict](http://transdict.com/meta/website.html) or [conveythis](https://www..com/) - Website Translators
 * [Statically](https://statically.io/) - Load Websites Faster
 * [Rest Test Test](http://resttesttest.com/) - Test REST / CORS Services
 * [HeidiSQL](https://www.heidisql.com/) - SQL Manager
 * [httpbin](https://httpbin.org/) - HTTP Request & Response Service
 * [RemoteMySQL](https://www.remotemysql.com/) - Remote MySQL Database
 * [DB4Free](https://db4free.net/) - MySQL Testing
-* [DoIt](https://github.com/dolthub/dolt) - SQL Database 
-* [Illegal Analytics Scanner](https://illegal.analyticsscanner.com/) - Check if your Analytics Break Laws 
+* [DoIt](https://github.com/dolthub/dolt) - SQL Database
+* [Illegal Analytics Scanner](https://illegal.analyticsscanner.com/) - Check if your Analytics Break Laws
 * [OceanBase](https://open.oceanbase.com/) - Relational Database / [GitHub](https://github.com/oceanbase/oceanbase)
 * [NocoDB](https://www.nocodb.com/) - Turn Database into Smart Spreadsheet / [GitHub](https://github.com/nocodb/nocodb)
 * [PooShock](http://pooshock.ru/) - Apache 2 Test Page
-* [Awesome list of secrets in environment variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) - List of Secrets in Environment Variables 
+* [Awesome list of secrets in environment variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) - List of Secrets in Environment Variables
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
 * [Spiderfoot](https://www.spiderfoot.net/) - Automate OSINT
 * [Easegress](https://github.com/megaease/easegress) - Traffic Orchestration System
@@ -375,7 +377,7 @@
 * [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/) or [Domainr](https://domainr.com/) - Domain Availability Check 
 * [TinyDomain](https://tinydomain.net/) - Short Domain Suggestions
 * [WorthBuck](https://worthbuck.com/) - Domain Price Estimations
-* [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites 
+* [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
 * [NetLib.re](http://netlib.re/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains 
 * [TheDev](https://thedev.id/) or [Dev.page](https://dev.page/) - Free Developer Subdomains
 * [StatPing](https://github.com/statping/statping) or [Better Uptime](https://betteruptime.com/) - Site Uptime Monitor
@@ -510,6 +512,7 @@ Automated Incident Response and Forensics Framework
 * [Amazon S3](https://aws.amazon.com/s3) - Cloud Object Storage Amazon Simple Service Storage
 * [howtheyaws](https://github.com/upgundecha/howtheyaws) - List of How Organizations Use AWS
 * [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - Email Verification Service
+* [Block Temporary Email](https://block-temporary-email.com/) - Block Temp Mail Addresses
 * [Improvemx](https://improvmx.com/) - Domain Email Forwarding
 * [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/ospfranco/link-preview-js) - Create Link Previews
 * [IP Intelligence](http://getipintel.com/) - Proxy / VPN / Bad IP Detection
@@ -560,6 +563,7 @@ Automated Incident Response and Forensics Framework
 * [MyBB](http://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
 * [Media Wiki](https://www.mediawiki.org/), [xWiki](http://www.xwiki.org/xwiki/bin/view/Main/), [tWiki ](https://twiki.org/), [DokuWiki](https://www.dokuwiki.org/dokuwiki), [Miraheze](https://miraheze.org/) or [Fandom](https://www.fandom.com/) - Host Free Wiki
 * [HumHub](https://www.humhub.org/) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
+* [RunYourOwnSocial](https://runyourown.social/) - How-to Run Private Social Network
 * [Aether](https://getaether.net/) - P2P Ephemeral Public Communities
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Tracker Hosting
 * [UUID Tools](https://www.uuidtools.com/) - UUID Generator
@@ -568,7 +572,7 @@ Automated Incident Response and Forensics Framework
 
 ## ▷ Software Development
 
-* [Electron](https://www.electronjs.org/), [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/) or [Tauri](https://tauri.studio/) / [GitHub](https://github.com/tauri-apps/tauri) - Desktop App Builder / [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://electron-app-store.ml/) / [Debugger](https://www.electronjs.org/apps/debugtron)
+* [Electron](https://www.electronjs.org/), [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/) or [Tauri](https://tauri.studio/) / [Resources](https://github.com/tauri-apps/awesome-tauri) / [GitHub](https://github.com/tauri-apps/tauri) - Desktop App Builder / [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://electron-app-store.ml/) / [Debugger](https://www.electronjs.org/apps/debugtron)
 * [Budibase](https://budibase.com/) - Internal App Builder / [GitHub](https://github.com/Budibase/budibase)
 * [raylib technologie](https://raylibtech.itch.io/), [bookmarks](https://github.com/MorganGeek/bookmarks) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - Software Development Tools
 * [Theos](https://theos.dev/) - Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
@@ -654,8 +658,9 @@ Automated Incident Response and Forensics Framework
 * [Uiautomator2](https://github.com/openatx/uiautomator2) or [Appium](http://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
 * [MSTG](https://github.com/OWASP/owasp-mstg) - App Security Testing / Reverse Engineering
 * [Privado](https://github.com/Privado-Inc/privado) - Generate App Privacy Reports
-* [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally vulnerable Android application
+* [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App
 * [PM2](https://pm2.keymetrics.io/) - Process Manager
+* [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
 * [React95](https://react95.io/) - Windows 95 React Components
 * [Zorm](https://github.com/esamattis/react-zorm) - ype-safe <form> for React
 * [React Use](https://github.com/streamich/react-use) - React Hooks 
@@ -687,7 +692,7 @@ Automated Incident Response and Forensics Framework
 * [Playerio](https://playerio.com/) - Online Game Engine
 * [RPG Playground](https://rpgplayground.com/) - Simple RPG Creator
 * [Game-Editor](http://game-editor.com/Main_Page), [microStudio](https://microstudio.itch.io/microstudio) or [BuildBox](http://buildbox.com/) - Game Creators
-* [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://pennie.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop), [Bitsy](http://ledoux.io/bitsy/editor.html), [LIKO 12](https://github.com/LIKO-12/LIKO-12) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - 2D Game Creators
+* [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://pennie.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop) / [2](https://gdevelop.io/), [Bitsy](http://ledoux.io/bitsy/editor.html), [LIKO 12](https://github.com/LIKO-12/LIKO-12) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - 2D Game Creators
 * [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models) - 3D Models / Tools
 * [Unreal Engine](https://www.unrealengine.com/) - 3D Creation Tool / [Python](https://github.com/20tab/UnrealEnginePython)
 * [Tommti Systems](http://www.tommti-systems.de/go.html?http://www.tommti-systems.de/main-Dateien/files.html) - 3D Benchmark Tools
@@ -860,7 +865,7 @@ Automated Incident Response and Forensics Framework
 * [Git-notify](https://github.com/jevakallio/git-notify) - Embed Announcements into Git Commit Messages
 * [Shields.io](https://shields.io/) - Metadata badges for Github Readmes
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - Enable Snake Game on GitHub Readme
-* [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Generate Git Profile Readme
+* [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) or [GPRM](https://gprm.itsvg.in/) - Generate Git Profile Readme
 * [Discord MD Badge](https://github.com/montylion/discord-md-badge) - Add Discord Badge to GitHub
 * [Github vscode icons](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
 * [github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - Material Icons
@@ -957,6 +962,7 @@ Automated Incident Response and Forensics Framework
 * [NeovimCraft](https://neovimcraft.com/) - Neovim Plugins
 * [NvChad](https://github.com/NvChad/NvChad) - Neovim CLI 
 * [NeoVide](https://github.com/neovide/neovide) - Neovim Client
+* []DroidVim(https://github.com/shiftrot/droidvim) - Neovim APK
 * [Bootstrap Editor](https://vim-bootstrap.com/) - Vim / Neovim Config Generator Bootstrap Editor
 * [Goyo.vim](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim
 * [nvim](https://github.com/neoclide/coc.nvim) - Neovim LSP Autocompletion coc.
