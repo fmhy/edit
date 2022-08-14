@@ -77,6 +77,7 @@
 * [CsWarzOnE](https://www.cswarzone.com/) - Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)
 * [Minetest](https://www.minetest.net/) - F2P Minecraft Alternative
 * [Unciv](https://github.com/yairm210/Unciv) - Civ V Remake
+* [OpenTTD](https://www.openttd.org/) - Transport Tycoon Remake
 * [OpenNox](https://github.com/noxworld-dev/opennox) - Nox Revival Project
 * [London 2038](https://london2038.com/) - London 2038 Multiplayer Revival Project
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball Decompilation
@@ -132,8 +133,9 @@
 * [Zophar's Domain](https://www.zophar.net/) - Emulator / ROM Hacks
 * [EmuCR](https://www.emucr.com/) - Emulators
 * [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
-* [Emulanium](https://emulanium.com/) - Emulators / ROMs 
-* [ROMsUniverse](https://www.ROMsuniverse.com/) - Emulators / ROMs 
+* [Emulanium](https://emulanium.com/) - Emulators / ROMs
+* [ROMsMania](https://romsmania.cc/) - Emulators / ROMs
+* [ROMsUniverse](https://www.ROMsuniverse.com/) - Emulators / ROMs
 * [ROMsie](https://ROMsie.com/) - Emulators / ROMs
 * [ROMs Games](https://www.ROMsgames.net/) - Emulators / ROMs
 * [ConsoleROMs](https://www.consoleROMs.com/) - Emulators / ROMs
@@ -500,7 +502,8 @@
 * [Neopets](http://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Game 
 * [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet 
 * [Super Auto Pets](https://teamwood.itch.io/super-auto-pets) - Pet Battle Game
-* [Forumwarz](http://www.forumwarz.com/) - Browser RPG  
+* [Dungeon Crawl](https://crawl.develz.org/ ) - Browser RPG
+* [Forumwarz](http://www.forumwarz.com/) - Browser RPG
 * [Kingdom of Loathing](https://www.kingdomofloathing.com/) - Comedy RPG 
 * [Bruno-Simon](https://bruno-simon.com/) - Truck Driving Game
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
