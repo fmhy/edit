@@ -47,6 +47,8 @@
 * [cata-list](https://cata-list.github.io/) - Site / Tool Index 
 * [Prospector](https://www.prospector.cz/) - Site / Tool Index 
 * [The More You Know](https://marckoxx.github.io/) - Site / Tool Index
+* [Yesterlinks](https://links.yesterweb.org/) - Site / Tool Index
+* [pomfcrawl](https://pomfcrawl.pythonanywhere.com/) - Site / Tool Index
 * [5000 Best](http://5000best.com/websites/) - Site / [Tool](http://5000best.com/tools/) Index
 * [Internet Redirections](https://techy-transistor.notion.site/techy-transistor/Internet-redirections-38a61405197a46ba8672c75d402a3225#58bffba979224bc3af93f0b1b8838806) - Site / Tool Index
 * [alt3rnative](https://github.com/machiav3lli/alt3rnative) - Site / Tool Index
@@ -220,7 +222,7 @@
 * [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
 * [PhoneDB](https://phonedb.net/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones & Prices 
 * [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
-* [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
+* [GPUDrops](https://gpudrops.com/) / [Discord](https://discord.gg/gpudrops), [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
 * [DiaperGrid](https://diapergrid.com/) - Diaper Price Tracker
 * [WorldTaxiMeter](https://www.worldtaximeter.com/) - Taxi Fare Calculator
@@ -608,9 +610,8 @@
 * [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Ars Technica](https://arstechnica.com/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/), [Toms Hardware](https://www.tomshardware.com/), [Overclock3d](https://overclock3d.net/) or [Slashdot](https://slashdot.org/) - Tech News
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
 * [Liliputing](https://liliputing.com/) - Linux Mobile News
-* [BestHackerNews](http://besthackernews.herokuapp.com/) or [YCombinator](https://news.ycombinator.com/) / [Mobile](https://hackerwebapp.com/) - Hacker News 
-* [Latest Privacy](https://latestprivacy.org/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - Privacy News
-* [Talos Blog](https://blog.talosintelligence.com/) - CyberSecurity News
+* [BestHackerNews](http://besthackernews.herokuapp.com/) or [YCombinator](https://news.ycombinator.com/) / [Mobile](https://hackerwebapp.com/) - Hacker News
+* [Latest Privacy](https://latestprivacy.org/), [Talos Blog](https://blog.talosintelligence.com/), [IT Security Guru](https://www.itsecurityguru.org/), [ThreatPost](https://threatpost.com/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - Privacy / Security News
 * [Netblocks](https://netblocks.org/) - Censorship News
 * [CBM](https://comicbookmovie.com/) - Comic, Movie & TV News
 * [Tudum](https://www.netflix.com/tudum) - Netflix News
@@ -778,7 +779,7 @@
 * [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) - Exercise & Activity Tracker
 * [ExRx.net](https://exrx.net/) - Exercise Resources
 * [Cronometer](https://cronometer.com/) - Track Nutrition & Calories
-* [FoodStruct](https://foodstruct.com/), [Nutritionix](https://www.nutritionix.com/) or [NutritionData](https://nutritiondata.self.com/) - Food Nutrition Search
+* [FoodStruct](https://foodstruct.com/), [OpenFoodFacts](https://world.openfoodfacts.org/) / [Scanner](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner), [Nutritionix](https://www.nutritionix.com/) or [NutritionData](https://nutritiondata.self.com/) - Food Nutrition Search
 * [Soosee](https://play.google.com/store/apps/details?id=com.goodsnooze.soosee) - Food Nutrition Scanner
 * [wger](https://wger.de/) - Self-Hosted Workout, Nutrition & Weight App / [GitHub](https://github.com/wger-project/wger)
 * [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - Daily Diet Recommendations / Android
@@ -787,7 +788,8 @@
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course 
 * [Kids Health](https://www.kidshealth.org/) - Kids Health Information
 * [openScale](https://f-droid.org/packages/com.health.openscale/) - Weight & Body Metrics Tracker
-* [Simple Science Fitness](https://ss.fitness/calculators) - Fitness Calculators 
+* [Simple Science Fitness](https://ss.fitness/calculators) - Fitness Calculators
+* [Effective Fitness](https://www.e-fitness.org/) - Fitness Discussion / [Discord](https://discord.gg/fitness)
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
 * [Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm) - BMI Calculator
 * [BMI Chart](https://i.imgur.com/JHJCmDM.png) - Healthy BMI Graph
@@ -846,6 +848,7 @@
 * [7 Cups](https://www.7cups.com/) or [OnlineCounselling4u](https://www.onlinecounselling4u.com/) - Free Counseling & Therapy
 * [BlahTherapy](https://blahtherapy.com/) - Vent to Strangers
 * [Online Psych Services](https://redd.it/nryig4) - Centers Offering Free Online Psych Services
+* [Euki](https://eukiapp.com/) - Sexual / Reproductive Health App
 * [babycenter](https://www.babycenter.com/) - Pregnancy and Parenting Resources
 * [Abortion Resources](https://redd.it/phrcrn) / [2](https://redd.it/vm56bs) - Abortion Resource Indexes
 * [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics
@@ -859,7 +862,7 @@
 
 * **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Index
 * **[Satellite / Street View Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_satellite_.26amp.3B_street_view_maps)**
-* **[OpenStreetMap](https://www.openstreetmap.org/)** / [Search](https://nominatim.openstreetmap.org/ui/search.html ), [KartaView](https://kartaview.org/landing) or [Mapillary](https://www.mapillary.com/) - Street View Maps 
+* **[OpenStreetMap](https://www.openstreetmap.org/)** / [Search](https://nominatim.openstreetmap.org/ui/search.html), [KartaView](https://kartaview.org/landing) or [Mapillary](https://www.mapillary.com/) - Street View Maps 
 * [Atlas Obscura](https://www.atlasobscura.com/) - Travel Maps & Guides
 * [Borderless](https://borderless.safetywing.com/) - Travel Restriction Map
 * [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Site Maps
