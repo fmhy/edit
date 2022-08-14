@@ -61,7 +61,7 @@
 
 * **[DownloadHa](https://www.downloadha.com)** - Video / Software / Games / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * **[SoftArchive](https://sanet.st)** or [Sanet.lc](https://sanet.lc/) - Video / Audio / Games / Software / Android / Books / Comics / Newspapers / Magazines / [Status](https://sastatus.com/)
-* **[DirtyWarez](https://forum.dirtywarez.com/)** - Forum / Video / Audio / Games / Software / Books / Comics 
+* **[DirtyWarez](https://forum.dirtywarez.com/)** - Video / Audio / Games / Software / Books / Comics 
 * **[patoghu](https://patoghu.com/)** - Video / Audio / Software / Android / Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * **[Bitdownload](http://bitdownload.ir/)** - Video / Audio / Software / Games / Android / Courses / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * **[The-Eye](https://the-eye.eu/)** - Audio / Roms / Books / Comics / Magazines / Software / [Discord](https://discord.com/invite/6hr2Xsm)
@@ -83,7 +83,8 @@
 * [Sbenny's Forum](https://forum.sbenny.com/) - Video / Audio / Software / Roms / Books / Android / [Discord](https://discord.gg/kf9FKQx)
 * [Amader Forum](http://amaderforum.us/) - Video / Games / Software / Android / Books / NSFW
 * [RapidHeaven](https://rapidheaven.com/) - Videos / Audio / Software / Games / Roms
-* [TehParadox](https://www.tehparadox.net/) - Video / Audio / Software / Games / Books / Magazines / Roms / Android 
+* [TehParadox](https://www.tehparadox.net/) - Video / Audio / Software / Games / Books / Magazines / Roms / Android
+* [PuZo](https://www.puzo.org/) - Video / Audio / Games / Software / Android / Books / Audiobooks / NSFW
 * [Akiba-Online](https://www.akiba-online.com/) - Japanese Media / Video / Audio / Games / Comics / NSFW
 * [CyberPhoenix](http://www.cyberphoenix.org/forum/) - Video / Audio / Software / Games / Roms / Books / Magazines / Comics
 * [dreamteamdownloads1](https://www.dreamteamdownloads1.com/index.php) - Video / Audio / Software / Games / Roms / Books / Magazines
