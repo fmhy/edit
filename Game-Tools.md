@@ -183,6 +183,7 @@
 * [CTGP Revolution](https://www.chadsoft.co.uk/) or [Wiiki Tockdom](http://wiki.tockdom.com/) - Mario Kart Wii Mod / Multiplayer
 * [Wiimmfi](https://wiimmfi.de/) or [Kaeru Team](https://kaeru.world/) - Wii / DS Multiplayer Servers
 * [TTs Online](https://redd.it/ie6gi7) - MKW Online Time Trials Mod
+* [MKW Texture Hacks](https://wiki.tockdom.com/wiki/Texture_Hack_Distribution) - Custom MKW Textures
 * [BakkesMod](https://bakkesmod.com/) - Rocket League Trainer
 * [Tilted Online](https://github.com/tiltedphoques/TiltedEvolution) - Multiplayer Skyrim & Fallout 4 / [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)
 * [Northstar](https://northstar.thunderstore.io/), [2](https://northstar.tf/) - Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases) / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A)
