@@ -136,6 +136,7 @@
 * [Course Search Engine](https://cse.google.com/cse?cx=a02efb0346a176b46) - Search for Courses
 * [Reks Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive) - Courses
 * [11k+ Courses SpreadSheet](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_11k.2B_courses_spreadsheet) - Courses
+* [Revival](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_revival) - Courses
 * [Christmas Share](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_christmas_share) - Courses
 * [HMDRIVE](https://t.me/HMDRIVE_OFFICIAL) - Courses
 * [Iit jee lectures](https://t.me/Iitjeeinveins2) - Lectures / Telegram   
@@ -451,6 +452,7 @@
 * [3DSolarSystem](https://theskylive.com/3dsolarsystem) or [SpaceInBrowser](https://spaceinbrowser.com/) - Solar System Simulator 
 * [The Planets](https://planets-facts-website.netlify.app/) - Learn About Planets
 * [Space Object Comparison](https://mr21.github.io/space-object-comparison/) - Compare Sizes Of Celestial Objects
+* [Spy Map Online](https://skymaponline.net/) - Star Map
 * [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive 3D Star Visualization
 * [Aladin](https://aladin.u-strasbg.fr/) - Astronomical Image Viewer / [Lite Version](https://aladin.u-strasbg.fr/AladinLite/)
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](http://stellarium.org/) - Virtual Stellarium
@@ -672,16 +674,16 @@
 * [cb2bib](https://www.molspaces.com/cb2bib/) - Reference Extractor / Manager
 * [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - Grade School Educational Tools
 * [ScienceTrek](https://sciencetrek.org/) - Teaching Resources
-* [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - UPSC Telegram Channels 
-* [AuthorStream](http://www.authorstream.com/) or [Slideshare](https://www.slideshare.net/) - Watch / Share Slideshows & Presentations 
-* [SlideShare Downloader](https://slideshare.theteacoder.tech/), [2](https://www.slidesharedownloader.com/) - Download Slideshow Presentations 
+* [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - UPSC Telegram Channels
+* [AuthorStream](http://www.authorstream.com/) or [Slideshare](https://www.slideshare.net/) - Watch / Share Slideshows & Presentations
+* [SlideShare Downloader](https://slideshare.theteacoder.tech/), [2](https://www.slidesharedownloader.com/) - Download Slideshow Presentations
 * [Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables) - Online Periodic Tables / [App](https://jlindemann.se/homepage/atomic/)
 * [ChemicalAid](https://en.intl.chemicalaid.com/) - Chemistry Calculators & Element Tables
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
 * [Retrosynthesis](http://retrosynthesis.com/) - Organic Retrosynthesis Engine / [GitHub](https://github.com/sudo-rushil/odachi)
-* [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://github.com/VoidlessVoid7/quora-plus-bypass) - Q&A Communities
-* [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) - Homework Help 
-* [Cheatography](https://cheatography.com/) - Educational Cheat Sheets 
+* [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://github.com/VoidlessVoid7/quora-plus-bypass) / [Frontend](https://github.com/zyachel/quetre) - Q&A Communities
+* [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) - Homework Help
+* [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
 * [Answers Exchange](https://discord.gg/GFp9Rvr), [Toppr](https://www.toppr.com/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
 * [Chegg Answers](https://www.istaunch.com/how-to-get-chegg-answers-for-free/#2_Free_Chegg_Answers_by_iStaunch), [2](https://creativesavantz.com/how-to-access-chegg-solutions-for-free/), [3](https://litanswers.net/get-free-chegg-answers/), [4](https://techpanga.com/free-chegg-answer/), [5](https://trickswire.com/free-chegg-answers/), [6](https://www.rootupdate.com/free-chegg-answers/) - Chegg Answer Tools
