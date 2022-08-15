@@ -862,7 +862,7 @@
 
 * **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Index
 * **[Satellite / Street View Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_satellite_.26amp.3B_street_view_maps)**
-* **[OpenStreetMap](https://www.openstreetmap.org/)** / [Search](https://nominatim.openstreetmap.org/ui/search.html), [KartaView](https://kartaview.org/landing) or [Mapillary](https://www.mapillary.com/) - Street View Maps 
+* **[OpenStreetMap](https://www.openstreetmap.org/)** / [Search](https://nominatim.openstreetmap.org/ui/search.html), [KartaView](https://kartaview.org/landing), [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor) or [Mapillary](https://www.mapillary.com/) - Street View Maps
 * [Atlas Obscura](https://www.atlasobscura.com/) - Travel Maps & Guides
 * [Borderless](https://borderless.safetywing.com/) - Travel Restriction Map
 * [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Site Maps
