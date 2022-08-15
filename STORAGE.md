@@ -49,7 +49,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 * **https://yandex.com/**
 * **https://go.mail.ru/**
-* **https://www.baidu.com/**
+* **https://www.baidu.com/** - [PHP Version](https://github.com/yuantuo666/baiduwp-php)
 * **https://r0.ru/** 
 * **https://www.ecosia.org/** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
 * https://oceanhero.today/
@@ -704,11 +704,11 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * [Chrono Download Manager](https://www.chronodownloader.net/) 
 * [GetGo Download Manager](http://www.getgosoft.com/) 
 * [Download Accelerator Manager](http://www.damdownloader.com/) 
-* [FlashGot](https://flashgot.net/) 
+* [FlashGot](https://flashgot.net/)
 * [massivedl](https://github.com/dimkouv/massivedl)
 * [Neat Download Manager](https://www.neatdownloadmanager.com/)
-* [Free Download Manager](https://www.freedownloadmanager.org/), [2](https://sourceforge.net/projects/freedownload/)
-* [uGet](https://ugetdm.com/) / [Extension](https://github.com/ugetdm/uget-integrator)
+* [Free Download Manager](https://www.freedownloadmanager.org/), [2](https://sourceforge.net/projects/freedownload/) / [Addon](https://github.com/meowcateatrat/elephant)
+* [uGet](https://ugetdm.com/) / [Addon](https://github.com/ugetdm/uget-integrator)
 * [Persepolis](https://persepolisdm.github.io/)
 * [DownZemAll](https://setvisible.github.io/DownZemAll/)
 
@@ -886,16 +886,17 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://kk01.net/
 * https://www1.moviecrumbs.net/
 * https://tvshows88.com/
+* https://theflixer.tv/
 * https://myflixer.link/
 * https://myflixer.to/
 * https://myflixer.pw/
 * https://myflixer.com/
 * https://myflixertv.to/
+* https://myflixer.it/
 * https://ainiesta.com/
 * https://iomovies.top/
 * https://www3.f2movies.to/
 * https://www1.bemovies.to/
-* https://myflixer.it/
 * https://ev01.to/
 * https://www3.watchserieshd.ru/
 * https://flixhd.cc/
@@ -924,6 +925,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://www.fullmoviefilm.org/
 * https://www.moviekids.tv/
 * https://www.freemovies360.com/
+* https://yesmovies.mn/ 
 
 ***
 
@@ -959,7 +961,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Online Editors**
 
-**[Photopea](https://www.photopea.com/)**, [Pixlr](https://pixlr.com/), [BeFunky](https://www.befunky.com/), [Resize Pixel](https://www.resizepixel.com/), [FotoFlexer](https://fotoflexer.com/), [Sumopaint](https://www.sumopaint.com/), [Lunapic](https://lunapic.com/), [Polotno Studio](https://studio.polotno.dev/), [OIE](https://www.online-image-editor.com/), [IMG online](https://www.imgonline.com.ua/eng/), [BitMappery](https://www.igorski.nl/application/bitmappery/), [Kapwing](https://www.kapwing.com/), [Photoshop.adobe](https://photoshop.adobe.com/), [ILoveImg](https://www.iloveimg.com/photo-editor), [Panzoid](https://panzoid.com/), [Stet](https://stet.io/), [GifGit](https://www.gifgit.com/), [Polarr](https://photoeditor.polarr.co/), [UpperPix](https://upperpix.com/), [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/), [Picverse](https://www.picverse.com/), [Image Online](https://pencilsketch.imageonline.co/), [Fotor](https://www.fotor.com/), [PictureEditor](https://www.pictureeditor.com/), [PhotoStack](https://edit.photostack.app/), [Facet](https://facet.ai/), [Peko-Step](https://www.peko-step.com/en/tool/imageeditor.html), [ImageOnline](https://imageonline.co/), [Tom's Editor](https://tomseditor.com/, [CutMyPic](http://www.cutmypic.com/)
+**[Photopea](https://www.photopea.com/)**, [Pixlr](https://pixlr.com/), [BeFunky](https://www.befunky.com/), [Resize Pixel](https://www.resizepixel.com/), [FotoFlexer](https://fotoflexer.com/), [Sumopaint](https://www.sumopaint.com/), [Lunapic](https://lunapic.com/), [Polotno Studio](https://studio.polotno.dev/), [OIE](https://www.online-image-editor.com/), [IMG online](https://www.imgonline.com.ua/eng/), [BitMappery](https://www.igorski.nl/application/bitmappery/), [Kapwing](https://www.kapwing.com/), [Photoshop.adobe](https://photoshop.adobe.com/), [ILoveImg](https://www.iloveimg.com/photo-editor), [Panzoid](https://panzoid.com/), [Stet](https://stet.io/), [GifGit](https://www.gifgit.com/), [Polarr](https://photoeditor.polarr.co/), [UpperPix](https://upperpix.com/), [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/), [Picverse](https://www.picverse.com/), [Image Online](https://pencilsketch.imageonline.co/), [Fotor](https://www.fotor.com/), [PictureEditor](https://www.pictureeditor.com/), [PhotoStack](https://edit.photostack.app/), [Facet](https://facet.ai/), [Peko-Step](https://www.peko-step.com/en/tool/imageeditor.html), [ImageOnline](https://imageonline.co/), [Tom's Editor](https://tomseditor.com/, [CutMyPic](http://www.cutmypic.com/), [edit.photo](https://edit.photo/), [Image Resizer](https://www.image-resizer.eu/)
 
 ***
 
@@ -971,7 +973,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Processing**
 
-**[Sirv](https://sirv.com/)**, **[CloudImage](https://www.cloudimage.io/)**, [filestack](https://www.filestack.com/), [imagga](https://imagga.com/), [kraken](https://kraken.io/), [cloudinary](https://cloudinary.com/), [tiny.pictures](https://tiny.pictures/), [zara4](https://zara4.com/), [RawTherapee](https://www.rawtherapee.com/)
+**[Sirv](https://sirv.com/)**, **[CloudImage](https://www.cloudimage.io/)**, [filestack](https://www.filestack.com/), [imagga](https://imagga.com/), [kraken](https://kraken.io/), [cloudinary](https://cloudinary.com/), [tiny.pictures](https://tiny.pictures/), [zara4](https://zara4.com/), [RawTherapee](https://www.rawtherapee.com/), [Digikam](https://www.digikam.org/)
 
 ***
 
@@ -1536,7 +1538,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Pastebins
 
-**[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**, **[Paste.FMHY](https://paste.fmhy.tk/)**, **[disroot](https://bin.disroot.org/)**, **[rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry), [TextBin](https://textbin.xyz/), [PrivateBin](https://privatebin.info/directory/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [pst.moe](https://pst.moe/), [ZeroBin](http://www.zerobinqmdqd236y.onion/), [Hastebin](https://hastebin.com/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [anonpaste](https://anonpaste.org/), [paste.shitpost](https://paste.shitpost.to/), [bin.idrix](https://bin.idrix.fr/), [zerobin](https://zerobin.net/), [teknik](https://paste.teknik.io/), [ghostbin](https://ghostbin.com/), [cryptobin](https://cryptobin.co/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [cyberdrop bin](https://bin.cyberdrop.me/), [fssquad](https://share.fssquad.com/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [katb](https://katb.in/), [paaster](https://paaster.io/), [trushbin](https://trushbin.com/), [nopaste](https://nopaste.ml/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](https://pastebin.pl/, [paste.gg](https://paste.gg/), [bpa](https://bpa.st/)
+**[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**, **[Paste.FMHY](https://paste.fmhy.tk/)**, **[disroot](https://bin.disroot.org/)**, **[rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry), [TextBin](https://textbin.xyz/), [PrivateBin](https://privatebin.info/directory/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [pst.moe](https://pst.moe/), [ZeroBin](http://www.zerobinqmdqd236y.onion/), [Hastebin](https://hastebin.com/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [anonpaste](https://anonpaste.org/), [paste.shitpost](https://paste.shitpost.to/), [bin.idrix](https://bin.idrix.fr/), [zerobin](https://zerobin.net/), [teknik](https://paste.teknik.io/), [ghostbin](https://ghostbin.com/), [cryptobin](https://cryptobin.co/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [cyberdrop bin](https://bin.cyberdrop.me/), [fssquad](https://share.fssquad.com/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [katb](https://katb.in/), [paaster](https://paaster.io/), [trushbin](https://trushbin.com/), [nopaste](https://nopaste.ml/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](https://pastebin.pl/, [paste.gg](https://paste.gg/), [bpa](https://bpa.st/), [0bin](https://0bin.net/)
 
 ***
 
@@ -2179,7 +2181,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Downloaders** 
 
-**[GetPaidStock](https://getpaidstock.com/)**, **[Downloader.la](https://downloader.la/)**, [downloaders](https://downloaders.beatsnoop.com/), [Tomato](https://www.tomato.to/), [sharedvn](https://www.sharedvn.net/), [shutterscrape](https://github.com/chuanenlin/shutterscrape), [visualhunt](https://visualhunt.com/), [shutterstock-photo-downloader](https://mytoolz.net/tools/shutterstock-photo-downloader)
+**[GetPaidStock](https://getpaidstock.com/)**, **[Downloader.la](https://downloader.la/)**, [downloaders](https://downloaders.beatsnoop.com/), [Tomato](https://www.tomato.to/), [sharedvn](https://www.sharedvn.net/), [visualhunt](https://visualhunt.com/), [shutterstock-photo-downloader](https://mytoolz.net/tools/shutterstock-photo-downloader)
 
 ***
 
@@ -2366,11 +2368,12 @@ Add the following commands to a search to manually scrape each site.
 
 * [LyBot](https://t.me/LyBot) - YouTube 
 * [YouTube Audio Bot](https://t.me/YtbAudioBot) - YouTube 
-* [YouTube Audio Download](https://t.me/YoutubeAudioDownloadBot) - YouTube 
+* [YouTube Audio Download](https://t.me/YoutubeAudioDownloadBot) - YouTube
+* [TidalMusic_DLbot](https://t.me/TidalMusic_DLbot) - Tidal
 * [VK Bot](https://t.me/vkmsaverbot) - VK 
 * [VKM Bot](https://t.me/vkm_bot) - VK 
 * [Meph Bot](https://t.me/mephbot) - VK 
-* [vkm4bot](https://t.me/vkm4bot) - VK 
+* [vkm4bot](https://t.me/vkm4bot) - VK f
 * [vkmusic_bot](https://t.me/vkmusic_bot) - VK
 * [yamdbot](https://t.me/yamdbot) - Yandex 
 * [MP3 downloader](https://t.me/TG_mp3downloader_bot) - Multi Site 
@@ -2657,7 +2660,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Translation Sites
 
-[DeepL](https://www.deepl.com/), [Papago](https://papago.naver.com/), [Libretranslate](https://libretranslate.com/) / [2](https://github.com/uav4geo/LibreTranslate), [Translate.com](https://www.translate.com/), [MyMemory](https://mymemory.translated.net/), [Lingva](https://lingva.ml/), [Nice Translator](https://nicetranslator.com/), [Yandex Translator](https://translate.yandex.com/), [Bring Translator](https://www.bing.com/translator), [Reverso](https://www.reverso.net/), [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate), [SimplyTanslate_Web](https://git.sr.ht/~metalune/simplytranslate_web), [babelfish](https://www.babelfish.com/), [translation2](https://translation2.paralink.com/), [Free Translations](https://www.freetranslations.org/), [Apertium](https://apertium.org/), [collinsdictionary](https://www.collinsdictionary.com/translator), [online-translator](https://www.online-translator.com/translation), [translation](https://translation.babylon-software.com/), [translatedict](https://www.translatedict.com/), [QTranslate](https://quest-app.appspot.com/), [Systrane Translate](https://www.systran.net/en/translate/), [SimplyTranslate](https://simplytranslate.org/), [Translator.eu](https://www.translator.eu/), [worldlingo](https://www.worldlingo.com/en/)
+[DeepL](https://www.deepl.com/), [Papago](https://papago.naver.com/), [Libretranslate](https://libretranslate.com/) / [2](https://github.com/uav4geo/LibreTranslate), [Translate.com](https://www.translate.com/), [MyMemory](https://mymemory.translated.net/), [Lingva](https://lingva.ml/), [Nice Translator](https://nicetranslator.com/), [Yandex Translator](https://translate.yandex.com/), [Bring Translator](https://www.bing.com/translator), [Reverso](https://www.reverso.net/), [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate), [SimplyTanslate_Web](https://git.sr.ht/~metalune/simplytranslate_web), [babelfish](https://www.babelfish.com/), [translation2](https://translation2.paralink.com/), [Free Translations](https://www.freetranslations.org/), [Apertium](https://apertium.org/), [collinsdictionary](https://www.collinsdictionary.com/translator), [online-translator](https://www.online-translator.com/translation), [translation](https://translation.babylon-software.com/), [translatedict](https://www.translatedict.com/), [QTranslate](https://quest-app.appspot.com/), [Systrane Translate](https://www.systran.net/en/translate/), [SimplyTranslate](https://simplytranslate.org/), [Translator.eu](https://www.translator.eu/), [worldlingo](https://www.worldlingo.com/en/), [Translatelocally](https://translatelocally.com/)
 
 ***
 
@@ -2716,7 +2719,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 #### Video Chat
 
-[Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [Whereby](https://whereby.com/), [Videolink2me](https://videolink2me.com/), [TinyChat](https://tinychat.com/), [Noysi Meet](https://meet.noysi.com/), [Zipcall](https://meet.questo.ai/), [Talk](https://usetalk.io/) / [GitHub](https://github.com/vasanthv/talk), [iqc](https://icq.com/), [Crewdle](https://crewdle.com/), [Briefing](https://brie.fi/ng), [Airmeet](https://www.airmeet.com/), [Brave Talk](https://brave.com/talk/), [Brave Talk](https://talk.brave.com/) 
+[Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [Join.me](https://www.join.me/), [kemeet](https://kemeet.vercel.app/), [WorkshopX](https://workshopx.app/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [Whereby](https://whereby.com/), [Videolink2me](https://videolink2me.com/), [TinyChat](https://tinychat.com/), [Noysi Meet](https://meet.noysi.com/), [Zipcall](https://meet.questo.ai/), [Talk](https://usetalk.io/) / [GitHub](https://github.com/vasanthv/talk), [iqc](https://icq.com/), [Crewdle](https://crewdle.com/), [Briefing](https://brie.fi/ng), [Airmeet](https://www.airmeet.com/), [Brave Talk](https://brave.com/talk/), [Brave Talk](https://talk.brave.com/), [WebCall](https://timur.mobi/webcall/) / [GitHub](https://github.com/mehrvarz/webcall)
 
 ***
 
