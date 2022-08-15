@@ -498,7 +498,7 @@
 * [Automated Incident Response](https://github.com/awslabs/aws-automated-incident-response-and-forensics) - Automated Incident Response and Forensics Framework
 Automated Incident Response and Forensics Framework
 * [cssbuttons](https://cssbuttons.io/) - CSS Buttons
-* [CBox](https://www.cbox.ws/) or [Tawk](https://www.tawk.to/) - Embedded Chat App
+* [CBox](https://www.cbox.ws/), [Typebot](https://typebot.io/) or [Tawk](https://www.tawk.to/) - Embedded Chat App
 * [StackWhats](https://stackwhats.com/) - Add Whatsapp Chat to Your Site
 * [Twitcker](https://twitcker.com/) - Add Twitter Feed Ticker to Site
 * [Error404](https://error404.fun/) - Free 404 Pages
@@ -508,7 +508,8 @@ Automated Incident Response and Forensics Framework
 * [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
 * [mkcert](https://github.com/FiloSottile/mkcert) - Locally Trusted Development Certificates
 * [OpenSSL](https://www.openssl.org/) - SSL / TLS Toolkit
-* [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - Cloud Native Object Storage 
+* [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - Cloud Native Object Storage
+* [Traefik](https://traefik.io/) - Cloud Native Stack
 * [Amazon S3](https://aws.amazon.com/s3) - Cloud Object Storage Amazon Simple Service Storage
 * [howtheyaws](https://github.com/upgundecha/howtheyaws) - List of How Organizations Use AWS
 * [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - Email Verification Service
@@ -614,11 +615,12 @@ Automated Incident Response and Forensics Framework
 ## ▷ App Development
 
 * **[Tizen](https://www.tizen.org/)** - Android TV App Creator
+* [SupaBase](https://supabase.com/), [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators
 * [XDA](https://forum.xda-developers.com/) - App Development Forum
 * [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - App Development Platform / [GitHub](https://github.com/xamarin)
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
 * [MemberPrism](http://r.ftqq.com/MemberPrism2/) - Member-Only App Builder
-* [butterfly](https://github.com/GetStream/butterfly) - Android UI Builder 
+* [butterfly](https://github.com/GetStream/butterfly) - Android UI Builder
 * [App ideas](https://github.com/florinpop17/app-ideas) - Collection of App Ideas
 * [Docker](https://www.docker.com/) - Build, Manage & Run Apps in Containers / [Images](https://linuxserver.io/)
 * [Dive](https://github.com/wagoodman/dive) - Analyze Docker Images
@@ -649,7 +651,6 @@ Automated Incident Response and Forensics Framework
 * [Lich](https://github.com/line/lich) - Android Development Libraries
 * [Sketchbook Compose](https://github.com/GetStream/sketchbook-compose) - Jetpack Sketchbook
 * [androidx](https://github.com/androidx/androidx) - Android Development Environment for Jetpack Extensions
-* [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators
 * [XDGuru](https://www.xdguru.com/) - Adobe XD Resources
 * [Python to APK](https://github.com/Spidy20/Python_To_APK) - Convert Python Code to APK
 * [GoNative](https://gonative.io/) - Convert Websites to Mobile Apps
@@ -1131,7 +1132,7 @@ Automated Incident Response and Forensics Framework
 * [Notebooks.azure](https://notebooks.azure.com/) - Access Jupyter Notebooks
 * [Jupyter Server](https://github.com/jupyter-server/jupyter_server) - Jupyter Services / APIs
 * [CoCalc](https://cocalc.com/) - Virtual online workspace
-* [CodePen](https://codepen.io/), [Web Maker](https://webmaker.app/) or [Liveweave](https://liveweave.com/) - Code Sandbox
+* [CodePen](https://codepen.io/), [Microsoft 365 E5](https://rentry.co/E5Register), [Web Maker](https://webmaker.app/) or [Liveweave](https://liveweave.com/) - Code Sandbox
 * [Platform.uno](https://platform.uno/) - App Framework
 * [tio.run](https://tio.run/) - Programming Language Interpreters 
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
