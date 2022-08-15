@@ -106,7 +106,8 @@
 
 # ► Image Generation
 
-* **[Craiyon](https://www.craiyon.com/)**, [Generative Engine](https://experiments.runwayml.com/generative_engine/) or [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot) - AI Image Generator
+* **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk), [Generative Engine](https://experiments.runwayml.com/generative_engine/), [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb) or [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot) - AI Image Generator
+* [hypnogram](https://hypnogram.xyz/), [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent) or [NeuralBlender](https://neuralblender.com/) - AI Art Generator
 * [Random Art](http://www.random-art.org/) - Random Art Generator
 * [Chaos Machine](https://chaosmach.com/) - Random Graphic Generator
 * [Rough.js](https://roughjs.com/) - Hand Drawn Graphic Generator
@@ -232,7 +233,7 @@
 
 ## ▷ Painting / Drawing
 
-* [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/) or [MediBang](https://medibangpaint.com/en/) - Painting
+* [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/), [ProsePainter](https://www.prosepainter.com/) or [MediBang](https://medibangpaint.com/en/) - Painting
 * [bomomo](https://bomomo.com/) - Multi-Brush Painting
 * [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art
 * [Aggie.io](https://aggie.io/), [Magma](https://magmastudio.io/) or [malmal](https://malmal.io/) - Draw with Friends or Strangers 
