@@ -762,19 +762,19 @@
 * [dic.daum](https://dic.daum.net/) or [Speller](http://speller.cs.pusan.ac.kr/) - Korean Translator, Spellchecker & more
 * [TakakTadak](https://tadaktadak.co.kr/) - Korean Practice & English Learning
 * [EBS](https://www.ebs.co.kr/) - Korean Courses the Visually / Hearing Impaired
-* [Awesome Cafe](https://github.com/utilForever/awesome-cafe) - Korean Cafe List 
+* [Awesome Cafe](https://github.com/utilForever/awesome-cafe) - Korean Cafe List
 
 ## ▷ Downloading
 
-* [Torrentrank](https://torrentrank.net/) - Warez list 
-* [bobaelink](https://www.bobaelink.net/) - Warez list 
+* [Torrentrank](https://torrentrank.net/) - Warez list
+* [bobaelink](https://www.bobaelink.net/) - Warez list
 * [JPFILES](https://jpfiles.eu/) - Video / Audio / Books / NSFW
-* [PDPop](https://www.pdpop.com/) - Video / Games / Books / NSFW 
-* [WeDisk](https://www.wedisk.co.kr/) - Movies / TV 
-* [CinEast](https://cineaste.co.kr/) - Movies 
+* [PDPop](https://www.pdpop.com/) - Video / Games / Books / NSFW
+* [WeDisk](https://www.wedisk.co.kr/) - Movies / TV
+* [CinEast](https://cineaste.co.kr/) - Movies
 * [Korean Drama Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_korean_drama_drive) - Movies / TV
-* [Jpapas](https://jpapas.tistory.com/) - Modded APKs 
-* [J-pop Music Download](https://jpop.xyz/) - Music 
+* [Jpapas](https://jpapas.tistory.com/) - Modded APKs
+* [J-pop Music Download](https://jpop.xyz/) - Music
 * [4Sashi](https://4sashi.com/) - Music
 * [KPopExplorer](https://kpopexplorer.net/) - Music
 * [ilKPOP](https://ilkpop.com/) - Music
@@ -828,7 +828,7 @@
 
 * [Wudooh](https://wudooh.app/) - Make Persian Text Clearer
 * [Awesome AI channels](https://github.com/AminTaheri23/Awesome-AI-telegram-gp-and-channel) - Persian Telegram Bot Index 
-* [iranzirnevis](https://iranzirnevis.com/) - Subtitles 
+* [iranzirnevis](https://iranzirnevis.com/) - Subtitles
 * [Free VPN Telegram Channels](https://bin.disroot.org/?85b66e37980b245e#DRbHouuNMfXGRdqPs68y6nGLULhHdvdXzuPdDmBxsyi2) - Free VPN / Telegram
 * [Targoman](http://targoman.ir/) - Translator / [GitHub](https://github.com/targoman)
 * [Wiki Censorship](https://wikicensorship.github.io/) - Internet Censorship Encyclopedia
@@ -836,45 +836,46 @@
 
 ## ▷ Downloading
 
-* **[downloadha](https://www.downloadha.com/)** - Video / Audio / Software / Games / Android 
-* [TelFiles_Bot](https://t.me/TelFiles_Bot) - Persian File to Direct Link Telegram Bot 
+* **[downloadha](https://www.downloadha.com/)** - Video / Audio / Software / Games / Android
+* [TelFiles_Bot](https://t.me/TelFiles_Bot) - Persian File to Direct Link Telegram Bot
 * [soft98](https://soft98.ir/) - Software / Courses / eBooks
-* [Persian Telegram Courses](https://rentry.co/sn66v) 
+* [Persian Telegram Courses](https://rentry.co/sn66v)
 * [TeleLeecherbot](https://t.me/TeleLeecherbot) or [kLeechBot](https://t.me/kLeechBot) - Persian Movie Leech Telegram Bots 
 * [FilmgramBot](https://t.me/FilmgramBot) or [FileMovieBot](https://t.me/FileMovieBot) - Persian Movie Search Telegram Bots 
-* [Download.ir](https://download.ir/) - Software / Video / Android / Games / Roms  
-* [Patoghu](https://patoghu.com/) - Video / Audio / Software / Android / Games 
-* [Doostihaa](https://www.doostihaa.com/) - Video / Audio / Software / Games 
-* [FileNiko](https://fileniko.com/) - Video / Software / Games 
-* [nikidaily](https://www.nikidaily.info/) - Video / Audio 
-* [dl1.3rver](https://dl1.3rver.org/), [2](https://dl2.3rver.org/ ), [3](https://dl3.3rver.org/) - Movies / TV
-* [dlfars](https://dlfars.pw/) - Movies / TV / Anime 
+* [Download.ir](https://download.ir/) - Software / Video / Android / Games / Roms
+* [Patoghu](https://patoghu.com/) - Video / Audio / Software / Android / Games
+* [Doostihaa](https://www.doostihaa.com/) - Video / Audio / Software / Games
+* [FileNiko](https://fileniko.com/) - Video / Software / Games
+* [nikidaily](https://www.nikidaily.info/) - Video / Audio
+* [dl1.3rver](https://dl1.3rver.org/), [2](https://dl2.3rver.org/), [3](https://dl3.3rver.org/) - Movies / TV
+* [dlfars](https://dlfars.pw/) - Movies / TV / Anime
 * [RooDL](https://roozdl.com/) - Movies / TV / Anime / [Drive](http://dl.roozdl.com/)
-* [Movibox](https://movibox.in/) - Movies / Geo Restricted 
-* [mrmovie](https://mrmovie5.space/) - Movies / TV 
-* [PlayStop](https://playstop.ir/) - Movies / TV 
-* [ZarFilm](https://zarfilm.com/) - Movies / TV 
-* [SalamDL](https://salamdl.me/) - Movies / TV 
+* [Movibox](https://movibox.in/) - Movies / Geo Restricted
+* [mrmovie](https://mrmovie5.space/) - Movies / TV
+* [PlayStop](https://playstop.ir/) - Movies / TV
+* [ZarFilm](https://zarfilm.com/) - Movies / TV
+* [SalamDL](https://salamdl.me/) - Movies / TV
+* [AvaMovie](http://avamovie.in/) - Movies / TV
 * [FilmBan](https://filmban.top/) - Movies / TV / Anime
-* [ValaMovie](https://valamovie.club/) - Movies / TV 
-* [Tik-Film](https://tik-film.com/) - Movies / TV 
-* [NamaDL](http://namadl.ir/) - Movies / TV 
-* [GanjDL](http://www.ganjdl.ir/) - Movies / TV 
+* [ValaMovie](https://valamovie.club/) - Movies / TV
+* [Tik-Film](https://tik-film.com/) - Movies / TV
+* [NamaDL](http://namadl.ir/) - Movies / TV
+* [GanjDL](http://www.ganjdl.ir/) - Movies / TV
 * [KaranMovie](https://karanmovie.org/) - Movies / TV
-* [Par30Media](https://par30media.com/) - Movies / TV 
-* [HamrahMovies](https://hamrahmoviees.ir/) - Movies / TV 
-* [HarmonyDL](https://www.harmonydl.us/) - Movies / TV 
+* [Par30Media](https://par30media.com/) - Movies / TV
+* [HamrahMovies](https://hamrahmoviees.ir/) - Movies / TV
+* [HarmonyDL](https://www.harmonydl.us/) - Movies / TV
 * [Mankan](https://mankan.pw/) - Movies / TV
-* [DigiMoviez](https://digimoviez.com/) - Movies / TV 
-* [HexDownload](https://hexdownload.co/) - Movies / TV 
-* [pishgammovie](https://pishgammovie.ir/) - Movies / TV 
-* [My-Film](https://my-film.pw/) - Movies / TV / Anime 
-* [LineMovie](http://linemovie.ml/) - Movies / TV 
-* [CenterDL](https://centerdl.ir/) - Movies / TV 
-* [filmha](https://filmha.top/) - Movies 
+* [DigiMoviez](https://digimoviez.com/) - Movies / TV
+* [HexDownload](https://hexdownload.co/) - Movies / TV
+* [pishgammovie](https://pishgammovie.ir/) - Movies / TV
+* [My-Film](https://my-film.pw/) - Movies / TV / Anime
+* [LineMovie](http://linemovie.ml/) - Movies / TV
+* [CenterDL](https://centerdl.ir/) - Movies / TV
+* [filmha](https://filmha.top/) - Movies
 * [FastMovie](https://dl2.fastmovie.ir/Animation/) - Animated Movies
-* [A101](http://a101.ir/) - Anime 
-* [anidlencodes](https://anidlencodes.xyz/) - Anime 
+* [A101](http://a101.ir/) - Anime
+* [anidlencodes](https://anidlencodes.xyz/) - Anime
 * [List20](https://www.anime-list20.site/) - Anime
 * [animesubtitle](https://animesubtitle.ir/) - Anime
 * [filmgozar](https://filmgozar.com/category/anime/) - Anime
@@ -889,7 +890,7 @@
 * [Digiboy](https://www.digiboy.ir/) - Software
 * [game4pc](https://game4pc.ir) - Games
 * [dastras](https://t.me/dastras) - Modded APKs / Telegram 
-* [git_ir](https://t.me/git_ir) - Programming Training 
+* [git_ir](https://t.me/git_ir) - Programming Training
 * [Hide01](https://hide01.ir/) - Security / Antivirus / Courses
 
 ## ▷ Torrenting
