@@ -22,6 +22,7 @@
 * **[BeMyEyes](https://www.bemyeyes.com/)** - Assist the Visually Impaired 
 * [RecoRank](https://recorank.com/) or [NanoReview](https://nanoreview.net/en) - Tech Reviews / Comparisons
 * [Reddit Favorites](https://redditfavorites.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product & Service Reviews
+* [Car.com](https://www.cars.com/research/compare/ ), [Vehicle Rankings](https://cars.usnews.com/cars-trucks/rankings), [Motor1](https://www.motor1.com/reviews/) or [Edmunds](https://www.edmunds.com/car-reviews/) - Vehicle Reviews / Comparisons
 * [GiftWhale](https://giftwhale.com/) - Wishlist Creator
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - Open Source Tools
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
@@ -604,7 +605,7 @@
 * [CoFolios](https://cofolios.com/) - Portfolio Sharing
 * [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - Cover Page Templates
 * [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) or [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) or [30-seconds-of-interviews](https://30secondsofinterviews.org/) / [GitHub](https://github.com/30-seconds/30-seconds-of-interviews) - Common Interview Questions & Answers
-* [Reverse Interview](https://github.com/viraptor/reverse-interview) - Questions to ask Potential Employers
+* [Reverse Interview](https://github.com/viraptor/reverse-interview or [job-interview-questions-to-ask-companies](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to ask Potential Employers
 * [LeetFree](https://sksusha8853.github.io/leetcode/index.html) - Leaked Google, Facebook & Amazon Interview Questions
 * [Interviews.school](https://interviews.school/) - Developer Interview Preparation Guide
 * [yangshun](https://github.com/yangshun/tech-interview-handbook) - Tech Interview Handbook 
@@ -867,6 +868,7 @@
 * [browserbench](https://browserbench.org/) - Multiple Browser Benchmark Tests
 * [WPT](https://wpt.fyi/) - In-Depth Browser Tests 
 * [VsyncTester](https://vsynctester.com/) - Browser VSYNC Test
+* [NeverInstall](https://neverinstall.com/) - Use Apps in Browser
 * [QuteBrowser](https://qutebrowser.org/) - Keyboard Focused Browser 
 * [Browsh](https://www.brow.sh/) - Text Based Browser 
 * [Beaker](https://beakerbrowser.com/) - P2P Web Browser 
@@ -1070,7 +1072,7 @@
 * [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - Custom URL Handler
 * [Xenu-Link](http://home.snafu.de/tilman/xenulink.html), [Lychee](https://github.com/lycheeverse/lychee), [Cyotek-Webcopy](https://www.cyotek.com/cyotek-webcopy), [Dead Link Checker](https://www.deadlinkchecker.com/) or [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php) - Broken Link Checker
 * [W.A.R. Links Checker Premium](http://usa.x10host.com/mybb/showthread.php?tid=88) - Checks If File Links are Alive or Not
-* [SafeLinking](https://safelinking.net/), [Gdrivez](https://www.gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [TSU.one](https://tsu.one/), [externallink](https://externallink.xyz/), [linkspop](https://linkspop.info/), [BrBushare](https://brbushare.xyz/), [KeepLinks](https://www.keeplinks.org/) or [ShortLinkto](https://shortlinkto.top/) - Link Protectors 
+* [SafeLinking](https://safelinking.net/), [bdwp](https://imwcr.cn/api/bdwp/), [Gdrivez](https://www.gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [TSU.one](https://tsu.one/), [externallink](https://externallink.xyz/), [linkspop](https://linkspop.info/), [BrBushare](https://brbushare.xyz/), [KeepLinks](https://www.keeplinks.org/) or [ShortLinkto](https://shortlinkto.top/) - Link Protectors 
 * [WhoIsRequest](https://whoisrequest.com/) or [Securrity Whoiz](http://www.securrity.ru/whoiz.html) - Domain Information Lookup
 * [Awesome Piracy Bot](https://github.com/Igglybuff/awesome-piracy-bot) - URL Scraping Tool
 * [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - DNS Information Tool
@@ -1900,6 +1902,7 @@ Twitch Stream Tracker
 * [store.rg](https://store.rg-adguard.net/) - Microsoft Store Link Generator 
 * [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) or [Reinstall Preinstalled](https://pastebin.com/5NnBEqnm) / [Guide](https://youtu.be/EQo53hvWy8Q) - Add Microsoft Store to Windows
 * [Vantage](https://rentry.co/lenbian) - Lenovo Vantage Without MS Store
+* [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage
 * [Edgeuninstaller](https://rentry.org/uninstalledge) or [Disable Edge](https://ibb.co/dkJ4Tb4) - Remove Microsoft Edge
 * [amogOS](https://github.com/jostroOS/amogOS) - Rasberry Pi OS
 * [Pinn](https://github.com/procount/pinn) - Rasberry Pi OS Installer
