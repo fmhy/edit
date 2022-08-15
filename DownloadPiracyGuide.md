@@ -20,6 +20,7 @@
 * **[300TB Mega](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_300tb_mega)**
 * **[300TB GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_300tb_gdrive)**
 * **[mega.archive](https://discord.gg/R3zEZUPp3Q)** / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
+* [EyeDex](https://www.eyedex.org/), [ODCrawler](https://odcrawler.xyz/), [ODS](https://sites.google.com/view/l33tech/tools/ods) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engine
 * [Castlevania.cf](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_castlevania.cf)
 * [Alive Data Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_alive_data_indexes)
 * [Google TeamDrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) 
@@ -38,7 +39,6 @@
 * [Xtremecloud](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_xtremecloud)
 * [smolOD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_smolod) - Small Open Directories
 * [Open Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_open_directory_indexes) - Open Directory Indexes
-* [ODCrawler](https://odcrawler.xyz/), [ODS](https://sites.google.com/view/l33tech/tools/ods) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engine
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
 * [dedigger](https://www.dedigger.com/) - GDrive File Search 
 * [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) / [Discord](https://discord.gg/ZRhpUtzvkC) or [No Bucks Given](https://discord.gg/By53hyhUFS) - Drive Sharing Communities
