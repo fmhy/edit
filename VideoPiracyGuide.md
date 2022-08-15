@@ -24,7 +24,6 @@
 * **[Oligopoly](https://olgply.com/)** - Movies / TV
 * **[Ask4movies](https://ask4movie.io/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
 * **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
-* **[PrivateHD](https://www.privatehd.xyz/)** - Movies / TV
 * [PtFlixMovies](https://ptflixmovies.xyz/) - Movies / TV / Anime
 * [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [C1NE](https://c1ne.co/) - Movies / TV
@@ -854,6 +853,7 @@
 
 * **[TrailerPunk](https://trailerpunk.com/)** - Newest Movie Trailers
 * **[Movie Recs](https://rentry.co/MovieRecs)** - Movie Recommendation Sites / Tools
+* **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Movie, TV & Anime Recommendations
 * **[IMDb Advanced Search](https://www.imdb.com/search/)** or [pyMDB](https://pymdb.mloesch.it/) - Search Engine
 * **[TasteDive](https://tastedive.com/)** - Recommendations 
 * **[FlixMetrix](https://flickmetrix.com/)** - Combines IMDb, Rotten Tomatoes & Letterbox ratings
@@ -876,7 +876,7 @@
 * [listal](https://www.listal.com/) - Movies / TV
 * [Movieo](https://movieo.me/) - Movies / TV / Anime
 * [AllMovie](https://www.allmovie.com/) - Movies / TV / Anime 
-* [Episode Calender](https://episodecalendar.com/) - TV Calender
+* [Episode Calender](https://episodecalendar.com/) - TV Calendar
 * [dunno](https://m-dunno.netlify.app/) - Movies / TV
 * [showRSS](https://showrss.info/)  - RSS / TV
 * [AniChart](https://anichart.net) or [LiveChart](https://www.livechart.me/) - Seasonal Anime Charts
@@ -894,7 +894,6 @@
 * [Tastoid](https://www.tastoid.com/) - Mood Based Recommendations 
 * [Autum](https://autum.com/) - Movie / TV Recommendations
 * [Suggestream](https://suggestream.com/) - Movies / TV Recommendations 
-* [/r/MovieSuggestions](https://www.reddit.com/r/MovieSuggestions/) - Movie Recommendations 
 * [BestSimilar](https://bestsimilar.com/) - Movie Recommendations 
 * [Movie-Map](https://www.movie-map.com/) - Movie Recommendations
 * [GNOD](https://www.gnod.com/) - Movie Recommendations
@@ -902,6 +901,7 @@
 * [FilmFish](https://www.film-fish.com/) - Movie & TV Recommendations 
 * [Suggest Me Movie](https://www.suggestmemovie.com/) - Movie Recommendations
 * [agoodmovietowatch](https://agoodmovietowatch.com/) - Movie Recommendations
+* [/r/MovieSuggestions](https://www.reddit.com/r/MovieSuggestions/) - Movie Recommendations
 * [MovieSync](https://movie-sync-app.web.app/) - Movie Recommendations 
 * [CouchMoney](https://couchmoney.tv/) - Movie Recommendations for Trakt 
 * [Cinetrii](https://cinetrii.com/) - Discover Movies with Similar Themes 
@@ -916,7 +916,7 @@
 * [What's on Netflix](https://www.whats-on-netflix.com/library/) - Browse Netflix Library
 * [Netflix Top 10](https://top10.netflix.com/) - Netflix Most-Watched Chart
 * [Netflix Codes](https://www.netflix-codes.com/) - Netflix Category Codes
-* [ReelScary](http://www.reelscary.com/) - Movies Rated by Scariness 
+* [ReelScary](http://www.reelscary.com/) - Movies Rated by Scariness
 * [Film Genre Wiki](https://en.wikipedia.org/wiki/Template:Film_genres) - Movie Genre List
 * [Horror Sub-Genre Guide](https://i.stack.imgur.com/lAEV1.png) - List of Horror Genres
 * [Based on the Book](https://www.mymcpl.org/books-movies-music/read/based-on-the-book) - List of Movies Based on Books
