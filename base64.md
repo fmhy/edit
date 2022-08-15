@@ -1679,3 +1679,9 @@ pass: paluch
 #### Free Courses By Xemu
 
 `aHR0cHM6Ly9yZW50cnkub3JnL0ZyZWVDb3Vyc2VzQnlYZW0g`
+
+***
+
+#### Revival
+
+`aHR0cHM6Ly9yZXZpdmFsLmF3ZXN0cnVjay53b3JrZXJzLmRldi8KaHR0cHM6Ly9yZXZpdmFsLmF3ZXN0cnVjay53b3JrZXJzLmRldi8wOi8=`
