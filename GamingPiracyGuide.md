@@ -55,15 +55,15 @@
 * [GoodOldDownloads Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_goodolddownloads_backup)
 * [PCGames-Download Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pcgames-download_backup)
 * [LibreGameWiki](https://libregamewiki.org/List_of_games) - FOSS Games 
-* [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Downloader](https://github.com/Emersont1/itchio) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games 
+* [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Downloader](https://github.com/Emersont1/itchio) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
 * [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) - Open Source Games
 * [Open Source Game Clones](https://osgameclones.com/) - Open Source Game Clones
-* [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes) - Game Remakes 
-* [Alpha Beta Gamer](https://alphabetagamer.com/) - Play games in Alpha or Beta Testing 
-* [Game Top](https://www.gametop.com/) - Casual PC Games 
+* [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes) - Game Remakes
+* [Alpha Beta Gamer](https://alphabetagamer.com/) - Play games in Alpha or Beta Testing
+* [Game Top](https://www.gametop.com/) - Casual PC Games
 * [TeknoParrot](https://teknoparrot.com/) - Modern Arcade Client / [Games](http://teknoparrot.link.free.fr/), [2](https://www.retroROMs.info/forum/topic/Teknoparrot-games.htm)
-* [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Games 
-* [awesome-ttygames](https://ligurio.github.io/awesome-ttygames/) - ASCII Terminal Games 
+* [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Games
+* [awesome-ttygames](https://ligurio.github.io/awesome-ttygames/) - ASCII Terminal Games
 * [Win98 / XP Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_win98_.2F_xp_games) - Windows 98 / XP Games
 * [WinXP Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_misc_windows) - Windows XP Games
 * [RPG Maker Games](https://rpgmaker.net/games/?name_filter=&amp;engine=&amp;status=&amp;rating=&amp;commercial=exclude&amp;sort=&amp;portal=None) - Games made via RPG Maker
@@ -193,6 +193,7 @@
 * [Dats.site](https://dats.site/) - ROM .DAT Files
 * [datcheck](https://github.com/pkos/datcheck) - Compare No-Intro / Redump .DAT Files to ROM or Disc Collection 
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
+* [WBFStoISO](http://www.wbfstoiso.com/) - WBFS to ISO Converter
 * [Cemu Guide](https://cemu.cfw.guide/) - Cemu & BOTW Optimization Guide
 * [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
 * [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) / [2](https://docs.google.com/document/d/1weVLWey3RePzn8LubFRFHRVkoczCbLkvSf8fNfp1yZ0/edit) / [3](https://github.com/PrincessAkira/road-to-yuzu-without-switch) - Yuzu Emulator Setup Guide
@@ -718,7 +719,8 @@
 
 * **[IMDb Advanced Search](https://www.imdb.com/search/)**
 * **[Grouvee](https://www.grouvee.com/)** - Video Game Tracker
-* **[TasteDive](https://tastedive.com/)** - Recommendations 
+* **[TasteDive](https://tastedive.com/)** - Game Recommendations
+* [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
 * [OpenCritic](https://opencritic.com/) - Critic Game Reviews / Ratings
 * [IMDb](https://www.imdb.com/) - Video Game Database
 * [GiantBomb](https://www.giantbomb.com/games/) - Video Game Database 
