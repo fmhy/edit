@@ -339,7 +339,7 @@
 * [Optimize](https://www.heroic.us/optimize) - Self-Improvement Notes / Lessons
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
 * [do_k_ument](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_do_k_ument) - Survival, Forging, Smithing, Weapons Training, Field Manuals
-* [Survivor Library](http://www.survivorlibrary.com/), [PrepperCollective](https://t.me/PrepperCollective) / [Index](https://t.me/PrepperCollectiveIndex), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - Survival
+* [Survivor Library](http://www.survivorlibrary.com/), [PrepperCollective](https://t.me/PrepperCollective) / [Index](https://t.me/PrepperCollectiveIndex), [OffGridDownload](https://t.me/offgriddownload), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - Survival
 * [SurvivalManual](https://ligi.de/) - Offline Survival Guide / [GitHub](https://github.com/ligi/SurvivalManual)
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
 * [QSL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_qsl) - Ham Radio & Antenna Books
@@ -846,7 +846,7 @@
 * [Mangas.Heoo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mangas.heoo)
 * [BookDL Comic & Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_booksdl)
 * [pptenshi](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pptenshi)
-* [bato](https://bato.to/) - [Discord](https://discord.gg/7NBwcBsDph)
+* [bato](https://bato.to/), [2](https://battwo.com/) - [Discord](https://discord.gg/7NBwcBsDph)
 * [MangaHere](http://www.mangahere.cc)
 * [Atsumaru](https://atsu.moe/) - [Discord](https://discord.gg/Tj4QmEF4uV)
 * [MangaNelo](https://manganelo.com/) or [Mangakakalot](https://mangakakalot.com/)
@@ -1089,6 +1089,7 @@
 * **[MyAnimeList](https://myanimelist.net/)** - Manga
 * **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comics
 * **[TasteDive](https://tastedive.com/)** - Book Recommendations
+* [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Book & Comic Recommendations
 * [BookHype](https://bookhype.com/) - Books
 * [Oku](https://oku.club/) - Books
 * [StoryGraph](https://www.thestorygraph.com/) - Books
