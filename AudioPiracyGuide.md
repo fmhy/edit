@@ -444,12 +444,13 @@
 * **[Muspy](https://muspy.com/)** - Get Album Release Updates
 * **[RateYourMusic](https://rateyourmusic.com/)**, **[Sputnik](https://www.sputnikmusic.com/)**, [Discogs](https://www.discogs.com/) / [Scout](https://greasyfork.org/en/scripts/439452-discogs-scout), [listnd](https://listnd.com/), [AlbumOfTheYear](https://www.albumoftheyear.org/), [AllMusic](https://www.allmusic.com/) or [Musicbranz](https://musicbrainz.org/) - Ratings / Reviews
 * **[RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/)** - Artist Recommendations by Genre
+* **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Artist Recommendations
 * [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Band Archive
 * [Metal Archives](https://www.metal-archives.com/) - Metal Band Archive
 * [IDM Discovery](https://www.idmdiscovery.com/) - IDM Artist Archive
 * [Music-Map](https://www.music-map.com/), [Panther](http://panther.audio/), [Musicroamer](https://www.musicroamer.com/), [Gnoosic](https://www.gnoosic.com/), [GNOD](https://www.gnod.com/) or [What The Fuck Should I Listen To Right Now?](https://www.whatthefuckshouldilistentorightnow.com/) - Artist Discovery Tools
 * [45Cat](http://www.45cat.com/) - Vinyl Ratings / Reviews
-* [TapeFear](https://www.tapefear.com/) or [Discover Quickly](https://discoverquickly.com/) - Spotify Song Discovery
+* [TapeFear](https://www.tapefear.com/), [SongsLikeX](https://songslikex.com/) or [Discover Quickly](https://discoverquickly.com/) - Spotify Song Discovery
 * [Spotalike](https://spotalike.com/), [MagicPlaylist](https://magicplaylist.co/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generator
 * [DailyPlaylists](https://www.dailyplaylists.com/) or [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
 * [MusitcTo](https://www.musicto.com/) - Musician Curated Playlists
