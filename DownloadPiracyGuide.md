@@ -41,7 +41,7 @@
 * [Open Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_open_directory_indexes) - Open Directory Indexes
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
 * [dedigger](https://www.dedigger.com/) - GDrive File Search 
-* [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) / [Discord](https://discord.gg/ZRhpUtzvkC) or [No Bucks Given](https://discord.gg/By53hyhUFS) - Drive Sharing Communities
+* [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) / [Discord](https://discord.gg/ZRhpUtzvkC) or [No Bucks Given](https://discord.gg/By53hyhUFS) / [Revolt](https://divolt.xyz/invite/BM9hvM0E) - Drive Sharing Communities
 * [MegaDownload](http://megadownload.net/) - Mega File Search 
 * [Create Open Directory Search Engine](https://redd.it/d3w2fu)
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) or [AutoIndex](http://autoindex.sourceforge.net/) - Open Directory Indexer 
