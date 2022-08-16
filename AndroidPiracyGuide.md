@@ -791,7 +791,7 @@
 * [SyncPlayer](https://f-droid.org/en/packages/io.github.powerinside.syncplay/) - Video Sync App
 * [LibreTube](https://github.com/libre-tube/libretube) - Youtube Frontend
 * [Android TV Mod](https://t.me/androidtvmod) - Android TV / Fire TV / Fire Stick / Mods / Telegram
-* [SmartTubeNext](https://smartyoutubetv.github.io/) - Ad Free Android TV Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)
+* [SmartTubeNext](https://smartyoutubetv.github.io/) - Ad Free Android YouTube Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)
 * [Android TV IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) - IPTV Players for Android TV's
 * [Great Courses Plus Premium](https://forum.mobilism.org/search.php?keywords=great+courses+plus&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - Courses
 * [Showly 2.0](https://github.com/michaldrabik/showly-2.0) or [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide/) - Movie / TV Tracker 
