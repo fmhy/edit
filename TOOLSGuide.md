@@ -278,7 +278,6 @@
 * [kmttg](https://www.videohelp.com/software/kmttg) - TivoToGo Download Manager
 * [TikTok Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tiktok_video_downloaders) - Download TikTok Videos
 * [myfaveTT](https://myfavett.com/) - Download Your Liked TikTok Videos
-* [TikUp](https://github.com/Coloradohusky/TikUp) - TikTok Auto Download / Upload
 * [How-to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/)
 * [How to Rip Videos from Disney+](https://redd.it/ncyxzx), [2](https://web.archive.org/web/20210516014412/https://old.reddit.com/r/Piracy/comments/ncyxzx/tutorial_how_to_rip_moviesshows_from_disney_plus/)
 * [Chat-Downloader](https://github.com/xenova/chat-downloader) - Retrieve Chat Messages from Livestreams
@@ -296,7 +295,7 @@
 * [dart_vlc](https://github.com/alexmercerind/dart_vlc) - Video Recording / Streaming
 * [VegasScripts](https://github.com/otomad/VegasScripts) - MAGIX Vegas Scripts
 * [VDO.Ninja](https://vdo.ninja/) - Remote Camera Video Production
-* [OBS](https://obsproject.com/), [Wigistream](https://wigistream.to/) or [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs) - Video Recording / Live Streaming / [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT) / [Effects](https://github.com/Xaymar/obs-StreamFX) 
+* [OBS](https://obsproject.com/) or [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs) - Video Recording / Live Streaming / [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT) / [Effects](https://github.com/Xaymar/obs-StreamFX) 
 * [Stream Elements](https://streamelements.com/) - Streaming Service Manager
 * [Restream](https://restream.io/) - Multi-Site Streaming Tool
 * [LiveRecord](https://github.com/lovezzzxxx/liverecord) - Automatic Stream Recorder
@@ -350,7 +349,7 @@
 * [Video Ascii Art](http://www.kickjs.org/example/video_ascii_art/Video_Ascii_Art.html) - Video to Ascii Art
 * [NATRON](https://natrongithub.github.io/) - Compositing Software
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets
-* [Motion Den](https://motionden.com/), [Lumen5](https://lumen5.com/) or [VideoCreek](https://videocreek.com/) - Video Template Editor
+* [Lumen5](https://lumen5.com/) or [VideoCreek](https://videocreek.com/) - Video Template Editor
 * [Beatflyer](https://beatflyer.com/) - Video Flyer Generator
 * [MKVToolNix](https://www.matroska.org/downloads/mkvtoolnix.html) - MKV Editing Tools 
 * [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/) - MKVExtract GUI 
@@ -428,7 +427,7 @@
 * [SNES Soundfonts](https://www.williamkage.com/snes_soundfonts/) - SNES Soundfonts
 * [Songwhip](https://songwhip.com/) - Find / Share Your Music on All Platforms
 * [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://iznaut.itch.io/bfxr), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - Sounds Effects Creator
-* [Fresh Stuff For You](https://freshstuff4you.com/) or [All4Daw](https://all4daw.com/) - DAWs / Samples / Presets
+* [Fresh Stuff For You](https://freshstuff4you.com/) - DAWs / Samples / Presets
 * [Plugin Clouds Archive](https://t.me/plugincloudsarchive) - DAW Plugins
 * [FlsAudio](https://flsaudio.com/en/gb/) - FLStudio Samples / Presets / Plugins
 * [/r/findthepreset](https://www.reddit.com/r/findthepreset) - Find Presets from Songs
@@ -605,7 +604,7 @@
 * [CoFolios](https://cofolios.com/) - Portfolio Sharing
 * [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - Cover Page Templates
 * [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) or [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) or [30-seconds-of-interviews](https://30secondsofinterviews.org/) / [GitHub](https://github.com/30-seconds/30-seconds-of-interviews) - Common Interview Questions & Answers
-* [Reverse Interview](https://github.com/viraptor/reverse-interview or [job-interview-questions-to-ask-companies](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to ask Potential Employers
+* [Reverse Interview](https://github.com/viraptor/reverse-interview) or [job-interview-questions-to-ask-companies](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to ask Potential Employers
 * [LeetFree](https://sksusha8853.github.io/leetcode/index.html) - Leaked Google, Facebook & Amazon Interview Questions
 * [Interviews.school](https://interviews.school/) - Developer Interview Preparation Guide
 * [yangshun](https://github.com/yangshun/tech-interview-handbook) - Tech Interview Handbook 
@@ -668,7 +667,6 @@
 * [neostox](https://neostox.com/) - Practice Stock Trading
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
 * [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) or [OpenBB Terminal](https://openbb.co/) - Investment Research CLI
-* [Trading Talks](https://tradingtalks.org/) - Business Courses
 * [Marketing / Trading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_marketing_.2F_trading_courses) - Marketing / Trading Courses
 * [protocol-reading-list](https://github.com/bryanhpchiang/protocol-reading-list) - Crypto Protocols
 * [Wasabi](https://wasabiwallet.io/) - FOSS Bitcoin Wallet
@@ -703,7 +701,6 @@
 * [Nmap](https://nmap.org/) - Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)
 * [Elmocut](https://github.com/elmoiv/elmocut) or [SelfishNetV3](https://github.com/nov0caina/SelfishNetV3) - ARP Spoofer / Kick Users from WiFi 
 * [AreWeDown?](https://github.com/shukriadams/arewedown) - HTTP Uptime Monitor
-* [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - Web Service Coverage Map
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
 * [WiFiCard](https://wificard.io/) - WiFi Info QRCode Generator
 * [Master Networks & Scanning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_master_networks_.26amp.3B_scanning) - Network & Network Scanning Tutorials
@@ -720,7 +717,6 @@
 * [Kill the Newsletter](https://kill-the-newsletter.com/) - Convert email newsletters into Atom Feeds 
 * [Clovery](https://webcatalog.io/clovery/) - Multi-Google App Program
 * [PyPasser](https://github.com/xHossein/PyPasser) - Bypass ReCaptcha v3 & v2
-* [hcaptcha-solver](https://github.com/JimmyLaurent/hcaptcha-solver) - Bypass hCaptcha 
 * [Rescan](https://rescan.io/) - Find Out Technologies Used to Build Any Site
 * [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - Archive, Scrape & Crawl Sites
 * [OutWit](https://www.outwit.com/) - Scrape / Organize Website Data
@@ -817,7 +813,7 @@
 * [Personal Link Hompages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_personal_link_homepages) - Display Your Links / Sites
 * [Integrated Inbox](https://integratedinbox.com/) - Gmail Google Web App Integration
 * [EasyMailForGmail](https://easymailforgmail.com/) - Gmail Desktop Client
-* [Namechk](https://namechk.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - Check Username / Domain Availability
+* [Namechk](https://namechk.com/), [CheckUserNames](https://knowem.com/), [NameCheckr](https://www.namecheckr.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - Check Username Availability
 * [HostsDock](https://eshengsky.github.io/HostsDock/) - Manage & Switch Hosts 
 * [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools) 
 * [IP Checkers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_checkers) - Check Your IP Address
