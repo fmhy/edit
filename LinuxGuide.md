@@ -373,7 +373,7 @@
 * **[Fantastical](https://flexibits.com/fantastical)** - Calendar
 * [DMHY](https://github.com/yaqinking/DMHY) - Anime Torrent Autodownloader 
 * [YTMusic](https://ytmusic.app/) - YouTube Music Client
-* [Enmity](https://enmity.app/) / [Discord](https://discord.com/invite/rMdzhWUaGT) or [Accord](https://github.com/evelyneee/accord) - Discord Client
+* [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) or [Accord](https://github.com/evelyneee/accord) - Discord Clients
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) - Download MacOS
 * [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions MacOS
 * [ravynOS](https://airyx.org/) - FreeBSD style MacOS
