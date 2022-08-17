@@ -373,7 +373,6 @@
 * [HITS](https://hits.seeyoufarm.com/) - Website Traffic Badges
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) or [MetaTags](https://metatags.io/) - Meta Tag Generator
 * [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools) 
-* [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - Username Availability Check
 * [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/) or [Domainr](https://domainr.com/) - Domain Availability Check 
 * [TinyDomain](https://tinydomain.net/) - Short Domain Suggestions
 * [WorthBuck](https://worthbuck.com/) - Domain Price Estimations
