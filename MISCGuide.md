@@ -120,7 +120,6 @@
 * **[/m/piracy](https://www.reddit.com/user/nbatman/m/piracy/)**, [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) - Piracy Multireddit
 * **[OneHack](https://onehack.us/)** - Piracy Discussion / Sharing
 * [/r/piracy](https://reddit.com/r/piracy) - [Backup](https://github.com/nid666/PiracyArchive)
-* [/r/piratedgames](https://reddit.com/r/piratedgames) - [Discord](https://discord.gg/Da2akf2)
 * [/r/SoftwarePirates](https://reddit.com/r/SoftwarePirates) - Software Piracy Discussion
 * [/r/DataHoarder](https://reddit.com/r/DataHoarder) - [Telegram](https://t.me/r_DataHoarder) / [/r/DHExchange](https://www.reddit.com/r/DHExchange/)
 * [/r/trackers](https://reddit.com/r/trackers)
