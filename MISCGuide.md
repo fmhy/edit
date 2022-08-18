@@ -124,12 +124,12 @@
 * [/r/DataHoarder](https://reddit.com/r/DataHoarder) - [Telegram](https://t.me/r_DataHoarder) / [/r/DHExchange](https://www.reddit.com/r/DHExchange/)
 * [/r/trackers](https://reddit.com/r/trackers)
 * [/r/usenet](https://reddit.com/r/usenet) 
+* [/r/PiratedGames](https://www.reddit.com/r/PiratedGames/) - Gaming / [Discord](https://discord.gg/dZWwhUy)
 * [/r/CrackSupport](https://reddit.com/r/CrackSupport) - Piracy / Gaming / Cracking Discussion / [Revolt](https://cracksupport.divolt.xyz/) / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch) / [FAQ](https://rentry.co/cracksupport)
 * [Weboas.is Forum](https://weboasis.app/forum/)
 * [SuperBay](https://forum.suprbay.org/) - Piracy Discussion
 * [Esoterica Avenue](https://discord.gg/enMG8bXUbn) - Guides / Piracy / Software / Gaming / Chat
 * [Sineater's Cove](https://discord.gg/nKstg6x) - Piracy / Emulator / Gaming / Anime Chat
-* [PGames](https://discord.gg/dZWwhUy) - Piracy / Gaming / Discord
 * [DarkSoftware](https://darksoftware.net/) - Game Piracy
 * [CS.RIN.RU](https://cs.rin.ru/forum)
 * [Ru.Board](http://forum.ru-board.com/)
