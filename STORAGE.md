@@ -2154,7 +2154,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Spotify Themes**
 
-[Colorize](https://colorify.live/) / [Spicetify](https://spicetify.app/) / [CLI](https://github.com/khanhas/spicetify-cli) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Discord](https://discord.gg/VnevqPp2Rr) / [Easy Install](https://github.com/OhItsTom/spicetify-easyinstall/), [Fluent](https://github.com/williamckha/spicetify-fluent)
+[Colorize](https://colorify.live/) / [Spicetify](https://spicetify.app/) / [CLI](https://github.com/khanhas/spicetify-cli) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Discord](https://discord.gg/VnevqPp2Rr) / [Easy Install](https://github.com/OhItsTom/spicetify-easyinstall/) / [Fluent](https://github.com/williamckha/spicetify-fluent)
 
 ***
 
