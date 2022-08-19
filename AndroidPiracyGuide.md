@@ -285,7 +285,7 @@
 * [starryai](https://play.google.com/store/apps/details?id=com.starryai) - Generate Art from Text Prompt
 * [Photo Resizer](https://play.google.com/store/apps/details?id=com.simplemobilephotoresizer&hl=en&gl=US) - Image Resizer
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - Image Size Reducer
-* [Upscaler](https://play.google.com/store/apps/details?id=com.ethanzone.upscaler&hl=en_US&gl=QA) - Image Upscaler
+* [Upscaler](https://play.google.com/store/apps/details?id=com.ethanzone.upscaler&hl=en_US&gl=QA) or [Galaxy Enhance-X](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/galaxy-enhance-x/) - Image Upscaler
 * [LosesslessJpgCrop](https://github.com/k3b/LosslessJpgCrop) - Lossless Image Cropper
 * [Image Searcher](https://play.google.com/store/apps/details?id=sansunsen3.imagesearcher) - Image Search App
 * [ScreenshotFlow](https://screenshotflow.com/) - Create App Diagrams
@@ -348,6 +348,7 @@
 * [App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers) - Android App Launchers
 * [QuickSwitch](https://github.com/skittles9823/QuickSwitch) - Enable Quickstep in Launchers 
 * [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) / [2](https://www.apkmirror.com/apk/aurora-oss/warden/) - App Managers
+* [Blocker](https://github.com/lihenggui/blocker) - Component Controller
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement
 * [iFont](https://play.google.com/store/apps/details?id=com.kapp.ifont) - Android Font Installer
 * [Eruda](https://pastebin.com/7qSZXjDS) - Console for mobile browsers / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [Github](https://github.com/liriliri/eruda) 
@@ -429,8 +430,8 @@
 * **[APKMirror](https://www.apkmirror.com/)** - Untouched / [Playstore Links](https://pastebin.com/TcsAJib6)
 * **[Lucky Patcher](https://www.luckypatchers.com/download/)** - Remove Ads / Free In App Purchases / App Patcher / [How to use](https://latestechnews.com/how-to-use-lucky-patcher/)
 * **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - Repositories Index
-* **[Android FOSS](https://github.com/offa/android-foss)**, **[Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md)**, **[Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps)**, **[/r/u_Jackie7610](https://redd.it/jhtvn4)** or **[Cool FOSS](https://albertomosconi.github.io/foss-apps/)** / [GitHub](https://github.com/albertomosconi/foss-apps) - Free and Open Source Apps for Android
 * **[/r/ApkApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** - Updated list of modded APK's / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)
+* **[Android FOSS](https://github.com/offa/android-foss)**, [Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md), [Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps), [/r/u_Jackie7610](https://redd.it/jhtvn4), [AAA](https://github.com/Psyhackological/AAA) or [Cool FOSS](https://albertomosconi.github.io/foss-apps/) / [GitHub](https://github.com/albertomosconi/foss-apps) - FOSS APKs
 * [/r/SoftwarePiracy APK Index](https://rentry.co/SoftwarePirates-Megathread#apk-android-download-sites) - List of APK Piracy Sites & Apps
 * [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Add Direct DL Links to Google Play 
 * [F-Droid](https://f-droid.org/) or [Simple Mobile Tools](https://simplemobiletools.com/) - FOSS App Repository / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
@@ -681,6 +682,7 @@
 * [SMLoadr](https://t.me/SMLoadrNews) - Download / FLAC / MP3
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloader
 * [Fildo](https://fildo.net/android/en/) - Streaming
+* [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale-android) - Streaming
 * [Trebel](https://home.trebel.io/) - Streaming
 * [BlackHole](https://github.com/Sangwan5688/BlackHole) - Streaming
 * [BlackPlayer](https://rexdl.com/android/blackplayer-ex-apk.html/) - Streaming
