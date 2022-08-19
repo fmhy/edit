@@ -47,6 +47,7 @@
 * [Jango](https://jango.com/) - Browser Music
 * [musify](https://musify.club/) - Browser Music
 * [Jamendo](https://www.jamendo.com/) - Browser Music
+* [Flowful](https://flowful.app/) - Browser Music
 * [Kainet](https://kainet.rocks/) - Browser Music
 * [Mp3Deer](https://mp3deer.com/) - Browser Music
 * [Last.fm](https://www.last.fm/) - Browser Music
@@ -194,7 +195,8 @@
 * [Whispr](https://www.whispr.tech/) - Ambient
 * [Noises Online](https://noises.online/) - Ambient
 * [A Soft Murmur](https://asoftmurmur.com/) - Ambient 
-* [Nature Mixer](https://naturemixer.com/) - Ambient 
+* [Nature Mixer](https://naturemixer.com/) - Ambient
+* [Eart.fm](https://earth.fm/) - Ambient
 * [Zen Sounds](https://app.zenflowchart.com/zen-sounds) - Ambient
 * [EcoSounds](http://en.ecosounds.net/) - Ambient
 * [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - Ambient
