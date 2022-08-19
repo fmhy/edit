@@ -76,7 +76,8 @@
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Hacking / Pentesting Index
 * [Internet Curated](https://internetcurated.com/) - Directory Index
 * [DMOZ](http://www.dmoztools.net/) or [SmartLinks](https://smartlinks.org/index.html) - Website Directory
-* [Wikimedia](https://www.wikimedia.org/) - All Wikimedia Sources  
+* [Archive-It](https://archive-it.org/) - Archive.org Collections
+* [Wikimedia](https://www.wikimedia.org/) - All Wikimedia Sources 
 * [Clone Wars](https://gourav.io/clone-wars) - Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars) 
 * [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps), [Awesome oss alternatives](https://github.com/RunaCapital/awesome-oss-alternatives), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Index
 * [CloudTrip](http://cloudtrip.com/) - Cloud App Index
@@ -169,7 +170,7 @@
 * [MostIWant](https://www.mostiwant.com/) - Software
 * [ShareWareOnSale](https://sharewareonsale.com/) - Software
 * [sos-windows2 ](https://groups.google.com/g/sos-windows2) - Software
-* [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - Steam Games 
+* [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [SteamGifts](https://www.steamgifts.com/), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - Steam Games 
 * [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - Steam Mods
 * [Games Free Today](https://gamesfree.today/) - Games
 * [FreeGames.codes](https://freegames.codes/) - Games / [Android](http://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes)
@@ -340,6 +341,7 @@
 * [Tamajoji](https://flixflox.itch.io/tamajoji) - Browser Tamagotchi
 * [Gifypet](https://gifypet.neocities.org/) - Create Your Own Cute Pet 
 * [20Q](http://www.20q.net/) or [Akinator](https://en.akinator.com/) - 20 Questions
+* [Magic Crystal Ball](https://www.oproot.com/ball/) - Get Messages from Beyond
 * [70's TV Simulator](https://www.my70stv.com/), [80's](https://www.my80stv.com/), [90's](https://www.my90stv.com/) or [00's TV Simulator](https://www.my00stv.com/)
 * [Neave.tv](https://neave.tv/) - TV without context
 * [The Office Stare Machine](http://theofficestaremachine.com/) - The Office Video Emotions 
@@ -381,8 +383,9 @@
 * [Fake Doors](http://faykdoors.com/) - Its Fake Doors
 * [Do not open the door](http://mexicans.eu/) - Don't you dare...
 * [This Person Does Not Exist](https://www.thispersondoesnotexist.com/) - People That Don't Exist
+* [This City Does Not Exist](https://thiscitydoesnotexist.com/) - Cities That Don't Exist
 * [This Artwork Does Not Exist](https://thisartworkdoesnotexist.com/) - Art That Doesn't Exist
-* [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) - Words That Don't Exist 
+* [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) - Words That Don't Exist
 * [These Lyrics Do Not Exist](https://www.theselyricsdonotexist.com/) - Lyrics That Don't Exist
 * [This Wojak Does Not Exist](https://thiswojakdoesnotexist.com/) - Wojak's That Don't Exist 
 * [This Cat Does Not Exist](https://thiscatdoesnotexist.com/) or [NotRealCats](https://notrealcats.com/) - Cats That Don't Exist
@@ -404,7 +407,8 @@
 * [Game a-b-street](https://github.com/a-b-street/abstreet) - Traffic Simulation
 * [Quarter Maester](https://quartermaester.info/) - Interactive Game of Thrones Map 
 * [Park My Spaceship](https://parkmyspaceship.com/) - Park Spaceships on Map 
-* [Wikiverse](http://wikiverse.io/) - 3D visualization of Wikipedia 
+* [Wikiverse](http://wikiverse.io/) - 3D Wiki Visualizer
+* [DeletedCity](http://deletedcity.net/) - Geocities Visualizer 
 * [Judgey](http://playjudgey.com/) - Judge A Book By Its Cover 
 * [Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/) - Things you didn't know you wanted
 * [Paper Plotter](https://felixboiii.github.io/paper-plotter/) - Create 3D plots out of paper 
@@ -509,11 +513,13 @@
 * [Fun Trivia](https://www.funtrivia.com/), [Factle](https://factle.app/), [BeanBeanBean](https://beanbeanbean.com/) or [Sporcle](https://www.sporcle.com/) - Trivia
 * [ARealMe](https://www.arealme.com/) - Quiz Collection
 * [OpenPsychometrics](https://openpsychometrics.org/) or [16 Personalities](https://www.16personalities.com/) - Personality Tests
-* [theOtaku](http://theotaku.com/quizzes) - Anime Personality Quizzes 
+* [theOtaku](http://theotaku.com/quizzes) - Anime Personality Quizzes
 * [WhereShouldILive?](https://www.whereshouldilive.co/) - Find Out Where You Should Live
 * [1000 Seconds](https://mattround.com/usvsth3m/1000-seconds/) - Test of Patience
 * [Six Triangles](https://sixtriangles.github.io/), [9 Axes](https://9axes.github.io/), [8dreams](https://8dreams.github.io/), [ISideWith](https://www.isidewith.com/) or [8 Values](https://8values.github.io/) - Political Alignment Test
+* [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/) - Vote on Different Trolley Problem Versions
 * [Three.js](https://threejs.org/) - JavaScript 3D library 
+* [CSS Puns](https://saijogeorge.com/css-puns/) - CSS Puns
 * [Pokémon Fusion](https://pokemon.alexonsager.net/) - Fuse Pokémon
 * [Poke Palettes](https://pokepalettes.com/) - Pokemon Color Palettes 
 * [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) - Terminal Pokemon Sprites
@@ -639,7 +645,8 @@
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
 * [InoReader](https://www.inoreader.com/) - News Feed Manager
 * [LiveScore](https://www.livescores.com/) - Live Sports Scores
-* [Scribe](https://scribe.bus-hit.me/) - Medium Frontend 
+* [Scribe](https://scribe.bus-hit.me/) - Medium Frontend
+* [prompt.press](https://prompt.press/) - AI Art Inspired by News
 
 ***
 
@@ -917,8 +924,9 @@
 * [Shadowmap](https://app.shadowmap.org/) or [ShadeMap](https://shademap.app/) - Solar Shadow Map
 * [Wikimapia](http://wikimapia.org/) - Online Editable Map
 * [AmCharts](https://www.amcharts.com/svg-maps/) - SVG Maps
-* [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps 
+* [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
 * [Point Address](https://pointaddress.com/), [mapus](https://github.com/alyssaxuu/mapus) or [Scribble Maps](https://www.scribblemaps.com/create/) - Custom Location Map
+* [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [dgi](http://www.dgi.inpe.br/catalogo/) - Match Satellite Images to Map
 * [City Roads](https://anvaka.github.io/city-roads/) - Draw City Roads
 * [Mobac](https://mobac.sourceforge.io/) - Mobile Atlas Creator
@@ -960,7 +968,7 @@
 * [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - Left vs. Right Side Driving by Country
 * [MetroOrbits](http://mic-ro.com/metro/index.html) - Subway Maps & Data
 * [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
-* [Cost of Living](https://www.numbeo.com/cost-of-living/) - Cost of Living Map
+* [Cost of Living](https://www.numbeo.com/cost-of-living/) or [MoveMap](https://www.movemap.io/) - Cost of Living Map
 * [Mapfrappe](http://mapfrappe.com/?show=46142) or [scale-a-tron](https://stamen.github.io/scale-a-tron/) - Compare True Sizes on Land 
 * [Mikavaa](http://mapmerizer.mikavaa.com/) - Compare Cities
 * [Free Camp Sites](https://freecampsites.net/) - Free Camp Sites
@@ -1337,6 +1345,7 @@
 * [Flip This](https://chrome.google.com/webstore/detail/flip-this/donljlliiecjcagcenoeohjmabfegkph?hl=en) - Rotate Page & HTML Elements
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej) - Discover Similar Webpages
 * [adam:ONE Assistant](https://chrome.google.com/webstore/detail/adamone%C2%AE-assistant/fdmpekabnlekabjlimjkfmdjajnddgpc?hl=en) - Find Web Site Dependencies
+* [Pip](https://www.getpip.com/pip-extension) - Web3 Payment Extension
 * [Fake Profile Detector](https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc) - Detect Fake Online Profiles
 * [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - View Extension Source Code 
 * [Google Meet Virtual Backgrounds](https://chrome.google.com/webstore/detail/virtual-backgrounds-for-g/edkljafinkpeoglndilllgfnailhkocn) - Google Meet Backgrounds
@@ -1382,6 +1391,8 @@
 * [Extra Flags for 4chan](https://gitlab.com/flagtism/Extra-Flags-for-4chan) - Add More Flags to 4chan
 * [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - Google Search Endless Scrolling 
 * [Extra Search Buttons](https://greasyfork.org/en/scripts/7543-google-search-extra-buttons) - Extra Google Search Buttons
-* [Google Hit Hider](https://openuserjs.org/scripts/jscher2000/Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites\)) - Block Sites from Search Results 
+* [Google Hit Hider](https://openuserjs.org/scripts/jscher2000/Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites\)) - Block Sites from Search Results
+* [Pagetual](https://hoothin.github.io/PagetualGuide/en/) - Merges a Sites "Next" Pages
+* [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - Shows Images & Videos Behind Links & Thumbnails
 * [DisableAMP](https://github.com/AdguardTeam/DisableAMP) - Disable Google AMP Links
