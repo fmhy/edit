@@ -1685,3 +1685,9 @@ pass: paluch
 #### Revival
 
 `aHR0cHM6Ly9yZXZpdmFsLmF3ZXN0cnVjay53b3JrZXJzLmRldi8KaHR0cHM6Ly9yZXZpdmFsLmF3ZXN0cnVjay53b3JrZXJzLmRldi8wOi8=`
+
+***
+
+#### Unbeatable Banzuke
+
+`aHR0cHM6Ly9yZWRkLml0Lzg4NjV3dA==`
