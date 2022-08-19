@@ -753,9 +753,9 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * [FlixHQ](https://flixhq.net/), [2](https://flixhq.ru/)
 * [FBox](https://www1.fbox.to/), [2](https://www3.fbox.to/), [3](https://www4.fbox.to/)
 * [HuruWatch](https://hurawatch.com/), [2](https://hurawatch.ru/), [3](https://hurawatch.at/)
-* [Movies7](https://movies7.to/)
+* [Movies7](https://movies7.to/), [2](https://www2.movies7.to/), [3](https://movies7.io/)
 * [Flixtor](https://flixtor.one/)
-* [BFlix](https://bflix.ru/), [2](https://bflix.io/)
+* [BFlix](https://bflix.ru/), [2](https://bflix.io/), [3](https://bflix.gg/)
 * [SWatchseries.ru](https://www2.swatchseries.ru/)
 * [watchmovieshd](https://watchmovieshd.ru/)
 * [123series](https://123series.ru/)
@@ -865,11 +865,13 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://www.actvid.com/
 * https://hdtoday.tv/ 
 * https://www.tikmovies.com/
+* https://moviesjoy.plus/
 * https://dopebox.to/
-* https://www2.movies7.to/
 * https://fboxtv.com/
 * https://movies2watch.tv/
+* https://movies2watch.tv/
 * https://watchseriestv.top/
+* https://moviestowatch.tv/
 * https://favhd.net/
 * https://www3.hdseries.cc/ 
 * https://fmoviesgo.to/
@@ -878,6 +880,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://www4.musichq.net/
 * https://aa01.net/
 * https://www6.f2movies.to/
+* https://putlockers.llc/
 * https://2kmovie.cc/
 * https://www.sflix.pro/
 * https://sflix.to/
@@ -886,6 +889,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://kk01.net/
 * https://www1.moviecrumbs.net/
 * https://tvshows88.com/
+* https://flixtor.gg/
 * https://theflixer.tv/
 * https://myflixer.link/
 * https://myflixer.to/
@@ -907,8 +911,8 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://www1.attacker.tv/
 * https://quitt.net/
 * https://www1.seeingblind.net/
-* https://fmovie.ws/
 * https://www6.123moviesgo.tv/
+* https://123moviestv.net/
 * https://moviecracker.net/
 * https://www1.ummagurau.com/
 * https://fmovieshd.vip/
@@ -925,7 +929,9 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://www.fullmoviefilm.org/
 * https://www.moviekids.tv/
 * https://www.freemovies360.com/
-* https://yesmovies.mn/ 
+* https://yesmovies.mn/
+* https://fmovie.ws/
+* https://fmovies.hn/ 
 
 ***
 
@@ -1135,7 +1141,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### M4UFree Clones
 
-[M4uFree](http://m4ufree.tv), [Streamm4u](http://streamm4u.com) / [2](https://streamm4u.ws/), [m4ufree.to](https://m4ufree.to/), [m4uhd](https://m4uhd.tv/) / [2](https://m4uhd.cc/)
+[M4uFree](http://m4ufree.tv) / [2](https://ww1.m4ufree.tv/), [Streamm4u](http://streamm4u.com) / [2](https://streamm4u.ws/), [m4ufree.to](https://m4ufree.to/), [m4uhd](https://m4uhd.tv/) / [2](https://m4uhd.cc/) 
 
 ***
 
@@ -1357,7 +1363,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Name & Identity Generators
 
-[Fake-it](https://fake-it.ws/), [Fake Data](https://www.fakedata.pro/), [namefake](https://en.namefake.com/), [minirandom](https://minirandom.com/), [namegenerators](http://namegenerators.org/), [online-generator.com](https://online-generator.com/index.php), [igopaygo](https://names.igopaygo.com/), [Fake Name Generator](https://www.fakenamegenerator.com/), [fakepersongenerator](https://www.fakepersongenerator.com/), [datafakegenerator](https://datafakegenerator.com/), [elfqrin](https://www.elfqrin.com/), [fakedetail](https://fakedetail.com/), [fauxid](https://fauxid.com/), [fakexy](https://www.fakexy.com/)
+[Fake Data](https://www.fakedata.pro/), [namefake](https://en.namefake.com/), [minirandom](https://minirandom.com/), [namegenerators](http://namegenerators.org/), [online-generator.com](https://online-generator.com/index.php), [igopaygo](https://names.igopaygo.com/), [Fake Name Generator](https://www.fakenamegenerator.com/), [fakepersongenerator](https://www.fakepersongenerator.com/), [datafakegenerator](https://datafakegenerator.com/), [elfqrin](https://www.elfqrin.com/), [fakedetail](https://fakedetail.com/), [fauxid](https://fauxid.com/), [fakexy](https://www.fakexy.com/)
 
 **Address Generators**
 
@@ -1376,12 +1382,17 @@ Add the following commands to a search to manually scrape each site.
 * http://www16.0123movies.org/
 * https://123movies.dance/
 * http://www13.123moviesfree.com/
+* https://new123movies.la/
 * http://www1.123moviesmovies.com/
+* https://www2.online123movies.live/
 * http://topbestsite.live/
 * https://cinehindi.com/
+* https://parkslopecannabis.shop/
 * https://123movies.gdn/
 * https://www.movi.pk/
+* https://fffmovies.wtf/
 * https://tunemovie.com/
+* https://wwv.123movies.day/
 * https://wwe.movierulzfree.com/
 * https://www4.watchfree.ac/
 * http://www2.putlockerstv.org/
@@ -2038,7 +2049,10 @@ Add the following commands to a search to manually scrape each site.
 * https://cafehulu.com/
 * https://www4.123movies.net/
 * https://www8.putlockers.fm/
+* https://0123movies4u.com/
+* https://wifimovies.net
 * https://www4.xmovies8.fm/
+* https://123free.net/
 * https://moviego.net/
 * https://hdzer.com/
 * https://watchzer.com/
@@ -2890,7 +2904,7 @@ Good for finding classic, obscure & short films.
 
 #### Website Creators
 
-[GoHugo](https://gohugo.io/), [SouPalt](https://soupault.app/), [Barly](https://github.com/charludo/barely), [Zola](https://www.getzola.org/), [Jamstack Generators](https://jamstack.org/generators/), [Hugo](https://gohugo.io/), [Jekyll](https://jekyllrb.com/), [Tails](https://devdojo.com/tails), [vveb](https://www.vvveb.com/), [Potion](https://www.potion.so/), [8b](https://8b.com/), [WebFlow](https://webflow.com/), [EasyLogic](https://www.easylogic.studio/), [Universe](https://onuniverse.com/), [Website.com](https://www.website.com/), [GrapeDrop](https://grapedrop.com/), [Specctr](https://specctr.com/cloud/home), [Astro](https://astro.build/), [TypeDream](https://typedream.com/), [Processwire](https://processwire.com/)
+[GoHugo](https://gohugo.io/), [SouPalt](https://soupault.app/), [Barly](https://github.com/charludo/barely), [Zola](https://www.getzola.org/), [Jamstack Generators](https://jamstack.org/generators/), [Hugo](https://gohugo.io/), [Jekyll](https://jekyllrb.com/), [Tails](https://devdojo.com/tails), [vveb](https://www.vvveb.com/), [Potion](https://www.potion.so/), [8b](https://8b.com/), [WebFlow](https://webflow.com/), [EasyLogic](https://www.easylogic.studio/), [Universe](https://onuniverse.com/), [Website.com](https://www.website.com/), [GrapeDrop](https://grapedrop.com/), [Specctr](https://specctr.com/cloud/home), [Astro](https://astro.build/), [TypeDream](https://typedream.com/), [Processwire](https://processwire.com/), [Google Sites](https://sites.google.com/new)
 
 **Simple Site Creators**
 
