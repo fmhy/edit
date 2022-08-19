@@ -946,6 +946,7 @@
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Release Updates  
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress & Keyboard Support 
 * [MangaEditor](https://moeka.me/mangaEditor/) - Online Manga Editor
+* [CBZ-Manga-Creator](https://github.com/PonyLucky/CBZ-Manga-Creator) - Image to CBZ Converter
 * [MangaCord](https://top.gg/bot/751148743901970622?tab=overview) - Read Manga on Discord [Disocrd](https://discord.gg/UtTJcWzCRe)
 * [Anity](https://redd.it/g372gu), [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en), [manga-translator](https://github.com/cameronkinsella/manga-translator) or [Scanlate](https://scanlate.io/) - Manga Translator
 * [Onodera](https://github.com/onoderaproject/onodera) - Anime & Manga Database
