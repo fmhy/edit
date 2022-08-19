@@ -34,11 +34,13 @@
 * [Compare Sizes](https://comparesizes.com/) - Size Comparison Tool 
 * [hikaku-sitatter](https://hikaku-sitatter.com/en/) or [Mulmetric](https://multmetric.com/) - Height Comparison Tool
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
-* [NST](https://time.gov/), [Qlock](http://www.qlock.com/), [TheClockApp](https://theclockapp.vercel.app/), [TimeAndDate](https://www.timeanddate.com/) or [EveryTime Zone](https://everytimezone.com/) - World Clock
+* [NST](https://time.gov/), [Qlock](http://www.qlock.com/), [WorldTimeBuddy](https://www.worldtimebuddy.com/), [TheClockApp](https://theclockapp.vercel.app/), [TimeAndDate](https://www.timeanddate.com/) or [EveryTime Zone](https://everytimezone.com/) - World Clock
 * [FlipClockWeb](https://flipclockweb.netlify.app/) - Fullscreen Clock
 * [Epoch Converter](https://www.epochconverter.com/) - Epoch & Unix Timestamp Conversion Tools 
 * [How Many Days Since](http://howmanydayssince.net/), [CalcuDater](https://calcudater.com/) or [How Many Days Until](https://howmanydaysuntil.co/) - Calculate Days Since a Date
 * [e.gg Timer](https://e.ggtimer.com/) or [Juicy Timer](https://juicytimer.com/) - Timer
+* [StageTimer](https://stagetimer.io/) - Event Timer
+* [DripDrop](https://www.dripdrop.live/) - Product Drop Countdown
 * [SetAlarmClock](https://setalarmclock.net/) - Online Alarm Clock
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
 * [Dashana](https://dashana.com/), [DataWrapper](https://www.datawrapper.de/), [RAWgraphs](https://app.rawgraphs.io/) / [GitHub](https://github.com/rawgraphs/rawgraphs-app) or [ParaView](https://github.com/Kitware/ParaView) - Data Visualization Tool
@@ -134,7 +136,6 @@
 * [WorkFlowy](https://workflowy.com/) - Work Organizer
 * [KiloDoc](https://www.kilodoc.com/) or [GroupDocs](https://products.groupdocs.app/viewer/total) - Online Document Editor 
 * [docz](https://www.docz.site/) - Write and Publish Interactive Documentation
-* [Writemonkey](http://writemonkey.com/) or [WriteNext](https://www.writenext.io/) - Distraction Free Writing App
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
 * [Calculist](https://calculist.io/) - Note Taking for Problem Solving
 * [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [App linked](https://uselinked.com/) / [GitHub](https://github.com/lostdesign/linked), [Gemlog](https://gemlog.blue/), [jrnl.sh](https://jrnl.sh/) or [journal-cli](https://v1.journalcli.app/) - Journal App
@@ -160,7 +161,7 @@
 * [SongLyricsGenerator](http://www.songlyricsgenerator.com/) or [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) - Generate Fake Song Lyrics
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)
-* [FocusWriter](https://gottcode.org/focuswriter/) or [Writer](https://www.gibney.org/writer) / [GitHub](https://github.com/no-gravity/writer) - Distraction-Free Writing Tool
+* [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](http://writemonkey.com/), [WriteNext](https://www.writenext.io/) or [Writer](https://www.gibney.org/writer) / [GitHub](https://github.com/no-gravity/writer) - Distraction-Free Writing Apps
 * [NovelWriter](https://novelwriter.io/) - Markdown Style Novel Editor
 * [Papyrus Author](https://www.papyrusauthor.com/) - Creative Writing Suite
 * [Seventh Sanctum](https://www.seventhsanctum.com/) - Fantasy Writing Generators
@@ -181,13 +182,14 @@
 * [Image to Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_to_text) - Extract Text from Images
 * [Lonliness Translate](https://loneliness.one/translate) - Re-translate Phrases
 * [InternetSlangTranslator](https://lingojam.com/InternetSlangTranslator2-0) - Translate Text to Slang
+* [The Pirate Translator](https://pirate.monkeyness.com/translate) - Translate Text to Pirate
 * [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
 * [Delim](https://delim.co/) - Comma Separating Tool
 * [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - Create Parallel Text Web
 * [TextRepeater](https://textrepeater.com/) - Repeat Text
 * [Count Duplicates](https://www.somacon.com/p568.php) or [MyNikko](http://www.mynikko.com/tools/tool_duplicateremover.html) - Count / Remove Duplicates in a List
 * [TextCompare](https://www.textcompare.org/) - Compare Text
-* [Count Wordsworth](http://countwordsworth.com/) - Count Words in a List 
+* [Count Wordsworth](http://countwordsworth.com/) - Count Words in a List
 * [OfficeDocs](https://www.offidocs.com/) - Runs Desktop / Mobile Apps Online
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
 * [Buffered.link](https://buffered.link/) - Share Text Between Devices
@@ -213,10 +215,10 @@
 * [Gramma](https://caderek.github.io/gramma/) - Command Line Grammar Checker
 * [R2bEEaton's Phonetic Reverser](https://spea.cc/backwards/) or [TextReverse](https://www.textreverse.com/) - Reverse Text 
 * [UpsideDown Text](https://www.upsidedowntext.com/) - Generate Upside Down Text
-* [I or l?](https://iorl.info/) - Is it an uppercase "i", or is it a lowercase "L"?
+* [I or l?](https://iorl.info/) / [2](https://www.iorl.org/) - Is it an uppercase "i", or is it a lowercase "L"?
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursive Search Tool
 * [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/), [Unilist](https://unilist.raphaelbastide.com/) or [Cool Symbol](https://coolsymbol.com/) - Copy & Paste Unicode Characters
-* [Copy-Paste-Space](https://copy-paste-space.com/) - Copy / Paste Blank Spaces 
+* [Copy-Paste-Space](https://copy-paste-space.com/) or [BlankText](https://blanktext.net/) - Copy / Paste Blank Spaces 
 * [Donger List](http://dongerlist.com/) - 600+ Unicode Emoticons 
 * [Japanese emoji copy and paste](https://japaneseemojicopyandpaste.com/) - Lenny Face / Japanese Emoticons
 * [taag](http://patorjk.com/software/taag/) - ASCII Text Generator
@@ -455,11 +457,13 @@
 * [VCV Rack](https://vcvrack.com/) - Eurorack Simulator
 * [Cable](https://vb-audio.com/Cable/) - Virtual Audio Cable
 * [Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Download Album Art
+* [Apple Music Animated Artwork Fetcher](https://github.com/bunnykek/Apple-Music-Animated-Artwork-Fetcher) - Download Animated Apple Music Art
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - Identify Playing Songs
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Soundux](https://soundux.rocks/) / [GitHub](https://github.com/Soundux/Soundux) or [Resanance](https://resanance.com/) - Soundboard Program
 * [MyInstants](https://www.myinstants.com/index/us/), [InternetsFun](https://instantsfun.es/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboard
 * [Soundpad](https://www.leppsoft.com/soundpad/) - Voicechat Soundboard
 * [AudioRelay](https://audiorelay.net/) - Stream PC Audio to Phone 
+* [TimeStetch](https://29a.ch/timestretch/) - Web Music Player
 * [iPod.js](https://tannerv.com/ipod/) - iPod Themed Web Music Player
 * [Gelli](https://github.com/dkanada/gelli) - Jellyfin Music Player 
 * [Sonixd](https://github.com/jeffvli/sonixd) - Subsonic/Jellyfin Compatible Desktop Music Player
@@ -505,6 +509,7 @@
 * [Orca](https://hundredrabbits.itch.io/orca) - Live Coding Audio
 * [madeon](https://adventuremachine.4thfloorcreative.co.uk/) - Create Music with Madeon Samples
 * [danielx](https://danielx.net/composer/) - Mario Paint Audio Editor
+* [Thirty Dollar Website](https://thirtydollar.website/) - Meme Sound Audio Editor / [Examples](https://youtu.be/8SZZPxERK_8)
 * [FamiTracker](http://www.famitracker.com/) or [Famistudio](https://bleubleu.itch.io/famistudio) - NES / Famicon Audio Editor
 * [LittleSoundDJ](https://www.littlesounddj.com/lsd/index.php) - Gameboy Audio Editor
 * [Open Note Block Studio](https://opennbs.org/) - Minecraft Note Block Song Editor
@@ -613,7 +618,7 @@
 * [RemoteWide](https://remotewide.co/) - Remote Job Notifications
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - Remote Job Resources
 * [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform Based Side Work 
-* [web3.career](https://web3.career/) - Web3 Job Offers
+* [web3.career](https://web3.career/) or [FindWeb3](https://findweb3.com/) - Web3 Job Offers
 * [moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - Company / Startup Applications
 * [Nerdy Grads](https://nerdygrads.com/) - Grad School Research Job Search 
 * [MTurk](https://www.mturk.com/) - Online Task Work
@@ -634,7 +639,7 @@
 * [NIST](https://www.nist.gov/nice/apprenticeship-finder) - NICE Apprenticeship Program Finder
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - Cloud Career Training
 * [Lecture Links for Placement Preparation in Computer Science](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
-* [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list) or [500+ Free Tools For Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Tools
+* [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list), [StartupLibrary](https://startuplibrary.co/) or [500+ Free Tools For Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Tools
 * [BetaList](https://betalist.com/) - Get Startup Ideas
 * [Failory](https://www.failory.com/graveyard) - Learn Why Startups & Products Failed
 * [AngelLIst](https://angel.co/) - Startup Community
@@ -728,6 +733,7 @@
 * [LiveCounts](https://livecounts.io/) - Live Social Media Stats
 * [Post Generator](https://postgenerator.online/) - Convert Article to Social Media Post
 * [Cloaking Company](https://www.cloakingcompany.com/) - Create Alogorith Pleasing Social Media Posts
+* [Abogrow](https://www.abogrow.com/compose) - Preview Social Media Posts
 * [4stats](https://4stats.io/) - 4chan Board & Thread Stats
 * [Emotes Everywhere](https://kellphy.com/projects/kee.html), [GenieEmoji](https://github.com/virejdasani/Geniemoji), [winMoji](https://www.winmoji.com/) or [Geniemoji](https://virejdasani.github.io/Geniemoji/) - Emoji Manager
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
@@ -786,7 +792,7 @@
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://www.nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders 
 * [Email Tracker](https://snov.io/email-tracker), [GetNotify](https://www.getnotify.com/) or [Mailtrack](https://mailtrack.io/) - Email Engagement Tracker
 * [Cleanfox](https://www.cleanfox.io/) - Easily Clean Email Inbox 
-* [Unroll](https://unroll.me/) - Easily Unsubscribe from Emails
+* [Unroll](https://unroll.me/) or [UnsubScan](https://github.com/LGUG2Z/unsubscan) - Easily Unsubscribe from Emails
 * [Epieos](https://tools.epieos.com/) - Retrieve Info Linked to Email Address
 * [nBox](https://nbox.notif.me/) - Sign Up Anywhere without Email 
 * [zMail](http://zmail.sourceforge.net/) or [Emkei's Fake Mailer](https://emkei.cz/) - Send Fake Emails 
@@ -827,9 +833,10 @@
 * [IP2Proxy](https://www.ip2proxy.com/) - Proxy / VPN IP Detector
 * [Tripgen](https://orph.link/tripgen) - Image Board Trip Code Generator 
 * [4chan Captcha Solver](https://github.com/AUTOMATIC1111/4chan-captcha-solver/) - 4chan Captcha Solver
-* [Slideshow-Deslidefier](http://deslide.clusterfake.net/) - View Slideshows All At Once 
-* [tumblr-crawler](https://github.com/ZenulAbidin/tumblr-crawler) - Download tumblr photos/videos 
-* [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities 
+* [Slideshow-Deslidefier](http://deslide.clusterfake.net/) - View Slideshows All At Once
+* [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities
+* [tumblr-crawler](https://github.com/ZenulAbidin/tumblr-crawler) - Download tumblr Photos / Videos
+* [Tumgir](https://www.tumgir.com/) - Tumblr Web Viewer
 * [ChanThreadWatch](https://github.com/SuperGouge/ChanThreadWatch) - Imageboard Thread Watcher 
 * [FlagHunter](https://gitlab.com/flagtism/flaghunter) - Find Rare Imageboard Flags
 * [Awesome ActivityPub](https://github.com/BasixKOR/awesome-activitypub) - List of ActivityPub based projects 
@@ -1086,7 +1093,7 @@
 
 ## ▷ Reddit Tools
 
-* **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)** or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Browser Extension /  [Feature List](https://redditenhancementsuite.com/features/)
+* **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Browser Extensions / Scripts
 * **[redditlist](http://redditlist.com/)**, [sayit](https://anvaka.github.io/sayit/), [Vizit](http://redditstuff.github.io/sna/vizit/), [Map of Reddit](https://anvaka.github.io/map-of-reddit), [Subbed](https://www.subbed.org/), [RedditViz](https://rhiever.github.io/redditviz/) or [subreddits](http://subreddits.org/) - Subreddit Indexes
 * [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/) - Related Subreddit Calculator
 * /u/SaveVideo, [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://www.redditsave.com/), [redv.co](https://redv.co/), [lew.la](https://lew.la/) or [Reddit.tube](https://reddit.tube/) - Download Reddit Videos 
@@ -1108,7 +1115,7 @@
 * [Reddit (Au) Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlights New Comments
 * [rComments](https://github.com/iampueroo/rComments) - Explore Comments & Replies without Clicking a Post 
 * [rAger](https://chrome.google.com/webstore/detail/rager/fohlpjahcdbkpcckapphhpahbiajccmj) - Display Account Age & Karma of Users
-* [MassTagger](https://www.masstagger.com/ ) - Reddit User Tagger
+* [MassTagger](https://www.masstagger.com/) - Reddit User Tagger
 * [Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Always Load Old Reddit Design
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
 * [custom-top-sort-for-reddit](https://github.com/arvidsandin/custom-top-sort-for-reddit) - Scroll to Top of Reddit
@@ -1139,17 +1146,18 @@
 * [Reddit Desktop Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_desktop_apps) 
 * [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader) - Download Media from Reddit 
 * [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Reddit Bulk Submission Downloader
-* [Pushshift.io](https://pushshift.io/) - Reddit Statistics 
-* [TrendingWordsofReddit](https://trendingwordsofreddit.herokuapp.com/) - Reddit Trending Words 
-* [TitleScraper](https://titlescraper.herokuapp.com/) - See a Subreddits Most Upvoted Words 
+* [Pushshift.io](https://pushshift.io/) - Reddit Statistics
+* [TrendingWordsofReddit](https://trendingwordsofreddit.herokuapp.com/) - Reddit Trending Words
+* [TitleScraper](https://titlescraper.herokuapp.com/) - See a Subreddits Most Upvoted Words
 * [Upvote Stats](https://www.upvotestats.com/) - Upvote Stats
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) or [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
-* [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System 
+* [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System
 * [Base64 Decoder](https://openuserjs.org/scripts/DanielBlaze/Reddit_Base64_Decoder) - Auto Decode Base64 Links in Reddit
-* [Reddit Status](https://www.redditstatus.com/) - Check Reddit Status 
+* [Reddit Status](https://www.redditstatus.com/) - Check Reddit Status
 * [RedditOldRedesignedDark](https://github.com/Jorengarenar/RedditOldRedesignedDark) - Reddit Stylus Dark Theme
 * [Reddit Poetry](https://f-a-r-a-z.github.io/reddit-poetry/) - Reddit Title Poetry Generator
 * [/m/subredditthemes](https://www.reddit.com/user/Madbrad200/m/subredditthemes) - Subreddit Themes
+* [Reddit Spoiler Blur Remover](https://greasyfork.org/en/scripts/416091-reddit-spoiler-blur-remover) - Remove Reddit Spoiler Blur
 
 ***
 
@@ -1506,7 +1514,7 @@ Twitch Stream Tracker
 * [TweetDeck](https://tweetdeck.twitter.com/) / [Enhance](https://better.tw/) or [Tweeten](https://tweetenapp.com/) - Twitter Dashboard
 * [TweetDuck](https://github.com/chylex/TweetDuck) - Twitter Desktop Client
 * [BackTweets](http://backtweets.com/), [twXplorer](https://twxplorer.knightlab.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - Search Twitter
-* [Twishort](https://twishort.com/) - Make Longer Tweets
+* [Twishort](https://twishort.com/) or [TwitLonger](https://www.twitlonger.com/) - Make Longer Tweets
 * [Screamer](https://chrome.google.com/webstore/detail/screamer-twitter-improvem/mpeifaboppaofofdbmhoaeolnibaljof) - Tweet Only Twitter
 * [Poet.so](https://poet.so/), [Twimage](https://twimage.vercel.app/) / [GitHub](https://github.com/drkPrince/tweet-to-image), [Tweetlet](https://tweetlet.net/), [Tweets Beauty](https://api.tweets.beauty/docs) or [Capture My Tweet](https://capturemytweet.in/) - Create Twitter Post Images
 * [Tweetgen](https://www.tweetgen.com/) or [FakeTweetMaker](https://www.faketweetmaker.com/) - Create Fake Tweets
@@ -1517,7 +1525,7 @@ Twitch Stream Tracker
 * [Trends Map](https://www.trendsmap.com/), [Twitter Trends](https://twitter-trends.vercel.app/) or [MentionMap](https://mentionmapp.com/) - Trending Twitter Hashtags / Topics
 * [Tweeplers](https://www.tweeplers.com/) - Trending Twitter Users
 * [TweetMap](https://www.omnisci.com/demos/tweetmap) - Trending Tweet Map
-* [Twitter Linker](https://twitterlinker.vercel.app/) or [Twitter Images](https://twitter-images.vercel.app/ ) - Generate Twitter Card for Your Links
+* [Twitter Linker](https://twitterlinker.vercel.app/) or [Twitter Images](https://twitter-images.vercel.app/) - Generate Twitter Card for Your Links
 * [OneMillionTweetMap](https://onemilliontweetmap.com/) or [TwitterNano](https://www.twitternano.com/) - Real-Time Tweet Map 
 * [Twitter Matrix](https://konard.github.io/twittermatrix/messages.html) - Matrix animation, but with live tweets 
 * [All My Tweets](https://www.allmytweets.net/connect/) - View tweets, likes, followers or timeline on one page 
@@ -1544,7 +1552,7 @@ Twitch Stream Tracker
 * [Hoaxy](https://hoaxy.osome.iu.edu/) - Twitter Info Spread Data
 * [Tweets Analyzer](https://github.com/x0rz/tweets_analyzer) - Tweet Metadata Scraper 
 * [GeoSocial Footprint](http://geosocialfootprint.com/) or [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint 
-* [TwiMap](https://twimap.com/) - Find Twitter Users Near You 
+* [TwiMap](https://twimap.com/) or [SmallWorld](https://smallworld.kiwi/) - Find Twitter Users Near You 
 * [Twitter Without Logging In](https://addons.mozilla.org/en-US/firefox/addon/twitter-without-logging-in/) - Twitter Login Wall Bypass
 * [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) or [Invidition](https://codeberg.org/Booteille/Invidition) - Redirects Twitter to Frontend
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia), [Semiphemeral](https://semiphemeral.com/) - Twitter Auto Post Delete
@@ -1646,7 +1654,7 @@ Twitch Stream Tracker
 * [WUReset](https://wureset.com/) - Reset Windows Update Components
 * [Wu10Man](https://github.com/WereDev/Wu10Man), [stopupdates10](https://greatis.com/stopupdates10/) or [windows-update-blocker](https://www.sordum.org/9470/windows-update-blocker-v1-7/) - Enable / Disable Windows 10 Updates
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
-* [XTR Toolbox](https://zeeex.github.io/XTR-Toolbox/) - Windows Tweaking Tool [GitHub](https://github.com/Zeeex/XTR-Toolbox/)
+* [XTR Toolbox](https://zeeex.github.io/XTR-Toolbox/) / [GitHub](https://github.com/Zeeex/XTR-Toolbox/), [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [TweakUtility](https://github.com/Craftplacer/TweakUtility), [MagicX Toolbox](https://github.com/Ahsan40/MagicX-Toolbox), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - Windows Tweaking Tools
 * [Couleur Tweak Tips](http://discord.gg/CTT), [Redwan Tweaks](https://discord.gg/4RhQurkFBZ) or [TweakCentral](https://tweakcentral.net/) - Windows Tweaks & Tips
 * [Redwan's Guide to Guides](https://docs.google.com/document/d/1hZeQkyDe-M9-zNy2eB-Koc3iOpN5-5KxkpvjQaNK60g/edit) - Windows Tweaking Guides
 * [Awesome Scripts](https://github.com/codePerfectPlus/awesomeScripts), [Batch-Script-Collection](https://github.com/happy05dz/Batch-Script-Collection), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - Useful System Scripts
@@ -1688,7 +1696,7 @@ Twitch Stream Tracker
 * [Macrium Reflect](https://www.macrium.com/reflectfree) - System Benchmarking
 * [poclmembench](https://github.com/kruzer/poclmembench) - Memory Benchmark Test
 * [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking 
-* [Netdata](https://www.netdata.cloud/), [bottom](https://github.com/ClementTsang/bottom), [OpenHardwareMonitor](https://openhardwaremonitor.org/) / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor), [btop](https://github.com/aristocratos/btop), [Glances](https://nicolargo.github.io/glances/) or [WinBar](http://www.winbar.nl/) - System Monitor
+* [Netdata](https://www.netdata.cloud/), [bottom](https://github.com/ClementTsang/bottom), [MangoHud](https://github.com/flightlessmango/MangoHud), [OpenHardwareMonitor](https://openhardwaremonitor.org/) / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor), [btop](https://github.com/aristocratos/btop), [Glances](https://nicolargo.github.io/glances/) or [WinBar](http://www.winbar.nl/) - System Monitor
 * [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - Windows System Utilities / [Suite](https://www.microsoft.com/EN-US/p/app/9P7KNL5RWT25) 
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](http://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - Process Monitor
 * [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killer
@@ -1774,12 +1782,12 @@ Twitch Stream Tracker
 * [MoveMouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home) - Simulate User Activity 
 * [The Fastest Mouse Clicker for Windows](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows), [Alpha Clicker](https://github.com/robiot/AlphaClicker) or [AutoClicker Bookmarklet](https://autoclicker.glitch.me/) - Mouse Auto Clicker
 * [StrokeIt](https://www.tcbmi.com/strokeit/) or [StrokesPlus](https://www.strokesplus.net/) - Mouse Gestures
+* [VirtualMouse](https://github.com/SY3141/VirtualMouse) - Mouse Camera Gestures
 * [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Context Menu Shell](https://nilesoft.org/) - Improved Context Menu
 * [OpenWith++](https://github.com/stax76/OpenWithPlusPlus) or [Custom Context Menu](https://www.microsoft.com/store/productId/9PC7BZZ28G0X) - Customize Context Menu
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Re-Map Mouse Buttons & Scroll Wheel
 * [SharpKeys](https://github.com/randyrants/sharpkeys/) -  Re-Map Keyboard Buttons
 * [Mouseable](https://github.com/wirekang/mouseable) - Replace Mouse with Keyboard
-* [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [TweakUtility](https://github.com/Craftplacer/TweakUtility), [MagicX Toolbox](https://github.com/Ahsan40/MagicX-Toolbox), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - Windows Tweaks
 * [Revertservice](http://revertservice.com/) - Default configurations of Windows services
 * [Win10 Widgets](https://win10widgets.com/), [BeWidgets](https://www.microsoft.com/en-us/p/bewidgets/9nq07fg50h2q), [Eww](https://github.com/elkowar/eww) or [Gadgets Revived](https://gadgetsrevived.com/) - Widgets for Windows 
 * [Übersicht](https://tracesof.net/uebersicht/) - System Command Widgets
@@ -1871,6 +1879,7 @@ Twitch Stream Tracker
 * [Gradient Terminal](https://github.com/aurora-0025/gradient-terminal) - Display Terminal Output as Gradient
 * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) or [command-line-tools](https://github.com/learn-anything/command-line-tools) - Command Line Apps
 * [ss64](https://ss64.com/) - Command Line Reference Index
+* [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
 * [ZimTools](https://zimtools.xyz/) - Command Line Tool Configs
 * [Terminal Icons](https://github.com/devblackops/Terminal-Icons) - File and Folder Icons in Terminal
 * [Alacritty](https://github.com/alacritty/alacritty), [yakuake](https://apps.kde.org/yakuake/), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://eugeny.github.io/tabby/) or [Terminus](https://github.com/Eugeny/terminus) - Terminal Emulator
@@ -1972,11 +1981,13 @@ Twitch Stream Tracker
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells 
 * [ValliStart](https://www.deviantart.com/jaxoriginals/art/ValliStart-Start-menu-replacement-893506095) - Windows Start Menu Skin
 * [FolderMarker](https://foldermarker.com/) or [CustomFolder](https://www.gdzsoft.com/) - Custom Folders & Markers
+* [Emoji.ico](https://github.com/davzoku/emoji.ico) - Emoji Folder Icons
 * [Win98Icons](https://win98icons.alexmeub.com/) - Classic Win98 Icons
 * [Cursors 4U](https://www.cursors-4u.com/) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
 * [Windows Sounds](https://winsounds.com/) or [Win11 Sounds](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_win11_sounds) - Windows Sound Schemes
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - MacOS Cursors for Windows
 * [Win7BootUpdater](https://mega.nz/file/T5ZDmIaK#jdiomK79q1CYzwFcbzkzJ1ceLsWlnAHLvofsjHIq39g) - Customize Windows 7 Boot Animation / [Guide](https://youtu.be/IdwcWIKuVG8)
+* [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Browser Screensavers
 * [terminal.sexy](https://terminal.sexy/), [TerminalSplash](https://terminalsplash.com/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
 * [Tabby](https://tabby.sh/) - Modern Terminal Theme
 * [linux-like-windows-terminal](https://github.com/Kyza/linux-like-windows-terminal) - Linux Terminal Theme
@@ -2077,7 +2088,7 @@ Twitch Stream Tracker
 * [Mega-index-heroku](https://github.com/developeranaz/Mega-index-heroku) - Serve Mega to HTTP via Heroku
 * [MEGA Uploader X](https://t.me/MegaUploadXbot) - Remote Mega File Upload Bot
 * [GDrive Guides](https://t.me/gdriveguides) - GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)
-* [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - DDL to GDrive Tool
+* [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive), [Direct-Link-to-Google-Drive](https://github.com/TheCaduceus/Direct-Link-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - DDL to GDrive Tool
 * [GDriveCLI](https://github.com/prasmussen/gdrive) - GDrive CLI
 * [gogdl-ng](https://github.com/gogdl-ng/gogdl-ng) - Google Drive Bulk Downloader
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
