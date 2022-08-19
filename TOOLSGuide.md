@@ -728,7 +728,7 @@
 * [WebMailExtractor](https://www.webemailextractor.com/#trynow) - Extract Emails / Phone #s from Webpages
 * [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/), [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/) or [FollowThatPage](https://followthatpage.com/) - Page Change Detection / Notification 
 * [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires 
-* [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - Check which IPFS Gateways are Online 
+* [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - Check which IPFS Gateways are Online
 * [SocialBlade](https://socialblade.com/) - Social Media Stats
 * [LiveCounts](https://livecounts.io/) - Live Social Media Stats
 * [Post Generator](https://postgenerator.online/) - Convert Article to Social Media Post
@@ -738,12 +738,13 @@
 * [Emotes Everywhere](https://kellphy.com/projects/kee.html), [GenieEmoji](https://github.com/virejdasani/Geniemoji), [winMoji](https://www.winmoji.com/) or [Geniemoji](https://virejdasani.github.io/Geniemoji/) - Emoji Manager
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
-* [you-get](https://github.com/soimort/you-get) - Download Media Contents from Webpages 
-* [Got Your Back](https://github.com/jay0lee/got-your-back) - Backup Gmail Messages 
+* [Pepe Server Archive](https://github.com/Overimagine1/pepe-server-archive) - Pepe Emojis
+* [you-get](https://github.com/soimort/you-get) - Download Media Contents from Webpages
+* [Got Your Back](https://github.com/jay0lee/got-your-back) - Backup Gmail Messages
 * [Login Reminder Remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - Remove Login Popup from Sites
-* [BugMeNot](http://bugmenot.com/), [Parolja](http://en.parolja.net/), [Login2.me](https://login2.me/), [FreeAccount](https://freeaccount.biz/) or [Password Login](http://password-login.com/) - Access & Share Throwaway Accounts 
+* [BugMeNot](http://bugmenot.com/), [Parolja](http://en.parolja.net/), [Login2.me](https://login2.me/), [FreeAccount](https://freeaccount.biz/) or [Password Login](http://password-login.com/) - Access & Share Throwaway Accounts
 * [Eiverr](https://www.eiverr.com/) - Premium Account Cookies
-* [Voice Dictation](https://dictation.io/) - Type with Voice 
+* [Voice Dictation](https://dictation.io/) - Type with Voice
 * [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - Manage / Store Bookmarks
 * [Instapaper](https://www.instapaper.com/) - Bookmarking Tool
 * [Pilgrim](http://pilgrim.are.na/) - Tree Style Path Bookmarking
@@ -1175,6 +1176,7 @@
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - Discord Tools
 * [Client-Modding-Guide](https://github.com/saintwithataint/Client-Modding-Guide/blob/main/PimpMyClient.md) - Modify Your Discord Client
 * [ArmCord](https://armcord.smartfridge.space/) - Lightweight Discord Client / [GitHub](https://github.com/ArmCord/ArmCord)
+* [Replugged](https://replugged.dev/) - Lightweight Discord Client
 * [Dark-Discord](https://github.com/snappercord/Dark-Discord) - Dark Theme for BetterDiscord & Powercord 
 * [Powerconvert](https://convert.creatable.cafe/) - Convert BetterDiscord themes to Powercord
 * [bdCompat](https://github.com/Juby210/bdCompat) - Use BD Plugins in Powercord
@@ -1208,6 +1210,7 @@
 * [Distok](http://distok.top/stickers/), [DiscordFreeStickers](https://github.com/An00nymushun/DiscordFreeStickers) or [FreeCommunityStickers](https://github.com/discord-stickers/FreeCommunityStickers)  - Free Discord Stickers 
 * [Discord Sticker Viewer](https://sticker-view.vercel.app/) - View Discord Stickers
 * [Discord Image Downloader Go](https://github.com/Seklfreak/discord-image-downloader-go) - Discord Image Downloader
+* [Tiktok-Auto-Embed](https://github.com/dumax315/Tiktok-Auto-Embed) - Discord TikTok Embed Downloader
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
 * [LAN Party VPN](https://github.com/gyf304/lpvpn) - Run VPN on top of Discord
 * [DiscordFS](https://github.com/dhrumilp15/discordfs) - Discord File Search
