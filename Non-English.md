@@ -118,9 +118,9 @@
 * [Fonts Free Chinese](https://www.freechinesefont.com/) or [Fonts.net](https://www.fonts.net.cn/) - Fonts
 * [CatoCR](https://catocr.com/) - Image to Text
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - Lift Emby Restrictions
-* [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [XX-Net](https://github.com/XX-net/XX-Net), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser), [New Pac](https://github.com/Alvin9999/new-pac) or [OilAndFish](https://www.oilandfish.com/) - Bypass Chinese Firewall  
+* [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [gfwlist](https://github.com/gfwlist/gfwlist), [XX-Net](https://github.com/XX-net/XX-Net), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser), [New Pac](https://github.com/Alvin9999/new-pac) or [OilAndFish](https://www.oilandfish.com/) - Bypass Chinese Firewall  
 * [Gitee](https://gitee.com/) - GitHub Alternative
-* [V2Rex](https://v2ex.com/) - Programming Forum
+* [V2Rex](https://v2ex.com/) or [ZongScan](https://www.zongscan.com/) - Programming Forum
 * [BookStack](https://www.bookstack.cn/) - Developer / Programming Guides
 * [FE Hunter](https://github.com/BetaSu/fe-hunter) - Programming Question Bounties
 * [Gridea](https://github.com/getgridea/gridea) - Blog Writing Client
@@ -341,7 +341,7 @@
 * [French-Stream](https://french-stream.re/) - Movies / TV / Anime
 * [justseries](https://www.justseries.info/) - Movies / TV
 * [cpasmieux](https://wwv.cpasmieux.site/) - Movies / TV / Anime
-* [kinoger](https://kinoger.com/) - Movies / TV / Anime
+* [kinoger](https://kinoger.com/), [2](https://www.kinoger.to/) - Movies / TV / Anime
 * [Streamay](https://www.streamay.to/) - Movies / TV 
 * [streamcenter](https://wwv.streamcenter.cc/) - Movies / TV 
 * [WiFlix](https://wiflix.site/) - Movies / TV / Anime 
@@ -431,6 +431,7 @@
 * [BS.TO](https://www.bs.to/) - TV / Anime
 * [HDFilme](https://hdfilme.cx/) - Movies
 * [StreamCloud](https://www1.streamcloud.club/) - Movies / TV
+* [Kinos](https://www.kinos.to/) - Movies / TV
 * [KinoZ](https://kinoz.to/) - Movies / TV / Anime / NSFW
 * [S.TO](https://s.to/) - TV / Anime
 * [SRF.CH](https://www.srf.ch/) - TV / Sports / Live
@@ -928,6 +929,7 @@
 * [StreamBase](https://thesb.eu/) - Warez List / [GitHub](https://github.com/RugFlipper/streambase) / [Discord](https://discord.gg/3wQ3WQabEp)
 * [2nr](https://play.google.com/store/apps/details?id=pl.rs.sip.softphone) - Free Polish Phone Numbers
 * [StreamBase](https://thesb.eu/) - Warez List / [Discord](https://discord.gg/ZmUTrX6axg)
+* [Sport TVP](https://sport.tvp.pl/) - Sports News
 
 ## ▷ Downloading
 
@@ -1516,6 +1518,7 @@
 * [CineHDPlus](https://cinehdplus.net/) - Movies / TV
 * [Cliver](https://www.cliver.to/) - Movies
 * [Repelis24](https://repelis24.co/) - Movies / TV
+* [Cinecalidad](https://cinecalidad2.me/) - Movies / TV
 * [PelisForte](https://pelisforte.co/) - Movies / TV
 * [EntrePeliculasySeries](https://entrepeliculasyseries.nz/capitulos-en-sub-espanol/) - Movies / TV / Anime
 * [Cine.Arplay](https://play.cine.ar/) - Movies / TV
