@@ -26,7 +26,7 @@
 * **[MitOpenCourseWare](https://ocw.mit.edu/index.htm)** - Courses
 * **[Khan Academy](https://www.khanacademy.org/)** - Courses / [Downloader](https://github.com/rand-net/khan-dl)
 * **[Git.ir](https://git.ir/)** - Courses
-* **[PluralSight](https://visualstudio.microsoft.com/dev-essentials/)** - Free for 1 Month
+* **[PluralSight](https://visualstudio.microsoft.com/dev-essentials/)** - Free for 1 Month / [Decrypter](https://github.com/dhorseman1710/Decrypt-PluralSight-GUI)
 * [Awesome CS](https://github.com/prakhar1989/awesome-courses/) - Courses
 * [OpenLearn](https://www.open.edu/openlearn/) - Courses
 * [Alison](https://alison.com/) - Courses
@@ -81,6 +81,7 @@
 * [Sapience Institute](https://learn.sapienceinstitute.org/) - Religious Courses
 * [FreeCourseWebsite](https://freecoursewebsite.com/) - Udemy Courses
 * [UdemyFreeCourses](https://udemyfreecourses.org/) - Udemy Courses
+* [FreeCoursesOnline](https://www.freecoursesonline.me/) - Udemy Courses
 * [Study Bullet](https://studybullet.com/) - Udemy Courses / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw)
 * [TutsNode](https://tutsnode.net/) - Udemy Courses
 * [/r/udemyfreebies](https://reddit.com/r/udemyfreebies) - Udemy Courses
@@ -161,7 +162,7 @@
 * [WSODownloads](https://www.wsodownloads.in/) - Courses
 * [Primetechie](https://forum.primetechie.com/) - Courses
 * [DuForum](https://duforum.in/) - Courses
-* [FreeTutorialsEU](https://www.freetutorialseu.com/) - Courses
+* [FreeTutorialsUS](https://www.freetutorialsus.com/course/) - Courses
 * [DL Course](https://dlcourse.org/) - Courses
 * [onlinecoursebay](https://onlinecoursebay.com/) - Courses
 * [freecourseslab](https://www.freecourseslab.com/category/course/) - Courses
@@ -243,7 +244,6 @@
 * [TutorialsPlanet](https://tutorialsplanet.net/) - Courses
 * [TutsGalaxy](https://tutsgalaxy.net/) - Udemy Courses
 * [UdemyTuts](https://udemytuts.com/) - Udemy Courses 
-* [My Free Courses](http://myfreecourses.com/) - Udemy Courses   
 * [TutCourse](https://tutcourse.com/) - Udemy Courses
 * [Paid Courses for Free](https://paidcoursesforfree.com/) - Udemy Courses 
 * [Online Free Course](https://www.onlinefreecourse.net/) - Udemy Courses   
@@ -326,7 +326,8 @@
 * [Unit Conversion](https://conversao.net/eng/), [Quick Convert](https://www.microsoft.com/p/app/9wzdncrdm7gt), [UnitConverters](https://www.unitconverters.net/), [ConvertUnits](https://www.convertunits.com/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converter 
 * [Derivative Calculator](https://www.derivative-calculator.net/) - Derivative Calculator
 * [Integral Calculator](https://www.integral-calculator.com/) - Integral Calculator
-* [Desmos](https://www.desmos.com/) - Graphing Calculator 
+* [Desmos](https://www.desmos.com/) - Graphing Calculator
+* [TI-Basic Developer](http://tibasicdev.wikidot.com/) - TI-Basic Info Repository
 * [fxSolver](https://www.fxsolver.com/), [Kalker](https://kalker.xyz/) / [GitHub](https://github.com/PaddiM8/kalker) or [The Engineering ToolBox](https://www.engineeringtoolbox.com/) - Engineering & Scientific Calculator
 * [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
 * [Approach0](https://approach0.xyz/search/) - Math Formula Search 
@@ -373,9 +374,9 @@
 
 * **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/) or [UN Data](https://data.un.org/) - World Data & Statistics
 * **[Our World in Data](http://ourworldindata.org/)** - World Problem Database
-* [Climate Data](https://climate-data.org/) - Climate Change Data
+* [Climate Data](https://climate-data.org/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
 * [Nextstrain](https://nextstrain.org/) - Pathogen Evolution Tracking 
-* [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - 
+* [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - COVID Data / Calculator
 * [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) - Public Datasets
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
 * [If It Were My Home](https://www.ifitweremyhome.com/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
@@ -504,7 +505,7 @@
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi-Language Dictionary Index
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary 
 * [SpanishDict](https://www.spanishdict.com/) - Spanish Translation Dictionary
-* [Memrise](https://www.memrise.com/), [LingoDeer](https://www.lingodeer.com/), [Busuu](https://www.busuu.com/en/) or [Duolingo](https://www.duolingo.com/) - Language Learning Lessons 
+* [Memrise](https://www.memrise.com/), [InternetPolyglot](https://www.internetpolyglot.com/), [LingoDeer](https://www.lingodeer.com/), [Busuu](https://www.busuu.com/en/) or [Duolingo](https://www.duolingo.com/) - Language Learning Lessons 
 * [Yojik](https://fsi-languages.yojik.eu/index.html) or [ESOL](https://www.esolcourses.com/) - Language Learning Courses
 * [Language Transfer](https://www.languagetransfer.org/) - Language Learning Courses / Audio
 * [refold.la](https://refold.la/roadmap) - Language Learning Guide 
@@ -604,6 +605,7 @@
 * [Teoria](https://www.teoria.com/index.php) - Music Theory
 * [LightNote](https://www.lightnote.co/) - Music Theory
 * [Music Theory](https://www.musictheory.net/) - Music Theory
+* [Piano Trainer](https://zaneh.itch.io/piano-trainer) - Piano
 * [Pianu](https://pianu.com/) - Piano
 * [HowToPlayPiano](http://howtoplaypiano.ca/) - Piano
 * [PianoCheetah](https://pianocheetah.app) - Piano
@@ -670,7 +672,8 @@
 * [Wordwall](https://wordwall.net/) - Lesson Creator
 * [ClassroomScreen](https://www.classroomscreen.com/) - Digital Teaching Widgets
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
-* [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - Rephrase / Paraphrase Text 
+* [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - Rephrase / Paraphrase Text
+* [Brevity500](https://brevity500.com/) - Writing Practice
 * [cb2bib](https://www.molspaces.com/cb2bib/) - Reference Extractor / Manager
 * [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - Grade School Educational Tools
 * [ScienceTrek](https://sciencetrek.org/) - Teaching Resources
@@ -789,10 +792,12 @@
 * [Vocabulary.ugent](http://vocabulary.ugent.be/) - Vocabulary Test 
 * [Kialo](https://www.kialo.com/) or [Level Point](https://levelpoint.app/) - Debates / Discussion
 * [Tabby Cat](https://github.com/TabbycatDebate/tabbycat) - Debate Tournament Tabulation Software
-* [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/) - Learn about Logical Fallacies 
-* [YourBiasIs](https://yourbias.is/) - Learn about Biases 
+* [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/) - Learn about Logical Fallacies
+* [YourBiasIs](https://yourbias.is/) - Learn about Biases
 * [LessWrong](https://www.lesswrong.com/) - Develop Rationality
 * [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
+* [VisualizeValue](https://archivve.visualizevalue.com/) - Life Lesson Visualizations
+* [50Hacks](https://50hacks.co/) - Productivity Tips
 * [Social Engineers](https://www.socialengineers.net/) - Social Engineering Guides
 * [TheChessWebsite](https://www.thechesswebsite.com/) - Chess Strategy & Analysis
 * [Chess Tempo](https://chesstempo.com/) - Play & Learn Chess
