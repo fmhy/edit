@@ -520,7 +520,7 @@
 * [Dudefilms](https://dudefilms.cyou/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
 * [The Movies Flix](https://themoviesflix.ac/) - Movies / NSFW / [Telegram](https://t.me/themoviesflixcomco)
 * [Bollywood Movie Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bollywood_movie_drive) - Movies
-* [KatMovieHD](https://katmoviehd.tw/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
+* [KatMovieHD](https://katmoviehd.rs/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [MoviesRush](https://moviesrush.quest/) - Movies
 * [MoviezAddiction](https://moviezaddiction.lol/) - Movies / TV / [Telegram](https://t.me/moviezaddiction3)
 * [MKVHub](https://www.mkvhub.town/) - Movies / TV
@@ -1852,7 +1852,7 @@
 * [khatrimazafull](https://khatrimazafull.show/) - Streaming / Download / Movies
 * [7MovieRulz](https://7movierulz.pe/) - Streaming / Movies
 * [7MovieRulz.es](https://7movierulz.es/) - Stream / Torrent / Movies / [Telegram](https://t.me/movierulztv)
-* [Movierulz](https://movierulzhd.wtf/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
+* [Movierulz](https://movierulzhd.vin/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
 * [MovieRulz.art](https://movierulzlink.art/) - Streaming / Movies
 * [TamilRockers](https://www.tamilrockermovies.org/), [2](https://www.tamilrockermovies.ca/) - Streaming / Torrent / Movies
 * [HiidudeMoviez](https://ww1.4hiidude.me/) - Streaming / Torrent / Movies / [Telegram](https://telegram.me/hiidudemoviez)
