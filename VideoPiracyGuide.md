@@ -143,6 +143,7 @@
 * [GustaTV](https://www2.gustatv.to/) - Movies / TV Anime
 * [Vexmovies.space](http://vexmovies.space/) - Movies 
 * [Lovemovie](https://lovemovie.org/) - Movies / TV
+* [OpenCulture](https://www.openculture.com/freemoviesonline) - Movies
 * [CimaClub](https://www.cimaclub.cc/category/%D8%A3%D9%81%D9%84%D8%A7%D9%85-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Shahed4u](https://shahed4u.onl:2053/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a-1/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [EntrePeliculasySeries](https://entrepeliculasyseries.nu/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)  
@@ -156,11 +157,13 @@
 * [Put-Locker](https://ww1.put-locker.com/) or [123moviesc](https://www.123moviesc.co/) - Movies / TV / Anime 
 * [YesMovies.id](https://yesmovies.id/) - Movies / TV / Anime
 * [Cinehub](https://cinehub.wtf/) - Movies / TV / [Discord](https://discord.com/invite/ZqHsfSEkBE)
-* [Flenix](https://flenix.net/) - Movies / TV / Anime 
+* [Flenix](https://flenix.net/) - Movies / TV / Anime
 * [HDFull](https://hdfull.lv/) - Movies / TV / Anime
-* [VidEmbed](https://vidembed.cc/) - Movies / TV / Anime 
+* [VidEmbed](https://vidembed.cc/) - Movies / TV / Anime
 * [FreeGreatMovies](https://www.freegreatmovies.com/)
 * [StreamPredator](https://www.streampredator.online/) - Movies / TV / Anime
+* [Kinos](https://www.kinos.to/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Switch Language](https://i.imgur.com/1rWX9Of.png) (in options)
+* [SolarMovie](https://wwv.solarmovie.one/) - Movies / TV / Anime
 * [123Chill](https://123chill.to/) - Movies / TV / Anime
 * [123MoviesJR](https://123moviesjr.cc/) - Movies / TV
 * [123Moviesd](https://123moviesd.com/) - Movies / TV
@@ -173,7 +176,8 @@
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / Anime / [Search](https://pastebin.com/ExB4ksvT) / API
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API
-* [Kodi](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi) or [FileStreamBot](https://github.com/adarsh-goel/filestreambot) - Streaming App
+* [Kodi](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi) - Streaming App
+* [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) or [FileStreamBot](https://github.com/adarsh-goel/filestreambot) - Telegram File Streaming
 * [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) or [Stream IMDb](https://github.com/4L00/TemperMonkey-Scripts/) - Add Stream Search Buttons to IMDb
 * [Letmewatch](https://letmewatch.app/) - Movies / TV / Extension / [GitHub](https://github.com/AdvithGopinath/LetMeWatch)
 
@@ -217,6 +221,7 @@
 * [Northern Ireland Screen](https://digitalfilmarchive.net/) - Irish Film Archive
 * [Cinematheque](https://www.cinematheque.fr/henri/english/) - Rare French Film Archive
 * [Stiftung imai](https://www.stiftung-imai.de/) - German Video Archive
+* [35mm](https://35mm.online/en) - Polish Film Archive
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 * [Danish Silent Film](https://www.stumfilm.dk/en/stumfilm) - Silent Danish Film Archive
 * [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
@@ -402,7 +407,7 @@
 
 * **[NBAFullHD](https://nbafullhd.com/)**, [NBAFile](https://nbafile.com/), [NBAHD](https://nbahd.com/) or [NBAHDReplay](https://nbahdreplay.com/) - Full NBA games
 * **[F1 Full Races](https://f1fullraces.com/)** - F1 Replays 
-* **[AllWrestling](http://www.allwrestling.live/)** - MMA / Wrestling
+* **[AllWrestling](https://www.allwrestling.online/)** - MMA / Wrestling
 * [Sport Video](https://www.sport-video.org.ua/) - Sports Replays / Torrents 
 * [WatchWrestling24](http://watchwrestling24.net/) - MMA / Wrestling
 * [WatchWrestling.in](https://watchwrestling.in/) - MMA / Wrestling
@@ -426,7 +431,7 @@
 * **[Jackal](https://jackal.surge.sh/)** - TV / Sports
 * **[USTVGO](https://ustvgo.tv/)** - TV / Sports
 * **[WeakStream](http://weakstreams.com/)** - Sports 
-* **[StreamEast](https://www.streameast.io/)** - Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)
+* **[StreamEast](https://www.streameast.xyz/)** - Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)
 * **[StreamLinks](https://reddits.soccerstreamlinks.com/)**, [2](https://red.soccerstreams.net/), [3](https://footybite.cc/) - Sports
 * **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - NBA / NFL
 * **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [2](https://github.com/iptv-org/iptv) - IPTV Resources / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists)
@@ -697,6 +702,7 @@
 * [r/MegaLinks Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_r.2Fmegalinks_backup) / [Search](https://megadb.tweakly.net/)
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_indexes) - Movies / TV
 * [Play Rdp](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_play_rdp) - Korean Drama / [Discord](https://discord.com/invite/fpnvKDw)
+* [Unbeatable Banzuke](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_unbeatable_banzuke) - Unbeatable Banzuke
 * [Guide to finding fanedits](https://redd.it/nd8z20) - How-to Find Fan Edits
 
 ***
@@ -894,7 +900,8 @@
 * [Tastoid](https://www.tastoid.com/) - Mood Based Recommendations 
 * [Autum](https://autum.com/) - Movie / TV Recommendations
 * [Suggestream](https://suggestream.com/) - Movies / TV Recommendations 
-* [BestSimilar](https://bestsimilar.com/) - Movie Recommendations 
+* [BestSimilar](https://bestsimilar.com/) - Movie Recommendations
+* [Taste.io](https://www.taste.io/) - Movie Recommendations
 * [Movie-Map](https://www.movie-map.com/) - Movie Recommendations
 * [GNOD](https://www.gnod.com/) - Movie Recommendations
 * [Movies Capstone Project](https://github.com/rounakbanik/movies) - Movie Recommendations 
@@ -913,7 +920,7 @@
 * [TV Chart](https://tvchart.benmiz.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode Rating Graphs
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - Greatest 100 Lists
 * [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Netflix TV Show / Movie Recommendations 
-* [What's on Netflix](https://www.whats-on-netflix.com/library/) - Browse Netflix Library
+* [What's on Netflix](https://www.whats-on-netflix.com/library/) or [Flixable](http://flixable.co/) - Browse Netflix Library
 * [Netflix Top 10](https://top10.netflix.com/) - Netflix Most-Watched Chart
 * [Netflix Codes](https://www.netflix-codes.com/) - Netflix Category Codes
 * [ReelScary](http://www.reelscary.com/) - Movies Rated by Scariness
@@ -1037,7 +1044,7 @@
 * [mkv-extract](https://qgustavor.github.io/mkv-extract/) - Extract Subtitles from MKV Files
 * [VideoSubFinder](https://sourceforge.net/projects/videosubfinder/) - Hardcoded Subtitle Extractor
 * [Subtitling Guide](https://baechusquad.download/guide/) - Subtitling Guide
-* [YukiSubs Guides](https://yukisubs.wordpress.com/guides/) - Fansubbing & Encoding Guides
+* [YukiSubs Guides](https://yukisubs.wordpress.com/guides/), [Fansub Guide](https://unanimated.github.io/guides.htm) or [Fansubbing Guide](https://guide.encode.moe/) - Fansubbing & Encoding Guides
 
 ***
 
@@ -1053,6 +1060,7 @@
 * [/r/SceneReleases](https://www.reddit.com/r/SceneReleases/) - Untouched Scene Release Tracker
 * [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - Web Video Viewer / Manager
 * [CastNow](https://github.com/xat/castnow) - Chromecast Command Line Player
+* [LonelyScreen](https://www.lonelyscreen.com/) - Airplay Receiver
 * [RunPee](https://runpee.com/) - Best Movie Break Times
 * [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - Watch, download and Organize public video URLs
 * [GoGetSpoiled](https://gogetspoiled.com/), [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - Movie Spoilers 
