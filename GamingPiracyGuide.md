@@ -194,6 +194,7 @@
 * [datcheck](https://github.com/pkos/datcheck) - Compare No-Intro / Redump .DAT Files to ROM or Disc Collection 
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
 * [WBFStoISO](http://www.wbfstoiso.com/) - WBFS to ISO Converter
+* [Batch CIA 3DS Decryptor](https://gbatemp.net/threads/batch-cia-3ds-decryptor-a-simple-batch-file-to-decrypt-cia-3ds.512385/) - Decrypt 3DS Files
 * [Cemu Guide](https://cemu.cfw.guide/) - Cemu & BOTW Optimization Guide
 * [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
 * [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) / [2](https://docs.google.com/document/d/1weVLWey3RePzn8LubFRFHRVkoczCbLkvSf8fNfp1yZ0/edit) / [3](https://github.com/PrincessAkira/road-to-yuzu-without-switch) - Yuzu Emulator Setup Guide
@@ -283,6 +284,7 @@
 * [File-Hunter](https://www.file-hunter.com/) - MSX / Amiga Browser Emulator
 * [MSXGamesWorld](https://www.msxgamesworld.com/) - MSX Browser Emulator
 * [C64Online](https://c64online.com/) - C64 Browser Emulator
+* [Mega Man Games](https://www.megamangames.net/) - Mega Man Browser Emulator
 * [OpenBOR](https://github.com/DCurrent/openbor) or [Mugen](https://web.archive.org/web/20150209191723/http://www.elecbyte.com/mugen) - 2D Fighting Game Emulator
 * [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
 
@@ -356,7 +358,7 @@
 * [Aleph One](https://alephone.lhowon.org/) - Open-Source Marathon Continuation 
 * [Powerslave EX](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_powerslave_ex) - Powerslave PC Port 
 * [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) - Driver 2 PC Port
-* [Megaman 2.5D](http://petersjostrand.com/) - Multiplayer Megaman
+* [Megaman 2.5D](http://petersjostrand.com/) - Multiplayer Mega Man
 * [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
 * [EDuke32](https://www.eduke32.com/) - Duke Nukem 3D Source Port
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
@@ -486,6 +488,7 @@
 * [Synesthesia in Space](http://synesthesiagame.com/) - Puzzle Platformer
 * [Tales of Dorime](https://dorime.udany.net/) - 2D Platformer
 * [3rd World Farmer](https://3rdworldfarmer.org/) - Farm Sim
+* [Sim CB](https://benoitessiambre.com/macro.html) - Central Bank Sim
 * [Operius](https://mors-games.itch.io/operius) - Space Shooter
 * [Orbity](https://orbity.io/game.php) - Space Ship Launching Game 
 * [Clicking Bad](http://clickingbad.nullism.com/) - Clicker Game / Become Walter White 
@@ -520,7 +523,8 @@
 * [Doodle Champion Island Games!](https://www.google.com/) - Olympics JRPG Game
 * [Impossible Rush](http://tanksw.com/impossible-rush/) - Reflex Testing Game
 * [MousePoint](https://creativetechguy.com/mousepoint) - Mouse Pointing Game
-* [FindTwin](https://github.com/klimaleksus/FindTwin) - Find the Twins 
+* [FindTwin](https://github.com/klimaleksus/FindTwin) - Find the Twins
+* [Spot the Differences](https://www.spotthedifference.com/) - Find the Differences
 * [Find the Invisible Cow](http://www.findtheinvisiblecow.com/) - Find an Invisible Cow with Sound
 * [Alternate History Simulator](http://abw.blue/) - Write Alternate History 
 * [NationStates](https://www.nationstates.net/) - Nation Simulation Game 
@@ -538,6 +542,7 @@
 
 ## ▷ Multiplayer
 
+* **[EagleCraft](https://eaglercraft.us/)** - Multiplayer Browser Minecraft
 * **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS / [Market Ping](https://yee.how/market-ping/) / [Client](https://client.cuffuffles.dev/) / [Optimal Settings](https://rentry.co/krunkersettings)
 * **[DelugeRPG](https://www.delugerpg.com/)** or [Pokemon Legends](https://www.pokemongods.com/) - Pokemon MMO
 * **[Pokemon Showdown](https://pokemonshowdown.com/)** - Online Pokemon Battles 
@@ -678,12 +683,13 @@
 * [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * [GuessMe!](https://cer0zz.itch.io/guessme) - Guess Answers
 * [GeoGuessr](https://www.geoguessr.com/), [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Game / [Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) / [Twitch Chat Bot](https://chatguessr.com/)
+* [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
 * [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
 * [WTM](https://whatthemovie.com/) - Movie Guessing Game
 * [Heardle](https://www.heardle.app/) - Song Guessing Game 
 * [LanguageGuesser](https://languageguesser.com/) - Guess Music Video Languages 
 * [Emoji Dingbats](https://emoji-dingbats.herokuapp.com/) - Emoji Dingbat Game
-* [The Higher Lower Game](http://www.higherlowergame.com/) - Guess What's Googled More
+* [The Higher Lower Game](http://www.higherlowergame.com/) or [GoogleFued](https://googlefeud.com/) - Guess What's Googled More
 * [Guess The Price](https://guesstheprice.net/) - Price Guessing Game 
 * [Approved, or Not Approved?](https://approvednotapproved.com/) - Approved Advertising Guessing Game
 * [damn.dog](https://damn.dog/) - wikiHow Guessing Game
@@ -701,6 +707,8 @@
 * [Flash Games Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_flash_games_collection) - Archive 
 * [ClassicGames.rar](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_classicgames.rar) - Archive / pw:paluch
 * [Flash by Night](http://flashbynight.com/) - Browser Games
+* [FlashGamesArchive](http://www.flashgamearchive.com/playable/) - Browser Games
+* [Flash Arch](https://flasharch.com/en) - Browser Games
 * [The Flash Emulation Repair Shop](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_flash_emulation_repair_shop) - Flash Games Under Repair
 * [Arcade Prehacks](http://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
 * [How-to Play Flash Games](https://rentry.co/oc4wc) - Browser Flash Game Tutorial
@@ -730,14 +738,16 @@
 * [Backloggd](https://www.backloggd.com/) - Video Game Database
 * [Games Database](https://www.gamesdatabase.org/) - Video Game Database 
 * [LaunchBox Games Database](https://gamesdb.launchbox-app.com/) - Video Game Database 
-* [IGDB](https://www.igdb.com/) - Video Game Database 
+* [IGDB](https://www.igdb.com/) - Video Game Database
 * [We The Players](https://wetheplayers.com/) - Video Game Database
 * [Rawg](https://rawg.io/) - Video Game Database
 * [Moby Games](https://www.mobygames.com/) - Video Game Database 
 * [rate.house](https://rate.house/) - Video Game Database
 * [Backloggery](https://backloggery.com/) - Video Game Database
 * [listal](https://www.listal.com/) - Video Game Database
-* [HOTU](http://www.homeoftheunderdogs.net/) - Rare Video Game Database
+* [Co-Optimu](https://www.co-optimus.com/) - Co-Op Game Database
+* [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) - Local Multiplayer Game Database
+* [HOTU](http://www.homeoftheunderdogs.net/) - Rare Game Database
 * [GameClassification](https://gameclassification.com/) - Search Games by Classifications
 * [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - Find Similar Games
 * [Random Game Bookmark Script](https://pastebin.com/JtmBQZbL) - Find Random Games
