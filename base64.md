@@ -806,7 +806,7 @@ pass: paluch
 
 #### Google TeamDrives
 
-`aHR0cHM6Ly9vbmVoYWNrLnVzL3QvdGRzLXdpdGgtdGJzLW9mLW1vdmllcy13ZWItc2VyaWVzLWNvdXJzZXMtZ2FtZXMtZXRjLzc3NjI4`
+`aHR0cHM6Ly9vbmVoYWNrLnVzL3QvdGRzLXdpdGgtdGJzLW9mLW1vdmllcy13ZWItc2VyaWVzLWNvdXJzZXMtZ2FtZXMtZXRjLzc3NjI4Cmh0dHBzOi8vdC5tZS9UZWFtRHJpdmVz`
 
 *** 
 
