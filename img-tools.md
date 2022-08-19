@@ -106,7 +106,7 @@
 
 # ► Image Generation
 
-* **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk), [Generative Engine](https://experiments.runwayml.com/generative_engine/), [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb) or [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot) - AI Image Generator
+* **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk), [Generative Engine](https://experiments.runwayml.com/generative_engine/), [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb), [Midjourney](https://www.midjourney.com/) or [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot) - AI Image Generator
 * [hypnogram](https://hypnogram.xyz/), [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent) or [NeuralBlender](https://neuralblender.com/) - AI Art Generator
 * [Random Art](http://www.random-art.org/) - Random Art Generator
 * [Chaos Machine](https://chaosmach.com/) - Random Graphic Generator
@@ -156,6 +156,7 @@
 * [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
 * [Flow Field](https://github.com/romellogoodman/flow-field.js) - Flow Field Generator
 * [Trianglify.io](https://trianglify.io/) - Generate low-poly Textures
+* [Stooge](https://stooge.me/) - Comic Creator
 * [BannerEasy](https://www.bannereasy.com) or [Bannery](https://bannery.app/) - Create Custom Banners
 * [SocialBanner](https://www.social-banner.live/) or [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Creator
 * [CoverView](https://coverview.vercel.app/) - Blog Banner Creator
@@ -214,6 +215,7 @@
 * [Gifski](https://gif.ski/) - GIF Encoder
 * [Among-Us-Dumpy-Gif-Maker](https://dumpy.t1c.dev/) - Make Dumpy Among us GIFs / [GitHub](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)
 * [Crisp GIF Guide](https://imgur.com/gallery/02aYs) - How-To Make 60 FPS GIFs
+* [Crayon](https://designstripe.com/crayon) - Animate SVGs
 
 ***
 
@@ -240,7 +242,8 @@
 * [World Draw](https://world-draw.appspot.com/draw) - Draw the World Together
 * [Monsterland](https://www.monsterland.net/) - Collaborative Monster Drawing 
 * [LizardPaint](https://lizardrive.itch.io/lizardpaint) - Sega / Megadrive Painting
-* [inkscape](https://inkscape.org/), [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q), [Sketch Toy](https://www.sketchtoy.com/), [Sketchbook](https://www.sketchbook.com/), [Webchemy](https://webchemy.org/) / [GitHub](https://github.com/bitbof/webchemy), [tldraw](https://www.tldraw.com/), [Sketchpad](https://sketchpad.app/) / [2](https://sketch.io/sketchpad) or [Excalidraw](https://excalidraw.com/) - Drawing / Sketching Tools 
+* [inkscape](https://inkscape.org/), [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q), [Sketch Toy](https://www.sketchtoy.com/), [Sketchbook](https://www.sketchbook.com/), [Webchemy](https://webchemy.org/) / [GitHub](https://github.com/bitbof/webchemy), [tldraw](https://www.tldraw.com/), [Sketchpad](https://sketchpad.app/) / [2](https://sketch.io/sketchpad) or [Excalidraw](https://excalidraw.com/) - Drawing / Sketching Tools
+* [Virtual Graph Paper](https://virtual-graph-paper.com/) - Grid Sketch Tool
 * [Noodle](https://hundredrabbits.itch.io/noodle) - 1bit Sketch Tool
 * [AutoDraw](https://www.autodraw.com/) - Machine Learning Drawing Tool 
 * [MonsterMash](https://monstermash.zone/) - Sketch Based Modeling & Animation Tool
@@ -319,7 +322,7 @@
 * [Worldvectorlogo](https://worldvectorlogo.com/), [PNGGrid](https://pnggrid.com/), [Logos & Badges Bundle](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_logos_.26amp.3B_badges_bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [logospire](http://logospire.com/), [logotalkz](http://www.logotalkz.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logotouse](https://www.logotouse.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles
 * [Replacement Sky](https://replacement-sky.com/) - Skies for Photoshop
-* [AmbientCG](https://ambientcg.com/), [Lost and Taken](https://lostandtaken.com/), [3D textures](https://icons8.com/l/3d-textures/), [Textureking](https://www.textureking.com/), [Texture Labs](https://texturelabs.org/), [Transparent Textures](https://www.transparenttextures.com/), [Texture Club](https://www.sketchuptextureclub.com/) or [Texture Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_texture_collection) - Download Textures
+* [AmbientCG](https://ambientcg.com/), [TextureTown](https://textures.neocities.org/), [Lost and Taken](https://lostandtaken.com/), [3D textures](https://icons8.com/l/3d-textures/), [Textureking](https://www.textureking.com/), [Texture Labs](https://texturelabs.org/), [Transparent Textures](https://www.transparenttextures.com/), [Texture Club](https://www.sketchuptextureclub.com/) or [Texture Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_texture_collection) - Download Textures
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) or [Pattern Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pattern_collection) - Download Patterns
 * [Watercolor Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_watercolor_collection) - Download Watercolor Pictures
 * [Google Photos Plus](https://github.com/anamritraj/google-photos-plus) - Download Google Photos in Better Quality
@@ -367,7 +370,8 @@
 * [posemy](https://app.posemy.art/), [quickposes](https://quickposes.com/en) or [justsketch](https://app.justsketch.me/) - Posing Tools
 * [PoseManiacs](https://www.posemaniacs.com/) - Pose References
 * [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator
-* [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator 
+* [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator
+* [Plantarium](https://plant.jim-fx.com/) - 3D Plant Creator
 * [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - AI Art Generation Guide
 * [vrn](https://cvl-demos.cs.nott.ac.uk/vrn/) - 3D Face Reconstruction 
 * [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
@@ -384,6 +388,7 @@
 
 * **[Multi-Tool Image Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_image_tool_sites)** - Multiple Image Tools
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
+* [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
 * [Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes) - Color Scheme / Palette Tools
 * [Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers) - Extract Color from Pictures / Webpages
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - Image Color Summarizer
