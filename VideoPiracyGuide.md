@@ -19,18 +19,18 @@
 
 ## ▷ Dedicated Hosts
 
+* **[Oligopoly](https://olgply.com/)** - Movies / TV
 * **[Soap2Day](https://soapgate.org/)** - Movies / TV
 * **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
-* **[Oligopoly](https://olgply.com/)** - Movies / TV
-* **[Ask4movies](https://ask4movie.io/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
+* **[Mov.onl](https://www.mov.onl/)** - Movies / TV
+* **[Movies.cf](https://movies.cf/Landing)** - Movies
 * **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
+* **[Ask4movies](https://ask4movie.io/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
 * [PtFlixMovies](https://ptflixmovies.xyz/) - Movies / TV / Anime
 * [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [C1NE](https://c1ne.co/) - Movies / TV
-* [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - Movies / TV
 * [OpenloadMovies](https://openloadmov.net/) or [Yify TV](https://yify.plus/ ) - Movies / TV
-* [Movies.cf](https://movies.cf/Landing) - Movies
-* [Mov.onl](https://www.mov.onl/) - Movies / TV
+* [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - Movies / TV
 * [Tubi](https://tubitv.com) - Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
 * [Plex](https://watch.plex.tv/) - Movies / TV
 * [NetU](https://netu.io/view_page.php?pid=4) - Movies / TV / / Anime / [Search](https://i.imgur.com/SiYyosZ.mp4) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)
