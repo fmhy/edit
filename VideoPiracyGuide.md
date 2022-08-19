@@ -26,7 +26,7 @@
 * **[Movies.cf](https://movies.cf/Landing)** - Movies
 * **[FreeTubeSpot](https://www.freetubespot.com/)** - Movies
 * **[Ask4movies](https://ask4movie.io/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
-* [LookMovie](https://lookmovie2.to/) - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
+* **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
 * [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [C1NE](https://c1ne.co/) - Movies / TV
 * [PtFlixMovies](https://ptflixmovies.xyz/) - Movies / TV / Anime
