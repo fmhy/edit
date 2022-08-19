@@ -131,6 +131,7 @@
 * [PhoenixOS Darkmatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)
 * [ApkOnline](https://www.apkonline.net/) - Online Android Emulator / [Extension](https://chrome.google.com/webstore/detail/apkonline/lnhnebkkgjmlgomfkkmkoaefbknopmja)
 * [BlueStacks X](https://x.bluestacks.com/) - Cloud-Based Android Gaming
+* [AOPC](https://aopc.dev/) - Android Emulator Forums
 
 ***
 
