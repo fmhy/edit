@@ -24,6 +24,7 @@
 * **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
 * **[Mov.onl](https://www.mov.onl/)** - Movies / TV
 * **[Movies.cf](https://movies.cf/Landing)** - Movies
+* **[TheFlix](https://theflix.to/)** - Movies / TV
 * **[FreeTubeSpot](https://www.freetubespot.com/)** - Movies
 * **[Ask4movies](https://ask4movie.io/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
 * **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
@@ -46,9 +47,9 @@
 * [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - Movies / TV
 * [KissKH](https://kisskh.me/Explore?type=4) - Movies / TV / Anime
 * [123MoviesGoTo](https://123moviesgoto.com/) -  Movies / TV
-* [123MoviesFree](https://123moviesfree.net/) - Movies / TV / Anime 
-* [Trailers.to](https://trailers.to/) - Movies / TV / [Bypass Quota](https://openvideofs.github.io/)
+* [123MoviesFree](https://123moviesfree.net/) - Movies / TV / Anime
 * [StreamLord](http://www.streamlord.com/) - Movies / TV
+* [Trailers.to](https://trailers.to/) - Movies / TV / [Bypass Quota](https://openvideofs.github.io/)
 * [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://i.imgur.com/Ij8muns.mp4)
 * [9PM](https://9pm.to/) - Movies / TV
 * [Goojara](https://www.goojara.to/), [2](https://goojara.club/) - Movies / TV / Anime
@@ -60,7 +61,6 @@
 * [Dulu](https://www.dulu.to/) - Movies / TV / Anime 
 * [AllMoviesForYou](https://allmoviesforyou.net/) - Movies / TV 
 * [MoviesDownloadHub](https://moviesdownloadhub.com/category/hollywood/) - Movies / TV
-* [TheFlix](https://theflix.to/) - Movies / TV
 * [1movies](https://1movies.life/), [2](https://real-primewire.club/), [3](https://couchtuner.fashion/), [4](https://ww2.new-primewire.com/) - Movies / TV / Anime
 * [Moviehdkh](https://www.moviehdkh.com/) - Movies 
 * [Vmovee HD](https://vmoveehd.com/) - Movies / TV
