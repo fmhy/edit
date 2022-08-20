@@ -294,12 +294,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 ***
 
-#### Misc Windows
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTVRS3p5cjFPeGRkaDdDTGpWV2tEMDZTeG02RTJZR0ht`
-
-***
-
 #### Setlists
 
 `aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMTNCODIzdWt4ZFZNb2Nvd28xczVYblQzdHpjaU9mcnVoVVZlUEVOS2MwMW8v`
