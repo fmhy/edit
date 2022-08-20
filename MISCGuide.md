@@ -259,7 +259,7 @@
 * [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
 * [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
 * [DeviantArt](https://www.deviantart.com/) or [ArtStation](https://www.artstation.com/) - User-Made Art
-* [](https://swsteffes.itch.io/different-strokes) - Online User-Made Art Gallery
+* [Different Strokes](https://swsteffes.itch.io/different-strokes) - Online User-Made Art Gallery
 * [SfwChan](http://boards.swfchan.net/) - SFW Archive
 * [SakugaBooru](https://www.sakugabooru.com/) - Image Booru
 * [IndieGameBooru](https://indiegame.booru.org/) - Indie Game Image Booru
