@@ -570,7 +570,7 @@
 * [Chinese Flashcards](http://www.chineseflashcards.io/) - Chinese Flashcards
 * [LearningSwedish](https://learningswedish.se/) - Swedish Learning Course
 * [Urdu Resource List](https://docs.google.com/document/d/1GRTK_E0YGybMNYZjFToM40sOHNkR1NJXc_dL8HW2Q_0/) or [UrduNotes](https://urdunotes.com/) - Urdu Learning Resources
-* [Urdupod101](ttps://www.urdupod101.com/blog/2021/03/18/urdu-grammar-overview/) - Urdu Grammar Overview / [Video](https://youtu.be/X5J_kXigPWE)
+* [Urdupod101](https://www.urdupod101.com/blog/2021/03/18/urdu-grammar-overview/) - Urdu Grammar Overview / [Video](https://youtu.be/X5J_kXigPWE)
 * [Urdu Grammar](http://ilovelanguages.org/urdu_grammar.php) - Urdu Grammar Lessons
 * [youglish](https://youglish.com/) - YouTube Word Pronunciations 
 * [ASL Resources](https://t.me/ASLresources) - American Sign Language Resources / Telegram 
