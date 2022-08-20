@@ -170,7 +170,7 @@
 * [123MoviesJR](https://123moviesjr.cc/) - Movies / TV
 * [123Moviesd](https://123moviesd.com/) - Movies / TV
 * [123MoviesFun](https://123moviesfun.is/) - Movies / TV
-* 123MoviesOnline[](https://123moviesonline.one/) - Movies / TV
+* [123MoviesOnline](https://123moviesonline.one/) - Movies / TV
 * [0123movies](https://watch0123movies.org) - Movies / TV
 * [FSAPI](https://fsapi.xyz/) - Movies / TV / Anime / API
 * [2embed](https://www.2embed.to/) - Movies / TV / Anime / API
