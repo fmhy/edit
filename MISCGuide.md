@@ -13,10 +13,10 @@
 
 * **[FMHY Guides](https://fmhy.tk/guides)** or [Mega Rentry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mega_rentry) - List of Guides
 * **[/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index)**, [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/) - /r/Piracy Index / [Lemmy Backup](https://lemmy.ml/c/piracy)
-* **[Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)**, [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
 * **[/r/PiratedGames Megathread](https://rentry.org/pgames-mega-thread)** - Trusted Game Download Sites / [Discord](https://discord.gg/dZWwhUy)
 * **[/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread)** - Trusted Software Download Sites
 * **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** or [/r/Stumbledon](https://www.reddit.com/r/Stumbledon/) - Helpful / Fun Sites
+* **[Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)**, [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
 * **[Esoterica Avenue](https://ori5000.github.io/)** - Software & Games Megathread / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * **[WebOas.is](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - Startpage / Site Index / [Source Code](https://pastebin.com/CczqreS4)
 * [Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - Find Software / App Alternatives 
