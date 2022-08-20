@@ -12,7 +12,7 @@
 # ► Indexes
 
 * **[FMHY Guides](https://fmhy.tk/guides)** or [Mega Rentry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mega_rentry) - List of Guides
-* **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/index)**, [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/) - /r/Piracy Index / [Lemmy Backup](https://lemmy.ml/c/piracy)
+* **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/index)**, [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/) - /r/Piracy Index
 * **[/r/PiratedGames Megathread](https://rentry.org/pgames-mega-thread)** - Trusted Game Download Sites / [Discord](https://discord.gg/dZWwhUy)
 * **[/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread)** - Trusted Software Download Sites
 * **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** or [/r/Stumbledon](https://www.reddit.com/r/Stumbledon/) - Helpful / Fun Sites
@@ -119,7 +119,7 @@
 # ► Piracy Discussion
 
 * **[/m/piracy](https://www.reddit.com/user/nbatman/m/piracy/)**, [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) - Piracy Multireddit
-* **[/r/piracy](https://reddit.com/r/piracy)** - [Backup](https://github.com/nid666/PiracyArchive)
+* **[/r/piracy](https://reddit.com/r/piracy)** - [Lemmy Backup](https://lemmy.ml/c/piracy), [2](https://github.com/nid666/PiracyArchive)
 * **[/r/PiratedGames](https://www.reddit.com/r/PiratedGames/)** - Gaming / [Discord](https://discord.gg/dZWwhUy)
 * **[OneHack](https://onehack.us/)** - Piracy Discussion / Sharing
 * [/r/SoftwarePirates](https://reddit.com/r/SoftwarePirates) - Software Piracy Discussion
