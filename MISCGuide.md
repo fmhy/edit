@@ -12,7 +12,7 @@
 # ► Indexes
 
 * **[FMHY Guides](https://fmhy.tk/guides)** or [Mega Rentry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mega_rentry) - List of Guides
-* **[/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index)**, [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/) - /r/Piracy Index / [Lemmy Backup](https://lemmy.ml/c/piracy)
+* **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/index)**, [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/) - /r/Piracy Index / [Lemmy Backup](https://lemmy.ml/c/piracy)
 * **[/r/PiratedGames Megathread](https://rentry.org/pgames-mega-thread)** - Trusted Game Download Sites / [Discord](https://discord.gg/dZWwhUy)
 * **[/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread)** - Trusted Software Download Sites
 * **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** or [/r/Stumbledon](https://www.reddit.com/r/Stumbledon/) - Helpful / Fun Sites
