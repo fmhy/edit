@@ -813,7 +813,7 @@ Automated Incident Response and Forensics Framework
 * **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [awesome-lis](https://github.com/topics/awesome-list) or [awesome-github](https://github.com/fffaraz/awesome-github) - List Indexes
 * [GitLab](https://about.gitlab.com/), [FSFE](https://git.fsfe.org/) or [NotABug](https://notabug.org/) - GitHub Alternatives
 * [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
-* [Git Explorer](https://gitexplorer.com/) or [Git Commands](https://gabrieldejesus.github.io/git-commands/), [2](https://github.com/gabrieldejesus/git-commands) - Git Command List
+* [Git Explorer](https://gitexplorer.com/), [WTG](https://wtg.nezia.xyz/) or [Git Commands](https://gabrieldejesus.github.io/git-commands/), [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists / Search
 * [GitHub Desktop](https://desktop.github.com/) or [Tower](https://www.git-tower.com/) - GitHub Client
 * [GitHub.Dev](https://github.dev/) - GitHub Web App
 * [refined-github](https://github.com/refined-github/refined-github) or [Ungit](https://github.com/FredrikNoren/ungit) - Improved GitHub Interface
@@ -1098,6 +1098,7 @@ Automated Incident Response and Forensics Framework
 * [hoppscotch](https://hoppscotch.io/) - API Development Ecosystem / [GitHub](https://github.com/hoppscotch/hoppscotch)
 * [ReDoc](https://github.com/Redocly/redoc) - Generate API Documentation
 * [Mockable](https://www.mockable.io/) - Mock APIs
+* [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) - Fake APIs
 * [RandomAPI](https://randomapi.com/) - Generate Fake Data for Populating Mockups 
 * [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator 
 * [Pipedream](https://pipedream.com/) - Connect APIs / [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)
