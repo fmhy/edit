@@ -290,7 +290,7 @@
 * [DJV](https://darbyjohnston.github.io/DJV/) - Professional Video Review Player
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - SWF to Video Converter
 * [MotionFactory](https://www.motionfactory.io/) - Video Editing Workflow Manager
-* [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/), [Live Draw](https://github.com/antfu/live-draw) or [Pensela](https://github.com/weiameili/Pensela) - Screen Annotation 
+* [ppInk](https://github.com/PubPub-zz/ppInk/), [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/), [Live Draw](https://github.com/antfu/live-draw) or [Pensela](https://github.com/weiameili/Pensela) - Screen Annotation 
 * [VidGrid](https://vidgrid.tk.gg/) - View Multiple Streams Simultaneously
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) or [OBS Ninja](https://obs.ninja/) - Streaming Tools Indexes
 * [SteamLabs](https://streamlabs.com/) - Streaming Tools
@@ -554,7 +554,7 @@
 * [Audiogrep](http://antiboredom.github.io/audiogrep/), [Tune Transcriber](https://www.tunetranscriber.com/) or [mp4grep](https://github.com/o-oconnell/mp4grep) - Audio Transcribing / [GitHub](https://github.com/antiboredom/audiogrep)
 * [FastHub](https://fasthub.net/) - Text to Speech Translation Tool
 * [Praat](https://www.fon.hum.uva.nl/praat/) - Analyze, Synthesize & Manipulate Speech / [GitHub](https://github.com/praat/praat)
-* [Splitter](https://www.splitter.ai/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
+* [Splitter](https://www.splitter.ai/), [splitmysong](https://www.splitmysong.com/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
 * [Remove Vocals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remove_vocals) - Remove Vocal Tracks
 * [Acapella-Extractor](https://www.acapella-extractor.com/) - Remove Background Tracks from Songs
 * [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) / [CLI](https://github.com/IniasP/rnnoise-cli) - Noise Suppression Tools
@@ -569,6 +569,7 @@
 * [inAudible](https://github.com/rmcrackan/inAudible) - Audible to MP3 converter
 * [Soundiiz](https://soundiiz.com/) - Transfer Playlists Between Streaming Platforms
 * [Suda](https://github.com/yaronzz/Suda) - Playlist Manager
+* [RipGuide](https://highquality.rip/ripguide/) - Video Game Audio Ripping Guide
 * [Exact Audio Copy](https://www.exactaudiocopy.de/) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper 
 * [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) or [AutoChords](https://autochords.com/) - Chord Progression Generators
 * [HookTheory](https://www.hooktheory.com/trends) - Chord Progression Library 
@@ -585,7 +586,8 @@
 * [librosa](https://librosa.org/) - Audio Analysis / Information Retrieval / [Github](https://github.com/librosa/librosa)
 * [Auphonic](https://auphonic.com/) - Audio Leveler
 * [LightHost](https://github.com/rolandoislas/LightHost) - VST / AU Host
-* [OPUS](https://opus-codec.org/) - Audio Codec / [Bitrate Optimization](https://github.com/master-of-zen/BOPUS) 
+* [OPUS](https://opus-codec.org/) - Audio Codec / [Bitrate Optimization](https://github.com/master-of-zen/BOPUS)
+* [AirPods Dirty Secret](https://kenp.io/airpods-dirty-secret/) - AirPod Repair Directory
 
 ***
 
@@ -1340,6 +1342,7 @@
 * [TeleWebGram](https://telewebgram.com/) - Online Telegram Channel Viewer
 * [Rose](https://t.me/MissRose_bot) - Telegram Group Manager
 * [TGCF](https://github.com/aahnik/tgcf) - Telegram Message Forwarding
+* [GoriThemes](https://t.me/GoriThemes) - Telegram Themes
 * [Callmebot](https://www.callmebot.com/) - Trigger Voice Calls or Chats
 * [Skeddy](https://skeddy.me/) - Telegram Reminder Bot
 * [clonebot](https://github.com/m4mallu/clonebot) - Clone Media from Chats
@@ -1691,6 +1694,7 @@ Twitch Stream Tracker
 * [NVIDIA Control Panel](https://rentry.co/gaydia) - NVIDIA Control Panel Without MS Store
 * [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) or [NVSlimmer](https://majorgeeks.com/files/details/nvslimmer.html) - Customize NVIDIA Driver Packages
 * [Nvidia-Patch](https://github.com/keylase/nvidia-patch) - NVENC & NvFBC Patches
+* [NVIDIAOptimize](https://rentry.co/NVIDIAOptimize) - Debloat NVIDIA Drivers
 * [AMDDebloat](https://rentry.co/AMDDebloat) or [RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Debloat AMD GPU Drivers
 * [Parted Magic](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_parted_magic) - Disk Management Tool
 * [Disk Usage Analyzers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_disk_usage_analyzers) - View & Manage Files on Disk
@@ -1738,11 +1742,12 @@ Twitch Stream Tracker
 * [BleachBit](https://www.bleachbit.org/) or [GlarySoft](https://www.glarysoft.com/) - Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect.  
 * [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) or [Autostart](https://github.com/snail007/autostart) - Change Startup Programs
 * [Remove Hidden Startup Programs](https://www.youtube.com/watch?v=sUXcMaP6wRQ) - How-to Remove Secret Startup Apps
-* [LaunchLater](https://github.com/jeffcox111/LaunchLater) - Deferred Automatic  App Startup
+* [LaunchLater](https://github.com/jeffcox111/LaunchLater) or [Startup Delayer](https://www.r2.com.au/page/products/show/startup-delayer/) - Delay Automatic App Startups
 * [DefaultProgramsEditor](https://defaultprogramseditor.com/) - File Association Editor
 * [RegExp](https://github.com/zodiacon/RegExp) or [Registry-Finder](https://registry-finder.com/) - Improved Registry Explorer
 * [Awesome Regex](https://github.com/aloisdg/awesome-regex) - Regex Resource Index
-* [Regex Hub](https://projects.lukehaas.me/regexhub/) - Useful Regex Patterns
+* [Regex Hub](https://projects.lukehaas.me/regexhub/) or [IHateRegex](https://ihateregex.io/) - Useful Regex Patterns
+* [Regex Generator++](http://regex.inginf.units.it/) or [Regex Generator](https://regex-generator.olafneumann.org/) - Regex Generators
 * [Desktop Management](https://github.com/DeveloperWOW64/deskmgr) - Improved Computer Management
 * [Open Shell](https://open-shell.github.io/Open-Shell-Menu/), [2](https://github.com/Open-Shell/Open-Shell-Menu), [ValliStart](https://github.com/Jax-Core/ValliStart) or [SystemTrayMenu](http://hofknecht.eu/systemtraymenu) / [GitHub](https://github.com/Hofknecht/SystemTrayMenu) - Improved Start Menu 
 * [UltraCopier](http://ultracopier.first-world.info/) - Improved File Copy Dialogs
@@ -2097,7 +2102,8 @@ Twitch Stream Tracker
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
 * [Recursive GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) or [GoIndex-Downloader](https://github.com/piyush2947/) - GoIndex to GDrive Downloader
 * [GDriveSearcherBot](https://github.com/TheHamkerCat/GdriveSearcherBot) - GDrive Search Bot
-* [gd-utils](https://github.com/roshanconnor123/gd-utils) / [2](https://nenokkadine.github.io/GD-Utils/) or [Bypass-GDrive](https://yuudrive.me/tools/bypass-gdrive) - Google Drive Limit Bypass 
+* [gd-utils](https://github.com/roshanconnor123/gd-utils) / [2](https://nenokkadine.github.io/GD-Utils/) or [Bypass-GDrive](https://yuudrive.me/tools/bypass-gdrive) - Google Drive Limit Bypass
+* [Google Service Accounts](https://teletype.in/@blooem/sa) - How-to Create Google Service Accounts
 * [G-Index](https://github.com/LeeluPradhan/G-Index), [Zyndex](https://zyndex.tk/), [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/cheems/goindex-extended) / [Themes](https://install.kenci.workers.dev/), [GDI](https://github.com/anymeofu/GDI), [GDIndex](https://github.com/maple3142/GDIndex), [libDrive](https://github.com/libDrive/heroku) or [gdrive-index](https://github.com/alx-xlx/gdrive-index) - Google Drive Index
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
 * [Extract_Zip](https://colab.research.google.com/drive/1L74g3bsV0YEMbDSUj4Kxrwi26mgjxVpp?usp=sharing) - Extract Zip Files in GDrive
