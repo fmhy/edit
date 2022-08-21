@@ -243,7 +243,7 @@
 * [Steamless](https://github.com/atom0s/Steamless) - DRM Remover
 * [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8 )
 * [Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack) - Auto Apply Goldberg & Steamless
-* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Steam DLC Unlocker / [Search](https://creamapidb.herokuapp.com/) / [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
+* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Steam DLC Unlocker / [Search](https://creamapidb.herokuapp.com/) / [Auto Setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521) / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
 * [Koalageddon](https://github.com/acidicoala/Koalageddon/) - DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay
 * [Get DLC from SteamDB](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837)
 * [Steamworkshop.download](http://steamworkshop.download/), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader), [ggntw](https://ggntw.com/steam), [Workshop Downloader](https://4hub.info/workshop-downloader/) or [steam-workshop-downloader](https://gramvio.com/steam-workshop-downloader/) - Steam Workshop File Downloaders
