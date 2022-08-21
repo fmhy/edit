@@ -303,6 +303,7 @@
 * [ScummVM](https://www.scummvm.org/) - Classic Graphical Adventure Game Engines
 * [Classic Game ROMs](https://sites.google.com/site/classicgameROMs/) - ROMs
 * [OldGamesDownload](https://oldgamesdownload.com/) - ROMs
+* [GetOldGames](https://getoldgames.com/) - ROMs
 * [NesFiles](https://www.nesfiles.com/) - ROMs / NES
 * [webnofrendo](https://zardam.github.io/webnofrendo/) - NES Numworks Emulator
 * [Old-Games.com](https://www.old-games.com/) - ROMs / PC / Amiga
@@ -314,6 +315,7 @@
 * [Zombs-Lair](https://www.zombs-lair.com/) - Retro Games
 * [RetroSpec](http://retrospec.sgn.net/) - Retro Games
 * [OldPCGaming](http://oldpcgaming.net/) - Retro PC Games
+* [~archive](http://websites.umich.edu/~archive/) - Retro PC / Mac Games
 * [MSXGamesWorld](https://msxgamesworld.com/index.php) or [MSXAbandonware](http://msxabandonware.com/en/home) - MSX Games 
 * [The Outdated Arcade](https://discord.gg/SPZpMpntj9) - Game Preservation Server 
 * [Japanese PC Compendium](http://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
