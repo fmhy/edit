@@ -17,6 +17,7 @@
 * **[/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread)** - Software Piracy Site Index
 * **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** or [/r/Stumbledon](https://www.reddit.com/r/Stumbledon/) - Helpful / Fun Sites
 * **[Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)**, [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
+* **[Champagne Wiki](https://rentry.org/champagne_wiki/)** - Piracy Index / [Guides](https://rentry.org/champagne_guides/)
 * **[Esoterica Avenue](https://ori5000.github.io/)** - Software & Games Megathread / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * **[WebOas.is](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - Startpage / Site Index / [Source Code](https://pastebin.com/CczqreS4)
 * [Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - Find Software / App Alternatives 
