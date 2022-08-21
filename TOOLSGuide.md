@@ -2103,7 +2103,7 @@ Twitch Stream Tracker
 * [Recursive GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) or [GoIndex-Downloader](https://github.com/piyush2947/) - GoIndex to GDrive Downloader
 * [GDriveSearcherBot](https://github.com/TheHamkerCat/GdriveSearcherBot) - GDrive Search Bot
 * [gd-utils](https://github.com/roshanconnor123/gd-utils) / [2](https://nenokkadine.github.io/GD-Utils/) or [Bypass-GDrive](https://yuudrive.me/tools/bypass-gdrive) - Google Drive Limit Bypass
-* [Google Service Accounts](https://teletype.in/@blooem/sa) - How-to Create Google Service Accounts
+* [Google Service Accounts](https://github.com/TheCaduceus/CloneBot_V2#-service-accounts), [2](https://teletype.in/@blooem/sa) - How-to Create Google Service Accounts
 * [G-Index](https://github.com/LeeluPradhan/G-Index), [Zyndex](https://zyndex.tk/), [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/cheems/goindex-extended) / [Themes](https://install.kenci.workers.dev/), [GDI](https://github.com/anymeofu/GDI), [GDIndex](https://github.com/maple3142/GDIndex), [libDrive](https://github.com/libDrive/heroku) or [gdrive-index](https://github.com/alx-xlx/gdrive-index) - Google Drive Index
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
 * [Extract_Zip](https://colab.research.google.com/drive/1L74g3bsV0YEMbDSUj4Kxrwi26mgjxVpp?usp=sharing) - Extract Zip Files in GDrive
