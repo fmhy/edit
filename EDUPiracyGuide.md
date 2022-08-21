@@ -376,7 +376,7 @@
 * **[Our World in Data](http://ourworldindata.org/)** - World Problem Database
 * [Climate Data](https://climate-data.org/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
 * [Nextstrain](https://nextstrain.org/) - Pathogen Evolution Tracking 
-* [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - COVID Data / Calculator
+* [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) or [Corona Hunt](https://coronahunt.app/) - COVID Data
 * [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) - Public Datasets
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
 * [If It Were My Home](https://www.ifitweremyhome.com/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
@@ -825,6 +825,7 @@
 * [P2PU](https://www.p2pu.org/) - Join Learning Groups Using Free Courses
 * [CollegeComendium](https://collegecompendium.goldin.io/) - Free Computer Science Classes
 * [Reddit-wiki-programming](https://github.com/antariksh17/Reddit-wiki-programming) - Computer Science Learning Resources
+* [CompSciLib](https://www.compscilib.com/) - Computer Science Tools
 * [Niche](https://www.niche.com/) or [Top Universities](https://www.topuniversities.com/) - University & School Rankings
 * [Find Study Now](https://find-study-now.com/) - School Search
 * [BachelorStudies](https://bachelorstudies.com/) - Bachelor Degree Search 
