@@ -605,12 +605,12 @@
 * [RIPE](https://www.ripe.net/publications/news/latest-news) - News
 * [ICANN](https://www.icann.org/) - News
 * [TheConversation](https://theconversation.com/) - News
-* [Reuters](https://www.reuters.com/) - News 
+* [Reuters](https://www.reuters.com/) - News
+* [Good News Network](https://www.goodnewsnetwork.org/) - Uplifting News
 * [Top Stories](https://murmel.social/top) - Top Twitter News  
 * [TXT Radio](http://beta.txtradio.live/) - News Text Radio
 * [PublicAlerts](https://google.org/publicalerts) - Important News / Disaster Alerts
 * [Riot Archive](https://riotarchive.com/) - Riot / Protest Videos
-* [Corona Hunt](https://coronahunt.app/) - Coronavirus Stats
 * [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Ars Technica](https://arstechnica.com/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/), [Toms Hardware](https://www.tomshardware.com/), [Overclock3d](https://overclock3d.net/) or [Slashdot](https://slashdot.org/) - Tech News
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
 * [Liliputing](https://liliputing.com/) - Linux Mobile News
@@ -871,7 +871,7 @@
 * [Atlas Obscura](https://www.atlasobscura.com/) - Travel Maps & Guides
 * [Borderless](https://borderless.safetywing.com/) - Travel Restriction Map
 * [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Site Maps
-* [Roadside America](https://www.roadsideamerica.com/) - Roadside Attraction Maps & Guides
+* [Roadside America](https://www.roadsideamerica.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Maps & Guides
 * [FreeCampSites](https://freecampsites.net/) - Camp Site Map
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
 * [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - Earth Viewer
@@ -1375,7 +1375,7 @@
 
 * **[Userscript Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_userscript_managers)**
 * **[Userscripts Guide](https://rentry.co/userscript-guide)**
-* **[Greasy Fork](https://greasyfork.org/en)**, [Userscripts](https://userscripts-mirror.org/) or [OpenUserJS](https://openuserjs.org/) - Install Userscripts / [Change Theme](https://greasyfork.org/en/scripts/4336) / [Remove Crap](https://greasyfork.org/en/scripts/12179-greasyfork-bull-filter)
+* **[Greasy Fork](https://greasyfork.org/en)** / [Enhancements](https://greasyfork.org/en/scripts/431584-greasy-fork#greasy-fork), [Userscripts](https://userscripts-mirror.org/) or [OpenUserJS](https://openuserjs.org/) - Install Userscripts / [Change Theme](https://greasyfork.org/en/scripts/4336) / [Remove Crap](https://greasyfork.org/en/scripts/12179-greasyfork-bull-filter)
 * [Awesome Userscripts](https://github.com/bvolpato/awesome-userscripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Index
 * [darkmode.js](https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c) - Dark Mode Script
 * [Solved Media Plus](https://greasyfork.org/en/scripts/422074-solved-media-plus) - Image Captcha Solver
