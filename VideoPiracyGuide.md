@@ -301,11 +301,12 @@
 * [AnimeHeaven](https://animeheaven.ru/) - Sub / Dub 
 * [AnimeDao](https://animedao.to/) - Sub
 * [AniStream](https://anistream.fun/) - Sub
-* [MasterAni](https://www.masterani.one/) - Sub / Dub 
+* [MasterAni](https://www.masterani.one/) - Sub / Dub
 * [LMAnime](https://lmanime.com/) - Sub
 * [AnimeLand](https://www.animeland.us/) - Dub 
 * [Kissanime](https://kissanime.dev/) - Sub / Dub
 * [Animeplyx](https://animeplyx.eu/) - Sub
+* [Simple Anime](http://simple-anime.herokuapp.com/) - Sub
 * [KimAnime](https://kimanime.com/) - Sub / Dub
 * [AnimeTribes](https://animetribes.ru/) - Sub 
 * [5Anime](https://5anime.net/) - Sub / Dub
