@@ -772,6 +772,7 @@
 * [Titanium TV](https://aapks.com/apk/titanium-tv-com-wise-tech-titanium/) - Movies / TV / Anime / Chromecast
 * [MOTV](http://motv.top/) - Movies / TV / Chromecast
 * [ROTV](https://rotv.xyz/) - Movies / TV
+* [CinemaHD](https://cinemahdapkapp.com/v2-apkd4/) - Movies / TV
 * [CyroseHD](https://cyrosehd.com/) - Movies / TV
 * [Movies Cave](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_movies_cave_app) - Movies / TV
 * [Tuner Radio](https://www.downloader.world/) - Movies / TV
