@@ -2083,7 +2083,7 @@ Twitch Stream Tracker
 * [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - Download Protected GDrive PDFs
 * [PDFCoffee](https://pdfcoffee.com/) - Upload PDF, Word or PowerPoint Files
 * [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - Fill & sign a PDF
-* [megabasterd](https://github.com/tonikelope/megabasterd) - MEGA Quota Bypass / [Proxies](https://github.com/tonikelope/megabasterd/blob/proxy_list/proxy.txt), [2](https://rentry.co/mega-proxies)
+* [megabasterd](https://github.com/tonikelope/megabasterd) - MEGA Quota Bypass / [Proxies](https://github.com/tonikelope/megabasterd/blob/proxy_list/proxy.txt), [2](https://rentry.co/megaproxies)
 * [megatools](https://megatools.megous.com/) - Mega CLI
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - Mega Download Script
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) - Mega to HTTP
