@@ -712,11 +712,12 @@
 
 ## ▷ Reference Sites
 
-* **[Dictionary Index](https://onelook.com/?d=all_gen)** 
-* **[OneLook](https://onelook.com/)** - Multi Dictionary Search
+* **[Wikipedia](https://www.wikipedia.org/)** or [WikiFox](https://wikifox.ml/) - Encyclopedia
+* **Wikipedia Tools** - [Improved UI](https://www.wikiwand.com/), [2](https://www.modernwiki.app/) / [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Galaxy View](https://wiki.polyfra.me/) / [Read Only](http://static.wiki/) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener)
 * **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus
-* **[Wikipedia](https://www.wikipedia.org/)** or [WikiFox](https://wikifox.ml/) - Encyclopedia / [Read Only](http://static.wiki/) / [Text Extractor](https://github.com/attardi/wikiextractor) / [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Galaxy View](https://wiki.polyfra.me/)
-* **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - Slang Word / Phrase Dictionary
+* **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - Slang Word / Phrase Dictionaries
+* **[OneLook](https://onelook.com/)** - Multi Dictionary Search
+* **[Dictionary Index](https://onelook.com/?d=all_gen)** 
 * [Phrases.org](https://phrases.org.uk/) - Phrase Dictionary
 * [NinjaWords](http://ninjawords.com/) - Dictionary
 * [Wordnik](https://www.wordnik.com/) - Dictionary
@@ -1117,7 +1118,7 @@
 * [Books Search](https://books-search.typesense.org/) - Book Database
 * [ISFDB](http://www.isfdb.org/cgi-bin/index.cgi) - Speculative Fiction
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
-* [Glimbay](https://glimbay.netlify.app/) - Book Summaries
+* [BookStash](https://bookstash.io/) or [Glimbay](https://glimbay.netlify.app/) - Book Summaries
 * [/r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) - DC Comic Recommendations 
 * [Comic Book Reading Orders](https://comicbookreadingorders.com/) - Comic Book Reading Orders
 * [DC Superhero Era Timeline](https://i.imgur.com/Icojkx1.jpg) / [2](https://i.imgur.com/drSEr0j.jpg)
