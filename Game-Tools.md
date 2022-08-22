@@ -191,6 +191,8 @@
 * [CnCNet](https://cncnet.org/) - Multiplayer Command & Conquer 
 * [Rusticaland](https://rusticaland.net/) - Rust Cracked Client / Servers
 * [Factorio.zone](https://factorio.zone/) - Free Factorio Servers
+* [Master Server Patch](https://github.com/sergeii/swat-patches/tree/master/swat4stats-masterserver/) - Swat 4 Server Browser Patch
+* [Swat4Stats](https://swat4stats.com/servers/) - Online Swat 4 Server Browser
 * [GDM-Windows](https://github.com/AlizerUncaged/GDM-Windows) - Play Geometry Dash Multiplayer / [Discord](https://discord.gg/YVUgzuNyuw)
 * [Overwolf](https://www.overwolf.com/) - Create In-Game Overlay Apps
 * [FaceItFinder](https://faceitfinder.com/) - FaceIt Stats Search
@@ -428,6 +430,7 @@
 * [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - PS4 Exploit Hosting PS4
 * [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
 * [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - PS3 Homebrew Subreddit
+* [Vita Volume](https://gitlab.com/sinful-butterfly/vita-volume) - Set Vita Volume without Buttons
 * [Tinfoil](https://tinfoil.io/) - Switch Title Manager / File Browser 
 * [ModMyClassic](https://modmyclassic.com/) - Classic Console Mods
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) - Multiplayer Switch Servers
@@ -463,8 +466,10 @@
 * [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - MKW Rebalanced Mod / [Discord](https://discord.gg/YZxyK4f3EU)
 * [MKW Texture Hacks](https://wiki.tockdom.com/wiki/Texture_Hack_Distribution) - Custom MKW Textures
 * [Custom Track Tutorial](https://wiki.tockdom.com/wiki/Custom_Track_Tutorial) - How-to Make Custom MKW Tracks
-* [Rekt](https://discord.com/invite/HqjQFCp) - Black Ops 1 Mod Project
-* [Plutonium](https://plutonium.pw/) - Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah) 
+* [Rekt](https://discord.com/invite/HqjQFCp) or [LinkerMod](https://github.com/Nukem9/LinkerMod) - Black Ops 1 Mod Projects
+* [Redacted](https://redacted.se/) - Black Ops 2 Mod Project
+* [Plutonium](https://plutonium.pw/) - Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)
+* [CoD4-Mod-Tools](https://github.com/promod/CoD4-Mod-Tools) - COD4 Mod Tools
 * [IW4x / IW6x](https://xlabs.dev/) - COD MW2 Mod Project 
 * [UGX Mods](https://www.ugx-mods.com/) - COD Zombies Mods / [Discord](https://discord.gg/g9S2nSp)
 * [Project Reality](https://www.realitymod.com/about) - BF2 & ARMA 2 Realism Mod
@@ -474,6 +479,7 @@
 * [Open Carnage](https://opencarnage.net/) / [Discord](https://discord.com/invite/2pf3Yjb), [Reclaimers](https://reclaimers.net/) / [Discord](https://discord.com/invite/reclaimers) or [Halo Mods](https://discord.com/invite/WuurKwr)  - Halo Modding Community
 * [Halo 3](https://store.steampowered.com/app/1695791/Halo_3_Mod_Tools__MCC/), [Halo 2](https://store.steampowered.com/app/1613450/Halo_2_Mod_Tools__MCC/), [Halo CE](https://store.steampowered.com/app/1532190/Halo_CE_Mod_Tools__MCC/) - Halo Modding Tools
 * [Flatout 2 Fan Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2414295888) - Patch for Flatout 2
+* [SWAT: Elite Force](https://www.moddb.com/mods/swat-elite-force) - Swat 4 Enhancement Mod
 * [Synergy2k](https://synergy2k.net/) - NBA 2K MyCareer Mod Tool
 * [Forza Painter](https://github.com/forza-painter/forza-painter) - Import Images to Forza
 * [Silent Hill 2: Enhanced Edition](http://enhanced.townofsilenthill.com/SH2/) - Silent Hill 2 Mod Project
