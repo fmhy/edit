@@ -668,7 +668,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### File Backup Tools
 
-[Cloning Tools](https://github.com/SpamVerse/Piratezparty/blob/main/Cloning-Tools.md), [BackupPC](https://backuppc.github.io/backuppc/), [TeraCopy](https://www.codesector.com/teracopy), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [DeltaCopy](http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp), [restic](https://restic.net/) / [GitHub](https://github.com/restic/restic), [UrBackup](https://www.urbackup.org/), [BlobBackup](https://github.com/BlobBackup/BlobBackup), [Paragon](https://www.paragon-software.com/free/br-free/), [ZPaq](http://mattmahoney.net/dc/zpaq.html), [SafeCopy](https://www.elwinsoft.com/safecopy-free.html), [FastCopy](http://fastcopy.jp/), [OCCT](https://www.ocbase.com/), [Aomei](https://www.ubackup.com/), [Veeam](https://www.veeam.com/), [Duplicati](https://www.duplicati.com/), [Borg](https://www.borgbackup.org/)
+[Cloning Tools](https://github.com/SpamVerse/Piratezparty/blob/main/Cloning-Tools.md), [BackupPC](https://backuppc.github.io/backuppc/), [TeraCopy](https://www.codesector.com/teracopy), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [DeltaCopy](http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp), [restic](https://restic.net/) / [GitHub](https://github.com/restic/restic), [UrBackup](https://www.urbackup.org/), [BlobBackup](https://github.com/BlobBackup/BlobBackup), [Paragon](https://www.paragon-software.com/free/br-free/), [ZPaq](http://mattmahoney.net/dc/zpaq.html), [SafeCopy](https://www.elwinsoft.com/safecopy-free.html), [FastCopy](http://fastcopy.jp/), [OCCT](https://www.ocbase.com/), [Aomei](https://www.ubackup.com/), [Veeam](https://www.veeam.com/), [Duplicati](https://www.duplicati.com/), [Borg](https://www.borgbackup.org/), [USBImager](https://bztsrc.gitlab.io/usbimager/)
 
 ***
 
@@ -1327,7 +1327,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Multi Text Tool Sites
 
-**[TextFixer](https://www.textfixer.com/)**, **[OnlineTextTools](https://onlinetexttools.com/)**, [TextCleaner](https://textcleaner.net/), [English Tools](https://www.englishtools.org/), [Text Reverse](https://www.textreverse.com/), [Text Mechanic](https://textmechanic.com/), [Smodin](https://smodin.io/), [DrAssignment](https://www.drassignment.com/), [Word Hippo](https://www.wordhippo.com/), [I Love It](https://www.iloveit.net/tool/), [ToggleCase](http://www.togglecase.com/), [ConvertCase](https://convertcase.net/), [ConvertertoGenerator](https://convertertogenerator.com/), [qwerty.dev](https://qwerty.dev/)
+**[TextFixer](https://www.textfixer.com/)**, **[OnlineTextTools](https://onlinetexttools.com/)**, [TextCleaner](https://textcleaner.net/), [English Tools](https://www.englishtools.org/), [Text Reverse](https://www.textreverse.com/), [Text Mechanic](https://textmechanic.com/), [Smodin](https://smodin.io/), [DrAssignment](https://www.drassignment.com/), [Word Hippo](https://www.wordhippo.com/), [I Love It](https://www.iloveit.net/tool/), [ToggleCase](http://www.togglecase.com/), [ConvertCase](https://convertcase.net/), [ConvertertoGenerator](https://convertertogenerator.com/), [qwerty.dev](https://qwerty.dev/), [onlinecaseconvert](https://onlinecaseconvert.com/)
 
 ***
 
@@ -1373,7 +1373,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### News Feed Aggregators
 
-**[WebOasis News](https://weboasis.app/news/)**, **[QotNews](https://news.t0.vc/)**, [spidr](https://spidr.today/), [All Sides](https://www.allsides.com/), [NewsLookup](http://www.newslookup.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/), [freepo.st](https://freepo.st/), [TechMeme](https://www.techmeme.com/m/), [Unfeeder](https://unfeeder.com/), [RealClearPolitics](https://www.realclearpolitics.com/), [Their News](https://www.their.news/), [Twuko](https://www.twuko.com/), [Lobsters](https://lobste.rs/​), [Blazing News](https://blazing-news.herokuapp.com/), [68k News](http://68k.news/), [Readspike](https://readspike.com/), [Popurls](http://popurls.com/), [sumi.news](https://sumi.news/), [Ground News](https://ground.news/), [The Brutalist Report](https://brutalist.report/), [Bastyon](https://bastyon.com/index), [Upstract](https://upstract.com/)
+**[WebOasis News](https://weboasis.app/news/)**, **[QotNews](https://news.t0.vc/)**, [spidr](https://spidr.today/), [All Sides](https://www.allsides.com/), [NewsLookup](http://www.newslookup.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/), [freepo.st](https://freepo.st/), [TechMeme](https://www.techmeme.com/m/), [Unfeeder](https://unfeeder.com/), [RealClearPolitics](https://www.realclearpolitics.com/), [Their News](https://www.their.news/), [Twuko](https://www.twuko.com/), [Lobsters](https://lobste.rs/​), [Blazing News](https://blazing-news.herokuapp.com/), [68k News](http://68k.news/), [Readspike](https://readspike.com/), [Popurls](http://popurls.com/), [sumi.news](https://sumi.news/), [Ground News](https://ground.news/), [The Brutalist Report](https://brutalist.report/), [Bastyon](https://bastyon.com/index), [Upstract](https://upstract.com/), [Otherweb](https://otherweb.com/)
 
 ***
 
@@ -2523,7 +2523,8 @@ Add the following commands to a search to manually scrape each site.
 * [Left](https://hundredrabbits.itch.io/left) - [GitHub](https://github.com/hundredrabbits/Left)
 * [Nano](https://www.nano-editor.org/)
 * [BeefText](https://beeftext.org/)
-* [Quill](https://quilljs.com/) 
+* [Quill](https://quilljs.com/)
+* [Mery](https://www.haijin-boys.com/wiki/)
 * [Helix](https://helix-editor.com/) - [GitHub](https://github.com/helix-editor/helix)
 * [Fluent](https://www.microsoft.com/en-us/p/fluentpad/9pdcqcb06s91)
 * [Notepad](https://notepad.js.org/)
@@ -2629,6 +2630,7 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/tgpublicdrive
 * https://t.me/publicdrive
 * https://t.me/torrent_2_drive
+* https://t.me/torrent_drive
 * https://t.me/XtremeCloud 
 * https://t.me/torrentbcloudnew
 * https://t.me/mirrorLeechTelegramBot
@@ -2802,7 +2804,7 @@ Good for finding classic, obscure & short films.
 * [YouTube](https://www.youtube.com/)
 * [Archive](https://archive.org/) 
 * [Dailymotion](https://www.dailymotion.com/us) 
-* [bilibili](https://www.bilibili.com/)
+* [bilibili](https://www.bilibili.com/) / [Client](https://github.com/Richasy/Bili.Uwp)
 * [Vimeo](https://vimeo.com/)
 * [0xDB](https://0xdb.org/) - [How-to](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies#wiki_method_2_-_streaming)
 * site:vk.com (add to search)
@@ -3019,7 +3021,17 @@ Good for finding classic, obscure & short films.
 
 #### Youtube Android Apps
 
-[Vanced Manager](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_vanced_manager), [Vanced Mirrors](https://mirror.codebucket.de/vanced/api/) / [2](https://vanced.esherloon.com/) / [3](https://github.com/cuynu/ytvanced), [Skytube (no login needed)](https://skytube-app.com/) / [GitHub](https://github.com/SkyTubeTeam/SkyTube/), [NewPipe](https://newpipe.net/), [Newpipe w/ Sponsorblock](https://github.com/polymorphicshade/NewPipe), [VueTube](https://vuetube.app/) / [GitHub](https://github.com/Frontesque/VueTube), [uYouPlus](https://github.com/qnblackcat/uYouPlus), [AfterVanced](https://www.reddit.com/r/AfterVanced/), [WebTube](https://webtubeapp.xyz/) / [GitHub](https://github.com/thewebtube/webtubeapp), [ReVanced](https://forum.mobilism.org/viewtopic.php?f=429&t=4858677)
+* **[Vanced Manager](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_vanced_manager)**
+* [Vanced Mirrors](https://mirror.codebucket.de/vanced/api/) / [2](https://vanced.esherloon.com/) / [3](https://github.com/cuynu/ytvanced) / [4](https://github.com/jinoo2005609/VancedManager) / [5](https://github.com/inotia00/VancedManager_v2) / [6](https://github.com/inotia00/VancedManager) / [7](https://t.me/vanced_mod_archive)
+* [ReVanced](https://forum.mobilism.org/viewtopic.php?f=429&t=4858677)
+* [AfterVanced](https://www.reddit.com/r/AfterVanced/)
+* [Skytube](https://skytube-app.com/) / [GitHub](https://github.com/SkyTubeTeam/SkyTube/)
+* [NewPipe](https://newpipe.net/)
+* [Newpipe w/ Sponsorblock](https://github.com/polymorphicshade/NewPipe)
+* [VueTube](https://vuetube.app/) / [GitHub](https://github.com/Frontesque/VueTube)
+* [uYouPlus](https://github.com/qnblackcat/uYouPlus)
+* [WebTube](https://webtubeapp.xyz/) / [GitHub](https://github.com/thewebtube/webtubeapp)
+* [Revanced Builder](https://mega.nz/file/Omxn2T6L#PAJJ5V_ricfBt78CSqg21rL6rt-hP9RIUWbSyspEqQk) - Build Revanced App w/ Patches
 
 ***
 
@@ -3035,6 +3047,7 @@ Good for finding classic, obscure & short films.
 * [YouTube Streaming Channels](https://rentry.co/YT-Movies)
 * [FreeMovies](https://freemovies.ltd/)
 * [LampLight](https://www.lamplight.tv/)
+* [Video Dictionary](https://videodictionary.kwebpia.net/)
 * [MoviesFoundOnline](https://moviesfoundonline.com/) 
 * [FREEMOVIESNOW](https://www.youtube.com/c/FREEMOVIESNOW/featured)
 * [YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - Youtube Streaming Subs
