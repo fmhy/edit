@@ -36,19 +36,21 @@
 * [Arthemis](https://releases.arthemis.xyz/download/osx) - Movie / TV / Anime Streaming App
 * [anime-terminal](https://github.com/YogeshLamichhane/anime-terminal) or [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal for Linux
 * [Trackma](https://github.com/z411/trackma/) - Anime Tracking App
-* [Netflix Proxy](https://github.com/ab77/netflix-proxy/) - Streaming Service Proxy 
-* [fmedia](https://github.com/stsaz/fmedia) - Media Player and Converter 
+* [Netflix Proxy](https://github.com/ab77/netflix-proxy/) - Streaming Service Proxy
+* [fmedia](https://github.com/stsaz/fmedia) - Media Player and Converter
 * [Knapsu](https://knapsu.eu/plex/) or [Cloudbox](https://cloudbox.works/) - Media Server
 * [ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) - Automated Media Server Setup
 * [Tvheadend](https://tvheadend.org/) - TV Streaming Server / [GitHub](https://github.com/tvheadend/tvheadend)
 * [Docket-Jacket](https://github.com/linuxserver/docker-jackett) - Docker Jacket Container
-* [Spot](https://github.com/xou816/spot) - Spotify Desktop Client for Gnome 
+* [Spot](https://github.com/xou816/spot) - Spotify Desktop Client for Gnome
 * [spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify Client
 * [Librespot-Python](https://github.com/kokarare1212/librespot-python) - Spotify TUI
 * [Deezer Linux](https://github.com/aunetx/deezer-linux) - Deezer Client
+* [Myuzi](https://gitlab.com/zehkira/myuzi) - Music Streaming App
 * [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader
-* [bookworm](https://github.com/babluboy/bookworm) - Elementary OS Ebook Reader 
+* [bookworm](https://github.com/babluboy/bookworm) - Elementary OS Ebook Reader
 * [Evince](https://wiki.gnome.org/Apps/Evince) - PDF / DjVu Reader
+* [Meteo](https://gitlab.com/bitseater/meteo) - Weather App
 * [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - Free Ubuntu VNC
 * [ANoise](http://anoise.tuxfamily.org/) - Ambient Sounds for Ubuntu 
 * [gazee](https://hub.docker.com/r/linuxserver/gazee/) or [Komikku](https://gitlab.com/valos/Komikku) - Manga & Comic Reader / Manager
@@ -116,7 +118,7 @@
 * [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - Window Closing Effects
 * [Junction](https://github.com/sonnyp/Junction) - Change File Associations 
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) - Noise Cancellation Software
-* [Giara](https://aur.archlinux.org/packages/giara/) - Reddit Client / [GitHub](https://gitlab.gnome.org/World/giara)
+* [Giara](https://aur.archlinux.org/packages/giara/) or [Headlines](https://gitlab.com/caveman250/Headlines) - Reddit Client
 * [reddio](https://gitlab.com/aaronNG/reddio) - Reddit CLI
 * [gettit](https://github.com/Solirs/gettit/) - Reddit CLI Video Downloader
 * [rainbowstream ](https://github.com/orakaro/rainbowstream) - Twitter CLI
@@ -136,7 +138,7 @@
 * [rcm](https://github.com/thoughtbot/rcm) - Manage Dotfiles
 * [Curlew](https://curlew.sourceforge.io/) - Linux File Converter
 * [Dolphin](https://userbase.kde.org/Dolphin) or [ranger](https://github.com/ranger/ranger) - File Manager
-* [nnn](https://github.com/jarun/nnn), [fm](https://github.com/knipferrc/fm), [Joshuto](https://github.com/kamiyaa/joshuto) or [NCDU](https://github.com/rofl0r/ncdu) - Terminal File Manager / Disk Usage Analyzer
+* [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [fm](https://github.com/knipferrc/fm), [Joshuto](https://github.com/kamiyaa/joshuto) or [NCDU](https://github.com/rofl0r/ncdu) - Terminal File Manager / Disk Usage Analyzer
 * [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Tiling Windows Manager / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/jmmaranan/forge) - GNOME Tiling Extension
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
@@ -256,9 +258,11 @@
 * [river](https://github.com/riverwm/river/), [wayfire](https://github.com/WayfireWM/wayfire/) or [sway](https://github.com/swaywm/sway/) - Wayland Compositors
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
 * [Arronax](https://www.florian-diesch.de/software/arronax/) - .desktop File Editor
+* [ImHex](https://github.com/WerWolv/ImHex) - Hex Editor
 * [Learn the Linux Command-Line](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_learn_the_linux_command_line), [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [LinuxCommand](https://www.linuxcommand.org/tlcl.php) - Command-Line Lessons
 * [Cheat.sh](https://cheat.sh/) or [how2](https://github.com/santinic/how2) - Command-Line Cheat Sheet
 * [tldr](https://github.com/tldr-pages/tldr/) - Command-Line Tools
+* [Gum](https://github.com/charmbracelet/gum) - Shell Script Creator
 * [shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial) - Shell Scripting Tutorial
 * [explainshell.com](https://explainshell.com/) - Match Command-Line Arguments to Help Text
 * [ShellCheck](https://www.shellcheck.net/) - Shell Script Bug Check
@@ -275,6 +279,7 @@
 * [Twilio Authy](https://snapcraft.io/authy) - Linux Two-Factor Authentication
 * [Lockigest](https://github.com/elmsec/lockigest) - Screen Locker
 * [Menu Searx](https://github.com/MossyMossMoss/menu-searx) - SearX Search Tool 
+* [Mistborn](https://gitlab.com/cyber5k/mistborn) - Manage Cloud Security Apps
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) or [Gufw](http://gufw.org/) - Linux Firewall
 * [Tracee](https://github.com/aquasecurity/tracee) - Runtime Security and Forensics
 * [Mofolinux](https://mofolinux.com/), [Tails](https://tails.boum.org/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - Privacy-Based Linux Operating System
@@ -391,6 +396,7 @@
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/) / [Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 * [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/) - Install New macOS on Unsupported Devices
 * [Conky](https://github.com/brndnmtthws/conky) / [Colors](https://github.com/helmuthdu/conky_colors) or [MacFetch](https://github.com/gantoreno/macfetch) - System Info / Resource Monitor
+* [DPCIManager](https://github.com/MuntashirAkon/DPCIManager) - PCI Hardware Info 
 * [Clean-Me](https://kevin-de-koninck.github.io/Clean-Me/) - MacOS System Cleanup
 * [OpenSourceApple](https://opensource.apple.com/) - System Tools
 * [Windows 10 MBR](https://github.com/toru173/Windows-10-MBR-USB-Creation-Tool) or [Create Bootable](https://taig.medium.com/create-a-bootable-windows-10-usb-from-macos-395773d4782e) - Windows 10 Media Creation Tool
