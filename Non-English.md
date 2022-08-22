@@ -123,6 +123,7 @@
 * [V2Rex](https://v2ex.com/) or [ZongScan](https://www.zongscan.com/) - Programming Forum
 * [BookStack](https://www.bookstack.cn/) - Developer / Programming Guides
 * [FE Hunter](https://github.com/BetaSu/fe-hunter) - Programming Question Bounties
+* [Awesome Github REPO](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - Programming Resources
 * [Gridea](https://github.com/getgridea/gridea) - Blog Writing Client
 * [Dict.Baidu](https://dict.baidu.com/) - Chinese Word, Idiom & Poem Search
 * [SeiWatei](https://www.seiwatei.net/) or [chinadaily](https://language.chinadaily.com.cn/news_bilingual/) - Learn Chinese
@@ -1358,7 +1359,7 @@
 * [Kinotochka](https://kinotochka.co/) - Movies / TV / Anime
 * [NotAlone](https://www.notalone.tv/) - Movies / TV
 * [kinokong](https://kinokong.org/) - Movies / TV
-* [Zetflix](https://zetflix.pro/), [2](https://zetflix.to/), [3](https://zetflix.zone/ ) - Movies / TV
+* [Zetflix](https://zetflix.pro/), [2](https://zetflix.to/), [3](https://zetflix.zone/) - Movies / TV
 * [RussianFilmHub](https://russianfilmhub.com/) - Movies / TV
 * [viho.live](https://viho.live/) - Movies / TV / Anime
 * [EX-FS](https://ex-fs.net/ ) - Movies / TV / Anime
@@ -1634,6 +1635,7 @@
 
 ## ▷ Downloading
 
+* [TurkishDrive](https://discord.gg/rkvnDa3qhP) - Drive Sharing Community
 * [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.com/) - Movies / Choose Voltran & press "скачать" for DL's 
 * [MP3 Indir](https://www.mp3indirdur.mobi/) - Music 
 
@@ -1880,6 +1882,7 @@
 * [PCPriceTracker](https://pcpricetracker.in/) - Track PC Component Rupee Prices
 * [IDCARDS.PW](https://www.idcards.pw/) - Fake Indian ID Card Generator
 * [TDIL](https://tdil-dc.in/eocr/index.html) - Indian Languages OCR
+* [Indic-Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indian Language Android Keyboard
 
 ***
 
