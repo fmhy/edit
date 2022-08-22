@@ -21,6 +21,7 @@
 * [Cider](https://cider.sh/) - Streaming
 * [Resso](https://www.resso.com/in/) - Streaming
 * [Musify](https://github.com/gokadzev/Musify) - Streaming
+* [Elmyu](https://gitlab.com/zehkira/elmyu) - Streaming
 * [Muffon](https://github.com/staniel359/muffon) - Streaming
 * [Deezer](https://www.deezer.com/) - Streaming / [Unlock HiFi](https://git.freezerapp.xyz/uhwot/dzunlock)
 * [OdesliBot](https://t.me/odesli_bot) - Audio Stream Search Bot
@@ -141,7 +142,7 @@
 * [LISTEN.moe](https://listen.moe/)  - K-Pop Radio / [Client](https://github.com/LISTEN-moe/windows-app)
 * [Fountain of Dreams](https://fountainofdreams.net/) - Japanese 80's Radio 
 * [BakaRadio](https://www.bakaradio.net/app-bakaradio-player/) - Anime Radio
-* [Rainwave](https://rainwave.cc/), [Squid Radio](https://www.squid-radio.net/), [RPGGamers Radio](http://www.rpgamers.net/radio/), [VGMRadio](https://vgmradio.com/) or [Sitting On Clouds Radio](https://www.sittingonclouds.ru/) - Video Game Music Radio
+* [Rainwave](https://rainwave.cc/), [Squid Radio](https://www.squid-radio.net/), [RPGGamers Radio](http://www.rpgamers.net/radio/), [VGMRadio](https://vgmradio.com/), [VGM](https://vgm.mmosvc.com/) or [Sitting On Clouds Radio](https://www.sittingonclouds.ru/) - Video Game Music Radio
 * [Nectarine](https://www.scenestream.net/demovibes/streams/) - Demo Scene Music Radio
 * [Yesterweb Live Radio](https://yesterweb.org/radio) - Independent Music Radio
 * [Radio Garden](https://radio.garden/) - Worldwide Radio
@@ -162,7 +163,8 @@
 * [ListenBox](https://listenbox.app/) - Turn YouTube Video into Podcasts
 * [Anchor](https://anchor.fm/) - Podcast Creator
 * [Spotify Podcasters](https://podcasters.spotify.com/) - Podcaster Dashboard
-* [Spodcast](https://github.com/Yetangitu/Spodcast) - Spotify Podcast RSS Proxy 
+* [Spodcast](https://github.com/Yetangitu/Spodcast) - Spotify Podcast RSS Proxy
+* [JRE Missing](https://www.jremissing.com/) - Tracks Missing JRE Podcasts
 
 ***
 
@@ -443,7 +445,7 @@
 * **[Last.fm](https://www.last.fm/home)**, [Music Board](https://musicboard.app/) or [Libre](https://libre.fm/) - Track Music you Listen to 
 * **Last.fm Tools** - [Manual Scrobble](https://openscrobbler.com/) / [Web Scrobble](https://web-scrobbler.com/) / [Album Collages](https://www.nsfcd.com/lastfm/) / [Tag Cloud](https://tagcloud.joshuarainbow.co.uk/) / [Now Playing Display](https://descent.live/now) / [Taste Overlap](https://7x11x13.xyz/last-fm-overlap/)
 * **[Has it leaked](https://hasitleaked.com/)** or [LEAKED](https://leaked.cx/) - Album Leak Tracker
-* **[Muspy](https://muspy.com/)** - Get Album Release Updates
+* **[Muspy](https://muspy.com/)** or [Brew.fm](https://www.brew.fm/) - Get Album Release Updates
 * **[RateYourMusic](https://rateyourmusic.com/)**, **[Sputnik](https://www.sputnikmusic.com/)**, [Discogs](https://www.discogs.com/) / [Scout](https://greasyfork.org/en/scripts/439452-discogs-scout), [listnd](https://listnd.com/), [AlbumOfTheYear](https://www.albumoftheyear.org/), [AllMusic](https://www.allmusic.com/) or [Musicbranz](https://musicbrainz.org/) - Ratings / Reviews
 * **[RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/)** - Artist Recommendations by Genre
 * **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Artist Recommendations
@@ -453,7 +455,7 @@
 * [Music-Map](https://www.music-map.com/), [Panther](http://panther.audio/), [Musicroamer](https://www.musicroamer.com/), [Gnoosic](https://www.gnoosic.com/), [GNOD](https://www.gnod.com/) or [What The Fuck Should I Listen To Right Now?](https://www.whatthefuckshouldilistentorightnow.com/) - Artist Discovery Tools
 * [45Cat](http://www.45cat.com/) - Vinyl Ratings / Reviews
 * [TapeFear](https://www.tapefear.com/), [SongsLikeX](https://songslikex.com/) or [Discover Quickly](https://discoverquickly.com/) - Spotify Song Discovery
-* [Spotalike](https://spotalike.com/), [MagicPlaylist](https://magicplaylist.co/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generator
+* [Spotalike](https://spotalike.com/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [Discoverify](https://discoverifymusic.com/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generators
 * [DailyPlaylists](https://www.dailyplaylists.com/) or [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
 * [MusitcTo](https://www.musicto.com/) - Musician Curated Playlists
 * [Obscurify](https://obscurifymusic.com/) - Compare Music Taste to Others 
