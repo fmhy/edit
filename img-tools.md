@@ -15,6 +15,8 @@
 * **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - Download GFX Design Software
 * **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/), [4](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_design_tool_zip) - Design Tool Resource Indexes   
 * **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [GlitchyImage](https://glitchyimage.com/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - Glitch Images
+* [Crayon](https://designstripe.com/crayon) - Animate SVGs
+* [Glaxnimate](https://glaxnimate.mattbas.org/) - Animate Vectors
 * [rexpaint](https://www.gridsagegames.com/rexpaint/), [PabloDraw](http://picoe.ca/products/pablodraw/) or [Playscii](https://jp.itch.io/playscii) - ASCII Art Editor
 * [Graphic Design Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_graphic_design_tools) - Online Graphic Design Tools 
 * [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/) or [inspirationde](https://www.inspirationde.com/) - Graphic Design Inspirations
@@ -50,7 +52,7 @@
 * [AIDraw](https://ai-draw.tokyo/en/) or [ArtLine](https://github.com/vijishmadhavan/ArtLine) - Turn Photos into Line Art
 * [primitive.js](https://ondras.github.io/primitive.js/) or [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes 
 * [PBNify](https://pbnify.com/) - Paint by Number Tool
-* [Inpaint](https://theinpaint.com/), [Magic Eraser](https://www.magiceraser.io/), [Hama](https://www.hama.app/) or [Cleanup.pictures](https://cleanup.pictures/) - Remove Objects from Photos 
+* [Inpaint](https://theinpaint.com/), [Magic Eraser](https://www.magiceraser.io/), [Remover](https://remover.zmo.ai/), [Hama](https://www.hama.app/) or [Cleanup.pictures](https://cleanup.pictures/) - Remove Objects from Photos 
 * [InsertFace](https://insertface.com/) - Selfie Frames, Backgrounds & Effects
 * [Frame360](https://frame360.net/) - Image Frames
 * [Supershots](https://superblog.ai/supershots/) - Add Backgrounds to Images
@@ -94,7 +96,7 @@
 * [Fenophoto](https://www.fenophoto.com/) - Automatic Photo Enhancer
 * [Colorize Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_colorization) - Image Colorization Tools
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
-* [GPEN-Colab](https://github.com/bycloudai/GPEN-colab) - Face Restoration / Colorization Tool
+* [GPEN-Colab](https://github.com/bycloudai/GPEN-colab) or [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration / Colorization Tool
 * [Color-Dragon](https://www.color-dragon.tk/) - Add more Color to Images
 * [style2paints](https://github.com/lllyasviel/style2paints) or [PaintsChainer](https://github.com/pfnet/PaintsChainer) - Lineart Colorization Tool
 * [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/) - Image Dithering
@@ -150,7 +152,8 @@
 * [TierMaker](https://tiermaker.com/) - Tier List Image Creator
 * [Hugin](http://hugin.sourceforge.net/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - Panorama Image Generator 
 * [Side It](https://sideit.app/) - Side by Side Image Generator
-* [DoodDad](https://doodad.dev/pattern-generator), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/) or [Haikei](https://app.haikei.app/) - Pattern Generator
+* [SuperDesigner](https://superdesigner.co/) - Background / Pattern Designer
+* [DoodDad](https://doodad.dev/pattern-generator), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [Valentina](https://gitlab.com/smart-pattern/valentina) or [Haikei](https://app.haikei.app/) - Pattern Generator
 * [Noise & Gradient](https://www.noiseandgradient.com/), [BGJar](https://bgjar.com/) or [BGGenerator](https://bggenerator.com/) - Background Generator
 * [stripegenerator](http://www.stripegenerator.com/) - Stripe Generator 
 * [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
@@ -215,7 +218,6 @@
 * [Gifski](https://gif.ski/) - GIF Encoder
 * [Among-Us-Dumpy-Gif-Maker](https://dumpy.t1c.dev/) - Make Dumpy Among us GIFs / [GitHub](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)
 * [Crisp GIF Guide](https://imgur.com/gallery/02aYs) - How-To Make 60 FPS GIFs
-* [Crayon](https://designstripe.com/crayon) - Animate SVGs
 
 ***
 
