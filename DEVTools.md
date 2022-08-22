@@ -133,6 +133,7 @@
 * [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS Demos
 * [Codecademy](https://www.codecademy.com/) - Coding Lessons 
 * [CodinGame](https://www.codingame.com/) - Games to Practice Coding / Programming 
+* [Advent of Code](https://adventofcode.com/) - Programming Puzzles
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - Programming Courses
 * [Stack Exchange](https://stackexchange.com/) - Programming Q&A
 * [Learn X in Y minutes](https://learnxinyminutes.com/), [2](https://github.com/adambard/learnxinyminutes-docs) - Programming Language Rundowns 
@@ -266,7 +267,6 @@
 * [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Kubernetes Cluster
 * [Devtron](https://devtron.ai/) - Kubernetes Tool Integration
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - Microservice Architecture Resource Index
-* [MMDeploy](https://github.com/open-mmlab/mmdeploy) - Deep Learning Model Deployment Toolset 
 * [LibreLogos](https://www.librelogos.org/) or [LogoTaco](https://www.logotaco.com/) - Project Logos
 * [Lorem.space](https://lorem.space/) - Placeholder Images
 * [Rejoiner](https://rejoiner.io/) - Uniform GraphQL Schema from gRPC Microservices / [GitHub](https://github.com/google/rejoiner)
@@ -297,6 +297,7 @@
 * [OpenCog](https://opencog.org/) - Artificial Intelligence Framework / [GitHub](https://github.com/opencog)
 * [awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
 * [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
+* [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
 * [Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - Open Source Data Engineering Projects
 * [data-dockerfiles](https://github.com/irbigdata/data-dockerfiles) - Docker Compose Files for Data Engineering
 * [Auto-Portforward](https://github.com/ruoshan/autoportforward) - Auto Port-Forwarding for Docker, Podman & Kubernetes
@@ -304,6 +305,8 @@
 * [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - Machine Learning Datasets
 * [Kobra](https://kobra.dev/) - Visual Programming Language for Machine Learning
 * [DVC](https://dvc.org/) - Machine Learning Version Control
+* [MMDeploy](https://github.com/open-mmlab/mmdeploy) - Deep Learning Model Deployment Toolset 
+* [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep Learning Optimization Library
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
 * [devSwag](https://devswag.io/) - Developer Giveaways
 * [is-a.dev](https://www.is-a.dev/) - Developer Homepages
@@ -666,6 +669,7 @@ Automated Incident Response and Forensics Framework
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
 * [React95](https://react95.io/) - Windows 95 React Components
 * [Zorm](https://github.com/esamattis/react-zorm) - ype-safe <form> for React
+* [Million](https://github.com/aidenybai/million) - React Replacement
 * [React Use](https://github.com/streamich/react-use) - React Hooks 
 * [React Suite](https://rsuitejs.com/) or [Mantine](https://mantine.dev/) - React Components and Templates
 * [React Query](https://react-query.tanstack.com/) - Fetch, Cache and Update React Data / [GitHub](https://github.com/tannerlinsley/react-query)
@@ -695,7 +699,7 @@ Automated Incident Response and Forensics Framework
 * [Playerio](https://playerio.com/) - Online Game Engine
 * [RPG Playground](https://rpgplayground.com/) - Simple RPG Creator
 * [Game-Editor](http://game-editor.com/Main_Page), [microStudio](https://microstudio.itch.io/microstudio) or [BuildBox](http://buildbox.com/) - Game Creators
-* [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://pennie.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop) / [2](https://gdevelop.io/), [Bitsy](http://ledoux.io/bitsy/editor.html), [LIKO 12](https://github.com/LIKO-12/LIKO-12) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - 2D Game Creators
+* [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://pennie.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop) / [2](https://gdevelop.io/), [Bitsy](http://ledoux.io/bitsy/editor.html), [LIKO 12](https://github.com/LIKO-12/LIKO-12), [GDPS](https://gdpseditor.com/) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - 2D Game Creators
 * [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models) - 3D Models / Tools
 * [Unreal Engine](https://www.unrealengine.com/) - 3D Creation Tool / [Python](https://github.com/20tab/UnrealEnginePython) / [C#](https://gamefromscratch.com/getting-started-with-unrealclr/)
 * [Tommti Systems](http://www.tommti-systems.de/go.html?http://www.tommti-systems.de/main-Dateien/files.html) - 3D Benchmark Tools
@@ -713,7 +717,6 @@ Automated Incident Response and Forensics Framework
 * [Kaboomjs](https://kaboomjs.com/) - Quickly Make Games with Javascript
 * [GDevelop](https://gdevelop-app.com/) - HTML5 Game Creator
 * [Superpowers](https://www.softether.org/5-download) - Collaborative HTML5 Game Creator
-* [Now.gg](https://now.gg/) -
 * [Phaser](https://phaser.io/) - Mobile HTML5 Game Framework 
 * [PlayCanvas](https://playcanvas.com/) - Build HTML5 Visualizations / Games
 * [APlayer](https://github.com/DIYgod/APlayer) - HTML Audio Player
@@ -744,6 +747,7 @@ Automated Incident Response and Forensics Framework
 * [v2saconv](https://github.com/DK22Pac/v2saconv) - GTAV to GTASA Resource Converter
 * [samp-node-lib](https://github.com/peterszombati/samp-node-lib) - GTASA Multiplayer Scripting Library
 * [VEEDI](https://www.veedi.com/) - Create Game Walkthrough Videos
+* [Post-Processing](https://github.com/GarrettGunnell/Post-Processing) - Post Processing Pipeline For Unity
 * [CraftPix](https://craftpix.net/freebies/), [Kenney](https://www.kenney.nl/), [/r/GameAssets](https://www.reddit.com/r/gameassets/), [UnityAssets4Free](https://unityassets4free.com/), [UnityFreaks](https://www.unityfreaks.com/) or [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free) - Game Development Assets
 * [xonotic](https://github.com/xonotic), [Vanguard](https://github.com/VanguardDev/Vanguard) / [2](https://project-vanguard.netlify.app/index.html) or [Warsow](https://github.com/Warsow) - FPS Game Assets
 * [Pixel Art Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_pixel_art) - Tools to Create Sprites & Pixel Art
@@ -1088,7 +1092,7 @@ Automated Incident Response and Forensics Framework
 
 ## ▷ API Tools
 
-* [API List](https://apilist.fun/), [Awesome APIs](https://github.com/TonnyL/Awesome_APIs), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - API Indexes
+* [API List](https://apilist.fun/), [APIsList](https://apislist.com/), [Awesome APIs](https://github.com/TonnyL/Awesome_APIs), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - API Indexes
 * [Insomnia](https://insomnia.rest/) - API Client
 * [RapidAPI](https://rapidapi.com/) or [FastAPI](https://github.com/tiangolo/fastapi) - API Framework
 * [tRPC](https://trpc.io/) - Build Typesafe APIs 
@@ -1097,7 +1101,7 @@ Automated Incident Response and Forensics Framework
 * [APIKit](https://github.com/API-Security/APIKit) - API Security Tools
 * [hoppscotch](https://hoppscotch.io/) - API Development Ecosystem / [GitHub](https://github.com/hoppscotch/hoppscotch)
 * [ReDoc](https://github.com/Redocly/redoc) - Generate API Documentation
-* [Mockable](https://www.mockable.io/) - Mock APIs
+* [Mockable](https://www.mockable.io/) or [MockLab](https://get.mocklab.io/) - Mock APIs
 * [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) - Fake APIs
 * [RandomAPI](https://randomapi.com/) - Generate Fake Data for Populating Mockups 
 * [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator 
