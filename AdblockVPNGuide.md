@@ -23,13 +23,13 @@
 
 * **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/)
 * **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** - Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Merge Filters](https://realityripple.com/Tools/AdBlock++/)
-* **[Adblock Defenders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders)** - Prevent Sites from Detecting Adblockers / [Test Defenders](https://blockads.fivefilters.org/) / [2](https://www.detectadblock.com/)
+* **[Adblock Defenders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders)** - Prevent Sites from Detecting Adblockers / [Test Defenders](https://blockads.fivefilters.org/), [2](https://www.detectadblock.com/)
 * **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers)** - Block Twitch Ads
 * **[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** - Bypass Redirects
 * **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)
-* **[Popup Blockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - Blocks Malicious Popups & Tabs
+* **[Popup Blockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - Block Malicious Popups / Tabs
 * **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)**, [Demodal](https://addons.mozilla.org/firefox/addon/demodal), [f ck overlays](https://chrome.google.com/webstore/detail/fck-overlays/ppedokobpbdajgiejhnjfbdjlgobcpkp/related) or [Behind The Overlay Revival](https://addons.mozilla.org/en-US/firefox/addon/behind-the-overlay-revival/) - Hide Website Overlays 
-* **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Plays Videos in Ad-Free Player
+* **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Play Videos in Ad-Free Player
 * **[Fakespot](https://www.fakespot.com/)** - Identifies Fake Reviews & Counterfeits
 * [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker / [Guide](https://rentry.co/adblock) / [Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt)
 * [AdNauseam](https://adnauseam.io/) - Adblocker / Fakes Clicks to Confuse Tracking
@@ -190,7 +190,7 @@
 * [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) - Security Camera System
 * [Vault](https://www.vaultproject.io/) - Data Security Service / [GitHub](https://github.com/hashicorp/vault)
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
-* [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/), [Infosec Resources](https://github.com/stong/infosec-resources) or [Anon Security](https://t.me/anon_server) - Cybersecurity Resources
+* [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/), [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources), [Infosec Resources](https://github.com/stong/infosec-resources) or [Anon Security](https://t.me/anon_server) - Cybersecurity Resources
 * [Cyber Talent Kids](https://cybertalentskids.com/) - Learn About Cybersecurity
 * [The White Circle](https://twc1rcle.com/) - Cybersecurity Community
 * [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Database
@@ -281,8 +281,8 @@
 
 ## ▷ Privacy Extensions
 
-* **[ClearURLs](https://github.com/ClearURLs/Addon/releases)** / [2](https://gitlab.com/KevinRoebert/ClearUrls), [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - Removes tracking elements from URLs
-* **[LocalCDN](https://www.localcdn.org/)**, [WhatCampaign](https://addons.mozilla.org/en-US/firefox/addon/whatcampaign/), [Decentraleyes](https://decentraleyes.org/), [OptMeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) or [TrackMeNot](http://trackmenot.io/) - Tracking Protection
+* **[ClearURLs](https://github.com/ClearURLs/Addon/releases)** / [2](https://gitlab.com/KevinRoebert/ClearUrls), [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - Remove Tracking Elements from URLs
+* **[LocalCDN](https://www.localcdn.org/)**, [WhatCampaign](https://addons.mozilla.org/en-US/firefox/addon/whatcampaign/), [Decentraleyes](https://decentraleyes.org/), [Ping Blocker](https://github.com/dessant/ping-blocker), [OptMeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) or [TrackMeNot](http://trackmenot.io/) - Tracking Protection
 * [CRXcavator](https://crxcavator.io/) - Check Browser Extension Security
 * [File Guard](https://mybrowseraddon.com/file-encryptor.html) - File Encryption / Decryption
 * [Trace](https://absolutedouble.co.uk/trace/) - Privacy Toolkit 
@@ -398,6 +398,7 @@
 * [whoer](https://whoer.net/), [encrypted-sni](https://www.cloudflare.com/ssl/encrypted-sni/) or [f.vision](http://www.f.vision/) - Check Network / Browser Security
 * [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [PixelScan](https://pixelscan.net/), [Unique Machine](https://uniquemachine.org/) or [AmIUnique](https://amiunique.org/) / [Timeline](https://amiunique.org/timeline) - Browser Fingerprinting Test
 * [fluxfonts](https://github.com/da2x/fluxfonts) - Hide Unique Font Fingerprint
+* [Extension Fingerprints](https://github.com/z0ccc/extension-fingerprints) - Extension Fingerprinting Test
 * [dataskydd](https://webbkoll.dataskydd.net/) or [Blacklight](https://themarkup.org/blacklight) - Check what data-protecting measures a site has taken
 * [uBO-Scope](https://github.com/gorhill/uBO-Scope) - Measure 3rd Party Exposure 
 * [YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends) 
