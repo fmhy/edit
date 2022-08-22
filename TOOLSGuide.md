@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/PUmITXB.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/KSQAUFG.png)** - For mobile users
 
 ***
 *** 
@@ -266,7 +266,9 @@
 * **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** - Learn how to Remux Videos
 * **[Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders)** - Record your Screen
 * **[Multi-Site Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)**
-* **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)**  
+* **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)**
+* **[OBS](https://obsproject.com/)**, [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs), [SteamLabs](https://streamlabs.com/), [Restream](https://restream.io/), [Twitch Studio](https://www.twitch.tv/broadcast/studio) or [TwitchChat](https://twitchat.fr/) - Live Stream Managers
+* **OBS Tools** - [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT) / [Effects](https://github.com/Xaymar/obs-StreamFX) 
 * [VideoTuts](http://videotuts.ru/) - Video Design Tutorials / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - Professional Video, Audio & Adobe Software / Plugins
 * [VFX Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vfx_sites) - Download Video Effects
@@ -293,13 +295,10 @@
 * [ppInk](https://github.com/PubPub-zz/ppInk/), [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/), [Live Draw](https://github.com/antfu/live-draw) or [Pensela](https://github.com/weiameili/Pensela) - Screen Annotation 
 * [VidGrid](https://vidgrid.tk.gg/) - View Multiple Streams Simultaneously
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) or [OBS Ninja](https://obs.ninja/) - Streaming Tools Indexes
-* [SteamLabs](https://streamlabs.com/) - Streaming Tools
 * [dart_vlc](https://github.com/alexmercerind/dart_vlc) - Video Recording / Streaming
 * [VegasScripts](https://github.com/otomad/VegasScripts) - MAGIX Vegas Scripts
 * [VDO.Ninja](https://vdo.ninja/) - Remote Camera Video Production
-* [OBS](https://obsproject.com/) or [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs) - Video Recording / Live Streaming / [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT) / [Effects](https://github.com/Xaymar/obs-StreamFX) 
 * [Stream Elements](https://streamelements.com/) - Streaming Service Manager
-* [Restream](https://restream.io/) - Multi-Site Streaming Tool
 * [LiveRecord](https://github.com/lovezzzxxx/liverecord) - Automatic Stream Recorder
 * [LiveMonitor](https://github.com/lovezzzxxx/livemonitor) - Live Stream Detection
 * [real-url](https://github.com/wbt5/real-url) - Copy Live Stream URLs
@@ -311,8 +310,8 @@
 * [Kalidoface 3D](https://3d.kalidoface.com/), [Animaze](https://www.animaze.us/) or [Gazo Tuber](https://ai-risun.itch.io/gazo-tuber) - VTuber Characters
 * [avatarify-python](https://github.com/alievk/avatarify-python) or [veadotube](https://olmewe.itch.io/veadotube-mini) - Video Call Avatars
 * [screengif](https://github.com/dergachev/screengif), [gifcap](https://gifcap.dev/) / [GitHub](https://github.com/joaomoreno/gifcap) or [licecap](https://www.cockos.com/licecap/) - Turn Screencasts into GIFs
-* [Nimbus Capture](https://nimbusweb.me/screenshot.php) - Screenshot / Video Capture Tool
-* [Stream Recorder](https://www.hlsloader.com/) - Streaming Video Recorder 
+* [Stream Recorder](https://www.hlsloader.com/) - Streaming Video Recorder
+* [tldv](https://tldv.io/) - Record Google Meets & Zoom
 * [GifW00t](https://github.com/yaronn/GifW00t) - Javascript Web Recorder
 * [Jupitrr](https://jupitrr.com/) - Create Videos from Voice Recordings
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - Create TV Channels using Plex Library
@@ -712,6 +711,7 @@
 * [WiFiCard](https://wificard.io/) - WiFi Info QRCode Generator
 * [Master Networks & Scanning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_master_networks_.26amp.3B_scanning) - Network & Network Scanning Tutorials
 * [RustCat](https://github.com/robiot/rustcat) - Port Listener
+* [SerialPortAssistant](https://github.com/KangLin/SerialPortAssistant) - Serial Port Assistant
 * [.new](https://whats.new/shortcuts) - New Project Shortcuts
 * [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - Follow RSS Feeds
 * [CTRLQ](https://ctrlq.org/rss/) or [RSS.app](https://rss.app/) - RSS Feed Search 
@@ -736,7 +736,6 @@
 * [Post Generator](https://postgenerator.online/) - Convert Article to Social Media Post
 * [Cloaking Company](https://www.cloakingcompany.com/) - Create Alogorith Pleasing Social Media Posts
 * [Abogrow](https://www.abogrow.com/compose) - Preview Social Media Posts
-* [4stats](https://4stats.io/) - 4chan Board & Thread Stats
 * [Emotes Everywhere](https://kellphy.com/projects/kee.html), [GenieEmoji](https://github.com/virejdasani/Geniemoji), [winMoji](https://www.winmoji.com/) or [Geniemoji](https://virejdasani.github.io/Geniemoji/) - Emoji Manager
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
@@ -757,7 +756,6 @@
 * [Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Multiverse](https://multiverse.plus/), [Letterpad](https://letterpad.app/), [Mataroa](https://mataroa.blog/), [Emanates Docs](https://emanates.deepjyoti30.dev/), [write freely](https://writefreely.org/) or [twtxt](https://github.com/buckket/twtxt) - Blogging Platform
 * [Telescope](https://telescope.ac/) - Publishing Platform
 * [Odie](http://odie.us/) - Publish Google Docs to Web
-* [SpookyX](https://github.com/Fiddlekins/SpookyX) - Adds Features to Imageboards
 * [Rambox](https://github.com/ramboxapp/download/releases), [Ferdi](https://getferdi.com/), [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [Hamsket](https://github.com/TheGoddessInari/hamsket), [matterbride](https://github.com/42wim/matterbridge) or [Franz](https://meetfranz.com/) - Combine Web Apps / Chats
 * [Slapdash](https://slapdash.com/) - Connect Cloud Apps 
 * [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - Communication Software Index
@@ -778,9 +776,10 @@
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - Snapchat Recovery Tool
 * [Snapchat Data Extractor](https://gist.github.com/programminghoch10/fa37e0da8b2efc5cb8077e59d000771d) - Extract Snapchat Photo / Video Details
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - Export Skype Chat Data to Readable Text
+* [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
 * [Video Chat Apps / Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_chat) - Video Calls
 * [Zoom Escaper](https://zoomescaper.com/) - Self-Sabotage Video Calls to Escape Meetings
-* [Pyrite](https://github.com/garage44/pyrite) - Self-Hosted Video Calls 
+* [Pyrite](https://github.com/garage44/pyrite) - Self-Hosted Video Calls
 * [Live Curtain](https://livecurtain.com/) - Countdown Curtain For Online Meeting
 * [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Nertivia Chat](https://nertivia.net/), [Mumble](https://www.mumble.info/), [Zoiper](https://www.zoiper.com/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - Voice Chat 
 * [IMumble](https://www.imumble.nl/), [VoicePacket](https://www.voicepacket.net/) or [Guildbit](https://guildbit.com/) - Voice Chat Servers
@@ -834,14 +833,10 @@
 * [NeverSSL](http://neverssl.com/) - Fix Public WiFi Login Pages
 * [WiFi-Password](https://github.com/sdushantha/wifi-password) - Fetch WiFi Password / Generate QR Code
 * [IP2Proxy](https://www.ip2proxy.com/) - Proxy / VPN IP Detector
-* [Tripgen](https://orph.link/tripgen) - Image Board Trip Code Generator 
-* [4chan Captcha Solver](https://github.com/AUTOMATIC1111/4chan-captcha-solver/) - 4chan Captcha Solver
 * [Slideshow-Deslidefier](http://deslide.clusterfake.net/) - View Slideshows All At Once
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities
 * [tumblr-crawler](https://github.com/ZenulAbidin/tumblr-crawler) - Download tumblr Photos / Videos
 * [Tumgir](https://www.tumgir.com/) - Tumblr Web Viewer
-* [ChanThreadWatch](https://github.com/SuperGouge/ChanThreadWatch) - Imageboard Thread Watcher 
-* [FlagHunter](https://gitlab.com/flagtism/flaghunter) - Find Rare Imageboard Flags
 * [Awesome ActivityPub](https://github.com/BasixKOR/awesome-activitypub) - List of ActivityPub based projects 
 * [Percollate](https://github.com/danburzo/percollate) - Format Pages for PDF / EPub / HTML
 * [StartOS](https://startos.app/) - 90's Themed Startpage / [Github](https://github.com/Jaredk3nt/startos) 
@@ -898,7 +893,7 @@
 * [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - Firefox UI Enhancements
 * [Firefox Access](https://www.accessfirefox.org/) - Firefox Accessibility Tools for the Visually Impaired
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
-* [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - Firefox CSS Guides 
+* [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - Firefox CSS Guides
 * [NightFox](https://github.com/snthcy/nightfox) - Firefox Mac Theme
 * [Firefox UWP Style](https://github.com/Guerra24/Firefox-UWP-Style) - Firefox UWP Theme
 * [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
@@ -907,8 +902,8 @@
 * [xBrowserSync](https://github.com/xbrowsersync/app) - Sync Browser Data Browsers / Devices
 * [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)
 * [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt Browser Data
-* [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - User Agent Archive 
-* [danmaku2ass ](https://github.com/m13253/danmaku2ass) - Convert Niconico/AcFun/Bilibili Comments to ASS
+* [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - User Agent Archive
+* [danmaku2ass](https://github.com/m13253/danmaku2ass) - Convert Niconico/AcFun/Bilibili Comments to ASS
 * [Gopher Proxy](https://gopherproxy.meulie.net/) - View Gopher Content in Browser
 
 ***
@@ -953,7 +948,7 @@
 * [Blog Search Engine](http://www.blogsearchengine.org/), [Blog-Search](https://www.blog-search.com/), [BlogErnity](http://www.bloggernity.com/), [BlogSurf](https://blogsurf.io/), [Twoggle](https://twoggle.com/) or [SearchBlogspot](https://www.searchblogspot.com/) - Blog Search
 * [4chanSearch](https://4chansearch.com/) - 4chan Search
 * [Git Search Engine](https://zzollo.co/) - Search GitHub, GitLab ect.
-* [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) - Tik-Tok Search
+* [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) or [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - TikTok Search 
 * [tumbex](https://www.tumbex.com/) - Tumblr Search
 * [Mibbit](https://search.mibbit.com/) - IRC Channel Search
 * [dato.rss](https://datorss.com/) - RSS Feeds Search Engine
@@ -969,7 +964,6 @@
 * [LumenDatabase](https://lumendatabase.org/) - Search DMCA Takedown Requests
 * [Refseek](https://www.refseek.com/) - Academic Search Engine 
 * [GrayHatWarfare](http://buckets.grayhatwarfare.com/) - Amazon s3 Buckets Search
-* [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - Search TikTok
 * [UserSearch](https://usersearch.org/) or [WhatsMyName](https://whatsmyname.app/) - Username Search
 * [FindAGrave](https://findagrave.com/) - Gravestone Search
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - Telegram CSE
@@ -1224,6 +1218,7 @@
 * [Titan Embeds](https://titanembeds.com/) - Create Discord Chat Embeds
 * [Divider Generator](https://jsfiddle.net/Davri/wf49xnob/159/) - Create Discord Role Dividers Discord Role
 * [MonitoRSS](https://monitorss.xyz/), [2](https://github.com/synzen/MonitoRSS-Clone) - RSS Discord Bot
+* [MovieNightBot](https://github.com/Chopknee/MovieNightBot) - Movie Night Voting Bot
 * [Discord Music Bot](https://github.com/SudhanPlayz/Discord-MusicBot), [discord-music-bot](https://github.com/Androz2091/discord-music-bot), [Music-bot](https://github.com/ZerioDev/Music-bot), [MusicBot](https://github.com/jagrosh/MusicBot), [evobot](https://github.com/eritislami/evobot) or [EarTensifier](https://github.com/Tetracyl/EarTensifier) - Music Bots
 * [Discord-Music-System](https://github.com/RemyK888/discord-music-system) - Discord Music Module
 * [FreeStuff Bot](https://freestuffbot.xyz/) / [GitHub](https://github.com/FreeStuffBot/discord), [game-deals-discord-bot](https://github.com/lipowskm/game-deals-discord-bot) or [AutomatiK](https://github.com/Axyss/AutomatiK) / [Discord](https://discord.gg/psDtnwX) - Free Games Alert Bot
@@ -1253,7 +1248,7 @@
 * [Chuu](https://github.com/ishwi/Chuu) or [FMcord](https://discord.bots.gg/bots/521041865999515650) - Last.fm Discord Bot
 * [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling
 * [Craig](https://craig.chat/) - Voice Channel Recorder / [Backup](https://craig.chat/home/giarc)
-* [Forms](https://gitlab.com/rubellite/engineering/forms ) - Google Form Responses as Discord Embeds
+* [Forms](https://gitlab.com/rubellite/engineering/forms) - Google Form Responses as Discord Embeds
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter), [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker), [discord-archiver](https://github.com/nektro/discord-archiver) or [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper) - Archive / Export Discord Chats 
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) or [Phish Grabber](https://phishgrabber.dis.tf/) - Discord Anti Phishing Bot
 * [pullcord](https://github.com/tsudoko/pullcord) - Discord Archiver
@@ -1381,6 +1376,7 @@
 * [NSFW Youtube](https://www.nsfwyoutube.com) or [Simple YouTube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - Bypass YouTube Age Restrictions
 * [YTUnblock](https://ytunblock.weebly.com/) or [Unblocker](http://www.unblocker.yt/) - Bypass YouTube Geo-Restrictions
 * [YouTube RSS Finder](https://github.com/teddy-gustiaux/youtube-rss-finder) - Create YouTube RSS Feeds 
+* [Create YouTube RSS](https://www.ghacks.net/2022/08/01/how-to-subscribe-to-youtube-rss-feeds-without-third-party-services/) - How-to Create YouTube Channel / Playlist RSS Feeds
 * [PocketTube](https://yousub.info/) - YouTube Subscription Manager / Organizer 
 * [FreshTube](https://porjo.github.io/freshtube/) - Display Latest Video from Subscriptions 
 * [Youtube_Subs_Bot](https://t.me/youtube_subs_bot) - Sub to Channels Without Account 
@@ -1403,6 +1399,7 @@
 * [HookTube](https://hooktube.com/) - View YouTube Videos on Lightweight Page / [Redirect Script](https://greasyfork.org/en/scripts/24163-youtube-unblocker) 
 * [myTube](https://github.com/keitharm/mytube) - Bloat Free YouTube Client
 * [Ytfzf](https://github.com/pystardust/ytfzf) or [YewTube](https://github.com/iamtalhaasghar/yewtube) - Terminal YouTube Players
+* [SmartTubeNext](https://smartyoutubetv.github.io/) - Ad Free Android TV YouTube Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)
 * [YouTube_RSS](https://github.com/SimonDaNinja/youtube_rss) - YouTube RSS Client
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
 * [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - YouTube to GIF 
@@ -1469,18 +1466,20 @@
 * **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers)** - Block Ads on Twitch
 * [Twitch Databse](https://twitchdatabase.com/) - Twitch Tools and Analytics
 * [BetterTTV](https://betterttv.com/) or [FrankerFacez](https://www.frankerfacez.com/) - Twitch Enhancement Extension
-* [Stream Scheme](https://www.streamscheme.com/) - Livestreaming Guides & Resources
+* [Stream Scheme](https://www.streamscheme.com/) - Livestreaming Guides / Resources
 * [Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f) - Twitch Extension Index
 * [Trovo](https://trovo.live/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
-* [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl), [Windsya](https://www.windsya.com/), [ClipsGameLab](https://clipsgamelab.github.io/), [Clipr](https://clipr.xyz/), [Twiclips](https://twiclips.com/) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  Download Twitch Videos / Clips 
+* [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl), [Windsya](https://www.windsya.com/), [ClipsGameLab](https://clipsgamelab.github.io/), [Clipr](https://clipr.xyz/), [Twiclips](https://twiclips.com/) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) - Download Twitch Videos / Clips
 * [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Recover, View & Download Twitch Videos
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - Lightweight Twitch Webplayer
-* [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player 
-* [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - Alt Twitch Player 
-* [Orion](https://alamminsalo.github.io/orion/) - Twitch Desktop Client 
+* [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player
+* [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - Alt Twitch Player
+* [Orion](https://alamminsalo.github.io/orion/) or [Tress](https://gitlab.com/Ignamarte/tress) - Twitch Desktop Client
+* [S0undTV](https://github.com/S0und/S0undTV) - Android TV Twitch Player
 * [Twitch Now](https://addons.mozilla.org/en-US/firefox/addon/twitch-now_/) or [Gumbo](https://github.com/seldszar/gumbo) - 
 Twitch Stream Tracker
-* [Multi](https://multi.raredrop.co/), [Twitchmultivod](https://www.twitchmultivod.com/) or [TwitchTheater](https://twitchtheater.tv/) - Watch Multiple Twitch Streams 
+* [Unwanted Twitch](https://github.com/kwaschny/unwanted-twitch) - Hide Twitch Categories / Channels
+* [Multi](https://multi.raredrop.co/), [Twitchmultivod](https://www.twitchmultivod.com/) or [TwitchTheater](https://twitchtheater.tv/) - Watch Multiple Twitch Streams
 * [Tenami](https://www.tenami.tv/) - Twitch Watch Parties
 * [TwitchQuotes](https://www.twitchquotes.com/) - Twitch Copypastas
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix Twitch Aspect Ratio
@@ -1494,12 +1493,12 @@ Twitch Stream Tracker
 * [JChat](https://www.giambaj.it/twitch/jchat/) - Show Twitch Chat on Screen
 * [TwitchRSS](https://twitchrss.appspot.com/) - Twitch RSS Generator
 * [7TV](https://7tv.app/ ) - Twitch Emotes Extension
-* [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink 
+* [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink
 * [get stream](https://pwn.sh/tools/getstream.html) - Extract Twitch URLs
 * [nobody.live](https://nobody.live/) or [Twitch Roulette](https://twitchroulette.net/) - Random Stream Roulette
-* [Stream Clicker](https://streamclicker.io/) - Random Twitch Streamers 
+* [Stream Clicker](https://streamclicker.io/) - Random Twitch Streamers
 * [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - Smart TV Twitch Client
-* [Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - Download Twitch Chat Messages 
+* [Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - Download Twitch Chat Messages
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - Add Subtitles to Twitch Stream
 * [StreamLadder](https://streamladder.com/) - Social Media Templates for Twitch Clips
 * [TwitchLeak](https://twitchleak.netlify.app/) - Twitch Top Earners Table
@@ -1585,6 +1584,22 @@ Twitch Stream Tracker
 
 ***
 
+## ▷ 4chan Tools
+
+* [Lurka](https://github.com/AdamSalma/Lurka) - 4chan Desktop Client
+* [SpookyX](https://github.com/Fiddlekins/SpookyX) or [Dollchan](https://dollchan.net/) - Adds Features to Imageboards
+* [ChanThreadWatch](https://github.com/SuperGouge/ChanThreadWatch) - Imageboard Thread Watcher
+* [4chanSearch](https://4chansearch.com/) - 4chan Search
+* [4stats](https://4stats.io/) - 4chan Board & Thread Stats
+* [4chan Captcha Solver](https://github.com/AUTOMATIC1111/4chan-captcha-solver/) - 4chan Captcha Solver
+* [4chan Mass Reply](https://github.com/HamletDuFromage/4chan-mass-reply) - Mass Reply on 4chan
+* [4Chan GhostPostMixer](https://github.com/g-gundam/4chan-ghostpostmixer) - Interleave Deleted Posts from Archives
+* [Tripgen](https://orph.link/tripgen) - Imageboard Trip Code Generator 
+* [FlagHunter](https://gitlab.com/flagtism/flaghunter) - Find Rare Imageboard Flags
+* [ss21](https://github.com/saxamaphone69/ss21) - 4Chan Userstyle
+
+***
+
 ## ▷ Facebook Tools
 
 * [Facebook CSE](https://cse.google.com/cse?cx=65eb7b6b8baf5a5cb) - Search Facebook
@@ -1650,7 +1665,7 @@ Twitch Stream Tracker
 * [NTLite](https://www.ntlite.com/), [WinReducer](https://www.winreducer.net/) or [MSMG Toolkit](https://msmgtoolkit.in/?i=1) - Custom ISO Creator
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [zfsBootMenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS Bootloader 
-* [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - Preinstallation Environment 
+* [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - Preinstallation Environment
 * [Microsoft Downloads Dump](https://www.heidoc.net/php/myvsdump.php) - Verify ISO Legitimacy
 * [CD Key Reader](http://www.cathonian.com/software/cd-keyreader/) - Find Key used to Install Windows
 * [WinXP Service Pack 4](https://www.majorgeeks.com/files/details/windows_xp_service_pack_4_unofficial.html) - Windows XP Unofficial Service Pack 4 / [Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_winxp_service_pack_4)
@@ -1774,6 +1789,7 @@ Twitch Stream Tracker
 * [OneLaunch](https://onelaunch.com/) - Customizable Windows Dock
 * [CircleDock](http://circledock.wikidot.com/) - Circular Dock
 * [Wox](http://www.wox.one/) / [GitHub](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [ChaseApp](https://www.chaseapp.io/), [FlowLauncher](https://www.flowlauncher.com/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke Launcher
+* [KeyViz](https://github.com/mulaRahul/keyviz) - Keystroke Visualizer
 * [Closemul](https://www.lustark.com/closemul) - Multi-Purpose Program Frontend
 * [rofi](https://github.com/davatorium/rofi) - Window Switcher & App Launcher
 * [Clipboard Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_clipboard_managers) - Manage Copied Text
@@ -1837,7 +1853,7 @@ Twitch Stream Tracker
 * [InputDirector](http://www.inputdirector.com/), [Synergy](https://symless.com/synergy), [Barrier](https://github.com/debauchee/barrier) or [ShareMouse](https://www.sharemouse.com/) - Share Mouse & Keyboard w/ Multiple Computers
 * [Nebula](https://github.com/slackhq/nebula) - Multi-Computer Networking Tool
 * [TigerVNC](https://tigervnc.org/) - VNC Client
-* [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) - Free Google Colab VPS on 25GB RAM
+* [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) or [AppOnFly](https://app.apponfly.com/trial) - Free VPS
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager 
 * [Netmaker](https://gravitl.com/netmaker) - Create Virtual Network
 * [NirLauncher](https://launcher.nirsoft.net/) - All Nirsoft Utilities in One App
@@ -2084,6 +2100,7 @@ Twitch Stream Tracker
 * [PDFCoffee](https://pdfcoffee.com/) - Upload PDF, Word or PowerPoint Files
 * [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - Fill & sign a PDF
 * [megabasterd](https://github.com/tonikelope/megabasterd) - MEGA Quota Bypass / [Proxies](https://github.com/tonikelope/megabasterd/blob/proxy_list/proxy.txt), [2](https://rentry.co/megaproxies)
+* [Mega-Import-Bypass](https://github.com/Cyberavater/Mega-Import-Bypass) or [MEGA Ultimately Import](https://katb.in/atoyuxomuba) - Mega Import Limit Bypass Scripts
 * [megatools](https://megatools.megous.com/) - Mega CLI
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - Mega Download Script
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) - Mega to HTTP
@@ -2143,7 +2160,7 @@ Twitch Stream Tracker
 * [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) or [filebrowser](https://github.com/filebrowser/filebrowser/) - Web File Browser
 * [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/), [iStockFile](http://istockfile.com/ ) or [Securedrop](https://securedrop.org/) - Document File Sharing
 * [OpenPaper](https://openpaper.work/en/), [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) or [DataShare](https://datashare.icij.org/) - Document Manager
-* [Browsemonkey](https://github.com/shukriadams/browsemonkey) - Take Snapshots of File Systems 
+* [Browsemonkey](https://github.com/shukriadams/browsemonkey) - Take Snapshots of File Systems
 * [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - GDrive Guide 
 * [gDrive-DirectLink](https://github.com/jagrit007/gDrive-DirectLink) or [google-drive-direct-link-generator](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - GDrive File Direct Link Generator
 * [Google Drivac](https://github.com/Data-Horde/gdrivac) - Associate Gdrive Account with URL List
@@ -2165,6 +2182,8 @@ Twitch Stream Tracker
 * [BZSHUT](https://github.com/arunkumartdr/BZSHUT) - Temp File Deletion Script
 * [WinMerge](https://winmerge.org/) - Compare / Merge Files & Folders 
 * [FilesMerge](https://www.filesmerge.com/) - Online File Merger
+* [Apaxy](https://oupala.github.io/apaxy/) - Apache Directory Theme
+* [Nginxy](https://github.com/lfelipe1501/Nginxy) - Nginx Directory Theme
 * [Windows compact](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/compact) - Displays or alters the compression of files or directories on NTFS partitions + [GUI 1](https://github.com/ImminentFate/CompactGUI) or [GUI 2](https://github.com/Freaky/Compactor)
 * [Snap2HTML](https://rlvision.com/snap2html/about.php) - Take HTML Snapshots of Folder / File Structures
 * [Corrupt My File](http://www.corruptmyfile.com/) or [Corrupt-A-File](https://corrupt-a-file.net/) - Intentionally Corrupt your Files
