@@ -207,6 +207,7 @@
 * [Consul](https://www.consul.io/) - Development App Network / [GitHub](https://github.com/hashicorp/consul)
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) - Systadmin Resources
 * [Awesome DataScience](https://github.com/academic/awesome-datascience) or [Best Data Science Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources) - Data Science Resources
+* [Mage](https://www.mage.ai/) - Data Science Pipelines
 * [SuperNova](https://www.supernova.io/) - Design System Manager
 * [Eco Design System](https://www.eosdesignsystem.com/) or [Interplay](https://interplayapp.com/) - Product Design Tool
 * [Awesome Bots](https://github.com/DopplerHQ/awesome-bots) - Developer Bot Index
@@ -462,7 +463,8 @@
 * [WebDesigner](https://webdesigner.withgoogle.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/AriaMinaei/theatre), [Haiku](https://www.haikuanimator.com/), [Greensock](https://greensock.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [Mantra](https://jeremyckahn.github.io/mantra/) or [Animate.css](https://animate.style/) - Create Interactive Motion Graphics
 * [Paramoji](https://paramoji.org/) - Parametric Emoji 
 * [useAnimations](https://useanimations.com/index.html) - Animated Icon Pack
-* [Cursor Effects](https://tholman.com/cursor-effects/) - 90's Style Cursor Effects
+* [Curzr](https://github.com/TaylonChan/Curzr) - Animated Cursors
+* [Cursor Effects](https://tholman.com/cursor-effects/) - 90's Style Cursors
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
 * [Vidlery](http://vidlery.com/) - Animated Webpage Background
 * [Box-Shadow](https://box-shadow.art/) - Box Shadow Generator
@@ -875,6 +877,7 @@ Automated Incident Response and Forensics Framework
 * [Shields.io](https://shields.io/) - Metadata badges for Github Readmes
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - Enable Snake Game on GitHub Readme
 * [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) or [GPRM](https://gprm.itsvg.in/) - Generate Git Profile Readme
+* [GitStalk](https://gitstalk.netlify.app/) - GitHub Profile Info Search
 * [Discord MD Badge](https://github.com/montylion/discord-md-badge) - Add Discord Badge to GitHub
 * [Github vscode icons](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
 * [github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - Material Icons
