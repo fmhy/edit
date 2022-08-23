@@ -657,7 +657,10 @@
 ## ▷ Streaming
 
 * [Streaming Improved](https://rentry.co/ItalianStreamingImproved), [2](https://rentry.co/t29tz) - Streaming Sites List
-* [Altaefinizione](https://altadefinizione.sh/) - Movies / TV / Anime 
+* [Altaefinizione](https://altadefinizione.sh/) - Movies / TV / Anime
+* [ilgeniodellostreaming](https://ilgeniodellostreaming.quest/) - Movies / TV / Anime
+* [StreamingCommunity](https://streamingcommunity.best/) - Movies / TV
+* [TantiFilm](https://www.tantifilm.autos/) - Movies / TV
 * [Arcoiris TV](https://www.arcoiris.tv/) - TV
 * [AnimeSaturn](https://www.animesaturn.it/) - Anime 
 * [AnimeWorld](https://www.animeworld.tv/) - Anime 
@@ -876,6 +879,7 @@
 * [CenterDL](https://centerdl.ir/) - Movies / TV
 * [filmha](https://filmha.top/) - Movies
 * [FastMovie](https://dl2.fastmovie.ir/Animation/) - Animated Movies
+* [bia2anime](https://bia2anime.site/) - Anime
 * [A101](http://a101.ir/) - Anime
 * [anidlencodes](https://anidlencodes.xyz/) - Anime
 * [List20](https://www.anime-list20.site/) - Anime
