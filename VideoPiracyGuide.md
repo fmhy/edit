@@ -233,7 +233,7 @@
 * [Prelinger Archives](http://www.panix.com/~footage/) - Ephemeral Films [Archive](https://archive.org/details/prelinger)
 * [StageDork](http://stagedork.com/), [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
 * [Rental Media](https://rentalmedia.neocities.org/index.html) - Free DVD Rentals
-* [SoMuchContent](https://somuchcontent.com/) - Sidemen Content / [Ad Script](https://greasyfork.org/en/scripts/448419-somuchqol)
+* [SoMuchContent](https://somuchcontent.com/) - Sidemen Content / [Ad Script](https://greasyfork.org/en/scripts/448419-somuchqol) / [App](https://pixeldrain.com/u/PodC9xL2)
 * [Unus Annus](https://archive.org/details/unus-annus) - Unus Annus Archive
 * [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/), [2](https://github.com/joric/bandersnatch) - Interactive player for Black Mirror: Bandersnatch
 * [ListenToAMovie](http://listentoamovie.com/) - Listen to Movies 
@@ -288,7 +288,7 @@
 * [Genoanime](https://genoanime.com/) - Sub / Dub 
 * [Just Dubs](http://justdubs.org/) - Dub
 * [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - Sub
-* [GoGoAnime](https://gogoanime.pe/), [2](https://streamani.net/), [3](https://www2.gogoanime.cm/), [4](https://gogoanime.film/), [5](https://gogoplay1.com/) - Sub / Dub / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime)
+* [GoGoAnime](https://gogoanime.ee/), [2](https://gogoanime.tel/) - Sub / Dub / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime) / [Mirrors](https://gogoanime.news/)
 * [AnimeShow](https://www2.animeshow.tv/) - Sub
 * [AnimeNana](https://animenana.com/) - Sub
 * [AnimeRush](https://www.animerush.tv/) - Sub / Dub
@@ -362,6 +362,7 @@
 * [Supercartoons](https://www.supercartoons.net/)
 * [b98](https://www.b98.tv/)
 * [Disney Video](https://video.disney.com/series/) - Disney Series & Shorts
+* [spongebob-cli](https://github.com/trakBan/spongebob-cli) - Spongebob Episode CLI
 * [South Park](https://southpark.cc.com/) - South Park Episodes / [Downloader](https://github.com/thepwrtank18/spdl)
 * [ToonamiAftermath](https://www.toonamiaftermath.com/) - Toonami Stream 
 
