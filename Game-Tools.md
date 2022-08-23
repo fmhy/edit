@@ -91,6 +91,7 @@
 * [5ETools](https://5e.tools/) or [DragonsFoot](https://www.dragonsfoot.org/) - Dungeons & Dragons Tools
 * [The Acaeum](https://www.acaeum.com/) - Dungeons & Dragons Database
 * [Archives of Nethys](https://aonprd.com/) - Pathfinder Database
+* [WarGamer](https://www.wargamer.com/) - Tabletop RPG Guides
 * [Roll20](https://roll20.net/), [Rolisteam](https://rolisteam.org/) or [Astral](https://www.astraltabletop.com/) - Tabletop RPG Streaming
 * [Tabletopy](https://tabletopy.com/) - Tabletop RPG Soundboard
 * [Map Generator](https://emptybuttons.itch.io/map-generator) - Tabletop Roleplaying Map Generator
@@ -122,6 +123,7 @@
 * [r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/) - Find Games from Screenshot or Description
 * [GameGuides](https://www.gamerguides.com/), [Retro Game Strategy Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_retro_game_strategy_guides), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [GamePressure](https://www.gamepressure.com/) or [Samurai Gamers](https://samurai-gamers.com/) - Strategy Guides & Walkthroughs
 * [LP Archives](https://lparchive.org/) - Let's Play Archive
+* [TwitchArchive](https://twitcharchive.com/) - Twitch Video Archive
 * [Before I Play](http://www.beforeiplay.com/) - Tips for any Game 
 * [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
 * [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - System Gaming Tweak Guide
@@ -289,9 +291,10 @@
 ## ▷ GTA Tools
 
 * [GTAAll](https://www.gtaall.com/), [GTAInside](https://gtainside.com/), [GameModding](https://gamemodding.com/), [GTAGarage](https://gtagarage.com/) or [LibertyCity](https://libertycity.net/) - GTA Mods, Cheats, Walkthroughs & more
+* [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
 * [FiveM](https://fivem.net/) - Modded GTAV Servers
 * [GTA-V-patcher](https://github.com/NicolasR/GTA-V-patcher) - Automate GTAV Patches
-* [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - GTA5 FidelityFX Super Resolution Mod
+* [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - GTAV FidelityFX Super Resolution Mod
 * [Essential Menu](https://github.com/anonik9900/Essential-Menu) - GTAV Mod Menu
 * [GTAV-SimpleGangWar](https://github.com/David-Lor/GTAV-SimpleGangWar) - GTAV Gang War Script
 * [GTA-V-Suspender](https://github.com/gyfen/GTA-V-Suspender) - Suspend GTAV
@@ -448,7 +451,7 @@
 
 # ► Game Mods
 
-* **[ModDB](https://moddb.com/)**, [Nexus Mods](https://www.nexusmods.com/), [ZagruzkaMods](https://zagruzkamods.com/), [NextGenUpdate](https://www.nextgenupdate.com/), [ModWorkshop](https://modworkshop.net/), [Video Game Mods](https://videogamemods.com/), [Silent's Blog](https://cookieplmonster.github.io/mods/index/), [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack), [GameFront](https://gamefront.com/) or [CurseForge](https://www.curseforge.com/) - Game Mods 
+* **[Game Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_mods)** - Download Single Player Game Mods
 * [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers
 * [ChronoCrash](http://www.chronocrash.com/forum/) or [TheTechGame](https://www.thetechgame.com/) - Game Modding Forum
 * [Playground](https://www.playground.ru/) - Mods, Artbooks, Soundtracks, Cheats & more
@@ -483,8 +486,12 @@
 * [Synergy2k](https://synergy2k.net/) - NBA 2K MyCareer Mod Tool
 * [Forza Painter](https://github.com/forza-painter/forza-painter) - Import Images to Forza
 * [Silent Hill 2: Enhanced Edition](http://enhanced.townofsilenthill.com/SH2/) - Silent Hill 2 Mod Project
+* [ETS2Planet](https://www.ets2planet.net/) or [EuroTruckSimulator2](https://www.eurotrucksimulator2.uk/) - Euro Truck Simulator 2 Mods
 * [Superblt](https://superblt.znix.xyz/) - Payday 2 Modding Tool
 * [Payday 2 FPS Boost](https://steamcommunity.com/sharedfiles/filedetails/?id=1933473710) - Payday 2 FPS Boost Mod List
+* [RimWorldBase](https://www.rimworldbase.com/) - RimWorld Mods
+* [StellarisMods](http://stellarismods.net/) - Stellaris Mods
+* [SMods](https://smods.ru/) - Cities: Skylines Mods
 * [NFSMods](https://nfsmods.xyz/home) or [Project Unite](https://discord.com/invite/3F6vEyp) - Need for Speed Mods
 * [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)
 * [Project ECLISE & Grind Thousand](https://discord.gg/PtfwpAznUB) - Plants vs. Zombies 2 Rebalance Mods / [YouTube](https://www.youtube.com/c/goodpea2)
