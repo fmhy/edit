@@ -151,7 +151,8 @@
 * [PDF Keywords Extractor](https://github.com/bendersej/pdf-keywords-extractor) - PDF File Text Search
 * [ConvertText](https://converttext.io/) - Text Converter
 * [Text File Splitter](https://textfilesplitter.com/) - Text File Splitter
-* [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - Rephrase / Paraphrase Text 
+* [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - Rephrase / Paraphrase Text
+* [Neble](https://neble.app/summary) - Sunmarize Text
 * [Linguix](https://linguix.com/), [HyperWrite](https://hyperwriteai.com/) or [TextCleanr](https://www.textcleanr.com/) - Writing Assistant
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
 * [Cliche Finder](http://cliche.theinfo.org/) - Detect Cliches
@@ -603,6 +604,7 @@
 * **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
 * **[Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)** - Create Resumes for Free
 * [GitHub Résumé](https://github.com/resume/resume.github.com) - Generate Resume from GitHub Activity
+* [AskEdith](https://www.askedith.ai/demo) - Ask AI Job / Business Questions
 * [LoopCV](https://www.loopcv.pro/) - Automated Job Search Tool
 * [Toby Tools](https://rentry.co/qnu6x) - Job Search Tools
 * [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) - Successful Resume Samples
@@ -642,6 +644,7 @@
 * [Lecture Links for Placement Preparation in Computer Science](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
 * [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list), [StartupLibrary](https://startuplibrary.co/) or [500+ Free Tools For Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Tools
 * [BetaList](https://betalist.com/) - Get Startup Ideas
+* [HalfBakedIdeas](https://halfbakedideas.vercel.app/feed) - Share Startup Ideas
 * [Failory](https://www.failory.com/graveyard) - Learn Why Startups & Products Failed
 * [AngelLIst](https://angel.co/) - Startup Community
 * [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites 
@@ -940,7 +943,7 @@
 * [Rom CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac), [2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Search Rom Sites
 * [Fagan Finder](https://www.faganfinder.com/), [DirectSearch.Net](http://www.directsearch.net/) or [Search Engine Colossus](https://www.searchenginecolossus.com/) - Search Engine Directory
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - DuckDuckGo !bang Meta Serarch / [GitHub](https://github.com/MoserMichael/duckduckbang)
-* [Jumps](https://jumps.io/) - Site Quick Search
+* [Jumps](https://jumps.io/) or [Yubnub](https://yubnub.org/) - Site Quick Search
 * [Soovle](https://soovle.com/), [Keyword.io](http://www.keyword.io/), [SearchEngineReports](https://searchenginereports.net/) or [Keyword Tool](https://keywordtool.io/) - Popular Keyword Search
 * [Esteroids](https://esteroids.eth.limo/#) - Decentralized Web Search Engine
 * [Social-Searcher](https://www.social-searcher.com/), [HashFinder](https://www.hashfinder.xyz/), [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap), [Social Media CSE](https://cse.google.com/cse?cx=73dda67fd05b4405f#gsc.tab=1&gsc.sort=) or [Social Mention](http://socialmention.com/) - Social Media Search Engine  
@@ -1021,6 +1024,7 @@
 * [Paup](http://paup.ml/) - `paup.ml/H9-R2`
 * [Scur](https://scur.link/) - `scur.link/pLyF`
 * [1kb](https://1kb.link/) - `1kb.link/acc0a`
+* [x.gd](https://x.gd/) `x.gd/rcg0Z`
 * [shrtcode](https://app.shrtco.de/) - `shrtco.de/lsoWP`
 * [bom.so](https://bom.so/) - `bom.so/VevMJv`
 * [by.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
@@ -1332,6 +1336,7 @@
 * [YeetMeet](https://github.com/1337w0rm/YeetMeet) - Meeting Auto Join Bot
 * [Unigram](https://github.com/UnigramDev/Unigram), [Tok](https://invent.kde.org/network/tok), [TDesktop](https://github.com/Forkgram/tdesktop) or [Kotatogram](https://github.com/kotatogram/kotatogram-desktop) - Telegram Desktop Client
 * [Web.Telegram](https://web.telegram.org/), [2](https://webk.telegram.org/), [3](https://webz.telegram.org/) - Telegram Web Client
+* [tg](https://github.com/paul-nameless/tg) - Telegram Terminal Client
 * [Pyrogram](https://docs.pyrogram.org/) - Telegram API Client
 * [Telega.el](https://github.com/zevlg/telega.el) - Telegram Emacs Client
 * [TeleWebGram](https://telewebgram.com/) - Online Telegram Channel Viewer
@@ -1359,6 +1364,7 @@
 
 ## ▷ YouTube Tools
 
+* **[YouTube Advanced Search](https://playlists.at/youtube/search/)**
 * **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)** - Download Videos from YouTube
 * **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download Audio from YouTube
 * **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** or [yt dislikes viewer](https://github.com/pgamerx/yt-dislikes-viewer) - View YouTube Dislikes / [Discord](https://discord.com/invite/mYnESY4Md5)
@@ -1372,6 +1378,7 @@
 * [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube), [ImprovedTube](http://improvedtube.com/), [Iridium](https://github.com/ParticleCore/Iridium), [Improve YouTube!](https://github.com/code-for-charity/YouTube-Extension) or [Magic Actions for YouTube](https://www.mycinema.pro/) - YouTube Enhancement Addons 
 * [Focused YouTube](https://github.com/makaroni4/focused_youtube) - Minimalist YouTube
 * [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux) or [Classic YouTube Design](https://github.com/Cicero-Interactive/Classic-YouTube-Design/) - Restore Classic YouTube Layout 
+* [YouTubeFluent](https://github.com/LawOff/YouTubeFluent) - YouTube Fluent Theme
 * [YouTube Real Cinema Mode](https://userstyles.org/styles/122032/youtube-real-cinema-mode) - Improved YouTube Cinema Mode
 * [NSFW Youtube](https://www.nsfwyoutube.com) or [Simple YouTube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - Bypass YouTube Age Restrictions
 * [YTUnblock](https://ytunblock.weebly.com/) or [Unblocker](http://www.unblocker.yt/) - Bypass YouTube Geo-Restrictions
@@ -1402,11 +1409,11 @@
 * [SmartTubeNext](https://smartyoutubetv.github.io/) - Ad Free Android TV YouTube Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)
 * [YouTube_RSS](https://github.com/SimonDaNinja/youtube_rss) - YouTube RSS Client
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
-* [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - YouTube to GIF 
+* [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - YouTube to GIF
 * [VideoGlancer](https://videoglancer.com/) - YouTube to PDF
 * [ytcropper](https://ytcropper.com/) or [YTCutter.com](https://ytcutter.com/) - YouTube Video Cropper
 * [Vid Repeat](https://vidrepeat.com/) - Loop YouTube Videos
-* [AnnotationsRestored](https://github.com/isaackd/AnnotationsRestored) - Restore YouTube Annotations
+* [AnnotationsRestored](https://github.com/isaackd/AnnotationsRestored) or [YouTube Annotations](https://archive.org/details/youtubeannotations) - Restore YouTube Annotations
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note Taking Tool
 * [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels 
 * [Hadzy](https://hadzy.com/), [YCS](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa?hl=en) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
@@ -1454,10 +1461,12 @@
 * [YouTube Data Calc](https://dlogic.lk/projects/youtubedatacalc.php) - YouTube Data Usage Calculator
 * [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/) or [ytwrk](https://github.com/terorie/ytwrk) - YouTube Data Extraction 
 * [Youtube DataViewer](https://citizenevidence.amnestyusa.org/) or [YouTube-MA](https://github.com/CorentinB/YouTube-MA) - YouTube Video Data Viewer 
+* [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer) - Restore Deleted YouTube Video Titles in Playlists
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YouTube Screenshot](https://www.youtubescreenshot.com/), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [thumbnail-download](https://thumbnail-download.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - Download YouTube Thumbnails
 * [Screenshot YouTube](https://chrome.google.com/webstore/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk), [YouTube Screenshot](https://chrome.google.com/webstore/detail/youtube-screenshot/admjdaoijfccdllogfnddnllkghmkpfb?hl=en) or [YouTube Screenshot Button](https://chrome.google.com/webstore/detail/youtube-screenshot-button/ehehmcocpegbmagfhajbmeofolnpdfla?hl=en) - YouTube Screenshot Extension
 * [YouTube-Grab](https://github.com/ArchiveTeam/youtube-grab) or [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Metadata
 * [RadiTube](https://extension.raditube.com/) - View MetaData & Transcripts of Deleted YouTube Videos
+* [YouBit](https://github.com/MeViMo/youbit) - Use YouTube as File Host
 
 ***
 
@@ -1587,7 +1596,7 @@ Twitch Stream Tracker
 ## ▷ 4chan Tools
 
 * [Lurka](https://github.com/AdamSalma/Lurka) - 4chan Desktop Client
-* [SpookyX](https://github.com/Fiddlekins/SpookyX) or [Dollchan](https://dollchan.net/) - Adds Features to Imageboards
+* [SpookyX](https://github.com/Fiddlekins/SpookyX), [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) / [Themes](https://github.com/KevinParnell/OneeChan) or [Dollchan](https://dollchan.net/) - Adds Features to Imageboards
 * [ChanThreadWatch](https://github.com/SuperGouge/ChanThreadWatch) - Imageboard Thread Watcher
 * [4chanSearch](https://4chansearch.com/) - 4chan Search
 * [4stats](https://4stats.io/) - 4chan Board & Thread Stats
@@ -1653,7 +1662,6 @@ Twitch Stream Tracker
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - Mouse Click Latency Chart
 * [Sensor.fyi](https://sensor.fyi/info/) - Mouse Guide / Information
-* [BTOD](https://www.btod.com/blog/category/buying-guides/) - Office Chair Buying Guides / Reviews
 * [Office License Isn't Genuine](https://web.archive.org/web/20211014003224/https://windowsaddict.ml/office-license-is-not-genuine) - Fix Office Activation Issues
 * [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) - BSD Operating Systems
 * [Medicat USB](https://medicatusb.com/) - USB Toolkit
@@ -1673,7 +1681,7 @@ Twitch Stream Tracker
 * [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) or [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - Extended Windows 7 Updates 
 * [WSUOffline](https://download.wsusoffline.net/) - Offline Windows Updates
 * [WUReset](https://wureset.com/) - Reset Windows Update Components
-* [Wu10Man](https://github.com/WereDev/Wu10Man), [stopupdates10](https://greatis.com/stopupdates10/) or [windows-update-blocker](https://www.sordum.org/9470/windows-update-blocker-v1-7/) - Enable / Disable Windows 10 Updates
+* [Wu10Man](https://github.com/WereDev/Wu10Man), [stopupdates10](https://greatis.com/stopupdates10/), [InControl](https://www.grc.com/incontrol.htm) or [windows-update-blocker](https://www.sordum.org/9470/windows-update-blocker-v1-7/) - Enable / Disable Windows 10 Updates
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
 * [XTR Toolbox](https://zeeex.github.io/XTR-Toolbox/) / [GitHub](https://github.com/Zeeex/XTR-Toolbox/), [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [TweakUtility](https://github.com/Craftplacer/TweakUtility), [MagicX Toolbox](https://github.com/Ahsan40/MagicX-Toolbox), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - Windows Tweaking Tools
 * [Couleur Tweak Tips](http://discord.gg/CTT), [Redwan Tweaks](https://discord.gg/4RhQurkFBZ) or [TweakCentral](https://tweakcentral.net/) - Windows Tweaks & Tips
@@ -1696,12 +1704,12 @@ Twitch Stream Tracker
 * [GParted](https://gparted.org/) or [AOMEI](https://www.diskpart.com/) - Partition Manager
 * [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-P) - Easy GPU Paravirtualization
 * [Gptgen](https://github.com/xorangekiller/gptgen) - MBR Partition Table to GPT Converter
-* [WinCDEmu](https://wincdemu.sysprogs.org/) - CD/DVD/BD Emulator  
+* [WinCDEmu](https://wincdemu.sysprogs.org/) - CD/DVD/BD Emulator
 * [PC Optimization Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - PC Optimization Resource Index
-* [SpeedyFox](https://crystalidea.com/speedyfox) - Optimize Program Performance  
+* [SpeedyFox](https://crystalidea.com/speedyfox) - Optimize Program Performance
 * [CCStopper](https://github.com/E-Soda/CCStopper) - Stop Background Adobe Apps
 * [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Debloat Adobe Apps
-* [AATU](https://amdaputuningutility.com/) - Ryzen Mobile Laptop Tuning Utility
+* [AATU](https://amdaputuningutility.com/) or [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Ryzen Mobile Laptop Tuning Utility
 * [NBFC](https://github.com/hirschmann/nbfc) - Laptop Fan Control
 * [FanControl](https://github.com/Rem0o/FanControl.Releases) - Fan Control
 * [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - Manage & Control NVIDIA Cards
@@ -1744,6 +1752,7 @@ Twitch Stream Tracker
 * [](https://www.win-raid.com/t9926f16-TOOL-Lenovo-H-Bios-Unlocker-and-Locker.html) - Lenovo (H20) Bios Unlocker / Locker
 * [x64dbg](https://github.com/x64dbg/x64dbg) - Windows Debugging Tool
 * [UptimeFaker](https://github.com/CookiePLMonster/UptimeFaker) - System Uptime Debugger
+* [JitMagic](https://github.com/mrexodia/JitMagic) - Run Multiple Just-In-Time Debuggers
 * [OllyDbg](https://www.ollydbg.de/) - Binary Code Analysis Tool
 * [WhoCrashed](https://www.resplendence.com/whocrashed) - Windows Crash Analyzer
 * [PSU Calculator](https://www.newegg.com/tools/power-supply-calculator/) or [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Find Compatible Power Supplies
@@ -1882,7 +1891,8 @@ Twitch Stream Tracker
 * [sven dpi](https://www.sven.de/dpi/) - DPI Calculator 
 * [Screen Sizes](https://screensiz.es/) - Screen Size Database
 * [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
-* [JScreenFix](https://www.jscreenfix.com/) or [UDPixel](http://udpix.free.fr/) - Repair Stuck Pixels 
+* [JScreenFix](https://www.jscreenfix.com/) or [UDPixel](http://udpix.free.fr/) - Repair Stuck Pixels
+* [ICC Profiles](https://tftcentral.co.uk/articles/icc_profiles) - ICC Profiles and Monitor Calibration
 * [EIZO](https://www.eizo.be/monitor-test/) or [LCDTech](https://lcdtech.info/en/tests/) - Display Performance Tests
 * [TestUFO](https://www.testufo.com/) - Monitor Framerate Test
 * [All Black Screen](https://allblackscreen.com/) - Make Screen Black
@@ -2057,7 +2067,7 @@ Twitch Stream Tracker
 * [FileInfo](https://fileinfo.com/), [File-Extensions.info](https://file-extensions.info/) or [File-Extensions](https://www.file-extensions.org/) - File Extension Library
 * [download](https://github.com/kevva/download) - File Download Tool / Extractor / [CLI](https://github.com/kevva/download-cli)
 * [XBackBone](https://xbackbone.app/) - File Manager / [GitHub](https://github.com/SergiX44/XBackBone)
-* [DropIt](http://www.dropitproject.com/) or [Organize](https://github.com/tfeldmann/organize) - Automated File Manager
+* [DropIt](http://www.dropitproject.com/), [THE-ORGANIZER](https://github.com/mishrabiswajit/THE-ORGANIZER/) or [Organize](https://github.com/tfeldmann/organize) - Automated File Manager
 * [What](https://github.com/bee-san/pyWhat) - Text & File Analyzer
 * [WhoLeaked](https://github.com/utkusen/wholeaked) - File Leak Tracker
 * [DownloadTimeCalculator](https://downloadtimecalculator.com/) - Calculate Time to Download Files
