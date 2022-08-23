@@ -126,8 +126,9 @@
 * [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) - Anti-Malware Stress Test
 * [WireShark](https://www.wireshark.org/) - Network Protocol Analyzer 
 * [PacketTotal](https://packettotal.com/) - PCAP / Network Analysis 
-* [should-i-trust](https://github.com/ericalexanderorg/should-i-trust) - Evaluates OSINT Signals for a Domain 
+* [should-i-trust](https://github.com/ericalexanderorg/should-i-trust) - Evaluates OSINT Signals for a Domain
 * [SecurityHeaders](https://securityheaders.com/) - Security Header Scan
+* [Penteract Disguised](https://apps.microsoft.com/store/detail/penteract-disguisedkeyboard-detector-2/9P7FV5575G0C?hl=en-in&gl=IN) - Prevent Automatic Keyboard Attacks
 * [Phish.ly](https://phish.ly/) - Scan Suspicious Emails
 * [TokenSniffer](https://tokensniffer.com/) - DEX Trading Scan 
 * [Any.Run](https://any.run/) - Interactive Malware Sandbox
@@ -187,7 +188,7 @@
 * [Open Source Guides](https://opensource.guide/) - Open Source Guide / [GitHub](https://github.com/github/opensource.guide)
 * [Privacy.Sexy](https://privacy.sexy/) - Privacy Scripts 
 * [Privacy Settings](https://github.com/the-weird-aquarian/privacy-settings) - Privacy Setting Guides
-* [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) - Security Camera System
+* [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) - Security Camera System
 * [Vault](https://www.vaultproject.io/) - Data Security Service / [GitHub](https://github.com/hashicorp/vault)
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/), [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources), [Infosec Resources](https://github.com/stong/infosec-resources) or [Anon Security](https://t.me/anon_server) - Cybersecurity Resources
@@ -226,8 +227,7 @@
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
 * [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/), [Skytransfer](https://skytransfer.hns.siasky.net) or [upload-vaa](https://upload.vaa.red/) - Encrypted File Hosts 
 * [boom.fyi](https://www.boom.fyi/) - Temporary File Host
-* [EncFS MP](https://encfsmp.sourceforge.io/index.html), [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/), [GPG4Win](https://www.gpg4win.org/), [Encrypto](https://macpaw.com/encrypto), [FreeCrypt](https://freecrypt.org/
-), [Vmola](https://vmola.com/), [Kryptor](https://www.kryptor.co.uk/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - File Encryption Tool 
+* [EncFS MP](https://encfsmp.sourceforge.io/index.html), [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/), [GPG4Win](https://www.gpg4win.org/), [Encrypto](https://macpaw.com/encrypto), [FreeCrypt](https://freecrypt.org/), [Vmola](https://vmola.com/), [Kryptor](https://www.kryptor.co.uk/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - File Encryption Tool 
 * [Filecrypt](https://filecrypt.cc/) - Encrypt File Links
 * [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
 * [PDFEncrypt](https://pdfencrypt.net/) - PDF File Encryption
@@ -274,6 +274,7 @@
 * [Mobile Verification Toolkit](https://github.com/mvt-project/mvt) - Test for Potential Compromises on Android / iOS
 * [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) - Vehicle Security Resources Index
 * [uBeacSec](https://ubeacsec.org/) - Ultrasound Frequency Filter
+* [Fingerprint Suite](https://github.com/apify/fingerprint-suite) - Browser Fingerprinting Tools / Scraping Anonymization 
 * [NoScriptFingerprint](https://noscriptfingerprint.com/) - How JavaScript Fingerprinting Works
 * [GoFOSS](https://gofoss.net/) - Why You Should Use FOSS Alternatives
 
@@ -294,6 +295,7 @@
 * [Anti-Fp](https://www.cydecplatform.com/antifp.html) - Disrupt Fingerprint Targeting
 * [CanvasBlocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_canvasblocker) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - Prevent Canvas Fingerprinting
 * [Refer Deez Nuts](https://addons.mozilla.org/en-US/firefox/addon/refer-deez-nuts/) - Hide Referral Code Clicks
+* [GNU LibreJS](https://www.gnu.org/software/librejs/) - Block Trivial Javascript
 * [PortAuthority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/) - Block Javascript Port Scan on Sites
 * [First Party Isolation](https://github.com/mozfreddyb/webext-firstpartyisolation) - Like blocking Third-party cookies, but more exhaustively
 * [Location Guard](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_location_guard) - Hide Browsers Geolocation
@@ -313,7 +315,7 @@
 * [VPNTabs](https://github.com/Nickguitar/VPNTabs) - Force Firefox Tabs through VPN or Tor
 * [Smart Referer](https://gitlab.com/smart-referrer/smart-referer) - Limit Referer Information Leaks 
 * [Privacy-Oriented Origin Policy](https://claustromaniac.github.io/poop/) - Prevents Sending Origin Headers 
-* [GAOptOut](https://tools.google.com/dlpage/gaoptout) or [Trackless](https://github.com/ascorbic/trackless)  - Google Analytics Opt Out
+* [GAOptOut](https://tools.google.com/dlpage/gaoptout) or [Trackless](https://github.com/ascorbic/trackless) - Google Analytics Opt Out
 * [Opt Out Tools](https://add0n.com/opt-out.html) - Prevents JavaScript from sending Google info  
 * [Luminous](https://gbaptista.github.io/luminous/doc/en-US/) - JavaScript Events Blocker 
 * [Behave!](https://github.com/mindedsecurity/behave) - IP Protection 
