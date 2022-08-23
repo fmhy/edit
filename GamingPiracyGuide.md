@@ -316,6 +316,7 @@
 * [RetroSpec](http://retrospec.sgn.net/) - Retro Games
 * [OldPCGaming](http://oldpcgaming.net/) - Retro PC Games
 * [~archive](http://websites.umich.edu/~archive/) - Retro PC / Mac Games
+* [LegendsWorld](https://www.legendsworld.net/) - Retro Adventure PC Games
 * [MSXGamesWorld](https://msxgamesworld.com/index.php) or [MSXAbandonware](http://msxabandonware.com/en/home) - MSX Games 
 * [The Outdated Arcade](https://discord.gg/SPZpMpntj9) - Game Preservation Server 
 * [Japanese PC Compendium](http://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
