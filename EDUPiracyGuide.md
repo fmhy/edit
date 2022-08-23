@@ -655,7 +655,8 @@
 * [Information Is Beautiful](https://informationisbeautiful.net/) - Data / Information / Infographics / Visualizations 
 * [/r/coolguides](https://reddit.com/r/coolguides/), [1001 Tutorials](http://www.fricking.ninja/DIY/index/1001%20Tutorials/), [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials 
 * [LitCharts](https://www.litcharts.com/) - Literature Guides
-* [The Punctuation Guide](https://www.thepunctuationguide.com/) - Punctuation Guide 
+* [The Punctuation Guide](https://www.thepunctuationguide.com/) - Punctuation Guide
+* [AWAD Challenge](http://awadchallenge.com/) - Learn a New Word Everyday
 * [Bonsai](https://bonsaibrowser.com/) - Research Web Browser
 * [StringMark](https://www.stringmark.com/) - Save & Mark Research in Browser
 * [Lurnby](https://github.com/Roznoshchik/Lurnby) - Improved Browser Readability / Highlighting
