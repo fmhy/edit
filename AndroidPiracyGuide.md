@@ -184,7 +184,7 @@
 * [PotatoNV](https://github.com/mashed-potatoes/PotatoNV) - Huawei Device Bootloader
 * [Amazing Temp Root](https://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - MediaTek Temp Root
 * [Smali Patcher](https://forum.xda-developers.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
-* [Play Integrity API Checker](https://play.google.com/store/apps/details?id=gr.nikolasspyr.integritycheck) - Device Integrity Checker
+* [Play Integrity API Checker](https://play.google.com/store/apps/details?id=gr.nikolasspyr.integritycheck) or [Auditor](https://play.google.com/store/apps/details?id=app.attestation.auditor) - Device Integrity Checker
 * [DarQ](https://www.apkmirror.com/apk/mighty-quinn-apps/darq/), [Dark Mode](https://play.google.com/store/apps/details?id=com.dotdat.darkmodeapp) or [Darkmode Guide](https://pastebin.com/cvast4uN) - Universal Dark Mode
 * [Raise To Answer](https://play.google.com/store/apps/details?id=me.hackerchick.raisetoanswer) - Answer Phone by Raising to Ear
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - Android Cleanup Tool
@@ -195,7 +195,7 @@
 * [Water Resistance Tester](https://play.google.com/store/apps/details?id=com.ray.waterresistancetester) - Test Phones Water Resistance
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Make Your Phone Less Distracting
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - Ringtones Directory
-* [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Manager
+* [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3), [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Manager
 * [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) - App Themed Icons
 * [Arcticons](https://arcticons.onnno.nl/) - Monotone Icon Pack
 * [FreeBrowser ](https://freebrowser.org/) - Internet Censorship Circumvention / [Wiki](https://github.com/greatfire/wiki)
@@ -328,11 +328,12 @@
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - Article / Link Viewer
 * [Better Open With](https://play.google.com/store/apps/details?id=com.aboutmycode.betteropenwith) - Improved Link Handling
 * [PDF Maker](https://play.google.com/store/apps/details?id=opofficial.pdfmaker) - PDF Creator
-* [Fasthub-Libre](https://github.com/thermatk/FastHub-Libre) - Github Client
+* [Fasthub-Libre](https://github.com/thermatk/FastHub-Libre) or [GitNex](https://codeberg.org/gitnex/GitNex/) - Github Client
 * [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - Track Github User Activity
 * [Lagrange](https://skyjake.github.io/fdroid/repo/) - Gemini Browser
 * [BlueClover](https://github.com/nnuudev/BlueClover) or [Chan](https://github.com/moffatman/chan) - 4Chan Browser
 * [LoliSnatcher Droid](https://github.com/NO-ob/LoliSnatcher_Droid) - Booru Client
+* [Flutter News](https://github.com/CoderJava/Flutter-News-App) - News
 * [Hacki](https://github.com/Livinglist/Hacki) - Hacker News
 * [ServeIt](https://github.com/many-fac3d-g0d/ServeIt) - Android HTTP Server
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - Easily Open Links in Text via Share Function
@@ -376,6 +377,7 @@
 * [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - Multi-Calculator App
 * [Get Unstuck](https://socratic.org/) - Homework Answers / Help 
 * [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - To-Do List Apps
+* [Flutter Clock](https://github.com/afzalali15/flutter_alarm_clock) - Clock / Alarm
 * [Etar](https://github.com/Etar-Group/Etar-Calendar), [digical](https://digibites.nl/digical), [TimeBlocks](https://timeblocks.com/) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendars
 * [ShiftCal](https://gitlab.com/Nulide/ShiftCal) - Shift Calendar
 * [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock) - Daily Planner
@@ -411,7 +413,7 @@
 * [Odin](https://www.odindownload.com/) or [IVTheme](https://www.ivtheme.com/) - ROM Flashing Tools
 * [UniPatcher](https://github.com/btimofeev/UniPatcher) - ROM Patcher
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Device Tracker
-* [OwnTracks](https://owntracks.org/) or [Hauk](https://github.com/bilde2910/Hauk) - Track Own Location
+* [OwnTracks](https://owntracks.org/) or [Hauk](https://github.com/bilde2910/Hauk) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location
 * [PhoneAccount Abuse Detector](https://play.google.com/store/apps/details?id=space.linuxct.phoneaccountdetector) - Android Emergency Calling Bug Check
 * [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451), [SkyHawk](https://skyhawkrecovery.github.io/) / [GitHub](https://github.com/SHRP), [PitchBlack](https://pitchblackrecovery.com/) or [OrangeFox](https://wiki.orangefox.tech/en/home) / [GitHub](https://gitlab.com/OrangeFox/misc/appdev/app) - Custom Recovery Firmware
 * [TWRP Root](https://twrp.me/) - TWRP Recovery Samsung / [Telegram](https://t.me/samsung_twrp_root/78379)
@@ -454,6 +456,7 @@
 * [Aptoide](https://aptoide.com/) - Alt App Store
 * [AC-Market](https://ac-market.org/) - Alt App Store
 * [Skydroid](https://github.com/redsolver/skydroid) - Alt App Store
+* [Accrescent](https://accrescent.app/) - Alt App Store
 * [Fossapps Creator](https://un.pixel-fy.com/) - Fossapps Package Creator / [GitHub](https://github.com/wacko1805/Fossapps-creator)
 * [Android Zone](https://android-zone.ws/) - Forum
 * [Android App](https://techy-transistor.notion.site/5359aca6d9494ed893e57823f55499e5?v=4a68e3958c1b443fa61e25c87f96d384) - Untouched
@@ -620,6 +623,7 @@
 * [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) - [Screenshot](https://i.imgur.com/rZ2JeCO.png)
 * [Red Torrent](https://sourceforge.net/projects/redtorrent/) - [Screenshot](https://i.imgur.com/uVKVVLg.png)
 * [Android-A](http://android-a.com/) - [Screenshot](https://i.imgur.com/khlurm7.png)
+* [CatTorrent](https://apkcombo.com/cattorrent/com.napolovd.piratecat/) - [Screenshot](https://i.imgur.com/JtdXk9t.png)
 * [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - [Screenshot](https://i.imgur.com/OrK3mLu.png)
 * [WeTorrent](https://play.google.com/store/apps/details?id=co.we.torrent&amp;hl=en_US) - [Screenshot](https://i.imgur.com/vrCk8Na.png)
 * [BiglyBT](https://android.biglybt.com/) - [Screenshot](https://i.imgur.com/WP7xwYK.png) 
@@ -667,8 +671,10 @@
 * [NovelLibrary](https://github.com/gmathi/NovelLibrary) - Light Novels / [Discord](https://discord.gg/qFZX4vdEdF)
 * [LNReader](https://github.com/LNReader/lnreader) - Light Novels
 * [Baruch](https://github.com/adreeeyan/baruch) - Light Novels
+* [IReader](https://github.com/IReaderorg/IReader) - Light Novels
 * [QuickNovel](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.quicknovel) - Light Novels
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - Borrow Digital Library Books
+* [Openreads](https://f-droid.org/en/packages/software.mdev.bookstracker/) - Book Manager / Tracker
 
 ***
 
@@ -712,6 +718,7 @@
 * [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizer
 * [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) - Headphone Audio Equalizer 
 * [Voleq](https://play.google.com/store/apps/details?id=com.veryclevernamecompany.voleq) - Volume Equalizer
+* [Audify](https://play.google.com/store/apps/details?id=in.codeseed.audify) - Reduce Notification Distractions
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - Identify Playing Songs
 * [skipTrackLongPressVolume](https://github.com/Cilenco/skipTrackLongPressVolume) or [Volumee](https://maslanka.app/volumee/) - Volume Button Track Control
 * [CAPod](https://play.google.com/store/apps/details?id=eu.darken.capod) - Extra AirPod Features
