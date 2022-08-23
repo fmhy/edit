@@ -90,7 +90,7 @@
 * [Rang3r](https://github.com/floriankunushevci/rang3r) - IP / Port Scanner
 * [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
 * [Brunch](https://github.com/sebanc/brunch) or [Chromefy](https://github.com/imperador/chromefy) - ChromeOS Installer
-* [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/), [FydeOS](https://fydeos.io/download), [NeverWare](https://www.neverware.com/) or [WayneOS](https://wayne-os.com/) - ChromeOS Based OS
+* [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/) / [Guide](https://support.google.com/chromeosflex/answer/11552529?hl=en), [FydeOS](https://fydeos.io/download), [NeverWare](https://www.neverware.com/) or [WayneOS](https://wayne-os.com/) - ChromeOS Based OS
 * [Chromebrew](https://github.com/skycocker/chromebrew) - Package Manager for ChromeOS
 * [Chrome100](https://chrome100.dev/) - ChromeOS Recovery Images
 * [Crouton](https://github.com/dnschneid/crouton) - Chromebook Linux OS
@@ -168,6 +168,7 @@
 * [SongRec](https://github.com/marin-m/SongRec) - Song Identifier
 * [AV Linux](http://www.bandshed.net/avlinux/) - Video / Audio Editor
 * [Flowblade](https://github.com/jliljebl/flowblade) - Video Editor
+* [V4L2Loopback](https://github.com/umlaeute/v4l2loopback) - Create Virtual Cameras
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Image Editor 
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) or [Frog](https://tenderowl.com/work/frog/) - Image to Text
 * [Feh](https://feh.finalrewind.org/) or [NSXIV](https://github.com/nsxiv/nsxiv) - Image Viewer
@@ -315,6 +316,7 @@
 * [Pling](https://www.pling.com/)
 * [IzzySoft Apt Repositories](https://apt.izzysoft.de/) 
 * [Awesome KDE](https://github.com/francoism90/awesome-kde)
+* [Plan9Port](https://github.com/9fans/plan9port)
 * [apps.gnome](https://apps.gnome.org/en-GB/) - GNOME Apps
 * [AppImagePool](https://github.com/prateekmedia/appimagepool) - Linux App Images
 * [AppImages](https://www.appimagehub.com/) - Linux App Images
@@ -338,6 +340,7 @@
 * [Batocera.linux](https://batocera.org/) or [Lakka](https://lakka.tv/) - Retro Gaming Distro
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI for Steam
 * [steam-cli](https://github.com/berenm/steam-cli) - CLI for Steam
+* [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
 * [GameScope](https://github.com/Plagman/gamescope) - Steam Session Compositing Window Manager
 * [SamRewritten](https://github.com/PaulCombal/SamRewritten) - Steam Achievement Manager
 * [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - Steam Linux Beta Issue Tracker
