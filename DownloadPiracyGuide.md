@@ -441,6 +441,7 @@
 * [@Transload](https://t.me/transload), [@deltaleechbot](https://t.me/deltaleechbot) or [@GTransLoaderbot](https://t.me/GTransLoaderbot) - Telegram Leech Bots
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Send Premium Files to Leeches
 * [LeecherParadise](https://leechersparadise.com/) - Leech
+* [Newscon](https://www.newscon.net/debrid/) - Leech
 
 ***
 
