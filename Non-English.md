@@ -690,6 +690,7 @@
 * [JPLearner](http://www.jplearner.to/) - Video / Manga / Magazines
 * [剧集](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.5267.96C6) - Anime / Drive 
 * [AnimeTime](https://www.animetime.pw/) - Anime 
+* [bia2anime](https://bia2anime.site/) - Anime
 * [arearaw](http://arearaw.com/) - Anime / Use Tor 
 * [GameCenter CX Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_gamecenter_cx_archives) - GameCenter CX Archive
 * [Sukidesuost](https://sukidesuost.info/) - Music / MP3 / FLAC
