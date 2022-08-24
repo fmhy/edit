@@ -513,6 +513,7 @@
 * [MoviesVerse](https://moviezverse.com/) - Movies / TV / [Telegram](https://t.me/moviesflixverse) 
 * [MKV Mad](https://www.mkvmad.shop/) - Movies / TV
 * [WorldFree4U](https://worldfree4u.onl/) - Movies / TV
+* [MoviezMeet](https://m.moviezmeet.in/) - Movies
 * [atishmkv](https://atishmkv.cyou/) - Movies / TV
 * [1337xHD](https://1337xhd.shop/) - Movies / TV
 * [HDHub4u](https://hdhub4u.onl/) - Movies
@@ -677,8 +678,9 @@
 * [Poipiku](https://poipiku.com/) - User-Made Images
 * [Marshmallow](https://marshmallow-qa.com/) - Send & Receive Positive Messages
 * [Annict](https://annict.com/) - Anime Tracker
-* [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Anime Subtitles
+* [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) or [jpsubbers](http://jpsubbers.xyz/) - Anime Subtitles
 * [Japan Reference](https://jref.com/) - Japanese Culture Forum
+* [fuseji](http://fuseji.net/) - Hidden Character Search
 
 ## ▷ Downloading
 
@@ -688,6 +690,7 @@
 * [JPFILES](https://jpfiles.eu/) - Video / Audio / Books / NSFW
 * [jpddl](https://jpddl.com/) - Manga / Anime / Music / Drama  
 * [JPLearner](http://www.jplearner.to/) - Video / Manga / Magazines
+* [JapanEncodings](https://japanencodings.blogspot.com/) - Movies
 * [剧集](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.5267.96C6) - Anime / Drive 
 * [AnimeTime](https://www.animetime.pw/) - Anime 
 * [bia2anime](https://bia2anime.site/) - Anime
@@ -711,6 +714,7 @@
 
 ## ▷ Torrenting
 
+* [share.dmhy](https://share.dmhy.org/) - Video / Audio / Game
 * [Beatrice](https://beatrice-raws.org/) - Anime
 * [Anime-Torrent](https://www.anime-torrent.com/) - Anime
 
@@ -739,6 +743,7 @@
 * [itazuraneko](https://itazuraneko.neocities.org/library/librarymain.html) - Manga / Novels / Video Novels / Audiobooks
 * [Rawmangaz](https://rentry.co/rawmangaz) - List of Raw Manga Sites
 * [senmanga](https://raw.senmanga.com/) - Manga / Novels / NSFW
+* [itazuraneko](https://itazuraneko.org/) - Books
 * [rawdevart](https://rawdevart.com/) - Manga 
 * [mangaraid](https://mangaraid.com/) - Manga / NSFW 
 * [DLRaw](https://dlraw.net/), [2](https://manga-zip.is/), [3](https://manga-zip.biz/) - Manga
@@ -748,17 +753,24 @@
 * [BSZip](https://bszip.com/) - Manga
 * [13DL](http://13dl.net/) - Manga
 * [DLZip](http://dl-zip.com/) - Manga
-* [MangaBox](https://www.mangabox.me/) - Manga 
+* [MangaBox](https://www.mangabox.me/) - Manga
+* [Mangaz](https://www.mangaz.com/) - Manga
+* [shinmoemanga](https://shinmoemanga.neocities.org/) - Manga
 * [Comic Walker](https://comic-walker.com/) - Manga
 * [Rawkuma](https://rawkuma.com/) - Manga
 * [WeLoMa](https://weloma.net/) - Manga
 * [KLManga](https://klmanga.com/) - Manga
+* [boroboro](https://boroboro.neocities.org/) - Manga
+* [tonarinoyj](https://tonarinoyj.jp/) - Manga
 * [Honto](https://honto.jp/cp/ebook/recent/free.html) - Manga / NSFW
 * [dl-zip](http://dl-zip.com/) - Manga / NSFW
-* [CMOA](https://www.cmoa.jp/) - Manga  
+* [CMOA](https://www.cmoa.jp/) - Manga
 * [shobonnexus](https://shobonnexus.com/) - Novels / Magazines  
-* [watanoc](http://watanoc.com/) - Articles / Learn Japanese 
-* [Nihongo Monash](http://nihongo.monash.edu/onlinejdic.html) or [Weblio](https://www.weblio.jp/) - Dictionaries
+* [watanoc](http://watanoc.com/), [yourei](https://yourei.jp/), [n-lab](http://www.n-lab.org/library/mondai/) or [国語文法](http://xn--vcs415akpfnn7a.com/) - Learn / Practice Japanese 
+* [kakijun](https://kakijun.jp/) - Learn Japanese Writing
+* [Nihongo Monash](http://nihongo.monash.edu/onlinejdic.html), [jitenon](https://jitenon.jp/), [kotobank](https://kotobank.jp/) or [Weblio](https://www.weblio.jp/) - Dictionaries
+* [Zokugo](http://zokugo-dict.com/) - Slang Dictionary
+* [accent.u-biq](https://accent.u-biq.org/) - Accent Dictionary
 
 ***
 
