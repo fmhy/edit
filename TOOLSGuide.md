@@ -91,7 +91,7 @@
 * [Timeliner](https://github.com/mholt/timeliner) - Create Personal Digital Timeline
 * [SwimLanes](https://swimlanes.io/) or [Diagrams.net](https://www.diagrams.net/) - Create Diagrams
 * [WhatDog](https://www.bing.com/visualsearch/Microsoft/WhatDog) - Dog Breed Identification Tool 
-* [tusk](https://tusk.page/) - Give & Receive Anonymous Feedback 
+* [tusk](https://tusk.page/) or [AnonReply](https://anonreply.com/) - Give & Receive Anonymous Feedback 
 * [Familypedia](https://familypedia.fandom.com/), [Gramps](https://gramps-project.org/blog/) or [WikiTree](https://wikitree.com/) - Family Trees
 * [DreamForth](http://www.dreamforth.com/) - Dream Interpretations
 * [Delphi](https://delphi.allenai.org/) - Morality Judgement A.I.
@@ -1605,6 +1605,7 @@ Twitch Stream Tracker
 * [4Chan GhostPostMixer](https://github.com/g-gundam/4chan-ghostpostmixer) - Interleave Deleted Posts from Archives
 * [Tripgen](https://orph.link/tripgen) - Imageboard Trip Code Generator 
 * [FlagHunter](https://gitlab.com/flagtism/flaghunter) - Find Rare Imageboard Flags
+* [Bant Flags](https://github.com/bantflags/bantflags) - Add Extra Flags to Posts
 * [ss21](https://github.com/saxamaphone69/ss21) - 4Chan Userstyle
 
 ***
