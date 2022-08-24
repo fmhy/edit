@@ -207,6 +207,7 @@
 * [RPCS3 Setup Guide](https://docs.google.com/document/d/1gdjNab-CtVS97jH2diPPP5tCrpBeof9-qPIRRB9-BrU/edit) - RPCS3 Emulator Setup Guide
 * [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PSCX Development Emulator
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://ps3.aldostools.org/updates.html) - Update PS3 Games
+* [EmuDeck](https://www.emudeck.com/) - Emulator for Steam Deck
 
 ***
 
