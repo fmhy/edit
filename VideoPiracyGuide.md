@@ -667,6 +667,7 @@
 * [DramaFans](http://www.dramafans.org/) - Asian Drama
 * [KingDrakor](https://kingdrakor.one/) - Asian Drama
 * [DoraMax264](https://doramax264.com/) - Asian Drama
+* [CondensedAudioCatalog](https://condensedaudiocatalog.com/) - Asian Drama
 * [Toku.fun](https://toku.fun/) - Japanese Superhero Movies
 * [Jackass Vault](https://discord.gg/ZH5MjcKmJJ) - Jackass Media
 * [TinyMKV](https://tinymkv.xyz/) - Movies / TV
@@ -847,6 +848,7 @@
 * [SSAnime](https://ssanime.ga/) - Sub
 * [DameDesuYo](https://damedesuyo.com/) - Sub 
 * [GoodJobMedia](https://www.goodjobmedia.com/) - Sub
+* [ASNet](https://asnet.pw/) - Sub
 * [Chihiro](https://chihiro-subs.com/) - Sub
 * [AnimeRG](https://animereleasegroup.blogspot.com/) - Sub / Dub
 * [Some-Stuffs](http://some-stuffs.com/) - Sub / [Discord](https://discord.gg/wYgXer2)
