@@ -136,6 +136,7 @@
 * **[Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_course_megadrives)** or **[Large Collection of Useful Mega DL's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_large_collection_of_useful_mega_dl.27s)**  - Courses / Drives
 * [Course Search Engine](https://cse.google.com/cse?cx=a02efb0346a176b46) - Search for Courses
 * [Reks Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive) - Courses
+* [OpenDirectory](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_opendirectory) - Courses
 * [11k+ Courses SpreadSheet](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_11k.2B_courses_spreadsheet) - Courses
 * [Revival](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_revival) - Courses
 * [Christmas Share](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_christmas_share) - Courses
@@ -511,7 +512,7 @@
 * [refold.la](https://refold.la/roadmap) - Language Learning Guide 
 * [clozemaster](https://www.clozemaster.com/) - Context Based Language Learning
 * [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - Language Learning Flashcards
-* [Learn English Online](http://www.learn-english-online.org/), [EnglishCentral](https://www.englishcentral.com/), [ESLFast](https://www.eslfast.com/), [TalkEnglish](https://www.talkenglish.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons), [Voscreen](http://voscreen.com/), [elllo](https://www.elllo.org/) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - Learn English
+* [Learn English Online](http://www.learn-english-online.org/), [EnglishCentral](https://www.englishcentral.com/), [ESLFast](https://www.eslfast.com/), [TalkEnglish](https://www.talkenglish.com/), [AntiMoon](https://www.antimoon.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons), [Voscreen](http://voscreen.com/), [elllo](https://www.elllo.org/) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - Learn English
 * [Listening Lab](https://www.esl-lab.com/) - English Listening Practice
 * [Podcasts in English](https://www.podcastsinenglish.com/) - English Learning Podcasts
 * [Free4Talk](https://www.free4talk.com/) or [Speaking24](http://www.speaking24.com/) - English Practice Community
@@ -529,16 +530,19 @@
 * [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
 * [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
 * [AnimeLon](https://animelon.com/) - Streaming / Anime / Learn Japanese
-* [Nihongo](https://nihongo-e-na.com/eng/), [Jim Breen's Japanese Page](http://nihongo.monash.edu/japanese.html), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/), [Itzazureneko](https://itazuraneko.neocities.org/learn/guide.html) - Japanese Learning Resources
-* [TheMoeWay](https://learnjapanese.moe/) / [Discord](https://discord.gg/nhqjydaR8j), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [jpdb](https://jpdb.io/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese
+* [Nihongo](https://nihongo-e-na.com/eng/), [Jim Breen's Japanese Page](http://nihongo.monash.edu/japanese.html), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [AnimeCards](https://animecards.site/), [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/), [Itzazureneko](https://itazuraneko.neocities.org/learn/guide.html) - Japanese Learning Resources
+* [TheMoeWay](https://learnjapanese.moe/) / [Discord](https://discord.gg/nhqjydaR8j), [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [Memento](https://github.com/ripose-jp/Memento) - Japanese Learning Video Player
-* [JapaneseWithAnime](https://www.japanesewithanime.com/) - Learn Japanese with Examples from Anime
+* [JapaneseWithAnime](https://www.japanesewithanime.com/) - Learn Japanese with Anime
+* [BilingualManga](https://bilingualmanga.net/) - Learn Japanese with Manga
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - Japanese Practice Material
-* [Jotoba](https://jotoba.de/) - Japanese Dictionary
+* [Jotoba](https://jotoba.de/), [core6000](https://core6000.neocities.org/), [Tagaini](https://www.tagaini.net/), [Jisho](https://jisho.org/), [JapBase](https://japbase.neocities.org/) or [rtk-search](https://hochanh.github.io/rtk/) - Japanese Dictionaries / Phrases
 * [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - Japanese Accent Dictionary
-* [GetKanda](https://getkana.com/app/) - Learn Kana 
-* [WaniKani](https://www.wanikani.com/) or [Manji](https://github.com/Livinglist/Manji) - Learn Kanji
+* [ichi.moe](https://ichi.moe/) - Japanese to English Phrase Translation
+* [Jlpt N3](https://dethitiengnhat.com/en/) or [JapaneseTest4You](https://japanesetest4you.com/) - Jlpt Exam Questions / [Grammar](https://jlptgrammarlist.neocities.org/)
+* [GetKanda](https://getkana.com/app/) or [RealKana](https://realkana.com/) - Learn Kana 
+* [WaniKani](https://www.wanikani.com/), [KanjiDamagePlus](https://kanjidamageplus.neocities.org/) or [Manji](https://github.com/Livinglist/Manji) - Learn Kanji
 * [Read Korean Letters](https://readkoreanletters.com/) - Learn Korean Characters 
 * [KR Dict](https://krdict.korean.go.kr/eng/) - Korean Learning Dictionary
 * [HowToStudyKorean](https://www.howtostudykorean.com/) - Korean Lessons & Practice
