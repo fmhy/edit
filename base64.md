@@ -1685,3 +1685,9 @@ pass: paluch
 #### Unbeatable Banzuke
 
 `aHR0cHM6Ly9yZWRkLml0Lzg4NjV3dA==`
+
+***
+
+#### OpenDirectory
+
+`aHR0cHM6Ly93d3cub3BlbmRpci5jbG91ZC8=`
