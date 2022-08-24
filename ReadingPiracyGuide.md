@@ -669,6 +669,7 @@
 * [WorldBank](https://www.worldbank.org/en/home) - Poverty Solution Research Data
 * [Einstein Papers](https://einsteinpapers.press.princeton.edu/) - Albert Einsteins Collected Papers Archive 
 * [CIA Publications](https://www.cia.gov/resources/publications/) - History / Reports
+* [FBI Vault](https://vault.fbi.gov/) -  Declassified Documents
 * [The Black Vault](https://www.theblackvault.com/) - Declassified Documents
 * [DDOS](https://ddosecrets.com/) - Transparency Collective
 * [Open Payments](https://openpaymentsdata.cms.gov/) - Medical Device Company Payment Reports
@@ -877,6 +878,7 @@
 * [Kanjiku](https://kanjiku.net/)
 * [MangaTX](https://mangatx.com/) 
 * [Flamescans](https://flamescans.org/)
+* [BilingualManga](https://bilingualmanga.net/)
 * [MangaFreak](https://w12.mangafreak.net/)
 * [Manga-Raw](https://www.manga-raw.club/)
 * [MangaInn](https://mangainn.net/) 
