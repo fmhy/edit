@@ -982,7 +982,8 @@
 * [Wandermap](http://www.wandermap.net/) - Hiking Routes
 * [Runmap](http://www.runmap.net/) - Running Routes
 * [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sound Map
-* [NUKEMAP](https://nuclearsecrecy.com/nukemap/), [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) or [AsteroidCollision](https://asteroidcollision.herokuapp.com/) - Interactive damage effect maps
+* [Notable People](https://tjukanovt.github.io/notable-people) - Notable People Map
+* [NUKEMAP](https://nuclearsecrecy.com/nukemap/), [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) or [AsteroidCollision](https://asteroidcollision.herokuapp.com/) - Interactive Damage Effect Maps
 * [convert_lat_long](https://andrew.hedges.name/experiments/convert_lat_long/) - Convert Latitude/Longitude to Decimal 
 * [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - Dialect Map
 * [Helpmap](https://helpmap.io/) - Nonprofit Donation Map 
@@ -1354,7 +1355,8 @@
 * [Spoiled](https://lucasrowe.github.io/spoiled/) - Customizable Phrase / Spoiler Blocker
 * [Flip This](https://chrome.google.com/webstore/detail/flip-this/donljlliiecjcagcenoeohjmabfegkph?hl=en) - Rotate Page & HTML Elements
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej) - Discover Similar Webpages
-* [adam:ONE Assistant](https://chrome.google.com/webstore/detail/adamone%C2%AE-assistant/fdmpekabnlekabjlimjkfmdjajnddgpc?hl=en) - Find Web Site Dependencies
+* [adam:ONE Assistant](https://chrome.google.com/webstore/detail/adamone%C2%AE-assistant/fdmpekabnlekabjlimjkfmdjajnddgpc?hl=en) - Find Site Dependencies
+* [IPvFoo](https://github.com/pmarks-net/ipvfoo) - View Site IP Address
 * [Pip](https://www.getpip.com/pip-extension) - Web3 Payment Extension
 * [Fake Profile Detector](https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc) - Detect Fake Online Profiles
 * [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - View Extension Source Code 
@@ -1385,7 +1387,7 @@
 * **[Userscript Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_userscript_managers)**
 * **[Userscripts Guide](https://rentry.co/userscript-guide)**
 * **[Greasy Fork](https://greasyfork.org/en)** / [Enhancements](https://greasyfork.org/en/scripts/431584-greasy-fork#greasy-fork), [Userscripts](https://userscripts-mirror.org/) or [OpenUserJS](https://openuserjs.org/) - Install Userscripts / [Change Theme](https://greasyfork.org/en/scripts/4336) / [Remove Crap](https://greasyfork.org/en/scripts/12179-greasyfork-bull-filter)
-* [Awesome Userscripts](https://github.com/bvolpato/awesome-userscripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Index
+* [Awesome Userscripts](https://github.com/bvolpato/awesome-userscripts), [Scripts](https://gitlab.com/loopvid/scripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Indexes
 * [darkmode.js](https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c) - Dark Mode Script
 * [Solved Media Plus](https://greasyfork.org/en/scripts/422074-solved-media-plus) - Image Captcha Solver
 * [Remove Web Limits](https://greasyfork.org/en/scripts/28497-remove-web-limits-modified), [2](https://greasyfork.org/en/scripts/386908-remove-web-limits-re-modified) - Force Enable Right Click
