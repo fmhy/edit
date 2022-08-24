@@ -58,7 +58,6 @@
 * [NYMeriaTV](https://nymeriatv.com/) - Movies / TV
 * [OpenloadTV](https://openloadtv.co/) - Movies
 * [Voody](https://voody-online.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [Dulu](https://www.dulu.to/) - Movies / TV / Anime 
 * [AllMoviesForYou](https://allmoviesforyou.net/) - Movies / TV 
 * [MoviesDownloadHub](https://moviesdownloadhub.com/category/hollywood/) - Movies / TV
 * [1movies](https://1movies.life/), [2](https://real-primewire.club/), [3](https://couchtuner.fashion/), [4](https://ww2.new-primewire.com/) - Movies / TV / Anime
