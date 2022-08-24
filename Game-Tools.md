@@ -178,7 +178,7 @@
 ## ▷ Multiplayer 
 
 * [find-PlayDate](https://www.find-playdate.com/) - Find People to Play Games With 
-* [Online Fix](https://online-fix.me/) / [Discord](https://discord.gg/yExgFYncMD), [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/), [FreeLan](https://www.freelan.org/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/) or [softether](https://www.softether.org/) - Play Pirated Multiplayer Games
+* [Online Fix](https://online-fix.me/) / [Discord](https://discord.gg/yExgFYncMD), [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/), [FreeLan](https://www.freelan.org/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/), [XTag](https://www.teamxlink.co.uk/) or [softether](https://www.softether.org/) - Play Pirated Multiplayer Games
 * [Ping Enhancer](https://www.wowinterface.com/downloads/info16336-PingEnhancer.html), [ExitLag](https://github.com/Borisizdabezt/exitlag-hwid-spoofer) / [Guide](https://youtu.be/Ga0z5xwZyUA) or [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) - Decrease Ping
 * [Server.pro](https://server.pro/) or [Orcs](http://orcs.biz/) - Game Server Hosting
 * [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - Hide Player Names to Avoid Stream Sniping
@@ -233,7 +233,6 @@
 
 * [Andy's Steam Crack Guide](https://rentry.org/steamcrackguidebyanddy) / [2](https://redd.it/pmim9t) - How-to Add Cracked Games to Steam / [Client](https://mega.nz/file/mpdAXKTZ#3CVjRZG1i8K_Zn8b9IIARbIZZE73KdzazVHMDcaWZJc)
 * **[A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)** or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tools Index
-* [Steam Deck Mods](https://steamdeckmods.com/) - Steam Deck Mods / [Discord](https://discord.gg/T9FEJ5aUNv)
 * [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
 * [SteamDB](https://steamdb.info/) - Steam Insights Tool
 * [GetDLCInfoFromSteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Find SteamDB DLC Data
@@ -274,7 +273,10 @@
 * [Steam Popularity Filter](https://chrome.google.com/webstore/detail/steam-popularity-filter/icflgpakhkkjeaefoedcbdbahmjopbdc) - Steam Market Popularity Filter
 * [CheapShark Deal Search](https://chrome.google.com/webstore/detail/cheapshark-deal-search/ahdfdhcljjiogoabcemgldinhgoemmjc) - Steam Market Sales Search
 * [Steam Inventory Helper](https://steaminventoryhelper.com/) - Steam Inventory Enhancement Extension
-* [ArchiFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - Farm Steam Trading Cards 
+* [ArchiFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - Farm Steam Trading Cards
+* [Steam Deck Mods](https://steamdeckmods.com/) - Steam Deck Mods / [Discord](https://discord.gg/T9FEJ5aUNv)
+* [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) - Steam Deck Plugin Loader
+* [HoloISO](https://github.com/theVakhovskeIsTaken/holoiso) - SteamOS 3 (Holo) Archiso Config
 
 ***
 
