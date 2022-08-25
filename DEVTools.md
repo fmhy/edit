@@ -1033,7 +1033,6 @@ Automated Incident Response and Forensics Framework
 * [ray.so](https://ray.so/), [Chalk](https://chalk.ist/) or [Show Code](https://showcode.app/) - Create Code Images
 * [Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering) - Reverse Engineering Resource Index
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code
-* [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Compare Decompiler Outputs
 * [thefuck](https://github.com/nvbn/thefuck) - Corrects Previous Console Command
 * [DelphiTools](https://www.delphitools.info/) - Code Profiler / Delphi Tools
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engine
@@ -1142,7 +1141,8 @@ Automated Incident Response and Forensics Framework
 * [glot.io](https://glot.io/) - Pastebin with Runnable Snippets, API & Compiler 
 * [Mystb.in](https://mystb.in/) - Code Pastebin
 * [Fig](https://fig.io/) - IDE-Style Autocomplete for Terminal
-* [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [IDE One](https://www.ideone.com/) or [Wandbox](https://wandbox.org/) - Online Compiler
+* [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [IDE One](https://www.ideone.com/),  [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer), [GodBolt](https://godbolt.org/) or [Wandbox](https://wandbox.org/) - Compiler Explorers
+* [DogBolt](https://dogbolt.org/) - Decompiler Explorer
 * [Notebooks.azure](https://notebooks.azure.com/) - Access Jupyter Notebooks
 * [Jupyter Server](https://github.com/jupyter-server/jupyter_server) - Jupyter Services / APIs
 * [CoCalc](https://cocalc.com/) - Virtual online workspace
