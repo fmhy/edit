@@ -42,7 +42,7 @@
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime
 * [Tubi](https://tubitv.com) - Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
 * [Plex](https://watch.plex.tv/) - Movies / TV
-* [Kanopy](https://kanopy.com/) - Movies / TV / Library Card Required
+* [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / Library Card Required
 * [arthemis](https://web.arthemis.xyz/) - Movies / TV / Anime / App / [Discord](https://discord.gg/98HxbfjKQV)
 * [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - Movies / TV
 * [KissKH](https://kisskh.me/Explore?type=4) - Movies / TV / Anime
@@ -126,6 +126,7 @@
 * [Vmovee](https://www.vmovee.watch/) - Movies / TV
 * [StreamMovie](https://streammovie.top/) - Movies / TV
 * [Filmxy](https://www.filmxy.pw/) - Movies
+* [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime
 * [MoviesXK](https://moviexk.biz/) - Movies / TV
 * [KissMovies](https://www.kissmovies.io/) - Movies / TV
 * [TamilRockerMovies](https://www.tamilrockermovies.cf/search/label/Hollywood) - Movies
