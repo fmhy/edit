@@ -525,7 +525,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Encrypted Android Messengers
 
-[Threema](https://mirrorace.com/m/3DIja), [Status](https://status.im/), [Signal](https://github.com/mollyim/mollyim-android) / [2](https://langis.cloudfrancois.fr/) / [3](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) / [4](https://getsession.org/) / [5](https://www.twinhelix.com/apps/signal-foss/), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [Anonymous Messenger](https://f-droid.org/en/packages/com.dx.anonymousmessenger/), [ChatSecure](https://ballinger.io/apps/chatsecure/), [Snikket](https://www.f-droid.org/en/packages/org.snikket.android/), [RetroShare](https://f-droid.org/en/packages/org.retroshare.android.qml_app/), [BiP](https://bip.com/en/), [Olvid](https://olvid.io/en/), [Berty](https://berty.tech/), [OpenKeyChain](https://www.openkeychain.org/), [Dust](https://www.usedust.com/), [Fireside Messenger](https://newnode.com/), [Kontalk](https://www.kontalk.org/)
+[Threema](https://mirrorace.com/m/3DIja), [Status](https://status.im/), [Signal](https://github.com/mollyim/mollyim-android) / [2](https://langis.cloudfrancois.fr/) / [3](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) / [4](https://getsession.org/) / [5](https://www.twinhelix.com/apps/signal-foss/), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [Anonymous Messenger](https://f-droid.org/en/packages/com.dx.anonymousmessenger/), [ChatSecure](https://ballinger.io/apps/chatsecure/), [Snikket](https://www.f-droid.org/en/packages/org.snikket.android/), [RetroShare](https://f-droid.org/en/packages/org.retroshare.android.qml_app/), [BiP](https://bip.com/en/), [Olvid](https://olvid.io/en/), [Berty](https://berty.tech/), [OpenKeyChain](https://www.openkeychain.org/), [Dust](https://www.usedust.com/), [Fireside Messenger](https://newnode.com/), [Kontalk](https://www.kontalk.org/), [Wire](https://github.com/wireapp/wire-android)
 
 *** 
 
@@ -867,6 +867,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://www2.theshit.me/
 * https://www2.6movies.net/
 * https://www1.movieorca.com/
+* https://xmovies8.fun/
 * https://www1.movierot.com/
 * https://www.actvid.com/
 * https://hdtoday.tv/ 
@@ -1181,6 +1182,8 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://zinmanga.com/
 * https://manhwaworld.com/
 * https://manhwatop.com/
+* https://comickiba.com
+* https://manhuascan.com/
 * https://readmanhwa.com/en/
 * https://manhwaz.com/
 * https://manhwafull.com/
@@ -1189,8 +1192,8 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://manhuadex.com/am/
 * https://manhuaes.com/
 * https://manhuadragon.com/
-* https://manhuafast.com/
 * https://manhuahot.com/
+* https://todaymic.com
 * https://manhuapro.com/
 * https://manhuazone.com/
 * https://manhuaga.com/
@@ -1511,6 +1514,7 @@ Add the following commands to a search to manually scrape each site.
 * [Quantum Playground](http://www.quantumplayground.net/) - Quantum Computer Simulator
 * [Win11.vercel](https://win11.vercel.app/), [BlueEdge](https://win11.blueedge.me/), [Rajaniraiyn](https://rajaniraiyn.github.io/windows11/) or [Win11 in React](https://win11.blueedge.me/)/ [GitHub](https://github.com/blueedgetechno/win11React) - Online Windows 11 Emulator
 * [daedalOS](https://dustinbrett.com/) - Online Windows 10 Emulator
+* [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) - Mac Emulator
 * [DistroTest](https://distrotest.net/) or [JSLinux](https://bellard.org/jslinux/) - Linux Browser Emulator
 
 ***
