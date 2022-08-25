@@ -528,7 +528,7 @@
 * [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - Pop Song Sample Mixer
 * [Nightcore Maker](https://nightcoremaker.com/) - Create Nightcore Versions of Songs
 * [WubMachine](https://the.wubmachine.com/) - Create DubstepVersions of Songs
-* [Wolfram Tones](https://tones.wolfram.com/) - Song Generator
+* [Wolfram Tones](https://tones.wolfram.com/) or [Jingle](https://aidn.jp/jingle/) - Song Generators
 * [CSound](https://csound.com/) - Music Computing System
 * [GoAudio](https://github.com/DylanMeeus/GoAudio) - Audio Processing Library 
 * [Helio](https://helio.fm/) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
