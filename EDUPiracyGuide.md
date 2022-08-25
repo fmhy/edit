@@ -229,6 +229,7 @@
 * [Docuwiki](https://docuwiki.net/) - [Emule required](https://www.emule-project.net/)
 * [Open-Video](https://open-video.org/)
 * [Documentaries & Archive](https://t.me/joinchat/S6gY9zmO5Ubl15CW)
+* [Nebula's Essence](https://discord.gg/HvrQefs3Cw) - Nebula / Curiosity Documentaries
 
 ***
 
