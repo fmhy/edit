@@ -39,15 +39,20 @@
 
 ## ▷ Streaming 
 
-* [Cima4U](https://cima4u.ws/) - Movies / TV / Changes Domains Monthly
+* [Cima4U](https://cima4u.cloud/) - Movies / TV / Changes Domains Monthly
 * [cimaclub](https://www.cimaclub.in/) - Movies / TV / Anime
-* [FaselHD](https://www.faselhd.life/) - Movies / TV / Anime 
+* [FaselHD](https://www.faselhd.life/) - Movies / TV / Anime
+* [shahed4u](https://shahed4u.mx/) - Movies / TV / Anime
+* [cima4up](https://w.cima4up.link/) - Movies / TV / Anime
 * [EgyBest](https://egy.best/) - Movies / TV
 * [dotCima](https://s2.dotcima.com/) - Movies / TV
 * [LODYNET](https://ww.lodynet.cam/) - Movies / TV
-* [Fushaar](https://www.fushaar.com/) - Movies / TV
+* [Fushaar](https://www.fushaar.com/), [2](https://fushaar.info/) - Movies / TV
 * [Arabseed](https://eg1.arabseed.ink/) - Movies / TV
 * [mycima](https://mycima.video/) - Movies / TV 
+* [aflamclub](https://aflamclub.com/) - Movies / TV / Anime
+* [egydead](https://w3.egydead.live) - Movies / TV / Anime
+* [cima-club](https://cima-club.vip/) - TV / Anime
 * [animebdk](https://animebdk.blogspot.com/) - Anime
 * [anime4up](https://www.anime4up.com/) - Anime
 * [gateanime](https://www.gateanime.com/) - Anime
@@ -277,10 +282,11 @@
 
 ## ▷ Streaming
 
-* [Pinoy Movies Hub](https://pinoymovieshub.su/) - Stream / Movies
-* [PinoyMovies](https://pinoymovies.es/) - Stream / Movies 
+* [Pinoy Movies Hub](https://pinoymovieshub.su/) - Movies
+* [PinoyMovies](https://pinoymovies.es/) - Movies 
 * [Pinoymoviepedia](https://pinoymoviepedia.ru/) - Movies
 * [Pinoy5Movies](https://pinoy5movies.net/) - Movies
+* [pmh](https://pmh.li/) - Movies / TV
 * [MoviesniPipay](https://moviesnipipay.me/) - Movies / TV
 * [Pinoyflix](https://pinoyflix.to/) -  Movies / TV
 * [PinoyHD](https://www.pinoy-hd.xyz/) -  Movies / TV
@@ -343,6 +349,7 @@
 * [justseries](https://www.justseries.info/) - Movies / TV
 * [cpasmieux](https://wwv.cpasmieux.site/) - Movies / TV / Anime
 * [kinoger](https://kinoger.com/), [2](https://www.kinoger.to/) - Movies / TV / Anime
+* [MesFilms](https://mesfilms.lol/) - Movies / TV / Anime
 * [Streamay](https://www.streamay.to/) - Movies / TV 
 * [streamcenter](https://wwv.streamcenter.cc/) - Movies / TV 
 * [WiFlix](https://wiflix.site/) - Movies / TV / Anime 
@@ -1535,8 +1542,10 @@
 * [gnula.nu](http://gnula.nu/) - Movies / TV
 * [CineHDPlus](https://cinehdplus.net/) - Movies / TV
 * [Cliver](https://www.cliver.to/) - Movies
+* [Sololatino](https://sololatino.net/) - Movies / TV / Anime
 * [Repelis24](https://repelis24.co/) - Movies / TV
 * [Cinecalidad](https://cinecalidad2.me/) - Movies / TV
+* [Inkapelis](https://inkapelis.in/) - Movies / TV
 * [PelisForte](https://pelisforte.co/) - Movies / TV
 * [EntrePeliculasySeries](https://entrepeliculasyseries.nz/capitulos-en-sub-espanol/) - Movies / TV / Anime
 * [Cine.Arplay](https://play.cine.ar/) - Movies / TV
@@ -1558,6 +1567,7 @@
 * [Animadas](https://seriesanimadas.org/) - Anime
 * [Animeflv](https://www3.animeflv.net/) - Anime
 * [AnimeID](https://www.animeid.tv/) - Anime
+* [animeyt](https://animeyt.es/) - Anime
 * [Anitube](https://www.anitube.site/) - Anime
 * [animeblix](https://animeblix.com/) - Anime
 * [Anime Online Sub](https://www.animeonlinesub.com/) - Anime
@@ -1641,6 +1651,8 @@
 
 * [niceoppai](https://www.niceoppai.net/) - Manga 
 * [kingsmanga](https://www.kingsmanga.net/) - Manga
+* [hotnovelonline](https://hotnovelonline.com/) - Light Novels
+* [novels108](https://www.novels108.com/) - Light Novels
 
 ***
 
@@ -1867,7 +1879,9 @@
 * [Indian Piracy Index](https://github.com/anymeofu/Indian-Piracy-Index) - Piracy Site / Tool Index
 * [JioTV](https://github.com/avipatilpro/JioTV) - Live TV Streaming Script 
 * [0GoMovies](https://www.0gomovies.com/) - Streaming / Movies / TV
+* [tamilgun](https://tamilgun.bio/) -  Streaming / Movies / TV
 * [uWatchFree](https://uwatchfree.be/) - Streaming / Movies / TV
+* [streamblasters](https://streamblasters.live/) - Streaming / Movies
 * [khatrimazafull](https://khatrimazafull.show/) - Streaming / Download / Movies
 * [7MovieRulz](https://7movierulz.pe/) - Streaming / Movies
 * [7MovieRulz.es](https://7movierulz.es/) - Stream / Torrent / Movies / [Telegram](https://t.me/movierulztv)
