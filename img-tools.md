@@ -160,7 +160,7 @@
 * [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
 * [Flow Field](https://github.com/romellogoodman/flow-field.js) - Flow Field Generator
 * [Trianglify.io](https://trianglify.io/) - Generate low-poly Textures
-* [Stooge](https://stooge.me/) - Comic Creator
+* [Stooge](https://stooge.me/) or [MakeBeliefsComix](https://makebeliefscomix.com/) - Comic Creators
 * [BannerEasy](https://www.bannereasy.com) or [Bannery](https://bannery.app/) - Create Custom Banners
 * [SocialBanner](https://www.social-banner.live/) or [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Creator
 * [CoverView](https://coverview.vercel.app/) - Blog Banner Creator
