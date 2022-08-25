@@ -161,6 +161,7 @@
 * [FreeEditorial](https://www.freeditorial.com/) - Books
 * [Zoboko](https://zoboko.com/) - Books
 * [Standard EBooks](https://standardebooks.org/) - Books
+* [Barnes & Noble](https://www.barnesandnoble.com/b/free-ebooks/ebooks-nook/_/N-ry0Z8qa) - Books
 * [Google Play Books](https://play.google.com/store/books/collection/topselling_free) - Books 
 * [Smashwords](https://www.smashwords.com/shelves/home/1/free/any), [2](https://www.smashwords.com/books/category/1/newest/0/free/any) - Books 
 * [lesatkins](http://www.lesatkins.com/books/epubfiles/) - Books
@@ -814,6 +815,8 @@
 * [Read Full Comic](https://readfullcomic.com/) / [2](https://read-comic.com/) / [3](https://viewcomiconline.com/)
 * [comicbookpdf](https://www1.comicbookpdf.com/) 
 * [comiconline](https://comiconline.org/)
+* [DC Universe Infinite](https://www.dcuniverseinfinite.com/collections/free-to-read-row) - Free DC Comics
+* [Marvel.com](https://www.marvel.com/comics/list/623/get_started_with_free_issues?&options%5Boffset%5D=0&totalcount=76) - Free Marvel Comics
 * [Zahard](https://zahard.xyz/) - WebToons / [Telegram](https://t.me/fast_pass)
 * [Random Comic Generator 3.0](https://explosm.net/rcg) - Explosm Random Comic Generator
 * [RichieRichcomicsfanclub](https://richierichcomicsfanclub.wordpress.com/) - Richie Rich Comics 
@@ -821,7 +824,7 @@
 * [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comics-DL](https://github.com/The-Eye-Team/Comics-DL), [Comic-DL](https://github.com/Xonshiz/comic-dl) or [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md) - Comic Downloaders
 * [Tapastic Comic Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - Tapas Comics Downloader
-* [findxkcd](https://xkcd-search.typesense.org/) - Browse xkcd Comics
+*  [xkcd](https://xkcd.com/) or [findxkcd](https://xkcd-search.typesense.org/) - Browse xkcd Comics
 * [Cover](http://www.frenchfrysoftware.com/cover/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Reader / Manager
 * [MComix](https://sourceforge.net/p/mcomix/wiki/Home/) - Reader
 * [Free Dark Horse Digital Comics](https://digital.darkhorse.com/pages/free) / [Downloader](https://github.com/GrowAsguard/Dark-Horse-Comics-Converter)
@@ -831,7 +834,7 @@
 * [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - Online Reader
 * [Tenma](https://github.com/Tenma-Server/Tenma) or [Komga](https://komga.org/) - Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)
 * [Webtoons Downloader](http://www.mediafire.com/file/7243pcp72ttzisk/Webtoons_Downloader_by_RieqyNS13.zip/file) - Webtoons Downloader
-
+* [ComicTagger](https://github.com/comictagger/comictagger) - Comic Metadata Tagger
 
 ***
 
@@ -867,12 +870,14 @@
 * [Manhuaplus](https://manhuaplus.com/) 
 * [Readmng](https://www.readmng.com/) 
 * [MangaSee](https://www.mangasee.net/) 
+* [MixedManga](https://mixedmanga.com/)
 * [Disaster Scans](https://disasterscans.com/) - [Discord](https://discord.gg/JbcJCpv)
 * [ZinManga](https://zinmanga.com/)
 * [SenseScans](https://sensescans.com/)
 * [Mangasy](https://www.mangasy.com/)
 * [Manga Toon](https://mangatoon.mobi/)
 * [MangaDoom](https://mngdoom.com/) 
+* [NovelMic](https://novelmic.com)
 * [MangaSail](https://www.mangasail.co/)
 * [Taadd](http://www.taadd.com/)
 * [Kanjiku](https://kanjiku.net/)
@@ -887,7 +892,10 @@
 * [MangaNyaa](https://manganyaa.com/) 
 * [EvilFlowers](http://reader.evilflowers.com/)
 * [Mangairo](https://h.mangairo.com/)
+* [MangaBuddy](https://mangabuddy.com)
 * [ReadKomik](https://readkomik.com/)
+* [OniManga](https://onimanga.com)
+* [Mangadex.tv](https://mangadex.tv)
 * [MangaBob](https://mangabob.com/)
 * [KumaScans](https://kumascans.com/) 
 * [MangaBat](https://m.mangabat.com/)
@@ -911,7 +919,9 @@
 * [LilyManga](https://lilymanga.com/) 
 * [ReadManhua](https://readmanhua.net/)
 * [NineManga](http://www.ninemanga.com)
+* [Tapas](https://tapas.io/)
 * [Muc Tau](https://muctau.com/)
+* [MangaYeh](https://mangayeh.com)
 * [BliBiliComics](https://www.bilibilicomics.com/)
 * [MyReadingManga](https://myreadingmanga.info/)
 * [MangaGo](https://www.mangago.me/)
@@ -942,7 +952,7 @@
 * [WhereCanIReadManga?](https://wherecanireadmanga.com/) - Legal
 * [OtakuGallery](http://www.otakugallery.com/) - Manga Artbooks
 * [WebToons](https://www.webtoons.com/en/) - Manga Webtoons  
-* [Tachiyomi](https://github.com/Suwayomi) / [Web Client](https://github.com/TachiWeb) / [Discord](https://discord.com/invite/tachiyomi), [AllMangasReader](http://allmangasreader.com/), [Houdoku](https://houdoku.org/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [isoComic](https://github.com/isomerase/isocomic-extensions) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - Manga Reader / Manager
+* [Tachiyomi](https://github.com/Suwayomi) / [Web Client](https://github.com/TachiWeb) / [Desktop Client](https://github.com/Suwayomi/Tachidesk-Server) / [Discord](https://discord.com/invite/tachiyomi), [AllMangasReader](http://allmangasreader.com/), [Houdoku](https://houdoku.org/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [isoComic](https://github.com/isomerase/isocomic-extensions) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - Manga Reader / Manager
 * [HappyPanda X](https://happypandax.github.io/), [Tenma](https://github.com/Tenma-Server/Tenma), [KavitaReader](https://www.kavitareader.com/), [Mango](https://github.com/hkalexling/Mango), [Tanoshi](https://faldez.github.io/tanoshi/) or [Komga](https://komga.org/) / [GitHub](https://github.com/gotson/komga) / [Discord](https://discord.gg/TdRpkDu) - Self-Hosted Manga Readers / Managers
 * [LANraragi](https://github.com/Difegue/LANraragi) - Manga / Doujin Manager for NAS / [Discord](https://discord.com/invite/aRQxtbg)
 * [MangaManage](https://github.com/Daedren/MangaManage) - Tachiyomi Download Manager
@@ -969,18 +979,19 @@
 * [Armaell's Library](https://armaell-library.net/)
 * [Novel Online Free](https://novelonlinefree.com/homepage)
 * [jNovels](https://jnovels.com/)
-* [MP4DIRECTS](https://mp4directs.com/) 
+* [MP4DIRECTS](https://mp4directs.com/)
 * [English Light Novels](https://englishlightnovels.com)
-* [Tensai Translations](https://tensaitranslations.wordpress.com/)  
-* [Web Novel](https://www.webnovel.com/) 
+* [Tensai Translations](https://tensaitranslations.wordpress.com/)
+* [Web Novel](https://www.webnovel.com/)
 * [Shin Translations](https://shintranslations.com/)
-* [Novel Updates](https://www.novelupdates.com/)  
-* [Henkan Epubs](https://henkanepubs.wordpress.com/) 
+* [Novel Updates](https://www.novelupdates.com/)
+* [Henkan Epubs](https://henkanepubs.wordpress.com/)
 * [Light Novel Pub](https://www.lightnovelpub.com/)
-* [JPMTL](https://jpmtl.com/) 
-* [Novel Ebooks](https://novel-ebook.com/) 
+* [JPMTL](https://jpmtl.com/)
+* [Novel Ebooks](https://novel-ebook.com/)
 * [AsianNovel](https://www.asianovel.com/)
-* [LNWNCentral](https://lnwncentral.wordpress.com/) 
+* [LNWNCentral](https://lnwncentral.wordpress.com/)
+* [NovelGreat](https://novelgreat.net/)
 * [NovelOnlineFull](https://novelonlinefull.com/)
 * [BestLightNovel](https://bestlightnovel.com/)
 * [Octiopii](https://octopii.co/)
@@ -989,15 +1000,35 @@
 * [Read Light Novel](https://www.readlightnovel.me/)
 * [DaoNovel](https://daonovel.com/)
 * [List Novel](http://www.listnovel.com/)
-* [FreeWebNovel](https://freewebnovel.com/) 
+* [NovelPassion](https://www.novelpassion.com)
+* [ReadFullNovel](https://readfullnovel.net)
+* [Novel Ringan](https://novelringan.com/)
+* [NovelLMAO](https://novelmao.com/)
+* [ReadNovelFull](https://readnovelfull.com)
+* [FreeWebNovel](https://freewebnovel.com/)
+* [NovelsOnline](https://novelsonline.net/)
+* [EnglishNovelsOnline](https://englishnovelonline.com/)
+* [NovelHD](https://novelhd.com)
+* [LightNovelReader](https://lightnovelreader.com)
+* [AllNovel](https://allnovel.org)
+* [LatestNovel](https://latestnovel.net/)
+* [ReadWebNovels](https://readwebnovels.net)
+* [Wuxia Blog](https://www.wuxia.blog)
+* [Wuxia Here](https://www.wuxiahere.com/)
+* [WuxiaWorldSite](https://wuxiaworldsite.co)
 * [Novel Translations](https://lightnovelstranslations.com/)
 * [WebNovelOnline](https://webnovelonline.com/)
-* [Readwn](https://www.readwn.com/) 
+* [Novelsala](https://novelsala.com/ )
+* [NovelPub](https://www.novelpub.com)
+* [Readwn](https://www.readwn.com/)
 * [Nakimushitl](https://nakimushitl.wordpress.com/)
+* [LightNovelHeaven](https://lightnovelheaven.com)
 * [NovelCool](https://www.novelcool.com/)
+* [TipNovel](https://tipnovel.com)
 * [Novels.pl](https://www.novels.pl/)
 * [Scribblehub](https://www.scribblehub.com/)
 * [All Novel Full](https://allnovelfull.com/)
+* [LightNovelReader](https://lightnovelreader.org/)
 * [NovelFull](https://novelfull.me/)
 * [MTL Nation](https://mtlnation.com/)
 * [Novel Hall](https://www.novelhall.com/)
@@ -1011,7 +1042,6 @@
 * [RnDNovels ](https://www.rndnovels.com/) 
 * [MTL Novel](https://www.mtlnovel.com/)
 * [NovelFull](https://novelfull.com/)
-* [Read Light Novel ](https://www.readlightnovel.org/)
 * [Moon Bunny Cafe](https://moonbunnycafe.com/)  
 * [Book Smelting Bot](https://t.me/epub_smelter_bot) - Telegram / Bot
 * [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - Novels / Audio Recordings  
@@ -1216,6 +1246,7 @@
 * [Knock](https://github.com/BentonEdmondson/knock) - Convert ACSM files to DRM-Free EPUB files
 * [txtpaper](https://txtpaper.com/) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to Ebook Converter
 * [CrowBook](https://github.com/lise-henry/crowbook) - Markdown to EPUB Converter
+* [Libby](https://libbyapp.com/) - Library Search
 * [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - Generate Text & Article Summaries
 * [FiveFilters](https://www.fivefilters.org/) - Multiple Article Accessibility Tools
 * [Ebook-Converter](https://ebook-converter.com/) - Ebook Converter
