@@ -337,7 +337,6 @@
 * [Flicker-Download](https://github.com/beaufour/flickr-download) - Flickr Scraper 
 * [iPack Builder](https://www.deviantart.com/mr-blade/art/iPack-Builder-v2-2-Tool-for-icon-customization-473088895), [2](https://mrbladedesigns.com/ipack-builder/) - Create Icon Pack Installers
 * [IndieKids](https://www.indiekids.io/) - Printable Coloring Pages
-* [Google Photos Takeout Helper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Cleanup a Google Photos Takeout
 
 ***
 
@@ -445,6 +444,7 @@
 * [Pixelfed](https://pixelfed.org/) or [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts 
 * [Cryptee](https://crypt.ee/) - Encrypted Image Storage
 * [CacheMonkey](https://www.cachemonkey.app/) - Browse / Clear Cached Images
+* [Google Photos Takeout Helper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Cleanup a Google Photos Takeout
 
 ***
 
