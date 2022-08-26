@@ -28,6 +28,7 @@
 * [Slide](https://github.com/ccrama/Slide) / [2](https://f-droid.org/en/packages/me.ccrama.redditslide/), [Redditoria](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria), [RedReader](https://github.com/QuantumBadger/RedReader), [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_IN&gl=US) / [2](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/), [Boost](https://boostforreddit.com/) or [Stealth](https://f-droid.org/packages/com.cosmos.unreddit/) / [2](https://gitlab.com/cosmosapps/stealth) - Ad Free Reddit Client
 * [Xtra](https://github.com/crackededed/Xtra), [TwitchMod](https://t.me/pubTw) or [Twire](https://f-droid.org/packages/com.perflyst.twire/) - Ad Free Twitch App
 * [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) - Remove Sponsored Telegram Messages
+* [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) or [TV Bro](https://play.google.com/store/apps/details?id=com.phlox.tvwebbrowser) - Ad-Free Android TV Browsers
 
 ***
 
@@ -38,6 +39,7 @@
 * [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html), [PandaVPN](https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy), [GoatVPN](https://play.google.com/store/apps/details?id=com.secure.proxy.freevpn), [Your Freedom VPN](https://play.google.com/store/apps/details?id=de.resolution.yf_android), [Vpnify](https://vpnifyapp.com/), [VPN Door](https://play.google.com/store/apps/details?id=com.securesoft.vpndoor&hl=en_US&gl=US), [VPNhub](https://www.vpnhub.com/) or [Clash](https://github.com/Kr328/ClashForAndroid/) / [Profiles](https://rentry.co/2q3rn) - Free VPN
 * [Guardian Project](https://guardianproject.info/) / [2](https://guardianproject.info/fdroid/repo), [Divestos Apps](https://divestos.org/index.php?page=recommended_apps), [CookieJarApps](https://cookiejarapps.com/) or [InviZible](https://github.com/Gedsh/InviZible) - Privacy Based Apps / Tools 
 * [FOSS Smartphone Hardening](https://lemmy.ml/post/54596), [2](https://www.reddit.com/r/privatelife/comments/rohq46/100_foss_smartphone_hardening_nonroot_guide_40/) - Non-Root Smart Phone Hardening Guide
+* [Hackuna](https://play.google.com/store/apps/details?id=org.cryptors.hackuna002&hl=en&gl=US) - Anti-Hack Tool
 * [Exodify](https://github.com/FacettsOpen/exodify) - Display Tracker Count on Apps in Play Store
 * [SelfPrivacy](https://selfprivacy.org/) - Self-Hosted Privacy Based Services
 * [Aegis](https://getaegis.app/), [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) or [andOTP](https://github.com/andOTP/andOTP) - Two-Factor Authentication 
@@ -173,6 +175,7 @@
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
 * [Adaptive Controls](https://play.google.com/store/apps/details?id=com.nxet.adaptivecontrols) - Per App Settings
 * [auto-auto-rotate](https://gitlab.com/juanitobananas/auto-auto-rotate) - Per App Rotation Settings
+* [No-frills CPU Control](https://github.com/hrk/no-frills-cpu-classic) - CPU Controller
 * [Plexus](https://plexus.techlore.tech/) - De-googled Device Compatibility List
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater) or [Debloat Samsung Android](https://github.com/khlam/debloat-samsung-android) - Android Debloaters
 * [How to Root](https://www.xda-developers.com/root/amp/) - Android Root Guide
@@ -218,7 +221,7 @@
 * [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage) - Disk Usage Analyzer
 * [AlmightyVolumeKeys](https://play.google.com/store/apps/details?id=com.masel.almightyvolumekeys) - Remap Volume Keys
 * [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - Text Font Generator
-* [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) or [SimplyTranslate Flutter](https://github.com/ManeraKai/simplytranslate-flutter-client) - Translator
+* [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [Arna Translate](https://github.com/MahanRahmati/translate) or [SimplyTranslate Flutter](https://github.com/ManeraKai/simplytranslate-flutter-client) - Translator
 * [NativeAlpha](https://play.google.com/store/apps/details?id=com.cylonid.nativealpha) - Run Websites in Borderland Window
 * [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) - Create App Shortcuts
 * [Surfable](https://surfable.app/) - Install Any Website as App / [GitHub](https://github.com/sandoche/Surfable-app)
@@ -363,7 +366,7 @@
 * [Eruda](https://pastebin.com/7qSZXjDS) - Console for mobile browsers / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [Github](https://github.com/liriliri/eruda) 
 * [Andure](https://github.com/leohku/andure) - Android Chrome Dev Tools
 * [Termux](https://termux.com/) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulator / Linux Environment
-* Termux Tools - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/tareksander/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB)
+* Termux Tools - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/tareksander/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
 * [Shelter](https://github.com/PeterCxy/Shelter) - App Sandbox
 * [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
 * [Clima](https://f-droid.org/en/packages/co.prestosole.clima/), [The Fucking Weather](https://alcohollick.com/the-fucking-weather), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux) or [GeometricWeather](https://github.com/geometric-weather-foss/GeometricWeather) - Weather App 
@@ -564,6 +567,7 @@
 * [Paidapppcsoftware](https://t.me/paidappspcsoftware) - Modded / Telegram
 * [TharakMods](https://t.me/TharakMods) - Modded / Telegram
 * [lunadevx](https://t.me/lunadevx) - Modded / Telegram
+* [RBMods](https://t.me/RBMods) - Modded / Telegram
 * [rbmod](https://t.me/rbmod) - Modded / Telegram
 * [marioworlds4u](https://t.me/marioworlds4u) - Modded / Telegram
 * [ProAppz](https://t.me/ProAppz) - Modded / Telegram
@@ -586,7 +590,7 @@
 * [Moderse](https://t.me/Moderse) - Android Apk Telegram Channel by well known modder - Stabiron
 * [DedoMil](http://dedomil.net/) - Java Mobile Games
 * [evozi](https://apps.evozi.com/apk-downloader), [GPlayCLI](https://github.com/matlink/gplaycli) or [APK Downloader](https://apk.support/apk-downloader) - Download Google Play APKs
-* [Sai](https://f-droid.org/packages/com.aefyr.sai.fdroid/), [2](https://play.google.com/store/apps/details?id=com.aefyr.sai) - Split APK Installer
+* [Sai](https://f-droid.org/packages/com.aefyr.sai.fdroid/), [2](https://play.google.com/store/apps/details?id=com.aefyr.sai) or [APK Installer](https://play.google.com/store/apps/details?id=com.uptodown.installer&hl=en&gl=US) - APK Installers
 * [Raccoon](https://raccoon.onyxbits.de/) - Private APK Downloader
 * [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - CLI APK Download Tool
 * [Blackmod](https://blackmod.net/) - Modded Game APKs
@@ -773,7 +777,6 @@
 * **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Addons](https://github.com/danamag/stremio-addons-list/blob/main/README.md) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * **[Kodi](https://kodi.tv/)** - /r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) / [Real-Debrid](https://real-debrid.com/)
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - Ad-Free YouTube on Android
-* **[Movies4Discord TV](https://movies4discord.xyz/download)** - Movies / TV / Android TV App
 * [Movie HD](https://moviehdapkdownload.com/moviehd-apk/) - Movies / TV / Chromecast
 * [Arthemis](https://app.arthemis.xyz/) - Movies / TV / Anime
 * [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - Movies / TV / Anime 
@@ -1115,6 +1118,7 @@
 * [EonHub](https://app.eonhubapp.com/) - Hacked Apps / Tweaks 
 * [Scarlet](https://usescarlet.com/) - Hacked apps / Tweaks
 * [iPASpot](https://ipaspot.app/) - Hacked / Tweaked iOS Apps 
+* [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive
 * [LocalAPStore](https://repo.hackyouriphone.org/localiapstore), [Satella](https://paisseon.github.io/) / [2](https://github.com/Paisseon/Satella/) or [My iAP Cracker](https://repo.hackyouriphone.org/myiapcracker) - In-App Purchase Mods
 * [AppSync Unified](https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified) - IPA Installation Tweak
 * [iosninja](https://iosninja.io/ipa-library) or [Jailbreaks.app](https://jailbreaks.app/) - App Sideload Files
@@ -1242,6 +1246,7 @@
 * [Manga Max](https://apps.apple.com/us/app/apple-store/id1558957618) - Manga Reader
 * [Manga Bird](https://apps.apple.com/us/app/manga-bird-best-manga-reader/id834760417) - Manga Reader
 * [MangaNelo](https://apps.apple.com/us/app/manganelo-rock-manga-pro/id1540527984) - Manga Reader
+* [Aidoku](https://aidoku.app/) - Manga Reader
 * [ComicFlow](https://github.com/swisspol/ComicFlow) - Comic Reader
 * [NovelReader](https://github.com/ppraveentr/NovelReader) - Light Novels
 * [NovelLoop](https://apps.apple.com/in/app/novelloop/id1170755867) - Light Novels
