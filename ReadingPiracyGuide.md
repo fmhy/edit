@@ -585,7 +585,7 @@
 ## ▷ Documents / Articles
 
 * **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
-* **[Sci-Hub](https://sci-hub.se/)** - Science article viewer
+* **[Sci-Hub](https://sci-hub.se/)** - Science Articles / Research Papers
 * **Sci-Hub Tools** - [Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [3](https://sci-hub.tech/), [4](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub)
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - How to bypass article paywalls
 * [Wikisource](https://en.wikisource.org) - Poetry / Text / Documents
@@ -804,20 +804,21 @@
 * [NewComic](https://www.newcomic.info/) - Downloads
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
 * [BookDL Comic & Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_booksdl) - Comics / Manga / Drive
-* [ComicBookPlus](https://comicbookplus.com/) - Golden Age Comics
-* [Comic Museum](https://digitalcomicmuseum.com/index.php) - Golden Age Comics
-* [GoComics](https://www.gocomics.com/) - Comics Strips
-* [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
 * [readcomicsfree](https://readcomicsfree.com/)
+* [Comic Castle](https://comicastle.org/) -
 * [Comics Online](http://www.comicsonline.io/)
-* [Asterix Comics](https://asterixonline.info/) - Asterix Comics
 * [ReadAllComics](http://readallcomics.com/)
 * [Read Full Comic](https://readfullcomic.com/) / [2](https://read-comic.com/) / [3](https://viewcomiconline.com/)
 * [comicbookpdf](https://www1.comicbookpdf.com/) 
 * [comiconline](https://comiconline.org/)
 * [DC Universe Infinite](https://www.dcuniverseinfinite.com/collections/free-to-read-row) - Free DC Comics
 * [Marvel.com](https://www.marvel.com/comics/list/623/get_started_with_free_issues?&options%5Boffset%5D=0&totalcount=76) - Free Marvel Comics
+* [ComicBookPlus](https://comicbookplus.com/) - Golden Age Comics
+* [Comic Museum](https://digitalcomicmuseum.com/index.php) - Golden Age Comics
+* [GoComics](https://www.gocomics.com/) - Comics Strips
+* [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
 * [Zahard](https://zahard.xyz/) - WebToons / [Telegram](https://t.me/fast_pass)
+* [Asterix Comics](https://asterixonline.info/) - Asterix Comics
 * [Random Comic Generator 3.0](https://explosm.net/rcg) - Explosm Random Comic Generator
 * [RichieRichcomicsfanclub](https://richierichcomicsfanclub.wordpress.com/) - Richie Rich Comics 
 * [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - Tor required 
@@ -848,11 +849,13 @@
 * [/r/MangaPiracy](https://reddit.com/r/MangaPiracy) - Manga Piracy Subreddit / [Discord](https://discord.gg/ZgMtAyxFSU)
 * [Manga Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_download_bots) - Bots that Download Manga
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - Anime / Manga Download Forum
+* [TheScubaIndex](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_thescubaindex) - User: MP / Pass: grandblue
 * [Madokami Manga Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_madokami)
 * [The Manga Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_manga_library)
 * [Mangas.Heoo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mangas.heoo)
 * [BookDL Comic & Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_booksdl)
 * [pptenshi](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pptenshi)
+* [GoIndex](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_goindex)
 * [bato](https://bato.to/), [2](https://battwo.com/) - [Discord](https://discord.gg/7NBwcBsDph)
 * [MangaHere](http://www.mangahere.cc)
 * [Atsumaru](https://atsu.moe/) - [Discord](https://discord.gg/Tj4QmEF4uV)
@@ -873,7 +876,6 @@
 * [MixedManga](https://mixedmanga.com/)
 * [Disaster Scans](https://disasterscans.com/) - [Discord](https://discord.gg/JbcJCpv)
 * [ZinManga](https://zinmanga.com/)
-* [SenseScans](https://sensescans.com/)
 * [Mangasy](https://www.mangasy.com/)
 * [Manga Toon](https://mangatoon.mobi/)
 * [MangaDoom](https://mngdoom.com/) 
@@ -937,13 +939,15 @@
 * [MangaKatana](https://mangakatana.com/) 
 * [Manga.Fanscans](https://manga.fascans.com/)
 * [CMReader](https://www.cmreader.info/)
-* [Manga Weebs](https://mangaweebs.in/) 
+* [Manga Weebs](https://mangaweebs.in/)
+* [DragonTea](https://dragontea.ink/)
 * [NiAdd](https://niadd.com/) 
 * [1stKissManga](https://1stkissmanga.com/), [2](https://1stkissmanga.io/), [3](https://1stkissmanga.love/)
 * [mangapill](https://mangapill.com/) 
 * [projectsuki](https://projectsuki.com/) 
 * [ReadMng](https://www.readmng.com/) or [MngDoom](https://www.mngdoom.com/)
 * [NineAnime](https://www.nineanime.com/category/)
+* [PenLab](https://penlab.ink/) - Filipino Manga
 * [WuxiaWorld](https://wuxiaworld.site/) - Manga / Novels 
 * [MANGAen](https://t.me/MANGAen) - Manga / Telegram 
 * [Manhua / Manhwa Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manhua_.2F_manhwa_manga) - Manhua & Manhwa Manga Sites
@@ -957,9 +961,10 @@
 * [LANraragi](https://github.com/Difegue/LANraragi) - Manga / Doujin Manager for NAS / [Discord](https://discord.com/invite/aRQxtbg)
 * [MangaManage](https://github.com/Daedren/MangaManage) - Tachiyomi Download Manager
 * [Manga APIs](https://rentry.co/manga-apis) - Manga Site API's
-* [Scanlation Sites](https://www.reddit.com/r/mangadex/comments/mafhtl/scanlation_sites_megathread/) - Manga Scanlation Groups
+* [Scanlation Sites](https://www.reddit.com/r/mangadex/comments/mafhtl/scanlation_sites_megathread/) or [Mangadex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Release Updates  
-* [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress & Keyboard Support 
+* [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress & Keyboard Support
+* [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer) - Load Pages into One Viewer
 * [MangaEditor](https://moeka.me/mangaEditor/) - Online Manga Editor
 * [CBZ-Manga-Creator](https://github.com/PonyLucky/CBZ-Manga-Creator) - Image to CBZ Converter
 * [MangaCord](https://top.gg/bot/751148743901970622?tab=overview) - Read Manga on Discord [Disocrd](https://discord.gg/UtTJcWzCRe)
@@ -1042,6 +1047,7 @@
 * [RnDNovels ](https://www.rndnovels.com/) 
 * [MTL Novel](https://www.mtlnovel.com/)
 * [NovelFull](https://novelfull.com/)
+* [ExiledRebels](https://exiledrebelsscanlations.com/)
 * [Moon Bunny Cafe](https://moonbunnycafe.com/)  
 * [Book Smelting Bot](https://t.me/epub_smelter_bot) - Telegram / Bot
 * [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - Novels / Audio Recordings  
@@ -1205,6 +1211,7 @@
 * **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
 * [Mobile Read](https://www.mobileread.com/) - EBook / Reader Discussion Forum
 * [Ubooquity](http://vaemendis.net/ubooquity/) - Manager / Reader / PC / Android / iOS
+* [](https://github.com/Librum-Reader/Librum) - Ebook Reader / PC / Android / iOS / Linux / Mac
 * [KoReader](http://koreader.rocks/) - Ebook Reader / PC / Android
 * [FBReader](https://fbreader.org/) - Ebook Reader / PC / Android / iOS
 * [Koodo](https://koodo.960960.xyz/) - Ebook Reader / PC / Mac / Linux / [GitHub](https://github.com/troyeguo/koodo-reader)
@@ -1213,15 +1220,18 @@
 * [Icecream eBook Reader](https://icecreamapps.com/Ebook-Reader/) - Ebook Reader / PC
 * [Eplee](https://github.com/Janglee123/eplee) - Ebook Reader / PC 
 * [Okular](https://okular.kde.org/) - PDF Reader / Linux / PC / Mac
+* [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader / Linux
 * [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) - PDF Reader / PC
 * [qPDFview](https://launchpad.net/qpdfview) - PDF Reader / PC
 * [PDFLite](http://www.pdflite.com/) - PDF Reader / PC
 * [mupdf](https://mupdf.com/) - PDF Reader / PC
 * [PDF Online](https://pdf.online/) - PDF Reader / PC / Android / iOS
 * [gonitro](https://www.gonitro.com/pdf-reader) - PDF Reader / PC
+* [Evince](https://wiki.gnome.org/Apps/Evince) - PDF / DjVu Reader / Linux
 * [PdfPreviewbot](https://t.me/PdfPreviewbot) - Telegram PDF Reader
 * [WinDjView](https://windjview.sourceforge.io/) - DjVu Reader / PC
 * [DjVuLibr](http://djvu.sourceforge.net/) - DjVu Reader / PC
+* [bookworm](https://github.com/babluboy/bookworm) - Elementary OS Ebook Reader
 * [AnyfFip](https://anyflip.com/) - Interactive Flipbook Reader 
 * [All My Books](https://www.bolidesoft.com/allmybooks.html) - Book Catalog 
 * [Open Media Library](https://openmedialibrary.com/) - Online Book Manager
