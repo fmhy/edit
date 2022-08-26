@@ -150,7 +150,8 @@
 * [Devops Exercises](https://github.com/bregman-arie/devops-exercises) - DevOps Exercises
 * [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - Learn DevOps
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
-* [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn Pentesting 
+* [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn Pentesting
+* [SebastianLague](https://www.youtube.com/c/SebastianLague/playlists?view=50&sort=dd&shelf_id=4) - Game Development Tutorials
 * [LandChad](https://landchad.net/) or [learn.sadgrl.online](https://learn.sadgrl.online/) - Site Development Guides
 * [Full Stack Solana Development Guide](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - [Examples](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)
 * [The New Boston](https://thenewboston.com/) - Site Development Courses / [Discord](https://discord.com/invite/thenewboston)
@@ -319,6 +320,7 @@
 * **[Website Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_creators)** - Design & Create Websites
 * **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
 * [ZeroNet](https://zeronet.io/) or [Federalist](https://github.com/publiusfederalist/federalist) - Uncensorable Sites / [/r/Zeronet](https://www.reddit.com/r/zeronet/)
+* [Awesome Static Generators](https://github.com/myles/awesome-static-generators) - Static Site Resources
 * [Freenet Project](https://freenetproject.org/) - Browse / Publish Freenet Sites
 * [Locutus](https://github.com/freenet/locutus) - Create Decentralized Site Apps
 * [Screenshot to Code](https://github.com/emilwallner/Screenshot-to-code) - Turn Mockups into Static Sites
@@ -360,6 +362,7 @@
 * [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
 * [free-website-translation](http://free-website-translation.com/), [transdict](http://transdict.com/meta/website.html) or [conveythis](https://www..com/) - Website Translators
 * [Statically](https://statically.io/) - Load Websites Faster
+* [comepress](https://github.com/NayamAmarshe/comepress) - Optimize Sites Image Files
 * [Rest Test Test](http://resttesttest.com/) - Test REST / CORS Services
 * [HeidiSQL](https://www.heidisql.com/) - SQL Manager
 * [httpbin](https://httpbin.org/) - HTTP Request & Response Service
@@ -486,6 +489,7 @@
 * [Bypass Cloudflare](https://github.com/jychp/cloudflare-bypass) - Bypass Coudflare Bot Protection
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
 * [VPN Un-Blocking](https://medium.com/@innovativehazard/vpn-un-blocking-e0374b9c4d35 ) - Unblock Cloudflare Warp VPN Services
+* [wgcf](https://github.com/ViRb3/wgcf) - Generate Cloudflare Warp Wireguard Config
 * [console.watch](https://console.watch/) - Remote Console Polyfill for Cloudflare Workers
 * [LightTPD](http://www.lighttpd.net/) or [Caddy](https://caddyserver.com/) - Web Server
 * [Bash-web-server](https://github.com/dzove855/Bash-web-server) - Bash Web Server
@@ -580,7 +584,7 @@ Automated Incident Response and Forensics Framework
 
 ## ▷ Software Development
 
-* [Electron](https://www.electronjs.org/), [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/) or [Tauri](https://tauri.studio/) / [Resources](https://github.com/tauri-apps/awesome-tauri) / [GitHub](https://github.com/tauri-apps/tauri) - Desktop App Builder / [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://electron-app-store.ml/) / [Debugger](https://www.electronjs.org/apps/debugtron)
+* [Electron](https://www.electronjs.org/), [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [Flet](https://flet.dev/) or [Tauri](https://tauri.studio/) / [Resources](https://github.com/tauri-apps/awesome-tauri) / [GitHub](https://github.com/tauri-apps/tauri) - Desktop App Builders / [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://electron-app-store.ml/) / [Debugger](https://www.electronjs.org/apps/debugtron)
 * [Budibase](https://budibase.com/) - Internal App Builder / [GitHub](https://github.com/Budibase/budibase)
 * [raylib technologie](https://raylibtech.itch.io/), [bookmarks](https://github.com/MorganGeek/bookmarks) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - Software Development Tools
 * [Theos](https://theos.dev/) - Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
@@ -637,7 +641,7 @@ Automated Incident Response and Forensics Framework
 * [Booster](https://github.com/didi/booster) - Mobile App Optimization
 * [Mobbin](https://www.mobbin.design/) - Mobile App Design Reference Library
 * [Hmanager](https://play.google.com/store/apps/details?id=com.chsappz.hmanager) - Manage Your Heroku Accounts
-* [Heroku Duo](https://heroku.viperadnan.gq/duo) - Run Heroku Apps Forever / [Alternate](https://github.com/tiararosebiezetta/HerokuDynoSwitcher)
+* [Heroku Duo](https://heroku.viperadnan.gq/duo), [Heroku Switcher](https://hs.hitarashi.in/) or [HerokuDynoSwitcher](https://github.com/tiararosebiezetta/HerokuDynoSwitcher) - Keep Heroku Apps Running
 * [Kaffeine](http://kaffeine.herokuapp.com/) - Heroku Auto Ping
 * [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS App Development Resources
 * [Xcode](https://developer.apple.com/xcode/) - Test and Build iOS / iPadOS Apps
@@ -686,6 +690,7 @@ Automated Incident Response and Forensics Framework
 * [Capturable](https://github.com/PatilShreyas/Capturable) - Transform Composable Content to Bitmap Images 
 * [Firetable](https://github.com/Antler-VC/firetable) - View Firebase / Firestore in Excel 
 * [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Hishoot2i](https://github.com/hishoot2i/Hishoot2i) / [Templates](https://t.me/hishoot2imaterial), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/) or [LS Graphics](https://www.ls.graphics/) - App & Site Mockups
+* [Mockoops](https://github.com/Just-Moh-it/Mockoops) - Animated Mockups
 * [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
 * [UIGarage](https://uigarage.net/), [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui), [UXArchive](https://uxarchive.com/), [Mobbin](https://mobbin.design/), [UISources](https://www.uisources.com/) or [LovelyUI](https://lovelyui.com/) - Mobile UI Designs
 * [Revanced Patcher](https://github.com/ReVancedTeam/revanced-patcher) - Patcher Used by Revanced
@@ -951,6 +956,7 @@ Automated Incident Response and Forensics Framework
 * [UMLet](https://www.umlet.com/) - Create UML Diagrams
 * [Vim Latex](http://vim-latex.sourceforge.net/) - Latex Style Vim Editor
 * [CarlosAG](https://www.carlosag.net/) - Coding Tools
+* [core-plot](https://github.com/core-plot/core-plot) - Core Plot Source Code / Apps
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) - Livecoding Resources
 * [Telosys](http://www.telosys.org/) - Code Generator
 * [snippet.host](https://snippet.host/) - Code Host
@@ -980,7 +986,8 @@ Automated Incident Response and Forensics Framework
 * [nvim](https://github.com/neoclide/coc.nvim) - Neovim LSP Autocompletion coc.
 * [Markdown Preview](https://github.com/iamcco/markdown-preview.nvim) - NeoVim Markdown Preview
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - Vim Code-Completion Engine
-* [VimColorSchemes](https://vimcolorschemes.com/) - Vim Color Schemes 
+* [VimColorSchemes](https://vimcolorschemes.com/) - Vim Color Schemes
+* [Gruvbox](https://github.com/morhetz/gruvbox) - Retro Vim Color Sheme / [Wallpapers](https://gruvbox-wallpapers.onrender.com/)
 * [OpenChakra](https://openchakra.app/) - Visual Editor & Code Generator for React / [GitHub](https://github.com/premieroctet/openchakra)
 * [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - Visual Studio Code Extensions 
 * [awesome-kotlin](https://kotlin.link/) - Kotlin Resource Index / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
@@ -1040,6 +1047,7 @@ Automated Incident Response and Forensics Framework
 * [Zero Dark Matrix](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - Chrome Devtools Dark Theme 
 * [Tantiny](https://github.com/baygeldin/tantiny) - Full-Text Ruby Search
 * [GNU Octave](https://www.gnu.org/software/octave/) - Scientific Programming Language
+* [Rescript](https://rescript-lang.org/) -Javascript Editor / Language
 * [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - Javascript Resources
 * [Danfo.js](https://github.com/javascriptdata/danfojs) - Javascript Library
 * [RunKit](https://runkit.com/) - Browser Javascript Sandbox
@@ -1096,6 +1104,7 @@ Automated Incident Response and Forensics Framework
 
 * [API List](https://apilist.fun/), [APIsList](https://apislist.com/), [Awesome APIs](https://github.com/TonnyL/Awesome_APIs), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - API Indexes
 * [Insomnia](https://insomnia.rest/) - API Client
+* [Strapi](https://strapi.io/) - API Designer 
 * [RapidAPI](https://rapidapi.com/) or [FastAPI](https://github.com/tiangolo/fastapi) - API Framework
 * [tRPC](https://trpc.io/) - Build Typesafe APIs 
 * [Siesta](https://github.com/bustoutsolutions/siesta) - Write REST API Clients for iOS / macOS
