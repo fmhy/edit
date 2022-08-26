@@ -32,8 +32,10 @@
 * [Geforce Now](https://www.nvidia.com/en-gb/geforce-now/) - Game Streaming / [Web App](https://play.geforcenow.com/mall/)
 * [Cloud Morph](https://github.com/giongto35/cloud-morph) - Self-Hosted Cloud Gaming
 * [Mogul](https://play.google.com/store/apps/details?id=com.mogul.flutte&hl=en&gl=US) or [Chikii](https://play.google.com/store/apps/details?id=com.dianyun.chikii&hl=en&gl=US) - Cloud Gaming Android Apps
+* [EloShapes](https://www.eloshapes.com/) - Compare Mouse Shapes and Sizes
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
 * [GamingSmart](https://gamingsmart.com/) - Game Sensitivity Converters
+* [hidusbf](https://github.com/LordOfMice/hidusbf) - Mice Overclocking Software
 * [WindowedBorderlessGaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming), [Borderless-Gaming-Tool](https://github.com/r57zone/Borderless-Gaming-Tool) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games
 * [Lossless Scaling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_lossless_scaling) - Windowed Game Scaling
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window
@@ -60,7 +62,7 @@
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
 * [TASVideos](https://tasvideos.org/) - Watch and Publish Tool Assisted Speedruns
 * [MacroGamer](https://www.itoady.com/) - Game Macro Recorder
-* [Blitz](https://blitz.gg/) - Post Match Performance Analyzer
+* [Blitz.gg](https://blitz.gg/) - Post Match Performance Analyzer / [Adblocker](https://kandi.openweaver.com/javascript/lulzsun/blitz-app-adblock), [2](https://github.com/lulzsun/blitz-app-adblock)
 * [Valve Archive](https://valvearchive.com/) - Rare Valve Data Archive
 * [Previously on Halo](https://previouslyonhalo.com/) - Halo Franchise History
 * [Map Genie](https://mapgenie.io/), [GameMaps](https://www.gamemaps.com/) or [VGMaps](http://www.vgmaps.com/)  - Game Maps 
@@ -179,6 +181,7 @@
 
 * [find-PlayDate](https://www.find-playdate.com/) - Find People to Play Games With 
 * [Online Fix](https://online-fix.me/) / [Discord](https://discord.gg/yExgFYncMD), [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/), [FreeLan](https://www.freelan.org/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/), [XTag](https://www.teamxlink.co.uk/) or [softether](https://www.softether.org/) - Play Pirated Multiplayer Games
+* [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
 * [Ping Enhancer](https://www.wowinterface.com/downloads/info16336-PingEnhancer.html), [ExitLag](https://github.com/Borisizdabezt/exitlag-hwid-spoofer) / [Guide](https://youtu.be/Ga0z5xwZyUA) or [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) - Decrease Ping
 * [Server.pro](https://server.pro/) or [Orcs](http://orcs.biz/) - Game Server Hosting
 * [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - Hide Player Names to Avoid Stream Sniping
