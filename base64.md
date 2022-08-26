@@ -1154,7 +1154,7 @@ pass: paluch
 
 #### PonyDroid
 
-`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1wb255ZHJvaWQmYW1wO3NyPXRvcGljcyZhbXA7c2Y9dGl0bGVvbmx5`
+`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1wb255ZHJvaWQmc3I9dG9waWNzJnNmPXRpdGxlb25seQ==`
 
 *** 
 
