@@ -35,7 +35,7 @@
 * [hikaku-sitatter](https://hikaku-sitatter.com/en/) or [Mulmetric](https://multmetric.com/) - Height Comparison Tool
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
 * [NST](https://time.gov/), [Qlock](http://www.qlock.com/), [WorldTimeBuddy](https://www.worldtimebuddy.com/), [TheClockApp](https://theclockapp.vercel.app/), [TimeAndDate](https://www.timeanddate.com/) or [EveryTime Zone](https://everytimezone.com/) - World Clock
-* [FlipClockWeb](https://flipclockweb.netlify.app/) - Fullscreen Clock
+* [FlipClockWeb](https://flipclockweb.netlify.app/), [TheColourClock](http://thecolourclock.com/) or [HexClock](https://www.jacopocolo.com/hexclock/) - Fullscreen Clocks
 * [Epoch Converter](https://www.epochconverter.com/) - Epoch & Unix Timestamp Conversion Tools 
 * [How Many Days Since](http://howmanydayssince.net/), [CalcuDater](https://calcudater.com/) or [How Many Days Until](https://howmanydaysuntil.co/) - Calculate Days Since a Date
 * [e.gg Timer](https://e.ggtimer.com/) or [Juicy Timer](https://juicytimer.com/) - Timer
@@ -288,7 +288,7 @@
 * [Chat-Downloader](https://github.com/xenova/chat-downloader) - Retrieve Chat Messages from Livestreams
 * [PlayPhrase](https://playphrase.me/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/), [2](https://getyarn.io/) - Clip Quote Search Engine
 * [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Video / Audio Recorder, Converter & Streaming
-* FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Builds](https://github.com/BtbN/FFmpeg-Builds) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730)
+* FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Builds](https://github.com/BtbN/FFmpeg-Builds) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730) / [Script](https://codeberg.org/Denshi/Scripts/src/branch/master/cvrt)
 * [VideoProc](https://www.videoproc.com/) - Video Processing Software
 * [DJV](https://darbyjohnston.github.io/DJV/) - Professional Video Review Player
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - SWF to Video Converter
@@ -327,7 +327,8 @@
 * [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos
 * [blur](https://github.com/f0e/blur) - Add Motion Blur to Videos / [Tutorial](https://youtu.be/16-KU4r3BcA) 
 * [Webm Generator](https://github.com/dfaker/WebmGenerator) - Webm Editor
-* [MergeMP4](https://maple3142.github.io/mergemp4/) - Merge MP4 Video & Audio 
+* [MergeMP4](https://maple3142.github.io/mergemp4/) - Merge MP4 Video & Audio
+* [VidLouder](https://www.videolouder.com/) - Increase Video Volume
 * [Video Cleaner](https://videocleaner.com/) or [Video Enhance AI](https://www.topazlabs.com/video-enhance-ai) - Video Enhancement Tool 
 * [Flowframes](https://nmkd.itch.io/flowframes) or [SVP](https://www.svp-team.com/) - Video Interpolation
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
@@ -453,6 +454,7 @@
 * [REAL](https://github.com/miniant-git/REAL) - Reduce Win 10 Audio Latency
 * [LatencyMon](https://www.resplendence.com/latencymon) - Analyze Audio Latency of System
 * [easyeffects](https://github.com/wwmm/easyeffects) - Audio Manipulation for PipeWire
+* [DigitalFeed](https://abx.digitalfeed.net/) - Lossless Audio Sound System Test
 * [SoundSync](https://soundsync.app/) - Sound System Sync
 * [VCV Rack](https://vcvrack.com/) - Eurorack Simulator
 * [Cable](https://vb-audio.com/Cable/) - Virtual Audio Cable
@@ -490,6 +492,7 @@
 * [Mod Archive](https://modarchive.org/) - Audio Modules
 * [Mixxx](https://mixxx.org/), [rekordbox](https://rekordbox.com/en/) or [Serato](https://serato.com/) - DJ Software 
 * [Repetito](http://www.repetito.com/) - Multichannel Looper
+* [MP3Louder](https://mp3louder.com/) - Increase MP3 Volume
 * [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/), [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil), [AdventureMachine](https://madeon.fr/adventuremachine/) or [Strofe](https://www.strofe.com/) - Simple Audio Creators
 * [Cycle Plus One](https://cycle-plus-one.sourceforge.io/) - Audio Pattern Generator
 * [Moises](https://moises.ai/) - Live Music Mixer
@@ -536,7 +539,7 @@
 * [Karaoke Maker](https://www.edityouraudio.com/karaoke-maker), [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - Create Karaoke Songs
 * [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/), [VoiceSpice](https://voicespice.com/) or [Reverb Record](https://record.reverb.chat/) - Online Audio Recorder 
 * [MP3Smaller](https://www.mp3smaller.com/) - MP3 Compressor 
-* [MP3Food](https://mp3food.com/) - Online Audio Cutter / Merger
+* [MP3Food](https://mp3food.com/) or [AudioTrimmer](https://audiotrimmer.com/) - Online Audio Cutters
 * [The Trimmer Bot](https://t.me/The_Trimmer_bot) - Video Trimmer Telegram Bot
 * [ShortApp](https://shortsapp.com/) - Cut Video / Audio into Shorts 
 * [lalal.ai](https://www.lalal.ai/), [MP3CutterPro](https://mp3cutterpro.com/), [Flacon](https://flacon.github.io/) or [SongDonkey](https://songdonkey.ai/) - Audio Track Splitter 
@@ -569,6 +572,7 @@
 * [inAudible](https://github.com/rmcrackan/inAudible) - Audible to MP3 converter
 * [Soundiiz](https://soundiiz.com/) - Transfer Playlists Between Streaming Platforms
 * [Suda](https://github.com/yaronzz/Suda) - Playlist Manager
+* [Sharky's EAC Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) - CD Audio Ripping Guide
 * [RipGuide](https://highquality.rip/ripguide/) - Video Game Audio Ripping Guide
 * [Exact Audio Copy](https://www.exactaudiocopy.de/) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper 
 * [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) or [AutoChords](https://autochords.com/) - Chord Progression Generators
@@ -790,6 +794,7 @@
 * [FireStorm Viewer](https://www.firestormviewer.org/) - Virtual World Viewer
 * [Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_sites) - No Verification Required Email Sites
 * [Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients) - Send & Receive Mail
+* [Fedora Email](https://fedora.email/) - Email Web Client
 * [Postsack](https://github.com/terhechte/postsack) - Email Visualizer
 * [.edu Mail Guide](https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview), [Mail.mjj](https://mail.mjj.edu.ge/), [10MinMail](https://10minutesemail.net/) - EDU Email Address'
 * [BeFree](https://beefree.io/templates/free/) - Email Templates
@@ -1147,7 +1152,7 @@
 * [Reddit Desktop Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_desktop_apps) 
 * [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader) - Download Media from Reddit 
 * [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Reddit Bulk Submission Downloader
-* [Pushshift.io](https://pushshift.io/) - Reddit Statistics
+* [Pushshift.io](https://pushshift.io/) or [SocialGrep](https://socialgrep.com/) - Reddit Statistics
 * [TrendingWordsofReddit](https://trendingwordsofreddit.herokuapp.com/) - Reddit Trending Words
 * [TitleScraper](https://titlescraper.herokuapp.com/) - See a Subreddits Most Upvoted Words
 * [Upvote Stats](https://www.upvotestats.com/) - Upvote Stats
@@ -1170,7 +1175,7 @@
 
 * **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client 
 * **[BetterDiscord](http://betterdiscord.app/)** - Modifiable Discord Client / [GitHub](https://github.com/BetterDiscord/BetterDiscord) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)
-* **[Cumcord](https://cumcord.com/)** - Discord Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)
+* **[Cumcord](https://cumcord.com/)** / [Discord](https://discord.gg/kkmM5U7YAt) or [Velocity](https://velocity-discord.netlify.app/) - Discord Client Mod 
 * **[GooseMod](https://goosemod.com/)** - Modifiable Discord Client / [Firefox](https://addons.mozilla.org/addon/goosemod-for-web/) / [Chrome](https://chrome.google.com/webstore/detail/goosemod-for-web/clgkdcccmbjmjdbdgcigpocfkkjeaeld)
 * [Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists) - Discover Servers / Bots
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - Discord Tools
@@ -1246,6 +1251,7 @@
 * [qbittorrent-rp](https://github.com/LockBlock-dev/qbittorrent-rp) - qBittorrent Rich Presence
 * [Discord RPC Client](https://github.com/Metalloriff/discord-rpc-client) or [DiscordRPCMaker](https://drpcm.t1c.dev/) - Create Discord RPCs
 * [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)
+* [SteamRPC](https://github.com/Crementif/SteamRPC) - Convert Steam Rich Presence to Discord Rich Presence
 * [Discord-Linux](https://discord-linux.com/) - Linux Container Bot 
 * [Discord.io](https://discord.io/) or [dsc.gg](https://dsc.gg/) - Create Custom Discord Invites
 * [1337x-Bot ](https://github.com/brandongallagher1999/1337x-Bot) - 1337x Discord Bot
@@ -1725,7 +1731,7 @@ Twitch Stream Tracker
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - Disk Benchmarking Tool
 * [Scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive Monitor
 * [Macrium Reflect](https://www.macrium.com/reflectfree) - System Benchmarking
-* [poclmembench](https://github.com/kruzer/poclmembench) - Memory Benchmark Test
+* [poclmembench](https://github.com/kruzer/poclmembench) or [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking 
 * [Netdata](https://www.netdata.cloud/), [bottom](https://github.com/ClementTsang/bottom), [MangoHud](https://github.com/flightlessmango/MangoHud), [OpenHardwareMonitor](https://openhardwaremonitor.org/) / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor), [btop](https://github.com/aristocratos/btop), [Glances](https://nicolargo.github.io/glances/) or [WinBar](http://www.winbar.nl/) - System Monitor
 * [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - Windows System Utilities / [Suite](https://www.microsoft.com/EN-US/p/app/9P7KNL5RWT25) 
@@ -1893,7 +1899,7 @@ Twitch Stream Tracker
 * [Screen Sizes](https://screensiz.es/) - Screen Size Database
 * [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
 * [JScreenFix](https://www.jscreenfix.com/) or [UDPixel](http://udpix.free.fr/) - Repair Stuck Pixels
-* [ICC Profiles](https://tftcentral.co.uk/articles/icc_profiles) - ICC Profiles and Monitor Calibration
+* [ICM](https://rentry.co/ICM) or [ICC Profiles](https://tftcentral.co.uk/articles/icc_profiles) - ICC Profiles and Monitor Calibration
 * [EIZO](https://www.eizo.be/monitor-test/) or [LCDTech](https://lcdtech.info/en/tests/) - Display Performance Tests
 * [TestUFO](https://www.testufo.com/) - Monitor Framerate Test
 * [All Black Screen](https://allblackscreen.com/) - Make Screen Black
@@ -1932,7 +1938,8 @@ Twitch Stream Tracker
 * [PSReadLine](https://github.com/PowerShell/PSReadLine) - PowerShell Readline Implementation 
 * [SystemNightware](https://github.com/GossiTheDog/SystemNightmare) - Instant System Command Prompt
 * [Starship](https://starship.rs/) - Cross-Shell Prompt
-* [GNU Parallelel](https://www.gnu.org/software/parallel/) - Execute Commands / Scripts in Parallel using Multiple Computers 
+* [GNU Parallelel](https://www.gnu.org/software/parallel/) - Execute Commands / Scripts in Parallel using Multiple Computers
+* [Nushell](https://www.nushell.sh/) - Alt Shell
 * [Resource Hacker](http://www.angusj.com/resourcehacker/) - Resource Editor 
 * [grepWin](https://github.com/stefankueng/grepWin) - Regular expression search and replace 
 * [ngrep](https://github.com/jpr5/ngrep) - Specify Expressions to match against Data Payloads of Packets 
@@ -1968,6 +1975,8 @@ Twitch Stream Tracker
 * [How-To Make Microsoft Activation Server](https://mananapr.github.io/microsoft_activation.html) 
 * [Technical Documentation](https://docs.microsoft.com/en-us/documentation/) - Microsoft Technical Documentations
 * [DIY Laptop](https://www.olimex.com/Products/DIY-Laptop/) - Build a Laptop
+* [OpenBoardData](https://github.com/inflex/OpenBoardData) - Board Repair Data
+* [OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd Files 
 * [TeslaMotors](https://github.com/teslamotors) - Tesla System Repositories
 
 ***
