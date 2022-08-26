@@ -59,6 +59,7 @@
 * [Cliggo](https://music.cliggo.com/) - Browser Music
 * [Mixupload](https://mixupload.com/) - Browser Music
 * [DMO](https://dance-music.org/) - Electronic
+* [OldSkoolMP3](https://oldskoolmp3.com/OldSkool/) - Oldschool Electronic
 * [Vapor Archive](https://vaporarchive.neocities.org/) - Vaporwave
 * [hypem](https://hypem.com/popular) - Rising
 * [Daytrotter](https://www.pastemagazine.com/daytrotter#!/) - Rising
