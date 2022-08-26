@@ -57,7 +57,6 @@
 * [RefDesk](https://www.refdesk.com/facts.html) - Site / Tool Index
 * [/g/'s good sites](https://rentry.co/sites) - Site / Tool Index
 * [The Scene](https://lkrjangid1.github.io/Awesome-Warez/) - Site / Tool Index 
-* [Illegal Services](https://git.teknik.io/Illegal-Services/Illegal_Services) - Site / Tool Index App / [Discord](https://discord.gg/577AWghYtx)
 * [Product Hunt](https://www.producthunt.com/) - Site / Tool Index
 * [Useful Interweb](https://usefulinterweb.com/) or [Daily Useful Links](https://t.me/DailyUsefulLINKS) - Daily Websites
 * [Mostly Free](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - Site / Tool Index
@@ -365,7 +364,8 @@
 * [Peter Answers](https://www.peteranswers.com/) - Create Fake Questions & Answers / [Tutorial](https://peteranswers.info/peter-answers-hack) 
 * [Deep Fried Web](https://deepfriedweb.mschfmag.com/) - Deep Fry Web Pages
 * [No Paint](https://nopaint.art/) - Press "Paint" if you like what you see, "No" if you don't 
-* [BubblesPop](https://bubblespop.netlify.app/) - Pop Bubble Wrap 
+* [BubblesPop](https://bubblespop.netlify.app/) - Pop Bubble Wrap
+* [Fidget Page](https://www.fidgetpage.com/) - Play w/ Fidget Spinner
 * [ClickToRemove](http://www.clicktoremove.com/) - Click to Remove Text
 * [Koalas to the Max](http://www.koalastothemax.com/) - Make Smaller & Smaller Dots
 * [RolePlayer](https://www.roleplayer.me/) - Roleplaying Social Network
@@ -582,6 +582,7 @@
 * [Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator) - Pretend You Have Macbook Pro
 * [ILoveJarJarBinks](https://ilovejarjarbinks.tripod.com/) - Jar Jar Binks Fansite
 * [SND](https://s-n-d.si/) - Strange Scrollable Story
+* [Terminal 00](https://angusnicneven.com/) - Turn Back
 * [IdiotProofWebsite](http://idiotproofwebsite.com/)
 * [TheMostAmazingWebsiteOnTheInternet](http://www.themostamazingwebsiteontheinternet.com/) - The Internets Best Website
 * [MotherFuckingWebsite](http://motherfuckingwebsite.com/), [BetterMotherFuckingWebsite](http://bettermotherfuckingwebsite.com/), [EvenBetterMotherFuckingWebsite](https://evenbettermotherfucking.website/) or [TheBestMotherFuckingWebsite](https://thebestmotherfuckingwebsite.co/)
@@ -589,6 +590,7 @@
 * [isitnight](https://www.isitnight.com/) - Determine if its Night
 * [ThisSiteSaysOtherwise](https://thissaysotherwise.org/) - Otherwise
 * [The Pug in the Rug](https://puginarug.com/) - Watch the Pug be in the Rug
+* [No Code](https://github.com/kelseyhightower/nocode) - Write Nothing, Deploy Nowhere
 * [DownloadMoreRam](https://downloadmoreram.com/) - Download More Ram
 * [Watching Grass Grow](https://www.watching-grass-grow.com/) - Watch Grass Grow
 * [aaaaa](https://github.com/dkter/aaaaa) - "a" only keyboard
@@ -788,6 +790,7 @@
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
 * [Google Fit](https://www.google.com/fit/) - Activity Coach
 * [/u/KNightNox Diagram](https://i.imgur.com/ipBxg5p.jpg) - Zoomable Exercise Diagram
+* [No Equipment Ab Exercises](https://i.imgur.com/H9IH3XB.jpg) - Ab Exercise Diagram
 * [fastnfitness](https://github.com/brodeurlv/fastnfitness) - Track Your Exercise Progress
 * [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) - Exercise & Activity Tracker
 * [ExRx.net](https://exrx.net/) - Exercise Resources
@@ -1033,6 +1036,9 @@
 * [UrbanFonts](https://www.urbanfonts.com/)
 * [AbstractFonts](https://www.abstractfonts.com/)
 * [FontGet](https://www.fontget.com/)
+* [FontINeed](https://fontineed.com/)
+* [BlogFonts](https://blogfonts.com/)
+* [1.5_million_font_files_collection](https://archive.org/details/1.5_million_font_files_collection)
 * [FontCubes](http://www.fontcubes.com/) 
 * [AllFreeFont](http://www.allfreefont.com/)
 * [BigFontSite](https://bigfontsite.com/)
@@ -1046,6 +1052,9 @@
 * [Iconian](http://www.iconian.com/) 
 * [Beautiful Web Type](https://beautifulwebtype.com/)
 * [fontfabric](https://www.fontfabric.com/free-fonts/)
+* [HighFonts](https://highfonts.com/category/free/)
+* [Fonts4Free](https://www.fonts4free.net/)
+* [Mr.E-Fonts](https://archive.org/details/Mr.E-Fonts)
 * [Open Foundry](https://open-foundry.com/fonts)
 * [TypeType](https://typetype.org/freefonts/) 
 * [BonusTutorials](https://bonstutoriais.com.br/category/fontes-gratis/) 
@@ -1253,7 +1262,8 @@
 * [OnelineProton](https://github.com/lr-tech/OnelineProton/) - Proton Theme for Firefox
 * [Dark Background for Firefox New Tabs](https://fedidat.com/640-dark-newtab-firefox/)
 * [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - Force Enable Right Click
-* [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) - Make Non-Hyperlinked URL's Clickable 
+* [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) - Make Non-Hyperlinked URL's Clickable
+* [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) - Translator
 * [hide-scrollbars](https://addons.mozilla.org/en-US/firefox/addon/hide-scrollbars/) - Hide Browser Scrollbar
 * [AutoPagerize Advanced](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - Merge Multiple Pages
 * [Profile Switcher](https://addons.mozilla.org/en-US/firefox/addon/profile-switcher/) - Profile Manager 
@@ -1386,8 +1396,9 @@
 
 * **[Userscript Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_userscript_managers)**
 * **[Userscripts Guide](https://rentry.co/userscript-guide)**
-* **[Greasy Fork](https://greasyfork.org/en)** / [Enhancements](https://greasyfork.org/en/scripts/431584-greasy-fork#greasy-fork), [Userscripts](https://userscripts-mirror.org/) or [OpenUserJS](https://openuserjs.org/) - Install Userscripts / [Change Theme](https://greasyfork.org/en/scripts/4336) / [Remove Crap](https://greasyfork.org/en/scripts/12179-greasyfork-bull-filter)
-* [Awesome Userscripts](https://github.com/bvolpato/awesome-userscripts), [Scripts](https://gitlab.com/loopvid/scripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Indexes
+* **[Greasy Fork](https://greasyfork.org/en)**, [Userscripts](https://userscripts-mirror.org/) or [OpenUserJS](https://openuserjs.org/) - Install Userscripts / [Git Install](https://greasyfork.org/en/scripts/6456)
+* **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/431584) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Remove Crap](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336) / [Dark Theme](https://greasyfork.org/en/scripts/404443)
+* [Awesome Userscripts](https://github.com/bvolpato/awesome-userscripts, [loopvid](https://github.com/XIU2/UserScript)[Scripts](https://gitlab.com/loopvid/scripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Indexes
 * [darkmode.js](https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c) - Dark Mode Script
 * [Solved Media Plus](https://greasyfork.org/en/scripts/422074-solved-media-plus) - Image Captcha Solver
 * [Remove Web Limits](https://greasyfork.org/en/scripts/28497-remove-web-limits-modified), [2](https://greasyfork.org/en/scripts/386908-remove-web-limits-re-modified) - Force Enable Right Click
