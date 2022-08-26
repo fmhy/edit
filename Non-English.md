@@ -435,14 +435,14 @@
 * [Megakino](https://megakino.co/) - Movies / TV
 * [KinoX](https://www.kinox.sx/) - Movies / TV
 * [StreamCloud](https://streamcloud.cx/) - Movies / TV
-* [BS.TO](https://www.bs.to/) - TV / Shows / Anime
+* [BS.TO](https://www.bs.to/) - TV / Anime
 * [StreamCloud](https://www1.streamcloud.club/) - Movies / TV
 * [Kinos](https://www.kinos.to/) - Movies / TV
 * [KinoZ](https://kinoz.to/) - Movies / TV / Anime / NSFW
 * [S.TO](https://s.to/) - TV / Anime
 * [SRF.CH](https://www.srf.ch/) - TV / Sports / Live
 * [Anime-Loads](https://www.anime-loads.org/) - Anime
-* [Aniworld](https://aniworld.to/) - Anime
+* [Aniworld](https://aniworld.to) - Anime
 * [Aniflix](https://www.aniflix.cc/) - Anime
 * [dokustreams](https://dokustreams.de/) - Documentaries
 * [Doku-Streams](http://doku-streams.com/) - Documentaries
