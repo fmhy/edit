@@ -426,8 +426,7 @@
 ## ▷ Streaming
 
 * [StartSeite](https://startseite.to/) - Movies / TV / NSFW / List
-* [streamkiste](https://streamkiste.tv/) / [2](https://streamkiste.cx/) - Movies / TV  
-* [Burning Series](https://www.burning-series.net/) - Movies / TV / Anime / Needs VPN
+* [streamkiste](https://streamkiste.tv/) / [2](https://streamkiste.cx/) - Movies / TV
 * [filmpalast](https://filmpalast.to/) - Movies / TV
 * [movieking](https://movieking.cc/) - Movies
 * [Film Palast](https://filmpalast.club/) - Movies / TV
@@ -436,15 +435,14 @@
 * [Megakino](https://megakino.co/) - Movies / TV
 * [KinoX](https://www.kinox.sx/) - Movies / TV
 * [StreamCloud](https://streamcloud.cx/) - Movies / TV
-* [BS.TO](https://www.bs.to/) - TV / Anime
-* [HDFilme](https://hdfilme.cx/) - Movies
+* [BS.TO](https://www.bs.to/) - TV / Shows / Anime
 * [StreamCloud](https://www1.streamcloud.club/) - Movies / TV
 * [Kinos](https://www.kinos.to/) - Movies / TV
 * [KinoZ](https://kinoz.to/) - Movies / TV / Anime / NSFW
 * [S.TO](https://s.to/) - TV / Anime
 * [SRF.CH](https://www.srf.ch/) - TV / Sports / Live
 * [Anime-Loads](https://www.anime-loads.org/) - Anime
-* [Anicloud](https://anicloud.io/) - Anime
+* [Aniworld](https://aniworld.to/) - Anime
 * [Aniflix](https://www.aniflix.cc/) - Anime
 * [dokustreams](https://dokustreams.de/) - Documentaries
 * [Doku-Streams](http://doku-streams.com/) - Documentaries
