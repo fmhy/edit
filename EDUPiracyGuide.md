@@ -190,6 +190,7 @@
 * [FreetutsDownload.com](https://freetutsdownload.com/) - Courses / GDrive Host 
 * [iTunes U](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_itunesu_lectures) - Lectures
 * [Gurukul Soft Technology](https://www.gurukulsofttechnology.in/) / [Telegram](https://t.me/gurukulsofttechnology) - Computer Science Courses
+* [ScalerFullStack](https://t.me/scalerfullstack), [ScalerNerds](https://t.me/scalerds) or [scalerfullstackproductmanagement](https://t.me/scalerfullstackproductmanagement) - Scaler Courses
 * [LyndaFree](https://t.me/lyndafree)  - Lynda Courses / pw: fmhy
 * [BestWSODownload](https://www.bestwsodownload.com/) - WSO Courses
 * [Udemy Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_udemy_course_drives)
@@ -321,6 +322,7 @@
 * [Mathcha](https://www.mathcha.io/) - Online Math Editor
 * [EquatIO](https://chrome.google.com/webstore/detail/equatio-math-made-digital/hjngolefdpdnooamgdldlkjgmdcmcjnc) - Math Equation Creator
 * [SequenceDB](http://sequencedb.net/) - Sequence Machine
+* [Giac/Xcas](http://www-fourier.ujf-grenoble.fr/~parisse/giac.html) - Algebra System
 * [Weboasis Convert](https://weboasis.app/convert/) - Conversion Calculators
 * [PecentageTools](https://percentagetools.com/) or [CalcPercentage](https://calcpercentage.com/) - Percentage Calculators
 * [FractionCalc](https://fractionscalc.com/) - Fraction Calculator
@@ -369,6 +371,10 @@
 * [phys](https://phys.org/) - Latest / News / Article / Physics 
 * [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - Science / Tech / Math / Physics
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - Pendulum Simulator
+* [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/) or [Sim Flow](https://sim-flow.com/) - Fluid Dynamics Simulators
+* [SimScale](https://www.simscale.com/) or [CFDTool](https://www.cfdtool.com/) - Fluid Dynamics & Heat Transfer
+Simulator
+* [Simuwaerm](https://github.com/file-acomplaint/simuwaerm) - Heat Simulator
 
 ***
 
@@ -540,6 +546,7 @@
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - Japanese Practice Material
 * [Jotoba](https://jotoba.de/), [core6000](https://core6000.neocities.org/), [Tagaini](https://www.tagaini.net/), [Jisho](https://jisho.org/), [JapBase](https://japbase.neocities.org/) or [rtk-search](https://hochanh.github.io/rtk/) - Japanese Dictionaries / Phrases
 * [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - Japanese Accent Dictionary
+* [Japanese pitch accent resources](https://github.com/olety/japanese-pitch-accent-resources) - Japanese Accent Resources
 * [ichi.moe](https://ichi.moe/) - Japanese to English Phrase Translation
 * [Jlpt N3](https://dethitiengnhat.com/en/) or [JapaneseTest4You](https://japanesetest4you.com/) - Jlpt Exam Questions / [Grammar](https://jlptgrammarlist.neocities.org/)
 * [GetKanda](https://getkana.com/app/) or [RealKana](https://realkana.com/) - Learn Kana 
@@ -745,7 +752,7 @@
 * [Data Gif Maker](http://datagifmaker.withgoogle.com/) - Animate Data 
 * [flowchart fun](https://flowchart.fun/) - Generate Flowchart From Text / [GitHub](https://github.com/tone-row/flowchart-fun)
 * [OpenBoard](https://openboard.ch/), [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboard
-* [app.diagrams](https://app.diagrams.net/) / [Git](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [LineGraphMaker](https://linegraphmaker.co/) or [Gephi](https://gephi.org/) - Graph / Diagram Creator
+* [app.diagrams](https://app.diagrams.net/) / [Git](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [lybniz](https://github.com/thomasfuhringer/lybniz), [LineGraphMaker](https://linegraphmaker.co/) or [Gephi](https://gephi.org/) - Graph / Diagram Creator
 * [Altium](https://www.altium.com/viewer/) - Schematics Visualizer
 * [OpenLearning](https://www.openelearning.org/) - Create Course Presentations
 * [Quizizz](https://quizizz.com/) - Create Quizzes, Lessons, Flashcards & Presentations
@@ -754,8 +761,6 @@
 * [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flash Card Mobile App
 * [Wolfram Cloud](https://www.wolframcloud.com/) - Computational intelligence
 * [Matthen](https://blog.matthen.com/) - Math & Science Animations
-* [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/) or [Sim Flow](https://sim-flow.com/) - Fluid Dynamics Simulators
-* [SimScale](https://www.simscale.com/) or [CFDTool](https://www.cfdtool.com/) - Fluid Dynamics & Heat Transfer Simulator
 * [Eylenburg](https://eylenburg.github.io/) - Infographs, Maps & Papers
 * [GeoNames](https://www.geonames.org/) - Geography Name Database
 * [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/) or [Map Quiz](https://planemad.github.io/map-quiz/) - Geography Quizzes
@@ -776,6 +781,7 @@
 * [Bridge Command](https://www.bridgecommand.co.uk/) - Bridge Command Ship Simulator
 * [Sectional Anatomy](https://www.sectional-anatomy.org/) - Cross Sectional Educational MRI / CT Scans
 * [Ray Optics Simulation](https://ricktu288.github.io/ray-optics/) - Light Reflection / Refraction Simulator
+* [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) - Light and Shadow Lesson
 * [Interactive 4D Handbook](https://baileysnyder.com/interactive-4d/) - Interactive Fourth Dimension
 * [Início](https://www.desolhar-philo.com/) - Learn about Philosophers / Philosophy
 * [Get Body Smart](https://www.getbodysmart.com/) - Learn about Human Anatomy and Physiology
