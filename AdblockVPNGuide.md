@@ -25,7 +25,7 @@
 * **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** - Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Merge Filters](https://realityripple.com/Tools/AdBlock++/)
 * **[Adblock Defenders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders)** - Prevent Sites from Detecting Adblockers / [Test Defenders](https://blockads.fivefilters.org/), [2](https://www.detectadblock.com/)
 * **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers)** - Block Twitch Ads
-* **[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** - Bypass Redirects
+* **[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** - Bypass Redirects / [Skip Timers](https://greasyfork.org/en/scripts/372673) / [Additional Bypass](https://greasyfork.org/en/scripts/443888)
 * **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)
 * **[Popup Blockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - Block Malicious Popups / Tabs
 * **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)**, [Demodal](https://addons.mozilla.org/firefox/addon/demodal), [f ck overlays](https://chrome.google.com/webstore/detail/fck-overlays/ppedokobpbdajgiejhnjfbdjlgobcpkp/related) or [Behind The Overlay Revival](https://addons.mozilla.org/en-US/firefox/addon/behind-the-overlay-revival/) - Hide Website Overlays 
@@ -62,7 +62,7 @@
 * [NextDNS](https://nextdns.io) - DNS Adblocking / [Enhancement](https://greasyfork.org/en/scripts/408934-nx-enhanced) / [Leak Warning](https://redd.it/jt28e8) / [Extension](https://chrome.google.com/webstore/detail/nx-enhanced/ljimbekophocjbnphldoaidgkkaojcfo)
 * [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/), [FreeMyIP](https://freemyip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
 * [Encrypted DNS Resolvers](https://www.privacytools.io/providers/dns/)
-* [DNS Resolver Privacy-First](http://doh.tiar.app/) or [1.1.1.1](https://1.1.1.1/) / [Unlimited Data](https://rentry.co/WarpKeyGen) - DNS Resolver
+* [DNS Resolver Privacy-First](http://doh.tiar.app/) or [1.1.1.1](https://1.1.1.1/) / [Unlimited Data](https://rentry.co/WarpKeyGen) / [Plus](https://github.com/ALIILAPRO/warp-plus-cloudflare) - DNS Resolver
 * [ControlD](https://controld.com/), [DNS Jumper](https://sordum.org/7952/dns-jumper-v2-1/) or [Hetzner](https://www.hetzner.com/dns-console?country=us) - DNS Manager
 * [DNS for Family](https://dnsforfamily.com/), [CleanBrowsing](https://cleanbrowsing.org/filters/), [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter/) or [NXFilter](https://nxfilter.org/) - DNS Filters
 * [Spamhaus](https://www.spamhaus.org/) or [1Hosts](https://o0.pages.dev/) / [GitHub](https://github.com/badmojr/1Hosts) - DNS Blocklists
@@ -615,7 +615,7 @@
 * [Open Proxy Space](https://openproxy.space/)
 * [Google Translate](https://translate.google.com/) - [How to use](https://redd.it/fawkjy) 
 * [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - Python Library for Retrieving Free Proxies
-* [Proxy-Checker](https://proxy-checker.net/), [What is my Proxy](http://www.whatismyproxy.com/) or [Socker](https://github.com/TheSpeedX/socker) - Proxy Checker
+* [Proxy-Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper), [What is my Proxy](http://www.whatismyproxy.com/) or [Socker](https://github.com/TheSpeedX/socker) - Proxy Checkers
 * [apiproxyfree](https://apiproxyfree.com/) - Proxy List API
 * [CheckSocks5](https://checksocks5.com/) - Socks5 Proxy Checker
 * [Proxynova](https://www.proxynova.com/proxy-server-list/country-ir/) - Iranian Proxies
