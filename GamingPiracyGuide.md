@@ -122,7 +122,8 @@
 * **[ROM Site Index](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)**
 * **[Emuparadise](https://www.emuparadise.me/)** - Emulators / ROMs / [DL Script](https://gist.github.com/byzantium225/484101c7846ce18e514b7b10bf4815c2) (click "Raw" to install) / [Forum](https://www.epforums.org/)
 * **[Vimms Lair](https://vimm.net/)** - Emulators / ROMs
-* [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Search ROM Sites
+* **[CrocDB](https://crocdb.net/)** - Emulators / ROMs
+* [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Multi-Site ROM Search
 * [Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators) 
 * [ROM Managers](http://emulation.gametechwiki.com/index.php/ROM_managers) - List of ROM Managers
 * [Emulator Netplay Tools](http://emulation.gametechwiki.com/index.php/Netplay) - Multiplayer Emulation
@@ -167,6 +168,7 @@
 * [DaROMs](http://daROMs.com/) - ROMs
 * [Arcade Punks](https://www.arcadepunks.com/) - ROMs
 * [CDRomance](https://cdromance.com/) - ROMs
+* [NGR](https://www.nextgenroms.com/) - ROMs
 * [LoveROMs](https://www.loveROMs.online/) - ROMs
 * [PSXForever](https://psxforever.com/), [2](https://pspgamesland.com/), [3](https://gameboxadvance.com/), [4](https://legendsROMs.com/), [5](https://worldcia3ds.com/), [6](https://akamigames.net/), [7](https://fullgamesnx.com/) - ROMs
 * [FantasyAnime](https://fantasyanime.com/) - ROMs
@@ -284,6 +286,7 @@
 * [File-Hunter](https://www.file-hunter.com/) - MSX / Amiga Browser Emulator
 * [MSXGamesWorld](https://www.msxgamesworld.com/) - MSX Browser Emulator
 * [C64Online](https://c64online.com/) - C64 Browser Emulator
+* [Super Mario Bros](https://supermariobros.io/), [SuperMarioBrosGames](https://supermariobrosgames.com/) or [SMBGames](https://smbgames.be/) - Super Mario Browser Emulators
 * [Mega Man Games](https://www.megamangames.net/) - Mega Man Browser Emulator
 * [OpenBOR](https://github.com/DCurrent/openbor) or [Mugen](https://web.archive.org/web/20150209191723/http://www.elecbyte.com/mugen) - 2D Fighting Game Emulator
 * [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
@@ -362,12 +365,12 @@
 * [Powerslave EX](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_powerslave_ex) - Powerslave PC Port 
 * [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) - Driver 2 PC Port
 * [Megaman 2.5D](http://petersjostrand.com/) - Multiplayer Mega Man
+* [Streets of Rage Remake](https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info) - Streets of Rage Remake
 * [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
 * [EDuke32](https://www.eduke32.com/) - Duke Nukem 3D Source Port
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)
 * [Mars 3D](https://mars3d-game.wixsite.com/index) - Mars 3D Translation & Remake
-* [Super Mario Bros](https://supermariobros.io/)
 * [Super Mario Bros Crossover](https://explodingrabbit.com/games/super-mario-bros-crossover/) - Play SMB with Alternative Characters
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
 * [sm64](https://github.com/n64decomp/sm64) - Super Mario 64 Decompilation / [Guide](https://youtu.be/rQVpfWYT0eg) 
@@ -748,8 +751,9 @@
 * [rate.house](https://rate.house/) - Video Game Database
 * [Backloggery](https://backloggery.com/) - Video Game Database
 * [listal](https://www.listal.com/) - Video Game Database
+* [RetroShowcase](https://www.retroshowcase.gr/) - Retro Game Database
 * [Co-Optimu](https://www.co-optimus.com/) - Co-Op Game Database
-* [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) - Local Multiplayer Game Database
+* [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [list of local multiplayer pc games](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database
 * [HOTU](http://www.homeoftheunderdogs.net/) - Rare Game Database
 * [GameClassification](https://gameclassification.com/) - Search Games by Classifications
 * [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - Find Similar Games
