@@ -16,7 +16,7 @@
 * **[/r/PiratedGames Megathread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Gaming Piracy Site Index / [Discord](https://discord.gg/dZWwhUy)
 * **[/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread)** - Software Piracy Site Index
 * **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** or [/r/Stumbledon](https://www.reddit.com/r/Stumbledon/) - Helpful / Fun Sites
-* **[Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)**, [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
+* **[Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)**, [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr), [5](https://rentry.org/verycompletelistofpiratesites) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
 * **[Champagne Wiki](https://rentry.org/champagne_wiki/)** - Piracy Index / [Guides](https://rentry.org/champagne_guides/)
 * **[Esoterica Avenue](https://ori5000.github.io/)** - Software & Games Megathread / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * **[WebOas.is](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - Startpage / Site Index / [Source Code](https://pastebin.com/CczqreS4)
@@ -552,7 +552,6 @@
 * [The Tsuki Project](https://classic.systemspace.network/) - Gain Eternal Life / [Explanation](https://youtu.be/mWkgvM-Qnhw)
 * [Nested](http://orteil.dashnet.org/nested) - Explore the Universe in a File System
 * [Cursor Car](https://papercookies.itch.io/cursor-car) - Play with Car Cursor 
-* [Pornolize](https://pornolize.com/) - Make Inappropriate Versions of Webpages 
 * [Just a Minute](https://jinay.dev/just-a-minute/) - Estimate a Minute
 * [Checkboxes](http://www.jezzamon.com/checkboxes/index.html) - Check Boxes
 * [The Owen Wilson Wow API](https://owen-wilson-wow-api.herokuapp.com/) - Owen Wilsons "wow" API
@@ -1055,7 +1054,6 @@
 * [HighFonts](https://highfonts.com/category/free/)
 * [Fonts4Free](https://www.fonts4free.net/)
 * [Mr.E-Fonts](https://archive.org/details/Mr.E-Fonts)
-* [Open Foundry](https://open-foundry.com/fonts)
 * [TypeType](https://typetype.org/freefonts/) 
 * [BonusTutorials](https://bonstutoriais.com.br/category/fontes-gratis/) 
 * [Awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/)
@@ -1414,7 +1412,6 @@
 * [Extra Flags for 4chan](https://gitlab.com/flagtism/Extra-Flags-for-4chan) - Add More Flags to 4chan
 * [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - Google Search Endless Scrolling 
 * [Extra Search Buttons](https://greasyfork.org/en/scripts/7543-google-search-extra-buttons) - Extra Google Search Buttons
-* [Google Hit Hider](https://openuserjs.org/scripts/jscher2000/Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites\)) - Block Sites from Search Results
 * [Pagetual](https://hoothin.github.io/PagetualGuide/en/) - Merges a Sites "Next" Pages
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - Shows Images & Videos Behind Links & Thumbnails
