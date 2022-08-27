@@ -107,7 +107,7 @@
 * **[HiMovies](https://www3.himovies.to/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)
 * **[PtFlixMovies](https://ptflixmovies.xyz/)** - Movies / TV / Anime
 * **[Movie-Forum](https://movie-forum.co/forum.php)** - Movies / TV
-* [Monero](https://monero.ist/) - Movies / TV
+* [HDToday](https://hdtoday.ws/) - Movies / TV
 * [AZMovies](https://azm.to) - Movies
 * [KollaFilm](https://kollafilm.com/) - Movies / TV
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
@@ -117,7 +117,6 @@
 * [Movies123](https://www.movies123.email/) or [123movies](https://ww.123movies.club) - Movies / TV / Anime 
 * [TopEuroPix](https://topeuropix.site/) or [europixHD](https://europixhd.pro/) - Movies / TV / Anime
 * [MovieSee](https://moviesee.live/) - Movies / TV
-* [MovieHunters](https://movieshunters.com/) - Movies / TV
 * [Dogeflix](https://dogeflix.net/) - Movies / TV
 * [eSubMovies](https://www.esubmovie.com/) - Movies
 * [Sauflix](https://www.sauflix.com/) - Movies / TV
@@ -147,7 +146,6 @@
 * [Yesmovies.love](https://yesmovies.love/) - Movies / TV / Anime
 * [DailyFlix](https://main.dailyflix.stream/) - Movies
 * [Openload Movies](https://openloadmovies.ch/) - Movies
-* [GustaTV](https://www2.gustatv.to/) - Movies / TV Anime
 * [Vexmovies.space](http://vexmovies.space/) - Movies
 * [Lovemovie](https://lovemovie.org/) - Movies / TV
 * [OpenCulture](https://www.openculture.com/freemoviesonline) - Movies
@@ -180,7 +178,6 @@
 * [123MoviesFun](https://123moviesfun.is/) - Movies / TV
 * [123MoviesOnline](https://123moviesonline.one/) - Movies / TV
 * [0123movies](https://watch0123movies.org) - Movies / TV
-* [FSAPI](https://fsapi.xyz/) - Movies / TV / Anime / API
 * [2embed](https://www.2embed.to/) - Movies / TV / Anime / API
 * [DBGO](https://dbgo.fun/) - Movies / TV / Anime / [Content List](https://dbgo.fun/list.php) / API
 * [ApiMDB](https://apimdb.net/) - Movies / TV / Anime / API
@@ -260,7 +257,6 @@
 * **[TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)**
 * **[CouchTuner](https://www.couchtuner.show/)** - TV / Anime
 * **[Best Series](https://bstsrs.one/)**, [2](https://srsone.click/) - TV / Anime
-* [Noxx](https://noxx.is) - TV
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - TV / Anime
 * [Teleisodes](https://www1.telepisodes.org/) - TV 
 * [FZTVSeries](https://fztvseries.mobi/), [MobileTVShows](https://www.mobiletvshows.net/) or [TVSeries](https://www.tvseries.in/) - TV / Anime
@@ -311,7 +307,6 @@
 * [AnimeFox](https://animefox.cc/), [2](https://animefox.io/), [3](https://www.animedao.cc/) - Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)
 * [AnimeHeaven](https://animeheaven.ru/) - Sub / Dub 
 * [AnimeDao](https://animedao.to/) - Sub
-* [AniStream](https://anistream.fun/) - Sub
 * [MasterAni](https://www.masterani.one/) - Sub / Dub
 * [LMAnime](https://lmanime.com/) - Sub
 * [AnimeLand](https://www.animeland.us/) - Dub 
@@ -337,7 +332,6 @@
 * [tenshi.moe](https://tenshi.moe/) - Sub / Dub 
 * [AnimeGuru](https://www.animeguru.net/) - Sub / Dub
 * [AnimeEpisodes](https://ww6.animesepisodes.com/) - Sub / Dub
-* [GoAnimeList](https://www1.goanimelist.me/) - Sub / Dub
 * [AnimeFrenzy](https://animefrenzy.org/) - Sub 
 * [Crimsonfansubs](https://crimsonfansubs.com/) - Sub
 * [AnimeXin](https://animexin.info/) - Sub
@@ -345,7 +339,6 @@
 * [AniWatch](https://aniwatch.pro/) - Sub
 * [Anime5s](https://anime5s.com/) - Sub / Dub
 * [StreamAnimeTV](https://streamanimetv.net/) - Sub / Dub
-* [Anime60FPS](https://www.anime60fps.com/ ) - Sub / Dub
 * [AnimeFreak](https://www.animefreak.vip/) - Sub / Dub
 * [DubbedAnime](https://dubbedanime.biz/) - Sub / Dub 
 * [9AnimeTV](https://9animetv.su/) - Sub
@@ -522,7 +515,6 @@
 * [NodelayTV](http://nodelaytv.pw/) - Sports
 * [Rojadirecta](https://www.rojadirecta.watch/) - Sports
 * [SportsRP](http://www.sportsrp.com/free-live-streams/) - Sports
-* [EliteGoLTV](https://elitegoltv.es/) - Sports
 * [CrackStreams.net](https://crackstreams.net/) - Sports
 * [FreeSportsForAll](http://www.freesportsforall.ml/) - Sports
 * [Fcstream](https://fcstream.net/) - Sports
@@ -670,7 +662,7 @@
 * [Nine9ja](https://nine9ja.com/) - Movies
 * [Warez Lover](https://warezlover.org/) - Movies / TV 
 * [LatestMovie4U](https://latestmovie4u.com/) - Movies / TV / Anime 
-* [VegaMovies](https://vegamovies.onl/category/english/), [2](https://vegamovies.red/) - Movies / [Telegram](https://t.me/Vegamoviesgroup2)
+* [VegaMovies](https://vegamovies.onl/category/english/) - Movies / [Telegram](https://t.me/Vegamoviesgroup2)
 * [Subroz](https://subroz.live/0:/) - Movies / TV
 * [Wtfmovies](https://www.wtfmovies.xyz/) - Movies / TV
 * [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - Cartoons 
@@ -755,7 +747,6 @@
 * [TokyoInsider](https://www.tokyoinsider.com/) - Sub
 * [Chiby](http://www.animechiby.com/) - Sub
 * [Kainime](https://kainime.com/) - Sub
-* [AnimeTV4U](https://animetv4u.com/) - Sub / Dub / [Telegram](https://t.me/Anim3TV4u)
 * [Anime Senpai4U](https://www.animesenpai4u.com/) - Sub / Dub
 * [Anime Flix](https://animeflix.org.in/) - Sub / Dub / [Telegram](https://t.me/moviesflixnet)
 * [IndiAnime](https://indianime.com/) - Sub / Dub
@@ -826,7 +817,6 @@
 * [Baby Torrent](https://babytorrent.fun/) - Movies / TV
 * [Vuze](https://www.vuze.com/content/) - Movies / TV 
 * [ATORRENTS](https://atorrents.com/) - Movies
-* [EniaHD](https://eniahd.com/) - Movies / TV
 * [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)
 * [TorrentKingNow](https://torrentkingnow.co/) - Movies
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - Movies
@@ -990,7 +980,6 @@
 * [Fmovies](https://fmovies.co/) - Movies / TV / Anime
 * [1movies](https://1movies.life/contact) - Movies / TV / Anime
 * [9Anime](https://9anime.to/) - Anime / Click Request
-* [GustaTV](https://www2.gustatv.to/requests/) - Movies / TV 
 * [TheWebFlix](https://docs.google.com/forms/d/e/1FAIpQLSe1-DTmK9yuAtmO6_pLMO4fR5UF2aWf0QbMME41blXfFWSQBA/viewform) - Movies / TV 
 * [anime-sharing](http://www.anime-sharing.com/forum/anime-requests-19/) - Anime
 * [warezforums](https://warezforums.com/Forum-Request-Movies-TV-Shows) - Movies / TV
