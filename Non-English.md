@@ -366,6 +366,7 @@
 * [streamcenter](https://wwv.streamcenter.cc/) - Movies / TV
 * [mavanimes](https://www.mavanimes.co/) - Movies / TV
 * [illimitestreaming](https://www.illimitestreaming.co/) - Movies / TV
+* [voirfilms-hd](https://voirfilms-hd.com/) - Movies / TV
 * [wiflix4k](https://wiflix4k.me/) - Movies / TV
 * [jojostream](https://jojostream.com/) - Movies / TV
 * [WiFlix](https://www.wiflix.zone/) - Movies / TV / Anime
@@ -488,6 +489,7 @@
 * [ebook-hell](https://ebook-hell.to/) - Books / Magazines / NSFW / Use Adblocker 
 * [DownMagaz](https://de.downmagaz.net/) - Magazines / NSFW 
 * [ComicMafia](https://comicmafia.to/) - Comics / Manga
+* [Kanjiku](https://kanjiku.net/) - Manga
 * [Hoerbuch](https://hoerbuch.us/) - Audiobooks
 
 ***
@@ -789,7 +791,6 @@
 * [AQ Stream](https://aqstream.com/) - Live TV 
 * [GameCenter CX](https://www.twitch.tv/gemcentacxx) - GameCenter CX Stream
 * [kuukunen](https://touhou.kuukunen.net/) - Music
-* [Live Japanese M3u](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_live_japanse_m3u) - M3u File for VLC
 
 ## ▷ Reading 
 
