@@ -49,7 +49,6 @@
 * [/r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
 * [Telegram Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audiobook_downloads) - Telegram Audiobook Channels
 * [audiobook-dl](https://github.com/jo1gi/audiobook-dl) or [Audiobook Downloader](https://github.com/ipriyam26/Audiobook) - Audiobook Download Tool
-* [Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) - Plex Audiobook Metadata Scraper 
 * [OverDrive](https://github.com/chbrown/overdrive) - OverDrive Audiobook Download Script
 
 *** 
@@ -79,7 +78,6 @@
 * [29GB Mega Folder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_29gb_mega_folder) - Books 
 * [just a digital library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_just_a_digital_library) - Books
 * [Nikola](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nikola) - Books
-* [Books.cat](https://books.cat/) - Books  / Forum / Requests 
 * [Read Any Book](https://www.readanybook.com/) - Books
 * [openlibrary](https://openlibrary.org/) - Books 
 * [standardebooks](https://standardebooks.org) - Books 
@@ -103,7 +101,6 @@
 * [Books'Cool](https://www.bookscool.com/en/index.php) - Books
 * [Dirzon](https://www.dirzon.com/) - Books
 * [Ebookee](https://www.ebookee.com/) - Books / Magazines
-* [Epub.us](https://www.epub.us/) - Books
 * [EBooksCart](https://ebookscart.com/) - Books
 * [Index of /Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_index_of_.2Fbooks) - Books
 * [Novel12](https://novel12.com/) - Books 
@@ -176,7 +173,6 @@
 * [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - ZeroNet Required
 * [Avxhm](https://avxhm.se/), [2](https://avxhm.is/) - [Leech Required](https://leechall.com/)
 * [AvaxHome](https://www.avaxhome.co/) 
-* [FreeBookSpot](http://www.freebookspot.es/default.aspx) - Books / [Leech Required](https://filehostlist.miraheze.org/wiki/Main_Page)
 * [Just Another Library](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/) - Tor Required / NSFW
 * [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
 * [Rivetedlit](https://rivetedlit.com/) - Books
@@ -255,7 +251,6 @@
 * [Sutta Central](https://suttacentral.net/) - Sacred Texts / Religion / Buddhism 
 * [NTSLibrary](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ntslibrary) - Religion / Philosophy
 * [Gnostic Society Library](http://www.gnosis.org/library.html) - Gnosticism
-* [Kenorb's New Age library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_kenorb.27s_new_age_library) - Esoterica / Mythology / Gnosticism 
 * [Esoterica](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_esoterica) - Esoterica / Philosophy / Gnosticism 
 * [Logoi Library](http://logoilibrary.com/) - Gnosticism / Hermeticism 
 * [766 Occult Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_766_occult_books) - Occult 
@@ -334,7 +329,6 @@
 * [TopMystery](http://www.topmystery.com/onlinebooks) - Mystery
 * [PublicBookShelf](http://www.publicbookshelf.com/) - Romance
 * [HourWolf](https://www.hourwolf.com/sfbooks/) - Fantasy
-* [Doyleand](https://doyleandmacdonald.com/lit.htm) - Fantasy
 * [Children's Library](http://en.childrenslibrary.org/),  [MagicKeys](http://www.magickeys.com/books/), [byGosh](https://bygosh.com),  [Baldwin Library](https://ufdc.ufl.edu/juv) or [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's 
 * [Damon's Collection of Game Artbooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_damon.27s_collection_of_game_artbooks), [BestArtbooks](https://t.me/BESTARTBOOKS) or [Artbooks.gala](https://artbooks.gala100.net/) - Artbooks
 * [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U), [PimpMyMind](https://pimpmymind.net/), [selfhelpbooklab](https://t.me/selfhelpbooklab), [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - Self-Help
@@ -469,7 +463,6 @@
 * [Explanations](https://magcius.github.io/xplain/article/) - Advanced Computer Explanations
 * [The Ergonomic Development of Video Game Controllers](https://www.longdom.org/open-access/the-ergonomic-development-of-video-game-controllers-2165-7556-1000209.pdf) 
 * [Bash Academy](https://guide.bash.academy/) - Bash Shell Guide
-* [Cyber Security & IT](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cyber_security_.26amp.3B_it) - Cyber Security / IT Books & Courses
 * [biorxiv](https://www.biorxiv.org/) - Biology Preprints
 * [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - Philosophy 
 * [APAOnline](https://www.apaonline.org/) - Philosophy 
@@ -479,7 +472,6 @@
 * [PickPDF](https://pickpdfs.com/) - Medical 
 * [FreeBooks4Doctors](http://freebooks4doctors.com/) - Medical
 * [MedicalStudyZone](https://medicalstudyzone.com/) - Medical 
-* [Medical Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_medical_drive) - Medical
 * [Medical_Book_Bot](https://t.me/Medical_Book_Bot) - Medical / Telegram
 * [medrxiv](https://www.medrxiv.org/) - Medicine Preprints
 * [AllTradersLibrary](https://t.me/alltradersLibrary) - Market Trading Books
@@ -586,7 +578,7 @@
 
 * **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
 * **[Sci-Hub](https://sci-hub.se/)** - Science Articles / Research Papers
-* **Sci-Hub Tools** - [Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [3](https://sci-hub.tech/), [4](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub)
+* **Sci-Hub Tools** - [Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [3](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub)
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - How to bypass article paywalls
 * [Wikisource](https://en.wikisource.org) - Poetry / Text / Documents
 * [Heystacks](https://heystacks.org/) - Public Google Docs
@@ -681,7 +673,6 @@
 * [Constitute Project](https://www.constituteproject.org/) - World Constitutions Database
 * [ArmyPubs](https://armypubs.army.mil/) or [US Military Manual Collection](https://archive.org/details/military-manuals) - Military Documents & Manuals
 * [NASA NTRS](https://ntrs.nasa.gov/search.jsp) - NASA Documents
-* [Ariadne](http://ariadne2.isti.cnr.it/) - Archaeological Datasets 
 * [Aesthetics Archive](https://contempaesthetics.org/) - Aesthetics Articles / Notes Contemporary
 * [CourtListerner](https://www.courtlistener.com/recap/) - Pacer Documents
 * [Aleph](https://github.com/alephdata/aleph ) - Document Index Tool
@@ -908,7 +899,6 @@
 * [Manhwafull](https://manhwafull.com/)
 * [247Manga](https://247manga.com/) 
 * [DeathTollScans](https://www.deathtollscans.net/)
-* [Manga Rock](https://mangarock.to/)
 * [MotoKare](https://motokare.xyz/reader/)
 * [Tritinia](https://tritinia.com/)
 * [Toomics](https://toomics.com/)
@@ -966,7 +956,6 @@
 * [CBZ-Manga-Creator](https://github.com/PonyLucky/CBZ-Manga-Creator) - Image to CBZ Converter
 * [MangaCord](https://top.gg/bot/751148743901970622?tab=overview) - Read Manga on Discord [Disocrd](https://discord.gg/UtTJcWzCRe)
 * [Anity](https://redd.it/g372gu), [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en), [manga-translator](https://github.com/cameronkinsella/manga-translator) or [Scanlate](https://scanlate.io/) - Manga Translator
-* [Onodera](https://github.com/onoderaproject/onodera) - Anime & Manga Database
 * [Manga-Tagger](https://github.com/inpacchi/manga-tagger) - Manga Metadata
 
 ***
@@ -988,9 +977,7 @@
 * [Web Novel](https://www.webnovel.com/)
 * [Shin Translations](https://shintranslations.com/)
 * [Henkan Epubs](https://henkanepubs.wordpress.com/)
-* [JPMTL](https://jpmtl.com/)
 * [Novel Ebooks](https://novel-ebook.com/)
-* [AsianNovel](https://www.asianovel.com/)
 * [LNWNCentral](https://lnwncentral.wordpress.com/)
 * [NovelGreat](https://novelgreat.net/)
 * [Octiopii](https://octopii.co/)
@@ -1172,7 +1159,6 @@
 * **irc.irchighway.net/ebooks** - eBook IRC / [Request Guide](https://i.imgur.com/GvyDh0B.png)
 * [AudiobookBay](http://audiobookbay.fi/forum/general-requests/) - Audiobooks
 * [/r/audiobookrequest](https://reddit.com/r/audiobookrequest) - Audiobooks
-* [Books.cat](https://books.cat/) - Books
 * [libgen](https://forum.mhut.org/viewtopic.php?f=17&t=6399) - Books / [Request Form](https://libgen.life/bookreq/)
 * [EBooksCart](https://ebookscart.com/request-books/) - Books
 * [pirates-forum](https://pirates-forum.org/Forum-Requests) - Books
@@ -1264,7 +1250,6 @@
 * [GROBID](https://github.com/kermitt2/grobid) - Extract / Organize Scientific Document Info
 * [Borrow Only DL Script](https://redd.it/ofcqds) or [Archive 1 Hour Download](https://docs.google.com/spreadsheets/u/0/d/1x9JHIVEa6_2cwpmxgUymF5OAoHZbXCO3Qh9gQVAHuR0/htmlview#gid=0) - Download Borrow Only Archive.org Books
 * [FicHub](https://fichub.net/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - Fanfiction Downloader 
-* [ExtractBookz](https://hub.darcs.net/JasonJAyalaP/ExtractBookz) - Extract & Rename Ebook Files / [GitHub](https://github.com/JasonJAyalaP/ExtractBookz)
 * [Sigil Ebook](https://sigil-ebook.com/) - EPUB Editor
 * [Audiobook Splitter](https://gist.github.com/izderadicka/0efc16bd150d70b7c504ab15f95c11ab) - Split Audiobooks in Smaller Files
 * [SmartStich](https://github.com/MechTechnology/SmartStitch) - Stitch Together Webtoons
