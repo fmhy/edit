@@ -19,7 +19,7 @@
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
 * [ad-free](https://abertschi.github.io/ad-free/landing/) - Adblocking App
 * [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [F-Droid](https://f-droid.org/packages/dnsfilter.android), [Rethink](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists), [BhanUpratpys](https://github.com/bhanupratapys/dnswarden), [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), [2](https://jak-linux.org/projects/dns66/) / [GitHub](https://github.com/julian-klode/dns66), [TrustDNS](https://surfshark.com/trust-dns) or [Pi-Droid](https://f-droid.org/en/packages/friimaind.piholedroid/)  - DNS Adblocker 
-* [Daedalus](https://play.google.com/store/apps/details?id=org.itxtech.daedalus), [Smokescreen](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen) or [Nebulo](https://git.frostnerd.com/PublicAndroidApps/smokescreen/-/blob/master/README.md) - DNS Modifier
+* [Daedalus](https://play.google.com/store/apps/details?id=org.itxtech.daedalus), [Smokescreen](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen)- DNS Modifier
 * [Twidere](https://github.com/TwidereProject/Twidere-Android) or [Twidere-X](https://github.com/TwidereProject/TwidereX-Android) - Ad-Free Twitter App
 * [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - Adblock Filters 
 * [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - Block Spam Calls
@@ -375,7 +375,7 @@
 * [Microsoft Edge Read Aloud](https://redd.it/l1fdh9) - How to use Microsoft Read Aloud TTS on Android 
 * [Copyhat](https://copyhat.com/) - AI Writing Tool
 * [Koler](https://github.com/Chooloo/koler) - Dialer App
-* [KONTXT](https://kontxt.com/kontxt-for-voice/). [2](https://play.google.com/store/apps/details?id=com.realnetworks.kontxt.voice&hl=en&gl=US) - Preview Calls
+* [KONTXT](https://play.google.com/store/apps/details?id=com.realnetworks.kontxt.voice&hl=en&gl=US) - Preview Calls
 * [SimpleMail](https://framagit.org/dystopia-project/simple-email) or [FairCode](https://email.faircode.eu/) - Email App 
 * [BlitzMail](https://github.com/grote/BlitzMail) - One Click Email App
 * [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957) - Disposable Email Client
@@ -474,7 +474,6 @@
 * [APK Vision](https://apkvision.com/) - Untouched
 * [APKTurbo](https://www.apkturbo.com/) - Untouched
 * [APK Award](https://apkaward.com/) - Untouched
-* [APK Sonic](https://apksonic.com/) - Untouched
 * [APKDL](https://apkdl.in/) - Untouched
 * [APKMonk](https://www.apkmonk.com/) - Untouched
 * [APK Fab](https://apkfab.com/) - Untouched
@@ -600,7 +599,6 @@
 * [Maemo5](http://maemo.org/downloads/list/Maemo5/all/) - Maemo OS Apps
 * [OpenRepos](https://openrepos.net/) - Harmattan / Sailfish OS Apps
 * [N9Downloads](http://n9downloads.blogspot.com/search/label/Applications) - Harmattan OS Apps
-* [App filter](https://appfilter.net/) - Play Store Advanced Search
 * [Show Apps Like](https://showappslike.com/) - Similar App Search
 * [AppAnnie](https://www.appannie.com/en/apps/google-play/top/) - Top App Downloads
 * [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - App Giveaway Sites
@@ -630,7 +628,6 @@
 * [Android-A](http://android-a.com/) - [Screenshot](https://i.imgur.com/khlurm7.png)
 * [CatTorrent](https://apkcombo.com/cattorrent/com.napolovd.piratecat/) - [Screenshot](https://i.imgur.com/JtdXk9t.png)
 * [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - [Screenshot](https://i.imgur.com/OrK3mLu.png)
-* [WeTorrent](https://play.google.com/store/apps/details?id=co.we.torrent&amp;hl=en_US) - [Screenshot](https://i.imgur.com/vrCk8Na.png)
 * [BiglyBT](https://android.biglybt.com/) - [Screenshot](https://i.imgur.com/WP7xwYK.png) 
 * [Trireme](https://github.com/teal77/trireme) - Deluge Client
 * [Transdroid](http://www.transdroid.org/) - Manage BitTorrent Clients / [F-Droid](https://f-droid.org/packages/org.transdroid.full/)
@@ -706,7 +703,6 @@
 * [BlackPlayer](https://rexdl.com/android/blackplayer-ex-apk.html/) - Streaming
 * [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming
 * [AudioTube](https://play.google.com/store/apps/details?id=tech.apps.music), [2](https://invent.kde.org/plasma-mobile/audiotube) - YouTube Audio Player / [GitHub](https://jbbgameich.github.io/kde/2021/03/13/audiotube.html)
-* [Rezonance](https://www.rezonanceindia.tech/) - Streaming / [GitHub](https://github.com/rezonance-india)
 * [Cliggo](https://play.google.com/store/apps/details?id=com.cliggo.cliggo_music) - Streaming / Downloading
 * [Otter](https://github.com/apognu/otter) or [humit](https://www.humit.app/) - Music Sharing App
 * [HZP](https://hzplayer.com/) - Solfeggio Frequency Player
@@ -800,7 +796,6 @@
 * [Cyberflix TV](https://cyberflix.me/) - Movies / TV
 * [MrFTV](https://mrftv.com/) - Movies / TV
 * [LokLok](https://loklok.com/download) - Movies / TV
-* [ScrubTV](https://reboot.tube/ScrubTV.apk) - Movies / TV / [Forum](https://scru.bz/index.php)
 * [WatchCartoonsOnline App](https://watchcartoononline.bz/watchcartoononline-app-for-android-devices/) - Cartoons / Anime
 * [STBEmu](https://docs.stbemu.com/download/) - Emulate a STB and Watch IPTV
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - YTS Torrents 
@@ -964,7 +959,7 @@
 * [PhantomVPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_phantomvpn), [Vpnify](https://vpnifyapp.com/) or [Ultrasurf](https://apps.apple.com/us/app/ultrasurf-vpn/id1563051300) - Free VPN
 * [Potatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606) - Proxy App
 * [Anti-Social](https://apps.apple.com/us/app/faceblock-block-facebook/id1516200820) - Block Social Media Trackers 
-* [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669), [surespot](https://www.surespot.me/), [Status](https://status.im/), [Session](https://getsession.org/), [Confide](https://apps.apple.com/ca/app/confide-secret-messenger/id779883419), [Olvid](https://olvid.io/en/) or [chatsecure](https://chatsecure.org/) - Encrypted Messaging 
+* [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669), [Status](https://status.im/), [Session](https://getsession.org/), [Confide](https://apps.apple.com/ca/app/confide-secret-messenger/id779883419), [Olvid](https://olvid.io/en/) or [chatsecure](https://chatsecure.org/) - Encrypted Messaging 
 * [Syphon](https://syphon.org/) - Privacy Based Matrix Client / [GitHub](https://github.com/syphon-org/syphon)
 * [Wickr](https://apps.apple.com/us/app/wickr-pro/id1200926568), [Jami](https://jami.net/), [MySudo](https://mysudo.com/) or [Element](https://apps.apple.com/app/vector/id1083446067) - Encrypted Messaging / Video Calls
 * [Bluer](https://apps.apple.com/us/app/bluer-for-facebook-messenger/id1490523710) - Privacy-Based Facebook Client
@@ -1086,7 +1081,6 @@
 * [FutureStore](https://github.com/tihmstar/futurerestore) - SEC & Baseband Restoring Wrapper
 * [Mildred](https://apps.apple.com/us/app/mildred/id1522800022) - Docker Client
 * [Dragon](https://github.com/DragonBuild/dragon) - Darwin Buildsystem / Toolkit
-* [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions of iOS
 
 ***
 
