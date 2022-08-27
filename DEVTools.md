@@ -155,7 +155,6 @@
 * [LandChad](https://landchad.net/) or [learn.sadgrl.online](https://learn.sadgrl.online/) - Site Development Guides
 * [Full Stack Solana Development Guide](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - [Examples](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)
 * [The New Boston](https://thenewboston.com/) - Site Development Courses / [Discord](https://discord.com/invite/thenewboston)
-* [Web Dev Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_web_dev_courses) - Web Development Courses
 * [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) or [Interneting is Hard](https://www.internetingishard.com/) - Learn Web Development
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Web Dev Roadmap
 * [Agernic](https://www.agernic.com/) - Web Design Courses
@@ -567,7 +566,6 @@ Automated Incident Response and Forensics Framework
 * [faustjs](https://github.com/wpengine/faustjs) - Wordpress Framework
 * [Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes) - Themes for Wordpress
 * [Timber](https://upstatement.com/timber/) - WordPress Theme Creator / [GitHub](https://github.com/timber/timber)
-* [Wordpress Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wordpress_plugins) or [CodeCanyon](https://codecanyon.download/) - Wordpress Plugins & Scripts
 * [Elementor Kit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_elementor_kit) - 1400+ Elementor Premium Templates
 * [KokoAnalytics](https://www.kokoanalytics.com/) - Wordpress Analytics
 * [vichan](https://github.com/vichan-devel/vichan) - Imageboard Hosting
