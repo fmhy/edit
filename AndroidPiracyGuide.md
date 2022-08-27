@@ -492,7 +492,6 @@
 * [APKTops](https://www.apktops.ir/) - Modded
 * [Apk4Free](https://apk4free.org/) - Modded / [Telegram](https://t.me/Apk4Free)
 * [Android1](https://an1.com/) - Modded 
-* [APKBuffet](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_apkbuffet) - Modded / [Requests](https://twitter.com/ipagarage?s=21) 
 * [HappyMod](https://www.happymod.com/) - Modded
 * [DZAPK](https://dzapk.com/) - Modded 
 * [Apk4All](https://apk4all.com/) - Modded
