@@ -973,29 +973,26 @@
 
 ## ▷ Light Novel Sites
 
+* **[Novel Updates](https://www.novelupdates.com/)** 
 * **[Just Light Novels](https://www.justlightnovels.com/)**
 * **[ThatNovelCorner](https://thatnovelcorner.com/)**
-* [Light Novel World](https://www.lightnovelworld.com/)
+* [Light Novel World](https://www.lightnovelworld.com/), [2](https://www.lightnovelpub.com/), [3](https://www.novelpub.com)
 * [Ranobes](https://ranobes.net/)
 * [Baka-Tsuki](https://www.baka-tsuki.org)
 * [Armaell's Library](https://armaell-library.net/)
-* [Novel Online Free](https://novelonlinefree.com/homepage)
+* [Novel Online Free](https://novelonlinefree.com/homepage), [2](https://novelonlinefull.com/), [3](https://bestlightnovel.com/)
 * [jNovels](https://jnovels.com/)
 * [MP4DIRECTS](https://mp4directs.com/)
 * [English Light Novels](https://englishlightnovels.com)
 * [Tensai Translations](https://tensaitranslations.wordpress.com/)
 * [Web Novel](https://www.webnovel.com/)
 * [Shin Translations](https://shintranslations.com/)
-* [Novel Updates](https://www.novelupdates.com/)
 * [Henkan Epubs](https://henkanepubs.wordpress.com/)
-* [Light Novel Pub](https://www.lightnovelpub.com/)
 * [JPMTL](https://jpmtl.com/)
 * [Novel Ebooks](https://novel-ebook.com/)
 * [AsianNovel](https://www.asianovel.com/)
 * [LNWNCentral](https://lnwncentral.wordpress.com/)
 * [NovelGreat](https://novelgreat.net/)
-* [NovelOnlineFull](https://novelonlinefull.com/)
-* [BestLightNovel](https://bestlightnovel.com/)
 * [Octiopii](https://octopii.co/)
 * [LightNovelPDF](https://lightnovelpdf.com/)
 * [AsianHobbyist](https://www.asianhobbyist.com/)
@@ -1020,8 +1017,7 @@
 * [WuxiaWorldSite](https://wuxiaworldsite.co)
 * [Novel Translations](https://lightnovelstranslations.com/)
 * [WebNovelOnline](https://webnovelonline.com/)
-* [Novelsala](https://novelsala.com/ )
-* [NovelPub](https://www.novelpub.com)
+* [Novelsala](https://novelsala.com/)
 * [Readwn](https://www.readwn.com/)
 * [Nakimushitl](https://nakimushitl.wordpress.com/)
 * [LightNovelHeaven](https://lightnovelheaven.com)
