@@ -56,12 +56,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 
 ***
 
-#### 103.135.208.2
-
-`aHR0cDovLzEwMy4xMzUuMjA4LjIvRGF0YS9tb3ZpZXMv`
-
-***
-
 #### 162.12.215.254
 
 `aHR0cDovLzE2Mi4xMi4yMTUuMjU0L0RhdGEvTW92aWVzLw==`
@@ -83,12 +77,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 #### wenubgang
 
 `aHR0cHM6Ly9ncm91cHMuZ29vZ2xlLmNvbS9nL3dlbnViZ2FuZw==`
-
-***
-
-#### ir2.papionvod.ir
-
-`aHR0cHM6Ly9pcjIucGFwaW9udm9kLmlyL01lZGlhLw==`
 
 ***
 
@@ -203,19 +191,6 @@ Use a **[Base64 Decoder](https://www.base64decode.org/)**, **[Extension](https:/
 #### geedryve
 
 `aHR0cHM6Ly9qYWNvYnNtLmNvbS9nZWVkcnl2ZS9yZWNvcmRzL21wM3Mv`
-
-***
-
-#### 90.146.184.46
-
-`aHR0cDovLzkwLjE0Ni4xODQuNDYv`
-
-***
-
-#### 212.159.121.149:85
-
-`aHR0cHM6Ly8yMTIuMTU5LjEyMS4xNDk6ODUv`
-
 
 ***
 
