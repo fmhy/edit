@@ -64,7 +64,6 @@
 * [TeknoParrot](https://teknoparrot.com/) - Modern Arcade Client / [Games](http://teknoparrot.link.free.fr/), [2](https://www.retroROMs.info/forum/topic/Teknoparrot-games.htm)
 * [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Games
 * [awesome-ttygames](https://ligurio.github.io/awesome-ttygames/) - ASCII Terminal Games
-* [Win98 / XP Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_win98_.2F_xp_games) - Windows 98 / XP Games
 * [RPG Maker Games](https://rpgmaker.net/games/?name_filter=&amp;engine=&amp;status=&amp;rating=&amp;commercial=exclude&amp;sort=&amp;portal=None) - Games made via RPG Maker
 * [VGPErson](https://vgperson.com/games/) - Japanese Translated Freeware Games
 * [VRPirates](https://t.me/vrpirates) or [SidequestVR](https://sidequestvr.com/) - VR Games & Guides / [Discord](https://discord.gg/D9rs7TM)
