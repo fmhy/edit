@@ -1765,7 +1765,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Privacy Guides
 
-[Surveillance Self-Defense](https://ssd.eff.org/), [Defensive Computing Checklist](https://defensivecomputingchecklist.com/), [Security In A Box](https://securityinabox.org/en/), [AvoidTheHack](https://avoidthehack.com/), [Eldritch Data](https://eldritchdata.neocities.org/), [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html), [The Hitchhiker’s Guide](https://anonymousplanet-ng.org/guide.html) 
+[Surveillance Self-Defense](https://ssd.eff.org/), [Defensive Computing Checklist](https://defensivecomputingchecklist.com/), [Security In A Box](https://securityinabox.org/en/), [AvoidTheHack](https://avoidthehack.com/), [Eldritch Data](https://eldritchdata.neocities.org/), [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html), [The Hitchhiker’s Guide](https://anonymousplanet-ng.org/guide.html) / [2](https://raw.githubusercontent.com/Anon-Planet/thgtoa/master/guide.md)
 
 ***
 
@@ -2574,7 +2574,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Text Rephrashing
 
-[QuillBot AI](https://quillbot.com/) / [Premium Unlock](https://github.com/blueagler/QuillBot-Premium-Crack), [Rewrite Tool](https://www.rewritetool.net/), [Paraphraz](https://paraphraz.it/), [Rewriter](https://rewriter.tools/), [Spinbot](https://spinbot.com/), [Paraphrasing Tool](https://paraphrasetool.com/), [ArticleReword](https://www.articlereword.com/rewriter/), [Rephrasely](https://rephrasely.com/), [Paraphraser](https://www.paraphraser.io/), [SmartArticleWriter](https://smartarticlerewriter.com/), [Paraphrase-Online](https://paraphrase-online.com/), [articlerewritertool](https://articlerewritertool.com/), [Trubo Spinner](http://script4.prothemes.biz/), [rephraser](https://www.rephraser.net/rewording-tool/), [summarizetool](https://www.summarizetool.com/), [caligonia](http://caligonia.com/a2/rewrite.php), [paraphrasing-tool](http://paraphrasing-tool.com/), [freearticlespinning](http://www.freearticlespinning.com/), [article-spinner](http://free-article-spinner.com/)
+[QuillBot AI](https://quillbot.com/) / [Premium Unlock](https://github.com/blueagler/QuillBot-Premium-Crack) / [2](https://github.com/razoo-choudhary/quillbot-premium), [Rewrite Tool](https://www.rewritetool.net/), [Paraphraz](https://paraphraz.it/), [Rewriter](https://rewriter.tools/), [Spinbot](https://spinbot.com/), [Paraphrasing Tool](https://paraphrasetool.com/), [ArticleReword](https://www.articlereword.com/rewriter/), [Rephrasely](https://rephrasely.com/), [Paraphraser](https://www.paraphraser.io/), [SmartArticleWriter](https://smartarticlerewriter.com/), [Paraphrase-Online](https://paraphrase-online.com/), [articlerewritertool](https://articlerewritertool.com/), [Trubo Spinner](http://script4.prothemes.biz/), [rephraser](https://www.rephraser.net/rewording-tool/), [summarizetool](https://www.summarizetool.com/), [caligonia](http://caligonia.com/a2/rewrite.php), [paraphrasing-tool](http://paraphrasing-tool.com/), [freearticlespinning](http://www.freearticlespinning.com/), [article-spinner](http://free-article-spinner.com/)
 
 ***
 
