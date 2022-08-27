@@ -709,12 +709,10 @@
 * [IMDb Top 250](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_imdb_top_250) - Movies
 * [xo.ljt](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_xo.ljt) - Movies / TV
 * [188.165.227.112](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_188.165.227.112) - Movies / TV 
-* [103.135.208.2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_103.135.208.2) - Movies / TV
 * [162.12.215.254](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_162.12.215.254) - Movies
 * [163.172.97.48](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_163.172.97.48) - Movies / TV
 * [Movies, Series... in English](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_movies.2C_series..._in_english) - Movies / TV
 * [wenubgang](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wenubgang) - TV / Anime
-* [ir2.papionvod.ir](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ir2.papionvod.ir) - TV
 * [مسلسلات اجنبية‬‎](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.645.633.644.633.644.627.62A_.627.62C.646.628.64A.629) - TV
 * [Remux Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_17tb_mega_drive) - HD Movies
 * [4K Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_4k_movie_collection) - HD Movies
