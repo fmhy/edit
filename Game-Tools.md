@@ -116,7 +116,7 @@
 * [Lowkey](https://lowkey.gg/) - Record / Screenshot Gameplay 
 * [Moments](https://steelseries.com/gg/moments) - Game Clip Tool
 * [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
-* [FalseKeystrokes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_falsekeystrokes) or [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)
+* [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)
 * [Pokemon Typechart](https://pokemondb.net/type) - Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)
 * [PokeList](https://pokemonlist.netlify.app/) - Pokedex / [App](https://github.com/skydoves/Pokedex)
 * [NYCPokeMap](https://nycpokemap.com/) - Real-time Pokémon Go map for NYC
@@ -180,7 +180,7 @@
 ## ▷ Multiplayer 
 
 * [find-PlayDate](https://www.find-playdate.com/) - Find People to Play Games With 
-* [Online Fix](https://online-fix.me/) / [Discord](https://discord.gg/yExgFYncMD), [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/), [FreeLan](https://www.freelan.org/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/), [XTag](https://www.teamxlink.co.uk/) or [softether](https://www.softether.org/) - Play Pirated Multiplayer Games
+* [Online Fix](https://online-fix.me/) / [Discord](https://discord.gg/yExgFYncMD), [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/), [FreeLan](https://www.freelan.org/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/), [XTag](https://www.teamxlink.co.uk/), [P2P Lan Server](https://github.com/kangol11/p2p-online-lan-play/wiki/p2p-lan-server---client-play-lan-games-online-with-anyone) or [softether](https://www.softether.org/) - Play Pirated Multiplayer Games
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
 * [Ping Enhancer](https://www.wowinterface.com/downloads/info16336-PingEnhancer.html), [ExitLag](https://github.com/Borisizdabezt/exitlag-hwid-spoofer) / [Guide](https://youtu.be/Ga0z5xwZyUA) or [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) - Decrease Ping
 * [Server.pro](https://server.pro/) or [Orcs](http://orcs.biz/) - Game Server Hosting
