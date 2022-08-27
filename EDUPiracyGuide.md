@@ -38,7 +38,6 @@
 * [SelfSchool](https://selfschool.me/) - Courses
 * [Cursa](https://cursa.app/) - Courses
 * [NPTEL](https://nptel.ac.in/course.html) - Courses
-* [InternetisAwesome](https://www.internetisawesome.xyz/) - Courses 
 * [Real.Discount](https://app.real.discount/) - Courses
 * [Kadenze](https://www.kadenze.com/) - Courses
 * [OnlineTutorials](https://www.onlinetutorials.org/) - Courses
@@ -166,7 +165,6 @@
 * [DL Course](https://dlcourse.org/) - Courses
 * [onlinecoursebay](https://onlinecoursebay.com/) - Courses
 * [freecourseslab](https://www.freecourseslab.com/category/course/) - Courses
-* [freecoursessites](https://www.freecoursessites.com/course/) - Courses
 * [tut4dl](https://tut4dl.com/) - Courses
 * [galaxytuts](https://galaxytuts.blogspot.com/) - Courses
 * [technet24](https://technet24.ir/category/videos) - Courses
@@ -193,7 +191,6 @@
 * [LyndaFree](https://t.me/lyndafree)  - Lynda Courses / pw: fmhy
 * [BestWSODownload](https://www.bestwsodownload.com/) - WSO Courses
 * [Udemy Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_udemy_course_drives)
-* [AirVibe](https://www.airvibe.me/) - Udemy Courses
 * [UdemyKing](https://t.me/udemyking1) - Udemy Courses
 * [CourseArray](https://coursearray.xyz/index.html) - Udemy Courses / [Telegram](https://t.me/udemycoursesfree)
 * [Tutorial Bar](https://www.tutorialbar.com/) - Udemy Courses
@@ -246,7 +243,6 @@
 * [TutorialsPlanet](https://tutorialsplanet.net/) - Courses
 * [TutsGalaxy](https://tutsgalaxy.net/) - Udemy Courses
 * [UdemyTuts](https://udemytuts.com/) - Udemy Courses 
-* [TutCourse](https://tutcourse.com/) - Udemy Courses
 * [Paid Courses for Free](https://paidcoursesforfree.com/) - Udemy Courses 
 * [Online Free Course](https://www.onlinefreecourse.net/) - Udemy Courses   
 * [Giga Course](https://gigacourse.com/) - Udemy Courses 
@@ -313,7 +309,7 @@
 * **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)** - List of Interactive Math Sites
 * **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - Sites with Multiple Calculators 
 * **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
-* **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) / [Paywall Bypass](https://greasyfork.org/en/scripts/437041-symbolab-pro-fixed) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_symbolab_pro) - Math Problem Solver with Steps
+* **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_symbolab_pro) - Math Problem Solver with Steps
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [TeX](https://www.microsoft.com/en-us/p/flowtex-preview-beta/9nt79075t86l) - Convert Handwritten Math to LaTeX
 * [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - Multi-Calculator App / Android
@@ -323,7 +319,7 @@
 * [SequenceDB](http://sequencedb.net/) - Sequence Machine
 * [Giac/Xcas](http://www-fourier.ujf-grenoble.fr/~parisse/giac.html) - Algebra System
 * [Weboasis Convert](https://weboasis.app/convert/) - Conversion Calculators
-* [PecentageTools](https://percentagetools.com/) or [CalcPercentage](https://calcpercentage.com/) - Percentage Calculators
+* [PecentageTools](https://percentagetools.com/) - Percentage Calculators
 * [FractionCalc](https://fractionscalc.com/) - Fraction Calculator
 * [Matrix Multiplication](http://matrixmultiplication.xyz/) - Matrix Multiplication Calculator
 * [Unit Conversion](https://conversao.net/eng/), [Quick Convert](https://www.microsoft.com/p/app/9wzdncrdm7gt), [UnitConverters](https://www.unitconverters.net/), [ConvertUnits](https://www.convertunits.com/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converter 
@@ -795,7 +791,7 @@ Simulator
 * [Life Under the Ice](https://lifeundertheice.org/) - View Antarctic Microbes
 * [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
 * [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) - Mountain Visualizations & Info
-* [Xeno-Canto](https://www.xeno-canto.org/) or [Birdnet](https://birdnet.cornell.edu/) - Bird Sound Identifier 
+* [Xeno-Canto](https://www.xeno-canto.org/) - Bird Sound Identifier 
 * [Candide](https://candide.com/GB/identify-plants) or [Pl@ntNet](https://identify.plantnet.org/) - Plant Identifier
 * [nanoHUB](https://nanohub.org/) - Nanotechnology Tool Index
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
