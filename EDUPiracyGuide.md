@@ -145,7 +145,6 @@
 * [CoursesDaddy](http://coursesdaddy.com/) - Courses 
 * [Course Drive](https://coursedrive.org/) - Courses 
 * [Courses Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_course_pastebins) - Courses
-* [Mega Tech Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mega_tech_courses) - Courses
 * [Super Huge Course Collection](https://babiato.co/threads/%F0%9F%94%A5%F0%9F%94%A5-super-huge-course-collection-700-courses-3tb-data-%F0%9F%94%A5%F0%9F%94%A5.40041/) - Courses
 * [online-courses](https://online-courses.club/) - Courses
 * [Coursesghar](https://coursesghar.com/) - Courses 
@@ -186,7 +185,7 @@
 * [RedBlueHit](https://t.me/RedBlueHit) - Courses / Telegram
 * [learningDL](https://learningdl.net/) - Courses / Leech required 
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - Courses / Tutorials 
-* [Course Code Drive](https://ddpanda.net/code/) - Courses / [Codes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_course_codes)
+* [Course Code Drive](https://ddpanda.net/code/) - Courses
 * [FreetutsDownload.com](https://freetutsdownload.com/) - Courses / GDrive Host 
 * [iTunes U](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_itunesu_lectures) - Lectures
 * [Gurukul Soft Technology](https://www.gurukulsofttechnology.in/) / [Telegram](https://t.me/gurukulsofttechnology) - Computer Science Courses
