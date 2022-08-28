@@ -398,7 +398,7 @@
 * [SittingOnClouds](https://www.sittingonclouds.net/) / [Discord](https://discord.com/invite/x23SFbE) - Anime / Game Soundtracks
 * [AniPlaylist](https://aniplaylist.com/), [OSAnime](https://osanime.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - Anime Soundtracks 
 * [OtakuOst](https://otakuost.net/) - Anime Soundtracks & Japanese Music 
-* [DramaOST](https://dramaost.com/) or [KDramaOST](https://kdramaost.com/en) - Asian Drama Soundtracks
+* [KDramaOST](https://kdramaost.com/en) - Asian Drama Soundtracks
 * [Doujin Cafe](https://discord.com/invite/doujincafe) or [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Music
 * [Keygen Music](http://www.keygenmusic.org/) - Keygen Music Archive
 * [BitMidi](https://bitmidi.com/), [Geocities Midi's](https://archive.org/details/archiveteam-geocities-midi-collection-2009), [ArtScene](http://artscene.textfiles.com/music/midi/) or [VGMusic](http://www.vgmusic.com/)- MIDI Files 
