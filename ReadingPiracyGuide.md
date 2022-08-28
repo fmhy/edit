@@ -991,6 +991,7 @@
 * [Novel Ringan](https://novelringan.com/)
 * [NovelLMAO](https://novelmao.com/)
 * [ReadNovelFull](https://readnovelfull.com)
+* [Panda Novel](https://www.panda-novel.com/)
 * [FreeWebNovel](https://freewebnovel.com/)
 * [NovelsOnline](https://novelsonline.net/)
 * [EnglishNovelsOnline](https://englishnovelonline.com/)
