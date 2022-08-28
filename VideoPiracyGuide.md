@@ -150,7 +150,6 @@
 * [Lovemovie](https://lovemovie.org/) - Movies / TV
 * [OpenCulture](https://www.openculture.com/freemoviesonline) - Movies
 * [CimaClub](https://www.cimaclub.cc/category/%D8%A3%D9%81%D9%84%D8%A7%D9%85-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [Shahed4u](https://shahed4u.onl:2053/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a-1/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [EntrePeliculasySeries](https://entrepeliculasyseries.nu/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [moviz-time](https://moviz-time.top/i/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [MovGoTV](https://movgotv.com/) - Movies / TV / Anime
@@ -304,7 +303,7 @@
 * [YugenAnime](https://yugen.to/) - Sub / Dub
 * [Animegg](https://www.animegg.org/) - Sub / Dub
 * [Kawaiifu](https://kawaiifu.com/) - Sub / Dub
-* [AnimeFox](https://animefox.cc/), [2](https://animefox.io/), [3](https://www.animedao.cc/) - Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)
+*  [AnimeFox](https://animefox.io/), [2](https://www.animedao.cc/) - Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)
 * [AnimeHeaven](https://animeheaven.ru/) - Sub / Dub 
 * [AnimeDao](https://animedao.to/) - Sub
 * [MasterAni](https://www.masterani.one/) - Sub / Dub
