@@ -425,7 +425,6 @@
 * [BuiltWith](https://builtwith.com/) - Find Out What Sites are Built With
 * [Elements Envato](https://qltien.com/elements/getcode/babiato.html) or [PsdRepo](https://psdrepo.com/) - Templates, Mockups, Logos, Video
 * [Screely](https://www.screely.com/) - Create Site Mockups from Screenshots
-* [Halcyon](https://halcyon.candyrain.org/LAYOUTS/mind/index.html) - Website Layouts
 * [Daft Page](https://daftpage.com/) - Landing Page Creator
 * [LandingPage](https://landingpage.fyi/index.html) - Landing Page Tool Index
 * [Uisual](https://uisual.com/), [SaaS Pages](https://saaspages.xyz/), [SaaS Landing Page](https://saaslandingpage.com/) or [lapa](https://www.lapa.ninja/) - Landing Page Templates / Ideas
@@ -562,7 +561,7 @@ Automated Incident Response and Forensics Framework
 * [Visual CSS Editor](https://chrome.google.com/webstore/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - WordPress Site Designer
 * [Mantiq](https://wpmantiq.com/) - Wordpress Visual Backend
 * [WPSQLite](https://github.com/hasinhayder/wpsqlite) - Wordpress Site Deployment Tool
-* [Nulled Scripts](https://www.nullscripts.net/), [NullJungle](https://nulljungle.com/), [Null PHP Script](https://nullphpscript.com/) or [WPFIC](https://www.wpfic.com/) - Nulled Scripts
+* [Nulled Scripts](https://www.nullscripts.net/), [NullJungle](https://nulljungle.com/) or [Null PHP Script](https://nullphpscript.com/) - Nulled Scripts
 * [faustjs](https://github.com/wpengine/faustjs) - Wordpress Framework
 * [Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes) - Themes for Wordpress
 * [Timber](https://upstatement.com/timber/) - WordPress Theme Creator / [GitHub](https://github.com/timber/timber)
