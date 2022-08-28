@@ -333,7 +333,6 @@
 * [mega-p2p](https://www.mega-p2p.net/) - Warez Lists  
 * [Seekr](https://w1w.files-seekr.com/) - Download Search Files
 * [Pixel Downloader](https://github.com/valentintintin/pixel-downloader) - French / Download Search Tool
-* [Zone Telechargement](https://www.zone-telechargement.work/) - Video / Audio / Software / Games / Books / Magazines / Newpapers / Android
 * [WawaCity](https://www.wawacity.video/), [2](https://www.wawacity.vip/) - Video / Audio / Books / Magazines / Software / Android / Use AdBlocker
 * [Tirexo](https://www.tirexo.com/), [2](https://www2.tirexo.lol/), [3](https://www2.tirexo.work/) - Video / Audio / Books / Roms / Software / Android
 * [Free-Telecharger](https://ww2.free-telecharger.org/) - Movies / TV
@@ -660,7 +659,6 @@
 * [Fl1x](https://fl1x.com/) - Movies / TV 
 * [Dramamu](https://45.141.56.103/), [2](https://185.224.83.128/) - Movies / TV
 * [Neonime](https://neonime.site/) - Anime
-* [AnimeIndo](https://animeindo.link/) - Anime
 
 ## ▷ Reading
 
@@ -1107,7 +1105,6 @@
 * [AbuTreTorrents](https://abutretorrents.com/) - Movies / TV
 * [LacraiTorrent](https://lacraiatorrent.com/ ) - Movies / TV
 * [TorrentBluray](https://torrentsbluray.com/) - Movies / TV
-* [TorrentsMegaFilmesHD](https://torrentsmegafilmeshd.org/) - Movies / TV
 * [Filmes-Torrents](https://filmes-torrents.com/) - Movies / TV
 * [TorrentFilmes4K](https://torrentfilmes4k.org/) - Movies
 * [FilmesMega](https://filmesmega.net/) - Movies
@@ -1380,7 +1377,6 @@
 * [SeedOff](https://seedoff.zannn.top/) - Video / Audio / Software / Games / Books 
 * [rustorka](http://rustorka.com/forum/index.php) - Games / Roms / Audio / Books / Magazines / Software / Android / Video 
 * [NNM-Club](https://nnmclub.to/) - Video / Audio / Software / Games 
-* [ZLOTracker](http://zlotracker.org/) - Video / Audio / Software / Games / Books 
 * [Spaider](http://spaider.net/) - Video / Audio / Software / Games / Roms
 * [DDGroupClub](http://ddgroupclub.win/) - Video / Audio / Software / Games / Roms / Books
 * [GTorrent](http://gtorrent.pro/) - Video / Audio / Software / Games
@@ -1626,7 +1622,6 @@
 * [Ebookelo](https://www.ebookelo.com/) - Books
 * [bajaebooksgratis](https://bajaebooksgratis.com/) - Books 
 * [pirateca](https://pirateca.com/) - Books 
-* [lelibros](https://lelibros.online/) - Books 
 * [Lectulandia](https://www.lectulandia.rocks/) - Books
 * [ePub Gratis](https://wvw.epubgratis.org/) - Books 
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
