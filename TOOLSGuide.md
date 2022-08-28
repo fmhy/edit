@@ -1529,7 +1529,7 @@ Twitch Stream Tracker
 * [Awesome Twitter Bots](https://github.com/amandeepmittal/awesome-twitter-bots) - Twitter Bot Index
 * [TumblThree](https://github.com/TumblThreeApp/TumblThree) - Twitter / Tumbl Backup Tool
 * [Minimal Twitter](https://www.wang.sh/minimal-twitter) - Minimal Twitter Themes
-* [Tweak New Twitter](https://github.com/insin/tweak-new-twitter) or [twttr](https://twttr.sreecha.me/) / [GitHub](https://github.com/sreechar/twttr) - Twitter Enhancement Extension
+* [Tweak New Twitter](https://github.com/insin/tweak-new-twitter) or [twttr](https://github.com/sreechar/twttr) - Twitter Enhancement Extension
 * [Twitonomy](https://www.twitonomy.com/) or [Affinitweet](https://affinitweet.com/) - Twitter Dashboard / Analytics 
 * [TweetDeck](https://tweetdeck.twitter.com/) / [Enhance](https://better.tw/) or [Tweeten](https://tweetenapp.com/) - Twitter Dashboard
 * [TweetDuck](https://github.com/chylex/TweetDuck) - Twitter Desktop Client
@@ -2230,7 +2230,7 @@ Twitch Stream Tracker
 * [infekt](https://infekt.ws/) / [GitHub](https://github.com/syndicodefront/infekt), [nfoview](https://otsaloma.io/nfoview/) / [GitHub](https://github.com/otsaloma/nfoview) or [NFOmation](https://nfomation.net/) - NFO File Viewer
 * [text2img](https://master.ayra.ch/text2img/) - NFO Files to Image Converter
 * [TrueNAS](https://www.truenas.com/) - Storage System 
-* [Linx Server](https://github.com/andreimarcu/linx-server), [FileCream](https://filecream.com/) or [FileStash](http://www.filestash.app/) - Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)
+* [Linx Server](https://github.com/andreimarcu/linx-server) or [FileStash](http://www.filestash.app/) - Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)
 * [Linux Reader](https://www.diskinternals.com/linux-reader/) - Access Linux Files on Windows
 
 ***
