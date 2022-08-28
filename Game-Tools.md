@@ -277,7 +277,7 @@
 * [CheapShark Deal Search](https://chrome.google.com/webstore/detail/cheapshark-deal-search/ahdfdhcljjiogoabcemgldinhgoemmjc) - Steam Market Sales Search
 * [Steam Inventory Helper](https://steaminventoryhelper.com/) - Steam Inventory Enhancement Extension
 * [ArchiFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - Farm Steam Trading Cards
-* [Steam Deck Mods](https://steamdeckmods.com/) - Steam Deck Mods / [Discord](https://discord.gg/T9FEJ5aUNv)
+* [Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/) - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck) / [Discord Bot](https://github.com/SteamDeckMods/sdm_discord_bot)
 * [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) - Steam Deck Plugin Loader
 * [HoloISO](https://github.com/theVakhovskeIsTaken/holoiso) - SteamOS 3 (Holo) Archiso Config
 
