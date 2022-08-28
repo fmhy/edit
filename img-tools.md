@@ -85,7 +85,7 @@
 * [SSizes](https://ssizes.com/) or [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
 * [RIOT](https://riot-optimizer.com/), [imageoptimizer](http://www.imageoptimizer.net/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tool
 * [SVGO](https://github.com/svg/svgo) - SVG Optimization Tool / [GUI](https://jakearchibald.github.io/svgomg/)
-* [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [CompressHere](https://compresshere.com/), [ImageDiamond](https://www.imagediamond.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Compressor](https://compressor.io/) or [Batch Compress](https://batchcompress.com/en) - Image Compressor 
+* [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [ImageDiamond](https://www.imagediamond.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Compressor](https://compressor.io/) or [Batch Compress](https://batchcompress.com/en) - Image Compressor 
 * [TinyPNG](https://tinypng.com/), [Compress PNG](https://compresspng.com/) or [PNGQuant](https://pngquant.org/) - PNG Compressor 
 * [JPEG.rocks](https://jpeg.rocks/) - JPEG Re-Encoder 
 
@@ -114,7 +114,7 @@
 * [Random Art](http://www.random-art.org/) - Random Art Generator
 * [Chaos Machine](https://chaosmach.com/) - Random Graphic Generator
 * [Rough.js](https://roughjs.com/) - Hand Drawn Graphic Generator
-* [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [ICO Convert](https://www.icoconvert.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - Icon Generators
+* [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - Icon Generators
 * [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/), [Free Logo Maker](https://freelogomaker.net/) or [ACME](https://acme.com/labelmaker/) - Logo Creator
 * [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
 * [ArtFlow](http://artflow.ai/), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [react-nice-avatar](https://github.com/chilllab/react-nice-avatar) or [Avataaars](https://getavataaars.com/) - Face / Avatar Creator
