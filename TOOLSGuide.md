@@ -289,7 +289,7 @@
 * [PlayPhrase](https://playphrase.me/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/), [2](https://getyarn.io/) - Clip Quote Search Engine
 * [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Video / Audio Recorder, Converter & Streaming
 * FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Builds](https://github.com/BtbN/FFmpeg-Builds) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730) / [Script](https://codeberg.org/Denshi/Scripts/src/branch/master/cvrt)
-* [VideoProc](https://www.videoproc.com/) - Video Processing Software
+* [VideoProc](https://www.videoproc.com/) or [Libav](https://www.libav.org/) - Video Processing Software
 * [DJV](https://darbyjohnston.github.io/DJV/) - Professional Video Review Player
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - SWF to Video Converter
 * [MotionFactory](https://www.motionfactory.io/) - Video Editing Workflow Manager
@@ -317,7 +317,9 @@
 * [Jupitrr](https://jupitrr.com/) - Create Videos from Voice Recordings
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - Create TV Channels using Plex Library
 * [Greety](https://greety.co/) - Send Video Christmas Cards
-* [Avidemux](http://fixounet.free.fr/avidemux/) - Cut / Filter / Encode 
+* [Avidemux](http://fixounet.free.fr/avidemux/) - Cut / Filter / Encode
+* [Dovi Tool](https://github.com/quietvoid/dovi_tool) - Dolby Vision Tool
+* [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
 * [vidcutter](https://github.com/ozmartian/vidcutter) - Cut Videos 
 * [ShortApp](https://shortsapp.com/) - Cut Video / Audio into Shorts
 * [Crop Video](https://crop-video.com/) - Crop Videos
@@ -337,7 +339,7 @@
 * [Reaktr](https://reaktr.vercel.app/) - Music Video Creator
 * [AMV101](https://www.amv101.com/) - Animated Music Video Making Guides
 * [Blaine's Movie Maker Blog](https://movies.blainesville.com/p/wmm-60-on-windows-7.html) - Windows Movie Maker Tutorials
-* [Unreal Engine](https://www.unrealengine.com/), [SketchUp](https://www.sketchup.com/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
+* [MoonRay](https://openmoonray.org/), [Unreal Engine](https://www.unrealengine.com/), [SketchUp](https://www.sketchup.com/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
 * [AnimeEffects](http://animeeffects.org/en/), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/) or [Synfig](https://www.synfig.org/) - 2D Animation Tool 
@@ -438,7 +440,7 @@
 * [/r/samplesforall](https://www.reddit.com/r/samplesforall/), [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [Baomay01](https://baomay01.info/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
 * [AirWindows](http://www.airwindows.com/) - Reverbs / Equalizers / Plugins
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - Learn How to Play Music
-* [Jukebox](https://jukebox.today/) or [jqbx](http://jqbx.fm/) - Music Sync / Listening Parties
+* [Jukebox](https://jukebox.today/), [Mu Sync](https://www.mu-sync.com/) or [jqbx](http://jqbx.fm/) - Music Sync / Listening Parties
 * [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyrics Finder for Spotify, Tidal & VLC
 * [Whyp](https://whyp.it/) - Audio Host
 * [Aux](https://aux.app/) - Audio Project Host
@@ -1327,7 +1329,7 @@
 
 * **[Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools)** - File Tools for Telegram
 * [borodutch.eth](https://borodutch.com/) - Telegram Tools
-* [Telegram Channels](https://telegramchannels.me/), [TG-ME](https://www.tg-me.com/) or [Telegramic](https://telegramic.org/) - Telegram Channel Indexes
+* [Telegram Channels](https://telegramchannels.me/), [TG-ME](https://www.tg-me.com/), [ComBot Groups](https://combot.org/telegram/top/groups) or [Telegramic](https://telegramic.org/) - Telegram Channel Indexes
 * [Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_bots) - Telegram Bot Indexes
 * [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [gramxly](https://gramxly.com/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - Telegram Channel / Bot Search
 * [ShellBot](https://github.com/MannyHackers/ShellBot), [EvaMaria](https://github.com/EvamariaTG/EvaMaria) - Multi-Purpose Telegram Bot
@@ -1362,7 +1364,7 @@
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Link Shortener Bot 
 * [TLG.NAME](https://www.tlg.name/) - Telegram Link Creator
 * [URL2IMGBot](https://t.me/URL2IMGBot) - Take URL Screenshots / Telegram 
-* [Stickers Cloud](https://stickers.cloud/en) or [moe_sticker_bot](https://t.me/moe_sticker_bot) - Sticker Packs
+* [Stickers Cloud](https://stickers.cloud/en), [Combot Stickers](https://combot.org/telegram/stickers) or [moe_sticker_bot](https://t.me/moe_sticker_bot) - Sticker Packs
 * [ProxyBot](https://t.me/vamproxy_bot), [proxytelebot](https://t.me/proxytelebot), [yadda_proxybot](https://t.me/yadda_proxybot), [tproxies_bot](https://t.me/tproxies_bot), [proxy_socks5_bot](https://t.me/proxy_socks5_bot), [socksy_bot](https://t.me/socksy_bot), [ShadowSocks_bot](https://t.me/ShadowSocks_bot) or [logicpleaseproxybot](https://t.me/logicpleaseproxybot) - Telegram Proxy Bots
 * [TgVPNbot](https://t.me/TgVPNbot), [tgfreebot](https://t.me/tgfreebot) or [FCK_RKN_bot](https://t.me/FCK_RKN_bot) - Telegram VPN Bots
 
@@ -1654,6 +1656,7 @@ Twitch Stream Tracker
 * **[Optimize-Guide](https://rentry.co/mdl-optimize-guide)** - Optimize Windows / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat)
 * **[Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png)**, [2](https://i.imgur.com/A36Yd7F.png) / [Course](https://keycombiner.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/) or [CheatKeys](https://cheatkeys.com/CheatSheet) - Keyboard Shortcuts
 * [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/federico-terzi/espanso)
+* [TouchCursor](https://sourceforge.net/projects/touchcursor/) - Use Home Keys as Cursor
 * [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI Commands Cheatsheet
 * [Windows 10 Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)
 * [Operating System Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_os_emulators) - Emulate Alternate OS
@@ -1788,14 +1791,14 @@ Twitch Stream Tracker
 * [Recoll](https://www.lesbonscomptes.com/recoll/) or [AnyTXT](https://anytxt.net/) - Improved Windows Search / [Site Indexer](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/)
 * [Run](https://docs.microsoft.com/en-us/windows/powertoys/run) - Windows Spotlight Search
 * [DLL-Hijack-Search-Order-BOF](https://github.com/EspressoCake/DLL-Hijack-Search-Order-BOF) - DLL File Search
-* [Killer](https://github.com/ntaraujo/killer) or [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Improved Task Manager / [Discord](https://discord.gg/MKG6qgJ964)
-* [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Improved System Menu
+* [Killer](https://github.com/ntaraujo/killer) or [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Task Managers / [Discord](https://discord.gg/MKG6qgJ964)
+* [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - System Menus
 * [Nsudo](https://nsudo.m2team.org/en-us/) - System Admin Tools / [GitHub](https://github.com/M2Team/NSudo)
 * [MIUIShade](https://www.deviantart.com/jaxoriginals/art/MIUI-Shade-v2-0-885183361) - Windows MIUI Dropdown Menu
 * [All Tasks Toolbar](https://winaero.com/create-all-tasks-god-mode-toolbar-windows-10/) - Create All Tasks God Mode Toolbar in Win 10 
-* [WindowsManager](https://www.eusing.com/WindowManager/WindowManager.htm), [AwesomeWM](https://awesomewm.org/) or [Compiz Fusion](http://www.compiz-fusion.org/) - Improved Windows Manager
-* [AltDrag](https://stefansundin.github.io/altdrag/) - Improved Windows Dragging
-* [EverythingToolbar](https://github.com/stnkl/EverythingToolbar), [Hyper](https://github.com/hyperts/Hyper), [Awesome](https://github.com/nodgear/Awesome)  or [Smart Taskbar](https://github.com/ChanpleCai/SmartTaskbar) - Improved Taskbar
+* [WindowsManager](https://www.eusing.com/WindowManager/WindowManager.htm), [AwesomeWM](https://awesomewm.org/), [LCARS](https://github.com/lcarsde/lcarswm) or [Compiz Fusion](http://www.compiz-fusion.org/) - Windows Managers
+* [AltDrag](https://stefansundin.github.io/altdrag/) - Windows Dragging
+* [EverythingToolbar](https://github.com/stnkl/EverythingToolbar), [Hyper](https://github.com/hyperts/Hyper), [Awesome](https://github.com/nodgear/Awesome) or [Smart Taskbar](https://github.com/ChanpleCai/SmartTaskbar) - Taskbars
 * [Taskbar Groups](https://github.com/tjackenpacken/taskbar-groups) - Create Groups in Taskbar
 * [uTaskManager](https://www.microsoft.com/en-us/p/utaskmanager/9nhvdhfbxrsv) - Alternative Taskbar
 * [OGHub](https://github.com/Wivon/OGHub) - Free Up Space in your Taskbar
@@ -1959,7 +1962,8 @@ Twitch Stream Tracker
 * [Awesome Windows 11](https://github.com/awesome-windows11/windows11) - Windows 11 Resource Index
 * [Windows 11 Fixer](https://github.com/99natmar99/Windows-11-Fixer) - Win 11 Improvement Tool
 * [Bypass Win11 Requirements](https://github.com/osx86-ijb/bypass-windows11-requirements) - How-To Bypass Windows 11 System Requirements
-* [Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 System Requirements Bypasser
+* [Windows 11 Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 System Requirements Bypasser
+* [Windows 11 Debloater](https://github.com/teeotsa/windows-11-debloat) - Windows 11 Debloater
 * [Win11DevBypass](https://github.com/rushiranpise/win11devbypass) - Bypass Win 11 Dev Channel Restrictions
 * [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - Windows 11 Powertoys
 * [ElevenClock](https://github.com/martinet101/ElevenClock) - Windows 11 Secondary Monitor Clock
@@ -2131,7 +2135,6 @@ Twitch Stream Tracker
 * [Unlimited Mega Storage](https://redd.it/ffrkf3) - Unlimited Mega Storage Guide
 * [GetMega](http://getmega.net/) - Direct Mega Links 
 * [Mega-index-heroku](https://github.com/developeranaz/Mega-index-heroku) - Serve Mega to HTTP via Heroku
-* [MEGA Uploader X](https://t.me/MegaUploadXbot) - Remote Mega File Upload Bot
 * [GDrive Guides](https://t.me/gdriveguides) - GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)
 * [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive), [Direct-Link-to-Google-Drive](https://github.com/TheCaduceus/Direct-Link-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - DDL to GDrive Tool
 * [GDriveCLI](https://github.com/prasmussen/gdrive) - GDrive CLI
@@ -2151,7 +2154,7 @@ Twitch Stream Tracker
 * [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive 
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
 * [goodls](https://github.com/tanaikech/goodls) - Google Drive Downloader
-* [GDirect](https://www.gdirect.link/), [gdurl](https://gdurl.com/) or [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - Direct GDrive Link Generator
+* [GDirect](https://www.gdirect.link/), [gdurl](https://gdurl.com/), [publiclinks](https://publiclinks.hashhackers.com/) or [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - Direct GDrive Link Generators
 * [Folder.GDrive](https://folder.gdrive.vip/) - GDrive Folder Link Generator
 * [GDToT](https://gdtot.eu/), [2](https://new1.gdtot.sbs/) - GDrive Manager
 * [Backup System](https://github.com/danielpy108/BackUpMySystem) - Backup Google Drive
