@@ -170,6 +170,7 @@
 * [Kinos](https://www.kinos.to/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Switch Language](https://i.imgur.com/1rWX9Of.png) (in options)
 * [SolarMovie](https://wwv.solarmovie.one/) - Movies / TV / Anime
 * [GoMovies](https://www.gomovies.cyou/) - Movies / TV
+* [WatchSeries](https://watchseries.cyou/) - Movies / TV
 * [123Movies](https://123movies.sc/) - Movies / TV
 * [123Chill](https://123chill.to/) - Movies / TV / Anime
 * [123MoviesJR](https://123moviesjr.cc/) - Movies / TV
@@ -485,7 +486,7 @@
 * [FreeStreams](http://fc.freestreams-live1.com/) - Sports
 * [StreamsGate](https://streamsgate.tv/) - Sports
 * [WatchKobe](http://watchkobe.info/) - Sports
-* [VIP Box Sports](https://www.viprow.me/) - Sports
+* [VIP Box Sports](https://www.viprow.nu/) - Sports
 * [SportsHub](https://www.sportshub.stream/) - Sports
 * [BuffStreams](https://buffstreams.tv/) - Sports
 * [SportHD](https://sporthd.live/) - Sports 
@@ -681,6 +682,7 @@
 * [Blu-Ray.world](https://blu-ray.world/) - HD Movies / TV
 * [4K HDR](https://4k-hdr.org/) - HD Movies / TV
 * [4k-hd.club](https://4k-hd.club/) - HD Movies
+* [FilmFans](https://filmfans.org/) - HD Movies
 * [IRC Movie Channels](https://pastebin.com/2AeYizZK)
 * [Gophie](https://github.com/Go-phie/gophie) - Streaming Site Download CLI
 * [BaoXinh](https://tool.baoxinh.com/) - FEmbed / Mixdrop Downloader
