@@ -428,7 +428,8 @@
 * [TextBookGo](http://textbookgo.com/) - TextBooks
 * [Saylor](https://www.saylor.org/books/) - Textbooks
 * [Wikibooks](https://en.wikibooks.org/) - Open-Content Texbooks
-* [PowerInBooks](https://powerinbooks.xyz/temp/) - Textbook Solutions 
+* [Pearson](https://redd.it/smm6ib) - Pearson Textbook Download Guide
+* [PowerInBooks](https://powerinbooks.xyz/temp/) - Textbook Solutions
 * [LearnCreative](https://learncreative.net/) - IIT, JEE, NEET & AIIMS Material
 * [JEENEETBooks](https://www.jeeneetbooks.in/) - IIT, JEE & NEET Material
 * [JEEBooksPDF](https://m.youtube.com/c/JEEBooksPDF) - JEE Material / [Telegram](https://telegram.me/jeebookspdf) / DL's in Descriptions
