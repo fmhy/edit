@@ -207,6 +207,7 @@
 * [CourseForFree](https://courseforfree.com/) - Udemy Courses  
 * [Download Online Tutorials Free](https://download.howtofree.org/) - Udemy Courses 
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
+* [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) - [Discord](https://discord.gg/tMzrSxQ)
 * [Cyber Security Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cyber_security_courses) or [Skills for All](https://skillsforall.com/) - Cyber Security Courses
 * [340GB Linkedin Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_340gb_linkedin_courses) or [Linkedin_Learning](https://t.me/linkedin_learning) - Linkedin Courses
 * [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
@@ -539,7 +540,7 @@ Simulator
 * [JapaneseWithAnime](https://www.japanesewithanime.com/) - Learn Japanese with Anime
 * [BilingualManga](https://bilingualmanga.net/) - Learn Japanese with Manga
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - Japanese Practice Material
-* [Jotoba](https://jotoba.de/), [core6000](https://core6000.neocities.org/), [Tagaini](https://www.tagaini.net/), [Jisho](https://jisho.org/), [JapBase](https://japbase.neocities.org/) or [rtk-search](https://hochanh.github.io/rtk/) - Japanese Dictionaries / Phrases
+* [Jotoba](https://jotoba.de/), [core6000](https://core6000.neocities.org/), [Tagaini](https://www.tagaini.net/), [Jisho](https://jisho.org/), [Massif](https://github.com/rsimmons/massif), [JapBase](https://japbase.neocities.org/) or [rtk-search](https://hochanh.github.io/rtk/) - Japanese Dictionaries / Phrases
 * [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - Japanese Accent Dictionary
 * [Japanese pitch accent resources](https://github.com/olety/japanese-pitch-accent-resources) - Japanese Accent Resources
 * [ichi.moe](https://ichi.moe/) - Japanese to English Phrase Translation
