@@ -127,6 +127,7 @@
 * [Librewolf Linux](https://librewolf-community.gitlab.io/)/ [2](https://aur.archlinux.org/packages/firedragon) / [3](https://forum.garudalinux.org/t/firedragon-librewolf-fork/5018) or [Dot Browser](https://github.com/dothq/browser) - Privacy-Based Browser
 * [Thorium](https://github.com/Alex313031/Thorium) - Chromium-Based Browser
 * [htop](https://htop.dev/) - Interactive Process Viewer / [GitHub](https://github.com/htop-dev/htop)
+* [ProDash](https://github.com/Byron/prodash) - Process Reporting
 * [pass](https://www.passwordstore.org/) - Unix Password Manager 
 * [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) or [GnomeKeyring](https://wiki.gnome.org/Projects/GnomeKeyring) - GNOME Password Manager 
 * [gopass](https://www.gopass.pw/) - CLI Password Manager
@@ -136,13 +137,13 @@
 * [rcm](https://github.com/thoughtbot/rcm) - Manage Dotfiles
 * [Curlew](https://curlew.sourceforge.io/) - Linux File Converter
 * [Dolphin](https://userbase.kde.org/Dolphin) or [ranger](https://github.com/ranger/ranger) - File Manager
-* [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [fm](https://github.com/knipferrc/fm), [Joshuto](https://github.com/kamiyaa/joshuto) or [NCDU](https://github.com/rofl0r/ncdu) - Terminal File Manager / Disk Usage Analyzer
+* [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [fm](https://github.com/knipferrc/fm), [Joshuto](https://github.com/kamiyaa/joshuto), [gdu](https://github.com/dundee/gdu) or [NCDU](https://github.com/rofl0r/ncdu) - Terminal File Manager / Disk Usage Analyzer
 * [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Tiling Windows Manager / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/jmmaranan/forge) - GNOME Tiling Extension
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
 * [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) or [GDown](https://github.com/wkentaro/gdown) - Google Drive Downloader
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - Mount GDrive on Linux
-* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
+* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - PDF Editor
 * [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://flathub.org/apps/details/com.github.dail8859.NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor
 * [Zathura](https://git.pwmt.org/pwmt) - Document Viewer
