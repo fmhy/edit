@@ -700,6 +700,7 @@
 * [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale-android) - Streaming
 * [Trebel](https://home.trebel.io/) - Streaming
 * [BlackHole](https://github.com/Sangwan5688/BlackHole) - Streaming
+* [VK X](https://vkx.app/) - Streaming
 * [BlackPlayer](https://rexdl.com/android/blackplayer-ex-apk.html/) - Streaming
 * [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming
 * [AudioTube](https://play.google.com/store/apps/details?id=tech.apps.music), [2](https://invent.kde.org/plasma-mobile/audiotube) - YouTube Audio Player / [GitHub](https://jbbgameich.github.io/kde/2021/03/13/audiotube.html)
@@ -858,7 +859,7 @@
 * [TVTap](http://tvtap.bz/index.php)
 * [HD STREAMZ](https://hdstreamz.app/)
 * [SonyLiv (Modded)](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sonyliv)
-* [OTTRun](https://www.ottrun.com/) - IPTV Player
+* [OTTRun](https://www.ottrun.com/) or [Xstream Player](https://play.google.com/store/apps/details?id=com.devcoder.iptvxtreamplayer) - IPTV Players
 
 ***
 
