@@ -14,7 +14,6 @@
 * **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/), [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) or [AmIUnique](https://amiunique.org/fp) - Adblocking Test
 * **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Block Spotify Ads
 * [Simple Opt Out](https://simpleoptout.com/) - Turn off Targeted Ads
-* [hBlock](https://github.com/hectorm/hblock), [someonewhocares](https://someonewhocares.org/hosts/), [winhelp2002](https://winhelp2002.mvps.org/hosts.htm) or [Hosts](https://github.com/StevenBlack/hosts) - Block Ads with Host Files 
 * [Invidious](https://invidious.io/) / [GitHub](https://github.com/iv-org/invidious) or [PSTube](https://github.com/prateekmedia/pstube) - Ad Free YouTube Client
 
 ***
@@ -44,7 +43,8 @@
 
 ## ▷ DNS Adblocking
 
-* **[DNS-Providers](https://kb.adguard.com/en/general/dns-providers)** - DNS Provider Index
+* **[DNS Providers](https://kb.adguard.com/en/general/dns-providers)** - DNS Provider Index
+* **[DNS Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dns_filters)** - DNS Host File Blocking
 * **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - DNS Adblocking / Self-Hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Family Filter](https://ammnt.app/) / [Filters](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole)
 * **[ahadns](https://ahadns.com/)** - DNS Adblocking
 * **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking
@@ -64,8 +64,6 @@
 * [Encrypted DNS Resolvers](https://www.privacytools.io/providers/dns/)
 * [DNS Resolver Privacy-First](http://doh.tiar.app/) or [1.1.1.1](https://1.1.1.1/) / [Unlimited Data](https://rentry.co/WarpKeyGen) / [Plus](https://github.com/ALIILAPRO/warp-plus-cloudflare) - DNS Resolver
 * [ControlD](https://controld.com/), [DNS Jumper](https://sordum.org/7952/dns-jumper-v2-1/) or [Hetzner](https://www.hetzner.com/dns-console?country=us) - DNS Manager
-* [DNS for Family](https://dnsforfamily.com/), [CleanBrowsing](https://cleanbrowsing.org/filters/), [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter/) or [NXFilter](https://nxfilter.org/) - DNS Filters
-* [Spamhaus](https://www.spamhaus.org/) or [1Hosts](https://o0.pages.dev/) / [GitHub](https://github.com/badmojr/1Hosts) - DNS Blocklists
 * [block.js](https://gist.github.com/rtfpessoa/7fdd3d4121ee4acafe56e8425154888a) - DNS YouTube Blocklists
 * [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist
 * [BIND](https://gitlab.isc.org/isc-projects/bind9) - Portable DNS Protocol
