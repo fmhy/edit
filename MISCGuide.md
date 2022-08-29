@@ -536,6 +536,7 @@
 * [Bibliotheca Anonoma](https://bibanon.org/) - Internet Folklife Wiki / [Discord](https://discord.com/invite/3jxxGDC)
 * [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion), [old.sage](https://old.sage.moe/), [BibAnon](http://vyrd.bibanon.org/), [4Museum](https://4museum.neocities.org/), [Archive.4plebs](https://archive.4plebs.org/), [arch.b4k](https://arch.b4k.co/) or [Sup/tg/](http://suptg.thisisnotatrueending.com/)  - 4Chan Archive
 * [LameBook](https://www.lamebook.com/) - Funny Facebook Status'
+* [ViralPostGenerator](https://viralpostgenerator.com/) - Generate Cringe LinkedIn Post
 * [Zoomquilt](https://www.zoomquilt.org/) / [2](http://zoomquilt2.com/) or [Arkadia](http://arkadia.xyz/) - Infinite Zooming Painting 
 * [Mirage Gallery](https://www.miragegallery.ai/) - AI Art Gallery
 * [ArtVote](https://artvote.net/) - Judge Art
@@ -544,6 +545,7 @@
 * [iFake](https://ifaketextmessage.com/) - Make Fake Text Conversation 
 * [SecretRickRoll](https://www.secretrickroll.com/) - Custom Rick Roll Generator 
 * [rroll.to](https://rroll.to/) - Rick Roll Link Shortener
+* [Rick Astley Remixer](http://dinahmoelabs.com/rickastley) - Remix Rick Roll
 * [Hi, Mom!](https://github.com/tsivinsky/hi-mom) - Automate Saying Hi to your Mom
 * [FOAAS](https://github.com/tomdionysus/foaas) - Automate Telling People to Fuck Off
 * [The Fed](https://thefed.app/) - Central Banking Game 
@@ -572,6 +574,7 @@
 * [Nestflix](https://nestflix.fun/) - Fictional Media in Media Database
 * [Vintage Ad Browser](http://www.vintageadbrowser.com/) - 100,000+ Vintage Advertisements 
 * [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - Japanese Commercial Archive
+* [CameronsWorld](https://www.cameronsworld.net/) - 90's Themed Website
 * [info.cern](http://info.cern.ch/) - First Website on the Internet
 * [Worlds Highest Website](https://worlds-highest-website.com/) - Worlds Longest Website
 * [Long Doge Challenge](https://longdogechallenge.com/) - Worlds Longest Doge
