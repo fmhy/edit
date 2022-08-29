@@ -11,10 +11,10 @@
 
 # ► Adblocking 
 
-* **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/), [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) or [AmIUnique](https://amiunique.org/fp) - Adblocking Test
+* **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/), [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) or [AmIUnique](https://amiunique.org/fp) - Adblocking Tests
 * **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Block Spotify Ads
+* [Invidious](https://invidious.io/) / [GitHub](https://github.com/iv-org/invidious) or [PSTube](https://github.com/prateekmedia/pstube) - Ad-Free YouTube Clients
 * [Simple Opt Out](https://simpleoptout.com/) - Turn off Targeted Ads
-* [Invidious](https://invidious.io/) / [GitHub](https://github.com/iv-org/invidious) or [PSTube](https://github.com/prateekmedia/pstube) - Ad Free YouTube Client
 
 ***
 
