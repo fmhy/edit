@@ -585,6 +585,7 @@
 * [Filmywap](https://www.filmywap.com/) - Movies / TV
 * [playdesi](https://playdesi.net/) - Movies / TV
 * [desicinemas](https://desicinemas.tv/) - Movies / TV
+* [moviemora](https://moviemora.com/) - Movies / TV
 * [hindimoviestv](https://www.hindimoviestv.com/) - Movies
 * [WatchOnlineMovies88](https://watchonlinemovies88.com.pk/) - Movies
 * [TVBolly](https://www.tvbollypro.com/) - Movies / TV
@@ -810,7 +811,7 @@
 * [shobonnexus](https://shobonnexus.com/) - Novels / Magazines  
 * [watanoc](http://watanoc.com/), [yourei](https://yourei.jp/), [n-lab](http://www.n-lab.org/library/mondai/) or [国語文法](http://xn--vcs415akpfnn7a.com/) - Learn / Practice Japanese 
 * [kakijun](https://kakijun.jp/) - Learn Japanese Writing
-* [Nihongo Monash](http://nihongo.monash.edu/onlinejdic.html), [jitenon](https://jitenon.jp/), [kotobank](https://kotobank.jp/) or [Weblio](https://www.weblio.jp/) - Dictionaries
+* [Nihongo Monash](http://nihongo.monash.edu/onlinejdic.html), [jitenon](https://jitenon.jp/), [kotobank](https://kotobank.jp/), [aozorasearch](https://github.com/myokoym/aozorasearch) or [Weblio](https://www.weblio.jp/) - Dictionaries
 * [Zokugo](http://zokugo-dict.com/) - Slang Dictionary
 * [accent.u-biq](https://accent.u-biq.org/) - Accent Dictionary
 
