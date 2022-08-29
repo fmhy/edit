@@ -417,7 +417,7 @@
 * **[Redacted](https://interviewfor.red/)** - MP3 / FLAC
 * **[Orpheus](https://orpheus.network/)** - MP3 / FLAC / [Interviews](https://interview.orpheus.network/)
 * **[Redtopia](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_redtopia)** - Redtopia Repository / FLAC
-* **[Solid Torrents](https://solidtorrents.net/)** - MP3 / FLAC
+* [SolidTorrents](https://solidtorrents.to/) - MP3 / FLAC / [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)
 * **[Lidarr](https://github.com/Lidarr/Lidarr)** or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
 * [Flactor](https://flactor.ru/) - FLAC
 * [Metal Tracker](https://en.metal-tracker.com/) - Metal / MP3
