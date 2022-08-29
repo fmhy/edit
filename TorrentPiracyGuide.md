@@ -54,6 +54,7 @@
 * [SpreadsheetUI](https://github.com/JohnDoee/spreadsheetui) - Speadsheet Torrent webUI 
 * [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jfurrow/flood)
 * [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client 
+* [SeedCross](https://github.com/ccf-2012/seedcross) - Cross-Seed Utility
 
 ***
 
@@ -166,7 +167,7 @@
 * [TorrentFunk](https://www.torrentfunk.com/), [2](https://www.torrentfunk2.com/) 
 * [concen](https://www.concen.org/torrents) 
 * [BTSearch](https://www.btsearch.ml/)
-* [Solid Torrents](https://solidtorrents.net/) - [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)
+* [SolidTorrents](https://solidtorrents.to/) - [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)
 * [TorrentSeeker](https://torrentseeker.com) 
 * [Torrentzeta](https://www.torrentzeta.com/) 
 * [Toorgle](http://www.toorgle.com/) 
