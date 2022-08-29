@@ -684,7 +684,7 @@
 * [4k-hd.club](https://4k-hd.club/) - HD Movies
 * [FilmFans](https://filmfans.org/) - HD Movies
 * [IRC Movie Channels](https://pastebin.com/2AeYizZK)
-* [Gophie](https://github.com/Go-phie/gophie) - Streaming Site Download CLI
+* [Gophie](https://github.com/Go-phie/gophie) or [Movies-and-Series-Scraper](https://github.com/yousefkotp/Movies-and-Series-Scraper) - Streaming Site Download CLI
 * [BaoXinh](https://tool.baoxinh.com/) - FEmbed / Mixdrop Downloader
 * [123MoviesRipper](https://github.com/Xonshiz/123MoviesRIpper) - 123Movies Downloader
 * [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Add Download Site Results to IMDb
