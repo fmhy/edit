@@ -157,9 +157,11 @@
 * [The New Boston](https://thenewboston.com/) - Site Development Courses / [Discord](https://discord.com/invite/thenewboston)
 * [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) or [Interneting is Hard](https://www.internetingishard.com/) - Learn Web Development
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Web Dev Roadmap
+* [FullStackOpen](https://fullstackopen.com/en/) - Web Dev Course
 * [Agernic](https://www.agernic.com/) - Web Design Courses
 * [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) - Interactive Web Design Tutorial
 * [backendlore](https://github.com/fpereiro/backendlore) - Backend Coding Guide
+* [PHP: The Right Way](https://phptherightway.com/) or [PHP Tutorial](https://www.phptutorial.net/) - PHP Guides
 * [UI & Web Design using Adobe Illustrator C](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ui_.26amp.3B_web_design_using_adobe_illustrator_c) - UI & Webdesign Course
 * [Learn UI Design](https://learnui.design/) - UI Design Course
 * [UXTools](https://uxtools.co/) or [UXMovement](https://uxmovement.com/) - Learn UX Design
@@ -752,6 +754,7 @@ Automated Incident Response and Forensics Framework
 * [samp-node-lib](https://github.com/peterszombati/samp-node-lib) - GTASA Multiplayer Scripting Library
 * [VEEDI](https://www.veedi.com/) - Create Game Walkthrough Videos
 * [Post-Processing](https://github.com/GarrettGunnell/Post-Processing) - Post Processing Pipeline For Unity
+* [Hekky](https://github.com/hyblocker/hekky-shaders) - Unity Shaders / [Docs](https://docs.hyblocker.dev/en/)
 * [CraftPix](https://craftpix.net/freebies/), [Kenney](https://www.kenney.nl/), [/r/GameAssets](https://www.reddit.com/r/gameassets/), [UnityAssets4Free](https://unityassets4free.com/), [UnityFreaks](https://www.unityfreaks.com/) or [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free) - Game Development Assets
 * [xonotic](https://github.com/xonotic), [Vanguard](https://github.com/VanguardDev/Vanguard) / [2](https://project-vanguard.netlify.app/index.html) or [Warsow](https://github.com/Warsow) - FPS Game Assets
 * [Pixel Art Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_pixel_art) - Tools to Create Sprites & Pixel Art
@@ -1010,6 +1013,7 @@ Automated Incident Response and Forensics Framework
 * [Trunk](https://trunk.io/) - Run Linters/Formatters/Checkers Simultaneously
 * [Mega Linter](https://github.com/nvuillam/mega-linter), [TCA](https://github.com/Tencent/CodeAnalysis) or [SonarCloud](https://sonarcloud.io/) - Code Analyzer 
 * [tabnine](https://www.tabnine.com/), [CodeWhisperer](https://aws.amazon.com/codewhisperer/) or [Copilot](https://copilot.github.com/) / [Docs](https://github.com/github/copilot-docs) - AI Assisted Code Completion / Suggestions
+* [FauxPilot](https://github.com/moyix/fauxpilot) - Self-Hosted Copilot Server
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Check for Edge Case Inputs
 * [editorcornfig](http://editorconfig.org/) - Maintain consistent code styles across editors
 * [CodeCapsules](https://codecapsules.io/) - Code Deployment
@@ -1090,7 +1094,7 @@ Automated Incident Response and Forensics Framework
 * [PHP Decoder](http://ddecode.com/phpdecoder/) or [UnPHP](https://www.unphp.net/) - PHP Decoder
 * [PHP Beautifier](http://phpbeautifier.com/) - PHP Formatter
 * [Valinor](https://github.com/CuyZ/Valinor) - PHP Object Mapper
-* [Spatie](https://github.com/spatie/fork) - Run PHP Concurrently 
+* [Spatie](https://github.com/spatie/fork) or [3v4l](https://3v4l.org) - Run PHP Concurrently 
 * [Winddown](https://github.com/schneefux/vscode-winddown) or [Sandman](https://alexanderepstein.github.io/Sandman/) - Coding Break Reminders
 * [ThemesElection](https://themeselection.com/) - Programming UI Themes
 * [Dev Fonts](https://devfonts.gafi.dev/) - Coding Fonts
