@@ -109,7 +109,7 @@
 
 # ► Image Generation
 
-* **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk), [Generative Engine](https://experiments.runwayml.com/generative_engine/), [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb), [Midjourney](https://www.midjourney.com/) or [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot) - AI Image Generator
+* **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk), [Generative Engine](https://experiments.runwayml.com/generative_engine/), [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb), [Midjourney](https://www.midjourney.com/), [StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion) or [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot) - AI Image Generator
 * [hypnogram](https://hypnogram.xyz/), [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent) or [NeuralBlender](https://neuralblender.com/) - AI Art Generator
 * [Random Art](http://www.random-art.org/) - Random Art Generator
 * [Chaos Machine](https://chaosmach.com/) - Random Graphic Generator
