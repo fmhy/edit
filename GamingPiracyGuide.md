@@ -203,7 +203,6 @@
 * [Pineappleea](https://pineappleea.github.io/), [128Bit Yuzu](https://mostlywhat.github.io/128Bit-Yuzu-Installer/) or [Yuzu-Updater](https://github.com/sinscove/Yuzu-Updater) - Yuzu Updater
 * [YuzuModDownloader](https://github.com/amakvana/YuzuModDownloader) - Yuzu Mod Downloader
 * [LiftInstall](https://github.com/pineappleEA/liftinstall) - Yuzu App Installer
-* [EmuSAK UI](https://github.com/CapitaineJSparrow/emusak-ui) - Download Switch Firmware & Keys
 * [Switch Army Knife](https://github.com/dezem/SAK) - Switch Emulator Multi-Tool
 * [EeveeSaves](https://discord.io/eeveesaves) - Switch Saves
 * [RPCS3 Setup Guide](https://docs.google.com/document/d/1gdjNab-CtVS97jH2diPPP5tCrpBeof9-qPIRRB9-BrU/edit) - RPCS3 Emulator Setup Guide
