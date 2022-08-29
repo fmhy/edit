@@ -1206,7 +1206,6 @@
 * [DevilNo](https://docs.google.com/spreadsheets/d/1hsSigFjyTaTnvB5XS6ot-msCZS5DR4VWtiD5g1ebH8c/edit?usp=sharing) - Alternative DevilBro Plugins
 * [Acrylic](https://github.com/xirreal/Acrylic) - Glass Theme
 * [WinClassic(https://github.com/SlippingGitty/WinClassic) - Classic Windows Theme
-* [Nitro Sniper](https://github.com/localip/nitro-sniper) - Discord Nitro Giveaway Sniper
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
 * [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - Use Discord Emojis without Nitro 
 * [Slackmoji](https://github.com/seanprashad/slackmoji), [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis), [NitroEmoji](https://github.com/D3JF/NitroEmoji) or [emoji.gg](https://emoji.gg/) - Discord Emojis
@@ -1524,8 +1523,8 @@ Twitch Stream Tracker
 
 ## ▷ Twitter Tools
 
-* **[TweetBeaver](https://tweetbeaver.com/)** or [TwopCharts](https://twopcharts.com/) - Multiple Twitter Tools 
 * **[NoFT](https://noft.gg/)** - Automatically Block all NFT Profile Pictures / [GitHub](https://github.com/ottomated/noft)
+* [TwopCharts](https://twopcharts.com/) - Multiple Twitter Tools 
 * [Nitter](https://nitter.net/) or [NitterDV](https://nitter.usethetools.org/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
 * [/r/Twitter](https://reddit.com/r/Twitter) - Twitter Subreddit
 * [Awesome Twitter Bots](https://github.com/amandeepmittal/awesome-twitter-bots) - Twitter Bot Index
