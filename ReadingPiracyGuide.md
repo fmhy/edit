@@ -113,6 +113,8 @@
 * [FullBooks](http://www.fullbooks.com/) - Books 
 * [e-Book Mecca](https://ebook-mecca.com/) - Books
 * [eBook4Expert](https://ebook4expert.net/) - Books 
+* [TheFreeOnlineNovel](https://thefreeonlinenovel.com/) - Books
+* [ReadOnlineFreeBook](https://readonlinefreebook.com/) - Books
 * [Chest of Books](https://chestofbooks.com/) - Books
 * [The Imperial Library of Trantor](https://trantor.is/) - Books / [.onion](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/)
 * [All Books Hub](https://allbookshub.com/) - Books
@@ -578,7 +580,7 @@
 
 * **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
 * **[Sci-Hub](https://sci-hub.se/)** - Science Articles / Research Papers
-* **Sci-Hub Tools** - [Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [3](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub)
+* **Sci-Hub Tools** - [Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [3](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub) / [DOI Redirect](https://greasyfork.org/en/scripts/412498)
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - How to bypass article paywalls
 * [Wikisource](https://en.wikisource.org) - Poetry / Text / Documents
 * [Heystacks](https://heystacks.org/) - Public Google Docs
@@ -671,11 +673,12 @@
 * [WikiLeaks](https://wikileaks.org/) - Leaked Documents 
 * [CensorBib](https://censorbib.nymity.ch/) or [censoredplanet.org](https://censoredplanet.org/) - Internet Censorship Research Papers
 * [Constitute Project](https://www.constituteproject.org/) - World Constitutions Database
-* [ArmyPubs](https://armypubs.army.mil/) or [US Military Manual Collection](https://archive.org/details/military-manuals) - Military Documents & Manuals
+* [ArmyPubs](https://armypubs.army.mil/) or [US Military Manual Collection](https://archive.org/details/military-manuals) - Military Documents / Manuals
 * [NASA NTRS](https://ntrs.nasa.gov/search.jsp) - NASA Documents
+* [PapalEncyclicals](https://www.papalencyclicals.net/) - Catholic Church Documents
 * [Aesthetics Archive](https://contempaesthetics.org/) - Aesthetics Articles / Notes Contemporary
 * [CourtListerner](https://www.courtlistener.com/recap/) - Pacer Documents
-* [Aleph](https://github.com/alephdata/aleph ) - Document Index Tool
+* [Aleph](https://github.com/alephdata/aleph) - Document Index Tool
 * [Dataset Search](https://datasetsearch.research.google.com/) - Dataset Search Google 
 * [PDF / Doc Search Engine](https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0) 
 * [ZealDocs](https://zealdocs.org/) - Document Viewer
@@ -796,7 +799,9 @@
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
 * [BookDL Comic & Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_booksdl) - Comics / Manga / Drive
 * [readcomicsfree](https://readcomicsfree.com/)
-* [Comic Castle](https://comicastle.org/) -
+* [Comic Castle](https://comicastle.org/)
+* [WallComic](https://wallcomic.com/)
+* [MyComicList](https://mycomiclist.com/)
 * [Comics Online](http://www.comicsonline.io/)
 * [ReadAllComics](http://readallcomics.com/)
 * [Read Full Comic](https://readfullcomic.com/) / [2](https://read-comic.com/) / [3](https://viewcomiconline.com/)
@@ -840,6 +845,7 @@
 * [/r/MangaPiracy](https://reddit.com/r/MangaPiracy) - Manga Piracy Subreddit / [Discord](https://discord.gg/ZgMtAyxFSU)
 * [Manga Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_download_bots) - Bots that Download Manga
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - Anime / Manga Download Forum
+* [Scanlation Mega](https://www.reddit.com/r/mangadex/comments/mafhtl/scanlation_sites_megathread/), [Great Discord Links](https://discord.gg/xAsyVb52a9), [Scanlation Sites](https://rentry.co/scanlation/) or [Mangadex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [TheScubaIndex](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_thescubaindex) - User: MP / Pass: grandblue
 * [Madokami Manga Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_madokami)
 * [The Manga Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_manga_library)
@@ -884,6 +890,25 @@
 * [Mangairo](https://h.mangairo.com/)
 * [MangaBuddy](https://mangabuddy.com)
 * [ReadKomik](https://readkomik.com/)
+* [DogManga](https://dogemanga.com/)
+* [KissManga](https://kissmanga.org/)
+* [MangaOwl](https://mangaowl.to/)
+* [MangaReader](https://mangareader.cc/)
+* [MC Reader](https://www.mcreader.net/)
+* [VinLoad](https://vinload.com/)
+* [ManHausKiss](https://manhuakiss.com/)
+* [VyVyManga](https://vyvymanga.com/)
+* [Elarcpage](https://elarcpage.com/)
+* [ReadMangaFree](https://readmangafree.net/)
+* [Batotoo](https://batotoo.com/)
+* [Mangarolls](https://mangarolls.com/)
+* [Mangarok](https://www.mangarok.mobi/)
+* [Mangabtt](https://mangabtt.com/)
+* [CoffeeManga](https://coffeemanga.com/)
+* [PianManga](https://pianmanga.com/)
+* [Murimscan](https://murimscan.run/)
+* [Tenmanga](https://www.tenmanga.com/)
+* [Tenkoreader](https://tenkoreader.com/)
 * [OniManga](https://onimanga.com)
 * [Mangadex.tv](https://mangadex.tv)
 * [MangaBob](https://mangabob.com/)
@@ -895,7 +920,6 @@
 * [MangaKik](https://mangakik.net/) 
 * [MangaDig](https://mangadig.com/)
 * [Mangaski](https://www.mangasaki.com/)
-* [KissManga](https://kissmanga.in/)
 * [Manhwafull](https://manhwafull.com/)
 * [247Manga](https://247manga.com/) 
 * [DeathTollScans](https://www.deathtollscans.net/)
@@ -948,14 +972,13 @@
 * [LANraragi](https://github.com/Difegue/LANraragi) - Manga / Doujin Manager for NAS / [Discord](https://discord.com/invite/aRQxtbg)
 * [MangaManage](https://github.com/Daedren/MangaManage) - Tachiyomi Download Manager
 * [Manga APIs](https://rentry.co/manga-apis) - Manga Site API's
-* [Scanlation Sites](https://www.reddit.com/r/mangadex/comments/mafhtl/scanlation_sites_megathread/) or [Mangadex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Release Updates  
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress & Keyboard Support
 * [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer) - Load Pages into One Viewer
 * [MangaEditor](https://moeka.me/mangaEditor/) - Online Manga Editor
 * [CBZ-Manga-Creator](https://github.com/PonyLucky/CBZ-Manga-Creator) - Image to CBZ Converter
 * [MangaCord](https://top.gg/bot/751148743901970622?tab=overview) - Read Manga on Discord [Disocrd](https://discord.gg/UtTJcWzCRe)
-* [Anity](https://redd.it/g372gu), [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en), [manga-translator](https://github.com/cameronkinsella/manga-translator) or [Scanlate](https://scanlate.io/) - Manga Translator
+* [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en), [manga-translator](https://github.com/cameronkinsella/manga-translator) or [Scanlate](https://scanlate.io/) - Manga Translator
 * [Manga-Tagger](https://github.com/inpacchi/manga-tagger) - Manga Metadata
 
 ***
@@ -1000,6 +1023,16 @@
 * [AllNovel](https://allnovel.org)
 * [LatestNovel](https://latestnovel.net/)
 * [ReadWebNovels](https://readwebnovels.net)
+* [NovelTranslate](https://noveltranslate.com/)
+* [MTLReader](https://mtlreader.com/)
+* [Foxaholic](https://www.foxaholic.com/)
+* [NovelHold](https://m.novelhold.com/)
+* [InfiniteNovelTranslations](https://infinitenoveltranslations.net/)
+* [MyBoxNovel](https://myboxnovel.com/)
+* [NovelBuddy](https://novelbuddy.com/)
+* [WNMTL](http://wnmtl.org/)
+* [KoreanMTL](https://www.koreanmtl.online/)
+* [NeoSekaiTranslations](https://www.neosekaitranslations.com/)
 * [Wuxia Blog](https://www.wuxia.blog)
 * [Wuxia Here](https://www.wuxiahere.com/)
 * [WuxiaWorldSite](https://wuxiaworldsite.co)
