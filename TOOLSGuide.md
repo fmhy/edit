@@ -60,6 +60,7 @@
 * [Price Tracking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_price_tracking) - Price Tracking Sites / Apps
 * [OpenTable](https://www.opentable.com/) - Restaurant Reservation Search
 * [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Concerts / Music Festival Search
+* [Visa Guide](https://visaguide.world/) - Worldwide Travel Visa Guides
 * [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - Bedtime Calculator 
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - Bra Size Calculator
 * [The Sustainabilitist](https://sustainabilitist.com/) - Sustainability Resource Hub
@@ -134,7 +135,7 @@
 * [Scrapbox](https://scrapbox.io/) - Write & link Notes, Docs & Pages
 * [Manuskript](https://www.theologeek.ch/manuskript/) - Writing Organizer & Planner
 * [WorkFlowy](https://workflowy.com/) - Work Organizer
-* [KiloDoc](https://www.kilodoc.com/) or [GroupDocs](https://products.groupdocs.app/viewer/total) - Online Document Editor 
+* [KiloDoc](https://www.kilodoc.com/), [Edit-Document](https://edit-document.com/) or [GroupDocs](https://products.groupdocs.app/viewer/total) - Online Document Editors
 * [docz](https://www.docz.site/) - Write and Publish Interactive Documentation
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
 * [Calculist](https://calculist.io/) - Note Taking for Problem Solving
@@ -218,7 +219,7 @@
 * [UpsideDown Text](https://www.upsidedowntext.com/) - Generate Upside Down Text
 * [I or l?](https://iorl.info/) / [2](https://www.iorl.org/) - Is it an uppercase "i", or is it a lowercase "L"?
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursive Search Tool
-* [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/), [Unilist](https://unilist.raphaelbastide.com/) or [Cool Symbol](https://coolsymbol.com/) - Copy & Paste Unicode Characters
+* [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/), [Snskey](https://snskeyboard.com/), [Unilist](https://unilist.raphaelbastide.com/) or [Cool Symbol](https://coolsymbol.com/) - Copy & Paste Unicode Characters
 * [Copy-Paste-Space](https://copy-paste-space.com/) or [BlankText](https://blanktext.net/) - Copy / Paste Blank Spaces 
 * [Donger List](http://dongerlist.com/) - 600+ Unicode Emoticons 
 * [Japanese emoji copy and paste](https://japaneseemojicopyandpaste.com/) - Lenny Face / Japanese Emoticons
@@ -1667,6 +1668,7 @@ Twitch Stream Tracker
 * [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Laptop Deals](https://laptopsdeals.net/our-gaming-laptops-guide-list/), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
 * [r/TechSupport](https://www.reddit.com/r/techsupport/), [Windows 10 Forums](https://www.windowsphoneinfo.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/), [TechSupportForum](https://www.techsupportforum.com/) or [Notebook Reviews](http://forum.notebookreview.com/) - Tech Support / [Discord](https://discord.gg/2EDwzWa) / [Wiki](https://rtech.support/books/)
 * [GetHuman](http://gethuman.com/) or [ContactFound](https://contactfound.com/) - Tech Support Numbers
+* [Laptop Knowledge Database](https://laptops.miraheze.org/wiki/Main_Page) - Laptop Info Database
 * [Technical City](https://technical.city/) - Hardware Comparisions
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - Mouse Click Latency Chart
@@ -1695,6 +1697,7 @@ Twitch Stream Tracker
 * [XTR Toolbox](https://zeeex.github.io/XTR-Toolbox/) / [GitHub](https://github.com/Zeeex/XTR-Toolbox/), [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [TweakUtility](https://github.com/Craftplacer/TweakUtility), [MagicX Toolbox](https://github.com/Ahsan40/MagicX-Toolbox), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - Windows Tweaking Tools
 * [Couleur Tweak Tips](http://discord.gg/CTT), [Redwan Tweaks](https://discord.gg/4RhQurkFBZ) or [TweakCentral](https://tweakcentral.net/) - Windows Tweaks & Tips
 * [Redwan's Guide to Guides](https://docs.google.com/document/d/1hZeQkyDe-M9-zNy2eB-Koc3iOpN5-5KxkpvjQaNK60g/edit) - Windows Tweaking Guides
+* [Pastas](https://rentry.org/pastas#guides) - Windows Guides
 * [Awesome Scripts](https://github.com/codePerfectPlus/awesomeScripts), [Batch-Script-Collection](https://github.com/happy05dz/Batch-Script-Collection), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - Useful System Scripts
 * [SmartWindows](https://smartwindows.app/) - Create / Restore Windows Profiles 
 * [VirtualBox](https://www.virtualbox.org/), [Looking Glass](https://looking-glass.io/), [Qemu](http://www.qemu-project.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)
@@ -1816,7 +1819,7 @@ Twitch Stream Tracker
 * [Cronos](https://crono.app/) - Desktop Mobile Notifications
 * [BurntToast](https://github.com/Windos/BurntToast) - Create and display Toast Notifications
 * [Almond](https://almond.stanford.edu/) - Virtual Assistant
-* [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
+* [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) or [Sepia](https://sepia-framework.github.io/) - Voice Assistant
 * [Jarvis](https://acwtechnologies.co.uk/software/jarvis-lite) - Voice Commands
 * [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client), [Mycroft](https://mycroft.ai/) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client
 * [Cerebro App](https://cerebroapp.com/) or [Zazu App](http://zazuapp.org/) - System Productivity Booster
@@ -1931,7 +1934,7 @@ Twitch Stream Tracker
 * [eDEX-UI](https://github.com/GitSquared/edex-ui) - Sci-Fi Terminal Emulator / System Monitor
 * [termbin](http://termbin.com/) - Terminal Output Pastebin
 * [GetDNote](https://www.getdnote.com/) - Command Line Notebook
-* [cmder](https://cmder.app) / [Github](https://github.com/cmderdev/cmder)
+* [cmder](https://cmder.app) - Console Emulator Package / [Github](https://github.com/cmderdev/cmder)
 * [PowerShell](https://github.com/powershell/powershell) - PC / Mac / Linux PowerShell
 * [PowershellMenu](https://github.com/Mike-Branham/PowershellMenu), [Write-Menu](https://github.com/QuietusPlus/Write-Menu) or [ps-menu](https://github.com/chrisseroka/ps-menu) - PowerShell Console Menu
 * [PowerShdll](https://github.com/p3nt4/PowerShdll) - Run PowerShell with rundll32
@@ -1942,6 +1945,7 @@ Twitch Stream Tracker
 * [Starship](https://starship.rs/) - Cross-Shell Prompt
 * [GNU Parallelel](https://www.gnu.org/software/parallel/) - Execute Commands / Scripts in Parallel using Multiple Computers
 * [Nushell](https://www.nushell.sh/) - Alt Shell
+* [GSudo](https://github.com/gerardog/gsudo) - Sudo Alternative for Windows
 * [Resource Hacker](http://www.angusj.com/resourcehacker/) - Resource Editor 
 * [grepWin](https://github.com/stefankueng/grepWin) - Regular expression search and replace 
 * [ngrep](https://github.com/jpr5/ngrep) - Specify Expressions to match against Data Payloads of Packets 
@@ -2060,7 +2064,7 @@ Twitch Stream Tracker
 * **[Unzip / Compress Files](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_compression_programs)** - File Unzippers / Compression Programs
 * **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** or [MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb) - Google Drive Tools Colab / [GitHub](https://github.com/biplobsd/OneClickRun) / [Features](https://i.imgur.com/hEHM7Vy.png)
 * **[Mega-to-Google-Drive](https://github.com/cheems/Mega-to-Google-Drive)** - Transfer Files from Mega to GDrive
-* **[OpenWith](https://www.openwith.org/)** or [File.org](https://file.org/) - Programs to Open any File Extension 
+* **[OpenWith](https://www.openwith.org/)**, [OpenMyFiles](https://www.openmyfiles.com/), [OpenFile](https://www.openfile.me/) or [File.org](https://file.org/) - Programs to Open any File Extension 
 * **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser
 * **[TeamDrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_generators)** - Create Google TeamDrives
 * **[Onedrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_onedrive_generators)** - Generate Microsoft 1tb OneDrives / Free Office 365 
@@ -2192,11 +2196,12 @@ Twitch Stream Tracker
 * [Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/), [Fast-Duplicate-File-Finder](https://www.mindgems.com/products/Fast-Duplicate-File-Finder/Fast-Duplicate-File-Finder-About.htm), [ashisoft](https://www.ashisoft.com/), [dupscout](https://www.dupscout.com/dupscout_search_duplicate_files.html), [wisecleaner](https://www.wisecleaner.com/wise-duplicate-finder.html), [clonespy](https://www.clonespy.com/), [AllDup](http://www.alldup.info/) or [dupeGuru](https://dupeguru.voltaicideas.net/) - Duplicate File Finder 
 * [TMSU](https://github.com/oniony/TMSU), [Tagging for Windows](https://tagging.connectpaste.com/) or [SuperTag](https://github.com/amoffat/supertag) - Tag-Based Filesystem 
 * [Bulk File Renamers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bulk_file_renamers) - Easily Rename Multiple Files
-* [MediaMonkey](https://www.mediamonkey.com/), [tinyMediaManager](https://www.tinymediamanager.org/), [Bruji](https://www.bruji.com/) or [MediaInfo](https://mediaarea.net/en/MediaInfo) - Get Media Info for Video & Audio Files / [Web App](https://overbits.herokuapp.com/mediainfo/)
+* [MediaMonkey](https://www.mediamonkey.com/), [tinyMediaManager](https://www.tinymediamanager.org/), [Bruji](https://www.bruji.com/), [MediaInfoOnline](https://mediaarea.net/MediaInfoOnline) or [MediaInfo](https://mediaarea.net/en/MediaInfo) - Get Media Info for Video & Audio Files / [Web App](https://overbits.herokuapp.com/mediainfo/)
+* [Filext](https://filext.com/) - Online File Viewer
 * [File Juggler](https://www.filejuggler.com/) - Organize Files Automatically
 * [Shoko](https://github.com/shokoanime) - Anime Catalog Automation 
 * [Phockup](https://github.com/ivandokov/phockup) - Organize Photo / Video Files by Date 
-* [WeCompress](https://www.wecompress.com/), [Compress2Go](https://www.compress2go.com/), [Compress.com](https://www.compresss.com/), [Cloudpresso](https://cloudpresso.com/) or [YouCompress](https://www.youcompress.com/) - Online File Compressor
+* [WeCompress](https://www.wecompress.com/), [Compress2Go](https://www.compress2go.com/), [Compress.com](https://www.compresss.com/), [Cloudpresso](https://cloudpresso.com/), [Compress-Online](https://compress-online.com/) or [YouCompress](https://www.youcompress.com/) - Online File Compressors
 * [czkawka](https://github.com/qarmin/czkawka) - Remove Unnecessary Files 
 * [DBAN](https://dban.org/) or [KillDisk](http://killdisk.com/killdisk-home.htm) - Data Removal Tool 
 * [UnLock IT](https://emcosoftware.com/unlock-it/download), [Lock Hunter](https://lockhunter.com/) or [FileExile](https://sourceforge.net/projects/filexile/) - File Unlocker / Deleter
@@ -2217,7 +2222,6 @@ Twitch Stream Tracker
 * [MD5 Hash Changer](https://github.com/ewwink/MD5-Hash-Changer) - Change a Files MD5 Hash
 * [Hasher](https://www.igorware.com/hasher) - Hash Generator
 * [SQLite Viewer](https://inloop.github.io/sqlite-viewer/) - View SQLite Files Online 
-* [MediaInfoOnline](https://mediaarea.net/MediaInfoOnline) - Media File Info
 * [Xartifex](http://xartifex.com/) - Word & Excel File Unlocker
 * [CalameoDownload](https://calameodownload.com/) - Download Calameo Docs PDF or Image files
 * [DFD](https://dfd.inf.tu-dresden.de/) - Duplicate Document Forensics Test
