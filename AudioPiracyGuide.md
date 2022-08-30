@@ -95,6 +95,7 @@
 * [The Eternal Jukebox](https://eternalbox.dev/) - Never-Ending Versions of Songs
 * [Battle of the Bits](https://battleofthebits.org/) - User-Made Music Competitions
 * [Openwhyd](https://openwhyd.org/) - Music Sharing Community / [Chrome](https://chrome.google.com/webstore/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)
+* [Session](https://sessionslive.com/) or [Volume](https://volume.com/) - Live Cam Concerts
 * [Bandcamp New Tab](https://chrome.google.com/webstore/detail/bandcamp-new-tab/nbabnnemlofbllcflfjpjgkgmcdbeemc) - Random Bandcamp Songs on New Tabs
 
 ***
@@ -138,7 +139,7 @@
 * [8bit.fm](https://8bit.fm/) - Chiptune Radio
 * [Openings Moe](https://openings.moe/) - Anime Theme Radio
 * [Ongaku](https://ongaku.js.org/) - Anime Radio
-* [Poolside FM](https://poolside.fm/) - Summer Radio
+* [Pool Suite](https://poolsuite.net/) - Summer Radio
 * [latestation](http://radio.late.city/) - Late-Night Radio
 * [LISTEN.moe](https://listen.moe/)  - K-Pop Radio / [Client](https://github.com/LISTEN-moe/windows-app)
 * [Fountain of Dreams](https://fountainofdreams.net/) - Japanese 80's Radio 
@@ -420,12 +421,15 @@
 * [SolidTorrents](https://solidtorrents.to/) - MP3 / FLAC / [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)
 * **[Lidarr](https://github.com/Lidarr/Lidarr)** or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
 * [Flactor](https://flactor.ru/) - FLAC
+* [DimeADozen](http://www.dimeadozen.org/) - MP3 / FLAC
+* [TheAudioScene](https://theaudioscene.net/) - MP3 / FLAC
 * [Metal Tracker](https://en.metal-tracker.com/) - Metal / MP3
 * [RockBox](https://rawkbawx.rocks/) - Metal / MP3
 * [the /kpg/ torrent](https://kpg.neocities.org/) - 800gb+ K-Pop Torrent File
 * [MixtapeTorrent](http://www.mixtapetorrent.com/) - Mixtapes / MP3
+* [PandaCD](https://pandacd.io/) - User-Made Music
 * [SXSW Torrents](http://www.sxswtorrent.com/) - SXSW Music Archive
-* [ZOMB Torrents](http://zombtracker.the-zomb.com/) - Music sharing community / forum
+* [ZOMB Torrents](http://zombtracker.the-zomb.com/) - Forum
 * [bt.etree](http://bt.etree.org/)- Live Concert Recordings 
 * [NFO db](https://nfodb.ru/) - MP3 NFO Database
 
