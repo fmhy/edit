@@ -169,6 +169,7 @@
 * [Reprice](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno) - Track Amazon Prices
 * [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
 * [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Health App
+* [BatteryChargeLimiter](https://github.com/MuntashirAkon/BatteryChargeLimiter) - Charging Control
 * [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - Note Taking Apps
 * [Serenity Notes](https://www.serenity.re/en/notes) - Collaborative Notes
@@ -217,11 +218,12 @@
 * [Clipboarded](https://f-droid.org/en/packages/com.trianguloy.clipboardeditor/) - Clipboard Manager
 * [Grammarly](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_grammarly_keyboard_premium) - Grammarly Keyboard Premium 
 * [WiFiman](https://play.google.com/store/apps/details?id=com.ubnt.usurvey) - Network Scanner
-* [Fing](https://www.fing.com/products/fing-app) - Network Toolkit 
+* [Fing](https://www.fing.com/products/fing-app) - Network Toolkit
+* [MACsposed](https://github.com/DavidBerdik/MACsposed) - Mac Address Spoofing
 * [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage) - Disk Usage Analyzer
-* [AlmightyVolumeKeys](https://play.google.com/store/apps/details?id=com.masel.almightyvolumekeys) - Remap Volume Keys
+* [AlmightyVolumeKeys](https://play.google.com/store/apps/details?id=com.masel.almightyvolumekeys) or [Volta](https://github.com/x13a/Volta) - Remap Volume Keys
 * [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - Text Font Generator
-* [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [Arna Translate](https://github.com/MahanRahmati/translate) or [SimplyTranslate Flutter](https://github.com/ManeraKai/simplytranslate-flutter-client) - Translator
+* [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [Arna Translate](https://github.com/MahanRahmati/translate), [Instalate](https://gitlab.com/concept1tech/instalate), [SimplyTranslate](https://github.com/ManeraKai/simplytranslate_mobile) or [SimplyTranslate Flutter](https://github.com/ManeraKai/simplytranslate-flutter-client) - Translators
 * [NativeAlpha](https://play.google.com/store/apps/details?id=com.cylonid.nativealpha) - Run Websites in Borderland Window
 * [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) - Create App Shortcuts
 * [Surfable](https://surfable.app/) - Install Any Website as App / [GitHub](https://github.com/sandoche/Surfable-app)
@@ -263,7 +265,7 @@
 * [Migrate](https://play.google.com/store/apps/details?id=balti.migrate) - Migration Tool / Root Required
 * [Unchained for Android](https://github.com/LivingWithHippos/unchained-android) - App to interact with Real-Debrid API
 * [PowerTube](https://github.com/razar-dev/PowerTube) or [DVD](https://github.com/yausername/dvd) - Video Download Tool 
-* [YouTubeDL Android](https://github.com/yausername/youtubedl-android) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloader
+* [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [Seal](https://github.com/JunkFood02/Seal) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloader
 * [Show Youtube Dislikes](https://github.com/jesperbakhandskemager/view-youtube-dislike) - Return Youtube Dislikes
 * [BBTV](https://github.com/bttv-android/bttv), [Frosty](https://www.frostyapp.io/) or [Orange TV](https://gitlab.com/twitchmod/orange-tv) - Modded Twitch App
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
@@ -290,7 +292,7 @@
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)
 * [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play) or [Code Scanner](https://github.com/czlucius/code-scanner) - QR / Barcode Scanner
 * [Colorize It](https://play.google.com/store/apps/details?id=com.reaimagine.colorizeit) - Colorize Images
-* [WOMBO Dream](https://www.wombo.art/) - Dream Artwork Tool
+* [Dream](https://www.wombo.art/) - Dream Artwork Tools
 * [Photo Lab](https://ilixa.com/8bitphotolab.php) - Give Images a Retro Look 8Bit
 * [starryai](https://play.google.com/store/apps/details?id=com.starryai) - Generate Art from Text Prompt
 * [Photo Resizer](https://play.google.com/store/apps/details?id=com.simplemobilephotoresizer&hl=en&gl=US) - Image Resizer
@@ -305,7 +307,7 @@
 * [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix ) - Combine Emojis
 * [background video recorder](https://play.google.com/store/apps/details?id=com.camera.secretvideorecorder) - Record Videos in Background
 * [Jitsi](https://jitsi.org/) or [IMO](http://imo.im/) - Video Chat
-* [Walkie-Talkie](https://walkie-talkie.io/) - Walkie-Talkie App
+* [Walkie-Talkie](https://walkie-talkie.io/) or [Codec2 Talkie](https://github.com/sh123/codec2_talkie) - Walkie-Talkie Apps
 * [1 Second Everyday](http://1se.co/) - 1 Second Video Diary
 * [EasyWatermark](https://github.com/rosuH/EasyWatermark) - Add Watermark to Images
 * [Video Watermark](https://play.google.com/store/apps/details?id=com.zmobileapps.videowatermark) - Add Watermark to Videos
@@ -344,7 +346,7 @@
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - Easily Open Links in Text via Share Function
 * [URLApp](https://urlgapp.com/) - Convert Sites to Android Apps
 * [Ponydroid](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ponydroid), [Jdownloader](https://my.jdownloader.org/), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - Download File Manager / [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)
-* [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_solid_explorer), [rcx](https://x0b.github.io/) / [GitHub](https://github.com/x0b/rcx), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/), [AmazeFileManager](https://teamamaze.xyz/) / [GitHub](https://github.com/TeamAmaze/AmazeFileManager), [FileManager](https://github.com/SimpleMobileTools/Simple-File-Manager) or [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager) / [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager) or [IrkFM](https://github.com/lfuelling/lrkFM) - File Explorers / Managers
+* [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_solid_explorer), [rcx](https://x0b.github.io/) / [GitHub](https://github.com/x0b/rcx), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/), [AmazeFileManager](https://teamamaze.xyz/) / [GitHub](https://github.com/TeamAmaze/AmazeFileManager), [FileManager](https://github.com/SimpleMobileTools/Simple-File-Manager) or [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager) / [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager), [AnExplorer](https://github.com/1hakr/AnExplorer) or [IrkFM](https://github.com/lfuelling/lrkFM) - File Explorers / Managers
 * [Dumpster](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dumpster) - File Recovery Tool
 * [wsa_pacman](https://github.com/alesimula/wsa_pacman) - Android Package Manager for Windows
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - Download / Torrent Manager 
@@ -369,8 +371,9 @@
 * Termux Tools - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/tareksander/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
 * [Shelter](https://github.com/PeterCxy/Shelter) - App Sandbox
 * [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
-* [Clima](https://f-droid.org/en/packages/co.prestosole.clima/), [The Fucking Weather](https://alcohollick.com/the-fucking-weather), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux) or [GeometricWeather](https://github.com/geometric-weather-foss/GeometricWeather) - Weather App 
+* [Clima](https://f-droid.org/en/packages/co.prestosole.clima/), [KWeather](https://invent.kde.org/plasma-mobile/kweather), [The Fucking Weather](https://alcohollick.com/the-fucking-weather), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux) or [GeometricWeather](https://github.com/geometric-weather-foss/GeometricWeather) - Weather App 
 * [Aftership](https://play.google.com/store/apps/details?id=com.aftership.AfterShip&hl=en&gl=US) - Package Tracker
+* [AIS-catcher for Android](https://github.com/jvde-github/AIS-catcher-for-Android) - AIS Receiver 
 * [aiTTS](https://www.milmike.com/aitts-google-wavenet-voices-for-android-tts) or [Madhur](https://madhur-ai.com/) - Text to Speech 
 * [Microsoft Edge Read Aloud](https://redd.it/l1fdh9) - How to use Microsoft Read Aloud TTS on Android 
 * [Copyhat](https://copyhat.com/) - AI Writing Tool
@@ -624,6 +627,7 @@
 * [tTorrent](https://play.google.com/store/apps/details?id=hu.tagsoft.ttorrent.lite) - [Screenshot](https://i.imgur.com/S61JgNg.png)
 * [Frostwire](https://play.google.com/store/apps/details?id=com.frostwire.android) - [Screenshot](https://i.imgur.com/EoB3DED.png)
 * [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) - [Screenshot](https://i.imgur.com/rZ2JeCO.png)
+* [WeTorrent](https://apkcombo.com/wetorrent-torrent-downloader/co.we.torrent/) - [Screenshot](https://i.imgur.com/CuvMYGT.png)
 * [Red Torrent](https://sourceforge.net/projects/redtorrent/) - [Screenshot](https://i.imgur.com/uVKVVLg.png)
 * [Android-A](http://android-a.com/) - [Screenshot](https://i.imgur.com/khlurm7.png)
 * [CatTorrent](https://apkcombo.com/cattorrent/com.napolovd.piratecat/) - [Screenshot](https://i.imgur.com/JtdXk9t.png)
@@ -684,7 +688,7 @@
 
 * **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players)** - Music Players / Libraries
 * **[Spotify APK](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modded_spotify_apk)** (No Ads) - Streaming / [Version Manager](https://github.com/xManager-v2/xManager-Spotify) / [Friend Activity](https://spotivity.vercel.app/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://f-droid.org/packages/com.rohit2810.spotit/), [3](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
-* [YouTube Music Apps](https://redd.it/tiqzon/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [YTM Wrapped](https://github.com/4v3ngR/ytm-wrapped), [HoloPlay](https://holoplay.io/), [ViMusic](https://github.com/vfsfitvnm/ViMusic), [Harmonoid](https://harmonoid.com/) or [YMusic](https://ymusic.io/) - YouTube Music Players
+* [YouTube Music Apps](https://redd.it/tiqzon/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [YTM Wrapped](https://github.com/4v3ngR/ytm-wrapped), [HoloPlay](https://holoplay.io/), [ViMusic](https://github.com/vfsfitvnm/ViMusic), [Harmonoid](https://harmonoid.com/), [Music](https://github.com/z-huang/music) or [YMusic](https://ymusic.io/) - YouTube Music Players
 * [Spotiflyer](https://f-droid.org/en/packages/com.shabinder.spotiflyer/) / [GitHub](https://github.com/Shabinder/SpotiFlyer/) or [SpotaFree](https://github.com/sheensantoscapadngan/SpotaFree) - Spotify Audio Downloader
 * [Finamp](https://github.com/UnicornsOnLSD/finamp) - Jellyfin Music Player
 * [CloudPlayer](https://www.doubletwist.com/cloudplayer) - Cloud Audio File Player
@@ -695,7 +699,7 @@
 * [Datmusic](https://github.com/alashow/datmusic-android) - Download / MP3
 * [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - Download / MP3 
 * [SMLoadr](https://t.me/SMLoadrNews) - Download / FLAC / MP3
-* [YouTubeDL Android](https://github.com/yausername/youtubedl-android) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloader
+* [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [Seal](https://github.com/JunkFood02/Seal) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloader
 * [Fildo](https://fildo.net/android/en/) - Streaming
 * [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale-android) - Streaming
 * [Trebel](https://home.trebel.io/) - Streaming
@@ -1006,6 +1010,7 @@
 * [AppManager](https://github.com/kawaiizenbo/AppManager) - iOS App Manager for Windows 
 * [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) - Automation Script Tool
 * [Winno](https://apps.apple.com/us/app/winno-just-the-facts/id1460212743) - News
+* [Hackers](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901) - Hacker News
 * [MAPS.ME](https://maps.me/) - Offline Maps / [GitHub](https://github.com/mapsme/omim)
 * [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/), [Loccker](https://www.loccker.in/) or [Strongbox](https://strongboxsafe.com/) - Password Manager
 * [iSkin](https://iskin.tooliphone.net/), [Anemone](https://www.ios-repo-updates.com/repository/odyssey-repo/package/com.anemonetheming.anemone3/), [/r/iOSsetups](https://www.reddit.com/r/iOSsetups/ ), [/r/iOSthemes](https://www.reddit.com/r/iOSthemes/), [Moloko](https://apps.apple.com/us/app/moloko-themes-icons/id1534741213) or [SnowBoard](https://repo.dynastic.co/package/snowboard) - iOS Themes 
