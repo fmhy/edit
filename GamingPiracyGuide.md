@@ -153,7 +153,9 @@
 * [ROMs DL](https://romsdl.com/) - Emulators / ROMs
 * [DownloadArea81](https://www.downarea51.com/) - Emulators / ROMs
 * [CoolROMs](https://coolrom.com.au/) - Emulators / ROMs / Use ["Alt DL Link"](https://i.imgur.com/FgHvrPK.png)
+* [Nostalgialand](https://nostalgialand.net/) - ROMs
 * [All Xbox Game](https://downloadgamexbox.com/) - ROMs
+* [RPGOnly](https://rpgonly.com) - ROMs
 * [RomToHome](https://romtohome.com/) - ROMs
 * [Sundby](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sundby) - ROMs
 * [EdgeEmulation](https://edgeemu.net/) - ROMs
@@ -196,7 +198,7 @@
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
 * [WBFStoISO](http://www.wbfstoiso.com/) - WBFS to ISO Converter
 * [Batch CIA 3DS Decryptor](https://gbatemp.net/threads/batch-cia-3ds-decryptor-a-simple-batch-file-to-decrypt-cia-3ds.512385/) - Decrypt 3DS Files
-* [Cemu Guide](https://cemu.cfw.guide/) - Cemu & BOTW Optimization Guide
+* [Cemu Guide](https://cemu.cfw.guide/) or [/r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - Cemu & BOTW Optimization Guides
 * [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
 * [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) / [2](https://docs.google.com/document/d/1weVLWey3RePzn8LubFRFHRVkoczCbLkvSf8fNfp1yZ0/edit) / [3](https://github.com/PrincessAkira/road-to-yuzu-without-switch) - Yuzu Emulator Setup Guide
 * [Ryujinx Setup Guide](https://docs.google.com/document/d/1prxOJaE4WhPeYNHW17W5UaWZxDgB8e5wNHxt2O4FKvs/edit) - Ryujinx Emulator Setup Guide
@@ -216,7 +218,7 @@
 
 * **[No-Intro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_no-intro)** - ROMs
 * **[AlvRo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_alvro)** - ROMs / pw: ByAlvRo
-* **[RomCenter](https://r-ROMs.github.io/)** - ROMs / [Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_romcenter)
+* **[RomCenter](https://r-ROMs.github.io/)**, [2](https://pastelink.net/24dhn) - ROMs / [Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_romcenter)
 * **[ROM-Collections](https://rentry.co/ROM-Collections)** - ROMs
 * [TheRomDepot](https://theromdepot.com/) - ROMs
 * [Squid Proxy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_squid_proxy) - ROMs
