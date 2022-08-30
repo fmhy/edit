@@ -27,6 +27,7 @@
 * [1TB Art Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_1tb_art_courses) - Art Courses
 * [Photoshop Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photoshop_courses) - Photoshop Course Drive
 * [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
+* [DomDesigns](https://www.youtube.com/c/DomDesigns/) - Illustrator Tutorials
 * [PhotoFunia](https://photofunia.com/), [AIBlockchainArt](https://aiblockchain.art/) or [Designify](http://designify.com/) - Photo Effects / Filters
 * [MagicaVoxel](https://ephtracy.github.io/) - Voxel Art Editor / Interactive Path Tracing Renderer
 * [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Text Driven Image Manipulation / [Video](https://youtu.be/5icI0NgALnQ)
@@ -118,6 +119,7 @@
 * [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/), [Free Logo Maker](https://freelogomaker.net/) or [ACME](https://acme.com/labelmaker/) - Logo Creator
 * [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
 * [ArtFlow](http://artflow.ai/), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [react-nice-avatar](https://github.com/chilllab/react-nice-avatar) or [Avataaars](https://getavataaars.com/) - Face / Avatar Creator
+* [CharacterCreator](https://charactercreator.org/)- Character Generator
 * [PixelMe](https://xsgames.co/pixelme/) - 8bit Avatar Creator
 * [Random-Face-Generator](https://github.com/adityar224/Random-Face-Generator) - Face Generator
 * [Mirro-Ai](https://mirror-ai.com/) - Get Stickers With Your Face
@@ -239,7 +241,7 @@
 
 ## ▷ Painting / Drawing
 
-* [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/), [ProsePainter](https://www.prosepainter.com/) or [MediBang](https://medibangpaint.com/en/) - Painting
+* [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/), [Paintroid](https://github.com/Catrobat/Paintroid), [ProsePainter](https://www.prosepainter.com/) or [MediBang](https://medibangpaint.com/en/) - Painting
 * [bomomo](https://bomomo.com/) - Multi-Brush Painting
 * [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art
 * [Aggie.io](https://aggie.io/), [Magma](https://magmastudio.io/) or [malmal](https://malmal.io/) - Draw with Friends or Strangers 
