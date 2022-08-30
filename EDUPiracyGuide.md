@@ -426,7 +426,7 @@ Simulator
 # ► Space
 
 * [/r/Space](https://reddit.com/r/Space) - Space Subreddit
-* [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration Website / [Images](https://images.nasa.gov/) / [Audio](https://www.nasa.gov/connect/sounds/index.html)
+* [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration Website / [Images](https://images.nasa.gov/) / [Audio](https://www.nasa.gov/connect/sounds/index.html) / [Documents](https://ntrs.nasa.gov/search.jsp)
 * [ESA](https://www.esa.int/) - European Space Agency Website
 * [Space.com](https://www.space.com/) - Space News
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Math and Physics Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_math_and_physics_books) - Astronomy Books
@@ -624,7 +624,8 @@ Simulator
 * [FAChords](https://www.fachords.com/) - Guitar
 * [Guitarsix](https://guitarsix.com/) - Guitar
 * [Finger Style](https://finger-style.ru/category/lessons) - Guitar
-* [coop3rdrumm3r](https://www.drumeo.com/coop3rdrumm3r/) - Drumming
+* [coop3rdrumm3r](https://www.drumeo.com/coop3rdrumm3r/) - Drums
+* [FreeDrumLessons](https://www.youtube.com/c/freedrumlessons) - Drums
 * [911tabs](https://www.911tabs.com/) - Tab
 * [Finger Tabs](https://fingertabs.com/) - Tabs
 * [Ultimate Guitar](https://www.ultimate-guitar.com/) - Guitar Tabs
