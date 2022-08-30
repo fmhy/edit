@@ -16,7 +16,7 @@
 * **[/r/PiratedGames Megathread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Gaming Piracy Site Index / [Discord](https://discord.gg/dZWwhUy)
 * **[/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread)** - Software Piracy Site Index
 * **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** or [/r/Stumbledon](https://www.reddit.com/r/Stumbledon/) - Helpful / Fun Sites
-* **[Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)**, [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr), [5](https://rentry.org/verycompletelistofpiratesites) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
+* **[Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)**, [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr), [5](https://rentry.org/verycompletelistofpiratesites), [6](https://github.com/Tosoju/awesome-piracy) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
 * **[Champagne Wiki](https://rentry.org/champagne_wiki/)** - Piracy Index / [Guides](https://rentry.org/champagne_guides/)
 * **[Esoterica Avenue](https://ori5000.github.io/)** - Software & Games Megathread / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * **[WebOas.is](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - Startpage / Site Index / [Source Code](https://pastebin.com/CczqreS4)
@@ -118,7 +118,7 @@
 # ► Piracy Discussion
 
 * **[/m/piracy](https://www.reddit.com/user/nbatman/m/piracy/)**, [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) - Piracy Multireddit
-* **[/r/piracy](https://reddit.com/r/piracy)** - [Lemmy Backup](https://lemmy.ml/c/piracy), [2](https://github.com/nid666/PiracyArchive)
+* **[/r/piracy](https://reddit.com/r/piracy)** - [Lemmy Backup](https://lemmy.ml/c/piracy), [2](https://github.com/nid666/PiracyArchive) / [Remove Humor](https://redd.it/wz394j)
 * **[/r/PiratedGames](https://www.reddit.com/r/PiratedGames/)** - Gaming / [Discord](https://discord.gg/dZWwhUy)
 * **[OneHack](https://onehack.us/)** - Piracy Discussion / Sharing
 * [/r/SoftwarePirates](https://reddit.com/r/SoftwarePirates) - Software Piracy Discussion
@@ -181,15 +181,16 @@
 * [Ubisoft Free](https://free.ubisoft.com/) - Games
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - Games
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) or [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Auto-Claim Free Epic Games
-* [/r/googleplaydeals](https://reddit.com/r/googleplaydeals) - Paid apps 
-* [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - Paid apps
-* [Android App Sales](https://t.me/androidappsales) - Paid apps / Telegram 
-* [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - Paid apps
-* [AppsFree](https://play.google.com/store/apps/details?id=com.appsfree.android) - Paid apps
-* [InstlApp](https://apps.apple.com/us/app/instlapp/id1502777382) - Free App Giveaways
+* [/r/googleplaydeals](https://reddit.com/r/googleplaydeals) - APKs
+* [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - APKs
+* [App Sales](https://www.app-sales.net/) - APKs
+* [Android App Sales](https://t.me/androidappsales) - APKs / Telegram 
+* [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - APKs
+* [AppsFree](https://play.google.com/store/apps/details?id=com.appsfree.android) - APKs
+* [InstlApp](https://apps.apple.com/us/app/instlapp/id1502777382) - APKs
+* [AppSumo Freebies](https://appsumo.com/tools/freebies/) - Apps
 * [spamverse](https://t.me/spamverse) or [FreemiumBox](https://t.me/freemiumbox) - Giveaways and Freebies
 * [AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) - Products / Services
-* [AppSumo Freebies](https://appsumo.com/tools/freebies/) - Apps
 * [FreeCycle](https://www.freecycle.org/) - People Giving Away Free Stuff
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
 * [Rivetedlit](https://rivetedlit.com/) - Books
@@ -625,7 +626,7 @@
 * [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Tidbits](https://tidbits.live/), [HackNews](https://hackne.ws/), [Ars Technica](https://arstechnica.com/), [Geeks3D](https://www.geeks3d.com/), [BleepingComputer](https://www.bleepingcomputer.com/), [SingularityHub](https://singularityhub.com/), [Toms Hardware](https://www.tomshardware.com/), [Overclock3d](https://overclock3d.net/) or [Slashdot](https://slashdot.org/) - Tech News
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
 * [Liliputing](https://liliputing.com/) - Linux Mobile News
-* [BestHackerNews](http://besthackernews.herokuapp.com/) or [YCombinator](https://news.ycombinator.com/) / [Mobile](https://hackerwebapp.com/) - Hacker News
+* [BestHackerNews](http://besthackernews.herokuapp.com/), [hckrnws](https://www.hckrnws.com/) or [YCombinator](https://news.ycombinator.com/) / [Mobile](https://hackerwebapp.com/) - Hacker News
 * [Latest Privacy](https://latestprivacy.org/), [Talos Blog](https://blog.talosintelligence.com/), [IT Security Guru](https://www.itsecurityguru.org/), [ThreatPost](https://threatpost.com/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - Privacy / Security News
 * [Netblocks](https://netblocks.org/) - Censorship News
 * [CBM](https://comicbookmovie.com/) - Comic, Movie & TV News
@@ -640,7 +641,7 @@
 * [MFA](https://www.mfa.gov.cn/eng/) - Ministry of Foreign Affairs of the People's Republic of China
 * [Legislation.gov](https://www.legislation.gov.uk/) - British Law News
 * [RT News](https://t.me/rtnews) - Russian News
-* [SciURLs](https://sciurls.com/), [NewScientist](https://www.newscientist.com/), [Nature.com](https://www.nature.com/), [Science.org](https://www.science.org/), [PopSci](https://www.popsci.com/), [Useful Science](https://usefulscience.org/) or [LiveScience](https://livescience.com/) - Science News
+* [SciURLs](https://sciurls.com/), [NewScientist](https://www.newscientist.com/), [Nature.com](https://www.nature.com/), [Science.org](https://www.science.org/), [PopSci](https://www.popsci.com/), [Useful Science](https://usefulscience.org/), [ScienceDaily](https://www.sciencedaily.com/) or [LiveScience](https://livescience.com/) - Science News
 * [MathURLs](https://mathurls.com/) - Math News
 * [DevURLs](https://devurls.com/) - Developer News
 * [TuxURLs](https://tuxurls.com/) - Linux News
@@ -1156,7 +1157,7 @@
 * [Mute Tab](https://mybrowseraddon.com/mute-tab.html) - Easily Mute All Tabs
 * [Web-Scrobbler](https://web-scrobbler.com/) - Scrobble with Last.fm, Libre.fm, ect.
 * [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Wii Shop Music on Shopping Sites
-* [Form History Control](https://stephanmahieu.github.io/fhc-home/) or [Simple Form Fill](https://github.com/sblask/webextension-simple-form-fill) - Formfiller Manager 
+* [Form History Control](https://stephanmahieu.github.io/fhc-home/), [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) or [Simple Form Fill](https://github.com/sblask/webextension-simple-form-fill) - Formfiller Managers
 * [Fake Data](https://www.fakedata.pro/) - Fill Forms With Fake Data
 * [History Master](https://github.com/jiacai2050/history-master) - Vizualize & Sync Browser History 
 * [xBrowserSync](https://www.xbrowsersync.org/) - Browser Syncing 
