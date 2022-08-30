@@ -221,6 +221,7 @@
 * [Bashly](https://bashly.dannyb.co/) - Bash CLI Framework
 * [dunst](https://dunst-project.org/) - Customizable Notification Daemon / [GitHub](https://github.com/dunst-project/dunst)
 * [Autokey](https://github.com/autokey/autokey) - Linux Automation Utility
+* [Crontab Generator](https://crontab-generator.org/) - Generate Crontab Syntax
 * [create-autorun](https://github.com/OneCDOnly/create-autorun) - Create QNAP NAS Autorun Environment
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
 * [Ghostwriter](http://wereturtle.github.io/ghostwriter/) or [Remarkable](http://remarkableapp.github.io/) - Markdown Editor
