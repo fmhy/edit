@@ -137,7 +137,6 @@
 # ► Chinese 
 
 * [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - Chinese Site / Tool Index
-* [sejie6](https://sejie6.buzz/) - Chinese Site / Tool Index / NSFW
 * [jialezi](https://blog.jialezi.net/) - Chinese Tutorials
 * [Kaiheila](https://www.kaiheila.cn/) - Chinese Discord
 * [Diaosi Forum](https://assbbs.com/) or [WangChao](https://www.wangchao.info/) - Piracy Discussion
