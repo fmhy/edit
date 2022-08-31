@@ -3040,9 +3040,9 @@ Good for finding classic, obscure & short films.
 
 #### Youtube Android Apps
 
+* **[Latest ReVanced](https://github.com/Lostvale0/latest-revanced)** or [ReVanced](https://forum.mobilism.org/viewtopic.php?f=429&t=4858677)
 * **[Vanced Manager](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_vanced_manager)**
 * [Vanced Mirrors](https://mirror.codebucket.de/vanced/api/) / [2](https://vanced.esherloon.com/) / [3](https://github.com/cuynu/ytvanced) / [4](https://github.com/jinoo2005609/VancedManager) / [5](https://github.com/inotia00/VancedManager_v2) / [6](https://github.com/inotia00/VancedManager) / [7](https://t.me/vanced_mod_archive)
-* [ReVanced](https://forum.mobilism.org/viewtopic.php?f=429&t=4858677)
 * [AfterVanced](https://www.reddit.com/r/AfterVanced/)
 * [Skytube](https://skytube-app.com/) / [GitHub](https://github.com/SkyTubeTeam/SkyTube/)
 * [NewPipe](https://newpipe.net/)
