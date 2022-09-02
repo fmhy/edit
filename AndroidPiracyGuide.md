@@ -28,7 +28,6 @@
 * [Slide](https://github.com/ccrama/Slide) / [2](https://f-droid.org/en/packages/me.ccrama.redditslide/), [Redditoria](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria), [RedReader](https://github.com/QuantumBadger/RedReader), [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_IN&gl=US) / [2](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/), [Boost](https://boostforreddit.com/) or [Stealth](https://f-droid.org/packages/com.cosmos.unreddit/) / [2](https://gitlab.com/cosmosapps/stealth) - Ad Free Reddit Client
 * [Xtra](https://github.com/crackededed/Xtra), [TwitchMod](https://t.me/pubTw) or [Twire](https://f-droid.org/packages/com.perflyst.twire/) - Ad Free Twitch App
 * [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) - Remove Sponsored Telegram Messages
-* [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) or [TV Bro](https://play.google.com/store/apps/details?id=com.phlox.tvwebbrowser) - Ad-Free Android TV Browsers
 
 ***
 
@@ -777,6 +776,7 @@
 * **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Addons](https://github.com/danamag/stremio-addons-list/blob/main/README.md) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * **[Kodi](https://kodi.tv/)** - /r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) / [Real-Debrid](https://real-debrid.com/)
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - Ad-Free YouTube on Android
+* [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) or [TV Bro](https://play.google.com/store/apps/details?id=com.phlox.tvwebbrowser) - Ad-Free Android TV Browsers
 * [Movie HD](https://moviehdapkdownload.com/moviehd-apk/) - Movies / TV / Chromecast
 * [Arthemis](https://app.arthemis.xyz/) - Movies / TV / Anime
 * [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - Movies / TV / Anime 
