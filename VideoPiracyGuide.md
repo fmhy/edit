@@ -74,7 +74,6 @@
 * [162.12.215.254](http://162.12.215.254/) - Movies
 * [aflaam](https://aflaam.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Tainio-Mania](https://tainio-mania.online/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [YesMovies.sh](https://yesmovies.sh/) - Movie / TV / Anime 
 * [Ling.online](https://ling.online/en/videos/films/) - Movies / TV
 * [MKVKing](https://111.90.158.128/) - Movies / TV
 * [Flixtor](https://flixtor.to) or [Filme21](https://filme21.com/) - Movies / TV / Movies Older Than 6 Months For Premium Only
