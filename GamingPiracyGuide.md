@@ -19,7 +19,7 @@
 * **[SteamRIP](https://steamrip.com/)** - [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
 * **[DyR0t(-_-t)'s Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dyr0t.28-_-t)** 
 * **[CrackHub](https://crackhub.site/)** - [Discord](https://discord.gg/T669D6weqt) / [Revolt](https://cracksupport.divolt.xyz/) / [RSS](https://scene.crackhub.site/category/iso/rss)
-* **[GamesDrive](https://gamesdrive.net/)** - [Discord](https://discord.gg/RZ274U7Ewy) / [Revolt](https://gamesdrive.divolt.xyz/)
+* **[GamesDrive](https://gamesdrive.net/)** - [Discord](hhttps://discord.gg/wgR7amDS) / [Divolt](https://gamesdrive.divolt.xyz/)
 * **[DODI](http://dodi-repacks.site/)** - [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
 * **[ScOOter Repacks](https://scooter-repacks.site/)** - [Discord](https://discord.gg/BWKyN8SgvM)
 * **[GoG Games](https://gog-games.com/)**
