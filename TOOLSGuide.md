@@ -1206,7 +1206,7 @@
 * [displunger](https://gitlab.com/derpystuff/displunger) - Run Old Versions of Discord
 * [DevilNo](https://docs.google.com/spreadsheets/d/1hsSigFjyTaTnvB5XS6ot-msCZS5DR4VWtiD5g1ebH8c/edit?usp=sharing) - Alternative DevilBro Plugins
 * [Acrylic](https://github.com/xirreal/Acrylic) - Glass Theme
-* [WinClassic(https://github.com/SlippingGitty/WinClassic) - Classic Windows Theme
+* [WinClassic](https://github.com/SlippingGitty/WinClassic) - Classic Windows Theme
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
 * [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - Use Discord Emojis without Nitro 
 * [Slackmoji](https://github.com/seanprashad/slackmoji), [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis), [NitroEmoji](https://github.com/D3JF/NitroEmoji) or [emoji.gg](https://emoji.gg/) - Discord Emojis
