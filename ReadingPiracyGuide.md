@@ -360,10 +360,10 @@
 * [Red Texts](https://redtexts.org/) - Communism
 * [libcom](https://libcom.org/library) - Libertarian Communism 
 * [Library of Liberty](https://oll.libertyfund.org/) - Liberty / Free Market
-* [Legal Mises Institute](https://mises.org/) - Books / Audio books / Libertarianism 
+* [Legal Mises Institute](https://mises.org/) - Books / Audiobooks / Libertarianism 
 * [Third World Traveler](https://thirdworldtraveler.com/) - Human Rights / Conspiracies / Anti-War
 * [China-Dictatorship](https://github.com/cirosantilli/china-dictatorship) - Anti-Chinese Authoritarianism
-* [Rookie Road]( https://www.rookieroad.com/) - Sports Guides
+* [Rookie Road]( https://www.rookieroad.com/) - Sport Guides
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
 
 ***
