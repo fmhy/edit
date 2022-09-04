@@ -178,6 +178,7 @@
 * [LyricsTranslate](https://lyricstranslate.com/) - Lyric Translator
 * [LingoJam](https://lingojam.com/) - Create Translator
 * [Translator++](https://dreamsavior.net/translator-the-introduction/) - Automatic Translator / Editor
+* [Translate Large PDFs](https://rentry.co/97nqn) - Large PDF Translation Guide
 * [Poedit](https://poedit.net/) - Translation Editor
 * [OmegaT](https://omegat.org/) - Translation Memory Tool
 * [TranslateImages](https://translateimages.site/) - Translate Image Text
