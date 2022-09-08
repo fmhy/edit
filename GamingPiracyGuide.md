@@ -31,6 +31,7 @@
 * [Torrminatorr](https://forum.torrminatorr.com/)
 * [KaOsKrew](https://www.kaoskrew.org/)
 * [Crohasit](https://crohasit.net/)
+* [NexusGames](https://nexusgames.to/) - [Discord](https://discord.gg/8YXGgy4DJj)
 * [Le Fishe Repacks](https://discord.gg/W3MfGDXhAS)
 * [ElAmigos](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
 * [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
@@ -104,7 +105,6 @@
 * **[Tuttop](https://tuttop.com/)** 
 * [Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f and type "games" or "roms"
 * [KaOsKrew](https://www.kaoskrew.org/)
-* [NexusGames](https://nexusgames.to/) - [Discord](https://discord.gg/8YXGgy4DJj)
 * [CroTorrents](https://crotorrents.com/)
 * [GamesTorrents](https://www.gamestorrents.nu/)
 * [Free GoG PC Games](https://freegogpcgames.com/)
