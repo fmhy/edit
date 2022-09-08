@@ -385,11 +385,11 @@
 
 ## ▷ Drama Streaming
 
+* **[DramaCool](https://www5.dramacool.sk/)**, [dramacool9](https://www.dramacool9.co/) or [WatchAsian](https://watchasian.pe/) - TV / Movies
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming) 
 * [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
 * [KissAsian](https://kissasian.li/), [2](https://kissasian.ac/), [3](https://kissasian.es/), [4](https://kissasian.pe/) - TV
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
-* [DramaCool](https://www5.dramacool.sk/), [dramacool9](https://www.dramacool9.co/) or [WatchAsian](https://watchasian.pe/) - TV / Movies
 * [DramaDay](https://dramaday.net/) - TV 
 * [icdrama](http://www1.hkdrama.to/) - TV / Movies 
 * [FastDrama](http://fdrama.net/) - TV / Movies
