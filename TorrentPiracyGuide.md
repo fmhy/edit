@@ -202,6 +202,7 @@
 
 # ► Tracker Invites
 
+* **[Private Trackers Guide](https://wiki.installgentoo.com/wiki/Private_trackers)** 
 * [TrackerStatus](https://trackerstatus.info/) - Tracker Status Updates
 * [Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated) - Warez / Scene Site Index
 * [/r/OpenSignups](https://reddit.com/r/OpenSignups)
