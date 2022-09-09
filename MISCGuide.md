@@ -243,7 +243,7 @@
 * **[Iceberg Charts](https://icebergcharts.com/)** - Explore Obscure Topics / [/r/IcebergCharts](https://www.reddit.com/r/IcebergCharts/)
 * **[/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/wiki/listofsubreddits/)** - List of Subreddits
 * **[Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - List of Multireddits
-* **[TheOnion](https://theonion.com/)** - Fake New Articles 
+* **[TheOnion](https://theonion.com/)** - Fake News Articles 
 * **[r.sine.com](https://r.sine.com/index)**, [Pretty Flix](https://cvines528.github.io/Pretty-Flix/) or [Cameron.Red](https://cameron.red/imgur/) - Random Images
 * **[Random Comic Generator 3.0](https://explosm.net/rcg)** - Explosm Random Comic Generator
 * **[Talk Obama To Me](http://talkobamato.me/)** - Make Obama Say Stuff
