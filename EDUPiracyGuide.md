@@ -247,7 +247,6 @@
 * [Paid Courses for Free](https://paidcoursesforfree.com/) - Udemy Courses 
 * [Online Free Course](https://www.onlinefreecourse.net/) - Udemy Courses   
 * [Giga Course](https://gigacourse.com/) - Udemy Courses 
-* [1TB Art Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_1tb_art_courses) - Art Courses
 * [Pimp My Money](https://pimpmymoney.net/) - Digital Marketing Courses 
 
 ## ▷ Documentaries
