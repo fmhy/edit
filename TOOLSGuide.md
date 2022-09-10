@@ -1310,7 +1310,7 @@
 * [Displace](https://discord.gg/6zEbZeg) or [OwnersHub](https://ownershub.xyz/) - Discord Community Management Chat
 * [Discordia-Development Wiki](https://github.com/Discordia-Development/wiki) - Discord Moderation Wiki
 * [Discord Moderator Academy](https://discord.com/moderation) - Discord Moderator Guide / [Exam](https://discord.com/moderation/exam)
-* [Hammertime](https://hammertime.djdavid98.art/, [Discord Timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Generate Timestamps
+* [Hammertime](https://hammertime.djdavid98.art/), [Discord Timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Generate Timestamps
 * [SnowStamp](https://pixelatomy.com/snow-stamp/) - Convert Discord Snowflakes to Timestamps
 * [ddpe](https://ddpe.androz2091.fr/) - Discord Data Package Explorer / [GitHub](https://github.com/Androz2091/discord-data-package-explorer)
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the JS files
