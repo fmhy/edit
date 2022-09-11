@@ -1378,12 +1378,11 @@
 * **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download Audio from YouTube
 * **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** or [yt dislikes viewer](https://github.com/pgamerx/yt-dislikes-viewer) - View YouTube Dislikes / [Discord](https://discord.com/invite/mYnESY4Md5)
 * **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)
-* [Invidious](https://invidious.io/) / [GitHub](https://github.com/iv-org/invidious) or [PSTube](https://github.com/prateekmedia/pstube) - Ad Free YouTube Client
+* [YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends) - Ad-Free YouTube Frontends / Clients
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge) - Delete All YouTube Spam Comments
 * [YouTube Encoding Guide](https://support.google.com/youtube/answer/1722171) - Recommended YouTube Encoding Settings
 * [TubeSync](https://github.com/meeb/tubesync) - Sync YouTube Channels / Playlists to a Media Server
-* [YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends) 
 * [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube), [ImprovedTube](http://improvedtube.com/), [Iridium](https://github.com/ParticleCore/Iridium), [Improve YouTube!](https://github.com/code-for-charity/YouTube-Extension) or [Magic Actions for YouTube](https://www.mycinema.pro/) - YouTube Enhancement Addons 
 * [Focused YouTube](https://github.com/makaroni4/focused_youtube) - Minimalist YouTube
 * [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux) or [Classic YouTube Design](https://github.com/Cicero-Interactive/Classic-YouTube-Design/) - Restore Classic YouTube Layout 
