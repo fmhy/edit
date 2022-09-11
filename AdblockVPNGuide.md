@@ -13,7 +13,7 @@
 
 * **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/), [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) or [AmIUnique](https://amiunique.org/fp) - Adblocking Tests
 * **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Block Spotify Ads
-* [Invidious](https://invidious.io/) / [Instances](https://api.invidious.io/) or [PSTube](https://github.com/prateekmedia/pstube) - Ad-Free YouTube Clients
+* [YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends) - Ad-Free YouTube Frontends / Clients
 * [Simple Opt Out](https://simpleoptout.com/) - Turn off Targeted Ads
 
 ***
@@ -400,7 +400,6 @@
 * [Extension Fingerprints](https://github.com/z0ccc/extension-fingerprints) - Extension Fingerprinting Test
 * [dataskydd](https://webbkoll.dataskydd.net/) or [Blacklight](https://themarkup.org/blacklight) - Check what data-protecting measures a site has taken
 * [uBO-Scope](https://github.com/gorhill/uBO-Scope) - Measure 3rd Party Exposure 
-* [YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends) 
 * [Wikiless](https://wikiless.org/) - Wikipedia Frontend / [Source](https://codeberg.org/orenom/Wikiless)
 * [Nitter](https://nitter.net/) or [NitterDV](https://nitter.usethetools.org/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
 * [Reddit Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_frontends)
