@@ -1224,7 +1224,7 @@
 * **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
 * [Mobile Read](https://www.mobileread.com/) - EBook / Reader Discussion Forum
 * [Ubooquity](http://vaemendis.net/ubooquity/) - Manager / Reader / PC / Android / iOS
-* [](https://github.com/Librum-Reader/Librum) - Ebook Reader / PC / Android / iOS / Linux / Mac
+* [Librum](https://github.com/Librum-Reader/Librum) - Ebook Reader / PC / Android / iOS / Linux / Mac
 * [KoReader](http://koreader.rocks/) - Ebook Reader / PC / Android
 * [FBReader](https://fbreader.org/) - Ebook Reader / PC / Android / iOS
 * [Koodo](https://koodo.960960.xyz/) - Ebook Reader / PC / Mac / Linux / [GitHub](https://github.com/troyeguo/koodo-reader)
