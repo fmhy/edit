@@ -51,7 +51,7 @@
 * [123MoviesFree](https://123moviesfree.net/) - Movies / TV / Anime
 * [PressPlay](https://www.pressplay.top/) - Movies / TV
 * [StreamLord](http://www.streamlord.com/) - Movies / TV
-* [](https://uniquestream.net/) - Movies / TV
+* [UniqueStream](https://uniquestream.net/) - Movies / TV
 * [Trailers.to](https://trailers.to/) - Movies / TV / [Bypass Quota](https://openvideofs.github.io/)
 * [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://i.imgur.com/Ij8muns.mp4)
 * [9PM](https://9pm.to/) - Movies / TV
