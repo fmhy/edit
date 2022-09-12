@@ -297,10 +297,10 @@
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
 * [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) / [2](https://beta.quran.com/en) - Quran Translation
 * [TheIslam360](https://theislam360.com/) - Islamic Research App 
-* [Muslim Scholars](http://muslimscholars.info/) - Muslim Scholar Database 
 * [English Torah](http://englishtorah.com/) - Torah Translation
 * [Halakhah](https://www.halakhah.com/) - Talmud Translation
 * [Targum](http://targum.info/targumic-texts/) - Targum Translation
+* [Muslim Scholars](http://muslimscholars.info/) - Muslim Scholar Database 
 * [2Muslims](https://www.2muslims.com/) or [IslamHouse](https://islamhouse.com/en) - Muslim Resources
 * [Five Prayers](https://github.com/Five-Prayers/five-prayers-android) - Muslim Tools App
 * [Questions on Islam](https://questionsonislam.com/) - Muslim Q&A
