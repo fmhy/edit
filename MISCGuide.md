@@ -11,7 +11,6 @@
 
 # ► Indexes
 
-* **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/index)**, [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/) - Piracy Index
 * **[/r/PiratedGames Megathread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Gaming Piracy Site Index / [Discord](https://discord.gg/dZWwhUy)
 * **[/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread)** - Software Piracy Site Index
 * **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** or [/r/Stumbledon](https://www.reddit.com/r/Stumbledon/) - Helpful / Fun Sites
@@ -35,6 +34,7 @@
 * [Index.Normie](https://index.normie.cc/) - Site / Tool Index
 * [Neverland](http://www.neverland.ws/index.html) - Piracy Index / [Links](https://rentry.co/oo9ri) 
 * [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - Piracy Index
+* [/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/index), [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/) - Piracy Index
 * [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/), [TopMillion](http://www.topmillion.net/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
 * [10 Words](https://discover.10words.io/) - App / Tool Discovery
 * [pilssken](https://pilssken.neocities.org/warez/) - Piracy Index 
