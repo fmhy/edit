@@ -705,7 +705,7 @@ Simulator
 * [ITExamAnswers.net](https://www.itexamanswers.net/) - IT Exam Answers
 * [Oak National Academy](https://teachers.thenational.academy/), [OLI](https://oli.cmu.edu/independent-learner-courses/) or [Runestone Interactive](https://runestone.academy/) - Lessons
 * [Quizlet](https://quizlet.com/) - Quizzes / Study Material
-* [guIHelp](https://discord.gg/rgF9jY8CpH) - Bartleby, Quizlet, Coursehero & Scribd Bot
+* [guIHelp](https://discord.gg/rgF9jY8CpH), [2](https://discord.gg/9s9ZpqwP) - Bartleby, Quizlet, Coursehero & Scribd Bot
 * [Wikiversity](https://www.wikiversity.org/) or [Learnamic](https://www.learnamic.com/) - Learning Resources, Guides, Quizzes, Tools & More
 * [TurtleDiary](https://www.turtlediary.com/) - Quizzes / Lessons / Games
 * [SoftSchools](https://www.softschools.com/) - Worksheets / Games / Quizzes
