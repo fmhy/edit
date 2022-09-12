@@ -245,17 +245,12 @@
 * **[Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - List of Multireddits
 * **[TheOnion](https://theonion.com/)** - Fake News Articles 
 * **[r.sine.com](https://r.sine.com/index)**, [Pretty Flix](https://cvines528.github.io/Pretty-Flix/) or [Cameron.Red](https://cameron.red/imgur/) - Random Images
-* **[Random Comic Generator 3.0](https://explosm.net/rcg)** - Explosm Random Comic Generator
-* **[Talk Obama To Me](http://talkobamato.me/)** - Make Obama Say Stuff
-* **[Objection!](https://objection.lol/)** - Ace Attorney Objecting on Your Behalf 
 * **[sandspiel.club](https://sandspiel.club/)** - Falling Sand Physics Sandbox 
 * **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_conversational_chatbots)** - Chat with AI
 * **[Live Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)** - Watch Live Webcams
-* **[HeyFromTheFuture](https://heyfromthefuture.com/)** - What People Wish they knew at your Age
 * **[LMGTFY](http://www.lmgtfy.com/)**, [LetMeGoogleThat](https://letmegooglethat.com/) or [GIYBF](http://giybf.com/) - Remind People that Google Exists 
 * **[Fucking Homepage](https://fuckinghomepage.com/)** - Daily Interesting Stuff Homepage
 * **[The GIF Pronunciation Page](http://www.olsenhome.com/gif/)** - How to Pronouce "GIF"
-* **[PointerPointer](https://pointerpointer.com/)** - Get Your Pointer Pointed At 
 * **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - Realistic-Looking Fake Versions of Things 
 * [GIFs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_gif_tools) - View / Download GIFs
 * [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [ImgFlip](https://imgflip.com/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/, [IWasteSoMuchTime](https://www.iwastesomuchtime.com/), [iFunny](https://ifunny.co/), [Imageboard Scraper](https://nik.bot.nu/), [KongouCheats](https://kongoucheats.com/) or [Wimp.com](https://www.wimp.com/) - Images, Videos, Memes & GIFs / Some NSFW
@@ -268,6 +263,9 @@
 * [IndieGameBooru](https://indiegame.booru.org/) - Indie Game Image Booru
 * [Random Screenshot](https://randomscreenshot.com/) or [Random Prnt.sc](https://chrishannah.me/prntsc/) - Random Screenshots
 * [Archillect](https://archillect.com/archive) - Image Posting Bot
+* [Random Comic Generator 3.0](https://explosm.net/rcg) - Explosm Random Comic Generator
+* [Talk Obama To Me](http://talkobamato.me/) - Make Obama Say Stuff
+* [Objection!](https://objection.lol/) - Ace Attorney Objecting on Your Behalf 
 * [Listography](https://listography.com/), [Ranker](https://www.ranker.com/), [TheTopsTens](https://www.thetoptens.com/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
 * [DreamWidth](https://www.dreamwidth.org/) - User-Made Images & Stories
 * [Posting.Cool](https://posting.cool/) - Random Topic Forum
@@ -278,13 +276,15 @@
 * [Fandom](https://www.fandom.com/) - Media Wikis / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com)
 * [Conspiracy Theory Iceberg](https://ipfs.io/ipfs/QmWszAAzXjaD6hQZXbfhF9qBFWpnPwZVWU131HVf42WZej) - Conspiracies / Occult / Mythology / [Video Playlist](https://www.youtube.com/watch?v=7I2KJL-gJPU&list=PLfeWBGty_481haNoS_ozOVdIyOpyXMjUC)
 * [Kamogo](https://www.kamogo.com/faq/) - Useless Web Apps
+* [PointerPointer](https://pointerpointer.com/) - Get Your Pointer Pointed At 
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - Turn Screen into Strobe / Mood Light
 * [Marijuana Subs](https://www.reddit.com/r/trees/wiki/entreddits_social) - Marijuana Related Subreddits
 * [Drinking Game Zone](https://drinkinggamezone.com/) - Drinking Games Encyclopedia 
 * [MakeMyCocktail](http://makemycocktail.com/) - Create Custom Cocktails
 * [Drinkify](http://drinkify.org/) - Picks Drinks Based on Songs
 * [Things to Do](https://randomthingstodo.com/), [TheZen](https://thezen.zone/) or [bored.solutions](https://bored.solutions/) - Activity Suggestions
-* [Human Benchmark](https://humanbenchmark.com/) - Brain Games & Cognitive Tests 
+* [Human Benchmark](https://humanbenchmark.com/) - Brain Games & Cognitive Tests
+* [HeyFromTheFuture](https://heyfromthefuture.com/) - What People Wish they knew at your Age
 * [David.li](http://david.li/) - Physics Games
 * [DriveMeInsane](http://drivemeinsane.com/) - Control a Home Automation System
 * [Earth Reviews](https://neal.fun/earth-reviews/) - Help Improve the Simulation
