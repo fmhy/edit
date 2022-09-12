@@ -179,7 +179,7 @@
 
 * **[/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread)** - Software Piracy Megathread
 * **[Software CSE](https://cse.google.com/cse?cx=ca4c91f63fa53d51c)** / [CSE 2](https://cse.google.com/cse?cx=ec7d33ef358ae1b65) - Multi-Site Search
-* **[FileCR](https://filecr.com/en/)** - Software / Books / [Bypass Assistant](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass)
+* **[FileCR](https://filecr.com/en/)** - Software / Books / [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass)
 * **[Mobilism](https://forum.mobilism.org/)** - Software / Books / [Mobile App](https://forum.mobilism.org/app/)
 * **[soft98](https://soft98.ir/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * **[nsane.down](https://www.nsaneforums.com/)**
