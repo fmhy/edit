@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/HAtrsz3.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/Fs94a4g.png)** - For mobile users
 
 ***
 ***
@@ -721,10 +721,6 @@
 * [GamesReplay](https://www.gamesreplay.net/) - Retro Roms
 * [TheDubber](http://www.thedubber.altervista.org/) - Retroware Archive
 * [XDCC Mule](https://www.xdccmule.org/) - IRC Download Search
-
-## ▷ Torrenting
-
-* [ilCorSaRoNeRo](https://ilcorsaronero.fun/) - Video / Audio / Software / Games / Roms / Books / Audiobooks
 
 ## ▷ Streaming
 
