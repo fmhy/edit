@@ -100,7 +100,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://www.faganfinder.com/
 * http://www.goofram.com/
 * https://www.izito.com/
-* https://www.hugedomains.com/domain_profile.cfm?d=metabear&e=com
 * http://www.myallsearch.com/
 * https://www.zapmeta.com/
 * https://biznar.com/biznar/desktop/en/search.html
