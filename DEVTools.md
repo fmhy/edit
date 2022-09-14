@@ -271,7 +271,7 @@
 * [Devtron](https://devtron.ai/) - Kubernetes Tool Integration
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - Microservice Architecture Resource Index
 * [LibreLogos](https://www.librelogos.org/) or [LogoTaco](https://www.logotaco.com/) - Project Logos
-* [Lorem.space](https://lorem.space/) - Placeholder Images
+* [Lorem.space](https://lorem.space/), [Placeem](https://placem.at/), [PlaceHolder](https://placeholder.pics/), [PicSum](https://picsum.photos/) or [FakeIMG](https://fakeimg.pl/) - Site Placeholder Images
 * [Rejoiner](https://rejoiner.io/) - Uniform GraphQL Schema from gRPC Microservices / [GitHub](https://github.com/google/rejoiner)
 * [CFDocs](https://cfdocs.org/) - CFML Documentation Reference
 * [Asynchronous Messaging](https://github.com/clemensv/messaging) - Asynchronous Messaging Resources
@@ -689,7 +689,7 @@ Automated Incident Response and Forensics Framework
 * [Redex](https://fbredex.com/) - Android Bytecode Optimizer
 * [Capturable](https://github.com/PatilShreyas/Capturable) - Transform Composable Content to Bitmap Images 
 * [Firetable](https://github.com/Antler-VC/firetable) - View Firebase / Firestore in Excel 
-* [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Hishoot2i](https://github.com/hishoot2i/Hishoot2i) / [Templates](https://t.me/hishoot2imaterial), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/) or [LS Graphics](https://www.ls.graphics/) - App & Site Mockups
+* [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Hishoot2i](https://github.com/hishoot2i/Hishoot2i) / [Templates](https://t.me/hishoot2imaterial), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/) or [LS Graphics](https://www.ls.graphics/) - App & Site Mockups
 * [Mockoops](https://github.com/Just-Moh-it/Mockoops) - Animated Mockups
 * [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
 * [UIGarage](https://uigarage.net/), [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui), [UXArchive](https://uxarchive.com/), [Mobbin](https://mobbin.design/), [UISources](https://www.uisources.com/) or [LovelyUI](https://lovelyui.com/) - Mobile UI Designs
