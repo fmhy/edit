@@ -291,7 +291,7 @@
 # ► Download Images
 
 * **[Image Download Site Index](https://start.me/p/jj0JAp/designer)** - Download Images, Illustrations, Icons & more
-* **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - Download Stock Photos / Vectors
+* **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - Download Stock Photos / Vectors / Illustrations
 * **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)** - Download Icons
 * **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)** - Search by Image
 * [GFX Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources) - Graphic Design Resources
@@ -327,7 +327,7 @@
 * [Worldvectorlogo](https://worldvectorlogo.com/), [PNGGrid](https://pnggrid.com/), [Logos & Badges Bundle](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_logos_.26amp.3B_badges_bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [logospire](http://logospire.com/), [logotalkz](http://www.logotalkz.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logotouse](https://www.logotouse.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles
 * [Replacement Sky](https://replacement-sky.com/) - Skies for Photoshop
-* [AmbientCG](https://ambientcg.com/), [TextureTown](https://textures.neocities.org/), [Lost and Taken](https://lostandtaken.com/), [3D textures](https://icons8.com/l/3d-textures/), [Textureking](https://www.textureking.com/), [Texture Labs](https://texturelabs.org/), [Transparent Textures](https://www.transparenttextures.com/), [Texture Club](https://www.sketchuptextureclub.com/) or [Texture Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_texture_collection) - Download Textures
+* [AmbientCG](https://ambientcg.com/), [TextureTown](https://textures.neocities.org/), [Lost and Taken](https://lostandtaken.com/), [3D textures](https://icons8.com/l/3d-textures/), [Textureking](https://www.textureking.com/), [Texture Labs](https://texturelabs.org/), [Transparent Textures](https://www.transparenttextures.com/), [Texture Club](https://www.sketchuptextureclub.com/), [TexturesForFree](https://texturesforfree.com/) or [Texture Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_texture_collection) - Download Textures
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) or [Pattern Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pattern_collection) - Download Patterns
 * [Watercolor Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_watercolor_collection) - Download Watercolor Pictures
 * [Google Photos Plus](https://github.com/anamritraj/google-photos-plus) - Download Google Photos in Better Quality
