@@ -157,7 +157,8 @@
 
 # ► Free Stuff
 
-* [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8 )
+* **[Give & Away](https://discord.gg/b4uTmX5PVq)** - Giveaway Server
+* [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
 * [Giveaway Radar](https://giveawayradar.weebly.com/) - Software
 * [Tick Coupon](https://giveaway.tickcoupon.com/windows-giveaway/) - Software
 * [Techno360](https://www.techno360.in/category/free-stuff/) - Software
