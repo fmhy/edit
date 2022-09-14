@@ -91,7 +91,7 @@
 * [Fawesome](https://fawesome.tv/) - Movies / TV
 * [LokLok](https://loklok.com/) - Movies / TV
 * [ARTE](https://www.arte.tv/en) - Movies / TV
-* [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / [Windscribes](https://windscribe.com/) free version works
+* [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required
 * [YouTube Movie Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)
 * [Amazon Free w/ Ads](https://www.amazon.com/free-ads/s?k=free+with+ads) - Movies / TV
 * [Free Netflix](https://rentry.co/Free-Netflix) - Free Netflix Method
