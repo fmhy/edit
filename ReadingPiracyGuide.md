@@ -613,6 +613,7 @@
 * [Semantic Scholar](https://www.semanticscholar.org/) - Scientific Paper Search 
 * [Connected Papers](https://www.connectedpapers.com/) or [LitMaps](https://app.litmaps.co/) - Find Connected Academic Papers 
 * [FreeFullPDF](https://freefullpdf.com/) - Science / Articles
+* [CiteSeerX](https://citeseerx.ist.psu.edu/index) - Science / Articles
 * [KUNDOC](https://coek.info/) - Science / Articles
 * [Papers We Love](https://paperswelove.org/) - Science / Articles / [GitHub](https://github.com/papers-we-love/papers-we-love)
 * [Awesome Detection Transformer](https://github.com/IDEACVR/awesome-detection-transformer) - Transformer for Detection and Segmentation Papers
