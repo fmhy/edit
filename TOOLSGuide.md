@@ -685,7 +685,9 @@
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
 * [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) or [OpenBB Terminal](https://openbb.co/) - Investment Research CLI
 * [Marketing / Trading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_marketing_.2F_trading_courses) - Marketing / Trading Courses
+* [BlockChain](https://www.blockchain.com/explorer) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
 * [protocol-reading-list](https://github.com/bryanhpchiang/protocol-reading-list) - Crypto Protocols
+* [WalletExplorer](https://www.walletexplorer.com/) or [OXT](https://oxt.me/) - Bitcoin Block Explorers
 * [Wasabi](https://wasabiwallet.io/) - FOSS Bitcoin Wallet
 
 ***
@@ -999,6 +1001,7 @@
 * [carVertical](https://www.carvertical.com/) - Vehicle History & VIN Search
 * [NHTSA](https://vpic.nhtsa.dot.gov/api/) - Vehicle Registration Database
 * [PartSouq](https://www.partsouq.com/) - Auto Parts Search
+* [Justia](https://trademarks.justia.com/) - Trademark Search
 * [TMHunt](http://www.tmhunt.com/) - Clothing Trademark Search
 * [BrownBook](https://www.brownbook.net/) - Business Listing Search
 * [txtai](https://neuml.github.io/txtai/) - Build Semantic Search Apps
@@ -1111,9 +1114,9 @@
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown)
 * [Subreddit Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_subreddit_discovery) - Explore & Discover Subreddits
 * [/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all) - Explore Multireddits
-* [FMHY Curated Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits) - Multireddits curated by FMHY members
+* [Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)
 * [Pushshift Reddit Search](https://www.redditsearch.io/) / [2](https://redditsearch.io/), [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0) / [2](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30), [Redditle](https://redditle.com/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Reddit Search Engines
-* [Busca](https://github.com/afk-mcz/busca) - Search Current Tab on Reddit
+* [Busca](https://github.com/afk-mcz/busca) or [Mostly Harmless](https://kerrick.github.io/Mostly-Harmless/) - Search / Post Current Tab on Reddit
 * [KarmaDecay](http://karmadecay.com/) - Reddit Reverse Image Search 
 * [Reddit Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_alternatives) - Alternative Reddit Style Sites
 * [Simpleddit](http://www.simpleddit.com/), [Legere](https://www.microsoft.com/en-us/p/legere-for-reddit/9phjrvcskvjz), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/) or [Nuxtit](https://nuxtit.netlify.com/) - Alt Browsers / Web Clients
@@ -1332,7 +1335,7 @@
 * [borodutch.eth](https://borodutch.com/) - Telegram Tools
 * [Telegram Channels](https://telegramchannels.me/), [TG-ME](https://www.tg-me.com/), [ComBot Groups](https://combot.org/telegram/top/groups) or [Telegramic](https://telegramic.org/) - Telegram Channel Indexes
 * [Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_bots) - Telegram Bot Indexes
-* [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [gramxly](https://gramxly.com/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - Telegram Channel / Bot Search
+* [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [gramxly](https://gramxly.com/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html), [TDirectory](https://tdirectory.me/) or [TGStat](https://tgstat.com/search) - Telegram Channel / Bot Search
 * [ShellBot](https://github.com/MannyHackers/ShellBot), [EvaMaria](https://github.com/EvamariaTG/EvaMaria) - Multi-Purpose Telegram Bot
 * [VirusTotalAV_bot](https://t.me/VirusTotalAV_bot) - Telegram File Scanner
 * [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots) - Audio Download Bots
@@ -1635,6 +1638,7 @@ Twitch Stream Tracker
 * [ChatSilo](https://chatsilo.com/) - Mini Facebook Messenger CRM
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - Facebook Search Formulas 
 * [Graph.tips](https://graph.tips/beta/) - Advanced Facebook Search Tool
+* [WhoPostedWhat](https://whopostedwhat.com/) - Facebook Post Search
 * [Color Themes](https://chrome.google.com/webstore/detail/color-themes-for-facebook/oohbdcphbnpnoohnbddhcfplalanfbmm), [Coloreatuface](https://www.coloreatuface.com/), [FB.Zone](https://fb.zone/) or [Color Changer](https://chrome.google.com/webstore/detail/color-changer-for-faceboo/blfkmmfngackeejimehjkmendglnabnm) - Color Themes for Facebook
 * [Kill Fbclid](https://chrome.google.com/webstore/detail/kill-fbclid/jlmdkcaiejonohbmkgickmkgbpceokmn) or [Remove FBclid](https://chrome.google.com/webstore/detail/remove-fbclid-and-utm/ehkdoijaaigomfliimepliikhjkoipob) Removes fbclid and utm_ query parameters in URLs
 * [Greenface](https://greenface.site/) or [Delete All Messages](https://chrome.google.com/webstore/detail/delete-all-messages-on-fa/hdigpgnfpockednepfiinhdjebkmpicn) - Remove All Messages
@@ -1645,6 +1649,7 @@ Twitch Stream Tracker
 * [Album Downloader](https://chrome.google.com/webstore/detail/album-downloader-for-face/oallcdoceahndjmaalbicbcgpfnajgae) - Album Downloader for Facebook
 * [Birthday Calendar Exporter](https://github.com/zagushka/birthday-calendar-extractor) - Birthday Calendar Extractor for Facebook
 * [FriendFilter](https://friendfilter.io/) - Friend Filter for Facebook
+* [Lookup ID](https://lookup-id.com/) - Find Facebook ID
 
 ***
 
