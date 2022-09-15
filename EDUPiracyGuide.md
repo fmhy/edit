@@ -328,6 +328,7 @@
 * [Desmos](https://www.desmos.com/) - Graphing Calculator
 * [TI-Basic Developer](http://tibasicdev.wikidot.com/) - TI-Basic Info Repository
 * [fxSolver](https://www.fxsolver.com/), [Kalker](https://kalker.xyz/) / [GitHub](https://github.com/PaddiM8/kalker) or [The Engineering ToolBox](https://www.engineeringtoolbox.com/) - Engineering & Scientific Calculator
+* [SciDAVis ](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
 * [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
 * [Approach0](https://approach0.xyz/search/) - Math Formula Search 
 * [Online Math Tools](https://onlinemathtools.com/) - Multiple Math Tools
@@ -760,6 +761,7 @@ Simulator
 * [Eylenburg](https://eylenburg.github.io/) - Infographs, Maps & Papers
 * [GeoNames](https://www.geonames.org/) - Geography Name Database
 * [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/) or [Map Quiz](https://planemad.github.io/map-quiz/) - Geography Quizzes
+* [Geograph WorldWide](https://www.geograph.org/) - Worldwide Photographs
 * [Flaggr](https://flaggr.me/) - Country Flag Quiz
 * [The True Size](https://thetruesize.com/) - Compare Country Size 
 * [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
