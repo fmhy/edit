@@ -256,7 +256,8 @@
 * [FFXS](https://www.ffxs.info/) - Light-Novels
 * [Baozimh](https://www.baozimh.com/) - Webtoons
 * [Doujin Fiction Network](https://www.trxs.org/) or [Readfine](https://t.me/Readfine) / [Discussion](https://t.me/ReadfineChat) - FanFiction
-* [ishare.iask](https://ishare.iask.sina.com.cn/) - Documents  
+* [ishare.iask](https://ishare.iask.sina.com.cn/) - Documents
+* [Baidu](https://xueshu.baidu.com/) - Science Document Search
 * [555电影](https://www.o8tv.com/), [2](https://555dy1.com/) - Movies / TV / Anime / NSFW
 * [CText](https://ctext.org/), [ChineseNotes](http://chinesenotes.com/) or [Kanripo](https://www.kanripo.org/) - Chinese Historic Text Archive
 * [guoxue](http://www.guoxue.com/) - History / Journals
