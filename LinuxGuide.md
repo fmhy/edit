@@ -298,7 +298,8 @@
 * [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)  - Spotify Adblockers
 * [Anon-SMS](https://github.com/HACK3RY2J/Anon-SMS) - Send Anonymous SMS Messages
 * [Firejail](https://firejail.wordpress.com/) - Security Sandbox
-* [Bubblewrap](https://github.com/containers/bubblewrap) -  Unprivileged Sandboxing Tool 
+* [Bubblewrap](https://github.com/containers/bubblewrap) -  Unprivileged Sandboxing Tool
+* [GoogleTeller](https://github.com/berthubert/googerteller) - Google Tracking Notifications
 
 ***
 
