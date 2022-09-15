@@ -101,7 +101,7 @@
 * [WarezBook](https://www.warezbook.org/) - Video / Audio / Software / Games / Books 
 * [Warez-World](https://warez-world.org/) - Video / Audio / Games / Software / Android / Books / Magazines / NSFW
 * [FreshWAP](https://www.freshwap.us/), [2](https://freshwap.cc/) - Video / Audio / Software / Games / Android / Books / Magazines  
-* [nulled](https://nulled.org/) - Video / Audio / Software / Games / Books / Magazines 
+* [nulled](https://www.nulled.to/) - Video / Audio / Software / Games / Books / Magazines 
 * [ReleaseHive](https://releasehive.com/) - Video / Audio / Software / Games / Books / NSFW 
 * [WawaCity](https://www.wawacity.video/) - Video / Audio / Books / Magazines / Software / Android / Use AdBlocker
 * [2DDL](https://2ddl.it/) - Video / Audio / Software / Games / Books / Comics / Magazines 
