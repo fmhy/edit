@@ -215,7 +215,7 @@
 * [LoL Math](https://lolmath.net/) - League of Legends Build Calculator
 * [League of Graphs](https://www.leagueofgraphs.com/) - Champion Rankings
 * [LoL Counter](https://lolcounter.com/) - LoL Counter Picks 
-* [Rewind.lol](https://rewind.lol/) - League of Legends Match History
+* [Rewind.lol](https://rewind.lol/) or [LoLEcho](http://lolecho.com/) - League of Legends Match History
 * [Teemo](https://teemo.gg/) - LoL, TeamFight & Wild Rift Models
 * [Surrenderat20](https://www.surrenderat20.net/) - League of Legends News
 * [OP.GG](https://www.op.gg/) - League of Legends Leaderboards & Stats
