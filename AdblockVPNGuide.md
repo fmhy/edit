@@ -143,6 +143,7 @@
 * [Scamalytics](https://scamalytics.com/ip), [IPSpamList](http://www.ipspamlist.com/) or [IP Address Lookup](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/) - IP Address Check
 * Vulners - [Chrome](https://chrome.google.com/webstore/detail/vulners-web-scanner/dgdelbjijbkahooafjfnonijppnffhmd) / [Firefox](https://addons.mozilla.org/es/firefox/addon/vulners-web-scanner/) - Live Website Scanner
 * [SpyOffers](https://www.spyoffers.com/) - Affiliate Link Checker
+* [BitcoinWhosWho](https://www.bitcoinwhoswho.com/) - Bitcoin Address Scanner
 * [Virus Checker](https://add0n.com/virus-checker.html) - Virus Check for Downloads 
 * [Bad Websites](https://github.com/elbkr/bad-websites) - Phishing Site Index for Bots
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Bypass Ransomware Attacks
@@ -404,6 +405,7 @@
 * [Nitter](https://nitter.net/) or [NitterDV](https://nitter.usethetools.org/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
 * [Reddit Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_frontends)
 * [ProxiTok](https://proxitok.herokuapp.com/) - TikTok Frontend / [GitHub](https://github.com/pablouser1/ProxiTok)
+* [SimpleAmazon](https://amazon.simple-web.org/) - Amazon Frontend
 * [Cusdis](https://cusdis.com/) - Privacy-Focused Comment System / [GitHub](https://github.com/djyde/cusdis)
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Reddit / Twitter Auto Post Delete
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites 
