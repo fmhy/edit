@@ -774,6 +774,7 @@ Automated Incident Response and Forensics Framework
 * [HTML Reference](https://htmlreference.io/) - HTML Guide
 * [HTML Compressor](https://htmlcompressor.com/compressor/)
 * [HTML Notepad](https://html-notepad.com/) - HTML Editor
+* [HTML + CSS Extract](https://chrome.google.com/webstore/detail/html-%20-css-extract/bkahkocegdkgicmmfpkoeipjmjaeohfn) - HTML / CSS Extractor
 * [TryIt HTML](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro), [CodeTester](http://codetester.org/), [HTML-Online](https://html-online.com/editor/), [pell](https://jaredreich.com/pell/), [html.cafe](https://html.cafe/) or [jsTester](https://www.cs.iupui.edu/~ajharris/webprog/jsTester.html) - Online HTML Editors
 * [meml.ink](https://meml.ink/) - HTML Pastebin
 * [Broken Link Checker](https://github.com/stevenvachon/broken-link-checker) - Find Broken Links in HTML
