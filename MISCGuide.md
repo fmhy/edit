@@ -226,6 +226,7 @@
 * [PhoneDB](https://phonedb.net/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones & Prices
 * [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
 * [GPUDrops](https://gpudrops.com/) / [Discord](https://discord.gg/gpudrops), [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
+* [Craftie](https://www.craftle.app/) - Furniture Price Calculator
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
 * [DiaperGrid](https://diapergrid.com/) - Diaper Price Tracker
 * [WorldTaxiMeter](https://www.worldtaximeter.com/) - Taxi Fare Calculator
@@ -834,7 +835,7 @@
 * [Hevy](https://www.hevyapp.com/) or [FitHero](https://fithero.app/) - Workout Tracker
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
 * [GoldenCheetah](https://www.goldencheetah.org/) - Biking Tracker
-* [Wandermap](http://www.wandermap.net/) - Hiking Routes
+* [Wandermap](http://www.wandermap.net/) or [AllTrails](https://www.alltrails.com/) - Hiking Routes
 * [HikerHerd](https://www.hikerherd.com/) - Hiking Gear Weight Manager
 * [MapMyWalk](https://www.mapmywalk.com/) - Walking Tracker
 * [RunnerUp](https://github.com/jonasoreland/runnerup) - Run Tracker
@@ -906,7 +907,7 @@
 * [1940's.nyc](https://1940s.nyc/) - Explore 1940's New York 
 * [Snap Map](https://map.snapchat.com/) - Snap Chat Map
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
-* [U Meet Me Here!](https://www.umeetmehere.com/) - Find Closest Point Between Two Locations
+* [U Meet Me Here!](https://www.umeetmehere.com/) or [WhatIsHalfway](https://www.whatshalfway.com/) - Find Closest Point Between Two Locations
 * [Where Is This](https://www.where-is-this.com/) - Find Location of Place by Image
 * [Maps We Love](https://www.esri.com/en-us/maps-we-love/gallery), [CoolMaps](https://coolmaps.esri.com/#0), [SoGeografia](https://www.sogeografia.com.br/Mapas/) or [/r/MapPorn](https://reddit.com/r/MapPorn) - Multiple Maps 
 * [Map It Up](https://map-it-up.netlify.app/) - HQ Printable Maps
@@ -983,17 +984,19 @@
 * [MetroOrbits](http://mic-ro.com/metro/index.html) - Subway Maps & Data
 * [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
 * [Cost of Living](https://www.numbeo.com/cost-of-living/) or [MoveMap](https://www.movemap.io/) - Cost of Living Map
-* [Mapfrappe](http://mapfrappe.com/?show=46142) or [scale-a-tron](https://stamen.github.io/scale-a-tron/) - Compare True Sizes on Land 
+* [Mapfrappe](http://mapfrappe.com/?show=46142) or [scale-a-tron](https://stamen.github.io/scale-a-tron/) - Compare True Sizes on Land
 * [Mikavaa](http://mapmerizer.mikavaa.com/) - Compare Cities
+* [MapChecking](https://www.mapchecking.com/) - Crowd Size Estimation
 * [Free Camp Sites](https://freecampsites.net/) - Free Camp Sites
-* [Wandermap](http://www.wandermap.net/) - Hiking Routes
+* [Wandermap](http://www.wandermap.net/) or [AllTrails](https://www.alltrails.com/) - Hiking Routes
 * [Runmap](http://www.runmap.net/) - Running Routes
 * [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sound Map
 * [Notable People](https://tjukanovt.github.io/notable-people) - Notable People Map
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/), [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) or [AsteroidCollision](https://asteroidcollision.herokuapp.com/) - Interactive Damage Effect Maps
 * [convert_lat_long](https://andrew.hedges.name/experiments/convert_lat_long/) - Convert Latitude/Longitude to Decimal 
 * [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - Dialect Map
-* [Helpmap](https://helpmap.io/) - Nonprofit Donation Map 
+* [Helpmap](https://helpmap.io/) - Nonprofit Donation Map
+* [What3Words](https://what3words.com/) - 3 Word Address'
 * [Hate Map](http://splcenter.org/hate-map) - Hate Group Map
 * [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Maps / Satellite View
 * [CAD Mapper](https://cadmapper.com/) - Free CAD Files
