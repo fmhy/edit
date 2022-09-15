@@ -1500,12 +1500,6 @@ pass: paluch
 
 ***
 
-#### Vanced Manager
-
-`aHR0cHM6Ly93d3cuYXBrbWlycm9yLmNvbS8/cG9zdF90eXBlPWFwcF9yZWxlYXNlJnNlYXJjaHR5cGU9YXBrJnM9dmFuY2VkK21hbmFnZXI=`
-
-***
-
 #### booksdl
 
 `aHR0cDovL2Jvb2tzZGwub3JnL2NvbWljczAv`
