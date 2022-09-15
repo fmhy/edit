@@ -282,6 +282,7 @@
 * [Twiger](https://twiger.launchaco.com/) - Share Any Tweet on Instagram
 * [Google Lens](https://lens.google/) - Multiple Camera Tools
 * [Widgetshare](https://play.google.com/store/apps/details?id=com.galew.widgetshare) - Photo Sharing App
+* [PhotoSync](https://www.photosync-app.com/home.html) - Transfer Photos Between Devices
 * [Pixomatic](https://pixomatic.us/) - Image Editor
 * [PhotoRoom](https://www.photoroom.com/) - Background Remover
 * [Dittoed](https://dittoed.app/) - Improve Image Composition
@@ -1029,6 +1030,7 @@
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
 * [CapCut](https://www.capcut.net/) - Video Editor
+* [PhotoSync](https://www.photosync-app.com/home.html) - Transfer Photos Between Devices
 * [PicsArt++](https://cokernutx.com/ipa-library/download/PicsArt.html), [2](https://picsart.com/apps) or [PhotoWizard](https://apps.apple.com/us/app/photowizard-photo-editor/id370833324) - Image Editor
 * [Tailor](http://www.trytailor.com/) - Automatic Screenshot Stitching
 * [ToonMe](https://toonme.com/) - Turn Photos into Cartoons
