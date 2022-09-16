@@ -793,7 +793,7 @@ Simulator
 * [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide
 * [Life Under the Ice](https://lifeundertheice.org/) - View Antarctic Microbes
 * [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
-* [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) - Mountain Visualizations & Info
+* [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) or [Mount Everest 3D](https://mount-everest3d.com/) - Mountain Visualizations & Info
 * [Xeno-Canto](https://www.xeno-canto.org/) - Bird Sound Identifier 
 * [Candide](https://candide.com/GB/identify-plants) or [Pl@ntNet](https://identify.plantnet.org/) - Plant Identifier
 * [nanoHUB](https://nanohub.org/) - Nanotechnology Tool Index
