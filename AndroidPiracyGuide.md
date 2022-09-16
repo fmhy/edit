@@ -446,7 +446,7 @@
 * **[nsane.down](https://www.nsaneforums.com/)**
 * **[ModdedCentral](https://t.me/ModdedCentral)** or [ModdedPrivate](https://t.me/ModdedPrivate) - Modded / Telegram
 * **[APKMirror](https://www.apkmirror.com/)** - Untouched / [Playstore Links](https://pastebin.com/TcsAJib6)
-* **[Lucky Patcher](https://www.luckypatchers.com/download/)** - Remove Ads / Free In App Purchases / App Patcher / [Guide](https://flixbox.github.io/lp-compat/docs/intro) / [Compatibility](https://flixbox.github.io/lp-compat/)
+* **[Lucky Patcher](https://www.luckypatchers.com/download/)** - Remove Ads / Free In App Purchases / App Patcher / [Guide](https://flixbox.github.io/lp-compat/docs/intro) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/)
 * **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - Repositories Index
 * **[/r/ApkApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** - Updated list of modded APK's / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)
 * **[Android FOSS](https://github.com/offa/android-foss)**, [Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md), [Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps), [/r/u_Jackie7610](https://redd.it/jhtvn4), [AAA](https://github.com/Psyhackological/AAA) or [Cool FOSS](https://albertomosconi.github.io/foss-apps/) / [GitHub](https://github.com/albertomosconi/foss-apps) - FOSS APKs
@@ -479,6 +479,7 @@
 * [APKHere](https://www.apkhere.com/) - Untouched
 * [APK Vision](https://apkvision.com/) - Untouched
 * [APKTurbo](https://www.apkturbo.com/) - Untouched
+* [Androidrey](https://androidrey.com/) - Untouched
 * [APK Award](https://apkaward.com/) - Untouched
 * [APKDL](https://apkdl.in/) - Untouched
 * [APKMonk](https://www.apkmonk.com/) - Untouched
@@ -517,6 +518,7 @@
 * [Host Apk](https://www.hostapk.com/) - Modded
 * [APK Google](https://apkgoogle.org/) - Modded
 * [ytricks](https://www.ytricks.net/) - Modded
+* [APKMaza](https://apkmaza.org/) - Modded
 * [LetsCrackOn](https://letscrackon.org/downloads/) - Modded
 * [APK Folks](https://apkfolks.com/) - Modded
 * [Thinkkers](https://thinkkers.com/) - Modded / [Discord](https://t.me/thinkkers)
@@ -541,6 +543,7 @@
 * [King Games](https://ludokinggame.com/) - Modded
 * [ApkMagic](https://apkmagic.com.ar/) - Modded 
 * [ProAPK](https://proapk.in/) - Modded
+* [APKResult](https://apkresult.com/en) - Modded
 * [TheTechNisk](https://thetechnisk.in/) - Modded
 * [Modyolo](https://modyolo.com/) - Modded
 * [ApKGod](https://apkgod.net/) - Modded 
