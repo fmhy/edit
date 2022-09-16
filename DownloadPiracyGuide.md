@@ -70,6 +70,7 @@
 * [FilmSofts](https://www.filmsofts.com/) - Video / Audio / Games / Roms / Software / Books / Comics / NSFW
 * [Warez-Serbia](https://www.warez-serbia.com/) - Video / Audio / Games / Software / Android / Books / Magazines / NSFW 
 * [DownArchive](http://downarchive.org/) - Video / Audio / Software / Games / Roms / Android / Books / Magazines
+* [AsanDL](http://asandl.com/) - Video / Audio / Games / Software / Books / Magazines / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [SceneP2P](https://www.scenep2p.com) - Video / Audio / Games / Roms / Software / Android / Books / Magazines
 * [Adit-HD](https://www.adit-hd.com/) - Video / Audio / Games / Books 
 * [Novanon](https://novanon.net/) - Video / Audio / Software / Games / Magazines / Comics / Android / Books / Courses
@@ -96,7 +97,7 @@
 * [0DayDDL](https://0dayddl.com/) - Video / Audio / Games / Software / Books / Magazines
 * [MaxRelease](http://max-rls.com/) - Video / Audio / Software / Games / Magazines
 * [BoltBB](https://boltbb.me/) - Video / Software / Games / Books / NSFW
-* [worldsrc](https://www.worldsrc.net/) - Video / Audio / Games / Software / Android
+* [WorldSRC](https://www.worldsrc.net/) - Video / Audio / Games / Software / Android / [Donate](https://www.worldsrc.net/service_end)
 * [Team OS](https://www.teamos-hkrg.com/) - Software / Games / Books / Android
 * [WarezBook](https://www.warezbook.org/) - Video / Audio / Software / Games / Books 
 * [Warez-World](https://warez-world.org/) - Video / Audio / Games / Software / Android / Books / Magazines / NSFW
@@ -217,6 +218,8 @@
 * [SoftProber](https://softprober.com/) 
 * [SCloud](https://scloud.ws/) 
 * [AllPCWorlds](https://allpcworlds.com/)
+* [HaxPC](https://haxpc.net/)
+* [Center Software](https://zuketcreation.net/)
 * [MR9Soft](https://mr9soft.com/) 
 * [DoLoad](https://doload.org/) 
 * [Downmienphi](https://downmienphi.com/)
@@ -272,6 +275,7 @@
 * [FileGuru](https://www.fileguru.com/)
 * [SnapFiles](https://www.snapfiles.com/freeware/) 
 * [apponic](https://www.apponic.com/) 
+* [DownloadCrew](https://www.downloadcrew.com/)
 * [Sordum](https://www.sordum.org/) 
 * [SoftHeap](https://www.softheap.com/) 
 * [Download3k](https://www.download3k.com/)
