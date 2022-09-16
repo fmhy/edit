@@ -132,7 +132,7 @@
 * [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - System Gaming Tweak Guide
 * [ProSettings](https://prosettings.net/) - In-Game Settings Optimization Guides
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/), [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - Gaming Optimization Guides
-* [Low Specs Experience](https://ragnotechpowered.com/) - Game Optimization Program 
+* [Low Specs Experience](https://ragnotechpowered.com/) - Game Optimization Program / [Free Code](https://redd.it/o3eteo)
 * [Magpie](https://github.com/Blinue/Magpie) - Enable AMD FSR on Any Game / [Tutorial](https://youtu.be/gac7llDa18k)
 * [Moonlight Stream](https://moonlight-stream.org/) or [Rainway](https://rainway.com/gaming) - PC Remote Play Client / [GitHub](https://github.com/moonlight-stream)
 * [Medal](https://medal.tv/) - Nvidia Shadowplay for non Nicosia cards
@@ -476,6 +476,7 @@
 * [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - MKW Rebalanced Mod / [Discord](https://discord.gg/YZxyK4f3EU)
 * [MKW Texture Hacks](https://wiki.tockdom.com/wiki/Texture_Hack_Distribution) - Custom MKW Textures
 * [Custom Track Tutorial](https://wiki.tockdom.com/wiki/Custom_Track_Tutorial) - How-to Make Custom MKW Tracks
+* [RE4HD](https://www.re4hd.com/) - Resident Evil 4 HD Mod
 * [Rekt](https://discord.com/invite/HqjQFCp) or [LinkerMod](https://github.com/Nukem9/LinkerMod) - Black Ops 1 Mod Projects
 * [Redacted](https://redacted.se/) - Black Ops 2 Mod Project
 * [Plutonium](https://plutonium.pw/) - Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)
