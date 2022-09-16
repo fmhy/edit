@@ -34,6 +34,7 @@
 * [NetU](https://netu.io/view_page.php?pid=4) - Movies / TV / / Anime / [Search](https://i.imgur.com/SiYyosZ.mp4) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)
 * [C1NE](https://c1ne.co/) - Movies / TV
 * [OpenloadMovies](https://openloadmov.net/) or [Yify TV](https://yify.plus/) - Movies / TV
+* [UltraMovies](https://ultramovies.net/) - Movies / TV
 * [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime
 * [Vumoo](https://vumoo.to/) - Movies / TV
 * [SuperNova](https://supernova.to/) - Movies / TV / Anime 
@@ -130,6 +131,7 @@
 * [WatchSeriesHD](https://www4.watchserieshd.tv/) - Movies / TV / Anime 
 * [Vmovee](https://www.vmovee.watch/) - Movies / TV
 * [StreamMovie](https://streammovie.top/) - Movies / TV
+* [Goku](https://goku.to/) - Movies / TV / Anime
 * [Filmxy](https://www.filmxy.pw/) - Movies
 * [MoviesLair](https://movielair.cc/) - Movies / TV
 * [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime
@@ -492,7 +494,8 @@
 * [WwiTv](https://wwitv.com/) - TV
 * [SquidTV](https://www.squidtv.net/) - TV
 * [PhotoCall](https://photocall.tv/) - TV
-* [puffer](https://puffer.stanford.edu/) - TV 
+* [puffer](https://puffer.stanford.edu/) - TV
+* [wwiTV](https://wwitv.com/) - TV
 * [WorldCupFootball](http://www.worldcupfootball.me/) - Sports
 * [6stream](http://6stream.xyz/) - Sports
 * [FLS](http://go.freestreams-live1.com/) - Sports / [Discord](https://discord.gg/UKEjyPEaYG)
