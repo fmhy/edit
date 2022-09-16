@@ -325,6 +325,7 @@
 * [AirMessage](https://github.com/airmessage/airmessage-android) - iMessage for Android
 * [Kubool](https://www.gdpd.xyz/) - Anonymous Confession App
 * [Encirculo](https://encirculo.org/en/) - Community Safety Network
+* [Nomad](https://www.nomadapp.me/) - Turn Any Location Into Chat
 * [OpenInWA](https://github.com/SubhamTyagi/openinwa) or [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Number Free WhatsApp Chat
 * [WhatsappWebToGo](https://github.com/92lleo/WhatsappWebToGo) - Mobile WhatsApp Web Client
 * [Whatsapp Groups](https://whatsaplinks.com/) - Whatsapp Group Links
@@ -445,7 +446,7 @@
 * **[nsane.down](https://www.nsaneforums.com/)**
 * **[ModdedCentral](https://t.me/ModdedCentral)** or [ModdedPrivate](https://t.me/ModdedPrivate) - Modded / Telegram
 * **[APKMirror](https://www.apkmirror.com/)** - Untouched / [Playstore Links](https://pastebin.com/TcsAJib6)
-* **[Lucky Patcher](https://www.luckypatchers.com/download/)** - Remove Ads / Free In App Purchases / App Patcher / [How to use](https://latestechnews.com/how-to-use-lucky-patcher/)
+* **[Lucky Patcher](https://www.luckypatchers.com/download/)** - Remove Ads / Free In App Purchases / App Patcher / [Guide](https://latestechnews.com/how-to-use-lucky-patcher/) / [Compatibility](https://flixbox.github.io/lp-compat/)
 * **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - Repositories Index
 * **[/r/ApkApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** - Updated list of modded APK's / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)
 * **[Android FOSS](https://github.com/offa/android-foss)**, [Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md), [Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps), [/r/u_Jackie7610](https://redd.it/jhtvn4), [AAA](https://github.com/Psyhackological/AAA) or [Cool FOSS](https://albertomosconi.github.io/foss-apps/) / [GitHub](https://github.com/albertomosconi/foss-apps) - FOSS APKs
@@ -468,12 +469,14 @@
 * [Fossapps Creator](https://un.pixel-fy.com/) - Fossapps Package Creator / [GitHub](https://github.com/wacko1805/Fossapps-creator)
 * [Android Zone](https://android-zone.ws/) - Forum
 * [Android App](https://techy-transistor.notion.site/5359aca6d9494ed893e57823f55499e5?v=4a68e3958c1b443fa61e25c87f96d384) - Untouched
+* [UpToDown](https://en.uptodown.com/) - Untouched
 * [APKGK](https://apkgk.com/) - Untouched
 * [AAPKS](https://aapks.com/) - Untouched
 * [APK-DL](https://apk-dl.com/) - Untouched
-* [Appvn](https://appvn.com/) - Untouched 
-* [APKCombo](https://apkcombo.com/) - Untouched 
-* [APKHere](https://www.apkhere.com/) - Untouched 
+* [APKPure](https://apkpure.com/) - Untouched
+* [Appvn](https://appvn.com/) - Untouched
+* [APKCombo](https://apkcombo.com/) - Untouched
+* [APKHere](https://www.apkhere.com/) - Untouched
 * [APK Vision](https://apkvision.com/) - Untouched
 * [APKTurbo](https://www.apkturbo.com/) - Untouched
 * [APK Award](https://apkaward.com/) - Untouched
@@ -497,6 +500,7 @@
 * [HappyMod](https://www.happymod.com/) - Modded
 * [DZAPK](https://dzapk.com/) - Modded 
 * [Apk4All](https://apk4all.com/) - Modded
+* [RexDL](https://rexdl.com/) - Modded
 * [Androidp1](https://www.androidp1.com/en/) - Modded
 * [5Play](https://5play.ru/en/) - Modded
 * [iHackedit](http://ihackedit.com/) - Modded 
@@ -1097,11 +1101,12 @@
 * **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open Source iOS App Index 
 * [AppDB](https://appdb.to/) - iOS Apps 
 * [AppAddict](https://www.appaddict.org/) - iOS Apps
+* [TrollStore](https://github.com/opa334/TrollStore) - iOS Apps / 15.0 to 15.1.1
 * [Streamiza](https://t.me/streamiza) - Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)
 * [App Cake](https://www.iphonecake.com/) - Cracked Apps / [Discord](https://discord.com/invite/TgY2Qmb)
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312)
 * [AppValley](https://www.appvalley.vip/) - Tweaked App Store
-* [Tutubox](https://tutubox.io/) - Tweaked Apps Store 
+* [Tutubox](https://tutubox.io/) - Tweaked Apps Store
 * [TweakBox](https://www.tweakboxapp.com/) - Alt App Store
 * [Cydia](https://cydia.saurik.com/) - App Store / [Paid Apps](https://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown) / [Updates](https://t.me/cydiaupdate)
 * [BuildStore](https://builds.io/) - App Store
