@@ -735,7 +735,7 @@
 * [Everpidia](https://everipedia.org/) - Encyclopedia
 * [Britannica](https://www.britannica.com/) - Encyclopedia
 * [Encyclopedia](https://www.encyclopedia.com/) - Encyclopedia
-* [Conze.pt](https://conze.pt/ ) - Encyclopedia
+* [Conze.pt](https://conze.pt/) - Encyclopedia
 * [InfoPlease](https://www.infoplease.com/) - Encyclopedia
 * [Refdesk](https://www.refdesk.com/factency.html) - Encyclopedias
 * [Abbreviations](https://www.abbreviations.com/) - Abbreviations
@@ -786,7 +786,7 @@
 * **[ReadComicsOnline](https://readcomiconline.li/)**
 * **[GetComics](https://getcomics.info/)** - Downloads / Read Online
 * **[ComicExtra](https://www.comicextra.com/)** or [Comic Online Free](https://comiconlinefree.net/) 
-* **[XOXO Comics](https://xoxocomics.com/)** 
+* **[XOXO Comics](https://xoxocomics.com/)** / [2](https://xoxocomics.net)
 * [View-Comic](https://view-comic.com/)
 * [View Comics](https://viewcomics.me/)
 * [Read Comics Online](https://readcomicsonline.ru/) 
