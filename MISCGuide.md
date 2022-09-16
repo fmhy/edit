@@ -599,7 +599,6 @@
 * [DownloadMoreRam](https://downloadmoreram.com/) - Download More Ram
 * [Watching Grass Grow](https://www.watching-grass-grow.com/) - Watch Grass Grow
 * [aaaaa](https://github.com/dkter/aaaaa) - "a" only keyboard
-* [aaaaaa.....](http://aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/) - Make URL's longer
 
 ***
 
@@ -660,6 +659,7 @@
 * [LiveScore](https://www.livescores.com/) - Live Sports Scores
 * [Scribe](https://scribe.bus-hit.me/) - Medium Frontend
 * [prompt.press](https://prompt.press/) - AI Art Inspired by News
+* [Jayto's Newsletter List](https://rentry.co/newsletters) - List of Newsletters
 
 ***
 
