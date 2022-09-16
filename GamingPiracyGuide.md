@@ -23,8 +23,8 @@
 * **[DODI](http://dodi-repacks.site/)** - [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
 * **[ScOOter Repacks](https://scooter-repacks.site/)** - [Discord](https://discord.gg/BWKyN8SgvM)
 * **[GoG Games](https://gog-games.com/)**
-* **[FreeToGame](https://www.freetogame.com/games)**, [Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) or [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - F2P Games
-* **[Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers)** - Get Scene Release Updates
+* **[FreeToGame](https://www.freetogame.com/games)**, [Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff), [Acid Play](https://acid-play.com/) or [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - F2P Games
+* **[Scene Release Trackers](https://www.reddit.com/rFREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers)** - Get Scene Release Updates
 * [DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "games" or "roms"
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - [Discord](https://discord.gg/693hNBdymb)
 * [CPG](https://cpgrepacks.site/) - [Discord](https://discord.gg/dtBSZ9N)
@@ -32,6 +32,7 @@
 * [KaOsKrew](https://www.kaoskrew.org/)
 * [Crohasit](https://crohasit.net/)
 * [NexusGames](https://nexusgames.to/) - [Discord](https://discord.gg/8YXGgy4DJj)
+* [Game3rb](https://game3rb.com/)
 * [Le Fishe Repacks](https://discord.gg/W3MfGDXhAS)
 * [ElAmigos](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
 * [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
@@ -50,12 +51,15 @@
 * [DarckRepacks](https://darckrepacks.com/) - [Discord](https://discord.gg/5eRvDvy)
 * [SPiKY Repacks](https://discord.gg/ZHC6pffMz2) - [GamesDrive Uploader](https://gamesdrive.co/)
 * [Game Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_game_drive)
+* [WorldOfPCGames](https://worldofpcgames.co/) - [Discord](https://discord.gg/fYmMD8Bg3p)
+* [AimHaven](https://www.aimhaven.com/) - Use Adblocker 
 * [AGFY](https://agfy.co/) - Use Adblocker / [Discord](https://discord.gg/WMtHAVEsY3)
 * [SteamUnlocked](https://steamunlocked.net/) - Use Adblocker / [IGG Warning](https://pastebin.com/s8dBLc4k) / [Poll Results](https://web.archive.org/web/20220329205507/https://www.reddit.com/poll/tp6695) / [Release Tracker](https://github.com/N-O-E-D/Steamunlocked)
 * [pc_game_down](https://t.me/pc_game_down) - Telegram
 * [g4u](https://g4u.to/) - Password: 404
 * [GoodOldDownloads Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_goodolddownloads_backup)
 * [PCGames-Download Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pcgames-download_backup)
+* [IRC Games](https://redd.it/x804wg) - How-to Download Games via IRC
 * [LibreGameWiki](https://libregamewiki.org/List_of_games) - FOSS Games 
 * [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Downloader](https://github.com/Emersont1/itchio) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
 * [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) - Open Source Games
@@ -105,8 +109,9 @@
 * **[Tuttop](https://tuttop.com/)** 
 * [Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f and type "games" or "roms"
 * [KaOsKrew](https://www.kaoskrew.org/)
+* [Seven Gamers](https://www.seven-gamers.com/) - [Discord](https://discord.gg/bzJkrxXXR2)
 * [CroTorrents](https://crotorrents.com/)
-* [GamesTorrents](https://www.gamestorrents.nu/)
+* [GamesTorrents](https://www.gamestorrents.fm/)
 * [Free GoG PC Games](https://freegogpcgames.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win)
 * [Rihno Games](https://rihnogames.com/)
@@ -480,7 +485,7 @@
 * [Ping Pong](http://oos.moxiecode.com/js_webgl/ping_pong/) - WebGL Ping Pong
 * [Dino Swords](https://dinoswords.gg/) - Stay Alive by Jumping / Destroying Cacti 
 * [The Circle](https://the-circle.app/) - Dodge Circles 
-* [PROXX](https://proxx.app/) - A Game of Proximity 
+* [PROXX](https://proxx.app/) - A Game of Proximity
 * [Universal paperclips](https://www.decisionproblem.com/paperclips/index2.html) - A Paperclip Creation Simulator  
 * [The Founder](https://thefounder.biz/) - Run a Start-Up 
 * [PopTropica](https://www.poptropica.com/) - Browser Adventure Game
@@ -641,6 +646,7 @@
 * [BestCrosswords](https://www.bestcrosswords.com/), [USAToday](https://games.usatoday.com/games/uclick-crossword), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
 * [LikeWordle](https://likewordle.com/), [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/), [Wordle Unlimited](https://wordleunlimited.org/), [Huedle](https://huedle.com/), [Chessle](https://jackli.gg/chessle), [BoxOfficeGA](https://boxofficega.me/), [Wordversary](https://wordversary.com/), [Wordle.nyc](https://wordle.nyc/), [Clidle](https://github.com/ajeetdsouza/clidle), [WordleGame](https://wordlegame.org/), [Py-DLE](https://py-dle.herokuapp.com/), [Tweakdle](https://tweakdle.chariz.com/) or [Wordlevs](https://wordlevs.com/) - Wordle Games / [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
+* [ChessGuessr](https://www.chessguessr.com/) - Chess Style Wordle
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles & Quizzes
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - Online Jigsaw Puzzles
 * [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - Solve a Rubix Cube / [Solver](https://rubiksolve.com/), [2](https://bnice.ru/asolver/), [3](https://rubiks-cube-solver.com/)
