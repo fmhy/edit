@@ -838,6 +838,7 @@
 * [Play](http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/) - [ZeroNet Required](https://zeronet.io/) / Movies / TV
 * [Baby Torrent](https://babytorrent.fun/) - Movies / TV
 * [Vuze](https://www.vuze.com/content/) - Movies / TV 
+* [AnyMovies](https://anymovies.xyz/) - Movies / TV 
 * [ATORRENTS](https://atorrents.com/) - Movies
 * [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)
 * [TorrentKingNow](https://torrentkingnow.co/) - Movies
