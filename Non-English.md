@@ -1345,8 +1345,13 @@
 
 * [FSOline](http://www.filmeserialeonline.org/) - Movies / TV
 * [Namaste Serials](https://namasteserials.com/) - Movies / TV
+* [VeziSeriale](https://veziseriale.org) - Movies / TV / Anime
+* [ClickSub](https://clicksud.biz) - Movies / TV
 * [Animeazu](https://www.animeazu.net/) - Anime
+* [DozaAnimată](https://www.dozaanimata.ro) - Cartoons / Anime / Movies / TV
+* [AnimeGoFansub](https://deseneanime.ro) - Anime / Manga
 * [Cool Tv Online](https://www.cool-etv.net/) - Live TV / Sports
+* [Pe4k](https://pe4k.net) - TV
 
 ## ▷ Download
 
