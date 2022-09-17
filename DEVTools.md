@@ -961,7 +961,7 @@ Automated Incident Response and Forensics Framework
 * [core-plot](https://github.com/core-plot/core-plot) - Core Plot Source Code / Apps
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) - Livecoding Resources
 * [Telosys](http://www.telosys.org/) - Code Generator
-* [snippet.host](https://snippet.host/) - Code Host
+* [snowbin](https://paste.fmhy.cf/) / [2](https://paste.bignutty.xyz/) / [3](https://paste.taskyy.cf/), [Mystb.in](https://mystb.in/) or [snippet.host](https://snippet.host/) - Code Pastebins
 * [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
 * [Autosaved](https://github.com/nikochiko/autosaved) - Autosave Code / [GitHub](https://github.com/tkellogg/dura)
 * [Tasuku](https://github.com/privatenumber/tasuku) - Node.js Task Runner
@@ -1150,8 +1150,7 @@ Automated Incident Response and Forensics Framework
 * [Arduino](https://cloud.arduino.cc/) - Cloud IDE for Arduino
 * [Blazepack](https://github.com/ameerthehacker/blazepack) - Self-Hosted Development Environment
 * [bloop](https://bloop.ai/) - IDE AI Suggestion Extension
-* [glot.io](https://glot.io/) - Pastebin with Runnable Snippets, API & Compiler 
-* [Mystb.in](https://mystb.in/) - Code Pastebin
+* [glot.io](https://glot.io/) - Pastebin with Runnable Snippets, API & Compiler
 * [Fig](https://fig.io/) - IDE-Style Autocomplete for Terminal
 * [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [IDE One](https://www.ideone.com/),  [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer), [GodBolt](https://godbolt.org/) or [Wandbox](https://wandbox.org/) - Compiler Explorers
 * [DogBolt](https://dogbolt.org/) - Decompiler Explorer
