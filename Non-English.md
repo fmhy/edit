@@ -300,7 +300,6 @@
 ## ▷ Streaming
 
 * [FilmCentralen](https://filmcentralen.dk/) - Movies 
-* [Pluto](http://pluto.tv/on-demand) - Movies / TV / Live
 * [Free TV Stream](http://www.freetvstream.in/) - TV / Sports / Live
 * [DR.DK](https://www.dr.dk/) - Movies / TV / Live 
 
