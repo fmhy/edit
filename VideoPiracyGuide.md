@@ -431,10 +431,10 @@
 
 ## ▷ Sports Streaming
 
-* **[NBAFullHD](https://nbafullhd.com/)**, [NBAFile](https://nbafile.com/), [NBAHD](https://nbahd.com/) or [NBAHDReplay](https://nbahdreplay.com/) - Full NBA games
-* **[F1 Full Races](https://f1fullraces.com/)** - F1 Replays 
+* **[NBAFullHD](https://nbafullhd.com/)**, [NBAFile](https://nbafile.com/), [NBAHD](https://nbahd.com/) or [NBAHDReplay](https://nbahdreplay.com/) - NBA
+* **[F1 Full Races](https://f1fullraces.com/)** - F1
 * **[AllWrestling](https://www.allwrestling.online/)** - MMA / Wrestling
-* [Sport Video](https://www.sport-video.org.ua/) - Sports Replays / Torrents 
+* [Sport Video](https://www.sport-video.org.ua/) - Multiple Sports / Torrents 
 * [WatchWrestling24](http://watchwrestling24.net/) - MMA / Wrestling
 * [WatchWrestling.in](https://watchwrestling.in/) - MMA / Wrestling
 * [WatchWrestling.la](https://watchwrestling.show/) - MMA / Wrestling 
@@ -446,7 +446,7 @@
 * [MMACore](https://www.mma-core.com/videos/home) - MMA
 * [BoxingBoxingvideoideo](https://boxingvideo.org/) - Boxing
 * [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / K1
-* [Racing HD](http://www.racinghd.net/) or [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Racing Replays 
+* [Racing HD](http://www.racinghd.net/) or [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports
 
 ***
 
