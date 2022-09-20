@@ -31,10 +31,8 @@
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - Python Guide
 * [CodingBat](https://codingbat.com/) or [PyQuickie](https://chrome.google.com/webstore/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - Python / Java Practice
 * [Java Beginners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_java_beginners) - Java Tutorials
-* [Python4Everyone](https://py4e.com/) - Learn Python
-* [A Byte of Python](https://python.swaroopch.com/) - Learn Python
-* [Learn Python](https://github.com/trekhleb/learn-python) - Learn Python
-* [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
+* [Python Programming Hub](https://github.com/Tanu-N-Prabhu/Python) - Python Learning Repository
+* [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Learn Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
 * [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - Python Lessons
 * [Real Python](https://realpython.com/) - Python Tutorials
 * [FutureCoder](https://futurecoder.io/), [complete python developer](https://t.me/Udemy_Python_Developer), [Python Full Course](https://youtu.be/XKHEtdqhLK8) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - Python Course
@@ -299,6 +297,7 @@
 * [AForge.NET](https://github.com/andrewkirillov/AForge.NET) - A.I. Vision Framework
 * [OpenCog](https://opencog.org/) - Artificial Intelligence Framework / [GitHub](https://github.com/opencog)
 * [awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
+* [awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Machine Learning Colabs
 * [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
 * [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
 * [Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - Open Source Data Engineering Projects
@@ -536,7 +535,8 @@ Automated Incident Response and Forensics Framework
 * [TrackMyBacklink](https://trackmybacklink.com/) - Backlink Tracker
 * [Free Backlink Builder](http://www.freebacklinkbuilder.net/) - Backlink Generator
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites 
-* [Bubble](https://bubble.io/), [WeWeb](https://www.weweb.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Symfony](https://symfony.com/) / [CLI](https://github.com/symfony-cli/symfony-cli), [Create-react-app](https://github.com/facebook/create-react-app) or [Sktch.io](https://sktch.io/) - Create Web Apps 
+* [Bubble](https://bubble.io/), [WeWeb](https://www.weweb.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Symfony](https://symfony.com/) / [CLI](https://github.com/symfony-cli/symfony-cli), [Create-react-app](https://github.com/facebook/create-react-app) or [Sktch.io](https://sktch.io/) - Create Web Apps
+* [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) - Create Web App UIs
 * [Laravel](https://laravel.com/) - Web App Framework
 * [Sandstorm](https://sandstorm.io/) or [CloudRon](https://www.cloudron.io/) - Web App Host
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
