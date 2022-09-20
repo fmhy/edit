@@ -49,25 +49,27 @@
 * [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - Movies / TV
 * [KissKH](https://kisskh.me/Explore?type=4) - Movies / TV / Anime
 * [123MoviesGoTo](https://123moviesgoto.com/) -  Movies / TV
-* [123MoviesFree](https://123moviesfree.net/) - Movies / TV / Anime
+* [123MoviesFree](https://ww1.123moviesfree.net/) - Movies / TV / Anime
 * [PressPlay](https://www.pressplay.top/) - Movies / TV
 * [StreamLord](http://www.streamlord.com/) - Movies / TV
 * [UniqueStream](https://uniquestream.net/) - Movies / TV
 * [Trailers.to](https://trailers.to/) - Movies / TV / [Bypass Quota](https://openvideofs.github.io/)
 * [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://i.imgur.com/Ij8muns.mp4)
 * [9PM](https://9pm.to/) - Movies / TV
-* [Goojara](https://www.goojara.to/), [2](https://goojara.club/) - Movies / TV / Anime
+* [Goojara](https://www.goojara.to/) - Movies / TV / Anime
 * [SpaceMov](https://spacemov.site/) - Movies / TV
 * [Cinema Shack](https://cinemashack.co/) - Movies / TV / Anime
 * [NYMeriaTV](https://nymeriatv.com/) - Movies / TV
 * [OpenloadTV](https://openloadtv.co/) - Movies
 * [Voody](https://voody-online.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [AllMoviesForYou](https://allmoviesforyou.net/) - Movies / TV 
+* [AllMoviesForYou](https://allmoviesforyou.net/) - Movies / TV
 * [MoviesDownloadHub](https://moviesdownloadhub.com/category/hollywood/) - Movies / TV
+* [FFilmClub](https://filmsclub.org/) - Movies / TV
 * [1movies](https://1movies.life/), [2](https://real-primewire.club/), [3](https://couchtuner.fashion/), [4](https://ww2.new-primewire.com/) - Movies / TV / Anime
 * [VHMovies](https://vhmovies.net/) - Movies / TV / Anime
 * [Moviehdkh](https://www.moviehdkh.com/) - Movies 
 * [Vmovee HD](https://vmoveehd.com/) - Movies / TV
+* [Flixtor.stream](https://flixtor.stream/) - Movies / TV
 * [MoviesJoy](https://moviesjoy.best/) - Movies / TV
 * [VidStore](https://stream.vidzstore.com/) - Movies
 * [MoviesUnlocked](https://moviesunlocked.com/) - Movies
@@ -110,7 +112,7 @@
 * **[HiMovies](https://www3.himovies.to/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)
 * **[PtFlixMovies](https://ptflixmovies.xyz/)** - Movies / TV / Anime
 * **[Movie-Forum](https://movie-forum.co/forum.php)** - Movies / TV
-* [HDToday](https://hdtoday.ws/) - Movies / TV
+* [IceFilms](https://icefilms.tv/) - Movies / TV
 * [AZMovies](https://azms.to/) - Movies
 * [KollaFilm](https://kollafilm.com/) - Movies / TV
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
@@ -204,7 +206,7 @@
 * [RareFilmm](https://rarefilmm.com/) - Rare Movies 
 * [3D Online Films](https://www.documentarymania.org/) - 3D Movies
 * [ElectronicNostalgia1991](https://www.youtube.com/c/ElectronicNostalgia1991/) - Movie Commentaries
-* [Classic Cinema Online](https://classiccinemaonline.com/), [BnWMovies](https://bnwmovies.com/) or [Dumb Classic Movies](http://www.dumb.com/movies/) - Classic Films
+* [Classic Cinema Online](https://classiccinemaonline.com/), [ClassixApp](https://www.classixapp.com/), [BnWMovies](https://bnwmovies.com/) or [Dumb Classic Movies](http://www.dumb.com/movies/) - Classic Films
 * [TheFilmDetective](https://thefilmdetective.tv/) - Classic Films / TV
 * [RetroVision Media](http://www.retrovisionmedia.com/) - Retro / Classic Films 
 * [horror.watch](https://horror.watch/) - Classic Horror Films
@@ -696,14 +698,17 @@
 * [Toku.fun](https://toku.fun/) - Japanese Superhero Movies
 * [Jackass Vault](https://discord.gg/ZH5MjcKmJJ) - Jackass Media
 * [TinyMKV](https://tinymkv.xyz/) - Movies / TV
+* [TodayTVSeries](http://www.todaytvseries2.com/) - TV
 * [300MBFilms](https://www.300mbfilms.com/) - Movies / TV
 * [TvShows4Mobile](https://tvshows4mobile.com/) - TV / Anime
 * [OlaMovies](https://olamovies.pro/) - HD Movies / TV / [Telegram](https://t.me/olamovies_official)
 * [UHDMV](https://uhdmv.org/) - HD Movies / TV
 * [Blu-Ray.world](https://blu-ray.world/) - HD Movies / TV
 * [4K HDR](https://4k-hdr.org/) - HD Movies / TV
+* [4K Movies](https://4kmovies.co/) - HD Movies / TV
 * [4k-hd.club](https://4k-hd.club/) - HD Movies
 * [FilmFans](https://filmfans.org/) - HD Movies
+* [3D HD]( https://3d-hd.club/) - 3D Movie ISOs
 * [IRC Movie Channels](https://pastebin.com/2AeYizZK)
 * [Gophie](https://github.com/Go-phie/gophie) or [Movies-and-Series-Scraper](https://github.com/yousefkotp/Movies-and-Series-Scraper) - Streaming Site Download CLI
 * [BaoXinh](https://tool.baoxinh.com/) - FEmbed / Mixdrop Downloader
