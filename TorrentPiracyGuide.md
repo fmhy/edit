@@ -112,6 +112,7 @@
 * [rutor.info](http://rutor.info) or [rutor.is](http://rutor.is/) - Video / Audio / Games / Software / Books / Roms / Magazines
 * [NNM-Club](https://nnmclub.to/) - Video / Audio / Software / Games / [Note](https://i.imgur.com/m42r0jU.png)
 * [Torrentz2k](https://torrentz2k.xyz/) - Video / Audio / Software / Games / NSFW
+* [Torrenting](https://www.torrenting.com/) - Video / Audio / Games / Software / Books / NSFW
 * [Legit Torrents](http://www.legittorrents.info/) - Video / Audio / Software / Books 
 * [FOSSTorrents](https://fosstorrents.com/) - FOSS Software / Games
 * [BitLord Power Search](http://85.143.175.243/) - BitLord Browser Search 
