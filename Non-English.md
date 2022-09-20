@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/Fs94a4g.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/qJCHR5d.png)** - For mobile users
 
 ***
 ***
@@ -196,6 +196,7 @@
 * [ygdy8](https://www.ygdy8.net/) - Movies / TV / Anime 
 * [Mini4k](https://www.mini4k.com/) - Movies / TV
 * [DoMP4](https://www.domp4.cc/) - Movies / TV
+* [cnwml](https://www.cnwml.com/) - Movies / TV
 * [piaohua](https://www.piaohua.com/) - Movies / TV / Anime
 * [Dytt8](https://dytt8.net/) - Movies / TV / Anime
 * [高清电台](https://gaoqing.fm/) - Movies / TV / Anime / Use VPN or Google Translate to Access
@@ -243,6 +244,7 @@
 * [haodoo](http://haodoo.net/) - Books  
 * [Pilibook](https://www.pilibook.com/) - Books
 * [ixdzs](https://tw.m.ixdzs.com/) - Books
+* [ZXCS](http://zxcs.me) - Books
 * [LoreFree](https://lorefree.com/) - Books
 * [zhongwen](http://zhongwen.com/gudian.htm) - Classic Literature
 * [AC.QQ](https://ac.qq.com/) - Manga
@@ -467,16 +469,15 @@
 ## ▷ Streaming
 
 * [StartSeite](https://startseite.to/) - Movies / TV / NSFW / List
-* [streamkiste](https://streamkiste.tv/) / [2](https://streamkiste.cx/) - Movies / TV
+* [streamkiste](https://streamkiste.tv/), [2](https://streamkiste.cx/) - Movies / TV
+* [KinoX](https://www.kinox.sx/), [2](https://www2.kinox.to/), [3](https://ww14.kinox.to/) - Movies / TV
 * [filmpalast](https://filmpalast.to/) - Movies / TV
 * [movieking](https://movieking.cc/) - Movies
 * [Film Palast](https://filmpalast.club/) - Movies / TV
-* [Kinox](https://www2.kinox.to/) - Movies / TV
 * [TopStreamFilm](https://topstreamfilm.org/) - Movies / TV
 * [kinoking](https://kinoking.cc/) - Movies / TV / Anime
 * [serienstream](https://serienstream.io/) - TV / Anime
 * [Megakino](https://megakino.co/) - Movies / TV
-* [KinoX](https://www.kinox.sx/) - Movies / TV
 * [StreamCloud](https://streamcloud.cx/) - Movies / TV
 * [BS.TO](https://www.bs.to/) - TV / Anime
 * [StreamCloud](https://www1.streamcloud.club/) - Movies / TV
@@ -668,6 +669,18 @@
 * [onlinefilmekingyen](https://www.onlinefilmekingyen.com/) - Movies 
 * [sorozatbarat](https://www.sorozatbarat.online/) - Movies / TV 
 * [filmezz](https://filmezz.co/) - Movies / TV 
+
+***
+
+# ► Icelandic 
+
+## ▷ Torrenting
+
+* [Deildu](https://deildu.net/) - Torrents
+
+## ▷ Streaming
+
+* [RÚV](https://www.ruv.is/ruv) - Live TV
 
 ***
 
@@ -912,6 +925,10 @@
 ## ▷ Downloading
 
 * [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - Audio / Telegram
+
+## ▷ Streaming
+
+* [iFlix]( https://www2.iflix.com/) - Movies / TV
 
 ## ▷ Reading
 
@@ -1613,6 +1630,7 @@
 * [Artistapirata](https://www.artistapirata.com/) - Software
 * [ProgramsVirtualePC](https://www.programasvirtualespc.net/) - Software
 * [MuchosPortables](https://www.muchosportables.com/) - Portable Software
+* [exploradoresp2p](http://exploradoresp2p.com/) - ED2K Links
 * [NashStore](https://nashstore.ru/) - App Store
 * [VictorRaulRR](https://victorraulrr.info/) - Modded APKs
 
@@ -2048,7 +2066,7 @@
 * [Pendujatt](https://www.pendujatt.net/) - Download / Music
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Download / Music
 * [Cinevez](https://cinevez.ws/) - Torrent / Download / Streaming / Movies
-* [TamilBlasters](https://tamilblasters.cloud/) - Torrent / Movies
+* [TamilBlasters](https://tamilblasters.skin/) - Torrent / Movies
 * [TamilMV](https://www.1tamilmv.golf/) - Torrent / Movies
 * [indianebooks](https://t.me/indianebooks) - Books
 * [Digital Library of India](https://dli.sanskritdictionary.com) - Books
@@ -2078,7 +2096,6 @@
 * [animesrbija](https://www.animesrbija.com/) - Serbian / Streaming / Anime
 * [ittefaq](https://www.ittefaq.com.bd/), [dainikamadershomoy](https://www.dainikamadershomoy.com/), [kalerkantho](https://www.kalerkantho.com/), [24livenewspaper](https://www.bangla.24livenewspaper.com/), [samakal](https://samakal.com/) or [prothomalo](https://www.prothomalo.com/) - Bangla Newspapers
 * [DJPunjab](https://djpunjab.is/) - Punjabi / Download / MP3
-* [RÚV](https://www.ruv.is/ruv) - Icelandic / Live TV
 * [Paper](https://paper.naya.com.np/) - Nepali Text Tools
 * [Ethio Terka](https://t.me/ethio_terka) - Amharic / Books
 * [Redzidzirdilatviju](http://www.redzidzirdilatviju.lv/en/) - Latvian / Documents
