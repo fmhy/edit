@@ -111,7 +111,7 @@
 # ► Image Generation
 
 * **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk), [Generative Engine](https://experiments.runwayml.com/generative_engine/), [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb), [Midjourney](https://www.midjourney.com/), [StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion) or [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot) - AI Image Generator
-* [hypnogram](https://hypnogram.xyz/), [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent) or [NeuralBlender](https://neuralblender.com/) - AI Art Generator
+* [hypnogram](https://hypnogram.xyz/), [AI Art Generator](https://neural.love/ai-art-generator), [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent) or [NeuralBlender](https://neuralblender.com/) - AI Art Generators
 * [Random Art](http://www.random-art.org/) - Random Art Generator
 * [Chaos Machine](https://chaosmach.com/) - Random Graphic Generator
 * [Rough.js](https://roughjs.com/) - Hand Drawn Graphic Generator
@@ -395,6 +395,7 @@
 # ► Image Tools
 
 * **[Multi-Tool Image Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_image_tool_sites)** - Multiple Image Tools
+* [Awesome Colab nNotebooks]( https://github.com/amrzv/awesome-colab-notebooks) - Image Colab Tools
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
 * [Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes) - Color Scheme / Palette Tools / [Guide](https://imgur.com/e1rBGLT)
