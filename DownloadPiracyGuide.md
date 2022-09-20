@@ -130,6 +130,7 @@
 * [FrostClick](https://www.frostclick.com/wp/) - Video / Audio / Software / Games / Books 
 * [KapitalSin](https://kapitalsin.com/) - Software / Games
 * [rsload](https://rsload.net/) - Software / Android / Games
+* [Leaker](https://leaker.me/) - Video / Audio / Games
 * [Uloz](https://ulozto.net/) - Video / Audio 
 * [ShareMania](http://sharemania.us/) - Video / Audio 
 * [Heidoc](https://www.heidoc.net/joomla/) - Software / Books / Android 
@@ -222,6 +223,7 @@
 * [Center Software](https://zuketcreation.net/)
 * [MR9Soft](https://mr9soft.com/) 
 * [DoLoad](https://doload.org/) 
+* [CrackHash](https://crackshash.com/)
 * [Downmienphi](https://downmienphi.com/)
 * [3almalt9nia](https://3almalt9nia.com/) 
 * [FreeSoftwareFiles](https://www.freesoftwarefiles.com/)
@@ -296,7 +298,8 @@
 * [Vovsoft](https://vovsoft.com/)
 * [NCH Software](https://www.nchsoftware.com/)
 * [WDZSoftware](https://wdzsoft.com/)
-* [FileEagle](https://www.fileeagle.com/) 
+* [FileEagle](https://www.fileeagle.com/)
+* [Download.io](https://www.download.io)
 * [ValleySoftware](https://valleysoftware.com.au/) 
 * [IcecreamApps](https://icecreamapps.com/) 
 * [PRVSoft](https://www.prvsoft.com/)
