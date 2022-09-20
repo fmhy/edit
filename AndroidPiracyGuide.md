@@ -230,6 +230,7 @@
 * [QuickTiles](https://f-droid.org/en/packages/com.asdoi.quicktiles/) - Quick Setting Tiles
 * [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2), [ntfy.sh](https://ntfy.sh/) or [BuzzKill](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_buzzkill) - Custom Push Notifications
 * [aodNotify](https://play.google.com/store/apps/details?id=com.jamworks.alwaysondisplay) - Notification LED
+* [TidyPanel](https://play.google.com/store/apps/details?id=com.dharmapoudel.tidypanel) - Notification Blocker
 * [AlwaysOnEdge](http://www.aoeapps.com/) - Android Customization App
 * [VirtualXposed](https://virtualxposed.com/) - Rootless Xposed Framework
 * [Palette](https://play.google.com/store/apps/details?id=com.ald.devs47.sam.beckman.palettesetups) - Custom Home Screens
@@ -258,6 +259,7 @@
 * [MacroDroid](http://macrodroid.com/) or [AutomateIt](https://www.automateitapp.com/) - Android Automation
 * [DoForMe](https://play.google.com/store/apps/details?id=com.aj.dfm) - Location Based Automation
 * [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) or [TapTap](https://github.com/KieronQuinn/TapTap) - Android Back Gesture Controls
+* [Quick Cursor](https://play.google.com/store/apps/details?id=com.quickcursor) - Cursor for Large Smartphones
 * [Naptime](https://play.google.com/store/apps/details?id=com.franco.doze) - Accelerates Android Sleep Mode
 * [JulioverneHYI](https://julio.hackyouriphone.org/) - Repository for Piracy Tools
 * [Adebar](https://codeberg.org/izzy/Adebar), [Swift Backup](https://swiftapps.org/) or [OAndBackupX](https://github.com/machiav3lli/oandbackupx) - Device Backup Tool
@@ -518,6 +520,7 @@
 * [Host Apk](https://www.hostapk.com/) - Modded
 * [APK Google](https://apkgoogle.org/) - Modded
 * [ytricks](https://www.ytricks.net/) - Modded
+* [APKModule](https://apkmodule.com/) - Modded
 * [APKMaza](https://apkmaza.org/) - Modded
 * [LetsCrackOn](https://letscrackon.org/downloads/) - Modded
 * [APK Folks](https://apkfolks.com/) - Modded
@@ -546,6 +549,7 @@
 * [APKResult](https://apkresult.com/en) - Modded
 * [TheTechNisk](https://thetechnisk.in/) - Modded
 * [Modyolo](https://modyolo.com/) - Modded
+* [PlayMods](https://m.playmods.net/) - Modded
 * [ApKGod](https://apkgod.net/) - Modded 
 * [p30afzar](https://dl.p30afzar.com/Games/) - Modded Games
 * [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
