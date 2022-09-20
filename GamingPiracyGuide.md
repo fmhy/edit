@@ -33,6 +33,7 @@
 * [Crohasit](https://crohasit.net/)
 * [NexusGames](https://nexusgames.to/) - [Discord](https://discord.gg/8YXGgy4DJj)
 * [Game3rb](https://game3rb.com/)
+* [GetGamez](https://getgamez.net/) - [Discord](https://discord.com/invite/tNhPmCU)
 * [Le Fishe Repacks](https://discord.gg/W3MfGDXhAS)
 * [ElAmigos](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
 * [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
@@ -113,6 +114,7 @@
 * [Seven Gamers](https://www.seven-gamers.com/) - [Discord](https://discord.gg/bzJkrxXXR2)
 * [CroTorrents](https://crotorrents.com/)
 * [GamesTorrents](https://www.gamestorrents.fm/)
+* [GetGamez](https://getgamez.net/) - [Discord](https://discord.com/invite/tNhPmCU)
 * [Free GoG PC Games](https://freegogpcgames.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win)
 * [Rihno Games](https://rihnogames.com/)
@@ -214,6 +216,7 @@
 * [LiftInstall](https://github.com/pineappleEA/liftinstall) - Yuzu App Installer
 * [Switch Army Knife](https://github.com/dezem/SAK) - Switch Emulator Multi-Tool
 * [EeveeSaves](https://discord.io/eeveesaves) - Switch Saves
+* [UniversalDynamicInput]( https://github.com/Venomalia/UniversalDynamicInput) - Custom Dolphin Button Pack
 * [RPCS3 Setup Guide](https://docs.google.com/document/d/1gdjNab-CtVS97jH2diPPP5tCrpBeof9-qPIRRB9-BrU/edit) - RPCS3 Emulator Setup Guide
 * [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PSCX Development Emulator
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://ps3.aldostools.org/updates.html) - Update PS3 Games
@@ -238,6 +241,7 @@
 * [Rom Pack](https://www.ROMspack.com/) - ROMs
 * [NoPayStation](https://nopaystation.com/) or [PSNDL](https://psndl.net/) - ROMs / Sony Consoles
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
+* [Xbox Fan](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_xbox_fan) - Xbox 360 ROMs / LT Firmware & FREEBOOT / [Telegram](https://t.me/xbox_fan_games)
 * [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
 * [NSWDB](http://www.nswdb.com) - Switch Release Tracker
 * [HiddenPalace](https://hiddenpalace.org/) - Game Development Media Archive
