@@ -163,7 +163,6 @@
 * [DuForum](https://duforum.in/) - Courses
 * [FreeTutorialsUS](https://www.freetutorialsus.com/course/) - Courses
 * [DL Course](https://dlcourse.org/) - Courses
-* [onlinecoursebay](https://onlinecoursebay.com/) - Courses
 * [freecourseslab](https://www.freecourseslab.com/category/course/) - Courses
 * [tut4dl](https://tut4dl.com/) - Courses
 * [galaxytuts](https://galaxytuts.blogspot.com/) - Courses
