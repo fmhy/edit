@@ -347,6 +347,7 @@
 * [HerbologyY](https://t.me/HerbologyY) - Herbology / Telegram
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
 * [UFO Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ufo_books) - UFOs
+* [ diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
 * [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
 * [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG / [Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_trove_archives)
 * [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - TTRPG Rulebooks
