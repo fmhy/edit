@@ -237,7 +237,7 @@
 ## ▷ Download Apps
 
 * **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)**
-* **[GamesDrive / SlavDoge](https://discord.gg/8J63nvSXpX)** - Deezer, Spotify, Apple Music, YouTube, Qobuz, TIDAL & SoundCloud Download Bot / [Site](https://slavart.gamesdrive.net/), [2](https://gamesdrive.net/) / [Divolt](https://slavart.divolt.xyz/) / [Upload Backup](https://s3.gamesdrive.net/)
+* **[GamesDrive / SlavDoge](https://discord.gg/8J63nvSXpX)** - Deezer, Spotify, Apple Music, YouTube, Qobuz, TIDAL & SoundCloud Download Bot / [Site](https://slavart.gamesdrive.net/), [2](https://gamesdrive.net/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk) / [Divolt](https://slavart.divolt.xyz/) / [Upload Backup](https://s3.gamesdrive.net/)
 * **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Download from Spotify
 * **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)
@@ -306,6 +306,7 @@
 * [RabbitMP3](https://www.rabbitmp3.com/) - MP3
 * [Freemp3cloud](https://freemp3cloud.com/en/) - MP3
 * [Mp3Deer](https://mp3deer.com/) - MP3
+* [MartinRadio](https://www.martinradio.com/) - MP3
 * [sixousixmusix](https://www.sixousixmusix.org/) - MP3
 * [Mixupload](https://mixupload.com/) - MP3
 * [Slider](https://slider.kz/) - MP3
@@ -355,6 +356,7 @@
 * [Take Metal](http://takemetal.org/) - Metal / MP3
 * [GetMetal Club](https://getmetal.club/) - Metal / MP3 / FLAC 
 * [Me-4U](https://me-4u.com/index.php) - Metal / MP3
+* [Nuclear Holocaust]( https://nuclear-holocaust.blogspot.com/) - Metal / FLAC
 * [Metalminos](https://metalminos.net/) - Metal / MP3
 * [HeavyMetalRarities](https://heavymetalrarities.com/) - Metal / MP3
 * [The Last Disaster](https://thelastdisaster.org/) - Metal / Hardcore / Rock / MP3 / FLAC
@@ -379,9 +381,13 @@
 * [loa2k](https://loa2k.neocities.org/) - Vaporwave
 * [nu guide](https://nuvaporwave.neocities.org/mirrors.html) - Vaporwave
 * [Vaporware.ivan](https://vaporwave.ivan.moe/list/) - Vaporwave
+* [inconstant sol](https://inconstantsol.blogspot.com/) - Jazz / MP3
 * [David W. Niven Collection](https://archive.org/details/davidwnivenjazz) - Jazz / MP3 / [Article](https://www.electronicbeats.net/the-feed/download-650-gigabytes-jazz-free/)
 * [JazznBlues](https://jazznblues.club/) - Jazz / MP3
 * [EssentialHouse](https://essentialhouse.club/) - House / MP3
+* [ProgRockVintage](https://www.progrockvintage.com/) - Vintage Progressive Rock / MP3
+* [BurningTheGround](https://burningtheground.net/) - 80s / 90s / FLAC
+* [aboutdisco](https://aboutdiscowithlove.blogspot.com/) - Disco / MP3
 * [BOXSET](https://boxset.ru/) - Classical / FLAC
 * [Classical Music Download](https://classical-music-download.com/) - Classical / FLAC
 * [chucrute com quiabo](https://rabanetecomquiabo.blogspot.com/) - Classical / MP3
@@ -391,6 +397,7 @@
 * [RnBXclusive](https://rnbxclusive1.org/) - Hip-Hop / MP3 / FLAC
 * [Rapload](https://rapload.org/) - Hip Hop / MP3
 * [HipHopa](https://hiphopa.net/) - Hip Hop / MP3
+* [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 /FLAC
 * [JPFlac](https://jpflac.com/) - Japanese / Korean / MP3 / FLAC
 * [MikuDB](http://mikudb.moe/) - Vocaloid / MP3
 * [El Rincón del Kitsune](https://archive.ph/DLjI6) - Vocaloid / MP3
