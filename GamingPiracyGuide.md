@@ -19,7 +19,7 @@
 * **[SteamRIP](https://steamrip.com/)** - [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
 * **[DyR0t(-_-t)'s Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dyr0t.28-_-t)** 
 * **[CrackHub](https://crackhub.site/)** - [Discord](https://discord.gg/T669D6weqt) / [Revolt](https://cracksupport.divolt.xyz/) / [RSS](https://scene.crackhub.site/category/iso/rss)
-* **[GamesDrive](https://gamesdrive.net/)** - [Discord](https://discord.gg/8J63nvSXpX) / [Divolt](https://gamesdrive.divolt.xyz/)
+* **[GamesDrive](https://gamesdrive.net/)** - [Discord](https://discord.gg/8J63nvSXpX) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * **[DODI](http://dodi-repacks.site/)** - [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
 * **[ScOOter Repacks](https://scooter-repacks.site/)** - [Discord](https://discord.gg/BWKyN8SgvM)
 * **[GoG Games](https://gog-games.com/)**
@@ -75,6 +75,7 @@
 * [VGPErson](https://vgperson.com/games/) - Japanese Translated Freeware Games
 * [VRPirates](https://t.me/vrpirates) or [SidequestVR](https://sidequestvr.com/) - VR Games & Guides / [Discord](https://discord.gg/D9rs7TM)
 * [VRC Arena](https://www.vrcarena.com/) - VR Resources
+* [Steam Deck Backups](https://t.me/+0T6LcMGCdApkZTg0) - Steam Deck Games
 * [Leggendaria](https://chuchy.neocities.org/leggendaria.altervista.org/archive.htm) - Bemani & Touhou Games
 * [JustEmuTarkov](https://justemutarkov.eu/) - Escape from Tarkov Emulator
 * [CWA](https://www.cwaemu.com/) - Clone Wars Adventures Emulator / [Discord](https://discord.gg/a3Ugb9dzzv)
