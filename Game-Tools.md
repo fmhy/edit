@@ -18,7 +18,7 @@
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
 * [TCNO](https://github.com/TcNobo/TcNo-Acc-Switcher) - Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?usp=sharing), [MoreFPS](https://morefps.net/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
-* [LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) - Latency Reduction
+* [LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) or [HoneCtrl](https://github.com/auraside/HoneCtrl) - Latency Reduction / FPS Fixes
 * [Fraps Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_fraps) / [2](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
 * [Nvidia Overclocking](https://github.com/LunarPSD/NvidiaOverclocking/blob/main/Nvidia%20Overclocking.md) - Nvidia Overclocking Resources
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner), [GPU Tweak lll](https://www.asus.com/campaign/GPU-Tweak-III/index.php) or [EVGA Precision X1](https://www.evga.com/precisionx1/) - Graphics Card Overclocking Tools
@@ -222,10 +222,14 @@
 * [Porofessor](https://porofessor.gg/) - Live League of Legends Game Stats
 * [Dota2ProTracker](https://www.dota2protracker.com/) or [16-Bits](https://16-bits.org/) - Dota 2 Stats Tracker
 * [WoWProgress](https://www.wowprogress.com) or [CheckPVP](https://www.check-pvp.fr/) - WoW Rankings
+* [FallGuysStats](https://github.com/ShootMe/FallGuysStats) or [Fallalytics](https://fallalytics.com/) - Fall Guys Stat Trackers
+* [Pancake Patcher](https://gamebanana.com/tools/7382) - Fall Guys String Patcher
+* [FallGuysDB](https://fallguys-db.pages.dev/) - Fall Guys Store & Show Rotations
 * [Project Era](https://erafn.glitch.me/#downloads) - Play Old Fortnite Seasons
 * [HaloDotAPI](https://developers.halodotapi.com/) - Halo Stats, MOTD & UGC API
 * [Universal VPN Fixer](https://github.com/samfisherirl/VPNGamingPauser/) - Auto Pause VPN While Gaming Online
 * [Slippi](https://slippi.gg/) - Super Smash Bros Melee Online 
+* [GrassCutter](https://grasscutter.io/) - Genshin Impact 2.3-2.6 Server Software / [Discord](https://discord.gg/T5vZU6UyeG)
 * [Among Us Free Chat Unlocker](https://github.com/Vili1/Among-us-Free-Chat-unlocker/releases/) - Among Us Chat Unlocker
 * [CrewLink](https://github.com/ottomated/CrewLink) - Among Us Proximity Chat
 * [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server
@@ -495,11 +499,13 @@
 * [Forza Painter](https://github.com/forza-painter/forza-painter) - Import Images to Forza
 * [Silent Hill 2: Enhanced Edition](http://enhanced.townofsilenthill.com/SH2/) - Silent Hill 2 Mod Project
 * [ETS2Planet](https://www.ets2planet.net/) or [EuroTruckSimulator2](https://www.eurotrucksimulator2.uk/) - Euro Truck Simulator 2 Mods
+* [Small GD Mods](https://matcool.github.io/mods) - Geometry Dash Mods / [Discord](https://discord.com/invite/K9Kuh3hzTC)
 * [Superblt](https://superblt.znix.xyz/) - Payday 2 Modding Tool
 * [Payday 2 FPS Boost](https://steamcommunity.com/sharedfiles/filedetails/?id=1933473710) - Payday 2 FPS Boost Mod List
 * [RimWorldBase](https://www.rimworldbase.com/) - RimWorld Mods
 * [StellarisMods](http://stellarismods.net/) - Stellaris Mods
 * [SMods](https://smods.ru/) - Cities: Skylines Mods
+* [Guitar Hero World Tour: Definitive Edition](https://ghwt.de/) - Guitar Hero: World Tour Mod
 * [NFSMods](https://nfsmods.xyz/home) or [Project Unite](https://discord.com/invite/3F6vEyp) - Need for Speed Mods
 * [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)
 * [Project ECLISE & Grind Thousand](https://discord.gg/PtfwpAznUB) - Plants vs. Zombies 2 Rebalance Mods / [YouTube](https://www.youtube.com/c/goodpea2)
