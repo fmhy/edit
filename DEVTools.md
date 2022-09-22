@@ -138,6 +138,7 @@
 * [Typing.io](https://typing.io/) - Typing Practice for Programmers 
 * [Karel The Robot](https://github.com/fredoverflow/karel) - Basic Programming Teaching Environment
 * [HackersFriend](https://www.hackersfriend.com/tutorials/) - Competitive Programming Tutorials
+* [algonds](https://github.com/MaciejWas/algonds) - Competitive Programming Practice
 * [Data Engineering Practice Problems](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice 
 * [High Assurance Rust](https://highassurance.rs/) - Software Development Guide
 * [The Linux Kernel](https://www.kernel.org/doc/html/latest/) - Linux Kernel Development Guides / [Archives](https://kernel.org/)
@@ -384,7 +385,7 @@
 * [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools) 
 * [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/) or [Domainr](https://domainr.com/) - Domain Availability Check 
 * [TinyDomain](https://tinydomain.net/) - Short Domain Suggestions
-* [WorthBuck](https://worthbuck.com/) - Domain Price Estimations
+* [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
 * [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
 * [NetLib.re](http://netlib.re/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains 
 * [TheDev](https://thedev.id/) or [Dev.page](https://dev.page/) - Free Developer Subdomains
@@ -404,6 +405,7 @@
 * [securitytxt](https://securitytxt.org/) - Create security.txt Files
 * [FingerprintJS](https://fingerprintjs.com/) - Browser Fingerprinting Library / [GitHub](https://github.com/fingerprintjs/fingerprintjs/)
 * [Teler](https://github.com/kitabisa/teler) - HTTP Intrusion Detection
+* [HTTPToolkit](https://httptoolkit.tech/) - Debug, Test & Build with HTTP(S)
 * [GHH](http://ghh.sourceforge.net/) or [IP Intelligence](http://getipintel.net/) - Malicious Web Traffic Protection
 * [VanwaTech](https://vanwa.tech/cdn) - Smart CDN
 * [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTP Sites Leak Information
@@ -590,20 +592,20 @@ Automated Incident Response and Forensics Framework
 * [Theos](https://theos.dev/) - Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
 * [New Software](https://github.com/ardalis/new-software-project-checklist) - Project Decision Checklist
 * [Servo](https://servo.org/) - Experimental Browser Engine
-* [Gummy](https://gummyjs.vercel.app/) - Easily Build Javascript Programs 
+* [Gummy](https://gummyjs.vercel.app/) - Easily Build Javascript Programs
 * [NASM](https://www.nasm.us/) - Program Assembler
 * [Radicle](https://radicle.xyz/) - P2P Software Development
 * [Pakkly](https://pakkly.com/) - Desktop App Deployment
 * [Dotnet Content Creators](https://github.com/matthiasjost/dotnet-content-creators) - .NET Content Creators Index
 * [dotnet releaser](https://github.com/xoofx/dotnet-releaser) - Automate Release of .NET Applications
 * [Pencil](http://pencil.evolus.vn/) - Software Mockup Tool / [GitHub](https://github.com/evolus/pencil)
-* [GNUnet](https://gnunet.org/en/) - Software Framework 
-* [Slint](https://github.com/slint-ui/slint) - GUI Development Tool 
-* [Kuker](https://github.com/krasimir/kuker) - Debug Applications 
+* [GNUnet](https://gnunet.org/en/) - Software Framework
+* [Slint](https://github.com/slint-ui/slint) - GUI Development Tool
+* [Kuker](https://github.com/krasimir/kuker) - Debug Applications
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - HTTP Proxy
 * [BugSnag](https://www.bugsnag.com/) - Application Stability Monitor
 * [98.css](https://jdan.github.io/98.css/) - Build Windows 98 Themed Interfaces / [GitHub](https://github.com/jdan/98.css)
-* [Radare](https://rada.re/r/), [Flare IDA](https://github.com/mandiant/flare-ida), [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://github.com/rizinorg/cutter) - Reverse Engineering 
+* [Radare](https://rada.re/r/), [Flare IDA](https://github.com/mandiant/flare-ida), [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit), [Frida](https://frida.re/), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://github.com/rizinorg/cutter) - Reverse Engineering 
 * [aarch64-sysreg-ida](https://github.com/TrungNguyen1909/aarch64-sysreg-ida) - IDA Plugin to View Armv8 MSRs
 * [Kubeorbit](https://github.com/teamcode-inc/kubeorbit) - Application Testing / Debugging
 * [Redis](https://redis.io/) - Key-Value Database
@@ -669,6 +671,7 @@ Automated Incident Response and Forensics Framework
 * [MobileApp-Pentest-Cheatsheet](https://github.com/fuzz-security/MobileApp-Pentest-Cheatsheet) - Mobile App Penetration Test Index
 * [Uiautomator2](https://github.com/openatx/uiautomator2) or [Appium](http://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
 * [MSTG](https://github.com/OWASP/owasp-mstg) - App Security Testing / Reverse Engineering
+* [jadx](https://github.com/skylot/jadx) - Dex to Java Decompiler
 * [Privado](https://github.com/Privado-Inc/privado) - Generate App Privacy Reports
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App
 * [PM2](https://pm2.keymetrics.io/) - Process Manager
@@ -744,6 +747,7 @@ Automated Incident Response and Forensics Framework
 * [Loot](https://www.lootproject.com/) - Randomized Adventure Game Gear
 * [UE Viewer](https://www.gildor.org/en/projects/umodel) - Unreal Engine Model Viewer / [GitHub](https://github.com/gildor2/UEViewer)
 * [Bleeper](https://pixwlk.itch.io/bleeper) - Game Sound Effects Creator
+* [Engine Simulator](https://www.engine-sim.parts/) - Engine Sound Simulator / [GitHub](https://github.com/ange-yaghi/engine-sim)
 * [Electronic Arts GitHub](https://github.com/electronicarts) - EA GitHub Repos
 * [Game UI Database](https://www.gameuidatabase.com/) - Game UI / UX Database
 * [CharPad](https://subchristsoftware.itch.io/charpad-free-edition) - Commodore 64 Graphics Editor
