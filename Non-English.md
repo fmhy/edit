@@ -99,6 +99,7 @@
 * [Manga Plus](https://t.me/Manga_Plus_Ar) - Manga
 * [manganoon](https://manganoon.com/) - Manga
 * [mangarabic](https://mangarabic.com/) - Manga
+* [3asq](https://3asq.org/) - Manga
 * [mnhaestate](https://mnhaestate.com/) - Manga
 * [GManga](https://gmanga.me/) - Manga
 * [soramanga](https://soramanga.com/) - Manga
@@ -578,14 +579,14 @@
 * [MoviesRush](https://moviesrush.quest/) - Movies
 * [MoviezAddiction](https://moviezaddiction.lol/) - Movies / TV / [Telegram](https://t.me/moviezaddiction3)
 * [MKVHub](https://www.mkvhub.town/) - Movies / TV
-* [Full4Movies](https://www.full4movies.wiki/) - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
+* [Full4Movies](https://www.full4movies.digital/) - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
 * [SouthFreak](https://southfreak.click/) - Movies
 * [Watch Online Movies](https://www.movies-watch.com.pk/) - Movies
 * [UncutHD](https://www.uncuthd.guru/) - Movies
-* [PrMovies](https://prmovies.pics/) - Movies / TV / [Telegram](https://t.me/+VozFopt7yyE4Y2Fl)
+* [PrMovies](https://prmovies.homes/) or [yomovies](https://yomovies.skin/) - Movies / TV / Anime / [Telegram](https://t.me/+VozFopt7yyE4Y2Fl)
 * [Bolly4u](https://bolly4u.onl/) - Movies
 * [9xflix](https://9xflix.skin/) - Movies
-* [ExtraMovies](https://extramovies.onl/) - Movies
+* [ExtraMovies](https://extramovies.loan/) - Movies
 * [RemaxHD](https://remaxhd.live/) - Movies / TV
 * [AnimeAcademy](https://animeacademy.in/) - Anime
 * [ToonWorld4All](https://www.toonworld4all.me/) - Cartoons / Anime
@@ -617,6 +618,7 @@
 * [desicinemas](https://desicinemas.tv/) - Movies / TV
 * [moviemora](https://moviemora.com/) - Movies / TV
 * [toroflixhd](https://toroflixhd.ml/) - Movies / TV
+* [hdmovie2](https://hdmovie2.click/) - Movies
 * [hindimoviestv](https://www.hindimoviestv.com/) - Movies
 * [WatchOnlineMovies88](https://watchonlinemovies88.com.pk/) - Movies
 * [TVBolly](https://www.tvbollypro.com/) - Movies / TV
@@ -2045,9 +2047,10 @@
 * [tamilgun](https://tamilgun.bio/) -  Streaming / Movies / TV
 * [uWatchFree](https://uwatchfree.be/) - Streaming / Movies / TV
 * [streamblasters](https://streamblasters.live/) - Streaming / Movies
+* [5movierulz](https://5movierulz.ms/) - Streaming / Movies
 * [khatrimazafull](https://khatrimazafull.show/) - Streaming / Download / Movies
 * [7MovieRulz.es](https://7movierulz.es/) - Stream / Torrent / Movies / [Telegram](https://t.me/movierulztv)
-* [Movierulz](https://movierulzhd.vin/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
+* [Movierulz](https://ww5.movierulzhd.biz/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
 * [MovieRulz.art](https://movierulzlink.art/) - Streaming / Movies
 * [TamilRockers](https://www.tamilrockermovies.org/), [2](https://www.tamilrockermovies.ca/) - Streaming / Torrent / Movies
 * [HiidudeMoviez](https://ww1.4hiidude.me/) - Streaming / Torrent / Movies / [Telegram](https://telegram.me/hiidudemoviez)
@@ -2056,18 +2059,18 @@
 * [1jalshamoviez](https://www.1jalshamoviez.info/) - Download / Movies
 * [Movies Counter](https://moviescounter.se/) - Download / Movies
 * [FilmyGod](https://filmygod7.in/) - Movies / [Telegram](https://t.me/+TT_cQkr00BnhM2eA)
-* [CineVood](https://cinevood.sbs/) - Download / Movies
+* [CineVood](https://cinevood.homes/) - Download / Movies
 * [Mallumv](https://mallumv.run/), [2](https://tttttt.me/mallumvoff) - Download / Movies
 * [DVDPlay](https://dvdplay.sbs/) - Download / Movies
 * [Movies Point](https://sdmoviespoint.city/) - Download / Movies
-* [SSR Movies](https://www.ssrmovies.city/) - Download / Movies / [Telegram](https://t.me/SSRmovies2022), [2](https://telegram3.xyz/)
-* [MkvMoviesPoint](https://mkvmoviespoint.cc/) - Download / Movies / [Telegram](https://telegram.me/mkvpoint)
+* [SSR Movies](https://www.ssrmovies.wine/) - Download / Movies / [Telegram](https://t.me/SSRmovies2022), [2](https://telegram3.xyz/)
+* [MkvMoviesPoint](https://mkvmoviespoint.one/) - Download / Movies / [Telegram](https://telegram.me/mkvpoint)
 * [DownloadHub](https://downloadhub.plus/) - Download / Movies / [Telegram](https://t.me/downloadhubcool1)
 * [Pendujatt](https://www.pendujatt.net/) - Download / Music
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Download / Music
 * [Cinevez](https://cinevez.ws/) - Torrent / Download / Streaming / Movies
-* [TamilBlasters](https://tamilblasters.skin/) - Torrent / Movies
-* [TamilMV](https://www.1tamilmv.golf/) - Torrent / Movies
+* [TamilBlasters](https://tamilblasters.skin/) - Torrent / Movies / [Proxy](https://tamilblasters.unblockit.ist/)
+* [TamilMV](https://www.1tamilmv.loan/) - Torrent / Movies
 * [indianebooks](https://t.me/indianebooks) - Books
 * [Digital Library of India](https://dli.sanskritdictionary.com) - Books
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - Radio
